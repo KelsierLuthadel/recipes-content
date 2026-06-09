@@ -159,7 +159,7 @@ Pastry was placed on a cold tray, or the filling soaked through. Use a preheated
 ## Where Next
 - [Croissant and Danish](croissant-and-danish.md): laminated dough with yeast and eggs, the enriched cousin.
 - [Choux Pastry](choux.md): completely different cooked-paste dough.
-- [Puff Pastry recipe](../../baking/pastry/puff-pastry.md): canonical full lamination recipe with exact quantities.
+- [Puff Pastry recipe](../../baking/pastry/puff-pastry.md): traditional full lamination recipe with exact quantities.
 - [Rough Puff Pastry recipe](../../baking/pastry/rough-puff-pastry.md): the cheat's-version recipe.
 - [Pastry Course landing](pastry.md): back to the main course.
 

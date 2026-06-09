@@ -2,7 +2,7 @@
 
 ![Puri and bhatura](resources/puri.jpg)
 
-*Puri is the small puffed sphere — the size of a tennis ball — that puffs dramatically in hot oil. Bhatura is the larger oval cousin — the canonical pairing for chole. Both are deep-fried; both are festive; both are easy to make at home with a wok and oil.*
+*Puri is the small puffed sphere — the size of a tennis ball — that puffs dramatically in hot oil. Bhatura is the larger oval cousin — the traditional pairing for chole. Both are deep-fried; both are festive; both are easy to make at home with a wok and oil.*
 
 ## Overview
 
@@ -86,7 +86,7 @@ The whole frying time per puri is 30-45 seconds. The puff is the visible sign th
 3. Dip in oil on both sides.
 4. Roll into an oval shape (not round!) — about 20-25 cm long, 12-15 cm wide, 3-4 mm thick.
 
-The oval shape is canonical. Round bhaturas exist but the oval is what you'd find in Delhi street stalls.
+The oval shape is traditional. Round bhaturas exist but the oval is what you'd find in Delhi street stalls.
 
 ### Frying
 
@@ -127,7 +127,7 @@ Salty wheat-flour biscuit-like fried bread. Eaten as a snack with pickle or chut
 
 ## Halwa-Puri and Chole-Bhature
 
-These are the two canonical pairings:
+These are the two traditional pairings:
 
 ### Halwa-Puri (Punjabi breakfast)
 - Puri (the deep-fried unleavened wheat bread).

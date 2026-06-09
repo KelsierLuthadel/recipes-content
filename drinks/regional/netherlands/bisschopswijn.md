@@ -26,7 +26,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 - 1 thin slice fresh ginger (5 mm thick, optional)
 - 4-5 tablespoons soft dark brown sugar (or to taste; less if you prefer drier; more for sweeter)
 - (Optional: 1 vanilla pod, split lengthwise)
-- (Optional: 60 ml dark rum or brandy added at the end for extra warmth - the canonical Sinterklaas adult variant)
+- (Optional: 60 ml dark rum or brandy added at the end for extra warmth - the traditional Sinterklaas adult variant)
 
 ### To finish (per mug)
 - A small slice of fresh orange, floated on top
@@ -37,7 +37,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 - 6 small heavy ceramic mugs (about 200 ml each), pre-warmed
 - A small spoon for stirring
 - A plate of speculaas biscuits, pepernoten, or taai-taai cookies alongside
-- A wool blanket and a winter evening (the canonical Dutch winter atmosphere)
+- A wool blanket and a winter evening (the traditional Dutch winter atmosphere)
 
 ## Method
 
@@ -70,7 +70,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 2. Add more sugar if too sour; more orange juice if too sweet; a small extra splash of cardamom or clove if you want more spice.
 
 ### Stage 6 - Optional fortification
-1. For the canonical Sinterklaas adult variant: turn off the heat; stir in 60 ml of dark rum or brandy. The added spirit brings warmth back to a bisschopswijn that's been simmered a long time.
+1. For the traditional Sinterklaas adult variant: turn off the heat; stir in 60 ml of dark rum or brandy. The added spirit brings warmth back to a bisschopswijn that's been simmered a long time.
 
 ### Stage 7 - Strain and serve
 1. Pre-warm 6 small ceramic mugs with hot water; tip out.
@@ -84,7 +84,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 1. Place a small plate of speculaas biscuits, pepernoten or taai-taai cookies in the centre of the table.
 2. Sip the bisschopswijn slowly; the aroma rises with the steam.
 3. The drink is meant to last 15-20 minutes of an evening - refill once or twice.
-4. The canonical Dutch winter evening: a Christmas Eve dinner finished, the candles lit, the bisschopswijn warm, the company unhurried.
+4. The traditional Dutch winter evening: a Christmas Eve dinner finished, the candles lit, the bisschopswijn warm, the company unhurried.
 
 ## Notes
 - **Don't boil:** the most common bisschopswijn mistake. Boiling cooks off the alcohol and creates an unpleasant cooked-wine flavour. 80-85°C is the sweet spot.
@@ -98,7 +98,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 **Bisschopswijn with raisins (the older tradition):** add 100 g raisins to the steep; the raisins absorb wine and become a small treat eaten with a spoon from the bottom of the mug - the historical 19th-century Dutch variant.
 **Bisschopswijn with apple:** add 1 chopped apple (Bramley or Granny Smith) to the steep - more autumn-fruit-forward.
 **White bisschopswijn (modern):** swap red wine for a sturdy white (Riesling, dry Tokaji); reduce the cinnamon; add more cardamom and ginger - the modern Dutch tea-room variant.
-**Brandy-fortified bisschopswijn (canonical Sinterklaas):** add 60 ml brandy or dark rum at the end - the canonical adult drink.
+**Brandy-fortified bisschopswijn (traditional Sinterklaas):** add 60 ml brandy or dark rum at the end - the traditional adult drink.
 **Mulled cider variant (cidersbisschopswijn):** swap the red wine for sturdy cider; the same spices and citrus - the Dutch cider-region variant.
 **Quick weeknight bisschopswijn:** use a pre-made mulling-spice bag; warm with red wine, orange juice and brown sugar for 8 minutes - 10 minutes total.
 **Glühwein (German cousin):** less citrus peel, more cinnamon and clove; usually no cardamom; sometimes a slice of fresh ginger. The German version.
@@ -107,7 +107,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 **Non-alcoholic bisschopswijn:** swap the red wine for 750 ml of unsweetened pomegranate juice + 250 ml of red grape juice; same spices and citrus - works surprisingly well.
 
 ## Serving
-At a Dutch Sinterklaas (5 December) family gathering (the canonical setting) · at a Dutch Christmas Eve dinner · at an Amsterdam Christmas market hot-drink stall · at a Dutch ice-skating festival shelter · at a Dutch winter family Sunday lunch · at a Dutch sledding-and-return-home ritual · at home as the canonical December evening drink · paired with speculaas, pepernoten, taai-taai, gingerbread, or a small chunk of mature Dutch cheese.
+At a Dutch Sinterklaas (5 December) family gathering (the traditional setting) · at a Dutch Christmas Eve dinner · at an Amsterdam Christmas market hot-drink stall · at a Dutch ice-skating festival shelter · at a Dutch winter family Sunday lunch · at a Dutch sledding-and-return-home ritual · at home as the traditional December evening drink · paired with speculaas, pepernoten, taai-taai, gingerbread, or a small chunk of mature Dutch cheese.
 
 ## Storage
 - Refrigerates 3 days; reheats well on the stovetop (don't boil).

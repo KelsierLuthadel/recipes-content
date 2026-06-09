@@ -2,7 +2,7 @@
 
 ![Misir Wat](resources/misir-wat.jpg)
 
-*Ethiopia's red lentil stew: bright orange from berbere, deep with onion that's been cooked nearly to nothing, and rich with niter kibbeh (spiced butter). Eaten by mopping with injera; vegan if made with oil instead of butter.*
+*Ethiopia's red lentil stew: bright orange from berbere, deep with onion that's been cooked nearly to nothing, and rich with niter kibbeh (spiced butter). Eat by mopping with injera; vegan if made with oil instead of butter.*
 
 **Serves:** 4
 

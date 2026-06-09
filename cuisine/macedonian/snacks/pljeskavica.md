@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Pljeskavica (from "pljesak" - "clap"; refers to the slapping motion of forming the patties) is the iconic Balkan grilled-meat dish. The construction: a mix of minced pork and beef (50/50 is canonical) is combined with finely diced raw onion, salt, pepper, paprika and bicarbonate of soda (the secret tenderiser); rested 2 hours minimum; formed into wide thin discs (15 cm wide, 1 cm thick - much wider and thinner than a typical burger); grilled over wood coals till charred and just cooked. Served in soft flatbread (lepinja) with kajmak, raw onion, ajvar and pickled chillies.
+Pljeskavica (from "pljesak" - "clap"; refers to the slapping motion of forming the patties) is the iconic Balkan grilled-meat dish. The construction: a mix of minced pork and beef (50/50 is traditional) is combined with finely diced raw onion, salt, pepper, paprika and bicarbonate of soda (the secret tenderiser); rested 2 hours minimum; formed into wide thin discs (15 cm wide, 1 cm thick - much wider and thinner than a typical burger); grilled over wood coals till charred and just cooked. Served in soft flatbread (lepinja) with kajmak, raw onion, ajvar and pickled chillies.
 
 ## Ingredients
 - 500 g minced pork
@@ -40,15 +40,15 @@ Pljeskavica (from "pljesak" - "clap"; refers to the slapping motion of forming t
 3. Cover; refrigerate 2 hours (the rest is essential).
 4. Divide into 4 equal portions.
 5. Wet your hands; flatten each portion into a wide thin disc (15 cm wide, 1 cm thick).
-6. Heat grill (wood coals canonical; gas grill works) to very high heat.
+6. Heat grill (wood coals traditional; gas grill works) to very high heat.
 7. Grill 4-5 minutes per side till charred outside and just cooked through.
 8. Rest 2 minutes.
 9. Split lepinja; spread with kajmak; add pljeskavica; top with raw onion, ajvar, pickled chillies, tomato.
 
 ## Notes
-- **Wide and thin:** the canonical Balkan shape; cooks fast.
+- **Wide and thin:** the traditional Balkan shape; cooks fast.
 - **Rest the mix 2 hours:** essential for binding and tenderising.
-- **Very high heat:** the char is the canonical look.
+- **Very high heat:** the char is the traditional look.
 
 ## Variations
 **Pljeskavica leskovačka:** Serbian-style; stuffed with cheese, ham, peppers.
@@ -58,7 +58,7 @@ Pljeskavica (from "pljesak" - "clap"; refers to the slapping motion of forming t
 **With ćevapi:** small fingers instead of discs.
 
 ## Serving
-At a Macedonian grill house (canonical) · at a Macedonian wedding · at home with friends and a cold beer · alongside ajvar and shopska salad.
+At a Macedonian grill house (traditional) · at a Macedonian wedding · at home with friends and a cold beer · alongside ajvar and shopska salad.
 
 ## Storage
 Raw mixture refrigerates 2 days. Cooked refrigerates 3 days; reheat in pan.

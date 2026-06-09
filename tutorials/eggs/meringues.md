@@ -119,6 +119,6 @@ Eggs scrambled. The bowl got too hot on the bain-marie. Keep below 65 C.
 - [Custards](custards.md): the yolk-side cousin.
 - [Souffles](souffles.md): meringue + custard = souffle.
 - [Eggs Course landing](eggs.md): back to the main course.
-- [Meringue Francais recipe](../../baking/meringue/meringue-francais.md): canonical French meringue.
-- [Meringue Italienne recipe](../../baking/meringue/meringue-italienne.md): canonical Italian meringue.
-- [Meringue Suisse recipe](../../baking/meringue/meringue-suisse.md): canonical Swiss meringue.
+- [Meringue Francais recipe](../../baking/meringue/meringue-francais.md): traditional French meringue.
+- [Meringue Italienne recipe](../../baking/meringue/meringue-italienne.md): traditional Italian meringue.
+- [Meringue Suisse recipe](../../baking/meringue/meringue-suisse.md): traditional Swiss meringue.

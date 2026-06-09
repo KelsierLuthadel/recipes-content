@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Leberkäse is Austria's beloved lunch-counter staple: a flat baked meat loaf made from finely ground beef and pork emulsified with crushed ice into a pale pink mousse-like mass, seasoned with marjoram, mace, white pepper and grated onion, then baked till the top turns deep gold and the inside stays moist and tender. Sliced thick and laid hot into a fresh kaiser roll with a smear of sharp Austrian mustard, it's the canonical food of every Würstelstand in Vienna, the snack you eat standing up between meetings. Despite the name (literally "liver cheese"), most modern versions contain neither liver nor cheese; the words are believed to derive from the German laib (loaf) rather than the ingredients. The smooth pink mousse-like texture, quite different from a regular meatloaf's loose crumb, is the dish's signature.
+Leberkäse is Austria's beloved lunch-counter staple: a flat baked meat loaf made from finely ground beef and pork emulsified with crushed ice into a pale pink mousse-like mass, seasoned with marjoram, mace, white pepper and grated onion, then baked till the top turns deep gold and the inside stays moist and tender. Sliced thick and laid hot into a fresh kaiser roll with a smear of sharp Austrian mustard, it's the traditional food of every Würstelstand in Vienna, the snack you eat standing up between meetings. Despite the name (literally "liver cheese"), most modern versions contain neither liver nor cheese; the words are believed to derive from the German laib (loaf) rather than the ingredients. The smooth pink mousse-like texture, quite different from a regular meatloaf's loose crumb, is the dish's signature.
 
 ## Ingredients
 

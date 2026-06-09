@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national spirit - distilled from fermented fruit by virtually every Macedonian rural family. The most common varieties: slivova rakija (from plums), lozova rakija (from grapes), and dunkina rakija (from quinces). Homemade rakija from a neighbour or family is generally stronger (50-60% ABV) than commercial (40-45% ABV) and is offered with pride at every Macedonian visit. Served chilled or room temperature in small thick glasses, usually 50 ml shots. Drunk neat - sipping is the canonical Macedonian way (not shooting). The opening "živeli!" (cheers!) is mandatory before the first sip; eye contact is mandatory.
+Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national spirit - distilled from fermented fruit by virtually every Macedonian rural family. The most common varieties: slivova rakija (from plums), lozova rakija (from grapes), and dunkina rakija (from quinces). Homemade rakija from a neighbour or family is generally stronger (50-60% ABV) than commercial (40-45% ABV) and is offered with pride at every Macedonian visit. Served chilled or room temperature in small thick glasses, usually 50 ml shots. Drunk neat - sipping is the traditional Macedonian way (not shooting). The opening "živeli!" (cheers!) is mandatory before the first sip; eye contact is mandatory.
 
 ## Ingredients
 
@@ -35,12 +35,12 @@ Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national 
 5. Sip slowly.
 
 ## Notes
-- **Sip, don't shot:** the canonical Macedonian way.
+- **Sip, don't shot:** the traditional Macedonian way.
 - **Small glass:** 50 ml is appropriate.
 - **Live the meze tradition:** with cheese and cured meat.
 
 ## Variations
-**Slivova rakija:** the canonical plum brandy.
+**Slivova rakija:** the traditional plum brandy.
 **Lozova rakija:** grape brandy.
 **Dunkina rakija:** quince brandy.
 **Mastika:** anise-flavoured rakija.
@@ -48,7 +48,7 @@ Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national 
 **Honey rakija:** rakija with honey.
 
 ## Serving
-Before every Macedonian meal (aperitif, the canonical setting) · after every Macedonian meal (digestif) · with cheese and cured meat as meze · at a Macedonian wedding · as a Macedonian guest welcome · at home for visitors.
+Before every Macedonian meal (aperitif, the traditional setting) · after every Macedonian meal (digestif) · with cheese and cured meat as meze · at a Macedonian wedding · as a Macedonian guest welcome · at home for visitors.
 
 ## Storage
 Bottles keep indefinitely. Don't refrigerate (mutes the aromas). Once opened, drink within 2 years.

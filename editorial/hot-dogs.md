@@ -18,7 +18,7 @@ over the dog with raw chopped onion and yellow mustard. Carolina piles
 red cabbage slaw on top of chili. Memphis wraps the dog in bacon and
 drowns it in BBQ sauce. Seattle smears cream cheese on the bun, then
 piles cabbage, jalapeños and sriracha on top. New York keeps it minimal:
-sauerkraut, the canonical pinkish onion sauce, yellow mustard. Bagel
+sauerkraut, the traditional pinkish onion sauce, yellow mustard. Bagel
 shops wrap the dog in everything-bagel dough and bake it golden.
 
 Latin America loaded it up. Tijuana wraps in bacon, grills the bell

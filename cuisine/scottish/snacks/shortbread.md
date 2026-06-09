@@ -2,7 +2,7 @@
 
 ![Shortbread](resources/shortbread.jpg)
 
-*Scotland's iconic biscuit: just three ingredients (butter, sugar, flour) at a 2:1:3 ratio, mixed gently, pressed into a tin, scored into petticoat-tail fingers or rounds, and baked till pale-golden. The world's most exported Scottish food product; the canonical tea-time biscuit; the bridge between Scotland's bakery tradition and its world reputation.*
+*Scotland's iconic biscuit: just three ingredients (butter, sugar, flour) at a 2:1:3 ratio, mixed gently, pressed into a tin, scored into petticoat-tail fingers or rounds, and baked till pale-golden. The world's most exported Scottish food product; the traditional tea-time biscuit; the bridge between Scotland's bakery tradition and its world reputation.*
 
 **Serves:** Makes 12-16 pieces
 
@@ -66,7 +66,7 @@ Shortbread is Scotland's most famous and most exported food product. Documented 
 ### Stage 6 - Score again while warm
 1. Remove from oven.
 2. Immediately re-score along the original score lines (cutting all the way through this time - the warm shortbread cuts cleanly).
-3. Sprinkle generously with caster sugar (the canonical Scottish finish; gives a slight sugary crunch).
+3. Sprinkle generously with caster sugar (the traditional Scottish finish; gives a slight sugary crunch).
 
 ### Stage 7 - Cool and remove
 1. Cool in the tin for 15 minutes.
@@ -75,14 +75,14 @@ Shortbread is Scotland's most famous and most exported food product. Documented 
 4. Break along the score lines.
 
 ### Stage 8 - Serve and store
-1. Serve with strong tea (canonical), coffee, or a small dram of single malt.
+1. Serve with strong tea (traditional), coffee, or a small dram of single malt.
 2. Store in a sealed tin.
 
 ## Notes
 - **The 2:1:3 ratio is sacred:** 200 g butter, 100 g sugar, 300 g flour. Don't deviate.
-- **Good butter matters:** use the best butter you can afford. Scottish butter is canonical. Don't use spreadable margarine - texture is wrong.
+- **Good butter matters:** use the best butter you can afford. Scottish butter is traditional. Don't use spreadable margarine - texture is wrong.
 - **Don't overwork:** the more you handle the dough, the tougher it becomes. Quick mix, light press.
-- **Pale-golden, NOT brown:** brown shortbread is overbaked. Pale-golden is the canonical Scottish finish.
+- **Pale-golden, NOT brown:** brown shortbread is overbaked. Pale-golden is the traditional Scottish finish.
 - **Score twice - before baking (lightly) and immediately after baking (fully):** the warm-cutting trick gives clean breaks.
 
 ## Variations
@@ -98,7 +98,7 @@ Shortbread is Scotland's most famous and most exported food product. Documented 
 **Lavender shortbread:** add 1 teaspoon dried culinary lavender - floral, modern.
 
 ## Serving
-At every Scottish high tea (the canonical pairing with strong tea) · at a Scottish hotel afternoon-tea service · as a tourist gift in tartan-printed tins from any Edinburgh shop · alongside a dram of single malt as the canonical Scottish whisky-and-shortbread pairing · in a Christmas-stocking gift box · at a Burns Night supper as the after-dinner biscuit with coffee · at home with a cup of breakfast tea on a Saturday morning.
+At every Scottish high tea (the traditional pairing with strong tea) · at a Scottish hotel afternoon-tea service · as a tourist gift in tartan-printed tins from any Edinburgh shop · alongside a dram of single malt as the traditional Scottish whisky-and-shortbread pairing · in a Christmas-stocking gift box · at a Burns Night supper as the after-dinner biscuit with coffee · at home with a cup of breakfast tea on a Saturday morning.
 
 ## Storage
 - Keeps in a sealed tin (with a small piece of bread to maintain texture) for 2 weeks at room temperature.

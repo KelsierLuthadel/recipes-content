@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Bife a lo pobre (literally "poor man's steak", though the dish is actually quite extravagant) is the canonical Chilean and Argentine working-class plate and a beloved diner classic in both countries: a thick beef steak grilled to medium-rare, plated alongside a heap of hand-cut fried potatoes, two sunny-side-up fried eggs with runny yolks, and a heap of sautéed sliced onions. The name is ironic given the substantial size of the plate; the origin is the early-20th-century worker's lunch when steak was relatively affordable in Chile and Argentina, served with whatever could pad it out. All four components live on the same plate, and the combination is the dish. Hand-cut fries, not bagged frozen chips; twice-fried for proper crispness. Sunny-side-up eggs whose yolks run into the steak and fries; the runniness is the point.
+Bife a lo pobre (literally "poor man's steak", though the dish is actually quite extravagant) is the traditional Chilean and Argentine working-class plate and a beloved diner classic in both countries: a thick beef steak grilled to medium-rare, plated alongside a heap of hand-cut fried potatoes, two sunny-side-up fried eggs with runny yolks, and a heap of sautéed sliced onions. The name is ironic given the substantial size of the plate; the origin is the early-20th-century worker's lunch when steak was relatively affordable in Chile and Argentina, served with whatever could pad it out. All four components live on the same plate, and the combination is the dish. Hand-cut fries, not bagged frozen chips; twice-fried for proper crispness. Sunny-side-up eggs whose yolks run into the steak and fries; the runniness is the point.
 
 ## Ingredients
 

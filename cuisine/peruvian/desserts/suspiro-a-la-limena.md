@@ -2,7 +2,7 @@
 
 ![Suspiro a la Limeña](resources/suspiro-a-la-limena.jpg)
 
-*Lima's most iconic dessert: a creamy dulce de leche-based "manjar blanco" (Latin American milk caramel cooked with egg yolks till thick and pale gold) layered in small glasses, topped with a generous pillow of fluffy port-wine-flavoured Italian meringue, dusted with ground cinnamon. The name (translating loosely as "Lima lady's sigh") was given by the 19th-century poet José Gálvez who said the dessert was "soft and sweet as the sigh of a Lima lady". Eaten in small portions at the end of every Peruvian celebratory meal.*
+*Lima's most iconic dessert: a creamy dulce de leche-based "manjar blanco" (Latin American milk caramel cooked with egg yolks till thick and pale gold) layered in small glasses, topped with a generous pillow of fluffy port-wine-flavoured Italian meringue, dusted with ground cinnamon. The name (translating loosely as "Lima lady's sigh") was given by the 19th-century poet José Gálvez who said the dessert was "soft and sweet as the sigh of a Lima lady". Eat in small portions at the end of every Peruvian celebratory meal.*
 
 **Serves:** 6 small glasses
 
@@ -85,9 +85,9 @@ Suspiro a la Limeña is Lima's signature dessert: intensely sweet, generous, una
 - **Constant stirring for the manjar:** the egg-yolk-cream mixture catches and burns within seconds of stopping. A wooden spoon, low heat, never look away.
 - **Soft-ball stage for the port syrup:** 115°C. Use a sugar thermometer; estimating temperature is a recipe for failure.
 - **Italian meringue is stable:** unlike French meringue (raw egg whites + sugar), Italian meringue is "cooked" by the hot syrup poured in. Stable for hours; safe for unbaked use.
-- **Small glasses are non-negotiable:** the dessert is intensely sweet. 50-80 ml is the canonical Peruvian portion.
+- **Small glasses are non-negotiable:** the dessert is intensely sweet. 50-80 ml is the traditional Peruvian portion.
 - **Don't substitute the port:** the deep wine flavour is the dish's character. A non-alcoholic version uses 100 ml of red grape juice + 1 tablespoon balsamic vinegar (works but is different).
-- **Cinnamon dust at the end:** the canonical Peruvian finish.
+- **Cinnamon dust at the end:** the traditional Peruvian finish.
 
 ## Variations
 **Vanilla suspiro:** swap the port-wine meringue for plain Italian meringue + a vanilla bean - the milder variant.
@@ -99,7 +99,7 @@ Suspiro a la Limeña is Lima's signature dessert: intensely sweet, generous, una
 **Larger format (one large dish):** make in a single large bowl; serve scooped into small bowls - the family-style version.
 
 ## Serving
-At a Lima family Sunday lunch as the dessert course (the canonical setting) · at a Peruvian wedding · at a Peruvian Independence Day (28 July) dinner · at a Lima criolla restaurant · at a Peruvian fine-dining dessert menu · at home as a make-ahead dinner-party finisher · paired with a small glass of Peruvian pisco or a strong espresso.
+At a Lima family Sunday lunch as the dessert course (the traditional setting) · at a Peruvian wedding · at a Peruvian Independence Day (28 July) dinner · at a Lima criolla restaurant · at a Peruvian fine-dining dessert menu · at home as a make-ahead dinner-party finisher · paired with a small glass of Peruvian pisco or a strong espresso.
 
 ## Storage
 - The manjar blanco refrigerates 1 week; freezes 3 months in airtight containers.

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Nigeria's "swallow" base: the starchy ball that catches every spoonful of egusi, okra or pepper soup. Fermented cassava flour (akpu) stirred into hot water with a wooden turning stick (omoge) till a soft, sticky dough comes together. A heavy non-stick or thick aluminium pot is essential; stainless steel makes fufu stick badly. The flour goes in in thirds, each addition beaten hard till the mass thickens; by the third the dough pulls cleanly from the sides and forms a single elastic mass. Gathered with wet hands into a single ball and transferred to a covered bowl. Eaten warm within the hour: pinch off a small ball with the right hand, make a depression with your thumb, scoop up a piece of stew, swallow without chewing. Fufu is meant to glide down with the stew.
+Nigeria's "swallow" base: the starchy ball that catches every spoonful of egusi, okra or pepper soup. Fermented cassava flour (akpu) stirred into hot water with a wooden turning stick (omoge) till a soft, sticky dough comes together. A heavy non-stick or thick aluminium pot is essential; stainless steel makes fufu stick badly. The flour goes in in thirds, each addition beaten hard till the mass thickens; by the third the dough pulls cleanly from the sides and forms a single elastic mass. Gathered with wet hands into a single ball and transferred to a covered bowl. Eat warm within the hour: pinch off a small ball with the right hand, make a depression with your thumb, scoop up a piece of stew, swallow without chewing. Fufu is meant to glide down with the stew.
 
 ## Ingredients
 

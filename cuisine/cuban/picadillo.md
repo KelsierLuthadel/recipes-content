@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-most iconic Cuban dish after ropa vieja. Minced beef (or a mix of beef and pork) cooks with sofrito, sliced onions, bell peppers, garlic, tomato, tomato paste, olives, capers, raisins (yes, raisins, the canonical Cuban sweet element that balances the savoury), warm spices and a splash of dry white wine into a thick fragrant beef hash. What sets the Cuban version apart from Mexican picadillo is the sweet-savoury balance from those raisins, plus the briny hit from olives and capers. The home-cook tradition adds a fried egg with a runny yolk on top of each plate so the yolk runs into the beef. The dish is what every Cuban family makes on a weeknight: quick, accessible and absolutely Cuban in flavour. Also the canonical filling for Cuban empanadas, papas rellenas (stuffed potatoes) and Cuban tamales. Eaten over plain white rice with black beans and sweet plantains.
+Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-most iconic Cuban dish after ropa vieja. Minced beef (or a mix of beef and pork) cooks with sofrito, sliced onions, bell peppers, garlic, tomato, tomato paste, olives, capers, raisins (yes, raisins, the traditional Cuban sweet element that balances the savoury), warm spices and a splash of dry white wine into a thick fragrant beef hash. What sets the Cuban version apart from Mexican picadillo is the sweet-savoury balance from those raisins, plus the briny hit from olives and capers. The home-cook tradition adds a fried egg with a runny yolk on top of each plate so the yolk runs into the beef. The dish is what every Cuban family makes on a weeknight: quick, accessible and absolutely Cuban in flavour. Also the traditional filling for Cuban empanadas, papas rellenas (stuffed potatoes) and Cuban tamales. Eat over plain white rice with black beans and sweet plantains.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-mos
 - 1 fresh red chilli (sliced, optional)
 - Juice of 1 lime
 
-### To serve (the canonical Cuban plate)
+### To serve (the traditional Cuban plate)
 - Plain white rice
 - Black beans
 - Sweet plantains (maduros)
@@ -92,11 +92,11 @@ Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-mos
 6. Sliced avocado, lime wedges, and a small salad.
 
 ## Notes
-- **Raisins are canonical Cuban:** the sweet-savoury balance distinguishes Cuban picadillo from Mexican. Don't skip unless you really don't like them.
+- **Raisins are traditional Cuban:** the sweet-savoury balance distinguishes Cuban picadillo from Mexican. Don't skip unless you really don't like them.
 - **Olives and capers for brininess:** essential Cuban character.
 - **20% fat in the beef:** lean beef gives dry picadillo. Use proper meat with fat.
 - **Cinnamon stick is the secret:** the small amount gives Cuban picadillo its warm-spice depth. Don't substitute with ground cinnamon (too dominant).
-- **Fried egg on top:** the canonical Cuban home-cook addition. Yolk runs into the picadillo. Worth it.
+- **Fried egg on top:** the traditional Cuban home-cook addition. Yolk runs into the picadillo. Worth it.
 
 ## Variations
 **Picadillo with potatoes (picadillo con papas):** add 2 cubed potatoes to the pan in stage 4; cook with the picadillo till tender. Common variation; turns the dish into a heartier one-pot.
@@ -105,11 +105,11 @@ Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-mos
 **Vegetarian picadillo (picadillo de soya):** swap the beef for textured vegetable protein (TVP) or crumbled tofu; keep all other ingredients the same. Surprisingly excellent.
 
 ## Serving
-On wide plates with the canonical Cuban sides: white rice, black beans, plantains, fried egg, avocado, lime. With a cold Cristal beer (Cuban) or fresh mojito. As an everyday family dinner.
+On wide plates with the traditional Cuban sides: white rice, black beans, plantains, fried egg, avocado, lime. With a cold Cristal beer (Cuban) or fresh mojito. As an everyday family dinner.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.
 - Reheat gently in a covered pan over low heat with a splash of water.
 - Freezes 3 months in portions; defrost in the fridge.
-- Day-old picadillo is the canonical filling for Cuban empanadas, papas rellenas and Cuban tamales.
+- Day-old picadillo is the traditional filling for Cuban empanadas, papas rellenas and Cuban tamales.
 - Often deliberately made the day before for the proper flavour.

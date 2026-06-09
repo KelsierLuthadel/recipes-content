@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Camarones enchilados is Cuba's most beloved shrimp dish and a coastal-Cuban specialty. In Cuban Spanish, "enchilado" means "in spicy sauce", not the Mexican rolled tortilla dish (the name catches plenty of people out). Large shrimp simmer in a sofrito-tomato base with sliced onions, bell peppers, crushed garlic, white wine, a splash of dry sherry, sliced olives, capers, bay leaves and Aleppo pepper, till the sauce reduces into a thick orange-red coating around them. The sofrito-tomato base is what makes the dish Cuban rather than generic shrimp-in-tomato, and the splash of dry sherry is the canonical Cuban touch that adds a slightly sweet depth. Don't overcook the shrimp: they go from sweet to rubbery in sixty seconds, so add them at the end and cook for three or four minutes maximum. Cubans make this dish when they want seafood with more substance than the simpler camarones al ajillo. Eaten over plain white rice with black beans, sweet plantains and a fresh salad.
+Camarones enchilados is Cuba's most beloved shrimp dish and a coastal-Cuban specialty. In Cuban Spanish, "enchilado" means "in spicy sauce", not the Mexican rolled tortilla dish (the name catches plenty of people out). Large shrimp simmer in a sofrito-tomato base with sliced onions, bell peppers, crushed garlic, white wine, a splash of dry sherry, sliced olives, capers, bay leaves and Aleppo pepper, till the sauce reduces into a thick orange-red coating around them. The sofrito-tomato base is what makes the dish Cuban rather than generic shrimp-in-tomato, and the splash of dry sherry is the traditional Cuban touch that adds a slightly sweet depth. Don't overcook the shrimp: they go from sweet to rubbery in sixty seconds, so add them at the end and cook for three or four minutes maximum. Cubans make this dish when they want seafood with more substance than the simpler camarones al ajillo. Eat over plain white rice with black beans, sweet plantains and a fresh salad.
 
 ## Ingredients
 
@@ -97,7 +97,7 @@ Camarones enchilados is Cuba's most beloved shrimp dish and a coastal-Cuban spec
 
 ## Notes
 - **Don't overcook the shrimp:** 3-4 minutes maximum. Pink and just-opaque; not rubbery.
-- **Sofrito Cubano:** the canonical base. Don't skip.
+- **Sofrito Cubano:** the traditional base. Don't skip.
 - **Dry sherry is the Cuban touch:** adds a slight sweetness that distinguishes the dish.
 - **Olives and capers for brininess:** Cuban character.
 - **Add shrimp at the end:** the sauce should be fully developed before shrimp go in.

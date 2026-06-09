@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-The Pacific Northwest indigenous technique that has spread to every Canadian and American backyard barbecue: salmon rested on a soaked cedar plank over a hot grill, glazed with brown sugar and maple, gently smoked rather than directly grilled. The plank smokes from below while the slow radiated heat cooks the fish from above; the salmon ends up faintly forest-scented, cured at the edges, just-set in the centre. The plank must be untreated cedar and must be soaked for an hour minimum under a weight; a dry plank ignites, a soaked one smokes. A brief dry cure of brown sugar, flaky salt, crushed juniper and black pepper tightens the flesh; the canonical glaze is maple, lemon zest and Dijon. Served from the plank with lemon wedges; the salmon lifts off in clean pieces, leaving the skin behind on the wood.
+The Pacific Northwest indigenous technique that has spread to every Canadian and American backyard barbecue: salmon rested on a soaked cedar plank over a hot grill, glazed with brown sugar and maple, gently smoked rather than directly grilled. The plank smokes from below while the slow radiated heat cooks the fish from above; the salmon ends up faintly forest-scented, cured at the edges, just-set in the centre. The plank must be untreated cedar and must be soaked for an hour minimum under a weight; a dry plank ignites, a soaked one smokes. A brief dry cure of brown sugar, flaky salt, crushed juniper and black pepper tightens the flesh; the traditional glaze is maple, lemon zest and Dijon. Served from the plank with lemon wedges; the salmon lifts off in clean pieces, leaving the skin behind on the wood.
 
 ## Ingredients
 

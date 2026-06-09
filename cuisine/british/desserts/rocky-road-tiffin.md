@@ -9,7 +9,7 @@
 **Prep Time:** 20 minutes (plus 2 hours chilling)
 
 ## Overview
-A hybrid: the no-bake biscuit base from a classic Scottish tiffin meets the marshmallow-and-nut load of an American rocky road. The base is digestives crushed mostly fine with some chunkier pieces, melted into butter-cocoa-syrup, mixed with mini marshmallows, glace cherries (optional), chopped pecans or hazelnuts, and chunks of fudge or honeycomb. Pressed into a tin, capped with milk chocolate, criss-crossed with white-chocolate drizzle. The chocolate top sets fast in the fridge; the marshmallows give the bake its characteristic uneven, rocky-looking surface where they push up against the chocolate.
+Rocky road tiffin is the cross-Atlantic hybrid that takes the no-bake biscuit base of a classic Scottish tiffin and loads it with the marshmallow-and-nut pile of an American rocky road, so the slab reads as both at once. The base is digestives crushed mostly fine with a few chunkier pieces left in for textural contrast (uniform crumb gives a dense disappointing bite), bound in a butter-cocoa-golden-syrup mixture that stays pliable straight from the fridge rather than splintering when cut. Mini marshmallows, optional glacé cherries, chopped pecans or hazelnuts and chunks of fudge or honeycomb fold through the base for the rocky-road textural pile. Pressed firm into a tin and capped with melted milk chocolate, the surface gets the traditional white-chocolate drizzle in criss-crossed lines for the bakery-counter look. The marshmallows push up against the chocolate top as it sets, giving the characteristic uneven rocky-looking surface that names the dish. Chilled till firm, cut into squares with a hot knife. Eat cold from the fridge with strong tea.
 
 ## Ingredients
 

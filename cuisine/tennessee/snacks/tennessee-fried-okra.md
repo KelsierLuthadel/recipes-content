@@ -2,7 +2,7 @@
 
 ![Tennessee Fried Okra](resources/tennessee-fried-okra.jpg)
 
-*Tennessee's crispy Southern vegetable snack: fresh okra pods sliced into rounds, tossed in buttermilk, dredged in seasoned cornmeal, and deep-fried till the rounds are golden and crispy. The Southern garden-to-table classic; the canonical accompaniment to BBQ and fried catfish.*
+*Tennessee's crispy Southern vegetable snack: fresh okra pods sliced into rounds, tossed in buttermilk, dredged in seasoned cornmeal, and deep-fried till the rounds are golden and crispy. The Southern garden-to-table classic; the traditional accompaniment to BBQ and fried catfish.*
 
 **Serves:** 4-6
 
@@ -77,7 +77,7 @@ Tennessee fried okra is a classic Southern-Tennessee summer vegetable dish: fres
 **With pickle:** brine okra in pickle juice 1 hour first.
 **Spicier:** double cayenne.
 **Whole pods:** fry whole; longer cook time.
-**Air-fried:** less canonical but lower fat.
+**Air-fried:** less traditional but lower fat.
 
 ## Serving
 Alongside BBQ, fried chicken, catfish.

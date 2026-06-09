@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The Cajun take on mac and cheese, with the Southern heat dial turned up to where you'd expect at a Louisiana cookout. You build a creamy béchamel base, fold in sharp white cheddar with a generous splash of hot sauce and a hit of Cajun seasoning, then toss the lot through hot pasta until every shape is coated. The whole thing goes into a baking dish, gets a topping of more grated cheese, and slides under a hot grill until the top is bubbling and freckled deep gold. Eaten as a side at a barbecue or as the centre of a weeknight plate with a green salad and a beer. Comfort food with backbone.
+The Cajun take on mac and cheese, with the Southern heat dial turned up to where you'd expect at a Louisiana cookout. You build a creamy béchamel base, fold in sharp white cheddar with a generous splash of hot sauce and a hit of Cajun seasoning, then toss the lot through hot pasta until every shape is coated. The whole thing goes into a baking dish, gets a topping of more grated cheese, and slides under a hot grill until the top is bubbling and freckled deep gold. Eat as a side at a barbecue or as the centre of a weeknight plate with a green salad and a beer. Comfort food with backbone.
 
 ## Ingredients
 ### Pasta

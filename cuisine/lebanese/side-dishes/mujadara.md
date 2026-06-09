@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Lebanon's everyday rice-and-lentils dish and the one-pot supper that anchors a weekday meal with a small cucumber-yogurt salad on the side: brown lentils and basmati cooked together with two batches of onion (one cooked deep mahogany and folded through for sweetness, one crisped separately and piled on top for texture). The deep mahogany caramelisation is the dish's character; rushed onions give a flat dish. Use brown or green lentils, never red (red dissolves into mush and loses the textural contrast that makes mujadara what it is). The lentil cooking water becomes the rice's cooking liquid; that's where the savoury depth comes from. Two onions cooked into the pot, plus a third fried crisp and piled on top, is the canonical ratio. Eaten as a vegetarian main or a side, with cucumber-yogurt salad whisked with dried mint and pita on the table.
+Lebanon's everyday rice-and-lentils dish and the one-pot supper that anchors a weekday meal with a small cucumber-yogurt salad on the side: brown lentils and basmati cooked together with two batches of onion (one cooked deep mahogany and folded through for sweetness, one crisped separately and piled on top for texture). The deep mahogany caramelisation is the dish's character; rushed onions give a flat dish. Use brown or green lentils, never red (red dissolves into mush and loses the textural contrast that makes mujadara what it is). The lentil cooking water becomes the rice's cooking liquid; that's where the savoury depth comes from. Two onions cooked into the pot, plus a third fried crisp and piled on top, is the traditional ratio. Eat as a vegetarian main or a side, with cucumber-yogurt salad whisked with dried mint and pita on the table.
 
 ## Ingredients
 

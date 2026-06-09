@@ -17,10 +17,10 @@ Kaffepunch (also called "kaffe med skipper", coffee with a skipper) is one of De
 
 ### Per serving
 - 200 ml strong hot black coffee (freshly brewed; filter or French press; not weak American filter)
-- 30-40 ml Aalborg Taffel Akvavit (the canonical Danish; see [Aalborg Akvavit recipe](aalborg-akvavit.md))
+- 30-40 ml Aalborg Taffel Akvavit (the traditional Danish; see [Aalborg Akvavit recipe](aalborg-akvavit.md))
 - 1 small sugar cube (or 1 teaspoon brown sugar)
 - 1 small piece of orange peel (optional; for fragrance)
-- A pinch of ground cinnamon or grated nutmeg (optional, less canonical)
+- A pinch of ground cinnamon or grated nutmeg (optional, less traditional)
 
 ### Equipment
 - A small heat-safe coffee cup or mug (about 250ml)
@@ -61,7 +61,7 @@ Kaffepunch (also called "kaffe med skipper", coffee with a skipper) is one of De
 
 ## Notes
 - **STRONG coffee:** weak coffee is overpowered by the akvavit. Brew strong.
-- **Generous akvavit (the "coin" measure):** the canonical Danish farmhouse ratio. About 1 part akvavit to 5-6 parts coffee.
+- **Generous akvavit (the "coin" measure):** the traditional Danish farmhouse ratio. About 1 part akvavit to 5-6 parts coffee.
 - **Cold akvavit + hot coffee:** the contrast is part of the experience.
 - **Drink slowly:** not a shot. A warming ritual for cold afternoons.
 - **Optional sugar:** some Danes drink it black + akvavit only, no sugar.
@@ -69,7 +69,7 @@ Kaffepunch (also called "kaffe med skipper", coffee with a skipper) is one of De
 ## Variations
 **Kaffe med ister (coffee with ice cream):** swap the akvavit for a scoop of vanilla ice cream - a modern dessert-coffee variant.
 **Karsk (Norwegian style):** swap the akvavit for moonshine (homebrew); the Norwegian truck-driver's stronger version.
-**With Bailey's or cream liqueur:** less canonical, more modern (Irish coffee influence).
+**With Bailey's or cream liqueur:** less traditional, more modern (Irish coffee influence).
 **With dark rum or brandy:** swap the akvavit for dark rum (Danish-rum-tradition version) or brandy.
 **Iced kaffepunch (summer version):** chill the coffee, add akvavit and ice - a non-traditional summer cocktail variant.
 **Skipperkaffe (large mug version):** a bigger pour; the "skipper" (sailor / farm-hand) version with extra akvavit.

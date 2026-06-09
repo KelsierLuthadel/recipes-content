@@ -55,7 +55,7 @@ Country ham with red eye gravy is one of the South's most distinctive breakfast 
 6. Strawberry jam, hot sauce, more coffee at the table.
 
 ## Notes
-- **Country ham canonical:** look for "country ham" at Southern markets.
+- **Country ham traditional:** look for "country ham" at Southern markets.
 - **Coffee for deglaze:** essential for proper red eye.
 - **Don't overcook ham:** already cured.
 - **Eat immediately.**

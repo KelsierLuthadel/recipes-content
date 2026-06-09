@@ -2,7 +2,7 @@
 
 ![Syrian Kabsa](resources/kabsa-syrian.jpg)
 
-*Syria's spiced rice-and-chicken one-pot: long-grain rice cooked through with onion, garlic, tomato and the canonical Levantine spice mix (cumin, coriander, cinnamon, cardamom, allspice, black lime), a bone-in chicken laid on top and slow-roasted till the rice absorbs the chicken juices and the spice profile becomes layered. The Damascus dinner-table classic shared with the wider Arabian peninsula.*
+*Syria's spiced rice-and-chicken one-pot: long-grain rice cooked through with onion, garlic, tomato and the traditional Levantine spice mix (cumin, coriander, cinnamon, cardamom, allspice, black lime), a bone-in chicken laid on top and slow-roasted till the rice absorbs the chicken juices and the spice profile becomes layered. The Damascus dinner-table classic shared with the wider Arabian peninsula.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Syrian kabsa is the Damascus and Aleppo variation of the famous spiced rice-and-meat dish that spans the Arabian peninsula and the Levant. Long-grain rice (basmati is canonical) cooks in a generous chicken broth with onion, tomato, garlic and the layered Levantine spice mix: cumin, coriander, cinnamon, cardamom, allspice, black pepper and the canonical touch of dried black lime (loomi), which gives the rice its faintly bitter floral character. A whole bone-in chicken sits on top and roasts together with the rice, its fat and juices dripping down into the grains as it cooks. The Syrian version sits alongside Saudi kabsa, Yemeni mandi and Emirati machboos; it distinguishes itself with heavier use of black lime, a less heat-forward Levantine spice profile and a tomato-rich rice. Don't boil the rice in plain water; absorbing the chicken broth is what gives the layered flavour. Served on a platter with toasted almonds and pine nuts, chopped parsley, a tomato-cucumber salad and a yogurt sauce on the side.
+Syrian kabsa is the Damascus and Aleppo variation of the famous spiced rice-and-meat dish that spans the Arabian peninsula and the Levant. Long-grain rice (basmati is traditional) cooks in a generous chicken broth with onion, tomato, garlic and the layered Levantine spice mix: cumin, coriander, cinnamon, cardamom, allspice, black pepper and the traditional touch of dried black lime (loomi), which gives the rice its faintly bitter floral character. A whole bone-in chicken sits on top and roasts together with the rice, its fat and juices dripping down into the grains as it cooks. The Syrian version sits alongside Saudi kabsa, Yemeni mandi and Emirati machboos; it distinguishes itself with heavier use of black lime, a less heat-forward Levantine spice profile and a tomato-rich rice. Don't boil the rice in plain water; absorbing the chicken broth is what gives the layered flavour. Served on a platter with toasted almonds and pine nuts, chopped parsley, a tomato-cucumber salad and a yogurt sauce on the side.
 
 ## Ingredients
 
@@ -139,7 +139,7 @@ Syrian kabsa is the Damascus and Aleppo variation of the famous spiced rice-and-
 
 ## Variations
 **Lamb kabsa:** swap the chicken for 1.2 kg of lamb shoulder cubed; brown the same way; increase cooking time to 60 minutes before adding rice. Traditional festive Syrian variant.
-**Vegetarian kabsa:** skip the meat; double the spices and aromatics; add 200 g of chickpeas (canned) and 2 medium aubergines (cubed) for body. Less canonical but valid.
+**Vegetarian kabsa:** skip the meat; double the spices and aromatics; add 200 g of chickpeas (canned) and 2 medium aubergines (cubed) for body. Less traditional but valid.
 **Saffron kabsa:** add ½ teaspoon of saffron threads infused in 2 tablespoons of warm water to the rice cooking liquid; gives a golden colour and floral note. Common celebration variation.
 **Aleppo-style with pomegranate molasses:** add 2 tablespoons of pomegranate molasses to the tomato base; gives a sweet-sour Aleppo profile.
 

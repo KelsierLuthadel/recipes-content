@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktail and the country's most-consumed mixed drink: an estimated 350+ million are drunk each year, more than any single American cocktail. It was invented in 1969 at the Calgary Inn by Italian-Canadian bartender Walter Chell, designing a signature drink inspired by the spaghetti alle vongole he'd eaten in Italy. He blended canned clam broth with tomato juice, added vodka and Worcestershire, and named it after Caesar (both the Roman emperor and the salad). Mott's soon bottled the clam-tomato blend as Clamato, which remains essential. Three things distinguish a Caesar from a Bloody Mary: the Clamato mixer gives the briny umami backbone; the celery-salt rim (a 50/50 mix of fine sea salt and celery seed) is the canonical touch; and the modern Sunday-brunch garnish piles on a pickled bean, crisp bacon, cheese, sometimes a grilled prawn or an entire chicken wing. The legendary "Sunday Caesar" can be a meal in itself.
+The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktail and the country's most-consumed mixed drink: an estimated 350+ million are drunk each year, more than any single American cocktail. It was invented in 1969 at the Calgary Inn by Italian-Canadian bartender Walter Chell, designing a signature drink inspired by the spaghetti alle vongole he'd eaten in Italy. He blended canned clam broth with tomato juice, added vodka and Worcestershire, and named it after Caesar (both the Roman emperor and the salad). Mott's soon bottled the clam-tomato blend as Clamato, which remains essential. Three things distinguish a Caesar from a Bloody Mary: the Clamato mixer gives the briny umami backbone; the celery-salt rim (a 50/50 mix of fine sea salt and celery seed) is the traditional touch; and the modern Sunday-brunch garnish piles on a pickled bean, crisp bacon, cheese, sometimes a grilled prawn or an entire chicken wing. The legendary "Sunday Caesar" can be a meal in itself.
 
 ## Ingredients
 
@@ -85,9 +85,9 @@ The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktai
 4. Drink unhurried; the ice slowly dilutes it.
 
 ## Notes
-- **Clamato is canonical:** the clam-juice element is what makes a Caesar a Caesar. Without it, you've made a Bloody Mary. Mott's Clamato is sold across Canada and the US; outside North America, blend tomato juice with bottled clam juice 4:1.
+- **Clamato is traditional:** the clam-juice element is what makes a Caesar a Caesar. Without it, you've made a Bloody Mary. Mott's Clamato is sold across Canada and the US; outside North America, blend tomato juice with bottled clam juice 4:1.
 - **Celery salt rim is non-negotiable:** the rim is the unmistakable signature. A plain-salt rim makes the drink a Bloody Mary again.
-- **Don't shake:** stirring is the canonical method. Shaking aerates the Clamato into a froth and dilutes too fast.
+- **Don't shake:** stirring is the traditional method. Shaking aerates the Clamato into a froth and dilutes too fast.
 - **Big ice cubes:** small cubes melt fast and dilute the drink. Use one or two big cubes per glass for a slow dilution.
 - **Heat to taste:** 4 dashes of hot sauce is the Canadian moderate; 8 dashes is the Calgary brunch standard; 12 dashes is for the brave.
 - **The garnish should be edible AND functional:** the celery is a stir stick, the lime is a re-acidifier, the bacon and cheese are a small snack. The drink and the garnish are meant to interact.
@@ -105,7 +105,7 @@ The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktai
 **Caesar with chicken wing garnish:** spear a small grilled chicken wing on a cocktail pick - the maximalist meal-in-a-glass Caesar that's now a Canadian bar staple.
 
 ## Serving
-At a Canadian Sunday brunch (the canonical setting) · at a Calgary Stampede brunch · at a Vancouver hockey-night dinner party · at a Toronto wedding cocktail hour · at a Halifax Maritime barbecue · at a Canadian-themed restaurant abroad · at a Canadian pub at midday · at home as the canonical Saturday morning hangover cure · paired with eggs Benedict, peameal-bacon sandwich, or simply a plate of bacon and toast.
+At a Canadian Sunday brunch (the traditional setting) · at a Calgary Stampede brunch · at a Vancouver hockey-night dinner party · at a Toronto wedding cocktail hour · at a Halifax Maritime barbecue · at a Canadian-themed restaurant abroad · at a Canadian pub at midday · at home as the traditional Saturday morning hangover cure · paired with eggs Benedict, peameal-bacon sandwich, or simply a plate of bacon and toast.
 
 ## Storage
 - Make and drink fresh. Caesars don't store - the Clamato separates and the rim falls off.

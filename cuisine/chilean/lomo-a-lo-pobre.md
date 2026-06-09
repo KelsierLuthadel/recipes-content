@@ -73,7 +73,7 @@ Lomo a lo pobre is the pork-loin variation of Chile's iconic "poor man's plate" 
 ## Notes
 - **Pork loin medium:** 65°C internal; pink centre.
 - **Twice-fried potatoes:** essential.
-- **All four components:** the canonical combination.
+- **All four components:** the traditional combination.
 - **Onions deeply soft:** 12-15 minutes minimum.
 
 ## Variations

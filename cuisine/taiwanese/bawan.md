@@ -114,7 +114,7 @@ Bawan ("meatball" in Taiwanese Hokkien) is one of Taiwan's most distinctive snac
 - **Sweet potato starch is essential:** the proper texture of bawan comes from sweet potato starch specifically. Cornstarch gives a less-stretchy more-brittle shell; tapioca starch gives an over-bouncy shell. Use sweet potato starch from an Asian market.
 - **Brief deep-fry, not full fry:** the goal is a thin slightly-golden crust, not a deep crisp. 30-60 seconds per side is right; longer cooks the shell from translucent to opaque and the dish loses its character.
 - **Work the pork filling till sticky:** the mixing of the pork (2-3 minutes of vigorous stirring) develops the proteins and gives the filling a properly elastic chewy texture. Lazy mixing gives a crumbly filling.
-- **The sauce is canonical:** garlic-soy-vinegar-sugar in roughly equal balanced quantities, slightly thickened, generously ladled over. Don't substitute generic soy sauce.
+- **The sauce is traditional:** garlic-soy-vinegar-sugar in roughly equal balanced quantities, slightly thickened, generously ladled over. Don't substitute generic soy sauce.
 - **Translucent shell:** if the shell is opaque white after steaming, it wasn't steamed long enough. 25 minutes is the proper time. The shell should be translucent enough to see the meat filling vaguely through.
 
 ## Variations

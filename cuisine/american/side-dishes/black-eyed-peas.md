@@ -2,7 +2,7 @@
 
 ![Black-Eyed Peas](resources/black-eyed-peas.jpg)
 
-*The Southern good-luck bean. Slow-simmered with smoked ham hock, onion, garlic and a bay leaf until the broth turns silky and faintly smoky. Eaten on New Year's Day for luck, and on the Kwanzaa table as one of the ancestral African-diaspora dishes.*
+*The Southern good-luck bean. Slow-simmered with smoked ham hock, onion, garlic and a bay leaf until the broth turns silky and faintly smoky. Eat on New Year's Day for luck, and on the Kwanzaa table as one of the ancestral African-diaspora dishes.*
 
 **Serves:** 6 as a side
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-The Southern good-luck bean: small cream-coloured legumes with a black spot at the eye, slow-simmered with a smoked ham hock, onion, garlic and bay leaf till the broth turns silky and faintly smoky. Eaten across the American South on New Year's Day for luck (the tradition is West African by way of enslaved Africans who brought the bean with them through the Middle Passage), and on the Kwanzaa table as one of the ancestral African-diaspora dishes. The ham hock is the soul of the broth; it seasons the liquid as it cooks and the meat gets pulled and stirred back through at the end. A splash of cider vinegar lifts the richness, and a pinch of cayenne keeps the dish from sliding into sweet. Served in shallow bowls with the broth, often spooned over rice (the New Year's Day pairing is called Hoppin' John).
+The Southern good-luck bean: small cream-coloured legumes with a black spot at the eye, slow-simmered with a smoked ham hock, onion, garlic and bay leaf till the broth turns silky and faintly smoky. Eat across the American South on New Year's Day for luck (the tradition is West African by way of enslaved Africans who brought the bean with them through the Middle Passage), and on the Kwanzaa table as one of the ancestral African-diaspora dishes. The ham hock is the soul of the broth; it seasons the liquid as it cooks and the meat gets pulled and stirred back through at the end. A splash of cider vinegar lifts the richness, and a pinch of cayenne keeps the dish from sliding into sweet. Served in shallow bowls with the broth, often spooned over rice (the New Year's Day pairing is called Hoppin' John).
 
 ## Ingredients
 

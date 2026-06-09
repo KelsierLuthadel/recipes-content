@@ -50,7 +50,7 @@ Tas kebabı (literally "pot kebab"; tas = bowl/pot, kebab = grilled or roasted m
 - Lemon wedges
 
 ### To serve
-- Rice pilav (the canonical accompaniment) or warm pide bread
+- Rice pilav (the traditional accompaniment) or warm pide bread
 - Plain yogurt
 - Pickled chillies (optional)
 
@@ -108,7 +108,7 @@ Tas kebabı (literally "pot kebab"; tas = bowl/pot, kebab = grilled or roasted m
 - **Brown the lamb properly:** the fond is essential for sauce depth. Don't skip the browning step; cook in batches if needed.
 - **Lamb shoulder, not leg:** shoulder has more fat and connective tissue; leg goes dry. The proper Turkish stew uses shoulder.
 - **Layered cooking:** each ingredient cooked briefly before the next gives proper depth. Don't dump everything in together.
-- **Cinnamon stick is the secret:** the small amount of cinnamon gives the proper Turkish warm-spice profile. Don't skip; it's not enough to make the dish "sweet" but it provides the canonical depth.
+- **Cinnamon stick is the secret:** the small amount of cinnamon gives the proper Turkish warm-spice profile. Don't skip; it's not enough to make the dish "sweet" but it provides the traditional depth.
 - **Slow-cook properly:** 90 minutes minimum for lamb to go tender. Don't rush.
 
 ## Variations

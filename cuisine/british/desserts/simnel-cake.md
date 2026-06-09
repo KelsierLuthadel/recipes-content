@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes (plus 30 minutes resting)
 
 ## Overview
-A relatively light fruit cake (less dense than Christmas cake) flavoured with mixed peel, currants, sultanas, glace cherries and a generous spoon of mixed spice. Half the batter goes into the lined tin, then a disc of rolled marzipan, then the rest of the batter. Baked low and slow so the marzipan layer melts slightly and the cake bakes through evenly. Once cool, the top is brushed with warm apricot jam, a second marzipan disc is laid on, and eleven small balls of marzipan are arranged around the rim. The top is flashed under a hot grill to colour the marzipan amber.
+Simnel cake is the British Easter cake, the lighter cousin of the dense Christmas fruit cake, served on Mothering Sunday or at the Easter Sunday tea table with eleven marzipan balls around the rim (one for each apostle, Judas excluded). The cake is built on a lighter fruit base than Christmas cake, flavoured with mixed peel, currants, sultanas, glacé cherries and a generous spoon of mixed spice that keeps the crumb fragrant rather than dense. The hidden marzipan layer baked through the middle is the Easter signature; half the batter goes into the lined tin, a disc of rolled marzipan lays across, the rest of the batter pours over, and a long low bake lets the marzipan half-melt into the cake without splitting through. Once cool, brush the top with warm apricot jam, set a second marzipan disc on top and arrange the eleven small balls around the rim. A quick flash under a hot grill caramelises the marzipan to a burnished amber gold. Eat with a strong cup of tea.
 
 ## Ingredients
 

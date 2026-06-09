@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes (or 10 minutes if using leftover ropa vieja meat)
 
 ## Overview
-Vaca frita (literally "fried cow") is one of Cuba's most beloved beef preparations and the canonical Cuban diner classic, a close cousin to ropa vieja but distinct in finish. Flank steak first slow-simmers in flavoured broth till fork-tender, shreds along the grain into long strands, marinates briefly in sour orange (or lime and orange juice) and garlic, then pan-fries in a screaming-hot skillet with olive oil and sliced onions till the edges of the beef strands go crisp-crackly-brown and the onions melt into a glossy sweet base. Often made from leftover ropa vieja meat (the shredded beef without the sauce), making vaca frita the natural second-day evolution. The pan must be smoking-hot before the beef goes in; the crisp edges come from very high heat. Don't crowd the pan: the beef strands need space to brown, and a crowded pan steams instead of fries. The citrus marinade tenderises further and adds the proper Cuban tang. Eaten over plain white rice with black beans, sweet plantains and a fresh salad.
+Vaca frita (literally "fried cow") is one of Cuba's most beloved beef preparations and the traditional Cuban diner classic, a close cousin to ropa vieja but distinct in finish. Flank steak first slow-simmers in flavoured broth till fork-tender, shreds along the grain into long strands, marinates briefly in sour orange (or lime and orange juice) and garlic, then pan-fries in a screaming-hot skillet with olive oil and sliced onions till the edges of the beef strands go crisp-crackly-brown and the onions melt into a glossy sweet base. Often made from leftover ropa vieja meat (the shredded beef without the sauce), making vaca frita the natural second-day evolution. The pan must be smoking-hot before the beef goes in; the crisp edges come from very high heat. Don't crowd the pan: the beef strands need space to brown, and a crowded pan steams instead of fries. The citrus marinade tenderises further and adds the proper Cuban tang. Eat over plain white rice with black beans, sweet plantains and a fresh salad.
 
 ## Ingredients
 
@@ -99,7 +99,7 @@ Vaca frita (literally "fried cow") is one of Cuba's most beloved beef preparatio
 ## Notes
 - **Screaming-hot pan:** essential for the crispy edges. The pan must be smoking before the beef goes in.
 - **Don't crowd the pan:** crowded beef steams; spread-out beef crisps. Work in 2-3 batches.
-- **Sour orange is canonical:** if you can find naranja agria (Seville sour orange), use it. Lime + orange juice is the standard substitute.
+- **Sour orange is traditional:** if you can find naranja agria (Seville sour orange), use it. Lime + orange juice is the standard substitute.
 - **Use leftover ropa vieja:** the dish was historically a way to use up leftover ropa vieja meat. Making fresh works; leftover works too.
 - **Press down while cooking:** the spatula-press on the beef strands helps the surface area contact the hot pan, which crisps the edges.
 

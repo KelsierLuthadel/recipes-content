@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Peas and rice is the Bahamas' most beloved side and one of the most recognisable dishes of the country: long-grain rice cooked through with pigeon peas (the small reddish-brown beans grown across the Caribbean), salt pork or smoked bacon for richness, tomato paste and chopped fresh tomato for body, sweet pepper, onion and garlic for the aromatic base, fresh thyme, and a single bird pepper (Scotch bonnet or habanero) for the canonical Bahamian heat. What every Bahamian cook makes alongside cracked conch, stewed chicken, grouper or any other main; the rice catches the cooking juices and ties the meal together. The salt pork renders first to give the fat base; the aromatics sweat in the pork fat. The whole bird pepper floats unpierced in the pot, infusing heat and aroma, then comes out before serving. Result wants to be slightly orange-red from the tomato, fragrant from thyme and pork fat, with the peas distributed evenly through.
+Peas and rice is the Bahamas' most beloved side and one of the most recognisable dishes of the country: long-grain rice cooked through with pigeon peas (the small reddish-brown beans grown across the Caribbean), salt pork or smoked bacon for richness, tomato paste and chopped fresh tomato for body, sweet pepper, onion and garlic for the aromatic base, fresh thyme, and a single bird pepper (Scotch bonnet or habanero) for the traditional Bahamian heat. What every Bahamian cook makes alongside cracked conch, stewed chicken, grouper or any other main; the rice catches the cooking juices and ties the meal together. The salt pork renders first to give the fat base; the aromatics sweat in the pork fat. The whole bird pepper floats unpierced in the pot, infusing heat and aroma, then comes out before serving. Result wants to be slightly orange-red from the tomato, fragrant from thyme and pork fat, with the peas distributed evenly through.
 
 ## Ingredients
 
@@ -81,7 +81,7 @@ Peas and rice is the Bahamas' most beloved side and one of the most recognisable
 3. Lemon wedges and hot sauce on the table.
 
 ## Notes
-- **Pigeon peas are the canonical bean:** small reddish-brown beans, sometimes labelled "gandules" at Latin American markets or "Congo peas" at Caribbean ones. Canned pigeon peas are widely available and work fine; if you can only find dried, soak overnight and pre-cook till just tender before adding to the recipe. Don't substitute red kidney beans or black beans; the flavour is different.
+- **Pigeon peas are the traditional bean:** small reddish-brown beans, sometimes labelled "gandules" at Latin American markets or "Congo peas" at Caribbean ones. Canned pigeon peas are widely available and work fine; if you can only find dried, soak overnight and pre-cook till just tender before adding to the recipe. Don't substitute red kidney beans or black beans; the flavour is different.
 - **Salt pork or smoked bacon:** salt pork is the traditional Bahamian choice; smoked bacon is the easy substitute. Both give the rendered fat and savoury salty character that anchors the dish.
 - **Whole bird pepper, not chopped:** keeping the Scotch bonnet (or habanero) whole means the rice gets the floral chilli flavour without the punishing heat that chopped pepper would give. Lift out before serving. If you want more heat, pierce the pepper with a knife before adding.
 - **Tomato paste cooked first:** the brief cook of the tomato paste (1-2 minutes) is what deepens the colour and rounds the flavour; skipping it gives a flatter raw-tomato note.

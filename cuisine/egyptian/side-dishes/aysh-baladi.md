@@ -2,7 +2,7 @@
 
 ![Aysh Baladi](resources/aysh-baladi.jpg)
 
-*The Egyptian everyday bread: a wholemeal pita-style flatbread baked at extreme heat so it puffs into a hollow round, then deflates into a perfect pocket. Eaten with every meal - torn for scooping ful, kofta or tahina; cut into halves stuffed with falafel or eggs. "Aysh" means "life"; the name says it.*
+*The Egyptian everyday bread: a wholemeal pita-style flatbread baked at extreme heat so it puffs into a hollow round, then deflates into a perfect pocket. Eat with every meal - torn for scooping ful, kofta or tahina; cut into halves stuffed with falafel or eggs. "Aysh" means "life"; the name says it.*
 
 **Serves:** 4 (makes 6 breads)
 

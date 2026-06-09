@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Shawarma is one of the most iconic Middle Eastern street foods, claimed by Lebanon, Turkey, Syria and Iraq with slightly different styles in each; the Damascus version is one of the canonical originals. Thin slices of marinated lamb (or chicken, or a mix) stack on a vertical rotating spit and slow-roast till the outside crisps; the cooked outer layer shaves off as it's ready, served in fresh khubz with tahina sauce, pickled turnips, tomato, cucumber, parsley, and sometimes pickled chillies or sumac onions. The spit is restaurant-only; at home, thinly slice the marinated meat, layer in a heavy roasting tin with onion between, weight the top with a brick or heavy pan, slow-roast ninety minutes till the meat releases its juices. The marinade matters: yogurt, olive oil, garlic, lemon, Levantine seven-spice (baharat) and Aleppo pepper, twelve hours minimum. Tahina sauce: equal parts tahina, lemon and cold water, plus garlic and salt. Pickled turnips give Syrian shawarma its signature bright pink.
+Shawarma is one of the most iconic Middle Eastern street foods, claimed by Lebanon, Turkey, Syria and Iraq with slightly different styles in each; the Damascus version is one of the traditional originals. Thin slices of marinated lamb (or chicken, or a mix) stack on a vertical rotating spit and slow-roast till the outside crisps; the cooked outer layer shaves off as it's ready, served in fresh khubz with tahina sauce, pickled turnips, tomato, cucumber, parsley, and sometimes pickled chillies or sumac onions. The spit is restaurant-only; at home, thinly slice the marinated meat, layer in a heavy roasting tin with onion between, weight the top with a brick or heavy pan, slow-roast ninety minutes till the meat releases its juices. The marinade matters: yogurt, olive oil, garlic, lemon, Levantine seven-spice (baharat) and Aleppo pepper, twelve hours minimum. Tahina sauce: equal parts tahina, lemon and cold water, plus garlic and salt. Pickled turnips give Syrian shawarma its signature bright pink.
 
 ## Ingredients
 
@@ -124,7 +124,7 @@ Shawarma is one of the most iconic Middle Eastern street foods, claimed by Leban
 - **Marinate overnight properly:** 12 hours minimum, ideally 24. The yogurt tenderises and the spices penetrate. Skipping the long marinade gives bland tough shawarma.
 - **Weight during roasting:** the heavy weight compresses the layers and helps approximate the vertical-spit pressure that gives shawarma its distinct texture. Don't skip.
 - **Tahina sauce technique:** the trick is adding cold water gradually; the tahina seizes up before loosening into a smooth sauce. Don't be alarmed by the seizure; keep whisking.
-- **Pickled turnips are canonical:** the bright pink turnips are iconic for Damascus shawarma. Make 5 days ahead or buy shop-bought from a Middle Eastern market.
+- **Pickled turnips are traditional:** the bright pink turnips are iconic for Damascus shawarma. Make 5 days ahead or buy shop-bought from a Middle Eastern market.
 - **Slice thin:** shaved-thin slices give the proper shawarma texture; thick slices feel like a different dish.
 
 ## Variations

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pão de queijo is the Brazilian cheese bread of Minas Gerais: small puffs of tapioca-flour dough baked golden and chewy outside and soft-stretchy inside, eaten hot with morning coffee or piled in a basket alongside any meal. Naturally gluten-free, and impossible to stop eating. The defining ingredient is polvilho (tapioca starch) sold at Brazilian grocers, either sour (azedo, fermented for a slight tang and more lift) or sweet (doce, milder); cornflour or cassava flour is not the same and doesn't give the chew that defines the bread. The hot milk-and-oil mixture poured over the starch is what activates it; without that scald, the dough won't stretch right. Eaten hot from the oven within ten minutes for the proper chewy-stretchy character.
+Pão de queijo is the Brazilian cheese bread of Minas Gerais: small puffs of tapioca-flour dough baked golden and chewy outside and soft-stretchy inside, eaten hot with morning coffee or piled in a basket alongside any meal. Naturally gluten-free, and impossible to stop eating. The defining ingredient is polvilho (tapioca starch) sold at Brazilian grocers, either sour (azedo, fermented for a slight tang and more lift) or sweet (doce, milder); cornflour or cassava flour is not the same and doesn't give the chew that defines the bread. The hot milk-and-oil mixture poured over the starch is what activates it; without that scald, the dough won't stretch right. Eat hot from the oven within ten minutes for the proper chewy-stretchy character.
 
 ## Ingredients
 

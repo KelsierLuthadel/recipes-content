@@ -2,7 +2,7 @@
 
 ![Maltese Potato Salad](resources/maltese-potato-salad.jpg)
 
-*Malta's sun-drenched potato salad: warm boiled potatoes tossed with sliced red onion, capers, black olives, chopped tomato, fresh mint, parsley, lemon juice and a generous slug of olive oil. The Mediterranean answer to mayo-based potato salad; the canonical Maltese summer side; bright, acidic, herbal.*
+*Malta's sun-drenched potato salad: warm boiled potatoes tossed with sliced red onion, capers, black olives, chopped tomato, fresh mint, parsley, lemon juice and a generous slug of olive oil. The Mediterranean answer to mayo-based potato salad; the traditional Maltese summer side; bright, acidic, herbal.*
 
 **Serves:** 6 (as a side)
 

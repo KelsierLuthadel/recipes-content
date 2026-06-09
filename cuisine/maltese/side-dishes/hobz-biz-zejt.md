@@ -2,7 +2,7 @@
 
 ![Ħobż biż-Żejt](resources/hobz-biz-zejt.jpg)
 
-*Malta's most beloved snack and breakfast: thick slices of crusty Maltese sourdough bread rubbed with ripe tomato, drizzled with olive oil, topped with tuna, capers, olives, onion, and ġbejniet cheese. The Maltese ploughman's lunch; the canonical Maltese beach picnic food.*
+*Malta's most beloved snack and breakfast: thick slices of crusty Maltese sourdough bread rubbed with ripe tomato, drizzled with olive oil, topped with tuna, capers, olives, onion, and ġbejniet cheese. The Maltese ploughman's lunch; the traditional Maltese beach picnic food.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Ħobż biż-żejt (literally "bread with oil") is Malta's most universally beloved everyday snack - the simplest possible expression of Maltese ingredients. The construction: thick slices of Maltese sourdough (ħobż tal-Malti, the canonical bread; a chewy crusty sourdough), rubbed vigorously with halved ripe tomato till the bread absorbs the juices and turns pink, drizzled generously with extra-virgin olive oil, then topped with tuna in oil, capers, black olives, sliced raw onion, and ġbejniet (Maltese fresh sheep's-milk cheese). A few mint leaves and fresh basil finish it. Eaten with the hands at every Maltese beach picnic, every fishing village snack stop, and every Maltese village festa.
+Ħobż biż-żejt (literally "bread with oil") is Malta's most universally beloved everyday snack - the simplest possible expression of Maltese ingredients. The construction: thick slices of Maltese sourdough (ħobż tal-Malti, the traditional bread; a chewy crusty sourdough), rubbed vigorously with halved ripe tomato till the bread absorbs the juices and turns pink, drizzled generously with extra-virgin olive oil, then topped with tuna in oil, capers, black olives, sliced raw onion, and ġbejniet (Maltese fresh sheep's-milk cheese). A few mint leaves and fresh basil finish it. Eat with the hands at every Maltese beach picnic, every fishing village snack stop, and every Maltese village festa.
 
 ## Ingredients
 
@@ -48,7 +48,7 @@
 2. Pair with a glass of Maltese white wine or Cisk lager.
 
 ## Notes
-- **Maltese ħobż tal-Malti:** the canonical bread. Any chewy sourdough substitutes.
+- **Maltese ħobż tal-Malti:** the traditional bread. Any chewy sourdough substitutes.
 - **Ripe tomatoes essential.**
 - **Generous olive oil.**
 - **Don't pre-make:** the bread softens fast.

@@ -96,7 +96,7 @@ Witloof is Flemish for "white leaf", what the English-speaking world calls Belgi
 - **Cut a notch in the core:** without it, the bitter core stays bitter. With it, the heat penetrates and softens it.
 - **Sugar in the braise:** balances the natural bitterness. Don't skip.
 - **Use a real cooked ham:** a thick slice of jambon blanc or Ardennes; thin supermarket sandwich ham doesn't have the right body.
-- **Emmental or Gruyère:** the canonical cheese pair. Some Brussels cooks add a little Bruges Vieux Cheese (an aged Dutch-style) for sharper bite.
+- **Emmental or Gruyère:** the traditional cheese pair. Some Brussels cooks add a little Bruges Vieux Cheese (an aged Dutch-style) for sharper bite.
 
 ## Variations
 **Witloof au gratin sans jambon (vegetarian):** skip the ham; layer the chicory directly into the béchamel - the lighter Brussels variant.
@@ -107,7 +107,7 @@ Witloof is Flemish for "white leaf", what the English-speaking world calls Belgi
 **Witloof à la flamande:** simpler version - just braised chicory in butter, no ham, no béchamel; for those who want the pure chicory flavour.
 
 ## Serving
-At a Belgian family Sunday lunch (the canonical setting) · at a Brussels bistro in winter · at a Belgian Christmas Eve meal · as a substantial vegetable course at a multi-course Belgian dinner · at a Flemish gastropub · at home as a winter midweek dinner with boiled potatoes and a glass of dry white.
+At a Belgian family Sunday lunch (the traditional setting) · at a Brussels bistro in winter · at a Belgian Christmas Eve meal · as a substantial vegetable course at a multi-course Belgian dinner · at a Flemish gastropub · at home as a winter midweek dinner with boiled potatoes and a glass of dry white.
 
 ## Storage
 - Refrigerates 3 days. Reheats well covered in a 180°C oven for 15-20 minutes.

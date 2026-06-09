@@ -103,7 +103,7 @@ The croque monsieur is French in origin, invented around 1910 at a Paris café, 
 **Mini-croques (for canapés):** cut the sandwich into 4 squares before the grill stage; serve as canapés with a cocktail.
 
 ## Serving
-At a Brussels brasserie at lunchtime (the canonical setting) · at a Belgian café in Bruges, Antwerp or Ghent · with a beer at a Belgian gastropub · as a quick Belgian dinner alongside a salad · at a Belgian Sunday brunch · at home for a sophisticated grilled cheese.
+At a Brussels brasserie at lunchtime (the traditional setting) · at a Belgian café in Bruges, Antwerp or Ghent · with a beer at a Belgian gastropub · as a quick Belgian dinner alongside a salad · at a Belgian Sunday brunch · at home for a sophisticated grilled cheese.
 
 ## Storage
 - Doesn't keep - eat within 10 minutes of finishing under the grill.

@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (for warming the rolls and assembling)
 
 ## Overview
-The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a cutter" is a Bajan idiom for going to lunch. The name comes from "cutting" the bread open. The bread is Bajan salt-bread: a small, dense, slightly sweet white roll about 10-12 cm across, similar in spirit to a Portuguese padarão or a small bap. Not a hot-dog bun, not a kaiser roll: salt-bread, baked at every Bajan bakery, is what makes the sandwich a cutter. The fillings are three canonical Bajan options: the fish cutter (saltfish fritter or fried flying fish), the ham cutter (a thick slice of Bajan ham, sometimes with cheese) or the beef cutter (cold Bajan corned beef). The slather is Bajan pepper sauce or yellow mustard, never mayo (which is the modern American-influenced version, not the purist Bajan one). Eaten at the rum-shop counter, on the beach in a paper napkin, on the workman's lunch break. The canonical Bajan portable lunch.
+The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a cutter" is a Bajan idiom for going to lunch. The name comes from "cutting" the bread open. The bread is Bajan salt-bread: a small, dense, slightly sweet white roll about 10-12 cm across, similar in spirit to a Portuguese padarão or a small bap. Not a hot-dog bun, not a kaiser roll: salt-bread, baked at every Bajan bakery, is what makes the sandwich a cutter. The fillings are three traditional Bajan options: the fish cutter (saltfish fritter or fried flying fish), the ham cutter (a thick slice of Bajan ham, sometimes with cheese) or the beef cutter (cold Bajan corned beef). The slather is Bajan pepper sauce or yellow mustard, never mayo (which is the modern American-influenced version, not the purist Bajan one). Eat at the rum-shop counter, on the beach in a paper napkin, on the workman's lunch break. The traditional Bajan portable lunch.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 - 4 fresh Bajan salt-bread rolls OR small soft white bread rolls (about 10-12 cm diameter; lightly sweet enriched white bread)
 - (Or make Bajan salt-bread from scratch - see Variations)
 
-### Filling Option 1 - Fish cutter (the canonical Bajan)
+### Filling Option 1 - Fish cutter (the traditional Bajan)
 - 4 fresh Bajan fish cakes (see [Bajan Fish Cakes](bajan-fish-cakes.md)) - 2 per cutter
 - OR 4 small fried flying fish fillets
 - OR 4 small pieces of breaded fried fish (cod, haddock, or any white fish)
@@ -30,7 +30,7 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 
 ### Filling Option 3 - Beef cutter
 - 200 g cooked Bajan corned beef OR thinly sliced cold roast beef
-- (The salt-cured Bajan beef is canonical; cold roast beef is the home-cook substitute)
+- (The salt-cured Bajan beef is traditional; cold roast beef is the home-cook substitute)
 
 ### Filling Option 4 - Egg cutter (modern)
 - 4 large eggs, fried (over-easy)
@@ -44,7 +44,7 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 - 1 tablespoon Bajan pepper sauce
 
 ### The condiments (essential)
-- 4 teaspoons Bajan pepper sauce (Scotch bonnet hot sauce; Susie's or Wendy's are canonical Bajan brands)
+- 4 teaspoons Bajan pepper sauce (Scotch bonnet hot sauce; Susie's or Wendy's are traditional Bajan brands)
 - 2 tablespoons prepared yellow mustard
 - Optional: 2 tablespoons mayonnaise (modern variant; controversial among purists)
 
@@ -69,7 +69,7 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 
 ### Stage 2 - Warm the rolls (briefly)
 1. Place the salt-bread rolls in a low oven (150°C) for 3 minutes to warm slightly.
-2. (Don't toast or crisp; the canonical Bajan cutter uses soft warm bread, not toasted.)
+2. (Don't toast or crisp; the traditional Bajan cutter uses soft warm bread, not toasted.)
 
 ### Stage 3 - Slice the rolls
 1. With a serrated knife, slice each roll horizontally about 2/3 of the way through (a hinge cut - one side stays joined).
@@ -99,15 +99,15 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 4. Eat with the hands; one cutter is about 4-5 bites.
 
 ## Notes
-- **The bread is the most important variable:** a soft, slightly sweet small white roll is the canonical Bajan choice. Day-old bread ruins the sandwich.
-- **Bajan pepper sauce, not just hot sauce:** the canonical Bajan Scotch bonnet sauce. Tabasco or generic American hot sauce gives a different flavour.
+- **The bread is the most important variable:** a soft, slightly sweet small white roll is the traditional Bajan choice. Day-old bread ruins the sandwich.
+- **Bajan pepper sauce, not just hot sauce:** the traditional Bajan Scotch bonnet sauce. Tabasco or generic American hot sauce gives a different flavour.
 - **Eat fresh:** the cutter is assembled and eaten within 15 minutes. Pre-made cutters go soggy from the wet fillings.
-- **Mayo is modern, not canonical:** the purist Bajan cutter uses pepper sauce + mustard only. Mayo is an American-influenced addition.
-- **Hot filling, cold bread:** the canonical Bajan way - the bread is warm-but-not-toasted; the filling is fresh-hot (fish cakes) or room-temperature (ham/beef/tuna).
+- **Mayo is modern, not traditional:** the purist Bajan cutter uses pepper sauce + mustard only. Mayo is an American-influenced addition.
+- **Hot filling, cold bread:** the traditional Bajan way - the bread is warm-but-not-toasted; the filling is fresh-hot (fish cakes) or room-temperature (ham/beef/tuna).
 - **One cutter per person is a snack; two is a lunch:** the typical Bajan workman's lunch is 2-3 cutters.
 
 ## Variations
-**Salt-bread cutter (the bread on its own):** for a no-filling option - just hot salt-bread with butter; the canonical Bajan tea-time bread.
+**Salt-bread cutter (the bread on its own):** for a no-filling option - just hot salt-bread with butter; the traditional Bajan tea-time bread.
 **Bajan flying-fish cutter:** a small fried flying fish fillet in the roll instead of fish cakes - the Oistins fish fry version.
 **Salt-bread breakfast cutter:** fried egg + sliced cheese + a slice of Bajan ham - the breakfast variant.
 **Loaf-bread cutter (alternative):** if you can't find rolls, use slices from a fresh Bajan loaf - less authentic but works.
@@ -116,7 +116,7 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 **Vegan cutter:** swap meat fillings for grilled vegetables (mushroom, courgette, sweet pepper) + Bajan pepper sauce.
 
 ## Serving
-At a Bajan rum-shop (the canonical setting; sold by the dozen) · at a Bajan beach snack stand · at the Oistins Friday-night fish fry · at a Bajan working-day lunch from a corner shop · at a Bajan church social · at a Bajan family lunch · at home as a quick afternoon snack · paired with cold Banks lager, Bajan rum punch, or a glass of cold mauby.
+At a Bajan rum-shop (the traditional setting; sold by the dozen) · at a Bajan beach snack stand · at the Oistins Friday-night fish fry · at a Bajan working-day lunch from a corner shop · at a Bajan church social · at a Bajan family lunch · at home as a quick afternoon snack · paired with cold Banks lager, Bajan rum punch, or a glass of cold mauby.
 
 ## Storage
 - Cutters are assembled fresh; don't refrigerate assembled cutters (the bread goes soggy).

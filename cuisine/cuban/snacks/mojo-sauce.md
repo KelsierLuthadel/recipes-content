@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-Mojo (pronounced moh-ho) is the foundational Cuban sauce and the canonical Cuban condiment that goes on practically everything. A generous amount of crushed garlic infuses briefly in warm olive oil (warmed till fragrant, never browned), then off the heat the citrus juice goes in along with ground cumin, dried oregano, fresh coriander and salt. Sour orange (naranja agria) is the canonical Cuban citrus; outside Cuba, equal parts lime and orange juice substitute. Used both raw (drizzled over food at the table) and as a marinade (mojo criollo is the marinade form, used for lechón asado, masitas de puerco and grilled meats). Two technical moves matter: don't brown the garlic, which ruins the sauce, and combine off the heat to keep the citrus bright (also, cold juice hitting hot oil splatters dangerously). The dish is the absolute essence of Cuban flavour: bright, garlicky, citrusy, slightly oily, deeply aromatic. Mojo turns up alongside virtually every Cuban dish, drizzled over yuca, ladled onto lechón, spooned over plantains and tostones.
+Mojo (pronounced moh-ho) is the foundational Cuban sauce and the traditional Cuban condiment that goes on practically everything. A generous amount of crushed garlic infuses briefly in warm olive oil (warmed till fragrant, never browned), then off the heat the citrus juice goes in along with ground cumin, dried oregano, fresh coriander and salt. Sour orange (naranja agria) is the traditional Cuban citrus; outside Cuba, equal parts lime and orange juice substitute. Used both raw (drizzled over food at the table) and as a marinade (mojo criollo is the marinade form, used for lechón asado, masitas de puerco and grilled meats). Two technical moves matter: don't brown the garlic, which ruins the sauce, and combine off the heat to keep the citrus bright (also, cold juice hitting hot oil splatters dangerously). The dish is the absolute essence of Cuban flavour: bright, garlicky, citrusy, slightly oily, deeply aromatic. Mojo turns up alongside virtually every Cuban dish, drizzled over yuca, ladled onto lechón, spooned over plantains and tostones.
 
 ## Ingredients
 
@@ -55,10 +55,10 @@ Mojo (pronounced moh-ho) is the foundational Cuban sauce and the canonical Cuban
 2. Or transfer to a sealed jar for storage.
 
 ## Notes
-- **Sour orange is canonical:** if you can find naranja agria, use it. The standard substitute is equal parts lime juice and orange juice.
+- **Sour orange is traditional:** if you can find naranja agria, use it. The standard substitute is equal parts lime juice and orange juice.
 - **Don't brown the garlic:** burned garlic ruins the sauce. Cook just till fragrant.
 - **Add citrus off heat:** safer (no spluttering) and preserves the fresh citrus flavour.
-- **Lots of garlic:** 12 cloves is canonical. The sauce is named for the garlic; don't be timid.
+- **Lots of garlic:** 12 cloves is traditional. The sauce is named for the garlic; don't be timid.
 - **Rest before serving:** 30 minutes for the flavours to marry.
 
 ## Variations
@@ -68,7 +68,7 @@ Mojo (pronounced moh-ho) is the foundational Cuban sauce and the canonical Cuban
 **Roasted-garlic mojo:** roast the garlic cloves at 200°C / 400°F for 25 minutes till caramelised; then add to the warm oil; gives a sweeter mellower mojo. Different but excellent.
 
 ## Serving
-At the table in a small jug for drizzling. Over yuca con mojo (the canonical pairing), sliced lechón asado, malanga frita, tostones, masitas de puerco, grilled chicken, grilled fish. As a marinade (mojo criollo) for lechón asado before roasting. As a dipping sauce for Cuban bread.
+At the table in a small jug for drizzling. Over yuca con mojo (the traditional pairing), sliced lechón asado, malanga frita, tostones, masitas de puerco, grilled chicken, grilled fish. As a marinade (mojo criollo) for lechón asado before roasting. As a dipping sauce for Cuban bread.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar.

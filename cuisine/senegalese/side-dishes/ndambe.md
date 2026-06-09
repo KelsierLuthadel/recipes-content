@@ -114,4 +114,4 @@ The classic forms: piled into a fresh baguette as a Sunday breakfast sandwich, o
 - Keeps refrigerated 4 days; the flavour deepens overnight and day-after ndambé is excellent.
 - Freezes 3 months. Defrost in the fridge overnight and reheat gently over low heat.
 - Don't microwave; the palm oil splits and the texture suffers.
-- Reheated ndambé piled into a fresh baguette is the canonical Monday breakfast.
+- Reheated ndambé piled into a fresh baguette is the traditional Monday breakfast.

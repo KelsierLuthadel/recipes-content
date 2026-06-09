@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Stovies (the name comes from the French "étouffer", to smother or stew) is Scotland's canonical leftover dish, born from frugal Sunday-to-Monday economy. Yesterday's roast meat, today's potatoes and onions, all stewed slowly together in beef dripping till everything fuses into one unified bowl of comfort. Regional within Scotland: Aberdeenshire stovies use canned corned beef, Edinburgh stovies use leftover roast beef or lamb, and in Fife and the West, mince stovies (with raw minced beef) are common. Onions sweat in dripping or lard till sweet, then thinly sliced raw potato and chopped cold meat go in with a splash of beef stock or gravy. Lid down, low and slow for about an hour, until the potatoes have partially broken down and the meat has softened into the whole. Eaten in deep bowls with oatcakes, pickled beetroot and a glass of cold milk. The canonical Bonfire Night supper, the Burns Night day-after lunch, and the staple Monday-night supper of every Scottish family with roast leftovers.
+Stovies (the name comes from the French "étouffer", to smother or stew) is Scotland's traditional leftover dish, born from frugal Sunday-to-Monday economy. Yesterday's roast meat, today's potatoes and onions, all stewed slowly together in beef dripping till everything fuses into one unified bowl of comfort. Regional within Scotland: Aberdeenshire stovies use canned corned beef, Edinburgh stovies use leftover roast beef or lamb, and in Fife and the West, mince stovies (with raw minced beef) are common. Onions sweat in dripping or lard till sweet, then thinly sliced raw potato and chopped cold meat go in with a splash of beef stock or gravy. Lid down, low and slow for about an hour, until the potatoes have partially broken down and the meat has softened into the whole. Eat in deep bowls with oatcakes, pickled beetroot and a glass of cold milk. The traditional Bonfire Night supper, the Burns Night day-after lunch, and the staple Monday-night supper of every Scottish family with roast leftovers.
 
 ## Ingredients
 
@@ -65,26 +65,26 @@ Stovies (the name comes from the French "étouffer", to smother or stew) is Scot
 2. Place 2-3 oatcakes alongside each portion.
 3. Add 2-3 slices of pickled beetroot on the side.
 4. Pass HP Brown Sauce at the table.
-5. Some Scots stir in a splash of cold milk at the table - the canonical finish.
+5. Some Scots stir in a splash of cold milk at the table - the traditional finish.
 6. Eat with a spoon.
 
 ## Notes
-- **Beef dripping is the canonical fat:** save the dripping from your Sunday roast in a jar in the fridge; you'll use it for stovies and Yorkshire puddings. If unavailable, lard or butter works.
+- **Beef dripping is the traditional fat:** save the dripping from your Sunday roast in a jar in the fridge; you'll use it for stovies and Yorkshire puddings. If unavailable, lard or butter works.
 - **Slow and low:** stovies must stew gently. Boiling on high heat gives you mashed-meat-soup, not stovies.
 - **Cold meat:** the meat must be cold from the fridge before adding. Hot meat overcooks.
 - **Acid balance:** the pickled beetroot or HP sauce on the side cuts the richness. Don't skip it.
-- **Oatcakes alongside:** the canonical Scottish accompaniment. The slight bitterness of oats complements the rich stovies.
+- **Oatcakes alongside:** the traditional Scottish accompaniment. The slight bitterness of oats complements the rich stovies.
 
 ## Variations
 **Aberdeen stovies (corned beef):** swap the leftover roast for a tin of corned beef, broken up. The dish of north-east Scotland.
 **Mince stovies (Fife / West):** swap the leftover roast for 400 g raw minced beef, browned with the onion. A from-scratch version.
 **With sausage:** add a few links of Lorne sausage (Scottish square sliced sausage), fried separately and added to the stovies for the last 10 minutes.
 **With smoked sausage:** add 200 g sliced smoked sausage - Polish kielbasa or similar.
-**With black pudding:** add slices of black pudding (Stornoway is the canonical Scottish black pudding) to the top for the last 15 minutes.
+**With black pudding:** add slices of black pudding (Stornoway is the traditional Scottish black pudding) to the top for the last 15 minutes.
 **With dripping toast:** make extra dripping toast (bread fried in beef dripping) and serve alongside instead of oatcakes.
 
 ## Serving
-On the Monday after a Sunday roast (the canonical setting) · on Bonfire Night (5 November) with the firework crowd · at a Burns Night day-after lunch · at a Scottish gastropub as a hearty winter main · at a Scottish wedding-day-after breakfast for the hung-over wedding party · at home as a Tuesday weeknight supper · in primary-school dining rooms in winter.
+On the Monday after a Sunday roast (the traditional setting) · on Bonfire Night (5 November) with the firework crowd · at a Burns Night day-after lunch · at a Scottish gastropub as a hearty winter main · at a Scottish wedding-day-after breakfast for the hung-over wedding party · at home as a Tuesday weeknight supper · in primary-school dining rooms in winter.
 
 ## Storage
 - Refrigerates 3 days; many Scots think stovies are best on day 2 when the flavour fully marries.

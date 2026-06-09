@@ -11,13 +11,13 @@
 **Cook Time:** 3 hours (steaming)
 
 ## Overview
-Clootie dumpling is one of Scotland's most ancient and most distinctively Scottish puddings, named for the "cloot" (Scots for cloth) of finely-woven linen or muslin used to wrap the pudding before simmering. The base is rich and dense: flour, suet, oatmeal, brown sugar, dried mixed fruit, warm spices and just enough buttermilk to bring it to a stiff dough. Wrapped in the floured cloot, tied tightly with string and simmered in boiling water for three hours. The result emerges as a dark dumpling with a distinctive slightly chewy skin from the cloth pressing into the dough, and a soft fragrant centre. The traditional touch is a sixpence (or any small silver coin, wrapped in greaseproof paper) hidden in the dough; whoever finds it gets good fortune for the year. Eaten warm with custard or cream, or sliced thick the next morning and fried in butter to a crisp golden caramel for breakfast.
+Clootie dumpling is one of Scotland's most ancient and most distinctively Scottish puddings, named for the "cloot" (Scots for cloth) of finely-woven linen or muslin used to wrap the pudding before simmering. The base is rich and dense: flour, suet, oatmeal, brown sugar, dried mixed fruit, warm spices and just enough buttermilk to bring it to a stiff dough. Wrapped in the floured cloot, tied tightly with string and simmered in boiling water for three hours. The result emerges as a dark dumpling with a distinctive slightly chewy skin from the cloth pressing into the dough, and a soft fragrant centre. The traditional touch is a sixpence (or any small silver coin, wrapped in greaseproof paper) hidden in the dough; whoever finds it gets good fortune for the year. Eat warm with custard or cream, or sliced thick the next morning and fried in butter to a crisp golden caramel for breakfast.
 
 ## Ingredients
 
 ### Dumpling
 - 250 g plain flour
-- 200 g shredded suet (beef or vegetable; the canonical Scottish baking fat)
+- 200 g shredded suet (beef or vegetable; the traditional Scottish baking fat)
 - 100 g pinhead or medium oatmeal
 - 200 g soft dark brown sugar
 - 1 teaspoon bicarbonate of soda
@@ -104,20 +104,20 @@ Clootie dumpling is one of Scotland's most ancient and most distinctively Scotti
 2. Place on warm plates.
 3. Pour hot homemade custard generously over.
 4. Or serve with pouring cream and/or vanilla ice cream.
-5. A small dram of whisky alongside is canonical.
+5. A small dram of whisky alongside is traditional.
 
-### Stage 8 - Breakfast the next morning (the canonical leftover use)
+### Stage 8 - Breakfast the next morning (the traditional leftover use)
 1. Slice the cold dumpling into 2 cm slices.
 2. Heat a generous knob of butter in a frying pan.
 3. Fry the slices till crisp and golden on both sides (about 2 minutes per side).
 4. Serve with a fried egg and a strong cup of tea. The Scottish breakfast of champions.
 
 ## Notes
-- **The cloot must be floured generously:** the floured cloth creates the canonical Scottish dumpling skin. Don't skip.
+- **The cloot must be floured generously:** the floured cloth creates the traditional Scottish dumpling skin. Don't skip.
 - **Tie tightly:** a loose tie lets water in and turns the dumpling soggy.
 - **Plate or rack at the bottom of the pot:** keeps the dumpling off direct heat (which would cook the bottom to a hard skin).
 - **3 hours minimum:** undercooked dumpling is dense and gummy. Long slow steam is the answer.
-- **The sixpence is canonical:** wrap it in greaseproof paper (so it doesn't taste of metal); warn your guests so they don't crack a tooth.
+- **The sixpence is traditional:** wrap it in greaseproof paper (so it doesn't taste of metal); warn your guests so they don't crack a tooth.
 
 ## Variations
 **Whisky clootie:** soak the fruit in 100 ml single-malt Scotch overnight (the boozy version).
@@ -134,6 +134,6 @@ At Christmas Day dinner (in many Scottish homes, instead of plum pudding) · at 
 ## Storage
 - Refrigerates 1 week (well-wrapped).
 - Freezes 3 months; defrost overnight and reheat by steaming 20 minutes.
-- The "fried in butter the next morning" use is the canonical leftover treatment - slice thick, fry golden, serve with eggs.
+- The "fried in butter the next morning" use is the traditional leftover treatment - slice thick, fry golden, serve with eggs.
 - Cold dumpling sliced thin keeps in a sealed tin 5 days as a tea-time treat with butter.
 - Slightly stale clootie dumpling is the best version for frying - drier, crisps better.

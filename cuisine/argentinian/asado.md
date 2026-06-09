@@ -16,13 +16,13 @@ Asado is Argentina's most sacred food ritual - far more than a barbecue, it's th
 ## Ingredients
 
 ### The meats (for 8-10)
-- 1.5 kg asado de tira (short ribs, cross-cut into 3 cm strips) - the canonical first beef cut
+- 1.5 kg asado de tira (short ribs, cross-cut into 3 cm strips) - the traditional first beef cut
 - 1 kg vacío (flank steak, with the fat cap on) - the asador's favourite
 - 800 g bife de chorizo (sirloin steak) OR entraña (skirt) - premium cuts
 - 6 chorizo sausages (Argentine; sweet or spicy)
 - 6 morcilla (Argentine blood sausages with rice and spices)
-- 400 g molleja (sweetbreads, optional but canonical)
-- 200 g chinchulines (small intestine, optional; very canonical, very strong)
+- 400 g molleja (sweetbreads, optional but traditional)
+- 200 g chinchulines (small intestine, optional; very traditional, very strong)
 
 ### Seasoning
 - 200 g coarse rock salt (sal gruesa; the only seasoning)
@@ -93,7 +93,7 @@ Asado is Argentina's most sacred food ritual - far more than a barbecue, it's th
 5. Talk for 3-4 hours.
 
 ## Notes
-- **Wood coals not flames:** the canonical asado cooks over embers, not over open flame. Flames char the meat and impart bitter taste.
+- **Wood coals not flames:** the traditional asado cooks over embers, not over open flame. Flames char the meat and impart bitter taste.
 - **Salt only:** no marinades, no rubs, no sauces during cooking. Argentine asado is about the meat itself.
 - **The asador is sacred:** one person is responsible for the fire. Don't let anyone else interfere.
 - **The hand test:** hold your hand 15 cm above the grate. If you can hold it 4-5 seconds, the heat is right. Less, too hot; more, too cold.
@@ -102,16 +102,16 @@ Asado is Argentina's most sacred food ritual - far more than a barbecue, it's th
 ## Variations
 **Asado al asador (cross-grilled):** whole lamb, goat, or pig tied to a wooden cross and slow-cooked beside the fire for 4-6 hours. The Patagonian variant.
 **Smaller home asado:** a small parrilla on a balcony - 2 cuts of beef, chorizo, morcilla, and provoleta - feeds 4.
-**Charcoal-only asado:** less canonical but works (uses pure charcoal instead of wood); easier in apartment settings.
+**Charcoal-only asado:** less traditional but works (uses pure charcoal instead of wood); easier in apartment settings.
 **Asado para vegetarianos:** the modern Argentine vegetarian variant - grilled portobello, halloumi, peppers, courgette; chimichurri the same.
 **Patagonian lamb asado:** whole lamb cross-grilled for 6 hours - the Patagonian ritual.
 **Bife de chorizo a la milanesa:** the milanesa interpretation - schnitzel-style, breaded and fried.
 
 ## Serving
-Every Sunday afternoon in every Argentine home (the canonical setting) · at a Buenos Aires parrilla restaurant · at a Patagonian estancia (ranch) · at a Mendoza wine-country lunch · at an Argentine Independence Day celebration (9 July) · at an Argentine wedding reception · at home with Malbec and friends.
+Every Sunday afternoon in every Argentine home (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Patagonian estancia (ranch) · at a Mendoza wine-country lunch · at an Argentine Independence Day celebration (9 July) · at an Argentine wedding reception · at home with Malbec and friends.
 
 ## Storage
 - Leftover cooked meat refrigerates 3 days; eat cold sliced with chimichurri.
-- Sliced asado in a sandwich (with chimichurri) is the canonical Monday lunch.
+- Sliced asado in a sandwich (with chimichurri) is the traditional Monday lunch.
 - Don't freeze cooked beef (texture suffers).
 - The chimichurri keeps 2 weeks refrigerated; gets better with age.

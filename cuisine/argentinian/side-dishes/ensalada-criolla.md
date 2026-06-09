@@ -2,7 +2,7 @@
 
 ![Ensalada Criolla](resources/ensalada-criolla.jpg)
 
-*Argentina's everyday salsa-salad hybrid: finely diced tomato, red onion, green bell pepper, fresh parsley and a sharp red wine vinaigrette. Eaten at every Argentine asado, alongside churrasco, in choripán sandwiches, on top of provoleta, with bread. The Argentine answer to pico de gallo; bright, sharp, refreshing, the perfect foil to grilled red meat.*
+*Argentina's everyday salsa-salad hybrid: finely diced tomato, red onion, green bell pepper, fresh parsley and a sharp red wine vinaigrette. Eat at every Argentine asado, alongside churrasco, in choripán sandwiches, on top of provoleta, with bread. The Argentine answer to pico de gallo; bright, sharp, refreshing, the perfect foil to grilled red meat.*
 
 **Serves:** 6-8 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Ensalada criolla (literally "creole salad" - referring to the Spanish-colonial-era mixed Argentine identity) is one of Argentina's most ubiquitous everyday dishes - a finely diced mixture of tomato, red onion, green pepper, garlic, fresh parsley, dressed with a simple red wine vinaigrette. Found at every Argentine asado, every parrilla restaurant, every bodegón, every family table - it's both a salad (eaten as a side) and a salsa (spooned over grilled meat). The construction is straightforward: ripe tomatoes are diced 5 mm (with juices retained); red onion is sliced into thin half-moons or finely diced (the canonical Argentine cut is half-moons, slightly larger than the tomato dice); green bell pepper is diced 5 mm; fresh parsley is chopped; everything is combined with red wine vinegar, olive oil, salt, and a small amount of water (the water "softens" the acid and lets it cling to the vegetables). Rested 30 minutes for flavours to marry.
+Ensalada criolla (literally "creole salad" - referring to the Spanish-colonial-era mixed Argentine identity) is one of Argentina's most ubiquitous everyday dishes - a finely diced mixture of tomato, red onion, green pepper, garlic, fresh parsley, dressed with a simple red wine vinaigrette. Found at every Argentine asado, every parrilla restaurant, every bodegón, every family table - it's both a salad (eaten as a side) and a salsa (spooned over grilled meat). The construction is straightforward: ripe tomatoes are diced 5 mm (with juices retained); red onion is sliced into thin half-moons or finely diced (the traditional Argentine cut is half-moons, slightly larger than the tomato dice); green bell pepper is diced 5 mm; fresh parsley is chopped; everything is combined with red wine vinegar, olive oil, salt, and a small amount of water (the water "softens" the acid and lets it cling to the vegetables). Rested 30 minutes for flavours to marry.
 
 ## Ingredients
 
@@ -44,7 +44,7 @@ Ensalada criolla (literally "creole salad" - referring to the Spanish-colonial-e
 
 ### Stage 1 - Dice the vegetables
 1. Dice the tomatoes into 5 mm pieces (retain all the juice).
-2. Slice the red onion into thin half-moons (or finely dice - both are canonical).
+2. Slice the red onion into thin half-moons (or finely dice - both are traditional).
 3. Dice the green and red bell peppers 5 mm.
 4. Chop the parsley.
 5. Finely chop the garlic.
@@ -76,7 +76,7 @@ Ensalada criolla (literally "creole salad" - referring to the Spanish-colonial-e
 
 ## Variations
 **With cucumber:** add 1 diced cucumber (deseeded) for refreshing crunch - modern variant.
-**With avocado:** add ½ diced avocado just before serving - Argentine modern; not canonical.
+**With avocado:** add ½ diced avocado just before serving - Argentine modern; not traditional.
 **With corn:** add 100 g cooked corn kernels - summer variant.
 **With anchovy:** add 4 chopped anchovy fillets to the dressing - Spanish-influenced.
 **Spicy criolla:** double the chilli flakes; add 1 chopped fresh chilli.
@@ -84,7 +84,7 @@ Ensalada criolla (literally "creole salad" - referring to the Spanish-colonial-e
 **With egg:** stir in 2 chopped hard-boiled eggs - heartier version, almost a meal.
 
 ## Serving
-At every Argentine asado as a side (the canonical setting) · in choripán sandwiches · on grilled provoleta · alongside milanesa · with fresh bread for soaking · at an Argentine wedding reception · at home as the daily vegetable side.
+At every Argentine asado as a side (the traditional setting) · in choripán sandwiches · on grilled provoleta · alongside milanesa · with fresh bread for soaking · at an Argentine wedding reception · at home as the daily vegetable side.
 
 ## Storage
 - Refrigerates 2 days; the texture softens but the flavour intensifies.

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Callaloo is Trinidad's most beloved Sunday-lunch side: dasheen leaves cooked down with sliced okra, coconut milk, garlic, onion, fresh thyme, Scotch bonnet and either crab or salt meat into a thick green stewed-down side. Spooned over rice or served in a small bowl alongside macaroni pie, stewed chicken and the rest of the Trini Sunday spread. Related to but distinct from Jamaican callaloo (amaranth, breakfast side) and Haitian lalo (sometimes jute leaves); the Trinidadian version is properly thick, coconut-rich and umami-heavy. Dasheen bush is canonical; taro leaves, Caribbean amaranth or fresh spinach substitute. Don't use kale or collards; the texture is wrong. The okra is the natural thickener and the slime is part of the dish's character; skipping it gives thin watery callaloo. Crab is the celebration version, salt meat the everyday one.
+Callaloo is Trinidad's most beloved Sunday-lunch side: dasheen leaves cooked down with sliced okra, coconut milk, garlic, onion, fresh thyme, Scotch bonnet and either crab or salt meat into a thick green stewed-down side. Spooned over rice or served in a small bowl alongside macaroni pie, stewed chicken and the rest of the Trini Sunday spread. Related to but distinct from Jamaican callaloo (amaranth, breakfast side) and Haitian lalo (sometimes jute leaves); the Trinidadian version is properly thick, coconut-rich and umami-heavy. Dasheen bush is traditional; taro leaves, Caribbean amaranth or fresh spinach substitute. Don't use kale or collards; the texture is wrong. The okra is the natural thickener and the slime is part of the dish's character; skipping it gives thin watery callaloo. Crab is the celebration version, salt meat the everyday one.
 
 ## Ingredients
 
@@ -83,10 +83,10 @@ Callaloo is Trinidad's most beloved Sunday-lunch side: dasheen leaves cooked dow
 2. Serve warm; callaloo is a side, not a main course.
 
 ## Notes
-- **Dasheen leaves are canonical; spinach is the workable substitute:** if you can find frozen taro leaves at an Asian market or fresh dasheen at a Caribbean market, use them. Spinach is a thoroughly acceptable substitute; the flavour is slightly different but the dish is good.
+- **Dasheen leaves are traditional; spinach is the workable substitute:** if you can find frozen taro leaves at an Asian market or fresh dasheen at a Caribbean market, use them. Spinach is a thoroughly acceptable substitute; the flavour is slightly different but the dish is good.
 - **Don't skip the okra:** sliced okra is the natural thickener; without it, callaloo is thin and watery. The slight slime is part of the dish.
 - **Coconut milk gives the proper Trinidadian profile:** the coconut adds richness and a faint tropical note; don't substitute with cream or milk.
-- **Salt meat or smoked turkey for umami:** both give the canonical umami backbone. Vegetarians can substitute with 2 tablespoons of dark soy sauce and 1 teaspoon of smoked paprika for a similar profile.
+- **Salt meat or smoked turkey for umami:** both give the traditional umami backbone. Vegetarians can substitute with 2 tablespoons of dark soy sauce and 1 teaspoon of smoked paprika for a similar profile.
 - **Stew it down properly:** Trinidadian callaloo is not just-wilted greens; it's a properly stewed-down side, cooked 35-40 minutes till the greens break down completely. Don't undercook.
 
 ## Variations

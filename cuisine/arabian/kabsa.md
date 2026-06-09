@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Saudi Arabia's national dish, the one platter you'll meet at almost every gathering from family lunch through wedding banquet. You brown chicken pieces or lamb shoulder hard in a heavy pot, then build a base of onion, garlic and ginger softened in the same fat, with tomato and a spoonful of baharat (or a dedicated kabsa spice mix) blooming until the kitchen fills with cardamom and cinnamon. The protein simmers in tomato and stock until it's tender and pulling away from the bone, then long-grain rice goes in to cook absorption-style in the same liquid, drinking up every layer of flavour the broth carries. You finish with almonds toasted in butter, raisins plumped briefly, and a fresh salsa of tomato, onion, chilli and parsley spooned on the side to cut the richness. Eaten communally from the centre platter, with hands or a long spoon.
+Saudi Arabia's national dish, the one platter you'll meet at almost every gathering from family lunch through wedding banquet. You brown chicken pieces or lamb shoulder hard in a heavy pot, then build a base of onion, garlic and ginger softened in the same fat, with tomato and a spoonful of baharat (or a dedicated kabsa spice mix) blooming until the kitchen fills with cardamom and cinnamon. The protein simmers in tomato and stock until it's tender and pulling away from the bone, then long-grain rice goes in to cook absorption-style in the same liquid, drinking up every layer of flavour the broth carries. You finish with almonds toasted in butter, raisins plumped briefly, and a fresh salsa of tomato, onion, chilli and parsley spooned on the side to cut the richness. Eat communally from the centre platter, with hands or a long spoon.
 
 ## Ingredients
 

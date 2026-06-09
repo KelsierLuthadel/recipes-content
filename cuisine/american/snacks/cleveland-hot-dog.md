@@ -2,7 +2,7 @@
 
 ![Cleveland Hot Dog](resources/cleveland-hot-dog.jpg)
 
-*Cleveland's Polish-American polish boy hot dog: a grilled Polish kielbasa sausage in a soft bun, topped with a heap of French fries, a generous drizzle of Cleveland-style "Stadium Mustard" hot sauce, and a heap of vinegar-tangy cole slaw. The Cleveland summer-party signature; Stadium Mustard is the canonical city condiment.*
+*Cleveland's Polish-American polish boy hot dog: a grilled Polish kielbasa sausage in a soft bun, topped with a heap of French fries, a generous drizzle of Cleveland-style "Stadium Mustard" hot sauce, and a heap of vinegar-tangy cole slaw. The Cleveland summer-party signature; Stadium Mustard is the traditional city condiment.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signature street and BBQ-joint sandwich, born out of Cleveland's deep Polish and Eastern European immigrant heritage (Cleveland once had the second-largest Polish-American population in America after Chicago): a grilled kielbasa (Polish smoked sausage) in a soft white bun, then loaded with three things at once - a heap of French fries piled inside the bun on top of the kielbasa, a generous drizzle of barbecue sauce or the canonical Cleveland "Stadium Mustard" hot sauce (the spicy brown mustard sold at Cleveland Browns games since 1969), and a heap of vinegar-based cole slaw. The result is a vertical tower of textures: chewy bun, snappy sausage casing, crispy fries, tangy spicy sauce, cool crunchy slaw. Eat with two hands and a fork standing by for fallout. Created by Virgil Whitmore at a Cleveland street stand in the 1940s; canonical at Hot Sauce Williams, Freddie's BBQ, and Seti's Polish Boys.
+The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signature street and BBQ-joint sandwich, born out of Cleveland's deep Polish and Eastern European immigrant heritage (Cleveland once had the second-largest Polish-American population in America after Chicago): a grilled kielbasa (Polish smoked sausage) in a soft white bun, then loaded with three things at once - a heap of French fries piled inside the bun on top of the kielbasa, a generous drizzle of barbecue sauce or the traditional Cleveland "Stadium Mustard" hot sauce (the spicy brown mustard sold at Cleveland Browns games since 1969), and a heap of vinegar-based cole slaw. The result is a vertical tower of textures: chewy bun, snappy sausage casing, crispy fries, tangy spicy sauce, cool crunchy slaw. Eat with two hands and a fork standing by for fallout. Created by Virgil Whitmore at a Cleveland street stand in the 1940s; traditional at Hot Sauce Williams, Freddie's BBQ, and Seti's Polish Boys.
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signatur
 - ½ teaspoon ground black pepper
 
 ### Cleveland Stadium Mustard hot sauce
-- 100 ml Bertman Stadium Mustard (canonical Cleveland brand) OR 100 ml spicy brown mustard
+- 100 ml Bertman Stadium Mustard (traditional Cleveland brand) OR 100 ml spicy brown mustard
 - 2 tablespoons hot sauce (Frank's RedHot or Tabasco)
 - 1 tablespoon white vinegar
 - 1 tablespoon Worcestershire sauce

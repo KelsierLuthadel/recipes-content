@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Black Russian was invented in 1949 by Gustave Tops, a Belgian bartender at the Hotel Metropole in Brussels, in honour of the visiting American ambassador to Luxembourg. The "Russian" in the name comes from the vodka; the "black" from Kahlúa's deep brown colour. Two ingredients (vodka and Kahlúa), poured over ice in a rocks glass, stirred briefly, served. The cream-floated version (the [White Russian](white-russian.md)) came later, in the 1960s, and overtook the original in fame thanks to The Big Lebowski; the Black Russian is the original austere drink, more like an iced coffee with a kick. The 2:1 ratio (vodka to Kahlúa) is canonical; some bars push 3:1 for a drier drink, others 1:1 for sweeter. Drink as an after-dinner digestif or as a quiet evening drink with a film.
+The Black Russian was invented in 1949 by Gustave Tops, a Belgian bartender at the Hotel Metropole in Brussels, in honour of the visiting American ambassador to Luxembourg. The "Russian" in the name comes from the vodka; the "black" from Kahlúa's deep brown colour. Two ingredients (vodka and Kahlúa), poured over ice in a rocks glass, stirred briefly, served. The cream-floated version (the [White Russian](white-russian.md)) came later, in the 1960s, and overtook the original in fame thanks to The Big Lebowski; the Black Russian is the original austere drink, more like an iced coffee with a kick. The 2:1 ratio (vodka to Kahlúa) is traditional; some bars push 3:1 for a drier drink, others 1:1 for sweeter. Drink as an after-dinner digestif or as a quiet evening drink with a film.
 
 ## Ingredients
 
@@ -39,7 +39,7 @@ The Black Russian was invented in 1949 by Gustave Tops, a Belgian bartender at t
 
 ## Notes
 - **Two ingredients, two adjustments.** The drink is so simple that the only variables are the ratio (2:1, 3:1 or 1:1) and the ice (one big cube melts slowest). Pick once, drink twice.
-- **Quality coffee liqueur matters.** Kahlúa is the canonical choice; Mr Black is a newer, less-sweet alternative that gives a more coffee-forward drink (and is worth the upgrade for the same money as a mid-shelf Kahlúa).
+- **Quality coffee liqueur matters.** Kahlúa is the traditional choice; Mr Black is a newer, less-sweet alternative that gives a more coffee-forward drink (and is worth the upgrade for the same money as a mid-shelf Kahlúa).
 - **Don't shake.** Same rule as the Negroni and Old Fashioned: shaking aerates the drink and chips the ice into shards that over-dilute. Stir, briefly.
 - **Coffee beans, not a cherry.** The cherry-on-a-stick belongs on the White Russian and the Manhattan; the Black Russian's garnish is the coffee bean.
 

@@ -2,7 +2,7 @@
 
 ![Onion Bhaji](resources/onion-bhaji.jpg)
 
-*Crisp, spiced chickpea-flour fritters of sliced onion, the opening act on every UK curry-house menu. Eaten with mint raita and lime wedge.*
+*Crisp, spiced chickpea-flour fritters of sliced onion, the opening act on every UK curry-house menu. Eat with mint raita and lime wedge.*
 
 **Serves:** 4 (makes about 12 fritters)
 

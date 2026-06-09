@@ -2,7 +2,7 @@
 
 ![Æbleflæsk](resources/aebleflaesk.jpg)
 
-*Denmark's autumn pork-and-apple dish: thick slices of bacon (or pork belly) fried crispy then layered with a sweet-tart compote of cooked apple and onion in the bacon fat. Eaten warm on dark rye bread with mustard and chopped chives; a centuries-old Danish farmhouse staple that's still on every Danish menu in apple season.*
+*Denmark's autumn pork-and-apple dish: thick slices of bacon (or pork belly) fried crispy then layered with a sweet-tart compote of cooked apple and onion in the bacon fat. Eat warm on dark rye bread with mustard and chopped chives; a centuries-old Danish farmhouse staple that's still on every Danish menu in apple season.*
 
 **Serves:** 4
 
@@ -82,7 +82,7 @@
 - **Tart cooking apples:** Bramleys hold up. Sweet eating apples turn to sauce.
 - **Keep the apples chunky:** stir gently, don't mash. The dish is meant to have texture.
 - **Bacon fat is the cooking medium:** don't drain it off; cook the onions and apples in it.
-- **Warm on rye with mustard:** the canonical Danish presentation.
+- **Warm on rye with mustard:** the traditional Danish presentation.
 
 ## Variations
 **With pork belly instead of bacon:** thick slices of salted Danish flæsk - more substantial.

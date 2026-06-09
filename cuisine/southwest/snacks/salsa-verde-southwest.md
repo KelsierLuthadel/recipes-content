@@ -2,7 +2,7 @@
 
 ![Salsa Verde Southwest](resources/salsa-verde-southwest.jpg)
 
-*The Southwest's green table salsa: roasted tomatillos, fresh jalapeños, garlic, cilantro and lime, blitzed to a chunky bright green salsa. The canonical Southwest table condiment, on tacos, enchiladas, eggs.*
+*The Southwest's green table salsa: roasted tomatillos, fresh jalapeños, garlic, cilantro and lime, blitzed to a chunky bright green salsa. The traditional Southwest table condiment, on tacos, enchiladas, eggs.*
 
 **Serves:** Makes 500 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Southwest salsa verde is the canonical green table salsa across the Southwestern United States, distinct from the smoother cooked-then-blended Mexican version: tomatillos (the Mexican husk tomato; canned or fresh) briefly cooked, then blitzed with fresh jalapeño, garlic, raw chopped white onion, fresh cilantro, lime juice, ground cumin and salt into a chunky vibrant green salsa. Eaten as table condiment, in enchiladas suizas, drizzled on tacos, with chips.
+Southwest salsa verde is the traditional green table salsa across the Southwestern United States, distinct from the smoother cooked-then-blended Mexican version: tomatillos (the Mexican husk tomato; canned or fresh) briefly cooked, then blitzed with fresh jalapeño, garlic, raw chopped white onion, fresh cilantro, lime juice, ground cumin and salt into a chunky vibrant green salsa. Eat as table condiment, in enchiladas suizas, drizzled on tacos, with chips.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Southwest salsa verde is the canonical green table salsa across the Southwestern
 1. Rest 20 minutes for flavours to marry.
 
 ## Notes
-- **Tomatillos canonical.**
+- **Tomatillos traditional.**
 - **Chunky texture, not smooth.**
 - **Eat fresh.**
 

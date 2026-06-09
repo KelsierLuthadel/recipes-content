@@ -80,7 +80,7 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 4. Bake 8 minutes at 180°C.
 5. Reduce oven to 160°C (320°F); bake another 10-12 minutes.
 6. The top should be lightly golden and crisp; the inside should still feel marshmallow-soft.
-7. Don't over-bake or the roulade will crack badly when rolled (a small crack is canonical; a deep split means over-baked).
+7. Don't over-bake or the roulade will crack badly when rolled (a small crack is traditional; a deep split means over-baked).
 
 ### Stage 5 - Cool
 1. Take the meringue out of the oven.
@@ -128,9 +128,9 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 **Raspberry version:** swap the lemon curd for raspberry jam (or a raspberry coulis); add fresh raspberries inside the cream layer.
 **Passion fruit version:** swap the lemon curd for passion fruit curd; scatter passion fruit seeds on top.
 **Chocolate version:** swap the lemon curd for chocolate hazelnut spread + the meringue lightly cocoa-flecked (1 tablespoon cocoa folded in with the cornflour).
-**Sponge version:** swap the meringue base for a thin Victoria-style sponge (200g flour + butter + sugar + 4 eggs + baking powder, baked at 180°C for 12 min, rolled while still warm). Less canonical but easier to roll without cracking.
+**Sponge version:** swap the meringue base for a thin Victoria-style sponge (200g flour + butter + sugar + 4 eggs + baking powder, baked at 180°C for 12 min, rolled while still warm). Less traditional but easier to roll without cracking.
 **Mini individual roulades:** cut the cooled meringue into 4 long strips before assembling; roll each separately into mini logs.
-**Gin-and-lemon:** add 2 tablespoons gin to the lemon curd; less canonical but excellent.
+**Gin-and-lemon:** add 2 tablespoons gin to the lemon curd; less traditional but excellent.
 **Salted caramel version:** swap the lemon curd for a thin layer of salted caramel + whipped cream; the autumn variant.
 
 ## Serving

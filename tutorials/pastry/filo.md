@@ -129,7 +129,7 @@ Used regular salted butter without clarifying it (or used poor-quality olive oil
 
 ## Where Next
 - [Puff and Rough Puff](puff.md): the laminated alternative.
-- [Baklava](../../cuisine/turkish/desserts/baklava.md): the canonical layered filo dessert.
+- [Baklava](../../cuisine/turkish/desserts/baklava.md): the traditional layered filo dessert.
 - [Spanakopita](../../cuisine/greek/spanakopita.md): the spinach-and-feta classic.
 - [Filo Pastry recipe](../../baking/pastry/filo-pastry.md): if you want to make your own.
 - [Pastry Course landing](pastry.md): back to the main course.

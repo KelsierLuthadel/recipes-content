@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes (plus 2 hours chilling)
 
 ## Overview
-Chicha morada is Peru's most identity-defining non-alcoholic drink and the canonical accompaniment to every meal: alongside ceviche, lomo saltado, aji de gallina or anticuchos at every Peruvian household lunch and restaurant table. The corn is non-negotiable: dried maíz morado (Andean purple corn), sold as whole cobs at Latin American shops. The deep purple anthocyanin colour leaches into the cooking water during a long slow simmer, producing the unmistakable electric-purple of authentic chicha morada (frozen blueberries with blackcurrant juice substitute for colour but the flavour is different). The corn cobs simmer with pineapple skin (rind only, not the flesh), apple cores, cinnamon sticks, cloves and a small piece of orange peel: all contributing aroma without bitterness. Strained, sweetened generously, and finished with chopped fresh apple, fresh pineapple and lime juice; chilled at least two hours and ideally overnight before serving over ice. The non-alcoholic cousin to the fermented chicha de jora; the drink that defines the Peruvian table.
+Chicha morada is Peru's most identity-defining non-alcoholic drink and the traditional accompaniment to every meal: alongside ceviche, lomo saltado, aji de gallina or anticuchos at every Peruvian household lunch and restaurant table. The corn is non-negotiable: dried maíz morado (Andean purple corn), sold as whole cobs at Latin American shops. The deep purple anthocyanin colour leaches into the cooking water during a long slow simmer, producing the unmistakable electric-purple of authentic chicha morada (frozen blueberries with blackcurrant juice substitute for colour but the flavour is different). The corn cobs simmer with pineapple skin (rind only, not the flesh), apple cores, cinnamon sticks, cloves and a small piece of orange peel: all contributing aroma without bitterness. Strained, sweetened generously, and finished with chopped fresh apple, fresh pineapple and lime juice; chilled at least two hours and ideally overnight before serving over ice. The non-alcoholic cousin to the fermented chicha de jora; the drink that defines the Peruvian table.
 
 ## Ingredients
 
@@ -81,11 +81,11 @@ Chicha morada is Peru's most identity-defining non-alcoholic drink and the canon
 
 ## Notes
 - **Dried maíz morado is dramatically different from substitutes:** the deep-purple Andean corn has a unique earthy-floral character. Source from a Latin American shop if you can.
-- **Pineapple skin in the brew:** the canonical Peruvian addition - the rind gives aroma without the cloudiness that the flesh would. Don't skip.
+- **Pineapple skin in the brew:** the traditional Peruvian addition - the rind gives aroma without the cloudiness that the flesh would. Don't skip.
 - **Chill fully:** 2 hours minimum. The drink is dramatically better cold than warm.
 - **Lime juice fresh:** never bottled. The bright bracing acidity is critical.
 - **Don't over-sweeten:** chicha morada is moderately sweet, not aggressively. Adjust to taste but stop at 200 g sugar for 2 litres.
-- **The fresh fruit stays crunchy:** added cold at the end, the apple and pineapple stay crisp - the canonical Peruvian texture.
+- **The fresh fruit stays crunchy:** added cold at the end, the apple and pineapple stay crisp - the traditional Peruvian texture.
 
 ## Variations
 **Chicha morada with chia seeds:** add 2 tablespoons chia seeds to the chilled drink; let stand 20 minutes till the seeds bloom into a gel - the modern Peruvian variant.
@@ -97,7 +97,7 @@ Chicha morada is Peru's most identity-defining non-alcoholic drink and the canon
 **Smaller batch:** halve all the ingredients for 1 litre instead of 2.
 
 ## Serving
-At a Peruvian household lunch (the canonical setting; chicha morada is the canonical Peruvian table drink at every meal) · at a Peruvian restaurant alongside ceviche, lomo saltado, aji de gallina or anticuchos · at a Peruvian Independence Day celebration · at a Peruvian wedding · at a Peruvian street stall (chicheras sell chicha morada from glass jugs on every Peruvian street corner) · at home as the canonical Peruvian-themed dinner accompaniment.
+At a Peruvian household lunch (the traditional setting; chicha morada is the traditional Peruvian table drink at every meal) · at a Peruvian restaurant alongside ceviche, lomo saltado, aji de gallina or anticuchos · at a Peruvian Independence Day celebration · at a Peruvian wedding · at a Peruvian street stall (chicheras sell chicha morada from glass jugs on every Peruvian street corner) · at home as the traditional Peruvian-themed dinner accompaniment.
 
 ## Storage
 - The brewed concentrated broth refrigerates 5 days; freezes 3 months.

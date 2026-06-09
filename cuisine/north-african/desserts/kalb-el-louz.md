@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Algeria's almond-and-semolina cake, the Ramadan institution that sits on every iftar table in diamonds dusted with toasted almonds: a buttery semolina-and-ground-almond base baked in a wide tin, scored into diamonds with an almond pressed into each, then drenched in orange-flower syrup till the cake drinks the lot. The semolina rest is essential; an hour after mixing butter into semolina hydrates the granules and gives kalb el-louz its characteristic dense-yielding crumb. Skipping it leaves the cake gritty. The warm orange-flower syrup pours over the moment the cake comes out of the oven (gradually, because it absorbs an astonishing amount), then rests at room temperature at least four hours and ideally overnight so the syrup distributes evenly. Eaten at room temperature with strong mint tea.
+Algeria's almond-and-semolina cake, the Ramadan institution that sits on every iftar table in diamonds dusted with toasted almonds: a buttery semolina-and-ground-almond base baked in a wide tin, scored into diamonds with an almond pressed into each, then drenched in orange-flower syrup till the cake drinks the lot. The semolina rest is essential; an hour after mixing butter into semolina hydrates the granules and gives kalb el-louz its characteristic dense-yielding crumb. Skipping it leaves the cake gritty. The warm orange-flower syrup pours over the moment the cake comes out of the oven (gradually, because it absorbs an astonishing amount), then rests at room temperature at least four hours and ideally overnight so the syrup distributes evenly. Eat at room temperature with strong mint tea.
 
 ## Ingredients
 

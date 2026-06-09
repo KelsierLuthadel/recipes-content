@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The North African and Levantine one-pan breakfast that has spread across the whole region: eggs poached in a spiced tomato-and-pepper sauce, brought to the table in the cooking pan with bread to mop. Originally Tunisian or Libyan, now eaten everywhere from Tel Aviv to Cairo to Beirut. The sauce wants both sweet and smoked paprika (just smoked is one-note, just sweet lacks depth), plus cumin and caraway for the canonical aromatic profile. The tomato base must reduce properly before the eggs go in; a wet sauce makes wet eggs. Wells are pressed into the simmering sauce with the back of a spoon, eggs cracked into each, and the lid goes down so the steam poaches the whites through while the yolks stay runny. Don't stir once the eggs are in. Finished with crumbled feta and parsley or coriander; brought to the table in the pan with crusty bread.
+The North African and Levantine one-pan breakfast that has spread across the whole region: eggs poached in a spiced tomato-and-pepper sauce, brought to the table in the cooking pan with bread to mop. Originally Tunisian or Libyan, now eaten everywhere from Tel Aviv to Cairo to Beirut. The sauce wants both sweet and smoked paprika (just smoked is one-note, just sweet lacks depth), plus cumin and caraway for the traditional aromatic profile. The tomato base must reduce properly before the eggs go in; a wet sauce makes wet eggs. Wells are pressed into the simmering sauce with the back of a spoon, eggs cracked into each, and the lid goes down so the steam poaches the whites through while the yolks stay runny. Don't stir once the eggs are in. Finished with crumbled feta and parsley or coriander; brought to the table in the pan with crusty bread.
 
 ## Ingredients
 

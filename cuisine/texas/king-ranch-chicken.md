@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-King Ranch chicken casserole is one of Texas's most beloved home-cook casseroles and a fixture of every church potluck, family reunion, neighbour's housewarming and weeknight dinner: layers of shredded cooked chicken, torn corn tortillas, a creamy mushroom-cream-of-chicken-soup-based sauce (the canonical mid-century American shortcut), Rotel diced tomatoes with green chillies, sautéed onion and bell pepper, Monterey Jack and Pepper Jack, and a generous topping of grated sharp cheddar, baked till bubbly and golden. Despite the name, the dish has no historical connection to the actual King Ranch (the massive Texas cattle ranch); the name was applied later, likely for marketing. Exemplifies mid-century Texan-American comfort cooking. Rotel tomatoes are the canonical canned tomato-with-green-chillies product (substitute with diced tomatoes plus mild green chillies). Multiple cheeses give the proper Tex-Mex melt-and-flavour profile: Monterey Jack plus Pepper Jack plus sharp cheddar. Built in layers (tortillas, sauce, chicken, cheese) repeated two or three times.
+King Ranch chicken casserole is one of Texas's most beloved home-cook casseroles and a fixture of every church potluck, family reunion, neighbour's housewarming and weeknight dinner: layers of shredded cooked chicken, torn corn tortillas, a creamy mushroom-cream-of-chicken-soup-based sauce (the traditional mid-century American shortcut), Rotel diced tomatoes with green chillies, sautéed onion and bell pepper, Monterey Jack and Pepper Jack, and a generous topping of grated sharp cheddar, baked till bubbly and golden. Despite the name, the dish has no historical connection to the actual King Ranch (the massive Texas cattle ranch); the name was applied later, likely for marketing. Exemplifies mid-century Texan-American comfort cooking. Rotel tomatoes are the traditional canned tomato-with-green-chillies product (substitute with diced tomatoes plus mild green chillies). Multiple cheeses give the proper Tex-Mex melt-and-flavour profile: Monterey Jack plus Pepper Jack plus sharp cheddar. Built in layers (tortillas, sauce, chicken, cheese) repeated two or three times.
 
 ## Ingredients
 
@@ -89,7 +89,7 @@ King Ranch chicken casserole is one of Texas's most beloved home-cook casseroles
 3. Serve with sides - Mexican rice, refried beans, pico, avocado, sour cream, hot sauce.
 
 ## Notes
-- **Rotel canonical:** the Texan canned product.
+- **Rotel traditional:** the Texan canned product.
 - **Multiple cheeses:** Monterey Jack + Pepper Jack + Cheddar.
 - **Layer properly:** tortilla-chicken-sauce-cheese, repeat.
 - **Rest before serving:** layers firm up.

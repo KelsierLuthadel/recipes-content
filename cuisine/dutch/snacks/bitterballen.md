@@ -2,7 +2,7 @@
 
 ![Bitterballen](resources/bitterballen.jpg)
 
-*The Netherlands' canonical café snack: small spheres of shredded beef ragout, breaded and deep-fried golden with a molten centre. Served hot with a ramekin of sharp Dutch mustard.*
+*The Netherlands' traditional café snack: small spheres of shredded beef ragout, breaded and deep-fried golden with a molten centre. Served hot with a ramekin of sharp Dutch mustard.*
 
 **Serves:** 32 bitterballen (8 per person × 4)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours stewing + 25 minutes frying (plus 4 hours chilling)
 
 ## Overview
-Bitterballen are the Netherlands' most identity-defining drinking snack, named for the "bitter" aperitif (jenever, vermouth or beer) they're traditionally served with. Small spheres of beef ragout, sold in groups of six, eight or twelve on a small wooden board with a ramekin of grainy Dutch mustard, in every Dutch café and brown bar. This is not seasoned beef mince: the filling is a slow braise of shin or chuck cooked two and a half to three hours till fork-tender, shredded by hand into threads, then thickened with a heavy velouté of butter, flour and the strained braising liquid into a sauce that binds the meat. The mixture must be refrigerated firm (at least four hours, ideally overnight) before shaping; warm ragout falls apart in the breading. The canonical Dutch double-breading is flour, beaten egg, then breadcrumbs (some home cooks do a triple coat for extra crisp). Eat hot, golden outside and almost-molten inside.
+Bitterballen are the Netherlands' most identity-defining drinking snack, named for the "bitter" aperitif (jenever, vermouth or beer) they're traditionally served with. Small spheres of beef ragout, sold in groups of six, eight or twelve on a small wooden board with a ramekin of grainy Dutch mustard, in every Dutch café and brown bar. This is not seasoned beef mince: the filling is a slow braise of shin or chuck cooked two and a half to three hours till fork-tender, shredded by hand into threads, then thickened with a heavy velouté of butter, flour and the strained braising liquid into a sauce that binds the meat. The mixture must be refrigerated firm (at least four hours, ideally overnight) before shaping; warm ragout falls apart in the breading. The traditional Dutch double-breading is flour, beaten egg, then breadcrumbs (some home cooks do a triple coat for extra crisp). Eat hot, golden outside and almost-molten inside.
 
 ## Ingredients
 
@@ -52,7 +52,7 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 ### To serve
 - Grainy Dutch mustard (mosterd) - a small ramekin per person
 - A glass of cold Heineken or Amstel pilsner OR a small glass of jenever
-- A small wooden serving board (the canonical Dutch presentation)
+- A small wooden serving board (the traditional Dutch presentation)
 
 ## Method
 
@@ -100,7 +100,7 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 ### Stage 6 - Bread the bitterballen
 1. Set up 3 shallow bowls: one with flour, one with beaten egg, one with breadcrumbs.
 2. Roll each ball first in the flour (shake off excess), then in egg (let excess drip off), then in breadcrumbs (press gently to adhere).
-3. For the canonical Dutch double-bread: dip the breaded ball back into the egg, then back into the breadcrumbs for a second crumb coat.
+3. For the traditional Dutch double-bread: dip the breaded ball back into the egg, then back into the breadcrumbs for a second crumb coat.
 4. Place the breaded balls on a tray.
 
 ### Stage 7 - Chill the breaded balls
@@ -140,7 +140,7 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 **Smaller (bittergarnituur):** make 60 small (15 g) bitterballen for a Dutch reception or wedding canapé.
 
 ## Serving
-At a Dutch café with a glass of cold beer (the canonical setting) · at a Dutch borrel (early-evening drinks gathering with snacks) · at a Dutch reception or wedding · at an Amsterdam brown bar (the traditional Dutch wood-panelled pub) · at a Dutch sinterklaas (5 December) family gathering · at a Dutch carnival in Limburg · at home as the canonical Friday-night drinking snack · paired with grainy mustard, cold lager, jenever or a Dutch witbier.
+At a Dutch café with a glass of cold beer (the traditional setting) · at a Dutch borrel (early-evening drinks gathering with snacks) · at a Dutch reception or wedding · at an Amsterdam brown bar (the traditional Dutch wood-panelled pub) · at a Dutch sinterklaas (5 December) family gathering · at a Dutch carnival in Limburg · at home as the traditional Friday-night drinking snack · paired with grainy mustard, cold lager, jenever or a Dutch witbier.
 
 ## Storage
 - The breaded uncooked balls freeze excellently 3 months - on a tray then bagged. Fry from frozen at 180°C, allow 4-5 minutes (slightly longer than fresh).

@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-The quickest rice dish in the Indian repertoire and a clever use-up-yesterday's-rice supper: cold cooked basmati hits hot oil infused with garlic, ginger and chilli, the grains separate further in the heat and coat with the aromatics, then fresh lemon juice and chopped chives go in off the heat for the bright finish. Cold rice is essential; freshly cooked rice gives a clumpy stir-fry because the warm starch on the surface of each grain wants to stick. Day-old rice from the fridge is ideal, with the grains already firmed and separated. Hot oil and constant tossing keep the rice from clumping in the pan. The lemon goes in only off the heat; cooked lemon turns dull and bitter, while a final raw squeeze keeps the dish bright. Eaten at once.
+The quickest rice dish in the Indian repertoire and a clever use-up-yesterday's-rice supper: cold cooked basmati hits hot oil infused with garlic, ginger and chilli, the grains separate further in the heat and coat with the aromatics, then fresh lemon juice and chopped chives go in off the heat for the bright finish. Cold rice is essential; freshly cooked rice gives a clumpy stir-fry because the warm starch on the surface of each grain wants to stick. Day-old rice from the fridge is ideal, with the grains already firmed and separated. Hot oil and constant tossing keep the rice from clumping in the pan. The lemon goes in only off the heat; cooked lemon turns dull and bitter, while a final raw squeeze keeps the dish bright. Eat at once.
 
 ## Ingredients
 

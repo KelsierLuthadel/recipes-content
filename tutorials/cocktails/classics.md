@@ -6,7 +6,7 @@
 
 ## Overview
 
-The six families covered: Old Fashioned, Manhattan, Daiquiri, Martini, Sour, Highball. Worked examples below for one canonical cocktail from each. Each starts with the family principle (from the earlier pages), then gives the specific recipe with the bartender technique called out.
+The six families covered: Old Fashioned, Manhattan, Daiquiri, Martini, Sour, Highball. Worked examples below for one traditional cocktail from each. Each starts with the family principle (from the earlier pages), then gives the specific recipe with the bartender technique called out.
 
 The order is from easiest to hardest:
 
@@ -42,7 +42,7 @@ The order is from easiest to hardest:
 ### Why each step
 - The sugar dissolves with bitters + water first because cold-spirit doesn't dissolve dry sugar well.
 - The single large ice cube melts slowly, so the drink lasts 15-20 minutes without going watery.
-- The orange twist is canonical - change to a lemon twist and you've made a Brandy Old Fashioned; add maple syrup and you've made a "modern Old Fashioned".
+- The orange twist is traditional - change to a lemon twist and you've made a Brandy Old Fashioned; add maple syrup and you've made a "modern Old Fashioned".
 
 ## 2. Daiquiri
 
@@ -91,7 +91,7 @@ The order is from easiest to hardest:
 5. Express the orange peel over the drink; drop in.
 
 ### Why each step
-- Equal parts is the canonical recipe (1:1:1). The Negroni works because the three ingredients pull in opposing directions: sweet vermouth (sweet), gin (juniper-bitter), Campari (bitter-orange). The balance is the cocktail.
+- Equal parts is the traditional recipe (1:1:1). The Negroni works because the three ingredients pull in opposing directions: sweet vermouth (sweet), gin (juniper-bitter), Campari (bitter-orange). The balance is the cocktail.
 - Stirring over 30 seconds gives the right dilution; the Negroni's first sip should be slightly cool and intensely bitter; subsequent sips soften as the ice melts.
 - The orange twist's expression is essential - it adds an aromatic top-note that ties the gin and Campari's orange-pith bitterness together.
 
@@ -152,7 +152,7 @@ The order is from easiest to hardest:
 
 ### Why each step
 - Muddle gently - over-muddled mint releases chlorophyll bitterness and tastes "green".
-- The crushed ice is canonical for the textural reason - colder, slushier, more refreshing.
+- The crushed ice is traditional for the textural reason - colder, slushier, more refreshing.
 - The soda top is generous; the Mojito is a long drink meant for slow sipping.
 - The slapped mint sprig perfumes the drink at every sip via the released aromatics.
 

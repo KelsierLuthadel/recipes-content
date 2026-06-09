@@ -2,7 +2,7 @@
 
 ![Sfouf](resources/sfouf.jpg)
 
-*Lebanon's vivid yellow turmeric semolina cake: a dense, nutty loaf leavened with baking powder and scattered with pine nuts. Eaten with afternoon tea.*
+*Lebanon's vivid yellow turmeric semolina cake: a dense, nutty loaf leavened with baking powder and scattered with pine nuts. Eat with afternoon tea.*
 
 **Serves:** 8 (makes 1 round cake)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Lebanon's vivid yellow turmeric semolina cake, the kind of thing that lives on the counter for afternoon tea: a dense, nutty loaf leavened with baking powder, scattered with pine nuts, deep yellow from a teaspoon of turmeric that gives both the colour and a faint earthy edge. The semolina-plus-flour blend is the canonical texture; all-flour gives a regular cake, all-semolina gives gritty heaviness, and the half-and-half is what gives sfouf its dense-but-tender chew. The tin-greasing detail is the Lebanese signature most home cooks miss; the tin is brushed with tahini rather than butter, which gives a faintly nutty crust on the cake bottom that becomes the top once inverted. Anise and mahleb are optional but traditional, and the dairy-free version with olive oil in place of butter is the canonical Lenten variant. Pine nuts and sesame seeds scattered across the top before the bake set into the crust. Served with strong Arabic coffee or sweet black tea.
+Lebanon's vivid yellow turmeric semolina cake, the kind of thing that lives on the counter for afternoon tea: a dense, nutty loaf leavened with baking powder, scattered with pine nuts, deep yellow from a teaspoon of turmeric that gives both the colour and a faint earthy edge. The semolina-plus-flour blend is the traditional texture; all-flour gives a regular cake, all-semolina gives gritty heaviness, and the half-and-half is what gives sfouf its dense-but-tender chew. The tin-greasing detail is the Lebanese signature most home cooks miss; the tin is brushed with tahini rather than butter, which gives a faintly nutty crust on the cake bottom that becomes the top once inverted. Anise and mahleb are optional but traditional, and the dairy-free version with olive oil in place of butter is the traditional Lenten variant. Pine nuts and sesame seeds scattered across the top before the bake set into the crust. Served with strong Arabic coffee or sweet black tea.
 
 ## Ingredients
 

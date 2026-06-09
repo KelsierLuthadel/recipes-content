@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The meat-filled half-moon that sits next to the cheese version on every Levantine-Arabian table. You roll a soft butter-and-yogurt dough thin, stamp it into nine-centimetre rounds, and place a teaspoon of spiced lamb mince in the centre of each. The lamb is fragrant with baharat, onion, toasted pine nuts and a touch of pomegranate molasses that adds a sweet-sharp depth you can't quite place. Each round folds into a half-moon, crimped along the curved edge with a fork. From there the pastries go either route: deep-fried at 170°C till deep gold, or baked at 200°C with an egg wash for shine. The pastry blisters lightly, the filling stays juicy. Eaten warm with a wedge of lemon, often as part of a meze spread alongside hummus, mutabbal, salata and warm flatbread.
+The meat-filled half-moon that sits next to the cheese version on every Levantine-Arabian table. You roll a soft butter-and-yogurt dough thin, stamp it into nine-centimetre rounds, and place a teaspoon of spiced lamb mince in the centre of each. The lamb is fragrant with baharat, onion, toasted pine nuts and a touch of pomegranate molasses that adds a sweet-sharp depth you can't quite place. Each round folds into a half-moon, crimped along the curved edge with a fork. From there the pastries go either route: deep-fried at 170°C till deep gold, or baked at 200°C with an egg wash for shine. The pastry blisters lightly, the filling stays juicy. Eat warm with a wedge of lemon, often as part of a meze spread alongside hummus, mutabbal, salata and warm flatbread.
 
 ## Ingredients
 

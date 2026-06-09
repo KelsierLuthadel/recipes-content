@@ -21,10 +21,10 @@ The Mexican meal is "build-your-own" within these elements: a taco is a tortilla
 This course covers:
 
 1. **[Masa and tortillas](masa-and-tortillas.md)** — nixtamalisation (the process that turns corn into masa), making fresh tortillas, choosing or making masa harina.
-2. **[Salsas](salsas.md)** — the four canonical salsas with technique and recipes.
+2. **[Salsas](salsas.md)** — the four traditional salsas with technique and recipes.
 3. **[Beans from scratch](beans-from-scratch.md)** — pinto, black, refried; the foundational technique.
 4. **[Mole](mole.md)** — the queen of Mexican sauces, with the 7 moles of Oaxaca.
-5. **[The Mexican plate](the-mexican-plate.md)** — how compositions are built; the canonical dishes.
+5. **[The Mexican plate](the-mexican-plate.md)** — how compositions are built; the traditional dishes.
 
 ## What Mexican cooking IS NOT
 
@@ -39,7 +39,7 @@ This course covers Mexican-from-Mexico, which differs from all of the above.
 
 Mexico's cuisine varies sharply by region. The main culinary regions:
 
-- **Oaxaca** — the mole heartland. Seven canonical moles. Mezcal country. Tlayudas, chapulines (grasshoppers), Oaxacan cheese.
+- **Oaxaca** — the mole heartland. Seven traditional moles. Mezcal country. Tlayudas, chapulines (grasshoppers), Oaxacan cheese.
 - **Yucatán** — Mayan-influenced. Cochinita pibil (achiote-marinated pork). Habanero chillies. Sour orange. Pickled red onion.
 - **Puebla** — the birthplace of mole poblano (the most-famous mole). Chiles en nogada. Cemitas.
 - **Mexico City / Central Mexico** — the modern fusion. Tacos al pastor, chilaquiles, sopes.

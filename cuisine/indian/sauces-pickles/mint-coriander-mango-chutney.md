@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-A modern Indian-restaurant chutney that splices the bright green-herb chutney with the sweet mango chutney into one smooth condiment: fresh mint, coriander, raw garlic, green chilli and a generous spoon of shop-bought mango chutney blitzed into a pale green-flecked sauce that carries herbal brightness, sweet fruit and quiet heat in a single bite. The chutney sits naturally alongside lamb seekh kebabs, where the mint cuts the rich lamb, the garlic supports the spice, and the mango sweetness rounds the chilli. Patak's mango chutney is the canonical British curry-house brand and the right level of sweetness for this; chunky homemade mango chutney needs to be processed smooth first or the texture goes lumpy. Eaten same-day for the brightest colour and flavour; keeps a few days refrigerated but the green fades.
+A modern Indian-restaurant chutney that splices the bright green-herb chutney with the sweet mango chutney into one smooth condiment: fresh mint, coriander, raw garlic, green chilli and a generous spoon of shop-bought mango chutney blitzed into a pale green-flecked sauce that carries herbal brightness, sweet fruit and quiet heat in a single bite. The chutney sits naturally alongside lamb seekh kebabs, where the mint cuts the rich lamb, the garlic supports the spice, and the mango sweetness rounds the chilli. Patak's mango chutney is the traditional British curry-house brand and the right level of sweetness for this; chunky homemade mango chutney needs to be processed smooth first or the texture goes lumpy. Eat same-day for the brightest colour and flavour; keeps a few days refrigerated but the green fades.
 
 ## Ingredients
 - Small bunch of fresh coriander (leaves only, about 30 grams)

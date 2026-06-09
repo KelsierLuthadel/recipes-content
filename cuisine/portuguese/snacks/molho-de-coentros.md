@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Molho de coentros is Portugal's iconic coriander sauce and one of the most pervasive Portuguese herb condiments: a vivid green sauce made by blitzing (or pounding in a mortar) a generous amount of fresh coriander leaves and stems with crushed garlic, extra virgin olive oil, white wine vinegar, sea salt and ground black pepper - Portuguese pesto without the pine nuts or cheese, focused entirely on the herb's character. Coriander is the most beloved herb in Portuguese cooking (uniquely so in European cooking - Italians and Spanish use it sparingly, the Portuguese put it on everything), and molho de coentros is the canonical way to celebrate its flavour. Drizzled over grilled fish, ladled into açorda (Alentejo bread soup), used as a marinade for sardines, stirred into rice, mixed into mayonnaise for sandwiches. Plenty of coriander; the sauce is named for the herb, so don't be timid. Fresh garlic, crushed, never powder. Eaten fresh; the sauce loses its bright green colour and flavour after 24 hours.
+Molho de coentros is Portugal's iconic coriander sauce and one of the most pervasive Portuguese herb condiments: a vivid green sauce made by blitzing (or pounding in a mortar) a generous amount of fresh coriander leaves and stems with crushed garlic, extra virgin olive oil, white wine vinegar, sea salt and ground black pepper - Portuguese pesto without the pine nuts or cheese, focused entirely on the herb's character. Coriander is the most beloved herb in Portuguese cooking (uniquely so in European cooking - Italians and Spanish use it sparingly, the Portuguese put it on everything), and molho de coentros is the traditional way to celebrate its flavour. Drizzled over grilled fish, ladled into açorda (Alentejo bread soup), used as a marinade for sardines, stirred into rice, mixed into mayonnaise for sandwiches. Plenty of coriander; the sauce is named for the herb, so don't be timid. Fresh garlic, crushed, never powder. Eat fresh; the sauce loses its bright green colour and flavour after 24 hours.
 
 ## Ingredients
 
@@ -26,7 +26,7 @@ Molho de coentros is Portugal's iconic coriander sauce and one of the most perva
 - 1 fresh green chilli (for warmth)
 - 1 tablespoon fresh lemon juice (for brightness)
 - 1 teaspoon ground cumin (gives depth)
-- 2 tablespoons grated Parmesan (less canonical but works)
+- 2 tablespoons grated Parmesan (less traditional but works)
 - 30 g pine nuts (toasted, blended in - gives Italian-pesto-leaning version)
 
 ## Method
@@ -65,7 +65,7 @@ Molho de coentros is Portugal's iconic coriander sauce and one of the most perva
 **Without vinegar (oil-only):** skip the vinegar; gives a richer oilier version.
 
 ## Serving
-Drizzle on grilled fish (the canonical use), grilled chicken, açorda, eggs, soups, sandwiches. As a marinade for sardines or pork.
+Drizzle on grilled fish (the traditional use), grilled chicken, açorda, eggs, soups, sandwiches. As a marinade for sardines or pork.
 
 ## Storage
 - Best eaten the day made; loses colour after 24 hours.

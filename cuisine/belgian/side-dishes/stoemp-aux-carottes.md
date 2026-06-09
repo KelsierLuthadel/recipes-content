@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Stoemp aux carottes is the carrot-led Belgian variation on the canonical Brussels stoemp: same coarse-crush technique, same generous butter and cream, but the vegetable here is sweet braised carrot instead of leek. A natural Sunday-side for boudin noir, grilled bratwurst or a slow-roast pork belly. The carrots must be diced small and sweated long and slow in butter so they go properly soft and sweet, not just barely cooked; rushing this step gives stoemp with raw-tasting orange flecks instead of a unified sweet base. Floury potatoes (Bintje or Maris Piper) get boiled till fully tender, then crushed into the carrot-and-butter base with a fork or masher, leaving visible chunks of both. A touch of cream, salt and white pepper, a generous pinch of grated nutmeg, thyme and chopped parsley to finish. Serve in deep bowls with a sausage on top.
+Stoemp aux carottes is the carrot-led Belgian variation on the traditional Brussels stoemp: same coarse-crush technique, same generous butter and cream, but the vegetable here is sweet braised carrot instead of leek. A natural Sunday-side for boudin noir, grilled bratwurst or a slow-roast pork belly. The carrots must be diced small and sweated long and slow in butter so they go properly soft and sweet, not just barely cooked; rushing this step gives stoemp with raw-tasting orange flecks instead of a unified sweet base. Floury potatoes (Bintje or Maris Piper) get boiled till fully tender, then crushed into the carrot-and-butter base with a fork or masher, leaving visible chunks of both. A touch of cream, salt and white pepper, a generous pinch of grated nutmeg, thyme and chopped parsley to finish. Serve in deep bowls with a sausage on top.
 
 ## Ingredients
 
@@ -69,7 +69,7 @@ Stoemp aux carottes is the carrot-led Belgian variation on the canonical Brussel
 - **Small dice for the carrots:** 5 mm cubes. Bigger pieces stay firm in the centre, ruining the texture.
 - **Long slow sweat:** rushing the carrot cook gives you crunchy bits in the crush. Patience.
 - **No browning:** the goal is silky-sweet, not caramelised. Keep the heat low.
-- **Bintje is canonical:** the Belgian floury potato. Maris Piper, King Edward and Russet all substitute well.
+- **Bintje is traditional:** the Belgian floury potato. Maris Piper, King Edward and Russet all substitute well.
 - **Generous butter:** Belgians do not stint on butter in stoemp. Three Belgian tablespoons is half a stick. Don't lighten this.
 
 ## Variations

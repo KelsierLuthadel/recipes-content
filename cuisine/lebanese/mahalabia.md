@@ -2,7 +2,7 @@
 
 ![Mahalabia](resources/mahalabia.jpg)
 
-*Lebanese milk pudding set with cornflour, scented with rosewater and orange blossom, topped with crushed pistachios and a thin sugar syrup. Lighter than Egyptian malabi (which often gets a heavier pink syrup); silky, restrained, gently floral. Eaten cold from glasses or shallow bowls; an everyday Lebanese dessert.*
+*Lebanese milk pudding set with cornflour, scented with rosewater and orange blossom, topped with crushed pistachios and a thin sugar syrup. Lighter than Egyptian malabi (which often gets a heavier pink syrup); silky, restrained, gently floral. Eat cold from glasses or shallow bowls; an everyday Lebanese dessert.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (plus 3 hours setting)
 
 ## Overview
-A Lebanese milk pudding set with cornflour, scented with rose and orange-blossom water, topped with crushed pistachios and a thin sugar syrup. Silky, restrained, gently floral, the everyday Lebanese dessert that lands at the end of a home meal. Lighter than its Egyptian cousin malabi, which often gets a heavier pink syrup. The cornflour-in-cold-milk technique is the setting method; a smooth slurry whisked into warming milk gives a clean silky pudding, where dry cornflour dumped into hot milk gives lumps and a chalky finish. The dual-floral perfume (rose and orange-blossom water together) is the Lebanese signature distinct from Egyptian or Turkish versions; a careful hand is essential because a teaspoon too much turns the pudding perfumey. Straining through a fine sieve before setting gives the glossy surface; skipping this gives a less elegant pudding. The cool light syrup over the top is the proper finish; heavy syrups dominate the delicate floral notes. Crushed pistachios and rose petals scattered across. Eaten cold from glasses or shallow bowls.
+A Lebanese milk pudding set with cornflour, scented with rose and orange-blossom water, topped with crushed pistachios and a thin sugar syrup. Silky, restrained, gently floral, the everyday Lebanese dessert that lands at the end of a home meal. Lighter than its Egyptian cousin malabi, which often gets a heavier pink syrup. The cornflour-in-cold-milk technique is the setting method; a smooth slurry whisked into warming milk gives a clean silky pudding, where dry cornflour dumped into hot milk gives lumps and a chalky finish. The dual-floral perfume (rose and orange-blossom water together) is the Lebanese signature distinct from Egyptian or Turkish versions; a careful hand is essential because a teaspoon too much turns the pudding perfumey. Straining through a fine sieve before setting gives the glossy surface; skipping this gives a less elegant pudding. The cool light syrup over the top is the proper finish; heavy syrups dominate the delicate floral notes. Crushed pistachios and rose petals scattered across. Eat cold from glasses or shallow bowls.
 
 ## Ingredients
 

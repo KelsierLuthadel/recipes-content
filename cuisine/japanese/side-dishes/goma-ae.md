@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-The Japanese sesame side that turns up in every bento box and beside almost every donburi: blanched greens tossed in a thick, savoury-sweet paste of ground toasted sesame. Spinach is the canonical choice (green beans, asparagus or broccoli substitute). Once blanched and refreshed, the greens must be squeezed hard, by hand or in a sushi mat, till as much water as possible is out; wet greens dilute the dressing and turn the dish soggy. The sesame seeds want to be toasted in a dry pan, then ground in a suribachi (or mini food processor) to a coarse paste, leaving some intact seeds for texture; never ground all the way to butter. Plated in its own small bowl (Japanese sides get their own bowl, not a corner of a plate).
+The Japanese sesame side that turns up in every bento box and beside almost every donburi: blanched greens tossed in a thick, savoury-sweet paste of ground toasted sesame. Spinach is the traditional choice (green beans, asparagus or broccoli substitute). Once blanched and refreshed, the greens must be squeezed hard, by hand or in a sushi mat, till as much water as possible is out; wet greens dilute the dressing and turn the dish soggy. The sesame seeds want to be toasted in a dry pan, then ground in a suribachi (or mini food processor) to a coarse paste, leaving some intact seeds for texture; never ground all the way to butter. Plated in its own small bowl (Japanese sides get their own bowl, not a corner of a plate).
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Kachumber is Pakistan's chopped salad, the fresh foil to nihari, biryani, karahi or anything heavy and meaty on the table. Cucumber, tomato, onion and green chilli dice fine and uniform, sharpened with lime and chaat masala and scattered with coriander and mint. Two things to get right: deseed the cucumber and tomato (watery seeds pool the dressing and turn the salad to soup), and don't skimp on the chaat masala. That tangy blend of black salt, mango powder, cumin and coriander is what makes kachumber kachumber rather than just diced veg. The dressing should taste assertively sharp. Eaten at room temperature alongside any rich Pakistani main, and made right before serving since it won't keep beyond an hour or two.
+Kachumber is Pakistan's chopped salad, the fresh foil to nihari, biryani, karahi or anything heavy and meaty on the table. Cucumber, tomato, onion and green chilli dice fine and uniform, sharpened with lime and chaat masala and scattered with coriander and mint. Two things to get right: deseed the cucumber and tomato (watery seeds pool the dressing and turn the salad to soup), and don't skimp on the chaat masala. That tangy blend of black salt, mango powder, cumin and coriander is what makes kachumber kachumber rather than just diced veg. The dressing should taste assertively sharp. Eat at room temperature alongside any rich Pakistani main, and made right before serving since it won't keep beyond an hour or two.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Hanukkah Biscuits](resources/hanukkah-biscuits.jpg)
 
-*Buttery sugar-cookie biscuits cut into menorahs, dreidels, Stars of David. Iced in blue and white, scattered with sprinkles, decorated by the kids while the table is busy with the rest of the cooking. Eaten by the trayful through the eight nights.*
+*Buttery sugar-cookie biscuits cut into menorahs, dreidels, Stars of David. Iced in blue and white, scattered with sprinkles, decorated by the kids while the table is busy with the rest of the cooking. Eat by the trayful through the eight nights.*
 
 **Serves:** 12 biscuits
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Mayonesa chilena is Chile's pervasive homemade mayonnaise and one of the most beloved Chilean condiments. Chileans are famously the world's heaviest per-capita consumers of mayonnaise, putting it on completos (Chilean hot dogs), churrasco italiano (the iconic sandwich with avocado, tomato and mayo), sopaipillas, papas fritas, salads, sandwiches, and sometimes just slathered on bread. The homemade version uses egg yolks, sunflower oil, fresh lemon juice, a touch of Dijon and salt, whisked or blitzed till the mixture emulsifies into a thick pale-yellow sauce. The taste is dramatically different from commercial Hellmann's: brighter, fresher, properly acidic, with a real lemon-egg-mustard flavour. Sunflower oil is the canonical Chilean choice; olive oil is too strong at home-mayo strength. Room-temperature ingredients are essential or the emulsion won't form. Drizzle the oil drop by drop at first, then a thin stream; adding it too fast is the most common failure.
+Mayonesa chilena is Chile's pervasive homemade mayonnaise and one of the most beloved Chilean condiments. Chileans are famously the world's heaviest per-capita consumers of mayonnaise, putting it on completos (Chilean hot dogs), churrasco italiano (the iconic sandwich with avocado, tomato and mayo), sopaipillas, papas fritas, salads, sandwiches, and sometimes just slathered on bread. The homemade version uses egg yolks, sunflower oil, fresh lemon juice, a touch of Dijon and salt, whisked or blitzed till the mixture emulsifies into a thick pale-yellow sauce. The taste is dramatically different from commercial Hellmann's: brighter, fresher, properly acidic, with a real lemon-egg-mustard flavour. Sunflower oil is the traditional Chilean choice; olive oil is too strong at home-mayo strength. Room-temperature ingredients are essential or the emulsion won't form. Drizzle the oil drop by drop at first, then a thin stream; adding it too fast is the most common failure.
 
 ## Ingredients
 
@@ -70,10 +70,10 @@ Mayonesa chilena is Chile's pervasive homemade mayonnaise and one of the most be
 - **Use within a week:** raw egg means short shelf life.
 
 ## Variations
-**Aioli chileno:** add 2-4 crushed garlic cloves; gives the canonical Chilean garlic version.
+**Aioli chileno:** add 2-4 crushed garlic cloves; gives the traditional Chilean garlic version.
 **Mayo verde:** add 1 small bunch of finely chopped fresh herbs (parsley, chives, dill); gives a green herby version.
 **Spicy mayo (mayo picante):** add 1 teaspoon of merkén + 1 chopped chilli; gives the Chilean spicy version.
-**Avocado mayo:** blitz 1 ripe avocado into the finished mayo; gives a creamy guacamole-mayo hybrid; the canonical sauce for churrasco italiano.
+**Avocado mayo:** blitz 1 ripe avocado into the finished mayo; gives a creamy guacamole-mayo hybrid; the traditional sauce for churrasco italiano.
 
 ## Serving
 With everything Chilean: completos (Chilean hot dogs), churrasco italiano, sandwiches, sopaipillas, papas fritas, salads. Chileans put it on practically anything.

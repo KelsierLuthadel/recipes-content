@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of Turkey's most beloved home dishes and a staple of Anatolian family cooking: closely related to but distinct from the Greek papoutsakia and the wider eastern-Mediterranean stuffed-eggplant family. The lamb-and-pepper-paste filling and the tomato-baked finish are what make it Turkish. Baby aubergines pre-fry whole in olive oil till the outsides are deep brown and the flesh is partially cooked (skipping the pre-fry leaves the eggplant woody on the bake), then split lengthwise to create a pocket for a fragrant lamb-mince filling: onion, garlic, chopped tomato, parsley, Turkish red pepper paste (biber salçası), Aleppo pepper, cumin and salt. A slice of fresh tomato and a strip of green pepper cap each one, then the eggplants sit in a wide tin doused with a loose tomato-and-stock sauce that comes halfway up their sides. Baked till the eggplant is silky and the sauce reduces to a glossy coating. Eaten with pilav and a spoon for catching every drop.
+Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of Turkey's most beloved home dishes and a staple of Anatolian family cooking: closely related to but distinct from the Greek papoutsakia and the wider eastern-Mediterranean stuffed-eggplant family. The lamb-and-pepper-paste filling and the tomato-baked finish are what make it Turkish. Baby aubergines pre-fry whole in olive oil till the outsides are deep brown and the flesh is partially cooked (skipping the pre-fry leaves the eggplant woody on the bake), then split lengthwise to create a pocket for a fragrant lamb-mince filling: onion, garlic, chopped tomato, parsley, Turkish red pepper paste (biber salçası), Aleppo pepper, cumin and salt. A slice of fresh tomato and a strip of green pepper cap each one, then the eggplants sit in a wide tin doused with a loose tomato-and-stock sauce that comes halfway up their sides. Baked till the eggplant is silky and the sauce reduces to a glossy coating. Eat with pilav and a spoon for catching every drop.
 
 ## Ingredients
 
@@ -105,7 +105,7 @@ Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of
 
 ## Notes
 - **Pre-fry the eggplants:** essential step. The brief fry cooks the flesh partway and gives the silky texture. Skipping gives undercooked woody eggplant.
-- **Small baby eggplants if you can find them:** smaller eggplants give the canonical Turkish look (a row of small stuffed pockets). Medium eggplants (split lengthwise) also work; the dish is then more like Greek papoutsakia.
+- **Small baby eggplants if you can find them:** smaller eggplants give the traditional Turkish look (a row of small stuffed pockets). Medium eggplants (split lengthwise) also work; the dish is then more like Greek papoutsakia.
 - **Red pepper paste (biber salçası):** essential for proper Turkish flavour. Available at Turkish markets. Sweet paprika + tomato paste is the workable substitute.
 - **The sauce halfway up:** the sauce level matters. Too little and the eggplants dry out; too much and you have stew-eggplant rather than stuffed-eggplant.
 - **Foil for the first 30 minutes:** the steam helps the eggplants finish cooking; the uncovered finish lets the sauce reduce and the topping vegetables caramelise.
@@ -117,7 +117,7 @@ Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of
 **With kashar cheese topping:** add 100 g of grated kashar cheese on top in the last 10 minutes of baking; gives a cheese-crusted variation popular in modern Turkish restaurants.
 
 ## Serving
-On a warm platter with pilav alongside. A bowl of plain yogurt (or cacık) for each diner to spoon onto their plate. Warm Turkish flatbread for mopping up the sauce. Drink: ayran (canonical), rakı, or a glass of cold beer. As a family Sunday meal or a weeknight dinner.
+On a warm platter with pilav alongside. A bowl of plain yogurt (or cacık) for each diner to spoon onto their plate. Warm Turkish flatbread for mopping up the sauce. Drink: ayran (traditional), rakı, or a glass of cold beer. As a family Sunday meal or a weeknight dinner.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

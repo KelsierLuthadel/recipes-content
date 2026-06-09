@@ -2,7 +2,7 @@
 
 ![Atayef](resources/atayef.jpg)
 
-*Small folded pancakes of yeasted semolina batter, stuffed with sweetened cheese or chopped walnuts, fried golden, then drowned in cold rosewater syrup. Eaten across Ramadan in Jordan and the wider Levant; the contrast of the hot crisp pancake against the cool sweet syrup is what makes them.*
+*Small folded pancakes of yeasted semolina batter, stuffed with sweetened cheese or chopped walnuts, fried golden, then drowned in cold rosewater syrup. Eat across Ramadan in Jordan and the wider Levant; the contrast of the hot crisp pancake against the cool sweet syrup is what makes them.*
 
 **Makes:** 16-18 atayef
 

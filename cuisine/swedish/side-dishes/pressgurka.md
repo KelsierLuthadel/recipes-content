@@ -2,7 +2,7 @@
 
 ![Pressgurka](resources/pressgurka.jpg)
 
-*Sweden's pressed cucumber salad: paper-thin cucumber slices salted and weighted till they release their water, then dressed in a 1:2:3 vinegar-sugar-water brine with chopped fresh dill. The canonical accompaniment to Swedish meatballs, roast beef, and the smörgåsbord salt-cured dishes; the cool-sweet-tangy lift on every Swedish plate.*
+*Sweden's pressed cucumber salad: paper-thin cucumber slices salted and weighted till they release their water, then dressed in a 1:2:3 vinegar-sugar-water brine with chopped fresh dill. The traditional accompaniment to Swedish meatballs, roast beef, and the smörgåsbord salt-cured dishes; the cool-sweet-tangy lift on every Swedish plate.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Pressgurka (literally "pressed cucumber") is the canonical Swedish cucumber pickle that appears on the plate alongside meatballs, roast beef, jansson's temptation, and every smörgåsbord cold buffet. The technique: paper-thin slices of cucumber (the canonical method uses a mandoline for true paper-thin slicing; a sharp knife works with patience) are layered with salt and weighted under a plate so they release their water and concentrate in flavour; the now-translucent salty slices are then drained, rinsed briefly, and dressed in the same 1:2:3 vinegar-sugar-water brine used for pickled herring, with masses of chopped fresh dill (more than you think you need) and a grind of white pepper. Rests 30 minutes more for the flavours to meld. Served cold in small glass dishes alongside warm savoury dishes; the cool sweet-acid bite cuts through rich cream gravies and salty cured meats.
+Pressgurka (literally "pressed cucumber") is the traditional Swedish cucumber pickle that appears on the plate alongside meatballs, roast beef, jansson's temptation, and every smörgåsbord cold buffet. The technique: paper-thin slices of cucumber (the traditional method uses a mandoline for true paper-thin slicing; a sharp knife works with patience) are layered with salt and weighted under a plate so they release their water and concentrate in flavour; the now-translucent salty slices are then drained, rinsed briefly, and dressed in the same 1:2:3 vinegar-sugar-water brine used for pickled herring, with masses of chopped fresh dill (more than you think you need) and a grind of white pepper. Rests 30 minutes more for the flavours to meld. Served cold in small glass dishes alongside warm savoury dishes; the cool sweet-acid bite cuts through rich cream gravies and salty cured meats.
 
 ## Ingredients
 
@@ -67,7 +67,7 @@ Pressgurka (literally "pressed cucumber") is the canonical Swedish cucumber pick
 3. Serve cold alongside warm Swedish savoury dishes - particularly meatballs, gravlax, jansson's temptation, sausages, or roast beef.
 
 ## Notes
-- **Paper-thin slices:** the canonical Swedish texture. Mandoline is the way.
+- **Paper-thin slices:** the traditional Swedish texture. Mandoline is the way.
 - **Press for 30 minutes minimum:** the pressing concentrates the cucumber and prevents the salad turning watery in the brine.
 - **1:2:3 brine ratio (vinegar:sugar:water):** the Swedish balance - sweeter than English cucumber pickles.
 - **Masses of dill:** Swedish recipes use much more dill than you'd expect. Don't be shy.
@@ -75,12 +75,12 @@ Pressgurka (literally "pressed cucumber") is the canonical Swedish cucumber pick
 ## Variations
 **With red onion:** add paper-thin slices of red onion to the press; turns the salad pink.
 **With mustard seeds:** add 1 teaspoon yellow mustard seeds to the brine for a Senap-style pressgurka.
-**Spicier:** add a pinch of cayenne or chopped fresh chilli (less canonical, more modern).
+**Spicier:** add a pinch of cayenne or chopped fresh chilli (less traditional, more modern).
 **Sweeter:** increase the sugar slightly for a Swedish-Christmas-style sweeter pickle.
-**Quick version:** skip the pressing step (just salt the slices, rest 5 minutes, then dress); a less canonical but quicker version.
+**Quick version:** skip the pressing step (just salt the slices, rest 5 minutes, then dress); a less traditional but quicker version.
 
 ## Serving
-Alongside Swedish meatballs (the canonical pairing) · alongside roast beef · alongside gravlax or pickled herring on the smörgåsbord · alongside jansson's temptation · at a Midsommar buffet · at a Swedish Christmas julbord.
+Alongside Swedish meatballs (the traditional pairing) · alongside roast beef · alongside gravlax or pickled herring on the smörgåsbord · alongside jansson's temptation · at a Midsommar buffet · at a Swedish Christmas julbord.
 
 ## Storage
 - Refrigerates 4-5 days; flavour deepens over the first 2-3 days then plateaus.

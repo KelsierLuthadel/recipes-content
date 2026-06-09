@@ -2,7 +2,7 @@
 
 ![Pol Sambol](resources/pol-sambol.jpg)
 
-*Sri Lanka's table sambal: fresh grated coconut, dried red chillies, lime, onion and Maldive fish flakes pounded together fiery red. Eaten with everything.*
+*Sri Lanka's table sambal: fresh grated coconut, dried red chillies, lime, onion and Maldive fish flakes pounded together fiery red. Eat with everything.*
 
 **Serves:** 4 as a condiment
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Pol sambol is the relish that anchors every Sri Lankan plate: fiery red from chilli, fresh and grassy from coconut, sharp from lime, eaten on the side of rice and curry, scooped onto hoppers or piled onto buttered toast for breakfast. Three things make it: freshness, the right coconut, and friction. Fresh grated coconut is canonical; frozen-and-thawed from any South Asian grocer is the everyday substitute; rehydrated desiccated works in a pinch but lacks body. The Maldive fish flakes (smoked dried tuna sold as umbalakada at Sri Lankan shops) give the umami backbone; leave out for vegetarian. The squeeze-and-rub by hand for a couple of minutes is what blooms the chilli colour through the coconut and bruises the flesh so it absorbs the lime, turning the whole bowl from pink to deep red. Chopped red onion last so it stays crunchy. Eaten the same day; the sambol turns watery overnight.
+Pol sambol is the relish that anchors every Sri Lankan plate: fiery red from chilli, fresh and grassy from coconut, sharp from lime, eaten on the side of rice and curry, scooped onto hoppers or piled onto buttered toast for breakfast. Three things make it: freshness, the right coconut, and friction. Fresh grated coconut is traditional; frozen-and-thawed from any South Asian grocer is the everyday substitute; rehydrated desiccated works in a pinch but lacks body. The Maldive fish flakes (smoked dried tuna sold as umbalakada at Sri Lankan shops) give the umami backbone; leave out for vegetarian. The squeeze-and-rub by hand for a couple of minutes is what blooms the chilli colour through the coconut and bruises the flesh so it absorbs the lime, turning the whole bowl from pink to deep red. Chopped red onion last so it stays crunchy. Eat the same day; the sambol turns watery overnight.
 
 ## Ingredients
 

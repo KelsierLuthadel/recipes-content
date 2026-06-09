@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Moqueca is a Bahian fish stew with deep African roots. The name comes from the indigenous Tupi word pokeka (to cook by wrapping in leaves), and the dish was adapted over centuries by enslaved African cooks in Bahia who introduced the West African use of palm oil (dendê) and coconut milk. The result is the canonical Bahian dish, distinctively orange-red from the dendê, intensely fragrant with coriander and lime, and unmistakably West African in character. Firm white fish (snapper, grouper, halibut, monkfish, or in Brazil garoupa or pintado) is marinated briefly in lime, salt, garlic and coriander, then layered in a clay pot (the traditional panela de barro) over a base of sweated onion, sliced bell peppers, fresh tomato, garlic and coriander. Coconut milk and dendê go in last; the pot simmers gently (never boils) till the fish is just set and the broth turns thick and red-orange. Served in the same panela it cooked in, with white rice, farofa, pirão (a thick fish-stock sauce thickened with cassava flour) and a cold beer.
+Moqueca is a Bahian fish stew with deep African roots. The name comes from the indigenous Tupi word pokeka (to cook by wrapping in leaves), and the dish was adapted over centuries by enslaved African cooks in Bahia who introduced the West African use of palm oil (dendê) and coconut milk. The result is the traditional Bahian dish, distinctively orange-red from the dendê, intensely fragrant with coriander and lime, and unmistakably West African in character. Firm white fish (snapper, grouper, halibut, monkfish, or in Brazil garoupa or pintado) is marinated briefly in lime, salt, garlic and coriander, then layered in a clay pot (the traditional panela de barro) over a base of sweated onion, sliced bell peppers, fresh tomato, garlic and coriander. Coconut milk and dendê go in last; the pot simmers gently (never boils) till the fish is just set and the broth turns thick and red-orange. Served in the same panela it cooked in, with white rice, farofa, pirão (a thick fish-stock sauce thickened with cassava flour) and a cold beer.
 
 ## Ingredients
 
@@ -93,7 +93,7 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 4. Let stand 2 minutes off the heat.
 
 ### Stage 9 - Serve
-1. Serve directly from the pot (the canonical Brazilian way).
+1. Serve directly from the pot (the traditional Brazilian way).
 2. Each diner spoons a portion of fish with its broth onto a plate of white rice.
 3. Add a side of farofa and a wedge of lime.
 4. Pirão (optional): thicken a ladle of the moqueca broth with 2 tablespoons of cassava flour; serve as a separate sauce.
@@ -101,7 +101,7 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 
 ## Notes
 - **Dendê (red palm oil) is non-negotiable:** without it, the moqueca is just a fish stew. Available at Brazilian markets, African shops, or online. Don't substitute with regular palm oil (which is processed and pale).
-- **Clay pot is canonical:** the traditional Bahian "panela de barro" gives the dish a slightly smoky-earthy note. Enamelled Dutch oven works fine if you don't have one.
+- **Clay pot is traditional:** the traditional Bahian "panela de barro" gives the dish a slightly smoky-earthy note. Enamelled Dutch oven works fine if you don't have one.
 - **Gentle simmer, never boil:** fish overcooks fast. Low heat, lid on.
 - **Marinade only 20 minutes:** longer and the lime starts to "cook" the fish (ceviche territory).
 - **Layer, don't stir:** the dish is built in layers and gently simmered; vigorous stirring would break up the fish.
@@ -117,7 +117,7 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 **Moqueca de banana (sweet variant):** with plantains and palm hearts instead of fish - Bahian street food.
 
 ## Serving
-At a Salvador (Bahia) beachfront restaurant (the canonical setting) · at a Brazilian Sunday family lunch in any northeast city · at a Brazilian dinner party in São Paulo or Rio · at a Bahian Carnival party · at a Brazilian-themed dinner abroad as a stunning showpiece · at home with friends and a bottle of Brazilian beer.
+At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Brazilian Sunday family lunch in any northeast city · at a Brazilian dinner party in São Paulo or Rio · at a Bahian Carnival party · at a Brazilian-themed dinner abroad as a stunning showpiece · at home with friends and a bottle of Brazilian beer.
 
 ## Storage
 - Refrigerates 2 days (the fish gets slightly less tender on day 2; the broth is even better).

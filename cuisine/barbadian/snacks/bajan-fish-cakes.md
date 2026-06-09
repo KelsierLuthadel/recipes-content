@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, deeply seasoned, fried golden. Sold from every Bajan rum-shop, beach vendor and lunch counter, eaten by the dozen at the Oistins Friday-night fish fry. The saltfish (dried salted cod) is the canonical Caribbean fish here, soaked overnight in cold water with a few changes to remove the heavy salt, boiled briefly to soften, then flaked into thin shreds with the fingers. The deeply savoury slightly chewy character is what gives the fritters their backbone. The batter is flour and baking powder mixed with finely chopped onion, scallion, thyme, Scotch bonnet, Bajan green seasoning and black pepper, thick enough to scoop with a spoon but loose enough to spread slightly in the oil. Fried at 175 °C in small tablespoon-portions till deep golden and slightly puffed. Eaten piping hot with a small dish of Bajan pepper sauce or a wedge of lime, alongside cold beer or a Bajan rum punch.
+Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, deeply seasoned, fried golden. Sold from every Bajan rum-shop, beach vendor and lunch counter, eaten by the dozen at the Oistins Friday-night fish fry. The saltfish (dried salted cod) is the traditional Caribbean fish here, soaked overnight in cold water with a few changes to remove the heavy salt, boiled briefly to soften, then flaked into thin shreds with the fingers. The deeply savoury slightly chewy character is what gives the fritters their backbone. The batter is flour and baking powder mixed with finely chopped onion, scallion, thyme, Scotch bonnet, Bajan green seasoning and black pepper, thick enough to scoop with a spoon but loose enough to spread slightly in the oil. Fried at 175 °C in small tablespoon-portions till deep golden and slightly puffed. Eat piping hot with a small dish of Bajan pepper sauce or a wedge of lime, alongside cold beer or a Bajan rum punch.
 
 ## Ingredients
 
@@ -90,7 +90,7 @@ Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, de
 
 ## Notes
 - **Overnight saltfish soak:** non-negotiable; otherwise the cakes are over-salty.
-- **Flake the fish finely:** thin shreds give the canonical texture; chunks are wrong.
+- **Flake the fish finely:** thin shreds give the traditional texture; chunks are wrong.
 - **175°C oil:** lower and the cakes soak fat; higher and the outside burns.
 - **Scotch bonnet pepper:** part of the Bajan profile. If you can't handle it, use 1 teaspoon of mild Bajan pepper sauce.
 - **Eat hot:** fish cakes are at their peak for 15 minutes. After 30 minutes the texture firms.
@@ -107,7 +107,7 @@ Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, de
 **Air-fryer fish cakes:** spray with oil; air-fry at 200°C for 12-15 minutes; less crisp but lighter.
 
 ## Serving
-At a Bajan rum-shop (the canonical setting; sold by the dozen) · at the Oistins Friday-night fish fry · at a Bajan beach picnic · at a Bajan reception or wedding · at a Bajan Independence Day celebration · at a Bajan church potluck · at home as a Saturday-night drinks-and-snacks plate · paired with cold Banks lager, Bajan rum punch, or a small glass of mauby.
+At a Bajan rum-shop (the traditional setting; sold by the dozen) · at the Oistins Friday-night fish fry · at a Bajan beach picnic · at a Bajan reception or wedding · at a Bajan Independence Day celebration · at a Bajan church potluck · at home as a Saturday-night drinks-and-snacks plate · paired with cold Banks lager, Bajan rum punch, or a small glass of mauby.
 
 ## Storage
 - The raw fish-cake batter refrigerates 24 hours; bring to room temperature before frying.

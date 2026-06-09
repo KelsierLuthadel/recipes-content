@@ -11,7 +11,7 @@
 **Cook Time:** None (blender-only)
 
 ## Overview
-The açaí bowl is Brazil's most successfully exported food of the 2010s, and the canonical beach food of Rio de Janeiro, post-workout snack at Brazilian gyms and breakfast at every fitness-Brazilian café in São Paulo. Açaí (pronounced "ah-sigh-EE") is a small dark-purple berry from the açaí palm tree (Euterpe oleracea), native to the Amazon basin: particularly the state of Pará in northern Brazil where it's been a staple of indigenous diets for centuries. The berries are pulped and the pulp frozen for distribution; commercial açaí sells worldwide as frozen pulp packets (typically 100 g, sometimes flavoured with guaraná syrup) or freeze-dried powder. Blended with banana and a splash of liquid (water, milk or coconut water) into a thick semi-frozen purple cream the consistency of soft-serve. Poured into a chilled bowl and topped generously with granola, sliced banana, strawberries, honey or condensed milk (the canonical Brazilian sweetener), shredded coconut and sometimes chia seeds or kiwi.
+The açaí bowl is Brazil's most successfully exported food of the 2010s, and the traditional beach food of Rio de Janeiro, post-workout snack at Brazilian gyms and breakfast at every fitness-Brazilian café in São Paulo. Açaí (pronounced "ah-sigh-EE") is a small dark-purple berry from the açaí palm tree (Euterpe oleracea), native to the Amazon basin: particularly the state of Pará in northern Brazil where it's been a staple of indigenous diets for centuries. The berries are pulped and the pulp frozen for distribution; commercial açaí sells worldwide as frozen pulp packets (typically 100 g, sometimes flavoured with guaraná syrup) or freeze-dried powder. Blended with banana and a splash of liquid (water, milk or coconut water) into a thick semi-frozen purple cream the consistency of soft-serve. Poured into a chilled bowl and topped generously with granola, sliced banana, strawberries, honey or condensed milk (the traditional Brazilian sweetener), shredded coconut and sometimes chia seeds or kiwi.
 
 ## Ingredients
 
@@ -75,11 +75,11 @@ The açaí bowl is Brazil's most successfully exported food of the 2010s, and th
 - **Frozen açaí pulp is essential:** the soft-serve texture comes from the frozen pulp. Don't try with thawed pulp.
 - **Use minimal liquid:** you want soft-serve, not a smoothie. Add liquid sparingly.
 - **Frozen banana adds bulk and creaminess:** if you have time, freeze the bananas overnight; the texture is significantly better.
-- **The toppings are the dish:** don't skimp. Generous granola + fresh fruit + sweet drizzle is the canonical structure.
+- **The toppings are the dish:** don't skimp. Generous granola + fresh fruit + sweet drizzle is the traditional structure.
 - **Eat fast:** the açaí cream melts within 10-15 minutes of being plated.
 
 ## Variations
-**Classic Brazilian açaí com banana e granola:** the canonical setup described above.
+**Classic Brazilian açaí com banana e granola:** the traditional setup described above.
 **Açaí na tigela com leite condensado:** the Rio favourite - with extra condensed milk drizzled generously.
 **Açaí with peanut butter:** drizzle natural peanut butter over (very popular at Brazilian gyms).
 **Açaí superbowl (modern fitness variant):** add a scoop of protein powder to the blend; top with seeds and nuts.
@@ -91,7 +91,7 @@ The açaí bowl is Brazil's most successfully exported food of the 2010s, and th
 **Açaí com tapioca pearls:** add boba/tapioca pearls - Brazilian-Asian fusion bowl.
 
 ## Serving
-At a Rio de Janeiro beach kiosk (the canonical setting) · at a São Paulo "fitness-Brazilian" café · at a Brazilian gym's post-workout bar · as a Brazilian summer breakfast · at a Brazilian beach-side lunch (in 35°C heat) · at a Brazilian-themed café anywhere worldwide · at home for a healthy weekend breakfast.
+At a Rio de Janeiro beach kiosk (the traditional setting) · at a São Paulo "fitness-Brazilian" café · at a Brazilian gym's post-workout bar · as a Brazilian summer breakfast · at a Brazilian beach-side lunch (in 35°C heat) · at a Brazilian-themed café anywhere worldwide · at home for a healthy weekend breakfast.
 
 ## Storage
 - Eat fresh; the texture is best within 15 minutes of blending.

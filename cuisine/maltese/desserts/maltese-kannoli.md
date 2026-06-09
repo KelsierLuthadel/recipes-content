@@ -2,7 +2,7 @@
 
 ![Maltese Kannoli](resources/maltese-kannoli.jpg)
 
-*Malta's beloved fried-pastry-with-ricotta-filling: crisp deep-fried pastry shells filled with sweetened ricotta studded with chocolate chips, candied peel and a touch of cinnamon. The Maltese cousin of Sicilian cannoli; the canonical Maltese festa dessert.*
+*Malta's beloved fried-pastry-with-ricotta-filling: crisp deep-fried pastry shells filled with sweetened ricotta studded with chocolate chips, candied peel and a touch of cinnamon. The Maltese cousin of Sicilian cannoli; the traditional Maltese festa dessert.*
 
 **Serves:** Makes 12
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Maltese kannoli are Malta's adaptation of the Sicilian cannoli, differing in subtle but real ways: the shells are slightly thicker, the filling tends to be sweeter, the use of chocolate chips and candied peel inside the ricotta filling is universal (whereas Sicilian versions sometimes use only ricotta and pistachio), and the canonical Maltese kannoli is eaten at every village festa (the patron-saint feast days that punctuate the Maltese calendar). The construction: a flour-and-butter-and-Marsala dough is rolled thin, cut into ovals, wrapped around stainless-steel cannoli tubes, deep-fried till golden and crisp; once cooled, the shells are filled (with a piping bag) with sweetened ricotta mixed with grated dark chocolate, candied orange peel, and a touch of cinnamon. Dipped in chopped pistachios or icing sugar at the ends.
+Maltese kannoli are Malta's adaptation of the Sicilian cannoli, differing in subtle but real ways: the shells are slightly thicker, the filling tends to be sweeter, the use of chocolate chips and candied peel inside the ricotta filling is universal (whereas Sicilian versions sometimes use only ricotta and pistachio), and the traditional Maltese kannoli is eaten at every village festa (the patron-saint feast days that punctuate the Maltese calendar). The construction: a flour-and-butter-and-Marsala dough is rolled thin, cut into ovals, wrapped around stainless-steel cannoli tubes, deep-fried till golden and crisp; once cooled, the shells are filled (with a piping bag) with sweetened ricotta mixed with grated dark chocolate, candied orange peel, and a touch of cinnamon. Dipped in chopped pistachios or icing sugar at the ends.
 
 ## Ingredients
 
@@ -89,7 +89,7 @@ Maltese kannoli are Malta's adaptation of the Sicilian cannoli, differing in sub
 ## Notes
 - **Fill just before serving:** the shells go soggy within an hour.
 - **Drain ricotta well:** wet ricotta makes runny filling.
-- **Sheep's milk ricotta if possible:** the canonical Mediterranean choice.
+- **Sheep's milk ricotta if possible:** the traditional Mediterranean choice.
 
 ## Variations
 **Without chocolate chips:** the simpler Sicilian-Maltese hybrid.
@@ -99,7 +99,7 @@ Maltese kannoli are Malta's adaptation of the Sicilian cannoli, differing in sub
 **Chocolate-dipped shells:** dip cooled shell ends in melted chocolate before filling.
 
 ## Serving
-At a Maltese village festa (the canonical setting) · at a Maltese wedding dessert table · at a Maltese family celebration · at a Maltese bakery counter · at a Maltese coffee shop · at home with espresso.
+At a Maltese village festa (the traditional setting) · at a Maltese wedding dessert table · at a Maltese family celebration · at a Maltese bakery counter · at a Maltese coffee shop · at home with espresso.
 
 ## Storage
 - Filled kannoli should be eaten within an hour.

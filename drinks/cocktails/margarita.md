@@ -51,7 +51,7 @@ The margarita has an uncertain origin (multiple Mexican bars claim it in the lat
 ## Notes
 - **Salt rim only on the outside.** Roll the rim in the salt only on the outer surface; the salt should be on your lips, not in the drink. If salt falls into the drink, the cocktail goes savoury fast.
 - **Fresh lime juice, always.** Bottled lime juice is the most common margarita killer at home bars. Squeezing two limes takes 30 seconds and is the single biggest improvement.
-- **100% agave tequila.** Mixto tequilas with caramel colouring give a harsh drink. Blanco (silver) is the canonical choice; reposado works for a slightly oaky version; añejo is wasted here.
+- **100% agave tequila.** Mixto tequilas with caramel colouring give a harsh drink. Blanco (silver) is the traditional choice; reposado works for a slightly oaky version; añejo is wasted here.
 - **Shake hard.** A weak shake gives a barely-cold drink that hasn't diluted properly. 10 seconds of full-arm shake is right.
 
 ## Variations

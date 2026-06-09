@@ -37,7 +37,7 @@ Es teh manis ("sweet iced tea" in Indonesian) is what Indonesians actually order
 
 ## Notes
 - **Properly sweet.** Indonesian palates expect this drink very sweet. Cut the sugar to 4 tablespoons if you want a milder version, but the original is glykos.
-- **Crushed ice is canonical.** Cubed works but melts faster and dilutes more.
+- **Crushed ice is traditional.** Cubed works but melts faster and dilutes more.
 
 ## Storage
 - The sweetened tea base keeps in the fridge for 3 days; pour over fresh ice per glass.

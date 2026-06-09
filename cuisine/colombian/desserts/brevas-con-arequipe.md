@@ -2,7 +2,7 @@
 
 ![Brevas con Arequipe](resources/brevas-con-arequipe.jpg)
 
-*Colombian dessert of fresh figs poached in spiced sugar syrup, then split open and stuffed with arequipe (Colombian dulce de leche). The figs hold their shape; the syrup soaks the centres; the arequipe melts a little against the warm fruit. Eaten warm or cold, often with a small wedge of mild white cheese on the side.*
+*Colombian dessert of fresh figs poached in spiced sugar syrup, then split open and stuffed with arequipe (Colombian dulce de leche). The figs hold their shape; the syrup soaks the centres; the arequipe melts a little against the warm fruit. Eat warm or cold, often with a small wedge of mild white cheese on the side.*
 
 **Serves:** 6
 

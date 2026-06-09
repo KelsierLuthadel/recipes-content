@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Buna is the Ethiopian coffee ceremony, and Ethiopia (where coffee was discovered) takes its coffee with more ritual than anywhere else. Green coffee beans roasted fresh over a small charcoal brazier in a wide flat clay pan called a menkeshkesh, crackling and turning from pale green to deep brown as the kitchen fills with the scent. The pan-passed-for-guests-to-smell moment is the canonical opening of the ceremony. Crushed with a wooden mortar and pestle (mukecha), brewed in a long-necked clay pot (jebena), poured from a tall height into small handleless cups: each detail is part of the ritual, and any shortcut taken loses the ceremony's character. The three rounds are the canonical structure (abol the strongest, tona the mellower second, bereka the weakest third, said to bring blessing); leaving after one cup is impolite. Frankincense burning on the side and popcorn served alongside the cups complete the setting. The 90-minute conversation that fills the ceremony is the actual purpose; buna is not a quick caffeine fix but the centre of Ethiopian social life.
+Buna is the Ethiopian coffee ceremony, and Ethiopia (where coffee was discovered) takes its coffee with more ritual than anywhere else. Green coffee beans roasted fresh over a small charcoal brazier in a wide flat clay pan called a menkeshkesh, crackling and turning from pale green to deep brown as the kitchen fills with the scent. The pan-passed-for-guests-to-smell moment is the traditional opening of the ceremony. Crushed with a wooden mortar and pestle (mukecha), brewed in a long-necked clay pot (jebena), poured from a tall height into small handleless cups: each detail is part of the ritual, and any shortcut taken loses the ceremony's character. The three rounds are the traditional structure (abol the strongest, tona the mellower second, bereka the weakest third, said to bring blessing); leaving after one cup is impolite. Frankincense burning on the side and popcorn served alongside the cups complete the setting. The 90-minute conversation that fills the ceremony is the actual purpose; buna is not a quick caffeine fix but the centre of Ethiopian social life.
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ Buna is the Ethiopian coffee ceremony, and Ethiopia (where coffee was discovered
 - A small bowl for serving popcorn
 
 ### To serve
-- Plain popcorn (popped without butter or salt; the canonical accompaniment)
+- Plain popcorn (popped without butter or salt; the traditional accompaniment)
 - A small saucer of incense (frankincense / etan, optional but traditional)
 
 ## Method

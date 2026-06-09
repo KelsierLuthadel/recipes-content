@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-New Mexico chile rellenos are a New Mexican variation on the wider Mexican chile relleno tradition: large roasted-and-peeled Hatch green chillies (or Anaheim) with a slit cut in one side and seeds removed, stuffed generously with cubes of Monterey Jack cheese (the canonical NM choice; or pepper jack for spicier), then dipped in a light egg-white-and-yolk batter and pan-fried till the batter puffs golden. Served smothered in either red chile sauce (see red chile sauce in stacked enchiladas) or green chile gravy, topped with extra cheese (melted briefly under a grill), and garnished with crema, coriander and sliced raw onion.
+New Mexico chile rellenos are a New Mexican variation on the wider Mexican chile relleno tradition: large roasted-and-peeled Hatch green chillies (or Anaheim) with a slit cut in one side and seeds removed, stuffed generously with cubes of Monterey Jack cheese (the traditional NM choice; or pepper jack for spicier), then dipped in a light egg-white-and-yolk batter and pan-fried till the batter puffs golden. Served smothered in either red chile sauce (see red chile sauce in stacked enchiladas) or green chile gravy, topped with extra cheese (melted briefly under a grill), and garnished with crema, coriander and sliced raw onion.
 
 ## Ingredients
 

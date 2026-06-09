@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Nam khing is one of Laos's simplest and most beloved drinks: a ginger infusion sweetened with palm sugar and brightened with lime. Three Lao-specific details define the drink. The ginger is thickly sliced (not finely chopped or grated); thick slices give a slow steady infusion over the long simmer that finely-chopped ginger can't match. The Lao kitchen uses ginger generously, around 40 g per litre of water, which gives a strong warming brew rather than a delicate ginger water. Palm sugar is the canonical sweetener and gives the caramel-molasses depth that distinguishes nam khing from white-sugared ginger drinks; granulated sugar produces a thinner, less aromatic result. The lime goes in off the heat at the very end, never during the simmer; lime added to hot tea turns bitter and ruins the brightness it should provide. The pinch of salt is the Lao kitchen secret that sharpens the ginger heat and rounds the sweetness without making the drink taste salty. Served hot in small ceramic cups.
+Nam khing is one of Laos's simplest and most beloved drinks: a ginger infusion sweetened with palm sugar and brightened with lime. Three Lao-specific details define the drink. The ginger is thickly sliced (not finely chopped or grated); thick slices give a slow steady infusion over the long simmer that finely-chopped ginger can't match. The Lao kitchen uses ginger generously, around 40 g per litre of water, which gives a strong warming brew rather than a delicate ginger water. Palm sugar is the traditional sweetener and gives the caramel-molasses depth that distinguishes nam khing from white-sugared ginger drinks; granulated sugar produces a thinner, less aromatic result. The lime goes in off the heat at the very end, never during the simmer; lime added to hot tea turns bitter and ruins the brightness it should provide. The pinch of salt is the Lao kitchen secret that sharpens the ginger heat and rounds the sweetness without making the drink taste salty. Served hot in small ceramic cups.
 
 ## Ingredients
 
@@ -58,11 +58,11 @@ Nam khing is one of Laos's simplest and most beloved drinks: a ginger infusion s
 3. Drink hot.
 
 ## Notes
-- **Thick ginger slices:** the slow steady infusion is the canonical Lao technique.
-- **Palm sugar over white sugar:** the canonical Lao depth.
+- **Thick ginger slices:** the slow steady infusion is the traditional Lao technique.
+- **Palm sugar over white sugar:** the traditional Lao depth.
 - **Lime off the heat:** added during the simmer it goes bitter; added off the heat it stays bright.
 - **Salt pinch:** the Lao kitchen secret. Sharpens the ginger.
-- **Strong proportions:** the canonical Lao brew is more aggressive than Western "ginger tea" - 40-50 g ginger per litre.
+- **Strong proportions:** the traditional Lao brew is more aggressive than Western "ginger tea" - 40-50 g ginger per litre.
 
 ## Variations
 **With honey instead of palm sugar:** swap palm sugar for honey - more aromatic, modern.
@@ -72,7 +72,7 @@ Nam khing is one of Laos's simplest and most beloved drinks: a ginger infusion s
 **Boozy nam khing:** add 30 ml of Lao-Lao rice spirit or whisky per cup - the adult cold-weather variant.
 
 ## Serving
-At a Lao morning market stall (the canonical setting; especially in cool months) · at a Lao breakfast counter · at a Lao home as a morning or after-meal digestive · at a Lao temple for visiting monks · at home as a cold-weather warming drink · paired with a Lao biscuit, a small piece of mango sticky rice, or a slice of coconut cake.
+At a Lao morning market stall (the traditional setting; especially in cool months) · at a Lao breakfast counter · at a Lao home as a morning or after-meal digestive · at a Lao temple for visiting monks · at home as a cold-weather warming drink · paired with a Lao biscuit, a small piece of mango sticky rice, or a slice of coconut cake.
 
 ## Storage
 - The brewed tea (strained) refrigerates 5 days; reheat on the stovetop.

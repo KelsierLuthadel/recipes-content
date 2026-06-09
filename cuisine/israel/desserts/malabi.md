@@ -2,7 +2,7 @@
 
 ![Malabi](resources/malabi.jpg)
 
-*A silky milk pudding scented with rosewater, set with cornflour, topped with a rose-and-rosewater syrup and crushed pistachios. Eaten across Israel, Lebanon, Turkey and the Levant under different names; this is the bright pink, market-stand version sold in plastic cups across Tel Aviv.*
+*A silky milk pudding scented with rosewater, set with cornflour, topped with a rose-and-rosewater syrup and crushed pistachios. Eat across Israel, Lebanon, Turkey and the Levant under different names; this is the bright pink, market-stand version sold in plastic cups across Tel Aviv.*
 
 **Serves:** 6
 

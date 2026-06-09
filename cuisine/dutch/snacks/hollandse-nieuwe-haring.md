@@ -11,7 +11,7 @@
 **Cook Time:** None (the fish is already filleted and brined by the fishmonger)
 
 ## Overview
-Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it's from the first catch of the season before the fish has spawned) is the Netherlands' most distinctive street food. The canonical fish is North Sea herring caught between late May and early July, when it has reached optimal fat content but hasn't yet spawned; the flesh is tender, sweet and fatty. The cure is what distinguishes it: gibbed (the gills and most guts removed but the pancreas left in, because its enzymes play a crucial role in curing), brined in 17% salt for around five days, then legally required to be frozen at minus 27 °C for forty-eight hours to kill any parasites. Served raw but cured, similar in concept to ceviche or gravadlax but distinctly Dutch. The canonical service is on a small paper plate with a generous scoop of finely chopped raw onion and sometimes a spoon of sweet pickle. Eat standing: hold the tail, tilt your head back, lower from above. The Dutch will photograph tourists attempting it.
+Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it's from the first catch of the season before the fish has spawned) is the Netherlands' most distinctive street food. The traditional fish is North Sea herring caught between late May and early July, when it has reached optimal fat content but hasn't yet spawned; the flesh is tender, sweet and fatty. The cure is what distinguishes it: gibbed (the gills and most guts removed but the pancreas left in, because its enzymes play a crucial role in curing), brined in 17% salt for around five days, then legally required to be frozen at minus 27 °C for forty-eight hours to kill any parasites. Served raw but cured, similar in concept to ceviche or gravadlax but distinctly Dutch. The traditional service is on a small paper plate with a generous scoop of finely chopped raw onion and sometimes a spoon of sweet pickle. Eat standing: hold the tail, tilt your head back, lower from above. The Dutch will photograph tourists attempting it.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it
 - 1 whole Hollandse Nieuwe Haring fillet (filleted, brined, ready-to-eat - bought from a Dutch fishmonger, herring stall, or specialty shop)
 - The herring should be a butterfly fillet (the two sides still joined at the back), pink-fleshed and shiny
 
-### The garnish (canonical)
+### The garnish (traditional)
 - 1 small white onion, very finely diced (the Dutch chop it down to 2 mm pieces - finer than you'd think)
 - 4 tablespoons total
 
@@ -28,8 +28,8 @@ Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it
 - 1 lemon wedge per serving (the modern variant; purists skip)
 
 ### To serve
-- 4 small white paper plates (the canonical Dutch market presentation)
-- 4 small wooden cocktail forks (some Dutch diners refuse forks; eating with the hands is the canonical way)
+- 4 small white paper plates (the traditional Dutch market presentation)
+- 4 small wooden cocktail forks (some Dutch diners refuse forks; eating with the hands is the traditional way)
 - A glass of cold Dutch lager (Heineken, Amstel) OR a small glass of jenever
 - 4 slices of dense Dutch dark rye bread (roggebrood) on the side (optional)
 
@@ -48,13 +48,13 @@ Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it
 3. Place in a small bowl.
 4. (Optional) Chop a small amount of sweet pickles (gerkjes) the same fineness.
 
-### Stage 3 - Plate (canonical Dutch market style)
+### Stage 3 - Plate (traditional Dutch market style)
 1. Place 1 herring fillet on each small paper plate.
 2. Spoon a generous tablespoon of finely chopped onion alongside the herring.
 3. (Optional) Add a small spoonful of chopped pickles.
 4. (Optional) Place a wedge of lemon - though Dutch purists skip this.
 
-### Stage 4 - The eating posture (the canonical Dutch experience)
+### Stage 4 - The eating posture (the traditional Dutch experience)
 1. Hand each plate to a diner.
 2. Each diner picks the herring up by the tail.
 3. Holds it above their mouth.
@@ -63,16 +63,16 @@ Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it
 6. Eats in 3-4 large bites, picking up some chopped onion between bites.
 7. (Tourists are allowed to cheat - use a fork, eat smaller pieces, take photos.)
 
-### Stage 5 - Serve with the canonical accompaniments
+### Stage 5 - Serve with the traditional accompaniments
 1. A glass of cold Heineken or Amstel.
 2. A small plate of dense dark rye bread on the side (for the non-vertical-eating purist).
 3. Eat standing up - this is street food.
 
 ## Notes
 - **Source matters:** a real Hollandse Nieuwe is dramatically different from supermarket pickled herring (rollmops or matjes). Find a Dutch fishmonger, a herring stall, or a specialty fish shop.
-- **The season:** the canonical Hollandse Nieuwe season opens around 17 May ("Vlaggetjesdag" - Flag Day in Scheveningen) and runs through June and July. Outside the season, "maatjesharing" is available year-round (deep-frozen and brined; legally required to be frozen).
+- **The season:** the traditional Hollandse Nieuwe season opens around 17 May ("Vlaggetjesdag" - Flag Day in Scheveningen) and runs through June and July. Outside the season, "maatjesharing" is available year-round (deep-frozen and brined; legally required to be frozen).
 - **The pancreas:** gibbed herring (Dutch-style) has the pancreas left in. The enzymes are what give the cured flesh its tender, slightly sweet character. Don't try to fully gut a fresh herring at home unless you really know the Dutch technique.
-- **Onion fineness:** 2 mm dice. The fine chop is part of the canonical presentation.
+- **Onion fineness:** 2 mm dice. The fine chop is part of the traditional presentation.
 - **The eating posture:** holding the tail and tilting back is the cultural marker. Tourists are encouraged to try; locals appreciate the effort.
 - **No bread on the plate:** the bread is a separate item, eaten between herring or alongside. The herring itself is the protein course.
 
@@ -84,10 +84,10 @@ Hollandse Nieuwe Haring (also called maatjesharing, "maiden herring", because it
 **Herring on toast (the open-sandwich variant):** a slice of dark rye, butter, herring, chopped onion, capers - the Scandinavian-influenced variant.
 **Smoked herring (gerookte haring):** smoked rather than soused; different texture and flavour, also Dutch but a different dish.
 **Pickled herring rolls (rolmops):** the herring rolled around a pickled onion and gherkin, fixed with a cocktail stick - the German-influenced variant.
-**Maatjesharing with a glass of jenever:** the canonical pairing - a small shot of jenever beside the herring is the traditional way.
+**Maatjesharing with a glass of jenever:** the traditional pairing - a small shot of jenever beside the herring is the traditional way.
 
 ## Serving
-At a Dutch haringkar (herring stall; portable street carts found at every Dutch market) - the canonical setting · at the annual Vlaggetjesdag herring festival in Scheveningen (around 17 May) · at a Dutch fish market (Volendam, Marken) · at an Amsterdam canal-side market · at any Dutch town's market square on market day · at home with a glass of cold lager and a slice of dark rye bread · at a Dutch wedding reception canapé table · as the canonical Dutch "I'm a real local" moment for visitors.
+At a Dutch haringkar (herring stall; portable street carts found at every Dutch market) - the traditional setting · at the annual Vlaggetjesdag herring festival in Scheveningen (around 17 May) · at a Dutch fish market (Volendam, Marken) · at an Amsterdam canal-side market · at any Dutch town's market square on market day · at home with a glass of cold lager and a slice of dark rye bread · at a Dutch wedding reception canapé table · as the traditional Dutch "I'm a real local" moment for visitors.
 
 ## Storage
 - Hollandse Nieuwe is sold ready to eat. Eat the same day for best flavour and freshness.

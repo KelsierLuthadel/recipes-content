@@ -11,7 +11,7 @@
 **Cook Time:** 8-10 minutes deep frying OR 25 minutes baking
 
 ## Overview
-The Scotch egg has a contested origin: tradition credits Fortnum and Mason of London (1738), but the dish has been so thoroughly embraced by Scotland and Scottish gastropubs that it's effectively a Scottish dish now. A soft-boiled egg (6 minutes 30 seconds is the sweet spot for a just-set white with a slightly runny yolk) wraps in seasoned pork sausagemeat with sage, mustard powder, white pepper and mace, then triple-coats in flour-egg-breadcrumbs and deep-fries till golden and crisp. The Scottish refinement is to mix crumbled haggis into the sausagemeat, or Stornoway black pudding. The egg sits at the centre with that soft yolk just on the edge of running, the crisp savoury crust around it. Eaten warm at a picnic, in a pub with English mustard or HP brown sauce, on a gastropub starter plate with watercress, or cold from a packed lunch box.
+The Scotch egg has a contested origin: tradition credits Fortnum and Mason of London (1738), but the dish has been so thoroughly embraced by Scotland and Scottish gastropubs that it's effectively a Scottish dish now. A soft-boiled egg (6 minutes 30 seconds is the sweet spot for a just-set white with a slightly runny yolk) wraps in seasoned pork sausagemeat with sage, mustard powder, white pepper and mace, then triple-coats in flour-egg-breadcrumbs and deep-fries till golden and crisp. The Scottish refinement is to mix crumbled haggis into the sausagemeat, or Stornoway black pudding. The egg sits at the centre with that soft yolk just on the edge of running, the crisp savoury crust around it. Eat warm at a picnic, in a pub with English mustard or HP brown sauce, on a gastropub starter plate with watercress, or cold from a packed lunch box.
 
 ## Ingredients
 
@@ -77,7 +77,7 @@ The Scotch egg has a contested origin: tradition credits Fortnum and Mason of Lo
    - Roll in breadcrumbs (press to adhere; full coverage)
 3. Place coated eggs on a tray; refrigerate 15 minutes (helps the coating set).
 
-### Stage 5a - Deep fry (the canonical method)
+### Stage 5a - Deep fry (the traditional method)
 1. Heat the oil to 175°C in a deep pan or fryer (use a thermometer; if too hot the coating burns before the meat cooks; too low the egg overcooks).
 2. Lower 2-3 Scotch eggs into the oil with a slotted spoon.
 3. Fry for 7-8 minutes, turning occasionally, till deeply golden brown.
@@ -113,11 +113,11 @@ The Scotch egg has a contested origin: tradition credits Fortnum and Mason of Lo
 **Chorizo Scotch egg:** swap pork sausagemeat for chorizo sausagemeat - smokier, spicier.
 
 ## Serving
-At a Scottish gastropub as a starter with watercress and mustard (the canonical setting) · at a Scottish picnic at a Highland castle ground · at a Burns Night canape table · at a Scottish family Sunday picnic · cold in a Scottish school packed lunch · at a Scottish craft-beer bar with a pint of heavy ale.
+At a Scottish gastropub as a starter with watercress and mustard (the traditional setting) · at a Scottish picnic at a Highland castle ground · at a Burns Night canape table · at a Scottish family Sunday picnic · cold in a Scottish school packed lunch · at a Scottish craft-beer bar with a pint of heavy ale.
 
 ## Storage
 - Refrigerates 3 days; eat cold from the fridge for picnics.
 - Don't reheat in the microwave (the coating goes soggy). If you must reheat, use a 180°C oven for 10 minutes.
 - Freezes (cooked, cold) for 2 months; defrost in the fridge and eat cold.
-- A day-old cold Scotch egg is the canonical Scottish school packed-lunch item.
+- A day-old cold Scotch egg is the traditional Scottish school packed-lunch item.
 - The coated-but-uncooked Scotch egg freezes well; deep-fry from frozen for 12-15 minutes at 170°C.

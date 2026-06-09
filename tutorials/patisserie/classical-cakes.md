@@ -56,7 +56,7 @@ A theatrical cake. A disc of puff pastry as the base; a ring of choux puffs arou
 4. **Ring:** The caramel-glazed puffs are placed around the rim of the pastry base, each one stuck down with a dab of remaining caramel.
 5. **Filling:** Creme chiboust (creme patissiere folded with Italian meringue) piped or spooned into the centre, often with a saint-honore tip that produces "petal" piping.
 
-See [Gateau Saint-Honore](../../cuisine/french/desserts/gateau-st-honore.md) for the canonical recipe.
+See [Gateau Saint-Honore](../../cuisine/french/desserts/gateau-st-honore.md) for the traditional recipe.
 
 ## Paris-Brest
 

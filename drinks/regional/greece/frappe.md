@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Greek frappé is one of the great accidental drinks. Dimitris Vakondios, a Nescafé sales rep at the 1957 Thessaloniki International Fair, couldn't find hot water for his coffee break, so he shook instant Nescafé with cold water in a shaker. The resulting foamy iced coffee took off in Greece and is now the national drink - sold at every kafenio and beach bar from Athens to the smallest Cycladic island. The build is two heaped teaspoons of instant coffee (Nescafé Classic is the canonical brand), 1 to 4 teaspoons of sugar (Greeks name the sweetness levels: sketo = no sugar, metrios = medium, glykos = sweet), a small splash of cold water, all shaken or whisked into a thick caramel-coloured foam, then topped up with more cold water and milk (optional) over ice. Drunk slowly through a straw - the whole point of a frappé is that it lasts 90 minutes.
+The Greek frappé is one of the great accidental drinks. Dimitris Vakondios, a Nescafé sales rep at the 1957 Thessaloniki International Fair, couldn't find hot water for his coffee break, so he shook instant Nescafé with cold water in a shaker. The resulting foamy iced coffee took off in Greece and is now the national drink - sold at every kafenio and beach bar from Athens to the smallest Cycladic island. The build is two heaped teaspoons of instant coffee (Nescafé Classic is the traditional brand), 1 to 4 teaspoons of sugar (Greeks name the sweetness levels: sketo = no sugar, metrios = medium, glykos = sweet), a small splash of cold water, all shaken or whisked into a thick caramel-coloured foam, then topped up with more cold water and milk (optional) over ice. Drunk slowly through a straw - the whole point of a frappé is that it lasts 90 minutes.
 
 ## Ingredients
 

@@ -10,7 +10,7 @@ Indian carbohydrate splits roughly along the Vindhya mountain range that divides
 
 This page covers:
 
-1. **Basmati rice** - the canonical Indian long-grain. Cooking technique.
+1. **Basmati rice** - the traditional Indian long-grain. Cooking technique.
 2. **The chapati / roti** - the everyday flatbread.
 3. **The paratha** - the layered, ghee-rich flatbread.
 4. **Naan** - the leavened tandoor flatbread (more restaurant than home).
@@ -20,10 +20,10 @@ This page covers:
 
 Basmati is a specific cultivar from the Punjab / Pakistan / North India region. The grain is long, fragrant, and stays separate when cooked (vs sticky short-grain). Three brands worth knowing: Tilda, Daawat, Kohinoor. Each has a "premium" line (aged 1-2 years; better aroma) and a regular line.
 
-### Soaked basmati (the canonical Indian technique)
+### Soaked basmati (the traditional Indian technique)
 
 1. **Rinse** the rice in cold water 3-4 times until the water runs clear (removes excess surface starch).
-2. **Soak** in cold water for 30 minutes (the canonical Indian technique). This pre-hydrates the grain.
+2. **Soak** in cold water for 30 minutes (the traditional Indian technique). This pre-hydrates the grain.
 3. **Drain.**
 4. **Cook** in plenty of water (1:1.5 rice:water): 200 g rice + 300 ml water + ½ teaspoon salt + ½ teaspoon oil.
 5. **Bring to a boil**; reduce heat to LOW.
@@ -106,7 +106,7 @@ The tandoor-baked bread, more associated with restaurant Indian than home cookin
 At home, an oven preheated to 250°C with a stone or upturned baking sheet works but never quite reproduces the tandoor effect. Naan is typically restaurant fare in India.
 
 ### Variants
-- **Plain naan** - the canonical.
+- **Plain naan** - the traditional.
 - **Garlic naan** - chopped garlic + butter brushed on after baking.
 - **Peshawari naan** - sweet, with raisins, coconut, almonds.
 - **Keema naan** - stuffed with minced meat.
@@ -133,13 +133,13 @@ At home, an oven preheated to 250°C with a stone or upturned baking sheet works
 |---|---|
 | Dal tadka | rice + roti (whichever you prefer) |
 | Dal makhani | naan + jeera rice |
-| Sambar | rice (the canonical) + dosa + idli |
+| Sambar | rice (the traditional) + dosa + idli |
 | Chicken curry (North Indian) | naan or rice |
 | Fish curry (Bengali) | white rice (always) |
 | Sabzi (vegetable dish) | roti or paratha |
 | Biryani | itself + raita |
 | Khichdi | itself + pickle + yogurt |
-| Chana masala | bhatura (canonical) or naan |
+| Chana masala | bhatura (traditional) or naan |
 
 ## Common mistakes
 
@@ -160,6 +160,6 @@ Imagine a plate with:
 - A small bowl of **raita** (cucumber yogurt) or **dahi** (plain yogurt).
 - A small spoon of **chutney** (mint-coriander or tomato).
 
-This is the canonical North Indian home meal. The dal goes with the rice; the chapati gets torn into pieces to scoop up the sabzi; the achaar adds a sour-spicy hit; the raita cools everything down.
+This is the traditional North Indian home meal. The dal goes with the rice; the chapati gets torn into pieces to scoop up the sabzi; the achaar adds a sour-spicy hit; the raita cools everything down.
 
 That's home Indian cooking. The next page covers how regional traditions change this structure.

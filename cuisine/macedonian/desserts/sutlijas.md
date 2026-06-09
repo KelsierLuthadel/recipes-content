@@ -2,7 +2,7 @@
 
 ![Sutlijaš](resources/sutlijas.jpg)
 
-*North Macedonia's creamy rice pudding: short-grain rice slowly cooked in whole milk with sugar, vanilla and a pinch of cinnamon till thick and creamy. Served warm or chilled, dusted with cinnamon. The canonical Macedonian comfort dessert.*
+*North Macedonia's creamy rice pudding: short-grain rice slowly cooked in whole milk with sugar, vanilla and a pinch of cinnamon till thick and creamy. Served warm or chilled, dusted with cinnamon. The traditional Macedonian comfort dessert.*
 
 **Serves:** 6
 

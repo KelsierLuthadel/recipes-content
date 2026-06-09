@@ -134,7 +134,7 @@ Kuzu tandır (literally "tandoor lamb") is Turkey's most luxurious lamb celebrat
 **With chestnuts and pomegranate:** add 200 g of peeled chestnuts to the cooking liquid; finish with a drizzle of pomegranate molasses and fresh pomegranate seeds. Festive variation.
 
 ## Serving
-At the centre of a Turkish celebration table: alongside pilaf, grilled vegetables, yogurt, salads, warm flatbread and ample garnishes. Drink: rakı (the canonical aniseed spirit, slowly sipped over ice with water); red wine; or strong sweet Turkish tea after the meal.
+At the centre of a Turkish celebration table: alongside pilaf, grilled vegetables, yogurt, salads, warm flatbread and ample garnishes. Drink: rakı (the traditional aniseed spirit, slowly sipped over ice with water); red wine; or strong sweet Turkish tea after the meal.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens significantly overnight.

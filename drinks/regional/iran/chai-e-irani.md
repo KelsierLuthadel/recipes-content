@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Tea in Iran is the constant background of social life: brewed in a samovar (a tall metal urn with a small teapot on top), poured into hourglass-shaped small glasses called estekan, drunk slowly all day. Persian tea is unsweetened in the cup; sweetness comes from biting a sugar cube (qand) held between the teeth and drinking the hot tea through it, or from a small spoonful of a fruit preserve (morabba) - quince, sour cherry, fig, or rose petal jam are the canonical choices. Served with a small plate of khormeh (dates) or sohan (saffron-pistachio brittle) on the side. The Persian tea ceremony is less ornate than the Japanese one and more constant than the Chinese - it just is, all day, every day.
+Tea in Iran is the constant background of social life: brewed in a samovar (a tall metal urn with a small teapot on top), poured into hourglass-shaped small glasses called estekan, drunk slowly all day. Persian tea is unsweetened in the cup; sweetness comes from biting a sugar cube (qand) held between the teeth and drinking the hot tea through it, or from a small spoonful of a fruit preserve (morabba) - quince, sour cherry, fig, or rose petal jam are the traditional choices. Served with a small plate of khormeh (dates) or sohan (saffron-pistachio brittle) on the side. The Persian tea ceremony is less ornate than the Japanese one and more constant than the Chinese - it just is, all day, every day.
 
 ## Ingredients
 

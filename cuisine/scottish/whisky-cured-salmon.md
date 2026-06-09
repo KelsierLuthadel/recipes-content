@@ -11,7 +11,7 @@
 **Cook Time:** None (cold-cured) OR 15 minutes (hot-smoked)
 
 ## Overview
-Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-caught from the Spey, Tay or Tweed, is one of the country's most exported foods and the smoked Scottish-salmon industry is one of its most refined food trades. The whisky-cured version is a Scottish refinement on Scandinavian gravlax: instead of a pure salt-sugar-dill cure, a generous dram (or three) of single-malt Scotch goes into the mix, giving the finished salmon a faintly peaty, smoky, slightly sweet edge before any actual smoke is applied. Two finishes are possible from the same cure: the cold-cured version sliced very thin as gravlax with dill and mustard sauce, or the hot-smoked version, where the fish goes briefly into a wok rig with whisky-cask oak chips at 80 °C for a flaky warm-spice-edged finish. Eaten on Hogmanay bagels, on oatcakes at Burns Night, on Christmas-morning blinis.
+Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-caught from the Spey, Tay or Tweed, is one of the country's most exported foods and the smoked Scottish-salmon industry is one of its most refined food trades. The whisky-cured version is a Scottish refinement on Scandinavian gravlax: instead of a pure salt-sugar-dill cure, a generous dram (or three) of single-malt Scotch goes into the mix, giving the finished salmon a faintly peaty, smoky, slightly sweet edge before any actual smoke is applied. Two finishes are possible from the same cure: the cold-cured version sliced very thin as gravlax with dill and mustard sauce, or the hot-smoked version, where the fish goes briefly into a wok rig with whisky-cask oak chips at 80 °C for a flaky warm-spice-edged finish. Eat on Hogmanay bagels, on oatcakes at Burns Night, on Christmas-morning blinis.
 
 ## Ingredients
 
@@ -108,7 +108,7 @@ Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-c
 ## Notes
 - **Sushi-grade salmon:** ensure your fish is fresh enough for raw consumption (if not, the cure will kill light bacteria but the fish should still be very fresh).
 - **Whole side, skin on:** the skin protects the flesh during curing and is easier to slice against.
-- **48-hour cure is the canonical Scottish version:** firmer than gravlax, slightly drier, more sliceable.
+- **48-hour cure is the traditional Scottish version:** firmer than gravlax, slightly drier, more sliceable.
 - **Slice very thin:** the technique is the difference between an excellent gravlax and a clumsy one. A long thin knife, shallow angle, confident strokes.
 - **Hot-smoked Scottish salmon flakes:** if hot-smoking, the salmon flakes rather than slices; flake into chunks and serve flake-style.
 
@@ -121,7 +121,7 @@ Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-c
 **Vodka-cured (Scandinavian):** swap whisky for vodka - closer to traditional gravlax.
 
 ## Serving
-At a Hogmanay buffet (the canonical setting) · on Christmas morning with blinis and champagne · at a Scottish wedding breakfast · at a Burns Night supper as a starter · at any Scottish gastropub on Easter Sunday · on the breakfast trolley at a Highland hotel · at home for a New Year's Day brunch.
+At a Hogmanay buffet (the traditional setting) · on Christmas morning with blinis and champagne · at a Scottish wedding breakfast · at a Burns Night supper as a starter · at any Scottish gastropub on Easter Sunday · on the breakfast trolley at a Highland hotel · at home for a New Year's Day brunch.
 
 ## Storage
 - Cured salmon (cold) refrigerates 5-7 days wrapped tightly.

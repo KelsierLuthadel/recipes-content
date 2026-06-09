@@ -30,7 +30,7 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 - Grated chocolate or a few chocolate shavings on top (optional)
 
 ### To serve alongside
-- A small speculoos biscuit balanced on the saucer (the canonical Belgian café pairing)
+- A small speculoos biscuit balanced on the saucer (the traditional Belgian café pairing)
 - A teaspoon for stirring as the chocolate continues to dissolve
 - A glass of cold still water on the side (some cafés serve this)
 
@@ -71,7 +71,7 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 - **Whisk constantly:** the chocolate-milk emulsion can split if you stop. Steady agitation gives a smooth glossy drink.
 - **Cream is optional but helps:** the single cream gives body. Without it, the drink can taste a touch thin. Don't go past double cream - it overwhelms.
 - **Sugar is restrained:** Belgian hot chocolate is meant to taste of chocolate, not sweetness. A teaspoon is plenty for 70% chocolate; 60% needs less.
-- **The biscuit on the saucer:** speculoos is canonical. A small piece of dark chocolate also works, as does a single Belgian praline.
+- **The biscuit on the saucer:** speculoos is traditional. A small piece of dark chocolate also works, as does a single Belgian praline.
 
 ## Variations
 **Chocolat chaud à l'orange:** add the grated zest of 1/2 an orange to the milk while heating - infuses the milk with bitter-orange notes; strain before adding chocolate. The Christmas-market variant.
@@ -83,7 +83,7 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 **Iced Belgian hot chocolate (chocolat chaud glacé):** prepare as above, let cool, blend with crushed ice and a scoop of vanilla ice cream - the summer variant; closer to a Café liégeois (see [Café liégeois](cafe-liegeois.md)).
 
 ## Serving
-At a Brussels chocolatier-café (the canonical setting; Mary on the Rue Royale, Pierre Marcolini in the Sablon district, Wittamer on the Place du Grand-Sablon) · at a Bruges Christmas market on a cold December afternoon · at an Antwerp tea-room mid-morning · at home as a winter Sunday-afternoon ritual · paired with a buttery speculoos or a hand-made praline · as the canonical post-skating drink in the Ardennes.
+At a Brussels chocolatier-café (the traditional setting; Mary on the Rue Royale, Pierre Marcolini in the Sablon district, Wittamer on the Place du Grand-Sablon) · at a Bruges Christmas market on a cold December afternoon · at an Antwerp tea-room mid-morning · at home as a winter Sunday-afternoon ritual · paired with a buttery speculoos or a hand-made praline · as the traditional post-skating drink in the Ardennes.
 
 ## Storage
 - Doesn't store well - the chocolate-milk emulsion separates within an hour. Make and drink fresh.

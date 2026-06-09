@@ -20,7 +20,7 @@ ANZAC biscuits are a national institution in both Australia and New Zealand: a c
 - 200 g desiccated coconut (unsweetened)
 - 200 g caster sugar (or use 100 g caster + 100 g light brown sugar for richer flavour)
 - 200 g unsalted butter
-- 100 g golden syrup (the canonical ingredient; available at supermarkets in the baking aisle)
+- 100 g golden syrup (the traditional ingredient; available at supermarkets in the baking aisle)
 - 2 tablespoons boiling water
 - 1 teaspoon bicarbonate of soda
 - ½ teaspoon fine sea salt

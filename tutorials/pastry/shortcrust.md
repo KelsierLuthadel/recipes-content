@@ -114,7 +114,7 @@ Under-salted. Even sweet pastry wants a small pinch of salt to balance the butte
 - [Sweet Short Pastry](sweet-short.md): the patisserie variant, sweeter and shorter.
 - [Puff and Rough Puff](puff.md): the laminated cousin, totally different technique.
 - [Pastry Course landing](pastry.md): back to the main course.
-- [Shortcrust Pastry recipe](../../baking/pastry/shortcrust-pastry.md): the canonical recipe with exact quantities.
+- [Shortcrust Pastry recipe](../../baking/pastry/shortcrust-pastry.md): the traditional recipe with exact quantities.
 
 ## Storage
 - Unbaked pastry doughs keep 2-3 days refrigerated, wrapped tightly in cling film

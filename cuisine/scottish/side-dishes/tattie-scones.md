@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Tattie scones (also called potato scones, or just "potato cakes" in some Scottish kitchens) are Scotland's griddle-cooked potato flatbread, a humble frugal dish that grew out of using up leftover mashed potato from Sunday lunch. The construction couldn't be simpler: cold mashed potato (yesterday's leftovers, or freshly made and chilled) mixes with flour, melted butter and a pinch of salt; the dough rolls thin (about 5 mm), cuts into rounds or triangles, and dry-toasts on a hot griddle till golden-brown and lightly puffed. Soft and slightly chewy with a subtle potato flavour and a hint of butter-richness. Eaten warm with butter and strawberry jam at tea-time, or fried with bacon and eggs as part of a Scottish full breakfast, or alongside a roast as a starchy side. Every Scottish bakery sells packs of fresh tattie scones, but the home-made version is incomparably better.
+Tattie scones (also called potato scones, or just "potato cakes" in some Scottish kitchens) are Scotland's griddle-cooked potato flatbread, a humble frugal dish that grew out of using up leftover mashed potato from Sunday lunch. The construction couldn't be simpler: cold mashed potato (yesterday's leftovers, or freshly made and chilled) mixes with flour, melted butter and a pinch of salt; the dough rolls thin (about 5 mm), cuts into rounds or triangles, and dry-toasts on a hot griddle till golden-brown and lightly puffed. Soft and slightly chewy with a subtle potato flavour and a hint of butter-richness. Eat warm with butter and strawberry jam at tea-time, or fried with bacon and eggs as part of a Scottish full breakfast, or alongside a roast as a starchy side. Every Scottish bakery sells packs of fresh tattie scones, but the home-made version is incomparably better.
 
 ## Ingredients
 
@@ -50,7 +50,7 @@ Tattie scones (also called potato scones, or just "potato cakes" in some Scottis
 
 ### Stage 4 - Toast on the griddle
 1. Heat a heavy cast-iron griddle, frying pan, or non-stick pan over medium heat.
-2. Do NOT add oil or butter to the pan (a dry griddle is the canonical Scottish method).
+2. Do NOT add oil or butter to the pan (a dry griddle is the traditional Scottish method).
 3. Place 3-4 triangles on the hot griddle (don't overcrowd).
 4. Cook 3-4 minutes on the first side till golden-brown and lightly puffed.
 5. Flip; cook 3 minutes on the second side.
@@ -63,7 +63,7 @@ Tattie scones (also called potato scones, or just "potato cakes" in some Scottis
 ## Notes
 - **Cold mash is essential:** warm mash makes the dough wet and sticky and the scones tough. Refrigerate till fully cold.
 - **No milk in the mash:** moist mash ruins the dough. Mash plain with butter and salt only.
-- **Dry griddle, no oil:** the scones toast, not fry. The slight char is the canonical look.
+- **Dry griddle, no oil:** the scones toast, not fry. The slight char is the traditional look.
 - **Don't overwork the dough:** quick mix, light roll, straight to the griddle.
 - **Use immediately or re-toast:** fresh tattie scones are best straight off the griddle. Day-old ones revive nicely in a toaster or under the grill.
 
@@ -76,7 +76,7 @@ Tattie scones (also called potato scones, or just "potato cakes" in some Scottis
 **Smaller round scones:** roll thinner, cut with a 6 cm cutter for canapé-sized rounds.
 
 ## Serving
-On a Scottish full breakfast plate (the canonical setting - fry briefly in the bacon fat to brown) · at a Scottish high tea with butter and jam · alongside a Sunday roast as a starchy side · split and stuffed with cheese and Branston pickle for a Scottish school lunch box · at a Scottish bed-and-breakfast on the Sunday-morning trolley.
+On a Scottish full breakfast plate (the traditional setting - fry briefly in the bacon fat to brown) · at a Scottish high tea with butter and jam · alongside a Sunday roast as a starchy side · split and stuffed with cheese and Branston pickle for a Scottish school lunch box · at a Scottish bed-and-breakfast on the Sunday-morning trolley.
 
 ## Storage
 - Eaten same day, best straight from the griddle.

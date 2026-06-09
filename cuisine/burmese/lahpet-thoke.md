@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Myanmar's national salad and one of the most distinctive dishes in Southeast Asia: a tossed plate built around lahpet, fermented tea leaves with a sour-bitter pungency unlike anything else you've eaten. You start with pre-pickled tea leaves (sold at South-East Asian grocers; rinse to mellow if they're very sour), pile on shredded white cabbage and diced tomato for crunch and sweetness, then a generous handful of crispy fried things: fried garlic, fried peanuts, fried yellow split peas, sesame seeds. Fish sauce and lime juice toss it all together. Each spoonful is a contrast of soft-bitter tea against crunchy fried things and bright lime. Eaten as a snack at a teashop, an appetiser before dinner, or at the close of a meal as a sign of welcome and reconciliation.
+Myanmar's national salad and one of the most distinctive dishes in Southeast Asia: a tossed plate built around lahpet, fermented tea leaves with a sour-bitter pungency unlike anything else you've eaten. You start with pre-pickled tea leaves (sold at South-East Asian grocers; rinse to mellow if they're very sour), pile on shredded white cabbage and diced tomato for crunch and sweetness, then a generous handful of crispy fried things: fried garlic, fried peanuts, fried yellow split peas, sesame seeds. Fish sauce and lime juice toss it all together. Each spoonful is a contrast of soft-bitter tea against crunchy fried things and bright lime. Eat as a snack at a teashop, an appetiser before dinner, or at the close of a meal as a sign of welcome and reconciliation.
 
 ## Ingredients
 

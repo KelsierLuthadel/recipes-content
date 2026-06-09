@@ -153,7 +153,7 @@ For a weekday Indian dinner: use the tawa method instead. 30-40 minutes total fr
 
 ## Pairing
 
-- **Naan with butter chicken** — the canonical UK Indian restaurant pairing.
+- **Naan with butter chicken** — the traditional UK Indian restaurant pairing.
 - **Naan with dal makhani** — the Punjabi household pairing.
 - **Naan with tandoori chicken or tikka** — the BBQ-style Punjabi pairing.
 - **Kulcha with chole** — the Punjabi street-food pairing.

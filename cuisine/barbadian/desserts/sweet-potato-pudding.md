@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Bajan sweet potato pudding is the orange-fleshed Caribbean cousin of cassava pone: similar baking technique, similar dense-pudding texture, but with sweet potato as the primary grated starch instead of cassava. Orange-fleshed Caribbean sweet potato finely grated on a box grater gives the pudding its deep orange-amber colour and slightly stringy-tender texture (American sweet potato substitutes). A generous splash of dark Bajan rum (Mount Gay or Cockspur are the canonical choices) brings warmth and a faint molasses-aged depth; some Bajan home cooks skip it for children's portions, but the adult version always includes it. The spice profile is the Caribbean Christmas-spice line: a generous hand of cinnamon, nutmeg, allspice and a small touch of ginger, deeper than American pumpkin pie spice. Baked in a wide tin at 170 °C for over an hour till the top forms a deep mahogany crust. Cut into hefty squares, eaten at room temperature with strong Bajan tea, or warm with thick pouring custard.
+Bajan sweet potato pudding is the orange-fleshed Caribbean cousin of cassava pone: similar baking technique, similar dense-pudding texture, but with sweet potato as the primary grated starch instead of cassava. Orange-fleshed Caribbean sweet potato finely grated on a box grater gives the pudding its deep orange-amber colour and slightly stringy-tender texture (American sweet potato substitutes). A generous splash of dark Bajan rum (Mount Gay or Cockspur are the traditional choices) brings warmth and a faint molasses-aged depth; some Bajan home cooks skip it for children's portions, but the adult version always includes it. The spice profile is the Caribbean Christmas-spice line: a generous hand of cinnamon, nutmeg, allspice and a small touch of ginger, deeper than American pumpkin pie spice. Baked in a wide tin at 170 °C for over an hour till the top forms a deep mahogany crust. Cut into hefty squares, eaten at room temperature with strong Bajan tea, or warm with thick pouring custard.
 
 ## Ingredients
 
@@ -95,9 +95,9 @@ Bajan sweet potato pudding is the orange-fleshed Caribbean cousin of cassava pon
 4. For an adult dessert, warm slightly and drizzle a small additional splash of dark rum over each square.
 
 ## Notes
-- **Orange sweet potato:** the deep-orange Caribbean variety is canonical. White-fleshed yams give a paler, drier pudding.
+- **Orange sweet potato:** the deep-orange Caribbean variety is traditional. White-fleshed yams give a paler, drier pudding.
 - **Coarse grate:** the texture matters. A coarse grate (box grater largest holes) keeps the pudding interesting; a fine grate mushes it together.
-- **Rum is canonical for the adult version:** the boozy backbone is part of the Bajan identity. Children's portions can skip it.
+- **Rum is traditional for the adult version:** the boozy backbone is part of the Bajan identity. Children's portions can skip it.
 - **Bake till deeply mahogany:** a pale crust is under-baked. The dark colour develops the deep caramelised flavour.
 - **Cool fully before slicing:** warm pudding cuts messily. 1 hour minimum.
 - **Improves with a day's rest:** the flavours marry overnight; the spices deepen.
@@ -112,7 +112,7 @@ Bajan sweet potato pudding is the orange-fleshed Caribbean cousin of cassava pon
 **Mini sweet potato puddings (individual):** divide the batter into 12 ramekins; bake 35-40 minutes.
 
 ## Serving
-At a Bajan Sunday tea (the canonical setting; alongside cassava pone or coconut bread) · at a Bajan Christmas spread · at a Bajan Independence Day buffet · at a Caribbean tea-room · at a Bajan church bake sale · at home as a make-ahead Sunday-tea pudding · paired with strong Bajan tea, mauby, hot custard, or vanilla ice cream.
+At a Bajan Sunday tea (the traditional setting; alongside cassava pone or coconut bread) · at a Bajan Christmas spread · at a Bajan Independence Day buffet · at a Caribbean tea-room · at a Bajan church bake sale · at home as a make-ahead Sunday-tea pudding · paired with strong Bajan tea, mauby, hot custard, or vanilla ice cream.
 
 ## Storage
 - Stores 5 days at room temperature in an airtight container.

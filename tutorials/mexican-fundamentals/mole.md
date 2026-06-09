@@ -2,7 +2,7 @@
 
 ![Mole](resources/mole.jpg)
 
-*Mole is the queen of Mexican cooking. Twenty-plus ingredients, two-day cooking, the sauce of weddings, funerals, and Christmas. There are seven canonical moles of Oaxaca and dozens of regional variations. This page is an introduction.*
+*Mole is the queen of Mexican cooking. Twenty-plus ingredients, two-day cooking, the sauce of weddings, funerals, and Christmas. There are seven traditional moles of Oaxaca and dozens of regional variations. This page is an introduction.*
 
 ## Overview
 
@@ -24,7 +24,7 @@ This page introduces the seven moles of Oaxaca and gives a worked recipe for mol
 
 ## The Seven Moles of Oaxaca
 
-Oaxaca is the mole capital. Seven canonical moles, each named for its colour or character:
+Oaxaca is the mole capital. Seven traditional moles, each named for its colour or character:
 
 ### 1. Mole Negro (Black Mole)
 The most-famous. Deep dark black-brown. 30+ ingredients including pasilla and ancho chillies, charred tortillas, sesame seeds, pumpkin seeds, plantain, raisins, cinnamon, cocoa, and herbs. Used at weddings and Christmas. Pairs with turkey or chicken.
@@ -144,23 +144,23 @@ The legend: invented by nuns at the Convento de Santa Rosa in Puebla in the 17th
 
 ### Notes on mole poblano
 
-- **The 2-day technique is canonical.** The flavour after 24 hours of resting is dramatically better than fresh.
+- **The 2-day technique is traditional.** The flavour after 24 hours of resting is dramatically better than fresh.
 - **Mexican chocolate is critical.** It's sweetened and contains cinnamon. Don't substitute with dark unsweetened chocolate (the result will be off).
-- **Lard is canonical.** The flavour the lard contributes is part of the mole. Vegetable oil works but is a step down.
+- **Lard is traditional.** The flavour the lard contributes is part of the mole. Vegetable oil works but is a step down.
 - **The chillies are the foundation.** The combination of mulato + ancho + pasilla gives the bitter-deep-fruity character. Don't substitute.
 
 ## When to make mole
 
 Mole is a special-occasion dish. You don't make mole on a Tuesday for dinner. You make it for:
 
-- **A wedding** — the canonical mole occasion in Mexico.
-- **A funeral** — the canonical alternate occasion.
+- **A wedding** — the traditional mole occasion in Mexico.
+- **A funeral** — the traditional alternate occasion.
 - **Christmas Day** — mole is a Christmas tradition in Puebla and Oaxaca.
 - **A birthday** — for a special celebration.
 - **The Day of the Dead (Día de los Muertos)** — November 1-2.
 - **Family reunion** — when you have a weekend and 10+ people to feed.
 
-Making a big batch (8-10 servings) is the canonical scale. The leftovers freeze beautifully for 3 months.
+Making a big batch (8-10 servings) is the traditional scale. The leftovers freeze beautifully for 3 months.
 
 ## Shortcut moles
 

@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Carbonnade flamande is the canonical Flemish beef stew, and arguably Belgium's most identity-defining home dish. The beer is non-negotiable; not red wine like a French daube but a dark abbey ale (Chimay Bleue, Westmalle Dubbel, Leffe Brune, any dubbel-style Trappist), which gives the sauce its toasted, faintly sweet, raisin-and-coffee character that defines the dish. Generous caramelised onions are the second canonical element; properly bronzed in butter before the meat joins them, where pale-onion carbonnade tastes flat and uniform. The bread-and-mustard slice is the Flemish signature technique that distinguishes carbonnade from any other beer-braised beef stew; a piece of country bread thickly spread with grainy Dijon, placed mustard-side-down on the surface of the stew near the end of the cook, slumps in and acts as both thickener and seasoning in one move. The low slow simmer (rather than a high boil) is the gentle braise that keeps chuck or shin tender rather than stringy. Served with Belgian frites or boiled potatoes, with a glass of the same beer used in the braise.
+Carbonnade flamande is the traditional Flemish beef stew, and arguably Belgium's most identity-defining home dish. The beer is non-negotiable; not red wine like a French daube but a dark abbey ale (Chimay Bleue, Westmalle Dubbel, Leffe Brune, any dubbel-style Trappist), which gives the sauce its toasted, faintly sweet, raisin-and-coffee character that defines the dish. Generous caramelised onions are the second traditional element; properly bronzed in butter before the meat joins them, where pale-onion carbonnade tastes flat and uniform. The bread-and-mustard slice is the Flemish signature technique that distinguishes carbonnade from any other beer-braised beef stew; a piece of country bread thickly spread with grainy Dijon, placed mustard-side-down on the surface of the stew near the end of the cook, slumps in and acts as both thickener and seasoning in one move. The low slow simmer (rather than a high boil) is the gentle braise that keeps chuck or shin tender rather than stringy. Served with Belgian frites or boiled potatoes, with a glass of the same beer used in the braise.
 
 ## Ingredients
 
@@ -81,13 +81,13 @@ Carbonnade flamande is the canonical Flemish beef stew, and arguably Belgium's m
 
 ### Stage 7 - Serve
 1. Spoon into wide shallow bowls.
-2. Serve alongside Belgian frites in a paper cone (the canonical café presentation) or boiled new potatoes.
+2. Serve alongside Belgian frites in a paper cone (the traditional café presentation) or boiled new potatoes.
 3. Pour a glass of the same dubbel used in the cooking.
 
 ## Notes
 - **Dark beer is essential:** a pilsner or pale ale won't give the right depth. Look for "dubbel" on the label.
 - **Don't skip the browning:** the dark crust on the beef is half the flavour. Patience pays.
-- **The mustard bread is canonical:** Flemish home cooks all do this. It thickens the sauce and adds a sharp mustard note that cuts the sweetness.
+- **The mustard bread is traditional:** Flemish home cooks all do this. It thickens the sauce and adds a sharp mustard note that cuts the sweetness.
 - **Better the next day:** the flavours marry overnight. Cook ahead if you can.
 - **Pain d'épices variant:** in Flanders, some cooks use a slice of gingerbread (pain d'épices) instead of mustard bread - sweeter, more aromatic. Try both.
 
@@ -100,10 +100,10 @@ Carbonnade flamande is the canonical Flemish beef stew, and arguably Belgium's m
 **Quick carbonnade in the pressure cooker:** 45 minutes high pressure instead of 3 hours; flavour is good but not as deep.
 
 ## Serving
-At a Brussels brasserie alongside frites and a Trappist beer (the canonical setting) · at a Flemish family Sunday lunch · at a winter Belgian café in Bruges or Ghent · at a Belgian harvest dinner · at a Belgian-themed gastropub abroad · at home as the cold-weather Sunday braise.
+At a Brussels brasserie alongside frites and a Trappist beer (the traditional setting) · at a Flemish family Sunday lunch · at a winter Belgian café in Bruges or Ghent · at a Belgian harvest dinner · at a Belgian-themed gastropub abroad · at home as the cold-weather Sunday braise.
 
 ## Storage
 - Refrigerates 4 days; reheats better than it cooks first time round.
 - Freezes 3 months in airtight containers.
-- The flavours improve overnight - it's the canonical make-ahead Belgian stew.
+- The flavours improve overnight - it's the traditional make-ahead Belgian stew.
 - Reheat gently on the stovetop with a splash of water or stock to loosen.

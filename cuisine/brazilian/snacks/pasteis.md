@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes deep frying
 
 ## Overview
-Pastéis (singular pastel) are Brazil's most iconic street-food pastries, traceable to Asian immigrant influences (Chinese and Japanese spring-roll wrappers adapted to local fillings) and developed into a uniquely Brazilian form in São Paulo's street markets and Asian neighbourhoods during the early 20th century. They are the heart of every feira (Saturday-morning street market), where the canonical Brazilian breakfast is a hot pastel and a glass of sugarcane juice (caldo de cana). Two parts: a thin pasta-like dough (flour, water, oil and a touch of cachaça or vinegar; the cachaça is the secret Brazilian touch that makes the surface bubble in the fryer), rolled extremely thin and cut into rectangles; and a filling (canonically seasoned ground beef, ham-and-cheese, chicken-with-Catupiry, hearts of palm or shrimp), folded inside and sealed with a fork press. Deep-fried hot and fast till deeply golden and the dough has bubbled into characteristic crisp ridges. The result is a paper-thin, ultra-crisp, blistered exterior around a hot savoury filling.
+Pastéis (singular pastel) are Brazil's most iconic street-food pastries, traceable to Asian immigrant influences (Chinese and Japanese spring-roll wrappers adapted to local fillings) and developed into a uniquely Brazilian form in São Paulo's street markets and Asian neighbourhoods during the early 20th century. They are the heart of every feira (Saturday-morning street market), where the traditional Brazilian breakfast is a hot pastel and a glass of sugarcane juice (caldo de cana). Two parts: a thin pasta-like dough (flour, water, oil and a touch of cachaça or vinegar; the cachaça is the secret Brazilian touch that makes the surface bubble in the fryer), rolled extremely thin and cut into rectangles; and a filling (traditionally seasoned ground beef, ham-and-cheese, chicken-with-Catupiry, hearts of palm or shrimp), folded inside and sealed with a fork press. Deep-fried hot and fast till deeply golden and the dough has bubbled into characteristic crisp ridges. The result is a paper-thin, ultra-crisp, blistered exterior around a hot savoury filling.
 
 ## Ingredients
 
@@ -20,10 +20,10 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 - 1 teaspoon fine sea salt
 - 250 ml warm water
 - 4 tablespoons sunflower oil
-- 1 tablespoon cachaça (or white vinegar as substitute; non-canonical but works)
+- 1 tablespoon cachaça (or white vinegar as substitute; non-traditional but works)
 - A pinch of caster sugar
 
-### Beef filling (the most canonical; makes 12-14 pastéis worth)
+### Beef filling (the most traditional; makes 12-14 pastéis worth)
 - 500 g lean minced beef
 - 2 tablespoons olive oil
 - 1 small onion (finely diced)
@@ -51,8 +51,8 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 ### To serve
 - Hot sauce (Brazilian molho de pimenta)
 - A wedge of lime
-- A glass of sugarcane juice (caldo de cana - the canonical Brazilian street-food pairing)
-- A small bowl of mayonnaise (some Brazilians dip their pastel in mayo; less canonical but real)
+- A glass of sugarcane juice (caldo de cana - the traditional Brazilian street-food pairing)
+- A small bowl of mayonnaise (some Brazilians dip their pastel in mayo; less traditional but real)
 
 ## Method
 
@@ -99,19 +99,19 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 ### Stage 6 - Serve
 1. Serve immediately while crispy and piping hot.
 2. Add lime wedges and a small dish of hot sauce.
-3. Drink a glass of cold caldo de cana (sugarcane juice) - the canonical Brazilian street-food pairing.
+3. Drink a glass of cold caldo de cana (sugarcane juice) - the traditional Brazilian street-food pairing.
 4. Eat with the hands; cut a small corner to let the steam out (the filling is volcanic).
 
 ## Notes
-- **Ultra-thin dough:** the canonical pastel has paper-thin, blistered dough. Thicker dough gives a pasty, not a pastel.
-- **The cachaça secret:** the small amount of cachaça (or vinegar) reacts during frying to give the canonical Brazilian bubbled exterior.
+- **Ultra-thin dough:** the traditional pastel has paper-thin, blistered dough. Thicker dough gives a pasty, not a pastel.
+- **The cachaça secret:** the small amount of cachaça (or vinegar) reacts during frying to give the traditional Brazilian bubbled exterior.
 - **180°C is the right temperature:** too hot and the outside burns; too low and the dough absorbs oil.
 - **Eat fresh:** pastéis are a "from-the-fryer-to-the-mouth" food. They lose their crispness within 10 minutes.
 - **Cold filling when assembling:** hot filling melts the dough during shaping. Cool completely.
 
 ## Variations
 **Pastel de queijo (cheese pastel):** filled with mozzarella + a few oregano leaves - the simplest and most universally loved.
-**Pastel de carne (beef pastel):** the canonical variant; described above.
+**Pastel de carne (beef pastel):** the traditional variant; described above.
 **Pastel de palmito (heart of palm):** filled with chopped hearts of palm + Catupiry - vegetarian standard.
 **Pastel de camarão (shrimp pastel):** filled with cooked shrimp + Catupiry + spring onion - premium variant.
 **Pastel de pizza:** filled with mozzarella + sliced tomato + oregano - modern Italian-Brazilian.
@@ -120,7 +120,7 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 **Sweet pastéis (dessert):** filled with chocolate + banana + cinnamon-sugar - the sweet dessert variant.
 
 ## Serving
-At a Brazilian Saturday-morning feira (street market) with a glass of caldo de cana (the canonical setting) · at a Brazilian bus station kiosk · at a São Paulo Brazilian street-food cart · at a Brazilian bar with cold beer · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at home as a weekend treat with friends.
+At a Brazilian Saturday-morning feira (street market) with a glass of caldo de cana (the traditional setting) · at a Brazilian bus station kiosk · at a São Paulo Brazilian street-food cart · at a Brazilian bar with cold beer · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at home as a weekend treat with friends.
 
 ## Storage
 - Best eaten same day; pastéis lose crispness within an hour.

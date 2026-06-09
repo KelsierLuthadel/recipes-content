@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Negroni was invented in Florence in 1919 when Count Camillo Negroni asked his bartender at Caffè Casoni to "strengthen" his Americano by replacing the soda with gin. The result is the canonical Italian aperitivo: equal parts gin, Campari and sweet vermouth, stirred with ice, served in a rocks glass with a fat orange peel expressed over the top. The bitterness is the whole point; it's a drink that prepares your palate for a meal rather than entertaining it, which is why it's served before dinner across Italy. The 1:1:1 ratio is famously memorable and famously assertive; if it's your first Negroni, dial the gin down to ¾ part to ease in. A proper London dry gin (Tanqueray, Beefeater), Campari (orange-red and bitter), and a sweet red vermouth (Cocchi Storico Vermouth di Torino, Carpano Antica) are the canonical three. Stir, never shake; shaking dilutes too fast and aerates a drink that wants to be still and dense.
+The Negroni was invented in Florence in 1919 when Count Camillo Negroni asked his bartender at Caffè Casoni to "strengthen" his Americano by replacing the soda with gin. The result is the traditional Italian aperitivo: equal parts gin, Campari and sweet vermouth, stirred with ice, served in a rocks glass with a fat orange peel expressed over the top. The bitterness is the whole point; it's a drink that prepares your palate for a meal rather than entertaining it, which is why it's served before dinner across Italy. The 1:1:1 ratio is famously memorable and famously assertive; if it's your first Negroni, dial the gin down to ¾ part to ease in. A proper London dry gin (Tanqueray, Beefeater), Campari (orange-red and bitter), and a sweet red vermouth (Cocchi Storico Vermouth di Torino, Carpano Antica) are the traditional three. Stir, never shake; shaking dilutes too fast and aerates a drink that wants to be still and dense.
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ The Negroni was invented in Florence in 1919 when Count Camillo Negroni asked hi
 1. Pair with a small plate of olives, salty crisps, or anything else aperitivo-style.
 
 ## Notes
-- **Equal parts is the canonical recipe.** 1:1:1 (30 ml each) is what you'll get in Florence. Some bars push the gin to 45 ml for a stronger drink; the original is the equal split.
+- **Equal parts is the traditional recipe.** 1:1:1 (30 ml each) is what you'll get in Florence. Some bars push the gin to 45 ml for a stronger drink; the original is the equal split.
 - **Stir, don't shake.** Shaking aerates the drink and chips the ice into tiny shards that over-dilute. Stirring keeps the drink silky and dense.
 - **Sweet red vermouth, not dry.** Dry vermouth (Noilly Prat, Dolin Dry) makes a totally different drink (a Martini variant). For a Negroni you want the sweet red version (sometimes labelled "Rosso" or "Italian vermouth").
 - **Express the peel, don't just drop it.** The citrus oils on the surface are 70 percent of the orange garnish's contribution.

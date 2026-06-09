@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Prawn balchão is the Goan prawn pickle: less a curry and more a fiery jammy preserve that gets eaten by the spoonful with rice and bread. The dish belongs to the Goan-Catholic tradition of vinegar-cured larder food (the same family as vindaloo and sorpotel), born of Portuguese influence and the climate's hot wet summers, when fresh seafood had to be preserved to last. The balchão masala is the soul: soaked dried Kashmiri chillies, garlic, ginger, cumin, peppercorns, cloves and cinnamon ground together with palm vinegar into a deep red paste. Sugar and a second hit of vinegar near the end push the dish into pickle territory rather than curry, and the prawns go in late so they stay juicy. The finished balchão thickens to a jammy consistency that keeps weeks in a jar. Eaten with rice, bread or straight from the spoon.
+Prawn balchão is the Goan prawn pickle: less a curry and more a fiery jammy preserve that gets eaten by the spoonful with rice and bread. The dish belongs to the Goan-Catholic tradition of vinegar-cured larder food (the same family as vindaloo and sorpotel), born of Portuguese influence and the climate's hot wet summers, when fresh seafood had to be preserved to last. The balchão masala is the soul: soaked dried Kashmiri chillies, garlic, ginger, cumin, peppercorns, cloves and cinnamon ground together with palm vinegar into a deep red paste. Sugar and a second hit of vinegar near the end push the dish into pickle territory rather than curry, and the prawns go in late so they stay juicy. The finished balchão thickens to a jammy consistency that keeps weeks in a jar. Eat with rice, bread or straight from the spoon.
 
 ## Ingredients
 

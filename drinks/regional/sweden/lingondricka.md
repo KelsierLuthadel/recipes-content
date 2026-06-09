@@ -2,7 +2,7 @@
 
 ![Lingondricka](resources/lingondricka.jpg)
 
-*Sweden's tart-sweet lingonberry cordial: fresh or frozen lingonberries simmered with sugar and water into a tangy-sweet syrup, then diluted with cold sparkling water to make the canonical Swedish non-alcoholic table drink. The Swedish summer answer to American sodas; pink, mouth-puckering, and properly cold.*
+*Sweden's tart-sweet lingonberry cordial: fresh or frozen lingonberries simmered with sugar and water into a tangy-sweet syrup, then diluted with cold sparkling water to make the traditional Swedish non-alcoholic table drink. The Swedish summer answer to American sodas; pink, mouth-puckering, and properly cold.*
 
 **Serves:** Makes about 1 litre syrup (yields ~8 litres of dilute drink, about 30 glasses)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Lingondricka (literally "lingonberry drink") is one of Sweden's canonical non-alcoholic drinks and a fixture of every Swedish table during summer, Midsommar, and any family meal where kids are present (and adults too - Swedes drink saft, the cordial category, all year). Lingonberries (lingon - the small tart wild berries that grow across Scandinavia and Northern North America, related to American cranberries but smaller, tarter and milder) are simmered with sugar and water into a concentrated syrup (saft, the cordial), then bottled and diluted to taste with cold still or sparkling water just before serving. The result is a vivid pink-red drink that's mouth-puckering tart, gently sweet, and deeply Scandinavian - the same berry that makes the lingonberry preserve served with meatballs, but as a drink.
+Lingondricka (literally "lingonberry drink") is one of Sweden's traditional non-alcoholic drinks and a fixture of every Swedish table during summer, Midsommar, and any family meal where kids are present (and adults too - Swedes drink saft, the cordial category, all year). Lingonberries (lingon - the small tart wild berries that grow across Scandinavia and Northern North America, related to American cranberries but smaller, tarter and milder) are simmered with sugar and water into a concentrated syrup (saft, the cordial), then bottled and diluted to taste with cold still or sparkling water just before serving. The result is a vivid pink-red drink that's mouth-puckering tart, gently sweet, and deeply Scandinavian - the same berry that makes the lingonberry preserve served with meatballs, but as a drink.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Lingondricka (literally "lingonberry drink") is one of Sweden's canonical non-al
 - A small mint sprig or sprig of fresh dill (optional, for the sophisticated version)
 - A lemon wheel (optional)
 
-### To serve (the canonical Swedish summer presentation)
+### To serve (the traditional Swedish summer presentation)
 - A large clear glass jug (the saft jug)
 - Tall glasses
 - Plenty of ice
@@ -68,22 +68,22 @@ Lingondricka (literally "lingonberry drink") is one of Sweden's canonical non-al
 3. Serve immediately while very cold.
 
 ## Notes
-- **Real lingonberries:** the canonical Swedish ingredient. Fresh in Scandinavia in autumn; frozen year-round at IKEA stores worldwide. Substitute fresh cranberries + raspberries works but the flavour is slightly different.
-- **Sugar balance:** the canonical Swedish saft is properly sweet. Don't reduce the sugar by more than 20% or it becomes too tart.
+- **Real lingonberries:** the traditional Swedish ingredient. Fresh in Scandinavia in autumn; frozen year-round at IKEA stores worldwide. Substitute fresh cranberries + raspberries works but the flavour is slightly different.
+- **Sugar balance:** the traditional Swedish saft is properly sweet. Don't reduce the sugar by more than 20% or it becomes too tart.
 - **Serve very cold:** room-temp lingondricka tastes muted.
 - **Sparkling vs still:** sparkling is the festive version (Midsommar, parties); still is the everyday version.
-- **Don't dilute too thin:** about 1:5 or 1:6 is the canonical concentration. Watery lingondricka is wrong.
+- **Don't dilute too thin:** about 1:5 or 1:6 is the traditional concentration. Watery lingondricka is wrong.
 
 ## Variations
 **Hallonsaft (raspberry cordial):** the same technique with raspberries; Sweden's other big saft tradition.
-**Fläderblomssaft (elderflower cordial):** the canonical Swedish summer cordial - see separate recipe.
+**Fläderblomssaft (elderflower cordial):** the traditional Swedish summer cordial - see separate recipe.
 **With ginger:** add a thumb of grated fresh ginger to the syrup pot for a spicier autumn variant.
 **Mulled saft (warm version):** dilute the syrup with hot water + a cinnamon stick + a clove for a winter non-alcoholic mulled drink - particularly good for kids at Christmas.
 **Lingondricka cocktail:** combine the syrup with vodka, gin, or akvavit for an alcoholic cocktail variant.
 **Lower-sugar version:** swap half the sugar for stevia or erythritol; flavour shifts but works.
 
 ## Serving
-At Midsommar lunch in the garden (the canonical Swedish midsummer drink, served alongside akvavit for the adults) · at a Swedish summer party as the kids' alternative to alcohol · at a Christmas julbord as the non-alcoholic option · at a fika as a sweet-tart counterpoint to coffee · at a Stockholm restaurant as the local-flavour soft drink.
+At Midsommar lunch in the garden (the traditional Swedish midsummer drink, served alongside akvavit for the adults) · at a Swedish summer party as the kids' alternative to alcohol · at a Christmas julbord as the non-alcoholic option · at a fika as a sweet-tart counterpoint to coffee · at a Stockholm restaurant as the local-flavour soft drink.
 
 ## Storage
 - Lingonberry syrup refrigerates 1 month sealed.

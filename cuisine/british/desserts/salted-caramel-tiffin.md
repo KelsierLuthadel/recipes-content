@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes for the caramel
 
 ## Overview
-A three-layer take on the Scottish no-bake tiffin. The base mirrors the classic: crushed digestives melted into a butter-cocoa-syrup mixture, pressed firm. Onto that goes a stovetop salted caramel cooked to soft-set - butter, brown sugar, golden syrup, condensed milk, with a pinch of sea salt stirred through at the end. Topped with dark chocolate (70% - the sweetness of the caramel needs the bitter counter) and a scatter of flaky salt while the chocolate is still wet so it sticks. Three layers of three textures: biscuity, chewy, snappy.
+Salted caramel tiffin is the three-layer take on the Scottish no-bake tiffin, born when the salted-caramel craze of the 2010s collided with the traditional Scottish tea-tin classic and someone had the sensible idea of sliding a chewy caramel layer between the biscuit base and the chocolate top. The base mirrors the classic tiffin: crushed digestives bound in a butter-cocoa-golden-syrup mixture, pressed firm into a lined tin. The salted caramel middle is the showstopper, cooked on the hob to soft-set from butter, brown sugar, golden syrup and condensed milk, with a pinch of sea salt stirred through at the end. Dark chocolate is the right cap (70% cocoa minimum); milk chocolate is too sweet against the caramel and the slab tips into cloying. A scatter of flaky salt across the chocolate while it's still wet so it sticks is the traditional finishing flourish. Three layers, three textures, biscuity-chewy-snappy. Eat cold from the tin, sliced thin because it's rich.
 
 ## Ingredients
 

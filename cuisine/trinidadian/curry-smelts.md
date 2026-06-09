@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Trinidadian comfort food that brings together the East Indian and Afro-Caribbean strands of Trini cookery in one pan: small whole fried fish drowned in a Trinidadian East Indian curry sauce. The fish are smelts, sardines or whitebait, head-on, eaten with a small bite to remove the spine. Once fried they sit crisp; when the curry sauce hits, the outer crust softens slightly and absorbs the gravy while the centre stays meaty. The sauce is the dish's signature: roasted geera (dry-toasted cumin) gives a smoky, nutty depth that pre-ground supermarket cumin can't touch, anchar masala adds a fermented-tangy edge (the Trinidadian pickled-mango spice mix), and Caribbean curry powder rounds the warmth. Whole pierced Scotch bonnet scents without flooring. A two-pan dance, so timing matters. Eaten with steamed rice or with sada roti torn and used as a scoop.
+Trinidadian comfort food that brings together the East Indian and Afro-Caribbean strands of Trini cookery in one pan: small whole fried fish drowned in a Trinidadian East Indian curry sauce. The fish are smelts, sardines or whitebait, head-on, eaten with a small bite to remove the spine. Once fried they sit crisp; when the curry sauce hits, the outer crust softens slightly and absorbs the gravy while the centre stays meaty. The sauce is the dish's signature: roasted geera (dry-toasted cumin) gives a smoky, nutty depth that pre-ground supermarket cumin can't touch, anchar masala adds a fermented-tangy edge (the Trinidadian pickled-mango spice mix), and Caribbean curry powder rounds the warmth. Whole pierced Scotch bonnet scents without flooring. A two-pan dance, so timing matters. Eat with steamed rice or with sada roti torn and used as a scoop.
 
 ## Ingredients
 

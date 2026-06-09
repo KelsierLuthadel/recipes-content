@@ -56,7 +56,7 @@ Balep korkun (literally "bread cooked in a pan" or "small bread"; balep = bread,
 3. Tear with the hands; use to scoop up sauces and stews.
 
 ## Notes
-- **Wheat and barley together is canonical:** the 50/50 mix is what gives the proper Tibetan flavour and texture. Pure wheat is too soft; pure barley is too crumbly.
+- **Wheat and barley together is traditional:** the 50/50 mix is what gives the proper Tibetan flavour and texture. Pure wheat is too soft; pure barley is too crumbly.
 - **Dry pan, no oil:** the proper Tibetan balep korkun is cooked dry; oil gives a different (more chapati-like) texture. The dry-pan method gives the proper slightly chewy character.
 - **Hot pan first:** preheat the pan for at least 3 minutes before adding the first flatbread; a cool pan gives pale undercooked bread.
 - **Don't overcrowd:** one at a time in the pan; the steam from one displaces the heat needed for the next.

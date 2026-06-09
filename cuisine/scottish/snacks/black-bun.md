@@ -11,7 +11,7 @@
 **Cook Time:** 3.5-4 hours (long slow bake)
 
 ## Overview
-Black bun is one of Scotland's most uniquely structured cakes: a very dense, almost black fruit cake loaded with raisins, currants, almonds, candied peel and warming spices, encased in a thin shortcrust pastry shell and baked as a single piece. The pastry isn't decorative; it acts as a protective layer that lets the fruit cake inside mature without drying out, growing richer over the three or four weeks of ageing before it's served. Black bun is the canonical first-footer's gift on Hogmanay, brought to a friend or relative's house just after midnight on New Year's morning alongside a lump of coal (for warmth in the year ahead), a piece of shortbread and a bottle of whisky. Sliced thin (the density is intense) and served with a small dram of whisky. The recipe goes back to Robert Burns's era; Burns mentions black bun in "Tam o' Shanter".
+Black bun is one of Scotland's most uniquely structured cakes: a very dense, almost black fruit cake loaded with raisins, currants, almonds, candied peel and warming spices, encased in a thin shortcrust pastry shell and baked as a single piece. The pastry isn't decorative; it acts as a protective layer that lets the fruit cake inside mature without drying out, growing richer over the three or four weeks of ageing before it's served. Black bun is the traditional first-footer's gift on Hogmanay, brought to a friend or relative's house just after midnight on New Year's morning alongside a lump of coal (for warmth in the year ahead), a piece of shortbread and a bottle of whisky. Sliced thin (the density is intense) and served with a small dram of whisky. The recipe goes back to Robert Burns's era; Burns mentions black bun in "Tam o' Shanter".
 
 ## Ingredients
 
@@ -119,7 +119,7 @@ Black bun is one of Scotland's most uniquely structured cakes: a very dense, alm
 1. On New Year's Eve, unwrap the black bun.
 2. Cut a wedge; slice the wedge into very thin slices (the cake is dense; thin slices are appropriate).
 3. Serve with a small dram of single-malt Scotch.
-4. The canonical Scottish New Year's tradition: bring a slice and a dram with you when you first-foot a friend's house just after midnight.
+4. The traditional Scottish New Year's tradition: bring a slice and a dram with you when you first-foot a friend's house just after midnight.
 
 ## Notes
 - **Pastry shell, not pie:** the pastry is thin (3-4 mm) and acts as a moisture barrier. Don't make it thick.
@@ -129,7 +129,7 @@ Black bun is one of Scotland's most uniquely structured cakes: a very dense, alm
 - **Feed with whisky:** every 4-5 days, prick and drizzle. This is what gives black bun its almost-treacly intensity.
 
 ## Variations
-**With brandy or rum:** swap the whisky for brandy or dark rum - less canonical but excellent.
+**With brandy or rum:** swap the whisky for brandy or dark rum - less traditional but excellent.
 **Vegan black bun:** replace butter with vegan baking block; replace eggs with 4 tablespoons milled flaxseed + 12 tablespoons water; otherwise identical.
 **Mini black buns:** make in 6-8 small dariole moulds - individual New Year's portions.
 **Gluten-free black bun:** use gluten-free plain flour + ½ teaspoon xanthan gum; the pastry handling is harder but works.
@@ -137,7 +137,7 @@ Black bun is one of Scotland's most uniquely structured cakes: a very dense, alm
 **With ground almonds in batter:** add 100 g ground almonds to the cake batter - richer crumb.
 
 ## Serving
-On Hogmanay (New Year's Eve) and through the first week of January (the canonical Scottish New Year window) · brought as a first-footer's gift just after midnight on January 1st · with a small glass of single-malt Scotch · alongside a cup of strong tea on New Year's Day · at a Scottish family New Year's lunch · at a Burns Night supper as the after-coffee biscuit (less common but valid).
+On Hogmanay (New Year's Eve) and through the first week of January (the traditional Scottish New Year window) · brought as a first-footer's gift just after midnight on January 1st · with a small glass of single-malt Scotch · alongside a cup of strong tea on New Year's Day · at a Scottish family New Year's lunch · at a Burns Night supper as the after-coffee biscuit (less common but valid).
 
 ## Storage
 - Aged black bun (after 3-4 weeks of feeding) keeps in a sealed tin for 6-8 weeks.

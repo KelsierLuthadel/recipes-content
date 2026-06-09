@@ -48,7 +48,7 @@ Pastrmajlija (from "pastrma" - Macedonian cured meat) is the Macedonian flatbrea
 
 ## Notes
 - **Use cured meat:** smoked or cured; fresh meat releases too much liquid.
-- **Very high heat:** the canonical Macedonian temperature.
+- **Very high heat:** the traditional Macedonian temperature.
 - **Eat with hands:** tear and dip.
 
 ## Variations

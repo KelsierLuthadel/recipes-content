@@ -107,7 +107,7 @@ The butter tart is one of Ontario's most identity-defining baked goods, made in 
 **Open-faced large butter tart (Ontario diner style):** make one big tart in a 23 cm tart tin; bake 35-40 minutes; serve as a sliced pie. Less traditional but practical for parties.
 
 ## Serving
-At an Ontario bakery (the canonical setting; Maid's Cottage, Crust & Crumb, or the legendary Doo Doo's Tarts in Bailieboro) · at a cottage-country Sunday brunch in the Muskoka or Kawartha lakes · at a Toronto coffee shop with a cup of strong tea · at a Canadian Thanksgiving dinner · at a Canada Day picnic · at home as the canonical small treat with afternoon tea · as the Ontario birthday-tea pastry.
+At an Ontario bakery (the traditional setting; Maid's Cottage, Crust & Crumb, or the legendary Doo Doo's Tarts in Bailieboro) · at a cottage-country Sunday brunch in the Muskoka or Kawartha lakes · at a Toronto coffee shop with a cup of strong tea · at a Canadian Thanksgiving dinner · at a Canada Day picnic · at home as the traditional small treat with afternoon tea · as the Ontario birthday-tea pastry.
 
 ## Storage
 - Stores 3 days at cool room temperature in an airtight container (separate layers with parchment paper).

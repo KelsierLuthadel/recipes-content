@@ -16,7 +16,7 @@ This course covers all three.
 ## Course Outline
 
 - [Wok Setup](wok-setup.md): pan choice, oil, heat management. The basics of getting the equipment right.
-- [Ingredient Order](ingredient-order.md): the canonical sequence (aromatics → protein → vegetables → sauce) and why timing matters.
+- [Ingredient Order](ingredient-order.md): the traditional sequence (aromatics → protein → vegetables → sauce) and why timing matters.
 - [Wok Hei](wok-hei.md): the breath of the wok. What it is, how restaurants get it, what home cooks can do to approximate.
 
 ## The Universal Principle

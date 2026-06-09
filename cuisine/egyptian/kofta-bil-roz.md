@@ -2,7 +2,7 @@
 
 ![Kofta bil Roz](resources/kofta-bil-roz.jpg)
 
-*An Egyptian family dish: spiced beef-and-lamb meatballs baked in a tomato-and-stock sauce over a layer of rice (sometimes vermicelli rice) that cooks underneath, absorbing the meaty juices. Eaten with the meatball on top of the rice, the sauce poured over both. Casual, comforting, weekday.*
+*An Egyptian family dish: spiced beef-and-lamb meatballs baked in a tomato-and-stock sauce over a layer of rice (sometimes vermicelli rice) that cooks underneath, absorbing the meaty juices. Eat with the meatball on top of the rice, the sauce poured over both. Casual, comforting, weekday.*
 
 **Serves:** 4
 

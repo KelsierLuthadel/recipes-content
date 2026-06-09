@@ -50,7 +50,7 @@ The Long Island Iced Tea was invented in the early 1970s on Long Island and is t
 
 ## Notes
 - **Cola is a splash, not a full top.** The cola is for colour and a small lift of sweetness; too much makes the drink syrupy and obscures the spirits' presence (and absence of flavour).
-- **Five small pours, not five large ones.** 15 ml of each spirit (75 ml total) is the canonical build; doubling the pours turns it into a public-safety hazard.
+- **Five small pours, not five large ones.** 15 ml of each spirit (75 ml total) is the traditional build; doubling the pours turns it into a public-safety hazard.
 - **Fresh lemon juice, simple syrup.** Same rules as every other shaken sour: bottled lemon and granulated sugar kill the drink.
 - **Don't drink three.** Famous warning, repeated for a reason.
 

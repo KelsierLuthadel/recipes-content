@@ -22,13 +22,13 @@ Texas smoked beef ribs (specifically plate ribs or dino ribs, the giant three-ri
 - 4 tablespoons coarsely ground black pepper
 
 ### Smoking wood
-- Post-oak chunks (canonical); or oak; or hickory
+- Post-oak chunks (traditional); or oak; or hickory
 
 ### Equipment
 - Smoker capable of 120°C for 7+ hours
 
 ### To serve
-- White bread (Wonder Bread for the canonical Texas style)
+- White bread (Wonder Bread for the traditional Texas style)
 - Pickles
 - Sliced raw white onion
 - Pickled jalapeños
@@ -70,7 +70,7 @@ Texas smoked beef ribs (specifically plate ribs or dino ribs, the giant three-ri
 ### Stage 6 - Cut and serve
 1. Cut between the bones into individual ribs.
 2. Serve on butcher paper with sides.
-3. White bread on the side (canonical Texas).
+3. White bread on the side (traditional Texas).
 4. Sliced raw onion, pickles, jalapeños, BBQ sauce (optional).
 
 ## Notes
@@ -81,7 +81,7 @@ Texas smoked beef ribs (specifically plate ribs or dino ribs, the giant three-ri
 - **Rest 30 min minimum.**
 
 ## Variations
-**With BBQ sauce glaze:** brush with thin Texas BBQ sauce in the last 30 minutes of smoking. Less canonical Central Texas.
+**With BBQ sauce glaze:** brush with thin Texas BBQ sauce in the last 30 minutes of smoking. Less traditional Central Texas.
 **Higher temp faster:** smoke at 135°C; cooks in 5 hours; less smoke flavour.
 **Oven-finish:** start in smoker for smoke flavour; finish wrapped in oven.
 

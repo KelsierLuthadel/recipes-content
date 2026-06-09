@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (custard)
 
 ## Overview
-Tipsy laird ("laird" is the Scots word for a landowner; the name implies the lord of the manor enjoying a tipsy dessert after dinner) is Scotland's national trifle and the canonical alternative to cranachan at Burns Night and Hogmanay. The construction is essentially an English sherry trifle with one critical Scottish substitution: Drambuie, the whisky-and-honey liqueur invented on the Isle of Skye in 1745, replaces the sherry, giving the dessert a distinctly Scottish character with notes of honey, herbs and single-malt depth. Built in a large glass trifle bowl in five layers: sponge cake cubed and soaked with Drambuie and raspberry jam, then raspberries, then thick homemade custard poured over and left to set, then softly whipped double cream, then a generous shower of toasted flaked almonds with a few whole raspberries on top. Built four to six hours ahead so the sponge drinks up all the Drambuie and the layers settle properly.
+Tipsy laird ("laird" is the Scots word for a landowner; the name implies the lord of the manor enjoying a tipsy dessert after dinner) is Scotland's national trifle and the traditional alternative to cranachan at Burns Night and Hogmanay. The construction is essentially an English sherry trifle with one critical Scottish substitution: Drambuie, the whisky-and-honey liqueur invented on the Isle of Skye in 1745, replaces the sherry, giving the dessert a distinctly Scottish character with notes of honey, herbs and single-malt depth. Built in a large glass trifle bowl in five layers: sponge cake cubed and soaked with Drambuie and raspberry jam, then raspberries, then thick homemade custard poured over and left to set, then softly whipped double cream, then a generous shower of toasted flaked almonds with a few whole raspberries on top. Built four to six hours ahead so the sponge drinks up all the Drambuie and the layers settle properly.
 
 ## Ingredients
 
@@ -107,7 +107,7 @@ Tipsy laird ("laird" is the Scots word for a landowner; the name implies the lor
 **Mini tipsy lairds (individual glasses):** assemble in 8 small individual glasses for a dinner-party presentation - same recipe, smaller portions.
 
 ## Serving
-At Burns Night supper as the dessert (the canonical setting alongside or instead of cranachan) · at Hogmanay buffet as the centrepiece · at a Highland Christmas Day pudding alternative · at a Saint Andrew's Day supper · at a Scottish family Sunday lunch for special occasions · at a Scottish wedding reception dessert table.
+At Burns Night supper as the dessert (the traditional setting alongside or instead of cranachan) · at Hogmanay buffet as the centrepiece · at a Highland Christmas Day pudding alternative · at a Saint Andrew's Day supper · at a Scottish family Sunday lunch for special occasions · at a Scottish wedding reception dessert table.
 
 ## Storage
 - Refrigerates 2 days; the sponge becomes increasingly tipsy and softer over time.

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken parmigiana (also called chicken parm) is one of the most iconic Italian-American dishes and a Brooklyn/Queens/Bronx red-sauce-joint staple; a dish that emerged in New York's Italian neighbourhoods in the early 20th century as a chicken adaptation of the Sicilian melanzane alla parmigiana (which uses aubergine). Chicken breasts pounded thin (or "scaloppini"), dredged in flour, then beaten egg, then seasoned panko-and-Parmesan breadcrumbs, pan-fried in olive oil till deeply golden, then topped with a generous ladle of marinara sauce (tomato + garlic + basil), shredded mozzarella and grated Parmesan, and baked till the cheese melts and the sauce bubbles. Served over spaghetti with marinara (canonical NY red-sauce style), or as a sub-style sandwich on a sturdy roll.
+Chicken parmigiana (also called chicken parm) is one of the most iconic Italian-American dishes and a Brooklyn/Queens/Bronx red-sauce-joint staple; a dish that emerged in New York's Italian neighbourhoods in the early 20th century as a chicken adaptation of the Sicilian melanzane alla parmigiana (which uses aubergine). Chicken breasts pounded thin (or "scaloppini"), dredged in flour, then beaten egg, then seasoned panko-and-Parmesan breadcrumbs, pan-fried in olive oil till deeply golden, then topped with a generous ladle of marinara sauce (tomato + garlic + basil), shredded mozzarella and grated Parmesan, and baked till the cheese melts and the sauce bubbles. Served over spaghetti with marinara (traditional NY red-sauce style), or as a sub-style sandwich on a sturdy roll.
 
 ## Ingredients
 

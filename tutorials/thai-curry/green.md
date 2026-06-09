@@ -124,7 +124,7 @@ Over-cooked. The chlorophyll in the chillies degrades with heat. Cook fast; pull
 - [Red Curry Paste](red.md): the second-most-popular Thai curry, with dried chillies.
 - [Coconut Milk Technique](coconut-milk.md): the cracking-and-frying technique for any paste curry.
 - [Building a Curry](building-a-curry.md): full worked example using green paste.
-- [Thai Green Curry Paste recipe](../../base-ingredients/curry-paste/thai-green-paste.md): canonical recipe.
+- [Thai Green Curry Paste recipe](../../base-ingredients/curry-paste/thai-green-paste.md): traditional recipe.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
 
 ## Storage

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The Portuguese-Mozambican shrimp turnover that's the snack at every coastal café and family gathering: half-moons of soft flour-and-butter dough filled with a thick shrimp béchamel spiked with paprika and piri-piri, dipped in egg, rolled in breadcrumbs and shallow-fried. Mozambican home cooks make these in batches of fifty and freeze them, fishing them out for unexpected guests. The filling needs to cool fully before assembly (warm filling melts the dough), and the dough is the choux-adjacent boil-then-knead type that gives the characteristic chewy-tender shell. Chill the breaded rissóis fifteen minutes before frying so the coating stays put. Fried in 2 cm of 170 °C oil till deep gold. Eaten warm with lemon wedges and a small dish of piri-piri sauce.
+The Portuguese-Mozambican shrimp turnover that's the snack at every coastal café and family gathering: half-moons of soft flour-and-butter dough filled with a thick shrimp béchamel spiked with paprika and piri-piri, dipped in egg, rolled in breadcrumbs and shallow-fried. Mozambican home cooks make these in batches of fifty and freeze them, fishing them out for unexpected guests. The filling needs to cool fully before assembly (warm filling melts the dough), and the dough is the choux-adjacent boil-then-knead type that gives the characteristic chewy-tender shell. Chill the breaded rissóis fifteen minutes before frying so the coating stays put. Fried in 2 cm of 170 °C oil till deep gold. Eat warm with lemon wedges and a small dish of piri-piri sauce.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Amsterdam pizza dog is one of the newer and more polarising entries in the international hot-dog canon: a Dutch-Italian-American fusion that emerged from Amsterdam late-night kiosks and FEBO automaten (the Dutch chain of coin-operated street-food vending machines that have become an Amsterdam institution since 1941) in the 2000s. The construction is unapologetically maximalist: a long bratwurst or frankfurter-style sausage placed in a soft white sub roll (longer and wider than a standard hot-dog bun, almost a small ciabatta), smothered with a generous ladle of pizza-style tomato sauce (tomato + garlic + oregano + olive oil), then topped with a heaped pile of shredded mozzarella cheese (and optionally pepperoni slices, sliced black olives, or chopped basil), then slid under a hot grill or salamander broiler till the cheese melts into a bubbling golden blanket and the bread crisps at the edges. Eaten warm with both hands and many napkins.
+The Amsterdam pizza dog is one of the newer and more polarising entries in the international hot-dog canon: a Dutch-Italian-American fusion that emerged from Amsterdam late-night kiosks and FEBO automaten (the Dutch chain of coin-operated street-food vending machines that have become an Amsterdam institution since 1941) in the 2000s. The construction is unapologetically maximalist: a long bratwurst or frankfurter-style sausage placed in a soft white sub roll (longer and wider than a standard hot-dog bun, almost a small ciabatta), smothered with a generous ladle of pizza-style tomato sauce (tomato + garlic + oregano + olive oil), then topped with a heaped pile of shredded mozzarella cheese (and optionally pepperoni slices, sliced black olives, or chopped basil), then slid under a hot grill or salamander broiler till the cheese melts into a bubbling golden blanket and the bread crisps at the edges. Eat warm with both hands and many napkins.
 
 ## Ingredients
 
@@ -87,7 +87,7 @@ The Amsterdam pizza dog is one of the newer and more polarising entries in the i
 
 ## Notes
 - **Sub roll, not a standard hot-dog bun:** structural width needed for the cheese tower.
-- **Tomato sauce + mozzarella combo:** the canonical pizza-dog signature.
+- **Tomato sauce + mozzarella combo:** the traditional pizza-dog signature.
 - **Broiled, not just baked:** the cheese needs the high-heat caramelisation.
 - **Watch closely under the grill:** the cheese burns quickly.
 
@@ -96,7 +96,7 @@ The Amsterdam pizza dog is one of the newer and more polarising entries in the i
 **Meat lover's:** add pepperoni + sausage crumbles + ham.
 **Margherita-style:** add fresh sliced tomato + fresh basil + bocconcini (less cheese, more freshness).
 **Spicy:** add chopped jalapeños or a generous sprinkle of chilli flakes.
-**Pesto pizza dog:** swap the tomato sauce for basil pesto (less canonical but excellent).
+**Pesto pizza dog:** swap the tomato sauce for basil pesto (less traditional but excellent).
 
 ## Serving
 At a late-night Amsterdam kiosk after the bars; at a FEBO automaat in the small hours; at home as a comfort-food indulgence with cold beer.

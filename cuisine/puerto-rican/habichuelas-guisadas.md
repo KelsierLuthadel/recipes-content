@@ -2,7 +2,7 @@
 
 ![Habichuelas Guisadas](resources/habichuelas-guisadas.jpg)
 
-*Puerto Rico's stewed pink beans: pink beans (or red kidney beans) slow-simmered in a sofrito base with cubed pumpkin (calabaza), tomato sauce, olives, capers and a small amount of sazón, into a thick savoury bean stew. The Boricua everyday vegetarian main, eaten over white rice as the canonical "arroz con habichuelas".*
+*Puerto Rico's stewed pink beans: pink beans (or red kidney beans) slow-simmered in a sofrito base with cubed pumpkin (calabaza), tomato sauce, olives, capers and a small amount of sazón, into a thick savoury bean stew. The Boricua everyday vegetarian main, eaten over white rice as the traditional "arroz con habichuelas".*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and one of the most beloved staples of Boricua home cooking. Pink beans (red kidney, pinto or small red substitute) slow-simmer in a base of fragrant sofrito with cubed calabaza pumpkin (butternut squash works), sliced olives, capers, a touch of sazón and bay leaves, until the beans are soft, the pumpkin has half-dissolved into the broth and the pot has reduced into a thick savoury stew. Sofrito is the heart of the dish; without it, you have generic bean stew. The calabaza is the secret ingredient, half-dissolving during cooking to give the broth body and subtle sweetness that sets the Puerto Rican version apart. The olives and capers are essential too for the proper Boricua brininess. Vegetarian-friendly by default; some recipes add a smoked ham hock for extra depth. Eaten over plain white rice as arroz con habichuelas, the everyday meal across the island, or as a side alongside pernil or bistec encebollado.
+Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and one of the most beloved staples of Boricua home cooking. Pink beans (red kidney, pinto or small red substitute) slow-simmer in a base of fragrant sofrito with cubed calabaza pumpkin (butternut squash works), sliced olives, capers, a touch of sazón and bay leaves, until the beans are soft, the pumpkin has half-dissolved into the broth and the pot has reduced into a thick savoury stew. Sofrito is the heart of the dish; without it, you have generic bean stew. The calabaza is the secret ingredient, half-dissolving during cooking to give the broth body and subtle sweetness that sets the Puerto Rican version apart. The olives and capers are essential too for the proper Boricua brininess. Vegetarian-friendly by default; some recipes add a smoked ham hock for extra depth. Eat over plain white rice as arroz con habichuelas, the everyday meal across the island, or as a side alongside pernil or bistec encebollado.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and on
 - 1 teaspoon dried oregano
 - 1 teaspoon ground black pepper
 - 2 bay leaves
-- 80 g pitted green olives (sliced; manzanilla olives are canonical)
+- 80 g pitted green olives (sliced; manzanilla olives are traditional)
 - 2 tablespoons capers (drained, optional)
 - 1 small fresh chilli (deseeded, finely chopped; optional)
 
@@ -99,7 +99,7 @@ Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and on
 - **Calabaza for body:** the cubed pumpkin half-dissolves during cooking and gives the broth body and sweetness. Butternut squash is the easy substitute outside Puerto Rico. Don't skip.
 - **Olives and capers for brininess:** the Boricua flavour profile includes these as essential aromatic components. Skip only if you really don't have them; they make the dish.
 - **Sazón gives the colour:** sazón (the orange-red commercial seasoning) gives the dish its characteristic deep colour. Achiote powder + garlic powder + spices is the workable substitute.
-- **Pink beans are canonical:** small pink beans are the proper Puerto Rican choice. Red kidney beans are the closest substitute; pinto beans work too. Black beans give a different (Cuban-leaning) flavour profile.
+- **Pink beans are traditional:** small pink beans are the proper Puerto Rican choice. Red kidney beans are the closest substitute; pinto beans work too. Black beans give a different (Cuban-leaning) flavour profile.
 
 ## Variations
 **With ham (habichuelas con jamón):** add 200 g of diced smoked ham or a smoked ham hock at the start of stage 3; cook with the beans. Common non-vegetarian variation.
@@ -108,7 +108,7 @@ Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and on
 **With ham hock and pig's tail:** the traditional "habichuelas con patitas" includes pig's tail or ham hock for extra depth; cook for 90 minutes with the beans for the meat to soften.
 
 ## Serving
-Over plain white rice as arroz con habichuelas (the canonical Puerto Rican "rice and beans" combination) or as a side alongside pernil, bistec encebollado or pollo guisado. With tostones or maduros. With pique for heat and lime wedges. Drink: Medalla beer, agua de tamarindo, or a glass of cold mauby.
+Over plain white rice as arroz con habichuelas (the traditional Puerto Rican "rice and beans" combination) or as a side alongside pernil, bistec encebollado or pollo guisado. With tostones or maduros. With pique for heat and lime wedges. Drink: Medalla beer, agua de tamarindo, or a glass of cold mauby.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight (many Puerto Rican cooks deliberately make it the day before).

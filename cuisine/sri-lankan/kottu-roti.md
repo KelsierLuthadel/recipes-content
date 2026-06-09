@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Kottu roti (sometimes "kothu" roti) is Sri Lanka's most distinctive street food, originally invented in Batticaloa as a way to use leftover godhamba roti and curry. The whole dish is cooked on a flat steel griddle while two cleavers chop everything together at speed, the rhythmic "clack-clack-clack" of the cleavers is so loud and constant that kottu shops can't operate in residential neighbourhoods after dark. Shredded godhamba roti goes onto the griddle with chopped onions, leek, carrot, green chilli, garlic, egg, a generous spoonful of curry powder, and whatever leftover curry the cook has, chicken curry is canonical, vegetable for a vegetarian version, cheese kottu for the gluttonous variant. The whole thing comes together in about 5 minutes of frantic chopping. At home, two flat-bladed spatulas or wide knives stand in for the cleavers.
+Kottu roti (sometimes "kothu" roti) is Sri Lanka's most distinctive street food, originally invented in Batticaloa as a way to use leftover godhamba roti and curry. The whole dish is cooked on a flat steel griddle while two cleavers chop everything together at speed, the rhythmic "clack-clack-clack" of the cleavers is so loud and constant that kottu shops can't operate in residential neighbourhoods after dark. Shredded godhamba roti goes onto the griddle with chopped onions, leek, carrot, green chilli, garlic, egg, a generous spoonful of curry powder, and whatever leftover curry the cook has, chicken curry is traditional, vegetable for a vegetarian version, cheese kottu for the gluttonous variant. The whole thing comes together in about 5 minutes of frantic chopping. At home, two flat-bladed spatulas or wide knives stand in for the cleavers.
 
 ## Ingredients
 

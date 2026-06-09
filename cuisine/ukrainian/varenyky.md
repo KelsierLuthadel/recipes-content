@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Varenyky are Ukraine's beloved filled dumplings: half-moon pasta pockets that turn up at every family table from the Carpathians to Kyiv. A thin tender dough rolled into small discs, each filled with one of the canonical fillings (mashed potato with caramelised onion, fresh twarog cheese, sweet stewed cherries in summer, sauerkraut and mushroom in winter, berries for special-occasion sweet versions), folded in half and crimped along the curved edge, boiled in salted water till they float to the surface, served with melted butter, smetana (soured cream) and crispy fried onion. Every region has its preferred fillings and every family has its dough recipe, but the form and the finish are universal. The dough wants to be softer and stretchier than Italian pasta dough and needs at least a 30-minute rest for the gluten to relax. The seal must be tight, pinched from the middle outwards along the curved edge; any gap and the dumpling bursts open in the water. Cook in batches in plenty of salted water; crowded pots drop temperature and the dumplings stick.
+Varenyky are Ukraine's beloved filled dumplings: half-moon pasta pockets that turn up at every family table from the Carpathians to Kyiv. A thin tender dough rolled into small discs, each filled with one of the traditional fillings (mashed potato with caramelised onion, fresh twarog cheese, sweet stewed cherries in summer, sauerkraut and mushroom in winter, berries for special-occasion sweet versions), folded in half and crimped along the curved edge, boiled in salted water till they float to the surface, served with melted butter, smetana (soured cream) and crispy fried onion. Every region has its preferred fillings and every family has its dough recipe, but the form and the finish are universal. The dough wants to be softer and stretchier than Italian pasta dough and needs at least a 30-minute rest for the gluten to relax. The seal must be tight, pinched from the middle outwards along the curved edge; any gap and the dumpling bursts open in the water. Cook in batches in plenty of salted water; crowded pots drop temperature and the dumplings stick.
 
 ## Ingredients
 
@@ -99,7 +99,7 @@ Varenyky are Ukraine's beloved filled dumplings: half-moon pasta pockets that tu
 - **Seal tightly:** the most common failure is leaky varenyky bursting in the water. Pinch the edges firmly with pressure, working from the middle outwards. Wet the edges with water for extra grip if needed.
 - **Don't crowd the pan:** 8-10 dumplings per batch in a wide pan with plenty of boiling water. Crowding drops the temperature, makes the dumplings stick together, and gives uneven cooking.
 - **Butter immediately after boiling:** brushing each batch with melted butter as it comes out of the water stops them sticking together and adds richness. Don't skip this step.
-- **The trio of finish: butter, smetana, fried onion:** the three together are the canonical Ukrainian finish. Skip any one and you've made an incomplete dish. Smetana proper (the Ukrainian thick soured cream) is best; thick crème fraîche works.
+- **The trio of finish: butter, smetana, fried onion:** the three together are the traditional Ukrainian finish. Skip any one and you've made an incomplete dish. Smetana proper (the Ukrainian thick soured cream) is best; thick crème fraîche works.
 - **The dough must rest:** the 30-minute rest is what gives the dumplings their proper tender bite. Skipping it gives tough chewy varenyky.
 
 ## Variations
@@ -110,7 +110,7 @@ Varenyky are Ukraine's beloved filled dumplings: half-moon pasta pockets that tu
 **Lazy varenyky (lazy cheese dumplings):** the no-roll version; mix twarog with egg, flour and sugar into a soft dough, shape into small dumplings or roll into a log and slice. Boil; serve as breakfast or dessert. Much quicker.
 
 ## Serving
-In shallow bowls with the trio of butter, smetana and fried onion as the canonical finish. A glass of horilka (Ukrainian vodka) traditionally, or kompot (the fruit drink) for non-drinkers. Borscht alongside for the proper Ukrainian feast.
+In shallow bowls with the trio of butter, smetana and fried onion as the traditional finish. A glass of horilka (Ukrainian vodka) traditionally, or kompot (the fruit drink) for non-drinkers. Borscht alongside for the proper Ukrainian feast.
 
 ## Storage
 - The shaped uncooked varenyky freeze 2 months on a tray (lay flat in a single layer to freeze; then transfer to a bag once solid). Cook from frozen; add 1-2 minutes to the boiling time.

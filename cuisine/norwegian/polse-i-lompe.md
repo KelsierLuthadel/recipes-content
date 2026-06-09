@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Norwegian pølse i lompe ("sausage in lompe") is Norway's national hot dog and the canonical street-food snack for Constitution Day (Syttende Mai, May 17th) when Oslo and every Norwegian town centre fills with families eating pølse i lompe in their bunad national costumes. The dish is structurally distinct from every other European hot dog: instead of a bread bun, the sausage is wrapped in a lompe - a soft thin potato-flour flatbread (a Norwegian relative of the Swedish tunnbröd, but using potato flour as the base and made smaller and more handheld). The lompe is laid flat, a long mild Norwegian sausage placed down the middle, then condiments added (ketchup, mustard, crispy fried onions are the canonical trio; sweet pickled cucumber, mashed potato, or shrimp salad as additions), and the lompe rolled tightly around the sausage into a soft burrito-style wrap. Sold from kiosks (especially Narvesen and 7-Eleven Norge), gas stations, and street stands across Norway.
+The Norwegian pølse i lompe ("sausage in lompe") is Norway's national hot dog and the traditional street-food snack for Constitution Day (Syttende Mai, May 17th) when Oslo and every Norwegian town centre fills with families eating pølse i lompe in their bunad national costumes. The dish is structurally distinct from every other European hot dog: instead of a bread bun, the sausage is wrapped in a lompe - a soft thin potato-flour flatbread (a Norwegian relative of the Swedish tunnbröd, but using potato flour as the base and made smaller and more handheld). The lompe is laid flat, a long mild Norwegian sausage placed down the middle, then condiments added (ketchup, mustard, crispy fried onions are the traditional trio; sweet pickled cucumber, mashed potato, or shrimp salad as additions), and the lompe rolled tightly around the sausage into a soft burrito-style wrap. Sold from kiosks (especially Narvesen and 7-Eleven Norge), gas stations, and street stands across Norway.
 
 ## Ingredients
 
@@ -79,7 +79,7 @@ The Norwegian pølse i lompe ("sausage in lompe") is Norway's national hot dog a
 ## Notes
 - **Lompe, not a bun:** potato-flatbread wrap is the structural and cultural signature.
 - **Mild sausage:** Norwegian sausages are gently spiced; spicy sausages overpower the lompe.
-- **Crispy fried onions:** the canonical Norwegian topping.
+- **Crispy fried onions:** the traditional Norwegian topping.
 - **Roll like a burrito:** tightly so it holds while eating.
 
 ## Variations

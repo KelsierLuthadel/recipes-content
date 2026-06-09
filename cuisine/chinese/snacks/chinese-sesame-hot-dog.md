@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-The Chinese sesame hot dog bun (often called "hot dog bao" or just "hot dog bread" on Chinese-bakery menus) is a fixture of Chinese bakeries across mainland China, Hong Kong, Taiwan and the diaspora (Tai Pan Bakery in Hong Kong, 85°C Bakery Café in Taiwan, the countless Chinatown bakeries in San Francisco and New York all sell their version): a hot dog wrapped entirely in a soft slightly-sweet enriched milk bread dough (very similar to Japanese shokupan or Hong Kong-style cocktail bun dough - flour, milk, sugar, butter, egg, yeast, salt), shaped either as a spiral wrap around the dog or as a fully enclosed elongated bun, brushed with egg wash, generously sprinkled with white (and optionally black) sesame seeds, and baked till the dough turns deep golden brown and the dog inside is heated through. Eaten with the hands as a warm portable snack - the bread enclosure means no need for utensils or plates.
+The Chinese sesame hot dog bun (often called "hot dog bao" or just "hot dog bread" on Chinese-bakery menus) is a fixture of Chinese bakeries across mainland China, Hong Kong, Taiwan and the diaspora (Tai Pan Bakery in Hong Kong, 85°C Bakery Café in Taiwan, the countless Chinatown bakeries in San Francisco and New York all sell their version): a hot dog wrapped entirely in a soft slightly-sweet enriched milk bread dough (very similar to Japanese shokupan or Hong Kong-style cocktail bun dough - flour, milk, sugar, butter, egg, yeast, salt), shaped either as a spiral wrap around the dog or as a fully enclosed elongated bun, brushed with egg wash, generously sprinkled with white (and optionally black) sesame seeds, and baked till the dough turns deep golden brown and the dog inside is heated through. Eat with the hands as a warm portable snack - the bread enclosure means no need for utensils or plates.
 
 ## Ingredients
 
@@ -90,7 +90,7 @@ The Chinese sesame hot dog bun (often called "hot dog bao" or just "hot dog brea
 **Cheese hot dog bao:** add grated cheddar inside before wrapping.
 **Pineapple hot dog bao:** add diced canned pineapple inside.
 **With scallion:** sprinkle chopped scallion in the egg wash for savoury notes.
-**Sweet version (less canonical):** add 1 tablespoon condensed milk inside for sweet-savoury contrast.
+**Sweet version (less traditional):** add 1 tablespoon condensed milk inside for sweet-savoury contrast.
 
 ## Serving
 At a Hong Kong or Taipei bakery counter; at a Chinatown bakery; at 7-Eleven Asia; at home as a breakfast or afternoon snack.

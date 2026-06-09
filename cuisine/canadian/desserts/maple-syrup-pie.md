@@ -116,7 +116,7 @@ Tarte au sirop d'érable is the Quebec dessert that distils the entire maple-sug
 **Maple-syrup pie with bourbon-pecan crumble top:** add a streusel topping (60 g butter + 60 g flour + 60 g brown sugar + 40 g chopped pecans) in the last 15 minutes of baking - the modern Toronto bakery variant.
 
 ## Serving
-At a Quebec sugar shack (cabane à sucre) at the end of a maple-tapping season meal (the canonical setting; March-April in Quebec) · at a Quebec Christmas Eve reveillon dessert table · at a Canadian Thanksgiving dinner · at a Quebec family Sunday lunch · at a Toronto restaurant dessert menu · at home as the showpiece for a Canadian dinner-party · paired with a glass of late-harvest Riesling or a small Canadian ice wine.
+At a Quebec sugar shack (cabane à sucre) at the end of a maple-tapping season meal (the traditional setting; March-April in Quebec) · at a Quebec Christmas Eve reveillon dessert table · at a Canadian Thanksgiving dinner · at a Quebec family Sunday lunch · at a Toronto restaurant dessert menu · at home as the showpiece for a Canadian dinner-party · paired with a glass of late-harvest Riesling or a small Canadian ice wine.
 
 ## Storage
 - Refrigerates 5 days. The pie can be served straight from the fridge or warmed gently (a 150°C oven for 10 minutes).

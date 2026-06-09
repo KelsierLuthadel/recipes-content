@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The British Boxing Day breakfast, the dish invented to give yesterday's roast leftovers something useful to do. You roughly mash cooked potatoes with cooked greens (cabbage or sprouts traditionally), press the lot into a hot buttered pan, and leave it alone until a deep brown crust forms underneath. Then you flip it (in one heroic motion if you're brave, in broken pieces if you're sensible) and let the second side brown too. The name comes from the bubbling and squeaking the dish makes as it cooks. Eaten with a fried egg on top and a few slices of cold ham or yesterday's gravy, ideally with a strong cup of tea on the side and the remains of Christmas Day still on the kitchen table.
+The British Boxing Day breakfast, the dish invented to give yesterday's roast leftovers something useful to do. You roughly mash cooked potatoes with cooked greens (cabbage or sprouts traditionally), press the lot into a hot buttered pan, and leave it alone until a deep brown crust forms underneath. Then you flip it (in one heroic motion if you're brave, in broken pieces if you're sensible) and let the second side brown too. The name comes from the bubbling and squeaking the dish makes as it cooks. Eat with a fried egg on top and a few slices of cold ham or yesterday's gravy, ideally with a strong cup of tea on the side and the remains of Christmas Day still on the kitchen table.
 
 ## Ingredients
 

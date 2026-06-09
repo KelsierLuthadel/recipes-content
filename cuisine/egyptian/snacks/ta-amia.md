@@ -2,7 +2,7 @@
 
 ![Ta'amia](resources/ta-amia.jpg)
 
-*Egypt's broad-bean falafel: ground fava beans, herbs and spices blitzed to a soft green paste, fried golden. Eaten in pita with tahina and pickles.*
+*Egypt's broad-bean falafel: ground fava beans, herbs and spices blitzed to a soft green paste, fried golden. Eat in pita with tahina and pickles.*
 
 **Prep Time:** 8 hours
 

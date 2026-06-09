@@ -2,7 +2,7 @@
 
 ![Arroz com Feijão](resources/arroz-com-feijao.jpg)
 
-*Brazil's daily staple: long-grain white rice cooked with garlic and onion, and a separate pot of black or brown beans cooked with onion, garlic and bay leaf, both served together on the same plate. The dish that every Brazilian eats every day of their life; the canonical Brazilian breakfast, lunch, and dinner; the symbol of "comfort" and "home" across the entire country.*
+*Brazil's daily staple: long-grain white rice cooked with garlic and onion, and a separate pot of black or brown beans cooked with onion, garlic and bay leaf, both served together on the same plate. The dish that every Brazilian eats every day of their life; the traditional Brazilian breakfast, lunch, and dinner; the symbol of "comfort" and "home" across the entire country.*
 
 **Serves:** 6
 
@@ -81,13 +81,13 @@ Arroz com feijão (rice and beans) is the Brazilian daily staple, eaten at lunch
 ### Stage 4 - The Brazilian "tempero" finishing (for the beans)
 1. In a small pan, heat 1 tablespoon olive oil.
 2. Add 2 chopped garlic cloves; cook 30 seconds.
-3. Pour into the beans pot and stir; this is the canonical Brazilian finishing technique that lifts the beans.
+3. Pour into the beans pot and stir; this is the traditional Brazilian finishing technique that lifts the beans.
 
 ### Stage 5 - Mash some of the beans for thickness
 1. Use a slotted spoon to lift out 1 cup of cooked beans with their broth.
 2. Mash with a fork.
 3. Stir back into the bean pot.
-4. This thickens the bean broth to the canonical creamy consistency.
+4. This thickens the bean broth to the traditional creamy consistency.
 
 ### Stage 6 - Serve
 1. On each plate, spoon a mound of rice on one side.
@@ -115,11 +115,11 @@ Arroz com feijão (rice and beans) is the Brazilian daily staple, eaten at lunch
 **Arroz tropical:** rice with chopped tropical fruit (pineapple, mango) - modern Brazilian variant.
 
 ## Serving
-At every Brazilian lunch every day (the canonical setting; no exaggeration - Brazilians eat this every day of their life) · at every Brazilian "prato feito" set-lunch restaurant · at every Brazilian work canteen · at every Brazilian family table · at a Brazilian Sunday lunch alongside feijoada · at home as the centre of a Brazilian plate.
+At every Brazilian lunch every day (the traditional setting; no exaggeration - Brazilians eat this every day of their life) · at every Brazilian "prato feito" set-lunch restaurant · at every Brazilian work canteen · at every Brazilian family table · at a Brazilian Sunday lunch alongside feijoada · at home as the centre of a Brazilian plate.
 
 ## Storage
 - Both rice and beans refrigerate 4-5 days.
 - Reheat with a splash of water for the rice and stock for the beans.
 - Beans freeze 3 months; rice freezes 1 month (slightly less well).
-- Leftover rice + beans + a fried egg + chopped sausage = the canonical Brazilian "arroz de carreteiro" (charger's rice - the gaucho cart-driver's one-pan dish).
+- Leftover rice + beans + a fried egg + chopped sausage = the traditional Brazilian "arroz de carreteiro" (charger's rice - the gaucho cart-driver's one-pan dish).
 - The flavour of the beans improves over the first 2 days as the broth tightens.

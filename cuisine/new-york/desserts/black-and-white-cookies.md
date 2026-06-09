@@ -2,7 +2,7 @@
 
 ![Black and White Cookies](resources/black-and-white-cookies.jpg)
 
-*New York's iconic bakery cookie: a soft cake-like vanilla cookie (more like a flat sponge cake) iced in two halves (one half white vanilla fondant, one half dark chocolate fondant), giving the canonical half-and-half black-and-white appearance. The NYC Jewish-bakery classic; the cookie featured in Seinfeld.*
+*New York's iconic bakery cookie: a soft cake-like vanilla cookie (more like a flat sponge cake) iced in two halves (one half white vanilla fondant, one half dark chocolate fondant), giving the traditional half-and-half black-and-white appearance. The NYC Jewish-bakery classic; the cookie featured in Seinfeld.*
 
 **Serves:** Makes 12 large cookies
 
@@ -79,7 +79,7 @@ Black and white cookies are one of New York's most iconic bakery items and a fix
 3. Ice half of each cookie with vanilla icing, going right to the centre line.
 4. Let set 5 min.
 5. Ice the other half with chocolate icing.
-6. The sharp dividing line is the canonical look.
+6. The sharp dividing line is the traditional look.
 
 ### Stage 9 - Set
 1. Let icing set 30 min before stacking.
@@ -87,7 +87,7 @@ Black and white cookies are one of New York's most iconic bakery items and a fix
 ## Notes
 - **Cake-like batter:** not crisp cookie.
 - **Flat side up:** for proper icing.
-- **Sharp dividing line:** canonical look.
+- **Sharp dividing line:** traditional look.
 - **Don't overbake:** keeps tender.
 
 ## Variations

@@ -11,14 +11,14 @@
 **Cook Time:** None
 
 ## Overview
-Tam mak hung is Laos's everyday salad and one of the country's most identity-defining dishes, eaten with sticky rice and laap as the canonical Lao midday meal. The construction is built in the mortar, not chopped on a board and tossed in a bowl. The mortar pounding is what makes the dish a "tam" (pound), bruising the green papaya so the dressing seeps into its flesh. The padaek is the Lao signature that sets this apart from the cleaner Thai som tam: a dark, funky, deeply fermented Lao fish sauce that gives the dressing its deep umami beneath the sour and spicy notes. Sold in jars at Asian shops; a 50/50 mix of Thai fish sauce and shrimp paste substitutes. The green papaya shred is canonical too: scored with a sharp knife in vertical cuts then shaved across into irregular ribbons rather than uniform shreds. Pounding order: garlic and chilli first to a paste, then papaya, dried shrimp, tomato and the wet ingredients all bruised by the pestle rather than just dressed.
+Tam mak hung is Laos's everyday salad and one of the country's most identity-defining dishes, eaten with sticky rice and laap as the traditional Lao midday meal. The construction is built in the mortar, not chopped on a board and tossed in a bowl. The mortar pounding is what makes the dish a "tam" (pound), bruising the green papaya so the dressing seeps into its flesh. The padaek is the Lao signature that sets this apart from the cleaner Thai som tam: a dark, funky, deeply fermented Lao fish sauce that gives the dressing its deep umami beneath the sour and spicy notes. Sold in jars at Asian shops; a 50/50 mix of Thai fish sauce and shrimp paste substitutes. The green papaya shred is traditional too: scored with a sharp knife in vertical cuts then shaved across into irregular ribbons rather than uniform shreds. Pounding order: garlic and chilli first to a paste, then papaya, dried shrimp, tomato and the wet ingredients all bruised by the pestle rather than just dressed.
 
 ## Ingredients
 
 ### Per salad (serves 4)
 - 1 large green (unripe) papaya, peeled and shredded coarsely (about 400 g shredded)
 - 4 cloves garlic
-- 4-6 fresh bird's-eye chillies (or to taste; Lao tam mak hung is canonically very hot)
+- 4-6 fresh bird's-eye chillies (or to taste; Lao tam mak hung is traditionally very hot)
 - 8 cherry tomatoes, halved (or 2 medium tomatoes, cut into wedges)
 - 2 tablespoons dried shrimp (small dried shrimp; rehydrated 5 minutes in hot water)
 - 2 tablespoons fresh lime juice
@@ -74,7 +74,7 @@ Tam mak hung is Laos's everyday salad and one of the country's most identity-def
 - **Pound, don't stir:** the bruising releases papaya juice and absorbs the dressing. Chopping-then-tossing gives the wrong texture.
 - **Adjust in the mortar:** taste before plating. The four-way balance (sour, salty, sweet, hot) is the whole point.
 - **Lao tam mak hung is generally hotter than Thai som tam:** start with 4 chillies, work up if you handle heat well.
-- **The clay mortar:** the canonical Lao tool is a tall narrow clay mortar (different from the Thai stone mortar). A heavy stone mortar works fine; a small mortar makes it harder to mix.
+- **The clay mortar:** the traditional Lao tool is a tall narrow clay mortar (different from the Thai stone mortar). A heavy stone mortar works fine; a small mortar makes it harder to mix.
 
 ## Variations
 **Tam mak hung pa daek nyao (with fermented fish whole pieces):** add a few whole pieces of fermented fish to the mortar - the rural variant.
@@ -84,7 +84,7 @@ Tam mak hung is Laos's everyday salad and one of the country's most identity-def
 **Tam mak hung Vientiane style:** add a small handful of crushed roasted peanuts to the mortar - the Vientiane city variant.
 
 ## Serving
-At a Lao family lunch (the canonical setting) · at a Vientiane street stall · at a Luang Prabang night market · at a Lao New Year (Pi Mai) celebration · at home as the canonical Lao spicy salad · paired with sticky rice, laap, cooked pork rind or fried chicken, and a glass of Beerlao.
+At a Lao family lunch (the traditional setting) · at a Vientiane street stall · at a Luang Prabang night market · at a Lao New Year (Pi Mai) celebration · at home as the traditional Lao spicy salad · paired with sticky rice, laap, cooked pork rind or fried chicken, and a glass of Beerlao.
 
 ## Storage
 - Best eaten within 2 hours; the papaya stays crunchy fresh.

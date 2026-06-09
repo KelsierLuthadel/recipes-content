@@ -2,7 +2,7 @@
 
 ![Beef Meat Pie](resources/beef-meat-pie.jpg)
 
-*Australia's hand-held lunch: hot beef gravy in a shortcrust base under a flaky puff lid. Eaten standing up at the footy with tomato sauce.*
+*Australia's hand-held lunch: hot beef gravy in a shortcrust base under a flaky puff lid. Eat standing up at the footy with tomato sauce.*
 
 **Serves:** 6 pies
 

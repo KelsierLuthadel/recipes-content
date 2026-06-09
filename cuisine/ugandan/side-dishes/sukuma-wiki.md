@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Sukuma wiki is the everyday greens dish of East Africa, eaten across Uganda, Kenya and Tanzania as the vegetable side to almost any meat or starch meal: collard greens or kale finely shredded and sautéed with onion, tomato and a splash of stock till the leaves wilt and the gravy reduces to a glossy coat. The name translates roughly as "push the week" or "stretch the week"; the dish earned the name as a cooked-greens side that costs almost nothing and stretches a small meat budget across the days till payday. Served from village kitchens to upmarket Nairobi restaurants alongside ugali or posho, rice, chapati or roast meat. Collard greens are the canonical East African choice; kale or cavolo nero substitute. Spinach is wrong here because it bleeds water and collapses; sukuma wiki should hold its texture and stay slightly chewy. The leaves want to be sliced fine, stacked and rolled into a tight cigar before cutting into 5 mm ribbons; the fine cut means they cook quickly and absorb the tomato gravy.
+Sukuma wiki is the everyday greens dish of East Africa, eaten across Uganda, Kenya and Tanzania as the vegetable side to almost any meat or starch meal: collard greens or kale finely shredded and sautéed with onion, tomato and a splash of stock till the leaves wilt and the gravy reduces to a glossy coat. The name translates roughly as "push the week" or "stretch the week"; the dish earned the name as a cooked-greens side that costs almost nothing and stretches a small meat budget across the days till payday. Served from village kitchens to upmarket Nairobi restaurants alongside ugali or posho, rice, chapati or roast meat. Collard greens are the traditional East African choice; kale or cavolo nero substitute. Spinach is wrong here because it bleeds water and collapses; sukuma wiki should hold its texture and stay slightly chewy. The leaves want to be sliced fine, stacked and rolled into a tight cigar before cutting into 5 mm ribbons; the fine cut means they cook quickly and absorb the tomato gravy.
 
 ## Ingredients
 
@@ -80,7 +80,7 @@ Sukuma wiki is the everyday greens dish of East Africa, eaten across Uganda, Ken
 **Spicier version:** add a teaspoon of harissa or 2 chopped Scotch bonnets to the tomato base for heat.
 
 ## Serving
-The everyday side. Eat with posho or ugali (the canonical pair), nyama choma (grilled meat), pilau, rice, or roasted chicken. Also a good filling for chapati wraps or rolex variations.
+The everyday side. Eat with posho or ugali (the traditional pair), nyama choma (grilled meat), pilau, rice, or roasted chicken. Also a good filling for chapati wraps or rolex variations.
 
 ## Storage
 - Keeps refrigerated 3 days. Reheat in a covered pan with a splash of water to loosen.

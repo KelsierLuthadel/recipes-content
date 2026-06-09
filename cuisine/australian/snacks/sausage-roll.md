@@ -85,7 +85,7 @@ The sausage roll is one of Australia's most beloved bakery and lunch-counter sna
 3. Eat with the hands.
 
 ## Notes
-- **Beef and pork together is the proper Australian version:** the combination gives the right fat content and flavour. All-beef gives a leaner roll; all-pork is too rich. The 50/50 mix is the canonical balance.
+- **Beef and pork together is the proper Australian version:** the combination gives the right fat content and flavour. All-beef gives a leaner roll; all-pork is too rich. The 50/50 mix is the traditional balance.
 - **Grated apple or carrot for moisture:** the small amount of grated apple (or carrot) keeps the filling moist during baking. Skipping it gives a denser drier roll.
 - **Breadcrumbs absorb juices:** without breadcrumbs, the meat juices leak into the pastry and give soggy bottoms. The breadcrumbs are essential.
 - **Don't overwork the mince:** mix till just combined; over-mixing develops the proteins and gives a tough rubbery filling.
@@ -98,7 +98,7 @@ The sausage roll is one of Australia's most beloved bakery and lunch-counter sna
 **Curried sausage rolls:** add 2 tablespoons of curry powder to the filling and 50 g of chopped sultanas; gives a curry-puff Aussie style.
 
 ## Serving
-On a paper plate or in a paper napkin with tomato sauce squirted on top (the canonical Australian way). At a footy match, in a pie warmer at a milk bar, or at a kid's birthday party. Drink: cold light beer (XXXX, Tooheys, Carlton); or a cup of strong tea.
+On a paper plate or in a paper napkin with tomato sauce squirted on top (the traditional Australian way). At a footy match, in a pie warmer at a milk bar, or at a kid's birthday party. Drink: cold light beer (XXXX, Tooheys, Carlton); or a cup of strong tea.
 
 ## Storage
 - Best eaten warm and fresh out of the oven; reheat well.

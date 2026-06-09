@@ -11,7 +11,7 @@
 **Cook Time:** 10 days curing + 4 hours smoking + 4 hours steaming
 
 ## Overview
-The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli dishes, distinct from New York pastrami in three ways. The cure uses a heavier hand of coriander seed and black pepper with less paprika, and runs ten to fourteen days rather than the shorter pastrami cure. The meat is traditionally a brisket "plate" cut from the navel end, with more fat marbling than the flat that holds up to the long process. The cold smoke at low temperature followed by hours of steaming is the technique that gives slice-paper-thin-without-crumbling texture; either step alone gives a worse sandwich. Schwartz's on Saint-Laurent has been making it since 1928 and remains the canonical reference. The serving is austere: 4 mm slices piled to a 5 or 6 cm stack on rye spread thinly with yellow mustard, with a sour pickle and frites on the side. Nothing else. This is a project: two weeks from start to first bite. A sous-vide shortcut is in Variations.
+The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli dishes, distinct from New York pastrami in three ways. The cure uses a heavier hand of coriander seed and black pepper with less paprika, and runs ten to fourteen days rather than the shorter pastrami cure. The meat is traditionally a brisket "plate" cut from the navel end, with more fat marbling than the flat that holds up to the long process. The cold smoke at low temperature followed by hours of steaming is the technique that gives slice-paper-thin-without-crumbling texture; either step alone gives a worse sandwich. Schwartz's on Saint-Laurent has been making it since 1928 and remains the traditional reference. The serving is austere: 4 mm slices piled to a 5 or 6 cm stack on rye spread thinly with yellow mustard, with a sour pickle and frites on the side. Nothing else. This is a project: two weeks from start to first bite. A sous-vide shortcut is in Variations.
 
 ## Ingredients
 
@@ -66,7 +66,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 
 ### Stage 3 - The smoke
 1. Set up a smoker at 95-110°C (200-225°F).
-2. Use hardwood for smoke - oak, hickory, maple (Quebec canonical), or apple.
+2. Use hardwood for smoke - oak, hickory, maple (Quebec traditional), or apple.
 3. Place the brisket fat-side-up on the smoker rack.
 4. Smoke 4-6 hours till the internal temperature reads 65°C and a dark, mahogany bark forms on the outside.
 5. Don't go above 110°C - this is a cold-to-warm smoke, not a hot grill.
@@ -108,7 +108,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 
 ## Variations
 **Sous-vide shortcut:** cure 7 days; vacuum-seal; sous-vide at 80°C for 24 hours; finish under a hot smoker or in a 230°C oven for 30 minutes for the bark. 24 hours of sous-vide replicates the 4-hour steam stage; the cure is shorter, the smoke shorter, but the result is very close.
-**Smoked meat on rye with mustard AND pickles (Schwartz's "complète"):** the canonical Schwartz's order - add a side of sliced sour pickle on the sandwich itself.
+**Smoked meat on rye with mustard AND pickles (Schwartz's "complète"):** the traditional Schwartz's order - add a side of sliced sour pickle on the sandwich itself.
 **Smoked meat poutine:** chop the smoked meat into smaller pieces; scatter over a finished poutine - see [Poutine](poutine.md) variations.
 **Lean cut sandwich:** ask for "lean" - thicker slices from the trimmed point with minimal fat. Schwartz's purists order "medium" for a balance of fat and lean.
 **Smoked meat omelette:** chop 100 g into small pieces; fold into a 3-egg omelette with Swiss cheese - the deli breakfast variant.
@@ -116,7 +116,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 **Vegan "smoked meat" (modern):** seitan or jackfruit slow-cooked with the Montreal spice profile and smoked - surprisingly close.
 
 ## Serving
-At Schwartz's Hebrew Delicatessen in Montreal (the canonical setting; the queue down Saint-Laurent Boulevard at any hour) · at any Montreal Jewish deli (Lester's, Smoked Meat Pete, Snowdon Deli) · at a Toronto deli with Montreal pedigree · at home as a special-project weekend with friends · as a Quebec Saint-Jean-Baptiste celebration dish (24 June) · at any Canadian summer barbecue with a touch of theatre.
+At Schwartz's Hebrew Delicatessen in Montreal (the traditional setting; the queue down Saint-Laurent Boulevard at any hour) · at any Montreal Jewish deli (Lester's, Smoked Meat Pete, Snowdon Deli) · at a Toronto deli with Montreal pedigree · at home as a special-project weekend with friends · as a Quebec Saint-Jean-Baptiste celebration dish (24 June) · at any Canadian summer barbecue with a touch of theatre.
 
 ## Storage
 - Smoked meat (cooked) refrigerates 5 days wrapped tight; steam-reheat for 10 minutes to restore tenderness.

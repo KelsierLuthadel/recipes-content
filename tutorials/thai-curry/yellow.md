@@ -91,7 +91,7 @@ Yellow curry needs more aggressive fish sauce and palm sugar than green or red b
 - [Massaman Curry Paste](massaman.md): the closely related "stew curry".
 - [Green Curry Paste](green.md): the bright fresh-chilli sibling.
 - [Building a Curry](building-a-curry.md): the worked example (uses green; technique applies to yellow).
-- [Thai Yellow Curry Paste recipe](../../cuisine/thai/pastes/thai-yellow-curry-paste.md): canonical recipe.
+- [Thai Yellow Curry Paste recipe](../../cuisine/thai/pastes/thai-yellow-curry-paste.md): traditional recipe.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
 
 ## Storage

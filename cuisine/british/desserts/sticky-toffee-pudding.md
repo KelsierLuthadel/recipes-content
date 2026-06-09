@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Dates are soaked in boiling water with bicarbonate of soda (which softens them and gives the sponge its dark colour). The dates are blended smooth, mixed into a butter-sugar-egg-flour batter, and baked. While it bakes, a toffee sauce is built: butter, brown sugar and cream simmered to glossy. Holes are poked in the warm pudding; the sauce is poured over.
+Sticky toffee pudding is the British end-of-Sunday-lunch winter pudding, the dish debatably invented in the Lake District in the 1970s at the Sharrow Bay Country House Hotel and now entirely beloved across every British pub and pudding menu from Penzance to Aberdeen. The dates are the heart of the dish, soaked in boiling water with bicarbonate of soda to soften and to coax out the deep mahogany colour that gives the sponge its character; skip the bicarb and the sponge bakes a pale beige that misses the traditional look. Blended smooth and folded into a butter-sugar-egg-flour batter for the cake itself. The toffee sauce is the other half of the dish, simmered separately from butter, dark brown sugar and double cream until glossy and just slightly thickened, and the warm sauce poured over a warm pudding with holes poked across the surface lets every bite drink the toffee in rather than just sitting under it. Eat warm with vanilla ice cream or thick cold cream.
 
 ## Ingredients
 

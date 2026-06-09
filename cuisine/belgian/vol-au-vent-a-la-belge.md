@@ -133,7 +133,7 @@ Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-p
 **Vegetarian "vol-au-vent":** sliced king oyster mushrooms instead of meat, vegetable stock, the same velouté treatment.
 
 ## Serving
-At a Brussels brasserie Sunday lunch (the canonical setting) · at a Belgian family Sunday dinner · at a Belgian wedding reception · at a Flemish Christmas Eve meal · at a Liège café · at a Belgian-themed restaurant abroad · at home for a celebratory winter dinner.
+At a Brussels brasserie Sunday lunch (the traditional setting) · at a Belgian family Sunday dinner · at a Belgian wedding reception · at a Flemish Christmas Eve meal · at a Liège café · at a Belgian-themed restaurant abroad · at home for a celebratory winter dinner.
 
 ## Storage
 - Refrigerate the filling (without the pastry shells) for 3 days; reheat very gently on the stovetop. The pastry shells separately keep 4 days in an airtight tin.

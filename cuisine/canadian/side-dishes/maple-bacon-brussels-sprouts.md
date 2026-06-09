@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Maple-bacon Brussels sprouts is the modern Canadian side dish that's elbowed its way onto every Thanksgiving and Christmas table. The cut-side-down sear in bacon fat is the technique that defines the dish; sprouts halved so the cut face caramelises against the hot pan, undisturbed for several minutes till deeply browned, give the canonical bittersweet edge that makes the side memorable. Sprouts moved around too soon stay green and steam rather than brown. Chunky 1 cm bacon lardons rather than thin slices are the right cut because the thicker pieces stay crisp through the cook, where thin bacon goes limp and disappears into the dish. Pure Canadian maple syrup (grade A "Dark, Robust" for the deepest flavour) is the canonical Canadian glaze that gives the woody-caramel sweetness no other sweetener can match; pancake syrup or maple flavouring tastes wrong here. A squeeze of lemon at the end with the maple cuts the richness and stops the dish tipping into cloying. Flaky salt across the top finishes.
+Maple-bacon Brussels sprouts is the modern Canadian side dish that's elbowed its way onto every Thanksgiving and Christmas table. The cut-side-down sear in bacon fat is the technique that defines the dish; sprouts halved so the cut face caramelises against the hot pan, undisturbed for several minutes till deeply browned, give the traditional bittersweet edge that makes the side memorable. Sprouts moved around too soon stay green and steam rather than brown. Chunky 1 cm bacon lardons rather than thin slices are the right cut because the thicker pieces stay crisp through the cook, where thin bacon goes limp and disappears into the dish. Pure Canadian maple syrup (grade A "Dark, Robust" for the deepest flavour) is the traditional Canadian glaze that gives the woody-caramel sweetness no other sweetener can match; pancake syrup or maple flavouring tastes wrong here. A squeeze of lemon at the end with the maple cuts the richness and stops the dish tipping into cloying. Flaky salt across the top finishes.
 
 ## Ingredients
 
@@ -94,7 +94,7 @@ Maple-bacon Brussels sprouts is the modern Canadian side dish that's elbowed its
 **Maple-bacon sprouts on toast (the modern small-plate):** spread the warm sprouts over a slice of grilled sourdough with whipped ricotta - the modern Canadian bistro starter.
 
 ## Serving
-At a Canadian Thanksgiving table (the canonical setting; second Monday of October) · at a Canadian Christmas dinner · at a Vancouver Island Sunday roast · at a Toronto modern-Canadian gastropub alongside steak frites · at a Quebec sugar-shack spring feast · at home as a weeknight side with grilled chicken or salmon · paired with a roast turkey, glazed ham, or [Cedar-plank salmon](../cedar-plank-salmon.md).
+At a Canadian Thanksgiving table (the traditional setting; second Monday of October) · at a Canadian Christmas dinner · at a Vancouver Island Sunday roast · at a Toronto modern-Canadian gastropub alongside steak frites · at a Quebec sugar-shack spring feast · at home as a weeknight side with grilled chicken or salmon · paired with a roast turkey, glazed ham, or [Cedar-plank salmon](../cedar-plank-salmon.md).
 
 ## Storage
 - Refrigerates 3 days. Reheat in a hot pan with a touch of oil to refresh the crisp; or in a 200°C oven for 8 minutes.

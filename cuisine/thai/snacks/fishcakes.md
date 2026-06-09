@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Tod mun pla is Thailand's small chilli-tinted fish cake, minced fish blended with red curry paste, kaffir lime leaves and finely sliced green beans, formed into flat patties and fried golden. Usually deep-fried at street stalls; shallow-frying at home is much easier and gives nearly identical results. The signature spongy bite that you find at Thai restaurants comes from added egg: leave it out for a denser, more fish-forward texture, or include it for the classic spring. Skinned meaty fillets (lemon sole, cod or salmon all work) blitz with coriander, julienned kaffir lime leaves, spring onion, green beans and red curry paste till the mixture holds together as a paste; tapioca starch folded in helps the patties keep their shape in the pan. Eaten hot with sweet chilli sauce, Thai seafood dipping sauce or ajad, the cucumber-chilli relish.
+Tod mun pla is Thailand's small chilli-tinted fish cake, minced fish blended with red curry paste, kaffir lime leaves and finely sliced green beans, formed into flat patties and fried golden. Usually deep-fried at street stalls; shallow-frying at home is much easier and gives nearly identical results. The signature spongy bite that you find at Thai restaurants comes from added egg: leave it out for a denser, more fish-forward texture, or include it for the classic spring. Skinned meaty fillets (lemon sole, cod or salmon all work) blitz with coriander, julienned kaffir lime leaves, spring onion, green beans and red curry paste till the mixture holds together as a paste; tapioca starch folded in helps the patties keep their shape in the pan. Eat hot with sweet chilli sauce, Thai seafood dipping sauce or ajad, the cucumber-chilli relish.
 
 ## Ingredients
 

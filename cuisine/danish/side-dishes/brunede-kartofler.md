@@ -2,7 +2,7 @@
 
 ![Brunede Kartofler](resources/brunede-kartofler.jpg)
 
-*Denmark's Christmas glazed potatoes: small whole boiled potatoes rolled in a hot pan of melted sugar and butter till they take on a deep amber-caramel glaze. Served alongside the Danish Christmas roast pork, frikadeller, or any traditional Danish dinner; the canonical Christmas table side and a polarising dish (Danes love them; most non-Danes are bemused by sweet glazed potatoes).*
+*Denmark's Christmas glazed potatoes: small whole boiled potatoes rolled in a hot pan of melted sugar and butter till they take on a deep amber-caramel glaze. Served alongside the Danish Christmas roast pork, frikadeller, or any traditional Danish dinner; the traditional Christmas table side and a polarising dish (Danes love them; most non-Danes are bemused by sweet glazed potatoes).*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (mostly potato boiling)
 
 ## Overview
-Brunede kartofler (literally "browned potatoes" - though the name undersells the colour; they're more amber-caramel than just browned) are one of Denmark's most distinctive savoury-meets-sweet side dishes and a non-negotiable component of every Danish Christmas table. The technique is simple but the result polarises non-Danes: small whole new potatoes (peeled cooked the day before) are rolled in a hot pan where caster sugar has been melted into a pale golden caramel, then butter added to halt the caramel and turn it glossy. The potatoes pick up a glistening sweet amber glaze that's not too sweet (the potato's starch absorbs and balances the sugar) but unmistakably present. Served alongside the canonical Danish Christmas pork roast (julestege), Frikadeller, the Christmas duck, or any traditional dinner with rødkål and red cabbage. The Danish meal layout always has BOTH plain boiled potatoes AND brunede kartofler on the table; diners take some of each.
+Brunede kartofler (literally "browned potatoes" - though the name undersells the colour; they're more amber-caramel than just browned) are one of Denmark's most distinctive savoury-meets-sweet side dishes and a non-negotiable component of every Danish Christmas table. The technique is simple but the result polarises non-Danes: small whole new potatoes (peeled cooked the day before) are rolled in a hot pan where caster sugar has been melted into a pale golden caramel, then butter added to halt the caramel and turn it glossy. The potatoes pick up a glistening sweet amber glaze that's not too sweet (the potato's starch absorbs and balances the sugar) but unmistakably present. Served alongside the traditional Danish Christmas pork roast (julestege), Frikadeller, the Christmas duck, or any traditional dinner with rødkål and red cabbage. The Danish meal layout always has BOTH plain boiled potatoes AND brunede kartofler on the table; diners take some of each.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Brunede kartofler (literally "browned potatoes" - though the name undersells the
 - 100 g caster sugar
 - 60 g butter
 - ½ teaspoon flaky sea salt
-- (Optional, less canonical: 1 tablespoon water at the start to dissolve the sugar; or a splash of cream at the end for a silkier glaze)
+- (Optional, less traditional: 1 tablespoon water at the start to dissolve the sugar; or a splash of cream at the end for a silkier glaze)
 
 ### To serve
 - Alongside any Danish Christmas or Sunday dinner - particularly with julestege (Christmas roast pork), Frikadeller, roast duck, or roast goose
@@ -72,7 +72,7 @@ Brunede kartofler (literally "browned potatoes" - though the name undersells the
 ## Variations
 **With cream:** add 2 tablespoons of cream after the butter for a silkier glaze.
 **With honey:** swap half the sugar for honey; the Christmas-feast deluxe version.
-**With cinnamon:** add a pinch of ground cinnamon to the caramel; less canonical but lovely in autumn.
+**With cinnamon:** add a pinch of ground cinnamon to the caramel; less traditional but lovely in autumn.
 **Smaller potatoes (kids' favourite):** the smaller the potato, the more glaze per bite.
 **Sweet potato version:** swap white potatoes for small sweet potatoes; gives a deeper colour and sweetness.
 

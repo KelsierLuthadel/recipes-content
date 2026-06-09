@@ -2,7 +2,7 @@
 
 ![Burmese Samosa](resources/burmese-samosa.jpg)
 
-*Burma's lighter samosa: paper-thin pastry around a gently spiced potato-and-pea filling. Eaten at teashops with raw onion and a green chilli on the side.*
+*Burma's lighter samosa: paper-thin pastry around a gently spiced potato-and-pea filling. Eat at teashops with raw onion and a green chilli on the side.*
 
 **Serves:** 4 (makes 12 samosas)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The Burmese take on the South Asian samosa, with a thinner, crisper pastry and a milder filling than its Indian cousin. You make a hot-water dough that rolls out very thin so the fried shell ends up glassy and crisp rather than bready. The filling is mild by Indian standards: turmeric, ginger, fried onion and a whisper of cumin folded into mashed potato and peas, finished with crushed peanuts for the nuttiness that marks the Burmese version. The triangles fry at moderate heat until amber and crackling, the pastry blistering as it goes. Eaten hot dipped in tamarind sauce, or torn into chunks for a samusa-thoke salad later.
+The Burmese take on the South Asian samosa, with a thinner, crisper pastry and a milder filling than its Indian cousin. You make a hot-water dough that rolls out very thin so the fried shell ends up glassy and crisp rather than bready. The filling is mild by Indian standards: turmeric, ginger, fried onion and a whisper of cumin folded into mashed potato and peas, finished with crushed peanuts for the nuttiness that marks the Burmese version. The triangles fry at moderate heat until amber and crackling, the pastry blistering as it goes. Eat hot dipped in tamarind sauce, or torn into chunks for a samusa-thoke salad later.
 
 ## Ingredients
 

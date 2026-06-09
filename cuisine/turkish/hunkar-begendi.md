@@ -130,7 +130,7 @@ Hünkar beğendi (literally "the sultan loved it", or "Sultan's Delight") is one
 **With pomegranate molasses:** add 2 tablespoons of pomegranate molasses to the lamb braise; gives a sweet-sour Aleppo-Antakya style.
 
 ## Serving
-On warm plates with the meat over the creamed eggplant. Pide bread for mopping up the sauce. Pilav or bulgur pilav on the side. Fresh salad. Drink: rakı with ice and water (the canonical pairing), a glass of Turkish red wine, or Türk kahvesi after.
+On warm plates with the meat over the creamed eggplant. Pide bread for mopping up the sauce. Pilav or bulgur pilav on the side. Fresh salad. Drink: rakı with ice and water (the traditional pairing), a glass of Turkish red wine, or Türk kahvesi after.
 
 ## Storage
 - Both components keep separately. The lamb braise keeps refrigerated 4 days and freezes 3 months; flavour deepens overnight.

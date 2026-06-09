@@ -2,7 +2,7 @@
 
 ![Keftedakia](resources/keftedakia.jpg)
 
-*Greece's defining meze meatball: walnut-sized fried balls seasoned heavily with mint, oregano and grated onion. Eaten with tzatziki and lemon.*
+*Greece's defining meze meatball: walnut-sized fried balls seasoned heavily with mint, oregano and grated onion. Eat with tzatziki and lemon.*
 
 **Serves:** 6 as meze (makes about 30 keftedakia)
 

@@ -2,7 +2,7 @@
 
 ![Montreal All-Dressed Hot Dog](resources/montreal-all-dressed-dog.jpg)
 
-*Montreal's steamed hot dog: a steamed all-beef frankfurter in a steamed New England-style top-split bun, topped with yellow mustard, chopped raw onion, and shredded raw cabbage. The Quebec snack-bar institution; "all-dressed" or "toute garnie" is the canonical ordering phrase at Montreal's casse-croûte counters.*
+*Montreal's steamed hot dog: a steamed all-beef frankfurter in a steamed New England-style top-split bun, topped with yellow mustard, chopped raw onion, and shredded raw cabbage. The Quebec snack-bar institution; "all-dressed" or "toute garnie" is the traditional ordering phrase at Montreal's casse-croûte counters.*
 
 **Serves:** 4
 
@@ -11,23 +11,23 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-The Montreal all-dressed hot dog (toute garnie in French) is the signature Quebec take on the hot dog and a fixture of every Montreal casse-croûte (snack bar). The construction is more restrained than American regional dogs: a steamed all-beef frankfurter in a steamed New England top-split bun, topped with the canonical all-dressed trio of yellow mustard, finely chopped raw onion, and finely shredded raw white cabbage. The cabbage is the Quebec-distinctive ingredient, finely shredded and eaten raw, almost slaw-like but undressed. The "steamé" (steamed) version is the canonical Montreal preparation; the "toasté" version with the bun toasted on the flat-top is the alternative, ordered by name at any counter from a Belle Province to a corner dépanneur. Some snack-bar variants add sweet pickle relish; cheese versions add a slice of melted cheddar. Eat with a side of fries and a paper cup of root beer.
+The Montreal all-dressed hot dog (toute garnie in French) is the signature Quebec take on the hot dog and a fixture of every Montreal casse-croûte (snack bar). The construction is more restrained than American regional dogs: a steamed all-beef frankfurter in a steamed New England top-split bun, topped with the traditional all-dressed trio of yellow mustard, finely chopped raw onion, and finely shredded raw white cabbage. The cabbage is the Quebec-distinctive ingredient, finely shredded and eaten raw, almost slaw-like but undressed. The "steamé" (steamed) version is the traditional Montreal preparation; the "toasté" version with the bun toasted on the flat-top is the alternative, ordered by name at any counter from a Belle Province to a corner dépanneur. Some snack-bar variants add sweet pickle relish; cheese versions add a slice of melted cheddar. Eat with a side of fries and a paper cup of root beer.
 
 ## Ingredients
 
 ### Sausages and buns
 - 4 standard all-beef frankfurters
-- 4 New England-style top-split hot-dog buns (or substitute with side-split buns, but the top-split is canonical Montreal)
+- 4 New England-style top-split hot-dog buns (or substitute with side-split buns, but the top-split is traditional Montreal)
 - 2 tablespoons butter (for toasting buns the toasté way; skip for the steamé way)
 
 ### Toppings
 - 4 tablespoons yellow mustard (Gulden's, French's; not Dijon)
 - 1 small white onion (very finely chopped)
 - 200 g white cabbage (very finely shredded; no dressing)
-- 4 tablespoons sweet pickle relish (optional; canonical at some Montreal snack bars)
+- 4 tablespoons sweet pickle relish (optional; traditional at some Montreal snack bars)
 
 ### To serve
-- Poutine (the canonical Montreal side: fries + cheese curds + gravy)
+- Poutine (the traditional Montreal side: fries + cheese curds + gravy)
 - Or French fries with a side of mayo or vinegar (Quebec style)
 - A cold Molson Canadian or Boréale beer
 - A vintage Pepsi cola (Quebec is a famous Pepsi market)
@@ -61,10 +61,10 @@ The Montreal all-dressed hot dog (toute garnie in French) is the signature Quebe
 3. Eat with hands; the steamed bun holds together remarkably well.
 
 ## Notes
-- **Steamed, not grilled:** the canonical Montreal preparation. The snack-bar steamer is always running.
+- **Steamed, not grilled:** the traditional Montreal preparation. The snack-bar steamer is always running.
 - **New England top-split bun:** the structural signature. Side-split buns work but aren't right.
 - **Shredded raw cabbage, undressed:** the Quebec ingredient. Not slaw - just raw shredded cabbage.
-- **Yellow mustard, chopped onion, cabbage:** the canonical "all-dressed" trio.
+- **Yellow mustard, chopped onion, cabbage:** the traditional "all-dressed" trio.
 
 ## Variations
 **Toasté:** bun toasted on the flat-top instead of steamed.

@@ -11,21 +11,21 @@
 **Cook Time:** 12-14 hours
 
 ## Overview
-Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arguably America's greatest contribution to slow-cooked meat: a whole "packer cut" beef brisket (containing both the flat and point cuts, 6 to 8 kg total) rubbed with the canonical Central Texas "Dalmatian rub" of equal parts coarse salt and coarse-ground black pepper, then smoked low-and-slow at 110 °C over post-oak wood for twelve to fourteen hours till the fat has fully rendered, the bark has crusted deep mahogany and the internal temperature reaches 95 °C. The Central Texas tradition (Lockhart, Austin, the Hill Country) emphasises simplicity (just salt-and-pepper rub, post-oak smoke, time) over the more complex sauces of Kansas City or Carolina BBQ. Around 70 °C internal the brisket "stalls", stops climbing in temperature for hours as moisture evaporates; wrap in butcher paper at that point to push through the stall and protect the bark. Resting one to two hours wrapped after the cook is essential. Sliced across the grain into pencil-thick slices.
+Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arguably America's greatest contribution to slow-cooked meat: a whole "packer cut" beef brisket (containing both the flat and point cuts, 6 to 8 kg total) rubbed with the traditional Central Texas "Dalmatian rub" of equal parts coarse salt and coarse-ground black pepper, then smoked low-and-slow at 110 °C over post-oak wood for twelve to fourteen hours till the fat has fully rendered, the bark has crusted deep mahogany and the internal temperature reaches 95 °C. The Central Texas tradition (Lockhart, Austin, the Hill Country) emphasises simplicity (just salt-and-pepper rub, post-oak smoke, time) over the more complex sauces of Kansas City or Carolina BBQ. Around 70 °C internal the brisket "stalls", stops climbing in temperature for hours as moisture evaporates; wrap in butcher paper at that point to push through the stall and protect the bark. Resting one to two hours wrapped after the cook is essential. Sliced across the grain into pencil-thick slices.
 
 ## Ingredients
 
 ### Brisket
 - 1 whole "packer cut" beef brisket (6-8 kg; with point and flat; 5 mm fat cap)
 
-### Dalmatian rub (the Central Texas canonical)
+### Dalmatian rub (the Central Texas traditional)
 - 4 tablespoons coarse kosher salt (or sea salt)
 - 4 tablespoons coarsely ground black pepper (about 16-mesh; coarse)
 - 1 tablespoon garlic powder (optional; some Texan pitmasters add)
 - 1 tablespoon paprika (optional; some add for colour)
 
 ### Smoking wood
-- Post-oak wood chunks (canonical Central Texas); or oak, hickory, mesquite, pecan
+- Post-oak wood chunks (traditional Central Texas); or oak, hickory, mesquite, pecan
 
 ### Equipment
 - Smoker (offset, kettle, pellet, or electric); capable of holding 110°C / 225°F steady
@@ -98,7 +98,7 @@ Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arg
 
 ## Variations
 **Burnt ends:** trim the point into 2 cm cubes; toss with BBQ sauce; smoke 1 more hour. The famous Kansas City "burnt ends" preparation.
-**With BBQ sauce:** serve with thin Texas-style BBQ sauce (tomato + vinegar + brown sugar + chili). Less canonical in Central Texas where purists go sauce-free.
+**With BBQ sauce:** serve with thin Texas-style BBQ sauce (tomato + vinegar + brown sugar + chili). Less traditional in Central Texas where purists go sauce-free.
 **Faster cook at higher temperature:** smoke at 135°C / 275°F instead of 110°C; cooks in 8-10 hours; less smoke flavour but more practical.
 **Oven-finish:** if you can't keep the smoker going, finish wrapped brisket in a 110°C oven; less smoky but still tender.
 

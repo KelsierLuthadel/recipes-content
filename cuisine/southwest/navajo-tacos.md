@@ -2,7 +2,7 @@
 
 ![Navajo Tacos](resources/navajo-tacos.jpg)
 
-*The Southwest's frybread-based open-face taco: a piece of warm fried Navajo frybread topped with seasoned ground beef (or beans), shredded lettuce, diced tomato, grated cheese, sour cream, sliced jalapeños and salsa. The Native American-Southwest staple, the canonical "frybread taco" of every Pueblo and Navajo Nation feast.*
+*The Southwest's frybread-based open-face taco: a piece of warm fried Navajo frybread topped with seasoned ground beef (or beans), shredded lettuce, diced tomato, grated cheese, sour cream, sliced jalapeños and salsa. The Native American-Southwest staple, the traditional "frybread taco" of every Pueblo and Navajo Nation feast.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Navajo tacos (or "Indian tacos", "frybread tacos") are the iconic Native American Southwest dish, particularly associated with the Navajo Nation and the Pueblo peoples of New Mexico and Arizona: a piece of warm Navajo frybread (the canonical Native American fried bread - a yeasted-or-soda-leavened flour dough rolled into a round and deep-fried till puffed golden) topped with seasoned ground beef (cooked with onion, garlic, chili powder, cumin), pinto beans (or refried), shredded iceberg lettuce, diced tomato, grated cheddar, sour cream, sliced jalapeños and salsa. The dish has roots in the dark history of the Navajo Long Walk (1864) when displaced Native Americans were given rations of flour and lard, which became frybread; today frybread tacos are the canonical Southwestern Native American food, served at every Pueblo feast day, every Navajo Nation gathering, and every state fair across the Southwest. Frybread, not tortilla, is the base. The taco is open-face; toppings sit on top, the bread is never folded. Multiple toppings are the point.
+Navajo tacos (or "Indian tacos", "frybread tacos") are the iconic Native American Southwest dish, particularly associated with the Navajo Nation and the Pueblo peoples of New Mexico and Arizona: a piece of warm Navajo frybread (the traditional Native American fried bread - a yeasted-or-soda-leavened flour dough rolled into a round and deep-fried till puffed golden) topped with seasoned ground beef (cooked with onion, garlic, chili powder, cumin), pinto beans (or refried), shredded iceberg lettuce, diced tomato, grated cheddar, sour cream, sliced jalapeños and salsa. The dish has roots in the dark history of the Navajo Long Walk (1864) when displaced Native Americans were given rations of flour and lard, which became frybread; today frybread tacos are the traditional Southwestern Native American food, served at every Pueblo feast day, every Navajo Nation gathering, and every state fair across the Southwest. Frybread, not tortilla, is the base. The taco is open-face; toppings sit on top, the bread is never folded. Multiple toppings are the point.
 
 ## Ingredients
 
@@ -80,11 +80,11 @@ Navajo tacos (or "Indian tacos", "frybread tacos") are the iconic Native America
 6. Lime wedges on the side.
 
 ## Notes
-- **Frybread, not tortilla:** the canonical base.
+- **Frybread, not tortilla:** the traditional base.
 - **Open-face:** toppings on top, not folded.
 - **Multiple toppings:** abundance is the point.
 - **Fry frybread fresh:** essential for proper texture.
-- **Iceberg lettuce:** the canonical crunch.
+- **Iceberg lettuce:** the traditional crunch.
 
 ## Variations
 **Vegetarian:** skip the beef; double the pinto beans + add black beans.

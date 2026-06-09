@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A puff-pastry plait built around a thick pecan filling: chopped pecans bound with brown sugar, melted butter, golden syrup, egg yolk and a splash of bourbon. The pastry is rolled into a long rectangle with the filling spread down the centre third. The two long sides are then cut into diagonal strips and folded over alternately to form the plaited top. Egg-washed, baked till deep golden, glazed with warm sieved apricot jam to set the colour and drizzled with a thin water icing across the centre.
+Pecan nut pastry plait is the bakery-window pastry that looks complicated and isn't, built around a thick American-South-leaning pecan filling that channels the same flavour as pecan pie but in a flaky pastry parcel rather than a pie shell. The filling is chopped pecans bound with brown sugar, melted butter, golden syrup, egg yolk and a splash of bourbon, and the bourbon is the small detail that pushes the flavour from sweet-nutty into something more grown-up. The plait shape is the traditional bakery-counter finish; the pastry rolls into a long rectangle, the filling spreads down the centre third, and the two long sides cut into diagonal strips that fold over alternately to form the plaited top. Egg-washed before the bake for the deep golden colour, then glazed warm from the oven with sieved apricot jam to set the shine, and finished with a thin water-icing drizzle across the centre for the traditional bakery look. Slice on the diagonal and eat with mid-morning coffee.
 
 ## Ingredients
 

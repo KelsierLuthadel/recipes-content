@@ -2,7 +2,7 @@
 
 ![Halwa Tahini](resources/halwa-tahini.jpg)
 
-*The Iraqi tahini halva: sesame paste set with hot sugar syrup, perfumed with cardamom and rose water, studded with whole pistachios. Eaten in small slabs.*
+*The Iraqi tahini halva: sesame paste set with hot sugar syrup, perfumed with cardamom and rose water, studded with whole pistachios. Eat in small slabs.*
 
 **Serves:** 12 (makes about 700 g; a 20 cm square block)
 

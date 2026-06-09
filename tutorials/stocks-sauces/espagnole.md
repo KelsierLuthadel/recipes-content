@@ -115,5 +115,5 @@ Fridge: 5 days. Freezer: 6 months.
 - [Bechamel](bechamel.md): the white mother sauce.
 - [Veloute](veloute.md): the blond mother sauce.
 - [Hollandaise](hollandaise.md): the emulsion mother sauce.
-- Espagnole recipe: canonical recipe.
+- Espagnole recipe: traditional recipe.
 - [Stocks-Sauces Course landing](stocks-sauces.md): back to the main course.

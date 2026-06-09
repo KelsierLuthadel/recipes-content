@@ -2,7 +2,7 @@
 
 ![Mondongo](resources/mondongo.jpg)
 
-*Colombia's tripe soup: honeycomb tripe slow-cooked with chorizo, beef ribs, hogao, plantain, potato, yuca, corn, carrot and the canonical Colombian "guisado" base till everything is fork-tender and the broth thickens to a deeply savoury orange stew. The Antioqueño hangover-cure classic, served in deep bowls with avocado, banana, rice and arepa on the side.*
+*Colombia's tripe soup: honeycomb tripe slow-cooked with chorizo, beef ribs, hogao, plantain, potato, yuca, corn, carrot and the traditional Colombian "guisado" base till everything is fork-tender and the broth thickens to a deeply savoury orange stew. The Antioqueño hangover-cure classic, served in deep bowls with avocado, banana, rice and arepa on the side.*
 
 **Serves:** 6-8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours 30 minutes
 
 ## Overview
-Mondongo is one of Colombia's most beloved soup-stews and the canonical Antioqueño paisa-region tripe specialty. Honeycomb tripe is first thoroughly cleaned, blanched and pre-cooked in flavoured water till tender (the labour-intensive step; skipping it gives a rubbery off-tasting soup), then slow-cooked with chorizo, beef ribs, the canonical Colombian hogao, cubed plantain, potato, cassava, corn on the cob, carrot and a generous handful of fresh coriander till everything is fork-tender and the broth thickens to a deeply savoury orange stew. The dish has a serious reputation across Colombia as Sunday family food and as the canonical hangover cure; paisas swear by it. Served in deep bowls with sliced avocado and sliced banana on top (yes, banana, the Colombian twist), with plain white rice on the side and a fresh arepa for mopping. The banana-avocado finish is what distinguishes Colombian mondongo from a Spanish callos.
+Mondongo is one of Colombia's most beloved soup-stews and the traditional Antioqueño paisa-region tripe specialty. Honeycomb tripe is first thoroughly cleaned, blanched and pre-cooked in flavoured water till tender (the labour-intensive step; skipping it gives a rubbery off-tasting soup), then slow-cooked with chorizo, beef ribs, the traditional Colombian hogao, cubed plantain, potato, cassava, corn on the cob, carrot and a generous handful of fresh coriander till everything is fork-tender and the broth thickens to a deeply savoury orange stew. The dish has a serious reputation across Colombia as Sunday family food and as the traditional hangover cure; paisas swear by it. Served in deep bowls with sliced avocado and sliced banana on top (yes, banana, the Colombian twist), with plain white rice on the side and a fresh arepa for mopping. The banana-avocado finish is what distinguishes Colombian mondongo from a Spanish callos.
 
 ## Ingredients
 
@@ -65,7 +65,7 @@ Mondongo is one of Colombia's most beloved soup-stews and the canonical Antioque
 - Plain white rice
 - Arepas
 - Sliced avocado
-- Sliced ripe banana (the canonical Colombian touch)
+- Sliced ripe banana (the traditional Colombian touch)
 - Ají picante
 - Lime wedges
 
@@ -116,19 +116,19 @@ Mondongo is one of Colombia's most beloved soup-stews and the canonical Antioque
 
 ## Notes
 - **Clean the tripe properly:** lemon-salt scrub, multiple rinses, then 90-minute pre-cook. Skipping gives off-flavours.
-- **Multiple meats are canonical:** tripe + beef ribs + chorizo for proper depth.
+- **Multiple meats are traditional:** tripe + beef ribs + chorizo for proper depth.
 - **The banana topping:** the Colombian touch. Sounds odd, works beautifully - sweet creamy banana against the savoury soup.
 - **Don't lift the lid much:** the long simmer needs covered conditions.
 - **Make a day ahead:** mondongo is famously better the next day. Make ahead and reheat.
 
 ## Variations
-**Without tripe (vegetarian-friendlier):** swap the tripe for double the beef ribs and 200 g of mushrooms; less canonical but accessible.
+**Without tripe (vegetarian-friendlier):** swap the tripe for double the beef ribs and 200 g of mushrooms; less traditional but accessible.
 **Antioqueño-style with pig's feet:** add 2 pig's feet to the meat in stage 2; gives an even richer broth.
 **Spicier:** add 2 chopped fresh chillies to the base; properly paisa.
 **Without yuca:** skip the cassava; use extra potatoes; common variation.
 
 ## Serving
-In deep bowls at the centre of a Sunday family table. White rice, arepa, avocado, banana, lime, ají. Drink: Club Colombia beer, agua de panela (panela water), or aguardiente. As a Sunday lunch or the canonical hangover cure on a Sunday morning.
+In deep bowls at the centre of a Sunday family table. White rice, arepa, avocado, banana, lime, ají. Drink: Club Colombia beer, agua de panela (panela water), or aguardiente. As a Sunday lunch or the traditional hangover cure on a Sunday morning.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens significantly overnight.

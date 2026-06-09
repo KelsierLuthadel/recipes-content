@@ -2,7 +2,7 @@
 
 ![Stacked Red Enchiladas](resources/stacked-red-enchiladas.jpg)
 
-*New Mexico's signature enchilada style: layers of corn tortillas, red chile sauce, shredded chicken (or beef), grated cheddar and Monterey Jack, stacked flat (not rolled) and baked till bubbly. Topped with a fried egg in the canonical New Mexican style; "Christmas style" if served with both red AND green chile.*
+*New Mexico's signature enchilada style: layers of corn tortillas, red chile sauce, shredded chicken (or beef), grated cheddar and Monterey Jack, stacked flat (not rolled) and baked till bubbly. Topped with a fried egg in the traditional New Mexican style; "Christmas style" if served with both red AND green chile.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Stacked red enchiladas is the canonical New Mexican enchilada style, distinct from the Mexican rolled version: layers of corn tortillas (briefly heated in oil to make pliable), red chile sauce (made from rehydrated dried New Mexico red chiles blended with garlic, oregano and cumin), shredded chicken (or beef, or just cheese for vegetarian), grated cheddar and Monterey Jack, stacked flat in 3-4 layers, baked till the cheese melts and the dish is bubbling. Topped with a fried egg (sunny-side up) for the canonical New Mexican presentation. If served with both red AND green chile sauces on the same plate, it's called "Christmas style".
+Stacked red enchiladas is the traditional New Mexican enchilada style, distinct from the Mexican rolled version: layers of corn tortillas (briefly heated in oil to make pliable), red chile sauce (made from rehydrated dried New Mexico red chiles blended with garlic, oregano and cumin), shredded chicken (or beef, or just cheese for vegetarian), grated cheddar and Monterey Jack, stacked flat in 3-4 layers, baked till the cheese melts and the dish is bubbling. Topped with a fried egg (sunny-side up) for the traditional New Mexican presentation. If served with both red AND green chile sauces on the same plate, it's called "Christmas style".
 
 ## Ingredients
 

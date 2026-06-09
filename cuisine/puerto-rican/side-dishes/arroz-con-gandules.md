@@ -2,7 +2,7 @@
 
 ![Arroz con Gandules](resources/arroz-con-gandules.jpg)
 
-*Puerto Rico's national rice: medium-grain rice cooked with pigeon peas, sofrito, achiote-tinted broth, smoked ham or pork shoulder, olives and capers till the grains absorb the savoury broth and turn deep orange-yellow. The unofficial national dish of Puerto Rico, the canonical rice for every Boricua holiday and family meal.*
+*Puerto Rico's national rice: medium-grain rice cooked with pigeon peas, sofrito, achiote-tinted broth, smoked ham or pork shoulder, olives and capers till the grains absorb the savoury broth and turn deep orange-yellow. The unofficial national dish of Puerto Rico, the traditional rice for every Boricua holiday and family meal.*
 
 **Serves:** 6-8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Arroz con gandules ("rice with pigeon peas") is Puerto Rico's unofficial national dish and the canonical rice that accompanies every Boricua holiday feast, every family gathering, every Sunday lunch. Medium-grain rice cooks in a base of sofrito, sazón, achiote-infused oil, tomato sauce, smoked ham or pork shoulder, pitted green olives, capers and the canonical gandules (pigeon peas; sold canned at Caribbean and Latin markets, sometimes fresh in season). The whole pot simmers together until the rice has absorbed the broth and the grains turn tender and properly orange-yellow throughout. The pigeon peas are non-negotiable; the dish is literally named for them. The smoked pork gives depth and is the canonical addition, though vegetarian versions skip it and lean harder on the sofrito and sazón. Eaten alongside pernil, pollo guisado, carne guisada or any Boricua main, or even on its own with a fried egg on top as a comforting one-bowl meal.
+Arroz con gandules ("rice with pigeon peas") is Puerto Rico's unofficial national dish and the traditional rice that accompanies every Boricua holiday feast, every family gathering, every Sunday lunch. Medium-grain rice cooks in a base of sofrito, sazón, achiote-infused oil, tomato sauce, smoked ham or pork shoulder, pitted green olives, capers and the traditional gandules (pigeon peas; sold canned at Caribbean and Latin markets, sometimes fresh in season). The whole pot simmers together until the rice has absorbed the broth and the grains turn tender and properly orange-yellow throughout. The pigeon peas are non-negotiable; the dish is literally named for them. The smoked pork gives depth and is the traditional addition, though vegetarian versions skip it and lean harder on the sofrito and sazón. Eat alongside pernil, pollo guisado, carne guisada or any Boricua main, or even on its own with a fried egg on top as a comforting one-bowl meal.
 
 ## Ingredients
 
@@ -85,7 +85,7 @@ Arroz con gandules ("rice with pigeon peas") is Puerto Rico's unofficial nationa
 6. Sliced avocado and lime wedges alongside.
 
 ## Notes
-- **Sofrito + sazón:** the canonical PR seasoning duo. Don't skip; substitute if needed.
+- **Sofrito + sazón:** the traditional PR seasoning duo. Don't skip; substitute if needed.
 - **Pigeon peas (gandules) are essential:** the dish is named for them. Canned is fine; dried pre-cooked is better.
 - **The smoked pork gives depth:** if vegetarian, skip the meat but add an extra tablespoon of sazón and an extra splash of olive oil.
 - **Don't lift the lid:** the rice cooks by absorption-and-steam. 22-25 minutes covered, then 10 minutes resting.

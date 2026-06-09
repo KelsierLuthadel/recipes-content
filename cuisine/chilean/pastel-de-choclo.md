@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Chile's summer corn cake, the layered casserole made when fresh sweetcorn is at its peak and the asado has yielded leftover meat. You cook the pino first: onions softened slowly with cumin, paprika and oregano, beef mince browned in, raisins and olives folded through with a splash of stock to keep it moist. Chicken pieces poach separately and shred. The corn topping is the star: fresh sweetcorn (or a kabocha-corn mix in winter) blends with milk, butter and fresh basil into a thick batter. Layer in clay dishes (or one large baking dish): pino, shredded chicken, hard-boiled egg slices, corn batter poured over the top. A heavy dust of sugar finishes it, which caramelises under the grill into a sweet crusted top. Eaten with ensalada chilena on the side and a glass of red wine.
+Chile's summer corn cake, the layered casserole made when fresh sweetcorn is at its peak and the asado has yielded leftover meat. You cook the pino first: onions softened slowly with cumin, paprika and oregano, beef mince browned in, raisins and olives folded through with a splash of stock to keep it moist. Chicken pieces poach separately and shred. The corn topping is the star: fresh sweetcorn (or a kabocha-corn mix in winter) blends with milk, butter and fresh basil into a thick batter. Layer in clay dishes (or one large baking dish): pino, shredded chicken, hard-boiled egg slices, corn batter poured over the top. A heavy dust of sugar finishes it, which caramelises under the grill into a sweet crusted top. Eat with ensalada chilena on the side and a glass of red wine.
 
 ## Ingredients
 

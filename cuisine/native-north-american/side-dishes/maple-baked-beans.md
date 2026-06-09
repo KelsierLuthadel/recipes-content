@@ -11,7 +11,7 @@
 **Cook Time:** 5 hours
 
 ## Overview
-The Wabanaki and New England original baked-beans dish, the slow-cooked pot that lived in colonial Saturday-night ovens and Indigenous fire pits long before that: navy beans baked all day with maple syrup, salt pork and onion till the liquor reduces to a mahogany glaze and the top beans go dark and glossy. Pure maple syrup is non-negotiable; pancake syrup is corn syrup with brown colouring and ruins the dish, while real Grade A dark maple has the smoky-caramel depth from slow-boiled tree sap. The salt pork (or thick-cut smoked bacon) wants to be diced and scattered among the beans, not just laid on top. A bean crock is the traditional pot. Eaten with cornbread, frybread, grilled meat or alongside roast pork.
+The Wabanaki and New England original baked-beans dish, the slow-cooked pot that lived in colonial Saturday-night ovens and Indigenous fire pits long before that: navy beans baked all day with maple syrup, salt pork and onion till the liquor reduces to a mahogany glaze and the top beans go dark and glossy. Pure maple syrup is non-negotiable; pancake syrup is corn syrup with brown colouring and ruins the dish, while real Grade A dark maple has the smoky-caramel depth from slow-boiled tree sap. The salt pork (or thick-cut smoked bacon) wants to be diced and scattered among the beans, not just laid on top. A bean crock is the traditional pot. Eat with cornbread, frybread, grilled meat or alongside roast pork.
 
 ## Ingredients
 

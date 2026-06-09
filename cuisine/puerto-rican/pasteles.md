@@ -123,7 +123,7 @@ Pasteles is one of Puerto Rico's most iconic and elaborate holiday dishes, a Chr
 - **Make the filling the day before:** the filling needs to be thoroughly cooled and thickened before assembly. Make the day before; refrigerate.
 - **Green plantains and bananas:** properly green, hard, no yellow. Ripe ones will give a wrong-sweet masa.
 - **Grate, don't process:** the proper texture is finely grated, not pureed. A food processor can over-process; better to grate by hand or use the processor's grating disc.
-- **Banana leaves are canonical:** softened over flame or in boiling water briefly. Parchment paper alone gives a different (less aromatic) result; combination is OK.
+- **Banana leaves are traditional:** softened over flame or in boiling water briefly. Parchment paper alone gives a different (less aromatic) result; combination is OK.
 - **Make in family teams:** pasteles is a labour of love. Family pasteles-making sessions are part of the tradition. Assembly takes 2-3 hours with multiple people.
 
 ## Variations

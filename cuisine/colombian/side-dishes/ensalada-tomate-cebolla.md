@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Colombia's simplest and most pervasive table salad: thinly sliced ripe tomato, thinly sliced raw onion (red or white), chopped fresh coriander, dressed with olive oil, lime juice, salt and black pepper. That's the entire dish. No lettuce, no avocado, no embellishment beyond the canonical four ingredients. The salad anchors the Colombian plate the way kachumber anchors the Indian one or pico de gallo anchors the Mexican: a small bowl of fresh sharpness alongside whatever rich heavy main has come out of the kitchen (sancocho, posta negra, lechona, bandeja paisa). The dish lives or dies by tomato quality; greenhouse winter tomatoes give bland results, and the salad needs peak-season ripe tomatoes to taste like anything. Some Colombian cooks soak the raw onion in cold water for 10 minutes to mellow the sharpness; others leave it raw and assertive. Both are correct.
+Colombia's simplest and most pervasive table salad: thinly sliced ripe tomato, thinly sliced raw onion (red or white), chopped fresh coriander, dressed with olive oil, lime juice, salt and black pepper. That's the entire dish. No lettuce, no avocado, no embellishment beyond the traditional four ingredients. The salad anchors the Colombian plate the way kachumber anchors the Indian one or pico de gallo anchors the Mexican: a small bowl of fresh sharpness alongside whatever rich heavy main has come out of the kitchen (sancocho, posta negra, lechona, bandeja paisa). The dish lives or dies by tomato quality; greenhouse winter tomatoes give bland results, and the salad needs peak-season ripe tomatoes to taste like anything. Some Colombian cooks soak the raw onion in cold water for 10 minutes to mellow the sharpness; others leave it raw and assertive. Both are correct.
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ Colombia's simplest and most pervasive table salad: thinly sliced ripe tomato, t
 ## Notes
 - **Ripe tomatoes only:** the salad depends on tomato quality.
 - **Dress just before serving:** salt and lime leach moisture.
-- **No leaves:** the canonical Colombian ensalada has no lettuce.
+- **No leaves:** the traditional Colombian ensalada has no lettuce.
 - **Adjust onion soaking to taste:** sharp or mild.
 
 ## Variations

@@ -2,7 +2,7 @@
 
 ![Chimichurri](resources/chimichurri.jpg)
 
-*Argentina's national herb-and-oil condiment: a bright green sauce of finely chopped parsley, oregano, garlic, red chilli flakes, red wine vinegar and a generous slug of olive oil. Spooned over grilled meat at every asado, dolloped into choripán sandwiches, drizzled over provoleta, used as a marinade. The single most important Argentine condiment; the canonical green sauce of South America.*
+*Argentina's national herb-and-oil condiment: a bright green sauce of finely chopped parsley, oregano, garlic, red chilli flakes, red wine vinegar and a generous slug of olive oil. Spooned over grilled meat at every asado, dolloped into choripán sandwiches, drizzled over provoleta, used as a marinade. The single most important Argentine condiment; the traditional green sauce of South America.*
 
 **Serves:** Makes about 400 ml (enough for 8 servings of grilled meat)
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Chimichurri is Argentina's most important and most universally beloved condiment: a bright green herb-and-oil sauce that appears at every asado, dressing the canonical Argentine grilled meats. Fresh flat-leaf parsley is finely chopped (not blended), combined with dried oregano, garlic, ají molido (red chilli flakes), red wine vinegar, water, olive oil and salt, then rested for at least an hour so the flavours marry. Vivid green with red flecks of chilli, gently acidic, garlicky, herbal, with a slight peppery heat. Argentines have strong opinions about chimichurri. The parsley must be hand-chopped, not blended (a food processor purées it too fine). The vinegar must be red wine specifically, not white, not balsamic. Two regional variants exist: the Argentine standard, and the chimichurri rojo (with red bell pepper purée; more common in Uruguay and southern Brazil).
+Chimichurri is Argentina's most important and most universally beloved condiment: a bright green herb-and-oil sauce that appears at every asado, dressing the traditional Argentine grilled meats. Fresh flat-leaf parsley is finely chopped (not blended), combined with dried oregano, garlic, ají molido (red chilli flakes), red wine vinegar, water, olive oil and salt, then rested for at least an hour so the flavours marry. Vivid green with red flecks of chilli, gently acidic, garlicky, herbal, with a slight peppery heat. Argentines have strong opinions about chimichurri. The parsley must be hand-chopped, not blended (a food processor purées it too fine). The vinegar must be red wine specifically, not white, not balsamic. Two regional variants exist: the Argentine standard, and the chimichurri rojo (with red bell pepper purée; more common in Uruguay and southern Brazil).
 
 ## Ingredients
 
@@ -27,14 +27,14 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 - 1 teaspoon coarsely ground black pepper
 - 1 small bunch fresh oregano (optional; chopped - adds a fresh layer)
 - 1 small bunch fresh thyme (optional; chopped)
-- ½ teaspoon ground cumin (optional; less canonical but common)
+- ½ teaspoon ground cumin (optional; less traditional but common)
 
 ## Method
 
 ### Stage 1 - Chop the parsley
 1. Wash and thoroughly dry the parsley.
 2. Remove the thick stems (use the thinner stems).
-3. Chop FINELY by hand on a board - don't use a food processor (the canonical Argentine technique).
+3. Chop FINELY by hand on a board - don't use a food processor (the traditional Argentine technique).
 4. You want pieces about 2-3 mm; not paste.
 
 ### Stage 2 - Combine in a bowl
@@ -55,14 +55,14 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 
 ### Stage 5 - Serve
 1. Stir before serving (the oil separates).
-2. Spoon over grilled meat (the canonical Argentine use).
+2. Spoon over grilled meat (the traditional Argentine use).
 3. Drizzle over provoleta cheese.
 4. Spoon into choripán sandwiches.
 5. Use as a marinade for grilled chicken or fish.
 6. Use as a base for vinaigrettes.
 
 ## Notes
-- **Hand-chop the parsley:** the canonical Argentine technique. A food processor purées too fine.
+- **Hand-chop the parsley:** the traditional Argentine technique. A food processor purées too fine.
 - **Red wine vinegar:** not white, not balsamic. Red wine vinegar is non-negotiable.
 - **Olive oil:** use a decent extra-virgin. The flavour shows.
 - **Rest 1 hour minimum:** the flavour develops dramatically. Don't make and use immediately.
@@ -73,12 +73,12 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 **Chimichurri picante (spicy):** double the chilli flakes; add 1 fresh chopped chilli.
 **Chimichurri verde (green Mexican-style):** add chopped fresh coriander - non-Argentine but excellent.
 **Chimichurri criollo:** add ½ chopped tomato; semi-criollo (between chimichurri and salsa criolla).
-**Chimichurri with lemon zest:** add zest of 1 lemon - modern variant; non-canonical.
+**Chimichurri with lemon zest:** add zest of 1 lemon - modern variant; non-traditional.
 **Chimichurri butter:** mix 2 tablespoons of chimichurri into 60 g softened butter; serve as a compound butter on grilled steak.
 **Chimichurri aioli:** mix 4 tablespoons into 200 g mayonnaise - modern Argentine restaurant variant.
 
 ## Serving
-At every Argentine asado on every grilled cut of meat (the canonical setting) · in every choripán sandwich · on grilled provoleta · as a marinade for grilled chicken or fish · drizzled over avocado toast · alongside grilled vegetables · at home as a green-sauce-for-everything.
+At every Argentine asado on every grilled cut of meat (the traditional setting) · in every choripán sandwich · on grilled provoleta · as a marinade for grilled chicken or fish · drizzled over avocado toast · alongside grilled vegetables · at home as a green-sauce-for-everything.
 
 ## Storage
 - Refrigerates in a sealed jar for 2 weeks; the flavour improves over the first week.

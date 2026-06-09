@@ -2,7 +2,7 @@
 
 ![Kerabu Kacang Botol](resources/kerabu.jpg)
 
-*A Malay raw salad: winged beans dressed with toasted coconut, chilli, lime and fish sauce. Eaten next to grilled fish at a kampung table.*
+*A Malay raw salad: winged beans dressed with toasted coconut, chilli, lime and fish sauce. Eat next to grilled fish at a kampung table.*
 
 **Serves:** 4 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-The Malay raw salad and a kampung (village) staple from the Malay peninsula: thinly sliced winged beans (kacang botol, the Southeast Asian four-edged green bean) tossed with kerisik (toasted grated coconut pounded into a fragrant brown paste), dried shrimp, fresh herbs and a sharp chilli-lime-fish-sauce dressing. Eaten next to grilled fish, ayam percik or a bowl of nasi lemak as the bright sharp counterpoint to richer cooked dishes. Kerisik is the heart of the dish: freshly grated coconut dry-toasted in a pan till deep brown and pounded in a mortar till the oils release into a fragrant paste, which gives the salad its smoky sweet backbone and binds the dressing to the vegetables. Winged beans are sold at any Southeast Asian grocer; green beans or French beans substitute outside Malaysia but the dish loses some of its proper character. Eaten the day it's made.
+The Malay raw salad and a kampung (village) staple from the Malay peninsula: thinly sliced winged beans (kacang botol, the Southeast Asian four-edged green bean) tossed with kerisik (toasted grated coconut pounded into a fragrant brown paste), dried shrimp, fresh herbs and a sharp chilli-lime-fish-sauce dressing. Eat next to grilled fish, ayam percik or a bowl of nasi lemak as the bright sharp counterpoint to richer cooked dishes. Kerisik is the heart of the dish: freshly grated coconut dry-toasted in a pan till deep brown and pounded in a mortar till the oils release into a fragrant paste, which gives the salad its smoky sweet backbone and binds the dressing to the vegetables. Winged beans are sold at any Southeast Asian grocer; green beans or French beans substitute outside Malaysia but the dish loses some of its proper character. Eat the day it's made.
 
 ## Ingredients
 

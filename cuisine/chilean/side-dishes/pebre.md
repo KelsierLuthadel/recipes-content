@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Chile's table salsa, the fresh chunky relish that turns up in a small bowl next to bread before any meal and stays on the table until everything is gone. You chop tomato, onion and coriander fine (smaller than a chopped salad, almost a relish), then combine with crushed garlic, ají chilli (or red chilli if ají isn't around), olive oil, vinegar or lemon, salt and pepper. Fold gently and let sit for ten minutes so the flavours mingle. Eaten with fresh bread before a meal, spooned over grilled meat, alongside empanadas, with chorrillana, with cazuela. Basically with anything savoury that comes out of a Chilean kitchen.
+Chile's table salsa, the fresh chunky relish that turns up in a small bowl next to bread before any meal and stays on the table until everything is gone. You chop tomato, onion and coriander fine (smaller than a chopped salad, almost a relish), then combine with crushed garlic, ají chilli (or red chilli if ají isn't around), olive oil, vinegar or lemon, salt and pepper. Fold gently and let sit for ten minutes so the flavours mingle. Eat with fresh bread before a meal, spooned over grilled meat, alongside empanadas, with chorrillana, with cazuela. Basically with anything savoury that comes out of a Chilean kitchen.
 
 ## Ingredients
 

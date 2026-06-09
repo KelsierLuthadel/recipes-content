@@ -2,7 +2,7 @@
 
 ![Maraq Digaag](resources/maraq-digaag.jpg)
 
-*Somalia's chicken stew: bone-in chicken pieces simmered in a fragrant broth of xawaash, tomato, onion, garlic and ginger, finished with chopped coriander and lemon. Eaten with anjero or basmati rice, the everyday Somali main that turns up in every household kitchen.*
+*Somalia's chicken stew: bone-in chicken pieces simmered in a fragrant broth of xawaash, tomato, onion, garlic and ginger, finished with chopped coriander and lemon. Eat with anjero or basmati rice, the everyday Somali main that turns up in every household kitchen.*
 
 **Serves:** 4-6
 

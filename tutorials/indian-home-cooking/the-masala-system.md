@@ -36,7 +36,7 @@ Common Indian whole spices and their roles:
 - **Black peppercorn (kali mirch)** - sharp, biting. Used whole in slow stews.
 - **Dried red chilli (sukha mirch)** - heat + smoke; usually broken open and added with mustard seeds at the start.
 - **Asafoetida (hing)** - pungent, almost garlicky. A pinch at the start of a tarka.
-- **Curry leaves (kadhi patta)** - citrus-herbal, aromatic. Sizzled briefly in hot oil; canonical in South Indian.
+- **Curry leaves (kadhi patta)** - citrus-herbal, aromatic. Sizzled briefly in hot oil; traditional in South Indian.
 
 ## Ground spices and when to add
 
@@ -55,7 +55,7 @@ Common Indian ground spices:
 
 ## Garam masala
 
-The most-famous Indian spice blend. Literally "warm masala" - the spices that warm the body. There are dozens of regional and household variants, but a canonical North Indian garam masala contains:
+The most-famous Indian spice blend. Literally "warm masala" - the spices that warm the body. There are dozens of regional and household variants, but a traditional North Indian garam masala contains:
 
 - Coriander seed
 - Cumin seed
@@ -84,7 +84,7 @@ In equal parts. Used whole, never ground. The mix is sizzled in mustard oil at t
 
 ## Sambar powder (the South Indian)
 
-Sambar powder is the masala for the canonical South Indian dal-and-vegetable stew "sambar". It contains:
+Sambar powder is the masala for the traditional South Indian dal-and-vegetable stew "sambar". It contains:
 
 - Coriander seed
 - Cumin seed
@@ -118,6 +118,6 @@ This is the foundation. Most North Indian dishes start with this.
 7. Add the ground spices: 1 teaspoon turmeric, 1 teaspoon coriander powder, 1 teaspoon cumin powder, 1 teaspoon chilli powder (or to taste).
 8. Add 2 tablespoons of water to prevent the spices burning; cook 2-3 minutes until the masala is glossy and the oil starts to separate from the spice paste.
 
-This is the canonical North Indian "onion masala" base. Add chicken, lamb, paneer, vegetables, or chickpeas, and it becomes a curry. Add ground meat, it's keema. Add yogurt + cream, it's a tikka masala / butter chicken style. Add ghee + cream + tomato → makhani. The variation comes from the protein and the finishing touches, but the base is the same.
+This is the traditional North Indian "onion masala" base. Add chicken, lamb, paneer, vegetables, or chickpeas, and it becomes a curry. Add ground meat, it's keema. Add yogurt + cream, it's a tikka masala / butter chicken style. Add ghee + cream + tomato → makhani. The variation comes from the protein and the finishing touches, but the base is the same.
 
 The next page covers tarka - the related but distinct technique of finishing a dish (especially a dal) with a sizzling spice-and-fat shower.

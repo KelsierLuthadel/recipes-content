@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Ribollita (literally "reboiled", referring to the way leftover Tuscan vegetable soup is reheated with stale bread to create a new dish) is one of Italy's most iconic rural soups and the canonical Tuscan winter centrepiece: dried cannellini beans soaked overnight, slow-cooked into a thick vegetable soup with cavolo nero (Tuscan kale), Savoy cabbage, carrots, celery, onion, garlic, tomato and rosemary. The next day the soup is layered in a baking dish with thick slices of stale Tuscan bread (the unsalted pane sciocco) and reheated together till the bread breaks down into the soup, creating a thick, almost spoonable mass. Served with a generous drizzle of olive oil, a grating of Parmesan and fresh black pepper. A cornerstone of cucina povera; the reboiling with bread is the canonical step, not a garnish. Cannellini from dried gives the deepest result; cavolo nero is essential (curly kale or Savoy cabbage substitute).
+Ribollita (literally "reboiled", referring to the way leftover Tuscan vegetable soup is reheated with stale bread to create a new dish) is one of Italy's most iconic rural soups and the traditional Tuscan winter centrepiece: dried cannellini beans soaked overnight, slow-cooked into a thick vegetable soup with cavolo nero (Tuscan kale), Savoy cabbage, carrots, celery, onion, garlic, tomato and rosemary. The next day the soup is layered in a baking dish with thick slices of stale Tuscan bread (the unsalted pane sciocco) and reheated together till the bread breaks down into the soup, creating a thick, almost spoonable mass. Served with a generous drizzle of olive oil, a grating of Parmesan and fresh black pepper. A cornerstone of cucina povera; the reboiling with bread is the traditional step, not a garnish. Cannellini from dried gives the deepest result; cavolo nero is essential (curly kale or Savoy cabbage substitute).
 
 ## Ingredients
 
@@ -106,15 +106,15 @@ Ribollita (literally "reboiled", referring to the way leftover Tuscan vegetable 
 4. Serve hot.
 
 ## Notes
-- **Dried cannellini beans:** the Tuscan canonical.
+- **Dried cannellini beans:** the Tuscan traditional.
 - **Cavolo nero:** essential Tuscan kale; substitute with curly kale.
 - **Stale bread:** essential.
 - **Two-day approach:** the "reboiling" is the point.
 - **Generous olive oil at the end:** Tuscan signature.
 
 ## Variations
-**With pancetta:** add 100 g of diced pancetta to the soffritto; less canonical but common.
-**Quicker single-day version:** make the soup; add bread in the last 30 minutes; eat the same day. Less canonical.
+**With pancetta:** add 100 g of diced pancetta to the soffritto; less traditional but common.
+**Quicker single-day version:** make the soup; add bread in the last 30 minutes; eat the same day. Less traditional.
 **With Parmesan rind:** add a Parmesan rind to the simmering soup; gives deep umami.
 **Without potatoes:** purist Tuscan version skips potatoes; the bread is the carb.
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The original katsu, with chicken coming along later: thick pork loin steaks panko-crumbed and shallow-fried till the crust shatters, served sliced with shredded white cabbage and a sweet-tangy katsu sauce. The surface of each steak gets a shallow cross-hatch on both sides so the rim of fat doesn't curl in the pan. Medium heat is the rule; panko burns at high heat before the pork cooks. Pull the pork at 62°C in the centre; modern pork is safe there, and anything past it turns to boot leather. Sliced on the diagonal into 2 cm strips, plated with short-grain rice and very finely shredded cabbage, drizzled with a quick sauce of Worcestershire, ketchup, soy, sugar and a dab of Dijon. Eaten while the crust still snaps.
+The original katsu, with chicken coming along later: thick pork loin steaks panko-crumbed and shallow-fried till the crust shatters, served sliced with shredded white cabbage and a sweet-tangy katsu sauce. The surface of each steak gets a shallow cross-hatch on both sides so the rim of fat doesn't curl in the pan. Medium heat is the rule; panko burns at high heat before the pork cooks. Pull the pork at 62°C in the centre; modern pork is safe there, and anything past it turns to boot leather. Sliced on the diagonal into 2 cm strips, plated with short-grain rice and very finely shredded cabbage, drizzled with a quick sauce of Worcestershire, ketchup, soy, sugar and a dab of Dijon. Eat while the crust still snaps.
 
 ## Ingredients
 

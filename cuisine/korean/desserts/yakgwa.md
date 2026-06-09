@@ -2,7 +2,7 @@
 
 ![Yakgwa](resources/yakgwa.jpg)
 
-*Korea's royal cookie: a sesame-oil-and-honey dough deep-fried golden, then soaked in a rice-syrup-and-ginger glaze. Eaten at Seollal.*
+*Korea's royal cookie: a sesame-oil-and-honey dough deep-fried golden, then soaked in a rice-syrup-and-ginger glaze. Eat at Seollal.*
 
 **Serves:** Makes 20-24 cookies
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Korea's royal cookie, served at Seollal (Lunar New Year) and Chuseok (autumn harvest), the kind of small honeyed sweet to reach for between cups of strong barley tea. A sesame-oil-and-honey dough deep-fried in two stages and soaked warm-into-warm in a ginger-and-cinnamon honey syrup till it tastes like the syrup itself. The shortcrust technique is the canonical method; sesame oil rubbed into flour with no kneading, because developed yakgwa dough goes tough and the proper texture is sandy and shortbready. The two-stage fry is non-negotiable; straight high-heat browns the outside before the inside cooks and gives raw-centred yakgwa, while the gentle first fry sets the centres before the second fry bronzes the surface. Honey, rice syrup, sliced ginger and a cinnamon stick for the soaking syrup; warm cookies into warm syrup so both meet at the same temperature and the cookies drink the syrup in. Finished with chopped pine nuts and sesame seeds scattered across the still-glossy tops.
+Korea's royal cookie, served at Seollal (Lunar New Year) and Chuseok (autumn harvest), the kind of small honeyed sweet to reach for between cups of strong barley tea. A sesame-oil-and-honey dough deep-fried in two stages and soaked warm-into-warm in a ginger-and-cinnamon honey syrup till it tastes like the syrup itself. The shortcrust technique is the traditional method; sesame oil rubbed into flour with no kneading, because developed yakgwa dough goes tough and the proper texture is sandy and shortbready. The two-stage fry is non-negotiable; straight high-heat browns the outside before the inside cooks and gives raw-centred yakgwa, while the gentle first fry sets the centres before the second fry bronzes the surface. Honey, rice syrup, sliced ginger and a cinnamon stick for the soaking syrup; warm cookies into warm syrup so both meet at the same temperature and the cookies drink the syrup in. Finished with chopped pine nuts and sesame seeds scattered across the still-glossy tops.
 
 ## Ingredients
 

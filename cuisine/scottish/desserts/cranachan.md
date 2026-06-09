@@ -11,12 +11,12 @@
 **Cook Time:** 5 minutes (oat toasting)
 
 ## Overview
-Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland's most distinctive and most universally loved dessert. The roots are agricultural: a harvest-celebration dish made when the raspberries ripened in late summer and crofters had fresh cream from their cows, oatmeal from the threshing and honey from the heather. The construction is five clean layers in a tall glass: toasted pinhead oatmeal (not rolled oats, and pan-toasted till golden and nutty), lightly sweetened whipped cream, fresh raspberries, heather honey and a generous slug of single-malt Scotch. Highland or Speyside whisky works best; heavily peated Islays will dominate everything else if you let them. Assemble just before serving so the oatmeal stays crisp against the cream. The canonical Burns Night dessert finale, and a beautiful thing to set in front of guests at the end of any good meal.
+Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland's most distinctive and most universally loved dessert. The roots are agricultural: a harvest-celebration dish made when the raspberries ripened in late summer and crofters had fresh cream from their cows, oatmeal from the threshing and honey from the heather. The construction is five clean layers in a tall glass: toasted pinhead oatmeal (not rolled oats, and pan-toasted till golden and nutty), lightly sweetened whipped cream, fresh raspberries, heather honey and a generous slug of single-malt Scotch. Highland or Speyside whisky works best; heavily peated Islays will dominate everything else if you let them. Assemble just before serving so the oatmeal stays crisp against the cream. The traditional Burns Night dessert finale, and a beautiful thing to set in front of guests at the end of any good meal.
 
 ## Ingredients
 
 ### For 6 generous glasses
-- 60 g pinhead oatmeal (steel-cut oats; the canonical Scottish cut)
+- 60 g pinhead oatmeal (steel-cut oats; the traditional Scottish cut)
 - 400 ml double cream (very cold)
 - 60 g icing sugar (sifted)
 - 4 tablespoons heather honey (or other good runny honey)
@@ -82,23 +82,23 @@ Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland'
 4. Pair with a small dram of the same whisky alongside.
 
 ## Notes
-- **Pinhead oatmeal toasted DRY:** the canonical Scottish cut. Rolled oats won't have the same crunch. Don't toast in butter - dry pan only.
+- **Pinhead oatmeal toasted DRY:** the traditional Scottish cut. Rolled oats won't have the same crunch. Don't toast in butter - dry pan only.
 - **Fresh raspberries are essential:** the slight tartness balances the cream and honey. Frozen is acceptable in winter but Scottish-grown Tayside raspberries are the ideal.
-- **Heather honey is canonical:** any runny honey works, but heather honey has the floral edge that distinguishes Scottish cranachan from generic versions.
+- **Heather honey is traditional:** any runny honey works, but heather honey has the floral edge that distinguishes Scottish cranachan from generic versions.
 - **Don't whip the cream stiff:** soft peaks. The cream should flow softly over the oats, not sit on top in stiff blobs.
 - **Assemble JUST before serving:** the toasted oats go soft within 20-30 minutes. Don't make this 2 hours ahead.
 
 ## Variations
 **Cream-crowdie variant:** fold 100 g crowdie cheese into the whipped cream - adds a tangy edge.
 **Brambleberry cranachan (autumn):** swap raspberries for fresh brambles (blackberries) - the autumn variant when raspberry season ends.
-**Strawberry cranachan (summer):** swap raspberries for halved strawberries - softer, sweeter; less canonical.
+**Strawberry cranachan (summer):** swap raspberries for halved strawberries - softer, sweeter; less traditional.
 **Drambuie cranachan:** swap the Scotch for Drambuie (Scotch + honey + herbs liqueur) - sweeter, more aromatic.
 **Atholl Brose cranachan:** add a tablespoon of Atholl Brose (oat-infused whisky-honey) to the cream - adds depth.
 **Layered as a trifle:** make in a large trifle dish for the centrepiece version (assemble just before serving still).
 **Mini cranachans in shot glasses:** for a canapé-style party; same ingredients, tiny portions.
 
 ## Serving
-At Burns Night as the dessert finale (the canonical setting) · at Saint Andrew's Day (30 November) supper · at a Highland wedding dessert table · at a Scottish summer garden party in raspberry season (July-August) · at a Hogmanay buffet · at home as a Saturday-evening dinner-party dessert · alongside coffee and a dram after a Sunday roast.
+At Burns Night as the dessert finale (the traditional setting) · at Saint Andrew's Day (30 November) supper · at a Highland wedding dessert table · at a Scottish summer garden party in raspberry season (July-August) · at a Hogmanay buffet · at home as a Saturday-evening dinner-party dessert · alongside coffee and a dram after a Sunday roast.
 
 ## Storage
 - Best eaten immediately after assembly (the toasted oats lose crisp within 20-30 minutes).

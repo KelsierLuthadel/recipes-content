@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-The British Sunday lunch, the meal that anchors the week for any household that still observes it. You rub a 1.6 kg bird with herb butter pushed under the skin, roast it hot for fifteen minutes to crisp the skin, then drop the temperature to finish through gently. The components time off the chicken's resting period: roast potatoes parboil and rough up before going into hot goose fat, Yorkshire puddings rise in screaming-hot tins of dripping, pan juices deglaze into gravy, peas warm at the last minute. The chicken comes out of the oven first, rests under a foil tent for fifteen minutes while everything else times in, then carves at the table while someone else stirs the gravy. Eaten slowly, with horseradish or a wedge of lemon on the side, and seconds expected.
+The British Sunday lunch, the meal that anchors the week for any household that still observes it. You rub a 1.6 kg bird with herb butter pushed under the skin, roast it hot for fifteen minutes to crisp the skin, then drop the temperature to finish through gently. The components time off the chicken's resting period: roast potatoes parboil and rough up before going into hot goose fat, Yorkshire puddings rise in screaming-hot tins of dripping, pan juices deglaze into gravy, peas warm at the last minute. The chicken comes out of the oven first, rests under a foil tent for fifteen minutes while everything else times in, then carves at the table while someone else stirs the gravy. Eat slowly, with horseradish or a wedge of lemon on the side, and seconds expected.
 
 ## Ingredients
 

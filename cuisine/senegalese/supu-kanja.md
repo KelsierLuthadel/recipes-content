@@ -2,7 +2,7 @@
 
 ![Supu Kanja](resources/supu-kanja.jpg)
 
-*Senegal's okra stew: finely sliced fresh okra simmered with smoked fish, palm oil, onion, tomato, leafy greens and Scotch bonnet till the stew goes thick and properly slippery. Eaten over millet couscous or rice across Senegal, Gambia and Casamance.*
+*Senegal's okra stew: finely sliced fresh okra simmered with smoked fish, palm oil, onion, tomato, leafy greens and Scotch bonnet till the stew goes thick and properly slippery. Eat over millet couscous or rice across Senegal, Gambia and Casamance.*
 
 **Serves:** 6
 

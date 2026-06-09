@@ -65,7 +65,7 @@ If you don't have a mortar, you can use a small food processor: pulse the chilli
 - **Mortar-pounded for proper depth:** a mortar releases chilli oils in a way blender blades don't. The resulting relish has more layered flavour. A food processor works in a pinch but the texture and depth are less.
 - **Cheese is non-negotiable:** Bhutanese ezay almost always includes a small amount of cheese; this is what makes it distinct from a generic chilli salsa. Feta substitutes well for the proper Bhutanese chhurpi; fresh ricotta is creamier; cottage cheese works but adds less character.
 - **Eat fresh:** ezay is meant to be made fresh and eaten within 2-3 days. The flavour changes as it sits (chillies grow hotter, tomato breaks down, herbs go drab). Make small batches.
-- **Adjust for diners' heat tolerance:** the canonical Bhutanese ezay is properly fierce. Cook for non-Bhutanese diners by deseeding the chillies and reducing the number. Cook for Bhutanese diners by leaving the seeds in and using more chillies.
+- **Adjust for diners' heat tolerance:** the traditional Bhutanese ezay is properly fierce. Cook for non-Bhutanese diners by deseeding the chillies and reducing the number. Cook for Bhutanese diners by leaving the seeds in and using more chillies.
 
 ## Variations
 **Eggplant ezay (zomei ezay):** roast 1 medium aubergine over an open flame till the skin blackens; peel and chop the flesh; pound into the relish along with the tomato. Adds smoky depth.

@@ -66,7 +66,7 @@ Liptauer is the pink-orange whipped cheese spread that turns up on every wine ce
 
 ## Notes
 - **Proper paprika is everything:** Hungarian noble-sweet (édesnemes) paprika from a fresh tin is what gives the spread its signature deep red-orange colour and the gentle pepper-fruit flavour. Old supermarket paprika that's been opened for six months has faded to brown and tastes like dust; the spread you'd make with it would be pale and flat.
-- **Real Brimsen (Bryndza) if you can find it:** the original sheep's-milk Brimsen cheese from Slovakia is the canonical base. It's a soft fresh sheep cheese with the tang of yogurt and a salty edge. Outside of Austria and Slovakia it's hard to find; the cream cheese plus feta substitute gives a close enough result for the spirit of the dish.
+- **Real Brimsen (Bryndza) if you can find it:** the original sheep's-milk Brimsen cheese from Slovakia is the traditional base. It's a soft fresh sheep cheese with the tang of yogurt and a salty edge. Outside of Austria and Slovakia it's hard to find; the cream cheese plus feta substitute gives a close enough result for the spirit of the dish.
 - **Room temperature is non-negotiable:** cold butter and cold cheese give you lumpy spread that never comes smooth. Pull both out at least an hour before you start.
 - **Don't over-beat the seasonings in:** the chopped onion and capers should stay as visible flecks. Beating them to invisibility flattens the texture; visible bits give the spread its character.
 - **Two hours minimum rest:** the flavours genuinely need time to marry. Made fresh, the spread tastes of each ingredient separately. After two hours in the fridge, it tastes unified.

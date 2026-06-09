@@ -2,7 +2,7 @@
 
 ![Pumpkin Pie](resources/pumpkin-pie.jpg)
 
-*The American holiday pie that bridges Halloween and Thanksgiving. Spiced pumpkin custard in a flaky all-butter shell, baked low and slow until the centre sets with a faint wobble. Eaten cool with a heavy spoon of whipped cream.*
+*The American holiday pie that bridges Halloween and Thanksgiving. Spiced pumpkin custard in a flaky all-butter shell, baked low and slow until the centre sets with a faint wobble. Eat cool with a heavy spoon of whipped cream.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-The custard is a one-bowl mix: roasted pumpkin (or good tinned purée), evaporated milk, eggs, brown sugar, and the four spices that define the pie (cinnamon, ginger, nutmeg, clove). The shell is an all-butter shortcrust, blind-baked briefly so the base does not go soggy under the wet filling. Bakes low to keep the custard silky rather than scrambled. Cools completely in the tin so it slices cleanly.
+Pumpkin pie is the American holiday dessert that bridges Halloween and Thanksgiving, the orange-brown wedge that lands on every November table and stays in the fridge through the long weekend. You build the custard in one bowl from roasted pumpkin (or good tinned purée, which a surprising number of American home cooks prefer), evaporated milk, eggs, brown sugar and the four spices that define the pie: cinnamon, ginger, nutmeg and clove. The shell is an all-butter shortcrust blind-baked briefly first, because the wet custard soaks straight through an unbaked base into a soggy floor no further baking can rescue. The bake itself wants to stay low and slow so the eggs set into silk rather than scrambling, and the centre is done when it wobbles in a 5 cm circle and the edges have lifted slightly from the tin. Cool completely so the slice comes clean; eat cool with a heavy spoon of whipped cream.
 
 ## Ingredients
 

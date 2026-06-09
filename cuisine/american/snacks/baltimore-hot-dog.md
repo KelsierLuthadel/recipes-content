@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Baltimore hot dog (sometimes called a "bologna dog" or a "Maryland dog") is one of the most distinctive and most working-class hot-dog variants in America: a standard frankfurter pan-fried till the casing browns, then wrapped tightly in a slice of fried bologna (the round American luncheon meat, fried hard till the edges curl up and char), tucked into a soft white bun with a stripe of yellow mustard. The dish doubles up two cuts that American food historically used to feed factory workers and dock crews cheaply (Baltimore has a long industrial port history): the frankfurter and the bologna sausage, both originally German-immigrant inventions, both deeply working-class proteins. Sold at Lexington Market food stands, Polock Johnny's, and the few surviving Baltimore-area lunch counters.
+The Baltimore hot dog (sometimes called a "bologna dog" or a "Maryland dog") is one of the most distinctive and most working-class hot-dog variants in America: a standard frankfurter pan-fried till the casing browns, then wrapped tightly in a slice of fried bologna (the round American luncheon meat, fried hard till the edges curl up and char), tucked into a soft white bun with a stripe of yellow mustard. The dish doubles up two cuts that American food historically used to feed factory workers and dock crews on a tight budget (Baltimore has a long industrial port history): the frankfurter and the bologna sausage, both originally German-immigrant inventions, both deeply working-class proteins. Sold at Lexington Market food stands, Polock Johnny's, and the few surviving Baltimore-area lunch counters.
 
 ## Ingredients
 
@@ -25,12 +25,12 @@ The Baltimore hot dog (sometimes called a "bologna dog" or a "Maryland dog") is 
 - 4 soft white hot dog buns
 
 ### Toppings
-- Yellow mustard (the only canonical condiment)
+- Yellow mustard (the only traditional condiment)
 - Sweet pickle relish (optional)
 - Chopped raw onion (optional)
 
 ### To serve
-- A cold Natty Boh (National Bohemian, the canonical Baltimore beer)
+- A cold Natty Boh (National Bohemian, the traditional Baltimore beer)
 - Crab chips on the side (Baltimore-area Old Bay-seasoned potato chips)
 - Dill pickle spear
 

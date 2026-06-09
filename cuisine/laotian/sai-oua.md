@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sai oua is northern Laos's most identity-defining sausage and one of Luang Prabang's most-loved street foods. The aromatic load is enormous: lemongrass, kaffir lime leaves, galangal, shallots, garlic, dried Thai red chillies and a generous fistful of fresh dill, all finely chopped to a textural mince (the canonical Lao technique is a slow hand-chop with a cleaver, not a smooth paste). Sai oua should taste of the herbs as much as the pork. The pork itself is coarsely ground pork shoulder at 25-30% fat; the high-fat ratio is essential for tender juicy sausages. Stuffed into natural pork casings, coiled into the canonical Luang Prabang flat spiral (rather than left as straight links), grilled over hot charcoal till the casings blister and the inside reaches medium-juicy. Sliced thin and served with sticky rice, a small dish of jeow bong, lettuce leaves and fresh herbs.
+Sai oua is northern Laos's most identity-defining sausage and one of Luang Prabang's most-loved street foods. The aromatic load is enormous: lemongrass, kaffir lime leaves, galangal, shallots, garlic, dried Thai red chillies and a generous fistful of fresh dill, all finely chopped to a textural mince (the traditional Lao technique is a slow hand-chop with a cleaver, not a smooth paste). Sai oua should taste of the herbs as much as the pork. The pork itself is coarsely ground pork shoulder at 25-30% fat; the high-fat ratio is essential for tender juicy sausages. Stuffed into natural pork casings, coiled into the traditional Luang Prabang flat spiral (rather than left as straight links), grilled over hot charcoal till the casings blister and the inside reaches medium-juicy. Sliced thin and served with sticky rice, a small dish of jeow bong, lettuce leaves and fresh herbs.
 
 ## Ingredients
 
@@ -74,13 +74,13 @@ Sai oua is northern Laos's most identity-defining sausage and one of Luang Praba
 5. Twist every 12-15 cm into individual links.
 6. Tie off the open end.
 
-### Stage 4 - Form the spirals (canonical Lao)
+### Stage 4 - Form the spirals (traditional Lao)
 1. Coil each pair of links into a flat spiral shape (a snail-shell form), about 12 cm across.
 2. Fix the spiral with 2 wooden skewers crossed through to hold the shape.
 3. Place on a tray.
 
-### Stage 5 - Grill (canonical) or pan-fry / bake
-1. **Grill (canonical):** heat a charcoal grill to medium-hot (the embers should glow but not flame). Brush the sausage spirals lightly with oil. Grill 12-15 minutes total, turning once, till the casings are blistered, the inside reaches 70°C and juices run clear.
+### Stage 5 - Grill (traditional) or pan-fry / bake
+1. **Grill (traditional):** heat a charcoal grill to medium-hot (the embers should glow but not flame). Brush the sausage spirals lightly with oil. Grill 12-15 minutes total, turning once, till the casings are blistered, the inside reaches 70°C and juices run clear.
 2. **Pan-fry (no grill):** heat a heavy frying pan over medium with 1 tbsp oil. Cook the spirals 6-7 minutes per side till deeply golden and cooked through.
 3. **Bake (the easiest):** 200°C oven for 25-30 minutes till the casings are blistered and the centre reaches 70°C.
 
@@ -93,7 +93,7 @@ Sai oua is northern Laos's most identity-defining sausage and one of Luang Praba
 ## Notes
 - **The aromatic load is enormous:** sai oua should taste herby, lemongrass-forward, gently chilli-hot. Under-aromatic sai oua tastes like a generic pork sausage.
 - **High pork fat is essential:** 25-30%. Lean pork makes dry, dense sausages.
-- **The spiral shape:** canonical Luang Prabang. Cooks more evenly than straight links; easier to grill.
+- **The spiral shape:** traditional Luang Prabang. Cooks more evenly than straight links; easier to grill.
 - **Charcoal grill ideal:** the smoke is part of the Lao flavour. Gas works; oven is the fallback.
 - **Don't overcook:** 70°C internal. Past 75°C the pork goes dry.
 
@@ -104,7 +104,7 @@ Sai oua is northern Laos's most identity-defining sausage and one of Luang Praba
 **Vegetarian sai oua:** swap pork for crumbled firm tofu + minced shiitake + a binder of mashed sweet potato; form as patties.
 
 ## Serving
-At a Luang Prabang night market stall (the canonical setting; sliced sausages from a charcoal grill, served with sticky rice and lettuce wraps) · at a Lao New Year (Pi Mai) feast · at a Vientiane grilled-meat restaurant · at home as a Lao-themed barbecue main · paired with sticky rice, laap, and a cold Beerlao.
+At a Luang Prabang night market stall (the traditional setting; sliced sausages from a charcoal grill, served with sticky rice and lettuce wraps) · at a Lao New Year (Pi Mai) feast · at a Vientiane grilled-meat restaurant · at home as a Lao-themed barbecue main · paired with sticky rice, laap, and a cold Beerlao.
 
 ## Storage
 - The raw sausage mix refrigerates 24 hours after the 4-hour marinade; or freezes 3 months.

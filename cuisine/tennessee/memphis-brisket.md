@@ -11,7 +11,7 @@
 **Cook Time:** 10-14 hours
 
 ## Overview
-Memphis smoked brisket is the Tennessee beef counterpart to Memphis pulled pork (pulled pork being the primary Memphis BBQ meat, with brisket second): a whole brisket (about 5-6 kg with both flat and point connected) rubbed with the Memphis dry-rub spice blend (sweet-savoury; less peppery than Texas brisket rub), slow-smoked over hickory wood (the canonical Memphis wood) at 110°C for 10-14 hours till the internal temperature reaches 95°C and the meat is fork-tender. The defining differences from Texas brisket: Memphis uses sweeter rub, hickory not post-oak, and serves with a thin red Memphis sauce rather than no sauce or wet Kansas City sauce. Sliced against the grain into 5mm slices.
+Memphis smoked brisket is the Tennessee beef counterpart to Memphis pulled pork (pulled pork being the primary Memphis BBQ meat, with brisket second): a whole brisket (about 5-6 kg with both flat and point connected) rubbed with the Memphis dry-rub spice blend (sweet-savoury; less peppery than Texas brisket rub), slow-smoked over hickory wood (the traditional Memphis wood) at 110°C for 10-14 hours till the internal temperature reaches 95°C and the meat is fork-tender. The defining differences from Texas brisket: Memphis uses sweeter rub, hickory not post-oak, and serves with a thin red Memphis sauce rather than no sauce or wet Kansas City sauce. Sliced against the grain into 5mm slices.
 
 ## Ingredients
 
@@ -104,7 +104,7 @@ Memphis smoked brisket is the Tennessee beef counterpart to Memphis pulled pork 
 3. Slaw, beans, cornbread alongside.
 
 ## Notes
-- **Hickory smoke canonical Memphis.**
+- **Hickory smoke traditional Memphis.**
 - **10-14 hour cook.**
 - **Internal 95°C.**
 - **Rest 1 hour.**

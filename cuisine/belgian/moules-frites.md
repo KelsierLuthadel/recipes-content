@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (plus frites time)
 
 ## Overview
-Moules-frites is Belgium's most famous restaurant dish and a year-round staple from the North Sea coast to every brasserie in Brussels and Bruges. The mussels are live, fresh and de-bearded, typically Bouchot or Zeeland from the North Sea (in season September to April); two kilograms feeds four people generously. The broth is the canonical Belgian build of shallots, celery, garlic and parsley stalks sweated in butter, finished with dry white wine; the mussels release their own briny juice into the wine and that mingling is what makes the broth what it is, with no separate stock needed. The cook is brief and covered, just till the shells open; mussels that overcook turn rubbery and shrink to nothing. The frites alongside must be Belgian (twice-fried in tallow), and the canonical condiment is mayonnaise, not ketchup; Belgians take the mayo question seriously. The eat-with-an-empty-shell-as-tongs trick is the canonical Belgian table habit, faster than a fork. The broth at the bottom gets soaked up with the last frites.
+Moules-frites is Belgium's most famous restaurant dish and a year-round staple from the North Sea coast to every brasserie in Brussels and Bruges. The mussels are live, fresh and de-bearded, typically Bouchot or Zeeland from the North Sea (in season September to April); two kilograms feeds four people generously. The broth is the traditional Belgian build of shallots, celery, garlic and parsley stalks sweated in butter, finished with dry white wine; the mussels release their own briny juice into the wine and that mingling is what makes the broth what it is, with no separate stock needed. The cook is brief and covered, just till the shells open; mussels that overcook turn rubbery and shrink to nothing. The frites alongside must be Belgian (twice-fried in tallow), and the traditional condiment is mayonnaise, not ketchup; Belgians take the mayo question seriously. The eat-with-an-empty-shell-as-tongs trick is the traditional Belgian table habit, faster than a fork. The broth at the bottom gets soaked up with the last frites.
 
 ## Ingredients
 
@@ -77,7 +77,7 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 1. Ladle the buttery broth generously over the mussels.
 2. Place a paper cone of Belgian frites alongside each plate.
 3. Set the mayonnaise on the table; cut the lemon into wedges.
-4. Provide a bowl for the empty shells (or use the pot lid - the canonical Belgian way).
+4. Provide a bowl for the empty shells (or use the pot lid - the traditional Belgian way).
 5. Eat the mussels with the help of an empty shell as tongs. Soak up the broth at the end with the last of the frites.
 
 ## Notes
@@ -86,7 +86,7 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 - **Don't overcook:** mussel flesh goes rubbery after 7-8 minutes. The first ones to open are the best ones.
 - **The frites must be twice-fried:** Belgian frites are double-fried in beef tallow. Once is a French fry; twice is a Belgian frite.
 - **Mayonnaise, not ketchup:** Belgians dip their frites in mayo. Don't argue.
-- **Eat with empty shells:** the canonical Belgian technique - use a hinged empty shell as tongs to extract the next mussel. Faster, more elegant, no fork needed.
+- **Eat with empty shells:** the traditional Belgian technique - use a hinged empty shell as tongs to extract the next mussel. Faster, more elegant, no fork needed.
 - **Don't try to wash the pot mid-cook:** the broth and the juice from the mussels are what makes the dish.
 
 ## Variations
@@ -99,7 +99,7 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 **Moules nature:** no broth; just the mussels steamed in their own juice with butter and parsley.
 
 ## Serving
-At a Brussels brasserie or Belgian seaside café in Ostend or Knokke (the canonical setting) · at a Belgian summer terrace lunch · at a French-Belgian crossover brasserie · at a moules-frites festival (Bruges has an annual one) · at a Belgian Father's Day dinner · at home with a chilled Hoegaarden and a paper cone of frites.
+At a Brussels brasserie or Belgian seaside café in Ostend or Knokke (the traditional setting) · at a Belgian summer terrace lunch · at a French-Belgian crossover brasserie · at a moules-frites festival (Bruges has an annual one) · at a Belgian Father's Day dinner · at home with a chilled Hoegaarden and a paper cone of frites.
 
 ## Storage
 - Cooked mussels do not keep - eat them within 30 minutes of cooking.

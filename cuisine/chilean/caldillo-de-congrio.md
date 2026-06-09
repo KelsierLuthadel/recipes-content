@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Caldillo de congrio is one of Chile's most iconic fish soups, famously immortalised in a poem ("Oda al Caldillo de Congrio") by Chilean Nobel laureate Pablo Neruda in his Odes Elementales. Thick slices of conger eel (the canonical Chilean fish, firm-fleshed and from cold Pacific waters) slow-simmered in a base of onion, sliced potato, garlic, tomato, white wine, fish stock and a generous amount of fresh chopped coriander till the fish is just cooked and the broth has reduced to a thick aromatic soup. Outside Chile, where conger eel is hard to find, use cod, hake, monkfish or any firm white fish; flaky fish like salmon or tuna breaks down too far. Coriander goes in twice (half during cooking, half at the end), and Chilean sauvignon blanc gives the proper acidic backbone. Often described as the Chilean equivalent of bouillabaisse. Served in deep bowls with marraqueta bread for sopping.
+Caldillo de congrio is one of Chile's most iconic fish soups, famously immortalised in a poem ("Oda al Caldillo de Congrio") by Chilean Nobel laureate Pablo Neruda in his Odes Elementales. Thick slices of conger eel (the traditional Chilean fish, firm-fleshed and from cold Pacific waters) slow-simmered in a base of onion, sliced potato, garlic, tomato, white wine, fish stock and a generous amount of fresh chopped coriander till the fish is just cooked and the broth has reduced to a thick aromatic soup. Outside Chile, where conger eel is hard to find, use cod, hake, monkfish or any firm white fish; flaky fish like salmon or tuna breaks down too far. Coriander goes in twice (half during cooking, half at the end), and Chilean sauvignon blanc gives the proper acidic backbone. Often described as the Chilean equivalent of bouillabaisse. Served in deep bowls with marraqueta bread for sopping.
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ Caldillo de congrio is one of Chile's most iconic fish soups, famously immortali
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 
-### Herbs (canonical)
+### Herbs (traditional)
 - 1 large bunch fresh coriander (about 40 g; chopped; half for cooking, half for finishing)
 - 1 small bunch fresh parsley (chopped)
 
@@ -107,7 +107,7 @@ Caldillo de congrio is one of Chile's most iconic fish soups, famously immortali
 **Spicier:** add 1 chopped fresh chilli to the base; common southern Chilean variation.
 
 ## Serving
-In deep bowls. Marraqueta or crusty bread for sopping. Glass of cold Chilean sauvignon blanc (the canonical wine pairing - Neruda himself drank Chilean white wine with this soup). Pebre and lemon on the table.
+In deep bowls. Marraqueta or crusty bread for sopping. Glass of cold Chilean sauvignon blanc (the traditional wine pairing - Neruda himself drank Chilean white wine with this soup). Pebre and lemon on the table.
 
 ## Storage
 - Best eaten fresh; the fish doesn't reheat well.

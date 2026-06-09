@@ -92,7 +92,7 @@ Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of the
 **Elderflower cuberdons:** elderflower cordial as the flavouring; pale yellow colouring.
 
 ## Serving
-At a Ghent market stall (the canonical setting; specifically the rival Geldhof and Lievens stalls on the Groentenmarkt) · at a Belgian Christmas market · at an Antwerp or Brussels sweet shop · as the Belgian after-dinner sweet · with espresso · as a take-home Belgian gift.
+At a Ghent market stall (the traditional setting; specifically the rival Geldhof and Lievens stalls on the Groentenmarkt) · at a Belgian Christmas market · at an Antwerp or Brussels sweet shop · as the Belgian after-dinner sweet · with espresso · as a take-home Belgian gift.
 
 ## Storage
 - Store in a single layer in a tin lined with parchment at cool room temperature (16-20°C). Keep in a dry environment.

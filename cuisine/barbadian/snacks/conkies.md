@@ -43,7 +43,7 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 ### The wrapping
 - 12-15 banana leaves (each cut to roughly 25 × 20 cm; sold frozen at Caribbean / Asian shops)
 - Kitchen string for tying
-- (Alternative: 12-15 squares of parchment paper, cut to 25 × 20 cm; less canonical but functional)
+- (Alternative: 12-15 squares of parchment paper, cut to 25 × 20 cm; less traditional but functional)
 
 ### Equipment
 - A large heavy pot with a tight-fitting lid
@@ -96,14 +96,14 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 
 ### Stage 7 - Serve
 1. Pile the warm conkies on a serving platter (still in their leaves).
-2. Diners unwrap their own; the smell of the steamed banana-leaf aroma is canonical.
+2. Diners unwrap their own; the smell of the steamed banana-leaf aroma is traditional.
 3. Eat warm with the fingers or a fork.
 4. Pair with strong Bajan tea or mauby.
 
 ## Notes
-- **Banana leaves are canonical:** the leaves contribute aroma. Parchment paper works as a substitute but lacks the banana-leaf flavour.
+- **Banana leaves are traditional:** the leaves contribute aroma. Parchment paper works as a substitute but lacks the banana-leaf flavour.
 - **Soften the leaves first:** rigid leaves crack; warm-softened leaves fold neatly.
-- **The cornmeal-pumpkin ratio:** 50/50 by weight is canonical. More cornmeal gives dry conkies; more pumpkin gives sloppy.
+- **The cornmeal-pumpkin ratio:** 50/50 by weight is traditional. More cornmeal gives dry conkies; more pumpkin gives sloppy.
 - **Steam 90 minutes:** under 75 the cornmeal isn't fully set; over 105 the texture goes overly dense.
 - **Independence Day timing:** in Barbados, conkies are essentially a November-December dish. Making them in May feels off-season.
 - **Bajan thyme:** the small amount of fresh thyme is the Bajan signature; without it, you've made a generic Caribbean cornmeal pudding.
@@ -119,7 +119,7 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 **Sweet potato conkies (sweet potato only):** double the grated sweet potato; skip the pumpkin.
 
 ## Serving
-At a Bajan Independence Day (30 November) celebration (the canonical setting; the dish is essentially synonymous with Bajan Independence Day) · at a Bajan November / December family gathering · at a Bajan church social · at a Bajan harvest festival · at home as the Bajan tea-cake tradition · paired with strong Bajan tea, mauby, cold cocoa, or a slice of Bajan rum cake for the full Bajan tea spread.
+At a Bajan Independence Day (30 November) celebration (the traditional setting; the dish is essentially synonymous with Bajan Independence Day) · at a Bajan November / December family gathering · at a Bajan church social · at a Bajan harvest festival · at home as the Bajan tea-cake tradition · paired with strong Bajan tea, mauby, cold cocoa, or a slice of Bajan rum cake for the full Bajan tea spread.
 
 ## Storage
 - Wrapped conkies refrigerate 5 days; reheat in the banana leaf in a hot oven for 10 minutes.

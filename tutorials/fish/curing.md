@@ -95,7 +95,7 @@ The leftover lime juice (called leche de tigre, "tiger's milk") is a delicacy in
 ### Variations
 - **Mexican ceviche:** add diced tomato, avocado, mango.
 - **Ecuadorian ceviche:** add tomato juice for a soup-like consistency; serve with corn nuts (cancha) on top.
-- **Peruvian ceviche:** the canonical version above, with aji amarillo paste added for heat and yellow colour.
+- **Peruvian ceviche:** the traditional version above, with aji amarillo paste added for heat and yellow colour.
 - **Hawaiian poke:** raw tuna with soy sauce, sesame, scallion, avocado, sometimes lime. Technically not a ceviche (no acid cure long enough to denature proteins), but very close cousin.
 
 ## Tartare (Raw)

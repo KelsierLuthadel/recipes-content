@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Osso buco (literally "bone with hole") is Milan's most iconic dish and one of Italy's most beloved slow-braised meat preparations: thick cross-cuts of bone-in veal shank seared, then slowly braised in a base of soffritto (onion, carrot, celery), white wine, tomato, beef stock and aromatics till the veal is meltingly tender and the marrow softens in its bone cavity. Finished with the canonical Milanese gremolata, a vivid mixture of grated lemon zest, finely chopped garlic and fresh parsley scattered over the top just before serving. Traditionally served on a bed of saffron risotto Milanese (the canonical pairing). The bone-in cut is essential for both flavour and the prized marrow. The gremolata is not optional; the bright lemon-garlic-parsley finish is what makes the dish Milanese.
+Osso buco (literally "bone with hole") is Milan's most iconic dish and one of Italy's most beloved slow-braised meat preparations: thick cross-cuts of bone-in veal shank seared, then slowly braised in a base of soffritto (onion, carrot, celery), white wine, tomato, beef stock and aromatics till the veal is meltingly tender and the marrow softens in its bone cavity. Finished with the traditional Milanese gremolata, a vivid mixture of grated lemon zest, finely chopped garlic and fresh parsley scattered over the top just before serving. Traditionally served on a bed of saffron risotto Milanese (the traditional pairing). The bone-in cut is essential for both flavour and the prized marrow. The gremolata is not optional; the bright lemon-garlic-parsley finish is what makes the dish Milanese.
 
 ## Ingredients
 
@@ -44,7 +44,7 @@ Osso buco (literally "bone with hole") is Milan's most iconic dish and one of It
 - 1 large bunch fresh flat-leaf parsley (about 30 g; finely chopped)
 
 ### To serve
-- Saffron risotto Milanese (the canonical pairing)
+- Saffron risotto Milanese (the traditional pairing)
 - Crusty Italian bread
 - Italian red wine (Barbera, Nebbiolo, or Chianti)
 
@@ -111,7 +111,7 @@ Osso buco (literally "bone with hole") is Milan's most iconic dish and one of It
 **With anchovy in gremolata:** add 1 finely chopped anchovy to the gremolata; gives umami depth.
 
 ## Serving
-With saffron risotto Milanese - the canonical pairing. Crusty bread for the sauce. Italian red wine.
+With saffron risotto Milanese - the traditional pairing. Crusty bread for the sauce. Italian red wine.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

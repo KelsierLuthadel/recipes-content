@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (assuming pre-cooked chickpeas)
 
 ## Overview
-Chana chaat is Pakistan's tangy chickpea snack and the iftar-table standby, the kind of plate that turns up at every Ramadan break-fast and roadside chaat stall. Boiled chickpeas toss with diced red onion, tomato, small-cubed boiled potato, green chilli, fresh coriander and mint, then a sharp dressing of lemon juice, chaat masala, tamarind chutney and a touch of hot green chilli sauce. Chaat masala is the soul of the dish, that Pakistani blend of dried mango, black salt, cumin, dried ginger and chillies; without it, you have a chickpea salad. The dressing should be aggressively sharp, salty and a little spicy: this isn't a dish for restraint. Crushed papri (or Bombay mix or sev) scatters across the top for crunch. Eaten with a spoon right away, since the papri softens fast in the lemon juice and this isn't a make-ahead dish.
+Chana chaat is Pakistan's tangy chickpea snack and the iftar-table standby, the kind of plate that turns up at every Ramadan break-fast and roadside chaat stall. Boiled chickpeas toss with diced red onion, tomato, small-cubed boiled potato, green chilli, fresh coriander and mint, then a sharp dressing of lemon juice, chaat masala, tamarind chutney and a touch of hot green chilli sauce. Chaat masala is the soul of the dish, that Pakistani blend of dried mango, black salt, cumin, dried ginger and chillies; without it, you have a chickpea salad. The dressing should be aggressively sharp, salty and a little spicy: this isn't a dish for restraint. Crushed papri (or Bombay mix or sev) scatters across the top for crunch. Eat with a spoon right away, since the papri softens fast in the lemon juice and this isn't a make-ahead dish.
 
 ## Ingredients
 

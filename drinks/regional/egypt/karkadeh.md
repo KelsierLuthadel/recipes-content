@@ -37,7 +37,7 @@ Karkadeh is Egypt's national soft drink and the unofficial colour of Egyptian su
 1. Pour over ice in tall glasses; garnish with a lemon slice and a sprig of mint.
 
 ## Notes
-- **Quality dried hibiscus matters.** Look for deep ruby-red calyces, not faded brown ones. Egyptian or Sudanese hibiscus is the canonical choice.
+- **Quality dried hibiscus matters.** Look for deep ruby-red calyces, not faded brown ones. Egyptian or Sudanese hibiscus is the traditional choice.
 - **Sweeten while warm.** Sugar dissolves cleanly into hot karkadeh; adding sugar to the cold drink leaves grit at the bottom of the glass.
 - **Hot version exists too.** Same recipe, drunk warm with no ice. Common in Egyptian winter as a "tea" alternative.
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Zalabia are the small cardamom-and-saffron fried dough balls that turn up at the end of Yemeni Ramadan iftars and on Eid tables across the country: crisp-shelled and soft-centred under a glossy honey glaze. The dish is simple but each step matters. A properly fermented loose yeasted batter (no kneading; this isn't bread, it's almost-batter). A careful 170 °C fry to a deep gold without burning. And a quick five-second dunk in warm honey syrup while the dough balls are still hot; warm syrup soaks into the hot dough and sets thin and glassy, while cold syrup glues to the surface and slides off. Squeezed through a thumb-and-forefinger fist so small balls drop straight into the hot oil. Eaten warm with strong cardamom tea or coffee.
+Zalabia are the small cardamom-and-saffron fried dough balls that turn up at the end of Yemeni Ramadan iftars and on Eid tables across the country: crisp-shelled and soft-centred under a glossy honey glaze. The dish is simple but each step matters. A properly fermented loose yeasted batter (no kneading; this isn't bread, it's almost-batter). A careful 170 °C fry to a deep gold without burning. And a quick five-second dunk in warm honey syrup while the dough balls are still hot; warm syrup soaks into the hot dough and sets thin and glassy, while cold syrup glues to the surface and slides off. Squeezed through a thumb-and-forefinger fist so small balls drop straight into the hot oil. Eat warm with strong cardamom tea or coffee.
 
 ## Ingredients
 

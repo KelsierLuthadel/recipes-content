@@ -11,7 +11,7 @@
 **Cook Time:** 7 minutes
 
 ## Overview
-The eight-day Passover diet rests on matzo, and matzo brei is the dish that turns yesterday's plain matzo crackers into a proper hot breakfast. Pieces of matzo go briefly under warm water until they soften (but don't disintegrate), then drain. They get folded into beaten salted eggs, sit a minute so the matzo drinks in the egg, and then go into hot foaming butter. Two finishes: cook flat as a thick pancake and flip, or break up and scramble. Eaten immediately with whichever topping the household votes for.
+The eight-day Passover diet rests on matzo, and matzo brei is the dish that turns yesterday's plain matzo crackers into a proper hot breakfast. Pieces of matzo go briefly under warm water until they soften (but don't disintegrate), then drain. They get folded into beaten salted eggs, sit a minute so the matzo drinks in the egg, and then go into hot foaming butter. Two finishes: cook flat as a thick pancake and flip, or break up and scramble. Eat immediately with whichever topping the household votes for.
 
 ## Ingredients
 

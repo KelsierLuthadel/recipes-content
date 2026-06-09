@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç = the traditional Turkish earthenware clay pot that gives the dish its name) is one of Turkey's most beloved Anatolian winter dishes and a staple of family kitchens across the country. Bone-in chicken thighs and drumsticks are the canonical cut: the bones release flavour into the sauce and the skin protects the meat during the long bake. They layer with sliced onion, garlic, chopped tomato, green bell pepper, mushrooms, tomato paste and Turkish red pepper paste, douse in a tomato-stock sauce and top with grated kashar cheese (aged Gruyère, Pecorino or a sharp Cheddar substitute). Fifty to sixty minutes covered in the clay pot: or a heavy Dutch oven, the best home substitute: till the chicken falls from the bone, the vegetables melt into the gravy and the cheese forms a golden bubbly crust. Served in the pot, either family-sized or in individual small güveç for each diner.
+Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç = the traditional Turkish earthenware clay pot that gives the dish its name) is one of Turkey's most beloved Anatolian winter dishes and a staple of family kitchens across the country. Bone-in chicken thighs and drumsticks are the traditional cut: the bones release flavour into the sauce and the skin protects the meat during the long bake. They layer with sliced onion, garlic, chopped tomato, green bell pepper, mushrooms, tomato paste and Turkish red pepper paste, douse in a tomato-stock sauce and top with grated kashar cheese (aged Gruyère, Pecorino or a sharp Cheddar substitute). Fifty to sixty minutes covered in the clay pot: or a heavy Dutch oven, the best home substitute: till the chicken falls from the bone, the vegetables melt into the gravy and the cheese forms a golden bubbly crust. Served in the pot, either family-sized or in individual small güveç for each diner.
 
 ## Ingredients
 
@@ -112,7 +112,7 @@ Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç =
 - **Bone-in skin-on chicken:** essential for proper flavour and to keep the meat moist during the bake. Don't substitute with boneless skinless cuts.
 - **Brown before braising:** the fond gives the proper sauce depth. Skipping gives a flatter sauce.
 - **Cover for the long bake; uncover for the cheese crust:** the cover keeps the moisture in for the chicken; the uncover with high heat finishes the cheese.
-- **Clay pot or Dutch oven:** clay is canonical but Dutch oven is the practical substitute. A ceramic baking dish works but may need an extra 10 minutes.
+- **Clay pot or Dutch oven:** clay is traditional but Dutch oven is the practical substitute. A ceramic baking dish works but may need an extra 10 minutes.
 - **Plenty of cheese:** the cheese crust is part of the dish's identity. Don't skimp.
 
 ## Variations

@@ -113,7 +113,7 @@ Only the H1, image, caption, the three metadata fields, and the Method are stric
 ### 3. Authoring conventions
 
 - **Fractions.** Use unicode glyphs: `1 ½ cups`, `½ teaspoon`. The renderer also accepts `1 1/2` and `1.5`.
-- **Units.** Metric (g / ml / cm / °C) is the canonical authoring unit. The site offers a metric / imperial toggle that converts at render time.
+- **Units.** Metric (g / ml / cm / °C) is the traditional authoring unit. The site offers a metric / imperial toggle that converts at render time.
 - **No em dashes.** Anywhere user-facing. Use ` - ` (hyphen with spaces) or a colon, or rephrase.
 - **Image alt text.** Should be the recipe title, not `Name` (the template placeholder).
 - **Sub-sections inside Ingredients.** `### Marinade`, `### Sauce`, etc. for multi-component recipes. The shopping-list builder treats each sub-section separately so two `2 tbsp soy sauce` lines in different sub-sections won't merge into `4 tbsp soy sauce`.

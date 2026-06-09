@@ -2,7 +2,7 @@
 
 ![Mafrouka](resources/mafrouka.jpg)
 
-*A semolina-and-pistachio Jordanian sweet: a buttery semolina pudding baked into a slab, topped with sweetened ashta cream (clotted cream perfumed with rose water) and a snowdrift of crushed pistachios. Eaten at Ramadan iftar, Eid, weddings. Soft, fragrant, rich.*
+*A semolina-and-pistachio Jordanian sweet: a buttery semolina pudding baked into a slab, topped with sweetened ashta cream (clotted cream perfumed with rose water) and a snowdrift of crushed pistachios. Eat at Ramadan iftar, Eid, weddings. Soft, fragrant, rich.*
 
 **Serves:** 6
 

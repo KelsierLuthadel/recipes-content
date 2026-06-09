@@ -62,7 +62,7 @@ Gröstl is the Tyrolean skillet hash you'd find on every mountain hut menu from 
 2. Slide an egg onto each portion, scatter generously with chopped parsley, season the egg with a pinch of salt and pepper and bring to the table immediately.
 
 ## Notes
-- **Cold cooked meat is the point:** this dish lives or dies by what you started with. Sunday Schweinsbraten with crackling chopped fine is the canonical leftover. Boiled brisket, roast beef, even smoked pork chops all work. Raw meat browned in the pan won't give the same depth.
+- **Cold cooked meat is the point:** this dish lives or dies by what you started with. Sunday Schweinsbraten with crackling chopped fine is the traditional leftover. Boiled brisket, roast beef, even smoked pork chops all work. Raw meat browned in the pan won't give the same depth.
 - **Waxy potatoes only:** floury potatoes (Maris Piper, King Edward) fall apart in the pan and give a mushy hash. Charlotte, Anya, Nicola, or any salad potato holds its shape and crisps cleanly.
 - **Parboil ahead:** cooling the parboiled potatoes for an hour (or overnight in the fridge) makes them dry on the surface so they crisp properly in the pan rather than steaming.
 - **Caraway is non-negotiable:** the seed defines the dish. Crush it lightly in a mortar to release the oils.

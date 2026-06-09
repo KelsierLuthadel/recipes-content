@@ -2,7 +2,7 @@
 
 ![Muriwo une Dovi](resources/muriwo-une-dovi.jpg)
 
-*Zimbabwe's collard greens: stewed with onion, tomato and a heaped spoon of peanut butter that melts into the leaves. Eaten alongside sadza.*
+*Zimbabwe's collard greens: stewed with onion, tomato and a heaped spoon of peanut butter that melts into the leaves. Eat alongside sadza.*
 
 **Serves:** 4
 

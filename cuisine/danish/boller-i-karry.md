@@ -11,12 +11,12 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Boller i karry (literally "balls in curry") is a Danish family-dinner classic that emerged in the 1950s when Danish home cooks started experimenting with curry powder imported via Britain's colonial trade routes. The result is unmistakably Danish: poached (not fried) pork meatballs simmered in a creamy pale-yellow sauce built on a butter-flour roux, thickened with milk, flavoured with mild Danish curry powder (much milder than Indian curry - closer to a sweet aromatic spice blend) and finished with a touch of mango chutney or apple compote for sweetness. Served over fluffy white basmati rice, with the canonical Danish accompaniments scattered on top: toasted desiccated coconut, sliced banana, chopped peanut, and chopped pickle. The dish is gentle, sweet-sour, mildly spiced, and creamy - perfect for kids, and a fixture of every Danish school canteen and family dinner table.
+Boller i karry (literally "balls in curry") is a Danish family-dinner classic that emerged in the 1950s when Danish home cooks started experimenting with curry powder imported via Britain's colonial trade routes. The result is unmistakably Danish: poached (not fried) pork meatballs simmered in a creamy pale-yellow sauce built on a butter-flour roux, thickened with milk, flavoured with mild Danish curry powder (much milder than Indian curry - closer to a sweet aromatic spice blend) and finished with a touch of mango chutney or apple compote for sweetness. Served over fluffy white basmati rice, with the traditional Danish accompaniments scattered on top: toasted desiccated coconut, sliced banana, chopped peanut, and chopped pickle. The dish is gentle, sweet-sour, mildly spiced, and creamy - perfect for kids, and a fixture of every Danish school canteen and family dinner table.
 
 ## Ingredients
 
 ### Meatballs (kogt frikadeller - poached version)
-- 500 g ground pork (or use the canonical frikadeller mix - see [frikadeller recipe](frikadeller.md))
+- 500 g ground pork (or use the traditional frikadeller mix - see [frikadeller recipe](frikadeller.md))
 - 1 small onion (finely grated)
 - 1 large egg (beaten)
 - 3 tablespoons plain flour
@@ -42,7 +42,7 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 - 800 ml of the poaching liquid (strained)
 - 200 ml double cream
 - 2 tablespoons mango chutney (or apple compote)
-- 1 teaspoon turmeric (for the canonical yellow colour)
+- 1 teaspoon turmeric (for the traditional yellow colour)
 - 1 small apple (peeled, grated)
 - 1 ½ teaspoons fine sea salt
 - ½ teaspoon ground white pepper
@@ -98,7 +98,7 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 ### Stage 7 - Plate
 1. Mound rice on each plate.
 2. Spoon meatballs and generous curry sauce over.
-3. Scatter the canonical Danish topping trio in small piles around the plate: toasted coconut, sliced banana, chopped peanuts, chopped pickle.
+3. Scatter the traditional Danish topping trio in small piles around the plate: toasted coconut, sliced banana, chopped peanuts, chopped pickle.
 4. A sprinkle of chives over the top.
 
 ### Stage 8 - Serve
@@ -106,15 +106,15 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 2. Eat with a fork; mix the toppings into the curry as you go.
 
 ## Notes
-- **Poached, not fried:** the canonical Danish boller i karry uses poached meatballs (kogt frikadeller), not the fried frikadeller from the main course.
-- **Mild Danish curry powder:** the canonical balance is gentle and aromatic, not Indian-spicy. Stuart's, Santa Maria, or any mild "curry" powder works.
-- **Toppings scattered on top:** coconut + banana + peanuts + pickle is the canonical 1950s Danish presentation. Not optional.
+- **Poached, not fried:** the traditional Danish boller i karry uses poached meatballs (kogt frikadeller), not the fried frikadeller from the main course.
+- **Mild Danish curry powder:** the traditional balance is gentle and aromatic, not Indian-spicy. Stuart's, Santa Maria, or any mild "curry" powder works.
+- **Toppings scattered on top:** coconut + banana + peanuts + pickle is the traditional 1950s Danish presentation. Not optional.
 - **Pale yellow sauce:** the turmeric gives the colour. Don't add tomato or chilli; this is a gentle creamy curry.
 
 ## Variations
 **Hønsefrikadeller i karry:** swap the pork meatballs for chicken meatballs.
 **With fish (boller i karry med fisk):** swap the meatballs for fish dumplings made from cod and cream - a Lent version.
-**Spicier (modern):** add a teaspoon of curry paste (Thai red, Madras) for more heat - less canonical but increasingly common.
+**Spicier (modern):** add a teaspoon of curry paste (Thai red, Madras) for more heat - less traditional but increasingly common.
 **Vegetarian:** swap the meatballs for fried chickpea or paneer balls; same curry sauce.
 **Christmas leftover version:** swap the meatballs for sliced cold julestege (Christmas pork roast) for the day-after-Christmas curry leftover.
 

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Saltimbocca alla Romana (literally "jumps in the mouth, Roman-style") is one of Rome's most beloved trattoria classics and a study in Italian simplicity: thin veal escalopes pounded flat, topped with a slice of prosciutto crudo and a single fresh sage leaf, fastened together with a toothpick, briefly pan-fried in butter till the prosciutto crisps, then deglazed with dry white wine to form a glossy pan sauce. Served immediately on warm plates with the canonical Roman side of buttered green peas (or sautéed spinach with garlic). The dish takes fifteen minutes from start to finish once the veal is prepped; the Roman point is freshness, simplicity and quality of ingredients. The veal should be pounded to 5 mm so each side cooks in ninety seconds; the prosciutto must be real Italian dry-cured (Parma or San Daniele; serrano substitutes in a pinch); and the sage leaves must be fresh, since dried sage is the wrong taste and the wrong picture.
+Saltimbocca alla Romana (literally "jumps in the mouth, Roman-style") is one of Rome's most beloved trattoria classics and a study in Italian simplicity: thin veal escalopes pounded flat, topped with a slice of prosciutto crudo and a single fresh sage leaf, fastened together with a toothpick, briefly pan-fried in butter till the prosciutto crisps, then deglazed with dry white wine to form a glossy pan sauce. Served immediately on warm plates with the traditional Roman side of buttered green peas (or sautéed spinach with garlic). The dish takes fifteen minutes from start to finish once the veal is prepped; the Roman point is freshness, simplicity and quality of ingredients. The veal should be pounded to 5 mm so each side cooks in ninety seconds; the prosciutto must be real Italian dry-cured (Parma or San Daniele; serrano substitutes in a pinch); and the sage leaves must be fresh, since dried sage is the wrong taste and the wrong picture.
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Saltimbocca alla Romana (literally "jumps in the mouth, Roman-style") is one of 
 - 1 tablespoon fresh chopped parsley (for finishing)
 
 ### To serve
-- Buttered green peas (canonical Roman side)
+- Buttered green peas (traditional Roman side)
 - OR sautéed spinach with garlic
 - Lemon wedges
 
@@ -78,7 +78,7 @@ Saltimbocca alla Romana (literally "jumps in the mouth, Roman-style") is one of 
 - **Don't oversalt:** prosciutto is salty.
 
 ## Variations
-**Chicken saltimbocca:** swap veal for thin chicken breast escalopes; less canonical but accessible substitute.
+**Chicken saltimbocca:** swap veal for thin chicken breast escalopes; less traditional but accessible substitute.
 **Pork saltimbocca:** swap for thin pork loin escalopes.
 **Without wine:** swap wine for chicken stock + 1 tablespoon white wine vinegar.
 **Cheese saltimbocca:** add a thin slice of fontina or provolone under the prosciutto; gives a richer melting version.

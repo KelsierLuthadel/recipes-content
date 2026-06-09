@@ -44,7 +44,7 @@ The trade: more sugar makes the bread taste sweeter and brown more, but the rise
 
 Replaces some or all of the water. Adds fat (full-fat milk only), lactose (a slow-fermenting sugar), and proteins that soften the crumb.
 
-A milk dough has a tighter, more cake-like crumb than a water dough and stays soft longer. Hokkaido milk bread and Japanese white milk bread are the canonical examples.
+A milk dough has a tighter, more cake-like crumb than a water dough and stays soft longer. Hokkaido milk bread and Japanese white milk bread are the traditional examples.
 
 ### Other Enrichments
 
@@ -130,7 +130,7 @@ Cold-prove it overnight first. Cold enriched dough handles much better than warm
 - [Gluten](gluten.md): the window-pane test is even more important here.
 - [Proving](proving.md): doubling the yeast and lengthening the prove is the standard adjustment.
 - [Scoring](scoring.md): some enriched loaves are scored (brioche) and some are braided (challah) instead.
-- [Brioche Dough](../../baking/pastry/brioche-dough.md): the canonical heavy-enrichment recipe.
+- [Brioche Dough](../../baking/pastry/brioche-dough.md): the traditional heavy-enrichment recipe.
 - [Pistachio Babka Buns](../../cuisine/israel/desserts/pistachio-babka-buns.md): a filled, twisted enriched dough.
 
 ## Storage

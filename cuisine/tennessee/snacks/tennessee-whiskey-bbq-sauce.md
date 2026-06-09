@@ -2,7 +2,7 @@
 
 ![Tennessee Whiskey BBQ Sauce](resources/tennessee-whiskey-bbq-sauce.jpg)
 
-*Tennessee's whiskey-spiked BBQ sauce: ketchup, brown sugar, apple cider vinegar, Worcestershire, mustard, garlic and Jack Daniel's Tennessee whiskey, simmered till thick and glossy with a deep amber colour. The canonical sauce for ribs, pulled pork, brisket, chicken; and the dipping sauce alongside Memphis-style ribs.*
+*Tennessee's whiskey-spiked BBQ sauce: ketchup, brown sugar, apple cider vinegar, Worcestershire, mustard, garlic and Jack Daniel's Tennessee whiskey, simmered till thick and glossy with a deep amber colour. The traditional sauce for ribs, pulled pork, brisket, chicken; and the dipping sauce alongside Memphis-style ribs.*
 
 **Serves:** Makes 700 ml
 

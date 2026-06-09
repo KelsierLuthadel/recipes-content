@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pholourie is one of Trinidad's most beloved snacks, brought to the island by Indian indentured workers in the 19th century from the bhajia and pakora tradition of South Asia, and now thoroughly Trinidadian: small golden balls of batter (chickpea flour and split-pea flour, with garlic, ginger, scallions, turmeric, cumin and ground geera) deep-fried till crisp outside and tender inside, served piping hot with mango chutney and tamarind sauce. Turns up at every Indo-Trinidadian wedding, Hindu prayer ceremony, christening party, lime (informal social gathering) and big family Sunday; bowls appear on the table and disappear in twenty minutes. The batter must rest properly; the 30-minute rest lets the chickpea flour hydrate fully and the leavening start working, and skipping it gives dense doughy fritters. The spice mix is key: turmeric for colour, geera for warmth, garlic and ginger for the aromatic base, scallions for sharp green notes, Scotch bonnet for canonical Trini heat. The two dipping sauces are non-negotiable; without them the fritters are pleasant but unremarkable.
+Pholourie is one of Trinidad's most beloved snacks, brought to the island by Indian indentured workers in the 19th century from the bhajia and pakora tradition of South Asia, and now thoroughly Trinidadian: small golden balls of batter (chickpea flour and split-pea flour, with garlic, ginger, scallions, turmeric, cumin and ground geera) deep-fried till crisp outside and tender inside, served piping hot with mango chutney and tamarind sauce. Turns up at every Indo-Trinidadian wedding, Hindu prayer ceremony, christening party, lime (informal social gathering) and big family Sunday; bowls appear on the table and disappear in twenty minutes. The batter must rest properly; the 30-minute rest lets the chickpea flour hydrate fully and the leavening start working, and skipping it gives dense doughy fritters. The spice mix is key: turmeric for colour, geera for warmth, garlic and ginger for the aromatic base, scallions for sharp green notes, Scotch bonnet for traditional Trini heat. The two dipping sauces are non-negotiable; without them the fritters are pleasant but unremarkable.
 
 ## Ingredients
 
@@ -94,7 +94,7 @@ Pholourie is one of Trinidad's most beloved snacks, brought to the island by Ind
 - **Rest the batter:** 30 minutes is essential. The chickpea flour needs to hydrate, the leavening needs to start working, and the spices need to infuse. Don't try to skip.
 - **Don't overcrowd the oil:** dropping too many fritters at once drops the oil temperature and gives greasy under-cooked pholourie. Fry in batches of 8-10.
 - **Crisp outside, tender inside:** properly fried pholourie has a crisp golden shell and a tender slightly fluffy interior. Underfried gives raw centres; overfried gives dry hard fritters.
-- **Both sauces:** mango (sweet) and tamarind (sour) is the canonical pairing. One sauce alone is half the experience.
+- **Both sauces:** mango (sweet) and tamarind (sour) is the traditional pairing. One sauce alone is half the experience.
 - **Use both flours if you can:** the chickpea flour is the base; the split pea flour adds a slightly different texture and depth. Pure chickpea flour works but is less.
 
 ## Variations

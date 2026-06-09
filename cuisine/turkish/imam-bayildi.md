@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-İmam bayıldı ("the imam fainted") is one of Turkey's most iconic vegetarian dishes and a legendary recipe with several origin stories: most retellings have an imam fainting from the dish's deliciousness when his wife served it to him, or fainting from shock at how much olive oil she'd used. Whatever the truth of the legend, the dish is one of the great achievements of Ottoman cooking: the canonical vegetarian counterpart to karnıyarık (same eggplants, no meat, much more olive oil). Whole baby aubergines pre-fry briefly in olive oil, then get stuffed with a slow-cooked paste of onion (fifteen to twenty minutes till sweet, never rushed), garlic, tomato, parsley and a generous amount of olive oil. Doused with a tomato-and-water sauce and even more olive oil, the stuffed eggplants slow-cook till completely silky and the cooking liquid reduces to a glossy oily coating. Eaten at room temperature, never hot: the flavours marry as it cools and the eggplant flesh goes properly silky. The olive oil isn't a place to skimp; it's structural.
+İmam bayıldı ("the imam fainted") is one of Turkey's most iconic vegetarian dishes and a legendary recipe with several origin stories: most retellings have an imam fainting from the dish's deliciousness when his wife served it to him, or fainting from shock at how much olive oil she'd used. Whatever the truth of the legend, the dish is one of the great achievements of Ottoman cooking: the traditional vegetarian counterpart to karnıyarık (same eggplants, no meat, much more olive oil). Whole baby aubergines pre-fry briefly in olive oil, then get stuffed with a slow-cooked paste of onion (fifteen to twenty minutes till sweet, never rushed), garlic, tomato, parsley and a generous amount of olive oil. Doused with a tomato-and-water sauce and even more olive oil, the stuffed eggplants slow-cook till completely silky and the cooking liquid reduces to a glossy oily coating. Eat at room temperature, never hot: the flavours marry as it cools and the eggplant flesh goes properly silky. The olive oil isn't a place to skimp; it's structural.
 
 ## Ingredients
 
@@ -36,7 +36,7 @@
 
 ### Cooking liquid
 - 200 ml hot water (or vegetable stock)
-- 100 ml extra virgin olive oil (more oil; canonical)
+- 100 ml extra virgin olive oil (more oil; traditional)
 - Juice of 1 lemon
 
 ### To finish
@@ -103,9 +103,9 @@
 4. Serve with warm pide bread for mopping up the oily sauce, lemon wedges, olives, and cheese.
 
 ## Notes
-- **The olive oil is not a typo:** the dish is meant to be properly oily. Extra virgin olive oil, generous amounts, is the canonical Turkish recipe. The oil is what cooks the eggplant and onions and forms the dish's character.
+- **The olive oil is not a typo:** the dish is meant to be properly oily. Extra virgin olive oil, generous amounts, is the traditional Turkish recipe. The oil is what cooks the eggplant and onions and forms the dish's character.
 - **Slow-cook the onions:** 15-20 minutes minimum till properly soft and pale gold. Rushed onions give a sharp uncooked flavour that ruins the dish.
-- **Eat at room temperature:** this is the canonical Turkish serving temperature. The flavours marry as the dish cools; hot imam bayıldı tastes different (and less good).
+- **Eat at room temperature:** this is the traditional Turkish serving temperature. The flavours marry as the dish cools; hot imam bayıldı tastes different (and less good).
 - **Don't lift the lid much:** the steam-and-oil environment in the covered pot is what gives the silky finish. Every glance loses steam and slows the cooking.
 - **Make ahead:** imam bayıldı is even better the next day. Make in advance, refrigerate, bring to room temperature before serving.
 
@@ -113,10 +113,10 @@
 **With pine nuts and currants:** add 50 g of toasted pine nuts and 50 g of currants to the onion filling; gives a sweeter Ottoman-court-style variation.
 **With chickpeas (chickpea-stuffed):** add 100 g of cooked chickpeas to the filling; makes the dish more substantial as a main course.
 **Sweeter version:** add a tablespoon of pomegranate molasses to the cooking liquid; gives a sweet-tart finishing note.
-**Hot version (less canonical):** serve straight from the pot while still warm; works but loses the proper imam bayıldı character.
+**Hot version (less traditional):** serve straight from the pot while still warm; works but loses the proper imam bayıldı character.
 
 ## Serving
-At room temperature on a wide platter, the eggplants laid out in a row with the oily sauce pooled around. Warm pide bread on the side for dipping. Lemon wedges, olives, cheese. As a meze, a starter or a vegetarian main course. Drink: rakı (the canonical meze pairing), Turkish red wine, or cold beer.
+At room temperature on a wide platter, the eggplants laid out in a row with the oily sauce pooled around. Warm pide bread on the side for dipping. Lemon wedges, olives, cheese. As a meze, a starter or a vegetarian main course. Drink: rakı (the traditional meze pairing), Turkish red wine, or cold beer.
 
 ## Storage
 - Best after 12 hours in the fridge; the flavours need time to marry.

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Apfelschorle is the German default soft drink - sold in 0.5-litre bottles at every petrol station, Imbiss and supermarket, ordered at every café and Biergarten where the alcohol isn't wanted. The build is the simplest possible: cloudy apple juice (Apfelsaft, properly the unfiltered type), mixed half-and-half with sparkling water (Mineralwasser mit Kohlensäure), served ice-cold. Lighter than straight apple juice (which Germans find too sweet), more substantial than plain sparkling water, exactly the right thing on a hot afternoon. The unsweetened "Schorle" suffix attaches to any fruit juice mixed with sparkling water; Apfel is the canonical version.
+Apfelschorle is the German default soft drink - sold in 0.5-litre bottles at every petrol station, Imbiss and supermarket, ordered at every café and Biergarten where the alcohol isn't wanted. The build is the simplest possible: cloudy apple juice (Apfelsaft, properly the unfiltered type), mixed half-and-half with sparkling water (Mineralwasser mit Kohlensäure), served ice-cold. Lighter than straight apple juice (which Germans find too sweet), more substantial than plain sparkling water, exactly the right thing on a hot afternoon. The unsweetened "Schorle" suffix attaches to any fruit juice mixed with sparkling water; Apfel is the traditional version.
 
 ## Ingredients
 

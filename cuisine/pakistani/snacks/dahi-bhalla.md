@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Dahi bhalla is the yogurt-and-fritter snack that turns up at iftar and across Eid mornings on every Pakistani table. Urad dal fritters fry golden, then soak in lukewarm water till sponge-soft, then get drowned in cold spiced sweet yogurt and crowned with tamarind chutney, green mint chutney, pomegranate, sev, fresh coriander and a dust of chaat masala. The batter wants vigorous whipping (five full minutes) so the fritters come out light enough to drink up the yogurt; underwhipped batter gives dense fritters that bounce the yogurt off. The yogurt is sweet-sour-salty-spicy all at once, so don't skip the sugar (bland yogurt makes a sad bowl). Eaten cold with a spoon, every bite a different combination of fritter, yogurt, sweet-sour chutneys and crunch.
+Dahi bhalla is the yogurt-and-fritter snack that turns up at iftar and across Eid mornings on every Pakistani table. Urad dal fritters fry golden, then soak in lukewarm water till sponge-soft, then get drowned in cold spiced sweet yogurt and crowned with tamarind chutney, green mint chutney, pomegranate, sev, fresh coriander and a dust of chaat masala. The batter wants vigorous whipping (five full minutes) so the fritters come out light enough to drink up the yogurt; underwhipped batter gives dense fritters that bounce the yogurt off. The yogurt is sweet-sour-salty-spicy all at once, so don't skip the sugar (bland yogurt makes a sad bowl). Eat cold with a spoon, every bite a different combination of fritter, yogurt, sweet-sour chutneys and crunch.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Agurkesalat (Danish cucumber salad) is the canonical lighter side dish that turns up on every Danish dinner table - alongside frikadeller, stegt flæsk, julestege, smørrebrød herring, or anything where the meat-and-potato richness needs a bright cool counterpoint. The construction is essentially a quick pickle: paper-thin cucumber slices (mandoline ideal) salted briefly to draw out water, drained, then steeped in a 1:2:3 vinegar-sugar-water brine (the same Scandinavian canonical ratio used for inlagd sill and Swedish pressgurka - see [pressgurka recipe](../../swedish/side-dishes/pressgurka.md) for the Swedish cousin) with a generous handful of chopped fresh dill, sometimes with thinly sliced red onion, sometimes with a touch of mustard seed. Unlike the Swedish pressgurka, the Danish version doesn't press the cucumber under weights - it's a quicker version that brines in 20 minutes.
+Agurkesalat (Danish cucumber salad) is the traditional lighter side dish that turns up on every Danish dinner table - alongside frikadeller, stegt flæsk, julestege, smørrebrød herring, or anything where the meat-and-potato richness needs a bright cool counterpoint. The construction is essentially a quick pickle: paper-thin cucumber slices (mandoline ideal) salted briefly to draw out water, drained, then steeped in a 1:2:3 vinegar-sugar-water brine (the same Scandinavian traditional ratio used for inlagd sill and Swedish pressgurka - see [pressgurka recipe](../../swedish/side-dishes/pressgurka.md) for the Swedish cousin) with a generous handful of chopped fresh dill, sometimes with thinly sliced red onion, sometimes with a touch of mustard seed. Unlike the Swedish pressgurka, the Danish version doesn't press the cucumber under weights - it's a quicker version that brines in 20 minutes.
 
 ## Ingredients
 
@@ -64,23 +64,23 @@ Agurkesalat (Danish cucumber salad) is the canonical lighter side dish that turn
 2. Up to 24 hours is fine.
 
 ### Stage 6 - Serve
-1. Lift portions into small glass dishes (the canonical Danish serving vessel).
+1. Lift portions into small glass dishes (the traditional Danish serving vessel).
 2. Top with a reserved dill sprig.
 3. Serve cold alongside warm savoury Danish dishes.
 
 ## Notes
 - **Paper-thin slices:** the Danish texture. Mandoline ideal.
-- **1:2:3 brine:** the Scandinavian canonical ratio. Tastes sweeter than English pickle but milder than Asian pickle.
+- **1:2:3 brine:** the Scandinavian traditional ratio. Tastes sweeter than English pickle but milder than Asian pickle.
 - **Quick brine - 20 min minimum:** unlike Swedish pressgurka which presses for 30 minutes, agurkesalat is a quick steep.
 - **Masses of dill:** Danish recipes use far more dill than you'd expect.
-- **Small glass dish presentation:** the canonical Danish vessel.
+- **Small glass dish presentation:** the traditional Danish vessel.
 
 ## Variations
 **With red onion:** the optional addition gives a sharper pink colour and bite.
 **With mustard seeds:** for a senap-pickled note.
-**Spicier:** add a pinch of cayenne or chopped fresh chilli (less canonical).
+**Spicier:** add a pinch of cayenne or chopped fresh chilli (less traditional).
 **Sweeter:** increase the sugar slightly for the Danish-Christmas-style sweeter version.
-**Without sugar (modern):** for a more savoury vinegar-cucumber salad; loses the canonical Danish balance.
+**Without sugar (modern):** for a more savoury vinegar-cucumber salad; loses the traditional Danish balance.
 
 ## Serving
 At every Danish dinner where the main course is rich or heavy (frikadeller, stegt flæsk, julestege) · at a Christmas julefrokost as one of many small side dishes · at a Danish summer lunch alongside cold cuts · at home with leftover meatballs on rye.

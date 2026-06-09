@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Char kreung is the basic Cambodian stir-fry technique built around kreung paste, the country's signature curry paste of lemongrass, galangal, kaffir lime zest, turmeric, garlic and shallot: any combination of meat or vegetables flash-fried in a hot wok with the kreung blooming in oil first, then the harder vegetables, then the softer ones, finished with fish sauce, palm sugar and fresh chilli for the canonical warm-aromatic, lightly sweet, properly salty profile. The name "char kreung" translates as "stir-fry with kreung". This vegetable version (long beans, eggplant, cabbage, mushrooms) is one of the most common household applications. The two technique points: bloom the kreung in hot oil before the vegetables go in (releases the aromatic oils from the lemongrass and galangal), and stir-fry in a properly hot wok (a cool pan steams instead of searing). The finished dish should be deep orange-yellow from the turmeric, with the kreung clinging in a thin glossy coat and the vegetables tender-crisp rather than soft.
+Char kreung is the basic Cambodian stir-fry technique built around kreung paste, the country's signature curry paste of lemongrass, galangal, kaffir lime zest, turmeric, garlic and shallot: any combination of meat or vegetables flash-fried in a hot wok with the kreung blooming in oil first, then the harder vegetables, then the softer ones, finished with fish sauce, palm sugar and fresh chilli for the traditional warm-aromatic, lightly sweet, properly salty profile. The name "char kreung" translates as "stir-fry with kreung". This vegetable version (long beans, eggplant, cabbage, mushrooms) is one of the most common household applications. The two technique points: bloom the kreung in hot oil before the vegetables go in (releases the aromatic oils from the lemongrass and galangal), and stir-fry in a properly hot wok (a cool pan steams instead of searing). The finished dish should be deep orange-yellow from the turmeric, with the kreung clinging in a thin glossy coat and the vegetables tender-crisp rather than soft.
 
 ## Ingredients
 
@@ -97,7 +97,7 @@ Char kreung is the basic Cambodian stir-fry technique built around kreung paste,
 4. The vegetables should be brightly coloured (green beans, orange-yellow from turmeric coating, deep purple eggplant, bright red pepper), tender-crisp in texture, with a glossy kreung-coated finish.
 
 ## Notes
-- **Bloom the kreung properly:** 2-3 minutes of high-heat stirring with the kreung in oil till the oil splits out is the canonical Cambodian technique. Skipping this step gives raw-tasting kreung; the dish doesn't smell as aromatic.
+- **Bloom the kreung properly:** 2-3 minutes of high-heat stirring with the kreung in oil till the oil splits out is the traditional Cambodian technique. Skipping this step gives raw-tasting kreung; the dish doesn't smell as aromatic.
 - **Hot wok or hot heavy pan:** Cambodian stir-fries need high heat. If your stove can't get a wok screaming hot, use a heavy cast-iron pan; the residual heat will help.
 - **Add vegetables in order of cooking time:** harder vegetables (beans, eggplant) need longer; softer (mushrooms, cabbage) need only 2 minutes. Throwing them all in at once gives uneven texture.
 - **Don't overcook the cabbage:** the cabbage should wilt but keep a slight crunch. 2-3 minutes max once added; longer and it goes limp.

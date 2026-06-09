@@ -74,7 +74,7 @@ Gâteau piment (literally "chilli cake" in Mauritian French) is the iconic stree
 
 ## Notes
 - **Soak the dahl properly:** 4 hours is the minimum; overnight is better. Under-soaked dahl gives gritty fritters. Don't try to skip with hot water.
-- **Coarse grind, not smooth:** the canonical Mauritian texture has visible bits of pea, onion and coriander. A smooth purée gives wrong-textured fritters that compact rather than crumble. Pulse the food processor 8-10 times max.
+- **Coarse grind, not smooth:** the traditional Mauritian texture has visible bits of pea, onion and coriander. A smooth purée gives wrong-textured fritters that compact rather than crumble. Pulse the food processor 8-10 times max.
 - **Oil at 170°C:** higher and the outside burns; lower and the fritters absorb oil. A thermometer is the easy way; the dough-drop test works too.
 - **Don't add the baking powder too early:** baking powder loses potency once mixed into a wet dough. Add it just before frying.
 - **Test one fritter first:** before frying the whole batch, fry just one and check the texture and seasoning. Adjust salt or chilli before the next batch.

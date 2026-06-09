@@ -2,7 +2,7 @@
 
 ![Latkes](resources/latkes.jpg)
 
-*Crisp Ashkenazi potato pancakes fried in shallow oil till shatteringly golden outside and tender inside. Eaten at Hanukkah and constantly the rest of the year, with sour cream or apple sauce on top.*
+*Crisp Ashkenazi potato pancakes fried in shallow oil till shatteringly golden outside and tender inside. Eat at Hanukkah and constantly the rest of the year, with sour cream or apple sauce on top.*
 
 **Makes:** about 16 latkes
 

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Salsa di noci is Liguria's iconic walnut sauce and the lesser-known cousin of pesto Genovese - both are Genoese-Ligurian sauces but salsa di noci uses walnuts instead of basil and pine nuts: shelled walnuts (preferably fresh new-crop), briefly blanched in hot water to soften and peel the bitter skins, then blitzed with crushed garlic, day-old bread soaked in milk (the panada - gives the proper creamy texture), extra virgin olive oil, grated Parmesan and a touch of fresh marjoram (the canonical Ligurian herb) into a creamy pale-coloured sauce. Traditionally served with pansoti (the Ligurian stuffed pasta filled with herbs and ricotta) or any stuffed pasta; also excellent over plain pasta, drizzled on grilled vegetables, or used as a dip for crudités. Blanch and peel the walnuts; the bitter skin gives an off taste, and blanching loosens it for easy peeling. The bread-and-milk panada gives the proper creamy texture. Fresh marjoram (the canonical Ligurian herb, similar to oregano but milder and sweeter) is essential.
+Salsa di noci is Liguria's iconic walnut sauce and the lesser-known cousin of pesto Genovese - both are Genoese-Ligurian sauces but salsa di noci uses walnuts instead of basil and pine nuts: shelled walnuts (preferably fresh new-crop), briefly blanched in hot water to soften and peel the bitter skins, then blitzed with crushed garlic, day-old bread soaked in milk (the panada - gives the proper creamy texture), extra virgin olive oil, grated Parmesan and a touch of fresh marjoram (the traditional Ligurian herb) into a creamy pale-coloured sauce. Traditionally served with pansoti (the Ligurian stuffed pasta filled with herbs and ricotta) or any stuffed pasta; also excellent over plain pasta, drizzled on grilled vegetables, or used as a dip for crudités. Blanch and peel the walnuts; the bitter skin gives an off taste, and blanching loosens it for easy peeling. The bread-and-milk panada gives the proper creamy texture. Fresh marjoram (the traditional Ligurian herb, similar to oregano but milder and sweeter) is essential.
 
 ## Ingredients
 
@@ -71,10 +71,10 @@ Salsa di noci is Liguria's iconic walnut sauce and the lesser-known cousin of pe
 **With ricotta:** add 100 g of fresh ricotta; gives an even creamier version.
 **With cream:** add 50 ml double cream instead of milk for the soak; richer.
 **Almond version (salsa di mandorle):** swap walnuts for blanched almonds; Sicilian variation.
-**With pine nuts:** add 50 g of toasted pine nuts; less canonical but excellent.
+**With pine nuts:** add 50 g of toasted pine nuts; less traditional but excellent.
 
 ## Serving
-With pansoti (the canonical Ligurian pasta), or any stuffed pasta. Over grilled vegetables. As a dip with crudités or bread. Ligurian white wine.
+With pansoti (the traditional Ligurian pasta), or any stuffed pasta. Over grilled vegetables. As a dip with crudités or bread. Ligurian white wine.
 
 ## Storage
 - Keeps refrigerated 5 days with a thin layer of olive oil on top.

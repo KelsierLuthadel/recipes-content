@@ -13,7 +13,7 @@ Holi is the spring festival of colour, and the food follows the energy: bright, 
 
 Gujiya are the festival's signature sweet: half-moon pastry dumplings filled with sweetened khoya, cardamom and dried fruit, deep-fried and dusted with powdered sugar. Jalebi - orange spirals dripping with sugar syrup - turn up alongside. Savoury snacks come in waves: samosa, pakora, aloo tikki, dahi vada. Nothing requires a fork.
 
-The collection here leans on the rich corner of the Indian and Pakistani snack drawer that already lives in the catalogue: anything fried, anything bound with chickpea flour, anything spiced with chaat masala. Canonical Holi dishes like gujiya and thandai are still ahead.
+The collection here leans on the rich corner of the Indian and Pakistani snack drawer that already lives in the catalogue: anything fried, anything bound with chickpea flour, anything spiced with chaat masala. Traditional Holi dishes like gujiya and thandai are still ahead.
 
 ## Recipes
 

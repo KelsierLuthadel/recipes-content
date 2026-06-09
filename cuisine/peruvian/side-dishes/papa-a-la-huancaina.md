@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Papa a la huancaína is the dish that pulled the central-Andean city of Huancayo onto Peru's culinary map. The construction is built around the huancaína sauce: a deceptively simple emulsion of aji amarillo paste, evaporated milk, fresh white cheese (queso fresco, or ricotta plus feta as substitute), a few soda crackers as thickener, garlic, salt and a little oil, all blitzed in a blender into a velvety pourable cream the colour of egg yolk. Poured over thick slices of cold boiled yellow potato (papa amarilla; Yukon Gold substitutes), garnished with hard-boiled egg, a Botija olive, lettuce and parsley. The whole assembly is cold; the canonical Peruvian first course or table-side garnish. The sauce alone is what makes this dish Peruvian, and it's also served in a small dish alongside grilled meat, fried fish, or simply as a dip for cancha (toasted corn snacks).
+Papa a la huancaína is the dish that pulled the central-Andean city of Huancayo onto Peru's culinary map. The construction is built around the huancaína sauce: a deceptively simple emulsion of aji amarillo paste, evaporated milk, fresh white cheese (queso fresco, or ricotta plus feta as substitute), a few soda crackers as thickener, garlic, salt and a little oil, all blitzed in a blender into a velvety pourable cream the colour of egg yolk. Poured over thick slices of cold boiled yellow potato (papa amarilla; Yukon Gold substitutes), garnished with hard-boiled egg, a Botija olive, lettuce and parsley. The whole assembly is cold; the traditional Peruvian first course or table-side garnish. The sauce alone is what makes this dish Peruvian, and it's also served in a small dish alongside grilled meat, fried fish, or simply as a dip for cancha (toasted corn snacks).
 
 ## Ingredients
 
@@ -23,14 +23,14 @@ Papa a la huancaína is the dish that pulled the central-Andean city of Huancayo
 - 4 tablespoons aji amarillo paste (Peruvian yellow chilli paste, from Latin American shops or international supermarkets)
 - 200 g queso fresco (Peruvian fresh cheese; substitute with 100 g ricotta + 100 g feta blended)
 - 200 ml evaporated milk
-- 6 saltine soda crackers (the canonical thickener; or 4 tablespoons fresh breadcrumbs)
+- 6 saltine soda crackers (the traditional thickener; or 4 tablespoons fresh breadcrumbs)
 - 1 clove garlic
 - 4 tablespoons sunflower oil OR vegetable oil
 - 1 tablespoon fresh lime juice
 - 1/2 teaspoon salt (taste before adding more)
 - 1/4 teaspoon white pepper
 
-### The garnish (canonical Peruvian)
+### The garnish (traditional Peruvian)
 - 4 hard-boiled eggs, halved or sliced
 - 8-12 Botija olives (Peruvian dried black olives; Kalamata substitute)
 - 6-8 lettuce leaves (oak leaf, romaine, or iceberg) - the bed for the potatoes
@@ -71,8 +71,8 @@ Papa a la huancaína is the dish that pulled the central-Andean city of Huancayo
 ## Notes
 - **Blitz the sauce till perfectly smooth:** 1-2 minutes in a high-speed blender; coarse sauce ruins the dish.
 - **Aji amarillo paste:** the jarred paste is non-negotiable; substitutes give a different, flatter result.
-- **Yellow waxy potatoes:** papa amarilla canonical; Yukon Gold substitute; never floury (Maris Piper, Russet).
-- **Soda crackers (saltines) thickener:** the canonical Peruvian secret. Substitute with fresh breadcrumbs in a pinch.
+- **Yellow waxy potatoes:** papa amarilla traditional; Yukon Gold substitute; never floury (Maris Piper, Russet).
+- **Soda crackers (saltines) thickener:** the traditional Peruvian secret. Substitute with fresh breadcrumbs in a pinch.
 - **Cold potatoes, room-temp or cold sauce:** never warm. The dish is a cold first course.
 - **The sauce is a Peruvian condiment in its own right:** make a double batch and refrigerate; pour over anything.
 
@@ -86,7 +86,7 @@ Papa a la huancaína is the dish that pulled the central-Andean city of Huancayo
 **Huancaína with quinoa:** instead of potato, use quinoa cooked till tender as the base - the modern healthy variant.
 
 ## Serving
-At a Peruvian first-course Sunday lunch (the canonical setting) · at a Lima criolla restaurant · at a Peruvian Independence Day buffet · at a Peruvian wedding canapé table · at a Peruvian household alongside roast chicken or anticuchos · at home as a make-ahead first course · paired with chicha morada or a cold lager.
+At a Peruvian first-course Sunday lunch (the traditional setting) · at a Lima criolla restaurant · at a Peruvian Independence Day buffet · at a Peruvian wedding canapé table · at a Peruvian household alongside roast chicken or anticuchos · at home as a make-ahead first course · paired with chicha morada or a cold lager.
 
 ## Storage
 - The sauce refrigerates 5 days; whisk briefly before serving if it thickens too much.

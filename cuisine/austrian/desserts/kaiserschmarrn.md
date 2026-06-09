@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Kaiserschmarrn is Austria's most beloved sweet dish: a soufflé-light pancake batter cooked in plenty of butter, then deliberately torn into shaggy caramelised pieces with two forks, dusted heavily with icing sugar and served piping hot with stewed plums (Zwetschkenröster) on the side. The name translates as "emperor's mess". Legend has it the dish was created by accident when a court pastry chef tore his over-handled pancake into pieces before serving Emperor Franz Joseph in the 1850s; the emperor declared it delicious and gave it his name. The tearing is the whole point: the rough cut edges catch the butter and caramelise into crisp dark patches that you'd never get from a smooth pancake. Eaten any time of day in Austria: for lunch in mountain huts, as a Sunday-night supper, or as the canonical dessert at any Tyrolean inn.
+Kaiserschmarrn is Austria's most beloved sweet dish: a soufflé-light pancake batter cooked in plenty of butter, then deliberately torn into shaggy caramelised pieces with two forks, dusted heavily with icing sugar and served piping hot with stewed plums (Zwetschkenröster) on the side. The name translates as "emperor's mess". Legend has it the dish was created by accident when a court pastry chef tore his over-handled pancake into pieces before serving Emperor Franz Joseph in the 1850s; the emperor declared it delicious and gave it his name. The tearing is the whole point: the rough cut edges catch the butter and caramelise into crisp dark patches that you'd never get from a smooth pancake. Eat any time of day in Austria: for lunch in mountain huts, as a Sunday-night supper, or as the traditional dessert at any Tyrolean inn.
 
 ## Ingredients
 
@@ -86,7 +86,7 @@ Kaiserschmarrn is Austria's most beloved sweet dish: a soufflé-light pancake ba
 - **Heavy dusting at the end:** the snow-like top layer of icing sugar isn't garnish, it's part of the dish. Be generous.
 
 ## Variations
-**Zwetschkenröster (plum compote, the canonical partner):** 500 g of halved stoned plums simmered with 80 g sugar, a stick of cinnamon, a strip of lemon zest and a splash of red wine for 15-20 minutes till soft and saucy. Made fresh while the Kaiserschmarrn rests.
+**Zwetschkenröster (plum compote, the traditional partner):** 500 g of halved stoned plums simmered with 80 g sugar, a stick of cinnamon, a strip of lemon zest and a splash of red wine for 15-20 minutes till soft and saucy. Made fresh while the Kaiserschmarrn rests.
 **Apfelmus:** simple apple sauce; the more rustic partner.
 **Mit Schokolade:** chopped dark chocolate added with the raisins; melts into pockets as the cake cooks.
 **Mit Mandeln:** flaked almonds folded into the batter, then more toasted almonds sprinkled over the finished torn pieces; a Salzburg variation.

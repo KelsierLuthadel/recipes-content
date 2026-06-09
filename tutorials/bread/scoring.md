@@ -107,7 +107,7 @@ After the bake, the loaf should tell you what worked.
 ## Where Next
 - [Proving](proving.md): an over-proved loaf scores poorly because there is no spring left.
 - [Sourdough Basics](sourdough.md): sourdoughs are scored more dramatically than yeasted loaves.
-- [Shape Gallery](shapes.md): each shape has its own canonical score.
+- [Shape Gallery](shapes.md): each shape has its own traditional score.
 - [Bloomer](bloomer.md): six diagonals are the classic bloomer score.
 - [Coburg](coburg.md): the cross-cut round.
 

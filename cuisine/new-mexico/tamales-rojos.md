@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-New Mexico tamales rojos are the canonical NM Christmas Eve and major feast-day labour of love: masa harina (the Mexican corn flour) mixed with lard, salt, chicken stock and red chile paste to make a thick spreadable dough, spread on softened dried corn husks, topped with a small portion of slow-cooked red chile pork (cubed pork shoulder simmered in NM red chile sauce till tender and shredded), folded into rectangular packets, and steamed for 90 minutes. The Christmas Eve tamale tradition is a family undertaking: three generations gathering around a table assembling dozens or hundreds of tamales in an afternoon.
+New Mexico tamales rojos are the traditional NM Christmas Eve and major feast-day labour of love: masa harina (the Mexican corn flour) mixed with lard, salt, chicken stock and red chile paste to make a thick spreadable dough, spread on softened dried corn husks, topped with a small portion of slow-cooked red chile pork (cubed pork shoulder simmered in NM red chile sauce till tender and shredded), folded into rectangular packets, and steamed for 90 minutes. The Christmas Eve tamale tradition is a family undertaking: three generations gathering around a table assembling dozens or hundreds of tamales in an afternoon.
 
 ## Ingredients
 

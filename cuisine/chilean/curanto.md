@@ -88,19 +88,19 @@ Curanto is the iconic dish of Chiloé, the rainy archipelago off Chile's souther
 1. Bring the pot to the table.
 2. Open with ceremony.
 3. Distribute layers onto plates: each diner gets some shellfish, some meat, some sausage, some potato, some milcao.
-4. Ladle a small bowl of the cooking broth for each diner (the canonical "caldo" is sipped alongside).
+4. Ladle a small bowl of the cooking broth for each diner (the traditional "caldo" is sipped alongside).
 5. Lemon wedges, pebre, parsley garnish.
 
 ## Notes
 - **Layer order matters:** shellfish on bottom (releases liquid), meats next, potatoes and milcao on top.
 - **Don't lift the lid:** the steam does the cooking.
-- **Multiple proteins canonical:** variety is the point.
+- **Multiple proteins traditional:** variety is the point.
 - **Milcao is the Chiloé signature:** the potato bread distinguishes the dish.
 - **Family-style serving:** each diner gets a sampling.
 
 ## Variations
 **Simpler curanto without milcao:** skip the milcao if making for the first time; the dish still works.
-**Chapaleles (boiled potato dumplings):** the canonical accompaniment alongside milcao; make from grated raw potato + flour + lard; boil for 15 minutes; add to the pot in the last 30 minutes.
+**Chapaleles (boiled potato dumplings):** the traditional accompaniment alongside milcao; make from grated raw potato + flour + lard; boil for 15 minutes; add to the pot in the last 30 minutes.
 **Larger feast version:** scale everything up; cook in a giant pot for a true family feast.
 **Vegetarian-leaning:** skip the meats; focus on shellfish + potatoes + cabbage + milcao; still excellent.
 

@@ -25,7 +25,7 @@ Pirozhki are Russia's most beloved savoury bun and one of the country's most wid
 - 1 large egg
 - 1 large egg yolk
 
-### Filling (beef-and-onion; the canonical)
+### Filling (beef-and-onion; the traditional)
 - 400 g minced beef
 - 1 large onion (finely chopped)
 - 2 tablespoons butter

@@ -6,7 +6,7 @@
 
 ## Overview
 
-This page covers the canonical Mexican plate-construction logic. How to read what's on a plate; how to compose one yourself.
+This page covers the traditional Mexican plate-construction logic. How to read what's on a plate; how to compose one yourself.
 
 ## The five elements
 
@@ -24,11 +24,11 @@ A torta is: bread + meat + beans + lettuce + tomato + chillies + crema + avocado
 
 Each element does a specific job. The tortilla is the structure; the meat is the centre; the salsa is the seasoning; the onion / lime / coriander provide the fresh / bright lift; the cheese / crema provides the richness.
 
-## The canonical Mexican plates
+## The traditional Mexican plates
 
 ### Taco (the everyday)
 
-The fundamental Mexican unit. Two corn tortillas (the canonical doubling for strength), a small portion of seasoned meat or vegetable filling, a sprinkle of chopped white onion + fresh coriander, a squeeze of lime, and a salsa.
+The fundamental Mexican unit. Two corn tortillas (the traditional doubling for strength), a small portion of seasoned meat or vegetable filling, a sprinkle of chopped white onion + fresh coriander, a squeeze of lime, and a salsa.
 
 The taco is meant to be eaten in 2-3 bites. Anything bigger is a burrito or a tostada.
 
@@ -47,7 +47,7 @@ Variations by filling:
 
 ### Quesadilla
 
-A folded or sandwiched tortilla with cheese and a filling, griddled until the cheese melts. Quesillo (Oaxacan string cheese) is canonical, but any melting cheese works.
+A folded or sandwiched tortilla with cheese and a filling, griddled until the cheese melts. Quesillo (Oaxacan string cheese) is traditional, but any melting cheese works.
 
 The basic quesadilla:
 - Tortilla, folded, with cheese + (optional) huitlacoche (corn smut) or mushroom or chicken or squash blossom.
@@ -57,7 +57,7 @@ The basic quesadilla:
 
 Corn tortillas dipped briefly in salsa, rolled around a filling (chicken, beef, cheese, or beans), placed in a baking dish, more salsa on top, baked with cheese.
 
-The canonical:
+The traditional:
 - **Enchiladas rojas** — with salsa roja.
 - **Enchiladas verdes** — with salsa verde.
 - **Enchiladas suizas** — with cream and cheese (modern, less traditional).
@@ -92,13 +92,13 @@ Fried tortilla pieces simmered briefly in salsa. Topped with crema, queso fresco
 - **Chilaquiles rojos** — with salsa roja.
 - **Chilaquiles verdes** — with salsa verde.
 
-The canonical Mexican-grandma's morning meal.
+The traditional Mexican-grandma's morning meal.
 
 ### Huevos rancheros
 
 Two fried eggs on top of two warm tortillas, topped with hot salsa roja. Sides of rice, refried beans, sliced avocado.
 
-The other canonical breakfast.
+The other traditional breakfast.
 
 ### Chiles rellenos
 
@@ -145,7 +145,7 @@ Set out:
 - Chopped onion + cilantro + lime wedges + sliced radish + sliced avocado.
 - Crumbled queso fresco + crema.
 
-The eater assembles their own tacos as they go. This is the canonical taquería experience.
+The eater assembles their own tacos as they go. This is the traditional taquería experience.
 
 ## The Mexican meal structure
 

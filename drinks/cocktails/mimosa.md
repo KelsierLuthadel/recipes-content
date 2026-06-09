@@ -42,7 +42,7 @@ The Mimosa was invented at the Hotel Ritz Paris in 1925 and named for the bright
 - **Fresh orange juice over carton.** This is the single most common Mimosa failure: carton juice gives a flat, dull drink. Squeezing two oranges takes 60 seconds.
 - **Champagne or sparkling wine.** A bottle of Veuve Clicquot in a Mimosa is wasted; a midrange Champagne or a decent dry Prosecco gives an indistinguishable result. Spend the money on the orange juice.
 - **Don't stir.** The bubbles mix the drink; stirring deflates the wine and you lose the sparkle.
-- **Adjust the ratio to taste.** 50:50 is canonical. Heavier on the Champagne gives a drier, more alcoholic drink; heavier on the juice gives a breakfast version that's almost virgin.
+- **Adjust the ratio to taste.** 50:50 is traditional. Heavier on the Champagne gives a drier, more alcoholic drink; heavier on the juice gives a breakfast version that's almost virgin.
 
 ## Variations
 - **Bellini.** Replace the orange juice with white peach purée; the Venetian variant invented at Harry's Bar in 1948. Made with Prosecco rather than Champagne, the regional touchstone.

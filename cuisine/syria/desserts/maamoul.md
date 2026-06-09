@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Ma'amoul is one of the Levant's most iconic cookies and a Syrian household tradition for every major celebration: Easter for Christians, Eid al-Fitr for Muslims, weddings, christenings, family gatherings. A tender semolina-and-butter shortbread shell wraps a sweet filling, pressed into carved wooden moulds with decorative patterns. The three canonical fillings are date with orange blossom water, walnut with rose water and cinnamon, and pistachio with rose water; each filling gets a different mould shape (round for dates, dome for pistachios, oval for walnuts) so they can be told apart on the platter without opening one. The long dough rest is the technique home cooks new to the cookie most often skip; four hours or overnight after mixing is essential for the semolina to absorb the butter and give the proper melt-in-the-mouth texture, and a rushed dough gives gritty ma'amoul. Pale-bake is non-negotiable; pale tops with only the underside lightly golden, where browned ma'amoul tastes wrong. Dusted with icing sugar after cooling.
+Ma'amoul is one of the Levant's most iconic cookies and a Syrian household tradition for every major celebration: Easter for Christians, Eid al-Fitr for Muslims, weddings, christenings, family gatherings. A tender semolina-and-butter shortbread shell wraps a sweet filling, pressed into carved wooden moulds with decorative patterns. The three traditional fillings are date with orange blossom water, walnut with rose water and cinnamon, and pistachio with rose water; each filling gets a different mould shape (round for dates, dome for pistachios, oval for walnuts) so they can be told apart on the platter without opening one. The long dough rest is the technique home cooks new to the cookie most often skip; four hours or overnight after mixing is essential for the semolina to absorb the butter and give the proper melt-in-the-mouth texture, and a rushed dough gives gritty ma'amoul. Pale-bake is non-negotiable; pale tops with only the underside lightly golden, where browned ma'amoul tastes wrong. Dusted with icing sugar after cooling.
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ Ma'amoul is one of the Levant's most iconic cookies and a Syrian household tradi
 - 200 g plain flour
 - 300 g unsalted butter (softened to room temperature; or use clarified butter / ghee for the proper Syrian version)
 - 80 g caster sugar
-- ½ teaspoon mahleb (ground cherry kernel; the canonical Levantine spice; or substitute with ½ teaspoon vanilla extract)
+- ½ teaspoon mahleb (ground cherry kernel; the traditional Levantine spice; or substitute with ½ teaspoon vanilla extract)
 - 1 teaspoon ground anise seed (optional but very Syrian)
 - 1 teaspoon ground cardamom
 - ½ teaspoon fine sea salt

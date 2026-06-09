@@ -2,7 +2,7 @@
 
 ![Bajan Rice and Peas](resources/rice-and-peas.jpg)
 
-*Barbados's canonical side: long-grain rice cooked in coconut milk with pigeon peas, onion, garlic, thyme and a whole Scotch bonnet for flavour without aggressive heat.*
+*Barbados's traditional side: long-grain rice cooked in coconut milk with pigeon peas, onion, garlic, thyme and a whole Scotch bonnet for flavour without aggressive heat.*
 
 **Serves:** 6 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Bajan rice and peas (called "rice and peas" across the English Caribbean) is the canonical Sunday-lunch starch. Despite the name, the "peas" are actually pigeon peas (gungo peas in Jamaica, guandules in Spanish-speaking Caribbean), small dried beans rather than garden peas. They soak overnight, then boil with onion, garlic and bay till tender (canned pigeon peas are the workable shortcut). The rice cooks in a mix of coconut milk and the pigeon-pea cooking broth; the coconut milk is what gives the rice its slight sweet richness, and without it you've made plain rice. The whole intact Scotch bonnet is the canonical Bajan trick: dropped uncut into the pot, it gives flavour and aroma but minimal heat (the heat is in the seeds and ribs). Prick it a few times if you want more heat; fish it out before serving. Eaten alongside stew chicken, Bajan fried chicken, fish or anything else on the Sunday plate.
+Bajan rice and peas (called "rice and peas" across the English Caribbean) is the traditional Sunday-lunch starch. Despite the name, the "peas" are actually pigeon peas (gungo peas in Jamaica, guandules in Spanish-speaking Caribbean), small dried beans rather than garden peas. They soak overnight, then boil with onion, garlic and bay till tender (canned pigeon peas are the workable shortcut). The rice cooks in a mix of coconut milk and the pigeon-pea cooking broth; the coconut milk is what gives the rice its slight sweet richness, and without it you've made plain rice. The whole intact Scotch bonnet is the traditional Bajan trick: dropped uncut into the pot, it gives flavour and aroma but minimal heat (the heat is in the seeds and ribs). Prick it a few times if you want more heat; fish it out before serving. Eat alongside stew chicken, Bajan fried chicken, fish or anything else on the Sunday plate.
 
 ## Ingredients
 
@@ -98,7 +98,7 @@ Bajan rice and peas (called "rice and peas" across the English Caribbean) is the
 - **Coconut milk is essential:** without it, you've made plain rice. With it, you've made Caribbean rice and peas.
 - **Whole intact Scotch bonnet:** flavour without aggressive heat. If you prick it with a fork, you get more heat. If you cut it, you get a LOT of heat.
 - **Don't lift the lid:** the steam needs to cook the rice. 18-22 minutes covered, then 10 minutes resting off the heat.
-- **Canned pigeon peas work:** the canonical Bajan home version often uses canned for speed; the dried-and-soaked version has slightly better flavour.
+- **Canned pigeon peas work:** the traditional Bajan home version often uses canned for speed; the dried-and-soaked version has slightly better flavour.
 
 ## Variations
 **Rice and peas with salt pork:** add 100 g diced salt pork to the sweated onion - the rich Bajan variant.
@@ -110,7 +110,7 @@ Bajan rice and peas (called "rice and peas" across the English Caribbean) is the
 **Crab rice and peas (Bajan coastal variant):** add cooked crab meat in the last 5 minutes - the seafood variant.
 
 ## Serving
-At a Bajan Sunday lunch (the canonical setting; rice and peas is the canonical starch on the Sunday plate) · at a Bajan Independence Day (30 November) celebration · at a Bajan rum-shop · at a Caribbean food festival · at home as the Caribbean-themed side · paired with stew chicken, Bajan fried chicken, oxtail, or jerk chicken.
+At a Bajan Sunday lunch (the traditional setting; rice and peas is the traditional starch on the Sunday plate) · at a Bajan Independence Day (30 November) celebration · at a Bajan rum-shop · at a Caribbean food festival · at home as the Caribbean-themed side · paired with stew chicken, Bajan fried chicken, oxtail, or jerk chicken.
 
 ## Storage
 - Refrigerates 4 days. Reheats well in a covered pan with a splash of water.

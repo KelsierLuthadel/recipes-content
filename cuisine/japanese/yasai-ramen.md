@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A vegetable ramen built on a mushroom-and-kombu broth instead of the chicken or pork bones of meaty bowls, with miso for body and soy tare for backbone. The broth is dried shiitake and kombu steeped in hot water, then simmered with smashed spring onion, garlic and ginger till it deepens and turns slightly sweet. The tare goes straight into the bottom of each bowl: sesame oil whisked with white miso, soy, mirin, a splash of Shaoxing and a pinch of sugar. The hot broth emulsifies it as it pours. Topped with fried tofu, blanched bok choy and sweetcorn, the sliced rehydrated shiitake from the broth, half a soft-boiled egg, a strip of nori, spring onions, sesame seeds and a few drops of chilli oil. Eaten immediately.
+A vegetable ramen built on a mushroom-and-kombu broth instead of the chicken or pork bones of meaty bowls, with miso for body and soy tare for backbone. The broth is dried shiitake and kombu steeped in hot water, then simmered with smashed spring onion, garlic and ginger till it deepens and turns slightly sweet. The tare goes straight into the bottom of each bowl: sesame oil whisked with white miso, soy, mirin, a splash of Shaoxing and a pinch of sugar. The hot broth emulsifies it as it pours. Topped with fried tofu, blanched bok choy and sweetcorn, the sliced rehydrated shiitake from the broth, half a soft-boiled egg, a strip of nori, spring onions, sesame seeds and a few drops of chilli oil. Eat immediately.
 
 ## Ingredients
 

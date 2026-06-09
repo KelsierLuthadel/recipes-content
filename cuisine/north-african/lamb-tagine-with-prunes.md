@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 15 minutes
 
 ## Overview
-Morocco's Friday lamb tagine: the slow Sunday-lunch dish that wraps the kitchen in saffron and cinnamon. Lamb shoulder slow-cooked till the meat slips off, finished with soft brandy-soaked prunes and a spoon of honey, topped with toasted almonds and sesame. Shoulder, not leg: shoulder has the fat and connective tissue that melt over two hours into a silky sauce; leg goes dry. Soft Agen-style prunes are essential; hard dried prunes never quite catch up in the soak. The honey goes in at the end, not the start (added early it scorches). Brandy-soaked prunes with their liquid join for the last fifteen to twenty minutes uncovered, till the sauce reduces and the prunes plump. Toasted whole almonds, sesame seeds and chopped coriander scatter across the top. Eaten with bread or fluffy couscous.
+Morocco's Friday lamb tagine: the slow Sunday-lunch dish that wraps the kitchen in saffron and cinnamon. Lamb shoulder slow-cooked till the meat slips off, finished with soft brandy-soaked prunes and a spoon of honey, topped with toasted almonds and sesame. Shoulder, not leg: shoulder has the fat and connective tissue that melt over two hours into a silky sauce; leg goes dry. Soft Agen-style prunes are essential; hard dried prunes never quite catch up in the soak. The honey goes in at the end, not the start (added early it scorches). Brandy-soaked prunes with their liquid join for the last fifteen to twenty minutes uncovered, till the sauce reduces and the prunes plump. Toasted whole almonds, sesame seeds and chopped coriander scatter across the top. Eat with bread or fluffy couscous.
 
 ## Ingredients
 

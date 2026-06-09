@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-The sweet potatoes are roasted whole until the flesh collapses and the sugars caramelise around the seam - never boiled, which dilutes them. The flesh is whipped warm with butter, evaporated milk, eggs, brown sugar, cinnamon, nutmeg and a splash of bourbon (optional, but classical). Poured into a chilled all-butter shortcrust shell and baked low and slow until the centre sets with a faint wobble. Cooled to barely-warm and dusted with icing sugar, or topped with whipped cream.
+Sweet potato pie is the Southern Thanksgiving pie that crosses every African-American holiday table and turns up at Kwanzaa, Christmas and Sunday family dinners across the South: smoother, lighter and more aromatic than its pumpkin cousin. The roast is the technique that separates a great sweet-potato pie from a flat one. You roast the potatoes whole until the flesh collapses and the sugars caramelise around the seam where the juices have leaked onto the tray, then whip the warm flesh with butter, evaporated milk, eggs, brown sugar, cinnamon, nutmeg and a classical splash of bourbon. Boiling the potatoes (which a hurried home cook sometimes does) dilutes the flavour and gives a watery, pale filling that misses what makes the dish what it is. The shell is an all-butter shortcrust, chilled before the wet filling goes in. Bake low and slow until the centre sets with a faint wobble, cool to barely-warm and dust with icing sugar or finish with whipped cream.
 
 ## Ingredients
 

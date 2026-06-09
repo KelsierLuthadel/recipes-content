@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The root beer float was invented in 1893 by Frank Wisner in Cripple Creek, Colorado, when he was looking at a snowy moonlit peak and decided his root beer needed something white floating in it. The build is two ingredients: a scoop of good vanilla ice cream dropped into a tall chilled glass of cold root beer. The ice cream releases its butterfat into the soda and creates a thick foam crown; the root beer's sweet sarsaparilla bite cuts through the cream. American diner classic, served with a long spoon and a paper straw because you need both. A&W and Barq's are the canonical American root beers; if you're outside the US, Mexican Sangrita root beer or any sarsaparilla soda works.
+The root beer float was invented in 1893 by Frank Wisner in Cripple Creek, Colorado, when he was looking at a snowy moonlit peak and decided his root beer needed something white floating in it. The build is two ingredients: a scoop of good vanilla ice cream dropped into a tall chilled glass of cold root beer. The ice cream releases its butterfat into the soda and creates a thick foam crown; the root beer's sweet sarsaparilla bite cuts through the cream. American diner classic, served with a long spoon and a paper straw because you need both. A&W and Barq's are the traditional American root beers; if you're outside the US, Mexican Sangrita root beer or any sarsaparilla soda works.
 
 ## Ingredients
 

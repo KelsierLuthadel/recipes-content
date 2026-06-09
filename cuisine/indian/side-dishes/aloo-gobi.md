@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-North India's everyday dry curry and a staple of Punjabi home cooking: chunks of potato and cauliflower pan-fried with cumin, ginger, garlic, turmeric and a quick tomato sauce, finished with garam masala and a generous handful of fresh coriander. The dish belongs to the sabzi category of dry vegetable curries (as opposed to wet gravied ones), and the canonical Punjabi version stays dry enough that the vegetables are coated rather than swimming, with no liquid pooling on the plate. The potatoes need to go in first; they take longer than the cauliflower to soften, and adding both at once gives undercooked potato and overcooked florets. The cauliflower wants to stay just-tender with a slight bite rather than collapsing into mush. Eaten with chapatis or paratha and a bowl of dal, or as a side alongside any rice-and-curry meal across North India.
+North India's everyday dry curry and a staple of Punjabi home cooking: chunks of potato and cauliflower pan-fried with cumin, ginger, garlic, turmeric and a quick tomato sauce, finished with garam masala and a generous handful of fresh coriander. The dish belongs to the sabzi category of dry vegetable curries (as opposed to wet gravied ones), and the traditional Punjabi version stays dry enough that the vegetables are coated rather than swimming, with no liquid pooling on the plate. The potatoes need to go in first; they take longer than the cauliflower to soften, and adding both at once gives undercooked potato and overcooked florets. The cauliflower wants to stay just-tender with a slight bite rather than collapsing into mush. Eat with chapatis or paratha and a bowl of dal, or as a side alongside any rice-and-curry meal across North India.
 
 ## Ingredients
 

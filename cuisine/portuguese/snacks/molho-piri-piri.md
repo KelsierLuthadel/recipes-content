@@ -77,7 +77,7 @@ Molho piri-piri is Portugal's foundational hot sauce and the source of the famou
 **Sweet piri-piri:** double the sugar and add 1 tablespoon of honey; balances the heat.
 
 ## Serving
-With piri-piri chicken (the canonical use), grilled prawns, bacalhau, grilled fish, roasted vegetables, sandwiches. At the Portuguese table as a condiment.
+With piri-piri chicken (the traditional use), grilled prawns, bacalhau, grilled fish, roasted vegetables, sandwiches. At the Portuguese table as a condiment.
 
 ## Storage
 - Keeps refrigerated 1 month in a sealed jar.

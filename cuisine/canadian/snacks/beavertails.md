@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes (3 minutes per piece)
 
 ## Overview
-BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly resemble a beaver's tail. The trademark is held by BeaverTails Canada Inc., who founded the kiosk chain in Ottawa in 1978; the generic Quebec name is "queues de castor". Sold from kiosks on the frozen Rideau Canal during Ottawa's Winterlude festival, now imitated across Canada from Whistler to Quebec City. The construction is built around three specifics. The dough: yeasted brioche-style, enriched with butter, milk and a single egg, rolled out and stretched by hand into irregular ovals about 25 cm long. The hand-stretching matters; the BeaverTail isn't a uniform disc, it's slightly thicker in the middle than at the edges. The fry: 180 °C for about ninety seconds per side. The topping: cinnamon-sugar is the canonical classic, but the kiosk menu includes Killaloe Sunrise (cinnamon-sugar plus lemon), Choco-Hazelnut, the Reese, the Maple, and others. Eaten hot from the fryer with your hands.
+BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly resemble a beaver's tail. The trademark is held by BeaverTails Canada Inc., who founded the kiosk chain in Ottawa in 1978; the generic Quebec name is "queues de castor". Sold from kiosks on the frozen Rideau Canal during Ottawa's Winterlude festival, now imitated across Canada from Whistler to Quebec City. The construction is built around three specifics. The dough: yeasted brioche-style, enriched with butter, milk and a single egg, rolled out and stretched by hand into irregular ovals about 25 cm long. The hand-stretching matters; the BeaverTail isn't a uniform disc, it's slightly thicker in the middle than at the edges. The fry: 180 °C for about ninety seconds per side. The topping: cinnamon-sugar is the traditional classic, but the kiosk menu includes Killaloe Sunrise (cinnamon-sugar plus lemon), Choco-Hazelnut, the Reese, the Maple, and others. Eat hot from the fryer with your hands.
 
 ## Ingredients
 
@@ -26,7 +26,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 - 1 teaspoon vanilla extract
 
 ### For frying
-- 2 litres sunflower oil OR rapeseed oil (or 1.5 kg beef tallow for the canonical Quebec version - a strong but excellent taste)
+- 2 litres sunflower oil OR rapeseed oil (or 1.5 kg beef tallow for the traditional Quebec version - a strong but excellent taste)
 
 ### Topping 1 - Cinnamon-sugar (the classic)
 - 150 g caster sugar
@@ -72,7 +72,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 
 ### Stage 4 - Hand-stretch the BeaverTails
 1. Take one ball; press flat with the palm.
-2. With floured hands, stretch each ball into an irregular oval about 25 cm × 10 cm, with one end slightly wider than the other and the surface slightly uneven (this is the canonical look - irregular, not perfectly oval).
+2. With floured hands, stretch each ball into an irregular oval about 25 cm × 10 cm, with one end slightly wider than the other and the surface slightly uneven (this is the traditional look - irregular, not perfectly oval).
 3. The dough should be about 4-5 mm thick.
 4. Place each stretched piece on a lightly floured baking sheet.
 
@@ -108,7 +108,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 - **Don't reheat in the microwave:** the texture is destroyed. The oven (200°C for 4 minutes) revives them passably; freshly fried is always better.
 
 ## Variations
-**Killaloe Sunrise (the original BeaverTails Inc. variant):** dust with cinnamon-sugar; squeeze fresh lemon juice over - the canonical Ottawa kiosk classic.
+**Killaloe Sunrise (the original BeaverTails Inc. variant):** dust with cinnamon-sugar; squeeze fresh lemon juice over - the traditional Ottawa kiosk classic.
 **Choco-Hazelnut BeaverTail:** spread 2 tablespoons warm Nutella over the hot pastry; eat immediately.
 **Maple Butter and Skor:** spread with maple butter (recipe above); sprinkle 1 tablespoon of crushed Skor or Heath toffee bits.
 **Apple Cinnamon BeaverTail:** dust with cinnamon-sugar; pile with finely chopped cooked apples (apple chunks pre-stewed with brown sugar and cinnamon).
@@ -120,7 +120,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 **Mini BeaverTails (for kids):** halve the dough portions (55 g each); make 12 smaller hand-stretched pieces; fry 60 seconds per side.
 
 ## Serving
-At an Ottawa BeaverTails kiosk on the frozen Rideau Canal during Winterlude (the canonical setting; February in Ottawa) · at a Quebec winter festival · at a Canadian ski-resort village · at a Canadian National Exhibition (the CNE in Toronto) · at a Banff or Whistler summer street fair · at home as a Sunday-afternoon treat with hot chocolate · paired with a hot maple toddy or a Canadian coffee.
+At an Ottawa BeaverTails kiosk on the frozen Rideau Canal during Winterlude (the traditional setting; February in Ottawa) · at a Quebec winter festival · at a Canadian ski-resort village · at a Canadian National Exhibition (the CNE in Toronto) · at a Banff or Whistler summer street fair · at home as a Sunday-afternoon treat with hot chocolate · paired with a hot maple toddy or a Canadian coffee.
 
 ## Storage
 - Best eaten within 5 minutes of frying. The texture is destroyed after an hour.

@@ -2,7 +2,7 @@
 
 ![Inlagd Sill](resources/inlagd-sill.jpg)
 
-*Sweden's iconic pickled herring: salt-cured herring fillets sliced into bite-size pieces and steeped in a sweet-tangy vinegar brine with red onion, dill, allspice, mustard seeds and bay. The cornerstone of every smörgåsbord, the canonical Midsommar starter, and the dish that defines Swedish snaps-drinking culture (you eat herring with akvavit; the salt cuts the spirit).*
+*Sweden's iconic pickled herring: salt-cured herring fillets sliced into bite-size pieces and steeped in a sweet-tangy vinegar brine with red onion, dill, allspice, mustard seeds and bay. The cornerstone of every smörgåsbord, the traditional Midsommar starter, and the dish that defines Swedish snaps-drinking culture (you eat herring with akvavit; the salt cuts the spirit).*
 
 **Serves:** 6-8 (as a smörgåsbord component)
 
@@ -16,9 +16,9 @@ Inlagd sill (literally "pickled herring") is one of Sweden's most foundational d
 ## Ingredients
 
 ### Herring
-- 400 g pre-cured Scandinavian salt herring fillets (matjessill, saltsill, or any cured herring fillet from a jar or vacuum pack - these are the canonical Scandinavian pickled-herring base, NOT raw or smoked herring; substitute with rollmops if completely unavailable)
+- 400 g pre-cured Scandinavian salt herring fillets (matjessill, saltsill, or any cured herring fillet from a jar or vacuum pack - these are the traditional Scandinavian pickled-herring base, NOT raw or smoked herring; substitute with rollmops if completely unavailable)
 
-### Brine (1:2:3 ratio - the Swedish canonical)
+### Brine (1:2:3 ratio - the Swedish traditional)
 - 100 ml white wine vinegar (or distilled vinegar)
 - 200 g caster sugar
 - 300 ml cold water
@@ -90,13 +90,13 @@ Inlagd sill (literally "pickled herring") is one of Sweden's most foundational d
 
 ## Notes
 - **Pre-cured herring, not raw:** matjessill or saltsill - start from already-cured fillets. Curing raw herring is a separate process.
-- **1:2:3 brine ratio (vinegar:sugar:water):** the Swedish canonical balance - sweeter and milder than Dutch or German pickled herring. Adjust to taste once you've made the canonical version.
+- **1:2:3 brine ratio (vinegar:sugar:water):** the Swedish traditional balance - sweeter and milder than Dutch or German pickled herring. Adjust to taste once you've made the traditional version.
 - **Cool the brine completely:** warm brine cooks the fish; ruins the texture.
 - **24-48 hour minimum:** less and the herring is still salty-strong; more is fine.
 - **Snaps alongside:** the akvavit-and-herring pairing is structural. The vinegar-salt-acid cuts the spirit.
 
 ## Variations
-**Senapssill (mustard-pickled):** add 4 tablespoons of Dijon mustard to the brine; very canonical Christmas variant.
+**Senapssill (mustard-pickled):** add 4 tablespoons of Dijon mustard to the brine; very traditional Christmas variant.
 **Glasmästarsill (glassblower's herring):** add fresh ginger slices, sliced carrot, horseradish - a layered colourful variant.
 **Curry-pickled:** add 1 tablespoon curry powder to the brine.
 **Tomato-pickled (löksill):** add tomato paste + paprika to the brine.

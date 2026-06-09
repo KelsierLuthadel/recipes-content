@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-These small Thai pork meatballs (loog chin moo) pack a punch from a coarse herb paste of lemongrass, galangal, kaffir lime leaves and bird's-eye chilli pounded with garlic and spring onion, mixed into pork mince with fish sauce and a touch of honey or palm sugar, rolled small and pan-fried golden. They turn up at Thai parties and street stalls served on sticks with sweet chilli sauce, or dropped into a broth to make a quick meatball soup. Lemongrass is the fibrous holdout: get it broken down to a fine paste first, then the rest of the aromatics pound through quickly. Fry a single spoonful before rolling the whole batch so the seasoning gets dialled before twenty meatballs are committed. Eaten with sweet chilli sauce, chilli jam and a squeeze of lime; the same meatballs drop straight into a clear broth or curry sauce for a quick main-course option.
+These small Thai pork meatballs (loog chin moo) pack a punch from a coarse herb paste of lemongrass, galangal, kaffir lime leaves and bird's-eye chilli pounded with garlic and spring onion, mixed into pork mince with fish sauce and a touch of honey or palm sugar, rolled small and pan-fried golden. They turn up at Thai parties and street stalls served on sticks with sweet chilli sauce, or dropped into a broth to make a quick meatball soup. Lemongrass is the fibrous holdout: get it broken down to a fine paste first, then the rest of the aromatics pound through quickly. Fry a single spoonful before rolling the whole batch so the seasoning gets dialled before twenty meatballs are committed. Eat with sweet chilli sauce, chilli jam and a squeeze of lime; the same meatballs drop straight into a clear broth or curry sauce for a quick main-course option.
 
 ## Ingredients
 

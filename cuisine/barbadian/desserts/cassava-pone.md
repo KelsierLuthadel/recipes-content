@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots going back to the 17th century when Bajan slaves combined indigenous Caribbean cassava with grated coconut, sugar and spices brought from West African and European trade. The base is a canonical Bajan trio of grated cassava, fresh coconut and grated sweet potato (or pumpkin), bound with soft brown sugar, butter, eggs and warm spices (cinnamon, nutmeg, mixed spice, vanilla). The cassava is the technical centre: peeled and grated fine, with the released liquid squeezed out before baking. Fresh cassava is canonical, but frozen grated cassava from a Latin American shop works well. Baked in a wide tin at 180 °C for over an hour till the top is deeply mahogany and slightly crackled, the interior dense, chewy and almost slightly translucent. Cut into hefty squares; eaten as a tea-cake or dessert with a cup of strong Bajan tea or a glass of cold cocoa.
+Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots going back to the 17th century when Bajan slaves combined indigenous Caribbean cassava with grated coconut, sugar and spices brought from West African and European trade. The base is a traditional Bajan trio of grated cassava, fresh coconut and grated sweet potato (or pumpkin), bound with soft brown sugar, butter, eggs and warm spices (cinnamon, nutmeg, mixed spice, vanilla). The cassava is the technical centre: peeled and grated fine, with the released liquid squeezed out before baking. Fresh cassava is traditional, but frozen grated cassava from a Latin American shop works well. Baked in a wide tin at 180 °C for over an hour till the top is deeply mahogany and slightly crackled, the interior dense, chewy and almost slightly translucent. Cut into hefty squares; eaten as a tea-cake or dessert with a cup of strong Bajan tea or a glass of cold cocoa.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 - 600 g fresh cassava, peeled and finely grated (squeeze out and discard the watery liquid) - OR 500 g frozen grated cassava, defrosted, drained
 - 300 g fresh sweet potato (orange-fleshed), peeled and finely grated
 - 200 g fresh grated coconut (or 150 g unsweetened desiccated coconut + 50 ml coconut milk for moisture)
-- 100 g pumpkin OR butternut squash, peeled and finely grated (optional but canonical)
+- 100 g pumpkin OR butternut squash, peeled and finely grated (optional but traditional)
 
 ### The flavourings
 - 300 g soft dark brown sugar (or muscovado)
@@ -32,7 +32,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 - 1 teaspoon ground mixed spice (or allspice)
 - 1 teaspoon salt
 - Finely grated zest of 1 lime (the Bajan citrus touch)
-- 50 g raisins (optional but very canonical)
+- 50 g raisins (optional but very traditional)
 
 ### To finish
 - 30 g unsalted butter, in small dabs (for the top)
@@ -89,9 +89,9 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 3. Serve at room temperature with a cup of strong Bajan tea, or with a scoop of vanilla ice cream.
 
 ## Notes
-- **Squeeze the cassava:** raw cassava is wet; squeezing out the liquid is the canonical Caribbean technique. Helps the texture and removes any residual cyanogenic compounds.
+- **Squeeze the cassava:** raw cassava is wet; squeezing out the liquid is the traditional Caribbean technique. Helps the texture and removes any residual cyanogenic compounds.
 - **Fresh grated coconut is dramatically better than desiccated:** but desiccated works in a pinch (add 50 ml coconut milk for moisture).
-- **Bake till deeply mahogany:** a pale crust is under-baked. The dark colour is part of the canonical Bajan look and flavour.
+- **Bake till deeply mahogany:** a pale crust is under-baked. The dark colour is part of the traditional Bajan look and flavour.
 - **Cool fully before cutting:** warm pone is sloppy. 1 hour minimum; refrigerated cuts cleanest.
 - **The dense gummy texture is correct:** cassava pone is NOT a fluffy cake. It's a dense, chewy pudding-cake, somewhere between a tart and a baked custard.
 - **Lime zest is the Bajan signature:** distinguishes this from a generic Caribbean pone.
@@ -106,7 +106,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 **Sweeter pone (modern):** add 50 g sugar - for those who find the traditional version not sweet enough.
 
 ## Serving
-At a Bajan family Sunday tea (the canonical setting) · at a Bajan church fundraiser bake sale · at a Bajan Christmas tea table · at a Caribbean-themed afternoon tea · at a Bajan Independence Day buffet · at home as the canonical Caribbean tea-cake · paired with strong Bajan tea, mauby, cold cocoa, or vanilla ice cream.
+At a Bajan family Sunday tea (the traditional setting) · at a Bajan church fundraiser bake sale · at a Bajan Christmas tea table · at a Caribbean-themed afternoon tea · at a Bajan Independence Day buffet · at home as the traditional Caribbean tea-cake · paired with strong Bajan tea, mauby, cold cocoa, or vanilla ice cream.
 
 ## Storage
 - Stores 5 days at room temperature in an airtight container.

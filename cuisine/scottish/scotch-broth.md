@@ -11,7 +11,7 @@
 **Cook Time:** 2.5 hours
 
 ## Overview
-Scotch broth is Scotland's everyday home soup and the dish that defines weekday Scottish family cooking from the Borders to Caithness. The construction is hearty: a piece of lamb on the bone (neck-end or shoulder) simmers slowly in water with pearl barley, dried green peas (whole or split) and a host of diced root vegetables (carrot, swede, turnip, leek, onion, celery). After two to three hours of unhurried simmering, the lamb shreds off the bone, the broth thickens from the barley and peas, and the whole thing becomes a single amber-hued pottage somewhere between soup and stew. Eaten in deep bowls with a hunk of bread and butter; the canonical lunch in Scottish primary schools, the Sunday-after-roast supper that uses up the leftovers, and the soup that's been making Scottish people warm for four hundred years.
+Scotch broth is Scotland's everyday home soup and the dish that defines weekday Scottish family cooking from the Borders to Caithness. The construction is hearty: a piece of lamb on the bone (neck-end or shoulder) simmers slowly in water with pearl barley, dried green peas (whole or split) and a host of diced root vegetables (carrot, swede, turnip, leek, onion, celery). After two to three hours of unhurried simmering, the lamb shreds off the bone, the broth thickens from the barley and peas, and the whole thing becomes a single amber-hued pottage somewhere between soup and stew. Eat in deep bowls with a hunk of bread and butter; the traditional lunch in Scottish primary schools, the Sunday-after-roast supper that uses up the leftovers, and the soup that's been making Scottish people warm for four hundred years.
 
 ## Ingredients
 
@@ -97,7 +97,7 @@ Scotch broth is Scotland's everyday home soup and the dish that defines weekday 
 **Lentil scotch broth:** add 60 g brown lentils alongside the barley - fuller body.
 
 ## Serving
-As a Sunday-evening leftover supper after a lamb roast · in a Scottish primary school dining room (the lunchtime canonical) · at a Highland farm-house lunch · in a Glasgow pub as the soup course · at home in winter with a hunk of bread and a slab of butter · at a Burns Night supper as the soup before the haggis.
+As a Sunday-evening leftover supper after a lamb roast · in a Scottish primary school dining room (the lunchtime traditional) · at a Highland farm-house lunch · in a Glasgow pub as the soup course · at home in winter with a hunk of bread and a slab of butter · at a Burns Night supper as the soup before the haggis.
 
 ## Storage
 - Refrigerates 4 days; thickens significantly overnight and intensifies in flavour.

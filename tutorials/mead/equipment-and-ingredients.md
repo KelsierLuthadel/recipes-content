@@ -16,7 +16,7 @@ This page covers the gear and the three ingredients (honey, yeast, water + nutri
 - **Auto-siphon / racking cane** — for transferring between vessels without splashing (avoiding oxidation). £8.
 - **Digital hydrometer** — measures sugar concentration to track fermentation progress. £6.
 - **Long brewing thermometer** — for monitoring fermentation temperature. £4.
-- **Sanitiser** — Star San is the canonical brewer's no-rinse sanitiser. £8 for enough to last a year of brewing.
+- **Sanitiser** — Star San is the traditional brewer's no-rinse sanitiser. £8 for enough to last a year of brewing.
 - **Cleaning brush** — long-handled for the demijohn. £5.
 - **Funnel** — for clean transfers. £3.
 

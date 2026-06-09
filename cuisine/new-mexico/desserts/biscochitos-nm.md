@@ -2,7 +2,7 @@
 
 ![Biscochitos NM](resources/biscochitos-nm.jpg)
 
-*New Mexico's official state cookie: a buttery anise-cinnamon shortbread cookie cut into traditional shapes (fleur-de-lis, stars), baked till just pale gold, and dusted with cinnamon sugar. The Hispano-NM Christmas tradition. (Detailed in Southwest desserts; this is the canonical NM-claim version.)*
+*New Mexico's official state cookie: a buttery anise-cinnamon shortbread cookie cut into traditional shapes (fleur-de-lis, stars), baked till just pale gold, and dusted with cinnamon sugar. The Hispano-NM Christmas tradition. (Detailed in Southwest desserts; this is the traditional NM-claim version.)*
 
 **Serves:** Makes 36 cookies
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Biscochitos are New Mexico's official state cookie (designated 1989) and the Hispano-NM Christmas baking tradition: a buttery shortbread cookie made with lard (canonical) or butter, flavoured with whole anise seeds, brandy, orange zest, ground cinnamon, baking powder and salt, rolled out and cut into shapes (the traditional fleur-de-lis is most iconic; or stars, ovals, hearts), baked till just pale gold, and immediately dusted with a generous coating of cinnamon sugar.
+Biscochitos are New Mexico's official state cookie (designated 1989) and the Hispano-NM Christmas baking tradition: a buttery shortbread cookie made with lard (traditional) or butter, flavoured with whole anise seeds, brandy, orange zest, ground cinnamon, baking powder and salt, rolled out and cut into shapes (the traditional fleur-de-lis is most iconic; or stars, ovals, hearts), baked till just pale gold, and immediately dusted with a generous coating of cinnamon sugar.
 
 ## Ingredients
 
@@ -68,7 +68,7 @@ Biscochitos are New Mexico's official state cookie (designated 1989) and the His
 - **Coat warm:** sugar adheres.
 
 ## Variations
-**Butter version:** less canonical.
+**Butter version:** less traditional.
 **With pecans:** add chopped pecans.
 **Larger cookies:** roll thicker.
 

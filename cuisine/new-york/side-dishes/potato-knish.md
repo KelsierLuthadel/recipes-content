@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-The knish (pronounced "kuh-nish") is one of the most iconic Jewish-American street foods and a fixture of New York Jewish delis (Yonah Schimmel's Knish Bakery on Houston Street has been making them since 1910) and street vendors: a soft enriched dough (flour, oil or schmaltz, egg, water, salt) wrapped tightly around a generous filling of mashed potato (canonical; though kasha, sauerkraut, sweet potato, spinach and cheese versions also exist) flavoured with deeply caramelised onion (the key flavour), salt, black pepper, and a touch of garlic; the dough sealed into either a round (Brooklyn-style square corners pinched to make a round) or a long rectangle (Lower East Side style), brushed with egg, and baked till the pastry is golden and crispy outside and the filling is hot and savoury inside. Served warm with yellow mustard.
+The knish (pronounced "kuh-nish") is one of the most iconic Jewish-American street foods and a fixture of New York Jewish delis (Yonah Schimmel's Knish Bakery on Houston Street has been making them since 1910) and street vendors: a soft enriched dough (flour, oil or schmaltz, egg, water, salt) wrapped tightly around a generous filling of mashed potato (traditional; though kasha, sauerkraut, sweet potato, spinach and cheese versions also exist) flavoured with deeply caramelised onion (the key flavour), salt, black pepper, and a touch of garlic; the dough sealed into either a round (Brooklyn-style square corners pinched to make a round) or a long rectangle (Lower East Side style), brushed with egg, and baked till the pastry is golden and crispy outside and the filling is hot and savoury inside. Served warm with yellow mustard.
 
 ## Ingredients
 
@@ -89,7 +89,7 @@ The knish (pronounced "kuh-nish") is one of the most iconic Jewish-American stre
 
 ## Notes
 - **Caramelise onions properly:** 25-30 min, the key flavour.
-- **Schmaltz canonical:** but butter or oil work.
+- **Schmaltz traditional:** but butter or oil work.
 - **Roll dough thin.**
 - **Bake till deep golden.**
 

@@ -2,7 +2,7 @@
 
 ![Denver Hot Dog](resources/denver-hot-dog.jpg)
 
-*Denver's green-chile hot dog: a grilled frankfurter in a soft bun, smothered in warm Denver-style green chile sauce, topped with chopped red onion, sour cream, and pickled jalapeños. The Mile-High City's hot dog answer to its love of green chile; the canonical Colorado Rockies stadium concourse find.*
+*Denver's green-chile hot dog: a grilled frankfurter in a soft bun, smothered in warm Denver-style green chile sauce, topped with chopped red onion, sour cream, and pickled jalapeños. The Mile-High City's hot dog answer to its love of green chile; the traditional Colorado Rockies stadium concourse find.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The Denver hot dog is Colorado's distinctive contribution to the regional hot-dog canon, channelling the city's deep love affair with green chile (Denver and Pueblo both claim the title of the Best Green Chile City in the US, with intense rivalry over which version is canonical): a grilled all-beef frankfurter in a soft white bun, generously smothered in warm Denver-style green chile sauce (a pork-and-roasted-green-chile stew thickened with a touch of flour, distinct from the more brothy New Mexican green chile by the inclusion of ground pork and a heavier garlic-cumin profile), topped with chopped raw red onion, a dollop of sour cream, and a scatter of sliced pickled jalapeños. The sauce should be hot enough that the cold sour cream creates a temperature contrast; the chopped red onion adds sharpness; the jalapeños push the heat further. Sold at Coors Field, Denver concourse stands, and as the "Mile High Dog" at variety of Colorado hot-dog stands.
+The Denver hot dog is Colorado's distinctive contribution to the regional hot-dog canon, channelling the city's deep love affair with green chile (Denver and Pueblo both claim the title of the Best Green Chile City in the US, with intense rivalry over which version is traditional): a grilled all-beef frankfurter in a soft white bun, generously smothered in warm Denver-style green chile sauce (a pork-and-roasted-green-chile stew thickened with a touch of flour, distinct from the more brothy New Mexican green chile by the inclusion of ground pork and a heavier garlic-cumin profile), topped with chopped raw red onion, a dollop of sour cream, and a scatter of sliced pickled jalapeños. The sauce should be hot enough that the cold sour cream creates a temperature contrast; the chopped red onion adds sharpness; the jalapeños push the heat further. Sold at Coors Field, Denver concourse stands, and as the "Mile High Dog" at variety of Colorado hot-dog stands.
 
 ## Ingredients
 
@@ -83,7 +83,7 @@ The Denver hot dog is Colorado's distinctive contribution to the regional hot-do
 
 ## Notes
 - **Denver green chile, not New Mexico-style:** Denver includes ground pork and tomato. New Mexico is brothier and pork-optional.
-- **Sour cream + onion + jalapeño:** the canonical garnish trio. Skimping ruins it.
+- **Sour cream + onion + jalapeño:** the traditional garnish trio. Skimping ruins it.
 - **Knife and fork:** the sauce demands it.
 - **Cayenne adjustable:** Denver chile ranges from mild to scorching. Start moderate, escalate.
 

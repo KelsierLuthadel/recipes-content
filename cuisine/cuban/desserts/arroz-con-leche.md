@@ -2,7 +2,7 @@
 
 ![Arroz con Leche](resources/arroz-con-leche.jpg)
 
-*Cuban rice pudding: short-grain rice slow-cooked in whole milk with cinnamon, lemon zest, vanilla and condensed milk. Eaten warm or cold, dusted with cinnamon.*
+*Cuban rice pudding: short-grain rice slow-cooked in whole milk with cinnamon, lemon zest, vanilla and condensed milk. Eat warm or cold, dusted with cinnamon.*
 
 **Serves:** 6
 

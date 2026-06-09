@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Nashville hot chicken is the city's most iconic dish and one of the great American regional fried chicken styles: bone-in chicken pieces (the canonical bird: a quarter; thigh + drumstick or breast + wing) marinated in buttermilk with hot sauce, dredged in seasoned flour, deep-fried till crispy and golden, then drenched (the canonical Nashville verb is "dunked") in a fiery sauce made from rendered frying oil, brown sugar, cayenne, paprika, garlic and onion powder, mixed into a thick orange-red paste. Sauce levels range from "mild" to "shut-up-and-leave-the-restaurant XXX hot". Served on a slice of plain white bread (catches the dripping oil) with dill pickle chips on top. Origin myth: invented in the 1930s by Thornton Prince III's girlfriend, who supposedly tried to punish him for cheating by making fried chicken with extra cayenne; he loved it.
+Nashville hot chicken is the city's most iconic dish and one of the great American regional fried chicken styles: bone-in chicken pieces (the traditional bird: a quarter; thigh + drumstick or breast + wing) marinated in buttermilk with hot sauce, dredged in seasoned flour, deep-fried till crispy and golden, then drenched (the traditional Nashville verb is "dunked") in a fiery sauce made from rendered frying oil, brown sugar, cayenne, paprika, garlic and onion powder, mixed into a thick orange-red paste. Sauce levels range from "mild" to "shut-up-and-leave-the-restaurant XXX hot". Served on a slice of plain white bread (catches the dripping oil) with dill pickle chips on top. Origin myth: invented in the 1930s by Thornton Prince III's girlfriend, who supposedly tried to punish him for cheating by making fried chicken with extra cayenne; he loved it.
 
 ## Ingredients
 
@@ -95,7 +95,7 @@ Nashville hot chicken is the city's most iconic dish and one of the great Americ
 - **Buttermilk marinade:** essential.
 - **Hot frying oil for the sauce:** the Nashville signature.
 - **White bread underneath:** catches the drippy oil.
-- **Pickles on top:** the canonical pairing.
+- **Pickles on top:** the traditional pairing.
 
 ## Variations
 **Mild:** 1-2 tablespoons cayenne in the sauce.

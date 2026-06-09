@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (toasting bagels)
 
 ## Overview
-The bagel with lox and cream cheese is one of the most iconic New York Jewish-American foods and the canonical Sunday-morning breakfast in Manhattan and Brooklyn (Russ & Daughters on Houston Street, in operation since 1914, is the most famous purveyor; H&H Bagels and Ess-a-Bagel are equally iconic for the bagels): a fresh New York-style bagel (everything seasoning is canonical: sesame, poppy, dried onion, dried garlic, sea salt; though plain, sesame, poppy, pumpernickel and other varieties work too), split and toasted lightly, smeared with a generous schmear of cream cheese (Philadelphia or local equivalent; the cream cheese isn't optional), topped with cold-cured lox (the canonical NY cured salmon, cold-smoked and silky, distinct from hot-smoked salmon), thinly sliced raw red onion, tomato slices, capers, and fresh dill.
+The bagel with lox and cream cheese is one of the most iconic New York Jewish-American foods and the traditional Sunday-morning breakfast in Manhattan and Brooklyn (Russ & Daughters on Houston Street, in operation since 1914, is the most famous purveyor; H&H Bagels and Ess-a-Bagel are equally iconic for the bagels): a fresh New York-style bagel (everything seasoning is traditional: sesame, poppy, dried onion, dried garlic, sea salt; though plain, sesame, poppy, pumpernickel and other varieties work too), split and toasted lightly, smeared with a generous schmear of cream cheese (Philadelphia or local equivalent; the cream cheese isn't optional), topped with cold-cured lox (the traditional NY cured salmon, cold-smoked and silky, distinct from hot-smoked salmon), thinly sliced raw red onion, tomato slices, capers, and fresh dill.
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ The bagel with lox and cream cheese is one of the most iconic New York Jewish-Am
 2. Fresh ground black pepper.
 
 ### Stage 6 - Serve
-1. Eat open-face (canonical) or close into a sandwich.
+1. Eat open-face (traditional) or close into a sandwich.
 2. With coffee or a mimosa.
 
 ## Notes

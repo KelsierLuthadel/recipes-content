@@ -11,7 +11,7 @@
 **Cook Time:** 10-12 hours
 
 ## Overview
-Southern pulled pork BBQ is one of America's great regional barbecue traditions, with North Carolina being the historical heart: a whole bone-in pork shoulder (Boston butt; about 4-5 kg) rubbed overnight with a Southern spice blend (salt, brown sugar, paprika, garlic powder, onion powder, mustard powder, cumin, cayenne), then smoked low-and-slow at 110°C / 225°F over hickory or apple wood for 10-12 hours till the meat is fall-apart tender and the bark crusts deep mahogany. Pulled into long shreds with two forks and dressed with either Eastern Carolina vinegar-pepper sauce (vinegar, salt, pepper, hot sauce; thin and pungent) or Western Carolina tomato-vinegar sauce (vinegar, ketchup, brown sugar, hot sauce; thicker and sweeter). Served on soft white buns with a heap of coleslaw on top of the pulled pork (the canonical Carolina way - slaw goes on the sandwich, not alongside).
+Southern pulled pork BBQ is one of America's great regional barbecue traditions, with North Carolina being the historical heart: a whole bone-in pork shoulder (Boston butt; about 4-5 kg) rubbed overnight with a Southern spice blend (salt, brown sugar, paprika, garlic powder, onion powder, mustard powder, cumin, cayenne), then smoked low-and-slow at 110°C / 225°F over hickory or apple wood for 10-12 hours till the meat is fall-apart tender and the bark crusts deep mahogany. Pulled into long shreds with two forks and dressed with either Eastern Carolina vinegar-pepper sauce (vinegar, salt, pepper, hot sauce; thin and pungent) or Western Carolina tomato-vinegar sauce (vinegar, ketchup, brown sugar, hot sauce; thicker and sweeter). Served on soft white buns with a heap of coleslaw on top of the pulled pork (the traditional Carolina way - slaw goes on the sandwich, not alongside).
 
 ## Ingredients
 
@@ -53,7 +53,7 @@ Southern pulled pork BBQ is one of America's great regional barbecue traditions,
 
 ### To serve
 - Soft white hamburger buns (or "potato rolls")
-- Coleslaw (canonical to put on the sandwich)
+- Coleslaw (traditional to put on the sandwich)
 - Pickles
 - Pickled jalapeños
 
@@ -93,7 +93,7 @@ Southern pulled pork BBQ is one of America's great regional barbecue traditions,
 
 ### Stage 8 - Serve
 1. Pile pulled pork on soft buns.
-2. Top with coleslaw (the canonical Carolina way).
+2. Top with coleslaw (the traditional Carolina way).
 3. Add pickles, jalapeños.
 4. Extra sauce on the side.
 
@@ -102,7 +102,7 @@ Southern pulled pork BBQ is one of America's great regional barbecue traditions,
 - **Smoke 10-12 hours low-and-slow.**
 - **Internal 95°C / 203°F:** doneness test.
 - **Rest 1-2 hours before pulling.**
-- **Vinegar sauce canonical Carolina.**
+- **Vinegar sauce traditional Carolina.**
 
 ## Variations
 **Kansas City style:** use thick sweet tomato-molasses sauce.

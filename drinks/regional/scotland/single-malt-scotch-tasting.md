@@ -2,7 +2,7 @@
 
 ![Single Malt Scotch Whisky Tasting](resources/single-malt-scotch-tasting.jpg)
 
-*Scotland's national spirit: single-malt Scotch tasted slowly in a Glencairn glass with a small jug of cool spring water alongside: the canonical end to any serious Scottish dinner.*
+*Scotland's national spirit: single-malt Scotch tasted slowly in a Glencairn glass with a small jug of cool spring water alongside: the traditional end to any serious Scottish dinner.*
 
 **Serves:** 4-6 (a 3-whisky flight)
 
@@ -11,11 +11,11 @@
 **Cook Time:** None
 
 ## Overview
-Single-malt Scotch whisky is Scotland's most famous and most valuable export, a spirit with a £6 billion+ annual export market and over 130 active distilleries across the country. The tasting ritual elevates the spirit from after-dinner drink to experience: three malts from three different regions, poured into three Glencairn glasses (the tulip-shaped tasting glass designed in Scotland), served at room temperature with a small jug of cool spring water alongside. A few drops of water "opens" the whisky, releasing additional aromatic compounds. The five Scotch regions give five distinct characters: Highland (often heather-honey-sweet and slightly smoky), Lowland (gentle, floral, citrus), Speyside (Scotland's whisky heartland; honey, apple, dried fruit), Islay (heavily peated; iodine, smoke, brine) and Campbeltown (briny, smoky, slightly oily). A canonical flight runs Speyside (entry), Highland (middle), Islay (climax). The host explains each whisky's region, age and character; guests swirl, inhale, taste neat, add a drop of water, taste again.
+Single-malt Scotch whisky is Scotland's most famous and most valuable export, a spirit with a £6 billion+ annual export market and over 130 active distilleries across the country. The tasting ritual elevates the spirit from after-dinner drink to experience: three malts from three different regions, poured into three Glencairn glasses (the tulip-shaped tasting glass designed in Scotland), served at room temperature with a small jug of cool spring water alongside. A few drops of water "opens" the whisky, releasing additional aromatic compounds. The five Scotch regions give five distinct characters: Highland (often heather-honey-sweet and slightly smoky), Lowland (gentle, floral, citrus), Speyside (Scotland's whisky heartland; honey, apple, dried fruit), Islay (heavily peated; iodine, smoke, brine) and Campbeltown (briny, smoky, slightly oily). A traditional flight runs Speyside (entry), Highland (middle), Islay (climax). The host explains each whisky's region, age and character; guests swirl, inhale, taste neat, add a drop of water, taste again.
 
 ## Ingredients
 
-### A 3-whisky flight (canonical)
+### A 3-whisky flight (traditional)
 - **Speyside (entry):** 30 ml Glenlivet 12yo (light, honeyed, apple-y) OR Glenfiddich 12yo (pear, honey, vanilla) OR Macallan 12yo (sherry-aged, raisin, oak)
 - **Highland (middle):** 30 ml Dalmore 12yo (orange, chocolate, oak) OR Glenmorangie Original 10yo (gentle, citrus, floral) OR Old Pulteney 12yo (coastal Highland; salty, malty)
 - **Islay (climax):** 30 ml Laphroaig 10yo (intensely smoky, iodine, brine) OR Lagavulin 16yo (peaty, sherry-rich, complex) OR Ardbeg 10yo (peaty, citrus, dry)
@@ -29,7 +29,7 @@ Single-malt Scotch whisky is Scotland's most famous and most valuable export, a 
 
 ### Optional tasting accompaniments
 - Dark chocolate (80%+; pairs beautifully with peated Islay malts)
-- Plain shortbread (the canonical Scottish whisky biscuit)
+- Plain shortbread (the traditional Scottish whisky biscuit)
 - A small piece of Scottish smoked salmon (pairs surprisingly well with smoky Islay)
 - A small wedge of mature Scottish Cheddar
 - Heather honey on a teaspoon (sweet pairing with peated whisky)
@@ -98,7 +98,7 @@ Single-malt Scotch whisky is Scotland's most famous and most valuable export, a 
 **Vintage flight:** taste three special-release vintage bottlings - for the serious connoisseur (expensive).
 
 ## Serving
-At a Scottish dinner-party finale (the canonical setting) · at a Highland country-house hosting weekend · at a Scottish wedding's after-dinner whisky room · at a Burns Night supper as the dram-and-talk session · at a Hogmanay home gathering · at a Scottish business dinner as the closing ritual · at a Scottish distillery tour tasting room.
+At a Scottish dinner-party finale (the traditional setting) · at a Highland country-house hosting weekend · at a Scottish wedding's after-dinner whisky room · at a Burns Night supper as the dram-and-talk session · at a Hogmanay home gathering · at a Scottish business dinner as the closing ritual · at a Scottish distillery tour tasting room.
 
 ## Storage
 - Open Scotch whisky bottles last 1-2 years if stored upright (the high alcohol prevents the cork from leaking).

@@ -21,7 +21,7 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 - 1 large onion, finely chopped
 - 2 medium tart apples (Bramley or Granny Smith), peeled, cored and chopped fine
 - 2 bay leaves
-- 1 teaspoon caraway seeds (canonical Dutch addition)
+- 1 teaspoon caraway seeds (traditional Dutch addition)
 - 6 juniper berries (optional; lightly crushed)
 - 2 cloves (optional)
 - 1 teaspoon soft dark brown sugar
@@ -103,7 +103,7 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 **Modern Amsterdam variant:** finish with a swirl of crème fraîche on top and a dusting of smoked paprika - bistro-fied.
 
 ## Serving
-At a Dutch winter dinner (the canonical setting; October to March) · at a Dutch family Sunday lunch · at a Dutch sinterklaas (5 December) family meal · at a German-Dutch border region restaurant · at home alongside grilled pork chops or rookworst · paired with mashed potato or buttered noodles, and a cold Dutch lager.
+At a Dutch winter dinner (the traditional setting; October to March) · at a Dutch family Sunday lunch · at a Dutch sinterklaas (5 December) family meal · at a German-Dutch border region restaurant · at home alongside grilled pork chops or rookworst · paired with mashed potato or buttered noodles, and a cold Dutch lager.
 
 ## Storage
 - Refrigerates 5 days - and improves with time. Many Dutch families make it the day before.

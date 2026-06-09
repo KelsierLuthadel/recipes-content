@@ -2,7 +2,7 @@
 
 ![Causa Rellena](resources/causa-rellena.jpg)
 
-*Lima's cold-plate elegance: a chilled cake of mashed yellow Peruvian potato (papa amarilla) bound with aji amarillo paste, lime juice and vegetable oil, layered with a generous filling of mayo-bound tuna, prawn, or chicken-and-avocado, topped with sliced hard-boiled egg, black Botija olives and a sprinkle of cilantro. The colour is the electric Peruvian yellow; the texture is dense, cold, almost like a mashed-potato terrine. Served in slices or individual rounds; the canonical first-course at every Lima dinner party and Peruvian family lunch.*
+*Lima's cold-plate elegance: a chilled cake of mashed yellow Peruvian potato (papa amarilla) bound with aji amarillo paste, lime juice and vegetable oil, layered with a generous filling of mayo-bound tuna, prawn, or chicken-and-avocado, topped with sliced hard-boiled egg, black Botija olives and a sprinkle of cilantro. The colour is the electric Peruvian yellow; the texture is dense, cold, almost like a mashed-potato terrine. Served in slices or individual rounds; the traditional first-course at every Lima dinner party and Peruvian family lunch.*
 
 **Serves:** 6 (one 23 cm round) or 8 individual
 
@@ -23,7 +23,7 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 - 2 teaspoons salt
 - 1/2 teaspoon white pepper
 
-### Filling Option 1 - Tuna-mayo (canonical home version)
+### Filling Option 1 - Tuna-mayo (traditional home version)
 - 2 tins (about 320 g total) of good tuna in olive oil OR brine, drained
 - 6 tablespoons mayonnaise (homemade or Hellmann's)
 - 1 small red onion, very finely chopped (about 4 tablespoons)
@@ -47,10 +47,10 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 - 1 small red onion, finely chopped
 - 1/4 teaspoon black pepper
 
-### The garnish (canonical Peruvian)
+### The garnish (traditional Peruvian)
 - 2 hard-boiled eggs, sliced or quartered
 - 8-10 Botija olives (the dried-purple Peruvian olives; Kalamata substitute)
-- 1 ripe avocado, sliced thin (alongside the canonical "chicken" version)
+- 1 ripe avocado, sliced thin (alongside the traditional "chicken" version)
 - A few sprigs of fresh cilantro OR flat-leaf parsley
 - 1 lime, cut into wedges
 - 2 tablespoons extra mayonnaise (for piping or a small dollop)
@@ -105,7 +105,7 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 4. Serve cold as a first course.
 
 ## Notes
-- **Yellow waxy potato:** papa amarilla is canonical; Yukon Gold is the closest substitute. Floury potatoes (Maris Piper, Russet) give a wet, sloppy result.
+- **Yellow waxy potato:** papa amarilla is traditional; Yukon Gold is the closest substitute. Floury potatoes (Maris Piper, Russet) give a wet, sloppy result.
 - **Season aggressively:** the mash should be intensely flavoured. Under-seasoning ruins the dish.
 - **Chill overnight:** 4 hours minimum; overnight is dramatically better. The slices cut cleaner; the flavours marry.
 - **Cling film the tin:** essential for clean unmoulding.
@@ -122,7 +122,7 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 **Mini causas for canapés:** make 30 small (3 cm) rounds with piped mash and a tiny dollop of filling.
 
 ## Serving
-At a Lima Sunday family lunch (the canonical setting; cold first course before lomo saltado or aji de gallina) · at a Peruvian Independence Day celebration · at a Peruvian wedding canapé table · at a Lima criolla restaurant · at a Peruvian summer terrace lunch · at home as a make-ahead dinner-party starter.
+At a Lima Sunday family lunch (the traditional setting; cold first course before lomo saltado or aji de gallina) · at a Peruvian Independence Day celebration · at a Peruvian wedding canapé table · at a Lima criolla restaurant · at a Peruvian summer terrace lunch · at home as a make-ahead dinner-party starter.
 
 ## Storage
 - Refrigerates 3 days, well covered. Slice fresh each time.

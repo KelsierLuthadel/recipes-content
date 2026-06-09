@@ -11,12 +11,12 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The Filipino hot dog (called "hotsilog" or "hotdogsilog" when served as the breakfast plate; just "hotdog" when sold from street stands) is one of the Philippines' most iconic everyday breakfasts and a fixture of every silog menu (the Filipino breakfast-as-a-name-pattern: "X" + "si" for sinangag (garlic rice) + "log" for itlog (egg) = X-silog). The hot dog itself is distinctive: a bright-red sweet pork-and-beef sausage (Purefoods, CDO and Tender Juicy are the three major Filipino brands; the red colour comes from food colouring and is so canonical that locals reject paler hot dogs as wrong). The eating geometry is also distinctive: NO bun. Instead, the hot dog is notched (a series of shallow diagonal cuts on each side, which open up when cooked), pan-fried till the notches splay outward into little fins, then served with a mound of garlic rice, a fried egg with a runny yolk, and a small dish of banana ketchup (the Filipino sweet-spicy-savoury ketchup made from banana, sugar, vinegar and red food colouring; invented during WWII when tomatoes were scarce).
+The Filipino hot dog (called "hotsilog" or "hotdogsilog" when served as the breakfast plate; just "hotdog" when sold from street stands) is one of the Philippines' most iconic everyday breakfasts and a fixture of every silog menu (the Filipino breakfast-as-a-name-pattern: "X" + "si" for sinangag (garlic rice) + "log" for itlog (egg) = X-silog). The hot dog itself is distinctive: a bright-red sweet pork-and-beef sausage (Purefoods, CDO and Tender Juicy are the three major Filipino brands; the red colour comes from food colouring and is so traditional that locals reject paler hot dogs as wrong). The eating geometry is also distinctive: NO bun. Instead, the hot dog is notched (a series of shallow diagonal cuts on each side, which open up when cooked), pan-fried till the notches splay outward into little fins, then served with a mound of garlic rice, a fried egg with a runny yolk, and a small dish of banana ketchup (the Filipino sweet-spicy-savoury ketchup made from banana, sugar, vinegar and red food colouring; invented during WWII when tomatoes were scarce).
 
 ## Ingredients
 
 ### Hot dogs
-- 4 Filipino red hot dogs (Purefoods, CDO, Tender Juicy - or substitute any sweet pork-and-beef hot dog and tint with a few drops of red food colouring if you want the canonical colour)
+- 4 Filipino red hot dogs (Purefoods, CDO, Tender Juicy - or substitute any sweet pork-and-beef hot dog and tint with a few drops of red food colouring if you want the traditional colour)
 - 2 tablespoons vegetable oil
 
 ### Garlic rice (sinangag) - make this from day-old rice for best texture
@@ -40,7 +40,7 @@ The Filipino hot dog (called "hotsilog" or "hotdogsilog" when served as the brea
 - 1 teaspoon ground cumin
 - 1 teaspoon paprika
 - ½ teaspoon ground allspice
-- 2 drops red food colouring (optional, for the canonical Filipino orange-red)
+- 2 drops red food colouring (optional, for the traditional Filipino orange-red)
 
 ### To serve
 - Lemon or calamansi wedge
@@ -87,7 +87,7 @@ The Filipino hot dog (called "hotsilog" or "hotdogsilog" when served as the brea
 3. Coffee, juice, or a cold Coke.
 
 ## Notes
-- **Red hot dog:** the canonical Filipino sausage. If yours is pale, dye it.
+- **Red hot dog:** the traditional Filipino sausage. If yours is pale, dye it.
 - **No bun:** plated breakfast-style, not handheld.
 - **Banana ketchup:** the Filipino signature; tomato ketchup tastes wrong here.
 - **Notched and fanned:** the cooking transformation IS the dish's look.

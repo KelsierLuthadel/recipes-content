@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Mongolia's everyday fried dough: slightly sweet biscuits that turn up dipped in milk tea every afternoon and piled high in tiered stacks (sometimes called ul boov) at Tsagaan Sar to symbolise prosperity. A simple flour, butter, egg and milk dough, lightly sweetened, cut into rectangles, twists or score-topped discs and deep-fried golden. Don't overwork the dough; boortsog should be tender, not chewy. Eaten warm or at room temperature, dusted with caster sugar or drizzled with honey, with hot sweetened milk tea on the side (or salted milk tea for the proper Mongolian way).
+Mongolia's everyday fried dough: slightly sweet biscuits that turn up dipped in milk tea every afternoon and piled high in tiered stacks (sometimes called ul boov) at Tsagaan Sar to symbolise prosperity. A simple flour, butter, egg and milk dough, lightly sweetened, cut into rectangles, twists or score-topped discs and deep-fried golden. Don't overwork the dough; boortsog should be tender, not chewy. Eat warm or at room temperature, dusted with caster sugar or drizzled with honey, with hot sweetened milk tea on the side (or salted milk tea for the proper Mongolian way).
 
 ## Ingredients
 

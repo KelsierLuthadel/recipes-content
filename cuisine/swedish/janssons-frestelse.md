@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Janssons frestelse (Jansson's Temptation) is one of Sweden's most beloved comfort dishes and a fixture of every Christmas julbord, Easter buffet and late-night svensk pub menu: julienned potatoes (cut into matchsticks about 5mm thick, never grated) layered in a baking dish with thinly sliced sweet onions and "Swedish anchovies" - which is one of the great food-naming traps. Swedish "ansjovis" are NOT the salt-cured Mediterranean anchovies most cooks know; they're actually pickled European sprats, cured in a sweet-spiced brine with cloves, allspice, white peppercorns, sandalwood and bay (Abba brand is the canonical Swedish jar). They're sweeter, milder, and less aggressively fishy than Italian anchovies. The dish drenches all this in double cream + a splash of the spiced brine from the anchovy jar, tops with breadcrumbs and butter, and bakes till the top crisps golden and the inside is silky, salty-sweet, deeply savoury. The name's etymology is contested (Pelle Janzon, the Swedish opera singer? a Janzon family cookbook? a 1929 short story?), but the dish dates from at least the late 1920s.
+Janssons frestelse (Jansson's Temptation) is one of Sweden's most beloved comfort dishes and a fixture of every Christmas julbord, Easter buffet and late-night svensk pub menu: julienned potatoes (cut into matchsticks about 5mm thick, never grated) layered in a baking dish with thinly sliced sweet onions and "Swedish anchovies" - which is one of the great food-naming traps. Swedish "ansjovis" are NOT the salt-cured Mediterranean anchovies most cooks know; they're actually pickled European sprats, cured in a sweet-spiced brine with cloves, allspice, white peppercorns, sandalwood and bay (Abba brand is the traditional Swedish jar). They're sweeter, milder, and less aggressively fishy than Italian anchovies. The dish drenches all this in double cream + a splash of the spiced brine from the anchovy jar, tops with breadcrumbs and butter, and bakes till the top crisps golden and the inside is silky, salty-sweet, deeply savoury. The name's etymology is contested (Pelle Janzon, the Swedish opera singer? a Janzon family cookbook? a 1929 short story?), but the dish dates from at least the late 1920s.
 
 ## Ingredients
 
@@ -79,7 +79,7 @@ Janssons frestelse (Jansson's Temptation) is one of Sweden's most beloved comfor
 - **Top must crisp:** bake uncovered for the last stretch.
 
 ## Variations
-**With herring instead of ansjovis:** a non-canonical but lighter version.
+**With herring instead of ansjovis:** a non-traditional but lighter version.
 **Vegetarian (Vansin frestelse):** swap the anchovies for chopped black olives + capers + a teaspoon of MSG or seaweed flakes for umami depth.
 **Spicier:** add a pinch of cayenne to the cream.
 **With sliced chorizo:** for a non-Swedish riff that works.

@@ -2,7 +2,7 @@
 
 ![Salsas](resources/salsas.jpg)
 
-*A Mexican meal without salsa is incomplete. Every taco, every tortilla chip, every fried egg gets dressed. The four canonical salsas — salsa roja, salsa verde, pico de gallo, salsa cruda — cover almost everything. Master one of each style and you can build any Mexican plate.*
+*A Mexican meal without salsa is incomplete. Every taco, every tortilla chip, every fried egg gets dressed. The four traditional salsas — salsa roja, salsa verde, pico de gallo, salsa cruda — cover almost everything. Master one of each style and you can build any Mexican plate.*
 
 ## Overview
 
@@ -13,7 +13,7 @@ A salsa is a sauce — *salsa* literally means "sauce" in Spanish. Mexican salsa
 - **Boiled (hervida)** — tomatoes / chillies simmered briefly then blended. Cleaner, brighter.
 - **Dry-toasted chilli paste (recado / adobo)** — dried chillies toasted and ground; the foundation of mole.
 
-This page covers the four canonical "everyday" salsas. The recado / mole approach is covered in the [mole page](mole.md).
+This page covers the four traditional "everyday" salsas. The recado / mole approach is covered in the [mole page](mole.md).
 
 ## 1. Salsa Roja (the red salsa)
 

@@ -52,7 +52,7 @@ Fried plantains turn up on tables across the Bahamas and the wider Caribbean as 
 3. Serve immediately while warm and the caramelisation is at its peak.
 
 ## Notes
-- **Ripeness is everything:** the canonical Bahamian fried plantain is made with yellow-black or black plantains, when the fruit is properly sweet and tender. Underripe (yellow-only or green-yellow) plantains will be bland and starchy; properly ripe ones go sweetly caramelised.
+- **Ripeness is everything:** the traditional Bahamian fried plantain is made with yellow-black or black plantains, when the fruit is properly sweet and tender. Underripe (yellow-only or green-yellow) plantains will be bland and starchy; properly ripe ones go sweetly caramelised.
 - **Buy ahead:** plantains at most supermarkets are sold green or yellow; plan 3-7 days ahead so they ripen at home. They keep ripening on the counter; you can speed it up by leaving them in a paper bag with a banana.
 - **Butter, oil or both:** butter gives the best caramelised flavour but can burn at higher heats; vegetable oil takes higher heat without burning but lacks the flavour. A 50/50 mix is the best compromise. Coconut oil is also lovely and very Bahamian.
 - **Medium heat, not high:** plantains are sugary when ripe; high heat burns the sugars before the interior softens. Medium heat (or even just below medium) gives properly caramelised plantains with soft interiors.

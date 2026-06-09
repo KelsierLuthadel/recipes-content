@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Masitas de puerco fritas ("little fried pork pieces") is one of Cuba's most beloved pork preparations and a Sunday family-dinner staple across the island and the diaspora. Cubes of pork shoulder marinate overnight in mojo (the Cuban garlic-citrus paste with sour orange, lime, garlic, cumin and oregano), then cook in two stages. First, a slow confit-style hour in their own rendered fat covered with the marinade and some lard, till the meat is fork-tender. Then a final crisp-fry in a hot dry pan with sliced onion till the outside of each piece goes dark golden-brown and crackling-crisp while the inside stays juicy. Combining both stages into a single fry gives tough chewy results. The texture contrast is what makes the dish memorable. The sliced onion goes in for the final minutes, staying bright and fresh against the crisp pork. Eaten immediately over plain white rice with black beans, sweet plantains and a fresh salad.
+Masitas de puerco fritas ("little fried pork pieces") is one of Cuba's most beloved pork preparations and a Sunday family-dinner staple across the island and the diaspora. Cubes of pork shoulder marinate overnight in mojo (the Cuban garlic-citrus paste with sour orange, lime, garlic, cumin and oregano), then cook in two stages. First, a slow confit-style hour in their own rendered fat covered with the marinade and some lard, till the meat is fork-tender. Then a final crisp-fry in a hot dry pan with sliced onion till the outside of each piece goes dark golden-brown and crackling-crisp while the inside stays juicy. Combining both stages into a single fry gives tough chewy results. The texture contrast is what makes the dish memorable. The sliced onion goes in for the final minutes, staying bright and fresh against the crisp pork. Eat immediately over plain white rice with black beans, sweet plantains and a fresh salad.
 
 ## Ingredients
 
@@ -95,7 +95,7 @@ Masitas de puerco fritas ("little fried pork pieces") is one of Cuba's most belo
 - **Long marinade:** the mojo needs time. 12 hours minimum, 24 hours ideal.
 - **Two-step cooking:** slow-confit first, then crisp-fry. Combining into one step gives tough chewy results.
 - **Don't move during the crisp-fry:** let the bottoms develop a proper crust before turning.
-- **Onions at the end:** sliced raw onion tossed in with the fried pork; gives the canonical Cuban texture contrast.
+- **Onions at the end:** sliced raw onion tossed in with the fried pork; gives the traditional Cuban texture contrast.
 
 ## Variations
 **With pickled red onions:** instead of fresh onion, top with quick-pickled red onion (red onion + lime juice + salt + 10 minutes); adds tang.

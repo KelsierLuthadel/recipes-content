@@ -17,7 +17,7 @@ The Coney Island hot dog is one of America's most regionally proud and naming-co
 
 ### Coney sauce (makes enough for 8 dogs)
 - 500 g ground beef (80/20)
-- 200 g ground beef heart (optional; the canonical Detroit version; substitute with extra ground beef)
+- 200 g ground beef heart (optional; the traditional Detroit version; substitute with extra ground beef)
 - 1 large onion (very finely chopped)
 - 4 garlic cloves (crushed)
 - 4 tablespoons tomato paste
@@ -36,7 +36,7 @@ The Coney Island hot dog is one of America's most regionally proud and naming-co
 - 1 teaspoon ground black pepper
 
 ### Dogs and toppings (4 dogs)
-- 4 small all-beef natural-casing frankfurters (Koegel's brand is the Detroit canonical)
+- 4 small all-beef natural-casing frankfurters (Koegel's brand is the Detroit traditional)
 - 4 soft hot dog buns
 - Yellow mustard
 - 1 small white onion (very finely chopped, for topping)
@@ -82,7 +82,7 @@ The Coney Island hot dog is one of America's most regionally proud and naming-co
 
 ## Notes
 - **Coney sauce is finely textured, not chunky chili:** the meat must be very finely broken up. Some Detroit cooks pass it through a food mill.
-- **Beef heart is the canonical secret ingredient:** modern versions skip; the texture is subtly different.
+- **Beef heart is the traditional secret ingredient:** modern versions skip; the texture is subtly different.
 - **Small dog, not a footlong:** the Coney is a smaller-dog dish.
 - **Chopped onion on top, not in the sauce:** distinct from a Cincinnati chili dog where onion is layered separately.
 - **Yellow mustard, not Dijon or brown.**

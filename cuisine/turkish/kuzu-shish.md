@@ -111,7 +111,7 @@ Kuzu şiş (literally "lamb skewer"; sometimes called şiş kebab or shish kebab
 **Mixed grill (karışık ızgara):** combine kuzu şiş with adana kebab and chicken kebab on the same platter; common Turkish restaurant presentation.
 
 ## Serving
-On a wooden or heated metal platter at the centre of the table. Drink: ayran (canonical), rakı (the aniseed spirit), Türk kahvesi after the meal. As a Sunday lunch, weekend barbecue, or restaurant dinner.
+On a wooden or heated metal platter at the centre of the table. Drink: ayran (traditional), rakı (the aniseed spirit), Türk kahvesi after the meal. As a Sunday lunch, weekend barbecue, or restaurant dinner.
 
 ## Storage
 - Best eaten fresh off the grill.

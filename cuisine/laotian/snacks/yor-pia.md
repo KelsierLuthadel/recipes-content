@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (just for the pork or prawns)
 
 ## Overview
-Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at every Lao café and household summer lunch. The roll should be lush with visible herbs through the wrapper: Lao yor pia carries more fresh herbs than its Vietnamese gỏi cuốn cousin, with a generous pile of mint, cilantro, culantro, Thai basil and dill (the surprising Lao herb). The canonical filling is thin slices of cooked pork belly (boiled prawns or marinated tofu substitute), cooked rice vermicelli, shredded lettuce, julienned cucumber and a thin slice of pickled carrot, all wrapped in a moistened rice-paper sheet. Some Northern Lao variants use cooked laap as the filling for a more substantial version. Traditionally served with two sauces: a sweet-creamy peanut sauce (thinner and more lime-forward than Indonesian sate sauce) and a clear tangy fish-sauce-and-lime dressing (similar to Vietnamese nuoc cham). The diner picks based on preference, or dips with both.
+Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at every Lao café and household summer lunch. The roll should be lush with visible herbs through the wrapper: Lao yor pia carries more fresh herbs than its Vietnamese gỏi cuốn cousin, with a generous pile of mint, cilantro, culantro, Thai basil and dill (the surprising Lao herb). The traditional filling is thin slices of cooked pork belly (boiled prawns or marinated tofu substitute), cooked rice vermicelli, shredded lettuce, julienned cucumber and a thin slice of pickled carrot, all wrapped in a moistened rice-paper sheet. Some Northern Lao variants use cooked laap as the filling for a more substantial version. Traditionally served with two sauces: a sweet-creamy peanut sauce (thinner and more lime-forward than Indonesian sate sauce) and a clear tangy fish-sauce-and-lime dressing (similar to Vietnamese nuoc cham). The diner picks based on preference, or dips with both.
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at 
 - A large bunch fresh cilantro
 - A small bunch culantro (sawtooth coriander)
 - A small bunch Thai basil
-- A small bunch fresh dill (the canonical Lao herb)
+- A small bunch fresh dill (the traditional Lao herb)
 - 4 spring onions, cut lengthways into long thin strips
 - 2 fresh red chillies, julienned (optional)
 
@@ -35,7 +35,7 @@ Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at 
 - 8-10 round rice-paper wrappers (22 cm diameter; sold at Asian shops)
 - A wide shallow dish of warm water
 
-### The peanut dipping sauce (canonical Lao)
+### The peanut dipping sauce (traditional Lao)
 - 4 tablespoons crunchy peanut butter
 - 2 tablespoons fish sauce
 - 2 tablespoons fresh lime juice
@@ -46,7 +46,7 @@ Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at 
 - (Whisk all together; warm gently if too thick)
 - 1 tablespoon crushed toasted peanuts to top
 
-### The fish-sauce dipping (the canonical alternative)
+### The fish-sauce dipping (the traditional alternative)
 - 4 tablespoons fish sauce
 - 2 tablespoons fresh lime juice
 - 1 tablespoon palm sugar
@@ -112,7 +112,7 @@ Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at 
 **Larger format (whole-meal):** wrap with a single large lettuce leaf on the bottom for a bigger, more substantial wrap.
 
 ## Serving
-At a Lao home summer lunch (the canonical setting) · at a Lao café · at a Lao Pi Mai (New Year) celebration · at home as a refreshing summer starter or light lunch · paired with cold Beerlao or a glass of nam mak nao (palm-sugar limeade).
+At a Lao home summer lunch (the traditional setting) · at a Lao café · at a Lao Pi Mai (New Year) celebration · at home as a refreshing summer starter or light lunch · paired with cold Beerlao or a glass of nam mak nao (palm-sugar limeade).
 
 ## Storage
 - Best within 30 minutes of rolling.

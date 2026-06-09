@@ -2,7 +2,7 @@
 
 ![Lángos](resources/langos.jpg)
 
-*Hungary's deep-fried flatbread: a soft yeasted dough stretched thin, dropped into hot oil and puffed into a golden disc, then rubbed with raw garlic and crowned with sour cream and grated cheese. Market-stall food, street food, late-night food. Eaten hot, by hand, often standing up.*
+*Hungary's deep-fried flatbread: a soft yeasted dough stretched thin, dropped into hot oil and puffed into a golden disc, then rubbed with raw garlic and crowned with sour cream and grated cheese. Market-stall food, street food, late-night food. Eat hot, by hand, often standing up.*
 
 **Serves:** 4 (makes 4 large lángos)
 

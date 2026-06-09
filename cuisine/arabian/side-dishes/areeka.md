@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-A Saudi sweet you can put together in five minutes from three ingredients you almost certainly have: bread, dates, samna. You tear soft, slightly toasted whole-wheat flatbread (khubz tameez works) into a heavy bowl, scatter pitted dates over it (medjool or kholas, the Saudi favourites), then press the mixture lightly with a wooden pestle or the back of a spoon while a generous pour of warm melted samna goes over the top. The dates collapse into the bread under the heat and the pressure, and the samna soaks through until you have a thick, buttery, intensely sweet mass that holds together in a spoon. Some versions add ground cardamom, a sprinkle of toasted sesame, or a final swirl of honey on top. Eaten warm with the fingers or a spoon, traditionally for breakfast or as the sweet course at the end of a heavy meal.
+A Saudi sweet you can put together in five minutes from three ingredients you almost certainly have: bread, dates, samna. You tear soft, slightly toasted whole-wheat flatbread (khubz tameez works) into a heavy bowl, scatter pitted dates over it (medjool or kholas, the Saudi favourites), then press the mixture lightly with a wooden pestle or the back of a spoon while a generous pour of warm melted samna goes over the top. The dates collapse into the bread under the heat and the pressure, and the samna soaks through until you have a thick, buttery, intensely sweet mass that holds together in a spoon. Some versions add ground cardamom, a sprinkle of toasted sesame, or a final swirl of honey on top. Eat warm with the fingers or a spoon, traditionally for breakfast or as the sweet course at the end of a heavy meal.
 
 ## Ingredients
 

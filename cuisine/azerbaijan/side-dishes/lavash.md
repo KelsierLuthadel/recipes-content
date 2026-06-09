@@ -11,7 +11,7 @@
 **Cook Time:** 24 minutes (3 minutes per sheet)
 
 ## Overview
-The paper-thin flatbread of the Caucasus, on UNESCO's Intangible Cultural Heritage list since 2014, and the bread that wraps every grilled meat from Yerevan to Baku. You make a dough from just three things (flour, water and salt) that is firmer than a pasta dough and smoother than a bread dough. Thirty minutes' rest under a damp cloth lets the gluten relax enough to roll. The dough divides into eight balls, each rolled paper-thin (you should be able to read newsprint through the sheet before it goes in the pan). Onto a heavy dry skillet over high heat for sixty to ninety seconds per side, just long enough to puff and blister. Stack the cooked sheets under a clean tea towel as you go so they stay pliable. Eaten the same day, torn around grilled meat, wrapped around kebabs, used as a plate, used as a napkin.
+The paper-thin flatbread of the Caucasus, on UNESCO's Intangible Cultural Heritage list since 2014, and the bread that wraps every grilled meat from Yerevan to Baku. You make a dough from just three things (flour, water and salt) that is firmer than a pasta dough and smoother than a bread dough. Thirty minutes' rest under a damp cloth lets the gluten relax enough to roll. The dough divides into eight balls, each rolled paper-thin (you should be able to read newsprint through the sheet before it goes in the pan). Onto a heavy dry skillet over high heat for sixty to ninety seconds per side, just long enough to puff and blister. Stack the cooked sheets under a clean tea towel as you go so they stay pliable. Eat the same day, torn around grilled meat, wrapped around kebabs, used as a plate, used as a napkin.
 
 ## Ingredients
 - 500 g plain flour (plus extra for dusting)

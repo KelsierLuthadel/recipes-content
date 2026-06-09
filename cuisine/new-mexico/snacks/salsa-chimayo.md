@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Salsa de Chimayó is a New Mexican specialty sauce using the canonical chimayó chile (the deep-red dried chile from the Chimayó region in northern NM's Espanola Valley, prized for its complex slightly fruity flavour): dried chimayó chillies briefly toasted, rehydrated, then blitzed with crushed garlic, apple cider vinegar, dried oregano, ground cumin and salt into a thick relish-like sauce. Used as a condiment alongside NM meals: on grilled meats, in enchiladas, as a finishing drizzle.
+Salsa de Chimayó is a New Mexican specialty sauce using the traditional chimayó chile (the deep-red dried chile from the Chimayó region in northern NM's Espanola Valley, prized for its complex slightly fruity flavour): dried chimayó chillies briefly toasted, rehydrated, then blitzed with crushed garlic, apple cider vinegar, dried oregano, ground cumin and salt into a thick relish-like sauce. Used as a condiment alongside NM meals: on grilled meats, in enchiladas, as a finishing drizzle.
 
 ## Ingredients
 
@@ -49,7 +49,7 @@ Salsa de Chimayó is a New Mexican specialty sauce using the canonical chimayó 
 2. As marinade.
 
 ## Notes
-- **Chimayó chiles canonical.**
+- **Chimayó chiles traditional.**
 - **Brief cook deepens flavour.**
 
 ## Variations

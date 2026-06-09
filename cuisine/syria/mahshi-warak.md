@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Mahshi warak enab means "stuffed vine leaves"; also called yabraq or yalanji depending on the region. One of Syria's most beloved family-meal centrepieces and a Levantine classic shared with Lebanon, Palestine, Jordan and Iraq. Fresh or brined grape vine leaves roll around a fragrant filling of short-grain rice, finely minced lamb, onion, parsley, mint, tomato, lemon and the canonical Levantine seven-spice blend (baharat: allspice, black pepper, cumin, coriander, cardamom, cinnamon, cloves). The rolls pack tightly into a heavy pot lined with bones and lamb chops, weighted down with a plate, covered with a salty lemony broth, then slow-simmer for ninety minutes till the leaves go tender and the rice fully cooks. The chops at the bottom give their flavour to the pot. The seven-spice is non-negotiable; without it you have generic stuffed leaves, with it you have Syrian mahshi. Syrian grandmothers can roll a hundred in under thirty minutes; the rest of us take longer. Served warm or at room temperature with garlic yogurt and lemon wedges.
+Mahshi warak enab means "stuffed vine leaves"; also called yabraq or yalanji depending on the region. One of Syria's most beloved family-meal centrepieces and a Levantine classic shared with Lebanon, Palestine, Jordan and Iraq. Fresh or brined grape vine leaves roll around a fragrant filling of short-grain rice, finely minced lamb, onion, parsley, mint, tomato, lemon and the traditional Levantine seven-spice blend (baharat: allspice, black pepper, cumin, coriander, cardamom, cinnamon, cloves). The rolls pack tightly into a heavy pot lined with bones and lamb chops, weighted down with a plate, covered with a salty lemony broth, then slow-simmer for ninety minutes till the leaves go tender and the rice fully cooks. The chops at the bottom give their flavour to the pot. The seven-spice is non-negotiable; without it you have generic stuffed leaves, with it you have Syrian mahshi. Syrian grandmothers can roll a hundred in under thirty minutes; the rest of us take longer. Served warm or at room temperature with garlic yogurt and lemon wedges.
 
 ## Ingredients
 
@@ -113,7 +113,7 @@ Mahshi warak enab means "stuffed vine leaves"; also called yabraq or yalanji dep
 
 ## Variations
 **Vegetarian mahshi (yalanji):** skip the meat; double the rice; add 100 g of soaked chickpeas to the filling; use vegetable stock. Lighter version; common Lent-friendly Levantine recipe.
-**Without lemon (Lebanese style):** skip the lemon juice in both the filling and the cooking liquid; gives a milder less-sour mahshi. Less canonical Syrian but valid.
+**Without lemon (Lebanese style):** skip the lemon juice in both the filling and the cooking liquid; gives a milder less-sour mahshi. Less traditional Syrian but valid.
 **With pine nuts in the filling:** add 80 g of toasted pine nuts to the filling for extra texture. Common Aleppo variation.
 **Stuffed cabbage instead of vine leaves (malfouf):** swap the vine leaves for tender cabbage leaves (blanched 2-3 minutes); roll the same way. Different but the same idea.
 

@@ -86,7 +86,7 @@ Atholl Brose is Scotland's most ancient and most distinctively Scottish whisky-b
 **Atholl Brose as a sauce:** thicker (less water, more cream) - pour over Christmas pudding or steamed pudding.
 
 ## Serving
-At a Burns Night supper as an after-dinner drink alongside or instead of cranachan (the canonical setting) · at a Scottish wedding reception's "tartan" cocktail bar · at a Highland hunting-lodge dinner · at a Scottish New Year's Day brunch · at a Hogmanay first-footing visit · as a Scottish home Christmas-Day toast · at the end of a long Highland country-house weekend.
+At a Burns Night supper as an after-dinner drink alongside or instead of cranachan (the traditional setting) · at a Scottish wedding reception's "tartan" cocktail bar · at a Highland hunting-lodge dinner · at a Scottish New Year's Day brunch · at a Hogmanay first-footing visit · as a Scottish home Christmas-Day toast · at the end of a long Highland country-house weekend.
 
 ## Storage
 - The oat-honey-whisky base (without cream) keeps in a sealed jar in the fridge 2 weeks; the honey and whisky preserve it.

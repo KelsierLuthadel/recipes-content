@@ -2,7 +2,7 @@
 
 ![Texas Queso](resources/queso.jpg)
 
-*Texas's molten cheese dip: melted American cheese (or a cheddar-Monterey Jack blend) with Rotel diced tomatoes and green chillies, onion, garlic and a splash of milk, served warm with tortilla chips. The Tex-Mex appetiser standard, the canonical "queso" of every Texas restaurant.*
+*Texas's molten cheese dip: melted American cheese (or a cheddar-Monterey Jack blend) with Rotel diced tomatoes and green chillies, onion, garlic and a splash of milk, served warm with tortilla chips. The Tex-Mex appetiser standard, the traditional "queso" of every Texas restaurant.*
 
 **Serves:** 6-8
 
@@ -11,11 +11,11 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the most beloved appetisers in American cooking: melted American cheese (the canonical Velveeta gives the proper smooth molten texture; or a blend of cheddar and Monterey Jack with cream cheese for a from-scratch version) combined with Rotel diced tomatoes and green chillies, sautéed onion, fresh jalapeño, garlic and a splash of milk to keep it smooth. Served warm in a deep bowl with a generous pile of yellow corn tortilla chips for dipping. The dish appears as the starter at every Texas Tex-Mex restaurant, every Super Bowl party in Texas, every Friday-night gathering.
+Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the most beloved appetisers in American cooking: melted American cheese (the traditional Velveeta gives the proper smooth molten texture; or a blend of cheddar and Monterey Jack with cream cheese for a from-scratch version) combined with Rotel diced tomatoes and green chillies, sautéed onion, fresh jalapeño, garlic and a splash of milk to keep it smooth. Served warm in a deep bowl with a generous pile of yellow corn tortilla chips for dipping. The dish appears as the starter at every Texas Tex-Mex restaurant, every Super Bowl party in Texas, every Friday-night gathering.
 
 ## Ingredients
 
-### Cheese version (canonical Tex-Mex)
+### Cheese version (traditional Tex-Mex)
 - 500 g Velveeta cheese (cubed); OR 400 g mild cheddar + 200 g Monterey Jack + 150 g cream cheese (for from-scratch)
 - 200 ml whole milk
 
@@ -75,7 +75,7 @@ Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the
 4. Serve immediately with chips.
 
 ## Notes
-- **Velveeta canonical:** gives smooth molten texture; the from-scratch version with cream cheese is the substitute.
+- **Velveeta traditional:** gives smooth molten texture; the from-scratch version with cream cheese is the substitute.
 - **Rotel essential:** the canned tomato-and-green-chile.
 - **Low heat:** boiling causes seizing.
 - **Stir constantly while melting.**

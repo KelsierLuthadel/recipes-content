@@ -16,7 +16,7 @@ Café Lao is the French-colonial coffee legacy adapted by Lao home cooks. The be
 ## Ingredients
 
 ### Per drink (multiply for more)
-- 2 tablespoons sweetened condensed milk (full-fat; the brand Longevity or Eagle Brand is canonical)
+- 2 tablespoons sweetened condensed milk (full-fat; the brand Longevity or Eagle Brand is traditional)
 - 3 tablespoons coarsely ground dark-roast Lao or Vietnamese coffee (or French-roast espresso grind)
 - 200 ml just-off-the-boil water (about 95°C)
 - 1 small handful crushed ice or 4-5 ice cubes
@@ -66,10 +66,10 @@ Café Lao is the French-colonial coffee legacy adapted by Lao home cooks. The be
 
 ## Notes
 - **Strong dark-roast coffee is essential:** the condensed milk is very sweet; the coffee needs to push back. Light-roast or weak coffee gives a one-note milkshake.
-- **Slow drip is the canonical technique:** the phin produces concentrated coffee over 6-10 minutes.
-- **Condensed milk first:** the canonical layering. Pouring coffee over hot grounds and adding condensed milk later doesn't dissolve the milk as cleanly.
+- **Slow drip is the traditional technique:** the phin produces concentrated coffee over 6-10 minutes.
+- **Condensed milk first:** the traditional layering. Pouring coffee over hot grounds and adding condensed milk later doesn't dissolve the milk as cleanly.
 - **Crushed ice or cubes:** crushed melts faster; cubes give a slower dilution.
-- **Don't oversweeten:** 2 tablespoons of condensed milk per glass is the canonical amount. More is dessert.
+- **Don't oversweeten:** 2 tablespoons of condensed milk per glass is the traditional amount. More is dessert.
 
 ## Variations
 **Hot café Lao:** skip the ice; stir the condensed milk into the hot brewed coffee. The winter / morning version.
@@ -79,7 +79,7 @@ Café Lao is the French-colonial coffee legacy adapted by Lao home cooks. The be
 **Egg coffee (cà phê trứng - Vietnamese variant):** whisk an egg yolk with the condensed milk to a foam; pour coffee over. Borderline overlap with Vietnamese.
 
 ## Serving
-At a Lao morning market stall (the canonical setting; sold from carts at 6 am alongside khao jee sandwiches) · at a Vientiane or Luang Prabang café · at a Lao breakfast counter · at home as a strong morning pick-me-up · paired with khao jee (Lao baguette sandwich) or sai oua.
+At a Lao morning market stall (the traditional setting; sold from carts at 6 am alongside khao jee sandwiches) · at a Vientiane or Luang Prabang café · at a Lao breakfast counter · at home as a strong morning pick-me-up · paired with khao jee (Lao baguette sandwich) or sai oua.
 
 ## Storage
 - Drink fresh; doesn't store.

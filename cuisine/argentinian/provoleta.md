@@ -2,7 +2,7 @@
 
 ![Provoleta](resources/provoleta.jpg)
 
-*Argentina's most genius cheese dish: a thick disc of provolone cheese - Argentine "provoleta", aged sharper and firmer than Italian provolone - sprinkled with dried oregano and chilli flakes, grilled directly on the parrilla till the bottom is deeply caramelised, the middle softened, and the top crusted with herbs. Eaten with fresh bread, alongside chimichurri, with a glass of Malbec. The canonical Argentine asado opener.*
+*Argentina's most genius cheese dish: a thick disc of provolone cheese - Argentine "provoleta", aged sharper and firmer than Italian provolone - sprinkled with dried oregano and chilli flakes, grilled directly on the parrilla till the bottom is deeply caramelised, the middle softened, and the top crusted with herbs. Eat with fresh bread, alongside chimichurri, with a glass of Malbec. The traditional Argentine asado opener.*
 
 **Serves:** 4 (as a starter)
 
@@ -85,7 +85,7 @@ Provoleta is Argentina's most clever and most universally beloved cheese starter
 **Pan-cooked provoleta (no grill):** in a screaming-hot cast-iron pan on the stovetop, 3 minutes per side. Same result.
 
 ## Serving
-At every Argentine asado as the canonical opener (the canonical setting) · at a Buenos Aires parrilla restaurant · at a Mendoza wine-country lunch · at an Argentine wedding reception (as canapés on the grill) · at home as a quick weeknight snack on a cast-iron pan · with a glass of Malbec and bread for an easy starter.
+At every Argentine asado as the traditional opener (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Mendoza wine-country lunch · at an Argentine wedding reception (as canapés on the grill) · at home as a quick weeknight snack on a cast-iron pan · with a glass of Malbec and bread for an easy starter.
 
 ## Storage
 - Best eaten immediately from the grill.

@@ -167,7 +167,7 @@ Oven door opened too many times, or pizza pulled too soon. Bake another 1-2 minu
 - [Sauce](sauce.md): less is more, especially under high heat.
 - [Toppings](toppings.md): heavy topping loads need longer bakes.
 - [Cheese](cheese.md): cheese choice affects browning behaviour.
-- [Margherita](../../cuisine/italian/pizza/margherita.md): the canonical reference.
+- [Margherita](../../cuisine/italian/pizza/margherita.md): the traditional reference.
 - [Bread / Scoring and Oven Spring](../bread/scoring.md): the same physics governs both pizza and bread.
 
 ## Storage

@@ -118,7 +118,7 @@ Used a smooth puree, or applied too thickly. Use crushed tomato (chunky), apply 
 
 ## Where Next
 - [Pizza tutorial / Sauce](../pizza/sauce.md): deep-dive on the no-cook style.
-- [Pizza Sauce recipe](../../cuisine/italian/pizza/pizza-sauce.md): canonical pizza-sauce recipe.
+- [Pizza Sauce recipe](../../cuisine/italian/pizza/pizza-sauce.md): traditional pizza-sauce recipe.
 - [Bechamel](bechamel.md): the white mother sauce.
 - [Stocks-Sauces Course landing](stocks-sauces.md): back to the main course.
 

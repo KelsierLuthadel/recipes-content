@@ -2,7 +2,7 @@
 
 ![Sayur Masak Lemak](resources/sayur-masak-lemak.jpg)
 
-*Malaysian vegetables in coconut milk: a yellow-tinged, turmeric-bright broth with squash, beans, and a fragrant rempah base. "Masak lemak" means "cooked rich" - and the dish is exactly that, mild and creamy without being heavy. Eaten with rice, every day across Malaysia.*
+*Malaysian vegetables in coconut milk: a yellow-tinged, turmeric-bright broth with squash, beans, and a fragrant rempah base. "Masak lemak" means "cooked rich" - and the dish is exactly that, mild and creamy without being heavy. Eat with rice, every day across Malaysia.*
 
 **Serves:** 4
 

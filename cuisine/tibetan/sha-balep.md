@@ -28,7 +28,7 @@ Sha balep (literally "meat bread" in Tibetan; sha = meat, balep = bread) is Tibe
 - 1 thumb (3 cm) fresh ginger (finely grated)
 - 4 spring onions (white and pale green parts finely sliced)
 - 2 fresh green chillies (finely chopped)
-- 1 teaspoon ground Sichuan peppercorns (the canonical Tibetan spice; or substitute with black pepper + a small pinch of coriander seeds toasted)
+- 1 teaspoon ground Sichuan peppercorns (the traditional Tibetan spice; or substitute with black pepper + a small pinch of coriander seeds toasted)
 - 2 tablespoons light soy sauce
 - 1 tablespoon dark soy sauce
 - 1 teaspoon fine sea salt
@@ -41,7 +41,7 @@ Sha balep (literally "meat bread" in Tibetan; sha = meat, balep = bread) is Tibe
 
 ### To serve
 - Tibetan chilli sauce (or any chilli-soy dipping sauce)
-- Butter tea (the canonical Tibetan accompaniment) or sweet milky chai
+- Butter tea (the traditional Tibetan accompaniment) or sweet milky chai
 - Fresh coriander leaves
 - Sliced cucumber (optional, to balance richness)
 
@@ -90,8 +90,8 @@ Sha balep (literally "meat bread" in Tibetan; sha = meat, balep = bread) is Tibe
 4. Eat with the hands; cut through with a knife if you prefer.
 
 ## Notes
-- **Yak meat is canonical; beef and lamb are the substitutes:** real Tibetan sha balep uses yak meat (often dried-yak-meat rehydrated, sometimes fresh). Yak is rare outside Tibet and Mongolia; beef and lamb are the everyday substitutes and the dish is properly Tibetan with either.
-- **Sichuan peppercorns are essential:** the canonical Tibetan flavour profile includes Sichuan peppercorns (the slightly numbing-hot pepper of the eastern plateau). Black pepper works in a pinch but the flavour is different.
+- **Yak meat is traditional; beef and lamb are the substitutes:** real Tibetan sha balep uses yak meat (often dried-yak-meat rehydrated, sometimes fresh). Yak is rare outside Tibet and Mongolia; beef and lamb are the everyday substitutes and the dish is properly Tibetan with either.
+- **Sichuan peppercorns are essential:** the traditional Tibetan flavour profile includes Sichuan peppercorns (the slightly numbing-hot pepper of the eastern plateau). Black pepper works in a pinch but the flavour is different.
 - **Cover and steam the filling through:** the most common error is not steaming the filling through; the outside crisps quickly but the meat inside remains raw. The 5-minute covered steaming after browning is essential.
 - **Don't overcrowd the pan:** 3-4 sha balep at a time gives proper crisping; more and they steam each other rather than crisping.
 - **Eat immediately:** sha balep is best fresh and hot; the dough toughens as it cools.

@@ -81,7 +81,7 @@ Louisiana dirty rice is a Cajun rice dish that gets its name from the "dirty" sp
 **With andouille:** swap the beef for 250 g sliced andouille for extra smoke.
 **Vegetarian:** skip meat entirely; use 400 g chopped chestnut mushrooms (browned hard) and vegetable stock.
 **Spicier:** double cayenne + extra hot sauce.
-**Traditional with offal:** swap the pork and beef for 200 g chicken livers + 200 g chicken gizzards (both finely chopped) for the canonical old-school version.
+**Traditional with offal:** swap the pork and beef for 200 g chicken livers + 200 g chicken gizzards (both finely chopped) for the traditional old-school version.
 
 ## Serving
 Alongside gumbo, étouffée, fried chicken.

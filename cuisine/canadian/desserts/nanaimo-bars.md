@@ -91,10 +91,10 @@ The Nanaimo bar is British Columbia's most famous sweet, named for the Vancouver
 4. Serve cold, with a strong cup of coffee or a glass of cold milk.
 
 ## Notes
-- **Bird's Custard Powder is the canonical ingredient:** the yellow tin of UK/Canadian Bird's. Substitute with 3 tablespoons vanilla instant pudding mix + 1/4 teaspoon yellow food colouring + 1/2 teaspoon extra vanilla extract, but the flavour is slightly different.
+- **Bird's Custard Powder is the traditional ingredient:** the yellow tin of UK/Canadian Bird's. Substitute with 3 tablespoons vanilla instant pudding mix + 1/4 teaspoon yellow food colouring + 1/2 teaspoon extra vanilla extract, but the flavour is slightly different.
 - **Cool the chocolate before pouring:** hot chocolate over cold custard icing melts the middle layer and creates a smeared mess. 3-4 minutes off the heat is essential.
 - **Score before fully set:** cutting cold-hard chocolate cracks the top. Score the soft-set chocolate with a hot knife; refrigerate; cut along the score lines later.
-- **Sweetened coconut:** shredded sweetened coconut is the canonical type. Unsweetened works but the bar tastes drier; reduce caster sugar by 30 g if using unsweetened.
+- **Sweetened coconut:** shredded sweetened coconut is the traditional type. Unsweetened works but the bar tastes drier; reduce caster sugar by 30 g if using unsweetened.
 - **Don't substitute the walnuts with almonds:** the walnut bitterness is part of the flavour profile. Pecans work as a substitute; almonds give a different (and arguably inferior) result.
 - **Layers must be cold before the next goes on:** rushing means the layers smear together. Patience is the rule.
 
@@ -109,7 +109,7 @@ The Nanaimo bar is British Columbia's most famous sweet, named for the Vancouver
 **Round Nanaimo "truffles":** roll the chilled middle-layer icing into balls; dip in the chocolate-and-butter top mix; refrigerate till set - the bite-sized variant for canapés.
 
 ## Serving
-At a BC tea-room (the canonical setting) · at a Vancouver Island café · at a Nanaimo bakery (the canonical city is the namesake) · at a Canadian Thanksgiving dessert table · at a Canadian Christmas cookie tray · at a Vancouver office potluck · at a Canadian community fundraiser bake sale · at home as a make-ahead Sunday-afternoon treat · paired with a strong cup of black tea or coffee.
+At a BC tea-room (the traditional setting) · at a Vancouver Island café · at a Nanaimo bakery (the traditional city is the namesake) · at a Canadian Thanksgiving dessert table · at a Canadian Christmas cookie tray · at a Vancouver office potluck · at a Canadian community fundraiser bake sale · at home as a make-ahead Sunday-afternoon treat · paired with a strong cup of black tea or coffee.
 
 ## Storage
 - Refrigerates 1 week in an airtight container (separate layers with parchment).

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Pampushky are the small pillowy yeast rolls that sit beside every bowl of red borscht on a Ukrainian table, glossy with garlic-and-dill oil and pulled apart by hand to dip into the soup. The garlic oil is the whole pleasure, and the trick is to brush it on the rolls the moment they leave the oven; cool rolls don't absorb it and you lose the intense savoury hit that defines the bread. The garlic must be pounded with salt in a mortar to a smooth paste before being mixed with sunflower oil and finely chopped fresh dill; a microplane is the next best, minced is third. Eaten the same day they're baked; pampushky stale fast and the garlic note fades by the next morning.
+Pampushky are the small pillowy yeast rolls that sit beside every bowl of red borscht on a Ukrainian table, glossy with garlic-and-dill oil and pulled apart by hand to dip into the soup. The garlic oil is the whole pleasure, and the trick is to brush it on the rolls the moment they leave the oven; cool rolls don't absorb it and you lose the intense savoury hit that defines the bread. The garlic must be pounded with salt in a mortar to a smooth paste before being mixed with sunflower oil and finely chopped fresh dill; a microplane is the next best, minced is third. Eat the same day they're baked; pampushky stale fast and the garlic note fades by the next morning.
 
 ## Ingredients
 

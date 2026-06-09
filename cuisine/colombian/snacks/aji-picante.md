@@ -2,7 +2,7 @@
 
 ![Aji Picante](resources/aji-picante.jpg)
 
-*Colombia's foundational hot sauce: finely chopped tomato, onion, scallion, coriander, fresh chillies, lime juice and vinegar combined into a fresh chunky table-condiment. The canonical Colombian condiment that turns up alongside every meal - the salsa criolla equivalent across the country.*
+*Colombia's foundational hot sauce: finely chopped tomato, onion, scallion, coriander, fresh chillies, lime juice and vinegar combined into a fresh chunky table-condiment. The traditional Colombian condiment that turns up alongside every meal - the salsa criolla equivalent across the country.*
 
 **Serves:** Makes about 400 ml
 
@@ -58,7 +58,7 @@ Ají picante (or simply "ají") is Colombia's most pervasive table condiment and
 ## Notes
 - **Finely chopped, not blended:** the proper texture is chunky.
 - **Lime + vinegar:** both essential.
-- **Adjust chilli to taste:** the canonical version is moderately hot; reduce for milder, increase for fierce.
+- **Adjust chilli to taste:** the traditional version is moderately hot; reduce for milder, increase for fierce.
 - **Eat fresh:** best within a week.
 - **Cumin gives the Colombian profile:** distinguishes from Mexican salsa.
 

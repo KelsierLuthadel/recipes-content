@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (plus 30 minutes soaking)
 
 ## Overview
-Gulab jamun is the most-loved sweet across Pakistan and India, the centrepiece of every wedding tray and Eid spread. Small khoya dough balls fry to a deep mahogany then go straight into warm cardamom-rose syrup, where they soak up the perfume until the outside is chewy and the inside dissolves on the tongue. The frying is the trick everyone gets wrong on the first attempt: too hot and the outside burns before the centre cooks. Low and slow is the answer, around 140 °C to start, with the heat creeping up gently as the balls colour. A smooth roll between the palms matters too, because any crack in the dough opens in the oil and the finished gulab jamun won't be uniform. Eaten warm, two or three per person, with a generous spoon of syrup, chopped pistachios and a scatter of dried rose petals on top.
+Gulab jamun is the most-loved sweet across Pakistan and India, the centrepiece of every wedding tray and Eid spread. Small khoya dough balls fry to a deep mahogany then go straight into warm cardamom-rose syrup, where they soak up the perfume until the outside is chewy and the inside dissolves on the tongue. The frying is the trick everyone gets wrong on the first attempt: too hot and the outside burns before the centre cooks. Low and slow is the answer, around 140 °C to start, with the heat creeping up gently as the balls colour. A smooth roll between the palms matters too, because any crack in the dough opens in the oil and the finished gulab jamun won't be uniform. Eat warm, two or three per person, with a generous spoon of syrup, chopped pistachios and a scatter of dried rose petals on top.
 
 ## Ingredients
 

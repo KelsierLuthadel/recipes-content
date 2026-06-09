@@ -11,7 +11,7 @@
 **Cook Time:** None (no-bake)
 
 ## Overview
-The Scottish macaroon bar is one of the country's strangest and most beloved confections: a sweet fondant made (bizarrely but canonically) with mashed boiled potato as the bulk ingredient, combined with icing sugar to a thick paste, formed into bars, coated in melted dark chocolate and rolled in toasted desiccated coconut. The story is the recipe was invented by accident in 1930 by John Justice Lees Sr., a Coatbridge confectioner who was trying to make fondant and grabbed the wrong tin (potato instead of starch). The result was such a success that Lees Confectionery built a business around it, and Lees of Scotland still produces commercial macaroons today. The flavour is the surprise: the potato is completely undetectable (it just provides moisture and a slight chewiness); the icing sugar dominates with a sweet smoothness; the dark chocolate balances; the toasted coconut gives a nutty crunch. Unrelated to French macarons, despite the name.
+The Scottish macaroon bar is one of the country's strangest and most beloved confections: a sweet fondant made (bizarrely but traditionally) with mashed boiled potato as the bulk ingredient, combined with icing sugar to a thick paste, formed into bars, coated in melted dark chocolate and rolled in toasted desiccated coconut. The story is the recipe was invented by accident in 1930 by John Justice Lees Sr., a Coatbridge confectioner who was trying to make fondant and grabbed the wrong tin (potato instead of starch). The result was such a success that Lees Confectionery built a business around it, and Lees of Scotland still produces commercial macaroons today. The flavour is the surprise: the potato is completely undetectable (it just provides moisture and a slight chewiness); the icing sugar dominates with a sweet smoothness; the dark chocolate balances; the toasted coconut gives a nutty crunch. Unrelated to French macarons, despite the name.
 
 ## Ingredients
 
@@ -109,7 +109,7 @@ The Scottish macaroon bar is one of the country's strangest and most beloved con
 **Triple-coated:** dip in chocolate, roll in coconut, allow to set, then drizzle with melted white chocolate - modern fancy version.
 
 ## Serving
-At Scottish school bake-sales (the canonical setting; arranged on doilies on a folding table) · at a Scottish church fete · at a Saint Andrew's Day market in Edinburgh · as a Scottish Christmas-stocking treat · in Lees of Scotland branded wrapping in any Scottish corner shop · at a Highland coffee morning with a cup of strong tea · at a Burns Night supper as a curiosity for the English guests.
+At Scottish school bake-sales (the traditional setting; arranged on doilies on a folding table) · at a Scottish church fete · at a Saint Andrew's Day market in Edinburgh · as a Scottish Christmas-stocking treat · in Lees of Scotland branded wrapping in any Scottish corner shop · at a Highland coffee morning with a cup of strong tea · at a Burns Night supper as a curiosity for the English guests.
 
 ## Storage
 - Keeps in a sealed tin (not the fridge after the initial set) for 2 weeks.

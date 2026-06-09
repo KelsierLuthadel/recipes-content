@@ -127,9 +127,9 @@ Pastry too close to the bottom of the oven, or sheet placed directly on a hot st
 
 ## Where Next
 - [Sweet Short Pastry](sweet-short.md): the patisserie tart base, often paired with choux in composite desserts.
-- [Choux Pastry recipe](../../baking/pastry/choux-pastry.md): canonical recipe.
+- [Choux Pastry recipe](../../baking/pastry/choux-pastry.md): traditional recipe.
 - [Creme Patissiere](../../baking/cremes/creme-patissiere.md): the classic choux filling.
-- [Profiteroles](../../cuisine/french/desserts/profiteroles.md): the canonical finished dessert.
+- [Profiteroles](../../cuisine/french/desserts/profiteroles.md): the traditional finished dessert.
 - [Pastry Course landing](pastry.md): back to the main course.
 
 ## Storage

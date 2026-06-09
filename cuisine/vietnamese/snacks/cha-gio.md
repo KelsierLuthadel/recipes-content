@@ -2,7 +2,7 @@
 
 ![Cha Gio](resources/cha-gio.jpg)
 
-*Chả giò are the deep-fried Vietnamese spring rolls (called nem rán in the north) - shatteringly crisp golden tubes of rice paper around a juicy pork, prawn and wood-ear mushroom filling. Eaten wrapped in lettuce and herbs, dunked in nước chấm, they are the special-occasion snack of every Vietnamese household.*
+*Chả giò are the deep-fried Vietnamese spring rolls (called nem rán in the north) - shatteringly crisp golden tubes of rice paper around a juicy pork, prawn and wood-ear mushroom filling. Eat wrapped in lettuce and herbs, dunked in nước chấm, they are the special-occasion snack of every Vietnamese household.*
 
 **Makes:** 20 rolls (serves 6)
 

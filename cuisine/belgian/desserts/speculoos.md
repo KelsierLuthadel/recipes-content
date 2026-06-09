@@ -17,7 +17,7 @@ Speculoos is Belgium's most identity-defining biscuit, and the reason cookie but
 
 ### The biscuit dough
 - 350 g plain flour
-- 220 g dark candi sugar OR dark muscovado sugar (Belgian dark candi sugar is canonical; muscovado works)
+- 220 g dark candi sugar OR dark muscovado sugar (Belgian dark candi sugar is traditional; muscovado works)
 - 180 g cold unsalted butter, in 1 cm cubes
 - 1 large egg
 - 2 tablespoons whole milk
@@ -62,7 +62,7 @@ Speculoos is Belgium's most identity-defining biscuit, and the reason cookie but
 2. Line 2 baking trays with parchment.
 3. Divide the chilled dough into 2 portions. Keep one wrapped in the fridge while you work on the first.
 4. Lightly flour the work surface and roll the first portion to 3 mm thick.
-5. Cut into rectangles (about 6 × 4 cm) - the canonical Lotus shape - or use Speculoos wooden moulds if you have them, or any biscuit cutter.
+5. Cut into rectangles (about 6 × 4 cm) - the traditional Lotus shape - or use Speculoos wooden moulds if you have them, or any biscuit cutter.
 6. Use a fork to gently mark a pattern on each (parallel lines, or a windmill shape - this is decorative and helps even baking).
 7. Lift onto the lined trays with a spatula; leave 2 cm between biscuits (they spread slightly).
 8. Sprinkle the demerara sugar over the tops if using.
@@ -81,7 +81,7 @@ Speculoos is Belgium's most identity-defining biscuit, and the reason cookie but
 ## Notes
 - **Dark candi sugar matters:** the deep amber colour and molasses notes of authentic speculoos depend on it. Dark muscovado is the best workable substitute. Don't use light brown sugar or caster - the result is pale and one-dimensional.
 - **Chill the dough fully:** 4 hours is the minimum; overnight is better. Skipping this gives you biscuits that spread too much and don't develop the right flavour.
-- **Thin rolling:** 3 mm is the canonical thickness. Thicker biscuits stay soft in the middle and don't get the crisp snap.
+- **Thin rolling:** 3 mm is the traditional thickness. Thicker biscuits stay soft in the middle and don't get the crisp snap.
 - **Spice ratio matters:** speculoos isn't just cinnamon; the cardamom, cloves and white pepper are what make it Belgian rather than American gingerbread.
 - **Storage matters:** crisp speculoos goes soft in a humid container. Keep in a tin with a tight lid.
 
@@ -95,7 +95,7 @@ Speculoos is Belgium's most identity-defining biscuit, and the reason cookie but
 **Speculoos sandwich biscuits with white chocolate filling:** spread melted white chocolate between two cooled biscuits.
 
 ## Serving
-With a Belgian espresso or café au lait (the canonical setting) · alongside a Belgian hot chocolate · at a Belgian or Dutch coffee shop · at a Sint-Niklaas (6 December) celebration · with a glass of dessert wine after dinner · crumbled over vanilla ice cream · half-dipped into a strong coffee.
+With a Belgian espresso or café au lait (the traditional setting) · alongside a Belgian hot chocolate · at a Belgian or Dutch coffee shop · at a Sint-Niklaas (6 December) celebration · with a glass of dessert wine after dinner · crumbled over vanilla ice cream · half-dipped into a strong coffee.
 
 ## Storage
 - Stores 3 weeks in a tin with a tight lid at room temperature; they actually improve for the first few days as the spices marry.

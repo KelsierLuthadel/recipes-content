@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes (boiling)
 
 ## Overview
-Pelmeni are Russia's most iconic dumplings and the canonical Siberian winter food: thin pasta-style dough rolled paper-thin, cut into small circles, filled with a seasoned mince (traditional Siberian filling is beef, pork and a small amount of lamb, though pure beef or pork is common), folded into half-moons and then twisted into the iconic ear-shape. Boiled in heavily salted water for five to seven minutes, served immediately with melted butter, sour cream, finely chopped dill and freshly ground black pepper. Made in large batches and frozen on trays; a handful goes straight from freezer to boiling water for a seven-minute dinner. Mongolian-Chinese origins (the buuz of Mongolia and the jiaozi of China are close cousins), brought to Siberia centuries ago and now thoroughly Russian. Grated onion in the filling matters; its moisture keeps the meat juicy. The dough must be paper-thin (1 to 2 mm); thicker gives heavy doughy pelmeni. The traditional accompaniments are not optional; they're part of the dish.
+Pelmeni are Russia's most iconic dumplings and the traditional Siberian winter food: thin pasta-style dough rolled paper-thin, cut into small circles, filled with a seasoned mince (traditional Siberian filling is beef, pork and a small amount of lamb, though pure beef or pork is common), folded into half-moons and then twisted into the iconic ear-shape. Boiled in heavily salted water for five to seven minutes, served immediately with melted butter, sour cream, finely chopped dill and freshly ground black pepper. Made in large batches and frozen on trays; a handful goes straight from freezer to boiling water for a seven-minute dinner. Mongolian-Chinese origins (the buuz of Mongolia and the jiaozi of China are close cousins), brought to Siberia centuries ago and now thoroughly Russian. Grated onion in the filling matters; its moisture keeps the meat juicy. The dough must be paper-thin (1 to 2 mm); thicker gives heavy doughy pelmeni. The traditional accompaniments are not optional; they're part of the dish.
 
 ## Ingredients
 
@@ -104,7 +104,7 @@ Pelmeni are Russia's most iconic dumplings and the canonical Siberian winter foo
 **Fish pelmeni:** swap the meat for 600 g of minced white fish (pike, cod) with a small amount of butter and dill in the filling; Siberian river-fish variation.
 
 ## Serving
-In warm bowls with the butter, sour cream and dill. As a main course, 8-10 per person. As a starter, 5-6 per person. A small glass of cold vodka alongside is the canonical Russian winter pairing; for non-vodka diners, kvass (the fermented rye drink) or cold beer.
+In warm bowls with the butter, sour cream and dill. As a main course, 8-10 per person. As a starter, 5-6 per person. A small glass of cold vodka alongside is the traditional Russian winter pairing; for non-vodka diners, kvass (the fermented rye drink) or cold beer.
 
 ## Storage
 - Cooked pelmeni keep refrigerated 2 days; reheat gently in butter in a frying pan, or briefly in the microwave.

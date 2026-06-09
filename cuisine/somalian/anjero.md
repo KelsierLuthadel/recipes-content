@@ -2,7 +2,7 @@
 
 ![Anjero](resources/anjero.jpg)
 
-*Somalia's spongy fermented pancake - close cousin to Ethiopian injera, but smaller and softer. Fermented batter of sorghum or wheat flour pours onto a hot pan; bubbles burst across the top as it cooks; one side only, so the surface stays porous and lacy. Eaten with stews, tea and honey, or rolled around suqaar.*
+*Somalia's spongy fermented pancake - close cousin to Ethiopian injera, but smaller and softer. Fermented batter of sorghum or wheat flour pours onto a hot pan; bubbles burst across the top as it cooks; one side only, so the surface stays porous and lacy. Eat with stews, tea and honey, or rolled around suqaar.*
 
 **Makes:** 12 pancakes
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Anjero is Somalia's spongy fermented pancake, a smaller and softer cousin to Ethiopian injera, eaten at breakfast with ghee and honey, at dinner under a ladle of suqaar stew, or rolled around whatever's hot off the pan. The character comes from an overnight ferment that gives anjero its faint sourness and the lattice of bubble-craters across the top. The batter wants the thickness of double cream and a room-temperature rest of 12 to 24 hours till it rises, falls back and develops a faintly sour smell. Anjero cooks on one side only, never flipped; flipping kills the lacy porous character that defines it. Eaten warm with maraq or suqaar at dinner, or with ghee and a drizzle of honey alongside a glass of sweet shaah tea for breakfast.
+Anjero is Somalia's spongy fermented pancake, a smaller and softer cousin to Ethiopian injera, eaten at breakfast with ghee and honey, at dinner under a ladle of suqaar stew, or rolled around whatever's hot off the pan. The character comes from an overnight ferment that gives anjero its faint sourness and the lattice of bubble-craters across the top. The batter wants the thickness of double cream and a room-temperature rest of 12 to 24 hours till it rises, falls back and develops a faintly sour smell. Anjero cooks on one side only, never flipped; flipping kills the lacy porous character that defines it. Eat warm with maraq or suqaar at dinner, or with ghee and a drizzle of honey alongside a glass of sweet shaah tea for breakfast.
 
 ## Ingredients
 

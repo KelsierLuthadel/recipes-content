@@ -96,9 +96,9 @@ Bistec encebollado (literally "steak smothered with onions") is one of Puerto Ri
 4. Sliced avocado, lime wedges, pique on the side.
 
 ## Notes
-- **Cube steak or thin sirloin:** thick steaks won't work in the time. Cube steak (mechanically tenderised) is the canonical Boricua choice; thin-sliced top sirloin is the equivalent.
+- **Cube steak or thin sirloin:** thick steaks won't work in the time. Cube steak (mechanically tenderised) is the traditional Boricua choice; thin-sliced top sirloin is the equivalent.
 - **Generous onions:** the dish is as much about the onions as the beef. 5 large onions for 4 portions is the proper ratio.
-- **Vinegar is canonical:** the white vinegar deglaze gives the proper tangy character. Don't skip; balsamic doesn't substitute.
+- **Vinegar is traditional:** the white vinegar deglaze gives the proper tangy character. Don't skip; balsamic doesn't substitute.
 - **Don't overcook:** the beef is meant to be tender but still distinct; over-cooking gives shredded mush.
 - **Eat over rice:** the sauce-soaked rice is the best part. Generous rice underneath.
 

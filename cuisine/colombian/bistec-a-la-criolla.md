@@ -2,7 +2,7 @@
 
 ![Bistec a la Criolla](resources/bistec-a-la-criolla.jpg)
 
-*Colombia's steak in tomato-onion sauce: thin slices of beef seared briefly then simmered with a base of sautéed onions, tomatoes, peppers, garlic, the canonical Colombian hogao and a touch of cumin till the sauce thickens and clings to the meat. The Colombian everyday family dinner, ladled over white rice with a fried egg, plantains and avocado.*
+*Colombia's steak in tomato-onion sauce: thin slices of beef seared briefly then simmered with a base of sautéed onions, tomatoes, peppers, garlic, the traditional Colombian hogao and a touch of cumin till the sauce thickens and clings to the meat. The Colombian everyday family dinner, ladled over white rice with a fried egg, plantains and avocado.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Bistec a la criolla means "Creole steak", criollo here meaning the indigenous Colombian style. One of Colombia's most everyday dinner-table dishes and a staple of Bogotá and paisa home cooking. Thin slices of beef (canonically muchacho, the eye round; sirloin or skirt also work) marinate briefly in lime, garlic and salt, sear in a hot pan, then slow-simmer in a base of sautéed onions, tomatoes, peppers, garlic, the canonical hogao, cumin and oregano till the sauce thickens to a glossy orange-red coating that clings to every slice. The dish distinguishes itself from the Cuban bistec encebollado by its tomato dominance (the Cuban is onion-dominant) and by the hogao base. Sear the beef briefly: the thin meat sears in sixty seconds, longer goes tough. Aim for a sauce that coats the meat, not a watery stew. Served ladled over plain white rice with a fried egg, sliced sweet plantains and avocado on the plate.
+Bistec a la criolla means "Creole steak", criollo here meaning the indigenous Colombian style. One of Colombia's most everyday dinner-table dishes and a staple of Bogotá and paisa home cooking. Thin slices of beef (traditionally muchacho, the eye round; sirloin or skirt also work) marinate briefly in lime, garlic and salt, sear in a hot pan, then slow-simmer in a base of sautéed onions, tomatoes, peppers, garlic, the traditional hogao, cumin and oregano till the sauce thickens to a glossy orange-red coating that clings to every slice. The dish distinguishes itself from the Cuban bistec encebollado by its tomato dominance (the Cuban is onion-dominant) and by the hogao base. Sear the beef briefly: the thin meat sears in sixty seconds, longer goes tough. Aim for a sauce that coats the meat, not a watery stew. Served ladled over plain white rice with a fried egg, sliced sweet plantains and avocado on the plate.
 
 ## Ingredients
 
@@ -103,7 +103,7 @@ Bistec a la criolla means "Creole steak", criollo here meaning the indigenous Co
 - **Hogao is the foundation:** don't skip.
 - **Thin beef, brief sear:** 60 seconds per side. Longer = tough.
 - **Sauce thick enough to cling:** simmer 20-25 minutes till glossy.
-- **Fried egg on top:** the canonical Colombian touch.
+- **Fried egg on top:** the traditional Colombian touch.
 - **Don't oversalt:** the Worcestershire and hogao bring salt.
 
 ## Variations

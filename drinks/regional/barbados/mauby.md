@@ -24,7 +24,7 @@ Mauby is one of the Caribbean's most distinctive non-alcoholic drinks: a refresh
 - 1 strip orange peel (about 5 × 2 cm; just the outer rind, avoid the white pith)
 - 1 strip lemon peel
 - 1 thick slice of fresh ginger (1 cm thick)
-- 4-6 whole allspice berries (optional but very canonical)
+- 4-6 whole allspice berries (optional but very traditional)
 - 1.5 litres cold water
 
 ### The sweetening
@@ -36,7 +36,7 @@ Mauby is one of the Caribbean's most distinctive non-alcoholic drinks: a refresh
 - A slice of lime
 - A sprig of mint (optional)
 
-### To serve alongside (the canonical Caribbean snack)
+### To serve alongside (the traditional Caribbean snack)
 - Bajan fish cakes, conkies, or a slice of coconut bread
 
 ## Method
@@ -52,7 +52,7 @@ Mauby is one of the Caribbean's most distinctive non-alcoholic drinks: a refresh
 ### Stage 2 - Steep (overnight ideal)
 1. Take the pan off the heat.
 2. Leave the bark and spices in the brew.
-3. Let stand at room temperature 4-6 hours, OR refrigerate overnight (12-24 hours) for the canonical full-flavour development.
+3. Let stand at room temperature 4-6 hours, OR refrigerate overnight (12-24 hours) for the traditional full-flavour development.
 4. The longer the steep, the more bitter-aromatic the drink (and the more sugar you'll need to balance).
 
 ### Stage 3 - Strain
@@ -77,9 +77,9 @@ Mauby is one of the Caribbean's most distinctive non-alcoholic drinks: a refresh
 4. Drink immediately while ice-cold.
 
 ## Notes
-- **Mauby bark is the canonical ingredient:** the dried inner bark of Colubrina elliptica. Sold at Caribbean shops in small bags; the pre-made "mauby syrup" or "mauby extract" is the workable shortcut.
-- **Overnight steep is dramatic:** the canonical Caribbean technique. 12-24 hours of cooled steep gives the deepest flavour.
-- **Balance the bitter:** 150-200 g sugar per 1.5 litres of strained brew is the canonical Bajan sweetness. Less = too bitter; more = flavoured syrup.
+- **Mauby bark is the traditional ingredient:** the dried inner bark of Colubrina elliptica. Sold at Caribbean shops in small bags; the pre-made "mauby syrup" or "mauby extract" is the workable shortcut.
+- **Overnight steep is dramatic:** the traditional Caribbean technique. 12-24 hours of cooled steep gives the deepest flavour.
+- **Balance the bitter:** 150-200 g sugar per 1.5 litres of strained brew is the traditional Bajan sweetness. Less = too bitter; more = flavoured syrup.
 - **The bitter-aromatic character is the point:** mauby is NOT supposed to be sweet like cola. The slight bitterness is what makes it identity-specific to the Caribbean.
 - **Don't over-cook:** 30 minutes simmer is enough. Longer simmering makes the drink overly bitter.
 - **Drink cold:** mauby is at its peak ice-cold over fresh ice. Room-temperature mauby loses character.
@@ -95,7 +95,7 @@ Mauby is one of the Caribbean's most distinctive non-alcoholic drinks: a refresh
 **Iced mauby slush:** blend the chilled mauby with ice in a blender - the Bajan summer slush.
 
 ## Serving
-At a Bajan street cart (the canonical setting; mauby vendors call "mauby!" through every Bajan town at midday) · at a Bajan rum-shop alongside fish cakes and a cutter · at a Bajan beach picnic · at a Bajan family Sunday lunch as the non-alcoholic accompaniment · at a Bajan church social · at a Bajan Independence Day buffet · at home as the Caribbean cooler alternative to lemonade · paired with Bajan fish cakes, conkies, coconut bread, or simply on its own as a midday refresher.
+At a Bajan street cart (the traditional setting; mauby vendors call "mauby!" through every Bajan town at midday) · at a Bajan rum-shop alongside fish cakes and a cutter · at a Bajan beach picnic · at a Bajan family Sunday lunch as the non-alcoholic accompaniment · at a Bajan church social · at a Bajan Independence Day buffet · at home as the Caribbean cooler alternative to lemonade · paired with Bajan fish cakes, conkies, coconut bread, or simply on its own as a midday refresher.
 
 ## Storage
 - The chilled mauby refrigerates 5 days; the flavours can deepen slightly over 2-3 days.

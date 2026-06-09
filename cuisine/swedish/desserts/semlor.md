@@ -2,7 +2,7 @@
 
 ![Semlor](resources/semlor.jpg)
 
-*Sweden's pre-Lent cream-and-almond-paste buns: soft cardamom-scented round buns scooped hollow, filled with sweet almond paste, topped with a generous dollop of whipped cream and capped with the cut-off top of the bun, dusted with icing sugar. Eaten on Shrove Tuesday (Fettisdagen) and throughout Lent; the Swedish answer to the British pancake-day tradition.*
+*Sweden's pre-Lent cream-and-almond-paste buns: soft cardamom-scented round buns scooped hollow, filled with sweet almond paste, topped with a generous dollop of whipped cream and capped with the cut-off top of the bun, dusted with icing sugar. Eat on Shrove Tuesday (Fettisdagen) and throughout Lent; the Swedish answer to the British pancake-day tradition.*
 
 **Serves:** Makes 12 semlor
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Semlor (singular: semla) are Sweden's iconic Lent and Shrove Tuesday buns and a fixture of every Swedish bakery from late January through Easter, though increasingly Swedish bakeries push them year-round to the dismay of traditionalists. A soft cardamom-scented enriched dough (similar to kanelbulle dough but without the cinnamon filling) shaped into round buns and baked till deep golden. Once cooled, the top of each bun is cut off in a triangular cap, the inside is scooped hollow, and the scooped-out crumb is mixed with marzipan, butter and a splash of milk into a sweet almond paste. The paste goes back into the hollowed bun, topped with a generous mound of vanilla-scented whipped cream, and the cap replaced like a hat. Dusted heavily with icing sugar. The canonical Swedish way to eat: lift the cap, eat the cream and almond paste first, then the bottom of the bun, then the cap. With hot black coffee.
+Semlor (singular: semla) are Sweden's iconic Lent and Shrove Tuesday buns and a fixture of every Swedish bakery from late January through Easter, though increasingly Swedish bakeries push them year-round to the dismay of traditionalists. A soft cardamom-scented enriched dough (similar to kanelbulle dough but without the cinnamon filling) shaped into round buns and baked till deep golden. Once cooled, the top of each bun is cut off in a triangular cap, the inside is scooped hollow, and the scooped-out crumb is mixed with marzipan, butter and a splash of milk into a sweet almond paste. The paste goes back into the hollowed bun, topped with a generous mound of vanilla-scented whipped cream, and the cap replaced like a hat. Dusted heavily with icing sugar. The traditional Swedish way to eat: lift the cap, eat the cream and almond paste first, then the bottom of the bun, then the cap. With hot black coffee.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Semlor (singular: semla) are Sweden's iconic Lent and Shrove Tuesday buns and a 
 - Icing sugar for heavy dusting
 
 ### To serve
-- Hot strong black coffee (the canonical accompaniment)
+- Hot strong black coffee (the traditional accompaniment)
 - Or a glass of cold milk
 
 ## Method
@@ -101,9 +101,9 @@ Semlor (singular: semla) are Sweden's iconic Lent and Shrove Tuesday buns and a 
 
 ## Notes
 - **Cardamom in the dough:** essential. No semla without cardamom.
-- **Scooped bun-crumb in the almond paste:** the canonical method. Plain marzipan-only is wrong.
+- **Scooped bun-crumb in the almond paste:** the traditional method. Plain marzipan-only is wrong.
 - **Heavy dusting of icing sugar:** semlor are visually defined by their snow-covered top.
-- **Eat with coffee:** the canonical Swedish pairing.
+- **Eat with coffee:** the traditional Swedish pairing.
 - **Eat soon after assembly:** the cream and the bun work best together when fresh.
 
 ## Variations
@@ -115,7 +115,7 @@ Semlor (singular: semla) are Sweden's iconic Lent and Shrove Tuesday buns and a 
 **Vegan semlor:** swap milk for oat milk, egg for flax egg, butter for vegan butter, cream for whipped coconut cream.
 
 ## Serving
-On Shrove Tuesday (Fettisdagen) - the canonical day, when Swedes eat semlor by the millions · throughout Lent (the period from Ash Wednesday to Easter) · at every Swedish bakery from late January to Easter · with hot black coffee mid-afternoon (the fika ritual).
+On Shrove Tuesday (Fettisdagen) - the traditional day, when Swedes eat semlor by the millions · throughout Lent (the period from Ash Wednesday to Easter) · at every Swedish bakery from late January to Easter · with hot black coffee mid-afternoon (the fika ritual).
 
 ## Storage
 - Semlor are best within 2-3 hours of assembly.

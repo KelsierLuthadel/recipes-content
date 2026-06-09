@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, native to the eastern Netherlands: the Achterhoek of Gelderland and Twente of Overijssel, where apple orchards and potato fields share the same agricultural calendar. The apple pairing is the whole point and the source of the lightning name; a mix of sour cooking apples (Bramley or Granny Smith) and sweet eating apples (Royal Gala, Pink Lady) gives the contrast that defines the dish, where pure sour gives a flat-sour dish and pure sweet gives a one-note one. The apple texture is the canonical detail home cooks miss; apples should be soft but still hold some shape, not jammy, and that means adding them later than the potatoes in the same pot so they don't overcook. Crisp bacon lardons folded into the finished mash with their rendered fat are the third essential element; the smoky bacon-fat is what marries apple sweetness to potato and gives the savoury anchor. Served alongside rookworst, grilled pork chops or a thick slice of black pudding.
+Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, native to the eastern Netherlands: the Achterhoek of Gelderland and Twente of Overijssel, where apple orchards and potato fields share the same agricultural calendar. The apple pairing is the whole point and the source of the lightning name; a mix of sour cooking apples (Bramley or Granny Smith) and sweet eating apples (Royal Gala, Pink Lady) gives the contrast that defines the dish, where pure sour gives a flat-sour dish and pure sweet gives a one-note one. The apple texture is the traditional detail home cooks miss; apples should be soft but still hold some shape, not jammy, and that means adding them later than the potatoes in the same pot so they don't overcook. Crisp bacon lardons folded into the finished mash with their rendered fat are the third essential element; the smoky bacon-fat is what marries apple sweetness to potato and gives the savoury anchor. Served alongside rookworst, grilled pork chops or a thick slice of black pudding.
 
 ## Ingredients
 
@@ -82,12 +82,12 @@ Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, nati
 - **Sour AND sweet apples:** the contrast is the whole point. Pure sour gives a sour dish; pure sweet gives a flat one.
 - **Don't over-cook the apples:** some texture should remain. If the apples are completely puréed into the potato, you've lost the textural character.
 - **Crisp bacon at the end:** the rendered fat goes in early; the crisp lardons go in at the very end so they stay crisp.
-- **Smooth purée is wrong:** the canonical hete bliksem has visible chunks. A potato masher or fork; never a ricer.
+- **Smooth purée is wrong:** the traditional hete bliksem has visible chunks. A potato masher or fork; never a ricer.
 - **Adjust to your apples:** apple varieties differ wildly in sweetness and acidity. Taste, adjust.
 - **Rural roots:** this is country home cooking from the eastern Netherlands. Modern Amsterdam restaurants do refined versions; the rural version is hearty and unfussy.
 
 ## Variations
-**Hete bliksem met rookworst:** the canonical pairing - a whole smoked Gelderse rookworst sausage on top.
+**Hete bliksem met rookworst:** the traditional pairing - a whole smoked Gelderse rookworst sausage on top.
 **Hete bliksem met bloedworst:** with a thick slice of pan-fried black pudding alongside - the rural Twente variant.
 **Sweet hete bliksem (modern dessert variant):** skip the bacon and salt; add 50 g brown sugar to the apples; serve with vanilla ice cream as a Dutch take on apple crumble.
 **Hete bliksem with prunes:** add 50 g pitted prunes to the apple cook - the rural Achterhoek variant.
@@ -97,7 +97,7 @@ Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, nati
 **Quick weeknight hete bliksem:** use frozen mash (good quality) + sliced apples microwaved 4 minutes + crisp bacon - 15 minutes total.
 
 ## Serving
-At a Dutch farm-kitchen winter dinner (the canonical setting; eastern Netherlands, October to March) · at a Dutch family Sunday lunch · at a Twente or Achterhoek pub · at a Dutch Christmas Eve · at a rural Dutch harvest celebration · at home as a cold-weather side or a substantial main · paired with rookworst, black pudding, or a grilled pork chop.
+At a Dutch farm-kitchen winter dinner (the traditional setting; eastern Netherlands, October to March) · at a Dutch family Sunday lunch · at a Twente or Achterhoek pub · at a Dutch Christmas Eve · at a rural Dutch harvest celebration · at home as a cold-weather side or a substantial main · paired with rookworst, black pudding, or a grilled pork chop.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a small splash of milk and a touch of butter.

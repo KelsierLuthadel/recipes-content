@@ -11,7 +11,7 @@
 **Cook Time:** None (assembly only)
 
 ## Overview
-The café liégeois is the Belgian classic café dessert-drink: strong cold coffee poured over vanilla ice cream and crowned with whipped cream. It sits in the same family as the Italian affogato (which uses hot espresso poured at the table) but with the coffee chilled first so the ice cream doesn't melt too fast. The components matter: strong cold espresso (not weak filter coffee), two generous scoops of good vanilla bean ice cream per glass, and a soft mound of Chantilly cream: lightly sweetened, less sweet than American whipped cream (Belgian Chantilly is typically just cream and a tablespoon of icing sugar per 250 ml). A dusting of cocoa powder or chocolate shavings finishes it. Eaten with a long iced-tea spoon and sipped with a straw between bites. The historical detail: the drink was called "café viennois" until 1914, when the German invasion of Belgium and particularly the bombardment of Liège made anything Viennese unpopular, and Belgian menus renamed it to honour the city's resistance.
+The café liégeois is the Belgian classic café dessert-drink: strong cold coffee poured over vanilla ice cream and crowned with whipped cream. It sits in the same family as the Italian affogato (which uses hot espresso poured at the table) but with the coffee chilled first so the ice cream doesn't melt too fast. The components matter: strong cold espresso (not weak filter coffee), two generous scoops of good vanilla bean ice cream per glass, and a soft mound of Chantilly cream: lightly sweetened, less sweet than American whipped cream (Belgian Chantilly is typically just cream and a tablespoon of icing sugar per 250 ml). A dusting of cocoa powder or chocolate shavings finishes it. Eat with a long iced-tea spoon and sipped with a straw between bites. The historical detail: the drink was called "café viennois" until 1914, when the German invasion of Belgium and particularly the bombardment of Liège made anything Viennese unpopular, and Belgian menus renamed it to honour the city's resistance.
 
 ## Ingredients
 
@@ -64,7 +64,7 @@ The café liégeois is the Belgian classic café dessert-drink: strong cold coff
 ### Stage 5 - Serve immediately
 1. Serve with a long iced-tea spoon planted in the cream.
 2. Add a short paper straw at the back of the glass (the straw is for the coffee at the bottom).
-3. Place a speculoos biscuit on the saucer (optional but canonical).
+3. Place a speculoos biscuit on the saucer (optional but traditional).
 
 ### Stage 6 - The eating ritual
 1. The diner spoons the Chantilly and ice cream from the top.
@@ -78,7 +78,7 @@ The café liégeois is the Belgian classic café dessert-drink: strong cold coff
 - **Chantilly to soft peaks only:** stiff Chantilly sits like a brick on top; soft Chantilly slumps gently into the coffee and becomes part of the drink as you eat.
 - **Don't over-sweeten:** Belgian café liégeois isn't an American milkshake. The vanilla ice cream provides the sweetness; the Chantilly has a touch of icing sugar; the coffee provides the bitter counterpoint. That balance is what defines it.
 - **Glass shape matters:** a wide-rimmed dessert glass channels the aromas; a tall narrow flute (or worse, a coffee cup) makes the proportions look wrong.
-- **Speculoos on the saucer:** the canonical pairing. A small piece of Belgian dark chocolate also works.
+- **Speculoos on the saucer:** the traditional pairing. A small piece of Belgian dark chocolate also works.
 
 ## Variations
 **Café liégeois au chocolat:** swap one of the two vanilla ice cream scoops for a scoop of good chocolate ice cream - richer, more dessert-like.
@@ -91,7 +91,7 @@ The café liégeois is the Belgian classic café dessert-drink: strong cold coff
 **Dairy-free version:** swap the dairy ice cream for a coconut-milk or oat-milk vanilla ice cream; the cream for whipped coconut cream.
 
 ## Serving
-At a Liège tea-room or a Brussels café (the canonical setting) · at a Belgian summer terrace on a warm afternoon · as a Belgian dessert course after a heavy lunch · in the second half of a long Belgian Sunday brunch · at home as a treat-yourself drink-dessert · paired with a small speculoos or a hand-made Belgian praline.
+At a Liège tea-room or a Brussels café (the traditional setting) · at a Belgian summer terrace on a warm afternoon · as a Belgian dessert course after a heavy lunch · in the second half of a long Belgian Sunday brunch · at home as a treat-yourself drink-dessert · paired with a small speculoos or a hand-made Belgian praline.
 
 ## Storage
 - Doesn't store - assemble and eat. The ice cream and Chantilly start melting from minute one.

@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Hutspot is the historical heart of Dutch stamppot tradition: a coarse mash of floury potatoes, slow-sweated carrots and onions, finished with butter and milk, topped with meat. The Siege of Leiden story (the city was besieged by the Spanish in 1574, the relief arrived on 3 October and the starving Dutch defenders ate an abandoned Spanish stew of carrot, onion and parsnip) is half-folklore, half-history; the dish has been a Dutch identity-marker ever since. Every 3 October Leiden celebrates the Relief with hutspot, free herring and white bread distributed in the central square. Three Dutch-specific moves. The carrots and onions chop fine and sweat long and slow in butter, twenty to twenty-five minutes till meltingly soft and sweetly caramelised. Floury Bintje potatoes boil separately and join for the final crush. The canonical historical topping is klapstuk, a piece of brisket slow-braised for two hours; the modern weeknight topping is a thick smoked rookworst. Coarse crush, never a purée, finished with butter, warm milk and a generous pinch of nutmeg.
+Hutspot is the historical heart of Dutch stamppot tradition: a coarse mash of floury potatoes, slow-sweated carrots and onions, finished with butter and milk, topped with meat. The Siege of Leiden story (the city was besieged by the Spanish in 1574, the relief arrived on 3 October and the starving Dutch defenders ate an abandoned Spanish stew of carrot, onion and parsnip) is half-folklore, half-history; the dish has been a Dutch identity-marker ever since. Every 3 October Leiden celebrates the Relief with hutspot, free herring and white bread distributed in the central square. Three Dutch-specific moves. The carrots and onions chop fine and sweat long and slow in butter, twenty to twenty-five minutes till meltingly soft and sweetly caramelised. Floury Bintje potatoes boil separately and join for the final crush. The traditional historical topping is klapstuk, a piece of brisket slow-braised for two hours; the modern weeknight topping is a thick smoked rookworst. Coarse crush, never a purée, finished with butter, warm milk and a generous pinch of nutmeg.
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ Hutspot is the historical heart of Dutch stamppot tradition: a coarse mash of fl
 ### Optional accompaniments
 - A small dish of strong Dutch mustard (mosterd)
 - A bowl of pickled silverskin onions
-- A glass of cold Dutch lager (Heineken, Amstel) OR cold buttermilk (the canonical historical drink)
+- A glass of cold Dutch lager (Heineken, Amstel) OR cold buttermilk (the traditional historical drink)
 
 ## Method
 
@@ -97,8 +97,8 @@ Hutspot is the historical heart of Dutch stamppot tradition: a coarse mash of fl
 ## Notes
 - **Sweat the carrots and onions long:** 20-25 minutes. This is where the sweetness comes from. Rushing this step gives bitter, hard bits in the mash.
 - **Small dice for the carrots:** 5 mm. Bigger pieces stay fibrous and crunchy in the crush.
-- **Floury potatoes:** Bintje is canonical. Maris Piper, King Edward, and Russet substitute well. Avoid waxy varieties.
-- **Coarse crush, not purée:** the visible chunks are the canonical texture. A smooth purée is what you'd order at a French restaurant.
+- **Floury potatoes:** Bintje is traditional. Maris Piper, King Edward, and Russet substitute well. Avoid waxy varieties.
+- **Coarse crush, not purée:** the visible chunks are the traditional texture. A smooth purée is what you'd order at a French restaurant.
 - **Klapstuk vs rookworst:** the historical version uses slow-braised beef brisket; the modern version uses smoked sausage. Both are valid; the klapstuk version is what's served at the 3 October Leiden Relief celebration.
 
 ## Variations
@@ -112,7 +112,7 @@ Hutspot is the historical heart of Dutch stamppot tradition: a coarse mash of fl
 **Slow-cooker hutspot:** brisket in the slow cooker on low for 8 hours; mash and assemble at the end - the make-ahead variant.
 
 ## Serving
-At a Dutch household winter dinner (the canonical setting; October to March) · at the 3 October Leiden Relief celebration (free hutspot, herring and white bread distributed in the central square) · at a Dutch family Sunday lunch · at a Dutch Christmas Eve meal · at a Drenthe or Groningen farmhouse kitchen · at home as the cold-weather Sunday restorative · paired with a glass of cold buttermilk (the canonical historical drink) or a cold Dutch lager.
+At a Dutch household winter dinner (the traditional setting; October to March) · at the 3 October Leiden Relief celebration (free hutspot, herring and white bread distributed in the central square) · at a Dutch family Sunday lunch · at a Dutch Christmas Eve meal · at a Drenthe or Groningen farmhouse kitchen · at home as the cold-weather Sunday restorative · paired with a glass of cold buttermilk (the traditional historical drink) or a cold Dutch lager.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a splash of milk.

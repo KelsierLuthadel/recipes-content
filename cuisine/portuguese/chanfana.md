@@ -37,7 +37,7 @@ Chanfana is the signature dish of Portugal's Beira Alta region (central Portugal
 - 1 tablespoon paprika (additional)
 - 200 ml red wine (additional, for cooking)
 - 1 teaspoon fine sea salt
-- 100 g lard (or olive oil; for the canonical richness)
+- 100 g lard (or olive oil; for the traditional richness)
 
 ### To finish
 - 1 small bunch fresh parsley (chopped)
@@ -89,7 +89,7 @@ Chanfana is the signature dish of Portugal's Beira Alta region (central Portugal
 - **Reduce the sauce:** for proper glossy finish.
 
 ## Variations
-**Goat chanfana (canonical):** the original dish was older goat (cabra velha); modern lamb is the substitute.
+**Goat chanfana (traditional):** the original dish was older goat (cabra velha); modern lamb is the substitute.
 **With chestnuts:** add 200 g peeled chestnuts in the last hour; gives autumn richness.
 **With dried fruits:** add prunes and apricots in the last hour; gives a sweet-savoury twist.
 **Pressure-cooker version:** 90 minutes high pressure; finish under the grill briefly.

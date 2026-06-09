@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-The vegetarian sister to the great beef-stocked borscht: a deep ruby-red soup of grated beetroot, cabbage, carrots and potatoes that gives nothing away on colour or depth, finished with the same sour-cream-and-dill swirl that defines the dish. The whole thing hinges on the finish: cider vinegar and a teaspoon of sugar (without acid the soup tastes flat and sweet, with it the colour stays brilliant and the flavour balances sour, sweet and earthy). Taste and adjust till all three notes show with the beetroot earthiness behind. Ladled into bowls, each topped with a generous spoonful of soured cream and a heavy shower of fresh dill, the cream stirred into the dark broth at the table for the pink-and-white swirl that's part of the dish. Eaten with dark rye and a glass of something cold; the soup deepens overnight and keeps five days in the fridge.
+The vegetarian sister to the great beef-stocked borscht: a deep ruby-red soup of grated beetroot, cabbage, carrots and potatoes that gives nothing away on colour or depth, finished with the same sour-cream-and-dill swirl that defines the dish. The whole thing hinges on the finish: cider vinegar and a teaspoon of sugar (without acid the soup tastes flat and sweet, with it the colour stays brilliant and the flavour balances sour, sweet and earthy). Taste and adjust till all three notes show with the beetroot earthiness behind. Ladled into bowls, each topped with a generous spoonful of soured cream and a heavy shower of fresh dill, the cream stirred into the dark broth at the table for the pink-and-white swirl that's part of the dish. Eat with dark rye and a glass of something cold; the soup deepens overnight and keeps five days in the fridge.
 
 ## Ingredients
 

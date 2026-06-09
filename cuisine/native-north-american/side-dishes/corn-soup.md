@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-The Haudenosaunee (Iroquois) ceremonial soup: a slow-simmered stew of nixtamalised white corn with kidney beans and pork hocks (traditionally venison neck or smoked turkey for those who don't eat pork). Thick, milky-white, the kind of pot that anchors a community gathering. Nixtamalised corn is essential. It's dried field corn treated with wood ash or lime to make hominy; sweetcorn is a totally different ingredient and won't work. The broth wants long, gentle, careful skimming in the first minutes so it ends up clean and pale; the hominy goes in once the meat starts falling off the bone and simmers till the kernels are yielding but not mushy. Kidney beans go in last to keep their shape. Eaten plain in the traditional way, with frybread on the side optional.
+The Haudenosaunee (Iroquois) ceremonial soup: a slow-simmered stew of nixtamalised white corn with kidney beans and pork hocks (traditionally venison neck or smoked turkey for those who don't eat pork). Thick, milky-white, the kind of pot that anchors a community gathering. Nixtamalised corn is essential. It's dried field corn treated with wood ash or lime to make hominy; sweetcorn is a totally different ingredient and won't work. The broth wants long, gentle, careful skimming in the first minutes so it ends up clean and pale; the hominy goes in once the meat starts falling off the bone and simmers till the kernels are yielding but not mushy. Kidney beans go in last to keep their shape. Eat plain in the traditional way, with frybread on the side optional.
 
 ## Ingredients
 

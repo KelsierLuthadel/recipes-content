@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Southwest grilled trout celebrates the rainbow trout that swims in the high-altitude streams of the Rocky Mountain Southwest (Colorado, northern New Mexico, Arizona's high country): whole rainbow trout (the canonical regional fish; substitute with any whole trout, sea bass, or red snapper) rubbed inside and out with a Southwest spice blend (cumin, paprika, chili powder, dried Mexican oregano, garlic powder, lime zest, salt, pepper), stuffed with lemon slices, crushed garlic and fresh herbs (parsley, thyme, sage), then grilled over hot charcoal (or pan-grilled) for 5-6 minutes per side till the skin crisps and the flesh inside flakes easily. Served with a wedge of lemon and a sprinkle of fresh coriander.
+Southwest grilled trout celebrates the rainbow trout that swims in the high-altitude streams of the Rocky Mountain Southwest (Colorado, northern New Mexico, Arizona's high country): whole rainbow trout (the traditional regional fish; substitute with any whole trout, sea bass, or red snapper) rubbed inside and out with a Southwest spice blend (cumin, paprika, chili powder, dried Mexican oregano, garlic powder, lime zest, salt, pepper), stuffed with lemon slices, crushed garlic and fresh herbs (parsley, thyme, sage), then grilled over hot charcoal (or pan-grilled) for 5-6 minutes per side till the skin crisps and the flesh inside flakes easily. Served with a wedge of lemon and a sprinkle of fresh coriander.
 
 ## Ingredients
 

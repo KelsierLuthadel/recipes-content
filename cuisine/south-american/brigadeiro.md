@@ -2,7 +2,7 @@
 
 ![Brigadeiro](resources/brigadeiro.jpg)
 
-*Brazil's iconic chocolate truffle: condensed milk and cocoa cooked together until thick and glossy, cooled, rolled into balls, then dropped in chocolate sprinkles. Eaten at every Brazilian children's birthday party - and every adult party too. Soft, fudgy, slightly chewy at the edges.*
+*Brazil's iconic chocolate truffle: condensed milk and cocoa cooked together until thick and glossy, cooled, rolled into balls, then dropped in chocolate sprinkles. Eat at every Brazilian children's birthday party - and every adult party too. Soft, fudgy, slightly chewy at the edges.*
 
 **Makes:** 24 brigadeiros
 

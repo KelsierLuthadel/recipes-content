@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-frites.md) in three small but identity-defining ways. The cut is sometimes slightly thicker (1.5 cm batons are common), giving a meatier interior than the slimmer Belgian standard. The sauce is the canonical Dutch distinction; where Belgian frites are paired with full-egg mayonnaise, Dutch frites get fritessaus, a Dutch-specific eggless near-mayo that's slightly sweeter, with a faint vinegar tang. Calvé Fritessaus is the canonical supermarket brand; the home version is a quick emulsion of sunflower oil, vinegar, sugar, mustard and lemon juice. The legendary Dutch combinations are the third distinction. "Patat oorlog" (chip war) is the iconic order: frites with fritessaus, a ladle of warm Indonesian-influenced peanut satay sauce and a scatter of finely chopped raw onion. "Patat speciaal" is fritessaus, curry ketchup and onion. "Patat pinda" is just frites and warm peanut sauce. The frites themselves follow the same twice-fried technique as their Belgian cousins (low blanch, rest, high crisp).
+Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-frites.md) in three small but identity-defining ways. The cut is sometimes slightly thicker (1.5 cm batons are common), giving a meatier interior than the slimmer Belgian standard. The sauce is the traditional Dutch distinction; where Belgian frites are paired with full-egg mayonnaise, Dutch frites get fritessaus, a Dutch-specific eggless near-mayo that's slightly sweeter, with a faint vinegar tang. Calvé Fritessaus is the traditional supermarket brand; the home version is a quick emulsion of sunflower oil, vinegar, sugar, mustard and lemon juice. The legendary Dutch combinations are the third distinction. "Patat oorlog" (chip war) is the iconic order: frites with fritessaus, a ladle of warm Indonesian-influenced peanut satay sauce and a scatter of finely chopped raw onion. "Patat speciaal" is fritessaus, curry ketchup and onion. "Patat pinda" is just frites and warm peanut sauce. The frites themselves follow the same twice-fried technique as their Belgian cousins (low blanch, rest, high crisp).
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 - 1 teaspoon lemon juice
 - 1 tablespoon water
 
-### The Dutch satay sauce (satésaus) - canonical Indonesian-Dutch peanut sauce
+### The Dutch satay sauce (satésaus) - traditional Indonesian-Dutch peanut sauce
 - 4 tablespoons crunchy peanut butter
 - 2 tablespoons sweet soy sauce (kecap manis - the Indonesian soy sauce; sold in Dutch supermarkets; substitute with regular soy + 1 tablespoon brown sugar)
 - 1 tablespoon lime juice
@@ -98,7 +98,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 5. Eat immediately with a small wooden fork. The combination of cold creamy sauce + warm peanut sauce + sharp raw onion + crisp hot frites is the Dutch chip-shop magic.
 
 ## Notes
-- **Fritessaus is its own thing:** not just mayo. The Dutch-specific eggless (or low-egg), slightly sweet, more vinegar-forward profile is what makes it Dutch. The Calvé Fritessaus brand is the canonical commercial version; homemade gets you close.
+- **Fritessaus is its own thing:** not just mayo. The Dutch-specific eggless (or low-egg), slightly sweet, more vinegar-forward profile is what makes it Dutch. The Calvé Fritessaus brand is the traditional commercial version; homemade gets you close.
 - **Patat oorlog:** the legendary Dutch combo. Translates as "chip war" but is more about the joyful messy excess. Don't be shy with the sauces.
 - **Frozen frites:** the Dutch home version often uses good frozen oven frites (Aviko is a Dutch brand) - acceptable, especially on weeknights. The chip-shop uses fresh.
 - **Sweet soy sauce (kecap manis):** the Indonesian-influenced ingredient. Sold in Dutch supermarkets; substitute with regular soy + 1 tablespoon brown sugar.
@@ -116,7 +116,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 **Healthier "patat" (oven frites):** the same fritessaus or satay sauce; over baked frites (220°C for 30 minutes, tossed halfway). Less crispy but a real Dutch home midweek dinner.
 
 ## Serving
-At a Dutch frituur or chip-shop (the canonical setting; sold from carts and counters across every Dutch town) · at a Dutch summer beach in the Hague or Scheveningen · at an Amsterdam late-night street stand · at a Dutch carnival or fair · at a Dutch football match · at home as a Friday-night family treat · paired with a cold Heineken or a glass of cold milk.
+At a Dutch frituur or chip-shop (the traditional setting; sold from carts and counters across every Dutch town) · at a Dutch summer beach in the Hague or Scheveningen · at an Amsterdam late-night street stand · at a Dutch carnival or fair · at a Dutch football match · at home as a Friday-night family treat · paired with a cold Heineken or a glass of cold milk.
 
 ## Storage
 - Frites are at their peak for 30 minutes after frying. After that the texture suffers irreversibly.

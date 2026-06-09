@@ -2,7 +2,7 @@
 
 ![Tortilla Soup](resources/tortilla-soup.jpg)
 
-*The Southwest's chicken-tomato soup: a deeply spiced chicken broth with shredded chicken, tomato, garlic, cumin, chili and lime, finished at the table with fried tortilla strips, sliced avocado, grated cheese and sour cream. The Sonoran-Arizona-New Mexico canonical bowl.*
+*The Southwest's chicken-tomato soup: a deeply spiced chicken broth with shredded chicken, tomato, garlic, cumin, chili and lime, finished at the table with fried tortilla strips, sliced avocado, grated cheese and sour cream. The Sonoran-Arizona-New Mexico traditional bowl.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima (the Mexican lime chicken soup): a richly spiced chicken broth with shredded chicken, blended tomatoes, onion, garlic, chipotle in adobo, cumin, chili powder, and Mexican oregano - finished at the table with crispy fried tortilla strips, sliced avocado, grated cheese, sour cream, fresh coriander and lime wedges. The dish is the canonical Southwestern restaurant soup and a comfort-food classic across Arizona, New Mexico and Texas.
+Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima (the Mexican lime chicken soup): a richly spiced chicken broth with shredded chicken, blended tomatoes, onion, garlic, chipotle in adobo, cumin, chili powder, and Mexican oregano - finished at the table with crispy fried tortilla strips, sliced avocado, grated cheese, sour cream, fresh coriander and lime wedges. The dish is the traditional Southwestern restaurant soup and a comfort-food classic across Arizona, New Mexico and Texas.
 
 ## Ingredients
 
@@ -100,7 +100,7 @@ Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima 
 **With corn:** add fresh corn kernels.
 
 ## Serving
-In deep bowls with all the canonical garnishes. Mexican beer.
+In deep bowls with all the traditional garnishes. Mexican beer.
 
 ## Storage
 - Soup base keeps refrigerated 5 days; flavour deepens.

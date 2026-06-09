@@ -2,7 +2,7 @@
 
 ![Jalapeno Cheese Grits](resources/jalapeno-cheese-grits.jpg)
 
-*Texas's spicy creamy corn grits: coarse-ground stone-milled grits simmered slowly in milk and chicken stock till creamy, finished with butter, cream cheese, sharp cheddar, Monterey Jack and chopped fresh jalapeños. The Texan breakfast side, the canonical bowl that arrives alongside chicken-fried steak, fried eggs, or BBQ.*
+*Texas's spicy creamy corn grits: coarse-ground stone-milled grits simmered slowly in milk and chicken stock till creamy, finished with butter, cream cheese, sharp cheddar, Monterey Jack and chopped fresh jalapeños. The Texan breakfast side, the traditional bowl that arrives alongside chicken-fried steak, fried eggs, or BBQ.*
 
 **Serves:** 6
 
@@ -75,14 +75,14 @@ Jalapeño cheese grits is one of Texas's most beloved side dishes and a Texan-So
 3. Add bacon crumbles and/or shrimp if using.
 
 ## Notes
-- **Stone-milled grits canonical:** instant doesn't work.
+- **Stone-milled grits traditional:** instant doesn't work.
 - **Slow-cook properly:** 30-40 minutes.
 - **Cheese trio essential:** cream cheese + cheddar + Monterey Jack.
 - **Stir frequently:** prevents sticking.
 - **Eat immediately:** grits firm up quickly.
 
 ## Variations
-**Shrimp and grits:** top with sautéed shrimp in butter-garlic-lemon sauce; the canonical Southern combination.
+**Shrimp and grits:** top with sautéed shrimp in butter-garlic-lemon sauce; the traditional Southern combination.
 **Smoked gouda:** swap Monterey Jack for smoked gouda; gives a smokier richer version.
 **With chorizo:** add 200 g of cooked crumbled chorizo; gives spice depth.
 **With sun-dried tomato:** add 50 g of chopped sun-dried tomato; Texan-Italian touch.

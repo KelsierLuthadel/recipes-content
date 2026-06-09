@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (plus 30 minutes setting)
 
 ## Overview
-A short-cook caramel: butter, brown sugar, cream and a splash of vanilla, brought to soft-ball stage and dropped to a temperature where it coats and clings. Sticks pushed into the stem ends of cold, dry apples. Each apple gripped by the stick and lowered into the caramel, swirled to coat, lifted clear, and set on a buttered tray. The toppings, if you want them (chopped peanuts, sprinkles, crushed pretzels), go on while the caramel is still tacky.
+Caramel apples are an American autumn tradition, the sticky-sweet fairground treat sold from county-fair stalls all through October and piled in cellophane wrappers on every supermarket counter in the run-up to Halloween. You build a short-cook caramel from butter, brown sugar, cream and vanilla, bringing it to soft-ball stage so it coats and clings rather than running off, then dunk cold dry apples one by one on their sticks and swirl them to coat. The apples must be properly cold and dry before they meet the caramel; any warmth or moisture and the coating slides straight off into a puddle on the tray. The toppings go on while the caramel is still tacky, so chopped peanuts, sprinkles or crushed pretzels stick where they land. Set on a buttered tray to firm up, then eaten standing up at the fairground or wrapped in cellophane for the trick-or-treat bowl.
 
 ## Ingredients
 

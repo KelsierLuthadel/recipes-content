@@ -2,7 +2,7 @@
 
 ![Bajan Coconut Bread](resources/coconut-bread.jpg)
 
-*Barbados's most-loved tea-loaf: a moist sweet bread of grated fresh coconut, brown sugar, butter, eggs and fresh thyme (the canonical Bajan addition), baked till deep golden.*
+*Barbados's most-loved tea-loaf: a moist sweet bread of grated fresh coconut, brown sugar, butter, eggs and fresh thyme (the traditional Bajan addition), baked till deep golden.*
 
 **Serves:** 1 large loaf, 12 slices
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. Despite the name, it's closer to a banana bread or a quick-loaf cake than a yeasted bread, dense and sweet with a deeply coconut-fragrant crumb. Fresh grated coconut is canonical: Bajan home cooks crack a fresh coconut and grate the flesh on a box grater, and desiccated unsweetened coconut works as a substitute but is less juicy and fragrant. The Bajan signatures are what mark it apart from generic Jamaican or Trinidadian coconut breads: fresh thyme leaves (a tablespoon, picked from the stem), a grating of lime zest, and a teaspoon of mixed spice. Baked in a loaf tin at 170 °C till deep golden, with foil over the top for the last twenty minutes if browning too fast. Sliced thick, spread with butter, eaten with strong Bajan tea or a cold glass of mauby.
+Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. Despite the name, it's closer to a banana bread or a quick-loaf cake than a yeasted bread, dense and sweet with a deeply coconut-fragrant crumb. Fresh grated coconut is traditional: Bajan home cooks crack a fresh coconut and grate the flesh on a box grater, and desiccated unsweetened coconut works as a substitute but is less juicy and fragrant. The Bajan signatures are what mark it apart from generic Jamaican or Trinidadian coconut breads: fresh thyme leaves (a tablespoon, picked from the stem), a grating of lime zest, and a teaspoon of mixed spice. Baked in a loaf tin at 170 °C till deep golden, with foil over the top for the last twenty minutes if browning too fast. Sliced thick, spread with butter, eaten with strong Bajan tea or a cold glass of mauby.
 
 ## Ingredients
 
@@ -37,7 +37,7 @@ Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. D
 ### The coconut and herbs
 - 300 g fresh grated coconut (or 200 g unsweetened desiccated coconut + 50 ml extra coconut milk)
 - 2 tablespoons fresh thyme leaves (picked from stems)
-- 100 g raisins (optional but canonical)
+- 100 g raisins (optional but traditional)
 - 50 g chopped dried cherries or dried cranberries (optional)
 
 ### For the topping
@@ -109,7 +109,7 @@ Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. D
 **Coconut-spice loaf (festive Christmas variant):** double the spices; add 100 g chopped dates - the Bajan Christmas variant.
 
 ## Serving
-At a Bajan Sunday tea (the canonical setting) · at a Bajan church social · at a Bajan Christmas tea-table · at a Bajan Independence Day reception · at a Caribbean tea-room · at home as a make-ahead Sunday-tea bake · paired with strong Bajan tea, mauby, cocoa-tea, or vanilla ice cream.
+At a Bajan Sunday tea (the traditional setting) · at a Bajan church social · at a Bajan Christmas tea-table · at a Bajan Independence Day reception · at a Caribbean tea-room · at home as a make-ahead Sunday-tea bake · paired with strong Bajan tea, mauby, cocoa-tea, or vanilla ice cream.
 
 ## Storage
 - Stores 5 days at room temperature wrapped tight (or in a tin with a tight lid).

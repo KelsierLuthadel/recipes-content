@@ -2,7 +2,7 @@
 
 ![Argentine Chorizo Hot Dog](resources/argentine-chimichurri-dog.jpg)
 
-*Argentina's grilled chorizo sandwich-dog: a butterflied Argentine chorizo grilled hard over coals, tucked into a soft baguette-style roll, smothered in bright green chimichurri sauce, with a scatter of chopped pickled red onion and tomato. The Buenos Aires choripán raised to hot-dog status; the canonical Argentine grill-side snack.*
+*Argentina's grilled chorizo sandwich-dog: a butterflied Argentine chorizo grilled hard over coals, tucked into a soft baguette-style roll, smothered in bright green chimichurri sauce, with a scatter of chopped pickled red onion and tomato. The Buenos Aires choripán raised to hot-dog status; the traditional Argentine grill-side snack.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich than hot dog in shape - but in Argentine asado culture, it's the canonical between-the-grilling snack and a national institution. The construction is structural sister to the hot dog: a length of Argentine chorizo (a coarse-ground pork-and-beef sausage seasoned with sweet paprika, garlic, salt and white wine; thicker and more rustic than a frankfurter) butterflied by being sliced lengthwise without cutting all the way through, then grilled hard over wood-coal embers till the cut faces caramelise deeply and the casing crisps. Placed inside a soft baguette-style French roll (often called a "rosa de pan" in Argentina; lightly toasted on the grill on its cut sides), smothered in a fistful of bright green chimichurri sauce (the Argentine herb-vinegar sauce of fresh parsley, oregano, garlic, red wine vinegar, olive oil, dried red chilli flakes and salt), and finished with chopped pickled red onion + tomato mix (called "salsa criolla" - the Argentine table relish).
+The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich than hot dog in shape - but in Argentine asado culture, it's the traditional between-the-grilling snack and a national institution. The construction is structural sister to the hot dog: a length of Argentine chorizo (a coarse-ground pork-and-beef sausage seasoned with sweet paprika, garlic, salt and white wine; thicker and more rustic than a frankfurter) butterflied by being sliced lengthwise without cutting all the way through, then grilled hard over wood-coal embers till the cut faces caramelise deeply and the casing crisps. Placed inside a soft baguette-style French roll (often called a "rosa de pan" in Argentina; lightly toasted on the grill on its cut sides), smothered in a fistful of bright green chimichurri sauce (the Argentine herb-vinegar sauce of fresh parsley, oregano, garlic, red wine vinegar, olive oil, dried red chilli flakes and salt), and finished with chopped pickled red onion + tomato mix (called "salsa criolla" - the Argentine table relish).
 
 ## Ingredients
 
@@ -51,7 +51,7 @@ The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich 
 ## Method
 
 ### Stage 1 - Make chimichurri
-1. Finely chop the parsley by hand (a blender turns it sludgy; the Argentine canonical is hand-chopped).
+1. Finely chop the parsley by hand (a blender turns it sludgy; the Argentine traditional is hand-chopped).
 2. Crush the garlic with the side of a knife, then chop finely.
 3. In a wide bowl, combine parsley, garlic, oregano, chilli flakes, vinegar, olive oil, salt, pepper, water.
 4. Stir; let stand 30 minutes for the flavours to meld.
@@ -91,7 +91,7 @@ The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich 
 - **Butterflied chorizo:** the structural signature. Whole chorizo doesn't get the caramelisation surface.
 - **Hand-chopped chimichurri:** blended is wrong (turns to sludge).
 - **Both inside AND on top with chimichurri:** generous on both surfaces.
-- **Salsa criolla:** the canonical Argentine table relish; don't skip.
+- **Salsa criolla:** the traditional Argentine table relish; don't skip.
 
 ## Variations
 **Bondiola-pan:** swap the chorizo for grilled pork shoulder (bondiola) slices.

@@ -2,7 +2,7 @@
 
 ![Königsberger Klopse](resources/konigsberger-klopse.jpg)
 
-*East Prussian elegance: pale meatballs of veal and pork (anchovy-bound for depth) gently poached in stock, then served in a creamy white béchamel-style sauce brightened with capers, lemon and a touch of white wine. The dish from Königsberg (now Kaliningrad) that emigrated to West Germany with the post-war refugees; the canonical white meatball-and-sauce dish; one of the most refined dishes in the German canon.*
+*East Prussian elegance: pale meatballs of veal and pork (anchovy-bound for depth) gently poached in stock, then served in a creamy white béchamel-style sauce brightened with capers, lemon and a touch of white wine. The dish from Königsberg (now Kaliningrad) that emigrated to West Germany with the post-war refugees; the traditional white meatball-and-sauce dish; one of the most refined dishes in the German canon.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Kaliningrad in Russia) is one of Germany's most refined classical dishes - a holdover from the cuisine of East Prussia, brought westward by the millions of German refugees who fled the region after World War Two. The construction has two distinct elements: pale meatballs made from finely minced veal and pork (with rusks/breadcrumbs as binder, an anchovy or two for deep umami without fishiness, finely chopped onion, parsley, an egg, and gentle seasoning), shaped into smooth balls and poached gently in a flavoured stock (not boiled - the meatballs would toughen); and a creamy white sauce (a classic béchamel enriched with the poaching stock, lifted with capers and lemon juice, and finished with cream and egg yolk). The dish is served with white rice or boiled potatoes. The pale colour palette is canonical: white sauce, white meatballs, white rice, all in a deep white bowl.
+Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Kaliningrad in Russia) is one of Germany's most refined classical dishes - a holdover from the cuisine of East Prussia, brought westward by the millions of German refugees who fled the region after World War Two. The construction has two distinct elements: pale meatballs made from finely minced veal and pork (with rusks/breadcrumbs as binder, an anchovy or two for deep umami without fishiness, finely chopped onion, parsley, an egg, and gentle seasoning), shaped into smooth balls and poached gently in a flavoured stock (not boiled - the meatballs would toughen); and a creamy white sauce (a classic béchamel enriched with the poaching stock, lifted with capers and lemon juice, and finished with cream and egg yolk). The dish is served with white rice or boiled potatoes. The pale colour palette is traditional: white sauce, white meatballs, white rice, all in a deep white bowl.
 
 ## Ingredients
 
@@ -57,7 +57,7 @@ Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Ka
 - 400 g cooked white rice OR 800 g boiled new potatoes
 - A small bowl of extra capers (for those who want more)
 - Lemon wedges
-- A green salad alongside (modern; not canonical)
+- A green salad alongside (modern; not traditional)
 - A glass of dry German Riesling
 
 ## Method
@@ -124,7 +124,7 @@ Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Ka
 - **Gentle poaching, never boiling:** boiling toughens the meatballs. 80°C is the target.
 - **Don't boil the sauce after adding egg yolks:** the yolks scramble. Heat gently after enriching.
 - **Capers are non-negotiable:** they give the dish its character. Use capers in brine (or salt-packed, well rinsed).
-- **The white-on-white look is canonical:** don't garnish with paprika or anything coloured. Pale meatballs in pale sauce in white bowls.
+- **The white-on-white look is traditional:** don't garnish with paprika or anything coloured. Pale meatballs in pale sauce in white bowls.
 
 ## Variations
 **Spreewald Klopse:** the Saxon-region variant uses dill pickles in the sauce instead of capers - more vinegary.
@@ -135,7 +135,7 @@ Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Ka
 **With dill and lemon (Northern German):** add 2 tablespoons fresh dill to the sauce - coastal variant.
 
 ## Serving
-At a German Hausfrau Sunday lunch (the canonical setting) · at a Berlin restaurant specialising in classic German cuisine · at a Königsberg-refugee family dinner (the dish that crossed Germany) · at a German-themed dinner abroad as a sophisticated showpiece · at a German Christmas Eve dinner · at home as a Sunday family meal · alongside a glass of dry Riesling.
+At a German Hausfrau Sunday lunch (the traditional setting) · at a Berlin restaurant specialising in classic German cuisine · at a Königsberg-refugee family dinner (the dish that crossed Germany) · at a German-themed dinner abroad as a sophisticated showpiece · at a German Christmas Eve dinner · at home as a Sunday family meal · alongside a glass of dry Riesling.
 
 ## Storage
 - Meatballs + sauce refrigerate 3 days; reheat gently in a saucepan (don't boil - the egg-yolk-enriched sauce splits if reboiled).

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rumbling" the potatoes and "thumping" the cabbage together) is the Borders-Scotland traditional side that uses up boiled potatoes, sweated cabbage and onion, and a generous topping of mature Cheddar. Closely related to Irish colcannon, Northumbrian bubble and squeak and English rumbledy thump, all variations on the same potato-cabbage theme, but the Scottish version distinguishes itself by being baked rather than pan-fried, with a thick cheese topping giving a golden crust over the soft potato mass. Mashed potato folded with sweated cabbage (savoy or white) and softened onion, enriched with butter, seasoned with salt and white pepper. Piled into a baking dish, topped with grated mature Cheddar, baked till the top is deeply golden and the edges crisp. Served alongside roast lamb, roast beef, sausages, or as the canonical Sunday-roast leftover side.
+Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rumbling" the potatoes and "thumping" the cabbage together) is the Borders-Scotland traditional side that uses up boiled potatoes, sweated cabbage and onion, and a generous topping of mature Cheddar. Closely related to Irish colcannon, Northumbrian bubble and squeak and English rumbledy thump, all variations on the same potato-cabbage theme, but the Scottish version distinguishes itself by being baked rather than pan-fried, with a thick cheese topping giving a golden crust over the soft potato mass. Mashed potato folded with sweated cabbage (savoy or white) and softened onion, enriched with butter, seasoned with salt and white pepper. Piled into a baking dish, topped with grated mature Cheddar, baked till the top is deeply golden and the edges crisp. Served alongside roast lamb, roast beef, sausages, or as the traditional Sunday-roast leftover side.
 
 ## Ingredients
 
@@ -72,10 +72,10 @@ Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rum
 2. Serve hot, spooned generously onto warm plates alongside the main.
 
 ## Notes
-- **Savoy cabbage:** the canonical Scottish choice. White cabbage works too. Don't use red cabbage (wrong colour) or kale (too tough).
+- **Savoy cabbage:** the traditional Scottish choice. White cabbage works too. Don't use red cabbage (wrong colour) or kale (too tough).
 - **Mature Cheddar:** mild cheddar disappears. Use mature, sharp, ideally Scottish.
 - **Bake, don't fry:** the bake gives the cheese crust that defines rumbledethumps. Pan-frying makes it bubble-and-squeak, a different dish.
-- **Use leftover potatoes:** rumbledethumps is canonically made with leftover boiled or mashed potatoes from yesterday's lunch. Don't worry about overcooking the spuds the day before.
+- **Use leftover potatoes:** rumbledethumps is traditionally made with leftover boiled or mashed potatoes from yesterday's lunch. Don't worry about overcooking the spuds the day before.
 - **Add a pinch of nutmeg:** a Scottish granny trick - a pinch of nutmeg in the potato cabbage mix.
 
 ## Variations
@@ -87,7 +87,7 @@ Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rum
 **Indian-influenced:** add a teaspoon of curry powder + ½ teaspoon turmeric to the cabbage during cooking - modern Anglo-Indian Scottish.
 
 ## Serving
-Alongside a Scottish Sunday roast lamb or beef (the canonical pairing) · with grilled or pan-fried Lorne sausage and a fried egg as a brunch · with cooked smoked sausage as a weeknight family supper · alongside roast game (pheasant, venison) · at a Burns Night supper as an extra side.
+Alongside a Scottish Sunday roast lamb or beef (the traditional pairing) · with grilled or pan-fried Lorne sausage and a fried egg as a brunch · with cooked smoked sausage as a weeknight family supper · alongside roast game (pheasant, venison) · at a Burns Night supper as an extra side.
 
 ## Storage
 - Refrigerates 3 days; reheats brilliantly in a hot oven (180°C for 15-20 minutes) or in the microwave (with a tiny splash of milk to loosen).

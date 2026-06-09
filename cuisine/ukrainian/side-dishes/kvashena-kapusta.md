@@ -2,7 +2,7 @@
 
 ![Kvashena Kapusta](resources/kvashena-kapusta.jpg)
 
-*Ukraine's sauerkraut: white cabbage and grated carrot salted in a wooden tub and left to ferment for two weeks till the cabbage turns tangy, properly sour and faintly fizzy. Eaten cold with a drizzle of oil and fresh dill alongside any meat, or warmed into bigos and cabbage stews through winter.*
+*Ukraine's sauerkraut: white cabbage and grated carrot salted in a wooden tub and left to ferment for two weeks till the cabbage turns tangy, properly sour and faintly fizzy. Eat cold with a drizzle of oil and fresh dill alongside any meat, or warmed into bigos and cabbage stews through winter.*
 
 **Serves:** Makes 1 large jar (about 1.5 kg of fermented cabbage)
 

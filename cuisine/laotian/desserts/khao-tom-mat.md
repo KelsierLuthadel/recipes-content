@@ -11,7 +11,7 @@
 **Cook Time:** 90 minutes
 
 ## Overview
-Khao tom mat is one of Laos's most ceremonially important sweets, traditionally made for Buddhist temple offerings, weddings and Lao New Year (Pi Mai). The construction comes in three layers. The rice base is sticky rice briefly cooked in coconut milk with palm sugar and a pinch of salt, slightly under-cooked at this stage since it finishes inside the wrapped parcel during steaming. A piece of ripe Thai banana sits at the centre of each portion of rice; some Lao versions add a few black beans or a small piece of jackfruit alongside. The wrap is a softened banana-leaf square folded into a flat 8 × 8 cm envelope and tied crossways with banana-leaf fibre or kitchen twine. Ninety minutes of steaming turns the banana inside almost jammy and the rice absorbs both the coconut and the banana flavour. The leaf itself imparts a faint green-floral aroma that's part of the canonical character. Eaten cool, peeled out of the leaf with a drizzle of palm sugar syrup.
+Khao tom mat is one of Laos's most ceremonially important sweets, traditionally made for Buddhist temple offerings, weddings and Lao New Year (Pi Mai). The construction comes in three layers. The rice base is sticky rice briefly cooked in coconut milk with palm sugar and a pinch of salt, slightly under-cooked at this stage since it finishes inside the wrapped parcel during steaming. A piece of ripe Thai banana sits at the centre of each portion of rice; some Lao versions add a few black beans or a small piece of jackfruit alongside. The wrap is a softened banana-leaf square folded into a flat 8 × 8 cm envelope and tied crossways with banana-leaf fibre or kitchen twine. Ninety minutes of steaming turns the banana inside almost jammy and the rice absorbs both the coconut and the banana flavour. The leaf itself imparts a faint green-floral aroma that's part of the traditional character. Eat cool, peeled out of the leaf with a drizzle of palm sugar syrup.
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Khao tom mat is one of Laos's most ceremonially important sweets, traditionally 
 
 ### The wrapping
 - 12 squares banana leaf (each 25 × 20 cm; sold frozen at Asian / Caribbean shops; thaw before use)
-- Kitchen twine (or strips of softened banana leaf for the canonical Lao tying)
+- Kitchen twine (or strips of softened banana leaf for the traditional Lao tying)
 
 ### To serve (optional)
 - A small dish of palm sugar syrup (50 g palm sugar dissolved in 100 ml hot water)
@@ -85,7 +85,7 @@ Khao tom mat is one of Laos's most ceremonially important sweets, traditionally 
 **Cha lao (Lao temple offering version):** smaller parcels (4 × 4 cm); served at Buddhist temple offerings on Lao New Year.
 
 ## Serving
-At a Lao temple offering (the canonical setting; the canonical Buddhist alms food) · at a Lao Pi Mai (New Year, April) celebration · at a Lao wedding · at a Lao funeral · at home as the canonical Lao festival sweet · paired with strong Lao coffee or jasmine tea.
+At a Lao temple offering (the traditional setting; the traditional Buddhist alms food) · at a Lao Pi Mai (New Year, April) celebration · at a Lao wedding · at a Lao funeral · at home as the traditional Lao festival sweet · paired with strong Lao coffee or jasmine tea.
 
 ## Storage
 - Wrapped parcels refrigerate 4 days; reheat by re-steaming for 15 minutes.

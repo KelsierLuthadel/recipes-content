@@ -74,7 +74,7 @@ The Reuben sandwich is a New York Jewish-deli classic, allegedly invented in 192
 ## Notes
 - **Drain sauerkraut thoroughly:** essential.
 - **Russian dressing not Thousand Island.**
-- **Grill in butter:** for the canonical crust.
+- **Grill in butter:** for the traditional crust.
 - **Cheese on both sides:** holds everything together.
 
 ## Variations

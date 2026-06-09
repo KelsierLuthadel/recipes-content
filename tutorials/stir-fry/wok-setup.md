@@ -121,7 +121,7 @@ Added too early. Aromatics go in for 5-10 seconds before the protein, not before
 Oil pooled at the bottom only. Swirl the oil up the sides at the start so the whole inner surface is lubricated.
 
 ## Where Next
-- [Ingredient Order](ingredient-order.md): the canonical sequence once the wok is set up.
+- [Ingredient Order](ingredient-order.md): the traditional sequence once the wok is set up.
 - [Wok Hei](wok-hei.md): the smoky-char finish.
 - [Stir-Fry Course landing](stir-fry.md): back to the main course.
 

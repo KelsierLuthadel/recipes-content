@@ -84,7 +84,7 @@ Dublin coddle is the iconic Dublin one-pot stew, particular to the Irish capital
 **With cabbage:** add a quartered savoy cabbage to the pot for the last 30 minutes of cooking; gives a proper one-pot meal with a green vegetable.
 
 ## Serving
-In wide warm bowls with thick slices of brown soda bread or buttered Irish soda bread on the side. A bottle of Guinness (or a glass of stout) alongside is the canonical Dublin pairing. A simple salad of crisp lettuce with a vinaigrette can lighten the meal.
+In wide warm bowls with thick slices of brown soda bread or buttered Irish soda bread on the side. A bottle of Guinness (or a glass of stout) alongside is the traditional Dublin pairing. A simple salad of crisp lettuce with a vinaigrette can lighten the meal.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

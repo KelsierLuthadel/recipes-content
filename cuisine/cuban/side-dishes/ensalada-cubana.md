@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ensalada Cubana is Cuba's simple table salad and the canonical accompaniment to every Cuban main course: sliced ripe tomato, sliced cucumber, sliced raw white or red onion, sliced avocado, dressed with extra virgin olive oil, fresh lime juice, a pinch of salt and a touch of dried oregano. That's it. The salad is deliberately simple - no leaves, no dressing beyond oil-and-lime, no fancy components. The point is freshness and contrast against the rich heavy main courses (ropa vieja, lechón asado, picadillo, frijoles negros). The salad lives or dies by tomato quality; greenhouse winter tomatoes give bland results. Raw onion (red or white, thinly sliced) goes in straight; some Cuban cooks soak it briefly in cold water to mellow the sharpness, others leave it raw and assertive. Assembled at the last minute; don't pre-dress.
+Ensalada Cubana is Cuba's simple table salad and the traditional accompaniment to every Cuban main course: sliced ripe tomato, sliced cucumber, sliced raw white or red onion, sliced avocado, dressed with extra virgin olive oil, fresh lime juice, a pinch of salt and a touch of dried oregano. That's it. The salad is deliberately simple - no leaves, no dressing beyond oil-and-lime, no fancy components. The point is freshness and contrast against the rich heavy main courses (ropa vieja, lechón asado, picadillo, frijoles negros). The salad lives or dies by tomato quality; greenhouse winter tomatoes give bland results. Raw onion (red or white, thinly sliced) goes in straight; some Cuban cooks soak it briefly in cold water to mellow the sharpness, others leave it raw and assertive. Assembled at the last minute; don't pre-dress.
 
 ## Ingredients
 
@@ -55,7 +55,7 @@ Ensalada Cubana is Cuba's simple table salad and the canonical accompaniment to 
 - **Ripe tomatoes only:** the salad depends on tomato quality.
 - **Dress just before serving:** salt and lime will leach water from the vegetables; pre-dressed salad goes soggy.
 - **Avocado last:** so it doesn't get bruised; arrange on top.
-- **No leaves:** the canonical Cuban ensalada has no lettuce. The simplicity is the point.
+- **No leaves:** the traditional Cuban ensalada has no lettuce. The simplicity is the point.
 - **Adjust the onion to taste:** assertive raw onion or mild soaked onion; both are valid.
 
 ## Variations

@@ -2,7 +2,7 @@
 
 ![Sonoran Guacamole](resources/guacamole-sonoran.jpg)
 
-*The Southwest's mashed avocado dip: ripe avocados mashed with finely chopped onion, fresh jalapeño, garlic, lime juice, salt and fresh cilantro. The Sonoran-Arizona-New Mexico-Texas canonical guacamole - fresh, chunky, bright.*
+*The Southwest's mashed avocado dip: ripe avocados mashed with finely chopped onion, fresh jalapeño, garlic, lime juice, salt and fresh cilantro. The Sonoran-Arizona-New Mexico-Texas traditional guacamole - fresh, chunky, bright.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Sonoran guacamole is the canonical Southwestern American guacamole: ripe Hass avocados mashed (some chunky, some smoother) with finely chopped white onion, fresh jalapeño (or serrano), crushed garlic, fresh lime juice, salt and fresh coriander. Distinct from Mexican Oaxacan style (which may include tomatillos), or restaurant table-side guacamole (often with too much added). The Sonoran version is the canonical American: ripe avocado, lime, salt, onion, jalapeño, coriander.
+Sonoran guacamole is the traditional Southwestern American guacamole: ripe Hass avocados mashed (some chunky, some smoother) with finely chopped white onion, fresh jalapeño (or serrano), crushed garlic, fresh lime juice, salt and fresh coriander. Distinct from Mexican Oaxacan style (which may include tomatillos), or restaurant table-side guacamole (often with too much added). The Sonoran version is the traditional American: ripe avocado, lime, salt, onion, jalapeño, coriander.
 
 ## Ingredients
 

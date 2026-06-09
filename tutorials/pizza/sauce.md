@@ -64,7 +64,7 @@ Less than you think.
 
 If the sauce pools on the surface or runs off the edge when stretched, you used too much.
 
-See: [Pizza Sauce](../../cuisine/italian/pizza/pizza-sauce.md) for the canonical recipe.
+See: [Pizza Sauce](../../cuisine/italian/pizza/pizza-sauce.md) for the traditional recipe.
 
 ## The White Sauce (Bianca)
 
@@ -139,7 +139,7 @@ The sauce did not cover well, or was applied too thickly in some spots and not a
 - [Toppings](toppings.md): what goes on top of the sauce.
 - [Cheese](cheese.md): the next layer.
 - [Pizza Sauce](../../cuisine/italian/pizza/pizza-sauce.md): the master recipe.
-- [Margherita](../../cuisine/italian/pizza/margherita.md): the canonical red-sauce reference.
+- [Margherita](../../cuisine/italian/pizza/margherita.md): the traditional red-sauce reference.
 
 ## Storage
 - Pizza dough balls keep 3 days refrigerated; bring to room temperature 2 hours before stretching

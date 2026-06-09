@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Boxty is the Irish potato pancake from the Northwest and the Midlands: half-grated and half-mashed potato fried golden in butter, wrapped up in an old Irish rhyme that runs "boxty on the griddle, boxty on the pan, if you can't make boxty, you'll never get a man". The textural trick is the half-grated-half-mashed split: the grated raw potato gives a chewy almost fritter-like body, the mashed cooked potato gives smoothness, and the combination is what distinguishes boxty from any other potato cake. Raw grated potato must be squeezed bone-dry in a tea towel; wet potato gives soggy pancakes that never crisp. Eaten hot off the pan with butter, with bacon and eggs for breakfast, or rolled around a savoury filling with sour cream and chives as a dinner-party snack.
+Boxty is the Irish potato pancake from the Northwest and the Midlands: half-grated and half-mashed potato fried golden in butter, wrapped up in an old Irish rhyme that runs "boxty on the griddle, boxty on the pan, if you can't make boxty, you'll never get a man". The textural trick is the half-grated-half-mashed split: the grated raw potato gives a chewy almost fritter-like body, the mashed cooked potato gives smoothness, and the combination is what distinguishes boxty from any other potato cake. Raw grated potato must be squeezed bone-dry in a tea towel; wet potato gives soggy pancakes that never crisp. Eat hot off the pan with butter, with bacon and eggs for breakfast, or rolled around a savoury filling with sour cream and chives as a dinner-party snack.
 
 ## Ingredients
 

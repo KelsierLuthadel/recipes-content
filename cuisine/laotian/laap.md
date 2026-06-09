@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Laap (also spelled larb in English) is the most identity-defining Lao dish, eaten at every meal across the country with sticky rice and a plate of raw vegetables for scooping. The toasted rice powder (khao khua) is the canonical Lao signature that sets it apart from generic minced-meat salads: raw sticky rice grains dry-toasted till deep golden and nutty, then ground coarse, sprinkled generously over the finished dish as both thickener and textural element. The meat cooks gently in a dry pan with a splash of water just till opaque, never browned hard, to keep it tender. Traditionally beef or buffalo (the rural Lao staple); modern home versions use chicken, pork or duck. While still warm the meat tosses in a wide bowl with fish sauce, fresh lime juice, dried chilli flakes, sliced shallot, spring onion, fresh mint and cilantro, and that generous spoonful of toasted rice powder. Served at room temperature, scooped by hand with sticky rice and raw cabbage, long beans or cucumber.
+Laap (also spelled larb in English) is the most identity-defining Lao dish, eaten at every meal across the country with sticky rice and a plate of raw vegetables for scooping. The toasted rice powder (khao khua) is the traditional Lao signature that sets it apart from generic minced-meat salads: raw sticky rice grains dry-toasted till deep golden and nutty, then ground coarse, sprinkled generously over the finished dish as both thickener and textural element. The meat cooks gently in a dry pan with a splash of water just till opaque, never browned hard, to keep it tender. Traditionally beef or buffalo (the rural Lao staple); modern home versions use chicken, pork or duck. While still warm the meat tosses in a wide bowl with fish sauce, fresh lime juice, dried chilli flakes, sliced shallot, spring onion, fresh mint and cilantro, and that generous spoonful of toasted rice powder. Served at room temperature, scooped by hand with sticky rice and raw cabbage, long beans or cucumber.
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Laap (also spelled larb in English) is the most identity-defining Lao dish, eate
 - 4 tablespoons toasted rice powder (recipe below)
 - A generous bunch fresh mint leaves
 - A small bunch fresh cilantro, roughly chopped
-- A small bunch culantro / sawtooth coriander (optional, very canonical), chopped
+- A small bunch culantro / sawtooth coriander (optional, very traditional), chopped
 
 ### Toasted rice powder (khao khua)
 - 4 tablespoons raw Thai sticky rice (or basmati as substitute)
@@ -65,25 +65,25 @@ Laap (also spelled larb in English) is the most identity-defining Lao dish, eate
 
 ### Stage 5 - Serve
 1. Pile the laap on a wide platter.
-2. Serve with warm sticky rice (in a small bamboo basket, the canonical Lao serving) and a plate of raw vegetables.
+2. Serve with warm sticky rice (in a small bamboo basket, the traditional Lao serving) and a plate of raw vegetables.
 3. The diner pulls a small ball of sticky rice with the fingers, presses it into the laap, scoops a fresh herb leaf and bites.
 
 ## Notes
-- **Toasted rice powder is the canonical Lao signature:** without it, you've made larb but not laap.
+- **Toasted rice powder is the traditional Lao signature:** without it, you've made larb but not laap.
 - **Gentle cook, no browning:** the meat should be tender, not crusty. This is not stir-frying.
 - **Eat at room temperature, not hot:** laap is meant to be served just-warm or cooled; it brings the herbs to life.
-- **Sticky rice is the canonical pairing:** plain jasmine rice works but the texture is wrong; the small ball of sticky rice pressed into the laap is the canonical Lao eating method.
+- **Sticky rice is the traditional pairing:** plain jasmine rice works but the texture is wrong; the small ball of sticky rice pressed into the laap is the traditional Lao eating method.
 - **Make the toasted rice powder fresh:** it loses aroma within 48 hours.
 
 ## Variations
-**Laap pa (fish laap):** swap meat for finely chopped raw or briefly poached freshwater white fish; Lao river-fish canonical.
+**Laap pa (fish laap):** swap meat for finely chopped raw or briefly poached freshwater white fish; Lao river-fish traditional.
 **Laap ped (duck laap):** finely chopped roast duck meat; richer, more festive.
-**Laap dip (raw laap):** the canonical Northern Lao version uses raw beef tartare-style; not for the squeamish, and not recommended outside Laos for food-safety reasons.
+**Laap dip (raw laap):** the traditional Northern Lao version uses raw beef tartare-style; not for the squeamish, and not recommended outside Laos for food-safety reasons.
 **Vegetarian laap (laap het):** swap meat for finely chopped mushrooms (king oyster, shiitake) or crumbled fried tofu; same dressing.
 **Laap with extra heat:** double the dried chilli flakes; add 1 finely chopped fresh bird's-eye chilli.
 
 ## Serving
-At a Lao family dinner (the canonical setting) · at a Luang Prabang restaurant alongside or lam and sticky rice · at a Vientiane street stall · at a Lao New Year (Pi Mai, mid-April) celebration · at home as the canonical Lao dinner-party plate · with sticky rice, raw vegetables and a Beerlao.
+At a Lao family dinner (the traditional setting) · at a Luang Prabang restaurant alongside or lam and sticky rice · at a Vientiane street stall · at a Lao New Year (Pi Mai, mid-April) celebration · at home as the traditional Lao dinner-party plate · with sticky rice, raw vegetables and a Beerlao.
 
 ## Storage
 - Eat within 4 hours; the herbs wilt and the rice powder loses crunch.

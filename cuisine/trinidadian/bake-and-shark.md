@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Bake and shark is Trinidad's most famous beach food and one of the great sandwiches of the Caribbean: a piece of "bake" (a yeasted lightly-sweet flatbread fried in oil till puffed and golden, between fry-bread and pita in texture) split open and stuffed with a fillet of fresh shark, seasoned with garlic, lime and herbs, dredged in seasoned flour and shallow-fried till just cooked, then dressed with the Maracas Beach toppings: shadon beni chutney (culantro, lime, garlic, chilli), garlic sauce, tamarind sauce, lettuce, tomato, cucumber and a slice of fresh pineapple. The mixture of textures is what makes the dish unforgettable; Trinidadians and visitors drive to Maracas Beach just for this. Shark is the canonical fish (specifically blacktip); outside Trinidad it is hard to find and ethically debatable, so swordfish, mahi-mahi, kingfish, tilapia or sea bass substitute. The bake must be the yeasted flatbread, puffed and soft inside; a regular bread roll changes the dish entirely. All three sauces and the salad toppings are non-negotiable.
+Bake and shark is Trinidad's most famous beach food and one of the great sandwiches of the Caribbean: a piece of "bake" (a yeasted lightly-sweet flatbread fried in oil till puffed and golden, between fry-bread and pita in texture) split open and stuffed with a fillet of fresh shark, seasoned with garlic, lime and herbs, dredged in seasoned flour and shallow-fried till just cooked, then dressed with the Maracas Beach toppings: shadon beni chutney (culantro, lime, garlic, chilli), garlic sauce, tamarind sauce, lettuce, tomato, cucumber and a slice of fresh pineapple. The mixture of textures is what makes the dish unforgettable; Trinidadians and visitors drive to Maracas Beach just for this. Shark is the traditional fish (specifically blacktip); outside Trinidad it is hard to find and ethically debatable, so swordfish, mahi-mahi, kingfish, tilapia or sea bass substitute. The bake must be the yeasted flatbread, puffed and soft inside; a regular bread roll changes the dish entirely. All three sauces and the salad toppings are non-negotiable.
 
 ## Ingredients
 
@@ -129,7 +129,7 @@ Bake and shark is Trinidad's most famous beach food and one of the great sandwic
 8. Serve immediately while hot.
 
 ## Notes
-- **Shark or substitute:** real shark is the canonical choice but ethically debatable outside Trinidad (where it's harvested locally and managed). Swordfish, mahi-mahi, king fish are the best substitutes; sea bass and tilapia also work.
+- **Shark or substitute:** real shark is the traditional choice but ethically debatable outside Trinidad (where it's harvested locally and managed). Swordfish, mahi-mahi, king fish are the best substitutes; sea bass and tilapia also work.
 - **The bake is essential:** the yeasted fried flatbread is what makes the sandwich. Don't substitute with bread rolls; the texture and flavour are wrong.
 - **All three sauces:** Maracas Beach bake and shark traditionally has all three (shadon beni, garlic, tamarind) plus all four toppings (lettuce, tomato, cucumber, pineapple). Don't skip any; the experience is the layering.
 - **Don't overcook the fish:** 3-4 minutes per side at 180°C is right; longer and the fish goes dry. The fish should be just cooked through with a slight moistness inside.
@@ -142,7 +142,7 @@ Bake and shark is Trinidad's most famous beach food and one of the great sandwic
 **Mini bake-and-shark:** make smaller bakes (8 cm) and bite-sized fish pieces for a party-canapé version.
 
 ## Serving
-On a square of greaseproof paper or in a folded napkin (the proper Maracas Beach style); eat with your hands; the sandwich is meant to be messy. A cold local beer (Carib or Stag); or a fresh coconut water (the canonical Trinidadian beach drink).
+On a square of greaseproof paper or in a folded napkin (the proper Maracas Beach style); eat with your hands; the sandwich is meant to be messy. A cold local beer (Carib or Stag); or a fresh coconut water (the traditional Trinidadian beach drink).
 
 ## Storage
 - Best eaten immediately while the bake is warm and crisp.

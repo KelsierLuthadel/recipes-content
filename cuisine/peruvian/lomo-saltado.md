@@ -2,7 +2,7 @@
 
 ![Lomo Saltado](resources/lomo-saltado.jpg)
 
-*Peru's most famous chifa (Chinese-Peruvian) dish: strips of beef sirloin stir-fried hard in a smoking-hot wok with red onion wedges, ripe tomato wedges, aji amarillo strips, soy sauce, red wine vinegar and a generous fistful of cilantro, served over white rice with a pile of Peruvian-style frites on top. Wok-charred edges, sour-spicy soy juices pooling at the bottom of the plate, the rice soaking up the gravy. Born in 19th-century Lima from the Cantonese-immigrant chifa restaurant tradition; now the canonical Peruvian household dinner. Eats best fast and hot from the pan.*
+*Peru's most famous chifa (Chinese-Peruvian) dish: strips of beef sirloin stir-fried hard in a smoking-hot wok with red onion wedges, ripe tomato wedges, aji amarillo strips, soy sauce, red wine vinegar and a generous fistful of cilantro, served over white rice with a pile of Peruvian-style frites on top. Wok-charred edges, sour-spicy soy juices pooling at the bottom of the plate, the rice soaking up the gravy. Born in 19th-century Lima from the Cantonese-immigrant chifa restaurant tradition; now the traditional Peruvian household dinner. Eats best fast and hot from the pan.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Lomo saltado ("jumped sirloin") is the foundational dish of Peruvian chifa cuisine, the Cantonese-Peruvian fusion that emerged from the 19th-century Chinese immigration to Lima. A wok-stir-fry: the pan must be smoking-hot, the beef sears hard (not braises), and the vegetables get a quick toss. Total cook time from beef hitting the pan is six to eight minutes. The chifa flavour base is soy sauce, red wine vinegar (the Peruvian addition; vinegar isn't traditional in Chinese stir-fries), aji amarillo paste and a grate of garlic. Soy gives the umami, vinegar gives the bracing tang, aji amarillo gives the floral-fruity heat that's distinctly Peruvian. The carb double is canonical: served on a bed of plain white rice and topped with a pile of Peruvian-style fries. The rice soaks the wok juices, the fries sit crisp on top.
+Lomo saltado ("jumped sirloin") is the foundational dish of Peruvian chifa cuisine, the Cantonese-Peruvian fusion that emerged from the 19th-century Chinese immigration to Lima. A wok-stir-fry: the pan must be smoking-hot, the beef sears hard (not braises), and the vegetables get a quick toss. Total cook time from beef hitting the pan is six to eight minutes. The chifa flavour base is soy sauce, red wine vinegar (the Peruvian addition; vinegar isn't traditional in Chinese stir-fries), aji amarillo paste and a grate of garlic. Soy gives the umami, vinegar gives the bracing tang, aji amarillo gives the floral-fruity heat that's distinctly Peruvian. The carb double is traditional: served on a bed of plain white rice and topped with a pile of Peruvian-style fries. The rice soaks the wok juices, the fries sit crisp on top.
 
 ## Ingredients
 
@@ -101,7 +101,7 @@ Lomo saltado ("jumped sirloin") is the foundational dish of Peruvian chifa cuisi
 - **Smoking-hot wok:** the heat is what makes this lomo saltado rather than a generic stir-fry. A cool pan gives grey braised meat.
 - **Don't overcrowd:** 2-batch cooking of the beef. Crowded beef steams.
 - **Aji amarillo is essential:** the Peruvian yellow chilli (fresh, paste or both) is what makes this Peruvian rather than Cantonese.
-- **Both rice AND fries:** the double-carb is canonical. Some restaurants serve only rice (lighter); some only fries (less rice); the canonical home serving is both.
+- **Both rice AND fries:** the double-carb is traditional. Some restaurants serve only rice (lighter); some only fries (less rice); the traditional home serving is both.
 - **Wedge of lime is the finishing touch:** squeezed over at the table for the bracing acidity.
 
 ## Variations
@@ -113,7 +113,7 @@ Lomo saltado ("jumped sirloin") is the foundational dish of Peruvian chifa cuisi
 **Lomo saltado on a sandwich (sanguche de lomo):** pile the cooked stir-fry into a fresh roll with mayo and pickled onions - the Lima street-sandwich variant.
 
 ## Serving
-At a Peruvian chifa restaurant (the canonical setting; chifa restaurants run from Lima to the Amazon) · at a Lima working-day lunch · at a Peruvian Independence Day celebration · at a Peruvian household dinner (lomo saltado is the canonical Peruvian week-night meal) · paired with chicha morada or a cold Peruvian Pilsen Trujillo lager.
+At a Peruvian chifa restaurant (the traditional setting; chifa restaurants run from Lima to the Amazon) · at a Lima working-day lunch · at a Peruvian Independence Day celebration · at a Peruvian household dinner (lomo saltado is the traditional Peruvian week-night meal) · paired with chicha morada or a cold Peruvian Pilsen Trujillo lager.
 
 ## Storage
 - Refrigerates 2 days; reheat in a hot wok with a small splash of water.

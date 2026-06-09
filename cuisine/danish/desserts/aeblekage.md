@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (apple compote) + 5 minutes (toasting crumbs if making)
 
 ## Overview
-Æblekage (literally "apple cake") is one of Denmark's most beloved everyday desserts - and the name is a glorious misnomer because there's no actual cake involved. It's a layered cold dessert: stewed apple compote (peeled apples cooked down with sugar, lemon and a touch of vanilla into a soft jammy sauce), crushed macaroon biscuits (the canonical Danish version uses ratafia biscuits / makroner - small almond meringue cookies; many home cooks substitute with toasted buttered breadcrumbs spiked with brown sugar and cinnamon for the "rasp" version), and lightly sweetened whipped cream - all layered in a clear glass dish or individual glasses so the strata show through. Often topped with a small spoon of redcurrant jelly or a few fresh red berries for the canonical Danish flourish of red on white. The dish is designed for utility: it uses up windfall apples in autumn, comes together in minutes once the apple stew is ready, and looks beautiful in a glass bowl on the dinner table.
+Æblekage (literally "apple cake") is one of Denmark's most beloved everyday desserts - and the name is a glorious misnomer because there's no actual cake involved. It's a layered cold dessert: stewed apple compote (peeled apples cooked down with sugar, lemon and a touch of vanilla into a soft jammy sauce), crushed macaroon biscuits (the traditional Danish version uses ratafia biscuits / makroner - small almond meringue cookies; many home cooks substitute with toasted buttered breadcrumbs spiked with brown sugar and cinnamon for the "rasp" version), and lightly sweetened whipped cream - all layered in a clear glass dish or individual glasses so the strata show through. Often topped with a small spoon of redcurrant jelly or a few fresh red berries for the traditional Danish flourish of red on white. The dish is designed for utility: it uses up windfall apples in autumn, comes together in minutes once the apple stew is ready, and looks beautiful in a glass bowl on the dinner table.
 
 ## Ingredients
 
@@ -24,7 +24,7 @@
 - ½ teaspoon ground cinnamon (optional)
 
 ### The "crumb" layer (choose one)
-- **Option A (Danish canonical - macaroon version):** 200 g ratafia / amaretti biscuits OR Danish makroner (almond meringue cookies), coarsely crushed
+- **Option A (Danish traditional - macaroon version):** 200 g ratafia / amaretti biscuits OR Danish makroner (almond meringue cookies), coarsely crushed
 - **Option B (rustic Danish - toasted breadcrumb version):** 200 g coarse breadcrumbs from day-old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon, all toasted in a dry pan till deeply golden and crisp
 
 ### Whipped cream
@@ -90,7 +90,7 @@
 
 ## Notes
 - **Apple compote:** cook till jammy, not just stewed. Watery compote makes a soggy dessert.
-- **Crushed macaroons vs toasted breadcrumbs:** both canonical. Macaroons more elegant; breadcrumbs more rustic.
+- **Crushed macaroons vs toasted breadcrumbs:** both traditional. Macaroons more elegant; breadcrumbs more rustic.
 - **Layered in a CLEAR glass dish:** the visual strata are essential. A solid bowl ruins the dish's identity.
 - **Don't pre-assemble too far ahead:** the crumbs go soggy after 3-4 hours. Best assembled an hour before serving.
 - **Sweet-tart apple:** Bramley or Granny Smith. Sweet eating apples make a duller compote.

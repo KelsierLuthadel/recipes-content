@@ -2,7 +2,7 @@
 
 ![Goghal](resources/goghal.jpg)
 
-*Azerbaijan's spiced flaky pastry: laminated dough layered with butter and a heady mix of black pepper, caraway and saffron. Eaten with sweet tea.*
+*Azerbaijan's spiced flaky pastry: laminated dough layered with butter and a heady mix of black pepper, caraway and saffron. Eat with sweet tea.*
 
 **Serves:** Makes 12 goghal
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A spiced flaky pastry from Azerbaijan's tea table, traditionally baked for Novruz alongside pakhlava and shekerbura, eaten with strong sweet tea any time of year. You make a yeasted milk-and-egg dough and let it rest for an hour, while you build a savoury-sweet spice mix from black pepper, caraway, fennel, saffron and a hard cheese-like crumble (Azerbaijani gurut, or a substitute). The dough rolls thin, brushes with butter, gets a scatter of spice; folds, rolls, sprinkles again, repeated three times in the same lamination motion you'd use for puff pastry. The final dough rolls to a centimetre thick, cuts into rounds with the rim of a glass, takes an egg wash for shine, and bakes at 180°C for twenty-five minutes until deep golden. Eaten with sweet black tea and a small dish of jam on the side.
+A spiced flaky pastry from Azerbaijan's tea table, traditionally baked for Novruz alongside pakhlava and shekerbura, eaten with strong sweet tea any time of year. You make a yeasted milk-and-egg dough and let it rest for an hour, while you build a savoury-sweet spice mix from black pepper, caraway, fennel, saffron and a hard cheese-like crumble (Azerbaijani gurut, or a substitute). The dough rolls thin, brushes with butter, gets a scatter of spice; folds, rolls, sprinkles again, repeated three times in the same lamination motion you'd use for puff pastry. The final dough rolls to a centimetre thick, cuts into rounds with the rim of a glass, takes an egg wash for shine, and bakes at 180°C for twenty-five minutes until deep golden. Eat with sweet black tea and a small dish of jam on the side.
 
 ## Ingredients
 

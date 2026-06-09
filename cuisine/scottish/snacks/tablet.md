@@ -11,7 +11,7 @@
 **Cook Time:** 25-30 minutes
 
 ## Overview
-Tablet is Scotland's distinctively crystalline confectionery, a member of the fudge family but harder, less creamy, and with a sandy granular texture from forced crystallisation of the sugar. The roots are Highland: originally made by Scottish farm-house cooks as a way of preserving milk and sugar in a stable, portable form for travelling. The recipe is straightforward but technically demanding. Sugar, condensed milk, butter and a splash of whole milk boil together to soft-ball stage (115 to 118 °C; verified with a sugar thermometer), then come off the heat for five to ten minutes of vigorous beating with a wooden spoon until the sugar starts to crystallise and the mixture turns from glossy to grainy. Poured into a lined tray, allowed to set, cut into chunky squares. Pale-amber to honey-coloured, dense, intensely sweet, breaks with a satisfying snap. The canonical Scottish bake-sale fundraiser item.
+Tablet is Scotland's distinctively crystalline confectionery, a member of the fudge family but harder, less creamy, and with a sandy granular texture from forced crystallisation of the sugar. The roots are Highland: originally made by Scottish farm-house cooks as a way of preserving milk and sugar in a stable, portable form for travelling. The recipe is straightforward but technically demanding. Sugar, condensed milk, butter and a splash of whole milk boil together to soft-ball stage (115 to 118 °C; verified with a sugar thermometer), then come off the heat for five to ten minutes of vigorous beating with a wooden spoon until the sugar starts to crystallise and the mixture turns from glossy to grainy. Poured into a lined tray, allowed to set, cut into chunky squares. Pale-amber to honey-coloured, dense, intensely sweet, breaks with a satisfying snap. The traditional Scottish bake-sale fundraiser item.
 
 ## Ingredients
 
@@ -95,7 +95,7 @@ Tablet is Scotland's distinctively crystalline confectionery, a member of the fu
 **Ginger tablet:** stir 80 g finely chopped stem ginger into the mixture during final beating - warming, slightly spicy.
 
 ## Serving
-At every Scottish church fete, school fundraiser, and bake-sale (the canonical sales item) · in tartan-printed tins as a tourist souvenir from any Edinburgh shop · at a Scottish family Christmas hamper · as a Scottish wedding-favour bag · at a Burns Night supper as the after-dinner sweet · at home with a strong cup of tea (the only thing that cuts the sweetness) · as a present for a Scottish dentist (joke; please don't).
+At every Scottish church fete, school fundraiser, and bake-sale (the traditional sales item) · in tartan-printed tins as a tourist souvenir from any Edinburgh shop · at a Scottish family Christmas hamper · as a Scottish wedding-favour bag · at a Burns Night supper as the after-dinner sweet · at home with a strong cup of tea (the only thing that cuts the sweetness) · as a present for a Scottish dentist (joke; please don't).
 
 ## Storage
 - Keeps in a sealed tin for 3 weeks (the sugar is the preservative).

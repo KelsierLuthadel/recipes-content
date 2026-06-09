@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Pollo alla cacciatora (literally "hunter-style chicken") is one of Italy's most beloved rustic chicken dishes and a staple of Italian home cooking; the name refers to the way hunters traditionally prepared chicken with simple pantry-and-foraged ingredients. The dish has regional variations: the Northern Italian version (Tuscan, Emilian) uses white wine, olives, capers and herbs; the Central-Northern version (Marche, Umbria) uses red wine, mushrooms and fewer herbs; the Southern version uses tomato more heavily, plus chillies. This recipe gives the Tuscan white-wine version with olives and a touch of tomato - generally considered the canonical northern Italian rendition. Bone-in skin-on chicken pieces give the proper flavour; boneless skinless cuts won't work. Fresh rosemary and sage are the canonical herbs. The cook needs 45 minutes minimum till the chicken is tender and the sauce has reduced.
+Pollo alla cacciatora (literally "hunter-style chicken") is one of Italy's most beloved rustic chicken dishes and a staple of Italian home cooking; the name refers to the way hunters traditionally prepared chicken with simple pantry-and-foraged ingredients. The dish has regional variations: the Northern Italian version (Tuscan, Emilian) uses white wine, olives, capers and herbs; the Central-Northern version (Marche, Umbria) uses red wine, mushrooms and fewer herbs; the Southern version uses tomato more heavily, plus chillies. This recipe gives the Tuscan white-wine version with olives and a touch of tomato - generally considered the traditional northern Italian rendition. Bone-in skin-on chicken pieces give the proper flavour; boneless skinless cuts won't work. Fresh rosemary and sage are the traditional herbs. The cook needs 45 minutes minimum till the chicken is tender and the sauce has reduced.
 
 ## Ingredients
 
@@ -108,7 +108,7 @@ Pollo alla cacciatora (literally "hunter-style chicken") is one of Italy's most 
 **Northern with red wine and mushrooms:** swap white wine for red; double the mushrooms; skip olives.
 **Southern with chillies:** add 2 chopped fresh chillies; use red wine; gives Calabrian-leaning version.
 **With pancetta:** add 100 g of diced pancetta browned at the start.
-**Pheasant or rabbit:** the canonical "hunter's" version uses game; same technique.
+**Pheasant or rabbit:** the traditional "hunter's" version uses game; same technique.
 
 ## Serving
 With soft polenta, crusty bread, or boiled potatoes. Italian wine. Simple salad.

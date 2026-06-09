@@ -2,7 +2,7 @@
 
 ![Crawfish Étouffée](resources/crawfish-etouffee.jpg)
 
-*Louisiana's smothered crawfish: peeled crawfish tails simmered in a buttery blond roux gravy with the trinity, garlic and Cajun spices, served over fluffy white rice. The Cajun Lent and Holy Week classic; the canonical Louisiana crawfish dish.*
+*Louisiana's smothered crawfish: peeled crawfish tails simmered in a buttery blond roux gravy with the trinity, garlic and Cajun spices, served over fluffy white rice. The Cajun Lent and Holy Week classic; the traditional Louisiana crawfish dish.*
 
 **Serves:** 6
 

@@ -2,14 +2,14 @@
 
 ![Shopska Salad](resources/shopska-salad.jpg)
 
-*North Macedonia's canonical salad: diced cucumber, tomato, red bell pepper, raw onion, parsley, all topped with a snowy mound of grated white sheep's cheese (Kashkaval or sirenje feta). The Balkan flag colours in salad form; refreshing, herbal, juicy. Found at every Macedonian table.*
+*North Macedonia's traditional salad: diced cucumber, tomato, red bell pepper, raw onion, parsley, all topped with a snowy mound of grated white sheep's cheese (Kashkaval or sirenje feta). The Balkan flag colours in salad form; refreshing, herbal, juicy. Found at every Macedonian table.*
 
 **Serves:** 4
 
 **Prep Time:** 15 minutes
 
 ## Overview
-Shopska salad is technically Bulgarian by origin (named after the Shopi people of the Sofia region), but the Macedonian version is essentially identical and is the canonical daily salad in both countries. The construction: tomato, cucumber, red pepper, onion are all diced to roughly 1 cm dice; tossed with chopped parsley, sunflower oil, vinegar, salt; topped with a generous grated mound of white salty cheese (sirenje, the Balkan brined-white-cheese; substitute Greek feta) which contrasts with the colourful vegetable base.
+Shopska salad is technically Bulgarian by origin (named after the Shopi people of the Sofia region), but the Macedonian version is essentially identical and is the traditional daily salad in both countries. The construction: tomato, cucumber, red pepper, onion are all diced to roughly 1 cm dice; tossed with chopped parsley, sunflower oil, vinegar, salt; topped with a generous grated mound of white salty cheese (sirenje, the Balkan brined-white-cheese; substitute Greek feta) which contrasts with the colourful vegetable base.
 
 ## Ingredients
 - 4 large ripe tomatoes (diced 1 cm)
@@ -46,7 +46,7 @@ Shopska salad is technically Bulgarian by origin (named after the Shopi people o
 **Spicy:** add chopped fresh chilli.
 
 ## Serving
-At every Macedonian table (canonical) · alongside grilled meat · with ajvar and bread · at a Macedonian wedding · at home as the daily summer salad.
+At every Macedonian table (traditional) · alongside grilled meat · with ajvar and bread · at a Macedonian wedding · at home as the daily summer salad.
 
 ## Storage
 Best eaten fresh; the dressed vegetables soften within an hour.

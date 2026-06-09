@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pão moçambicano is Mozambique's everyday white bread, inherited from Portuguese colonial cooking and now thoroughly Mozambican: a small soft enriched white roll, shaped into 50 to 80 g portions, slashed with a single cut on top, brushed with egg wash and dusted lightly with flour, baked at high heat till the outside is deep golden and the inside stays soft and pillowy. What every Mozambican eats at breakfast (with strong sweet milky coffee and butter or jam), at lunch (split open and filled with cheese, ham or grilled fish), and at dinner (used to mop up the sauces of grilled fish, prawns or chicken). Sold at every padaria across the country, fresh every morning, eaten the same day. Sits in the wider Lusophone bread family alongside Portuguese pão-de-leite, Brazilian pãozinho francês and Angolan pão-de-leite, but with subtle Mozambican touches: slightly sweeter, often with a touch of coconut milk in the dough, and the canonical small-roll size.
+Pão moçambicano is Mozambique's everyday white bread, inherited from Portuguese colonial cooking and now thoroughly Mozambican: a small soft enriched white roll, shaped into 50 to 80 g portions, slashed with a single cut on top, brushed with egg wash and dusted lightly with flour, baked at high heat till the outside is deep golden and the inside stays soft and pillowy. What every Mozambican eats at breakfast (with strong sweet milky coffee and butter or jam), at lunch (split open and filled with cheese, ham or grilled fish), and at dinner (used to mop up the sauces of grilled fish, prawns or chicken). Sold at every padaria across the country, fresh every morning, eaten the same day. Sits in the wider Lusophone bread family alongside Portuguese pão-de-leite, Brazilian pãozinho francês and Angolan pão-de-leite, but with subtle Mozambican touches: slightly sweeter, often with a touch of coconut milk in the dough, and the traditional small-roll size.
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ Pão moçambicano is Mozambique's everyday white bread, inherited from Portugues
 1. Knock back the risen dough; divide into 12 equal pieces (about 75 g each).
 2. Roll each piece into a smooth ball by tucking the edges underneath.
 3. Place the balls on a baking sheet lined with parchment paper, leaving 4 cm between each.
-4. Or shape into small oval ovals/torpedoes (the canonical Mozambican shape).
+4. Or shape into small oval ovals/torpedoes (the traditional Mozambican shape).
 
 ### Stage 4 - Second prove
 1. Cover loosely with a damp cloth.
@@ -77,7 +77,7 @@ Pão moçambicano is Mozambique's everyday white bread, inherited from Portugues
 **Sweeter pão (pão doce):** double the sugar to 120 g; gives a slightly sweeter breakfast roll. Common Mozambican variant.
 
 ## Serving
-Warm with strong sweet milky coffee (the canonical Mozambican breakfast). Split open with butter, queijo (cheese), jam, or honey. At lunch with grilled fish, sausages, or cheese. At dinner to mop up sauces from grilled prawns, peri-peri chicken, or matata.
+Warm with strong sweet milky coffee (the traditional Mozambican breakfast). Split open with butter, queijo (cheese), jam, or honey. At lunch with grilled fish, sausages, or cheese. At dinner to mop up sauces from grilled prawns, peri-peri chicken, or matata.
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 days; the bread firms up after 24 hours.

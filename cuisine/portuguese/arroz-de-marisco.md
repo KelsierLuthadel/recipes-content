@@ -2,7 +2,7 @@
 
 ![Arroz de Marisco](resources/arroz-de-marisco.jpg)
 
-*Portugal's brothy seafood rice: medium-grain rice cooked into a deliberately wet creamy stew with shrimp, mussels, clams, white fish, octopus and the canonical sofrito base of onion, garlic, tomato, white wine and fresh coriander. The Portuguese coastal classic - Atlantic abundance in a single pot, eaten with a spoon from deep plates.*
+*Portugal's brothy seafood rice: medium-grain rice cooked into a deliberately wet creamy stew with shrimp, mussels, clams, white fish, octopus and the traditional sofrito base of onion, garlic, tomato, white wine and fresh coriander. The Portuguese coastal classic - Atlantic abundance in a single pot, eaten with a spoon from deep plates.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Arroz de marisco (literally "seafood rice") is one of Portugal's most iconic coastal dishes and a signature of every Algarve and Atlantic-coast restaurant: medium-grain rice (carolino canonical) cooked into a deliberately wet creamy stew with a generous mix of Atlantic seafood (shrimp, mussels, clams, white fish, octopus or squid, sometimes lobster or crab) in a base of sautéed onion, garlic, tomato, white wine, fish stock, fresh coriander and a touch of piri-piri. The dish distinguishes itself from Spanish paella (drier, bomba rice) and Italian risotto (arborio, stirred constantly): Portuguese arroz de marisco is brothy, almost soupy, with the rice having released its starch into the broth to create a creamy stew. Served in deep plates with crusty bread, lemon wedges and cold white wine. Three parts liquid to one part rice by volume is the proper ratio. Multiple types of seafood give the layered flavour. Coriander is generous, not garnish: the fresh-herb finish is the Portuguese signature.
+Arroz de marisco (literally "seafood rice") is one of Portugal's most iconic coastal dishes and a signature of every Algarve and Atlantic-coast restaurant: medium-grain rice (carolino traditional) cooked into a deliberately wet creamy stew with a generous mix of Atlantic seafood (shrimp, mussels, clams, white fish, octopus or squid, sometimes lobster or crab) in a base of sautéed onion, garlic, tomato, white wine, fish stock, fresh coriander and a touch of piri-piri. The dish distinguishes itself from Spanish paella (drier, bomba rice) and Italian risotto (arborio, stirred constantly): Portuguese arroz de marisco is brothy, almost soupy, with the rice having released its starch into the broth to create a creamy stew. Served in deep plates with crusty bread, lemon wedges and cold white wine. Three parts liquid to one part rice by volume is the proper ratio. Multiple types of seafood give the layered flavour. Coriander is generous, not garnish: the fresh-herb finish is the Portuguese signature.
 
 ## Ingredients
 

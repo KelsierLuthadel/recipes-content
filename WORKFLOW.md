@@ -89,7 +89,7 @@ The `.yml` sidecar isn't used by the build itself — the build reads the `.md` 
 
 - **Reads `<slug>.md`.** The body is the only source of truth.
 - **Extracts structured fields**: title, overview, serves, prep/cook/total time, ingredients block, method.
-- **Derives** allergens (regex scan of the ingredient block), tags (folder path + body keywords + festival map), protein, mentions (cross-recipe title matches in the body), and the canonical category path.
+- **Derives** allergens (regex scan of the ingredient block), tags (folder path + body keywords + festival map), protein, mentions (cross-recipe title matches in the body), and the traditional category path.
 - **Parses each ingredient line** into `{ qty, unit, name }` triples for the shopping page (lands in `static/recipe-extras.json`).
 - **Writes `static/recipes.json`** (the runtime manifest the SvelteKit app fetches).
 - **Writes `<slug>.yml`** next to the `.md` with the derived snapshot. You don't author this file; it's regenerated every build.

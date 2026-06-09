@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Crowdie is one of the oldest dairy products in the British Isles, with documented Scottish origins going back to at least the 8th century and possibly brought over by the Vikings. The technique is the same as the original "naturally soured" fresh cheeses found across northern Europe: whole milk sours naturally for a day or two, then warms gently till the curds separate from the whey, drains through muslin for several hours, then gets mixed with sea salt and a swirl of double cream. The finished texture sits somewhere between cottage cheese and ricotta but firmer than both. Sometimes flavoured with chopped chives or grated lemon zest, sometimes rolled in pinhead oatmeal or finely chopped toasted hazelnuts to form little round balls or a log. The canonical Highland breakfast cheese, spread on warm oatcakes with butter, alongside fresh radishes, or rolled into the famous "Caboc" with pinhead oatmeal.
+Crowdie is one of the oldest dairy products in the British Isles, with documented Scottish origins going back to at least the 8th century and possibly brought over by the Vikings. The technique is the same as the original "naturally soured" fresh cheeses found across northern Europe: whole milk sours naturally for a day or two, then warms gently till the curds separate from the whey, drains through muslin for several hours, then gets mixed with sea salt and a swirl of double cream. The finished texture sits somewhere between cottage cheese and ricotta but firmer than both. Sometimes flavoured with chopped chives or grated lemon zest, sometimes rolled in pinhead oatmeal or finely chopped toasted hazelnuts to form little round balls or a log. The traditional Highland breakfast cheese, spread on warm oatcakes with butter, alongside fresh radishes, or rolled into the famous "Caboc" with pinhead oatmeal.
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Crowdie is one of the oldest dairy products in the British Isles, with documente
   - 1 teaspoon finely grated lemon zest + 1 teaspoon chopped dill
   - 1 teaspoon coarsely cracked black pepper
 - Optional coating (pick one):
-  - 50 g pinhead oatmeal, lightly toasted (the canonical Caboc coating)
+  - 50 g pinhead oatmeal, lightly toasted (the traditional Caboc coating)
   - 50 g finely chopped toasted hazelnuts
   - 50 g cracked black peppercorns (the peppered version)
 
@@ -102,7 +102,7 @@ For balls:
 - **The whey is useful:** save the whey for bread-making, scone-making, or smoothies.
 
 ## Variations
-**Caboc (the canonical):** roll the log in toasted pinhead oatmeal. Highland Fine Cheeses of Tain made this commercial.
+**Caboc (the traditional):** roll the log in toasted pinhead oatmeal. Highland Fine Cheeses of Tain made this commercial.
 **Hazelnut crowdie:** roll in finely chopped toasted hazelnuts.
 **Peppered crowdie:** roll in cracked black peppercorns (very Scottish; strong).
 **Herb crowdie:** stir in chopped chives, dill, and parsley before serving.
@@ -110,7 +110,7 @@ For balls:
 **With smoked salmon (canapé):** spread crowdie on oatcakes; top with a small piece of smoked salmon and a dill leaf.
 
 ## Serving
-On warm oatcakes at a Scottish breakfast (the canonical setting) · on a Scottish cheese board alongside whisky and grapes · spread on oatcakes at a Highland picnic · rolled and sliced as a starter at a Burns Night supper · at a Scottish wedding canapé reception · at a tasting menu at a Highland restaurant alongside a small dram.
+On warm oatcakes at a Scottish breakfast (the traditional setting) · on a Scottish cheese board alongside whisky and grapes · spread on oatcakes at a Highland picnic · rolled and sliced as a starter at a Burns Night supper · at a Scottish wedding canapé reception · at a tasting menu at a Highland restaurant alongside a small dram.
 
 ## Storage
 - Fresh crowdie refrigerates 5-7 days, well-wrapped.

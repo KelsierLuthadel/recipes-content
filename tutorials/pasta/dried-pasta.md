@@ -5,7 +5,7 @@
 *Dried pasta does most of the heavy lifting in Italian kitchens and probably yours. It's a different family from fresh egg pasta (just durum and water, no eggs) and the rules for cooking it are simple, but worth doing well. Properly salted water, a tall pan, a watchful eye, and a little of the cooking water saved for the sauce.*
 
 ## Overview
-Dried pasta is the Italian everyday. It's also what's available in the supermarket, what most Italian restaurants use, and what almost all the canonical Italian pasta dishes were designed for: spaghetti carbonara, penne arrabbiata, bucatini amatriciana, linguine alle vongole, orecchiette con cime di rapa.
+Dried pasta is the Italian everyday. It's also what's available in the supermarket, what most Italian restaurants use, and what almost all the traditional Italian pasta dishes were designed for: spaghetti carbonara, penne arrabbiata, bucatini amatriciana, linguine alle vongole, orecchiette con cime di rapa.
 
 Dried pasta differs from fresh in three ways:
 1. **Made from durum semolina wheat, not soft "00" wheat.** Durum has high protein; the cooked pasta is firmer and more al dente.

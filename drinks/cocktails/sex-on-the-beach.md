@@ -50,7 +50,7 @@ Sex on the Beach was invented in 1987 at Confetti's, a now-closed Fort Lauderdal
 1. Serve immediately; the gradient mixes within a few minutes regardless.
 
 ## Notes
-- **Peach schnapps is the right kind.** This is the sweet-and-syrupy 1980s liqueur, not a proper peach brandy. Archers (UK) and DeKuyper (US) are the canonical choices.
+- **Peach schnapps is the right kind.** This is the sweet-and-syrupy 1980s liqueur, not a proper peach brandy. Archers (UK) and DeKuyper (US) are the traditional choices.
 - **Fresh orange juice over carton.** Same rule as the Tequila Sunrise; carton juice tastes flat. Squeezing two oranges takes 60 seconds.
 - **Real cranberry, not "drink".** The "cocktail" variety is mostly red sugar water. Look for 100% cranberry juice or unsweetened cranberry concentrate.
 - **The gradient is the show.** Pouring the cranberry slowly down the side of the glass is the trick that gives the drink its layered look; pouring it in fast just gives uniform pink.

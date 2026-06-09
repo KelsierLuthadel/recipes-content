@@ -2,7 +2,7 @@
 
 ![Ackee and Saltfish](resources/ackee-and-saltfish.jpg)
 
-*Jamaica's national dish: salt cod hydrated and sautéed with sweet ackee fruit, scotch bonnet, onion, sweet pepper and thyme. Eaten with fried plantain or bammy, traditionally for Sunday breakfast.*
+*Jamaica's national dish: salt cod hydrated and sautéed with sweet ackee fruit, scotch bonnet, onion, sweet pepper and thyme. Eat with fried plantain or bammy, traditionally for Sunday breakfast.*
 
 **Serves:** 4
 

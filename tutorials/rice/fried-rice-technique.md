@@ -142,7 +142,7 @@ Old rice that has dried out too much (4+ days), or fried too long. Use rice no m
 - [Absorption Method](absorption-method.md): how to cook the rice the night before.
 - [Boiled Rice](boiled-rice.md): an alternative cook method for the base rice.
 - [Pilaf](pilaf.md): if the leftover rice is pilau, the fried rice picks up its spices for free.
-- [Chinese Fried Rice](../../cuisine/chinese/fried-rice.md): the canonical Yangzhou version.
+- [Chinese Fried Rice](../../cuisine/chinese/fried-rice.md): the traditional Yangzhou version.
 - [Indian Fried Rice](../../cuisine/indian/rice/fried-rice.md): Indo-Chinese fusion.
 
 ## Storage

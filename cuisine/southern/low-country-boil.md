@@ -73,7 +73,7 @@ Low country boil (also called "Frogmore stew" after Frogmore community on Saint 
 ## Notes
 - **Stages of cooking:** potatoes longest, then sausage and corn, then shrimp.
 - **Heavy seasoning of water:** Old Bay essential.
-- **Dump onto table:** the canonical Lowcountry presentation.
+- **Dump onto table:** the traditional Lowcountry presentation.
 - **Don't overcook shrimp:** 3-4 minutes max.
 
 ## Variations

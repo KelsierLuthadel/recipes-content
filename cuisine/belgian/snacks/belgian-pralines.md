@@ -123,7 +123,7 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 **Dark chocolate enrobed truffles (alternative, no mould needed):** make ganache balls, refrigerate till firm, dip in tempered chocolate, roll in cocoa powder - a simpler praliné-style treat without the moulds.
 
 ## Serving
-At a Belgian chocolatier or pâtisserie in Brussels, Antwerp or Bruges (the canonical setting) · in a hand-tied gift box from Leonidas, Neuhaus, Pierre Marcolini or Galler (the classic Belgian premium boutiques) · after a Belgian dinner with coffee · at a Belgian wedding reception · at Belgian Christmas or Easter as a gift · as the canonical Belgian "I brought you these from Brussels" present.
+At a Belgian chocolatier or pâtisserie in Brussels, Antwerp or Bruges (the traditional setting) · in a hand-tied gift box from Leonidas, Neuhaus, Pierre Marcolini or Galler (the classic Belgian premium boutiques) · after a Belgian dinner with coffee · at a Belgian wedding reception · at Belgian Christmas or Easter as a gift · as the traditional Belgian "I brought you these from Brussels" present.
 
 ## Storage
 - Store in a single layer in a cool tin (16-20°C), away from light and humidity, for up to 3 weeks.

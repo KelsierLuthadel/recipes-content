@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Jian bing is the street-corner breakfast crepe of northern China, the egg-and-batter savoury pancake that comes off a hot round griddle in eight minutes flat and goes into a paper sleeve as you walk to work. The batter is mung-bean flour, millet flour and plain flour whisked with five-spice to a single-cream consistency and rested for an hour. On a hot flat griddle (or a wide non-stick pan), you ladle the batter and spread it thin with a wooden rake; an egg cracks onto the half-cooked crepe and gets smashed and spread; the crepe flips so the cooked side comes up; sweet bean sauce and chilli paste brush across; herbs and a crisp wonton sheet land on top; the whole thing folds into quarters. Eaten warm by hand, walking, while it's still flexible and the egg is still soft inside.
+Jian bing is the street-corner breakfast crepe of northern China, the egg-and-batter savoury pancake that comes off a hot round griddle in eight minutes flat and goes into a paper sleeve as you walk to work. The batter is mung-bean flour, millet flour and plain flour whisked with five-spice to a single-cream consistency and rested for an hour. On a hot flat griddle (or a wide non-stick pan), you ladle the batter and spread it thin with a wooden rake; an egg cracks onto the half-cooked crepe and gets smashed and spread; the crepe flips so the cooked side comes up; sweet bean sauce and chilli paste brush across; herbs and a crisp wonton sheet land on top; the whole thing folds into quarters. Eat warm by hand, walking, while it's still flexible and the egg is still soft inside.
 
 ## Ingredients
 

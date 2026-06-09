@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-The British classic of sausages sitting in a tall Yorkshire pudding, the dish invented to stretch sausages further on a wartime budget and turned into a household standard. You brown sausages in a heavy oven tin in dripping or oil until coloured all over, then pour in a simple egg-flour-milk batter (the Yorkshire pudding ratio: equal volumes of egg, milk and flour) around them. The fat must be smoking before the batter goes in, or the pudding will sit flat rather than rise into the golden cliffs that make the dish what it is. Twenty-five minutes in a screaming oven and the batter has climbed the sides of the tin into a craggy frame around the sausages buried in the middle. Eaten with onion gravy ladled into the dimples, peas on the side, on a winter Wednesday when the day needs lifting.
+The British classic of sausages sitting in a tall Yorkshire pudding, the dish invented to stretch sausages further on a wartime budget and turned into a household standard. You brown sausages in a heavy oven tin in dripping or oil until coloured all over, then pour in a simple egg-flour-milk batter (the Yorkshire pudding ratio: equal volumes of egg, milk and flour) around them. The fat must be smoking before the batter goes in, or the pudding will sit flat rather than rise into the golden cliffs that make the dish what it is. Twenty-five minutes in a screaming oven and the batter has climbed the sides of the tin into a craggy frame around the sausages buried in the middle. Eat with onion gravy ladled into the dimples, peas on the side, on a winter Wednesday when the day needs lifting.
 
 ## Ingredients
 

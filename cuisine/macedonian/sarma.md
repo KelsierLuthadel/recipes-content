@@ -2,7 +2,7 @@
 
 ![Sarma](resources/sarma.jpg)
 
-*North Macedonia's beloved cabbage roll: sour cabbage leaves wrapped around a filling of minced pork, rice, onion, paprika and herbs, layered with smoked meat in a deep pot, simmered for 2 hours till tender. The canonical Balkan winter dish; eaten at Christmas and family celebrations.*
+*North Macedonia's beloved cabbage roll: sour cabbage leaves wrapped around a filling of minced pork, rice, onion, paprika and herbs, layered with smoked meat in a deep pot, simmered for 2 hours till tender. The traditional Balkan winter dish; eaten at Christmas and family celebrations.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Sarma is a Balkan-wide tradition, but the Macedonian version distinguishes itself: sour cabbage (preserved whole heads of fermented cabbage) is the canonical wrapper (rather than fresh cabbage or grape leaves); the filling combines minced pork (or pork-and-beef) with rice, sweated onion, sweet paprika, salt, pepper, and dried mint; the rolls are layered in a deep pot with pieces of smoked dried pork or sausage between layers; the pot is filled with stock and simmered slowly for 2 hours. Served with sour cream and crusty bread.
+Sarma is a Balkan-wide tradition, but the Macedonian version distinguishes itself: sour cabbage (preserved whole heads of fermented cabbage) is the traditional wrapper (rather than fresh cabbage or grape leaves); the filling combines minced pork (or pork-and-beef) with rice, sweated onion, sweet paprika, salt, pepper, and dried mint; the rolls are layered in a deep pot with pieces of smoked dried pork or sausage between layers; the pot is filled with stock and simmered slowly for 2 hours. Served with sour cream and crusty bread.
 
 ## Ingredients
 
@@ -52,7 +52,7 @@ Sarma is a Balkan-wide tradition, but the Macedonian version distinguishes itsel
 10. Serve hot with sour cream and bread.
 
 ## Notes
-- **Sour cabbage is canonical:** the fermentation adds the right tang. Fresh parboiled cabbage works as substitute.
+- **Sour cabbage is traditional:** the fermentation adds the right tang. Fresh parboiled cabbage works as substitute.
 - **Pack tight:** rolls should not float.
 - **Weight on top:** keeps the rolls submerged.
 

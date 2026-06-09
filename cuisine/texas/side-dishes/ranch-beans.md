@@ -2,7 +2,7 @@
 
 ![Ranch Beans](resources/ranch-beans.jpg)
 
-*Texas's pinto bean stew: dried pinto beans slow-cooked with bacon, onion, garlic, jalapeños, tomato, and a touch of chili powder into a deeply savoury brown bean stew. The canonical Texas barbecue side, the bean that goes alongside every brisket plate.*
+*Texas's pinto bean stew: dried pinto beans slow-cooked with bacon, onion, garlic, jalapeños, tomato, and a touch of chili powder into a deeply savoury brown bean stew. The traditional Texas barbecue side, the bean that goes alongside every brisket plate.*
 
 **Serves:** 6-8
 
@@ -63,7 +63,7 @@ Ranch beans (also called "Texas pinto beans" or "borracho beans" when made with 
 1. Ladle into bowls or alongside Texas barbecue.
 
 ## Notes
-- **Pinto beans canonical:** Texas standard.
+- **Pinto beans traditional:** Texas standard.
 - **Bacon and fat:** essential for proper flavour.
 - **Beer makes it "borracho":** drunken beans.
 - **Slow-cook properly:** 2 hours.

@@ -2,7 +2,7 @@
 
 ![Cheese Straws](resources/cheese-straws.jpg)
 
-*These iconic, elegant appetizers are perfect nibbles with an aperitif or served alongside a light consommé or soup. Golden, crispy pastry ribbons are twisted to create visual appeal while the cheese and paprika create savory, peppery flavor. Warm from the oven, they're irresistible.*
+*The drinks-tray nibble: puff-pastry ribbons twisted with grated cheese and paprika, baked till golden and shatteringly crisp. Eat warm with an aperitif or alongside a light consommé.*
 
 **Prep Time:** 30 minutes
 
@@ -11,7 +11,7 @@
 **Yield:** 24 cheese straws
 
 ## Overview
-Cheese straws are the simplest of cold appetizers: store-bought puff pastry brushed with egg wash, lavished with grated cheese, dusted with paprika, cut into strips, twisted for visual interest, and crisped in a hot oven. The result is a crackle-crispy pastry ribbon with the savory flavor of cheese and the subtle heat of paprika. The key to success is using store-bought puff pastry (which saves enormous time) with proper thickness rolling, ensuring even cheese coverage, and twisting each straw to ensure even baking. These are best served still warm from the oven; cold cheese straws become limp and uninteresting.
+Cheese straws are the British drinks-tray nibble at its simplest, the kind of bake that turns up at every garden party, drinks reception and Christmas-evening sherry hour from London to Edinburgh, sold in tins at Fortnum's and made fresh in domestic kitchens with a bought block of puff pastry and a bit of grated cheese. You roll a sheet of ready-made puff pastry thin, brush it with egg wash, lavish the top with grated mature cheddar (or a cheddar-parmesan mix for the savoury depth), dust with paprika and a little cayenne, then cut into long strips. Each strip gets a couple of twists between the fingers before it goes onto the tray; the twist is what gives the proper visual ribbon and stops the cheese sliding off in the bake. A short blast in a hot oven crisps them to shatter-gold within minutes. Eat warm with cold sherry or a glass of fizz; cold cheese straws go limp within an hour, so make them as the guests arrive.
 
 ## Ingredients
 

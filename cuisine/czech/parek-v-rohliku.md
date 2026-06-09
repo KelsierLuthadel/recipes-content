@@ -69,7 +69,7 @@ The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot
 - **Mustard + ketchup INSIDE the cavity:** they coat the sausage as it slides in, not on top.
 - **Czech-style mustard:** sharp, vinegar-tangy. Yellow American mustard is a substitute.
 - **Eat from the closed end:** the sealed end keeps the structure intact till the last bite.
-- **No napkin needed:** the canonical Czech eating geometry.
+- **No napkin needed:** the traditional Czech eating geometry.
 
 ## Variations
 **With horseradish:** swap mustard for horseradish cream (křen).

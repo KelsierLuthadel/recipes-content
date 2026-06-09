@@ -11,7 +11,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sunday-family classic across the island and the diaspora. Bone-in chicken pieces brown in olive oil, then slow-cook with medium-grain rice in a base of sofrito Cubano, sliced bell peppers, tomato sauce, sazón, saffron (or Bijol, the Cuban yellow seasoning), peas, sliced olives and capers. The canonical Cuban touch is the splash of light lager beer in the cooking liquid; it gives a malty depth that distinguishes the dish from its Puerto Rican cousin. The other differences from the PR version are saffron or Bijol rather than achiote for colour, and a slightly drier final texture, less brothy. Medium-grain rice (Bomba or Calrose) is the Cuban preference, slightly stickier than long-grain and more absorbent. Served family-style from the pot with sliced avocado, lime wedges and a small salad.
+Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sunday-family classic across the island and the diaspora. Bone-in chicken pieces brown in olive oil, then slow-cook with medium-grain rice in a base of sofrito Cubano, sliced bell peppers, tomato sauce, sazón, saffron (or Bijol, the Cuban yellow seasoning), peas, sliced olives and capers. The traditional Cuban touch is the splash of light lager beer in the cooking liquid; it gives a malty depth that distinguishes the dish from its Puerto Rican cousin. The other differences from the PR version are saffron or Bijol rather than achiote for colour, and a slightly drier final texture, less brothy. Medium-grain rice (Bomba or Calrose) is the Cuban preference, slightly stickier than long-grain and more absorbent. Served family-style from the pot with sliced avocado, lime wedges and a small salad.
 
 ## Ingredients
 
@@ -110,7 +110,7 @@ Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sund
 4. Serve family-style from the pot with sliced avocado, lime wedges and a fresh salad.
 
 ## Notes
-- **Beer in the cooking:** the canonical Cuban touch. Light lager (Cristal if you can find it; or any light Mexican/American lager). Don't substitute with dark beer.
+- **Beer in the cooking:** the traditional Cuban touch. Light lager (Cristal if you can find it; or any light Mexican/American lager). Don't substitute with dark beer.
 - **Saffron or Bijol:** for the proper yellow colour. Bijol is the easy Cuban substitute available at Latin markets.
 - **Medium-grain rice:** gives the proper Cuban texture. Long-grain works as substitute.
 - **Don't lift the lid:** the rice cooks by absorption-and-steam. 30 minutes covered, then 10 minutes resting.
@@ -119,7 +119,7 @@ Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sund
 ## Variations
 **With chorizo:** add 200 g of sliced chorizo to the pot in stage 3; gives a richer fattier version.
 **With seafood (arroz con pollo y mariscos):** add 200 g of cooked shrimp in the last 5 minutes; turns the dish into a paella-leaning special-occasion meal.
-**Without beer (kid-friendly):** swap the beer for 350 ml of chicken stock; less canonical but works for children.
+**Without beer (kid-friendly):** swap the beer for 350 ml of chicken stock; less traditional but works for children.
 **Vegetarian (arroz amarillo Cubano):** skip the chicken; use vegetable stock; add 1 tin of chickpeas + extra vegetables. The rice is the star.
 
 ## Serving

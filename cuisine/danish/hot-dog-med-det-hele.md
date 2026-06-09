@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det hele" - "with the works" - when ordered fully loaded) is one of Europe's great street foods and the national hot dog of Denmark, sold from the iconic pølsevogn (sausage wagon) carts that have stood on Copenhagen and Aarhus street corners since the 1920s. The defining elements are three: the sausage (a long red wienerwurst - the "rød pølse" or red sausage, dyed bright red with food colouring and slightly smoky-sweet); the bun (a soft white slightly-sweet pølsebrød bun, longer than American buns and slightly oval-shaped); and the topping set - the canonical "med det hele" stack of yellow mustard, Heinz ketchup, Danish remoulade (the yellow herb-and-pickle Danish mayonnaise-based sauce that's a national obsession), chopped raw white onion, crispy fried onion bits (ristede løg, the Danish onion sprinkle sold in cardboard tubes in every supermarket), and a row of sliced sweet pickle (agurkesalat - Danish cucumber salad pickles). The result is layered, saucy, oniony, sweet-tangy.
+The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det hele" - "with the works" - when ordered fully loaded) is one of Europe's great street foods and the national hot dog of Denmark, sold from the iconic pølsevogn (sausage wagon) carts that have stood on Copenhagen and Aarhus street corners since the 1920s. The defining elements are three: the sausage (a long red wienerwurst - the "rød pølse" or red sausage, dyed bright red with food colouring and slightly smoky-sweet); the bun (a soft white slightly-sweet pølsebrød bun, longer than American buns and slightly oval-shaped); and the topping set - the traditional "med det hele" stack of yellow mustard, Heinz ketchup, Danish remoulade (the yellow herb-and-pickle Danish mayonnaise-based sauce that's a national obsession), chopped raw white onion, crispy fried onion bits (ristede løg, the Danish onion sprinkle sold in cardboard tubes in every supermarket), and a row of sliced sweet pickle (agurkesalat - Danish cucumber salad pickles). The result is layered, saucy, oniony, sweet-tangy.
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det
 - 4 tablespoons sweet pickle relish (or finely chopped sweet gherkins)
 - 2 tablespoons capers (finely chopped)
 - 2 tablespoons Dijon mustard
-- 2 tablespoons curry powder (the yellow colour comes from this; canonical)
+- 2 tablespoons curry powder (the yellow colour comes from this; traditional)
 - 1 tablespoon white vinegar
 - 1 teaspoon caster sugar
 - 1 small bunch fresh tarragon (chopped; or 1 teaspoon dried)
@@ -54,7 +54,7 @@ The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det
 ### Stage 2 - Cook the sausages
 1. Heat the vegetable oil in a wide pan over medium-high heat.
 2. Cook the wienerwurst 6-8 minutes, turning, till lightly browned with slightly split casing.
-3. Alternative (canonical pølsevogn method): boil in a pan of water 5 minutes; for the grilled version, finish 2 minutes in a hot dry pan for char marks.
+3. Alternative (traditional pølsevogn method): boil in a pan of water 5 minutes; for the grilled version, finish 2 minutes in a hot dry pan for char marks.
 
 ### Stage 3 - Warm the buns
 1. Briefly steam buns over hot water 30 seconds till soft (or microwave wrapped in damp paper towel 15 seconds).
@@ -74,10 +74,10 @@ The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det
 3. A cold Danish beer.
 
 ## Notes
-- **Red sausage:** the canonical Danish look; sub with regular sausage tinted with a few drops of red food colouring if needed.
+- **Red sausage:** the traditional Danish look; sub with regular sausage tinted with a few drops of red food colouring if needed.
 - **Danish remoulade is yellow, not white:** the curry powder is the colour and the Danish signature.
-- **BOTH chopped raw AND crispy fried onions:** double-onion is canonical.
-- **Sweet pickle slices in a row:** the canonical Danish topping.
+- **BOTH chopped raw AND crispy fried onions:** double-onion is traditional.
+- **Sweet pickle slices in a row:** the traditional Danish topping.
 - **Stand at the cart:** the pølsevogn ritual.
 
 ## Variations

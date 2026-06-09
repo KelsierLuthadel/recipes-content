@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Calabacitas (literally "little squashes") is the iconic Southwest vegetable side and a New Mexico-Pueblo classic: cubes of zucchini and yellow summer squash sautéed with sweet corn kernels (fresh in season, frozen otherwise), chopped onion, crushed garlic, roasted-and-peeled green chillies (Hatch chiles or Anaheim), and a touch of cream and grated Monterey Jack cheese for the canonical Southwest creamy finish. The dish is vegetarian (or vegan without the cheese), takes 25 minutes, and is the canonical Pueblo-Southwest vegetable preparation. Distinct from the Mexican calabacitas (which doesn't typically include cream); the Southwestern New Mexican version adds the dairy for richness.
+Calabacitas (literally "little squashes") is the iconic Southwest vegetable side and a New Mexico-Pueblo classic: cubes of zucchini and yellow summer squash sautéed with sweet corn kernels (fresh in season, frozen otherwise), chopped onion, crushed garlic, roasted-and-peeled green chillies (Hatch chiles or Anaheim), and a touch of cream and grated Monterey Jack cheese for the traditional Southwest creamy finish. The dish is vegetarian (or vegan without the cheese), takes 25 minutes, and is the traditional Pueblo-Southwest vegetable preparation. Distinct from the Mexican calabacitas (which doesn't typically include cream); the Southwestern New Mexican version adds the dairy for richness.
 
 ## Ingredients
 

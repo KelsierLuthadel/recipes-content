@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Carousel Bakery stall in St. Lawrence Market in 1996 and now the city's most-photographed lunch. The construction sits between an American "Canadian bacon" sandwich and a British bacon butty. The bacon itself is the key distinction; peameal is not American "Canadian bacon" (which is smoked). It's an unsmoked, wet-cured boneless pork loin trimmed of all fat and rolled in fine yellow cornmeal, and the 19th-century cornmeal coating is what gave the bacon its preservative dry shell and its name. The slice thickness matters; 6 mm on a deli slicer is the canonical Toronto cut, where thinner gives papery curls and thicker gives a chewy plank. This is not crispy bacon (pan-fried only till golden and just heated through); the texture is tender, juicy and pork-loin-like, much closer to ham than to streaky breakfast bacon. A fresh kaiser roll barely toasted is the right bread, with yellow mustard the canonical condiment; tomato and lettuce are optional. A whole sour pickle on the side.
+The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Carousel Bakery stall in St. Lawrence Market in 1996 and now the city's most-photographed lunch. The construction sits between an American "Canadian bacon" sandwich and a British bacon butty. The bacon itself is the key distinction; peameal is not American "Canadian bacon" (which is smoked). It's an unsmoked, wet-cured boneless pork loin trimmed of all fat and rolled in fine yellow cornmeal, and the 19th-century cornmeal coating is what gave the bacon its preservative dry shell and its name. The slice thickness matters; 6 mm on a deli slicer is the traditional Toronto cut, where thinner gives papery curls and thicker gives a chewy plank. This is not crispy bacon (pan-fried only till golden and just heated through); the texture is tender, juicy and pork-loin-like, much closer to ham than to streaky breakfast bacon. A fresh kaiser roll barely toasted is the right bread, with yellow mustard the traditional condiment; tomato and lettuce are optional. A whole sour pickle on the side.
 
 ## Ingredients
 
@@ -58,9 +58,9 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 
 ## Notes
 - **Peameal is not bacon as you might know it:** it's a cured, cornmeal-rolled, unsmoked pork loin. The name "bacon" is a North American convention but the texture is closer to a juicy pork chop than to crispy strip bacon.
-- **6 mm slices is the canonical thickness:** thin slices dry out; thick slices don't cook through evenly. 6 mm is the sweet spot.
+- **6 mm slices is the traditional thickness:** thin slices dry out; thick slices don't cook through evenly. 6 mm is the sweet spot.
 - **Don't over-cook:** peameal is best at 60-65°C internal - just-cooked-through, still juicy. Past 70°C and the meat goes tough.
-- **Yellow mustard, not Dijon:** the canonical Toronto condiment is French's yellow. Dijon is too sharp; honey-mustard is too sweet.
+- **Yellow mustard, not Dijon:** the traditional Toronto condiment is French's yellow. Dijon is too sharp; honey-mustard is too sweet.
 - **Fresh kaiser roll:** the Polish-Canadian soft white round roll. Day-old rolls go limp. Buy fresh, eat within 6 hours of purchase.
 - **No mayo, no relish:** the Carousel Bakery purist version is just peameal + mustard. Adding mayo, cheese, ranch, or chipotle sauce is a personal choice; defenders of the tradition would object.
 
@@ -76,7 +76,7 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 **Vegan "peameal" (recent):** seitan dough rolled in cornmeal, brined, slow-cooked, pan-fried. Surprisingly close in texture.
 
 ## Serving
-At the Carousel Bakery stall in Toronto's St. Lawrence Market (the canonical setting; the location where the modern peameal-sandwich tradition was established in 1996) · at a Toronto diner or deli at lunchtime · at a CFL Toronto Argonauts football game · at the Canadian National Exhibition (CNE) · at a Toronto-themed Canadian celebration · at home as a Saturday-morning brunch · paired with a glass of Canadian Caesar cocktail or a strong coffee.
+At the Carousel Bakery stall in Toronto's St. Lawrence Market (the traditional setting; the location where the modern peameal-sandwich tradition was established in 1996) · at a Toronto diner or deli at lunchtime · at a CFL Toronto Argonauts football game · at the Canadian National Exhibition (CNE) · at a Toronto-themed Canadian celebration · at home as a Saturday-morning brunch · paired with a glass of Canadian Caesar cocktail or a strong coffee.
 
 ## Storage
 - Best assembled and eaten immediately. The roll goes soggy from the mustard within 30 minutes.

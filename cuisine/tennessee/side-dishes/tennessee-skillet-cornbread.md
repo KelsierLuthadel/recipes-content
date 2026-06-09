@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Tennessee skillet cornbread is the canonical Southern cornbread style (less sweet than Northern cornbread; more cornmeal than flour; cast-iron skillet for the crust): yellow cornmeal as the dominant grain, with just enough plain flour to bind, leavened with baking powder + baking soda, mixed with buttermilk, egg, melted butter (or bacon fat), and a pinch of sugar (some Tennessee purists insist on NO sugar; others allow a teaspoon). Poured into a screaming-hot cast-iron skillet that has been preheated with a generous slick of bacon fat or butter, baked at 220°C for 20-25 minutes till the crust is deeply golden and crispy and the inside is soft and moist. Served warm with butter; alongside BBQ, beans, fried chicken, greens.
+Tennessee skillet cornbread is the traditional Southern cornbread style (less sweet than Northern cornbread; more cornmeal than flour; cast-iron skillet for the crust): yellow cornmeal as the dominant grain, with just enough plain flour to bind, leavened with baking powder + baking soda, mixed with buttermilk, egg, melted butter (or bacon fat), and a pinch of sugar (some Tennessee purists insist on NO sugar; others allow a teaspoon). Poured into a screaming-hot cast-iron skillet that has been preheated with a generous slick of bacon fat or butter, baked at 220°C for 20-25 minutes till the crust is deeply golden and crispy and the inside is soft and moist. Served warm with butter; alongside BBQ, beans, fried chicken, greens.
 
 ## Ingredients
 
@@ -66,7 +66,7 @@ Tennessee skillet cornbread is the canonical Southern cornbread style (less swee
 
 ## Notes
 - **Screaming-hot skillet:** for proper crust.
-- **Bacon fat canonical:** flavour and crust.
+- **Bacon fat traditional:** flavour and crust.
 - **Less sweet than Northern.**
 - **Don't overmix:** keeps it tender.
 

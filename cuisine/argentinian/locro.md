@@ -2,7 +2,7 @@
 
 ![Locro](resources/locro.jpg)
 
-*Argentina's national holiday stew: a thick winter pottage of dried hominy corn, white beans, several cuts of pork and beef (chorizo, panceta, pork shoulder, beef shin), squash, and a slow simmer. Eaten on Argentine national holidays (25 May Revolución, 9 July Independence Day, 17 August Death of San Martín). Pre-Columbian Andean roots adapted to colonial Spanish meats. Deep amber, fork-tender, served with quiquirimichi (spicy red oil) drizzled over.*
+*Argentina's national holiday stew: a thick winter pottage of dried hominy corn, white beans, several cuts of pork and beef (chorizo, panceta, pork shoulder, beef shin), squash, and a slow simmer. Eat on Argentine national holidays (25 May Revolución, 9 July Independence Day, 17 August Death of San Martín). Pre-Columbian Andean roots adapted to colonial Spanish meats. Deep amber, fork-tender, served with quiquirimichi (spicy red oil) drizzled over.*
 
 **Serves:** 8-10
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3-4 hours
 
 ## Overview
-Locro is one of Argentina's most ancient dishes: a pre-Columbian Andean stew of corn, beans and squash that the colonial Spanish then layered with pork and beef. The resulting fusion became the canonical Argentine winter holiday dish, eaten with near-religious devotion on the three patriotic holidays (25 May, 9 July, 17 August) and on other cold winter days. Dried hominy (maíz blanco partido, sometimes mote) is soaked overnight, then simmered three or four hours with white beans, multiple cured and fresh meats (panceta, chorizo colorado, pork shoulder, beef shin or oxtail), butternut squash, sweet potato, onion, garlic and dried red peppers. The long simmer breaks down the corn into thick creamy starch, the meats fall apart and the squash dissolves into the broth. The canonical finish is a small drizzle of quiquirimichi at the table: a hot oil of rendered pork fat, paprika, chilli flakes and chopped spring onions.
+Locro is one of Argentina's most ancient dishes: a pre-Columbian Andean stew of corn, beans and squash that the colonial Spanish then layered with pork and beef. The resulting fusion became the traditional Argentine winter holiday dish, eaten with near-religious devotion on the three patriotic holidays (25 May, 9 July, 17 August) and on other cold winter days. Dried hominy (maíz blanco partido, sometimes mote) is soaked overnight, then simmered three or four hours with white beans, multiple cured and fresh meats (panceta, chorizo colorado, pork shoulder, beef shin or oxtail), butternut squash, sweet potato, onion, garlic and dried red peppers. The long simmer breaks down the corn into thick creamy starch, the meats fall apart and the squash dissolves into the broth. The traditional finish is a small drizzle of quiquirimichi at the table: a hot oil of rendered pork fat, paprika, chilli flakes and chopped spring onions.
 
 ## Ingredients
 
@@ -103,7 +103,7 @@ Locro is one of Argentina's most ancient dishes: a pre-Columbian Andean stew of 
 ## Notes
 - **Soak corn and beans overnight:** non-negotiable. Without soaking, the corn stays hard.
 - **Long slow simmer:** 3-4 hours minimum. The corn breaks down slowly; rushing gives undercooked corn.
-- **Quiquirimichi is the canonical finish:** the spicy red oil drizzle. Without it, locro is a soup; with it, it's a complete dish.
+- **Quiquirimichi is the traditional finish:** the spicy red oil drizzle. Without it, locro is a soup; with it, it's a complete dish.
 - **Multiple meats:** pork belly + chorizo + pork shoulder + beef shin. Don't simplify; the meat variety is the depth.
 - **Thick consistency:** the locro should be thick enough to stand a spoon in. Soupy locro is incorrect.
 
@@ -114,14 +114,14 @@ Locro is one of Argentina's most ancient dishes: a pre-Columbian Andean stew of 
 **Locro porteño (Buenos Aires version):** lighter on the corn; heavier on beef; faster cooking (2 hours).
 **Locro norteño (northwest variant):** uses dried chillies (ají amarillo) instead of paprika; spicier; lighter colour.
 **Locro andino:** with quinoa added in the last hour; pre-Hispanic touch.
-**Slow-cooker locro:** all ingredients in a slow cooker on low for 10 hours. Less canonical but works for busy households.
+**Slow-cooker locro:** all ingredients in a slow cooker on low for 10 hours. Less traditional but works for busy households.
 
 ## Serving
-On the three Argentine patriotic holidays: 25 May (Revolution), 9 July (Independence), 17 August (Death of San Martín) - the canonical settings · at an Argentine winter Sunday lunch · at a Mendoza or Salta family dinner · at an Argentine harvest festival · at a Buenos Aires bodegón as the winter weekly special · at home with a bottle of Malbec on a cold winter evening.
+On the three Argentine patriotic holidays: 25 May (Revolution), 9 July (Independence), 17 August (Death of San Martín) - the traditional settings · at an Argentine winter Sunday lunch · at a Mendoza or Salta family dinner · at an Argentine harvest festival · at a Buenos Aires bodegón as the winter weekly special · at home with a bottle of Malbec on a cold winter evening.
 
 ## Storage
 - Refrigerates 4 days; the flavour improves on day 2.
 - Freezes 3 months; defrost overnight before reheating.
 - Reheat gently with a splash of water if too thick.
-- Leftover locro is the canonical second-day Argentine meal.
+- Leftover locro is the traditional second-day Argentine meal.
 - The quiquirimichi keeps 2 weeks refrigerated; make extra.

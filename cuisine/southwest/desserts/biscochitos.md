@@ -17,7 +17,7 @@ Biscochitos are New Mexico's iconic anise-cinnamon shortbread cookies and the of
 
 ### Dough
 - 500 g plain flour
-- 200 g lard (or unsalted butter; the lard version is canonical New Mexican)
+- 200 g lard (or unsalted butter; the lard version is traditional New Mexican)
 - 200 g caster sugar
 - 1 large egg
 - 4 tablespoons brandy (or whiskey)
@@ -69,13 +69,13 @@ Biscochitos are New Mexico's iconic anise-cinnamon shortbread cookies and the of
 2. Serve with strong coffee, hot chocolate or champagne.
 
 ## Notes
-- **Lard canonical:** for proper texture.
+- **Lard traditional:** for proper texture.
 - **Whole anise seeds:** distinct from ground.
 - **Don't overbake:** pale gold.
 - **Coat warm:** so the sugar adheres.
 
 ## Variations
-**Butter version:** swap lard for butter; less canonical but accessible.
+**Butter version:** swap lard for butter; less traditional but accessible.
 **Larger biscochitos:** roll thicker; cut larger.
 **Without brandy:** use orange juice for non-alcoholic version.
 **Iced biscochitos:** dip in a simple icing instead of cinnamon sugar.

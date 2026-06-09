@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Louisiana fried catfish is one of the South's most iconic fish dishes and the centrepiece of Cajun-Creole Friday fish fries (and Lent meals): farm-raised or wild catfish fillets dipped in buttermilk, dredged in a seasoned cornmeal-and-flour mixture (cornmeal is canonical and gives the proper crackly texture; flour alone or panko gives the wrong result), then deep-fried in lard or oil till the crust is deeply golden and crispy. Served with hush puppies (the canonical fried cornbread balls), cole slaw, French fries, lemon wedges, and remoulade sauce or tartar sauce.
+Louisiana fried catfish is one of the South's most iconic fish dishes and the centrepiece of Cajun-Creole Friday fish fries (and Lent meals): farm-raised or wild catfish fillets dipped in buttermilk, dredged in a seasoned cornmeal-and-flour mixture (cornmeal is traditional and gives the proper crackly texture; flour alone or panko gives the wrong result), then deep-fried in lard or oil till the crust is deeply golden and crispy. Served with hush puppies (the traditional fried cornbread balls), cole slaw, French fries, lemon wedges, and remoulade sauce or tartar sauce.
 
 ## Ingredients
 
@@ -75,14 +75,14 @@ Louisiana fried catfish is one of the South's most iconic fish dishes and the ce
 2. Remoulade alongside; lemon wedges.
 
 ## Notes
-- **Cornmeal essential:** the canonical crust.
+- **Cornmeal essential:** the traditional crust.
 - **180°C oil:** crucial for proper crust.
 - **Eat immediately:** crust softens.
 
 ## Variations
 **Blackened version:** coat in Cajun spice mix; pan-sear in cast iron (not deep-fried).
 **Air-fried:** lighter; not as crispy.
-**With panko:** less canonical; non-traditional.
+**With panko:** less traditional; non-traditional.
 **Whole catfish:** scale and gut; fry whole.
 
 ## Serving

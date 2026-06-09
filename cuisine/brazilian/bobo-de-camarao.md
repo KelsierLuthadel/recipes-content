@@ -98,7 +98,7 @@ Bobó de camarão is one of Bahia's most luxurious and most distinctly African-B
 5. Drink cold beer alongside.
 
 ## Notes
-- **Fresh cassava is canonical:** frozen cassava (defrosted) works perfectly well. Cassava flour does NOT work - it's not a substitute.
+- **Fresh cassava is traditional:** frozen cassava (defrosted) works perfectly well. Cassava flour does NOT work - it's not a substitute.
 - **Pull out the fibrous centre:** every cassava chunk has a woody central fibre. Remove it before cooking.
 - **Dendê oil is the dish:** without it, the bobó has no Bahian character. Don't substitute.
 - **Coconut milk full-fat:** light coconut milk gives a thin, watery bobó.
@@ -114,7 +114,7 @@ Bobó de camarão is one of Bahia's most luxurious and most distinctly African-B
 **Bobó de feijão verde (green-bean bobó variant):** add 200 g cooked green beans to the cream for texture.
 
 ## Serving
-At a Salvador beachfront restaurant in Bahia (the canonical setting) · at a Bahian wedding reception · at a Brazilian Carnival lunch · at a Brazilian seafood-restaurant special · at a Brazilian Sunday family lunch in the north-east · at a Brazilian-themed dinner party as a stunning Bahian showpiece · at home with rice, farofa, and cold beer.
+At a Salvador beachfront restaurant in Bahia (the traditional setting) · at a Bahian wedding reception · at a Brazilian Carnival lunch · at a Brazilian seafood-restaurant special · at a Brazilian Sunday family lunch in the north-east · at a Brazilian-themed dinner party as a stunning Bahian showpiece · at home with rice, farofa, and cold beer.
 
 ## Storage
 - Refrigerates 2 days; reheat gently with a splash of stock to loosen.

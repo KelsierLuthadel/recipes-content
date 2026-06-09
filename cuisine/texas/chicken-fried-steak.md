@@ -2,7 +2,7 @@
 
 ![Chicken-Fried Steak](resources/chicken-fried-steak.jpg)
 
-*Texas's diner classic: a tenderised cube steak dredged in seasoned flour, dipped in egg, dredged again, and pan-fried in oil till the outside is deeply crispy and the inside stays tender. Smothered in white cream gravy made from the pan drippings. The Texas diner standard, the canonical "Texas plate".*
+*Texas's diner classic: a tenderised cube steak dredged in seasoned flour, dipped in egg, dredged again, and pan-fried in oil till the outside is deeply crispy and the inside stays tender. Smothered in white cream gravy made from the pan drippings. The Texas diner standard, the traditional "Texas plate".*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken-fried steak (CFS, or country-fried steak in some Southern states) is Texas's quintessential diner dish and one of the most beloved working-class meals in the state: a tenderised cube steak dredged in seasoned flour, dipped in egg, dredged again for a double-coat crispy crust, then pan-fried till the outside is deeply golden and the inside stays tender. Smothered in white cream gravy made from the pan drippings, served with mashed potatoes (also smothered in gravy), buttered green beans and a hot biscuit on the side. Roots in German and Austrian immigrants in Texas (the technique resembles Wiener schnitzel) but thoroughly Texan by the 20th century. Cube steak is essential; the pre-tenderised cut gives the proper texture after pounding. The double coat (flour, egg, flour) is non-negotiable; single coat falls off in the pan. The white cream gravy is canonical Texas; not red sauce, not brown gravy.
+Chicken-fried steak (CFS, or country-fried steak in some Southern states) is Texas's quintessential diner dish and one of the most beloved working-class meals in the state: a tenderised cube steak dredged in seasoned flour, dipped in egg, dredged again for a double-coat crispy crust, then pan-fried till the outside is deeply golden and the inside stays tender. Smothered in white cream gravy made from the pan drippings, served with mashed potatoes (also smothered in gravy), buttered green beans and a hot biscuit on the side. Roots in German and Austrian immigrants in Texas (the technique resembles Wiener schnitzel) but thoroughly Texan by the 20th century. Cube steak is essential; the pre-tenderised cut gives the proper texture after pounding. The double coat (flour, egg, flour) is non-negotiable; single coat falls off in the pan. The white cream gravy is traditional Texas; not red sauce, not brown gravy.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Chicken-fried steak (CFS, or country-fried steak in some Southern states) is Tex
 - 4 tablespoons plain flour
 - 700 ml whole milk (warmed)
 - 2 teaspoons fine sea salt
-- 2 teaspoons coarse ground black pepper (use plenty; the canonical Texas style)
+- 2 teaspoons coarse ground black pepper (use plenty; the traditional Texas style)
 
 ### To serve
 - Mashed potatoes
@@ -83,7 +83,7 @@ Chicken-fried steak (CFS, or country-fried steak in some Southern states) is Tex
 3. Sprinkle the flour over the drippings; whisk constantly for 2 minutes to make a brown roux.
 4. Gradually pour in the warm milk, whisking continuously to prevent lumps.
 5. Cook 5-7 minutes till the gravy thickens to a creamy consistency.
-6. Add salt and (especially) plenty of black pepper; the canonical CFS gravy is heavily peppered.
+6. Add salt and (especially) plenty of black pepper; the traditional CFS gravy is heavily peppered.
 7. Taste; adjust salt.
 
 ### Stage 7 - Serve
@@ -96,14 +96,14 @@ Chicken-fried steak (CFS, or country-fried steak in some Southern states) is Tex
 ## Notes
 - **Cube steak essential:** pre-tenderised; without this, the meat is tough.
 - **Double-coat:** flour-egg-flour for crispy crust.
-- **White cream gravy from pan drippings:** canonical.
+- **White cream gravy from pan drippings:** traditional.
 - **Plenty of black pepper in the gravy:** the Texas signature.
 - **Wire rack for draining:** not paper.
 
 ## Variations
 **With sausage gravy:** swap pan drippings for crumbled cooked breakfast sausage; gives sausage gravy. Common variation.
 **Buttermilk version:** use buttermilk instead of milk for the gravy; gives slight tang.
-**Sweet tea variation (less canonical):** brush the cooked steak with sweet tea reduction; modern Texas variation.
+**Sweet tea variation (less traditional):** brush the cooked steak with sweet tea reduction; modern Texas variation.
 **Pork tenderloin chicken-fried (German-Texas):** swap beef for pork tenderloin pounded thin; closer to Wiener schnitzel.
 
 ## Serving

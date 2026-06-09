@@ -2,7 +2,7 @@
 
 ![Backhendl](resources/backhendl.jpg)
 
-*Vienna's bone-in fried chicken: a whole spatchcocked bird jointed into eight pieces, coated like a schnitzel and shallow-fried in clarified butter till the breadcrumbs puff into deep-gold folds. Eaten warm with lemon and potato salad at every Heuriger garden in the city.*
+*Vienna's bone-in fried chicken: a whole spatchcocked bird jointed into eight pieces, coated like a schnitzel and shallow-fried in clarified butter till the breadcrumbs puff into deep-gold folds. Eat warm with lemon and potato salad at every Heuriger garden in the city.*
 
 **Serves:** 4
 

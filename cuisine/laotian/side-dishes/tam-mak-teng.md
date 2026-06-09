@@ -2,7 +2,7 @@
 
 ![Tam Mak Teng](resources/tam-mak-teng.jpg)
 
-*Laos's lighter sister to tam mak hung: julienned green cucumber pounded in a tall clay mortar with garlic, bird's-eye chillies, palm sugar, lime juice, fish sauce, dried shrimp and chopped tomato. Brighter and fresher than the green-papaya version, the cucumber giving a clean cooling crunch beneath the same sour-spicy-funky dressing. Served alongside grilled meat, sai oua or laap; the canonical Lao late-summer salad when cucumbers are at their best.*
+*Laos's lighter sister to tam mak hung: julienned green cucumber pounded in a tall clay mortar with garlic, bird's-eye chillies, palm sugar, lime juice, fish sauce, dried shrimp and chopped tomato. Brighter and fresher than the green-papaya version, the cucumber giving a clean cooling crunch beneath the same sour-spicy-funky dressing. Served alongside grilled meat, sai oua or laap; the traditional Lao late-summer salad when cucumbers are at their best.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-pounded technique, same sour-spicy-funky dressing profile, but with green cucumber as the bulk vegetable instead of unripe papaya. The result is lighter, fresher and more clean-tasting, arguably better suited to Western palates since the cucumber is more familiar than green papaya. Long Asian or English cucumbers julienne into long matchstick shreds (don't deseed unless very watery; the seeds add texture). The pounding order matters: garlic and chilli first to a paste, tomato added and pounded to release juice, dried shrimp pounded briefly, then fish sauce, padaek, palm sugar and lime, and finally the cucumber added and pounded just till bruised and dressed. A brief five to ten minute rest lets the cucumber release some water and absorb the dressing. Eaten alongside grilled meat, sai oua or laap; the canonical Lao late-summer salad when cucumbers are at their best.
+Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-pounded technique, same sour-spicy-funky dressing profile, but with green cucumber as the bulk vegetable instead of unripe papaya. The result is lighter, fresher and more clean-tasting, arguably better suited to Western palates since the cucumber is more familiar than green papaya. Long Asian or English cucumbers julienne into long matchstick shreds (don't deseed unless very watery; the seeds add texture). The pounding order matters: garlic and chilli first to a paste, tomato added and pounded to release juice, dried shrimp pounded briefly, then fish sauce, padaek, palm sugar and lime, and finally the cucumber added and pounded just till bruised and dressed. A brief five to ten minute rest lets the cucumber release some water and absorb the dressing. Eat alongside grilled meat, sai oua or laap; the traditional Lao late-summer salad when cucumbers are at their best.
 
 ## Ingredients
 
@@ -67,7 +67,7 @@ Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-poun
 - **Coarse julienne:** 4 mm matchsticks. Finer shreds turn to slush quickly.
 - **Don't over-pound cucumber:** unlike papaya, cucumber bruises easily and becomes mushy.
 - **Eat within 30 minutes:** cucumber weeps water; the salad gets watery.
-- **Padaek is the canonical Lao signature:** without it, you've made Thai cucumber salad.
+- **Padaek is the traditional Lao signature:** without it, you've made Thai cucumber salad.
 
 ## Variations
 **Tam mak teng with hard-boiled egg:** add 2 hard-boiled egg quarters - the more substantial variant.
@@ -76,7 +76,7 @@ Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-poun
 **Spicier:** double the chillies.
 
 ## Serving
-At a Lao midday meal (the canonical setting) · alongside laap and sticky rice · at a Lao street stall · at a Lao New Year (Pi Mai) celebration · at home as a refreshing summer side · paired with sai oua or grilled fish.
+At a Lao midday meal (the traditional setting) · alongside laap and sticky rice · at a Lao street stall · at a Lao New Year (Pi Mai) celebration · at home as a refreshing summer side · paired with sai oua or grilled fish.
 
 ## Storage
 - Best within 30 minutes of making.

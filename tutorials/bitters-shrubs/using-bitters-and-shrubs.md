@@ -104,7 +104,7 @@ Both bitters and shrubs work in food:
 
 ## Pairing principles
 
-When pairing bitters or shrubs with spirits, the canonical principles:
+When pairing bitters or shrubs with spirits, the traditional principles:
 
 ### Bitters
 - **Aromatic** → whisky (any), bourbon, dark rum, brandy. Warm spirits.

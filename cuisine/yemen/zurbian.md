@@ -2,7 +2,7 @@
 
 ![Zurbian](resources/zurbian.jpg)
 
-*Yemen's spiced lamb biryani: basmati rice cooked through with marinated lamb, sliced potato, fresh tomato, fried onion, fresh herbs and the canonical Yemeni-Indian "hawaij" spice mix, slow-baked in a sealed pot till the rice goes layered and golden. The Hadhrami coast-to-Mukalla biryani that arrived from India and went thoroughly Yemeni.*
+*Yemen's spiced lamb biryani: basmati rice cooked through with marinated lamb, sliced potato, fresh tomato, fried onion, fresh herbs and the traditional Yemeni-Indian "hawaij" spice mix, slow-baked in a sealed pot till the rice goes layered and golden. The Hadhrami coast-to-Mukalla biryani that arrived from India and went thoroughly Yemeni.*
 
 **Serves:** 6
 
@@ -133,7 +133,7 @@ Zurbian is one of Yemen's most beloved festive dishes: a biryani-style spiced ri
 ## Variations
 **Chicken zurbian:** swap the lamb for whole chicken pieces; reduce cooking to 35 minutes. Common everyday Yemeni variation.
 **Hadhrami fish zurbian:** swap the lamb for firm white fish (kingfish, hamour, snapper); reduce cooking; add 1 tablespoon dried lime powder. Coastal Yemeni specialty.
-**Vegetable zurbian:** skip the meat; double the potatoes; add 200 g of chickpeas and 200 g of cubed pumpkin. Less canonical but works for vegetarian guests.
+**Vegetable zurbian:** skip the meat; double the potatoes; add 200 g of chickpeas and 200 g of cubed pumpkin. Less traditional but works for vegetarian guests.
 **Spicier zurbian:** double the hawaij; add 2 small green chillies to the lamb cooking; finish with sahawiq (Yemeni chilli sauce). Properly fierce variation.
 
 ## Serving

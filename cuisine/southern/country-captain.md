@@ -88,10 +88,10 @@ Country Captain is one of the South's most distinctive dishes and reflects the h
 3. Mango chutney, lime, coriander on side.
 
 ## Notes
-- **Curry powder canonical:** the colonial-era spice mix.
+- **Curry powder traditional:** the colonial-era spice mix.
 - **Raisins and almonds:** the Anglo-Indian touch.
 - **Slow-cook properly:** 50 min for tender chicken.
-- **Mango chutney essential:** the canonical accompaniment.
+- **Mango chutney essential:** the traditional accompaniment.
 
 ## Variations
 **With coconut milk:** add 200 ml coconut milk; gives a richer creamier version.

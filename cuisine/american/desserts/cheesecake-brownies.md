@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes (plus 4 hours chilling)
 
 ## Overview
-Two mixtures, one tin. The brownie batter goes in first: dark chocolate and butter melted, sugar and eggs whisked light, folded together with flour and cocoa. The cheesecake topping is full-fat cream cheese beaten with sugar, an egg yolk, vanilla and a squeeze of lemon - the lemon keeps the white layer bright against the brown. Spooned over the brownie in dollops, then dragged through with a knife to make figure-eight ribbons. Baked low and slow so the cheesecake sets without browning much; cooled fully before slicing.
+Cheesecake brownies are the American bake-sale and dinner-party crowd-pleaser, a fudgy dark-chocolate brownie marbled with a ribbon of sweetened cream cheese that bakes into a striped slab where every square reads two desserts in one. You build the brownie batter first (dark chocolate and butter melted, sugar and eggs whisked light, folded together with flour and cocoa) and tip it into the tin. The cheesecake topping is full-fat cream cheese beaten with sugar, an egg yolk, vanilla and a squeeze of lemon; the lemon is the small trick that keeps the white layer bright against the dark brown rather than tipping yellow. Drop the cheesecake mix over the brownie in spoonfuls and drag a knife through in figure-eights for the marbled top. Bake low and slow so the cheesecake sets pale rather than tanning, then cool fully before slicing or the layers blur into one another. Eat cold from the fridge, in thick squares.
 
 ## Ingredients
 

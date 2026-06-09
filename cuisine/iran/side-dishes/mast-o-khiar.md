@@ -2,7 +2,7 @@
 
 ![Mast-o-Khiar](resources/mast-o-khiar.jpg)
 
-*Persian yogurt-cucumber side: thick strained yogurt with finely-diced cucumber, dried mint, walnut pieces, raisins, dried rose petals and a pinch of salt and pepper. Eaten as a side to any Persian meal or as a starter with bread. Less garlicky than its Greek cousin tzatziki, more about herbs, nuts and dried fruit.*
+*Persian yogurt-cucumber side: thick strained yogurt with finely-diced cucumber, dried mint, walnut pieces, raisins, dried rose petals and a pinch of salt and pepper. Eat as a side to any Persian meal or as a starter with bread. Less garlicky than its Greek cousin tzatziki, more about herbs, nuts and dried fruit.*
 
 **Serves:** 4 as a side
 

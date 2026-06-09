@@ -145,6 +145,6 @@ Once you've made fresh tortillas, the supermarket version becomes a disappointme
 
 ## Flour tortillas (a brief note)
 
-Northern Mexico (and increasingly cosmopolitan Mexico City) uses flour tortillas — wheat flour + lard + water + salt — particularly for burritos and certain quesadillas. Flour tortillas are easier to make at home (no nixtamal, just wheat dough). But the **corn tortilla is the canonical Mexican tortilla**. The flour tortilla is regional and modern.
+Northern Mexico (and increasingly cosmopolitan Mexico City) uses flour tortillas — wheat flour + lard + water + salt — particularly for burritos and certain quesadillas. Flour tortillas are easier to make at home (no nixtamal, just wheat dough). But the **corn tortilla is the traditional Mexican tortilla**. The flour tortilla is regional and modern.
 
 This course focuses on corn.

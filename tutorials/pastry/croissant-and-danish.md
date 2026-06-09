@@ -162,7 +162,7 @@ Oven shelf too low, or fan oven blasting the top with cool air. Move to the midd
 - [Puff and Rough Puff](puff.md): laminated pastry without yeast.
 - [Brioche Dough](../../baking/pastry/brioche-dough.md): enriched, not laminated. The closest cousin in the bread family.
 - [Bread course / Enriched Doughs](../bread/enriched-doughs.md): the relationship between butter, eggs and yeast that croissant inherits.
-- [Croissant Dough recipe](../../baking/pastry/croissant-dough.md): canonical recipe.
+- [Croissant Dough recipe](../../baking/pastry/croissant-dough.md): traditional recipe.
 - [Pastry Course landing](pastry.md): back to the main course.
 
 ## Storage

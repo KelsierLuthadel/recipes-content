@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Arroz de tomate is Portugal's beloved tomato rice and one of the most vegetarian-friendly dishes in Portuguese cooking: medium-grain rice (Portuguese carolino; or any medium-grain) cooked in a base of sautéed onion, crushed garlic, ripe tomatoes, white wine and olive oil, finished with fresh chopped coriander. The dish is intentionally brothy-creamy (like arroz de marisco but vegetarian) - the rice releases its starch into the tomato broth giving the proper Portuguese soupy-rice character. Served alongside grilled sardines (the canonical Portuguese coastal pairing), with fried fish, with grilled chicken, or as a meal on its own with a fried egg on top. The dish depends on tomato quality; use peak-summer ripe tomatoes (canned work but underwhelm). Medium-grain rice is essential; it releases the starch needed for the creamy soupy texture. The finish wants to stay brothy, not dry; aim for a thick soup-like texture.
+Arroz de tomate is Portugal's beloved tomato rice and one of the most vegetarian-friendly dishes in Portuguese cooking: medium-grain rice (Portuguese carolino; or any medium-grain) cooked in a base of sautéed onion, crushed garlic, ripe tomatoes, white wine and olive oil, finished with fresh chopped coriander. The dish is intentionally brothy-creamy (like arroz de marisco but vegetarian) - the rice releases its starch into the tomato broth giving the proper Portuguese soupy-rice character. Served alongside grilled sardines (the traditional Portuguese coastal pairing), with fried fish, with grilled chicken, or as a meal on its own with a fried egg on top. The dish depends on tomato quality; use peak-summer ripe tomatoes (canned work but underwhelm). Medium-grain rice is essential; it releases the starch needed for the creamy soupy texture. The finish wants to stay brothy, not dry; aim for a thick soup-like texture.
 
 ## Ingredients
 
@@ -37,7 +37,7 @@ Arroz de tomate is Portugal's beloved tomato rice and one of the most vegetarian
 - 100 g grated Parmesan or aged cheese for finishing
 
 ### To serve
-- Grilled sardines (the canonical Portuguese coastal pairing)
+- Grilled sardines (the traditional Portuguese coastal pairing)
 - Fried eggs (for the meal-on-own version)
 - Crusty bread
 
@@ -81,7 +81,7 @@ Arroz de tomate is Portugal's beloved tomato rice and one of the most vegetarian
 ## Notes
 - **Ripe tomatoes:** essential.
 - **Medium-grain rice:** for the creamy texture.
-- **Brothy, not dry:** the canonical texture.
+- **Brothy, not dry:** the traditional texture.
 - **Coriander generously:** Portuguese signature.
 
 ## Variations
@@ -91,7 +91,7 @@ Arroz de tomate is Portugal's beloved tomato rice and one of the most vegetarian
 **With seafood (becomes arroz de marisco):** add shrimp and mussels in the last 5 minutes.
 
 ## Serving
-In deep plates with a fried egg on top (for the vegetarian main version), or alongside grilled sardines (the canonical Portuguese coastal pairing). Cold vinho verde or Sagres beer.
+In deep plates with a fried egg on top (for the vegetarian main version), or alongside grilled sardines (the traditional Portuguese coastal pairing). Cold vinho verde or Sagres beer.
 
 ## Storage
 - Keeps refrigerated 3 days; thickens overnight (add stock when reheating).

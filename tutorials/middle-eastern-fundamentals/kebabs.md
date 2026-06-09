@@ -2,13 +2,13 @@
 
 ![Middle Eastern kebabs](resources/kebabs.jpg)
 
-*"Kebab" in Middle Eastern cooking means more than the British takeaway. There are two main families: kofta (minced and shaped) and shish (cubed and skewered). Each family has dozens of regional variations. This page covers the canonical techniques.*
+*"Kebab" in Middle Eastern cooking means more than the British takeaway. There are two main families: kofta (minced and shaped) and shish (cubed and skewered). Each family has dozens of regional variations. This page covers the traditional techniques.*
 
 ## Overview
 
 Middle Eastern kebabs split into two big families:
 
-1. **Kofta** — minced meat shaped onto skewers or into patties. Lamb, beef, or a mix. Spiced with onion, parsley, allspice, cinnamon, sumac. The fingerprint-pinch shape is canonical.
+1. **Kofta** — minced meat shaped onto skewers or into patties. Lamb, beef, or a mix. Spiced with onion, parsley, allspice, cinnamon, sumac. The fingerprint-pinch shape is traditional.
 
 2. **Shish** — cubed meat threaded onto skewers and grilled. Usually lamb (chunks from the shoulder) or chicken (shish taouk).
 
@@ -42,12 +42,12 @@ The everyday Middle Eastern minced-meat kebab.
 1. **Combine** the minced meat, grated onion (squeezed dry), parsley, garlic, salt, and all the spices in a bowl.
 2. **Knead for 5 minutes** — yes, knead. The kneading distributes the spices and helps the kofta stick to the skewer. The mixture becomes slightly tacky and homogeneous.
 3. **Refrigerate** for 30 minutes — chilled mixture is easier to shape.
-4. **Soak skewers** if using bamboo (30 minutes in water to prevent burning). Flat metal skewers are canonical (they keep the kofta from rotating).
-5. **Shape**: take 1/8 of the mixture (about 90 g). Press it firmly onto a skewer, working with damp hands. Shape into a long sausage along the skewer, about 15-18 cm long and 3-4 cm thick. Make small pinches every 3 cm (the canonical fingerprint pattern that helps the kofta stay attached during cooking).
+4. **Soak skewers** if using bamboo (30 minutes in water to prevent burning). Flat metal skewers are traditional (they keep the kofta from rotating).
+5. **Shape**: take 1/8 of the mixture (about 90 g). Press it firmly onto a skewer, working with damp hands. Shape into a long sausage along the skewer, about 15-18 cm long and 3-4 cm thick. Make small pinches every 3 cm (the traditional fingerprint pattern that helps the kofta stay attached during cooking).
 6. **Brush** with olive oil before grilling.
 
 ### Grilling
-- **Charcoal grill** — the canonical method. Build the coals to medium-high heat (you can hold your hand 15 cm above the grate for 4-5 seconds).
+- **Charcoal grill** — the traditional method. Build the coals to medium-high heat (you can hold your hand 15 cm above the grate for 4-5 seconds).
 - **Gas grill** — medium-high.
 - **Cast-iron pan or grill pan** — works at home; not as smoky but the same technique.
 
@@ -93,7 +93,7 @@ Cubed lamb shoulder, marinated, skewered, grilled.
 - Aromatic (allspice + cumin + Aleppo)
 
 ### Common mistakes
-- Using lean cuts of lamb (leg or saddle) — kebab needs fat for juiciness. Shoulder is canonical.
+- Using lean cuts of lamb (leg or saddle) — kebab needs fat for juiciness. Shoulder is traditional.
 - Marinating in citrus alone (no yogurt or oil) — the citrus toughens. Yogurt + oil tenderises.
 - Over-grilling — kebab should be medium, not well-done. Loses juiciness fast.
 - Skewers too crowded — meat steams instead of browning. Keep some space between cubes.
@@ -122,7 +122,7 @@ The chicken kebab. The marinade is the magic.
 4. **Rest** 3 minutes.
 
 ### Why thigh, not breast
-Thigh has more fat, more flavour, and stays juicy on a grill. Breast dries out fast on a high-heat grill. Thigh is canonical.
+Thigh has more fat, more flavour, and stays juicy on a grill. Breast dries out fast on a high-heat grill. Thigh is traditional.
 
 ### Serving
 - Pita + shish taouk + tomato + onion + tahini sauce + a generous handful of chopped parsley + sumac + lemon wedge.
@@ -130,7 +130,7 @@ Thigh has more fat, more flavour, and stays juicy on a grill. Breast dries out f
 
 ## The mixed-grill platter (mashawi)
 
-The canonical Middle Eastern grilled-meat dinner. A platter with:
+The traditional Middle Eastern grilled-meat dinner. A platter with:
 
 - 2 lamb kofta
 - 2 lamb shish kebabs
@@ -157,8 +157,8 @@ Restaurant shawarma is hard to replicate at home — the slow vertical rotisseri
 
 The Lebanese name for kofta. Essentially the same recipe and technique as covered above, but Lebanese cuisine has specific variants:
 
-- **Kafta meshwiyeh** — kofta grilled on skewers. Same as the canonical kofta above.
-- **Kafta bil sanieh** — kofta layered with sliced potatoes and tomatoes, baked in the oven with a tomato-pomegranate-molasses sauce. A canonical Lebanese tray dish.
+- **Kafta meshwiyeh** — kofta grilled on skewers. Same as the traditional kofta above.
+- **Kafta bil sanieh** — kofta layered with sliced potatoes and tomatoes, baked in the oven with a tomato-pomegranate-molasses sauce. A traditional Lebanese tray dish.
 - **Kafta b' kishk** — kofta in a kishk (fermented bulgur-and-yogurt) sauce. Mountain Lebanon specialty.
 
 ## Other kebab traditions
@@ -170,7 +170,7 @@ The Lebanese name for kofta. Essentially the same recipe and technique as covere
 - **Soltani** — a "royal" mixed grill: one kabab koobideh + one kabab barg.
 
 ### Turkish kebabs
-- **Adana kebab** — Turkish minced-meat kebab with chilli; spicier than Lebanese kofta. Canonical Turkish kebab.
+- **Adana kebab** — Turkish minced-meat kebab with chilli; spicier than Lebanese kofta. Traditional Turkish kebab.
 - **Urfa kebab** — minced-meat kebab from southeastern Turkey; less spicy than Adana.
 - **Iskender kebab** — döner meat on flatbread with tomato sauce and yogurt. Bursa-region.
 - **Şiş kebab** — cubed lamb skewers; Turkish equivalent of Lebanese shish.
@@ -180,11 +180,11 @@ The Lebanese name for kofta. Essentially the same recipe and technique as covere
 - **Hawawshi** — minced meat in pita, baked. Egyptian street food.
 
 ### Jordanian / Palestinian
-- **Musakhan** — chicken slow-roasted with sumac and onions, served on taboon bread. Not a kebab but the canonical Palestinian dish.
+- **Musakhan** — chicken slow-roasted with sumac and onions, served on taboon bread. Not a kebab but the traditional Palestinian dish.
 
 ## Charcoal grill technique
 
-The canonical Middle Eastern grilling:
+The traditional Middle Eastern grilling:
 
 1. **Build a coal fire** — natural lump charcoal is best. Light 60-90 minutes before grilling.
 2. **Wait for hot embers** — the coals should be glowing white-grey on the outside with red-orange beneath. No flames.

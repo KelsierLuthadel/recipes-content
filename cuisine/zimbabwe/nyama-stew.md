@@ -2,7 +2,7 @@
 
 ![Nyama Stew](resources/nyama-stew.jpg)
 
-*Zimbabwe's weekday plate: chunks of beef slowly braised with onion, tomato and garlic till the gravy is dark and clinging. Eaten with sadza.*
+*Zimbabwe's weekday plate: chunks of beef slowly braised with onion, tomato and garlic till the gravy is dark and clinging. Eat with sadza.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Nyama stew is the everyday Zimbabwean weekday plate: chunks of beef shin slow-braised with onion, tomato, garlic and a stock cube till the meat falls apart and the gravy turns dark and clinging, ladled next to a generous mound of sadza for the right hand to scoop both at once. The point of the dish is the gravy more than the chunks of meat; thin watery sauce makes a poor sadza scoop, so don't rush the reduction. Beef shin is the canonical cut; its gelatine gives the sauce its body. Stewing chuck works but the gravy comes out leaner. The classic side is muriwo une dovi (greens in peanut butter) alongside the sadza.
+Nyama stew is the everyday Zimbabwean weekday plate: chunks of beef shin slow-braised with onion, tomato, garlic and a stock cube till the meat falls apart and the gravy turns dark and clinging, ladled next to a generous mound of sadza for the right hand to scoop both at once. The point of the dish is the gravy more than the chunks of meat; thin watery sauce makes a poor sadza scoop, so don't rush the reduction. Beef shin is the traditional cut; its gelatine gives the sauce its body. Stewing chuck works but the gravy comes out leaner. The classic side is muriwo une dovi (greens in peanut butter) alongside the sadza.
 
 ## Ingredients
 

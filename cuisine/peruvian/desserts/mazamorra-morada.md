@@ -2,7 +2,7 @@
 
 ![Mazamorra Morada](resources/mazamorra-morada.jpg)
 
-*Lima's most distinctively-coloured dessert: a thick deep-purple pudding made by simmering Peruvian purple corn (maíz morado, the same corn used to make chicha morada) with pineapple skin, quince, cinnamon, cloves, dried apricots, raisins and a generous quantity of sugar, then thickened with sweet potato starch and finished with chunks of seasonal fruit (apple, peach, dried apricot, dried cherries). Served warm or cold in small bowls; the canonical accompaniment to arroz con leche (the Peruvian "marriage" - half purple pudding, half rice pudding, eaten side-by-side in the same bowl). October's All Saints' Day dessert; year-round at every Peruvian dessert counter.*
+*Lima's most distinctively-coloured dessert: a thick deep-purple pudding made by simmering Peruvian purple corn (maíz morado, the same corn used to make chicha morada) with pineapple skin, quince, cinnamon, cloves, dried apricots, raisins and a generous quantity of sugar, then thickened with sweet potato starch and finished with chunks of seasonal fruit (apple, peach, dried apricot, dried cherries). Served warm or cold in small bowls; the traditional accompaniment to arroz con leche (the Peruvian "marriage" - half purple pudding, half rice pudding, eaten side-by-side in the same bowl). October's All Saints' Day dessert; year-round at every Peruvian dessert counter.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Mazamorra morada is one of Peru's most identity-defining sweet plates and one of the world's most distinctively-coloured desserts. The deep purple-violet colour comes from maíz morado (Andean purple corn), the same varietal used for chicha morada, the canonical Peruvian table drink. Dried purple corn cobs simmer with cinnamon, cloves, pineapple skin, quince peels and star anise; the resulting deep-purple infusion is strained and reduced, then thickened with sweet-potato starch and folded with chopped fruit (apple, pear, fresh pineapple, dried apricots, raisins, dried cranberries) into a pudding the consistency of thick custard. The canonical Peruvian way is to serve mazamorra morada beside arroz con leche (Peruvian rice pudding); both pour into the same bowl half-and-half, and the diner eats them together. This is called "el matrimonio", the marriage. Served warm or cold.
+Mazamorra morada is one of Peru's most identity-defining sweet plates and one of the world's most distinctively-coloured desserts. The deep purple-violet colour comes from maíz morado (Andean purple corn), the same varietal used for chicha morada, the traditional Peruvian table drink. Dried purple corn cobs simmer with cinnamon, cloves, pineapple skin, quince peels and star anise; the resulting deep-purple infusion is strained and reduced, then thickened with sweet-potato starch and folded with chopped fruit (apple, pear, fresh pineapple, dried apricots, raisins, dried cranberries) into a pudding the consistency of thick custard. The traditional Peruvian way is to serve mazamorra morada beside arroz con leche (Peruvian rice pudding); both pour into the same bowl half-and-half, and the diner eats them together. This is called "el matrimonio", the marriage. Served warm or cold.
 
 ## Ingredients
 
@@ -83,19 +83,19 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 ### Stage 5 - Serve
 1. Pour into 6 small dessert bowls.
 2. Dust each with a small pinch of ground cinnamon.
-3. (For the canonical "matrimonio": serve a scoop of warm arroz con leche on one side of the bowl; pour the mazamorra morada on the other side, so the two desserts meet in the middle.)
+3. (For the traditional "matrimonio": serve a scoop of warm arroz con leche on one side of the bowl; pour the mazamorra morada on the other side, so the two desserts meet in the middle.)
 4. Serve warm or cold.
 
 ## Notes
 - **Real maíz morado is dramatically different from substitutes:** the deep-purple Andean corn has a unique earthy-fruity character that blueberries can't fully replicate. Source from a Latin American shop if you can.
-- **Pineapple skin (not flesh):** the canonical Peruvian additive - the rind gives aroma without bitterness. The flesh goes into the fruit dice.
+- **Pineapple skin (not flesh):** the traditional Peruvian additive - the rind gives aroma without bitterness. The flesh goes into the fruit dice.
 - **Don't over-thicken:** the consistency should be thick custard, not jelly. The mixture firms further as it cools.
-- **The "matrimonio" with arroz con leche:** the canonical Peruvian way to serve - both desserts in the same bowl, side by side.
+- **The "matrimonio" with arroz con leche:** the traditional Peruvian way to serve - both desserts in the same bowl, side by side.
 - **Sweetness is generous:** mazamorra morada is unapologetically sweet. Don't reduce the sugar too aggressively or the dish tastes flat.
 
 ## Variations
 **Mazamorra morada Lima style:** add 1 tablespoon of cornflour-thickened cooked maíz morado kernels for texture - the chunky variant.
-**Mazamorra morada with arroz con leche (the marriage):** the canonical pairing in a single bowl.
+**Mazamorra morada with arroz con leche (the marriage):** the traditional pairing in a single bowl.
 **Mazamorra morada with quinoa:** add 50 g of cooked Andean quinoa to the pudding - the modern variant.
 **Lighter Mazamorra:** use less sugar (60 g) - for those who find the standard version too sweet.
 **Vegan mazamorra morada:** the recipe is already vegan (no dairy or eggs).
@@ -103,7 +103,7 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 **Mazamorra morada cocktail (modern):** thin with 100 ml of pisco - the modern Lima cocktail-bar variant.
 
 ## Serving
-At a Peruvian All Saints' Day (1 November) celebration (the canonical setting) · at a Peruvian Independence Day (28 July) dessert · at a Lima criolla restaurant · at a Peruvian street-cart in the late afternoon · at a Peruvian family Sunday lunch · at a Peruvian wedding · at home as the make-ahead Sunday dessert · paired with arroz con leche (the canonical "marriage") · with a strong black coffee.
+At a Peruvian All Saints' Day (1 November) celebration (the traditional setting) · at a Peruvian Independence Day (28 July) dessert · at a Lima criolla restaurant · at a Peruvian street-cart in the late afternoon · at a Peruvian family Sunday lunch · at a Peruvian wedding · at home as the make-ahead Sunday dessert · paired with arroz con leche (the traditional "marriage") · with a strong black coffee.
 
 ## Storage
 - Refrigerates 5 days in a sealed container.

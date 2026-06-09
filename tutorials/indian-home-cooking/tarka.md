@@ -65,7 +65,7 @@ The tarka changes with the region:
 - Used on dals, sabzis, chicken curries.
 
 ### South India (Tamil, Kerala, Karnataka, Andhra)
-- Coconut oil or sesame oil + mustard seeds (the canonical opener) + curry leaves + dried red chillies + green chillies + asafoetida + sometimes urad dal seeds for crunch.
+- Coconut oil or sesame oil + mustard seeds (the traditional opener) + curry leaves + dried red chillies + green chillies + asafoetida + sometimes urad dal seeds for crunch.
 - Used on sambars, rasams, dals, coconut chutneys.
 
 ### Bengal (West Bengal, Bangladesh)
@@ -97,7 +97,7 @@ If the mustard seeds are silent in the hot oil, the oil wasn't hot enough. If th
 - **Don't add ground spices to the tarka pan early.** Ground spices (turmeric, chilli powder) burn fast in raw hot oil. They go in last, off the heat (or just before pouring over the dish).
 - **Don't skip the tarka on a dal.** Without the tarka, a dal is plain boiled lentils. The tarka is what makes it taste of India.
 - **Don't reuse leftover tarka oil.** It loses its punch after 10 minutes. Make a fresh tarka per dish.
-- **Don't fear the volume of fat.** A "lot of ghee" in a tarka (3 tablespoons for a single dish) is canonical. Indian dals are not low-fat dishes; the fat carries the flavour.
+- **Don't fear the volume of fat.** A "lot of ghee" in a tarka (3 tablespoons for a single dish) is traditional. Indian dals are not low-fat dishes; the fat carries the flavour.
 
 ## A worked example: simple dal with tarka
 

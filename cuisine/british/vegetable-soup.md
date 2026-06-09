@@ -11,7 +11,7 @@
 **Cook Time:** 70 minutes
 
 ## Overview
-A nourishing chunky vegetable soup that gets cooked at the end of the week when there's an awkward collection of half-vegetables in the fridge that needs a home. You build a base of onion, garlic and celery softened slow in butter, then add whatever's around: squash, carrots, courgettes, leeks, leftover green beans, a tin of cannellini or butter beans. A light tomato broth pulls everything together, and the soup simmers gently until the vegetables are just tender. Best the next day, by which point the flavours have settled into each other. Eaten with crusty bread, a wedge of cheese on the side, the lid back on the pot for tomorrow's lunch.
+A nourishing chunky vegetable soup that gets cooked at the end of the week when there's an awkward collection of half-vegetables in the fridge that needs a home. You build a base of onion, garlic and celery softened slow in butter, then add whatever's around: squash, carrots, courgettes, leeks, leftover green beans, a tin of cannellini or butter beans. A light tomato broth pulls everything together, and the soup simmers gently until the vegetables are just tender. Best the next day, by which point the flavours have settled into each other. Eat with crusty bread, a wedge of cheese on the side, the lid back on the pot for tomorrow's lunch.
 
 ## Ingredients
 

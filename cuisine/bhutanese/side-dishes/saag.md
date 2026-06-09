@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Saag is Bhutan's everyday greens side: a bowl of slow-cooked tender mustard greens that turns up alongside ema datshi, shakam paa and red rice as the green-vegetable contribution to a Bhutanese meal. Fresh mustard greens washed and shredded, then cooked slowly in butter with garlic, fresh green chillies and a small splash of water till the leaves collapse into a silky tender stew, the chilli oil pooling through and giving the dish a bright orange-green colour. Mustard greens are canonical; the slightly bitter peppery character holds up well against the cooking. Kale, collards, spinach, or a mix all substitute (spinach cooks faster, so cut the time in half). Bhutanese saag is properly tender, almost stew-like, rather than crisp-tender or wilted; gentle slow cooking, not a quick stir-fry. The greens should reduce to about a third of their starting volume by the end.
+Saag is Bhutan's everyday greens side: a bowl of slow-cooked tender mustard greens that turns up alongside ema datshi, shakam paa and red rice as the green-vegetable contribution to a Bhutanese meal. Fresh mustard greens washed and shredded, then cooked slowly in butter with garlic, fresh green chillies and a small splash of water till the leaves collapse into a silky tender stew, the chilli oil pooling through and giving the dish a bright orange-green colour. Mustard greens are traditional; the slightly bitter peppery character holds up well against the cooking. Kale, collards, spinach, or a mix all substitute (spinach cooks faster, so cut the time in half). Bhutanese saag is properly tender, almost stew-like, rather than crisp-tender or wilted; gentle slow cooking, not a quick stir-fry. The greens should reduce to about a third of their starting volume by the end.
 
 ## Ingredients
 
@@ -64,11 +64,11 @@ Saag is Bhutan's everyday greens side: a bowl of slow-cooked tender mustard gree
 3. The saag is the cooling counter-vegetable to the fiery stews; it provides green bulk and a gentler chilli profile.
 
 ## Notes
-- **Mustard greens are the canonical choice:** the peppery bitter character of mustard greens is what gives Bhutanese saag its distinctive flavour. Kale or collards work but lack the pepperiness; if using kale, add ½ teaspoon of black mustard seeds (toasted in the butter at the start) to compensate.
+- **Mustard greens are the traditional choice:** the peppery bitter character of mustard greens is what gives Bhutanese saag its distinctive flavour. Kale or collards work but lack the pepperiness; if using kale, add ½ teaspoon of black mustard seeds (toasted in the butter at the start) to compensate.
 - **Slow-cooked, not stir-fried:** Bhutanese saag is properly tender rather than crisp-tender. The 15-20 minute slow cook with the lid on is what gives the proper silky texture. If you've never let greens cook that long, this is the right way for this dish.
 - **Don't dry the washed greens fully:** the residual water on the leaves helps with the steaming under the lid. Wet greens go into the pan; the water is what builds the steam.
 - **Stir from the bottom every 5 minutes:** the greens at the bottom can catch if you don't lift them up. A quick stir from the bottom every 5 minutes keeps the cook even.
-- **Adjust the chilli for the table:** the canonical Bhutanese saag has more chillies than this recipe; scale up if you want the proper experience. Conversely, if cooking for non-spice-tolerant diners, halve the chillies or deseed all of them.
+- **Adjust the chilli for the table:** the traditional Bhutanese saag has more chillies than this recipe; scale up if you want the proper experience. Conversely, if cooking for non-spice-tolerant diners, halve the chillies or deseed all of them.
 
 ## Variations
 **Saag with cheese (saag datshi):** crumble 100 g of feta (or fresh local cheese) into the pan in the last 5 minutes of cooking; stir gently and let it soften into the greens. Turns the side into a creamy datshi-style variation.

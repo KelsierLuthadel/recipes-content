@@ -2,7 +2,7 @@
 
 ![Calentado Paisa](resources/calentado-paisa.jpg)
 
-*Colombia's Antioqueño breakfast hash: a pan-fried mixture of leftover rice and beans crisped in oil with sliced sausage, scallions and hogao, topped with a fried egg and served with arepas. The paisa region's answer to the "what to do with last night's leftovers" question - the canonical Sunday morning hangover cure.*
+*Colombia's Antioqueño breakfast hash: a pan-fried mixture of leftover rice and beans crisped in oil with sliced sausage, scallions and hogao, topped with a fried egg and served with arepas. The paisa region's answer to the "what to do with last night's leftovers" question - the traditional Sunday morning hangover cure.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Calentado paisa is the Antioqueño breakfast hash that turns last night's leftover rice and beans into the most beloved Colombian Sunday breakfast. Cold leftover white rice and cold leftover frijoles paisas pan-fry in oil with sliced chorizo, scallions, garlic and a spoonful of hogao till the rice crisps at the edges, the beans heat through, and the whole pan reduces to a one-pan hash. Finished with a sunny-side-up fried egg per person, served with an arepa and ají picante. Fifteen minutes once the leftovers are in hand, and one of the canonical Colombian hangover cures (along with mondongo and caldo de costilla). The point is leftovers used well: day-old refrigerated rice has firmed up and crisps beautifully, day-old beans have thickened and deepened in flavour. Don't be timid with the oil; the rice needs to crisp, which requires generous fat. The runny egg yolk should break and run into everything.
+Calentado paisa is the Antioqueño breakfast hash that turns last night's leftover rice and beans into the most beloved Colombian Sunday breakfast. Cold leftover white rice and cold leftover frijoles paisas pan-fry in oil with sliced chorizo, scallions, garlic and a spoonful of hogao till the rice crisps at the edges, the beans heat through, and the whole pan reduces to a one-pan hash. Finished with a sunny-side-up fried egg per person, served with an arepa and ají picante. Fifteen minutes once the leftovers are in hand, and one of the traditional Colombian hangover cures (along with mondongo and caldo de costilla). The point is leftovers used well: day-old refrigerated rice has firmed up and crisps beautifully, day-old beans have thickened and deepened in flavour. Don't be timid with the oil; the rice needs to crisp, which requires generous fat. The runny egg yolk should break and run into everything.
 
 ## Ingredients
 
@@ -84,7 +84,7 @@ Calentado paisa is the Antioqueño breakfast hash that turns last night's leftov
 - **Leftover rice and beans:** essential. Day-old is the proper texture.
 - **Generous oil for crisping:** don't skimp.
 - **Press the rice down:** lets the bottom crisp.
-- **Fried egg on top:** the canonical Colombian touch.
+- **Fried egg on top:** the traditional Colombian touch.
 - **Hogao for proper flavour:** don't skip.
 
 ## Variations

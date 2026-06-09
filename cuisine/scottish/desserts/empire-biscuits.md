@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until being renamed for patriotic reasons during the Great War) are one of the most distinctively Scottish bakery items in the canon. Walk into any Scottish bakery from Lerwick to Dumfries and you'll see a row of them in the front cabinet alongside Eccles cakes, fly cemeteries and butteries. The construction is simple: pale-golden shortbread rounds sandwiched with raspberry jam, topped with white royal icing while the icing is still wet, and finished with a single glacé cherry pressed into the centre. The icing sets to a hard sweet crust, the jam stays soft and red inside, the biscuit is short and buttery, the cherry sugary-bright. Sweet, soft, buttery, jammy and crunchy in every bite. The canonical Scottish primary-school treat and the one every Scottish child remembers from break-time.
+Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until being renamed for patriotic reasons during the Great War) are one of the most distinctively Scottish bakery items in the canon. Walk into any Scottish bakery from Lerwick to Dumfries and you'll see a row of them in the front cabinet alongside Eccles cakes, fly cemeteries and butteries. The construction is simple: pale-golden shortbread rounds sandwiched with raspberry jam, topped with white royal icing while the icing is still wet, and finished with a single glacé cherry pressed into the centre. The icing sets to a hard sweet crust, the jam stays soft and red inside, the biscuit is short and buttery, the cherry sugary-bright. Sweet, soft, buttery, jammy and crunchy in every bite. The traditional Scottish primary-school treat and the one every Scottish child remembers from break-time.
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until
 - 1 teaspoon lemon juice (helps the icing set crisply)
 
 ### To finish
-- 12 glacé cherries (red; halved if you want a more delicate look, whole for the canonical Scottish version)
+- 12 glacé cherries (red; halved if you want a more delicate look, whole for the traditional Scottish version)
 
 ## Method
 
@@ -85,7 +85,7 @@ Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until
 2. The finished biscuit has a hard white icing top with a glossy cherry centre.
 
 ### Stage 9 - Serve
-1. Serve with a cup of strong tea (the canonical pairing).
+1. Serve with a cup of strong tea (the traditional pairing).
 2. Or with a milky coffee at a Scottish bakery counter.
 
 ## Notes
@@ -97,15 +97,15 @@ Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until
 
 ## Variations
 **Belgian biscuits (the original name):** identical recipe, just called by the pre-war name. Some Scottish bakeries still use this name.
-**With apricot jam:** swap raspberry for apricot - less canonical but very nice.
-**With strawberry jam:** swap raspberry for strawberry - less canonical; older Scottish recipes specifically called for raspberry.
+**With apricot jam:** swap raspberry for apricot - less traditional but very nice.
+**With strawberry jam:** swap raspberry for strawberry - less traditional; older Scottish recipes specifically called for raspberry.
 **With chocolate icing:** swap white royal icing for chocolate glaze - modern variant.
 **Vegan version:** use vegan butter in the shortbread; use aquafaba (chickpea liquid) instead of egg white in the icing.
 **Mini versions:** use a 3 cm cutter; makes 24 small biscuits for canapé or kids-party portions.
 **Lemon-iced version:** add 1 teaspoon lemon juice + ½ teaspoon zest to the icing - lifts the sweetness.
 
 ## Serving
-At a Scottish bakery counter (Greggs in Scotland; any local independent baker; Stuart's of Buckhaven) as the canonical tea-time biscuit · at a Scottish primary-school break-time · at a Scottish granny's tea trolley · at a Scottish wedding tea-bar · alongside a cup of strong Scottish breakfast tea · at home as a Saturday afternoon treat.
+At a Scottish bakery counter (Greggs in Scotland; any local independent baker; Stuart's of Buckhaven) as the traditional tea-time biscuit · at a Scottish primary-school break-time · at a Scottish granny's tea trolley · at a Scottish wedding tea-bar · alongside a cup of strong Scottish breakfast tea · at home as a Saturday afternoon treat.
 
 ## Storage
 - Once iced and set, keeps in a sealed tin for 1 week (the icing keeps everything fresh).

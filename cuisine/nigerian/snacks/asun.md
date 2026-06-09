@@ -2,7 +2,7 @@
 
 ![Asun](resources/asun.jpg)
 
-*Yoruba party snack: charred goat tossed hot in a fiery pepper sauce of Scotch bonnet, red pepper and onion. Eaten with toothpicks and cold beer.*
+*Yoruba party snack: charred goat tossed hot in a fiery pepper sauce of Scotch bonnet, red pepper and onion. Eat with toothpicks and cold beer.*
 
 **Serves:** 4 as a snack
 

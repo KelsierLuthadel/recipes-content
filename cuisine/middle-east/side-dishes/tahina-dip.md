@@ -2,14 +2,14 @@
 
 ![Tahina Dip](resources/tahina.jpg)
 
-*The simplest sesame dip: tahina paste loosened with cold water and lemon, sharpened with crushed garlic, salted to taste. Eaten with warm pita.*
+*The simplest sesame dip: tahina paste loosened with cold water and lemon, sharpened with crushed garlic, salted to taste. Eat with warm pita.*
 
 **Prep Time:** 10 minutes
 
 **Yield:** Approximately 200 milliliters (4-5 servings as appetizer dip)
 
 ## Overview
-The simplest sesame dip on every Middle Eastern table: tahina paste loosened with cold water and lemon, sharpened with crushed garlic, salted to taste. Unlike hummus (which combines chickpeas with tahina), this version is tahina-forward and lets the sesame paste's complex flavour carry the dish. Crush the garlic with salt in a mortar; salt acts as an abrasive and breaks it down to a smooth paste. The lemon juice goes in gradually with vigorous stirring; the tahina seizes and looks broken first (don't panic), then comes back to a creamy emulsion as you keep stirring. Cold water loosens it to a pourable consistency between mayonnaise and Greek yogurt. Finished with a thread of olive oil into a thumb-pressed indent, chopped parsley across the top. Eaten with warm pita, raw vegetables, or alongside grilled meats and other mezze.
+The simplest sesame dip on every Middle Eastern table: tahina paste loosened with cold water and lemon, sharpened with crushed garlic, salted to taste. Unlike hummus (which combines chickpeas with tahina), this version is tahina-forward and lets the sesame paste's complex flavour carry the dish. Crush the garlic with salt in a mortar; salt acts as an abrasive and breaks it down to a smooth paste. The lemon juice goes in gradually with vigorous stirring; the tahina seizes and looks broken first (don't panic), then comes back to a creamy emulsion as you keep stirring. Cold water loosens it to a pourable consistency between mayonnaise and Greek yogurt. Finished with a thread of olive oil into a thumb-pressed indent, chopped parsley across the top. Eat with warm pita, raw vegetables, or alongside grilled meats and other mezze.
 
 ## Ingredients
 

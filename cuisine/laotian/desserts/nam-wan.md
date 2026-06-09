@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Nam wan (literally "sweet liquid") is a family of Lao mixed-fruit desserts served in coconut milk syrup, sold from market stalls across Vientiane and Luang Prabang at midday in the hot months. The coconut syrup is the backbone: full-fat coconut milk with palm sugar, a pandan leaf and a tiny pinch of salt warmed gently till the sugar dissolves and the pandan releases its aroma. The fruit mix is whatever's in season: jackfruit (canonical), longan or lychee, young coconut flesh, palm seeds, sweet potato cubes, banana, taro cubes. Assembled into small individual bowls with the warm coconut syrup poured over, then topped with shaved ice and an optional sprinkle of toasted sesame seeds or chopped peanuts. The Lao version is lighter and less sweet than its Thai cousin, which uses more palm sugar and sometimes adds tapioca pearls.
+Nam wan (literally "sweet liquid") is a family of Lao mixed-fruit desserts served in coconut milk syrup, sold from market stalls across Vientiane and Luang Prabang at midday in the hot months. The coconut syrup is the backbone: full-fat coconut milk with palm sugar, a pandan leaf and a tiny pinch of salt warmed gently till the sugar dissolves and the pandan releases its aroma. The fruit mix is whatever's in season: jackfruit (traditional), longan or lychee, young coconut flesh, palm seeds, sweet potato cubes, banana, taro cubes. Assembled into small individual bowls with the warm coconut syrup poured over, then topped with shaved ice and an optional sprinkle of toasted sesame seeds or chopped peanuts. The Lao version is lighter and less sweet than its Thai cousin, which uses more palm sugar and sometimes adds tapioca pearls.
 
 ## Ingredients
 
@@ -65,9 +65,9 @@ Nam wan (literally "sweet liquid") is a family of Lao mixed-fruit desserts serve
 
 ## Notes
 - **Variety is the dish:** the more fruit types, the more interesting. Use what's seasonal.
-- **Warm coconut + cold ice:** the temperature contrast is canonical.
+- **Warm coconut + cold ice:** the temperature contrast is traditional.
 - **Don't oversweeten:** Lao nam wan is moderately sweet, not aggressively so. The fruits contribute their own sweetness.
-- **Pandan leaf:** the canonical Southeast Asian aromatic. Dried extract is the workable substitute.
+- **Pandan leaf:** the traditional Southeast Asian aromatic. Dried extract is the workable substitute.
 
 ## Variations
 **Nam wan with tapioca pearls:** add 4 tablespoons of cooked small tapioca pearls - the Thai-influenced variant.
@@ -77,7 +77,7 @@ Nam wan (literally "sweet liquid") is a family of Lao mixed-fruit desserts serve
 **Vegan nam wan:** the recipe is already vegan.
 
 ## Serving
-At a Lao market stall (the canonical setting; sold from carts at midday in hot months) · at a Lao Pi Mai (New Year, April) celebration · at home as the canonical Lao summer dessert · paired with strong Lao coffee.
+At a Lao market stall (the traditional setting; sold from carts at midday in hot months) · at a Lao Pi Mai (New Year, April) celebration · at home as the traditional Lao summer dessert · paired with strong Lao coffee.
 
 ## Storage
 - The coconut syrup keeps refrigerated 5 days; warm gently to serve.

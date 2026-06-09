@@ -10,7 +10,7 @@ A shrub is essentially a fruit-flavoured vinegar syrup. The vinegar pulls the fr
 
 Two main techniques:
 
-### Cold process (the canonical, gentler)
+### Cold process (the traditional, gentler)
 - Mix fruit + sugar in a jar; let sit 24-48 hours (the sugar pulls out the fruit's juices via osmosis).
 - Strain off the resulting "fruit syrup".
 - Add vinegar; let mature 1-7 days.
@@ -133,7 +133,7 @@ This is technically an oxymel (honey + vinegar + herbs) rather than a fruit shru
 
 Different vinegars give different shrubs:
 
-- **Apple cider vinegar** (raw, unfiltered) — the canonical. Slightly sweet, mellow, fruit-friendly. Use 90% of the time.
+- **Apple cider vinegar** (raw, unfiltered) — the traditional. Slightly sweet, mellow, fruit-friendly. Use 90% of the time.
 - **White wine vinegar** — cleaner, lighter. Lets delicate fruits (strawberry, white peach) speak.
 - **Rice vinegar** — gentle, slightly sweet. Good for Asian-leaning shrubs (lychee, ginger, kaffir lime).
 - **Red wine vinegar** — assertive, bold. Use for stone-fruit shrubs (cherry, plum).

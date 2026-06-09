@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A Burmese aubergine dish, the kind of thing that turns up on a weekday table next to a simple curry and rice. You cube the aubergine and salt it for twenty minutes to draw out the bitter water, then squeeze it dry. Onion fries dark-gold in oil; garlic, ginger and turmeric go in briefly; then the aubergine joins them and fries for eight minutes until silky-soft and just collapsing. Fish sauce, chilli powder and a touch of palm sugar season the pan, and toasted crushed peanuts scatter over at the end for crunch. Eaten warm with rice and a small piece of fish.
+A Burmese aubergine dish, the kind of thing that turns up on a weekday table next to a simple curry and rice. You cube the aubergine and salt it for twenty minutes to draw out the bitter water, then squeeze it dry. Onion fries dark-gold in oil; garlic, ginger and turmeric go in briefly; then the aubergine joins them and fries for eight minutes until silky-soft and just collapsing. Fish sauce, chilli powder and a touch of palm sugar season the pan, and toasted crushed peanuts scatter over at the end for crunch. Eat warm with rice and a small piece of fish.
 
 ## Ingredients
 

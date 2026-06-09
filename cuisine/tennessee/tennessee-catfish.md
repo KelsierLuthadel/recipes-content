@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Tennessee cornmeal-crusted catfish is Tennessee's freshwater fish staple; the catfish that fills every lakeside restaurant, country diner, and Friday-night family kitchen across the state. Distinct from the Louisiana version (slightly less spicy; more black pepper than cayenne; sometimes pan-fried in cast iron rather than deep-fried), the Tennessee approach uses farm-raised catfish fillets dipped briefly in seasoned buttermilk, then coated in a cornmeal-flour mix flavoured with paprika, garlic powder, salt, lots of black pepper, and a touch of cayenne. Pan-fried in hot oil or shallow lard in a cast-iron skillet (the canonical Tennessee vessel) till the crust is deeply golden and the fish inside flakes white and tender. Served with hush puppies, coleslaw, French fries, lemon wedges and tartar sauce.
+Tennessee cornmeal-crusted catfish is Tennessee's freshwater fish staple; the catfish that fills every lakeside restaurant, country diner, and Friday-night family kitchen across the state. Distinct from the Louisiana version (slightly less spicy; more black pepper than cayenne; sometimes pan-fried in cast iron rather than deep-fried), the Tennessee approach uses farm-raised catfish fillets dipped briefly in seasoned buttermilk, then coated in a cornmeal-flour mix flavoured with paprika, garlic powder, salt, lots of black pepper, and a touch of cayenne. Pan-fried in hot oil or shallow lard in a cast-iron skillet (the traditional Tennessee vessel) till the crust is deeply golden and the fish inside flakes white and tender. Served with hush puppies, coleslaw, French fries, lemon wedges and tartar sauce.
 
 ## Ingredients
 
@@ -73,7 +73,7 @@ Tennessee cornmeal-crusted catfish is Tennessee's freshwater fish staple; the ca
 
 ## Notes
 - **Cornmeal-flour mix:** 3:1 ratio.
-- **Cast-iron skillet canonical.**
+- **Cast-iron skillet traditional.**
 - **Lots of black pepper:** Tennessee signature.
 - **Eat immediately:** crust softens.
 

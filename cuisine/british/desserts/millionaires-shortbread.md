@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 12 minutes for the caramel)
 
 ## Overview
-A precise, three-stage bake. The shortbread base is rubbed-in, pressed into a lined tin and baked golden. The caramel is made on the hob: butter, sugar, golden syrup and condensed milk stirred over a low heat for about ten minutes until it thickens to soft-set fudge consistency. Poured over the cooled shortbread, chilled until firm. The chocolate top is melted, poured on, scored with a fork into wavy lines (the classic finish) or left smooth. Chilled, cut into 16 squares with a hot knife.
+Millionaire's shortbread is the Scottish bakery-counter staple, the three-layer slab that turns up at every tea-room and church fête across the country and lives in tea tins from Edinburgh to Penzance. Three layers, three textures, each one demanding its own discipline. The shortbread base is rubbed-in butter and flour, pressed firm into a lined tin and baked till just-golden so it stays short and snappy under the caramel. The caramel is the stage that catches home cooks out; butter, sugar, golden syrup and condensed milk stirred slowly over a low heat for about ten minutes till it thickens to a soft-set fudge consistency, where a single moment of high heat seizes the whole pan into a grainy mess. Pour it warm over the cooled shortbread and chill till firm. The chocolate top is melted gently and poured across, then scored with a fork into wavy lines for the traditional finish (or left smooth, for the cleaner look). Chilled until set, cut into squares with a hot knife. Eat cold from the tin with strong tea.
 
 ## Ingredients
 
@@ -63,7 +63,7 @@ A precise, three-stage bake. The shortbread base is rubbed-in, pressed into a li
 - **The caramel is the heart of the bake**: undercook and it slumps when cut; overcook and it sets brittle. Aim for "soft fudge" consistency on a cold-plate test. If unsure, take it off the heat sooner - caramel firms further as it cools.
 - **Condensed milk grade**: full-fat sweetened condensed milk only. Reduced-fat versions don't thicken the same way.
 - **Chocolate ratio**: the slab is heavy on caramel and benefits from a clean snap of milk chocolate on top. Some bakers use dark chocolate; it's less traditional but balances the sweetness.
-- **Tin size**: 20 x 20 cm gives the canonical thick slab. A 20 x 30 cm tin gives thinner bars; reduce the chill times by 10 minutes.
+- **Tin size**: 20 x 20 cm gives the traditional thick slab. A 20 x 30 cm tin gives thinner bars; reduce the chill times by 10 minutes.
 
 ## Serving
 A square on a small plate or in a paper case, with strong tea or coffee. Travel-bake material: holds well at room temperature for days, sturdy enough for a packed lunch.

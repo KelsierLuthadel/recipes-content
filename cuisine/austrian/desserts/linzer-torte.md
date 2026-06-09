@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Linzer Torte holds the distinction of being the oldest cake recipe in the world; the first written version dates to 1653 in a cookbook from a Verona monastery, and the dish has been associated with the Austrian city of Linz for so long that it carries the name almost as a brand. A nut-and-spice shortbread base filled with redcurrant or raspberry jam, latticed with thin strips of the same pastry, baked till the pastry is deep gold and the exposed jam between the strips caramelises into a glossy ruby-red glaze. The cinnamon-clove-and-lemon-zest scent of the warm shortbread is unmistakable. The torte improves dramatically over a few days as the pastry softens and absorbs jam moisture, so make it at least a day ahead. Eaten at room temperature with strong coffee.
+Linzer Torte holds the distinction of being the oldest cake recipe in the world; the first written version dates to 1653 in a cookbook from a Verona monastery, and the dish has been associated with the Austrian city of Linz for so long that it carries the name almost as a brand. A nut-and-spice shortbread base filled with redcurrant or raspberry jam, latticed with thin strips of the same pastry, baked till the pastry is deep gold and the exposed jam between the strips caramelises into a glossy ruby-red glaze. The cinnamon-clove-and-lemon-zest scent of the warm shortbread is unmistakable. The torte improves dramatically over a few days as the pastry softens and absorbs jam moisture, so make it at least a day ahead. Eat at room temperature with strong coffee.
 
 ## Ingredients
 

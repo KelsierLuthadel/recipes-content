@@ -11,7 +11,7 @@
 **Cook Time:** None (assumes pre-made crispbread)
 
 ## Overview
-Knäckebröd med smör (literally "crispbread with butter") is the simplest and most Swedish of all daily eating rituals - the bread that turns up at every Swedish breakfast, every lunch, every fika, every smörgåsbord, every late-night-pick-from-the-fridge: a piece of Swedish crispbread (knäckebröd - a thin dense crisp dry rye bread, traditionally shaped as a 30cm wide round with a hole in the middle so a wooden pole could be stuck through it for storage in farmhouse rafters, modernised today into the square or rectangular pieces sold in cardboard boxes by Wasa, Leksands and AXA) spread generously with cold salted butter (the butter sits in distinct pats; don't smear it thinly - Sweden uses butter generously). Sprinkled with flaky sea salt and a dusting of caraway seeds or whole cumin seeds. Eaten with the hands; the crispbread snaps. Often eaten with a slice of mild cheese on top, or topped with sliced hard-boiled egg, smoked salmon, pickled herring, or whatever else is on the table.
+Knäckebröd med smör (literally "crispbread with butter") is the simplest and most Swedish of all daily eating rituals - the bread that turns up at every Swedish breakfast, every lunch, every fika, every smörgåsbord, every late-night-pick-from-the-fridge: a piece of Swedish crispbread (knäckebröd - a thin dense crisp dry rye bread, traditionally shaped as a 30cm wide round with a hole in the middle so a wooden pole could be stuck through it for storage in farmhouse rafters, modernised today into the square or rectangular pieces sold in cardboard boxes by Wasa, Leksands and AXA) spread generously with cold salted butter (the butter sits in distinct pats; don't smear it thinly - Sweden uses butter generously). Sprinkled with flaky sea salt and a dusting of caraway seeds or whole cumin seeds. Eat with the hands; the crispbread snaps. Often eaten with a slice of mild cheese on top, or topped with sliced hard-boiled egg, smoked salmon, pickled herring, or whatever else is on the table.
 
 ## Ingredients
 
@@ -60,7 +60,7 @@ Knäckebröd med smör (literally "crispbread with butter") is the simplest and 
 1. For breakfast: lay a slice of mild Swedish cheese on top.
 2. For lunch: lay a slice of smoked salmon, then sliced hard-boiled egg.
 3. For dinner: top with herring + red onion + chives.
-4. For fika: just the butter and salt - the canonical minimalist version.
+4. For fika: just the butter and salt - the traditional minimalist version.
 
 ### Stage 5 - Serve
 1. Eat immediately with hands.
@@ -70,14 +70,14 @@ Knäckebröd med smör (literally "crispbread with butter") is the simplest and 
 ## Notes
 - **Proper Swedish crispbread:** Wasa, Leksands, AXA - not English oat biscuits or American "crispbread" which are usually quite different. Look for the Swedish brands at Swedish-style shops or larger supermarkets.
 - **Cold salted butter, generous:** Sweden uses butter generously. Thin smears are wrong.
-- **Flaky salt + caraway:** the canonical Swedish topping. Cumin works as substitute.
+- **Flaky salt + caraway:** the traditional Swedish topping. Cumin works as substitute.
 - **Eat immediately:** the crispbread softens within an hour of buttering if left to sit.
 
 ## Variations
-**Västerbottensost open sandwich:** add a thick slice of the canonical Swedish hard cheese (Västerbotten) on top.
+**Västerbottensost open sandwich:** add a thick slice of the traditional Swedish hard cheese (Västerbotten) on top.
 **Skagentoast on knäckebröd:** top with shrimp salad (mayo, shrimps, dill, lemon) for the Stockholm seafood-snack version.
-**With pickled herring:** the smörgåsbord canonical - herring + butter + crispbread.
-**With liver pâté and cucumber:** the Swedish-breakfast canonical.
+**With pickled herring:** the smörgåsbord traditional - herring + butter + crispbread.
+**With liver pâté and cucumber:** the Swedish-breakfast traditional.
 **Vegan version:** swap butter for vegan butter; same technique.
 
 ## Serving

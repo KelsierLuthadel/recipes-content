@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Dried marrowfat peas soak overnight in cold water with bicarbonate of soda (the soda softens the skins; without it the peas stay tough). The peas are drained, rinsed, then simmered slowly in fresh water with a pinch of salt until they break down into a thick green porridge, about 40 minutes. A teaspoon of butter, a pinch more salt and (optionally) a small spoon of mint sauce or chopped fresh mint stir through at the end. Eaten warm. Some chip-shop versions add a teaspoon of sugar; some Yorkshire households add a splash of malt vinegar at the table.
+Mushy peas are the British chippy side and a Yorkshire dinner-table fixture, the bowl of sweet-savoury green mush that lands next to fish and chips, beside a meat pie, or alongside a Sunday roast across the north of England. The peas are dried marrowfat peas (not garden peas, not split peas), soaked overnight in cold water with bicarbonate of soda; the bicarb is the technique that softens the skins, and without it the peas stay stubbornly tough no matter how long the simmer. Drained and rinsed, the peas go into fresh water with a pinch of salt and simmer slowly for the best part of an hour until they collapse into a thick green porridge. A teaspoon of butter and a pinch more salt finish the bowl, with a small spoon of mint sauce or chopped fresh mint folded through for the proper northern version. Some chip-shop bowls add a teaspoon of sugar to round the savouriness; some Yorkshire households add a splash of malt vinegar at the table. Eat warm.
 
 ## Ingredients
 

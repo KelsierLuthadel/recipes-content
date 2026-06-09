@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Welsh take on cheese on toast, and a substantially better dish than the name suggests. You build a thick cheese sauce from a roux of butter and flour cooked together, ale and milk whisked in to loosen, then mature cheddar melted in with mustard and a hit of Worcestershire. The mixture should be thick enough to spread with a spoon, not pour. Pile it onto thick-cut toasted bread (white or wholemeal, never sourdough), and slide under a hot grill until the top is bubbling and freckled with gold. Eaten standing at the kitchen counter while it's still too hot, with a pickle or a glass of cold ale on the side. The Welsh have always taken cheese seriously; this is the simplest argument for why.
+The Welsh take on cheese on toast, and a substantially better dish than the name suggests. You build a thick cheese sauce from a roux of butter and flour cooked together, ale and milk whisked in to loosen, then mature cheddar melted in with mustard and a hit of Worcestershire. The mixture should be thick enough to spread with a spoon, not pour. Pile it onto thick-cut toasted bread (white or wholemeal, never sourdough), and slide under a hot grill until the top is bubbling and freckled with gold. Eat standing at the kitchen counter while it's still too hot, with a pickle or a glass of cold ale on the side. The Welsh have always taken cheese seriously; this is the simplest argument for why.
 
 ## Ingredients
 

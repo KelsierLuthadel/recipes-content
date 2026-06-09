@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Enchiladas Suizas (literally "Swiss enchiladas") is one of Mexico City's most beloved restaurant classics and a Mexican Sunday-family-lunch staple. Corn tortillas are briefly heated in oil till pliable, filled with shredded chicken, rolled tight and arranged in a baking dish, then topped with a creamy green sauce: tomatillos, jalapeños, cilantro, garlic, onion and chicken stock blitzed together, fried briefly in oil to deepen, then enriched with cream or crema. Grated Oaxaca cheese (the Mexican stringy melting cheese; mozzarella is the easy substitute) smothers the top, and the dish bakes till the cheese melts into a golden crust. The dish was created at Sanborns in Mexico City in the 1950s where Swiss chefs were experimenting with Mexican classics; the cream-and-cheese addition is what gave it its "Suiza" name. Eaten with rice, refried beans, sliced avocado, raw onion and lime wedges.
+Enchiladas Suizas (literally "Swiss enchiladas") is one of Mexico City's most beloved restaurant classics and a Mexican Sunday-family-lunch staple. Corn tortillas are briefly heated in oil till pliable, filled with shredded chicken, rolled tight and arranged in a baking dish, then topped with a creamy green sauce: tomatillos, jalapeños, cilantro, garlic, onion and chicken stock blitzed together, fried briefly in oil to deepen, then enriched with cream or crema. Grated Oaxaca cheese (the Mexican stringy melting cheese; mozzarella is the easy substitute) smothers the top, and the dish bakes till the cheese melts into a golden crust. The dish was created at Sanborns in Mexico City in the 1950s where Swiss chefs were experimenting with Mexican classics; the cream-and-cheese addition is what gave it its "Suiza" name. Eat with rice, refried beans, sliced avocado, raw onion and lime wedges.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Enchiladas Suizas (literally "Swiss enchiladas") is one of Mexico City's most be
 - 100 ml Mexican crema (or sour cream)
 
 ### Tortillas and cheese
-- 12 corn tortillas (the canonical Mexican choice)
+- 12 corn tortillas (the traditional Mexican choice)
 - 4 tablespoons vegetable oil (for warming the tortillas)
 - 400 g grated Oaxaca cheese (or mozzarella + 50 g grated Parmesan)
 

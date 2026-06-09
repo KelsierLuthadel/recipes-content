@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Francesinha (literally "little French girl") is Porto's iconic over-the-top sandwich and one of the most distinctive dishes in northern Portugal: thick slices of toasted white bread layered with pan-fried steak, linguiça, chouriço, thinly sliced ham, fresh sausage and Swiss or Gouda cheese, the whole stack smothered in more melted cheese, drowned in a hot spicy red beer-tomato-port sauce (molho de francesinha), traditionally topped with a fried egg with a runny yolk. Served in a deep dish or wide bowl with a heap of crispy fries on the side. Invented in Porto in the 1960s, supposedly by a returning Portuguese emigrant from France who wanted to recreate the croque-monsieur in Portuguese style; the result was characteristically excessive and has become a Porto cultural icon. The canonical version stacks at least three meats: steak, ham, and a smoked sausage. The sauce is everything (port wine, beer, tomato, paprika, piri-piri and stock); it is the defining element, not a finishing flourish. Ladled generously till the sandwich is partly submerged.
+Francesinha (literally "little French girl") is Porto's iconic over-the-top sandwich and one of the most distinctive dishes in northern Portugal: thick slices of toasted white bread layered with pan-fried steak, linguiça, chouriço, thinly sliced ham, fresh sausage and Swiss or Gouda cheese, the whole stack smothered in more melted cheese, drowned in a hot spicy red beer-tomato-port sauce (molho de francesinha), traditionally topped with a fried egg with a runny yolk. Served in a deep dish or wide bowl with a heap of crispy fries on the side. Invented in Porto in the 1960s, supposedly by a returning Portuguese emigrant from France who wanted to recreate the croque-monsieur in Portuguese style; the result was characteristically excessive and has become a Porto cultural icon. The traditional version stacks at least three meats: steak, ham, and a smoked sausage. The sauce is everything (port wine, beer, tomato, paprika, piri-piri and stock); it is the defining element, not a finishing flourish. Ladled generously till the sandwich is partly submerged.
 
 ## Ingredients
 
@@ -97,11 +97,11 @@ Francesinha (literally "little French girl") is Porto's iconic over-the-top sand
 5. Serve immediately.
 
 ## Notes
-- **Multiple meats:** the canonical excess is the point.
+- **Multiple meats:** the traditional excess is the point.
 - **The sauce is everything:** worth the effort.
 - **Submerge in sauce:** don't drizzle.
 - **Eat with a fork:** the dish is too messy for hands.
-- **Best with cold beer:** the canonical Portuguese pairing.
+- **Best with cold beer:** the traditional Portuguese pairing.
 
 ## Variations
 **Francesinha do mar (seafood):** swap the meats for shrimp, salt cod and grilled fish; coastal Porto variation.

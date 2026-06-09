@@ -2,7 +2,7 @@
 
 ![Sticky Rice](resources/sticky-rice.jpg)
 
-*Laos's staple grain: glutinous rice soaked overnight, steamed in a tall conical bamboo basket till the grains turn translucent, fluffy and stretchy. Eaten by hand-rolling into balls and dipping into laap, tam mak hung or jeow bong.*
+*Laos's staple grain: glutinous rice soaked overnight, steamed in a tall conical bamboo basket till the grains turn translucent, fluffy and stretchy. Eat by hand-rolling into balls and dipping into laap, tam mak hung or jeow bong.*
 
 **Serves:** 6 (about 600 g cooked rice)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sticky rice is the most identity-defining Lao staple, so central to the culture that Lao people call themselves "luk khao niao" (children of sticky rice). Per capita, Laos consumes more sticky rice than any other country on earth. Three things matter for canonical Lao sticky rice. The variety must be Thai or Lao long-grain glutinous rice (sold as "Thai sticky rice", "sweet rice" or "glutinous rice" at Asian grocers, not Japanese short-grain sushi rice, which is a different type entirely). The dry grains must soak in cold water at least six hours and ideally twelve to twenty-four; skipping the soak gives undercooked hard grains. The cooking is steam, never boiling in water: soaked rice steams in a bamboo conical basket (huay) over a pot of boiling water for twenty to twenty-five minutes till the grains turn translucent, fluffy and stretchy. A perforated metal steamer or a fine sieve over a pot substitutes. Eaten by pulling a small ball with the fingers, rolling briefly to compact, and dipping into whichever small plates cover the Lao table.
+Sticky rice is the most identity-defining Lao staple, so central to the culture that Lao people call themselves "luk khao niao" (children of sticky rice). Per capita, Laos consumes more sticky rice than any other country on earth. Three things matter for traditional Lao sticky rice. The variety must be Thai or Lao long-grain glutinous rice (sold as "Thai sticky rice", "sweet rice" or "glutinous rice" at Asian grocers, not Japanese short-grain sushi rice, which is a different type entirely). The dry grains must soak in cold water at least six hours and ideally twelve to twenty-four; skipping the soak gives undercooked hard grains. The cooking is steam, never boiling in water: soaked rice steams in a bamboo conical basket (huay) over a pot of boiling water for twenty to twenty-five minutes till the grains turn translucent, fluffy and stretchy. A perforated metal steamer or a fine sieve over a pot substitutes. Eat by pulling a small ball with the fingers, rolling briefly to compact, and dipping into whichever small plates cover the Lao table.
 
 ## Ingredients
 
@@ -52,7 +52,7 @@ Sticky rice is the most identity-defining Lao staple, so central to the culture 
 ### Stage 4 - Transfer to a serving basket
 1. Tip the cooked rice onto a clean board or into a serving basket.
 2. Knead briefly with a wooden spoon to release steam (this prevents the rice going gummy).
-3. Transfer to a small bamboo serving basket (the canonical Lao way) or a tea-towel-lined bowl with a tight lid.
+3. Transfer to a small bamboo serving basket (the traditional Lao way) or a tea-towel-lined bowl with a tight lid.
 
 ### Stage 5 - Serve
 1. Place the basket on the table.
@@ -62,9 +62,9 @@ Sticky rice is the most identity-defining Lao staple, so central to the culture 
 ## Notes
 - **Use Thai / Lao sticky rice ONLY:** Japanese sushi rice, Chinese sticky rice or jasmine rice all give different (and wrong) results.
 - **Overnight soak is non-negotiable:** the grains MUST absorb water before steaming.
-- **Steam, never boil:** boiling submerged in water gives a porridge; the canonical Lao method is steam only.
+- **Steam, never boil:** boiling submerged in water gives a porridge; the traditional Lao method is steam only.
 - **Eat warm:** sticky rice firms as it cools. A small bamboo basket with a lid keeps it warm and slightly humid.
-- **Hand-eating is canonical:** chopsticks or spoons are wrong. Pull a small ball with the fingers, roll, dip.
+- **Hand-eating is traditional:** chopsticks or spoons are wrong. Pull a small ball with the fingers, roll, dip.
 
 ## Variations
 **Coconut sticky rice (for desserts):** add 200 ml of coconut milk + 2 tablespoons sugar to the cooked rice; let absorb 10 minutes. For mango sticky rice.
@@ -72,7 +72,7 @@ Sticky rice is the most identity-defining Lao staple, so central to the culture 
 **Smaller portion:** halve the ingredients for 3-4 diners.
 
 ## Serving
-At every Lao meal (the canonical setting; sticky rice is on every Lao table at every meal) · at a Lao temple offering · at a Lao New Year (Pi Mai) feast · at a Lao family Sunday lunch · at home as the canonical Lao or Northern Thai staple · paired with laap, tam mak hung, or any Lao or Northern Thai dish.
+At every Lao meal (the traditional setting; sticky rice is on every Lao table at every meal) · at a Lao temple offering · at a Lao New Year (Pi Mai) feast · at a Lao family Sunday lunch · at home as the traditional Lao or Northern Thai staple · paired with laap, tam mak hung, or any Lao or Northern Thai dish.
 
 ## Storage
 - Best eaten warm within 4 hours of cooking.

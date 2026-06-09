@@ -2,7 +2,7 @@
 
 ![Calabacitas NM](resources/calabacitas-new-mexican.jpg)
 
-*New Mexico's squash-corn-and-green-chile sauté: cubes of summer squash sautéed with sweet corn, roasted Hatch green chillies, onion, garlic and a touch of cream and grated Monterey Jack. The Pueblo-Hispanic NM home cook standard: vegetarian, the canonical summer side.*
+*New Mexico's squash-corn-and-green-chile sauté: cubes of summer squash sautéed with sweet corn, roasted Hatch green chillies, onion, garlic and a touch of cream and grated Monterey Jack. The Pueblo-Hispanic NM home cook standard: vegetarian, the traditional summer side.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-New Mexican calabacitas is the canonical NM Pueblo-Hispanic summer vegetable side: cubes of zucchini and yellow squash sautéed with sweet corn kernels, chopped onion, garlic, and a generous heap of roasted-and-peeled Hatch green chillies, finished with a touch of cream and plenty of grated Monterey Jack cheese. The dish is similar to the Southwest version but with more pronounced NM Hatch chile presence. Vegetarian. Served alongside grilled meats, enchiladas, or as a one-pot vegetarian dinner with tortillas.
+New Mexican calabacitas is the traditional NM Pueblo-Hispanic summer vegetable side: cubes of zucchini and yellow squash sautéed with sweet corn kernels, chopped onion, garlic, and a generous heap of roasted-and-peeled Hatch green chillies, finished with a touch of cream and plenty of grated Monterey Jack cheese. The dish is similar to the Southwest version but with more pronounced NM Hatch chile presence. Vegetarian. Served alongside grilled meats, enchiladas, or as a one-pot vegetarian dinner with tortillas.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-South Africa's defining take on the hamburger: a juicy beef patty topped with chakalaka, the country's iconic spicy vegetable relish that originated in the townships of Johannesburg in the 1950s. The chakalaka is a quick-cooked relish-stew of onion, garlic, fresh ginger, peppers, grated carrot, tinned tomato, mild curry powder, paprika, chilli, and the canonical ingredient that distinguishes it from any other African pepper-and-tomato relish: a tin of Heinz baked beans stirred in at the end (the beans aren't an addition, they're a defining ingredient). Spooned warm over a grilled patty with a slice of melty cheddar, crisp lettuce, tomato and red onion on a soft toasted bun. The chakalaka goes warm, not cold from the fridge; warmth releases its aromas. Melted cheddar between patty and chakalaka holds the relish back from making the bun soggy.
+South Africa's defining take on the hamburger: a juicy beef patty topped with chakalaka, the country's iconic spicy vegetable relish that originated in the townships of Johannesburg in the 1950s. The chakalaka is a quick-cooked relish-stew of onion, garlic, fresh ginger, peppers, grated carrot, tinned tomato, mild curry powder, paprika, chilli, and the traditional ingredient that distinguishes it from any other African pepper-and-tomato relish: a tin of Heinz baked beans stirred in at the end (the beans aren't an addition, they're a defining ingredient). Spooned warm over a grilled patty with a slice of melty cheddar, crisp lettuce, tomato and red onion on a soft toasted bun. The chakalaka goes warm, not cold from the fridge; warmth releases its aromas. Melted cheddar between patty and chakalaka holds the relish back from making the bun soggy.
 
 ## Ingredients
 

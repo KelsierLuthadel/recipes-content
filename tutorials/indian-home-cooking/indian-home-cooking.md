@@ -28,7 +28,7 @@ A basic Indian home kitchen has:
 
 - **A heavy-bottomed pan** (cast iron or anodised steel) - Indian cooks use a *kadhai* (Indian deep wok) but a heavy frying pan works.
 - **A tawa** (flat griddle) for chapatis and parathas - a heavy cast-iron griddle or even a flat-based heavy pan substitutes.
-- **A pressure cooker** - for dal. The Indian household pressure cooker is the single most-used piece of kitchen kit in India. The Hawkins or Prestige aluminium ones are canonical. A modern electric Instant Pot serves the same function.
+- **A pressure cooker** - for dal. The Indian household pressure cooker is the single most-used piece of kitchen kit in India. The Hawkins or Prestige aluminium ones are traditional. A modern electric Instant Pot serves the same function.
 - **A mortar and pestle** or small spice grinder - for fresh-ground masalas.
 - **Whole spices** - coriander seed, cumin seed, mustard seed, fenugreek, fennel, cardamom (green + black), cloves, cinnamon, peppercorns, dried red chillies, curry leaves, asafoetida, turmeric.
 - **Ghee** (clarified butter) and mustard / sunflower oil. Indian frying is overwhelmingly in ghee or in oil, not in butter.

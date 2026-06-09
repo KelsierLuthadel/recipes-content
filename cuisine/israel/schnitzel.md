@@ -2,7 +2,7 @@
 
 ![Israeli Schnitzel](resources/schnitzel.jpg)
 
-*Israel's national fast lunch: a thin chicken breast pounded flat, breaded with seasoned panko, deep-fried golden. Eaten in pita with hummus and pickles.*
+*Israel's national fast lunch: a thin chicken breast pounded flat, breaded with seasoned panko, deep-fried golden. Eat in pita with hummus and pickles.*
 
 **Serves:** 4
 

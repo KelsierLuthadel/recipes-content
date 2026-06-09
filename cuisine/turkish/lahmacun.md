@@ -102,10 +102,10 @@ Lahmacun (often translated for tourists as "Turkish pizza" though the comparison
 - **Eat immediately:** lahmacun goes from crisp to leathery in 10 minutes. Serve immediately; eat from the hand.
 
 ## Variations
-**Beef lahmacun:** swap the lamb for beef; less fatty so add 1 extra tablespoon of olive oil to the paste. Less canonical but widely available.
+**Beef lahmacun:** swap the lamb for beef; less fatty so add 1 extra tablespoon of olive oil to the paste. Less traditional but widely available.
 **Vegetarian lahmacun:** swap the meat for 300 g of cooked-and-mashed red lentils or 300 g of finely chopped mushrooms; double the bell pepper. Less traditional but works.
 **Spicier lahmacun:** double the Aleppo pepper and add 2 chopped fresh hot chillies to the paste. Common southeastern Anatolian variation.
-**With cheese:** sprinkle a small amount of grated kashar (Turkish cheese; or Greek kasseri; or mozzarella) over the meat before baking. Less canonical but increasingly common in modern Istanbul bakeries.
+**With cheese:** sprinkle a small amount of grated kashar (Turkish cheese; or Greek kasseri; or mozzarella) over the meat before baking. Less traditional but increasingly common in modern Istanbul bakeries.
 
 ## Serving
 Rolled from the hand with a glass of cold ayran. Or open-faced on a plate as a meze. Sliced into wedges as a starter. At lunch with a salad, at dinner alongside a yogurt sauce. Drink: ayran (the proper Turkish pairing), Türk kahvesi after, or a glass of cold beer.

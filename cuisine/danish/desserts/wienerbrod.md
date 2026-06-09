@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Wienerbrød is the most internationally famous Danish food. Confusingly, the English-speaking world calls it "Danish pastry" while Danes call it Wienerbrød ("Vienna bread"), a name dating from the 1850s when Austrian bakers came to Copenhagen during a Danish bakers' strike and brought the laminated-dough technique with them. The Danes adapted it (more butter, more egg in the dough, more elaborate fillings) and made it their own. Same laminated principle as croissants: a yeasted dough wrapped around a block of butter, rolled and folded multiple times to create dozens of paper-thin alternating layers. The butter releases steam in the oven that pushes the layers apart and gives the canonical shattering flaky texture. Shaped into spandauer (square pastries with a vanilla-custard centre), kanelsnegle (cinnamon snails), almond braids, fruit-topped pinwheels. Topped after baking with an icing-sugar glaze and flaked almonds.
+Wienerbrød is the most internationally famous Danish food. Confusingly, the English-speaking world calls it "Danish pastry" while Danes call it Wienerbrød ("Vienna bread"), a name dating from the 1850s when Austrian bakers came to Copenhagen during a Danish bakers' strike and brought the laminated-dough technique with them. The Danes adapted it (more butter, more egg in the dough, more elaborate fillings) and made it their own. Same laminated principle as croissants: a yeasted dough wrapped around a block of butter, rolled and folded multiple times to create dozens of paper-thin alternating layers. The butter releases steam in the oven that pushes the layers apart and gives the traditional shattering flaky texture. Shaped into spandauer (square pastries with a vanilla-custard centre), kanelsnegle (cinnamon snails), almond braids, fruit-topped pinwheels. Topped after baking with an icing-sugar glaze and flaked almonds.
 
 ## Ingredients
 
@@ -146,14 +146,14 @@ Wienerbrød is the most internationally famous Danish food. Confusingly, the Eng
 
 ## Notes
 - **Cold lamination butter:** the butter and dough need to be a similar temperature. Both at ~10-15°C is right.
-- **3 single folds OR 1 + 1 double:** the canonical Danish lamination.
+- **3 single folds OR 1 + 1 double:** the traditional Danish lamination.
 - **Overnight rest between lamination and shaping:** essential for the layers to be defined and the dough to relax.
 - **High heat for the bake:** 220°C minimum; the steam needs to push the layers apart hard.
 - **Glaze while warm, not hot:** the glaze sets right; hot pastries melt it into the surface.
 
 ## Variations
 **Kanelsnegle (cinnamon snails) only:** the most popular Danish form. Cut into thicker (4cm) slices for a more substantial bun.
-**Tebirkes:** topped with poppy seeds instead of almonds (less canonical but a Danish standard).
+**Tebirkes:** topped with poppy seeds instead of almonds (less traditional but a Danish standard).
 **Apple-filled (æbleskiver styles):** spread cooked apple compote in place of the cinnamon-sugar.
 **Apricot-jam pinwheels:** swap the vanilla custard for apricot jam in the spandauer.
 **Vegan version:** use plant butter (high-fat); soy milk; flax egg. Works but the lamination is harder.

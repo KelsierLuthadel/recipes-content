@@ -2,7 +2,7 @@
 
 ![Cornbread](resources/cornbread.jpg)
 
-*Skillet cornbread: a hot well-buttered cast-iron pan with a crisp golden crust beneath a slightly sweet crumb. Eaten with chilli, fried chicken or honey.*
+*Skillet cornbread: a hot well-buttered cast-iron pan with a crisp golden crust beneath a slightly sweet crumb. Eat with chilli, fried chicken or honey.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A 25 cm cast-iron skillet is preheated in the hot oven with a generous knob of butter, the butter browns slightly while the pan heats. The batter is fast: cornmeal, flour, sugar, baking powder, salt, plus buttermilk, eggs and melted butter. The batter is poured into the hot pan; the cornmeal sears immediately on contact, giving the crisp golden crust. 25 minutes; tipped out and sliced.
+Cornbread is the Southern side that lands next to bowls of chilli, plates of fried chicken, slabs of ribs and pots of black-eyed peas, and the cast-iron skillet it bakes in does most of the work. You preheat a 25 cm cast-iron pan in a screaming-hot oven with a generous knob of butter, so the butter browns slightly while the pan comes up to temperature. Then pour the batter in and listen for the sizzle; that sizzle is the whole point, the cornmeal searing instantly into the crisp golden crust that distinguishes Southern skillet cornbread from any pale tray-baked version. The batter is a one-bowl mix of cornmeal, flour, baking powder, salt, buttermilk, eggs and melted butter. The Southern argument about whether sweetened or unsweetened is "real" cornbread is fiercer than it has any right to be; a small spoon of sugar splits the difference. Tipped out, sliced and eaten warm with butter melting into the crumb.
 
 ## Ingredients
 

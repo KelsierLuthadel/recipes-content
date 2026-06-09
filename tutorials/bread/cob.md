@@ -55,6 +55,6 @@ When the cob goes into the oven, the seam goes on the bottom and the dome you sh
 ## Where Next
 - [Coburg](coburg.md): same cob shape, finished with a deep cross-cut.
 - [Cottage](cottage.md): a small cob stacked on a larger one, joined with a finger-hole.
-- [Sourdough Basics](sourdough.md): the boule is the canonical sourdough shape.
+- [Sourdough Basics](sourdough.md): the boule is the traditional sourdough shape.
 - [Scoring](scoring.md): which marks work best on a domed loaf.
 - [Shape Gallery](shapes.md): back to the full shape list.

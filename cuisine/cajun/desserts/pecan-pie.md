@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-The defining dessert of the American South, and a Thanksgiving table fixture from Louisiana up through the Carolinas. You blind-bake a simple all-butter shortcrust shell to a deep gold, then toast pecans briefly in a dry pan to bring out their oils before scattering them across the base of the cooled crust. The filling is whisked smooth from eggs, brown sugar, golden syrup (or corn syrup), butter, vanilla, a slug of bourbon and a pinch of salt, then poured over the pecans where it bubbles up between the nuts. Bake at moderate heat until the centre has just set with a slight wobble - rushing it gives a runny centre, overbaking gives a dry, granular one. Eaten warm with a scoop of vanilla ice cream or a generous dollop of softly whipped cream, with the kitchen still smelling of toasted pecans an hour later.
+The defining dessert of the American South, and a Thanksgiving table fixture from Louisiana up through the Carolinas. You blind-bake a simple all-butter shortcrust shell to a deep gold, then toast pecans briefly in a dry pan to bring out their oils before scattering them across the base of the cooled crust. The filling is whisked smooth from eggs, brown sugar, golden syrup (or corn syrup), butter, vanilla, a slug of bourbon and a pinch of salt, then poured over the pecans where it bubbles up between the nuts. Bake at moderate heat until the centre has just set with a slight wobble - rushing it gives a runny centre, overbaking gives a dry, granular one. Eat warm with a scoop of vanilla ice cream or a generous dollop of softly whipped cream, with the kitchen still smelling of toasted pecans an hour later.
 
 ## Ingredients
 

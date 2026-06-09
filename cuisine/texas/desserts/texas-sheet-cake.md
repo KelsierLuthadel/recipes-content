@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Texas sheet cake is the Lone Star State's iconic chocolate cake and one of America's great regional dessert classics: a thin, fudgy, deeply chocolatey single-layer cake baked in a large rectangular sheet pan, made with butter, oil, cocoa powder, sugar, eggs and buttermilk, with a small amount of cinnamon for the Tex-Mex touch. Immediately after baking, while the cake is still hot, a warm chocolate-pecan icing is poured over so the warm icing meets the warm cake, soaks in slightly and sets into a fudgy chocolate top with pecans throughout. Feeds a crowd from one tray, travels well, the canonical Texan offering at church potlucks, family reunions and Friday-night football games. The hot-on-hot pour is essential for the fudgy texture and soaking effect. Chopped pecans in the icing aren't optional; they're Texan. The cake is thin (about 2.5 cm thick); it's a sheet cake, not a layer cake.
+Texas sheet cake is the Lone Star State's iconic chocolate cake and one of America's great regional dessert classics: a thin, fudgy, deeply chocolatey single-layer cake baked in a large rectangular sheet pan, made with butter, oil, cocoa powder, sugar, eggs and buttermilk, with a small amount of cinnamon for the Tex-Mex touch. Immediately after baking, while the cake is still hot, a warm chocolate-pecan icing is poured over so the warm icing meets the warm cake, soaks in slightly and sets into a fudgy chocolate top with pecans throughout. Feeds a crowd from one tray, travels well, the traditional Texan offering at church potlucks, family reunions and Friday-night football games. The hot-on-hot pour is essential for the fudgy texture and soaking effect. Chopped pecans in the icing aren't optional; they're Texan. The cake is thin (about 2.5 cm thick); it's a sheet cake, not a layer cake.
 
 ## Ingredients
 
@@ -84,7 +84,7 @@ Texas sheet cake is the Lone Star State's iconic chocolate cake and one of Ameri
 
 ## Variations
 **With buttermilk glaze:** less common; replace cocoa in icing with extra butter for a vanilla-buttermilk glaze.
-**With walnuts:** swap pecans for walnuts; less canonical Texan.
+**With walnuts:** swap pecans for walnuts; less traditional Texan.
 **Without nuts:** for nut-allergy households; gives a smooth chocolate-frosted version.
 **With coffee:** add 1 tablespoon instant coffee to the cocoa-butter-water boil; deepens chocolate flavour.
 

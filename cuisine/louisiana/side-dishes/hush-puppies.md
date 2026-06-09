@@ -2,7 +2,7 @@
 
 ![Hush Puppies](resources/hush-puppies.jpg)
 
-*Louisiana's fried cornmeal balls: yellow cornmeal batter with onion, buttermilk and a touch of sugar, scooped and deep-fried till golden round balls with crispy outsides and soft savoury insides. The canonical fish-fry accompaniment; the side that appears alongside every Southern catfish meal.*
+*Louisiana's fried cornmeal balls: yellow cornmeal batter with onion, buttermilk and a touch of sugar, scooped and deep-fried till golden round balls with crispy outsides and soft savoury insides. The traditional fish-fry accompaniment; the side that appears alongside every Southern catfish meal.*
 
 **Serves:** Makes 24 hush puppies
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Hush puppies are Louisiana's (and the wider American South's) canonical fried-fish accompaniment: a thick cornmeal batter (yellow cornmeal + flour + baking powder + sugar + chopped onion + buttermilk + egg + salt + cayenne) scooped with two spoons or a small ice cream scoop and deep-fried till golden brown round balls. The origin myth is that Civil War-era cooks fried these to throw to dogs to "hush the puppies" while preparing meals. Served piping hot alongside fried catfish (canonical), fried shrimp, fried chicken.
+Hush puppies are Louisiana's (and the wider American South's) traditional fried-fish accompaniment: a thick cornmeal batter (yellow cornmeal + flour + baking powder + sugar + chopped onion + buttermilk + egg + salt + cayenne) scooped with two spoons or a small ice cream scoop and deep-fried till golden brown round balls. The origin myth is that Civil War-era cooks fried these to throw to dogs to "hush the puppies" while preparing meals. Served piping hot alongside fried catfish (traditional), fried shrimp, fried chicken.
 
 ## Ingredients
 
@@ -63,7 +63,7 @@ Hush puppies are Louisiana's (and the wider American South's) canonical fried-fi
 1. Salt immediately while hot.
 
 ## Notes
-- **Yellow cornmeal canonical.**
+- **Yellow cornmeal traditional.**
 - **Chopped onion not powder:** texture matters.
 - **180°C oil:** crucial.
 - **Eat immediately.**

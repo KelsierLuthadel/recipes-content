@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes (plus 12 hours of optional flax soaking)
 
 ## Overview
-Emoliente is one of Peru's most distinctive street drinks: and one of the world's most under-known herbal hot beverages. The name has roots in colonial-era pharmacy traditions ("emoliente" in old Spanish meant a soothing medicine), and the drink has been a fixture of Peruvian street life since at least the late 19th century. Sold from temporary wheeled carts on every Peruvian street corner from 5 am till mid-morning, ladled out of a battered metal pot into small paper or ceramic cups, drunk standing at the cart in five minutes. The herbal base is toasted barley with horsetail (cola de caballo), flax seeds (linaza), alfalfa and boldo leaves: together creating a slightly thick, almost-soupy broth with a unique herbal character. A piece of fresh aloe vera flesh (food-grade jarred gel substitutes) goes in at the end, giving the drink its slightly slimy, gel-like texture that's part of the canonical identity. Finished with a generous squeeze of lime and a spoonful of honey, sometimes with a tablespoon of malt extract for body.
+Emoliente is one of Peru's most distinctive street drinks: and one of the world's most under-known herbal hot beverages. The name has roots in colonial-era pharmacy traditions ("emoliente" in old Spanish meant a soothing medicine), and the drink has been a fixture of Peruvian street life since at least the late 19th century. Sold from temporary wheeled carts on every Peruvian street corner from 5 am till mid-morning, ladled out of a battered metal pot into small paper or ceramic cups, drunk standing at the cart in five minutes. The herbal base is toasted barley with horsetail (cola de caballo), flax seeds (linaza), alfalfa and boldo leaves: together creating a slightly thick, almost-soupy broth with a unique herbal character. A piece of fresh aloe vera flesh (food-grade jarred gel substitutes) goes in at the end, giving the drink its slightly slimy, gel-like texture that's part of the traditional identity. Finished with a generous squeeze of lime and a spoonful of honey, sometimes with a tablespoon of malt extract for body.
 
 ## Ingredients
 
@@ -19,8 +19,8 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 - 100 g pearl barley (substitute: half barley, half rolled oats)
 - 30 g flax seeds (linaza)
 - 4 tablespoons dried horsetail leaves (cola de caballo) - sold at health-food shops or Latin American shops
-- 2 tablespoons dried alfalfa leaves (optional but canonical)
-- 4 dried boldo leaves OR 2 tablespoons dried boldo (optional but canonical)
+- 2 tablespoons dried alfalfa leaves (optional but traditional)
+- 4 dried boldo leaves OR 2 tablespoons dried boldo (optional but traditional)
 - 1 cinnamon stick
 - 4 cloves
 - 1 strip of orange peel
@@ -38,7 +38,7 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 - A small pinch of camu camu powder - the Amazon vitamin-C berry
 
 ### To serve
-- Hot, in small ceramic mugs or paper cups (the canonical street-vendor serving)
+- Hot, in small ceramic mugs or paper cups (the traditional street-vendor serving)
 - A small dish of extra honey for adjusting sweetness
 
 ## Method
@@ -75,7 +75,7 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 1. Pour the hot emoliente into small mugs (about 200 ml each).
 2. Each diner adds: 1 tablespoon of fresh lime juice + 1 tablespoon of honey to taste.
 3. Stir; drink hot.
-4. The first sip is the canonical surprise: slightly slimy from the flax mucilage and aloe; herbal; warmly spiced; lime-bright; honey-sweet.
+4. The first sip is the traditional surprise: slightly slimy from the flax mucilage and aloe; herbal; warmly spiced; lime-bright; honey-sweet.
 
 ### Stage 7 - The Peruvian street-vendor variation
 1. The street-cart version: the emolientero has the brew in a battered metal pot kept warm on a small charcoal-burner.
@@ -85,7 +85,7 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 ## Notes
 - **Pearl barley toasted is essential:** the toasting develops a nutty character that's missing if you use raw barley.
 - **Slow simmer 30 minutes:** under 20 minutes and the herbs don't fully extract; over 45 minutes and the broth becomes overly bitter.
-- **Aloe vera fresh:** the slightly slimy texture is part of the canonical character. Outside Peru, jarred food-grade aloe gel is the substitute.
+- **Aloe vera fresh:** the slightly slimy texture is part of the traditional character. Outside Peru, jarred food-grade aloe gel is the substitute.
 - **Lime AND honey:** the herbal broth on its own is unpleasant; the lime-honey finishing is what makes it drinkable.
 - **Boldo can be omitted:** it's the hardest herb to source outside Peru. The drink still works without it.
 - **Drink hot:** emoliente is a hot drink. Cold emoliente loses its character.
@@ -101,7 +101,7 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 **Emoliente con malta:** add 2 tablespoons of malt extract to the warm brew - the deeper, richer variant.
 
 ## Serving
-At a Peruvian street-cart at dawn (the canonical setting; emoliente vendors set up at 5 am and serve till mid-morning) · in any Peruvian town's main street · at a Peruvian Andean village square · at a Peruvian household as a Sunday-morning digestive · at a Peruvian Christmas Eve dinner as the morning-after recovery drink · at home as the herbal-tea alternative to coffee · paired with a slice of dense Andean bread or a small sweet biscuit.
+At a Peruvian street-cart at dawn (the traditional setting; emoliente vendors set up at 5 am and serve till mid-morning) · in any Peruvian town's main street · at a Peruvian Andean village square · at a Peruvian household as a Sunday-morning digestive · at a Peruvian Christmas Eve dinner as the morning-after recovery drink · at home as the herbal-tea alternative to coffee · paired with a slice of dense Andean bread or a small sweet biscuit.
 
 ## Storage
 - Refrigerates 5 days. Reheat gently on the stovetop.

@@ -110,7 +110,7 @@ If a recipe slug listed in `side-pairings.json` doesn't exist, it's silently dro
 
 ## Substitutions
 
-[`substitutions.json`](../substitutions.json) maps a canonical ingredient (e.g. `"double cream"`) to one or more swap suggestions. The recipe page automatically inserts a "swap" button on any ingredient line that mentions a key. Keys match by substring; longest match wins.
+[`substitutions.json`](../substitutions.json) maps a traditional ingredient (e.g. `"double cream"`) to one or more swap suggestions. The recipe page automatically inserts a "swap" button on any ingredient line that mentions a key. Keys match by substring; longest match wins.
 
 ## Required scripts
 

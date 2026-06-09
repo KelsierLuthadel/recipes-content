@@ -2,7 +2,7 @@
 
 ![Jug-Jug](resources/jug-jug.jpg)
 
-*Barbados's canonical Christmas Eve dish: pigeon peas and Guinea corn (millet flour) simmered with salt-cured beef and pork, bonnet pepper, thyme and Bajan green seasoning into a thick coarse savoury porridge.*
+*Barbados's traditional Christmas Eve dish: pigeon peas and Guinea corn (millet flour) simmered with salt-cured beef and pork, bonnet pepper, thyme and Bajan green seasoning into a thick coarse savoury porridge.*
 
 **Serves:** 8
 
@@ -15,8 +15,8 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 
 ## Ingredients
 
-### The salt-cured meat (canonical Bajan Christmas)
-- 300 g salt-cured beef OR corned beef (the canonical Bajan "salt meat"; Carib trinity choice; can use pickled beef from a Caribbean butcher)
+### The salt-cured meat (traditional Bajan Christmas)
+- 300 g salt-cured beef OR corned beef (the traditional Bajan "salt meat"; Carib trinity choice; can use pickled beef from a Caribbean butcher)
 - 300 g salt-cured pork OR ham hock (the smoked or salted Caribbean cut)
 - Cold water for soaking
 
@@ -47,7 +47,7 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 - 2 tablespoons unsalted butter
 - 2 stalks scallion (green parts), sliced
 
-### To serve (the canonical Bajan Christmas Eve plate)
+### To serve (the traditional Bajan Christmas Eve plate)
 - A whole baked ham OR a Bajan roast pork
 - Sliced baked sweet potato OR caramelised pumpkin
 - A green salad
@@ -68,7 +68,7 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 1. Drain the soaked pigeon peas.
 2. Place in a fresh pot of cold water with a bay leaf.
 3. Bring to a simmer; cook 60-75 minutes till the peas are completely tender (they should crush easily between your fingers).
-4. Drain (RESERVE the cooking broth - the canonical Bajan cooking liquid for the rest of the dish).
+4. Drain (RESERVE the cooking broth - the traditional Bajan cooking liquid for the rest of the dish).
 
 ### Stage 2 alternative - If using canned pigeon peas
 1. Drain the canned peas; use 600 ml water instead of pea broth.
@@ -117,10 +117,10 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 3. Pair with a glass of cold Bajan rum punch or sorrel.
 
 ## Notes
-- **Christmas Eve is canonical:** jug-jug is eaten almost exclusively at Christmas Eve dinner in Barbados. Eating it in March is acceptable but feels off-season to most Bajan palates.
+- **Christmas Eve is traditional:** jug-jug is eaten almost exclusively at Christmas Eve dinner in Barbados. Eating it in March is acceptable but feels off-season to most Bajan palates.
 - **Salt meat overnight-soak:** essential; without it the dish is over-salty.
-- **Guinea corn flour (millet flour) is canonical:** sold at Caribbean shops. The cornmeal + semolina substitute works but lacks the slight nutty flavour of millet.
-- **Mash half the peas:** the canonical Bajan move - half mashed, half whole - gives the dish its thick texture with bean character.
+- **Guinea corn flour (millet flour) is traditional:** sold at Caribbean shops. The cornmeal + semolina substitute works but lacks the slight nutty flavour of millet.
+- **Mash half the peas:** the traditional Bajan move - half mashed, half whole - gives the dish its thick texture with bean character.
 - **Slow simmer uncovered:** the slow reduction is what builds the deep flavour and the thick porridge texture.
 - **Pigeon peas, not green peas:** the small dried Caribbean beans, not garden peas.
 - **The dish is dense:** a spoonful stays mounded on the plate. If it pours, you have soup, not jug-jug.
@@ -135,12 +135,12 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 **Smaller-batch jug-jug (4 portions):** halve all the ingredients; 1 hour cook time.
 
 ## Serving
-At a Bajan Christmas Eve dinner (the canonical setting; the dish is so locked-in to 24 December that it's effectively a Bajan Christmas symbol) · at a Bajan Christmas Day lunch · at a Bajan family Christmas-week gathering · at a Bajan church Christmas potluck · at a Bajan diaspora Christmas dinner anywhere in the world · paired with baked ham, Bajan roast pork, baked sweet potato, caramelised pumpkin, and Bajan rum punch.
+At a Bajan Christmas Eve dinner (the traditional setting; the dish is so locked-in to 24 December that it's effectively a Bajan Christmas symbol) · at a Bajan Christmas Day lunch · at a Bajan family Christmas-week gathering · at a Bajan church Christmas potluck · at a Bajan diaspora Christmas dinner anywhere in the world · paired with baked ham, Bajan roast pork, baked sweet potato, caramelised pumpkin, and Bajan rum punch.
 
 ## Storage
 - Refrigerates 5 days; reheats well in a saucepan with a small splash of water to loosen.
 - Freezes 3 months in airtight containers; defrost overnight in the fridge.
 - Improves with 1-2 days resting - the flavours marry; the texture firms.
-- Day-old jug-jug pan-fried in butter till crisp on the outside is the canonical Boxing Day breakfast.
+- Day-old jug-jug pan-fried in butter till crisp on the outside is the traditional Boxing Day breakfast.
 - The pre-soaked salt meat keeps refrigerated 3 days before cooking.
 - A "Christmas Eve cooking marathon" tradition in many Bajan households: make jug-jug on 23 December; refrigerate; reheat to serve on the 24th.

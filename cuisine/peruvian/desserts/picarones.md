@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 60 minutes for the dough to rise)
 
 ## Overview
-Picarones are Peru's colonial-era contribution to the global doughnut tradition, distinctive for the sweet-potato-and-squash purée folded into the dough and the dark molasses-rich chancaca syrup drizzled over. Cooked-and-puréed sweet potato (camote) and pumpkin (zapallo or butternut squash) fold into a basic yeasted dough, giving it a deep golden-orange colour and a faintly sweet, faintly vegetal character. The dough is wet and sticky, shaped in the fryer rather than rolled and cut: small rings formed by sliding wet dough off the fingers into hot oil and quickly poking a hole through the centre with a wooden chopstick. Some Lima street vendors do this with both hands at once: a single drop, a single poke, the perfect ring. Chancaca is a Peruvian raw cane-sugar block (similar to Mexican piloncillo), dissolved with cinnamon sticks, cloves, orange peel and canonically a fig leaf into a dark sticky syrup. Drizzled liberally over the hot picarones at serving.
+Picarones are Peru's colonial-era contribution to the global doughnut tradition, distinctive for the sweet-potato-and-squash purée folded into the dough and the dark molasses-rich chancaca syrup drizzled over. Cooked-and-puréed sweet potato (camote) and pumpkin (zapallo or butternut squash) fold into a basic yeasted dough, giving it a deep golden-orange colour and a faintly sweet, faintly vegetal character. The dough is wet and sticky, shaped in the fryer rather than rolled and cut: small rings formed by sliding wet dough off the fingers into hot oil and quickly poking a hole through the centre with a wooden chopstick. Some Lima street vendors do this with both hands at once: a single drop, a single poke, the perfect ring. Chancaca is a Peruvian raw cane-sugar block (similar to Mexican piloncillo), dissolved with cinnamon sticks, cloves, orange peel and traditionally a fig leaf into a dark sticky syrup. Drizzled liberally over the hot picarones at serving.
 
 ## Ingredients
 
@@ -35,7 +35,7 @@ Picarones are Peru's colonial-era contribution to the global doughnut tradition,
 - 4 cloves
 - 1 strip of orange peel (about 5 × 2 cm)
 - 1 strip of lemon peel
-- 1 fresh or dried fig leaf (optional but canonical)
+- 1 fresh or dried fig leaf (optional but traditional)
 - 1 tablespoon dark rum (optional)
 
 ### For frying
@@ -93,9 +93,9 @@ Picarones are Peru's colonial-era contribution to the global doughnut tradition,
 3. Eat immediately - picarones are at their peak for 5-10 minutes.
 
 ## Notes
-- **Sweet potato AND pumpkin:** the canonical Peruvian blend. Either one alone gives a flatter, less interesting dough.
-- **Sticky dough is correct:** picarones are wet and shaped in the fryer; pre-rolled "rounds" lose the canonical irregular shape.
-- **Wet finger to form the hole:** the canonical Peruvian street-vendor technique.
+- **Sweet potato AND pumpkin:** the traditional Peruvian blend. Either one alone gives a flatter, less interesting dough.
+- **Sticky dough is correct:** picarones are wet and shaped in the fryer; pre-rolled "rounds" lose the traditional irregular shape.
+- **Wet finger to form the hole:** the traditional Peruvian street-vendor technique.
 - **180°C oil:** too low and the picarones soak fat; too high and they burn outside before cooking through.
 - **Chancaca syrup not substituted:** the dark molasses depth IS the dish's signature. Maple syrup or honey gives a different (and inferior) result.
 - **Eat hot:** picarones lose 80% of their charm 15 minutes after frying.
@@ -110,7 +110,7 @@ Picarones are Peru's colonial-era contribution to the global doughnut tradition,
 **Mini picarones:** smaller rings (3 cm diameter); for canapés or kids' portions.
 
 ## Serving
-At a Lima street stall (the canonical setting; especially around festival times) · at a Peruvian Independence Day evening · at the Mistura food festival · at a Lima criolla restaurant · at a Peruvian household for the dessert course · at home as a Sunday-night project · paired with hot coffee or a glass of warm spiced wine.
+At a Lima street stall (the traditional setting; especially around festival times) · at a Peruvian Independence Day evening · at the Mistura food festival · at a Lima criolla restaurant · at a Peruvian household for the dessert course · at home as a Sunday-night project · paired with hot coffee or a glass of warm spiced wine.
 
 ## Storage
 - Best within 30 minutes of frying. After an hour the texture firms.

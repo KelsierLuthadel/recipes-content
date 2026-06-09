@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Carne asada hondureña is Honduras's beloved grilled beef and a Sunday-asado staple across the country, distinct from but related to its Mexican cousin: thin slices of flank or skirt steak marinated for several hours in sour orange juice, garlic, cumin, oregano, salt and pepper, grilled over hot charcoal for just 2 to 3 minutes per side till charred outside and pink inside. Served on a wooden platter at the centre of the table with the canonical Honduran sides: chimol (the fresh tomato-onion-coriander salsa, close to Mexican pico de gallo but with green pepper added), tajadas (fried plantains), arroz blanco, frijoles fritos, tortillas, queso fresco and a green salad. Diners make their own taco-style portion. Sour orange (naranja agria) is the canonical citrus; lime plus orange juice substitutes. The beef must be sliced across the grain; flank and skirt have prominent fibres and slicing with the grain gives chewy meat. Hot grill, brief cook; longer than three minutes a side gives well-done beef, which is wrong for this dish.
+Carne asada hondureña is Honduras's beloved grilled beef and a Sunday-asado staple across the country, distinct from but related to its Mexican cousin: thin slices of flank or skirt steak marinated for several hours in sour orange juice, garlic, cumin, oregano, salt and pepper, grilled over hot charcoal for just 2 to 3 minutes per side till charred outside and pink inside. Served on a wooden platter at the centre of the table with the traditional Honduran sides: chimol (the fresh tomato-onion-coriander salsa, close to Mexican pico de gallo but with green pepper added), tajadas (fried plantains), arroz blanco, frijoles fritos, tortillas, queso fresco and a green salad. Diners make their own taco-style portion. Sour orange (naranja agria) is the traditional citrus; lime plus orange juice substitutes. The beef must be sliced across the grain; flank and skirt have prominent fibres and slicing with the grain gives chewy meat. Hot grill, brief cook; longer than three minutes a side gives well-done beef, which is wrong for this dish.
 
 ## Ingredients
 
@@ -97,7 +97,7 @@ Carne asada hondureña is Honduras's beloved grilled beef and a Sunday-asado sta
 5. Diners assemble their own portions; the proper Honduran way is taco-style.
 
 ## Notes
-- **Sour orange (naranja agria) is canonical:** the sour orange of Honduras has a distinctive sour-fragrant character. Outside Central America, the closest substitute is equal parts lime juice and orange juice; or lime juice with a small amount of orange zest.
+- **Sour orange (naranja agria) is traditional:** the sour orange of Honduras has a distinctive sour-fragrant character. Outside Central America, the closest substitute is equal parts lime juice and orange juice; or lime juice with a small amount of orange zest.
 - **4 to 12 hours, not longer:** the citrus marinade tenderises the beef but can over-tenderise. 4 hours minimum, 12 hours maximum; beyond that the beef goes mushy.
 - **Slice across the grain:** the beef must be sliced perpendicular to the muscle fibres for tender slices. Look at the meat carefully before slicing.
 - **Don't overcook:** thin sliced beef needs only 2-3 minutes per side. Longer gives well-done meat which is wrong for carne asada.

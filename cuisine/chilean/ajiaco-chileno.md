@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Ajiaco Chileno (distinct from Colombian ajiaco which is creamy and chicken-based) is the canonical Chilean Monday-morning hangover soup: shredded leftover beef (typically from the previous day's Sunday asado / barbecue; or fresh-cooked beef shin for the everyday version) is added to a brothy soup of sliced potatoes, fried onions, crushed garlic, paprika, cumin and beef stock, simmered together till the potatoes are tender; a soft-poached egg is dropped into each bowl just before serving; finished with chopped coriander and a squeeze of lime. The dish is what every Chilean family makes on a Monday morning to revive themselves after Sunday's parrilla-and-wine excesses; it's also a comforting weekday dinner. Leftover beef is the soul of the dish; shredded asado from yesterday's grill is canonical, though fresh-cooked beef shin works for the everyday version. The soft-poached egg on top with its runny yolk is the Chilean touch. And the broth is properly brothy; this is a soup, not a stew, with plenty of liquid per portion.
+Ajiaco Chileno (distinct from Colombian ajiaco which is creamy and chicken-based) is the traditional Chilean Monday-morning hangover soup: shredded leftover beef (typically from the previous day's Sunday asado / barbecue; or fresh-cooked beef shin for the everyday version) is added to a brothy soup of sliced potatoes, fried onions, crushed garlic, paprika, cumin and beef stock, simmered together till the potatoes are tender; a soft-poached egg is dropped into each bowl just before serving; finished with chopped coriander and a squeeze of lime. The dish is what every Chilean family makes on a Monday morning to revive themselves after Sunday's parrilla-and-wine excesses; it's also a comforting weekday dinner. Leftover beef is the soul of the dish; shredded asado from yesterday's grill is traditional, though fresh-cooked beef shin works for the everyday version. The soft-poached egg on top with its runny yolk is the Chilean touch. And the broth is properly brothy; this is a soup, not a stew, with plenty of liquid per portion.
 
 ## Ingredients
 
@@ -87,7 +87,7 @@ Ajiaco Chileno (distinct from Colombian ajiaco which is creamy and chicken-based
 
 ## Notes
 - **Leftover beef:** the dish is meant to use Sunday's grilled-meat leftovers.
-- **Poached egg essential:** the canonical Chilean touch.
+- **Poached egg essential:** the traditional Chilean touch.
 - **Broth, not stew:** lots of liquid.
 - **Cumin and merkén for the proper Chilean profile:** don't skip.
 - **Eat immediately:** the egg should still be warm and runny.

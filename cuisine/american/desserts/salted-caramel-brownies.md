@@ -11,7 +11,7 @@
 **Cook Time:** 32 minutes
 
 ## Overview
-A classic fudgy brownie base - dark chocolate and butter melted together, sugar and eggs beaten until light, the chocolate folded in, then flour and cocoa folded just enough to combine. A homemade salted caramel is dolloped on top of the batter in the tin and swirled through with a skewer for the marbled look. Baked at 170°C until just-set - a faint tremble in the centre. Cooled completely (overnight is best) before slicing, because warm brownies tear and lose the fudge texture. Flaky salt scattered on top while still warm so it sticks.
+Salted caramel brownies are the American dessert that turned the bakery counter on its ear in the early 2010s, when pastry chefs across the country started rippling stovetop caramel through fudgy brownie batter and the combination spread out into every bake-sale rotation. You build the brownie base on the traditional American formula: dark chocolate and butter melted, sugar and eggs beaten light, the chocolate folded in, flour and cocoa folded just to combine. The caramel is a separate stovetop job (sugar caramelised dry, butter and cream whisked in, salt at the end) and wants to be pourable but thick enough to ribbon, so it sits visible rather than disappearing into the batter. Dollop it on the brownie in the tin and pull a skewer through in figure-eights for the marbled look. Bake until just-set with a tremble in the centre, scatter flaky salt across the top while still warm so it sticks, cool fully before slicing. Eat warm with vanilla ice cream or cold the next day.
 
 ## Ingredients
 

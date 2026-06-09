@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Arroz con pollo is the canonical Latin American one-pot chicken-and-rice dish, with many regional variations; the Puerto Rican version distinguishes itself with sofrito and sazón (the Boricua flavour signatures), the addition of green olives and capers for brininess, and the use of medium-grain rice rather than long-grain. Bone-in chicken pieces brown in olive oil, then slow-cook in a sofrito-tomato base with sazón, achiote, peas, sliced olives and capers; rice goes in partway through and absorbs the chicken-flavoured broth as the dish finishes covered until the rice is tender and the chicken falls from the bone. Achiote (annatto seeds steeped in oil, or commercial sazón which contains it) gives the proper deep yellow-orange colour. Once the rice is in and the pot is covered, leave alone for the full thirty minutes; lifting the lid ruins the rice. Served family-style from the pot with sliced avocado, lime wedges and a side of habichuelas for a full Boricua Sunday meal.
+Arroz con pollo is the traditional Latin American one-pot chicken-and-rice dish, with many regional variations; the Puerto Rican version distinguishes itself with sofrito and sazón (the Boricua flavour signatures), the addition of green olives and capers for brininess, and the use of medium-grain rice rather than long-grain. Bone-in chicken pieces brown in olive oil, then slow-cook in a sofrito-tomato base with sazón, achiote, peas, sliced olives and capers; rice goes in partway through and absorbs the chicken-flavoured broth as the dish finishes covered until the rice is tender and the chicken falls from the bone. Achiote (annatto seeds steeped in oil, or commercial sazón which contains it) gives the proper deep yellow-orange colour. Once the rice is in and the pot is covered, leave alone for the full thirty minutes; lifting the lid ruins the rice. Served family-style from the pot with sliced avocado, lime wedges and a side of habichuelas for a full Boricua Sunday meal.
 
 ## Ingredients
 
@@ -102,10 +102,10 @@ Arroz con pollo is the canonical Latin American one-pot chicken-and-rice dish, w
 3. Bring the pot to the table; serve family-style with sliced avocado and lime wedges alongside.
 
 ## Notes
-- **Sofrito + sazón:** the canonical PR duo. Don't skip.
+- **Sofrito + sazón:** the traditional PR duo. Don't skip.
 - **Rinse the rice:** removes excess surface starch; gives properly separated cooked grains.
 - **Don't lift the lid:** once the rice is in and the pot covered, leave alone for 25 minutes. Every glance loses steam.
-- **Achiote/sazón for colour:** the orange-yellow colour is canonical Puerto Rican. Without it the dish looks pale.
+- **Achiote/sazón for colour:** the orange-yellow colour is traditional Puerto Rican. Without it the dish looks pale.
 - **Medium-grain rice if possible:** gives the proper Boricua texture. Long-grain works too.
 
 ## Variations

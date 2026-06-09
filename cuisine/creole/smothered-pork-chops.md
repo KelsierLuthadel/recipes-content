@@ -2,7 +2,7 @@
 
 ![Smothered Pork Chops](resources/smothered-pork-chops.jpg)
 
-*A Creole smother: bone-in pork chops dredged in seasoned flour, seared, then slow-braised in a dark onion gravy till fork-tender. Eaten over rice.*
+*A Creole smother: bone-in pork chops dredged in seasoned flour, seared, then slow-braised in a dark onion gravy till fork-tender. Eat over rice.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Smothered pork chops is the Creole dinner that hides in plain sight: a method as much as a recipe, where any tough cut of meat goes in to brown and emerges an hour later under a blanket of dark onion gravy. Bone-in chops dusted in seasoned flour, seared hard in a heavy pan for the colour, then lifted out while a blonde roux builds from the drippings and onion cooks down deep in the roux till soft and almost caramel-coloured. Stock, Worcestershire and thyme go into the pan with the chops returned to braise covered on the lowest heat till fork-tender. Bone-in chops are the canonical cut; the bone gives the gravy depth and the meat stays moister under the long cook. Served over plain rice with the gravy ladled over the top.
+Smothered pork chops is the Creole dinner that hides in plain sight: a method as much as a recipe, where any tough cut of meat goes in to brown and emerges an hour later under a blanket of dark onion gravy. Bone-in chops dusted in seasoned flour, seared hard in a heavy pan for the colour, then lifted out while a blonde roux builds from the drippings and onion cooks down deep in the roux till soft and almost caramel-coloured. Stock, Worcestershire and thyme go into the pan with the chops returned to braise covered on the lowest heat till fork-tender. Bone-in chops are the traditional cut; the bone gives the gravy depth and the meat stays moister under the long cook. Served over plain rice with the gravy ladled over the top.
 
 ## Ingredients
 

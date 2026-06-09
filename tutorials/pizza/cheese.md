@@ -168,7 +168,7 @@ Used low-moisture mozzarella (the American pre-shredded style), which firms up u
 - [Toppings](toppings.md): what sits with the cheese.
 - [Cooking Methods](cooking-methods.md): how heat shapes the cheese.
 - [Burrata and Herb Pizza](../../cuisine/italian/pizza/burrata-and-herb-pizza.md): the burrata-after-bake reference.
-- [Margherita](../../cuisine/italian/pizza/margherita.md): the canonical single-cheese pizza.
+- [Margherita](../../cuisine/italian/pizza/margherita.md): the traditional single-cheese pizza.
 
 ## Storage
 - Pizza dough balls keep 3 days refrigerated; bring to room temperature 2 hours before stretching

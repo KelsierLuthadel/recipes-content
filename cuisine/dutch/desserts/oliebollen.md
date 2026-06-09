@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Oliebollen ("oil balls") are the Netherlands' canonical New Year's Eve treat, sold from temporary oliebollenkraam on every Dutch street corner in the last two weeks of December and eaten by the bagful on 31 December. Three things distinguish a Dutch oliebol from a generic doughnut. The base is a batter, not a dough; thick and yeasted, scoopable rather than kneadable, more like a thick pancake batter than a bread dough. Scooped by the tablespoon into hot oil, it fries into irregular balls with a characteristic uneven, slightly knobbly surface that is the visual signature of the dish. The inclusions are raisins, sultanas and chunks of fresh apple folded in before frying, sometimes with currants or orange zest; oliebollen without inclusions are unfamiliar to Dutch palates. The finish is plain; icing sugar dusted generously over the warm balls, no glaze, no filling. The Dutch purist insists just powdered sugar. The trickiest part is scooping the wet sticky batter into hot oil; two tablespoons (one to scoop, one to push) is the home cook's standard trick.
+Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, sold from temporary oliebollenkraam on every Dutch street corner in the last two weeks of December and eaten by the bagful on 31 December. Three things distinguish a Dutch oliebol from a generic doughnut. The base is a batter, not a dough; thick and yeasted, scoopable rather than kneadable, more like a thick pancake batter than a bread dough. Scooped by the tablespoon into hot oil, it fries into irregular balls with a characteristic uneven, slightly knobbly surface that is the visual signature of the dish. The inclusions are raisins, sultanas and chunks of fresh apple folded in before frying, sometimes with currants or orange zest; oliebollen without inclusions are unfamiliar to Dutch palates. The finish is plain; icing sugar dusted generously over the warm balls, no glaze, no filling. The Dutch purist insists just powdered sugar. The trickiest part is scooping the wet sticky batter into hot oil; two tablespoons (one to scoop, one to push) is the home cook's standard trick.
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ Oliebollen ("oil balls") are the Netherlands' canonical New Year's Eve treat, so
 
 ### To serve
 - Hot, dusted heavily with icing sugar.
-- A glass of warm bisschopswijn (Dutch mulled wine) - the canonical New Year's Eve pairing.
+- A glass of warm bisschopswijn (Dutch mulled wine) - the traditional New Year's Eve pairing.
 - A cup of strong coffee for the morning after.
 
 ## Method
@@ -94,7 +94,7 @@ Oliebollen ("oil balls") are the Netherlands' canonical New Year's Eve treat, so
 1. Pile the oliebollen on a serving plate.
 2. Add an extra dusting of icing sugar just before serving.
 3. Best eaten warm, within 30 minutes of frying.
-4. Pair with a glass of warm bisschopswijn (Dutch mulled wine - see [Bisschopswijn](../../../drinks/regional/netherlands/bisschopswijn.md)) for the canonical New Year's Eve combination.
+4. Pair with a glass of warm bisschopswijn (Dutch mulled wine - see [Bisschopswijn](../../../drinks/regional/netherlands/bisschopswijn.md)) for the traditional New Year's Eve combination.
 
 ## Notes
 - **Batter, not dough:** oliebollen batter is thick but pourable - more like a stiff pancake batter than a bread dough. Don't try to knead it.
@@ -116,7 +116,7 @@ Oliebollen ("oil balls") are the Netherlands' canonical New Year's Eve treat, so
 **Quick-yeast oliebollen:** use a fast-rise yeast for a 45-minute rise instead of 90.
 
 ## Serving
-At a Dutch street stall in the last two weeks of December (the canonical setting) · at a Dutch New Year's Eve household party · at a Dutch Christmas market · at an Amsterdam tourist food festival · at an Indonesian-Dutch restaurant as a sweet finisher · at home as the 31 December family tradition · paired with bisschopswijn (Dutch mulled wine) and a small chocolate.
+At a Dutch street stall in the last two weeks of December (the traditional setting) · at a Dutch New Year's Eve household party · at a Dutch Christmas market · at an Amsterdam tourist food festival · at an Indonesian-Dutch restaurant as a sweet finisher · at home as the 31 December family tradition · paired with bisschopswijn (Dutch mulled wine) and a small chocolate.
 
 ## Storage
 - Best within 30 minutes of frying. Past that, the texture deteriorates fast.

@@ -91,7 +91,7 @@ Chicken and andouille gumbo is the most foundational Louisiana gumbo (alongside 
 - **The roux is everything:** dark mahogany, not burnt.
 - **Patience:** 25-40 min.
 - **Filé at the end:** don't boil after.
-- **Andouille smoked sausage:** canonical.
+- **Andouille smoked sausage:** traditional.
 
 ## Variations
 **Seafood gumbo:** swap chicken for shrimp + crab + oysters; use seafood stock; add okra.

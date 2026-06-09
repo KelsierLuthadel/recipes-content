@@ -2,7 +2,7 @@
 
 ![Ceviche](resources/ceviche.jpg)
 
-*Peru's national dish, the country's most identity-defining plate: fresh white-fleshed sea fish (corvina, sea bass, sole, halibut) cut into 1.5 cm cubes, tossed with lime juice (the canonical Peruvian "leche de tigre" - tiger's milk), thinly sliced red onion, finely chopped aji limo or aji amarillo chilli, salt and a generous bunch of fresh cilantro. The lime "cooks" the fish in 5-12 minutes by denaturing the proteins; the result is opaque, firm, vivid, bracingly sour-spicy. Served with cancha (Andean toasted-corn snacks), boiled sweet potato (camote) and a sliver of toasted corn-on-the-cob (choclo) - the canonical Peruvian plate.*
+*Peru's national dish, the country's most identity-defining plate: fresh white-fleshed sea fish (corvina, sea bass, sole, halibut) cut into 1.5 cm cubes, tossed with lime juice (the traditional Peruvian "leche de tigre" - tiger's milk), thinly sliced red onion, finely chopped aji limo or aji amarillo chilli, salt and a generous bunch of fresh cilantro. The lime "cooks" the fish in 5-12 minutes by denaturing the proteins; the result is opaque, firm, vivid, bracingly sour-spicy. Served with cancha (Andean toasted-corn snacks), boiled sweet potato (camote) and a sliver of toasted corn-on-the-cob (choclo) - the traditional Peruvian plate.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5-12 minutes (the lime cure)
 
 ## Overview
-Ceviche is Peru's national dish and the most rigorously codified plate in the country; the Ministry of Production declared 28 June "National Ceviche Day", and Peruvian cooks have strict expectations about how it should be made. The fish is firm white-fleshed ocean fish (corvina or sea bass is the canonical Lima choice; halibut, sole, snapper or sea bream substitute well), cut against the grain into 1.5 cm cubes and sashimi-grade fresh; the lime cures but doesn't kill parasites. The leche de tigre ("tiger's milk") is freshly squeezed lime juice (lime only; lemon is wrong) with red onion, salt, finely chopped aji limo or aji amarillo, cilantro stems and garlic. Cure time is fast: five to twelve minutes only. Lima cebicherias serve it within five minutes of mixing; the fish should still be barely cured at the centre. Longer "marinated" ceviche is over-cured by Peruvian standards. Served immediately with boiled sweet potato, choclo (boiled giant-kernel corn), cancha (Andean toasted-and-salted corn snacks) and a wedge of lime.
+Ceviche is Peru's national dish and the most rigorously codified plate in the country; the Ministry of Production declared 28 June "National Ceviche Day", and Peruvian cooks have strict expectations about how it should be made. The fish is firm white-fleshed ocean fish (corvina or sea bass is the traditional Lima choice; halibut, sole, snapper or sea bream substitute well), cut against the grain into 1.5 cm cubes and sashimi-grade fresh; the lime cures but doesn't kill parasites. The leche de tigre ("tiger's milk") is freshly squeezed lime juice (lime only; lemon is wrong) with red onion, salt, finely chopped aji limo or aji amarillo, cilantro stems and garlic. Cure time is fast: five to twelve minutes only. Lima cebicherias serve it within five minutes of mixing; the fish should still be barely cured at the centre. Longer "marinated" ceviche is over-cured by Peruvian standards. Served immediately with boiled sweet potato, choclo (boiled giant-kernel corn), cancha (Andean toasted-and-salted corn snacks) and a wedge of lime.
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 - 1 small bunch fresh cilantro leaves, chopped
 - 1 extra aji limo chilli, sliced into thin rings (optional, for heat-lovers)
 
-### The canonical Peruvian sides
+### The traditional Peruvian sides
 - 200 g sweet potato (camote), peeled, boiled in salted water 15 minutes till tender, sliced into 1 cm rounds
 - 1-2 ears of choclo (Peruvian large-kernel corn) OR regular sweetcorn, boiled and cut into 3 cm rounds
 - 100 g cancha (Andean toasted-and-salted corn snacks; sold at Peruvian / Latin American shops; substitute with corn nuts)
@@ -40,7 +40,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 - A few lettuce leaves to line the plate (optional)
 
 ### To serve
-- A small shot glass of leche de tigre alongside each plate (drink between bites; canonical Peruvian)
+- A small shot glass of leche de tigre alongside each plate (drink between bites; traditional Peruvian)
 
 ## Method
 
@@ -68,7 +68,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 3. Drizzle 1-2 tablespoons of the leche de tigre marinade over the top.
 4. Garnish with the chopped cilantro leaves and (optional) chilli rings.
 
-### Stage 5 - Add the canonical sides
+### Stage 5 - Add the traditional sides
 1. Place 2-3 slices of warm sweet potato on each plate (the sweet-soft starch balances the bracing ceviche).
 2. Add 2-3 rounds of corn (choclo).
 3. Scatter a small handful of cancha (toasted corn) alongside.
@@ -76,7 +76,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 
 ### Stage 6 - Pour the shot of leche de tigre
 1. Pour a small shot glass of the strained leche de tigre marinade alongside each plate.
-2. The diner drinks this between bites - it's the canonical Peruvian "ceviche cure" for hangovers (and even for inducing them; some Peruvians swear it tightens the brain like an espresso).
+2. The diner drinks this between bites - it's the traditional Peruvian "ceviche cure" for hangovers (and even for inducing them; some Peruvians swear it tightens the brain like an espresso).
 
 ### Stage 7 - Serve immediately
 1. Hand to the diner.
@@ -101,7 +101,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 **Vegan ceviche:** swap fish for diced firm tofu, or hearts of palm chopped into cubes; the same marinade.
 
 ## Serving
-At a Lima cebicheria for lunch (the canonical setting; cebicherias close at 3 pm because ceviche is a lunch dish, never dinner - lunch fish is fresher) · at a Peruvian Independence Day (28 July) celebration · at the National Ceviche Day (28 June) festival · at a Pacific-coast seafood restaurant · at home as a substantial first course or light main · paired with a chilled glass of pisco sour, chicha morada, or a cold Cusqueña lager.
+At a Lima cebicheria for lunch (the traditional setting; cebicherias close at 3 pm because ceviche is a lunch dish, never dinner - lunch fish is fresher) · at a Peruvian Independence Day (28 July) celebration · at the National Ceviche Day (28 June) festival · at a Pacific-coast seafood restaurant · at home as a substantial first course or light main · paired with a chilled glass of pisco sour, chicha morada, or a cold Cusqueña lager.
 
 ## Storage
 - Doesn't store. Eat within 15 minutes of plating.

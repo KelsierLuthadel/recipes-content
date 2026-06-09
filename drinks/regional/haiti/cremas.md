@@ -15,7 +15,7 @@ Cremas (also spelled kremas, cremasse) is the Haitian Christmas drink and the mo
 
 ## Ingredients
 
-- 250 ml white rum (Barbancourt 3-star is the canonical Haitian choice; Bacardi or Plantation 3 Stars work)
+- 250 ml white rum (Barbancourt 3-star is the traditional Haitian choice; Bacardi or Plantation 3 Stars work)
 - 400 ml coconut cream (the thick top-of-the-tin layer; or "cream of coconut" like Coco Lopez for sweeter)
 - 400 ml evaporated milk (Carnation full-fat)
 - 250 ml sweetened condensed milk
@@ -43,7 +43,7 @@ Cremas (also spelled kremas, cremasse) is the Haitian Christmas drink and the mo
 - **Barbancourt is the canon.** Haitian rum specifically; other white rums work but the Haitian provenance is part of the dish.
 - **Coconut cream vs cream of coconut.** Plain coconut cream gives a less-sweet drink; Coco Lopez-style sweetened cream of coconut gives the candy-sweet version most family recipes use. Either works.
 - **Almond or anise - pick one.** Both are traditional in different families; almond is more common, anise is more polarising but distinctive.
-- **Keep it cold.** Cremas served warm is just sweet milk. Cold from the fridge is the canonical serve.
+- **Keep it cold.** Cremas served warm is just sweet milk. Cold from the fridge is the traditional serve.
 
 ## Storage
 - Refrigerate sealed up to 3 weeks. The alcohol preserves it; the coconut cream may separate but blends back together when shaken.

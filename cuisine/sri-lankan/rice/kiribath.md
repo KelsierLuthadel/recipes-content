@@ -16,7 +16,7 @@ Kiribath ("milk rice") is the simplest and most ceremonially loaded dish in Sri 
 ## Ingredients
 
 ### Kiribath
-- 400 g short-grain rice (samba is canonical; sushi rice or pudding rice both work; long-grain basmati doesn't bind the same way)
+- 400 g short-grain rice (samba is traditional; sushi rice or pudding rice both work; long-grain basmati doesn't bind the same way)
 - 500 ml cold water (for the first cook)
 - 1 teaspoon fine salt
 - 1 pandan leaf (10 cm; tied in a knot)

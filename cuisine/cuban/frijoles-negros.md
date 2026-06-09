@@ -2,7 +2,7 @@
 
 ![Frijoles Negros](resources/frijoles-negros.jpg)
 
-*Cuba's black beans: dried black beans slow-cooked with sofrito, bell pepper, garlic, bay leaves, oregano and a splash of red wine vinegar till the beans go silky and the broth thickens to a glossy mahogany. The Cuban national bean dish, the canonical accompaniment to white rice (the combination known as "arroz con frijoles negros" or simply "frijoles") for every Cuban meal.*
+*Cuba's black beans: dried black beans slow-cooked with sofrito, bell pepper, garlic, bay leaves, oregano and a splash of red wine vinegar till the beans go silky and the broth thickens to a glossy mahogany. The Cuban national bean dish, the traditional accompaniment to white rice (the combination known as "arroz con frijoles negros" or simply "frijoles") for every Cuban meal.*
 
 **Serves:** 6-8 (vegetarian)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Frijoles negros is Cuba's national bean dish and one of the most foundational staples of Cuban cooking. Dried black beans (turtle beans or Hispanic black beans) soak overnight, then slow-cook with a sofrito Cubano of onion, bell pepper, garlic and oregano, plus bay leaves, cumin and a splash of red wine vinegar at the end. After an hour and a half to two hours the beans turn properly tender, the bean starches release naturally and the whole pot reduces to a thick glossy mahogany-brown stew. Three things make the dish properly Cuban: dried beans (canned gives a different less Cuban result), sofrito Cubano with a generous amount of green bell pepper (unusual in some bean traditions but canonical here), and vinegar added at the end to brighten the dish and give the proper Cuban tang. Eaten with plain white rice (arroz con frijoles negros, or simply "frijoles"), the canonical side for every Cuban meal: lechón asado, ropa vieja, picadillo, vaca frita. Also one of the great vegetarian Cuban offerings on its own.
+Frijoles negros is Cuba's national bean dish and one of the most foundational staples of Cuban cooking. Dried black beans (turtle beans or Hispanic black beans) soak overnight, then slow-cook with a sofrito Cubano of onion, bell pepper, garlic and oregano, plus bay leaves, cumin and a splash of red wine vinegar at the end. After an hour and a half to two hours the beans turn properly tender, the bean starches release naturally and the whole pot reduces to a thick glossy mahogany-brown stew. Three things make the dish properly Cuban: dried beans (canned gives a different less Cuban result), sofrito Cubano with a generous amount of green bell pepper (unusual in some bean traditions but traditional here), and vinegar added at the end to brighten the dish and give the proper Cuban tang. Eat with plain white rice (arroz con frijoles negros, or simply "frijoles"), the traditional side for every Cuban meal: lechón asado, ropa vieja, picadillo, vaca frita. Also one of the great vegetarian Cuban offerings on its own.
 
 ## Ingredients
 
@@ -34,16 +34,16 @@ Frijoles negros is Cuba's national bean dish and one of the most foundational st
 - 1 tablespoon sazón (optional)
 - 2 teaspoons fine sea salt (taste; adjust later)
 - 1 teaspoon ground black pepper
-- 1 teaspoon caster sugar (the canonical Cuban touch; balances the acidity)
+- 1 teaspoon caster sugar (the traditional Cuban touch; balances the acidity)
 - 1 small fresh chilli (deseeded, optional)
 
-### Vinegar finish (canonical)
+### Vinegar finish (traditional)
 - 3 tablespoons red wine vinegar (or sherry vinegar)
 - 1 small bunch fresh coriander (chopped)
 
 ### To serve
 - Plain white rice
-- Sliced raw red onion (the canonical topping)
+- Sliced raw red onion (the traditional topping)
 - Sliced avocado
 - Lime wedges
 - Hot sauce or Aji caballero
@@ -86,16 +86,16 @@ Frijoles negros is Cuba's national bean dish and one of the most foundational st
 ### Stage 6 - Serve
 1. Spoon hot white rice into bowls or onto plates.
 2. Ladle generous portions of frijoles negros over (or alongside).
-3. Top each portion with raw sliced red onion (the canonical Cuban garnish).
+3. Top each portion with raw sliced red onion (the traditional Cuban garnish).
 4. Add sliced avocado and lime wedges.
 5. Pass hot sauce at the table.
 
 ## Notes
 - **Soak the beans overnight:** shortens cooking and gives properly tender beans. Don't skip.
-- **Bell pepper is canonical Cuban:** the generous green bell pepper in the sofrito distinguishes Cuban frijoles from generic bean dishes.
+- **Bell pepper is traditional Cuban:** the generous green bell pepper in the sofrito distinguishes Cuban frijoles from generic bean dishes.
 - **Vinegar at the end:** the small splash brightens the dish. Don't add early; the heat dulls the vinegar's brightness.
-- **Sugar balances the acid:** the 1 teaspoon of sugar is a canonical Cuban touch. Skipping is fine but the proper balance includes it.
-- **Raw red onion on top:** the canonical Cuban garnish. Crunchy and sharp; cuts through the rich beans.
+- **Sugar balances the acid:** the 1 teaspoon of sugar is a traditional Cuban touch. Skipping is fine but the proper balance includes it.
+- **Raw red onion on top:** the traditional Cuban garnish. Crunchy and sharp; cuts through the rich beans.
 
 ## Variations
 **Frijoles con cerdo (with pork):** add a smoked ham hock (or 150 g of bacon) at stage 2; cook with the beans. Common non-vegetarian variation.
@@ -104,7 +104,7 @@ Frijoles negros is Cuba's national bean dish and one of the most foundational st
 **Cuban black bean soup (sopa de frijoles negros):** thin the cooked beans with additional stock; serve as a soup with rice as a side rather than the base.
 
 ## Serving
-Alongside (or over) white rice as the canonical Cuban side. With ropa vieja, picadillo, vaca frita, lechón asado, or any Cuban main. Topped with raw red onion. Drink: Cristal beer, mojito, fresh limeade.
+Alongside (or over) white rice as the traditional Cuban side. With ropa vieja, picadillo, vaca frita, lechón asado, or any Cuban main. Topped with raw red onion. Drink: Cristal beer, mojito, fresh limeade.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens significantly overnight (often considered better the next day).

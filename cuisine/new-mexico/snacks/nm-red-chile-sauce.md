@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-New Mexico red chile sauce is the foundational sauce of New Mexican cooking and the canonical accompaniment to virtually every NM dish: dried New Mexico red chiles (or chimayó, or substitute with a mix of ancho and guajillo) rehydrated in hot water with garlic and onion, blended smooth with cumin, oregano and salt, then strained and cooked briefly in oil to deepen colour and flavour. Used in: stacked enchiladas, blue corn enchiladas, carne adovada, posole rojo, tamales, smothered burritos, frito pie.
+New Mexico red chile sauce is the foundational sauce of New Mexican cooking and the traditional accompaniment to virtually every NM dish: dried New Mexico red chiles (or chimayó, or substitute with a mix of ancho and guajillo) rehydrated in hot water with garlic and onion, blended smooth with cumin, oregano and salt, then strained and cooked briefly in oil to deepen colour and flavour. Used in: stacked enchiladas, blue corn enchiladas, carne adovada, posole rojo, tamales, smothered burritos, frito pie.
 
 ## Ingredients
 
@@ -62,7 +62,7 @@ New Mexico red chile sauce is the foundational sauce of New Mexican cooking and 
 5. Drizzle over frito pie.
 
 ## Notes
-- **NM red chiles canonical:** chimayó preferred.
+- **NM red chiles traditional:** chimayó preferred.
 - **Strain after blending:** removes skins.
 - **Cook briefly to deepen.**
 - **Adjust thickness with water.**

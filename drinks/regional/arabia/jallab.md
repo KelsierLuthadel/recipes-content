@@ -41,7 +41,7 @@ Jallab is the drink that comes out of every Levantine kitchen during Ramadan and
 ## Notes
 - **Real jallab syrup is the easiest path.** Middle Eastern groceries stock it bottled; one bottle does a dozen drinks.
 - **Toast the pine nuts first.** Two minutes in a dry pan; brings out the oils and adds depth.
-- **Cold and crushed.** Ice cubes melt too fast and dilute; crushed ice is the canonical serve.
+- **Cold and crushed.** Ice cubes melt too fast and dilute; crushed ice is the traditional serve.
 
 ## Storage
 - The diluted jallab keeps in the fridge for 48 hours; add fresh pine nuts and raisins per glass.

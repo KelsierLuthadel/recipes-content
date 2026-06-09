@@ -2,7 +2,7 @@
 
 ![Pudim de Leite Condensado](resources/pudim-de-leite-condensado.jpg)
 
-*Brazil's silky condensed-milk flan: a bain-marie-baked custard made with one tin of sweetened condensed milk, one tin of milk, and three eggs, baked in a caramelised ring tin and unmoulded to a glossy amber dome topped with caramel sauce. The dessert of every Brazilian Sunday lunch, every birthday, every wedding; the canonical Brazilian flan; sometimes literally called "the Brazilian dessert".*
+*Brazil's silky condensed-milk flan: a bain-marie-baked custard made with one tin of sweetened condensed milk, one tin of milk, and three eggs, baked in a caramelised ring tin and unmoulded to a glossy amber dome topped with caramel sauce. The dessert of every Brazilian Sunday lunch, every birthday, every wedding; the traditional Brazilian flan; sometimes literally called "the Brazilian dessert".*
 
 **Serves:** 8-10
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim de leite, or simply pudim) is the most beloved dessert in Brazil, on the table at every Sunday lunch, every birthday, every wedding, every Christmas and every buffet table across the country. The construction is brilliantly simple but technically demanding: a ring tin (the canonical forma de pudim with the central tube) coated in dark caramel, then filled with a blended custard of one tin of sweetened condensed milk, one tin of whole milk and three large eggs, baked low in a bain-marie till just set, chilled overnight and unmoulded at the last moment onto a serving plate. The result is a silky dense custard with a glossy amber caramel top; the caramel flows during baking to form a sauce around the unmoulded dome. The texture is unlike any other flan: dense, smooth, intensely creamy from the condensed milk, with a perfect proportion of caramel bitterness against the sweet custard.
+Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim de leite, or simply pudim) is the most beloved dessert in Brazil, on the table at every Sunday lunch, every birthday, every wedding, every Christmas and every buffet table across the country. The construction is brilliantly simple but technically demanding: a ring tin (the traditional forma de pudim with the central tube) coated in dark caramel, then filled with a blended custard of one tin of sweetened condensed milk, one tin of whole milk and three large eggs, baked low in a bain-marie till just set, chilled overnight and unmoulded at the last moment onto a serving plate. The result is a silky dense custard with a glossy amber caramel top; the caramel flows during baking to form a sauce around the unmoulded dome. The texture is unlike any other flan: dense, smooth, intensely creamy from the condensed milk, with a perfect proportion of caramel bitterness against the sweet custard.
 
 ## Ingredients
 
@@ -89,14 +89,14 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 1. Cut into wedges with a sharp wet knife.
 2. Each wedge has the soft custard with the caramel top and side flowing down.
 3. Spoon extra caramel sauce over each portion.
-4. Serve chilled; the canonical Brazilian dessert finale.
+4. Serve chilled; the traditional Brazilian dessert finale.
 
 ## Notes
 - **Bain-marie is non-negotiable:** direct heat ruins the pudim. The water bath gives even, gentle cooking.
 - **Don't overbake:** centre should jiggle when you remove it. Overcooked = grainy, dry.
 - **Overnight chill is essential:** 4 hours is minimum; overnight is ideal. The custard sets fully during chilling, not during baking.
 - **The blender introduces tiny air bubbles:** blend on low and strain through a sieve to minimise bubbles in the finished pudim. Or whisk by hand for a denser, more old-fashioned pudim.
-- **Use the empty condensed-milk tin to measure the milk:** the canonical Brazilian recipe ratio (1 tin condensed milk : 1 tin milk : 3 eggs) is the foundation.
+- **Use the empty condensed-milk tin to measure the milk:** the traditional Brazilian recipe ratio (1 tin condensed milk : 1 tin milk : 3 eggs) is the foundation.
 - **Caramel goes dark amber:** not black. Pale caramel gives a sweet but boring pudim; properly dark caramel gives the deep bitter-sweet edge.
 
 ## Variations
@@ -110,7 +110,7 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 **Pudim sem furo (smooth pudim):** strain the custard twice and bake at 150°C; gives a perfectly smooth top with no holes.
 
 ## Serving
-At every Brazilian Sunday family lunch as the dessert (the canonical setting) · at every Brazilian birthday party · at every Brazilian wedding reception · at a Brazilian Christmas dinner · at a Brazilian funeral wake (a traditional comfort dessert) · at a Brazilian café as the dessert-of-the-day · at home as a weekend showpiece dessert · at any Brazilian restaurant menu.
+At every Brazilian Sunday family lunch as the dessert (the traditional setting) · at every Brazilian birthday party · at every Brazilian wedding reception · at a Brazilian Christmas dinner · at a Brazilian funeral wake (a traditional comfort dessert) · at a Brazilian café as the dessert-of-the-day · at home as a weekend showpiece dessert · at any Brazilian restaurant menu.
 
 ## Storage
 - Refrigerates 5 days, well-wrapped.

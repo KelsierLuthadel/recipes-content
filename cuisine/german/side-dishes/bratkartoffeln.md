@@ -2,7 +2,7 @@
 
 ![Bratkartoffeln](resources/bratkartoffeln.jpg)
 
-*Germany's everyday potato side: boiled potatoes (ideally yesterday's leftovers), sliced and pan-fried in lard or butter with diced bacon and chopped onion till deeply golden and crisp at the edges. The canonical German pub potato side; the dish that turns a sausage-and-sauerkraut plate into a feast.*
+*Germany's everyday potato side: boiled potatoes (ideally yesterday's leftovers), sliced and pan-fried in lard or butter with diced bacon and chopped onion till deeply golden and crisp at the edges. The traditional German pub potato side; the dish that turns a sausage-and-sauerkraut plate into a feast.*
 
 **Serves:** 4 (as a side)
 
@@ -11,13 +11,13 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most universally beloved potato preparation - found at every German Gasthaus, every beer garden, every Hausfrau's table, and every leftover-Sunday-roast Monday lunch. The dish has dual purposes: it's the canonical accompaniment to virtually every German savoury dish (bratwurst, schnitzel, fried egg, smoked sausages, etc.), AND it's a brilliant use of leftover boiled potatoes from the previous day. The construction is straightforward: cold cooked potatoes (yesterday's boiled or roast; or freshly boiled and refrigerated 1 hour) are sliced into 5 mm rounds; diced streaky bacon (or smoked Speck) is rendered in a heavy pan until crisp; finely diced onion is sweated in the bacon fat till translucent and sweet; the sliced potatoes are added to the pan and fried, undisturbed for several minutes at a time, till each slice has a deep golden-brown crust. Seasoned with salt, pepper, and (in many German regions) a pinch of caraway. The finished dish is golden-brown, slightly crisp at the edges, with sweet bacon-onion notes throughout.
+Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most universally beloved potato preparation - found at every German Gasthaus, every beer garden, every Hausfrau's table, and every leftover-Sunday-roast Monday lunch. The dish has dual purposes: it's the traditional accompaniment to virtually every German savoury dish (bratwurst, schnitzel, fried egg, smoked sausages, etc.), AND it's a brilliant use of leftover boiled potatoes from the previous day. The construction is straightforward: cold cooked potatoes (yesterday's boiled or roast; or freshly boiled and refrigerated 1 hour) are sliced into 5 mm rounds; diced streaky bacon (or smoked Speck) is rendered in a heavy pan until crisp; finely diced onion is sweated in the bacon fat till translucent and sweet; the sliced potatoes are added to the pan and fried, undisturbed for several minutes at a time, till each slice has a deep golden-brown crust. Seasoned with salt, pepper, and (in many German regions) a pinch of caraway. The finished dish is golden-brown, slightly crisp at the edges, with sweet bacon-onion notes throughout.
 
 ## Ingredients
 
 ### For 4 portions
 - 1 kg waxy potatoes (Charlotte, Anya, or Maris Peer; or floury potatoes work too)
-- 4 tablespoons lard OR 4 tablespoons butter OR 4 tablespoons goose fat (the German canonical fat hierarchy)
+- 4 tablespoons lard OR 4 tablespoons butter OR 4 tablespoons goose fat (the German traditional fat hierarchy)
 - 150 g smoked streaky bacon (cubed; or smoked Speck)
 - 2 medium onions (finely diced)
 - 1 teaspoon caraway seeds (lightly crushed; optional but very German)
@@ -86,16 +86,16 @@ Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most
 3. Serve hot.
 
 ## Notes
-- **Cold cooked potatoes are essential:** the canonical Bratkartoffeln uses yesterday's leftovers. Fresh-boiled potatoes are too wet to crisp properly.
+- **Cold cooked potatoes are essential:** the traditional Bratkartoffeln uses yesterday's leftovers. Fresh-boiled potatoes are too wet to crisp properly.
 - **Cast iron + medium-high heat:** a non-stick pan won't develop the right crust. Cast iron, well-heated, is the German standard.
 - **Undisturbed frying:** let each side fry without stirring for 3-4 minutes. That's how the crust forms.
-- **Lard or goose fat is canonical:** German Hausfrauen use rendered animal fat. Butter alone gives a softer result.
+- **Lard or goose fat is traditional:** German Hausfrauen use rendered animal fat. Butter alone gives a softer result.
 - **Caraway is regional:** in Bavaria, caraway is almost mandatory. In northern Germany, less common.
 
 ## Variations
-**Bratkartoffeln mit Speck (with bacon):** the canonical version described above.
+**Bratkartoffeln mit Speck (with bacon):** the traditional version described above.
 **Bratkartoffeln vegetarian:** skip the bacon; use 4 tablespoons butter; add 2 tablespoons smoked paprika to the pan for the smoky note.
-**Bratkartoffeln with egg (mit Spiegelei):** top with a fried egg with a runny yolk - the canonical German breakfast/lunch.
+**Bratkartoffeln with egg (mit Spiegelei):** top with a fried egg with a runny yolk - the traditional German breakfast/lunch.
 **Bratkartoffeln Berlin-style (sour):** add 1 tablespoon white vinegar at the end - sharper, Berlin variant.
 **Bratkartoffeln Schwäbisch (with Maultaschen broth):** add a splash of beef stock at the end - Swabian variant.
 **Bratkartoffeln with apple:** add a small diced apple to the pan with the onion - Hessian variant, slightly sweet.
@@ -103,11 +103,11 @@ Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most
 **With smoked tofu (vegan):** swap bacon for diced smoked tofu - modern German vegan variant.
 
 ## Serving
-At every German Gasthaus alongside any sausage or schnitzel (the canonical setting) · at a Berlin breakfast with fried egg on top · at a Bavarian beer garden alongside grilled meat · at a Hessian Sunday lunch · at a German pub as the standard side · at home as a quick weeknight side · at a German Christmas dinner alongside roast goose.
+At every German Gasthaus alongside any sausage or schnitzel (the traditional setting) · at a Berlin breakfast with fried egg on top · at a Bavarian beer garden alongside grilled meat · at a Hessian Sunday lunch · at a German pub as the standard side · at home as a quick weeknight side · at a German Christmas dinner alongside roast goose.
 
 ## Storage
 - Refrigerate 2 days; reheat in a hot pan with a small extra knob of fat to restore some crispness.
 - Don't freeze (the texture suffers).
-- Leftover bratkartoffeln with a fried egg the next morning is the canonical German breakfast.
+- Leftover bratkartoffeln with a fried egg the next morning is the traditional German breakfast.
 - The boiled potatoes can be cooked 2 days ahead.
 - Best eaten fresh from the pan; the crispness is at its peak in the first 15 minutes.

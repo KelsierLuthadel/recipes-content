@@ -2,7 +2,7 @@
 
 ![Migas](resources/migas.jpg)
 
-*Texas's tortilla-and-egg breakfast: fried tortilla strips sautéed with onion, jalapeño and tomato, then scrambled with eggs and melted cheese into a crunchy-soft Tex-Mex breakfast hash. Served with warm flour tortillas, salsa, refried beans and avocado. The Austin breakfast standard, the canonical Tex-Mex morning meal.*
+*Texas's tortilla-and-egg breakfast: fried tortilla strips sautéed with onion, jalapeño and tomato, then scrambled with eggs and melted cheese into a crunchy-soft Tex-Mex breakfast hash. Served with warm flour tortillas, salsa, refried beans and avocado. The Austin breakfast standard, the traditional Tex-Mex morning meal.*
 
 **Serves:** 4
 
@@ -93,7 +93,7 @@ Migas (literally "crumbs", from the Spanish-Mexican tradition of using up stale 
 - **Eat immediately:** the crispness fades.
 
 ## Variations
-**Migas tacos:** assemble the migas into warm flour tortillas; the canonical Austin breakfast taco.
+**Migas tacos:** assemble the migas into warm flour tortillas; the traditional Austin breakfast taco.
 **With chorizo:** crumble 200 g of Mexican chorizo into the pan after the onion; gives a richer fattier version.
 **Without cheese:** vegetarian-friendly variation.
 **Spicier:** double the jalapeños and add 1 chopped serrano.

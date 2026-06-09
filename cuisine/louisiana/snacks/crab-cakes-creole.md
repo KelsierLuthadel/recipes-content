@@ -2,7 +2,7 @@
 
 ![Creole Crab Cakes](resources/crab-cakes-creole.jpg)
 
-*Louisiana's Creole crab cakes: lump crab meat bound with a Creole-mustard mayonnaise, the trinity, Cajun spices and a minimum of breadcrumbs, formed into patties, pan-fried in butter till golden, served with remoulade. The Louisiana starter; the canonical crab cake of New Orleans, distinct from the Maryland version.*
+*Louisiana's Creole crab cakes: lump crab meat bound with a Creole-mustard mayonnaise, the trinity, Cajun spices and a minimum of breadcrumbs, formed into patties, pan-fried in butter till golden, served with remoulade. The Louisiana starter; the traditional crab cake of New Orleans, distinct from the Maryland version.*
 
 **Serves:** 4 (8 small crab cakes)
 

@@ -2,7 +2,7 @@
 
 ![Tarteletter](resources/tarteletter.jpg)
 
-*Denmark's mid-20th-century party dish: small flaky butter-pastry cups filled with a creamy chicken-and-asparagus ragout (the canonical filling: chicken white meat, white asparagus, a touch of white wine, finished with cream and parsley). Served warm as a starter or buffet centrepiece; the Danish "fancy lunch" dish that turns up at confirmations, weddings, and Sunday lunches.*
+*Denmark's mid-20th-century party dish: small flaky butter-pastry cups filled with a creamy chicken-and-asparagus ragout (the traditional filling: chicken white meat, white asparagus, a touch of white wine, finished with cream and parsley). Served warm as a starter or buffet centrepiece; the Danish "fancy lunch" dish that turns up at confirmations, weddings, and Sunday lunches.*
 
 **Serves:** 4 (2 tartlets per person)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Tarteletter are one of Denmark's most distinctively Danish "fancy lunch" dishes: a buttery flaky pastry cup about 7 to 8 cm wide, filled with a creamy white ragout, traditionally chicken and asparagus. Came to Denmark from French haute cuisine in the 1900s and was domesticated into the Danish home menu in the 1950s as the canonical confirmation/wedding/christening/Sunday lunch dish. The pastry cups come pre-baked from Danish supermarkets (a freezer-aisle staple); the canonical home version makes them fresh. The filling: poached chicken white meat (or leftover roast) diced small, white asparagus (canned is the Danish tradition; fresh is modern), a roux-based white sauce with milk, cream, a splash of dry white wine and chicken stock, finished with chopped parsley, lemon and a pinch of nutmeg. Spooned hot into warmed shells just before serving.
+Tarteletter are one of Denmark's most distinctively Danish "fancy lunch" dishes: a buttery flaky pastry cup about 7 to 8 cm wide, filled with a creamy white ragout, traditionally chicken and asparagus. Came to Denmark from French haute cuisine in the 1900s and was domesticated into the Danish home menu in the 1950s as the traditional confirmation/wedding/christening/Sunday lunch dish. The pastry cups come pre-baked from Danish supermarkets (a freezer-aisle staple); the traditional home version makes them fresh. The filling: poached chicken white meat (or leftover roast) diced small, white asparagus (canned is the Danish tradition; fresh is modern), a roux-based white sauce with milk, cream, a splash of dry white wine and chicken stock, finished with chopped parsley, lemon and a pinch of nutmeg. Spooned hot into warmed shells just before serving.
 
 ## Ingredients
 
@@ -90,9 +90,9 @@ Tarteletter are one of Denmark's most distinctively Danish "fancy lunch" dishes:
 3. Eat with a knife and fork; the shells are too delicate for hands.
 
 ## Notes
-- **Shop-bought shells are canonical:** even at Danish home dinners, most cooks use the freezer-aisle tartlet shells. Homemade is the special-occasion luxury.
+- **Shop-bought shells are traditional:** even at Danish home dinners, most cooks use the freezer-aisle tartlet shells. Homemade is the special-occasion luxury.
 - **White wine in the sauce:** the Danish chef's touch; not optional for the proper flavour.
-- **Asparagus - canned vs fresh:** canned white asparagus is the canonical 1950s-1970s Danish version. Fresh is more modern.
+- **Asparagus - canned vs fresh:** canned white asparagus is the traditional 1950s-1970s Danish version. Fresh is more modern.
 - **Serve immediately:** the shells go soggy within 5 minutes of filling.
 - **Don't overfill:** the filling should mound just above the shell, not spill over.
 

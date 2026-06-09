@@ -2,7 +2,7 @@
 
 ![Taktouka](resources/taktouka.jpg)
 
-*Morocco's smoky vegetable side: roasted red peppers and tomatoes cooked down with garlic, cumin and paprika to a glossy spoonable relish. Eaten with bread.*
+*Morocco's smoky vegetable side: roasted red peppers and tomatoes cooked down with garlic, cumin and paprika to a glossy spoonable relish. Eat with bread.*
 
 **Serves:** 4-6
 

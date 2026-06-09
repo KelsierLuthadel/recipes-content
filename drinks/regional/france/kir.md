@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Kir is the aperitif of Burgundy: a teaspoon of crème de cassis (blackcurrant liqueur) in the bottom of a small wine glass, topped with chilled dry white wine (Aligoté is the canonical Burgundy grape; any dry crisp white works). The cassis sinks to the bottom; you stir gently or just let it diffuse as you sip. The drink was popularised by Canon Félix Kir, mayor of Dijon from 1945 to 1968, who served it at every official reception. The Kir Royale variant replaces the white wine with Champagne; the Communard uses red wine. Always pre-dinner, always small, always cold.
+The Kir is the aperitif of Burgundy: a teaspoon of crème de cassis (blackcurrant liqueur) in the bottom of a small wine glass, topped with chilled dry white wine (Aligoté is the traditional Burgundy grape; any dry crisp white works). The cassis sinks to the bottom; you stir gently or just let it diffuse as you sip. The drink was popularised by Canon Félix Kir, mayor of Dijon from 1945 to 1968, who served it at every official reception. The Kir Royale variant replaces the white wine with Champagne; the Communard uses red wine. Always pre-dinner, always small, always cold.
 
 ## Ingredients
 

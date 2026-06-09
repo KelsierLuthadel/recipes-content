@@ -80,7 +80,7 @@ Bajtra (the Maltese name for the prickly pear / Opuntia ficus-indica fruit) is M
 **With orange blossom water:** add 1 teaspoon at the end - Maltese-Arab touch.
 
 ## Serving
-As a Maltese after-dinner digestif (the canonical setting) · at a Maltese village festa · at a Maltese wedding bar · with espresso · as a Maltese gift bottle · at home as the indigenous Maltese spirit.
+As a Maltese after-dinner digestif (the traditional setting) · at a Maltese village festa · at a Maltese wedding bar · with espresso · as a Maltese gift bottle · at home as the indigenous Maltese spirit.
 
 ## Storage
 - Bottled bajtra keeps 2-3 years.

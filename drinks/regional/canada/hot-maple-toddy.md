@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-The hot maple toddy is the Canadian winter answer to the British/Scottish/Irish hot toddy, with the canonical Canadian swap: maple syrup replaces honey, and Canadian rye whisky (Crown Royal, Canadian Club, Lot 40, J.P. Wiser's) replaces Scotch. The toddy formula (spirit + sweetener + acid + hot water) is one of the world's oldest hot mixed drinks, appearing in Scottish, Irish, English and Indian forms going back to the 18th century: but the Canadian version stands on its own. Maple syrup (Grade A "Dark, Robust", or older "Grade B") brings a woody-caramel sweetness honey can't match; light golden is too thin. Bourbon substitutes well; aged dark rum (Newfoundland's Screech) makes a Maritime variant. The water temperature matters: about 85 °C, hot but not boiling, since boiling cooks off too much alcohol and lukewarm leaves the drink tepid. Drunk after a cold-weather hockey game, beside a Quebec fireplace in February, or at a Yukon trapline cabin at dusk.
+The hot maple toddy is the Canadian winter answer to the British/Scottish/Irish hot toddy, with the traditional Canadian swap: maple syrup replaces honey, and Canadian rye whisky (Crown Royal, Canadian Club, Lot 40, J.P. Wiser's) replaces Scotch. The toddy formula (spirit + sweetener + acid + hot water) is one of the world's oldest hot mixed drinks, appearing in Scottish, Irish, English and Indian forms going back to the 18th century: but the Canadian version stands on its own. Maple syrup (Grade A "Dark, Robust", or older "Grade B") brings a woody-caramel sweetness honey can't match; light golden is too thin. Bourbon substitutes well; aged dark rum (Newfoundland's Screech) makes a Maritime variant. The water temperature matters: about 85 °C, hot but not boiling, since boiling cooks off too much alcohol and lukewarm leaves the drink tepid. Drunk after a cold-weather hockey game, beside a Quebec fireplace in February, or at a Yukon trapline cabin at dusk.
 
 ## Ingredients
 
@@ -73,7 +73,7 @@ The hot maple toddy is the Canadian winter answer to the British/Scottish/Irish 
 - **Hot but not boiling water:** 85°C is the sweet spot. Boiling water cooks off too much alcohol; lukewarm water gives a flat drink.
 - **Pre-warm the glass:** a cold glass shocks the hot liquid and can crack thin glasses. 30 seconds of hot water beforehand prevents this.
 - **Stick cinnamon, not ground:** the bark steeps gently as you drink; ground cinnamon clouds the liquid and settles on the bottom.
-- **Don't squeeze too much lemon:** 1 tablespoon is the canonical proportion. More and the drink becomes lemonade-with-whisky; less and the maple sweetness goes unchallenged.
+- **Don't squeeze too much lemon:** 1 tablespoon is the traditional proportion. More and the drink becomes lemonade-with-whisky; less and the maple sweetness goes unchallenged.
 - **Drink hot, not cold:** the toddy is at its best for about 10 minutes. After that the temperature drops and the magic fades.
 
 ## Variations
@@ -89,7 +89,7 @@ The hot maple toddy is the Canadian winter answer to the British/Scottish/Irish 
 **Hot maple toddy with herbal bitters:** add 2 dashes of orange bitters or Angostura - a slightly more cocktail-bar variant.
 
 ## Serving
-At a Quebec sugar shack in the spring sap-running season (the canonical setting; March-April) · at a Canadian ski-resort fireside lounge · at a Yukon trapline cabin · at a Vancouver Island winter cottage · at a Canadian Christmas Eve · at home on a cold January evening · at a Canadian hockey-watching party · paired with a butter tart, a slice of tourtière, or a small piece of Canadian dark chocolate.
+At a Quebec sugar shack in the spring sap-running season (the traditional setting; March-April) · at a Canadian ski-resort fireside lounge · at a Yukon trapline cabin · at a Vancouver Island winter cottage · at a Canadian Christmas Eve · at home on a cold January evening · at a Canadian hockey-watching party · paired with a butter tart, a slice of tourtière, or a small piece of Canadian dark chocolate.
 
 ## Storage
 - Make and drink fresh. The hot toddy doesn't store.

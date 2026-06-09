@@ -2,7 +2,7 @@
 
 ![Irish Shepherd's Pie](resources/shepherds-pie.jpg)
 
-*Ireland's mince-and-mash bake: a deeply flavoured filling of minced lamb (the canonical) or beef braised with onion, carrot, garlic, Guinness or stout, Worcestershire and thyme, topped with a thick layer of buttery mashed potato and baked till the top goes craggy-golden. The pub classic and family-Sunday-dinner standard.*
+*Ireland's mince-and-mash bake: a deeply flavoured filling of minced lamb (the traditional) or beef braised with onion, carrot, garlic, Guinness or stout, Worcestershire and thyme, topped with a thick layer of buttery mashed potato and baked till the top goes craggy-golden. The pub classic and family-Sunday-dinner standard.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-Shepherd's pie is one of Ireland's (and Britain's) most beloved comfort foods and a Sunday-dinner staple across both countries: a deeply flavoured filling of minced lamb browned with onion, garlic, carrots and frozen peas, simmered in Guinness or stout, beef stock, Worcestershire, tomato paste and thyme, lightly thickened, then topped with a thick layer of buttery mashed potato and baked till the top goes craggy and deep-golden. Lamb is the canonical meat: "shepherd's pie" refers to a lamb-topped potato bake; "cottage pie" is the beef version. Often confused but properly distinct. The filling must be properly simmered down; wet runny filling gives a soggy pie. The Guinness adds depth; without it, substitute with more beef stock plus a teaspoon of molasses. The potato wants floury varieties (Maris Piper, Russet, King Edward) mashed with plenty of butter and warm milk, spread thickly and scored with a fork for the craggy top.
+Shepherd's pie is one of Ireland's (and Britain's) most beloved comfort foods and a Sunday-dinner staple across both countries: a deeply flavoured filling of minced lamb browned with onion, garlic, carrots and frozen peas, simmered in Guinness or stout, beef stock, Worcestershire, tomato paste and thyme, lightly thickened, then topped with a thick layer of buttery mashed potato and baked till the top goes craggy and deep-golden. Lamb is the traditional meat: "shepherd's pie" refers to a lamb-topped potato bake; "cottage pie" is the beef version. Often confused but properly distinct. The filling must be properly simmered down; wet runny filling gives a soggy pie. The Guinness adds depth; without it, substitute with more beef stock plus a teaspoon of molasses. The potato wants floury varieties (Maris Piper, Russet, King Edward) mashed with plenty of butter and warm milk, spread thickly and scored with a fork for the craggy top.
 
 ## Ingredients
 
@@ -102,7 +102,7 @@ Shepherd's pie is one of Ireland's (and Britain's) most beloved comfort foods an
 3. Serve with peas, a green salad, or buttered cabbage.
 
 ## Notes
-- **Lamb is canonical for shepherd's; beef for cottage:** "shepherd's pie" properly refers to lamb (since shepherds tend sheep); "cottage pie" refers to beef. Both are excellent; just use the right name.
+- **Lamb is traditional for shepherd's; beef for cottage:** "shepherd's pie" properly refers to lamb (since shepherds tend sheep); "cottage pie" refers to beef. Both are excellent; just use the right name.
 - **Guinness or stout is the proper depth:** the dark beer adds caramel-bitter notes and a deep colour. A non-alcoholic substitute would be more beef stock + 1 teaspoon dark molasses + 1 tablespoon balsamic vinegar.
 - **Simmer the filling till properly thick:** wet runny filling gives a soggy pie; the filling should be thick enough that a spoon dragged through it leaves a trail. 40 minutes of simmering should achieve this.
 - **Floury potato for the mash:** floury (starchy) potatoes give the proper light mash. Waxy potatoes give a gluey mash. Maris Piper, Russet, King Edward are the right varieties.

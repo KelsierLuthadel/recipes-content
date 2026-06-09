@@ -95,7 +95,7 @@ Cannoli (the singular is cannolo; cannoli is the plural; though Italian-American
 3. Press to make filling level with shell edge.
 
 ### Stage 9 - Decorate
-1. Dip each filled end in chopped pistachios (canonical) or chocolate chips.
+1. Dip each filled end in chopped pistachios (traditional) or chocolate chips.
 2. Dust the whole cannolo with icing sugar.
 3. Optional: a candied cherry on top.
 
@@ -107,7 +107,7 @@ Cannoli (the singular is cannolo; cannoli is the plural; though Italian-American
 - **Drain ricotta thoroughly:** essential for filling consistency.
 - **Roll shell dough very thin:** for crispy result.
 - **Fill JUST before serving:** else they go soggy.
-- **Pistachios at ends canonical.**
+- **Pistachios at ends traditional.**
 
 ## Variations
 **Mini cannoli:** small bite-size for parties.

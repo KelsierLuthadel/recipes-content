@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sambusa is Somalia's triangular fried pastry, the snack you find on every iftar table during Ramadan and on tea trays year-round: smaller than its Indian samosa cousin, with a thinner crisper wrapper closer to a spring-roll skin than shortcrust. The filling is a quietly aromatic mix of cooked brown lentils, peas, onion, garlic, ginger and the Somali spice blend xawaash (cumin, coriander, cardamom and cinnamon in roughly equal parts, the four spices that say Somali cooking). The filling has to be dry; a wet filling tears the wrappers, and warm filling melts the spring-roll skins so the folds don't take. Loose folds open in the oil, so use enough flour-water paste and press every seam closed before frying. Eaten hot with green chilli sauce, a sharp coriander chutney, or simply a wedge of lemon.
+Sambusa is Somalia's triangular fried pastry, the snack you find on every iftar table during Ramadan and on tea trays year-round: smaller than its Indian samosa cousin, with a thinner crisper wrapper closer to a spring-roll skin than shortcrust. The filling is a quietly aromatic mix of cooked brown lentils, peas, onion, garlic, ginger and the Somali spice blend xawaash (cumin, coriander, cardamom and cinnamon in roughly equal parts, the four spices that say Somali cooking). The filling has to be dry; a wet filling tears the wrappers, and warm filling melts the spring-roll skins so the folds don't take. Loose folds open in the oil, so use enough flour-water paste and press every seam closed before frying. Eat hot with green chilli sauce, a sharp coriander chutney, or simply a wedge of lemon.
 
 ## Ingredients
 

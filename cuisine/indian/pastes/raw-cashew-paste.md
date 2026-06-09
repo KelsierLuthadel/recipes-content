@@ -9,7 +9,7 @@
 **Prep Time:** 35 minutes
 
 ## Overview
-The smooth ivory paste that thickens and enriches a thousand Indian and Mughlai dishes: raw cashews soaked till tender then blended with just enough cold water to make a silky purée that goes into kormas, butter chicken, malai dishes and creamy biryani gravies. The cashew is the canonical Mughlai-Indian thickener (alongside almond and poppy seed), the way South Indian cooks reach for coconut and Western cooks reach for cream; it adds body and a quiet sweetness without dairy. Raw cashews are essential, not roasted or salted; roasted cashews give a brown nutty colour where you want pale ivory, and the cooked nuts blend grainy rather than silky. The soak is non-negotiable; without it, the paste comes out gritty and never quite smooths into a sauce. Keeps three days in the fridge, freezes a month in small portions for instant curry thickening.
+The smooth ivory paste that thickens and enriches a thousand Indian and Mughlai dishes: raw cashews soaked till tender then blended with just enough cold water to make a silky purée that goes into kormas, butter chicken, malai dishes and creamy biryani gravies. The cashew is the traditional Mughlai-Indian thickener (alongside almond and poppy seed), the way South Indian cooks reach for coconut and Western cooks reach for cream; it adds body and a quiet sweetness without dairy. Raw cashews are essential, not roasted or salted; roasted cashews give a brown nutty colour where you want pale ivory, and the cooked nuts blend grainy rather than silky. The soak is non-negotiable; without it, the paste comes out gritty and never quite smooths into a sauce. Keeps three days in the fridge, freezes a month in small portions for instant curry thickening.
 
 ## Ingredients
 ### Nuts

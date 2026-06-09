@@ -74,7 +74,7 @@ Kitfo is Ethiopia's most iconic raw-meat dish and the celebration dish of the Gu
 **Kitfo with cheese melted in:** some Gurage households mix the ayib cottage cheese directly into the kitfo at the end for a richer dish. The texture is creamier; the flavour rounder.
 
 ## Serving
-On a large round of injera at the centre of the table, with ayib (Ethiopian cottage cheese) and gomen (collard greens) as the canonical accompaniments. Diners eat communally, tearing pieces of injera and scooping kitfo with cheese and greens together. Drink: tej (Ethiopian honey wine), tella (homemade beer), or strong fresh-roasted buna (Ethiopian coffee) traditionally served after the meal in the coffee ceremony.
+On a large round of injera at the centre of the table, with ayib (Ethiopian cottage cheese) and gomen (collard greens) as the traditional accompaniments. Diners eat communally, tearing pieces of injera and scooping kitfo with cheese and greens together. Drink: tej (Ethiopian honey wine), tella (homemade beer), or strong fresh-roasted buna (Ethiopian coffee) traditionally served after the meal in the coffee ceremony.
 
 ## Storage
 - Don't store. Kitfo is raw beef; it must be prepared and eaten within an hour of mincing.

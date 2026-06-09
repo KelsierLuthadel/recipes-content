@@ -2,7 +2,7 @@
 
 ![Black Bean Salad](resources/black-bean-salad.jpg)
 
-*The Southwest's vibrant bean salad: black beans tossed with corn, red bell pepper, red onion, jalapeño, fresh coriander, lime juice, olive oil and cumin. The Southwest-style cold salad - fresh, vegetarian, the canonical potluck side.*
+*The Southwest's vibrant bean salad: black beans tossed with corn, red bell pepper, red onion, jalapeño, fresh coriander, lime juice, olive oil and cumin. The Southwest-style cold salad - fresh, vegetarian, the traditional potluck side.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (with canned beans)
 
 ## Overview
-Southwest black bean salad is one of the most beloved cold sides in Southwestern American cooking: drained black beans tossed with sweet corn kernels, chopped red bell pepper, finely chopped red onion, finely chopped jalapeño, fresh coriander, with a dressing of fresh lime juice, olive oil, ground cumin, garlic and salt. The salad is fresh, vibrant, vegetarian, takes 15 minutes, and is the canonical Southwestern picnic-and-potluck contribution.
+Southwest black bean salad is one of the most beloved cold sides in Southwestern American cooking: drained black beans tossed with sweet corn kernels, chopped red bell pepper, finely chopped red onion, finely chopped jalapeño, fresh coriander, with a dressing of fresh lime juice, olive oil, ground cumin, garlic and salt. The salad is fresh, vibrant, vegetarian, takes 15 minutes, and is the traditional Southwestern picnic-and-potluck contribution.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours stewing (or use leftover bitterbal ragout) + 8 minutes frying
 
 ## Overview
-The broodje kroket is one of the Netherlands' most identity-defining quick lunches. The kroket itself is essentially a larger cylindrical version of the [bitterbal](bitterballen.md): the same slow-cooked-beef-and-velouté ragout, shaped into cylinders about 8 to 10 cm long and 3 cm wide, breaded twice and deep-fried till golden. The cylinder shape is essential since a ball doesn't fit a sandwich, but the cylinder slides neatly into a split bun. The bun is a fresh "zachte witte bol", the soft white round roll, lightly toasted on the cut sides and generously spread with grainy Dutch mustard. The hot kroket splits lengthways with a knife or slices into thick rounds, then presses into the bun. Eaten standing up: the canonical FEBO automaten experience involves dropping coins into a vending-machine wall door behind which sits a hot kroket ready to grab. FEBO sells thousands daily in Amsterdam and Rotterdam; the home-made version is a Saturday-lunch tradition.
+The broodje kroket is one of the Netherlands' most identity-defining quick lunches. The kroket itself is essentially a larger cylindrical version of the [bitterbal](bitterballen.md): the same slow-cooked-beef-and-velouté ragout, shaped into cylinders about 8 to 10 cm long and 3 cm wide, breaded twice and deep-fried till golden. The cylinder shape is essential since a ball doesn't fit a sandwich, but the cylinder slides neatly into a split bun. The bun is a fresh "zachte witte bol", the soft white round roll, lightly toasted on the cut sides and generously spread with grainy Dutch mustard. The hot kroket splits lengthways with a knife or slices into thick rounds, then presses into the bun. Eat standing up: the traditional FEBO automaten experience involves dropping coins into a vending-machine wall door behind which sits a hot kroket ready to grab. FEBO sells thousands daily in Amsterdam and Rotterdam; the home-made version is a Saturday-lunch tradition.
 
 ## Ingredients
 
@@ -72,7 +72,7 @@ The broodje kroket is one of the Netherlands' most identity-defining quick lunch
 ### Stage 3 - Bread the krokets
 1. Set up 3 shallow dishes: one with flour, one with beaten egg, one with breadcrumbs.
 2. Roll each kroket in flour (shake off excess), then in egg, then in breadcrumbs.
-3. For the canonical Dutch double-bread: dip back into egg and again into breadcrumbs.
+3. For the traditional Dutch double-bread: dip back into egg and again into breadcrumbs.
 4. Place on a tray.
 
 ### Stage 4 - Chill the breaded krokets
@@ -99,7 +99,7 @@ The broodje kroket is one of the Netherlands' most identity-defining quick lunch
 1. Cut each sandwich in half on the diagonal (or eat whole).
 2. Serve with extra mustard on the side.
 3. Pair with a cold beer.
-4. Eat standing up (canonical FEBO automaten posture) or at a Dutch lunchroom counter.
+4. Eat standing up (traditional FEBO automaten posture) or at a Dutch lunchroom counter.
 
 ## Notes
 - **Use the same ragout as bitterballen:** the beef braise is the foundation. If you've made bitterballen, you've made the foundation for kroketten.
@@ -120,7 +120,7 @@ The broodje kroket is one of the Netherlands' most identity-defining quick lunch
 **Mini kroketten for canapés:** make 16 smaller (5 cm) krokets; serve at a Dutch borrel reception.
 
 ## Serving
-At a FEBO automaten cafeteria (the canonical setting; sells thousands daily in Amsterdam, Rotterdam, Utrecht) · at a Dutch lunchroom (broodjeszaak) · at an Amsterdam train station counter · at a Dutch carnival or fair · at a Dutch wedding reception buffet · at home as a Saturday lunch · paired with cold Dutch lager and extra mustard.
+At a FEBO automaten cafeteria (the traditional setting; sells thousands daily in Amsterdam, Rotterdam, Utrecht) · at a Dutch lunchroom (broodjeszaak) · at an Amsterdam train station counter · at a Dutch carnival or fair · at a Dutch wedding reception buffet · at home as a Saturday lunch · paired with cold Dutch lager and extra mustard.
 
 ## Storage
 - The breaded uncooked krokets freeze excellently 3 months on a tray then bagged. Fry from frozen at 180°C, allow 7-8 minutes (slightly longer than from chilled).

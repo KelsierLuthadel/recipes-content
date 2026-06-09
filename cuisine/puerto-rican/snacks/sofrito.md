@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Sofrito is the absolute foundation of Puerto Rican cooking and the single most important sauce in the Boricua kitchen. A bright vivid-green raw aromatic paste of cubanelle peppers, onions, garlic, fresh cilantro, culantro (recao), small sweet ajies dulces peppers, tomato, olive oil and salt, processed to a coarse-textured purée that's deeply herbal, vegetable-sweet and unmistakably Boricua. Sofrito is the flavour-base of nearly every savoury Puerto Rican dish: arroz con gandules, pollo guisado, carne guisada, habichuelas guisadas, pasteles. Every Puerto Rican family makes it in big batches (a kilo of vegetables at a time) and freezes it in ice-cube trays for daily cooking. The Puerto Rican version is raw and herbal-dominant, which distinguishes it from Spanish sofrito (cooked, tomato-dominant) and Italian soffritto (onion-carrot-celery based). Both cilantro and culantro together are canonical; cilantro alone is the workable substitute. Ajies dulces (tiny sweet Puerto Rican chillies, like habaneros without the heat) sell frozen at Caribbean markets, or substitute with peppadews.
+Sofrito is the absolute foundation of Puerto Rican cooking and the single most important sauce in the Boricua kitchen. A bright vivid-green raw aromatic paste of cubanelle peppers, onions, garlic, fresh cilantro, culantro (recao), small sweet ajies dulces peppers, tomato, olive oil and salt, processed to a coarse-textured purée that's deeply herbal, vegetable-sweet and unmistakably Boricua. Sofrito is the flavour-base of nearly every savoury Puerto Rican dish: arroz con gandules, pollo guisado, carne guisada, habichuelas guisadas, pasteles. Every Puerto Rican family makes it in big batches (a kilo of vegetables at a time) and freezes it in ice-cube trays for daily cooking. The Puerto Rican version is raw and herbal-dominant, which distinguishes it from Spanish sofrito (cooked, tomato-dominant) and Italian soffritto (onion-carrot-celery based). Both cilantro and culantro together are traditional; cilantro alone is the workable substitute. Ajies dulces (tiny sweet Puerto Rican chillies, like habaneros without the heat) sell frozen at Caribbean markets, or substitute with peppadews.
 
 ## Ingredients
 
@@ -67,12 +67,12 @@ Sofrito is the absolute foundation of Puerto Rican cooking and the single most i
 - **Cilantro AND culantro:** for the proper PR sofrito. Culantro (recao) is available frozen at most Caribbean markets in the diaspora. If unavailable, double the cilantro - the result is acceptable but less authentic.
 - **Coarse texture:** don't process to a smooth paste; the proper PR sofrito has texture. Pulse, don't run continuously.
 - **No tomato in some versions:** some Puerto Rican home cooks don't add tomato to their sofrito; the dish becomes pure-green. Both versions are valid; tomato gives slightly more rounded flavour, no tomato keeps it brighter green.
-- **Freeze in cubes:** ice cube trays are the canonical Boricua storage method. Pop one cube per tablespoon of recipe call.
+- **Freeze in cubes:** ice cube trays are the traditional Boricua storage method. Pop one cube per tablespoon of recipe call.
 - **Raw, not cooked:** sofrito is stored raw and cooked when added to dishes. Don't pre-cook before storing.
 
 ## Variations
 **Without tomato (purist sofrito):** skip the tomato; gives a brighter purer green sauce.
-**With ají caballero (hot pepper):** add 1-2 fresh hot peppers for a spicier version; less canonical for PR sofrito (PR sofrito is usually mild) but common in Caribbean variations.
+**With ají caballero (hot pepper):** add 1-2 fresh hot peppers for a spicier version; less traditional for PR sofrito (PR sofrito is usually mild) but common in Caribbean variations.
 **Vegan no-oil version:** skip the olive oil; the sofrito keeps a few days less but is otherwise identical.
 **Dominican-style:** add 1 tablespoon of dried oregano and 4 stalks of celery; gives the slightly different Dominican-Republic flavour profile.
 

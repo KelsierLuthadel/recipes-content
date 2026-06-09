@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Phở bò is Vietnam's defining noodle soup: a slow-simmered beef broth scented with star anise, cinnamon, charred onion and ginger, ladled over flat rice noodles with paper-thin slices of raw beef that poach in the hot broth at the table. The broth carries the whole dish, so the spices must toast properly and the beef must be sliced as thin as you can manage; partial-freezing the fillet first makes this much easier. The broth wants the canonical aromatics: star anise, ginger, charred onion studded with clove, bashed lemongrass, crushed garlic and white pepper, with a little fish sauce stirred in off the heat. Bring the broth to a rolling boil before ladling, so the heat is enough to cook the raw beef on contact. Served with extra chillies, mint, coriander, lime quarters and a small jug of fish sauce so each diner seasons their own bowl.
+Phở bò is Vietnam's defining noodle soup: a slow-simmered beef broth scented with star anise, cinnamon, charred onion and ginger, ladled over flat rice noodles with paper-thin slices of raw beef that poach in the hot broth at the table. The broth carries the whole dish, so the spices must toast properly and the beef must be sliced as thin as you can manage; partial-freezing the fillet first makes this much easier. The broth wants the traditional aromatics: star anise, ginger, charred onion studded with clove, bashed lemongrass, crushed garlic and white pepper, with a little fish sauce stirred in off the heat. Bring the broth to a rolling boil before ladling, so the heat is enough to cook the raw beef on contact. Served with extra chillies, mint, coriander, lime quarters and a small jug of fish sauce so each diner seasons their own bowl.
 
 ## Ingredients
 ### Noodles

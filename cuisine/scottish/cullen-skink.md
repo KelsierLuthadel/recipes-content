@@ -79,7 +79,7 @@ Cullen skink takes its name from the small fishing village of Cullen on Scotland
 5. Optional: a wedge of lemon for those who want to brighten.
 
 ## Notes
-- **Undyed Finnan haddie:** the canonical fish. Bright yellow dyed haddock is wrong - it's a different (later, industrial) smoking process.
+- **Undyed Finnan haddie:** the traditional fish. Bright yellow dyed haddock is wrong - it's a different (later, industrial) smoking process.
 - **Don't boil the milk:** boiled milk separates; boiled haddock toughens. Gentle simmer only.
 - **Floury potato (Maris Piper / King Edward):** part of the potato should break down and thicken the broth. Waxy potatoes (Charlotte, Anya) won't do this.
 - **Smoke balance:** if your haddock is intensely smoky, the soup may be overpowering; cut with a splash of fish stock. If your haddock is mild, you may want a tiny pinch of smoked paprika to lift it.

@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-The toffee layer is the only stage that takes time: an unopened tin of sweetened condensed milk simmered in water for 3 hours turns into deep amber dulce de leche. The biscuit base is digestives crushed and bound with melted butter, pressed into a tart tin and chilled. The toffee goes on cold, the bananas are sliced just before serving (so they don't brown), the cream is whipped to soft peaks. Assembled in order. Dusted with cocoa or grated dark chocolate. Cut with a knife dipped in hot water for clean slices.
+Banoffee pie was invented in 1971 at The Hungry Monk in East Sussex, where Nigel Mackenzie and Ian Dowding pushed an American coffee-toffee pie in a new direction by swapping in fresh banana, and the dish has been a British pub-dessert and dinner-party classic ever since. You build the toffee layer first because it's the only step that needs real time; an unopened tin of sweetened condensed milk simmered in water for three hours turns into a deep amber dulce de leche, and that slow simmer is the technique you can't rush without a pressure cooker. The biscuit base is digestives crushed and bound with melted butter, pressed firm into a tart tin and chilled hard so it holds its shape under the toffee. Sliced bananas go on just before serving so they don't brown, and the cream wants to be whipped only to soft peaks; over-whipped cream goes grainy and sits on the toffee rather than swooping across it. Dusted with cocoa or grated dark chocolate, cut cold with a knife dipped in hot water for clean slices.
 
 ## Ingredients
 

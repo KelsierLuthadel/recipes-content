@@ -2,7 +2,7 @@
 
 ![Macedonian Burek](resources/macedonian-burek.jpg)
 
-*North Macedonia's iconic spiral phyllo pie: thin phyllo sheets layered with a filling of cheese, spinach, minced meat or pumpkin, rolled into a long log, then coiled into a spiral and baked till deeply golden. The canonical Balkan breakfast; sold at every Macedonian burekdžija (burek shop) from dawn.*
+*North Macedonia's iconic spiral phyllo pie: thin phyllo sheets layered with a filling of cheese, spinach, minced meat or pumpkin, rolled into a long log, then coiled into a spiral and baked till deeply golden. The traditional Balkan breakfast; sold at every Macedonian burekdžija (burek shop) from dawn.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo pie tradition spanning the Balkans. The Macedonian version distinguishes itself by the spiral form: phyllo sheets are laid out, brushed with butter, filled with the chosen filling (cheese being most popular - sirenje/feta + ricotta + egg; spinach is the second favourite; minced meat the third), rolled into a long log, then coiled into a flat spiral in a round baking tray; baked at high heat till deeply golden. Eaten warm for breakfast with yogurt drink.
+Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo pie tradition spanning the Balkans. The Macedonian version distinguishes itself by the spiral form: phyllo sheets are laid out, brushed with butter, filled with the chosen filling (cheese being most popular - sirenje/feta + ricotta + egg; spinach is the second favourite; minced meat the third), rolled into a long log, then coiled into a flat spiral in a round baking tray; baked at high heat till deeply golden. Eat warm for breakfast with yogurt drink.
 
 ## Ingredients
 
@@ -56,8 +56,8 @@ Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo 
 12. Serve warm with yogurt.
 
 ## Notes
-- **Spiral shape canonical for Macedonia:** flat layered "burek" is also valid (Bosnian style).
-- **Generous butter:** the canonical crisp.
+- **Spiral shape traditional for Macedonia:** flat layered "burek" is also valid (Bosnian style).
+- **Generous butter:** the traditional crisp.
 - **Eat warm:** the cheese softens; the pastry crisp is at peak.
 
 ## Variations
@@ -68,7 +68,7 @@ Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo 
 **Vegan burek:** skip dairy; mushroom + walnut + leek filling.
 
 ## Serving
-At every Macedonian breakfast (burekdžija canonical setting) · with ayran (yogurt drink) · at a Macedonian bus station · at home as a Sunday brunch.
+At every Macedonian breakfast (burekdžija traditional setting) · with ayran (yogurt drink) · at a Macedonian bus station · at home as a Sunday brunch.
 
 ## Storage
 Best eaten warm same day. Refrigerates 2 days; reheat at 180°C for 8 minutes. Freezes (raw) 2 months.

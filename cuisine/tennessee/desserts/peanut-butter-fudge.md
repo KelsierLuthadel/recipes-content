@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (plus 2 hours chilling)
 
 ## Overview
-Tennessee peanut butter fudge is one of the South's most beloved candies and the iconic souvenir of the Great Smoky Mountains and Gatlinburg shopping strips, where every other shop seems to be a fudge shop selling huge slabs of various flavours: the Tennessee classic combines smooth peanut butter with sweetened condensed milk, butter, brown sugar, caster sugar, and vanilla, all cooked together over medium heat to soft-ball stage (115°C/240°F), then poured into a buttered tin to set into rich, dense, creamy peanut-butter squares. Sliced into small cubes and stored at room temperature. Often combined with chocolate fudge in swirled layers ("tiger fudge" is the canonical name).
+Tennessee peanut butter fudge is one of the South's most beloved candies and the iconic souvenir of the Great Smoky Mountains and Gatlinburg shopping strips, where every other shop seems to be a fudge shop selling huge slabs of various flavours: the Tennessee classic combines smooth peanut butter with sweetened condensed milk, butter, brown sugar, caster sugar, and vanilla, all cooked together over medium heat to soft-ball stage (115°C/240°F), then poured into a buttered tin to set into rich, dense, creamy peanut-butter squares. Sliced into small cubes and stored at room temperature. Often combined with chocolate fudge in swirled layers ("tiger fudge" is the traditional name).
 
 ## Ingredients
 

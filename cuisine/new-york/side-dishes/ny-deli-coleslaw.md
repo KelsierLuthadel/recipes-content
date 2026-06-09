@@ -2,7 +2,7 @@
 
 ![NY Deli Coleslaw](resources/ny-deli-coleslaw.jpg)
 
-*New York's deli-counter coleslaw: shredded green cabbage and carrot tossed with a tangy mayo-vinegar dressing flavoured with mustard, sugar, celery seed, salt and pepper. The canonical Jewish-deli side; the slaw that goes alongside pastrami sandwiches and matzo ball soup.*
+*New York's deli-counter coleslaw: shredded green cabbage and carrot tossed with a tangy mayo-vinegar dressing flavoured with mustard, sugar, celery seed, salt and pepper. The traditional Jewish-deli side; the slaw that goes alongside pastrami sandwiches and matzo ball soup.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-NY deli coleslaw is the canonical Jewish-American deli-counter slaw and the side that turns up alongside every pastrami sandwich, corned beef on rye, and matzo ball soup at the great New York delis (Katz's, Carnegie, 2nd Avenue Deli, Russ & Daughters all serve their slightly different versions): shredded green cabbage (and a touch of carrot for colour) tossed with a tangy mayo-vinegar dressing flavoured with white vinegar (more vinegar than most American coleslaws; the NY deli style is brighter and more vinegar-forward), Dijon mustard, sugar, celery seed, salt, white pepper and a touch of grated onion or onion powder. Chilled 1 hour for flavours to meld.
+NY deli coleslaw is the traditional Jewish-American deli-counter slaw and the side that turns up alongside every pastrami sandwich, corned beef on rye, and matzo ball soup at the great New York delis (Katz's, Carnegie, 2nd Avenue Deli, Russ & Daughters all serve their slightly different versions): shredded green cabbage (and a touch of carrot for colour) tossed with a tangy mayo-vinegar dressing flavoured with white vinegar (more vinegar than most American coleslaws; the NY deli style is brighter and more vinegar-forward), Dijon mustard, sugar, celery seed, salt, white pepper and a touch of grated onion or onion powder. Chilled 1 hour for flavours to meld.
 
 ## Ingredients
 

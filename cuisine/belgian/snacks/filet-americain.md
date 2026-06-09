@@ -94,7 +94,7 @@ Filet américain is Belgium's national raw-beef preparation, similar in spirit t
 **Filet américain sur toast (the canapé):** spread thinly on toasted baguette slices with a caper on top - the Belgian cocktail-canapé variant.
 
 ## Serving
-At a Brussels brasserie as a starter or main (the canonical setting) · at a Belgian café for a quick lunch with bread and a Stella · at a Belgian summer terrace · at a Flemish family Sunday brunch · at a Belgian wedding reception buffet · at home with a pre-dinner Belgian gin or a glass of cold Belgian lager.
+At a Brussels brasserie as a starter or main (the traditional setting) · at a Belgian café for a quick lunch with bread and a Stella · at a Belgian summer terrace · at a Flemish family Sunday brunch · at a Belgian wedding reception buffet · at home with a pre-dinner Belgian gin or a glass of cold Belgian lager.
 
 ## Storage
 - Make and eat within an hour. Raw beef oxidises fast.

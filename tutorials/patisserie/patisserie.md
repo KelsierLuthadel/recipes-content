@@ -79,7 +79,7 @@ The dishes the course refers back to:
 - [Chocolate Roulade](../../cuisine/french/desserts/chocolate-roulade.md): rolled sponge with chocolate cream.
 
 ### Tarts
-- [Lemon Tart](../../cuisine/french/desserts/lemon-tart.md): the canonical tarte au citron.
+- [Lemon Tart](../../cuisine/french/desserts/lemon-tart.md): the traditional tarte au citron.
 - [Apple Tart](../../cuisine/french/desserts/apple-tart.md): the everyday tarte aux pommes.
 - [Tarte Tatin](../../cuisine/french/desserts/tarte-tatin.md): upside-down caramelised apple tart.
 - [Apple Turnover](../../cuisine/french/desserts/apple-turnover.md): chausson aux pommes, puff pastry filled.

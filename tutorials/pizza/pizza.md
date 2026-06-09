@@ -28,7 +28,7 @@ The course refers back to these:
 - [Basic Pizza Dough](../../cuisine/italian/pizza/basic-pizza-dough.md): the everyday standard, 60% hydration, suitable for most home ovens.
 - [Pizza Dough](../../bread-pasta/pizza-dough.md): a higher-hydration version for stone or outdoor oven.
 - [Pizza Sauce](../../cuisine/italian/pizza/pizza-sauce.md): the no-cook San Marzano base.
-- [Margherita](../../cuisine/italian/pizza/margherita.md): the canonical reference pizza.
+- [Margherita](../../cuisine/italian/pizza/margherita.md): the traditional reference pizza.
 - [Ultimate Margherita Pizza](../../cuisine/italian/pizza/ultimate-margherita-pizza.md): the upgraded version.
 
 ## The Finished Pizzas

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pasta alla Norma is the iconic pasta of Catania, Sicily, and one of Italy's most beloved vegetarian dishes: short pasta (rigatoni canonical; penne, fusilli or maccheroni all work) tossed with a sauce of cubed aubergine first fried separately in olive oil till deep golden and creamy, combined with a simple garlic-tomato passata and generous fresh basil leaves, topped with grated ricotta salata (the salty crumbly aged ricotta of Sicily; Pecorino Romano substitutes). The dish was supposedly named in the 1920s after Vincenzo Bellini's opera Norma by a Sicilian chef who declared the pasta "a Norma": a Sicilian masterpiece. The aubergine must be fried separately till deeply caramelised; raw aubergine in the sauce gives the wrong texture. The tomato base is just garlic and tomato (no onion, no carrot).
+Pasta alla Norma is the iconic pasta of Catania, Sicily, and one of Italy's most beloved vegetarian dishes: short pasta (rigatoni traditional; penne, fusilli or maccheroni all work) tossed with a sauce of cubed aubergine first fried separately in olive oil till deep golden and creamy, combined with a simple garlic-tomato passata and generous fresh basil leaves, topped with grated ricotta salata (the salty crumbly aged ricotta of Sicily; Pecorino Romano substitutes). The dish was supposedly named in the 1920s after Vincenzo Bellini's opera Norma by a Sicilian chef who declared the pasta "a Norma": a Sicilian masterpiece. The aubergine must be fried separately till deeply caramelised; raw aubergine in the sauce gives the wrong texture. The tomato base is just garlic and tomato (no onion, no carrot).
 
 ## Ingredients
 
@@ -82,13 +82,13 @@ Pasta alla Norma is the iconic pasta of Catania, Sicily, and one of Italy's most
 - **Fry the eggplant separately:** essential for proper texture.
 - **Salt and dry the eggplant:** removes bitterness and prevents oil absorption.
 - **Simple tomato sauce:** no onion, no carrot.
-- **Ricotta salata canonical:** salty aged ricotta; Pecorino Romano substitutes.
+- **Ricotta salata traditional:** salty aged ricotta; Pecorino Romano substitutes.
 - **Don't overcook the pasta:** al dente.
 
 ## Variations
 **Baked version (pasta al forno):** assemble and bake at 200°C with extra cheese on top for 15 minutes; gives a baked-pasta version.
 **With mozzarella:** add 200 g of cubed mozzarella in the last minute; gives a stringier richer version.
-**With anchovy:** add 4 anchovy fillets to the tomato sauce; gives umami (less canonical but valid).
+**With anchovy:** add 4 anchovy fillets to the tomato sauce; gives umami (less traditional but valid).
 **Spicy version (arrabbiata-style):** double the red pepper flakes; gives a fiery Sicilian version.
 
 ## Serving

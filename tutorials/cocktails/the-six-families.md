@@ -8,7 +8,7 @@
 
 The six families are: Old Fashioned, Manhattan, Daiquiri, Martini, Sour, and Highball. Together they explain the recipe of any cocktail you'll meet. The Negroni is a Manhattan variant. The Margarita is a Sour. The Mojito is a Highball. The Aviation is a Sour. The Boulevardier is a Manhattan.
 
-This page walks through each family with its shape and the canonical recipe. The next pages cover ice/dilution and garnish; the final page works through 5 real cocktails using all of this.
+This page walks through each family with its shape and the traditional recipe. The next pages cover ice/dilution and garnish; the final page works through 5 real cocktails using all of this.
 
 ## 1. The Old Fashioned
 
@@ -16,7 +16,7 @@ This page walks through each family with its shape and the canonical recipe. The
 
 The oldest family - the original "cock-tail" was an Old Fashioned. The recipe predates the Manhattan by 50 years.
 
-**Canonical:**
+**Traditional:**
 - 60 ml rye whisky (or bourbon)
 - 1 teaspoon demerara syrup (or 1 sugar cube)
 - 3 dashes Angostura bitters
@@ -36,7 +36,7 @@ If you can make one Old Fashioned well, you can make all of these.
 
 The Manhattan is the Old Fashioned's wine-fortified cousin. Where the Old Fashioned uses sugar, the Manhattan uses sweet vermouth, which adds aromatised wine character (herbs, citrus, dried fruits) on top of the sweetness.
 
-**Canonical:**
+**Traditional:**
 - 50 ml rye whisky
 - 25 ml sweet vermouth (Carpano Antica, Cocchi Torino, or Punt e Mes)
 - 2 dashes Angostura bitters
@@ -57,7 +57,7 @@ The Manhattan family is the easiest to expand: change the spirit, swap the modif
 
 The first of the sour-family cocktails. The Daiquiri is the cleanest, most balanced expression of the sour shape.
 
-**Canonical:**
+**Traditional:**
 - 60 ml white rum
 - 25 ml fresh lime juice
 - 15 ml simple syrup (or demerara syrup)
@@ -76,7 +76,7 @@ The first of the sour-family cocktails. The Daiquiri is the cleanest, most balan
 
 The most-quoted, most-debated cocktail. The shape is simple; the proportions are everything.
 
-**Canonical (50/50):**
+**Traditional (50/50):**
 - 30 ml gin (or vodka)
 - 30 ml dry vermouth (Dolin Dry, Noilly Prat)
 - Stirred; coupe or martini glass; lemon-peel twist or olive.
@@ -95,7 +95,7 @@ The most-quoted, most-debated cocktail. The shape is simple; the proportions are
 
 Technically a sub-family of the Daiquiri, the Sour gets its own line because of the egg-white technique that gives it that famously thick foam head.
 
-**Canonical Whisky Sour:**
+**Traditional Whisky Sour:**
 - 50 ml bourbon (or rye)
 - 25 ml fresh lemon juice
 - 15 ml simple syrup
@@ -116,7 +116,7 @@ Technically a sub-family of the Daiquiri, the Sour gets its own line because of 
 
 The long-drink family. Lower alcohol per volume; designed for slow sipping.
 
-**Canonical Gin and Tonic:**
+**Traditional Gin and Tonic:**
 - 50 ml gin
 - 150 ml tonic water (Schweppes, Fever-Tree, or proper craft tonic)
 - Generous ice; lemon or lime wheel.

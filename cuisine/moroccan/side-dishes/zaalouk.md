@@ -2,7 +2,7 @@
 
 ![Zaalouk](resources/zaalouk.jpg)
 
-*Moroccan smoky aubergine and tomato salad: aubergines roasted until collapsed, mashed coarsely with stewed tomatoes, garlic, paprika and cumin. Eaten warm or cold, scooped with bread; smoky, garlicky, just enough fresh herb to keep it bright.*
+*Moroccan smoky aubergine and tomato salad: aubergines roasted until collapsed, mashed coarsely with stewed tomatoes, garlic, paprika and cumin. Eat warm or cold, scooped with bread; smoky, garlicky, just enough fresh herb to keep it bright.*
 
 **Serves:** 4 as a side, 2 as a main
 

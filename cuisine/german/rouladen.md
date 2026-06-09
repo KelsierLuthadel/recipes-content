@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lunch dishes, the canonical big-deal meal at every birthday, Christmas Eve dinner, wedding luncheon and Sonntagsbraten (Sunday roast). Thin slices of top-round beef are spread with Dijon mustard, layered with smoky streaky bacon, sliced sweet onion and dill pickle, rolled tight, tied with kitchen string, seared brown in butter, then braised gently in red wine and beef stock with carrots, onions and bay till the beef is fork-tender. The braising liquid is strained, thickened into a deep mahogany gravy and ladled over the sliced pinwheels at the table. Served with mashed potatoes (or buttered noodles), and the canonical pairing of braised red cabbage (rotkohl). The flavour is profound: beefy, smoky, slightly sweet from the onion and pickle, with the rich gravy tying everything together.
+Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lunch dishes, the traditional big-deal meal at every birthday, Christmas Eve dinner, wedding luncheon and Sonntagsbraten (Sunday roast). Thin slices of top-round beef are spread with Dijon mustard, layered with smoky streaky bacon, sliced sweet onion and dill pickle, rolled tight, tied with kitchen string, seared brown in butter, then braised gently in red wine and beef stock with carrots, onions and bay till the beef is fork-tender. The braising liquid is strained, thickened into a deep mahogany gravy and ladled over the sliced pinwheels at the table. Served with mashed potatoes (or buttered noodles), and the traditional pairing of braised red cabbage (rotkohl). The flavour is profound: beefy, smoky, slightly sweet from the onion and pickle, with the rich gravy tying everything together.
 
 ## Ingredients
 
@@ -31,7 +31,7 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 - 4 garlic cloves (smashed)
 - 2 bay leaves
 - 1 tablespoon tomato paste
-- 500 ml dry red wine (Spätburgunder Pinot Noir is the canonical German wine)
+- 500 ml dry red wine (Spätburgunder Pinot Noir is the traditional German wine)
 - 700 ml beef stock
 - 1 tablespoon redcurrant jelly (or any berry jam; modern Bavarian touch)
 - 2 teaspoons coarsely ground black pepper
@@ -116,22 +116,22 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 
 ## Notes
 - **Beat the beef thin enough to roll:** about 3 mm. Thicker rolls don't braise evenly.
-- **Tie with string:** the canonical German technique. Cocktail sticks work but string holds shape better during the long braise.
+- **Tie with string:** the traditional German technique. Cocktail sticks work but string holds shape better during the long braise.
 - **Brown thoroughly before braising:** the Maillard reaction is the flavour foundation.
 - **Long slow braise:** 90-120 minutes minimum. Less and the beef is tough.
-- **Strain the gravy:** smooth, glossy gravy is the canonical German style.
+- **Strain the gravy:** smooth, glossy gravy is the traditional German style.
 
 ## Variations
 **Bavarian rouladen with bratwurst:** add a slice of bratwurst inside each roll alongside the bacon - heartier variant.
 **Rouladen with sauerkraut:** stuff with a small amount of sauerkraut alongside the pickle - even more sour.
 **Rouladen mit Pflaumen (plum rouladen):** add 1-2 prunes to the filling - sweet-savoury Berlin variant.
-**Modern open rouladen:** layer all the fillings on a single sheet of beef, fold once, and braise as one piece - easier, less canonical.
+**Modern open rouladen:** layer all the fillings on a single sheet of beef, fold once, and braise as one piece - easier, less traditional.
 **Mini rouladen (canapé):** make smaller rolls (8-9 cm) with single-slice fillings; serve as starters.
 **Vegetarian rouladen:** use sliced aubergine or grilled portobello mushroom in place of beef; smoked tofu in place of bacon. Modern variant.
 **Pressure cooker rouladen:** brown then pressure-cook for 40 minutes high pressure - faster, less time for flavour development.
 
 ## Serving
-At a German Sunday family lunch (the canonical setting - the "Sonntagsbraten") · at a German Christmas Eve dinner · at a German wedding luncheon · at a German birthday celebration · at a Bavarian beer-hall as a special-occasion dish · at a German-themed dinner abroad · at home for a special Saturday-evening dinner-for-two with a bottle of Spätburgunder.
+At a German Sunday family lunch (the traditional setting - the "Sonntagsbraten") · at a German Christmas Eve dinner · at a German wedding luncheon · at a German birthday celebration · at a Bavarian beer-hall as a special-occasion dish · at a German-themed dinner abroad · at home for a special Saturday-evening dinner-for-two with a bottle of Spätburgunder.
 
 ## Storage
 - Refrigerates 3 days; the flavour deepens overnight.

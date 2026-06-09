@@ -2,7 +2,7 @@
 
 ![Surówka](resources/surowka.jpg)
 
-*Polish raw vegetable slaw: grated carrot, apple and white cabbage tossed with sour cream, lemon juice and a pinch of sugar. Crisp, bright, faintly sweet. Eaten alongside the heaviest Polish lunches (kotlet schabowy, mashed potatoes and gravy) for fresh contrast. Every Polish home cook has their version.*
+*Polish raw vegetable slaw: grated carrot, apple and white cabbage tossed with sour cream, lemon juice and a pinch of sugar. Crisp, bright, faintly sweet. Eat alongside the heaviest Polish lunches (kotlet schabowy, mashed potatoes and gravy) for fresh contrast. Every Polish home cook has their version.*
 
 **Serves:** 4
 

@@ -102,7 +102,7 @@ Vatapá is one of Brazil's most opulent and most distinctly African dishes: a Ba
 ### Stage 10 - Variation: stuff into acarajé (street-food style)
 1. Make acarajé: black-eyed peas are blended into a paste, formed into balls, deep-fried in dendê oil.
 2. Split each fritter open and fill with vatapá, dried shrimp, vatapá sauce, and salsa.
-3. The canonical Bahian street food, sold from streetside food stalls.
+3. The traditional Bahian street food, sold from streetside food stalls.
 
 ## Notes
 - **Grind the base well:** the texture is everything. A coarse paste gives chunks (not bad); a fine paste gives a velvety cream (better).
@@ -121,7 +121,7 @@ Vatapá is one of Brazil's most opulent and most distinctly African dishes: a Ba
 **Vatapá pernambucano (Pernambuco variant):** uses tomato in the base; slightly redder than Bahian version.
 
 ## Serving
-At a Salvador (Bahia) beachfront restaurant (the canonical setting) · at a Bahian wedding banquet · at a Brazilian Carnival celebration · at a Bahian street-food market with acarajé · at a Brazilian Sunday family lunch in the north-east · at a Brazilian special-occasion dinner abroad as a stunning showpiece · at home with rice, farofa, lime, and cold beer.
+At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Bahian wedding banquet · at a Brazilian Carnival celebration · at a Bahian street-food market with acarajé · at a Brazilian Sunday family lunch in the north-east · at a Brazilian special-occasion dinner abroad as a stunning showpiece · at home with rice, farofa, lime, and cold beer.
 
 ## Storage
 - Refrigerates 2 days; the flavour deepens overnight.

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A bread from the mountain villages of Azerbaijan and the wider Caucasus, the kind of thing a family bakes on a Saturday morning and eats through the week with cheese, with stew, on its own with tea. You make a simple yeasted milk-and-egg dough and let it rise for an hour, while you slowly soften onions in butter until they're pale gold and sweet. The onions cool and mix with chopped fresh coriander, dill, mint, spring onion and a knob more butter for the filling. The dough divides into six balls, each rolls flat, gets a heap of filling, gathers up into a purse, presses flat to a twelve-centimetre disc, then rolls under a pin to a centimetre thick. Pan-fry on a dry hot skillet for four minutes per side, or bake at 200°C for fifteen minutes if you'd rather a more even browning. Eaten hot, torn and shared, with a glass of buttermilk or strong tea.
+A bread from the mountain villages of Azerbaijan and the wider Caucasus, the kind of thing a family bakes on a Saturday morning and eats through the week with cheese, with stew, on its own with tea. You make a simple yeasted milk-and-egg dough and let it rise for an hour, while you slowly soften onions in butter until they're pale gold and sweet. The onions cool and mix with chopped fresh coriander, dill, mint, spring onion and a knob more butter for the filling. The dough divides into six balls, each rolls flat, gets a heap of filling, gathers up into a purse, presses flat to a twelve-centimetre disc, then rolls under a pin to a centimetre thick. Pan-fry on a dry hot skillet for four minutes per side, or bake at 200°C for fifteen minutes if you'd rather a more even browning. Eat hot, torn and shared, with a glass of buttermilk or strong tea.
 
 ## Ingredients
 

@@ -112,7 +112,7 @@ The hamburguesa al pastor is Mexico's burger answer to its most iconic taco fill
 ## Notes
 - **Marinade in the patty, not on top:** the achiote-and-chile flavour has to be through the meat.
 - **Charred pineapple essential:** the pineapple-pork combo is what makes it al pastor.
-- **White onion + coriander canonical:** these are the al pastor taco garnishes; the burger has to carry them.
+- **White onion + coriander traditional:** these are the al pastor taco garnishes; the burger has to carry them.
 - **Smashed avocado, not guacamole:** simpler, lets the pastor flavours dominate.
 
 ## Variations

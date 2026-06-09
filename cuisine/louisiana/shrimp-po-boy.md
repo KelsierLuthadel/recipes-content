@@ -2,7 +2,7 @@
 
 ![Shrimp Po'boy](resources/shrimp-po-boy.jpg)
 
-*New Orleans' great fried-shrimp sandwich: cornmeal-crusted Gulf shrimp on crisp French bread with shredded lettuce, tomato, pickles and remoulade. Eaten with both hands, plate optional.*
+*New Orleans' great fried-shrimp sandwich: cornmeal-crusted Gulf shrimp on crisp French bread with shredded lettuce, tomato, pickles and remoulade. Eat with both hands, plate optional.*
 
 **Serves:** 4
 

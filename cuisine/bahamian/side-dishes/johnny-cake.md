@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Johnny cake is the Bahamas' everyday quick bread, sitting somewhere between cornbread, biscuit and cake: a slightly sweet white-flour bread leavened with baking powder, enriched with butter and milk and just enough sugar to take it out of plain-biscuit territory, baked in a square pan till the top goes golden-brown and the inside stays soft and slightly cakey. The Bahamian version is canonically wheat-flour (no cornmeal, despite the name), which distinguishes it from the cornmeal "journey cake" of the American South. The texture wants to be slightly cakey rather than dense biscuit; tender but sliceable, never crumbly. The sugar level matters; too little tastes like plain biscuit, too much tastes like cake. Baked in a single square pan and cut into squares once cool, never rolled and cut into circles; that gives the proper soft interior.
+Johnny cake is the Bahamas' everyday quick bread, sitting somewhere between cornbread, biscuit and cake: a slightly sweet white-flour bread leavened with baking powder, enriched with butter and milk and just enough sugar to take it out of plain-biscuit territory, baked in a square pan till the top goes golden-brown and the inside stays soft and slightly cakey. The Bahamian version is traditionally wheat-flour (no cornmeal, despite the name), which distinguishes it from the cornmeal "journey cake" of the American South. The texture wants to be slightly cakey rather than dense biscuit; tender but sliceable, never crumbly. The sugar level matters; too little tastes like plain biscuit, too much tastes like cake. Baked in a single square pan and cut into squares once cool, never rolled and cut into circles; that gives the proper soft interior.
 
 ## Ingredients
 
@@ -70,7 +70,7 @@ Johnny cake is the Bahamas' everyday quick bread, sitting somewhere between corn
 - **Wheat flour, not cornmeal:** Bahamian johnny cake is wheat-based, unlike its Southern US cousin which is cornmeal-based. Don't confuse the two; the textures and flavours are completely different.
 - **Cold butter is essential:** the butter should be properly cold (straight from the fridge) when cut into the flour. Warm butter melts into the dough and gives a dense bread instead of a tender one. Keep everything cold; pop the bowl in the fridge between steps if your kitchen is warm.
 - **Don't overmix:** mix only till the dough just comes together; visible patches of butter and small lumps are fine. Overmixing develops the gluten and gives a tough chewy bread instead of a tender cakey one.
-- **Just enough sugar:** 2 tablespoons of sugar is the canonical amount; some recipes go to 4 tablespoons (more cake-like), some go to 1 tablespoon (more biscuit-like). 2 is the proper middle.
+- **Just enough sugar:** 2 tablespoons of sugar is the traditional amount; some recipes go to 4 tablespoons (more cake-like), some go to 1 tablespoon (more biscuit-like). 2 is the proper middle.
 - **22 cm square pan:** the size matters; a smaller pan gives a thicker bread that takes longer to bake through and goes dry on top; a larger pan gives a thinner bread that goes from underdone to overdone in seconds. Use what's specified.
 
 ## Variations

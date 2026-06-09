@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic spreads and the bread sandwiches that turn up in school bags and on long road trips across Iran. Medium-fine grated potato and onion squeezed bone-dry in a tea towel fold into beef mince with egg, turmeric, salt, pepper and a faint hit of cinnamon. The squeeze matters: wet kotlet falls apart in the pan, so wring every last drop. Kneaded for three or four minutes till the mix turns tacky, chilled half an hour, then patted into thin ovals and shallow-fried in sunflower oil till the surface is deep golden brown and crisp. Eaten warm wrapped in sangak or taftoon with sliced tomato, radishes, parsley sprigs and Persian pickles, or cold the next day in a bread sandwich with butter and tomato, the way Tehran families pack them for the road.
+Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic spreads and the bread sandwiches that turn up in school bags and on long road trips across Iran. Medium-fine grated potato and onion squeezed bone-dry in a tea towel fold into beef mince with egg, turmeric, salt, pepper and a faint hit of cinnamon. The squeeze matters: wet kotlet falls apart in the pan, so wring every last drop. Kneaded for three or four minutes till the mix turns tacky, chilled half an hour, then patted into thin ovals and shallow-fried in sunflower oil till the surface is deep golden brown and crisp. Eat warm wrapped in sangak or taftoon with sliced tomato, radishes, parsley sprigs and Persian pickles, or cold the next day in a bread sandwich with butter and tomato, the way Tehran families pack them for the road.
 
 ## Ingredients
 

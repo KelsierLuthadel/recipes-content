@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes (plus 4 hours cooling and overnight chill)
 
 ## Overview
-New York cheesecake is the most iconic American cheesecake and the canonical Manhattan dessert (Junior's in Brooklyn, S&S Cheesecake in the Bronx, Lindy's in Midtown, Eileen's Special Cheesecake in SoHo all sell millions of slices): distinct from European cheesecakes by being made entirely from cream cheese (Philadelphia is canonical; soft full-fat) rather than ricotta or quark, with no flour or cornflour as thickener, just relying on the eggs (lots of them) to set the dense custard. A typical NY cheesecake recipe uses 1.5 kg of cream cheese, 300 g sugar, 6 eggs, 150 ml sour cream, vanilla, and a touch of lemon zest. Baked in a springform pan on a graham cracker (digestive biscuit) crust, baked in a water bath at low temperature for 60-75 minutes till just-set with a slight wobble in the centre, cooled slowly to room temperature, then refrigerated overnight for the canonical dense slice-with-a-fork texture.
+New York cheesecake is the most iconic American cheesecake and the traditional Manhattan dessert (Junior's in Brooklyn, S&S Cheesecake in the Bronx, Lindy's in Midtown, Eileen's Special Cheesecake in SoHo all sell millions of slices): distinct from European cheesecakes by being made entirely from cream cheese (Philadelphia is traditional; soft full-fat) rather than ricotta or quark, with no flour or cornflour as thickener, just relying on the eggs (lots of them) to set the dense custard. A typical NY cheesecake recipe uses 1.5 kg of cream cheese, 300 g sugar, 6 eggs, 150 ml sour cream, vanilla, and a touch of lemon zest. Baked in a springform pan on a graham cracker (digestive biscuit) crust, baked in a water bath at low temperature for 60-75 minutes till just-set with a slight wobble in the centre, cooled slowly to room temperature, then refrigerated overnight for the traditional dense slice-with-a-fork texture.
 
 ## Ingredients
 
@@ -74,7 +74,7 @@ New York cheesecake is the most iconic American cheesecake and the canonical Man
 
 ### Stage 7 - Overnight chill
 1. Refrigerate overnight (12 hours minimum).
-2. This is essential for the canonical NY texture.
+2. This is essential for the traditional NY texture.
 
 ### Stage 8 - Serve
 1. Run knife around edge; release springform.
@@ -83,7 +83,7 @@ New York cheesecake is the most iconic American cheesecake and the canonical Man
 4. Serve cold.
 
 ## Notes
-- **Full-fat Philadelphia cream cheese:** the canonical NY ingredient.
+- **Full-fat Philadelphia cream cheese:** the traditional NY ingredient.
 - **Room temp ingredients:** for smooth batter.
 - **Water bath:** prevents cracks.
 - **Slow cool:** prevents cracks.

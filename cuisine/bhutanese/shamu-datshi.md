@@ -84,7 +84,7 @@ Shamu datshi is the mushroom version of Bhutan's beloved datshi (cheese-stew) fa
 - **Cook off the mushroom water before adding liquid:** the most common error is adding water while the mushrooms are still releasing their own moisture. Let the mushrooms reduce till the pan is dry-ish (no liquid pooling) before adding the water-and-salt for the sauce.
 - **Feta is the standard substitute:** real Bhutanese chhurpi cheese is hard to find outside Bhutan and Tibet. Feta gives the right tangy character with a similar texture. Ricotta is creamier but less tangy; cottage cheese works for texture but lacks the flavour.
 - **Don't overcook the cheese:** 3-5 minutes after the cheese goes in is enough. Longer cooking breaks down the dairy and the sauce can split or go grainy. The proper shamu datshi has visible pieces of cheese in a creamy sauce, not a uniform melted-cheese soup.
-- **Bhutanese chilli levels:** the canonical Bhutanese version uses way more chillies than this recipe (often 6-8 hot Bhutanese green chillies whole). I've moderated for non-Bhutanese palates; scale up if you want the proper experience.
+- **Bhutanese chilli levels:** the traditional Bhutanese version uses way more chillies than this recipe (often 6-8 hot Bhutanese green chillies whole). I've moderated for non-Bhutanese palates; scale up if you want the proper experience.
 
 ## Variations
 **Shamu datshi with potato:** add 1 medium potato (peeled, cubed) along with the mushrooms; the potato softens during the cook and gives extra body. Bridges shamu datshi and kewa datshi.

@@ -38,7 +38,7 @@ The Rusty Nail is a two-ingredient Scottish-American cocktail of Scotch whisky a
 1. Serve immediately, no straw; sip slowly.
 
 ## Notes
-- **2:1 ratio is canonical.** 45 ml Scotch to 25 ml Drambuie is the standard; some bars push it to 3:1 for a drier, more whisky-forward drink ("Smoky Nail"); 1:1 gives a sweet drink some palates prefer.
+- **2:1 ratio is traditional.** 45 ml Scotch to 25 ml Drambuie is the standard; some bars push it to 3:1 for a drier, more whisky-forward drink ("Smoky Nail"); 1:1 gives a sweet drink some palates prefer.
 - **One large ice cube, not multiple small ones.** Surface area matters; a big cube melts slowly and keeps the drink concentrated.
 - **Drambuie matters.** This is not a generic honey liqueur; Drambuie has a specific Scotch-and-honey-and-herbs flavour that defines the drink. There are no good substitutes.
 - **Don't shake.** Shaking aerates and over-dilutes a drink that's meant to be neat and full-bodied.

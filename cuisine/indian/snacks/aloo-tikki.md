@@ -2,7 +2,7 @@
 
 ![Aloo Tikki](resources/aloo-tikki.jpg)
 
-*Delhi's chaat staple: shallow-fried spiced potato patties with a crisp lacquered crust and a soft herb-fragrant centre. Eaten with tamarind and mint.*
+*Delhi's chaat staple: shallow-fried spiced potato patties with a crisp lacquered crust and a soft herb-fragrant centre. Eat with tamarind and mint.*
 
 **Serves:** 4 (makes 8 tikkis)
 

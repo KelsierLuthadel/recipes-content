@@ -2,7 +2,7 @@
 
 ![Brezel](resources/brezel.jpg)
 
-*Bavaria's iconic twisted bread: a yeasted dough rolled into a long rope, twisted into the canonical pretzel shape, dipped in a lye (or baking-soda) bath, sprinkled with coarse rock salt, and baked till deeply browned and shiny. The canonical Bavarian beer-garden bread; the symbol of Bavarian baking; the most distinctively German bread in the canon.*
+*Bavaria's iconic twisted bread: a yeasted dough rolled into a long rope, twisted into the traditional pretzel shape, dipped in a lye (or baking-soda) bath, sprinkled with coarse rock salt, and baked till deeply browned and shiny. The traditional Bavarian beer-garden bread; the symbol of Bavarian baking; the most distinctively German bread in the canon.*
 
 **Serves:** Makes 8 large pretzels
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconic foods: a yeasted bread rolled into the unmistakable pretzel shape, dipped briefly in a hot lye or baking-soda solution, sprinkled with coarse rock salt and baked till deeply browned. The canonical lye bath gives the deep mahogany colour and characteristic flavour; the baking-soda substitute is safer for home use. The shape dates to medieval European monastic bakeries; early Christian monks made pretzels as Lenten food (no eggs, no butter, no milk), and the shape was said to represent arms folded in prayer. The Bavarian/Swabian version is the most refined evolution. Each rope is rolled long, thicker in the middle and tapered at the ends, then the ends are crossed twice in the middle and folded down onto the bottom edge. Dipped briefly in the lye or baking-soda bath, sprinkled with coarse rock salt, baked hot. Served warm with butter and Bavarian sweet mustard (Süssersenf) alongside a stein of beer.
+The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconic foods: a yeasted bread rolled into the unmistakable pretzel shape, dipped briefly in a hot lye or baking-soda solution, sprinkled with coarse rock salt and baked till deeply browned. The traditional lye bath gives the deep mahogany colour and characteristic flavour; the baking-soda substitute is safer for home use. The shape dates to medieval European monastic bakeries; early Christian monks made pretzels as Lenten food (no eggs, no butter, no milk), and the shape was said to represent arms folded in prayer. The Bavarian/Swabian version is the most refined evolution. Each rope is rolled long, thicker in the middle and tapered at the ends, then the ends are crossed twice in the middle and folded down onto the bottom edge. Dipped briefly in the lye or baking-soda bath, sprinkled with coarse rock salt, baked hot. Served warm with butter and Bavarian sweet mustard (Süssersenf) alongside a stein of beer.
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 - 300 ml warm water (about 40°C)
 - 1 tablespoon malt syrup OR honey (optional; gives slight sweetness and helps with browning)
 
-### Lye bath (canonical Bavarian - caution required)
+### Lye bath (traditional Bavarian - caution required)
 - 1 litre water
 - 30 g food-grade sodium hydroxide (lye/caustic soda; available at chemical supply shops; HANDLE WITH GLOVES AND EYE PROTECTION; never use household lye)
 
@@ -32,7 +32,7 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 - 60 g baking soda (sodium bicarbonate)
 
 ### Topping
-- 4 tablespoons coarse rock salt (canonical pretzel salt; or Maldon flakes; or pearl sugar for sweet pretzels)
+- 4 tablespoons coarse rock salt (traditional pretzel salt; or Maldon flakes; or pearl sugar for sweet pretzels)
 
 ### To serve
 - Bavarian sweet mustard (Süssersenf; Händlmaier is the famous brand)
@@ -93,7 +93,7 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 
 ### Stage 8 - Salt and slash
 1. Sprinkle the wet pretzels generously with coarse rock salt.
-2. Optional: with a sharp knife or razor blade, make a 1 cm slash through the thickest part of the pretzel (the bottom curve) - this is the canonical Bavarian "Brezenschnitt" (pretzel cut), gives the characteristic split.
+2. Optional: with a sharp knife or razor blade, make a 1 cm slash through the thickest part of the pretzel (the bottom curve) - this is the traditional Bavarian "Brezenschnitt" (pretzel cut), gives the characteristic split.
 
 ### Stage 9 - Bake
 1. Preheat oven to 220°C / 200°C fan / 425°F.
@@ -107,9 +107,9 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 4. Pair with a stein of Bavarian lager.
 
 ## Notes
-- **Lye gives the canonical colour:** the food-grade sodium hydroxide solution creates the deep mahogany brown and the authentic pretzel flavour. But it's a hazardous chemical; only attempt with proper safety gear. The baking-soda substitute is far safer and gives an acceptable (slightly less deep) colour.
-- **Shape properly:** the canonical pretzel form. A misshapen pretzel is just a knot of bread.
-- **Coarse rock salt:** the canonical topping. Fine salt would dissolve into the dough during baking.
+- **Lye gives the traditional colour:** the food-grade sodium hydroxide solution creates the deep mahogany brown and the authentic pretzel flavour. But it's a hazardous chemical; only attempt with proper safety gear. The baking-soda substitute is far safer and gives an acceptable (slightly less deep) colour.
+- **Shape properly:** the traditional pretzel form. A misshapen pretzel is just a knot of bread.
+- **Coarse rock salt:** the traditional topping. Fine salt would dissolve into the dough during baking.
 - **Don't crowd the tray:** the pretzels expand slightly; need space.
 - **Serve warm:** pretzels are at their peak warm from the oven. Cold pretzels can be refreshed by 5 minutes in a 180°C oven.
 
@@ -124,7 +124,7 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 **Pretzel with cheese filling:** stuff with grated cheese before baking - modern variant.
 
 ## Serving
-At a Munich beer garden with a stein of Helles (the canonical setting) · at Oktoberfest · at a Bavarian Hofbräuhaus · at a Berlin breakfast café · at a German bakery counter on Sunday morning · at a German Christmas market · at a German wedding canapé reception · at home for a Bavarian-themed dinner party.
+At a Munich beer garden with a stein of Helles (the traditional setting) · at Oktoberfest · at a Bavarian Hofbräuhaus · at a Berlin breakfast café · at a German bakery counter on Sunday morning · at a German Christmas market · at a German wedding canapé reception · at home for a Bavarian-themed dinner party.
 
 ## Storage
 - Best eaten same day, warm from the oven.

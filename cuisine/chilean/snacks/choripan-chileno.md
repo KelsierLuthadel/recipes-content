@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chile's street sandwich and the food that fuels any Sunday football game or summer picnic. You take a Chilean longaniza (or any good fresh pork sausage), split it lengthways but leave it attached at one end so it opens like a butterfly, and grill it six minutes per side until the surface is charred and the inside still juicy. Marraqueta rolls split and toast briefly on the grill, the sausage tucks into the roll, and a generous spoonful of pebre goes on top. Some hands add a dab of mayo or mustard. Eaten immediately, standing up, with a beer in the other hand.
+Chile's street sandwich and the food that fuels any Sunday football game or summer picnic. You take a Chilean longaniza (or any good fresh pork sausage), split it lengthways but leave it attached at one end so it opens like a butterfly, and grill it six minutes per side until the surface is charred and the inside still juicy. Marraqueta rolls split and toast briefly on the grill, the sausage tucks into the roll, and a generous spoonful of pebre goes on top. Some hands add a dab of mayo or mustard. Eat immediately, standing up, with a beer in the other hand.
 
 ## Ingredients
 

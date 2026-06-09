@@ -11,13 +11,13 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Chicago hot dog is the most assertively regional hot dog in America, with a near-religious set of rules built up over a century of street-cart culture. Portillo's, Gene & Jude's, Superdawg and a thousand neighbourhood stands all serve their version. The canonical Chicago-style is also called "dragged through the garden" because of the heap of vegetables on top: an all-beef Vienna-style frankfurter (steamed or simmered, never boiled), tucked into a poppy seed bun (steamed too, never toasted), then dressed in a strict order. Yellow mustard, fluorescent neon-green sweet pickle relish (the colour comes from blue dye #1 added to standard relish), chopped white onion, two thick tomato slices, a long dill pickle spear, two pickled sport peppers (small mild Italian-style peppers, not jalapeños), and a sprinkle of celery salt. The one rule that's literally non-negotiable in Chicago: never put ketchup on a hot dog after the age of seven. Restaurants will openly mock customers who ask.
+The Chicago hot dog is the most assertively regional hot dog in America, with a near-religious set of rules built up over a century of street-cart culture. Portillo's, Gene & Jude's, Superdawg and a thousand neighbourhood stands all serve their version. The traditional Chicago-style is also called "dragged through the garden" because of the heap of vegetables on top: an all-beef Vienna-style frankfurter (steamed or simmered, never boiled), tucked into a poppy seed bun (steamed too, never toasted), then dressed in a strict order. Yellow mustard, fluorescent neon-green sweet pickle relish (the colour comes from blue dye #1 added to standard relish), chopped white onion, two thick tomato slices, a long dill pickle spear, two pickled sport peppers (small mild Italian-style peppers, not jalapeños), and a sprinkle of celery salt. The one rule that's literally non-negotiable in Chicago: never put ketchup on a hot dog after the age of seven. Restaurants will openly mock customers who ask.
 
 ## Ingredients
 
 ### The dog and bun
-- 4 all-beef Vienna-style frankfurters (Vienna Beef brand is canonical; failing that any all-beef natural-casing dog)
-- 4 poppy seed hot dog buns (S. Rosen's is the Chicago canonical brand)
+- 4 all-beef Vienna-style frankfurters (Vienna Beef brand is traditional; failing that any all-beef natural-casing dog)
+- 4 poppy seed hot dog buns (S. Rosen's is the Chicago traditional brand)
 
 ### Toppings (per dog)
 - Yellow mustard (NOT Dijon, NOT honey, NOT anything else)
@@ -32,7 +32,7 @@ The Chicago hot dog is the most assertively regional hot dog in America, with a 
 ### To serve
 - Crinkle-cut fries
 - A cold can of soda
-- Italian beef sandwich on the side (the canonical Chicago meal)
+- Italian beef sandwich on the side (the traditional Chicago meal)
 
 ## Method
 
@@ -62,7 +62,7 @@ The Chicago hot dog is the most assertively regional hot dog in America, with a 
 3. With crinkle-cut fries and a cold soda.
 
 ## Notes
-- **All-beef Vienna dog:** the canonical Chicago hot dog brand is Vienna Beef; the all-beef no-pork construction defines the bite.
+- **All-beef Vienna dog:** the traditional Chicago hot dog brand is Vienna Beef; the all-beef no-pork construction defines the bite.
 - **Poppy seed bun:** the dish doesn't read as Chicago without it.
 - **Neon-green relish:** standard sweet relish works, but the radioactive-green colour is the visual signature.
 - **Celery salt:** the secret ingredient. Don't skip.

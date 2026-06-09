@@ -11,7 +11,7 @@
 **Cook Time:** 2-3 hours
 
 ## Overview
-Dulce de leche (literally "sweet of milk") is Argentina's most beloved sweet ingredient: the foundation of countless desserts and a staple of every Argentine pantry. South American countries dispute the origin (Argentina, Uruguay, Chile, France via the 16th-century Spanish military all claim invention), but the modern Argentine version is regarded as canonical. Two methods. The traditional one simmers whole milk with sugar and a small amount of bicarbonate slowly for two or three hours till the milk reduces by 60 to 70% and caramelises to a thick golden-brown paste. The easy method (popular in Argentine homes) simmers a sealed tin of sweetened condensed milk in boiling water for the same time till the milk inside caramelises. Traditional gives a smoother dulce; the tin is faster but slightly grainier. The finished dulce is thick (just-pourable warm, spreadable cold), deep amber to mahogany, intensely sweet, with caramelised milk notes and a slight saltiness. Used in alfajores, helado de dulce, flan con dulce de leche, panqueques, conitos and chocotorta.
+Dulce de leche (literally "sweet of milk") is Argentina's most beloved sweet ingredient: the foundation of countless desserts and a staple of every Argentine pantry. South American countries dispute the origin (Argentina, Uruguay, Chile, France via the 16th-century Spanish military all claim invention), but the modern Argentine version is regarded as traditional. Two methods. The traditional one simmers whole milk with sugar and a small amount of bicarbonate slowly for two or three hours till the milk reduces by 60 to 70% and caramelises to a thick golden-brown paste. The easy method (popular in Argentine homes) simmers a sealed tin of sweetened condensed milk in boiling water for the same time till the milk inside caramelises. Traditional gives a smoother dulce; the tin is faster but slightly grainier. The finished dulce is thick (just-pourable warm, spreadable cold), deep amber to mahogany, intensely sweet, with caramelised milk notes and a slight saltiness. Used in alfajores, helado de dulce, flan con dulce de leche, panqueques, conitos and chocotorta.
 
 ## Ingredients
 
@@ -91,7 +91,7 @@ Dulce de leche (literally "sweet of milk") is Argentina's most beloved sweet ing
 **Microwave dulce (controversial):** condensed milk in microwave at 50% power for 30 minutes, stirring every 2 minutes. Doesn't give the same texture but works in emergency.
 
 ## Serving
-On toast at every Argentine breakfast (the canonical setting) · in alfajores (the canonical sandwich biscuit) · swirled into ice cream · in flan con dulce de leche · as crêpe filling · in chocotorta (the no-bake cake) · in conitos (small cones of dulce) · at every Argentine afternoon merienda (tea-time snack) · at home as the universal sweet ingredient.
+On toast at every Argentine breakfast (the traditional setting) · in alfajores (the traditional sandwich biscuit) · swirled into ice cream · in flan con dulce de leche · as crêpe filling · in chocotorta (the no-bake cake) · in conitos (small cones of dulce) · at every Argentine afternoon merienda (tea-time snack) · at home as the universal sweet ingredient.
 
 ## Storage
 - Refrigerates in sealed jars 3 weeks.

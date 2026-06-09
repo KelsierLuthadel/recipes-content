@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Pakistani beef samosa anchors every iftar table and every roadside chai stall in the country. Triangular fried pastries stuffed with spiced beef mince and peas, scented with ajwain in the dough, served hot with tamarind and mint chutneys. The dough wants to be much stiffer than you'd expect; a soft wet dough gives oily soggy pastry, while the stiffness is what gives the proper crisp flaky-but-firm shell. The filling should be dry but moist with no pooling liquid, and must cool completely before going into the dough or it melts the ghee in the pastry and the whole thing collapses on the fry. Folded into cones from half-moons of dough, filled, sealed with a flour-water paste and deep-fried golden. Eaten warm with chutneys, lime wedges and a small pile of sliced raw red onion on the side.
+The Pakistani beef samosa anchors every iftar table and every roadside chai stall in the country. Triangular fried pastries stuffed with spiced beef mince and peas, scented with ajwain in the dough, served hot with tamarind and mint chutneys. The dough wants to be much stiffer than you'd expect; a soft wet dough gives oily soggy pastry, while the stiffness is what gives the proper crisp flaky-but-firm shell. The filling should be dry but moist with no pooling liquid, and must cool completely before going into the dough or it melts the ghee in the pastry and the whole thing collapses on the fry. Folded into cones from half-moons of dough, filled, sealed with a flour-water paste and deep-fried golden. Eat warm with chutneys, lime wedges and a small pile of sliced raw red onion on the side.
 
 ## Ingredients
 

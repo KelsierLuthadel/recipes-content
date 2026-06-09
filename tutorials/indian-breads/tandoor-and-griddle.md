@@ -2,7 +2,7 @@
 
 ![Tandoor and griddle techniques](resources/tandoor.jpg)
 
-*A tandoor at home is hard. A tawa is easy. This page covers how to substitute the tandoor with home-kitchen kit; how to get the canonical griddle-puff on a roti; how to control deep-fry oil temperature for the right puri; and the small technical tricks that make Indian breads consistently good.*
+*A tandoor at home is hard. A tawa is easy. This page covers how to substitute the tandoor with home-kitchen kit; how to get the traditional griddle-puff on a roti; how to control deep-fry oil temperature for the right puri; and the small technical tricks that make Indian breads consistently good.*
 
 ## Overview
 
@@ -161,7 +161,7 @@ For naan-style breads:
 - **Tawa + flame**: easier, less equipment, OK result.
 
 For roti / chapati:
-- **Tawa + flame**: the canonical Indian household setup. Stone is overkill.
+- **Tawa + flame**: the traditional Indian household setup. Stone is overkill.
 
 For puri / bhatura:
 - **Deep-fry only**: no shortcut. Air-frying or oven-baking destroys the texture.

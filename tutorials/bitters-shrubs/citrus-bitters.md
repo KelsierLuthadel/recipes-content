@@ -8,7 +8,7 @@
 
 Citrus bitters work differently from aromatic bitters: where aromatic bitters use bitter roots (gentian, cinchona) as the main bitter element, citrus bitters use the citrus peel's essential oils PLUS the white pith (which is genuinely bitter on its own). The result is a bitter that smells distinctly of a specific citrus, with a clean bitter finish.
 
-Three canonical variants:
+Three traditional variants:
 - **Orange bitters** — the most common. Goes with gin (Martini, Negroni), bourbon (Manhattan variants), and any "citrus-forward" cocktail.
 - **Lemon bitters** — fresher, brighter. Excellent in vodka cocktails, champagne cocktails, anywhere lemon is the supporting note.
 - **Grapefruit bitters** — sharper, slightly herbal. Good with tequila, mezcal, and modern cocktails (Penicillin variants).

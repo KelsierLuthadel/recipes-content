@@ -11,7 +11,7 @@
 **Cook Time:** 9 minutes
 
 ## Overview
-The skewered Nyonya pork satay that turns up at Malaysian weddings, weekend barbecues and beachside hawker stalls: tender chunks of pork tenderloin marinated in a fresh paste of pounded lemongrass, ground spices, almonds, chillies and turmeric, threaded onto bamboo skewers and grilled till the edges char while the centre stays juicy. The paste is built in two stages: toasted shrimp paste, dry-fried coriander seed, blanched almonds and lemongrass pounded together, then blitzed with onion, red chillies, turmeric and salt, finally thinned with coconut milk. The pork marinates at least two hours, ideally overnight. Bamboo skewers want a one-hour soak so they don't scorch on the grill. Eaten hot with cucumber slices, steamed rice and a small bowl of peanut sauce for dipping.
+The skewered Nyonya pork satay that turns up at Malaysian weddings, weekend barbecues and beachside hawker stalls: tender chunks of pork tenderloin marinated in a fresh paste of pounded lemongrass, ground spices, almonds, chillies and turmeric, threaded onto bamboo skewers and grilled till the edges char while the centre stays juicy. The paste is built in two stages: toasted shrimp paste, dry-fried coriander seed, blanched almonds and lemongrass pounded together, then blitzed with onion, red chillies, turmeric and salt, finally thinned with coconut milk. The pork marinates at least two hours, ideally overnight. Bamboo skewers want a one-hour soak so they don't scorch on the grill. Eat hot with cucumber slices, steamed rice and a small bowl of peanut sauce for dipping.
 
 ## Ingredients
 - 450 grams pork tenderloin

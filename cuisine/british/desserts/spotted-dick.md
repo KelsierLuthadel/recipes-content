@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-A steamed suet pudding: self-raising flour, shredded beef suet (or vegetarian suet), caster sugar and a pinch of salt mix dry. Lemon zest, currants and sultanas fold through. Whole milk binds to a soft dropping consistency. Tipped into a buttered pudding basin (1-litre); covered with a pleated baking-paper-and-foil lid (or a tied muslin cloth); placed in a steamer or a deep pot with a tea-towel under the basin and water halfway up; steamed for 2 hours, topping up water as needed. Inverted onto a plate; sliced; served warm with hot vanilla custard.
+Spotted dick is the old British steamed pudding, the schoolroom-and-Sunday-lunch suet sponge studded with currants and lemon zest that has been on British tables since at least the 1840s (the name dates to Alexis Soyer's Modern Housewife of 1849, where "dick" is a thickened-pudding term, not what playground jokes assume). The dough is the British suet base: self-raising flour, shredded beef suet (or vegetarian suet), a touch of caster sugar and salt, bound to a soft dropping consistency with whole milk. Lemon zest and a generous handful of currants and sultanas fold through for the "spots". The long steam is non-negotiable; two hours in a covered pudding basin sat in a deep pot of simmering water gives the dense yet tender sponge, where shorter cooks leave a raw centre and microwave shortcuts give a rubbery result. The pleated baking-paper-and-foil lid (or tied muslin) lets the pudding expand without bursting the cover. Inverted onto a plate, sliced thick, eat warm flooded with hot vanilla custard.
 
 ## Ingredients
 

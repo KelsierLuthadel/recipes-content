@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Lutenica (the name suggests "spicy" from "luto" - hot in Bulgarian/Macedonian) is the slightly sharper, slightly more tomato-forward sister of ajvar. The construction: roasted red peppers (same as ajvar) combined with cooked tomatoes, garlic, sugar, vinegar, salt and a generous pinch of chilli; reduced till thick. Where ajvar is smoky and aubergine-creamy, lutenica is brighter, more acidic, more tomato-driven. Both are canonical Macedonian condiments; many households make both.
+Lutenica (the name suggests "spicy" from "luto" - hot in Bulgarian/Macedonian) is the slightly sharper, slightly more tomato-forward sister of ajvar. The construction: roasted red peppers (same as ajvar) combined with cooked tomatoes, garlic, sugar, vinegar, salt and a generous pinch of chilli; reduced till thick. Where ajvar is smoky and aubergine-creamy, lutenica is brighter, more acidic, more tomato-driven. Both are traditional Macedonian condiments; many households make both.
 
 ## Ingredients
 - 1 kg red bell peppers (or capia)
@@ -37,7 +37,7 @@ Lutenica (the name suggests "spicy" from "luto" - hot in Bulgarian/Macedonian) i
 ## Notes
 - **More acidic than ajvar:** bigger vinegar hit.
 - **Smoother than ajvar:** the tomatoes break down completely.
-- **Eat with bread:** the canonical Balkan way.
+- **Eat with bread:** the traditional Balkan way.
 
 ## Variations
 **Hot lutenica:** double the chilli.

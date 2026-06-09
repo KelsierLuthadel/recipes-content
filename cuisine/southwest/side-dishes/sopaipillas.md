@@ -2,7 +2,7 @@
 
 ![Sopaipillas](resources/sopaipillas.jpg)
 
-*New Mexico's puffed pillow bread: small squares of yeasted flour dough deep-fried till they puff into hollow golden pillows, eaten warm with honey drizzled inside (the canonical sweet way) or alongside savoury New Mexico meals to mop up green chile stew. The Southwest's most iconic bread.*
+*New Mexico's puffed pillow bread: small squares of yeasted flour dough deep-fried till they puff into hollow golden pillows, eaten warm with honey drizzled inside (the traditional sweet way) or alongside savoury New Mexico meals to mop up green chile stew. The Southwest's most iconic bread.*
 
 **Serves:** 12 sopaipillas
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Sopaipillas (or "sopaipas") are New Mexico's iconic puffed fried bread, distinct from the related Argentine sopaipillas (which use pumpkin in the dough) and the Mexican sopaipas (smaller and often sweeter): a yeasted flour dough (sometimes with a touch of lard or oil) rolled to 5 mm thickness, cut into small squares or triangles, and deep-fried briefly till they puff dramatically into hollow golden pillows. Served warm - at New Mexican restaurants they arrive at the table fresh from the fryer with honey in a small pitcher (the canonical sweet way; tear a corner and pour honey inside). Or served alongside savoury Southwestern meals to mop up green chile stew, carne adovada or red chile sauce. The dish is what every New Mexican kid grows up eating; what every New Mexico restaurant table starts with; what defines Southwest bread.
+Sopaipillas (or "sopaipas") are New Mexico's iconic puffed fried bread, distinct from the related Argentine sopaipillas (which use pumpkin in the dough) and the Mexican sopaipas (smaller and often sweeter): a yeasted flour dough (sometimes with a touch of lard or oil) rolled to 5 mm thickness, cut into small squares or triangles, and deep-fried briefly till they puff dramatically into hollow golden pillows. Served warm - at New Mexican restaurants they arrive at the table fresh from the fryer with honey in a small pitcher (the traditional sweet way; tear a corner and pour honey inside). Or served alongside savoury Southwestern meals to mop up green chile stew, carne adovada or red chile sauce. The dish is what every New Mexican kid grows up eating; what every New Mexico restaurant table starts with; what defines Southwest bread.
 
 ## Ingredients
 
@@ -63,7 +63,7 @@ Sopaipillas (or "sopaipas") are New Mexico's iconic puffed fried bread, distinct
 ## Notes
 - **Puff dramatically:** if they don't puff, the oil is too cool or dough too thick.
 - **Eat immediately:** lose their puff as they cool.
-- **Honey is canonical:** the New Mexican sweet way.
+- **Honey is traditional:** the New Mexican sweet way.
 - **Both savoury and sweet uses.**
 
 ## Variations

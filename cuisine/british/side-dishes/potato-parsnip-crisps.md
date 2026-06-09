@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Paper-thin slices of potato and parsnip deep-fried gold and shatteringly crisp, scattered with sea salt while still warm and piled into a bowl as a pre-dinner nibble, or arranged across a plated main course as the canonical British dinner-party garnish in the 1980s and 90s. The natural sweetness of the parsnip caramelises against the starchier neutral potato; together they make something more addictive than either alone. The slices must be cut paper-thin (a mandoline is the only sensible tool; a knife rarely manages the right thinness), soaked briefly in cold water to remove surface starch, then dried thoroughly before they hit the oil (wet slices spit and steam-cook rather than crisp). Fry at 170°C in batches; crowded oil drops the temperature and gives soggy crisps. Best eaten the day they're fried; they soften within a few hours.
+Paper-thin slices of potato and parsnip deep-fried gold and shatteringly crisp, scattered with sea salt while still warm and piled into a bowl as a pre-dinner nibble, or arranged across a plated main course as the traditional British dinner-party garnish in the 1980s and 90s. The natural sweetness of the parsnip caramelises against the starchier neutral potato; together they make something more addictive than either alone. The slices must be cut paper-thin (a mandoline is the only sensible tool; a knife rarely manages the right thinness), soaked briefly in cold water to remove surface starch, then dried thoroughly before they hit the oil (wet slices spit and steam-cook rather than crisp). Fry at 170°C in batches; crowded oil drops the temperature and gives soggy crisps. Best eaten the day they're fried; they soften within a few hours.
 
 ## Ingredients
 - 2 potatoes (large, peeled)

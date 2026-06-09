@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Porotos granados is Chile's most iconic vegetarian dish and one of the absolute staples of home cooking, particularly across the Andean heartland: fresh cranberry beans (also called borlotti in Italy), or dried cranberry beans soaked overnight, slow-cooked with cubed sweet pumpkin (zapallo, the canonical orange Andean pumpkin), sweet corn kernels, finely chopped onion, crushed garlic, fresh basil, sweet paprika and a touch of olive oil till the beans are tender, the pumpkin has half-broken down into the broth giving it body, and the whole pot reduces into a thick savoury orange-flecked stew. One of Chile's three "national" dishes (alongside pastel de choclo and cazuela), entirely vegetarian, deeply seasonal (fresh summer cranberry beans, summer pumpkin, summer corn). Use butternut squash outside Chile as the pumpkin substitute, but don't swap kidney beans for the cranberry beans; the flavour goes wrong. Fresh basil (albahaca), used generously, is what distinguishes it from a generic bean stew. Served in deep bowls with marraqueta bread and a drizzle of olive oil on top.
+Porotos granados is Chile's most iconic vegetarian dish and one of the absolute staples of home cooking, particularly across the Andean heartland: fresh cranberry beans (also called borlotti in Italy), or dried cranberry beans soaked overnight, slow-cooked with cubed sweet pumpkin (zapallo, the traditional orange Andean pumpkin), sweet corn kernels, finely chopped onion, crushed garlic, fresh basil, sweet paprika and a touch of olive oil till the beans are tender, the pumpkin has half-broken down into the broth giving it body, and the whole pot reduces into a thick savoury orange-flecked stew. One of Chile's three "national" dishes (alongside pastel de choclo and cazuela), entirely vegetarian, deeply seasonal (fresh summer cranberry beans, summer pumpkin, summer corn). Use butternut squash outside Chile as the pumpkin substitute, but don't swap kidney beans for the cranberry beans; the flavour goes wrong. Fresh basil (albahaca), used generously, is what distinguishes it from a generic bean stew. Served in deep bowls with marraqueta bread and a drizzle of olive oil on top.
 
 ## Ingredients
 
@@ -89,14 +89,14 @@ Porotos granados is Chile's most iconic vegetarian dish and one of the absolute 
 4. Marraqueta bread alongside, pebre on the table.
 
 ## Notes
-- **Fresh cranberry beans in season:** the canonical Chilean version. Dried soaked overnight is the substitute.
+- **Fresh cranberry beans in season:** the traditional Chilean version. Dried soaked overnight is the substitute.
 - **Mash some pumpkin for body:** half-dissolves naturally; help with the spoon.
 - **Lots of fresh basil:** the Chilean signature.
 - **Corn at the end:** kept slightly crisp.
-- **Marraqueta bread:** the canonical accompaniment.
+- **Marraqueta bread:** the traditional accompaniment.
 
 ## Variations
-**With pork:** add 200 g of diced pork shoulder browned at the start; gives a meaty version (less canonical).
+**With pork:** add 200 g of diced pork shoulder browned at the start; gives a meaty version (less traditional).
 **Spicier:** double the merkén; common southern Chilean variation.
 **With chard or spinach:** add 200 g of chopped greens in the last 5 minutes; adds extra colour and freshness.
 **Bean-only purist version:** skip the corn; use only beans + pumpkin + basil. The Andean traditional version.

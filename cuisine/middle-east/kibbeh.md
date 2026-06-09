@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Lebanese and Syrian national dish, sibling to fried versions across Jordan and the wider Levant: small football-shaped croquettes with a bulgur-and-lamb shell wrapped around a spiced lamb-and-pine-nut filling, deep-fried into amber-crisp ovals served warm with yogurt or tahini as part of a mezze spread. The bulgur must be fine, not coarse; coarse gives a grainy shell, fine blends into a smooth paste. The filling has to be fully cooled before stuffing; warm filling tears the shell on the way in. The football shape (pointed at both ends) is the canonical silhouette; round ones taste the same but read as the wrong dish on a Levantine table.
+The Lebanese and Syrian national dish, sibling to fried versions across Jordan and the wider Levant: small football-shaped croquettes with a bulgur-and-lamb shell wrapped around a spiced lamb-and-pine-nut filling, deep-fried into amber-crisp ovals served warm with yogurt or tahini as part of a mezze spread. The bulgur must be fine, not coarse; coarse gives a grainy shell, fine blends into a smooth paste. The filling has to be fully cooled before stuffing; warm filling tears the shell on the way in. The football shape (pointed at both ends) is the traditional silhouette; round ones taste the same but read as the wrong dish on a Levantine table.
 
 ## Ingredients
 

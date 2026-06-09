@@ -2,7 +2,7 @@
 
 ![Bragioli](resources/bragioli.jpg)
 
-*Malta's stuffed beef rolls: thin slices of beef wrapped around a savoury filling of minced pork, hard-boiled egg, parsley, garlic and breadcrumbs, tied with kitchen string, browned, then slow-braised in red wine and tomato sauce till fork-tender. The canonical Maltese Sunday-lunch beef dish; named for "ulivi" (olives) because of the rolled shape.*
+*Malta's stuffed beef rolls: thin slices of beef wrapped around a savoury filling of minced pork, hard-boiled egg, parsley, garlic and breadcrumbs, tied with kitchen string, browned, then slow-braised in red wine and tomato sauce till fork-tender. The traditional Maltese Sunday-lunch beef dish; named for "ulivi" (olives) because of the rolled shape.*
 
 **Serves:** 4-6
 
@@ -84,7 +84,7 @@ Bragioli (from the Italian "braciole" / Sicilian "involtini"; named "olives" bec
 
 ## Notes
 - **Beat the beef thin:** 3 mm. Thicker rolls don't braise evenly.
-- **Tie with string:** the canonical Maltese technique.
+- **Tie with string:** the traditional Maltese technique.
 - **Slow braise 90 minutes:** the meat must be fork-tender.
 
 ## Variations

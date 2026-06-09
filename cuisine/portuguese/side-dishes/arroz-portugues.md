@@ -2,7 +2,7 @@
 
 ![Arroz Portugues](resources/arroz-portugues.jpg)
 
-*Portugal's everyday rice: medium-grain rice cooked in butter and stock with sautéed onion, garlic and bay leaves till tender and slightly creamy. The simple Portuguese rice side that accompanies every fish, meat or vegetable main; the canonical Portuguese rice technique.*
+*Portugal's everyday rice: medium-grain rice cooked in butter and stock with sautéed onion, garlic and bay leaves till tender and slightly creamy. The simple Portuguese rice side that accompanies every fish, meat or vegetable main; the traditional Portuguese rice technique.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Arroz Português is Portugal's everyday rice side and the canonical accompaniment to virtually every Portuguese main course: medium-grain rice (the Portuguese carolino) cooked in olive oil and chicken stock with sautéed onion, crushed garlic, bay leaves and a touch of butter, till the grains are tender and slightly creamy (slightly stickier than long-grain because of the medium-grain choice). The dish distinguishes itself from Spanish or Italian rices by the simpler aromatic base (just onion-garlic; no saffron, no wine, no piri-piri in the basic version) and the medium-grain choice. Served alongside bitoque, bacalhau dishes, grilled fish, or stewed meats. Medium-grain rice (carolino or calrose); long-grain works but the texture is different. The rice gets a brief sauté in olive oil before the stock (the tostar o arroz step) for proper character. The aromatics stay simple: onion, garlic, bay leaves; don't over-complicate.
+Arroz Português is Portugal's everyday rice side and the traditional accompaniment to virtually every Portuguese main course: medium-grain rice (the Portuguese carolino) cooked in olive oil and chicken stock with sautéed onion, crushed garlic, bay leaves and a touch of butter, till the grains are tender and slightly creamy (slightly stickier than long-grain because of the medium-grain choice). The dish distinguishes itself from Spanish or Italian rices by the simpler aromatic base (just onion-garlic; no saffron, no wine, no piri-piri in the basic version) and the medium-grain choice. Served alongside bitoque, bacalhau dishes, grilled fish, or stewed meats. Medium-grain rice (carolino or calrose); long-grain works but the texture is different. The rice gets a brief sauté in olive oil before the stock (the tostar o arroz step) for proper character. The aromatics stay simple: onion, garlic, bay leaves; don't over-complicate.
 
 ## Ingredients
 
@@ -57,7 +57,7 @@ Arroz Português is Portugal's everyday rice side and the canonical accompanimen
 3. Scatter chopped parsley if using.
 
 ## Notes
-- **Medium-grain rice:** carolino canonical.
+- **Medium-grain rice:** carolino traditional.
 - **Toast briefly in oil:** standard Portuguese technique.
 - **Simple aromatics:** don't over-complicate.
 - **Don't lift the lid during cooking.**
@@ -66,7 +66,7 @@ Arroz Português is Portugal's everyday rice side and the canonical accompanimen
 **Arroz de feijão:** add 1 tin of drained kidney beans in the last 5 minutes; gives Portuguese rice-and-beans.
 **Tomato variation:** add 2 chopped tomatoes with the onion; gives a closer-to-arroz-de-tomate version.
 **With chouriço:** add 100 g of sliced chouriço with the onion.
-**Coconut variation:** swap half the stock for coconut milk; less canonical Portuguese (more Mozambican).
+**Coconut variation:** swap half the stock for coconut milk; less traditional Portuguese (more Mozambican).
 
 ## Serving
 Alongside any Portuguese main course. With bacalhau, frango piri-piri, bitoque, grilled fish.

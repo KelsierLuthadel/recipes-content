@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Punjab's savoury pulse-based flatbread: a half-and-half mix of gram flour (besan, milled from chana dal) and wholemeal atta kneaded with chopped onion, green chilli, fresh coriander, turmeric and a pinch of ajwain into a denser-than-usual dough, rolled thicker than a normal roti and cooked dry on a hot tawa till patched with dark spots. The gram flour gives missi roti its distinctive savoury, slightly nutty backbone that plain wheat rotis lack, and the embedded vegetables and spices push the bread firmly into meal-in-itself territory. The dough wants a generous rest of at least an hour so the gram flour fully hydrates; rushed dough cracks at the edges when rolled. Eaten with thick yogurt, mango pickle and a knob of butter for a vegetarian lunch, or alongside dal and a curry as part of a larger meal across Punjab, Rajasthan and Delhi.
+Punjab's savoury pulse-based flatbread: a half-and-half mix of gram flour (besan, milled from chana dal) and wholemeal atta kneaded with chopped onion, green chilli, fresh coriander, turmeric and a pinch of ajwain into a denser-than-usual dough, rolled thicker than a normal roti and cooked dry on a hot tawa till patched with dark spots. The gram flour gives missi roti its distinctive savoury, slightly nutty backbone that plain wheat rotis lack, and the embedded vegetables and spices push the bread firmly into meal-in-itself territory. The dough wants a generous rest of at least an hour so the gram flour fully hydrates; rushed dough cracks at the edges when rolled. Eat with thick yogurt, mango pickle and a knob of butter for a vegetarian lunch, or alongside dal and a curry as part of a larger meal across Punjab, Rajasthan and Delhi.
 
 ## Ingredients
 

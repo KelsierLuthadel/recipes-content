@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Fried plantain is one of the simplest dishes in the Caribbean and one of the most beloved, the canonical sweet side that turns up next to stew chicken, fried chicken, rice and peas or macaroni pie. The plantains must be very ripe: yellow-and-black skin, 60-80% black, the fruit slightly soft. Underripe green plantains give the starchy savoury patacones or tostones; only ripe plantains give the canonical sweet caramelised slices. Cut thick on the diagonal (1.5 cm); thinner slices burn before the inside softens, thicker stays raw in the middle. Fried in shallow hot oil at 180 °C, two or three minutes a side till each face is a deep mahogany-gold caramelised colour, without moving the slices in the first ninety seconds so the caramel forms properly. A small sprinkle of fine sea salt over the hot slices is the canonical Caribbean finish: the salt-sweet contrast is what makes fried plantain transcendent rather than merely sweet.
+Fried plantain is one of the simplest dishes in the Caribbean and one of the most beloved, the traditional sweet side that turns up next to stew chicken, fried chicken, rice and peas or macaroni pie. The plantains must be very ripe: yellow-and-black skin, 60-80% black, the fruit slightly soft. Underripe green plantains give the starchy savoury patacones or tostones; only ripe plantains give the traditional sweet caramelised slices. Cut thick on the diagonal (1.5 cm); thinner slices burn before the inside softens, thicker stays raw in the middle. Fried in shallow hot oil at 180 °C, two or three minutes a side till each face is a deep mahogany-gold caramelised colour, without moving the slices in the first ninety seconds so the caramel forms properly. A small sprinkle of fine sea salt over the hot slices is the traditional Caribbean finish: the salt-sweet contrast is what makes fried plantain transcendent rather than merely sweet.
 
 ## Ingredients
 
@@ -64,11 +64,11 @@ Fried plantain is one of the simplest dishes in the Caribbean and one of the mos
 3. Eat with the fingers or a fork - the slices are firm enough to handle.
 
 ## Notes
-- **Plantain ripeness:** YELLOW WITH BLACK SPOTS is the canonical ripeness. Pure-yellow is too starchy; pure-green is for a different dish (tostones); pure-black is over-ripe but still acceptable.
+- **Plantain ripeness:** YELLOW WITH BLACK SPOTS is the traditional ripeness. Pure-yellow is too starchy; pure-green is for a different dish (tostones); pure-black is over-ripe but still acceptable.
 - **1.5 cm diagonal cut:** the thickness is critical. Thinner slices burn; thicker stays raw in the middle.
 - **Don't crowd the pan:** the slices need to caramelise, not steam. Work in batches.
 - **Don't move the slices:** the caramelisation needs to form. 2 minutes undisturbed on each side.
-- **Salt on the hot slices:** the canonical Caribbean finish. Don't skip - it makes the slices.
+- **Salt on the hot slices:** the traditional Caribbean finish. Don't skip - it makes the slices.
 - **Eat hot:** fried plantain is at its peak for 15 minutes. After an hour the slices have softened and lost their caramelised crust.
 
 ## Variations
@@ -82,7 +82,7 @@ Fried plantain is one of the simplest dishes in the Caribbean and one of the mos
 **Plantain mash:** boil green plantains till tender; mash with butter and salt - a side-dish alternative.
 
 ## Serving
-At a Bajan Sunday lunch (the canonical setting) · at every Caribbean family dinner from Jamaica to Trinidad · at a Caribbean restaurant abroad · at a Bajan beach picnic · at a Bajan Independence Day celebration · at a Caribbean-themed barbecue · at home as a sweet side for any main · paired with stew chicken, fried chicken, oxtail, jerk chicken.
+At a Bajan Sunday lunch (the traditional setting) · at every Caribbean family dinner from Jamaica to Trinidad · at a Caribbean restaurant abroad · at a Bajan beach picnic · at a Bajan Independence Day celebration · at a Caribbean-themed barbecue · at home as a sweet side for any main · paired with stew chicken, fried chicken, oxtail, jerk chicken.
 
 ## Storage
 - Best within 30 minutes of frying. After an hour the slices soften.

@@ -2,7 +2,7 @@
 
 ![Pastizzi](resources/pastizzi.jpg)
 
-*Malta's national pastry: small diamond-shaped phyllo pockets filled with ricotta cheese (pastizzi tal-irkotta) or curried mushy peas (pastizzi tal-piżelli), baked till the pastry is golden and crisp with shattering ridges. Sold at every Maltese pastizzeria from breakfast till midnight. The canonical Maltese street food.*
+*Malta's national pastry: small diamond-shaped phyllo pockets filled with ricotta cheese (pastizzi tal-irkotta) or curried mushy peas (pastizzi tal-piżelli), baked till the pastry is golden and crisp with shattering ridges. Sold at every Maltese pastizzeria from breakfast till midnight. The traditional Maltese street food.*
 
 **Serves:** Makes 24
 
@@ -11,13 +11,13 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pastizzi are Malta's most iconic street food - small flaky phyllo-pastry pockets that appear in every Maltese pastizzeria, every bus station, every village square shop, and every snack break. The canonical Maltese pastizzi come in two main filling types: pastizzi tal-irkotta (with seasoned ricotta - the more popular of the two, made with drained ricotta, beaten egg, salt, pepper, and chopped parsley) and pastizzi tal-piżelli (with curried mushy peas - green split peas slowly cooked with onion, curry powder, tomato paste). The pastry is a labour-intensive Maltese-specific dough (close to but different from phyllo or strudel dough) that's been stretched paper-thin, painted with lard or vegetable fat, layered, and shaped into the iconic diamond shape with a slight peak in the middle. Most home cooks use bought phyllo (filo) pastry as a substitute.
+Pastizzi are Malta's most iconic street food - small flaky phyllo-pastry pockets that appear in every Maltese pastizzeria, every bus station, every village square shop, and every snack break. The traditional Maltese pastizzi come in two main filling types: pastizzi tal-irkotta (with seasoned ricotta - the more popular of the two, made with drained ricotta, beaten egg, salt, pepper, and chopped parsley) and pastizzi tal-piżelli (with curried mushy peas - green split peas slowly cooked with onion, curry powder, tomato paste). The pastry is a labour-intensive Maltese-specific dough (close to but different from phyllo or strudel dough) that's been stretched paper-thin, painted with lard or vegetable fat, layered, and shaped into the iconic diamond shape with a slight peak in the middle. Most home cooks use bought phyllo (filo) pastry as a substitute.
 
 ## Ingredients
 
 ### Pastry (using bought phyllo)
 - 250 g phyllo (filo) pastry, defrosted
-- 200 g butter (melted) OR 200 g lard (the canonical Maltese)
+- 200 g butter (melted) OR 200 g lard (the traditional Maltese)
 
 ### Ricotta filling
 - 500 g ricotta (drained overnight)
@@ -51,7 +51,7 @@ Pastizzi are Malta's most iconic street food - small flaky phyllo-pastry pockets
 2. Place a heaped tablespoon of filling in the centre.
 3. Bring the four corners up to meet in the middle.
 4. Pinch the centre tightly to seal.
-5. Form into a diamond/peaked shape (the canonical Maltese form).
+5. Form into a diamond/peaked shape (the traditional Maltese form).
 
 ### Stage 4 - Bake
 1. Preheat oven to 200°C / 180°C fan / 400°F.
@@ -60,24 +60,24 @@ Pastizzi are Malta's most iconic street food - small flaky phyllo-pastry pockets
 4. Bake 20-25 minutes till deeply golden.
 
 ### Stage 5 - Serve
-1. Serve warm (the canonical experience).
+1. Serve warm (the traditional experience).
 2. Pair with strong Maltese coffee or Kinnie.
 
 ## Notes
 - **Phyllo must be well-buttered:** the crisp comes from the fat between the layers.
-- **Diamond shape with peaked centre:** canonical Maltese pastizzi.
+- **Diamond shape with peaked centre:** traditional Maltese pastizzi.
 - **Eat warm:** the cheese filling firms when cold.
 
 ## Variations
-**Pastizzi tal-irkotta:** the ricotta canonical.
-**Pastizzi tal-piżelli:** the curried pea canonical.
+**Pastizzi tal-irkotta:** the ricotta traditional.
+**Pastizzi tal-piżelli:** the curried pea traditional.
 **Pastizzi tat-tonn:** with tuna and tomato.
 **Pastizzi tal-laħam:** with minced beef and spices.
 **Pastizzi taċ-ċikkulata:** with chocolate and ricotta - dessert variant.
 **Mini pastizzi:** smaller squares for canapé portions.
 
 ## Serving
-At every Maltese pastizzeria (the canonical setting) · at a Maltese bus station · at a Maltese coffee morning · at a Maltese village square shop · at any time of day in Malta · at home with strong coffee.
+At every Maltese pastizzeria (the traditional setting) · at a Maltese bus station · at a Maltese coffee morning · at a Maltese village square shop · at any time of day in Malta · at home with strong coffee.
 
 ## Storage
 - Best eaten warm.

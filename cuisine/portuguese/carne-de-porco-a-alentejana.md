@@ -101,7 +101,7 @@ Carne de porco à Alentejana is the iconic dish of the Alentejo region in southe
 ## Variations
 **Spicier:** double the piri-piri; add 2 fresh chillies.
 **With chorizo:** add 100 g of sliced chouriço to the pan with the onion.
-**Vegetarian (impossible to keep canonical):** skip the meat and clams; use mushrooms and white beans; less canonical.
+**Vegetarian (impossible to keep traditional):** skip the meat and clams; use mushrooms and white beans; less traditional.
 **With mussels instead:** swap clams for mussels; same technique.
 
 ## Serving

@@ -93,7 +93,7 @@ Shakam paa is one of Bhutan's most distinctive dishes, born of the Himalayan nec
 - **Soak for 2-4 hours:** the dried beef needs proper rehydration before cooking. 2 hours minimum; 4 hours better. Don't try to skip this with hot water; gentler warm-water soaking gives better results.
 - **Reserve the soaking water:** the soaking liquid is full of beef flavour and salt; use it as part of the stock for the stew. Throwing it away loses half the depth.
 - **Chillies are a vegetable here:** Bhutan treats chillies as a vegetable rather than a seasoning. The 6-8 fresh green chillies aren't a flavouring; they're a structural part of the dish that you eat. Approach accordingly. If you're sensitive to chilli, reduce; if you want the proper Bhutanese experience, hold the line.
-- **Bhutanese chillies if you can find them:** the local Bhutanese chillies (small green, very hot but with a distinctive flavour) are the canonical choice. Outside Bhutan, jalapeño or serrano are the closest substitutes; bird's eye chillies if you want even more heat.
+- **Bhutanese chillies if you can find them:** the local Bhutanese chillies (small green, very hot but with a distinctive flavour) are the traditional choice. Outside Bhutan, jalapeño or serrano are the closest substitutes; bird's eye chillies if you want even more heat.
 - **Butter or yak butter:** traditional shakam paa uses yak butter, which has a faintly fermented funky character. Hard to find outside Tibet and Bhutan; regular butter is the standard substitute. Ghee also works.
 
 ## Variations

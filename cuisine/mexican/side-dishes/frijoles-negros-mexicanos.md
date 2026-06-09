@@ -2,7 +2,7 @@
 
 ![Frijoles Negros Mexicanos](resources/frijoles-negros-mexicanos.jpg)
 
-*Mexico's black beans: dried black beans slow-cooked with epazote, onion, garlic, jalapeño, cumin and a small amount of lard till the beans are tender and the broth thickens to a deep mahogany. The Mexican vegetarian staple, the canonical bean dish that accompanies every meal.*
+*Mexico's black beans: dried black beans slow-cooked with epazote, onion, garlic, jalapeño, cumin and a small amount of lard till the beans are tender and the broth thickens to a deep mahogany. The Mexican vegetarian staple, the traditional bean dish that accompanies every meal.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Frijoles negros Mexicanos is the canonical Mexican black-bean dish, distinct from but related to the Cuban version (the Mexican one emphasises epazote and uses a less assertive aromatic base). Dried black beans soak overnight, then slow-cook with chopped white onion, garlic, a whole fresh jalapeño, fresh epazote, cumin, dried oregano, and a small amount of lard for richness till the beans are tender and the broth has thickened naturally to a deep mahogany. The Mexican kitchen's foundational protein, served alongside Mexican rice, tacos and tortillas at almost every meal. Epazote is the canonical Mexican herb (available dried at Mexican markets); skip if you can't find it, but the dish loses some of its identity. The aromatic base is restrained compared to the Cuban approach: the beans speak for themselves with just onion, garlic and herbs. A small amount of lard at the end gives the proper Mexican character (vegetable oil works for a vegetarian version).
+Frijoles negros Mexicanos is the traditional Mexican black-bean dish, distinct from but related to the Cuban version (the Mexican one emphasises epazote and uses a less assertive aromatic base). Dried black beans soak overnight, then slow-cook with chopped white onion, garlic, a whole fresh jalapeño, fresh epazote, cumin, dried oregano, and a small amount of lard for richness till the beans are tender and the broth has thickened naturally to a deep mahogany. The Mexican kitchen's foundational protein, served alongside Mexican rice, tacos and tortillas at almost every meal. Epazote is the traditional Mexican herb (available dried at Mexican markets); skip if you can't find it, but the dish loses some of its identity. The aromatic base is restrained compared to the Cuban approach: the beans speak for themselves with just onion, garlic and herbs. A small amount of lard at the end gives the proper Mexican character (vegetable oil works for a vegetarian version).
 
 ## Ingredients
 
@@ -67,20 +67,20 @@ Frijoles negros Mexicanos is the canonical Mexican black-bean dish, distinct fro
 
 ### Stage 5 - Serve
 1. Ladle into bowls or alongside rice on plates.
-2. Top with the finely chopped raw white onion (the canonical Mexican topping).
+2. Top with the finely chopped raw white onion (the traditional Mexican topping).
 3. Scatter coriander, epazote, and crumbled queso fresco.
 4. Sliced avocado on the side.
 5. Lime wedges and hot sauce.
 
 ## Notes
-- **Epazote is the Mexican touch:** the canonical herb; substitute with extra coriander if unavailable.
+- **Epazote is the Mexican touch:** the traditional herb; substitute with extra coriander if unavailable.
 - **Simpler aromatic base than Cuban:** Mexican black beans aren't a sofrito-style cooking; the beans dominate.
 - **Lard at the end:** gives proper Mexican richness; oil for vegetarian.
-- **Raw onion on top:** canonical Mexican garnish.
+- **Raw onion on top:** traditional Mexican garnish.
 
 ## Variations
 **With chorizo:** crisp 100 g of sliced chorizo separately; spoon over the finished beans.
-**Frijoles refritos (refried):** mash the cooked beans; fry in lard or oil till thickened to a paste; the related canonical Mexican refried beans.
+**Frijoles refritos (refried):** mash the cooked beans; fry in lard or oil till thickened to a paste; the related traditional Mexican refried beans.
 **Spicier:** add 2 fresh chillies + more dried oregano.
 **With chipotle:** add 2 chipotles in adobo while cooking; gives a smoky depth.
 

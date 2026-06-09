@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles and one of the highest-volume hot dogs in America (approximately 2.5 million Dodger Dogs sold per Dodgers season, more than any other ballpark dog in the country): a 10-inch footlong all-pork or beef-and-pork frankfurter manufactured to the Dodgers' specifications since 1962, served either grilled (the canonical "grilled Dodger Dog" with charcoal scoring on the casing) or steamed, in a soft 10-inch bun engineered to be stretchy enough that the dog can poke out at both ends without tearing the bread. Dressed at the condiment cart with yellow mustard, ketchup, chopped raw white onion, and sweet pickle relish (the four standard ballpark condiments). The dog has its own Spanish-pronunciation variant ("Doyer Dog"), beloved in East LA's Mexican-American community, that swaps in nacho cheese, pickled jalapeños and salsa for the standard toppings.
+The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles and one of the highest-volume hot dogs in America (approximately 2.5 million Dodger Dogs sold per Dodgers season, more than any other ballpark dog in the country): a 10-inch footlong all-pork or beef-and-pork frankfurter manufactured to the Dodgers' specifications since 1962, served either grilled (the traditional "grilled Dodger Dog" with charcoal scoring on the casing) or steamed, in a soft 10-inch bun engineered to be stretchy enough that the dog can poke out at both ends without tearing the bread. Dressed at the condiment cart with yellow mustard, ketchup, chopped raw white onion, and sweet pickle relish (the four standard ballpark condiments). The dog has its own Spanish-pronunciation variant ("Doyer Dog"), beloved in East LA's Mexican-American community, that swaps in nacho cheese, pickled jalapeños and salsa for the standard toppings.
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles a
 
 ## Method
 
-### Stage 1 - Cook the dogs (grilled - the canonical "grilled Dodger Dog")
+### Stage 1 - Cook the dogs (grilled - the traditional "grilled Dodger Dog")
 1. Heat a barbecue or cast-iron grill pan to medium-high.
 2. Brush the dogs lightly with vegetable oil.
 3. Grill 4-5 minutes per side till the casing scores with deep char marks. Don't burst - just charred grill lines.
@@ -46,7 +46,7 @@ The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles a
 ### Stage 3 - Warm the buns
 1. Briefly steam the buns 30 seconds (or wrap in damp paper towel and microwave 15 seconds) till soft and pliable.
 
-### Stage 4 - Build (the canonical Dodger Stadium order)
+### Stage 4 - Build (the traditional Dodger Stadium order)
 1. Place a footlong dog in each bun. The dog pokes out at both ends; that's the structural signature.
 2. A zigzag of yellow mustard down the length of the dog.
 3. A stripe of ketchup down the other side.
@@ -60,14 +60,14 @@ The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles a
 ## Notes
 - **Footlong size:** the 10-inch dog is the structural signature. A standard 6-inch dog gives you a different recipe.
 - **Dog pokes out the bun:** the bun is deliberately shorter than the dog. Don't try to fix this; it's the look.
-- **Grilled vs steamed:** grilled is the premium Dodger Stadium version; steamed is the standard concourse stand. Either is canonical.
+- **Grilled vs steamed:** grilled is the premium Dodger Stadium version; steamed is the standard concourse stand. Either is traditional.
 - **Yellow mustard, not Dijon:** ballpark mustard only.
 
 ## Variations
 **Doyer Dog:** the East-LA Mexican-American pronunciation variant. Swap the four standard condiments for nacho cheese sauce, sliced pickled jalapeños, salsa (pico de gallo or salsa roja), and yellow mustard. The dog is the same footlong; the toppings rebuild it as a Mexican-American hot dog.
 **With chili:** add a ladle of beef chili and a heap of grated cheddar (the "Chili Cheese Dodger").
 **Bacon-wrapped:** wrap each footlong in 2 strips of bacon before grilling.
-**Steamed (concourse stand) vs grilled (premium grill cart):** both canonical; pick by your access.
+**Steamed (concourse stand) vs grilled (premium grill cart):** both traditional; pick by your access.
 
 ## Serving
 At Dodger Stadium during a Dodgers home game (preferred); at home during a televised game; at a Los Angeles-themed gathering. With cold beer and peanuts.

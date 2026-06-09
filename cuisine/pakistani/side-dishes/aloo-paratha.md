@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every Pakistani kitchen on weekend mornings. Whole-wheat dough wraps around assertively seasoned mashed potato (cumin, garam masala, amchoor for tang, green chilli, ginger and fresh coriander), then cooks on a hot tawa with ghee till the surface blisters and the edges crisp. The catch is to not over-stuff: first attempts always burst, so go lighter on the filling than feels right. A pleated parcel sealed firmly at the top and rolled slowly without forcing keeps everything contained. Eaten hot the moment they come off the pan, torn by hand and dipped into yogurt, with a knob of butter melting into the centre and a spoon of lime pickle on the side.
+Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every Pakistani kitchen on weekend mornings. Whole-wheat dough wraps around assertively seasoned mashed potato (cumin, garam masala, amchoor for tang, green chilli, ginger and fresh coriander), then cooks on a hot tawa with ghee till the surface blisters and the edges crisp. The catch is to not over-stuff: first attempts always burst, so go lighter on the filling than feels right. A pleated parcel sealed firmly at the top and rolled slowly without forcing keeps everything contained. Eat hot the moment they come off the pan, torn by hand and dipped into yogurt, with a knob of butter melting into the centre and a spoon of lime pickle on the side.
 
 ## Ingredients
 

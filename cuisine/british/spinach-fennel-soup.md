@@ -2,7 +2,7 @@
 
 ![Spinach and Fennel soup](resources/spinach-fennel-soup.jpg)
 
-*A British country soup: spinach and fennel cooked just enough to stay bright green, blended smooth with stock. Eaten with crusty bread and butter.*
+*A British country soup: spinach and fennel cooked just enough to stay bright green, blended smooth with stock. Eat with crusty bread and butter.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A British bistro soup that pairs the gentle anise of fennel with vibrant green spinach, the result somewhere between a French velouté and an Italian zuppa. You sweat fennel and onion slowly in butter until they're soft and faintly translucent, then add stock and let them cook through. Spinach goes in at the end (just a minute, no longer, so it stays bright green rather than collapsing to khaki) and the whole soup blends to a smooth pale-green purée. A swirl of cream enriches the texture; a few fennel fronds and toasted seeds on top for the look of it. Eaten as a starter with a small chunk of crusty bread, or as a light lunch with a tomato salad on the side.
+A British bistro soup that pairs the gentle anise of fennel with vibrant green spinach, the result somewhere between a French velouté and an Italian zuppa. You sweat fennel and onion slowly in butter until they're soft and faintly translucent, then add stock and let them cook through. Spinach goes in at the end (just a minute, no longer, so it stays bright green rather than collapsing to khaki) and the whole soup blends to a smooth pale-green purée. A swirl of cream enriches the texture; a few fennel fronds and toasted seeds on top for the look of it. Eat as a starter with a small chunk of crusty bread, or as a light lunch with a tomato salad on the side.
 
 ## Ingredients
 

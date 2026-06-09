@@ -88,7 +88,7 @@ Apple crumble is Ireland's most beloved family pudding and a Sunday-dinner stapl
 - **Bramley or other proper cooking apple:** the Irish Bramley breaks down to a soft purée while keeping some structure. Granny Smith works as a substitute; eating apples (Gala, Fuji, Pink Lady) don't break down enough and stay too firm.
 - **Don't oversweeten:** the apples are properly tart and the topping is properly sweet; the contrast is the dish. Resist the urge to add more sugar to the apples.
 - **Oats in the crumble:** the rolled oats give the proper Irish texture and a slightly nutty flavour. Pure flour-butter-sugar crumble works but is less Irish.
-- **Hot custard is the proper accompaniment:** Bird's custard (the brand) made with milk and a small amount of sugar is the canonical Irish topping. Real custard (sauce anglaise) made with egg yolks is excellent but more luxurious than weekly.
+- **Hot custard is the proper accompaniment:** Bird's custard (the brand) made with milk and a small amount of sugar is the traditional Irish topping. Real custard (sauce anglaise) made with egg yolks is excellent but more luxurious than weekly.
 - **Make ahead:** the apple filling can be made and chilled ahead; the crumble can be mixed and chilled. Assemble and bake just before serving.
 
 ## Variations

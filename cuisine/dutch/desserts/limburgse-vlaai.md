@@ -132,9 +132,9 @@ Vlaai is the signature regional tart of the Dutch province of Limburg, the south
 - **Yeasted dough is the Limburg signature:** not the buttery shortcrust of a French tart. The chewy-crisp base is what makes a vlaai a vlaai.
 - **Thick filling is essential:** the filling must be thick enough not to soak the dough. Cornflour for cherry; the rice itself for rice vlaai.
 - **Cool the filling before baking:** hot filling melts the dough's structure. Room-temperature filling is correct.
-- **Wide shallow tin:** a 30 cm wide, 2-3 cm deep tin is canonical. An American-style deep pie dish is wrong.
-- **Limburg birthdays:** a vlaai is the canonical birthday cake in Limburg. Bakeries are inundated with custom vlaaien before every family event.
-- **Lattice vs crumb:** the lattice is traditional; the crumb (kruimelvlaai) is equally canonical. Some Limburg bakeries offer half-and-half.
+- **Wide shallow tin:** a 30 cm wide, 2-3 cm deep tin is traditional. An American-style deep pie dish is wrong.
+- **Limburg birthdays:** a vlaai is the traditional birthday cake in Limburg. Bakeries are inundated with custom vlaaien before every family event.
+- **Lattice vs crumb:** the lattice is traditional; the crumb (kruimelvlaai) is equally traditional. Some Limburg bakeries offer half-and-half.
 
 ## Variations
 **Pruimenvlaai (plum vlaai):** swap cherries for 800 g stewed plums; lattice topping.
@@ -148,7 +148,7 @@ Vlaai is the signature regional tart of the Dutch province of Limburg, the south
 **Modern Maastricht restaurant vlaai:** with a quenelle of vanilla ice cream, a small jug of warm cherry sauce, and a wafer biscuit - bistro-fied.
 
 ## Serving
-At a Limburg family birthday party (the canonical setting; vlaai is the Limburg birthday cake) · at a Limburg communion, wedding, funeral, or christening · at a Limburg bakery on a Saturday morning · at a Maastricht café · at any Limburg life event from baptism to retirement · at home as the southern-Dutch alternative to a French apple tart · paired with whipped cream, vanilla ice cream, or a strong coffee.
+At a Limburg family birthday party (the traditional setting; vlaai is the Limburg birthday cake) · at a Limburg communion, wedding, funeral, or christening · at a Limburg bakery on a Saturday morning · at a Maastricht café · at any Limburg life event from baptism to retirement · at home as the southern-Dutch alternative to a French apple tart · paired with whipped cream, vanilla ice cream, or a strong coffee.
 
 ## Storage
 - Refrigerates 4 days. Bring to room temperature before serving (or warm gently in a 150°C oven for 10 minutes).

@@ -97,14 +97,14 @@ Mofongo is Puerto Rico's signature dish, the absolute heart of Boricua cooking a
 ## Notes
 - **Green plantains, properly green:** the plantain must be hard and green, no yellow. Yellow plantains have started to ripen and will give a too-sweet too-soft mofongo. Buy at the supermarket plantain bin; pick the hardest greenest ones.
 - **Fry, don't boil:** the fried plantain has a slightly crisp outside and tender inside which is what mashes into the proper mofongo texture. Boiled plantains give a wet mushy result.
-- **Chicharrón is canonical, bacon is the substitute:** pork chicharrón (the crispy fried pork skin) is the proper Puerto Rican ingredient; bacon is the easy substitute that gives similar texture but a smokier flavour. Plain pork rinds (the bagged snack kind, crushed) work too.
-- **Mash by hand, not in a processor:** the pilón or hand-mashing gives the proper chunky texture. A food processor smooths it too much and you lose the canonical mouthfeel.
+- **Chicharrón is traditional, bacon is the substitute:** pork chicharrón (the crispy fried pork skin) is the proper Puerto Rican ingredient; bacon is the easy substitute that gives similar texture but a smokier flavour. Plain pork rinds (the bagged snack kind, crushed) work too.
+- **Mash by hand, not in a processor:** the pilón or hand-mashing gives the proper chunky texture. A food processor smooths it too much and you lose the traditional mouthfeel.
 - **Eat warm:** mofongo cools quickly and the texture firms up. Eat immediately.
 
 ## Variations
-**Mofongo relleno (stuffed mofongo):** form the mash into a bowl shape (hollow centre); fill with stewed shrimp, chicken or beef in a tomato-based sauce. The canonical restaurant serving.
+**Mofongo relleno (stuffed mofongo):** form the mash into a bowl shape (hollow centre); fill with stewed shrimp, chicken or beef in a tomato-based sauce. The traditional restaurant serving.
 **Trifongo:** make with 1 green plantain + 1 ripe plantain + 1 yuca (cooked); gives a sweeter more complex mash. Variation common in eastern Puerto Rico.
-**Mofongo de yuca:** swap the plantains for boiled yuca (cassava); same technique. Less canonical but a related staple.
+**Mofongo de yuca:** swap the plantains for boiled yuca (cassava); same technique. Less traditional but a related staple.
 **Vegetarian mofongo:** skip the chicharrón; use 4 tablespoons of olive oil for richness; serve with sautéed garlic-mushrooms or stewed beans instead of meat topping.
 
 ## Serving

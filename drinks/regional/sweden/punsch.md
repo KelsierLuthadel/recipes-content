@@ -11,11 +11,11 @@
 **Cook Time:** None
 
 ## Overview
-Swedish Punsch is one of the great forgotten spirits of European drinking history and a uniquely Swedish creation: a sweet, complex, citrus-and-arrack-based drink that ruled Swedish dinner culture from the 1700s through to about World War I, when temperance-era restrictions and changing taste fashions almost killed it. Today it survives as a niche but proud Swedish tradition, particularly at university nation dinners and the canonical Thursday-night ärtsoppa-och-pannkakor (pea soup followed by pancakes), where Swedish punsch is the after-dinner accompaniment. Indonesian Batavia arrack (a sugarcane-and-fermented-rice rum distilled in Java) is the soul, combined with sugar (a lot of it; punsch is sweet), neutral spirit or brandy, citric tang (lemon juice and a touch of bitter orange peel), and sometimes a touch of tea, vanilla or warming spice. The mix ages a day or two to mellow before bottling. Drunk in small chilled glasses after dinner or alongside dessert. The canonical Thursday-night sequence: pea soup, pancakes with jam, small glass of cold punsch with coffee.
+Swedish Punsch is one of the great forgotten spirits of European drinking history and a uniquely Swedish creation: a sweet, complex, citrus-and-arrack-based drink that ruled Swedish dinner culture from the 1700s through to about World War I, when temperance-era restrictions and changing taste fashions almost killed it. Today it survives as a niche but proud Swedish tradition, particularly at university nation dinners and the traditional Thursday-night ärtsoppa-och-pannkakor (pea soup followed by pancakes), where Swedish punsch is the after-dinner accompaniment. Indonesian Batavia arrack (a sugarcane-and-fermented-rice rum distilled in Java) is the soul, combined with sugar (a lot of it; punsch is sweet), neutral spirit or brandy, citric tang (lemon juice and a touch of bitter orange peel), and sometimes a touch of tea, vanilla or warming spice. The mix ages a day or two to mellow before bottling. Drunk in small chilled glasses after dinner or alongside dessert. The traditional Thursday-night sequence: pea soup, pancakes with jam, small glass of cold punsch with coffee.
 
 ## Ingredients
 
-- 300 ml Batavia arrack (Indonesian; the canonical Swedish punsch base; substitute with a heavy aged dark rum + 1 tablespoon white vinegar for the slight funk if Batavia arrack is genuinely unavailable, though it won't be the same)
+- 300 ml Batavia arrack (Indonesian; the traditional Swedish punsch base; substitute with a heavy aged dark rum + 1 tablespoon white vinegar for the slight funk if Batavia arrack is genuinely unavailable, though it won't be the same)
 - 200 ml clear vodka OR cognac/brandy
 - 300 g caster sugar
 - 150 ml water (boiling)
@@ -45,7 +45,7 @@ Swedish Punsch is one of the great forgotten spirits of European drinking histor
 1. In a large clean bottle or jug, combine the Batavia arrack, vodka/brandy, sugar syrup, and fresh lemon juice.
 2. Stir thoroughly to combine.
 
-### Stage 3 - Age (the canonical step)
+### Stage 3 - Age (the traditional step)
 1. Seal the bottle.
 2. Rest in a cool dark cupboard 24-48 hours.
 3. The punsch will mellow and integrate during this rest.
@@ -56,29 +56,29 @@ Swedish Punsch is one of the great forgotten spirits of European drinking histor
 
 ### Stage 5 - Chill
 1. Refrigerate the punsch (or store in a cool place).
-2. Before serving, place in the freezer 30 minutes for the canonical ice-cold serving temperature.
+2. Before serving, place in the freezer 30 minutes for the traditional ice-cold serving temperature.
 
 ### Stage 6 - Serve
 1. Pour into small chilled glasses (about 60ml per glass).
 2. Serve cold after dinner alongside hot strong black coffee.
-3. The canonical Swedish sequence: pea soup → pancakes with lingonberry jam → small glass of cold punsch + coffee.
+3. The traditional Swedish sequence: pea soup → pancakes with lingonberry jam → small glass of cold punsch + coffee.
 
 ## Notes
-- **Batavia arrack is the soul:** an Indonesian sugarcane-and-rice fermented spirit. Imported into Sweden in volume by the Swedish East India Company in the 1700s. Substitute aged heavy rum if you really can't find it, but accept the result won't be canonical.
+- **Batavia arrack is the soul:** an Indonesian sugarcane-and-rice fermented spirit. Imported into Sweden in volume by the Swedish East India Company in the 1700s. Substitute aged heavy rum if you really can't find it, but accept the result won't be traditional.
 - **Sweet:** Swedish punsch is supposed to be sweet. Don't reduce the sugar.
-- **Serve cold:** the canonical Swedish presentation. Even slightly room-temp punsch loses its appeal.
+- **Serve cold:** the traditional Swedish presentation. Even slightly room-temp punsch loses its appeal.
 - **Age 24-48 hours:** improves significantly.
-- **Thursday-night ritual:** the canonical Swedish slot - after ärtsoppa-och-pannkakor.
+- **Thursday-night ritual:** the traditional Swedish slot - after ärtsoppa-och-pannkakor.
 
 ## Variations
-**Cold punsch (the canonical):** as above, served chilled.
+**Cold punsch (the traditional):** as above, served chilled.
 **Warm punsch (heated):** in winter, gently warm a punsch + a splash of hot water for a hot toddy version. Don't boil.
 **Punsch-rolle (the bakery treat):** a Swedish punsch-flavoured pastry roll filled with green marzipan, dipped in chocolate ends - a sweet adaptation.
 **With ice:** modern Stockholm bars serve punsch on the rocks with a citrus twist.
 **As a base for cocktails:** Swedish bartenders increasingly use punsch in cocktails - Punsch Sour, Punsch Negroni - for the depth and sweetness.
 
 ## Serving
-On Thursday nights after ärtsoppa-och-pannkakor (the canonical Swedish weekly ritual; pea soup + pancakes + punsch) · at university nation dinners in Uppsala or Lund (Swedish university culture preserved punsch through the 20th century) · at a Swedish dinner-party finale alongside coffee and small biscuits · at a Nordic cocktail bar as a curiosity.
+On Thursday nights after ärtsoppa-och-pannkakor (the traditional Swedish weekly ritual; pea soup + pancakes + punsch) · at university nation dinners in Uppsala or Lund (Swedish university culture preserved punsch through the 20th century) · at a Swedish dinner-party finale alongside coffee and small biscuits · at a Nordic cocktail bar as a curiosity.
 
 ## Storage
 - Made punsch keeps indefinitely in a sealed bottle in a cool dark place; improves with age.

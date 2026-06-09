@@ -2,7 +2,7 @@
 
 ![Frikadellen](resources/frikadellen.jpg)
 
-*Northern German pan-fried meatballs: a mix of pork and beef bound with bread soaked in milk, seasoned with mustard, onion and marjoram, then pan-fried in butter until deeply browned. Eaten hot with potato salad or cold in a bread roll with mustard. The German answer to the burger.*
+*Northern German pan-fried meatballs: a mix of pork and beef bound with bread soaked in milk, seasoned with mustard, onion and marjoram, then pan-fried in butter until deeply browned. Eat hot with potato salad or cold in a bread roll with mustard. The German answer to the burger.*
 
 **Serves:** 4 (makes 8 patties)
 

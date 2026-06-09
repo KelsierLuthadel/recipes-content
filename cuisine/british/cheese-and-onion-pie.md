@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A British pub-and-cafe classic, the vegetarian counter to the meat pies on every menu from Pendle to Penzance. You cook onions slowly in butter until they're very soft and sweet (this is the only step that matters; rush it and the pie tastes raw), then bind them with mashed potato and grated mature cheddar so the filling slices cleanly rather than collapsing the moment a knife touches it. The pie sits in a shortcrust pastry case with a shortcrust lid, gets an egg wash for shine, and bakes until the top is deep gold. Eaten warm with HP sauce or pickled red cabbage on the side, often with chips and gravy if it's a proper pub plate.
+A British pub-and-cafe classic, the vegetarian counter to the meat pies on every menu from Pendle to Penzance. You cook onions slowly in butter until they're very soft and sweet (this is the only step that matters; rush it and the pie tastes raw), then bind them with mashed potato and grated mature cheddar so the filling slices cleanly rather than collapsing the moment a knife touches it. The pie sits in a shortcrust pastry case with a shortcrust lid, gets an egg wash for shine, and bakes until the top is deep gold. Eat warm with HP sauce or pickled red cabbage on the side, often with chips and gravy if it's a proper pub plate.
 
 ## Ingredients
 

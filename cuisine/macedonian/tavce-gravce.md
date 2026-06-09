@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Tavče gravče (literally "beans in a pan") is North Macedonia's national dish - a humble, deeply flavoured baked bean stew with strong Sephardic and Ottoman roots. The construction: dried white beans (tetovec or similar large white beans) are soaked overnight, simmered till just tender, then transferred to a glazed clay pot (the canonical "tavče"; a ceramic baking dish works) with sweated onions, sweet and hot paprika, dried mint, garlic and a splash of stock; baked uncovered at moderate heat for 90 minutes till the top crusts deeply golden-red.
+Tavče gravče (literally "beans in a pan") is North Macedonia's national dish - a humble, deeply flavoured baked bean stew with strong Sephardic and Ottoman roots. The construction: dried white beans (tetovec or similar large white beans) are soaked overnight, simmered till just tender, then transferred to a glazed clay pot (the traditional "tavče"; a ceramic baking dish works) with sweated onions, sweet and hot paprika, dried mint, garlic and a splash of stock; baked uncovered at moderate heat for 90 minutes till the top crusts deeply golden-red.
 
 ## Ingredients
 - 500 g dried tetovec or large white beans (soaked overnight)
@@ -42,8 +42,8 @@ Tavče gravče (literally "beans in a pan") is North Macedonia's national dish -
 
 ## Notes
 - **Don't skip the dried mint:** the Macedonian signature.
-- **Bake uncovered:** the crust is the canonical look.
-- **Eat hot from the dish:** straight from the clay pot is the canonical service.
+- **Bake uncovered:** the crust is the traditional look.
+- **Eat hot from the dish:** straight from the clay pot is the traditional service.
 
 ## Variations
 **With sausage:** add cured Macedonian klobasica or kielbasa on top in the last 30 minutes.
@@ -52,7 +52,7 @@ Tavče gravče (literally "beans in a pan") is North Macedonia's national dish -
 **With egg:** crack eggs over the top in the last 10 minutes.
 
 ## Serving
-At a Macedonian Sunday family lunch · with rakija as starter · in any Macedonian gostilna · at a Macedonian wedding feast · at home as the canonical Balkan comfort food.
+At a Macedonian Sunday family lunch · with rakija as starter · in any Macedonian gostilna · at a Macedonian wedding feast · at home as the traditional Balkan comfort food.
 
 ## Storage
 Refrigerates 4 days; flavour improves overnight. Freezes 3 months.

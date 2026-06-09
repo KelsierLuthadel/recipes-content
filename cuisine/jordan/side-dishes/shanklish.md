@@ -2,7 +2,7 @@
 
 ![Shanklish](resources/shanklish.jpg)
 
-*Jordanian / Levantine aged cheese balls: strained yogurt-and-cheese curds rolled into balls, dried, rolled in za'atar and dried herbs, then aged. Eaten crumbled into a chopped tomato-onion-olive oil salad on a small mezze plate. Tangy, salty, herbal. A Druze and Levantine signature.*
+*Jordanian / Levantine aged cheese balls: strained yogurt-and-cheese curds rolled into balls, dried, rolled in za'atar and dried herbs, then aged. Eat crumbled into a chopped tomato-onion-olive oil salad on a small mezze plate. Tangy, salty, herbal. A Druze and Levantine signature.*
 
 **Serves:** 4 as a mezze
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Druze and Levantine aged-cheese balls: strained yogurt curds rolled into balls, dried, rolled in za'atar and dried herbs, and aged for weeks till they develop something almost blue-cheese funky. Eaten crumbled across a small plate of diced tomato and onion with olive oil, the kind of mezze dish that asks for warm pita and not much else. The home version uses pre-made shanklish from a Lebanese or Syrian grocer (find one for the real sharpness), or a substitute built from labneh and feta blended with za'atar, dried mint, cumin and chilli flakes, shaped into balls, rolled in more za'atar, rested overnight. Crumble the cheese across a wide shallow plate, spoon over diced tomato and finely chopped red onion dressed with olive oil and herbs, scatter za'atar and sumac. Take it out of the fridge twenty minutes before serving; cold shanklish is closed, but at room temperature it opens up. Eat with warm pita.
+The Druze and Levantine aged-cheese balls: strained yogurt curds rolled into balls, dried, rolled in za'atar and dried herbs, and aged for weeks till they develop something almost blue-cheese funky. Eat crumbled across a small plate of diced tomato and onion with olive oil, the kind of mezze dish that asks for warm pita and not much else. The home version uses pre-made shanklish from a Lebanese or Syrian grocer (find one for the real sharpness), or a substitute built from labneh and feta blended with za'atar, dried mint, cumin and chilli flakes, shaped into balls, rolled in more za'atar, rested overnight. Crumble the cheese across a wide shallow plate, spoon over diced tomato and finely chopped red onion dressed with olive oil and herbs, scatter za'atar and sumac. Take it out of the fridge twenty minutes before serving; cold shanklish is closed, but at room temperature it opens up. Eat with warm pita.
 
 ## Ingredients
 

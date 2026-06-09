@@ -2,7 +2,7 @@
 
 ![Bacalhau a Gomes de Sa](resources/bacalhau-a-gomes-de-sa.jpg)
 
-*Portugal's salt cod and potato bake: layers of desalted salt cod, sliced potato, caramelised onions, garlic and black olives, baked with olive oil till the top crisps golden, finished with quartered hard-boiled eggs and fresh parsley. The Porto-Portuguese classic, one of Portugal's "365 ways with bacalhau" canonical dishes.*
+*Portugal's salt cod and potato bake: layers of desalted salt cod, sliced potato, caramelised onions, garlic and black olives, baked with olive oil till the top crisps golden, finished with quartered hard-boiled eggs and fresh parsley. The Porto-Portuguese classic, one of Portugal's "365 ways with bacalhau" traditional dishes.*
 
 **Serves:** 6
 
@@ -28,7 +28,7 @@ Bacalhau à Gomes de Sá is one of Portugal's most iconic salt cod dishes. Portu
 
 ### Other ingredients
 - 4 large eggs (hard-boiled)
-- 120 g pitted black olives (the canonical Portuguese cured black olives)
+- 120 g pitted black olives (the traditional Portuguese cured black olives)
 - 1 small bunch fresh flat-leaf parsley (chopped)
 - 2 bay leaves
 - 1 teaspoon dried oregano

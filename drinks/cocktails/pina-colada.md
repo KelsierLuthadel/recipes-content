@@ -11,14 +11,14 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Piña Colada was invented at the Caribe Hilton in San Juan, Puerto Rico, in 1954 by bartender Ramón "Monchito" Marrero and became Puerto Rico's national drink in 1978. The build is white rum, pineapple juice, and cream of coconut (sweetened thick coconut cream, Coco Lopez is the canonical brand), blended with ice into a frosty, thick, properly sweet long drink. The "colada" part of the name means "strained" in Spanish, referring to the strained pineapple juice; "piña" is the pineapple itself. The drink should be thick enough to need a straw, not thin enough to be a thinned-out cocktail. Garnish is a wedge of fresh pineapple on the rim and a maraschino cherry on a stick, sometimes with a paper umbrella for the full poolside-tiki effect. The non-alcoholic version is the [Virgin Piña Colada](../mocktails/virgin-pina-colada.md); this is the boozy original.
+The Piña Colada was invented at the Caribe Hilton in San Juan, Puerto Rico, in 1954 by bartender Ramón "Monchito" Marrero and became Puerto Rico's national drink in 1978. The build is white rum, pineapple juice, and cream of coconut (sweetened thick coconut cream, Coco Lopez is the traditional brand), blended with ice into a frosty, thick, properly sweet long drink. The "colada" part of the name means "strained" in Spanish, referring to the strained pineapple juice; "piña" is the pineapple itself. The drink should be thick enough to need a straw, not thin enough to be a thinned-out cocktail. Garnish is a wedge of fresh pineapple on the rim and a maraschino cherry on a stick, sometimes with a paper umbrella for the full poolside-tiki effect. The non-alcoholic version is the [Virgin Piña Colada](../mocktails/virgin-pina-colada.md); this is the boozy original.
 
 ## Ingredients
 
 ### Per blender (makes 2 glasses)
 - 100 ml white rum (Bacardi Carta Blanca, Havana Club 3-year, Plantation 3 Stars)
 - 200 ml pineapple juice (good quality; from a tin is fine, freshly pressed is better)
-- 100 ml cream of coconut (Coco Lopez is the canonical brand; not the same as coconut milk)
+- 100 ml cream of coconut (Coco Lopez is the traditional brand; not the same as coconut milk)
 - 200 g frozen pineapple chunks (or 6 ice cubes if you don't have frozen pineapple)
 - 25 ml fresh lime juice (optional, balances the sweetness)
 
@@ -48,7 +48,7 @@ The Piña Colada was invented at the Caribe Hilton in San Juan, Puerto Rico, in 
 ## Notes
 - **Cream of coconut, not coconut milk.** Coco Lopez (and similar brands) is a heavily sweetened thick coconut cream, the specific ingredient that defines the Piña Colada. Coconut milk gives a thinner, less sweet drink; cream of coconut is what you want.
 - **Frozen pineapple over ice cubes.** Same logic as smoothies: ice waters the drink down; frozen pineapple thickens without diluting. Frozen pineapple from the freezer aisle works perfectly.
-- **White rum is canonical.** Some bars use a mix of white and aged rum for more depth (50 ml of each); aged rum alone gives a deeper, more wood-forward drink some prefer.
+- **White rum is traditional.** Some bars use a mix of white and aged rum for more depth (50 ml of each); aged rum alone gives a deeper, more wood-forward drink some prefer.
 - **Drink within 5 minutes.** A Piña Colada that sits melts into something thin and sweet; the texture only works while frosted.
 
 ## Variations

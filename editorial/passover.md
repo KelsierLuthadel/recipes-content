@@ -13,7 +13,7 @@ Passover commemorates the exodus from Egypt, and the food carries the story. No 
 
 But after the seder, the cooking opens up. Brisket goes in slow and low and emerges hours later, pulled-tender, in its own oniony braise. Roast lamb, roast chicken, slow-simmered things. Anything that doesn't lean on flour or yeast - and for the Ashkenazi tradition, anything that doesn't include rice, beans or corn either.
 
-The table is generous and family-deep. This collection is what's in the catalogue that fits the Passover spread; the canonical seder plate items (matzo ball soup, charoset, gefilte fish) are still ahead.
+The table is generous and family-deep. This collection is what's in the catalogue that fits the Passover spread; the traditional seder plate items (matzo ball soup, charoset, gefilte fish) are still ahead.
 
 ## Recipes
 

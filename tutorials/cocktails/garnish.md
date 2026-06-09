@@ -8,7 +8,7 @@
 
 The garnish does three jobs: aroma (an expressed citrus oil is the first thing the drinker smells), flavour (an olive or salt rim contributes saltiness; mint contributes herbaceous notes), and visual signal (a coupe with a cherry says "Manhattan-family" before the drinker has sipped). The garnish should match the cocktail.
 
-This page covers the canonical garnish techniques: citrus twists (the expressed kind, not the sliced kind), olives and onions, picks, salt and sugar rims, and how to choose.
+This page covers the traditional garnish techniques: citrus twists (the expressed kind, not the sliced kind), olives and onions, picks, salt and sugar rims, and how to choose.
 
 ## The expressed citrus twist
 
@@ -20,7 +20,7 @@ The most useful single garnish technique. Here's how:
 4. Wipe the strip around the rim of the glass (this passes oil to the rim, so the drinker smells it on first sip).
 5. Drop the strip into the drink, or twist it and drop in (a curl-of-orange-peel look).
 
-The "expression" - the squeezing that releases the oils - is the canonical bartender move. Without it, the twist is just decorative; with it, the twist changes the drink.
+The "expression" - the squeezing that releases the oils - is the traditional bartender move. Without it, the twist is just decorative; with it, the twist changes the drink.
 
 Common citrus matches:
 - **Old Fashioned, Manhattan** → orange twist.
@@ -36,7 +36,7 @@ Common citrus matches:
 
 ## Cocktail cherries
 
-- **Maraschino cherries** (the bright red supermarket kind, in heavy syrup with food colouring): canonical for Manhattans and Old Fashioneds - drop the cherry in, let it bleed a little into the drink.
+- **Maraschino cherries** (the bright red supermarket kind, in heavy syrup with food colouring): traditional for Manhattans and Old Fashioneds - drop the cherry in, let it bleed a little into the drink.
 - **Luxardo cherries** (Italian, in dark cherry syrup): the premium version. Darker, less sweet, more flavour. Worth the upgrade.
 - **Brandied cherries:** make your own - soak fresh cherries in brandy + sugar + spices for 2 weeks. A serious cocktail bar's signature touch.
 

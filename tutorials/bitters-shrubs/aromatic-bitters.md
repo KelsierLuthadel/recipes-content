@@ -107,7 +107,7 @@ Use in: gin cocktails, champagne cocktails, dessert applications.
 
 - **The cinchona bark** is the trickiest ingredient to source. UK herbalists (Bald-Headed Herbs, Bodywise) carry it; online sellers (Cinchona officinalis dried) are reliable.
 - **Wormwood** (artemisia absinthium) is legal in the UK in small amounts — herbalists stock it. Use sparingly; it's potent.
-- **Gentian root** is the canonical bitter agent; available at any herbalist.
+- **Gentian root** is the traditional bitter agent; available at any herbalist.
 - **The spirit choice matters**: high-proof (60-95%) extracts more efficiently. 40% works but takes longer.
 
 ## Bottling

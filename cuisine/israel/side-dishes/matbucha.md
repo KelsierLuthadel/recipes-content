@@ -2,7 +2,7 @@
 
 ![Matbucha](resources/matbucha.jpg)
 
-*A North African-Israeli salad: tomatoes, red peppers, garlic and chillies cooked very slowly down to a thick jammy spreadable paste. Eaten cold with pita.*
+*A North African-Israeli salad: tomatoes, red peppers, garlic and chillies cooked very slowly down to a thick jammy spreadable paste. Eat cold with pita.*
 
 **Serves:** 6 as a mezze
 

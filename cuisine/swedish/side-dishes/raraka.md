@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixture of Swedish home cooking and bistro menus across the country. The defining difference from the Jewish latke (which has the same principle but a different recipe) is what's NOT in it: råraka is just grated potato + salt + nothing else. No flour, no egg, no onion. The potato's own starch is the only binder. Coarsely grated raw potato, salted lightly and immediately, the moisture squeezed out vigorously (the canonical Swedish step - wet potato won't crisp), then formed into thin loose patties and fried in plenty of butter till deeply golden and crispy on the outside while the inside stays soft, fluffy and just-cooked-through. Served with cold sour cream, lingonberry preserve, and a fistful of chopped fresh chives.
+Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixture of Swedish home cooking and bistro menus across the country. The defining difference from the Jewish latke (which has the same principle but a different recipe) is what's NOT in it: råraka is just grated potato + salt + nothing else. No flour, no egg, no onion. The potato's own starch is the only binder. Coarsely grated raw potato, salted lightly and immediately, the moisture squeezed out vigorously (the traditional Swedish step - wet potato won't crisp), then formed into thin loose patties and fried in plenty of butter till deeply golden and crispy on the outside while the inside stays soft, fluffy and just-cooked-through. Served with cold sour cream, lingonberry preserve, and a fistful of chopped fresh chives.
 
 ## Ingredients
 
@@ -73,7 +73,7 @@ Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixt
 ## Notes
 - **NO flour, NO egg, NO onion:** the Swedish minimalist canon. Adding any of these makes it a latke, not råraka.
 - **Squeeze the potato hard:** the moisture has to come out. Use a clean kitchen towel or muslin.
-- **Add the starch back (optional):** the canonical Swedish chef's move for extra crisp.
+- **Add the starch back (optional):** the traditional Swedish chef's move for extra crisp.
 - **Fry in butter:** the butter flavour is part of the dish. Don't substitute neutral oil.
 - **Loose patties:** don't compress into hockey-pucks. Loose texture = crispy with airy inside.
 

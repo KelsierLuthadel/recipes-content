@@ -2,7 +2,7 @@
 
 ![Sweet Potato Pie](resources/sweet-potato-pie.jpg)
 
-*The South's Thanksgiving alternative: a deeply spiced sweet potato custard pie in a flaky butter crust. Often considered the proper Southern answer to pumpkin pie - same warm spices, deeper sweet potato flavour. The canonical Southern Thanksgiving dessert.*
+*The South's Thanksgiving alternative: a deeply spiced sweet potato custard pie in a flaky butter crust. Often considered the proper Southern answer to pumpkin pie - same warm spices, deeper sweet potato flavour. The traditional Southern Thanksgiving dessert.*
 
 **Serves:** 8
 

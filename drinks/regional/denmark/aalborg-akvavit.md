@@ -2,7 +2,7 @@
 
 ![Aalborg Akvavit](resources/aalborg-akvavit.jpg)
 
-*Denmark's national spirit: a clear caraway-and-dill-infused grain alcohol from the Aalborg distillery in northern Jutland (operated since 1846), served in tiny ice-cold glasses with pickled herring, smørrebrød and the Danish snaps ritual. Stronger and more caraway-forward than Swedish akvavit; the canonical drinking spirit at every Danish lunch.*
+*Denmark's national spirit: a clear caraway-and-dill-infused grain alcohol from the Aalborg distillery in northern Jutland (operated since 1846), served in tiny ice-cold glasses with pickled herring, smørrebrød and the Danish snaps ritual. Stronger and more caraway-forward than Swedish akvavit; the traditional drinking spirit at every Danish lunch.*
 
 **Serves:** 8 (small shots, ~30ml each; figure 3-4 rounds per lunch)
 
@@ -11,11 +11,11 @@
 **Cook Time:** None
 
 ## Overview
-Aalborg Akvavit is Denmark's most iconic spirit and the canonical drinking partner of every Danish lunch involving pickled herring, smørrebrød or cured meat. The Aalborg distillery in northern Jutland has been making akvavit since 1846 and produces multiple varieties: Aalborg Taffel (the canonical caraway-and-dill aquavit, smooth, clear); Aalborg Jubilæum (oak-aged, slightly darker); Aalborg Dild (extra-dill); Aalborg Porse (with sweet-gale, a Danish bog plant). The dominant flavour is caraway - more aggressively caraway-forward than Swedish Skåne or Norwegian Linie aquavits - with secondary notes of dill, fennel, and lemon peel. Served ice-cold (straight from the freezer; akvavit's high alcohol prevents it freezing, but it becomes syrupy-viscous and intensely cold), in tiny straight-sided 30-40ml shot glasses. The Danish snaps ritual: a snapsvisa (snaps song - there are hundreds, from the universal "Helan går" to bawdier regional variants) is sung at the table, then everyone shouts "Skål!" and downs (or sips) the shot, immediately following with a bite of pickled herring on rye bread.
+Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking partner of every Danish lunch involving pickled herring, smørrebrød or cured meat. The Aalborg distillery in northern Jutland has been making akvavit since 1846 and produces multiple varieties: Aalborg Taffel (the traditional caraway-and-dill aquavit, smooth, clear); Aalborg Jubilæum (oak-aged, slightly darker); Aalborg Dild (extra-dill); Aalborg Porse (with sweet-gale, a Danish bog plant). The dominant flavour is caraway - more aggressively caraway-forward than Swedish Skåne or Norwegian Linie aquavits - with secondary notes of dill, fennel, and lemon peel. Served ice-cold (straight from the freezer; akvavit's high alcohol prevents it freezing, but it becomes syrupy-viscous and intensely cold), in tiny straight-sided 30-40ml shot glasses. The Danish snaps ritual: a snapsvisa (snaps song - there are hundreds, from the universal "Helan går" to bawdier regional variants) is sung at the table, then everyone shouts "Skål!" and downs (or sips) the shot, immediately following with a bite of pickled herring on rye bread.
 
 ## Ingredients
 
-### Option A: Bottled Aalborg Akvavit (the canonical Danish way)
+### Option A: Bottled Aalborg Akvavit (the traditional Danish way)
 - 1 bottle (700 ml) Aalborg Taffel Akvavit OR Aalborg Jubilæum (for the oak-aged version)
 
 ### Option B: Home-infused Danish-style snaps (2-week infusion)

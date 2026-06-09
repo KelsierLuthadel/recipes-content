@@ -2,7 +2,7 @@
 
 ![NM Frito Pie](resources/nm-frito-pie.jpg)
 
-*New Mexico's chile-and-Fritos: a bag of Fritos chips opened down the side, filled with hot New Mexico red or green chile (instead of Texas chili), topped with grated cheese, chopped onion, sour cream and pinto beans. The rival of Texas frito pie; New Mexicans claim invention; Texans dispute it. The Santa Fe Plaza Five and Dime canonical recipe.*
+*New Mexico's chile-and-Fritos: a bag of Fritos chips opened down the side, filled with hot New Mexico red or green chile (instead of Texas chili), topped with grated cheese, chopped onion, sour cream and pinto beans. The rival of Texas frito pie; New Mexicans claim invention; Texans dispute it. The Santa Fe Plaza Five and Dime traditional recipe.*
 
 **Serves:** 4
 
@@ -47,7 +47,7 @@ New Mexico frito pie is the New Mexican version of the Frito-bag dish (Texas has
 
 ## Notes
 - **NM red or green chile, not Texas chili.**
-- **Pinto beans canonical NM.**
+- **Pinto beans traditional NM.**
 - **From the bag traditional.**
 - **Eat immediately:** chips soften.
 

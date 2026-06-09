@@ -36,7 +36,7 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 - A small pinch of fine sea salt
 
 ### Equipment
-- A pizzelle iron (the canonical Italian/Dutch pizzelle iron; available online from kitchen-equipment specialists) - OR a sandwich press / panini grill at a pinch
+- A pizzelle iron (the traditional Italian/Dutch pizzelle iron; available online from kitchen-equipment specialists) - OR a sandwich press / panini grill at a pinch
 - A sugar thermometer
 - A long sharp knife OR a slicer
 - A round 9-10 cm cookie cutter (optional - some pizzelle irons give a perfect round, others give a more rectangular wafel that needs trimming)
@@ -53,7 +53,7 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 
 ### Stage 2 - First rise
 1. Cover the bowl with cling film.
-2. Let rise at warm room temperature 45 minutes - this is a SHORT rise (a true brioche-style long rise is too risen; a 45-minute rise is the canonical stroopwafel timing).
+2. Let rise at warm room temperature 45 minutes - this is a SHORT rise (a true brioche-style long rise is too risen; a 45-minute rise is the traditional stroopwafel timing).
 3. The dough will roughly double in size.
 
 ### Stage 3 - Make the stroop (caramel) filling
@@ -103,7 +103,7 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 ## Notes
 - **Pizzelle iron is essential:** a Belgian waffle iron gives too thick a wafel; a panini press is the workable fallback (uneven pattern, but functional).
 - **Slice while warm:** the 30-45 second window is critical. Cold wafels crack; warm ones split cleanly.
-- **Soft-ball stage (115°C):** the canonical stroop temperature. Too cool and the syrup stays runny and the assembled stroopwafel falls apart; too hot and the syrup goes brittle.
+- **Soft-ball stage (115°C):** the traditional stroop temperature. Too cool and the syrup stays runny and the assembled stroopwafel falls apart; too hot and the syrup goes brittle.
 - **Fresh-from-the-iron is dramatically better:** the supermarket pre-packed versions (Daelmans, Lotus) are good but the home-baked version is on another level.
 - **The coffee-mug trick:** the classic Dutch presentation. The steam from the hot coffee softens the caramel inside the stroopwafel. Don't skip - it's part of the experience.
 
@@ -118,7 +118,7 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 **Vegan stroopwafels:** swap egg for 2 tablespoons aquafaba; butter for vegan block butter; milk for oat milk.
 
 ## Serving
-At a Gouda market stall (the canonical setting; freshly made every Wednesday and Saturday morning) · at any Dutch market town on market day · at a Dutch coffee shop with a strong espresso · at home with a mug of hot coffee or tea using the steaming-mug technique · at a Dutch sinterklaas (5 December) tea-time · in lunchboxes across the Netherlands · as the canonical Dutch gift to take home from a visit.
+At a Gouda market stall (the traditional setting; freshly made every Wednesday and Saturday morning) · at any Dutch market town on market day · at a Dutch coffee shop with a strong espresso · at home with a mug of hot coffee or tea using the steaming-mug technique · at a Dutch sinterklaas (5 December) tea-time · in lunchboxes across the Netherlands · as the traditional Dutch gift to take home from a visit.
 
 ## Storage
 - Best within 24 hours of making, while the caramel is still soft.

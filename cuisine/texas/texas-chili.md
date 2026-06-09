@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Texas chili (also called chili con carne or "bowl o' red") is the official state dish of Texas and one of America's most fiercely defended regional foods: cubed beef chuck slow-simmered in a thick rich sauce made from dried ancho and guajillo chillies, dried chipotle (for smoke), garlic, cumin, Mexican oregano, beef stock and a small amount of masa harina (corn flour for thickening, the Texan-Mexican touch). No beans, no tomatoes, no macaroni, no filler. Texan chili purists will write angry letters to magazines that publish chili recipes with beans; the "Texas chili wars" are a real cultural phenomenon. Use cubed beef chuck, not ground; the canonical Texan cut is meat in 1.5 cm cubes that hold their shape after long cooking. Dried chillies blitzed into a paste, not chili powder; rehydrate the whole pods and blend them fresh. The dish is beef and chillies; if you want beans, eat them on the side.
+Texas chili (also called chili con carne or "bowl o' red") is the official state dish of Texas and one of America's most fiercely defended regional foods: cubed beef chuck slow-simmered in a thick rich sauce made from dried ancho and guajillo chillies, dried chipotle (for smoke), garlic, cumin, Mexican oregano, beef stock and a small amount of masa harina (corn flour for thickening, the Texan-Mexican touch). No beans, no tomatoes, no macaroni, no filler. Texan chili purists will write angry letters to magazines that publish chili recipes with beans; the "Texas chili wars" are a real cultural phenomenon. Use cubed beef chuck, not ground; the traditional Texan cut is meat in 1.5 cm cubes that hold their shape after long cooking. Dried chillies blitzed into a paste, not chili powder; rehydrate the whole pods and blend them fresh. The dish is beef and chillies; if you want beans, eat them on the side.
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Texas chili (also called chili con carne or "bowl o' red") is the official state
 - 1 teaspoon ground black pepper
 - 3 tablespoons vegetable oil
 
-### Dried chillies (the canonical Texas base)
+### Dried chillies (the traditional Texas base)
 - 6 dried ancho chillies (stems and seeds removed)
 - 4 dried guajillo chillies (stems and seeds removed)
 - 2 dried chipotle peppers (or 2 chipotles in adobo)
@@ -117,7 +117,7 @@ Texas chili (also called chili con carne or "bowl o' red") is the official state
 4. Cold beer.
 
 ## Notes
-- **Cubed beef, not ground:** canonical Texas.
+- **Cubed beef, not ground:** traditional Texas.
 - **Dried chillies blended fresh:** not chili powder.
 - **No beans, no tomatoes:** Texas law.
 - **Masa harina thickens:** Texan touch.

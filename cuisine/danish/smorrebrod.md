@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes (boiling eggs)
 
 ## Overview
-Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tradition that defines Danish lunch culture and dominates every workplace canteen, café menu, ferry-port restaurant and countryside kro from Copenhagen to Skagen. A thick slice of dark dense Danish rye (rugbrød: dense sourdough rye, very slightly sour, the canonical Danish carb) is generously buttered, then topped with one main protein (cured herring, smoked salmon, leverpostej liver pâté, cold roast beef, hard cheese, sliced hard-boiled egg) plus garnishes that always include something pickled, something fresh-green (dill, chives, cress, parsley) and often something sharp (red onion, capers, pickled cucumber). Each canonical combination has a name: sild på rugbrød (pickled herring), æg og rejer (egg and shrimp), kartoffelmad (potato), dyrlægens natmad (vet's late-night supper, leverpostej and beef), roastbeef with remoulade, skinke og italiensk salat (ham and Italian salad). Eaten with knife and fork, never picked up, accompanied by cold pilsner and a shot of akvavit.
+Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tradition that defines Danish lunch culture and dominates every workplace canteen, café menu, ferry-port restaurant and countryside kro from Copenhagen to Skagen. A thick slice of dark dense Danish rye (rugbrød: dense sourdough rye, very slightly sour, the traditional Danish carb) is generously buttered, then topped with one main protein (cured herring, smoked salmon, leverpostej liver pâté, cold roast beef, hard cheese, sliced hard-boiled egg) plus garnishes that always include something pickled, something fresh-green (dill, chives, cress, parsley) and often something sharp (red onion, capers, pickled cucumber). Each traditional combination has a name: sild på rugbrød (pickled herring), æg og rejer (egg and shrimp), kartoffelmad (potato), dyrlægens natmad (vet's late-night supper, leverpostej and beef), roastbeef with remoulade, skinke og italiensk salat (ham and Italian salad). Eat with knife and fork, never picked up, accompanied by cold pilsner and a shot of akvavit.
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 - Ground black pepper
 
 ### Topping 4: Dyrlægens natmad (vet's late-night supper) - for 2 pieces
-- 4 slices of cold leverpostej (Danish liver pâté; warm-baked the day before is the canonical chef version, or use shop-bought leverpostej from a tin - Stryhn's brand is the Danish standard)
+- 4 slices of cold leverpostej (Danish liver pâté; warm-baked the day before is the traditional chef version, or use shop-bought leverpostej from a tin - Stryhn's brand is the Danish standard)
 - 4 thin slices cold roast beef
 - 2 small spoons of meat aspic (sky - chopped fine; from a butcher; or skip)
 - 1 small red onion (sliced very thin)
@@ -86,21 +86,21 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 ### Stage 6 - The snaps and beer ritual
 1. Pour small cold pilsner beers into glasses.
 2. Pour tiny ice-cold akvavit into snaps glasses.
-3. The canonical Danish move: eat herring → sip beer → sip akvavit → "skål!" → repeat for each smørrebrød.
+3. The traditional Danish move: eat herring → sip beer → sip akvavit → "skål!" → repeat for each smørrebrød.
 
 ## Notes
-- **Danish rugbrød:** absolutely the canonical bread. Dense sourdough rye, dark, slightly sour, full of whole grains and seeds. Lighter American rye or English rye won't give the right result.
+- **Danish rugbrød:** absolutely the traditional bread. Dense sourdough rye, dark, slightly sour, full of whole grains and seeds. Lighter American rye or English rye won't give the right result.
 - **Generous butter:** Danish butter use is generous; thin smears are wrong.
-- **Each topping is a named composition:** don't mix freely; respect the canonical combinations.
+- **Each topping is a named composition:** don't mix freely; respect the traditional combinations.
 - **Fork-and-knife only:** smørrebrød is plated and eaten with cutlery, never handheld. Picking one up marks you as a non-Dane.
 - **Pickled / fresh / sharp:** every composition has all three - pickled element (herring, onion), fresh-green (dill, cress, chives), sharp (mustard, horseradish, capers).
 
 ## Variations
-**Beef-and-blue-cheese:** thin slices of cold roast beef + crumbled Danish blue + horseradish + crispy onions + cress (less canonical, more modern).
+**Beef-and-blue-cheese:** thin slices of cold roast beef + crumbled Danish blue + horseradish + crispy onions + cress (less traditional, more modern).
 **Tartar:** Danish-style raw beef tartare on rye with raw egg yolk and chopped raw onion (the Stockholm Royal Smørrebrød House version).
-**Smoked salmon:** smoked salmon + creamy dill mustard + capers + cucumber + dill (canonical fish version).
+**Smoked salmon:** smoked salmon + creamy dill mustard + capers + cucumber + dill (traditional fish version).
 **Hot smørrebrød:** include a few hot smørrebrød (warmed leverpostej; or a small frikadelle on rye with mustard and pickled beetroot).
-**Cheese-only at the end:** the canonical Danish lunch ends with cheese smørrebrød (a slice of strong Danish blue, or mild Danbo, with a sliced radish on rye).
+**Cheese-only at the end:** the traditional Danish lunch ends with cheese smørrebrød (a slice of strong Danish blue, or mild Danbo, with a sliced radish on rye).
 
 ## Serving
 At a Danish lunch at a Copenhagen restaurant (Restaurant Schønnemann is the historic temple) · at a Danish workplace canteen Friday lunch · at a julefrokost (Danish Christmas lunch) · at a wedding luncheon · at home as a substantial weekend lunch.

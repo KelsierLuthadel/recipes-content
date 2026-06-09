@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes (warming)
 
 ## Overview
-Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the canonical lunch at Katz's Delicatessen on Houston Street (in operation since 1888; the deli where Meg Ryan filmed "I'll have what she's having" in When Harry Met Sally): thick-sliced pastrami (brisket that's been brined for 5-7 days in salt + sugar + curing salt + pickling spices, rubbed with crushed black pepper and coriander seeds, smoked low-and-slow over hickory or beech wood for 5-6 hours, then steamed for 2 hours till incredibly tender), piled at least 6 inches high on rye bread (the canonical NYC seeded Jewish rye) with yellow mustard (NEVER ketchup; that's a sin in NY deli world) and a dill pickle on the side.
+Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the traditional lunch at Katz's Delicatessen on Houston Street (in operation since 1888; the deli where Meg Ryan filmed "I'll have what she's having" in When Harry Met Sally): thick-sliced pastrami (brisket that's been brined for 5-7 days in salt + sugar + curing salt + pickling spices, rubbed with crushed black pepper and coriander seeds, smoked low-and-slow over hickory or beech wood for 5-6 hours, then steamed for 2 hours till incredibly tender), piled at least 6 inches high on rye bread (the traditional NYC seeded Jewish rye) with yellow mustard (NEVER ketchup; that's a sin in NY deli world) and a dill pickle on the side.
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the 
 - Cole slaw
 
 ### To drink
-- Dr Brown's Cel-Ray (the canonical NY deli drink) or root beer
+- Dr Brown's Cel-Ray (the traditional NY deli drink) or root beer
 
 ## Method
 
@@ -47,7 +47,7 @@ Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the 
 
 ### Stage 3 - Pile sandwich
 1. Stack 1.5-2 cm of warm pastrami slices on a slice of rye.
-2. Don't be modest; the canonical NY pastrami sandwich has at least 250 g meat.
+2. Don't be modest; the traditional NY pastrami sandwich has at least 250 g meat.
 
 ### Stage 4 - Add mustard
 1. Spread generous yellow mustard on the top slice of rye.
@@ -61,7 +61,7 @@ Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the 
 
 ## Notes
 - **Yellow mustard only:** no Dijon, no honey mustard.
-- **Seeded Jewish rye canonical.**
+- **Seeded Jewish rye traditional.**
 - **Thick pile of meat:** not modest.
 - **Pickle on the side:** essential.
 

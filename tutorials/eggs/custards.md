@@ -125,8 +125,8 @@ Cloudy: sugar layer too thick (sprinkle thinner). Burnt: torched too long in one
 - [Meringues](meringues.md): the egg-white side of the patisserie.
 - [Souffles](souffles.md): custard-base + meringue = souffle.
 - [Eggs Course landing](eggs.md): back to the main course.
-- [Creme Anglaise recipe](../../baking/cremes/creme-anglaise.md): canonical recipe.
-- [Creme Patissiere recipe](../../baking/cremes/creme-patissiere.md): canonical recipe.
+- [Creme Anglaise recipe](../../baking/cremes/creme-anglaise.md): traditional recipe.
+- [Creme Patissiere recipe](../../baking/cremes/creme-patissiere.md): traditional recipe.
 - [Stocks-Sauces / Hollandaise](../stocks-sauces/hollandaise.md): the savoury cousin of custard, same yolk-coagulation principle.
 
 ## Storage

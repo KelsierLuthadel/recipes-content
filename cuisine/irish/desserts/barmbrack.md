@@ -98,7 +98,7 @@ Barmbrack (báirín breac in Irish, "speckled loaf") is Ireland's most iconic sw
 - **Soak overnight properly:** the fruit must be fully plumped before the dough goes together. 8 hours minimum; overnight is ideal. The fruit should be fat and tea-stained.
 - **Strong tea, not weak:** use 3 tea bags or 1 heaped tablespoon of loose-leaf strong tea (Irish breakfast or English breakfast); steep 5 minutes. Weak tea doesn't give enough flavour.
 - **Mixed spice is the proper Irish spice mix:** ground mixed spice (a UK/Ireland blend) gives the warm Christmas-spice profile. Use the proper mix if you can find it; substitute with equal parts cinnamon, nutmeg, coriander and ginger if you can't.
-- **Yeasted vs baking-powder versions:** the canonical barmbrack is yeasted; the easier modern tea-loaf version uses baking powder (and is properly called a tea brack rather than barmbrack). Both are widely accepted.
+- **Yeasted vs baking-powder versions:** the traditional barmbrack is yeasted; the easier modern tea-loaf version uses baking powder (and is properly called a tea brack rather than barmbrack). Both are widely accepted.
 - **Best the next day:** like many fruit-spice cakes, barmbrack tastes better after it has settled overnight. The flavours deepen and the texture improves.
 
 ## Variations

@@ -2,7 +2,7 @@
 
 ![Calabacitas con Queso](resources/calabacitas-con-queso.jpg)
 
-*Mexico's zucchini-corn-and-cheese side: cubes of zucchini sautéed with sweet corn kernels, onion, garlic, jalapeño and tomato, finished with crumbled queso fresco and a sprinkle of fresh coriander. The summer-season Mexican vegetarian side, the canonical Sunday accompaniment to grilled meats and chicken.*
+*Mexico's zucchini-corn-and-cheese side: cubes of zucchini sautéed with sweet corn kernels, onion, garlic, jalapeño and tomato, finished with crumbled queso fresco and a sprinkle of fresh coriander. The summer-season Mexican vegetarian side, the traditional Sunday accompaniment to grilled meats and chicken.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Calabacitas con queso is Mexico's classic zucchini-corn-and-cheese side and a summer-season staple of central Mexican home cooking: cubes of zucchini sautéed with sweet corn kernels, onion, garlic, sliced jalapeño and chopped tomato, finished with crumbled queso fresco and fresh coriander. Vegetarian, twenty minutes from raw to plate, and the canonical summer-vegetable side that turns up alongside carnitas, carne asada, roasted chicken, or as part of a vegetarian meal with rice and beans. Zucchini, corn and tomato are the holy trinity here; all in peak season together. Queso fresco is the right cheese; crumbled and scattered at the end, not melted. Feta substitutes if queso fresco is hard to find. Don't overcook the zucchini: it should still have a slight bite, not mushy. Originated in central Mexico where summer abundance brought all three vegetables to the market at once; now a fixture of Mexican-American family cooking too.
+Calabacitas con queso is Mexico's classic zucchini-corn-and-cheese side and a summer-season staple of central Mexican home cooking: cubes of zucchini sautéed with sweet corn kernels, onion, garlic, sliced jalapeño and chopped tomato, finished with crumbled queso fresco and fresh coriander. Vegetarian, twenty minutes from raw to plate, and the traditional summer-vegetable side that turns up alongside carnitas, carne asada, roasted chicken, or as part of a vegetarian meal with rice and beans. Zucchini, corn and tomato are the holy trinity here; all in peak season together. Queso fresco is the right cheese; crumbled and scattered at the end, not melted. Feta substitutes if queso fresco is hard to find. Don't overcook the zucchini: it should still have a slight bite, not mushy. Originated in central Mexico where summer abundance brought all three vegetables to the market at once; now a fixture of Mexican-American family cooking too.
 
 ## Ingredients
 
@@ -63,7 +63,7 @@ Calabacitas con queso is Mexico's classic zucchini-corn-and-cheese side and a su
 4. Lime wedges on the side.
 
 ## Notes
-- **Three summer vegetables:** zucchini + corn + tomato canonical.
+- **Three summer vegetables:** zucchini + corn + tomato traditional.
 - **Don't overcook zucchini:** slight bite is right.
 - **Queso fresco crumbled, not melted.**
 - **Mexican oregano gives proper profile.**

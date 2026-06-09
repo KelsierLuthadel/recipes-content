@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's foundational sweet-sour sauce and one of the most distinctive Italian flavour profiles: a glossy syrup made from white-wine vinegar (or red wine; or sherry), caster sugar (or honey), sliced onion or shallot, crushed garlic, a pinch of red pepper flakes, sometimes raisins or pine nuts in the Sicilian style, bay leaves and salt, all reduced together till the sugar dissolves and the mixture turns glossy. The dish has roots in Sicily (caponata uses an agrodolce base; the Arab influence in Sicilian cooking shows in the sweet-sour combination) but is used across Italy. As a sauce or glaze, agrodolce drizzles beautifully over grilled fish, roasted vegetables (especially aubergine), pork, duck and roasted onions. The canonical starting ratio is equal sugar to vinegar by volume, adjusted to taste. The sauce wants to coat the back of a spoon; under-reduced it tastes harsh, over-reduced it crystallises.
+Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's foundational sweet-sour sauce and one of the most distinctive Italian flavour profiles: a glossy syrup made from white-wine vinegar (or red wine; or sherry), caster sugar (or honey), sliced onion or shallot, crushed garlic, a pinch of red pepper flakes, sometimes raisins or pine nuts in the Sicilian style, bay leaves and salt, all reduced together till the sugar dissolves and the mixture turns glossy. The dish has roots in Sicily (caponata uses an agrodolce base; the Arab influence in Sicilian cooking shows in the sweet-sour combination) but is used across Italy. As a sauce or glaze, agrodolce drizzles beautifully over grilled fish, roasted vegetables (especially aubergine), pork, duck and roasted onions. The traditional starting ratio is equal sugar to vinegar by volume, adjusted to taste. The sauce wants to coat the back of a spoon; under-reduced it tastes harsh, over-reduced it crystallises.
 
 ## Ingredients
 
@@ -62,7 +62,7 @@ Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's founda
 3. Brush over pork or duck during the last 5 minutes of roasting.
 
 ## Notes
-- **Equal sugar to vinegar:** canonical starting ratio.
+- **Equal sugar to vinegar:** traditional starting ratio.
 - **Reduce till glossy:** test on a spoon.
 - **Adjust to taste:** add more sugar for sweeter; more vinegar for tarter.
 - **Best warm or room temperature:** cold congeals slightly.
@@ -71,7 +71,7 @@ Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's founda
 **With balsamic:** swap white wine vinegar for balsamic; richer; more "modern Italian".
 **With honey:** swap sugar for honey; gives a different sweetness.
 **Caponata-style:** combine with sautéed eggplant cubes, capers, olives, basil - Sicilian eggplant condiment.
-**Mosto-cotto version:** use Italian mosto cotto (cooked grape must) instead of sugar; deeper sweetness, less canonical agrodolce.
+**Mosto-cotto version:** use Italian mosto cotto (cooked grape must) instead of sugar; deeper sweetness, less traditional agrodolce.
 
 ## Serving
 Drizzle over fish, vegetables, meats. Brush as glaze. Use as a caponata base. With cheese boards. Italian red wine.

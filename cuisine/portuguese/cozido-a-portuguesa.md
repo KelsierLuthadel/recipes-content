@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Cozido à Portuguesa is Portugal's most substantial traditional one-pot feast and a Sunday-family-lunch institution across the country: a slow-cooked combination of mixed meats (beef shin, pork belly, smoked ham, linguiça and chouriço sausages, morcela blood sausage, sometimes chicken) and vegetables (cabbage, carrot, potato, turnip, sweet potato), all simmered together in one large pot for hours, with rice cooked separately in some of the broth (arroz de cozido) for the carb. The variety of meats is the point of the dish; beef plus pork plus ham plus at least three different sausages give the canonical Portuguese depth, where any single-meat version is something else entirely. The course-by-course serving is the canonical Portuguese ritual; broth as a soup, vegetables and rice as a separate course, the meats arranged on a large platter for the centrepiece. Dumping everything onto one plate misses the meal as it was designed. Sundays in rural Portugal famously begin with making the cozido and end hours later still eating it.
+Cozido à Portuguesa is Portugal's most substantial traditional one-pot feast and a Sunday-family-lunch institution across the country: a slow-cooked combination of mixed meats (beef shin, pork belly, smoked ham, linguiça and chouriço sausages, morcela blood sausage, sometimes chicken) and vegetables (cabbage, carrot, potato, turnip, sweet potato), all simmered together in one large pot for hours, with rice cooked separately in some of the broth (arroz de cozido) for the carb. The variety of meats is the point of the dish; beef plus pork plus ham plus at least three different sausages give the traditional Portuguese depth, where any single-meat version is something else entirely. The course-by-course serving is the traditional Portuguese ritual; broth as a soup, vegetables and rice as a separate course, the meats arranged on a large platter for the centrepiece. Dumping everything onto one plate misses the meal as it was designed. Sundays in rural Portugal famously begin with making the cozido and end hours later still eating it.
 
 ## Ingredients
 
@@ -97,11 +97,11 @@ Cozido à Portuguesa is Portugal's most substantial traditional one-pot feast an
 ## Variations
 **Cozido das Furnas (Azorean):** the famous Azores variation cooked in the volcanic ground heat at Furnas; impossible to replicate exactly but the recipe is the same.
 **Smaller version (4 people):** halve everything; cook in a smaller pot.
-**Vegetarian (impossible to keep canonical):** the dish is a meat feast; vegetarian doesn't work.
+**Vegetarian (impossible to keep traditional):** the dish is a meat feast; vegetarian doesn't work.
 **With kale (couves):** add Portuguese kale (couves) instead of cabbage.
 
 ## Serving
-On large platters served in courses over hours. Portuguese red wine. The canonical Portuguese Sunday lunch.
+On large platters served in courses over hours. Portuguese red wine. The traditional Portuguese Sunday lunch.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

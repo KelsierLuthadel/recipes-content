@@ -2,7 +2,7 @@
 
 ![Southern Peach Cobbler](resources/peach-cobbler-southern.jpg)
 
-*The South's iconic peach dessert: sliced fresh peaches with sugar, butter, vanilla and cinnamon, topped with a biscuit-style batter or buttermilk drop dumplings, baked till the top crusts golden over the bubbling sweet peach filling. Served warm with vanilla ice cream - the canonical Southern summer dessert.*
+*The South's iconic peach dessert: sliced fresh peaches with sugar, butter, vanilla and cinnamon, topped with a biscuit-style batter or buttermilk drop dumplings, baked till the top crusts golden over the bubbling sweet peach filling. Served warm with vanilla ice cream - the traditional Southern summer dessert.*
 
 **Serves:** 8
 

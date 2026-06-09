@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-All-butter pie pastry rests in two discs. The filling, a mix of apples (Bramleys for tartness and break-down, Granny Smith and Braeburn for hold), brown sugar, cinnamon, lemon, cornflour, pre-cooks slightly to release water and keep the crust from going soggy. Bottom crust lines a pie dish; filling piles in tall (it sinks); top crust seals on, vented. Egg-washed and sugar-dusted; baked until deep gold.
+An American apple pie is the autumn dessert every kitchen in the country has its own version of, the one that lands on the Thanksgiving table next to the pecan pie and the pumpkin pie and is the first to be gone by morning. You build the filling from a mix of apples (Bramleys for the tart breakdown that softens into sauce, Granny Smith and Braeburn for the chunks that hold their shape), tossed with brown sugar, cinnamon, lemon and a little cornflour and pre-cooked briefly so the juices reduce before the pastry ever sees them. That short pre-cook is the difference between a clean slice and a soggy floor. The pastry is all-butter and rests cold in two discs, so the bottom crust stays crisp under the wet filling and the top vents into shards as it bakes. You egg-wash and sugar-dust the lid before it goes in, and pull it when the surface is deep gold and the filling bubbles thickly through the vents. Eat warm with a scoop of vanilla ice cream.
 
 ## Ingredients
 

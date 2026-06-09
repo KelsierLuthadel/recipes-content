@@ -82,7 +82,7 @@ Stegt flæsk med persillesovs (literally "fried pork belly with parsley sauce") 
 - **Thick pork belly slices (1cm):** bacon-thin doesn't work. Ask your butcher.
 - **Dry pan, no added fat:** the pork belly's own fat is the fry medium.
 - **Persillesovs is the heart:** the sauce makes the dish. Don't skimp on parsley or thickness.
-- **Pickled beetroot on the side:** the canonical Danish cut against the richness.
+- **Pickled beetroot on the side:** the traditional Danish cut against the richness.
 - **National dish status:** if Denmark could only eat one dish, this is it. Voted 2014.
 
 ## Variations

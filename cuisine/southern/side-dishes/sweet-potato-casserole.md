@@ -2,7 +2,7 @@
 
 ![Sweet Potato Casserole](resources/sweet-potato-casserole.jpg)
 
-*The South's marshmallow-or-pecan topped sweet potato side: mashed sweet potatoes mixed with butter, brown sugar, cinnamon and vanilla, topped with either toasted marshmallows or a brown-sugar-pecan streusel, baked till golden. The canonical Southern Thanksgiving side, the "fourth dessert" of the holiday plate.*
+*The South's marshmallow-or-pecan topped sweet potato side: mashed sweet potatoes mixed with butter, brown sugar, cinnamon and vanilla, topped with either toasted marshmallows or a brown-sugar-pecan streusel, baked till golden. The traditional Southern Thanksgiving side, the "fourth dessert" of the holiday plate.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Sweet potato casserole is one of the South's most iconic Thanksgiving sides and a year-round Southern dinner staple: roasted or boiled sweet potatoes mashed with butter, brown sugar, milk, eggs, cinnamon, nutmeg, vanilla and a touch of orange zest, poured into a baking dish, then topped with either toasted mini marshmallows (the canonical Southern Thanksgiving topping; controversial outside the South) or a brown-sugar-pecan streusel (the more "refined" topping). Baked till the top is deep golden. The dish sits between side and dessert; sweet enough to be either.
+Sweet potato casserole is one of the South's most iconic Thanksgiving sides and a year-round Southern dinner staple: roasted or boiled sweet potatoes mashed with butter, brown sugar, milk, eggs, cinnamon, nutmeg, vanilla and a touch of orange zest, poured into a baking dish, then topped with either toasted mini marshmallows (the traditional Southern Thanksgiving topping; controversial outside the South) or a brown-sugar-pecan streusel (the more "refined" topping). Baked till the top is deep golden. The dish sits between side and dessert; sweet enough to be either.
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ Sweet potato casserole is one of the South's most iconic Thanksgiving sides and 
 - Zest of 1 orange
 - 1 teaspoon fine sea salt
 
-### Marshmallow topping (canonical Southern)
+### Marshmallow topping (traditional Southern)
 - 200 g mini marshmallows
 
 ### OR Pecan streusel topping
@@ -67,7 +67,7 @@ Sweet potato casserole is one of the South's most iconic Thanksgiving sides and 
 
 ## Notes
 - **Well-mashed sweet potato.**
-- **Topping of choice:** marshmallows (canonical) or pecans (refined).
+- **Topping of choice:** marshmallows (traditional) or pecans (refined).
 - **Don't burn marshmallows:** finish briefly under grill.
 
 ## Variations

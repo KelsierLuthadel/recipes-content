@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The Native American powwow plate: pillowy fried-bread disks topped with a thick warm Lakota berry sauce called wojapi, traditionally made with chokecherries and sweetened with maple. The history is not simple. Frybread comes from the period of forced relocation and government ration commodities, and many Native cooks have a complicated relationship with it; today it stands at gatherings as a symbol of resilience and community. Wojapi is the older partner: a simmered berry sauce mashed jammy and lightly thickened, made all summer from whatever berries were ripe (chokecherries, juneberries, blueberries), now usually finished with maple syrup and a touch of vanilla. The combination is the canonical powwow plate, eaten hot under a dusting of icing sugar, often with a scoop of whipped cream or vanilla ice cream alongside.
+The Native American powwow plate: pillowy fried-bread disks topped with a thick warm Lakota berry sauce called wojapi, traditionally made with chokecherries and sweetened with maple. The history is not simple. Frybread comes from the period of forced relocation and government ration commodities, and many Native cooks have a complicated relationship with it; today it stands at gatherings as a symbol of resilience and community. Wojapi is the older partner: a simmered berry sauce mashed jammy and lightly thickened, made all summer from whatever berries were ripe (chokecherries, juneberries, blueberries), now usually finished with maple syrup and a touch of vanilla. The combination is the traditional powwow plate, eaten hot under a dusting of icing sugar, often with a scoop of whipped cream or vanilla ice cream alongside.
 
 ## Ingredients
 

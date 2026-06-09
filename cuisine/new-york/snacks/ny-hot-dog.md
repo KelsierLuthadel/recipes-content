@@ -2,7 +2,7 @@
 
 ![NY Hot Dog](resources/ny-hot-dog.jpg)
 
-*New York's iconic street-cart hot dog: a steamed all-beef "dirty water dog" hot dog tucked into a soft white bun, topped with tangy sauerkraut and the canonical NY onion sauce (chopped onions in tomato-paprika-cumin sauce), and yellow mustard. The Sabrett vendor cart classic.*
+*New York's iconic street-cart hot dog: a steamed all-beef "dirty water dog" hot dog tucked into a soft white bun, topped with tangy sauerkraut and the traditional NY onion sauce (chopped onions in tomato-paprika-cumin sauce), and yellow mustard. The Sabrett vendor cart classic.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The New York hot dog is one of America's most iconic street foods and the symbol of NYC street-cart vending: an all-beef hot dog (canonical brand: Sabrett, made in the Bronx; or Nathan's from Coney Island) cooked in simmering water (the canonical "dirty water dog" street-cart method; the hot dogs sit in slowly simmering broth for hours till plumped and tender), placed in a soft white bun, and topped with the two canonical NY toppings: sauerkraut (drained, sometimes warmed) and the famous NY onion sauce (chopped onions cooked down in tomato paste, paprika, cumin, salt and water into a brick-red savoury-sweet onion compote). Finished with yellow mustard (NEVER ketchup on a NY dog; that's a sin).
+The New York hot dog is one of America's most iconic street foods and the symbol of NYC street-cart vending: an all-beef hot dog (traditional brand: Sabrett, made in the Bronx; or Nathan's from Coney Island) cooked in simmering water (the traditional "dirty water dog" street-cart method; the hot dogs sit in slowly simmering broth for hours till plumped and tender), placed in a soft white bun, and topped with the two traditional NY toppings: sauerkraut (drained, sometimes warmed) and the famous NY onion sauce (chopped onions cooked down in tomato paste, paprika, cumin, salt and water into a brick-red savoury-sweet onion compote). Finished with yellow mustard (NEVER ketchup on a NY dog; that's a sin).
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ The New York hot dog is one of America's most iconic street foods and the symbol
 - 8 soft hot dog buns (the soft white kind, not artisan)
 - 2 litres water (for simmering)
 
-### NY onion sauce (canonical)
+### NY onion sauce (traditional)
 - 4 large onions (chopped)
 - 3 tablespoons tomato paste
 - 2 tablespoons vegetable oil
@@ -40,7 +40,7 @@ The New York hot dog is one of America's most iconic street foods and the symbol
 - Plenty of yellow mustard (Gulden's or French's)
 - Spicy brown mustard (optional)
 
-### Optional (less canonical)
+### Optional (less traditional)
 - Sweet pickle relish
 - Chopped raw onion
 - Hot sauce
@@ -78,7 +78,7 @@ The New York hot dog is one of America's most iconic street foods and the symbol
 ## Notes
 - **All-beef hot dogs:** Sabrett or Nathan's.
 - **Simmer not grill:** the dirty-water-dog method.
-- **NY onion sauce canonical:** the signature.
+- **NY onion sauce traditional:** the signature.
 - **NO ketchup:** that's a sin.
 
 ## Variations

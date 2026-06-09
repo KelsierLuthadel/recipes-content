@@ -129,8 +129,8 @@ Cooked too long, or cut with the grain instead of against. Slice thinly across t
 - [Red Curry Paste](red.md): the close cousin.
 - [Massaman](massaman.md): the slow-cooked variant.
 - [Coconut Milk Technique](coconut-milk.md): the cooking method.
-- [Beef Panang](../../cuisine/thai/beef-panang.md): the canonical Thai-restaurant dish.
-- [Panang Curry Paste recipe](../../cuisine/thai/pastes/panang-curry-paste.md): canonical paste.
+- [Beef Panang](../../cuisine/thai/beef-panang.md): the traditional Thai-restaurant dish.
+- [Panang Curry Paste recipe](../../cuisine/thai/pastes/panang-curry-paste.md): traditional paste.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
 
 ## Storage

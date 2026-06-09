@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbon to Porto. Slices of pork loin (paper-thin, across the grain) marinate for a couple of hours in white wine, garlic, paprika, bay and black pepper, then go into a screaming-hot pan with olive oil and a knob of butter for sixty seconds a side. The marinade reduces in the pan to a salty, winey sauce, which gets ladled over a halved papo-seco roll along with the pork. Add mustard, or a squirt of piri-piri, and you've nailed it. Eaten standing at the counter with a glass of Sagres beer, or in Porto with a Super Bock.
+Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbon to Porto. Slices of pork loin (paper-thin, across the grain) marinate for a couple of hours in white wine, garlic, paprika, bay and black pepper, then go into a screaming-hot pan with olive oil and a knob of butter for sixty seconds a side. The marinade reduces in the pan to a salty, winey sauce, which gets ladled over a halved papo-seco roll along with the pork. Add mustard, or a squirt of piri-piri, and you've nailed it. Eat standing at the counter with a glass of Sagres beer, or in Porto with a Super Bock.
 
 ## Ingredients
 

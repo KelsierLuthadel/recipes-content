@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-A Cambodian banana flower salad, the kind of bright herby starter that opens a Khmer meal. You slice banana flower thin and submerge it immediately in lemon water to stop the browning (banana flower oxidises within seconds of cutting, going from pale ivory to brown). Tofu cubes (or shredded chicken in the non-vegetarian version) join for substance. Peanuts toast in a dry pan; shallots fry crisp in oil. The dressing is lime, palm sugar, soy and chilli pounded together in a mortar, and everything tosses with fresh herbs at the last minute - mint, coriander, Thai basil, whatever is around. Eaten as a starter or alongside grilled meat, the bitter floral note of the banana flower balanced by the salty-sweet dressing and the crunch of peanuts.
+A Cambodian banana flower salad, the kind of bright herby starter that opens a Khmer meal. You slice banana flower thin and submerge it immediately in lemon water to stop the browning (banana flower oxidises within seconds of cutting, going from pale ivory to brown). Tofu cubes (or shredded chicken in the non-vegetarian version) join for substance. Peanuts toast in a dry pan; shallots fry crisp in oil. The dressing is lime, palm sugar, soy and chilli pounded together in a mortar, and everything tosses with fresh herbs at the last minute - mint, coriander, Thai basil, whatever is around. Eat as a starter or alongside grilled meat, the bitter floral note of the banana flower balanced by the salty-sweet dressing and the crunch of peanuts.
 
 ## Ingredients
 

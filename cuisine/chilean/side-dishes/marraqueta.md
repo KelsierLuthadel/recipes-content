@@ -2,7 +2,7 @@
 
 ![Marraqueta](resources/marraqueta.jpg)
 
-*Chile's everyday bread: a small crusty four-segment roll that pulls apart cleanly along its deep score. Eaten with butter, avocado or cheese.*
+*Chile's everyday bread: a small crusty four-segment roll that pulls apart cleanly along its deep score. Eat with butter, avocado or cheese.*
 
 **Serves:** 8 (makes 8 small rolls, in 4-segment shapes)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-Chile's everyday bread, the small crusty roll with four lobes that pulls apart cleanly along its deep score. You make a lean dough from bread flour, yeast, water and salt (no sugar, no fat) and give it a long first rise of an hour to develop flavour. Divide into sixteen small balls, pair into four-lobe shapes (two balls side-by-side, pressed in the middle to form four humps), and let them rise briefly again. Bake at 230°C with steam (a tray of hot water at the bottom of the oven) until the rolls are deeply crusty on the outside and tender inside. Eaten warm, torn open and spread with butter, mashed avocado, or a slice of fresh cheese. The morning bread of Chile.
+Chile's everyday bread, the small crusty roll with four lobes that pulls apart cleanly along its deep score. You make a lean dough from bread flour, yeast, water and salt (no sugar, no fat) and give it a long first rise of an hour to develop flavour. Divide into sixteen small balls, pair into four-lobe shapes (two balls side-by-side, pressed in the middle to form four humps), and let them rise briefly again. Bake at 230°C with steam (a tray of hot water at the bottom of the oven) until the rolls are deeply crusty on the outside and tender inside. Eat warm, torn open and spread with butter, mashed avocado, or a slice of fresh cheese. The morning bread of Chile.
 
 ## Ingredients
 

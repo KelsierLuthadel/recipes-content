@@ -2,7 +2,7 @@
 
 ![Leverpostej](resources/leverpostej.jpg)
 
-*Denmark's everyday liver pâté: pork liver baked in a loaf with bacon, onion, milk, eggs and a touch of anchovy and allspice into a smooth, savoury pâté that's sliced cold and spread or laid on rye bread. The Danish school-lunch and smørrebrød cornerstone; the canonical "this is what's in every Danish fridge" item.*
+*Denmark's everyday liver pâté: pork liver baked in a loaf with bacon, onion, milk, eggs and a touch of anchovy and allspice into a smooth, savoury pâté that's sliced cold and spread or laid on rye bread. The Danish school-lunch and smørrebrød cornerstone; the traditional "this is what's in every Danish fridge" item.*
 
 **Serves:** 8-10 (one loaf - refrigerates for the week)
 
@@ -61,8 +61,8 @@ Leverpostej is one of the most ubiquitous foods in Denmark. Every supermarket se
 4. Take off the heat; cool 5 minutes.
 
 ### Stage 3 - Grind the meat
-1. **Option A (food processor - quicker, less canonical):** put the chopped liver, pork fat / bacon, sautéed onion-garlic, and chopped anchovies into the food processor. Pulse till the mixture is finely chopped but not a complete purée (some texture is desirable). Transfer to a large bowl.
-2. **Option B (mincer - canonical):** pass the liver and pork fat through a meat mincer (medium plate) twice. Combine with the chopped onion-garlic and anchovies in a large bowl.
+1. **Option A (food processor - quicker, less traditional):** put the chopped liver, pork fat / bacon, sautéed onion-garlic, and chopped anchovies into the food processor. Pulse till the mixture is finely chopped but not a complete purée (some texture is desirable). Transfer to a large bowl.
+2. **Option B (mincer - traditional):** pass the liver and pork fat through a meat mincer (medium plate) twice. Combine with the chopped onion-garlic and anchovies in a large bowl.
 
 ### Stage 4 - Make the binder
 1. In a separate bowl, whisk the eggs, milk, cream, and flour together until smooth (no lumps).
@@ -99,10 +99,10 @@ Leverpostej is one of the most ubiquitous foods in Denmark. Every supermarket se
 5. **Straight from the tub (the quick-snack version):** spread on rye bread or crisp bread with a knife; sprinkle with chopped raw onion and salt.
 
 ## Notes
-- **Pork liver + pork fat:** the canonical Danish ratio. Substitute back-bacon trim if pork fat is unavailable.
+- **Pork liver + pork fat:** the traditional Danish ratio. Substitute back-bacon trim if pork fat is unavailable.
 - **Anchovies in the mix:** the Danish umami secret. Don't skip - they melt into the loaf and you can't taste them but the depth comes from them.
 - **Water bath (bain-marie):** essential for gentle even cooking. Without it the loaf cracks and dries out.
-- **Bacon strips on top:** the canonical Danish look. The bacon doesn't fully crisp during the water-bath bake - that's expected.
+- **Bacon strips on top:** the traditional Danish look. The bacon doesn't fully crisp during the water-bath bake - that's expected.
 - **Make ahead:** the loaf improves in the first 24 hours as the flavours marry.
 
 ## Variations

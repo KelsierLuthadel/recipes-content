@@ -128,7 +128,7 @@ Coconut milk diluted with stock too much, or the cream didn't crack at the start
 - [Yellow Curry Paste](yellow.md): the close cousin; both have Indian influence.
 - [Red Curry Paste](red.md): the everyday fast curry.
 - [Coconut Milk Technique](coconut-milk.md): the cracking-cream method.
-- [Massaman Curry Paste recipe](../../base-ingredients/curry-paste/masaman-paste.md): canonical recipe.
+- [Massaman Curry Paste recipe](../../base-ingredients/curry-paste/masaman-paste.md): traditional recipe.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
 
 ## Storage

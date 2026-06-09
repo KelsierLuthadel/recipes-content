@@ -2,7 +2,7 @@
 
 ![Bannann Peze](resources/bannann-peze.jpg)
 
-*Haiti's twice-fried plantains: green plantain rounds fried gently till tender, smashed flat with a wooden press, then fried again at high heat till the edges go crisp and the centres stay tender. Eaten with pikliz at every meal and as a street snack on the side of every road.*
+*Haiti's twice-fried plantains: green plantain rounds fried gently till tender, smashed flat with a wooden press, then fried again at high heat till the edges go crisp and the centres stay tender. Eat with pikliz at every meal and as a street snack on the side of every road.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Bannann peze (tostones in the Spanish-speaking Caribbean) is Haiti's twice-fried plantain side: crisp-edged tender-centred plantain discs that appear alongside almost every Haitian meal and as a street snack from carts on every Port-au-Prince street. Green plantain is peeled, cut into thick rounds, fried gently till the inside goes tender, lifted out and smashed flat with a press or the bottom of a bottle, then fried again at higher heat till the edges go crisp and gold. The name translates as "pressed plantain"; the press is what defines the dish. The plantain must be properly green (faintest yellow blush at the tips at most); yellow-with-black-spots has crossed into sweet territory and won't work. First fry at 160°C cooks through without browning, second fry at 180 to 190°C crisps the smashed edges. Salt while hot. Eaten immediately; bannann peze does not wait.
+Bannann peze (tostones in the Spanish-speaking Caribbean) is Haiti's twice-fried plantain side: crisp-edged tender-centred plantain discs that appear alongside almost every Haitian meal and as a street snack from carts on every Port-au-Prince street. Green plantain is peeled, cut into thick rounds, fried gently till the inside goes tender, lifted out and smashed flat with a press or the bottom of a bottle, then fried again at higher heat till the edges go crisp and gold. The name translates as "pressed plantain"; the press is what defines the dish. The plantain must be properly green (faintest yellow blush at the tips at most); yellow-with-black-spots has crossed into sweet territory and won't work. First fry at 160°C cooks through without browning, second fry at 180 to 190°C crisps the smashed edges. Salt while hot. Eat immediately; bannann peze does not wait.
 
 ## Ingredients
 

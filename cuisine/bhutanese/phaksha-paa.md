@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himalayan border showing in the dish. You cut pork belly into thumb-length strips and start it on its own in a heavy pot to render the fat and brown the meat properly, the rendered juices becoming the cooking fat for everything that follows. Then in go whole dried red chillies, daikon cut into chunks, ginger, garlic, a measure of soy and a generous spoon of Sichuan pepper, and the lot braises gently in the pork's own rendered juices until the radish has gone soft and the sauce has thickened into a glossy red-brown lacquer that coats the pork. The whole chillies sit in the pot still intact, and the cook at the table can choose to eat them or push them to one side. Eaten with red Bhutanese rice, the broth ladled over.
+A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himalayan border showing in the dish. You cut pork belly into thumb-length strips and start it on its own in a heavy pot to render the fat and brown the meat properly, the rendered juices becoming the cooking fat for everything that follows. Then in go whole dried red chillies, daikon cut into chunks, ginger, garlic, a measure of soy and a generous spoon of Sichuan pepper, and the lot braises gently in the pork's own rendered juices until the radish has gone soft and the sauce has thickened into a glossy red-brown lacquer that coats the pork. The whole chillies sit in the pot still intact, and the cook at the table can choose to eat them or push them to one side. Eat with red Bhutanese rice, the broth ladled over.
 
 ## Ingredients
 
@@ -71,7 +71,7 @@ A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himal
 - **Dried chillies, not fresh:** the dish is built on dried red chilli, which gives a smoky, earthy heat. Fresh chillies belong in ema datshi, not paa. Kashmiri chillies are mild and a good entry point; chillies de árbol are hotter and closer to Bhutanese intensity.
 - **Pork belly with skin:** the skin softens during braising and contributes body to the sauce. Boneless skin-on belly is ideal. Skinless belly works but the dish is leaner.
 - **Sichuan pepper is the secret aromatic:** called "yer ma" in Dzongkha, Sichuan pepper is widely used in Bhutanese cooking and gives the floral, lemony, tongue-buzzing note that distinguishes the dish from a generic spicy pork.
-- **Daikon is the canonical vegetable:** white radish is the traditional partner; potato or turnip can substitute but radish gives the right slightly bitter, slightly sweet counterpoint to the pork fat.
+- **Daikon is the traditional vegetable:** white radish is the traditional partner; potato or turnip can substitute but radish gives the right slightly bitter, slightly sweet counterpoint to the pork fat.
 - **Bhutanese red rice:** the short-grain red rice from Paro and Bumthang is the proper accompaniment. Brown basmati or even ordinary white rice work fine if you cannot find it.
 
 ## Variations

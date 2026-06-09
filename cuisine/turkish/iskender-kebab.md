@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-İskender kebab is one of Turkey's most iconic restaurant dishes, named after İskender Efendi, who invented it in the late 19th century in the city of Bursa. The canonical version uses döner-style lamb sliced from a vertical spit; the home version uses lamb leg or shoulder marinated overnight in yogurt, garlic and spices, then grilled or pan-fried in batches and sliced thin. The result is excellent either way. Torn squares of pita fry in butter or toast in the oven till dark golden and crisp (soggy bread ruins the dish), then get layered with the lamb and ladled with a hot fresh tomato sauce cooked down with garlic, butter, salt and a small amount of red pepper paste (biber salçası). The tereyağı finish is essential: butter melted till the milk solids turn nutty-brown, then poured sizzling over the assembled dish at the moment of serving. A study in textures: crisp bread soaked with tomato and butter, tender lamb, cooling yogurt on the side, and a quartered grilled tomato and pepper for sweetness.
+İskender kebab is one of Turkey's most iconic restaurant dishes, named after İskender Efendi, who invented it in the late 19th century in the city of Bursa. The traditional version uses döner-style lamb sliced from a vertical spit; the home version uses lamb leg or shoulder marinated overnight in yogurt, garlic and spices, then grilled or pan-fried in batches and sliced thin. The result is excellent either way. Torn squares of pita fry in butter or toast in the oven till dark golden and crisp (soggy bread ruins the dish), then get layered with the lamb and ladled with a hot fresh tomato sauce cooked down with garlic, butter, salt and a small amount of red pepper paste (biber salçası). The tereyağı finish is essential: butter melted till the milk solids turn nutty-brown, then poured sizzling over the assembled dish at the moment of serving. A study in textures: crisp bread soaked with tomato and butter, tender lamb, cooling yogurt on the side, and a quartered grilled tomato and pepper for sweetness.
 
 ## Ingredients
 
@@ -110,7 +110,7 @@
 ## Notes
 - **Marinate properly:** the 4-hour minimum (overnight ideal) marination in yogurt-and-spices is essential. The yogurt tenderises the lamb; the spices penetrate. Skipping the marinade gives bland tough lamb.
 - **Crispy bread base:** the bread must be properly crisp before assembly. Soggy bread ruins iskender. Either oven-toast or fry in butter.
-- **Browned butter is the magic touch:** the moment of pouring hot nutty browned butter over the plate is the canonical iskender moment. Don't skip; don't use raw melted butter (the nutty flavour is essential).
+- **Browned butter is the magic touch:** the moment of pouring hot nutty browned butter over the plate is the traditional iskender moment. Don't skip; don't use raw melted butter (the nutty flavour is essential).
 - **Serve immediately:** the dish is best when everything is hot and the bread is just starting to soak up the sauce. Assemble at the table or just before serving.
 - **Don't use lean lamb:** the lamb should have some fat for proper juicy slices. Lamb leg can work; lamb shoulder is fattier and better.
 
@@ -121,7 +121,7 @@
 **Mild iskender:** skip the Aleppo pepper and red pepper paste; gives a milder version for children or non-spice-tolerant diners.
 
 ## Serving
-On warm shallow bowls or plates; the dish is meant to be eaten with a fork and knife. With ayran (salted yogurt drink), a glass of rakı (the canonical aniseed spirit for Turkish meat dishes), or fresh tea after the meal. As the centrepiece of a Turkish restaurant meal or as a special family dinner.
+On warm shallow bowls or plates; the dish is meant to be eaten with a fork and knife. With ayran (salted yogurt drink), a glass of rakı (the traditional aniseed spirit for Turkish meat dishes), or fresh tea after the meal. As the centrepiece of a Turkish restaurant meal or as a special family dinner.
 
 ## Storage
 - Best eaten immediately; the bread goes off-texture as it sits.

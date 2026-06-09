@@ -2,7 +2,7 @@
 
 ![Remoulade Sauce](resources/remoulade-sauce.jpg)
 
-*Louisiana's red remoulade: a creamy spicy sauce of mayonnaise, Creole mustard, ketchup, horseradish, paprika, Worcestershire, garlic and lemon, blended into a thick orange-red dipping sauce. The canonical dip for shrimp, crab cakes, fried catfish, and po-boys.*
+*Louisiana's red remoulade: a creamy spicy sauce of mayonnaise, Creole mustard, ketchup, horseradish, paprika, Worcestershire, garlic and lemon, blended into a thick orange-red dipping sauce. The traditional dip for shrimp, crab cakes, fried catfish, and po-boys.*
 
 **Serves:** Makes 400 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** None (chill 1 hour)
 
 ## Overview
-Louisiana remoulade is the canonical Creole-Louisiana dipping sauce, distinct from the French original (which is mayonnaise-based without ketchup) and the Maryland version (which uses Old Bay): mayonnaise as the base, Creole mustard, ketchup (or paprika for colour), prepared horseradish, Worcestershire sauce, hot sauce, garlic, chopped capers, finely chopped spring onion, parsley, lemon juice, paprika, Cajun seasoning, cayenne. The traditional New Orleans "red" remoulade uses ketchup for the canonical orange-red colour; the "white" remoulade skips the ketchup (more like the French). Used as a dip for boiled shrimp (classic), crab cakes, fried catfish, fried oysters, po-boys, hush puppies.
+Louisiana remoulade is the traditional Creole-Louisiana dipping sauce, distinct from the French original (which is mayonnaise-based without ketchup) and the Maryland version (which uses Old Bay): mayonnaise as the base, Creole mustard, ketchup (or paprika for colour), prepared horseradish, Worcestershire sauce, hot sauce, garlic, chopped capers, finely chopped spring onion, parsley, lemon juice, paprika, Cajun seasoning, cayenne. The traditional New Orleans "red" remoulade uses ketchup for the traditional orange-red colour; the "white" remoulade skips the ketchup (more like the French). Used as a dip for boiled shrimp (classic), crab cakes, fried catfish, fried oysters, po-boys, hush puppies.
 
 ## Ingredients
 

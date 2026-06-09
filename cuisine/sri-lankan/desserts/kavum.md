@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Kavum (or konda kavum, "topknot oil cake") is the centrepiece of every Sinhala and Tamil New Year sweet plate in April. It's made from rice flour and dark palm treacle stirred to a thick batter, scooped onto an oiled wooden ladle and lowered into hot oil; once frying, a special pointed stick (the kavum kotuwa) is used to pull a tall central "tail" from the middle as it sets, giving the kavum its distinctive topknot shape. The exterior fries dark and crisp; the interior stays soft, almost moist, sweet with treacle. Eaten by hand at the New Year aluth avurudda meal alongside kiribath, with sweets like kokis and aluwa rounding out the plate. Sold at every Sri Lankan grocery in stacked plastic boxes year-round, but homemade is the festive way.
+Kavum (or konda kavum, "topknot oil cake") is the centrepiece of every Sinhala and Tamil New Year sweet plate in April. It's made from rice flour and dark palm treacle stirred to a thick batter, scooped onto an oiled wooden ladle and lowered into hot oil; once frying, a special pointed stick (the kavum kotuwa) is used to pull a tall central "tail" from the middle as it sets, giving the kavum its distinctive topknot shape. The exterior fries dark and crisp; the interior stays soft, almost moist, sweet with treacle. Eat by hand at the New Year aluth avurudda meal alongside kiribath, with sweets like kokis and aluwa rounding out the plate. Sold at every Sri Lankan grocery in stacked plastic boxes year-round, but homemade is the festive way.
 
 ## Ingredients
 

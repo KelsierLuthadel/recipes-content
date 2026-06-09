@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Gremolata (or "gremolada" in Milanese dialect) is one of Italian cooking's most iconic and simple finishing touches: a vivid combination of finely grated lemon zest, very finely chopped garlic and finely chopped fresh flat-leaf parsley, mixed together at the last minute and scattered over rich dishes as a flavour-bomb finish. Best known as the canonical topping for osso buco (the Milanese braised veal shank), gremolata also works brilliantly on grilled fish, roasted vegetables, creamy soups, risotto, grilled meats, pasta - anywhere a bright citrus-garlic-herb lift is wanted. The dish is essentially three ingredients: zest, garlic, parsley. The simplicity is the point. Lemon zest only, never juice; just the yellow, avoiding the bitter white pith. The garlic finely chopped, not crushed or minced, into small but visible pieces. Mixed just before serving; both the garlic and the zest dry out and fade within a couple of hours.
+Gremolata (or "gremolada" in Milanese dialect) is one of Italian cooking's most iconic and simple finishing touches: a vivid combination of finely grated lemon zest, very finely chopped garlic and finely chopped fresh flat-leaf parsley, mixed together at the last minute and scattered over rich dishes as a flavour-bomb finish. Best known as the traditional topping for osso buco (the Milanese braised veal shank), gremolata also works brilliantly on grilled fish, roasted vegetables, creamy soups, risotto, grilled meats, pasta - anywhere a bright citrus-garlic-herb lift is wanted. The dish is essentially three ingredients: zest, garlic, parsley. The simplicity is the point. Lemon zest only, never juice; just the yellow, avoiding the bitter white pith. The garlic finely chopped, not crushed or minced, into small but visible pieces. Mixed just before serving; both the garlic and the zest dry out and fade within a couple of hours.
 
 ## Ingredients
 
@@ -56,7 +56,7 @@ Gremolata (or "gremolada" in Milanese dialect) is one of Italian cooking's most 
 **Persillade (French version):** skip the lemon zest; just parsley + garlic; French equivalent.
 
 ## Serving
-On osso buco (the canonical use), on grilled fish, on roasted vegetables, on creamy soups, on grilled meats, on risotto. Anywhere a bright finish is wanted.
+On osso buco (the traditional use), on grilled fish, on roasted vegetables, on creamy soups, on grilled meats, on risotto. Anywhere a bright finish is wanted.
 
 ## Storage
 - Best made fresh.

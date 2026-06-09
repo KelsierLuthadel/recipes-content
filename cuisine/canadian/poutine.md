@@ -11,19 +11,19 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food export and the dish that, more than any other, has come to symbolise Canadian comfort food. Born in rural Quebec in the 1950s and spread nationwide by the 1980s, it's now sold from Vancouver to Halifax. The construction is bracingly specific; three components, none complicated, but each one matters. The fries are floury potatoes cut about 1 cm thick and double-fried (a single-fry chip goes limp under the gravy in thirty seconds, so the second crisping pass is non-negotiable). The cheese curds must be fresh, at room temperature, and they must audibly squeak when bitten; the squeak is the test, and refrigerated curds more than twelve hours old don't squeak. The gravy is a deeply savoury brown built from a roux and beef-or-chicken stock with a touch of vinegar and pepper to lift it; a thin watery gravy ruins the whole plate. Assembled hot fries-curds-gravy in that order so the gravy partially melts the curds without dissolving them. Eaten immediately with a fork.
+Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food export and the dish that, more than any other, has come to symbolise Canadian comfort food. Born in rural Quebec in the 1950s and spread nationwide by the 1980s, it's now sold from Vancouver to Halifax. The construction is bracingly specific; three components, none complicated, but each one matters. The fries are floury potatoes cut about 1 cm thick and double-fried (a single-fry chip goes limp under the gravy in thirty seconds, so the second crisping pass is non-negotiable). The cheese curds must be fresh, at room temperature, and they must audibly squeak when bitten; the squeak is the test, and refrigerated curds more than twelve hours old don't squeak. The gravy is a deeply savoury brown built from a roux and beef-or-chicken stock with a touch of vinegar and pepper to lift it; a thin watery gravy ruins the whole plate. Assembled hot fries-curds-gravy in that order so the gravy partially melts the curds without dissolving them. Eat immediately with a fork.
 
 ## Ingredients
 
 ### The fries (twice-fried, see [Belgian frites](../belgian/side-dishes/belgian-frites.md) for full method)
 - 1.2 kg floury potatoes (Yukon Gold, Russet, Maris Piper)
-- 2 litres refined sunflower or groundnut oil (or beef tallow for the canonical taste)
+- 2 litres refined sunflower or groundnut oil (or beef tallow for the traditional taste)
 - Fine sea salt
 
 ### The brown gravy
 - 60 g unsalted butter
 - 60 g plain flour
-- 500 ml hot beef stock (homemade or good shop-bought; the Quebec canonical is 50/50 beef + chicken)
+- 500 ml hot beef stock (homemade or good shop-bought; the Quebec traditional is 50/50 beef + chicken)
 - 250 ml hot chicken stock
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon soy sauce (gives umami and colour depth)
@@ -100,7 +100,7 @@ Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food expo
 **Quebec-style poutine "all-dressed":** add chopped pickles, raw onion, a dribble of yellow mustard on top - the diner variant.
 
 ## Serving
-At a Quebec roadside chip-stand (the canonical setting; La Banquise in Montreal is the famous tourist spot but most Quebecois eat it at their local cabane-à-patates) · at a Quebec hockey-arena snack bar · at a Canadian university dining hall at 2 am after a night out · at a Canadian winter ski-resort lodge · at a Toronto food-truck festival · at home as a Friday-night Canadian comfort plate.
+At a Quebec roadside chip-stand (the traditional setting; La Banquise in Montreal is the famous tourist spot but most Quebecois eat it at their local cabane-à-patates) · at a Quebec hockey-arena snack bar · at a Canadian university dining hall at 2 am after a night out · at a Canadian winter ski-resort lodge · at a Toronto food-truck festival · at home as a Friday-night Canadian comfort plate.
 
 ## Storage
 - Doesn't store. Eat within 5 minutes.

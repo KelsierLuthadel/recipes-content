@@ -2,7 +2,7 @@
 
 ![Fried Pickles](resources/fried-pickles.jpg)
 
-*Louisiana's tangy fried snack: dill pickle chips drained and patted dry, dredged in seasoned cornmeal batter, deep-fried till crispy golden outside while the pickle inside stays tangy-juicy. The Louisiana bar snack; the canonical accompaniment to cold beer and football.*
+*Louisiana's tangy fried snack: dill pickle chips drained and patted dry, dredged in seasoned cornmeal batter, deep-fried till crispy golden outside while the pickle inside stays tangy-juicy. The Louisiana bar snack; the traditional accompaniment to cold beer and football.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Louisiana fried pickles (also called fried pickle chips) are a Cajun-Southern bar snack and tailgate classic: dill pickle slices (sandwich-cut chips; not whole pickles) drained thoroughly and patted dry (the most critical step; wet pickles spatter and the coating slides off), dredged in buttermilk and a seasoned cornmeal-and-flour mixture, then deep-fried till the crust is deeply golden while the pickle inside stays tangy and slightly juicy. Served immediately with remoulade or ranch dressing. The dish allegedly originated in Mississippi but is canonical Louisiana bar food.
+Louisiana fried pickles (also called fried pickle chips) are a Cajun-Southern bar snack and tailgate classic: dill pickle slices (sandwich-cut chips; not whole pickles) drained thoroughly and patted dry (the most critical step; wet pickles spatter and the coating slides off), dredged in buttermilk and a seasoned cornmeal-and-flour mixture, then deep-fried till the crust is deeply golden while the pickle inside stays tangy and slightly juicy. Served immediately with remoulade or ranch dressing. The dish allegedly originated in Mississippi but is traditional Louisiana bar food.
 
 ## Ingredients
 
@@ -67,12 +67,12 @@ Louisiana fried pickles (also called fried pickle chips) are a Cajun-Southern ba
 
 ## Notes
 - **Pat pickles dry:** critical.
-- **Cornmeal canonical:** crispy texture.
+- **Cornmeal traditional:** crispy texture.
 - **Eat immediately:** lose crispness.
 
 ## Variations
 **Spear pickles:** use whole long spears; longer fry time.
-**With panko:** less canonical.
+**With panko:** less traditional.
 **Spicier:** double cayenne.
 **Baked (less crispy):** at 220°C with oil spray, 18 min.
 

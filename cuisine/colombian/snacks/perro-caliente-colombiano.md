@@ -88,7 +88,7 @@ The Colombian perro caliente is the maximalist answer to the American hot dog an
 ## Notes
 - **Chopped pineapple essential:** the distinguishing Colombian ingredient. Without it, you have a generic loaded hot dog.
 - **Crushed chips, not whole:** the texture is part of the experience.
-- **At least three sauces:** mustard + pink + garlic mayo is the canonical minimum.
+- **At least three sauces:** mustard + pink + garlic mayo is the traditional minimum.
 - **Eat fast:** the chips lose crunch quickly once they soak up sauce.
 - **Mess is part of the experience:** trying to eat tidily is a fool's errand.
 

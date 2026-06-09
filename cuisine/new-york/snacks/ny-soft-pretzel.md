@@ -2,7 +2,7 @@
 
 ![NY Soft Pretzel](resources/ny-soft-pretzel.jpg)
 
-*New York's classic street-cart snack: a soft yeasted pretzel dough shaped into the canonical twisted-loop pretzel shape, briefly dipped in baking-soda water bath for the deep brown crust, sprinkled with coarse salt, and baked till deeply golden. The Midtown street-vendor classic; eaten with yellow mustard.*
+*New York's classic street-cart snack: a soft yeasted pretzel dough shaped into the traditional twisted-loop pretzel shape, briefly dipped in baking-soda water bath for the deep brown crust, sprinkled with coarse salt, and baked till deeply golden. The Midtown street-vendor classic; eaten with yellow mustard.*
 
 **Serves:** Makes 8 pretzels
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The New York soft pretzel is a fixture of Manhattan street vendors (along with the hot dog cart and the chestnut roaster), particularly around Midtown, Times Square, Central Park and the Theatre District: a soft yeasted bread dough (flour, water, yeast, salt, brown sugar, a touch of butter) shaped into the canonical twisted-loop pretzel shape, briefly dipped or boiled in a baking-soda-water bath (the alkaline bath gives the canonical mahogany-brown crust and distinctive pretzel flavour; food-grade lye gives even more authentic but is dangerous to work with, so baking soda is safer), sprinkled generously with coarse pretzel salt or sea salt, and baked till deeply golden brown. Served warm with yellow mustard for dipping.
+The New York soft pretzel is a fixture of Manhattan street vendors (along with the hot dog cart and the chestnut roaster), particularly around Midtown, Times Square, Central Park and the Theatre District: a soft yeasted bread dough (flour, water, yeast, salt, brown sugar, a touch of butter) shaped into the traditional twisted-loop pretzel shape, briefly dipped or boiled in a baking-soda-water bath (the alkaline bath gives the traditional mahogany-brown crust and distinctive pretzel flavour; food-grade lye gives even more authentic but is dangerous to work with, so baking soda is safer), sprinkled generously with coarse pretzel salt or sea salt, and baked till deeply golden brown. Served warm with yellow mustard for dipping.
 
 ## Ingredients
 

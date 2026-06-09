@@ -2,7 +2,7 @@
 
 ![Lahori Chargha](resources/lahori-chargha.jpg)
 
-*The Lahori weekend feast bird: a whole chicken slashed, marinated in spiced yogurt for hours, steamed until tender then deep-fried until the skin crackles. Eaten with raita, naan and a tomato-onion salad.*
+*The Lahori weekend feast bird: a whole chicken slashed, marinated in spiced yogurt for hours, steamed until tender then deep-fried until the skin crackles. Eat with raita, naan and a tomato-onion salad.*
 
 **Serves:** 4-6
 

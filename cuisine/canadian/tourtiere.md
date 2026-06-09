@@ -11,14 +11,14 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve (le reveillon) but eaten throughout the cold months and sliced cold for Boxing Day lunch. Minced pork is the canonical base, sometimes with a small proportion of beef or veal for body; the Lac-Saint-Jean rural variant uses cubed game meats but that's a different recipe entirely. The Quebec spice profile (cinnamon, cloves, allspice and summer savoury, sarriette) is what makes tourtière Quebec rather than a generic meat pie; this warm, slightly sweet, faintly resinous combination is the dish's defining flavour signature, and substituting any of these spices changes the dish. Mashed potato bound through the cooked filling is the Quebec trick that gives the pie body; pies bound only with egg or breadcrumbs give a drier interior that misses the silky French-Canadian texture. The pastry is a classic French shortcrust, top and bottom crust. Served hot or warm with the canonical Quebec accompaniments: a homemade tomato chutney (ketchup aux fruits), pickled silverskin onions, and a glass of cold cider.
+Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve (le reveillon) but eaten throughout the cold months and sliced cold for Boxing Day lunch. Minced pork is the traditional base, sometimes with a small proportion of beef or veal for body; the Lac-Saint-Jean rural variant uses cubed game meats but that's a different recipe entirely. The Quebec spice profile (cinnamon, cloves, allspice and summer savoury, sarriette) is what makes tourtière Quebec rather than a generic meat pie; this warm, slightly sweet, faintly resinous combination is the dish's defining flavour signature, and substituting any of these spices changes the dish. Mashed potato bound through the cooked filling is the Quebec trick that gives the pie body; pies bound only with egg or breadcrumbs give a drier interior that misses the silky French-Canadian texture. The pastry is a classic French shortcrust, top and bottom crust. Served hot or warm with the traditional Quebec accompaniments: a homemade tomato chutney (ketchup aux fruits), pickled silverskin onions, and a glass of cold cider.
 
 ## Ingredients
 
 ### The shortcrust pastry (for a 23 cm pie, top + bottom)
 - 350 g plain flour
 - 1 teaspoon fine sea salt
-- 175 g cold unsalted butter, cubed (or 130 g butter + 45 g lard, the canonical Quebec mix)
+- 175 g cold unsalted butter, cubed (or 130 g butter + 45 g lard, the traditional Quebec mix)
 - 1 large egg, lightly beaten
 - 4-6 tablespoons ice-cold water
 - 1 egg yolk + 1 tablespoon milk (for glazing)
@@ -116,7 +116,7 @@ Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve
 **Acadian variant (tourtière acadienne):** add a layer of sliced potato in the middle, more allspice, less cinnamon - the Maritime cousin.
 
 ## Serving
-At a Quebec Christmas Eve reveillon (the canonical setting; after midnight Mass) · at a Quebec sugar-shack lunch (cabane à sucre) · as Boxing Day lunch with leftover salads · at a Quebec funeral wake · as a working-day winter dinner with cider · as a packed lunch sliced cold (the Quebec lunchbox equivalent of pork pie).
+At a Quebec Christmas Eve reveillon (the traditional setting; after midnight Mass) · at a Quebec sugar-shack lunch (cabane à sucre) · as Boxing Day lunch with leftover salads · at a Quebec funeral wake · as a working-day winter dinner with cider · as a packed lunch sliced cold (the Quebec lunchbox equivalent of pork pie).
 
 ## Storage
 - Refrigerates 4 days. Eat cold or reheat individual slices in a 180°C oven 15 minutes.

@@ -2,7 +2,7 @@
 
 ![Arroz Atollado](resources/arroz-atollado.jpg)
 
-*Colombia's creamy rice with chicken and pork: medium-grain rice cooked into a deliberately wet creamy risotto-like stew with diced chicken, pork ribs, sausage, peas, potato and the canonical hogao base. The Valle del Cauca specialty, brothy and luxuriously creamy, eaten with a spoon from deep bowls.*
+*Colombia's creamy rice with chicken and pork: medium-grain rice cooked into a deliberately wet creamy risotto-like stew with diced chicken, pork ribs, sausage, peas, potato and the traditional hogao base. The Valle del Cauca specialty, brothy and luxuriously creamy, eaten with a spoon from deep bowls.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Arroz atollado means "stuck rice", a name that captures the texture: thick, dense, brothy. The canonical creamy rice dish of Colombia's Valle del Cauca region, and especially of Cali, where Caleño families make it for Sunday lunch and every típico Valluno restaurant keeps it on the menu. Medium-grain rice cooks into a deliberately wet, almost risotto-like stew alongside diced chicken thigh, pork ribs, sliced sausage, peas, potato and the canonical Colombian hogao (the onion-tomato-pepper base). The starch the rice releases is what gives the dish its signature creaminess; long-grain doesn't carry the same body, so reach for Calrose or similar. Unlike most rice dishes that aim for fluffy separated grains, arroz atollado is meant to be soupy-creamy, eaten with a spoon from deep bowls. Topped with chopped fresh coriander and served with lime wedges and ají picante on the side.
+Arroz atollado means "stuck rice", a name that captures the texture: thick, dense, brothy. The traditional creamy rice dish of Colombia's Valle del Cauca region, and especially of Cali, where Caleño families make it for Sunday lunch and every típico Valluno restaurant keeps it on the menu. Medium-grain rice cooks into a deliberately wet, almost risotto-like stew alongside diced chicken thigh, pork ribs, sliced sausage, peas, potato and the traditional Colombian hogao (the onion-tomato-pepper base). The starch the rice releases is what gives the dish its signature creaminess; long-grain doesn't carry the same body, so reach for Calrose or similar. Unlike most rice dishes that aim for fluffy separated grains, arroz atollado is meant to be soupy-creamy, eaten with a spoon from deep bowls. Topped with chopped fresh coriander and served with lime wedges and ají picante on the side.
 
 ## Ingredients
 

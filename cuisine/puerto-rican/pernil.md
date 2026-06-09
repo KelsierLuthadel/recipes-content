@@ -41,7 +41,7 @@ Pernil is Puerto Rico's most iconic celebration dish and the centrepiece of ever
 - 1 teaspoon salt (for the skin)
 
 ### To serve
-- Arroz con gandules (the canonical accompaniment)
+- Arroz con gandules (the traditional accompaniment)
 - Tostones (twice-fried green plantains)
 - Maduros (sweet plantains)
 - Pique (Puerto Rican vinegar hot sauce)
@@ -118,7 +118,7 @@ Pernil is Puerto Rico's most iconic celebration dish and the centrepiece of ever
 **Pernil al horno con piña:** add 1 sliced pineapple to the roasting tin in the last hour; the pineapple caramelises and adds a sweet-tart counterpoint.
 
 ## Serving
-On a wooden board at the centre of the table, with all the canonical sides arranged around. Drink: cold Medalla (Puerto Rico's local beer), a rum-based cocktail like a pina colada (invented in PR), or coquito (the Puerto Rican Christmas eggnog with coconut and rum). At Christmas Eve / Nochebuena, Three Kings Day, or any major Puerto Rican family celebration.
+On a wooden board at the centre of the table, with all the traditional sides arranged around. Drink: cold Medalla (Puerto Rico's local beer), a rum-based cocktail like a pina colada (invented in PR), or coquito (the Puerto Rican Christmas eggnog with coconut and rum). At Christmas Eve / Nochebuena, Three Kings Day, or any major Puerto Rican family celebration.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight.

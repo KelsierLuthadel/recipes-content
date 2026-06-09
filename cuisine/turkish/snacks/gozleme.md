@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Gözleme is Turkey's most iconic village flatbread, originally made by Anatolian women on a saç (the convex iron griddle over a wood fire) and now sold at every farmer's market, street stall and weekend pazar across Turkey. The dough is yufka, the paper-thin unleavened wheat-flour sheet used for börek; roll to 2 or 3 mm or it goes chewy. Canonical fillings are spinach and feta with onion and dill; minced lamb with onion, parsley and Aleppo pepper; potato with onion and cumin; or just melted cheese. The filling must be dry. Un-squeezed spinach or watery onion leaks and ruins the gözleme. Cooked on a hot dry pan (no oil) two or three minutes a side till the outside is patched-charred. Brushed with butter as it comes off the griddle, eaten immediately, cut into wedges.
+Gözleme is Turkey's most iconic village flatbread, originally made by Anatolian women on a saç (the convex iron griddle over a wood fire) and now sold at every farmer's market, street stall and weekend pazar across Turkey. The dough is yufka, the paper-thin unleavened wheat-flour sheet used for börek; roll to 2 or 3 mm or it goes chewy. Traditional fillings are spinach and feta with onion and dill; minced lamb with onion, parsley and Aleppo pepper; potato with onion and cumin; or just melted cheese. The filling must be dry. Un-squeezed spinach or watery onion leaks and ruins the gözleme. Cooked on a hot dry pan (no oil) two or three minutes a side till the outside is patched-charred. Brushed with butter as it comes off the griddle, eaten immediately, cut into wedges.
 
 ## Ingredients
 
@@ -134,7 +134,7 @@ Gözleme is Turkey's most iconic village flatbread, originally made by Anatolian
 **Mini gözleme:** divide the dough into 8 smaller pieces; fold into smaller pockets; great for party trays.
 
 ## Serving
-Hot off the griddle, cut into wedges or strips, with plain yogurt for dipping and lemon wedges for squeezing. With a cold glass of ayran (the canonical pairing) or hot sweet tea. As breakfast, lunch, or street snack. Often part of a weekend Turkish breakfast spread.
+Hot off the griddle, cut into wedges or strips, with plain yogurt for dipping and lemon wedges for squeezing. With a cold glass of ayran (the traditional pairing) or hot sweet tea. As breakfast, lunch, or street snack. Often part of a weekend Turkish breakfast spread.
 
 ## Storage
 - Best eaten fresh and hot.

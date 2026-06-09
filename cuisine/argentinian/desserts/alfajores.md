@@ -2,7 +2,7 @@
 
 ![Alfajores](resources/alfajores.jpg)
 
-*Argentina's iconic sandwich biscuit: two short, crumbly cornflour-and-vanilla biscuits sandwiched with a generous filling of dulce de leche, sometimes rolled in desiccated coconut around the dulce edge, sometimes dipped in chocolate. The canonical Argentine sweet; the country's most exported food; the dish that every Argentine bakery sells, every Argentine eats with coffee, every Argentine child grows up loving.*
+*Argentina's iconic sandwich biscuit: two short, crumbly cornflour-and-vanilla biscuits sandwiched with a generous filling of dulce de leche, sometimes rolled in desiccated coconut around the dulce edge, sometimes dipped in chocolate. The traditional Argentine sweet; the country's most exported food; the dish that every Argentine bakery sells, every Argentine eats with coffee, every Argentine child grows up loving.*
 
 **Serves:** Makes 24 alfajores
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Alfajores are Argentina's most universally beloved biscuit: the canonical "with-coffee" snack at every Argentine merienda (tea-time), the country's most exported food, present at every children's birthday party, every wedding favour and every supermarket biscuit aisle. Spanish-Moorish roots (the name comes from the Arabic al-hashu, "the stuffed one"); the modern Argentine form was refined in the 19th and 20th centuries. Three components: short crumbly biscuits made with a high proportion of cornflour to plain flour (the cornflour gives the canonical melt-in-mouth crumb, hence alfajores de maicena), a thick layer of dulce de leche sandwiched between two biscuits, and a coating: either desiccated coconut around the visible dulce edge or a chocolate dip. The biscuits bake to just pale golden, barely coloured, to keep the soft crumb. The dulce filling is generous; about a tablespoon per alfajor.
+Alfajores are Argentina's most universally beloved biscuit: the traditional "with-coffee" snack at every Argentine merienda (tea-time), the country's most exported food, present at every children's birthday party, every wedding favour and every supermarket biscuit aisle. Spanish-Moorish roots (the name comes from the Arabic al-hashu, "the stuffed one"); the modern Argentine form was refined in the 19th and 20th centuries. Three components: short crumbly biscuits made with a high proportion of cornflour to plain flour (the cornflour gives the traditional melt-in-mouth crumb, hence alfajores de maicena), a thick layer of dulce de leche sandwiched between two biscuits, and a coating: either desiccated coconut around the visible dulce edge or a chocolate dip. The biscuits bake to just pale golden, barely coloured, to keep the soft crumb. The dulce filling is generous; about a tablespoon per alfajor.
 
 ## Ingredients
 
@@ -55,7 +55,7 @@ Alfajores are Argentina's most universally beloved biscuit: the canonical "with-
 
 ### Stage 3 - Bake
 1. Bake for 12-15 minutes till the biscuits are JUST set but still pale.
-2. Don't brown them; the canonical alfajor biscuit is barely coloured.
+2. Don't brown them; the traditional alfajor biscuit is barely coloured.
 3. Cool on a wire rack completely (about 30 minutes).
 
 ### Stage 4 - Sandwich with dulce
@@ -64,7 +64,7 @@ Alfajores are Argentina's most universally beloved biscuit: the canonical "with-
 3. Top with the second biscuit (flat sides together).
 4. Press gently; the dulce should ooze slightly to the edge.
 
-### Stage 5a - Coconut coating (canonical maicena version)
+### Stage 5a - Coconut coating (traditional maicena version)
 1. Place the desiccated coconut on a plate.
 2. Roll the edge of each alfajor in the coconut so the visible dulce around the sandwich is coated.
 3. The result: a sandwich biscuit with a coconut-coated band around the dulce edge.
@@ -85,10 +85,10 @@ Alfajores are Argentina's most universally beloved biscuit: the canonical "with-
 2. Pack in paper cases or cellophane bags for gifts.
 
 ## Notes
-- **Cornflour-heavy dough:** the canonical alfajor crumb. Plain shortcrust gives a different (less delicate) texture.
+- **Cornflour-heavy dough:** the traditional alfajor crumb. Plain shortcrust gives a different (less delicate) texture.
 - **Bake pale:** the biscuits should be barely coloured. Browned alfajor biscuits are over-baked.
 - **Generous dulce:** don't skimp. About a tablespoon per alfajor; the dulce should ooze slightly.
-- **Three coating options:** coconut, chocolate, or icing sugar dust. All are canonical.
+- **Three coating options:** coconut, chocolate, or icing sugar dust. All are traditional.
 - **Rest 30 minutes:** lets the dulce settle and the biscuits absorb a little moisture.
 
 ## Variations
@@ -100,10 +100,10 @@ Alfajores are Argentina's most universally beloved biscuit: the canonical "with-
 **Alfajor con mermelada (fruit jam version):** instead of dulce, sandwich with apricot jam or quince paste.
 **Vegan alfajores:** swap butter for vegan baking block; egg yolks for 4 tablespoons aquafaba.
 **Mini alfajores:** smaller biscuits (3 cm); perfect for party canapés.
-**Alfajor de maicena (the canonical):** the cornflour-heavy version described above. The Argentine standard.
+**Alfajor de maicena (the traditional):** the cornflour-heavy version described above. The Argentine standard.
 
 ## Serving
-At every Argentine merienda (afternoon tea, the canonical setting) · at every Argentine bakery counter · at every Argentine school cafeteria · at every Argentine children's birthday party · at a Buenos Aires café with espresso · at a Mendoza picnic · at home as the daily sweet snack · packaged as a tourist gift from Argentina.
+At every Argentine merienda (afternoon tea, the traditional setting) · at every Argentine bakery counter · at every Argentine school cafeteria · at every Argentine children's birthday party · at a Buenos Aires café with espresso · at a Mendoza picnic · at home as the daily sweet snack · packaged as a tourist gift from Argentina.
 
 ## Storage
 - Keep in a sealed tin at room temperature 1 week.

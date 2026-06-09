@@ -88,7 +88,7 @@ Somlói galuska is the Hungarian trifle, three thin sponges (vanilla, cocoa, wal
 3. To serve, scoop generous spoonfuls of the chilled trifle into bowls. Pour warm chocolate sauce over (it should be pouring consistency, not stiff). Top with a cloud of whipped cream.
 
 ## Notes
-- **Three sponges, three flavours:** Plain, cocoa, walnut is the canonical split. Some Budapest cafés use only two; the three-flavour version is what most home recipes follow.
+- **Three sponges, three flavours:** Plain, cocoa, walnut is the traditional split. Some Budapest cafés use only two; the three-flavour version is what most home recipes follow.
 - **Rum:** Genuine dark rum (Captain Morgan, Wood's, Plantation) is what was originally used. Non-alcohol version: substitute orange juice mixed with a teaspoon of rum extract.
 - **Make ahead:** This is a make-ahead dessert. The overnight chill is when the magic happens; the layers settle and the flavours marry.
 - **Serve scooped:** Not a slice. The soft scoops are the point of the name (galuska = dumpling). Use a large serving spoon.

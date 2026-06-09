@@ -2,7 +2,7 @@
 
 ![Tennessee Baked Beans](resources/tennessee-baked-beans.jpg)
 
-*Tennessee's smoky BBQ-pit beans: navy beans slow-baked in a sauce of bacon, brown sugar, ketchup, mustard, Worcestershire, onion and Tennessee whiskey till the beans are creamy and the sauce is thick and dark. The Memphis BBQ joint canonical side; sweet, smoky, with a touch of whiskey warmth.*
+*Tennessee's smoky BBQ-pit beans: navy beans slow-baked in a sauce of bacon, brown sugar, ketchup, mustard, Worcestershire, onion and Tennessee whiskey till the beans are creamy and the sauce is thick and dark. The Memphis BBQ joint traditional side; sweet, smoky, with a touch of whiskey warmth.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Tennessee baked beans are the canonical Memphis BBQ-joint side and Tennessee summer-supper staple: dried navy beans (the canonical small white bean) soaked overnight then slow-baked in a savoury-sweet-smoky sauce of bacon, finely chopped onion, brown sugar, ketchup, yellow mustard, Worcestershire, molasses, apple cider vinegar, paprika and (the Tennessee twist) a generous splash of Tennessee whiskey. Slow-baked covered for 2 hours till the beans are creamy and the sauce thickens to a glossy dark glaze. Often the bacon stays in the dish (chopped). Served alongside ribs, pulled pork, brisket, fried chicken.
+Tennessee baked beans are the traditional Memphis BBQ-joint side and Tennessee summer-supper staple: dried navy beans (the traditional small white bean) soaked overnight then slow-baked in a savoury-sweet-smoky sauce of bacon, finely chopped onion, brown sugar, ketchup, yellow mustard, Worcestershire, molasses, apple cider vinegar, paprika and (the Tennessee twist) a generous splash of Tennessee whiskey. Slow-baked covered for 2 hours till the beans are creamy and the sauce thickens to a glossy dark glaze. Often the bacon stays in the dish (chopped). Served alongside ribs, pulled pork, brisket, fried chicken.
 
 ## Ingredients
 
@@ -71,7 +71,7 @@ Tennessee baked beans are the canonical Memphis BBQ-joint side and Tennessee sum
 2. Scatter reserved bacon, spring onions, parsley.
 
 ## Notes
-- **Navy beans canonical.**
+- **Navy beans traditional.**
 - **Bacon backbone.**
 - **Whiskey twist:** Tennessee signature.
 - **Slow-bake covered then uncovered.**

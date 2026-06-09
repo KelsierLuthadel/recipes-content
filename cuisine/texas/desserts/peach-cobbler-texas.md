@@ -2,7 +2,7 @@
 
 ![Texas Peach Cobbler](resources/peach-cobbler-texas.jpg)
 
-*Texas's stone-fruit dessert: fresh sliced peaches with sugar, butter, vanilla and cinnamon, topped with a sweet biscuit-style batter that bakes into a golden crust over the bubbling fruit. The Texan summer dessert, the canonical use of Fredericksburg peaches (the famous Texan peach-growing region).*
+*Texas's stone-fruit dessert: fresh sliced peaches with sugar, butter, vanilla and cinnamon, topped with a sweet biscuit-style batter that bakes into a golden crust over the bubbling fruit. The Texan summer dessert, the traditional use of Fredericksburg peaches (the famous Texan peach-growing region).*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Texas peach cobbler is Texas's iconic summer dessert and one of the most beloved cobbler variations in America: fresh sliced peaches (the Texan Fredericksburg peaches are the canonical choice - sweet, fragrant, juicy; or any ripe peach in season) tossed with brown sugar, vanilla, lemon juice, cornstarch, butter and cinnamon, poured into a baking dish, topped with a biscuit-style batter (a wet thick batter - not a pie crust - made from flour, sugar, baking powder, salt, milk and melted butter), and baked till the batter rises and bakes into a golden crust over the bubbling peach filling. Served warm with a scoop of vanilla ice cream or a heap of whipped cream. The dish is a Texas summer institution, particularly during peach season (June-August in Texas). Fresh peaches in season give the best result; frozen work in winter. Biscuit-style batter on top, never pie crust; that's what distinguishes Texas cobbler from pie. Served warm with a scoop of vanilla ice cream.
+Texas peach cobbler is Texas's iconic summer dessert and one of the most beloved cobbler variations in America: fresh sliced peaches (the Texan Fredericksburg peaches are the traditional choice - sweet, fragrant, juicy; or any ripe peach in season) tossed with brown sugar, vanilla, lemon juice, cornstarch, butter and cinnamon, poured into a baking dish, topped with a biscuit-style batter (a wet thick batter - not a pie crust - made from flour, sugar, baking powder, salt, milk and melted butter), and baked till the batter rises and bakes into a golden crust over the bubbling peach filling. Served warm with a scoop of vanilla ice cream or a heap of whipped cream. The dish is a Texas summer institution, particularly during peach season (June-August in Texas). Fresh peaches in season give the best result; frozen work in winter. Biscuit-style batter on top, never pie crust; that's what distinguishes Texas cobbler from pie. Served warm with a scoop of vanilla ice cream.
 
 ## Ingredients
 
@@ -76,7 +76,7 @@ Texas peach cobbler is Texas's iconic summer dessert and one of the most beloved
 4. Serve warm.
 
 ## Notes
-- **Fresh peaches in season:** the canonical Texan version.
+- **Fresh peaches in season:** the traditional Texan version.
 - **Biscuit batter, not pie crust:** Texas cobbler distinct.
 - **Don't smooth the topping:** rustic dollops are the look.
 - **Serve warm:** the contrast with ice cream is the point.
@@ -88,7 +88,7 @@ Texas peach cobbler is Texas's iconic summer dessert and one of the most beloved
 **Mixed stone fruit:** combine peaches with plums and nectarines; gives a layered fruit cobbler.
 
 ## Serving
-Warm with vanilla ice cream or whipped cream. After Texas BBQ, Sunday dinner, or as the canonical Texan summer dessert.
+Warm with vanilla ice cream or whipped cream. After Texas BBQ, Sunday dinner, or as the traditional Texan summer dessert.
 
 ## Storage
 - Keeps refrigerated 4 days; reheat in oven.

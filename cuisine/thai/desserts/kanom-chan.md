@@ -2,7 +2,7 @@
 
 ![Kanom Chan](resources/kanom-chan.jpg)
 
-*Thailand's auspicious layer cake: nine pandan-and-coconut-milk jelly layers, each set before the next is poured. Eaten at weddings.*
+*Thailand's auspicious layer cake: nine pandan-and-coconut-milk jelly layers, each set before the next is poured. Eat at weddings.*
 
 **Serves:** 8 (makes a 20 cm square tray)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 60 minutes (in steaming stages of 5-7 min per layer)
 
 ## Overview
-Kanom chan is the Thai layer cake of wedding tables and auspicious occasions, vivid-green pandan and creamy-white coconut layers stacked into a stripy jelly that tears apart with the fingers. Nine layers is the lucky number (odd is preferred), and the work is the patience to let each layer set fully before pouring on top of it. Three starches together give the canonical texture: rice flour for body, tapioca for chew, mung-bean for the snap that lets the layers peel apart cleanly; substituting any of these out collapses the structure into a generic coconut pudding. Coconut milk and water bind the batter, sugar and salt season, pandan tints half. Layer thickness matters; 4 to 5 mm is the canonical depth, and thicker layers stay gummy in the centre. Patience between layers is non-negotiable; a soft surface still wet enough to take another pour will bleed colours together and the stripes go muddy. Cooled and chilled till firm, sliced with an oiled knife. Eaten at room temperature, layers pulled apart one at a time.
+Kanom chan is the Thai layer cake of wedding tables and auspicious occasions, vivid-green pandan and creamy-white coconut layers stacked into a stripy jelly that tears apart with the fingers. Nine layers is the lucky number (odd is preferred), and the work is the patience to let each layer set fully before pouring on top of it. Three starches together give the traditional texture: rice flour for body, tapioca for chew, mung-bean for the snap that lets the layers peel apart cleanly; substituting any of these out collapses the structure into a generic coconut pudding. Coconut milk and water bind the batter, sugar and salt season, pandan tints half. Layer thickness matters; 4 to 5 mm is the traditional depth, and thicker layers stay gummy in the centre. Patience between layers is non-negotiable; a soft surface still wet enough to take another pour will bleed colours together and the stripes go muddy. Cooled and chilled till firm, sliced with an oiled knife. Eat at room temperature, layers pulled apart one at a time.
 
 ## Ingredients
 

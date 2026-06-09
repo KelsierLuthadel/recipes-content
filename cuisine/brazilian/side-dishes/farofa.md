@@ -2,7 +2,7 @@
 
 ![Farofa](resources/farofa.jpg)
 
-*Brazil's iconic toasted cassava flour: golden-brown granular cassava flour cooked in butter with diced bacon, onion, garlic, sometimes egg, sometimes banana, scattered over feijoada, picanha, and any Brazilian rice-and-bean plate as the canonical textural accent. The Brazilian answer to bread crumbs; the side that defines Brazilian dining.*
+*Brazil's iconic toasted cassava flour: golden-brown granular cassava flour cooked in butter with diced bacon, onion, garlic, sometimes egg, sometimes banana, scattered over feijoada, picanha, and any Brazilian rice-and-bean plate as the traditional textural accent. The Brazilian answer to bread crumbs; the side that defines Brazilian dining.*
 
 **Serves:** 8 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-ofa") is Brazil's most distinctively Brazilian side dish: granular cassava flour toasted in butter and pork fat with diced bacon, onion, garlic, and frequently chopped hard-boiled egg, ripe banana, or chopped olives. The base is "farinha de mandioca" (cassava flour) - also called "yuca flour" or "manioc flour" - which is a coarse, grainy flour made from dried cassava root. The dish is the canonical Brazilian textural accent: a small mound of farofa is sprinkled over every plate of feijoada, churrasco, picanha, frango com quiabo, and the daily rice-and-beans plate at family lunch. The texture is unique: dry, slightly crunchy, golden-brown, with diced bacon and crisp onion providing additional texture. Brazilians regard a meal without farofa on the table as incomplete.
+Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-ofa") is Brazil's most distinctively Brazilian side dish: granular cassava flour toasted in butter and pork fat with diced bacon, onion, garlic, and frequently chopped hard-boiled egg, ripe banana, or chopped olives. The base is "farinha de mandioca" (cassava flour) - also called "yuca flour" or "manioc flour" - which is a coarse, grainy flour made from dried cassava root. The dish is the traditional Brazilian textural accent: a small mound of farofa is sprinkled over every plate of feijoada, churrasco, picanha, frango com quiabo, and the daily rice-and-beans plate at family lunch. The texture is unique: dry, slightly crunchy, golden-brown, with diced bacon and crisp onion providing additional texture. Brazilians regard a meal without farofa on the table as incomplete.
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-of
 - 1 teaspoon fine sea salt (or to taste)
 - ½ teaspoon coarsely cracked black pepper
 
-### Canonical add-ins (use any or all)
+### Traditional add-ins (use any or all)
 - 2 hard-boiled eggs (chopped) - adds richness
 - 1 ripe banana (sliced into rounds) - adds sweet contrast
 - 30 g raisins or chopped dried apricots - sweet variant
@@ -77,11 +77,11 @@ Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-of
 5. Diners spoon a small amount of farofa over their portion of food.
 
 ## Notes
-- **Coarse cassava flour (farinha grossa):** not the fine white flour. The granular yellow type is canonical.
+- **Coarse cassava flour (farinha grossa):** not the fine white flour. The granular yellow type is traditional.
 - **Toast gently:** golden, not brown. Burnt farofa is bitter.
 - **Bacon and onion are minimum:** add eggs, banana, olives, or raisins to personalise.
 - **Make ahead-friendly:** farofa keeps warm well; you can make it 30 minutes before serving and let it rest covered.
-- **Add-ins matter:** the simplest farofa is bacon-onion-cassava; the canonical Brazilian Sunday-lunch version adds egg, banana, and parsley.
+- **Add-ins matter:** the simplest farofa is bacon-onion-cassava; the traditional Brazilian Sunday-lunch version adds egg, banana, and parsley.
 
 ## Variations
 **Farofa de banana:** add 2 ripe bananas (sliced) - the Bahian-Brazilian variant; sweet-savoury contrast.
@@ -94,7 +94,7 @@ Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-of
 **Farofa carioca (Rio-style):** add chopped green olives and finely diced ham.
 
 ## Serving
-At every Brazilian Sunday lunch (the canonical setting - never absent from the table) · alongside feijoada · alongside picanha or any churrasco · with rice and beans as the daily Brazilian plate · at a Brazilian birthday party · at a Brazilian wedding reception · at a Brazilian Christmas dinner (the festive farofa with raisins) · at home as a quick side for any roasted meat.
+At every Brazilian Sunday lunch (the traditional setting - never absent from the table) · alongside feijoada · alongside picanha or any churrasco · with rice and beans as the daily Brazilian plate · at a Brazilian birthday party · at a Brazilian wedding reception · at a Brazilian Christmas dinner (the festive farofa with raisins) · at home as a quick side for any roasted meat.
 
 ## Storage
 - Refrigerates 5 days in a sealed container; reheats in a pan with a small extra knob of butter.

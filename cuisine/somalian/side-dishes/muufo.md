@@ -72,7 +72,7 @@ Muufo is the cornmeal flatbread of the Somali coastal Baraawe (Brava) region, di
 
 ## Notes
 - **Cornmeal-to-flour ratio:** 60/40 cornmeal/wheat-flour gives the right balance. Going heavier on cornmeal (70/30) gives crumblier dough that's harder to handle but more flavour; going lighter (50/50) gives easier-to-handle dough that tastes less muufo and more like generic flatbread.
-- **Use medium-coarse cornmeal, not fine:** fine cornmeal or polenta meal gives a too-smooth dough; the slight graininess from medium-coarse meal is part of the bread's character. If you can find Somali muufo flour at an African grocer, that's the canonical choice; otherwise polenta-grade cornmeal substitutes well.
+- **Use medium-coarse cornmeal, not fine:** fine cornmeal or polenta meal gives a too-smooth dough; the slight graininess from medium-coarse meal is part of the bread's character. If you can find Somali muufo flour at an African grocer, that's the traditional choice; otherwise polenta-grade cornmeal substitutes well.
 - **Lidded pan approximates the oven:** real muufo is baked in a tandoor-style clay oven with curved walls. The lidded-pan technique on a hot stovetop is the home substitute that gives reasonable results; the lid traps heat and creates the dry-radiant-heat environment the bread needs.
 - **Don't skip the prove:** the 60-90 minutes of first proving is what gives muufo its proper lightness. A no-prove cornmeal flatbread comes out dense and heavy.
 - **Eat warm or warm them up:** muufo is at its best fresh from the pan. Day-old muufo can be reheated in a hot dry pan for 30 seconds a side to revive.

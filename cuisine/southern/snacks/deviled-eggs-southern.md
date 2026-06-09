@@ -2,7 +2,7 @@
 
 ![Southern Deviled Eggs](resources/deviled-eggs-southern.jpg)
 
-*The South's filled egg classic: hard-boiled eggs halved, yolks mashed with mayonnaise, mustard, sweet pickle relish, and a touch of hot sauce, then piped back into the egg whites and dusted with paprika. The canonical Southern church potluck and family-reunion appetiser.*
+*The South's filled egg classic: hard-boiled eggs halved, yolks mashed with mayonnaise, mustard, sweet pickle relish, and a touch of hot sauce, then piped back into the egg whites and dusted with paprika. The traditional Southern church potluck and family-reunion appetiser.*
 
 **Serves:** 6-8 (12 deviled egg halves)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Southern deviled eggs are one of the South's most beloved appetisers and a fixture of every church potluck, family reunion, picnic and Sunday dinner: hard-boiled eggs halved lengthwise, the yolks scooped out and mashed with mayonnaise (Duke's canonical Southern), yellow mustard, sweet pickle relish (or finely chopped sweet pickles), a touch of hot sauce, paprika, salt and pepper, then piped or spooned back into the egg whites and dusted with paprika and chopped chives. The Southern version distinguishes itself from generic deviled eggs by the sweet pickle relish (the Southern touch - gives sweet-sour balance), Duke's mayo, and the generous paprika dusting.
+Southern deviled eggs are one of the South's most beloved appetisers and a fixture of every church potluck, family reunion, picnic and Sunday dinner: hard-boiled eggs halved lengthwise, the yolks scooped out and mashed with mayonnaise (Duke's traditional Southern), yellow mustard, sweet pickle relish (or finely chopped sweet pickles), a touch of hot sauce, paprika, salt and pepper, then piped or spooned back into the egg whites and dusted with paprika and chopped chives. The Southern version distinguishes itself from generic deviled eggs by the sweet pickle relish (the Southern touch - gives sweet-sour balance), Duke's mayo, and the generous paprika dusting.
 
 ## Ingredients
 
@@ -72,7 +72,7 @@ Southern deviled eggs are one of the South's most beloved appetisers and a fixtu
 
 ## Notes
 - **Don't over-boil:** 11-12 min is right.
-- **Sweet pickle relish canonical Southern.**
+- **Sweet pickle relish traditional Southern.**
 - **Pipe through a star tip:** the iconic look.
 - **Dust with paprika:** Southern touch.
 

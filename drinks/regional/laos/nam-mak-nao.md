@@ -11,14 +11,14 @@
 **Cook Time:** 5 minutes (for the syrup)
 
 ## Overview
-Nam mak nao is one of the simplest and most beloved Lao drinks: a Lao spin on lemonade, sold from carts in every Lao market in the hot months. The lime matters: small Asian limes (the Lao "mak nao") are juicier and more aromatic than the larger Persian limes in Western supermarkets; four or five Lao limes (or two or three Western ones) fill the canonical proportions. Palm sugar (from palmyra or coconut palms) gives the dark caramel-molasses notes that distinguish nam mak nao from a generic limeade made with white sugar; dark muscovado substitutes. The pinch of salt is the Lao secret: salt sharpens sweet-sour drinks, the same principle as a salted-rim margarita, and without it the drink tastes flat.
+Nam mak nao is one of the simplest and most beloved Lao drinks: a Lao spin on lemonade, sold from carts in every Lao market in the hot months. The lime matters: small Asian limes (the Lao "mak nao") are juicier and more aromatic than the larger Persian limes in Western supermarkets; four or five Lao limes (or two or three Western ones) fill the traditional proportions. Palm sugar (from palmyra or coconut palms) gives the dark caramel-molasses notes that distinguish nam mak nao from a generic limeade made with white sugar; dark muscovado substitutes. The pinch of salt is the Lao secret: salt sharpens sweet-sour drinks, the same principle as a salted-rim margarita, and without it the drink tastes flat.
 
 ## Ingredients
 
 ### The palm-sugar syrup (makes 250 ml; enough for ~8 drinks)
 - 100 g palm sugar (or soft dark muscovado as substitute)
 - 200 ml water
-- 1 pandan leaf, torn and knotted (optional but canonical)
+- 1 pandan leaf, torn and knotted (optional but traditional)
 
 ### Per drink (× 4)
 - 30 ml fresh lime juice (from 1-2 limes)
@@ -59,20 +59,20 @@ Nam mak nao is one of the simplest and most beloved Lao drinks: a Lao spin on le
 3. Serve immediately with a straw.
 
 ## Notes
-- **Palm sugar gives the canonical Lao depth:** white sugar is acceptable but flat.
+- **Palm sugar gives the traditional Lao depth:** white sugar is acceptable but flat.
 - **Salt is essential:** small pinch per glass. Sharpens the sweet-sour balance.
 - **Crushed ice ideal:** melts fast, gives a refreshing slushy texture.
 - **Fresh lime juice only:** bottled lime juice tastes wrong.
-- **Adjust sweetness:** the canonical Lao balance is moderately sweet; taste and adjust.
+- **Adjust sweetness:** the traditional Lao balance is moderately sweet; taste and adjust.
 
 ## Variations
-**Spicy nam mak nao:** add a pinch of chilli flakes; the canonical Lao street-stall sweet-spicy-sour variant.
+**Spicy nam mak nao:** add a pinch of chilli flakes; the traditional Lao street-stall sweet-spicy-sour variant.
 **Nam mak nao with mint:** muddle 4-5 fresh mint leaves in the bottom of the glass before adding lime - the modern variant.
 **Hot nam mak nao:** skip the ice; pour hot palm-sugar syrup + lime + salt + hot water - the cold-weather variant.
 **With sparkling water:** swap still water for sparkling - the modern bubbly variant.
 
 ## Serving
-At a Lao street stall (the canonical setting; sold from carts in every market in hot weather) · at a Lao midday meal as the non-alcoholic accompaniment · at a Lao café · at home as the Lao answer to lemonade · paired with sai oua, laap, tam mak hung or any spicy Lao dish.
+At a Lao street stall (the traditional setting; sold from carts in every market in hot weather) · at a Lao midday meal as the non-alcoholic accompaniment · at a Lao café · at home as the Lao answer to lemonade · paired with sai oua, laap, tam mak hung or any spicy Lao dish.
 
 ## Storage
 - The palm-sugar syrup refrigerates 4 weeks in a sealed jar.

@@ -11,13 +11,13 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Bai sach chrouk is Cambodia's signature breakfast and one of the country's most iconic dishes, served from street stalls across Phnom Penh every morning before 11am: thin slices of pork (shoulder or belly) marinated overnight in coconut water, garlic, fish sauce and palm sugar, then grilled till lightly caramelised, served over fragrant Cambodian broken rice with pickled cucumber and carrot, a small bowl of clear chicken broth (or a thin omelette) and chilli sauce for heat. The marinade is the heart of the dish. Coconut water (not milk) provides natural sweetness and a tropical note; palm sugar gives caramel-honey depth; fish sauce adds umami and salt. Broken rice (bai damnaeb) is canonical. The grains are smaller and more porous than whole grains, soaking up the pork juices; whole jasmine rice substitutes if broken isn't around. The cucumber-and-carrot pickle goes together in 30 minutes and brightens the rich pork.
+Bai sach chrouk is Cambodia's signature breakfast and one of the country's most iconic dishes, served from street stalls across Phnom Penh every morning before 11am: thin slices of pork (shoulder or belly) marinated overnight in coconut water, garlic, fish sauce and palm sugar, then grilled till lightly caramelised, served over fragrant Cambodian broken rice with pickled cucumber and carrot, a small bowl of clear chicken broth (or a thin omelette) and chilli sauce for heat. The marinade is the heart of the dish. Coconut water (not milk) provides natural sweetness and a tropical note; palm sugar gives caramel-honey depth; fish sauce adds umami and salt. Broken rice (bai damnaeb) is traditional. The grains are smaller and more porous than whole grains, soaking up the pork juices; whole jasmine rice substitutes if broken isn't around. The cucumber-and-carrot pickle goes together in 30 minutes and brightens the rich pork.
 
 ## Ingredients
 
 ### Pork and marinade
 - 600 g pork shoulder or pork belly (cut into 5 mm thick slices, 6-7 cm long)
-- 200 ml coconut water (the canonical ingredient; or substitute 200 ml water + 1 tablespoon coconut sugar)
+- 200 ml coconut water (the traditional ingredient; or substitute 200 ml water + 1 tablespoon coconut sugar)
 - 4 tablespoons palm sugar (grated or crumbled; or coconut sugar; or light brown sugar)
 - 4 tablespoons fish sauce (good quality Vietnamese or Cambodian fish sauce)
 - 6 garlic cloves (finely crushed)
@@ -108,14 +108,14 @@ Bai sach chrouk is Cambodia's signature breakfast and one of the country's most 
 ## Notes
 - **Coconut water, not coconut milk:** the marinade calls for natural coconut water (the clear sweet liquid from inside a young coconut), not coconut milk (the white emulsion). Coconut milk would give a creamier richer marinade that's wrong for this dish. Most supermarkets sell canned coconut water; pure unsweetened is best.
 - **Palm sugar gives proper caramel notes:** palm sugar (or coconut sugar) has caramel-honey depth that regular white sugar doesn't have. Worth seeking out; it's at any Asian market. Light brown sugar is the closest mainstream substitute.
-- **Marinate overnight:** the proper flavour comes from a long marination; the coconut water-sugar mixture is mild enough that 30 minutes won't penetrate the pork properly. 8-12 hours is canonical.
-- **Broken rice is canonical:** broken rice (jasmine rice grains broken in milling) is the traditional accompaniment; the smaller more porous grains soak up the pork juices better than whole-grain jasmine. Available at Asian markets labelled "broken jasmine" or "bai damnaeb". Regular jasmine works as a substitute.
-- **Grill is canonical, pan-sear works:** in Cambodia, the pork is grilled over charcoal, which gives a smoky note that's hard to replicate in a kitchen. A hot griddle pan gives proper caramelisation; a regular frying pan works if you let the pan get really hot before adding the pork.
+- **Marinate overnight:** the proper flavour comes from a long marination; the coconut water-sugar mixture is mild enough that 30 minutes won't penetrate the pork properly. 8-12 hours is traditional.
+- **Broken rice is traditional:** broken rice (jasmine rice grains broken in milling) is the traditional accompaniment; the smaller more porous grains soak up the pork juices better than whole-grain jasmine. Available at Asian markets labelled "broken jasmine" or "bai damnaeb". Regular jasmine works as a substitute.
+- **Grill is traditional, pan-sear works:** in Cambodia, the pork is grilled over charcoal, which gives a smoky note that's hard to replicate in a kitchen. A hot griddle pan gives proper caramelisation; a regular frying pan works if you let the pan get really hot before adding the pork.
 
 ## Variations
 **Bai sach chrouk with fried egg:** add a fried egg (sunny-side up) over the rice; the runny yolk mixes with the rice and pork for richness. Standard variation across Cambodia.
 **Bai sach chrouk with omelette:** instead of (or in addition to) the chicken broth, make a thin Cambodian omelette (2 eggs whisked with a teaspoon of fish sauce, fried thin in a pan, cut into ribbons) laid over the rice. Common variation.
-**Lemongrass bai sach chrouk:** add 2 stalks of finely minced lemongrass to the marinade for a more aromatic version. Less canonical but adds a citrus note that works well.
+**Lemongrass bai sach chrouk:** add 2 stalks of finely minced lemongrass to the marinade for a more aromatic version. Less traditional but adds a citrus note that works well.
 **Bai sach chrouk with peanuts:** scatter 2 tablespoons of crushed roasted peanuts over the finished dish; adds crunch and nuttiness. Modern Phnom Penh street variation.
 
 ## Serving

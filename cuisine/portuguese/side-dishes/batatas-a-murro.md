@@ -2,7 +2,7 @@
 
 ![Batatas a Murro](resources/batatas-a-murro.jpg)
 
-*Portugal's "punched potatoes": small potatoes boiled in their skins, then smashed with the heel of the hand (or a fork), drizzled with olive oil, garlic and fresh herbs, and roasted till the smashed edges crisp golden. The Portuguese countryside potato side, the canonical accompaniment to grilled meats and fish.*
+*Portugal's "punched potatoes": small potatoes boiled in their skins, then smashed with the heel of the hand (or a fork), drizzled with olive oil, garlic and fresh herbs, and roasted till the smashed edges crisp golden. The Portuguese countryside potato side, the traditional accompaniment to grilled meats and fish.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Batatas a murro (literally "punched potatoes"; murro = a punch with the fist) is one of Portugal's most beloved potato sides and the canonical accompaniment to grilled meats and fish: small whole potatoes (egg-sized, waxy) boiled in their skins till tender, then smashed flat with the heel of the hand (the murro), drizzled with olive oil, sliced garlic, sea salt, parsley and a touch of paprika, then roasted in a hot oven till the smashed edges crisp golden-brown. The combination of soft creamy interior and crispy edges is what makes the dish special. Waxy potatoes (new or small charlotte) are essential; floury ones break apart. The smashing creates cracks and surface area for the oil and garlic to penetrate and crisp. The olive oil is generous; the potatoes should come out glossy.
+Batatas a murro (literally "punched potatoes"; murro = a punch with the fist) is one of Portugal's most beloved potato sides and the traditional accompaniment to grilled meats and fish: small whole potatoes (egg-sized, waxy) boiled in their skins till tender, then smashed flat with the heel of the hand (the murro), drizzled with olive oil, sliced garlic, sea salt, parsley and a touch of paprika, then roasted in a hot oven till the smashed edges crisp golden-brown. The combination of soft creamy interior and crispy edges is what makes the dish special. Waxy potatoes (new or small charlotte) are essential; floury ones break apart. The smashing creates cracks and surface area for the oil and garlic to penetrate and crisp. The olive oil is generous; the potatoes should come out glossy.
 
 ## Ingredients
 
@@ -58,7 +58,7 @@ Batatas a murro (literally "punched potatoes"; murro = a punch with the fist) is
 ## Notes
 - **Waxy potatoes:** new potatoes, charlotte, or small Yukon Gold.
 - **Smash, don't pulverise:** keep some shape.
-- **Generous olive oil:** the canonical Portuguese touch.
+- **Generous olive oil:** the traditional Portuguese touch.
 - **Smashed edges crisp:** the texture contrast is the point.
 
 ## Variations

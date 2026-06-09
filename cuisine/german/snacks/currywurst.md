@@ -2,7 +2,7 @@
 
 ![Currywurst](resources/currywurst.jpg)
 
-*Berlin's iconic street snack: a grilled bratwurst sliced into rounds, drowned in a curry-spiced tomato sauce, dusted with curry powder, served with crispy pommes frites and a slice of white bread. Invented in West Berlin in 1949 by Herta Heuwer; the canonical late-night and lunchtime German fast food.*
+*Berlin's iconic street snack: a grilled bratwurst sliced into rounds, drowned in a curry-spiced tomato sauce, dusted with curry powder, served with crispy pommes frites and a slice of white bread. Invented in West Berlin in 1949 by Herta Heuwer; the traditional late-night and lunchtime German fast food.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Currywurst is one of Germany's most beloved street foods and the canonical Berlin fast-food snack, invented in 1949 by Herta Heuwer at her Imbiss stand in the British sector of post-war West Berlin (she's credited with combining ketchup obtained from British soldiers with curry powder also brought in by them, then pouring the mixture over German sausage). The dish is now sold from thousands of Imbiss stands across Germany, with Berlin alone consuming ~70 million currywursts per year. The construction is simple: a grilled or pan-fried bratwurst sausage sliced into rounds (the slicing is part of the eating; the sausage slides onto a plastic fork), drowned in a curry-spiced tomato sauce (ketchup + tomato paste + curry powder + paprika + onion + sugar + apple cider vinegar), dusted heavily with curry powder on top. Served on a small paper plate with a plastic fork, accompanied by pommes frites (German fries) and a slice of white bread for mopping.
+Currywurst is one of Germany's most beloved street foods and the traditional Berlin fast-food snack, invented in 1949 by Herta Heuwer at her Imbiss stand in the British sector of post-war West Berlin (she's credited with combining ketchup obtained from British soldiers with curry powder also brought in by them, then pouring the mixture over German sausage). The dish is now sold from thousands of Imbiss stands across Germany, with Berlin alone consuming ~70 million currywursts per year. The construction is simple: a grilled or pan-fried bratwurst sausage sliced into rounds (the slicing is part of the eating; the sausage slides onto a plastic fork), drowned in a curry-spiced tomato sauce (ketchup + tomato paste + curry powder + paprika + onion + sugar + apple cider vinegar), dusted heavily with curry powder on top. Served on a small paper plate with a plastic fork, accompanied by pommes frites (German fries) and a slice of white bread for mopping.
 
 ## Ingredients
 
@@ -78,7 +78,7 @@ Currywurst is one of Germany's most beloved street foods and the canonical Berli
 - **Slice into rounds:** the eating geometry depends on it.
 - **Curry powder both in sauce AND dusted on top:** double-curry is the Berlin signature.
 - **Bratwurst, not regular hot dog:** the German pork-sausage texture matters.
-- **Eaten with a small plastic fork at an Imbiss stand:** the canonical experience.
+- **Eaten with a small plastic fork at an Imbiss stand:** the traditional experience.
 
 ## Variations
 **Mit Darm (with skin):** the casing left on (traditional Berlin).

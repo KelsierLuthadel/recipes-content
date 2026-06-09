@@ -8,12 +8,12 @@
 
 Two beans dominate Mexican cooking:
 
-- **Pinto beans** (frijoles pintos) — speckled brown, creamy when cooked, the canonical "Mexican bean" of the north and central regions.
-- **Black beans** (frijoles negros) — dark, slightly sweeter, the canonical bean of Oaxaca, Veracruz, and the south.
+- **Pinto beans** (frijoles pintos) — speckled brown, creamy when cooked, the traditional "Mexican bean" of the north and central regions.
+- **Black beans** (frijoles negros) — dark, slightly sweeter, the traditional bean of Oaxaca, Veracruz, and the south.
 
 Other beans in Mexican use: bayo, mayocoba, lima (small white), Peruvian. But pinto and black are 90% of the kitchen.
 
-This page covers cooking the canonical pinto from dried + the canonical black beans + the refried version of both.
+This page covers cooking the traditional pinto from dried + the traditional black beans + the refried version of both.
 
 ## Equipment
 
@@ -82,7 +82,7 @@ A common Mexican breakfast is just:
 
 Eaten with a tortilla used as a spoon. Simple, satisfying, complete.
 
-## Pot beans (frijoles de la olla) — the canonical preparation
+## Pot beans (frijoles de la olla) — the traditional preparation
 
 This is the most common Mexican way to eat beans. The whole beans in their cooking liquid (the broth is part of the dish).
 
@@ -98,7 +98,7 @@ Same as the basic preparation. Serve the beans IN their broth, in a deep bowl, w
 - A small wedge of avocado on the side.
 - A spoon of pico de gallo.
 
-This bowl-of-beans is the canonical Mexican household meal. It's eaten 3-5 times a week in many homes.
+This bowl-of-beans is the traditional Mexican household meal. It's eaten 3-5 times a week in many homes.
 
 ## Charro beans / Borracho beans (cowboy / drunken beans)
 
@@ -143,7 +143,7 @@ Charro beans are a side dish at carne asada or grilled-meat dinners — Northern
 - Freeze in portions (250-500 g per bag) for 3 months.
 - Frozen beans defrost overnight in the fridge; reheat with a splash of water.
 
-## A canonical Mexican pantry of beans
+## A traditional Mexican pantry of beans
 
 A working Mexican kitchen has:
 - 1 kg of pinto beans (dried) in the pantry.

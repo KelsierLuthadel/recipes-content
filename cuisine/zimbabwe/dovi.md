@@ -2,7 +2,7 @@
 
 ![Dovi](resources/dovi.jpg)
 
-*Zimbabwe's peanut stew: chicken or beef simmered in a thick mahogany peanut-butter sauce sharpened with tomato and onion. Eaten with sadza.*
+*Zimbabwe's peanut stew: chicken or beef simmered in a thick mahogany peanut-butter sauce sharpened with tomato and onion. Eat with sadza.*
 
 **Serves:** 4
 

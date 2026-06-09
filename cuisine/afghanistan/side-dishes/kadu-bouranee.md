@@ -2,7 +2,7 @@
 
 ![Kadu Bouranee](resources/kadu-bouranee.jpg)
 
-*Sweet-savoury Afghan pumpkin slow-cooked with sugar, tomato and ginger until silky-soft, then served under a generous layer of garlic yogurt and a final sprinkle of dried mint. The pairing of sweet pumpkin with sour yogurt is uniquely Afghan and uniquely good. Eaten as a side or a vegetarian main on naan.*
+*Sweet-savoury Afghan pumpkin slow-cooked with sugar, tomato and ginger until silky-soft, then served under a generous layer of garlic yogurt and a final sprinkle of dried mint. The pairing of sweet pumpkin with sour yogurt is uniquely Afghan and uniquely good. Eat as a side or a vegetarian main on naan.*
 
 **Serves:** 4 as a side
 

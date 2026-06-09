@@ -17,7 +17,7 @@ The egg cream is the great Brooklyn working-class drink, ordered from soda-fount
 
 ### Per glass
 - 60 ml cold whole milk
-- 2 tablespoons chocolate syrup (Fox's U-Bet is the canonical NY choice; Hershey's works)
+- 2 tablespoons chocolate syrup (Fox's U-Bet is the traditional NY choice; Hershey's works)
 - 150 ml chilled seltzer water (proper soda water from a siphon if you have one)
 
 ### To serve
@@ -40,7 +40,7 @@ The egg cream is the great Brooklyn working-class drink, ordered from soda-fount
 1. Drink immediately while the foam is standing.
 
 ## Notes
-- **U-Bet syrup if you can find it.** Brooklyn's Fox's U-Bet chocolate syrup is the canonical brand; the recipe has been the same since 1900. Hershey's is the everyday substitute.
+- **U-Bet syrup if you can find it.** Brooklyn's Fox's U-Bet chocolate syrup is the traditional brand; the recipe has been the same since 1900. Hershey's is the everyday substitute.
 - **Cold milk, cold seltzer.** Both ingredients have to be properly cold or the foam falls flat. Refrigerate everything ahead.
 - **Aggressive pour is the whole point.** A gentle pour gives a flat milky drink; the aggressive seltzer is what creates the foam.
 

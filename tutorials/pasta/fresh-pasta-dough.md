@@ -155,7 +155,7 @@ Over-cooked. Fresh pasta cooks fast; taste at 90 seconds.
 - [Shapes](shapes.md): cutting and filling the dough.
 - [Dried Pasta](dried-pasta.md): the everyday alternative.
 - [Matching Sauce to Shape](matching-sauce-to-shape.md): which sauce for which shape.
-- [Pasta recipe](../../bread-pasta/pasta.md): canonical master dough.
+- [Pasta recipe](../../bread-pasta/pasta.md): traditional master dough.
 - [Pasta Course landing](pasta.md): back to the main course.
 
 ## Storage

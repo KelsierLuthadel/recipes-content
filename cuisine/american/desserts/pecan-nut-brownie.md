@@ -11,7 +11,7 @@
 **Cook Time:** 19 minutes
 
 ## Overview
-The American fudgy brownie scaled up for a dinner-party plate: dense moist dark-chocolate batter studded with a generous handful of toasted pecans, the corners chewy, the centre just-set and slightly gooey, the top crackle-glossy if the eggs have been whisked properly to ribbon. The pecans are the whole point, so toast them properly in a dry pan or low oven till the kitchen smells of warm butter and the nuts darken half a shade; raw pecans go soft and bland in the bake and you lose the contrast. The brownie itself follows the canonical American formula (dark chocolate and butter melted together, eggs and sugar whisked to ribbon, flour and cocoa folded in last) but the pecans lift the dish into dinner-party territory, especially served slightly warm with a pool of crème anglaise or a quenelle of crème fraîche alongside.
+The American fudgy brownie scaled up for a dinner-party plate: dense moist dark-chocolate batter studded with a generous handful of toasted pecans, the corners chewy, the centre just-set and slightly gooey, the top crackle-glossy if the eggs have been whisked properly to ribbon. The pecans are the whole point, so toast them properly in a dry pan or low oven till the kitchen smells of warm butter and the nuts darken half a shade; raw pecans go soft and bland in the bake and you lose the contrast. The brownie itself follows the traditional American formula (dark chocolate and butter melted together, eggs and sugar whisked to ribbon, flour and cocoa folded in last) but the pecans lift the dish into dinner-party territory, especially served slightly warm with a pool of crème anglaise or a quenelle of crème fraîche alongside.
 
 ## Ingredients
 - 200 grams butter (cut into small pieces)

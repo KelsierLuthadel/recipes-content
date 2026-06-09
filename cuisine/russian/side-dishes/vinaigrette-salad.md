@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus cooling)
 
 ## Overview
-The Russian vinaigrette is one of those salads where the colour-bleed is the look: cooked beetroot, potatoes, carrots and beans diced small and tossed with sauerkraut and pickles, the beetroot tinting everything pink-purple over a few hours' rest in the fridge. Cook each vegetable separately in its own pan of lightly salted water (combined, the potatoes go to mush before the beetroot is ready). Diced into matching 1 cm cubes; wear gloves for the beetroot unless you don't mind your hands staining pink for two days. Squeeze the sauerkraut hard to remove brine before chopping it in. Refrigerate at least an hour and ideally three or four so the flavours meld and the beetroot does its quiet work tinting the whole bowl. Eaten cold straight from the fridge with dark rye bread; the salad gets better over four days as the dressing soaks in further.
+The Russian vinaigrette is one of those salads where the colour-bleed is the look: cooked beetroot, potatoes, carrots and beans diced small and tossed with sauerkraut and pickles, the beetroot tinting everything pink-purple over a few hours' rest in the fridge. Cook each vegetable separately in its own pan of lightly salted water (combined, the potatoes go to mush before the beetroot is ready). Diced into matching 1 cm cubes; wear gloves for the beetroot unless you don't mind your hands staining pink for two days. Squeeze the sauerkraut hard to remove brine before chopping it in. Refrigerate at least an hour and ideally three or four so the flavours meld and the beetroot does its quiet work tinting the whole bowl. Eat cold straight from the fridge with dark rye bread; the salad gets better over four days as the dressing soaks in further.
 
 ## Ingredients
 

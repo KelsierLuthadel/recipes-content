@@ -116,7 +116,7 @@ Plateada is Chile's beloved slow-cooked beef brisket and a Sunday-family-lunch c
 **With wine-soaked prunes:** add 100 g of prunes (soaked in 100 ml extra red wine) in the last hour; gives a fruity richness.
 
 ## Serving
-On a wide platter at the centre of the table. Puré de papas, ensalada chilena, pebre alongside. Drink: Chilean red wine (carmenere is canonical), or Cristal beer.
+On a wide platter at the centre of the table. Puré de papas, ensalada chilena, pebre alongside. Drink: Chilean red wine (carmenere is traditional), or Cristal beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

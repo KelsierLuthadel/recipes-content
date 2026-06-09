@@ -8,7 +8,7 @@
 
 The Middle East divides into several culinary regions, each with its own pantry and compositional logic:
 
-1. **Lebanese** — the mezze capital. Subtle, herb-forward, the canonical Levantine.
+1. **Lebanese** — the mezze capital. Subtle, herb-forward, the traditional Levantine.
 2. **Syrian** — heartier, more aleppo-influenced, kibbeh-heavy.
 3. **Palestinian** — sumac-heavy, with the unique musakhan and maqluba traditions.
 4. **Jordanian** — mansaf country. Lamb-and-yogurt-and-rice.
@@ -26,7 +26,7 @@ The Levant's most-exported cuisine. Sophisticated mezze, careful balance, herb-f
 
 ### Pantry
 - Olive oil (Lebanese olive oil is internationally prized)
-- Tahini (Lebanese / Palestinian is canonical)
+- Tahini (Lebanese / Palestinian is traditional)
 - Pomegranate molasses
 - Sumac
 - Za'atar
@@ -109,7 +109,7 @@ Distinct from Lebanese / Syrian in subtle but important ways. Sumac-heavy, with 
 - **Ka'ak Al-Quds** — Jerusalem sesame bread.
 
 ### Compositional logic
-A Palestinian meal centres on a single big dish (musakhan or maqluba) eaten communally. Sumac-onion is the canonical garnish. Olive oil is generous.
+A Palestinian meal centres on a single big dish (musakhan or maqluba) eaten communally. Sumac-onion is the traditional garnish. Olive oil is generous.
 
 ### The signature
 If a dish uses generous sumac + roasted chicken + caramelised onion + taboon bread + pine nuts, it's Palestinian.
@@ -230,7 +230,7 @@ A quick rule of thumb:
 
 ## A regional weekend project
 
-Pick ONE region and spend a weekend cooking 3-4 of its canonical dishes.
+Pick ONE region and spend a weekend cooking 3-4 of its traditional dishes.
 
 ### A Lebanese weekend
 - Saturday: hummus + tabbouleh + falafel + grilled kofta. Mezze night.

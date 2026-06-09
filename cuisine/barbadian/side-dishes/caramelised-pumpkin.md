@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of flavour. Caribbean calabaza pumpkin (the green-skinned, orange-fleshed Caribbean squash) is the canonical choice; butternut squash is the standard substitute outside the Caribbean, with similar deep-orange flesh and sweetness. The pumpkin cubes into 3 cm chunks (thinner pieces collapse to mush before caramelising) and browns hard in butter first to develop the caramelised colour and sweet-savoury depth. Then a splash of coconut milk, brown sugar and spice go in to braise the rest of the way. The Bajan signatures are what set this apart: fresh thyme, finely grated ginger, a fragment of finely chopped Scotch bonnet for warmth (not heat) and a small dash of soy sauce for umami depth. The finished dish becomes a thick almost-jammy mash that holds its shape on the plate. The sweet-savoury counterpoint to Bajan stew chicken, fried fish or a Sunday roast.
+Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of flavour. Caribbean calabaza pumpkin (the green-skinned, orange-fleshed Caribbean squash) is the traditional choice; butternut squash is the standard substitute outside the Caribbean, with similar deep-orange flesh and sweetness. The pumpkin cubes into 3 cm chunks (thinner pieces collapse to mush before caramelising) and browns hard in butter first to develop the caramelised colour and sweet-savoury depth. Then a splash of coconut milk, brown sugar and spice go in to braise the rest of the way. The Bajan signatures are what set this apart: fresh thyme, finely grated ginger, a fragment of finely chopped Scotch bonnet for warmth (not heat) and a small dash of soy sauce for umami depth. The finished dish becomes a thick almost-jammy mash that holds its shape on the plate. The sweet-savoury counterpoint to Bajan stew chicken, fried fish or a Sunday roast.
 
 ## Ingredients
 
@@ -49,7 +49,7 @@ Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of fl
 ### Stage 1 - Brown the pumpkin chunks
 1. Heat the butter and oil in a wide heavy pan over medium-high heat.
 2. Add the pumpkin chunks in a single layer.
-3. DO NOT MOVE for 3-4 minutes per side (let the canonical caramelised crust form).
+3. DO NOT MOVE for 3-4 minutes per side (let the traditional caramelised crust form).
 4. Brown the pumpkin on at least 3 sides (or all 6 if you have the patience) - 8-10 minutes total.
 5. The pumpkin should have deep brown caramelised faces; the inside is still firm.
 
@@ -98,7 +98,7 @@ Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of fl
 **Spicy pumpkin:** double the Scotch bonnet and add a teaspoon of cayenne - the heat-lovers' variant.
 
 ## Serving
-At a Bajan Sunday lunch (the canonical setting; alongside stew chicken and rice and peas) · at a Bajan Thanksgiving / Independence Day celebration · at a Bajan Christmas dinner · at a Caribbean barbecue · at home as the canonical Bajan vegetable side · paired with stew chicken, fried fish, or jerk chicken.
+At a Bajan Sunday lunch (the traditional setting; alongside stew chicken and rice and peas) · at a Bajan Thanksgiving / Independence Day celebration · at a Bajan Christmas dinner · at a Caribbean barbecue · at home as the traditional Bajan vegetable side · paired with stew chicken, fried fish, or jerk chicken.
 
 ## Storage
 - Refrigerates 4 days; reheats well in a covered pan with a splash of coconut milk or water.

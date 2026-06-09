@@ -11,7 +11,7 @@
 **Cook Time:** 32 minutes
 
 ## Overview
-The construction trick is the frozen peanut butter slab: 1 cup of commercial peanut butter spread (the firm processed kind, not natural) gets warmed, spread into a tin, frozen until solid. That slab tucks inside the brownie batter mid-tin. The frozen state stops the peanut butter from melting into the chocolate during the bake - it warms back to soft-set fudge texture by the time the brownie's done. Topped with a drizzle of more peanut butter swirled across the surface, baked until edges are set with a centre jiggle, cooled and chilled until sliceable.
+Peanut-butter-stuffed brownies are the American dessert that takes the traditional fudgy brownie and threads a properly fudgy peanut-butter slab through the middle so every slice shows a clean stripe of brown-and-tan. The trick that makes them work is the frozen peanut-butter slab: a cup of the firm commercial kind (not natural peanut butter, which separates) gets spread into a thin sheet and frozen solid before going into the tin. You pour half the brownie batter in, lay the frozen slab over it, pour the rest over the top and bake. The freezer step is the whole technique; a soft peanut-butter layer melts into the chocolate and disappears, but a frozen slab holds its shape long enough for the brownie around it to set, and by the time the bake is done it warms back to soft-set fudge. Finished with a swirl of warmed peanut butter dragged across the top and a scatter of flaky salt while still warm. Cooled fully before slicing.
 
 ## Ingredients
 

@@ -155,7 +155,7 @@ Used too much, or used minced rather than thin-sliced. Garlic should be present,
 - [Sauce](sauce.md): the layer beneath toppings.
 - [Cheese](cheese.md): the dedicated cheese deep-dive.
 - [Cooking Methods](cooking-methods.md): the bake that brings it all together.
-- [Margherita](../../cuisine/italian/pizza/margherita.md): the canonical topping-restraint example.
+- [Margherita](../../cuisine/italian/pizza/margherita.md): the traditional topping-restraint example.
 
 ## Storage
 - Pizza dough balls keep 3 days refrigerated; bring to room temperature 2 hours before stretching

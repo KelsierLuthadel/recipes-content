@@ -22,9 +22,9 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 
 ### Equipment
 - A churrasco sword (the long flat metal skewer) - if you don't have one, you can use a heavy steel skewer or just grill the picanha flat
-- A grill with high heat - gas works, but charcoal is canonical
+- A grill with high heat - gas works, but charcoal is traditional
 
-### Brazilian vinaigrette molho (the canonical relish)
+### Brazilian vinaigrette molho (the traditional relish)
 - 3 ripe tomatoes (finely diced)
 - 1 small white onion (finely diced)
 - 1 small green bell pepper (finely diced; optional)
@@ -73,7 +73,7 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 3. The renderings will catch fire briefly; this is fine (don't move the meat).
 4. Turn so the meat side faces down.
 5. Cook 6-8 minutes; the meat develops a beautiful mahogany crust.
-6. For medium-rare picanha (the canonical Brazilian doneness), the internal temperature should reach 50-55°C (test with a probe in the centre of the meat).
+6. For medium-rare picanha (the traditional Brazilian doneness), the internal temperature should reach 50-55°C (test with a probe in the centre of the meat).
 7. Remove from the grill.
 
 ### Stage 6 - Rest
@@ -99,7 +99,7 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 - **Score the fat cap:** the crosshatch lets the fat render properly without bunching up.
 - **Sear the fat side first:** the rendering fat creates the cooking medium for the rest of the cook.
 - **Slice against the grain:** crucial for tenderness. The muscle fibres are long; slicing across them shortens the chew.
-- **Medium-rare is canonical:** 50-55°C internal temperature. Don't cook beyond medium; you'll dry the fat-crust magic out.
+- **Medium-rare is traditional:** 50-55°C internal temperature. Don't cook beyond medium; you'll dry the fat-crust magic out.
 
 ## Variations
 **Picanha steaks (instead of whole cut):** slice the picanha into 2 cm thick "steaks" before grilling - each steak gets its own fat cap. Pan-sear or grill 4 minutes per side.
@@ -110,7 +110,7 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 **Picanha sandwich:** sliced grilled picanha in a fresh bread roll with chimichurri or molho - the classic Brazilian-Uruguayan street food.
 
 ## Serving
-At a Brazilian churrasco (the canonical setting) · at a Rio Grande do Sul gaucho ranch (the original picanha territory) · at a Brazilian steakhouse (churrascaria) anywhere in the world · at a Brazilian World Cup viewing party · at a Brazilian wedding reception · at home for a Saturday family barbecue · alongside cold beer and football on TV.
+At a Brazilian churrasco (the traditional setting) · at a Rio Grande do Sul gaucho ranch (the original picanha territory) · at a Brazilian steakhouse (churrascaria) anywhere in the world · at a Brazilian World Cup viewing party · at a Brazilian wedding reception · at home for a Saturday family barbecue · alongside cold beer and football on TV.
 
 ## Storage
 - Cooked picanha refrigerates 3 days; eat cold sliced or reheat gently.

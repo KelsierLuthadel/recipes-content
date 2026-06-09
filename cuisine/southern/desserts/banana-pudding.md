@@ -2,7 +2,7 @@
 
 ![Banana Pudding](resources/banana-pudding.jpg)
 
-*The South's no-bake banana dessert: layers of sliced bananas, vanilla custard (or Jell-O instant vanilla pudding for the canonical 20th-century version), Nilla wafers (the canonical Southern wafer biscuit) and whipped cream, chilled till the wafers soften into the custard. The Southern church-potluck and family-reunion classic.*
+*The South's no-bake banana dessert: layers of sliced bananas, vanilla custard (or Jell-O instant vanilla pudding for the traditional 20th-century version), Nilla wafers (the traditional Southern wafer biscuit) and whipped cream, chilled till the wafers soften into the custard. The Southern church-potluck and family-reunion classic.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (custard)
 
 ## Overview
-Banana pudding is one of the South's most iconic desserts and a fixture at every family reunion, church potluck and Sunday dinner across the South: layers of sliced ripe bananas (5-6 ripe yellow-spotted bananas; the dish depends on banana quality), vanilla custard (made from scratch with egg yolks, milk, sugar and cornstarch; or the canonical 20th-century shortcut version using Jell-O instant vanilla pudding mix with milk), Nilla wafers (the iconic Nabisco vanilla wafer biscuits; the canonical Southern choice - substitute with shortbread biscuits or any small vanilla wafers), and finally whipped cream (or meringue topping for fancier versions). Layered in a deep glass dish or trifle bowl, refrigerated 4 hours so the wafers soften into the custard, and served chilled.
+Banana pudding is one of the South's most iconic desserts and a fixture at every family reunion, church potluck and Sunday dinner across the South: layers of sliced ripe bananas (5-6 ripe yellow-spotted bananas; the dish depends on banana quality), vanilla custard (made from scratch with egg yolks, milk, sugar and cornstarch; or the traditional 20th-century shortcut version using Jell-O instant vanilla pudding mix with milk), Nilla wafers (the iconic Nabisco vanilla wafer biscuits; the traditional Southern choice - substitute with shortbread biscuits or any small vanilla wafers), and finally whipped cream (or meringue topping for fancier versions). Layered in a deep glass dish or trifle bowl, refrigerated 4 hours so the wafers soften into the custard, and served chilled.
 
 ## Ingredients
 
@@ -79,12 +79,12 @@ Banana pudding is one of the South's most iconic desserts and a fixture at every
 
 ## Notes
 - **Ripe bananas:** sweeter is better.
-- **Nilla wafers canonical:** the Southern signature.
+- **Nilla wafers traditional:** the Southern signature.
 - **Chill 4+ hours:** wafers MUST soften.
-- **From-scratch custard is the upgrade; Jell-O instant is the canonical shortcut.**
+- **From-scratch custard is the upgrade; Jell-O instant is the traditional shortcut.**
 
 ## Variations
-**Jell-O instant version (the canonical 20th-century):** mix 2 boxes of Jell-O instant vanilla pudding with 1 litre of cold milk; layer as recipe.
+**Jell-O instant version (the traditional 20th-century):** mix 2 boxes of Jell-O instant vanilla pudding with 1 litre of cold milk; layer as recipe.
 **With meringue topping:** instead of whipped cream, top with a 7-minute frosting (Italian meringue) and toast briefly.
 **With caramel sauce:** drizzle caramel sauce between layers.
 **Smaller individual portions:** layer in 6-8 small glass jars.

@@ -2,7 +2,7 @@
 
 ![Brigadeiros](resources/brigadeiros.jpg)
 
-*Brazil's most beloved dessert: a fudgy chocolate truffle made by simmering sweetened condensed milk with butter and cocoa to a thick fudge, then rolled into balls and coated in chocolate sprinkles. The canonical Brazilian birthday-party dessert; the dish every Brazilian grandmother makes; the one Brazilian dessert that's exported worldwide.*
+*Brazil's most beloved dessert: a fudgy chocolate truffle made by simmering sweetened condensed milk with butter and cocoa to a thick fudge, then rolled into balls and coated in chocolate sprinkles. The traditional Brazilian birthday-party dessert; the dish every Brazilian grandmother makes; the one Brazilian dessert that's exported worldwide.*
 
 **Serves:** Makes 30-40 small truffles
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12-15 minutes
 
 ## Overview
-Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political candidate whose supporters supposedly served the truffles at campaign events) are Brazil's most universally beloved dessert. Every Brazilian birthday party from infants to ninety-year-olds features a tray of brigadeiros; every Brazilian dessert table has them; every Brazilian schoolchild can name them; every Brazilian grandmother has a signature method. The construction is brilliantly simple: sweetened condensed milk, unsweetened cocoa and butter simmered together to a thick fudge, cooled, rolled into walnut-sized balls with buttered hands, and rolled in chocolate sprinkles (granulado, the canonical coating). The Brazilian doneness test is "pulling away from the pan"; when you draw a wooden spoon through the mixture, the bottom of the pan should stay visible for 2 to 3 seconds before the fudge flows back. The result is a soft, dense, dark-chocolate fudgy truffle that is both intensely Brazilian and instantly addictive.
+Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political candidate whose supporters supposedly served the truffles at campaign events) are Brazil's most universally beloved dessert. Every Brazilian birthday party from infants to ninety-year-olds features a tray of brigadeiros; every Brazilian dessert table has them; every Brazilian schoolchild can name them; every Brazilian grandmother has a signature method. The construction is brilliantly simple: sweetened condensed milk, unsweetened cocoa and butter simmered together to a thick fudge, cooled, rolled into walnut-sized balls with buttered hands, and rolled in chocolate sprinkles (granulado, the traditional coating). The Brazilian doneness test is "pulling away from the pan"; when you draw a wooden spoon through the mixture, the bottom of the pan should stay visible for 2 to 3 seconds before the fudge flows back. The result is a soft, dense, dark-chocolate fudgy truffle that is both intensely Brazilian and instantly addictive.
 
 ## Ingredients
 
@@ -52,7 +52,7 @@ Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political ca
 5. The mixture will gradually thicken; you'll see it pulling away from the sides and bottom of the pan as you stir.
 
 ### Stage 3 - Test for doneness
-1. The canonical Brazilian "pulling away" test: draw the wooden spoon across the bottom of the pan, leaving a clear path; the path should remain visible for 2-3 seconds before the mixture flows back to fill it.
+1. The traditional Brazilian "pulling away" test: draw the wooden spoon across the bottom of the pan, leaving a clear path; the path should remain visible for 2-3 seconds before the mixture flows back to fill it.
 2. Alternatively, drop a small amount on a cold plate; if it forms a soft fudge ball after 30 seconds (rather than a flat splat), it's ready.
 3. If you go too long, the mixture will get too hard.
 4. If you go too short, the mixture will be too soft to roll.
@@ -86,9 +86,9 @@ Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political ca
 
 ## Notes
 - **Stir constantly:** non-negotiable. The mixture burns in seconds without constant stirring.
-- **The "pulling away" test:** the canonical Brazilian test. With practice you know the exact moment.
+- **The "pulling away" test:** the traditional Brazilian test. With practice you know the exact moment.
 - **Butter your hands:** essential for rolling. The fudge is sticky.
-- **Don't substitute cocoa with chocolate:** cocoa powder is the canonical ingredient. Melted chocolate gives a different (less authentic) texture.
+- **Don't substitute cocoa with chocolate:** cocoa powder is the traditional ingredient. Melted chocolate gives a different (less authentic) texture.
 - **Roll while the fudge is still slightly warm:** if it gets too cold and hard, it cracks when you try to roll. If too soft, it slumps.
 
 ## Variations
@@ -98,16 +98,16 @@ Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political ca
 **Brigadeiro de pistache (pistachio):** use white chocolate + 80g ground pistachios. Roll in chopped pistachios.
 **Brigadeiro de coco (coconut):** use full-fat coconut milk instead of condensed milk + add 100g desiccated coconut. Roll in shredded coconut.
 **Brigadeiro com nozes (with nuts):** add 80 g chopped walnuts or hazelnuts to the cooking mixture. Roll in chopped same nuts.
-**Beijinho (the white version with coconut):** see [beijinhos recipe](beijinhos.md) - the canonical white sister.
+**Beijinho (the white version with coconut):** see [beijinhos recipe](beijinhos.md) - the traditional white sister.
 **Brigadeiro de panela (the pan-eating version):** don't roll into balls; just eat warm from the pan with a spoon. The illicit Brazilian "I-eat-the-leftovers" version.
 **Black brigadeiro (modern):** add 20g of activated charcoal for visual drama - modern dessert-bar version.
 
 ## Serving
-At every Brazilian birthday party (the canonical setting - never absent) · at a Brazilian wedding's dessert table · at a Brazilian Christmas dinner · at a Brazilian baby shower · at a Brazilian friends-meet-at-home gathering · at a Brazilian school bake-sale · at home as a quick weeknight treat · alongside coffee at a Brazilian café (the "brigadeiro-of-the-day" tradition).
+At every Brazilian birthday party (the traditional setting - never absent) · at a Brazilian wedding's dessert table · at a Brazilian Christmas dinner · at a Brazilian baby shower · at a Brazilian friends-meet-at-home gathering · at a Brazilian school bake-sale · at home as a quick weeknight treat · alongside coffee at a Brazilian café (the "brigadeiro-of-the-day" tradition).
 
 ## Storage
 - Refrigerates 1 week in a sealed container.
 - The sprinkles stay crisp; the fudge stays firm.
 - Don't freeze (the texture changes on defrosting).
 - Best at room temperature or slightly chilled; never warm (the fudge softens too much).
-- Made-ahead brigadeiros are perfect for parties; the canonical Brazilian party-prep is to make brigadeiros 1-2 days ahead.
+- Made-ahead brigadeiros are perfect for parties; the traditional Brazilian party-prep is to make brigadeiros 1-2 days ahead.

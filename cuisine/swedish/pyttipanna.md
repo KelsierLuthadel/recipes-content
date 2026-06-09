@@ -2,7 +2,7 @@
 
 ![Pyttipanna](resources/pyttipanna.jpg)
 
-*Sweden's leftovers hash: small cubes of cold cooked potato, onion, sausage and any other leftover meat all fried hard in butter till deeply golden and crispy at the edges, served with a sunny-side-up fried egg on top, pickled beetroot, and a small spoon of Dijon mustard. The Swedish weeknight everything-up dinner and the canonical hangover breakfast.*
+*Sweden's leftovers hash: small cubes of cold cooked potato, onion, sausage and any other leftover meat all fried hard in butter till deeply golden and crispy at the edges, served with a sunny-side-up fried egg on top, pickled beetroot, and a small spoon of Dijon mustard. The Swedish weeknight everything-up dinner and the traditional hangover breakfast.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation dish and the canonical Monday-night dinner (made from Sunday's leftover roast). The construction is loose by design: small cubes of cold cooked potato (the canonical base), small cubes of cold cooked meat (typically a falukorv-style smoked Swedish sausage; or ham, leftover roast beef, or any meat from the previous day's meal), finely chopped onion. All fried hard in butter in a wide pan till the edges crisp and brown. Served with a sunny-side-up fried egg on top of each portion (the runny yolk is the sauce), pickled beetroot (rödbetor - the canonical Swedish accompaniment, the sweet-vinegary lift), a small spoon of Dijon mustard on the side, and chopped fresh parsley. Eaten with a fork, often standing at the kitchen counter.
+Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation dish and the traditional Monday-night dinner (made from Sunday's leftover roast). The construction is loose by design: small cubes of cold cooked potato (the traditional base), small cubes of cold cooked meat (typically a falukorv-style smoked Swedish sausage; or ham, leftover roast beef, or any meat from the previous day's meal), finely chopped onion. All fried hard in butter in a wide pan till the edges crisp and brown. Served with a sunny-side-up fried egg on top of each portion (the runny yolk is the sauce), pickled beetroot (rödbetor - the traditional Swedish accompaniment, the sweet-vinegary lift), a small spoon of Dijon mustard on the side, and chopped fresh parsley. Eat with a fork, often standing at the kitchen counter.
 
 ## Ingredients
 
@@ -30,10 +30,10 @@ Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation
 - 1 small bunch fresh parsley (chopped)
 
 ### To serve
-- Pickled beetroot (sliced or chopped; from a jar; the canonical accompaniment)
+- Pickled beetroot (sliced or chopped; from a jar; the traditional accompaniment)
 - Dijon mustard
 - A glass of cold milk OR a small lager
-- Optional: HP sauce or ketchup (less canonical)
+- Optional: HP sauce or ketchup (less traditional)
 
 ## Method
 
@@ -86,7 +86,7 @@ Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation
 **Vegetarian (växt-pytt):** swap the meat for cubed halloumi, smoked tofu, or chopped roasted vegetables.
 **Beef-and-potato only:** old-school version with just leftover roast beef.
 **With brown butter:** swap the cooking butter for ghee or brown butter for extra nuttiness.
-**Pyttipanna med rödbetor i:** beetroot diced into the hash rather than on the side (less canonical but a nice variant).
+**Pyttipanna med rödbetor i:** beetroot diced into the hash rather than on the side (less traditional but a nice variant).
 **With salty fish:** add diced cold smoked salmon or pickled herring at the end.
 
 ## Serving

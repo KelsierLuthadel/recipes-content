@@ -2,7 +2,7 @@
 
 ![Cheese Blintzes](resources/cheese-blintzes.jpg)
 
-*The Shavuot pancake. Thin crepes wrapped around a sweet farmer-cheese filling, folded into neat little envelopes, fried gently in butter until the skin crisps and the cheese inside warms through. Eaten with sour cream and a spoon of berry compote.*
+*The Shavuot pancake. Thin crepes wrapped around a sweet farmer-cheese filling, folded into neat little envelopes, fried gently in butter until the skin crisps and the cheese inside warms through. Eat with sour cream and a spoon of berry compote.*
 
 **Serves:** 4 (makes 12 blintzes)
 
@@ -70,7 +70,7 @@ Cheese blintzes are the Eastern European Jewish answer to the crepe-with-filling
 1. Place 2-3 blintzes per person on a warm plate. Spoon sour cream alongside and a spoon of berry compote over or next to. Dust the blintzes lightly with icing sugar.
 
 ## Notes
-- Farmer cheese (sometimes called "twaróg" in Polish shops, or "tvorog" in Russian ones) is the canonical filling and worth tracking down. Drained ricotta is the most accessible substitute; well-drained full-fat cottage cheese also works, blitzed briefly in a food processor for a smoother texture.
+- Farmer cheese (sometimes called "twaróg" in Polish shops, or "tvorog" in Russian ones) is the traditional filling and worth tracking down. Drained ricotta is the most accessible substitute; well-drained full-fat cottage cheese also works, blitzed briefly in a food processor for a smoother texture.
 - For a savoury version, omit the sugar and vanilla, add 100 g grated gruyere or a handful of chopped chives. Serve with apple sauce instead of berries.
 - Blintzes can be assembled hours ahead and chilled, then fried just before serving. They also freeze well once assembled (before the fry stage) - fry from frozen with the heat dropped slightly, adding 2 minutes per side.
 

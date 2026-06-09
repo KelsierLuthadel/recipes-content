@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Carciofi alla Romana is the iconic spring artichoke dish of Rome and one of the most beloved Italian vegetable preparations: Roman artichokes (Carciofi Romani, the large round purple-green variety; substitute with regular globe artichokes outside Italy) trimmed of outer leaves and tough chokes, stuffed with a fragrant mixture of finely chopped garlic, fresh mint, parsley and salt, then slow-braised stem-up in a wide deep pot with extra virgin olive oil, water and white wine till silky-tender. Served as an antipasto with crusty bread for sopping up the herb-infused oil. Roman artichokes peak February to April; the dish turns up on every Roman trattoria menu through spring. The mint and parsley together are the canonical Roman touch, not one or the other. The artichokes braise stem-up so the hearts absorb the herb-oil. The braising oil is part of the dish; serve some of it on the side for bread-dipping.
+Carciofi alla Romana is the iconic spring artichoke dish of Rome and one of the most beloved Italian vegetable preparations: Roman artichokes (Carciofi Romani, the large round purple-green variety; substitute with regular globe artichokes outside Italy) trimmed of outer leaves and tough chokes, stuffed with a fragrant mixture of finely chopped garlic, fresh mint, parsley and salt, then slow-braised stem-up in a wide deep pot with extra virgin olive oil, water and white wine till silky-tender. Served as an antipasto with crusty bread for sopping up the herb-infused oil. Roman artichokes peak February to April; the dish turns up on every Roman trattoria menu through spring. The mint and parsley together are the traditional Roman touch, not one or the other. The artichokes braise stem-up so the hearts absorb the herb-oil. The braising oil is part of the dish; serve some of it on the side for bread-dipping.
 
 ## Ingredients
 
@@ -72,7 +72,7 @@ Carciofi alla Romana is the iconic spring artichoke dish of Rome and one of the 
 
 ## Notes
 - **Roman artichokes if possible:** large round purple-green; substitute with globe.
-- **Mint AND parsley:** Roman canonical.
+- **Mint AND parsley:** Roman traditional.
 - **Stem-up braising:** the heart absorbs the flavours.
 - **Generous olive oil:** part of the dish.
 - **Eat the heart and the soft tender leaves:** scoop and bite.
@@ -80,7 +80,7 @@ Carciofi alla Romana is the iconic spring artichoke dish of Rome and one of the 
 ## Variations
 **Carciofi alla Giudia (Jewish-Roman style):** twice-fried whole artichokes till crispy; the related but distinct Jewish-Roman classic.
 **With anchovy:** add 4 anchovy fillets to the herb stuffing; gives umami.
-**With pecorino:** add grated Pecorino Romano to the stuffing; less canonical but works.
+**With pecorino:** add grated Pecorino Romano to the stuffing; less traditional but works.
 **Smaller artichokes:** use baby artichokes; cook 25 minutes; eat whole.
 
 ## Serving

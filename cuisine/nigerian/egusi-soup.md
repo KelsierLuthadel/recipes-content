@@ -2,7 +2,7 @@
 
 ![Egusi Soup](resources/egusi-soup.jpg)
 
-*Nigeria's defining stew: ground melon seeds simmered with palm oil, smoked fish, meat and greens. Eaten with fufu by the fingers.*
+*Nigeria's defining stew: ground melon seeds simmered with palm oil, smoked fish, meat and greens. Eat with fufu by the fingers.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Nigeria's defining stew and the dish that gets argued over with as much passion as jollof: ground melon seeds (egusi) cooked in palm oil with smoked fish, meat and greens, eaten with fufu by the fingers. The technique that defines the dish is cooking the egusi in clumps rather than dissolving it: dropped as spoonfuls of paste into the hot pot, left undisturbed so the bottom sets, then gently broken up and fried until the texture turns granular like couscous and the oil rises shiny at the edges. Real red palm oil is non-negotiable; refined yellow oil won't make egusi. Smoked fish, ground crayfish and iru (fermented locust beans) layer the depth; chopped leafy greens (bitter leaf, spinach or ugu) wilt in last. Eaten by hand alongside fufu, pounded yam, eba or rice: pinching off fufu and dipping into the egusi.
+Nigeria's defining stew and the dish that gets argued over with as much passion as jollof: ground melon seeds (egusi) cooked in palm oil with smoked fish, meat and greens, eaten with fufu by the fingers. The technique that defines the dish is cooking the egusi in clumps rather than dissolving it: dropped as spoonfuls of paste into the hot pot, left undisturbed so the bottom sets, then gently broken up and fried until the texture turns granular like couscous and the oil rises shiny at the edges. Real red palm oil is non-negotiable; refined yellow oil won't make egusi. Smoked fish, ground crayfish and iru (fermented locust beans) layer the depth; chopped leafy greens (bitter leaf, spinach or ugu) wilt in last. Eat by hand alongside fufu, pounded yam, eba or rice: pinching off fufu and dipping into the egusi.
 
 ## Ingredients
 

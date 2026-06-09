@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours (active); 2-3 days of reheating
 
 ## Overview
-Bigos is Poland's great hunter's stew, the pot you start on Saturday and eat from for the rest of the week. Sauerkraut and fresh cabbage simmer slow with four different meats (smoked bacon, pork shoulder, beef and kielbasa), dried porcini, prunes and red wine until everything melts into one deep-mahogany whole. The truth about bigos is that it isn't actually done at three hours of simmering. Cool overnight, reheat the next day for thirty minutes, do it again the day after, and the flavour deepens at every round until by day three it has become the stew Poles dream about. Juniper, caraway, allspice and a teaspoon of sweet paprika carry the warmth. Eaten with dark rye bread, sharp mustard and sometimes mashed potato, with a small glass of something cold poured to the side.
+Bigos is Poland's great hunter's stew, the pot you start on Saturday and eat from for the rest of the week. Sauerkraut and fresh cabbage simmer slow with four different meats (smoked bacon, pork shoulder, beef and kielbasa), dried porcini, prunes and red wine until everything melts into one deep-mahogany whole. The truth about bigos is that it isn't actually done at three hours of simmering. Cool overnight, reheat the next day for thirty minutes, do it again the day after, and the flavour deepens at every round until by day three it has become the stew Poles dream about. Juniper, caraway, allspice and a teaspoon of sweet paprika carry the warmth. Eat with dark rye bread, sharp mustard and sometimes mashed potato, with a small glass of something cold poured to the side.
 
 ## Ingredients
 

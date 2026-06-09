@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Köfte is Turkey's most beloved meat dish and one of the country's most distinctive contributions to world cuisine. Hand-shaped patties or short fat sausages made from minced beef (or a 50/50 beef-and-lamb mix; sometimes pure lamb) at least 20% fat: lean meat gives dry tough köfte: seasoned with finely chopped onion, garlic, parsley, cumin, dried mint, Aleppo pepper (pul biber, the canonical Turkish dried red pepper, mild and fragrant) and sumac. The seasoning is the dish's identity: those four spices are what mark it as Turkish, and the Aleppo pepper specifically gives the warm fragrant moderate-heat character. The mince kneads with the seasonings for three or four minutes till sticky-elastic; lazy mixing gives crumbly meatballs that fall apart on the grill. Grilled over charcoal (or a hot griddle pan) till the outside chars and the inside stays juicy. Variety across Turkey is enormous: every region has its own shape and seasoning: but the home-cook version of round or oval patties on a hot pan is what most Turkish kitchens make.
+Köfte is Turkey's most beloved meat dish and one of the country's most distinctive contributions to world cuisine. Hand-shaped patties or short fat sausages made from minced beef (or a 50/50 beef-and-lamb mix; sometimes pure lamb) at least 20% fat: lean meat gives dry tough köfte: seasoned with finely chopped onion, garlic, parsley, cumin, dried mint, Aleppo pepper (pul biber, the traditional Turkish dried red pepper, mild and fragrant) and sumac. The seasoning is the dish's identity: those four spices are what mark it as Turkish, and the Aleppo pepper specifically gives the warm fragrant moderate-heat character. The mince kneads with the seasonings for three or four minutes till sticky-elastic; lazy mixing gives crumbly meatballs that fall apart on the grill. Grilled over charcoal (or a hot griddle pan) till the outside chars and the inside stays juicy. Variety across Turkey is enormous: every region has its own shape and seasoning: but the home-cook version of round or oval patties on a hot pan is what most Turkish kitchens make.
 
 ## Ingredients
 
@@ -83,7 +83,7 @@ Köfte is Turkey's most beloved meat dish and one of the country's most distinct
 ## Notes
 - **20% fat minimum:** lean meat gives dry tough köfte. Use minced meat with at least 20% fat; you can ask the butcher for "köfte mince" or "kebab mince" which is fattier.
 - **Mix till sticky:** the 3-4 minutes of vigorous mixing is essential. Lazy mixing gives köfte that crumble on the grill.
-- **Aleppo pepper (pul biber):** the canonical Turkish dried red pepper. Available at Middle Eastern and Turkish markets. Sweet paprika + a pinch of cayenne is a substitute but not the same.
+- **Aleppo pepper (pul biber):** the traditional Turkish dried red pepper. Available at Middle Eastern and Turkish markets. Sweet paprika + a pinch of cayenne is a substitute but not the same.
 - **Rest the mince:** 2 hours minimum, ideally overnight. The resting period lets the flavours develop and the mince firms up for easier shaping.
 - **Don't overcook:** 6-7 minutes total cooking gives properly juicy köfte; longer gives dry meat. Cook to just-done.
 
@@ -94,7 +94,7 @@ Köfte is Turkey's most beloved meat dish and one of the country's most distinct
 **İçli köfte (stuffed bulgur shells):** shape bulgur-and-meat dough into hollow ovals; fill with spiced meat mince; deep-fry. The fancy köfte variation for special occasions.
 
 ## Serving
-On warm Turkish flatbread with all the canonical sides: sliced tomato, sliced cucumber, sliced red onion with sumac, plain thick yogurt, lemon wedges, fresh parsley and dill. Drink: ayran (the salted yogurt drink); rakı (the aniseed spirit; the canonical Turkish pairing); cold beer; or a glass of strong sweet tea after the meal.
+On warm Turkish flatbread with all the traditional sides: sliced tomato, sliced cucumber, sliced red onion with sumac, plain thick yogurt, lemon wedges, fresh parsley and dill. Drink: ayran (the salted yogurt drink); rakı (the aniseed spirit; the traditional Turkish pairing); cold beer; or a glass of strong sweet tea after the meal.
 
 ## Storage
 - Best eaten fresh and warm.

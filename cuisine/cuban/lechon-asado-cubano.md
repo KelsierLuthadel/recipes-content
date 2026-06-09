@@ -109,7 +109,7 @@ Lechón asado is Cuba's national celebration roast: the Nochebuena (Christmas Ev
 6. Pass the cuerito around for everyone.
 
 ## Notes
-- **Sour orange (naranja agria) is canonical:** if you can find it, use it. Otherwise equal parts orange juice and lime juice is the standard substitute.
+- **Sour orange (naranja agria) is traditional:** if you can find it, use it. Otherwise equal parts orange juice and lime juice is the standard substitute.
 - **Generous marinade:** the mojo should penetrate deep. Pierce the meat and skin to help.
 - **Long marinade:** 12 hours minimum, 24 hours ideal. 48 hours is even better.
 - **Two-temperature roast:** 5 hours at low + 30 minutes at high. Don't constant-temperature roast.
@@ -127,6 +127,6 @@ On a wooden board at the centre of the Nochebuena table. With black beans, rice 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens overnight.
 - Reheat in a covered oven dish at 160°C / 325°F for 25-30 minutes.
-- The shredded leftover lechón is the canonical filling for Cubano sandwiches.
+- The shredded leftover lechón is the traditional filling for Cubano sandwiches.
 - Freezes 3 months shredded in portions; defrost in the fridge.
 - The pan juices (after skimming fat) make excellent gravy.

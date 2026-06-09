@@ -2,7 +2,7 @@
 
 ![Käsekrainer](resources/kaesekrainer.jpg)
 
-*Vienna's cheese-stuffed sausage: a coarse-ground pork and beef sausage studded with small cubes of Emmentaler that melt into hot lava pockets when grilled. Eaten splayed open in a roll with sweet mustard and curry ketchup at every late-night Würstelstand in the city.*
+*Vienna's cheese-stuffed sausage: a coarse-ground pork and beef sausage studded with small cubes of Emmentaler that melt into hot lava pockets when grilled. Eat splayed open in a roll with sweet mustard and curry ketchup at every late-night Würstelstand in the city.*
 
 **Serves:** 4
 
@@ -66,7 +66,7 @@ Käsekrainer is the cheese-stuffed sausage that defines late-night Vienna street
 **Pizzaiola:** the late-night Vienna excess; the split sausage topped with tomato sauce and mozzarella and grilled briefly till bubbling.
 
 ## Serving
-The canonical Würstelstand presentation: splayed open in a kaiser roll with sweet mustard, curry ketchup and pickled gherkins. Drink: cold Ottakringer or Stiegl lager. The traditional time is late night; the proper time is anytime.
+The traditional Würstelstand presentation: splayed open in a kaiser roll with sweet mustard, curry ketchup and pickled gherkins. Drink: cold Ottakringer or Stiegl lager. The traditional time is late night; the proper time is anytime.
 
 ## Storage
 - Best eaten the moment they come off the heat. The cheese starts to firm up within minutes.

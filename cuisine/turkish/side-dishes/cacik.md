@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an iconic meze: close cousin to Greek tzatziki, Bulgarian tarator, Iranian māst-o-khiar and Indian raita, but with its own distinct Turkish character: thinner consistency, heavier on the dried mint, and almost always with dill. There are two distinct serving styles. The thick cacık is used as a meze dip with bread (closer in consistency to tzatziki); the thin cacık is served in a small bowl at the side of a meal, almost a cold soup, eaten with a spoon between bites of richer food: the canonical Turkish way. Süzme yoghurt (strained yogurt; or Greek-style; or regular yogurt strained through muslin for an hour or two) gives the proper body: watery yogurt doesn't carry the dish. The cucumber gets salted ten minutes and drained before going in, or it makes the dip watery. Dried mint is essential alongside the fresh dill; both is best. Finished with a small pool of olive oil and an extra sprinkle of dried mint on top.
+Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an iconic meze: close cousin to Greek tzatziki, Bulgarian tarator, Iranian māst-o-khiar and Indian raita, but with its own distinct Turkish character: thinner consistency, heavier on the dried mint, and almost always with dill. There are two distinct serving styles. The thick cacık is used as a meze dip with bread (closer in consistency to tzatziki); the thin cacık is served in a small bowl at the side of a meal, almost a cold soup, eaten with a spoon between bites of richer food: the traditional Turkish way. Süzme yoghurt (strained yogurt; or Greek-style; or regular yogurt strained through muslin for an hour or two) gives the proper body: watery yogurt doesn't carry the dish. The cucumber gets salted ten minutes and drained before going in, or it makes the dip watery. Dried mint is essential alongside the fresh dill; both is best. Finished with a small pool of olive oil and an extra sprinkle of dried mint on top.
 
 ## Ingredients
 
@@ -56,7 +56,7 @@ Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an i
 2. Add the cold water gradually; the amount depends on the consistency you want.
    - 0 ml = thick dip-style (Greek-tzatziki consistency)
    - 50 ml = medium dip
-   - 100 ml = thin cacık (canonical Turkish side-bowl)
+   - 100 ml = thin cacık (traditional Turkish side-bowl)
    - 150 ml = soup-like cacık (rural Turkish style)
 3. Whisk till smooth.
 
@@ -78,9 +78,9 @@ Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an i
 5. Serve cold alongside grilled meats and rice, or with warm flatbread for dipping.
 
 ## Notes
-- **Strained yogurt is essential:** thin watery yogurt won't give the proper body. Süzme yoğurt is the canonical Turkish choice; Greek-style yogurt is the easy substitute. To make from regular yogurt: line a sieve with muslin or a clean tea towel; pour in the yogurt; let drain over a bowl in the fridge for 1-2 hours.
+- **Strained yogurt is essential:** thin watery yogurt won't give the proper body. Süzme yoğurt is the traditional Turkish choice; Greek-style yogurt is the easy substitute. To make from regular yogurt: line a sieve with muslin or a clean tea towel; pour in the yogurt; let drain over a bowl in the fridge for 1-2 hours.
 - **Salt and drain the cucumber:** the most common mistake is adding wet cucumber. The 10-minute salt-and-squeeze step is essential.
-- **Dried mint is canonical:** fresh mint alone gives a different profile. Dried mint (nane) is the proper Turkish flavour; combine with fresh for the best result.
+- **Dried mint is traditional:** fresh mint alone gives a different profile. Dried mint (nane) is the proper Turkish flavour; combine with fresh for the best result.
 - **Garlic mellows with time:** garlic added fresh is sharp; the 30-minute rest mellows it. Skip the rest only if you're pressed.
 - **Adjust water to taste:** Turkish cacık ranges from thick dip (no water) to thin cold-soup (lots of water). The middle (100 ml) is the most common.
 

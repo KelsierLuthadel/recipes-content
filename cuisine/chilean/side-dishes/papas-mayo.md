@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A Chilean potato salad, the Sunday-lunch staple that sits next to grilled meat and an ensalada chilena at any asado worth the name. You boil floury potatoes whole in their skins, peel and dice them while still warm so they soak up the dressing properly. Hard-boiled egg goes in halved or quartered, sliced spring onion adds bite, Dijon and mayonnaise bind, and a splash of white wine vinegar lifts the lot. Toss gently so the egg doesn't pulverise, with chopped parsley scattered over. Best slightly warm - the mayo grips the potato and the egg breaks into soft creamy crumbles. Eaten with grilled meat or as part of a wider lunch spread.
+A Chilean potato salad, the Sunday-lunch staple that sits next to grilled meat and an ensalada chilena at any asado worth the name. You boil floury potatoes whole in their skins, peel and dice them while still warm so they soak up the dressing properly. Hard-boiled egg goes in halved or quartered, sliced spring onion adds bite, Dijon and mayonnaise bind, and a splash of white wine vinegar lifts the lot. Toss gently so the egg doesn't pulverise, with chopped parsley scattered over. Best slightly warm - the mayo grips the potato and the egg breaks into soft creamy crumbles. Eat with grilled meat or as part of a wider lunch spread.
 
 ## Ingredients
 

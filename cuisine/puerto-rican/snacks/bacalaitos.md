@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved street snacks and a fixture of every beach stand and fonda across the island. Thin lacy pancakes made from a flour-and-water batter studded with shredded desalted salt cod (bacalao), finely chopped onion, fresh cilantro and culantro, crushed garlic, sazón and a touch of baking powder. The batter drops by the ladleful into shallow hot oil and spreads into 12 cm rounds, frying till the edges go golden-brown and crispy and the centre stays slightly tender. Desalting the cod properly is essential: salt cod is heavily cured and needs twelve to twenty-four hours of soaking in cold water with several changes, or the fritters come out wildly oversalted. The batter wants to be thin enough to spread into a round in the pan, since thick batter gives heavy doughy fritters. The lacy crispy edges are the goal, not uniform thickness. Eaten immediately with a squeeze of lime and an ice-cold Medalla beer.
+Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved street snacks and a fixture of every beach stand and fonda across the island. Thin lacy pancakes made from a flour-and-water batter studded with shredded desalted salt cod (bacalao), finely chopped onion, fresh cilantro and culantro, crushed garlic, sazón and a touch of baking powder. The batter drops by the ladleful into shallow hot oil and spreads into 12 cm rounds, frying till the edges go golden-brown and crispy and the centre stays slightly tender. Desalting the cod properly is essential: salt cod is heavily cured and needs twelve to twenty-four hours of soaking in cold water with several changes, or the fritters come out wildly oversalted. The batter wants to be thin enough to spread into a round in the pan, since thick batter gives heavy doughy fritters. The lacy crispy edges are the goal, not uniform thickness. Eat immediately with a squeeze of lime and an ice-cold Medalla beer.
 
 ## Ingredients
 
@@ -96,7 +96,7 @@ Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved 
 
 ## Notes
 - **Desalt the cod properly:** the 18-24 hour cold-water soak with water changes is essential. Skipping gives wildly oversalted fritters.
-- **Thin batter:** the canonical bacalaítos has lacy crispy edges. Thick batter gives doughy fritters that aren't right.
+- **Thin batter:** the traditional bacalaítos has lacy crispy edges. Thick batter gives doughy fritters that aren't right.
 - **Don't add salt to the batter:** the cod brings plenty. Taste before adding any.
 - **Cilantro and culantro:** both for the proper PR flavour. If you can find culantro/recao at a Caribbean market, use it.
 - **Spread thin in the pan:** use the ladle to spread the batter into a 12 cm round before it sets. Aim for thin and lacy.
@@ -104,7 +104,7 @@ Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved 
 ## Variations
 **Spicier bacalaítos:** add 1 chopped habanero pepper to the batter; properly Caribbean fierce version.
 **With crab instead of cod:** swap the salt cod for 200 g of cooked crab meat (no desalting needed); gives a more luxurious variation.
-**Vegetarian fritters (bacalaítos sin bacalao):** skip the cod; double the herbs; add 100 g of grated cheese (queso fresco or feta) for protein/flavour; less canonical but works.
+**Vegetarian fritters (bacalaítos sin bacalao):** skip the cod; double the herbs; add 100 g of grated cheese (queso fresco or feta) for protein/flavour; less traditional but works.
 **Mini bacalaítos:** use teaspoons of batter instead of ladles; makes 30+ tiny fritters perfect for party canapés.
 
 ## Serving

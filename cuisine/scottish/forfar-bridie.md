@@ -66,7 +66,7 @@ The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lu
 5. Crimp the curved edge - Forfar style is a folded-over rope crimp, but a simple fork-pressed edge also works.
 
 ### Stage 5 - Steam holes and glaze
-1. With a sharp knife, punch two small steam holes through the top of each bridie (the canonical Forfar mark).
+1. With a sharp knife, punch two small steam holes through the top of each bridie (the traditional Forfar mark).
 2. Brush the tops generously with the egg-yolk glaze.
 3. Sprinkle a tiny pinch of flaked sea salt on each.
 
@@ -86,7 +86,7 @@ The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lu
 - **Minced beef and onion ONLY:** the Forfar bridie has no potato, no turnip, no carrot. That's a Cornish pasty, a different dish entirely. Don't be tempted.
 - **Beef-suet pastry, not butter shortcrust:** the bridie needs structural integrity to be handheld. Suet pastry holds shape better.
 - **Half-moon, not D-shape:** the Forfar bridie is a half-moon (curved edge to flat edge); the Cornish pasty is a D (flat top to curved bottom). Different region, different shape.
-- **Two steam holes:** the canonical Forfar mark. Without them, you have a meat pie, not a bridie.
+- **Two steam holes:** the traditional Forfar mark. Without them, you have a meat pie, not a bridie.
 - **Eat warm, not piping hot:** the filling is very hot just out of the oven; rest 5 minutes.
 
 ## Variations

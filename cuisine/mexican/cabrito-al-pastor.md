@@ -49,7 +49,7 @@ Cabrito al pastor is the iconic dish of Nuevo León and the city of Monterrey, a
 - Flaky sea salt
 
 ### To serve
-- Warm flour tortillas (the canonical Norteño choice)
+- Warm flour tortillas (the traditional Norteño choice)
 - Pico de gallo
 - Sliced avocado
 - Refried beans
@@ -133,5 +133,5 @@ At the centre of a Norteño-Mexican celebration table for family-style taco-buil
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.
 - Reheat covered in a 160°C oven for 25 minutes.
-- The shredded leftover meat is the canonical filling for the next day's tacos and burritos.
+- The shredded leftover meat is the traditional filling for the next day's tacos and burritos.
 - Freezes 3 months pulled.

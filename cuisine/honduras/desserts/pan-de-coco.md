@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pan de coco is the canonical bread of the Garifuna communities of Honduras's Caribbean coast, shared with Belize, Guatemala and Nicaragua: a soft enriched bun made with coconut milk, freshly grated coconut, butter, eggs, sugar and yeast, baked till the outside goes deep golden and the inside stays moist and faintly tropical. Part of every Garifuna household: breakfast with sweet milky coffee, lunch with fried fish, dessert with a drizzle of honey, or a snack any time. Found beyond the Caribbean coast too, at bakeries in Tegucigalpa and San Pedro Sula, and across the Honduran-American diaspora. The Honduran-Garifuna version distinguishes itself from the wider Caribbean coconut-bread family with a less-sweet profile (more bread than cake). Coconut milk in the dough is essential (not water or regular milk); it gives the proper tropical richness. The coconut must be freshly grated or desiccated soaked in warm milk first; dry desiccated goes through the dough without rehydrating and gives a chewy texture.
+Pan de coco is the traditional bread of the Garifuna communities of Honduras's Caribbean coast, shared with Belize, Guatemala and Nicaragua: a soft enriched bun made with coconut milk, freshly grated coconut, butter, eggs, sugar and yeast, baked till the outside goes deep golden and the inside stays moist and faintly tropical. Part of every Garifuna household: breakfast with sweet milky coffee, lunch with fried fish, dessert with a drizzle of honey, or a snack any time. Found beyond the Caribbean coast too, at bakeries in Tegucigalpa and San Pedro Sula, and across the Honduran-American diaspora. The Honduran-Garifuna version distinguishes itself from the wider Caribbean coconut-bread family with a less-sweet profile (more bread than cake). Coconut milk in the dough is essential (not water or regular milk); it gives the proper tropical richness. The coconut must be freshly grated or desiccated soaked in warm milk first; dry desiccated goes through the dough without rehydrating and gives a chewy texture.
 
 ## Ingredients
 
@@ -89,7 +89,7 @@ Pan de coco is the canonical bread of the Garifuna communities of Honduras's Car
 **Mini pan de coco:** divide into 16 smaller portions; bake 20 minutes. Great for party platters or breakfast trays.
 
 ## Serving
-With strong sweet milky coffee (the Honduran way), or hot chocolate (chocolate caliente; the canonical Honduran breakfast drink). At breakfast, lunch with fried fish, or as an afternoon snack. Children love them warm with butter; adults love them with coffee.
+With strong sweet milky coffee (the Honduran way), or hot chocolate (chocolate caliente; the traditional Honduran breakfast drink). At breakfast, lunch with fried fish, or as an afternoon snack. Children love them warm with butter; adults love them with coffee.
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 days; refrigerated 5 days. Reheat briefly in a hot oven to refresh.

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Tostones (called tachinos in Cuba and patacones in Colombia and Venezuela) is one of the most iconic Caribbean side dishes and a fundamental part of Puerto Rican cooking. Green plantains slice into thick rounds and fry in oil at moderate heat till the outsides are pale gold and the insides just cooked. The rounds then smash flat with a tostonera or a flat-bottomed glass, dip briefly in salted water (which dramatically crisps the surface; a crushed garlic clove in the water gives extra flavour), and fry again at higher heat till the outsides are deeply golden-brown and crispy. Properly green, hard, unripe plantains are essential; even slight yellow gives a sweet-soft result that's not quite tostones. The twice-fry is non-negotiable too; single-fried rounds are just "plantain rounds", not tostones. Served immediately with a sprinkle of salt and a small bowl of mayo-ketchup (the Boricua dipping sauce of mayo, ketchup and garlic; better than it sounds), ajilimójili (the canonical garlic-citrus sauce) or just a squeeze of lime.
+Tostones (called tachinos in Cuba and patacones in Colombia and Venezuela) is one of the most iconic Caribbean side dishes and a fundamental part of Puerto Rican cooking. Green plantains slice into thick rounds and fry in oil at moderate heat till the outsides are pale gold and the insides just cooked. The rounds then smash flat with a tostonera or a flat-bottomed glass, dip briefly in salted water (which dramatically crisps the surface; a crushed garlic clove in the water gives extra flavour), and fry again at higher heat till the outsides are deeply golden-brown and crispy. Properly green, hard, unripe plantains are essential; even slight yellow gives a sweet-soft result that's not quite tostones. The twice-fry is non-negotiable too; single-fried rounds are just "plantain rounds", not tostones. Served immediately with a sprinkle of salt and a small bowl of mayo-ketchup (the Boricua dipping sauce of mayo, ketchup and garlic; better than it sounds), ajilimójili (the traditional garlic-citrus sauce) or just a squeeze of lime.
 
 ## Ingredients
 
@@ -47,7 +47,7 @@ Tostones (called tachinos in Cuba and patacones in Colombia and Venezuela) is on
 ### Stage 3 - Smash the plantains
 1. Mix the warm water with 1 teaspoon of salt (and crushed garlic if using).
 2. Take each fried plantain round; place between two pieces of parchment paper.
-3. Press flat with the bottom of a heavy flat-bottomed glass, a tostonera (the canonical wooden tool), or the side of a flat-bottomed pan. Press to about 1 cm thickness.
+3. Press flat with the bottom of a heavy flat-bottomed glass, a tostonera (the traditional wooden tool), or the side of a flat-bottomed pan. Press to about 1 cm thickness.
 4. Dip each smashed plantain briefly in the salted water (just a quick dunk).
 5. Pat lightly with kitchen paper to remove excess water (it will spit in the hot oil).
 
@@ -72,7 +72,7 @@ Tostones (called tachinos in Cuba and patacones in Colombia and Venezuela) is on
 ## Variations
 **Stuffed tostones (mofongo cups):** smash the fried plantains into shot-glass-shaped cups using a tostonera; fill with seasoned shrimp, picadillo or shredded chicken; finish briefly in the oven. Common restaurant variation.
 **Tostones rellenos:** stuff with cheese before the second fry; gives a richer cheese-stuffed version.
-**Tostones with garlic-mojo:** brush hot tostones with mojo (garlic-lime sauce) instead of salt; gives the canonical Cuban take.
+**Tostones with garlic-mojo:** brush hot tostones with mojo (garlic-lime sauce) instead of salt; gives the traditional Cuban take.
 **Sweet plantain version (maduros):** use very ripe (black-spotted) plantains; just one fry, sliced longer (5 cm) and thinner (1 cm); see the maduros recipe.
 
 ## Serving

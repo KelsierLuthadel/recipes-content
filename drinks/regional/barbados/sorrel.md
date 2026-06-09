@@ -2,7 +2,7 @@
 
 ![Sorrel](resources/sorrel.jpg)
 
-*Barbados's canonical Christmas drink: dried hibiscus calyces steeped with ginger, cloves, cinnamon, allspice and orange peel, then sweetened, chilled, and optionally laced with dark Bajan rum for the adult Christmas pour.*
+*Barbados's traditional Christmas drink: dried hibiscus calyces steeped with ginger, cloves, cinnamon, allspice and orange peel, then sweetened, chilled, and optionally laced with dark Bajan rum for the adult Christmas pour.*
 
 **Serves:** 8-10 (makes about 1.5 litres)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sorrel is the most identity-specifically Christmas drink in the Caribbean, made in vast quantities from mid-November through January; a Bajan Christmas table without it is unthinkable. The naming is confusing: Caribbean "sorrel" refers to dried hibiscus calyces (the bright-crimson flower bracts of Hibiscus sabdariffa), not the European leafy-green herb of the same name; outside the Caribbean it's sold at Caribbean shops, Mexican shops (as "jamaica" or "flor de jamaica") and increasingly mainstream supermarkets. The aromatic line is the Caribbean Christmas-spice combination: fresh ginger, whole cloves, cinnamon sticks, allspice berries, orange peel and sometimes star anise: that turns plain hibiscus tea into the canonical Bajan Christmas drink. After a brief simmer the brew steeps a long time (12-24 hours) so the colour deepens to ruby and the flavours fully develop. Strained, sweetened generously, optionally laced with 60-120 ml of dark Bajan rum per litre for the canonical Christmas-Day adult pour. Served over ice: the deep red matches the season and the tart-sweet-spice profile pairs with Bajan Christmas ham and jug-jug.
+Sorrel is the most identity-specifically Christmas drink in the Caribbean, made in vast quantities from mid-November through January; a Bajan Christmas table without it is unthinkable. The naming is confusing: Caribbean "sorrel" refers to dried hibiscus calyces (the bright-crimson flower bracts of Hibiscus sabdariffa), not the European leafy-green herb of the same name; outside the Caribbean it's sold at Caribbean shops, Mexican shops (as "jamaica" or "flor de jamaica") and increasingly mainstream supermarkets. The aromatic line is the Caribbean Christmas-spice combination: fresh ginger, whole cloves, cinnamon sticks, allspice berries, orange peel and sometimes star anise: that turns plain hibiscus tea into the traditional Bajan Christmas drink. After a brief simmer the brew steeps a long time (12-24 hours) so the colour deepens to ruby and the flavours fully develop. Strained, sweetened generously, optionally laced with 60-120 ml of dark Bajan rum per litre for the traditional Christmas-Day adult pour. Served over ice: the deep red matches the season and the tart-sweet-spice profile pairs with Bajan Christmas ham and jug-jug.
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 - 1 piece fresh ginger (about 4 cm), peeled and thickly sliced
 - 1 strip orange peel (about 5 × 2 cm)
 - 1 strip lemon peel
-- 2 star anise pods (optional but very canonical)
+- 2 star anise pods (optional but very traditional)
 - 1 bay leaf (the Bajan addition)
 
 ### The sweetening
@@ -42,7 +42,7 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 
 ### To serve at a Bajan Christmas table
 - Bajan baked Christmas ham
-- Jug-jug (the canonical Bajan Christmas Eve dish)
+- Jug-jug (the traditional Bajan Christmas Eve dish)
 - Bajan rum cake
 - Coconut bread
 - Sorrel cocktail glasses or tall highball glasses
@@ -60,7 +60,7 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 ### Stage 2 - Long steep (12-24 hours; this is critical)
 1. Take the pan off the heat.
 2. Leave the hibiscus and spices in the brew.
-3. Let stand at cool room temperature 4-6 hours, OR refrigerate 12-24 hours for the canonical full-colour-and-flavour development.
+3. Let stand at cool room temperature 4-6 hours, OR refrigerate 12-24 hours for the traditional full-colour-and-flavour development.
 
 ### Stage 3 - Strain
 1. Strain the brew through a fine sieve into a clean pitcher or jug.
@@ -74,7 +74,7 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 4. Stir in the lime juice.
 
 ### Stage 5 - (Optional) Add the rum
-1. For the canonical Bajan Christmas adult version: stir in 120 ml of dark Bajan rum at this stage (or leave it out and pour rum into each individual glass).
+1. For the traditional Bajan Christmas adult version: stir in 120 ml of dark Bajan rum at this stage (or leave it out and pour rum into each individual glass).
 
 ### Stage 6 - Chill
 1. Cool to room temperature (about 30 minutes).
@@ -89,10 +89,10 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 
 ## Notes
 - **Dried hibiscus, not European sorrel:** the Caribbean "sorrel" is the hibiscus flower. European sorrel is a green herb - completely different.
-- **Long overnight steep:** the canonical Caribbean technique. 12-24 hours of cooled steep gives the deepest red colour and the fullest spice infusion.
-- **Generous sugar:** dried hibiscus is quite tart; 200-300 g sugar per 1.5 litres of brew is the canonical Caribbean sweetness.
+- **Long overnight steep:** the traditional Caribbean technique. 12-24 hours of cooled steep gives the deepest red colour and the fullest spice infusion.
+- **Generous sugar:** dried hibiscus is quite tart; 200-300 g sugar per 1.5 litres of brew is the traditional Caribbean sweetness.
 - **The Christmas timing:** in Barbados, sorrel is essentially a November-December-January drink. Outside that season it feels off-period.
-- **Adult vs kids' version:** the canonical Christmas adult version includes dark rum. Kids' sorrel is just the sweetened spiced infusion.
+- **Adult vs kids' version:** the traditional Christmas adult version includes dark rum. Kids' sorrel is just the sweetened spiced infusion.
 - **Don't over-simmer:** 25 minutes is enough. Longer simmering makes the spice profile too aggressive.
 
 ## Variations
@@ -103,12 +103,12 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 **Sorrel mocktail (non-alcoholic):** the kids' version with no rum - excellent for the designated driver.
 **Sorrel with pineapple (Trinidadian variant):** add 200 ml of pineapple juice - the Trinidadian Christmas variant.
 **Sorrel slushie:** blend the chilled sorrel with crushed ice - the Bajan summer variant.
-**Quick sorrel (24-hour batch):** simmer; steep 12 hours; strain and sweeten; faster than the canonical 24-hour version.
+**Quick sorrel (24-hour batch):** simmer; steep 12 hours; strain and sweeten; faster than the traditional 24-hour version.
 **Sorrel jelly:** dissolve gelatin in the strained warm brew; chill - the Bajan Christmas pudding variant.
 **Sorrel syrup:** concentrate by simmering 2x; use as a Bajan cocktail mixer year-round.
 
 ## Serving
-At a Bajan Christmas Eve dinner (the canonical setting; alongside jug-jug, baked ham, and Bajan rum cake) · at a Bajan Christmas Day lunch · at a Bajan New Year's Eve celebration · at a Bajan Independence Day (30 November) gathering · at a Caribbean Christmas-themed dinner · at home from mid-November through early January as the canonical Bajan Christmas drink · paired with Bajan baked ham, jug-jug, conkies, coconut bread, or rum cake.
+At a Bajan Christmas Eve dinner (the traditional setting; alongside jug-jug, baked ham, and Bajan rum cake) · at a Bajan Christmas Day lunch · at a Bajan New Year's Eve celebration · at a Bajan Independence Day (30 November) gathering · at a Caribbean Christmas-themed dinner · at home from mid-November through early January as the traditional Bajan Christmas drink · paired with Bajan baked ham, jug-jug, conkies, coconut bread, or rum cake.
 
 ## Storage
 - The chilled sorrel refrigerates 1 week; the flavour deepens slightly over time.

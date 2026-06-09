@@ -2,7 +2,7 @@
 
 ![Lahori Beef Boti Kebab](resources/lahori-beef-boti-kebab.jpg)
 
-*Lahore's chargrilled beef cubes: tenderloin marinated in papaya, yogurt and Lahori masala, threaded onto skewers and grilled over charcoal until the edges char and the centre stays pink. Eaten with naan, raw onion and a splash of vinegar-soused chillies.*
+*Lahore's chargrilled beef cubes: tenderloin marinated in papaya, yogurt and Lahori masala, threaded onto skewers and grilled over charcoal until the edges char and the centre stays pink. Eat with naan, raw onion and a splash of vinegar-soused chillies.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Lahore's chargrilled beef cubes from the kebab stalls of Gawalmandi and Anarkali: tenderloin marinated in papaya, yogurt and Lahori masala, threaded onto flat metal skewers and grilled over white-hot charcoal till the edges char and the centre stays juicy. The two-stage marinade is the canonical Lahori technique. Green papaya enzymes are powerful and a short initial soak tenderises the meat without turning it mushy; longer than half an hour and the texture collapses into pap. The yogurt-and-Lahori-masala stage that follows carries the flavour and wants overnight contact for proper depth. The mustard oil for the yogurt marinade must be smoked till just smoking and cooled before use; raw mustard oil is bitter and ruins the dish. Flat skewers only (round skewers spin in the hand and the cubes drop into the coals) is the practical detail the experienced kebab cooks know. Basted with melted butter at the final turn for the glossy finish, rested briefly off the heat, piled with vinegar-soused onion. Served with mint chutney, lemon wedges and warm naan.
+Lahore's chargrilled beef cubes from the kebab stalls of Gawalmandi and Anarkali: tenderloin marinated in papaya, yogurt and Lahori masala, threaded onto flat metal skewers and grilled over white-hot charcoal till the edges char and the centre stays juicy. The two-stage marinade is the traditional Lahori technique. Green papaya enzymes are powerful and a short initial soak tenderises the meat without turning it mushy; longer than half an hour and the texture collapses into pap. The yogurt-and-Lahori-masala stage that follows carries the flavour and wants overnight contact for proper depth. The mustard oil for the yogurt marinade must be smoked till just smoking and cooled before use; raw mustard oil is bitter and ruins the dish. Flat skewers only (round skewers spin in the hand and the cubes drop into the coals) is the practical detail the experienced kebab cooks know. Basted with melted butter at the final turn for the glossy finish, rested briefly off the heat, piled with vinegar-soused onion. Served with mint chutney, lemon wedges and warm naan.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours 30 minutes
 
 ## Overview
-Navy beans soak overnight. Bacon and onion render in a wide pot; cooked beans go in with a sauce of molasses, tomato puree, brown sugar, mustard, cider vinegar and beef stock. Bake covered at 150°C for 3 hours, uncovering for the last 30 minutes so the sauce reduces and sets sticky. The beans hold shape but the sauce thickens to glaze them.
+American baked beans are the slow-cooked, smoky-sweet pot that lands beside every plate of barbecue from Boston (where Boston baked beans gave the city its "Beantown" nickname) to the Carolinas. You soak navy beans overnight to soften the skins, then render bacon and onion in a wide oven pot till the fat runs and the onion turns translucent. The drained beans go in with a sticky sauce built around molasses, tomato puree, brown sugar, mustard, cider vinegar and beef stock; molasses is the traditional American sweetener and gives the deep bittersweet edge that distinguishes baked beans from the lighter British tomato version. The bake is long and low, covered for three hours so the beans drink the sauce without breaking, then uncovered for the last half-hour so the surface tacks up into a glossy glaze. The beans should hold their shape; collapsed mush is the sign of either old beans or too hot an oven. Eat alongside ribs, pulled pork, burgers or just a hot dog on a paper plate.
 
 ## Ingredients
 

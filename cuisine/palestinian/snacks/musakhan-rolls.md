@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The portable Palestinian wedding-and-iftar version of musakhan: the same caramelised-onion-and-sumac-chicken filling tucked into thin flatbread and rolled into golden cigars eaten warm with the hands. The filling does 80% of the work, so don't rush the onions. Four or five large red onions cooked low and slow in olive oil for twenty-five to thirty minutes till deep mahogany and sweet is the base; rushed onions give a dish that tastes flat. A heavy hand of sumac (three tablespoons isn't too much) with Aleppo pepper and allspice is the defining seasoning, and the sumac amount is what makes this taste Palestinian rather than generic. Markook flatbread is the canonical wrap; lavash or thin tortilla substitute. Served three per person with extra sumac and pine nuts scattered across, with a bowl of lemony yogurt for dipping.
+The portable Palestinian wedding-and-iftar version of musakhan: the same caramelised-onion-and-sumac-chicken filling tucked into thin flatbread and rolled into golden cigars eaten warm with the hands. The filling does 80% of the work, so don't rush the onions. Four or five large red onions cooked low and slow in olive oil for twenty-five to thirty minutes till deep mahogany and sweet is the base; rushed onions give a dish that tastes flat. A heavy hand of sumac (three tablespoons isn't too much) with Aleppo pepper and allspice is the defining seasoning, and the sumac amount is what makes this taste Palestinian rather than generic. Markook flatbread is the traditional wrap; lavash or thin tortilla substitute. Served three per person with extra sumac and pine nuts scattered across, with a bowl of lemony yogurt for dipping.
 
 ## Ingredients
 

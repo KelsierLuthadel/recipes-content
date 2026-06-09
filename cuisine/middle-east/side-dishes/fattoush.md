@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-The Levantine bread salad that uses up day-old pita, the kind of dish that turns up at every mezze table from Damascus to Detroit: chopped cucumber, tomato, radish, romaine, fresh mint and parsley tossed with shards of crisp toasted pita in a lemon-and-sumac dressing. Sumac is the colour and the tang and what makes fattoush fattoush; skip it and you have a salad, not the dish. Day-old pita torn into pieces, tossed with olive oil and baked till crisp; the pita must cool completely before going into the salad, or it softens the leaves. The dressing builds on lemon, sumac and pomegranate molasses (the tart-sweet syrup that distinguishes the Levantine version; balsamic with a teaspoon of honey substitutes). The pita goes in last; sitting in dressing for more than a few minutes turns it soggy. Eaten the moment it is tossed.
+The Levantine bread salad that uses up day-old pita, the kind of dish that turns up at every mezze table from Damascus to Detroit: chopped cucumber, tomato, radish, romaine, fresh mint and parsley tossed with shards of crisp toasted pita in a lemon-and-sumac dressing. Sumac is the colour and the tang and what makes fattoush fattoush; skip it and you have a salad, not the dish. Day-old pita torn into pieces, tossed with olive oil and baked till crisp; the pita must cool completely before going into the salad, or it softens the leaves. The dressing builds on lemon, sumac and pomegranate molasses (the tart-sweet syrup that distinguishes the Levantine version; balsamic with a teaspoon of honey substitutes). The pita goes in last; sitting in dressing for more than a few minutes turns it soggy. Eat the moment it is tossed.
 
 ## Ingredients
 

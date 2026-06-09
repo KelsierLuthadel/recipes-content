@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one of Malta's oldest dishes - a fishermen's soup that uses smaller mixed-catch fish in a clear garlicky tomato broth thickened with a small amount of rice. The dish became the canonical Maltese Friday and Lenten meal (Catholic fasting days). The construction: a head of garlic is sweated in olive oil with onion and tomato; fish stock and water are added; small chunks of white fish (cod, hake, sea bream, scorpion fish, monkfish - whatever was caught) are poached briefly; rice is cooked into the broth for body; the soup is finished with a generous shower of fresh mint, marjoram, and parsley, plus a squeeze of lemon.
+Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one of Malta's oldest dishes - a fishermen's soup that uses smaller mixed-catch fish in a clear garlicky tomato broth thickened with a small amount of rice. The dish became the traditional Maltese Friday and Lenten meal (Catholic fasting days). The construction: a head of garlic is sweated in olive oil with onion and tomato; fish stock and water are added; small chunks of white fish (cod, hake, sea bream, scorpion fish, monkfish - whatever was caught) are poached briefly; rice is cooked into the broth for body; the soup is finished with a generous shower of fresh mint, marjoram, and parsley, plus a squeeze of lemon.
 
 ## Ingredients
 
@@ -67,7 +67,7 @@ Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one o
 3. Serve with crusty Maltese bread for soaking and a lemon wedge.
 
 ## Notes
-- **A whole head of garlic:** the canonical Maltese amount. Don't reduce.
+- **A whole head of garlic:** the traditional Maltese amount. Don't reduce.
 - **Mint and marjoram:** the Maltese signature herbs. Don't substitute basil.
 - **Don't overcook the fish:** 3-4 minutes maximum; longer and it falls apart and gets dry.
 - **Day-fresh fish:** the dish was designed to use the day's catch.
@@ -80,7 +80,7 @@ Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one o
 **Spicy aljotta:** add 2 chopped chillies + 1 teaspoon harissa.
 
 ## Serving
-At a Maltese Friday dinner (canonical Catholic fasting tradition) · during Lent (the canonical Lenten soup) · at a Maltese fishing-village restaurant · at home as a light weeknight supper · with crusty bread for soaking up the broth.
+At a Maltese Friday dinner (traditional Catholic fasting tradition) · during Lent (the traditional Lenten soup) · at a Maltese fishing-village restaurant · at home as a light weeknight supper · with crusty bread for soaking up the broth.
 
 ## Storage
 - Refrigerates 2 days; the rice absorbs broth so add liquid when reheating.

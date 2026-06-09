@@ -8,7 +8,7 @@
 
 A mezze is a collection of small dishes served as a starter, an appetiser course, or as the entire meal. The Lebanese / Syrian mezze tradition is the most-codified version; similar small-plate traditions exist across the region (Egyptian salatat, Iraqi maza, Persian appetisers).
 
-A canonical mezze has:
+A traditional mezze has:
 
 - **2-3 dips** — hummus, baba ghanoush, muhammara, labneh.
 - **2-3 salads** — tabbouleh, fattoush, shanklish salad.
@@ -21,7 +21,7 @@ A canonical mezze has:
 
 The mezze is meant to be picked over slowly. A Lebanese dinner traditionally starts with mezze + arak (anise spirit + water + ice) for 60-90 minutes; only then does the main course appear.
 
-This page walks through the canonical mezze dips and salads.
+This page walks through the traditional mezze dips and salads.
 
 ## Hummus
 
@@ -231,7 +231,7 @@ Total prep time: 1.5 hours (most of it for the hummus and the bulgur soak). Plat
 
 ## Pairing mezze with drinks
 
-- **Arak** (anise spirit) + water + ice — the canonical Lebanese pairing. Becomes cloudy white when water is added.
+- **Arak** (anise spirit) + water + ice — the traditional Lebanese pairing. Becomes cloudy white when water is added.
 - **Lebanese white wine** (Chateau Musar Blanc, Chateau Ksara Blanc de Blanc) — light, herbaceous.
 - **Lebanese rosé** — surprising depth; excellent with mezze.
 - **A cold beer** — Almaza or Lebanese beer; or a German pilsner.

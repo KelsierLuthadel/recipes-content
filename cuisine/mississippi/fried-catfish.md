@@ -2,7 +2,7 @@
 
 ![Fried Catfish](resources/fried-catfish.jpg)
 
-*The Mississippi staple: farm-raised catfish fillets in a buttermilk soak and cornmeal-and-flour crust, fried gold in a heavy skillet. Eaten with hush puppies, slaw and a wedge of lemon.*
+*The Mississippi staple: farm-raised catfish fillets in a buttermilk soak and cornmeal-and-flour crust, fried gold in a heavy skillet. Eat with hush puppies, slaw and a wedge of lemon.*
 
 **Serves:** 4
 

@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji amarillo paste (the Peruvian yellow chilli, sold in jars at Latin American shops) gives the sauce its electric yellow colour and floral-fruity mild heat. Bread soaked in chicken poaching liquid and evaporated milk thickens the sauce without flour or cornflour; toasted walnuts blitzed in finish the body. Shred the poached chicken by hand into thin threads, never machine-shredded; fold into the warm sauce. Serve over plain white rice with the canonical criolla garnish: a hard-boiled egg half, a Botija olive, a slice of boiled yellow potato and a parsley leaf.
+Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji amarillo paste (the Peruvian yellow chilli, sold in jars at Latin American shops) gives the sauce its electric yellow colour and floral-fruity mild heat. Bread soaked in chicken poaching liquid and evaporated milk thickens the sauce without flour or cornflour; toasted walnuts blitzed in finish the body. Shred the poached chicken by hand into thin threads, never machine-shredded; fold into the warm sauce. Serve over plain white rice with the traditional criolla garnish: a hard-boiled egg half, a Botija olive, a slice of boiled yellow potato and a parsley leaf.
 
 ## Ingredients
 
@@ -34,13 +34,13 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 - 4 tablespoons sunflower oil
 - 4-5 tablespoons aji amarillo paste (sold in jars at Latin American shops; or 4 dried aji amarillo chillies rehydrated and blitzed)
 - 60 g walnuts, toasted and roughly chopped (plus a few extra for garnish)
-- 50 g grated Parmesan cheese (optional but canonical in modern recipes)
+- 50 g grated Parmesan cheese (optional but traditional in modern recipes)
 - 1 teaspoon ground turmeric (boosts the yellow colour)
 - 1 teaspoon ground cumin
 - 1/2 teaspoon black pepper
 - Salt to taste
 
-### The garnish (canonical Peruvian criolla)
+### The garnish (traditional Peruvian criolla)
 - 4 hard-boiled eggs, halved
 - 8 Botija olives (the dried-purple Peruvian olives; substitute with Kalamata)
 - 4 medium yellow potatoes (papa amarilla; substitute with Yukon Gold), boiled till tender and sliced 1 cm thick
@@ -104,7 +104,7 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 - **Aji amarillo paste is non-negotiable:** sold in jars at Latin American shops (Inka Crops, Doña Isabel are common brands); or buy dried whole aji amarillos and rehydrate-blitz them yourself.
 - **Bread-and-milk thickener:** white bread + evaporated milk + chicken broth is the Peruvian way. Don't substitute flour or cornflour - the texture is wrong.
 - **Shred chicken by hand:** thin threads, not chunks. The mouth-feel matters.
-- **The criolla garnish (egg, olive, potato, parsley) is canonical:** don't skip - the colour and the contrast are essential to the dish.
+- **The criolla garnish (egg, olive, potato, parsley) is traditional:** don't skip - the colour and the contrast are essential to the dish.
 - **Walnuts toasted:** dry-toast in a frying pan 4-5 minutes till fragrant. Untoasted walnuts give a flat finish.
 - **Parmesan is optional but standard in modern recipes:** the 18th-century version didn't include it; modern Lima restaurants almost all do.
 
@@ -117,7 +117,7 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 **Aji de pollo with quinoa:** serve over Andean quinoa instead of rice - the modern healthy variant.
 
 ## Serving
-At a Lima criolla restaurant (the canonical setting) · at a Peruvian family Sunday lunch · at a Peruvian Independence Day (28 July) celebration · at a Peruvian household for a comfort-food dinner · at any chifa or criolla restaurant in Lima, Cusco, Arequipa or Trujillo · paired with chicha morada or a glass of cold Cusqueña lager.
+At a Lima criolla restaurant (the traditional setting) · at a Peruvian family Sunday lunch · at a Peruvian Independence Day (28 July) celebration · at a Peruvian household for a comfort-food dinner · at any chifa or criolla restaurant in Lima, Cusco, Arequipa or Trujillo · paired with chicha morada or a glass of cold Cusqueña lager.
 
 ## Storage
 - Refrigerates 4 days; reheats well on the stovetop with a splash of milk to loosen.

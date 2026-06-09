@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Ropa vieja (literally "old clothes", named for the shredded texture that resembles rags) is Cuba's national dish and one of the most iconic Cuban-American comfort foods. Flank steak slow-simmers in a flavoured broth till the meat is fork-tender and falls apart, then shreds with two forks and returns to a separate pan with sautéed onions, bell peppers, garlic, tomato, olives, capers, sofrito and warm spices. Everything simmers together till the sauce reduces and the beef has absorbed the flavours into a thick savoury stew. Flank steak is the canonical cut for the right shreddable grain (skirt works; brisket gives a chunkier result; lean sirloin won't shred properly). The two-step cooking is essential: combining both stages gives a less developed flavour. The colourful peppers and olives are what make ropa vieja visually and flavour-wise distinctive. The centrepiece of every Cuban family Sunday lunch, every Cuban-American restaurant menu, every Cuban diaspora kitchen across Miami and beyond. Eaten over white rice with black beans, sweet plantains and a fresh salad.
+Ropa vieja (literally "old clothes", named for the shredded texture that resembles rags) is Cuba's national dish and one of the most iconic Cuban-American comfort foods. Flank steak slow-simmers in a flavoured broth till the meat is fork-tender and falls apart, then shreds with two forks and returns to a separate pan with sautéed onions, bell peppers, garlic, tomato, olives, capers, sofrito and warm spices. Everything simmers together till the sauce reduces and the beef has absorbed the flavours into a thick savoury stew. Flank steak is the traditional cut for the right shreddable grain (skirt works; brisket gives a chunkier result; lean sirloin won't shred properly). The two-step cooking is essential: combining both stages gives a less developed flavour. The colourful peppers and olives are what make ropa vieja visually and flavour-wise distinctive. The centrepiece of every Cuban family Sunday lunch, every Cuban-American restaurant menu, every Cuban diaspora kitchen across Miami and beyond. Eat over white rice with black beans, sweet plantains and a fresh salad.
 
 ## Ingredients
 
@@ -114,7 +114,7 @@ Ropa vieja (literally "old clothes", named for the shredded texture that resembl
 5. Sliced avocado, lime wedges, salad.
 
 ## Notes
-- **Flank steak is the canonical cut:** the long-grain structure shreds into the proper "rags". Skirt steak works as substitute; brisket gives chunkier shreds.
+- **Flank steak is the traditional cut:** the long-grain structure shreds into the proper "rags". Skirt steak works as substitute; brisket gives chunkier shreds.
 - **Two-step cooking:** simmer to tender first, shred, then build the sauce. The two stages give distinct depth.
 - **Shred along the grain:** pulling along the grain gives long thin strands; pulling against gives small bits.
 - **Generous bell peppers:** the colourful peppers are visually iconic. Don't skimp.

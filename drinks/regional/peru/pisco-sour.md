@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-The pisco sour is Peru's most iconic drink and one of the world's most-cited South American cocktails. The most-credited origin is the Morris Bar in Lima around 1920, where American bartender Victor "Gringo" Morris adapted the gin sour template to Peruvian pisco; the drink has been Peru's calling card ever since (declared the national cocktail in 1988; National Pisco Sour Day is the first Saturday of February). Use Peruvian pisco specifically, not Chilean (both countries claim the spirit but the styles are distinct); made from Quebranta, Italia, Torontel, Moscatel, Albilla or Mollar grapes, with no oak aging and no water added before bottling. Key limes are best if you can get them, for the more aromatic thin-skinned profile. A whole egg white per drink shaken hard creates the canonical foamy head; many Peruvian bartenders do a double shake: thirty seconds without ice to whip the egg white, then twenty with ice to chill. Angostura bitters dot the foam, then drag with a toothpick into swirls or hearts.
+The pisco sour is Peru's most iconic drink and one of the world's most-cited South American cocktails. The most-credited origin is the Morris Bar in Lima around 1920, where American bartender Victor "Gringo" Morris adapted the gin sour template to Peruvian pisco; the drink has been Peru's calling card ever since (declared the national cocktail in 1988; National Pisco Sour Day is the first Saturday of February). Use Peruvian pisco specifically, not Chilean (both countries claim the spirit but the styles are distinct); made from Quebranta, Italia, Torontel, Moscatel, Albilla or Mollar grapes, with no oak aging and no water added before bottling. Key limes are best if you can get them, for the more aromatic thin-skinned profile. A whole egg white per drink shaken hard creates the traditional foamy head; many Peruvian bartenders do a double shake: thirty seconds without ice to whip the egg white, then twenty with ice to chill. Angostura bitters dot the foam, then drag with a toothpick into swirls or hearts.
 
 ## Ingredients
 
@@ -67,7 +67,7 @@ The pisco sour is Peru's most iconic drink and one of the world's most-cited Sou
 3. Divide evenly between the 2 glasses.
 4. The drink should fill each glass with a thick foamy head rising 1-2 cm above the rim.
 
-### Stage 6 - The bitters art (canonical Peruvian finishing)
+### Stage 6 - The bitters art (traditional Peruvian finishing)
 1. Hold the bottle of Angostura bitters above each drink.
 2. Drop 3-4 dashes onto the foam in a pattern (a straight line, a small triangle, a few dots).
 3. Drag a wooden toothpick (or a thin straw) through the dots to create swirls, hearts, or feathers.
@@ -83,7 +83,7 @@ The pisco sour is Peru's most iconic drink and one of the world's most-cited Sou
 - **Dry-shake the egg white:** 30 seconds without ice fully whips the egg white. Without this step, the foam is thin.
 - **Fresh lime juice only:** never bottled. The aromatic oils are critical.
 - **Double-strain:** through a Hawthorne strainer AND a fine tea-strainer. Catches ice chips and protein bits for a smooth pour.
-- **Angostura bitters art is the finishing touch:** 3-4 dashes; drag a toothpick through. The decoration IS the canonical garnish.
+- **Angostura bitters art is the finishing touch:** 3-4 dashes; drag a toothpick through. The decoration IS the traditional garnish.
 - **Drink immediately:** the foam slowly collapses; the drink is at its peak for 5 minutes.
 - **Egg white safety:** the citric acid in the lime juice and the alcohol in the pisco effectively pasteurise the egg white; pasteurised egg whites (from cartons) also work for the nervous.
 
@@ -99,7 +99,7 @@ The pisco sour is Peru's most iconic drink and one of the world's most-cited Sou
 **Champagne pisco sour (modern, brunch):** top the finished pisco sour with a small splash of dry champagne or sparkling wine.
 
 ## Serving
-At a Lima bar at evening (the canonical setting) · at a Peruvian Independence Day (28 July) celebration · at National Pisco Sour Day (first Saturday of February) · at a Lima criolla restaurant before dinner · at a Peruvian wedding cocktail hour · at a Peruvian-themed restaurant worldwide · at home as the pre-dinner Peruvian aperitif · paired with ceviche, tequeños, or salty Andean snacks.
+At a Lima bar at evening (the traditional setting) · at a Peruvian Independence Day (28 July) celebration · at National Pisco Sour Day (first Saturday of February) · at a Lima criolla restaurant before dinner · at a Peruvian wedding cocktail hour · at a Peruvian-themed restaurant worldwide · at home as the pre-dinner Peruvian aperitif · paired with ceviche, tequeños, or salty Andean snacks.
 
 ## Storage
 - Make and drink fresh. Pisco sours don't store.

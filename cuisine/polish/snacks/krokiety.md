@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Krokiety are the breaded fried savoury rolls of Polish milk bars and Christmas Eve tables. Thin crepes wrap around a sauerkraut-and-mushroom filling (or seasoned mince the rest of the year), then dip in egg and breadcrumbs and pan-fry golden, sliced on the diagonal to show the filling spiral inside. A splash of sparkling water in the crepe batter is an old Polish trick that keeps the crepes light and tender. The filling cools completely before rolling; warm filling steams the inside of the crepe and makes the breading slide off in the pan. Dried porcini and well-squeezed sauerkraut give the Christmas Eve version its dark intense depth. Eaten with a small bowl of clear barszcz alongside, or simply with sharp Polish mustard and a pickled cucumber.
+Krokiety are the breaded fried savoury rolls of Polish milk bars and Christmas Eve tables. Thin crepes wrap around a sauerkraut-and-mushroom filling (or seasoned mince the rest of the year), then dip in egg and breadcrumbs and pan-fry golden, sliced on the diagonal to show the filling spiral inside. A splash of sparkling water in the crepe batter is an old Polish trick that keeps the crepes light and tender. The filling cools completely before rolling; warm filling steams the inside of the crepe and makes the breading slide off in the pan. Dried porcini and well-squeezed sauerkraut give the Christmas Eve version its dark intense depth. Eat with a small bowl of clear barszcz alongside, or simply with sharp Polish mustard and a pickled cucumber.
 
 ## Ingredients
 

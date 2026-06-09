@@ -2,7 +2,7 @@
 
 ![Empanadas Peruanas](resources/empanadas-peruanas.jpg)
 
-*Lima's bakery and street-stall classic: a buttery short pastry half-moon, crimped at the edge with a decorative repulgue (twisted-rope crimp), filled with a juicy mince-beef-and-onion picadillo seasoned with aji panca paste, cumin, raisins, hard-boiled egg and a black Botija olive at the heart, brushed with egg wash and baked till deeply golden. The Peruvian version differs from Argentinian and Chilean empanadas in three small but defining ways. Eaten warm in the hand, with a small squeeze of lime over the top - the canonical Lima lunchroom and bakery quick lunch.*
+*Lima's bakery and street-stall classic: a buttery short pastry half-moon, crimped at the edge with a decorative repulgue (twisted-rope crimp), filled with a juicy mince-beef-and-onion picadillo seasoned with aji panca paste, cumin, raisins, hard-boiled egg and a black Botija olive at the heart, brushed with egg wash and baked till deeply golden. The Peruvian version differs from Argentinian and Chilean empanadas in three small but defining ways. Eat warm in the hand, with a small squeeze of lime over the top - the traditional Lima lunchroom and bakery quick lunch.*
 
 **Serves:** 12 empanadas
 
@@ -44,7 +44,7 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 - 1 egg yolk + 1 tablespoon milk
 
 ### To finish (optional)
-- A small dusting of caster sugar OR icing sugar on the cooked empanada (the canonical Lima bakery touch; some skip)
+- A small dusting of caster sugar OR icing sugar on the cooked empanada (the traditional Lima bakery touch; some skip)
 
 ### To serve
 - A wedge of lime per empanada
@@ -87,7 +87,7 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 3. Brush the edge of the pastry with a small amount of egg wash (helps seal).
 4. Fold the pastry over the filling to form a half-moon.
 5. Press the edges together firmly.
-6. Make the repulgue crimp: starting at one corner, fold small pleats over each other in a twisted-rope pattern around the curved edge. (Some Peruvian cooks just fork-crimp, but the repulgue is canonical and more elegant.)
+6. Make the repulgue crimp: starting at one corner, fold small pleats over each other in a twisted-rope pattern around the curved edge. (Some Peruvian cooks just fork-crimp, but the repulgue is traditional and more elegant.)
 7. Place the empanada on the lined tray.
 8. Repeat with the remaining pastry and filling.
 
@@ -103,7 +103,7 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 
 ## Notes
 - **Aji panca, not aji amarillo:** the Peruvian empanada filling is RED (panca) not yellow (amarillo). This is the key Peruvian-specific flavour difference from Argentinian/Chilean empanadas.
-- **The olive in the centre:** canonical Peruvian. A single Botija olive at the heart of each empanada, placed before sealing.
+- **The olive in the centre:** traditional Peruvian. A single Botija olive at the heart of each empanada, placed before sealing.
 - **The hard-boiled egg in the filling:** Peruvian / Argentinian shared tradition; gives texture and richness.
 - **The raisins:** the sweet-savoury contrast. Don't skip - they're the Peruvian signature.
 - **Repulgue crimp:** the twisted-rope edge is the elegant Peruvian / Argentinian way to seal. Practice on a few; you'll find your rhythm.
@@ -120,12 +120,12 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 **Empanadas with a quinoa-mushroom filling (vegan):** cooked quinoa + sautéed mushrooms + aji panca paste - the modern healthy variant.
 
 ## Serving
-At a Lima bakery in the morning (the canonical setting; sold from glass cases at every Peruvian panadería) · at a Peruvian working-day lunch break · at a Peruvian Independence Day buffet · at a Peruvian wedding · at a Peruvian birthday party · at home as a make-ahead weekend lunch · paired with chicha morada, cold lager, or a small glass of pisco.
+At a Lima bakery in the morning (the traditional setting; sold from glass cases at every Peruvian panadería) · at a Peruvian working-day lunch break · at a Peruvian Independence Day buffet · at a Peruvian wedding · at a Peruvian birthday party · at home as a make-ahead weekend lunch · paired with chicha morada, cold lager, or a small glass of pisco.
 
 ## Storage
 - Baked empanadas refrigerate 4 days; reheat in a 180°C oven for 8-10 minutes.
 - Freezes 3 months baked; defrost in the fridge overnight and reheat in the oven.
 - Raw assembled empanadas freeze 3 months on a tray then bagged; bake from frozen at 200°C for 30-35 minutes (no defrost needed).
 - The filling refrigerates 3 days; freezes 3 months.
-- Day-old empanadas pan-fried in a little butter till crisp on the outside is the canonical Peruvian breakfast hack.
+- Day-old empanadas pan-fried in a little butter till crisp on the outside is the traditional Peruvian breakfast hack.
 - The pastry refrigerates 24 hours; freezes 3 months wrapped in cling film.

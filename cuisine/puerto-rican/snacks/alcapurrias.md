@@ -2,7 +2,7 @@
 
 ![Alcapurrias](resources/alcapurrias.jpg)
 
-*Puerto Rico's stuffed root-vegetable fritters: a thick masa of grated green banana and yautía (taro) wrapped around a spiced beef-and-olive filling, formed into long oblong shapes and deep-fried till the outside is deep golden and crispy and the inside stays soft. The Boricua street-cart classic, the canonical fritter of every beach stand on the island.*
+*Puerto Rico's stuffed root-vegetable fritters: a thick masa of grated green banana and yautía (taro) wrapped around a spiced beef-and-olive filling, formed into long oblong shapes and deep-fried till the outside is deep golden and crispy and the inside stays soft. The Boricua street-cart classic, the traditional fritter of every beach stand on the island.*
 
 **Serves:** 4-6 (about 12 alcapurrias)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Alcapurrias is one of Puerto Rico's most distinctive street snacks and a beloved beach-stand classic from Piñones to Luquillo. A thick savoury masa made from grated green banana and yautía (taro root), seasoned with achiote oil, wraps around a fragrant beef-and-olive picadillo filling. Formed into long oblong shapes about 12 cm long and deep-fried at 175 °C till the outside is deep golden and crispy while the inside stays soft and pillowy. The roots are non-negotiable: properly green unripe bananas and yautía give the right starchy slightly sweet base that fries beautifully (white sweet potato or yuca substitute for yautía if you can't find it; ripe bananas are wrong). Achiote oil gives the masa its characteristic orange-yellow colour, and the proper deep-fry temperature is the difference between crispy and oily-soggy. Eaten immediately with a squeeze of lime and a cold Medalla beer or tropical fruit drink. The canonical Boricua beach-day snack.
+Alcapurrias is one of Puerto Rico's most distinctive street snacks and a beloved beach-stand classic from Piñones to Luquillo. A thick savoury masa made from grated green banana and yautía (taro root), seasoned with achiote oil, wraps around a fragrant beef-and-olive picadillo filling. Formed into long oblong shapes about 12 cm long and deep-fried at 175 °C till the outside is deep golden and crispy while the inside stays soft and pillowy. The roots are non-negotiable: properly green unripe bananas and yautía give the right starchy slightly sweet base that fries beautifully (white sweet potato or yuca substitute for yautía if you can't find it; ripe bananas are wrong). Achiote oil gives the masa its characteristic orange-yellow colour, and the proper deep-fry temperature is the difference between crispy and oily-soggy. Eat immediately with a squeeze of lime and a cold Medalla beer or tropical fruit drink. The traditional Boricua beach-day snack.
 
 ## Ingredients
 
@@ -103,7 +103,7 @@ Alcapurrias is one of Puerto Rico's most distinctive street snacks and a beloved
 3. Eat hot with a cold beer.
 
 ## Notes
-- **Green bananas + yautía:** the canonical PR masa. Substitute with white sweet potato or yuca if yautía is unavailable.
+- **Green bananas + yautía:** the traditional PR masa. Substitute with white sweet potato or yuca if yautía is unavailable.
 - **Fine grate:** the proper texture is finely grated, not pureed. The masa should still have some bite.
 - **Cool the filling:** hot filling can melt the masa during assembly. Properly cooled filling is essential.
 - **175°C oil:** higher burns the outside; lower gives oily fritters.

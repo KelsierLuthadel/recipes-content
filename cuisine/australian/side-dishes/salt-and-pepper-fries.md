@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Salt-and-pepper fries (chips in Aussie English) is one of Australia's most beloved pub-side standards: hand-cut potato batons (thicker than American fries, about 1 cm × 1 cm × 8 cm) twice-fried for proper crispness, then tossed hot with chicken salt (the iconic Australian seasoned salt blend), cracked black pepper, ground white pepper and dried parsley. The pub-counter mainstay alongside a steak, a parmi or a chicken schnitzel, what every Aussie kid grew up dipping in tomato sauce, and where every "salt-and-pepper" variant on a Chinese-Australian menu started from. The two-fry technique is non-negotiable; single-fried fries are soggy. Chicken salt is the canonical seasoning; outside Australia, look for it at Aussie-import shops or make your own (sea salt, garlic powder, onion powder, paprika, a pinch of MSG). Season immediately while hot; cold fries shed the seasoning.
+Salt-and-pepper fries (chips in Aussie English) is one of Australia's most beloved pub-side standards: hand-cut potato batons (thicker than American fries, about 1 cm × 1 cm × 8 cm) twice-fried for proper crispness, then tossed hot with chicken salt (the iconic Australian seasoned salt blend), cracked black pepper, ground white pepper and dried parsley. The pub-counter mainstay alongside a steak, a parmi or a chicken schnitzel, what every Aussie kid grew up dipping in tomato sauce, and where every "salt-and-pepper" variant on a Chinese-Australian menu started from. The two-fry technique is non-negotiable; single-fried fries are soggy. Chicken salt is the traditional seasoning; outside Australia, look for it at Aussie-import shops or make your own (sea salt, garlic powder, onion powder, paprika, a pinch of MSG). Season immediately while hot; cold fries shed the seasoning.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Salt-and-pepper fries (chips in Aussie English) is one of Australia's most belov
 - 1.2 kg floury potatoes (Russet, Maris Piper, King Edward; peeled and cut into 1 cm × 8 cm batons)
 - Vegetable oil for deep-frying (about 1.5 litres; or enough for 7 cm depth)
 
-### Seasoning (the canonical Aussie chicken-salt mix)
+### Seasoning (the traditional Aussie chicken-salt mix)
 - 2 tablespoons flaky sea salt
 - 2 teaspoons garlic powder
 - 2 teaspoons onion powder
@@ -35,7 +35,7 @@ Salt-and-pepper fries (chips in Aussie English) is one of Australia's most belov
 - 2 tablespoons Australian chicken salt (sold at Australian import shops; or use the homemade mix above)
 
 ### To serve
-- Tomato sauce (the canonical Aussie dipping sauce)
+- Tomato sauce (the traditional Aussie dipping sauce)
 - Aioli or garlic mayo
 - Lemon wedges
 - Cold beer (Coopers, VB, Carlton)
@@ -75,7 +75,7 @@ Salt-and-pepper fries (chips in Aussie English) is one of Australia's most belov
 
 ## Notes
 - **Twice-fried for crispness:** essential. First fry cooks through; second fry crisps.
-- **Chicken salt is canonical Aussie:** the homemade mix is the substitute outside Australia.
+- **Chicken salt is traditional Aussie:** the homemade mix is the substitute outside Australia.
 - **Season while hot:** seasoning sticks to hot fries.
 - **Don't overcrowd the fryer:** crowded fries steam instead of crisping.
 - **Dry the potatoes thoroughly:** wet potatoes spit and steam.

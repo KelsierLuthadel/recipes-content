@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Aji amarillo paste is Peru's most identity-defining ingredient: the yellow-orange paste that defines the flavour profile of dozens of canonical Peruvian dishes. Without it, Peruvian cooking is just generic Andean food. The aji amarillo (Capsicum baccatum) is the country's signature chilli, a tapered deep-orange pod about 8 to 10 cm long, with a Scoville heat of 30,000 to 50,000 (about half-as-hot as a serrano). Unlike most chillies, it has a uniquely fruity, almost tropical-citrus aroma that's the dominant note in the finished paste. The paste can be made fresh from whole pods (sold in Latin American shops and online), rehydrated from dried pods, or bought ready-made in jars (Inka Crops, Doña Isabel and Goya brands substitute well). This recipe is the homemade-from-fresh version: blister the chillies, peel them (the skin is bitter), deseed (most of the heat is in the seeds), then blend the flesh with neutral oil, garlic and salt. Keeps refrigerated two weeks or freezes six months.
+Aji amarillo paste is Peru's most identity-defining ingredient: the yellow-orange paste that defines the flavour profile of dozens of traditional Peruvian dishes. Without it, Peruvian cooking is just generic Andean food. The aji amarillo (Capsicum baccatum) is the country's signature chilli, a tapered deep-orange pod about 8 to 10 cm long, with a Scoville heat of 30,000 to 50,000 (about half-as-hot as a serrano). Unlike most chillies, it has a uniquely fruity, almost tropical-citrus aroma that's the dominant note in the finished paste. The paste can be made fresh from whole pods (sold in Latin American shops and online), rehydrated from dried pods, or bought ready-made in jars (Inka Crops, Doña Isabel and Goya brands substitute well). This recipe is the homemade-from-fresh version: blister the chillies, peel them (the skin is bitter), deseed (most of the heat is in the seeds), then blend the flesh with neutral oil, garlic and salt. Keeps refrigerated two weeks or freezes six months.
 
 ## Ingredients
 
@@ -91,7 +91,7 @@ Aji amarillo paste is Peru's most identity-defining ingredient: the yellow-orang
 
 ## Variations
 **Rocoto paste:** the same technique with rocoto chillies (the deep-red Andean apple chilli) - hotter, sharper, more vegetal.
-**Aji panca paste:** the canonical anticucho marinade base - sweeter, smokier dried red chilli; same technique with the dried pods.
+**Aji panca paste:** the traditional anticucho marinade base - sweeter, smokier dried red chilli; same technique with the dried pods.
 **Aji amarillo with citrus zest:** add the zest of 1 lemon and 1 lime before blending - the modern Lima restaurant variant.
 **Smoked aji amarillo paste:** smoke the chillies on a charcoal grill instead of dry-pan blistering - the modern smoky variant.
 **Vegan / vegetarian-friendly:** the recipe is already vegan; no animal products.

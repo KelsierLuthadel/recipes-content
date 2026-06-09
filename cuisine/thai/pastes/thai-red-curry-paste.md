@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Thai red curry paste (prik gaeng phed) is the foundation of the most common Thai curries, built around dried red bird's-eye chillies, lemongrass, galangal, garlic, shallots, coriander root and shrimp paste pounded to a deep brick-red paste that stains the oil red the moment it hits a hot pan. Heat is dialled by the chillies (twelve is a moderate level; deseed more for milder); a couple of fresh red spur chillies pounded through brighten the colour without adding much heat. Toasted cumin and coriander with white pepper give backbone; the shrimp paste at the end carries the canonical Thai funk. The result keeps two weeks in the fridge in an airtight jar or two months in small frozen portions. Used in red curry, jungle curry, prik king or any time you want the most versatile Thai curry base.
+Thai red curry paste (prik gaeng phed) is the foundation of the most common Thai curries, built around dried red bird's-eye chillies, lemongrass, galangal, garlic, shallots, coriander root and shrimp paste pounded to a deep brick-red paste that stains the oil red the moment it hits a hot pan. Heat is dialled by the chillies (twelve is a moderate level; deseed more for milder); a couple of fresh red spur chillies pounded through brighten the colour without adding much heat. Toasted cumin and coriander with white pepper give backbone; the shrimp paste at the end carries the traditional Thai funk. The result keeps two weeks in the fridge in an airtight jar or two months in small frozen portions. Used in red curry, jungle curry, prik king or any time you want the most versatile Thai curry base.
 
 ## Ingredients
 ### Whole spices

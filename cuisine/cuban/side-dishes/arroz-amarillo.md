@@ -2,7 +2,7 @@
 
 ![Arroz Amarillo](resources/arroz-amarillo.jpg)
 
-*Cuba's yellow rice: medium-grain rice cooked in a sofrito-and-stock base with saffron (or Bijol) for the canonical deep yellow colour, plus peas, olives, capers and a splash of dry sherry. The Cuban festive rice that turns up alongside lechón asado, ropa vieja and any celebration meal.*
+*Cuba's yellow rice: medium-grain rice cooked in a sofrito-and-stock base with saffron (or Bijol) for the traditional deep yellow colour, plus peas, olives, capers and a splash of dry sherry. The Cuban festive rice that turns up alongside lechón asado, ropa vieja and any celebration meal.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Arroz amarillo Cubano is the Cuban yellow rice and a festive staple of Cuban celebration meals: medium-grain rice cooked in a base of sofrito Cubano, sliced bell peppers, garlic and tomato, with saffron threads (or Bijol - the Cuban yellow seasoning) for the canonical deep yellow-orange colour, plus peas, sliced olives and capers, and a small splash of dry sherry for depth. Cooked together as a one-pot covered rice till the grains absorb the stock and turn properly yellow throughout. Served as a side alongside lechón asado, ropa vieja, masitas de puerco, or any Cuban celebration main. Saffron is the canonical colourant but expensive; Bijol (the Cuban yellow seasoning packet of achiote, turmeric and cumin) is the everyday accessible substitute. The sofrito base is what makes it Cuban arroz amarillo rather than generic yellow rice. A small splash of dry sherry gives the slight sweet depth that distinguishes the dish.
+Arroz amarillo Cubano is the Cuban yellow rice and a festive staple of Cuban celebration meals: medium-grain rice cooked in a base of sofrito Cubano, sliced bell peppers, garlic and tomato, with saffron threads (or Bijol - the Cuban yellow seasoning) for the traditional deep yellow-orange colour, plus peas, sliced olives and capers, and a small splash of dry sherry for depth. Cooked together as a one-pot covered rice till the grains absorb the stock and turn properly yellow throughout. Served as a side alongside lechón asado, ropa vieja, masitas de puerco, or any Cuban celebration main. Saffron is the traditional colourant but expensive; Bijol (the Cuban yellow seasoning packet of achiote, turmeric and cumin) is the everyday accessible substitute. The sofrito base is what makes it Cuban arroz amarillo rather than generic yellow rice. A small splash of dry sherry gives the slight sweet depth that distinguishes the dish.
 
 ## Ingredients
 

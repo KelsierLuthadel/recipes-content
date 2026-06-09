@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Gâteau patate (literally "potato cake") is Mauritius's beloved sweet-potato turnover, sold at every street vendor and Indian sweetshop across the island for afternoon tea: a soft rice-flour pastry filled with mashed sweet potato sweetened with sugar, enriched with desiccated coconut, perfumed with cardamom, vanilla and a small splash of rum, folded into half-moons and deep-fried till the outside crisps and the filling stays soft and warm. The dish sits between the Indian samosa tradition and the Caribbean fried-sweet-fruit pastry; the Mauritian version takes from both and makes something distinctively its own. Two ingredient details matter. The sweet potato is canonically the purple-fleshed patate Maurice; the colour is dramatic and the flavour slightly less sweet than orange-fleshed (which substitutes happily for colour but not for pedigree). The pastry is rice-flour based, which gives the proper crumbly tender outside; a half-rice-half-wheat dough is the easier substitute, pure wheat-flour the most biscuit-like.
+Gâteau patate (literally "potato cake") is Mauritius's beloved sweet-potato turnover, sold at every street vendor and Indian sweetshop across the island for afternoon tea: a soft rice-flour pastry filled with mashed sweet potato sweetened with sugar, enriched with desiccated coconut, perfumed with cardamom, vanilla and a small splash of rum, folded into half-moons and deep-fried till the outside crisps and the filling stays soft and warm. The dish sits between the Indian samosa tradition and the Caribbean fried-sweet-fruit pastry; the Mauritian version takes from both and makes something distinctively its own. Two ingredient details matter. The sweet potato is traditionally the purple-fleshed patate Maurice; the colour is dramatic and the flavour slightly less sweet than orange-fleshed (which substitutes happily for colour but not for pedigree). The pastry is rice-flour based, which gives the proper crumbly tender outside; a half-rice-half-wheat dough is the easier substitute, pure wheat-flour the most biscuit-like.
 
 ## Ingredients
 
@@ -87,7 +87,7 @@ Gâteau patate (literally "potato cake") is Mauritius's beloved sweet-potato tur
 ### Stage 7 - Finish and serve
 1. Dust the warm turnovers generously with caster sugar.
 2. Serve warm (the filling should still be slightly warm and soft) with strong milky chai or coffee.
-3. The turnovers can also be eaten cold, though warm is the canonical Mauritian way.
+3. The turnovers can also be eaten cold, though warm is the traditional Mauritian way.
 
 ## Notes
 - **Purple sweet potato gives the proper Mauritian colour:** if you can find purple-fleshed sweet potato (sometimes called "patate Maurice" or "ube" or "Okinawan sweet potato"), use it for the proper dramatic violet-purple filling. Orange-fleshed sweet potato gives a different (but still lovely) colour and a slightly sweeter flavour.

@@ -8,7 +8,7 @@
 
 Dal is the Hindi word for both the pulse (the dried legume) AND the cooked dish. The same word for the raw ingredient and the finished dish - that tells you how central it is to Indian cooking. India is the world's largest producer and consumer of pulses; a typical Indian household eats dal at least once a day.
 
-The six common dals (and their canonical preparations):
+The six common dals (and their traditional preparations):
 
 1. **Toor dal (arhar dal)** - split pigeon pea. The most common across most of India. Pale yellow when cooked.
 2. **Moong dal** - split mung bean. Yellow; mild; quick-cooking.
@@ -17,7 +17,7 @@ The six common dals (and their canonical preparations):
 5. **Urad dal** - split black gram. Black-skinned when whole; pale yellow when skinned-and-split. Long cook.
 6. **Rajma** - kidney beans. Whole; cook 6-8 hours or 1 hour in pressure cooker.
 
-This page walks through each, the cooking method, and a canonical preparation.
+This page walks through each, the cooking method, and a traditional preparation.
 
 ## Common pressure-cooker technique
 
@@ -39,9 +39,9 @@ Most Indian households use a pressure cooker for dal. It cuts the cooking time f
 | Urad dal (black) | 8 hours | 8-10 whistles (35-45 min) |
 | Rajma | 8 hours | 8-10 whistles (40-50 min) |
 
-A "whistle" is the pressure release; whistle-counting is the canonical Indian pressure-cooker timer.
+A "whistle" is the pressure release; whistle-counting is the traditional Indian pressure-cooker timer.
 
-## Canonical preparation: tarka dal (toor)
+## Traditional preparation: tarka dal (toor)
 
 This is the household standard. Every Indian family has a version.
 

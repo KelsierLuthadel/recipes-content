@@ -85,7 +85,7 @@ Saskatoon berries are the Canadian prairie's signature wild fruit, growing on Am
 **Boozy saskatoon compote:** add 30 ml maple whisky or Cognac at the end - the after-dinner sauce.
 
 ## Serving
-At a Manitoba Sunday-morning pancake breakfast (the canonical setting) · at a Saskatchewan farm kitchen at the end of saskatoon-picking season · at an Alberta cattle-ranch barbecue · alongside roast pork or duck breast at a Canadian Thanksgiving dinner · at a Calgary Stampede breakfast · at a Yukon cabin alongside bannock and butter · as the Canadian prairie answer to French confiture · paired with a glass of cold milk, hot tea, or a slice of buttered [Bannock](bannock.md).
+At a Manitoba Sunday-morning pancake breakfast (the traditional setting) · at a Saskatchewan farm kitchen at the end of saskatoon-picking season · at an Alberta cattle-ranch barbecue · alongside roast pork or duck breast at a Canadian Thanksgiving dinner · at a Calgary Stampede breakfast · at a Yukon cabin alongside bannock and butter · as the Canadian prairie answer to French confiture · paired with a glass of cold milk, hot tea, or a slice of buttered [Bannock](bannock.md).
 
 ## Storage
 - Refrigerates 4 weeks in a clean sealed jar.

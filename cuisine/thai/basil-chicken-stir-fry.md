@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Pad krapow gai is the late-night quick dinner of every Thai household and street stall, ready ten minutes from when the wok hits the heat. The defining note is holy basil (krapow), peppery and faintly clove-like, distinct from the sweet Thai basil used in green curry; ordinary basil with a few mint leaves gets close but isn't quite the same dish. A mortar-pounded paste of garlic and red spur chillies carries the heat, oyster sauce and palm sugar balance the salt-sweet seasoning, and the basil goes in off the heat so it wilts but stays green. The canonical serving is over steamed jasmine rice with a runny-yolked fried egg on top: found at every food cart in Bangkok and on the table at every Thai working lunch.
+Pad krapow gai is the late-night quick dinner of every Thai household and street stall, ready ten minutes from when the wok hits the heat. The defining note is holy basil (krapow), peppery and faintly clove-like, distinct from the sweet Thai basil used in green curry; ordinary basil with a few mint leaves gets close but isn't quite the same dish. A mortar-pounded paste of garlic and red spur chillies carries the heat, oyster sauce and palm sugar balance the salt-sweet seasoning, and the basil goes in off the heat so it wilts but stays green. The traditional serving is over steamed jasmine rice with a runny-yolked fried egg on top: found at every food cart in Bangkok and on the table at every Thai working lunch.
 
 ## Ingredients
 ### Aromatics

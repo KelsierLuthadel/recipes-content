@@ -95,7 +95,7 @@ Matapa com castanha is one of Mozambique's most distinctive dishes and a Zambezi
 ## Notes
 - **Cassava leaves if you can find them:** the proper texture and flavour come from cassava leaves. Frozen ones at African markets work well. The spinach-kale substitute is workable; don't use kale alone.
 - **Cashews give the proper creamy nutty character:** Mozambique's cashews are exceptional. Good roasted unsalted cashews from any market are an acceptable substitute. Don't substitute with peanut butter; the flavour profile is different.
-- **Coarse cashew paste:** don't go to a smooth paste; some texture is canonical. Pulse the food processor briefly.
+- **Coarse cashew paste:** don't go to a smooth paste; some texture is traditional. Pulse the food processor briefly.
 - **Slow-cook the leaves:** 45-60 minutes is essential. The leaves need time to break down completely.
 - **The dried shrimp gives umami:** small dried shrimp (available at Asian and African markets) gives a savoury depth. Vegetarians can skip and add 1 tablespoon of soy sauce or miso instead.
 

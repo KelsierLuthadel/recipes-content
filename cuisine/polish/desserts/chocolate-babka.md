@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Chocolate babka is the Polish-Jewish bread that turns up at Sunday brunch and on the counters of every good Jewish bakery from Warsaw to Brooklyn. A buttery brioche dough rolls around dark chocolate filling, gets twisted into a two-strand rope so every slice shows a tight chocolate spiral, then bakes deep golden in a loaf tin. Two things make the difference between an okay babka and a great one. The first is an overnight rest in the fridge; warm dough tears and won't hold the spiral, while cold dough rolls thin and twists neatly. The second is the sugar syrup brushed all over the moment it leaves the oven; it soaks into the crust and gives babka that glossy bakery sheen, and skipping it leaves the bread tasting flat and looking dull. Eaten with strong coffee for breakfast or torn from the loaf by hand as a midnight snack.
+Chocolate babka is the Polish-Jewish bread that turns up at Sunday brunch and on the counters of every good Jewish bakery from Warsaw to Brooklyn. A buttery brioche dough rolls around dark chocolate filling, gets twisted into a two-strand rope so every slice shows a tight chocolate spiral, then bakes deep golden in a loaf tin. Two things make the difference between an okay babka and a great one. The first is an overnight rest in the fridge; warm dough tears and won't hold the spiral, while cold dough rolls thin and twists neatly. The second is the sugar syrup brushed all over the moment it leaves the oven; it soaks into the crust and gives babka that glossy bakery sheen, and skipping it leaves the bread tasting flat and looking dull. Eat with strong coffee for breakfast or torn from the loaf by hand as a midnight snack.
 
 ## Ingredients
 

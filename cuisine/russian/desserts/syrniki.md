@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Syrniki (сырники, from "sir" meaning cheese) are Russia's most beloved breakfast pancake: small thick round pancakes of farmer's cheese (tvorog, the slightly tangy, slightly grainy Russian fresh cheese), sweetened with sugar and vanilla, bound with egg and a small amount of flour or semolina, pan-fried in butter till deeply golden outside and tender inside. The result sits between cheesecake, pancake and fritter; served warm with sour cream (canonical), fruit jam, fresh berries, honey or condensed milk. A staple of Russian breakfast tables, especially on weekends; children adore them, adults enjoy them with strong sweet tea. Tvorog (or Polish twaróg, German Quark, ricotta drained heavily, or full-fat cottage cheese well drained) is non-negotiable; cream cheese is too smooth and rich for this. Drain the tvorog properly before mixing; under-drained cheese forces too much flour into the batter and the syrniki go dense. Fry on medium heat in butter or butter-and-oil; high burns the surface before the centre cooks, low gives a pale flat exterior.
+Syrniki (сырники, from "sir" meaning cheese) are Russia's most beloved breakfast pancake: small thick round pancakes of farmer's cheese (tvorog, the slightly tangy, slightly grainy Russian fresh cheese), sweetened with sugar and vanilla, bound with egg and a small amount of flour or semolina, pan-fried in butter till deeply golden outside and tender inside. The result sits between cheesecake, pancake and fritter; served warm with sour cream (traditional), fruit jam, fresh berries, honey or condensed milk. A staple of Russian breakfast tables, especially on weekends; children adore them, adults enjoy them with strong sweet tea. Tvorog (or Polish twaróg, German Quark, ricotta drained heavily, or full-fat cottage cheese well drained) is non-negotiable; cream cheese is too smooth and rich for this. Drain the tvorog properly before mixing; under-drained cheese forces too much flour into the batter and the syrniki go dense. Fry on medium heat in butter or butter-and-oil; high burns the surface before the centre cooks, low gives a pale flat exterior.
 
 ## Ingredients
 
@@ -86,7 +86,7 @@ Syrniki (сырники, from "sir" meaning cheese) are Russia's most beloved br
 **Savoury syrniki:** skip the sugar and vanilla; add 2 tablespoons of chopped fresh dill, ¼ teaspoon of ground black pepper and 50 g of grated hard cheese. Serve with sour cream and smoked salmon. Brunch-friendly Russian style.
 
 ## Serving
-On warm plates with the canonical accompaniments: sour cream is essential; jam, honey, condensed milk and fresh berries are all welcome. With strong sweet tea (the Russian way: dark, slightly bitter, with a small amount of sugar) or milky coffee. At weekend breakfast; or as dessert with afternoon tea.
+On warm plates with the traditional accompaniments: sour cream is essential; jam, honey, condensed milk and fresh berries are all welcome. With strong sweet tea (the Russian way: dark, slightly bitter, with a small amount of sugar) or milky coffee. At weekend breakfast; or as dessert with afternoon tea.
 
 ## Storage
 - Best eaten fresh and warm.

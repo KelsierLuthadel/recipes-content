@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Som tam is the most famous of all Thai salads, shredded green (unripe) papaya pounded in a tall clay mortar with garlic, fresh chilli, lime, fish sauce, palm sugar, peanuts and dried shrimp into a fiery sweet-sour-salty-spicy mouthful that defines the four Thai flavour notes in one bowl. The pounding isn't to break the papaya down but to bruise it just enough that the dressing penetrates each shred while the texture stays crisp. Dried shrimp, garlic and bird's-eye chillies pound to a coarse paste first; green beans go in next for a few light blows; palm sugar, tamarind, fish sauce and lime build the dressing that gets tossed through the shredded papaya, carrot and halved cherry tomatoes. Toasted peanuts, fresh coriander and Thai basil scatter across the top. Eaten as a fierce starter alongside grilled meats, sticky rice and a cold beer.
+Som tam is the most famous of all Thai salads, shredded green (unripe) papaya pounded in a tall clay mortar with garlic, fresh chilli, lime, fish sauce, palm sugar, peanuts and dried shrimp into a fiery sweet-sour-salty-spicy mouthful that defines the four Thai flavour notes in one bowl. The pounding isn't to break the papaya down but to bruise it just enough that the dressing penetrates each shred while the texture stays crisp. Dried shrimp, garlic and bird's-eye chillies pound to a coarse paste first; green beans go in next for a few light blows; palm sugar, tamarind, fish sauce and lime build the dressing that gets tossed through the shredded papaya, carrot and halved cherry tomatoes. Toasted peanuts, fresh coriander and Thai basil scatter across the top. Eat as a fierce starter alongside grilled meats, sticky rice and a cold beer.
 
 ## Ingredients
 ### Nuts and shrimp

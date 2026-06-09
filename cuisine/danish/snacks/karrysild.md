@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Karrysild (Danish curried herring) is the Danish answer to the broader Scandinavian pickled-herring tradition and a fixture of every lunch buffet, smørrebrød spread, julefrokost (Christmas lunch) and Sunday cold buffet. Pre-cured pickled herring fillets (matjessild or saltsild from jars) cut into bite-sized pieces and folded into a curry mayonnaise: mayonnaise mixed with mild curry powder, cream and Dijon, finished with chopped raw onion, capers, and either grated apple or chopped sweet pickle for the sweet-tart counterpoint. Refrigerated at least four hours so the flavours meld and the herring takes on the yellow colour of the dressing. Served cold on dark Danish rye with chopped chives and a sprig of dill, or as one of three to five herring variations on a Danish lunch table. An early-1900s adaptation of British-Indian curry powder for the herring jar, now one of the canonical Danish herring forms.
+Karrysild (Danish curried herring) is the Danish answer to the broader Scandinavian pickled-herring tradition and a fixture of every lunch buffet, smørrebrød spread, julefrokost (Christmas lunch) and Sunday cold buffet. Pre-cured pickled herring fillets (matjessild or saltsild from jars) cut into bite-sized pieces and folded into a curry mayonnaise: mayonnaise mixed with mild curry powder, cream and Dijon, finished with chopped raw onion, capers, and either grated apple or chopped sweet pickle for the sweet-tart counterpoint. Refrigerated at least four hours so the flavours meld and the herring takes on the yellow colour of the dressing. Served cold on dark Danish rye with chopped chives and a sprig of dill, or as one of three to five herring variations on a Danish lunch table. An early-1900s adaptation of British-Indian curry powder for the herring jar, now one of the traditional Danish herring forms.
 
 ## Ingredients
 
@@ -82,8 +82,8 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 3. Eat a forkful of karrysild on rye → sip beer → sip akvavit → "skål!" → repeat.
 
 ## Notes
-- **Pre-cured pickled herring:** the canonical Scandinavian base. Matjessild or saltsild from a jar. Don't use raw herring or smoked herring - different products.
-- **Mild Danish curry powder:** the canonical balance is gentle and sweet. Indian hot curry powder is too aggressive.
+- **Pre-cured pickled herring:** the traditional Scandinavian base. Matjessild or saltsild from a jar. Don't use raw herring or smoked herring - different products.
+- **Mild Danish curry powder:** the traditional balance is gentle and sweet. Indian hot curry powder is too aggressive.
 - **Mango chutney:** the Danish-British-colonial influence. Adds the sweet-fruity note that distinguishes karrysild from generic curried mayo.
 - **Chill 4 hours minimum:** the herring needs time to take on the yellow colour and absorb the curry flavour.
 - **Generous butter on the bread:** the buttery layer is essential under the wet karrysild.
@@ -92,12 +92,12 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 **With grated carrot:** add a small grated carrot for sweetness and crunch.
 **With raisins:** add 2 tablespoons of raisins (plumped in akvavit first) for a richer, more Christmas-feast version.
 **Spicier:** add a pinch of cayenne or chopped fresh chilli.
-**With smoked herring instead of pickled:** less canonical, more smoky.
+**With smoked herring instead of pickled:** less traditional, more smoky.
 **Mini canapé size:** spoon onto small squares of buttered crisp bread for cocktail-hour smørrebrød.
 **With dill and crème fraîche only (sweeter, milder):** for kids or curry-averse guests.
 
 ## Serving
-At a Danish julefrokost Christmas lunch (alongside 5-6 other small dishes) · at a Sunday cold-buffet · as one of the canonical herring trio (curried, mustard, dilled) at any Danish lunch · at a Copenhagen restaurant smørrebrød lunch · at home with cold beer and akvavit.
+At a Danish julefrokost Christmas lunch (alongside 5-6 other small dishes) · at a Sunday cold-buffet · as one of the traditional herring trio (curried, mustard, dilled) at any Danish lunch · at a Copenhagen restaurant smørrebrød lunch · at home with cold beer and akvavit.
 
 ## Storage
 - Karrysild refrigerates 1 week in a sealed container (the flavour deepens over the first 3 days).

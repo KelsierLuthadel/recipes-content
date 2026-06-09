@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-These are the Christmas Eve pierogi of Polish tables, stuffed with sauerkraut and dried wild mushrooms (porcini if you can find them), sour and earthy and deep. Traditionally eaten meatless as one of the twelve Wigilia dishes on Christmas Eve, but also made the rest of the year because they're too good to save for one night. The dried porcini liquor is the secret depth of the filling, strained through a fine sieve and cooked back in. Squeeze the sauerkraut bone-dry between your palms before chopping; wet sauerkraut gives wet filling that tears the dough on the boil. The same simple flour-egg-warm-water dough as ruskie wraps a teaspoon of cooled filling into half-moons, sealed firm and boiled till they float. Eaten with melted butter, a generous pile of separately fried onions, a spoon of sour cream and a scatter of fresh dill.
+These are the Christmas Eve pierogi of Polish tables, stuffed with sauerkraut and dried wild mushrooms (porcini if you can find them), sour and earthy and deep. Traditionally eaten meatless as one of the twelve Wigilia dishes on Christmas Eve, but also made the rest of the year because they're too good to save for one night. The dried porcini liquor is the secret depth of the filling, strained through a fine sieve and cooked back in. Squeeze the sauerkraut bone-dry between your palms before chopping; wet sauerkraut gives wet filling that tears the dough on the boil. The same simple flour-egg-warm-water dough as ruskie wraps a teaspoon of cooled filling into half-moons, sealed firm and boiled till they float. Eat with melted butter, a generous pile of separately fried onions, a spoon of sour cream and a scatter of fresh dill.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-A Cajun cookout skewer, the kind of thing that comes off the grill at a Louisiana backyard barbecue while the gumbo is finishing on the back burner. You take andouille (the heavily smoked, garlicky Cajun pork sausage) and cut it into thick coins, then thread them onto pre-soaked wooden skewers (or metal) with chunks of red and green pepper, red onion, and a few halved cherry tomatoes. Brush with a quick Cajun glaze of melted butter, garlic, brown sugar, hot sauce and Cajun seasoning. Onto a hot grill over high heat for just long enough to char the vegetables and bring the sausage shiny and sticky. Eaten straight off the skewer with a beer in the other hand, the smoke still hanging in the air.
+A Cajun cookout skewer, the kind of thing that comes off the grill at a Louisiana backyard barbecue while the gumbo is finishing on the back burner. You take andouille (the heavily smoked, garlicky Cajun pork sausage) and cut it into thick coins, then thread them onto pre-soaked wooden skewers (or metal) with chunks of red and green pepper, red onion, and a few halved cherry tomatoes. Brush with a quick Cajun glaze of melted butter, garlic, brown sugar, hot sauce and Cajun seasoning. Onto a hot grill over high heat for just long enough to char the vegetables and bring the sausage shiny and sticky. Eat straight off the skewer with a beer in the other hand, the smoke still hanging in the air.
 
 ## Ingredients
 

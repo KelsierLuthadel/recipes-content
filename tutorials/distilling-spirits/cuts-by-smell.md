@@ -122,7 +122,7 @@ The first 5-10 runs you do, your sensory accuracy will be guesswork. The cues be
 
 Once the run is done, you have jars 1-N. Not every hearts jar is identical:
 - **Early hearts** (high ABV, first jars after the cut) tend to be brighter, fruitier, more delicate
-- **Mid hearts** are the canonical whiskey character - sweet, balanced, full
+- **Mid hearts** are the traditional whiskey character - sweet, balanced, full
 - **Late hearts** (lower ABV, last jars before tails) are heavier, more grain-forward, sometimes slightly oily
 
 For a single bottling, **blend all hearts together** - this gives a balanced whiskey with the full range of character. For a more refined product, **blend only mid hearts**, save the early and late for blending into next year's batch.

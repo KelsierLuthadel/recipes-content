@@ -69,7 +69,7 @@ Knafeh muffins are the individual portion version of the classical knafeh Nabuls
 3. Set the muffins on a serving plate, scatter generously with crushed pistachios and a pinch of dried rose petals if using.
 
 ## Notes
-- Akkawi is the canonical cheese; a blend of ricotta and low-moisture mozzarella is the most accessible substitute and gives the right pull. If you can find a "knafeh cheese" blend at a Levantine grocer, use it.
+- Akkawi is the traditional cheese; a blend of ricotta and low-moisture mozzarella is the most accessible substitute and gives the right pull. If you can find a "knafeh cheese" blend at a Levantine grocer, use it.
 - The buttered kataifi is forgiving - a single layer of unpacked strands turns wispy and lacy; a packed layer turns dense and biscuit-like. Both work; muffin-tin baking suits the packed version slightly better.
 - For a vivid orange traditional knafeh nablusi look, add a pinch of red food colouring to the melted butter before tossing with the kataifi.
 

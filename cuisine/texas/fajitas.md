@@ -2,7 +2,7 @@
 
 ![Texas Fajitas](resources/fajitas.jpg)
 
-*Texas's grilled skirt steak: marinated skirt steak (the canonical "fajita" cut) grilled over hot charcoal till charred, sliced thin against the grain and served sizzling on a hot cast-iron plate with grilled onions and peppers, warm flour tortillas, guacamole, pico de gallo, sour cream and cheese. The Tex-Mex border classic that defined American Mexican food in the 80s.*
+*Texas's grilled skirt steak: marinated skirt steak (the traditional "fajita" cut) grilled over hot charcoal till charred, sliced thin against the grain and served sizzling on a hot cast-iron plate with grilled onions and peppers, warm flour tortillas, guacamole, pico de gallo, sour cream and cheese. The Tex-Mex border classic that defined American Mexican food in the 80s.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Texas fajitas, the iconic Tex-Mex dish that defines a particular Texas-Mexican border tradition: marinated skirt steak (faja means belt or sash in Spanish, referring to the long thin strip of beef from below the ribs) marinated in lime juice, soy sauce, garlic, cumin and Mexican beer, grilled hot and fast over charcoal till charred outside and pink inside, sliced thin against the grain. Served on a sizzling-hot cast-iron plate with grilled sliced onions and peppers, warm flour tortillas, guacamole, pico de gallo, sour cream, grated cheese and lime wedges. The dish became wildly popular in American Tex-Mex restaurants in the 1980s after originating in South Texas (the Rio Grande valley); today it's the canonical American Tex-Mex order. Skirt steak is the canonical cut; flank substitutes. Slice thin against the grain since the skirt has prominent muscle fibres; perpendicular cuts give tender bites. The sizzling cast-iron plate is the canonical Tex-Mex restaurant presentation; it keeps everything hot and dramatic.
+Texas fajitas, the iconic Tex-Mex dish that defines a particular Texas-Mexican border tradition: marinated skirt steak (faja means belt or sash in Spanish, referring to the long thin strip of beef from below the ribs) marinated in lime juice, soy sauce, garlic, cumin and Mexican beer, grilled hot and fast over charcoal till charred outside and pink inside, sliced thin against the grain. Served on a sizzling-hot cast-iron plate with grilled sliced onions and peppers, warm flour tortillas, guacamole, pico de gallo, sour cream, grated cheese and lime wedges. The dish became wildly popular in American Tex-Mex restaurants in the 1980s after originating in South Texas (the Rio Grande valley); today it's the traditional American Tex-Mex order. Skirt steak is the traditional cut; flank substitutes. Slice thin against the grain since the skirt has prominent muscle fibres; perpendicular cuts give tender bites. The sizzling cast-iron plate is the traditional Tex-Mex restaurant presentation; it keeps everything hot and dramatic.
 
 ## Ingredients
 
@@ -87,11 +87,11 @@ Texas fajitas, the iconic Tex-Mex dish that defines a particular Texas-Mexican b
 ### Stage 7 - Serve family-style
 1. Bring the sizzling plate to the table.
 2. Warm tortillas (wrapped in foil and warmed briefly).
-3. All the canonical accompaniments in small bowls.
+3. All the traditional accompaniments in small bowls.
 4. Diners assemble their own fajita rolls.
 
 ## Notes
-- **Skirt steak canonical:** "faja" cut.
+- **Skirt steak traditional:** "faja" cut.
 - **Slice against the grain:** essential.
 - **Hot cast-iron plate:** the Tex-Mex presentation.
 - **Don't overcook:** medium-rare best.

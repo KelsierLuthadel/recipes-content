@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Napolitaine is one of the most distinctive sweets in Mauritian patisserie, found at every bakery window in Port Louis, Curepipe and Quatre Bornes: two soft, tender, almost-melting shortbread discs sandwiched with raspberry jam, the whole sandwich dipped or drizzled in a hot-pink fondant icing so the outside goes glossy and the inside stays soft and buttery. The name has nothing to do with Naples; it is a Mauritian-French invention, possibly riffing on an Italian Napolitana biscuit but evolved into something thoroughly Mauritian and unrelated. The biscuits are nearly indecent in their sweetness and richness; each one is about 90 g of butter, sugar, flour and jam, finished with a thick coating of pink icing. Not an after-dinner dessert; a 4pm-with-coffee indulgence or a Sunday treat brought home from the bakery for the kids. The shortbread should be soft and crumbly rather than crisp (the Mauritian style). The icing should be glossy pink rather than matte; proper rolled fondant thinned slightly is canonical, but a tinted icing-sugar glaze substitutes.
+Napolitaine is one of the most distinctive sweets in Mauritian patisserie, found at every bakery window in Port Louis, Curepipe and Quatre Bornes: two soft, tender, almost-melting shortbread discs sandwiched with raspberry jam, the whole sandwich dipped or drizzled in a hot-pink fondant icing so the outside goes glossy and the inside stays soft and buttery. The name has nothing to do with Naples; it is a Mauritian-French invention, possibly riffing on an Italian Napolitana biscuit but evolved into something thoroughly Mauritian and unrelated. The biscuits are nearly indecent in their sweetness and richness; each one is about 90 g of butter, sugar, flour and jam, finished with a thick coating of pink icing. Not an after-dinner dessert; a 4pm-with-coffee indulgence or a Sunday treat brought home from the bakery for the kids. The shortbread should be soft and crumbly rather than crisp (the Mauritian style). The icing should be glossy pink rather than matte; proper rolled fondant thinned slightly is traditional, but a tinted icing-sugar glaze substitutes.
 
 ## Ingredients
 
@@ -65,7 +65,7 @@ Napolitaine is one of the most distinctive sweets in Mauritian patisserie, found
 ### Stage 5 - Make the icing
 1. Sift the icing sugar into a wide bowl.
 2. Add 3 tablespoons of warm water and the vanilla (if using); whisk to a thick smooth glossy paste.
-3. Add the food colouring a drop at a time, whisking after each addition, till you reach the desired pink (the canonical Mauritian napolitaine pink is bright, almost candy-pink; don't be timid).
+3. Add the food colouring a drop at a time, whisking after each addition, till you reach the desired pink (the traditional Mauritian napolitaine pink is bright, almost candy-pink; don't be timid).
 4. The consistency should be thick but pourable; if too thick, add a few drops of water; if too runny, add more icing sugar.
 
 ### Stage 6 - Coat with icing
@@ -87,7 +87,7 @@ Napolitaine is one of the most distinctive sweets in Mauritian patisserie, found
 ## Notes
 - **Soft, not crisp:** Mauritian napolitaine shortbread should be soft and tender, not the firm-snap shortbread of Scotland. Underbake slightly rather than overbake; pale gold is the target colour.
 - **Don't overwork the dough:** overworking develops gluten and gives a tough shortbread. Mix till just combined; press together rather than knead.
-- **Real raspberry jam, not strawberry:** the canonical Mauritian napolitaine uses raspberry; the brightness of the red is part of the look. Strawberry works but is less canonical.
+- **Real raspberry jam, not strawberry:** the traditional Mauritian napolitaine uses raspberry; the brightness of the red is part of the look. Strawberry works but is less traditional.
 - **Bright pink icing:** Mauritian napolitaine is meant to be bright candy-pink; subtle pastel isn't the look. Use gel-style food colouring for the brightest result.
 - **Cool the biscuits completely before sandwiching:** warm biscuits melt the jam; cold biscuits hold the jam firmly without leak.
 

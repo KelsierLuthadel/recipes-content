@@ -36,7 +36,7 @@ The Halifax donair is the city's most identity-defining street food, and the pro
 - (Some variants add 1 teaspoon Worcestershire sauce or 1/4 teaspoon ground coriander; the Halifax purist keeps it to the 4 ingredients above)
 
 ### The assembly (per donair, × 4)
-- 1 fresh large soft pita (about 20 cm diameter; the soft "Greek-style" pocketless pita is canonical)
+- 1 fresh large soft pita (about 20 cm diameter; the soft "Greek-style" pocketless pita is traditional)
 - 1/2 small white onion, very finely diced
 - 1 ripe tomato, deseeded and finely diced
 - (Optional: 2 tablespoons chopped fresh flat-leaf parsley - some Halifax purists object, some include)
@@ -48,7 +48,7 @@ The Halifax donair is the city's most identity-defining street food, and the pro
 
 ### To serve alongside
 - A handful of [Belgian-style frites](../../belgian/side-dishes/belgian-frites.md) OR potato wedges
-- Foil sheets for wrapping (the canonical Halifax serving)
+- Foil sheets for wrapping (the traditional Halifax serving)
 - A cold can of pop or a Canadian lager
 - Optional: extra sauce on the side for dipping
 
@@ -101,7 +101,7 @@ The Halifax donair is the city's most identity-defining street food, and the pro
 4. Add optional parsley.
 5. Drizzle 2-3 tablespoons of donair sauce generously over the top - don't skimp; the sauce is what makes it a Halifax donair.
 6. Fold one side of the pita over, then roll into a torpedo shape.
-7. Wrap the bottom half in foil to hold it together (the canonical Halifax kebab-stand presentation).
+7. Wrap the bottom half in foil to hold it together (the traditional Halifax kebab-stand presentation).
 
 ### Stage 9 - Serve immediately
 1. Hand the foil-wrapped donair to the diner.
@@ -112,7 +112,7 @@ The Halifax donair is the city's most identity-defining street food, and the pro
 - **Knead the meat hard:** the dense, sliceable texture comes from vigorous mixing. Skipping this step gives you a crumbly loaf that won't slice.
 - **Cold meat is essential for slicing:** warm meat shreds. The 2+ hour refrigeration is non-negotiable.
 - **Sweet donair sauce is non-negotiable:** this is what makes a Halifax donair different from a generic gyro or shawarma. Don't substitute tzatziki, garlic sauce, hummus or anything else.
-- **Pita choice matters:** the soft pocketless Greek-style pita is canonical. Pocket pitas don't fold the same way.
+- **Pita choice matters:** the soft pocketless Greek-style pita is traditional. Pocket pitas don't fold the same way.
 - **Use a deli slicer if you have one:** the home version with a sharp knife works, but a deli slicer gives the paper-thin slices of a proper rotisserie donair.
 - **The Halifax purist insists:** beef only (no lamb, no chicken, no pork); the sweet sauce only; the onion-tomato garnish only. Other cities (Toronto, Edmonton) make modernised versions; Halifax keeps it pure.
 
@@ -128,7 +128,7 @@ The Halifax donair is the city's most identity-defining street food, and the pro
 **Garlic donair (extra garlic variant):** triple the garlic powder in the sauce - for the garlic-loving Halifax purist.
 
 ## Serving
-At a Halifax kebab stand on Spring Garden Road or Quinpool Road after midnight (the canonical setting) · at the King of Donair on Quinpool (the founding restaurant) · at a Halifax Mooseheads or Hurricanes hockey game · at a Maritime university residence on a Friday night · at a Halifax pub for Saturday lunch · at home as a satisfying weekend dinner project · packed in foil for a Halifax-themed picnic or road trip.
+At a Halifax kebab stand on Spring Garden Road or Quinpool Road after midnight (the traditional setting) · at the King of Donair on Quinpool (the founding restaurant) · at a Halifax Mooseheads or Hurricanes hockey game · at a Maritime university residence on a Friday night · at a Halifax pub for Saturday lunch · at home as a satisfying weekend dinner project · packed in foil for a Halifax-themed picnic or road trip.
 
 ## Storage
 - The baked meat loaf refrigerates 5 days wrapped tight; slice and re-crisp as needed.

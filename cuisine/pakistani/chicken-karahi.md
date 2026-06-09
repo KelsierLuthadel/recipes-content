@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistani truck-stop and still cooked in the heavy wok-like karahi that gives it its name. What sets the Pakistani version apart from its Indian cousin is what's missing: no onion paste, no cream, no fuss. The whole sauce is built from tomato, ginger, garlic, green chilli and a heavy hand of freshly cracked black pepper, with bone-in chicken pieces seared hard then braised under halved tomatoes that collapse into a glossy deep-orange masala. Mortar-bashed peppercorns rather than pre-ground are what give the dish its proper warmth (pre-ground goes acrid), and a final scatter of slivered ginger, green chillies, fresh coriander and garam masala wakes everything up. Eaten straight from the karahi with hot naan or roti and lemon wedges.
+Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistani truck-stop and still cooked in the heavy wok-like karahi that gives it its name. What sets the Pakistani version apart from its Indian cousin is what's missing: no onion paste, no cream, no fuss. The whole sauce is built from tomato, ginger, garlic, green chilli and a heavy hand of freshly cracked black pepper, with bone-in chicken pieces seared hard then braised under halved tomatoes that collapse into a glossy deep-orange masala. Mortar-bashed peppercorns rather than pre-ground are what give the dish its proper warmth (pre-ground goes acrid), and a final scatter of slivered ginger, green chillies, fresh coriander and garam masala wakes everything up. Eat straight from the karahi with hot naan or roti and lemon wedges.
 
 ## Ingredients
 

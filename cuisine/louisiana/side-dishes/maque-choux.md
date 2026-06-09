@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Maque choux is Louisiana's iconic Cajun summer corn dish (the name derives from a French-Creole fusion possibly meaning "smothered cabbage", though the dish itself uses corn): fresh sweet corn kernels cut off the cob (canonical; or frozen sweet corn in winter), sautéed with butter, the trinity (onion, celery, green pepper), garlic, chopped tomato, Cajun seasoning, a pinch of sugar, and finished with a touch of cream and chopped parsley and spring onion. The corn cooks down with the vegetables till it caramelises slightly and absorbs the trinity flavour.
+Maque choux is Louisiana's iconic Cajun summer corn dish (the name derives from a French-Creole fusion possibly meaning "smothered cabbage", though the dish itself uses corn): fresh sweet corn kernels cut off the cob (traditional; or frozen sweet corn in winter), sautéed with butter, the trinity (onion, celery, green pepper), garlic, chopped tomato, Cajun seasoning, a pinch of sugar, and finished with a touch of cream and chopped parsley and spring onion. The corn cooks down with the vegetables till it caramelises slightly and absorbs the trinity flavour.
 
 ## Ingredients
 

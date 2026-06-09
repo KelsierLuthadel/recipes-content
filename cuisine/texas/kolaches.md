@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) are the iconic Czech-Texan pastry of Central Texas, brought to the state by Czech immigrants who settled in towns like West, Schulenburg, La Grange and Caldwell in the 19th century: soft yeasted slightly-sweet enriched bread dough rolled into small palm-sized rounds, a deep well pressed into the centre with a thumb, the well filled with one of the canonical sweet fillings (apricot or prune butter, poppy seed paste, cream cheese, or sweet cheese), baked till the dough is just pale gold and the filling is set. The savoury sausage-filled variant (klobasniky) is a Texas innovation where the dough wraps around a smoked sausage. The dough is properly enriched (eggs, butter, milk for richness), not a regular bread dough. Traditional sweet fillings are apricot, prune, poppy seed and sweet cheese. The well pressed into the centre after the first shaping is what holds the filling without leaking.
+Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) are the iconic Czech-Texan pastry of Central Texas, brought to the state by Czech immigrants who settled in towns like West, Schulenburg, La Grange and Caldwell in the 19th century: soft yeasted slightly-sweet enriched bread dough rolled into small palm-sized rounds, a deep well pressed into the centre with a thumb, the well filled with one of the traditional sweet fillings (apricot or prune butter, poppy seed paste, cream cheese, or sweet cheese), baked till the dough is just pale gold and the filling is set. The savoury sausage-filled variant (klobasniky) is a Texas innovation where the dough wraps around a smoked sausage. The dough is properly enriched (eggs, butter, milk for richness), not a regular bread dough. Traditional sweet fillings are apricot, prune, poppy seed and sweet cheese. The well pressed into the centre after the first shaping is what holds the filling without leaking.
 
 ## Ingredients
 
@@ -58,7 +58,7 @@ Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) 
 - 2 tablespoons plain flour
 - Zest of 1 lemon
 
-### Topping (posypka - the canonical Czech streusel)
+### Topping (posypka - the traditional Czech streusel)
 - 80 g plain flour
 - 60 g caster sugar
 - 50 g cold butter
@@ -109,7 +109,7 @@ Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) 
 ## Notes
 - **Soft enriched dough:** eggs, butter, milk.
 - **Don't overbake:** pale gold; deep brown is wrong.
-- **Posypka is canonical:** the streusel topping.
+- **Posypka is traditional:** the streusel topping.
 - **Multiple fillings:** the proper Czech-Texan kolache spread has 3-4 types.
 
 ## Variations
@@ -119,7 +119,7 @@ Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) 
 **With nuts:** add chopped walnuts or pecans to the dough; gives crunch.
 
 ## Serving
-Warm with strong coffee. At Czech-Texan bakeries (West, Caldwell, La Grange - the canonical Texas-Czech towns). At Texas breakfast spreads.
+Warm with strong coffee. At Czech-Texan bakeries (West, Caldwell, La Grange - the traditional Texas-Czech towns). At Texas breakfast spreads.
 
 ## Storage
 - Keeps in a sealed container at room temperature 3 days.

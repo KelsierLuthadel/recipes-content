@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Bajan fried chicken is the Caribbean answer to southern American fried chicken, distinguished by the marinade and the crust. Where American versions use a buttermilk-and-spice soak, Bajan uses an aromatic green-seasoning paste of fresh herbs, lime, mustard, Bajan pepper sauce, Scotch bonnet, soy and paprika, worked into bone-in chicken pieces overnight so the flavour reaches the bone. The dredge is a 50/50 blend of plain flour and cornstarch with paprika, dry mustard, garlic and onion powders; the cornstarch is the secret to a lighter, shatteringly crisp crust. The double-dredge is the other Bajan move: dredge, dip in egg-and-buttermilk slurry, back into the dredge, which gives the canonical extra-thick crust. Deep-fried at 175 °C till deep golden and cooked through. Eaten with Bajan pepper sauce, a wedge of lime, macaroni pie or rice and peas, and a cold Banks lager.
+Bajan fried chicken is the Caribbean answer to southern American fried chicken, distinguished by the marinade and the crust. Where American versions use a buttermilk-and-spice soak, Bajan uses an aromatic green-seasoning paste of fresh herbs, lime, mustard, Bajan pepper sauce, Scotch bonnet, soy and paprika, worked into bone-in chicken pieces overnight so the flavour reaches the bone. The dredge is a 50/50 blend of plain flour and cornstarch with paprika, dry mustard, garlic and onion powders; the cornstarch is the secret to a lighter, shatteringly crisp crust. The double-dredge is the other Bajan move: dredge, dip in egg-and-buttermilk slurry, back into the dredge, which gives the traditional extra-thick crust. Deep-fried at 175 °C till deep golden and cooked through. Eat with Bajan pepper sauce, a wedge of lime, macaroni pie or rice and peas, and a cold Banks lager.
 
 ## Ingredients
 
@@ -46,7 +46,7 @@ Bajan fried chicken is the Caribbean answer to southern American fried chicken, 
 - 1 tablespoon prepared yellow mustard
 
 ### For frying
-- 2 litres sunflower or groundnut oil (or peanut oil for the canonical fried-chicken flavour)
+- 2 litres sunflower or groundnut oil (or peanut oil for the traditional fried-chicken flavour)
 
 ### To serve
 - Lime wedges
@@ -101,7 +101,7 @@ Bajan fried chicken is the Caribbean answer to southern American fried chicken, 
 
 ## Notes
 - **Overnight marinate:** the green-seasoning paste needs time to permeate. Minimum 4 hours; overnight is dramatically better.
-- **Double-dredge is the canonical extra-crisp coat:** dredge > slurry > dredge again. Without this, you've made single-coat fried chicken.
+- **Double-dredge is the traditional extra-crisp coat:** dredge > slurry > dredge again. Without this, you've made single-coat fried chicken.
 - **Cornstarch in the dredge:** 50/50 flour and cornstarch gives the shatteringly-crisp coat. Pure flour gives a bread-like coat.
 - **175°C is the magic temperature:** lower and the crust soaks fat; higher and the outside burns.
 - **Don't drain on kitchen paper:** wire rack only. Paper traps steam and the bottom goes soggy.
@@ -117,7 +117,7 @@ Bajan fried chicken is the Caribbean answer to southern American fried chicken, 
 **Pressure-cooker Bajan fried chicken:** pressure-cook the marinated chicken first 8 minutes; then dredge and fry only 4-5 minutes - the KFC-style technique.
 
 ## Serving
-At a Bajan rum-shop on a Saturday afternoon (the canonical setting) · at the Oistins fish fry (a Friday-night Bajan fish festival, but fried chicken is sold alongside) · at a Bajan beach picnic · at a Bajan birthday party · at a Bajan church potluck · at a Bajan Independence Day (30 November) cookout · at home as a Saturday-night family treat · paired with macaroni pie, rice and peas, and a cold Banks.
+At a Bajan rum-shop on a Saturday afternoon (the traditional setting) · at the Oistins fish fry (a Friday-night Bajan fish festival, but fried chicken is sold alongside) · at a Bajan beach picnic · at a Bajan birthday party · at a Bajan church potluck · at a Bajan Independence Day (30 November) cookout · at home as a Saturday-night family treat · paired with macaroni pie, rice and peas, and a cold Banks.
 
 ## Storage
 - Best within 30 minutes of frying.

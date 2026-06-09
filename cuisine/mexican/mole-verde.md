@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Mole verde (sometimes called pipián verde for the toasted pumpkin seeds at its base) is Mexico's vibrant green mole, lighter and brighter than the deep brown mole poblano. A vivid green sauce blended from tomatillos, toasted pepitas, fresh jalapeños and serranos, coriander, parsley, poblanos, green onions and fresh epazote, simmered with chicken broth and finished with a touch of cream. Chicken (typically) or pork slow-poaches in the sauce till tender. Tomatillos are essential; their tartness is the character of the sauce and ordinary tomatoes don't substitute (the canned ones from a Mexican grocer work fine). Toasting the pumpkin seeds is what brings out the nutty depth that gives the sauce its body, so don't skip the dry-pan stage. Epazote is the canonical Mexican herb (available dried at Mexican markets); without it the dish loses some of its identity. Served over Mexican rice with fresh tortillas, lime wedges, sliced avocado and crumbled queso fresco.
+Mole verde (sometimes called pipián verde for the toasted pumpkin seeds at its base) is Mexico's vibrant green mole, lighter and brighter than the deep brown mole poblano. A vivid green sauce blended from tomatillos, toasted pepitas, fresh jalapeños and serranos, coriander, parsley, poblanos, green onions and fresh epazote, simmered with chicken broth and finished with a touch of cream. Chicken (typically) or pork slow-poaches in the sauce till tender. Tomatillos are essential; their tartness is the character of the sauce and ordinary tomatoes don't substitute (the canned ones from a Mexican grocer work fine). Toasting the pumpkin seeds is what brings out the nutty depth that gives the sauce its body, so don't skip the dry-pan stage. Epazote is the traditional Mexican herb (available dried at Mexican markets); without it the dish loses some of its identity. Served over Mexican rice with fresh tortillas, lime wedges, sliced avocado and crumbled queso fresco.
 
 ## Ingredients
 
@@ -102,7 +102,7 @@ Mole verde (sometimes called pipián verde for the toasted pumpkin seeds at its 
 - **Tomatillos essential:** the Mexican husk tomato; substitute with green tomatoes + 1 extra tablespoon lime juice as approximation.
 - **Toast the pumpkin seeds:** brings out nutty depth.
 - **Epazote gives identity:** Mexican herb; substitute with extra coriander.
-- **Cook the sauce in hot oil:** deepens colour and concentrates flavour; canonical mole technique.
+- **Cook the sauce in hot oil:** deepens colour and concentrates flavour; traditional mole technique.
 - **Bright vibrant green:** if your sauce goes drab, you've overcooked.
 
 ## Variations

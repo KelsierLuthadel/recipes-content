@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Beignets are New Orleans' iconic Creole doughnut and the canonical breakfast/snack at the world-famous Café du Monde in the French Quarter (open 24 hours since 1862): a soft yeasted dough enriched with milk, butter, sugar and egg, rolled flat, cut into squares (not rings; the square is the signature), then deep-fried till they puff golden brown. Absolutely smothered in icing sugar (the proper Café du Monde method is to drop them in a paper bag with a cup of icing sugar and shake hard). Served with a steaming chicory café au lait.
+Beignets are New Orleans' iconic Creole doughnut and the traditional breakfast/snack at the world-famous Café du Monde in the French Quarter (open 24 hours since 1862): a soft yeasted dough enriched with milk, butter, sugar and egg, rolled flat, cut into squares (not rings; the square is the signature), then deep-fried till they puff golden brown. Absolutely smothered in icing sugar (the proper Café du Monde method is to drop them in a paper bag with a cup of icing sugar and shake hard). Served with a steaming chicory café au lait.
 
 ## Ingredients
 
@@ -76,7 +76,7 @@ Beignets are New Orleans' iconic Creole doughnut and the canonical breakfast/sna
 - **Eat immediately while warm:** soften quickly.
 
 ## Variations
-**Savoury (less canonical):** skip sugar; dust with grated cheese.
+**Savoury (less traditional):** skip sugar; dust with grated cheese.
 **With apple filling:** brush with apple compote before dusting.
 **Smaller bite-size:** cut into 3cm squares.
 

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large red rocoto chillies stuffed with a rich beef-and-onion filling and baked under a layer of melted Peruvian fresh cheese. Rocoto (Capsicum pubescens) is a distinctly Andean chilli, apple-shaped, deep red, with black seeds (unlike most chillies, which have cream-coloured seeds), thicker walls than a bell pepper, and a Scoville heat of 30,000 to 100,000 (similar to a habanero but with a sweeter, more vegetal flavour). Outside Peru, rocoto is sold fresh in Latin American shops (look for "rocoto" or "manzano"); cubanelle peppers substitute structurally. The mellowing boil tones down the brutal raw-rocoto heat to a manageable level; Arequipa purists boil three times, others once for the more aggressive version. The filling is minced beef with onion, garlic, aji panca paste, cumin, oregano, raisins, chopped peanuts (the Arequipa addition), hard-boiled egg and parsley. Topped with queso fresco, baked till the cheese is melted and golden. Served alongside pastel de papa (Andean potato gratin), the canonical Arequipa pairing.
+Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large red rocoto chillies stuffed with a rich beef-and-onion filling and baked under a layer of melted Peruvian fresh cheese. Rocoto (Capsicum pubescens) is a distinctly Andean chilli, apple-shaped, deep red, with black seeds (unlike most chillies, which have cream-coloured seeds), thicker walls than a bell pepper, and a Scoville heat of 30,000 to 100,000 (similar to a habanero but with a sweeter, more vegetal flavour). Outside Peru, rocoto is sold fresh in Latin American shops (look for "rocoto" or "manzano"); cubanelle peppers substitute structurally. The mellowing boil tones down the brutal raw-rocoto heat to a manageable level; Arequipa purists boil three times, others once for the more aggressive version. The filling is minced beef with onion, garlic, aji panca paste, cumin, oregano, raisins, chopped peanuts (the Arequipa addition), hard-boiled egg and parsley. Topped with queso fresco, baked till the cheese is melted and golden. Served alongside pastel de papa (Andean potato gratin), the traditional Arequipa pairing.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 - 200 g queso fresco (Peruvian fresh cheese; substitute with 100 g mozzarella + 100 g feta, mixed)
 - 1 large egg yolk (for a glaze; optional but traditional)
 
-### To serve alongside (the canonical Arequipa pairing)
+### To serve alongside (the traditional Arequipa pairing)
 - 1 batch pastel de papa OR 600 g boiled new potatoes, buttered
 - 1 batch white rice
 - A small wedge of lime
@@ -101,8 +101,8 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 - **Boil to mellow:** raw rocoto is too hot for most palates. The 3-4 minute boil with vinegar-sugar-salt is essential.
 - **Raisins and peanuts:** the Arequipa-specific additions. Without them, the dish is just a generic Latin stuffed pepper.
 - **Queso fresco is essential:** Peruvian fresh white cheese; mozzarella + feta mix is the workable substitute.
-- **Don't substitute bell peppers for the canonical version:** the heat IS part of the dish. If you must, use cubanelle peppers + add a finely chopped habanero to the filling for some heat.
-- **Pastel de papa is the canonical Arequipa side:** Andean baked layered-potato gratin (similar to scalloped potatoes); a layer of thin-sliced waxy potato, queso fresco, salt, milk, baked till golden.
+- **Don't substitute bell peppers for the traditional version:** the heat IS part of the dish. If you must, use cubanelle peppers + add a finely chopped habanero to the filling for some heat.
+- **Pastel de papa is the traditional Arequipa side:** Andean baked layered-potato gratin (similar to scalloped potatoes); a layer of thin-sliced waxy potato, queso fresco, salt, milk, baked till golden.
 
 ## Variations
 **Vegetarian rocoto relleno:** swap beef for finely chopped mushrooms + lentils + the same raisins and peanuts.
@@ -115,7 +115,7 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 **Rocoto Relleno with aji huacatay sauce:** spoon a small dollop of huacatay sauce on top - the modern Lima fusion.
 
 ## Serving
-At an Arequipa picantería (the canonical setting; a picantería is a Peruvian regional restaurant focused on traditional Arequipa food) · at an Arequipa family Sunday lunch · at the annual Arequipa Day celebration (15 August) · at a Peruvian Independence Day buffet · at a southern-Peruvian Andean restaurant · at home as a Saturday-night dinner-party showpiece · paired with a glass of cold Cusqueña or Pilsen lager.
+At an Arequipa picantería (the traditional setting; a picantería is a Peruvian regional restaurant focused on traditional Arequipa food) · at an Arequipa family Sunday lunch · at the annual Arequipa Day celebration (15 August) · at a Peruvian Independence Day buffet · at a southern-Peruvian Andean restaurant · at home as a Saturday-night dinner-party showpiece · paired with a glass of cold Cusqueña or Pilsen lager.
 
 ## Storage
 - Cooked rocotos refrigerate 3 days; reheat in a 180°C oven for 15 minutes.

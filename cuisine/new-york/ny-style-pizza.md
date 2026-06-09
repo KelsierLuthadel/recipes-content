@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes per pizza
 
 ## Overview
-New York style pizza is one of the world's great regional pizza styles and the canonical New York street food: a thin foldable crust (3-4 mm thick after stretching; thinner than Detroit, Sicilian or Neapolitan) with a slight chewy bite from a high-protein bread flour and 24-72 hour cold fermentation in the refrigerator. Topped with a simple uncooked crushed-tomato sauce (San Marzano canonical, blended only briefly with garlic, salt, dried oregano and olive oil), a generous heap of low-moisture whole-milk mozzarella (the canonical NY pizza cheese; the wet fresh kind makes everything soggy), and baked at 250-290°C on a baking steel or pizza stone for 8-12 minutes till the crust is deep golden and the cheese has melted and the spots have charred slightly. Finished with grated Parmesan, dried oregano, chilli flakes and a drizzle of olive oil.
+New York style pizza is one of the world's great regional pizza styles and the traditional New York street food: a thin foldable crust (3-4 mm thick after stretching; thinner than Detroit, Sicilian or Neapolitan) with a slight chewy bite from a high-protein bread flour and 24-72 hour cold fermentation in the refrigerator. Topped with a simple uncooked crushed-tomato sauce (San Marzano traditional, blended only briefly with garlic, salt, dried oregano and olive oil), a generous heap of low-moisture whole-milk mozzarella (the traditional NY pizza cheese; the wet fresh kind makes everything soggy), and baked at 250-290°C on a baking steel or pizza stone for 8-12 minutes till the crust is deep golden and the cheese has melted and the spots have charred slightly. Finished with grated Parmesan, dried oregano, chilli flakes and a drizzle of olive oil.
 
 ## Ingredients
 

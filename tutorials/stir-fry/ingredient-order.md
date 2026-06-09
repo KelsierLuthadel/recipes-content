@@ -7,7 +7,7 @@
 ## Overview
 Once the wok is hot, the stir-fry is choreography. Six to ten ingredients hit the pan over 3-4 minutes, each at a different moment, each cooked for a different time. The skill is not in any one ingredient; it's in the sequence and the timing.
 
-The canonical sequence has four phases, with a flexible ingredient-grouping inside:
+The traditional sequence has four phases, with a flexible ingredient-grouping inside:
 
 1. **Aromatics.** 5-10 seconds. Garlic, ginger, scallion whites, dried chillies, sometimes shrimp paste.
 2. **Protein.** 1-3 minutes. Stir-fry to just done; remove or push aside.

@@ -111,7 +111,7 @@ Use fewer dried chillies; remove all seeds before soaking. Pair with extra cocon
 - [Massaman](massaman.md): the stew-curry variant.
 - [Panang Curry Paste](panang.md): a richer drier red curry.
 - [Coconut Milk Technique](coconut-milk.md): the cooking technique.
-- [Thai Red Curry Paste recipe](../../base-ingredients/curry-paste/thai-red-paste.md): canonical recipe.
+- [Thai Red Curry Paste recipe](../../base-ingredients/curry-paste/thai-red-paste.md): traditional recipe.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
 
 ## Storage

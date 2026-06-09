@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Hanith is Yemen's most luxurious lamb celebration dish, particularly associated with the Hadhramawt region in the south and the city of Sana'a in the north: a whole bone-in lamb shoulder marinated in a paste of yogurt, garlic, lime juice and the Yemeni hawaij spice blend, then slow-roasted in a sealed clay pot or tightly-covered roasting tin at low temperature for four hours till the meat falls from the bone and the connective tissue dissolves into a rich self-saucing reduction. Bone-in shoulder is canonical; the bone gives the proper flavour, and the connective tissue dissolves to give the unctuous self-sauce. Hanith is less spice-heavy than zurbian; the lamb's flavour should come through. The sealed slow-roast is non-negotiable, since the steam is what gives the proper falling-apart texture; uncovered roasting dries the lamb out. Served on a large platter over fragrant mandi-style rice with yogurt and sahawiq chilli sauce on the side, and bread (lahoh or khubz tawa) for scooping. Often eaten by hand from a communal platter.
+Hanith is Yemen's most luxurious lamb celebration dish, particularly associated with the Hadhramawt region in the south and the city of Sana'a in the north: a whole bone-in lamb shoulder marinated in a paste of yogurt, garlic, lime juice and the Yemeni hawaij spice blend, then slow-roasted in a sealed clay pot or tightly-covered roasting tin at low temperature for four hours till the meat falls from the bone and the connective tissue dissolves into a rich self-saucing reduction. Bone-in shoulder is traditional; the bone gives the proper flavour, and the connective tissue dissolves to give the unctuous self-sauce. Hanith is less spice-heavy than zurbian; the lamb's flavour should come through. The sealed slow-roast is non-negotiable, since the steam is what gives the proper falling-apart texture; uncovered roasting dries the lamb out. Served on a large platter over fragrant mandi-style rice with yogurt and sahawiq chilli sauce on the side, and bread (lahoh or khubz tawa) for scooping. Often eaten by hand from a communal platter.
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Hanith is Yemen's most luxurious lamb celebration dish, particularly associated 
 - 4 whole cardamom pods
 - 1 cinnamon stick
 
-### Mandi rice (the canonical Yemeni accompaniment)
+### Mandi rice (the traditional Yemeni accompaniment)
 - 500 g basmati rice (rinsed 2-3 times)
 - 50 g butter (or ghee)
 - 1 large onion (finely chopped)

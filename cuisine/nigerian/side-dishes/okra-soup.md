@@ -2,7 +2,7 @@
 
 ![Okra Soup](resources/okra-soup.jpg)
 
-*Nigeria's glossy, draw-thick soup: chopped okra briefly simmered with palm oil, smoked fish, beef, crayfish and Scotch bonnet. Eaten with fufu by the fingers.*
+*Nigeria's glossy, draw-thick soup: chopped okra briefly simmered with palm oil, smoked fish, beef, crayfish and Scotch bonnet. Eat with fufu by the fingers.*
 
 **Serves:** 4
 

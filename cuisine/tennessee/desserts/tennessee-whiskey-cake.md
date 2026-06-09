@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Tennessee whiskey cake is the canonical Tennessee celebration cake, particularly associated with Jack Daniel's distillery in Lynchburg, Tennessee (where the distillery shop sells their own version): a rich brown sugar pound cake batter (butter + brown sugar + caster sugar creamed, eggs, vanilla, sour cream or buttermilk, flour + baking powder + salt) studded with toasted chopped pecans, baked in a bundt pan till deep golden brown. While the cake is still warm in the pan, a hot glaze of butter, sugar and Tennessee whiskey is poured over and around, soaking deeply into the cake to give a deeply moist, boozy, caramel-and-pecan crumb. Tastes better after 24 hours. The classic Southern celebration cake for birthdays, Christmas, Sunday dinners.
+Tennessee whiskey cake is the traditional Tennessee celebration cake, particularly associated with Jack Daniel's distillery in Lynchburg, Tennessee (where the distillery shop sells their own version): a rich brown sugar pound cake batter (butter + brown sugar + caster sugar creamed, eggs, vanilla, sour cream or buttermilk, flour + baking powder + salt) studded with toasted chopped pecans, baked in a bundt pan till deep golden brown. While the cake is still warm in the pan, a hot glaze of butter, sugar and Tennessee whiskey is poured over and around, soaking deeply into the cake to give a deeply moist, boozy, caramel-and-pecan crumb. Tastes better after 24 hours. The classic Southern celebration cake for birthdays, Christmas, Sunday dinners.
 
 ## Ingredients
 

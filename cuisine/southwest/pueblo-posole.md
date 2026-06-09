@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Posole (or "pozole") in the Pueblo-Southwest tradition is the canonical winter stew of New Mexican Pueblo peoples and a Christmas Eve / feast-day staple across the Southwest: hominy (large-kernel corn treated with lime; either dried-and-soaked-and-cooked, or canned for convenience) slow-simmered with cubed pork shoulder, sliced onion, crushed garlic, rehydrated dried red chillies (ancho, guajillo, New Mexico chile), bay leaves and Mexican oregano till the pork falls apart and the broth thickens slightly. Served in deep bowls with the canonical Southwest accompaniments: shredded cabbage, sliced radish, chopped onion, lime wedges, dried oregano and tortillas.
+Posole (or "pozole") in the Pueblo-Southwest tradition is the traditional winter stew of New Mexican Pueblo peoples and a Christmas Eve / feast-day staple across the Southwest: hominy (large-kernel corn treated with lime; either dried-and-soaked-and-cooked, or canned for convenience) slow-simmered with cubed pork shoulder, sliced onion, crushed garlic, rehydrated dried red chillies (ancho, guajillo, New Mexico chile), bay leaves and Mexican oregano till the pork falls apart and the broth thickens slightly. Served in deep bowls with the traditional Southwest accompaniments: shredded cabbage, sliced radish, chopped onion, lime wedges, dried oregano and tortillas.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Posole (or "pozole") in the Pueblo-Southwest tradition is the canonical winter s
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 
-### Garnishes (table-side; canonical)
+### Garnishes (table-side; traditional)
 - 200 g shredded green cabbage
 - 4-5 radishes (thinly sliced)
 - 1 small white onion (finely chopped)
@@ -69,9 +69,9 @@ Posole (or "pozole") in the Pueblo-Southwest tradition is the canonical winter s
 3. Diners customise their own bowls.
 
 ## Notes
-- **Hominy canonical:** the large-kernel corn.
+- **Hominy traditional:** the large-kernel corn.
 - **Dried chillies for proper colour.**
-- **Garnishes at the table:** the canonical Pueblo serving.
+- **Garnishes at the table:** the traditional Pueblo serving.
 
 ## Variations
 **White posole (posole blanco):** skip dried chillies; use chicken stock; gives a milder version.

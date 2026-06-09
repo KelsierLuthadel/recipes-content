@@ -85,7 +85,7 @@ Imqaret (singular "mqaret"; the name comes from the Arabic root for "diamond-sha
 **Mini imqaret:** smaller diamonds (3 cm) for canapé portions.
 
 ## Serving
-At a Maltese village festa (the canonical setting) · sold from street carts outside churches · at a Maltese coffee shop · at home as a sweet snack · with strong Maltese coffee.
+At a Maltese village festa (the traditional setting) · sold from street carts outside churches · at a Maltese coffee shop · at home as a sweet snack · with strong Maltese coffee.
 
 ## Storage
 - Best eaten warm; texture is best within 4 hours.

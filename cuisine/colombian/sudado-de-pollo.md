@@ -35,7 +35,7 @@ Sudado de pollo means "sweated chicken", slow-cooked in its own juices. Colombia
 - 1 tablespoon achiote/turmeric
 
 ### Vegetables (added partway through)
-- 3 medium potatoes (peeled and cubed; canonical Colombian variety is criolla potato, but any potato works)
+- 3 medium potatoes (peeled and cubed; traditional Colombian variety is criolla potato, but any potato works)
 - 300 g cassava/yuca (peeled and cubed)
 - 2 medium carrots (peeled and sliced into rounds)
 - 1 small bunch fresh coriander (chopped; reserve some for garnish)
@@ -109,7 +109,7 @@ Sudado de pollo means "sweated chicken", slow-cooked in its own juices. Colombia
 ## Notes
 - **Hogao for proper Colombian flavour:** without it, generic chicken stew.
 - **Sweat low and slow:** less liquid than a typical stew. The chicken juices do most of the cooking.
-- **Yuca + potato + carrot:** the three roots are canonical.
+- **Yuca + potato + carrot:** the three roots are traditional.
 - **Bone-in chicken for flavour:** bones release flavour into the broth.
 - **Don't lift the lid much:** the steam needs to do the cooking.
 

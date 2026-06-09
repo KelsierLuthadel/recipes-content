@@ -15,7 +15,7 @@ India is roughly the size of Europe and has comparable culinary diversity. The c
 5. **Maharashtrian** (Mumbai region) - spicier, peanut-and-coconut-influenced, sea-influenced on the coast.
 6. **Goan** (Konkan coast) - coconut + vinegar + fish + Portuguese fusion.
 
-Each is treated below with the defining ingredients, the canonical dishes, and the pantry. Get the regional signature right and the dish is right; mix the regions (a Goan vinegar-fish-curry with Punjabi cream) and you've made something that doesn't exist.
+Each is treated below with the defining ingredients, the traditional dishes, and the pantry. Get the regional signature right and the dish is right; mix the regions (a Goan vinegar-fish-curry with Punjabi cream) and you've made something that doesn't exist.
 
 ## 1. Punjabi (North)
 
@@ -24,7 +24,7 @@ Each is treated below with the defining ingredients, the canonical dishes, and t
 **Pantry:**
 - Wheat flour (atta).
 - Ghee, butter, cream.
-- Tomato + onion + ginger + garlic (the canonical North Indian base).
+- Tomato + onion + ginger + garlic (the traditional North Indian base).
 - Whole + ground spices: cumin, coriander, garam masala, cardamom (green + black), bay leaves, chillies.
 - Yogurt (for marinades + raitas).
 
@@ -47,7 +47,7 @@ Each is treated below with the defining ingredients, the canonical dishes, and t
 
 **Pantry:**
 - Rice (the staple; eaten more than wheat).
-- Mustard oil (the canonical Bengali fat - pungent, sharp).
+- Mustard oil (the traditional Bengali fat - pungent, sharp).
 - Panch phoron (the 5-spice: cumin, mustard, fenugreek, nigella, fennel).
 - Fish (Bengali is the fish-eating Indian cuisine - hilsa, rohu, catla, prawns, mackerel).
 - Posto (poppy seed paste).
@@ -74,7 +74,7 @@ Each is treated below with the defining ingredients, the canonical dishes, and t
 - Sambar dal (toor dal).
 - Coconut (oil + grated flesh + milk).
 - Tamarind (the souring agent).
-- Mustard seeds (the canonical opening spice).
+- Mustard seeds (the traditional opening spice).
 - Curry leaves.
 - Asafoetida.
 - Dried red chillies + fresh green chillies.
@@ -177,6 +177,6 @@ Each is treated below with the defining ingredients, the canonical dishes, and t
 
 ## How to use this knowledge
 
-Pick a region. Spend 2-3 cooking sessions making 3-4 of its canonical dishes. Notice the pantry - the ghee vs the mustard oil; the dried chillies vs the curry leaves; the tomato vs the tamarind. Once you can identify the regional signature in a dish, you can cook intentionally rather than from a single recipe.
+Pick a region. Spend 2-3 cooking sessions making 3-4 of its traditional dishes. Notice the pantry - the ghee vs the mustard oil; the dried chillies vs the curry leaves; the tomato vs the tamarind. Once you can identify the regional signature in a dish, you can cook intentionally rather than from a single recipe.
 
 The Indian cooking journey starts here, on these six regions. Master one before moving to the next.

@@ -2,7 +2,7 @@
 
 ![Legume](resources/legume.jpg)
 
-*Haiti's mixed-vegetable stew: cabbage, watercress, eggplant, chayote, carrot and spinach simmered together with epis (the green seasoning paste), Scotch bonnet and beef or crab till the vegetables collapse into a thick savoury stew. Eaten with rice on every Haitian Sunday table.*
+*Haiti's mixed-vegetable stew: cabbage, watercress, eggplant, chayote, carrot and spinach simmered together with epis (the green seasoning paste), Scotch bonnet and beef or crab till the vegetables collapse into a thick savoury stew. Eat with rice on every Haitian Sunday table.*
 
 **Serves:** 6
 

@@ -107,7 +107,7 @@ Poulet créole is Haiti's everyday creole chicken stew, a deeply flavoured tomat
 **Poulet créole sec (dry):** the more reduced version where the sauce cooks down to almost-glaze thickness; the chicken pieces are then crisped under a hot grill for 3-4 minutes for a charred finish. Restaurant presentation.
 **Poulet boukannen:** the grilled-then-braised version, where the chicken is first marinated, then grilled over charcoal till the skin chars, then finished in the tomato-pepper sauce for 20 minutes. More dramatic flavour from the smoke.
 **Diri ak poul (rice with chicken):** the one-pot version where rice is added to the pan after the chicken is browned, then the sauce ingredients on top; everything cooks together with the rice absorbing the chicken juices. A weeknight one-pot meal.
-**With cashews:** stir in 100 g of toasted cashews in the last 5 minutes; less authentic but lovely textural contrast. Connects to [poul ak nwa](poul-ak-nwa.md), the canonical Haitian chicken-with-nuts dish.
+**With cashews:** stir in 100 g of toasted cashews in the last 5 minutes; less authentic but lovely textural contrast. Connects to [poul ak nwa](poul-ak-nwa.md), the traditional Haitian chicken-with-nuts dish.
 
 ## Serving
 On a wide platter at the centre of the table with rice and beans and pikliz alongside. Sliced avocado around the edge is the modern Port-au-Prince refinement. Drink: cold Prestige lager, a glass of cremas, or fresh lime juice with sugar.

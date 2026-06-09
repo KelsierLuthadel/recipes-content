@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A fudgy brownie batter built on dark chocolate and butter, lightened with whisked eggs and sugar. The texture comes from chopping each of the three chocolates by hand - different sizes give different melts. Dark chocolate goes into the batter (melted); milk chocolate gets folded through in 1 cm chunks (which stay molten in the centre when warm, set into chewy nuggets when cool); white chocolate gets scattered on top (where it browns at the edges and stays gooey at the centre). Cooled fully before slicing.
+Triple chocolate brownies are the bake-sale showstopper, the American slab that takes the traditional fudgy brownie and loads it with three different chocolates so every bite reads at least two textures at once. You build a fudgy base on dark chocolate melted into butter, lightened with whisked eggs and sugar, then play with the other two chocolates to get the textural drama. Milk chocolate gets chopped into 1 cm chunks and folded through the batter, where it stays molten in the centre when warm and sets into chewy nuggets when cool. White chocolate goes on top scattered loosely, where it browns at the edges into caramel-flecked nubs and stays gooey in the centres. Hand-chopping all three rather than reaching for chips is the technique that matters; irregular chunks give irregular melts and you lose the textural contrast if everything is uniform. Bake until just-set with a tremble, cool fully in the tin before slicing. Eat with cold milk or hot coffee.
 
 ## Ingredients
 

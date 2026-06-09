@@ -64,7 +64,7 @@ Changua is Bogotá's most iconic breakfast and one of Colombia's most distinctiv
 
 ## Notes
 - **Don't boil the milk:** scald the milk and you get a sour off-flavour. Keep at low simmer.
-- **Equal parts milk and water:** the canonical Colombian ratio.
+- **Equal parts milk and water:** the traditional Colombian ratio.
 - **Slip in eggs gently:** crack into a cup first, then transfer to the broth, to keep them intact.
 - **Use stale bread:** fresh bread goes soggy too quickly. Day-old or 2-day-old is right.
 - **Eat immediately:** the egg keeps cooking in the hot broth; serve straight away.
@@ -73,7 +73,7 @@ Changua is Bogotá's most iconic breakfast and one of Colombia's most distinctiv
 **With cheese (changua con queso):** crumble 50 g of fresh white cheese (queso fresco, feta, or ricotta salata) into each bowl with the egg; gives extra protein and richness.
 **Spicy changua:** add a finely chopped fresh chilli to the broth in stage 2; gives a properly warming version.
 **With more vegetables:** add finely diced potato (cooked separately and added at the end); makes the dish more substantial.
-**Coconut milk version:** swap half the milk for coconut milk; gives a richer Caribbean-leaning version (less canonical Bogotano but works).
+**Coconut milk version:** swap half the milk for coconut milk; gives a richer Caribbean-leaning version (less traditional Bogotano but works).
 
 ## Serving
 In deep bowls with the egg in the centre, the broth ladled over the bread, butter melting on top, coriander scattered. As breakfast on a cold morning. Drink: cafe Colombiano (strong sweet Colombian coffee) or hot chocolate (Bogotá-style with cheese melted in - yes, cheese in hot chocolate is Colombian).

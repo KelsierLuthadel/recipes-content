@@ -2,7 +2,7 @@
 
 ![Salchipapas](resources/salchipapas.jpg)
 
-*Peru's plated hot dog: sliced fried hot dog sausages mixed with hand-cut French fries on a plate, drizzled with ketchup, mustard, mayonnaise, and the canonical Peruvian green-chilli sauce (ají verde). The Lima street-cart and university-canteen classic; no bun, just dog and fries together as one dish.*
+*Peru's plated hot dog: sliced fried hot dog sausages mixed with hand-cut French fries on a plate, drizzled with ketchup, mustard, mayonnaise, and the traditional Peruvian green-chilli sauce (ají verde). The Lima street-cart and university-canteen classic; no bun, just dog and fries together as one dish.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Salchipapas (literally "sausage potatoes" - a portmanteau of salchicha + papas) is Peru's defining hot-dog dish and a fixture of Lima street carts, working-class lunch counters and university canteens across the country. The construction has no bun at all: it's a plated dish where sliced hot dog sausages are pan-fried till crispy at the edges, then mixed directly with a heap of hand-cut Peruvian-style French fries (papas fritas - twice-fried for the canonical crisp), and the whole plate is drizzled with three sauces: ketchup, mustard, mayonnaise, and the canonical Peruvian green sauce ají verde (a creamy aji amarillo and aji escabeche chilli sauce blended with mayonnaise, cilantro, lime and queso fresco). Eaten with a fork. Salchipapas is a complete handheld-by-fork meal - sausage + carb + sauce on one plate.
+Salchipapas (literally "sausage potatoes" - a portmanteau of salchicha + papas) is Peru's defining hot-dog dish and a fixture of Lima street carts, working-class lunch counters and university canteens across the country. The construction has no bun at all: it's a plated dish where sliced hot dog sausages are pan-fried till crispy at the edges, then mixed directly with a heap of hand-cut Peruvian-style French fries (papas fritas - twice-fried for the traditional crisp), and the whole plate is drizzled with three sauces: ketchup, mustard, mayonnaise, and the traditional Peruvian green sauce ají verde (a creamy aji amarillo and aji escabeche chilli sauce blended with mayonnaise, cilantro, lime and queso fresco). Eat with a fork. Salchipapas is a complete handheld-by-fork meal - sausage + carb + sauce on one plate.
 
 ## Ingredients
 
@@ -89,7 +89,7 @@ Salchipapas (literally "sausage potatoes" - a portmanteau of salchicha + papas) 
 
 ## Notes
 - **No bun:** plated dish, eaten with fork.
-- **Twice-fried fries:** the canonical Peruvian fry technique; blanching at 150°C then crisping at 180°C.
+- **Twice-fried fries:** the traditional Peruvian fry technique; blanching at 150°C then crisping at 180°C.
 - **Sliced (not whole) hot dogs:** the eating geometry.
 - **Ají verde:** essential - the Peruvian signature sauce. Without it, the dish is generic.
 

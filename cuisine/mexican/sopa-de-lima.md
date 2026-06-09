@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, particularly associated with Mérida and the wider Mayan-Mexican coastal region. A clear but deeply flavoured chicken broth seasoned with achiote (annatto for the proper orange-yellow Yucatecan colour), Mexican oregano, garlic, onion, tomato, and the canonical Yucatecan lima agria. The lima agria is a sour orange-lime hybrid; outside Mexico, the workable substitute is regular lime juice plus a splash of orange juice and some lime zest. Shredded poached chicken goes into the broth; toasted-and-fried corn tortilla strips (totopos) scatter on top at the table for the essential crunch (without them the soup is incomplete). Finished with thin slices of fresh lime, finely chopped fresh habanero or jalapeño, fresh coriander and avocado. Achiote is used heavily across Yucatán cooking and is what gives the broth its proper orange-yellow tint, so don't skip it.
+Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, particularly associated with Mérida and the wider Mayan-Mexican coastal region. A clear but deeply flavoured chicken broth seasoned with achiote (annatto for the proper orange-yellow Yucatecan colour), Mexican oregano, garlic, onion, tomato, and the traditional Yucatecan lima agria. The lima agria is a sour orange-lime hybrid; outside Mexico, the workable substitute is regular lime juice plus a splash of orange juice and some lime zest. Shredded poached chicken goes into the broth; toasted-and-fried corn tortilla strips (totopos) scatter on top at the table for the essential crunch (without them the soup is incomplete). Finished with thin slices of fresh lime, finely chopped fresh habanero or jalapeño, fresh coriander and avocado. Achiote is used heavily across Yucatán cooking and is what gives the broth its proper orange-yellow tint, so don't skip it.
 
 ## Ingredients
 
@@ -30,7 +30,7 @@ Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, par
 - 2 teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 
-### Lime addition (the canonical Yucatecan touch)
+### Lime addition (the traditional Yucatecan touch)
 - Juice of 4 Yucatecan limas agrias (sour limes); OR juice of 4 regular limes + juice of 1 sour orange + zest of 2 limes
 
 ### Tortilla strips (totopos)
@@ -91,7 +91,7 @@ Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, par
 9. Provide warm corn tortillas, hot sauce and extra lime wedges on the side.
 
 ## Notes
-- **Sour lime (lima agria) is canonical:** outside Mexico, substitute with regular lime + sour orange.
+- **Sour lime (lima agria) is traditional:** outside Mexico, substitute with regular lime + sour orange.
 - **Achiote for the proper colour:** gives the Yucatecan orange-yellow.
 - **Add tortilla strips at the table:** they go soggy in the broth; keep crispy.
 - **Stir in lime juice at the end:** preserves the brightness.
@@ -104,7 +104,7 @@ Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, par
 **Spicier:** double the habanero; add 2 chiles de árbol to the broth; properly Yucatecan fierce.
 
 ## Serving
-In deep bowls with all the canonical garnishes. Drink: cold Mexican beer (Pacifico, Sol), Yucatecan agua de chaya (chaya leaf drink), or fresh agua de horchata. As a light Yucatán-Mexican lunch.
+In deep bowls with all the traditional garnishes. Drink: cold Mexican beer (Pacifico, Sol), Yucatecan agua de chaya (chaya leaf drink), or fresh agua de horchata. As a light Yucatán-Mexican lunch.
 
 ## Storage
 - Best eaten the day made.

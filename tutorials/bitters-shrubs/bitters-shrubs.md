@@ -12,7 +12,7 @@ Bitters and shrubs are different things with similar roles: both are concentrate
 
 **What they are:** infusions of bitter herbs / spices / roots in high-proof alcohol (usually a high-grade vodka or grain-neutral spirit). Concentrated and used in dashes (a "dash" = about 1 ml; a 30 ml bottle of bitters lasts a serious cocktail drinker months).
 
-**Origin:** medicinal tonics from the 17th-18th centuries. Sailors carried them as digestive aids; the Italians and the Brits both developed strong bitters traditions. Angostura (Trinidad, since 1824), Peychaud's (New Orleans, 1840s), and Fee Brothers (USA, 1860s) are the canonical commercial brands.
+**Origin:** medicinal tonics from the 17th-18th centuries. Sailors carried them as digestive aids; the Italians and the Brits both developed strong bitters traditions. Angostura (Trinidad, since 1824), Peychaud's (New Orleans, 1840s), and Fee Brothers (USA, 1860s) are the traditional commercial brands.
 
 **Uses:**
 - 2-3 dashes in an Old Fashioned (the iconic use).
@@ -40,7 +40,7 @@ Bitters and shrubs are different things with similar roles: both are concentrate
 
 This course covers:
 
-1. **[Aromatic bitters](aromatic-bitters.md)** — the canonical Angostura-style bitter. A recipe and the technique.
+1. **[Aromatic bitters](aromatic-bitters.md)** — the traditional Angostura-style bitter. A recipe and the technique.
 2. **[Citrus bitters](citrus-bitters.md)** — orange bitters + lemon bitters + grapefruit bitters. Each in detail.
 3. **[Shrubs](shrubs.md)** — the cold-process method and the hot-process method. With 5 recipes.
 4. **[Using bitters and shrubs](using-bitters-and-shrubs.md)** — practical applications in cocktails, soft drinks, and cooking.
@@ -64,7 +64,7 @@ This course covers:
 ### Shrubs
 - Fresh fruit (in season is best).
 - Granulated white sugar OR demerara sugar (for richer shrubs).
-- Apple cider vinegar (the canonical), or rice vinegar (Asian-leaning), or white wine vinegar (cleaner taste).
+- Apple cider vinegar (the traditional), or rice vinegar (Asian-leaning), or white wine vinegar (cleaner taste).
 - Mason jars for steeping.
 - Bottles for finished shrubs.
 

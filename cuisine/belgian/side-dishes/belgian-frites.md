@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (split over two fries)
 
 ## Overview
-The Belgian frite is the country's most famous food contribution after chocolate, and the rules around making one are non-negotiable. The cut is sturdier than a French fry: about 1 cm square and 6 to 10 cm long, never a shoestring and never a chunky steak chip. The double-fry technique is the defining characteristic; a gentle blanch in moderate oil softens the inside without colouring, a fifteen-minute rest lets steam escape and the surface starch dry to a film, and a final fry in hotter oil crisps the outside to deep gold. The rest between fries is critical and skipping it gives pale, soggy frites. The fat is rundvet (beef tallow) in any proper Belgian frituur; the savoury depth is something no vegetable oil matches. The canonical potato is the Bintje, with Maris Piper, King Edward or Russet as good substitutes; never waxy varieties because they go limp under the second fry. Served in a paper cone with mayonnaise.
+The Belgian frite is the country's most famous food contribution after chocolate, and the rules around making one are non-negotiable. The cut is sturdier than a French fry: about 1 cm square and 6 to 10 cm long, never a shoestring and never a chunky steak chip. The double-fry technique is the defining characteristic; a gentle blanch in moderate oil softens the inside without colouring, a fifteen-minute rest lets steam escape and the surface starch dry to a film, and a final fry in hotter oil crisps the outside to deep gold. The rest between fries is critical and skipping it gives pale, soggy frites. The fat is rundvet (beef tallow) in any proper Belgian frituur; the savoury depth is something no vegetable oil matches. The traditional potato is the Bintje, with Maris Piper, King Edward or Russet as good substitutes; never waxy varieties because they go limp under the second fry. Served in a paper cone with mayonnaise.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ The Belgian frite is the country's most famous food contribution after chocolate
 - 1.5 kg floury potatoes (Bintje, Maris Piper, King Edward or Russet)
 
 ### The frying fat
-- 1.5 kg rendered beef tallow (rundvet) - the canonical fat
+- 1.5 kg rendered beef tallow (rundvet) - the traditional fat
 - OR 2 litres refined sunflower or groundnut oil
 - (Either way you need enough to fill a deep frying pot to 7-8 cm depth)
 
@@ -79,10 +79,10 @@ The Belgian frite is the country's most famous food contribution after chocolate
 
 ## Notes
 - **Beef tallow makes the difference:** if you can render or buy beef tallow, do it. The flavour is unmistakable - a savoury, meaty depth that vegetable oil can't match.
-- **Bintje is canonical:** if you can find them (some specialist greengrocers stock the Dutch variety), use them. Maris Piper, King Edward, Russet all substitute well.
+- **Bintje is traditional:** if you can find them (some specialist greengrocers stock the Dutch variety), use them. Maris Piper, King Edward, Russet all substitute well.
 - **The rest between fries is non-negotiable:** without it, you have a soft fry, not a crisp one. Restaurants do this hours ahead; home cooks should do at least 15 minutes.
 - **Salt immediately:** the salt only sticks while the frites are hot and slightly oily. Cold frites with later-added salt taste under-seasoned.
-- **Mayonnaise is the canonical dip:** Belgian mayo is slightly sweeter and tarter than American. Hellmann's works; the Belgian-specific brand Pelias is the gold standard if you can find it.
+- **Mayonnaise is the traditional dip:** Belgian mayo is slightly sweeter and tarter than American. Hellmann's works; the Belgian-specific brand Pelias is the gold standard if you can find it.
 - **Never share a frituur:** Belgian frites must be eaten by one person from one cone. A shared frite gets cold and limp; a personal cone stays hot to the bottom.
 
 ## Variations
@@ -96,7 +96,7 @@ The Belgian frite is the country's most famous food contribution after chocolate
 **Crisper frites with a starch coating:** before the second fry, dust the rested frites lightly with rice flour - extra crisp.
 
 ## Serving
-At a Belgian frituur (the canonical setting; every Belgian town has at least one) · at a Brussels café alongside moules-frites · at a Belgian football match · at a Bruges-canal frituur on a cold evening · at home as the Friday-night snack with a Trappist beer · at a Belgian Sunday brunch alongside steak-frites · paired with sausages, mussels, vol-au-vent or carbonnade flamande.
+At a Belgian frituur (the traditional setting; every Belgian town has at least one) · at a Brussels café alongside moules-frites · at a Belgian football match · at a Bruges-canal frituur on a cold evening · at home as the Friday-night snack with a Trappist beer · at a Belgian Sunday brunch alongside steak-frites · paired with sausages, mussels, vol-au-vent or carbonnade flamande.
 
 ## Storage
 - Frites do not store well. They lose their crisp within 30 minutes.

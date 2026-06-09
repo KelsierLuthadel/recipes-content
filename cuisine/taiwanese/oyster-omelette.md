@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Oyster omelette (ô-á-tsian in Taiwanese Hokkien, é-zi-jian in Mandarin) is one of Taiwan's most iconic night-market dishes: a slightly gelatinous, stretchy pancake made from a slurry of sweet potato starch, eggs and water, with plump fresh oysters scattered through and chopped chrysanthemum greens folded in, fried in plenty of oil till the bottom crisps and the top stays soft and slightly translucent, then topped with the canonical sweet-savoury orange sauce of soy, sugar, ketchup, chilli and sesame oil. The texture is what makes this dish distinctive: chewy and slightly bouncy where the starch dominates, tender and eggy where the eggs dominate, with the soft brine of fresh oysters running through. Not a French omelette, not a Chinese fried egg; its own thing. Sweet potato starch is non-negotiable. Fresh oysters are best; pre-packaged ones lack the proper brininess. The orange sauce is canonical; without it the dish is incomplete.
+Oyster omelette (ô-á-tsian in Taiwanese Hokkien, é-zi-jian in Mandarin) is one of Taiwan's most iconic night-market dishes: a slightly gelatinous, stretchy pancake made from a slurry of sweet potato starch, eggs and water, with plump fresh oysters scattered through and chopped chrysanthemum greens folded in, fried in plenty of oil till the bottom crisps and the top stays soft and slightly translucent, then topped with the traditional sweet-savoury orange sauce of soy, sugar, ketchup, chilli and sesame oil. The texture is what makes this dish distinctive: chewy and slightly bouncy where the starch dominates, tender and eggy where the eggs dominate, with the soft brine of fresh oysters running through. Not a French omelette, not a Chinese fried egg; its own thing. Sweet potato starch is non-negotiable. Fresh oysters are best; pre-packaged ones lack the proper brininess. The orange sauce is traditional; without it the dish is incomplete.
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Oyster omelette (ô-á-tsian in Taiwanese Hokkien, é-zi-jian in Mandarin) is on
 - A small pinch of fine sea salt
 - A pinch of ground white pepper
 
-### Sauce (the canonical orange topping)
+### Sauce (the traditional orange topping)
 - 3 tablespoons tomato ketchup
 - 2 tablespoons light soy sauce
 - 1 tablespoon dark soy sauce
@@ -94,7 +94,7 @@ Oyster omelette (ô-á-tsian in Taiwanese Hokkien, é-zi-jian in Mandarin) is on
 ## Notes
 - **Sweet potato starch is non-negotiable:** the distinctive chewy-bouncy texture comes from sweet potato starch specifically. Cornstarch gives a softer less-stretchy result; tapioca starch gives a more rubbery result; potato starch is closest but still different. Buy sweet potato starch from any Asian market.
 - **Fresh oysters are best:** freshly shucked or in-shell oysters give the proper sweet briny flavour. Pre-packaged supermarket oyster tubs work but tend to be less briny. Pre-cooked smoked oysters don't work at all.
-- **Chrysanthemum greens are canonical:** tong ho (chrysanthemum greens) have a slightly bitter herby note that balances the rich pancake. Available at Asian markets; substitute with baby spinach if not.
+- **Chrysanthemum greens are traditional:** tong ho (chrysanthemum greens) have a slightly bitter herby note that balances the rich pancake. Available at Asian markets; substitute with baby spinach if not.
 - **Don't whisk the eggs too much:** lightly beaten eggs give a more textured streaky pancake; over-whisked eggs go to uniform yellow and lose the visual character.
 - **The sauce makes the dish:** unsauced oyster omelette is bland; the sweet-savoury chilli orange sauce is what makes it Taiwanese street food.
 

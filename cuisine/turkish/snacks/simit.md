@@ -85,10 +85,10 @@ Simit is Istanbul's signature street bread and one of the most iconic foods of T
 3. Or wrap in paper for breakfast on the go.
 
 ## Notes
-- **Molasses dip gives the mahogany colour:** the canonical Turkish technique uses grape molasses (pekmez) thinned with water. Pomegranate molasses works as substitute; treacle-and-water as a last resort. Skipping the dip gives pale unappetising simit.
+- **Molasses dip gives the mahogany colour:** the traditional Turkish technique uses grape molasses (pekmez) thinned with water. Pomegranate molasses works as substitute; treacle-and-water as a last resort. Skipping the dip gives pale unappetising simit.
 - **Toast the sesame first:** raw sesame doesn't bloom properly in the oven; pre-toasting gives the nutty depth that makes simit distinctive.
 - **Press the seeds firmly:** simit should have a thick layer of sesame covering everything. Skimpy coating gives a bald-patches simit which isn't right.
-- **The twist is canonical:** two ropes twisted together give the distinctive visual texture. You can skip the twist and form from a single rope (simpler), but the result is less iconic.
+- **The twist is traditional:** two ropes twisted together give the distinctive visual texture. You can skip the twist and form from a single rope (simpler), but the result is less iconic.
 - **Don't underbake:** simit needs to be properly deep-brown for the right flavour and the proper crispy outside.
 
 ## Variations

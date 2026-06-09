@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of pollo guisado, and a similarly central staple of Boricua home cooking. Cubes of beef chuck brown and then slow-cook with sofrito, sazón, tomato sauce, olives, capers, bay leaves, cubed potatoes and chunky carrots in a heavy pot for two hours, until the beef is tender, the vegetables have soaked up the sauce, and the whole pot has reduced into a rich orange-red gravy. Chuck is the right cut here: the connective tissue dissolves over the long cook to give the proper unctuous sauce, while lean cuts go tough and dry. Sofrito and sazón together are what mark the dish as Boricua rather than generic beef stew; both are essential. The slow cook is the other non-negotiable, ninety minutes minimum, two hours better. Eaten ladled generously over white rice with habichuelas guisadas, sliced avocado and tostones on the side.
+Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of pollo guisado, and a similarly central staple of Boricua home cooking. Cubes of beef chuck brown and then slow-cook with sofrito, sazón, tomato sauce, olives, capers, bay leaves, cubed potatoes and chunky carrots in a heavy pot for two hours, until the beef is tender, the vegetables have soaked up the sauce, and the whole pot has reduced into a rich orange-red gravy. Chuck is the right cut here: the connective tissue dissolves over the long cook to give the proper unctuous sauce, while lean cuts go tough and dry. Sofrito and sazón together are what mark the dish as Boricua rather than generic beef stew; both are essential. The slow cook is the other non-negotiable, ninety minutes minimum, two hours better. Eat ladled generously over white rice with habichuelas guisadas, sliced avocado and tostones on the side.
 
 ## Ingredients
 
@@ -113,7 +113,7 @@ Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of
 
 ## Variations
 **With chickpeas (carne con garbanzos):** add 1 tin of drained chickpeas in the last 30 minutes; gives a more substantial one-pot.
-**With wine:** swap 200 ml of stock for red wine; less canonical but adds depth.
+**With wine:** swap 200 ml of stock for red wine; less traditional but adds depth.
 **Spicier:** double the Aleppo pepper and add 1 habanero (whole, removed before serving); properly Caribbean fierce.
 **With chayote (christophine):** add 2 chayote squash (cubed) along with the carrots; common PR variation when in season.
 

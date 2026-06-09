@@ -81,7 +81,7 @@ Practice. By the 4th or 5th roti, the puff should happen reliably.
 
 ## After cooking
 
-- Smear with a touch of melted ghee (the canonical Indian finish).
+- Smear with a touch of melted ghee (the traditional Indian finish).
 - Stack on a plate, covered with a clean tea towel or a tortilla warmer to keep warm and pliable.
 - Eat warm.
 

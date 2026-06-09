@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Dirty fries (dirty chips in UK chip-shop vernacular) is the British pub-classic loaded chip dish and a staple of every modern gastropub and chip-shop munchies menu: hand-cut thick chips twice-fried for crispness, piled on a board or in a deep dish, smothered with melted cheese (mature cheddar and mozzarella, sometimes Stilton), topped with crumbled crispy bacon, pickled jalapeños, sour cream, spring onions, a generous drizzle of warm BBQ sauce or gravy, finished with chopped chives or coriander. Became popular in British gastropubs in the 2010s as part of the munchies-board boom; now a fixture of every craft-beer pub, every late-night kebab shop and every football-matchday pub spread. The "dirty" in the name refers to the indulgently loaded toppings rather than any specific recipe; some pubs add chilli con carne, pulled pork or cheese-and-gravy poutine-style. The chips must be twice-fried (thick-cut, soaked first, fried low-and-slow to cook through, then hot-and-fast to crisp). Cheese is the canonical base layer; bacon, jalapeños, sour cream, spring onions and sauce are the minimum. More is more.
+Dirty fries (dirty chips in UK chip-shop vernacular) is the British pub-classic loaded chip dish and a staple of every modern gastropub and chip-shop munchies menu: hand-cut thick chips twice-fried for crispness, piled on a board or in a deep dish, smothered with melted cheese (mature cheddar and mozzarella, sometimes Stilton), topped with crumbled crispy bacon, pickled jalapeños, sour cream, spring onions, a generous drizzle of warm BBQ sauce or gravy, finished with chopped chives or coriander. Became popular in British gastropubs in the 2010s as part of the munchies-board boom; now a fixture of every craft-beer pub, every late-night kebab shop and every football-matchday pub spread. The "dirty" in the name refers to the indulgently loaded toppings rather than any specific recipe; some pubs add chilli con carne, pulled pork or cheese-and-gravy poutine-style. The chips must be twice-fried (thick-cut, soaked first, fried low-and-slow to cook through, then hot-and-fast to crisp). Cheese is the traditional base layer; bacon, jalapeños, sour cream, spring onions and sauce are the minimum. More is more.
 
 ## Ingredients
 
@@ -81,10 +81,10 @@ Dirty fries (dirty chips in UK chip-shop vernacular) is the British pub-classic 
 
 ## Notes
 - **Twice-fried chips:** essential British technique.
-- **Plenty of cheese:** the canonical base.
+- **Plenty of cheese:** the traditional base.
 - **Multiple toppings:** "dirty" means loaded; don't skimp.
 - **Serve immediately:** the chips lose crispness fast under hot toppings.
-- **Beef dripping for the proper chippy flavour:** lard or beef dripping gives the canonical British chip-shop taste; vegetable oil is the easy substitute.
+- **Beef dripping for the proper chippy flavour:** lard or beef dripping gives the traditional British chip-shop taste; vegetable oil is the easy substitute.
 
 ## Variations
 **Cheese-and-gravy dirty fries (poutine-style):** swap the BBQ sauce for hot brown gravy; reduce other toppings; closer to Canadian poutine.

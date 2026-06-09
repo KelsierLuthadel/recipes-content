@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Cou-cou and flying fish is Barbados's most identity-defining dish, the country's national plate. The cou-cou is yellow cornmeal cooked with finely sliced okra in salted water, stirred with a flat wooden paddle (a "cou-cou stick") till it becomes a thick glossy almost-elastic mound. The texture sits between Italian polenta and West African fufu; the okra is what makes it cou-cou rather than polenta, giving the mush its distinctive stretchy character. The flying fish are small Caribbean fish with wing-like pectoral fins that migrate past Barbados in dense schools from November to June; outside the island, sardines or mackerel fillets substitute. The fillets steam gently on top of a fragrant gravy of onion, sweet pepper, Scotch bonnet, tomato and Bajan green seasoning. Plated with the cou-cou mounded in the centre, the fish fillets fanned on top, gravy ladled over and around. The dish is so woven into Bajan life that "cou-cou Friday" is canonical family-dinner day, and the flying fish appears on the national coat of arms.
+Cou-cou and flying fish is Barbados's most identity-defining dish, the country's national plate. The cou-cou is yellow cornmeal cooked with finely sliced okra in salted water, stirred with a flat wooden paddle (a "cou-cou stick") till it becomes a thick glossy almost-elastic mound. The texture sits between Italian polenta and West African fufu; the okra is what makes it cou-cou rather than polenta, giving the mush its distinctive stretchy character. The flying fish are small Caribbean fish with wing-like pectoral fins that migrate past Barbados in dense schools from November to June; outside the island, sardines or mackerel fillets substitute. The fillets steam gently on top of a fragrant gravy of onion, sweet pepper, Scotch bonnet, tomato and Bajan green seasoning. Plated with the cou-cou mounded in the centre, the fish fillets fanned on top, gravy ladled over and around. The dish is so woven into Bajan life that "cou-cou Friday" is traditional family-dinner day, and the flying fish appears on the national coat of arms.
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 - 60 g unsalted butter (added at the end)
 - A cou-cou stick / wooden paddle / sturdy wooden spoon
 
-### The flying fish (canonical) OR substitute
+### The flying fish (traditional) OR substitute
 - 4 large flying-fish fillets (about 100 g each) - sold at Bajan / Caribbean markets, frozen in some specialty shops
 - OR 8 small whole sardines, gutted (substitute)
 - OR 4 small mackerel fillets (substitute)
@@ -116,11 +116,11 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 - **Stir the cou-cou vigorously:** the constant stirring + folding motion is what gives the proper glossy elastic texture. A passive stir gives lumpy cou-cou.
 - **Okra is essential:** the mucilage from the okra is what makes cou-cou cou-cou. Without okra, you've made polenta.
 - **Don't overcook the fish:** 5-7 minutes is enough. Past 10 minutes the flying fish goes dry.
-- **Friday is canonical:** in Barbados, cou-cou and flying fish is the Friday family-dinner standard. Sundays are different (stew chicken or fried chicken); Saturdays are pudding-and-souse.
+- **Friday is traditional:** in Barbados, cou-cou and flying fish is the Friday family-dinner standard. Sundays are different (stew chicken or fried chicken); Saturdays are pudding-and-souse.
 - **Substitute for flying fish outside Barbados:** small whole sardines, small mackerel fillets, or any small firm-fleshed white fish. The seasoning makes it Bajan even if the fish is different.
 
 ## Variations
-**Cou-cou and saltfish:** swap the fresh flying fish for soaked-and-flaked salt cod - the alternative Bajan canonical.
+**Cou-cou and saltfish:** swap the fresh flying fish for soaked-and-flaked salt cod - the alternative Bajan traditional.
 **Cou-cou and stewed fish:** instead of steamed fish on the gravy, stewed fish in a richer gravy with okra chunks - the Sunday variant.
 **Coconut cou-cou:** swap 200 ml of the water for coconut milk - the upscale variant.
 **Vegetarian cou-cou:** just the cornmeal-and-okra mound; serve with the gravy alone, or with stewed pumpkin.
@@ -129,7 +129,7 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 **Bajan cou-cou with pickled fish:** instead of fresh flying fish, use pickled fish in a vinegar-and-pepper brine - the older traditional variant.
 
 ## Serving
-At a Bajan Friday-night family dinner (the canonical setting) · at a Bajan rum-shop on a Friday afternoon · at the Oistins Fish Fry (the famous Friday-night Bajan fish festival in Christ Church) · at a Bajan Independence Day (30 November) celebration · at any Bajan home for the canonical national-dish dinner · paired with a glass of cold Banks lager, mauby, or sorrel.
+At a Bajan Friday-night family dinner (the traditional setting) · at a Bajan rum-shop on a Friday afternoon · at the Oistins Fish Fry (the famous Friday-night Bajan fish festival in Christ Church) · at a Bajan Independence Day (30 November) celebration · at any Bajan home for the traditional national-dish dinner · paired with a glass of cold Banks lager, mauby, or sorrel.
 
 ## Storage
 - Cou-cou is best eaten fresh from the pot. Refrigerated cou-cou firms into a sliceable cake; pan-fry next-day slices in butter till crisp.
@@ -137,4 +137,4 @@ At a Bajan Friday-night family dinner (the canonical setting) · at a Bajan rum-
 - The Bajan green seasoning refrigerates 2 weeks; freezes 3 months.
 - The gravy refrigerates 4 days; reheats well.
 - The flying fish (raw) freezes 3 months; cooked fish refrigerates 2 days.
-- Leftover gravy on toast for breakfast is the canonical Bajan day-after.
+- Leftover gravy on toast for breakfast is the traditional Bajan day-after.

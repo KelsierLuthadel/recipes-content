@@ -37,7 +37,7 @@ The pasta water is critical here. The starch in the water emulsifies with the oi
 
 ### Long Thin Pasta + Tomato (No Chunks)
 
-Spaghetti is the canonical home of tomato sauce. Marinara, puttanesca, arrabbiata (if smooth), simple tomato.
+Spaghetti is the traditional home of tomato sauce. Marinara, puttanesca, arrabbiata (if smooth), simple tomato.
 
 - **Spaghetti marinara:** the everyday tomato pasta.
 - **Spaghetti puttanesca:** with anchovies, capers, olives, garlic, chilli. The bold version.

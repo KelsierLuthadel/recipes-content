@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Semmelknödel are Austria's bread dumplings, the soft pale spheres that turn up next to every gravy-rich dish from Vienna to the Tyrol: poached balls of stale white bread that's been diced, soaked with warm milk, onion, parsley and egg, then bound with just enough flour to hold their shape in simmering water. The canonical partner for [Schweinsbraten](../schweinsbraten.md), [Austrian Goulash](../austrian-goulash.md), Tafelspitz, and any braised-meat dish where you need something to soak up sauce. Properly stale bread is the trick: day-old fresh bread holds too much moisture and gives sticky claggy dumplings, while bread that's been sitting two or three days drinks the milk evenly and gives the right tender bite. Sliced through and served cut-face up so gravy can pool into the cross-section.
+Semmelknödel are Austria's bread dumplings, the soft pale spheres that turn up next to every gravy-rich dish from Vienna to the Tyrol: poached balls of stale white bread that's been diced, soaked with warm milk, onion, parsley and egg, then bound with just enough flour to hold their shape in simmering water. The traditional partner for [Schweinsbraten](../schweinsbraten.md), [Austrian Goulash](../austrian-goulash.md), Tafelspitz, and any braised-meat dish where you need something to soak up sauce. Properly stale bread is the trick: day-old fresh bread holds too much moisture and gives sticky claggy dumplings, while bread that's been sitting two or three days drinks the milk evenly and gives the right tender bite. Sliced through and served cut-face up so gravy can pool into the cross-section.
 
 ## Ingredients
 

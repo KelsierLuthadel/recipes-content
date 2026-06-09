@@ -2,7 +2,7 @@
 
 ![Batata Harra](resources/batata-harra.jpg)
 
-*Spicy Levantine potatoes: chunky potato cubes pan-fried until deep gold, tossed off-heat with garlic, fresh coriander, chilli flakes and lemon. Eaten as a mezze side or alongside grilled meats. Hot, garlicky, herbal - the classic Jordanian / Lebanese vegetable side that sits next to hummus on every mezze table.*
+*Spicy Levantine potatoes: chunky potato cubes pan-fried until deep gold, tossed off-heat with garlic, fresh coriander, chilli flakes and lemon. Eat as a mezze side or alongside grilled meats. Hot, garlicky, herbal - the classic Jordanian / Lebanese vegetable side that sits next to hummus on every mezze table.*
 
 **Serves:** 4 as a side
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The spicy Levantine potato side that sits next to hummus on every mezze table from Amman to Beirut: chunky potato cubes pan-fried till deeply golden, then tossed off-heat with garlic, fresh coriander, Aleppo pepper flakes and lemon. The potatoes need a brief par-boil to set the inside and a thorough dry on a tea towel before the oil hits; wet potatoes spatter and steam-cook instead of crisping. The garlic goes in last and gets just 60 seconds of pan time off the heat; any browner and it turns bitter and the whole dish goes off. Aleppo pepper rather than ordinary chilli flakes gives the proper warm fruity heat that defines Levantine cooking. Sumac dusted across the top at the finish lifts the dish from generic spicy potatoes into something distinctly Jordanian-Lebanese. Eaten hot alongside grilled meats or as part of a wider mezze spread.
+The spicy Levantine potato side that sits next to hummus on every mezze table from Amman to Beirut: chunky potato cubes pan-fried till deeply golden, then tossed off-heat with garlic, fresh coriander, Aleppo pepper flakes and lemon. The potatoes need a brief par-boil to set the inside and a thorough dry on a tea towel before the oil hits; wet potatoes spatter and steam-cook instead of crisping. The garlic goes in last and gets just 60 seconds of pan time off the heat; any browner and it turns bitter and the whole dish goes off. Aleppo pepper rather than ordinary chilli flakes gives the proper warm fruity heat that defines Levantine cooking. Sumac dusted across the top at the finish lifts the dish from generic spicy potatoes into something distinctly Jordanian-Lebanese. Eat hot alongside grilled meats or as part of a wider mezze spread.
 
 ## Ingredients
 

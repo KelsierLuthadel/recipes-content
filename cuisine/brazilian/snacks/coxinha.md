@@ -2,7 +2,7 @@
 
 ![Coxinha](resources/coxinha.jpg)
 
-*Brazil's most beloved street-food snack: tear-drop-shaped balls of soft wheat-flour dough wrapped around a shredded chicken filling enriched with cream cheese (Catupiry), breaded, and deep-fried till deeply golden. The canonical Brazilian "snack" - sold from every street-corner padaria (bakery), every bus-station kiosk, every Brazilian bar, every childhood birthday party.*
+*Brazil's most beloved street-food snack: tear-drop-shaped balls of soft wheat-flour dough wrapped around a shredded chicken filling enriched with cream cheese (Catupiry), breaded, and deep-fried till deeply golden. The traditional Brazilian "snack" - sold from every street-corner padaria (bakery), every bus-station kiosk, every Brazilian bar, every childhood birthday party.*
 
 **Serves:** Makes 24-30 coxinhas
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes deep frying
 
 ## Overview
-Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-meat) is Brazil's most universally beloved street-food snack. Walk into any padaria (bakery-café) at any time of day and you will see a glass case full of golden tear-drop-shaped fried balls. They turn up at every bus-station kiosk, every Brazilian bar with cold beer, every children's birthday party alongside brigadeiros and pão de queijo, every Brazilian buffet, eaten at all hours from breakfast to midnight. The construction is intricate but learnable: a thick batter dough (massa de coxinha) is made by simmering chicken stock with flour, butter and salt till it forms a stiff but pliable dough; cooled, flattened in the palm, wrapped around a spoonful of shredded chicken bound with cream cheese (Catupiry is the canonical brand), pinched into the tear-drop with a pointed top, breaded and deep-fried till deeply golden.
+Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-meat) is Brazil's most universally beloved street-food snack. Walk into any padaria (bakery-café) at any time of day and you will see a glass case full of golden tear-drop-shaped fried balls. They turn up at every bus-station kiosk, every Brazilian bar with cold beer, every children's birthday party alongside brigadeiros and pão de queijo, every Brazilian buffet, eaten at all hours from breakfast to midnight. The construction is intricate but learnable: a thick batter dough (massa de coxinha) is made by simmering chicken stock with flour, butter and salt till it forms a stiff but pliable dough; cooled, flattened in the palm, wrapped around a spoonful of shredded chicken bound with cream cheese (Catupiry is the traditional brand), pinched into the tear-drop with a pointed top, breaded and deep-fried till deeply golden.
 
 ## Ingredients
 
@@ -47,7 +47,7 @@ Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-m
 
 ### To serve
 - Hot sauce (Brazilian molho de pimenta)
-- A cold beer (the canonical Brazilian coxinha companion)
+- A cold beer (the traditional Brazilian coxinha companion)
 - A wedge of lime
 
 ## Method
@@ -118,8 +118,8 @@ Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-m
 ## Notes
 - **Stock-based dough is essential:** water-based dough is bland. The chicken stock infuses the dough with flavour.
 - **Catupiry or good cream cheese:** the creamy filling element that distinguishes Brazilian coxinha.
-- **Tear-drop shape with pointed top:** the canonical Brazilian shape. Round balls aren't coxinhas.
-- **Don't overload the filling:** a moderate filling is canonical. Overfilled coxinhas split during frying.
+- **Tear-drop shape with pointed top:** the traditional Brazilian shape. Round balls aren't coxinhas.
+- **Don't overload the filling:** a moderate filling is traditional. Overfilled coxinhas split during frying.
 - **170°C is the right oil temperature:** higher and the outside burns before the inside heats; lower and the breading absorbs too much oil.
 
 ## Variations
@@ -133,7 +133,7 @@ Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-m
 **Spicy coxinha:** add 1-2 finely chopped jalapeños to the chicken filling.
 
 ## Serving
-At every Brazilian padaria (bakery-café) at any time of day (the canonical setting) · at every Brazilian children's birthday party · at every Brazilian bar with a cold beer · at every Brazilian bus station kiosk · at a Brazilian wedding canapé reception · at a Brazilian family Sunday lunch as a starter · at a Brazilian football match (the match-day food) · at home for a weekend afternoon treat.
+At every Brazilian padaria (bakery-café) at any time of day (the traditional setting) · at every Brazilian children's birthday party · at every Brazilian bar with a cold beer · at every Brazilian bus station kiosk · at a Brazilian wedding canapé reception · at a Brazilian family Sunday lunch as a starter · at a Brazilian football match (the match-day food) · at home for a weekend afternoon treat.
 
 ## Storage
 - Cooked coxinhas refrigerate 3 days; reheat in a 180°C oven for 10 minutes (don't microwave; crispy crust goes soft).

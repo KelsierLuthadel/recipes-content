@@ -11,7 +11,7 @@
 **Cook Time:** None (sandwich assembly)
 
 ## Overview
-Khao jee is Laos's French-colonial sandwich tradition, descended from the same 19th and 20th-century French presence that gave Vietnam its bánh mì, sold from every Lao market stall in the morning. The bread is Lao baguette (khao jee literally means "bread" in Lao), smaller and thinner-crusted than the French original with a softer interior. Day-old is often better than fresh, since the slightly stale crust holds the sandwich together while fresh baguette can be too soft. The canonical Lao fillings are pâté (the French legacy ingredient), Lao-style cured pork or sai oua, pickled carrot and daikon (slightly less sweet than the Vietnamese version), fresh herbs (mint, cilantro, culantro), sliced cucumber and chilli. The dressing is what most distinguishes it from bánh mì: a drizzle of seasoned soy, a splash of padaek (Lao fermented fish) and a squeeze of lime, giving the Lao version a funkier finish than the Vietnamese Maggi-sauce profile.
+Khao jee is Laos's French-colonial sandwich tradition, descended from the same 19th and 20th-century French presence that gave Vietnam its bánh mì, sold from every Lao market stall in the morning. The bread is Lao baguette (khao jee literally means "bread" in Lao), smaller and thinner-crusted than the French original with a softer interior. Day-old is often better than fresh, since the slightly stale crust holds the sandwich together while fresh baguette can be too soft. The traditional Lao fillings are pâté (the French legacy ingredient), Lao-style cured pork or sai oua, pickled carrot and daikon (slightly less sweet than the Vietnamese version), fresh herbs (mint, cilantro, culantro), sliced cucumber and chilli. The dressing is what most distinguishes it from bánh mì: a drizzle of seasoned soy, a splash of padaek (Lao fermented fish) and a squeeze of lime, giving the Lao version a funkier finish than the Vietnamese Maggi-sauce profile.
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ Khao jee is Laos's French-colonial sandwich tradition, descended from the same 1
 - 4 tablespoons mayonnaise OR butter (the Lao home version often uses both)
 - 1 tablespoon prepared Dijon mustard
 
-### The filling (canonical Lao - pick one or combine)
+### The filling (traditional Lao - pick one or combine)
 - 4 thick slices of cooked Lao sai oua sausage (see [Sai Oua](../sai-oua.md))
 - OR 4 slices of cold roast pork
 - OR 4 slices of cooked Lao-style cured pork (mut moo)
@@ -48,7 +48,7 @@ Khao jee is Laos's French-colonial sandwich tradition, descended from the same 1
 - 4 fresh red chillies, sliced into rings
 - 4 spring onions, sliced lengthways
 
-### The dressing (the canonical Lao signature)
+### The dressing (the traditional Lao signature)
 - 3 tablespoons soy sauce
 - 1 tablespoon padaek (Lao fermented fish sauce; or fish sauce as substitute)
 - 1 tablespoon fresh lime juice
@@ -93,18 +93,18 @@ Khao jee is Laos's French-colonial sandwich tradition, descended from the same 1
 ## Notes
 - **Day-old bread:** the slightly stale crust holds the sandwich. Fresh baguette can be too soft.
 - **Padaek dressing is the Lao signature:** distinguishes from Vietnamese bánh mì.
-- **Generous herbs:** the canonical Lao sandwich is herb-heavy - don't skimp on cilantro, mint or culantro.
+- **Generous herbs:** the traditional Lao sandwich is herb-heavy - don't skimp on cilantro, mint or culantro.
 - **Eat fresh:** the sandwich loses character after 15 minutes - the vegetables release water, the bread softens.
 
 ## Variations
-**Khao jee with laap:** spoon a few generous tablespoons of laap into the bread instead of cold meat - the canonical alternative.
+**Khao jee with laap:** spoon a few generous tablespoons of laap into the bread instead of cold meat - the traditional alternative.
 **Vegetarian khao jee:** swap meat for grilled tofu or marinated mushrooms; same herbs and dressing.
-**Khao jee with sai oua and pâté:** the canonical Luang Prabang street-cart version - both fillings.
+**Khao jee with sai oua and pâté:** the traditional Luang Prabang street-cart version - both fillings.
 **Spicier khao jee:** double the chillies and add a splash of Lao chilli sauce.
 **Modern fusion khao jee:** add an egg fried sunny-side-up over the filling - the modern Vientiane café variant.
 
 ## Serving
-At a Lao morning market stall (the canonical setting; sold from carts and small bakeries) · at a Lao breakfast counter · at a Lao bakery · at a Lao roadside stop · at home as a quick lunch · paired with a Lao iced coffee or a glass of iced lime juice.
+At a Lao morning market stall (the traditional setting; sold from carts and small bakeries) · at a Lao breakfast counter · at a Lao bakery · at a Lao roadside stop · at home as a quick lunch · paired with a Lao iced coffee or a glass of iced lime juice.
 
 ## Storage
 - Best eaten within 15 minutes of assembly.

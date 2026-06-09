@@ -11,7 +11,7 @@
 **Serves:** 8 - 12
 
 ## Overview
-This richly flavoured stuffing combines pork sausage meat with sweet dried apricots, crunchy pistachios, and aromatic herbs, with nuggets of pan-fried chorizo tucked into each stuffing ball for a smoky surprise. It is designed to complement roasted game birds such as chicken, poussin, or turkey, providing both a cavity stuffing and individual balls for serving alongside. The combination of textures and sweet-savoury flavours makes it a standout element of a roast dinner.
+This is the Christmas-table stuffing for a dinner that wants to read a little richer than the supermarket sage-and-onion default: pork sausage meat shot through with sweet dried apricots, crunchy pistachios and a generous handful of sage, with nuggets of pan-fried chorizo tucked into each ball for a smoky surprise mid-bite. The apricot is the sweet that cuts the pork richness, the pistachios give the textural crunch and the green flecks across the plate, and the chorizo is the dinner-party detail that lifts the dish above an ordinary stuffing ball. The mix works two ways: pressed into the cavity of a roasting chicken, poussin or turkey to flavour the bird from the inside, and rolled into individual balls for the tray alongside so each guest gets a crisp-edged serving. Both halves serve at the same time, and any leftover balls eat brilliantly cold the next day in a turkey sandwich.
 
 ## Ingredients
 - 50 grams butter

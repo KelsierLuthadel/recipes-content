@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes (rests 1 hour)
 
 ## Overview
-Acar timun is the Indonesian quick pickle: sweet-sour shreds of cucumber, carrot, shallot and chilli that cut through anything fatty or fried, the small side dish that lifts every Indonesian plate. The dish belongs to the wider Southeast Asian acar (or atjar, achar) tradition of short-rested vinegar pickles that came down through Indo-Portuguese trade routes and now turn up alongside nasi goreng, gado-gado, sate, and any rich main from the Indonesian kitchen. The vegetables get a brief salt to draw out moisture before the dressing goes on; without that step the pickle weeps water across the plate. The dressing wants white vinegar (not malt or cider), sugar, water and grated fresh ginger. Eaten cool from the bench, never refrigerated cold; the texture suffers when chilled. Served alongside anything rich, fried or grilled.
+Acar timun is the Indonesian quick pickle: sweet-sour shreds of cucumber, carrot, shallot and chilli that cut through anything fatty or fried, the small side dish that lifts every Indonesian plate. The dish belongs to the wider Southeast Asian acar (or atjar, achar) tradition of short-rested vinegar pickles that came down through Indo-Portuguese trade routes and now turn up alongside nasi goreng, gado-gado, sate, and any rich main from the Indonesian kitchen. The vegetables get a brief salt to draw out moisture before the dressing goes on; without that step the pickle weeps water across the plate. The dressing wants white vinegar (not malt or cider), sugar, water and grated fresh ginger. Eat cool from the bench, never refrigerated cold; the texture suffers when chilled. Served alongside anything rich, fried or grilled.
 
 ## Ingredients
 - 2 cucumbers (small, about 300 g)

@@ -94,7 +94,7 @@ Eggs Benedict is one of the most iconic brunch dishes and a New York invention f
 - **Toast muffins properly.**
 
 ## Variations
-**Eggs Florentine:** swap bacon for spinach (canonical vegetarian version).
+**Eggs Florentine:** swap bacon for spinach (traditional vegetarian version).
 **Eggs Royale:** swap bacon for smoked salmon.
 **Eggs Sardou:** with creamed spinach and artichoke (New Orleans variation).
 **Crab cake Benedict:** swap bacon for a crab cake.

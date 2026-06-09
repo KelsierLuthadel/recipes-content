@@ -11,13 +11,13 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Pimento cheese is the South's most beloved cheese spread and one of the most iconic Southern foods, often called "the caviar of the South": grated sharp cheddar (the canonical Southern choice is extra-sharp Wisconsin or Vermont cheddar), mixed with mayonnaise (Duke's mayo is the canonical Southern brand), diced jarred pimentos (sweet red peppers, jarred and drained), grated onion, hot sauce, mustard powder, garlic powder, salt and black pepper, all stirred together by hand into a thick chunky spread (not a smooth purée). Served on saltine crackers, in white-bread sandwiches, on burgers, stuffed into celery sticks, with crudités.
+Pimento cheese is the South's most beloved cheese spread and one of the most iconic Southern foods, often called "the caviar of the South": grated sharp cheddar (the traditional Southern choice is extra-sharp Wisconsin or Vermont cheddar), mixed with mayonnaise (Duke's mayo is the traditional Southern brand), diced jarred pimentos (sweet red peppers, jarred and drained), grated onion, hot sauce, mustard powder, garlic powder, salt and black pepper, all stirred together by hand into a thick chunky spread (not a smooth purée). Served on saltine crackers, in white-bread sandwiches, on burgers, stuffed into celery sticks, with crudités.
 
 ## Ingredients
 
-- 400 g extra-sharp cheddar (freshly grated; the canonical Southern choice)
+- 400 g extra-sharp cheddar (freshly grated; the traditional Southern choice)
 - 200 g Monterey Jack (grated; for melt-quality)
-- 200 g Duke's mayonnaise (the canonical Southern brand; or any good-quality mayo)
+- 200 g Duke's mayonnaise (the traditional Southern brand; or any good-quality mayo)
 - 1 small jar (200 g) diced pimentos (drained well)
 - 1 small onion (grated; about 2 tablespoons)
 - 2 teaspoons mustard powder
@@ -52,7 +52,7 @@ Pimento cheese is the South's most beloved cheese spread and one of the most ico
 2. The flavours marry over time.
 
 ### Stage 5 - Use
-1. As a spread on crackers (saltines canonical).
+1. As a spread on crackers (saltines traditional).
 2. In sandwiches between two slices of white bread.
 3. Stuffed into celery sticks.
 4. Melted on burgers.
@@ -60,7 +60,7 @@ Pimento cheese is the South's most beloved cheese spread and one of the most ico
 
 ## Notes
 - **Hand-mixed chunky:** don't blend smooth.
-- **Duke's mayonnaise canonical Southern.**
+- **Duke's mayonnaise traditional Southern.**
 - **Freshly grate cheese:** pre-shredded won't bind.
 - **Rest overnight:** flavours improve.
 

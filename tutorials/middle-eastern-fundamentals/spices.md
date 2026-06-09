@@ -2,7 +2,7 @@
 
 ![Middle Eastern spices](resources/spices.jpg)
 
-*Middle Eastern cooking uses spices subtly — never the wall-of-flavour of Indian cooking; never the single-spice dominance of European; but a precise layered approach. Sumac for tart-tangy. Za'atar for herbal. Baharat for warmth. Aleppo pepper for fruity heat. This page covers the canonical spice kit and the regional blends.*
+*Middle Eastern cooking uses spices subtly — never the wall-of-flavour of Indian cooking; never the single-spice dominance of European; but a precise layered approach. Sumac for tart-tangy. Za'atar for herbal. Baharat for warmth. Aleppo pepper for fruity heat. This page covers the traditional spice kit and the regional blends.*
 
 ## Overview
 
@@ -31,7 +31,7 @@ The tart-tangy berry powder. Made from the dried berries of the Rhus genus (NOT 
 
 ### Where sumac goes
 - **On fattoush** — essential.
-- **Over sliced raw onions** — sumac onions are the canonical Middle Eastern garnish for kebabs.
+- **Over sliced raw onions** — sumac onions are the traditional Middle Eastern garnish for kebabs.
 - **On hummus or labneh** — as a finishing sprinkle.
 - **In musakhan** (Palestinian sumac-chicken) — the dominant flavour.
 - **On grilled meat** — sumac sprinkled over a hot kebab adds tart-tangy.
@@ -43,7 +43,7 @@ The tart-tangy berry powder. Made from the dried berries of the Rhus genus (NOT 
 - Fresh (less than 1 year from purchase) — old sumac loses its punch.
 
 ### Sourcing
-- Lebanese / Palestinian sumac is canonical.
+- Lebanese / Palestinian sumac is traditional.
 - Iranian sumac is brighter, with a slight floral note.
 - Avoid generic supermarket "sumac" — often pale and dusty.
 - Bald-Headed Herbs (UK), Penzeys (US), and Middle Eastern grocers carry the good stuff.
@@ -64,7 +64,7 @@ Mildly hot dried red chilli pepper, traditionally from the Aleppo region of Syri
 - Crushed red pepper flakes + a pinch of paprika (passable substitute)
 
 ### Sourcing
-The genuine Aleppo from Syria is harder to find since 2011 due to conflict. The Turkish Maraş pepper has filled the gap. Check that the powder is moist (the canonical Aleppo / Maraş has a slight oil; dust-dry versions are not the same).
+The genuine Aleppo from Syria is harder to find since 2011 due to conflict. The Turkish Maraş pepper has filled the gap. Check that the powder is moist (the traditional Aleppo / Maraş has a slight oil; dust-dry versions are not the same).
 
 ## Cumin
 
@@ -74,7 +74,7 @@ Warming, slightly earthy, slightly sweet. Used whole or ground. The most-used Mi
 - **In kebabs** — essential.
 - **In hummus** (a small amount).
 - **In stews and tagines** — foundational.
-- **In rice and pilafs** — the canonical Middle Eastern rice perfume.
+- **In rice and pilafs** — the traditional Middle Eastern rice perfume.
 
 ### Whole vs ground
 - **Whole cumin** — toasted whole and ground fresh gives the best aroma. Toast in a dry pan for 30 seconds; grind in a spice grinder.
@@ -97,7 +97,7 @@ Warm-sweet. Used in both savoury and sweet Middle Eastern cooking.
 
 ### Where cinnamon goes
 - **In savoury rice dishes** — mansaf, mujadara, maqluba (a stick added to the rice pot).
-- **In meat stews** — slow-cooked lamb with cinnamon + onion + tomato is canonical.
+- **In meat stews** — slow-cooked lamb with cinnamon + onion + tomato is traditional.
 - **In sweet dishes** — knafeh, baklava, atayef.
 
 Use a whole stick for savoury (added to the pot and removed before serving) and ground for sweets.
@@ -107,7 +107,7 @@ Use a whole stick for savoury (added to the pot and removed before serving) and 
 Green pods, lightly crushed. Floral, slightly camphor-like, distinctively Middle Eastern.
 
 ### Where cardamom goes
-- **In Arabic coffee** — the canonical use. 6-8 pods per pot of coffee.
+- **In Arabic coffee** — the traditional use. 6-8 pods per pot of coffee.
 - **In rice** — 2-4 pods in the pot.
 - **In stews** — 2-3 pods in slow-cooked lamb.
 - **In sweet dishes** — kunafa, rice pudding, atayef.
@@ -129,7 +129,7 @@ Smoked paprika (pimentón) is more Spanish than Middle Eastern. Use sparingly in
 
 Translates as "spices" — the all-purpose Middle Eastern spice mix. Each family has a version; recipes vary widely.
 
-### Canonical baharat (Lebanese / Syrian)
+### Traditional baharat (Lebanese / Syrian)
 - 2 tablespoons ground black pepper
 - 1 tablespoon ground allspice
 - 1 tablespoon ground cumin
@@ -155,8 +155,8 @@ Combine; store in a sealed jar.
 
 A green powder made from dried thyme + sumac + sesame seeds + salt + olive oil (sometimes). Distinctive: herbal, tangy, slightly nutty.
 
-### Canonical Lebanese za'atar
-- 4 tablespoons dried thyme (Lebanese / Syrian thyme is canonical; Greek oregano substitute works)
+### Traditional Lebanese za'atar
+- 4 tablespoons dried thyme (Lebanese / Syrian thyme is traditional; Greek oregano substitute works)
 - 4 tablespoons sumac
 - 4 tablespoons toasted sesame seeds
 - 1 tablespoon salt
@@ -167,7 +167,7 @@ Mix; store in a sealed jar.
 ### Where za'atar goes
 - **On flat bread** — manakish za'atar (Lebanese breakfast bread topped with za'atar + olive oil).
 - **On labneh** — sprinkled over with olive oil.
-- **On feta** — labneh with za'atar is the canonical mezze.
+- **On feta** — labneh with za'atar is the traditional mezze.
 - **On grilled chicken** — a herb rub.
 - **In pita pockets** — labneh + cucumber + za'atar inside a pita.
 - **Sprinkled over eggs** — fried egg + za'atar + olive oil is a Lebanese breakfast.
@@ -182,7 +182,7 @@ Mix; store in a sealed jar.
 
 Translates as "head of the shop" (the shopkeeper's best blend). A complex blend of 20+ spices, varying by family. Used in tagines, couscous, and Moroccan grilling.
 
-### Canonical ras el hanout
+### Traditional ras el hanout
 - 1 tablespoon ground cumin
 - 1 tablespoon ground coriander
 - 1 tablespoon ground cinnamon
@@ -209,7 +209,7 @@ This is more Maghrebi than Levantine but worth having in a Middle Eastern pantry
 
 The Persian all-spice blend. Lighter, more floral than baharat.
 
-### Canonical advieh
+### Traditional advieh
 - 1 tablespoon ground cumin
 - 1 tablespoon ground cinnamon
 - 1 tablespoon ground cardamom
@@ -261,7 +261,7 @@ Total cost to assemble from scratch: about £80-100 from Middle Eastern grocers;
 
 ## Where to source
 
-- **Middle Eastern grocers** (UK: Sweetlands, Yummy Stamford Hill, Damascus Bite) — for fresh spices, the canonical Lebanese / Palestinian brands.
+- **Middle Eastern grocers** (UK: Sweetlands, Yummy Stamford Hill, Damascus Bite) — for fresh spices, the traditional Lebanese / Palestinian brands.
 - **Online**: Bald-Headed Herbs (UK), Cool Chile Co, Sous Chef.
 - **Spice merchants** — Penzeys (US), Steenbergs (UK).
 - **Avoid supermarket spice aisles** — old stock, low quality, expensive per gram.

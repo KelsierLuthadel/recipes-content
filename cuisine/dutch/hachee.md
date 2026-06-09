@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 45 minutes
 
 ## Overview
-Hachee is the Netherlands' canonical beef stew: the slow-cooked, deeply spiced, generously oniony braise that pairs with stamppot and turns up at every Dutch winter family meal. The onion-to-beef ratio is the Dutch signature; at least equal weight of onions to beef (traditional recipes use more onion than meat), sliced thin and sweated slowly till deeply golden before the beef joins them. The spice profile reflects the Netherlands' 17th-century spice-trade history; cloves, juniper berries, bay and allspice together give the warm, slightly sweet, faintly resinous note that marks hachee out from any French or Belgian beef braise. The acid is cider vinegar, giving the dish its sweet-sour edge that balances the caramelised onion and a teaspoon of brown sugar; without vinegar, hachee tastes flat. Some Dutch home cooks add a slice of mustard-spread dark rye to the pot Belgian-carbonnade-style, which thickens and seasons the gravy. The result is dark, glossy and deeply savoury. Served with stamppot, boiled potatoes or red cabbage.
+Hachee is the Netherlands' traditional beef stew: the slow-cooked, deeply spiced, generously oniony braise that pairs with stamppot and turns up at every Dutch winter family meal. The onion-to-beef ratio is the Dutch signature; at least equal weight of onions to beef (traditional recipes use more onion than meat), sliced thin and sweated slowly till deeply golden before the beef joins them. The spice profile reflects the Netherlands' 17th-century spice-trade history; cloves, juniper berries, bay and allspice together give the warm, slightly sweet, faintly resinous note that marks hachee out from any French or Belgian beef braise. The acid is cider vinegar, giving the dish its sweet-sour edge that balances the caramelised onion and a teaspoon of brown sugar; without vinegar, hachee tastes flat. Some Dutch home cooks add a slice of mustard-spread dark rye to the pot Belgian-carbonnade-style, which thickens and seasons the gravy. The result is dark, glossy and deeply savoury. Served with stamppot, boiled potatoes or red cabbage.
 
 ## Ingredients
 
@@ -122,12 +122,12 @@ Hachee is the Netherlands' canonical beef stew: the slow-cooked, deeply spiced, 
 **Vegetarian "hachee" with king oyster mushrooms:** swap beef for thick king oyster mushrooms; same onion-and-spice base.
 
 ## Serving
-At a Dutch family Sunday dinner (the canonical setting; October to March) · at a Dutch farm-kitchen winter meal · at a Dutch sinterklaas (5 December) household · at a Dutch Christmas Eve dinner · at a Drenthe or Groningen pub on a winter evening · at home as the cold-weather Sunday braise · paired with [Stamppot boerenkool](stamppot-boerenkool.md), boiled potatoes, or buttered noodles.
+At a Dutch family Sunday dinner (the traditional setting; October to March) · at a Dutch farm-kitchen winter meal · at a Dutch sinterklaas (5 December) household · at a Dutch Christmas Eve dinner · at a Drenthe or Groningen pub on a winter evening · at home as the cold-weather Sunday braise · paired with [Stamppot boerenkool](stamppot-boerenkool.md), boiled potatoes, or buttered noodles.
 
 ## Storage
 - Refrigerates 5 days; reheats better than it cooks first time round.
 - Freezes 3 months in airtight containers; defrost overnight in the fridge.
-- The flavours improve overnight - this is the canonical make-ahead Dutch stew.
+- The flavours improve overnight - this is the traditional make-ahead Dutch stew.
 - Reheat gently on the stovetop with a splash of water or stock to loosen.
 - Day-old hachee on a soft Dutch bun (broodje hachee) is the Dutch deli lunch.
 - Hachee freezes excellently in individual portions; defrost one portion at a time for a quick weeknight dinner.

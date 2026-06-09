@@ -69,7 +69,7 @@ Choclo con queso is a Chilean summer corn gratin that uses the country's sweet, 
 ## Variations
 **With chillies:** add 1 finely chopped chilli with the garlic; gives a properly warm Chilean version.
 **With chorizo:** add 100 g of crumbled cooked chorizo before baking; richer version.
-**Vegan:** swap butter for olive oil, milk for cashew cream, cheese for nutritional yeast + vegan cheese; less canonical but works.
+**Vegan:** swap butter for olive oil, milk for cashew cream, cheese for nutritional yeast + vegan cheese; less traditional but works.
 **With diced bacon:** add 80 g of cooked diced bacon to the corn mixture; gives smoky depth.
 
 ## Serving

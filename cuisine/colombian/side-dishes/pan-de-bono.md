@@ -2,7 +2,7 @@
 
 ![Pan de Bono](resources/pan-de-bono.jpg)
 
-*Colombia's breakfast bread: small dense rings of yuca flour and fresh cheese, crusty outside and intensely chewy within. Eaten with hot chocolate.*
+*Colombia's breakfast bread: small dense rings of yuca flour and fresh cheese, crusty outside and intensely chewy within. Eat with hot chocolate.*
 
 **Serves:** 4 (makes 12 small rings)
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (sponge)
 
 ## Overview
-Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes and a fixture of every Swedish konditori window from Stockholm to Malmö. The cake was created in the 1920s by Jenny Åkerström, a Swedish home-economics teacher who taught the three Swedish princesses (Margaretha, Märtha, and Astrid) - hence the name. The construction: three thin layers of light vanilla sponge (sometimes flavoured with cardamom) sandwiched with raspberry jam, vanilla pastry cream, and finally a tall mounded dome of lightly sweetened whipped cream that gives the cake its distinctive bowler-hat shape. The whole assembly is then wrapped in a smooth thin sheet of pale green-tinted marzipan (the canonical Swedish princess colour - though pink and yellow variants exist for different occasions), the marzipan smoothed over the dome to give a perfect curved surface. Crowned with a single rose made from pink marzipan and a small dusting of icing sugar. The cake is best eaten the day it's assembled (the cream stays fluffy) but can be made up to 24 hours ahead.
+Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes and a fixture of every Swedish konditori window from Stockholm to Malmö. The cake was created in the 1920s by Jenny Åkerström, a Swedish home-economics teacher who taught the three Swedish princesses (Margaretha, Märtha, and Astrid) - hence the name. The construction: three thin layers of light vanilla sponge (sometimes flavoured with cardamom) sandwiched with raspberry jam, vanilla pastry cream, and finally a tall mounded dome of lightly sweetened whipped cream that gives the cake its distinctive bowler-hat shape. The whole assembly is then wrapped in a smooth thin sheet of pale green-tinted marzipan (the traditional Swedish princess colour - though pink and yellow variants exist for different occasions), the marzipan smoothed over the dome to give a perfect curved surface. Crowned with a single rose made from pink marzipan and a small dusting of icing sugar. The cake is best eaten the day it's assembled (the cream stays fluffy) but can be made up to 24 hours ahead.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 
 ### Green marzipan covering
 - 400 g good-quality marzipan (50% almond minimum)
-- Green food colouring gel (start with 5-6 drops; pale pistachio green is the canonical Swedish shade)
+- Green food colouring gel (start with 5-6 drops; pale pistachio green is the traditional Swedish shade)
 - Icing sugar (for rolling)
 
 ### Decoration
@@ -102,7 +102,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 
 ### Stage 8 - Make the marzipan covering
 1. Knead the marzipan with the green food colouring gel till the colour is uniform.
-2. Add colour gradually - pale pistachio green is the canonical shade, not bright emerald.
+2. Add colour gradually - pale pistachio green is the traditional shade, not bright emerald.
 3. Roll the marzipan out on a surface lightly dusted with icing sugar to a circle about 35cm diameter and 4mm thick.
 
 ### Stage 9 - Wrap the cake
@@ -128,8 +128,8 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 ## Notes
 - **Thin sponge layers:** the cake has 3 layers, not the modern 4-5. The slim sponges let the cream shine.
 - **Tall dome of whipped cream:** the structural signature. Don't be modest with the cream pile.
-- **Pale pistachio green:** the canonical Swedish shade. Bright emerald is wrong.
-- **Pink marzipan rose:** the canonical Swedish decoration. Simple is better.
+- **Pale pistachio green:** the traditional Swedish shade. Bright emerald is wrong.
+- **Pink marzipan rose:** the traditional Swedish decoration. Simple is better.
 - **Make on the day:** the cream is best fresh. Up to 24 hours in fridge is OK.
 
 ## Variations
@@ -141,7 +141,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 **Mini individual prinsesstårta:** make in small dome moulds, one per person.
 
 ## Serving
-At Swedish birthdays (the canonical celebration cake) · at Mother's Day · at a fika that has graduated into a formal occasion · at a Stockholm konditori display window (always in pale green) · at a wedding (often the second cake alongside the main one).
+At Swedish birthdays (the traditional celebration cake) · at Mother's Day · at a fika that has graduated into a formal occasion · at a Stockholm konditori display window (always in pale green) · at a wedding (often the second cake alongside the main one).
 
 ## Storage
 - Best the day it's assembled.

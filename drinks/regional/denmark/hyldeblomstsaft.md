@@ -2,7 +2,7 @@
 
 ![Hyldeblomstsaft](resources/hyldeblomstsaft.jpg)
 
-*Denmark's summer elderflower cordial: fresh elderflowers steeped with sugar, citric acid, lemon and orange peel into a fragrant pale-gold syrup, then diluted with cold sparkling water. The canonical Danish summer non-alcoholic drink; brewed in every Danish summerhouse garden when the elder blooms in late May and June.*
+*Denmark's summer elderflower cordial: fresh elderflowers steeped with sugar, citric acid, lemon and orange peel into a fragrant pale-gold syrup, then diluted with cold sparkling water. The traditional Danish summer non-alcoholic drink; brewed in every Danish summerhouse garden when the elder blooms in late May and June.*
 
 **Serves:** Makes about 1.5 litres syrup (yields ~10 litres of dilute drink)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (just to dissolve the sugar)
 
 ## Overview
-Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished homemade summer drink and a fixture of every Danish summerhouse garden, lunchtime jug, family-meal table and Midsummer-Eve buffet from late May through August. Every garden-having family makes at least one batch a year, picking the cream-coloured elder flowers from the bushes that grow wild across the Danish countryside, the technique handed down from grandmother to grandmother. Fresh elderflowers (just-opened, fragrant, picked from bushes not too close to roads) gently rinse and pack into a wide bowl with sliced lemons and oranges. Boiling water with sugar and citric acid (the canonical Danish preservative, which also brightens) pours over; the whole thing steeps for twenty-four to forty-eight hours in a cool place, gathering the elderflower's distinctive honeysuckle-muscat-grape flavour. Strained, bottled, and diluted with cold sparkling water just before drinking. The Danish version is virtually identical to the Swedish fläderblomssaft; both Scandinavian countries make it the same way.
+Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished homemade summer drink and a fixture of every Danish summerhouse garden, lunchtime jug, family-meal table and Midsummer-Eve buffet from late May through August. Every garden-having family makes at least one batch a year, picking the cream-coloured elder flowers from the bushes that grow wild across the Danish countryside, the technique handed down from grandmother to grandmother. Fresh elderflowers (just-opened, fragrant, picked from bushes not too close to roads) gently rinse and pack into a wide bowl with sliced lemons and oranges. Boiling water with sugar and citric acid (the traditional Danish preservative, which also brightens) pours over; the whole thing steeps for twenty-four to forty-eight hours in a cool place, gathering the elderflower's distinctive honeysuckle-muscat-grape flavour. Strained, bottled, and diluted with cold sparkling water just before drinking. The Danish version is virtually identical to the Swedish fläderblomssaft; both Scandinavian countries make it the same way.
 
 ## Ingredients
 
@@ -81,7 +81,7 @@ Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished home
 - **Just-opened elderflowers:** the flavour is best at this stage. Past-peak flowers taste musty / cat-pee-y; closed buds have no flavour.
 - **Don't wash the flowers with water:** removes the flavour-rich pollen. Just shake off insects.
 - **Trim the stems:** stems are bitter. Keep just the flower clusters on small stems.
-- **Citric acid is the canonical preservative:** at chemists or baking shops. Without it, the cordial keeps 2-3 weeks refrigerated; with it, 3-6 months refrigerated or 1 year pasteurised.
+- **Citric acid is the traditional preservative:** at chemists or baking shops. Without it, the cordial keeps 2-3 weeks refrigerated; with it, 3-6 months refrigerated or 1 year pasteurised.
 - **24-48 hour cold steep:** the flavour develops over time.
 
 ## Variations
@@ -92,7 +92,7 @@ Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished home
 **Frozen as ice cubes:** freeze syrup in ice cube trays; drop a few cubes into prosecco for an instant cocktail.
 
 ## Serving
-At a Danish summer-house lunch (the canonical Midsummer / Sankt Hans Eve setting) · at a backyard barbecue in a Copenhagen suburb · at fika in June with kanelbullar · as the non-alcoholic alternative at a julefrokost · at a Danish wedding reception in summer.
+At a Danish summer-house lunch (the traditional Midsummer / Sankt Hans Eve setting) · at a backyard barbecue in a Copenhagen suburb · at fika in June with kanelbullar · as the non-alcoholic alternative at a julefrokost · at a Danish wedding reception in summer.
 
 ## Storage
 - Refrigerated cordial keeps 3-6 months sealed; 2 weeks once opened.

@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes (briefly charring the vegetables)
 
 ## Overview
-Salsa roja Mexicana is the foundational Mexican red salsa and one of the most pervasive condiments in the kitchen: ripe tomatoes charred briefly under a grill or in a hot dry pan along with garlic, fresh chillies and a piece of onion till the skins blister and blacken slightly. Blended (or chopped fine by hand) with raw onion, cumin, Mexican oregano, lime juice, fresh coriander and salt into a fresh chunky red salsa. Charring is canonical; the smoky depth it gives is what separates salsa roja from the raw-blended pico de gallo. Serrano peppers are the traditional choice; jalapeños are milder. The salsa is meant to be made fresh and eaten within a few days, refrigerated up to four. It accompanies practically every Mexican dish: tacos, tostadas, eggs, beans, rice, grilled meats, fish, sandwiches. The freshness is the point, so make it the day you'll eat it if you can.
+Salsa roja Mexicana is the foundational Mexican red salsa and one of the most pervasive condiments in the kitchen: ripe tomatoes charred briefly under a grill or in a hot dry pan along with garlic, fresh chillies and a piece of onion till the skins blister and blacken slightly. Blended (or chopped fine by hand) with raw onion, cumin, Mexican oregano, lime juice, fresh coriander and salt into a fresh chunky red salsa. Charring is traditional; the smoky depth it gives is what separates salsa roja from the raw-blended pico de gallo. Serrano peppers are the traditional choice; jalapeños are milder. The salsa is meant to be made fresh and eaten within a few days, refrigerated up to four. It accompanies practically every Mexican dish: tacos, tostadas, eggs, beans, rice, grilled meats, fish, sandwiches. The freshness is the point, so make it the day you'll eat it if you can.
 
 ## Ingredients
 
@@ -51,7 +51,7 @@ Salsa roja Mexicana is the foundational Mexican red salsa and one of the most pe
 ## Notes
 - **Charring is essential:** smoky depth.
 - **Chunky texture:** don't fully purée.
-- **Fresh chillies:** serrano canonical.
+- **Fresh chillies:** serrano traditional.
 - **Lime juice and coriander at the end:** brightness.
 - **Eat within a few days.**
 

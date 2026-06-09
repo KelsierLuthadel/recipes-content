@@ -2,7 +2,7 @@
 
 ![Dresil](resources/dresil.jpg)
 
-*Tibet's Losar sweet rice: hot basmati glossed with butter, fattened with cashews and softened raisins, lightly sweetened. Eaten with sweet tea.*
+*Tibet's Losar sweet rice: hot basmati glossed with butter, fattened with cashews and softened raisins, lightly sweetened. Eat with sweet tea.*
 
 **Serves:** 4-6
 

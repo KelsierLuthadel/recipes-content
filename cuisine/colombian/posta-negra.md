@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Posta negra (literally "black roast") is Cartagena's signature beef dish and one of Colombia's most surprising sauces. A whole beef eye round or chuck marinates overnight in panela (Colombian raw cane sugar), garlic, soy sauce, vinegar and warm spices, then slow-braises for two or three hours in a sauce built around the canonical Caribbean-Colombian addition of cola. Yes, cola: the acid tenderises, the sugar caramelises, the colour deepens to mahogany-black. Don't substitute with stock. Panela carries the caramel depth (dark brown sugar substitutes if you can't find a block at the Latin market). The meat goes meltingly tender; the sauce reduces to a glossy syrup-like coating. The result surprises first-timers who think cola sounds odd, and then delights them. Sliced thick at the table, served with arroz con coco (Caribbean-Colombian coconut rice), patacones and a fresh salad. Found on every "típico" menu in Cartagena.
+Posta negra (literally "black roast") is Cartagena's signature beef dish and one of Colombia's most surprising sauces. A whole beef eye round or chuck marinates overnight in panela (Colombian raw cane sugar), garlic, soy sauce, vinegar and warm spices, then slow-braises for two or three hours in a sauce built around the traditional Caribbean-Colombian addition of cola. Yes, cola: the acid tenderises, the sugar caramelises, the colour deepens to mahogany-black. Don't substitute with stock. Panela carries the caramel depth (dark brown sugar substitutes if you can't find a block at the Latin market). The meat goes meltingly tender; the sauce reduces to a glossy syrup-like coating. The result surprises first-timers who think cola sounds odd, and then delights them. Sliced thick at the table, served with arroz con coco (Caribbean-Colombian coconut rice), patacones and a fresh salad. Found on every "típico" menu in Cartagena.
 
 ## Ingredients
 
@@ -107,7 +107,7 @@ Posta negra (literally "black roast") is Cartagena's signature beef dish and one
 5. Serve with coconut rice, patacones, salad and lime.
 
 ## Notes
-- **Cola is canonical:** yes, regular Coca-Cola or cola. Don't sub with stock.
+- **Cola is traditional:** yes, regular Coca-Cola or cola. Don't sub with stock.
 - **Panela for caramel depth:** Colombian raw cane sugar; dark brown sugar is the substitute.
 - **Slow braise properly:** 2.5-3 hours for fork-tender.
 - **Reduce the sauce:** the final reduction makes it glossy. Don't skip.
@@ -115,7 +115,7 @@ Posta negra (literally "black roast") is Cartagena's signature beef dish and one
 
 ## Variations
 **With prunes:** add 100 g of pitted prunes to the braise; gives a sweeter fruitier version.
-**Without cola (purist):** swap cola for 500 ml of stock + 100 g more panela + 50 ml vinegar; less canonical but works.
+**Without cola (purist):** swap cola for 500 ml of stock + 100 g more panela + 50 ml vinegar; less traditional but works.
 **Pressure-cooker version:** marinate as in the recipe; brown; pressure-cook 45 minutes; reduce sauce. Saves 2 hours.
 **With dark beer instead of cola:** swap cola for dark beer (Costeñita or stout); gives a more bitter savoury version.
 

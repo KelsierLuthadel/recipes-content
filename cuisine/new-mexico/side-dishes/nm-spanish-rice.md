@@ -2,7 +2,7 @@
 
 ![NM Spanish Rice](resources/nm-spanish-rice.jpg)
 
-*New Mexico's red rice: long-grain rice cooked with onion, garlic, tomato sauce, chicken stock, cumin and a touch of NM red chile powder till the rice absorbs the broth and turns orange-red. The canonical NM rice side, the rice that turns up alongside enchiladas, tacos and rellenos.*
+*New Mexico's red rice: long-grain rice cooked with onion, garlic, tomato sauce, chicken stock, cumin and a touch of NM red chile powder till the rice absorbs the broth and turns orange-red. The traditional NM rice side, the rice that turns up alongside enchiladas, tacos and rellenos.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-New Mexico Spanish rice (despite the name; the dish is American-Hispanic, not from Spain) is the canonical NM rice side: long-grain white rice toasted briefly in oil with chopped onion, garlic, then simmered in chicken stock with tomato sauce, ground cumin, dried Mexican oregano, salt and a touch of NM red chile powder for the canonical red colour. Served alongside enchiladas, tacos, rellenos.
+New Mexico Spanish rice (despite the name; the dish is American-Hispanic, not from Spain) is the traditional NM rice side: long-grain white rice toasted briefly in oil with chopped onion, garlic, then simmered in chicken stock with tomato sauce, ground cumin, dried Mexican oregano, salt and a touch of NM red chile powder for the traditional red colour. Served alongside enchiladas, tacos, rellenos.
 
 ## Ingredients
 
@@ -65,7 +65,7 @@ New Mexico Spanish rice (despite the name; the dish is American-Hispanic, not fr
 
 ## Notes
 - **Toast the rice:** essential Mexican technique.
-- **Tomato sauce + stock:** the canonical NM combo.
+- **Tomato sauce + stock:** the traditional NM combo.
 - **NM red chile powder:** for colour.
 
 ## Variations

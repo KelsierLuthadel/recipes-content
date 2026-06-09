@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The great Lusophone snack and the small fritter that turns up at every Mozambican wedding, Sunday brunch and Portuguese tasca: flaked salt cod folded into hot mashed potato with onion, parsley and egg, shaped between two tablespoons into classic oval quenelles, deep-fried golden. The desalt is the catch; under-soaked bacalhau makes inedibly salty fritters, so twenty-four hours with three or four water changes is the minimum, and tasting a small piece on the second day tells you if it's ready. The mash must be dry; wet mash makes fritters that won't shape. Light hands on the mix too: don't overwork or the bolinhos go heavy. Shaped between two warmed tablespoons into ovals straight into the oil, fried at 170 °C till deep gold. Eaten warm with lemon wedges and a cold beer or a glass of vinho verde.
+The great Lusophone snack and the small fritter that turns up at every Mozambican wedding, Sunday brunch and Portuguese tasca: flaked salt cod folded into hot mashed potato with onion, parsley and egg, shaped between two tablespoons into classic oval quenelles, deep-fried golden. The desalt is the catch; under-soaked bacalhau makes inedibly salty fritters, so twenty-four hours with three or four water changes is the minimum, and tasting a small piece on the second day tells you if it's ready. The mash must be dry; wet mash makes fritters that won't shape. Light hands on the mix too: don't overwork or the bolinhos go heavy. Shaped between two warmed tablespoons into ovals straight into the oil, fried at 170 °C till deep gold. Eat warm with lemon wedges and a cold beer or a glass of vinho verde.
 
 ## Ingredients
 

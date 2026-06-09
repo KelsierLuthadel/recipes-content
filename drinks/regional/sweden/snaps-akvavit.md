@@ -11,11 +11,11 @@
 **Cook Time:** None
 
 ## Overview
-Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoured neutral-grain or potato spirit that accompanies every traditional Swedish meal involving cured fish, pickled herring or the smörgåsbord. The most common style is akvavit (literally "water of life"), a clear potato or grain spirit infused with caraway as the dominant flavour, often with dill, fennel, anise, coriander seed or citrus peel. The canonical brands are Skåne Akvavit (caraway-dill-fennel forward, smooth) and OP Anderson (heavily caraway, oak-aged for darker colour and warmth). Served in tiny straight-sided glasses (about 40 ml), ice-cold from the freezer, with a small piece of pickled herring or gravlax balanced on a slice of crispbread between each sip. The Swedish ritual: a snapsvisa (snaps song; hundreds of short rhyming drinking songs exist, from the gentle "Helan går" to bawdier variants) is sung at the start of each round, then the snaps is downed or sipped depending on preference. The ritual repeats through the meal, building joviality.
+Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoured neutral-grain or potato spirit that accompanies every traditional Swedish meal involving cured fish, pickled herring or the smörgåsbord. The most common style is akvavit (literally "water of life"), a clear potato or grain spirit infused with caraway as the dominant flavour, often with dill, fennel, anise, coriander seed or citrus peel. The traditional brands are Skåne Akvavit (caraway-dill-fennel forward, smooth) and OP Anderson (heavily caraway, oak-aged for darker colour and warmth). Served in tiny straight-sided glasses (about 40 ml), ice-cold from the freezer, with a small piece of pickled herring or gravlax balanced on a slice of crispbread between each sip. The Swedish ritual: a snapsvisa (snaps song; hundreds of short rhyming drinking songs exist, from the gentle "Helan går" to bawdier variants) is sung at the start of each round, then the snaps is downed or sipped depending on preference. The ritual repeats through the meal, building joviality.
 
 ## Ingredients
 
-### Option A: Bottled akvavit (the canonical Swedish way)
+### Option A: Bottled akvavit (the traditional Swedish way)
 - 1 bottle (700 ml) Skåne Akvavit OR OP Anderson Akvavit OR Aalborg Taffel Akvavit (Danish, similar)
 
 ### Option B: Home-infused snaps (1-week infusion)
@@ -47,7 +47,7 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 
 ### Stage 1A - Option A: Bottled akvavit
 1. Place the unopened bottle in the freezer 24 hours before serving.
-2. (Akvavit, with its high alcohol content, won't freeze; it'll just become syrupy-cold and viscous - the canonical "ice-cold from the freezer" Swedish presentation.)
+2. (Akvavit, with its high alcohol content, won't freeze; it'll just become syrupy-cold and viscous - the traditional "ice-cold from the freezer" Swedish presentation.)
 3. Skip to Stage 4.
 
 ### Stage 1B - Option B: Home-infused (1-week version)
@@ -92,14 +92,14 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 - **TINY glasses (40ml):** the snaps glass is small for a reason. You're sipping a flavoured spirit, not chugging vodka.
 - **Salt-cured food alongside:** the salt of the herring/gravlax cuts the spirit's burn.
 - **The snapsvisa is part of the ritual:** even a brief song or toast. It slows the drinking and builds conviviality.
-- **Spaced rounds:** 3-4 rounds across a 2-hour meal is the canonical pace. Don't gulp them in succession.
+- **Spaced rounds:** 3-4 rounds across a 2-hour meal is the traditional pace. Don't gulp them in succession.
 
 ## Variations
 **OP Anderson style:** caraway-heavy, oak-aged. Use OP Anderson Akvavit; warmer flavour.
 **Bäska Droppar:** the Swedish bitter wormwood-and-citrus snaps. Acquired taste.
 **Brännvin (plain unflavoured):** a clear unflavoured Swedish spirit. Simple.
 **Hallonbåtar (raspberry snaps):** infuse the vodka with raspberries + sugar for a sweeter dessert-end snaps.
-**Aquavit cocktails (modern):** akvavit in cocktails (Akvavit Martini, Aquavit Sour, Negroni with akvavit) - non-canonical but increasingly popular.
+**Aquavit cocktails (modern):** akvavit in cocktails (Akvavit Martini, Aquavit Sour, Negroni with akvavit) - non-traditional but increasingly popular.
 
 ## Serving
 At every traditional Swedish meal involving cured fish or the smörgåsbord · at the Christmas julbord · at Midsommar lunch in the garden · at Easter brunch · at a Nordic-themed dinner party.

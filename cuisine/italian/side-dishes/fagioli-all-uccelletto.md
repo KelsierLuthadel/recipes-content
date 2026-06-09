@@ -2,7 +2,7 @@
 
 ![Fagioli all'Uccelletto](resources/fagioli-all-uccelletto.jpg)
 
-*Tuscany's cannellini beans in tomato-sage: cooked cannellini beans slow-simmered with garlic, fresh sage, tomato and a generous amount of olive oil till the beans absorb the flavours and the tomato thickens to a glossy coating. The Tuscan everyday bean side, the canonical accompaniment to grilled meats and roast chicken.*
+*Tuscany's cannellini beans in tomato-sage: cooked cannellini beans slow-simmered with garlic, fresh sage, tomato and a generous amount of olive oil till the beans absorb the flavours and the tomato thickens to a glossy coating. The Tuscan everyday bean side, the traditional accompaniment to grilled meats and roast chicken.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Fagioli all'uccelletto (literally "beans in the style of little birds" - the name refers to the way game birds are traditionally cooked in Tuscany with similar aromatics) is one of Tuscany's most iconic vegetable side dishes and an absolute staple of Tuscan home cooking: cooked cannellini beans (the canonical Tuscan white bean; either soaked-and-cooked-from-dried or canned drained) slow-simmered in a base of crushed garlic, fresh sage leaves, chopped tomato, dried red pepper flakes and a generous amount of extra virgin olive oil, till the beans absorb the flavours and the tomato breaks down into a glossy coating. The dish takes 30 minutes once the beans are cooked; it's the canonical Tuscan side that turns up alongside grilled meats, roast chicken, sausages, or as part of an antipasto. Cannellini are the canonical Tuscan bean; borlotti is the alternative. Fresh sage is essential; dried doesn't substitute. Olive oil is generous, the Tuscan signature.
+Fagioli all'uccelletto (literally "beans in the style of little birds" - the name refers to the way game birds are traditionally cooked in Tuscany with similar aromatics) is one of Tuscany's most iconic vegetable side dishes and an absolute staple of Tuscan home cooking: cooked cannellini beans (the traditional Tuscan white bean; either soaked-and-cooked-from-dried or canned drained) slow-simmered in a base of crushed garlic, fresh sage leaves, chopped tomato, dried red pepper flakes and a generous amount of extra virgin olive oil, till the beans absorb the flavours and the tomato breaks down into a glossy coating. The dish takes 30 minutes once the beans are cooked; it's the traditional Tuscan side that turns up alongside grilled meats, roast chicken, sausages, or as part of an antipasto. Cannellini are the traditional Tuscan bean; borlotti is the alternative. Fresh sage is essential; dried doesn't substitute. Olive oil is generous, the Tuscan signature.
 
 ## Ingredients
 
@@ -62,7 +62,7 @@ Fagioli all'uccelletto (literally "beans in the style of little birds" - the nam
 3. Top with fresh sage leaves and coarse pepper.
 
 ## Notes
-- **Cannellini beans canonical:** Tuscan standard.
+- **Cannellini beans traditional:** Tuscan standard.
 - **Fresh sage essential:** dried doesn't work.
 - **Generous olive oil:** Tuscan signature.
 - **Don't mash too many:** keep some bean texture.

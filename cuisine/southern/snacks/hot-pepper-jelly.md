@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Hot pepper jelly is one of the South's most distinctive condiments and a beloved Southern Christmas gift: fresh red bell peppers and fresh hot red chillies blitzed in a food processor with apple cider vinegar, sugar and pectin, brought to a boil till the pectin sets, poured into sterilised jars and sealed. The result is a beautiful clear red jelly with visible flecks of pepper, sweet-spicy in flavour, with enough heat to bite but enough sugar to balance. Used as a spread (on crackers with cream cheese - the canonical Southern appetiser), glazed on grilled chicken or ham, brushed on cheese for charcuterie boards, swirled into BBQ sauce.
+Hot pepper jelly is one of the South's most distinctive condiments and a beloved Southern Christmas gift: fresh red bell peppers and fresh hot red chillies blitzed in a food processor with apple cider vinegar, sugar and pectin, brought to a boil till the pectin sets, poured into sterilised jars and sealed. The result is a beautiful clear red jelly with visible flecks of pepper, sweet-spicy in flavour, with enough heat to bite but enough sugar to balance. Used as a spread (on crackers with cream cheese - the traditional Southern appetiser), glazed on grilled chicken or ham, brushed on cheese for charcuterie boards, swirled into BBQ sauce.
 
 ## Ingredients
 
@@ -70,8 +70,8 @@ Hot pepper jelly is one of the South's most distinctive condiments and a beloved
 4. Serve with cheese on a board.
 
 ## Notes
-- **Bell pepper + hot chillies:** the canonical combination.
-- **Apple cider vinegar canonical:** white vinegar gives a different flavour.
+- **Bell pepper + hot chillies:** the traditional combination.
+- **Apple cider vinegar traditional:** white vinegar gives a different flavour.
 - **Pectin essential for set.**
 - **Boil briefly after adding pectin:** activates.
 - **Sterilised jars:** for proper preservation.
@@ -83,7 +83,7 @@ Hot pepper jelly is one of the South's most distinctive condiments and a beloved
 **With cranberries:** add 100 g fresh cranberries; gives a Christmas variation.
 
 ## Serving
-On crackers with cream cheese (canonical Southern appetiser). As glaze on grilled meats. With cheese boards. Drink: champagne, white wine.
+On crackers with cream cheese (traditional Southern appetiser). As glaze on grilled meats. With cheese boards. Drink: champagne, white wine.
 
 ## Storage
 - Sealed unopened jars keep 1 year at room temperature.

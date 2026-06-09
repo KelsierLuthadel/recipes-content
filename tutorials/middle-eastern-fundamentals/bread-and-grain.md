@@ -204,12 +204,12 @@ A working Middle Eastern kitchen has:
 - **Storing pita in plastic** — softens too much; goes stale fast. Use a paper bag or a clean tea towel.
 - **Skipping the bulgur soak** for tabbouleh — biting into raw cracked wheat is unpleasant. 30 min soak minimum.
 - **Overcooking freekeh** — gets gummy. Aim for tender-but-chewy.
-- **Using sushi rice or risotto rice** — wrong starch / texture. Basmati or long-grain is canonical.
+- **Using sushi rice or risotto rice** — wrong starch / texture. Basmati or long-grain is traditional.
 - **Buying old freekeh** — loses its smoky punch. Buy from a good Middle Eastern grocer; check the package date.
 
 ## Where to source
 
-- **Middle Eastern grocery shops** — for fresh pita, fresh za'atar pita, lavash, fresh herbs, and the canonical brands of bulgur, freekeh, tahini, pomegranate molasses.
+- **Middle Eastern grocery shops** — for fresh pita, fresh za'atar pita, lavash, fresh herbs, and the traditional brands of bulgur, freekeh, tahini, pomegranate molasses.
 - **Online** — for niche items like proper Iraqi samoon, Palestinian taboon, fresh sumac.
 - **Supermarket** — for everyday pita, basic bulgur, basic tahini. Acceptable but not great.
 

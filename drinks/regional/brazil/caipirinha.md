@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Caipirinha (literally "little peasant" or "little country girl"; from "caipira" - a Brazilian rural person) is Brazil's national cocktail and one of the most universally recognised drinks in the world. The construction is brilliantly simple: lime wedges (with the skin on, the pith removed) are muddled in a heavy old-fashioned glass with white granulated sugar; cachaça (Brazil's sugarcane spirit, distinguished from rum by being made from fresh sugarcane juice rather than molasses) is poured over; the glass is filled with crushed ice and stirred briefly. The result is a vivid green-yellow drink with chunks of lime and ice, slightly sweet, sharply citrusy, with the funky-grassy backbone of cachaça beneath. Caipirinhas appear at every Brazilian setting from the beach kiosks of Rio de Janeiro to the upscale bars of São Paulo, from rural farm-house lunches to wedding receptions. The drink is the canonical Brazilian welcome at any social gathering.
+Caipirinha (literally "little peasant" or "little country girl"; from "caipira" - a Brazilian rural person) is Brazil's national cocktail and one of the most universally recognised drinks in the world. The construction is brilliantly simple: lime wedges (with the skin on, the pith removed) are muddled in a heavy old-fashioned glass with white granulated sugar; cachaça (Brazil's sugarcane spirit, distinguished from rum by being made from fresh sugarcane juice rather than molasses) is poured over; the glass is filled with crushed ice and stirred briefly. The result is a vivid green-yellow drink with chunks of lime and ice, slightly sweet, sharply citrusy, with the funky-grassy backbone of cachaça beneath. Caipirinhas appear at every Brazilian setting from the beach kiosks of Rio de Janeiro to the upscale bars of São Paulo, from rural farm-house lunches to wedding receptions. The drink is the traditional Brazilian welcome at any social gathering.
 
 ## Ingredients
 
@@ -19,13 +19,13 @@ Caipirinha (literally "little peasant" or "little country girl"; from "caipira" 
 - 1 fresh lime (cut into 8 wedges; the central white pith removed to avoid bitterness; small Brazilian lima galega ideal, but regular lime works)
 - 2-3 teaspoons white granulated sugar (some prefer caster; brown sugar gives a different flavour - see variations)
 - 60 ml good cachaça (the Brazilian standard; Pitú is the most exported brand, but small-producer cachaças like Sagatiba, Velho Barreiro, or Magnífica are excellent)
-- Crushed ice (canonical) OR ice cubes
+- Crushed ice (traditional) OR ice cubes
 - A heavy old-fashioned glass (200-250 ml capacity)
 - A wooden muddler or the back of a heavy spoon
 
 ### Optional flourishes
 - 1 teaspoon honey instead of sugar (modern variant)
-- A few mint leaves (less canonical but excellent)
+- A few mint leaves (less traditional but excellent)
 - A small wedge of lime on the rim for garnish
 
 ## Method
@@ -50,7 +50,7 @@ Caipirinha (literally "little peasant" or "little country girl"; from "caipira" 
 2. Stir briefly with the muddler to combine.
 
 ### Stage 4 - Add the ice
-1. Fill the glass with crushed ice (canonical) or ice cubes.
+1. Fill the glass with crushed ice (traditional) or ice cubes.
 2. Stir briefly to chill and mix.
 
 ### Stage 5 - Serve
@@ -59,10 +59,10 @@ Caipirinha (literally "little peasant" or "little country girl"; from "caipira" 
 3. Some bars garnish with a lime wedge on the rim.
 
 ## Notes
-- **Cachaça, not rum:** the canonical Brazilian spirit. Distinct from rum (which is made from molasses; cachaça from fresh sugarcane juice). The flavour is grassier, funkier, more vegetal.
+- **Cachaça, not rum:** the traditional Brazilian spirit. Distinct from rum (which is made from molasses; cachaça from fresh sugarcane juice). The flavour is grassier, funkier, more vegetal.
 - **Pith removed:** the bitter white pith ruins the drink. A few seconds with a knife is worth it.
 - **Don't over-muddle:** crush the limes enough to release juice and oils, but keep the wedges identifiable. Over-muddling extracts bitter notes from the rind.
-- **Crushed ice is canonical:** dilutes the drink as you sip; gives the right texture. Ice cubes work but result in a slightly stronger drink.
+- **Crushed ice is traditional:** dilutes the drink as you sip; gives the right texture. Ice cubes work but result in a slightly stronger drink.
 - **Stir, don't shake:** a caipirinha is built in the glass; shaking is incorrect.
 - **Drink fast:** as the ice melts, the drink dilutes; it's best in the first 5-10 minutes.
 
@@ -78,7 +78,7 @@ Caipirinha (literally "little peasant" or "little country girl"; from "caipira" 
 **Caipirinha gourmet (with herbs):** add fresh basil, mint, or rosemary leaves to the muddle - modern cocktail-bar variant.
 
 ## Serving
-At every Brazilian beach bar (the canonical setting) · at a Rio de Janeiro Copacabana kiosk at sunset · at a Brazilian churrasco alongside grilled meat · at a Brazilian wedding reception · at a São Paulo cocktail bar · at a Brazilian Carnival party · at any Brazilian-themed restaurant worldwide · at home as the Friday-evening Brazilian sundowner.
+At every Brazilian beach bar (the traditional setting) · at a Rio de Janeiro Copacabana kiosk at sunset · at a Brazilian churrasco alongside grilled meat · at a Brazilian wedding reception · at a São Paulo cocktail bar · at a Brazilian Carnival party · at any Brazilian-themed restaurant worldwide · at home as the Friday-evening Brazilian sundowner.
 
 ## Storage
 - Drink fresh - the drink is best within 10 minutes of making.

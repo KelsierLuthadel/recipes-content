@@ -107,7 +107,7 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 **Smaller fillets, individual planks:** 6 individual 180 g salmon fillets on 6 small cedar planks; same cooking time minus 4 minutes. The dinner-party presentation.
 
 ## Serving
-At a BC backyard barbecue (the canonical setting) · at a Vancouver Island summer beach cook · at a Sunshine Coast cabin dinner · at a Canadian Thanksgiving (second Monday of October) · at a Pacific Northwest food festival · at a Vancouver fine-dining restaurant alongside Indigenous-inspired sides · at home as a Saturday-night dinner-party showpiece.
+At a BC backyard barbecue (the traditional setting) · at a Vancouver Island summer beach cook · at a Sunshine Coast cabin dinner · at a Canadian Thanksgiving (second Monday of October) · at a Pacific Northwest food festival · at a Vancouver fine-dining restaurant alongside Indigenous-inspired sides · at home as a Saturday-night dinner-party showpiece.
 
 ## Storage
 - Leftover plank-grilled salmon refrigerates 3 days; eat cold flaked over salad, or fold into a salmon chowder.

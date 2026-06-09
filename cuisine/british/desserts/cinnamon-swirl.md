@@ -2,7 +2,7 @@
 
 ![Cinnamon Swirl Buns](resources/cinnamon-swirl.jpg)
 
-*The bakery-window staple. Enriched yeasted dough spread with a brown-sugar-and-cinnamon paste, rolled into a long log, sliced into spirals, baked until deep gold and brushed with a sticky glaze. Eaten warm, pulled apart with the fingers.*
+*The bakery-window staple. Enriched yeasted dough spread with a brown-sugar-and-cinnamon paste, rolled into a long log, sliced into spirals, baked until deep gold and brushed with a sticky glaze. Eat warm, pulled apart with the fingers.*
 
 **Serves:** 12 buns
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A milk-and-butter enriched dough, kneaded long enough to develop the gluten that gives the buns their pillow-pull texture. Rolled into a rectangle, brushed with melted butter, scattered with a brown sugar-cinnamon-salt mix. Rolled into a tight log, sliced into 12 equal spirals, set in a buttered tin with a small gap between each (so they rise into each other to give the soft pull-apart edge). Risen until puffy, brushed with egg wash, baked. The sugar inside the spiral half-melts into a soft caramel ribbon. Brushed with a warm syrup glaze as they leave the oven and dusted with icing sugar (or topped with a thick water icing) for the bakery-window finish.
+Cinnamon swirl buns are the bakery-window staple that turn up in every British high-street café and Scandinavian-inspired bakery, the soft pull-apart spirals that scent the room as soon as the tray comes out of the oven. You build a milk-and-butter enriched dough and knead it long enough to develop proper gluten; this is what gives the buns their pillow-pull texture rather than a tight bready crumb. The brown-sugar-cinnamon paste spread across the rolled-out dough is generous enough to half-melt into a soft caramel ribbon inside the spiral, and a pinch of salt through the sugar mix is the small detail that stops the buns reading as flat-sweet. Slice the log into 12 equal spirals and set them in a buttered tin with a small gap between, so they rise into each other for the soft Scandinavian pull-apart edge. Brushed with warm syrup glaze straight from the oven and dusted with icing sugar for the bakery-window look. Eat warm, pulled apart with the fingers.
 
 ## Ingredients
 

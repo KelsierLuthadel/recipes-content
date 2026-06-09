@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Salsa verde Chilena is Chile's version of the wider Latin/Iberian green-sauce family, distinct from the Italian salsa verde (which uses capers, anchovies, and breadcrumbs) and the Argentine chimichurri (which is more oregano-dominant): a vivid green relish made from finely chopped fresh flat-leaf parsley, fresh coriander, spring onions, garlic, lemon juice, white wine vinegar, olive oil, salt and pepper, sometimes with a touch of merkén for warm depth. The dish is used as a table condiment alongside grilled meats (asado), grilled fish, roasted chicken and vegetables - providing a bright fresh herby counterpoint to the richer mains. Both herbs go in together; parsley alone or coriander alone is acceptable but the pair is canonical. The texture should be chunky, not a smooth purée; visible bits of herb. Combined raw, not cooked, and best eaten within 24 to 48 hours while the herbs are still bright.
+Salsa verde Chilena is Chile's version of the wider Latin/Iberian green-sauce family, distinct from the Italian salsa verde (which uses capers, anchovies, and breadcrumbs) and the Argentine chimichurri (which is more oregano-dominant): a vivid green relish made from finely chopped fresh flat-leaf parsley, fresh coriander, spring onions, garlic, lemon juice, white wine vinegar, olive oil, salt and pepper, sometimes with a touch of merkén for warm depth. The dish is used as a table condiment alongside grilled meats (asado), grilled fish, roasted chicken and vegetables - providing a bright fresh herby counterpoint to the richer mains. Both herbs go in together; parsley alone or coriander alone is acceptable but the pair is traditional. The texture should be chunky, not a smooth purée; visible bits of herb. Combined raw, not cooked, and best eaten within 24 to 48 hours while the herbs are still bright.
 
 ## Ingredients
 
@@ -51,7 +51,7 @@ Salsa verde Chilena is Chile's version of the wider Latin/Iberian green-sauce fa
 2. Transfer to a small jug or bowl.
 
 ## Notes
-- **Two herbs together:** parsley AND coriander is canonical.
+- **Two herbs together:** parsley AND coriander is traditional.
 - **Chunky texture:** not a paste.
 - **Fresh, not cooked:** stays bright.
 - **Adjust merkén for heat:** light or fierce.

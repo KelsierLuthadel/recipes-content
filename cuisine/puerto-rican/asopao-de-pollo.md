@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting deliciously between arroz con pollo (which is mostly rice with chicken) and caldo (which is mostly broth with bits). Bone-in chicken browns then slow-cooks in chicken broth flavoured with sofrito, sazón, tomato sauce, olives and capers; medium-grain rice goes in partway through and absorbs much of the liquid but stays brothy enough to be called a soup. The texture is what makes it special: brothy enough that you eat it with a spoon, but with enough rice and chicken to feel substantial. The ratio matters: about 3:1 liquid to rice by volume. Too thick and you've made arroz con pollo; too thin and you've made caldo. The dish thickens as it sits because the rice keeps drinking up the broth, so serve immediately and finish in one sitting. Eaten on cold rainy days, at family wakes, at late-night parties and weekend brunches.
+Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting deliciously between arroz con pollo (which is mostly rice with chicken) and caldo (which is mostly broth with bits). Bone-in chicken browns then slow-cooks in chicken broth flavoured with sofrito, sazón, tomato sauce, olives and capers; medium-grain rice goes in partway through and absorbs much of the liquid but stays brothy enough to be called a soup. The texture is what makes it special: brothy enough that you eat it with a spoon, but with enough rice and chicken to feel substantial. The ratio matters: about 3:1 liquid to rice by volume. Too thick and you've made arroz con pollo; too thin and you've made caldo. The dish thickens as it sits because the rice keeps drinking up the broth, so serve immediately and finish in one sitting. Eat on cold rainy days, at family wakes, at late-night parties and weekend brunches.
 
 ## Ingredients
 
@@ -103,7 +103,7 @@ Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting del
 6. Serve immediately with pique and tostones on the side.
 
 ## Notes
-- **Brothy, not thick:** the canonical asopao is intentionally soupy. 1.5 litres of stock for 300 g of rice gives the right ratio.
+- **Brothy, not thick:** the traditional asopao is intentionally soupy. 1.5 litres of stock for 300 g of rice gives the right ratio.
 - **Sofrito and sazón:** the Boricua aromatic duo. Essential.
 - **Brown the chicken first:** gives the proper sauce depth.
 - **Don't overcook the rice:** 25 minutes total cooking should give properly tender rice. Longer = mushy.

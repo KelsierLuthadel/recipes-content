@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Pescado frito is Honduras's beloved Caribbean coast whole fried fish, particular to the Garifuna communities of La Ceiba, Tela, Trujillo and Cayos Cochinos: a whole white-fleshed fish (red snapper, mojarra, robalo or pargo blanco) scored crosswise on both sides, marinated briefly in lime, garlic, cumin, oregano and salt, dredged in seasoned flour, and deep-fried whole till the skin is deeply crisp and the flesh stays moist. Served on a wooden platter with the canonical Garifuna accompaniments: tajadas (fried plantains), arroz con coco, encurtido (pickled carrot, onion, jalapeño and cauliflower), lime wedges, hot sauce, and bread or tortillas. Score the fish properly: three deep crosswise cuts on each side, down to the bone, let the heat penetrate evenly. The oil must be very hot (180°C); lower gives soggy oily fish, higher gives burnt skin. Fry on one side first, then turn once; flipping back and forth gives uneven cooking and the skin can tear.
+Pescado frito is Honduras's beloved Caribbean coast whole fried fish, particular to the Garifuna communities of La Ceiba, Tela, Trujillo and Cayos Cochinos: a whole white-fleshed fish (red snapper, mojarra, robalo or pargo blanco) scored crosswise on both sides, marinated briefly in lime, garlic, cumin, oregano and salt, dredged in seasoned flour, and deep-fried whole till the skin is deeply crisp and the flesh stays moist. Served on a wooden platter with the traditional Garifuna accompaniments: tajadas (fried plantains), arroz con coco, encurtido (pickled carrot, onion, jalapeño and cauliflower), lime wedges, hot sauce, and bread or tortillas. Score the fish properly: three deep crosswise cuts on each side, down to the bone, let the heat penetrate evenly. The oil must be very hot (180°C); lower gives soggy oily fish, higher gives burnt skin. Fry on one side first, then turn once; flipping back and forth gives uneven cooking and the skin can tear.
 
 ## Ingredients
 
@@ -100,7 +100,7 @@ Pescado frito is Honduras's beloved Caribbean coast whole fried fish, particular
 - **Hot oil, 180°C:** the oil must be properly hot. Cool oil gives soggy fish; too hot gives burnt skin before the flesh cooks. Use a thermometer or the bread test.
 - **Flip once:** don't flip the fish back and forth. Cook 7-8 minutes on one side, then turn carefully and cook 6-7 minutes on the second side.
 - **Two spatulas for flipping:** the whole fish is fragile when hot. Use two spatulas (or one large spatula and a long tongs) to flip carefully without breaking.
-- **The skin is the best part:** the crisp deeply-fried skin is the canonical highlight of Garifuna pescado frito. Eat it; don't skip.
+- **The skin is the best part:** the crisp deeply-fried skin is the traditional highlight of Garifuna pescado frito. Eat it; don't skip.
 
 ## Variations
 **Tilapia (mojarra) version:** the everyday Honduran fish is mojarra (tilapia); use 4 smaller fish (300 g each) instead of 2 larger; reduce cooking to 5 minutes per side.

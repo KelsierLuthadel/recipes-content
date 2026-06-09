@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The chunky chopped salad that sits next to almost everything on a Saudi table: the relish that gives kabsa its bright counter, the cool against grilled meat, the freshness against rich rice. You chop tomato, cucumber and onion fine (the size matters: bigger than a salsa, smaller than a Greek salad), throw in parsley and a green chilli or two, and dress with lemon, olive oil, a pinch of cumin and salt. Five minutes' rest before serving lets the salt draw out a little tomato juice, which becomes the dressing the salad makes for itself. Vivid, crunchy, mildly hot, fast enough to put together while the kabsa rests under its lid. Eaten as a side dish, scooped with bread, or spooned over rice as you go.
+The chunky chopped salad that sits next to almost everything on a Saudi table: the relish that gives kabsa its bright counter, the cool against grilled meat, the freshness against rich rice. You chop tomato, cucumber and onion fine (the size matters: bigger than a salsa, smaller than a Greek salad), throw in parsley and a green chilli or two, and dress with lemon, olive oil, a pinch of cumin and salt. Five minutes' rest before serving lets the salt draw out a little tomato juice, which becomes the dressing the salad makes for itself. Vivid, crunchy, mildly hot, fast enough to put together while the kabsa rests under its lid. Eat as a side dish, scooped with bread, or spooned over rice as you go.
 
 ## Ingredients
 

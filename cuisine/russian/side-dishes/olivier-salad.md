@@ -84,7 +84,7 @@ Olivier salad (Olivye in Russian, salat Olivye) is Russia's most iconic salad an
 **With apple (Soviet variation):** add 1 small finely diced eating apple (Granny Smith or similar) for sweetness; reduces the mayonnaise feel. Common in some regional Soviet variations.
 
 ## Serving
-In a big bowl as the centerpiece of a Russian New Year's table, alongside herring under fur coat (selyodka pod shuboy), various pickled vegetables, smoked fish, blini with caviar, and copious shots of cold vodka. Or as a side at any meal; or as lunch with a slice of black bread. Drink: chilled vodka (the canonical pairing); kvass; or cold beer.
+In a big bowl as the centerpiece of a Russian New Year's table, alongside herring under fur coat (selyodka pod shuboy), various pickled vegetables, smoked fish, blini with caviar, and copious shots of cold vodka. Or as a side at any meal; or as lunch with a slice of black bread. Drink: chilled vodka (the traditional pairing); kvass; or cold beer.
 
 ## Storage
 - Keeps refrigerated 3-4 days in a sealed container; the flavour deepens after 24 hours.

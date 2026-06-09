@@ -37,7 +37,7 @@ The Aberdeen Angus is Scotland's native beef breed, developed in the north-east 
 - 500 g hand-cut chips (twice-fried; or roasted potatoes)
 - A bunch of watercress
 - 2 vine tomatoes (halved and grilled)
-- A dram of the same single malt alongside (the canonical sipping companion)
+- A dram of the same single malt alongside (the traditional sipping companion)
 
 ## Method
 
@@ -84,7 +84,7 @@ The Aberdeen Angus is Scotland's native beef breed, developed in the north-east 
 1. Place each rested steak on a warm plate (whole, or sliced thickly against the grain).
 2. Spoon the whisky-pepper sauce generously over (or alongside).
 3. Add hand-cut chips, a tangle of watercress, and a grilled tomato.
-4. Serve a small dram of the same single malt alongside (the canonical pairing).
+4. Serve a small dram of the same single malt alongside (the traditional pairing).
 
 ## Notes
 - **Dry-aged 28+ days:** the flavour transformation is the entire point. Most supermarket steak is not aged. Buy from a proper butcher.

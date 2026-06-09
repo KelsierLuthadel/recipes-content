@@ -70,7 +70,7 @@ Hasselback potatoes are Sweden's most exported potato preparation and the dish t
 3. Lemon wedge alongside for squeezing.
 
 ## Notes
-- **Don't cut all the way through:** the wooden-spoon-or-chopsticks trick is the canonical chef's move. Practise on one potato first.
+- **Don't cut all the way through:** the wooden-spoon-or-chopsticks trick is the traditional chef's move. Practise on one potato first.
 - **Brush at least twice:** the second brushing gets butter into the now-open slices.
 - **High heat for the crisp:** 220°C minimum.
 - **Skin on:** the skin crisps into a beautiful texture; peeled hasselback loses half the appeal.
@@ -83,7 +83,7 @@ Hasselback potatoes are Sweden's most exported potato preparation and the dish t
 **Crushed-potato style:** after baking, gently press down on the top to fully open the slices; serve sour-cream-loaded baked-potato-style.
 
 ## Serving
-Alongside Swedish meatballs (the canonical pairing) · with gravlax or smoked salmon · with any Sunday roast · at a Stockholm restaurant dinner · at home as the side that everyone photographs.
+Alongside Swedish meatballs (the traditional pairing) · with gravlax or smoked salmon · with any Sunday roast · at a Stockholm restaurant dinner · at home as the side that everyone photographs.
 
 ## Storage
 - Best fresh from the oven.

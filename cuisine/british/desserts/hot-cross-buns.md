@@ -11,7 +11,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-A yeasted dough enriched with milk, butter, an egg and a little sugar, spiced with cinnamon, nutmeg and mixed spice, scented with orange and lemon zest. Currants and chopped mixed peel folded in. Two rises (one in the bowl, one on the tray as 12 close-packed buns), a cross piped on with a flour-and-water paste, baked to deep gold, brushed with warm sugar glaze straight from the oven. Eaten warm or split and toasted.
+Hot cross buns are the British Easter bake, the spiced fruited buns sold from every bakery counter through Lent and pulled warm out of the oven on Good Friday morning. The dough is enriched with milk, butter, an egg and a little sugar, spiced with cinnamon, nutmeg and mixed spice, scented with orange and lemon zest, and studded with currants and chopped mixed peel. Two rises are non-negotiable; one in the bowl to build the yeast, a second on the tray as the buns sit close-packed so they rise into each other and tear apart with the soft pull-apart edge that is the traditional Easter finish. The cross is piped on with a thin flour-and-water paste just before baking, where the paste sets into a pale stripe across the gold top. A warm sugar-syrup glaze brushed across the buns straight from the oven gives the glossy sticky finish that distinguishes proper hot cross buns from a plain spiced loaf. Eat warm, or split and toasted the next day with cold salty butter.
 
 ## Ingredients
 

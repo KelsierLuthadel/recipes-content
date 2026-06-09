@@ -7,7 +7,7 @@
 ## Overview
 Tarts are the most home-cook-friendly patisserie. The structure is fixed: a blind-baked sweet-short pastry shell, plus a filling. The variations come from the filling. Once you can make a clean blind-baked shell (see [sweet short pastry](../pastry/sweet-short.md)), the tart canon opens.
 
-This page covers the main categories of classical French tart, with cross-references to the canonical recipes for each.
+This page covers the main categories of classical French tart, with cross-references to the traditional recipes for each.
 
 ## The Universal Shell
 

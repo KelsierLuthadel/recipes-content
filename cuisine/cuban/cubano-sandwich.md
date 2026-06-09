@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The Cubano sandwich is one of the most iconic sandwiches in the world and the canonical Cuban-American lunch: a long Cuban bread roll (similar to a French baguette but with lard in the dough for a softer crumb) split lengthwise, lightly mustarded inside, then layered with thinly sliced slow-roasted Cuban pork (lechón asado, marinated in mojo), thinly sliced ham, Swiss cheese and dill pickles. Pressed in a hot plancha or panini press till the bread crisps deeply on both sides, the cheese melts into the meats and the whole sandwich compresses into a thin crispy slab. Miami uses pork, ham and cheese only; Tampa adds Genoa salami, reflecting the city's mixed Spanish, Italian and Cuban heritage. Both are valid. Cuban bread (pan Cubano) is essential; a regular French baguette gives a tougher result. The meats must be sliced thin so they meld together under the press. Cut on the diagonal and served with mariquitas or papas fritas.
+The Cubano sandwich is one of the most iconic sandwiches in the world and the traditional Cuban-American lunch: a long Cuban bread roll (similar to a French baguette but with lard in the dough for a softer crumb) split lengthwise, lightly mustarded inside, then layered with thinly sliced slow-roasted Cuban pork (lechón asado, marinated in mojo), thinly sliced ham, Swiss cheese and dill pickles. Pressed in a hot plancha or panini press till the bread crisps deeply on both sides, the cheese melts into the meats and the whole sandwich compresses into a thin crispy slab. Miami uses pork, ham and cheese only; Tampa adds Genoa salami, reflecting the city's mixed Spanish, Italian and Cuban heritage. Both are valid. Cuban bread (pan Cubano) is essential; a regular French baguette gives a tougher result. The meats must be sliced thin so they meld together under the press. Cut on the diagonal and served with mariquitas or papas fritas.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ The Cubano sandwich is one of the most iconic sandwiches in the world and the ca
 - 2 loaves Cuban bread (about 30 cm each); or 4 Portuguese rolls; or 1 French baguette cut into 4 sections (~15 cm each)
 
 ### Inside layers
-- 4 tablespoons yellow mustard (the canonical American-Cuban mustard)
+- 4 tablespoons yellow mustard (the traditional American-Cuban mustard)
 - 300 g thinly sliced cooked Cuban pork (lechón asado; see the recipe; or use leftover slow-roasted pork shoulder)
 - 200 g thinly sliced sweet ham (or Black Forest ham)
 - 80 g thinly sliced Genoa salami (optional; for the Tampa version)
@@ -32,7 +32,7 @@ The Cubano sandwich is one of the most iconic sandwiches in the world and the ca
 ### To serve
 - Mariquitas (plantain chips) or papas fritas (potato fries)
 - Sliced fresh salad or coleslaw
-- Sliced jalapeños (for non-canonical heat)
+- Sliced jalapeños (for non-traditional heat)
 - Lime wedges
 
 ## Method
@@ -66,16 +66,16 @@ The Cubano sandwich is one of the most iconic sandwiches in the world and the ca
 4. Serve immediately with mariquitas or papas fritas, sliced salad, and lime wedges.
 
 ## Notes
-- **Cuban bread is canonical:** the lard-enriched soft Cuban bread is what gives the proper character. Portuguese rolls are the closest substitute; French baguette gives a tougher result.
+- **Cuban bread is traditional:** the lard-enriched soft Cuban bread is what gives the proper character. Portuguese rolls are the closest substitute; French baguette gives a tougher result.
 - **Press firmly:** the compression is what makes the sandwich a Cubano. Don't go light on the press.
 - **Cheese on both sides:** some Cuban cooks put cheese as the layer touching the bread (top and bottom); this melts into the bread giving the proper gooey result.
-- **Yellow mustard, not Dijon:** yellow American mustard is the canonical Cuban-American choice. Dijon is too sharp.
+- **Yellow mustard, not Dijon:** yellow American mustard is the traditional Cuban-American choice. Dijon is too sharp.
 - **No mayo or lettuce:** the Cubano sandwich is precisely defined. No mayonnaise, no lettuce, no tomato. The simplicity is the point.
 
 ## Variations
 **Medianoche (the "midnight" version):** swap the Cuban bread for a soft sweet egg-bread roll (pan suave); same fillings; pressed the same way. Sweeter softer version eaten in Cuba at midnight after parties.
 **With salami (Tampa-style):** include 80 g of thinly sliced Genoa salami; reflects the Italian-Cuban heritage of Tampa's Ybor City.
-**Pan con bistec:** swap the pork-and-ham for a thin minute-steak, with onions; less canonical but a related Cuban classic.
+**Pan con bistec:** swap the pork-and-ham for a thin minute-steak, with onions; less traditional but a related Cuban classic.
 **Vegetarian Cubano:** swap the meats for grilled portobello mushrooms + roasted red peppers; keep cheese and pickles; still excellent pressed.
 
 ## Serving

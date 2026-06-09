@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The bagel dog is a New York City fusion creation that bridges the city's two most iconic carbs (the NY-style bagel and the street-cart hot dog) and shows up in delis, bagel shops and bodegas across the city: an all-beef frankfurter (Vienna or Sabrett brand; the canonical NY street-cart dog) tightly wrapped in a strip of yeasted bagel dough (the proper New York bagel formula - high-protein bread flour, malt syrup, sugar, salt, yeast, water - kneaded firm and rested overnight for the chew), briefly boiled in water sweetened with malt syrup (the canonical bagel poach that gives the shiny crust), then topped with a generous coat of everything-bagel seasoning (sesame seeds + poppy seeds + dried garlic + dried onion + sea salt) and baked till the dough turns deep mahogany golden and the seasoning crisps. Served warm with yellow mustard for dipping. The dish demonstrates the New York fusion sensibility: take two perfect things, smash them together, serve as street food.
+The bagel dog is a New York City fusion creation that bridges the city's two most iconic carbs (the NY-style bagel and the street-cart hot dog) and shows up in delis, bagel shops and bodegas across the city: an all-beef frankfurter (Vienna or Sabrett brand; the traditional NY street-cart dog) tightly wrapped in a strip of yeasted bagel dough (the proper New York bagel formula - high-protein bread flour, malt syrup, sugar, salt, yeast, water - kneaded firm and rested overnight for the chew), briefly boiled in water sweetened with malt syrup (the traditional bagel poach that gives the shiny crust), then topped with a generous coat of everything-bagel seasoning (sesame seeds + poppy seeds + dried garlic + dried onion + sea salt) and baked till the dough turns deep mahogany golden and the seasoning crisps. Served warm with yellow mustard for dipping. The dish demonstrates the New York fusion sensibility: take two perfect things, smash them together, serve as street food.
 
 ## Ingredients
 
@@ -92,7 +92,7 @@ The bagel dog is a New York City fusion creation that bridges the city's two mos
 
 ## Notes
 - **Firm bagel dough:** bagel dough is much stiffer than bread dough; the kneading is harder work.
-- **Boil before bake:** the canonical NY bagel step. Skipping gives an inferior soft bread dog.
+- **Boil before bake:** the traditional NY bagel step. Skipping gives an inferior soft bread dog.
 - **Everything seasoning in generous coat:** the crusty seeded top is the signature.
 - **220°C oven:** high heat for proper bagel crust.
 

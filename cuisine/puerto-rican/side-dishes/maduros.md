@@ -54,7 +54,7 @@ Maduros ("ripe ones", sometimes called plátanos maduros or amarillos) is Puerto
 3. Serve immediately while warm and the caramelisation is at its peak.
 
 ## Notes
-- **Ripeness is everything:** the canonical maduros uses yellow-black or mostly-black plantains. Underripe gives bland starchy result; overripe gives mush.
+- **Ripeness is everything:** the traditional maduros uses yellow-black or mostly-black plantains. Underripe gives bland starchy result; overripe gives mush.
 - **Buy ahead:** plantains at most supermarkets are sold green or yellow; plan 3-7 days ahead so they ripen at home.
 - **Moderate heat, not high:** plantains burn quickly when ripe. Medium-low to medium is the right heat.
 - **Bias-cut for the best caramelisation:** the angle gives more cut surface area exposed to the pan.

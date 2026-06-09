@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of the country's most identity-defining warm beverages: the canonical bedtime drink for Dutch children from October to March, made in every Dutch grandmother's kitchen and sold at Dutch winter markets as a hot alternative to mulled wine. Three ingredients only (whole milk, whole star anise, sugar) but the technique matters. Whole milk is non-negotiable: skim or semi-skim doesn't carry the anise oil. The pods are specifically star anise from Illicium verum (not anise seed, not fennel seed); lightly crushed to release the volatile oils, then warmed gently in the milk for eight to ten minutes (a longer steep gives stronger flavour; under six leaves the milk thin). Sweetened with a tablespoon of sugar per cup. Strained to remove the pods, served piping hot in a tall mug: often paired with a speculaas biscuit, a piece of taai-taai, or a small pepernoten Sinterklaas spice biscuit.
+Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of the country's most identity-defining warm beverages: the traditional bedtime drink for Dutch children from October to March, made in every Dutch grandmother's kitchen and sold at Dutch winter markets as a hot alternative to mulled wine. Three ingredients only (whole milk, whole star anise, sugar) but the technique matters. Whole milk is non-negotiable: skim or semi-skim doesn't carry the anise oil. The pods are specifically star anise from Illicium verum (not anise seed, not fennel seed); lightly crushed to release the volatile oils, then warmed gently in the milk for eight to ten minutes (a longer steep gives stronger flavour; under six leaves the milk thin). Sweetened with a tablespoon of sugar per cup. Strained to remove the pods, served piping hot in a tall mug: often paired with a speculaas biscuit, a piece of taai-taai, or a small pepernoten Sinterklaas spice biscuit.
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 - A tall mug or a teacup, pre-warmed with hot water
 - A small spoon for stirring
 - 1 small Dutch biscuit alongside (speculaas, taai-taai, pepernoten, or a stroopwafel)
-- A wool blanket (the canonical Dutch winter accompaniment)
+- A wool blanket (the traditional Dutch winter accompaniment)
 
 ## Method
 
@@ -47,7 +47,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 1. Warm the milk gently 6-8 minutes, stirring once or twice.
 2. The temperature should reach about 80-85°C - you'll see small bubbles forming around the edge of the pan and steam rising; the milk should be hot enough to drink but not yet boiling.
 3. DO NOT BOIL - boiling scorches the milk and creates a skin.
-4. The longer the steep (up to 10-12 minutes), the stronger the anise flavour. 8 minutes is the canonical Dutch grandmother's timing.
+4. The longer the steep (up to 10-12 minutes), the stronger the anise flavour. 8 minutes is the traditional Dutch grandmother's timing.
 
 ### Stage 4 - Strain
 1. Pre-warm 2 tall mugs by filling them with hot water for 30 seconds; tip out.
@@ -61,7 +61,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 
 ### Stage 6 - Serve
 1. Hand the warm mug to the diner.
-2. Place a small biscuit alongside (speculaas is the canonical companion).
+2. Place a small biscuit alongside (speculaas is the traditional companion).
 3. Drink slowly; the aroma rises with the steam.
 4. The first sip should taste of warm milk, gentle aniseed, and sweetness - nothing else.
 
@@ -70,7 +70,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 - **Star anise pods, not anise seed:** the specific star-shape pod from Illicium verum has the right aromatic profile. Anise seed (from Pimpinella anisum) is more delicate and produces a different (and arguably inferior) drink. Fennel seed is also a no.
 - **Don't boil:** scorched milk is unpleasant; a skin on top is even worse. 85°C is the sweet spot.
 - **Length of steep is variable:** 6 minutes gives a light hint; 10 minutes gives strong anise; 12 minutes is the maximum before bitterness sets in.
-- **The bedtime ritual:** in the Netherlands, this is the canonical drink for sleepy children - the anise is mildly soothing and the warm milk helps everyone sleep.
+- **The bedtime ritual:** in the Netherlands, this is the traditional drink for sleepy children - the anise is mildly soothing and the warm milk helps everyone sleep.
 - **Re-use the star anise once:** they have a second infusion in them.
 
 ## Variations
@@ -84,7 +84,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 **Anijsmelk with ginger:** add a thin slice of fresh ginger to the steep - the warming variant for cold and flu season.
 
 ## Serving
-At a Dutch grandmother's kitchen on a winter evening (the canonical setting) · at a Dutch Sinterklaas (5 December) celebration after the gift-giving · at a Dutch Christmas market hot-drink stall · at a Dutch family bedtime ritual · at a Dutch sledding outing as the warming drink on returning home · at a Dutch ice-skating shelter · at home as the children's-bedtime ritual · paired with a speculaas biscuit, a piece of taai-taai, or a small chocolate.
+At a Dutch grandmother's kitchen on a winter evening (the traditional setting) · at a Dutch Sinterklaas (5 December) celebration after the gift-giving · at a Dutch Christmas market hot-drink stall · at a Dutch family bedtime ritual · at a Dutch sledding outing as the warming drink on returning home · at a Dutch ice-skating shelter · at home as the children's-bedtime ritual · paired with a speculaas biscuit, a piece of taai-taai, or a small chocolate.
 
 ## Storage
 - Make and drink fresh - anijsmelk doesn't keep more than an hour; the milk loses its fresh anise top-notes and the texture can change.

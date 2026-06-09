@@ -113,7 +113,7 @@ Butter melted during handling. Work cooler or chill more often.
 ## Where Next
 - [Shortcrust Pastry](shortcrust.md): the savoury cousin.
 - [Puff and Rough Puff](puff.md): laminated pastry, the next family.
-- [Sweet Short Pastry recipe](../../baking/pastry/sweet-short-pastry.md): canonical recipe with exact quantities.
+- [Sweet Short Pastry recipe](../../baking/pastry/sweet-short-pastry.md): traditional recipe with exact quantities.
 - [Flan Pastry](../../baking/pastry/flan-pastry.md): a slightly richer sweet short.
 - [Pastry Course landing](pastry.md): back to the main course.
 

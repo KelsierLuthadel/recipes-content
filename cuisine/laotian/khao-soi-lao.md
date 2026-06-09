@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the Thai khao soi (a Chiang Mai yellow coconut-curry noodle soup) is so famous internationally that the Lao dish of the same name gets ignored. They are unrelated and the Lao version is its own world, sold from every Luang Prabang market stall in the morning. The broth is clear and slightly cloudy, a meat-and-pork-bone stock simmered for an hour with star anise, cinnamon, garlic and a generous fistful of cilantro stems. The topping sauce is the canonical Lao signature: finely minced pork sautéed with finely chopped tomato, a generous spoonful of Lao fermented soybean paste (tao jeo, similar to Korean doenjang but distinctly Lao), fish sauce, sugar and a touch of dried chilli, all cooked down to a thick savoury ragout. Assembled with cooked rice noodles, the broth ladled over, the meat sauce piled on top, bean sprouts, fresh herbs, sliced shallot, chilli, lime wedges and pickled mustard greens. The diner mixes everything together at the table.
+Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the Thai khao soi (a Chiang Mai yellow coconut-curry noodle soup) is so famous internationally that the Lao dish of the same name gets ignored. They are unrelated and the Lao version is its own world, sold from every Luang Prabang market stall in the morning. The broth is clear and slightly cloudy, a meat-and-pork-bone stock simmered for an hour with star anise, cinnamon, garlic and a generous fistful of cilantro stems. The topping sauce is the traditional Lao signature: finely minced pork sautéed with finely chopped tomato, a generous spoonful of Lao fermented soybean paste (tao jeo, similar to Korean doenjang but distinctly Lao), fish sauce, sugar and a touch of dried chilli, all cooked down to a thick savoury ragout. Assembled with cooked rice noodles, the broth ladled over, the meat sauce piled on top, bean sprouts, fresh herbs, sliced shallot, chilli, lime wedges and pickled mustard greens. The diner mixes everything together at the table.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the 
 - 1 tablespoon palm sugar
 - 1 teaspoon white peppercorns
 
-### The topping sauce (the canonical Lao signature)
+### The topping sauce (the traditional Lao signature)
 - 300 g finely minced pork
 - 2 tablespoons sunflower oil
 - 4 cloves garlic, finely chopped
@@ -89,8 +89,8 @@ Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the 
 
 ## Notes
 - **Lao khao soi vs Thai khao soi:** completely different dishes. The Lao version has a clear broth and a meat-tomato-soybean topping; the Thai has a yellow coconut curry and crispy noodles on top. Don't confuse.
-- **Tao jeo (Lao fermented soybean paste):** the canonical Lao signature. Sold at Lao / Thai grocers. Korean doenjang or yellow miso paste are the workable substitutes.
-- **Fresh rice noodles ideal:** the soft fresh wide rice noodles are the canonical Lao choice. Dried vermicelli is the home substitute.
+- **Tao jeo (Lao fermented soybean paste):** the traditional Lao signature. Sold at Lao / Thai grocers. Korean doenjang or yellow miso paste are the workable substitutes.
+- **Fresh rice noodles ideal:** the soft fresh wide rice noodles are the traditional Lao choice. Dried vermicelli is the home substitute.
 - **The garnish plate is the dish:** without the fresh herbs, bean sprouts, chillies, lime and pickled mustard greens, the bowl is incomplete.
 
 ## Variations
@@ -100,7 +100,7 @@ Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the 
 **Khao soi with crispy pork crackling:** scatter a small handful of crispy pork crackling (kham moo) over each bowl.
 
 ## Serving
-At a Luang Prabang morning market stall (the canonical setting; sold from 6 am till noon) · at a Vientiane noodle shop · at a Lao breakfast counter · at a Lao New Year celebration · at home as a substantial Lao breakfast or lunch.
+At a Luang Prabang morning market stall (the traditional setting; sold from 6 am till noon) · at a Vientiane noodle shop · at a Lao breakfast counter · at a Lao New Year celebration · at home as a substantial Lao breakfast or lunch.
 
 ## Storage
 - The broth refrigerates 5 days; freezes 3 months.

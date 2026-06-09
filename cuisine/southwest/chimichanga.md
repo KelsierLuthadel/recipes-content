@@ -37,7 +37,7 @@ Chimichangas are the iconic Southwestern Mexican-American restaurant dish, parti
 - 200 g grated cheddar (extra for topping)
 - 200 ml sour cream
 - 1 ripe avocado (cubed or guacamole)
-- 1 cup pico de gallo (canonical)
+- 1 cup pico de gallo (traditional)
 - Shredded iceberg lettuce
 - 1 small bunch fresh coriander
 

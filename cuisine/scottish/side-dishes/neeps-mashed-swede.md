@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The linguistic confusion is canonical: in Scotland, "neeps" refers to mashed SWEDE (the orange-fleshed root vegetable known as rutabaga in North America), but in England and most of the rest of the English-speaking world, "neeps" or "turnips" refers to the smaller, white-fleshed, purple-topped Brassica rapa. Scottish neeps are the larger orange-fleshed Brassica napus, and the dish is one of the country's most iconic vegetable preparations. The construction is simple: swede is peeled, cut into chunks, boiled till very tender, drained extremely thoroughly (excess water ruins neeps), and mashed with butter, a pinch of nutmeg, a generous amount of black pepper and salt. The finished neeps should be soft, slightly textured (not whipped to baby food - keep some character), and a deep golden-orange colour with flecks of pepper. They're served alongside haggis on Burns Night (the canonical haggis-neeps-tatties trio), alongside roast lamb on Sunday lunch, and alongside Scotch broth as the absorbent vegetable.
+The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed SWEDE (the orange-fleshed root vegetable known as rutabaga in North America), but in England and most of the rest of the English-speaking world, "neeps" or "turnips" refers to the smaller, white-fleshed, purple-topped Brassica rapa. Scottish neeps are the larger orange-fleshed Brassica napus, and the dish is one of the country's most iconic vegetable preparations. The construction is simple: swede is peeled, cut into chunks, boiled till very tender, drained extremely thoroughly (excess water ruins neeps), and mashed with butter, a pinch of nutmeg, a generous amount of black pepper and salt. The finished neeps should be soft, slightly textured (not whipped to baby food - keep some character), and a deep golden-orange colour with flecks of pepper. They're served alongside haggis on Burns Night (the traditional haggis-neeps-tatties trio), alongside roast lamb on Sunday lunch, and alongside Scotch broth as the absorbent vegetable.
 
 ## Ingredients
 
@@ -73,7 +73,7 @@ The linguistic confusion is canonical: in Scotland, "neeps" refers to mashed SWE
 - **Cook till COMPLETELY tender:** undercooked swede is hard and earthy. Boil long.
 - **Drain VERY THOROUGHLY:** the post-boil steam-off in the pot is essential. Sloppy neeps are a Scottish crime.
 - **Generous pepper, modest salt:** neeps want lots of black pepper; salt to taste.
-- **Don't over-mash:** a slight texture is canonical. Whipped neeps are baby food.
+- **Don't over-mash:** a slight texture is traditional. Whipped neeps are baby food.
 
 ## Variations
 **Highland neeps:** stir in 2 tablespoons of single-malt Scotch at the end. Adds depth and edge.
@@ -84,7 +84,7 @@ The linguistic confusion is canonical: in Scotland, "neeps" refers to mashed SWE
 **With orange zest:** add the zest of half an orange to the mash - bright, modern.
 
 ## Serving
-Alongside haggis at Burns Night (the canonical setting) · alongside roast lamb on a Sunday · alongside Scotch broth as the absorbent veg · alongside roast venison or pheasant on a Highland hunting lunch · alongside roast goose at Christmas · with smoked sausage and onion gravy as a weeknight supper.
+Alongside haggis at Burns Night (the traditional setting) · alongside roast lamb on a Sunday · alongside Scotch broth as the absorbent veg · alongside roast venison or pheasant on a Highland hunting lunch · alongside roast goose at Christmas · with smoked sausage and onion gravy as a weeknight supper.
 
 ## Storage
 - Refrigerates 4 days; reheat with a splash of milk and a knob of butter in the microwave or on the stovetop.

@@ -2,7 +2,7 @@
 
 ![Ajvar](resources/ajvar.jpg)
 
-*North Macedonia's iconic red pepper relish: roasted red bell peppers and aubergines blended with garlic, sunflower oil, vinegar and chilli, slow-cooked till thick and deeply red. Eaten on bread, with grilled meat, alongside cheese. The canonical Balkan condiment.*
+*North Macedonia's iconic red pepper relish: roasted red bell peppers and aubergines blended with garlic, sunflower oil, vinegar and chilli, slow-cooked till thick and deeply red. Eat on bread, with grilled meat, alongside cheese. The traditional Balkan condiment.*
 
 **Serves:** Makes 1 kg
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Ajvar (pronounced "EYE-var") is the Balkan condiment that defines Macedonian cooking - a thick, dark red, smoky relish made from roasted red bell peppers and aubergines. The construction: large red bell peppers (Macedonian capia or American red bells) are roasted whole till the skins blacken; aubergines are roasted alongside; both are peeled while warm; the flesh is finely chopped or blended; slow-cooked in sunflower oil with garlic, vinegar, salt and a touch of chilli till thick (90 minutes minimum). Sealed in jars for winter use. Eaten daily across Macedonia: on bread, with grilled meat, alongside cheese, in stuffed peppers.
+Ajvar (pronounced "EYE-var") is the Balkan condiment that defines Macedonian cooking - a thick, dark red, smoky relish made from roasted red bell peppers and aubergines. The construction: large red bell peppers (Macedonian capia or American red bells) are roasted whole till the skins blacken; aubergines are roasted alongside; both are peeled while warm; the flesh is finely chopped or blended; slow-cooked in sunflower oil with garlic, vinegar, salt and a touch of chilli till thick (90 minutes minimum). Sealed in jars for winter use. Eat daily across Macedonia: on bread, with grilled meat, alongside cheese, in stuffed peppers.
 
 ## Ingredients
 - 2 kg red bell peppers (or Macedonian capia peppers)
@@ -49,7 +49,7 @@ Ajvar (pronounced "EYE-var") is the Balkan condiment that defines Macedonian coo
 **Smoked ajvar:** add ½ teaspoon liquid smoke.
 
 ## Serving
-On bread (canonical Macedonian breakfast/snack) · with grilled meat (ćevapi, pljeskavica) · alongside cheese · in stuffed peppers · as a sandwich spread.
+On bread (traditional Macedonian breakfast/snack) · with grilled meat (ćevapi, pljeskavica) · alongside cheese · in stuffed peppers · as a sandwich spread.
 
 ## Storage
 Sealed jars 6 months in a cool place. Once opened, refrigerate; consume 1 month.

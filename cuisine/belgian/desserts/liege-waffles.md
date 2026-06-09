@@ -2,7 +2,7 @@
 
 ![Liège Waffles](resources/liege-waffles.jpg)
 
-*Belgium's denser, sweeter waffle: brioche-style yeasted dough studded with pearl sugar that caramelises into hard sticky pockets in the iron. Eaten hot from a street cart.*
+*Belgium's denser, sweeter waffle: brioche-style yeasted dough studded with pearl sugar that caramelises into hard sticky pockets in the iron. Eat hot from a street cart.*
 
 **Serves:** 8 waffles
 
@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes per waffle
 
 ## Overview
-Liège waffles are the dense, sweet, chewy waffles that Belgians eat from street carts. Entirely different from the Brussels waffle (which is light, rectangular, eaten on a plate with cream and strawberries). The dough is brioche-style and yeasted, enriched with butter and eggs, soft and slightly sticky, risen twice. The pearl sugar is the canonical Liège technique and the texture-defining ingredient; coarse white sugar pearls about 4 mm across kneaded in at the very end so they survive the bake intact. As the waffle cooks, the pearls partially melt at the edges, caramelise and form sticky crunchy nuggets throughout the waffle, which is the entire point. Granulated sugar dissolves into the dough and gives a sweet but textureless waffle that misses the dish completely. The iron has deep oval pockets (not square Brussels-style), and the canonical cook is brief and hot enough that the outer caramel goes hard and amber. Eaten hot and plain from the cart, no cream or syrup.
+Liège waffles are the dense, sweet, chewy waffles that Belgians eat from street carts. Entirely different from the Brussels waffle (which is light, rectangular, eaten on a plate with cream and strawberries). The dough is brioche-style and yeasted, enriched with butter and eggs, soft and slightly sticky, risen twice. The pearl sugar is the traditional Liège technique and the texture-defining ingredient; coarse white sugar pearls about 4 mm across kneaded in at the very end so they survive the bake intact. As the waffle cooks, the pearls partially melt at the edges, caramelise and form sticky crunchy nuggets throughout the waffle, which is the entire point. Granulated sugar dissolves into the dough and gives a sweet but textureless waffle that misses the dish completely. The iron has deep oval pockets (not square Brussels-style), and the traditional cook is brief and hot enough that the outer caramel goes hard and amber. Eat hot and plain from the cart, no cream or syrup.
 
 ## Ingredients
 
@@ -98,7 +98,7 @@ Liège waffles are the dense, sweet, chewy waffles that Belgians eat from street
 **Vegan Liège waffles:** swap eggs for 2 tablespoons of flax-and-water, butter for vegan block butter, milk for oat milk - texture slightly different but still good.
 
 ## Serving
-At a Belgian street cart in Liège, Brussels or Antwerp (the canonical setting) · at a Belgian Christmas market · at a Belgian carnival or fair · as the Belgian street-food snack between meals · at home for a Saturday-morning brunch · paired with a Belgian hot chocolate.
+At a Belgian street cart in Liège, Brussels or Antwerp (the traditional setting) · at a Belgian Christmas market · at a Belgian carnival or fair · as the Belgian street-food snack between meals · at home for a Saturday-morning brunch · paired with a Belgian hot chocolate.
 
 ## Storage
 - Best eaten within 2 hours of cooking. After that the caramel softens and the dough goes slightly stale.

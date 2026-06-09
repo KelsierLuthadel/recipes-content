@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Guava duff is the Bahamas' iconic Sunday dessert and one of the more unusual confections in the wider Caribbean: a sweet enriched dough rolled flat, spread with stewed guava, rolled into a long sausage like a Swiss roll, wrapped in muslin (or foil these days) and steamed (not baked) over simmering water for an hour or more till the dough is tender and the guava filling oozes into the cake. Sliced and served warm with the signature Bahamian rum-butter sauce poured over (butter, sugar, condensed milk and dark rum cooked till glossy). The "duff" comes from the British steamed-pudding tradition (spotted dick, jam roly-poly); the guava is the Bahamian twist. Rarely seen outside the Bahamas. The steaming is non-negotiable; baking gives a dry cake-like texture. Fresh pink-fleshed guava is canonical; canned guava drained, or guava paste from a Latin American market, are the substitutes. The rum sauce is what takes the dessert from interesting to memorable; it is not a garnish.
+Guava duff is the Bahamas' iconic Sunday dessert and one of the more unusual confections in the wider Caribbean: a sweet enriched dough rolled flat, spread with stewed guava, rolled into a long sausage like a Swiss roll, wrapped in muslin (or foil these days) and steamed (not baked) over simmering water for an hour or more till the dough is tender and the guava filling oozes into the cake. Sliced and served warm with the signature Bahamian rum-butter sauce poured over (butter, sugar, condensed milk and dark rum cooked till glossy). The "duff" comes from the British steamed-pudding tradition (spotted dick, jam roly-poly); the guava is the Bahamian twist. Rarely seen outside the Bahamas. The steaming is non-negotiable; baking gives a dry cake-like texture. Fresh pink-fleshed guava is traditional; canned guava drained, or guava paste from a Latin American market, are the substitutes. The rum sauce is what takes the dessert from interesting to memorable; it is not a garnish.
 
 ## Ingredients
 
@@ -106,7 +106,7 @@ Guava duff is the Bahamas' iconic Sunday dessert and one of the more unusual con
 4. A scoop of vanilla ice cream is non-traditional but welcome.
 
 ## Notes
-- **Steam, don't bake:** the canonical Bahamian guava duff is steamed, not baked. Steaming gives the soft pudding-like texture that defines the dessert. Baked versions are drier and more cake-like; lovely but not duff.
+- **Steam, don't bake:** the traditional Bahamian guava duff is steamed, not baked. Steaming gives the soft pudding-like texture that defines the dessert. Baked versions are drier and more cake-like; lovely but not duff.
 - **Don't wrap tightly:** the duff expands during steaming. A tight wrap will burst or give a misshapen cake; a loose wrap (with about 50% expansion room) gives the proper shape.
 - **The rum sauce is essential:** plain duff is fine but unmemorable; the rum-butter sauce is what makes it special. Don't skip.
 - **Use fresh guavas if you can:** fresh pink-fleshed guavas are increasingly available; the flavour is brighter than canned or paste. If you can only find one, use the order of preference: fresh > canned > guava paste.

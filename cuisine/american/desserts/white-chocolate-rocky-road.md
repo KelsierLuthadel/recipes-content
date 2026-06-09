@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes (plus 2 hours chilling)
 
 ## Overview
-The standard rocky road structure (chocolate-butter-syrup base, biscuit chunks, marshmallows, mix-ins) with the colour palette reversed. White chocolate is sweeter and softer-set than milk, so the proportions tilt slightly: less syrup, a touch of double cream for the set, more biscuit for structure. Dried cranberries replace glace cherries (less sticky, brighter colour); shelled pistachios bring green flecks; mini marshmallows go in as standard. Set in the fridge, drizzled with melted dark chocolate for the contrast, cut into squares.
+White chocolate rocky road is the festive cousin of the classic milk-chocolate slab: same fridge-set structure, same biscuit-and-marshmallow textural pile, but the colour palette flipped pale so it lands on the Christmas table looking like snow with cranberry and pistachio scattered across. You build the base on white chocolate, butter and golden syrup, but the proportions need adjusting from the milk-chocolate template because white chocolate is sweeter and softer-set; less syrup, a touch of double cream to firm the set, and more biscuit for structure. Dried cranberries replace the glacé cherries of the classic version (less sticky, brighter colour, sharper flavour), shelled pistachios bring the green flecks that make the slab look properly Christmassy, and mini marshmallows go in as standard. Set in the fridge until firm enough to cut clean, drizzle with melted dark chocolate across the top for the contrast, and cut into squares for the lunchbox or the bake sale.
 
 ## Ingredients
 

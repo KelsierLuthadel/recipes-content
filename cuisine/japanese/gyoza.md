@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Japanese take on Chinese jiaozi: smaller, garlickier and almost always pan-fried so the bottoms crisp while the tops steam. The cabbage filling is the failure point for most home gyoza. Finely chopped Chinese cabbage must be salted and squeezed bone-dry before mixing with the pork; a wet filling makes wet dumplings that split in the pan. The wrapper pleats only on one side (five or six neat folds over a flat back), so the dumpling sits naturally on its base in the pan. The cook is two-stage: crisp bottoms first in hot oil, then a splash of water and a lid clamped on so the steam finishes the pork through the wrapper, then a final uncovered minute to re-crisp the bottoms. Served crisp-side up in a circular pattern on the plate with a dip of soy, rice vinegar and chilli oil. Eaten straight from the plate before the bottoms soften.
+The Japanese take on Chinese jiaozi: smaller, garlickier and almost always pan-fried so the bottoms crisp while the tops steam. The cabbage filling is the failure point for most home gyoza. Finely chopped Chinese cabbage must be salted and squeezed bone-dry before mixing with the pork; a wet filling makes wet dumplings that split in the pan. The wrapper pleats only on one side (five or six neat folds over a flat back), so the dumpling sits naturally on its base in the pan. The cook is two-stage: crisp bottoms first in hot oil, then a splash of water and a lid clamped on so the steam finishes the pork through the wrapper, then a final uncovered minute to re-crisp the bottoms. Served crisp-side up in a circular pattern on the plate with a dip of soy, rice vinegar and chilli oil. Eat straight from the plate before the bottoms soften.
 
 ## Ingredients
 

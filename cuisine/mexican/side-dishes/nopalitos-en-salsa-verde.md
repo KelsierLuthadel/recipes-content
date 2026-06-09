@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Nopalitos en salsa verde is one of Mexico's everyday vegetarian sides and a fundamental part of central Mexican home cooking. Nopales are the flat green pads of the prickly pear cactus, available canned or jarred at Mexican markets and fresh in some specialty grocers. Fresh nopales carry a slight mucilage that can be off-putting; simmering them with a slice of onion (and changing the water once) removes most of it. Canned nopales come already cooked and skip the step. The chopped tender nopales toss with a fresh tomatillo-jalapeño salsa verde, finely diced raw onion, chopped cilantro, lime juice and salt. Crumbled queso fresco scatters across the top: the canonical Mexican finishing touch. Eaten as a side alongside rich Mexican mains (tacos al pastor, carnitas, mole) or as a light vegetarian lunch with corn tortillas.
+Nopalitos en salsa verde is one of Mexico's everyday vegetarian sides and a fundamental part of central Mexican home cooking. Nopales are the flat green pads of the prickly pear cactus, available canned or jarred at Mexican markets and fresh in some specialty grocers. Fresh nopales carry a slight mucilage that can be off-putting; simmering them with a slice of onion (and changing the water once) removes most of it. Canned nopales come already cooked and skip the step. The chopped tender nopales toss with a fresh tomatillo-jalapeño salsa verde, finely diced raw onion, chopped cilantro, lime juice and salt. Crumbled queso fresco scatters across the top: the traditional Mexican finishing touch. Eat as a side alongside rich Mexican mains (tacos al pastor, carnitas, mole) or as a light vegetarian lunch with corn tortillas.
 
 ## Ingredients
 
@@ -63,7 +63,7 @@ Nopalitos en salsa verde is one of Mexico's everyday vegetarian sides and a fund
 ## Notes
 - **Pre-cooked nopales:** if using fresh, simmer with onion 20 minutes to remove sliminess.
 - **Tomatillo salsa:** essential Mexican green sauce.
-- **Queso fresco on top:** canonical Mexican finish.
+- **Queso fresco on top:** traditional Mexican finish.
 - **Serve at room temperature or slightly chilled.**
 
 ## Variations

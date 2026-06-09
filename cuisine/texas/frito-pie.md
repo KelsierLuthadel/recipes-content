@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Frito pie is one of Texas's most iconic working-class foods and a fixture of state fairs, Friday-night football games, school cafeterias and 7-Elevens across the Southwest: a small bag of Fritos corn chips opened down the long side, filled with hot Texas chili (the no-beans version is most canonical), topped with grated sharp cheddar, chopped raw onion, sour cream, pickled jalapeños and hot sauce, eaten directly from the bag with a plastic fork. The canonical "walking food" at Texas football games and state fairs (also called Frito Boat); made at home in a baking dish for family-style serving. A famous regional rivalry between New Mexicans and Texans over who invented it (both claim it); the New Mexico version uses red or green chile in place of Texas chili. Real branded Fritos give the proper texture and salt; generic corn chips don't taste right. The proper experience is eating directly from the chip bag.
+Frito pie is one of Texas's most iconic working-class foods and a fixture of state fairs, Friday-night football games, school cafeterias and 7-Elevens across the Southwest: a small bag of Fritos corn chips opened down the long side, filled with hot Texas chili (the no-beans version is most traditional), topped with grated sharp cheddar, chopped raw onion, sour cream, pickled jalapeños and hot sauce, eaten directly from the bag with a plastic fork. The traditional "walking food" at Texas football games and state fairs (also called Frito Boat); made at home in a baking dish for family-style serving. A famous regional rivalry between New Mexicans and Texans over who invented it (both claim it); the New Mexico version uses red or green chile in place of Texas chili. Real branded Fritos give the proper texture and salt; generic corn chips don't taste right. The proper experience is eating directly from the chip bag.
 
 ## Ingredients
 
@@ -37,7 +37,7 @@ Frito pie is one of Texas's most iconic working-class foods and a fixture of sta
 
 ## Method
 
-### Bag-style serving (canonical)
+### Bag-style serving (traditional)
 
 ### Stage 1 - Heat the chili
 1. Bring the chili to a hot simmer in a saucepan.
@@ -75,8 +75,8 @@ Frito pie is one of Texas's most iconic working-class foods and a fixture of sta
 
 ## Notes
 - **Real Fritos:** branded; the texture and salt level are essential.
-- **Real Texas chili (no beans):** the canonical Texan filling.
-- **Eat from the bag:** the canonical experience.
+- **Real Texas chili (no beans):** the traditional Texan filling.
+- **Eat from the bag:** the traditional experience.
 - **Don't sit too long:** the chips go soggy in the hot chili within minutes.
 - **Serve immediately:** part of the appeal is the texture contrast.
 

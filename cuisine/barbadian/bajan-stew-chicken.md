@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Bajan stew chicken is the dish that anchors the canonical Bajan Sunday-lunch plate. Bone-in chicken pieces marinate overnight in a paste of Bajan green seasoning, lime, Scotch bonnet and ketchup so the flavour reaches the bone. The browning sauce is what gives the stew its identity: a dark caramelised sugar syrup (sold bottled as "browning" in every Caribbean shop) added at the start to give the gravy its characteristic mahogany colour. Outside the Caribbean, two tablespoons of dark brown sugar caramelised in a dry pan till deep amber and dissolved with water substitutes. The chicken browns hard in the pot to develop both colour and fond, then onion, green pepper, tomato, chopped Scotch bonnet, thyme and chicken stock go in; the stew simmers covered for forty-five minutes till the chicken is fork-tender and the gravy reduces to a glossy deep-brown sauce. Eaten over rice and peas with macaroni pie alongside and fried plantain, the full Bajan plate.
+Bajan stew chicken is the dish that anchors the traditional Bajan Sunday-lunch plate. Bone-in chicken pieces marinate overnight in a paste of Bajan green seasoning, lime, Scotch bonnet and ketchup so the flavour reaches the bone. The browning sauce is what gives the stew its identity: a dark caramelised sugar syrup (sold bottled as "browning" in every Caribbean shop) added at the start to give the gravy its characteristic mahogany colour. Outside the Caribbean, two tablespoons of dark brown sugar caramelised in a dry pan till deep amber and dissolved with water substitutes. The chicken browns hard in the pot to develop both colour and fond, then onion, green pepper, tomato, chopped Scotch bonnet, thyme and chicken stock go in; the stew simmers covered for forty-five minutes till the chicken is fork-tender and the gravy reduces to a glossy deep-brown sauce. Eat over rice and peas with macaroni pie alongside and fried plantain, the full Bajan plate.
 
 ## Ingredients
 
@@ -50,7 +50,7 @@ Bajan stew chicken is the dish that anchors the canonical Bajan Sunday-lunch pla
 - 2 stalks scallion, sliced
 - A small dash of Bajan pepper sauce (Scotch bonnet hot sauce)
 
-### To serve (the canonical Bajan Sunday plate)
+### To serve (the traditional Bajan Sunday plate)
 - 1 batch Bajan macaroni pie (see [Macaroni Pie](macaroni-pie.md))
 - 1 batch Bajan rice and peas (pigeon peas + coconut milk + thyme)
 - Fried plantain (sweet ripe plantain, sliced and pan-fried)
@@ -113,17 +113,17 @@ Bajan stew chicken is the dish that anchors the canonical Bajan Sunday-lunch pla
 5. A small handful of green salad.
 
 ### Stage 9 - Serve
-1. Eat hot; the canonical Bajan Sunday plate.
+1. Eat hot; the traditional Bajan Sunday plate.
 2. Bajan pepper sauce on the table for extra heat.
 3. Cold Banks lager alongside.
 
 ## Notes
 - **Overnight marinate:** non-negotiable. The green seasoning needs time to penetrate.
-- **Browning sauce is the canonical Bajan signature:** the mahogany colour is what makes this Bajan rather than generic stewed chicken. Source from a Caribbean shop or make the substitute.
+- **Browning sauce is the traditional Bajan signature:** the mahogany colour is what makes this Bajan rather than generic stewed chicken. Source from a Caribbean shop or make the substitute.
 - **Brown the chicken hard:** the dark crust + the fond at the bottom of the pot are half the flavour.
 - **Slow simmer:** 40-50 minutes covered on low. High heat dries out the chicken before the gravy thickens.
 - **Coconut milk is optional but adds richness:** the standard Bajan home version uses stock only; modern restaurants often add coconut milk.
-- **The Bajan Sunday plate:** stew chicken alone is incomplete. Serve with rice and peas + macaroni pie + fried plantain - the canonical full plate.
+- **The Bajan Sunday plate:** stew chicken alone is incomplete. Serve with rice and peas + macaroni pie + fried plantain - the traditional full plate.
 
 ## Variations
 **Bajan stew chicken with okra:** add 200 g sliced okra in the last 15 minutes - the rural Bajan variant.
@@ -136,7 +136,7 @@ Bajan stew chicken is the dish that anchors the canonical Bajan Sunday-lunch pla
 **Vegetarian stew "chicken" (jackfruit):** swap chicken for canned green jackfruit; same marinade and gravy.
 
 ## Serving
-At a Bajan Sunday lunch (the canonical setting; the most-defining Bajan family meal) · at a Bajan Independence Day (30 November) celebration · at a Bajan family birthday party · at a Bajan wedding lunch · at a Bajan church potluck · at a Bajan rum-shop on Sunday afternoons · at home as the canonical Bajan-themed Sunday dinner · paired with macaroni pie, rice and peas, fried plantain, and cold beer.
+At a Bajan Sunday lunch (the traditional setting; the most-defining Bajan family meal) · at a Bajan Independence Day (30 November) celebration · at a Bajan family birthday party · at a Bajan wedding lunch · at a Bajan church potluck · at a Bajan rum-shop on Sunday afternoons · at home as the traditional Bajan-themed Sunday dinner · paired with macaroni pie, rice and peas, fried plantain, and cold beer.
 
 ## Storage
 - Refrigerates 4 days; reheats well on the stovetop with a small splash of stock or water.

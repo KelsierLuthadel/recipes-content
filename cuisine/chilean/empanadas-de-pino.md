@@ -2,7 +2,7 @@
 
 ![Empanadas de Pino](resources/empanadas-de-pino.jpg)
 
-*Chile's national pastry: large half-moon empanadas filled with pino - finely-chopped beef, onion cooked deep, hard-boiled egg, a black olive and a couple of raisins - folded into a rich butter-and-egg-yolk dough and baked until deep gold. Eaten with red wine on Independence Day and most Sunday lunches.*
+*Chile's national pastry: large half-moon empanadas filled with pino - finely-chopped beef, onion cooked deep, hard-boiled egg, a black olive and a couple of raisins - folded into a rich butter-and-egg-yolk dough and baked until deep gold. Eat with red wine on Independence Day and most Sunday lunches.*
 
 **Serves:** 6 (makes 12 large empanadas)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Chile's national pastry, the half-moon empanada that turns up at every Independence Day asado and most Sunday lunches. The pino filling is the dish's identity: knife-chopped beef (not minced - the texture matters), browned, then slow-cooked with three times its weight of onion until the onion melts into the meat and the whole mixture turns dark and sweet. Cumin, paprika, oregano and ají de color season it, and the filling rests overnight ideally so it firms up and slices cleanly. The dough is rich and buttery, made with flour, butter, lard, egg yolks, salt and warm milk. Each empanada wraps a generous spoonful of pino with a hard-boiled egg quarter, a black olive and a couple of raisins, then folds, seals, and bakes at 200°C until deeply burnished. Eaten with a glass of Chilean red.
+Chile's national pastry, the half-moon empanada that turns up at every Independence Day asado and most Sunday lunches. The pino filling is the dish's identity: knife-chopped beef (not minced - the texture matters), browned, then slow-cooked with three times its weight of onion until the onion melts into the meat and the whole mixture turns dark and sweet. Cumin, paprika, oregano and ají de color season it, and the filling rests overnight ideally so it firms up and slices cleanly. The dough is rich and buttery, made with flour, butter, lard, egg yolks, salt and warm milk. Each empanada wraps a generous spoonful of pino with a hard-boiled egg quarter, a black olive and a couple of raisins, then folds, seals, and bakes at 200°C until deeply burnished. Eat with a glass of Chilean red.
 
 ## Ingredients
 

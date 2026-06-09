@@ -2,7 +2,7 @@
 
 ![Kanelbullar](resources/kanelbullar.jpg)
 
-*Sweden's iconic cinnamon bun: a soft cardamom-scented enriched dough rolled around a butter-cinnamon-sugar filling, shaped into the canonical Swedish twist (not a swirl), brushed with egg wash, topped with pearl sugar, and baked till deep golden. The fika tradition's centrepiece; the bun every Swede grew up with and every Stockholm coffee shop sells by the thousand.*
+*Sweden's iconic cinnamon bun: a soft cardamom-scented enriched dough rolled around a butter-cinnamon-sugar filling, shaped into the traditional Swedish twist (not a swirl), brushed with egg wash, topped with pearl sugar, and baked till deep golden. The fika tradition's centrepiece; the bun every Swede grew up with and every Stockholm coffee shop sells by the thousand.*
 
 **Serves:** Makes 16 buns
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and the centrepiece of the fika tradition. So woven into the national culture that the country celebrates Kanelbullens dag (Cinnamon Bun Day) on 4 October every year. Two things distinguish Swedish kanelbullar from the American cinnamon roll. Cardamom in the dough: essential, not optional (Sweden imports more cardamom per capita than India). And the shaping: the canonical Swedish kanelbulle is twisted into a knot, not rolled into a swirl. The dough is rolled into a rectangle, spread with filling, folded in thirds, cut into strips, and each strip is twisted and wound into a knot. Topped with egg wash and pärlsocker (chunky pearl sugar that doesn't melt). The Swedish balance: less sugar than American versions, less cinnamon, and the cardamom gives a perfumed bass note no other cinnamon bun has.
+Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and the centrepiece of the fika tradition. So woven into the national culture that the country celebrates Kanelbullens dag (Cinnamon Bun Day) on 4 October every year. Two things distinguish Swedish kanelbullar from the American cinnamon roll. Cardamom in the dough: essential, not optional (Sweden imports more cardamom per capita than India). And the shaping: the traditional Swedish kanelbulle is twisted into a knot, not rolled into a swirl. The dough is rolled into a rectangle, spread with filling, folded in thirds, cut into strips, and each strip is twisted and wound into a knot. Topped with egg wash and pärlsocker (chunky pearl sugar that doesn't melt). The Swedish balance: less sugar than American versions, less cinnamon, and the cardamom gives a perfumed bass note no other cinnamon bun has.
 
 ## Ingredients
 
@@ -35,7 +35,7 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 
 ### Topping
 - 1 egg (beaten with 1 tablespoon milk; for egg wash)
-- 50 g pearl sugar (pärlsocker - the canonical Swedish chunky white sugar; substitute with crushed sugar cubes if unavailable, or coarse demerara)
+- 50 g pearl sugar (pärlsocker - the traditional Swedish chunky white sugar; substitute with crushed sugar cubes if unavailable, or coarse demerara)
 - 2 tablespoons flaked almonds (optional)
 
 ### To serve
@@ -96,20 +96,20 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 
 ## Notes
 - **Cardamom in the dough is essential:** this is what makes a kanelbulle Swedish rather than American. Don't skip.
-- **Knot shape, not a swirl:** the twist is the canonical Swedish look. Spiral-rolled buns are kanelsnurror (a different shape) or just American cinnamon rolls.
-- **Pearl sugar on top:** doesn't melt during baking; gives the canonical crunch. Demerara is a poor substitute.
+- **Knot shape, not a swirl:** the twist is the traditional Swedish look. Spiral-rolled buns are kanelsnurror (a different shape) or just American cinnamon rolls.
+- **Pearl sugar on top:** doesn't melt during baking; gives the traditional crunch. Demerara is a poor substitute.
 - **Less sweet than American versions:** the Swedish balance is restrained.
 - **Eat warm with coffee:** the fika ritual. Don't eat alone.
 
 ## Variations
-**Kardemummabullar (cardamom buns):** swap the cinnamon filling for an all-cardamom filling. Equally canonical and arguably even more Swedish.
+**Kardemummabullar (cardamom buns):** swap the cinnamon filling for an all-cardamom filling. Equally traditional and arguably even more Swedish.
 **Saffron buns (lussekatter):** at Christmas, swap to a saffron-yellow dough with raisin eyes; the Sankta Lucia Day specialty.
 **Vegan version:** swap milk for oat milk, egg for flax egg, butter for vegan butter.
-**With cream cheese frosting:** less canonical, more modern (American influence) - drizzle a cream-cheese frosting over after baking.
+**With cream cheese frosting:** less traditional, more modern (American influence) - drizzle a cream-cheese frosting over after baking.
 **Smaller mini cocktail version:** half-size buns for a fika spread or canapé.
 
 ## Serving
-At every Swedish coffee shop (the canonical Kafferosteriet, Vete-Katten in Stockholm, Espresso House) · at home for the daily fika · at a Christmas julbord on the sweet side · with a strong coffee mid-afternoon · on Kanelbullens dag (Cinnamon Bun Day, October 4th) when Swedes eat them in defiance of normal portion size.
+At every Swedish coffee shop (the traditional Kafferosteriet, Vete-Katten in Stockholm, Espresso House) · at home for the daily fika · at a Christmas julbord on the sweet side · with a strong coffee mid-afternoon · on Kanelbullens dag (Cinnamon Bun Day, October 4th) when Swedes eat them in defiance of normal portion size.
 
 ## Storage
 - Best fresh on the day they're baked.

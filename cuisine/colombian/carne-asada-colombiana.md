@@ -2,7 +2,7 @@
 
 ![Carne Asada Colombiana](resources/carne-asada-colombiana.jpg)
 
-*Colombia's grilled steak: thin slices of beef (skirt or flank) marinated in garlic, cumin, oregano and lime, grilled over hot charcoal till the outside chars and the inside stays pink. The Colombian-asado classic, the canonical centrepiece of the famous "bandeja paisa" platter, served with white rice, beans, plantains and a fried egg.*
+*Colombia's grilled steak: thin slices of beef (skirt or flank) marinated in garlic, cumin, oregano and lime, grilled over hot charcoal till the outside chars and the inside stays pink. The Colombian-asado classic, the traditional centrepiece of the famous "bandeja paisa" platter, served with white rice, beans, plantains and a fried egg.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Carne asada Colombiana is Colombia's grilled-steak classic and a fundamental component of weekend asados and the canonical bandeja paisa platter. Thin slices of beef (skirt is canonical; flank works too) marinate in a fragrant paste of crushed garlic, ground cumin, dried oregano, lime juice, salt and pepper for a few hours, then grill over hot charcoal or a screaming-hot grill pan for just two or three minutes per side till the outside chars and the inside stays pink and juicy. The cut sometimes goes by "vacío" or "matambre" in Colombian Spanish; slice it across the grain when serving. Rarely eaten alone; it's the centrepiece of a bandeja (platter) with all the canonical sides arranged around it: rice, frijoles paisas, patacones, maduros, chorizo, chicharrón, a fried egg, an arepa, sliced avocado, and ají picante on the table.
+Carne asada Colombiana is Colombia's grilled-steak classic and a fundamental component of weekend asados and the traditional bandeja paisa platter. Thin slices of beef (skirt is traditional; flank works too) marinate in a fragrant paste of crushed garlic, ground cumin, dried oregano, lime juice, salt and pepper for a few hours, then grill over hot charcoal or a screaming-hot grill pan for just two or three minutes per side till the outside chars and the inside stays pink and juicy. The cut sometimes goes by "vacío" or "matambre" in Colombian Spanish; slice it across the grain when serving. Rarely eaten alone; it's the centrepiece of a bandeja (platter) with all the traditional sides arranged around it: rice, frijoles paisas, patacones, maduros, chorizo, chicharrón, a fried egg, an arepa, sliced avocado, and ají picante on the table.
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ Carne asada Colombiana is Colombia's grilled-steak classic and a fundamental com
 - Lime wedges
 - 2 tablespoons fresh coriander (chopped)
 
-### To serve (the canonical Colombian bandeja-style presentation)
+### To serve (the traditional Colombian bandeja-style presentation)
 - Plain white rice
 - Frijoles paisas (red beans; see existing colombian side)
 - Patacones (Colombian patacones; see existing colombian side)
@@ -91,13 +91,13 @@ Carne asada Colombiana is Colombia's grilled-steak classic and a fundamental com
 - **Bandeja-style serving:** the dish is meant as part of a platter, not alone.
 
 ## Variations
-**With chimichurri:** serve with Argentine-style chimichurri (parsley, garlic, oregano, vinegar, oil); less canonical Colombian but excellent.
+**With chimichurri:** serve with Argentine-style chimichurri (parsley, garlic, oregano, vinegar, oil); less traditional Colombian but excellent.
 **Carne en polvo (the powdered-beef variation):** shred the cooked beef finely; sauté with onion and lots of cumin; serves as a different texture experience. Common Andean Colombian variation.
 **Mariquita-bandeja:** add Cuban-style plantain chips; gives a textural contrast.
 **Spicier marinade:** add 2 chopped chillies and 1 tablespoon of smoked paprika; properly fierce.
 
 ## Serving
-As the centerpiece of bandeja paisa, with all the canonical Colombian sides arranged around. Drink: Club Colombia beer, aguardiente, or fresh limonada de coco.
+As the centerpiece of bandeja paisa, with all the traditional Colombian sides arranged around. Drink: Club Colombia beer, aguardiente, or fresh limonada de coco.
 
 ## Storage
 - Best eaten immediately while warm.

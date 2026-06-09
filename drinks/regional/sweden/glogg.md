@@ -53,7 +53,7 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 1. In a large saucepan, combine the wine (including any infusion liquid), akvavit, port (if using), sugar, and all the spice-bag ingredients (if not pre-infused).
 2. Heat slowly over LOW heat (do not boil; boiling burns off the alcohol).
 3. Stir occasionally to dissolve the sugar.
-4. Bring just to a steam (about 70-75°C, the canonical glögg temperature).
+4. Bring just to a steam (about 70-75°C, the traditional glögg temperature).
 5. Hold at this temperature for 10 minutes for the spices to release into the wine.
 
 ### Stage 3 - Plump the raisins (optional)
@@ -78,7 +78,7 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 ## Notes
 - **Don't boil the glögg:** boiling burns off the alcohol and reduces the spices to bitter. Low heat, just steam.
 - **Cardamom is the Swedish signature:** Swedish glögg is more cardamom-forward than German Glühwein.
-- **Akvavit / vodka boost is essential:** glögg is meant to be properly alcoholic (12-15% ABV). The boost is canonical.
+- **Akvavit / vodka boost is essential:** glögg is meant to be properly alcoholic (12-15% ABV). The boost is traditional.
 - **Raisins-and-almonds in the cup:** the Swedish ritual; eat with a teaspoon after drinking.
 - **24-hour infusion improves depth:** worth doing if you have time.
 
@@ -86,7 +86,7 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 **Vit glögg (white glögg):** swap red wine for a dry white wine (riesling, gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
 **Bärglögg (berry glögg):** swap half the wine for lingonberry or elderberry juice; a less alcoholic Christmas-market version.
 **Children's glögg:** non-alcoholic - swap the wine for cranberry or red grape juice; same spices, same raisins-and-almonds.
-**Brewed glögg:** Swedish supermarkets sell pre-mixed bottled glögg ready to warm; quicker but less canonical.
+**Brewed glögg:** Swedish supermarkets sell pre-mixed bottled glögg ready to warm; quicker but less traditional.
 **Glögg-toddy:** with a generous splash of hot water for a milder, less wine-forward version.
 
 ## Serving

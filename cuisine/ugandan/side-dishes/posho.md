@@ -2,7 +2,7 @@
 
 ![Posho](resources/posho.jpg)
 
-*Uganda's stiff maize porridge: white cornmeal stirred into boiling water and worked hard with a wooden spoon till it pulls cleanly from the sides of the pot. Eaten with the hands across East Africa to scoop up stews and groundnut sauces.*
+*Uganda's stiff maize porridge: white cornmeal stirred into boiling water and worked hard with a wooden spoon till it pulls cleanly from the sides of the pot. Eat with the hands across East Africa to scoop up stews and groundnut sauces.*
 
 **Serves:** 4
 
@@ -53,7 +53,7 @@ Posho is Uganda's daily staple, the stiff white maize porridge that anchors most
 ## Notes
 - **Slurry first to avoid lumps:** the single most important step. Whisking maize meal into cold water makes a smooth lump-free base; tipping dry meal into boiling water creates immediate hard lumps that won't smooth out no matter how long you stir.
 - **Stirring is the work:** posho doesn't taste right unless it's been properly worked. The stirring develops the starch and gives the finished porridge its glossy stretchy texture. Underworked posho is pale, sticky and crumbly; properly worked posho is glossy and pulls in clean ribbons.
-- **Use a wooden paddle if you have one:** a proper mwiko (flat wooden paddle) is the canonical tool because it handles the stiffness of the porridge much better than a regular wooden spoon, which can break under the pressure. A sturdy-handled wooden spoon works for home quantities.
+- **Use a wooden paddle if you have one:** a proper mwiko (flat wooden paddle) is the traditional tool because it handles the stiffness of the porridge much better than a regular wooden spoon, which can break under the pressure. A sturdy-handled wooden spoon works for home quantities.
 - **No salt traditionally:** plain posho has no salt in Uganda traditionally; the salt comes from whatever stew or sauce it's eaten with. Add a pinch if you want, but it's not necessary.
 - **Eats well cold:** leftover posho is sliced and pan-fried in oil for the next day's breakfast (mukene-and-posho is a common village breakfast), or rolled into small balls and dropped into clear soups.
 

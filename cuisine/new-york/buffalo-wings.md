@@ -2,7 +2,7 @@
 
 ![Buffalo Wings](resources/buffalo-wings.jpg)
 
-*Buffalo, New York's iconic chicken: deep-fried chicken wings tossed in a tangy hot buttery sauce made of cayenne hot sauce and butter, served with celery sticks and blue cheese dressing. Invented at the Anchor Bar in Buffalo in 1964; the canonical sports bar and Super Bowl snack.*
+*Buffalo, New York's iconic chicken: deep-fried chicken wings tossed in a tangy hot buttery sauce made of cayenne hot sauce and butter, served with celery sticks and blue cheese dressing. Invented at the Anchor Bar in Buffalo in 1964; the traditional sports bar and Super Bowl snack.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's most beloved bar foods and were invented at the Anchor Bar in Buffalo in 1964 by Teressa Bellissimo, who reportedly made them on the spot for her son and his friends with what she had in the kitchen: chicken wings (the whole wing, separated into the drumette and the flat) deep-fried till crispy (no breading, just deep-fried as-is), then tossed in a sauce of Frank's RedHot original sauce (the canonical brand) and melted butter (the canonical proportion is 1:1 by volume, with some preferring more or less butter). Served with celery sticks and blue cheese dressing (or ranch in much of America, though blue cheese is the Buffalo original).
+Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's most beloved bar foods and were invented at the Anchor Bar in Buffalo in 1964 by Teressa Bellissimo, who reportedly made them on the spot for her son and his friends with what she had in the kitchen: chicken wings (the whole wing, separated into the drumette and the flat) deep-fried till crispy (no breading, just deep-fried as-is), then tossed in a sauce of Frank's RedHot original sauce (the traditional brand) and melted butter (the traditional proportion is 1:1 by volume, with some preferring more or less butter). Served with celery sticks and blue cheese dressing (or ranch in much of America, though blue cheese is the Buffalo original).
 
 ## Ingredients
 
@@ -25,7 +25,7 @@ Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's
 - Vegetable oil for deep-frying (about 1.5 litres)
 
 ### Buffalo sauce
-- 120 ml Frank's RedHot sauce (canonical)
+- 120 ml Frank's RedHot sauce (traditional)
 - 120 g butter
 - 1 tablespoon Worcestershire sauce
 - 1 tablespoon white vinegar
@@ -91,7 +91,7 @@ Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's
 
 ## Notes
 - **Pat wings VERY dry:** for crispy skin.
-- **Frank's RedHot canonical:** other hot sauces are too thick/wrong.
+- **Frank's RedHot traditional:** other hot sauces are too thick/wrong.
 - **Blue cheese not ranch:** Buffalo original.
 - **Eat immediately while hot.**
 

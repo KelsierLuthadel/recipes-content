@@ -2,7 +2,7 @@
 
 ![Selsko Meso](resources/selsko-meso.jpg)
 
-*North Macedonia's village-style pork casserole: cubed pork shoulder slow-simmered in a clay pot with onion, mushrooms, paprika and white wine, sometimes finished with melted Kashkaval cheese on top. The canonical Macedonian gostilna dish; rich, deeply savoury, deeply Balkan.*
+*North Macedonia's village-style pork casserole: cubed pork shoulder slow-simmered in a clay pot with onion, mushrooms, paprika and white wine, sometimes finished with melted Kashkaval cheese on top. The traditional Macedonian gostilna dish; rich, deeply savoury, deeply Balkan.*
 
 **Serves:** 6
 
@@ -60,7 +60,7 @@ Selsko meso (literally "village meat") is one of Macedonia's most beloved restau
 **With dumplings:** poach small dumplings in the sauce.
 
 ## Serving
-At a Macedonian gostilna (canonical) · at a Macedonian winter Sunday lunch · at home as a hearty family supper.
+At a Macedonian gostilna (traditional) · at a Macedonian winter Sunday lunch · at home as a hearty family supper.
 
 ## Storage
 Refrigerates 4 days; flavour improves. Freezes 3 months.

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Sindhi biryani is the celebration rice dish of Sindh province, distinguished from every other regional biryani by two markers: dried plums (alu bukhara) tucked between the layers for a sweet-sour edge, and an aggressively spiced yogurt marinade for the meat. The deep dark fried onions are non-negotiable; pale onions give bland biryani, so push the colour till the edges are on the verge of burnt. Parboiling the basmati to 70% is the other critical bit, since fully cooked rice goes to mush in the dum stage. Layered in the pot with the braised mutton at the bottom, the rice over, then dried plums, slit green chillies, mint, coriander, lemon juice, saffron milk in streaks and ghee, sealed and steamed on the lowest heat for twenty minutes. Lift portions gently from rice through to mutton without mashing. Eaten with raita and a lemon wedge.
+Sindhi biryani is the celebration rice dish of Sindh province, distinguished from every other regional biryani by two markers: dried plums (alu bukhara) tucked between the layers for a sweet-sour edge, and an aggressively spiced yogurt marinade for the meat. The deep dark fried onions are non-negotiable; pale onions give bland biryani, so push the colour till the edges are on the verge of burnt. Parboiling the basmati to 70% is the other critical bit, since fully cooked rice goes to mush in the dum stage. Layered in the pot with the braised mutton at the bottom, the rice over, then dried plums, slit green chillies, mint, coriander, lemon juice, saffron milk in streaks and ghee, sealed and steamed on the lowest heat for twenty minutes. Lift portions gently from rice through to mutton without mashing. Eat with raita and a lemon wedge.
 
 ## Ingredients
 

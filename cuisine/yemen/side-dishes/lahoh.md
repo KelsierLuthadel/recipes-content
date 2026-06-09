@@ -2,7 +2,7 @@
 
 ![Lahoh](resources/lahoh.jpg)
 
-*Yemeni sourdough flatbread, cooked on a hot dry pan: spongy, tangy, full of small even holes like an English crumpet, but pliable and torn rather than buttered. Eaten with saltah, fahsa or anything brothy that needs scooping. The fermentation gives it a slight sourness; the holes catch the sauce.*
+*Yemeni sourdough flatbread, cooked on a hot dry pan: spongy, tangy, full of small even holes like an English crumpet, but pliable and torn rather than buttered. Eat with saltah, fahsa or anything brothy that needs scooping. The fermentation gives it a slight sourness; the holes catch the sauce.*
 
 **Serves:** 4 (makes 6 lahoh)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Lahoh is Yemen's sourdough crumpet: a fermented spongy flatbread cooked on a hot dry pan with the characteristic crater of small even holes across the top, like an English crumpet but pliable and torn rather than buttered. The holes catch the saltah and fahsa sauces; the slight sourness from the overnight ferment carries the rich stews behind it. Three rules. A properly fermented batter: thin and runny like single cream, left for eight hours or overnight to go bubbly and pleasantly sour. A medium-hot pan: too hot and the holes seal before they burst, too cool and they form sluggishly. One-side-only cook: flipping turns lahoh into a pancake, not the proper crumpet-spongy texture. Slid onto a plate as it comes off the pan, covered with a tea towel to keep warm and soft. Eaten warm, torn into pieces to scoop saltah, fahsa or any Yemeni stew that wants mopping.
+Lahoh is Yemen's sourdough crumpet: a fermented spongy flatbread cooked on a hot dry pan with the characteristic crater of small even holes across the top, like an English crumpet but pliable and torn rather than buttered. The holes catch the saltah and fahsa sauces; the slight sourness from the overnight ferment carries the rich stews behind it. Three rules. A properly fermented batter: thin and runny like single cream, left for eight hours or overnight to go bubbly and pleasantly sour. A medium-hot pan: too hot and the holes seal before they burst, too cool and they form sluggishly. One-side-only cook: flipping turns lahoh into a pancake, not the proper crumpet-spongy texture. Slid onto a plate as it comes off the pan, covered with a tea towel to keep warm and soft. Eat warm, torn into pieces to scoop saltah, fahsa or any Yemeni stew that wants mopping.
 
 ## Ingredients
 

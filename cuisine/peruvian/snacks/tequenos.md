@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Tequeños are originally from Venezuela; the name comes from "Los Teques", a Venezuelan town. They migrated to Peru and Colombia in the 20th century and were enthusiastically adopted into both cuisines. The Peruvian version uses a slightly different cheese (queso paria or queso fresco, Peruvian semi-firm white cheese) and is served with distinctly Peruvian dipping sauces. Huancaína sauce or guacamole are the canonical pairings; some Lima homes serve both. Queso paria is similar to mild Mexican queso panela or Greek halloumi; outside Peru, halloumi is the closest substitute (mozzarella melts too much). Cut the cheese into batons about 6 × 1 × 1 cm, wrap in spirals of thin wheat-flour dough, deep-fry at 180 °C for ninety seconds till deep golden. The cheese should soften but not melt out, which is the secret of a proper tequeño. The standard Lima reception or birthday-party canapé.
+Tequeños are originally from Venezuela; the name comes from "Los Teques", a Venezuelan town. They migrated to Peru and Colombia in the 20th century and were enthusiastically adopted into both cuisines. The Peruvian version uses a slightly different cheese (queso paria or queso fresco, Peruvian semi-firm white cheese) and is served with distinctly Peruvian dipping sauces. Huancaína sauce or guacamole are the traditional pairings; some Lima homes serve both. Queso paria is similar to mild Mexican queso panela or Greek halloumi; outside Peru, halloumi is the closest substitute (mozzarella melts too much). Cut the cheese into batons about 6 × 1 × 1 cm, wrap in spirals of thin wheat-flour dough, deep-fry at 180 °C for ninety seconds till deep golden. The cheese should soften but not melt out, which is the secret of a proper tequeño. The standard Lima reception or birthday-party canapé.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 ### For frying
 - 1.5 litres sunflower or groundnut oil
 
-### The dipping sauces (canonical Peruvian; pick one or both)
+### The dipping sauces (traditional Peruvian; pick one or both)
 
 **Sauce 1 - Huancaína dip:**
 - 4 tablespoons aji amarillo paste
@@ -118,7 +118,7 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 **Baked tequeños:** brush with oil; bake at 220°C for 10-12 minutes - lighter, less crisp.
 
 ## Serving
-At a Lima reception or wedding (the canonical setting) · at a Peruvian birthday party · at a Peruvian Sunday family lunch as a starter · at a Peruvian Independence Day buffet · at a Lima café for a 4 pm tea · at home as a Saturday-night drinks-and-snacks plate · paired with cold beer or chicha morada.
+At a Lima reception or wedding (the traditional setting) · at a Peruvian birthday party · at a Peruvian Sunday family lunch as a starter · at a Peruvian Independence Day buffet · at a Lima café for a 4 pm tea · at home as a Saturday-night drinks-and-snacks plate · paired with cold beer or chicha morada.
 
 ## Storage
 - The raw wrapped tequeños can be made and refrigerated for 24 hours before frying; or frozen 2 months and fried from frozen (add 30 seconds frying time).

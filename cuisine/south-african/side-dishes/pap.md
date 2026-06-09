@@ -2,7 +2,7 @@
 
 ![Pap](resources/pap.jpg)
 
-*South Africa's stiff maize porridge: white cornmeal stirred into boiling salted water and worked hard till it pulls cleanly from the pot in a glossy ribbon. Eaten at every braai with grilled boerewors or chakalaka, the everyday starch staple across the country.*
+*South Africa's stiff maize porridge: white cornmeal stirred into boiling salted water and worked hard till it pulls cleanly from the pot in a glossy ribbon. Eat at every braai with grilled boerewors or chakalaka, the everyday starch staple across the country.*
 
 **Serves:** 6
 
@@ -59,7 +59,7 @@ Pap (pronounced "pup", from the Afrikaans for porridge) is South Africa's everyd
 - **Slurry-first technique:** the single most important rule. Whisking maize meal into cold water makes a smooth lump-free base. Tipping dry meal into boiling water gives you immediate hard lumps that no amount of stirring will smooth out.
 - **Work the pap hard:** like its African porridge cousins, pap needs proper stirring to develop the gloss and stretch. Underworked pap is pale, sticky and crumbly; properly worked stywe pap is glossy and pulls in clean ribbons.
 - **Three consistencies, one technique:** stywe pap (stiff, worked hard till it pulls clean), krummelpap (crumbly, less water, cooked till the grains stay distinct), slap pap (loose, less worked, eaten as breakfast porridge). Same starting technique; the difference is the water-to-meal ratio and how hard you work it. This recipe is stywe pap.
-- **White or yellow maize meal:** South African pap is typically white maize meal. Yellow maize meal is used too in some homes, particularly in rural areas; it gives a slightly sweeter porridge with more pronounced corn flavour. White is the canonical braai-pap; yellow is fine but less traditional.
+- **White or yellow maize meal:** South African pap is typically white maize meal. Yellow maize meal is used too in some homes, particularly in rural areas; it gives a slightly sweeter porridge with more pronounced corn flavour. White is the traditional braai-pap; yellow is fine but less traditional.
 - **Eats well cold:** leftover pap can be sliced and pan-fried in oil for the next day's breakfast (called braaibroodjie when also pressed with cheese), or shaped into balls and dropped into clear stews. Don't waste pap; it has lots of secondary uses.
 
 ## Variations

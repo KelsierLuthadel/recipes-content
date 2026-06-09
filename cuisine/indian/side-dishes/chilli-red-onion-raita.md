@@ -11,7 +11,7 @@
 **Cook Time:** 1 minute
 
 ## Overview
-The raita with a sharper edge than the everyday cucumber version: cool whisked full-fat yogurt anchored with finely chopped red onion, toasted cumin, a slit green chilli for heat, and a final scatter of fresh coriander and chilli powder. The dish does the same essential cooling work next to a hot curry as plain raita, but the onion gives a peppery bite that stands up better to the bigger flavours of biryani, jalfrezi or vindaloo. Toasted ground cumin (whole seeds toasted in a dry pan and ground) gives the earthy backbone; supermarket pre-ground cumin tastes pale and dusty in comparison. The red onion benefits from a brief salt-and-rinse to mellow the raw sting. Full-fat natural yogurt is the canonical base; low-fat yogurt thins out and weeps water on the plate. Served in a small bowl at the centre of the table.
+The raita with a sharper edge than the everyday cucumber version: cool whisked full-fat yogurt anchored with finely chopped red onion, toasted cumin, a slit green chilli for heat, and a final scatter of fresh coriander and chilli powder. The dish does the same essential cooling work next to a hot curry as plain raita, but the onion gives a peppery bite that stands up better to the bigger flavours of biryani, jalfrezi or vindaloo. Toasted ground cumin (whole seeds toasted in a dry pan and ground) gives the earthy backbone; supermarket pre-ground cumin tastes pale and dusty in comparison. The red onion benefits from a brief salt-and-rinse to mellow the raw sting. Full-fat natural yogurt is the traditional base; low-fat yogurt thins out and weeps water on the plate. Served in a small bowl at the centre of the table.
 
 ## Ingredients
 - 1 teaspoon cumin seeds

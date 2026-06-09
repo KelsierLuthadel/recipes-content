@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sevaiyan is the drier cousin of sheer khurma and the morning-of-Eid breakfast in every Pakistani and North Indian household, eaten warm in small bowls with sweet milky tea before the day's feasting begins. Fine vermicelli toasts golden in ghee, then simmers with milk, sugar, cardamom and a thread of saffron until the strands swell and the liquid disappears into a glossy tangle dotted with raisins, almonds and pistachios. The difference from sheer khurma is the texture: where sheer khurma is loose and pudding-like, sevaiyan stays drier with the strands distinct rather than collapsing into a porridge. If you can find pre-roasted vermicelli in the packet you can skip the toasting step. Eaten warm in small bowls, with extra slivered pistachios scattered on top.
+Sevaiyan is the drier cousin of sheer khurma and the morning-of-Eid breakfast in every Pakistani and North Indian household, eaten warm in small bowls with sweet milky tea before the day's feasting begins. Fine vermicelli toasts golden in ghee, then simmers with milk, sugar, cardamom and a thread of saffron until the strands swell and the liquid disappears into a glossy tangle dotted with raisins, almonds and pistachios. The difference from sheer khurma is the texture: where sheer khurma is loose and pudding-like, sevaiyan stays drier with the strands distinct rather than collapsing into a porridge. If you can find pre-roasted vermicelli in the packet you can skip the toasting step. Eat warm in small bowls, with extra slivered pistachios scattered on top.
 
 ## Ingredients
 

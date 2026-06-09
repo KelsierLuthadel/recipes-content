@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Tunisian fricassé is the deep-fried sandwich bun that turns up at every street-corner stand around lunchtime in Tunis and Sousse. A light yeasted dough fries into puffed hollow buns, each one a perfect pocket waiting to be split and stuffed. The filling is generous: tuna mashed with harissa, slices of hard-boiled egg, capers, olive halves and a sliver of preserved lemon for the salty-floral lift that makes a fricassé feel distinctly Tunisian. Get the oil properly hot before the dough goes in or the buns won't puff. Eaten warm and right away, while the shell is still crisp and the inside still soft. Once they sit, the bread starts to soften and the contrast is gone.
+The Tunisian fricassé is the deep-fried sandwich bun that turns up at every street-corner stand around lunchtime in Tunis and Sousse. A light yeasted dough fries into puffed hollow buns, each one a perfect pocket waiting to be split and stuffed. The filling is generous: tuna mashed with harissa, slices of hard-boiled egg, capers, olive halves and a sliver of preserved lemon for the salty-floral lift that makes a fricassé feel distinctly Tunisian. Get the oil properly hot before the dough goes in or the buns won't puff. Eat warm and right away, while the shell is still crisp and the inside still soft. Once they sit, the bread starts to soften and the contrast is gone.
 
 ## Ingredients
 

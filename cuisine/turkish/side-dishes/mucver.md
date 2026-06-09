@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and a staple of the Turkish meze table. The dish is a study in the Turkish summer vegetable garden: courgette is at its peak in July and August; dill, mint and parsley are everywhere. The most common error is using under-drained grated courgette: fritters then go soggy and need too much flour to bind. The fix is to salt the grated courgette, let it sit fifteen minutes, then squeeze in a clean cloth till nearly dry. The mix then goes generous on the herbs (dill is the canonical Turkish herb here, with mint, parsley and spring onions alongside; skimping gives bland fritters), bound with egg and just enough flour to hold together. Pan-fried in olive oil till the outside is deeply golden and the inside is tender and herb-flecked. Served warm with thick drained yogurt for dipping: often a garlic yogurt with a clove crushed in and a pinch of salt.
+Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and a staple of the Turkish meze table. The dish is a study in the Turkish summer vegetable garden: courgette is at its peak in July and August; dill, mint and parsley are everywhere. The most common error is using under-drained grated courgette: fritters then go soggy and need too much flour to bind. The fix is to salt the grated courgette, let it sit fifteen minutes, then squeeze in a clean cloth till nearly dry. The mix then goes generous on the herbs (dill is the traditional Turkish herb here, with mint, parsley and spring onions alongside; skimping gives bland fritters), bound with egg and just enough flour to hold together. Pan-fried in olive oil till the outside is deeply golden and the inside is tender and herb-flecked. Served warm with thick drained yogurt for dipping: often a garlic yogurt with a clove crushed in and a pinch of salt.
 
 ## Ingredients
 
@@ -32,7 +32,7 @@ Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and
 ### Frying
 - 80 ml olive oil (or a mix of olive and vegetable oil; vegetable oil withstands higher heat)
 
-### Garlic yogurt (the canonical accompaniment)
+### Garlic yogurt (the traditional accompaniment)
 - 300 g thick Greek-style yogurt
 - 2 garlic cloves (finely crushed)
 - ½ teaspoon fine sea salt
@@ -86,7 +86,7 @@ Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and
 ## Notes
 - **Salt and drain the courgette properly:** the 15-minute salt and squeeze step is essential. Under-drained courgette gives soggy fritters that require too much flour. Squeeze hard.
 - **Plenty of fresh herbs:** the dill, mint and parsley are not garnishes but main ingredients. Use the full quantity; the fritters should be visibly herb-flecked.
-- **Feta is canonical; Turkish beyaz peynir is best:** the Turkish white cheese (beyaz peynir) is slightly tangier and crumblier than feta; if you can find it, use it. Greek feta is the everyday substitute.
+- **Feta is traditional; Turkish beyaz peynir is best:** the Turkish white cheese (beyaz peynir) is slightly tangier and crumblier than feta; if you can find it, use it. Greek feta is the everyday substitute.
 - **Just enough flour:** 80 g for 700 g of squeezed courgette is the right ratio. More gives doughy fritters; less gives ones that fall apart.
 - **Eat warm:** mücver loses its proper texture as it cools. Best fresh out of the pan.
 
@@ -97,7 +97,7 @@ Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and
 **Spicy mücver:** add 1 finely chopped fresh red chilli to the mix; gives a properly warm fritter.
 
 ## Serving
-On a meze plate alongside other small Turkish appetisers: cacık (yogurt-cucumber), haydari (yogurt-feta-mint), patlıcan salatası (smoky aubergine), ezme (spicy tomato paste). With warm Turkish flatbread or pide. Drink: ayran, rakı (the canonical meze pairing), or chilled rosé.
+On a meze plate alongside other small Turkish appetisers: cacık (yogurt-cucumber), haydari (yogurt-feta-mint), patlıcan salatası (smoky aubergine), ezme (spicy tomato paste). With warm Turkish flatbread or pide. Drink: ayran, rakı (the traditional meze pairing), or chilled rosé.
 
 ## Storage
 - Best eaten warm and fresh; the crispness fades as they cool.

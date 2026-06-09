@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Bourek tunisien is Tunisia's Ramadan cigar, the iftar staple sold from every souk stall and made in batches in family kitchens through the holy month. Warka pastry wraps around a savoury filling of mashed potato, drained tuna, harissa and capers, lifted with caraway and a squeeze of lemon. The signature move is the raw egg cracked into a small well in the filling just before rolling, so it sets inside the parcel as the pastry fries golden. The yolk wants to stay slightly runny, which means working quickly once the egg is in and frying right away. Eaten hot, straight from the rack, with lemon wedges, extra harissa and a small bowl of slata mechouia alongside.
+Bourek tunisien is Tunisia's Ramadan cigar, the iftar staple sold from every souk stall and made in batches in family kitchens through the holy month. Warka pastry wraps around a savoury filling of mashed potato, drained tuna, harissa and capers, lifted with caraway and a squeeze of lemon. The signature move is the raw egg cracked into a small well in the filling just before rolling, so it sets inside the parcel as the pastry fries golden. The yolk wants to stay slightly runny, which means working quickly once the egg is in and frying right away. Eat hot, straight from the rack, with lemon wedges, extra harissa and a small bowl of slata mechouia alongside.
 
 ## Ingredients
 

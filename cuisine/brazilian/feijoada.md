@@ -87,7 +87,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 ### Stage 7 - Finish
 1. Taste; adjust salt (the cured meats provide most of the salt, but adjust).
 2. Remove and discard the bay leaves.
-3. For the canonical Brazilian texture: lift out about a cup of the beans, mash with a fork, and stir back in. This thickens the broth.
+3. For the traditional Brazilian texture: lift out about a cup of the beans, mash with a fork, and stir back in. This thickens the broth.
 
 ### Stage 8 - The accompaniments (made simultaneously)
 1. Cook the rice.
@@ -99,7 +99,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 ### Stage 9 - Serve
 1. The Brazilian way: serve in a clay or earthenware pot in the centre of the table.
 2. Each person takes a plate with a generous spoon of feijoada, a mound of rice, a small pile of collards, a spoonful of farofa, a few orange segments on the side, and a sprinkle of raw red onion over.
-3. Eat with a glass of very cold beer (the canonical pairing) or a caipirinha.
+3. Eat with a glass of very cold beer (the traditional pairing) or a caipirinha.
 4. Conversation around the table is mandatory; the lunch should last 2-3 hours.
 
 ## Notes
@@ -107,7 +107,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 - **Long slow simmer (3-4 hours):** undercooked feijoada has tough beans and meat. Don't rush.
 - **Desalt the carne seca:** if you don't, the whole pot is over-salted.
 - **All the accompaniments:** rice, collards, farofa, orange, raw onion - feijoada without the spread is incomplete.
-- **Saturday lunch:** the canonical day in Brazil. Don't make for a quick Tuesday dinner; this is a slow Saturday affair.
+- **Saturday lunch:** the traditional day in Brazil. Don't make for a quick Tuesday dinner; this is a slow Saturday affair.
 
 ## Variations
 **Feijoada light (modern, less pork):** use only pork shoulder, smoked sausage, and bacon - lighter, more weeknight-friendly. Less authentic.
@@ -119,7 +119,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 **Beef-only feijoada:** swap all pork for beef chuck, smoked beef sausage, and smoked beef ribs - for halal/non-pork eaters.
 
 ## Serving
-At a Saturday-afternoon Brazilian family lunch (the canonical setting) · at a Rio de Janeiro botequim (corner restaurant) on Saturdays · at a Brazilian-Portuguese wedding lunch · at a Brazilian carnival party · at a Brazilian football-watching gathering · at a Brazilian birthday celebration · at home with friends for a long lazy weekend afternoon · at a New Year's Day brunch.
+At a Saturday-afternoon Brazilian family lunch (the traditional setting) · at a Rio de Janeiro botequim (corner restaurant) on Saturdays · at a Brazilian-Portuguese wedding lunch · at a Brazilian carnival party · at a Brazilian football-watching gathering · at a Brazilian birthday celebration · at home with friends for a long lazy weekend afternoon · at a New Year's Day brunch.
 
 ## Storage
 - Refrigerates 4 days; the flavour improves over the first 2 days.

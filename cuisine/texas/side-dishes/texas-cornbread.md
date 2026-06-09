@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Texas cornbread is the Lone Star State's signature cornbread: a batter made from yellow cornmeal, plain flour (Texas style uses some flour for a slightly tenderer crumb), buttermilk, eggs, melted butter (or bacon fat for proper Texan), with chopped fresh jalapeños and grated sharp cheddar folded in. The batter is poured into a screaming-hot, well-oiled cast-iron skillet (the canonical Texan vessel) and baked at 200°C till the bottom and edges crust deeply golden and the centre is just set. The Texan version distinguishes itself from Northern American sweet cornbread (which has more sugar and flour) by the savory direction - Texas cornbread is mostly cornmeal, mostly savory, with jalapeños and cheese as the Texan touch.
+Texas cornbread is the Lone Star State's signature cornbread: a batter made from yellow cornmeal, plain flour (Texas style uses some flour for a slightly tenderer crumb), buttermilk, eggs, melted butter (or bacon fat for proper Texan), with chopped fresh jalapeños and grated sharp cheddar folded in. The batter is poured into a screaming-hot, well-oiled cast-iron skillet (the traditional Texan vessel) and baked at 200°C till the bottom and edges crust deeply golden and the centre is just set. The Texan version distinguishes itself from Northern American sweet cornbread (which has more sugar and flour) by the savory direction - Texas cornbread is mostly cornmeal, mostly savory, with jalapeños and cheese as the Texan touch.
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ Texas cornbread is the Lone Star State's signature cornbread: a batter made from
 
 ## Notes
 - **Hot skillet:** essential for the proper crispy bottom.
-- **Bacon fat for greasing:** the canonical Texan touch.
+- **Bacon fat for greasing:** the traditional Texan touch.
 - **Jalapeños and cheese:** the Texan signature.
 - **Less sugar than Northern cornbread:** the Texan way.
 
@@ -77,4 +77,4 @@ Warm with butter, honey, or just plain. Alongside any Texas BBQ, chili, or as th
 ## Storage
 - Keeps 2 days at room temperature in a sealed container.
 - Refrigerated 5 days; reheat in oven.
-- Day-old cornbread is the canonical base for cornbread dressing (the Texan-Southern stuffing).
+- Day-old cornbread is the traditional base for cornbread dressing (the Texan-Southern stuffing).

@@ -2,7 +2,7 @@
 
 ![Gado-Gado](resources/gado-gado.jpg)
 
-*Indonesia's vegetable salad with peanut sauce: barely-cooked beans, cabbage, beansprouts and potato draped in a thick, spicy, lime-sharp peanut dressing. Eaten cool or warm; the dressing is the dish.*
+*Indonesia's vegetable salad with peanut sauce: barely-cooked beans, cabbage, beansprouts and potato draped in a thick, spicy, lime-sharp peanut dressing. Eat cool or warm; the dressing is the dish.*
 
 **Serves:** 4
 

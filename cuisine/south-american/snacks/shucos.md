@@ -91,7 +91,7 @@ The shuco is Guatemala's national hot dog and a fixture of Guatemala City street
 
 ## Notes
 - **Corn tortilla, not bread:** the Guatemalan structural signature.
-- **Avocado smeared inside:** the canonical green coating; not optional.
+- **Avocado smeared inside:** the traditional green coating; not optional.
 - **Bacon-wrapped dog:** the Tijuana/Sonoran influence; Guatemala adopted it.
 - **Roll tight:** loose rolls fall apart when eaten.
 

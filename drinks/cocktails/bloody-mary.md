@@ -64,7 +64,7 @@ The Bloody Mary is the savoury cocktail, the brunch staple, and one of the most 
 
 ## Notes
 - **Roll, don't shake.** Shaking aerates the tomato juice and gives a thin, foamy drink. Rolling (pouring between two vessels) combines without aerating.
-- **Adjust seasoning to taste.** Bloody Mary recipes are individual; build it the canonical way once, then tweak. More horseradish if you like sinus-clearing heat; more Worcestershire for umami depth; more lemon for brightness.
+- **Adjust seasoning to taste.** Bloody Mary recipes are individual; build it the traditional way once, then tweak. More horseradish if you like sinus-clearing heat; more Worcestershire for umami depth; more lemon for brightness.
 - **Quality tomato juice.** Watery supermarket-basics tomato juice gives a thin, lifeless drink. Look for thick tomato juice (Big Tom, Sacla) or use passata diluted slightly.
 - **Garnish as theatre.** A celery stalk is the minimum; a strip of crispy bacon, a pickled green bean, a fat king prawn, a small wedge of cheese on a cocktail stick all turn the drink into a small meal.
 

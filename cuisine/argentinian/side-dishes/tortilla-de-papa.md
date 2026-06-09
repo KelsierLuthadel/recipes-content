@@ -2,7 +2,7 @@
 
 ![Tortilla de Papa](resources/tortilla-de-papa.jpg)
 
-*Argentina's Spanish-immigrant potato omelette: thin slices of potato and onion gently cooked in olive oil till tender and golden, then bound with beaten egg and cooked flat in a heavy pan till just-set with a slightly runny centre. Eaten warm or cold, sliced into wedges, served as a tapa, a side, or as the filling for a Spanish-Argentine sandwich (sandwich de tortilla). The everyday Argentine kitchen staple.*
+*Argentina's Spanish-immigrant potato omelette: thin slices of potato and onion gently cooked in olive oil till tender and golden, then bound with beaten egg and cooked flat in a heavy pan till just-set with a slightly runny centre. Eat warm or cold, sliced into wedges, served as a tapa, a side, or as the filling for a Spanish-Argentine sandwich (sandwich de tortilla). The everyday Argentine kitchen staple.*
 
 **Serves:** 6 (as a side; 4 as a main)
 
@@ -83,7 +83,7 @@ Tortilla de papa (literally "potato tortilla"; tortilla española in Spain) arri
 ## Notes
 - **Confit, not fry:** the potatoes should cook slowly in oil, not deep-fry. Soft and golden.
 - **Use a heavy non-stick pan:** the flip is hard without one.
-- **Slightly soft centre:** the canonical Spanish-Argentine tortilla has a slightly runny middle. Don't overcook to dry.
+- **Slightly soft centre:** the traditional Spanish-Argentine tortilla has a slightly runny middle. Don't overcook to dry.
 - **Rest before slicing:** lets the egg settle.
 - **Reserve the oil:** the potato-onion-infused olive oil is excellent for next time, or for vinaigrettes.
 
@@ -97,10 +97,10 @@ Tortilla de papa (literally "potato tortilla"; tortilla española in Spain) arri
 **Mini tortillas:** make small individual tortillas in a frying pan or muffin tin - canapé portions.
 
 ## Serving
-At an Argentine bodegón as a tapa starter (the canonical setting) · alongside an asado as a side · split into a roll for "sandwich de tortilla" (the office-lunch staple) · at an Argentine wedding canapé reception · with a glass of Malbec at a Buenos Aires café · at home as a quick weekday supper with a green salad.
+At an Argentine bodegón as a tapa starter (the traditional setting) · alongside an asado as a side · split into a roll for "sandwich de tortilla" (the office-lunch staple) · at an Argentine wedding canapé reception · with a glass of Malbec at a Buenos Aires café · at home as a quick weekday supper with a green salad.
 
 ## Storage
 - Refrigerates 3 days; eat cold or reheat briefly in a hot pan.
-- Cold tortilla in a sandwich is the canonical Argentine next-day lunch.
+- Cold tortilla in a sandwich is the traditional Argentine next-day lunch.
 - Don't freeze (the egg texture suffers).
 - The flavour deepens overnight; many Argentines think day-2 tortilla is better than fresh.

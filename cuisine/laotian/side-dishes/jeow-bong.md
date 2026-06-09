@@ -2,7 +2,7 @@
 
 ![Jeow Bong](resources/jeow-bong.jpg)
 
-*Luang Prabang's canonical condiment: dry-roasted chillies, garlic and shallots pounded with palm sugar, fish sauce, lime and shreds of dried buffalo skin into a thick deep-red sweet-spicy-funky paste.*
+*Luang Prabang's traditional condiment: dry-roasted chillies, garlic and shallots pounded with palm sugar, fish sauce, lime and shreds of dried buffalo skin into a thick deep-red sweet-spicy-funky paste.*
 
 **Serves:** Makes 300 g paste (enough for many meals)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len (fresh tomato), jeow makheua (roasted aubergine), jeow makkok (sweet plum) and jeow bong (roasted chilli). The bong version is the Luang Prabang signature. The deep dry-roast is essential: dried red chillies, whole garlic cloves and whole shallots roast in a heavy pan over medium heat for eight to ten minutes till the skins blacken at the edges and the insides soften. Under-roasted ingredients give a sharp, raw-tasting paste; you want proper char. The dried buffalo skin (or pork skin) is the canonical Luang Prabang addition, rehydrated, finely chopped and pounded in to give the paste body and a faint umami chewiness. Crispy pork crackling substitutes outside Laos. Everything pounds (not blends) in a tall clay mortar: chillies first to a coarse powder, then garlic-shallot to a paste, then the dried meat, then the wet ingredients. Spooned alongside sticky rice, sai oua, grilled meat, raw vegetables or steamed greens.
+Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len (fresh tomato), jeow makheua (roasted aubergine), jeow makkok (sweet plum) and jeow bong (roasted chilli). The bong version is the Luang Prabang signature. The deep dry-roast is essential: dried red chillies, whole garlic cloves and whole shallots roast in a heavy pan over medium heat for eight to ten minutes till the skins blacken at the edges and the insides soften. Under-roasted ingredients give a sharp, raw-tasting paste; you want proper char. The dried buffalo skin (or pork skin) is the traditional Luang Prabang addition, rehydrated, finely chopped and pounded in to give the paste body and a faint umami chewiness. Crispy pork crackling substitutes outside Laos. Everything pounds (not blends) in a tall clay mortar: chillies first to a coarse powder, then garlic-shallot to a paste, then the dried meat, then the wet ingredients. Spooned alongside sticky rice, sai oua, grilled meat, raw vegetables or steamed greens.
 
 ## Ingredients
 
@@ -20,7 +20,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 - 1 whole head garlic (about 10 cloves), peeled
 - 6 large shallots, peeled and halved
 
-### The dried meat (canonical Luang Prabang)
+### The dried meat (traditional Luang Prabang)
 - 30 g dried buffalo skin OR dried pork skin (sold at Lao / Thai grocers)
 - (Substitute: 50 g crispy pork crackling, broken into small bits)
 
@@ -28,7 +28,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 - 4 tablespoons palm sugar
 - 4 tablespoons fish sauce
 - 3 tablespoons fresh lime juice
-- 1 tablespoon padaek (Lao fermented fish sauce; optional but very canonical)
+- 1 tablespoon padaek (Lao fermented fish sauce; optional but very traditional)
 - 1 teaspoon salt
 - 2 tablespoons vegetable oil
 
@@ -62,7 +62,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 1. Taste; the paste should be sweet-spicy-funky in roughly equal parts.
 2. Adjust palm sugar for more sweetness; fish sauce for more salt; lime for more sour; chilli (an extra dry-toasted one ground in) for more heat.
 
-### Stage 5 - Cook briefly (optional but very canonical)
+### Stage 5 - Cook briefly (optional but very traditional)
 1. (The Luang Prabang home cook often cooks the paste briefly to deepen the flavour.) Transfer the paste to a small pan; warm over the lowest heat for 5-6 minutes, stirring.
 2. The paste darkens slightly and the flavours marry.
 
@@ -73,10 +73,10 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 
 ## Notes
 - **Deep-roast is essential:** under-roasted aromatics give a sharp, raw-tasting paste.
-- **Dried meat (or crackling):** the canonical Lao signature - skip and the paste is missing its identity.
-- **Mortar pounding gives the canonical texture:** a food processor gives a smoother paste; the mortar gives a coarse-rustic texture that's more Lao.
+- **Dried meat (or crackling):** the traditional Lao signature - skip and the paste is missing its identity.
+- **Mortar pounding gives the traditional texture:** a food processor gives a smoother paste; the mortar gives a coarse-rustic texture that's more Lao.
 - **Adjust to taste:** palm sugar, fish sauce, lime are all adjustable; the balance is the cook's signature.
-- **Cook briefly:** the canonical Luang Prabang move deepens the flavour. Skip if you want a fresher taste.
+- **Cook briefly:** the traditional Luang Prabang move deepens the flavour. Skip if you want a fresher taste.
 
 ## Variations
 **Vegetarian jeow bong:** skip the meat and fish sauce; use soy sauce + a teaspoon of doenjang for umami depth.
@@ -86,7 +86,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 **Smoky jeow bong:** add 1 teaspoon liquid smoke or smoked paprika - the modern variant.
 
 ## Serving
-At a Luang Prabang night market (the canonical setting; sold in small jars at the herb-and-spice stalls) · at every Lao home as the canonical condiment · alongside sticky rice + grilled meat + raw vegetables - the canonical Lao plate · in modern Lao-influenced cooking as a sandwich spread or a marinade base · paired with sai oua, laap, or grilled fish.
+At a Luang Prabang night market (the traditional setting; sold in small jars at the herb-and-spice stalls) · at every Lao home as the traditional condiment · alongside sticky rice + grilled meat + raw vegetables - the traditional Lao plate · in modern Lao-influenced cooking as a sandwich spread or a marinade base · paired with sai oua, laap, or grilled fish.
 
 ## Storage
 - Refrigerates 1 month in a clean sealed jar; the flavour deepens further over 2-3 weeks.

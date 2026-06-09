@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (in 2-3 batches)
 
 ## Overview
-Bannock is the canonical Indigenous bread of Canada, with roots that predate European arrival. The pre-contact version used wild grain flours (cattail root, wild rice, ground corn) mixed with water and fat and cooked on hot rocks or wrapped on green sticks over fires. The modern flour-based form post-dates the introduction of wheat flour by traders in the late 18th and 19th centuries. Today's Canadian Indigenous bannock uses wheat flour, a small amount of baking powder for lift (some traditional recipes are unleavened), salt, water or milk, and a spoon of lard, butter or vegetable oil. It's the most adaptable bread in Canada: pan-fried into "fry bread", oven-baked into thick discs, wrapped on a stick and toasted over a campfire, or shallow-fried into puffy plate-sized rounds associated with First Nations and Métis foodways. Eaten with butter and jam, with stews, with soup, with smoked fish, with maple syrup. This recipe is the pan-fried home version.
+Bannock is the traditional Indigenous bread of Canada, with roots that predate European arrival. The pre-contact version used wild grain flours (cattail root, wild rice, ground corn) mixed with water and fat and cooked on hot rocks or wrapped on green sticks over fires. The modern flour-based form post-dates the introduction of wheat flour by traders in the late 18th and 19th centuries. Today's Canadian Indigenous bannock uses wheat flour, a small amount of baking powder for lift (some traditional recipes are unleavened), salt, water or milk, and a spoon of lard, butter or vegetable oil. It's the most adaptable bread in Canada: pan-fried into "fry bread", oven-baked into thick discs, wrapped on a stick and toasted over a campfire, or shallow-fried into puffy plate-sized rounds associated with First Nations and Métis foodways. Eat with butter and jam, with stews, with soup, with smoked fish, with maple syrup. This recipe is the pan-fried home version.
 
 ## Ingredients
 
@@ -80,7 +80,7 @@ Bannock is the canonical Indigenous bread of Canada, with roots that predate Eur
 
 ## Variations
 **Oven-baked bannock (the "tea biscuit" cousin):** form into one large 25 cm disc; bake on a parchment-lined tray at 220°C (200°C fan) for 18-22 minutes till deep golden and a tester comes out clean. Cut into wedges.
-**Stick-wrapped bannock (canoe-trip / pow-wow style):** wrap a fist-sized ball of dough around the peeled end of a green stick (birch is canonical); toast over the embers of an open fire, turning slowly, 12-15 minutes till the outside is crisp and the inside cooked through.
+**Stick-wrapped bannock (canoe-trip / pow-wow style):** wrap a fist-sized ball of dough around the peeled end of a green stick (birch is traditional); toast over the embers of an open fire, turning slowly, 12-15 minutes till the outside is crisp and the inside cooked through.
 **Cinnamon-raisin bannock:** add 80 g raisins and 1 teaspoon ground cinnamon to the dough - the breakfast / sweet variant.
 **Cheddar bannock:** fold 100 g grated mature cheddar through the dough - the modern savoury variant.
 **Saskatoon-berry bannock:** fold 80 g fresh or dried Saskatoon berries through the dough; pan-fry as normal - the prairie variant.
@@ -90,7 +90,7 @@ Bannock is the canonical Indigenous bread of Canada, with roots that predate Eur
 **Sweet bannock with maple syrup:** drizzle warm maple syrup over the freshly-fried bannock - the sugar-shack lunch.
 
 ## Serving
-At an Indigenous community feast (the canonical setting) · at a First Nations powwow · at a Métis cultural event · at a Canadian camp or canoe trip · at a Yukon trapline cabin · at a Saskatchewan farm kitchen · at home as a side for chili, stew, or breakfast eggs · at an Indigenous-led restaurant (e.g. Salmon n' Bannock in Vancouver, NishDish in Toronto) · as the universal Canadian bread accompaniment.
+At an Indigenous community feast (the traditional setting) · at a First Nations powwow · at a Métis cultural event · at a Canadian camp or canoe trip · at a Yukon trapline cabin · at a Saskatchewan farm kitchen · at home as a side for chili, stew, or breakfast eggs · at an Indigenous-led restaurant (e.g. Salmon n' Bannock in Vancouver, NishDish in Toronto) · as the universal Canadian bread accompaniment.
 
 ## Storage
 - Best within 4 hours of cooking. After that the texture firms and the bannock loses its softness.

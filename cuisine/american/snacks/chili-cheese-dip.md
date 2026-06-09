@@ -2,7 +2,7 @@
 
 ![Chili Cheese Dip](resources/chili-cheese-dip.jpg)
 
-*The Super Bowl skillet dip: seasoned ground beef and beans bubbling under a melted-cheese cap, finished under the broiler. Eaten with tortilla chips.*
+*The Super Bowl skillet dip: seasoned ground beef and beans bubbling under a melted-cheese cap, finished under the broiler. Eat with tortilla chips.*
 
 **Serves:** 6-8 (as a sharing dip)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Ground beef browns in a wide oven-safe skillet with onion and garlic. Spices (chilli powder, cumin, oregano, smoked paprika) bloom in the fat. Tomato passata, kidney beans, a splash of stock, salt and pepper simmer for 20 minutes to thicken. Surface scatters with a thick layer of grated cheese (cheddar + Monterey Jack). Goes under a hot grill for 4-5 minutes till bubbling and crisped at the edges. Tops with sliced spring onion, jalapeños, soured cream. Eats hot with tortilla chips.
+Chili cheese dip is the American sharing-skillet that comes out of the oven on Super Bowl Sunday and at every back-deck football party from October to February: seasoned ground beef and beans bubbling under a thick cap of melted cheese, finished under the broiler till the edges crisp. You brown the beef hard in an oven-safe skillet with onion and garlic, then bloom chilli powder, cumin, oregano and smoked paprika in the fat so the spices toast rather than just dissolve. Tomato passata, kidney beans and a splash of stock simmer in for twenty minutes to thicken, then a generous handful each of cheddar and Monterey Jack scatters across the top. Under a hot grill for the final few minutes, the cheese bubbles to the centre and crisps round the edges into the traditional American "queso fundido" finish. Finished with sliced spring onion, pickled jalapeños and a few dollops of sour cream. Eat hot with tortilla chips, ideally still in the skillet on a wooden board at the centre of the coffee table.
 
 ## Ingredients
 

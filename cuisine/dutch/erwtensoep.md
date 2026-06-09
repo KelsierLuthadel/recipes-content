@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup and arguably the country's most identity-defining cold-weather dish after the stamppots. The thickness is the defining character; not a soup in the brothy French sense, but dense enough that a wooden spoon stands upright in the bowl. The canonical Dutch test is exactly that: if the spoon falls over, the soup isn't ready. Thickness comes from cooking green split peas for hours till they collapse entirely; no thickener is added, the natural starch does all the work. The meat is the Dutch winter combination of smoked ham hock plus smoked pork rib, with rookworst sausage joining near the end. The root vegetables are the canonical holy trinity of celeriac, carrot, leek and onion; substituting parsnip or swede gives a different soup. Eaten in deep bowls with sliced rookworst on top and katenspek on dark rye on the side. When the canals freeze, food stalls along them sell mugs of snert to skaters; the canonical Dutch winter street food.
+Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup and arguably the country's most identity-defining cold-weather dish after the stamppots. The thickness is the defining character; not a soup in the brothy French sense, but dense enough that a wooden spoon stands upright in the bowl. The traditional Dutch test is exactly that: if the spoon falls over, the soup isn't ready. Thickness comes from cooking green split peas for hours till they collapse entirely; no thickener is added, the natural starch does all the work. The meat is the Dutch winter combination of smoked ham hock plus smoked pork rib, with rookworst sausage joining near the end. The root vegetables are the traditional holy trinity of celeriac, carrot, leek and onion; substituting parsnip or swede gives a different soup. Eat in deep bowls with sliced rookworst on top and katenspek on dark rye on the side. When the canals freeze, food stalls along them sell mugs of snert to skaters; the traditional Dutch winter street food.
 
 ## Ingredients
 
@@ -21,7 +21,7 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 
 ### The meat
 - 1 smoked ham hock (about 600-800 g; rookhammetje in Dutch)
-- 1 smoked pork rib (krabbetje) OR 300 g smoked pork shoulder (optional but canonical)
+- 1 smoked pork rib (krabbetje) OR 300 g smoked pork shoulder (optional but traditional)
 - 2 thick Gelderse rookworst smoked sausages (about 300 g total), added at the end
 
 ### The vegetables (sweated together)
@@ -109,7 +109,7 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 - **Don't add salt early:** the smoked meat releases plenty of salt during the long cook. Taste before adding more.
 
 ## Variations
-**Erwtensoep met rookworst (the canonical home version):** as above with both ham hock + rookworst - what most Dutch families make.
+**Erwtensoep met rookworst (the traditional home version):** as above with both ham hock + rookworst - what most Dutch families make.
 **Snert without ham hock (lighter):** skip the ham hock; use a smoked turkey wing or just the rookworst - lighter, less rich.
 **Vegetarian erwtensoep:** skip all meat; use a strong vegetable stock + a teaspoon of smoked paprika + a teaspoon of liquid smoke; serve with a small dollop of crispy fried-onion shreds on top.
 **Modern Amsterdam restaurant variant:** serve in a small bowl with a sliced poached egg on top and a swirl of crème fraîche - bistro-fied.
@@ -119,7 +119,7 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 **Erwtensoep served at the Elfstedentocht ice-skating festival:** with hot mulled spirits (bisschopswijn) alongside.
 
 ## Serving
-At a Dutch winter family dinner (the canonical setting, December to February) · at an ice-skating shelter along a frozen Dutch canal (the canonical Dutch winter street food) · at a Dutch sinterklaas (5 December) celebration · at a Dutch ice-skating festival like the legendary Elfstedentocht · at a Dutch Christmas Eve dinner · at a Dutch student-house dinner · at home as the canonical Sunday winter restorative · paired with dark rye bread, katenspek, mustard and a glass of cold lager.
+At a Dutch winter family dinner (the traditional setting, December to February) · at an ice-skating shelter along a frozen Dutch canal (the traditional Dutch winter street food) · at a Dutch sinterklaas (5 December) celebration · at a Dutch ice-skating festival like the legendary Elfstedentocht · at a Dutch Christmas Eve dinner · at a Dutch student-house dinner · at home as the traditional Sunday winter restorative · paired with dark rye bread, katenspek, mustard and a glass of cold lager.
 
 ## Storage
 - Refrigerates 4 days - and improves with time. Many Dutch families make it the day before serving.
@@ -127,4 +127,4 @@ At a Dutch winter family dinner (the canonical setting, December to February) ·
 - The soup thickens further in the fridge; loosen with a small ladle of water or stock when reheating.
 - Don't reheat in the microwave - the texture changes; the stovetop is the correct reheat method.
 - The dry split peas keep indefinitely in a sealed jar in a cool dry pantry.
-- Day-old erwtensoep is the canonical Dutch winter lunch box - heat in a thermos in the morning, eat at lunch.
+- Day-old erwtensoep is the traditional Dutch winter lunch box - heat in a thermos in the morning, eat at lunch.

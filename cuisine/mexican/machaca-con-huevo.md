@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Machaca con huevo is Northern Mexico's iconic breakfast hash and a signature dish of the Sonora-Chihuahua region, rooted in the cattle-ranching tradition where preserved meats were essential before refrigeration. Machaca itself is Mexican cured-and-dried beef: soaked in lime, dried, then shredded; close to South American charqui but with a slightly different process. It sautés in oil with onion, jalapeño, diced tomato and a touch of cumin, then beaten eggs go in at the end and scramble together with the hot beef and vegetables till just set but still slightly creamy. Don't pre-scramble the eggs separately: the trick is cooking them into the meat. Eaten immediately with warm flour tortillas (the Northern Mexican preference; the wheat-growing region uses flour, not corn), refried beans, pico de gallo and sliced avocado. Outside Mexico, quality beef jerky shredded is the workable substitute, but commercial American jerky is too sweet: look for "machaca" specifically at Mexican markets.
+Machaca con huevo is Northern Mexico's iconic breakfast hash and a signature dish of the Sonora-Chihuahua region, rooted in the cattle-ranching tradition where preserved meats were essential before refrigeration. Machaca itself is Mexican cured-and-dried beef: soaked in lime, dried, then shredded; close to South American charqui but with a slightly different process. It sautés in oil with onion, jalapeño, diced tomato and a touch of cumin, then beaten eggs go in at the end and scramble together with the hot beef and vegetables till just set but still slightly creamy. Don't pre-scramble the eggs separately: the trick is cooking them into the meat. Eat immediately with warm flour tortillas (the Northern Mexican preference; the wheat-growing region uses flour, not corn), refried beans, pico de gallo and sliced avocado. Outside Mexico, quality beef jerky shredded is the workable substitute, but commercial American jerky is too sweet: look for "machaca" specifically at Mexican markets.
 
 ## Ingredients
 
@@ -86,12 +86,12 @@ Machaca con huevo is Northern Mexico's iconic breakfast hash and a signature dis
 
 ## Variations
 **Machaca with potato (machaca con papas):** add 200 g of cubed cooked potato along with the meat; gives a heartier breakfast hash.
-**Machaca burrito:** roll the finished machaca con huevo in a large flour tortilla with refried beans and avocado; the canonical breakfast burrito.
+**Machaca burrito:** roll the finished machaca con huevo in a large flour tortilla with refried beans and avocado; the traditional breakfast burrito.
 **Spicier:** double the jalapeño and add 1 chopped habanero; properly Northern Mexican fierce.
 **With chorizo:** add 100 g of crumbled chorizo cooked with the onion; gives extra spice.
 
 ## Serving
-On warm plates with all the canonical Northern Mexican accompaniments. Drink: hot Mexican coffee (café de olla), or fresh juice. Breakfast or brunch.
+On warm plates with all the traditional Northern Mexican accompaniments. Drink: hot Mexican coffee (café de olla), or fresh juice. Breakfast or brunch.
 
 ## Storage
 - Best eaten immediately; eggs don't reheat well.

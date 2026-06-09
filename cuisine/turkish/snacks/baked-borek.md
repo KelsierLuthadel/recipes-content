@@ -2,7 +2,7 @@
 
 ![Baked Börek](resources/borek.jpg)
 
-*Turkey's vegetable börek: delicate crispy pastry enclosing a savoury eggplant, onion and tomato filling. Eaten as appetiser or a light meal.*
+*Turkey's vegetable börek: delicate crispy pastry enclosing a savoury eggplant, onion and tomato filling. Eat as appetiser or a light meal.*
 
 **Prep Time:** 1 hour 15 minutes
 
@@ -11,7 +11,7 @@
 **Yield:** 20 börek
 
 ## Overview
-Börek are the Turkish pastry parcels that come in dozens of folds and fillings: half-moons, cigars, triangles and coils, stuffed with cheese, spiced meat or seasoned vegetables. This vegetarian version pairs a simple oil-and-water pastry with khandrajo, a deep-cooked eggplant ragù reduced till it turns jammy and mahogany-dark; a technique borrowed from southern Turkish cooking via the Sephardic Jewish kitchen. Two non-negotiable rules. The khandrajo must be completely cool before it touches the dough; warm filling steams the pastry from inside and the result goes soggy. And the dough rolls thin enough that light shows faintly through it; thick dough goes doughy in the oven, never crisp. The dough is butter-and-oil enriched and tacky; two thirty-minute rests let the gluten relax. Brushed with egg yolk and milk, scattered with sesame, baked till pale golden. Eaten warm with yogurt sauce on the side.
+Börek are the Turkish pastry parcels that come in dozens of folds and fillings: half-moons, cigars, triangles and coils, stuffed with cheese, spiced meat or seasoned vegetables. This vegetarian version pairs a simple oil-and-water pastry with khandrajo, a deep-cooked eggplant ragù reduced till it turns jammy and mahogany-dark; a technique borrowed from southern Turkish cooking via the Sephardic Jewish kitchen. Two non-negotiable rules. The khandrajo must be completely cool before it touches the dough; warm filling steams the pastry from inside and the result goes soggy. And the dough rolls thin enough that light shows faintly through it; thick dough goes doughy in the oven, never crisp. The dough is butter-and-oil enriched and tacky; two thirty-minute rests let the gluten relax. Brushed with egg yolk and milk, scattered with sesame, baked till pale golden. Eat warm with yogurt sauce on the side.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Charquicán is one of Chile's most distinctively Andean dishes, a slow-cooked hash that originated as a way to use dried beef (charqui, the Andean cured meat that pre-dates refrigeration) in a substantial winter meal. Rehydrated and chopped charqui slow-cooks with cubed pumpkin, potato, sweet corn kernels, green peas, onion, garlic, merkén (Chilean smoked-chilli spice), cumin and oregano in a heavy pot till the pumpkin half-breaks down into the broth, the meat goes tender, and the whole pot reduces to a thick mahogany-orange hash. Mashing some of the cooked pumpkin against the side of the pot thickens the broth. Outside South America, substitute with traditional Western-style beef jerky, or use fresh ground beef for a modern version. Served in deep bowls topped with a sunny-side-up fried egg (the canonical Chilean touch), with marraqueta bread and pebre on the side. What Andean home cooks make on cold winter evenings; also a school-canteen classic.
+Charquicán is one of Chile's most distinctively Andean dishes, a slow-cooked hash that originated as a way to use dried beef (charqui, the Andean cured meat that pre-dates refrigeration) in a substantial winter meal. Rehydrated and chopped charqui slow-cooks with cubed pumpkin, potato, sweet corn kernels, green peas, onion, garlic, merkén (Chilean smoked-chilli spice), cumin and oregano in a heavy pot till the pumpkin half-breaks down into the broth, the meat goes tender, and the whole pot reduces to a thick mahogany-orange hash. Mashing some of the cooked pumpkin against the side of the pot thickens the broth. Outside South America, substitute with traditional Western-style beef jerky, or use fresh ground beef for a modern version. Served in deep bowls topped with a sunny-side-up fried egg (the traditional Chilean touch), with marraqueta bread and pebre on the side. What Andean home cooks make on cold winter evenings; also a school-canteen classic.
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Charquicán is one of Chile's most distinctively Andean dishes, a slow-cooked ha
 - 400 ml hot beef stock (or vegetable stock)
 - 2 bay leaves
 
-### Eggs (the canonical topping)
+### Eggs (the traditional topping)
 - 6 large eggs (one per serving)
 - 1 tablespoon vegetable oil (for frying eggs)
 
@@ -101,7 +101,7 @@ Charquicán is one of Chile's most distinctively Andean dishes, a slow-cooked ha
 - **Charqui gives the dish its name:** if you can find it, use it. Beef jerky is the workable substitute.
 - **Mash some pumpkin for body:** half-dissolves naturally; help with a spoon.
 - **Merkén is the Chilean spice:** smoked paprika + cayenne is the substitute.
-- **Fried egg on top:** canonical Chilean home presentation.
+- **Fried egg on top:** traditional Chilean home presentation.
 - **Don't rush:** 40 minutes of simmering develops proper flavour.
 
 ## Variations

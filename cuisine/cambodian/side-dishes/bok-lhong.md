@@ -79,7 +79,7 @@ Bok l'hong is Cambodia's version of the green papaya salad, cousin to Thai som t
 1. Transfer to a serving plate.
 2. Scatter the reserved crushed peanuts over.
 3. Garnish with fresh coriander leaves.
-4. Serve immediately with sticky rice (the canonical accompaniment), cabbage or lettuce leaves (for wrapping), and lime wedges.
+4. Serve immediately with sticky rice (the traditional accompaniment), cabbage or lettuce leaves (for wrapping), and lime wedges.
 
 ## Method (Alternative: Large Bowl)
 If you don't have a large mortar, you can make bok l'hong in a wide bowl with a wooden spoon or muddler: mash the garlic, chillies, sugar, lime juice, fish sauce, dried shrimp and peanuts together with the back of a spoon till a rough dressing forms; tip in the papaya, beans and tomatoes; toss together with two big spoons while pressing down occasionally to bruise the papaya. The flavour is good; the texture is slightly less integrated than the mortar version.
@@ -88,17 +88,17 @@ If you don't have a large mortar, you can make bok l'hong in a wide bowl with a 
 - **A large mortar is the right tool:** the proper Cambodian mortar is wide and shallow, about 25-30 cm across, made of stone. The wide flat base lets you fit all the salad ingredients while pounding. A deep narrow spice mortar won't work. If you don't have one, the alternative method above is workable.
 - **Green papaya, not ripe:** the salad uses unripe green papaya, which is crunchy and slightly tart, not the sweet orange-fleshed ripe fruit. Green papayas are at most Asian markets year-round. If you can't find green papaya, green mango (also unripe) is the closest substitute; cucumber and apple work in a pinch but the texture is different.
 - **Coarse, not pulverised:** the papaya should keep its crunch. Pound gently; don't try to make a smooth paste. Visible threads of papaya, halved tomatoes, pieces of long bean: all should be distinguishable.
-- **Chilli to taste:** the canonical Cambodian bok l'hong is properly fierce (4-6 bird's eye chillies). For non-spice-tolerant diners, use 2 jalapeños deseeded; for proper Cambodian heat, use 6 bird's eye chillies seeds in.
+- **Chilli to taste:** the traditional Cambodian bok l'hong is properly fierce (4-6 bird's eye chillies). For non-spice-tolerant diners, use 2 jalapeños deseeded; for proper Cambodian heat, use 6 bird's eye chillies seeds in.
 - **Eat fresh:** bok l'hong is meant to be made and eaten in the same hour. It doesn't keep beyond a few hours; the papaya loses its crunch and the tomatoes go too soft.
 
 ## Variations
-**Bok l'hong with prahok (canonical Cambodian):** add 1 teaspoon of prahok (fermented fish paste) to the dressing; gives the salad a properly funky umami depth that's authentically Cambodian. Strong flavour; not for everyone.
+**Bok l'hong with prahok (traditional Cambodian):** add 1 teaspoon of prahok (fermented fish paste) to the dressing; gives the salad a properly funky umami depth that's authentically Cambodian. Strong flavour; not for everyone.
 **Bok l'hong with crab:** add 100 g of cooked picked crab meat to the salad at the end; tossed gently rather than pounded. A more luxurious variation.
 **Bok l'hong with grilled chicken:** serve the salad alongside 200 g of grilled chicken (Cambodian-style: marinated in lemongrass, garlic, soy and palm sugar) for a more substantial meal.
 **Bok l'hong with green mango:** swap the green papaya for green mango (peeled, julienned); slightly tarter and brighter. Common variation when green papaya is unavailable.
 
 ## Serving
-On a serving plate scattered with peanuts and coriander, with sticky rice (the canonical accompaniment) in a separate bamboo basket. Wraps of cabbage or lettuce leaves on the side for diners to make their own bites. Drink: Angkor beer; or a cold glass of palm wine if you can get it; or just plain water (the salad is so loud that subtle drinks get lost).
+On a serving plate scattered with peanuts and coriander, with sticky rice (the traditional accompaniment) in a separate bamboo basket. Wraps of cabbage or lettuce leaves on the side for diners to make their own bites. Drink: Angkor beer; or a cold glass of palm wine if you can get it; or just plain water (the salad is so loud that subtle drinks get lost).
 
 ## Storage
 - Best eaten within 2 hours of making.

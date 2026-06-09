@@ -113,7 +113,7 @@ Pide (pronounced pee-deh) is Turkey's iconic boat-shaped flatbread and one of th
 - **Boat shape, not flat:** the raised rim is what makes pide distinctive. Don't bake flat like pizza; fold the edges up to form a proper boat.
 - **Don't overfill:** a thin layer of filling is the proper Turkish way. Overfilled pide gets soggy and the dough can't crisp.
 - **Screaming-hot oven:** 240°C minimum, with the stone preheated 30 minutes. High heat is what gives the crispy proper Turkish pide.
-- **Brush with butter at the end:** the canonical Turkish finish is butter on the rim. Skipping gives a less rich result.
+- **Brush with butter at the end:** the traditional Turkish finish is butter on the rim. Skipping gives a less rich result.
 - **Cut with shears, not a knife:** kitchen shears cut through the rim and topping cleanly; a knife can compress the dough.
 
 ## Variations

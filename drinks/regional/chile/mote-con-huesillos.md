@@ -49,7 +49,7 @@ Mote con huesillos is the Chilean summer institution and confuses every tourist:
 1. Serve cold with a long spoon.
 
 ## Notes
-- **Pelted wheat (mote pelado) is the canonical grain.** Pearled barley works as a substitute; freekeh-style cracked wheat doesn't quite hit the same texture.
+- **Pelted wheat (mote pelado) is the traditional grain.** Pearled barley works as a substitute; freekeh-style cracked wheat doesn't quite hit the same texture.
 - **Soak the dried peaches the night before.** Skipping this step gives leathery huesillos that won't plump properly.
 - **Eat the syrup first, the peach second, the mote last with a spoon.** The Chilean drinking order; ignore at your own peril.
 

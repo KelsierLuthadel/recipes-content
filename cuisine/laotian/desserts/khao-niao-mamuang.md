@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably the most-photographed Lao/Thai sweet. The dish is also Thai-canonical (khao niao mamuang) but deeply Lao at its core; sticky rice culture is Lao territory. Three components carry the dish: the sticky rice itself (soaked overnight, steamed in a bamboo basket), the coconut sweetening (full-fat coconut milk warmed with sugar and a pinch of salt, absorbed into the hot rice), and the mango (ripe, fragrant, sweet; the yellow-fleshed Lao or Thai variety is canonical, with champagne, Ataulfo or Manila mango as Western substitutes). The drizzle on top is the unmistakable Lao/Thai signature: the thick cream from a coconut milk tin, sweetened with sugar and salted to a salty-sweet finishing sauce. Toasted yellow mung beans (split, hulled, dry-roasted) give a small textural crunch across the top. Eaten in mango season (March to July) at every Lao market stall and household.
+Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably the most-photographed Lao/Thai sweet. The dish is also Thai-traditional (khao niao mamuang) but deeply Lao at its core; sticky rice culture is Lao territory. Three components carry the dish: the sticky rice itself (soaked overnight, steamed in a bamboo basket), the coconut sweetening (full-fat coconut milk warmed with sugar and a pinch of salt, absorbed into the hot rice), and the mango (ripe, fragrant, sweet; the yellow-fleshed Lao or Thai variety is traditional, with champagne, Ataulfo or Manila mango as Western substitutes). The drizzle on top is the unmistakable Lao/Thai signature: the thick cream from a coconut milk tin, sweetened with sugar and salted to a salty-sweet finishing sauce. Toasted yellow mung beans (split, hulled, dry-roasted) give a small textural crunch across the top. Eat in mango season (March to July) at every Lao market stall and household.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably 
 - 250 ml full-fat coconut milk
 - 60 g caster sugar (or palm sugar for deeper flavour)
 - 1/2 teaspoon salt
-- 1 pandan leaf, torn and knotted (optional but very canonical)
+- 1 pandan leaf, torn and knotted (optional but very traditional)
 
 ### The drizzle (salty coconut cream topping)
 - 150 ml the thick "cream" from a chilled tin of coconut milk (the thick part that floats to the top when refrigerated)
@@ -78,8 +78,8 @@ Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably 
 - **Use yellow-fleshed thin-skinned mango:** Honey / Ataulfo / Manila / champagne. Tommy Atkins / Kent / Haden are too firm and tart.
 - **Warm coconut absorbs into warm rice:** the temperature timing matters. Cold coconut + cold rice gives a wet, unconnected dessert.
 - **Salt in the drizzle:** the small pinch is what makes the sweet-salty signature.
-- **Toasted mung beans give canonical crunch:** sesame seeds substitute well.
-- **Pandan leaf is optional but very canonical:** adds the unmistakable Southeast Asian floral note.
+- **Toasted mung beans give traditional crunch:** sesame seeds substitute well.
+- **Pandan leaf is optional but very traditional:** adds the unmistakable Southeast Asian floral note.
 
 ## Variations
 **Black sticky rice variant:** use half white sticky rice, half black sticky rice for a striped purple-and-white effect.
@@ -89,7 +89,7 @@ Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably 
 **Out-of-season (substitute):** use frozen mango chunks defrosted and dressed with a teaspoon of lime juice and sugar.
 
 ## Serving
-At a Lao market stall in mango season (March-July; the canonical setting) · at a Lao Pi Mai (New Year, April) celebration · at a Lao home as dessert after a heavy meal · at a Lao temple festival · at home as the canonical Lao/Thai sweet · paired with strong Lao coffee or jasmine tea.
+At a Lao market stall in mango season (March-July; the traditional setting) · at a Lao Pi Mai (New Year, April) celebration · at a Lao home as dessert after a heavy meal · at a Lao temple festival · at home as the traditional Lao/Thai sweet · paired with strong Lao coffee or jasmine tea.
 
 ## Storage
 - Best within 4 hours of assembly.

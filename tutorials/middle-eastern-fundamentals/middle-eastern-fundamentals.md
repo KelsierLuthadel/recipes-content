@@ -10,7 +10,7 @@ Middle Eastern cuisine sits at the crossroads of Mediterranean, North African, L
 
 - **The mezze tradition** — small plates of dips, salads, pickles, fritters, kibbeh, and grilled bites, eaten together with flatbreads. Mezze sits before (and often instead of) a main course.
 - **Bread as the utensil** — pita, khubz, lavash, taboon, or markook bread. Bread is torn and used as a scoop, a wrapper, a plate.
-- **Grilled meat** — kebabs (kofta, shish, shawarma), shish taouk, kibbeh nayyeh, kafta. The charcoal grill is canonical.
+- **Grilled meat** — kebabs (kofta, shish, shawarma), shish taouk, kibbeh nayyeh, kafta. The charcoal grill is traditional.
 - **Yogurt + tahini** — central condiments. Yogurt drained into labneh; tahini blended into hummus; both used in countless dressings.
 - **The grains** — bulgur, freekeh, rice, couscous (more North African), and the wheat-based pita / khubz.
 - **The spices** — sumac, za'atar, baharat, ras el hanout (Maghrebi), Aleppo pepper, sweet cinnamon, allspice, cardamom, saffron.
@@ -21,7 +21,7 @@ The cuisine is unified by these ingredients and techniques but distinguished sha
 ## The pages
 
 1. **[bread-and-grain.md](bread-and-grain.md)** — pita / khubz / lavash / markook + bulgur / freekeh / rice as the staple foundations.
-2. **[mezze.md](mezze.md)** — the canonical small plates: hummus, baba ghanoush, labneh, muhammara, fattoush, tabbouleh, and the assembly logic.
+2. **[mezze.md](mezze.md)** — the traditional small plates: hummus, baba ghanoush, labneh, muhammara, fattoush, tabbouleh, and the assembly logic.
 3. **[kebabs.md](kebabs.md)** — kofta (minced) vs shish (cubed), shish taouk (chicken), kafta, and the grilling technique.
 4. **[spices.md](spices.md)** — sumac, za'atar, baharat, Aleppo pepper, plus regional blends (ras el hanout, advieh).
 5. **[regional-distinctions.md](regional-distinctions.md)** — Lebanese vs Syrian vs Palestinian vs Egyptian vs Iraqi vs Yemeni vs Persian: each region's signature ingredients and dishes.
@@ -39,18 +39,18 @@ The cuisine is unified by these ingredients and techniques but distinguished sha
 - **A food processor** — for hummus, baba ghanoush, kibbeh, and herb mixes.
 - **A mortar and pestle** — for grinding spices and crushing garlic.
 - **A spice grinder** (or coffee grinder dedicated to spice) — for fresh-ground baharat, ras el hanout.
-- **Skewers** — long flat metal skewers (the canonical Middle Eastern shape) work better than round bamboo. Flat skewers keep cubed meat from rotating.
+- **Skewers** — long flat metal skewers (the traditional Middle Eastern shape) work better than round bamboo. Flat skewers keep cubed meat from rotating.
 - **A pita / khubz bread** — fresh-baked is best; supermarket pita works.
 - **A tahini jar** — Soom or Joyva or Al Wadi brand; Middle Eastern grocery shops carry the best.
-- **A bottle of pomegranate molasses** — the canonical Middle Eastern souring agent.
-- **A jar of sumac** — the canonical Middle Eastern sour-tangy spice.
+- **A bottle of pomegranate molasses** — the traditional Middle Eastern souring agent.
+- **A jar of sumac** — the traditional Middle Eastern sour-tangy spice.
 - **A jar of za'atar** — the Lebanese / Palestinian herb blend.
 
 ## How to use the course
 
 Read all five content pages. Then:
 
-1. **Week 1 — Mezze basics.** Make hummus, baba ghanoush, labneh, and tabbouleh. Serve with pita and olives. The canonical mezze platter.
+1. **Week 1 — Mezze basics.** Make hummus, baba ghanoush, labneh, and tabbouleh. Serve with pita and olives. The traditional mezze platter.
 2. **Week 2 — Kebabs.** Make a kofta + a shish taouk. Grill over charcoal if possible. Pair with hummus and pita.
 3. **Week 3 — A regional dish.** Pick one from the regional-distinctions page (e.g. Lebanese mujadara, Palestinian musakhan, Egyptian koshari, Persian fesenjan). Cook the whole dish from scratch.
 4. **Week 4 — Build a full mezze + main spread.** Multiple mezze items + a kebab + bread + pickled vegetables. Eaten over 2-3 hours with friends.
@@ -58,7 +58,7 @@ Read all five content pages. Then:
 ## Pairing principles
 
 Middle Eastern meals pair with:
-- **Arak / raki / ouzo** — anise-flavoured spirit, served diluted with cold water and ice (turns cloudy). The canonical Levantine drink.
+- **Arak / raki / ouzo** — anise-flavoured spirit, served diluted with cold water and ice (turns cloudy). The traditional Levantine drink.
 - **Lebanese / Israeli wine** — increasingly recognised; Chateau Musar, Chateau Ksara, Vitkin.
 - **Mint tea** (Lebanese / Egyptian style) — strong black tea with fresh mint sprigs + sugar.
 - **Turkish coffee** — sweet, cardamom-flavoured.

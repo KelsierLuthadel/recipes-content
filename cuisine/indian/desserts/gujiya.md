@@ -2,7 +2,7 @@
 
 ![Gujiya](resources/gujiya.jpg)
 
-*The Holi sweet. Half-moon pastry parcels filled with sweetened khoya, coconut and dried fruit, sealed with a fluted crimp, deep-fried until crisp and dusted with sugar. Eaten by the trayful through the afternoon, crumbs collected on a paper napkin.*
+*The Holi sweet. Half-moon pastry parcels filled with sweetened khoya, coconut and dried fruit, sealed with a fluted crimp, deep-fried until crisp and dusted with sugar. Eat by the trayful through the afternoon, crumbs collected on a paper napkin.*
 
 **Serves:** 8 (makes about 20 gujiya)
 

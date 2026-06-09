@@ -2,7 +2,7 @@
 
 ![Milanesa a la Napolitana](resources/milanesa-napolitana.jpg)
 
-*Argentina's Italian-immigrant masterpiece: thin pounded beef escalopes breaded and shallow-fried, then topped with tomato sauce, slices of ham, and melted mozzarella, briefly grilled till bubbling. Named not for Naples but for "Napoli" - a Buenos Aires restaurant where the dish was invented in the 1940s. The canonical Argentine weeknight dinner; the schnitzel-pizza fusion that defines Italian-Argentine cooking.*
+*Argentina's Italian-immigrant masterpiece: thin pounded beef escalopes breaded and shallow-fried, then topped with tomato sauce, slices of ham, and melted mozzarella, briefly grilled till bubbling. Named not for Naples but for "Napoli" - a Buenos Aires restaurant where the dish was invented in the 1940s. The traditional Argentine weeknight dinner; the schnitzel-pizza fusion that defines Italian-Argentine cooking.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Milanesa a la napolitana is one of Argentina's most beloved everyday dishes - a layered fusion that traces back to Italian-immigrant Buenos Aires of the 1940s. The story: chef Jose Napoli at Restaurante Napoli in Buenos Aires accidentally burned a Milanese-style breaded escalope and, to cover the burn, topped it with tomato sauce, ham, and melted cheese. The dish became immediately popular and spread across Argentina as the canonical Italian-Argentine weeknight dinner. The construction: thin slices of beef (typically nalga/topside or peceto/eye of round) are pounded thin between cling film till about 5 mm; dipped in seasoned egg, rolled in fine breadcrumbs (with grated Parmesan and garlic mixed in - the Argentine signature), and shallow-fried in oil till golden on both sides. The fried milanesas are placed on a baking tray, topped with a spoon of tomato sauce, a slice of ham, and a generous layer of mozzarella, then grilled briefly till the cheese bubbles. Served with fries (papas fritas), a green salad, and an Argentine red.
+Milanesa a la napolitana is one of Argentina's most beloved everyday dishes - a layered fusion that traces back to Italian-immigrant Buenos Aires of the 1940s. The story: chef Jose Napoli at Restaurante Napoli in Buenos Aires accidentally burned a Milanese-style breaded escalope and, to cover the burn, topped it with tomato sauce, ham, and melted cheese. The dish became immediately popular and spread across Argentina as the traditional Italian-Argentine weeknight dinner. The construction: thin slices of beef (typically nalga/topside or peceto/eye of round) are pounded thin between cling film till about 5 mm; dipped in seasoned egg, rolled in fine breadcrumbs (with grated Parmesan and garlic mixed in - the Argentine signature), and shallow-fried in oil till golden on both sides. The fried milanesas are placed on a baking tray, topped with a spoon of tomato sauce, a slice of ham, and a generous layer of mozzarella, then grilled briefly till the cheese bubbles. Served with fries (papas fritas), a green salad, and an Argentine red.
 
 ## Ingredients
 
@@ -78,11 +78,11 @@ Milanesa a la napolitana is one of Argentina's most beloved everyday dishes - a 
 5. Drink Malbec alongside.
 
 ## Notes
-- **Pound thin (5 mm):** the canonical Argentine milanesa. Thicker steaks don't cook through.
+- **Pound thin (5 mm):** the traditional Argentine milanesa. Thicker steaks don't cook through.
 - **Parmesan and garlic in the breading:** the Argentine signature. Plain breading is European; Argentine milanesa has cheese and garlic in the crumb.
 - **Refrigerate after breading:** 15 minutes minimum. Lets the coating set so it doesn't fall off during frying.
 - **Don't over-grill:** 90 seconds is enough to melt the cheese. Longer and the breading goes soft.
-- **Lemon at the table:** the canonical Argentine touch. Squeeze over each milanesa before eating.
+- **Lemon at the table:** the traditional Argentine touch. Squeeze over each milanesa before eating.
 
 ## Variations
 **Milanesa simple (without napolitana):** just the breaded fried milanesa with lemon, no topping. The classic version.
@@ -95,11 +95,11 @@ Milanesa a la napolitana is one of Argentina's most beloved everyday dishes - a 
 **Argentine milanesa para almuerzo:** smaller, served as a hot lunch with potato salad.
 
 ## Serving
-At every Argentine weekday family dinner (the canonical setting) · at a Buenos Aires bodegón (working-class restaurant) · at an Italian-Argentine pizzeria · at home as the easy weeknight dinner · at an Argentine school cafeteria · as the canonical Argentine office-lunch box · with a glass of Malbec at home.
+At every Argentine weekday family dinner (the traditional setting) · at a Buenos Aires bodegón (working-class restaurant) · at an Italian-Argentine pizzeria · at home as the easy weeknight dinner · at an Argentine school cafeteria · as the traditional Argentine office-lunch box · with a glass of Malbec at home.
 
 ## Storage
 - Cooked milanesas (without topping) refrigerate 3 days; reheat in a 180°C oven for 8 minutes.
 - Don't freeze cooked milanesas (the breading suffers).
 - Freeze breaded but uncooked milanesas (between parchment) 2 months; fry from frozen, adding 2 minutes to cooking time.
 - The tomato sauce makes great pasta sauce; freezes 3 months.
-- Leftover milanesa sliced cold in a sandwich (sangu de milanesa) is the canonical Argentine next-day lunch.
+- Leftover milanesa sliced cold in a sandwich (sangu de milanesa) is the traditional Argentine next-day lunch.

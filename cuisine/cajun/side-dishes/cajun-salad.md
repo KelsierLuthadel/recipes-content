@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A fiery Cajun-spiced potato salad, the kind of side dish that lifts a barbecue plate from good to memorable. You boil potatoes until just tender, then toss them while still warm in a mayo-based dressing built around Cajun heat: cumin, cayenne, smoked paprika, garlic and a measured spoon of garam masala for a deeper round-out. Hard-boiled eggs go in halved or quartered, sliced spring onions add a fresh allium note, and diced green chilli runs the heat across the back of the palate. Fresh herbs (parsley, dill or coriander) lift the lot. The salad sits best after an hour in the fridge for the flavours to settle. Eaten alongside grilled meat, fried chicken or a bowl of gumbo, with cold beer on the side.
+A fiery Cajun-spiced potato salad, the kind of side dish that lifts a barbecue plate from good to memorable. You boil potatoes until just tender, then toss them while still warm in a mayo-based dressing built around Cajun heat: cumin, cayenne, smoked paprika, garlic and a measured spoon of garam masala for a deeper round-out. Hard-boiled eggs go in halved or quartered, sliced spring onions add a fresh allium note, and diced green chilli runs the heat across the back of the palate. Fresh herbs (parsley, dill or coriander) lift the lot. The salad sits best after an hour in the fridge for the flavours to settle. Eat alongside grilled meat, fried chicken or a bowl of gumbo, with cold beer on the side.
 
 ## Ingredients
 ### Vegetables

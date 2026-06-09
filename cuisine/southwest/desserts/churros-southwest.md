@@ -2,7 +2,7 @@
 
 ![Southwest Churros](resources/churros-southwest.jpg)
 
-*The Southwest's fried dough sticks: a piped choux-style dough fried in oil till deeply golden and crisp outside, soft and tender inside. Rolled in cinnamon sugar and served with thick Mexican chocolate sauce for dipping. The canonical Southwest dessert across Arizona, New Mexico, Texas border culture.*
+*The Southwest's fried dough sticks: a piped choux-style dough fried in oil till deeply golden and crisp outside, soft and tender inside. Rolled in cinnamon sugar and served with thick Mexican chocolate sauce for dipping. The traditional Southwest dessert across Arizona, New Mexico, Texas border culture.*
 
 **Serves:** 6 (about 18 churros)
 

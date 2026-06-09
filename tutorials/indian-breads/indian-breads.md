@@ -23,7 +23,7 @@ If you want to cook five Indian breads well, learn these:
 2. **Paratha** — the layered bread. Same dough as roti but rolled with ghee/oil to create flaky layers. Often stuffed.
 3. **Naan** — the leavened tandoor bread. Yogurt-and-yeast (or baking-powder) dough, slapped onto the inside of a tandoor at 480°C. The "restaurant" bread.
 4. **Puri** — the deep-fried puffed bread. Whole-wheat dough rolled small, deep-fried until balloons puff up.
-5. **Bhatura** — yogurt-leavened, deep-fried; the canonical pairing for chole.
+5. **Bhatura** — yogurt-leavened, deep-fried; the traditional pairing for chole.
 
 This course has a page for each of these (and their close cousins).
 
@@ -44,7 +44,7 @@ This course has a page for each of these (and their close cousins).
 
 ## The three core flours
 
-- **Atta** (whole wheat flour, finely ground) — the canonical roti / chapati / paratha flour. Indian whole wheat is more finely ground than UK wholemeal; it makes a soft dough. Look for "atta" labelled flour (Ashoka, Pillsbury Chakki Atta, Aashirvaad — Indian brands available in UK supermarkets).
+- **Atta** (whole wheat flour, finely ground) — the traditional roti / chapati / paratha flour. Indian whole wheat is more finely ground than UK wholemeal; it makes a soft dough. Look for "atta" labelled flour (Ashoka, Pillsbury Chakki Atta, Aashirvaad — Indian brands available in UK supermarkets).
 - **Maida** (refined white flour) — used for naan, kulcha, bhatura, sheermal. Equivalent to UK plain flour, but Indian maida is slightly finer-ground. Plain flour works as a substitute.
 - **Atta + maida blend** — many recipes use 50/50 for parathas and some breads.
 
@@ -54,7 +54,7 @@ Other regional flours: rice flour (akki roti, appam), besan (chickpea — used f
 
 - **Tawa** (flat heavy iron or non-stick griddle) — for roti, chapati, paratha. Substitute: a heavy cast-iron frying pan with a flat base. About £25 for a good Indian tawa.
 - **A rolling pin** — Indian-style is thinner and longer than European; a regular rolling pin works.
-- **A flat board (chakla) and rolling pin (belan)** — the canonical Indian setup is a slightly raised circular board + a thin long rolling pin. £15 for a set.
+- **A flat board (chakla) and rolling pin (belan)** — the traditional Indian setup is a slightly raised circular board + a thin long rolling pin. £15 for a set.
 - **Tongs** — for handling the bread over a gas flame to puff.
 - **A heavy deep pan or wok (kadhai)** — for deep-frying puris.
 - **A baking stone + an upturned heavy baking sheet** — for the home-oven naan technique. The stone preheats at 250°C; the bread is slapped onto the stone.

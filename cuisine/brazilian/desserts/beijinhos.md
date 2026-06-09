@@ -2,7 +2,7 @@
 
 ![Beijinhos](resources/beijinhos.jpg)
 
-*Brazil's white sister to brigadeiros: a fudgy truffle made with sweetened condensed milk, butter, grated coconut and a touch of vanilla, rolled in desiccated coconut with a clove pressed into the top. The canonical Brazilian birthday-party companion to brigadeiros; the dessert that always appears in pairs on the same tray.*
+*Brazil's white sister to brigadeiros: a fudgy truffle made with sweetened condensed milk, butter, grated coconut and a touch of vanilla, rolled in desiccated coconut with a clove pressed into the top. The traditional Brazilian birthday-party companion to brigadeiros; the dessert that always appears in pairs on the same tray.*
 
 **Serves:** Makes 30-40 small truffles
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12-15 minutes
 
 ## Overview
-Beijinhos (literally "little kisses"; the name reflects the truffles' small bite-sized format) are Brazil's coconut counterpart to brigadeiros, and the two always appear together on every Brazilian birthday-party dessert tray, every wedding canapé table, and every children's celebration. The construction is identical in technique to brigadeiros: a heavy-bottomed pan, sweetened condensed milk, butter, gentle simmer with constant stirring till the "pulling away from the pan" test is passed, cool, roll into balls, coat in desiccated coconut. The difference: instead of cocoa, beijinhos use shredded coconut + vanilla as the flavour base, and the coating is desiccated coconut instead of chocolate sprinkles. The canonical finishing touch is a single whole clove pressed into the top of each beijinho (which adds a subtle aromatic note and serves as a visual marker distinguishing beijinhos from white-coated brigadeiros). The result is a soft, dense, intensely coconutty truffle that's lighter and more aromatic than the chocolate-dominant brigadeiro.
+Beijinhos (literally "little kisses"; the name reflects the truffles' small bite-sized format) are Brazil's coconut counterpart to brigadeiros, and the two always appear together on every Brazilian birthday-party dessert tray, every wedding canapé table, and every children's celebration. The construction is identical in technique to brigadeiros: a heavy-bottomed pan, sweetened condensed milk, butter, gentle simmer with constant stirring till the "pulling away from the pan" test is passed, cool, roll into balls, coat in desiccated coconut. The difference: instead of cocoa, beijinhos use shredded coconut + vanilla as the flavour base, and the coating is desiccated coconut instead of chocolate sprinkles. The traditional finishing touch is a single whole clove pressed into the top of each beijinho (which adds a subtle aromatic note and serves as a visual marker distinguishing beijinhos from white-coated brigadeiros). The result is a soft, dense, intensely coconutty truffle that's lighter and more aromatic than the chocolate-dominant brigadeiro.
 
 ## Ingredients
 
@@ -74,18 +74,18 @@ Beijinhos (literally "little kisses"; the name reflects the truffles' small bite
 
 ### Stage 7 - Finish with a clove
 1. Press a single whole clove into the top of each beijinho (decorative and aromatic).
-2. The clove also serves as the canonical Brazilian marker that distinguishes beijinhos from any white-coated truffle.
+2. The clove also serves as the traditional Brazilian marker that distinguishes beijinhos from any white-coated truffle.
 
 ### Stage 8 - Display and serve
 1. Place each finished beijinho in a small paper case.
-2. Arrange on a tray alongside brigadeiros (the canonical Brazilian dessert pair).
+2. Arrange on a tray alongside brigadeiros (the traditional Brazilian dessert pair).
 3. Serve at room temperature.
 
 ## Notes
 - **The coconut in the fudge:** this is what makes beijinho different from a white brigadeiro. Don't skip.
-- **The clove on top:** the canonical Brazilian marker. Without it, beijinhos look identical to white brigadeiros.
+- **The clove on top:** the traditional Brazilian marker. Without it, beijinhos look identical to white brigadeiros.
 - **Eat the clove or not:** some Brazilians eat the whole clove (it's small and edible); others remove it before eating. Either is fine.
-- **Don't substitute fresh shredded coconut:** the fresh version contains too much moisture; you'd need to dry it out first. Desiccated coconut (dried, packaged) is canonical.
+- **Don't substitute fresh shredded coconut:** the fresh version contains too much moisture; you'd need to dry it out first. Desiccated coconut (dried, packaged) is traditional.
 - **Brigadeiros and beijinhos together:** always paired. A Brazilian party dessert tray ALWAYS has both.
 
 ## Variations
@@ -99,11 +99,11 @@ Beijinhos (literally "little kisses"; the name reflects the truffles' small bite
 **Beijinho com nozes (with walnuts):** roll the truffles in finely chopped walnuts mixed with coconut.
 
 ## Serving
-At every Brazilian birthday party alongside brigadeiros (the canonical pairing) · at a Brazilian wedding's dessert table · at a Brazilian baby shower · at a Brazilian friends gathering · at a Brazilian Christmas table · at a Brazilian school bake-sale · at home as a sweet weekend treat · alongside Brazilian coffee.
+At every Brazilian birthday party alongside brigadeiros (the traditional pairing) · at a Brazilian wedding's dessert table · at a Brazilian baby shower · at a Brazilian friends gathering · at a Brazilian Christmas table · at a Brazilian school bake-sale · at home as a sweet weekend treat · alongside Brazilian coffee.
 
 ## Storage
 - Refrigerates 1 week in a sealed container.
 - The coating stays fresh; the fudge stays firm.
 - Don't freeze (the coconut texture changes on defrosting).
 - Best at room temperature or slightly chilled; not warm.
-- Made-ahead beijinhos are perfect for parties; the canonical Brazilian party-prep is 1-2 days ahead.
+- Made-ahead beijinhos are perfect for parties; the traditional Brazilian party-prep is 1-2 days ahead.

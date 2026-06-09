@@ -11,7 +11,7 @@
 **Cook Time:** 5 hours
 
 ## Overview
-Lechona tolimense is one of Colombia's most iconic celebration dishes and the unofficial national dish of the Tolima department in central Colombia. Traditionally a whole deboned pig is stuffed with a fragrant filling of long-grain rice, ground pork, green peas, scallions, garlic and the canonical Colombian spice mix, sewn shut and slow-roasted for eight to twelve hours in a clay oven (the lechona horneada) till the skin goes crackling-crisp deep mahogany and the rice filling has soaked up all the pork juices. At home and outside Colombia the dish adapts to a large bone-in pork shoulder, stuffed the same way, roasted for four or five hours, then finished with a high-heat blast for the cuerito. The skin is non-negotiable; flaccid skin ruins the dish. Served sliced thick at the centre of a platter with the filling alongside, arepas, ají picante and lime wedges. Don't add extra rice on the plate: the filling is the carb, the arepas are the bread.
+Lechona tolimense is one of Colombia's most iconic celebration dishes and the unofficial national dish of the Tolima department in central Colombia. Traditionally a whole deboned pig is stuffed with a fragrant filling of long-grain rice, ground pork, green peas, scallions, garlic and the traditional Colombian spice mix, sewn shut and slow-roasted for eight to twelve hours in a clay oven (the lechona horneada) till the skin goes crackling-crisp deep mahogany and the rice filling has soaked up all the pork juices. At home and outside Colombia the dish adapts to a large bone-in pork shoulder, stuffed the same way, roasted for four or five hours, then finished with a high-heat blast for the cuerito. The skin is non-negotiable; flaccid skin ruins the dish. Served sliced thick at the centre of a platter with the filling alongside, arepas, ají picante and lime wedges. Don't add extra rice on the plate: the filling is the carb, the arepas are the bread.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Lechona tolimense is one of Colombia's most iconic celebration dishes and the un
 - Juice of 4 limes
 - 4 tablespoons olive oil
 
-### Filling (the canonical Tolima rice-pork stuffing)
+### Filling (the traditional Tolima rice-pork stuffing)
 - 400 g long-grain white rice
 - 400 g ground pork (or pork shoulder finely diced)
 - 4 tablespoons olive oil

@@ -74,7 +74,7 @@ Tasso is Haiti's twice-cooked fried beef, the beef counterpart to the more famou
 
 ### Stage 5 - Serve
 1. Pile the hot fried tasso onto a serving platter.
-2. Spoon a generous mound of pikliz alongside (the canonical partner; the sharp pickled cabbage cuts the rich fried beef beautifully).
+2. Spoon a generous mound of pikliz alongside (the traditional partner; the sharp pickled cabbage cuts the rich fried beef beautifully).
 3. Arrange bannann peze and rice and beans alongside.
 4. Place lime wedges around the platter for diners to squeeze over.
 5. Serve immediately while the crust is still properly crisp.

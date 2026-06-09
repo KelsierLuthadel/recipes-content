@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (plus chilling)
 
 ## Overview
-A Burmese cold dessert built in a bowl from three components made separately and combined at the table. You boil sago pearls to glassy translucence and chill them. Coconut milk warms gently with pandan and a pinch of salt to thicken slightly. Palm sugar melts with water into a thin dark syrup. The assembly happens in the bowl: a heap of sago first, cold coconut milk poured over, palm syrup drizzled last in a dark ribbon, crushed ice piled on top. The drama is in the contrast of colour and texture: pale ivory coconut, jet-dark syrup, glassy pearls, ice. Eaten on a hot Yangon afternoon with a long spoon, the syrup pooling at the bottom for the last sweet sip.
+A Burmese cold dessert built in a bowl from three components made separately and combined at the table. You boil sago pearls to glassy translucence and chill them. Coconut milk warms gently with pandan and a pinch of salt to thicken slightly. Palm sugar melts with water into a thin dark syrup. The assembly happens in the bowl: a heap of sago first, cold coconut milk poured over, palm syrup drizzled last in a dark ribbon, crushed ice piled on top. The drama is in the contrast of colour and texture: pale ivory coconut, jet-dark syrup, glassy pearls, ice. Eat on a hot Yangon afternoon with a long spoon, the syrup pooling at the bottom for the last sweet sip.
 
 ## Ingredients
 

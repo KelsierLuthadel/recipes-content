@@ -89,7 +89,7 @@ Vitello tonnato is the iconic cold antipasto of Piedmont, in northwestern Italy,
 ## Variations
 **Modern minimalist:** less sauce, more attention to veal quality and presentation.
 **Without mayonnaise (purist):** make a true egg-yolk-based emulsion instead of using shop-bought mayo.
-**With pork (maiale tonnato):** swap veal for pork loin; cook the same way; less canonical but excellent.
+**With pork (maiale tonnato):** swap veal for pork loin; cook the same way; less traditional but excellent.
 **With chicken (pollo tonnato):** modern variation using chicken breast; lighter version.
 
 ## Serving

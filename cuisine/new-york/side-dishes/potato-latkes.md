@@ -2,7 +2,7 @@
 
 ![Potato Latkes](resources/potato-latkes.jpg)
 
-*New York's Jewish potato pancakes: grated potato and onion bound with egg and matzo meal, formed into thin pancakes, pan-fried in oil till deeply golden and crispy. The Hanukkah miracle-of-oil tradition; the canonical Jewish-American comfort food served with sour cream and applesauce.*
+*New York's Jewish potato pancakes: grated potato and onion bound with egg and matzo meal, formed into thin pancakes, pan-fried in oil till deeply golden and crispy. The Hanukkah miracle-of-oil tradition; the traditional Jewish-American comfort food served with sour cream and applesauce.*
 
 **Serves:** Makes 16 latkes (serves 4-6)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Potato latkes (also called levivot or just "latkes") are one of the most iconic Jewish-American foods and the canonical Hanukkah dish (eaten on the eight-night festival commemorating the miracle of the oil that lasted eight days at the Second Temple; hence latkes being fried in lots of oil): grated raw potato and onion squeezed of all moisture (essential for crispness), bound with beaten egg, matzo meal (or flour or breadcrumbs), salt and pepper, formed into thin pancakes, and pan-fried in hot oil till deeply golden and crispy on both sides. Served with sour cream (creamy contrast) and applesauce (sweet contrast); the canonical two accompaniments, both essential.
+Potato latkes (also called levivot or just "latkes") are one of the most iconic Jewish-American foods and the traditional Hanukkah dish (eaten on the eight-night festival commemorating the miracle of the oil that lasted eight days at the Second Temple; hence latkes being fried in lots of oil): grated raw potato and onion squeezed of all moisture (essential for crispness), bound with beaten egg, matzo meal (or flour or breadcrumbs), salt and pepper, formed into thin pancakes, and pan-fried in hot oil till deeply golden and crispy on both sides. Served with sour cream (creamy contrast) and applesauce (sweet contrast); the traditional two accompaniments, both essential.
 
 ## Ingredients
 

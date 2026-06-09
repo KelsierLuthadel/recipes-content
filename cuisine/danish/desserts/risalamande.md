@@ -2,7 +2,7 @@
 
 ![Risalamande](resources/risalamande.jpg)
 
-*Denmark's Christmas Eve dessert: a creamy cold rice pudding folded with whipped cream, chopped almonds and vanilla, topped with a vivid red warm cherry sauce. Eaten at every Danish Christmas Eve dinner - and ritualised by the tradition of hiding a single whole almond in the pot; whoever finds it wins the mandelgaven (almond gift).*
+*Denmark's Christmas Eve dessert: a creamy cold rice pudding folded with whipped cream, chopped almonds and vanilla, topped with a vivid red warm cherry sauce. Eat at every Danish Christmas Eve dinner - and ritualised by the tradition of hiding a single whole almond in the pot; whoever finds it wins the mandelgaven (almond gift).*
 
 **Serves:** 8
 
@@ -28,10 +28,10 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 - 80 g blanched whole almonds (chopped coarsely; reserve 1 WHOLE almond for the hidden one)
 - 100 g caster sugar
 - 1 teaspoon vanilla extract
-- 4 tablespoons cherry brandy (kirsch) or sherry - optional but canonical
+- 4 tablespoons cherry brandy (kirsch) or sherry - optional but traditional
 
 ### Cherry sauce (kirsebærsauce)
-- 500 g pitted morello cherries (fresh, frozen, or from a jar - Aalborg or Den Gamle Fabrik brand is the Danish canonical)
+- 500 g pitted morello cherries (fresh, frozen, or from a jar - Aalborg or Den Gamle Fabrik brand is the Danish traditional)
 - 200 ml cherry juice (from the jar, or apple juice)
 - 100 ml red wine (or extra juice)
 - 80 g caster sugar
@@ -94,18 +94,18 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 ### Stage 8 - The almond hunt
 1. Diners eat slowly, hoping to find the whole almond.
 2. When someone finds it, they win the mandelgave.
-3. The canonical Danish protocol: if the finder doesn't immediately announce, they're supposed to keep eating and let everyone else continue searching (some Danes hide the find to extend the game).
+3. The traditional Danish protocol: if the finder doesn't immediately announce, they're supposed to keep eating and let everyone else continue searching (some Danes hide the find to extend the game).
 4. After the prize is awarded, the eating continues.
 
 ## Notes
 - **Make the rice pudding the day before:** essential. Cold rice pudding folds with cream beautifully; warm doesn't.
 - **Don't overwork the folding:** want soft folds, not full mixing. The cream should still be visible as streaks.
-- **Cherry sauce is the dish:** warm, vivid red, sweet-tart. Don't skip or substitute strawberry; cherry is canonical.
-- **One single whole almond:** the canonical Danish hide. Some Norwegian families hide several; that's a different tradition.
+- **Cherry sauce is the dish:** warm, vivid red, sweet-tart. Don't skip or substitute strawberry; cherry is traditional.
+- **One single whole almond:** the traditional Danish hide. Some Norwegian families hide several; that's a different tradition.
 - **Eat slowly, dig around:** the ritual is the point.
 
 ## Variations
-**With raspberry sauce instead of cherry:** less canonical, equally good with raspberries.
+**With raspberry sauce instead of cherry:** less traditional, equally good with raspberries.
 **With orange-vanilla cream:** add orange zest to the cream for a brighter version.
 **Vegan risalamande:** swap milk + cream for oat milk + whipped coconut cream; almond extract for flavour.
 **Made the entire day before:** the rice pudding base is done the day before; the cream is folded in 2-3 hours before serving.
@@ -113,7 +113,7 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 **Mini glass jars (cocktail size):** for a Christmas-party canapé buffet.
 
 ## Serving
-At Danish Christmas Eve dinner (the canonical Dec 24 evening, served after the julestege main course) · at a Danish Christmas Day lunch · at a winter Sunday-roast finale · at a Danish New Year's Eve dinner as a substantial finale.
+At Danish Christmas Eve dinner (the traditional Dec 24 evening, served after the julestege main course) · at a Danish Christmas Day lunch · at a winter Sunday-roast finale · at a Danish New Year's Eve dinner as a substantial finale.
 
 ## Storage
 - Risalamande refrigerates 3-4 days (gets denser as the cream firms; still excellent).

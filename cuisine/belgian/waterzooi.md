@@ -2,7 +2,7 @@
 
 ![Waterzooi](resources/waterzooi.jpg)
 
-*Ghent's flagship stew: chicken and julienned leek, celery, carrot and onion poached in broth thickened with egg yolks and cream, finished with parsley. Eaten with boiled potatoes.*
+*Ghent's flagship stew: chicken and julienned leek, celery, carrot and onion poached in broth thickened with egg yolks and cream, finished with parsley. Eat with boiled potatoes.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Waterzooi means "watery boil" in old Flemish; "Gentse" because it's from Ghent. The Flemish stew that sits at the opposite end of the spectrum from carbonnade: where carbonnade is dark, sweet and beer-driven, waterzooi is pale, golden, restrained and built on the same logic as a French blanquette. Poach gently, thicken with egg yolk and cream at the end, finish with herb. The original Ghent recipe used freshwater fish from the Scheldt and Leie rivers; pollution killed the river-fish industry a century ago, and the modern canonical version uses chicken. Vegetables are julienned thin so they cook fast and serve as long elegant strips through the broth. The thickening is the critical move: egg yolks whisked with cream and a ladle of hot broth, then poured back into the pot off the heat (boiling will scramble the eggs). Velvety, lightly thickened, served with boiled potatoes and a glass of witbier.
+Waterzooi means "watery boil" in old Flemish; "Gentse" because it's from Ghent. The Flemish stew that sits at the opposite end of the spectrum from carbonnade: where carbonnade is dark, sweet and beer-driven, waterzooi is pale, golden, restrained and built on the same logic as a French blanquette. Poach gently, thicken with egg yolk and cream at the end, finish with herb. The original Ghent recipe used freshwater fish from the Scheldt and Leie rivers; pollution killed the river-fish industry a century ago, and the modern traditional version uses chicken. Vegetables are julienned thin so they cook fast and serve as long elegant strips through the broth. The thickening is the critical move: egg yolks whisked with cream and a ladle of hot broth, then poured back into the pot off the heat (boiling will scramble the eggs). Velvety, lightly thickened, served with boiled potatoes and a glass of witbier.
 
 ## Ingredients
 
@@ -107,7 +107,7 @@ Waterzooi means "watery boil" in old Flemish; "Gentse" because it's from Ghent. 
 **Quick weeknight waterzooi:** use rotisserie chicken meat torn into pieces; start at stage 2 with a good chicken stock.
 
 ## Serving
-At a Ghent restaurant overlooking the river (the canonical setting) · at a Flemish family Sunday lunch · at a Belgian Christmas Eve dinner · at a Flemish wedding reception · at a Belgian gastropub on a cold winter evening · at home as a Sunday roast alternative.
+At a Ghent restaurant overlooking the river (the traditional setting) · at a Flemish family Sunday lunch · at a Belgian Christmas Eve dinner · at a Flemish wedding reception · at a Belgian gastropub on a cold winter evening · at home as a Sunday roast alternative.
 
 ## Storage
 - Refrigerates 2 days. The egg-cream liaison can break on reheating - reheat very gently on the stovetop, stirring constantly, and never bring to a boil.

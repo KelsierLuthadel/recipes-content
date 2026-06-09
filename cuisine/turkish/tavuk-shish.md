@@ -95,7 +95,7 @@ Tavuk şiş is Turkey's chicken kebab counterpart to kuzu şiş (the lamb versio
 **Tavuk pirzola:** instead of cubes on skewers, use chicken thighs whole, flattened slightly, marinated and grilled. Different presentation, same flavour.
 
 ## Serving
-On a wooden platter, with all the Turkish kebab sides arranged around. Cold ayran (the canonical drink), rakı, or Türk kahvesi after. As a family meal, weekend barbecue, or restaurant dinner.
+On a wooden platter, with all the Turkish kebab sides arranged around. Cold ayran (the traditional drink), rakı, or Türk kahvesi after. As a family meal, weekend barbecue, or restaurant dinner.
 
 ## Storage
 - Best eaten fresh off the grill.

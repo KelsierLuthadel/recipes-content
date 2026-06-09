@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mozambique's take on the samosa, brought to East Africa by Indian traders and reshaped by Portuguese-African home cooking: smaller and crisper than the Indian original, filled with spiced beef mince and onion with a hit of bird's-eye chilli, folded into neat triangles and deep-fried till the shell shatters. The filling is browned mince spiced with garlic, ginger, curry powder, paprika and chilli, then brightened off the heat with coriander and lime. Cool the filling completely before folding; warm filling steams the pastry from the inside and ruins the seal. Spring-roll pastry strips fold flag-style up the strip in a zig-zag, sealed with a flour-water paste. Fried at 170 °C till deep gold. Eaten hot with piri-piri sauce or a chilli dip alongside.
+Mozambique's take on the samosa, brought to East Africa by Indian traders and reshaped by Portuguese-African home cooking: smaller and crisper than the Indian original, filled with spiced beef mince and onion with a hit of bird's-eye chilli, folded into neat triangles and deep-fried till the shell shatters. The filling is browned mince spiced with garlic, ginger, curry powder, paprika and chilli, then brightened off the heat with coriander and lime. Cool the filling completely before folding; warm filling steams the pastry from the inside and ruins the seal. Spring-roll pastry strips fold flag-style up the strip in a zig-zag, sealed with a flour-water paste. Fried at 170 °C till deep gold. Eat hot with piri-piri sauce or a chilli dip alongside.
 
 ## Ingredients
 

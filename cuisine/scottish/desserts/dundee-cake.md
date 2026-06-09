@@ -11,7 +11,7 @@
 **Cook Time:** 2-2.5 hours
 
 ## Overview
-Dundee cake came out of the Scottish city of Dundee in the early 19th century, when the Keiller family (who invented Dundee marmalade in the 1790s and also baked commercially) started making fruit cake from the dried fruit, candied peel and oranges they traded in. The concentric ring of whole blanched almonds on top was a Keiller signature that became the cake's defining feature, copied by bakers throughout the British Isles. Lighter than English Christmas cake in three ways: a self-raising flour crumb rather than the dense plain-plus-baking-powder kind, ground almonds in the batter for richness and slight nuttiness, and the iconic almond ring on top that's so canonical bakeries can technically face legal trouble for calling a cake "Dundee" without it. A fruit cake you can happily eat outside December, with cups of tea, alongside cheese, or on a Scottish breakfast tray.
+Dundee cake came out of the Scottish city of Dundee in the early 19th century, when the Keiller family (who invented Dundee marmalade in the 1790s and also baked commercially) started making fruit cake from the dried fruit, candied peel and oranges they traded in. The concentric ring of whole blanched almonds on top was a Keiller signature that became the cake's defining feature, copied by bakers throughout the British Isles. Lighter than English Christmas cake in three ways: a self-raising flour crumb rather than the dense plain-plus-baking-powder kind, ground almonds in the batter for richness and slight nuttiness, and the iconic almond ring on top that's so traditional bakeries can technically face legal trouble for calling a cake "Dundee" without it. A fruit cake you can happily eat outside December, with cups of tea, alongside cheese, or on a Scottish breakfast tray.
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 - 60 g glacé cherries (rinsed of syrup, chopped roughly)
 - Zest of 1 orange
 - Zest of 1 lemon
-- 2 tablespoons whisky (single malt, optional but canonical)
+- 2 tablespoons whisky (single malt, optional but traditional)
 - 1 tablespoon orange marmalade (Dundee marmalade if you can get it; the Keiller connection)
 
 ### For the top
@@ -71,10 +71,10 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 1. Spoon the batter into the prepared tin.
 2. Smooth the top with the back of a spoon, leaving a slight dip in the centre (the cake rises in the middle as it bakes).
 
-### Stage 8 - The almond ring (canonical Dundee step)
+### Stage 8 - The almond ring (traditional Dundee step)
 1. Brush the top very lightly with the milk or egg white.
 2. Place the whole blanched almonds in concentric rings, pointed-side-out, covering the entire top.
-3. The canonical Dundee pattern: a centre circle of almonds, then a second ring around it, then a third ring at the edge.
+3. The traditional Dundee pattern: a centre circle of almonds, then a second ring around it, then a third ring at the edge.
 4. Press each almond very lightly into the batter so they don't fall off during baking.
 
 ### Stage 9 - Bake
@@ -100,7 +100,7 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 
 ## Notes
 - **The almond ring is non-negotiable:** a Dundee cake without the concentric almond ring is just a fruit cake. The pattern is the visual signature.
-- **Self-raising flour:** plain flour + baking powder gives the wrong texture. Self-raising is canonical.
+- **Self-raising flour:** plain flour + baking powder gives the wrong texture. Self-raising is traditional.
 - **Long slow bake:** 2 hours minimum at 160°C. Don't rush.
 - **Protect with brown paper:** the long bake will brown the sides; the brown paper layer keeps it from over-browning.
 - **Soak the fruit (if you have time):** the whisky soak transforms the cake. If you skip, just stir whisky into the dry fruit and proceed.
@@ -114,7 +114,7 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 **Gluten-free Dundee:** use gluten-free self-raising flour + add ½ teaspoon xanthan gum; otherwise identical.
 
 ## Serving
-At a Scottish high tea with strong tea and butter (the canonical setting) · at a Scottish wedding cake table · at Christmas as the lighter alternative to traditional Christmas cake · at a Scottish family birthday tea · at a Highland golf clubhouse for the 19th-hole · at home with a slice and a small dram on a Sunday afternoon · on a Scottish bed-and-breakfast trolley with the morning newspaper.
+At a Scottish high tea with strong tea and butter (the traditional setting) · at a Scottish wedding cake table · at Christmas as the lighter alternative to traditional Christmas cake · at a Scottish family birthday tea · at a Highland golf clubhouse for the 19th-hole · at home with a slice and a small dram on a Sunday afternoon · on a Scottish bed-and-breakfast trolley with the morning newspaper.
 
 ## Storage
 - Keeps wrapped in foil in a sealed tin for 3 weeks (matures beautifully in the first week).

@@ -2,7 +2,7 @@
 
 ![Stamppot Boerenkool](resources/stamppot-boerenkool.jpg)
 
-*The Netherlands' canonical winter dinner: floury potatoes coarsely crushed with curly kale, butter and warm milk, crowned with a thick smoked rookworst sausage and mustard jus.*
+*The Netherlands' traditional winter dinner: floury potatoes coarsely crushed with curly kale, butter and warm milk, crowned with a thick smoked rookworst sausage and mustard jus.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Stamppot is the canonical Dutch one-pot winter dinner, and stamppot boerenkool (the kale variant) is the most identity-defining of the family. Stamppot means "mashed pot": everything cooks in one pot, gets mashed coarsely with butter and milk, and is served with a sausage on top. Floury Bintje potatoes (or Maris Piper) boil till tender; finely shredded curly kale joins for the last eight or ten minutes so it collapses into the water and softens completely. The drained mix is crushed with butter, warm milk, salt, pepper and a generous pinch of nutmeg. This is not a smooth purée: visible chunks of potato and threads of kale are the canonical texture. A thick Gelderse rookworst poaches alongside in the last fifteen minutes, then gets sliced into thick rounds and propped against the mound. A small well pressed into the top of the mash holds the canonical pool of jus laced with Dutch grainy mosterd, the unmistakable signature of the dish.
+Stamppot is the traditional Dutch one-pot winter dinner, and stamppot boerenkool (the kale variant) is the most identity-defining of the family. Stamppot means "mashed pot": everything cooks in one pot, gets mashed coarsely with butter and milk, and is served with a sausage on top. Floury Bintje potatoes (or Maris Piper) boil till tender; finely shredded curly kale joins for the last eight or ten minutes so it collapses into the water and softens completely. The drained mix is crushed with butter, warm milk, salt, pepper and a generous pinch of nutmeg. This is not a smooth purée: visible chunks of potato and threads of kale are the traditional texture. A thick Gelderse rookworst poaches alongside in the last fifteen minutes, then gets sliced into thick rounds and propped against the mound. A small well pressed into the top of the mash holds the traditional pool of jus laced with Dutch grainy mosterd, the unmistakable signature of the dish.
 
 ## Ingredients
 
@@ -91,7 +91,7 @@ Stamppot is the canonical Dutch one-pot winter dinner, and stamppot boerenkool (
 1. Spoon a generous mound of stamppot onto each warm plate.
 2. Press a small well into the top with the back of a spoon.
 3. Pour a small ladle of the mustard jus into the well.
-4. Slice each sausage diagonally and prop the slices against the mound (or stand a whole sausage on top, the canonical home presentation).
+4. Slice each sausage diagonally and prop the slices against the mound (or stand a whole sausage on top, the traditional home presentation).
 5. Add a small dollop of butter melting on top.
 
 ### Stage 9 - Serve immediately
@@ -101,12 +101,12 @@ Stamppot is the canonical Dutch one-pot winter dinner, and stamppot boerenkool (
 4. Slice of rye bread on the side.
 
 ## Notes
-- **Floury potatoes are essential:** Bintje is canonical. Maris Piper, King Edward, and Russet all work. Yukon Gold or any waxy variety won't crush properly and gives a wet, gluey result.
+- **Floury potatoes are essential:** Bintje is traditional. Maris Piper, King Edward, and Russet all work. Yukon Gold or any waxy variety won't crush properly and gives a wet, gluey result.
 - **Shred the kale fine:** 2-3 mm. Larger pieces stay stringy in the finished mash.
 - **Cook the kale long enough:** 10-12 minutes total in the boiling water. Under-cooked kale has a tough, fibrous bite.
-- **Coarse crush, not purée:** the visible chunks and threads are the canonical texture. A smooth purée is what you'd serve at a French restaurant; stamppot is the working-Dutch version.
+- **Coarse crush, not purée:** the visible chunks and threads are the traditional texture. A smooth purée is what you'd serve at a French restaurant; stamppot is the working-Dutch version.
 - **The mustard jus is the move:** Dutch home cooks all do the well-and-jus presentation. The mustard pool in the centre is the signature.
-- **Gelderse rookworst:** the canonical Dutch smoked sausage. Available at Dutch supermarkets and some specialty butchers abroad. Polish kielbasa is the closest substitute; a good Cumberland or smoked bratwurst also works.
+- **Gelderse rookworst:** the traditional Dutch smoked sausage. Available at Dutch supermarkets and some specialty butchers abroad. Polish kielbasa is the closest substitute; a good Cumberland or smoked bratwurst also works.
 
 ## Variations
 **Stamppot zuurkool (sauerkraut variant):** swap the kale for 500 g good sauerkraut (drained, rinsed lightly); the most popular variant after boerenkool.
@@ -119,11 +119,11 @@ Stamppot is the canonical Dutch one-pot winter dinner, and stamppot boerenkool (
 **Stamppot with smoked salmon (modern):** swap the rookworst for a generous slice of hot-smoked salmon - the modern Dutch healthy-week variant.
 
 ## Serving
-At a Dutch family Sunday dinner (the canonical setting, from October to March) · at a Dutch farm-kitchen at the end of a cold workday · at a Friesland or Drenthe pub on a winter evening · at a Dutch Christmas Eve meal · at a Dutch student-residence house dinner · at home as the canonical winter restorative.
+At a Dutch family Sunday dinner (the traditional setting, from October to March) · at a Dutch farm-kitchen at the end of a cold workday · at a Friesland or Drenthe pub on a winter evening · at a Dutch Christmas Eve meal · at a Dutch student-residence house dinner · at home as the traditional winter restorative.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a splash of milk to loosen.
-- Day-old stamppot pan-fried in butter till crisp on the outside is the canonical Dutch breakfast (called "stamppot uit de pan").
+- Day-old stamppot pan-fried in butter till crisp on the outside is the traditional Dutch breakfast (called "stamppot uit de pan").
 - Freezes 2 months in airtight containers; defrost overnight in the fridge.
 - Don't refrigerate with the sausage on top; store the components separately.
 - The jus keeps refrigerated 4 days; reheat gently with a splash of stock.
