@@ -11,11 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked Wazwan dish of lamb in a deeply spiced, Kashmiri-chilli-stained gravy enriched with yoghurt. The British restaurant adaptation keeps the colour (Kashmiri chilli, paprika, and tandoori masala do the heavy lifting), the yoghurt finish, and the warm whole-spice base, but rebuilds the dish around a [Curry Base Gravy](Base/curry-base.md) so it cooks in 15 minutes rather than 2 hours.
-
-The recipe is two builds in one pan. First the main curry: tempered whole spices, softened onion and red pepper, freshly toasted and ground cumin and coriander, the standard spice bloom, then the three-pour base gravy reduction and a late spoon of yoghurt for the rounded Kashmiri profile. Then a separate topping: ghee, whole cherry tomatoes, fresh coriander, and a pinch of garam masala fried in the same pan to deglaze the caramelised residue, then poured over the curry just before serving. That topping is the dish's signature presentation and a serious flavour boost, don't skip it.
-
-Lamb is the traditional protein and works best here, but chicken, tikka, prawns, and vegetables all pair cleanly with the spice profile.
+Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked Wazwan dish of lamb in a deeply spiced, Kashmiri-chilli-stained gravy enriched with yogurt. The British restaurant adaptation keeps the colour (Kashmiri chilli, paprika and tandoori masala do the heavy lifting), the yogurt finish and the warm whole-spice base, but rebuilds the dish around a curry-base gravy so it cooks in 15 minutes rather than two hours. Two builds in one pan. First the main curry: tempered whole spices, softened onion and red pepper, fresh-toasted cumin and coriander, three-pour gravy reduction, late yogurt for the rounded Kashmiri profile. Then a separate topping: ghee, whole cherry tomatoes, fresh coriander and garam masala fried in the same pan to deglaze the caramelised residue, poured over the curry just before serving. That topping is the dish's signature presentation and a serious flavour boost. Lamb is the traditional protein and works best.
 
 ---
 

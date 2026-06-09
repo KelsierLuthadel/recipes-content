@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A pork and prawn filling is bound with shredded carrot, glass noodles and reconstituted wood-ear mushrooms, then rolled tightly in moistened rice paper and fried twice for maximum crunch. The double-fry technique gives chả giò their characteristic bubbled, blistered crust. Served with cool lettuce leaves, herbs and a punchy nước chấm dipping sauce.
+The deep-fried Vietnamese spring roll (nem rán in the north, chả giò in the south): shatteringly crisp golden tubes of rice paper around a juicy pork, prawn and wood-ear mushroom filling bound with shredded carrot and rehydrated glass noodles. The special-occasion snack of every Vietnamese household, eaten at Tết (Lunar New Year), at weddings, at family gatherings and at the after-school feast when the children come back from city schools. The eating ritual is half the dish: each hot roll gets wrapped in a cool lettuce leaf with sprigs of mint, perilla and coriander, then dunked into a small bowl of nước chấm before going in the mouth. The double-fry is the technique secret: a first low-temperature fry sets the wrapper and cooks the filling, a second high-temperature fry crisps and blisters the outside into the characteristic bubbled gold shell.
 
 ## Ingredients
 

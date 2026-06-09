@@ -11,11 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-This sits apart from the rest of the Restaurant-Style series. The others all build on a pre-made [Curry Base Gravy](Base/curry-base.md) and finish in 10 to 15 minutes; this one is a from-scratch single-pan curry, structured the way a home cook (or a small restaurant kitchen without a base-gravy operation) would actually approach it. The flavour foundation comes from slow-cooked onions taken to translucent and lightly browned, 15 minutes on a low heat that no shortcut can replicate.
-
-The build then follows a familiar arc: garlic, ginger, and cumin go in after the onions are sweet; a curry powder of your choice carries the bulk of the spicing (a pre-mixed blend like [Madrass Mix](Spice-Mixes/madrass-mix.md) or [Curry Powder](Spice-Mixes/curry-powder.md) works fine, or anything in the Spice-Mixes folder); tomato and water or stock build the sauce; raw chicken finishes through in the simmering liquid. It's the simplest entry point in the series, with no base gravy and no pre-cooked chicken to prep.
-
-The dish is forgiving. You can vary the curry powder, add or skip the chilli, swap chicken breast for thigh (thigh is more tolerant of slightly long cooking), and throw in pre-cooked vegetables at the end. Treat it as a chassis rather than a fixed recipe.
+This sits apart from the rest of the Restaurant-Style series. The others all build on a pre-made curry-base gravy and finish in 10 to 15 minutes; this one is a from-scratch single-pan curry, structured the way a home cook (or a small restaurant kitchen without a base-gravy operation) would actually approach it. The flavour foundation comes from slow-cooked onions taken to translucent and lightly browned, 15 minutes on low heat that no shortcut can replicate. The build then follows a familiar arc: garlic, ginger and cumin go in after the onions are sweet; a curry powder carries the bulk of the spicing; tomato and water or stock build the sauce; raw chicken finishes through in the simmering liquid. It's the simplest entry point in the series, with no base gravy and no pre-cooked chicken to prep. The dish is forgiving. Vary the curry powder, add or skip the chilli, swap chicken breast for thigh (thigh is more tolerant of long cooking). Treat it as a chassis rather than a fixed recipe.
 
 ---
 

@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The jalfrezi is one of the defining BIR curries, found on every restaurant menu in the country and arguably the most distinctive dish in the category. What sets it apart isn't the spice mix (which is fairly standard) but the texture: large pieces of scorched onion and pepper, sliced fresh green chillies, and fresh tomato wedges all stay identifiable in the finished dish rather than dissolving into the sauce. That vegetable bulk is part of the body, not just garnish.
-
-The technique that makes a jalfrezi a jalfrezi is the upfront scorch, same idea as a dopiaza but with both onion and pepper hit hard on the highest heat the hob will give. Done right, the chunks come out almost charred on the outside and still bright inside, carrying a deep smoky note that builds into the sauce when they go back into the pan with the final gravy pour.
-
-Heat is medium-hot, mostly from the sliced green chillies stirred in late rather than dry powder. Tandoori masala layers a smoky undertone that pairs with the scorched vegetables. The dish should end up thick, with the vegetables forming most of the body and the sauce clinging rather than pooling.
+The jalfrezi is one of the defining BIR curries, found on every restaurant menu in the country and arguably the most distinctive dish in the category. What sets it apart isn't the spice mix (which is fairly standard) but the texture: large pieces of scorched onion and pepper, sliced fresh green chillies and fresh tomato wedges all stay identifiable in the finished dish rather than dissolving into the sauce. That vegetable bulk is part of the body, not just garnish. The technique is the upfront scorch: onion and pepper hit hard on the highest heat the hob will give till the chunks come out almost charred outside and still bright inside, carrying a deep smoky note that builds into the sauce. Heat is medium-hot, mostly from the sliced green chillies stirred in late rather than dry powder. Tandoori masala layers a smoky undertone that pairs with the scorched vegetables. The dish should end up thick, with the vegetables forming most of the body and the sauce clinging rather than pooling.
 
 ---
 

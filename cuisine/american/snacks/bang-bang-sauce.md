@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-A no-cook three-ingredient sauce. Mayo gives body, sweet chilli sauce brings the sweet-tart-mild-spice base, sriracha tops the heat to whatever level you want. Stirred together, ready immediately. Keeps for weeks in the fridge.
+The creamy pink dip that turns up in every American sit-down chain restaurant: three ingredients (mayonnaise, Thai sweet chilli sauce, sriracha), two minutes, infinite uses. Mayo gives the body, sweet chilli sauce brings the sweet-tart-mild-spice base, sriracha tops the heat to whatever level you want. The sauce was born in the early 2000s as the dip for "bang bang shrimp" at the American Bonefish Grill chain (the dish was supposedly inspired by Sichuan bang bang chicken, though the resemblance is faint), and has since spread across diner menus and home kitchens as a sweet-spicy creamy hit for fries, chicken tenders, burgers, fish tacos, salads, anywhere mayonnaise might otherwise go. Use a proper Thai sweet chilli sauce (Mae Ploy or similar from any Asian grocer); American sweet-chilli imitations lack the proper sweetness. Keeps a couple of weeks in the fridge.
 
 ## Ingredients
 

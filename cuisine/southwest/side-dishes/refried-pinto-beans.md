@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Southwest refried beans (frijoles refritos) is the canonical Southwest-Tex-Mex bean side: cooked pinto beans (or black beans for a darker version) mashed and slow-fried in bacon fat (or vegetable oil for vegetarian) with chopped onion, crushed garlic, ground cumin and salt, till the beans thicken into a creamy paste with deep savoury flavour. Served alongside virtually every Southwest plate.
+The canonical Southwest-Tex-Mex bean side and one of the foundational dishes of the borderlands cooking: cooked pinto beans mashed and slow-fried in bacon fat with chopped onion, crushed garlic, ground cumin and salt till the beans thicken into a creamy paste with deep savoury flavour. The name "frijoles refritos" is a slight misnomer; "refritos" doesn't mean "refried" in Spanish but "well-fried" or "intensely-fried", and the beans get one long pan-cook rather than two. Pinto beans are the canonical Mexican-American choice; black beans give a darker version more common in Oaxacan and central Mexican cooking. The fat matters: bacon fat or lard gives the proper depth; vegetable oil works for vegetarian and substitutes acceptably but the flavour is less interesting. Eaten alongside virtually every Southwest plate, smeared into burritos, spooned onto enchiladas, smashed onto tostadas.
 
 ## Ingredients
 

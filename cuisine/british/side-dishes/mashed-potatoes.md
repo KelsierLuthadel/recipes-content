@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Maris Piper potatoes peel and chunk, boil in well-salted water until very tender, drain, return to the hot pan to steam off any moisture. Pass through a ricer or food mill into a clean pan. Cold butter cubes whisk in first; warm milk loosens to the right consistency; salt to taste.
+The silkiest British mash: floury potatoes (Maris Piper or King Edward), plenty of cold butter, warm milk and salt, worked through a ricer or food mill rather than mashed with a potato masher or food processor. The technique is the whole game. Pass the boiled potatoes through a ricer for the smoothest possible texture; a masher leaves lumps and a food processor turns potatoes to glue (the blades whip the starch into something rubbery). The steaming-dry step (returning the drained potatoes to the hot empty pan for a minute) is essential; wet potato dilutes the butter and gives a heavy mash. Cold butter goes in first, in cubes, so it melts gradually and emulsifies; warm milk goes in last to loosen. A French restaurant-style mash uses an indecent amount of butter (Joël Robuchon's famous version is 50 percent butter by weight); the British version is more restrained but never timid.
 
 ## Ingredients
 

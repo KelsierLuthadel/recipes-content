@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Cooked in a karahi (two-handled wok-like pan) over high heat: lamb chunks simmer with tomatoes, fresh ginger matchsticks and green chillies, with cracked black pepper and ground cumin going in late. No onion in the sauce. Punjabi origin, fiercely fresh-tasting, the antithesis of long-cooked British curry-house style.
+A proper Lahori karahi: bone-in lamb seared hard in a karahi (the two-handled wok-like pan that gives the dish its name) with chopped tomato, slivered fresh ginger and green chillies, finished with cracked black pepper and ground cumin going in late. The dish is the antithesis of the British curry-house long-cooked tomato-onion masala: no onion in the sauce at all, no overnight ferment, no creamy enrichment. Karahi is fiercely fresh-tasting, the meat just past tender, the tomato still recognisable as fruit rather than reduced into paste. The high heat is essential; a low simmer turns the dish into a generic stew. Black pepper rather than chilli does most of the heat work, and the pepper goes in late so it stays bright and aromatic rather than dulling into the gravy. Eaten straight from the pan at the table with naan and a wedge of lemon, no rice needed.
 
 ## Ingredients
 - 800g (174lb) lamb leg and shoulder, cut into pieces, ideally still with bone in 

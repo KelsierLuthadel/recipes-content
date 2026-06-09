@@ -11,7 +11,7 @@
 **Cook Time:** 42 minutes
 
 ## Overview
-A showstopping dish featuring a rare beef tenderloin encased in layers of mushroom duxelles, spinach, herb crêpes, and a golden, crispy pastry crust. Each slice reveals a beautiful cross-section of perfectly cooked beef, creamy mushroom filling, and elegant layers. This is fine dining on a plate, impressive enough for the most important dinner party.
+The dinner-party showstopper in its most ambitious form: a whole beef tenderloin seared rare, smeared in mushroom duxelles, layered with spinach and thin herb crêpes, and wrapped not in the usual puff pastry but in a buttery brioche dough that bakes to a deep gold while the beef inside stays pink. The dish was popularised in 1815 to celebrate the Duke of Wellington's victory at Waterloo (though the connection is disputed); the brioche-wrapped version is the French refinement of the British classic and what every Parisian table would call boeuf en croûte. The herb crêpes inside are the unsung hero; they form a moisture barrier that stops the brioche going soggy from the beef juices. The beef must be seared hot and fast to lock the juices, then cooled completely before wrapping. Sliced thick at the table so each portion shows the cross-section of beef, mushroom, spinach and crust.
 
 ## Ingredients
 ### Pastry

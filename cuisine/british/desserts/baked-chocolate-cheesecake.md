@@ -29,7 +29,7 @@
 - 2 tablespoons caster sugar
 
 ## Overview
-A rich and elegant chocolate cheesecake with a delicate shortcrust pastry base, silky chocolate-cream cheese filling, and a distinctive espresso-coffee liqueur sauce. This sophisticated dessert balances the intensity of chocolate with the subtle bitterness of coffee, creating a complex flavor profile suitable for elegant entertaining.
+The dinner-party chocolate cheesecake in its most ambitious form: an orange-scented shortcrust base holding a silky chocolate-and-cream-cheese filling, baked low and slow till just-set, served with a warm espresso-and-coffee-liqueur sauce poured around the slice. The dish sits in the dense baked-cheesecake camp (closer to a French gâteau au fromage than a New York wedge), and the pastry base distinguishes it from biscuit-base cheesecakes; the orange zest worked into the pastry gives a quiet aromatic lift that supports the dark chocolate above. The two key technique points are the low slow bake (a hot oven splits the surface and overworks the eggs, leaving a grainy filling), and the espresso sauce served warm against the cold cheesecake, so the contrast of temperatures matters as much as the flavour combination. Best made the day before so the chocolate settles and the slice cuts cleanly.
 
 ## Method
 ### For the pastry

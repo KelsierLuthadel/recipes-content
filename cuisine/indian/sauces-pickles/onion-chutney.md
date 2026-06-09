@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-This is simplicity and technique combined. Paper-thin raw onion slices, chilled until crisp, meet a savory tomato-spice mixture for a fresh, sharp condiment. The interplay between cool, raw onions and warm, spiced sauce creates complexity. This is especially good alongside tandoori meats and grilled foods.
+The bright red onion chutney that turns up on every British curry-house table alongside the bowl of poppadums: paper-thin slices of raw red onion (chilled till crisp) tossed in a savoury tomato-and-spice mixture of tomato puree, mint sauce, ketchup, lemon juice, ground coriander and chilli powder, sometimes coloured with a touch of red food colouring for the restaurant-style look. The interplay between the cool sharp raw onion and the warm sweet-spiced sauce is what makes the chutney work, and the moment the onions sit too long in the sauce (more than an hour or two) they soften and the texture goes to mush. Mint sauce gives the canonical curry-house edge that distinguishes the dish from any Indian-home onion chutney. Eaten with poppadums to start the meal, or alongside tandoori meats and grilled starters.
 
 ## Ingredients
 

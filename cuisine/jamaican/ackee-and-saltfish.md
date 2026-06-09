@@ -11,11 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Ackee and saltfish is Jamaica's national dish, an unlikely-looking combination of West African fruit and Caribbean preserved cod that has been eaten on the island since the 18th century. The ackee is a yellow pod that opens when ripe; the edible aril inside (a soft, slightly nutty, slightly creamy yellow flesh) was brought to Jamaica from West Africa in the 1770s. The salt cod arrived via the Atlantic salt-fish trade. The two together are spectacular: the soft ackee has a texture and colour reminiscent of scrambled eggs, the saltfish gives savoury depth, and a backdrop of sautéed onion, sweet pepper, scotch bonnet and thyme ties everything to the rest of Jamaican cooking.
-
-The dish is traditionally a breakfast plate, served with fried plantain, boiled green banana, fried dumplings or bammy (cassava flatbread). It is also eaten for lunch or dinner.
-
-A note on the ackee: tinned ackee (from Jamaica) is the realistic ingredient outside the Caribbean. Tinned ackee is pre-cooked and ready to use; the fresh fruit must be cooked properly and is mildly toxic if eaten unripe or under-cooked. Look for tins labelled "Ackee in Salt Water" or "Ackee in Brine" from Jamaican brands (Grace, Linstead Market). One large tin gives the right portion for 4.
+Ackee and saltfish is Jamaica's national dish: an unlikely-looking combination of West African fruit and Caribbean preserved cod that has been eaten on the island since the 18th century. The ackee is a yellow pod that opens when ripe; the edible aril inside (soft, slightly nutty, slightly creamy yellow flesh) was brought to Jamaica from West Africa in the 1770s. The salt cod arrived via the Atlantic salt-fish trade. The two together are spectacular: the soft ackee has a texture and colour reminiscent of scrambled eggs, the saltfish gives savoury depth, and a backdrop of sautéed onion, sweet pepper, Scotch bonnet and thyme ties everything to the rest of Jamaican cooking. Traditionally a breakfast plate served with fried plantain, boiled green banana, fried dumplings or bammy (cassava flatbread). Tinned ackee (Grace, Linstead Market) is the realistic ingredient outside the Caribbean; the fresh fruit is mildly toxic if eaten unripe.
 
 ## Ingredients
 

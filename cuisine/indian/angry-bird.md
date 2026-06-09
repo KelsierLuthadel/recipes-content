@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Simple tandoori-style chicken thighs marinated in yogurt and spices for tender, flavorful meat. Thighs or drumsticks work best; use mild paprika for color and flavor, or chilli powder for heat. Yogurt and lemon tenderize the meat, allowing spices to penetrate deeply.
+A fierce British-Indian restaurant curry born in the same gastropub-curry-house tradition as the phaal and the vindaloo: bone-in chicken thighs in a chilli-forward gravy built from onion, tomato, dried Kashmiri chillies and a heavy hand of fresh red chilli, marinated first in yogurt with garam masala and lemon to tenderise the meat. The name (a 2010s playful reference to the Angry Birds video game) puts the dish squarely in the modern curry-house joke-menu tradition, but the recipe sits in a real Indian cooking lineage: yogurt-and-spice marinades go back centuries in North Indian tandoor cookery, and the Kashmiri-chilli-heavy gravy belongs to the Mughlai school. Kashmiri red chilli is essential; it gives the deep red colour without the front-of-mouth heat of a regular chilli, and substituting plain hot chilli powder turns the dish punishingly hot rather than properly fiery. Eaten with naan, plain basmati and a cooling raita.
 
 ## Ingredients
 ### Protein

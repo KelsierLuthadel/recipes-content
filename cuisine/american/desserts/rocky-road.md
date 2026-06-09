@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes (plus 2 hours chilling)
 
 ## Overview
-A no-bake fridge slab built on milk chocolate, butter and golden syrup, studded with crushed digestives, mini marshmallows and pieces of honeycomb chocolate bar. Ten minutes of melting and folding, then a couple of hours in the fridge. Cut into squares for a lunchbox treat or stack on a plate for a casual gathering.
+A no-bake fridge slab built on milk chocolate, butter and golden syrup, studded with crushed digestives, mini marshmallows and pieces of honeycomb chocolate bar (Crunchie in the UK; Violet Crumble or Cadbury Crunchie elsewhere). Originally an American boy-scout campfire treat with marshmallow and graham cracker, the rocky road crossed the Atlantic in the 1980s and got reworked into something stranger and sweeter: British digestives instead of graham, honeycomb bar instead of cocoa powder, and golden syrup blended into the chocolate base to keep the slab pliable straight from the fridge rather than splintering when cut. Every household has its own version (some add glacé cherries, some swap the honeycomb for Maltesers, some go for dark chocolate), but the core formula is fixed: a chocolate matrix that sets glossy, three textural contrasts (biscuit crunch, marshmallow bounce, honeycomb crackle), and a slab cut into squares for the lunchbox or the bake sale.
 
 ## Ingredients
 

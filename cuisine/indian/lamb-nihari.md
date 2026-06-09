@@ -9,7 +9,7 @@
 **Prep Time:** 20 minutes
 
 ## Overview
-The Mughal-Pakistani slow-cooked lamb shank stew: meat braised for hours in a spice-thick gravy of ginger, garlic, ground spices and a wheat-flour slurry that gives the broth its characteristic velvety body. Traditionally a Friday-morning dish in Lahore. Mild compared to other curries; the flavour is deep rather than hot.
+The Mughlai-Pakistani slow-cooked lamb-shank stew and the canonical Friday-morning dish of Old Delhi and Lahore: lamb shanks braised for six to eight hours (or overnight) in a spice-thick gravy of ginger, garlic, ground fennel, mace, nutmeg and bay, finished with a wheat-flour slurry that thickens the broth into a characteristic velvety glossy body. The name comes from the Arabic nahar (morning); nihari was traditionally eaten at dawn by labourers and night workers needing slow-release energy before a long shift, and is still served from breakfast counters across Lahore, Karachi and the Indian Old Delhi quarter. The dish is mild compared to other curries; the flavour goes deep rather than hot, built on the warm aromatic spices and the long cook rather than chilli punch. Diners add chopped fresh chilli, lemon juice, slivered ginger and coriander at the table to brighten each portion. Eaten with naan or sheermal.
 
 ## Ingredients
 - 4 lamb shanks

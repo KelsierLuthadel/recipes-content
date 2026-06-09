@@ -8,7 +8,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-A unique Punjabi spice blend specifically designed for chole masala (chickpea curry). While this blend is generally only used for chole masala, making it homemade ensures authentic flavour. Ready-made versions are available at many Asian grocers and online if you prefer convenience, but homemade is worth the effort.
+The dark dedicated spice blend for Punjab's most famous chickpea curry, chole masala: cumin, coriander, dried pomegranate seeds, dried red chillies, ajwain (carom), kasoori methi (dried fenugreek), green cardamom, black pepper, cassia bark, cloves, dried ginger and amchoor (dried mango powder), all roasted and ground together into a deep brown-black blend. The mix is purpose-built for one dish (chole, the Punjabi chickpea curry that turns up beside bhature, kulche and puris at every street stall and dhaba in the region) and is rarely used elsewhere. The dried pomegranate seeds (anardana) and the amchoor are the two distinctive ingredients that give chole masala its characteristic sour-tangy backbone. Ready-made versions exist at Indian grocers and online, but the freshly roasted homemade version tastes substantially brighter and keeps three or four months in a sealed jar.
 
 **Makes:** Approximately 250ml
 ## Ingredients

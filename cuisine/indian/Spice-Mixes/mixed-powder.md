@@ -9,7 +9,7 @@
 **Prep Time:** 5 minutes
 
 ## Overview
-Classic British Indian Restaurant (B.I.R.) curry powder used for most classic curries. Provides the signature B.I.R. flavor; can be made with commercial or homemade curry powder and garam masala.
+The British curry-house mixed powder, the custom dry spice blend that goes into almost every curry on a curry-house menu: a built-up combination of ground cumin, ground coriander, base curry powder, paprika, turmeric and garam masala mixed together into one jar. The blend is the bridge between the simpler base curry powder and the finished curry; each spoonful carries multiple layers of flavour rather than a single dimension, and chefs use it as a one-spoon shortcut where a less efficient kitchen would reach for half a dozen separate jars. Most British curry-house kitchens keep a big container of mixed powder on the hot line and stir spoonfuls into curries to taste. Made from either commercial or homemade base powders depending on the kitchen; freshly mixed is sharper and more aromatic than the bagged supermarket equivalent. Keeps two months in a sealed jar.
 
 ## Ingredients
 ### Ground spices

@@ -11,7 +11,7 @@
 **Yield:** Approximately 600 ml (2-3 jars)
 
 ## Overview
-This is the foundational chutney of Indian kitchens. Unripe green mangoes, simmered slowly with sugar and vinegar in a gentle spice base, transformed into a thick, concentrated condiment. The sweet and sour balance allows the mango's subtle character to shine. This is shelf-stable and improves with age; make it in batches and keep jars on hand year-round.
+The foundational sweet preserve of Indian kitchens and the most exported Indian condiment in the world: diced unripe green mangoes simmered slow with sugar, white wine vinegar, fresh ginger, dried chilli, mustard seed, fennel and warm spices into a thick, glossy sweet-sour preserve. Eaten alongside every kind of Indian curry, smeared into cheese sandwiches, spooned onto papadums, used to sweeten the curry-house chasni paste, and added by the spoonful to anywhere a brightness against richness is wanted. Green unripe mangoes are essential. Ripe mango goes to sugary mush and loses the sour edge that defines the chutney; the green fruit holds its shape and gives the proper sweet-sour balance. The chutney needs a long slow simmer to reduce the syrup to a glossy clinging consistency, and improves with age. A jar made one summer and kept for the next tastes deeper and more spice-rounded.
 
 ## Ingredients
 

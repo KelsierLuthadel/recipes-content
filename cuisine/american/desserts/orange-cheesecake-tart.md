@@ -11,7 +11,7 @@
 **Cook Time:** 90 minutes
 
 ## Overview
-This orange cheesecake tart combines a shortcrust pastry case with a creamy, citrus-infused cheese filling. It is best served chilled and finished with warm marmalade and candied orange peel for a bright, elegant dessert.
+The dinner-party cheesecake reworked as a tart: a crisp blind-baked shortcrust shell holding a smooth orange-scented custard of fromage frais, curd cheese and soured cream rather than the dense American cream-cheese mixture, finished with a glassy Seville marmalade glaze and candied peel. The pastry case underneath is what distinguishes this from the everyday biscuit-base cheesecake, giving the dessert a more refined French-Anglo profile that suits a Sunday lunch or a Christmas table. The filling wants real Seville orange zest and juice (the bitter marmalade orange) when in season; standard orange works the rest of the year but the bitter edge is what stops the tart tipping into pudding territory. A low slow bake at 140°C is non-negotiable; any hotter and the eggs scramble and the surface cracks instead of staying flawless. The glaze goes on cold so it sets glossy, not soaked in.
 
 ## Ingredients
 ### Pastry

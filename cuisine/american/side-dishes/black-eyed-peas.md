@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Dried black-eyed peas, soaked overnight, simmered low and slow with a smoked ham hock and aromatics. The hock seasons the broth and gives up its meat at the end of the cook. Finished with a splash of cider vinegar to brighten and a pinch of cayenne for warmth. Eaten in shallow bowls with the broth, often spooned over rice.
+The Southern good-luck bean: small cream-coloured legumes with a black spot at the eye, slow-simmered with a smoked ham hock, onion, garlic and bay leaf till the broth turns silky and faintly smoky. Eaten across the American South on New Year's Day for luck (the tradition is West African by way of enslaved Africans who brought the bean with them through the Middle Passage), and on the Kwanzaa table as one of the ancestral African-diaspora dishes. The ham hock is the soul of the broth; it seasons the liquid as it cooks and the meat gets pulled and stirred back through at the end. A splash of cider vinegar lifts the richness, and a pinch of cayenne keeps the dish from sliding into sweet. Served in shallow bowls with the broth, often spooned over rice (the New Year's Day pairing is called Hoppin' John).
 
 ## Ingredients
 

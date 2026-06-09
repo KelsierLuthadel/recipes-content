@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Choila (or chhwela) is a Newari dish from the Kathmandu Valley, traditionally made with buffalo (kachila when raw, sukula when air-dried, choila when grilled and dressed). Outside Nepal the chicken version is more accessible and just as good. The technique is simple but the result is striking: meat is grilled hard over open flame until charred at the edges, torn into bite-size strips, and dressed warm with smoking-hot mustard oil and a dressing of timur, ginger, garlic, dried chilli, lemon and a fistful of fresh coriander. The hot oil hits the spices and the meat at the same moment, releasing a perfume that fills the room.
-
-This is drinking food. In Kathmandu it is served at bhattis (small Newari taverns) with chyangra (millet beer), raksi (rice spirit) or chiya. The dish is meant to be hot, salty, sour and bright with chilli, the perfect partner to anything alcoholic.
-
-Best made with grilled-over-flame chicken or buffalo. A heavy cast-iron pan on a screaming hob, or a barbecue, both work; a domestic oven grill is acceptable but loses some of the char character.
+Choila (or chhwela) is a Newari dish from the Kathmandu Valley, traditionally made with buffalo (kachila when raw, sukula when air-dried, choila when grilled and dressed). Outside Nepal the chicken version is more accessible and just as good. The technique is simple but the result is striking: meat grilled hard over open flame until charred at the edges, torn into bite-sized strips, and dressed warm with smoking-hot mustard oil and a dressing of timur (Sichuan-type pepper), ginger, garlic, dried chilli, lemon and a fistful of fresh coriander. The hot oil hits the spices and the meat at the same moment, releasing a perfume that fills the room. This is drinking food. In Kathmandu it is served at bhattis (small Newari taverns) with chyangra (millet beer), raksi (rice spirit) or chiya. A heavy cast-iron pan on a screaming hob or a barbecue both work; a domestic grill is acceptable but loses some of the char character.
 
 ## Ingredients
 

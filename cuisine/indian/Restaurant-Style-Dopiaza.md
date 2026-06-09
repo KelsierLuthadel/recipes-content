@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The name dopiaza literally means "two onions" (do = two, piaza = onion), and that's the whole concept of the dish. Onion appears twice in two textures: very finely chopped and cooked into the masala at the start, then again as larger charred segments stirred in late so they keep their bite and bring scorched, slightly bitter notes to the sauce. Red pepper chunks ride along with the segments for sweetness and colour.
-
-The build is otherwise standard BIR, a [Curry Base Gravy](Base/curry-base.md) foundation, [Mix Powder](Spice-Mixes/mixed-powder.md), three-pour reduction, but the upfront scorch-frying is what separates a dopiaza from any other onion-heavy curry. Two teaspoons of oil get pushed to the limit on the highest heat the hob will give, then onion segments and red pepper hit the pan and char hard on the outside while staying intact inside. Don't pull them off too early; the controlled blackening at the edges is the dish.
-
-Worcestershire sauce closes the loop with a savoury kick. Pre-cooked chicken is standard, but lamb (especially keema) and tikka all sit comfortably in the dish.
+The name dopiaza literally means "two onions" (do = two, piaza = onion), and that's the whole concept of the dish. Onion appears twice in two textures: very finely chopped and cooked into the masala at the start, then again as larger charred segments stirred in late so they keep their bite and bring scorched, slightly bitter notes to the sauce. Red pepper chunks ride along with the segments for sweetness and colour. The build is otherwise standard BIR (curry base gravy, mix powder, three-pour reduction), but the upfront scorch-frying is what separates a dopiaza from any other onion-heavy curry. Two teaspoons of oil get pushed to the limit on the highest heat the hob will give, then onion segments and red pepper hit the pan and char hard outside while staying intact inside. The controlled blackening at the edges is the dish. Worcestershire sauce closes the loop with a savoury kick. Pre-cooked chicken is standard, but lamb and tikka sit comfortably too.
 
 ---
 

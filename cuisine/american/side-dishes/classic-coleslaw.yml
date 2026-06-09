@@ -12,7 +12,8 @@ tags:
   - onion
   - carrot
   - yogurt
-mentions: []
+mentions:
+  - cuisine/american/side-dishes/american-coleslaw
 ingredients:
   - qty: 0.5
     name: white cabbage

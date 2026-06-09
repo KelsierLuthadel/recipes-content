@@ -11,7 +11,7 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Onion is softened in butter; red cabbage joins along with sliced apple, brown sugar, red wine vinegar, a touch of red wine, cinnamon and cloves. Slow-cooked covered for an hour until the cabbage is silky and the liquid has reduced into a glossy glaze.
+The Sunday-lunch braise that turns up across British, German and Eastern European tables: shredded red cabbage cooked slow in butter with onion, sliced apple, brown sugar, red wine vinegar, red wine, cinnamon and cloves till the leaves go silky purple and the liquid reduces to a glossy sweet-sour glaze. The cabbage belongs alongside anything rich (goose, duck, roast pork, sausages, game) where its sharp-sweet edge cuts through the fat. Cooking apple (Bramley) is the canonical choice; it breaks down completely and disappears into the sauce while sweetening the cabbage from the inside. A long slow braise of 60 to 75 minutes is essential. Rushed red cabbage stays squeaky and the sweet-sour balance never develops. Most British home cooks make it the day before and reheat; the flavours deepen overnight and the dish improves through the freezer too, so leftovers freeze well for the next big roast.
 
 ## Ingredients
 

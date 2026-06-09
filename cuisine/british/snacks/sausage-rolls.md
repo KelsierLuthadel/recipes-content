@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sausagemeat (or sausage casings squeezed) mixes with herbs, mustard and breadcrumbs for a lighter texture. The mixture pipes onto strips of puff pastry, the pastry rolls over and seals, and the long rolls cut into bite-sized pieces. Egg wash, sesame seeds, bake.
+The British party-buffet staple and lunchbox stalwart: seasoned sausage meat wrapped in puff pastry, brushed with egg wash, baked till the pastry shatters and the filling is hot through. The sausage roll has been on British tables since the early 19th century (the French claim invention, but the form became thoroughly British in the Victorian era), and now turns up at every wake, christening, buffet table, picnic basket and Greggs counter across the country. The sausage meat wants to be properly seasoned (sage, thyme, mustard, plenty of black pepper) and lightened with breadcrumbs so the texture doesn't go heavy in the bake. Cold pastry is essential; warm dough collapses and the rolls bake flat instead of puffing high. Brushed with egg wash and sometimes scattered with sesame or poppy seeds, baked at high heat. Served warm, though cold sausage rolls from the fridge the next day have their own loyal following.
 
 ## Ingredients
 

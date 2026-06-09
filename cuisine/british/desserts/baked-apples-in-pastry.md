@@ -18,7 +18,7 @@
 - 30 grams caster sugar (to dust)
 
 ## Overview
-An impressive individual dessert presentation featuring whole apples at their center, filled with date-soaked in fragrant jasmine tea, and encased in a beautifully decorated shortcrust pastry cage. This elegant combination of warming spices (jasmine), natural sweetness (dates), and crisp pastry creates a sophisticated presentation suitable for special occasions.
+A dinner-party reworking of the homely baked apple: a whole cooking apple cored and stuffed with dates that have been soaked in fragrant jasmine tea, then wrapped in a hand-cut lattice cage of crisp sugar-glazed shortcrust pastry so each apple sits on the plate as its own little pastry parcel. The pastry cage is the showpiece; the apple inside cooks tender and the jasmine-soaked dates inside the core form a soft sweet caramel pocket that runs out when the crust is broken. Use a firm crisp eating apple (Cox's are ideal); cooking apples like Bramley collapse into purée before the pastry has time to brown. The jasmine tea is the subtle Anglo-French touch that lifts the dish above generic baked-apple territory; the floral note carries through into the dates and into the apple flesh as it cooks. Served warm with vanilla ice cream or thin custard.
 
 ## Method
 ### Prepare the fruit

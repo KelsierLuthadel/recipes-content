@@ -9,7 +9,7 @@
 **Makes:** 500 ml marinade
 
 ## Overview
-A simple spiced yoghurt marinade used for tandoori-style dishes. Combines yoghurt with tandoori paste, warming spices, and a touch of lemon juice to create a vibrant red coating for chicken, lamb, or vegetables before grilling or roasting.
+The vivid-red yogurt-based marinade that defines the British curry-house tandoori dishes: thick yogurt blended with shop-bought tandoori paste (Patak's is the canonical brand), garam masala, ground coriander, chilli powder, lemon juice and salt into a deep-red sauce that coats chicken, lamb or paneer before grilling or roasting. The mixture works two ways at once. The acid in the yogurt and lemon tenderises the meat by breaking down surface proteins, while the spices stain the outside that signature glowing red-orange colour and carry through into the flesh as it cooks. A minimum four-hour marinade is essential, overnight is far better, and skipping this rest gives meat that's bland and stays pale grey under the grill. Shop-bought tandoori paste is the everyday British curry-house shortcut; making the spice blend from scratch is the restaurant kitchen's domain.
 
 ## Ingredients
 - 500 ml yoghurt

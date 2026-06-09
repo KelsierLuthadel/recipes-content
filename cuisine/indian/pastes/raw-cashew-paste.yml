@@ -10,7 +10,10 @@ tags:
   - asian
   - pastes
   - nuts
-mentions: []
+mentions:
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/butter-chicken
+  - tutorials/pizza/sauce
 ingredients:
   - name: cashews
     raw: Raw cashews, quantity as needed

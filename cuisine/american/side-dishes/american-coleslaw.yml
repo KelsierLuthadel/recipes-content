@@ -12,7 +12,8 @@ tags:
   - onion
   - carrot
   - cream
-mentions: []
+mentions:
+  - cuisine/american/pulled-pork
 ingredients:
   - qty: 500
     unit: g

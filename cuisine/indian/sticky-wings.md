@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Crispy, sweet, and sticky chicken wings with a rich, fruity glaze from date syrup and treacle. These finger-licking wings blend dessert-like sweetness with savory spices, perfect for satisfying cravings at the intersection of sweet and savory.
+A Mowgli Street Food signature and one of the most pinned dishes on Indian-restaurant menus: chicken wings marinated overnight in yogurt with garam masala, Kashmiri chilli and ginger-garlic, then baked till the marinade caramelises into a deep red sticky glaze finished with date syrup and black treacle. The dish sits at the intersection of Indian tandoori tradition and Western sticky-wing bar food, and works as a party starter, a small-plate dinner-party canapé or a generous Saturday-night snack with cold beer. The date-syrup-and-treacle finish is the modern Indian-restaurant twist that gives the wings their unmistakable deep-mahogany lacquer; both ingredients have their own dark caramel notes that the standard sugar-and-honey glaze can't match. Bake on a wire rack over a tray so the marinade drips clear rather than steaming the bottoms; the rack is the only way to get the proper all-round caramelisation.
 
 ## Ingredients
 ### Protein

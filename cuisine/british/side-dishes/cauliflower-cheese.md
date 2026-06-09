@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Cauliflower florets blanch briefly so they're not raw but not cooked through. A béchamel takes mature cheddar, parmesan and mustard. The cauliflower nestles into the dish, the sauce drowns it, breadcrumbs and more cheese top, the oven does the rest.
+The British Sunday-lunch staple and roast beef's most loyal sidekick: blanched cauliflower florets nestled in a sharp cheddar-and-Dijon béchamel, topped with breadcrumbs and more cheese, baked till bubbling and dark gold. The dish is essentially mac and cheese with cauliflower instead of pasta, and it carries the same nursery-comfort quality. The cauliflower must be blanched (not boiled through); a brief two-minute dip in salted water stops the florets going to mush in the oven while the surface still cooks tender under the cheese. Mature cheddar is non-negotiable for the sauce; mild cheddar makes a bland béchamel, and pre-shredded supermarket cheese has anti-caking agents that prevent proper melting. A spoon of Dijon and a pinch of nutmeg lift the sauce above ordinary cheese-on-vegetables territory. Eaten alongside roast beef and Yorkshire pudding, or as a vegetarian main with a green salad.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Dark chocolate and butter melt over a bain-marie. Eggs and sugar whisk together until pale and ribbony, this gives the crackly top. The melted chocolate folds in, then a small amount of flour and cocoa, and chocolate chunks. Bake until the centre wobbles slightly; cool fully (or you'll get fudge soup).
+The American fudgy brownie at its most uncompromising: dense, glossy-topped, crackle-skinned squares of dark-chocolate batter whose middle stays just-set and slightly gooey while the edges pull cleanly from the tin. The crackly top is the test of a properly made brownie; it comes from sugar fully dissolved into the eggs by long ribboning, not from any leavening or trick. Whisk the eggs and sugar past ribbon stage before the melted chocolate joins, and the surface bakes glossy and shattering. Flour and cocoa go in at the very end and only just long enough to combine; over-mixed batter gives a cakey crumb, not the dense fudge that defines the American version. The middle must wobble slightly when the tin leaves the oven, and the brownies must cool fully in the tin before cutting, or the bottom collapses into fudge soup.
 
 ## Ingredients
 

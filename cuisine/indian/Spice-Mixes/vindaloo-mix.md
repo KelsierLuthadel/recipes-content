@@ -9,7 +9,7 @@
 **Makes:** about 25 g
 
 ## Overview
-A hot, sharp spice mix designed to complement vinegar-based curries. High in chilli with warm supporting spices.
+The hot sharp spice blend for the British curry-house vindaloo: a heavy hand of chilli powder bolstered with cumin, coriander, black pepper, cloves and cinnamon. Designed to work with the vinegar that defines vindaloo (the curry-house version of the Goan Portuguese-influenced vinha d'alhos: garlic, vinegar, wine). The mix sits at the top of the heat ladder among curry-house spice blends, sharper and more punchy than madras, and unlike the British "phaal" (which leans into raw heat for the sake of it) the vindaloo balances chilli against warm aromatic spices. The cloves and cinnamon are what stop the mix tasting one-dimensionally hot; they soften the chilli's edge and give vindaloo its proper warm-spice depth. Keeps two or three months in a sealed jar.
 
 ## Ingredients
 - 2 tsp chilli powder

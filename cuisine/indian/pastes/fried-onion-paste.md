@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Essential base for dopiaza curries, biryanis, and marinades. Fried onions add rich flavor and texture; the cooking oil can be reused in curries for extra taste.
+The make-ahead fried-onion paste that gives professional North Indian and Mughlai cooking its depth: sliced onions deep-fried in plenty of oil till light brown (they darken further as they cool), then blitzed with a splash of water or yogurt into a sticky dark paste that keeps a week in the fridge or freezes for a month. The paste is the secret behind every restaurant biryani, every dopiaza, every nihari and every korma. The onion has done all its sweet caramelised work in advance and stirs straight into the curry in seconds, where it would otherwise need 20 to 25 minutes of stove time. Pulling the onions when light brown is critical; they keep cooking on their own heat after coming out of the oil and overshoot to bitter dark if pulled too late. The frying oil should be saved and reused; it carries a beautiful sweet onion flavour straight into the next curry.
 
 ## Ingredients
 ### Fat

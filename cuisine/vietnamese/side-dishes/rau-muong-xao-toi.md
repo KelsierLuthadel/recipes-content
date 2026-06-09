@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Water spinach (also called morning glory or kangkung) is cut into manageable lengths and stir-fried hard and fast in a screaming-hot pan with smashed garlic and a touch of oil. A finishing splash of fish sauce, oyster sauce and sugar glazes the leaves. The whole thing takes longer to wash than to cook.
+Vietnam's everyday vegetable side: water spinach stir-fried hard and fast in a screaming-hot pan with a heavy hand of smashed garlic and a finishing splash of fish sauce, oyster sauce and sugar. The hollow stems stay crunchy while the leaves wilt to glossy dark green. Five minutes, three ingredients, and a benchmark of any cook's stir-fry technique. Water spinach (rau muống in Vietnam, also kangkung in Indonesia and Malaysia, morning glory in Western kitchens) is a hollow-stemmed semi-aquatic green sold at any Southeast Asian grocer. The hollow stems are the whole point. The pan must be properly hot (smoking, not just warm) for the leaves to wilt without going soggy; cool oil steams the greens into a sad puddle. Cooked in batches if the pan can't hold the lot in a single layer. Eaten with steamed jasmine rice as part of a Vietnamese family meal.
 
 ## Ingredients
 

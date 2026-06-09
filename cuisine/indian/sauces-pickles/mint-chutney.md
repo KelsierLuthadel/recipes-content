@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-Mint chutney is the Indian restaurant staple for good reason. A bright green blend of fresh yoghurt, mint leaves, and aromatics creates a versatile condiment that soothes and refreshes. Unlike many chutneys that are cooked, this one is assembled fresh and chilled, maintaining the mint's vibrant character. Quick to prepare, it lasts several days refrigerated.
+The bright-green dipping chutney that turns up on every Indian restaurant table alongside the bowl of poppadums: full-fat yogurt blitzed with fresh mint, coriander, garlic, ginger and a slit green chilli into a smooth pale-green sauce, slightly sharper than the tamarind chutney that sits next to it, slightly cooler than the raita that comes with the meal. The dish doesn't cook (unlike mango chutney or many fruit chutneys); it's assembled fresh and chilled, which keeps the mint's volatile aromatics vibrant and the colour vivid. The chilled rest of an hour or two brings the flavours together; eaten too soon and it tastes of separate ingredients rather than a single sauce. Lasts three or four days in the fridge before the mint dulls. Eaten with poppadums, samosas, pakoras, tandoori starters, and anywhere a bright-fresh herb counter is wanted.
 
 ## Ingredients
 - 270 grams plain yoghurt (full-fat preferred)

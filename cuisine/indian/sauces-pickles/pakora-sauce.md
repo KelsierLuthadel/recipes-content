@@ -11,7 +11,7 @@
 **Yield:** Approximately 400 ml
 
 ## Overview
-This is the quintessential dipping sauce for pakora and bhajis at Indian restaurants. A blend of yoghurt, mango chutney, tomato ketchup, and mint sauce creates a balanced sweet-sour-creamy condiment. The optional red food coloring gives it restaurant-style appearance, though it's not necessary. This sauce is quick to assemble and improves with a brief chill.
+The Scottish-Indian curry-house dipping sauce that turns up alongside every plate of pakora, bhaji or onion bhajia: a five-minute blend of plain yogurt, mango chutney, tomato ketchup, English mint sauce and a pinch of chilli, sometimes tinted pink with a drop of food colouring for the restaurant-aisle look. The sauce is a Glasgow curry-house invention from the 1970s and 80s and has been the default Scottish dip for fried Indian starters ever since (south of the border, mint chutney is the more common partner). The combination sounds wrong on paper but balances on the tongue: ketchup gives the sweetness, mint sauce the cool herbal lift, mango chutney the warmth, yogurt the body. A brief chill of an hour pulls the flavours together; eaten too soon and the components taste separate. Keeps four or five days refrigerated.
 
 ## Ingredients
 

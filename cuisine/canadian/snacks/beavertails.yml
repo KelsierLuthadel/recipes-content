@@ -21,6 +21,7 @@ mentions:
   - cuisine/jamaican/snacks/festival
   - tutorials/cocktails/equipment
   - tutorials/pizza/dough
+  - tutorials/pizza/toppings
 ingredients:
   - qty: 400
     unit: g

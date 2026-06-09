@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Deep-fried wholemeal flatbreads built on a tight, slightly drier dough than a roti so they hold their shape long enough to puff in the oil. Each disc puffs in seconds and stays crisp for a few minutes off the heat. Best served the moment they leave the pan, ideally with chole or another sauce-rich curry.
+The celebratory cousin of the everyday roti: small discs of tight wholemeal-flour dough rolled thin and deep-fried in hot oil where each one puffs in seconds into a hollow golden balloon. Puris turn up at every Indian festival, wedding banquet and Sunday-morning special meal across the subcontinent, paired with a sauce-rich curry (chole, kala chana, aloo bhaji) that fills the hollow cavity as you tear in. The dough is tighter and slightly drier than a roti dough; the dryness is what holds the disc together long enough in the oil to puff rather than collapse into a flat disc. The oil temperature is the second critical thing. Too cool and the bread absorbs oil and stays heavy; too hot and the outside burns before the puff sets. Pressed once with a slotted spoon to encourage the puff. Eaten the moment they come out, while the cavity is still open and crisp.
 
 ## Ingredients
 

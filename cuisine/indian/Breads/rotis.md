@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-A simple wholemeal flatbread that lives or dies on technique rather than ingredients. Rolled to even thinness and cooked first on a hot tawa, then puffed over a naked flame, a properly made roti separates into two thin sheets of soft bread. The right partner for almost any curry, dal or chutney.
+The daily bread of much of the Indian subcontinent: an unleavened wholemeal flatbread cooked dry on a hot tawa and finished briefly over an open flame, where trapped steam puffs the disc into a soft layered round that diners tear pieces off at the table to scoop curry, dal or chutney. The dish lives or dies on technique rather than ingredients (atta flour, water, salt; nothing else), and the test of a properly made roti is the puff: when held over an open gas flame for a second, the bread inflates like a balloon and separates into two thin sheets of soft inner crumb. Atta is the proper flour, a hard whole-wheat finely milled flour from Indian or Pakistani shops; substituting plain wholemeal works but the rotis come out heavier and less pliable. The dough needs a 30-minute rest so the gluten relaxes enough to roll thin without bouncing back.
 
 ## Ingredients
 

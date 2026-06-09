@@ -22,7 +22,7 @@
 - 30 grams liquid glucose
 
 ## Overview
-An elegant and refined rice pudding infused with the warm, floral notes of cardamom, set in a caramel-coated mold like a crème caramel for elegant presentation. The subtle spice and tender rice create a comforting yet sophisticated dessert that feels both nostalgic and luxurious.
+The Indian kheer pulled toward the French patisserie tradition: short-grain rice slow-cooked in milk with crushed cardamom till it goes silky and tender, then enriched with egg yolks and sugar, poured into individual ramekins coated with a thin layer of golden caramel and set in a bain-marie like a small crème caramel. The unmoulded pudding sits on the plate as a small ivory disc with the caramel pooling around its base. Kheer has been on Indian tables for thousands of years (mentioned in temple records back to the 4th century BC) and turns up at every festival from Eid to Diwali; the egg-set crème-caramel-style version is a Western refinement that gives the dessert a refined dinner-party form. Cardamom is non-negotiable, and the pods should be crushed and tied in muslin so the seeds don't pepper the finished pudding.
 
 ## Method
 1. Bring the milk to the boil in a pan, then tip in the rice.

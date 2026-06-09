@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Buttery shortcrust rests then rolls; one disc lines a pie dish, fills with sliced spiced apples, the second disc tops it. Egg-washed, sugared, vented, baked golden. The juices thicken with cornflour as they cook so the bottom doesn't go soggy.
+The double-crust pie of the British Sunday lunch and the Boxing Day table: a buttery shortcrust shell holding sliced spiced apples, capped with another disc of pastry, egg-washed, sugared, vented and baked till deep golden. Apple pie crossed to America with English settlers in the 17th century and became the canonical American dessert; the British version stays closer to its origins, leaning more savoury than sweet and depending on a proper mix of apples. Use cooking apples (Bramley) and eating apples together (around 2:1 by weight); the Bramleys break down to a soft purée while the eating apples hold their shape, giving the proper textural contrast inside the crust. A spoonful of cornflour tossed with the apples thickens the juices as they cook so the bottom crust doesn't go soggy. Served warm with cream, custard or vanilla ice cream; cold next-day apple pie for breakfast is its own tradition.
 
 ## Ingredients
 

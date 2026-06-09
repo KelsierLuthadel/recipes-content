@@ -26,7 +26,7 @@
 - 1 lemon (juice)
 
 ## Overview
-Moist and fragrant lemon cakes with a tender crumb, brushed with rum syrup and topped with a shimmering lemon icing glaze. These elegant loaves showcase brightness and simplicity, making them perfect for elegant entertaining or afternoon tea service, best sliced thin and served with fresh tea.
+The British afternoon-tea lemon loaf with a small upgrade for the dinner-party table: a buttery sponge with a tender crumb scented with lemon zest, brushed warm from the oven with dark rum and apricot jam glaze, then finished cold with a thin lemon-and-icing-sugar drizzle that sets glossy on top. The cake belongs to the lemon-drizzle tradition that runs through every British baking tin from the WI cake stall to the M&S afternoon-tea range, with the rum-and-apricot soak nudging it toward the French petit-four end. The small-loaf format makes it useful for tea trays and gifts. The soaking glaze must hit the cake while both are still warm; cold cake doesn't drink the syrup in, and you lose the moist crumb that defines the dish. Sliced thin and served with a strong cup of tea.
 
 ## Method
 1. Preheat the oven to 190°C.

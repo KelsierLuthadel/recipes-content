@@ -11,7 +11,7 @@
 **Cook Time:** 3 minutes
 
 ## Overview
-A Cornish-inspired pastry parcel filled with seasoned lamb, tender vegetables, and a rich, savory gravy. These hand-held pastries are perfect for portable meals, picnics, or as a sophisticated starter. The flaky shortcrust pastry encloses a deeply flavorful filling, a British classic that's remarkably easy to prepare at home.
+A lamb-and-vegetable variation on the Cornish pasty, the British miner's handheld lunch born in the tin mines of Cornwall and now eaten across the country at picnics, on long walks and as a casual main with a green salad. Diced lamb shoulder browns alongside softened onion, diced potato, swede and carrot, all stewed briefly in a savoury gravy thickened with a touch of flour, then cooled completely before being parcelled into circles of shortcrust pastry, crimped along one side into the iconic Cornish rope edge. The filling must be cool before it goes into the pastry; warm filling melts the butter and the pastry collapses in the oven. Lamb shoulder gives the proper flavour; lean lamb leg dries out in the long bake. Brushed with egg wash, baked till deep gold. Eaten warm or cold; both are correct.
 
 ## Ingredients
 - 750 grams [Shortcrust pastry](../../../baking/pastry/shortcrust-pastry.md) 

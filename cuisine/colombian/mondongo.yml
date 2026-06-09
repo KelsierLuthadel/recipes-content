@@ -21,8 +21,7 @@ tags:
   - lime
   - coriander
   - complex
-mentions:
-  - tutorials/pizza/sauce
+mentions: []
 ingredients:
   - qty: 800
     unit: g

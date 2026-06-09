@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cabbage is shredded finely; carrots and onion are shredded or grated alongside. Salt is added to draw moisture out so the dressing isn't watered down later. Once squeezed dry, the vegetables are tossed with a mayo-mustard-vinegar dressing and refrigerated to settle.
+The plainer, plainer-tasting cousin to American coleslaw: finely shredded white cabbage, grated carrot and finely sliced onion bound with a tangy mayonnaise, Dijon and cider-vinegar dressing. The classic barbecue and burger sidekick across the American South and Midwest, and better made the day before so the cabbage softens slightly and the dressing soaks in. Pre-shredded supermarket coleslaw mix gives a slaw that tastes of plastic; freshly shredded cabbage from a whole head is the only honest version. The salt-and-squeeze step is non-negotiable; without it the cabbage releases its water into the dressing and the slaw turns to a pool within hours. A pinch of sugar in the dressing balances the vinegar; American slaw leans gently sweet rather than mouth-puckering sharp. Rests at least an hour, better overnight, before serving.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Zlabia is the Maghreb's iftar sweet: lacy amber spirals of yeasted batter piped into hot oil and soaked in saffron-honey-rose syrup, sold at every Ramadan stall from Algiers to Tunis. The fermented batter (six hours minimum, overnight ideal) gives a slight yeasted tang that the heavy syrup needs to balance. Eaten slightly warm and syrup-soaked, with strong mint tea.
+The Maghreb's iftar sweet and a Ramadan staple from Algiers to Tunis: a thin yeasted batter piped through a small funnel or piping bag into hot oil in lacy free-form spirals, fried gold and immediately plunged into a syrup of honey, sugar, saffron, rose water and a squeeze of lemon till each piece turns amber-glossy and saturated. Sold from street stalls every evening during Ramadan, where the queues form before sunset and the spirals come out of the oil and into the syrup in a constant rhythm. The dish belongs to the broader Persian-Arab-Indian zalabia family (Indian jalebi is the same dish with a different syrup and a tighter spiral), and tracks back to medieval Persian cookbooks. The batter must ferment six hours minimum, overnight ideal; the slight yeasted tang is what stops the heavy syrup tipping into sickly. Eaten still warm with strong mint tea.
 
 ## Ingredients
 

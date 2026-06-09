@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Soft, slightly leavened Indian flatbreads traditionally served with chole (chickpea curry). The addition of yoghurt gives bhatura weight and flavor, making them a street-food favorite.
+Punjab's deep-fried puffed bread and the canonical partner to chole (chickpea curry): a yeasted-and-yogurt-leavened plain flour dough rolled into discs and deep-fried in hot oil, where each bhatura puffs up into a soft hollow balloon, dark gold outside, tender inside. The combination of chole bhature is one of North India's defining street-food meals, sold from corner shops, dhabas and food stalls across Delhi, Punjab and the wider region; the bhatura is the carb and the chickpeas the protein, but the bread is arguably the star. The yogurt is essential. It tenderises the dough, adds a faint sour note, and helps the bhatura puff into the proper hollow shape rather than going flat or chewy. The oil must be hot (around 180°C); too cool and the bread absorbs oil and stays heavy, too hot and the outside burns before the inside cooks through. Eaten the moment it comes off the oil.
 
 ## Ingredients
 ### Yeast starter

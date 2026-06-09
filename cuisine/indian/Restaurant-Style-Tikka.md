@@ -11,13 +11,7 @@
 **Cook Time:** 10 to 15 minutes
 
 ## Overview
-"Tikka" just means chunks. Bite-sized pieces of marinated protein, traditionally cooked in a tandoor oven on metal skewers where the radiant heat chars the outside in minutes while the yoghurt-based marinade keeps the inside tender. At home, a hot grill, a barbecue, or hard-charred pan-searing all give a respectable approximation.
-
-Chicken is the standard, but the same marinade works on paneer, lamb, prawns, or firm white fish. The dish is really the technique (marinate hard, grill hot), not the protein.
-
-A finished tikka sits at the intersection of two menu surfaces. As a starter, it goes straight off the skewer with mint chutney, lemon, and red onion. As a component, it goes into curries (most famously [Restaurant-Style Tikka Masala](Restaurant-Style-Tikka-Masala.md), but also butter chicken, tikka saag, jalfrezi-with-tikka, and so on), where the chargrill flavour carries through the sauce.
-
-A proper tikka marinade has three layers working in concert: the yoghurt (tenderises and carries the spices into the meat), a freshly-toasted-and-ground spice base (the depth that pre-ground masala can't match), and the tandoori masala blend on top for the unmistakable red-orange chargrill colour.
+"Tikka" just means chunks. Bite-sized pieces of marinated protein, traditionally cooked in a tandoor on metal skewers where the radiant heat chars the outside in minutes while the yogurt-based marinade keeps the inside tender. At home, a hot grill, a barbecue or hard-charred pan-searing all give a respectable approximation. Chicken is the standard, but the same marinade works on paneer, lamb, prawns or firm white fish. A finished tikka sits at the intersection of two menu surfaces. As a starter, it goes straight off the skewer with mint chutney, lemon and red onion. As a component, it goes into curries (most famously tikka masala, also butter chicken, tikka saag, jalfrezi-with-tikka), where the chargrill flavour carries through the sauce. A proper marinade has three layers working in concert: the yogurt (tenderises and carries the spices), a freshly toasted ground spice base (the depth pre-ground masala can't match), and tandoori masala for the unmistakable red-orange chargrill colour.
 
 ---
 

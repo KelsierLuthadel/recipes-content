@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Fresh coconut is ground with green chilli, ginger, roasted gram and a small splash of water into a smooth paste. The chutney is finished with a tempering of mustard seeds, dried red chilli, curry leaves and asafoetida in hot oil, poured over the white chutney for a striking visual and aromatic contrast.
+The classic South Indian breakfast chutney and the canonical companion to dosa, idli and vada: freshly grated coconut ground smooth with green chilli, ginger, roasted gram dal and a splash of water into a pale ivory paste, finished with a hot tadka of mustard seeds, dried red chilli, curry leaves and asafoetida sizzled in oil and poured over the surface. The hot temper drops onto the cold chutney with a sharp sizzle and the kitchen fills with the smell of curry leaf and mustard popping; the contrast between the cool white paste and the dark spiced oil is half the pleasure. Fresh coconut is non-negotiable. Desiccated coconut gives a dry dusty result, and frozen grated coconut (from any South Asian grocer) is the closest practical substitute outside the tropics. Best eaten within hours of making; the chutney loses its bright sweetness in the fridge.
 
 ## Ingredients
 

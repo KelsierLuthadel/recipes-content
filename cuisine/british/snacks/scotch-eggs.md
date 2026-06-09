@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Eggs are soft-boiled for 6 minutes (yolk barely set), cooled, peeled. Sausagemeat is mixed with mustard, herbs and chopped onion. The seasoned mixture is wrapped around each peeled egg. Each Scotch egg is dredged through flour, egg wash and panko, then deep-fried to a deep golden brown.
+The British pub classic and picnic-basket regular: a soft-yolk egg encased in seasoned sausage meat, breaded and deep-fried till the outside is dark gold and shatteringly crisp while the centre stays jammy. Invented (the story goes) by London department store Fortnum & Mason in 1738 as an aristocratic travel snack for the road to Scotland, the dish was a hard-boiled affair for two and a half centuries before the gastropub revival of the 2000s rediscovered the soft-yolk version. A properly made Scotch egg has a yolk that is still runny or just-set when the egg is cut open at the table, never the chalky grey of supermarket-aisle hard-boiled versions. The eggs need a six-minute soft-boil and an ice bath to stop the carry-over cooking, and the sausage meat must wrap evenly around the egg with no thin patches that crack open in the oil. Served warm with English mustard or piccalilli.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cabbage is finely shredded into ribbons. A temper of mustard seeds, urad dal, dried red chilli and curry leaves is bloomed in coconut oil, the shredded cabbage tossed in over high heat, and a coconut paste of fresh coconut, green chilli, garlic and cumin folded through. The dish stays dry and the cabbage retains a slight crunch.
+Kerala's everyday dry vegetable side and the canonical South Indian "thoran" preparation: finely shredded cabbage tossed in a tempering of black mustard seeds, urad dal, dried red chilli and curry leaves bloomed in coconut oil, then folded through with a freshly ground paste of grated coconut, green chilli, garlic and cumin. The dish stays properly dry (no gravy, no water), the cabbage keeps a slight crunch, and the coconut and curry leaves give the distinctive South Indian aromatic profile that distinguishes thoran from any northern Indian cabbage sabzi. Fresh coconut is non-negotiable; desiccated coconut makes the dish dry and dusty, and frozen grated coconut (from any South Asian grocer) is the closest practical substitute outside the tropics. Coconut oil for the temper carries the South Indian character; sunflower oil tastes flat in comparison. Eaten alongside rice, sambar and another curry as part of a Kerala home meal.
 
 ## Ingredients
 

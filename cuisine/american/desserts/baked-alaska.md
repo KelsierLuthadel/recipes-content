@@ -11,7 +11,7 @@
 **Cook Time:** 43 minutes
 
 ## Overview
-A spectacular show-stopping frozen dessert featuring vanilla and coffee ice cream inside a sponge case, completely encased in Italian meringue and briefly torched or baked until golden. This impressive historic dessert creates drama at the table as a frozen filling remains cold while the exterior turns warm and golden.
+The original dinner-party showstopper: a domed sponge base hides scoops of vanilla and coffee ice cream, the whole thing sealed in a thick coat of stiff Italian meringue and either torched or flashed in a screaming-hot oven till the peaks gild. The trick is that the meringue cooks instantly while the ice cream stays solid underneath, an insulation game won by physics rather than skill. Named after the Alaska Purchase of 1867 by a New York chef showing off the new territory, the dish became a 19th-century restaurant staple and never quite left the dessert trolley. The meringue has to seal the ice cream completely (any gap and the cold leaks out); a properly stiff Italian meringue (made by pouring hot sugar syrup into whipping whites) holds shape under the heat far better than a French one. Brought to the table hot from the oven and cut at once.
 
 ## Ingredients
 - 1 vanilla pod (split length-ways)

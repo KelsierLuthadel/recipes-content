@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A yeasted bread dough rises for 1 hour. Divided into 6 ropes (50 cm each); each rope knots into the classic pretzel shape. Each pretzel dips for 15 seconds into a baking-soda bath (boiling water + soda), this gives the colour and characteristic flavour. Salt scattered; baked at 220°C until darkly burnished.
+The Philadelphia-Bavarian soft pretzel: a large knotted bread with a chewy malty interior and a dark burnished crust scattered with coarse salt. German immigrants brought the pretzel tradition to Pennsylvania in the 18th century, and Philadelphia became the American pretzel capital, sold from street carts wrapped in waxed paper with a smear of yellow mustard. The defining technique is the alkaline bath: each shaped pretzel dunks briefly in boiling water mixed with baking soda (or lye in commercial production) before baking, which is what gives the deep mahogany crust and the unmistakable pretzel flavour. Skip the bath and you have a salted bread roll. Yellow mustard is the canonical Philadelphia dip; ballpark mustard is the working-class American style, sharp Düsseldorf the Bavarian-leaning option. Best eaten warm within an hour of baking; soft pretzels stale fast.
 
 ## Ingredients
 

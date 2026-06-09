@@ -9,7 +9,7 @@
 **Prep Time:** 10 minutes
 
 ## Overview
-This is the most essential Indian yoghurt-based side dish. Cooling yoghurt, refreshing cucumber, and a hint of heat from green chilli create a balance that's perfect alongside any spiced main course. The technique is simple: dice cucumber finely, fold into yoghurt with minimal seasonings, and garnish. This is a template raita; it anchors the Indian meal.
+The most essential Indian yogurt-based side and the canonical cooling counter to anything hot: cool whisked full-fat yogurt anchoring finely diced cucumber, a slit green chilli, a pinch of toasted cumin and a final scatter of chopped fresh mint or coriander. The raita has been at the Indian table for over a thousand years and anchors every meal that includes a hot curry, dal or biryani; its job is to soothe the palate between bites rather than add a flavour of its own, and the proper raita tastes mild and gentle next to the bigger flavours on the plate. The cucumber must be properly drained or salted first; cucumber holds a lot of water and a wet raita weeps across the plate. Full-fat yogurt is the canonical base; low-fat versions thin out and split. Served in a small bowl in the centre of the table.
 
 ## Ingredients
 - 1 cucumber (medium)

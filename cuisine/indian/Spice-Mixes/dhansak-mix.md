@@ -9,7 +9,7 @@
 **Makes:** about 30 g
 
 ## Overview
-A complex blend balancing sweet, sour, and savoury flavours, suited to lentil-based dhansak curries.
+The British curry-house dhansak spice blend: coriander, cumin, turmeric, paprika, cinnamon and mustard powder mixed together as the foundation for the sweet-sour-savoury dhansak curry. Dhansak is one of the original Parsi-Indian dishes, traditionally a slow-cooked lentil-and-meat stew eaten by the Zoroastrian community on Sundays and at funerals (the wedding-day taboo is real), but the British curry-house version dropped the lentils and reinvented the dish as a sweet-and-sour pineapple-flecked curry that bears little resemblance to the Bombay original. This blend supports both versions: the cinnamon and mustard powder push toward the sweet-sour profile, the coriander-cumin-paprika base toward the savoury depth. Lighter than a madras mix and warmer than a korma. Keeps two or three months in a sealed jar; better the fresher it is.
 
 ## Ingredients
 - 2 tsp coriander

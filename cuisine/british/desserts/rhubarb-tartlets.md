@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-These rhubarb tartlets feature sweet shortcrust cases filled with crème pâtissière and glazed orange-poached rhubarb. They are best assembled just before serving so the pastry stays crisp and the filling remains fresh.
+The British rhubarb tartlet pulled toward the French patisserie counter: small blind-baked sweet-shortcrust cases filled with vanilla crème pâtissière and topped with pink rhubarb batons poached briefly in an orange-scented syrup, glazed with the reduced poaching liquid for a glossy finish. Pink forced rhubarb (the early-spring stuff grown in the dark sheds of the Yorkshire Triangle) gives the proper vivid colour and gentle sweetness; later-season green-pink rhubarb works but the pieces hold their shape less well and the colour is less dramatic. The orange in the poaching syrup is the lift that stops the dish leaning sour; rhubarb and orange share a particular affinity that orange and lemon don't quite match. Assemble just before serving so the pastry stays crisp; the moment the crème pâtissière sits in the case for more than an hour, the bottom turns to a soft sweet sponge.
 
 ## Ingredients
 ### Pastry

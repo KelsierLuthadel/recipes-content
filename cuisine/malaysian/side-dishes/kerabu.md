@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Winged beans are sliced thin and tossed with kerisik (toasted grated coconut pounded to a fragrant paste), fresh herbs, dried shrimp and a sharp chilli-lime dressing. The kerisik is the heart of the dish, it gives the salad its smoky-sweet backbone and binds the dressing to the vegetables. Bright, crunchy, savoury and just lightly fiery.
+The Malay raw salad and a kampung (village) staple from the Malay peninsula: thinly sliced winged beans (kacang botol, the Southeast Asian four-edged green bean) tossed with kerisik (toasted grated coconut pounded into a fragrant brown paste), dried shrimp, fresh herbs and a sharp chilli-lime-fish-sauce dressing. Eaten next to grilled fish, ayam percik or a bowl of nasi lemak as the bright sharp counterpoint to richer cooked dishes. Kerisik is the heart of the dish: freshly grated coconut dry-toasted in a pan till deep brown and pounded in a mortar till the oils release into a fragrant paste, which gives the salad its smoky sweet backbone and binds the dressing to the vegetables. Winged beans are sold at any Southeast Asian grocer; green beans or French beans substitute outside Malaysia but the dish loses some of its proper character. Eaten the day it's made.
 
 ## Ingredients
 

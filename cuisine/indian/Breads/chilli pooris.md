@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Small deep-fried Indian flatbreads built on a half-and-half mix of plain and wholemeal flour, spiked with chilli powder and chopped fresh chilli. Each piece puffs in seconds in the hot oil and stays crisp for a few minutes off the heat. Best served straight from the pan alongside a north Indian curry or pickles and yoghurt.
+The North Indian deep-fried puffed bread with a gentle chilli kick: small discs of half-and-half plain-and-wholemeal flour dough, spiked with chilli powder and chopped fresh green chilli, rolled thin and slipped into hot oil where each one puffs up into a small golden balloon in three or four seconds. The poori is one of the foundational Indian breads, eaten across the north as an everyday companion to dal, curry, halwa or just a small bowl of pickle, and turning up everywhere from roadside dhabas to wedding banquets. The chilli version is a domestic touch rather than a regional canon: a home cook's way of giving a plain dough a quiet warm glow at the back of the throat. The oil must be properly hot (around 190°C) for the bread to puff; cooler oil gives flat dense discs. Pressed once with a slotted spoon to encourage the puff. Eaten the moment they come out.
 
 ## Ingredients
 

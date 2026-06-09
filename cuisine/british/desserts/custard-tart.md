@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-This sweet custard tart combines a crisp flan pastry case with a smooth vanilla custard filling, served here with poached prunes and candied citrus peel. It is best chilled slightly so the custard sets while still offering a tender, creamy bite.
+The flan boulanger of every French village bakery, in its British dinner-party form: a crisp blind-baked flan pastry case holding a smooth set vanilla custard, served with prunes poached in spiced syrup and curls of candied citrus peel laid across the top. The tart is one of those dishes that lives in both the French and the British canon (the French version is plainer, the British version often adds prunes or stewed fruit), and you'll find variations from Yorkshire custard tart in the north of England through to French flan parisien in any Paris boulangerie. The pastry must be properly blind-baked and the inside lightly egg-washed before the custard pours in; without that seal the bottom goes soggy. A low oven (140 to 150°C) sets the custard slowly and smoothly; any hotter and the surface bubbles and splits. Eaten slightly chilled.
 
 ## Ingredients
 ### Pastry

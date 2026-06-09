@@ -11,7 +11,8 @@ tags:
   - asian
   - spices
   - onion
-mentions: []
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
 ingredients:
   - qty: 1
     unit: tbsp

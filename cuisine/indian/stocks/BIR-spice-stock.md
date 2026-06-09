@@ -8,7 +8,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A fragrant aromatic stock made from whole spices and fresh herbs. This versatile base adds depth to curries when extra liquid is needed to thin or lighten a sauce. While water works, this stock imparts subtle layers of flavour that elevate the final dish.
+The British-Indian-restaurant aromatic stock that quietly carries half the flavour of a proper curry-house kitchen: water simmered with green cardamom, cassia leaves, cinnamon, black pepper, star anise, cumin, coriander stalks, fresh chillies, garlic and ginger into a deeply fragrant pale broth, strained clear and kept warm on the line for whenever a sauce needs to be thinned or extended. The stock is one of the curry-house secrets that home cooks rarely make and pros rely on every service; plain water is the substitute and works, but the stock adds quiet aromatic layers under every sauce that water can't supply. Freeze in small portions for instant deployment. Made with whole rather than ground spices so it stays clear and clean-tasting rather than muddy; ground spices give a thick cloudy stock that throws off the sauces it's meant to support.
 
 **Makes:** 750ml (3 ¼ cups)
 ## Ingredients

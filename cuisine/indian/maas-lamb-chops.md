@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Tender lamb chops marinated in spiced yogurt, evoking the aroma of family parties. Despite poor margins, this dish captures the essence of home and Mowgli's heritage. Grilled to perfection for a nostalgic, flavorful experience.
+The Indian home-cook's lamb chop and a Mowgli Street Food signature: thick lamb chops marinated overnight in yogurt, fresh ginger, garlic, garam masala, Kashmiri chilli and a squeeze of lemon, then pan-fried hard till the spice crust chars while the inside stays pink. The dish belongs to the wider North Indian tradition of yogurt-marinated grilled meats (kakori, seekh, boti) but cooked in a domestic pan rather than a tandoor, which makes it the kind of thing every Punjabi grandmother (a maa, "mother") can throw together for a Saturday family lunch. The yogurt is the soul of the marinade: lactic acid tenderises the lamb gently, and the milk proteins help the spices cling to the meat and form a proper crust in the pan. Overnight is the proper marinade time; four hours is the absolute minimum. Eaten hot off the pan with mint chutney and lemon wedges.
 
 ## Ingredients
 ### Protein

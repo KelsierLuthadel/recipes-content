@@ -11,16 +11,7 @@
 **Cook Time:** 10 minutes (boiling eggs)
 
 ## Overview
-Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tradition that defines Danish lunch culture and dominates every Danish workplace canteen, café menu, ferry-port restaurant and countryside kro (country inn) from Copenhagen to Skagen. The construction is structural: a thick slice of dark dense Danish rye bread (rugbrød - sourdough rye with whole grains, very dense, slightly sour, the canonical Danish carb) is generously buttered, then topped with a carefully arranged combination of one main protein (cured herring, smoked salmon, leverpostej liver pâté, sliced cold roast beef, hard cheese, sliced hard-boiled egg) plus garnishes that always include something pickled, something fresh-green (dill, chives, cress, parsley), and often something pickled and sharp (red onion, capers, pickled cucumber). Each combination has a name and a strict canonical structure; the most famous are:
-
-- **Sild på rugbrød** (pickled herring): herring + raw red onion + chopped dill + capers
-- **Æg og rejer** (egg and shrimp): sliced boiled egg + cold-water shrimps + dill + lemon
-- **Kartoffelmad** (potato): sliced boiled potato + raw red onion + mayo + chives
-- **Dyrlægens natmad** ("vet's late-night supper"): leverpostej + sliced cold roast beef + meat aspic + raw onion + cress
-- **Roastbeef** (roast beef): sliced cold roast beef + remoulade + crispy fried onion + horseradish + cress
-- **Skinke og italiensk salat** (ham and Italian salad): cold ham + a cubed-vegetable-and-mayo salad
-
-Smørrebrød is eaten with a knife and fork, never picked up. Accompanied by a small glass of cold pilsner and a shot of akvavit (the snaps ritual - see [Aalborg Akvavit recipe](../../drinks/regional/denmark/aalborg-akvavit.md)).
+Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tradition that defines Danish lunch culture and dominates every workplace canteen, café menu, ferry-port restaurant and countryside kro from Copenhagen to Skagen. A thick slice of dark dense Danish rye (rugbrød: dense sourdough rye, very slightly sour, the canonical Danish carb) is generously buttered, then topped with one main protein (cured herring, smoked salmon, leverpostej liver pâté, cold roast beef, hard cheese, sliced hard-boiled egg) plus garnishes that always include something pickled, something fresh-green (dill, chives, cress, parsley) and often something sharp (red onion, capers, pickled cucumber). Each canonical combination has a name: sild på rugbrød (pickled herring), æg og rejer (egg and shrimp), kartoffelmad (potato), dyrlægens natmad (vet's late-night supper, leverpostej and beef), roastbeef with remoulade, skinke og italiensk salat (ham and Italian salad). Eaten with knife and fork, never picked up, accompanied by cold pilsner and a shot of akvavit.
 
 ## Ingredients
 

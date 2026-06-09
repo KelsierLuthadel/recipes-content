@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A classic Roman salad featuring crisp cos lettuce coated in a rich, anchovy-based dressing with crispy croutons, tender chicken, and pancetta. The soft-boiled egg adds creaminess to the velvety emulsified dressing.
+The 1990s American main-course Caesar: the original Tijuana salad upgraded with grilled chicken breast and crisp pancetta to turn a starter into a proper lunch. Cos romaine carries the anchovy-and-egg-yolk dressing, garlic croutons add crunch, shaved parmesan goes generously, and a soft-boiled egg cut into wedges sits on top for extra richness. The dish is not Roman despite its Italian-sounding name; it was invented in Tijuana in the 1920s by Italian-American Caesar Cardini, and the chicken-and-bacon variation became the canonical Anglo-American lunchtime salad in the 1980s and 1990s. Anchovies are non-negotiable in the dressing. The pancetta wants to be properly crisp, broken into shards across the top so each forkful gets a bite. The chicken is grilled or pan-seared (not poached), sliced across the grain into thick strips, and laid warm over the cold leaves at the last moment.
 
 ## Ingredients
 ### Protein

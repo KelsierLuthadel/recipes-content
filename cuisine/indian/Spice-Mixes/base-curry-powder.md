@@ -9,7 +9,7 @@
 **Makes:** about 50 g
 
 ## Overview
-A balanced, all-purpose curry powder used as the foundation for most BIR-style dishes.
+The foundation spice blend of the British-Indian restaurant (BIR) kitchen: coriander, cumin, turmeric, paprika, chilli powder, garlic powder and ginger powder mixed together into a balanced all-purpose curry powder that goes into most curry-house dishes. The mix is the workhorse spice blend that every British curry house uses as the base for jalfrezi, madras, dopiaza, balti and dozens of other dishes; from this single jar a kitchen can build dozens of different finished curries by adjusting the chilli, the tomato base and the finishing spices. Pre-ground supermarket curry powder is the everyday home cook's substitute, but a freshly mixed blend tastes brighter and more aromatic, and keeps for two or three months in a sealed jar. The exact ratio varies between curry-house kitchens; this is a widely accepted middle version that works as a default starting point.
 
 ## Ingredients
 - 2 tbsp coriander powder

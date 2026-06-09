@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Garlic chilli chicken sits in the medium-hot end of the BIR menu, distinguished by two things: heavily browned sliced garlic going in early alongside the onion, and a generous handful of whole (or split) fresh thin green chillies joining the sauce late so they keep their bite. Six cloves of garlic sliced thin gives the dish a sweet, nutty depth as they caramelise, quite different to the more neutral ginger-garlic paste that does the standard background work in every BIR build.
-
-The build is otherwise a familiar three-pour [Curry Base Gravy](Base/curry-base.md) reduction, but with a star anise tempered in the oil for a faintly liquorice undertone and coconut in two forms (powder + milk) joining the sauce in different stages to give a soft, slightly sweet backdrop that holds the chilli heat. Mango chutney goes in late only if the dish wants sweetening, taste before adding.
-
-The dish reads garlic-first, with the chilli following a beat behind. Eat it warm rather than hot from the pan; the garlic flavour comes through more cleanly once the heat settles slightly.
+Garlic chilli chicken sits in the medium-hot end of the BIR menu, distinguished by two things: heavily browned sliced garlic going in early alongside the onion, and a generous handful of whole (or split) fresh thin green chillies joining the sauce late so they keep their bite. Six cloves of garlic sliced thin gives the dish a sweet nutty depth as they caramelise, quite different to the more neutral ginger-garlic paste that does the standard background work in every BIR build. The rest is a familiar three-pour curry-base reduction, but with a star anise tempered in the oil for a faintly liquorice undertone and coconut in two forms (powder and milk) joining the sauce at different stages to give a soft slightly-sweet backdrop that holds the chilli heat. The dish reads garlic-first, with the chilli following a beat behind. Eat warm rather than hot from the pan; the garlic flavour comes through more cleanly once the heat settles slightly.
 
 ---
 

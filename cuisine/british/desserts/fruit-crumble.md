@@ -29,7 +29,7 @@
 - 15 grams flaked almonds
 
 ## Overview
-A generous and warming autumnal crumble featuring tart cranberry, fragrant quince, and sweet apples, crowned with a buttery almond crumble topping studded with toasted flaked almonds. This deeply flavored dessert showcases the subtle flavors of fall fruits balanced with sweet spices and served warm for maximum comfort.
+The British autumn crumble pulled toward the dinner-party end of the spectrum: tart cranberries, fragrant poached quince and sweet apples layered under a buttery crumble topping studded with toasted flaked almonds and a pinch of ground ginger. Quince is the unfamiliar fruit that lifts this above the everyday apple crumble; the hard pale-yellow fruit cooks down to a deep amber-rose colour with an aromatic floral note halfway between apple and pear, and once you've made a crumble with it the plain version reads as flat. The fruits go in raw for the most part (the quince needs a brief poach first because it's denser than the others), and the crumble lid stays loose and rough rather than worked into a paste; pressing the topping down gives a heavy crust that traps the fruit underneath. Served warm with crème anglaise or thick cream.
 
 ## Method
 ### To prepare the filling

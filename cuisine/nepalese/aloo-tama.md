@@ -11,11 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Aloo tama (literally "potato bamboo") is one of Nepal's most distinctive dishes, the recipe that introduces visitors to the sour-funk side of the cuisine. The defining ingredient is **tama** - fermented bamboo shoot - which gives the curry its sharp, almost cheese-like sour note unlike anything else in the regional repertoire. Potato carries the body; black-eyed peas (bodi) provide the bite and the protein. The whole thing is spiced lightly with turmeric, cumin, coriander and a generous hand of timur (Sichuan-type pepper), then finished with fresh coriander.
-
-Fermented bamboo is sold in jars or vacuum-packs at Nepali, Tibetan and some pan-Asian groceries; the brand "Tama" is the most common. Tinned bamboo shoots (the kind sold for Chinese cooking) are NOT a substitute - they are fresh-cooked, not fermented, and the dish loses its character entirely. If you absolutely cannot find fermented bamboo, the closest substitute is fermented mustard greens (Sichuan suan cai) or sauerkraut, finely chopped - different but workable.
-
-A staple of Newari and broader Nepali cooking; often served as part of dal bhat rather than as a standalone, but substantial enough to eat with rice or roti as a one-bowl meal.
+Aloo tama (literally "potato bamboo") is one of Nepal's most distinctive dishes, the recipe that introduces visitors to the sour-funk side of the cuisine. The defining ingredient is tama, fermented bamboo shoot, which gives the curry its sharp, almost cheese-like sour note unlike anything else in the regional repertoire. Potato carries the body; black-eyed peas (bodi) provide the bite and the protein. The whole thing is spiced lightly with turmeric, cumin, coriander and a generous hand of timur (Sichuan-type pepper). Fermented bamboo is sold in jars or vacuum-packs at Nepali and Tibetan groceries. Tinned bamboo shoots are not a substitute; they're fresh-cooked, not fermented, and the dish loses its character. Fermented mustard greens (Sichuan suan cai) or sauerkraut substitute if you absolutely can't find tama. A staple of Newari and broader Nepali cooking, often served as part of a dal bhat plate.
 
 ## Ingredients
 - 200 g dried black-eyed peas (soaked overnight in cold water) - or 1 tin (400 g), drained

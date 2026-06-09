@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes (plus 1 to 2 hours chilling)
 
 ## Overview
-A no-bake chocolate slab built on a half-and-half blend of milk and dark chocolate, melted with butter and golden syrup, then loaded with broken digestives, dried apricots, raisins and pecans. Not as sweet as rocky road, not as dense as tiffin: the agnostic family recipe that uses up the bottom of the cupboard.
+The catch-all British no-bake chocolate slab: a half-and-half blend of milk and dark chocolate melted with butter and golden syrup, loaded with broken digestives, dried apricots, raisins and pecans, pressed into a tin and set in the fridge till firm enough to cut into squares. Fridge cake sits squarely in the same family as rocky road and tiffin, with no fixed recipe; every British household has a slightly different version using whatever happens to be in the cupboard. This version balances the chocolates so the slab isn't cloying, and the apricot-and-pecan combination gives a more grown-up bite than the marshmallow-and-honeycomb rocky-road cousin. The milk-and-dark blend matters; all-milk reads as a child's chocolate bar, all-dark sets too hard. Made for school cake stalls, lunchbox treats and the WI baking table for generations.
 
 ## Ingredients
 

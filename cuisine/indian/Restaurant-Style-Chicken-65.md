@@ -10,11 +10,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Chicken 65 is one of the most-debated origin stories in South Indian cooking. The dish traces to the Buhari hotel in Chennai in 1965 (hence the name, in the leading theory), but rival accounts include a 65-day marinade, 65 chillies per kilo, or a 65-ingredient masala. What's not debated is the technique: bite-sized chicken pieces in a yoghurt-and-spice marinade, fried hard, then tossed in a vivid red sauce that's sweet, savoury, and aggressively aromatic.
-
-This is unlike anything else in the Restaurant-Style series. It uses no [Curry Base Gravy](Base/curry-base.md) and follows none of the three-pour BIR conventions. It's a two-stage build: deep-fry the chicken, make the sauce separately, toss together at the end. Curry leaves (fresh if you can get them, dried otherwise), mustard seeds, and a heavy hand on the [Tandoori Masala](Spice-Mixes/tandoori-masala.md) give the dish its South Indian character; tomato ketchup, dark soy sauce, and honey give it the slightly Indo-Chinese sticky-glaze feel that's become its signature in modern restaurants.
-
-Eat immediately. Chicken 65 loses what makes it great as soon as the batter softens.
+Chicken 65 is one of the most-debated origin stories in South Indian cooking. The dish traces to the Buhari Hotel in Chennai in 1965 (hence the name, in the leading theory), but rival accounts include a 65-day marinade, 65 chillies per kilo, or a 65-ingredient masala. What's not debated is the technique: bite-sized chicken pieces marinated in yogurt and spice, deep-fried hard, then tossed in a vivid red sauce that's sweet, savoury and aggressively aromatic. This is unlike anything else in the Restaurant-Style series; no curry base gravy, none of the three-pour BIR conventions. A two-stage build: deep-fry the chicken, make the sauce, toss at the end. Curry leaves, mustard seeds and a heavy hand on the tandoori masala give the South Indian character; ketchup, dark soy and honey give the slightly Indo-Chinese sticky-glaze feel of the modern restaurant version. Eat immediately; chicken 65 loses what makes it great as soon as the batter softens.
 
 ---
 

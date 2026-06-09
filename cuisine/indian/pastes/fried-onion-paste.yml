@@ -6,11 +6,13 @@ tags:
   - vegetarian
   - gluten-free
   - quick
+  - make-ahead
   - asian
   - pastes
   - onion
   - yogurt
-mentions: []
+mentions:
+  - cuisine/indian/biryani
 ingredients:
   - name: rapeseed oil
     raw: Rapeseed oil, for deep-frying

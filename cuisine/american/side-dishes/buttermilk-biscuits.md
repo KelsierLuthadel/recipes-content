@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Cold butter cuts into flour with leavening and salt; remains in pea-sized pieces. Cold buttermilk hydrates to a shaggy dough. The dough turns out, pats flat, folds three times (lamination), pats out again, stamps with a sharp cutter (no twisting). Baked at high heat 12-15 minutes until tall, gold and steam-puffed.
+The American flaky soft biscuit: short by butter, leavened by baking powder and buttermilk, baked tall and gold. A Southern breakfast staple eaten warm split open and slathered with butter and jam, or smothered in sausage gravy as biscuits-and-gravy. The dough is short, not sweet, and the leavening is what makes it; the rise comes from cold butter in pea-sized pieces creating steam pockets, plus the chemistry of baking powder hitting the acid in the buttermilk. Two things make biscuits proper. Everything must be cold (butter, buttermilk, even the flour in summer); warm butter melts into the flour and you lose the layers. And the cutter must be sharp and pressed straight down with no twisting; a twist seals the edges and the biscuits rise lopsided. A three-fold lamination gives the visible layers that lift in the oven and split cleanly with a fork.
 
 ## Ingredients
 

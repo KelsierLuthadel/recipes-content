@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken rezala is a Mughlai dish associated with Kolkata's Muslim-quarter restaurants, traditionally a delicate, aromatic curry built around yoghurt, ground cashews, white pepper, and a final perfume of kewra (screwpine) or rose water. The BIR adaptation keeps the dish's defining quality, its almost ivory-pale colour and gentle floral aromatics, by rebuilding it on a [Curry Base Gravy](Base/curry-base.md) but holding back the chilli powder, turmeric, and Kashmiri chilli that would tint the sauce red or orange.
-
-The rezala paste does most of the work. Blitzed cashews, poppy seeds, white pepper, yoghurt, and optional green chillies form a smooth pale base that goes in late with the final gravy pour, so the dairy doesn't split under sustained high heat. White pepper instead of black is deliberate: it carries warmth without the bitter top note that would clash with the cashew sweetness.
-
-The kewra or rose water finish is what makes this dish unmistakable. A few drops at the end perfume the bowl. Soaked saffron in warm milk drizzled on top is purely cosmetic, beautiful but skippable. Toasted cashews on the plate echo the paste and add textural interest.
+Chicken rezala is a Mughlai dish associated with Kolkata's Muslim-quarter restaurants: traditionally a delicate aromatic curry built around yogurt, ground cashews, white pepper and a final perfume of kewra (screwpine) or rose water. The BIR adaptation keeps the dish's defining quality, its almost ivory-pale colour and gentle floral aromatics, by rebuilding it on a curry-base gravy but holding back the chilli powder, turmeric and Kashmiri chilli that would tint the sauce red or orange. The rezala paste does most of the work: blitzed cashews, poppy seeds, white pepper, yogurt and optional green chillies form a smooth pale base that goes in late with the final gravy pour, so the dairy doesn't split under sustained high heat. White pepper rather than black is deliberate; it carries warmth without the bitter top note that would clash with the cashew sweetness. A few drops of kewra or rose water at the end perfume the bowl; toasted cashews on the plate echo the paste.
 
 ---
 

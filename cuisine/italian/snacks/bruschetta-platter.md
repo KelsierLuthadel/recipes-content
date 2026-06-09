@@ -9,7 +9,10 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Two bruschette on one platter for an antipasto with two reasons to keep coming back to the table: charred peppers slipped out of their blackened skins and dressed with parsley and oil, alongside ripe tomatoes diced with basil and lemon. The bread is the constant, thick slices of crusty Italian loaf grilled hard until both sides are dark gold and rubbed with a raw garlic clove while still warm. Each topping goes on its own slice and the platter alternates colours like the Italian flag at the table. Make the peppers ahead, the tomato mixture an hour before, and assemble at the last moment so the bread stays crisp; serve with a chilled Vermentino or a glass of Prosecco.
+Two bruschette on one platter for an antipasto with two reasons to keep coming back: charred peppers slipped out of their blackened skins and dressed with parsley and oil, alongside ripe tomatoes diced with basil and lemon. The bread is the constant: thick slices of crusty Italian loaf grilled hard until both sides are dark gold and rubbed with a raw garlic clove while still warm. Each topping goes on its own slice and the platter alternates colours like the Italian flag at the table. Make the peppers ahead, the tomato mixture an hour before, and assemble at the last moment so the bread stays crisp. Served with a chilled Vermentino or Prosecco.
+
+## Ingredients
+
 ### Pepper Topping
 - 1 yellow pepper
 - 1 red pepper

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Pasta cooks just past al dente in salted water. A béchamel builds from butter, flour, milk and a pinch of mustard powder, paprika and cayenne. Off the heat, grated cheese melts in. Pasta tosses through the sauce; tipped into a baking dish; topped with buttered breadcrumbs; baked for 25 minutes until deeply golden.
+America's baked pasta side and a Southern Sunday-dinner institution: short pasta (elbows are canonical; cavatappi or shells substitute) folded through a roux-thickened cheddar béchamel, tipped into a baking dish, topped with buttered breadcrumbs and baked till bubbly and deep gold. The dish has English roots (Thomas Jefferson reputedly brought the idea back from France and served it at Monticello in the 1790s), but the American Southern version became the canonical one through the early 20th century. Two non-negotiables. The cheese must be properly aged sharp cheddar (orange, ideally; this is one of the few dishes where the colour matters as much as the flavour), not pre-shredded from a bag; pre-shredded cheese has anti-caking starch that prevents proper melting. And the pasta wants to come out just past al dente; soft pasta in a long bake turns into mush. A pinch of mustard powder and cayenne sharpens the cheese sauce against the richness.
 
 ## Ingredients
 

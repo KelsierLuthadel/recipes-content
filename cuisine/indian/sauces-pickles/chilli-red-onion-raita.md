@@ -11,7 +11,7 @@
 **Cook Time:** 2 minutes
 
 ## Overview
-This is raita with structural elements and textural interest. Cool yoghurt anchors the dish, while red onion provides peppy bite, toasted cumin adds earthiness, green chilli brings heat, and a garnish of thin onion slices adds visual appeal. This is more composed than simple cucumber raita, yet still maintains its essential cooling function.
+The raita with structural ambition: cool whisked yogurt anchored with finely chopped red onion, toasted cumin, a slit green chilli for heat, and a final scatter of thin onion slices and chilli powder on the surface for the proper Indian table look. Sharper and more present than the everyday cucumber raita, but still doing the same essential cooling work next to a hot curry. Toasted ground cumin (whole seeds toasted in a dry pan and ground) gives the earthy backbone; supermarket pre-ground cumin tastes pale and dusty in comparison. Full-fat natural yogurt is the canonical Indian base; low-fat yogurt thins out and weeps water on the plate. Served in a small bowl at the centre of the table for every diner to spoon from. Best eaten the same day; the onion sharpens and dominates by the next morning.
 
 ## Ingredients
 

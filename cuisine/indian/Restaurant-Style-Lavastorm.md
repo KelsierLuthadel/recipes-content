@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga, and the various house-named "hottest curries on the menu" dishes. The defining ingredient is a freshly blended chilli paste, garlic, tandoori masala, and a deliberate blend of super-hot red chillies (naga, scotch bonnet, Thai red, with regular supermarket chillies as the rounder bottom note). Three tablespoons of that paste, plus extra-hot chilli powder, Kashmiri chilli powder, chilli flakes, and 8 to 10 sliced fresh green chillies stirred in at the end, build a wall of heat that needs careful balancing.
-
-What stops the dish from being unbearable is the late layer of honey, sugar, lime juice, and a final spoon of yoghurt. The sweetness and acidity give the heat structure; the yoghurt softens the colour and the texture. Without those finishing notes you have a dish that just hurts. With them you have a curry that hits hard, layers in tropical-fruit chilli flavours from the naga and scotch bonnet, then rounds out as it cools on the tongue.
-
-Cook this with the extractor fan on full and a window open. The chilli vapour coming off the pan during the high-heat stages is no joke.
+Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga and the various house-named "hottest curries on the menu" dishes. The defining ingredient is a freshly blended chilli paste of garlic, tandoori masala and a deliberate blend of super-hot red chillies (naga, Scotch bonnet, Thai red, with regular supermarket chillies as the rounder bottom note). Three tablespoons of that paste, plus extra-hot chilli powder, Kashmiri chilli, chilli flakes and 8 to 10 sliced green chillies at the end, build a wall of heat that needs careful balancing. What stops the dish from being unbearable is the late layer of honey, sugar, lime juice and a final spoon of yogurt. The sweetness and acidity give the heat structure; the yogurt softens the colour and texture. Cook with the extractor fan on full and a window open; the chilli vapour coming off the pan during the high-heat stages is no joke.
 
 ---
 

@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Phaal is the restaurant category-killer for heat, traditionally claimed (though disputed) as a British invention from the Birmingham balti scene rather than a true Indian dish. The pitch is straightforward: take a standard BIR build and load it with three tablespoons of chilli powder in three forms (extra-hot, Kashmiri, and chilli flakes), back it up with chilli chutney or Mr Naga pickle, and reduce hard so the heat is concentrated rather than diluted.
-
-The trick is making it taste of something other than pain. Two tablespoons of Kashmiri chilli powder do most of the colouring work without proportional heat; the extra-hot chilli powder and chilli flakes are where the bite comes from; Mr Naga adds fruity, almost tropical chilli notes that read as flavour rather than just burn. A late slug of lemon juice and an optional spoon of sugar pull the dish into balance. Without them you have punishment; with them you have a properly hot curry that still tastes like a meal.
-
-Cook this with the extractor fan on full and a window open. The capsaicin vapour coming off the pan during the spice-bloom and tomato stages is no joke, it catches in the throat and chest, and even a small splatter on bare skin will smart for hours.
+Phaal is the restaurant category-killer for heat, traditionally claimed (though disputed) as a British invention from the Birmingham balti scene rather than a true Indian dish. The pitch is straightforward: take a standard BIR build and load it with three tablespoons of chilli powder in three forms (extra-hot, Kashmiri and chilli flakes), back it up with chilli chutney or Mr Naga pickle, and reduce hard so the heat is concentrated rather than diluted. The trick is making it taste of something other than pain. Kashmiri chilli powder does most of the colouring work without proportional heat; the extra-hot powder and flakes are where the bite comes from; Mr Naga adds fruity, almost tropical chilli notes. A late slug of lemon juice and an optional spoon of sugar pull the dish into balance. Cook with the extractor fan on full and a window open; the capsaicin vapour catches in the throat and chest, and a small splatter on bare skin will smart for hours.
 
 ---
 

@@ -7,7 +7,6 @@ tags:
   - dairy-free
   - gluten-free
   - make-ahead
-  - one-pan
   - sides
   - onion
   - potato
@@ -15,6 +14,7 @@ tags:
   - complex
 mentions:
   - cuisine/russian/pelmeni
+  - vinaigrette/french-vinaigrette
 ingredients:
   - qty: 3
     name: beetroots

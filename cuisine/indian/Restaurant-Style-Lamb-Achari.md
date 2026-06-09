@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-"Achari" means "of pickle", the dish is built around Indian-style pickles (achaar) as a flavouring agent rather than a condiment. A heaped tablespoon stirred in late carries the dish: sour, salty, often fiercely hot, and instantly recognisable on the palate. Different pickles produce different curries. Brinjal (aubergine) pickle gives a mild, mellow result; lime or mango pickles bring sharp citrus heat; garlic pickle pushes the dish into deep savoury territory; naga pickle takes it into specialist-hot range.
-
-The seed temper does most of the work upfront. Mustard, fenugreek, black cumin, and nigella (kalonji) all crackle in hot oil for 30 seconds before the onion goes in, and that combination is essentially panch phoran (the Bengali five-spice, you can substitute 2.5 tsp of [Panch Poran](Spice-Mixes/panch-poran.md) for all four seed measures if you keep some made up). The pickle joins with the final base gravy pour; a late spoon of yoghurt and fresh tomato segments soften the heat without dulling the sour edge.
-
-Lamb is the traditional protein here, its richness stands up to the pickle's intensity better than chicken does, but [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) or vegetables work if that's what you have. Pre-cooked potatoes are an optional addition that absorbs the pickle flavour particularly well.
+"Achari" means "of pickle"; the dish is built around Indian-style pickles (achaar) as a flavouring agent rather than a condiment. A heaped tablespoon stirred in late carries the curry: sour, salty, often fiercely hot, and instantly recognisable on the palate. Different pickles produce different curries. Brinjal (aubergine) pickle gives a mild mellow result; lime or mango pickles bring sharp citrus heat; garlic pickle pushes the dish into deep savoury territory; naga pickle takes it into specialist-hot range. The seed temper does most of the work upfront. Mustard, fenugreek, black cumin and nigella all crackle in hot oil for 30 seconds before the onion goes in, essentially panch phoran (the Bengali five-spice). The pickle joins with the final gravy pour; a late spoon of yogurt and fresh tomato segments soften the heat without dulling the sour edge. Lamb is the traditional protein here, its richness stands up to the pickle's intensity better than chicken does.
 
 ---
 

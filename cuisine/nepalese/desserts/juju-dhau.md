@@ -11,11 +11,7 @@
 **Cook Time:** 30 minutes (plus 8-10 hours setting)
 
 ## Overview
-Juju dhau (literally "king curd") is a Newari speciality from the city of Bhaktapur, in the Kathmandu Valley. It is not yoghurt in the everyday sense - it is something denser, sweeter, more dessert-like. Buffalo milk (or, outside Nepal, full-fat cow's milk plus cream) is slowly reduced with sugar and cardamom until thickened to about three-quarters of the original volume, cooled to body temperature, cultured with a small amount of existing yoghurt, and poured into unglazed clay pots called katas. The pots are wrapped in cloth and left in a warm spot overnight. By morning, the milk has set into a thick, sweet, perfumed curd firm enough to slice with a spoon.
-
-The clay pots matter: the porous walls allow excess water to evaporate slowly during setting, leaving the juju dhau denser than a plate-set yoghurt. Glass ramekins or terracotta pots make a reasonable substitute outside Bhaktapur; mason jars give a denser, glossier result; metal containers are wrong.
-
-The traditional version uses water-buffalo milk, which has nearly twice the fat of cow's milk and gives the proper richness. Cow's milk plus double cream is the realistic substitute outside Nepal.
+Juju dhau (literally "king curd") is a Newari speciality from the city of Bhaktapur in the Kathmandu Valley. Not yogurt in the everyday sense; something denser, sweeter, more dessert-like. Buffalo milk (or full-fat cow's milk plus cream outside Nepal) slow-reduced with sugar and cardamom until thickened to three-quarters of the original volume, cooled to body temperature, cultured with a small amount of existing yogurt, and poured into unglazed clay pots called katas. By morning the milk has set into a thick perfumed curd firm enough to slice with a spoon. The clay pots matter: their porous walls allow excess water to evaporate slowly during setting, leaving the juju dhau denser than a plate-set yogurt. Terracotta pots or glass ramekins substitute outside Bhaktapur; metal containers are wrong. Water-buffalo milk has nearly twice the fat of cow's milk and gives the proper richness; cow's milk plus double cream is the realistic substitute.
 
 ## Ingredients
 - 1 litre full-fat whole milk

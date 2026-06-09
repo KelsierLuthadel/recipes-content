@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Nuts roast briefly in a hot oven to bring out their oils. Melted butter mixes with rosemary, smoked paprika, cayenne, brown sugar and salt. The hot nuts toss in this glaze; back to the oven for a few more minutes to set; cool on a tray.
+The British cocktail-hour staple in its most addictive form: mixed nuts roasted with melted butter, fresh chopped rosemary, smoked paprika, brown sugar and a pinch of cayenne, scattered with flaky salt while warm. The dish belongs in the same gentle drinks-party tradition as the Bombay mix bowl and the bowl of olives, but the butter-and-herb glaze takes it well past anything that comes in a packet. The nut mix matters; cashews, almonds, pecans, walnuts and hazelnuts in any combination give the proper textural and flavour spread, and a single-variety bag (just almonds, say) reads as boring. The brief return to the oven after the glaze goes on is essential; that's what fixes the rosemary onto the surface and dries the butter into a thin crackly coat rather than a greasy slick. Makes a generous gift in a Kilner jar, keeps a fortnight in a tin (in theory; in practice it vanishes faster).
 
 ## Ingredients
 

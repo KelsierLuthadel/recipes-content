@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Bhuna and naga sit on opposite ends of the BIR temperament chart. A bhuna is defined by its texture: thick, glossy, deeply caramelised, with very little free sauce, the result of cooking the masala hard and reducing the base gravy aggressively. A naga curry is defined by its heat: fresh naga chilli (or Mr Naga pickle) and the resulting fruity, almost tropical chilli flavour that the bhuti family of chillies brings to a dish.
-
-This recipe combines both. The structure is bhuna, three pours of base gravy, hard reduction, thick final consistency, but the heat profile is naga, courtesy of one or two fresh naga chillies (or a tablespoon of naga pickle) added with the tomato paste. Extra-hot or Deggi Mirch chilli powder backs it up, Kashmiri chilli adds colour, and tandoori masala lays a smoky undertone. A late spoon of yoghurt and mango chutney drop the dish from "punishing" to "intense but balanced".
-
-This is one of the hotter dishes on the BIR menu. Use the lower end of the chilli range if you're calibrating; the heat scales aggressively here.
+Bhuna and naga sit on opposite ends of the BIR temperament chart. A bhuna is defined by its texture: thick, glossy, deeply caramelised, with very little free sauce, the result of cooking the masala hard and reducing the base gravy aggressively. A naga curry is defined by its heat: fresh naga chilli (or Mr Naga pickle) and the resulting fruity, almost tropical chilli flavour that the bhuti family of chillies brings to a dish. This recipe combines both. The structure is bhuna (three pours of base gravy, hard reduction, thick final consistency); the heat profile is naga, courtesy of one or two fresh naga chillies added with the tomato paste. Extra-hot or Deggi Mirch chilli powder backs it up, Kashmiri chilli adds colour, tandoori masala lays a smoky undertone. A late spoon of yogurt and mango chutney drop the dish from "punishing" to "intense but balanced". Use the lower end of the chilli range if you're calibrating; the heat scales aggressively here.
 
 ---
 

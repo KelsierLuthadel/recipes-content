@@ -28,7 +28,7 @@
 - 18 perfectly ripe raspberries
 
 ## Overview
-Delicate, lace-like brandy snap pastry baskets filled with silky tanginess and fresh raspberries, these elegant petit fours showcase the classic combination of crispy-sweet with fresh tartness. The ginger and Cognac in the brandy snap mixture add sophisticated depth and warmth to what could otherwise be a one-dimensional dessert.
+A dinner-party petit four built around the traditional British brandy snap: a lacy gold biscuit of butter, sugar, golden syrup, ginger and a splash of brandy, baked into thin discs that get draped warm over an upturned cup or moulded around a ramekin to set into a crisp basket shape. Each basket fills with a spoonful of poached pink rhubarb and three perfectly ripe raspberries at the last moment. The brandy snap itself is one of British baking's oldest sweets, dating back to mediaeval fairs where it was rolled into cylinders and dipped in cream. The biscuits are fragile by design and stay crisp only for a few hours, so they fill at the table just before serving; left too long with the fruit, the syrup softens and the basket collapses. Make a few extra to allow for breakages.
 
 ## Method
 ### For the filling

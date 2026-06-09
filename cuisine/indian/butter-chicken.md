@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-The BIR icon: tandoori-grilled chicken finished in a velvety tomato-onion sauce enriched with double cream, butter and a hit of garam masala at the end. Mildly spiced, lightly sweet, deeply savoury. The sauce is built on a paste of cooked onion, tomato and cashews / almonds, finished off-heat with cold butter for the signature gloss.
+The Delhi original that became the world's most popular Indian dish: tandoor-grilled chicken pieces folded into a velvety tomato-onion gravy enriched with cashews, cream, a generous knob of butter at the end and a flourish of garam masala. Created in 1947 at Moti Mahal in Delhi, where Kundan Lal Gujral built India's first restaurant-scale tandoor and started finishing the leftover tandoori chicken in a buttery tomato sauce to keep it from drying out by the next service. The dish was a Punjabi refugee's improvisation that crossed continents within two decades and now anchors the menu of every British curry house and Indian-restaurant abroad. The chicken must be tandoor-grilled first (or hard-grilled in a domestic oven) so it picks up the char and smoke that the cream sauce won't otherwise have. Cold butter goes in off-heat at the end for the gloss; melted in earlier it loses the emulsion and the sauce splits.
 
 ## Ingredients
 - 1 ½kg [grilled tandoori chicken](side-dishes/tandoori-chicken-tikka.md)

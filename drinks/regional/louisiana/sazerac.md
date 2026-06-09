@@ -13,7 +13,7 @@
 ## Overview
 The Sazerac is the official cocktail of New Orleans and Louisiana, traditionally made with rye whiskey (not bourbon), Peychaud's bitters (created in the city by Antoine Peychaud, 1830s) and a chilled rocks glass rinsed with absinthe. The drink predates the cocktail glass we now associate with classic mixology; it is meant to be served in a heavy Old Fashioned glass, with no ice in the finished drink, just an oily-bright lemon twist on top.
 
-The recipe sounds simple and is, but two details are easy to get wrong: the absinthe is a rinse, not an ingredient (the glass is coated and the excess discarded), and the drink itself is built and stirred in a separate mixing glass, then strained into the prepared serving glass. Skipping the rinse-and-pour gives you something fine but not a Sazerac.
+The recipe sounds simple, but two things are easy to get wrong. The absinthe is a rinse, not an ingredient; the glass is coated and the excess discarded. And the drink itself is built and stirred in a separate mixing glass, then strained into the prepared serving glass. Skipping the rinse-and-pour gives you something fine but not a Sazerac.
 
 ## Ingredients
 - 60 ml rye whiskey (Sazerac, Rittenhouse, Old Overholt - all classic choices)

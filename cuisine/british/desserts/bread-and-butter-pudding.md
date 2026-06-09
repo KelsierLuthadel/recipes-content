@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Slices of buttered bread layer in a baking dish with raisins and lemon zest. A custard of egg yolks, milk, cream, sugar and vanilla pours over and soaks in. Demerara sugar scatters on top for the crunch. Baked in a water bath until just set; the top crisps to dark gold.
+The British nursery pudding at its plainest and most beloved: stale bread buttered and layered in a baking dish with raisins and lemon zest, drowned in a vanilla-custard of egg yolks, milk, cream and sugar, scattered with demerara for crunch and baked in a bain-marie till just-set with a crisp dark-gold top and a soft custardy interior underneath. The dish dates to the 13th century as a use-up-the-loaf economy pudding and stayed on British nursery tables (and grown-up restaurant menus) ever since. Slightly stale bread is essential; fresh bread turns to mush in the custard. White bloomer or sliced loaf is the traditional choice, though brioche gives a richer version. The custard wants to soak into the bread for 30 minutes before baking; rush this step and you get dry bread on top and a pool of unset custard below. Served with cream or thin custard.
 
 ## Ingredients
 

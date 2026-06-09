@@ -9,7 +9,7 @@
 **Yield:** Approximately 400 ml
 
 ## Overview
-This is the most complex of Indian chutneys. Tamarind provides deep, fruity sourness; sugar brings balance; fresh vegetables add texture; various spices and herbs create depth. It's simultaneously sweet, sour, spicy, and savory. This is served alongside pakora, samosa, and other fried appetizers, and as a seasoning for chaat (Indian street food snacks).
+The dark sticky sweet-sour-spicy chutney that anchors Indian street-food cooking: tamarind pulp simmered with jaggery (the unrefined Indian palm sugar), ground cumin, ginger and chilli into a thick brown glossy sauce that doubles as both dip and dressing. Tamarind chutney is the canonical partner to pakora and samosa, the dark drizzle on every chaat plate from Mumbai's Juhu Beach to Delhi's Chandni Chowk, and the contrast to the bright green mint chutney that sits alongside it on every Indian restaurant table. Jaggery rather than refined sugar is essential. It gives the deep molasses-caramel undertone that white sugar can't match. Block tamarind soaked and strained gives the most authentic flavour; tamarind concentrate from a jar works as a shortcut but tastes one-dimensional. The chutney keeps for weeks in the fridge and improves with a few days' rest.
 
 ## Ingredients
 

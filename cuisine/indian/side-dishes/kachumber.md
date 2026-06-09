@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-A small dice of cucumber (seeds out), tomato (seeds out), red onion and green chilli, tossed with roasted cumin powder, lime juice and salt. A pinch of black pepper or chaat masala. Eaten within an hour, ideally within ten minutes.
+The classic Indian table salad: a small uniform dice of cucumber, tomato, red onion and green chilli tossed with roasted cumin powder, fresh lime juice, salt and a final pinch of chaat masala. The dish is the cold-fresh counterpoint to anything saucy or rich on the table, doing the same essential cooling work as a raita but with brighter acidity from the lime and crunch from the raw vegetables. Both cucumber and tomato need their seeds out before dicing; the seeds carry the water that turns the salad into a wet mess within minutes. The dice must be uniform and fine, all four ingredients cut to similar small cubes so each forkful gives a balanced bite. Eaten within ten minutes of dressing, ideally still on the table when the curry arrives; left longer and the vegetables weep, the lime dulls and the salad goes soft.
 
 ## Ingredients
 

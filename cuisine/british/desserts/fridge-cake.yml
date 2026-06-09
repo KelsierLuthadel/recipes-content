@@ -10,8 +10,7 @@ tags:
   - chocolate
   - nuts
   - complex
-mentions:
-  - cuisine/american/desserts/rocky-road
+mentions: []
 ingredients:
   - qty: 150
     unit: g

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cabbage shreds very fine; carrot grates; both rest with a generous pinch of salt for 20 minutes to draw out water (squeeze before dressing). A dressing of mayo, sour cream (or buttermilk), Dijon, cider vinegar, sugar, celery seed, salt and pepper whisks. Toss; rest at least 30 minutes before serving, flavours need time to mingle.
+The American picnic and barbecue mainstay: shredded green and red cabbage with grated carrot in a creamy mayonnaise-and-cider-vinegar dressing seasoned with Dijon, sugar and celery seed. The dish travelled with Dutch settlers to New York in the 18th century (the name comes from koolsla, "cabbage salad" in Dutch) and became the canonical American picnic salad over the following two centuries, served beside ribs, pulled pork, fried chicken and burgers at every cookout from Memphis to Maine. The cabbage must be salted briefly to draw out water and then squeezed dry; skip that step and the dressing pools at the bottom of the bowl within minutes, turning the slaw into a wet mess. Celery seed is the canonical American touch, easy to miss but unmistakable when it's there. Rest the dressed slaw at least 30 minutes before serving so the flavours mingle; better still, make it a few hours ahead.
 
 ## Ingredients
 

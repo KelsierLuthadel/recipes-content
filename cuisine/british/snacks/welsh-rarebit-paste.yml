@@ -13,7 +13,7 @@ tags:
   - eggs
   - cheese
 mentions:
-  - sauces/sauce-savory/cheese-sauce
+  - cuisine/british/welsh-rarebit
   - tutorials/pizza/sauce
 ingredients:
   - qty: 700

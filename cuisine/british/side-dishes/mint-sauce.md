@@ -11,7 +11,7 @@
 **Total Time:** 20 minutes (5 active + 15 rest)
 
 ## Overview
-Fresh mint leaves are chopped very fine (or pulsed in a small processor). Sugar dissolves in just-boiled water; cooled briefly; vinegar stirs in. Chopped mint is added to the cool vinegar-sugar mixture; stirred; rested for 15 minutes for the flavours to infuse. Served alongside roast lamb in a small jug or ramekin.
+The British roast-lamb companion: finely chopped fresh spearmint stirred into sugar dissolved in hot water and a generous splash of malt vinegar, rested briefly for the flavours to bind. Bright, sharp and assertively herbal, and one of the few things on the Sunday-lunch table older than Yorkshire pudding (mint sauce with roast lamb is documented from at least the 17th century, and probably much earlier as a way to balance the fattiness of mutton). Spearmint is the traditional choice; peppermint reads cooler and slightly medicinal, and apple mint is too soft for the dish. Malt vinegar is the canonical Anglo-Saxon vinegar (its caramelly depth carries the mint better than the sharper white wine vinegar of the French version), though some southern English recipes use cider vinegar instead. Served in a small jug or ramekin at the table; the proper portion is a teaspoon next to each slice of lamb, not a flood.
 
 ## Ingredients
 

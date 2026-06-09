@@ -16,6 +16,7 @@ tags:
   - cheese
 mentions:
   - cuisine/mexican/enchilladas
+  - cuisine/mexican/snacks/tostadas
 ingredients:
   - qty: 800
     unit: g

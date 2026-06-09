@@ -11,7 +11,7 @@
 **Cook Time:** 60 minutes
 
 ## Overview
-This Anglo-Indian mulligatawny soup blends curry spices with vegetables in a smooth, warming broth. A comforting winter dish with layers of flavor from aromatic spices and optional sauces. Perfect for spice lovers seeking a hearty soup.
+The original Anglo-Indian soup and the British Raj's most enduring culinary export: a spiced broth of curry powder, vegetables, lentils and (often) chicken or lamb, blended smooth or left chunky depending on the household. The name comes from the Tamil milagu-tannir ("pepper-water"), the original a thin South Indian rasam that British colonial cooks in 19th-century Madras adapted into something heartier with the addition of meat, vegetables and curry powder. The soup crossed back to Britain with returning colonial officers and became a winter staple of country-house dinners and railway-hotel menus from the 1850s onwards. The British version leans creamy and lentil-thick; the South Indian rasam original stays thin and hot. Apple is a frequent and slightly surprising ingredient that gives the soup a quiet sweetness against the curry spice. Eaten in deep bowls with crusty bread, a swirl of cream and a sprinkle of fresh coriander.
 
 ## Ingredients
 

@@ -18,7 +18,7 @@
 - small pinch of freshly grated nutmeg
 
 ## Overview
-A simple yet elegant presentation of halved roasted peaches seated in their own fresh coulis, drizzled with warm honey infused with star anise, creating a light and refreshing dessert that showcases the natural sweetness of ripe fruit. The complex spice notes from star anise and nutmeg balance the peaches' simple sweetness.
+The dinner-party stone-fruit dessert at its plainest and most flattering to good ingredients: ripe peaches halved, roasted briefly with a knob of butter and a pinch of nutmeg till the cut sides caramelise, set in their own bright peach coulis on the plate and drizzled with warm honey that has been steeped with star anise. The dish is what every British summer table reaches for when the late-July peaches finally come in good; it depends entirely on properly ripe yellow-fleshed peaches (no amount of honey can rescue under-ripe supermarket fruit). Star anise infuses the honey with a quiet liquorice warmth that flatters peach better than the more obvious cinnamon would. Lemon juice in the coulis sharpens the sweetness so the dessert doesn't tip into syrupy. Served warm with crème fraîche, vanilla ice cream or just on its own.
 
 ## Method
 1. Preheat the oven to 180°C. Bring a medium saucepan of water to the boil. 

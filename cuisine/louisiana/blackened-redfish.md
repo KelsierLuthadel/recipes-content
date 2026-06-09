@@ -11,11 +11,7 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-Blackened redfish is the recipe that made Cajun cooking famous outside of Louisiana. Paul Prudhomme invented it at K-Paul's Louisiana Kitchen on Chartres Street in 1980, looking for a way to cook redfish that captured the smoky, charred edge of an old-school barbecue without an actual fire. His answer was a cast-iron skillet heated until it was literally white-hot (smoking, dangerous, a fire-extinguisher-on-the-counter kind of heat), fish dipped in butter and slapped down onto a thick layer of his Cajun spice rub. The butter caramelises, the spices toast, the surface of the fish blackens to a deep mahogany within ninety seconds, and the inside stays moist.
-
-The dish was so popular through the 1980s that Gulf redfish stocks collapsed under the demand and a moratorium had to be imposed in 1986. Most blackened redfish today uses farmed or substituted fish (drum, snapper, grouper, black sea bass - anything firm-fleshed and white). The technique is the recipe; the fish is the variable.
-
-A note on the smoke: this is genuinely a high-smoke cooking method. Open every window, run the extractor fan flat out, and ideally do it on a side-burner outside or on a portable hob in the garage. Indoor smoke alarms will go off.
+The recipe that made Cajun cooking famous outside Louisiana. Paul Prudhomme invented it at K-Paul's Louisiana Kitchen on Chartres Street in 1980, looking for a way to cook redfish that captured the smoky charred edge of an old-school barbecue without an actual fire. His answer was a cast-iron skillet heated white-hot (smoking, dangerous, a fire-extinguisher-on-the-counter kind of heat), fish dipped in butter and slapped onto a thick layer of his Cajun spice rub. The butter caramelises, the spices toast, the surface blackens to deep mahogany within 90 seconds, and the inside stays moist. The dish was so popular through the 1980s that Gulf redfish stocks collapsed and a moratorium was imposed in 1986. Most blackened redfish today uses substituted fish (drum, snapper, grouper, black sea bass; anything firm-fleshed and white). This is a high-smoke method; open every window, run the extractor flat out, and ideally cook outside on a side-burner.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A batter of fine cornmeal and plain flour (about 2:1), buttermilk, egg, baking powder, baking soda, a teaspoon of sugar, salt, pepper and finely chopped onion. Rest for 15 minutes for the cornmeal to hydrate. Drop walnut-sized scoops into oil at 170°C; fry for 3-4 minutes total, turning, until deep gold.
+The Southern fish-fry sidekick: golf-ball scoops of buttermilk-cornmeal batter with finely chopped onion and a pinch of cayenne, dropped into hot oil and fried gold. The name supposedly comes from frying-camp cooks tossing fried bits of batter to barking dogs ("hush, puppy"), though the story is probably apocryphal. Hush puppies turn up at every Southern fish fry from Louisiana through the Carolinas, served piping hot in a basket alongside fried catfish, slaw and a wedge of lemon. The cornmeal is fine, not coarse; coarse cornmeal stays gritty in the centre. A 2:1 ratio of cornmeal to plain flour gives the proper texture (denser than a doughnut, lighter than a corn dodger). The batter wants a 15-minute rest so the cornmeal hydrates fully and the inside cooks through evenly; skip the rest and the centres come out raw. Fried at 170°C; hotter and the outside burns before the inside sets.
 
 ## Ingredients
 

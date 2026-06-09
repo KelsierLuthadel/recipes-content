@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Chicken tikka masala is, depending on which origin story you believe, either Glasgow's mid-1970s answer to British diners demanding gravy on their dry tandoori chicken, or a long-standing Punjabi dish that simply migrated. Either way, it became Britain's de facto national curry and the benchmark mild-creamy dish on every BIR menu in the country.
-
-The build is more layered than most BIR curries. Five tablespoons of tomato paste do most of the colour work; tandoori masala goes in *after* the tomato (an unusual late position) so it carries the chicken-tikka flavour profile into the sauce; coconut and almond powders both go in with the gravy to thicken and sweeten the body; jaggery adds the unmistakable BIR sweetness; single cream finishes on low heat to round the edges without splitting. The result is the familiar bright orange-red sauce that's mildly spiced, distinctly sweet, and rich enough to coat each piece of tikka without becoming a korma.
-
-The chicken should genuinely be tikka, pre-marinated and char-grilled, for this to read as the proper dish rather than a creamy chicken curry. [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) substitutes acceptably but loses the smoky chargrill note that the tomato base is built to amplify.
+Chicken tikka masala is, depending on which origin story you believe, either Glasgow's mid-1970s answer to British diners demanding gravy on their dry tandoori chicken, or a long-standing Punjabi dish that simply migrated. Either way, it became Britain's de facto national curry and the benchmark mild-creamy dish on every BIR menu in the country. The build is more layered than most BIR curries. Five tablespoons of tomato paste do the colour work; tandoori masala goes in after the tomato (an unusual late position) so it carries the chicken-tikka flavour profile into the sauce; coconut and almond powders thicken and sweeten the body; jaggery adds the unmistakable BIR sweetness; single cream finishes on low heat to round the edges without splitting. The chicken should genuinely be tikka, pre-marinated and char-grilled, for this to read as the proper dish rather than a creamy chicken curry; pre-cooked chicken substitutes acceptably but loses the smoky chargrill note the tomato base is built to amplify.
 
 ---
 

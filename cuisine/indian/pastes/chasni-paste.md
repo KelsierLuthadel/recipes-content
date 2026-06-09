@@ -9,7 +9,7 @@
 **Prep Time:** 5 minutes
 
 ## Overview
-A sweet and tangy paste used in Pathia and Chasni curries, combining mango chutney, tomato ketchup, and lemon juice for a vibrant flavor base.
+The wet sweet-and-tangy paste that anchors the British curry-house chasni and pathia: mango chutney, tomato ketchup, lemon juice and a touch of red food colouring blended smooth into a thick orange-pink paste that goes into the curry pan to give the dish its signature creamy sweet-sour profile. Chasni is one of the curry-house inventions of the 1980s Glasgow Indian restaurants, where Punjabi chefs and Glaswegian palates met in the middle to produce dishes sweeter and milder than anything actually eaten in India. Mango chutney is non-negotiable; the canonical brand is Patak's, and supermarket alternatives never quite match the proper sweetness. Ketchup is the curry-house secret that every chef will deny but every kitchen actually uses; it gives the paste its red colour and a quiet sweet-savoury depth. The paste keeps a fortnight refrigerated, so it's worth making a jar to keep on hand.
 
 ## Ingredients
 ### Sweeteners

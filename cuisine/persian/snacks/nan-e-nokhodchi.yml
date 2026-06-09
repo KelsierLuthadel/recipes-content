@@ -13,6 +13,7 @@ tags:
   - complex
 mentions:
   - tutorials/cocktails/equipment
+  - tutorials/pizza/dough
 ingredients:
   - qty: 250
     unit: g

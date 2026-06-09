@@ -11,11 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-South Indian cooking leans heavily on the sour register, tamarind, kokum, curd, and lime do work that yoghurt and tomato paste handle further north. This BIR interpretation borrows that southern instinct and stitches it onto the standard restaurant build: a [Curry Base Gravy](Base/curry-base.md) foundation, three-pour reduction, and pre-cooked meat. What lands on the plate is a thinner, more pourable sauce than a typical BIR curry, defined by the bright tang of tamarind and the rounded sweetness of coconut milk.
-
-The Indian pickle is what pushes the dish past simple sour. Lime pickle, mango pickle, or any spicy mixed pickle works, chop it smooth so the bits dissolve into the sauce rather than sitting on top. Jaggery (or brown sugar at a pinch) balances the acidity without dulling it. The result is a curry that reads sharp, fragrant, and savoury all at once.
-
-Three forms of tamarind work here, with different concentrations. Bottled tamarind sauce is the easiest but often comes pre-sweetened; tamarind concentrate is the most economical and most consistent; tamarind pulp soaked from a block is the most flavourful but takes the longest to prep.
+South Indian cooking leans heavily on the sour register; tamarind, kokum, curd and lime do work that yogurt and tomato paste handle further north. This BIR interpretation borrows that southern instinct and stitches it onto the standard restaurant build: a curry-base gravy foundation, three-pour reduction, pre-cooked meat. What lands on the plate is a thinner, more pourable sauce than a typical BIR curry, defined by the bright tang of tamarind and the rounded sweetness of coconut milk. Indian pickle pushes the dish past simple sour: lime, mango or any spicy mixed pickle, chopped smooth so the bits dissolve into the sauce. Jaggery balances the acidity without dulling it. The result is a curry that reads sharp, fragrant and savoury all at once. Three forms of tamarind work here: bottled sauce (often pre-sweetened), concentrate (consistent), or pulp soaked from a block (most flavourful but slowest).
 
 ---
 
