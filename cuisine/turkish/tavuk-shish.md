@@ -2,7 +2,7 @@
 
 ![Tavuk Sis](resources/tavuk-shish.jpg)
 
-*Turkey's chicken kebabs: cubes of boneless chicken thigh marinated in yogurt, garlic, lemon, tomato paste and the Levantine seven-spice, threaded onto flat skewers with onion and pepper, grilled over charcoal till the outside chars and the inside stays juicy. The lighter sibling of kuzu şiş, the everyday Turkish weeknight grilled meat.*
+*Turkey's chicken kebabs: cubes of chicken thigh marinated in yogurt, garlic, lemon and Levantine spices, threaded onto flat skewers with onion and pepper, grilled hard over charcoal.*
 
 **Serves:** 4-6 (10 skewers)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Tavuk şiş is Turkey's chicken kebab counterpart to kuzu şiş (the lamb version), and the lighter of the two: cubes of boneless skinless chicken thigh (the cut is essential; breast gives dry results) marinated for 6+ hours in a paste of plain yogurt, olive oil, crushed garlic, lemon juice, tomato paste, Turkish red pepper paste, the Levantine seven-spice (baharat), Aleppo pepper, cumin, paprika and salt, then threaded onto flat metal skewers alternating with chunks of red onion and bell pepper, grilled over hot charcoal (or a screaming-hot grill pan) for 10-12 minutes total till the outside chars and the inside stays juicy. Served on a wooden platter at the centre of the table with the canonical Turkish kebab sides (warm flatbread, yogurt-garlic sauce, sumac onions, grilled tomato, lemon wedges), or stuffed into a pita-style wrap with salad for the Turkish döner-style version. The dish is what every Turkish family makes for a weekday barbecue, what every kebabci shop sells alongside lamb kebabs, and what tourists most often try at restaurants since chicken is more accessible than lamb. Three details define proper tavuk şiş. First, use chicken thigh, not breast. Thigh stays juicy on the grill; breast goes dry in minutes. The proper Turkish version is always thigh. Second, the yogurt marinade is essential. The yogurt's enzymes tenderise the chicken; the spices penetrate over the long marinade. 6 hours minimum, 24 hours ideal. Third, cubes about 3 cm. Smaller cubes overcook; larger don't cook evenly. 3 cm is the sweet spot.
+Tavuk şiş is Turkey's chicken kebab counterpart to kuzu şiş (the lamb version), and the lighter of the two. The cut is essential: boneless skinless chicken thigh, never breast: thigh stays juicy on the grill; breast goes dry in minutes. Cubes 3 cm across (smaller overcook; larger don't cook evenly) marinate at least six hours and ideally twenty-four in a paste of plain yogurt, olive oil, crushed garlic, lemon juice, tomato paste, Turkish red pepper paste, Levantine seven-spice (baharat), Aleppo pepper, cumin, paprika and salt: the yogurt's enzymes tenderise the chicken while the spices penetrate. Threaded onto flat metal skewers alternating with chunks of red onion and bell pepper, grilled over hot charcoal for ten to twelve minutes till the outside chars and the inside stays juicy. Plated on a wooden platter with warm flatbread, yogurt-garlic sauce, sumac onions, grilled tomato and lemon wedges: or stuffed into a pita-style wrap with salad for the döner-style version.
 
 ## Ingredients
 

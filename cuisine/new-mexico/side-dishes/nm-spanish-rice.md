@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-New Mexico Spanish rice (despite the name; the dish is American-Hispanic, not from Spain) is the canonical NM rice side: long-grain white rice toasted briefly in oil with chopped onion, garlic, then simmered in chicken stock with tomato sauce, ground cumin, dried Mexican oregano, salt and a touch of NM red chile powder for the canonical red colour. Served alongside enchiladas, tacos, rellenos. Three details: toast the rice (proper Mexican technique), tomato sauce + stock combo, NM red chile powder for colour.
+New Mexico Spanish rice (despite the name; the dish is American-Hispanic, not from Spain) is the canonical NM rice side: long-grain white rice toasted briefly in oil with chopped onion, garlic, then simmered in chicken stock with tomato sauce, ground cumin, dried Mexican oregano, salt and a touch of NM red chile powder for the canonical red colour. Served alongside enchiladas, tacos, rellenos.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Manhattan clam chowder is the New York version of clam chowder and the subject of a long-standing East Coast rivalry with New England clam chowder (the cream-based white version): a tomato-based clear broth (created by Italian-American immigrants in Manhattan in the 1890s as an adaptation of the cream-based New England version, partly because cream was perishable and tomato was readily available) loaded with fresh clams, the trinity (onion, celery, green pepper), cubed potato, garlic, fresh herbs, and a touch of diced bacon for richness. Spicier than New England; tomato-forward. Served with oyster crackers and a slice of bread. Three details: tomato base (the NY signature), fresh clams (or quality tinned), no cream.
+Manhattan clam chowder is the New York version of clam chowder and the subject of a long-standing East Coast rivalry with New England clam chowder (the cream-based white version): a tomato-based clear broth (created by Italian-American immigrants in Manhattan in the 1890s as an adaptation of the cream-based New England version, partly because cream was perishable and tomato was readily available) loaded with fresh clams, the trinity (onion, celery, green pepper), cubed potato, garlic, fresh herbs, and a touch of diced bacon for richness. Spicier than New England; tomato-forward. Served with oyster crackers and a slice of bread.
 
 ## Ingredients
 

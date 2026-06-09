@@ -2,7 +2,7 @@
 
 ![Stoemp](resources/stoemp.jpg)
 
-*Brussels' winter comfort plate: floury potatoes mashed coarsely with leeks and onion, generously enriched with butter and cream, served with grilled smoked sausage (saucisse de campagne) and crisp bacon lardons on top. Coarse and chunky rather than smooth, with the leeks giving it sweetness. The Brussels working-table dinner of choice from October to March, eaten with a glass of cold Belgian lager or a witbier.*
+*Brussels' winter comfort plate: floury potatoes crushed coarse with leeks, butter and cream, topped with grilled smoked sausage and crisp bacon lardons.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Stoemp is Brussels' canonical winter dinner and the textural opposite of a smooth French purée: floury potatoes (Bintje or Maris Piper) are boiled till tender, then crushed coarsely with a fork or potato masher with cooked leeks, onion, butter and cream so that visible chunks of potato and sweet braised leek run through the mix. The result sits somewhere between mashed potato and bubble-and-squeak. The Brussels move is to top it with grilled smoked sausage (saucisse de campagne, saucisson de Liège, or a good cumberland sausage at home) and a generous scattering of crisp bacon lardons - the smoky meat is what makes it a meal rather than a side. Many other Belgian stoemp variants exist (stoemp aux carottes with carrots; stoemp aux choux de Bruxelles with sprouts; stoemp aux épinards with spinach) and each region has its preferred version, but Stoemp with leeks + sausage is the Brussels default. The leeks must be sweated long and slow in butter till silky; the potatoes must be floury, not waxy; and the crush should be coarse, never smooth. Eaten in deep bowls, with mustard on the side and a cold Stella Artois. Three details: COARSE CRUSH NOT PUREE (a fork or a potato masher; never a ricer or food mill), FLOURY POTATOES ONLY (Bintje canonical; Maris Piper or Russet substitute), and SWEAT THE LEEKS PROPERLY (long, slow, no colour; this is where the sweetness comes from).
+Stoemp is Brussels' canonical winter dinner and the textural opposite of a smooth French purée: floury potatoes boiled tender, then crushed coarsely with cooked leeks, onion, butter and cream so that visible chunks of potato and sweet braised leek run through the mix. The result sits somewhere between mashed potato and bubble-and-squeak. The Brussels move is to top it with grilled smoked sausage (saucisse de campagne, saucisson de Liège or a good cumberland sausage at home) and a generous scattering of crisp bacon lardons; the smoky meat is what makes it a meal rather than a side. Many regional stoemp variants exist (carrots, Brussels sprouts, spinach) and each has its champions, but leeks plus sausage is the Brussels default. The leeks must be sweated long and slow in butter till silky; the potatoes must be floury, not waxy; the crush coarse, never smooth.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Watermelon-Feta Salad](resources/watermelon-feta-salad.jpg)
 
-*Cold, jewel-pink cubes of watermelon meet salty crumbles of feta, lifted by torn mint and a sharp hit of lime. The smell is summer itself, sweet melon and herb garden, and the first bite is the kind of cooling contradiction that makes you reach for a second forkful before you have finished the first.*
+*American summer salad: cold cubes of watermelon meet salty crumbles of feta, lifted by torn mint, a sharp hit of lime and finely sliced red onion.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Watermelon and feta sounds, on paper, like a culinary trick that should not work. It came to prominence in the United States through chefs influenced by eastern Mediterranean and Greek traditions, where briny cheese paired with sweet fruit has been quietly understood for centuries. By the early 2000s it was a staple of American summer entertaining, gracing magazine covers and barbecue spreads from California to the Hamptons, and it has earned its place because the contrast is so beautifully balanced. The flavour is built on three opposing notes pulling against each other: the candied sweetness of ripe watermelon, the salty, almost sheepy tang of crumbled feta, and the green, cooling sting of fresh mint. A squeeze of lime and a slow trickle of peppery olive oil tie it all together, while finely sliced red onion adds a sharp savoury bite that keeps the salad from leaning too sweet. There is no cooking involved, so success depends entirely on ingredient quality. The watermelon must be properly ripe, deep red and heavy for its size, and the feta should be the real Greek kind packed in brine, not the dry crumbled supermarket variety. Difficulty is essentially zero, but timing matters. Assemble this just before serving, because watermelon weeps quickly once cut and salted, turning the bowl pink and watery if left to sit.
+Watermelon and feta sounds, on paper, like a culinary trick that shouldn't work. It came to prominence in the United States through chefs influenced by eastern Mediterranean and Greek traditions, where briny cheese paired with sweet fruit has been quietly understood for centuries. By the early 2000s it was a staple of American summer entertaining, gracing magazine covers and barbecue spreads from California to the Hamptons. The flavour is built on three opposing notes: the candied sweetness of ripe watermelon, the salty almost sheepy tang of crumbled feta, and the green cooling sting of fresh mint. A squeeze of lime and a slow trickle of peppery olive oil tie it all together, while finely sliced red onion adds a sharp savoury bite that keeps the salad from leaning too sweet. With no cooking involved, success depends entirely on ingredient quality: properly ripe watermelon (deep red and heavy for its size) and real Greek feta packed in brine (not the dry crumbled supermarket variety). Timing matters too: assemble just before serving, because watermelon weeps quickly once cut and salted.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Gozleme](resources/gozleme.jpg)
 
-*Turkey's filled village flatbread: thin discs of unleavened wheat-flour dough wrapped around a savoury filling (spinach and feta, minced lamb, or potato) and cooked on a flat hot griddle till the outside chars in patches and the filling warms through. The Anatolian village-women's flatbread, now sold at every farmer's market and street stall across Turkey.*
+*Turkey's filled village flatbread: thin discs of unleavened dough wrapped around spinach and feta, minced lamb or potato filling, cooked on a hot griddle till the outside chars in patches.*
 
 **Serves:** 4 (4 large gözleme)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Gözleme is Turkey's most iconic village flatbread, originally made by Anatolian women on a saç (the convex iron griddle that sits over a wood fire) and now sold at every farmer's market, street stall and weekend pazar across Turkey: a thin paper-flat disc of unleavened wheat-flour dough (yufka in Turkish - the same flatbread that's used for börek) is folded around a savoury filling (the canonical fillings are spinach and feta with onion and dill; minced lamb with onion, parsley and Aleppo pepper; potato with onion and cumin; or simply melted cheese), then cooked on a flat hot griddle (or a heavy frying pan) for 2-3 minutes per side till the outside is patched-charred and crisp, the dough is properly cooked through, and the filling is hot and integrated. Often brushed with butter as it comes off the griddle and served immediately, cut into wedges. The dish is village food in its origins but has spread to every corner of urban Turkey; at weekend markets and tourist sites, you can watch the village-headscarfed women rolling out the dough, filling it, folding it into the iconic envelope shape, and cooking it on the saç in front of you. Three details define proper gözleme. First, the dough must be paper-thin. Roll out to 2-3 mm thickness; thicker dough gives chewy bread, not the proper crispy gözleme texture. Second, the filling must be dry. Wet filling (un-squeezed spinach, watery onion) leaks during cooking and ruins the gözleme. Spinach must be properly squeezed dry; onion cooked first if used. Third, hot griddle. A hot flat dry pan or heavy cast-iron griddle (no oil; this is dry-cooked) gives the proper char and crisping. Cool pan gives pale soggy gözleme.
+Gözleme is Turkey's most iconic village flatbread, originally made by Anatolian women on a saç (the convex iron griddle that sits over a wood fire) and now sold at every farmer's market, street stall and weekend pazar across Turkey. At those markets you can still watch the headscarfed women rolling out the dough, filling it, folding it into the iconic envelope shape and cooking it on the saç in front of you. The dough is yufka: the same paper-thin unleavened wheat-flour disc used for börek; roll to 2-3 mm or it goes chewy. Canonical fillings are spinach and feta with onion and dill; minced lamb with onion, parsley and Aleppo pepper; potato with onion and cumin; or simply melted cheese. The filling must be dry: un-squeezed spinach or watery onion leaks and ruins the gözleme. Cooked on a hot dry pan or heavy cast-iron griddle (no oil; this is dry-cooked) two or three minutes a side till the outside is patched-charred. Brushed with butter as it comes off the griddle and eaten immediately, cut into wedges.
 
 ## Ingredients
 

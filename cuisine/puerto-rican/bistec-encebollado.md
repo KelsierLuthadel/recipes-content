@@ -2,7 +2,7 @@
 
 ![Bistec Encebollado](resources/bistec-encebollado.jpg)
 
-*Puerto Rico's steak smothered in onions: thin slices of beef (cube steak or top sirloin) marinated in adobo, lime and garlic, pan-seared and then slow-cooked with a heap of sliced onions, vinegar and olive oil till the onions melt into a tangy savoury sauce. The Boricua dinner-table standard, served over white rice with a side of red beans.*
+*Puerto Rico's steak smothered in onions: thin slices of beef marinated in adobo, lime and garlic, pan-seared then slow-cooked with a heap of sliced onions and vinegar till the onions melt into a tangy sauce.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Bistec encebollado (literally "steak smothered with onions") is one of Puerto Rico's most beloved dinner-table dishes and a Boricua staple of weeknight cooking: thin slices of beef (the canonical cut is cube steak - pre-tenderised, sometimes called "carne de bistec" or "milanesa cut" - or top sirloin sliced thin) are marinated briefly in adobo, lime juice, garlic and oregano, then pan-seared till just browned, removed from the pan, and the same pan used to slowly cook a heap of sliced onions in olive oil and white vinegar till the onions go soft and melting; the beef is returned to the pan with a splash of stock or water, and the whole thing simmers for 20 minutes till the beef is tender and the onions have formed a glossy tangy sauce. Served over white rice with a side of red beans (habichuelas), tostones, and a fresh salad. The dish is comfort-food Boricua at its purest: pantry-friendly protein, plenty of onions, a tangy sauce, and rice to soak it all up. Three details define proper bistec encebollado. First, thin beef. The proper cut is cube steak (chuck steak pre-tenderised mechanically), or top sirloin sliced very thin (5 mm). Thick steaks won't braise properly in the time. Second, generous onions. The dish is as much about the onions as the beef; use a heap (4-5 large onions for 4 portions), sliced into half-moons. Third, vinegar in the cooking. White vinegar (or apple cider vinegar) deglazes the pan and gives the proper Boricua tang. Don't skip; it's not optional.
+Bistec encebollado (literally "steak smothered with onions") is one of Puerto Rico's most beloved dinner-table dishes and a Boricua weeknight staple. Thin slices of beef marinate briefly in adobo, lime juice, garlic and oregano, pan-sear quickly, then come out of the pan so a heap of sliced onions can soften slowly in olive oil and white vinegar till they turn melting and tangy. The beef returns with a splash of stock and everything simmers together till the onions form a glossy sauce and the beef is tender. The cut matters: cube steak (chuck pre-tenderised mechanically) or thin-sliced top sirloin (5 mm) braise properly in the short cook; thicker steaks won't. The dish is as much about the onions as the beef, so use a heap (four or five large onions for four portions). The white vinegar deglazes the pan and gives the proper Boricua tang. Served over white rice with a side of habichuelas, tostones and a fresh salad.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Tablet](resources/tablet.jpg)
 
-*Scotland's intensely sweet, slightly granular fudge: sugar, condensed milk, butter, and milk boiled together to the soft-ball stage, beaten till the sugar starts to crystallise, then set in a tray and cut into thick pale-amber squares. The Scottish answer to fudge; harder and more crystalline; the bake-sale and church-fete classic; the dental-bill-inducing childhood treat that every Scot remembers.*
+*Scotland's intensely sweet granular fudge: sugar, condensed milk, butter and milk boiled to soft-ball stage, beaten till the sugar crystallises, then set in a tray and cut into pale-amber squares.*
 
 **Serves:** Makes about 40 pieces (1 kg of finished tablet)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25-30 minutes
 
 ## Overview
-Tablet is Scotland's distinctively crystalline confectionery - a member of the fudge family but harder, less creamy, and with a distinctive granular texture from forced crystallisation of the sugar. The historical roots are Highland: it was originally made by Scottish farm-house cooks as a way of preserving milk and sugar in a stable, portable form for travelling. The modern recipe is straightforward but technically demanding: granulated sugar, condensed milk, butter, and a splash of whole milk are boiled together to the soft-ball stage (115-118°C; verified with a sugar thermometer), then taken off the heat and beaten vigorously with a wooden spoon for 5-10 minutes until the sugar starts to crystallise and the mixture turns from glossy to grainy. The crystallised mixture is poured into a lined tray, allowed to set, and cut into chunky squares. The finished tablet is pale-amber to honey-coloured, dense, sandy-textured, intensely sweet (it's almost all sugar), and breaks with a satisfying snap. It's sold at every Scottish church fete, school bake-sale, and tartan-tin tourist shop, and it's the canonical Scottish bake-sale fundraiser item. Three details: GENEROUS PAN (the mixture rises significantly during boiling - use a pan at least 4× the volume of the ingredients), SUGAR THERMOMETER (the soft-ball temperature is essential; eyeballing is unreliable), and PROPER BEATING (5-10 minutes of beating after taking off the heat - this is when the crystallisation happens; under-beat and the tablet stays soft like fudge).
+Tablet is Scotland's distinctively crystalline confectionery, a member of the fudge family but harder, less creamy, and with a sandy granular texture from forced crystallisation of the sugar. The roots are Highland: originally made by Scottish farm-house cooks as a way of preserving milk and sugar in a stable, portable form for travelling. The recipe is straightforward but technically demanding. Sugar, condensed milk, butter and a splash of whole milk boil together to soft-ball stage (115 to 118 °C; verified with a sugar thermometer), then come off the heat for five to ten minutes of vigorous beating with a wooden spoon until the sugar starts to crystallise and the mixture turns from glossy to grainy. Poured into a lined tray, allowed to set, cut into chunky squares. Pale-amber to honey-coloured, dense, intensely sweet, breaks with a satisfying snap. The canonical Scottish bake-sale fundraiser item.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Ħobż biż-żejt (literally "bread with oil") is Malta's most universally beloved everyday snack - the simplest possible expression of Maltese ingredients. The construction: thick slices of Maltese sourdough (ħobż tal-Malti, the canonical bread; a chewy crusty sourdough), rubbed vigorously with halved ripe tomato till the bread absorbs the juices and turns pink, drizzled generously with extra-virgin olive oil, then topped with tuna in oil, capers, black olives, sliced raw onion, and ġbejniet (Maltese fresh sheep's-milk cheese). A few mint leaves and fresh basil finish it. Eaten with the hands at every Maltese beach picnic, every fishing village snack stop, and every Maltese village festa. Three details: RIPE TOMATO RUBBED INTO THE BREAD (essential), GENEROUS OLIVE OIL (don't skimp), and EAT IMMEDIATELY (the bread softens within 10 minutes).
+Ħobż biż-żejt (literally "bread with oil") is Malta's most universally beloved everyday snack - the simplest possible expression of Maltese ingredients. The construction: thick slices of Maltese sourdough (ħobż tal-Malti, the canonical bread; a chewy crusty sourdough), rubbed vigorously with halved ripe tomato till the bread absorbs the juices and turns pink, drizzled generously with extra-virgin olive oil, then topped with tuna in oil, capers, black olives, sliced raw onion, and ġbejniet (Maltese fresh sheep's-milk cheese). A few mint leaves and fresh basil finish it. Eaten with the hands at every Maltese beach picnic, every fishing village snack stop, and every Maltese village festa.
 
 ## Ingredients
 

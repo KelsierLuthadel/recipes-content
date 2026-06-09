@@ -2,7 +2,7 @@
 
 ![Glögg](resources/glogg.jpg)
 
-*Sweden's Christmas mulled wine: red wine simmered with akvavit, sugar, cardamom, cinnamon, cloves, orange peel and raisins, served piping hot in small glasses with whole almonds and plump raisins in the bottom. The defining drink of the Swedish Christmas season; served at every julbord, every Lucia Day breakfast, and every advent gathering from late November to Twelfth Night.*
+*Sweden's Christmas mulled wine: red wine simmered with akvavit, cardamom, cinnamon, cloves and orange peel, served piping hot with whole almonds and plump raisins in the bottom of the cup.*
 
 **Serves:** 8-10
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedish culture and the defining beverage of the Christmas season - from the first Advent Sunday in late November all the way through Twelfth Night in early January. Every Swedish workplace, every neighbourhood gathering, every Lucia Day breakfast (December 13th, when girls in white robes and candle crowns sing at dawn), every julbord, and every Christmas Eve celebration starts with small mugs of hot glögg in everyone's hands. The construction: red wine (a cheap-but-decent cabernet sauvignon or merlot is the canonical base - saving good wine for drinking) is gently warmed with sugar, a quantity of akvavit or vodka (the alcohol kick that makes glögg distinct from non-alcoholic mulled wines), and a bag of warming spices (whole cardamom pods crushed, cinnamon stick, cloves, allspice, fresh ginger slices, orange peel). Some traditional Swedish home cooks add port or sherry for sweetness depth, and grate fresh nutmeg in at the end. The Swedish-specific touch: each cup is served with a tablespoon of plump dark raisins and a few whole blanched almonds dropped in the bottom - eaten with a teaspoon after drinking. Three details: cardamom is the canonical Swedish spice (more than cinnamon), akvavit or vodka boost (canonical), raisins-and-almonds in the cup.
+Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedish culture and the defining beverage of the Christmas season - from the first Advent Sunday in late November all the way through Twelfth Night in early January. Every Swedish workplace, every neighbourhood gathering, every Lucia Day breakfast (December 13th, when girls in white robes and candle crowns sing at dawn), every julbord, and every Christmas Eve celebration starts with small mugs of hot glögg in everyone's hands. The construction: red wine (a cheap-but-decent cabernet sauvignon or merlot is the canonical base - saving good wine for drinking) is gently warmed with sugar, a quantity of akvavit or vodka (the alcohol kick that makes glögg distinct from non-alcoholic mulled wines), and a bag of warming spices (whole cardamom pods crushed, cinnamon stick, cloves, allspice, fresh ginger slices, orange peel). Some traditional Swedish home cooks add port or sherry for sweetness depth, and grate fresh nutmeg in at the end. The Swedish-specific touch: each cup is served with a tablespoon of plump dark raisins and a few whole blanched almonds dropped in the bottom - eaten with a teaspoon after drinking.
 
 ## Ingredients
 

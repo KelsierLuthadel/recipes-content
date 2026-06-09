@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The fried bologna sandwich is one of Tennessee's most underrated everyday meals and a deep working-class Southern tradition: thick-cut sliced bologna (the canonical American luncheon meat; Oscar Mayer or local Memphis-area brands) cut with a small slit at each side to prevent curling, pan-fried in butter till the edges go crispy-brown and slightly curled, topped with a slice of melty American cheese (or pepper jack). Built on soft white bread (canonical; soft potato rolls work too) with mayonnaise, yellow mustard, dill pickle chips, iceberg lettuce and a slice of tomato. The Tennessee version of a working-class lunch; pantry-simple, fast, deeply satisfying. Three details: thick-cut bologna (5-7 mm), cut slits for flat frying, soft white bread.
+The fried bologna sandwich is one of Tennessee's most underrated everyday meals and a deep working-class Southern tradition: thick-cut sliced bologna (the canonical American luncheon meat; Oscar Mayer or local Memphis-area brands) cut with a small slit at each side to prevent curling, pan-fried in butter till the edges go crispy-brown and slightly curled, topped with a slice of melty American cheese (or pepper jack). Built on soft white bread (canonical; soft potato rolls work too) with mayonnaise, yellow mustard, dill pickle chips, iceberg lettuce and a slice of tomato. The Tennessee version of a working-class lunch; pantry-simple, fast, deeply satisfying.
 
 ## Ingredients
 

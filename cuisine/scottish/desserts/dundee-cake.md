@@ -2,7 +2,7 @@
 
 ![Dundee Cake](resources/dundee-cake.jpg)
 
-*Scotland's famous fruit cake from the city of Dundee: a rich, light-textured fruit cake made with sultanas, currants, mixed peel, ground almonds and a slug of whisky, distinguished from English fruit cakes by the iconic concentric ring of whole blanched almonds laid on the top before baking. Dundee's most exported food product since the 1840s; the marmalade-and-fruit-cake city's signature cake.*
+*Scotland's famous fruit cake from the city of Dundee: a rich, light-textured cake of sultanas, currants, mixed peel and ground almonds, topped with the iconic concentric ring of whole blanched almonds.*
 
 **Serves:** 10-12
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2-2.5 hours
 
 ## Overview
-Dundee cake originates from the Scottish city of Dundee in the early 19th century. The Keiller family (who invented Dundee marmalade in the 1790s) were also commercial bakers, and their seasonal output of fruit cake - made with the dried fruit, candied peel, and oranges the company traded in - became known internationally as the "Dundee cake". The recipe was widely sold and exported, and the iconic concentric ring of whole blanched almonds on the top (a Keiller signature) became the cake's defining feature, copied by bakers throughout the British Isles. The construction differs from English Christmas cake in three key ways: less dense (uses self-raising flour rather than plain plus baking powder; a lighter crumb), more almond (ground almonds in the batter add richness and slight nuttiness), and almond-topped (the concentric ring is canonical - bakeries can be sued for calling a cake "Dundee" without the proper almond ring). The flavour is rich but lighter than Christmas cake - a fruit cake you can eat outside of December, with cups of tea, alongside cheese, or on a Scottish breakfast tray. Three details: SELF-RAISING flour (lighter crumb than Christmas-cake plain), GROUND ALMONDS in the batter (signature richness), and the CONCENTRIC ALMOND RING on top (canonical Dundee signature - never skip).
+Dundee cake came out of the Scottish city of Dundee in the early 19th century, when the Keiller family (who invented Dundee marmalade in the 1790s and also baked commercially) started making fruit cake from the dried fruit, candied peel and oranges they traded in. The concentric ring of whole blanched almonds on top was a Keiller signature that became the cake's defining feature, copied by bakers throughout the British Isles. Lighter than English Christmas cake in three ways: a self-raising flour crumb rather than the dense plain-plus-baking-powder kind, ground almonds in the batter for richness and slight nuttiness, and the iconic almond ring on top that's so canonical bakeries can technically face legal trouble for calling a cake "Dundee" without it. A fruit cake you can happily eat outside December, with cups of tea, alongside cheese, or on a Scottish breakfast tray.
 
 ## Ingredients
 

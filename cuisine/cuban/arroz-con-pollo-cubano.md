@@ -2,7 +2,7 @@
 
 ![Arroz con Pollo Cubano](resources/arroz-con-pollo-cubano.jpg)
 
-*Cuba's one-pot chicken-and-rice: bone-in chicken pieces browned and simmered with rice in a sofrito-and-beer base with peas, olives, capers, sazón and Cuban saffron, till the rice absorbs the chicken-flavoured broth and turns deep yellow. The Cuban Sunday family classic, distinct from the Puerto Rican version with the beer-and-saffron Cuban twist.*
+*Cuba's one-pot chicken-and-rice: bone-in chicken simmered with rice in a sofrito-and-beer base with peas, olives, capers and saffron, till the rice absorbs the broth and turns deep yellow.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 55 minutes
 
 ## Overview
-Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sunday-family classic across the island and the diaspora: bone-in chicken pieces are browned in olive oil, then slow-cooked with medium-grain rice in a base of sofrito Cubano, sliced bell peppers, tomato sauce, sazón, a generous splash of Cuban beer (the canonical addition), saffron threads (or Bijol - the Cuban yellow colouring), peas, sliced olives and capers; the whole thing is covered and simmered till the rice has absorbed the beer-and-stock broth and turns a deep yellow-orange colour. Served family-style from the pot with sliced avocado, lime wedges and a small salad. The dish distinguishes itself from the Puerto Rican arroz con pollo by the use of beer in the cooking liquid (a uniquely Cuban touch), saffron or Bijol for colour (rather than achiote), and the slightly drier final texture (less brothy than the PR version). Three details define proper Cuban arroz con pollo. First, beer in the cooking. The Cuban version uses a light lager beer (Cristal, Hatuey, or any Mexican/American light lager) as part of the cooking liquid; this gives a malty depth that's distinctly Cuban. Second, saffron or Bijol. Saffron is canonical but expensive; Bijol (the Cuban yellow seasoning containing achiote and turmeric) is the everyday substitute. Either gives the dish its proper yellow-orange colour. Third, medium-grain rice. The Cuban preference is medium-grain (Bomba or Calrose); the texture is slightly stickier than long-grain and more absorbent.
+Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sunday-family classic across the island and the diaspora. Bone-in chicken pieces brown in olive oil, then slow-cook with medium-grain rice in a base of sofrito Cubano, sliced bell peppers, tomato sauce, sazón, saffron (or Bijol, the Cuban yellow seasoning), peas, sliced olives and capers. The canonical Cuban touch is the splash of light lager beer in the cooking liquid; it gives a malty depth that distinguishes the dish from its Puerto Rican cousin. The other differences from the PR version are saffron or Bijol rather than achiote for colour, and a slightly drier final texture, less brothy. Medium-grain rice (Bomba or Calrose) is the Cuban preference, slightly stickier than long-grain and more absorbent. Served family-style from the pot with sliced avocado, lime wedges and a small salad.
 
 ## Ingredients
 

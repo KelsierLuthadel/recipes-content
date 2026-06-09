@@ -2,7 +2,7 @@
 
 ![Thai cucumber salad](resources/thai-cucumber-salad.jpg)
 
-*A piquant and sour salad that complements Thai red or green curry wonderfully.*
+*A piquant Thai cucumber salad: ribboned cucumber dressed with ginger, lime and soy, scattered with coriander and chilli: the cool counterweight to a hot curry.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Thai cucumber salad is the cool, tangy, refreshing side that sits next to a hot Thai curry on the table, ribboned cucumber dressed with ginger, lime, soy and a splash of sesame oil and finished with fresh coriander and chilli heat. The trick is the cut and the timing; speed-peeler ribbons of cucumber absorb dressing better than chunks and the salad must be assembled at the last minute or the cucumber wilts and the dressing turns watery in the bowl. Peel and grate fresh ginger directly onto a serving platter, add soy sauce, sesame oil and a squeeze of lime, then check the seasoning. With a speed-peeler, peel the cucumber into long ribbons over the platter, stopping when you reach the watery seed core and discarding it. Finely chop the coriander stalks (don't toss them; they have a delicate flavour worth keeping) and scatter over the cucumber, then add the chopped fresh red chilli on top. Bring the platter to the table but don't toss until just before eating; the salad keeps its bite that way and the dressing pools at the bottom rather than diluting. Sprinkle sesame seeds across just before serving and eat alongside any rich Thai curry to balance the heat and richness with bright, tangy notes.
+Thai cucumber salad is the cool, tangy, refreshing side that sits next to a hot Thai curry on the table, ribboned cucumber dressed with ginger, lime, soy and a splash of sesame oil and finished with coriander and chilli. The trick is the cut and the timing: speed-peeler ribbons absorb dressing better than chunks, the seedy core gets discarded so the salad doesn't go watery, and everything stays untossed till the moment of eating so the cucumber keeps its bite. The dressing of grated ginger, soy, sesame oil and lime pools at the bottom of the platter; cucumber ribbons pile on top; chopped coriander stalks and fresh red chilli scatter across. Tossed at the table and finished with a sprinkle of sesame seeds, eaten alongside any rich Thai curry to balance the heat and richness with bright, tangy notes.
 
 ## Ingredients
 ### Base

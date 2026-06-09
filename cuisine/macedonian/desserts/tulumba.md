@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Tulumba (also known as "tulumbe" in Bosnia; "tulumbas" in Albanian, "lokma" in Turkish) is an Ottoman-origin Balkan dessert beloved across North Macedonia. The construction: a thick choux-style batter (water + butter + flour + eggs) is piped through a star-tipped nozzle into hot oil, cut into 4-5 cm lengths; the ridged fingers fry till deeply golden; immediately submerged in a cool lemon-flavoured sugar syrup; the temperature differential makes the syrup soak deep into the crisp dough. Three details: STAR-TIPPED NOZZLE (the canonical ridged shape), HOT OIL THEN COOL SYRUP (the temperature differential creates the soak), and SUBMERGE IMMEDIATELY (don't let the fritter cool).
+Tulumba (also known as "tulumbe" in Bosnia; "tulumbas" in Albanian, "lokma" in Turkish) is an Ottoman-origin Balkan dessert beloved across North Macedonia. The construction: a thick choux-style batter (water + butter + flour + eggs) is piped through a star-tipped nozzle into hot oil, cut into 4-5 cm lengths; the ridged fingers fry till deeply golden; immediately submerged in a cool lemon-flavoured sugar syrup; the temperature differential makes the syrup soak deep into the crisp dough.
 
 ## Ingredients
 

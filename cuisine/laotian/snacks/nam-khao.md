@@ -2,7 +2,7 @@
 
 ![Nam Khao](resources/nam-khao.jpg)
 
-*Laos's most-loved street salad: deep-fried curry rice balls shattered into chunks and tossed with sour fermented pork (som moo), shredded coconut, fresh herbs (mint, cilantro, culantro), sliced shallots, fresh chillies, lime juice, fish sauce and a generous heap of chopped peanuts. Eaten by hand-rolling into lettuce leaves with the herbs. The crunch of the crispy rice plus the tang of the fermented pork plus the herbaceous brightness defines the dish. A Vientiane and Luang Prabang market-stall classic.*
+*Laos's most-loved street salad: deep-fried curry rice balls shattered into chunks and tossed with sour fermented pork, shredded coconut, fresh herbs, shallots, chillies, lime, fish sauce and chopped peanuts.*
 
 **Serves:** 6 (as starter or salad)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (rice balls)
 
 ## Overview
-Nam khao is a Lao crispy-rice salad of remarkable textural complexity. Three Lao-specific moves. First, the curry rice balls: cooked sticky rice (or jasmine rice; both work) is mixed with red curry paste, finely chopped lemongrass, kaffir lime leaves and fresh ginger, shaped into golf-ball-sized rounds and deep-fried till crispy on the outside and tender inside. The fried balls are then SHATTERED with a heavy spoon into irregular chunks - the broken edges expose the inside crumb for absorbing the dressing. Second, the som moo: Lao sour fermented pork (raw pork mixed with sticky rice, garlic, salt and chilli; left to ferment at room temperature 2-3 days till sour). The som moo is the canonical Lao addition that gives the salad its tangy, faintly funky backbone. Outside Laos, som moo is hard to source - the workable shortcut is cooked Lao sai oua sausage + 2 tablespoons of lime juice to mimic the sour note. Third, the dressing-and-toss: lime juice, fish sauce, palm sugar, sliced chilli, sliced shallots, fresh herbs and toasted peanuts are tossed with the shattered rice and the som moo just before serving. Eaten by hand-wrapping spoonfuls into lettuce leaves with the herbs. Three details: SHATTER THE FRIED RICE BALLS (irregular chunks; not uniform crumbs), USE SOM MOO OR A LIME-DRESSED SAUSAGE SUBSTITUTE (the sour-tangy backbone is essential), and EAT WITHIN 20 MINUTES OF ASSEMBLY (the crispy rice softens fast).
+Nam khao is a Lao crispy-rice salad of remarkable textural complexity, sold at every Vientiane and Luang Prabang market stall. Cooked sticky rice mixes with red curry paste, finely chopped lemongrass, kaffir lime leaves and fresh ginger, shapes into golf-ball-sized rounds and deep-fries till crispy outside and tender inside. The fried balls then shatter with a heavy spoon into irregular chunks; the broken edges expose the inside crumb for absorbing the dressing. The canonical Lao addition is som moo, the sour fermented pork that gives the salad its tangy faintly funky backbone (raw pork fermented with sticky rice, garlic, salt and chilli for two or three days). Som moo is hard to source outside Laos; the workable shortcut is cooked sai oua sausage with a couple of tablespoons of lime juice to mimic the sour note. Tossed with lime juice, fish sauce, palm sugar, sliced chilli, shallots, fresh herbs and toasted peanuts just before serving. Eaten by hand-wrapping spoonfuls into lettuce leaves with the herbs.
 
 ## Ingredients
 

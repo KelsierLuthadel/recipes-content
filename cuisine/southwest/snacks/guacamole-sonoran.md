@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Sonoran guacamole is the canonical Southwestern American guacamole: ripe Hass avocados mashed (some chunky, some smoother) with finely chopped white onion, fresh jalapeño (or serrano), crushed garlic, fresh lime juice, salt and fresh coriander. Distinct from Mexican Oaxacan style (which may include tomatillos), or restaurant table-side guacamole (often with too much added). The Sonoran version is the canonical American: ripe avocado, lime, salt, onion, jalapeño, coriander. Three details: ripe avocados, fine onion-and-jalapeño dice, fresh lime.
+Sonoran guacamole is the canonical Southwestern American guacamole: ripe Hass avocados mashed (some chunky, some smoother) with finely chopped white onion, fresh jalapeño (or serrano), crushed garlic, fresh lime juice, salt and fresh coriander. Distinct from Mexican Oaxacan style (which may include tomatillos), or restaurant table-side guacamole (often with too much added). The Sonoran version is the canonical American: ripe avocado, lime, salt, onion, jalapeño, coriander.
 
 ## Ingredients
 

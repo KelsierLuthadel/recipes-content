@@ -2,7 +2,7 @@
 
 ![Chicago Hot Dog](resources/chicago-hot-dog.jpg)
 
-*Chicago's iconic "dragged through the garden" hot dog: an all-beef Vienna-style dog on a steamed poppy seed bun, topped with yellow mustard, fluorescent neon-green relish, chopped white onion, a thick tomato slice, a dill pickle spear, two pickled sport peppers, and a sprinkle of celery salt. The single rule of Chicago hot dogs: never, ever ketchup.*
+*Chicago's "dragged through the garden" hot dog: an all-beef Vienna dog on a steamed poppy seed bun with mustard, neon-green relish, onion, tomato, dill pickle, sport peppers and celery salt. No ketchup, ever.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Chicago hot dog is the most assertively regional hot dog in America, with a near-religious set of rules built up over a century of street-cart and stand culture (Maxwell Street, Portillo's, Gene & Jude's, Superdawg, and a thousand neighbourhood stands all serve their version of the same dish). The canonical "Chicago-style" is also called "dragged through the garden" because of the heap of vegetables on top: an all-beef Vienna-style frankfurter (steamed or simmered, never boiled), tucked into a poppy seed bun (the bun is steamed too, never toasted), then dressed in a strict order with yellow mustard, fluorescent neon-green sweet pickle relish (the specific Chicago colour comes from blue dye #1 added to standard relish), chopped white onion, two thick tomato slices or wedges, a long dill pickle spear, two pickled sport peppers (small mild Italian-style peppers, not jalapeños), and finally a sprinkle of celery salt across the top. The one rule that's literally non-negotiable in Chicago: never put ketchup on a hot dog after the age of 7. Restaurants will openly mock customers who ask. Three details: poppy seed bun (essential), neon-green relish (not standard sweet relish), absolutely no ketchup.
+The Chicago hot dog is the most assertively regional hot dog in America, with a near-religious set of rules built up over a century of street-cart and stand culture (Maxwell Street, Portillo's, Gene & Jude's, Superdawg, and a thousand neighbourhood stands all serve their version of the same dish). The canonical "Chicago-style" is also called "dragged through the garden" because of the heap of vegetables on top: an all-beef Vienna-style frankfurter (steamed or simmered, never boiled), tucked into a poppy seed bun (the bun is steamed too, never toasted), then dressed in a strict order with yellow mustard, fluorescent neon-green sweet pickle relish (the specific Chicago colour comes from blue dye #1 added to standard relish), chopped white onion, two thick tomato slices or wedges, a long dill pickle spear, two pickled sport peppers (small mild Italian-style peppers, not jalapeños), and finally a sprinkle of celery salt across the top. The one rule that's literally non-negotiable in Chicago: never put ketchup on a hot dog after the age of 7. Restaurants will openly mock customers who ask.
 
 ## Ingredients
 

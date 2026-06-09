@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Tennessee baked beans are the canonical Memphis BBQ-joint side and Tennessee summer-supper staple: dried navy beans (the canonical small white bean) soaked overnight then slow-baked in a savoury-sweet-smoky sauce of bacon, finely chopped onion, brown sugar, ketchup, yellow mustard, Worcestershire, molasses, apple cider vinegar, paprika and (the Tennessee twist) a generous splash of Tennessee whiskey. Slow-baked covered for 2 hours till the beans are creamy and the sauce thickens to a glossy dark glaze. Often the bacon stays in the dish (chopped). Served alongside ribs, pulled pork, brisket, fried chicken. Three details: navy beans, bacon backbone, whiskey twist.
+Tennessee baked beans are the canonical Memphis BBQ-joint side and Tennessee summer-supper staple: dried navy beans (the canonical small white bean) soaked overnight then slow-baked in a savoury-sweet-smoky sauce of bacon, finely chopped onion, brown sugar, ketchup, yellow mustard, Worcestershire, molasses, apple cider vinegar, paprika and (the Tennessee twist) a generous splash of Tennessee whiskey. Slow-baked covered for 2 hours till the beans are creamy and the sauce thickens to a glossy dark glaze. Often the bacon stays in the dish (chopped). Served alongside ribs, pulled pork, brisket, fried chicken.
 
 ## Ingredients
 

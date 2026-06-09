@@ -2,7 +2,7 @@
 
 ![Hete Bliksem](resources/hete-bliksem.jpg)
 
-*Eastern Netherlands' rural stamppot variant: floury potatoes mashed coarsely with cooked apples (a mix of sour cooking apples and sweet eaters, the contrast is the point), finished with crisp bacon lardons and butter, the apple giving the dish its sweet-sour character. Named "hot lightning" for the contrast between the hot mash and the bracing apple acidity; born in the rural Achterhoek and Twente regions of eastern Holland; eaten with thick smoked sausage or a thick slice of black pudding alongside.*
+*Eastern Netherlands' rural stamppot variant: floury potatoes coarsely mashed with sour and sweet cooked apples, finished with crisp bacon lardons and butter.*
 
 **Serves:** 4 (as a side; 2 generously as a main)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Hete bliksem (literally "hot lightning") is the apple-and-potato variant of stamppot, native to the eastern Netherlands - the Achterhoek region of Gelderland and the Twente region of Overijssel where apple orchards and potato fields share the same agricultural calendar. The construction is built around three Dutch-specific moves. First, the apple pairing: a mix of sour cooking apples (Bramley, or a tart Granny Smith) and sweet eating apples (Royal Gala, Pink Lady) - the contrast between the two is the entire point. Pure sour apples give a sour dish; pure sweet apples give a flat one; the mix is what gives hete bliksem its lightning name. Second, the cook: both potatoes and apples cook in the same pot (potatoes first, apples joined in the last 8-10 minutes). The apples should be soft but still hold some shape - not jammy. Third, the bacon: crisp bacon lardons folded into the finished mash along with their rendered fat. The smoky bacon-fat is what marries the apple sweetness to the potato. Some Dutch families add a small spoonful of brown sugar or a touch of cider vinegar to push the sweet-sour contrast further. Served as a side to grilled smoked sausage (rookworst), grilled pork chops, or a thick slice of black pudding (bloedworst). Three details: SOUR + SWEET APPLES TOGETHER (the contrast is the dish), DON'T OVER-COOK THE APPLES (some texture should remain; apple-sauce smooth is wrong), and CRISP BACON GOES IN AT THE END (a rendered bacon-fat plus crisp lardons; soft bacon in the mash loses the textural contrast).
+Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, native to the eastern Netherlands: the Achterhoek of Gelderland and Twente of Overijssel, where apple orchards and potato fields share the same agricultural calendar. Three Dutch-specific moves. First, the apple pairing: a mix of sour cooking apples (Bramley or Granny Smith) and sweet eating apples (Royal Gala, Pink Lady). The contrast between the two is the entire point and the source of the lightning name. Pure sour gives a sour dish, pure sweet gives a flat one. Second, the cook: potatoes and apples share one pot, potatoes first and apples joining for the last eight or ten minutes. The apples should be soft but still hold some shape, not jammy. Third, the bacon: crisp lardons fold into the finished mash with their rendered fat, the smoky bacon-fat marrying apple sweetness to potato. Served alongside rookworst, grilled pork chops or a thick slice of black pudding.
 
 ## Ingredients
 

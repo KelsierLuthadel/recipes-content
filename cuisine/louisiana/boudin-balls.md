@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Boudin balls are a Cajun-Louisiana speciality: the classic boudin sausage filling (slow-cooked pork shoulder + cooked long-grain rice + the trinity + garlic + Cajun spices + parsley + spring onion, all ground or finely chopped together into a moist mixture) shaped into golf-ball-sized balls, coated in seasoned flour, beaten egg, and seasoned panko breadcrumbs, then deep-fried till deep golden and crispy outside while staying soft and savoury inside. Sold at every Cajun gas station, deli, and convenience store in southern Louisiana; standard tailgate and family-gathering appetiser. Three details: proper boudin filling (rice + pork + trinity), three-stage coating, deep-fry not bake.
+Boudin balls are a Cajun-Louisiana speciality: the classic boudin sausage filling (slow-cooked pork shoulder + cooked long-grain rice + the trinity + garlic + Cajun spices + parsley + spring onion, all ground or finely chopped together into a moist mixture) shaped into golf-ball-sized balls, coated in seasoned flour, beaten egg, and seasoned panko breadcrumbs, then deep-fried till deep golden and crispy outside while staying soft and savoury inside. Sold at every Cajun gas station, deli, and convenience store in southern Louisiana; standard tailgate and family-gathering appetiser.
 
 ## Ingredients
 

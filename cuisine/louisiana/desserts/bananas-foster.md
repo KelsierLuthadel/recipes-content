@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Bananas Foster is the iconic New Orleans dessert, invented in 1951 at Brennan's Restaurant in the French Quarter by chef Paul Blangé (named after Richard Foster, a friend of restaurant owner Owen Brennan): ripe bananas (halved lengthwise then crosswise) sautéed in butter and brown sugar to make a caramel sauce, then dramatically flambéed at the table with dark rum and banana liqueur, the flaming sauce poured over vanilla ice cream. The drama of the flambé at the table is the dish's signature; it's traditionally prepared tableside in a chafing dish. Three details: ripe bananas (not green), banana liqueur (Crème de Banane; canonical), flambé at the table for show.
+Bananas Foster is the iconic New Orleans dessert, invented in 1951 at Brennan's Restaurant in the French Quarter by chef Paul Blangé (named after Richard Foster, a friend of restaurant owner Owen Brennan): ripe bananas (halved lengthwise then crosswise) sautéed in butter and brown sugar to make a caramel sauce, then dramatically flambéed at the table with dark rum and banana liqueur, the flaming sauce poured over vanilla ice cream. The drama of the flambé at the table is the dish's signature; it's traditionally prepared tableside in a chafing dish.
 
 ## Ingredients
 

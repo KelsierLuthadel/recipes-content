@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Louisiana dirty rice is a Cajun rice dish that gets its name from the "dirty" speckled appearance the rice takes on when cooked with browned meat: long-grain rice toasted briefly in oil, then cooked with a 50/50 mix of ground pork and ground beef (the offal-free home-style version; the classic Cajun version uses chopped chicken livers and gizzards but most modern home cooks use ground meat), the trinity (onion, celery, green pepper), garlic, Cajun seasoning, bay, thyme, hot sauce, and chicken stock. The meat browns and breaks up into the rice as it cooks, giving the dish its characteristic colour and savoury depth. Three details: brown the meat thoroughly for proper colour, trinity, finished with spring onion and parsley.
+Louisiana dirty rice is a Cajun rice dish that gets its name from the "dirty" speckled appearance the rice takes on when cooked with browned meat: long-grain rice toasted briefly in oil, then cooked with a 50/50 mix of ground pork and ground beef (the offal-free home-style version; the classic Cajun version uses chopped chicken livers and gizzards but most modern home cooks use ground meat), the trinity (onion, celery, green pepper), garlic, Cajun seasoning, bay, thyme, hot sauce, and chicken stock. The meat browns and breaks up into the rice as it cooks, giving the dish its characteristic colour and savoury depth.
 
 ## Ingredients
 

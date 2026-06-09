@@ -2,7 +2,7 @@
 
 ![Lahmacun](resources/lahmacun.jpg)
 
-*Turkey's thin-crust meat flatbread: a paper-thin round of dough spread with a fragrant paste of minced lamb (or beef), tomato, onion, parsley, garlic, Aleppo pepper and pomegranate molasses, baked at fierce heat for 4 minutes till the edges crisp and the meat just cooks through. Rolled with lemon and parsley and eaten from the hand.*
+*Turkey's thin-crust meat flatbread: a paper-thin round of dough spread with a fragrant raw paste of minced lamb, tomato, onion and Aleppo pepper, baked four minutes at fierce heat and rolled with lemon for eating in the hand.*
 
 **Serves:** 6 (6 large lahmacun)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Lahmacun (often translated for tourists as "Turkish pizza" though the comparison sells it short) is one of the most beloved Turkish street foods and a southeastern Anatolian specialty (particularly Şanlıurfa and Gaziantep): a paper-thin round of yeasted flour dough is rolled out to about 20 cm diameter, spread with a thin layer of a fragrant raw paste of finely minced lamb (or beef), grated tomato, very finely chopped onion, parsley, garlic, Aleppo pepper, ground cumin, sumac, tomato paste, pomegranate molasses and salt; the topped flatbread is slid onto a baking stone in a screaming-hot oven (or onto the floor of a wood-fired oven) and cooked for just 3-5 minutes till the dough crisps at the edges, the meat just cooks through, and the whole flatbread takes on a thin char from the heat. Served immediately on a wide plate, sprinkled with chopped parsley, doused with fresh lemon juice, and rolled (or folded) into a thin shawarma-like wrap to eat from the hand. The dish is what every southeastern Turkish family makes on a weekend, what every Turkish bakery sells fresh out of the oven by the dozen for the afternoon meal, and what every tourist to Turkey is encouraged to try. Three details define proper lahmacun. First, the dough must be paper-thin. Lahmacun is not a pizza; it's a thin crispy flatbread with just enough body to support the topping. 2-3 mm at the centre, 1 mm at the edges. Thick dough gives a chewy bread rather than a crisp flatbread. Second, the topping is raw paste, not cooked meat. Lamb (or beef) is mixed raw with the aromatics; the brief 3-5 minute oven blast cooks it through. Pre-cooked meat gives a dry tough topping. Third, screaming-hot oven. 250°C (475°F) minimum, with a preheated baking stone or upturned heavy baking sheet. The high heat is what gives the proper char at the edges and the rapid cook.
+Lahmacun (often translated for tourists as "Turkish pizza" though the comparison sells it short) is one of the most beloved Turkish street foods and a southeastern Anatolian specialty, particularly from Şanlıurfa and Gaziantep. A paper-thin round of yeasted dough (2-3 mm at the centre, 1 mm at the edges: thicker gives a chewy bread rather than a crisp flatbread) carries a fragrant raw paste of finely minced lamb or beef, grated tomato, very finely chopped onion, parsley, garlic, Aleppo pepper, cumin, sumac, tomato paste and pomegranate molasses. The topping goes on raw: pre-cooked meat dries out: and a screaming-hot oven (250 °C minimum) with a preheated baking stone cooks it in three to five minutes, just long enough for the edges to crisp and the meat to set under a thin char. Served immediately, sprinkled with chopped parsley, doused with fresh lemon, and rolled into a thin shawarma-like wrap to eat from the hand.
 
 ## Ingredients
 

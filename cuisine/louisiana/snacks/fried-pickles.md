@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Louisiana fried pickles (also called fried pickle chips) are a Cajun-Southern bar snack and tailgate classic: dill pickle slices (sandwich-cut chips; not whole pickles) drained thoroughly and patted dry (the most critical step; wet pickles spatter and the coating slides off), dredged in buttermilk and a seasoned cornmeal-and-flour mixture, then deep-fried till the crust is deeply golden while the pickle inside stays tangy and slightly juicy. Served immediately with remoulade or ranch dressing. The dish allegedly originated in Mississippi but is canonical Louisiana bar food. Three details: pat pickles dry, cornmeal-flour coating (cornmeal canonical), deep-fry at 180°C.
+Louisiana fried pickles (also called fried pickle chips) are a Cajun-Southern bar snack and tailgate classic: dill pickle slices (sandwich-cut chips; not whole pickles) drained thoroughly and patted dry (the most critical step; wet pickles spatter and the coating slides off), dredged in buttermilk and a seasoned cornmeal-and-flour mixture, then deep-fried till the crust is deeply golden while the pickle inside stays tangy and slightly juicy. Served immediately with remoulade or ranch dressing. The dish allegedly originated in Mississippi but is canonical Louisiana bar food.
 
 ## Ingredients
 

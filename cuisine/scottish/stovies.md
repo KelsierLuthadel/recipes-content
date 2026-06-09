@@ -2,7 +2,7 @@
 
 ![Stovies](resources/stovies.jpg)
 
-*Scotland's leftover-Sunday-roast hash: potatoes, onion, and the cold meat from yesterday's roast (beef, lamb or corned beef) all stewed together in dripping with a slosh of beef stock till the potatoes break down into a savoury, comforting unified mass. The Scottish working-class dish that uses up the roast; eaten with oatcakes and pickled beetroot. The Monday-night supper of every Scottish household for centuries.*
+*Scotland's leftover-Sunday-roast hash: potatoes, onion and cold roast meat all stewed together in dripping with a slosh of beef stock till the potatoes break down into a savoury unified mass.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Stovies (the word comes from the French "étouffer" - to smother/stew) is Scotland's canonical leftover dish, born from frugal Sunday-to-Monday economy: yesterday's roast meat, today's potatoes and onions, all stewed slowly together in beef dripping till everything fuses into one unified comfort food. The dish is regional within Scotland: Aberdeenshire stovies are made with corned beef (canned), Edinburgh stovies typically use leftover roast beef or lamb, while in Fife and the West, mince stovies (with raw minced beef) are common. The construction is forgiving: dripping or lard is melted in a heavy pot, sliced onion is sweated till sweet, then thinly sliced raw potato is added, the meat (cold, chopped) is folded in, and a small amount of beef stock or gravy is poured over before the lid goes on and the whole thing cooks low and slow for 45-60 minutes. The potatoes break down partially, the meat softens, and the dripping enriches everything. Served in deep bowls with oatcakes, pickled beetroot, and a glass of cold milk. The dish is the canonical Scottish Bonfire Night supper (5 November), the Burns Night day-after lunch, and the staple Monday-night supper of every Scottish family with roast leftovers. Three details: beef dripping (the canonical fat - replace with butter at a pinch but it's not the same), slow low cooking (don't rush - stovies should stew gently), and pickled beetroot alongside (the acid cuts the richness).
+Stovies (the name comes from the French "étouffer", to smother or stew) is Scotland's canonical leftover dish, born from frugal Sunday-to-Monday economy. Yesterday's roast meat, today's potatoes and onions, all stewed slowly together in beef dripping till everything fuses into one unified bowl of comfort. Regional within Scotland: Aberdeenshire stovies use canned corned beef, Edinburgh stovies use leftover roast beef or lamb, and in Fife and the West, mince stovies (with raw minced beef) are common. Onions sweat in dripping or lard till sweet, then thinly sliced raw potato and chopped cold meat go in with a splash of beef stock or gravy. Lid down, low and slow for about an hour, until the potatoes have partially broken down and the meat has softened into the whole. Eaten in deep bowls with oatcakes, pickled beetroot and a glass of cold milk. The canonical Bonfire Night supper, the Burns Night day-after lunch, and the staple Monday-night supper of every Scottish family with roast leftovers.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Albondigas en Chipotle](resources/albondigas-en-chipotle.jpg)
 
-*Mexico's smoky chipotle meatballs: tender beef-and-pork meatballs simmered in a vibrant smoky chipotle sauce (tomato, garlic, smoked chipotles in adobo, onion and warm Mexican spices), served over white rice with refried beans and warm corn tortillas. The Mexican home-cook dinner classic, the canonical weeknight family meal.*
+*Mexico's smoky chipotle meatballs: tender beef-and-pork meatballs simmered in a chipotle-tomato sauce, served over white rice with refried beans and warm corn tortillas.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Albóndigas en chipotle is Mexico's most beloved meatball dish and a staple of Mexican home cooking: tender meatballs (the canonical Mexican mix is 50/50 ground beef and pork, bound with soaked bread, egg, onion, garlic, Mexican oregano, cumin, and a touch of mint) simmered in a vibrant smoky chipotle sauce (made from blended tomatoes, garlic, onion, chipotles in adobo, ground cumin and Mexican oregano), till the meatballs are tender and the sauce has reduced into a thick smoky orange-red coating. Served over white rice with refried beans, warm corn tortillas, sliced avocado and lime wedges. The dish distinguishes itself from Italian or Greek meatballs by the chipotle sauce (the smoky deep heat is the signature Mexican touch), the use of fresh mint in the meatballs (a Mexican tradition borrowed from Spanish-Moorish heritage), and the typical presentation over rice rather than pasta. Three details define proper Mexican albóndigas en chipotle. First, chipotles in adobo. The smoked-and-canned jalapeños in their adobo sauce (available at Mexican markets or larger supermarkets) are essential. Substitute with smoked paprika + 1 chopped fresh jalapeño + 1 tablespoon tomato paste if unavailable. Second, mint in the meatballs. The small amount of fresh mint distinguishes the dish from generic meatballs; gives a subtle warmth. Third, simmer the meatballs in the sauce. Don't pre-cook the meatballs in oil; they cook in the sauce, absorbing flavour.
+Albóndigas en chipotle is Mexico's most beloved meatball dish and a staple of Mexican home cooking. The canonical mix is 50/50 ground beef and pork, bound with soaked bread, egg, onion, garlic, Mexican oregano, cumin and a touch of fresh mint (a Spanish-Moorish inheritance that distinguishes the dish from generic meatballs). They simmer raw straight in a vibrant smoky chipotle sauce: blended tomatoes, garlic, onion, chipotles in adobo, cumin and oregano: and absorb its flavour as the sauce reduces to a thick smoky orange-red coating. Chipotles in adobo (smoked-and-canned jalapeños in their tomato-vinegar sauce) are the non-negotiable signature: smoked paprika plus a fresh jalapeño and tomato paste is the workable substitute. Eaten over white rice with refried beans, warm corn tortillas, sliced avocado and lime wedges.
 
 ## Ingredients
 

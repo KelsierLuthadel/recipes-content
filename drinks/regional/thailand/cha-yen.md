@@ -2,7 +2,7 @@
 
 ![Cha Yen](resources/cha-yen.jpg)
 
-*Thailand's signature orange-coloured iced tea: strong Ceylon black tea steeped with star anise, cardamom and a touch of food colouring (or pandan), pulled together with condensed and evaporated milk, poured over a tall glass of crushed ice. Sweet, creamy, faintly spiced, sold from every street cart and food court in Bangkok.*
+*Thailand's signature orange iced tea: strong Ceylon black tea brewed with star anise and cardamom, pulled together with evaporated and condensed milk over a tall glass of crushed ice.*
 
 **Serves:** 2 tall glasses
 

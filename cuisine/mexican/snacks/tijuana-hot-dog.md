@@ -2,7 +2,7 @@
 
 ![Tijuana Hot Dog](resources/tijuana-hot-dog.jpg)
 
-*Tijuana's bacon-wrapped street dog: a hot dog wrapped tight in streaky bacon, grilled till the bacon crisps, then tucked into a soft white bun and topped with grilled bell peppers and onions, a chopped tomato-and-onion pico, sliced jalapeños, mayonnaise, ketchup, and a drizzle of mustard. The Tijuana-Mexico border-town street food that birthed the Sonoran hot dog.*
+*Tijuana's bacon-wrapped street dog: a hot dog wrapped tight in streaky bacon, grilled till the bacon crisps, then tucked into a soft white bun with grilled peppers and onions, pico, jalapeños, mayo, ketchup and mustard.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Tijuana hot dog (also called Tijuana-style dog or "el perro tijuanense") is the Mexican-border-town street food that birthed an entire family of bacon-wrapped Mexican hot dog styles (most famously the Sonoran hot dog of Sonora and Arizona, which is a direct evolution of the Tijuana version): a standard hot dog (canonically a small all-beef or pork-and-beef frankfurter) wrapped tightly in a strip of streaky bacon and grilled hard on a flat-top till the bacon crisps and renders its fat into the dog. Laid into a soft white bun (smaller and softer than American hot dog buns, with the dog poking out both ends), then topped with grilled-on-the-flat-top strips of bell pepper and white onion, a chopped fresh pico (tomato + white onion + cilantro + lime + salt), thinly sliced jalapeños (or pickled jalapeño rings), a heavy drizzle of crema or mayonnaise, a stripe of ketchup, and a stripe of yellow mustard. Sold from street carts in downtown Tijuana, particularly around the Zona Norte, the Mercado Hidalgo, and Avenida Revolución, late at night or early morning to bar-goers and workers. Three details: bacon-wrapped, grilled bell peppers and onions (cooked on the same flat-top), three sauces (mayo + ketchup + mustard).
+The Tijuana hot dog (also called "el perro tijuanense") is the Mexican-border-town street food that birthed an entire family of bacon-wrapped Mexican hot dog styles: most famously the Sonoran hot dog of Sonora and Arizona, a direct evolution of the Tijuana version. A small all-beef or pork-and-beef frankfurter wraps tightly in a strip of streaky bacon and grills hard on a flat-top till the bacon crisps and renders its fat into the dog. Laid into a soft white bun (smaller and softer than American hot dog buns, with the dog poking out both ends), then topped with grilled strips of bell pepper and white onion, a chopped fresh pico of tomato, onion, cilantro and lime, thinly sliced jalapeños, a heavy drizzle of crema or mayonnaise, and stripes of ketchup and yellow mustard. Sold from street carts in downtown Tijuana: particularly the Zona Norte, Mercado Hidalgo and Avenida Revolución: late at night or early morning to bar-goers and workers.
 
 ## Ingredients
 

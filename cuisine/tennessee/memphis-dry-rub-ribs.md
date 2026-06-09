@@ -11,7 +11,7 @@
 **Cook Time:** 5-6 hours
 
 ## Overview
-Memphis dry-rub ribs are the canonical Memphis ribs style and one of the four major American BBQ traditions (alongside Kansas City wet-sauce ribs, Carolina vinegar ribs, and Texas brisket): pork spareribs or baby back ribs rubbed with a sweet-savoury dry spice blend (similar to pulled pork rub, with the addition of celery salt and slightly more paprika), left to penetrate 4-24 hours, then slow-smoked at 110-115°C over hickory wood for 5-6 hours till the meat is tender and the bark is deeply dark. The defining feature is that no sauce is applied (Memphis dry-style); instead the ribs are sprinkled with additional dry rub just before serving, with sauce only available on the side as an option. Three details: dry rub on for hours, hickory smoke, no sauce while cooking.
+Memphis dry-rub ribs are the canonical Memphis ribs style and one of the four major American BBQ traditions (alongside Kansas City wet-sauce ribs, Carolina vinegar ribs, and Texas brisket): pork spareribs or baby back ribs rubbed with a sweet-savoury dry spice blend (similar to pulled pork rub, with the addition of celery salt and slightly more paprika), left to penetrate 4-24 hours, then slow-smoked at 110-115°C over hickory wood for 5-6 hours till the meat is tender and the bark is deeply dark. The defining feature is that no sauce is applied (Memphis dry-style); instead the ribs are sprinkled with additional dry rub just before serving, with sauce only available on the side as an option.
 
 ## Ingredients
 

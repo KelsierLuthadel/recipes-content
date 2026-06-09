@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one of Malta's oldest dishes - a fishermen's soup that uses smaller mixed-catch fish in a clear garlicky tomato broth thickened with a small amount of rice. The dish became the canonical Maltese Friday and Lenten meal (Catholic fasting days). The construction: a head of garlic is sweated in olive oil with onion and tomato; fish stock and water are added; small chunks of white fish (cod, hake, sea bream, scorpion fish, monkfish - whatever was caught) are poached briefly; rice is cooked into the broth for body; the soup is finished with a generous shower of fresh mint, marjoram, and parsley, plus a squeeze of lemon. Three details: GENEROUS GARLIC (a whole head), FRESH HERBS AT THE END (mint and marjoram are essential), and DON'T OVERCOOK THE FISH (3-4 minutes maximum in the soup).
+Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one of Malta's oldest dishes - a fishermen's soup that uses smaller mixed-catch fish in a clear garlicky tomato broth thickened with a small amount of rice. The dish became the canonical Maltese Friday and Lenten meal (Catholic fasting days). The construction: a head of garlic is sweated in olive oil with onion and tomato; fish stock and water are added; small chunks of white fish (cod, hake, sea bream, scorpion fish, monkfish - whatever was caught) are poached briefly; rice is cooked into the broth for body; the soup is finished with a generous shower of fresh mint, marjoram, and parsley, plus a squeeze of lemon.
 
 ## Ingredients
 

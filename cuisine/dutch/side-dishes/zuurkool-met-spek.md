@@ -2,7 +2,7 @@
 
 ![Zuurkool met Spek](resources/zuurkool-met-spek.jpg)
 
-*The Netherlands' canonical winter sauerkraut side: good sauerkraut sweated slowly with onion and apple in rendered bacon fat till the harsh acidity mellows into a sweet-sour tang, finished with crisp bacon lardons and a generous pinch of caraway seed. The Dutch version is sweeter and more apple-forward than the German Sauerkraut, and the bacon is integral (not a topping). The standard winter accompaniment to rookworst, pork chops, or [Hutspot](hutspot.md); also the base of zuurkoolstamppot when folded into mashed potato.*
+*The Netherlands' winter sauerkraut side: sauerkraut sweated with onion and apple in bacon fat till the acidity mellows, finished with crisp lardons and caraway seed.*
 
 **Serves:** 4 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Zuurkool (Dutch sauerkraut) is a Dutch winter staple, but unlike the German version (which often arrives barely cooked, sharp and very acidic), the Dutch home version is mellowed by long slow cooking with apple, onion and bacon fat. The construction has three Dutch-specific moves. First, the sauerkraut itself: good barrel-cured sauerkraut (sold in jars or in food-grade plastic bags in Dutch supermarkets and many delis abroad), drained and rinsed lightly to remove some of the harsh acidity. Some Dutch home cooks rinse twice; others not at all - the rinse level adjusts the finished tartness. Second, the apple-and-onion sweat: a generous quantity of finely chopped apple (Bramley or Granny Smith for tartness; some cooks add a touch of soft brown sugar) and onion is sweated in rendered bacon fat for 8-10 minutes till soft and sweet. The sweetness of the cooked apple is what mellows the sauerkraut's sharpness. Third, the long covered braise: the rinsed sauerkraut joins the apple-onion, a splash of stock or apple juice, and a teaspoon of caraway seeds; cooked covered on low for 20-25 minutes till the flavours meld. The result is a savoury, sweet-sour, faintly tangy side dish that pairs with everything pork or sausage. Some Dutch families fold the finished zuurkool into mashed potato to make zuurkoolstamppot - the same logic as the stamppot family. Three details: RINSE THE SAUERKRAUT LIGHTLY (one rinse for medium tartness; no rinse for the German-style sharpness; two rinses for a milder finish), SWEAT THE APPLE AND ONION LONG (not just till translucent; you want them fully soft and sweet before the kraut goes in), and DON'T BOIL THE FINISHED ZUURKOOL (low simmer covered; high heat boils away the moisture and dries it out).
+Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version (which often arrives barely cooked, sharp and very acidic), the Dutch home version is mellowed by long slow cooking with apple, onion and bacon fat. Good barrel-cured sauerkraut drains and rinses lightly to remove some of the harsh acidity (some Dutch cooks rinse twice, some not at all, adjusting to the finished tartness they want). A generous quantity of chopped apple and onion sweats in rendered bacon fat for eight to ten minutes till soft and sweet; the cooked apple's sweetness is what mellows the sauerkraut. The rinsed kraut joins with a splash of stock or apple juice and a teaspoon of caraway seeds, then cooks covered on low for twenty-five minutes till the flavours meld. The result is savoury, sweet-sour, faintly tangy. Pairs with everything pork or sausage; folded into mashed potato it becomes zuurkoolstamppot.
 
 ## Ingredients
 

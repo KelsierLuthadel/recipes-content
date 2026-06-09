@@ -2,7 +2,7 @@
 
 ![Cacik](resources/cacik.jpg)
 
-*Turkey's yogurt-cucumber dip: thick strained yogurt thinned with cold water and olive oil, mixed with finely diced cucumber, crushed garlic, dried mint, fresh dill and a pinch of salt, finished with a drizzle of olive oil and a sprinkle of dried mint. The Turkish meze classic, eaten as a small bowl alongside grilled meats, kebabs and rice or as a thicker dip with flatbread.*
+*Turkey's yogurt-cucumber dip: strained yogurt thinned with cold water and olive oil, mixed with diced cucumber, garlic, dried mint and fresh dill, served thick as a dip or thinned to a cold soup.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an iconic meze: thick strained yogurt thinned slightly with cold water and a drizzle of olive oil, combined with finely diced (or sometimes coarsely grated and lightly squeezed) cucumber, crushed garlic, dried mint, fresh dill, fresh chopped mint, and salt; finished with a small pool of olive oil on top and an extra sprinkle of dried mint. The dish exists in nearly identical form across the wider region (Greek tzatziki, Bulgarian tarator, Iranian māst-o-khiar, Indian raita) but the Turkish cacık has its own distinct character: thinner consistency than tzatziki (the Turkish version is often served as a cold soup-like accompaniment rather than a thick spread), heavier on the dried mint, and almost always with dill. There are two distinct serving styles. The "thick cacık" is used as a meze dip with bread (closer in consistency to tzatziki). The "thin cacık" is served in a small bowl at the side of a meal, almost a soup, eaten with a spoon between bites of richer food (the canonical Turkish way). Three details define proper cacık. First, strained yogurt. Süzme yoghurt (strained yogurt; or Greek-style yogurt; or regular yogurt strained through muslin for 1-2 hours) is essential for the proper texture. Watery thin yogurt won't give the proper body. Second, the cucumber must be drained. Salted cucumber sits 10 minutes to release moisture, then drained, before going into the yogurt; un-drained cucumber makes the dip watery. Third, dried mint is canonical. Fresh mint alone gives a different flavour profile; the dried mint provides the proper Turkish character. Both is best.
+Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an iconic meze: close cousin to Greek tzatziki, Bulgarian tarator, Iranian māst-o-khiar and Indian raita, but with its own distinct Turkish character: thinner consistency, heavier on the dried mint, and almost always with dill. There are two distinct serving styles. The thick cacık is used as a meze dip with bread (closer in consistency to tzatziki); the thin cacık is served in a small bowl at the side of a meal, almost a cold soup, eaten with a spoon between bites of richer food: the canonical Turkish way. Süzme yoghurt (strained yogurt; or Greek-style; or regular yogurt strained through muslin for an hour or two) gives the proper body: watery yogurt doesn't carry the dish. The cucumber gets salted ten minutes and drained before going in, or it makes the dip watery. Dried mint is essential alongside the fresh dill; both is best. Finished with a small pool of olive oil and an extra sprinkle of dried mint on top.
 
 ## Ingredients
 

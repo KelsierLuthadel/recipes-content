@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-New Mexico posole rojo is the canonical New Mexican Christmas Eve and feast-day stew, distinct from but related to the Pueblo posole and the Mexican pozole. The NM version uses specifically New Mexico red chiles (chimayó red, or the canonical Hatch red), creating a deeper redder broth than the Pueblo or Sonoran versions. Cubed pork shoulder slow-cooked with hominy (the large-kernel corn treated with lime; available canned or dried), red chile paste, onion, garlic, oregano, cumin and bay leaves. Served in deep bowls with the canonical NM garnishes: shredded cabbage, sliced radishes, chopped raw onion, lime wedges, dried oregano, hot sauce, sliced jalapeños. Three details: NM red chiles (the local variety), hominy is the corn, table-side garnishes.
+New Mexico posole rojo is the canonical New Mexican Christmas Eve and feast-day stew, distinct from but related to the Pueblo posole and the Mexican pozole. The NM version uses specifically New Mexico red chiles (chimayó red, or the canonical Hatch red), creating a deeper redder broth than the Pueblo or Sonoran versions. Cubed pork shoulder slow-cooked with hominy (the large-kernel corn treated with lime; available canned or dried), red chile paste, onion, garlic, oregano, cumin and bay leaves. Served in deep bowls with the canonical NM garnishes: shredded cabbage, sliced radishes, chopped raw onion, lime wedges, dried oregano, hot sauce, sliced jalapeños.
 
 ## Ingredients
 

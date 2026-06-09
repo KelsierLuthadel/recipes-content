@@ -2,7 +2,7 @@
 
 ![Turkish Köfte](resources/kofte.jpg)
 
-*Turkey's grilled meatballs: hand-shaped beef-and-lamb mince patties seasoned with onion, garlic, parsley, cumin, dried mint and Aleppo pepper, grilled over charcoal till the outside chars and the inside stays juicy. The everyday Turkish meze and main course, eaten with grilled bread, salad and ayran.*
+*Turkey's grilled meatballs: hand-shaped beef-and-lamb patties seasoned with onion, parsley, cumin, dried mint and Aleppo pepper, grilled over charcoal till the outside chars.*
 
 **Serves:** 4 (about 16 köfte)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Köfte (köfteler in plural) is Turkey's most beloved meat dish and one of the most distinctive contributions of the country to world cuisine: hand-shaped patties or sausages made from minced beef (or a 50/50 mix of beef and lamb; sometimes pure lamb), seasoned with finely chopped onion, garlic, parsley, cumin, dried mint, Aleppo pepper (the canonical Turkish dried red pepper, mild and fragrant), sumac and salt, mixed thoroughly till the proteins develop and the mixture becomes sticky-elastic, shaped into oval patties or short fat sausages and grilled over charcoal (or a hot griddle pan) till the outside chars and the inside stays just-cooked and juicy. The variety of köfte across Turkey is enormous: every region has its own version with slightly different seasoning, shape and cooking method. The most common standard is the "İzgara köfte" or "Adana-style köfte" (long sausage on a skewer); but the simpler home-cook version is round or oval patties cooked on a hot pan or grill. Three details define proper Turkish köfte. First, the meat must be properly fatty. Lean meat gives dry tough köfte; you need at least 20% fat (or use a mix of fatty lamb shoulder and beef). The fat is what gives the proper juicy interior. Second, the mixing matters. The mince must be kneaded with the seasonings for at least 3-4 minutes till the mixture becomes sticky and slightly elastic; this develops the proteins and gives the proper cohesive texture. Lazy mixing gives crumbly meatballs that fall apart on the grill. Third, the seasoning. Aleppo pepper (pul biber), dried mint (nane), cumin (kimyon) and sumac are the canonical Turkish spices. Without them, you have generic meatballs; with them, you have proper Turkish köfte. The Aleppo pepper specifically is what gives the warm fragrant moderate-heat character.
+Köfte is Turkey's most beloved meat dish and one of the country's most distinctive contributions to world cuisine. Hand-shaped patties or short fat sausages made from minced beef (or a 50/50 beef-and-lamb mix; sometimes pure lamb) at least 20% fat: lean meat gives dry tough köfte: seasoned with finely chopped onion, garlic, parsley, cumin, dried mint, Aleppo pepper (pul biber, the canonical Turkish dried red pepper, mild and fragrant) and sumac. The seasoning is the dish's identity: those four spices are what mark it as Turkish, and the Aleppo pepper specifically gives the warm fragrant moderate-heat character. The mince kneads with the seasonings for three or four minutes till sticky-elastic; lazy mixing gives crumbly meatballs that fall apart on the grill. Grilled over charcoal (or a hot griddle pan) till the outside chars and the inside stays juicy. Variety across Turkey is enormous: every region has its own shape and seasoning: but the home-cook version of round or oval patties on a hot pan is what most Turkish kitchens make.
 
 ## Ingredients
 

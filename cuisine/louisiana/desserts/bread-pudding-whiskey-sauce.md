@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Louisiana bread pudding is the most iconic Creole dessert and the signature finale of every classic New Orleans Creole restaurant (Commander's Palace, Antoine's, Brennan's, Dooky Chase's all serve their canonical versions): stale French bread (canonical; baguette, leftover muffuletta loaves, or day-old French bread) torn into chunks, soaked in a rich custard of whole milk, double cream, eggs, sugar, vanilla, cinnamon, nutmeg and raisins, baked in a buttered dish till the top is deeply golden and the inside is creamy-soft. Served warm with a hot whiskey sauce (butter + sugar + cream + egg + bourbon) poured generously over each serving. Three details: stale French bread (canonical), soak 1 hour, hot whiskey sauce essential.
+Louisiana bread pudding is the most iconic Creole dessert and the signature finale of every classic New Orleans Creole restaurant (Commander's Palace, Antoine's, Brennan's, Dooky Chase's all serve their canonical versions): stale French bread (canonical; baguette, leftover muffuletta loaves, or day-old French bread) torn into chunks, soaked in a rich custard of whole milk, double cream, eggs, sugar, vanilla, cinnamon, nutmeg and raisins, baked in a buttered dish till the top is deeply golden and the inside is creamy-soft. Served warm with a hot whiskey sauce (butter + sugar + cream + egg + bourbon) poured generously over each serving.
 
 ## Ingredients
 

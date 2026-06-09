@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Country ham biscuits are one of the most iconic Southern (and particularly Tennessee/Kentucky) foods, appearing at every wedding reception, christening, baby shower and church social: small fluffy buttermilk biscuits (cut about 6 cm wide for the canonical canapé size) split warm and filled with a thin slice of dry-cured Tennessee country ham (the salty, deeply ham-flavoured cured ham; distinct from "city ham" which is the wet-cured smoked variety; country ham is cured in salt for months and aged 9-12 months for the deep flavour, similar to prosciutto but smokier). The salt of the ham balances the buttery biscuit. Often served with honey mustard or a touch of honey directly on the ham. Three details: proper buttermilk biscuits (not the canned tube kind), Tennessee country ham (dry-cured), small canapé-size.
+Country ham biscuits are one of the most iconic Southern (and particularly Tennessee/Kentucky) foods, appearing at every wedding reception, christening, baby shower and church social: small fluffy buttermilk biscuits (cut about 6 cm wide for the canonical canapé size) split warm and filled with a thin slice of dry-cured Tennessee country ham (the salty, deeply ham-flavoured cured ham; distinct from "city ham" which is the wet-cured smoked variety; country ham is cured in salt for months and aged 9-12 months for the deep flavour, similar to prosciutto but smokier). The salt of the ham balances the buttery biscuit. Often served with honey mustard or a touch of honey directly on the ham.
 
 ## Ingredients
 

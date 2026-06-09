@@ -2,7 +2,7 @@
 
 ![Vol-au-Vent à la Belge](resources/vol-au-vent-a-la-belge.jpg)
 
-*Belgium's restaurant-and-Sunday-lunch classic: a tall puff-pastry case holding poached chicken, mushrooms and tiny meatballs (boulettes) in a creamy velouté sauce thickened with egg yolks, lifted with a squeeze of lemon. The pastry shell shatters when you cut into it; the velouté pools onto the plate. Served with Belgian frites or boiled potatoes, this is the dish every Belgian grandmother makes for the Sunday family gathering and every Brussels brasserie keeps on the menu.*
+*Belgium's Sunday-lunch classic: a tall puff-pastry case holding poached chicken, mushrooms and tiny boulettes meatballs in a lemony egg-yolk velouté. Served with frites.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Vol-au-vent à la Belge (literally "flight on the wind", named for how the puff-pastry case rises in the oven) is the Belgian version of the French original, but the Belgian filling is identity-specific: chicken poached in stock, mushrooms sautéed in butter, and small veal-or-pork meatballs (boulettes) - the meatballs are what mark this as Belgian rather than French. The sauce is a classic velouté built on the chicken poaching liquid, finished with cream, egg yolks and a squeeze of lemon. The pastry case is bought (a good butter puff-pastry vol-au-vent shell from the supermarket) or made from scratch (rough puff). Many Belgian families buy frozen puff-pastry shells; the filling is what they make from scratch. The construction is layered: warmed pastry case in the centre of the plate, generous spoonfuls of filling pouring down the sides, Belgian frites or boiled potatoes alongside. The classic Belgian condiment is a wedge of lemon and grated nutmeg over the top. Three details: BROWN THE MEATBALLS PROPERLY (small, well-seasoned, browned on all sides before joining the sauce; they hold their shape better and give caramelised flavour), DON'T OVERCOOK THE MUSHROOMS (a quick sauté in butter; they finish in the sauce), and TEMPER THE EGG YOLKS (whisk with cream and a ladle of hot velouté before stirring into the pot; otherwise they scramble).
+Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-pastry case puffs and rises in the oven. The Belgian version of the French original, but the filling is identity-specific: chicken poached in stock, mushrooms sautéed in butter, and small veal-or-pork meatballs (boulettes). The meatballs are what mark this as Belgian rather than French. The sauce is a classic velouté built on the chicken poaching liquid, finished with cream, egg yolks and a squeeze of lemon. Most Belgian families buy frozen puff-pastry shells and make the filling from scratch; that's how every grandmother in the country does it for Sunday lunch. The construction is layered: a warmed pastry case in the centre of the plate, generous spoonfuls of filling pouring down the sides, frites or boiled potatoes alongside. A wedge of lemon and grated nutmeg over the top.
 
 ## Ingredients
 

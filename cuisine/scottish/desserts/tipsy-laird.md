@@ -2,7 +2,7 @@
 
 ![Tipsy Laird](resources/tipsy-laird.jpg)
 
-*Scotland's whisky trifle: sponge cake soaked in Drambuie and raspberry jam, layered with raspberries, custard, and whipped cream, topped with toasted flaked almonds. The Scottish answer to the English sherry trifle, with whisky liqueur in place of sherry. The Burns Night alternative to cranachan; the Hogmanay centrepiece on every Scottish sideboard.*
+*Scotland's whisky trifle: sponge cake soaked in Drambuie and raspberry jam, layered with raspberries, custard and whipped cream, topped with toasted flaked almonds.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (custard)
 
 ## Overview
-Tipsy laird ("laird" being the Scots word for a landowner; the name implies the lord of the manor enjoying a tipsy dessert after dinner) is Scotland's national trifle and the canonical alternative to cranachan at Burns Night and Hogmanay. The construction is similar to an English sherry trifle but with one critical Scottish substitution: Drambuie (the Scottish whisky-and-honey liqueur, invented on the Isle of Skye in 1745) replaces the sweet sherry, giving the dessert a distinctly Scottish character with notes of honey, herbs, and single-malt depth. The construction has five layers, built in a large glass trifle bowl: (1) sponge cake (homemade or Madeira-style bought, cubed) soaked with Drambuie and raspberry jam, (2) fresh or frozen raspberries scattered over, (3) thick homemade custard poured over and left to set, (4) softly whipped double cream piled on top, and (5) a generous shower of toasted flaked almonds with a few whole raspberries. The whole construction is built 4-6 hours ahead so the sponge absorbs all the Drambuie and the layers settle. Three details: HOMEMADE custard (vanilla-bean, made with egg yolks; don't use packet custard), GENEROUS Drambuie soak (be brave - the sponge needs to be properly tipsy), and TOASTED flaked almonds (toast them in a dry pan; gives the canonical crunch).
+Tipsy laird ("laird" is the Scots word for a landowner; the name implies the lord of the manor enjoying a tipsy dessert after dinner) is Scotland's national trifle and the canonical alternative to cranachan at Burns Night and Hogmanay. The construction is essentially an English sherry trifle with one critical Scottish substitution: Drambuie, the whisky-and-honey liqueur invented on the Isle of Skye in 1745, replaces the sherry, giving the dessert a distinctly Scottish character with notes of honey, herbs and single-malt depth. Built in a large glass trifle bowl in five layers: sponge cake cubed and soaked with Drambuie and raspberry jam, then raspberries, then thick homemade custard poured over and left to set, then softly whipped double cream, then a generous shower of toasted flaked almonds with a few whole raspberries on top. Built four to six hours ahead so the sponge drinks up all the Drambuie and the layers settle properly.
 
 ## Ingredients
 

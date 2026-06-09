@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Tennessee country fried steak (also called chicken-fried steak in much of the South; the two names refer to the same dish, with country-fried slightly more associated with Tennessee and Kentucky) is the canonical Southern comfort food: cube steak (round steak that's been mechanically tenderised; or pound out top round yourself) dredged through seasoned flour, then milk-and-egg, then flour again, then pan-fried in hot lard till the crust is deeply golden and crispy. The pan drippings are then used to make a creamy peppery white gravy (also called sawmill gravy), generously ladled over the top of the steak (and any mashed potatoes alongside). Served with mashed potatoes, green beans or collard greens, and biscuits. Three details: tenderise the steak, double dredge for proper crust, peppery white gravy is essential.
+Tennessee country fried steak (also called chicken-fried steak in much of the South; the two names refer to the same dish, with country-fried slightly more associated with Tennessee and Kentucky) is the canonical Southern comfort food: cube steak (round steak that's been mechanically tenderised; or pound out top round yourself) dredged through seasoned flour, then milk-and-egg, then flour again, then pan-fried in hot lard till the crust is deeply golden and crispy. The pan drippings are then used to make a creamy peppery white gravy (also called sawmill gravy), generously ladled over the top of the steak (and any mashed potatoes alongside). Served with mashed potatoes, green beans or collard greens, and biscuits.
 
 ## Ingredients
 

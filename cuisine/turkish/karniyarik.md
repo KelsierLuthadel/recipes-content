@@ -2,7 +2,7 @@
 
 ![Karniyarik](resources/karniyarik.jpg)
 
-*Turkey's "split belly" stuffed eggplant: whole baby aubergines split open and fried, then stuffed with a fragrant lamb mince filling (onion, garlic, tomato, parsley, Aleppo pepper), topped with sliced tomato and green pepper, and oven-baked in a tomato-and-stock sauce till the eggplant goes silky and the meat tender. The Turkish home-cook classic alongside pilav.*
+*Turkey's "split belly" stuffed eggplant: baby aubergines fried whole then split open and stuffed with a lamb-mince filling, baked in a tomato-and-stock sauce till the eggplant goes silky.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of Turkey's most beloved home dishes and a staple of Anatolian family cooking: whole baby aubergines (or split medium eggplants) are pre-fried in olive oil till the outsides are deep brown and the flesh is partially cooked, then split lengthwise to create a pocket, stuffed with a fragrant lamb-mince filling (onion, garlic, chopped tomato, parsley, Turkish red pepper paste, Aleppo pepper, cumin and salt), topped with sliced fresh tomato and a strip of green pepper, arranged in a wide roasting tin, doused with a tomato-and-stock sauce, and baked at 200°C for 30-40 minutes till the eggplant is silky, the filling is properly cooked through, and the sauce has reduced into a glossy coating. The dish is closely related to but distinct from the Greek papoutsakia, the Iranian dolmeh-bademjan, and the wider eastern-Mediterranean stuffed-eggplant family; the Turkish karnıyarık distinguishes itself with the lamb-and-pepper-paste filling and the tomato-baked finish. Three details define proper karnıyarık. First, pre-fry the eggplants. The brief shallow-fry in olive oil before stuffing is essential; it cooks the eggplant partway, makes the flesh silky and prevents the eggplant from going woody during the bake. Don't skip; baking raw eggplant gives a different (less Turkish) result. Second, the filling needs proper seasoning. Turkish red pepper paste (biber salçası), Aleppo pepper, cumin, parsley - these are the canonical Turkish ingredients. Without them, you have generic stuffed eggplant. Third, the sauce should be loose. Enough sauce to come halfway up the eggplants during baking; this gives the silky steam-bake finish.
+Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of Turkey's most beloved home dishes and a staple of Anatolian family cooking: closely related to but distinct from the Greek papoutsakia and the wider eastern-Mediterranean stuffed-eggplant family. The lamb-and-pepper-paste filling and the tomato-baked finish are what make it Turkish. Baby aubergines pre-fry whole in olive oil till the outsides are deep brown and the flesh is partially cooked (skipping the pre-fry leaves the eggplant woody on the bake), then split lengthwise to create a pocket for a fragrant lamb-mince filling: onion, garlic, chopped tomato, parsley, Turkish red pepper paste (biber salçası), Aleppo pepper, cumin and salt. A slice of fresh tomato and a strip of green pepper cap each one, then the eggplants sit in a wide tin doused with a loose tomato-and-stock sauce that comes halfway up their sides. Baked till the eggplant is silky and the sauce reduces to a glossy coating. Eaten with pilav and a spoon for catching every drop.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Brunswick stew is one of the South's most beloved game stews and the source of one of America's most enduring inter-state rivalries (Brunswick, Georgia and Brunswick County, Virginia both claim invention): originally made with whatever game was available (squirrel, rabbit, opossum), the modern Southern version uses pulled pork (often leftover smoked BBQ pork; this gives the dish its smoky BBQ character), shredded chicken, slow-cooked with onion, garlic, tomato, corn, lima beans (or butter beans), cubed potato, okra and Worcestershire sauce. Tomato-based with smoky depth from the BBQ pork. Served in deep bowls with cornbread. Three details: use leftover pulled pork (gives smoky BBQ flavour), multiple vegetables (the variety is the point), simmer till thick.
+Brunswick stew is one of the South's most beloved game stews and the source of one of America's most enduring inter-state rivalries (Brunswick, Georgia and Brunswick County, Virginia both claim invention): originally made with whatever game was available (squirrel, rabbit, opossum), the modern Southern version uses pulled pork (often leftover smoked BBQ pork; this gives the dish its smoky BBQ character), shredded chicken, slow-cooked with onion, garlic, tomato, corn, lima beans (or butter beans), cubed potato, okra and Worcestershire sauce. Tomato-based with smoky depth from the BBQ pork. Served in deep bowls with cornbread.
 
 ## Ingredients
 

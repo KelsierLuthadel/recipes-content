@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Natillas is a New Mexican-Hispano vanilla custard dessert that bridges Spanish flan-style custards and NM home cooking: whole milk, sugar, vanilla and cinnamon cooked together with egg yolks and a touch of cornstarch into a thick smooth custard; whipped egg whites folded in to lighten the texture into something between a custard and a mousse. Served in individual cups or a wide bowl, topped with ground cinnamon and sometimes nutmeg, sometimes with mini meringue dollops floating on top. Three details: gentle cooking (don't curdle), egg whites folded in for lightness, cinnamon top.
+Natillas is a New Mexican-Hispano vanilla custard dessert that bridges Spanish flan-style custards and NM home cooking: whole milk, sugar, vanilla and cinnamon cooked together with egg yolks and a touch of cornstarch into a thick smooth custard; whipped egg whites folded in to lighten the texture into something between a custard and a mousse. Served in individual cups or a wide bowl, topped with ground cinnamon and sometimes nutmeg, sometimes with mini meringue dollops floating on top.
 
 ## Ingredients
 

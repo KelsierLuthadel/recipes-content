@@ -2,7 +2,7 @@
 
 ![Three-Bean Salad](resources/three-bean-salad.jpg)
 
-*Glossy kidney beans, creamy cannellini, and snappy green beans tumbled together in a bright sweet-sour vinaigrette laced with sharp red onion. The smell is unmistakably picnic-table, vinegar and herbs, and each spoonful is cold, tangy, and quietly addictive in the way only a properly marinated salad can be.*
+*American picnic-table classic: glossy kidney beans, creamy cannellini and snappy green beans tumbled in a bright sweet-sour vinaigrette laced with sharp red onion.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Three-bean salad is one of those quietly enduring American classics that has been served at potlucks, church suppers, and Memorial Day cookouts since at least the 1950s. It rose to ubiquity through community cookbooks and the back of tinned-bean labels, and it has held on because it ticks every potluck virtue: it travels well, gets better as it sits, costs almost nothing, and feeds a crowd without fuss. The flavour is built on contrast. Soft, starchy beans soak up an assertive sweet-sour vinaigrette of cider vinegar, sugar, and oil, while crunchy green beans and the pungent bite of red onion keep the texture lively. There is a sweetness to it that can surprise first-timers, but that gentle candy-vinegar note is exactly the point. It is what defines this salad and what makes it sing alongside grilled meats, fried chicken, hot dogs, and barbecue. Difficulty is minimal, which is part of its old-fashioned charm. The only rules are to use good tinned pulses, rinse them thoroughly, and give the salad plenty of time in the fridge so the beans drink in the dressing. Made the day before, it transforms from a tidy mix of beans into something deeper and more harmonious, and it will keep happily for days, making it one of the most cookout-friendly sides you can have ready in advance.
+Three-bean salad is one of those quietly enduring American classics that has been served at potlucks, church suppers and Memorial Day cookouts since at least the 1950s. It rose to ubiquity through community cookbooks and the back of tinned-bean labels and has held on because it ticks every potluck virtue: it travels well, gets better as it sits, costs almost nothing and feeds a crowd without fuss. The flavour is built on contrast: soft starchy beans soaking up an assertive sweet-sour vinaigrette of cider vinegar, sugar and oil, while crunchy green beans and the pungent bite of red onion keep the texture lively. The sweetness can surprise first-timers, but that gentle candy-vinegar note is the point: it's what defines the salad and makes it sing alongside grilled meats, fried chicken, hot dogs and barbecue. Use good tinned pulses, rinsed thoroughly, and give the salad plenty of time in the fridge so the beans drink in the dressing: made the day before, it transforms from a tidy mix of beans into something deeper and more harmonious, and it keeps for days.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Timpana is Malta's most elaborate and most special-occasion pasta dish - a baked pasta pie that takes its name from "timpano" (the Italian "timpanum" - a drum-shaped baked pasta dish). The Maltese version is closer to a pie than a casserole: macaroni pasta is tossed with a slow-cooked Bolognese-style meat sauce (beef, pork, onion, garlic, tomato, red wine), chopped hard-boiled egg, peas, and grated cheese, then sealed inside a layer of puff pastry (the canonical Maltese version uses bought puff for ease - though some Maltese bakers make their own shortcrust). Baked at high heat till the pastry is deeply golden and the filling is hot. Sliced into thick wedges and served with a salad. Three details: MEAT SAUCE COOKED LONG (90 minutes minimum), CHOPPED HARD-BOILED EGGS in the mix (Maltese signature), and PUFF PASTRY ENCASING (the dramatic presentation).
+Timpana is Malta's most elaborate and most special-occasion pasta dish - a baked pasta pie that takes its name from "timpano" (the Italian "timpanum" - a drum-shaped baked pasta dish). The Maltese version is closer to a pie than a casserole: macaroni pasta is tossed with a slow-cooked Bolognese-style meat sauce (beef, pork, onion, garlic, tomato, red wine), chopped hard-boiled egg, peas, and grated cheese, then sealed inside a layer of puff pastry (the canonical Maltese version uses bought puff for ease - though some Maltese bakers make their own shortcrust). Baked at high heat till the pastry is deeply golden and the filling is hot. Sliced into thick wedges and served with a salad.
 
 ## Ingredients
 

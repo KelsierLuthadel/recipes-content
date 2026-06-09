@@ -11,7 +11,7 @@
 **Cook Time:** 2.5 hours
 
 ## Overview
-Louisiana red beans and rice is the canonical Monday dish in New Orleans: dried red kidney beans soaked overnight, slow-cooked with a smoked ham hock (or smoked sausage; or both) for the pork backbone, the trinity (onion, celery, green pepper), garlic, bay leaves, thyme, Cajun spices, hot sauce, and water for 2.5 hours till the beans are tender and the broth has thickened to creamy. Served over fluffy white rice. The dish has Monday associations because Monday was traditional laundry day in New Orleans, and beans could slow-cook unattended while the cook ran the washing. Three details: smoked pork is essential (ham hock or smoked sausage), slow-cook till creamy, served over rice.
+Louisiana red beans and rice is the canonical Monday dish in New Orleans: dried red kidney beans soaked overnight, slow-cooked with a smoked ham hock (or smoked sausage; or both) for the pork backbone, the trinity (onion, celery, green pepper), garlic, bay leaves, thyme, Cajun spices, hot sauce, and water for 2.5 hours till the beans are tender and the broth has thickened to creamy. Served over fluffy white rice. The dish has Monday associations because Monday was traditional laundry day in New Orleans, and beans could slow-cook unattended while the cook ran the washing.
 
 ## Ingredients
 

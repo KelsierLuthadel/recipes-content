@@ -2,7 +2,7 @@
 
 ![Single Malt Scotch Whisky Tasting](resources/single-malt-scotch-tasting.jpg)
 
-*Scotland's national spirit: single-malt Scotch whisky tasted slowly with a small jug of cool spring water alongside, in a Glencairn glass, at room temperature. The five Scotch whisky regions (Highland, Lowland, Speyside, Islay, Campbeltown) each produce malts with distinct characters. The tasting ritual is a proper Scottish hosting tradition; the canonical end to any serious Scottish dinner.*
+*Scotland's national spirit: single-malt Scotch tasted slowly in a Glencairn glass with a small jug of cool spring water alongside: the canonical end to any serious Scottish dinner.*
 
 **Serves:** 4-6 (a 3-whisky flight)
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Single-malt Scotch whisky is Scotland's most famous and most valuable export - a spirit with a £6 billion+ annual export market and over 130 active distilleries across the country. The tasting ritual is a Scottish hosting tradition that elevates the spirit from "after-dinner drink" to "experience": three different malts from three different regions are poured into three Glencairn glasses (the tulip-shaped tasting glass designed in Scotland specifically for whisky), served at room temperature, with a small jug of cool spring water alongside (a few drops of water "opens" the whisky, releasing additional aromatic compounds). The tasting proceeds slowly: the host explains each whisky's region, age, and character; guests examine the colour, swirl, inhale, taste neat, add a drop of water, taste again. The five Scotch regions give five distinct characters: Highland (varied; often heather-honey-sweet and slightly smoky), Lowland (gentle; floral, citrus, lighter); Speyside (Scotland's whisky heartland; honey, apple, dried fruit); Islay (heavily peated; iodine, smoke, brine - the most distinctive); Campbeltown (briny, smoky, slightly oily). A canonical Scottish tasting flight includes one Speyside (the entry point), one Highland (the middle), and one Islay (the climax). Three details: ROOM TEMPERATURE (never chill or add ice), GLENCAIRN GLASS (or any small tulip-shaped glass; the curved bowl concentrates the aromas), and A FEW DROPS OF WATER (cool spring water, not tap if possible; opens the whisky beautifully).
+Single-malt Scotch whisky is Scotland's most famous and most valuable export: a spirit with a £6 billion+ annual export market and over 130 active distilleries across the country. The tasting ritual is a Scottish hosting tradition that elevates the spirit from "after-dinner drink" to experience: three different malts from three different regions, poured into three Glencairn glasses (the tulip-shaped tasting glass designed in Scotland specifically for whisky), served at room temperature, with a small jug of cool spring water alongside (a few drops of water "opens" the whisky, releasing additional aromatic compounds). The five Scotch regions give five distinct characters: Highland (varied; often heather-honey-sweet and slightly smoky), Lowland (gentle, floral, citrus, lighter), Speyside (Scotland's whisky heartland; honey, apple, dried fruit), Islay (heavily peated; iodine, smoke, brine: the most distinctive), and Campbeltown (briny, smoky, slightly oily). A canonical Scottish tasting flight is one Speyside (the entry point), one Highland (the middle) and one Islay (the climax). The host explains each whisky's region, age and character; guests swirl, inhale, taste neat, add a drop of water, taste again.
 
 ## Ingredients
 

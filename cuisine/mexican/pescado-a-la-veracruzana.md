@@ -2,7 +2,7 @@
 
 ![Pescado a la Veracruzana](resources/pescado-a-la-veracruzana.jpg)
 
-*Mexico's Gulf-coast tomato-fish: white fish fillets (red snapper, sea bass) baked in a sauce of tomato, onion, garlic, olives, capers, jalapeños, oregano and bay leaves. The Veracruz-coast classic that combines Spanish-Mediterranean techniques with Mexican ingredients, served over white rice with lime wedges.*
+*Mexico's Gulf-coast tomato-fish: white fish fillets baked in a sauce of tomato, onion, olives, capers, pickled jalapeños and oregano, served over white rice with lime wedges.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Pescado a la Veracruzana (literally "Veracruz-style fish") is one of Mexico's most beloved seafood dishes and a Gulf-coast classic that bridges Spanish-Mediterranean cooking techniques (the olive-caper-tomato sauce closely resembles Spanish/Mediterranean traditions) with Mexican ingredients (jalapeños, oregano-leaning seasoning, and Mexican corn-oil cooking): thick fillets of white fish (the canonical Veracruz choice is red snapper / huachinango; or sea bass, grouper, or any firm white fish) are baked in a fragrant sauce of sliced onions, crushed garlic, tomato (fresh and paste), green olives, capers, sliced pickled jalapeños, bay leaves, dried oregano and a splash of white wine, till the fish is just cooked through and the sauce has reduced into a rich orange-red coating. Served over plain white rice with lime wedges, sliced avocado and warm corn tortillas (or warm bread). The dish is what every Veracruz coastal restaurant serves, what every Mexican family makes for special weekend lunches, and what every visitor to the Mexican Gulf coast tries. Three details define proper Veracruzana. First, the canonical olive-caper-jalapeño triad. The brininess of olives and capers, the sweet heat of pickled jalapeños - these define the Veracruz flavour. Second, the technique is fish baked in sauce. Not pan-seared then sauced; properly poached/baked in the simmering sauce. Third, served immediately. The fish overcooks if it sits in hot sauce too long after coming off the heat.
+Pescado a la Veracruzana (literally "Veracruz-style fish") is one of Mexico's most beloved seafood dishes and a Gulf-coast classic that bridges Spanish-Mediterranean techniques with Mexican ingredients: the olive-caper-tomato sauce sits squarely in the Mediterranean tradition, but pickled jalapeños, Mexican oregano and corn-oil cooking pull the dish firmly back to Veracruz. Thick fillets of white fish (red snapper / huachinango is canonical; sea bass, grouper or any firm white fish work) bake straight in a fragrant sauce of sliced onions, garlic, tomato, green olives, capers, sliced pickled jalapeños, bay leaves, oregano and a splash of white wine till the fish is just cooked through and the sauce has reduced into a rich orange-red coating. The olive-caper-jalapeño triad is the Veracruz signature: brine from olives and capers, sweet heat from pickled jalapeños. Eaten over plain white rice with lime wedges, sliced avocado and warm corn tortillas or bread.
 
 ## Ingredients
 

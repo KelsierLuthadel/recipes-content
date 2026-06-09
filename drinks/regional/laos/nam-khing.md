@@ -2,7 +2,7 @@
 
 ![Nam Khing](resources/nam-khing.jpg)
 
-*Laos's canonical winter warmer: thick slices of fresh ginger simmered slowly in water with palm sugar, a pinch of salt and a generous squeeze of lime, served hot in small ceramic cups. The slow simmer extracts the ginger's warming heat and slightly numbing tingle; the palm sugar balances; the lime brightens. Drunk by Lao home cooks throughout the cool months (November-February) as a digestive, anti-cold, and general-purpose comfort drink. Sold from market stalls in the early morning as a wake-up alternative to coffee.*
+*Laos's winter warmer: thick slices of fresh ginger simmered with palm sugar, a pinch of salt and a generous squeeze of lime, served hot in small ceramic cups.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Nam khing is one of Laos's simplest and most beloved drinks - a ginger infusion sweetened with palm sugar and brightened with lime. Three Lao-specific moves. First, the ginger: fresh ginger root, thickly sliced (not finely chopped or grated) - the thick slices give a slow steady infusion over the long simmer. The Lao kitchen uses ginger generously; a 40 g piece for 1 litre of water is the canonical proportion - this is a strong warming brew, not a delicate ginger water. Second, the palm sugar: palm sugar gives the canonical caramel-molasses depth that's slightly different from white-sugared ginger drinks. Third, the lime: a generous squeeze (about 1 tablespoon per litre) goes in at the END, off the heat - lime added during the simmer turns bitter from the heat. The salt pinch is the Lao kitchen secret (sharpens the ginger heat). Served hot in small ceramic cups. Three details: SLICE GINGER THICK NOT FINE (thick slices give a slow steady infusion), USE PALM SUGAR (the deep caramel notes; white sugar is acceptable but flat), and LIME GOES IN OFF THE HEAT (added during the simmer it goes bitter).
+Nam khing is one of Laos's simplest and most beloved drinks - a ginger infusion sweetened with palm sugar and brightened with lime. Three Lao-specific moves. First, the ginger: fresh ginger root, thickly sliced (not finely chopped or grated) - the thick slices give a slow steady infusion over the long simmer. The Lao kitchen uses ginger generously; a 40 g piece for 1 litre of water is the canonical proportion - this is a strong warming brew, not a delicate ginger water. Second, the palm sugar: palm sugar gives the canonical caramel-molasses depth that's slightly different from white-sugared ginger drinks. Third, the lime: a generous squeeze (about 1 tablespoon per litre) goes in at the END, off the heat - lime added during the simmer turns bitter from the heat. The salt pinch is the Lao kitchen secret (sharpens the ginger heat). Served hot in small ceramic cups.
 
 ## Ingredients
 

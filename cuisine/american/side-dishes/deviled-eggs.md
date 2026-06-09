@@ -2,7 +2,7 @@
 
 ![Deviled Eggs](resources/deviled-eggs.jpg)
 
-*Glossy halves of cold hard-boiled egg cradling a swirl of creamy, mustard-tangy yolk filling, dusted with a fine red haze of paprika. They smell faintly of vinegar and mayonnaise, taste rich and just a little sharp, and disappear from a platter faster than almost anything else at the table.*
+*America's party-table classic: cold hard-boiled egg halves cradling a creamy, mustard-tangy yolk filling, dusted with a fine red haze of paprika.*
 
 **Serves:** 6 (12 halves)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Deviled eggs are one of America's most enduring party foods, a fixture of Easter brunches, Thanksgiving tables, summer barbecues, and Sunday potlucks from coast to coast. The dish itself is much older than its American identity. Stuffed eggs flavoured with mustard, vinegar, and spices appear in Roman writings and remained popular across medieval Europe, but the term "deviled", meaning seasoned hot and spicy, took hold in eighteenth-century England and crossed the Atlantic with Anglo settlers. By the twentieth century, the American version had crystallised into the formula we recognise today: hard-boiled eggs split lengthwise, yolks scooped out and whipped smooth with mayonnaise, mustard, and a splash of vinegar, then piped or spooned back into the whites and finished with a dusting of paprika. The taste is luxurious in its simplicity. Creamy and rich, with a gentle tang and just enough mustard heat to justify the name, set against the cool, slightly springy bite of the white. Difficulty is genuinely low, but two details lift them from good to memorable: cooking the eggs just enough so the yolks are fully set but never grey-ringed, and seasoning the filling assertively, since cold dulls flavour. They are best made the day they will be eaten, although the eggs themselves can be boiled and peeled a day ahead.
+Deviled eggs are one of America's most enduring party foods: a fixture of Easter brunches, Thanksgiving tables, summer barbecues and Sunday potlucks from coast to coast. The dish itself is much older than its American identity: stuffed eggs flavoured with mustard, vinegar and spices appear in Roman writings and remained popular across medieval Europe, but the term "deviled" (seasoned hot and spicy) took hold in eighteenth-century England and crossed the Atlantic with Anglo settlers. The modern American formula crystallised in the twentieth century: hard-boiled eggs split lengthwise, yolks whipped smooth with mayonnaise, mustard and a splash of vinegar, piped back into the whites and dusted with paprika. The taste is luxurious in its simplicity: creamy and rich, with a gentle tang and just enough mustard heat to justify the name, set against the cool, slightly springy bite of the white. Two details lift them from good to memorable: cooking the eggs just enough so the yolks are fully set but never grey-ringed, and seasoning the filling assertively since cold dulls flavour.
 
 ## Ingredients
 

@@ -19,8 +19,7 @@ tags:
   - butter
   - curry
   - complex
-mentions:
-  - tutorials/pizza/dough
+mentions: []
 ingredients:
   - qty: 500
     unit: g

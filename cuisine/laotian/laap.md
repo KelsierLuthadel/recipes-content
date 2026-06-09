@@ -2,7 +2,7 @@
 
 ![Laap](resources/laap.jpg)
 
-*Laos's national dish: finely minced meat (beef, chicken, pork, duck or freshwater fish) tossed with toasted ground rice (khao khua, the canonical Lao thickener and binder), fresh mint, cilantro, sliced spring onion, sliced shallot, a generous hand of lime juice, fish sauce, dried chilli flakes and crushed lemongrass. Served at room temperature with a basket of sticky rice and a plate of raw vegetables (cabbage, long beans, cucumber) for scooping. The plate that defines a Lao meal.*
+*Laos's national dish: finely minced meat tossed with toasted rice powder, fresh mint, cilantro, shallot, lime juice, fish sauce and dried chilli, eaten at room temperature with sticky rice.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Laap (also spelled larb in English) is the most identity-defining Lao dish. The construction has three Lao-specific moves. First, the toasted rice powder (khao khua): raw sticky rice grains dry-toasted in a pan over medium heat till deep golden and nutty, then ground to a coarse powder in a mortar or spice grinder. This powder is sprinkled generously over the finished laap as both a thickener and a textural element - the canonical Lao addition that distinguishes it from a generic minced-meat salad. Second, the minced meat: traditionally beef or buffalo (the rural Lao staple) cooked briefly in a dry pan with a splash of water till just cooked through (NOT browned hard - this is a gentle cook to keep the meat tender). Modern home versions use chicken or pork. Third, the cold-dressing: the cooked meat (still warm) is tossed in a wide bowl with fish sauce, fresh lime juice, dried chilli flakes, sliced shallot, sliced spring onion, fresh mint and cilantro, and a generous spoonful of the toasted rice powder. Served at room temperature with sticky rice. Three details: TOAST THE RICE POWDER FRESH (it loses potency within 48 hours; make per-batch), COOK THE MEAT GENTLY (just-cooked-through; not browned), and HAND-CHOP THE MEAT (a coarse hand-chop gives better texture than pre-minced; medium-grind mince is the substitute).
+Laap (also spelled larb in English) is the most identity-defining Lao dish, eaten at every meal across the country with sticky rice and a plate of raw vegetables for scooping. The toasted rice powder (khao khua) is the canonical Lao signature that sets it apart from generic minced-meat salads: raw sticky rice grains dry-toasted till deep golden and nutty, then ground coarse, sprinkled generously over the finished dish as both thickener and textural element. The meat cooks gently in a dry pan with a splash of water just till opaque, never browned hard, to keep it tender. Traditionally beef or buffalo (the rural Lao staple); modern home versions use chicken, pork or duck. While still warm the meat tosses in a wide bowl with fish sauce, fresh lime juice, dried chilli flakes, sliced shallot, spring onion, fresh mint and cilantro, and that generous spoonful of toasted rice powder. Served at room temperature, scooped by hand with sticky rice and raw cabbage, long beans or cucumber.
 
 ## Ingredients
 

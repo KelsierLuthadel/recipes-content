@@ -2,7 +2,7 @@
 
 ![Coney Island Hot Dog](resources/coney-island-hot-dog.jpg)
 
-*The Midwestern-Greek-American chili dog: a small natural-casing frankfurter in a steamed bun, topped with a finely-textured beef "Coney sauce" (a smooth chili-sauce-not-quite-chili made with ground beef, beef heart, tomato, cumin, cinnamon and chilli powder), a stripe of yellow mustard, a heap of finely chopped white onion. The Detroit, Flint and Cincinnati institution - confusingly named after Coney Island, NY, but actually a Michigan dish.*
+*The Midwestern-Greek chili dog: a natural-casing frankfurter on a steamed bun topped with smooth beef Coney sauce, yellow mustard and a heap of finely chopped white onion.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes (for the sauce)
 
 ## Overview
-The Coney Island hot dog is one of America's most regionally proud and naming-confused dishes: despite the name, it's not from Coney Island, New York. It was created by Greek and Macedonian immigrants in Detroit and Flint, Michigan, around 1917, who arrived in America via Ellis Island (right next to Coney Island, hence the name) and opened diners serving their take on the American hot dog with a finely-textured, slightly sweet-spiced chili-style meat sauce that's distinct from Texas chili or Cincinnati chili. The sauce ("Coney sauce" or "Coney chili") is made from ground beef simmered with beef heart (the classic version; modern versions skip), tomato paste, cumin, cinnamon, allspice, paprika, garlic, onion powder, mild chilli powder, vinegar and beef stock, cooked till very thick and finely-textured (smoothly grindy, not chunky). Spooned generously over a small natural-casing all-beef frankfurter in a steamed bun, finished with a stripe of yellow mustard and a heap of finely chopped raw white onion. The Detroit "American Coney" / "Lafayette Coney" rivalry has been running on Lafayette Boulevard since 1917. Three details: finely-textured sauce (not chunky chili), small short dog (not a footlong), chopped raw onion on top.
+The Coney Island hot dog is one of America's most regionally proud and naming-confused dishes: despite the name, it's not from Coney Island, New York. It was created by Greek and Macedonian immigrants in Detroit and Flint, Michigan, around 1917, who arrived in America via Ellis Island (right next to Coney Island, hence the name) and opened diners serving their take on the American hot dog with a finely-textured, slightly sweet-spiced chili-style meat sauce that's distinct from Texas chili or Cincinnati chili. The sauce ("Coney sauce" or "Coney chili") is made from ground beef simmered with beef heart (the classic version; modern versions skip), tomato paste, cumin, cinnamon, allspice, paprika, garlic, onion powder, mild chilli powder, vinegar and beef stock, cooked till very thick and finely-textured (smoothly grindy, not chunky). Spooned generously over a small natural-casing all-beef frankfurter in a steamed bun, finished with a stripe of yellow mustard and a heap of finely chopped raw white onion. The Detroit "American Coney" / "Lafayette Coney" rivalry has been running on Lafayette Boulevard since 1917.
 
 ## Ingredients
 

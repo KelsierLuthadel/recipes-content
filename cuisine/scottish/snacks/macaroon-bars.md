@@ -2,7 +2,7 @@
 
 ![Macaroon Bars](resources/macaroon-bars.jpg)
 
-*Scotland's deeply weird and deeply beloved bake-sale confection: a no-bake fondant made (canonically) with mashed boiled potato and icing sugar, coated in dark chocolate and rolled in toasted desiccated coconut. The Scottish macaroon - unrelated to French macarons; closer to a coconut-coated chocolate fondant; the bake-sale curiosity that has confounded English visitors for a century.*
+*Scotland's deeply weird and deeply beloved bake-sale confection: a no-bake fondant made with mashed boiled potato and icing sugar, coated in dark chocolate and rolled in toasted desiccated coconut.*
 
 **Serves:** Makes 20-24 bars
 
@@ -11,7 +11,7 @@
 **Cook Time:** None (no-bake)
 
 ## Overview
-The Scottish macaroon bar is one of the country's strangest and most beloved confections: a sweet fondant made - bizarrely but canonically - with mashed boiled potato as the moisture-and-bulk ingredient, combined with icing sugar to a thick paste, formed into bars, coated in melted dark chocolate, and rolled in toasted desiccated coconut. The story is that the recipe was invented by accident in 1930 by John Justice Lees Sr., a Coatbridge confectioner, who was trying to make fondant and grabbed the wrong tin (potato instead of starch). The result was such a success that Lees Confectionery built a business around it (Lees of Scotland still produces commercial macaroons today, sold across Scotland and exported). The flavour is surprising: the potato is undetectable (just provides moisture and a slight chewiness), the icing sugar dominates with a sweet smoothness, the dark chocolate balances, and the toasted coconut gives a nutty crunch. The technique is no-bake and forgiving - boil and mash a small potato, mix with mountains of icing sugar to a stiff fondant, form into bars, coat in melted chocolate, roll in toasted coconut. Set in the fridge. Slice into bars. Three details: PLAIN BOILED POTATO (no salt, no butter, no milk; just plain boiled and mashed), DARK CHOCOLATE coating (milk chocolate is too sweet; dark gives balance), and TOASTED DESICCATED COCONUT (untoasted is bland; toasted is canonical).
+The Scottish macaroon bar is one of the country's strangest and most beloved confections: a sweet fondant made (bizarrely but canonically) with mashed boiled potato as the bulk ingredient, combined with icing sugar to a thick paste, formed into bars, coated in melted dark chocolate and rolled in toasted desiccated coconut. The story is the recipe was invented by accident in 1930 by John Justice Lees Sr., a Coatbridge confectioner who was trying to make fondant and grabbed the wrong tin (potato instead of starch). The result was such a success that Lees Confectionery built a business around it, and Lees of Scotland still produces commercial macaroons today. The flavour is the surprise: the potato is completely undetectable (it just provides moisture and a slight chewiness); the icing sugar dominates with a sweet smoothness; the dark chocolate balances; the toasted coconut gives a nutty crunch. Unrelated to French macarons, despite the name.
 
 ## Ingredients
 

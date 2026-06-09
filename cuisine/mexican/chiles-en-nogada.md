@@ -2,7 +2,7 @@
 
 ![Chiles en Nogada](resources/chiles-en-nogada.jpg)
 
-*Mexico's patriotic stuffed chillies: poblano peppers stuffed with a fragrant pork-and-fruit picadillo (sweet apples, pears, peaches, dried fruits, almonds and spices), topped with a creamy walnut sauce (nogada) and a garnish of bright red pomegranate seeds and fresh parsley. The Mexican Independence-Day dish in the green-white-red of the Mexican flag, served at room temperature.*
+*Mexico's patriotic stuffed chillies: poblano peppers stuffed with a pork-and-fruit picadillo, topped with a creamy walnut sauce and a garnish of pomegranate seeds. The Independence-Day dish in the green-white-red of the Mexican flag.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Chiles en nogada is Mexico's most iconic patriotic dish and the canonical Independence-Day food (15-16 September): roasted-and-peeled poblano peppers stuffed with a fragrant pork-and-fruit picadillo (ground pork cooked with onion, garlic, tomato, raisins, almonds, candied citron, fresh apple, pear and peach, plus warm Mexican spices - cinnamon, cloves, allspice), topped with a creamy walnut sauce (nogada - made from blanched walnuts blended with cream, milk, sugar, sherry and a touch of cinnamon), and finished with a garnish of bright red pomegranate seeds, fresh parsley sprigs and sometimes a sprinkle of pine nuts. The dish is presented in the colours of the Mexican flag (green poblano, white sauce, red pomegranate); served at room temperature (not hot), as both a starter and a main course. The dish was supposedly created by Augustinian nuns in Puebla to honour the visit of Agustín de Iturbide (Mexico's first emperor) in 1821, using the colours of the new flag; the legend gives the dish its romantic patriotic resonance. Three details define proper chiles en nogada. First, peak summer-autumn ingredients. Mexican apples (manzanas panocheras), peaches (durazno criollo), pears, pomegranates - all in season together August-October - give the dish its seasonal Mexican character. Substitute with the best available fruit outside Mexico. Second, the nogada walnut sauce. Fresh new-crop walnuts (called "nueces de castilla" in Mexico; available August-September) are canonical; outside Mexico, use shelled walnuts, ideally fresh. The sauce should be creamy white. Third, served at room temperature. Not hot. The cold sauce against the room-temperature stuffed chilli is the canonical experience.
+Chiles en nogada is Mexico's most iconic patriotic dish and the canonical Independence-Day food (15-16 September). Roasted-and-peeled poblano peppers are stuffed with a fragrant pork-and-fruit picadillo: ground pork cooked with onion, garlic, tomato, raisins, almonds, candied citron, fresh apple, pear and peach, with cinnamon, cloves and allspice giving the warm Mexican spice line: then topped with nogada, a creamy walnut sauce of blanched walnuts blended with cream, milk, sugar, sherry and a touch of cinnamon. Pomegranate seeds and parsley sprigs finish the green-white-red of the flag. The dish was supposedly created by Augustinian nuns in Puebla in 1821 to honour the visit of Mexico's first emperor Agustín de Iturbide, using the colours of the new flag. The seasonal pairing matters: Mexican apples, peaches, pears and pomegranates all hit their peak together August-October. Served at room temperature, the cold sauce against the room-temperature stuffed chilli is the canonical experience.
 
 ## Ingredients
 

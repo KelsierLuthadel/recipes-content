@@ -2,7 +2,7 @@
 
 ![Açaí Bowl Drink](resources/acai-bowl-drink.jpg)
 
-*Brazil's purple smoothie superstar: frozen açaí pulp (from the Amazon-rainforest palm berry) blended with banana and a touch of guaraná syrup into a thick, slushy, dark-purple cream, topped with granola, sliced banana, strawberries, and sometimes condensed milk. The Brazilian beach-and-gym fuel; one of the country's most successfully exported foods of the 2010s.*
+*Brazil's purple smoothie bowl: frozen Amazonian açaí pulp blended with banana into a thick slushy purple cream, topped with granola, banana, strawberries and condensed milk.*
 
 **Serves:** 2 large bowls
 
@@ -11,7 +11,7 @@
 **Cook Time:** None (blender-only)
 
 ## Overview
-The açaí bowl is Brazil's most successfully exported food of the 2010s. Açaí (pronounced "ah-sigh-EE") is a small dark-purple berry that grows on the açaí palm tree (Euterpe oleracea), native to the Amazon basin - particularly the state of Pará in northern Brazil where the açaí berry has been a staple of indigenous diets for centuries. The berries are harvested, pulped (the centre seed is too hard to eat), and the pulp is frozen for distribution; commercial açaí is sold worldwide as frozen pulp packets (typically 100g packs, sometimes flavoured with guaraná syrup) and as freeze-dried açaí powder. The bowl construction: frozen açaí pulp is blended with banana and a small amount of liquid (water, milk, or coconut water) into a thick, slushy, semi-frozen purple cream the consistency of soft-serve ice cream. The bowl is poured into a chilled bowl and topped GENEROUSLY with: granola or muesli, sliced banana, sliced strawberries, drizzled honey or condensed milk (the canonical Brazilian sweetener), shredded coconut, sometimes chia seeds, sometimes a sliced kiwi. Açaí bowls are the canonical Brazilian beach food (sold from kiosks all along Rio de Janeiro's beaches), the canonical post-workout snack at Brazilian gyms, and the canonical breakfast at every "fitness-Brazilian" cafe in São Paulo and Rio. Three details: FROZEN AÇAÍ PULP (the texture is the dish; never use room-temperature açaí), VERY THICK BLEND (use minimal liquid; you want soft-serve consistency, not a smoothie), and TOP GENEROUSLY (the toppings are half the dish; don't skimp).
+The açaí bowl is Brazil's most successfully exported food of the 2010s, and the canonical beach food of Rio de Janeiro, post-workout snack at Brazilian gyms and breakfast at every fitness-Brazilian café in São Paulo. Açaí (pronounced "ah-sigh-EE") is a small dark-purple berry from the açaí palm tree (Euterpe oleracea), native to the Amazon basin: particularly the state of Pará in northern Brazil where it's been a staple of indigenous diets for centuries. The berries are pulped and the pulp frozen for distribution; commercial açaí sells worldwide as frozen pulp packets (typically 100 g, sometimes flavoured with guaraná syrup) or freeze-dried powder. Blended with banana and a splash of liquid (water, milk or coconut water) into a thick semi-frozen purple cream the consistency of soft-serve. Poured into a chilled bowl and topped generously with granola, sliced banana, strawberries, honey or condensed milk (the canonical Brazilian sweetener), shredded coconut and sometimes chia seeds or kiwi.
 
 ## Ingredients
 

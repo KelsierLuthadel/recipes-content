@@ -19,7 +19,8 @@ tags:
   - nuts
   - chili
   - curry
-mentions: []
+mentions:
+  - cuisine/thai/spice-mixes/thai-curry-powder
 ingredients:
   - qty: 175
     unit: g

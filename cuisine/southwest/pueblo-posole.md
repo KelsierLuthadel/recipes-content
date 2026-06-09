@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Posole (or "pozole") in the Pueblo-Southwest tradition is the canonical winter stew of New Mexican Pueblo peoples and a Christmas Eve / feast-day staple across the Southwest: hominy (large-kernel corn treated with lime; either dried-and-soaked-and-cooked, or canned for convenience) slow-simmered with cubed pork shoulder, sliced onion, crushed garlic, rehydrated dried red chillies (ancho, guajillo, New Mexico chile), bay leaves and Mexican oregano till the pork falls apart and the broth thickens slightly. Served in deep bowls with the canonical Southwest accompaniments: shredded cabbage, sliced radish, chopped onion, lime wedges, dried oregano and tortillas. Three details: hominy is the corn (large-kernel; chewy; nutty), red chille paste is the colour and flavour, garnishes at the table are not optional.
+Posole (or "pozole") in the Pueblo-Southwest tradition is the canonical winter stew of New Mexican Pueblo peoples and a Christmas Eve / feast-day staple across the Southwest: hominy (large-kernel corn treated with lime; either dried-and-soaked-and-cooked, or canned for convenience) slow-simmered with cubed pork shoulder, sliced onion, crushed garlic, rehydrated dried red chillies (ancho, guajillo, New Mexico chile), bay leaves and Mexican oregano till the pork falls apart and the broth thickens slightly. Served in deep bowls with the canonical Southwest accompaniments: shredded cabbage, sliced radish, chopped onion, lime wedges, dried oregano and tortillas.
 
 ## Ingredients
 

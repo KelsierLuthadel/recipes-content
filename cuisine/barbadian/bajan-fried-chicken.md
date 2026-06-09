@@ -2,7 +2,7 @@
 
 ![Bajan Fried Chicken](resources/bajan-fried-chicken.jpg)
 
-*Barbados's beloved alternative to American fried chicken: bone-in chicken pieces marinated overnight in a generous bath of Bajan green seasoning + lime + mustard + Scotch bonnet + paprika + soy, dredged in a seasoned flour-and-cornstarch coat, deep-fried till deep golden and crisp. The marinade is what makes it Bajan rather than southern American: brighter, herbier, more aromatic from the green seasoning. Sold from rum-shops and roadside stalls; piled at every Bajan beach picnic and Saturday-afternoon family meal. Eaten with Bajan pepper sauce, a wedge of lime, and a cold Banks lager.*
+*Barbados's fried chicken: bone-in pieces marinated overnight in Bajan green seasoning, lime, mustard and Scotch bonnet, dredged in seasoned flour-and-cornstarch, deep-fried till golden and crisp.*
 
 **Serves:** 6 (about 8 pieces)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Bajan fried chicken is the Caribbean answer to southern American fried chicken. Three things make it identity-specifically Bajan. First, the marinade: bone-in chicken pieces marinated overnight in a paste of Bajan green seasoning + fresh lime juice + prepared yellow mustard + Bajan pepper sauce + soy sauce + Scotch bonnet + paprika + salt + black pepper. The overnight rest is essential - the green seasoning permeates the chicken right to the bone, ensuring every bite is flavoured. American fried chicken uses a buttermilk-and-spice marinade; Bajan uses the green herbal paste. Second, the dredge: a blend of plain flour + cornstarch (50/50) + paprika + dry mustard powder + garlic powder + onion powder + salt + black pepper. The cornstarch is the secret to extra-crisp fried chicken - it gives a lighter, shatteringly crisp crust compared to flour alone. Third, the double-dredge: the marinated chicken is dipped in the dredge, then in a quick beaten-egg-and-buttermilk slurry, then back into the dredge - the double coat is what gives the canonical extra-thick, extra-crisp Bajan crust. Deep-fried at 175°C for 12-15 minutes till deep golden and cooked through (165°C / 75°C internal). Served with a wedge of lime, Bajan pepper sauce on the side, and the canonical Bajan accompaniments - macaroni pie, rice and peas, fried plantain. Three details: OVERNIGHT MARINATE (the green-seasoning paste permeates the chicken; minimum 4 hours but overnight is dramatically better), DOUBLE-DREDGE (marinade > dredge > egg-buttermilk slurry > dredge again; this is the canonical extra-crisp Bajan coat), and 175°C OIL (lower and the crust soaks fat; higher and the outside burns before the inside cooks).
+Bajan fried chicken is the Caribbean answer to southern American fried chicken, distinguished by the marinade and the crust. Where American versions use a buttermilk-and-spice soak, Bajan uses an aromatic green-seasoning paste of fresh herbs, lime, mustard, Bajan pepper sauce, Scotch bonnet, soy and paprika, worked into bone-in chicken pieces overnight so the flavour reaches the bone. The dredge is a 50/50 blend of plain flour and cornstarch with paprika, dry mustard, garlic and onion powders; the cornstarch is the secret to a lighter, shatteringly crisp crust. The double-dredge is the other Bajan move: dredge, dip in egg-and-buttermilk slurry, back into the dredge, which gives the canonical extra-thick crust. Deep-fried at 175 °C till deep golden and cooked through. Eaten with Bajan pepper sauce, a wedge of lime, macaroni pie or rice and peas, and a cold Banks lager.
 
 ## Ingredients
 

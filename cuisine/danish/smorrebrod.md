@@ -20,7 +20,7 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 - **Roastbeef** (roast beef): sliced cold roast beef + remoulade + crispy fried onion + horseradish + cress
 - **Skinke og italiensk salat** (ham and Italian salad): cold ham + a cubed-vegetable-and-mayo salad
 
-Smørrebrød is eaten with a knife and fork, never picked up. Accompanied by a small glass of cold pilsner and a shot of akvavit (the snaps ritual - see [Aalborg Akvavit recipe](../../drinks/regional/denmark/aalborg-akvavit.md)). Three details: dense Danish rugbrød (NOT lighter American or English rye - must be the dense Danish sourdough version), generous butter under everything, fork-and-knife (never handheld).
+Smørrebrød is eaten with a knife and fork, never picked up. Accompanied by a small glass of cold pilsner and a shot of akvavit (the snaps ritual - see [Aalborg Akvavit recipe](../../drinks/regional/denmark/aalborg-akvavit.md)).
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Machaca con Huevo](resources/machaca-con-huevo.jpg)
 
-*Northern Mexico's dried-beef-and-egg breakfast hash: shredded dried beef (machaca) sautéed with onion, jalapeño, tomato and scrambled eggs into a savoury breakfast hash, served with warm flour tortillas, refried beans and pico de gallo. The Sonoran and Chihuahua breakfast standard, the Northern Mexican counterpart to chilaquiles.*
+*Northern Mexico's dried-beef-and-egg breakfast hash: shredded machaca sautéed with onion, jalapeño and tomato, then scrambled together with eggs and served with warm flour tortillas.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Machaca con huevo is Northern Mexico's iconic breakfast hash and a signature dish of the Sonora-Chihuahua region: shredded dried beef (machaca; the Mexican cured-and-dried beef similar to South American charqui but with a slightly different process - soaked in lime, dried, then shredded) sautéed in oil with chopped onion, fresh jalapeño, diced tomato and a touch of cumin, then scrambled eggs are added at the end and cooked together till the eggs are just set but still slightly creamy. Served immediately with warm flour tortillas (the Northern Mexican preference is flour, not corn, due to the wheat-growing region), refried beans, pico de gallo and sliced avocado. The dish is the canonical Northern Mexican breakfast; rooted in the cattle-ranching tradition of the region where preserved meats (machaca) were essential before refrigeration. Three details define proper machaca con huevo. First, real machaca (or substitute with quality beef jerky shredded). Commercial American beef jerky is too sweet; look for "machaca" specifically at Mexican markets, or use Western/traditional jerky shredded. Second, scramble the eggs into the meat. Eggs go in last; cooked together with the hot beef-vegetable mixture till just set. Don't pre-scramble the eggs separately. Third, flour tortillas. The Northern Mexican preference; corn tortillas are wrong for this dish.
+Machaca con huevo is Northern Mexico's iconic breakfast hash and a signature dish of the Sonora-Chihuahua region, rooted in the cattle-ranching tradition where preserved meats were essential before refrigeration. Machaca itself is Mexican cured-and-dried beef: soaked in lime, dried, then shredded; close to South American charqui but with a slightly different process. It sautés in oil with onion, jalapeño, diced tomato and a touch of cumin, then beaten eggs go in at the end and scramble together with the hot beef and vegetables till just set but still slightly creamy. Don't pre-scramble the eggs separately: the trick is cooking them into the meat. Eaten immediately with warm flour tortillas (the Northern Mexican preference; the wheat-growing region uses flour, not corn), refried beans, pico de gallo and sliced avocado. Outside Mexico, quality beef jerky shredded is the workable substitute, but commercial American jerky is too sweet: look for "machaca" specifically at Mexican markets.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-The Reuben sandwich is a New York Jewish-deli classic, allegedly invented in 1925 by Reuben Kulakofsky (a Lithuanian-Jewish grocer in Omaha, though most NY delis claim invention by Arnold Reuben Sr.): thick slices of warm corned beef (or pastrami) piled with shredded sauerkraut, slices of Swiss cheese (or Emmenthaler), and Russian dressing (mayonnaise + ketchup + relish + horseradish), assembled on rye bread, grilled in butter on a flat-top griddle or in a pan till the bread is deeply golden-buttery and the cheese has melted into the meat and kraut. Served with a dill pickle on the side. Three details: drained sauerkraut (or it makes the sandwich soggy), Russian dressing (not Thousand Island), grill in butter.
+The Reuben sandwich is a New York Jewish-deli classic, allegedly invented in 1925 by Reuben Kulakofsky (a Lithuanian-Jewish grocer in Omaha, though most NY delis claim invention by Arnold Reuben Sr.): thick slices of warm corned beef (or pastrami) piled with shredded sauerkraut, slices of Swiss cheese (or Emmenthaler), and Russian dressing (mayonnaise + ketchup + relish + horseradish), assembled on rye bread, grilled in butter on a flat-top griddle or in a pan till the bread is deeply golden-buttery and the cheese has melted into the meat and kraut. Served with a dill pickle on the side.
 
 ## Ingredients
 

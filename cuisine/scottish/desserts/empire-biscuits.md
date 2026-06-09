@@ -2,7 +2,7 @@
 
 ![Empire Biscuits](resources/empire-biscuits.jpg)
 
-*Scotland's bakery-counter tea-time biscuit: two shortbread rounds sandwiched with raspberry jam, topped with white royal icing, and a glacé cherry plonked in the middle. Originally called "Linzer biscuits" or "Belgian biscuits", renamed during the Great War for patriotic reasons; the canonical Scottish bakery biscuit; the one every Scottish primary-school child got at break-time.*
+*Scotland's bakery-counter tea-time biscuit: two shortbread rounds sandwiched with raspberry jam, topped with white royal icing and a glacé cherry plonked in the middle.*
 
 **Serves:** Makes 12
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Empire biscuits (also known as "Empire creams" in some Scottish bakeries; renamed from "Linzer biscuits" or "Belgian biscuits" during World War One for patriotic reasons) are one of the most distinctively Scottish bakery items in the canon. Walk into any Scottish bakery from Lerwick to Dumfries and you'll see a row of empire biscuits in the front cabinet, alongside Eccles cakes, fly cemeteries, and butteries. The construction is simple: a basic shortbread dough is rolled, cut into 6 cm rounds, baked till pale-golden, allowed to cool completely, then assembled into sandwiches with raspberry jam between two biscuits, topped with white royal icing while the icing is wet, and finished with a single glacé cherry pressed into the centre. The icing sets to a hard sweet crust; the jam stays soft and red inside; the biscuit is short and buttery; the cherry is sugary-bright. The combination - sweet, soft, buttery, jammy, crunchy - is the perfect tea-time biscuit and the canonical Scottish primary-school treat. Three details: REAL shortbread dough (not sweet pastry), RASPBERRY jam (not strawberry; not bramble), and PROPER royal icing (egg-white-and-icing-sugar; not glaze).
+Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until being renamed for patriotic reasons during the Great War) are one of the most distinctively Scottish bakery items in the canon. Walk into any Scottish bakery from Lerwick to Dumfries and you'll see a row of them in the front cabinet alongside Eccles cakes, fly cemeteries and butteries. The construction is simple: pale-golden shortbread rounds sandwiched with raspberry jam, topped with white royal icing while the icing is still wet, and finished with a single glacé cherry pressed into the centre. The icing sets to a hard sweet crust, the jam stays soft and red inside, the biscuit is short and buttery, the cherry sugary-bright. Sweet, soft, buttery, jammy and crunchy in every bite. The canonical Scottish primary-school treat and the one every Scottish child remembers from break-time.
 
 ## Ingredients
 

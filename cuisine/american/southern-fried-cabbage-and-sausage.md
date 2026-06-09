@@ -2,7 +2,7 @@
 
 ![Southern Fried Cabbage and Sausage](resources/southern-fried-cabbage-and-sausage.jpg)
 
-*A one-skillet Southern weeknight: andouille or kielbasa rounds brown in butter, then aromatics build, then cabbage joins in two stages with apple cider vinegar and a touch of brown sugar to balance. Cajun seasoning ties it together. Eats as a side or as a main over rice. Faster than feels possible.*
+*A one-skillet Southern weeknight: andouille or kielbasa browned in butter, then cabbage joins in two stages with apple cider vinegar, brown sugar and Cajun seasoning. Eats as a side or as a main over rice.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-A lighter, faster Southern cabbage dish than its heavier bacon-laden sibling, 30 minutes start to finish, one skillet, a side or a main. The cabbage is the centre of attention here rather than the meat. Two stages of cabbage cooking is the small technical move: half goes in first under a lid and steams down, the rest joins uncovered to keep its bite, so the finished dish has two textures (soft, tender pieces and slightly crisp pieces) rather than uniform mush. Brown sugar cuts the bitter edge that long-cooked cabbage develops; apple cider vinegar brightens the rich fat; Cajun seasoning brings warmth and a small nutmeg pinch deepens it without being identifiable. Andouille or kielbasa rounds provide the smoke and the salt. Smell is browned sausage hitting cabbage. Easy, weeknight-fast, forgiving on quantities. A Southern home-cooking standard from the Carolinas through Texas, where cabbage is a year-round cheap vegetable and smoked sausage is in every fridge; the recipe has dozens of family-specific variants but the brown-sugar-and-vinegar balance is the constant.
+A lighter, faster Southern cabbage dish than its heavier bacon-laden sibling: thirty minutes start to finish, one skillet, a side or a main. The cabbage is the centre of attention here rather than the meat. The small technical move is the two-stage cabbage cook: half goes in first under a lid and steams down, the rest joins uncovered to keep its bite, so the finished dish has two textures (soft tender pieces and slightly crisp pieces) rather than uniform mush. Brown sugar cuts the bitter edge that long-cooked cabbage develops; apple cider vinegar brightens the rich fat; Cajun seasoning brings warmth and a small nutmeg pinch deepens it without being identifiable. Andouille or kielbasa rounds provide the smoke and the salt. A Southern home-cooking standard from the Carolinas through Texas where cabbage is a year-round cheap vegetable and smoked sausage is in every fridge; family-specific variants are everywhere but the brown-sugar-and-vinegar balance is the constant.
 
 ## Ingredients
 

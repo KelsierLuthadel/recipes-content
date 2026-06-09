@@ -2,7 +2,7 @@
 
 ![Salsa Macha](resources/salsa-macha.jpg)
 
-*Mexico's chilli oil with crunch: a fragrant oil infused with toasted dried chillies, garlic, peanuts, sesame seeds and Mexican oregano, with crunchy bits suspended in deep red-orange oil. The Veracruz origin condiment that's spread across Mexico, served drizzled over tacos, eggs, fish, vegetables - adds heat, crunch and umami all at once.*
+*Mexico's chilli oil with crunch: a fragrant oil infused with toasted dried chillies, garlic, peanuts, sesame seeds and Mexican oregano, with crunchy bits suspended in deep red-orange oil.*
 
 **Serves:** Makes about 500 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Salsa macha is one of Mexico's most distinctive condiments and a Veracruz-coast specialty that has spread across the country and become a darling of modern Mexican-American cooking: dried chillies (a mix of guajillo, ancho, chile de árbol and chipotle for the canonical multi-layered heat) are briefly toasted with crushed garlic, raw peanuts, sesame seeds and Mexican oregano in vegetable oil, then everything is blitzed coarsely (not smooth - the texture is part of the appeal) and rested for the flavours to infuse the oil. The result is a fragrant chilli oil with crunchy bits suspended throughout - adding heat, crunch and deep umami all at once when drizzled over food. The dish is closely related to Chinese chilli crisp (lao gan ma) and Italian peperoncino oil but has its own distinct Mexican character. Drizzled over tacos, scrambled eggs, grilled fish, roasted vegetables, soups, beans, even ice cream (yes, salsa macha on vanilla ice cream is a thing). Three details define proper salsa macha. First, the chilli mix. Multiple dried chillies for layered flavour - guajillo for sweetness, ancho for depth, chile de árbol for heat, chipotle for smoke. Second, toast the chillies briefly. Don't burn; just till fragrant. Third, coarse texture. Pulse, don't blend smooth - the visible bits of chilli, peanut and seed are the point.
+Salsa macha is one of Mexico's most distinctive condiments and a Veracruz-coast specialty that has spread across the country and become a darling of modern Mexican-American cooking. The chilli mix is the canonical multi-layered heat: guajillo for sweetness, ancho for depth, chile de árbol for heat, chipotle for smoke: briefly toasted with crushed garlic, raw peanuts, sesame seeds and Mexican oregano in vegetable oil, then pulsed coarse (not smooth: the visible bits of chilli, peanut and seed are the point) and rested for the flavours to infuse the oil. The result is closely related to Chinese chilli crisp (lao gan ma) and Italian peperoncino oil but has its own distinct Mexican character: a fragrant chilli oil with crunchy bits suspended throughout, adding heat, crunch and deep umami all at once. Drizzled over tacos, scrambled eggs, grilled fish, roasted vegetables, soups, beans: even vanilla ice cream, where it works better than it has any right to.
 
 ## Ingredients
 

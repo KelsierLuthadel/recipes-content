@@ -2,7 +2,7 @@
 
 ![Roast Turkey](resources/roast-turkey.jpg)
 
-*The Thanksgiving and Christmas centrepiece: a whole turkey dry-brined the night before, slathered with herb butter under and over the skin, then roasted to a deep mahogany with crisp skin and juicy breast meat. Pan drippings turned into a quick gravy at the end. The American holiday table's load-bearing dish.*
+*The Thanksgiving and Christmas centrepiece: a whole turkey dry-brined the night before, slathered with herb butter under and over the skin, then roasted to mahogany with crisp skin and juicy breast meat.*
 
 **Serves:** 8-10
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours (for a 5-6 kg bird)
 
 ## Overview
-A whole roast turkey is the centrepiece of the American Thanksgiving table and most American Christmas tables too. It is one of the simplest large roasts to cook well as long as you accept two truths: a turkey breast is done at 65°C internal while a turkey thigh is done at 75°C, so you cannot cook them both to perfection by clock alone, and the bird benefits enormously from being dry-brined the day before so the skin dries out and the meat seasons through. The recipe below is the standard American home approach: a 24-hour dry brine with salt, then a herb butter loaded under and over the skin, then roasted at moderate heat (initially low to gently cook the thighs, finished hot to crisp the skin and bring the breast up to temperature). The pan drippings become a quick gravy at the end. This version specifically fills a manifest gap on the Thanksgiving editorial collection where Sunday Roast Chicken has been standing in. Use a 5-6 kg bird for 8-10 people with leftovers; scale brine and butter proportionally for a larger or smaller turkey. Difficulty is moderate; the active work is short but you must commit to the overnight brine and to using a meat thermometer.
+A whole roast turkey is the centrepiece of the American Thanksgiving table and most American Christmas tables too. It is one of the simplest large roasts to cook well as long as you accept two truths: a turkey breast is done at 65 °C internal while a turkey thigh is done at 75 °C, so you cannot cook them both to perfection by clock alone; and the bird benefits enormously from being dry-brined the day before so the skin dries out and the meat seasons through. The standard American home approach is a 24-hour dry brine with salt, then a herb butter loaded under and over the skin, then roasted at moderate heat: initially low to gently cook the thighs, finished hot to crisp the skin and bring the breast up to temperature. The pan drippings become a quick gravy at the end. A 5-6 kg bird feeds 8-10 with leftovers; scale brine and butter proportionally. A meat thermometer is non-negotiable.
 
 ## Ingredients
 

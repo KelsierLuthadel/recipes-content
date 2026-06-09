@@ -2,7 +2,7 @@
 
 ![Cedar-Plank Pacific Salmon](resources/cedar-plank-salmon.jpg)
 
-*British Columbia's signature open-fire cookery: a whole side of wild Pacific salmon (sockeye, king/chinook, or coho) brushed with maple syrup and Dijon, set on a soaked western red cedar plank, grilled covered over hardwood embers till the salmon is just-cooked and the plank chars and smokes. The cedar perfumes the fish; the salmon stays moist; the plank often serves as the serving board. The technique is Coast Salish in origin (the Indigenous peoples of British Columbia smoke-roasted salmon on cedar for thousands of years) and now defines outdoor cooking from Vancouver Island to the Sunshine Coast.*
+*British Columbia's signature outdoor dish: a side of wild Pacific salmon brushed with maple and Dijon, grilled on a soaked cedar plank till the wood smokes and the fish is just-cooked.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Plank-cooked salmon is the Indigenous-derived technique that defines British Columbia outdoor cooking. The Coast Salish peoples of the Pacific Northwest have cooked salmon on cedar boards beside open fires for thousands of years; the wood smoke perfumes the fish, the cedar oils flavour the flesh, and the upright-facing plank lets the heat radiate evenly. Modern Vancouver and Vancouver Island home cooks use the same technique on a barbecue: a thick western red cedar plank (about 35 × 15 × 1.5 cm), soaked in cold water for 2 hours so it doesn't burn through, set on a covered hot grill with embers at one side, and the salmon laid on top to cook indirectly. The fish is best wild-caught Pacific salmon - sockeye for its assertive flavour and red flesh; king/chinook for richness; coho for a milder middle ground. Farmed Atlantic salmon works in a pinch but loses the BC-specific flavour profile. The glaze is the modern Canadian move: maple syrup + Dijon + a touch of soy sauce + a squeeze of lemon, brushed on at the start and again halfway. The plank chars dramatically on the underside (this is fine and adds to the smoke); the salmon top stays bronze and moist. Three details: SOAK THE PLANK THOROUGHLY (2 hours minimum; an under-soaked plank burns through within 10 minutes), COOK WITH LID CLOSED (the cedar smoke needs to circulate; an open grill loses the entire flavour benefit), and DON'T OVERCOOK (Pacific salmon is best at 50-55°C internal - just barely opaque in the centre; over 60°C and the flesh dries to chalk).
+Plank-cooked salmon is the Indigenous-derived technique that defines British Columbia outdoor cooking. The Coast Salish peoples of the Pacific Northwest have cooked salmon on cedar boards beside open fires for thousands of years; the wood smoke perfumes the fish, the cedar oils flavour the flesh, and the upright plank radiates heat evenly. Modern home cooks use the same technique on a covered barbecue: a thick western red cedar plank, soaked in cold water for two hours so it doesn't burn through, set on the hot grill with embers at one side, salmon laid on top to cook indirectly. Best with wild-caught Pacific salmon: sockeye for its assertive flavour and red flesh, king/chinook for richness, coho for a milder middle ground. The modern Canadian glaze is maple syrup, Dijon, a touch of soy sauce and a squeeze of lemon, brushed on at the start and again halfway. The plank chars dramatically underneath. That's fine and adds to the smoke.
 
 ## Ingredients
 

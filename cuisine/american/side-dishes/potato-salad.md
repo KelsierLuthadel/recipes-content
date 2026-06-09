@@ -2,7 +2,7 @@
 
 ![Classic American Potato Salad](resources/potato-salad.jpg)
 
-*Cool chunks of tender potato bound in a creamy, tangy mayo-mustard dressing, flecked with crunchy celery and sharp red onion. A whisper of dill pickle and a dusting of smoky paprika make this the quintessential cookout side, just as comforting straight from the fridge as it is on a paper plate beside ribs.*
+*The quintessential American cookout side: cool tender potato chunks bound in a creamy mayo-mustard dressing, flecked with celery and red onion, dusted with smoky paprika.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Few dishes feel as woven into American summer as potato salad. It appears at backyard barbecues, church potlucks, and Fourth of July tables from Maine to Texas, and although every family insists their version is the only correct one, the bones are reassuringly consistent: waxy potatoes, hard-boiled eggs, a generous slick of mayonnaise, and the bright bite of mustard and pickle. The taste is creamy and cool, savoury with a gentle sweet-sour tang, punctuated by crisp celery and the sting of raw onion. It smells faintly of vinegar and paprika, like a 1950s deli counter on a hot afternoon. The texture is the real prize. Potatoes should be tender enough to yield to a fork but still hold their shape, so the salad reads as chunky rather than mashed. Difficulty is low, which is part of its charm. The only real technique is seasoning the warm potatoes so they drink in the vinegar before the mayo goes on, a small step that separates a flat salad from a great one. Make it the day before if you can. A night in the fridge lets the flavours marry, the onion mellow, and the dressing settle into every crevice, which is exactly what you want when you pull it out alongside burgers, pulled pork, or grilled chicken.
+Few dishes feel as woven into American summer as potato salad. It appears at backyard barbecues, church potlucks and Fourth of July tables from Maine to Texas, and although every family insists their version is the only correct one, the bones are reassuringly consistent: waxy potatoes, hard-boiled eggs, a generous slick of mayonnaise and the bright bite of mustard and pickle. Creamy and cool, savoury with a gentle sweet-sour tang, punctuated by crisp celery and the sting of raw onion: it smells faintly of vinegar and paprika, like a 1950s deli counter on a hot afternoon. The texture is the real prize: potatoes tender enough to yield to a fork but still holding their shape so the salad reads as chunky rather than mashed. The one technique that separates a flat salad from a great one is seasoning the warm potatoes so they drink in the vinegar before the mayo goes on. Better the day before: a night in the fridge lets the flavours marry, the onion mellow and the dressing settle into every crevice. Eaten alongside burgers, pulled pork or grilled chicken.
 
 ## Ingredients
 

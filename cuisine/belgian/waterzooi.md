@@ -2,7 +2,7 @@
 
 ![Waterzooi](resources/waterzooi.jpg)
 
-*Ghent's flagship stew: chicken (the modern canonical version; the original Ghent version used river fish, now mostly extinct) and a julienne of leek, celery, carrot and onion, gently poached in a chicken broth that's then thickened with egg yolks and cream and finished with a generous handful of flat-leaf parsley. Pale, golden, almost soup-like, eaten with boiled potatoes and a slab of country bread. The Flemish equivalent of a French blanquette - clean, restrained, the opposite of carbonnade's dark sweetness.*
+*Ghent's flagship stew: chicken and julienned leek, celery, carrot and onion poached in broth thickened with egg yolks and cream, finished with parsley. Eaten with boiled potatoes.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Waterzooi (literally "watery boil" in old Flemish; "Gentse" because it's from Ghent) is the Flemish stew that sits at the opposite end of the spectrum from carbonnade. Where carbonnade is dark, sweet and beer-driven, waterzooi is pale, golden, restrained, and built on the same logic as a French blanquette: poach the protein gently in a flavoured stock; thicken at the end with egg yolk and cream; finish with herb. The original Ghent recipe used freshwater fish from the Scheldt and Leie rivers; pollution killed the river-fish industry by the early 20th century, and the modern canonical version uses chicken (waterzooi van kip). Some Belgian restaurants offer fish waterzooi made with sea fish (cod, monkfish, salmon) but the chicken version is what every Belgian eats at home. The vegetable cut is specific - everything julienned thin so it cooks fast and serves in long elegant strips through the broth. The thickening is the critical move: egg yolks whisked with cream and a ladle of hot broth, then poured back into the pot OFF THE HEAT (boiling will scramble the eggs). The result is a velvety, lightly thickened broth that coats the chicken and vegetables without being a heavy sauce. Boiled potatoes alongside (sliced into the bowl or served separately). A glass of a Belgian witbier or a Riesling. Three details: GENTLE POACH, NOT BOIL (the chicken should never boil; it dries out and goes stringy), JULIENNE THE VEG (not chunks; this is what distinguishes a waterzooi from a generic chicken stew), and EGG YOLKS GO IN OFF THE HEAT (a tempered yolk-and-cream slurry stirred into the broth at the end; never bring back to the boil).
+Waterzooi means "watery boil" in old Flemish; "Gentse" because it's from Ghent. The Flemish stew that sits at the opposite end of the spectrum from carbonnade: where carbonnade is dark, sweet and beer-driven, waterzooi is pale, golden, restrained and built on the same logic as a French blanquette. Poach gently, thicken with egg yolk and cream at the end, finish with herb. The original Ghent recipe used freshwater fish from the Scheldt and Leie rivers; pollution killed the river-fish industry a century ago, and the modern canonical version uses chicken. Vegetables are julienned thin so they cook fast and serve as long elegant strips through the broth. The thickening is the critical move: egg yolks whisked with cream and a ladle of hot broth, then poured back into the pot off the heat (boiling will scramble the eggs). Velvety, lightly thickened, served with boiled potatoes and a glass of witbier.
 
 ## Ingredients
 

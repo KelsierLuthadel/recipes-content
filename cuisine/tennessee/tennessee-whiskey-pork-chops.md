@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Tennessee whiskey pork chops are the canonical Tennessee Sunday-dinner pork preparation, using the state's signature spirit (Jack Daniel's or another Tennessee whiskey such as George Dickel) as the centerpiece of a sticky-sweet glaze: thick-cut bone-in pork chops seared in a hot cast-iron pan till deeply browned, then glazed with a reduced sauce of Tennessee whiskey, brown sugar, butter, garlic, Dijon mustard, Worcestershire sauce, and a pinch of cayenne. The alcohol burns off and the sugars caramelise into a sticky deep-amber glaze. Served with mashed potatoes, collard greens or green beans, and skillet cornbread. Three details: thick chops (3cm minimum), Tennessee whiskey (not Bourbon), reduce till sticky.
+Tennessee whiskey pork chops are the canonical Tennessee Sunday-dinner pork preparation, using the state's signature spirit (Jack Daniel's or another Tennessee whiskey such as George Dickel) as the centerpiece of a sticky-sweet glaze: thick-cut bone-in pork chops seared in a hot cast-iron pan till deeply browned, then glazed with a reduced sauce of Tennessee whiskey, brown sugar, butter, garlic, Dijon mustard, Worcestershire sauce, and a pinch of cayenne. The alcohol burns off and the sugars caramelise into a sticky deep-amber glaze. Served with mashed potatoes, collard greens or green beans, and skillet cornbread.
 
 ## Ingredients
 

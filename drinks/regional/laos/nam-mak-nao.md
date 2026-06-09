@@ -2,7 +2,7 @@
 
 ![Nam Mak Nao](resources/nam-mak-nao.jpg)
 
-*Laos's bright midday cooler: a tall glass of fresh-squeezed lime juice mixed with palm-sugar syrup, a generous pinch of fine sea salt and cold water, served over crushed ice with a slice of lime on the rim. The Lao version differs from generic limeade in two small but identifying ways: palm sugar (not white granulated) gives a deeper caramel-molasses note, and the pinch of salt is canonical (the Lao kitchen knows that a touch of salt sharpens sweet-sour drinks). Sold from carts in every Lao market in the hot months; the canonical Lao mid-day refresher.*
+*Laos's midday cooler: fresh lime juice mixed with palm-sugar syrup, a pinch of salt and cold water, served over crushed ice with a slice of lime on the rim.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (for the syrup)
 
 ## Overview
-Nam mak nao is one of the simplest and most beloved Lao drinks - a Lao spin on lemonade. Three Lao-specific moves. First, the lime: small Asian limes (the Lao "mak nao") which are juicier and more aromatic than the larger Persian limes sold in Western supermarkets. The juice from 4-5 of these (or 2-3 Western limes) fills the canonical proportions. Second, the palm-sugar syrup: palm sugar (from palmyra or coconut palms) dissolved in hot water - the dark caramel-molasses notes of palm sugar are what distinguish nam mak nao from a generic limeade made with white sugar. Sub with dark muscovado sugar if palm sugar isn't available. Third, the salt: a generous pinch of fine sea salt goes into each glass - the Lao kitchen knows that salt sharpens sweet-sour drinks (the same principle as a salted-rim margarita). The salt is essential; without it, the drink tastes flat. Three details: PALM SUGAR NOT WHITE (deeper colour and flavour), PINCH OF SALT IS NON-NEGOTIABLE (it's what makes the lime sing), and SERVE OVER CRUSHED ICE (crushed melts faster, gives a slushy refreshing texture).
+Nam mak nao is one of the simplest and most beloved Lao drinks: a Lao spin on lemonade, sold from carts in every Lao market in the hot months. The lime matters: small Asian limes (the Lao "mak nao") are juicier and more aromatic than the larger Persian limes in Western supermarkets; four or five Lao limes (or two or three Western ones) fill the canonical proportions. Palm sugar (from palmyra or coconut palms) gives the dark caramel-molasses notes that distinguish nam mak nao from a generic limeade made with white sugar; dark muscovado substitutes. The pinch of salt is the Lao secret: salt sharpens sweet-sour drinks, the same principle as a salted-rim margarita, and without it the drink tastes flat.
 
 ## Ingredients
 

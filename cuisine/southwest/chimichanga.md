@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Chimichangas are the iconic Southwestern Mexican-American restaurant dish, particularly associated with Tucson Arizona (where the dish was supposedly accidentally invented in the 1920s when a cook dropped a burrito into a deep fryer): a large flour tortilla wrapped tightly around seasoned shredded beef (slow-cooked with red chile, garlic and cumin), refried beans, grated cheese (Monterey Jack or cheddar), then folded and deep-fried in oil till the outside crisps deeply golden and the cheese inside melts. Served on a plate covered with red or green chile sauce, melted cheese, sour cream, guacamole, pico de gallo and shredded lettuce. Three details: tight folding (the burrito mustn't open in the fryer), proper hot oil (175°C), and the sauce-and-cheese topping covered in the proper restaurant style.
+Chimichangas are the iconic Southwestern Mexican-American restaurant dish, particularly associated with Tucson Arizona (where the dish was supposedly accidentally invented in the 1920s when a cook dropped a burrito into a deep fryer): a large flour tortilla wrapped tightly around seasoned shredded beef (slow-cooked with red chile, garlic and cumin), refried beans, grated cheese (Monterey Jack or cheddar), then folded and deep-fried in oil till the outside crisps deeply golden and the cheese inside melts. Served on a plate covered with red or green chile sauce, melted cheese, sour cream, guacamole, pico de gallo and shredded lettuce.
 
 ## Ingredients
 

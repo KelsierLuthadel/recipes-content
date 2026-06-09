@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Chicken and dumplings is one of the South's most beloved comfort dishes and a grandmotherly classic that varies by region: chicken (whole or pieces) poached till tender, the meat shredded, the broth strained and seasoned, with sautéed onion, celery and carrot added, then soft pillowy biscuit-style dumplings (a wet thick batter dropped in by spoonfuls; or rolled and cut into pieces for the "rolled dumpling" Tennessee/Appalachian style) added to the simmering broth and cooked covered for 15 minutes till the dumplings puff up and float. The dish is what every Southern grandmother makes when the family is sick, when comfort is needed, when winter sets in. Three details: rich chicken broth (don't skip making fresh broth), pillowy dumplings (don't overmix), covered cook (so the dumplings steam).
+Chicken and dumplings is one of the South's most beloved comfort dishes and a grandmotherly classic that varies by region: chicken (whole or pieces) poached till tender, the meat shredded, the broth strained and seasoned, with sautéed onion, celery and carrot added, then soft pillowy biscuit-style dumplings (a wet thick batter dropped in by spoonfuls; or rolled and cut into pieces for the "rolled dumpling" Tennessee/Appalachian style) added to the simmering broth and cooked covered for 15 minutes till the dumplings puff up and float. The dish is what every Southern grandmother makes when the family is sick, when comfort is needed, when winter sets in.
 
 ## Ingredients
 

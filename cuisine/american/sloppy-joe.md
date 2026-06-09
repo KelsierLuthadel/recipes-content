@@ -2,7 +2,7 @@
 
 ![Sloppy Joe](resources/sloppy-joe.jpg)
 
-*The American school-lunch sandwich: spiced beef mince in a tangy tomato sauce piled into a soft burger bun, served with chips and a pickle. Sweet, sharp, savoury, comforting; eaten over the plate so the sauce runs into a pool you mop up at the end. Lunchtime, not dinner; weeknight, not weekend.*
+*The American school-lunch sandwich: spiced beef mince in a tangy tomato sauce piled into a soft burger bun, served with chips and a pickle.*
 
 **Serves:** 4
 

@@ -2,7 +2,7 @@
 
 ![Hunkar Begendi](resources/hunkar-begendi.jpg)
 
-*Turkey's "Sultan's Delight": tender cubed lamb shoulder slow-braised in tomato, onion and warm spices, served over a silky creamy bed of smoked-eggplant purée enriched with butter, flour and grated kashar cheese. The Ottoman-imperial classic, famously created for Empress Eugénie's visit to the palace in the 1860s.*
+*Turkey's "Sultan's Delight": cubed lamb shoulder slow-braised in tomato and warm spices, served over a silky bed of smoked-eggplant purée enriched with butter, flour and grated kashar cheese.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Hünkar beğendi (literally "the sultan loved it"; or sometimes translated as "Sultan's Delight") is one of Turkey's most iconic dishes and a piece of Ottoman culinary history: tender cubes of lamb shoulder (or beef) slow-braised with onion, garlic, tomato, tomato paste, the Levantine seven-spice baharat and a splash of stock till the meat falls apart and the sauce reduces to a glossy mahogany; served over a silky bed of "beğendi" - a smoked eggplant purée made by charring whole eggplants over an open flame till the skin blackens and the flesh goes silky, then peeling the flesh and folding it into a butter-and-flour roux with grated kashar cheese (the Turkish hard cheese; or substitute with Italian Pecorino or aged Gruyère) and milk to create a creamy béchamel-style sauce-mash hybrid. The combination is a study in contrasts: the rich tender lamb against the smoky creamy eggplant. The dish was famously created at the Topkapi Palace in the 1860s for the visit of Empress Eugénie of France, wife of Napoleon III, on her way to the opening of the Suez Canal; the empress reportedly asked for the recipe but was told by the chef that he wouldn't share it. Three details define proper hünkar beğendi. First, the eggplants must be properly charred. The smoky character of the beğendi comes from blackening the skins over an open gas flame (or under a hot grill) till the eggplant collapses and the skin is properly burnt. Skipping this gives a generic creamed-eggplant that lacks the dish's identity. Second, the lamb must be properly slow-braised. 60-75 minutes minimum till the cubes are fork-tender. Under-cooked lamb is chewy. Third, the beğendi roux is essential. The flour-and-butter base is a traditional French béchamel technique adapted by Ottoman palace chefs; without the roux, the eggplant purée is wet and unstructured.
+Hünkar beğendi (literally "the sultan loved it", or "Sultan's Delight") is one of Turkey's most iconic dishes and a piece of Ottoman culinary history. The dish was famously created at the Topkapi Palace in the 1860s for the visit of Empress Eugénie of France, wife of Napoleon III, on her way to the opening of the Suez Canal; the empress reportedly asked for the recipe but was told by the chef that he wouldn't share it. The lamb is cubes of shoulder slow-braised with onion, garlic, tomato, tomato paste, Levantine baharat and a splash of stock till the meat falls apart and the sauce reduces to a glossy mahogany. The beğendi underneath is a smoked-eggplant purée: whole eggplants charred over an open flame till the skin blackens and the flesh goes silky, then peeled and folded into a French-style butter-and-flour roux with grated kashar cheese (Pecorino or aged Gruyère substitute) and milk. The result is a study in contrasts: rich tender lamb against smoky creamy eggplant.
 
 ## Ingredients
 

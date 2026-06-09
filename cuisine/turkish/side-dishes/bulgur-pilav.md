@@ -2,7 +2,7 @@
 
 ![Bulgur Pilav](resources/bulgur-pilav.jpg)
 
-*Turkey's cracked-wheat pilaf: medium bulgur wheat cooked in butter and stock with fried onion, chopped tomato, green pepper and Turkish red pepper paste, finished with parsley and pomegranate molasses. The everyday Anatolian rice alternative, eaten alongside grilled meats, stews and yogurt.*
+*Turkey's cracked-wheat pilaf: medium bulgur cooked in butter and stock with fried onion, tomato, green pepper and red pepper paste, finished with parsley and pomegranate molasses.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Bulgur pilav is Turkey's classic cracked-wheat pilaf and a staple of Anatolian home cooking that pre-dates the introduction of rice to the region: medium bulgur (parboiled cracked wheat; the canonical Turkish bulgur is the medium grind) is cooked in a buttery base of fried onion, finely chopped green pepper, chopped fresh tomato, tomato paste and Turkish red pepper paste, then simmered in chicken stock till the bulgur absorbs the liquid and the flavours meld; finished with chopped parsley, a small drizzle of pomegranate molasses, and ground cumin and Aleppo pepper. Bulgur is the older grain in Turkey; rice arrived later from Persia and was historically a luxury food for the wealthy, while bulgur was the everyday grain of Anatolian villages. The pilav today is eaten by everyone across Turkey, often alongside the same dishes that rice pilav accompanies: grilled meats, stews, dolma. Three details define proper Turkish bulgur pilav. First, medium bulgur, not fine or coarse. Fine bulgur is for kısır (the cracked-wheat tabbouleh-style salad); coarse bulgur is too chewy for pilaf. The medium grind is what gives the proper pilaf texture. Second, the aromatic base is essential. Fried onion, green pepper, tomato and Turkish red pepper paste cooked properly in butter before adding the bulgur gives the proper Anatolian depth. Skipping this gives a bland boiled-grain. Third, like rice pilav, the lid stays on. Once the stock goes in, lid on, low heat, 12-15 minutes, then 10 minutes resting off-heat. The bulgur cooks by absorption-and-steam.
+Bulgur pilav is Turkey's classic cracked-wheat pilaf and a staple of Anatolian home cooking that pre-dates the introduction of rice to the region. Bulgur is the older grain; rice arrived later from Persia and was historically a luxury food for the wealthy, while bulgur was the everyday grain of Anatolian villages. Today the pilav is eaten by everyone across Turkey alongside the same dishes rice pilav accompanies: grilled meats, stews, dolma. The grind matters: medium bulgur, not fine (which is for kısır, the tabbouleh-style salad) or coarse (too chewy for pilaf). The aromatic base is what makes it Anatolian: fried onion, finely chopped green pepper, chopped fresh tomato, tomato paste and Turkish red pepper paste cooked properly in butter before the bulgur joins; chicken stock simmers it through lid-down on low for twelve to fifteen minutes, then a ten-minute rest off the heat. Finished with chopped parsley, a small drizzle of pomegranate molasses, and ground cumin and Aleppo pepper.
 
 ## Ingredients
 

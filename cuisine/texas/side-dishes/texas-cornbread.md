@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Texas cornbread is the Lone Star State's signature cornbread: a batter made from yellow cornmeal, plain flour (Texas style uses some flour for a slightly tenderer crumb), buttermilk, eggs, melted butter (or bacon fat for proper Texan), with chopped fresh jalapeños and grated sharp cheddar folded in. The batter is poured into a screaming-hot, well-oiled cast-iron skillet (the canonical Texan vessel) and baked at 200°C till the bottom and edges crust deeply golden and the centre is just set. The Texan version distinguishes itself from Northern American sweet cornbread (which has more sugar and flour) by the savory direction - Texas cornbread is mostly cornmeal, mostly savory, with jalapeños and cheese as the Texan touch. Three details: hot skillet, savory (low sugar), jalapeños and cheese.
+Texas cornbread is the Lone Star State's signature cornbread: a batter made from yellow cornmeal, plain flour (Texas style uses some flour for a slightly tenderer crumb), buttermilk, eggs, melted butter (or bacon fat for proper Texan), with chopped fresh jalapeños and grated sharp cheddar folded in. The batter is poured into a screaming-hot, well-oiled cast-iron skillet (the canonical Texan vessel) and baked at 200°C till the bottom and edges crust deeply golden and the centre is just set. The Texan version distinguishes itself from Northern American sweet cornbread (which has more sugar and flour) by the savory direction - Texas cornbread is mostly cornmeal, mostly savory, with jalapeños and cheese as the Texan touch.
 
 ## Ingredients
 

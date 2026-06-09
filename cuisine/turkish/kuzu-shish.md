@@ -2,7 +2,7 @@
 
 ![Kuzu Sis](resources/kuzu-shish.jpg)
 
-*Turkey's lamb skewer kebabs: cubes of lamb leg or shoulder marinated in yogurt, olive oil, garlic, lemon and the Levantine spice mix, threaded onto flat metal skewers and grilled over charcoal till the outside chars and the inside stays pink. The everyday Turkish meat skewer, eaten with pide, grilled vegetables, yogurt sauce and ayran.*
+*Turkey's lamb skewer: cubes of lamb shoulder marinated in yogurt, garlic, lemon and Levantine spices, threaded onto flat skewers with onion and pepper, then grilled hard over charcoal.*
 
 **Serves:** 6 (12 skewers)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Kuzu şiş (literally "lamb skewer"; sometimes called şiş kebab or shish kebab outside Turkey) is the Turkish lamb skewer kebab and a Sunday-asado staple across the country: cubes of lamb leg or lamb shoulder are cubed into 3 cm pieces, marinated overnight in a paste of plain yogurt, olive oil, crushed garlic, lemon juice, the Levantine seven-spice (baharat), Aleppo pepper, cumin, sumac and salt, then threaded onto flat metal skewers alternating with chunks of red onion, green pepper and tomato, grilled over hot charcoal (or a screaming-hot grill pan) till the outside chars and the inside stays pink and juicy. Served at the centre of the table on a warm wooden platter or a heated metal serving piece, with pillowy pide bread, grilled tomato and chillies, a small bowl of yogurt sauce (often a garlic-yogurt or a smoky-eggplant yogurt), chopped parsley with sumac onions, and lemon wedges. The dish is the canonical Turkish meat experience and the dish most often described to visitors as "Turkish kebab"; it appears at every kebabci (kebab restaurant) and every Turkish home barbecue. Three details define proper kuzu şiş. First, the cut of lamb. Lamb leg gives leaner meat; lamb shoulder is fattier and more flavoursome. The proper Turkish preference is for fattier cuts. Lean cuts (loin) dry out on the grill. Second, the yogurt marinade is essential. The yogurt's enzymes tenderise the lamb during the long marination; 8 hours minimum, ideally 24. Skipping the marinade gives tough chewy skewers. Third, charcoal is the proper heat. The smoky open-flame charring is canonical Turkish; a grill pan works in a pinch but lacks the smoky depth.
+Kuzu şiş (literally "lamb skewer"; sometimes called şiş kebab or shish kebab outside Turkey) is the Turkish lamb skewer kebab and a Sunday-asado staple across the country: the dish most often described to visitors as "Turkish kebab", appearing at every kebabci (kebab restaurant) and every Turkish home barbecue. The cut matters: shoulder is fattier and more flavoursome than leg; lean cuts dry on the grill. Cubes of 3 cm meat marinate at least eight hours and ideally twenty-four in a yogurt-based paste with olive oil, garlic, lemon, Levantine seven-spice (baharat), Aleppo pepper, cumin and sumac: the yogurt's enzymes tenderise the lamb during the long rest. Threaded onto flat metal skewers alternating with red onion, green pepper and tomato, grilled hard over hot charcoal till the outside chars and the inside stays pink and juicy. A grill pan works in a pinch but lacks the smoky depth. Plated on a warm wooden platter with pillowy pide bread, grilled tomato and chillies, a bowl of garlic or smoky-eggplant yogurt, sumac onions with parsley, and lemon wedges.
 
 ## Ingredients
 

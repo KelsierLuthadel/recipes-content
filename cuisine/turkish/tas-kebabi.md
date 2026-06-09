@@ -2,7 +2,7 @@
 
 ![Tas Kebabi](resources/tas-kebabi.jpg)
 
-*Turkey's "pot kebab" lamb stew: cubed lamb shoulder slow-braised with onion, garlic, mushroom, tomato, green pepper and Turkish red pepper paste till the meat falls apart and the sauce reduces to a glossy rich gravy. The Anatolian home-cook winter stew, eaten over rice or with pillowy pide bread.*
+*Turkey's "pot kebab" lamb stew: cubed lamb shoulder slow-braised with onion, mushroom, tomato, green pepper and Turkish red pepper paste till the sauce reduces to a glossy rich gravy.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Tas kebabı (literally "pot kebab"; tas = bowl/pot, kebab = grilled or roasted meat - but here referring to the slow-cooked pot version) is one of Turkey's most beloved home-cook stews and a staple of Anatolian winter cooking: cubes of lamb shoulder (the canonical cut; gives the proper fatty rich braise) are first browned in butter and olive oil, then slow-cooked with sliced onion, crushed garlic, sliced mushrooms (often button mushrooms or oyster mushrooms; sometimes wild mushrooms in season), chopped tomato, chopped green bell pepper, tomato paste, Turkish red pepper paste (biber salçası) and warm spices in a heavy pot for 90 minutes till the meat is meltingly tender, the mushrooms have soaked up the sauce, and the whole pot has reduced to a glossy rich gravy. Served in deep bowls over rice pilav or with chunks of pide bread for mopping up the sauce. The dish is what every Turkish home cook makes in winter when comfort food is needed; it's also what appears on the menu of every esnaf lokantası (the everyday Turkish working-people's restaurants) as the daily-stew option. Three details define proper tas kebabı. First, lamb shoulder, properly browned. Don't skip the browning step; the fond at the bottom of the pot is what gives the proper sauce depth. Lean cuts of lamb (loin) dry out; shoulder gives the rich fatty result. Second, the layered base. Onion, then garlic, then tomato paste, then peppers, then mushrooms - each cooked briefly before the next addition. This builds proper depth. Third, slow-cook properly. 90 minutes minimum till the lamb is fork-tender. Don't rush; tough lamb ruins the dish.
+Tas kebabı (literally "pot kebab"; tas = bowl/pot, kebab = grilled or roasted meat: here referring to the slow-cooked pot version) is one of Turkey's most beloved home-cook stews and a staple of Anatolian winter cooking. It appears on the menu of every esnaf lokantası (the working-people's lunch restaurants) as the daily-stew option. Lamb shoulder is the cut: lean cuts dry out, while shoulder gives the rich fatty result. The cubes brown hard first: the fond at the bottom of the pot is what gives the sauce its depth: then a layered base builds: onion, then garlic, then tomato paste, then peppers, then mushrooms, each cooked briefly before the next addition. Tomato, Turkish red pepper paste (biber salçası) and warm spices go in for the braise. Ninety minutes minimum till the meat is fork-tender and the whole pot has reduced to a glossy rich gravy with the mushrooms soaked through. Served in deep bowls over rice pilav or with chunks of pide bread for mopping up the sauce.
 
 ## Ingredients
 

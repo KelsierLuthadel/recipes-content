@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The green chile cheeseburger is New Mexico's official state cuisine icon and the focus of statewide rivalries and "best of" rankings (the New Mexico Tourism Department maintains a Green Chile Cheeseburger Trail mapping the state's best versions): a juicy beef patty (80/20 ground chuck for proper fat) grilled or smashed in a hot pan, topped with a generous heap of roasted-and-peeled Hatch green chillies (the canonical New Mexico chile; mild or medium-hot from the Hatch valley harvest), a slice of Monterey Jack or pepper jack cheese, and served on a soft white bun with lettuce, tomato, raw onion, mayonnaise, ketchup or yellow mustard, and dill pickles. The dish defines New Mexico: the green chile is essential; without it, you have a generic American cheeseburger. Three details: roasted Hatch chiles (canonical), Monterey Jack melts properly, soft white bun.
+The green chile cheeseburger is New Mexico's official state cuisine icon and the focus of statewide rivalries and "best of" rankings (the New Mexico Tourism Department maintains a Green Chile Cheeseburger Trail mapping the state's best versions): a juicy beef patty (80/20 ground chuck for proper fat) grilled or smashed in a hot pan, topped with a generous heap of roasted-and-peeled Hatch green chillies (the canonical New Mexico chile; mild or medium-hot from the Hatch valley harvest), a slice of Monterey Jack or pepper jack cheese, and served on a soft white bun with lettuce, tomato, raw onion, mayonnaise, ketchup or yellow mustard, and dill pickles. The dish defines New Mexico: the green chile is essential; without it, you have a generic American cheeseburger.
 
 ## Ingredients
 

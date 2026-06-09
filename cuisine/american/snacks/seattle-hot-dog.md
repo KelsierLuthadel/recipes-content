@@ -2,7 +2,7 @@
 
 ![Seattle Hot Dog](resources/seattle-hot-dog.jpg)
 
-*Seattle's distinctive cream-cheese hot dog: a grilled bratwurst (or all-beef frankfurter) in a toasted bun, smeared with a generous layer of cream cheese, topped with caramelised onions, sliced raw jalapeños, chopped raw cabbage and a drizzle of sriracha. The Pioneer Square late-night street-cart classic; the Pacific Northwest's quietly weird answer to the hot dog.*
+*Seattle's cream-cheese hot dog: a grilled bratwurst on a toasted bun with cream cheese, caramelised onions, raw jalapeños, chopped cabbage and a drizzle of sriracha.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Seattle hot dog (also called the "Seattle Dog" or "Dave's Dog" after street vendor Dave's Dawgs in the 1990s) is the Pacific Northwest's distinctive contribution to the regional-hot-dog canon and a fixture of Seattle late-night street food, particularly around Pioneer Square, Capitol Hill and after Mariners games at T-Mobile Park: a grilled bratwurst or all-beef frankfurter (Seattle vendors tend to use a thicker brat-style sausage rather than a slender frankfurter) on a toasted bun, with the defining ingredient that polarises everyone outside the region - a thick smear of softened cream cheese on the bun before the dog goes in. Topped with caramelised onions (slowly cooked on the cart's flat-top), sliced raw jalapeños, chopped raw cabbage (the Seattle take on slaw - just raw cabbage, no dressing), and a zigzag of sriracha hot sauce. Locals call it a love-it-or-hate-it situation; everyone tries it at least once. Three details: cream cheese (essential signature), bratwurst or chunky beef dog (not a slender frankfurter), raw cabbage (not slaw).
+The Seattle hot dog (also called the "Seattle Dog" or "Dave's Dog" after street vendor Dave's Dawgs in the 1990s) is the Pacific Northwest's distinctive contribution to the regional-hot-dog canon and a fixture of Seattle late-night street food, particularly around Pioneer Square, Capitol Hill and after Mariners games at T-Mobile Park: a grilled bratwurst or all-beef frankfurter (Seattle vendors tend to use a thicker brat-style sausage rather than a slender frankfurter) on a toasted bun, with the defining ingredient that polarises everyone outside the region - a thick smear of softened cream cheese on the bun before the dog goes in. Topped with caramelised onions (slowly cooked on the cart's flat-top), sliced raw jalapeños, chopped raw cabbage (the Seattle take on slaw - just raw cabbage, no dressing), and a zigzag of sriracha hot sauce. Locals call it a love-it-or-hate-it situation; everyone tries it at least once.
 
 ## Ingredients
 

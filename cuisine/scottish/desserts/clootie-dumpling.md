@@ -2,7 +2,7 @@
 
 ![Clootie Dumpling](resources/clootie-dumpling.jpg)
 
-*Scotland's ancient steamed pudding: a dense, dark, dried-fruit-and-spice pudding wrapped in a floured cloth ("cloot" in Scots) and simmered for 3 hours over the lowest gas. Often containing a sixpence for luck. Eaten Christmas Day, Hogmanay, and at every Scottish birthday for 300 years; sliced thick, fried in butter the next morning for breakfast.*
+*Scotland's ancient steamed pudding: a dense, dark fruit-and-spice pudding wrapped in a floured cloth ("cloot" in Scots) and simmered three hours. Often contains a sixpence for luck.*
 
 **Serves:** 10-12
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours (steaming)
 
 ## Overview
-Clootie dumpling is one of Scotland's most ancient and most distinctively Scottish puddings. The name comes from the "cloot" (Scots for cloth) - a square of finely-woven linen or muslin that's been floured and used to wrap the pudding mixture before simmering. The construction is a dense rich pudding base: flour, suet (the canonical Scottish fat - beef or vegetable), oatmeal, brown sugar, dried mixed fruit (raisins, sultanas, currants, candied peel), spices (cinnamon, ginger, mixed spice, cloves), bicarbonate of soda, and just enough buttermilk or milk to bring it to a stiff dough. The mixture is wrapped in the floured cloot, tied tightly with string, and simmered in a large pot of boiling water for 3 hours over the lowest gas. The result emerges as a dense dark dumpling with a distinctive skin (formed by the floured cloth pressing into the dough - the "clootie" skin) that's slightly chewy and the pride of every Scottish granny. The traditional final touch: a sixpence (or other small silver coin, wrapped in a tiny piece of greaseproof paper) is hidden in the dough - the lucky finder of the coin gets good fortune for the year. Served warm with custard, cream, ice cream, or - the canonical Scottish way - sliced thick the next morning and fried in butter to a crisp golden caramel. Three details: the cloot (a square of muslin or thin linen, floured generously before wrapping), tied very tightly (a loose tie lets water in), and the slow steam (3 hours minimum - undercooked dumpling is dense and gummy).
+Clootie dumpling is one of Scotland's most ancient and most distinctively Scottish puddings, named for the "cloot" (Scots for cloth) of finely-woven linen or muslin used to wrap the pudding before simmering. The base is rich and dense: flour, suet, oatmeal, brown sugar, dried mixed fruit, warm spices and just enough buttermilk to bring it to a stiff dough. Wrapped in the floured cloot, tied tightly with string and simmered in boiling water for three hours. The result emerges as a dark dumpling with a distinctive slightly chewy skin from the cloth pressing into the dough, and a soft fragrant centre. The traditional touch is a sixpence (or any small silver coin, wrapped in greaseproof paper) hidden in the dough; whoever finds it gets good fortune for the year. Eaten warm with custard or cream, or sliced thick the next morning and fried in butter to a crisp golden caramel for breakfast.
 
 ## Ingredients
 

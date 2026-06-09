@@ -2,7 +2,7 @@
 
 ![Sticky Rice](resources/sticky-rice.jpg)
 
-*Laos's staple grain and the foundation of every Lao meal: glutinous (sticky) rice soaked overnight, steamed in a tall conical bamboo basket over a pot of boiling water till the grains are translucent, fluffy and stretchy. Eaten by hand-rolling into small balls and dipping into the small plates of laap, tam mak hung, jeow bong, or whatever else covers the Lao table. Per capita, Laos consumes more sticky rice than any other country on earth; it is the Lao identity grain.*
+*Laos's staple grain: glutinous rice soaked overnight, steamed in a tall conical bamboo basket till the grains turn translucent, fluffy and stretchy. Eaten by hand-rolling into balls and dipping into laap, tam mak hung or jeow bong.*
 
 **Serves:** 6 (about 600 g cooked rice)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sticky rice is the most identity-defining Lao staple - so central to Lao identity that Lao people call themselves "luk khao niao" ("children of sticky rice"). Three things matter for canonical Lao sticky rice. First, the rice variety: Thai or Lao long-grain sticky rice (glutinous rice; sold as "Thai sticky rice", "sweet rice" or "glutinous rice" at Asian grocers; NOT short-grain Japanese sushi rice, which is a different type). Second, the overnight soak: the dry grains must be soaked in cold water for at least 6 hours, ideally 12-24. Skipping this step gives undercooked, hard grains. Third, the steaming: the soaked rice steams (never boils in water) in a bamboo conical basket (huay - the canonical Lao tool) over a pot of boiling water. The steam cooks the rice in 20-25 minutes; the grains become translucent, fluffy and stretchy. A perforated metal steamer or a fine sieve over a pot works as a substitute. Eaten by pulling a small ball with the fingers, rolling briefly to compact, and dipping into laap, tam mak hung, jeow or any other Lao small plate. Three details: SOAK OVERNIGHT (6-24 hours; non-negotiable), STEAM DON'T BOIL (the rice cooks in steam, never submerged in water), and SERVE FROM A BAMBOO BASKET (keeps the rice warm and slightly humid; an enamel bowl with a lid is the home substitute).
+Sticky rice is the most identity-defining Lao staple, so central to the culture that Lao people call themselves "luk khao niao" (children of sticky rice). Per capita, Laos consumes more sticky rice than any other country on earth. Three things matter for canonical Lao sticky rice. The variety must be Thai or Lao long-grain glutinous rice (sold as "Thai sticky rice", "sweet rice" or "glutinous rice" at Asian grocers, not Japanese short-grain sushi rice, which is a different type entirely). The dry grains must soak in cold water at least six hours and ideally twelve to twenty-four; skipping the soak gives undercooked hard grains. The cooking is steam, never boiling in water: soaked rice steams in a bamboo conical basket (huay) over a pot of boiling water for twenty to twenty-five minutes till the grains turn translucent, fluffy and stretchy. A perforated metal steamer or a fine sieve over a pot substitutes. Eaten by pulling a small ball with the fingers, rolling briefly to compact, and dipping into whichever small plates cover the Lao table.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Empanaditas de calabaza are New Mexico's small sweet pumpkin turnovers and a Hispano-NM Christmas tradition: a buttery shortcrust pastry rolled and cut into small rounds (6 cm), filled with sweetened pumpkin (or sweet potato) mashed with cinnamon, brown sugar, raisins, and sometimes piñon nuts (pine nuts; the NM staple); folded into half-moons and crimped; baked till the crust crisps golden; dusted with cinnamon sugar while warm. The small size makes them perfect for Christmas cookie trays and church bake sales; making them is a family activity. Three details: small size (about 6 cm), shortcrust pastry, sweet pumpkin filling.
+Empanaditas de calabaza are New Mexico's small sweet pumpkin turnovers and a Hispano-NM Christmas tradition: a buttery shortcrust pastry rolled and cut into small rounds (6 cm), filled with sweetened pumpkin (or sweet potato) mashed with cinnamon, brown sugar, raisins, and sometimes piñon nuts (pine nuts; the NM staple); folded into half-moons and crimped; baked till the crust crisps golden; dusted with cinnamon sugar while warm. The small size makes them perfect for Christmas cookie trays and church bake sales; making them is a family activity.
 
 ## Ingredients
 

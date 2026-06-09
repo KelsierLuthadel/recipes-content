@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Hush puppies are Louisiana's (and the wider American South's) canonical fried-fish accompaniment: a thick cornmeal batter (yellow cornmeal + flour + baking powder + sugar + chopped onion + buttermilk + egg + salt + cayenne) scooped with two spoons or a small ice cream scoop and deep-fried till golden brown round balls. The origin myth is that Civil War-era cooks fried these to throw to dogs to "hush the puppies" while preparing meals. Served piping hot alongside fried catfish (canonical), fried shrimp, fried chicken. Three details: yellow cornmeal canonical, chopped onion (not powder), deep-fry at 180°C.
+Hush puppies are Louisiana's (and the wider American South's) canonical fried-fish accompaniment: a thick cornmeal batter (yellow cornmeal + flour + baking powder + sugar + chopped onion + buttermilk + egg + salt + cayenne) scooped with two spoons or a small ice cream scoop and deep-fried till golden brown round balls. The origin myth is that Civil War-era cooks fried these to throw to dogs to "hush the puppies" while preparing meals. Served piping hot alongside fried catfish (canonical), fried shrimp, fried chicken.
 
 ## Ingredients
 

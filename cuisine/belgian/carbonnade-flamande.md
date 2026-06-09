@@ -2,7 +2,7 @@
 
 ![Carbonnade Flamande](resources/carbonnade-flamande.jpg)
 
-*Belgium's national beef stew: chuck beef browned hard, simmered slow for three hours in dark Trappist abbey ale with caramelised onions, brown sugar, a bay leaf, and the crucial Belgian move - a slice of stale bread spread thick with Dijon mustard pressed face-down into the sauce, where it dissolves and thickens the gravy. Deeply savoury, faintly sweet, with the bitter-malt depth of the beer underneath. Served with Belgian frites or boiled potatoes and a glass of the same beer used in the braise.*
+*Belgium's national beef stew: chuck simmered three hours in dark Trappist ale with caramelised onions and a mustard-spread bread slice melted into the sauce to thicken.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Carbonnade flamande is the canonical Flemish beef stew, and arguably Belgium's most identity-defining home dish. The construction is built on three Belgian-specific moves. First, the beer: not red wine like a French daube but a dark Belgian abbey ale - Chimay Bleue, Westmalle Dubbel, Leffe Brune, or any dubbel-style Trappist - which gives the sauce its toasted, slightly sweet, raisin-and-coffee character. Second, the caramelised onions: a generous quantity sliced and cooked down slowly in butter until properly bronzed before the meat joins them. Third, the bread-and-mustard slice: a piece of country bread (or a slice of pain d'épices for the sweeter Flemish variant) thickly spread with grainy Dijon mustard, placed mustard-side-down on the surface of the stew about thirty minutes before serving, where it slumps into the sauce and acts as both thickener and seasoning. The beef is chuck or shin, cut into 4 cm cubes and browned hard in fat (traditionally beef tallow; butter works) before joining the onions. The braise runs at the lowest possible simmer for at least three hours. Serve with Belgian frites (mandatory in cafés), boiled new potatoes, or buttered noodles; pair with the same beer used in the cooking. Three details: BROWN THE BEEF PROPERLY (dark crust on every side, in batches; this is half the flavour), USE A DARK ABBEY ALE (light pilsner doesn't have enough body; the malt sweetness is what separates carbonnade from a French braise), and THE MUSTARD BREAD GOES IN AT THE END (too early and it disintegrates; thirty minutes is right).
+Carbonnade flamande is the canonical Flemish beef stew, and arguably Belgium's most identity-defining home dish. It's built on three Belgian-specific moves. First, the beer: not red wine like a French daube but a dark abbey ale (Chimay Bleue, Westmalle Dubbel, Leffe Brune, any dubbel-style Trappist), which gives the sauce its toasted, faintly sweet, raisin-and-coffee character. Second, generous caramelised onions, sliced and cooked down slowly in butter until properly bronzed before the meat joins them. Third, the bread-and-mustard slice: a piece of country bread thickly spread with grainy Dijon, placed mustard-side-down on the surface of the stew thirty minutes before serving, where it slumps in and acts as both thickener and seasoning. Chuck or shin, browned hard, braised at the lowest possible simmer for three hours. Served with Belgian frites or boiled potatoes, with a glass of the same beer used in the braise.
 
 ## Ingredients
 

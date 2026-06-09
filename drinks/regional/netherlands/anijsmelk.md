@@ -2,7 +2,7 @@
 
 ![Anijsmelk](resources/anijsmelk.jpg)
 
-*The Netherlands' canonical winter children's drink: a tall mug of whole milk warmed gently with crushed whole star anise, finished with a generous spoonful of sugar and a dust of cinnamon, strained, and served piping hot. The aniseed scent fills the entire kitchen; the gentle warmth is the canonical bedtime drink for Dutch children from October to March. Sold at Dutch winter markets as a hot wintertime alternative to mulled wine; made in every Dutch grandmother's kitchen when grandchildren come for a visit. Comfort itself.*
+*The Netherlands' winter children's drink: whole milk warmed gently with crushed star anise, sweetened with sugar and dusted with cinnamon, strained and served piping hot.*
 
 **Serves:** 2
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of the country's most identity-defining warm beverages. The construction is brilliantly simple - three ingredients (whole milk, whole star anise, sugar) - but the technique matters. First, the milk: whole milk only (skim or semi-skim doesn't carry the anise oil properly); the canonical Dutch grandmother's version uses unhomogenised milk from the local dairy if available. Second, the anise: whole star anise pods (not anise seed, not anise extract, not fennel seed - the specific star-shape pod from Illicium verum). The pods are lightly crushed with a knife or pestle to release their volatile oils, then warmed in the milk for 8-10 minutes (a longer steep gives stronger flavour; under 6 minutes leaves the milk thin). Third, the sweetness: granulated white sugar, 1 tablespoon per cup, dissolved into the warm milk. Some modern Dutch home recipes add a small touch of vanilla or a dust of cinnamon on top; the canonical version is just milk + anise + sugar. The drink is strained to remove the star anise pods (they don't dissolve and would float in the mug) and served immediately in a tall mug. Often paired with a Dutch speculaas biscuit, a piece of taai-taai (Dutch chewy aniseed cookie), or a small chunk of pepernoten (Sinterklaas spice biscuits) - the canonical Dutch winter bedtime ritual. Three details: USE WHOLE MILK ONLY (skim and semi-skim don't hold the anise oil; the fat is the carrier), CRUSH THE STAR ANISE LIGHTLY (a quick smash with a knife flat or a pestle to release the volatile oils), and DON'T BOIL THE MILK (a gentle simmer 8-10 minutes at 85-90°C; boiling scorches the milk and creates a skin).
+Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of the country's most identity-defining warm beverages: the canonical bedtime drink for Dutch children from October to March, made in every Dutch grandmother's kitchen and sold at Dutch winter markets as a hot alternative to mulled wine. Three ingredients only (whole milk, whole star anise, sugar) but the technique matters. Whole milk is non-negotiable: skim or semi-skim doesn't carry the anise oil. The pods are specifically star anise from Illicium verum (not anise seed, not fennel seed); lightly crushed to release the volatile oils, then warmed gently in the milk for eight to ten minutes (a longer steep gives stronger flavour; under six leaves the milk thin). Sweetened with a tablespoon of sugar per cup. Strained to remove the pods, served piping hot in a tall mug: often paired with a speculaas biscuit, a piece of taai-taai, or a small pepernoten Sinterklaas spice biscuit.
 
 ## Ingredients
 

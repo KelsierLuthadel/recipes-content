@@ -2,7 +2,7 @@
 
 ![Liège Waffles](resources/liege-waffles.jpg)
 
-*Belgium's denser, sweeter waffle: a brioche-style yeasted dough studded with pearl sugar, kneaded by hand till the sugar is fully embedded, rested, then cooked in a hot waffle iron till the pearl sugar caramelises into hard sticky pockets that crunch under the teeth. Uneven, oval, with crispy caramelised sugar crust outside and chewy bread inside. Eaten hot from a street cart in Liège, Brussels or Antwerp; never on a plate at home with cream and strawberries (that's the Brussels waffle, a different beast).*
+*Belgium's denser, sweeter waffle: brioche-style yeasted dough studded with pearl sugar that caramelises into hard sticky pockets in the iron. Eaten hot from a street cart.*
 
 **Serves:** 8 waffles
 
@@ -11,7 +11,7 @@
 **Cook Time:** 4 minutes per waffle
 
 ## Overview
-Liège waffles (gaufre de Liège in French, Luikse wafel in Flemish) are the dense, sweet, chewy waffles that Belgians eat from street carts. They are entirely different from the Brussels waffle (which is light, rectangular, eaten on a plate with cream and strawberries). The Liège construction is built around three specifics. First, the dough: a brioche-style yeasted dough enriched with butter and eggs, soft and slightly sticky, that rises twice before cooking. Second, the pearl sugar (sucre perlé / parelsuiker / nib sugar): coarse white sugar pearls about 4 mm in diameter, kneaded into the dough at the end so they survive baking intact. As the waffle cooks, the pearls partially melt at the edges, caramelise, and form sticky crunchy nuggets throughout - the texture is the entire point. Third, the iron: a Belgian iron with deep oval pockets (not square Brussels-style); cooked at 200°C for 3-4 minutes till the outer caramel is hard and amber. Pearl sugar is non-negotiable - granulated sugar dissolves entirely into the dough and you don't get the caramelised pockets; demerara or turbinado are too small. You can find pearl sugar in specialty baking aisles or order online; Lars Lithuanian Pearl Sugar is the common UK/US import. Eat them hot, plain - the original is unadorned, the sugar is the decoration. Brussels street carts sometimes offer chocolate sauce or strawberries, but the Liège purist eats them with nothing. Three details: PEARL SUGAR ONLY (4 mm pearls; nothing else does the job), DOUGH RESTS TWICE (90 minutes plus 30 minutes; the gluten development is what gives the chewy interior), and HOT IRON, SHORT BAKE (200°C for 3-4 minutes; longer burns the caramelised sugar).
+Liège waffles are the dense, sweet, chewy waffles that Belgians eat from street carts. Entirely different from the Brussels waffle (which is light, rectangular, eaten on a plate with cream and strawberries). The construction is built around three specifics. First, the dough: brioche-style and yeasted, enriched with butter and eggs, soft and slightly sticky, risen twice. Second, the pearl sugar: coarse white sugar pearls about 4 mm across, kneaded in at the end so they survive baking intact. As the waffle cooks, the pearls partially melt at the edges, caramelise and form sticky crunchy nuggets throughout. The texture is the entire point. Third, the iron: deep oval pockets (not square Brussels-style), cooked at 200 °C for three or four minutes till the outer caramel is hard and amber. Pearl sugar is non-negotiable; granulated sugar dissolves into the dough. Eat them hot and plain.
 
 ## Ingredients
 

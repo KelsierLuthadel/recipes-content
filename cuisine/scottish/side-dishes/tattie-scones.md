@@ -2,7 +2,7 @@
 
 ![Tattie Scones](resources/tattie-scones.jpg)
 
-*Scotland's griddle-cooked potato flatbread: cold mashed potato mixed with flour and butter, rolled thin, cut into triangles, and dry-toasted on a hot griddle till golden-brown. Eaten with butter and jam at tea-time, or fried with eggs and bacon as the canonical Scottish breakfast side. The Scottish answer to a crumpet, and a use for leftover Sunday mash.*
+*Scotland's griddle-cooked potato flatbread: cold mashed potato mixed with flour and butter, rolled thin, cut into triangles and dry-toasted till golden-brown.*
 
 **Serves:** 4 (makes 8 triangles)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Tattie scones (also called potato scones or "potato cakes" in some Scottish kitchens) are Scotland's griddle-cooked potato flatbread - a humble, frugal, infinitely useful dish that grew out of using up leftover mashed potato from Sunday lunch. The construction couldn't be simpler: cold mashed potato (yesterday's leftovers, or freshly made and chilled) is mixed with flour, melted butter and a pinch of salt; the dough is rolled thin (about 5 mm) on a floured surface, cut into rounds or triangles, and dry-toasted on a hot griddle or heavy frying pan for 3-4 minutes per side till golden-brown and lightly puffed. The finished scones are soft and slightly chewy, with a subtle potato flavour and a hint of butter-richness. They're versatile: eaten warm with butter and strawberry jam at tea-time (the canonical Scottish high-tea item), fried with bacon and eggs on a Scottish full breakfast plate, served alongside a roast as a starchy side, or split and stuffed with cheese and pickle as a portable lunch. Every Scottish bakery and supermarket sells packs of fresh tattie scones, but the home-made version is incomparably better. Three details: cold mashed potato (warm potato makes the dough sticky), dry griddle (no oil - the scones toast, not fry), and serve warm (cold tattie scones can be re-toasted, but they're best straight off the griddle).
+Tattie scones (also called potato scones, or just "potato cakes" in some Scottish kitchens) are Scotland's griddle-cooked potato flatbread, a humble frugal dish that grew out of using up leftover mashed potato from Sunday lunch. The construction couldn't be simpler: cold mashed potato (yesterday's leftovers, or freshly made and chilled) mixes with flour, melted butter and a pinch of salt; the dough rolls thin (about 5 mm), cuts into rounds or triangles, and dry-toasts on a hot griddle till golden-brown and lightly puffed. Soft and slightly chewy with a subtle potato flavour and a hint of butter-richness. Eaten warm with butter and strawberry jam at tea-time, or fried with bacon and eggs as part of a Scottish full breakfast, or alongside a roast as a starchy side. Every Scottish bakery sells packs of fresh tattie scones, but the home-made version is incomparably better.
 
 ## Ingredients
 

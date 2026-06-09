@@ -2,7 +2,7 @@
 
 ![Speculoos](resources/speculoos.jpg)
 
-*Belgium's signature spiced biscuit: a flat, crisp, deep-amber rectangle of buttery dough flavoured with cinnamon, nutmeg, cloves, ginger, cardamom and dark candi sugar (the Belgian molasses-rich brown sugar). Caramelised crisp on the outside, just-tender inside. The biscuit Belgians serve with every cup of coffee, the inspiration for cookie butter (speculoospasta), and the cooling-rack cousin of Dutch speculaas. Made traditionally for Sint-Niklaas on 6 December but now eaten year-round.*
+*Belgium's signature spiced biscuit: flat, crisp, deep-amber rectangles flavoured with cinnamon, nutmeg, cloves, ginger and dark candi sugar. Served with coffee year-round.*
 
 **Serves:** 30 biscuits
 
@@ -11,7 +11,7 @@
 **Cook Time:** 14 minutes per tray
 
 ## Overview
-Speculoos is Belgium's most identity-defining biscuit, and the reason "cookie butter" became a thing in the rest of the world (Lotus Biscoff is the Belgian speculoos sold worldwide; the spread is made by grinding the biscuit). Three things distinguish a Belgian speculoos from any other spice biscuit. First, the spice mix: predominantly cinnamon, with a Belgian-specific support cast of cloves, nutmeg, cardamom, ginger, and white pepper - the proportions differ from the Dutch speculaas (which leans more heavily on cloves) and from the Anglo-American gingerbread (which is more ginger-forward). Second, the sugar: dark candi sugar (Belgian brown candi sugar, sometimes called muscovado-style), which gives speculoos its deep caramel-amber colour and slight molasses notes. Real dark brown sugar is the workable substitute. Third, the chill: the dough rests in the fridge for at least 4 hours (overnight ideal) before rolling - this lets the spices bloom and the gluten relax so the biscuits hold their shape. Traditionally pressed into a carved wooden mould (often shaped as St Nicholas, a windmill, or a horse) for Sint-Niklaas, modern home recipes roll the dough out and cut it into rectangles. The Lotus Bakeries factory version is what most people know; this homemade is closer to the original 19th-century recipe. Three details: USE DARK CANDI OR DARK MUSCOVADO SUGAR (golden caster won't give you the right colour or molasses depth), CHILL THE DOUGH (overnight ideal; 4 hours minimum), and ROLL THIN (3 mm; thicker doesn't crisp through).
+Speculoos is Belgium's most identity-defining biscuit, and the reason cookie butter became a thing in the rest of the world: Lotus Biscoff is the Belgian speculoos sold worldwide, and the spread is made by grinding the biscuit. Three things distinguish a Belgian speculoos from any other spice biscuit. First, the spice mix: predominantly cinnamon, with a Belgian-specific support cast of cloves, nutmeg, cardamom, ginger and white pepper; the proportions differ from Dutch speculaas (heavier on cloves) and Anglo-American gingerbread (more ginger-forward). Second, the sugar: dark candi sugar gives speculoos its deep caramel-amber colour and slight molasses note; muscovado is the workable substitute. Third, the chill: the dough rests in the fridge for at least four hours (overnight ideal), which lets the spices bloom and the gluten relax. Traditionally pressed into carved wooden moulds for Sint-Niklaas on 6 December; modern recipes roll the dough out and cut rectangles.
 
 ## Ingredients
 

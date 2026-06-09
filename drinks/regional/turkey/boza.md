@@ -2,7 +2,7 @@
 
 ![Boza](resources/boza.jpg)
 
-*Turkey's ancient fermented grain drink: millet (or bulgur) cooked into a thick porridge, sweetened, fermented gently for two days until lightly tangy and faintly fizzy, served in small glasses topped with cinnamon and a handful of roasted chickpeas. The street drink of Istanbul winter, sold by vendors calling "Bozaaa!" through the cold evening streets.*
+*Turkey's ancient fermented grain drink: millet cooked into a thick porridge, sweetened and fermented two days until lightly tangy and faintly fizzy, served with cinnamon and roasted chickpeas.*
 
 **Serves:** 8 small glasses (makes about 1.2 litres)
 

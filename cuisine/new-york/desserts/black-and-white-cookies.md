@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes (plus 1 hour cooling)
 
 ## Overview
-Black and white cookies are one of New York's most iconic bakery items and a fixture of every Jewish bakery and bodega in Manhattan and Brooklyn (Glaser's Bake Shop in the East Village made them from 1902 to 2018; William Greenberg's Desserts on the Upper East Side still does): not really a cookie in the crisp sense (more a flat soft cake), but called a cookie nonetheless. A vanilla cake batter (butter, sugar, eggs, vanilla, milk, flour, baking powder) dropped onto a baking sheet to make 8-10 cm wide round flat cookies; baked till just-set, flat side up. Once cool, iced in two halves: one half white vanilla fondant, one half dark chocolate fondant, with a sharp dividing line down the middle. Three details: cake-like batter (not crisp cookie), flat side up for icing, two-color icing dividing line.
+Black and white cookies are one of New York's most iconic bakery items and a fixture of every Jewish bakery and bodega in Manhattan and Brooklyn (Glaser's Bake Shop in the East Village made them from 1902 to 2018; William Greenberg's Desserts on the Upper East Side still does): not really a cookie in the crisp sense (more a flat soft cake), but called a cookie nonetheless. A vanilla cake batter (butter, sugar, eggs, vanilla, milk, flour, baking powder) dropped onto a baking sheet to make 8-10 cm wide round flat cookies; baked till just-set, flat side up. Once cool, iced in two halves: one half white vanilla fondant, one half dark chocolate fondant, with a sharp dividing line down the middle.
 
 ## Ingredients
 

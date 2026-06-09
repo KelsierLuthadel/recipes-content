@@ -14,8 +14,7 @@ tags:
   - eggs
   - onion
   - potato
-mentions:
-  - cuisine/american/pulled-pork
+mentions: []
 ingredients:
   - qty: 1
     unit: kg

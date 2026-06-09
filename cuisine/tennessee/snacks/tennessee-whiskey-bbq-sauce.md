@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Tennessee whiskey BBQ sauce is the Tennessee twist on the wider American BBQ sauce tradition, using the state's most famous export (Jack Daniel's, or any Tennessee whiskey such as George Dickel) as the signature flavour: a base of ketchup, brown sugar, apple cider vinegar, Worcestershire sauce, yellow mustard, garlic, onion, paprika, smoked paprika, cayenne and black pepper, with a generous splash of Tennessee whiskey added at the start so the alcohol cooks off but the toasted-oak-and-corn flavour remains. Simmered 25-30 minutes till thick and glossy with a deep red-brown colour. Used as a glaze for ribs in the last 30 minutes of smoking, on Memphis pulled pork sandwiches, as a dipping sauce alongside dry-rub ribs, or brushed on grilled chicken. Three details: Tennessee whiskey (not bourbon), simmer to thicken, balance sweet-tangy-smoky.
+Tennessee whiskey BBQ sauce is the Tennessee twist on the wider American BBQ sauce tradition, using the state's most famous export (Jack Daniel's, or any Tennessee whiskey such as George Dickel) as the signature flavour: a base of ketchup, brown sugar, apple cider vinegar, Worcestershire sauce, yellow mustard, garlic, onion, paprika, smoked paprika, cayenne and black pepper, with a generous splash of Tennessee whiskey added at the start so the alcohol cooks off but the toasted-oak-and-corn flavour remains. Simmered 25-30 minutes till thick and glossy with a deep red-brown colour. Used as a glaze for ribs in the last 30 minutes of smoking, on Memphis pulled pork sandwiches, as a dipping sauce alongside dry-rub ribs, or brushed on grilled chicken.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Bajan Rice and Peas](resources/rice-and-peas.jpg)
 
-*Barbados's canonical side: long-grain rice cooked in coconut milk with pigeon peas, an onion, a clove of garlic, fresh thyme and a generous whole Scotch bonnet pepper (kept whole - flavour without aggressive heat). The rice absorbs the coconut milk and a small amount of the pigeon-pea broth as it steams; the canonical Sunday-lunch side that goes with stew chicken, Bajan fried chicken, fish, or anything else on the plate. Despite the name, the "peas" are actually pigeon peas (gungo peas in Jamaica) - small dried beans, not garden peas.*
+*Barbados's canonical side: long-grain rice cooked in coconut milk with pigeon peas, onion, garlic, thyme and a whole Scotch bonnet for flavour without aggressive heat.*
 
 **Serves:** 6 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Bajan rice and peas (called "rice and peas" across the English Caribbean) is the canonical Sunday-lunch starch. Three things make it identity-Bajan rather than generic Caribbean. First, the pigeon peas: dried pigeon peas (Cajanus cajan; called "gungo peas" in Jamaica, "guandules" in Spanish-speaking Caribbean) are the canonical bean - small, slightly bitter, deeply aromatic. They're soaked overnight, then boiled with onion, garlic and bay till tender (or use canned pigeon peas as a shortcut). Second, the coconut milk: the rice cooks in a mix of coconut milk + pigeon-pea cooking broth (or water). The coconut milk is what gives the rice its slight sweet richness; without it, you've made plain rice. Some Bajan home cooks use full-fat coconut milk for richness; others use a thinner version. Third, the whole Scotch bonnet: a whole intact Scotch bonnet (uncut, just dropped in) goes into the pot for the rice's cooking. The whole pepper gives flavour and aroma but minimal heat (the heat is in the chopped seeds and ribs); if you want more heat, prick the pepper a few times with a fork; if you want less, leave intact. Fish out the pepper before serving (some Bajan diners eat the pepper if they're brave). Eaten alongside stew chicken, Bajan fried chicken, cou-cou (instead of cornmeal cou-cou - rice and peas is the Sunday version), or with any Bajan main. Three details: USE PIGEON PEAS NOT GARDEN PEAS (gungo peas / pigeon peas / guandules - small slightly bitter Caribbean beans; never substitute green peas), COCONUT MILK IS NON-NEGOTIABLE (without it, this is plain rice; with it, it's rice and peas), and WHOLE SCOTCH BONNET KEPT INTACT (flavour without aggressive heat; remove before serving).
+Bajan rice and peas (called "rice and peas" across the English Caribbean) is the canonical Sunday-lunch starch. Despite the name, the "peas" are actually pigeon peas (gungo peas in Jamaica, guandules in Spanish-speaking Caribbean), small dried beans rather than garden peas. They soak overnight, then boil with onion, garlic and bay till tender (canned pigeon peas are the workable shortcut). The rice cooks in a mix of coconut milk and the pigeon-pea cooking broth; the coconut milk is what gives the rice its slight sweet richness, and without it you've made plain rice. The whole intact Scotch bonnet is the canonical Bajan trick: dropped uncut into the pot, it gives flavour and aroma but minimal heat (the heat is in the seeds and ribs). Prick it a few times if you want more heat; fish it out before serving. Eaten alongside stew chicken, Bajan fried chicken, fish or anything else on the Sunday plate.
 
 ## Ingredients
 

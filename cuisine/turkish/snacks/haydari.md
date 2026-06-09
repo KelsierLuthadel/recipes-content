@@ -2,7 +2,7 @@
 
 ![Haydari](resources/haydari.jpg)
 
-*Turkey's yogurt-feta-mint dip: thick strained yogurt blended with crumbled feta, crushed garlic, dried mint, chopped walnuts, fresh dill and a drizzle of olive oil. The Turkish meze classic with more body than cacık, eaten with warm pide bread, raw vegetables and grilled meat.*
+*Turkey's yogurt-feta-mint dip: thick strained yogurt blended with crumbled feta, garlic, dried mint, walnuts and fresh dill: the thicker, denser cousin to cacık.*
 
 **Serves:** 4-6 (as a meze)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Haydari (pronounced hay-da-ree) is Turkey's other great yogurt-based meze and the thicker cousin of cacık: a dense spreadable dip made from thick strained yogurt blended with crumbled feta cheese, crushed garlic, dried mint, finely chopped walnuts, fresh dill and parsley, salt and a drizzle of olive oil; finished with a small pool of olive oil on top and sprinkles of dried mint, Aleppo pepper and sumac. Where cacık is light and often thin (eaten with a spoon as a cooling side), haydari is thick and assertive (eaten with bread or vegetables as a meze dip). The dish appears on every meyhane (traditional Turkish tavern) meze table alongside ezme, hummus, mücver, dolma and the various other small plates; it's also a staple of home meze spreads. Three details define proper haydari. First, the cheese gives the proper Turkish character. Crumbled feta (or properly Turkish "beyaz peynir") is essential. Without the cheese, you have plain garlicky yogurt; with it, you have proper haydari. Second, dried mint is non-negotiable. Fresh mint alone gives a different flavour; dried mint (nane) gives the canonical Turkish profile. Use both for the best result. Third, the walnuts. Finely chopped walnuts give crunch and a slight bitter depth that balances the richness. Some Turkish home cooks skip the walnuts (for a smoother version); the classic meyhane haydari includes them.
+Haydari (pronounced hay-da-ree) is Turkey's other great yogurt-based meze and the thicker cousin of cacık: a dense spreadable dip rather than a cooling side. Where cacık is light and often thin (eaten with a spoon between bites of richer food), haydari is thick and assertive (eaten with bread or vegetables as a meze dip). The cheese gives the proper Turkish character: crumbled feta (or Turkish beyaz peynir) blended into strained yogurt is what turns plain garlicky yogurt into proper haydari. Dried mint (nane) is non-negotiable: fresh alone gives a different profile, and both is best. Finely chopped walnuts give crunch and a slight bitter depth that balances the richness; the classic meyhane (tavern) version always includes them, though some home cooks skip them for a smoother dip. Crushed garlic, fresh dill and parsley round out the mix. Finished with a small pool of olive oil and sprinkles of dried mint, Aleppo pepper and sumac on top.
 
 ## Ingredients
 

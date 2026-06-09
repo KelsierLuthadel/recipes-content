@@ -2,7 +2,7 @@
 
 ![Thai Red Curry Paste](resources/thai-red-curry-paste.jpg)
 
-*Thailand's red curry paste: dried red chillies, lemongrass, galangal, kaffir lime, garlic and shrimp paste pounded into a deep.*
+*Thailand's red curry paste: dried red chillies, lemongrass, galangal, garlic and shrimp paste pounded into a deep brick-red base.*
 
 **Makes:** Approx. 250 ml (1 cup)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Thai red curry paste (prik gaeng phed) is the foundation of the most common Thai curries, built around dried red bird's-eye chillies, lemongrass, galangal, garlic, shallots, coriander root and shrimp paste pounded to a deep brick-red paste that stains the oil red the moment it hits a hot pan. The colour and heat come from the chillies, so adjust the number to taste (twelve gives a moderate heat; deseed more for milder, leave more seeds for fiercer); a couple of fresh red spur chillies pounded through brighten the colour without adding much heat. Toast cumin and coriander seeds in a dry pan over medium till fragrant, grind to a powder with white pepper in a mortar. Add the soaked dried chillies and pound to a paste, then in go roughly chopped garlic, finely chopped shallots, sliced galangal and lemongrass, the fresh red spur chillies, chopped coriander stalks and lime zest. Pound 40 to 60 minutes till smooth (or pulse in a small processor with a splash of water if you're short on time, though the texture suffers slightly). Add a teaspoon of shrimp paste and pound another 5 minutes till fully incorporated. Stores 2 weeks refrigerated in an airtight jar, or freezes 2 months in small portions. Use in red curry, jungle curry, prik king, or any time you want the most versatile Thai curry base.
+Thai red curry paste (prik gaeng phed) is the foundation of the most common Thai curries, built around dried red bird's-eye chillies, lemongrass, galangal, garlic, shallots, coriander root and shrimp paste pounded to a deep brick-red paste that stains the oil red the moment it hits a hot pan. Heat is dialled by the chillies (twelve is a moderate level; deseed more for milder); a couple of fresh red spur chillies pounded through brighten the colour without adding much heat. Toasted cumin and coriander with white pepper give backbone; the shrimp paste at the end carries the canonical Thai funk. The result keeps two weeks in the fridge in an airtight jar or two months in small frozen portions. Used in red curry, jungle curry, prik king or any time you want the most versatile Thai curry base.
 
 ## Ingredients
 ### Whole spices

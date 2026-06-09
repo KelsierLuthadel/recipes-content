@@ -2,7 +2,7 @@
 
 ![Tam Mak Hung](resources/tam-mak-hung.jpg)
 
-*Laos's bracingly sour-spicy-funky everyday salad: shredded unripe green papaya pounded in a tall clay mortar with garlic, bird's-eye chillies, palm sugar, lime juice, fish sauce, dried shrimp, padaek (Lao fermented fish sauce, the canonical Lao signature) and chopped tomato. The Lao version differs from the Thai som tam in three identifying ways: padaek (the dark, funky, fermented Lao fish-paste sauce) replaces the cleaner Thai fish sauce; the pounding is more aggressive; the salad is wetter, more aromatic and significantly stronger-tasting. Eaten with sticky rice and laap; the canonical Lao midday meal.*
+*Laos's sour-spicy-funky everyday salad: shredded green papaya pounded in a tall clay mortar with garlic, chillies, palm sugar, lime, fish sauce, dried shrimp, padaek and tomato.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Tam mak hung is Laos's everyday salad and one of the country's most identity-defining dishes. The construction is built in the mortar - not chopped on a board and tossed in a bowl. The mortar pounding is what makes the dish a "tam" (pound), bruising the green papaya so the dressing seeps into its flesh. Three Lao-specific moves distinguish this from the Thai som tam. First, the padaek: Lao fermented fish sauce (also called pla ra in Thai, but the Lao version is darker, funkier, more fish-forward). Padaek is sold in jars at Asian shops; substitute with a 50/50 mix of Thai fish sauce + a teaspoon of shrimp paste if you can't find it. The padaek is the Lao signature - it's what gives the dressing its deep funky umami beneath the sour and spicy notes. Second, the green papaya shred: the canonical Lao technique is to score the papaya with a sharp knife (10-12 vertical cuts, 3 mm deep) then slice across with the same knife in thin shaves - the result is irregular ribbons rather than uniform shreds. A julienne peeler works as a substitute. Third, the mortar pounding: garlic and chilli go in first and get pounded to a paste; then the papaya, dried shrimp, tomato and the wet ingredients - the whole salad is bruised by the pestle, not just dressed. Sticky rice and a small piece of pork rind (sai oua sausage or cooked pork) on the side. Three details: USE PADAEK (Lao fermented fish sauce; canonical), POUND DON'T STIR (the mortar bruising is the technique), and ADJUST BEFORE SERVING (taste in the mortar; balance sour, salty, sweet, hot).
+Tam mak hung is Laos's everyday salad and one of the country's most identity-defining dishes, eaten with sticky rice and laap as the canonical Lao midday meal. The construction is built in the mortar, not chopped on a board and tossed in a bowl. The mortar pounding is what makes the dish a "tam" (pound), bruising the green papaya so the dressing seeps into its flesh. The padaek is the Lao signature that sets this apart from the cleaner Thai som tam: a dark, funky, deeply fermented Lao fish sauce that gives the dressing its deep umami beneath the sour and spicy notes. Sold in jars at Asian shops; a 50/50 mix of Thai fish sauce and shrimp paste substitutes. The green papaya shred is canonical too: scored with a sharp knife in vertical cuts then shaved across into irregular ribbons rather than uniform shreds. Pounding order: garlic and chilli first to a paste, then papaya, dried shrimp, tomato and the wet ingredients all bruised by the pestle rather than just dressed.
 
 ## Ingredients
 

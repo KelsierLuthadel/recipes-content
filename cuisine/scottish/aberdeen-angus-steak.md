@@ -2,7 +2,7 @@
 
 ![Aberdeen Angus Steak](resources/aberdeen-angus-steak.jpg)
 
-*Scotland's pride: a thick Aberdeen Angus sirloin or ribeye, dry-aged, seared hard in beef dripping till deeply crusted, rested, then plated with a whisky-and-cream pepper sauce. The native Scottish breed (Aberdeen Angus, registered 1862) gives beef of legendary marbling and depth. The dish you'd order in any Scottish steakhouse from Inverness to Edinburgh, and the one Scottish gastronomes argue is the country's best meat dish, full stop.*
+*Scotland's pride: a thick dry-aged Aberdeen Angus sirloin or ribeye seared hard in beef dripping till deeply crusted, plated with a whisky-and-cream pepper sauce.*
 
 **Serves:** 2
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Aberdeen Angus is the native Scottish beef breed, developed in north-east Scotland (Aberdeenshire and Angus county) during the 19th century. The breed is hornless, polled, marbled, and produces beef of exceptional flavour and tenderness; Aberdeen Angus beef is recognised as one of the world's premier beef breeds and is widely exported. In Scotland, the dish is straightforward: a thick Aberdeen Angus sirloin or ribeye (300-400 g per person, ideally dry-aged for 28+ days) is brought to room temperature, seasoned generously with sea salt and cracked pepper, seared hard in a heavy pan with beef dripping (or oil) till deeply crusted on both sides and a thumb of butter is added for the last 60 seconds to baste, then rested before slicing or serving whole. The sauce - Scotland's signature whisky-pepper cream sauce - is made in the same pan: shallots sweated in the rendered fat, a slosh of single-malt Scotch deglazed (carefully flambéed if you're brave), heavy cream stirred in, cracked black peppercorns, a knob of butter to finish. Plated with hand-cut chips, watercress, and a wedge of grilled tomato. Three details: dry-aged beef (don't bother with un-aged steak - the flavour transformation from 28-day dry-ageing is the entire point), beef dripping (not oil - the dripping crusts better and tastes better), and rest the steak (5 minutes minimum, 8 for thick steaks; never carve straight out of the pan).
+The Aberdeen Angus is Scotland's native beef breed, developed in the north-east during the 19th century and now recognised as one of the world's premier beef breeds. The dish is straightforward but reverent: a thick dry-aged sirloin or ribeye, 300 to 400 g per person, brought to room temperature, seasoned with sea salt and cracked pepper, seared hard in beef dripping till deeply crusted, then basted briefly with butter and rested before serving. The whisky-pepper cream sauce that goes with it builds in the same pan, with shallots sweated in the beef fat, a slosh of single-malt Scotch deglazed and reduced, heavy cream stirred in, cracked black peppercorns and a final knob of butter to finish. Plated with hand-cut chips, a generous handful of watercress and a wedge of grilled tomato.
 
 ## Ingredients
 

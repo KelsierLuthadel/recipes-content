@@ -2,7 +2,7 @@
 
 ![Italian Hot Dog](resources/italian-hot-dog.jpg)
 
-*Newark, New Jersey's deep-fried hot dog in pizza bread: a deep-fried natural-casing hot dog tucked into a hollowed-out half of round Italian pizza bread, layered with deep-fried sliced potatoes, fried bell peppers, fried onions and a stripe of ketchup or mustard. The Jimmy Buff's signature since 1932; the Italian-American Newark working-class lunch.*
+*Newark's deep-fried hot dog in pizza bread: a fried natural-casing dog tucked into hollowed Italian pizza bread with fried potatoes, peppers and onions, and a stripe of mustard.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-The Italian hot dog is a Newark, New Jersey, Italian-American invention dating from 1932 (Jimmy Buff's, founded by James "Jimmy Buff" Racioppi on Newark's First Avenue, is the canonical originator and still operates today): a deep-fried natural-casing all-beef hot dog tucked into a hollowed-out half of round Italian pizza bread (also called pizza bread or pizza-roll bread - a fluffy round 20cm flat bread, halved through the middle and the soft inside scooped out to make a pocket). Layered with deep-fried sliced potatoes (the canonical Newark Italian dog has fried potatoes inside, not French fries beside), deep-fried sliced bell peppers (red and green), deep-fried sliced onions, and a stripe of yellow mustard or ketchup. The bread is meant to absorb the oils from the fried fillings, becoming richly saturated. Sold at Jimmy Buff's, Tommy's, Charlie's Famous and the few other surviving Newark-area Italian-hot-dog stands. Three details: round Italian pizza bread (the deep pocket is the dish's structural signature), all components deep-fried (dogs, potatoes, peppers, onions), eaten by hand with the bread saturated in cooking oils.
+The Italian hot dog is a Newark, New Jersey, Italian-American invention dating from 1932 (Jimmy Buff's, founded by James "Jimmy Buff" Racioppi on Newark's First Avenue, is the canonical originator and still operates today): a deep-fried natural-casing all-beef hot dog tucked into a hollowed-out half of round Italian pizza bread (also called pizza bread or pizza-roll bread - a fluffy round 20cm flat bread, halved through the middle and the soft inside scooped out to make a pocket). Layered with deep-fried sliced potatoes (the canonical Newark Italian dog has fried potatoes inside, not French fries beside), deep-fried sliced bell peppers (red and green), deep-fried sliced onions, and a stripe of yellow mustard or ketchup. The bread is meant to absorb the oils from the fried fillings, becoming richly saturated. Sold at Jimmy Buff's, Tommy's, Charlie's Famous and the few other surviving Newark-area Italian-hot-dog stands.
 
 ## Ingredients
 

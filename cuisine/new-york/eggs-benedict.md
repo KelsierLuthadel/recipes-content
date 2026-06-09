@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Eggs Benedict is one of the most iconic brunch dishes and a New York invention from around 1894, claimed by both Delmonico's (the legendary Wall Street restaurant) and the Waldorf Astoria hotel (Lemuel Benedict supposedly ordered the components for a hangover cure): a toasted English muffin half topped with a slice of Canadian bacon (or back bacon, or ham; some versions use crispy streaky bacon), a poached egg with a runny yolk, and a generous ladle of hollandaise sauce. The hollandaise is the most challenging component (egg yolks whisked over a bain-marie with melted butter, finished with lemon juice, salt and cayenne; needs gentle heat and a steady hand). Three details: properly poached eggs (runny yolk), homemade hollandaise (worth the effort), toasted English muffin (don't skip the toast).
+Eggs Benedict is one of the most iconic brunch dishes and a New York invention from around 1894, claimed by both Delmonico's (the legendary Wall Street restaurant) and the Waldorf Astoria hotel (Lemuel Benedict supposedly ordered the components for a hangover cure): a toasted English muffin half topped with a slice of Canadian bacon (or back bacon, or ham; some versions use crispy streaky bacon), a poached egg with a runny yolk, and a generous ladle of hollandaise sauce. The hollandaise is the most challenging component (egg yolks whisked over a bain-marie with melted butter, finished with lemon juice, salt and cayenne; needs gentle heat and a steady hand).
 
 ## Ingredients
 

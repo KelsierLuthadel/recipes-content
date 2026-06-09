@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Carne adovada (literally "marinated meat") is the iconic Southwestern Hispanic pork dish, particularly associated with New Mexico and the Pueblo Indian Southwest tradition: cubes of pork shoulder marinated overnight in a thick paste of rehydrated dried New Mexico red chillies (chimayo, Hatch red, or substitute with ancho + guajillo), crushed garlic, ground cumin, dried Mexican oregano, salt and lime juice; then slow-cooked in the marinade till the pork is fall-apart tender and the chile sauce reduces to a thick mahogany coating. Served in burritos, with eggs at breakfast (huevos con carne adovada), with warm tortillas, or as a main with rice and beans. Three details: dried red chillies (not chili powder), overnight marinade, slow-cook properly. The dish takes time but the result is one of the deepest red-chile flavours in American cooking.
+Carne adovada (literally "marinated meat") is the iconic Southwestern Hispanic pork dish, particularly associated with New Mexico and the Pueblo Indian Southwest tradition: cubes of pork shoulder marinated overnight in a thick paste of rehydrated dried New Mexico red chillies (chimayo, Hatch red, or substitute with ancho + guajillo), crushed garlic, ground cumin, dried Mexican oregano, salt and lime juice; then slow-cooked in the marinade till the pork is fall-apart tender and the chile sauce reduces to a thick mahogany coating. Served in burritos, with eggs at breakfast (huevos con carne adovada), with warm tortillas, or as a main with rice and beans.
 
 ## Ingredients
 

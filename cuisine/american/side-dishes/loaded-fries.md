@@ -2,7 +2,7 @@
 
 ![Loaded Fries](resources/loaded-fries.jpg)
 
-*America's bar-and-diner classic: hand-cut fries piled high and smothered with melted cheddar, crumbled bacon, diced jalapeños, sour cream, spring onions, ranch dressing and a sprinkle of Cajun seasoning. The Tex-Mex-leaning American bar food that arrives at every TGI Friday's, sports-bar and chain steakhouse across the country.*
+*America's bar-and-diner classic: hand-cut fries piled high and smothered with melted cheddar, crumbled bacon, jalapeños, sour cream, spring onions and ranch dressing.*
 
 **Serves:** 4 (sharing portion)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Loaded fries are the iconic American sharing-plate / bar-food classic: hand-cut potato batons (or thick-cut French fries; American style is medium-thick, about 1 cm square, twice-fried for crispness) piled into a serving boat or deep dish, smothered with melted cheddar cheese (or a cheddar-Monterey Jack blend for the proper Tex-Mex feel), topped with crumbled crispy bacon, diced fresh jalapeños (or pickled), dollops of sour cream, spring onions, ranch dressing drizzled across, a sprinkle of Cajun or seasoned salt, and sometimes finished with diced tomato, sliced black olives or pickled red onions. The dish became iconic in American chain restaurants in the 1990s-2000s (TGI Friday's, Chili's, Applebee's), spread to every American bar and diner, and has become the canonical American "appetiser to share" alongside nachos, potato skins and buffalo wings. The dish distinguishes itself from British "dirty fries" by the Tex-Mex leaning (cheddar/Monterey Jack rather than mature cheddar; jalapeños rather than pickles; ranch dressing rather than gravy) and from Canadian poutine (which is cheese-curds-and-gravy specific). Three details define proper American loaded fries. First, twice-fried fries. The American technique is the same as British: first fry cooks through, second fry crisps. Second, melted cheese. The cheese must properly melt over the hot fries; if it's just sprinkled cold, it won't bind. Third, multiple toppings. The combination of cheese, bacon, jalapeños, sour cream and ranch is the canonical American loaded-fries profile; don't skip any.
+Loaded fries are the iconic American sharing-plate / bar-food classic: hand-cut medium-thick potato batons twice-fried for crispness, piled into a serving boat and smothered with melted cheddar (or a cheddar-Monterey Jack blend for the proper Tex-Mex feel), topped with crumbled crispy bacon, diced fresh or pickled jalapeños, dollops of sour cream, spring onions, ranch dressing drizzled across and a sprinkle of Cajun or seasoned salt. The dish became iconic in American chain restaurants in the 1990s-2000s (TGI Friday's, Chili's, Applebee's), spread to every American bar and diner, and has become the canonical American sharing appetiser alongside nachos, potato skins and buffalo wings. Distinguished from British "dirty fries" by the Tex-Mex leaning (cheddar/Monterey Jack rather than mature cheddar; jalapeños rather than pickles; ranch dressing rather than gravy) and from Canadian poutine (which is cheese-curds-and-gravy specific). The cheese must properly melt over the hot fries; sprinkled cold, it won't bind. The combination of cheese, bacon, jalapeños, sour cream and ranch is the canonical profile: don't skip any.
 
 ## Ingredients
 

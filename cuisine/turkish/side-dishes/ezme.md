@@ -2,7 +2,7 @@
 
 ![Ezme](resources/ezme.jpg)
 
-*Turkey's red pepper-and-tomato relish: finely chopped tomato, red pepper, onion, parsley, garlic and Aleppo pepper, dressed with pomegranate molasses, olive oil and lemon, served alongside kebabs, grilled meats and flatbread. The Turkish meze table's go-to fresh relish.*
+*Turkey's red-pepper-and-tomato relish: finely chopped tomato, red pepper, onion, parsley, garlic and Aleppo pepper, dressed with pomegranate molasses, olive oil and lemon.*
 
 **Serves:** 4-6 (as a side or meze)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ezme (literally "crushed" or "mashed" in Turkish) is Turkey's signature fresh red pepper-and-tomato relish, a vibrant aromatic side that turns up at every Turkish kebab restaurant and meze table: finely chopped (not blended; the texture is what makes ezme proper) tomato, red bell pepper, onion, garlic, fresh parsley and sometimes mint, seasoned with Aleppo pepper (pul biber), sumac, salt, olive oil, fresh lemon juice and the canonical Turkish ingredient of pomegranate molasses (nar ekşisi; the tart-sweet thick syrup that gives ezme its distinctive dark glossy character). The dish is sharp, bright, slightly sweet, slightly spicy and properly fresh; it cuts through the richness of grilled lamb, beef or chicken, and lifts a meal. Three details define proper ezme. First, chop, don't blend. The proper Turkish ezme is hand-chopped to a fine even dice (about 3-4 mm pieces); food-processed ezme goes watery and lacks the proper texture. If you must use a processor, pulse very briefly (5-6 pulses) and keep the texture chunky. Second, pomegranate molasses (nar ekşisi) is canonical. Without it, you have a generic tomato-pepper salsa; with it, you have proper Turkish ezme. Available at Middle Eastern and Turkish markets, and increasingly at supermarkets. Third, rest the relish briefly before serving. 30 minutes of resting at room temperature lets the salt draw out the vegetable juices and the flavours marry. Don't serve immediately after chopping.
+Ezme (literally "crushed" in Turkish) is Turkey's signature fresh red-pepper-and-tomato relish, a vibrant aromatic side that turns up at every Turkish kebab restaurant and meze table. Sharp, bright, slightly sweet, slightly spicy: it cuts through the richness of grilled lamb, beef or chicken. Chop, don't blend: proper Turkish ezme is hand-chopped to a fine 3-4 mm dice; processed ezme goes watery and lacks the texture. The aromatic mix is tomato, red bell pepper, onion, garlic, fresh parsley and sometimes mint; the seasoning is Aleppo pepper (pul biber), sumac, salt, olive oil, fresh lemon and: non-negotiably: pomegranate molasses (nar ekşisi), the tart-sweet thick syrup that gives ezme its distinctive dark glossy character. Without it you have a generic tomato-pepper salsa. Rested at room temperature for thirty minutes so the salt draws out the vegetable juices and the flavours marry. Eaten alongside grilled meats and flatbread.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Potato latkes (also called levivot or just "latkes") are one of the most iconic Jewish-American foods and the canonical Hanukkah dish (eaten on the eight-night festival commemorating the miracle of the oil that lasted eight days at the Second Temple; hence latkes being fried in lots of oil): grated raw potato and onion squeezed of all moisture (essential for crispness), bound with beaten egg, matzo meal (or flour or breadcrumbs), salt and pepper, formed into thin pancakes, and pan-fried in hot oil till deeply golden and crispy on both sides. Served with sour cream (creamy contrast) and applesauce (sweet contrast); the canonical two accompaniments, both essential. Three details: squeeze potatoes dry (key to crispness), thin pancakes, fry in lots of hot oil.
+Potato latkes (also called levivot or just "latkes") are one of the most iconic Jewish-American foods and the canonical Hanukkah dish (eaten on the eight-night festival commemorating the miracle of the oil that lasted eight days at the Second Temple; hence latkes being fried in lots of oil): grated raw potato and onion squeezed of all moisture (essential for crispness), bound with beaten egg, matzo meal (or flour or breadcrumbs), salt and pepper, formed into thin pancakes, and pan-fried in hot oil till deeply golden and crispy on both sides. Served with sour cream (creamy contrast) and applesauce (sweet contrast); the canonical two accompaniments, both essential.
 
 ## Ingredients
 

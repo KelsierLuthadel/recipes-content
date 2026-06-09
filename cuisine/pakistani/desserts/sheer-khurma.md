@@ -2,7 +2,7 @@
 
 ![Sheer Khurma](resources/sheer-khurma.jpg)
 
-*The Eid morning dessert: vermicelli toasted in ghee, simmered in milk with dates, almonds, pistachios and cashews, scented with cardamom and saffron. The name means "milk with dates" in Persian, and it's eaten as a breakfast on Eid al-Fitr - first thing, after the morning prayers, before the rest of the day's feasting begins.*
+*Pakistan's Eid morning dessert: vermicelli toasted in ghee, simmered in milk with dates, almonds, pistachios and cashews, scented with cardamom and saffron.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-The Eid al-Fitr morning dessert eaten first thing after dawn prayers in Pakistani and North Indian households, before the rest of the day's feasting begins: thin vermicelli toasted in ghee, simmered slowly in milk with sliced medjool dates, almonds, pistachios and cashews, scented with cardamom, saffron and an optional drop of rose water. The name means "milk with dates" in Persian. Use the thin Indian "sevaiyan" sold in Pakistani groceries, not Italian pasta vermicelli (much thicker and won't yield the right texture). You bloom saffron threads in warm milk for 15 minutes (the colour should deepen to strong amber). Melt a tablespoon of ghee in a wide heavy pan, fry the almonds, pistachios and cashews for two or three minutes till pale gold, lift onto a plate. Add the remaining ghee, tip in the broken vermicelli and stir continuously over medium-low for three or four minutes till evenly deep golden brown (watch closely; vermicelli goes from pale to burnt in seconds). Pour the milk in with the toasted vermicelli, add cardamom, stir, bring to a gentle simmer for 12 to 15 minutes till the vermicelli is soft but the strands are still distinct. Add sugar a tablespoon at a time tasting as you go (the traditional taste is sweet but not cloying). Stir in the saffron milk so the kheer turns pale gold, then sliced medjool dates, two-thirds of the toasted nuts and optional raisins. Simmer three minutes more till the dates soften and release their syrup, stir in rose water off the heat. Ladle into small bowls passed around the family, scatter the remaining nuts, a few rose petals and a pinch of saffron threads, eat warm; a second helping is expected.
+Sheer khurma is the Eid al-Fitr morning dessert, eaten first thing after dawn prayers in Pakistani and North Indian households before the rest of the day's feasting begins. The name means "milk with dates" in Persian, and that's the heart of it: thin vermicelli toasted in ghee, simmered slowly in milk with sliced medjool dates, almonds, pistachios and cashews, scented with cardamom, saffron and an optional drop of rose water. The thin Indian sevaiyan from a Pakistani grocer is the right noodle here; Italian pasta vermicelli is much thicker and won't give the right texture. Bowls go round the family with a generous scatter of nuts, a few rose petals and a pinch of saffron threads on top. A second helping is expected.
 
 ## Ingredients
 

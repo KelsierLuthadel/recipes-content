@@ -2,7 +2,7 @@
 
 ![Cullen Skink](resources/cullen-skink.jpg)
 
-*Scotland's iconic smoked-fish soup: smoked haddock (Finnan haddie) gently poached in milk with potato, onion and a generous knob of butter. Named for the village of Cullen on the Moray Firth, where the dish was the fishermen's wives' way of using up the smoked haddock at the end of the market day. Creamy, smoky, golden; the soup that defines Scottish coastal cooking.*
+*Scotland's iconic smoked-fish soup: smoked haddock gently poached in milk with potato, onion and a generous knob of butter. Creamy, smoky and golden.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Cullen skink ("skink" is an old Scots word for soup or shin-bone broth) takes its name from the small fishing village of Cullen on Scotland's north-east Moray Firth coast. The traditional Cullen skink is made with Finnan haddie - undyed smoked haddock from the village of Findon near Aberdeen, smoked cold over peat - and is one of the most distinctively Scottish soups in the canon. The construction is simple: smoked haddock is gently poached in milk to extract its smoky flavour, then flaked and returned to the milk along with sweated onion, diced floury potato, butter and a touch of cream. The soup is finished with parsley and served piping hot in deep bowls with a hunk of crusty bread or oatcakes. The colour is a deep golden cream (from the haddock's natural smoke; never use dyed yellow haddock - proper Finnan haddie is undyed pale-cream coloured). The texture is unmistakable: tender flakes of fish, soft cubes of potato, threads of sweet onion in a velvety smoke-infused broth. Cullen skink appears on every menu of every gastropub from the Borders to the Northern Highlands, but it remains a coastal dish at heart. Three details: undyed Finnan haddie (or any cold-smoked undyed haddock), gentle poaching (don't boil - boiled haddock toughens), and floury potato (don't use waxy - you want the potato to break down slightly and thicken the soup).
+Cullen skink takes its name from the small fishing village of Cullen on Scotland's north-east Moray Firth coast ("skink" is an old Scots word for soup or shin-bone broth). The traditional version uses Finnan haddie, undyed smoked haddock from Findon near Aberdeen, cold-smoked over peat; never use the dyed yellow stuff, since proper Finnan haddie is a natural pale cream and that's what gives the finished soup its golden tone. The construction is simple but unmistakable: smoked haddock gently poached in milk, then flaked and returned with sweated onion, diced floury potato, butter and a touch of cream. The texture is the joy of it: tender flakes of fish, soft cubes of potato and threads of sweet onion in a velvety smoke-infused broth. Finished with parsley, served piping hot in deep bowls with a hunk of crusty bread or oatcakes on the side.
 
 ## Ingredients
 

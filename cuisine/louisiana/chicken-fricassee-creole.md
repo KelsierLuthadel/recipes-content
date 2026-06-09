@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Creole chicken fricassee is the Louisiana Creole adaptation of the classic French fricassee: bone-in chicken thighs browned in oil, set aside; a blond roux made in the same pan; the trinity (onion, celery, green pepper) sweated in; garlic, mushrooms, white wine, hot chicken stock, bay, thyme and Cajun seasoning whisked in to make a creamy savoury gravy; the chicken returned and simmered till tender. Served over rice or with French bread. The Creole signature touches (the trinity, the Cajun seasoning, the slightly thicker gravy) distinguish it from the French original. Three details: brown the chicken first, blond roux (not dark), French wine + stock combination.
+Creole chicken fricassee is the Louisiana Creole adaptation of the classic French fricassee: bone-in chicken thighs browned in oil, set aside; a blond roux made in the same pan; the trinity (onion, celery, green pepper) sweated in; garlic, mushrooms, white wine, hot chicken stock, bay, thyme and Cajun seasoning whisked in to make a creamy savoury gravy; the chicken returned and simmered till tender. Served over rice or with French bread. The Creole signature touches (the trinity, the Cajun seasoning, the slightly thicker gravy) distinguish it from the French original.
 
 ## Ingredients
 

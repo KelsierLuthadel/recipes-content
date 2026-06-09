@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-New Mexico green chile chicken stew is the canonical NM winter stew and a fixture of every Pueblo Christmas Eve, Hatch chile season feast, and ski-resort comfort meal: shredded chicken (poached separately or rotisserie) added to a stew of roasted-and-peeled Hatch green chillies, onion, garlic, cubed potato, chicken stock, dried Mexican oregano, cumin and salt. Brothy rather than thick. Served in deep bowls with warm flour tortillas, grated cheese on top, sour cream, and lime wedges. Three details: roasted Hatch green chillies (essential for proper NM flavour), shredded chicken (not cubed), brothy texture.
+New Mexico green chile chicken stew is the canonical NM winter stew and a fixture of every Pueblo Christmas Eve, Hatch chile season feast, and ski-resort comfort meal: shredded chicken (poached separately or rotisserie) added to a stew of roasted-and-peeled Hatch green chillies, onion, garlic, cubed potato, chicken stock, dried Mexican oregano, cumin and salt. Brothy rather than thick. Served in deep bowls with warm flour tortillas, grated cheese on top, sour cream, and lime wedges.
 
 ## Ingredients
 

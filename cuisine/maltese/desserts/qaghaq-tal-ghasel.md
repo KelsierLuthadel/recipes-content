@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry - a thick honey-treacle-spice paste encased in shortcrust pastry, formed into a ring (the canonical shape), with the top scored diagonally so the dark filling shows through. The filling is a complex spiced mixture of honey, treacle, semolina, orange and lemon zest, cinnamon, cloves, cocoa, and almonds - slowly cooked till thick and dark. The pastry is rolled, wrapped around the cooled filling rope, shaped into a ring, scored with a sharp knife, and baked till deep gold. Sliced thin (like fruit cake) for tea. Every Maltese bakery sells qagħaq tal-għasel from late November through January. Three details: SLOW-COOK THE FILLING (until very thick - it's the foundation), ROLL INTO A LONG ROPE then form into a ring (the canonical shape), and SCORE DIAGONALLY (the dark filling visible through is the visual signature).
+Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry - a thick honey-treacle-spice paste encased in shortcrust pastry, formed into a ring (the canonical shape), with the top scored diagonally so the dark filling shows through. The filling is a complex spiced mixture of honey, treacle, semolina, orange and lemon zest, cinnamon, cloves, cocoa, and almonds - slowly cooked till thick and dark. The pastry is rolled, wrapped around the cooled filling rope, shaped into a ring, scored with a sharp knife, and baked till deep gold. Sliced thin (like fruit cake) for tea. Every Maltese bakery sells qagħaq tal-għasel from late November through January.
 
 ## Ingredients
 

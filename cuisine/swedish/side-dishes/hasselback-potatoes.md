@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Hasselback potatoes are Sweden's most exported potato preparation and the dish that gets re-invented endlessly on every food blog: whole medium-size potatoes (skin on, scrubbed) are sliced thinly across the top - about 3mm slices, going almost all the way through but stopping a few millimetres above the base so the potato stays in one piece (the slices "fan" while attached). Brushed generously with melted butter, scattered with coarse salt, and baked at high heat till the fanned slices crisp and curl outward into accordion pleats while the inside stays soft and creamy. Created in 1953 by Leif Elisson, a chef trainee at the Hasselbacken restaurant on Djurgården island in Stockholm (the dish is named after the restaurant, not the other way round). Three details: slice almost through but not all the way (the trick), brush with butter at least twice during baking, high heat (220°C) for the crisp.
+Hasselback potatoes are Sweden's most exported potato preparation and the dish that gets re-invented endlessly on every food blog: whole medium-size potatoes (skin on, scrubbed) are sliced thinly across the top - about 3mm slices, going almost all the way through but stopping a few millimetres above the base so the potato stays in one piece (the slices "fan" while attached). Brushed generously with melted butter, scattered with coarse salt, and baked at high heat till the fanned slices crisp and curl outward into accordion pleats while the inside stays soft and creamy. Created in 1953 by Leif Elisson, a chef trainee at the Hasselbacken restaurant on Djurgården island in Stockholm (the dish is named after the restaurant, not the other way round).
 
 ## Ingredients
 

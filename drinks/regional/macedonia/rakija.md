@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national spirit - distilled from fermented fruit by virtually every Macedonian rural family. The most common varieties: slivova rakija (from plums), lozova rakija (from grapes), and dunkina rakija (from quinces). Homemade rakija from a neighbour or family is generally stronger (50-60% ABV) than commercial (40-45% ABV) and is offered with pride at every Macedonian visit. Served chilled or room temperature in small thick glasses, usually 50 ml shots. Drunk neat - sipping is the canonical Macedonian way (not shooting). The opening "živeli!" (cheers!) is mandatory before the first sip; eye contact is mandatory. Three details: SMALL THICK GLASS (50 ml is the canonical pour), SIP NEAT (don't shot), and CHEERS WITH EYE CONTACT (the canonical Macedonian etiquette).
+Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national spirit - distilled from fermented fruit by virtually every Macedonian rural family. The most common varieties: slivova rakija (from plums), lozova rakija (from grapes), and dunkina rakija (from quinces). Homemade rakija from a neighbour or family is generally stronger (50-60% ABV) than commercial (40-45% ABV) and is offered with pride at every Macedonian visit. Served chilled or room temperature in small thick glasses, usually 50 ml shots. Drunk neat - sipping is the canonical Macedonian way (not shooting). The opening "živeli!" (cheers!) is mandatory before the first sip; eye contact is mandatory.
 
 ## Ingredients
 

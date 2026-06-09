@@ -2,7 +2,7 @@
 
 ![Sai Oua](resources/sai-oua.jpg)
 
-*Northern Laos's signature sausage: coarsely ground pork shoulder mixed with a generous fistful of finely chopped lemongrass, kaffir lime leaves, galangal, garlic, shallots, chillies, fish sauce, padaek and chopped fresh dill - stuffed into natural pork casings, coiled into spiral rounds, grilled over hot charcoal till the casings blister and the inside reaches medium juicy. Sliced thin and served with sticky rice, a small dish of jeow bong, lettuce leaves and fresh herbs. The canonical Luang Prabang grilled-meat-stall offering.*
+*Northern Laos's signature sausage: coarsely ground pork shoulder mixed with lemongrass, kaffir lime, galangal, dill and chillies, stuffed into casings, coiled into spiral rounds and grilled over hot charcoal.*
 
 **Serves:** 6 (about 12 sausage links)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sai oua is northern Laos's most identity-defining sausage and one of Luang Prabang's most-loved street foods. Three things make it distinctively Lao. First, the aromatics: lemongrass + kaffir lime leaves + galangal + shallots + garlic + dried Thai red chillies + a generous fistful of fresh dill - all finely chopped (the canonical Lao technique is a slow hand-chop with a cleaver to a fine but textural mince, not a smooth paste). The aromatic load is enormous - sai oua should taste of the herbs as much as the pork. Second, the pork: coarsely-ground pork shoulder with 25-30% fat - the high-fat ratio is essential for tender, juicy sausages. Third, the cook: traditionally grilled over hot charcoal (the canonical Lao street-stall method), the sausages are coiled into a flat spiral (rather than left as straight links) and grilled on both sides till the casings blister and the inside reaches medium-juicy. The spiral shape is canonical Luang Prabang. Three details: HUGE AROMATIC LOAD (lemongrass + kaffir lime + galangal + dill are all essential; under-aromatic sai oua tastes like a generic pork sausage), 25-30% PORK FAT (lean pork makes dry sausages), and CHARCOAL GRILL IF POSSIBLE (gas works but lacks the smoke; oven-bake is the fallback).
+Sai oua is northern Laos's most identity-defining sausage and one of Luang Prabang's most-loved street foods. The aromatic load is enormous: lemongrass, kaffir lime leaves, galangal, shallots, garlic, dried Thai red chillies and a generous fistful of fresh dill, all finely chopped to a textural mince (the canonical Lao technique is a slow hand-chop with a cleaver, not a smooth paste). Sai oua should taste of the herbs as much as the pork. The pork itself is coarsely ground pork shoulder at 25-30% fat; the high-fat ratio is essential for tender juicy sausages. Stuffed into natural pork casings, coiled into the canonical Luang Prabang flat spiral (rather than left as straight links), grilled over hot charcoal till the casings blister and the inside reaches medium-juicy. Sliced thin and served with sticky rice, a small dish of jeow bong, lettuce leaves and fresh herbs.
 
 ## Ingredients
 

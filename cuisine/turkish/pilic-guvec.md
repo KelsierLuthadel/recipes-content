@@ -2,7 +2,7 @@
 
 ![Pilic Guvec](resources/pilic-guvec.jpg)
 
-*Turkey's clay-pot chicken casserole: bone-in chicken pieces slow-baked in an earthenware güveç pot with onion, garlic, tomato, green pepper, mushrooms, kashar cheese and a fragrant tomato-stock sauce till the chicken is tender, the vegetables have melted into the sauce, and the top has a bubbly cheese crust. The Anatolian winter-comfort dish, individually portioned or family-style.*
+*Turkey's clay-pot chicken casserole: bone-in chicken slow-baked in an earthenware güveç pot with tomato, peppers and mushrooms, topped with melted kashar cheese.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç = the traditional Turkish earthenware clay pot that gives the dish its name) is one of Turkey's most beloved Anatolian winter dishes and a staple of family kitchens across the country: bone-in chicken pieces (thighs and drumsticks; the canonical cut; sometimes a whole chicken cut into 8) are layered with sliced onion, crushed garlic, chopped tomato, sliced green bell pepper, sliced mushrooms, fragrant tomato paste and Turkish red pepper paste, doused with a tomato-stock sauce, topped with grated kashar cheese, and baked in a covered clay güveç pot for 50-60 minutes till the chicken falls from the bone, the vegetables have melted into a rich gravy, and the cheese has formed a golden bubbly crust. The dish is traditionally cooked and served in the clay pot (one large family-sized güveç or individual small güveç pots for each diner); outside Turkey, a heavy cast-iron Dutch oven or a deep ceramic baking dish is the workable substitute. Three details define proper piliç güveç. First, bone-in chicken. The bones release flavour into the sauce; the skin protects the meat during the long bake. Boneless cuts dry out. Second, the clay pot (or its equivalent). Clay distributes heat evenly and slowly, giving the proper braise. A Dutch oven is the best substitute; a ceramic baking dish works but the cook time may need adjustment. Third, the cheese topping is canonical. Kashar (Turkish hard cheese), or aged Gruyère, Pecorino or a sharp Cheddar; sprinkled generously and given time to crisp into a golden crust.
+Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç = the traditional Turkish earthenware clay pot that gives the dish its name) is one of Turkey's most beloved Anatolian winter dishes and a staple of family kitchens across the country. Bone-in chicken thighs and drumsticks are the canonical cut: the bones release flavour into the sauce and the skin protects the meat during the long bake. They layer with sliced onion, garlic, chopped tomato, green bell pepper, mushrooms, tomato paste and Turkish red pepper paste, douse in a tomato-stock sauce and top with grated kashar cheese (aged Gruyère, Pecorino or a sharp Cheddar substitute). Fifty to sixty minutes covered in the clay pot: or a heavy Dutch oven, the best home substitute: till the chicken falls from the bone, the vegetables melt into the gravy and the cheese forms a golden bubbly crust. Served in the pot, either family-sized or in individual small güveç for each diner.
 
 ## Ingredients
 

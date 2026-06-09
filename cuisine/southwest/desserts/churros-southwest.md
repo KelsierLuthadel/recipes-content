@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Churros in the Southwest United States are the iconic Mexican-American street dessert and bar-restaurant classic: a thick choux-style dough (made from water, butter, salt, sugar, flour and eggs) piped through a star-tipped piping bag directly into hot oil to form long fluted sticks, fried till deeply golden and crispy outside while staying soft and tender inside, then rolled while still warm in cinnamon sugar. Served with thick Mexican-style hot chocolate sauce (much thicker than typical hot chocolate; made with Mexican chocolate, cinnamon and cornstarch) for dipping. The dish has roots in Spanish and Mexican churros traditions; the Southwestern American version has become a fixture of Tex-Mex restaurants, state fairs and weekend brunches. Three details: piped through a star tip for the fluted shape, fried at proper temperature (180°C), cinnamon-sugar coating while warm.
+Churros in the Southwest United States are the iconic Mexican-American street dessert and bar-restaurant classic: a thick choux-style dough (made from water, butter, salt, sugar, flour and eggs) piped through a star-tipped piping bag directly into hot oil to form long fluted sticks, fried till deeply golden and crispy outside while staying soft and tender inside, then rolled while still warm in cinnamon sugar. Served with thick Mexican-style hot chocolate sauce (much thicker than typical hot chocolate; made with Mexican chocolate, cinnamon and cornstarch) for dipping. The dish has roots in Spanish and Mexican churros traditions; the Southwestern American version has become a fixture of Tex-Mex restaurants, state fairs and weekend brunches.
 
 ## Ingredients
 

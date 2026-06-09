@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-New Mexico frito pie is the New Mexican version of the Frito-bag dish (Texas has its own version with Texan no-beans chili; see Texas frito pie). New Mexicans claim invention at the Five and Dime in Santa Fe in the 1960s, where Teresa Hernández supposedly created it; Texans dispute. The NM version uses thick red chile sauce or green chile sauce (not Texas chili), warm pinto beans, grated cheese (cheddar or Monterey Jack), chopped raw onion, sour cream, and is eaten directly from the chip bag with a plastic fork. Three details: NM red or green chile (not Texas chili), pinto beans (Texas frito pie often skips), eat from the bag.
+New Mexico frito pie is the New Mexican version of the Frito-bag dish (Texas has its own version with Texan no-beans chili; see Texas frito pie). New Mexicans claim invention at the Five and Dime in Santa Fe in the 1960s, where Teresa Hernández supposedly created it; Texans dispute. The NM version uses thick red chile sauce or green chile sauce (not Texas chili), warm pinto beans, grated cheese (cheddar or Monterey Jack), chopped raw onion, sour cream, and is eaten directly from the chip bag with a plastic fork.
 
 ## Ingredients
 

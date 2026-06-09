@@ -2,7 +2,7 @@
 
 ![Hachee](resources/hachee.jpg)
 
-*The Netherlands' canonical slow-cooked beef stew: chunks of stewing beef browned hard, simmered for 2.5 hours with an obscene quantity of sliced onions (the dish is at least one part onion to one part beef), cloves, bay, juniper berries and a splash of cider vinegar that gives the dish its distinctive Dutch sweet-sour tang. Spice profile reads like a colonial-era spice merchant's pantry: cloves, juniper, allspice, bay. Served with stamppot (the canonical pairing) or with boiled potatoes and red cabbage. Better the second day; eaten across the Netherlands all winter.*
+*The Netherlands' slow-cooked beef stew: stewing beef braised with sliced onions, cloves, juniper, bay and cider vinegar for the dish's signature sweet-sour tang. Better the second day.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 45 minutes
 
 ## Overview
-Hachee (pronounced "ha-SHEE") is the Netherlands' canonical beef stew - the slow-cooked, deeply spiced, generously oniony beef braise that pairs with stamppot and turns up at every Dutch winter family meal. Three things distinguish it from a French daube or a Belgian carbonnade. First, the onions: at least equal weight to the beef, sliced thin, sweated slowly in the bacon fat till deeply golden before the beef joins. Some recipes use more onion than beef. Second, the spices: cloves, juniper berries, bay leaves, allspice - the spice profile reflects the Netherlands' 17th-century spice-trade history (cloves and allspice from the East Indies; juniper traditional to the Low Countries). The classic ratio is 6-8 cloves, 6-8 juniper berries, 2 bay leaves, and a pinch of allspice for a 1 kg piece of beef. Third, the acid: cider vinegar (or apple-juice + vinegar in modern versions) gives the dish its faintly sweet-sour edge. The sweetness comes from caramelised onion + a teaspoon of brown sugar; the sourness from the vinegar. Some Dutch home cooks also add a slice of dark rye bread spread with mustard slumped into the sauce in the last 30 minutes (Belgian carbonnade-style) - this thickens and seasons the gravy. The result is a dark, glossy, deeply savoury braise with the onions melted into the sauce. Served with stamppot, boiled potatoes, or chopped red cabbage. Three details: SWEAT THE ONIONS LONG (25-30 minutes; rushing this gives bitter onion bits in the stew), BROWN THE BEEF HARD (deep crust on every side; this is half the flavour), and THE VINEGAR-AND-CLOVE COMBO IS NON-NEGOTIABLE (these two specifics are what make hachee Dutch).
+Hachee is the Netherlands' canonical beef stew: the slow-cooked, deeply spiced, generously oniony braise that pairs with stamppot and turns up at every Dutch winter family meal. Three things distinguish it from a French daube or a Belgian carbonnade. First, the onions: at least equal weight to the beef, sliced thin and sweated slowly till deeply golden before the beef joins. Some recipes use more onion than beef. Second, the spices: cloves, juniper berries, bay and allspice; the profile reflects the Netherlands' 17th-century spice-trade history. Third, the acid: cider vinegar gives the dish its faintly sweet-sour edge, balancing the caramelised onion and a teaspoon of brown sugar. Some Dutch home cooks add a slice of mustard-spread dark rye to the pot in the last thirty minutes Belgian-carbonnade-style, which thickens and seasons the gravy. The result is dark, glossy and deeply savoury, with the onions melted into the sauce. Served with stamppot, boiled potatoes or red cabbage.
 
 ## Ingredients
 

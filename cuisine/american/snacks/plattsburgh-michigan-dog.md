@@ -2,7 +2,7 @@
 
 ![Plattsburgh Michigan Dog](resources/plattsburgh-michigan-dog.jpg)
 
-*Upstate New York's tomato-meat-sauce hot dog: a steamed dog in a steamed New England-style top-split bun, smothered in a smooth tomato-based meat sauce called "Michigan sauce", topped with raw chopped onion (called "buried") or fried onion ("dragged"), with yellow mustard. The Plattsburgh, NY signature - confusingly named "Michigan" despite being a North Country New York invention.*
+*Upstate New York's tomato-meat-sauce hot dog: a steamed dog in a top-split bun, smothered in smooth "Michigan sauce" with chopped onion and yellow mustard.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-The Plattsburgh Michigan hot dog (almost always just called "Michigan" or "a Michigan" by locals) is one of America's strangest regional hot-dog naming oddities: a New York State specialty named after the wrong state. The dish was created around 1927 in Plattsburgh, in upstate New York's North Country region near the Canadian border, by Eula Otis (some accounts credit Garth Otis), who is said to have based it on a Detroit Coney Island recipe she encountered - hence the "Michigan" name. The result is distinct from a Coney Island chili dog in three ways: the meat sauce ("Michigan sauce") is smoother and more tomato-forward (more like a meat-sauce than a chili-with-meat); the dog sits in a New England-style top-split bun (not a side-split bun); and the canonical onion topping is either "buried" (raw chopped onion under the sauce, between dog and sauce) or "dragged" (chopped onion piled on top, dragged through the sauce). Sold at Clare and Carl's, McSweeney's, Nitzi's and other 90-year-old Plattsburgh stands. Three details: smooth meat-tomato sauce (not chunky chili), New England top-split bun, "buried" vs "dragged" onion (order with intent).
+The Plattsburgh Michigan hot dog (almost always just called "Michigan" or "a Michigan" by locals) is one of America's strangest regional hot-dog naming oddities: a New York State specialty named after the wrong state. The dish was created around 1927 in Plattsburgh, in upstate New York's North Country region near the Canadian border, by Eula Otis (some accounts credit Garth Otis), who is said to have based it on a Detroit Coney Island recipe she encountered - hence the "Michigan" name. The result is distinct from a Coney Island chili dog in three ways: the meat sauce ("Michigan sauce") is smoother and more tomato-forward (more like a meat-sauce than a chili-with-meat); the dog sits in a New England-style top-split bun (not a side-split bun); and the canonical onion topping is either "buried" (raw chopped onion under the sauce, between dog and sauce) or "dragged" (chopped onion piled on top, dragged through the sauce). Sold at Clare and Carl's, McSweeney's, Nitzi's and other 90-year-old Plattsburgh stands.
 
 ## Ingredients
 

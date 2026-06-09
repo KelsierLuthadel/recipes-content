@@ -2,7 +2,7 @@
 
 ![Southern Sweet Tea](resources/sweet-tea.jpg)
 
-*Strong black tea brewed long, sweetened generously with white sugar while still hot, then chilled and served over a tall glass of ice with a lemon wedge. The unofficial table drink of the American South, drunk at every Sunday lunch from New Orleans to Charleston, ordered by the pitcher at every diner.*
+*The American South's unofficial table drink: strong black tea brewed long, sweetened generously while still hot, then chilled and served over ice with a lemon wedge.*
 
 **Serves:** 8 tall glasses (makes 2 litres)
 

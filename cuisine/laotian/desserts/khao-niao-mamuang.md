@@ -2,7 +2,7 @@
 
 ![Mango Sticky Rice](resources/khao-niao-mamuang.jpg)
 
-*Laos's beloved warm-season dessert: sweet coconut-soaked sticky rice piled on a small plate, served alongside thick slices of fragrant ripe yellow mango (the small green-skinned, yellow-fleshed Lao or Thai mango is canonical), drizzled with a salty-sweet coconut cream sauce and scattered with toasted yellow mung beans. Eaten in the mango season (March to July) at every Lao market stall and household. The dish is also Thai-canonical (khao niao mamuang) but is deeply Lao - the sticky rice culture is Lao at its core.*
+*Laos's warm-season dessert: sweet coconut-soaked sticky rice with thick slices of ripe yellow mango, a salty-sweet coconut cream drizzle and toasted mung beans scattered on top.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably the most-photographed Lao/Thai sweet. Three things make a proper version: the sticky rice (soaked overnight, steamed in a bamboo basket - see [Sticky Rice](../side-dishes/sticky-rice.md)), the coconut cream sweetening (full-fat coconut milk + sugar + a pinch of salt warmed gently and absorbed into the warm rice), and the mango (ripe, fragrant, sweet - the yellow-fleshed Lao or Thai mango is the canonical choice; champagne / Ataulfo / Manila mango are good substitutes in the West). The final drizzle is a salty-sweet coconut cream (the cream part of a coconut milk tin, sweetened with sugar and salted) - this is the unmistakable Lao/Thai signature. Toasted yellow mung beans (split, hulled, dry-roasted) give a textural crunch. Three details: USE THIN-SKINNED YELLOW-FLESHED MANGO (champagne / Ataulfo / Manila / Honey are the Western substitutes for the canonical Asian variety; never the Tommy Atkins / Kent / Haden orange-red mango which is too firm and tart), WARM COCONUT CREAM ABSORBS INTO WARM RICE (cold coconut over cold rice doesn't penetrate), and SALT IN THE COCONUT CREAM IS NON-NEGOTIABLE (a small pinch of salt is what makes the sweet-salty signature).
+Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably the most-photographed Lao/Thai sweet. The dish is also Thai-canonical (khao niao mamuang) but deeply Lao at its core; sticky rice culture is Lao territory. Three components carry the dish: the sticky rice itself (soaked overnight, steamed in a bamboo basket), the coconut sweetening (full-fat coconut milk warmed with sugar and a pinch of salt, absorbed into the hot rice), and the mango (ripe, fragrant, sweet; the yellow-fleshed Lao or Thai variety is canonical, with champagne, Ataulfo or Manila mango as Western substitutes). The drizzle on top is the unmistakable Lao/Thai signature: the thick cream from a coconut milk tin, sweetened with sugar and salted to a salty-sweet finishing sauce. Toasted yellow mung beans (split, hulled, dry-roasted) give a small textural crunch across the top. Eaten in mango season (March to July) at every Lao market stall and household.
 
 ## Ingredients
 

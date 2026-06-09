@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Sopaipilla relleno is the New Mexican savoury stuffed sopaipilla, distinct from the sweet dessert version with honey: large puffed sopaipillas (see Southwest sopaipillas recipe) opened at a corner with a knife to reveal the hollow inside, then stuffed generously with carne adovada (the NM red-chile pork; see carne adovada in southwest), refried beans, and grated Monterey Jack. Smothered in red or green NM chile sauce (or both for Christmas style), topped with more melted cheese, shredded lettuce, diced tomato, sliced raw onion, sour cream, and fresh coriander. Three details: properly puffed sopaipillas (hollow inside for stuffing), generous filling, smothered in chile sauce.
+Sopaipilla relleno is the New Mexican savoury stuffed sopaipilla, distinct from the sweet dessert version with honey: large puffed sopaipillas (see Southwest sopaipillas recipe) opened at a corner with a knife to reveal the hollow inside, then stuffed generously with carne adovada (the NM red-chile pork; see carne adovada in southwest), refried beans, and grated Monterey Jack. Smothered in red or green NM chile sauce (or both for Christmas style), topped with more melted cheese, shredded lettuce, diced tomato, sliced raw onion, sour cream, and fresh coriander.
 
 ## Ingredients
 

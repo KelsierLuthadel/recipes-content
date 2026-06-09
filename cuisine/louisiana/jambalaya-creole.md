@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Jambalaya is Louisiana's famous one-pot rice dish, often described as the Cajun-Creole cousin of Spanish paella. There are two regional styles: Creole (also called "red jambalaya"; uses tomato; common in New Orleans and around) and Cajun (also called "brown jambalaya"; no tomato; common in rural southwest Louisiana). This is the Creole version: long-grain rice cooked together with diced chicken thigh, sliced andouille sausage, peeled shrimp, the trinity (onion, celery, green pepper), garlic, tomato (canned or fresh), Cajun seasoning, thyme, bay, and chicken stock; all cooked in one pot, the rice absorbing all the flavours. Three details: brown the meat first (development of fond), tomato is the Creole signature, don't stir too much during the rice cook (keeps grains intact).
+Jambalaya is Louisiana's famous one-pot rice dish, often described as the Cajun-Creole cousin of Spanish paella. There are two regional styles: Creole (also called "red jambalaya"; uses tomato; common in New Orleans and around) and Cajun (also called "brown jambalaya"; no tomato; common in rural southwest Louisiana). This is the Creole version: long-grain rice cooked together with diced chicken thigh, sliced andouille sausage, peeled shrimp, the trinity (onion, celery, green pepper), garlic, tomato (canned or fresh), Cajun seasoning, thyme, bay, and chicken stock; all cooked in one pot, the rice absorbing all the flavours.
 
 ## Ingredients
 

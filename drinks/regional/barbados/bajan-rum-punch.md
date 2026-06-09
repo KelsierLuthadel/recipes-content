@@ -2,7 +2,7 @@
 
 ![Bajan Rum Punch](resources/bajan-rum-punch.jpg)
 
-*Barbados's national cocktail, mixed by the legendary Bajan rum-punch rhyme: "one of sour, two of sweet, three of strong, four of weak" - meaning 1 part fresh lime juice, 2 parts sugar (or simple syrup), 3 parts dark Bajan rum, 4 parts water, finished with a generous dash of Angostura bitters and a grating of fresh nutmeg. Served over crushed ice in a tall glass with a slice of lime and a small pinch of nutmeg dust. The drink of every Bajan beach bar, rum-shop, hotel pool, and family Sunday lunch.*
+*Barbados's national cocktail, mixed by the legendary Bajan rhyme "one of sour, two of sweet, three of strong, four of weak": lime juice, simple syrup, dark Bajan rum and water, with Angostura bitters and fresh nutmeg on top.*
 
 **Serves:** 4 (one batch in a pitcher)
 
@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Bajan rum punch is one of the most-recognised Caribbean drinks and Barbados's national cocktail. The construction is built on three Bajan-specific moves. First, the rum: AGED DARK BAJAN RUM is canonical - Mount Gay Eclipse (the workhorse), Mount Gay XO (the premium), Cockspur Old Gold, or Foursquare 12-year. These rums have molasses-depth, slight oak-aging notes, and the right body to stand up to the citrus and sugar. Light or white rum is wrong - the resulting drink lacks the canonical depth and amber colour. Second, the legendary ratio: "one of sour, two of sweet, three of strong, four of weak" - the Bajan grandmother's rhyme that defines the formula. Translated into a usable recipe: 60 ml fresh lime juice (sour) + 120 ml simple syrup (sweet) + 180 ml dark Bajan rum (strong) + 240 ml water (weak). This serves 4. Some Bajan home cooks tweak the ratios (more rum for the strong; less water for a stiffer drink); the canonical balance is 1:2:3:4 by volume. Third, the finishing touches: a few generous dashes of Angostura bitters (the canonical Bajan addition that gives the rum punch its bracing spicy edge), a generous grating of fresh nutmeg over the top of each glass (NOT pre-mixed nutmeg powder; freshly grated is the Bajan signature), and a slice of fresh lime on the rim or floating on top. Served over crushed ice (or large ice cubes) in tall glasses, sipped on a hot Bajan afternoon. Three details: AGED DARK BAJAN RUM ONLY (Mount Gay Eclipse minimum; XO ideal; never light rum), FRESH LIME JUICE NEVER BOTTLED (the bright bracing acid is the foundation), and FRESH GRATED NUTMEG ON THE TOP (a Bajan signature; supermarket pre-ground nutmeg is wrong).
+Bajan rum punch is one of the most-recognised Caribbean drinks and Barbados's national cocktail: the drink of every Bajan beach bar, rum shop, hotel pool and family Sunday lunch. The legendary ratio is the Bajan grandmother's rhyme "one of sour, two of sweet, three of strong, four of weak": translating to lime juice, simple syrup, dark rum and water in 1:2:3:4 by volume. The rum is non-negotiable: aged dark Bajan rum (Mount Gay Eclipse, Mount Gay XO, Cockspur Old Gold or Foursquare 12-year) has the molasses depth and slight oak-aging notes to stand up to the citrus and sugar. Light or white rum gives a drink that lacks the canonical amber colour and body. Finished with a few generous dashes of Angostura bitters (the bracing spicy edge) and a generous grating of fresh nutmeg over the top of each glass: freshly grated, never pre-ground. Served over crushed ice in tall glasses with a slice of lime, sipped on a hot Bajan afternoon.
 
 ## Ingredients
 

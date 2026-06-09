@@ -2,7 +2,7 @@
 
 ![Khao Soi Lao](resources/khao-soi-lao.jpg)
 
-*Laos's northern noodle soup, completely different from the Thai khao soi of the same name: a clear meaty broth poured over rice noodles topped with a deeply savoury minced-pork-and-tomato-and-fermented-soybean ragout (the canonical Lao "sieve" sauce that's the dish's identifying signature), a generous heap of fresh herbs and bean sprouts, sliced chilli, lime wedges and pickled mustard greens. Sold from every Luang Prabang market stall in the morning. The Thai khao soi (yellow coconut-curry noodles with crispy noodles on top) is unrelated; the Lao dish is its own world.*
+*Laos's northern noodle soup: a clear meaty broth over rice noodles, topped with a savoury minced-pork-and-tomato-and-fermented-soybean ragout, fresh herbs, bean sprouts and lime.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 10 minutes
 
 ## Overview
-Khao soi Lao is one of the most-confused-with dishes in Southeast Asian cuisine - the Thai khao soi (a Chiang Mai yellow coconut-curry noodle soup) is so famous internationally that the Lao dish of the same name gets ignored. They are unrelated. The Lao version has three identifying moves. First, the broth: a clear, slightly cloudy meat-and-pork-bone broth simmered for an hour with star anise, cinnamon, garlic and a generous fistful of cilantro stems - light, savoury, deeply meaty. Second, the topping sauce (the canonical Lao signature): finely minced pork sautéed with finely chopped tomato, a generous spoonful of Lao fermented soybean paste (tao jeo - similar to Korean doenjang or Japanese miso but distinctly Lao), fish sauce, sugar and a touch of dried chilli. The sauce is cooked down to a thick savoury ragout. Third, the assembly: a bowl of cooked rice noodles, a ladle of clear broth, a generous heap of the meat-tomato-soybean sauce on top, a fistful of bean sprouts and fresh herbs (mint, cilantro, holy basil), sliced shallot, sliced chilli, lime wedges and a small dish of pickled mustard greens. The diner mixes everything together at the table. Three details: TAO JEO (LAO FERMENTED SOYBEAN PASTE) IN THE TOPPING SAUCE IS NON-NEGOTIABLE (the canonical signature; substitute with Korean doenjang or yellow soybean paste), USE FRESH RICE NOODLES IF POSSIBLE (the soft fresh rice noodles are canonical; dried rice vermicelli is the substitute), and SERVE WITH A FULL HERB-AND-VEG PLATE (the table garnish is part of the dish).
+Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the Thai khao soi (a Chiang Mai yellow coconut-curry noodle soup) is so famous internationally that the Lao dish of the same name gets ignored. They are unrelated and the Lao version is its own world, sold from every Luang Prabang market stall in the morning. The broth is clear and slightly cloudy, a meat-and-pork-bone stock simmered for an hour with star anise, cinnamon, garlic and a generous fistful of cilantro stems. The topping sauce is the canonical Lao signature: finely minced pork sautéed with finely chopped tomato, a generous spoonful of Lao fermented soybean paste (tao jeo, similar to Korean doenjang but distinctly Lao), fish sauce, sugar and a touch of dried chilli, all cooked down to a thick savoury ragout. Assembled with cooked rice noodles, the broth ladled over, the meat sauce piled on top, bean sprouts, fresh herbs, sliced shallot, chilli, lime wedges and pickled mustard greens. The diner mixes everything together at the table.
 
 ## Ingredients
 

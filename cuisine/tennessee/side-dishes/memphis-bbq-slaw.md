@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Memphis vinegar slaw (also called BBQ slaw or red slaw) is the canonical Memphis BBQ topping and the slaw style that distinguishes Memphis BBQ from Kansas City and Texas: instead of the creamy mayonnaise-based slaw of much of America, Memphis uses a tangy vinegar-mustard-sugar dressing with a touch of ketchup for the canonical orange-pink colour. Shredded green cabbage (sometimes with a touch of red cabbage and shredded carrot) tossed with this dressing, chilled 1 hour for the flavours to meld and the cabbage to soften slightly. Piled directly on pulled pork sandwiches; served alongside ribs, brisket, and other BBQ. Three details: vinegar-not-mayo dressing, slightly orange-pink colour, chill 1 hour.
+Memphis vinegar slaw (also called BBQ slaw or red slaw) is the canonical Memphis BBQ topping and the slaw style that distinguishes Memphis BBQ from Kansas City and Texas: instead of the creamy mayonnaise-based slaw of much of America, Memphis uses a tangy vinegar-mustard-sugar dressing with a touch of ketchup for the canonical orange-pink colour. Shredded green cabbage (sometimes with a touch of red cabbage and shredded carrot) tossed with this dressing, chilled 1 hour for the flavours to meld and the cabbage to soften slightly. Piled directly on pulled pork sandwiches; served alongside ribs, brisket, and other BBQ.
 
 ## Ingredients
 

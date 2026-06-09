@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Stacked red enchiladas is the canonical New Mexican enchilada style, distinct from the Mexican rolled version: layers of corn tortillas (briefly heated in oil to make pliable), red chile sauce (made from rehydrated dried New Mexico red chiles blended with garlic, oregano and cumin), shredded chicken (or beef, or just cheese for vegetarian), grated cheddar and Monterey Jack, stacked flat in 3-4 layers, baked till the cheese melts and the dish is bubbling. Topped with a fried egg (sunny-side up) for the canonical New Mexican presentation. If served with both red AND green chile sauces on the same plate, it's called "Christmas style". Three details: tortillas softened in oil briefly, stacked flat (not rolled), fried egg on top.
+Stacked red enchiladas is the canonical New Mexican enchilada style, distinct from the Mexican rolled version: layers of corn tortillas (briefly heated in oil to make pliable), red chile sauce (made from rehydrated dried New Mexico red chiles blended with garlic, oregano and cumin), shredded chicken (or beef, or just cheese for vegetarian), grated cheddar and Monterey Jack, stacked flat in 3-4 layers, baked till the cheese melts and the dish is bubbling. Topped with a fried egg (sunny-side up) for the canonical New Mexican presentation. If served with both red AND green chile sauces on the same plate, it's called "Christmas style".
 
 ## Ingredients
 

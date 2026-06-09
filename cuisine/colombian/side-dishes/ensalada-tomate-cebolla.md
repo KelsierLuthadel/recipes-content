@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ensalada de tomate y cebolla is Colombia's simplest and most pervasive table salad: thinly sliced ripe tomatoes, thinly sliced raw onion (red or white), chopped fresh coriander, dressed with olive oil, fresh lime juice, salt and pepper. That's the entire dish. The point is freshness and contrast against the rich heavy Colombian mains (sancocho, posta negra, lechona, bandeja paisa). Three details: ripe tomatoes (the dish depends on quality), thinly sliced raw onion (some Colombians soak first in cold water for 10 minutes to mellow), and just-before-serving dressing.
+Ensalada de tomate y cebolla is Colombia's simplest and most pervasive table salad: thinly sliced ripe tomatoes, thinly sliced raw onion (red or white), chopped fresh coriander, dressed with olive oil, fresh lime juice, salt and pepper. That's the entire dish. The point is freshness and contrast against the rich heavy Colombian mains (sancocho, posta negra, lechona, bandeja paisa).
 
 ## Ingredients
 

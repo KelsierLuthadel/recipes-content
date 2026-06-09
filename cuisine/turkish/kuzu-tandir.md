@@ -2,7 +2,7 @@
 
 ![Kuzu Tandır](resources/kuzu-tandir.jpg)
 
-*Turkey's slow-roasted lamb shoulder: a bone-in lamb shoulder marinated overnight in yogurt, garlic and Turkish spices, then slow-roasted in a covered pot or sealed tandır (clay oven) for 4 hours till the meat falls from the bone, served over rice or bulgur pilaf with grilled vegetables and yogurt.*
+*Turkey's slow-roasted lamb shoulder: bone-in lamb marinated overnight in yogurt, garlic and Turkish spices, then slow-roasted sealed for four hours till the meat falls from the bone.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-Kuzu tandır (literally "tandoor lamb"; "kuzu" = lamb, "tandır" = tandoor or clay oven) is Turkey's most luxurious lamb celebration dish, traditionally cooked in a sealed clay oven (the tandır) buried in hot embers, but adapted for home kitchens using a covered Dutch oven or roasting tin sealed with foil: a bone-in lamb shoulder is marinated overnight in a paste of yogurt, garlic, olive oil, cumin, Aleppo pepper, paprika, dried oregano and lemon juice, then slow-roasted at low temperature (140°C / 285°F) covered for 4 hours till the meat falls from the bone, the connective tissue dissolves and the lamb becomes spoonably tender. The dish is what every Turkish home cook makes for major family gatherings, weddings and religious holidays (especially Bayram); it sits at the centre of the table and is shredded onto pilaf rice or bulgur to be eaten with grilled vegetables, thick yogurt and warm flatbread. Three details define proper kuzu tandır. First, the cut of lamb. Bone-in lamb shoulder is canonical; the bone gives the proper flavour and the connective tissue dissolves into the sauce over 4 hours. Don't substitute with lamb leg (less fat, drier result) or boneless cuts. Second, the yogurt marinade. The yogurt tenderises the lamb through enzymatic action; the spices penetrate over 12 hours. Skipping the long marinade gives a dish with character but less depth. Third, the sealed slow-roast. The Turkish tandır oven seals the lamb in its own juices; the home version achieves this with a tight-fitting lid or foil seal. Don't roast uncovered; the lamb dries out.
+Kuzu tandır (literally "tandoor lamb") is Turkey's most luxurious lamb celebration dish: what every Turkish home cook makes for major family gatherings, weddings and religious holidays, especially Bayram. Traditionally cooked in a sealed clay oven (the tandır) buried in hot embers; the home kitchen adapts to a covered Dutch oven or roasting tin sealed tight with foil: the sealed slow-roast keeps the lamb in its own juices and an uncovered roast dries the meat out. The cut is bone-in lamb shoulder: the bone gives the proper flavour and the connective tissue dissolves into the sauce over four hours; lamb leg and boneless cuts give a drier, less interesting result. The marinade is a paste of yogurt, garlic, olive oil, cumin, Aleppo pepper, paprika, dried oregano and lemon juice, worked in overnight so the yogurt's enzymes tenderise the lamb and the spices penetrate. Roasted low (140 °C) and covered for four hours till the meat falls from the bone and spoons apart. Plated at the centre of the table, shredded onto pilav rice or bulgur with grilled vegetables, thick yogurt and warm flatbread.
 
 ## Ingredients
 

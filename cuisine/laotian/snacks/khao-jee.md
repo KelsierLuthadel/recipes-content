@@ -2,7 +2,7 @@
 
 ![Khao Jee](resources/khao-jee.jpg)
 
-*Laos's most-loved street sandwich, a French-colonial legacy: a small, slightly stale Lao baguette (khao jee - thinner-crusted than the French original, with a softer interior) split, smeared with butter and pâté, filled with sliced Lao-style cured pork, pickled carrot and daikon, fresh cilantro and mint, sliced cucumber, sliced chilli and a slick of soy-and-fish sauce. The Lao version is similar to the Vietnamese bánh mì but with three identifying differences: padaek-spiked condiment instead of soy alone, more aromatic herbs (especially dill in some Northern variants), and Lao laap as a possible filling. Sold from every Lao market stall in the morning.*
+*Laos's most-loved street sandwich, a French-colonial legacy: a Lao baguette split, smeared with pâté and filled with cured pork, pickled vegetables, fresh herbs and a slick of soy-and-fish sauce.*
 
 **Serves:** 4 sandwiches
 
@@ -11,7 +11,7 @@
 **Cook Time:** None (sandwich assembly)
 
 ## Overview
-Khao jee is Laos's French-colonial sandwich tradition, descended from the same 19th-20th-century French presence that gave Vietnam its bánh mì. Three things make it identity-Lao rather than identity-Vietnamese. First, the bread: Lao baguettes (khao jee = bread in Lao) are smaller, thinner-crusted, and softer-interior than French baguettes - similar to Vietnamese bread but distinct. The bread is often DAY-OLD rather than fresh - the slightly stale crust holds the sandwich together; fresh baguette can be too soft. Second, the canonical Lao fillings: pâté (the French legacy ingredient), Lao-style cured pork (sai oua or grilled-pork slices), pickled carrot-and-daikon (do-chua, the same vegetable as in Vietnamese sandwiches but the Lao version is slightly less sweet), fresh herbs (mint + cilantro + culantro), sliced cucumber and chilli. Third, the dressing: a small drizzle of seasoned soy sauce + a splash of padaek (Lao fermented fish) + a squeeze of lime - distinctive of the Lao version. The Vietnamese bánh mì uses Maggi sauce instead; the Lao version is funkier. Three details: USE LAO OR VIETNAMESE BAGUETTE (the smaller, thinner-crusted variety; a French baguette is too crusty), DAY-OLD BREAD IS PREFERRED (the slightly stale crust holds the sandwich), and PADAEK IS THE LAO SIGNATURE IN THE DRESSING (distinguishes from Vietnamese).
+Khao jee is Laos's French-colonial sandwich tradition, descended from the same 19th and 20th-century French presence that gave Vietnam its bánh mì, sold from every Lao market stall in the morning. The bread is Lao baguette (khao jee literally means "bread" in Lao), smaller and thinner-crusted than the French original with a softer interior. Day-old is often better than fresh, since the slightly stale crust holds the sandwich together while fresh baguette can be too soft. The canonical Lao fillings are pâté (the French legacy ingredient), Lao-style cured pork or sai oua, pickled carrot and daikon (slightly less sweet than the Vietnamese version), fresh herbs (mint, cilantro, culantro), sliced cucumber and chilli. The dressing is what most distinguishes it from bánh mì: a drizzle of seasoned soy, a splash of padaek (Lao fermented fish) and a squeeze of lime, giving the Lao version a funkier finish than the Vietnamese Maggi-sauce profile.
 
 ## Ingredients
 

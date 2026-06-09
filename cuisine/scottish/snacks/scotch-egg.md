@@ -2,7 +2,7 @@
 
 ![Scotch Egg](resources/scotch-egg.jpg)
 
-*Britain's iconic picnic food: a soft-boiled or hard-boiled egg wrapped in seasoned pork sausagemeat, rolled in breadcrumbs, and deep-fried (or baked) till golden and crisp. Despite the name, the dish was reputedly invented in 1738 at Fortnum and Mason in London (not Scotland) - but the dish became and remains a Scottish gastropub and picnic-counter staple, with regional variations like haggis-coated Scotch eggs and black-pudding-coated versions celebrating Scotland's actual claim to the dish.*
+*Britain's iconic picnic food: a soft-boiled egg wrapped in seasoned pork sausagemeat, rolled in breadcrumbs and deep-fried till golden and crisp.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 8-10 minutes deep frying OR 25 minutes baking
 
 ## Overview
-The Scotch egg has a contested origin: tradition credits Fortnum and Mason of London (1738), but the dish has been so thoroughly embraced by Scotland and Scottish gastropubs that it's effectively a Scottish dish. The canonical construction is: a soft-boiled egg (6 minutes 30 seconds is the sweet spot for a just-set white with a slightly runny yolk) is wrapped in seasoned pork sausagemeat (mixed with chopped sage, mustard powder, white pepper, mace, and sometimes a touch of Worcestershire), then triple-coated in flour-egg-breadcrumbs and deep-fried (or oven-baked) till golden and crisp. The Scottish refinement is the haggis-coated version (sausagemeat mixed with crumbled haggis) or the black-pudding-coated version (sausagemeat mixed with Stornoway black pudding). The egg sits at the centre - pale-white-and-yellow, with that soft yolk just on the edge of running - and the crisp savoury crust surrounds it. Served warm at a picnic, in a pub with English mustard or HP brown sauce, on a Scottish gastropub starter plate with watercress, or cold in a packed lunch box. Three details: SOFT-BOILED eggs (6 mins 30 secs from boiling water; immediately into ice - gives that perfect just-set white and slightly runny yolk), GOOD SAUSAGEMEAT (Lincolnshire-style or Scottish-style; high fat for crisp coating), and TRIPLE COAT in flour-egg-breadcrumbs (single coat tears; triple holds firm).
+The Scotch egg has a contested origin: tradition credits Fortnum and Mason of London (1738), but the dish has been so thoroughly embraced by Scotland and Scottish gastropubs that it's effectively a Scottish dish now. A soft-boiled egg (6 minutes 30 seconds is the sweet spot for a just-set white with a slightly runny yolk) wraps in seasoned pork sausagemeat with sage, mustard powder, white pepper and mace, then triple-coats in flour-egg-breadcrumbs and deep-fries till golden and crisp. The Scottish refinement is to mix crumbled haggis into the sausagemeat, or Stornoway black pudding. The egg sits at the centre with that soft yolk just on the edge of running, the crisp savoury crust around it. Eaten warm at a picnic, in a pub with English mustard or HP brown sauce, on a gastropub starter plate with watercress, or cold from a packed lunch box.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Nopalitos en Salsa Verde](resources/nopalitos-en-salsa-verde.jpg)
 
-*Mexico's cactus salad: cooked nopales (the pads of the prickly pear cactus) chopped and tossed with a fresh tomatillo-jalapeño salsa verde, finely diced onion, fresh cilantro and crumbled queso fresco. The Mexican everyday vegetarian side, low in calories and high in fibre, eaten alongside rich meats or as a light lunch.*
+*Mexico's cactus salad: cooked nopales (prickly-pear pads) chopped and tossed with a fresh tomatillo-jalapeño salsa verde, diced onion, cilantro and crumbled queso fresco.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Nopalitos en salsa verde is one of Mexico's everyday vegetarian sides and a fundamental part of central Mexican home cooking: nopales (the flat green pads of the prickly pear cactus; available canned or jarred at Mexican markets, also fresh in some specialty grocers) cooked till tender (about 15-20 minutes simmered with garlic and onion to remove the slight sliminess that raw nopales have), then drained and chopped, tossed with a fresh tomatillo-jalapeño salsa verde, finely diced raw onion, chopped fresh cilantro, lime juice, salt and crumbled queso fresco. Served as a side alongside rich Mexican mains (tacos al pastor, carnitas, mole), or as a light vegetarian lunch with corn tortillas. Three details define proper nopalitos en salsa verde. First, cook the nopales properly. Fresh nopales have a slight mucilage that can be off-putting; simmering them with a slice of onion (and changing the water once) removes most of it. Canned nopales (already cooked) skip this step. Second, fresh salsa verde. A simple raw or briefly-cooked salsa of tomatillos, jalapeño, garlic, onion and coriander. Third, queso fresco on top. The crumbled white Mexican cheese is the canonical finishing touch.
+Nopalitos en salsa verde is one of Mexico's everyday vegetarian sides and a fundamental part of central Mexican home cooking. Nopales are the flat green pads of the prickly pear cactus, available canned or jarred at Mexican markets and fresh in some specialty grocers. Fresh nopales carry a slight mucilage that can be off-putting; simmering them with a slice of onion (and changing the water once) removes most of it. Canned nopales come already cooked and skip the step. The chopped tender nopales toss with a fresh tomatillo-jalapeño salsa verde, finely diced raw onion, chopped cilantro, lime juice and salt. Crumbled queso fresco scatters across the top: the canonical Mexican finishing touch. Eaten as a side alongside rich Mexican mains (tacos al pastor, carnitas, mole) or as a light vegetarian lunch with corn tortillas.
 
 ## Ingredients
 

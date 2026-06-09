@@ -2,7 +2,7 @@
 
 ![Peameal-Bacon Sandwich](resources/peameal-bacon-sandwich.jpg)
 
-*Toronto's signature sandwich, the city's only true sandwich claim to gastronomic identity: pan-fried slices of peameal bacon (a wet-cured, cornmeal-rolled boneless pork loin, sliced 6 mm thick) layered onto a fresh kaiser roll spread with yellow mustard, with the canonical St. Lawrence Market accompaniments of a slice of fresh tomato, a leaf or two of crisp lettuce, and a pickle on the side. Born in the Carousel Bakery stall at St. Lawrence Market in 1996 and now Toronto's most-photographed lunch.*
+*Toronto's signature sandwich: pan-fried slices of cornmeal-rolled peameal bacon layered onto a kaiser roll with yellow mustard, tomato, lettuce and a pickle on the side.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The peameal-bacon sandwich is Toronto's defining lunchtime dish. The construction sits between an American "Canadian bacon" sandwich and a British bacon butty, but with three Toronto-specific moves. First, the bacon: peameal bacon is NOT the American "Canadian bacon" (which is smoked) - it's an unsmoked, wet-cured (brined for 5-7 days) boneless pork loin trimmed of all fat and rolled in fine yellow cornmeal (the original 19th-century cornmeal coating gave the bacon its preservative dry shell and its name). Modern peameal is widely available at Toronto butchers and at the iconic Carousel Bakery in St. Lawrence Market; outside Toronto, look for "back bacon" cured (not smoked) and rolled in cornmeal. Second, the slice and the fry: peameal is sold by the deli weight; slice it 6 mm thick on a deli slicer (or have your butcher slice it). Pan-fry in a hot pan with a small touch of oil till golden on both sides and just heated through - this is not crispy bacon, it's tender, juicy, pork-loin-like. Third, the assembly: a fresh kaiser roll (the soft white round Polish-Canadian bread roll that's everywhere in Toronto), sliced and barely toasted, spread with prepared yellow mustard, the hot peameal layered on, optionally a slice of fresh tomato and a few lettuce leaves, a whole sour pickle on the side. The Carousel Bakery purist version is just peameal + mustard + roll, no extras; the home cook adds tomato, lettuce, and sometimes Cheddar. Three details: SLICE 6 MM, NOT THINNER (thin slices dry out; 6 mm gives juicy, pork-loin texture), FRY HOT AND FAST (3-4 minutes per side total; don't over-cook - peameal is best when just-cooked-through), and FRESH KAISER ROLL (a day-old roll ruins the sandwich; buy fresh, eat within 6 hours).
+The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Carousel Bakery stall in St. Lawrence Market in 1996 and now the city's most-photographed lunch. The construction sits between an American "Canadian bacon" sandwich and a British bacon butty, with three Toronto-specific moves. First, the bacon: peameal bacon is not American "Canadian bacon", which is smoked. It's an unsmoked, wet-cured (brined for five to seven days) boneless pork loin trimmed of all fat and rolled in fine yellow cornmeal; the 19th-century cornmeal coating gave the bacon its preservative dry shell and its name. Second, the slice and the fry: sliced 6 mm thick on a deli slicer, pan-fried in a hot pan till golden on both sides and just heated through. This is not crispy bacon; it's tender, juicy, pork-loin-like. Third, the assembly: a fresh kaiser roll barely toasted, yellow mustard, the hot peameal layered on, with tomato and lettuce optional. A whole sour pickle on the side.
 
 ## Ingredients
 

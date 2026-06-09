@@ -2,7 +2,7 @@
 
 ![Moules-Frites](resources/moules-frites.jpg)
 
-*Belgium's national plate: a casserole of fresh mussels steamed open in a broth of white wine, butter, shallots, celery and parsley, served straight from the pot with a paper cone of twice-fried Belgian frites and a small bowl of mayonnaise on the side. The empty mussel shells go in the pot lid. The broth at the bottom gets sopped up with frites. The drink is a Belgian witbier or a glass of cold white. The dish that defines every Belgian seaside café from Ostend to Bruges.*
+*Belgium's national plate: fresh mussels steamed open in a broth of white wine, butter, shallots, celery and parsley, served from the pot with a paper cone of frites and mayonnaise.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes (plus frites time)
 
 ## Overview
-Moules-frites is Belgium's most famous restaurant dish and a year-round staple from Ostend on the North Sea coast to every brasserie in Brussels and Bruges. The construction is built around four essential moves. First, the mussels: live, fresh, and de-bearded - typically Bouchot or Zeeland mussels from the North Sea coast (in season September to April). Two kilograms feeds four hungry diners or three serious eaters. Second, the broth: shallots, celery, garlic and parsley stalks sweated in butter, then a generous splash of dry white wine, then the mussels in on top with the lid clamped down. Third, the timing: 4-6 minutes covered, shaking the pot once or twice; the mussels open and release their own briny juice, which combines with the wine to make the broth. Fourth, the frites: served alongside, hot, in a paper cone, with mayonnaise (not ketchup; Belgians take the mayo question seriously). The classic Brussels presentation is moules marinière (the canonical wine-and-shallot version); other Belgian variants add cream, white beer, curry, or Roquefort. Eat the mussels by using an empty shell as tongs to pick out the next one - faster than a fork. The empty shells go in the pot lid. The leftover broth at the bottom gets soaked up with the last frites. Three details: USE LIVE MUSSELS ONLY (any that won't close when tapped go in the bin; any that don't open after cooking also go in the bin), DON'T OVERCOOK (4-6 minutes max; longer and the mussel goes rubbery), and FRITES MUST BE TWICE-FRIED (the canonical Belgian frite is twice-fried in beef tallow, not once; see [Belgian frites](side-dishes/belgian-frites.md)).
+Moules-frites is Belgium's most famous restaurant dish and a year-round staple from the North Sea coast to every brasserie in Brussels and Bruges. The construction is built around four essential moves. First, the mussels: live, fresh and de-bearded, typically Bouchot or Zeeland from the North Sea (in season September to April). Two kilograms feeds four. Second, the broth: shallots, celery, garlic and parsley stalks sweated in butter, then a generous splash of dry white wine, then the mussels in on top with the lid clamped down. Third, the timing: four to six minutes covered, shaking the pot once or twice; the mussels open and release their own briny juice into the wine to make the broth. Fourth, the frites: served alongside, hot, in a paper cone, with mayonnaise (not ketchup; Belgians take the mayo question seriously). Eat with an empty shell as tongs to pick out the next one, faster than a fork. Empty shells go in the pot lid. The broth at the bottom gets soaked up with the last frites.
 
 ## Ingredients
 

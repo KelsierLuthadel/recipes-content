@@ -2,7 +2,7 @@
 
 ![Cranachan](resources/cranachan.jpg)
 
-*Scotland's greatest dessert: toasted pinhead oatmeal layered in a glass with whipped cream, fresh raspberries (canonically Scottish in season), heather honey, and a generous slug of single-malt Scotch whisky. Sometimes called "Cream-Crowdie" or "Stapag" in the original Gaelic; the harvest-celebration dessert of the Scottish Highlands; and the canonical Burns Night dessert finale.*
+*Scotland's greatest dessert: toasted pinhead oatmeal layered in a glass with whipped cream, fresh raspberries, heather honey and a slug of single-malt Scotch whisky.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes (oat toasting)
 
 ## Overview
-Cranachan (sometimes spelled cranachen; from the Scottish Gaelic crannachan, related to "churn") is Scotland's most distinctive and most universally loved dessert. The historical roots are agricultural: it was originally a harvest-celebration dish, made when the raspberries ripened in late summer and crofters had fresh cream from their cows, oatmeal from the harvest, and honey from the heather. The modern Burns Night version (sometimes called "Cream-Crowdie") is layered in glasses for service. The construction has five components, layered in tall glasses or trifle dishes: (1) toasted pinhead oatmeal (the canonical oat - not rolled oats; pan-toasted till golden and nutty), (2) whipped double cream (lightly sweetened with icing sugar, sometimes folded with crowdie cheese for a tangy edge), (3) fresh raspberries (the Carse of Gowrie raspberries grown in Tayside are the canonical Scottish variety; in winter, frozen raspberries thawed will substitute), (4) heather honey (Scottish heather honey is the canonical sweetener; any good runny honey works), and (5) a generous slug of single-malt Scotch whisky (Highland or Speyside; not heavily peated unless you want the smoke to dominate). The layers are assembled just before serving so the oatmeal stays crisp. Three details: PINHEAD oatmeal toasted dry (not rolled, not flour), FRESH raspberries (the slight tartness is essential), and assemble JUST before serving (the oats go soggy quickly).
+Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland's most distinctive and most universally loved dessert. The roots are agricultural: a harvest-celebration dish made when the raspberries ripened in late summer and crofters had fresh cream from their cows, oatmeal from the threshing and honey from the heather. The construction is five clean layers in a tall glass: toasted pinhead oatmeal (not rolled oats, and pan-toasted till golden and nutty), lightly sweetened whipped cream, fresh raspberries, heather honey and a generous slug of single-malt Scotch. Highland or Speyside whisky works best; heavily peated Islays will dominate everything else if you let them. Assemble just before serving so the oatmeal stays crisp against the cream. The canonical Burns Night dessert finale, and a beautiful thing to set in front of guests at the end of any good meal.
 
 ## Ingredients
 

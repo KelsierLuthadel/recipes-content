@@ -2,7 +2,7 @@
 
 ![Simit](resources/simit.jpg)
 
-*Turkey's sesame-encrusted ring bread: a soft wheat-flour dough shaped into rings, dipped briefly in molasses-water for the canonical mahogany top, then pressed into a plate of sesame seeds till every surface is coated, and baked till the outside crisps and the inside stays soft. The Istanbul street bread sold from glass-fronted carts on every corner of the city.*
+*Turkey's sesame-encrusted ring bread: a soft wheat dough shaped into rings, dipped in molasses-water and pressed into sesame seeds till every surface is coated, then baked till the outside crisps.*
 
 **Serves:** 8 simit
 
@@ -11,7 +11,7 @@
 **Cook Time:** 22 minutes
 
 ## Overview
-Simit is Istanbul's signature street bread and one of the most iconic foods of Turkey: a yeasted wheat-flour bread shaped into a ring (about 18 cm in diameter), dipped briefly in a molasses-and-water mixture (pekmez su; the canonical Turkish technique that gives simit its distinctive mahogany top), pressed into a wide plate of sesame seeds till every surface is generously coated, and baked till the outside is crisp and deep-coloured and the inside stays soft, chewy and slightly steamy. Sold from glass-fronted red carts on virtually every street corner of Istanbul (the simitçi cart is part of the visual landscape of the city), simit is what Turkish people eat for breakfast on the way to work (with strong sweet tea and a wedge of feta or cheese), as a mid-morning snack at the office, as a child's after-school treat, and as part of every Turkish breakfast spread (kahvaltı) alongside cheeses, olives, jams, honey, eggs and tomatoes. The dish is closely related to Greek koulouri, Lebanese ka'ak, and the wider regional sesame-ring family; the Istanbul simit is the most iconic of them. Three details define proper simit. First, the molasses dip. Pekmez (grape molasses) or pomegranate molasses, thinned with water, is the canonical Turkish dip; this is what gives the dark colour and faint caramel sweetness. Skipping the dip gives a pale insipid simit. Second, generous sesame coating. The proper Istanbul simit has a thick layer of toasted sesame seeds covering every visible surface. Skimpy sesame is wrong. Third, the ring shape. Two strands of dough twisted together (sometimes), shaped into a ring with the centre hole about 4-5 cm across. The twist gives the visual texture; the ring shape is what makes it a simit.
+Simit is Istanbul's signature street bread and one of the most iconic foods of Turkey, sold from glass-fronted red carts on virtually every street corner of the city: the simitçi cart is part of the visual landscape. Turkish people eat it for breakfast on the way to work with strong sweet tea and a wedge of feta, as a mid-morning office snack, as a child's after-school treat, and as part of every Turkish breakfast spread (kahvaltı) alongside cheeses, olives, jams, honey, eggs and tomatoes. The molasses dip is what makes it: pekmez su, a thinned grape molasses (pomegranate molasses substitutes), gives the distinctive mahogany top and faint caramel sweetness. Skipping it gives a pale insipid simit. The sesame coating is generous: a thick layer covering every visible surface; skimpy is wrong. Often two strands of dough are twisted together before being shaped into a ring with a 4-5 cm centre hole. Closely related to Greek koulouri and Lebanese ka'ak; the Istanbul simit is the most iconic of the sesame-ring family.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Louisiana seafood gumbo is the coastal counterpart to chicken-andouille gumbo: same dark roux foundation, same trinity, but the protein is Gulf seafood: peeled shrimp, lump crab meat, and oysters (in their liquor), with often a touch of andouille for smokiness. Okra (sliced fresh, or cooked separately) adds the canonical thickening alongside filé. Served over rice with hot sauce and chopped spring onion. The "gumbo for special occasions" in Cajun-Creole Louisiana. Three details: dark roux, Gulf seafood added late (overcooked shrimp is rubber), okra and filé both contribute thickness.
+Louisiana seafood gumbo is the coastal counterpart to chicken-andouille gumbo: same dark roux foundation, same trinity, but the protein is Gulf seafood: peeled shrimp, lump crab meat, and oysters (in their liquor), with often a touch of andouille for smokiness. Okra (sliced fresh, or cooked separately) adds the canonical thickening alongside filé. Served over rice with hot sauce and chopped spring onion. The "gumbo for special occasions" in Cajun-Creole Louisiana.
 
 ## Ingredients
 

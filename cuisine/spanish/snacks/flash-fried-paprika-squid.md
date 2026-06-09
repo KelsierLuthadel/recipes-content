@@ -2,14 +2,14 @@
 
 ![Flash fried squid with paprika and garlic](resources/squid.jpg)
 
-*These quick fried squid are good served with a dry sherry as an appetizer or part of a mixed tapas. For a starter, serve them on a bed of salad leaves.*
+*Spain's flash-fried squid tapa: small tender rings tossed in olive oil with smoked paprika, garlic and chilli, finished with sherry vinegar and lemon zest.*
 
 **Serves:** 4
 
 **Prep Time:** 15 minutes
 
 ## Overview
-This is the tapa version of flash-fried squid, small tender rings and tentacles tossed in olive oil with smoked paprika, garlic and chilli, finished with sherry vinegar and lemon zest and eaten standing up with a glass of cold dry sherry in the other hand. The trick to good fried squid is two things: small squid (under 10 cm, larger ones turn chewy) and a screaming-hot pan that seals the flesh quickly without overcooking. Cut the cleaned squid bodies into rings and the tentacles into bite-sized pieces, drop into a bowl with two tablespoons of olive oil, half the chopped chilli and the smoked paprika, season with a pinch of salt and pepper and leave to marinate in the fridge for two to four hours so the oil keeps the squid moist through the high-heat fry. Heat the remaining oil in a deep frying pan over high heat till it shimmers, toss the squid in flour and divide into two batches (don't crowd the pan or the squid steams instead of frying). Add the first batch and stir-fry constantly for one or two minutes till the rings turn opaque and the tentacles curl, sprinkle in half the garlic and stir to mix, then turn out onto a plate and keep warm. Repeat with the second batch and the rest of the garlic, then sprinkle everything with sherry vinegar, shredded lemon rind, the remaining chilli and chopped parsley. Taste for seasoning, pile on a warm plate with crusty bread alongside to soak up the paprika oil, and serve hot with chilled fino or manzanilla.
+This is the tapa version of flash-fried squid: small tender rings and tentacles tossed in olive oil with smoked paprika, garlic and chilli, finished with sherry vinegar and lemon zest and eaten standing up with a glass of cold dry sherry in the other hand. The trick to good fried squid is two things: small squid (under 10 cm; larger ones turn chewy) and a screaming-hot pan that seals the flesh quickly without overcooking. Rings and bite-sized tentacles marinate two to four hours in olive oil with chilli and smoked paprika so the oil keeps the squid moist through the high-heat fry. Floured lightly, fried in two batches so the pan doesn't crowd (overcrowded squid steams instead of frying), with garlic added in the last twenty seconds. Tossed off the heat with sherry vinegar, shredded lemon rind and chopped parsley. Piled on a warm plate with crusty bread to soak up the paprika oil, served hot with chilled fino or manzanilla.
 
 ## Ingredients
 - 500 grams very small squid (cleaned)

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-NM pinto beans is the New Mexican canonical bean preparation, similar to but distinct from Texas ranch beans (less bacon, more NM red chile): dried pinto beans soaked overnight, slow-cooked with chopped onion, garlic, a few whole dried NM red chile pods (the canonical flavour), cumin, oregano, and salt; plus optionally a piece of salt pork or bacon for richness. Served alongside enchiladas, tacos, rellenos, or as part of a vegetarian plate with rice and tortillas. Three details: dried beans (not canned), NM red chile pods (for flavour and slight heat), slow-cook 2 hours.
+NM pinto beans is the New Mexican canonical bean preparation, similar to but distinct from Texas ranch beans (less bacon, more NM red chile): dried pinto beans soaked overnight, slow-cooked with chopped onion, garlic, a few whole dried NM red chile pods (the canonical flavour), cumin, oregano, and salt; plus optionally a piece of salt pork or bacon for richness. Served alongside enchiladas, tacos, rellenos, or as part of a vegetarian plate with rice and tortillas.
 
 ## Ingredients
 

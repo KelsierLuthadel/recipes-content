@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Tavče gravče (literally "beans in a pan") is North Macedonia's national dish - a humble, deeply flavoured baked bean stew with strong Sephardic and Ottoman roots. The construction: dried white beans (tetovec or similar large white beans) are soaked overnight, simmered till just tender, then transferred to a glazed clay pot (the canonical "tavče"; a ceramic baking dish works) with sweated onions, sweet and hot paprika, dried mint, garlic and a splash of stock; baked uncovered at moderate heat for 90 minutes till the top crusts deeply golden-red. Three details: TETOVEC BEANS (the large white Macedonian beans; substitute with large butter beans), DRIED MINT (the Macedonian signature), and CLAY POT BAKE (the slow uncovered bake gives the canonical crust).
+Tavče gravče (literally "beans in a pan") is North Macedonia's national dish - a humble, deeply flavoured baked bean stew with strong Sephardic and Ottoman roots. The construction: dried white beans (tetovec or similar large white beans) are soaked overnight, simmered till just tender, then transferred to a glazed clay pot (the canonical "tavče"; a ceramic baking dish works) with sweated onions, sweet and hot paprika, dried mint, garlic and a splash of stock; baked uncovered at moderate heat for 90 minutes till the top crusts deeply golden-red.
 
 ## Ingredients
 - 500 g dried tetovec or large white beans (soaked overnight)

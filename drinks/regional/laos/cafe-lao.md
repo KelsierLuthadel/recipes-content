@@ -2,7 +2,7 @@
 
 ![Café Lao](resources/cafe-lao.jpg)
 
-*Laos's morning ritual: dark-roast Lao coffee (from the Bolaven Plateau in the south) brewed strong through a tin Vietnamese-style drip filter (the canonical Lao tool), poured over a thick layer of sweetened condensed milk in a tall glass, stirred briefly to combine, then filled with crushed ice. The result is a strong, creamy, deeply sweet iced coffee that pairs the bitterness of dark-roast beans with the rich sweetness of condensed milk - the canonical Lao breakfast drink and the perfect cold counterpoint to the spicy-sour morning Lao meals.*
+*Laos's morning iced coffee: dark-roast Bolaven Plateau beans brewed strong through a tin phin filter, poured over a thick layer of sweetened condensed milk, stirred and filled with crushed ice.*
 
 **Serves:** 2
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes (the slow drip)
 
 ## Overview
-Café Lao is the French-colonial coffee legacy adapted by Lao home cooks. Three Lao-specific moves. First, the coffee beans: Lao coffee, specifically from the Bolaven Plateau region in southern Laos, is one of the world's underrated specialty coffee origins. The beans are typically Robusta (or a Robusta-Arabica blend) and dark-roasted to a deep mahogany; the result is a stronger, more bitter brew than Western light-roast Arabica. Outside Laos, look for Vietnamese-style dark-roast beans (Trung Nguyen brand is widely available); a strong French-roast espresso bean is the workable substitute. Second, the tin drip filter (phin): a small individual tin filter that sits on top of the glass; ground coffee goes in, hot water is poured over, and the brew drips slowly through into the glass below over 5-10 minutes. The slow drip produces concentrated coffee. Outside Laos, the phin is sold at Vietnamese / Asian grocery shops; an Aeropress on slow drip works as a substitute. Third, the assembly: 2 tablespoons of sweetened condensed milk goes into the bottom of the glass FIRST; the coffee drips on top; the diner stirs vigorously to combine; ice is added last. The condensed milk creates a sweet layer that mixes with the bitter coffee as you drink. Three details: USE STRONG DARK-ROAST COFFEE (Lao Bolaven if you can find it; Vietnamese or French-roast as substitute), CONDENSED MILK GOES IN FIRST (the canonical Vietnamese / Lao technique), and FILL WITH ICE LAST (the slow melt dilutes the strong coffee perfectly).
+Café Lao is the French-colonial coffee legacy adapted by Lao home cooks. The beans matter: Lao coffee from the Bolaven Plateau in the south is one of the world's underrated specialty origins: typically Robusta (or a Robusta-Arabica blend) dark-roasted to a deep mahogany, giving a stronger, more bitter brew than Western light-roast Arabica. Outside Laos, Vietnamese-style dark-roast beans (Trung Nguyen is widely available) or strong French-roast espresso beans substitute. The brewing tool is the phin, a small individual tin filter that sits on top of the glass: ground coffee goes in, hot water is poured over, and the brew drips slowly through over 5-10 minutes into the glass below; an Aeropress on slow drip is the substitute outside Asian markets. The assembly is sequential: two tablespoons of sweetened condensed milk go into the bottom of the glass first, the coffee drips on top, the diner stirs vigorously to combine, and ice goes in last. The result is strong, creamy, deeply sweet: the canonical Lao breakfast drink and the perfect cold counterpoint to spicy-sour morning Lao meals.
 
 ## Ingredients
 

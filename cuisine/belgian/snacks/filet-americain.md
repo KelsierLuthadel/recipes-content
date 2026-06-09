@@ -2,7 +2,7 @@
 
 ![Filet Américain](resources/filet-americain.jpg)
 
-*Belgium's contentious raw-beef snack: finely chopped lean raw beef bound with a Belgian-style mayo dressing (egg yolk, mustard, vinegar, capers, onion, parsley, Worcestershire) and served on a slice of dark rye, a baguette, or as a generous mound with frites. Despite the name, there's nothing American about it: the dish is Belgian-Dutch in origin, named "à l'américaine" in the 1920s when American things were fashionable. The Belgian café snack of choice, in every supermarket fridge in tubs, eaten by the bowl at brasseries and at home as a quick lunch.*
+*Belgium's raw-beef classic: finely chopped lean beef bound with mayo, mustard, capers, shallot and parsley. Served on dark rye, on a baguette, or piled with frites.*
 
 **Serves:** 4 (as a snack / starter)
 
@@ -11,7 +11,7 @@
 **Cook Time:** None (raw)
 
 ## Overview
-Filet américain (also called filet americain, américain préparé, or in Flanders américain bereid / steak tartare belge) is Belgium's national raw-beef preparation - similar in spirit to French steak tartare but distinct in execution. The French original is chopped beef topped with raw egg yolk and condiments served at table to mix; the Belgian version arrives pre-mixed and emulsified into a near-spread consistency, more like a coarse-textured beef mayonnaise than a dressed chopped steak. The construction has three Belgian-specific moves. First, the cut: lean beef fillet or rump, finely chopped with a sharp knife (not minced - mincing destroys the texture). Second, the binder: a Belgian-style mayonnaise made fresh in the bowl with egg yolk, Dijon mustard, vinegar, oil, plus the canonical mix-ins of capers, finely chopped shallot, gherkins, parsley, Worcestershire sauce, Tabasco and a generous grind of black pepper. Third, the presentation: served on a thick slice of dark rye bread (pain noir / roggebrood) at home, or as a generous mound with Belgian frites at a brasserie ("américain préparé maison" on every Brussels brasserie menu). The Belgian supermarket version comes in plastic tubs in the chilled aisle and is a national staple. Three details: USE TOP-QUALITY BEEF (raw consumption demands fresh, well-trimmed beef from a trusted butcher; ask for "tartare-grade" lean cut), HAND-CHOP, NEVER MINCE (the texture of small ribbon-cuts is what makes filet américain; minced beef has the wrong feel), and EAT WITHIN AN HOUR OF MIXING (raw beef oxidises; the texture and colour degrade fast).
+Filet américain is Belgium's national raw-beef preparation, similar in spirit to French steak tartare but distinct in execution. The French original is chopped beef topped with raw egg yolk and condiments served at table for the diner to mix; the Belgian version arrives pre-mixed and emulsified into a near-spread consistency, more like a coarse-textured beef mayonnaise than a dressed chopped steak. Despite the name there's nothing American about it: the dish is Belgian-Dutch in origin, named "à l'américaine" in the 1920s when American things were fashionable. Three Belgian-specific moves: lean fillet or rump finely chopped by knife (not minced; mincing destroys the texture); a Belgian-style mayonnaise built in the bowl with egg yolk, Dijon, vinegar, oil, capers, shallot, gherkins, parsley and Worcestershire; and the service, on dark rye at home or piled with frites at a brasserie. Use the freshest beef you can find and eat it the same day.
 
 ## Ingredients
 

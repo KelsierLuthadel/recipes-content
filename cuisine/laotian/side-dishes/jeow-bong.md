@@ -2,7 +2,7 @@
 
 ![Jeow Bong](resources/jeow-bong.jpg)
 
-*Luang Prabang's canonical condiment: dried red chillies, garlic and shallots dry-roasted till deeply blackened, pounded with palm sugar, fish sauce, lime, salt and (the canonical Luang Prabang addition) shreds of dried buffalo or pork skin into a thick deep-red sweet-spicy-funky paste. Spooned alongside sticky rice, sai oua, grilled meat, raw vegetables or steamed greens. The deep roasted flavour separates jeow bong from the lighter fresh jeow makheua (aubergine paste) or jeow mak len (tomato paste). The Lao condiment of choice.*
+*Luang Prabang's canonical condiment: dry-roasted chillies, garlic and shallots pounded with palm sugar, fish sauce, lime and shreds of dried buffalo skin into a thick deep-red sweet-spicy-funky paste.*
 
 **Serves:** Makes 300 g paste (enough for many meals)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len (fresh tomato), jeow makheua (roasted aubergine), jeow makkok (sweet plum), and jeow bong (roasted chilli). The bong version is the Luang Prabang signature - distinguished by three Lao-specific moves. First, the deep roast: dried red chillies, whole garlic cloves and whole shallots are dry-roasted in a heavy pan over medium heat for 8-10 minutes till the skins blacken at the edges and the inside softens. This deep char is essential; under-roasted ingredients give a sharp, raw-tasting paste. Second, the dried buffalo / pork skin: the canonical Luang Prabang addition is small shreds of dried buffalo skin (or pork skin) rehydrated, finely chopped, and pounded into the paste. The skin gives the paste body and a faint umami chewiness that distinguishes jeow bong from other Lao jeow. Substitute with crispy pork crackling outside Laos. Third, the pounding: in a tall clay mortar (the same one used for tam mak hung) - dried chillies first to a coarse powder, then garlic-shallot to a paste, then the rehydrated dried meat, then the wet ingredients. Pounding (not blending) gives the canonical texture. Three details: DEEP-ROAST THE CHILLIES AND AROMATICS (the char is essential), USE DRIED MEAT IF YOU CAN SOURCE IT (the canonical Lao addition; substitute with crispy pork crackling), and ADJUST TO A SWEET-SPICY-FUNKY BALANCE (palm sugar, fish sauce, lime; taste as you go).
+Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len (fresh tomato), jeow makheua (roasted aubergine), jeow makkok (sweet plum) and jeow bong (roasted chilli). The bong version is the Luang Prabang signature. The deep dry-roast is essential: dried red chillies, whole garlic cloves and whole shallots roast in a heavy pan over medium heat for eight to ten minutes till the skins blacken at the edges and the insides soften. Under-roasted ingredients give a sharp, raw-tasting paste; you want proper char. The dried buffalo skin (or pork skin) is the canonical Luang Prabang addition, rehydrated, finely chopped and pounded in to give the paste body and a faint umami chewiness. Crispy pork crackling substitutes outside Laos. Everything pounds (not blends) in a tall clay mortar: chillies first to a coarse powder, then garlic-shallot to a paste, then the dried meat, then the wet ingredients. Spooned alongside sticky rice, sai oua, grilled meat, raw vegetables or steamed greens.
 
 ## Ingredients
 

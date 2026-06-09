@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Maltese potato salad rejects the heavy mayonnaise-based Northern European version in favour of a bright Mediterranean dressing of olive oil, lemon, capers, herbs and tomato. The construction: waxy potatoes boiled in salted water till just tender, drained and tossed while still warm (so they absorb the dressing) with red onion, capers, black olives, chopped fresh tomato, fresh mint, fresh parsley, lemon juice and extra-virgin olive oil. Served at room temperature alongside grilled fish, stuffat tal-fenek, or any Maltese summer meal. Three details: WAXY POTATOES (don't break apart), TOSS WHILE WARM (absorbs the dressing), and FRESH HERBS (mint and parsley are the Maltese signature).
+Maltese potato salad rejects the heavy mayonnaise-based Northern European version in favour of a bright Mediterranean dressing of olive oil, lemon, capers, herbs and tomato. The construction: waxy potatoes boiled in salted water till just tender, drained and tossed while still warm (so they absorb the dressing) with red onion, capers, black olives, chopped fresh tomato, fresh mint, fresh parsley, lemon juice and extra-virgin olive oil. Served at room temperature alongside grilled fish, stuffat tal-fenek, or any Maltese summer meal.
 
 ## Ingredients
 

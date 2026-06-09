@@ -2,7 +2,7 @@
 
 ![Bajan Caramelised Pumpkin](resources/caramelised-pumpkin.jpg)
 
-*Barbados's silky-sweet vegetable side: chunks of Caribbean pumpkin (calabaza - the green-skinned orange-fleshed Caribbean squash; butternut substitutes) cooked down slowly with butter, brown sugar, a teaspoon of grated ginger, a touch of bonnet pepper, fresh thyme and a splash of coconut milk till the pumpkin breaks down into a soft glossy caramelised mash. Served as a side to Bajan stew chicken, fried fish, or Sunday roast - the sweet-savoury counterpoint to the rich main. The Caribbean answer to British roast pumpkin or American sweet potato side - softer, deeper, more aromatic.*
+*Barbados's silky-sweet vegetable side: chunks of Caribbean pumpkin cooked down with butter, brown sugar, ginger, thyme and coconut milk into a glossy caramelised mash.*
 
 **Serves:** 6 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of flavour. The construction has three Bajan-specific moves. First, the pumpkin: Caribbean calabaza pumpkin (the green-skinned, orange-fleshed Caribbean squash) is the canonical choice. Butternut squash is the standard substitute outside the Caribbean - similar deep-orange flesh, similar sweetness. The pumpkin is cubed into 3 cm chunks, NOT thinner (thinner pieces collapse to mush before caramelising). Second, the caramelisation: the pumpkin chunks are first browned hard in butter (not just heated through) - this is what gives the canonical caramelised colour and the sweet-savoury depth. Then a splash of coconut milk + brown sugar + spice goes in to braise the rest of the way; the pumpkin softens, the sugar caramelises further, and the texture becomes silky-tender. Third, the Bajan signatures: fresh thyme, a teaspoon of finely grated ginger, a small fragment of finely chopped Scotch bonnet (for warmth not heat), and a small dash of soy sauce (for umami depth - the canonical Caribbean home addition). The dish becomes a thick almost-jammy mash that holds shape on the plate. Three details: BIG CHUNKS NOT THIN SLICES (3 cm cubes; thinner pieces collapse to mush before caramelising), BROWN HARD IN BUTTER FIRST (deep caramelised crust on at least 3 sides; this is half the flavour), and SOY SAUCE + SCOTCH BONNET ARE THE BAJAN SECRETS (the umami-and-warmth combination that elevates this beyond plain sweet pumpkin).
+Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of flavour. Caribbean calabaza pumpkin (the green-skinned, orange-fleshed Caribbean squash) is the canonical choice; butternut squash is the standard substitute outside the Caribbean, with similar deep-orange flesh and sweetness. The pumpkin cubes into 3 cm chunks (thinner pieces collapse to mush before caramelising) and browns hard in butter first to develop the caramelised colour and sweet-savoury depth. Then a splash of coconut milk, brown sugar and spice go in to braise the rest of the way. The Bajan signatures are what set this apart: fresh thyme, finely grated ginger, a fragment of finely chopped Scotch bonnet for warmth (not heat) and a small dash of soy sauce for umami depth. The finished dish becomes a thick almost-jammy mash that holds its shape on the plate. The sweet-savoury counterpoint to Bajan stew chicken, fried fish or a Sunday roast.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Cuberdons](resources/cuberdons.jpg)
 
-*Ghent's iconic cone-shaped sweet: a hard sugar shell encasing a soft gum-arabic raspberry filling. Bright purple, conical, the size of a small chess pawn, with a snap-then-slump texture - the shell cracks under the teeth, then the syrupy gum-arabic centre runs onto the tongue. Belgium's most regional confection, sold only at sweet stalls in Ghent and Brussels markets, never mass-produced because the centre dries out within 3 weeks. The Ghent vendor war between two cuberdon-makers (Geldhof vs Lievens) is local legend.*
+*Ghent's iconic cone sweet: a hard sugar shell around a soft raspberry gum-arabic centre. Snap-then-slump texture, bright purple, sold loose from market stalls.*
 
 **Serves:** About 40 small cuberdons
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes (plus 4 days of moulding rest)
 
 ## Overview
-Cuberdons (Flemish: cuberdon; French: cuberdon; nicknamed "neuzekes" - "little noses" - by Ghent locals because of their conical shape) are arguably Belgium's most regional sweet. They're sold from market stalls in Ghent, Brussels, Antwerp and Bruges, made by a handful of family-run confectioners; the centre is so perishable (drying out within 3 weeks of moulding) that they don't survive industrial distribution. The classic flavour is raspberry, but cuberdons now come in many flavours including violet, apple, blueberry, mint, coffee and elderflower. The construction is unusual: a hard sugar-glucose shell forms by setting around a soft gum-arabic syrup core. They're moulded by pouring a hot sugar-glucose-flavouring syrup into starch-powder cone-shaped impressions; the syrup sits in the starch for 4 days, during which the surface crystallises into a hard shell while the centre stays liquid. The finished sweet is brushed clean of starch and sold loose from the market stall. Making cuberdons at home is involved - the starch-mould technique is fiddly and requires patience. A simpler home version (this recipe) uses small silicone or rubber cone-shaped moulds and accepts a slightly softer shell than the market version. The result captures the cuberdon character: a thin sugar crust around a sticky gum-arabic raspberry centre. Three details: COOK THE SUGAR TO 145°C (this is what sets the outer shell hard once cooled), USE REAL GUM ARABIC (the gum is what gives the slumping syrup-like centre; cornflour won't work the same way), and RESTING IS NON-NEGOTIABLE (the sweets must rest at room temperature for at least 48 hours; the shell needs time to set).
+Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of their conical shape) are arguably Belgium's most regional sweet. They're sold from market stalls in Ghent, Brussels, Antwerp and Bruges, made by a handful of family-run confectioners; the centre is so perishable, drying out within three weeks of moulding, that they don't survive industrial distribution. The classic flavour is raspberry, but you'll find violet, apple, blueberry, mint, coffee and elderflower at the bigger stalls. The construction is unusual: a hard sugar-glucose shell forms by setting around a soft gum-arabic syrup core. Traditionally moulded by pouring hot flavoured syrup into starch-powder cone impressions and leaving it for four days, during which the surface crystallises into a shell while the centre stays liquid. This home version uses small silicone cone moulds and accepts a slightly softer shell. The result captures the cuberdon character: thin sugar crust, sticky gum-arabic raspberry centre.
 
 ## Ingredients
 

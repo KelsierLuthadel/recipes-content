@@ -2,7 +2,7 @@
 
 ![Maple-Bacon Brussels Sprouts](resources/maple-bacon-brussels-sprouts.jpg)
 
-*The Canadian Thanksgiving side that won the modern Christmas table: halved Brussels sprouts pan-roasted with chunky bacon lardons till the sprouts are deep brown and crisp, glazed at the end with a splash of pure maple syrup, a squeeze of lemon and a few flakes of sea salt. The bitter sprouts caramelise; the bacon renders crisp; the maple syrup turns to a sticky sweet-savoury lacquer. The Sunday-roast side and the Canadian Thanksgiving non-negotiable.*
+*The Canadian Thanksgiving side: halved Brussels sprouts pan-roasted with chunky bacon lardons till deep brown, glazed with maple syrup, lemon and flaky salt at the end.*
 
 **Serves:** 6 (as a side)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Maple-bacon Brussels sprouts is the modern Canadian side dish that's elbowed its way onto every Thanksgiving and Christmas dinner table. The construction is built on three steps that each matter. First, the prep: Brussels sprouts halved (so the cut face caramelises against the pan), the loose outer leaves saved (they crisp into chips), the bacon cut into chunky 1 cm lardons (not thin slices - the thicker pieces give crisp texture). Second, the cook: bacon rendered slowly to release its fat, lifted out crisp; the sprouts then seared cut-side-down in the bacon fat at high heat without moving for 4-5 minutes till deeply browned; tossed and roasted briefly in the oven till tender. Third, the glaze: pure Canadian maple syrup (grade A "Dark, Robust" for the deepest flavour) splashed in at the end with a squeeze of lemon, reducing to a glossy syrup that coats every sprout. The bacon goes back in; flaky salt finishes. The Canadian touch is the maple - this isn't an American honey-bacon-sprout dish, the maple syrup gives a distinctly woody-caramel sweetness. Three details: SEAR CUT-SIDE-DOWN FIRST AND DON'T MOVE THEM (this is where the deep brown caramelisation comes from; restless cooks who stir get pale sprouts), USE CHUNKY LARDONS NOT THIN SLICES (the texture is the point; thin bacon crumbles, thick bacon stays crisp-chewy), and GRADE A DARK ROBUST MAPLE SYRUP (not breakfast-grade light amber; the darker grade gives deeper caramelisation).
+Maple-bacon Brussels sprouts is the modern Canadian side dish that's elbowed its way onto every Thanksgiving and Christmas table. The construction is built on three steps that each matter. First, the prep: sprouts halved so the cut face caramelises against the pan, loose outer leaves saved (they crisp into chips), bacon cut into chunky 1 cm lardons rather than thin slices, since the thicker pieces give crisp texture. Second, the cook: bacon rendered slowly to release its fat and lifted out crisp; sprouts seared cut-side-down in the bacon fat at high heat without moving for four or five minutes till deeply browned; tossed and finished briefly in the oven till tender. Third, the glaze: pure Canadian maple syrup (grade A "Dark, Robust" for the deepest flavour) splashed in at the end with a squeeze of lemon, reducing to a glossy lacquer that coats every sprout. The bacon goes back in, flaky salt finishes. The Canadian touch is the maple, which gives a distinctly woody-caramel sweetness.
 
 ## Ingredients
 

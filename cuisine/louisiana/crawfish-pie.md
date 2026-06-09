@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Crawfish pie is one of Louisiana's most iconic Cajun home dishes (famously immortalised in Hank Williams' song "Jambalaya": "Jambalaya, crawfish pie, filé gumbo"): peeled crawfish tails cooked in a buttery savoury gravy made with the trinity (onion, celery, green pepper), garlic, Cajun spices, hot sauce, seafood stock and a touch of cream; the filling poured into a buttery shortcrust pastry shell, topped with a second pastry sheet, sealed and slashed, baked till deep golden and bubbling. Often made as one large pie for family dinners, or smaller individual pies for parties. Three details: buttery shortcrust pastry (homemade or storebought), crawfish gravy made first, double-crust enclosed.
+Crawfish pie is one of Louisiana's most iconic Cajun home dishes (famously immortalised in Hank Williams' song "Jambalaya": "Jambalaya, crawfish pie, filé gumbo"): peeled crawfish tails cooked in a buttery savoury gravy made with the trinity (onion, celery, green pepper), garlic, Cajun spices, hot sauce, seafood stock and a touch of cream; the filling poured into a buttery shortcrust pastry shell, topped with a second pastry sheet, sealed and slashed, baked till deep golden and bubbling. Often made as one large pie for family dinners, or smaller individual pies for parties.
 
 ## Ingredients
 

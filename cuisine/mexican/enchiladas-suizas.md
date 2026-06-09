@@ -2,7 +2,7 @@
 
 ![Enchiladas Suizas](resources/enchiladas-suizas.jpg)
 
-*Mexico's "Swiss-style" enchiladas: corn tortillas filled with shredded chicken, rolled, topped with a creamy tomatillo-jalapeño green sauce mixed with sour cream, smothered in melted Oaxaca cheese and baked till the cheese crusts golden. The Mexico City restaurant classic, the canonical "made-in-Mexico-by-the-Swiss-chefs" dish from the 1950s.*
+*Mexico's "Swiss-style" enchiladas: corn tortillas filled with shredded chicken, rolled and smothered in a tomatillo-and-cream green sauce, then baked under melted Oaxaca cheese till the top crusts golden.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Enchiladas Suizas (literally "Swiss enchiladas"; named after the cream-and-cheese addition - a Swiss-influenced touch on traditional Mexican enchiladas) is one of Mexico City's most beloved restaurant classics and a Mexican Sunday-family-lunch staple: corn tortillas are briefly heated in oil till pliable, filled with shredded chicken (or beef), rolled tight, arranged in a baking dish, topped with a creamy green sauce (made by blitzing tomatillos, jalapeños, cilantro, garlic, onion and chicken stock, then enriched with cream or crema), smothered in grated Oaxaca cheese (or substitute with mozzarella + a touch of feta) and baked till the cheese melts into a golden crust. Served with rice, refried beans, sliced avocado, sliced raw onion and lime wedges. The dish was created at Sanborns restaurant in Mexico City in the 1950s where Swiss chefs were experimenting with Mexican classics; the "Suiza" name reflects the Swiss-cheese-and-cream contribution. Three details define proper enchiladas Suizas. First, the green tomatillo sauce. Tomatillos, jalapeños, cilantro and garlic blitzed together, then fried briefly in oil to deepen. Second, the cream. The Swiss touch - adds richness and tempers the chilli heat. Third, the cheese topping. Oaxaca cheese (the Mexican stringy melting cheese; similar to mozzarella but with more body) is canonical; mozzarella is the easy substitute.
+Enchiladas Suizas (literally "Swiss enchiladas") is one of Mexico City's most beloved restaurant classics and a Mexican Sunday-family-lunch staple. Corn tortillas are briefly heated in oil till pliable, filled with shredded chicken, rolled tight and arranged in a baking dish, then topped with a creamy green sauce: tomatillos, jalapeños, cilantro, garlic, onion and chicken stock blitzed together, fried briefly in oil to deepen, then enriched with cream or crema. Grated Oaxaca cheese (the Mexican stringy melting cheese; mozzarella is the easy substitute) smothers the top, and the dish bakes till the cheese melts into a golden crust. The dish was created at Sanborns in Mexico City in the 1950s where Swiss chefs were experimenting with Mexican classics; the cream-and-cheese addition is what gave it its "Suiza" name. Eaten with rice, refried beans, sliced avocado, raw onion and lime wedges.
 
 ## Ingredients
 

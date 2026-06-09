@@ -2,7 +2,7 @@
 
 ![Grilled Corn on the Cob](resources/grilled-corn.jpg)
 
-*Sweet kernels blistered black in patches by an open flame, glossy with melted garlic butter and a green flurry of chives. The smell is pure American summer, charred sugar and smoke drifting across the yard, and the first bite snaps and bursts with juice tempered by salty butter and a sharp squeeze of lime.*
+*American summer grilled corn: sweet kernels blistered black in patches by an open flame, glossy with melted garlic butter and a flurry of chives.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Grilled corn on the cob is the unofficial flag of an American summer cookout. Whether it appears alongside ribs in Kansas City, brisket in central Texas, or burgers on a Midwestern back porch, the technique is essentially the same: husk the cob, lay it directly over hot coals or a hard gas flame, and turn it until the kernels darken and pop with sugar caramelisation. The flavour is straightforward but layered. Heat converts the corn's starches and sugars into something almost popcorn-like in aroma, while a slick of garlic butter melts into every crevice and a squeeze of lime cuts cleanly through the richness. Difficulty is low, but the line between perfectly grilled and overcooked is narrow, since corn can dry out quickly once the kernels begin to wrinkle. The trick is high direct heat for a short time, and constant turning so each side picks up colour without burning through. American corn culture has always borrowed generously from its neighbours, and any conversation about grilled corn eventually circles to elote, the Mexican street-food version slathered in mayo, cotija, chilli, and lime. The recipe here keeps to the cleaner butter-and-chive backyard style, but elote is just a brush away in the notes. Serve hot, straight off the grill, with extra butter and napkins, because nobody eats this neatly and nobody minds.
+Grilled corn on the cob is the unofficial flag of an American summer cookout. Whether it appears alongside ribs in Kansas City, brisket in central Texas or burgers on a Midwestern back porch, the technique is the same: husk the cob, lay it directly over hot coals or a hard gas flame, and turn it until the kernels darken and pop with sugar caramelisation. The flavour is straightforward but layered: heat converts the corn's starches and sugars into something almost popcorn-like in aroma, while a slick of garlic butter melts into every crevice and a squeeze of lime cuts cleanly through the richness. The line between perfectly grilled and overcooked is narrow; the trick is high direct heat for a short time and constant turning so each side picks up colour without burning through. American corn culture has always borrowed generously from its neighbours, and any conversation about grilled corn eventually circles to elote, the Mexican street-food version slathered in mayo, cotija, chilli and lime. This recipe keeps to the cleaner butter-and-chive backyard style; elote is just a brush away in the notes. Eaten hot straight off the grill with extra butter and napkins.
 
 ## Ingredients
 

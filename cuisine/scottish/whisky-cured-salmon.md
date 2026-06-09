@@ -2,7 +2,7 @@
 
 ![Whisky-Cured Smoked Salmon](resources/whisky-cured-salmon.jpg)
 
-*Scotland's premium smoked salmon: a side of Scottish salmon dry-cured for 24 hours in salt, sugar, dill and a generous bottle of Scotch whisky, then cold-smoked over oak (or hot-smoked at home in a wok rig). Buttery, faintly peaty, the colour of dawn over the firths. The luxury Scottish breakfast and the canonical Hogmanay buffet centrepiece.*
+*Scotland's premium smoked salmon: a side of Scottish salmon dry-cured for 24 hours in salt, sugar, dill and a generous slosh of Scotch whisky, then cold-smoked over oak.*
 
 **Serves:** 8 (as a starter or buffet item)
 
@@ -11,7 +11,7 @@
 **Cook Time:** None (cold-cured) OR 15 minutes (hot-smoked)
 
 ## Overview
-Scottish salmon - farmed in cold sea-lochs on the west and north coasts, or wild-caught from the Spey, Tay, or Tweed - is one of Scotland's most exported foods, and the smoked Scottish-salmon industry is one of the country's most refined food trades. The whisky-cured version is a Scottish refinement on Scandinavian gravlax: instead of a pure salt-sugar-dill cure, a generous dram (or three) of single-malt Scotch is added to the cure, giving the finished salmon a faintly peaty, smoky, slightly sweet edge before any actual smoke is applied. Two finishes are possible: the cold-cured version (no smoke; the cured fish is sliced very thin and served as gravlax, garnished with dill and mustard sauce) and the hot-smoked version (after curing, the fish is smoked in a wok rig with whisky-cask oak chips for 15 minutes at 80°C, producing a flaky, warm-spice-edged smoked salmon). This recipe describes both. The fish is served on Hogmanay bagels, on oatcakes at Burns Night, on Christmas-morning blinis, and at every Scottish smoked-salmon counter in the country. Three details: a whole side of salmon (skin on, pinboned), a heavy cure (don't skimp on the salt - it draws out moisture and firms the flesh), and slice very thin against the grain (a long sharp knife and confident strokes).
+Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-caught from the Spey, Tay or Tweed, is one of the country's most exported foods and the smoked Scottish-salmon industry is one of its most refined food trades. The whisky-cured version is a Scottish refinement on Scandinavian gravlax: instead of a pure salt-sugar-dill cure, a generous dram (or three) of single-malt Scotch goes into the mix, giving the finished salmon a faintly peaty, smoky, slightly sweet edge before any actual smoke is applied. Two finishes are possible from the same cure: the cold-cured version sliced very thin as gravlax with dill and mustard sauce, or the hot-smoked version, where the fish goes briefly into a wok rig with whisky-cask oak chips at 80 °C for a flaky warm-spice-edged finish. Eaten on Hogmanay bagels, on oatcakes at Burns Night, on Christmas-morning blinis.
 
 ## Ingredients
 

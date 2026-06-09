@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Bragioli (from the Italian "braciole" / Sicilian "involtini"; named "olives" because of the rolled shape, not because they contain olives) is Malta's classic stuffed-beef Sunday lunch. The construction: thin slices of top round beef are spread with a filling of minced pork, hard-boiled egg, breadcrumbs, parsley, garlic, Parmesan and beaten egg, rolled tight, tied with string, browned in olive oil, then slow-braised in a tomato-and-red-wine sauce with bay and onion for 90 minutes till the beef is fork-tender and the sauce is thick. Served sliced into pinwheel rounds over pasta, or with mashed potato and peas as the secondo. Three details: BEAT THE BEEF THIN (3 mm), TIE WITH STRING (not toothpicks), and SLOW BRAISE (90 minutes minimum).
+Bragioli (from the Italian "braciole" / Sicilian "involtini"; named "olives" because of the rolled shape, not because they contain olives) is Malta's classic stuffed-beef Sunday lunch. The construction: thin slices of top round beef are spread with a filling of minced pork, hard-boiled egg, breadcrumbs, parsley, garlic, Parmesan and beaten egg, rolled tight, tied with string, browned in olive oil, then slow-braised in a tomato-and-red-wine sauce with bay and onion for 90 minutes till the beef is fork-tender and the sauce is thick. Served sliced into pinwheel rounds over pasta, or with mashed potato and peas as the secondo.
 
 ## Ingredients
 

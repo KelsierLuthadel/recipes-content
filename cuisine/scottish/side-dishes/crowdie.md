@@ -2,7 +2,7 @@
 
 ![Crowdie](resources/crowdie.jpg)
 
-*Scotland's ancient fresh cheese: soured milk gently warmed till the curds separate from the whey, drained in muslin, mixed with salt and double cream, sometimes rolled in pinhead oatmeal or toasted hazelnuts. The traditional Highland breakfast cheese; spread on oatcakes with butter, or rolled into balls and served with whisky-pickled walnuts. Older than the Vikings; the most distinctively Scottish cheese in the canon.*
+*Scotland's ancient fresh cheese: soured milk warmed till the curds separate from the whey, drained in muslin, mixed with salt and double cream, sometimes rolled in pinhead oatmeal.*
 
 **Serves:** 6 (as a starter or cheese-board addition; makes about 300 g cheese)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Crowdie (also spelled "Crowdy" or "Cruddy butter") is one of the oldest dairy products in the British Isles, with documented Scottish origins going back to at least the 8th century - possibly brought to Scotland by the Vikings. The technique is the same as the original "naturally soured" fresh cheeses found across northern Europe: raw or pasteurised whole milk is allowed to sour naturally for a day or two (or accelerated with a tablespoon of buttermilk or yogurt), then gently warmed to about 38°C till the curds visibly separate from the watery whey. The curds are drained through muslin (cheesecloth) for several hours till the texture is somewhere between cottage cheese and ricotta but firmer than both, then mixed with sea salt and a generous swirl of double cream, sometimes flavoured with chopped chives or grated lemon zest, sometimes rolled in pinhead oatmeal or finely chopped toasted hazelnuts to form little round balls or a log shape. Crowdie is the canonical Highland breakfast cheese - spread on warm oatcakes with butter, served alongside fresh radishes, or rolled into the famous "Caboc" (a Highland Crowdie rolled in pinhead oatmeal, made commercially by Highland Fine Cheeses in Tain). Three details: full-fat whole milk (skimmed won't work - there's no fat to make curds), gentle heating (don't boil - boiling toughens the curds), and proper drainage (4-6 hours minimum, ideally overnight).
+Crowdie is one of the oldest dairy products in the British Isles, with documented Scottish origins going back to at least the 8th century and possibly brought over by the Vikings. The technique is the same as the original "naturally soured" fresh cheeses found across northern Europe: whole milk sours naturally for a day or two, then warms gently till the curds separate from the whey, drains through muslin for several hours, then gets mixed with sea salt and a swirl of double cream. The finished texture sits somewhere between cottage cheese and ricotta but firmer than both. Sometimes flavoured with chopped chives or grated lemon zest, sometimes rolled in pinhead oatmeal or finely chopped toasted hazelnuts to form little round balls or a log. The canonical Highland breakfast cheese, spread on warm oatcakes with butter, alongside fresh radishes, or rolled into the famous "Caboc" with pinhead oatmeal.
 
 ## Ingredients
 

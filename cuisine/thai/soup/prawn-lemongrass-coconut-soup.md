@@ -2,7 +2,7 @@
 
 ![Prawn, lemongrass and coconut soup](resources/prawn-lemongrass-coconut-soup.jpg)
 
-*This simple, yet mouth-watering exotic soup is bursting with fresh flavours of Thailand. It Works equally well as a main dish when poured over a bowl of freshly cooked noodles or rice.*
+*Thailand's creamy tom yum: prawns simmered in a fragrant broth of fish stock, coconut milk, lemongrass, ginger and red curry paste, brightened with lime and fish sauce.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-This is the creamy coconut-milk version of tom yum, prawns simmered in a fragrant broth of fish stock, coconut milk, lemongrass, ginger and red curry paste, brightened at the end with lime juice and fish sauce. The coconut milk is what turns it from the clear hot-and-sour tom yum into something softer and rounder; it also makes the soup substantial enough to ladle over noodles or rice as a light main rather than just a starter. Bruise a lemongrass stalk down to the root keeping the stalk intact (so you can fish it out at the end), slice fresh ginger into thick discs, peel and devein the prawns leaving the tails intact. Heat vegetable oil in a saucepan and stir red curry paste in for a minute till the kitchen smells of toasted lemongrass, then pour in fish or chicken stock, coconut milk, the lemongrass and ginger. Bring to a simmer for four minutes so the aromatics infuse, then add the prawns and cook just two minutes till they turn pink. Off the heat, stir in sugar, lime juice and fish sauce, then fish out and discard the lemongrass and ginger (the stalks are inedible). Ladle into bowls and finish with a scatter of fresh coriander; serve as a starter or pour over a bowl of cooked noodles or jasmine rice for a light main.
+This is the creamy coconut-milk version of tom yum, prawns simmered in a fragrant broth of fish stock, coconut milk, lemongrass, ginger and red curry paste, brightened at the end with lime juice and fish sauce. The coconut milk is what turns it from the clear hot-and-sour tom yum into something softer and rounder; it also makes the soup substantial enough to ladle over noodles or rice as a light main rather than just a starter. A bruised lemongrass stalk and thick discs of fresh ginger infuse the broth and get fished out at the end (they're inedible). The prawns go in late so they stay tender. Off the heat, lime juice, fish sauce and a pinch of sugar balance the four Thai notes. Ladled into bowls with a scatter of fresh coriander on top: eaten as a starter or poured over noodles or jasmine rice for a light main.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's most beloved bar foods and were invented at the Anchor Bar in Buffalo in 1964 by Teressa Bellissimo, who reportedly made them on the spot for her son and his friends with what she had in the kitchen: chicken wings (the whole wing, separated into the drumette and the flat) deep-fried till crispy (no breading, just deep-fried as-is), then tossed in a sauce of Frank's RedHot original sauce (the canonical brand) and melted butter (the canonical proportion is 1:1 by volume, with some preferring more or less butter). Served with celery sticks and blue cheese dressing (or ranch in much of America, though blue cheese is the Buffalo original). Three details: deep-fried unbreaded (the crisp comes from drying the skin), Frank's RedHot sauce canonical, blue cheese not ranch.
+Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's most beloved bar foods and were invented at the Anchor Bar in Buffalo in 1964 by Teressa Bellissimo, who reportedly made them on the spot for her son and his friends with what she had in the kitchen: chicken wings (the whole wing, separated into the drumette and the flat) deep-fried till crispy (no breading, just deep-fried as-is), then tossed in a sauce of Frank's RedHot original sauce (the canonical brand) and melted butter (the canonical proportion is 1:1 by volume, with some preferring more or less butter). Served with celery sticks and blue cheese dressing (or ranch in much of America, though blue cheese is the Buffalo original).
 
 ## Ingredients
 

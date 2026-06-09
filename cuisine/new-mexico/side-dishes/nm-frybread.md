@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-New Mexico frybread (also Navajo frybread) is one of the most iconic Native American foods of the Southwest, particularly associated with the Navajo Nation and the Pueblo peoples: a soft yeasted-or-baking-powder-leavened flour dough (flour, baking powder, salt, water, sometimes lard) rolled flat into 20cm rounds and deep-fried in oil till puffed and golden. The dish has dark historical roots (the Long Walk of 1864 displaced Navajo people who were given rations of flour and lard, which became frybread); today it's the canonical Navajo Nation and Pueblo bread, sold at every Pueblo feast day, NM state fair, and Native American gathering. Used as the base of Navajo tacos (see southwest recipe), eaten with honey or jam as a sweet dessert, or stuffed with savoury fillings. Three details: yeasted or baking-powder leavened, deep-fried (not baked), eat immediately while puffed and warm.
+New Mexico frybread (also Navajo frybread) is one of the most iconic Native American foods of the Southwest, particularly associated with the Navajo Nation and the Pueblo peoples: a soft yeasted-or-baking-powder-leavened flour dough (flour, baking powder, salt, water, sometimes lard) rolled flat into 20cm rounds and deep-fried in oil till puffed and golden. The dish has dark historical roots (the Long Walk of 1864 displaced Navajo people who were given rations of flour and lard, which became frybread); today it's the canonical Navajo Nation and Pueblo bread, sold at every Pueblo feast day, NM state fair, and Native American gathering. Used as the base of Navajo tacos (see southwest recipe), eaten with honey or jam as a sweet dessert, or stuffed with savoury fillings.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Croque Monsieur Belge](resources/croque-monsieur-belge.jpg)
 
-*The Belgian café classic: thick-cut white bread (or brioche), slathered on the outside with butter and pan-toasted golden, sandwiching a generous layer of Belgian Ardennes ham and a thick blanket of grated Gruyère or Emmental melted under a grill. Often topped with a béchamel-and-cheese gratin and finished under the grill for a bubbling cheese crust. Served on a plate with frites and a small green salad - the canonical Brussels brasserie lunch.*
+*The Belgian café classic: buttered thick-cut bread pan-toasted around Ardennes ham and Gruyère, often finished with a béchamel-cheese gratin under the grill. Served with frites.*
 
 **Serves:** 2
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The croque monsieur is French in origin (invented around 1910 at a Paris café), but the Belgian version distinguishes itself with three moves. First, the ham: Belgian Ardennes ham (a smoked, slightly sweet, fine-textured ham) or a good Belgian cooked ham (jambon de Liège, jambon d'Ardenne) rather than the French jambon blanc. Second, the cheese: Belgian preferences lean to Gruyère and Emmental together, with sometimes a layer of Bruges Vieux or aged Gouda for depth. Third, the bread and the topping: many Brussels brasseries finish with a béchamel-cheese gratin on top, then bake under the grill till bubbling and dark gold - more like a croque madame's elaborate cousin than a plain pan-toasted sandwich. The result is heavier and richer than the French original, served with frites alongside (in the Belgian style) and a small green salad. The classic accompaniment is a glass of cold Belgian lager (Stella Artois, Jupiler) or a witbier (Hoegaarden). A topped fried egg turns it into a croque madame Belge. Three details: BUTTER BOTH SIDES OF THE BREAD (the outside browns from the butter on the pan; the inside has buttered surfaces meeting the ham and cheese), USE GOOD AGED CHEESE (a 12-month Gruyère or Emmental has the right umami; supermarket young cheese is too mild), and THE GRATIN TOPPING IS THE BELGIAN MOVE (a thin layer of béchamel + grated cheese under a hot grill turns a sandwich into a proper brasserie dish).
+The croque monsieur is French in origin, invented around 1910 at a Paris café, but the Belgian version distinguishes itself with three moves. First, the ham: Belgian Ardennes ham (smoked, slightly sweet, fine-textured) or a good Belgian cooked ham like jambon de Liège, rather than the French jambon blanc. Second, the cheese: Belgian preferences lean to Gruyère and Emmental together, sometimes with a layer of Bruges Vieux or aged Gouda for depth. Third, the topping: many Brussels brasseries finish with a béchamel-cheese gratin on top, baked under the grill till bubbling and dark gold, more like a croque madame's elaborate cousin than a plain pan-toasted sandwich. The result is heavier and richer than the French original, served with frites and a small green salad. A fried egg on top turns it into a croque madame Belge.
 
 ## Ingredients
 

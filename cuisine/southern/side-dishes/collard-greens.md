@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Southern collard greens is one of the most beloved sides in Southern cooking and the canonical green vegetable that turns up alongside every Southern plate: fresh collard greens (the tough cabbage-family leaf widely grown in the South; substitute with kale or Swiss chard outside) trimmed of ribs and roughly chopped, then slow-simmered with a smoked ham hock (or smoked turkey wing for a leaner version), chopped onion, crushed garlic, hot sauce, apple cider vinegar, a touch of brown sugar and chicken stock for 90+ minutes till the greens are silky-tender and the "pot liquor" (the cooking liquid) has thickened into a deeply flavoured broth. On New Year's Day, collards are eaten alongside Hoppin' John for luck (the green of greens symbolises dollars). Three details: smoked ham hock or substitute (the smoky depth), long-cook (90+ min), pot liquor (don't drain).
+Southern collard greens is one of the most beloved sides in Southern cooking and the canonical green vegetable that turns up alongside every Southern plate: fresh collard greens (the tough cabbage-family leaf widely grown in the South; substitute with kale or Swiss chard outside) trimmed of ribs and roughly chopped, then slow-simmered with a smoked ham hock (or smoked turkey wing for a leaner version), chopped onion, crushed garlic, hot sauce, apple cider vinegar, a touch of brown sugar and chicken stock for 90+ minutes till the greens are silky-tender and the "pot liquor" (the cooking liquid) has thickened into a deeply flavoured broth. On New Year's Day, collards are eaten alongside Hoppin' John for luck (the green of greens symbolises dollars).
 
 ## Ingredients
 

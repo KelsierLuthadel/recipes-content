@@ -2,7 +2,7 @@
 
 ![Scotch Broth](resources/scotch-broth.jpg)
 
-*Scotland's everyday Sunday soup: a thick, rib-sticking broth of lamb (neck or shoulder), pearl barley, root vegetables, dried peas and split peas, simmered slowly into a unified amber pottage. The soup that every Scottish granny made and every Scottish child ate weekly through winter. The opposite of the haggis showpiece: humble, restorative, the canonical Scottish home cooking.*
+*Scotland's everyday Sunday soup: a thick rib-sticking broth of lamb, pearl barley, root vegetables and dried peas, simmered slowly into a unified amber pottage.*
 
 **Serves:** 6-8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2.5 hours
 
 ## Overview
-Scotch broth is Scotland's everyday home soup and the dish that defines weekday Scottish family cooking from the Borders to Caithness. The construction is hearty: a piece of lamb on the bone (neck-end or shoulder) is simmered slowly in water with pearl barley, dried green peas (whole or split), and a host of diced root vegetables (carrot, swede, turnip, leek, onion, celery). After 2-3 hours of unhurried simmering, the lamb is shredded off the bone, the broth thickens from the barley and peas, and the whole thing becomes a single amber-hued pottage somewhere between soup and stew. Served in deep bowls with a hunk of bread and butter, scotch broth is the canonical lunch in Scottish primary schools, the Sunday-after-roast supper that uses up the leftovers, and the soup that's been making Scottish people warm for 400 years. Three details: the lamb on the bone (lamb on the bone gives the broth depth; boneless lamb gives a thin broth), the pearl barley (don't skip - it thickens and gives the dish texture), and the overnight pea soak (skip this and you'll have hard peas; soak overnight and they fall apart beautifully).
+Scotch broth is Scotland's everyday home soup and the dish that defines weekday Scottish family cooking from the Borders to Caithness. The construction is hearty: a piece of lamb on the bone (neck-end or shoulder) simmers slowly in water with pearl barley, dried green peas (whole or split) and a host of diced root vegetables (carrot, swede, turnip, leek, onion, celery). After two to three hours of unhurried simmering, the lamb shreds off the bone, the broth thickens from the barley and peas, and the whole thing becomes a single amber-hued pottage somewhere between soup and stew. Eaten in deep bowls with a hunk of bread and butter; the canonical lunch in Scottish primary schools, the Sunday-after-roast supper that uses up the leftovers, and the soup that's been making Scottish people warm for four hundred years.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The New York hot dog is one of America's most iconic street foods and the symbol of NYC street-cart vending: an all-beef hot dog (canonical brand: Sabrett, made in the Bronx; or Nathan's from Coney Island) cooked in simmering water (the canonical "dirty water dog" street-cart method; the hot dogs sit in slowly simmering broth for hours till plumped and tender), placed in a soft white bun, and topped with the two canonical NY toppings: sauerkraut (drained, sometimes warmed) and the famous NY onion sauce (chopped onions cooked down in tomato paste, paprika, cumin, salt and water into a brick-red savoury-sweet onion compote). Finished with yellow mustard (NEVER ketchup on a NY dog; that's a sin). Three details: all-beef hot dogs, simmer (don't grill), the onion sauce is canonical NY.
+The New York hot dog is one of America's most iconic street foods and the symbol of NYC street-cart vending: an all-beef hot dog (canonical brand: Sabrett, made in the Bronx; or Nathan's from Coney Island) cooked in simmering water (the canonical "dirty water dog" street-cart method; the hot dogs sit in slowly simmering broth for hours till plumped and tender), placed in a soft white bun, and topped with the two canonical NY toppings: sauerkraut (drained, sometimes warmed) and the famous NY onion sauce (chopped onions cooked down in tomato paste, paprika, cumin, salt and water into a brick-red savoury-sweet onion compote). Finished with yellow mustard (NEVER ketchup on a NY dog; that's a sin).
 
 ## Ingredients
 

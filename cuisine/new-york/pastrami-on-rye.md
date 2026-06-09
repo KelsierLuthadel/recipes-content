@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes (warming)
 
 ## Overview
-Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the canonical lunch at Katz's Delicatessen on Houston Street (in operation since 1888; the deli where Meg Ryan filmed "I'll have what she's having" in When Harry Met Sally): thick-sliced pastrami (brisket that's been brined for 5-7 days in salt + sugar + curing salt + pickling spices, rubbed with crushed black pepper and coriander seeds, smoked low-and-slow over hickory or beech wood for 5-6 hours, then steamed for 2 hours till incredibly tender), piled at least 6 inches high on rye bread (the canonical NYC seeded Jewish rye) with yellow mustard (NEVER ketchup; that's a sin in NY deli world) and a dill pickle on the side. Three details: thick hand-sliced pastrami, seeded Jewish rye, yellow mustard only.
+Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the canonical lunch at Katz's Delicatessen on Houston Street (in operation since 1888; the deli where Meg Ryan filmed "I'll have what she's having" in When Harry Met Sally): thick-sliced pastrami (brisket that's been brined for 5-7 days in salt + sugar + curing salt + pickling spices, rubbed with crushed black pepper and coriander seeds, smoked low-and-slow over hickory or beech wood for 5-6 hours, then steamed for 2 hours till incredibly tender), piled at least 6 inches high on rye bread (the canonical NYC seeded Jewish rye) with yellow mustard (NEVER ketchup; that's a sin in NY deli world) and a dill pickle on the side.
 
 ## Ingredients
 

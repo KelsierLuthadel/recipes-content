@@ -2,7 +2,7 @@
 
 ![Chilorio](resources/chilorio.jpg)
 
-*Sinaloa's slow-cooked spiced pork: cubes of pork shoulder simmered with dried ancho chillies, garlic, cumin, oregano and vinegar till the meat falls apart and the chilli paste forms a thick coating. The Sinaloan-Mexican specialty, traditionally preserved in lard for months; eaten in tacos, burritos, with eggs at breakfast.*
+*Sinaloa's slow-cooked spiced pork: cubes of shoulder simmered with dried ancho and pasilla chillies, garlic, cumin and vinegar till the meat falls apart and the chilli paste forms a thick mahogany coating.*
 
 **Serves:** 6-8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-Chilorio is the iconic Sinaloan-Mexican slow-cooked spiced pork and a beloved Northern Mexican breakfast classic: cubes of pork shoulder are first slow-cooked in their own fat (in the canonical method) or in water (in the modern home version) till tender; then shredded slightly and slow-fried in a thick paste of rehydrated dried ancho chillies, dried pasilla chillies, crushed garlic, ground cumin, dried Mexican oregano, ground cloves, vinegar and salt, till the chilli paste forms a thick coating around the meat and the pork goes deep mahogany. Traditionally chilorio was a preservation technique - the cooked pork was packed in jars and covered with lard, where it would keep for months without refrigeration; today, refrigeration removes the need for the lard layer. The dish is most often served at breakfast (chilorio con huevos) in burritos or with eggs and refried beans; also as a taco filling, in quesadillas, or as a main course over rice. Three details define proper chilorio. First, dried chillies. Ancho and pasilla are canonical; both available at Mexican markets or larger supermarkets. Substitute with guajillo if needed. Second, rehydrate the chillies properly. Toast briefly then soak in hot water 30 minutes to soften before blending. Third, slow-fry the chilli paste with the meat. The chilli paste needs to cook with the pork for the proper integration; the colour deepens and the flavours meld.
+Chilorio is the iconic Sinaloan slow-cooked spiced pork and a beloved Northern Mexican breakfast classic. Cubes of pork shoulder cook slow in their own fat (the canonical method) or water (the modern home version) till tender, then get lightly shredded and slow-fried in a thick paste of rehydrated dried ancho and pasilla chillies, crushed garlic, cumin, Mexican oregano, cloves, vinegar and salt till the chilli paste forms a thick coating around the meat and the pork goes deep mahogany. The slow-fry of the paste with the meat is the canonical step: the colour deepens and the flavours meld as the chilli cooks in. Chilorio began as a preservation technique: the cooked pork was packed in jars and sealed under lard where it kept for months without refrigeration; today the fridge does that work. Most often eaten at breakfast as chilorio con huevos with refried beans and warm tortillas, also folded into tacos and quesadillas or plated as a main over rice.
 
 ## Ingredients
 

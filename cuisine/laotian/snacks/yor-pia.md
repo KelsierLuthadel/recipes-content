@@ -2,7 +2,7 @@
 
 ![Yor Pia](resources/yor-pia.jpg)
 
-*Laos's fresh-not-fried summer roll: a thin moistened rice-paper wrapper rolled around cooked rice vermicelli, slices of cooked pork (or prawn or tofu), a generous fistful of fresh herbs (mint, cilantro, culantro), shredded lettuce, julienned cucumber and a thin slice of pickled carrot - served alongside a small dish of a sweet-savoury Lao peanut dipping sauce or a tangy fish-sauce-and-lime dressing. The Lao version differs from the Vietnamese gỏi cuốn in three small ways: more aggressive herb load, the canonical peanut sauce is thinner and more lime-forward, and laap can be a filling. Eaten at every Lao café and household summer lunch.*
+*Laos's fresh summer roll: a rice-paper wrapper rolled around cooked rice vermicelli, sliced pork, fresh herbs, lettuce and cucumber, with peanut sauce or fish-sauce-and-lime dressing alongside.*
 
 **Serves:** 4 (8 rolls)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (just for the pork or prawns)
 
 ## Overview
-Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition. Three Lao-specific moves. First, the herb load: Lao yor pia carries MORE fresh herbs than Vietnamese gỏi cuốn - a generous pile of mint, cilantro, culantro (sawtooth coriander), Thai basil and dill (the surprising Lao herb). The roll should be lush with herbs visible through the wrapper. Second, the canonical filling: thin slices of cooked pork belly (or boiled prawns, or marinated tofu) + cooked rice vermicelli (thin rice noodles, briefly soaked in hot water) + shredded lettuce + julienned cucumber + a thin slice of pickled carrot. The pork is the traditional choice; some Northern Lao variants use cooked laap as the filling for a more substantial version. Third, the dipping sauce: Lao yor pia is traditionally served with TWO sauces - a sweet-creamy peanut sauce (similar to but thinner than Indonesian sate sauce) AND a clear tangy fish sauce + lime + chilli + garlic dressing (similar to Vietnamese nuoc cham). The diner picks based on preference; some dip with both. Three details: MOISTEN THE RICE PAPER PROPERLY (15-20 seconds in warm water; over-soaking gives floppy soggy wrappers, under-soaking gives brittle ones), DON'T OVERFILL (a moderate filling rolls cleanly; an overfull roll splits), and EAT WITHIN 30 MINUTES (the rice paper dries out fast on standing).
+Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at every Lao café and household summer lunch. The roll should be lush with visible herbs through the wrapper: Lao yor pia carries more fresh herbs than its Vietnamese gỏi cuốn cousin, with a generous pile of mint, cilantro, culantro, Thai basil and dill (the surprising Lao herb). The canonical filling is thin slices of cooked pork belly (boiled prawns or marinated tofu substitute), cooked rice vermicelli, shredded lettuce, julienned cucumber and a thin slice of pickled carrot, all wrapped in a moistened rice-paper sheet. Some Northern Lao variants use cooked laap as the filling for a more substantial version. Traditionally served with two sauces: a sweet-creamy peanut sauce (thinner and more lime-forward than Indonesian sate sauce) and a clear tangy fish-sauce-and-lime dressing (similar to Vietnamese nuoc cham). The diner picks based on preference, or dips with both.
 
 ## Ingredients
 

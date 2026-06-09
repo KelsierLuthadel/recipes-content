@@ -2,7 +2,7 @@
 
 ![Izmir Kofte](resources/izmir-kofte.jpg)
 
-*Turkey's Aegean meatballs in tomato sauce: tender lamb-and-beef meatballs (smaller and softer than köfte) slow-baked with cubed potato and chunks of green pepper in a rich tomato sauce till everything melts together. The home-cook Sunday dish from İzmir and the wider Aegean region.*
+*Turkey's Aegean meatballs in tomato sauce: small soft lamb-and-beef meatballs slow-baked with cubed potato and green pepper in a rich tomato sauce till everything melts together.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-İzmir köfte is the iconic Aegean-Turkish variation of köfte (Turkish meatballs) and an absolute home-cook Sunday classic across the western coast of Turkey: small soft meatballs (made from a 50/50 mix of minced lamb and beef bound with grated onion, soaked bread, parsley, cumin and Aleppo pepper) are first browned in olive oil, then slow-baked in the oven in a rich tomato-and-stock sauce alongside cubes of potato and chunks of green bell pepper till the potatoes are soft, the meatballs have absorbed the sauce, and the whole tray has melded into a comforting Mediterranean-style stew. The dish distinguishes itself from regular köfte by the softer meatball texture (more bread, slightly less mince) and the baked-in-sauce technique (rather than grilled). Three details define proper İzmir köfte. First, the meatballs are smaller and softer than grilled köfte. The bread-in-milk panada is generous; the meatballs are oval and about 5 cm long. Soft texture is the goal. Second, brown the meatballs first. The brief pan-sear gives the fond and the texture that holds up to the long bake. Skipping the brown gives stew-meatballs without character. Third, slow-bake in plenty of sauce. The sauce should be loose enough to half-submerge the meatballs and cook the potatoes through. Too little and things dry out; too much and you have soup.
+İzmir köfte is the iconic Aegean-Turkish variation of köfte (Turkish meatballs) and an absolute home-cook Sunday classic across the western coast of Turkey. It distinguishes itself from regular köfte by the softer meatball texture: more bread, slightly less mince: and the baked-in-sauce technique rather than grilled. A 50/50 mix of minced lamb and beef binds with grated onion, soaked bread, parsley, cumin and Aleppo pepper; the meatballs are shaped soft and oval, about 5 cm long, then briefly browned in olive oil to build fond and texture before going in the oven. They slow-bake in a rich tomato-and-stock sauce alongside cubes of potato and chunks of green bell pepper, the sauce loose enough to half-submerge them and cook the potatoes through, till the whole tray has melded into a comforting Mediterranean-style stew. Eaten on a Sunday with bread for soaking up the sauce.
 
 ## Ingredients
 

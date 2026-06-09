@@ -2,7 +2,7 @@
 
 ![Aji de Gallina](resources/aji-de-gallina.jpg)
 
-*Lima's comfort food: shredded poached chicken bathed in a thick yellow sauce of aji amarillo chilli, walnuts, bread soaked in stock and milk, Parmesan and evaporated milk - blitzed into a creamy yellow-orange velouté. Served over white rice, garnished with a hard-boiled egg half, a black olive, and a slice of boiled yellow potato. The colour is the unmistakable Peruvian signal - electric mustard yellow from the aji amarillo. Comfort, restraint and complexity in one plate; the Peruvian Sunday lunch.*
+*Lima's Sunday-lunch comfort food: shredded poached chicken in a creamy yellow sauce of aji amarillo chilli, walnuts, bread and evaporated milk, served over white rice with a hard-boiled egg, a black olive and a slice of yellow potato.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Aji de gallina ("hen with yellow chilli") is Lima's most beloved comfort food and one of Peru's most identity-defining home dishes. The construction has three Peruvian-specific moves. First, the aji amarillo paste: the yellow Peruvian chilli (sold dried, frozen, or as a thick paste in jars at Latin American shops) is what gives the dish its electric-yellow colour and its fruity-floral mild heat. Aji amarillo paste isn't aggressive; it's complex and aromatic - more like a roasted yellow pepper with a peppery bite than a fiery hot chilli. Second, the thickener: white bread (or stale bread / breadcrumbs) soaked in the chicken poaching liquid plus a splash of evaporated milk. The bread breaks down completely when blitzed, giving the sauce its velvety thickness without using flour or cornflour. Third, the walnuts: a handful of toasted ground walnuts blitzed into the sauce - this is the canonical Peruvian addition that thickens further and gives a nutty undertone. Some Lima households also add a small amount of Parmesan cheese. The shredded poached chicken (hand-pulled into thin threads, never machine-shredded) is folded into the warm sauce; the dish is served over plain white rice with the canonical Peruvian "criollo" garnish: a hard-boiled egg half, a Botija olive, a slice of boiled yellow Peruvian potato, and a parsley leaf. The original 18th-century version used hen (gallina); modern recipes use chicken (pollo); some Lima upscale restaurants use guinea hen. Three details: AJI AMARILLO PASTE IS NON-NEGOTIABLE (look for the Inka Crops or Doña Isabel brand at Latin American shops, or in a jar at international supermarkets; substituting with chilli powder gives a flat, wrong dish), BREAD-AND-MILK THICKENER (not flour or cornflour; the bread + evaporated milk slurry is the Peruvian way), and SHRED THE CHICKEN BY HAND INTO THIN THREADS (not chunks; not minced; the texture is part of the dish).
+Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji amarillo paste (the Peruvian yellow chilli, sold in jars at Latin American shops) gives the sauce its electric yellow colour and floral-fruity mild heat. Bread soaked in chicken poaching liquid and evaporated milk thickens the sauce without flour or cornflour; toasted walnuts blitzed in finish the body. Shred the poached chicken by hand into thin threads, never machine-shredded; fold into the warm sauce. Serve over plain white rice with the canonical criolla garnish: a hard-boiled egg half, a Botija olive, a slice of boiled yellow potato and a parsley leaf.
 
 ## Ingredients
 

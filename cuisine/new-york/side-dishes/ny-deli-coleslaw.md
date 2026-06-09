@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-NY deli coleslaw is the canonical Jewish-American deli-counter slaw and the side that turns up alongside every pastrami sandwich, corned beef on rye, and matzo ball soup at the great New York delis (Katz's, Carnegie, 2nd Avenue Deli, Russ & Daughters all serve their slightly different versions): shredded green cabbage (and a touch of carrot for colour) tossed with a tangy mayo-vinegar dressing flavoured with white vinegar (more vinegar than most American coleslaws; the NY deli style is brighter and more vinegar-forward), Dijon mustard, sugar, celery seed, salt, white pepper and a touch of grated onion or onion powder. Chilled 1 hour for flavours to meld. Three details: more vinegar than typical, celery seed essential, chill before serving.
+NY deli coleslaw is the canonical Jewish-American deli-counter slaw and the side that turns up alongside every pastrami sandwich, corned beef on rye, and matzo ball soup at the great New York delis (Katz's, Carnegie, 2nd Avenue Deli, Russ & Daughters all serve their slightly different versions): shredded green cabbage (and a touch of carrot for colour) tossed with a tangy mayo-vinegar dressing flavoured with white vinegar (more vinegar than most American coleslaws; the NY deli style is brighter and more vinegar-forward), Dijon mustard, sugar, celery seed, salt, white pepper and a touch of grated onion or onion powder. Chilled 1 hour for flavours to meld.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Creole crab cakes are the New Orleans version of the famous American crab cake (distinct from Maryland-style which uses Old Bay; Creole uses Cajun seasoning and Creole mustard): lump crab meat (jumbo lump for best texture) bound very lightly with a sauce of Creole mustard, mayonnaise, egg, lemon juice, the chopped trinity (onion, celery, green pepper), garlic, Cajun spices, parsley and just enough breadcrumbs to hold together (don't overbind; the crab should be the star). Formed into patties, refrigerated to firm up, then pan-fried in butter till golden on both sides. Served with remoulade sauce or tartar sauce, lemon wedges, and a small green salad. Three details: minimum binder (crab should taste like crab), Creole mustard signature, pan-fried not deep-fried.
+Creole crab cakes are the New Orleans version of the famous American crab cake (distinct from Maryland-style which uses Old Bay; Creole uses Cajun seasoning and Creole mustard): lump crab meat (jumbo lump for best texture) bound very lightly with a sauce of Creole mustard, mayonnaise, egg, lemon juice, the chopped trinity (onion, celery, green pepper), garlic, Cajun spices, parsley and just enough breadcrumbs to hold together (don't overbind; the crab should be the star). Formed into patties, refrigerated to firm up, then pan-fried in butter till golden on both sides. Served with remoulade sauce or tartar sauce, lemon wedges, and a small green salad.
 
 ## Ingredients
 

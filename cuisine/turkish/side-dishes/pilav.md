@@ -2,7 +2,7 @@
 
 ![Turkish Pilav](resources/pilav.jpg)
 
-*Turkey's pillowy rice pilaf: long-grain rice cooked in butter and chicken stock with toasted vermicelli noodles, finished with toasted pine nuts, currants and a touch of cinnamon. The everyday Turkish rice side, eaten alongside grilled meats, stews and dolma.*
+*Turkey's pillowy rice pilaf: long-grain rice cooked in butter and chicken stock with toasted vermicelli noodles, finished with toasted pine nuts and currants.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Turkish pilav (or "pirinç pilavı"; literally "rice pilaf") is one of Turkey's most foundational dishes and the canonical accompaniment to grilled meats, kebabs, stews and dolma: long-grain rice (the canonical Turkish choice is "baldo" or basmati; both work) cooked in a base of melted butter and toasted broken vermicelli noodles, then simmered in well-seasoned chicken stock till the grains are properly fluffy and the vermicelli has cooked into the rice giving the pilaf its characteristic golden-flecked appearance. The dish is often dressed up for special occasions with toasted pine nuts, currants (or sultanas), a touch of ground cinnamon and allspice, and sometimes diced cooked chicken liver (for the celebration "iç pilav"; an Anatolian special-occasion version that's also a stuffing for whole roasted chicken and grape leaves). The vermicelli is non-negotiable; it's what makes Turkish pilav distinct from Persian or Indian rice. Three details define proper Turkish pilav. First, rinse and soak the rice. Rinsing removes excess surface starch; the 30-minute warm-water soak gives the grains a head start on hydration and produces longer, separated grains after cooking. Skipping these steps gives a sticky pilaf. Second, toast the vermicelli properly. The broken noodles must turn deep golden in the butter before the rice goes in. This is what gives the pilaf its proper golden colour and nutty flavour. Pale vermicelli gives a bland pilaf. Third, the lid stays on. Once the stock goes in and reaches a simmer, the lid stays on and the pan goes to low heat for 15 minutes, then off the heat (still covered) for 10 minutes resting. Every lid-lift loses steam and gives uneven cooking.
+Turkish pilav (pirinç pilavı) is one of Turkey's most foundational dishes and the canonical accompaniment to grilled meats, kebabs, stews and dolma. Long-grain rice: baldo is the canonical Turkish choice, but basmati works: cooks in a base of melted butter and toasted broken vermicelli noodles, then simmers in well-seasoned chicken stock till the grains are fluffy and the vermicelli has cooked into the rice giving the pilaf its golden-flecked appearance. The vermicelli is non-negotiable: it's what makes Turkish pilav distinct from Persian or Indian rice, and the broken noodles must turn deep golden in the butter before the rice joins, or you end up with a bland pilaf. The rice itself wants rinsing and a 30-minute warm-water soak so the grains separate after cooking. Lid stays on through the fifteen-minute simmer and a ten-minute rest off the heat: every lid-lift loses steam. Often dressed up for special occasions with toasted pine nuts, currants and a touch of cinnamon (iç pilav, the celebration version, adds diced chicken liver and stuffs a whole roast chicken).
 
 ## Ingredients
 

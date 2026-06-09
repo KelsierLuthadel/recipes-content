@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Sarma is a Balkan-wide tradition, but the Macedonian version distinguishes itself: sour cabbage (preserved whole heads of fermented cabbage) is the canonical wrapper (rather than fresh cabbage or grape leaves); the filling combines minced pork (or pork-and-beef) with rice, sweated onion, sweet paprika, salt, pepper, and dried mint; the rolls are layered in a deep pot with pieces of smoked dried pork or sausage between layers; the pot is filled with stock and simmered slowly for 2 hours. Served with sour cream and crusty bread. Three details: SOUR CABBAGE LEAVES (the canonical Macedonian wrapper; available from Balkan grocers), SMOKED MEAT LAYERED BETWEEN (the depth element), and SLOW SIMMER 2 HOURS minimum.
+Sarma is a Balkan-wide tradition, but the Macedonian version distinguishes itself: sour cabbage (preserved whole heads of fermented cabbage) is the canonical wrapper (rather than fresh cabbage or grape leaves); the filling combines minced pork (or pork-and-beef) with rice, sweated onion, sweet paprika, salt, pepper, and dried mint; the rolls are layered in a deep pot with pieces of smoked dried pork or sausage between layers; the pot is filled with stock and simmered slowly for 2 hours. Served with sour cream and crusty bread.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Gløgg](resources/glogg-danish.jpg)
 
-*Denmark's Christmas mulled wine: red wine simmered with akvavit (or dark rum), sugar, cinnamon, cardamom, cloves, orange peel and raisins; served piping hot in small glass mugs with plump rum-soaked raisins and whole almonds in the bottom. Sharper, more cinnamon-forward and less cardamom-heavy than the Swedish version; eaten at every Danish Advent gathering from late November through Christmas.*
+*Denmark's Christmas mulled wine: red wine simmered with akvavit or dark rum, cinnamon, cloves, cardamom and orange peel, served piping hot with rum-soaked raisins and whole almonds at the bottom of the mug.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent gathering, julefrokost, Christmas market, and family pre-dinner drink from late November through Twelfth Night. The Danish version differs from the Swedish glögg (see [Swedish glögg](../../sweden/glogg.md)) in three ways: it's more cinnamon-forward (less cardamom), sharper and more wine-driven (lower sugar than Swedish), and frequently uses dark rum or brandy instead of akvavit for the spirit boost (giving warmer, less herbal notes). Otherwise the principle is the same: red wine warmed gently with sugar, a spirit boost, a bag of warming spices (cinnamon stick, cloves, cardamom, allspice, fresh ginger, orange peel), and served in small heat-safe mugs with plump rum-soaked raisins and whole blanched almonds in the bottom. Drunk with æbleskiver (Danish round pancake balls, dusted with icing sugar and served with jam) - the canonical Danish Christmas gløgg-and-æbleskiver pairing. Three details: cinnamon-forward (more cinnamon than the Swedish equivalent), dark rum or brandy as the spirit boost (canonical Danish), raisins-and-almonds in the cup (the same Scandinavian ritual).
+Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent gathering, julefrokost, Christmas market, and family pre-dinner drink from late November through Twelfth Night. The Danish version differs from the Swedish glögg (see [Swedish glögg](../../sweden/glogg.md)) in three ways: it's more cinnamon-forward (less cardamom), sharper and more wine-driven (lower sugar than Swedish), and frequently uses dark rum or brandy instead of akvavit for the spirit boost (giving warmer, less herbal notes). Otherwise the principle is the same: red wine warmed gently with sugar, a spirit boost, a bag of warming spices (cinnamon stick, cloves, cardamom, allspice, fresh ginger, orange peel), and served in small heat-safe mugs with plump rum-soaked raisins and whole blanched almonds in the bottom. Drunk with æbleskiver (Danish round pancake balls, dusted with icing sugar and served with jam) - the canonical Danish Christmas gløgg-and-æbleskiver pairing.
 
 ## Ingredients
 

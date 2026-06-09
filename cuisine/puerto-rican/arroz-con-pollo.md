@@ -2,7 +2,7 @@
 
 ![Arroz con Pollo](resources/arroz-con-pollo.jpg)
 
-*Puerto Rico's one-pot chicken and rice: bone-in chicken pieces browned in olive oil, then simmered together with rice in a sofrito-and-sazón base with peas, olives and capers, till the rice absorbs the chicken-flavoured broth and the meat falls from the bone. The Sunday family classic, the canonical Boricua arroz amarillo with chicken.*
+*Puerto Rico's one-pot chicken and rice: bone-in chicken browned in olive oil, then simmered together with rice in a sofrito-and-sazón base with peas, olives and capers.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Arroz con pollo is the canonical Latin American one-pot chicken-and-rice dish, with many regional variations across Latin America; the Puerto Rican version distinguishes itself with sofrito and sazón (the Boricua flavour signatures), the addition of green olives and capers (for the canonical Boricua brininess), and the use of medium-grain rice (rather than long-grain): bone-in chicken pieces are browned in olive oil, then slow-cooked in a sofrito-tomato base with sazón, achiote, beer (sometimes), peas, sliced olives and capers; rice is added partway through and absorbs the chicken-flavoured broth; the dish is covered and finished till the rice is tender and the chicken falls from the bone. The whole thing is served family-style from the pot, with sliced avocado, lime wedges and a side of red beans (habichuelas) for the full Boricua Sunday meal. Three details define proper Puerto Rican arroz con pollo. First, sofrito and sazón. The PR seasoning duo is essential; without them, the dish is generic chicken-rice. Second, achiote for colour. Either annatto seeds steeped in oil, or commercial sazón (which contains achiote), gives the proper deep yellow-orange colour. Third, don't lift the lid during the rice cooking. Once the rice goes in and the pot is covered, leave alone for the full 30 minutes. The steam-and-absorption cooks the rice perfectly; lid-lifting ruins it.
+Arroz con pollo is the canonical Latin American one-pot chicken-and-rice dish, with many regional variations; the Puerto Rican version distinguishes itself with sofrito and sazón (the Boricua flavour signatures), the addition of green olives and capers for brininess, and the use of medium-grain rice rather than long-grain. Bone-in chicken pieces brown in olive oil, then slow-cook in a sofrito-tomato base with sazón, achiote, peas, sliced olives and capers; rice goes in partway through and absorbs the chicken-flavoured broth as the dish finishes covered until the rice is tender and the chicken falls from the bone. Achiote (annatto seeds steeped in oil, or commercial sazón which contains it) gives the proper deep yellow-orange colour. Once the rice is in and the pot is covered, leave alone for the full thirty minutes; lifting the lid ruins the rice. Served family-style from the pot with sliced avocado, lime wedges and a side of habichuelas for a full Boricua Sunday meal.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Torta tal-lampuki appears in Malta only during late summer and autumn - the lampuki (mahi-mahi / dorado / Coryphaena hippurus) is caught off Maltese shores from August through November using traditional palm-frond rafts that attract the fish. During this season, every Maltese bakery and home kitchen produces the canonical lampuki pie. The construction is a classic British-style pie filled with a uniquely Maltese filling: lampuki fillets (lightly floured and pan-fried first), layered with sautéed spinach, sultanas, capers, black olives, fresh tomato, chopped mint, and a touch of cauliflower for body. Two layers of shortcrust pastry encase the filling; baked till deeply golden. Three details: FLOUR AND PAN-FRY THE FISH FIRST (prevents soggy bottom), MULTIPLE LAYERS OF FILLING (the sweet-savoury combination is the Maltese signature), and SHORTCRUST not puff pastry (the canonical Maltese pie pastry).
+Torta tal-lampuki appears in Malta only during late summer and autumn - the lampuki (mahi-mahi / dorado / Coryphaena hippurus) is caught off Maltese shores from August through November using traditional palm-frond rafts that attract the fish. During this season, every Maltese bakery and home kitchen produces the canonical lampuki pie. The construction is a classic British-style pie filled with a uniquely Maltese filling: lampuki fillets (lightly floured and pan-fried first), layered with sautéed spinach, sultanas, capers, black olives, fresh tomato, chopped mint, and a touch of cauliflower for body. Two layers of shortcrust pastry encase the filling; baked till deeply golden.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![İskender Kebab](resources/iskender-kebab.jpg)
 
-*Turkey's "kebab on bread" classic: thin slices of grilled döner-style lamb laid over torn squares of crispy pita bread, ladled with hot tomato sauce, topped with melted butter, served with thick yogurt and fresh tomato. The Bursa-invented dish that's now Turkey's restaurant signature, eaten with eyes-closed reverence by every Turkish food lover.*
+*Turkey's "kebab on bread": thin slices of grilled lamb laid over crispy pita squares, ladled with hot tomato sauce and sizzling browned butter, served with thick yogurt and grilled tomato.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-İskender kebab is one of Turkey's most iconic restaurant dishes, named after İskender Efendi, who invented it in the late 19th century in the city of Bursa: thin slices of marinated grilled lamb (the canonical version uses döner-style lamb sliced from a vertical spit; the home version uses marinated and pan-grilled lamb thinly sliced), laid generously over torn squares of crispy fried or oven-toasted pita bread, ladled over with hot fresh tomato sauce, topped with browned butter (the canonical Turkish "tereyağı" technique: butter melted till the milk solids turn nutty-brown), served with a generous spoonful of thick drained yogurt on the side and quarters of grilled fresh tomato and pepper as garnish. The dish is a study in textures and flavours: the crisp bread soaked with tomato sauce and butter, the tender lamb slices, the cooling yogurt cutting through the richness, the sweetness of grilled tomato. The home version (without a vertical döner spit) substitutes thinly-sliced lamb leg or lamb shoulder marinated overnight in yogurt, garlic and spices, grilled or pan-fried in batches and sliced thin; the result is excellent. Three details define proper iskender kebab. First, the bread must be properly crisp. Either fried in butter or toasted in the oven till the outside is dark golden and crisp; soggy bread ruins the dish. Second, the tomato sauce must be properly seasoned and properly hot. Fresh tomatoes cooked down with garlic, butter, salt and a small amount of red pepper paste (biber salçası) till thick and glossy; the sauce is ladled hot over the lamb-and-bread just before serving. Third, the browned butter (tereyağı) finish is essential. Butter melted till the solids turn nutty-brown, then poured sizzling over the assembled dish at the moment of serving; the dramatic sizzle and the nutty flavour are what makes iskender iskender.
+İskender kebab is one of Turkey's most iconic restaurant dishes, named after İskender Efendi, who invented it in the late 19th century in the city of Bursa. The canonical version uses döner-style lamb sliced from a vertical spit; the home version uses lamb leg or shoulder marinated overnight in yogurt, garlic and spices, then grilled or pan-fried in batches and sliced thin. The result is excellent either way. Torn squares of pita fry in butter or toast in the oven till dark golden and crisp (soggy bread ruins the dish), then get layered with the lamb and ladled with a hot fresh tomato sauce cooked down with garlic, butter, salt and a small amount of red pepper paste (biber salçası). The tereyağı finish is essential: butter melted till the milk solids turn nutty-brown, then poured sizzling over the assembled dish at the moment of serving. A study in textures: crisp bread soaked with tomato and butter, tender lamb, cooling yogurt on the side, and a quartered grilled tomato and pepper for sweetness.
 
 ## Ingredients
 

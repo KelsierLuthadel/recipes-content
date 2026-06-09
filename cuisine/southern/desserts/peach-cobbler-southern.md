@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Southern peach cobbler is one of the most beloved Southern desserts and a Georgia-Carolina summer institution: fresh sliced peaches tossed with brown sugar, vanilla, lemon juice, cornstarch, butter and cinnamon, poured into a baking dish, topped with a sweet biscuit-style batter (a wet thick batter - not a pie crust) made from flour, sugar, baking powder, salt, milk and melted butter, and baked till the batter rises and bakes into a golden crust over the bubbling peach filling. Served warm with a generous scoop of vanilla ice cream or a heap of whipped cream. The dish is a Southern summer institution, particularly during peach season (June-August across the South), and a fixture at every Sunday dinner, family reunion and church potluck. Three details: fresh peaches if possible, biscuit-style batter on top (not pie crust), serve warm with ice cream.
+Southern peach cobbler is one of the most beloved Southern desserts and a Georgia-Carolina summer institution: fresh sliced peaches tossed with brown sugar, vanilla, lemon juice, cornstarch, butter and cinnamon, poured into a baking dish, topped with a sweet biscuit-style batter (a wet thick batter - not a pie crust) made from flour, sugar, baking powder, salt, milk and melted butter, and baked till the batter rises and bakes into a golden crust over the bubbling peach filling. Served warm with a generous scoop of vanilla ice cream or a heap of whipped cream. The dish is a Southern summer institution, particularly during peach season (June-August across the South), and a fixture at every Sunday dinner, family reunion and church potluck.
 
 ## Ingredients
 

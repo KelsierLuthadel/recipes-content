@@ -2,7 +2,7 @@
 
 ![Pide](resources/pide.jpg)
 
-*Turkey's boat-shaped flatbread: a soft yeasted dough rolled into long ovals with pinched-up edges, topped with one of several canonical fillings (lamb mince with onion and parsley; spinach and feta; cheese and egg; spicy sucuk sausage), baked at fierce heat till the dough crisps at the edges and the topping is just cooked. The Turkish answer to pizza, and a staple of every Anatolian pideci.*
+*Turkey's boat-shaped flatbread: yeasted dough rolled into long ovals with pinched-up edges, topped with lamb mince, spinach and feta, or cheese and egg, baked at fierce heat till the dough crisps.*
 
 **Serves:** 4 (4 large pide)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pide (pronounced pee-deh) is Turkey's iconic boat-shaped flatbread and one of the most beloved meals across the country: a soft yeasted dough is rolled into a long oval (about 30-35 cm long, 12 cm wide), the edges are folded up to create a slight rim, the centre is topped with one of several canonical fillings (kıymalı pide = minced lamb with onion and parsley; ıspanaklı pide = spinach and feta; peynirli pide = melted Turkish cheese; sucuklu kaşarlı pide = spicy Turkish sausage and cheese; yumurtalı pide = with a cracked egg on top), the corners pinched to seal the boat shape, brushed with butter or olive oil, and baked at very high heat (240°C / 465°F) on a hot pizza stone or baking sheet for 8-12 minutes till the dough crisps at the edges, the topping is just cooked, and the cheese (if using) is melted and bubbly. Served immediately, the long pide is cut into thick wide strips with kitchen shears, often brushed with extra butter on top and sprinkled with chopped parsley or Aleppo pepper. The dish is what every Turkish family orders for delivery on a weeknight, what every pideci (pide bakery) sells fresh out of the wood-fired oven, and what every Turkish-restaurant abroad has on its menu. Three details define proper pide. First, the boat shape. Roll into a long oval, fold the long edges up to form a slight raised rim, pinch the two ends to a point. This gives the iconic pide silhouette. Second, the filling is contained inside the boat. Spread the filling in a thin layer down the middle of the dough oval, leaving the rim free. Don't overfill; pide is meant to be thin and crispy, not a deep-dish pizza. Third, screaming-hot oven and a baking stone. The high heat at the start gives the proper crispy bottom and rim; without it, you get a doughy pide.
+Pide (pronounced pee-deh) is Turkey's iconic boat-shaped flatbread and one of the most beloved meals across the country: what every Turkish family orders for delivery on a weeknight and what every pideci (pide bakery) sells fresh out of the wood-fired oven. A soft yeasted dough rolls into a long oval (30-35 cm long, 12 cm wide); the long edges fold up to form a slight raised rim and the two ends pinch to a point: that's the iconic pide silhouette. The filling sits in a thin layer down the middle, leaving the rim free; pide is meant to be thin and crispy, not a deep-dish pizza. The classic toppings are kıymalı (minced lamb with onion and parsley), ıspanaklı (spinach and feta), peynirli (melted Turkish cheese), sucuklu kaşarlı (spicy Turkish sausage and cheese) or yumurtalı (with a cracked egg on top). A screaming-hot oven (240 °C) on a pizza stone gives the proper crispy bottom in eight to twelve minutes. Cut into thick wide strips with kitchen shears, brushed with extra butter and scattered with parsley or Aleppo pepper.
 
 ## Ingredients
 

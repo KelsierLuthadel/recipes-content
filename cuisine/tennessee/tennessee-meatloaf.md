@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Tennessee meatloaf is the canonical Southern American meatloaf and the dish that defines Tennessee Sunday-dinner comfort cooking, distinct from Northeastern versions by the addition of more spice (paprika, smoked paprika, a touch of cayenne), Worcestershire sauce in the mix (essential), and the classic tangy-sweet ketchup-and-brown-sugar glaze on top. A 50/50 mixture of ground beef chuck (80/20 fat) and ground pork shoulder gives the proper rich texture; soaked breadcrumbs (in milk) keeps it tender; eggs bind; onion + garlic + Worcestershire flavours. Shaped into a free-form loaf on a sheet pan (better browning than a loaf tin), glazed with the canonical ketchup-brown-sugar-mustard mixture, and baked till the internal temperature is 70°C. Served with mashed potatoes, green beans and skillet cornbread. Three details: 50/50 beef + pork, milk-soaked breadcrumbs, free-form on sheet pan.
+Tennessee meatloaf is the canonical Southern American meatloaf and the dish that defines Tennessee Sunday-dinner comfort cooking, distinct from Northeastern versions by the addition of more spice (paprika, smoked paprika, a touch of cayenne), Worcestershire sauce in the mix (essential), and the classic tangy-sweet ketchup-and-brown-sugar glaze on top. A 50/50 mixture of ground beef chuck (80/20 fat) and ground pork shoulder gives the proper rich texture; soaked breadcrumbs (in milk) keeps it tender; eggs bind; onion + garlic + Worcestershire flavours. Shaped into a free-form loaf on a sheet pan (better browning than a loaf tin), glazed with the canonical ketchup-brown-sugar-mustard mixture, and baked till the internal temperature is 70°C. Served with mashed potatoes, green beans and skillet cornbread.
 
 ## Ingredients
 

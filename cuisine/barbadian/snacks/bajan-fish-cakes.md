@@ -2,7 +2,7 @@
 
 ![Bajan Fish Cakes](resources/bajan-fish-cakes.jpg)
 
-*Barbados's most-eaten snack: small fritters of soaked-and-flaked salt cod mixed with a Bajan-spiced batter (flour + onion + scallion + thyme + Bajan green seasoning + Scotch bonnet pepper + baking powder), dropped by the tablespoon into hot oil, fried till deep golden and slightly puffed. Served piping hot with a small dish of Bajan pepper sauce or a wedge of lime. Sold from every Bajan rum-shop, beach vendor and lunch counter; eaten by the dozen at the Oistins Friday-night fish fry; the canonical Bajan snack to accompany cold beer or a Bajan rum punch.*
+*Barbados's most-eaten snack: small fritters of soaked-and-flaked salt cod in a Bajan-spiced batter, dropped by the tablespoon into hot oil and fried till deep golden and slightly puffed.*
 
 **Serves:** 24 small fish cakes (about 6 per person × 4)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Bajan fish cakes are the Caribbean answer to fritters - small, rough-textured, deeply seasoned, fried golden. Three things make them identity-specifically Bajan. First, the saltfish: dried salted cod (the canonical "saltfish" of the Caribbean) is soaked overnight in cold water (changed once or twice) to remove the heavy salt; then boiled briefly to soften; then flaked into thin shreds with the fingers. The salt-cured fish has a deeply savoury, slightly chewy character that gives the fritters their unique backbone. Outside the Caribbean, dried salted cod is sold at Mediterranean / Caribbean / Spanish grocers; substitutes include any heavily-cured fish but the canonical Bajan profile depends on saltfish. Second, the batter: a flour-and-baking-powder batter mixed with finely chopped onion + chopped scallion + chopped thyme + chopped Scotch bonnet pepper + Bajan green seasoning + black pepper. The batter is thick enough to scoop with a spoon but loose enough to drop and spread slightly in the oil. Third, the fry: hot oil (175°C), small tablespoon-portions dropped in, fried 2-3 minutes till deep golden and slightly puffed. Eaten hot, the canonical Bajan snack. Three details: SOAK THE SALTFISH OVERNIGHT (changing the water once or twice; this removes most of the heavy salt - non-negotiable), FLAKE THE FISH FINELY (not chunks; the shreds give the canonical texture), and DROP-FRY HOT (175°C; lower and they soak fat, higher and they burn outside before cooking through).
+Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, deeply seasoned, fried golden. Sold from every Bajan rum-shop, beach vendor and lunch counter, eaten by the dozen at the Oistins Friday-night fish fry. The saltfish (dried salted cod) is the canonical Caribbean fish here, soaked overnight in cold water with a few changes to remove the heavy salt, boiled briefly to soften, then flaked into thin shreds with the fingers. The deeply savoury slightly chewy character is what gives the fritters their backbone. The batter is flour and baking powder mixed with finely chopped onion, scallion, thyme, Scotch bonnet, Bajan green seasoning and black pepper, thick enough to scoop with a spoon but loose enough to spread slightly in the oil. Fried at 175 °C in small tablespoon-portions till deep golden and slightly puffed. Eaten piping hot with a small dish of Bajan pepper sauce or a wedge of lime, alongside cold beer or a Bajan rum punch.
 
 ## Ingredients
 

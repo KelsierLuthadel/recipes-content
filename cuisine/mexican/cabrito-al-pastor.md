@@ -2,7 +2,7 @@
 
 ![Cabrito al Pastor](resources/cabrito-al-pastor.jpg)
 
-*Northern Mexico's roast goat: young kid goat marinated in chillies, garlic, cumin and citrus, then slow-roasted whole (or in pieces) over wood coals till the skin crisps and the meat falls from the bone. The Nuevo León (Monterrey) specialty, the centrepiece of every special-occasion Norteño family meal.*
+*Northern Mexico's roast goat: young kid goat marinated in dried chillies, garlic, cumin and citrus, then slow-roasted over wood coals till the skin crisps and the meat falls from the bone.*
 
 **Serves:** 8-10
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Cabrito al pastor is the iconic dish of Nuevo León in Northern Mexico, particularly the city of Monterrey, where the dish is a cultural touchstone and a major celebration food: young kid goat (cabrito; about 4-6 months old; the meat is tender and mild - distinct from older goat which can be gamey) marinated in a paste of rehydrated dried chillies (guajillo and ancho), crushed garlic, ground cumin, Mexican oregano, orange juice and salt, then slow-roasted on a vertical spit over wood coals (the traditional "al pastor" method, similar to the technique used for al pastor pork) till the skin crisps to a deep mahogany and the meat falls from the bone. Outside Monterrey and for home cooks, the dish is adapted: a bone-in leg of goat (or use a leg of lamb as a perfectly acceptable substitute outside Mexico, where young goat can be hard to find) is marinated overnight and slow-roasted in the oven at low heat for 3-4 hours; finished with a brief blast at high heat for the crispy skin. Served sliced or pulled at the centre of the Norteño table with the canonical accompaniments: flour tortillas (Northern Mexican preference), pico de gallo, sliced avocado, refried beans, frijoles charros (cowboy beans), and ample salsa picante. Three details define proper cabrito. First, young goat. The dish depends on the tender mild flavour of kid goat; older goat needs different treatment. Outside Mexico, leg of lamb is the best substitute. Second, the chilli marinade. Dried guajillo and ancho rehydrated and blended with aromatics is the canonical Mexican paste. Third, slow-roast properly. Whether on a spit or in the oven, low and slow is essential.
+Cabrito al pastor is the iconic dish of Nuevo León and the city of Monterrey, a cultural touchstone and the centrepiece of every Norteño celebration meal. Young kid goat (cabrito; about 4-6 months, tender and mild, distinct from gamier older goat) is marinated in a paste of rehydrated guajillo and ancho chillies, crushed garlic, cumin, Mexican oregano, orange juice and salt, then slow-roasted on a vertical spit over wood coals: the same al pastor method that lacquers the pork version: till the skin crisps to mahogany and the meat falls from the bone. For home cooks outside Monterrey, the dish adapts to a bone-in leg of goat (or leg of lamb, an entirely acceptable substitute) marinated overnight and roasted low for three to four hours, finished with a brief blast of high heat for the crispy skin. Plated at the centre of the table with flour tortillas (the Northern Mexican preference), pico de gallo, sliced avocado, refried beans, frijoles charros and ample salsa picante.
 
 ## Ingredients
 

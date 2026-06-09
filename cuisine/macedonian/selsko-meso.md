@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Selsko meso (literally "village meat") is one of Macedonia's most beloved restaurant dishes - a hearty pork casserole found at every traditional gostilna (village-style restaurant). The construction: cubed pork shoulder browned in fat, sweated with onion and mushrooms, paprika and sweet wine added, simmered slowly for 90 minutes till the meat is fork-tender; sometimes topped with Kashkaval cheese in the last 10 minutes and grilled till golden. Served in the clay pot (kazan) directly to the table with bread for sopping. Three details: PORK SHOULDER (canonical; cubed 3 cm), CLAY POT (or Dutch oven), and OPTIONAL KASHKAVAL FINISH (the indulgent restaurant version).
+Selsko meso (literally "village meat") is one of Macedonia's most beloved restaurant dishes - a hearty pork casserole found at every traditional gostilna (village-style restaurant). The construction: cubed pork shoulder browned in fat, sweated with onion and mushrooms, paprika and sweet wine added, simmered slowly for 90 minutes till the meat is fork-tender; sometimes topped with Kashkaval cheese in the last 10 minutes and grilled till golden. Served in the clay pot (kazan) directly to the table with bread for sopping.
 
 ## Ingredients
 - 1 kg pork shoulder (cubed 3 cm)

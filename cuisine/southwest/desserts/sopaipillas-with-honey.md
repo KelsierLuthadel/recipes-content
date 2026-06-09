@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Sopaipillas with honey is New Mexico's canonical dessert and the most traditional sweet ending to any Southwestern meal: warm sopaipillas fresh from the fryer (see the sopaipillas side recipe), torn at a corner to reveal the hollow inside, then drizzled with local honey (New Mexico honey is the canonical choice; or any pure honey) and dusted with cinnamon sugar. The combination is simple - warm puffed bread, sweet honey, fragrant cinnamon - but defines New Mexican dessert culture. Often served with a scoop of vanilla ice cream alongside for the modern restaurant version. Three details: the sopaipillas must be hot and fresh, the honey is added at the table (often with a pitcher), and the cinnamon sugar dusts the outside.
+Sopaipillas with honey is New Mexico's canonical dessert and the most traditional sweet ending to any Southwestern meal: warm sopaipillas fresh from the fryer (see the sopaipillas side recipe), torn at a corner to reveal the hollow inside, then drizzled with local honey (New Mexico honey is the canonical choice; or any pure honey) and dusted with cinnamon sugar. The combination is simple - warm puffed bread, sweet honey, fragrant cinnamon - but defines New Mexican dessert culture. Often served with a scoop of vanilla ice cream alongside for the modern restaurant version.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Barszcz Czerwony](resources/barszcz-czerwony.jpg)
 
-*Polish red beetroot broth, clear and brilliant, served at Christmas Eve and many other occasions. A classic Polish barszcz is more refined than Russian borscht - a strained, almost consommé-like broth, often poured over uszka (tiny dumplings) or sipped from a mug. Sour, earthy, lightly sweet.*
+*Poland's clear ruby beetroot broth: a strained, refined, almost consommé-like soup served at Christmas Eve and through the winter. Sour, earthy, lightly sweet.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Polish barszcz is the brilliant ruby broth that opens Christmas Eve dinner and turns up in mugs at every winter table, clearer and more refined than its Russian cousin, almost a beetroot consommé sipped before a meal rather than ladled into a bowl. The proper version uses fermented beetroot kvas (beetroot, garlic and rye crust steeped in salted water for a day or two) for that sour edge, but the home cook's faster route is just as good: simmer chopped beetroot with onion, carrots, celery, smashed garlic and a knot of dried wild mushrooms in vegetable stock with bay, allspice and peppercorns for the better part of an hour till the broth has darkened to deep red and tastes intensely of beet. Strain through muslin without pressing the solids (the whole point is clarity, so let it drip), then balance off the heat with cider vinegar, a touch of brown sugar and salt till the soup tastes sour-sweet with earth running underneath. Add the vinegar at the end, not during the simmer, or the colour mutes from brilliant to brown. Ladle into small bowls or mugs (often with a single mushroom-filled uszka dumpling floating in each), scatter with fresh dill, and serve alongside savoury pasztecik pastries while everyone finds their seat.
+Polish barszcz is the brilliant ruby broth that opens Christmas Eve dinner and turns up in mugs at every winter table. It's clearer and more refined than its Russian cousin, more a sipped consommé before a meal than a bowl ladled out as the main event. The proper version builds on fermented beetroot kvas for the sour edge; the home cook's faster route swaps in cider vinegar at the end (don't add it during the simmer or the colour mutes from brilliant to brown). Wild dried mushrooms tucked into the simmer with the beetroot, onion, garlic and warm spices give the broth its background depth. Strained through muslin without pressing the solids, so the soup stays crystal-clear. Served in small bowls or mugs, often with a single mushroom-filled uszka dumpling floating in each, scattered with fresh dill, alongside savoury pasztecik pastries.
 
 ## Ingredients
 

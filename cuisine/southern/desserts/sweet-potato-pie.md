@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Sweet potato pie is the South's iconic Thanksgiving dessert and the Southern alternative (or, depending on whom you ask, the proper original) to pumpkin pie: a flaky butter pie crust filled with a deeply spiced custard made from roasted-and-mashed sweet potatoes, brown sugar, butter, eggs, cream, vanilla, cinnamon, nutmeg, cloves, ginger and a touch of orange zest, baked till the centre is just set with a slight wobble. Cooled slightly, dusted with powdered sugar, served with whipped cream. The Southern preference for sweet potato over pumpkin reflects the abundance of sweet potatoes in Southern agriculture; the result is a deeper, slightly sweeter pie. Three details: roasted (not boiled) sweet potatoes (for deeper flavour and less wateriness), warm spice blend, custard set but slight wobble.
+Sweet potato pie is the South's iconic Thanksgiving dessert and the Southern alternative (or, depending on whom you ask, the proper original) to pumpkin pie: a flaky butter pie crust filled with a deeply spiced custard made from roasted-and-mashed sweet potatoes, brown sugar, butter, eggs, cream, vanilla, cinnamon, nutmeg, cloves, ginger and a touch of orange zest, baked till the centre is just set with a slight wobble. Cooled slightly, dusted with powdered sugar, served with whipped cream. The Southern preference for sweet potato over pumpkin reflects the abundance of sweet potatoes in Southern agriculture; the result is a deeper, slightly sweeter pie.
 
 ## Ingredients
 

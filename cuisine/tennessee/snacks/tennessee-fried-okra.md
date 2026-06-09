@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Tennessee fried okra is a classic Southern-Tennessee summer vegetable dish: fresh okra pods (best when small, firm, and bright green) sliced into 1cm rounds (the green star-shaped slices that fry up beautifully), tossed briefly in buttermilk, then dredged in seasoned cornmeal-and-flour, and deep-fried till the slices are golden and crispy outside. The cornmeal crust and the natural starches of the okra crisp up around the seeds, with the slime that often turns people off raw okra completely transformed. Served as a side to ranch dressing or honey mustard, alongside BBQ, fried chicken, or fried catfish. Three details: small fresh okra ideal, cornmeal coating, deep-fry at 180°C.
+Tennessee fried okra is a classic Southern-Tennessee summer vegetable dish: fresh okra pods (best when small, firm, and bright green) sliced into 1cm rounds (the green star-shaped slices that fry up beautifully), tossed briefly in buttermilk, then dredged in seasoned cornmeal-and-flour, and deep-fried till the slices are golden and crispy outside. The cornmeal crust and the natural starches of the okra crisp up around the seeds, with the slime that often turns people off raw okra completely transformed. Served as a side to ranch dressing or honey mustard, alongside BBQ, fried chicken, or fried catfish.
 
 ## Ingredients
 

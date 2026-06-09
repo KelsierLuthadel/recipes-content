@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-New Mexico green chile sauce is the green counterpart to the red chile sauce and equally foundational in NM cooking: roasted-and-peeled Hatch green chillies (the canonical NM chile, fresh-roasted in late summer; or substitute with Anaheim + canned green chiles) blended with onion, garlic, ground cumin, dried Mexican oregano, chicken stock, salt and pepper, then cooked in oil briefly with flour for slight thickening. Used on green chile cheeseburgers, in green chile stew, smothered over burritos and rellenos, in enchiladas verdes NM-style. Three details: roasted Hatch chiles (canonical), blended with skins on (or peeled for smoother), flour roux for thickness.
+New Mexico green chile sauce is the green counterpart to the red chile sauce and equally foundational in NM cooking: roasted-and-peeled Hatch green chillies (the canonical NM chile, fresh-roasted in late summer; or substitute with Anaheim + canned green chiles) blended with onion, garlic, ground cumin, dried Mexican oregano, chicken stock, salt and pepper, then cooked in oil briefly with flour for slight thickening. Used on green chile cheeseburgers, in green chile stew, smothered over burritos and rellenos, in enchiladas verdes NM-style.
 
 ## Ingredients
 

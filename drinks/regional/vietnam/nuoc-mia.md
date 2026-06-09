@@ -2,7 +2,7 @@
 
 ![Nước Mía](resources/nuoc-mia.jpg)
 
-*Vietnam's everyday street juice: fresh sugarcane crushed through a hand-cranked or motorised press right in front of you, finished with a squeeze of calamansi or kumquat juice, poured into a tall plastic bag over crushed ice. Pale green-gold, intensely sweet with a bright citrus snap, the after-pho drink at every street corner in Saigon and Hanoi.*
+*Vietnam's everyday street juice: fresh sugarcane crushed through a press, finished with a squeeze of calamansi and poured over crushed ice: the after-pho drink at every street corner in Saigon and Hanoi.*
 
 **Serves:** 4 tall glasses
 

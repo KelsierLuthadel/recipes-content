@@ -2,7 +2,7 @@
 
 ![Forfar Bridie](resources/forfar-bridie.jpg)
 
-*The Scottish handheld meat pie from the town of Forfar in Angus: a half-moon of crisp shortcrust filled with minced beef, onion, and a peppery beef-suet seasoning, with two small steam holes punched through the top. The lunchtime pasty of east-central Scotland; the Forfar baker's craft for 150 years.*
+*Scotland's handheld meat pie from the town of Forfar in Angus: a half-moon of crisp shortcrust filled with minced beef and onion, with two small steam holes punched through the top.*
 
 **Serves:** 6 (one bridie each)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35-40 minutes
 
 ## Overview
-The Forfar bridie is east-central Scotland's answer to the Cornish pasty - a handheld pastry filled with minced beef and onion, but distinguished from its Cornish cousin by its half-moon (not D-shape) crimping, its smaller size, its omission of potato and turnip (a Forfar bridie is meat and onion only, no veg), and its two characteristic steam holes punched through the top (some say to denote the baker, others say for steam release). The original Forfar bridie was a creation of Maggie Bridie of Forfar in the 1850s, sold to farmworkers at the local cattle markets, and the recipe was protected as a Forfar tradition through the 19th and 20th centuries. The bridie remains a daily lunch staple in Forfar (you'll find them at Saddler's bakery on East High Street, McLaren's bakery on Castle Street, and Mr Howe's bakery on West High Street, all in Forfar), and across Angus, Fife, and the Dundee area more broadly. The construction is straightforward: a sturdy beef-suet shortcrust (lard or beef-suet pastry, not butter; the bridie needs structure) wraps a filling of finely minced beef, diced onion, and a generous shake of beef gravy salt or a teaspoon of Bovril, sometimes with a touch of beef stock for moisture. Crimped, two steam holes punched, glazed with egg, baked till deeply golden. Three details: minced beef and onion ONLY (no potato - that's a Cornish pasty), the half-moon crimp (D-shape is a different region), and the two-holes-on-top (Forfar tradition).
+The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lunchtime handheld of Angus, Fife and Dundee. It's distinguished from its Cornish cousin by the half-moon (not D-shape) crimp, the smaller size, the absence of potato and turnip (a Forfar bridie is meat and onion only) and the two characteristic steam holes punched through the top. The original was created by Maggie Bridie of Forfar in the 1850s, sold to farmworkers at the local cattle markets, and the recipe has been protected as a Forfar tradition ever since. A sturdy beef-suet or lard shortcrust (not butter; the bridie needs structure) wraps finely minced beef, diced onion and a generous shake of beef gravy salt or a teaspoon of Bovril, sometimes loosened with a splash of beef stock. Crimped, slashed, egg-washed and baked till deeply golden.
 
 ## Ingredients
 

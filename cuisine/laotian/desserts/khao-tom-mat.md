@@ -2,7 +2,7 @@
 
 ![Khao Tom Mat](resources/khao-tom-mat.jpg)
 
-*Laos's most-canonical festival sweet: small parcels of coconut-soaked sticky rice wrapped around a piece of ripe banana, folded into banana leaves into a tight square envelope, tied with strings of cooked banana fibre, and either steamed (the canonical Lao version) or boiled for 90 minutes. The banana inside softens to almost-jammy; the rice absorbs both the coconut and the banana flavour; the banana leaf imparts a faint green-floral aroma. Made for Lao temple offerings, weddings, and Lao New Year (Pi Mai); eaten cool, peeled out of the leaf, with a small drizzle of palm sugar syrup.*
+*Laos's festival sweet: small parcels of coconut-soaked sticky rice wrapped around ripe banana, folded into banana leaves, tied with banana fibre and steamed till the banana inside turns almost jammy.*
 
 **Serves:** 12 small parcels
 
@@ -11,7 +11,7 @@
 **Cook Time:** 90 minutes
 
 ## Overview
-Khao tom mat is one of Laos's most ceremonially-important sweets, traditionally made for Buddhist temple offerings, weddings, and the Lao New Year. Three Lao-specific moves. First, the rice base: sticky rice (soaked overnight) is briefly cooked in coconut milk with palm sugar and a pinch of salt - a slightly sweet, slightly creamy rice base that's slightly under-cooked at this stage (it finishes cooking inside the wrapped parcel during steaming). Second, the banana centre: a piece of ripe Thai banana (or fresh-but-firm regular banana) is placed at the centre of each portion of rice; some Lao versions add a few black beans or a small piece of jackfruit alongside the banana for added flavour. Third, the banana-leaf wrap: a softened banana-leaf square is wrapped tightly around the rice + banana into a flat envelope (about 8 × 8 cm), tied crossways with two strips of banana-leaf fibre or kitchen twine. The parcels are then steamed (or boiled) for 90 minutes till the rice is fully cooked, the banana is soft, and the leaf has perfumed everything. Eaten cool, peeled out of the leaf. The leaf itself adds a faint green-floral aroma that's part of the canonical character. Three details: SOFTEN THE BANANA LEAVES BEFORE WRAPPING (rigid leaves crack), USE FIRM-RIPE BANANAS (yellow with maybe a few black spots; very-ripe bananas dissolve into the rice), and STEAM RATHER THAN BOIL (the canonical Lao method; boiling works but the rice can absorb too much water).
+Khao tom mat is one of Laos's most ceremonially important sweets, traditionally made for Buddhist temple offerings, weddings and Lao New Year (Pi Mai). The construction comes in three layers. The rice base is sticky rice briefly cooked in coconut milk with palm sugar and a pinch of salt, slightly under-cooked at this stage since it finishes inside the wrapped parcel during steaming. A piece of ripe Thai banana sits at the centre of each portion of rice; some Lao versions add a few black beans or a small piece of jackfruit alongside. The wrap is a softened banana-leaf square folded into a flat 8 × 8 cm envelope and tied crossways with banana-leaf fibre or kitchen twine. Ninety minutes of steaming turns the banana inside almost jammy and the rice absorbs both the coconut and the banana flavour. The leaf itself imparts a faint green-floral aroma that's part of the canonical character. Eaten cool, peeled out of the leaf with a drizzle of palm sugar syrup.
 
 ## Ingredients
 

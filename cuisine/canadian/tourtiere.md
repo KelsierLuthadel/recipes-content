@@ -2,7 +2,7 @@
 
 ![Tourtière](resources/tourtiere.jpg)
 
-*Quebec's Christmas Eve pie: a buttery shortcrust pastry case holding a savoury filling of minced pork (and sometimes beef, game, or wild boar in rural variants), slow-cooked with finely chopped onion, garlic, mashed potato, and the Quebec-specific spice mix of cinnamon, cloves, allspice and savoury. Eaten on Christmas Eve after midnight Mass (the reveillon), sliced cold for boxing day lunch, and turning up at every Quebec winter family gathering. The Lac-Saint-Jean tourtière (cubed meat in pastry) is the rural variant; this version is the household standard.*
+*Quebec's Christmas Eve pie: buttery shortcrust around minced pork slow-cooked with onion, garlic, mashed potato and the Quebec spice mix of cinnamon, cloves, allspice and savoury.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve (le reveillon) but eaten throughout the cold months. The construction is built around three Quebec-specific moves. First, the meat: minced pork is the canonical base; some households add a small proportion of minced beef or veal for body; rural northern Quebec (especially Lac-Saint-Jean) uses cubed game meats (venison, wild boar, hare) for a chunkier, hours-longer-cooked version called "tourtière du Lac-Saint-Jean" - that's a different recipe; this one is the standard household tourtière (sometimes called "tourtière de Montréal" or "pâté à la viande"). Second, the spices: cinnamon, cloves, allspice and Quebec summer savoury (sarriette) - this warm, slightly sweet, slightly resinous spice profile is what makes tourtière Quebec rather than a generic meat pie. Third, the binding: mashed potato is mixed into the cooked meat filling, holding it together and giving body. The pastry is a classic French shortcrust enriched with a little extra fat (butter and lard, sometimes just butter); the pie sits in a 23 cm pie dish with a bottom and top crust. Cooked till the pastry is deep gold and the filling is hot through. Served hot or warm with the canonical Quebec accompaniments: a homemade tomato chutney (ketchup aux fruits), pickled silverskin onions, and a glass of cold cider. Three details: COOK THE MEAT LOW AND SLOW (30 minutes minimum at a low simmer; the spices need time to bloom into the fat), BIND WITH MASHED POTATO (not breadcrumbs; this is the Quebec move), and CHILL THE PASTRY (30 minutes minimum; a pastry that's been chilled holds together when rolled and crimps cleanly).
+Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve (le reveillon) but eaten throughout the cold months and sliced cold for Boxing Day lunch. The construction is built around three Quebec-specific moves. First, the meat: minced pork is the canonical base, sometimes with a small proportion of beef or veal for body; the Lac-Saint-Jean rural variant uses cubed game meats and cooks for hours, but that's a different recipe. Second, the spices: cinnamon, cloves, allspice and Quebec summer savoury (sarriette); this warm, slightly sweet, faintly resinous profile is what makes tourtière Quebec rather than a generic meat pie. Third, the binding: mashed potato mixed into the cooked filling holds everything together and gives body. The pastry is a classic French shortcrust, top and bottom crust. Served hot or warm with the canonical Quebec accompaniments: a homemade tomato chutney (ketchup aux fruits), pickled silverskin onions, and a glass of cold cider.
 
 ## Ingredients
 

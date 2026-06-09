@@ -2,7 +2,7 @@
 
 ![Hamburguesa al Pastor](resources/hamburguesa-al-pastor.jpg)
 
-*Mexico's taco-flavoured burger: a pork-and-beef patty seasoned with the classic al pastor marinade of dried chiles, achiote, pineapple juice, vinegar and garlic, grilled till caramelised, topped with charred pineapple, raw white onion, fresh coriander, smashed avocado, and a chipotle mayo on a soft white bun. The Mexico City taquería classic reformatted as a burger - the al pastor pork that defines Mexican street food in handheld form.*
+*Mexico's taco-flavoured burger: a pork-and-beef patty marinated in dried chiles, achiote and pineapple juice, grilled till caramelised, topped with charred pineapple, raw onion, coriander, smashed avocado and chipotle mayo.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The hamburguesa al pastor is Mexico's burger answer to its most iconic taco filling, scaling the flavours of al pastor (the Mexican-Lebanese hybrid born of Lebanese immigrants bringing shawarma technique to Mexico City, then adapting their lamb for pork on a vertical spit with the iconic pineapple-topped trompo): the patty is a 70/30 pork-and-beef mix seasoned with a blended marinade of dried guajillo and ancho chiles, achiote paste (annatto), white vinegar, pineapple juice, garlic, cumin, oregano, salt and a touch of cinnamon (the sweet-spice note no other Mexican meat preparation uses). Grilled hard till the sugar in the marinade caramelises, then layered on a soft white bun with charred pineapple slices (essential - the pineapple-pork combo is what makes it al pastor and not just generic spiced burger), raw chopped white onion, fresh chopped coriander, smashed ripe avocado, and a chipotle mayonnaise. The dish bridges Mexican street food and the burger format. Three details: dried-chile-and-achiote marinade in the patty (not just a sprinkle of spice), charred pineapple on top (essential), white onion + coriander as the canonical garnish.
+The hamburguesa al pastor is Mexico's burger answer to its most iconic taco filling: the al pastor pork (a Mexican-Lebanese hybrid born of Lebanese immigrants bringing shawarma technique to Mexico City and adapting it to pork on a vertical spit with the trompo's iconic pineapple on top) scaled into a burger patty. The patty is a 70/30 pork-and-beef mix seasoned with a blended marinade of dried guajillo and ancho chiles, achiote paste, white vinegar, pineapple juice, garlic, cumin, oregano, salt and a touch of cinnamon: the sweet-spice note no other Mexican meat preparation uses. Grilled hard till the sugar in the marinade caramelises, layered on a soft white bun with charred pineapple slices (essential: the pineapple-pork combo is what makes it al pastor and not just generic spiced burger), raw chopped white onion, fresh coriander, smashed ripe avocado and a chipotle mayonnaise.
 
 ## Ingredients
 

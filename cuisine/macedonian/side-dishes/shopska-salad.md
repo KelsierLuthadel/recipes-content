@@ -9,7 +9,7 @@
 **Prep Time:** 15 minutes
 
 ## Overview
-Shopska salad is technically Bulgarian by origin (named after the Shopi people of the Sofia region), but the Macedonian version is essentially identical and is the canonical daily salad in both countries. The construction: tomato, cucumber, red pepper, onion are all diced to roughly 1 cm dice; tossed with chopped parsley, sunflower oil, vinegar, salt; topped with a generous grated mound of white salty cheese (sirenje, the Balkan brined-white-cheese; substitute Greek feta) which contrasts with the colourful vegetable base. Three details: GRATED CHEESE ON TOP NOT MIXED IN (the visual is the snowy white mound over the red-green-yellow base), GRATED COARSELY (not crumbled), and SERVE IMMEDIATELY (the cheese softens fast).
+Shopska salad is technically Bulgarian by origin (named after the Shopi people of the Sofia region), but the Macedonian version is essentially identical and is the canonical daily salad in both countries. The construction: tomato, cucumber, red pepper, onion are all diced to roughly 1 cm dice; tossed with chopped parsley, sunflower oil, vinegar, salt; topped with a generous grated mound of white salty cheese (sirenje, the Balkan brined-white-cheese; substitute Greek feta) which contrasts with the colourful vegetable base.
 
 ## Ingredients
 - 4 large ripe tomatoes (diced 1 cm)

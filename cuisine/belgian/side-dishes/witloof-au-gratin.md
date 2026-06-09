@@ -2,7 +2,7 @@
 
 ![Witloof au Gratin](resources/witloof-au-gratin.jpg)
 
-*Belgium's chicory classic: whole heads of witloof (chicory / Belgian endive) braised gently in butter and a splash of stock till tender and lightly bitter, wrapped in a slice of cooked Belgian ham, laid in a gratin dish under a creamy béchamel topped with grated Emmental or Gruyère, then baked till the cheese bubbles and the edges crisp. A complete dinner with boiled potatoes alongside, or a generous side with roast meat. The Belgian winter dinner-table classic.*
+*Belgium's chicory classic: heads of witloof braised tender in butter, wrapped in Belgian ham, laid under béchamel and grated Gruyère, baked till bubbling and golden.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Witloof (Flemish for "white leaf") is what the English-speaking world calls Belgian endive or chicory - a tight, conical head of pale leaves grown in dark sheds so they stay white and only mildly bitter. The Belgian winter classic, Witloof au gratin (also called endives au jambon or witloof met ham in Flanders), wraps each braised head in a slice of cooked ham and bakes it under a béchamel and cheese gratin. The trick to a great witloof gratin is to braise the chicory thoroughly first - whole heads, gently simmered in butter and a splash of stock for 25 minutes till the firm hearts are completely soft and any harsh bitterness has mellowed. Skip this step and the gratin comes out crunchy and aggressively bitter. The béchamel is classic: butter, flour, milk, salt, white pepper, nutmeg, and a generous handful of grated Emmental or Gruyère stirred in at the end. A second handful of cheese goes on top before the gratin bakes uncovered till bubbling and golden. Serve with boiled potatoes alongside (the canonical Belgian pairing) and a glass of dry white wine or a witbier. Three details: BRAISE THE CHICORY PROPERLY (25-30 minutes till the cores are soft; this is non-negotiable), DRAIN THE CHICORY HARD (squeeze each head gently in a tea towel; excess water dilutes the gratin and makes it sloppy), and CHOOSE A GOOD HAM (a proper cooked Belgian or French jambon blanc; not a thin sandwich ham).
+Witloof is Flemish for "white leaf", what the English-speaking world calls Belgian endive or chicory: tight, conical heads of pale leaves grown in dark sheds so they stay white and only mildly bitter. The dish (also called endives au jambon or witloof met ham in Flanders) wraps each braised head in a slice of cooked ham and bakes it under a béchamel and cheese gratin. The trick is to braise the chicory thoroughly first: whole heads, gently simmered in butter and a splash of stock for twenty-five minutes till the firm hearts are completely soft and any harsh bitterness has mellowed. Skip this step and the gratin comes out crunchy and aggressively bitter. The béchamel is classic: butter, flour, milk, salt, white pepper, nutmeg, and a generous handful of grated Emmental or Gruyère stirred in. Served with boiled potatoes alongside and a glass of dry white or witbier.
 
 ## Ingredients
 

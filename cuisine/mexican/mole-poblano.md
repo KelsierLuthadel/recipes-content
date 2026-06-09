@@ -2,7 +2,7 @@
 
 ![Mole Poblano](resources/mole-poblano.jpg)
 
-*Puebla's complex sauce of dried chillies, chocolate, nuts, seeds and spices, served over chicken or turkey. Twenty-plus ingredients; days of work in restaurants; here a faithful weekend version. The most labyrinthine sauce in Mexican cooking, and the one most worth the effort.*
+*Puebla's labyrinthine sauce of dried chillies, chocolate, nuts, seeds and spices, served over chicken: the most complex preparation in Mexican cooking and the one most worth the effort.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 ½ hours
 
 ## Overview
-Puebla's labyrinthine sauce, the most complex preparation in Mexican cooking and the one most worth the effort: dried chillies, nuts, seeds, dried fruit, spices, plantain, chocolate and a slice of toasted bread all blended into a thick paste that cooks down with chicken stock into a glossy mahogany sauce. Restaurants take days; the weekend home version is faithful enough. You toast and rehydrate multiple dried chillies (mulato for raisin-fruity notes, ancho for sweet-mild, pasilla for deep-bitter; replacing all three with one type flattens the sauce). Fry nuts, seeds and raisins separately till golden, then bread and tortilla, then onion, garlic and plantain, then briefly toast cinnamon, cloves, peppercorns, oregano and anise. Everything goes into a blender with the soaked chillies, tomato and tomatillos, blitz to as smooth a paste as possible, pass through a sieve pressing hard so the texture comes out silky. Fry the paste in oil for five minutes (it spits), pour in chicken broth, melt in dark chocolate (70%, not the dessert kind), simmer 30 minutes till the sauce thickens to a glossy, lava-like consistency. Season with salt and a touch of sugar. Shred poached chicken into the sauce, warm through, serve over rice with warm tortillas and a scatter of sesame seeds.
+Puebla's labyrinthine sauce, the most complex preparation in Mexican cooking and the one most worth the effort: dried chillies, nuts, seeds, dried fruit, spices, plantain, chocolate and a slice of toasted bread all blended into a thick paste that cooks down with chicken stock into a glossy mahogany sauce. Restaurants take days; the weekend home version is faithful enough. The dried chilli trio is non-negotiable: mulato for raisin-fruity notes, ancho for sweet-mild, pasilla for deep-bitter; replacing all three with one type flattens the sauce. Every other element fries separately so each hits its own colour before joining the blender: nuts and seeds gold, bread and tortilla toasted, onion-garlic-plantain softened, cinnamon and cloves briefly bloomed. Blended smooth, sieved silky, then fried in oil and finished with dark chocolate (70%, not the dessert kind) and a simmer to a glossy lava. Shredded poached chicken folds in to warm through, served over rice with warm tortillas and a scatter of sesame seeds.
 
 ## Ingredients
 

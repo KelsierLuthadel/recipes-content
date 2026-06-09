@@ -2,7 +2,7 @@
 
 ![Mücver](resources/mucver.jpg)
 
-*Turkey's zucchini and herb fritters: grated courgette mixed with feta, fresh dill, mint, parsley, spring onions, egg and flour, formed into small patties and pan-fried in olive oil till golden. The Turkish summer meze that turns up at every Aegean restaurant table, served warm with thick yogurt.*
+*Turkey's courgette and herb fritters: grated courgette mixed with feta, fresh dill, mint, parsley and spring onions, formed into small patties and pan-fried golden in olive oil.*
 
 **Serves:** 4 (12 fritters)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and a staple of the Turkish meze (small-plate appetiser) table: grated courgette (zucchini) is salted and squeezed to remove excess moisture, then mixed with crumbled feta, finely chopped fresh dill, mint, parsley and spring onions, bound with egg and a small amount of flour, and pan-fried in olive oil till the outside is deeply golden and the inside is tender and herb-flecked. Served warm with thick drained yogurt for dipping (often a garlic yogurt: thick yogurt with a clove of crushed garlic and a pinch of salt). The dish is a study in the Turkish summer vegetable garden: courgette is at its peak in July and August; dill, mint and parsley are everywhere. Mücver is what every Aegean coastal home cook makes for lunch in summer; it appears at every meyhane (traditional Turkish tavern) as part of the meze spread. Three details define proper mücver. First, the courgette must be properly drained. The most common error is using under-drained grated courgette; the fritters then go soggy and require too much flour to bind. Salt the grated courgette, let it sit 15 minutes, then squeeze in a clean cloth till nearly dry. Second, plenty of fresh herbs. The proper mücver uses a generous mix of dill (the canonical Turkish herb), fresh mint, parsley and spring onions. Skimping on the herbs gives bland fritters. Third, just enough flour. The flour binds; too much gives doughy fritters; too little gives ones that fall apart. The right amount is just enough to bind the mixture together with the eggs.
+Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and a staple of the Turkish meze table. The dish is a study in the Turkish summer vegetable garden: courgette is at its peak in July and August; dill, mint and parsley are everywhere. The most common error is using under-drained grated courgette: fritters then go soggy and need too much flour to bind. The fix is to salt the grated courgette, let it sit fifteen minutes, then squeeze in a clean cloth till nearly dry. The mix then goes generous on the herbs (dill is the canonical Turkish herb here, with mint, parsley and spring onions alongside; skimping gives bland fritters), bound with egg and just enough flour to hold together. Pan-fried in olive oil till the outside is deeply golden and the inside is tender and herb-flecked. Served warm with thick drained yogurt for dipping: often a garlic yogurt with a clove crushed in and a pinch of salt.
 
 ## Ingredients
 

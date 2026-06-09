@@ -2,14 +2,14 @@
 
 ![Chilli con Carne](resources/chilli.jpg)
 
-*A British home-cook chilli that leans on toasted whole spices, marmite and balsamic for depth, kidney beans and baked beans for texture, and a slow simmer to bring everything together. Not authentic Mexican but a comforting weeknight crowd-feeder; better on day two.*
+*A British home-cook chilli con carne: beef and pork mince with smoked pancetta, three kinds of beans, toasted whole spices, dark beer, espresso and chocolate for depth.*
 
 **Serves:** 6
 **Prep Time:** 15 minutes
 **Cook Time:** 1 hour 20 minutes
 
 ## Overview
-A Tex-Mex chilli pushed past its usual edges: beef and pork mince together with smoked pancetta, three kinds of beans (kidney, baked, pinto), a heavy hand of toasted cumin, cloves, star anise and chilli, plus dark beer, espresso, dark chocolate and a few umami quiet players (marmite, soy, balsamic) that lift the depth without showing up. The kind of chilli you make on a Sunday afternoon for a full week of leftovers. You dry-toast whole cumin and cloves till they smoke and grind to a powder, then whisk with stock, marmite, soy, balsamic, chilli powder, ground coriander, paprika and tomato paste. Render diced pancetta low and slow till translucent (no colour), sweat grated carrot, chopped onion, grated celery and a pinch of salt in the rendered fat for 10 minutes lid-down, add garlic for the last two, lift out. Brown beef and pork mince hard in the same pan till the liquid evaporates and the meat darkens, stir in tomato puree and cook till it darkens further. Return the vegetables, pour in the spice-stock, all three beans, a litre of passata, a star anise, grated dark chocolate, a shot of espresso and half a can of dark beer. Lid down on low for two hours, then uncovered 45 minutes to an hour to thicken. Pull the star anise out, taste, adjust with salt, sugar if bitter, more marmite if flat. Serve hot with rice, cornbread, sour cream, grated cheese, diced onion and coriander.
+A Tex-Mex chilli pushed past its usual edges: beef and pork mince with smoked pancetta, three kinds of beans (kidney, baked, pinto), a heavy hand of toasted cumin, cloves, star anise and chilli, plus dark beer, espresso, dark chocolate and a few umami quiet players (marmite, soy, balsamic) that lift the depth without showing up. The kind of chilli you make on a Sunday afternoon for a full week of leftovers. Cumin and cloves dry-toast and grind fresh into the stock: that single step is what separates a great chilli from a flat one. Pancetta renders low and slow before the grated vegetables sweat down in the fat; the beef and pork brown hard in the same pan till the meat darkens. Beans, passata, a star anise, grated dark chocolate, espresso and half a can of dark beer braise it together over two hours, then uncovered to thicken. Eaten hot with rice, cornbread, sour cream, grated cheese, diced onion and coriander.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Latkes](resources/latkes.jpg)
 
-*Crisp Ashkenazi potato pancakes, fried in oil until shatteringly golden on the outside and soft inside. Eaten at Hanukkah (the oil is the point - celebrating the miracle of the Temple's lasting lamp), but eaten constantly the rest of the year too. Sour cream and apple sauce on top; argue forever about which is correct.*
+*Crisp Ashkenazi potato pancakes fried in shallow oil till shatteringly golden outside and tender inside. Eaten at Hanukkah and constantly the rest of the year, with sour cream or apple sauce on top.*
 
 **Makes:** about 16 latkes
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Latkes are the crisp Ashkenazi potato pancakes of Hanukkah, fried in shallow oil till shatteringly golden on the outside and tender inside, eaten with sour cream and apple sauce (and an endless family argument about which is correct). Coarsely grate floury potatoes and an onion on a box grater or in a food processor, then pile the mixture into a clean tea towel and twist hard over the sink until barely a drop more water comes out: this is the difference between great latkes and soggy ones, no exceptions. Tip the wrung mix into a wide bowl, beat in eggs, matzo meal or flour, salt and pepper. Heat 5 mm of sunflower oil in a wide heavy pan over medium-high (a piece of mixture dropped in should sizzle vigorously), then drop heaped tablespoons into the pan and flatten gently to 1 cm thick discs about 7 cm across. Fry 3 to 4 minutes a side till each is deep golden and crisp at the edges, lift onto a wire rack lined with kitchen paper and salt immediately. Cook in three or four batches, adjusting the heat as you go: too cool and they soak oil and go heavy, too hot and they burn before the centre cooks. Pile onto a platter and eat hot with soured cream and apple sauce, the cook frying while everyone else sits down, because latkes lose their crisp within minutes.
+Latkes are the crisp Ashkenazi potato pancakes of Hanukkah, fried in shallow oil till shatteringly golden on the outside and tender inside, eaten with sour cream and apple sauce (and an endless family argument about which is correct). The oil is the whole point of the holiday too, celebrating the miracle of the Temple's lasting lamp. The single technique that makes or breaks latkes is wringing the grated potato and onion bone-dry in a clean tea towel until barely a drop more water comes out. Wet mixture means soggy latkes, no exceptions. Bound with egg, matzo meal or flour, salt and pepper, then fried in heated sunflower oil till each disc is deep golden and crisp at the edges. The cook fries while everyone else sits down, because latkes lose their crisp within minutes of leaving the pan.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Chicken and andouille gumbo is the most foundational Louisiana gumbo (alongside seafood gumbo): the dish that defines Cajun and Creole cooking, the meal on Louisiana family Sundays for generations. The base is a dark roux (flour + oil cooked over patient medium-low heat for 25-40 minutes till the colour of dark chocolate; this is the soul of the dish, and rushing it ruins it). The trinity (onion + celery + green pepper) is sweated into the roux. Chicken stock is whisked in to make a deep brown broth; chicken thighs and andouille sausage simmer for an hour; filé powder (ground sassafras leaves) thickens at the end. Served over fluffy white rice, topped with chopped spring onion. Three details: the roux must be properly dark (don't cheat the time), andouille is the canonical smoked sausage, filé at the end (not in the pot while cooking).
+Chicken and andouille gumbo is the most foundational Louisiana gumbo (alongside seafood gumbo): the dish that defines Cajun and Creole cooking, the meal on Louisiana family Sundays for generations. The base is a dark roux (flour + oil cooked over patient medium-low heat for 25-40 minutes till the colour of dark chocolate; this is the soul of the dish, and rushing it ruins it). The trinity (onion + celery + green pepper) is sweated into the roux. Chicken stock is whisked in to make a deep brown broth; chicken thighs and andouille sausage simmer for an hour; filé powder (ground sassafras leaves) thickens at the end. Served over fluffy white rice, topped with chopped spring onion.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Pan de Muerto](resources/pan-de-muerto.jpg)
 
-*The bread of the dead. A soft, faintly sweet brioche-style loaf scented with orange zest and anise, shaped as a round dome with bone-shaped strips crossed over the top and a small ball at the centre. Glazed with butter and dusted with sugar straight from the oven. Made for Día de los Muertos and eaten at the family altar as much as at the table.*
+*Mexico's bread of the dead: a soft brioche-style dome scented with orange zest and anise, topped with bone-shaped strips, glazed with butter and dusted in sugar for Día de los Muertos.*
 
 **Serves:** 8 (makes 1 large loaf or 4 small)
 

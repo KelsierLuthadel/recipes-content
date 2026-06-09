@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Tennessee chess pie is one of the most iconic Southern pies and a Tennessee Sunday-dinner classic: the name's origin is debated (possibly from "chest pie": a pie that keeps in the chest/cupboard without refrigeration; or "just pie" said in a Southern drawl). A simple custard pie made from things every Southern pantry has: butter (lots), sugar (lots), eggs, a teaspoon of cornmeal (the canonical thickener; distinguishes from buttermilk pie), a touch of vinegar (balances the sweetness), vanilla, and a pinch of salt. Poured into a buttery shortcrust pastry shell and baked till the top is deeply golden and the inside is just-set; the texture is sugary-creamy, custardy but firm enough to cut into wedges. Three details: cornmeal thickener (signature), vinegar to balance sweetness, bake till just-set.
+Tennessee chess pie is one of the most iconic Southern pies and a Tennessee Sunday-dinner classic: the name's origin is debated (possibly from "chest pie": a pie that keeps in the chest/cupboard without refrigeration; or "just pie" said in a Southern drawl). A simple custard pie made from things every Southern pantry has: butter (lots), sugar (lots), eggs, a teaspoon of cornmeal (the canonical thickener; distinguishes from buttermilk pie), a touch of vinegar (balances the sweetness), vanilla, and a pinch of salt. Poured into a buttery shortcrust pastry shell and baked till the top is deeply golden and the inside is just-set; the texture is sugary-creamy, custardy but firm enough to cut into wedges.
 
 ## Ingredients
 

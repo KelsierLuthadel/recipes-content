@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Shrimp and grits is one of the South's most beloved dishes, particularly associated with the Lowcountry of South Carolina and Georgia (Charleston and Savannah): large shrimp sautéed in butter and bacon fat with garlic, smoked paprika, lemon juice and a splash of white wine or chicken stock, served over a creamy bowl of stone-ground white grits cooked with milk and chicken stock, enriched with butter, cream cheese, and sharp cheddar. Topped with crispy bacon, sliced spring onions, fresh parsley and lemon wedges. Three details: stone-ground grits (not instant), proper shrimp (don't overcook), bacon as base.
+Shrimp and grits is one of the South's most beloved dishes, particularly associated with the Lowcountry of South Carolina and Georgia (Charleston and Savannah): large shrimp sautéed in butter and bacon fat with garlic, smoked paprika, lemon juice and a splash of white wine or chicken stock, served over a creamy bowl of stone-ground white grits cooked with milk and chicken stock, enriched with butter, cream cheese, and sharp cheddar. Topped with crispy bacon, sliced spring onions, fresh parsley and lemon wedges.
 
 ## Ingredients
 

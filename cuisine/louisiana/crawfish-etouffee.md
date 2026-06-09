@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Crawfish étouffée is one of Louisiana's most iconic Cajun-Creole dishes: peeled crawfish tails (fresh during the spring crawfish season; or frozen otherwise) simmered in a buttery gravy built on a blond roux (not the dark chocolate roux of gumbo; étouffée uses a lighter peanut-butter coloured roux), the trinity (onion, celery, green pepper), garlic, bay, thyme, Cajun seasoning, and a touch of seafood or chicken stock. The word "étouffée" means "smothered" in French, referring to the technique of smothering the crawfish in the gravy. Served over fluffy white rice with chopped spring onion and parsley. Three details: blond roux (lighter than gumbo), don't overcook the crawfish (3-4 min at the end), serve immediately over rice.
+Crawfish étouffée is one of Louisiana's most iconic Cajun-Creole dishes: peeled crawfish tails (fresh during the spring crawfish season; or frozen otherwise) simmered in a buttery gravy built on a blond roux (not the dark chocolate roux of gumbo; étouffée uses a lighter peanut-butter coloured roux), the trinity (onion, celery, green pepper), garlic, bay, thyme, Cajun seasoning, and a touch of seafood or chicken stock. The word "étouffée" means "smothered" in French, referring to the technique of smothering the crawfish in the gravy. Served over fluffy white rice with chopped spring onion and parsley.
 
 ## Ingredients
 

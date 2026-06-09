@@ -2,7 +2,7 @@
 
 ![Asopao de Pollo](resources/asopao-de-pollo.jpg)
 
-*Puerto Rico's chicken-rice soup: bone-in chicken pieces, medium-grain rice, sofrito, sazón, tomato sauce, peas and olives slow-cooked into a thick stew-soup hybrid (more soup than arroz con pollo, more rice than caldo). The Boricua comfort food eaten at funerals, weddings, late nights and weekend brunches.*
+*Puerto Rico's chicken-rice soup: bone-in chicken, medium-grain rice, sofrito, sazón, tomato sauce, peas and olives slow-cooked into a thick stew-soup hybrid.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting deliciously between arroz con pollo (which is mostly rice with chicken) and caldo (which is mostly broth with bits): bone-in chicken pieces are first browned and then slow-cooked in a generous amount of chicken broth flavoured with sofrito, sazón, tomato sauce, olives and capers; medium-grain rice is added partway through and absorbs much of the liquid but stays brothy enough to be called a soup; finished with peas, fresh coriander and lime, and served in deep bowls with the chicken still on the bone. The dish is what Puerto Ricans eat on cold rainy days (yes, Puerto Rico has rainy seasons), at family wakes (it's a traditional funeral food), at late-night parties (often eaten in the wee hours), and at weekend family brunches. The texture is what makes it special: brothy enough that you eat with a spoon, but with enough rice and chicken to feel substantial. Three details define proper asopao de pollo. First, the ratio of broth to rice. Asopao is intentionally brothy - about 3:1 liquid to rice by volume. Too thick and you've made arroz con pollo; too thin and you've made caldo. The middle is asopao. Second, sofrito + sazón. The PR aromatic duo is essential. Third, eat it loose. The dish thickens as it sits (rice keeps absorbing liquid); serve immediately and finish in one sitting for the best texture.
+Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting deliciously between arroz con pollo (which is mostly rice with chicken) and caldo (which is mostly broth with bits). Bone-in chicken browns then slow-cooks in chicken broth flavoured with sofrito, sazón, tomato sauce, olives and capers; medium-grain rice goes in partway through and absorbs much of the liquid but stays brothy enough to be called a soup. The texture is what makes it special: brothy enough that you eat it with a spoon, but with enough rice and chicken to feel substantial. The ratio matters: about 3:1 liquid to rice by volume. Too thick and you've made arroz con pollo; too thin and you've made caldo. The dish thickens as it sits because the rice keeps drinking up the broth, so serve immediately and finish in one sitting. Eaten on cold rainy days, at family wakes, at late-night parties and weekend brunches.
 
 ## Ingredients
 

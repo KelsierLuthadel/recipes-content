@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the most beloved appetisers in American cooking: melted American cheese (the canonical Velveeta gives the proper smooth molten texture; or a blend of cheddar and Monterey Jack with cream cheese for a from-scratch version) combined with Rotel diced tomatoes and green chillies, sautéed onion, fresh jalapeño, garlic and a splash of milk to keep it smooth. Served warm in a deep bowl with a generous pile of yellow corn tortilla chips for dipping. The dish appears as the starter at every Texas Tex-Mex restaurant, every Super Bowl party in Texas, every Friday-night gathering. Three details: smooth molten texture (melt cheese slowly; never scorch), Rotel canonical (the brand of tomato-and-green-chile product), and warm not hot serving (so the cheese doesn't seize).
+Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the most beloved appetisers in American cooking: melted American cheese (the canonical Velveeta gives the proper smooth molten texture; or a blend of cheddar and Monterey Jack with cream cheese for a from-scratch version) combined with Rotel diced tomatoes and green chillies, sautéed onion, fresh jalapeño, garlic and a splash of milk to keep it smooth. Served warm in a deep bowl with a generous pile of yellow corn tortilla chips for dipping. The dish appears as the starter at every Texas Tex-Mex restaurant, every Super Bowl party in Texas, every Friday-night gathering.
 
 ## Ingredients
 

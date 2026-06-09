@@ -2,7 +2,7 @@
 
 ![Black Bun](resources/black-bun.jpg)
 
-*Scotland's Hogmanay fruit cake: a dense, dark, fruit-and-spice cake hidden inside a thin shortcrust pastry casing. Baked weeks ahead, the pastry wrap matures the fruit cake to almost-treacly density. The traditional first-footer's gift on New Year's Eve, alongside a lump of coal and a bottle of whisky. The most distinctively Scottish of all the country's seasonal cakes.*
+*Scotland's Hogmanay fruit cake: a dense, dark fruit-and-spice cake hidden inside a thin shortcrust pastry casing. The traditional first-footer's gift on New Year's Eve, alongside a lump of coal and a bottle of whisky.*
 
 **Serves:** 16-20
 
@@ -11,7 +11,7 @@
 **Cook Time:** 3.5-4 hours (long slow bake)
 
 ## Overview
-Black bun is one of Scotland's most uniquely structured cakes: a very dense, almost black fruit cake (loaded with raisins, currants, almonds, candied peel and warming spices) encased in a thin shortcrust pastry shell, baked together as one piece, and aged for weeks before being served. The pastry isn't decorative - it acts as a protective layer that allows the dense fruit cake inside to mature without drying out, becoming richer and more concentrated over the 3-4 weeks of aging. The historical context is Hogmanay (New Year's Eve, 31 December): black bun is the canonical first-footer's gift, brought to a friend or relative's house just after midnight on New Year's morning, alongside a lump of coal (for warmth in the year ahead), a piece of shortbread, and a bottle of whisky. The first-footer's gifts symbolise good fortune for the year, and black bun specifically symbolises sustenance and prosperity. The cake is sliced thin (the density is intense), served alongside a small dram of whisky, and accompanies the New Year's Day buffet. The recipe goes back to Robert Burns's era; Burns mentions black bun in his "Tam o' Shanter" poem. Three details: the THIN PASTRY casing (3-4 mm; just a thin protective shell), the LONG SLOW BAKE (3.5-4 hours at very low heat - the bake matures the cake), and the AGE-IT-FORWARD (made 2-4 weeks ahead of Hogmanay; the fruit cake mellows and intensifies during this time).
+Black bun is one of Scotland's most uniquely structured cakes: a very dense, almost black fruit cake loaded with raisins, currants, almonds, candied peel and warming spices, encased in a thin shortcrust pastry shell and baked as a single piece. The pastry isn't decorative; it acts as a protective layer that lets the fruit cake inside mature without drying out, growing richer over the three or four weeks of ageing before it's served. Black bun is the canonical first-footer's gift on Hogmanay, brought to a friend or relative's house just after midnight on New Year's morning alongside a lump of coal (for warmth in the year ahead), a piece of shortbread and a bottle of whisky. Sliced thin (the density is intense) and served with a small dram of whisky. The recipe goes back to Robert Burns's era; Burns mentions black bun in "Tam o' Shanter".
 
 ## Ingredients
 

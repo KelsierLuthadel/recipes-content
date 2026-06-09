@@ -2,7 +2,7 @@
 
 ![Manti](resources/manti.jpg)
 
-*Turkish handmade dumplings - tiny squares of fresh pasta filled with seasoned minced lamb, boiled briefly, then drowned in garlicky yogurt and a hot melted-butter-and-paprika sauce. The dumplings are small (35 to a tablespoon, traditionally) and the work is the meal; weekends or family gatherings only.*
+*Turkey's handmade dumplings: tiny pinched parcels of fresh pasta filled with seasoned lamb, boiled, then drowned in garlicky yogurt and a hot melted-butter-and-paprika sauce.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Manti are the tiny Turkish handmade dumplings of Kayseri tradition, small squares of fresh egg-pasta pinched up into four-cornered parcels around a teaspoon of seasoned raw lamb, boiled briefly and then drowned in cold garlicky yogurt with a hot spiced butter poured over so the bowl meets the eye in three layers of temperature and colour. The work is the meal here, manti is a weekend dish or a celebration project, not a weeknight; the traditional Kayseri count is 30 to a tablespoon (genuinely thumbnail-sized), but a more domestic 1 ½ to 2 cm parcel is perfectly fine if you keep the filling sparse. Mix a stiff egg pasta dough (drier than Italian pasta dough), knead 8 to 10 minutes till smooth and firm, rest 30 minutes. Mix the lamb filling raw with finely chopped onion, crushed garlic, parsley, cumin, paprika, salt and pepper, then chill while you roll. Roll the rested dough as thin as you can manage (about 1 ½ mm, paper-thin), cut into 2 ½ cm squares with a pastry wheel, drop a tiny pinch of filling on each (smaller than a pea), bring the four corners up to meet at the top and pinch tightly into a small parcel. Lay them on a floured tray without touching each other. While they sit, mix yogurt with crushed garlic paste and salt (rest 15 minutes for the garlic to mellow) and have butter, paprika, sumac and Aleppo pepper ready by the stove. Boil the manti in salted water for six to eight minutes till they float and the pasta is tender. Spread garlicky yogurt across each warm plate, pile drained dumplings on top, drizzle more yogurt over, then in a small pan melt butter just to sizzling, pull off the heat (paprika burns instantly in hot butter), stir in paprika, sumac and Aleppo pepper and pour the hot red butter generously over each plate. Finish with dried mint and parsley, eat immediately while the temperatures still contrast.
+Manti are the tiny Turkish handmade dumplings of Kayseri tradition: small squares of fresh egg-pasta pinched into four-cornered parcels around a teaspoon of seasoned raw lamb, boiled briefly and then drowned in cold garlicky yogurt with a hot spiced butter poured over so the bowl meets the eye in three layers of temperature and colour. The work is the meal: manti is a weekend dish or a celebration project, not a weeknight. The traditional Kayseri count is thirty parcels to a tablespoon (genuinely thumbnail-sized); a more domestic 1½-2 cm parcel is perfectly fine if you keep the filling sparse. The pasta is a stiff egg dough rolled paper-thin (about 1½ mm). The hot butter goes on last: pulled off the heat before the paprika is stirred in, because paprika burns instantly in hot butter. Plated over garlicky yogurt with sumac, Aleppo pepper and dried mint scattered across, eaten immediately while the temperatures still contrast.
 
 ## Ingredients
 
