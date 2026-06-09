@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Lamb mince fries with onion, garlic, ginger and a spice mix of garam masala, cumin, coriander and chilli. Frozen peas thaw into the dry filling at the end; lemon juice and chopped coriander finish it. Left to cool. Spring-roll pastry strips fold around a generous tablespoon of filling into triangular packets (flag-fold) and seal with flour paste. Deep-fried 175°C until deep gold.
+Keema samosa is the meat-filled samosa that turns up at every Indian iftar table, party platter and Saturday-afternoon tea spread, the savoury triangular pastry filled with spiced lamb mince and peas, deep-fried till shatteringly golden. The dish sits in the wider South Asian samosa family that runs from Lahore to Madurai, but the keema version (kheema being the catch-all word for spiced mince) is the meat-eater's celebratory pastry, more substantial than the vegetarian potato-pea version and worth the extra fiddly stuffing. Two technique points matter. The filling must be properly dry before it goes into the pastry; a wet keema steams the wrapper from inside and gives soggy samosas, where dry-cooked mince fries the wrapper crisp on contact with the oil. The flag-fold for the triangle is the home-cook shortcut over the traditional cone-shaped wheat-flour samosa; spring-roll pastry strips folded flag-style give the right triangular shape without the more difficult dough work. Sealed with flour paste so the corners don't open in the fryer. Eat warm with mint chutney and tamarind chutney for the proper Indian tea-time tableau.
 
 ## Ingredients
 

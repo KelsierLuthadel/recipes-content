@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A thick batter of gram (chickpea) flour, rice flour, ajwain, turmeric, chilli powder and salt mixes with cold water to a thick coating consistency. Sliced onion, cubed potato, cauliflower florets and chopped spinach toss through the batter until thickly coated. Small ragged clusters drop into hot oil (170°C) and fry for 3-4 minutes per side until deep gold and crisp.
+Mixed vegetable pakora is the rainy-day Indian snack, the dish that comes out of every Indian kitchen the moment the monsoon hits and a hot cup of masala chai feels essential: handfuls of onion, potato, cauliflower and spinach bound in a thick spiced gram-flour batter and deep-fried in lumpy ragged clusters. The dish belongs to the wider Indian pakora tradition (the same template that gives onion bhajis, paneer pakora and the South Indian bonda) but the mixed version is the home-cook favourite that uses up whatever's in the vegetable drawer. The batter needs to be properly thick (the consistency of double cream, not single); thin batter slides off the vegetables in the oil and the pakora come out pale and oil-logged. Rice flour blended with the gram flour is the technique that gives extra shatter to the crust; a pure-besan batter cooks crisp but goes leathery as it cools, where the rice-flour blend stays shatteringly crunchy. Ajwain (carom seed) gives the Punjabi aromatic signature. Eat the moment they come out of the oil, with mint chutney, tamarind chutney and a hot cup of chai.
 
 ## Ingredients
 

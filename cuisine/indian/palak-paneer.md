@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Spinach is blanched for one minute then plunged into iced water (a step that locks the colour bright green). The drained spinach is blended with green chilli into a smooth puree. A masala of onion, ginger, garlic and tomato is built and the puree stirred in. Cubes of paneer, lightly pan-fried, are added at the end so they sit on top of the gravy rather than dissolving into it. Finished with cream and kasuri methi.
+Palak paneer is the Punjabi vegetarian classic and the dish every North Indian home kitchen makes weekly, soft cubes of fresh cheese suspended in a vibrant deep-green gravy of pureed spinach perfumed with garlic, ginger, green chilli and a finishing scatter of kasuri methi. The colour is the test of a properly made palak paneer; it should land on the plate vivid emerald, not khaki or sludgy brown, and the trick that gets it there is the blanch-and-shock at the start. A one-minute blanch in boiling water followed straight into iced water locks the chlorophyll bright and stops the spinach cooking; skip the ice bath and the puree turns muddy within minutes. The paneer cubes go in late and stay distinct, lightly pan-fried first so they hold their shape and pick up a faint golden edge against the green sauce. A swirl of cream and a finishing pinch of kasuri methi (dried fenugreek leaves) crumbled between the palms gives the dish its proper restaurant finish. Eat with hot roti, naan or basmati rice.
 
 ## Ingredients
 

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Bone-in mutton (or lamb) marinates for 4 hours in yogurt, ginger-garlic paste, deep-fried onion (birista), garam masala, chilli and saffron. Basmati rice par-boils for 4 minutes with whole spices to 70% done. Half the rice layers on top of the marinated mutton at the bottom of a heavy pot; saffron milk, mint, more birista and ghee drizzle on top; the rest of the rice on top of that. Sealed (cover + dough or foil tight), cooked on the lowest heat 1 hour. The meat cooks from raw inside the steaming rice. Opened at the table.
+Hyderabadi mutton biryani is the most distinctive biryani in India, the one that came out of the Nizam's kitchens in the old city of Hyderabad and stayed faithful to the kachchi (raw) method: bone-in mutton goes into the pot uncooked, marinated in yogurt and spices, and finishes entirely on the steam from the par-cooked rice layered above it. The raw-meat-in-rice technique is the dish's signature and the thing that separates Hyderabadi from every other biryani style; Lucknow's pakki (cooked) biryani precooks the meat first, but Hyderabad insists on the kachchi method, where the long slow dum cook does everything in one pot. Birista (the dark fried-onion shreds) is the second non-negotiable element, folded through the marinade and scattered between layers for sweet caramel depth. The seal is critical; traditionally a flour-and-water dough rolls around the pot rim and the lid bakes in place, so no steam escapes. Lifted away with theatre at the table, scattered with mint, saffron threads and more birista. Eat with raita and a wedge of lime.
 
 ## Ingredients
 

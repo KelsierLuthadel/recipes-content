@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Aged basmati rice is rinsed and soaked for 30 minutes (a step that helps the grains elongate during cooking). Ghee is heated and cumin seeds are bloomed with a small cluster of whole spices, the rice is added to coat in the spiced fat, then water is poured in and the pot covered to steam. The grains finish long, separate and fragrant.
+Jeera rice is the everyday North Indian rice and the default that arrives next to dal, butter chicken or rajma at every Punjabi home table. The dish is plain basmati with a single dressing-up move: whole cumin seeds bloomed in ghee at the start, with a small cluster of warm whole spices (bay, cinnamon, cloves, cardamom) joining the pot for aromatic depth. The rice picks up just enough flavour from the spiced fat to read as distinct from plain steamed rice, without overpowering anything served alongside it. Aged basmati is the right grain; the longer it has sat in storage, the more the grains elongate during cooking and the more fragrant the finished pot. The 30-minute rinse-and-soak before cooking is non-negotiable for long separate grains; rushed rice clumps and breaks. The cumin bloom in hot ghee is the technique that distinguishes proper jeera rice from a rice with cumin sprinkled in; the seeds must crackle and darken slightly in the fat before the rice joins, releasing their oils into the dish. Eat with any North Indian curry or dal.
 
 ## Ingredients
 - 300 g aged basmati rice (rinsed until the water runs clear, soaked for 30 minutes)

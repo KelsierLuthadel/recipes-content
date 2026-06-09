@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The okra is washed, dried thoroughly and trimmed, then cut into 2 cm pieces. A dry-fry over high heat for 10 minutes cooks away the surface moisture that causes slime. Onion is then browned with whole cumin in a separate go, ginger and garlic added, tomato cooked down with the ground spices, and the dry-fried okra folded in for a final dry simmer. Finished with garam masala, amchur and coriander.
+Bhindi masala is the North Indian okra side dish, the one that takes the vegetable many cooks avoid (because of its tendency to go slimy) and turns it into something dry, tender and properly spiced. The technique is the whole dish. Two non-negotiable moves keep the okra from sliming: the pods must be washed and then dried bone-dry before any cutting (even a drop of water on the surface triggers the mucilage), and the dry-fry over high heat at the start cooks away the surface moisture that causes the texture to go gluey. Skip either step and the dish goes wrong no matter how good the masala. The cut at 2 cm pieces gives even cooking and quick searing. Onion browns separately with whole cumin, ginger and garlic join in, tomato cooks down with ground spices, and the dry-fried okra returns for the final dry simmer where the masala caramelises onto the pods. Garam masala and amchur (dried mango powder) finish the dish; the amchur is the North Indian touch that gives the proper sour edge. Eat with roti, paratha or jeera rice.
 
 ## Ingredients
 - 500 g okra (small, fresh pods if possible)

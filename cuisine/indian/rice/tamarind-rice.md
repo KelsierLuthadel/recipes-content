@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A spiced tamarind paste is built with a dry-roast of coriander, cumin, fenugreek, chana dal and dried red chilli ground to a powder, then tamarind extract is simmered with the powder, turmeric, jaggery and salt until thick. A temper of peanuts, mustard seeds and curry leaves is bloomed in sesame oil and folded through cooked rice with the tamarind paste, the dish left to rest so the flavour settles. Famously gets better overnight.
+Tamarind rice (puliyodarai in Tamil, puliyogare in Karnataka) is the temple-prasad rice of South India and the legendary lunchbox dish that lives in stainless-steel tiffin tins from Chennai to Bangalore, cooked rice tossed with a spiced tamarind paste thick with peanuts, sesame and curry leaves. The dish has been a temple offering for centuries (the Tirupati and Srirangam temples both serve it as prasadam to pilgrims), and the long-keeping nature of the dish (heavy on tamarind acid, light on dairy) is why it travels so well in a lunchbox or on a train journey. The spiced tamarind paste (puli) is the soul of the dish; coriander, cumin, fenugreek, chana dal and dried red chilli dry-roasted then ground to a powder, simmered with tamarind extract, turmeric and jaggery until thick. The longer rest is the real technique. Tamarind rice tastes properly itself only after a few hours of sitting; the spice paste needs time to settle into every grain, and the dish actually improves overnight in the fridge. Eat at room temperature with a side of fried papad and a spoon of plain yogurt.
 
 ## Ingredients
 

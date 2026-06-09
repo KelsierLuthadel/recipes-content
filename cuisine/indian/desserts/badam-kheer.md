@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Almonds blanched, peeled, ground to a smooth paste, then folded into milk that's been reduced to two-thirds of its volume. Sugar to taste, saffron bloomed in warm milk for the colour, cardamom for the warmth. Simmered gently - never boiled - until the consistency thickens to a pourable cream, then garnished with pistachio slivers and a drift of rose petals.
+Badam kheer is the Indian almond pudding that lands on every Diwali table and Eid celebration across the north of the subcontinent, a pale-gold dessert scented with saffron and cardamom and crowned with slivered pistachios. The dish belongs to the wider Indian kheer family of slow-cooked milk puddings, distinguished by its almond-flour base which gives the pudding a quiet nutty depth that rice-based kheer can't match. The almond preparation is the technique that home cooks new to the dish most often skip; almonds blanched, peeled and ground fresh into a smooth paste give the proper silky texture, where shop-bought ground almond gives a grainy result. The milk wants to be reduced down to two-thirds of its volume slowly before anything else goes in, the patient stovetop reduction concentrating the milk into something deep and creamy without any added cream. Saffron blooms in warm milk for the colour, cardamom warms the background. Never boil the finished pudding; gentle simmer only, where boiling splits the milk and the dessert goes grainy. Eat warm on a cold night or chilled on a hot afternoon, both work.
 
 ## Ingredients
 

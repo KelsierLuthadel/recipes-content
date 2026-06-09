@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Gram (chickpea) flour combines with rice flour for extra crispness, with ajwain, chilli, turmeric and a pinch of baking soda for the airy texture. Cold water makes a thick coating batter (not pancake-thin). Mixed vegetables are tossed in the batter and dropped into hot oil in clusters; each one stays loose, with crisp tendrils of onion and the soft give of potato inside. Two batches: the second fry gives the deep-fried lacquered crunch.*
+Vegetable pakora is the North Indian monsoon snack and the dish that comes out of every Indian kitchen the moment the rain starts: mixed seasonal vegetables dipped in a spiced gram-flour batter and deep-fried into irregular crispy clusters that get eaten standing at the kitchen counter with a hot cup of masala chai. The dish sits in the same pakora family as onion bhaji but uses a mixed-vegetable scatter rather than a single ingredient, so each bite gives a different combination. The batter is the key. Gram flour combined with rice flour gives a crisper crust than gram flour alone (the rice flour is the curry-house trick that domestic versions often skip), and a pinch of baking soda gives the airy lift that distinguishes a great pakora from a dense fritter. Ajwain (carom seed) folded through carries the Punjabi aromatic signature. The double-fry is non-negotiable. A first fry sets the structure, a second hotter fry gives the deep-fried lacquered crunch that stays crisp through the chai. Eat hot with mint chutney and tamarind chutney.
 
 ## Ingredients
 

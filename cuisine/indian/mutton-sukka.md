@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Lamb chunks are braised gently with turmeric, ginger-garlic paste and a small handful of whole spices until tender. A separate pan toasts a Chettinad-style spice blend (black pepper, fennel, coriander, cumin, dried red chillies, fresh grated coconut) and grinds it to a coarse paste. The braised lamb is folded into a base of fried onion and curry leaves, the masala paste added, and the dish cooked uncovered until all the liquid has gone and the spice has caked onto the meat.
+Mutton sukka is the dry-style mutton dish from Tamil Nadu's Chettinad region, the antithesis of a gravied curry: lamb (or goat) braised tender and then finished hard in a heavy pan until the sauce reduces away completely and the spice paste cakes thick onto the meat. The word sukka simply means "dry" in Tamil, and the dish lives or dies on getting to that finishing point. Two stages do the work. The first is a slow braise with turmeric, ginger-garlic and whole spices until the meat falls off the bone; the second is the hard-finish in a freshly ground Chettinad masala of black pepper, fennel, coriander, cumin, dried red chillies and grated coconut. Black pepper carries the heat rather than chilli (the Chettinad signature), and freshly toasted-and-ground spices are essential; pre-ground masala from a jar gives a flat one-note result. Curry leaves and fried onion ride underneath for sweetness and aromatic depth. Eat with steamed rice, dosa or roti, no liquid needed.
 
 ## Ingredients
 

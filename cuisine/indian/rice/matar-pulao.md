@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Sliced onions are fried into golden-brown crisps and lifted out. Basmati is rinsed, soaked for ½ hour and drained. A whole-spice tempering of cumin, bay, cardamom, cinnamon and cloves is bloomed in the ghee left from the onions, the drained rice goes in to toast, then water and peas join the pot for a covered steam. The fried onions go back on top before serving.
+Matar pulao is the North Indian household pulao that lands on the wedding table, the festive dinner spread and the Sunday-family-lunch rotation: fragrant basmati cooked with sweet green peas, fried onions and whole warm spices into a fluffy aromatic rice that takes the place of plain basmati alongside the bigger curries on the table. The dish sits halfway between plain jeera rice and a full biryani; richer and more layered than the everyday rice but lighter and faster than the festival biryani. Two technique points matter. The onions get fried into proper golden-brown crisps (birista) before any rice goes in, both for the textural scatter on top and for the leftover ghee that becomes the spiced fat the rice toasts in. The peas join in only with the cooking water rather than at the start; raw peas added too early go grey and lose their sweetness, where peas steamed alongside the rice stay green and snap. Whole warm spices (cumin, bay, cardamom, cinnamon, cloves) bloom in the onion ghee and perfume the whole pot. Eat with any North Indian curry or dal.
 
 ## Ingredients
 - 300 g aged basmati rice (rinsed, soaked for 30 minutes)

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Whole Kashmiri red chillies soak in white wine vinegar; ground with garlic, ginger, cumin, peppercorns, cinnamon, cloves and mustard into a thick wet paste. Pork shoulder cubes marinate overnight in the paste. Browned in oil; cooked with onions, tomato and reserved marinade until the pork is tender and the gravy is glossy. Salt last. A small spoonful of jaggery balances the vinegar.
+Goan pork vindaloo is the original, the Portuguese-Indian fusion dish that started life as carne de vinha d'alhos ("meat in wine and garlic") in Lisbon and travelled with Portuguese sailors to Goa in the 16th century, where Indian cooks rebuilt it with palm vinegar, Kashmiri chillies and warm spices into something darker, fiercer and more aromatic than the original. Don't confuse it with the British-curry-house vindaloo that turns up further north; the Goan original is pork (always), the vinegar is sharp and present, the heat comes from Kashmiri chillies rather than crude powder, and the dish stays dark and glossy rather than tomato-red. The overnight marinade is non-negotiable. The pork needs to absorb the vinegar-chilli-spice paste fully, both for flavour and for the tenderising effect of the acid; a rushed marinade gives a hot wet curry where a proper one gives meat that pulls apart at the fork. A small spoonful of jaggery at the end balances the vinegar without sweetening the dish. Eat with steamed Goan red rice or fresh sannas.
 
 ## Ingredients
 

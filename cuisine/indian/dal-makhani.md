@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Whole black urad lentils and a small handful of red kidney beans are soaked overnight, then pressure-cooked or simmered until completely tender. A tomato-and-spice masala is built separately with onion, garlic, ginger and a careful hand with the spices. The lentils are folded into the masala and simmered, low and slow, for two hours, while butter and cream are stirred through in the final stage. The lentils break down into a glossy, almost-velvet finish.
+Dal makhani is the richest dal in the North Indian repertoire and one of the great Punjabi household dishes, the slow-simmered black-lentil-and-kidney-bean pot that lands on every Old Delhi dhaba menu, every Punjabi wedding feast and every weekend home table from Amritsar to Birmingham. The dish is built on patience. Whole black urad lentils soak overnight to soften, then simmer low and slow for hours (traditionally overnight on a tandoor's residual heat) until they collapse into a glossy near-velvet body. Butter and cream finish the pot in the final stage, and the literal translation of makhani ("buttery") is the dish in two words; a stingy hand with the dairy turns the dal into a regular lentil curry rather than the silky luxurious one this is meant to be. Tomato-and-spice masala built separately with onion, garlic, ginger and a careful hand of warm spices folds the lentils in. The reward for the long cook is a dal so deeply flavoured that nothing else needs to share the bowl. Eat with hot naan or basmati rice.
 
 ## Ingredients
 

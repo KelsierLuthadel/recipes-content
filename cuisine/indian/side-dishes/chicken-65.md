@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Chicken thighs cube small; marinate for 1 hour in yogurt, ginger-garlic paste, Kashmiri chilli, garam masala and cornflour. Deep-fried in two stages, first to cook through, second to crisp. While the chicken rests, a hot tempering of curry leaves, garlic, dried chillies, soy and vinegar sputters in a wok. The fried chicken tosses through the tempering for 30 seconds and goes straight to the plate.
+Chicken 65 is the fiery South Indian fried-chicken bar snack from Hyderabad, the dish that traces (in the leading origin story) to the Buhari Hotel in Chennai in 1965 and has since spread across India and the world as the curry-house bar-snack starter that lights up the table. The dish is unlike anything else on the South Indian menu: small cubes of yogurt-marinated chicken thigh, double-fried crisp, then tossed through a sputtering temper of curry leaves, dried chillies, garlic and a splash of soy and vinegar. The result reads sweet-savoury and aggressively aromatic, with the curry-leaf-and-mustard backbone of South Indian cooking meeting the Indo-Chinese sticky-glaze of modern restaurant menus. The double fry is the technique that gives the proper texture. A gentle initial fry cooks the chicken through, a hotter pass crisps the outside; a single-stage fry gives soggy crust no matter how good the marinade. The temper goes hot and fast at the very end, sputtering over the rested chicken for thirty seconds only. Eat immediately; chicken 65 loses what makes it great the moment the crust softens.
 
 ## Ingredients
 

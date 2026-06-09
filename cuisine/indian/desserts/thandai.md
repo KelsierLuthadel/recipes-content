@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-A nut-and-spice paste is the soul of thandai: almonds and cashews soaked soft, ground with green cardamom, fennel, white peppercorns, poppy seeds, dried rose petals and saffron, then whisked into cold sweetened milk. Strained, chilled, poured over ice. The drink reads cool and complex: sweet from the sugar and saffron, perfumed from the rose and cardamom, with a faint warmth from the fennel and pepper.
+Thandai is the Holi drink of North India, the perfumed cold milk that gets served by the jug as colour-powder flies on Holi morning in Mathura, Vrindavan and across the Hindi belt. The name simply means "cooling" (thanda = cool), and the drink does literal work as a body-cooler at the end of a hot Holi afternoon while also functioning as the ritual centrepiece of the festival itself. A nut-and-spice paste is the soul of the drink: almonds and cashews soaked soft and ground with green cardamom, fennel, white peppercorns, poppy seeds, dried rose petals and saffron into a smooth pale paste, then whisked into cold sweetened milk and strained. The strain is non-negotiable; an unstrained thandai gives a gritty mouthful where the proper version slips silky over the tongue. The spice profile reads cool and complex: sweet from sugar and saffron, perfumed from rose and cardamom, with a faint warmth from fennel and pepper underneath. Eat from tall glasses over ice, garnished with rose petals and slivered pistachios.
 
 ## Ingredients
 

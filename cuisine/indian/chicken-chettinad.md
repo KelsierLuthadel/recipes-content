@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Whole spices dry-toast in a pan until aromatic; grind with grated coconut, dried red chillies and a splash of water into a thick paste (the Chettinad masala). Chicken thighs marinate briefly in turmeric, salt and yogurt. Shallots fry to soft gold; the masala paste cooks until the oil splits out; chicken cooks in the masala with curry leaves and water. Finishes thick, dark and intensely peppery.
+Chettinad chicken curry comes from the Chettiar trading community of Tamil Nadu, the merchant caste whose grand mansions still stand in the small towns south of Madurai and whose distinctive cooking is built on the heaviest black-pepper hand in all of Indian cooking. The dish is dark, peppery, intensely aromatic, and unmistakable next to any North Indian curry; the heat comes more from black pepper than from chilli, and the spice profile is a long list of whole spices (star anise, kalpasi or stone flower, fennel, cinnamon, cloves, peppercorns, fenugreek) toasted dry and ground with grated coconut into a thick paste. The dry-roast of the spices before grinding is the soul of the dish; ground spices straight from the jar give a flat one-note curry where toasted ones bloom into something fierce and complex. Curry leaves go in two ways, fried in the base oil to start the dish and again as a finishing temper just before serving, so the herbal note stays bright on the plate. Eat with steamed rice, dosa or appam.
 
 ## Ingredients
 

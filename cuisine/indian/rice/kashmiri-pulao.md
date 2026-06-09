@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Saffron is bloomed in warm milk to draw the colour and aroma. Basmati is rinsed, soaked and drained. Whole spices, sliced almonds and cashews are toasted in ghee, then sultanas and pomegranate seeds are folded through. The toasted rice goes on top with milk-spiked water and the saffron milk, and the pot is covered to steam. Finished with a scatter of more nuts, fried onions and pomegranate seeds.
+Kashmiri pulao is the rice dish of the Kashmir valley, the sweet-floral fragrant rice that lands as a wedding-feast centrepiece and pairs alongside the rich Mughlai-Kashmiri lamb dishes of the region: saffron-tinted basmati studded with toasted almonds, cashews, sultanas and the jewel-red flash of fresh pomegranate seeds. The dish is the gentler, sweeter cousin of biryani, eaten as much for its visual drama as its flavour; bring it to the table as a heaped golden mound topped with the ruby of pomegranate and the bronze of fried onion and the dish does most of the work before anyone picks up a fork. Saffron bloomed in warm milk for fifteen minutes before any cooking starts is the technique that draws out both the colour and the aromatic compounds; cold milk gives a pale watery infusion that misses what makes the dish what it is. Milk-spiked cooking water is the Kashmiri move that distinguishes the pulao from a generic saffron rice; the milk gives a quiet creamy richness that pairs with the dried fruit and nuts. Eat alongside a lamb rogan josh or yakhni gosht, with a bowl of plain yogurt to balance the sweetness.
 
 ## Ingredients
 - 300 g aged basmati rice (rinsed, soaked for 30 minutes)

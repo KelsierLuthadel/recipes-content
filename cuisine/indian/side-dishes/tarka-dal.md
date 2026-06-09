@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Split yellow moong dal (or toor dal) cooks with turmeric, salt and water for 25 minutes until soft and breaking down. A small whisk smooths it into a creamy dal. Just before serving, ghee heats until shimmering; cumin seeds, garlic, dried chilli and asafoetida sizzle for 30 seconds; the whole sputtering mix is poured straight onto the dal. Fresh coriander, a wedge of lemon.
+Tarka dal is the everyday North Indian dal that anchors every Punjabi home meal and lands in every curry-house menu as the gentle vegetarian counter to the bigger meat dishes: split yellow lentils cooked soft and creamy, then crowned with a sputtering hot tarka (the spiced-ghee finish) poured over the surface just before serving. The dish lives or dies on the tarka. Plain boiled lentils are bland; the tarka transforms them. Ghee heated till it shimmers, cumin seeds, sliced garlic, dried red chilli and a pinch of asafoetida sizzling for thirty seconds, then the whole pan tipped onto the dal in a single dramatic pour so the kitchen fills with the smell of frying spice. Most Indian home cooks make this twice a day, every day, and never tire of the tarka moment. Split yellow moong dal is the lighter household choice; toor dal gives a heartier finish, and either is right. A small whisk through the cooked lentils smooths the texture without erasing it. Eat with hot basmati rice, chapati or paratha.
 
 ## Ingredients
 

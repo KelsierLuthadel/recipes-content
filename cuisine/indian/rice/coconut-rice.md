@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes (plus 25 minutes if cooking rice from scratch)
 
 ## Overview
-Plain steamed rice (often last night's leftovers) is the base. A hot temper of mustard seeds, urad dal, chana dal, cashews, dried red chilli and curry leaves is bloomed in coconut oil, then fresh grated coconut is folded in and warmed through. The rice is tossed through everything off the heat, so the grains stay separate and pick up flavour rather than soften.
+Coconut rice (thengai sadam) is the Tamil Nadu breakfast classic and the lunchbox staple of South Indian households, plain steamed rice tossed with a hot coconut-and-curry-leaf temper that turns yesterday's leftover rice into something distinct and properly South Indian. The dish belongs to the wider Tamil tradition of "variety rices" (lemon rice, tamarind rice, curd rice, coconut rice) where a hot tadka transforms a base of plain steamed rice into a flavoured one-bowl meal. Day-old rice is the secret. Freshly cooked warm rice clumps and bruises when tossed; cold rice from the fridge has firmed up enough that the grains stay separate under the wooden spoon. The temper does all the flavour work: mustard seeds, urad and chana dals, cashews, dried red chilli and curry leaves bloomed in coconut oil until the mustard pops, then fresh grated coconut warms through to release its sweetness. Tossed off the heat with the cold rice so the grains pick up flavour without softening. Eat at room temperature in a packed lunch with a spoon of plain yogurt and a pickle.
 
 ## Ingredients
 

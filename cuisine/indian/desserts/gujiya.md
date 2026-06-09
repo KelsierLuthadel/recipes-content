@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-A short, slightly tender dough made with maida, ghee and milk is rolled thin and cut into rounds. Each round is filled with a warmed mixture of khoya (or thickened condensed milk), desiccated coconut, semolina, chopped nuts and cardamom. The edges are sealed with a fluted crimp and the parcels are deep-fried low and slow until pale gold. Dusted with icing sugar while warm.
+Gujiya is the Holi sweet of North India, the half-moon pastry parcel filled with sweetened khoya, coconut and dried fruit that turns up by the tray-load on every Holi morning from Mathura to Lucknow and gets eaten through the colour-throwing afternoon. The dish is a Hindi-belt cousin of the Bengali pithe and the Goan nevri, all variants on the same sealed-pastry-with-sweet-filling idea that runs across India under different regional names. The dough is short and tender (maida, ghee and milk), rolled thin enough that the fried gujiya crackles when bitten through, and the filling is the heart of the dish: khoya (reduced milk solids) or thickened condensed milk as the binder, with desiccated coconut, semolina, chopped nuts and cardamom folded through for textural interest. The fluted crimp around the edge is the visual signature and the practical seal; a loose edge opens in the oil and the filling escapes. Deep-fried low and slow till pale gold (rushed gujiya brown outside before the inside cooks through), dusted warm with icing sugar. Eat through Holi afternoon with masala chai.
 
 ## Ingredients
 

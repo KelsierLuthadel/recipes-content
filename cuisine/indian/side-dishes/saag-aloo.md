@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Potato cubes are par-boiled separately so the dish comes together quickly in the pan. A tempered base of cumin seeds, onion, garlic, ginger and green chilli is built, the potato is browned briefly, then chopped spinach is wilted through in two batches with turmeric, ground coriander and a small dash of water. The potato carries the spice; the spinach keeps the colour.
+Saag aloo is the North Indian everyday vegetable side, the spinach-and-potato pan that lands next to chapati at every Punjabi home table several times a week and turns up on the British curry-house menu beside the heavier meat curries as the vegetarian counter. The dish belongs to the saag tradition of slow-wilted greens; in the strict Punjabi original saag means mustard greens, but the household and curry-house version uses spinach as the practical substitute (and gives a brighter green colour to boot). Par-boiling the potatoes is the technique that makes the dish come together quickly in the pan; raw potato cooked through with the spinach gives undercooked starch and overcooked greens, where par-boiled potato browns briefly and stays integral. The spinach goes in two batches because raw spinach is bulky and shrinks dramatically; adding it all at once overcrowds the pan and steams the spinach into khaki sludge. Two-batch wilting keeps the colour vivid green and the texture proper. Cumin seeds, onion, garlic, ginger and green chilli build the tempered base. Eat with hot roti, paratha or alongside a meat curry.
 
 ## Ingredients
 - 500 g waxy potatoes (peeled, cut into 2 cm cubes)

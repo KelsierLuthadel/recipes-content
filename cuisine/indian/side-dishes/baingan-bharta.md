@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-A whole aubergine is charred directly over a gas flame until the skin is blackened and the flesh inside is soft. The charred skin is peeled off and the flesh roughly mashed. A masala of onion, garlic, ginger, green chilli and tomato is cooked down to a thick base, and the smoky aubergine flesh is folded through with a finishing touch of garam masala and coriander. Vegetable-side or vegetarian main; the smoke is what makes it.
+Baingan bharta is the Punjabi smoked-aubergine mash and the dish that lives in every Punjabi grandmother's repertoire, charred whole over an open flame until the skin blackens and the inside collapses to a silky smoke-perfumed pulp, then folded into a tomato-onion masala. The dish belongs to the wider South Asian and Levantine tradition of fire-roasted aubergine (it has cousins in mutabbal, baba ganoush and the Bengali begun pora), and the open-flame char is what separates a great bharta from a flat one. The skin must be properly blackened, not just warmed; the smoke gets driven into the flesh and that smoke becomes the dish's signature flavour. Oven-roasting gives a tender aubergine but loses the smoke entirely; a gas hob is the home-cook stand-in for the village tandoor that traditionally did the job. The mash is meant to stay rough and chunky, not pureed smooth; texture is part of the eating. Tomato-onion masala with green chilli, ginger and garlic builds the savoury base, garam masala and fresh coriander finish. Eat with hot roti, paratha or naan.
 
 ## Ingredients
 - 1 aubergine (large, about 500 g)

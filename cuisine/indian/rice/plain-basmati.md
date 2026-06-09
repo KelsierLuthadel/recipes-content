@@ -13,7 +13,7 @@
 ## Overview
 Plain basmati is the foundation of every Indian rice on a curry-house menu. Get it right and the pilaus, mushroom rices and lemon rices that build on it work; get it wrong and they all suffer. The three steps that matter are the rinse (until the water runs clear, to wash off the surface starch that makes rice gummy), the soak (20 minutes, to relax the grain so it cooks evenly), and the measured simmer (1 part rice to 1.5 parts water, covered and undisturbed, off the heat to rest before fluffing).
 
-The technique is identical for any long-grain basmati; cheaper grades cook faster and break more easily, premium ages (often labelled "aged" or "extra long grain") cook a little longer and stay separate. Either works.
+The technique is identical for any long-grain basmati; budget grades cook faster and break more easily, premium ages (often labelled "aged" or "extra long grain") cook a little longer and stay separate. Either works.
 
 ## Ingredients
 - 300 g basmati rice

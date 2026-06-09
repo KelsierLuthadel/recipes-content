@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Floury potatoes boil in their skins, then mash dry. A spice paste of green chilli, ginger and roasted cumin folds in with chopped coriander, mint and amchur for sourness. Cornflour and gram flour bind without making the tikki gummy. Patties form, chill to firm up, then shallow-fry in shallow oil on a flat pan for 4-5 minutes per side until deep gold and crisp with a soft interior. The chilled rest is what stops them falling apart.
+Aloo tikki is Delhi's chaat-stall classic, the spiced potato patty with a deep golden lacquered crust and a soft herb-fragrant interior that lives at every street food cart from Chandni Chowk to the Old Delhi back lanes. The dish belongs to the wider Indian chaat family of street snacks (papdi chaat, dahi puri, bhel puri) where the textural contrast of crisp-against-soft and the layering of sweet-sour-spicy chutneys is the entire point. Two technique details separate a great tikki from one that falls apart in the pan. The potato must be properly dried before mashing; wet potato gives a gummy tikki no matter how much binder goes in, and floury potatoes boiled in their skins then mashed dry are the only base that works. The chill before frying is the second non-negotiable; chilled patties hold their shape and brown clean, where warm patties collapse in the pan and stick. Amchur (dried mango powder) gives the proper sour edge that distinguishes chaat-style tikki from a generic potato cake. Eat with tamarind chutney, mint chutney and a spoonful of yogurt drizzled across.
 
 ## Ingredients
 

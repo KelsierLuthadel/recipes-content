@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-Dried kidney beans are soaked overnight and pressure-cooked (or simmered for 2 hours) until completely tender. A separate pan builds a base of onion, ginger and garlic browned with whole spices, then a tomato puree is added and cooked down with the ground spices until the oil separates. The cooked beans and a portion of their cooking liquor are folded in and simmered for 30 minutes to thicken; a few are mashed against the pan to thicken the sauce. Finished with garam masala and butter.
+Rajma is the Punjabi household red-kidney-bean curry and the comfort dish every North Indian eats with rice on a Sunday afternoon, plain spiced beans in a deep tomato-onion gravy that takes its time and rewards the patience. The dish belongs to the same lentils-and-pulses Punjabi tradition as dal makhani but stays leaner: no cream, no butter swirl at the end, just slowly simmered beans in a properly built masala. The bean soak overnight is non-negotiable. Dried kidney beans need a long rest in cold water to soften the skins, and using tinned beans gives a thinner less satisfying curry that misses what makes rajma worth the wait. The masala wants to be cooked down until the oil separates from the tomato-onion base; this oil-separation stage is the home-cook's test that the masala is properly developed, where a rushed sauce stays watery and one-dimensional. A few beans mashed against the pan thicken the gravy without needing flour or starch. The dish pairs traditionally with steamed basmati as rajma-chawal, a meal so loved that "rajma-chawal Sunday" is shorthand for home across the Punjab.
 
 ## Ingredients
 

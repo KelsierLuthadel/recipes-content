@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-A temper of mustard seeds, chana dal, urad dal, peanuts, dried red chilli and curry leaves is bloomed in sesame oil. Turmeric is stirred in for colour. Cooked, cooled rice is tossed through off the heat, then lemon juice is added at the end so the heat doesn't dull the acidity. Bright lunchbox classic; the dish should taste fresh and tart, not muddled.
+Lemon rice (chitra anna in Tamil, nimbu chawal in Hindi) is the bright South Indian variety-rice that turns up in lunchboxes, temple offerings and quick weeknight meals across Tamil Nadu, Karnataka and Andhra Pradesh: cooled steamed rice tossed with a turmeric-curry-leaf temper and finished with a sharp squeeze of lemon. The dish sits in the same Tamil variety-rice family as coconut rice and tamarind rice, all built on the same template of cold cooked rice plus a vivid temper, but lemon rice keeps the lightest touch and reads the brightest on the palate. Lemon goes in off the heat at the very end, which is the technique home cooks new to the dish most often get wrong; lemon juice cooked into the hot pan turns dull and slightly bitter, where lemon added off the heat keeps its sharp clean acidity. Turmeric in the temper does the colour work, and roasted peanuts fold through for crunch and protein. Cold rice rather than warm rice is essential for separate grains; warm rice clumps under the spoon. Eat at room temperature with a spoon of yogurt and a hot pickle.
 
 ## Ingredients
 

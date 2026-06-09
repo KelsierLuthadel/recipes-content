@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A stiff oil-rich plain-flour dough (maida) rolls thin and crisps in the fryer with the characteristic blistered surface. The filling is dry: boiled potato, peas, ginger, green chilli, cumin, coriander seed, garam masala and amchur (dried mango powder) for sourness. The pastry is rolled into ovals, halved into semicircles, formed into cones, stuffed, sealed and fried in two stages: low-temperature first to set the pastry without browning, then a hot finish to blister and crisp.
+The samosa is India's most loved tea-time snack and one of the most travelled pastries in the world, the crisp triangular pocket of spiced potato and peas that turns up at every Indian street stall, family tea tray, festival feast and railway-station kiosk from Mumbai to Manchester. The dish has roots in 10th-century Persia (where the proto-samosa was called sambusak) and migrated east with traders to India, where the local cooks adapted the original meat filling into the potato-and-pea version that defines the dish today. Two technique details separate a great samosa from a soggy one. The dough must be stiff and oil-rich (maida with plenty of ghee or oil rubbed in), worked till smooth and rested at least 30 minutes; the rest is what gives the pastry the characteristic blistered surface in the fryer. The two-stage fry is non-negotiable; low oil first to set the pastry without browning, then a hot finish to blister and crisp. Rushed single-stage frying gives doughy interiors and burnt outsides. Eat warm with tamarind chutney and mint chutney for the proper Indian tea-time pairing.
 
 ## Ingredients
 

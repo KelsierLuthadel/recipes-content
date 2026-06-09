@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Cashews soaked briefly to soften, ground to a fine pale powder, then folded into a sugar syrup that's been taken to the right consistency - one-string, which means a thread should form when you pinch a drop between thumb and forefinger and pull them apart. Stirred over a low heat until the mixture pulls cleanly from the pan, then kneaded warm, rolled to 5 mm, cut. Edible silver leaf is the traditional finish; rose petals are the home-cook substitute.
+Kaju barfi is India's prestige sweet, the pale ivory cashew fudge that comes in a silver-leafed box at Diwali and disappears within two days of arriving, and the most expensive thing on the mithai shop counter for good reason. The fudge is built on just two ingredients (cashews and sugar) plus a touch of cardamom, but the technique is fiddly and the margin for error narrow. The cashews need to be properly ground to a fine pale powder, not a butter (the moment cashew releases its oil the texture goes wrong); a brief water soak softens the nuts enough to grind dry. The sugar syrup must hit one-string consistency exactly; a string should form when you pinch a drop between thumb and forefinger and pull them apart, and that's the only consistency where the cooked mixture pulls cleanly from the pan into a kneadable dough. Edible silver leaf is the traditional Diwali finish; rose petals are the home-cook substitute. Rolled out to 5 mm thick on greased paper, cut into diamonds with a sharp knife. Eat at room temperature, two per person, no more.
 
 ## Ingredients
 

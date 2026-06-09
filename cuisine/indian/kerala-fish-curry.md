@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A masala paste of shallot, ginger, garlic and red chilli is bloomed in coconut oil with mustard seeds, fenugreek and curry leaves. Coconut milk is poured in and the curry brought to a simmer, then tamarind water and a tomato are added. The fish goes in last and poaches in the gravy for just long enough to set; over-stirring breaks the pieces.
+Kerala fish curry is the coastal South Indian fish dish that lands beside steamed red rice in every Malayali home from Kochi to Trivandrum, a vivid red-orange gravy of coconut milk and tamarind perfumed with curry leaves, fenugreek and shallots, with firm white fish poached just to set in the sauce. The dish belongs to the wider South Indian curry-leaf-and-coconut tradition but distinguishes itself with kudampuli (Malabar tamarind, a smoked variety the locals call "fish tamarind"), the sour edge that defines Kerala's seafood cooking and that no other tamarind quite replaces. Coconut oil for the temper is the second non-negotiable detail; the oil carries the dish's distinct aromatic signature in a way that sunflower or vegetable oils can't. Mustard seeds and fenugreek bloom in the hot oil with curry leaves at the start, the masala paste of shallot, ginger, garlic and red chilli follows, then coconut milk and tamarind water build the gravy. The fish goes in last and barely cooks; over-stirring breaks the pieces. Eat with hot red rice and a side of avial.
 
 ## Ingredients
 

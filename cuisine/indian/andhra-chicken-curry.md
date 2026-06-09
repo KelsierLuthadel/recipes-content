@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Chicken thighs are marinated briefly with turmeric, ginger-garlic paste, yogurt and a pinch of red chilli. A dry-roast of poppy seeds, sesame seeds, coconut, fennel, coriander and dried red chillies is ground with a splash of water into a coarse paste. The base is built with shallots, curry leaves and tomato; the chicken is browned in stages; and the masala paste is folded in for the long, gentle simmer. Tamarind and a curry-leaf temper finish.
+Andhra chicken curry is the heat-bomb of South India: a fiercely chilli-forward curry from the dry inland plains of Andhra Pradesh, simmered in a coconut-and-poppy-seed gravy that still tastes nuanced underneath all the fire. The dish belongs to the wider South Indian tradition where dried red chillies do most of the heat work (rather than the fresh green chillies of the north), and where the masala paste itself is roasted dry before grinding so the spices toast and bloom. Two things separate a great Andhra curry from a punishing one. The dry-roast of the spice paste is non-negotiable; raw spices give a flat one-note hot curry where toasted ones give layered warmth that scaffolds the chilli. And tamarind at the end is what stops the dish tipping into pure burn; the sour edge balances the heat and lets the dish read as complex rather than aggressive. Yogurt in the chicken marinade tenderises and helps the masala cling. Eat with hot steamed rice, a bowl of plain dal and a wedge of lime.
 
 ## Ingredients
 

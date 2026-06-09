@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Coarse besan toasted in ghee for a long, slow half-hour, until the colour deepens from pale yellow to a warm honey-brown and the smell turns from raw to roasted-cashew. Off the heat, cooled to barely-warm, then folded with powdered sugar, cardamom and slivered pistachios. Rolled into walnut-sized balls and left to set. The result is dense, fudgy, faintly grainy - the texture is part of the charm.
+Besan ladoo is the Diwali sweet of North Indian households, the dense fudgy gram-flour ball that fills the house with the smell of roasted besan and ghee as it cooks. Patience is the whole recipe. The besan must roast slowly in plenty of ghee for a long thirty minutes (or longer), the colour deepening from pale yellow through gold to a warm honey-brown, the smell turning from raw and beany to roasted-cashew. Rushed roasting gives ladoos that taste of raw flour no matter how much sugar goes in afterwards. The second piece of patience is the cool-down before the sugar joins; powdered sugar folded into still-hot besan melts and the ladoos won't hold their shape, where barely-warm besan and sugar bind into the proper dense fudgy mass that rolls cleanly. Cardamom warms the background, slivered pistachios fold through for crunch. Rolled into walnut-sized balls and left to set firm. The texture is meant to be slightly grainy, that faint sandy bite is part of the charm. Eat at room temperature with a small cup of strong masala chai.
 
 ## Ingredients
 
