@@ -29,7 +29,7 @@ Stovies (the name comes from the French "étouffer", to smother or stew) is Scot
 ### To serve
 - Oatcakes (Nairn's or Walkers)
 - Pickled beetroot (the proper sliced kind in vinegar)
-- A small jug of cold milk (Scottish tradition - some add a splash to their stovies)
+- A small jug of cold milk (Scottish tradition, some add a splash to their stovies)
 - HP Brown Sauce (optional; the British condiment of choice for stovies)
 
 ## Method
@@ -65,7 +65,7 @@ Stovies (the name comes from the French "étouffer", to smother or stew) is Scot
 2. Place 2-3 oatcakes alongside each portion.
 3. Add 2-3 slices of pickled beetroot on the side.
 4. Pass HP Brown Sauce at the table.
-5. Some Scots stir in a splash of cold milk at the table - the traditional finish.
+5. Some Scots stir in a splash of cold milk at the table, the traditional finish.
 6. Eat with a spoon.
 
 ## Notes
@@ -79,7 +79,7 @@ Stovies (the name comes from the French "étouffer", to smother or stew) is Scot
 **Aberdeen stovies (corned beef):** swap the leftover roast for a tin of corned beef, broken up. The dish of north-east Scotland.
 **Mince stovies (Fife / West):** swap the leftover roast for 400 g raw minced beef, browned with the onion. A from-scratch version.
 **With sausage:** add a few links of Lorne sausage (Scottish square sliced sausage), fried separately and added to the stovies for the last 10 minutes.
-**With smoked sausage:** add 200 g sliced smoked sausage - Polish kielbasa or similar.
+**With smoked sausage:** add 200 g sliced smoked sausage, Polish kielbasa or similar.
 **With black pudding:** add slices of black pudding (Stornoway is the traditional Scottish black pudding) to the top for the last 15 minutes.
 **With dripping toast:** make extra dripping toast (bread fried in beef dripping) and serve alongside instead of oatcakes.
 

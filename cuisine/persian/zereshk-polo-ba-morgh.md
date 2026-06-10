@@ -32,7 +32,7 @@ Zereshk polo ba morgh is the great Persian wedding rice: saffron-stained basmati
 ### Rice
 - 500 g long-grain basmati rice
 - 3 litres water (for parboiling)
-- 3 tablespoons salt (for the boil - Persian rice cooking is heavily salted)
+- 3 tablespoons salt (for the boil, Persian rice cooking is heavily salted)
 - 3 tablespoons sunflower oil
 - 50 g unsalted butter
 - 1 large pinch saffron threads (soaked in 4 tablespoons hot water)
@@ -65,7 +65,7 @@ Zereshk polo ba morgh is the great Persian wedding rice: saffron-stained basmati
 ### Stage 3 - Parboil rice
 1. Bring 3 litres of water with 3 tablespoons salt to a hard boil in a wide pot.
 1. Drain the soaked rice; tip in.
-1. Cook 5-6 minutes - taste a grain; the outside should be cooked but the centre still firm (70% done).
+1. Cook 5-6 minutes, taste a grain; the outside should be cooked but the centre still firm (70% done).
 1. Drain into a sieve; rinse briefly with lukewarm water to stop cooking.
 
 ### Stage 4 - Tahdig and steam
@@ -79,12 +79,12 @@ Zereshk polo ba morgh is the great Persian wedding rice: saffron-stained basmati
 1. Drizzle 1 more tablespoon of saffron-water across.
 1. Wrap the pot lid in a tea towel (the towel absorbs condensation, keeping the rice fluffy).
 1. Place lid on; reduce heat to low.
-1. Cook 35-40 minutes - the bottom forms a crispy golden tahdig; the rice steams to fluffy perfection.
+1. Cook 35-40 minutes, the bottom forms a crispy golden tahdig; the rice steams to fluffy perfection.
 
 ### Stage 5 - Zereshk
 1. Rinse zereshk under cold water (they're often salty/dusty); drain.
 1. Heat 2 tablespoons butter in a small pan over medium-low.
-1. Add zereshk and sugar; sauté 1-2 minutes (they plump and gleam - DO NOT brown; they burn fast).
+1. Add zereshk and sugar; sauté 1-2 minutes (they plump and gleam, DO NOT brown; they burn fast).
 1. Stir in a small pinch of saffron.
 
 ### Stage 6 - Plate

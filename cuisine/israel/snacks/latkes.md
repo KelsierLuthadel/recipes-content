@@ -47,7 +47,7 @@ Latkes are the Ashkenazi Jewish potato pancakes of Hanukkah, fried in oil to com
 1. Mix with a fork until uniform.
 
 ### Stage 4 - Fry
-1. Heat the oil in a wide heavy pan (cast-iron is ideal) over medium-high heat - the oil should be 1 cm deep.
+1. Heat the oil in a wide heavy pan (cast-iron is ideal) over medium-high heat, the oil should be 1 cm deep.
 1. Test with a small bit of mixture; it should sizzle vigorously.
 1. Scoop a heaped tablespoon of the potato mixture; drop into the oil; flatten gently with the back of the spoon or a spatula to a 1 cm thick disc, about 8 cm across.
 1. Fry 3-4 latkes at a time (don't crowd).

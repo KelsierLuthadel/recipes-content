@@ -107,7 +107,7 @@ South Africa's defining take on the hamburger: a juicy beef patty topped with ch
 **Vegetarian chakalaka burger:** swap the patty for a grilled portobello or a halloumi steak.
 **With biltong on top:** add slices of South African biltong (cured beef) on top of the patty.
 **Spicier:** add a chopped fresh African bird's eye chilli to the chakalaka.
-**With fried egg:** the South African "kraz" style - a fried egg over the chakalaka.
+**With fried egg:** the South African "kraz" style, a fried egg over the chakalaka.
 
 ## Serving
 At a Sunday braai (barbecue). At a shisanyama (township grill house). At home with chips and a cold beer.

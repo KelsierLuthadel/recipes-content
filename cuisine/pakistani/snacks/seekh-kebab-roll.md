@@ -16,7 +16,7 @@ The seekh kebab roll is Pakistan's late-night street-corner wrap, the kind of th
 ## Ingredients
 
 ### Seekh kebab
-- 500 g lamb mince (20% fat - fattier is better than leaner)
+- 500 g lamb mince (20% fat, fattier is better than leaner)
 - 1 onion (small, grated, squeezed BONE-DRY in a tea towel)
 - 3 cm fresh ginger (grated)
 - 5 garlic cloves (crushed to a paste)
@@ -47,12 +47,12 @@ The seekh kebab roll is Pakistan's late-night street-corner wrap, the kind of th
 
 ### Stage 1 - Mince mixture
 1. In a wide bowl, mix all the kebab ingredients with your hand.
-1. Knead vigorously for 3 minutes - the mince becomes sticky and elastic (essential for clinging to the skewer).
+1. Knead vigorously for 3 minutes, the mince becomes sticky and elastic (essential for clinging to the skewer).
 1. Cover; refrigerate 1 hour minimum (lets the flavours integrate AND firms the mince).
 
 ### Stage 2 - Shape
 1. Divide the mince into 8 portions.
-1. With wet hands, form each portion into a long sausage 12 cm long, 2 cm thick, around a skewer - press the mince firmly around the skewer so it adheres.
+1. With wet hands, form each portion into a long sausage 12 cm long, 2 cm thick, around a skewer, press the mince firmly around the skewer so it adheres.
 1. Place on a tray; chill 15 minutes (helps the kebabs hold during grilling).
 
 ### Stage 3 - Cook

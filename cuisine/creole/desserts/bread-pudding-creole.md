@@ -48,7 +48,7 @@ New Orleans bread pudding is the dessert built for a city that refuses to throw 
 ### Stage 3 - Soak bread
 1. Tip the bread cubes into a large bowl.
 1. Pour the custard over; press gently with a spatula so all cubes soak.
-1. Rest 30 minutes - the bread absorbs the custard and softens.
+1. Rest 30 minutes, the bread absorbs the custard and softens.
 
 ### Stage 4 - Assemble
 1. Heat the oven to 175°C (155°C fan).
@@ -64,7 +64,7 @@ New Orleans bread pudding is the dessert built for a city that refuses to throw 
 ### Stage 6 - Whiskey sauce
 1. While the pudding bakes, combine butter and sugar in a saucepan over medium heat.
 1. Stir till the butter melts and the sugar dissolves; cook 2 minutes till just amber.
-1. Whisk in the cream slowly (it'll bubble - be careful).
+1. Whisk in the cream slowly (it'll bubble, be careful).
 1. Off heat; whisk in the beaten egg slowly (tempers, doesn't scramble).
 1. Stir in the bourbon and vanilla.
 1. Return to LOW heat 1 minute to thicken slightly (don't simmer hard; the egg curdles).

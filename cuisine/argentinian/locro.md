@@ -81,7 +81,7 @@ Locro is one of Argentina's most ancient dishes: a pre-Columbian Andean stew of 
 3. The corn should be tender and starchy; the meats should fall apart; the squash should dissolve into the broth.
 
 ### Stage 6 - Check consistency
-1. The locro should be VERY thick - a wooden spoon should stand upright in it.
+1. The locro should be VERY thick, a wooden spoon should stand upright in it.
 2. If too thin, simmer uncovered to reduce.
 3. If too thick, add hot water.
 4. Taste; adjust salt.
@@ -110,14 +110,14 @@ Locro is one of Argentina's most ancient dishes: a pre-Columbian Andean stew of 
 ## Variations
 **Locro vegetariano:** skip the meats; double the white beans + add 2 tablespoons smoked paprika + 1 teaspoon liquid smoke. Surprisingly good.
 **Locro de zapallo (squash-heavy):** double the squash; lighter version, more autumnal.
-**Locro patagónico:** add 200 g cubed mutton or lamb shoulder + 1 tablespoon yerba mate stock - Patagonian variant.
+**Locro patagónico:** add 200 g cubed mutton or lamb shoulder + 1 tablespoon yerba mate stock, Patagonian variant.
 **Locro porteño (Buenos Aires version):** lighter on the corn; heavier on beef; faster cooking (2 hours).
 **Locro norteño (northwest variant):** uses dried chillies (ají amarillo) instead of paprika; spicier; lighter colour.
 **Locro andino:** with quinoa added in the last hour; pre-Hispanic touch.
 **Slow-cooker locro:** all ingredients in a slow cooker on low for 10 hours. Less traditional but works for busy households.
 
 ## Serving
-On the three Argentine patriotic holidays: 25 May (Revolution), 9 July (Independence), 17 August (Death of San Martín) - the traditional settings · at an Argentine winter Sunday lunch · at a Mendoza or Salta family dinner · at an Argentine harvest festival · at a Buenos Aires bodegón as the winter weekly special · at home with a bottle of Malbec on a cold winter evening.
+On the three Argentine patriotic holidays: 25 May (Revolution), 9 July (Independence), 17 August (Death of San Martín): the traditional settings · at an Argentine winter Sunday lunch · at a Mendoza or Salta family dinner · at an Argentine harvest festival · at a Buenos Aires bodegón as the winter weekly special · at home with a bottle of Malbec on a cold winter evening.
 
 ## Storage
 - Refrigerates 4 days; the flavour improves on day 2.

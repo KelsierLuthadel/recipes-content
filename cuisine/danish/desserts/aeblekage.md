@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (apple compote) + 5 minutes (toasting crumbs if making)
 
 ## Overview
-Æblekage (literally "apple cake") is one of Denmark's most beloved everyday desserts - and the name is a glorious misnomer because there's no actual cake involved. It's a layered cold dessert: stewed apple compote (peeled apples cooked down with sugar, lemon and a touch of vanilla into a soft jammy sauce), crushed macaroon biscuits (the traditional Danish version uses ratafia biscuits / makroner - small almond meringue cookies; many home cooks substitute with toasted buttered breadcrumbs spiked with brown sugar and cinnamon for the "rasp" version), and lightly sweetened whipped cream - all layered in a clear glass dish or individual glasses so the strata show through. Often topped with a small spoon of redcurrant jelly or a few fresh red berries for the traditional Danish flourish of red on white. The dish is designed for utility: it uses up windfall apples in autumn, comes together in minutes once the apple stew is ready, and looks beautiful in a glass bowl on the dinner table.
+Æblekage (literally "apple cake") is one of Denmark's most beloved everyday desserts, and the name is a glorious misnomer because there's no actual cake involved. It's a layered cold dessert: stewed apple compote (peeled apples cooked down with sugar, lemon and a touch of vanilla into a soft jammy sauce), crushed macaroon biscuits (the traditional Danish version uses ratafia biscuits / makroner, small almond meringue cookies; many home cooks substitute with toasted buttered breadcrumbs spiked with brown sugar and cinnamon for the "rasp" version), and lightly sweetened whipped cream, all layered in a clear glass dish or individual glasses so the strata show through. Often topped with a small spoon of redcurrant jelly or a few fresh red berries for the traditional Danish flourish of red on white. The dish is designed for utility: it uses up windfall apples in autumn, comes together in minutes once the apple stew is ready, and looks beautiful in a glass bowl on the dinner table.
 
 ## Ingredients
 
@@ -24,8 +24,8 @@
 - ½ teaspoon ground cinnamon (optional)
 
 ### The "crumb" layer (choose one)
-- **Option A (Danish traditional - macaroon version):** 200 g ratafia / amaretti biscuits OR Danish makroner (almond meringue cookies), coarsely crushed
-- **Option B (rustic Danish - toasted breadcrumb version):** 200 g coarse breadcrumbs from day-old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon, all toasted in a dry pan till deeply golden and crisp
+- **Option A (Danish traditional, macaroon version):** 200 g ratafia / amaretti biscuits OR Danish makroner (almond meringue cookies), coarsely crushed
+- **Option B (rustic Danish, toasted breadcrumb version):** 200 g coarse breadcrumbs from day-old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon, all toasted in a dry pan till deeply golden and crisp
 
 ### Whipped cream
 - 500 ml double cream (cold)
@@ -53,7 +53,7 @@
 
 ### Stage 2A - Option A: Crush the macaroons
 1. Place the macaroons in a sealed bag; crush coarsely with a rolling pin.
-2. You want a mix of larger crumbs and finer dust - not pulverised to powder.
+2. You want a mix of larger crumbs and finer dust, not pulverised to powder.
 
 ### Stage 2B - Option B: Make toasted breadcrumbs
 1. In a wide pan, melt the butter over medium heat.
@@ -71,16 +71,16 @@
 4. Layer 3: a layer of whipped cream.
 5. Layer 4: another layer of crumbs.
 6. Layer 5: the remaining apple compote.
-7. Layer 6: the top layer of whipped cream (mound generously - this is the visual top).
+7. Layer 6: the top layer of whipped cream (mound generously, this is the visual top).
 
 ### Stage 5 - Top
 1. Warm the redcurrant jelly briefly to loosen (10 seconds in microwave).
-2. Drizzle the jelly over the whipped cream - let it puddle in attractive blobs.
+2. Drizzle the jelly over the whipped cream, let it puddle in attractive blobs.
 3. Add a few fresh raspberries or redcurrants if you have them.
 4. A small sprig of mint.
 
 ### Stage 6 - Chill
-1. Refrigerate 30 minutes minimum (longer is fine - up to 2 hours).
+1. Refrigerate 30 minutes minimum (longer is fine, up to 2 hours).
 2. The crumbs stay crunchy in the first 2-3 hours; longer storage softens them.
 
 ### Stage 7 - Serve
@@ -100,7 +100,7 @@
 **With salted caramel:** layer a thin stripe of salted caramel between the apple and cream.
 **Plum or rhubarb æblekage:** swap apples for stewed plums or rhubarb; same technique.
 **With granola:** swap the crumbs for crunchy granola for a modern breakfast-dessert version.
-**Vegan:** swap whipped cream for whipped coconut cream; macaroons for crushed amaretti (check for egg whites - some are vegan).
+**Vegan:** swap whipped cream for whipped coconut cream; macaroons for crushed amaretti (check for egg whites, some are vegan).
 **Individual jam-jar version:** layer in small jam jars for a picnic / party portable version.
 
 ## Serving

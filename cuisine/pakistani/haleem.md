@@ -75,7 +75,7 @@ Haleem is Pakistan's iftar pot, the long-cooked Ramadan tradition that fills mos
 1. Add chilli powder, turmeric, coriander, cumin, garam masala, peppercorns, black cardamom, cloves, cinnamon, bay leaves and salt.
 1. Cook 1 minute, stirring.
 1. Pour in 1 ½ litres of water; bring to a boil; reduce to a low simmer; cover.
-1. Cook 1 hour 30 minutes (stovetop) OR pressure cook on high pressure 45 minutes. The meat should be very tender - almost falling off the bone.
+1. Cook 1 hour 30 minutes (stovetop) OR pressure cook on high pressure 45 minutes. The meat should be very tender, almost falling off the bone.
 
 ### Stage 3 - Combine
 1. Pull out the larger bones (the meat will fall off them); discard.
@@ -85,13 +85,13 @@ Haleem is Pakistan's iftar pot, the long-cooked Ramadan tradition that fills mos
 
 ### Stage 4 - The long cook and mash
 1. Simmer 2 hours (stovetop), partially covered, stirring every 15 minutes. Pressure cook another 30 minutes if using a pressure cooker.
-1. After 1 hour, take a potato masher or wooden spoon and start beating the haleem against the side of the pot - this is the traditional ghutna step that breaks the meat into strands and integrates everything.
-1. Continue cooking and beating in 15-minute cycles. After 2 hours the haleem should be thick, glossy, and the meat should be in fine threads throughout - no large chunks remaining.
-1. Alternatively, blitz in 3-4 second pulses with a stick blender (don't over-puree - you want texture).
+1. After 1 hour, take a potato masher or wooden spoon and start beating the haleem against the side of the pot, this is the traditional ghutna step that breaks the meat into strands and integrates everything.
+1. Continue cooking and beating in 15-minute cycles. After 2 hours the haleem should be thick, glossy, and the meat should be in fine threads throughout, no large chunks remaining.
+1. Alternatively, blitz in 3-4 second pulses with a stick blender (don't over-puree, you want texture).
 1. Add hot water as needed to keep it loose enough to stir; haleem thickens dramatically as it cools.
 
 ### Stage 5 - Final season
-1. Taste; adjust salt heavily - haleem soaks salt.
+1. Taste; adjust salt heavily, haleem soaks salt.
 1. Cook 10 more minutes uncovered to thicken.
 
 ### Stage 6 - Tarka
@@ -101,15 +101,15 @@ Haleem is Pakistan's iftar pot, the long-cooked Ramadan tradition that fills mos
 
 ### Stage 7 - Serve
 1. Ladle haleem into deep bowls.
-1. Drizzle hot tarka over each bowl - the sizzle is part of the experience.
+1. Drizzle hot tarka over each bowl, the sizzle is part of the experience.
 1. Scatter fried onions, ginger matchsticks, green chilli, coriander, mint and garam masala generously across the top.
 1. Squeeze of lemon at the table.
 1. Eat with naan or roti for scooping.
 
 ## Notes
-- **The mash is the dish:** Haleem is not a soup with chunks of meat - the meat and grain become one continuous, glossy, gritty-smooth porridge. Without the beating step, you have a stew. With it, you have haleem.
+- **The mash is the dish:** Haleem is not a soup with chunks of meat, the meat and grain become one continuous, glossy, gritty-smooth porridge. Without the beating step, you have a stew. With it, you have haleem.
 - **Overnight soak is non-negotiable:** Hard grains (cracked wheat, barley, chana dal, urad dal) need overnight rest in water or they'll never break down in the cook.
-- **Top each bowl generously:** Haleem is plain-tasting at base - the garnishes are essential. A bowl of haleem without lemon, ginger, fried onions, chilli and herbs is incomplete.
+- **Top each bowl generously:** Haleem is plain-tasting at base, the garnishes are essential. A bowl of haleem without lemon, ginger, fried onions, chilli and herbs is incomplete.
 
 ## Storage
 - Refrigerate 4 days; thickens further. Loosen with hot water on reheat.

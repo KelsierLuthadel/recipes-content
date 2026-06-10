@@ -27,7 +27,7 @@ Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of the
 - 1 tablespoon lemon juice
 
 ### Equipment
-- Silicone cone-shaped sweet moulds (about 2 cm wide × 3 cm tall) - look for "cone candy mould" online
+- Silicone cone-shaped sweet moulds (about 2 cm wide × 3 cm tall): look for "cone candy mould" online
 - A sugar thermometer
 - A heavy small saucepan
 
@@ -47,8 +47,8 @@ Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of the
 2. Stir over medium heat just till the sugar dissolves.
 3. Once dissolved, stop stirring; let the syrup simmer.
 4. Insert a sugar thermometer.
-5. Cook to 145°C (hard ball stage) - this takes 10-12 minutes. Don't go past 150°C or the syrup browns.
-6. Watch closely from 130°C - the temperature climbs fast in the last few degrees.
+5. Cook to 145°C (hard ball stage): this takes 10-12 minutes. Don't go past 150°C or the syrup browns.
+6. Watch closely from 130°C, the temperature climbs fast in the last few degrees.
 
 ### Stage 3 - Combine and flavour
 1. Remove the sugar syrup from the heat.
@@ -65,7 +65,7 @@ Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of the
 1. Leave the moulds at warm room temperature (20-22°C, dry environment) for at least 48 hours, ideally 4 days.
 2. During this time, the surface of each cuberdon crystallises into a hard sugar shell while the centre stays soft and syrupy.
 3. Don't move or jostle them; the shell sets best with stillness.
-4. Don't refrigerate - the moisture in the fridge prevents the shell from setting.
+4. Don't refrigerate, the moisture in the fridge prevents the shell from setting.
 
 ### Stage 6 - Unmould and finish
 1. After at least 48 hours (ideally 4 days), gently flex the silicone moulds to release each cuberdon.
@@ -83,12 +83,12 @@ Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of the
 - **Market vs homemade:** the Ghent market cuberdons are softer-skinned and stickier; home versions tend toward a harder shell. Both are valid.
 
 ## Variations
-**Violet cuberdons:** swap raspberry for violet essence and a violet food colouring - the second-most-popular flavour at Ghent markets.
+**Violet cuberdons:** swap raspberry for violet essence and a violet food colouring, the second-most-popular flavour at Ghent markets.
 **Blueberry cuberdons:** real blueberry purée and a touch of blackberry essence.
-**Apple cuberdons:** swap the raspberry for green apple essence and yellow-green colouring - the rural Flanders variant.
+**Apple cuberdons:** swap the raspberry for green apple essence and yellow-green colouring, the rural Flanders variant.
 **Coffee cuberdons:** swap the raspberry essence for 2 tablespoons strong espresso; use brown food colouring.
-**Mint cuberdons:** peppermint essence and pale green colouring - excellent after dinner.
-**Cuberdon ice cream:** crush 6 cuberdons into 500 g of softened vanilla ice cream; refreeze - Ghent-cafe modern variant.
+**Mint cuberdons:** peppermint essence and pale green colouring, excellent after dinner.
+**Cuberdon ice cream:** crush 6 cuberdons into 500 g of softened vanilla ice cream; refreeze, Ghent-cafe modern variant.
 **Elderflower cuberdons:** elderflower cordial as the flavouring; pale yellow colouring.
 
 ## Serving
@@ -96,7 +96,7 @@ At a Ghent market stall (the traditional setting; specifically the rival Geldhof
 
 ## Storage
 - Store in a single layer in a tin lined with parchment at cool room temperature (16-20°C). Keep in a dry environment.
-- Don't refrigerate - condensation softens the shell.
-- Don't freeze - the gum arabic centre changes texture irreversibly.
+- Don't refrigerate, condensation softens the shell.
+- Don't freeze, the gum arabic centre changes texture irreversibly.
 - Eat within 4 weeks of moulding. The centre slowly dries from soft-syrupy to firm-chewy over time; both are pleasant but different.
 - Cuberdons more than 2 months old can still be eaten but the centre has gone from syrup to a chewy gum.

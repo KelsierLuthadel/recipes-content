@@ -34,7 +34,7 @@ Tempeh goreng is the Indonesian fried tempeh: thick batons of fermented soy bean
 ### Stage 1 - Marinade
 1. Crush the garlic and coriander seeds to a paste in a mortar (or finely mince).
 1. Mix with the tamarind, salt, sugar and water in a wide dish.
-1. Add the tempeh batons; turn to coat. Marinate 30 minutes - the tempeh soaks up the liquid.
+1. Add the tempeh batons; turn to coat. Marinate 30 minutes, the tempeh soaks up the liquid.
 
 ### Stage 2 - Drain
 1. Lift the batons out of the marinade; let them drain on a wire rack 5 minutes (excess water spits in hot oil).
@@ -53,4 +53,4 @@ Tempeh goreng is the Indonesian fried tempeh: thick batons of fermented soy bean
 - **Fry temperature:** Below 170°C and the tempeh absorbs oil and goes greasy; above 195°C and the outside burns before the inside heats through.
 
 ## Storage
-- Best eaten right away. Re-crisp leftovers in a hot dry pan or oven at 200°C for 5 minutes - don't microwave.
+- Best eaten right away. Re-crisp leftovers in a hot dry pan or oven at 200°C for 5 minutes, don't microwave.

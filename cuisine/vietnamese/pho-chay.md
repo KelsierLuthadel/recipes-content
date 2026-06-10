@@ -2,7 +2,7 @@
 
 ![Phở Chay](resources/pho-chay.jpg)
 
-*Vietnamese vegetarian pho: a fragrant broth of charred onion, ginger, star anise, cinnamon and clove built on mushroom and seaweed for depth, with rice noodles, tofu and a heaped bowl of fresh herbs at the table. The broth is the dish - clear, aromatic, just-savoury.*
+*Vietnamese vegetarian pho: a fragrant broth of charred onion, ginger, star anise, cinnamon and clove built on mushroom and seaweed for depth, with rice noodles, tofu and a heaped bowl of fresh herbs at the table. The broth is the dish, clear, aromatic, just-savoury.*
 
 **Serves:** 4
 
@@ -65,7 +65,7 @@ Phở chay is the vegetarian pho: a clear aromatic broth built around charred on
 ### Stage 4 - Strain and season
 1. Strain through a fine sieve into a clean pot, pressing the solids gently.
 1. Discard the solids (or save the rehydrated mushrooms for a stir-fry).
-1. Stir in the soy sauce, salt and sugar; taste and adjust - should be savoury, lightly sweet, deeply aromatic.
+1. Stir in the soy sauce, salt and sugar; taste and adjust, should be savoury, lightly sweet, deeply aromatic.
 1. Add the tofu; simmer 5 minutes to warm through.
 
 ### Stage 5 - Noodles
@@ -76,7 +76,7 @@ Phở chay is the vegetarian pho: a clear aromatic broth built around charred on
 1. Lift tofu pieces from the broth and divide between the bowls.
 1. Ladle hot broth over.
 1. Bring the herbs, beansprouts, lime wedges and chillies to the table.
-1. Each diner adds what they want - torn basil, mint and coriander; a squeeze of lime; chillies; a swirl of hoisin and sriracha.
+1. Each diner adds what they want, torn basil, mint and coriander; a squeeze of lime; chillies; a swirl of hoisin and sriracha.
 
 ## Notes
 - **Charring is the soul of pho:** Smoky-sweet onion and ginger are what distinguish pho from generic noodle soup. Open the windows.

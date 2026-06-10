@@ -57,8 +57,8 @@ Firni is Afghanistan's set rice-flour pudding, served at Eid and at the end of l
 
 ## Notes
 - **Whisk constantly:** Rice flour catches on the bottom of the pan if you stop whisking. Stir steadily for the full 20 minutes.
-- **Strain if needed:** Any small lumps strain out through a fine sieve before pouring into bowls - gives a silkier set.
-- **Don't over-thicken:** Pull off the heat when the consistency is "thin custard" - it sets considerably as it chills.
+- **Strain if needed:** Any small lumps strain out through a fine sieve before pouring into bowls, gives a silkier set.
+- **Don't over-thicken:** Pull off the heat when the consistency is "thin custard", it sets considerably as it chills.
 
 ## Storage
 - Keeps 4 days refrigerated; eats well cold.

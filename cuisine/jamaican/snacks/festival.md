@@ -18,7 +18,7 @@ The sweet fried cornmeal finger that turns up beside jerk chicken at every Bosto
 ### Dough
 - 200 g plain flour
 - 150 g fine cornmeal (yellow or white)
-- 60 g caster sugar (or to taste - some Jamaicans go up to 90 g)
+- 60 g caster sugar (or to taste, some Jamaicans go up to 90 g)
 - 2 teaspoons baking powder
 - ½ teaspoon salt
 - ¼ teaspoon ground nutmeg
@@ -53,7 +53,7 @@ The sweet fried cornmeal finger that turns up beside jerk chicken at every Bosto
 7. Serve warm.
 
 ## Notes
-- **Oil temperature is key:** Too hot and the outside browns before the centre cooks - you'll get raw, gummy middles. Medium heat with patience is the answer.
+- **Oil temperature is key:** Too hot and the outside browns before the centre cooks, you'll get raw, gummy middles. Medium heat with patience is the answer.
 - **Cornmeal grind:** Fine or medium cornmeal works best. Coarse polenta gives a grittier texture (still fine, just different).
 - **Sweetness:** Tradition runs from "barely sweet" to "almost a doughnut". 60 g is a moderate middle. Bump to 90 g for the sweeter Negril-beach style.
 

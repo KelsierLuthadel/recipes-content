@@ -2,7 +2,7 @@
 
 ![Chanfana](resources/chanfana.jpg)
 
-*Portugal's Beira lamb-in-wine: bone-in lamb (or goat) slow-cooked in a heavy clay pot, submerged in red wine with onion, garlic, bay leaves, paprika and a touch of lard, for 3 hours till the meat falls from the bone and the wine reduces to a glossy dark sauce. The Beira Alta region's signature dish - wine-braised meat that takes its time.*
+*Portugal's Beira lamb-in-wine: bone-in lamb (or goat) slow-cooked in a heavy clay pot, submerged in red wine with onion, garlic, bay leaves, paprika and a touch of lard, for 3 hours till the meat falls from the bone and the wine reduces to a glossy dark sauce. The Beira Alta region's signature dish, wine-braised meat that takes its time.*
 
 **Serves:** 6
 

@@ -19,14 +19,14 @@ Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistan
 - 80 ml sunflower oil (or ghee)
 - 8 garlic cloves (crushed)
 - 4 cm fresh ginger (half grated, half cut into matchsticks for the garnish)
-- 8 tomatoes (medium, halved through the core - about 800 g)
+- 8 tomatoes (medium, halved through the core, about 800 g)
 - 4-6 fresh green chillies (3 split lengthwise, 2-3 sliced for garnish)
 - 1 tablespoon coarsely cracked black peppercorns (use a mortar; not pre-ground pepper)
 - 1 ½ teaspoons ground cumin
 - 1 ½ teaspoons salt (to taste)
 - 1 teaspoon ground coriander
 - 100 g full-fat plain yogurt (whisked smooth)
-- 3 tablespoons fresh coriander (chopped - both leaves and fine stems)
+- 3 tablespoons fresh coriander (chopped, both leaves and fine stems)
 - ½ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md) (optional, to finish)
 - 1 lemon (cut into wedges)
 
@@ -34,7 +34,7 @@ Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistan
 
 ### Stage 1 - Sear the chicken
 1. Heat oil in a wide karahi or wok over high heat until shimmering.
-1. Add the chicken pieces; sear 4 minutes per side until well browned (don't crowd - do in two batches if necessary).
+1. Add the chicken pieces; sear 4 minutes per side until well browned (don't crowd, do in two batches if necessary).
 
 ### Stage 2 - Aromatics
 1. Reduce heat to medium-high.
@@ -45,7 +45,7 @@ Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistan
 1. Add the split green chillies.
 1. Cover with a tight lid.
 1. Reduce heat to medium-low.
-1. Cook 20 minutes - the tomatoes will collapse in their own juices and the chicken will steam-poach through.
+1. Cook 20 minutes, the tomatoes will collapse in their own juices and the chicken will steam-poach through.
 
 ### Stage 4 - Skin the tomatoes
 1. Lift the lid.
@@ -69,9 +69,9 @@ Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistan
 
 ## Notes
 - **Whole tomatoes are the secret:** The halved tomatoes (skin-side up) steam over the chicken and break down into the sauce. You then pick out the skins. This gives the dish its silky tomato pulp without bits of tough skin.
-- **Crushed black pepper, freshly:** Pre-ground pepper is acrid. Bash whole peppercorns in a mortar and add at the end - the pepper is one of the dish's defining flavours.
+- **Crushed black pepper, freshly:** Pre-ground pepper is acrid. Bash whole peppercorns in a mortar and add at the end, the pepper is one of the dish's defining flavours.
 - **No onions:** Pakistani karahi doesn't use onion paste; that's an Indian (Punjabi-style) addition. Karahi is built on tomato, ginger, garlic, chilli and pepper.
 
 ## Storage
 - Refrigerate 3 days; reheats well.
-- Doesn't freeze brilliantly - the yogurt can split on thaw. Make without yogurt to freeze; add fresh on reheat.
+- Doesn't freeze brilliantly, the yogurt can split on thaw. Make without yogurt to freeze; add fresh on reheat.

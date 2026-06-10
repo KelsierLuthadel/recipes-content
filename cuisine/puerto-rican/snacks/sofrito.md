@@ -21,7 +21,7 @@ Sofrito is the absolute foundation of Puerto Rican cooking and the single most i
 - 2 large onions (roughly chopped)
 - 1 whole head garlic (12-15 cloves; peeled)
 - 2 large bunches fresh cilantro (about 100 g; rinsed, roots trimmed)
-- 1 small bunch fresh culantro / recao (about 30 g; chopped) - or double the cilantro if unavailable
+- 1 small bunch fresh culantro / recao (about 30 g; chopped): or double the cilantro if unavailable
 - 1 medium tomato (chopped; optional but common)
 - 1 medium red bell pepper (deseeded and roughly chopped; for sweetness and colour)
 
@@ -64,7 +64,7 @@ Sofrito is the absolute foundation of Puerto Rican cooking and the single most i
 4. Then proceed with the rest of the recipe (add meat, vegetables, etc.).
 
 ## Notes
-- **Cilantro AND culantro:** for the proper PR sofrito. Culantro (recao) is available frozen at most Caribbean markets in the diaspora. If unavailable, double the cilantro - the result is acceptable but less authentic.
+- **Cilantro AND culantro:** for the proper PR sofrito. Culantro (recao) is available frozen at most Caribbean markets in the diaspora. If unavailable, double the cilantro, the result is acceptable but less authentic.
 - **Coarse texture:** don't process to a smooth paste; the proper PR sofrito has texture. Pulse, don't run continuously.
 - **No tomato in some versions:** some Puerto Rican home cooks don't add tomato to their sofrito; the dish becomes pure-green. Both versions are valid; tomato gives slightly more rounded flavour, no tomato keeps it brighter green.
 - **Freeze in cubes:** ice cube trays are the traditional Boricua storage method. Pop one cube per tablespoon of recipe call.

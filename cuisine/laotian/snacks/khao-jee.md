@@ -29,7 +29,7 @@ Khao jee is Laos's French-colonial sandwich tradition, descended from the same 1
 - (Combine; let stand 30 minutes; drain before using)
 
 ### The spreads
-- 4 tablespoons pâté (chicken liver pâté, country pâté, or a smooth pâté - Lao supermarkets sell tinned French-style)
+- 4 tablespoons pâté (chicken liver pâté, country pâté, or a smooth pâté, Lao supermarkets sell tinned French-style)
 - 4 tablespoons mayonnaise OR butter (the Lao home version often uses both)
 - 1 tablespoon prepared Dijon mustard
 
@@ -93,15 +93,15 @@ Khao jee is Laos's French-colonial sandwich tradition, descended from the same 1
 ## Notes
 - **Day-old bread:** the slightly stale crust holds the sandwich. Fresh baguette can be too soft.
 - **Padaek dressing is the Lao signature:** distinguishes from Vietnamese bánh mì.
-- **Generous herbs:** the traditional Lao sandwich is herb-heavy - don't skimp on cilantro, mint or culantro.
-- **Eat fresh:** the sandwich loses character after 15 minutes - the vegetables release water, the bread softens.
+- **Generous herbs:** the traditional Lao sandwich is herb-heavy, don't skimp on cilantro, mint or culantro.
+- **Eat fresh:** the sandwich loses character after 15 minutes, the vegetables release water, the bread softens.
 
 ## Variations
-**Khao jee with laap:** spoon a few generous tablespoons of laap into the bread instead of cold meat - the traditional alternative.
+**Khao jee with laap:** spoon a few generous tablespoons of laap into the bread instead of cold meat, the traditional alternative.
 **Vegetarian khao jee:** swap meat for grilled tofu or marinated mushrooms; same herbs and dressing.
-**Khao jee with sai oua and pâté:** the traditional Luang Prabang street-cart version - both fillings.
+**Khao jee with sai oua and pâté:** the traditional Luang Prabang street-cart version, both fillings.
 **Spicier khao jee:** double the chillies and add a splash of Lao chilli sauce.
-**Modern fusion khao jee:** add an egg fried sunny-side-up over the filling - the modern Vientiane café variant.
+**Modern fusion khao jee:** add an egg fried sunny-side-up over the filling, the modern Vientiane café variant.
 
 ## Serving
 At a Lao morning market stall (the traditional setting; sold from carts and small bakeries) · at a Lao breakfast counter · at a Lao bakery · at a Lao roadside stop · at home as a quick lunch · paired with a Lao iced coffee or a glass of iced lime juice.
@@ -110,5 +110,5 @@ At a Lao morning market stall (the traditional setting; sold from carts and smal
 - Best eaten within 15 minutes of assembly.
 - The pickled carrot-daikon refrigerates 1 week.
 - The dressing keeps refrigerated 1 month.
-- Don't refrigerate assembled sandwiches - the bread goes soggy.
+- Don't refrigerate assembled sandwiches, the bread goes soggy.
 - Components (bread, pâté, meat, pickle, dressing) all keep separately and can be assembled per serving.

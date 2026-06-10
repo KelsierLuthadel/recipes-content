@@ -43,7 +43,7 @@ Gulab jamun is the most-loved sweet across Pakistan and India, the centrepiece o
 
 ### Stage 1 - Syrup
 1. Combine the sugar, water and lemon juice in a wide pan.
-1. Bring to the boil; simmer 6-8 minutes until very slightly thickened (one-string consistency - a drop between fingers should form a thin string).
+1. Bring to the boil; simmer 6-8 minutes until very slightly thickened (one-string consistency, a drop between fingers should form a thin string).
 1. Off the heat, stir in the rosewater, cardamom and saffron.
 1. Keep warm but not bubbling.
 
@@ -51,15 +51,15 @@ Gulab jamun is the most-loved sweet across Pakistan and India, the centrepiece o
 1. If using khoya: grate or crumble it into a wide bowl.
 1. If using milk powder: combine with the warm milk and knead briefly to a soft mass.
 1. Add the flour, semolina, baking powder, salt, cardamom and ghee.
-1. Knead gently - too much kneading makes them dense; you want just enough to bring it together. Add splashes of milk as needed to make a soft, slightly sticky dough.
+1. Knead gently, too much kneading makes them dense; you want just enough to bring it together. Add splashes of milk as needed to make a soft, slightly sticky dough.
 1. Cover and rest 10 minutes.
 
 ### Stage 3 - Shape
 1. Divide the dough into 18-20 small balls (about the size of a small walnut).
-1. Roll each between your palms until completely smooth - any cracks open in the oil and the gulab jamun won't be uniform.
+1. Roll each between your palms until completely smooth, any cracks open in the oil and the gulab jamun won't be uniform.
 
 ### Stage 4 - Fry low and slow
-1. Heat the oil in a heavy deep pan to a low 140-150°C - much cooler than typical deep-frying. The temperature is the secret.
+1. Heat the oil in a heavy deep pan to a low 140-150°C, much cooler than typical deep-frying. The temperature is the secret.
 1. Add 5-6 balls at a time. Don't move them for 30 seconds.
 1. After they rise to the surface, gently swirl the pan or push them with the back of a slotted spoon so they roll and colour evenly.
 1. Fry 8-10 minutes total, gradually increasing the heat slightly, until they're deep mahogany brown and feel slightly springy.

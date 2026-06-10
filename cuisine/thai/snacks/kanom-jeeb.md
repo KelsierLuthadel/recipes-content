@@ -28,7 +28,7 @@ Kanom jeeb is Thailand's open-topped dumpling, the Thai cousin to Chinese siu ma
 - 1 teaspoon sesame oil
 - 1 egg (large, beaten, half for the filling, half for brushing)
 - 1 tablespoon cornstarch
-- 2 dried shiitake mushrooms (soaked, finely chopped - optional, traditional)
+- 2 dried shiitake mushrooms (soaked, finely chopped, optional, traditional)
 - 2 spring onions (finely chopped)
 
 ### Assembly
@@ -53,12 +53,12 @@ Kanom jeeb is Thailand's open-topped dumpling, the Thai cousin to Chinese siu ma
 
 ### Stage 2 - Filling
 1. In a wide bowl, combine pork mince, chopped prawn, coriander root paste, oyster sauce, both soy sauces, sugar, sesame oil, half the beaten egg (save the rest for brushing), cornstarch, chopped shiitake (if using) and spring onions.
-1. Mix vigorously with your hand or a spoon for 2 minutes - the mixture should become slightly sticky and elastic.
+1. Mix vigorously with your hand or a spoon for 2 minutes, the mixture should become slightly sticky and elastic.
 1. Cover; refrigerate 20 minutes to firm.
 
 ### Stage 3 - Make the dipping sauce
 1. Whisk all sauce ingredients in a small bowl.
-1. Rest 10 minutes - the chilli and garlic infuse the soy.
+1. Rest 10 minutes, the chilli and garlic infuse the soy.
 
 ### Stage 4 - Form
 1. Place a wonton wrapper on your palm.
@@ -70,7 +70,7 @@ Kanom jeeb is Thailand's open-topped dumpling, the Thai cousin to Chinese siu ma
 1. Press a slice of carrot (or a thin julienne strip) onto each top.
 
 ### Stage 5 - Steam
-1. Bring a wide pot of water to a boil (1-2 inches of water - should not touch the basket).
+1. Bring a wide pot of water to a boil (1-2 inches of water, should not touch the basket).
 1. Line the bamboo basket with baking paper (cut to size, pierced for steam) OR a damp tea towel.
 1. Arrange the dumplings in the basket, leaving 1 cm space between them (they expand slightly).
 1. Cover.
@@ -80,14 +80,14 @@ Kanom jeeb is Thailand's open-topped dumpling, the Thai cousin to Chinese siu ma
 ### Stage 6 - Serve
 1. Lift the lid carefully (steam can scald).
 1. Serve in the basket with the dipping sauce on the side.
-1. Eat warm - pick up with chopsticks, dip the top in the sauce, eat in one or two bites.
+1. Eat warm, pick up with chopsticks, dip the top in the sauce, eat in one or two bites.
 
 ## Notes
-- **Coriander roots are the Thai signature:** Pak chee (coriander root) is the difference between Chinese siu mai and Thai kanom jeeb. The roots - pounded with garlic and white pepper - give the meat its distinct Thai aroma. Sold at Thai/Asian shops with the leaves still attached; if you can't find roots, the very thick stems closest to the root work nearly as well.
+- **Coriander roots are the Thai signature:** Pak chee (coriander root) is the difference between Chinese siu mai and Thai kanom jeeb. The roots, pounded with garlic and white pepper, give the meat its distinct Thai aroma. Sold at Thai/Asian shops with the leaves still attached; if you can't find roots, the very thick stems closest to the root work nearly as well.
 - **Don't fully seal the dumpling:** The Thai (and Chinese siu mai) style is open-topped: pleat around the sides but leave the meat exposed on top. This is what gives the dumpling its characteristic cup shape and lets the carrot garnish sit on top.
 - **Slightly sticky filling = better texture:** Mixing the filling vigorously for 2 minutes develops the meat proteins; the result is a tender, slightly springy filling rather than a crumbly mince. Don't skip the mix step.
 
 ## Storage
 - Best fresh, hot from the steamer.
 - Refrigerate cooked dumplings 2 days; re-steam 4 minutes (microwave gives rubbery wrappers).
-- Freeze raw dumplings on a tray in a single layer, then transfer to a freezer bag - keeps 2 months. Steam from frozen for 12 minutes.
+- Freeze raw dumplings on a tray in a single layer, then transfer to a freezer bag, keeps 2 months. Steam from frozen for 12 minutes.

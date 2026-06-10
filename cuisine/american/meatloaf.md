@@ -49,7 +49,7 @@ The mid-century Sunday supper that every American household above a certain age 
 
 ### Stage 3 - Mix
 1. In a wide bowl, combine beef, pork, panade, cooled onion-garlic, eggs, Worcestershire, mustard, parsley, thyme, salt, pepper.
-1. Mix with hands gently until just combined. Don't overwork - heavy mixing makes a tight, dense loaf.
+1. Mix with hands gently until just combined. Don't overwork, heavy mixing makes a tight, dense loaf.
 
 ### Stage 4 - Pack
 1. Heat oven to 180°C (160°C fan).
@@ -61,7 +61,7 @@ The mid-century Sunday supper that every American household above a certain age 
 
 ### Stage 6 - Bake
 1. Bake 50 minutes. Brush with the remaining glaze.
-1. Return to the oven 15-20 more minutes - internal temperature 70°C in the centre, glaze dark and bubbling.
+1. Return to the oven 15-20 more minutes, internal temperature 70°C in the centre, glaze dark and bubbling.
 
 ### Stage 7 - Rest and slice
 1. Rest 10 minutes in the tin.

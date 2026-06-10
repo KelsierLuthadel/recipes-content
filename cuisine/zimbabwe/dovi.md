@@ -47,14 +47,14 @@ Dovi is Zimbabwe's peanut stew: chicken (or beef) simmered slow in a thick mahog
 1. Stir in the spinach; cook 5 minutes until wilted and the sauce is glossy.
 
 ### Stage 4 - Serve
-1. Taste and adjust salt. Sauce should coat a spoon but not be pasty - add a splash of stock if needed.
+1. Taste and adjust salt. Sauce should coat a spoon but not be pasty, add a splash of stock if needed.
 1. Spoon into wide bowls with sadza for scooping.
 
 ## Notes
 - **Peanut butter quality:** Use 100% peanut butter (no sugar, no palm oil). Sweetened brands turn the sauce gluey and cloying.
 - **Stir to prevent catching:** Peanut butter sticks if you walk away. Once a minute is plenty.
-- **Greens:** Covo (Zimbabwean collard) is the classic; spinach is the easy swap. Don't skip them - they cut the richness.
+- **Greens:** Covo (Zimbabwean collard) is the classic; spinach is the easy swap. Don't skip them, they cut the richness.
 
 ## Storage
 - Refrigerate 3 days. The sauce will thicken; loosen with stock or water when reheating.
-- Freezes 2 months. Stir well after thawing - the peanut butter and water can split.
+- Freezes 2 months. Stir well after thawing, the peanut butter and water can split.

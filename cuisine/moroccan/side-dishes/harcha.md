@@ -36,7 +36,7 @@ Harcha is Morocco's teatime semolina pan-bread: a dense, slightly crumbly disc c
 ### Stage 2 - Hydrate
 1. Pour in 200 ml of warm milk gradually, stirring with a wooden spoon.
 1. The mixture should come together into a soft, slightly tacky dough; add more milk a tablespoon at a time if needed.
-1. Don't overwork - just bring it together.
+1. Don't overwork, just bring it together.
 
 ### Stage 3 - Shape
 1. Spread the extra semolina on a plate.
@@ -45,7 +45,7 @@ Harcha is Morocco's teatime semolina pan-bread: a dense, slightly crumbly disc c
 1. Press each disc into the extra semolina to coat both sides.
 
 ### Stage 4 - Pan-fry
-1. Heat a heavy dry skillet over medium-low heat (low and slow - harcha needs to cook through, not just sear the outside).
+1. Heat a heavy dry skillet over medium-low heat (low and slow, harcha needs to cook through, not just sear the outside).
 1. Lay 2-3 discs in the pan.
 1. Cook 4-5 minutes per side, turning carefully with a wide spatula, until deep golden and slightly cracked.
 1. Reduce heat if the bottoms colour too fast.

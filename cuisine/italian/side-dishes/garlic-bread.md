@@ -32,7 +32,7 @@ The garlic bread you remember from family dinners, made well rather than from a 
 
 ### Stage 2 - Prep the bread
 1. Heat the oven to 200°C (180°C fan).
-1. Cut the baguette in half horizontally (or make deep cuts every 3 cm without cutting through the bottom - this makes a tear-and-share loaf).
+1. Cut the baguette in half horizontally (or make deep cuts every 3 cm without cutting through the bottom, this makes a tear-and-share loaf).
 
 ### Stage 3 - Spread
 1. Slather the cut surfaces (or push butter into the cuts) generously with the garlic butter. All of it should be used.

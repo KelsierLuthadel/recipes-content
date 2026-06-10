@@ -93,7 +93,7 @@ Puebla's labyrinthine sauce, the most complex preparation in Mexican cooking and
 
 ## Notes
 - **Three chillies minimum:** Mulato (raisin-fruity), ancho (sweet-mild), pasilla (deep-bitter). Replacing all three with one type gives a flat sauce.
-- **Toast everything:** Every ingredient - chillies, nuts, seeds, spices, bread - gets briefly toasted or fried. This is what builds the layered flavour.
+- **Toast everything:** Every ingredient, chillies, nuts, seeds, spices, bread, gets briefly toasted or fried. This is what builds the layered flavour.
 - **Chocolate is the binder:** A small amount, and not the dessert kind. 70% dark, no added flavours.
 
 ## Storage

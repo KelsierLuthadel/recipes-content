@@ -15,22 +15,22 @@ The honour-meat of the Mongolian steppe and the plainest expression of the count
 
 ## Ingredients
 
-- 1 ½ kg mutton on the bone (shoulder, leg, breast, ribs - mixed cuts are traditional)
+- 1 ½ kg mutton on the bone (shoulder, leg, breast, ribs, mixed cuts are traditional)
 - 3 litres cold water
 - 3 tablespoons salt (yes, 3)
-- 1 onion (small, halved - optional; traditionalists use nothing)
+- 1 onion (small, halved, optional; traditionalists use nothing)
 - 1 bay leaf (optional)
 
 ### To serve
 - Salt flakes
-- Mustard (Mongolian-style - sharp yellow mustard with a splash of water and salt)
+- Mustard (Mongolian-style, sharp yellow mustard with a splash of water and salt)
 
 ## Method
 
 ### Stage 1 - Pot
 1. Place mutton pieces in a deep heavy pot.
 1. Cover with the cold water (the meat should be fully submerged with 5 cm of water above).
-1. Bring slowly to a boil over medium heat - slow heating makes a clearer broth.
+1. Bring slowly to a boil over medium heat, slow heating makes a clearer broth.
 
 ### Stage 2 - Skim
 1. As the water approaches a boil, foam will rise.
@@ -41,7 +41,7 @@ The honour-meat of the Mongolian steppe and the plainest expression of the count
 1. Reduce to the lowest simmer.
 1. Partially cover.
 1. Cook 1 hour 30 minutes until the meat is fall-from-bone tender.
-1. Don't boil hard - a gentle simmer is the rule. Boiling toughens the meat and clouds the broth.
+1. Don't boil hard, a gentle simmer is the rule. Boiling toughens the meat and clouds the broth.
 
 ### Stage 4 - Rest
 1. Off heat; let the meat sit in the broth 15 minutes.
@@ -54,8 +54,8 @@ The honour-meat of the Mongolian steppe and the plainest expression of the count
 1. Mustard is offered on the side for dipping.
 
 ## Notes
-- **Heavy salting:** Mongolian boiled mutton is well-salted - the salt is what cures the bland and brings out the meat. Don't undersalt out of timidity.
-- **Slow simmer, no aromatics:** This is the dish - meat, water, salt. Vegetables and herbs are anti-traditional. The flavour is pure mutton.
+- **Heavy salting:** Mongolian boiled mutton is well-salted, the salt is what cures the bland and brings out the meat. Don't undersalt out of timidity.
+- **Slow simmer, no aromatics:** This is the dish, meat, water, salt. Vegetables and herbs are anti-traditional. The flavour is pure mutton.
 - **Eat with your hands:** Forks are wrong. Bones are sucked clean; cartilage is chewed.
 
 ## Storage

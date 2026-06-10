@@ -2,7 +2,7 @@
 
 ![Quiche aux Légumes](resources/quiche-aux-legumes.jpg)
 
-*A French vegetable quiche: blind-baked shortcrust shell filled with a custard of cream, eggs and gruyère, the vegetables - leek, courgette, spinach, herbs - softened in butter first to drive off water before they go in. Set just to the wobble; eaten hot, warm or cold.*
+*A French vegetable quiche: blind-baked shortcrust shell filled with a custard of cream, eggs and gruyère, the vegetables, leek, courgette, spinach, herbs, softened in butter first to drive off water before they go in. Set just to the wobble; eaten hot, warm or cold.*
 
 **Serves:** 6
 
@@ -58,7 +58,7 @@ Vegetable quiche is the French answer to whatever's left in the fridge, a butter
 ### Stage 3 - Vegetables
 1. Melt the butter in a wide pan over medium heat.
 1. Cook the leek 5 minutes until soft.
-1. Add the courgette; cook 5 minutes until just tender (no soggy bits - drive the water off).
+1. Add the courgette; cook 5 minutes until just tender (no soggy bits, drive the water off).
 1. Add the spinach in handfuls until wilted; stir in the garlic and thyme; cook 1 minute.
 1. Tip into a sieve and press out any liquid; cool slightly.
 
@@ -73,7 +73,7 @@ Vegetable quiche is the French answer to whatever's left in the fridge, a butter
 
 ### Stage 6 - Bake
 1. Bake 30-35 minutes until the centre has a faint wobble (it'll set as it cools).
-1. Cool 15 minutes before slicing - gives clean slices.
+1. Cool 15 minutes before slicing, gives clean slices.
 
 ## Notes
 - **Dry the vegetables:** Wet filling means watery custard. Pre-cook every vegetable until it's released its water, then drain.

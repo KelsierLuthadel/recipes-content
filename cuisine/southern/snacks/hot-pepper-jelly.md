@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Hot pepper jelly is one of the South's most distinctive condiments and a beloved Southern Christmas gift: fresh red bell peppers and fresh hot red chillies blitzed in a food processor with apple cider vinegar, sugar and pectin, brought to a boil till the pectin sets, poured into sterilised jars and sealed. The result is a beautiful clear red jelly with visible flecks of pepper, sweet-spicy in flavour, with enough heat to bite but enough sugar to balance. Used as a spread (on crackers with cream cheese - the traditional Southern appetiser), glazed on grilled chicken or ham, brushed on cheese for charcuterie boards, swirled into BBQ sauce.
+Hot pepper jelly is one of the South's most distinctive condiments and a beloved Southern Christmas gift: fresh red bell peppers and fresh hot red chillies blitzed in a food processor with apple cider vinegar, sugar and pectin, brought to a boil till the pectin sets, poured into sterilised jars and sealed. The result is a beautiful clear red jelly with visible flecks of pepper, sweet-spicy in flavour, with enough heat to bite but enough sugar to balance. Used as a spread (on crackers with cream cheese, the traditional Southern appetiser), glazed on grilled chicken or ham, brushed on cheese for charcuterie boards, swirled into BBQ sauce.
 
 ## Ingredients
 

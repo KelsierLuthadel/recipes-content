@@ -95,7 +95,7 @@ ingredients:
     raw: 1 teaspoon black pepper
   - qty: 400
     unit: g
-    name: spinach - or 250 g frozen spinach
-    raw: 400 g fresh spinach - or 250 g frozen spinach
+    name: "spinach : or 250 g frozen spinach"
+    raw: "400 g fresh spinach : or 250 g frozen spinach"
   - name: white rice
     raw: White rice, eba, fufu, pounded yam

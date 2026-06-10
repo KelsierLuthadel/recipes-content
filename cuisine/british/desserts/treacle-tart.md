@@ -24,8 +24,8 @@ A proper British pudding and a school-dinner classic: a sweet pastry case filled
 - 1-2 tablespoons ice water
 
 ### Filling
-- 450 g golden syrup (Lyle's Golden Syrup - a full tin)
-- 100 g fresh fine breadcrumbs (from a day-old white loaf - crusts cut off, blitzed in a food processor)
+- 450 g golden syrup (Lyle's Golden Syrup, a full tin)
+- 100 g fresh fine breadcrumbs (from a day-old white loaf, crusts cut off, blitzed in a food processor)
 - 1 egg (large, beaten)
 - 50 ml double cream (optional, for extra richness)
 - 1 lemon (zest)
@@ -45,7 +45,7 @@ A proper British pudding and a school-dinner classic: a sweet pastry case filled
 1. In a wide bowl, whisk flour, icing sugar and salt.
 1. Rub in the cold butter with fingertips until the mixture resembles fine breadcrumbs.
 1. Add the egg yolk and 1 tablespoon of ice water; mix with a fork.
-1. Bring together with your hands into a smooth ball - add the second tablespoon of water only if needed.
+1. Bring together with your hands into a smooth ball, add the second tablespoon of water only if needed.
 1. Press into a thick disc; wrap; refrigerate 1 hour.
 
 ### Stage 2 - Line the tin
@@ -62,7 +62,7 @@ A proper British pudding and a school-dinner classic: a sweet pastry case filled
 1. Return to the oven for 5 more minutes until pale gold all over.
 
 ### Stage 4 - Filling
-1. Warm the golden syrup in a saucepan over very low heat just until it's runny (not hot - gentle warmth, about 1 minute).
+1. Warm the golden syrup in a saucepan over very low heat just until it's runny (not hot, gentle warmth, about 1 minute).
 1. Take off heat.
 1. Stir in the fresh breadcrumbs, beaten egg, double cream (if using), lemon zest, lemon juice, optional dark syrup, ground ginger and a pinch of salt.
 1. Mix thoroughly.
@@ -76,7 +76,7 @@ A proper British pudding and a school-dinner classic: a sweet pastry case filled
 
 ### Stage 6 - Cool
 1. Cool in the tin 15 minutes (the filling firms further as it cools).
-1. Don't serve hot - boiling-hot syrup is dangerous and the texture is too liquid.
+1. Don't serve hot, boiling-hot syrup is dangerous and the texture is too liquid.
 
 ### Stage 7 - Serve
 1. Remove from tin; slice into wedges.
@@ -84,7 +84,7 @@ A proper British pudding and a school-dinner classic: a sweet pastry case filled
 
 ## Notes
 - **Fresh breadcrumbs, not dried:** Fresh soft breadcrumbs absorb the syrup smoothly and give the right tender filling. Dried breadcrumbs (the orange-coloured packet kind) give a hard, sandy texture.
-- **Lemon is the secret balance:** Without the zest and juice, treacle tart is one-note sweet and cloying. The lemon doesn't taste lemony in the finished tart - it just cuts the sugar and brings the filling alive.
+- **Lemon is the secret balance:** Without the zest and juice, treacle tart is one-note sweet and cloying. The lemon doesn't taste lemony in the finished tart, it just cuts the sugar and brings the filling alive.
 - **Golden syrup, not black treacle:** Lyle's golden syrup (the green tin) is the right sugar. Black treacle (molasses) is too bitter and dark; a teaspoon mixed in is fine for depth, but not as the main sweetener.
 
 ## Storage

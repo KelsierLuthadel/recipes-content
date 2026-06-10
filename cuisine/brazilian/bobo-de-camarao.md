@@ -11,7 +11,7 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Bobó de camarão is one of Bahia's most luxurious and most distinctly African-Brazilian dishes - a velvety cream of cassava (yuca), coconut milk and red palm oil (dendê), enriched with sweated onion, garlic, ginger, fresh tomato and fresh coriander, with large prawns or shrimps gently poached in the cream for the last few minutes of cooking. The name "bobó" comes from the Yoruba word "ipete" (meaning a mashed-bean dish), adapted in Bahia by enslaved African cooks who used cassava - a local staple - instead of the African beans of the original. The texture is unmistakably bobó: thick, velvety, almost a soup-stew hybrid, with whole prawns nestled into the pale-orange cream. The dish is closely related to moqueca but distinguished by the cassava thickener (which gives it the bobó-signature density) and by the absence of bell peppers (moqueca uses peppers; bobó uses cassava as the body). Served in deep bowls over rice with farofa, a wedge of lime, and a glass of cold beer.
+Bobó de camarão is one of Bahia's most luxurious and most distinctly African-Brazilian dishes, a velvety cream of cassava (yuca), coconut milk and red palm oil (dendê), enriched with sweated onion, garlic, ginger, fresh tomato and fresh coriander, with large prawns or shrimps gently poached in the cream for the last few minutes of cooking. The name "bobó" comes from the Yoruba word "ipete" (meaning a mashed-bean dish), adapted in Bahia by enslaved African cooks who used cassava, a local staple, instead of the African beans of the original. The texture is unmistakably bobó: thick, velvety, almost a soup-stew hybrid, with whole prawns nestled into the pale-orange cream. The dish is closely related to moqueca but distinguished by the cassava thickener (which gives it the bobó-signature density) and by the absence of bell peppers (moqueca uses peppers; bobó uses cassava as the body). Served in deep bowls over rice with farofa, a wedge of lime, and a glass of cold beer.
 
 ## Ingredients
 
@@ -50,7 +50,7 @@ Bobó de camarão is one of Bahia's most luxurious and most distinctly African-B
 ## Method
 
 ### Stage 1 - Cook the cassava
-1. Peel the cassava: cut into 6-8 cm chunks; with a sharp knife, remove the thick brown skin and the fibrous pink layer beneath. Cut each chunk in half lengthways and remove the woody centre fibre (cassava always has a stringy central fibre - pull it out).
+1. Peel the cassava: cut into 6-8 cm chunks; with a sharp knife, remove the thick brown skin and the fibrous pink layer beneath. Cut each chunk in half lengthways and remove the woody centre fibre (cassava always has a stringy central fibre, pull it out).
 2. Cut the prepared cassava into 3 cm chunks.
 3. Place in a saucepan; cover with the stock; add the salt.
 4. Bring to a boil; reduce to simmer; cook 25-30 minutes till the cassava is completely tender (a knife slides through with no resistance).
@@ -98,7 +98,7 @@ Bobó de camarão is one of Bahia's most luxurious and most distinctly African-B
 5. Drink cold beer alongside.
 
 ## Notes
-- **Fresh cassava is traditional:** frozen cassava (defrosted) works perfectly well. Cassava flour does NOT work - it's not a substitute.
+- **Fresh cassava is traditional:** frozen cassava (defrosted) works perfectly well. Cassava flour does NOT work, it's not a substitute.
 - **Pull out the fibrous centre:** every cassava chunk has a woody central fibre. Remove it before cooking.
 - **Dendê oil is the dish:** without it, the bobó has no Bahian character. Don't substitute.
 - **Coconut milk full-fat:** light coconut milk gives a thin, watery bobó.
@@ -110,7 +110,7 @@ Bobó de camarão is one of Bahia's most luxurious and most distinctly African-B
 **Bobó de quiabo (okra bobó):** add 200 g sliced okra to the stew base (cook 5 minutes before adding cassava cream); add a slight viscous note.
 **Without dendê (lighter version):** skip the dendê; the result is paler and less Bahian. Acceptable substitute is olive oil + a teaspoon of paprika for colour.
 **Hot bobó:** add 1-2 chopped Brazilian malagueta chillies (or Scotch bonnets) for the spicy version.
-**Bobó with coconut cream on top:** drizzle a swirl of full-fat coconut cream over each bowl just before serving - restaurant presentation.
+**Bobó with coconut cream on top:** drizzle a swirl of full-fat coconut cream over each bowl just before serving, restaurant presentation.
 **Bobó de feijão verde (green-bean bobó variant):** add 200 g cooked green beans to the cream for texture.
 
 ## Serving

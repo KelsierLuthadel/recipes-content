@@ -53,7 +53,7 @@ A weeknight Jamaican side: shredded green or savoy cabbage with carrot, onion an
 ## Notes
 - **Scotch bonnet intact:** Leaving it whole gives perfume without scorching heat. If you pierce or chop it, the dish will fly into the very-spicy zone.
 - **Substitute:** Habanero is the closest swap; otherwise omit and add a pinch of cayenne separately so heat stays adjustable.
-- **Cabbage choice:** Standard hard white or green cabbage holds shape best. Savoy works but softens faster - reduce cooking by 2 minutes.
+- **Cabbage choice:** Standard hard white or green cabbage holds shape best. Savoy works but softens faster, reduce cooking by 2 minutes.
 
 ## Variations
 **With saltfish flakes:** Add 100 g cooked, flaked saltfish at the end for a fuller plate.
@@ -65,4 +65,4 @@ Serve with: Brown stew chicken, jerk pork, fried fish, oxtail and butter beans, 
 ## Storage
 - Keeps 2 days refrigerated.
 - Reheat gently in a covered pan with a splash of water.
-- Does not freeze well - cabbage loses its texture.
+- Does not freeze well, cabbage loses its texture.

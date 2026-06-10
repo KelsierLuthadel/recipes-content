@@ -73,7 +73,7 @@ The recipe that made Cajun cooking famous outside Louisiana. Paul Prudhomme inve
 - **Blackened pork loin:** trim a pork loin into 2 cm steaks, blacken the same way, finish in a 180°C oven for 5 minutes to bring the internal temperature up.
 
 ## Serving
-The classic NOLA service is on a plate with [Dirty Rice](../cajun/dirty-rice.md) and a hot-sauce-bright remoulade. The fillet can also go into a hot sandwich with crisp lettuce, sliced tomato and remoulade - effectively a blackened po'boy. Squeeze fresh lemon over everything; the citrus cuts the spice perfectly.
+The classic NOLA service is on a plate with [Dirty Rice](../cajun/dirty-rice.md) and a hot-sauce-bright remoulade. The fillet can also go into a hot sandwich with crisp lettuce, sliced tomato and remoulade, effectively a blackened po'boy. Squeeze fresh lemon over everything; the citrus cuts the spice perfectly.
 
 ## Storage
 - Best straight from the pan. The crust softens on resting; ten minutes is the outer limit.

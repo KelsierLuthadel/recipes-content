@@ -83,7 +83,7 @@ Nam khao is a Lao crispy-rice salad of remarkable textural complexity, sold at e
 1. In a very large mixing bowl, combine the shattered crispy rice, som moo (or sausage + lime), sliced shallots, spring onions and chillies.
 2. Pour the dressing over.
 3. Add the toasted coconut (if using) and most of the crushed peanuts (save some for garnish).
-4. Toss gently to coat - work fast; the crispy rice softens within 20 minutes.
+4. Toss gently to coat, work fast; the crispy rice softens within 20 minutes.
 5. Add the fresh mint, cilantro and culantro at the very end; toss once.
 
 ### Stage 7 - Plate
@@ -94,7 +94,7 @@ Nam khao is a Lao crispy-rice salad of remarkable textural complexity, sold at e
 
 ### Stage 8 - Serve immediately
 1. Each diner takes a lettuce leaf, spoons a generous portion of the salad onto it, adds extra herbs, folds and eats with the hands.
-2. Eat within 20 minutes - the crispy rice softens fast.
+2. Eat within 20 minutes, the crispy rice softens fast.
 
 ## Notes
 - **Shatter, don't crumb:** irregular chunks expose more interior; uniform crumbs go soggy faster.
@@ -108,7 +108,7 @@ Nam khao is a Lao crispy-rice salad of remarkable textural complexity, sold at e
 **Nam khao with chicken:** swap the som moo for shredded poached chicken + lime juice.
 **Modern Vientiane café version:** plate the salad on a single large lettuce leaf as an open-faced presentation.
 **Spicier nam khao:** double the fresh chillies + add 1 teaspoon chilli flakes.
-**With shredded green papaya:** add a small handful of julienned green papaya - the Northern Lao variant.
+**With shredded green papaya:** add a small handful of julienned green papaya, the Northern Lao variant.
 
 ## Serving
 At a Vientiane or Luang Prabang street stall (the traditional setting) · at a Lao home dinner · at a Lao Pi Mai (New Year) celebration · at a Lao temple festival · at home as a striking dinner-party starter · paired with sticky rice and a cold Beerlao.

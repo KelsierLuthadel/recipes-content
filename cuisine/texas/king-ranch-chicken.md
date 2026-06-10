@@ -86,7 +86,7 @@ King Ranch chicken casserole is one of Texas's most beloved home-cook casseroles
 ### Stage 4 - Rest and serve
 1. Let rest 10 minutes (the layers firm up).
 2. Scatter chopped coriander and spring onions.
-3. Serve with sides - Mexican rice, refried beans, pico, avocado, sour cream, hot sauce.
+3. Serve with sides, Mexican rice, refried beans, pico, avocado, sour cream, hot sauce.
 
 ## Notes
 - **Rotel traditional:** the Texan canned product.

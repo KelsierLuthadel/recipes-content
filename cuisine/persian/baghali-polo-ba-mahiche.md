@@ -35,7 +35,7 @@ Baghali polo ba mahiche is the Nowruz feast plate of a Persian kitchen: dill-and
 - 60 g unsalted butter
 - 1 large pinch saffron threads (soaked in 4 tablespoons hot water)
 - 250 g podded broad beans (fresh or frozen, defrosted)
-- 1 large bunch fresh dill (chopped fine - about 80 g)
+- 1 large bunch fresh dill (chopped fine, about 80 g)
 
 ## Method
 
@@ -60,12 +60,12 @@ Baghali polo ba mahiche is the Nowruz feast plate of a Persian kitchen: dill-and
 ### Stage 3 - Broad beans
 1. If using fresh: bring a pot of water to a boil; cook beans 3 minutes; drain.
 1. If frozen: defrost.
-1. Pop beans out of their thin skins (the inner bright-green bean is what you want) - fiddly but worth it.
+1. Pop beans out of their thin skins (the inner bright-green bean is what you want): fiddly but worth it.
 
 ### Stage 4 - Parboil rice
 1. Bring 3 litres water + 3 tablespoons salt to a boil.
 1. Drain soaked rice; add to the boiling water.
-1. Cook 5-6 minutes - outside cooked, centre still firm.
+1. Cook 5-6 minutes, outside cooked, centre still firm.
 1. Drain into a sieve; rinse briefly with lukewarm water.
 
 ### Stage 5 - Layer for steaming
@@ -81,7 +81,7 @@ Baghali polo ba mahiche is the Nowruz feast plate of a Persian kitchen: dill-and
 
 ### Stage 6 - Steam
 1. Wrap the lid in a tea towel; clamp on the pot.
-1. Cook over low heat 35-40 minutes - bottom forms tahdig, rice steams fluffy.
+1. Cook over low heat 35-40 minutes, bottom forms tahdig, rice steams fluffy.
 
 ### Stage 7 - Plate
 1. Spoon rice onto a wide platter, fluffing it gently.
@@ -93,7 +93,7 @@ Baghali polo ba mahiche is the Nowruz feast plate of a Persian kitchen: dill-and
 
 ## Notes
 - **Pop the bean skins:** Inner green bean only. The tough outer skin makes the dish chewy. Yes, it's tedious; yes, it matters.
-- **Dill in abundance:** Fresh, chopped fine, generous quantity. Dried dill is a poor substitute. The dish is named for the rice's herb, not the meat - get it right.
+- **Dill in abundance:** Fresh, chopped fine, generous quantity. Dried dill is a poor substitute. The dish is named for the rice's herb, not the meat, get it right.
 - **Cloth-wrapped lid:** Standard Persian rice technique; absorbs condensation and keeps the rice fluffy.
 
 ## Storage

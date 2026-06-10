@@ -36,7 +36,7 @@ The Burmese semolina cake that turns up at every holiday and family gathering, t
 
 ### Stage 1 - Toast the semolina
 1. Melt the butter and ghee in a wide heavy pan over medium heat.
-1. Add the semolina; cook 5-6 minutes, stirring constantly, until very lightly toasted and fragrant - don't take it brown.
+1. Add the semolina; cook 5-6 minutes, stirring constantly, until very lightly toasted and fragrant, don't take it brown.
 
 ### Stage 2 - Cook
 1. Heat the coconut milk and whole milk gently in a separate pan until just warm.
@@ -62,7 +62,7 @@ The Burmese semolina cake that turns up at every holiday and family gathering, t
 
 ### Stage 6 - Char the top
 1. Switch to grill (broiler) on medium-high.
-1. Grill 3-5 minutes, watching closely, until the top is deep mahogany - almost black in places. The slight bitterness against the sweet cake is the signature.
+1. Grill 3-5 minutes, watching closely, until the top is deep mahogany, almost black in places. The slight bitterness against the sweet cake is the signature.
 
 ### Stage 7 - Cool and slice
 1. Cool 30 minutes in the tin.

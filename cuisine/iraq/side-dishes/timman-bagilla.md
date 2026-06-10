@@ -18,7 +18,7 @@ Timman bagilla is the Iraqi broad-bean rice, basmati cooked with broad beans, fr
 - 400 g basmati rice
 - 1 large pinch saffron threads (bloomed in 2 tablespoons hot water)
 - 4 tablespoons unsalted butter (or samna)
-- 300 g frozen broad beans (no need to thaw - use double-podded for best texture)
+- 300 g frozen broad beans (no need to thaw, use double-podded for best texture)
 - 1 onion (small, finely chopped, optional)
 - 1 ½ teaspoons salt
 - 750 ml hot stock (or stock substitute)

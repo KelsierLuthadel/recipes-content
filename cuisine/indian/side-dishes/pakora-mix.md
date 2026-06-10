@@ -67,7 +67,7 @@ Mixed vegetable pakora is the rainy-day Indian snack, the dish that comes out of
 ## Notes
 - **Cold water batter:** Cold water keeps the gluten development minimal, gives crisp pakora. Warm water gives soft, bready ones.
 - **Don't crowd the oil:** Six to eight at a time. Crowding drops the temperature and the pakoras go greasy.
-- **Vegetable choice:** Almost anything works - onion alone is the most famous (kanda pakora); add or substitute aubergine, sweetcorn, chillies, paneer. The recipe is the technique, not the ingredient list.
+- **Vegetable choice:** Almost anything works, onion alone is the most famous (kanda pakora); add or substitute aubergine, sweetcorn, chillies, paneer. The recipe is the technique, not the ingredient list.
 
 ## Storage
 - Eat fresh. Cooked pakora keep 24 hours refrigerated; re-crisp at 200°C 4 minutes.

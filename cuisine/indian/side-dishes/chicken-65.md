@@ -20,7 +20,7 @@ Chicken 65 is the fiery South Indian fried-chicken bar snack from Hyderabad, the
 - 4 tablespoons natural yogurt
 - 2 tablespoons ginger-garlic paste
 - 2 tablespoons Kashmiri chilli powder
-- 1 teaspoon Kashmiri red food colour (optional - for the signature deep red)
+- 1 teaspoon Kashmiri red food colour (optional, for the signature deep red)
 - 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon salt
@@ -65,12 +65,12 @@ Chicken 65 is the fiery South Indian fried-chicken bar snack from Hyderabad, the
 ### Stage 4 - Tempering
 1. Lift out a wok or wide pan; heat 2 tablespoons of oil over medium-high heat.
 1. Add dried chillies and chopped garlic; sizzle 20 seconds until garlic just turns gold.
-1. Add green chillies and curry leaves (stand back - the curry leaves spit hard).
+1. Add green chillies and curry leaves (stand back, the curry leaves spit hard).
 1. Add soy sauce, vinegar, chilli powder and pepper; sizzle 5 seconds.
 
 ### Stage 5 - Toss
 1. Add the fried chicken to the wok; toss hard 30 seconds to coat in the tempering. The chicken should be glossy red.
-1. Remove from heat immediately - longer and the chicken goes soggy.
+1. Remove from heat immediately, longer and the chicken goes soggy.
 
 ### Stage 6 - Serve
 1. Tip onto a plate. Scatter sliced raw onion and coriander.
@@ -78,9 +78,9 @@ Chicken 65 is the fiery South Indian fried-chicken bar snack from Hyderabad, the
 
 ## Notes
 - **Double-fry:** Single-fried chicken 65 goes soggy in seconds when it hits the tempering. Two-stage frying gives the crisp shell that holds against the sauce.
-- **Food colour:** The signature blood-red colour comes from food colour. Skipping it is fine - the dish is still red from Kashmiri chilli, just less neon.
+- **Food colour:** The signature blood-red colour comes from food colour. Skipping it is fine, the dish is still red from Kashmiri chilli, just less neon.
 - **Toss fast, serve fast:** Don't let the chicken sit in the wet tempering. It's the wet-meets-crisp contrast that defines the dish.
 
 ## Storage
 - Best fresh, eaten immediately.
-- Refrigerate (cooked) 2 days; re-crisp at 200°C 8 minutes - it won't be the same.
+- Refrigerate (cooked) 2 days; re-crisp at 200°C 8 minutes, it won't be the same.

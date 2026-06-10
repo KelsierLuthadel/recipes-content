@@ -16,7 +16,7 @@ These are the little salt-cod fritters you'd order at a marble counter in Lisbon
 ## Ingredients
 
 ### Bacalhau prep
-- 400 g salt cod loin (or fillet, bacalhau - sold dried at Portuguese / Spanish / Iberian shops)
+- 400 g salt cod loin (or fillet, bacalhau, sold dried at Portuguese / Spanish / Iberian shops)
 - Cold water (for the 24-36 hour desalting soak)
 
 ### Cooking the cod
@@ -51,18 +51,18 @@ These are the little salt-cod fritters you'd order at a marble counter in Lisbon
 1. Place the salt cod in a deep bowl; cover with cold water.
 1. Refrigerate.
 1. Change the water every 6-8 hours (4-5 times total over 24-36 hours).
-1. After the final water change, taste a tiny piece - it should be lightly salty, not aggressively so. If too salty, continue with another water change.
+1. After the final water change, taste a tiny piece, it should be lightly salty, not aggressively so. If too salty, continue with another water change.
 
 ### Stage 2 - Cook the cod
 1. Drain the desalted cod.
 1. Place in a saucepan with fresh cold water to cover.
 1. Bring slowly to a low simmer (don't boil).
-1. Simmer 8-10 minutes - the cod should flake easily.
-1. Drain; cool 10 minutes; flake into a wide bowl with fingers, removing ALL bones and skin (be patient - bones in fritters are bad).
+1. Simmer 8-10 minutes, the cod should flake easily.
+1. Drain; cool 10 minutes; flake into a wide bowl with fingers, removing ALL bones and skin (be patient, bones in fritters are bad).
 
 ### Stage 3 - Potatoes
 1. Place potatoes (skins on) in a pot of cold salted water; bring to a boil; cook 25-30 minutes until tender.
-1. Drain; peel while warm; mash thoroughly with a potato masher or ricer. DRY mash - no butter, no milk.
+1. Drain; peel while warm; mash thoroughly with a potato masher or ricer. DRY mash, no butter, no milk.
 1. Let cool slightly.
 
 ### Stage 4 - Onion

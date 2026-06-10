@@ -63,7 +63,7 @@ Pastéis de nata are Portugal's answer to a cup of coffee, and you would never h
 ### Stage 5 - Fill and bake
 1. Pour the custard into the shells, filling ¾ full (about 2 tablespoons each).
 1. Bake on the highest rack 12-15 minutes until the custard tops are dark brown / blackened in spots and the pastry is deeply golden.
-1. The aggressive char on top is correct - it's what makes pastéis de nata taste like pastéis de nata.
+1. The aggressive char on top is correct, it's what makes pastéis de nata taste like pastéis de nata.
 
 ### Stage 6 - Cool briefly
 1. Cool 5 minutes in the tin.
@@ -75,7 +75,7 @@ Pastéis de nata are Portugal's answer to a cup of coffee, and you would never h
 1. Eat warm or at room temperature, ideally within a few hours.
 
 ## Notes
-- **Hot oven:** The custard needs to set fast and the pastry needs to puff before the cream weeps. 250°C minimum; 280-300°C if your oven goes higher. Many home ovens cap at 250°C - that works.
+- **Hot oven:** The custard needs to set fast and the pastry needs to puff before the cream weeps. 250°C minimum; 280-300°C if your oven goes higher. Many home ovens cap at 250°C, that works.
 - **Deep cups:** The traditional pastel mould is deep and slightly flared. Standard muffin tins work; small fluted brioche moulds are even better.
 - **Eat fresh:** The pastry shell's shatter is the dish. Pastéis de nata go limp by day 2; refrigerated they're sad. Best in the first 4 hours.
 

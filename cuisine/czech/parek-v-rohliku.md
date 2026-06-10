@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot dog and a Prague street-food fixture sold from kiosks and grocery-store counters throughout the country: instead of splitting a bun in half American-style, the Czech approach uses a long crusty bread roll (rohlík - the Czech-style crescent-shaped roll that has a slightly hardened crust and a pillowy interior) into which a long thin hole is punched through one end with a heated metal spike or specialised tool. Mustard and ketchup are squeezed deep into the cavity through the hole, then a warm boiled sausage (párek - a long mild pork-and-beef sausage) is slid into the cavity from the open end. The result: a sealed roll with the sausage and sauces entirely enclosed, no spillage, no soggy bun, hand-eaten with no need for utensils or napkins. The engineering is so practical that the dish has barely changed since the 1950s when the technique was popularised at the U Rozvařilů buffet on Prague's Wenceslas Square.
+The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot dog and a Prague street-food fixture sold from kiosks and grocery-store counters throughout the country: instead of splitting a bun in half American-style, the Czech approach uses a long crusty bread roll (rohlík, the Czech-style crescent-shaped roll that has a slightly hardened crust and a pillowy interior) into which a long thin hole is punched through one end with a heated metal spike or specialised tool. Mustard and ketchup are squeezed deep into the cavity through the hole, then a warm boiled sausage (párek, a long mild pork-and-beef sausage) is slid into the cavity from the open end. The result: a sealed roll with the sausage and sauces entirely enclosed, no spillage, no soggy bun, hand-eaten with no need for utensils or napkins. The engineering is so practical that the dish has barely changed since the 1950s when the technique was popularised at the U Rozvařilů buffet on Prague's Wenceslas Square.
 
 ## Ingredients
 
@@ -20,10 +20,10 @@ The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot
 - 1.5 litres water (for boiling)
 
 ### Rolls
-- 4 long crusty Czech rohlík rolls (about 15-18cm long, slightly tapered at the ends; or substitute with French baguette sections, or Italian hoagie rolls - anything with a sturdy crust and pillowy interior)
+- 4 long crusty Czech rohlík rolls (about 15-18cm long, slightly tapered at the ends; or substitute with French baguette sections, or Italian hoagie rolls, anything with a sturdy crust and pillowy interior)
 
 ### Sauces (inside the roll)
-- 6 tablespoons spicy brown mustard or Czech mustard (Czech mustard is similar to German Düsseldorf - sharp, vinegar-tangy)
+- 6 tablespoons spicy brown mustard or Czech mustard (Czech mustard is similar to German Düsseldorf, sharp, vinegar-tangy)
 - 6 tablespoons tomato ketchup
 - Optional: 2 tablespoons mayonnaise
 
@@ -32,7 +32,7 @@ The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot
 
 ### To serve
 - A cold Czech beer (Pilsner Urquell, Budvar)
-- A pickled gherkin (utopenec - the Czech pickled-sausage-and-onion side dish)
+- A pickled gherkin (utopenec, the Czech pickled-sausage-and-onion side dish)
 
 ## Method
 
@@ -44,8 +44,8 @@ The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot
 ### Stage 2 - Prep the rolls
 1. The classic Czech approach uses a metal spike heated over flame to punch a tunnel through one end of the roll, char-toasting the inside of the cavity as it goes.
 2. Home method: take each rohlík roll. With a long thin sharp knife, push the knife into one end (the more pointed/tapered end if there is one) and rotate carefully to bore a tunnel about 10cm deep through the centre of the roll without breaking the outer crust.
-3. Wiggle the knife to widen the tunnel slightly - the cavity should be wide enough to fit the sausage.
-4. (Optional, for the proper toasted-cavity flavour: insert the knife into the cavity briefly to a hot grill or open flame, then withdraw - this lightly toasts the inside.)
+3. Wiggle the knife to widen the tunnel slightly, the cavity should be wide enough to fit the sausage.
+4. (Optional, for the proper toasted-cavity flavour: insert the knife into the cavity briefly to a hot grill or open flame, then withdraw, this lightly toasts the inside.)
 
 ### Stage 3 - Squeeze in sauces
 1. Using a squeeze bottle, dispense a generous stripe of mustard deep into the cavity of the roll.
@@ -76,7 +76,7 @@ The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot
 **With grated cheese:** sprinkle grated cheese on the sausage before sliding it in (the heat melts it slightly).
 **With sauerkraut:** add a small spoonful of sauerkraut into the cavity before the sausage.
 **Spicy:** swap the Czech mustard for spicy English-mustard or add chili pepper relish.
-**Klobása v rohlíku:** swap the párek for a Czech klobása (a thicker garlicky smoked sausage) - same technique.
+**Klobása v rohlíku:** swap the párek for a Czech klobása (a thicker garlicky smoked sausage): same technique.
 
 ## Serving
 At a Wenceslas Square kiosk in Prague; at a Czech grocery-store deli counter; at home with a cold pilsner.

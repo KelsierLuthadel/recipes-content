@@ -2,7 +2,7 @@
 
 ![Mutabbal](resources/mutabbal.jpg)
 
-*Smoky aubergine dip, similar to baba ganoush but richer - yogurt joins the tahini, giving a creamier, slightly tart finish. The aubergines must char over flame for the proper smoky depth. Eats with warm flatbread, alongside meze, or smeared under grilled lamb.*
+*Smoky aubergine dip, similar to baba ganoush but richer, yogurt joins the tahini, giving a creamier, slightly tart finish. The aubergines must char over flame for the proper smoky depth. Eats with warm flatbread, alongside meze, or smeared under grilled lamb.*
 
 **Serves:** 4-6 as a side or starter
 
@@ -36,12 +36,12 @@ The richer Levantine cousin of baba ganoush: aubergines charred until the skins 
 ### Stage 1 - Char
 1. Place the aubergines whole directly on a gas flame; turn every couple of minutes.
 1. Char 10-15 minutes until the skins are blackened all over and the aubergines feel completely soft and collapsed.
-1. Or roast at 220°C for 40-45 minutes - less smoky but workable.
+1. Or roast at 220°C for 40-45 minutes, less smoky but workable.
 1. Cool slightly until handleable.
 
 ### Stage 2 - Drain
 1. Peel off the blackened skins; discard.
-1. Place the flesh in a colander; weight with a plate; rest 15 minutes - this drains excess water that would make the dip soggy.
+1. Place the flesh in a colander; weight with a plate; rest 15 minutes, this drains excess water that would make the dip soggy.
 
 ### Stage 3 - Combine
 1. Chop the drained flesh roughly with a knife (not a blender).
@@ -51,7 +51,7 @@ The richer Levantine cousin of baba ganoush: aubergines charred until the skins 
 
 ### Stage 4 - Serve
 1. Spread on a flat plate; create a swirl with the back of a spoon.
-1. Drizzle generously with olive oil - the oil pool should sit in the swirl.
+1. Drizzle generously with olive oil, the oil pool should sit in the swirl.
 1. Top with pomegranate seeds, parsley and sumac.
 1. Serve with warm flatbread.
 

@@ -55,7 +55,7 @@ Ensaladang talong is the Filipino smoky aubergine salad, a Sunday-lunch staple t
 ## Notes
 - **Long Asian aubergines, not globe:** the small Asian varieties have more flesh per skin and char more evenly. Globe aubergines turn watery and the skin doesn't blister cleanly.
 - **Char fully or fail:** under-cooked eggplant is spongy and refuses to take the dressing. The skin should be completely blackened and the flesh feel completely yielding.
-- **Don't pulp:** ensaladang talong keeps the eggplant in strips - tear it, don't mash.
+- **Don't pulp:** ensaladang talong keeps the eggplant in strips, tear it, don't mash.
 
 ## Storage
 - Best within 2 hours of dressing.

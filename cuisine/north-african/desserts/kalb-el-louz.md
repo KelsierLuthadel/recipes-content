@@ -44,13 +44,13 @@ Algeria's almond-and-semolina cake, the Ramadan institution that sits on every i
 1. To the rested semolina, add the sugar, ground almonds, baking powder and salt.
 1. Whisk the eggs and orange-flower water in a jug.
 1. Stir into the dry mixture.
-1. Add warm milk a tablespoon at a time until you have a thick, slightly damp dough (not pourable, not crumbly - somewhere between).
+1. Add warm milk a tablespoon at a time until you have a thick, slightly damp dough (not pourable, not crumbly, somewhere between).
 
 ### Stage 3 - Assemble
 1. Heat the oven to 180°C (160°C fan).
 1. Butter a 30 × 22 cm baking tin.
 1. Press the mixture evenly into the tin, smoothing the top with a spatula.
-1. With a sharp knife, score the surface into diamonds (parallel diagonal lines 4 cm apart, then crossing diagonals 4 cm apart) - score about halfway down, not all the way through.
+1. With a sharp knife, score the surface into diamonds (parallel diagonal lines 4 cm apart, then crossing diagonals 4 cm apart): score about halfway down, not all the way through.
 1. Press a whole almond into the centre of each diamond.
 
 ### Stage 4 - Bake
@@ -79,10 +79,10 @@ Algeria's almond-and-semolina cake, the Ramadan institution that sits on every i
 - **Semolina rest is essential:** the hour after mixing butter into semolina hydrates the granules and gives kalb el-louz its characteristic dense-yielding crumb. Skip and the cake is gritty.
 - **Score before baking, cut through after:** scoring sets the pattern and lets the syrup penetrate through the cuts. Don't cut all the way until after the syrup soak.
 - **Warm syrup, hot cake:** the temperature gap is the secret to deep absorption. Cold syrup on cold cake sits on the surface.
-- **Rest overnight if possible:** day 2 kalb el-louz is the peak - moist, fragrant, fully syruped. Day 1 is good but slightly drier.
+- **Rest overnight if possible:** day 2 kalb el-louz is the peak, moist, fragrant, fully syruped. Day 1 is good but slightly drier.
 
 ## Storage
 - Keeps 5 days at cool room temperature in a sealed tin.
 - The texture improves on day 2-3 as the syrup fully distributes.
 - Freezes 2 months pre-cut between parchment; thaw at room temperature 2 hours.
-- Don't refrigerate - the texture goes hard and chalky.
+- Don't refrigerate, the texture goes hard and chalky.

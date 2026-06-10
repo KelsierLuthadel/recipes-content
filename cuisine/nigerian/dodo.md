@@ -32,7 +32,7 @@ Nigeria's everyday side, the dish that lands beside jollof, beans, eggs, fried f
 
 ### Stage 3 - Fry
 1. Lay the plantain slices flat in a single layer; don't crowd.
-1. Fry 2-3 minutes per side until deep mahogany - almost burnt-looking - and the edges have crispy caramelised patches.
+1. Fry 2-3 minutes per side until deep mahogany, almost burnt-looking, and the edges have crispy caramelised patches.
 1. Lower the heat slightly if they brown too fast (the inside needs to soften before the outside burns).
 1. Lift onto kitchen paper to drain briefly; salt while hot.
 

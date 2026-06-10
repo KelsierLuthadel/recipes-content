@@ -44,7 +44,7 @@ The Maghreb's iftar sweet and a Ramadan staple from Algiers to Tunis: a thin yea
 ### Stage 1 - Batter (start 6 hours ahead)
 1. In a wide bowl, combine flour, semolina, yeast, sugar and salt.
 1. Whisk in the yogurt, saffron infusion and warm water.
-1. The batter should be thick-pourable - like a thin pancake batter.
+1. The batter should be thick-pourable, like a thin pancake batter.
 1. Cover; rest at warm room temperature 6 hours (overnight is fine).
 1. The surface should be bubbly and the batter slightly tangy.
 
@@ -59,7 +59,7 @@ The Maghreb's iftar sweet and a Ramadan staple from Algiers to Tunis: a thin yea
 
 ### Stage 4 - Pipe and fry
 1. Transfer the fermented batter to a squeeze bottle or piping bag with a small nozzle.
-1. Hovering 10 cm above the oil, pipe directly into the oil in spirals, loops, or pretzel shapes - about 8 cm across.
+1. Hovering 10 cm above the oil, pipe directly into the oil in spirals, loops, or pretzel shapes, about 8 cm across.
 1. Pipe 3-4 zlabia at a time (don't crowd).
 1. Fry 1 ½-2 minutes till deep amber and crisp.
 
@@ -73,7 +73,7 @@ The Maghreb's iftar sweet and a Ramadan staple from Algiers to Tunis: a thin yea
 1. Replenish oil between batches if it cools below 170°C.
 
 ### Stage 7 - Serve
-1. Eat slightly warm - the crisp-meets-syrup contrast is at its best within an hour of finishing.
+1. Eat slightly warm, the crisp-meets-syrup contrast is at its best within an hour of finishing.
 
 ## Notes
 - **Ferment the batter overnight:** the slight tang from yeast fermentation is what distinguishes zlabia from a plain fried-dough sweet. 6 hours is the minimum; overnight at cool room temperature is ideal.
@@ -84,4 +84,4 @@ The Maghreb's iftar sweet and a Ramadan staple from Algiers to Tunis: a thin yea
 ## Storage
 - Best within 1 hour of finishing.
 - Keep 24 hours at cool room temperature in a sealed tin (texture softens but flavour holds).
-- Don't refrigerate - the syrup crystallises.
+- Don't refrigerate, the syrup crystallises.

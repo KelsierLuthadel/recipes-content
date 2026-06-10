@@ -27,7 +27,7 @@ Cheonan's walnut-shaped cake, the kind of small-bite sweet you'll find boxed and
 
 ### Filling
 - 300 g sweet red bean paste (pat, Korean koshi-an or Japanese tsubu-an; sold ready)
-- 12 walnut halves (good quality - they're a visible feature)
+- 12 walnut halves (good quality, they're a visible feature)
 
 ### To finish
 - 1 tablespoon icing sugar (optional, for dusting)
@@ -65,7 +65,7 @@ Cheonan's walnut-shaped cake, the kind of small-bite sweet you'll find boxed and
 1. Dust with icing sugar if desired.
 
 ## Notes
-- **Walnut-shaped iron pan is traditional:** sold at Korean specialty stores. A 12-cup mini-muffin tin is a workable substitute - the cakes are smaller but the technique is identical.
+- **Walnut-shaped iron pan is traditional:** sold at Korean specialty stores. A 12-cup mini-muffin tin is a workable substitute, the cakes are smaller but the technique is identical.
 - **Don't overmix the batter:** stop folding the moment the flour disappears. Overmixed batter gives tough heavy cakes.
 - **Walnut quality matters:** the whole walnut is visible at the centre of every cake. Rancid walnuts ruin the dessert.
 - **Sweet red bean paste sold ready:** Korean and Japanese grocers stock pat (Korean) or anko/tsubu-an (Japanese). Make from scratch only if you can't source it.

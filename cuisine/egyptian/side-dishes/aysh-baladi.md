@@ -2,7 +2,7 @@
 
 ![Aysh Baladi](resources/aysh-baladi.jpg)
 
-*The Egyptian everyday bread: a wholemeal pita-style flatbread baked at extreme heat so it puffs into a hollow round, then deflates into a perfect pocket. Eat with every meal - torn for scooping ful, kofta or tahina; cut into halves stuffed with falafel or eggs. "Aysh" means "life"; the name says it.*
+*The Egyptian everyday bread: a wholemeal pita-style flatbread baked at extreme heat so it puffs into a hollow round, then deflates into a perfect pocket. Eat with every meal, torn for scooping ful, kofta or tahina; cut into halves stuffed with falafel or eggs. "Aysh" means "life"; the name says it.*
 
 **Serves:** 4 (makes 6 breads)
 
@@ -43,12 +43,12 @@ Aysh baladi is the bread Egyptians eat with every meal, a wholemeal flat round t
 
 ### Stage 4 - Bake
 1. Slide one bread onto the hot stone using a peel or back of a tray (sprinkle with cornmeal or flour first to prevent sticking).
-1. Bake 3-4 minutes - the bread should puff dramatically into a balloon.
+1. Bake 3-4 minutes, the bread should puff dramatically into a balloon.
 1. If your oven has a grill, briefly hit the top under the grill to colour.
 1. Lift off; the bread deflates as it cools, leaving a pocket.
 
 ### Stage 5 - Stack
-1. Stack baked breads under a clean tea towel - keeps them soft.
+1. Stack baked breads under a clean tea towel, keeps them soft.
 
 ### Stage 6 - Serve
 1. Eat warm. Tear for scooping or split open and fill with falafel, egg or salata baladi.

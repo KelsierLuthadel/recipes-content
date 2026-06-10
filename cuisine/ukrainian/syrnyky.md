@@ -36,7 +36,7 @@ Syrnyky are the small thick cheese pancakes of Ukrainian breakfasts and dessert 
 ## Method
 
 ### Stage 1 - Drain the cheese (if needed)
-1. If your cottage cheese or ricotta is wet, drain it through a fine sieve lined with muslin for 30 minutes - pressing gently. Wet cheese gives soggy syrnyky.
+1. If your cottage cheese or ricotta is wet, drain it through a fine sieve lined with muslin for 30 minutes, pressing gently. Wet cheese gives soggy syrnyky.
 
 ### Stage 2 - Batter
 1. Mash the cheese with a fork in a bowl until mostly smooth (a few small lumps are fine).
@@ -50,7 +50,7 @@ Syrnyky are the small thick cheese pancakes of Ukrainian breakfasts and dessert 
 ### Stage 4 - Fry
 1. Heat half the butter and oil in a wide pan over medium-low heat.
 1. Lay the syrnyky in carefully; don't crowd.
-1. Cook 3-4 minutes per side until each is deep golden and the inside is set (push gently - should feel firm but not hard).
+1. Cook 3-4 minutes per side until each is deep golden and the inside is set (push gently, should feel firm but not hard).
 1. Lift onto a plate; cover loosely with foil to keep warm.
 1. Cook in batches, adding more butter and oil.
 

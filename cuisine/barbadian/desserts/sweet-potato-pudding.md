@@ -103,11 +103,11 @@ Bajan sweet potato pudding is the orange-fleshed Caribbean cousin of cassava pon
 - **Improves with a day's rest:** the flavours marry overnight; the spices deepen.
 
 ## Variations
-**Pudding without rum:** for children or non-drinkers - skip the rum; the dish is still excellent.
-**Pudding with extra ginger (warming variant):** double the ground ginger and add 2 tablespoons of finely grated fresh ginger - the spicier variant.
-**Pudding with coconut crust:** scatter 80 g additional grated coconut over the top before baking - the modern variant with extra coconut flavour.
-**Chocolate sweet potato pudding:** add 100 g cocoa powder to the dry mix; reduce the spice slightly - the modern Bajan variant.
-**Banana sweet potato pudding:** swap 200 g of the sweet potato for 2 mashed ripe bananas - the modern fruit variant.
+**Pudding without rum:** for children or non-drinkers, skip the rum; the dish is still excellent.
+**Pudding with extra ginger (warming variant):** double the ground ginger and add 2 tablespoons of finely grated fresh ginger, the spicier variant.
+**Pudding with coconut crust:** scatter 80 g additional grated coconut over the top before baking, the modern variant with extra coconut flavour.
+**Chocolate sweet potato pudding:** add 100 g cocoa powder to the dry mix; reduce the spice slightly, the modern Bajan variant.
+**Banana sweet potato pudding:** swap 200 g of the sweet potato for 2 mashed ripe bananas, the modern fruit variant.
 **Vegan sweet potato pudding:** swap eggs for 6 tablespoons aquafaba + 3 tablespoons milled flax + 3 tablespoons water; butter for coconut oil; otherwise the recipe is essentially vegan.
 **Mini sweet potato puddings (individual):** divide the batter into 12 ramekins; bake 35-40 minutes.
 

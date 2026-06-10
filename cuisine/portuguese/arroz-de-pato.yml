@@ -20,8 +20,8 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: duck - or 4 large duck legs
-    raw: 1 whole duck - OR 4 large duck legs
+    name: "duck : or 4 large duck legs"
+    raw: "1 whole duck : OR 4 large duck legs"
   - qty: 1
     name: onion
     raw: 1 onion

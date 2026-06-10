@@ -39,11 +39,11 @@ Melitzanosalata is the Greek smoky aubergine dip, the Mediterranean cousin of ba
 ### Stage 2 - Drain
 1. Slice off the tops; halve lengthways; scoop the flesh into a sieve set over a bowl.
 1. Press lightly with the back of a wooden spoon to release excess liquid.
-1. Drain 15 minutes (this is non-negotiable - wet aubergine makes a watery dip).
+1. Drain 15 minutes (this is non-negotiable, wet aubergine makes a watery dip).
 
 ### Stage 3 - Chop
 1. Tip the drained flesh onto a chopping board.
-1. Chop roughly with a chef's knife - keep some texture, don't reduce to mush.
+1. Chop roughly with a chef's knife, keep some texture, don't reduce to mush.
 1. Transfer to a bowl.
 
 ### Stage 4 - Mix

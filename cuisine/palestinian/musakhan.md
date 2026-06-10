@@ -48,8 +48,8 @@ Musakhan is the dish Palestinians eat from one big platter at the centre of the 
 ### Stage 2 - Cook the onions
 1. Heat the 150 ml olive oil in a wide heavy pan over medium-low heat.
 1. Add the sliced onions and the salt.
-1. Cook 25-30 minutes, stirring occasionally, until completely soft, sweet and just turning golden - not browned.
-1. Stir in the sumac; cook 2 minutes more - the onions will go deep red-purple.
+1. Cook 25-30 minutes, stirring occasionally, until completely soft, sweet and just turning golden, not browned.
+1. Stir in the sumac; cook 2 minutes more, the onions will go deep red-purple.
 1. Set aside.
 
 ### Stage 3 - Roast the chicken

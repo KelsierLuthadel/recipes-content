@@ -15,7 +15,7 @@ The Burmese golden rice, the everyday turmeric-stained rice that turns up alongs
 
 ## Ingredients
 
-- 400 g long-grain rice (jasmine or basmati - rinsed thoroughly)
+- 400 g long-grain rice (jasmine or basmati, rinsed thoroughly)
 - 3 tablespoons vegetable oil
 - 1 onion (small, very finely chopped)
 - 1 ½ teaspoons ground turmeric
@@ -49,7 +49,7 @@ The Burmese golden rice, the everyday turmeric-stained rice that turns up alongs
 1. Eat alongside any Burmese curry.
 
 ## Notes
-- **Turmeric staining:** Mind your hands and your wooden spoon - turmeric stains permanently.
+- **Turmeric staining:** Mind your hands and your wooden spoon, turmeric stains permanently.
 - **Don't lift the lid:** Steam does the cooking. Lifting it bleeds it away.
 - **Cashews:** A Burmese-Indian crossover touch; not in every household but lovely with stronger curries.
 

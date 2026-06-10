@@ -29,7 +29,7 @@ The Kir is the aperitif of Burgundy: a teaspoon of crème de cassis (blackcurran
 1. Don't stir; the cassis sits at the bottom and diffuses gradually as you sip.
 
 ## Notes
-- **Cassis-to-wine ratio.** The classic French ratio is roughly 1:9 (cassis to wine); some prefer slightly sweeter at 1:7. Avoid going above 1:5 - too much cassis dominates.
+- **Cassis-to-wine ratio.** The classic French ratio is roughly 1:9 (cassis to wine); some prefer slightly sweeter at 1:7. Avoid going above 1:5, too much cassis dominates.
 - **Dry wine, not sweet.** Sweet wine + cassis = cloying. The cassis IS the sweetness; the wine should be properly dry.
 - **Cold matters.** Both the wine and the glass should be chilled. A warm Kir is a sad Kir.
 

@@ -17,7 +17,7 @@ Soup joumou is the Haitian soup of independence, a slow-cooked beef-and-pumpkin 
 
 ### Beef and marinade
 - 1 kg beef shank (or stewing beef, cut into 4 cm cubes)
-- 4 tablespoons épis (Haitian green seasoning - see griot recipe Notes)
+- 4 tablespoons épis (Haitian green seasoning, see griot recipe Notes)
 - 2 limes (juice)
 - 1 orange (juice)
 - 4 garlic cloves (crushed)
@@ -64,7 +64,7 @@ Soup joumou is the Haitian soup of independence, a slow-cooked beef-and-pumpkin 
 
 ### Stage 2 - Cook the pumpkin
 1. Cut the pumpkin into wedges; scrape out the seeds and stringy flesh.
-1. Cut into 5 cm chunks (skin on is fine - it slips off after boiling).
+1. Cut into 5 cm chunks (skin on is fine, it slips off after boiling).
 1. Place in a large pot; cover with water; bring to the boil.
 1. Boil 20-25 minutes until the flesh is very soft.
 1. Drain, reserving 500 ml of the cooking water. Cool slightly, then peel away the skin (it lifts off easily).
@@ -97,10 +97,10 @@ Soup joumou is the Haitian soup of independence, a slow-cooked beef-and-pumpkin 
 1. Ladle into deep bowls; pass around with crusty bread and lime wedges.
 
 ## Notes
-- **Calabaza is the right pumpkin:** giraumon in Haitian Creole, calabaza in Spanish-speaking Caribbean, West Indian pumpkin in English. It is denser, drier and sweeter than the Halloween-style pumpkin. Kabocha or Japanese pumpkin is the closest supermarket substitute. Butternut squash works but is a touch sweet and watery - if using, reduce the soup more at the end. Avoid orange field pumpkin (jack-o'-lantern types); too watery and bland.
+- **Calabaza is the right pumpkin:** giraumon in Haitian Creole, calabaza in Spanish-speaking Caribbean, West Indian pumpkin in English. It is denser, drier and sweeter than the Halloween-style pumpkin. Kabocha or Japanese pumpkin is the closest supermarket substitute. Butternut squash works but is a touch sweet and watery, if using, reduce the soup more at the end. Avoid orange field pumpkin (jack-o'-lantern types); too watery and bland.
 - **The pumpkin is puréed, not chunky:** in some Caribbean pumpkin soups the pumpkin is left in chunks. Soup joumou is always smooth in its pumpkin base, with the other vegetables suspended in it.
 - **Vermicelli, not rice:** the pasta is essential. Some families prefer macaroni, others spaghetti broken into pieces; vermicelli is the most common. Rice in the pot turns the soup gluey; serve rice on the side if you want it.
-- **Pierced Scotch bonnet:** the whole pepper on top of the soup infuses gentle heat. Do not let it burst into the broth - the soup will become inedibly hot. Pierce a couple of small holes and lift it out before serving.
+- **Pierced Scotch bonnet:** the whole pepper on top of the soup infuses gentle heat. Do not let it burst into the broth, the soup will become inedibly hot. Pierce a couple of small holes and lift it out before serving.
 - **The political context matters:** soup joumou is more than a recipe; it is the dish that marks Haitian independence. On January 1st it is shared between neighbours, sent to friends, given to strangers. The cooking is the celebration.
 
 ## Variations
@@ -112,5 +112,5 @@ Serve with: crusty bread (Haitian pan creole or French baguette), lime wedges, a
 
 ## Storage
 - Keeps 4 days refrigerated; the flavour deepens overnight and day 2 is genuinely better than day 1.
-- Freezes 3 months; the pasta will soften on thawing - if planning to freeze, leave the pasta out and add fresh vermicelli when reheating.
+- Freezes 3 months; the pasta will soften on thawing, if planning to freeze, leave the pasta out and add fresh vermicelli when reheating.
 - Reheat gently on the hob, never microwaved on full power (the pumpkin separates).

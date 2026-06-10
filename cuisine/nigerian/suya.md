@@ -16,14 +16,14 @@ Nigeria's open-fire street skewer and the Hausa contribution to the national sna
 ## Ingredients
 
 ### Beef
-- 800 g beef sirloin (or rump, well-marbled, NOT lean - this is the dish)
+- 800 g beef sirloin (or rump, well-marbled, NOT lean, this is the dish)
 - 2 tablespoons sunflower oil
 - 1 teaspoon salt
 
 ### Yaji (suya spice)
 - 100 g dry-roasted unsalted peanuts (kuli-kuli, the Nigerian groundnut cake, is also commonly used)
 - 2 tablespoons ground ginger
-- 2 tablespoons cayenne pepper (or hot chilli powder, adjust for heat - full whack is traditional)
+- 2 tablespoons cayenne pepper (or hot chilli powder, adjust for heat, full whack is traditional)
 - 1 tablespoon sweet paprika
 - 1 tablespoon garlic powder
 - 1 tablespoon onion powder
@@ -48,17 +48,17 @@ Nigeria's open-fire street skewer and the Hausa contribution to the national sna
 
 ### Stage 2 - Yaji
 1. In a dry pan, toast the peanuts (if not already roasted) 4 minutes over medium heat until golden. Cool.
-1. Place the peanuts on a paper towel and crush gently - you want to remove most of the oils.
-1. Tip into a spice grinder (or mortar). Grind to a coarse powder - NOT a paste. If the peanuts release oil, blot the powder on paper towel between pulses.
+1. Place the peanuts on a paper towel and crush gently, you want to remove most of the oils.
+1. Tip into a spice grinder (or mortar). Grind to a coarse powder, NOT a paste. If the peanuts release oil, blot the powder on paper towel between pulses.
 1. Mix the ground peanut with ginger, cayenne, paprika, garlic powder, onion powder, cloves, salt and crumbled stock cube.
-1. Split into two halves - one for the marinade, one for finishing.
+1. Split into two halves, one for the marinade, one for finishing.
 
 ### Stage 3 - Marinate
 1. In a wide bowl, toss the beef strips with half the yaji, sunflower oil and 1 teaspoon salt.
 1. Mix thoroughly with your hands; let sit 1 hour at room temperature (or up to 4 hours refrigerated).
 
 ### Stage 4 - Skewer
-1. Thread the beef strips onto the soaked skewers in a tight accordion fold - pierce, fold, pierce, fold - so each skewer holds about 3 strips packed close.
+1. Thread the beef strips onto the soaked skewers in a tight accordion fold, pierce, fold, pierce, fold, so each skewer holds about 3 strips packed close.
 
 ### Stage 5 - Cook
 1. **Best:** Grill over very hot charcoal embers 4-5 minutes per side until heavily charred at the edges.
@@ -67,7 +67,7 @@ Nigeria's open-fire street skewer and the Hausa contribution to the national sna
 1. The beef should be cooked through, the spice crust deeply charred.
 
 ### Stage 6 - Finish
-1. While still hot, roll each skewer in the reserved dry yaji - it should coat the beef in a fresh layer of spice.
+1. While still hot, roll each skewer in the reserved dry yaji, it should coat the beef in a fresh layer of spice.
 
 ### Stage 7 - Serve
 1. Pile the skewers on a wooden board.
@@ -82,4 +82,4 @@ Nigeria's open-fire street skewer and the Hausa contribution to the national sna
 
 ## Storage
 - Best within 30 minutes of cooking; suya does not keep well.
-- Reserved yaji powder keeps 3 months in a sealed jar - make a double batch.
+- Reserved yaji powder keeps 3 months in a sealed jar, make a double batch.

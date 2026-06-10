@@ -2,7 +2,7 @@
 
 ![Caldillo de Congrio](resources/caldillo-de-congrio.jpg)
 
-*Chile's "conger eel soup": Pablo Neruda's famous Ode-to-fish broth - thick slices of firm white fish (originally conger eel; substituted with cod or hake outside Chile) slow-simmered in a base of onion, garlic, tomato, white wine and a generous handful of fresh coriander into a thick savoury fish soup. The Chilean coastal classic immortalised in a poem by the country's Nobel laureate.*
+*Chile's "conger eel soup": Pablo Neruda's famous Ode-to-fish broth, thick slices of firm white fish (originally conger eel; substituted with cod or hake outside Chile) slow-simmered in a base of onion, garlic, tomato, white wine and a generous handful of fresh coriander into a thick savoury fish soup. The Chilean coastal classic immortalised in a poem by the country's Nobel laureate.*
 
 **Serves:** 4
 
@@ -107,7 +107,7 @@ Caldillo de congrio is one of Chile's most iconic fish soups, famously immortali
 **Spicier:** add 1 chopped fresh chilli to the base; common southern Chilean variation.
 
 ## Serving
-In deep bowls. Marraqueta or crusty bread for sopping. Glass of cold Chilean sauvignon blanc (the traditional wine pairing - Neruda himself drank Chilean white wine with this soup). Pebre and lemon on the table.
+In deep bowls. Marraqueta or crusty bread for sopping. Glass of cold Chilean sauvignon blanc (the traditional wine pairing, Neruda himself drank Chilean white wine with this soup). Pebre and lemon on the table.
 
 ## Storage
 - Best eaten fresh; the fish doesn't reheat well.

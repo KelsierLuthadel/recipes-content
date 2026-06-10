@@ -45,11 +45,11 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 1. Drain on paper towels.
 
 ### Stage 3 - Curry sauce
-1. Pour the water into the bowl that held the seasoned fish - the residual marinade flavours the sauce.
+1. Pour the water into the bowl that held the seasoned fish, the residual marinade flavours the sauce.
 1. Heat the 1 ½ tablespoons of oil in a wide saucepan over medium heat.
 1. Add the onion, garlic and whole pierced Scotch bonnet. Cook 1 minute until fragrant.
 1. Reduce heat to low.
-1. Add the roasted geera, anchar masala, remaining black pepper and curry powder. Stir 4 minutes - the spices should darken and release their oils.
+1. Add the roasted geera, anchar masala, remaining black pepper and curry powder. Stir 4 minutes, the spices should darken and release their oils.
 1. Pour in the seasoned water; increase to medium-high.
 1. Reduce by about 25% until the sauce deepens in colour.
 
@@ -65,11 +65,11 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 1. Serve with coconut rice or sada roti.
 
 ## Notes
-- **Roasted geera is the heart:** the dry-toasted cumin gives the dish its deep nutty character. Pre-ground supermarket cumin is a poor substitute - roast whole seeds dry and grind.
+- **Roasted geera is the heart:** the dry-toasted cumin gives the dish its deep nutty character. Pre-ground supermarket cumin is a poor substitute, roast whole seeds dry and grind.
 - **Anchar masala specifically:** a Trinidadian spice mix for pickled mangoes; gives a tangy, fermented edge to the curry. Garam masala is the closest substitute.
 - **Fry first, then curry:** the pre-frying lets the fish hold shape through the curry simmer. Skip it and the fish disintegrates.
 
 ## Storage
 - Best eaten fresh.
 - Keeps 2 days refrigerated; the fish softens but flavour deepens.
-- Don't freeze - the fish texture suffers.
+- Don't freeze, the fish texture suffers.

@@ -108,7 +108,7 @@ Mole verde (sometimes called pipián verde for the toasted pumpkin seeds at its 
 ## Variations
 **Pork mole verde (pipián de cerdo):** swap chicken for pork shoulder cubed; cook 60 minutes for tenderness.
 **Vegetarian mole verde (vegetables in pipián):** skip the chicken; use vegetable stock; add cubed vegetables (chayote, zucchini, mushrooms) cooked separately and combined with sauce.
-**Mole pipián rojo:** swap green vegetables for red - red tomatoes, ancho chillies, dried red chillies - gives a related red pipián.
+**Mole pipián rojo:** swap green vegetables for red, red tomatoes, ancho chillies, dried red chillies, gives a related red pipián.
 **Without cream:** the cream is optional; vegan-friendly without.
 
 ## Serving

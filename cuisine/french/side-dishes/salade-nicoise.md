@@ -22,14 +22,14 @@ Salade niçoise is the classic Provençal salad named for the city of Nice, a co
 - 2 teaspoons salt (for blanching)
 
 ### Tomatoes
-- 4 ripe medium tomatoes (best you can find - mixed colours and sizes are good)
+- 4 ripe medium tomatoes (best you can find, mixed colours and sizes are good)
 
 ### Tuna and anchovies
 - 1 (200 g) tin of best-quality tuna in olive oil (Spanish ventresca or Italian if available; not water-packed)
 - 6 anchovy fillets in olive oil (drained)
 
 ### Olives and other
-- 80 g Niçoise olives (the small, dark, Provençal variety - or substitute Kalamata)
+- 80 g Niçoise olives (the small, dark, Provençal variety, or substitute Kalamata)
 - 1 red onion (small, sliced very thin, optional, NOT traditional Niçoise)
 - 1 green pepper (small, sliced thin, optional, traditional in some Provençal versions)
 
@@ -88,7 +88,7 @@ Salade niçoise is the classic Provençal salad named for the city of Nice, a co
 1. Each ingredient should be visible and separately identifiable.
 
 ### Stage 7 - Dress
-1. Drizzle the dressing over the entire platter - generously over the vegetables and tuna.
+1. Drizzle the dressing over the entire platter, generously over the vegetables and tuna.
 1. Scatter torn basil and chopped parsley.
 1. Final crack of black pepper.
 
@@ -98,7 +98,7 @@ Salade niçoise is the classic Provençal salad named for the city of Nice, a co
 1. Pour a chilled rosé (a Provençal one if possible) alongside.
 
 ## Notes
-- **The purist debate:** Niçoise purists (Auguste Escoffier disagreed; Jacques Médecin, mayor of Nice, insisted) say no cooked vegetables - potatoes and green beans are out, and only raw vegetables go in. This recipe gives the international version with both, but it's worth knowing the purist version exists.
+- **The purist debate:** Niçoise purists (Auguste Escoffier disagreed; Jacques Médecin, mayor of Nice, insisted) say no cooked vegetables, potatoes and green beans are out, and only raw vegetables go in. This recipe gives the international version with both, but it's worth knowing the purist version exists.
 - **Tuna in olive oil, not water:** The quality of the tuna matters more than almost anything else. Spanish ventresca (tuna belly) is the best; good Italian or Portuguese tinned tuna in olive oil is the next step down. Water-packed tuna gives a sad salad.
 - **Compose, don't toss:** Niçoise is a composed salad. The visual variety on the plate is part of the appeal. Tossing everything together is wrong.
 

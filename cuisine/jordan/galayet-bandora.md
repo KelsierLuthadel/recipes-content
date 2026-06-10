@@ -2,7 +2,7 @@
 
 ![Galayet Bandora](resources/galayet-bandora.jpg)
 
-*Jordan's spiced tomato side: ripe tomatoes pan-fried with garlic, green chilli and olive oil into a rough, jammy stew, eaten with bread or as a side to grilled meats. Three ingredients plus a knife - but timing and good tomatoes are everything.*
+*Jordan's spiced tomato side: ripe tomatoes pan-fried with garlic, green chilli and olive oil into a rough, jammy stew, eaten with bread or as a side to grilled meats. Three ingredients plus a knife, but timing and good tomatoes are everything.*
 
 **Serves:** 4
 

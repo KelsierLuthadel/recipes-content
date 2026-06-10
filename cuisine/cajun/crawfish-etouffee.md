@@ -2,7 +2,7 @@
 
 ![Crawfish Étouffée](resources/crawfish-etouffee.jpg)
 
-*Cajun shellfish smothered in a blond-roux gravy with the trinity (onion, celery, pepper), garlic, Cajun spice and a long simmer. "Étouffée" means "smothered"; the dish is exactly that - crawfish (or shrimp, prawns) buried in a thick, deeply-flavoured sauce, served over white rice. Quintessential Cajun home cooking.*
+*Cajun shellfish smothered in a blond-roux gravy with the trinity (onion, celery, pepper), garlic, Cajun spice and a long simmer. "Étouffée" means "smothered"; the dish is exactly that, crawfish (or shrimp, prawns) buried in a thick, deeply-flavoured sauce, served over white rice. Quintessential Cajun home cooking.*
 
 **Serves:** 4
 
@@ -78,7 +78,7 @@ A Louisiana classic, the dish whose name means "smothered" in French, and that's
 1. Pass extra hot sauce.
 
 ## Notes
-- **Blond roux for étouffée:** Lighter than gumbo's dark roux - about the colour of peanut butter, which is lighter than the rich brown roux gumbo wants. The lighter roux thickens better and lets the shellfish flavour shine.
+- **Blond roux for étouffée:** Lighter than gumbo's dark roux, about the colour of peanut butter, which is lighter than the rich brown roux gumbo wants. The lighter roux thickens better and lets the shellfish flavour shine.
 - **Don't overcook the crawfish:** They go rubbery. Pre-cooked crawfish only need to heat through; raw prawns need 4-5 minutes max.
 - **Cajun seasoning is variable:** Some store-bought blends are very salty; reduce added salt if using.
 

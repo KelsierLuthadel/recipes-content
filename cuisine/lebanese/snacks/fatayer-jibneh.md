@@ -49,7 +49,7 @@ Lebanon's cheese hand-pies, the small tricorn pastries that turn up at iftar tab
 
 ### Stage 2 - Filling
 1. In a bowl, combine grated akkawi (or mozzarella-halloumi), crumbled feta, parsley, mint, spring onion (if using), egg yolk, black pepper and nigella seeds.
-1. Mix thoroughly. Don't add salt - the cheeses are salty enough.
+1. Mix thoroughly. Don't add salt, the cheeses are salty enough.
 
 ### Stage 3 - Shape
 1. Heat oven to 220°C (200°C fan).
@@ -61,8 +61,8 @@ Lebanon's cheese hand-pies, the small tricorn pastries that turn up at iftar tab
 ### Stage 4 - Fill and fold
 1. Place 1 heaped tablespoon of filling in the centre of each disc.
 1. Brush the edge of the disc with water.
-1. Lift three sides of the disc up over the filling - left, right and one side at the bottom - pinching each pair of edges where they meet, into a tricorn (three corners).
-1. Pinch firmly to seal - leaks during baking ruin them.
+1. Lift three sides of the disc up over the filling, left, right and one side at the bottom, pinching each pair of edges where they meet, into a tricorn (three corners).
+1. Pinch firmly to seal, leaks during baking ruin them.
 1. Transfer to the baking trays.
 
 ### Stage 5 - Glaze

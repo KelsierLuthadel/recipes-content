@@ -16,7 +16,7 @@ The Saudi take on foul medames, somewhere between the Egyptian original and the 
 ## Ingredients
 
 - 300 g dried small brown fava beans (foul mudammas variety)
-- 50 g dried chickpeas (optional - the small white addition is traditional)
+- 50 g dried chickpeas (optional, the small white addition is traditional)
 - 1 garlic clove (whole, for the cook)
 - 1 ½ teaspoons salt (added later)
 - 1.2 litres water
@@ -51,7 +51,7 @@ The Saudi take on foul medames, somewhere between the Egyptian original and the 
 1. Heat the olive oil in a wide pan over medium heat.
 1. Add the crushed garlic, cumin and chilli; cook 30 seconds until aromatic.
 1. Add the beans and 80 ml of reserved liquor; warm through, stirring, 3 minutes.
-1. Crush lightly with a fork - some whole, some mashed.
+1. Crush lightly with a fork, some whole, some mashed.
 1. Stir in lemon juice, parsley, pepper and the remaining ½ teaspoon salt. Taste.
 
 ### Stage 4 - Plate
@@ -61,8 +61,8 @@ The Saudi take on foul medames, somewhere between the Egyptian original and the 
 
 ## Notes
 - **Beans need time:** Properly soft fava beans take 6 hours on slow simmer. Cutting it short gives mealy texture and chalky bite.
-- **Crush, don't blend:** The Saudi version keeps texture - half whole, half mashed. A food processor purées it into something else.
-- **Tomato and onion on top:** Adds fresh crunch and acidity. Don't skip - the dish needs them.
+- **Crush, don't blend:** The Saudi version keeps texture, half whole, half mashed. A food processor purées it into something else.
+- **Tomato and onion on top:** Adds fresh crunch and acidity. Don't skip, the dish needs them.
 
 ## Storage
 - Refrigerate 3 days; reheat with a splash of water and fresh oil.

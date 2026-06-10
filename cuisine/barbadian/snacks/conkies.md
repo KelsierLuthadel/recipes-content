@@ -69,7 +69,7 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 
 ### Stage 3 - Add the wet
 1. In a smaller bowl, whisk together the melted butter, coconut milk, whole milk, beaten eggs, vanilla and optional rum.
-2. Pour the wet into the dry; stir thoroughly till the batter is uniform and thick - the consistency should be wet enough to scoop with a spoon but firm enough to hold its shape (a heaped tablespoon should stay mounded on a plate).
+2. Pour the wet into the dry; stir thoroughly till the batter is uniform and thick, the consistency should be wet enough to scoop with a spoon but firm enough to hold its shape (a heaped tablespoon should stay mounded on a plate).
 3. If too dry, add more coconut milk 2 tablespoons at a time; if too wet, add more cornmeal 2 tablespoons at a time.
 4. Let the batter rest 5 minutes (the cornmeal absorbs the liquid).
 
@@ -111,8 +111,8 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 ## Variations
 **Conkies with raisins and currants:** the festive variant - 100 g raisins + 50 g currants + 50 g chopped dates.
 **Plain conkies:** skip the raisins and dried fruit; the simpler variant.
-**Spicier conkies:** double the ginger and add 1/4 teaspoon ground cloves - the heavier-spice variant.
-**Modern bake-in-a-tin variant:** if you can't find banana leaves, bake the entire batter in a 23 × 23 cm tin at 180°C for 1 hour - less aromatic but practical.
+**Spicier conkies:** double the ginger and add 1/4 teaspoon ground cloves, the heavier-spice variant.
+**Modern bake-in-a-tin variant:** if you can't find banana leaves, bake the entire batter in a 23 × 23 cm tin at 180°C for 1 hour, less aromatic but practical.
 **Mini conkies (individual portion):** make 24 smaller parcels instead of 12-15 larger ones; reduce steam time to 60 minutes.
 **Pumpkin-only conkies (no sweet potato):** double the grated pumpkin; skip the sweet potato.
 **Vegan conkies:** swap eggs for 4 tablespoons aquafaba + 2 tablespoons milled flax + 2 tablespoons water; butter for coconut oil; the dish is otherwise vegan.
@@ -125,6 +125,6 @@ At a Bajan Independence Day (30 November) celebration (the traditional setting; 
 - Wrapped conkies refrigerate 5 days; reheat in the banana leaf in a hot oven for 10 minutes.
 - Unwrapped cold conkies refrigerate 5 days; slice and eat cold or pan-fry till crisp.
 - Freezes 3 months wrapped tight; defrost in the fridge overnight.
-- Improves with a day of resting - the flavours marry and the texture firms.
+- Improves with a day of resting, the flavours marry and the texture firms.
 - Cold conkies sliced and pan-fried in butter till crisp on both sides is the Bajan day-after breakfast.
-- The raw batter doesn't keep well - wrap and steam the same day.
+- The raw batter doesn't keep well, wrap and steam the same day.

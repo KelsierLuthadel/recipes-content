@@ -2,7 +2,7 @@
 
 ![Autumn fruit crumble](resources/fruit-crumble.jpg)
 
-*Quince and ginger lend a wonderful fragrance to this crumble. You can vary the fruits according to the season - plums and blackberries are a good combination. Serve with crème anglaise or cream.*
+*Quince and ginger lend a wonderful fragrance to this crumble. You can vary the fruits according to the season, plums and blackberries are a good combination. Serve with crème anglaise or cream.*
 
 **Serves:** 8 - 10
 

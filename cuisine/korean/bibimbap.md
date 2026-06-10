@@ -2,7 +2,7 @@
 
 ![Bibimbap](resources/bibimbap.jpg)
 
-*Korean rice bowl: warm rice topped with sautéed and seasoned vegetables in groups, a fried egg, optional bulgogi, and a generous spoon of gochujang sauce. The diner mixes everything at the table - bibim means "mixed", bap means "rice".*
+*Korean rice bowl: warm rice topped with sautéed and seasoned vegetables in groups, a fried egg, optional bulgogi, and a generous spoon of gochujang sauce. The diner mixes everything at the table, bibim means "mixed", bap means "rice".*
 
 **Serves:** 4
 

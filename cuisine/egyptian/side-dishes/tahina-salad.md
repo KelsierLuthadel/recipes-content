@@ -15,7 +15,7 @@ Tahina salad is the Egyptian pourable dressing-meets-dip that lives in a small d
 
 ## Ingredients
 
-- 200 g good-quality tahini (Lebanese, Syrian or Palestinian brand - light and runny)
+- 200 g good-quality tahini (Lebanese, Syrian or Palestinian brand, light and runny)
 - 3 garlic cloves (crushed to a paste with ½ tsp salt)
 - 1 ½ lemons (juice)
 - ½ teaspoon ground cumin
@@ -32,7 +32,7 @@ Tahina salad is the Egyptian pourable dressing-meets-dip that lives in a small d
 
 ### Stage 1 - Whisk
 1. In a wide bowl, whisk the tahini, garlic-salt paste, lemon juice and cumin.
-1. The mixture tightens at first into a stiff paste - that's expected.
+1. The mixture tightens at first into a stiff paste, that's expected.
 
 ### Stage 2 - Loosen
 1. Whisk in cold water 1 tablespoon at a time.

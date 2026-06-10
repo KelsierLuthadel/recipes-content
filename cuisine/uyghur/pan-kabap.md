@@ -25,7 +25,7 @@ The dish is essentially a stripped-back tonur kebab: thin slices of fatty lamb, 
 
 ### Stage 1 - Slice
 1. Slice the lamb against the grain into thin pieces, 3-4 mm thick.
-1. Every piece should have a little visible fat - that's the flavour.
+1. Every piece should have a little visible fat, that's the flavour.
 
 ### Stage 2 - Sear
 1. Heat the oil in a wide pan over high heat, coating the bottom and sides.

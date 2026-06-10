@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The Bahamas' fried-fish answer to the seafood basket, the dish you'll find on every island fish-fry menu from Arawak Cay to Spanish Wells. You pound cleaned conch between sheets of cling film with a meat mallet until it's thin and tender (the cracking is literal - the muscle fibres have to break before the conch is anything you'd want to eat), then season it well, dip in seasoned flour and a beaten-egg batter, and shallow- or deep-fry until golden and crisp at the edges. The flesh inside stays sweet and just-tender, with the same chew that prawns have at their best. Served with fat lime wedges to squeeze over, a citrus-cabbage slaw to cut the richness, and whatever peppered hot sauce the cook keeps on the shelf for it. Cold beer alongside; an afternoon at the beach already half over.
+The Bahamas' fried-fish answer to the seafood basket, the dish you'll find on every island fish-fry menu from Arawak Cay to Spanish Wells. You pound cleaned conch between sheets of cling film with a meat mallet until it's thin and tender (the cracking is literal, the muscle fibres have to break before the conch is anything you'd want to eat), then season it well, dip in seasoned flour and a beaten-egg batter, and shallow- or deep-fry until golden and crisp at the edges. The flesh inside stays sweet and just-tender, with the same chew that prawns have at their best. Served with fat lime wedges to squeeze over, a citrus-cabbage slaw to cut the richness, and whatever peppered hot sauce the cook keeps on the shelf for it. Cold beer alongside; an afternoon at the beach already half over.
 
 ## Ingredients
 
@@ -77,7 +77,7 @@ The Bahamas' fried-fish answer to the seafood basket, the dish you'll find on ev
 3. Scatter with lime wedges; serve hot sauce on the side.
 
 ## Notes
-- **Conch sourcing:** Cleaned, frozen conch meat is the realistic option in the UK or Western markets - look at Caribbean grocers, Chinese supermarkets or specialist fishmongers. Defrost in the fridge overnight before pounding.
+- **Conch sourcing:** Cleaned, frozen conch meat is the realistic option in the UK or Western markets, look at Caribbean grocers, Chinese supermarkets or specialist fishmongers. Defrost in the fridge overnight before pounding.
 - **Squid as a substitute:** If conch is impossible to find, use cleaned squid tubes scored on the inside and cut into rough rectangles, pounded the same way. The texture is close enough.
 - **Pound, don't dice:** The whole point of "cracked" is the tenderising. Skip the pounding and you have rubber.
 - **Double coat:** Dipping flour-egg-flour gives the crispy, craggy crust that holds the seasoning.

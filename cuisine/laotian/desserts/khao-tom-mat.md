@@ -23,7 +23,7 @@ Khao tom mat is one of Laos's most ceremonially important sweets, traditionally 
 - 1 pandan leaf, torn (optional)
 
 ### The fillings
-- 6 firm-ripe Thai bananas (or 4 regular bananas, halved lengthways) - cut into 12 pieces total, 8 cm × 2 cm
+- 6 firm-ripe Thai bananas (or 4 regular bananas, halved lengthways): cut into 12 pieces total, 8 cm × 2 cm
 - 100 g cooked black beans OR 100 g chopped jackfruit (optional, the festive variant)
 
 ### The wrapping
@@ -38,7 +38,7 @@ Khao tom mat is one of Laos's most ceremonially important sweets, traditionally 
 ## Method
 
 ### Stage 1 - Soften the banana leaves
-1. Pass each banana leaf over an open flame for 5-7 seconds (the smooth side toward the flame) - the leaves change from rigid to flexible.
+1. Pass each banana leaf over an open flame for 5-7 seconds (the smooth side toward the flame): the leaves change from rigid to flexible.
 2. Or pour boiling water over the leaves and let stand 1 minute.
 3. Pat dry with kitchen paper.
 
@@ -78,10 +78,10 @@ Khao tom mat is one of Laos's most ceremonially important sweets, traditionally 
 - **Eat cool:** the parcels are at their peak at room temperature. Hot or freshly-cooked is fine but the texture is best when slightly cooled.
 
 ## Variations
-**Khao tom mat with mung bean:** add a tablespoon of cooked mung bean alongside the banana - the Northern Lao variant.
-**Khao tom mat with taro:** swap banana for a small piece of cooked taro - the rural variant.
+**Khao tom mat with mung bean:** add a tablespoon of cooked mung bean alongside the banana, the Northern Lao variant.
+**Khao tom mat with taro:** swap banana for a small piece of cooked taro, the rural variant.
 **Coconut palm-sugar drizzle:** before serving, drizzle a small amount of warm palm-sugar syrup over the opened parcel.
-**Modern bake-in-a-tin variant:** if you can't get banana leaves, bake the rice + banana mixture in a 23 × 23 cm tin at 180°C for 50 minutes - less aromatic but practical.
+**Modern bake-in-a-tin variant:** if you can't get banana leaves, bake the rice + banana mixture in a 23 × 23 cm tin at 180°C for 50 minutes, less aromatic but practical.
 **Cha lao (Lao temple offering version):** smaller parcels (4 × 4 cm); served at Buddhist temple offerings on Lao New Year.
 
 ## Serving

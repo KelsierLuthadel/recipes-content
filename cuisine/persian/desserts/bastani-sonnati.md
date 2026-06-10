@@ -22,7 +22,7 @@ Bastani sonnati is the Persian ice cream you eat from a paper cup on a summer st
 - 6 egg yolks (large)
 - A generous pinch of saffron threads (steeped in 4 tablespoons hot milk 15 min)
 - 2 tablespoons rosewater
-- ½ teaspoon ground mastic gum (optional but classic - sold at Middle Eastern grocers)
+- ½ teaspoon ground mastic gum (optional but classic, sold at Middle Eastern grocers)
 - ½ teaspoon vanilla extract
 - A pinch of salt
 
@@ -72,7 +72,7 @@ Bastani sonnati is the Persian ice cream you eat from a paper cup on a summer st
 
 ## Notes
 - **Mastic gum:** Tiny crystals of pine resin from the Greek island of Chios; gives bastani its faintly chewy texture. Sold at Middle Eastern grocers; grind in a mortar with a pinch of sugar to a powder. Skip if unavailable; the ice cream is still excellent.
-- **Frozen cream shards:** A traditional Persian touch - they crunch through the soft ice cream and add fat-richness. Don't omit if you're going for the proper experience.
+- **Frozen cream shards:** A traditional Persian touch, they crunch through the soft ice cream and add fat-richness. Don't omit if you're going for the proper experience.
 - **Saffron quality:** Iranian super-negin or sargol gives the deepest flavour and colour. Cheap saffron tastes thin.
 
 ## Storage

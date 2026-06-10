@@ -16,7 +16,7 @@ Rye whiskey is bourbon's older, drier cousin. The federal definition mirrors bou
 4. **Aged in new charred American oak**
 5. **No additives**
 
-Before Prohibition, rye whiskey was America's dominant spirit, particularly in Pennsylvania and Maryland. Pennsylvania-style ryes were lighter and more elegant; Maryland-style ryes were richer and more aggressive. Prohibition (1920-1933) wiped out the regional distilling tradition; bourbon, with Kentucky's geographic advantages (limestone water, agricultural climate), came back faster. Rye spent most of the 20th century as a cocktail ingredient - the rye in your grandfather's Manhattan or Old Fashioned. The 21st-century craft revival has brought rye back to centre stage.
+Before Prohibition, rye whiskey was America's dominant spirit, particularly in Pennsylvania and Maryland. Pennsylvania-style ryes were lighter and more elegant; Maryland-style ryes were richer and more aggressive. Prohibition (1920-1933) wiped out the regional distilling tradition; bourbon, with Kentucky's geographic advantages (limestone water, agricultural climate), came back faster. Rye spent most of the 20th century as a cocktail ingredient, the rye in your grandfather's Manhattan or Old Fashioned. The 21st-century craft revival has brought rye back to centre stage.
 
 Rye's signature flavours: black pepper, baking spice, dried herb, dry-grass freshness, a faint mint. It cuts through cocktails in a way bourbon doesn't; it stands up to bitter, sour and sweet modifiers cleanly.
 
@@ -30,7 +30,7 @@ Three rye styles, each producing a recognisably different whiskey:
 | **Maryland** | 51-60% rye / 25-35% corn / 15% malted barley | Softer, sweeter, more bourbon-like |
 | **Modern craft** | 95-100% rye / 0-5% malted barley | Aggressive, drying, pure-rye character |
 
-The 100% rye mash (used by MGP Indiana for many craft brand-houses) is a modern phenomenon - it requires special handling because rye has very little starch and lots of beta-glucan (which makes the mash sticky and hard to manage). For a first family batch, the Pennsylvania-style 80/15/5 or Maryland-style 60/25/15 is more forgiving.
+The 100% rye mash (used by MGP Indiana for many craft brand-houses) is a modern phenomenon, it requires special handling because rye has very little starch and lots of beta-glucan (which makes the mash sticky and hard to manage). For a first family batch, the Pennsylvania-style 80/15/5 or Maryland-style 60/25/15 is more forgiving.
 
 ## Recipe (5-gallon wash, Pennsylvania-style 80/15/5)
 
@@ -63,11 +63,11 @@ The mashing process for rye is slightly trickier than corn because rye is sticky
 
 **Distil:** As in [whisky](whisky.md). The cuts are identical.
 
-The rye spirit off the still has a distinctly different aroma from bourbon spirit - more grassy, more peppery, less sweet. This is correct.
+The rye spirit off the still has a distinctly different aroma from bourbon spirit, more grassy, more peppery, less sweet. This is correct.
 
 **Cut to barrel strength:** 62.5% ABV maximum, like bourbon.
 
-**Age:** New charred American oak. Rye whiskey takes oak BETTER than bourbon - the dry peppery character integrates beautifully with vanilla. A 5-gallon barrel will produce a recognisable rye in 8-12 months.
+**Age:** New charred American oak. Rye whiskey takes oak BETTER than bourbon, the dry peppery character integrates beautifully with vanilla. A 5-gallon barrel will produce a recognisable rye in 8-12 months.
 
 **Bottle:** Cut to 45-50% ABV (rye is traditionally bottled stronger than bourbon to preserve the pepper).
 
@@ -82,11 +82,11 @@ The rye spirit off the still has a distinctly different aroma from bourbon spiri
 
 A taste vocabulary for what to look for as the whiskey ages:
 
-- **Black pepper** - front-of-tongue heat; from the rye grain itself
-- **Baking spice** - cinnamon, allspice, clove; from the barrel char interacting with rye flavour compounds
-- **Mint and eucalyptus** - a cool, herbal note in the finish; characteristic of high-rye
-- **Dried hay or fresh-cut grass** - green, vegetal; from young rye spirit
-- **Pumpernickel** - a darker bread note in well-aged rye; the rye-grain flavour married with oak
+- **Black pepper**: front-of-tongue heat; from the rye grain itself
+- **Baking spice**: cinnamon, allspice, clove; from the barrel char interacting with rye flavour compounds
+- **Mint and eucalyptus**: a cool, herbal note in the finish; characteristic of high-rye
+- **Dried hay or fresh-cut grass**: green, vegetal; from young rye spirit
+- **Pumpernickel**: a darker bread note in well-aged rye; the rye-grain flavour married with oak
 
 A whiskey that lacks pepper and herb is not yet a good rye. Re-taste at the next 2-month interval; the oak does its work slowly.
 

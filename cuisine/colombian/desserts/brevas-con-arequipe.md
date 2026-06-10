@@ -44,7 +44,7 @@ Brevas con arequipe is the kind of Colombian dessert that takes ten minutes of w
 ### Stage 3 - Poach
 1. Lay the figs in a single layer in the syrup.
 1. Reduce to lowest heat; simmer very gently 50-60 minutes, basting occasionally with the syrup. The figs should be tender all the way through (a knife slides in easily) and the syrup reduced and glossy.
-1. Off the heat, let the figs cool in the syrup 30 minutes - they continue absorbing flavour.
+1. Off the heat, let the figs cool in the syrup 30 minutes, they continue absorbing flavour.
 
 ### Stage 4 - Fill
 1. Lift the figs out carefully (a slotted spoon and gentle hands).
@@ -55,7 +55,7 @@ Brevas con arequipe is the kind of Colombian dessert that takes ten minutes of w
 1. Place 2 figs per plate.
 1. Drizzle with the reduced syrup.
 1. Add cubes of queso fresco if using; scatter pistachios.
-1. Eat warm or chilled - both are correct.
+1. Eat warm or chilled, both are correct.
 
 ## Notes
 - **Panela vs brown sugar:** Panela (unrefined cane sugar from Colombia) gives a deeper, almost molasses flavour. Dark brown sugar is the next-best substitute.

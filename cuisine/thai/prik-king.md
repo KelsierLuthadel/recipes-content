@@ -28,7 +28,7 @@ Prik king is the dry Thai curry, all of the perfume of a curry paste with none o
 
 ### Stir-fry
 - 500 g pork shoulder (or chicken thigh, sliced very thin)
-- 300 g green beans (snake beans if you can find them - cut into 4 cm pieces)
+- 300 g green beans (snake beans if you can find them, cut into 4 cm pieces)
 - 4 tablespoons vegetable oil
 - 3 tablespoons fish sauce
 - 2 tablespoons palm sugar (or soft brown sugar)

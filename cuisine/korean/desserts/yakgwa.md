@@ -46,7 +46,7 @@ Korea's royal cookie, served at Seollal (Lunar New Year) and Chuseok (autumn har
 1. Pour in the sesame oil; rub through the flour with your fingertips for 3-4 minutes until the mixture resembles damp sand (like making shortcrust but with sesame oil).
 1. In a small bowl, whisk the honey, soju and sugar.
 1. Pour over the floured mix; stir with a spatula until just bound.
-1. Press together - DO NOT KNEAD. Yakgwa dough should be soft, slightly oily, with no gluten development.
+1. Press together, DO NOT KNEAD. Yakgwa dough should be soft, slightly oily, with no gluten development.
 1. Wrap; rest 30 minutes.
 
 ### Stage 2 - Soaking syrup
@@ -57,16 +57,16 @@ Korea's royal cookie, served at Seollal (Lunar New Year) and Chuseok (autumn har
 ### Stage 3 - Cut shapes
 1. Roll the rested dough on a lightly floured surface to 8 mm thick.
 1. Cut with a 3 cm flower-shaped cutter (or any small shape).
-1. Prick each shape 3-4 times with a fork or the tip of a small knife - this lets the syrup penetrate.
+1. Prick each shape 3-4 times with a fork or the tip of a small knife, this lets the syrup penetrate.
 
 ### Stage 4 - Two-stage fry
-1. **Stage A (low heat):** heat the oil to 110°C. Lower the yakgwa shapes in (6-8 at a time). Fry 6-8 minutes at this low temperature - they should puff slightly and turn pale gold without browning. The dough cooks through.
+1. **Stage A (low heat):** heat the oil to 110°C. Lower the yakgwa shapes in (6-8 at a time). Fry 6-8 minutes at this low temperature, they should puff slightly and turn pale gold without browning. The dough cooks through.
 1. **Stage B (high heat):** turn the heat up to 160°C. Continue frying 2-3 more minutes; the surface deepens to amber gold.
 1. Lift onto a wire rack; let drain briefly.
 
 ### Stage 5 - Soak
 1. While still warm, drop the fried yakgwa into the syrup (strain out the ginger and cinnamon first if you prefer a clean look).
-1. Soak 30-60 minutes - they absorb the syrup.
+1. Soak 30-60 minutes, they absorb the syrup.
 
 ### Stage 6 - Drain and finish
 1. Lift onto a wire rack to drain excess syrup (place a tray underneath to catch drips).
@@ -74,7 +74,7 @@ Korea's royal cookie, served at Seollal (Lunar New Year) and Chuseok (autumn har
 1. Cool completely.
 
 ## Notes
-- **Two-stage frying is essential:** straight high-heat frying browns the outside before the inside cooks - yakgwa stays raw in the middle. The low-temperature first stage cooks the centre, the high-temperature second stage colours and crisps.
+- **Two-stage frying is essential:** straight high-heat frying browns the outside before the inside cooks, yakgwa stays raw in the middle. The low-temperature first stage cooks the centre, the high-temperature second stage colours and crisps.
 - **Don't knead:** the dough must stay short and crumbly. Kneading develops gluten and the texture goes tough.
 - **Sesame oil:** must be the dark toasted Korean / Asian sesame oil. Light untoasted is wrong.
 - **Soak warm cookies in warm syrup:** the temperature drives absorption. Cold cookies in cold syrup just get sticky on the outside.
@@ -82,5 +82,5 @@ Korea's royal cookie, served at Seollal (Lunar New Year) and Chuseok (autumn har
 ## Storage
 - Keeps 2 weeks at cool room temperature in a sealed tin.
 - The texture improves on day 2-3 as the syrup distributes fully.
-- Don't refrigerate - the dough goes hard.
-- Don't freeze - texture suffers.
+- Don't refrigerate, the dough goes hard.
+- Don't freeze, texture suffers.

@@ -15,7 +15,7 @@ The whole point of caprese is that there's almost no recipe, only ingredients an
 
 ## Ingredients
 
-- 4 ripe tomatoes (large, a mix of colours if you can - yellow, beefsteak, plum)
+- 4 ripe tomatoes (large, a mix of colours if you can, yellow, beefsteak, plum)
 - 250 g buffalo mozzarella (drained, ideally fresh-from-the-deli)
 - A small bunch of fresh basil (whole leaves)
 - 4 tablespoons excellent extra virgin olive oil

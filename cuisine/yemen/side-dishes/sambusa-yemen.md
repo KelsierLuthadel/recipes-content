@@ -53,7 +53,7 @@ Yemeni sambusa are the small triangular fried pastries that turn up at every Ram
 ### Stage 2 - Fold
 1. Place a pastry strip on the board; put a teaspoon of cooled filling at the bottom-right corner.
 1. Fold the corner up to the left edge into a triangle.
-1. Continue folding the triangle up the length of the strip - flag fold style.
+1. Continue folding the triangle up the length of the strip, flag fold style.
 1. At the tail, brush with flour-water paste; tuck and seal.
 
 ### Stage 3 - Fry
@@ -65,7 +65,7 @@ Yemeni sambusa are the small triangular fried pastries that turn up at every Ram
 1. Stack on a plate; eat warm with lemon wedges and sahawiq for dipping.
 
 ## Notes
-- **Cool filling:** Cannot stress this enough - warm filling steams the pastry from inside and destroys the seal.
+- **Cool filling:** Cannot stress this enough, warm filling steams the pastry from inside and destroys the seal.
 - **Fold practice:** The first three or four samosas will be wobbly. After that, the muscle memory clicks in.
 - **Make ahead and freeze:** Fold all 24, freeze on a tray, bag. Fry from frozen, adding 1 minute per side.
 

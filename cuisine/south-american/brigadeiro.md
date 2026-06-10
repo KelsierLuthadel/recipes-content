@@ -2,7 +2,7 @@
 
 ![Brigadeiro](resources/brigadeiro.jpg)
 
-*Brazil's iconic chocolate truffle: condensed milk and cocoa cooked together until thick and glossy, cooled, rolled into balls, then dropped in chocolate sprinkles. Eat at every Brazilian children's birthday party - and every adult party too. Soft, fudgy, slightly chewy at the edges.*
+*Brazil's iconic chocolate truffle: condensed milk and cocoa cooked together until thick and glossy, cooled, rolled into balls, then dropped in chocolate sprinkles. Eat at every Brazilian children's birthday party, and every adult party too. Soft, fudgy, slightly chewy at the edges.*
 
 **Makes:** 24 brigadeiros
 
@@ -35,7 +35,7 @@ Brigadeiros are Brazil's chocolate truffles, the soft fudgy little balls rolled 
 
 ### Stage 2 - Cool
 1. Pour onto a buttered plate; spread to about 2 cm thick.
-1. Cool to room temperature 30 minutes; cover and refrigerate at least 3 hours, ideally overnight - this firms up the texture for rolling.
+1. Cool to room temperature 30 minutes; cover and refrigerate at least 3 hours, ideally overnight, this firms up the texture for rolling.
 
 ### Stage 3 - Roll
 1. Lightly butter your hands.
@@ -53,4 +53,4 @@ Brigadeiros are Brazil's chocolate truffles, the soft fudgy little balls rolled 
 
 ## Storage
 - Keeps 5 days in an airtight tin at room temperature; the texture firms slightly.
-- Don't refrigerate - they go too hard.
+- Don't refrigerate, they go too hard.

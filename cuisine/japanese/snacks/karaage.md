@@ -29,7 +29,7 @@ The izakaya fried chicken that gets ordered at every Japanese pub and is the ans
 - ½ teaspoon black pepper
 
 ### Coating
-- 150 g potato starch (katakuriko - sold at Asian shops; or substitute cornstarch)
+- 150 g potato starch (katakuriko, sold at Asian shops; or substitute cornstarch)
 - A pinch of salt
 
 ### For frying
@@ -37,8 +37,8 @@ The izakaya fried chicken that gets ordered at every Japanese pub and is the ans
 
 ### To serve
 - 1 lemon (cut into wedges)
-- Japanese mayonnaise (Kewpie - the squeezy bottle, sold at Asian shops)
-- Shichimi togarashi (Japanese seven-spice - chilli, sesame, orange peel etc.)
+- Japanese mayonnaise (Kewpie, the squeezy bottle, sold at Asian shops)
+- Shichimi togarashi (Japanese seven-spice, chilli, sesame, orange peel etc.)
 - A small bowl of soy sauce 
 - grated daikon (optional, for dipping)
 
@@ -46,18 +46,18 @@ The izakaya fried chicken that gets ordered at every Japanese pub and is the ans
 
 ### Stage 1 - Prep the chicken
 1. Cut the chicken thighs into 4 cm chunks.
-1. If the skin is loose, leave it on each piece - it crisps spectacularly in the frying.
+1. If the skin is loose, leave it on each piece, it crisps spectacularly in the frying.
 1. Pat the chunks dry with kitchen paper.
 
 ### Stage 2 - Marinate
 1. In a wide bowl, whisk soy sauce, sake, mirin, sesame oil, ginger, garlic, sugar and pepper.
 1. Add the chicken; massage to coat.
-1. Cover; refrigerate 30 minutes (no longer - over-marinating makes the surface mushy).
+1. Cover; refrigerate 30 minutes (no longer, over-marinating makes the surface mushy).
 
 ### Stage 3 - Coat
 1. Place potato starch in a wide shallow bowl with a pinch of salt.
 1. Lift each piece of chicken out of the marinade, letting excess drip off, and roll thoroughly in potato starch.
-1. Press the starch onto the chicken so it forms a thick uneven crust - the visible bumps and craters in the coating are what give karaage its signature texture after frying.
+1. Press the starch onto the chicken so it forms a thick uneven crust, the visible bumps and craters in the coating are what give karaage its signature texture after frying.
 1. Place coated pieces on a wire rack or tray; let rest 5 minutes (the starch absorbs surface moisture).
 
 ### Stage 4 - First fry (low temp)
@@ -70,7 +70,7 @@ The izakaya fried chicken that gets ordered at every Japanese pub and is the ans
 1. Increase oil temperature to 190°C.
 1. Return all the chicken pieces to the oil; fry 60-90 seconds.
 1. The chicken turns deep amber gold; the crust becomes shatter-crisp.
-1. Lift onto a wire rack (NOT kitchen paper - paper traps steam and softens the crust).
+1. Lift onto a wire rack (NOT kitchen paper, paper traps steam and softens the crust).
 1. Sprinkle with a pinch of salt while still hot.
 
 ### Stage 6 - Serve
@@ -87,4 +87,4 @@ The izakaya fried chicken that gets ordered at every Japanese pub and is the ans
 ## Storage
 - Best within 30 minutes of frying.
 - Cooked karaage: refrigerate 2 days; reheat at 200°C oven 6 minutes (microwave makes the crust soggy).
-- Coated but unfried chicken: freeze on a tray 2 months. Fry from frozen - first fry at 150°C 6 min, then 190°C 90 sec.
+- Coated but unfried chicken: freeze on a tray 2 months. Fry from frozen, first fry at 150°C 6 min, then 190°C 90 sec.

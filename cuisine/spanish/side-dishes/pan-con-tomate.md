@@ -16,7 +16,7 @@ Pan con tomate is the defining Catalan starter: a slice of toasted country bread
 ## Ingredients
 - 4 thick slices country sourdough (about 1 ½ cm thick)
 - 2 garlic cloves (peeled, halved)
-- 2 ripe tomatoes (the ripest you can find - vine-ripened, ideally)
+- 2 ripe tomatoes (the ripest you can find, vine-ripened, ideally)
 - 4 tablespoons extra-virgin olive oil (the best you have)
 - Flaky sea salt
 
@@ -39,7 +39,7 @@ Pan con tomate is the defining Catalan starter: a slice of toasted country bread
 1. ½ tomato per slice.
 
 ### Stage 4 - Oil and salt
-1. Drizzle 1 tablespoon of olive oil generously over each slice (be generous - this is a oil-heavy dish).
+1. Drizzle 1 tablespoon of olive oil generously over each slice (be generous, this is a oil-heavy dish).
 1. Sprinkle flaky sea salt over each.
 
 ### Stage 5 - Serve
@@ -48,7 +48,7 @@ Pan con tomate is the defining Catalan starter: a slice of toasted country bread
 ## Notes
 - **Tomato quality is the dish:** out-of-season pale tomatoes give bland pan con tomate. Use the ripest, juiciest, vine-perfumed tomatoes you can find. Heritage varieties shine.
 - **Crusty bread, not soft sandwich bread:** the rough open crumb of a country sourdough catches the tomato pulp. Soft white slices turn to mush.
-- **Rub, don't spread:** the tomato is grated into the bread by the friction of the crusty surface. Don't slice and lay on top - that's bruschetta, not pan con tomate.
+- **Rub, don't spread:** the tomato is grated into the bread by the friction of the crusty surface. Don't slice and lay on top, that's bruschetta, not pan con tomate.
 - **Olive oil is the seasoning:** Spaniards use a lot. Don't be shy.
 
 ## Storage

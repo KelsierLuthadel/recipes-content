@@ -77,7 +77,7 @@ The Denver hot dog is Colorado's distinctive contribution to the regional hot-do
 6. Optional: a stripe of yellow mustard; a sprinkle of fresh coriander.
 
 ### Stage 5 - Serve immediately
-1. With a knife and fork - the sauce makes handheld eating messy.
+1. With a knife and fork, the sauce makes handheld eating messy.
 2. Crinkle fries; cold beer.
 3. Tortilla chips for scooping any leftover sauce.
 

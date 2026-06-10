@@ -32,14 +32,14 @@ The classical reference savoury souffle.
 
 ### Method
 
-**Step 1 - Prepare the ramekins.**
+**Step 1, Prepare the ramekins.**
 1. Butter 4 ramekins generously, going UP the sides only (don't butter the rim or top edge; the souffle needs grip there to climb).
 2. Dust with grated parmigiano. Tap off excess.
 3. Refrigerate.
 
 The buttered-and-dusted lining gives the souffle traction to rise. Skip this step and the souffle either won't rise or will rise lopsided.
 
-**Step 2 - Make a thick bechamel.**
+**Step 2, Make a thick bechamel.**
 1. Melt 30 g butter in a saucepan over medium heat. Whisk in 30 g flour. Cook 2 minutes (a blond roux).
 2. Slowly whisk in 300 ml warm milk. Cook over medium heat, whisking, until very thick (about 5 minutes). This is a thicker bechamel than usual; thick enough that the whisk leaves a deep track.
 3. Off heat, beat in the grated gruyere until melted.
@@ -47,19 +47,19 @@ The buttered-and-dusted lining gives the souffle traction to rise. Skip this ste
 5. Add salt, cayenne, nutmeg.
 6. The base should taste highly seasoned (the meringue dilutes it).
 
-**Step 3 - Whip the whites.**
+**Step 3, Whip the whites.**
 1. In a spotlessly clean bowl, whisk 5 egg whites with a pinch of cream of tartar (or a small splash of vinegar) to medium-stiff peaks. They should hold a peak but the tip droops slightly.
 
-**Step 4 - Fold.**
+**Step 4, Fold.**
 1. Stir 1 large tablespoon of the meringue into the base, whisking vigorously. This "loosens" the base so it can accept the rest of the whites.
 2. Add the rest of the whites all at once. Fold with a spatula, using a "cut down, lift up, rotate the bowl" motion. About 6-8 strokes. Stop when no large patches of white remain but small streaks are acceptable. Over-folding deflates the air.
 
-**Step 5 - Fill and bake.**
+**Step 5, Fill and bake.**
 1. Spoon the mixture into the chilled buttered ramekins, filling almost to the top.
 2. Run your thumb around the inside rim of each ramekin (between the souffle mix and the ramekin wall, about 1 cm deep). This creates a moat that helps the souffle rise straight up.
 3. Place ramekins on a baking sheet. Bake at 200 C (180 fan) for 12-15 minutes.
 
-**Step 6 - The drama.**
+**Step 6, The drama.**
 1. Open the oven door. The souffle should be risen to about double the ramekin height, with a deep golden top. The interior should still wobble when the dish is moved.
 2. Serve immediately. Diners should be at the table when you take them out.
 

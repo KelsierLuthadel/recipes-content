@@ -44,7 +44,7 @@ Matzo ball soup is the Jewish-American comfort dish, light fluffy matzo dumpling
 
 ### Stage 1 - Start the broth
 1. Place the chicken in a large stockpot with the onions, carrots, celery, parsley and dill stalks, bay leaves, peppercorns and salt. Cover with cold water by 2 cm.
-2. Bring slowly to a simmer over a medium heat - about 20 minutes. As the water heats, a grey foam will rise: skim it off with a spoon.
+2. Bring slowly to a simmer over a medium heat, about 20 minutes. As the water heats, a grey foam will rise: skim it off with a spoon.
 3. Once simmering, drop the heat to low so the surface just trembles. Cook gently for 2 hours, skimming once or twice more. Hard boiling clouds the broth.
 4. Lift the chicken out and set on a board to cool. Strain the broth through a fine sieve into a clean pan. Taste and adjust salt: a properly seasoned broth carries the soup.
 
@@ -55,7 +55,7 @@ Matzo ball soup is the Jewish-American comfort dish, light fluffy matzo dumpling
 
 ### Stage 3 - Shape and poach
 1. Bring a large pan of well-salted water to a gentle simmer.
-2. With wet hands, scoop walnut-sized portions of the matzo mix and roll lightly into balls - do not pack tight or they will sink leaden. You should get 12-14 balls.
+2. With wet hands, scoop walnut-sized portions of the matzo mix and roll lightly into balls, do not pack tight or they will sink leaden. You should get 12-14 balls.
 3. Slide the balls into the simmering water, cover with a tight lid, and cook for 30 minutes without lifting the lid. They will double in size and float to the surface.
 4. Lift out with a slotted spoon onto a plate.
 
@@ -68,7 +68,7 @@ Matzo ball soup is the Jewish-American comfort dish, light fluffy matzo dumpling
 1. Ladle the broth into wide bowls with 2 matzo balls per person, a few slices of carrot, a little shredded chicken and a generous scatter of dill fronds.
 
 ## Notes
-- Light, "floater" matzo balls come from a soft mix and a covered, undisturbed poach. Tight, "sinker" balls come from a stiffer mix and rougher handling - some families prefer them. Both are correct in someone's grandmother's kitchen.
+- Light, "floater" matzo balls come from a soft mix and a covered, undisturbed poach. Tight, "sinker" balls come from a stiffer mix and rougher handling, some families prefer them. Both are correct in someone's grandmother's kitchen.
 - Schmaltz (rendered chicken fat) is the traditional choice and gives the balls their characteristic flavour. Render it from chicken skin and fat over a low heat, or buy a jar from a kosher grocer. Olive oil works and is what most modern households use.
 - The broth can be made a day ahead and the matzo mix overnight; that splits the workload across two evenings.
 

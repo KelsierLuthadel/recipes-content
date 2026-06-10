@@ -2,7 +2,7 @@
 
 ![Southern Peach Cobbler](resources/peach-cobbler-southern.jpg)
 
-*The South's iconic peach dessert: sliced fresh peaches with sugar, butter, vanilla and cinnamon, topped with a biscuit-style batter or buttermilk drop dumplings, baked till the top crusts golden over the bubbling sweet peach filling. Served warm with vanilla ice cream - the traditional Southern summer dessert.*
+*The South's iconic peach dessert: sliced fresh peaches with sugar, butter, vanilla and cinnamon, topped with a biscuit-style batter or buttermilk drop dumplings, baked till the top crusts golden over the bubbling sweet peach filling. Served warm with vanilla ice cream, the traditional Southern summer dessert.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Southern peach cobbler is one of the most beloved Southern desserts and a Georgia-Carolina summer institution: fresh sliced peaches tossed with brown sugar, vanilla, lemon juice, cornstarch, butter and cinnamon, poured into a baking dish, topped with a sweet biscuit-style batter (a wet thick batter - not a pie crust) made from flour, sugar, baking powder, salt, milk and melted butter, and baked till the batter rises and bakes into a golden crust over the bubbling peach filling. Served warm with a generous scoop of vanilla ice cream or a heap of whipped cream. The dish is a Southern summer institution, particularly during peach season (June-August across the South), and a fixture at every Sunday dinner, family reunion and church potluck.
+Southern peach cobbler is one of the most beloved Southern desserts and a Georgia-Carolina summer institution: fresh sliced peaches tossed with brown sugar, vanilla, lemon juice, cornstarch, butter and cinnamon, poured into a baking dish, topped with a sweet biscuit-style batter (a wet thick batter, not a pie crust) made from flour, sugar, baking powder, salt, milk and melted butter, and baked till the batter rises and bakes into a golden crust over the bubbling peach filling. Served warm with a generous scoop of vanilla ice cream or a heap of whipped cream. The dish is a Southern summer institution, particularly during peach season (June-August across the South), and a fixture at every Sunday dinner, family reunion and church potluck.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Low Country Boil](resources/low-country-boil.jpg)
 
-*The Carolina coast's one-pot seafood feast: a giant pot of shrimp, smoked sausage, corn on the cob, red potatoes and Old Bay seasoning boiled together, then dumped onto a newspaper-covered table for family-style eating. The Lowcountry Carolina-Georgia coastal classic - the "Frogmore Stew" of Saint Helena Island.*
+*The Carolina coast's one-pot seafood feast: a giant pot of shrimp, smoked sausage, corn on the cob, red potatoes and Old Bay seasoning boiled together, then dumped onto a newspaper-covered table for family-style eating. The Lowcountry Carolina-Georgia coastal classic, the "Frogmore Stew" of Saint Helena Island.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Low country boil (also called "Frogmore stew" after Frogmore community on Saint Helena Island, or "Beaufort boil") is the iconic one-pot seafood feast of the South Carolina and Georgia Lowcountry coast: a very large pot of boiling water heavily seasoned with Old Bay or shrimp/crab boil seasoning, into which are added baby red potatoes, corn on the cob (cut into thirds), smoked sausage (kielbasa or Conecuh), and finally large shrimp in their shells - everything cooked together in stages, then the entire pot drained and dumped onto a newspaper-covered outdoor table for family-style "pile-in" eating. Diners pick from the pile with their hands, peeling shrimp, biting corn, eating sausage and potato chunks. The dish defines Lowcountry summer entertaining.
+Low country boil (also called "Frogmore stew" after Frogmore community on Saint Helena Island, or "Beaufort boil") is the iconic one-pot seafood feast of the South Carolina and Georgia Lowcountry coast: a very large pot of boiling water heavily seasoned with Old Bay or shrimp/crab boil seasoning, into which are added baby red potatoes, corn on the cob (cut into thirds), smoked sausage (kielbasa or Conecuh), and finally large shrimp in their shells, everything cooked together in stages, then the entire pot drained and dumped onto a newspaper-covered outdoor table for family-style "pile-in" eating. Diners pick from the pile with their hands, peeling shrimp, biting corn, eating sausage and potato chunks. The dish defines Lowcountry summer entertaining.
 
 ## Ingredients
 

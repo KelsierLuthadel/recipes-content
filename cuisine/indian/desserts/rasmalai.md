@@ -52,14 +52,14 @@ Bengal's milky sweet: spongy paneer dumplings poached in sugar syrup, then float
 ### Stage 2 - Knead and shape
 1. Tip the chhana onto a clean dry surface.
 2. Add the flour or semolina.
-3. Knead with the heel of your hand for 8-10 minutes - the curds break down, then come together as a smooth, slightly oily, lump-free dough. This is the most important step; under-kneaded chhana makes hard, dense dumplings.
+3. Knead with the heel of your hand for 8-10 minutes, the curds break down, then come together as a smooth, slightly oily, lump-free dough. This is the most important step; under-kneaded chhana makes hard, dense dumplings.
 4. Divide into 12 equal balls.
 5. Roll each between your palms until perfectly smooth.
 6. Flatten gently into a 4 cm disc, about 1 cm thick (they will double in size).
 
 ### Stage 3 - Poach the dumplings
 1. Combine the sugar, water and cardamom in a wide deep pan; bring to a boil.
-2. Once at a rolling boil, lower the discs in gently (they need plenty of room - cook in two batches if the pan isn't wide).
+2. Once at a rolling boil, lower the discs in gently (they need plenty of room, cook in two batches if the pan isn't wide).
 3. Cover; cook 12-15 minutes at a steady boil; the discs should double in size and look soft, glossy and spongy.
 4. Lift carefully with a slotted spoon onto a tray.
 5. Cool 10 minutes.

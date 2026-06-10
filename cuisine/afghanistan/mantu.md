@@ -2,7 +2,7 @@
 
 ![Mantu](resources/mantu.jpg)
 
-*Afghan steamed dumplings filled with spiced lamb mince, draped with garlicky strained yogurt (chaka) and crowned with a tomato-and-yellow-split-pea topping (qorma). A Friday family dish - three layers of sauce telling the story of Persian-Indian-Central-Asian crossroads cooking.*
+*Afghan steamed dumplings filled with spiced lamb mince, draped with garlicky strained yogurt (chaka) and crowned with a tomato-and-yellow-split-pea topping (qorma). A Friday family dish, three layers of sauce telling the story of Persian-Indian-Central-Asian crossroads cooking.*
 
 **Serves:** 4
 
@@ -91,7 +91,7 @@ Mantu are the steamed lamb dumplings that Afghanistan shares with the rest of Ce
 
 ## Notes
 - **Three layers, three temperatures:** Cool yogurt under, hot mantu in the middle, hot qorma on top.
-- **Sealing:** Pinch the four corners at the top into a small bundle - a few seconds per dumpling.
+- **Sealing:** Pinch the four corners at the top into a small bundle, a few seconds per dumpling.
 - **Make ahead:** Freeze raw shaped mantu on a tray; bag once frozen. Steam from frozen, adding 5 minutes.
 
 ## Storage

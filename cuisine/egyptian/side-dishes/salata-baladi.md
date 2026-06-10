@@ -2,7 +2,7 @@
 
 ![Salata Baladi](resources/salata-baladi.jpg)
 
-*"Country salad" - Egypt's everyday tomato-cucumber-onion salad with lemon, olive oil, salt and cumin. Served alongside ful, koshari, mezze plates. Crunchy, sharp, very lightly seasoned - the foil to richer dishes.*
+*"Country salad", Egypt's everyday tomato-cucumber-onion salad with lemon, olive oil, salt and cumin. Served alongside ful, koshari, mezze plates. Crunchy, sharp, very lightly seasoned, the foil to richer dishes.*
 
 **Serves:** 4 as a side
 
@@ -49,8 +49,8 @@ Salata baladi is the everyday Egyptian salad, fine-diced tomato, cucumber, onion
 
 ## Notes
 - **Deseed cucumber and tomato:** Removes the water that would weep into the dressing.
-- **Cumin is the Egyptian signature:** Don't skip. A teaspoon is the right amount - more and it overwhelms.
+- **Cumin is the Egyptian signature:** Don't skip. A teaspoon is the right amount, more and it overwhelms.
 - **Small dice:** Not minced. 5 mm cubes are right.
 
 ## Storage
-- Eat fresh. Doesn't keep - softens within hours.
+- Eat fresh. Doesn't keep, softens within hours.

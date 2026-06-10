@@ -41,7 +41,7 @@ The Jamaican Sunday-afternoon pudding, dense and fudge-like with a glossy crust 
 ### Stage 1 - Prep
 1. Heat the oven to 160°C (140°C fan).
 2. Grease a 23 cm square baking dish (at least 5 cm deep) and line the base with baking parchment.
-3. Peel the sweet potatoes; grate finely on the small holes of a box grater (or pulse in a food processor until very fine - do not puree).
+3. Peel the sweet potatoes; grate finely on the small holes of a box grater (or pulse in a food processor until very fine, do not puree).
 
 ### Stage 2 - Mix the pudding
 1. Place the grated sweet potato in a large bowl.
@@ -57,15 +57,15 @@ The Jamaican Sunday-afternoon pudding, dense and fudge-like with a glossy crust 
 4. After 1 hour, the pudding will be set around the edges and slightly wobbly in the centre.
 5. Carefully pour the glaze evenly over the top.
 6. Return to the oven for a further 25-30 minutes, until the top is set and a glossy crust has formed.
-7. A skewer in the centre should come out with thick, moist crumbs (it will not come out clean - the centre should stay soft).
+7. A skewer in the centre should come out with thick, moist crumbs (it will not come out clean, the centre should stay soft).
 
 ### Stage 4 - Cool and slice
 1. Cool completely in the dish on a wire rack (2-3 hours; do not rush this).
 2. Once cold, cut into 10 or 12 thick squares.
 
 ## Notes
-- **The name:** "Hell-a-Top, Hell-a-Bottom, Hallelujah in the Middle" comes from the original cooking method - a heavy iron pot on coals with more coals piled on the lid; both top and bottom turned dark while the middle stayed soft. The modern oven version mimics this with a glossy crust top and bottom and a fudgy middle.
-- **Sweet potato variety:** Look for "boniato" or yellow-fleshed Caribbean sweet potato if your local shop stocks it (Asian or Afro-Caribbean grocers usually do). Standard orange UK sweet potato is a perfectly fine substitute - the texture is identical, just slightly sweeter and more orange in colour.
+- **The name:** "Hell-a-Top, Hell-a-Bottom, Hallelujah in the Middle" comes from the original cooking method, a heavy iron pot on coals with more coals piled on the lid; both top and bottom turned dark while the middle stayed soft. The modern oven version mimics this with a glossy crust top and bottom and a fudgy middle.
+- **Sweet potato variety:** Look for "boniato" or yellow-fleshed Caribbean sweet potato if your local shop stocks it (Asian or Afro-Caribbean grocers usually do). Standard orange UK sweet potato is a perfectly fine substitute, the texture is identical, just slightly sweeter and more orange in colour.
 - **Cool fully before slicing:** A warm pudding will collapse. Cold, it slices cleanly into firm, fudgy squares.
 - **Grate, don't puree:** Grated texture gives the pudding its characteristic body. Pureed sweet potato makes it gluey.
 

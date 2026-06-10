@@ -2,10 +2,10 @@
 
 ![Amber caramel in a pan](resources/caramel.jpg)
 
-*Sugar cooked to 170-180 C, where it stops being sweet and starts being interesting. Caramel sauce, caramel for dipping, caramel for chocolates, and the two basic techniques - wet caramel and dry caramel - that produce all of them.*
+*Sugar cooked to 170-180 C, where it stops being sweet and starts being interesting. Caramel sauce, caramel for dipping, caramel for chocolates, and the two basic techniques, wet caramel and dry caramel, that produce all of them.*
 
 ## Overview
-Caramel is sugar past the soft and hard crack stages, taken to where it begins to brown. The browning is a series of chemical reactions (caramelisation - distinct from Maillard browning, which needs amino acids) that produce hundreds of new flavour compounds. Pure white sugar at 100 C tastes only sweet. The same sugar at 170 C tastes complex - butterscotch, nutty, slightly bitter, with the deep amber colour and the unmistakable caramel aroma.
+Caramel is sugar past the soft and hard crack stages, taken to where it begins to brown. The browning is a series of chemical reactions (caramelisation, distinct from Maillard browning, which needs amino acids) that produce hundreds of new flavour compounds. Pure white sugar at 100 C tastes only sweet. The same sugar at 170 C tastes complex, butterscotch, nutty, slightly bitter, with the deep amber colour and the unmistakable caramel aroma.
 
 Two techniques produce caramel:
 
@@ -19,7 +19,7 @@ This lesson covers both, plus the worked recipes for caramel sauce, soft caramel
 ### Method
 
 1. **Combine sugar and water in a heavy saucepan.** Typical ratio: 4:1 sugar to water by weight, or 250 g sugar to 60 ml water. The water helps the sugar dissolve evenly and gives you more cooking time before the temperature spikes.
-2. **Optional: add a pinch of cream of tartar** (or a few drops of lemon juice) - this is anti-crystallisation insurance.
+2. **Optional: add a pinch of cream of tartar** (or a few drops of lemon juice): this is anti-crystallisation insurance.
 3. **Heat gently** to dissolve the sugar. Stir if needed to help the sugar dissolve.
 4. **Stop stirring** the moment the sugar is dissolved.
 5. **Bring to a boil.** Now the temperature will climb steadily as water evaporates. Wipe down the pan walls occasionally with a wet pastry brush.
@@ -45,7 +45,7 @@ Once you reach your target colour, immediately remove from the heat. The pan ret
 3. **Add more sugar** in batches as the previous batch is mostly melted. Stir gently to incorporate. Repeat until all the sugar is in the pan.
 4. **Continue cooking** until the desired colour is reached.
 
-The "in batches" approach is the trick. Dumping all the sugar in at once produces uneven heating - the bottom melts while the top stays as crystals - and the parts in contact with the pan bottom burn before the top has melted. Adding in batches lets each batch incorporate fully into the molten sugar.
+The "in batches" approach is the trick. Dumping all the sugar in at once produces uneven heating, the bottom melts while the top stays as crystals, and the parts in contact with the pan bottom burn before the top has melted. Adding in batches lets each batch incorporate fully into the molten sugar.
 
 Dry caramel is faster, requires more attention, and produces a slightly different flavour (slightly more intense, with a hint of bitter that wet caramel does not have). Skilled confectioners use dry caramel for the deepest caramel notes.
 
@@ -67,7 +67,7 @@ A wet caramel finished with cream and butter. The classic dessert sauce.
 
 1. Combine sugar, water and cream of tartar in a heavy saucepan. Heat gently to dissolve. Stop stirring.
 2. Bring to a boil; cook to 175-180 C (deep amber).
-3. **Off the heat,** carefully add the warmed cream. The mixture will hiss and steam violently - be careful. Stir to combine.
+3. **Off the heat,** carefully add the warmed cream. The mixture will hiss and steam violently, be careful. Stir to combine.
 4. Add butter cubes one at a time, whisking in each before adding the next. The mixture becomes glossy and emulsified.
 5. Stir in salt and vanilla.
 6. Pour into a heatproof jar. Cool to room temperature, then refrigerate.
@@ -99,7 +99,7 @@ Keeps refrigerated 1 month. Gentle reheat (microwave 20 seconds or warm in a sau
 1. Combine sugar, glucose syrup, half the cream and the butter in a heavy saucepan. Stir to combine.
 2. Bring to a boil. Cook to 120-122 C (firm ball stage). Time required: 10-15 minutes.
 3. Off the heat, stir in the remaining cream, condensed milk, vanilla and salt.
-4. Return to the heat. Cook back to 120-122 C, stirring continuously - watch the bottom carefully, this stage scorches easily.
+4. Return to the heat. Cook back to 120-122 C, stirring continuously, watch the bottom carefully, this stage scorches easily.
 5. Pour into a silicone-lined 20cm square pan or a buttered baking tin.
 6. Cool to room temperature 2 hours; refrigerate overnight.
 7. Cut into squares with a sharp oiled knife.

@@ -34,12 +34,12 @@ Korea's lunchbox roll, the bento equivalent of the Korean kitchen: short-grain r
 - pepper
 
 ### Wrapping
-- 4 sheets gim (roasted seaweed for gimbap - bigger than nori)
+- 4 sheets gim (roasted seaweed for gimbap, bigger than nori)
 - 1 tablespoon sesame oil (for brushing)
 - 1 tablespoon sesame seeds (for sprinkling)
 
 ### Equipment
-- 1 bamboo sushi mat (makisu) - strongly recommended
+- 1 bamboo sushi mat (makisu): strongly recommended
 
 ## Method
 
@@ -87,4 +87,4 @@ Korea's lunchbox roll, the bento equivalent of the Korean kitchen: short-grain r
 ## Storage
 - Best within 8 hours of making.
 - Refrigerate the unsliced roll if needed; bring back to room temperature 30 minutes before slicing and serving.
-- Don't refrigerate sliced gimbap - the rice goes hard and the seaweed turns chewy.
+- Don't refrigerate sliced gimbap, the rice goes hard and the seaweed turns chewy.

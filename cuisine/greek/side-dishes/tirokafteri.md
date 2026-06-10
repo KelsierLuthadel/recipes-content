@@ -16,7 +16,7 @@ Tirokafteri is the Greek spicy feta dip, the salty-creamy-fiery mezze that every
 ## Ingredients
 - 200 g feta cheese (Greek, in brine)
 - 100 g cream cheese (full-fat)
-- 1 roasted red pepper (large, about 100 g, jarred is fine - drained well)
+- 1 roasted red pepper (large, about 100 g, jarred is fine, drained well)
 - 1-2 fresh red chillies (deseeded if mild heat desired)
 - 1 garlic clove (small, peeled)
 - 3 tablespoons extra virgin olive oil
@@ -38,7 +38,7 @@ Tirokafteri is the Greek spicy feta dip, the salty-creamy-fiery mezze that every
 ### Stage 2 - Blend
 1. In a food processor, combine the feta (broken into chunks), cream cheese, roasted pepper, chillies (1 to start), peeled garlic, olive oil, vinegar, oregano and smoked paprika.
 1. Process 30 seconds. Scrape down the sides.
-1. Process another 30 seconds until smooth but not totally puréed - a tiny bit of texture is desirable.
+1. Process another 30 seconds until smooth but not totally puréed, a tiny bit of texture is desirable.
 
 ### Stage 3 - Taste and adjust
 1. Taste a spoonful.
@@ -66,4 +66,4 @@ Tirokafteri is the Greek spicy feta dip, the salty-creamy-fiery mezze that every
 ## Storage
 - Keeps 5 days refrigerated in a sealed container.
 - The colour deepens and the flavour intensifies on day 2.
-- Doesn't freeze well - the dairy separates on thaw.
+- Doesn't freeze well, the dairy separates on thaw.

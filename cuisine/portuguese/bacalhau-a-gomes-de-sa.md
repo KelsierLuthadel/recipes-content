@@ -42,7 +42,7 @@ Bacalhau à Gomes de Sá is one of Portugal's most iconic salt cod dishes. Portu
 1. Place the salt cod in a wide bowl.
 2. Cover with cold water by 5 cm; refrigerate.
 3. Change the water every 4-6 hours for 18-24 hours.
-4. Test by tasting a small piece - should be pleasantly salty.
+4. Test by tasting a small piece, should be pleasantly salty.
 5. Drain.
 
 ### Stage 2 - Cook the cod

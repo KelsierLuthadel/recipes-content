@@ -60,8 +60,8 @@ ingredients:
     name: red chilli
     raw: 1 fresh red chilli
   - qty: 4
-    name: tomatoes - or 1 tin chopped tomatoes
-    raw: 4 ripe tomatoes - OR 1 tin chopped tomatoes
+    name: "tomatoes : or 1 tin chopped tomatoes"
+    raw: "4 ripe tomatoes : OR 1 tin chopped tomatoes"
   - qty: 250
     unit: ml
     name: dry white wine
@@ -88,8 +88,8 @@ ingredients:
     raw: 400 g large raw prawns
   - qty: 400
     unit: g
-    name: firm white fish - monkfish
-    raw: 400 g firm white fish - monkfish, hake
+    name: firm white fish
+    raw: 400 g firm white fish, monkfish, hake
   - qty: 1
     name: coriander
     raw: 1 large bunch fresh coriander

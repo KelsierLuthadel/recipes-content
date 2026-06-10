@@ -63,7 +63,7 @@ Pão Alentejano is Portugal's great regional bread, a slow-fermented loaf from t
 1. The internal temperature should be 95°C+ at the centre.
 
 ### Stage 7 - Cool
-1. Cool on a wire rack at least 1 hour before slicing - cutting hot bread gives a gummy crumb.
+1. Cool on a wire rack at least 1 hour before slicing, cutting hot bread gives a gummy crumb.
 
 ## Notes
 - **Poolish overnight is non-negotiable:** The fermentation builds the flavour. A quick same-day bread is a different (perfectly fine) thing, but not pão alentejano.
@@ -73,4 +73,4 @@ Pão Alentejano is Portugal's great regional bread, a slow-fermented loaf from t
 ## Storage
 - Wrapped in a clean tea towel at room temperature: 5 days. Crust softens by day 2 but the crumb stays good.
 - Sliced and frozen: 2 months. Toast slices from frozen.
-- Gets better at soaking up broth as it stales - perfect for açorda or migas.
+- Gets better at soaking up broth as it stales, perfect for açorda or migas.

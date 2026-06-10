@@ -32,7 +32,7 @@ The classic Jamaican breakfast bread, also called Johnny Cakes: golden fried rou
 1. In a large bowl, whisk together the flour, baking powder, sugar and salt.
 2. Rub the butter into the dry mix with your fingertips until it resembles coarse breadcrumbs.
 3. Add the water gradually, mixing with a fork, until a shaggy dough comes together.
-4. Tip onto a lightly floured surface and knead for 2 minutes until smooth (do not overwork - it should be soft, not tough).
+4. Tip onto a lightly floured surface and knead for 2 minutes until smooth (do not overwork, it should be soft, not tough).
 5. Cover with a damp cloth; rest 10 minutes.
 
 ### Stage 2 - Shape

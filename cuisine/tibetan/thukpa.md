@@ -87,7 +87,7 @@ Thukpa is Tibet's restorative winter noodle soup: a clean ginger-and-garlic-forw
 - **Yak substitution:** Yak is the traditional meat and is not available in UK or Western shops. Lean beef shin or chuck is the closest substitute in texture and flavour; mutton works for a richer version.
 - **Hand-pulled noodles are forgiving:** They don't need to be even. Tibetan and Bhutanese cooks make them rustic on purpose.
 - **Sichuan peppercorn, not black:** The mild numbing fragrance is what gives thukpa its character. Black pepper is not a substitute.
-- **Sepen on the side:** If you can source or make Tibetan chilli sauce (sepen), serve it on the side rather than adding to the pot - everyone seasons their own bowl.
+- **Sepen on the side:** If you can source or make Tibetan chilli sauce (sepen), serve it on the side rather than adding to the pot, everyone seasons their own bowl.
 
 ## Variations
 **Vegetarian thukpa:** Skip the meat; use vegetable stock, add 150 g cubed tofu or 200 g mushrooms with the onion, and a teaspoon of butter at the end for body.

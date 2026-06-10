@@ -16,7 +16,7 @@ Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every 
 ## Ingredients
 
 ### Dough
-- 400 g whole-wheat flour (atta - sold at South Asian shops; ordinary wholemeal flour works as a substitute)
+- 400 g whole-wheat flour (atta, sold at South Asian shops; ordinary wholemeal flour works as a substitute)
 - 1 teaspoon salt
 - 1 tablespoon sunflower oil
 - 250-280 ml warm water
@@ -53,12 +53,12 @@ Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every 
 ### Stage 2 - Boil and mash the potato
 1. Place potatoes (skins on) in a pot of water; bring to a boil; cook 25 minutes until a knife slides through.
 1. Drain; peel while still hot.
-1. Mash thoroughly with a potato masher in a wide bowl - no lumps.
+1. Mash thoroughly with a potato masher in a wide bowl, no lumps.
 
 ### Stage 3 - Spice the filling
 1. To the warm mashed potato, add salt, cumin, garam masala, amchoor, chilli powder, green chilli, ginger and fresh coriander.
 1. Mix well.
-1. Taste; adjust salt - the filling should be assertively seasoned, since the dough is plain.
+1. Taste; adjust salt, the filling should be assertively seasoned, since the dough is plain.
 1. Divide into 8 equal portions; roll each into a ball.
 
 ### Stage 4 - Stuff and roll
@@ -69,7 +69,7 @@ Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every 
    - Bring the edges of the dough up and over the filling, pleating it into a closed parcel; pinch firmly to seal.
    - Dust with flour.
    - Place pinched-side down; gently press flat with your palm.
-   - Roll out carefully into a 20 cm disc - go slowly, don't force, let the filling spread evenly. If a small tear opens, pinch it closed and continue.
+   - Roll out carefully into a 20 cm disc, go slowly, don't force, let the filling spread evenly. If a small tear opens, pinch it closed and continue.
    - Set aside on a lightly floured tray; don't stack.
 
 ### Stage 5 - Cook
@@ -86,7 +86,7 @@ Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every 
 
 ## Notes
 - **Soft dough is critical:** A stiff dough cracks during stuffing. The dough should be soft enough to dent with a fingertip but not stick to clean hands.
-- **Don't over-stuff:** The first attempt is always over-stuffed and bursts. Use less filling than you think - about 60-70 g per paratha.
+- **Don't over-stuff:** The first attempt is always over-stuffed and bursts. Use less filling than you think, about 60-70 g per paratha.
 - **Cook over high heat, briefly:** Low heat dries them out. Medium-high heat with a quick cook gives the right blistered-crisp texture.
 
 ## Storage

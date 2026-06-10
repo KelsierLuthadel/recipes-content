@@ -49,7 +49,7 @@ The British cocktail-hour staple in its most addictive form: mixed nuts roasted 
 ## Notes
 - **Unsalted nuts:** You're seasoning at the end; pre-salted nuts give too-salty results.
 - **Rosemary chopped fine:** Big sprigs char and turn bitter; finely chopped distributes evenly and toasts gently.
-- **Mixed nuts > single variety:** The variety is part of the appeal - softer cashews, crunchier almonds, oilier walnuts.
+- **Mixed nuts > single variety:** The variety is part of the appeal, softer cashews, crunchier almonds, oilier walnuts.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin.

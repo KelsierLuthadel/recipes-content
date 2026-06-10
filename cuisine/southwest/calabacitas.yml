@@ -37,8 +37,8 @@ ingredients:
     name: garlic cloves
     raw: 6 garlic cloves
   - qty: 4
-    name: roasted green chillies - or 1 small tin chopped roasted green chillies
-    raw: 4 roasted green chillies - or 1 small tin chopped roasted green chillies
+    name: "roasted green chillies : or 1 small tin chopped roasted green chillies"
+    raw: "4 roasted green chillies : or 1 small tin chopped roasted green chillies"
   - qty: 4
     unit: tbsp
     name: butter

@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Timpana is Malta's most elaborate and most special-occasion pasta dish - a baked pasta pie that takes its name from "timpano" (the Italian "timpanum" - a drum-shaped baked pasta dish). The Maltese version is closer to a pie than a casserole: macaroni pasta is tossed with a slow-cooked Bolognese-style meat sauce (beef, pork, onion, garlic, tomato, red wine), chopped hard-boiled egg, peas, and grated cheese, then sealed inside a layer of puff pastry (the traditional Maltese version uses bought puff for ease - though some Maltese bakers make their own shortcrust). Baked at high heat till the pastry is deeply golden and the filling is hot. Sliced into thick wedges and served with a salad.
+Timpana is Malta's most elaborate and most special-occasion pasta dish, a baked pasta pie that takes its name from "timpano" (the Italian "timpanum", a drum-shaped baked pasta dish). The Maltese version is closer to a pie than a casserole: macaroni pasta is tossed with a slow-cooked Bolognese-style meat sauce (beef, pork, onion, garlic, tomato, red wine), chopped hard-boiled egg, peas, and grated cheese, then sealed inside a layer of puff pastry (the traditional Maltese version uses bought puff for ease, though some Maltese bakers make their own shortcrust). Baked at high heat till the pastry is deeply golden and the filling is hot. Sliced into thick wedges and served with a salad.
 
 ## Ingredients
 
@@ -86,7 +86,7 @@ Timpana is Malta's most elaborate and most special-occasion pasta dish - a baked
 ## Variations
 **Without pastry (timpana al forno):** baked uncovered as a casserole.
 **With chicken livers in the sauce:** richer; more old-style Maltese.
-**With béchamel layer:** add a thin layer of béchamel over the top before sealing - modern.
+**With béchamel layer:** add a thin layer of béchamel over the top before sealing, modern.
 **Vegetarian timpana:** swap meat for mushrooms + lentils.
 **Mini timpane:** in individual ramekins; party portions.
 

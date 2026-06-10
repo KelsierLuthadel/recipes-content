@@ -35,7 +35,7 @@ Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved 
 - 4 garlic cloves (crushed)
 - 1 small green bell pepper (very finely chopped)
 - 1 large bunch fresh cilantro (about 30 g; finely chopped)
-- 1 small bunch fresh culantro/recao (about 15 g; finely chopped) - or double the cilantro
+- 1 small bunch fresh culantro/recao (about 15 g; finely chopped): or double the cilantro
 - 1 small fresh chilli (deseeded, finely chopped, optional)
 
 ### Frying

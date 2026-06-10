@@ -24,7 +24,7 @@ These are the little three-cornered pies piled in bakery windows across Ramallah
 - 4 tablespoons olive oil
 
 ### Filling
-- 600 g fresh spinach (washed) - OR 500 g frozen spinach (defrosted, squeezed bone-dry)
+- 600 g fresh spinach (washed): OR 500 g frozen spinach (defrosted, squeezed bone-dry)
 - 1 teaspoon salt (for spinach)
 - 1 onion (large, very finely diced)
 - 1 ½ teaspoons salt (for onion)
@@ -50,14 +50,14 @@ These are the little three-cornered pies piled in bakery windows across Ramallah
 
 ### Stage 2 - Wilt the spinach
 1. If using fresh: bring a large pot of well-salted water to a boil.
-1. Drop spinach in; cook 30 seconds - just wilted.
+1. Drop spinach in; cook 30 seconds, just wilted.
 1. Drain; rinse with cold water.
 1. Squeeze handfuls firmly between your palms until bone-dry. (Wet spinach in the filling = soggy fatayer.) Chop fine.
 1. If using frozen: defrost; squeeze hard until dry; chop.
 
 ### Stage 3 - Soften the onion
 1. Place diced onion in a wide bowl with 1 ½ teaspoons salt.
-1. Massage with your hands for 1 minute - the onion releases liquid and softens.
+1. Massage with your hands for 1 minute, the onion releases liquid and softens.
 1. Drain off the liquid (squeeze the onion in a clean tea towel).
 
 ### Stage 4 - Combine the filling
@@ -71,8 +71,8 @@ These are the little three-cornered pies piled in bakery windows across Ramallah
 1. Rest 5 minutes.
 1. Roll each ball into a thin 12 cm disc.
 1. Place 1 ½ tablespoons of filling in the centre of each.
-1. Fold the disc into a tricorn: pinch one third of the edge upward to form one side; pinch the second third to form a second side; pinch the third to seal - the result is a three-cornered pyramid with the three seams meeting at the top.
-1. Press the seams firmly closed - any leakage during baking and you have a flat soggy pie.
+1. Fold the disc into a tricorn: pinch one third of the edge upward to form one side; pinch the second third to form a second side; pinch the third to seal, the result is a three-cornered pyramid with the three seams meeting at the top.
+1. Press the seams firmly closed, any leakage during baking and you have a flat soggy pie.
 1. Transfer to the trays.
 
 ### Stage 6 - Bake
@@ -84,7 +84,7 @@ These are the little three-cornered pies piled in bakery windows across Ramallah
 1. Eat warm or at room temperature.
 
 ## Notes
-- **Bone-dry spinach:** Wet spinach in the filling makes wet fatayer. Squeeze each handful firmly - you should be able to get a clear handful of dry spinach with no drip.
+- **Bone-dry spinach:** Wet spinach in the filling makes wet fatayer. Squeeze each handful firmly, you should be able to get a clear handful of dry spinach with no drip.
 - **Seal the seams hard:** A loose tricorn opens in the oven and the filling escapes. Pinch firmly with floured fingers.
 - **Sumac is the dish:** Without sumac (the tart purple-red Levantine spice), this is just a spinach pie. Sumac is what makes it Palestinian fatayer. Buy at any Middle Eastern shop.
 

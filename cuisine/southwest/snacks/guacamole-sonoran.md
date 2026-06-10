@@ -2,7 +2,7 @@
 
 ![Sonoran Guacamole](resources/guacamole-sonoran.jpg)
 
-*The Southwest's mashed avocado dip: ripe avocados mashed with finely chopped onion, fresh jalapeño, garlic, lime juice, salt and fresh cilantro. The Sonoran-Arizona-New Mexico-Texas traditional guacamole - fresh, chunky, bright.*
+*The Southwest's mashed avocado dip: ripe avocados mashed with finely chopped onion, fresh jalapeño, garlic, lime juice, salt and fresh cilantro. The Sonoran-Arizona-New Mexico-Texas traditional guacamole, fresh, chunky, bright.*
 
 **Serves:** 6
 
@@ -33,7 +33,7 @@ Sonoran guacamole is the traditional Southwestern American guacamole: ripe Hass 
 
 ### Stage 1 - Mash avocados
 1. Place avocado flesh in a wide bowl.
-2. Mash with a fork - keep some chunks; not smooth purée.
+2. Mash with a fork, keep some chunks; not smooth purée.
 
 ### Stage 2 - Add other ingredients
 1. Add chopped onion, jalapeños, crushed garlic, lime juice, chopped coriander, salt, pepper and cumin.

@@ -2,7 +2,7 @@
 
 ![Or Lam](resources/or-lam.jpg)
 
-*Luang Prabang's signature stew: chunks of buffalo or beef slow-braised with aubergine, long beans, oyster mushrooms, sliced green chillies and a generous fistful of fresh dill, basil, lemongrass and the traditional Lao "sakhan" (a bitter aromatic wood from the climbing pepper vine Piper ribesioides that grows in the Luang Prabang forests). The wood gives the stew its identifying bitter-numbing depth - similar in spirit to Sichuan peppercorn but distinctly Lao. Served over sticky rice with a small dish of jeow bong (sweet chilli paste).*
+*Luang Prabang's signature stew: chunks of buffalo or beef slow-braised with aubergine, long beans, oyster mushrooms, sliced green chillies and a generous fistful of fresh dill, basil, lemongrass and the traditional Lao "sakhan" (a bitter aromatic wood from the climbing pepper vine Piper ribesioides that grows in the Luang Prabang forests). The wood gives the stew its identifying bitter-numbing depth, similar in spirit to Sichuan peppercorn but distinctly Lao. Served over sticky rice with a small dish of jeow bong (sweet chilli paste).*
 
 **Serves:** 6
 
@@ -87,7 +87,7 @@ Or lam is the most identity-specifically Luang Prabang dish, the deep herb-and-w
 - **Aubergine variety matters:** small Thai pea aubergines stay firm; large Western aubergines collapse. The small Asian aubergine is the workable compromise.
 
 ## Variations
-**Or lam pa (fish version):** swap beef for chunks of firm freshwater white fish - the river-fish variant.
+**Or lam pa (fish version):** swap beef for chunks of firm freshwater white fish, the river-fish variant.
 **Or lam moo (pork version):** swap beef for pork belly chunks.
 **Or lam kai (chicken version):** swap beef for bone-in chicken thighs.
 **Vegetarian or lam:** skip the meat and fish sauce; use vegetable stock; double the mushrooms and add tofu chunks; use soy sauce in place of fish sauce.
@@ -98,5 +98,5 @@ At a Luang Prabang riverside restaurant (the traditional setting) · at a Lao fa
 ## Storage
 - Refrigerates 4 days; reheat on the stovetop, adding a splash of water if too reduced.
 - Freezes 3 months; defrost overnight in the fridge.
-- Better the day after - the sakhan / pepper aromatics deepen overnight.
+- Better the day after, the sakhan / pepper aromatics deepen overnight.
 - Add fresh herbs at serving each time; don't store with herbs incorporated.

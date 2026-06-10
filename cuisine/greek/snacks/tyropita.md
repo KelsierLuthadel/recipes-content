@@ -24,7 +24,7 @@ Tyropita are the Greek cheese triangles, small filo-wrapped parcels of feta and 
 - 1 tablespoon fresh mint (chopped)
 - ¼ teaspoon ground nutmeg
 - ½ teaspoon ground black pepper
-- (no extra salt - the feta is salty enough)
+- (no extra salt, the feta is salty enough)
 
 ### Pastry
 - 12 sheets filo pastry (about 30 × 25 cm each; thaw fully if frozen)

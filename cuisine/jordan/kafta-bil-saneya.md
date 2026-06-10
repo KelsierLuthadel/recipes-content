@@ -65,7 +65,7 @@ A Friday-lunch or family-dinner Jordanian tray bake: spiced lamb-and-beef mince 
 
 ### Stage 5 - Bake
 1. Drizzle olive oil over the top.
-1. Bake 40-45 minutes - kafta is cooked through and the top is bronzed.
+1. Bake 40-45 minutes, kafta is cooked through and the top is bronzed.
 1. If the top is pale, switch to grill 3 minutes.
 
 ### Stage 6 - Serve
@@ -74,7 +74,7 @@ A Friday-lunch or family-dinner Jordanian tray bake: spiced lamb-and-beef mince 
 
 ## Notes
 - **Pomegranate molasses is the Jordan signature:** Gives the sauce the deep sweet-sour note. Don't substitute.
-- **Pre-fry the potato:** Skipping this step gives raw potato - the kafta cooks faster than potato in the same tray. Par-cooking solves it.
+- **Pre-fry the potato:** Skipping this step gives raw potato, the kafta cooks faster than potato in the same tray. Par-cooking solves it.
 - **Layering matters:** Potato on the bottom soaks up the kafta juices; tomato on top stays bright.
 
 ## Storage

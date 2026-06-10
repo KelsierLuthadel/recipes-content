@@ -91,8 +91,8 @@ Myanmar's national breakfast, the rice-noodle soup that streetcorner stalls in e
 ## Notes
 - **Banana stem:** Sold at SE Asian grocers (sometimes pre-sliced in brine). Hearts of palm is the closest sub; shredded white cabbage is fine if you must.
 - **Crispy split peas:** Sold ready-to-eat as pea crackers at SE Asian grocers. To make: deep-fry soaked-then-drained yellow split peas at 170°C for 4-5 minutes until golden and crisp.
-- **Chickpea-flour body:** Mohinga should be thicker than typical broth - almost soupy-stew. Don't skip the slurry.
+- **Chickpea-flour body:** Mohinga should be thicker than typical broth, almost soupy-stew. Don't skip the slurry.
 
 ## Storage
-- Broth keeps 3 days refrigerated; reheat gently. Cooked noodles don't keep - boil fresh.
+- Broth keeps 3 days refrigerated; reheat gently. Cooked noodles don't keep, boil fresh.
 - Freezes 2 months.

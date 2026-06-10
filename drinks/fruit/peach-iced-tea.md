@@ -15,7 +15,7 @@ Bottled peach iced tea has the right idea but the execution is mostly sugar syru
 
 ## Ingredients
 
-- 6 black tea bags (or 4 tablespoons loose black tea - Ceylon, English Breakfast, or a similar everyday black)
+- 6 black tea bags (or 4 tablespoons loose black tea, Ceylon, English Breakfast, or a similar everyday black)
 - 4 ripe peaches (white or yellow flesh; should yield to gentle thumb pressure)
 - A 5 cm strip of unwaxed lemon peel
 - 1.5 litres water
@@ -36,11 +36,11 @@ Bottled peach iced tea has the right idea but the execution is mostly sugar syru
 ### Stage 2 - Brew
 1. Bring 500 ml of the water to a hard rolling boil.
 1. Place the tea bags (or loose tea in a sieve), 3 chopped peaches, lemon peel and pinch of salt into a heatproof jug.
-1. Pour the boiling water over and let steep 5 minutes - strong, dark brew, with the peaches releasing their juices into the hot water.
+1. Pour the boiling water over and let steep 5 minutes, strong, dark brew, with the peaches releasing their juices into the hot water.
 
 ### Stage 3 - Sweeten and combine
 1. Remove the tea bags (squeeze gently to extract).
-1. While the brew is still hot, stir in 80 g of sugar until fully dissolved. Taste - peach iced tea is properly sweet but not as sweet as full Southern sweet tea; start at 80 g for 1.5 litres and adjust up to 120 g.
+1. While the brew is still hot, stir in 80 g of sugar until fully dissolved. Taste, peach iced tea is properly sweet but not as sweet as full Southern sweet tea; start at 80 g for 1.5 litres and adjust up to 120 g.
 1. Add the remaining 1 litre of cold water to the jug; stir in the lemon juice.
 
 ### Stage 4 - Strain and chill

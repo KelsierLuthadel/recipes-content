@@ -117,7 +117,7 @@ Mondongo is one of Colombia's most beloved soup-stews and the traditional Antioq
 ## Notes
 - **Clean the tripe properly:** lemon-salt scrub, multiple rinses, then 90-minute pre-cook. Skipping gives off-flavours.
 - **Multiple meats are traditional:** tripe + beef ribs + chorizo for proper depth.
-- **The banana topping:** the Colombian touch. Sounds odd, works beautifully - sweet creamy banana against the savoury soup.
+- **The banana topping:** the Colombian touch. Sounds odd, works beautifully, sweet creamy banana against the savoury soup.
 - **Don't lift the lid much:** the long simmer needs covered conditions.
 - **Make a day ahead:** mondongo is famously better the next day. Make ahead and reheat.
 

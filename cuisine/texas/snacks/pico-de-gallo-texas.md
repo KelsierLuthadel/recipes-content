@@ -2,7 +2,7 @@
 
 ![Texas Pico de Gallo](resources/pico-de-gallo-texas.jpg)
 
-*Texas's fresh salsa: finely diced tomato, white onion, fresh jalapeño, fresh coriander, lime juice and salt - chunky, fresh, made in 5 minutes. The Texan everyday salsa, on tacos, on eggs, on chips, on grilled meat, on everything.*
+*Texas's fresh salsa: finely diced tomato, white onion, fresh jalapeño, fresh coriander, lime juice and salt, chunky, fresh, made in 5 minutes. The Texan everyday salsa, on tacos, on eggs, on chips, on grilled meat, on everything.*
 
 **Serves:** Makes about 500 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Pico de gallo (or "salsa fresca" or simply "pico") is the traditional Tex-Mex fresh salsa and a fixture of every Texas restaurant table: finely diced ripe tomatoes, finely chopped white onion, finely chopped fresh jalapeño, finely chopped fresh coriander, fresh lime juice and salt - mixed and rested briefly. Distinct from blended salsa roja (which is cooked), pico de gallo is raw and chunky.
+Pico de gallo (or "salsa fresca" or simply "pico") is the traditional Tex-Mex fresh salsa and a fixture of every Texas restaurant table: finely diced ripe tomatoes, finely chopped white onion, finely chopped fresh jalapeño, finely chopped fresh coriander, fresh lime juice and salt, mixed and rested briefly. Distinct from blended salsa roja (which is cooked), pico de gallo is raw and chunky.
 
 ## Ingredients
 

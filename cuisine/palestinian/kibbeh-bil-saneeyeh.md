@@ -16,7 +16,7 @@ The Friday-dinner kibbeh of Palestinian homes, a tray-baked celebration cousin o
 ## Ingredients
 
 ### Kibbeh dough
-- 200 g fine bulgur (#1 grade - labelled "fine" or "very fine")
+- 200 g fine bulgur (#1 grade, labelled "fine" or "very fine")
 - 250 ml cold water (for soaking)
 - 400 g lean lamb (or beef, leg meat, twice-minced from the butcher OR processed at home)
 - 1 onion (small, rough chunks, for the blender)
@@ -30,7 +30,7 @@ The Friday-dinner kibbeh of Palestinian homes, a tray-baked celebration cousin o
 ### Filling
 - 3 tablespoons olive oil
 - 1 onion (large, finely diced)
-- 400 g fattier lamb mince (around 20% fat - keeps the filling juicy)
+- 400 g fattier lamb mince (around 20% fat, keeps the filling juicy)
 - 1 ½ teaspoons [Baharat](../../base-ingredients/spices/baharat.md)
 - 1 teaspoon ground allspice
 - ½ teaspoon ground cinnamon
@@ -41,7 +41,7 @@ The Friday-dinner kibbeh of Palestinian homes, a tray-baked celebration cousin o
 
 ### To bake
 - 2 tablespoons olive oil (for the tin and to drizzle)
-- 30 g butter (small pieces dotted on top - optional)
+- 30 g butter (small pieces dotted on top, optional)
 
 ### To serve
 - Greek yogurt (or thick labneh) with a sprinkle of dried mint
@@ -77,7 +77,7 @@ The Friday-dinner kibbeh of Palestinian homes, a tray-baked celebration cousin o
 1. Wet your hands; smooth the top; seal the edges.
 
 ### Stage 5 - Score
-1. With a sharp knife, score the top into diamonds (or squares) - cut about 5 mm deep, all the way through the top layer but not into the filling.
+1. With a sharp knife, score the top into diamonds (or squares): cut about 5 mm deep, all the way through the top layer but not into the filling.
 1. Drizzle 2 tablespoons of olive oil over the top.
 1. Dot the butter (if using) at intersections.
 

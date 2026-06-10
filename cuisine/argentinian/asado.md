@@ -11,14 +11,14 @@
 **Cook Time:** 3-4 hours (slow open-fire grilling)
 
 ## Overview
-Asado is Argentina's most sacred food ritual - far more than a barbecue, it's the Sunday social anchor for every Argentine family. The construction is built around the parrilla (a flat metal grate that sits over slow-burning embers, not flames) or the cruz (a wooden cross on which whole lambs and goats are tied and slow-cooked beside the fire). The hierarchy of cuts: chorizo and morcilla go on first (eaten as choripán starters with chimichurri); then offal - molleja (sweetbreads), chinchulines (small intestine), riñones (kidneys); then the beef cuts - asado de tira (short ribs cross-cut), vacío (flank), entraña (skirt), bife de chorizo (sirloin), tira de asado (rack of ribs). Salt only - no marinades, no rubs; Argentine asado is about the meat, the fire and the time. The asador (the host who grills) is responsible for the fire and is the social centre. Sides: provoleta, salsa criolla, ensalada de tomate, simple lettuce salad, bread. Chimichurri is the only condiment; Malbec (Mendoza) is the drink; 4-hour conversations are mandatory.
+Asado is Argentina's most sacred food ritual, far more than a barbecue, it's the Sunday social anchor for every Argentine family. The construction is built around the parrilla (a flat metal grate that sits over slow-burning embers, not flames) or the cruz (a wooden cross on which whole lambs and goats are tied and slow-cooked beside the fire). The hierarchy of cuts: chorizo and morcilla go on first (eaten as choripán starters with chimichurri); then offal, molleja (sweetbreads), chinchulines (small intestine), riñones (kidneys); then the beef cuts, asado de tira (short ribs cross-cut), vacío (flank), entraña (skirt), bife de chorizo (sirloin), tira de asado (rack of ribs). Salt only, no marinades, no rubs; Argentine asado is about the meat, the fire and the time. The asador (the host who grills) is responsible for the fire and is the social centre. Sides: provoleta, salsa criolla, ensalada de tomate, simple lettuce salad, bread. Chimichurri is the only condiment; Malbec (Mendoza) is the drink; 4-hour conversations are mandatory.
 
 ## Ingredients
 
 ### The meats (for 8-10)
-- 1.5 kg asado de tira (short ribs, cross-cut into 3 cm strips) - the traditional first beef cut
-- 1 kg vacío (flank steak, with the fat cap on) - the asador's favourite
-- 800 g bife de chorizo (sirloin steak) OR entraña (skirt) - premium cuts
+- 1.5 kg asado de tira (short ribs, cross-cut into 3 cm strips): the traditional first beef cut
+- 1 kg vacío (flank steak, with the fat cap on): the asador's favourite
+- 800 g bife de chorizo (sirloin steak) OR entraña (skirt): premium cuts
 - 6 chorizo sausages (Argentine; sweet or spicy)
 - 6 morcilla (Argentine blood sausages with rice and spices)
 - 400 g molleja (sweetbreads, optional but traditional)
@@ -57,7 +57,7 @@ Asado is Argentina's most sacred food ritual - far more than a barbecue, it's th
 
 ### Stage 2 - Season the meats
 1. Pat all meats dry.
-2. Salt generously with coarse rock salt just before placing on the grill (don't salt hours ahead - draws moisture).
+2. Salt generously with coarse rock salt just before placing on the grill (don't salt hours ahead, draws moisture).
 
 ### Stage 3 - Start with chorizo and morcilla
 1. Place 6 chorizos and 6 morcillas on the cooler side of the parrilla.
@@ -101,11 +101,11 @@ Asado is Argentina's most sacred food ritual - far more than a barbecue, it's th
 
 ## Variations
 **Asado al asador (cross-grilled):** whole lamb, goat, or pig tied to a wooden cross and slow-cooked beside the fire for 4-6 hours. The Patagonian variant.
-**Smaller home asado:** a small parrilla on a balcony - 2 cuts of beef, chorizo, morcilla, and provoleta - feeds 4.
+**Smaller home asado:** a small parrilla on a balcony - 2 cuts of beef, chorizo, morcilla, and provoleta, feeds 4.
 **Charcoal-only asado:** less traditional but works (uses pure charcoal instead of wood); easier in apartment settings.
-**Asado para vegetarianos:** the modern Argentine vegetarian variant - grilled portobello, halloumi, peppers, courgette; chimichurri the same.
-**Patagonian lamb asado:** whole lamb cross-grilled for 6 hours - the Patagonian ritual.
-**Bife de chorizo a la milanesa:** the milanesa interpretation - schnitzel-style, breaded and fried.
+**Asado para vegetarianos:** the modern Argentine vegetarian variant, grilled portobello, halloumi, peppers, courgette; chimichurri the same.
+**Patagonian lamb asado:** whole lamb cross-grilled for 6 hours, the Patagonian ritual.
+**Bife de chorizo a la milanesa:** the milanesa interpretation, schnitzel-style, breaded and fried.
 
 ## Serving
 Every Sunday afternoon in every Argentine home (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Patagonian estancia (ranch) · at a Mendoza wine-country lunch · at an Argentine Independence Day celebration (9 July) · at an Argentine wedding reception · at home with Malbec and friends.

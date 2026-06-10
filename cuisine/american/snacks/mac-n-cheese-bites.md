@@ -56,7 +56,7 @@ The American bar-snack fritter: cold, set mac-and-cheese cubed, dredged in seaso
 
 ### Stage 3 - Chill
 1. Tip into a parchment-lined 20 × 20 cm tin; level the surface with a spatula.
-1. Cover; chill at least 4 hours (overnight is better - the mac firms enough to cut clean).
+1. Cover; chill at least 4 hours (overnight is better, the mac firms enough to cut clean).
 
 ### Stage 4 - Cut
 1. Lift out using the parchment.

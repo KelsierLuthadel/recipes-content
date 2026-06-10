@@ -8,15 +8,15 @@
 
 Middle Eastern kebabs split into two big families:
 
-1. **Kofta** - minced meat shaped onto skewers or into patties. Lamb, beef, or a mix. Spiced with onion, parsley, allspice, cinnamon, sumac. The fingerprint-pinch shape is traditional.
+1. **Kofta**: minced meat shaped onto skewers or into patties. Lamb, beef, or a mix. Spiced with onion, parsley, allspice, cinnamon, sumac. The fingerprint-pinch shape is traditional.
 
-2. **Shish** - cubed meat threaded onto skewers and grilled. Usually lamb (chunks from the shoulder) or chicken (shish taouk).
+2. **Shish**: cubed meat threaded onto skewers and grilled. Usually lamb (chunks from the shoulder) or chicken (shish taouk).
 
 Plus the broader kebab family:
-- **Shawarma** - stacked meat on a vertical rotating spit; shaved off in thin slices.
-- **Kafta** - the Lebanese name for kofta.
-- **Kibbeh** - minced meat + bulgur shaped into footballs, fried or grilled. A separate family but related.
-- **Shish taouk** - marinated chicken cubes, grilled on a skewer.
+- **Shawarma**: stacked meat on a vertical rotating spit; shaved off in thin slices.
+- **Kafta**: the Lebanese name for kofta.
+- **Kibbeh**: minced meat + bulgur shaped into footballs, fried or grilled. A separate family but related.
+- **Shish taouk**: marinated chicken cubes, grilled on a skewer.
 
 This page covers the technique for kofta, shish (lamb), and shish taouk (chicken). The kibbeh family deserves its own deep dive; the shawarma is more restaurant than home.
 
@@ -25,7 +25,7 @@ This page covers the technique for kofta, shish (lamb), and shish taouk (chicken
 The everyday Middle Eastern minced-meat kebab.
 
 ### Recipe (8 kebabs)
-- 500 g minced lamb (20-25% fat - for proper kofta texture, don't use lean lamb)
+- 500 g minced lamb (20-25% fat, for proper kofta texture, don't use lean lamb)
 - 250 g minced beef (optional; gives stability; some cooks use 100% lamb)
 - 1 large onion (very finely grated; squeeze excess liquid)
 - 1 large bunch of parsley (finely chopped)
@@ -40,16 +40,16 @@ The everyday Middle Eastern minced-meat kebab.
 
 ### Method
 1. **Combine** the minced meat, grated onion (squeezed dry), parsley, garlic, salt, and all the spices in a bowl.
-2. **Knead for 5 minutes** - yes, knead. The kneading distributes the spices and helps the kofta stick to the skewer. The mixture becomes slightly tacky and homogeneous.
-3. **Refrigerate** for 30 minutes - chilled mixture is easier to shape.
+2. **Knead for 5 minutes**: yes, knead. The kneading distributes the spices and helps the kofta stick to the skewer. The mixture becomes slightly tacky and homogeneous.
+3. **Refrigerate** for 30 minutes, chilled mixture is easier to shape.
 4. **Soak skewers** if using bamboo (30 minutes in water to prevent burning). Flat metal skewers are traditional (they keep the kofta from rotating).
 5. **Shape**: take 1/8 of the mixture (about 90 g). Press it firmly onto a skewer, working with damp hands. Shape into a long sausage along the skewer, about 15-18 cm long and 3-4 cm thick. Make small pinches every 3 cm (the traditional fingerprint pattern that helps the kofta stay attached during cooking).
 6. **Brush** with olive oil before grilling.
 
 ### Grilling
-- **Charcoal grill** - the traditional method. Build the coals to medium-high heat (you can hold your hand 15 cm above the grate for 4-5 seconds).
-- **Gas grill** - medium-high.
-- **Cast-iron pan or grill pan** - works at home; not as smoky but the same technique.
+- **Charcoal grill**: the traditional method. Build the coals to medium-high heat (you can hold your hand 15 cm above the grate for 4-5 seconds).
+- **Gas grill**: medium-high.
+- **Cast-iron pan or grill pan**: works at home; not as smoky but the same technique.
 
 Grill the kofta 3-4 minutes per side, turning gently, for 6-8 minutes total. The kofta should be:
 - Charred on the outside
@@ -66,7 +66,7 @@ Grill the kofta 3-4 minutes per side, turning gently, for 6-8 minutes total. The
 Cubed lamb shoulder, marinated, skewered, grilled.
 
 ### Recipe (4 kebabs, serves 4)
-- 1 kg lamb shoulder (boned and trimmed; cubed into 3-4 cm pieces - about 800 g of cubed meat)
+- 1 kg lamb shoulder (boned and trimmed; cubed into 3-4 cm pieces, about 800 g of cubed meat)
 - 1 large onion (sliced thin)
 - 4 garlic cloves (crushed)
 - 4 tablespoons olive oil
@@ -93,10 +93,10 @@ Cubed lamb shoulder, marinated, skewered, grilled.
 - Aromatic (allspice + cumin + Aleppo)
 
 ### Common mistakes
-- Using lean cuts of lamb (leg or saddle) - kebab needs fat for juiciness. Shoulder is traditional.
-- Marinating in citrus alone (no yogurt or oil) - the citrus toughens. Yogurt + oil tenderises.
-- Over-grilling - kebab should be medium, not well-done. Loses juiciness fast.
-- Skewers too crowded - meat steams instead of browning. Keep some space between cubes.
+- Using lean cuts of lamb (leg or saddle): kebab needs fat for juiciness. Shoulder is traditional.
+- Marinating in citrus alone (no yogurt or oil): the citrus toughens. Yogurt + oil tenderises.
+- Over-grilling, kebab should be medium, not well-done. Loses juiciness fast.
+- Skewers too crowded, meat steams instead of browning. Keep some space between cubes.
 
 ## Shish taouk (Lebanese chicken kebab)
 
@@ -144,53 +144,53 @@ This is the Lebanese / Syrian / Jordanian restaurant standard. At home, scale it
 
 ## Shawarma (a brief note)
 
-Shawarma is a vertical rotisserie - meat (lamb, chicken, or beef) stacked on a vertical spit and slowly roasted, then shaved off in thin slices as needed. At home, you can approximate shawarma by:
+Shawarma is a vertical rotisserie, meat (lamb, chicken, or beef) stacked on a vertical spit and slowly roasted, then shaved off in thin slices as needed. At home, you can approximate shawarma by:
 
 1. **Marinating** thinly sliced lamb shoulder or chicken thigh in the same shish marinade.
 2. **Layering** the slices on a vertical or horizontal spit (some home cooks use a rotisserie attachment; others use a deep dish in the oven).
 3. **Roasting** at low-medium heat (160°C) for 90-120 minutes.
 4. **Shaving** thin slices off the outside as they brown.
 
-Restaurant shawarma is hard to replicate at home - the slow vertical rotisserie with consistent heat is genuinely different. But a home-roasted shawarma is still delicious.
+Restaurant shawarma is hard to replicate at home, the slow vertical rotisserie with consistent heat is genuinely different. But a home-roasted shawarma is still delicious.
 
 ## Kafta (Lebanese kofta variant)
 
 The Lebanese name for kofta. Essentially the same recipe and technique as covered above, but Lebanese cuisine has specific variants:
 
-- **Kafta meshwiyeh** - kofta grilled on skewers. Same as the traditional kofta above.
-- **Kafta bil sanieh** - kofta layered with sliced potatoes and tomatoes, baked in the oven with a tomato-pomegranate-molasses sauce. A traditional Lebanese tray dish.
-- **Kafta b' kishk** - kofta in a kishk (fermented bulgur-and-yogurt) sauce. Mountain Lebanon specialty.
+- **Kafta meshwiyeh**: kofta grilled on skewers. Same as the traditional kofta above.
+- **Kafta bil sanieh**: kofta layered with sliced potatoes and tomatoes, baked in the oven with a tomato-pomegranate-molasses sauce. A traditional Lebanese tray dish.
+- **Kafta b' kishk**: kofta in a kishk (fermented bulgur-and-yogurt) sauce. Mountain Lebanon specialty.
 
 ## Other kebab traditions
 
 ### Persian / Iranian kebabs
-- **Joojeh kabab** - saffron-marinated chicken.
-- **Kabab koobideh** - Iranian minced-lamb kebab; similar to kofta but with a distinct shape (pressed flat, more delicate).
-- **Kabab barg** - thin filet mignon strips, very tender.
-- **Soltani** - a "royal" mixed grill: one kabab koobideh + one kabab barg.
+- **Joojeh kabab**: saffron-marinated chicken.
+- **Kabab koobideh**: Iranian minced-lamb kebab; similar to kofta but with a distinct shape (pressed flat, more delicate).
+- **Kabab barg**: thin filet mignon strips, very tender.
+- **Soltani**: a "royal" mixed grill: one kabab koobideh + one kabab barg.
 
 ### Turkish kebabs
-- **Adana kebab** - Turkish minced-meat kebab with chilli; spicier than Lebanese kofta. Traditional Turkish kebab.
-- **Urfa kebab** - minced-meat kebab from southeastern Turkey; less spicy than Adana.
-- **Iskender kebab** - döner meat on flatbread with tomato sauce and yogurt. Bursa-region.
-- **Şiş kebab** - cubed lamb skewers; Turkish equivalent of Lebanese shish.
+- **Adana kebab**: Turkish minced-meat kebab with chilli; spicier than Lebanese kofta. Traditional Turkish kebab.
+- **Urfa kebab**: minced-meat kebab from southeastern Turkey; less spicy than Adana.
+- **Iskender kebab**: döner meat on flatbread with tomato sauce and yogurt. Bursa-region.
+- **Şiş kebab**: cubed lamb skewers; Turkish equivalent of Lebanese shish.
 
 ### Egyptian kebabs
-- **Kufta meshwi** - Egyptian kofta, often with more cumin and parsley.
-- **Hawawshi** - minced meat in pita, baked. Egyptian street food.
+- **Kufta meshwi**: Egyptian kofta, often with more cumin and parsley.
+- **Hawawshi**: minced meat in pita, baked. Egyptian street food.
 
 ### Jordanian / Palestinian
-- **Musakhan** - chicken slow-roasted with sumac and onions, served on taboon bread. Not a kebab but the traditional Palestinian dish.
+- **Musakhan**: chicken slow-roasted with sumac and onions, served on taboon bread. Not a kebab but the traditional Palestinian dish.
 
 ## Charcoal grill technique
 
 The traditional Middle Eastern grilling:
 
-1. **Build a coal fire** - natural lump charcoal is best. Light 60-90 minutes before grilling.
-2. **Wait for hot embers** - the coals should be glowing white-grey on the outside with red-orange beneath. No flames.
+1. **Build a coal fire**: natural lump charcoal is best. Light 60-90 minutes before grilling.
+2. **Wait for hot embers**: the coals should be glowing white-grey on the outside with red-orange beneath. No flames.
 3. **Spread coals evenly** under the grilling area. Aim for 4-5 cm thickness of coal.
-4. **Test the heat** - hold your hand 15 cm above the grate. Should be uncomfortable after 4-5 seconds. That's medium-high.
-5. **Grill the kebabs** - direct heat, 3-4 minutes per side. Turn ONCE only (don't keep flipping).
+4. **Test the heat**: hold your hand 15 cm above the grate. Should be uncomfortable after 4-5 seconds. That's medium-high.
+5. **Grill the kebabs**: direct heat, 3-4 minutes per side. Turn ONCE only (don't keep flipping).
 6. **For longer-cooking items** (lamb on the bone, whole chicken), move to cooler areas of the grill or use indirect heat.
 
 A charcoal-grilled kebab tastes different from a gas-grilled or pan-grilled one. The smoke is part of the dish. If you can grill outdoors, do.
@@ -208,9 +208,9 @@ For 4-6 people:
 
 ## Sourcing
 
-- **Lamb shoulder** - from a good butcher. Get them to bone it and trim it for you (or do it yourself). The cubes should be from the shoulder, not the leg.
-- **Chicken thighs** - boneless, skinless. From any decent butcher.
-- **Skewers** - flat metal skewers from a Middle Eastern shop (better than bamboo for kebab work).
-- **Charcoal** - natural lump charcoal (not briquettes). British Charcoal Company or any specialty supplier.
+- **Lamb shoulder**: from a good butcher. Get them to bone it and trim it for you (or do it yourself). The cubes should be from the shoulder, not the leg.
+- **Chicken thighs**: boneless, skinless. From any decent butcher.
+- **Skewers**: flat metal skewers from a Middle Eastern shop (better than bamboo for kebab work).
+- **Charcoal**: natural lump charcoal (not briquettes). British Charcoal Company or any specialty supplier.
 
 The investment in good meat + good skewers + good charcoal turns home kebab from "OK" to "restaurant-level". Worth doing.

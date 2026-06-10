@@ -20,7 +20,7 @@ Chicken Clemenceau is the New Orleans French Quarter dish named for the French p
 - 3 tablespoons unsalted butter (split)
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper
-- 600 g floury potatoes (peeled, cut into 1 cm dice - brunoise)
+- 600 g floury potatoes (peeled, cut into 1 cm dice, brunoise)
 - 250 g cremini (or button mushrooms, quartered)
 - 200 g frozen petits pois
 - 6 garlic cloves (crushed)

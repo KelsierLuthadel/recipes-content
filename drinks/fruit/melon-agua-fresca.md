@@ -2,7 +2,7 @@
 
 ![Melon Agua Fresca](resources/melon-agua-fresca.jpg)
 
-*Cool ripe cantaloupe (or honeydew) blended with cold water, a touch of lime and a small spoon of honey, strained through a sieve into a tall jug, served over ice with mint. Pale-coral or pale-green, faintly sweet, deeply refreshing - the Mexican summer drink that doesn't depend on hibiscus or tamarind.*
+*Cool ripe cantaloupe (or honeydew) blended with cold water, a touch of lime and a small spoon of honey, strained through a sieve into a tall jug, served over ice with mint. Pale-coral or pale-green, faintly sweet, deeply refreshing, the Mexican summer drink that doesn't depend on hibiscus or tamarind.*
 
 **Serves:** 6 tall glasses (makes 1.5 litres)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Aguas frescas ("fresh waters") are the everyday Mexican fruit drinks - fruit blended with water, sweetened, strained, served cold. Where horchata uses rice and cinnamon, jamaica uses hibiscus, and tamarindo uses tamarind pods, melon agua fresca uses fresh melon. Cantaloupe gives a pale coral colour and a faintly musky-sweet flavour; honeydew gives a pale green colour and a cleaner, lighter sweetness; watermelon (with its own recipe in this section) is its own drink. The technique is the same as horchata: blend with water and sweetener, strain, chill, serve over ice. The drink is lighter than juice - the strain dilutes the fruit and lets the water do half the work. Common in Mexican taquerías as one of the daily aguas, sold in glass barrels alongside its more famous siblings.
+Aguas frescas ("fresh waters") are the everyday Mexican fruit drinks, fruit blended with water, sweetened, strained, served cold. Where horchata uses rice and cinnamon, jamaica uses hibiscus, and tamarindo uses tamarind pods, melon agua fresca uses fresh melon. Cantaloupe gives a pale coral colour and a faintly musky-sweet flavour; honeydew gives a pale green colour and a cleaner, lighter sweetness; watermelon (with its own recipe in this section) is its own drink. The technique is the same as horchata: blend with water and sweetener, strain, chill, serve over ice. The drink is lighter than juice, the strain dilutes the fruit and lets the water do half the work. Common in Mexican taquerías as one of the daily aguas, sold in glass barrels alongside its more famous siblings.
 
 ## Ingredients
 
@@ -68,4 +68,4 @@ Aguas frescas ("fresh waters") are the everyday Mexican fruit drinks - fruit ble
 
 ## Storage
 - Refrigerate up to 2 days in a sealed jug. After day 2 the melon flavour fades and the drink develops a slightly off taste.
-- Shake or stir well before pouring - the melon pulp settles in unstrained versions.
+- Shake or stir well before pouring, the melon pulp settles in unstrained versions.

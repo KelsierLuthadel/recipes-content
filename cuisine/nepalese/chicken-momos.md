@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Momos came south from Tibet centuries ago and have since become as Nepali as anything on the menu - found in every street stall, every restaurant, every household kitchen. They are first cousins to Chinese jiaozi and Japanese gyoza but with a recognisable Nepali fingerprint: more aromatic (ginger, coriander, sometimes a touch of timur/Sichuan pepper), often served with a tomato-and-sesame chutney that is itself one of the more interesting dipping sauces in Asia.
+Momos came south from Tibet centuries ago and have since become as Nepali as anything on the menu, found in every street stall, every restaurant, every household kitchen. They are first cousins to Chinese jiaozi and Japanese gyoza but with a recognisable Nepali fingerprint: more aromatic (ginger, coriander, sometimes a touch of timur/Sichuan pepper), often served with a tomato-and-sesame chutney that is itself one of the more interesting dipping sauces in Asia.
 
 Three cooking methods are common: **steamed** (mo:mo, the classic), **fried** (kothey: pan-fried base for crispness, then steamed to finish), and **deep-fried** (less traditional but on every menu). This recipe gives the steamed version. The filling and dough are identical for all three; only the final cooking changes.
 

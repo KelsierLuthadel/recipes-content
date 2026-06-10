@@ -54,7 +54,7 @@ Beef stroganoff started life as a 19th-century Russian court dish and somehow be
 
 ### Stage 4 - Combine
 1. Return the beef and any juices on the plate; stir through gently.
-1. Heat for 30 seconds, just to warm - don't cook the beef further.
+1. Heat for 30 seconds, just to warm, don't cook the beef further.
 1. Stir in most of the parsley; squeeze in a little lemon juice.
 1. Taste; season.
 

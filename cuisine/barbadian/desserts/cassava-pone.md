@@ -16,7 +16,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 ## Ingredients
 
 ### The pone base
-- 600 g fresh cassava, peeled and finely grated (squeeze out and discard the watery liquid) - OR 500 g frozen grated cassava, defrosted, drained
+- 600 g fresh cassava, peeled and finely grated (squeeze out and discard the watery liquid): OR 500 g frozen grated cassava, defrosted, drained
 - 300 g fresh sweet potato (orange-fleshed), peeled and finely grated
 - 200 g fresh grated coconut (or 150 g unsweetened desiccated coconut + 50 ml coconut milk for moisture)
 - 100 g pumpkin OR butternut squash, peeled and finely grated (optional but traditional)
@@ -61,7 +61,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 1. Sprinkle the brown sugar over the grated mixture.
 2. Add the melted butter, coconut milk, beaten eggs, vanilla, cinnamon, nutmeg, mixed spice, salt and lime zest.
 3. Fold in the raisins.
-4. Mix thoroughly - the batter should be thick, wet, and uniformly seasoned.
+4. Mix thoroughly, the batter should be thick, wet, and uniformly seasoned.
 
 ### Stage 4 - Assemble
 1. Heat the oven to 180°C (160°C fan).
@@ -80,7 +80,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 
 ### Stage 6 - Cool fully
 1. Lift the tin out of the oven.
-2. Cool in the tin at room temperature 1 hour (the pone firms as it cools - DO NOT cut warm; the texture will be sloppy).
+2. Cool in the tin at room temperature 1 hour (the pone firms as it cools, DO NOT cut warm; the texture will be sloppy).
 3. For the cleanest cuts, refrigerate at least 1 more hour before cutting.
 
 ### Stage 7 - Cut and serve
@@ -97,13 +97,13 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 - **Lime zest is the Bajan signature:** distinguishes this from a generic Caribbean pone.
 
 ## Variations
-**Pumpkin pone (skip the cassava):** swap all the cassava for grated pumpkin - lighter, more savoury Sunday-tea variant.
+**Pumpkin pone (skip the cassava):** swap all the cassava for grated pumpkin, lighter, more savoury Sunday-tea variant.
 **Corn pone (Native American / Southern American cousin):** swap the cassava for cornmeal; same coconut + sugar + spice base; the African-American Southern variant.
-**Cassava pone with chocolate:** add 100 g of chopped dark chocolate to the batter - the modern Bajan variant.
-**Pone with sultanas and currants:** add 80 g sultanas + 50 g currants (instead of just raisins) - the festive variant.
+**Cassava pone with chocolate:** add 100 g of chopped dark chocolate to the batter, the modern Bajan variant.
+**Pone with sultanas and currants:** add 80 g sultanas + 50 g currants (instead of just raisins): the festive variant.
 **Vegan cassava pone:** swap eggs for 4 tablespoons aquafaba + 2 tablespoons milled flax + 2 tablespoons water; swap butter for coconut oil; the dish is essentially vegan otherwise.
-**Mini cassava pones (cupcake-style):** divide the batter into a 12-cup muffin tin; bake 35-40 minutes - the canapé / individual portions.
-**Sweeter pone (modern):** add 50 g sugar - for those who find the traditional version not sweet enough.
+**Mini cassava pones (cupcake-style):** divide the batter into a 12-cup muffin tin; bake 35-40 minutes, the canapé / individual portions.
+**Sweeter pone (modern):** add 50 g sugar, for those who find the traditional version not sweet enough.
 
 ## Serving
 At a Bajan family Sunday tea (the traditional setting) · at a Bajan church fundraiser bake sale · at a Bajan Christmas tea table · at a Caribbean-themed afternoon tea · at a Bajan Independence Day buffet · at home as the traditional Caribbean tea-cake · paired with strong Bajan tea, mauby, cold cocoa, or vanilla ice cream.
@@ -112,6 +112,6 @@ At a Bajan family Sunday tea (the traditional setting) · at a Bajan church fund
 - Stores 5 days at room temperature in an airtight container.
 - Refrigerates 1 week (the texture firms further in the fridge; bring to room temperature for the best texture).
 - Freezes 3 months wrapped tight; defrost at room temperature for 2 hours.
-- Improves with a day of resting - the spices marry and the texture firms.
+- Improves with a day of resting, the spices marry and the texture firms.
 - Day-old cassava pone toasted lightly in a hot pan with butter is the Bajan day-after breakfast.
 - The raw batter can be made 12 hours ahead and refrigerated; bring to room temperature for 30 minutes before baking.

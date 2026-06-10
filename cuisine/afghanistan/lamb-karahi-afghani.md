@@ -58,7 +58,7 @@ This is the Afghan take on a karahi, slow-cooked rather than the fast Pakistani 
 1. Scatter fresh coriander. Eat over plain rice or with hot naan.
 
 ## Notes
-- **Fat returns:** Like other Afghan curries (and BIR si byan), the signal that the dish is ready is the oil rising to the surface. Don't skim - it's flavour.
+- **Fat returns:** Like other Afghan curries (and BIR si byan), the signal that the dish is ready is the oil rising to the surface. Don't skim, it's flavour.
 - **Whole spice freshly ground:** Buying ground cumin and coriander gives a dusty curry. Toasting whole and grinding adds a depth you can't fake.
 - **Bone-in for stock:** If using boneless lamb, add 2 lamb bones to the braise (remove before serving) for body.
 

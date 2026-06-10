@@ -66,7 +66,7 @@ The Philadelphia-Bavarian soft pretzel: a large knotted bread with a chewy malty
 1. Eat warm with yellow mustard, a beer cheese dip, or just plain.
 
 ## Notes
-- **Baking soda bath:** This is the secret of pretzel colour and flavour. Don't skip it. Industrial bakeries use lye (more aggressive); home bakers use baking soda - close enough.
+- **Baking soda bath:** This is the secret of pretzel colour and flavour. Don't skip it. Industrial bakeries use lye (more aggressive); home bakers use baking soda, close enough.
 - **Pretzel salt:** Big, flaky, non-melting. Coarse sea salt is the substitute. Fine salt dissolves into the surface; doesn't give the crystal contrast.
 - **Eat warm:** Pretzels are 50% better the moment they come out. Day-old pretzels turn into bread.
 

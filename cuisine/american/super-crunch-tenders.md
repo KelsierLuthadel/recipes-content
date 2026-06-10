@@ -45,12 +45,12 @@ A competition-winning fried tender from chef Jessica Fulks where everything is b
 
 ### Stage 2 - Clumpy flour
 1. Combine the flour with the salt, pepper, garlic powder, cayenne, paprika and basil in a shallow bowl.
-1. Drizzle in 2 tablespoons of the marinating liquid (yes, raw marinade); use your fingers to fluff into clumps. Don't fully integrate - leave the clumps.
+1. Drizzle in 2 tablespoons of the marinating liquid (yes, raw marinade); use your fingers to fluff into clumps. Don't fully integrate, leave the clumps.
 
 ### Stage 3 - Fry
 1. Heat the oil in a heavy pot to 175°C / 350°F.
 1. Lift each tender from the marinade; let excess drip.
-1. Press into the clumpy flour, coating thoroughly. Encourage clumps to stick to the surface - they're the texture.
+1. Press into the clumpy flour, coating thoroughly. Encourage clumps to stick to the surface, they're the texture.
 1. Fry 4-5 tenders at a time (don't crowd) 10-12 minutes until they float and the surface is deep gold.
 1. Drain on paper towels.
 

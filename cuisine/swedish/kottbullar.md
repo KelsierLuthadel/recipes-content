@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the home-cooking tradition that runs through every Swedish kitchen from the smörgåsbord of Stockholm restaurants to the canteen at IKEA: small meatballs (about 25 g each, walnut-sized - distinctly smaller than Italian-American polpette) made from a 50/50 mix of ground beef and pork shoulder, bound with breadcrumbs soaked in milk (the panade), finely grated onion, a beaten egg, salt and white pepper, and the traditional Swedish flavour note: a pinch of ground allspice (kryddpeppar) that distinguishes Swedish meatballs from every other European meatball tradition. Rolled by hand into uniform balls, pan-fried in butter till deeply browned on all sides, then served with a brown gravy (gräddsås) made from the pan drippings + butter + flour + beef stock + double cream + a touch of soy sauce, alongside silky mashed potato, lingonberry preserve (lingonsylt - the sweet-tart Nordic cranberry-relative), and a small mound of pressgurka (Swedish pressed cucumber salad in vinegar and dill).
+Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost, the home-cooking tradition that runs through every Swedish kitchen from the smörgåsbord of Stockholm restaurants to the canteen at IKEA: small meatballs (about 25 g each, walnut-sized, distinctly smaller than Italian-American polpette) made from a 50/50 mix of ground beef and pork shoulder, bound with breadcrumbs soaked in milk (the panade), finely grated onion, a beaten egg, salt and white pepper, and the traditional Swedish flavour note: a pinch of ground allspice (kryddpeppar) that distinguishes Swedish meatballs from every other European meatball tradition. Rolled by hand into uniform balls, pan-fried in butter till deeply browned on all sides, then served with a brown gravy (gräddsås) made from the pan drippings + butter + flour + beef stock + double cream + a touch of soy sauce, alongside silky mashed potato, lingonberry preserve (lingonsylt, the sweet-tart Nordic cranberry-relative), and a small mound of pressgurka (Swedish pressed cucumber salad in vinegar and dill).
 
 ## Ingredients
 
@@ -24,7 +24,7 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the
 - 1 large egg (beaten)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground white pepper (or black)
-- 1 teaspoon ground allspice (kryddpeppar - the Swedish traditional seasoning)
+- 1 teaspoon ground allspice (kryddpeppar, the Swedish traditional seasoning)
 - 60 g butter (for frying)
 - 1 tablespoon vegetable oil (added to the butter; raises smoke point)
 
@@ -33,7 +33,7 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the
 - 4 tablespoons plain flour
 - 600 ml beef stock
 - 200 ml double cream
-- 2 tablespoons soy sauce (the Swedish secret - gives umami depth and the right brown colour)
+- 2 tablespoons soy sauce (the Swedish secret, gives umami depth and the right brown colour)
 - 1 teaspoon Dijon mustard (optional, less traditional)
 - 1 tablespoon redcurrant jelly or lingonberry preserve (optional; balances)
 - ½ teaspoon fine sea salt
@@ -41,7 +41,7 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the
 
 ### To serve
 - Mashed potato (silky, with butter and milk)
-- Lingonberry preserve (lingonsylt - from a jar; Felix or IKEA's are traditional)
+- Lingonberry preserve (lingonsylt, from a jar; Felix or IKEA's are traditional)
 - Pressgurka (Swedish cucumber salad: thinly sliced cucumber pressed with salt, then dressed with white vinegar, sugar, and chopped dill)
 - A glass of cold milk OR a small cold lager OR akvavit shots (for a proper Swedish dinner)
 

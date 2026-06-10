@@ -15,11 +15,11 @@ The same technique with no smoke and slightly different aromatics is pancetta. W
 
 **Pork belly.** Skin on or off; both work. A piece weighing 1.5-2 kg gives plenty to slice and freeze. Buy from a butcher if possible; supermarket pork belly works but is often water-injected (the salt cure pulls the water back out, so the result is the same eventually). The belly should be fresh, refrigerated, not previously frozen.
 
-**Cure #1.** Sold as pink curing salt, Prague powder #1, Insta Cure #1. Read the bag - it must be specifically cure #1 (6.25% sodium nitrite). Cure #2 is wrong for this product.
+**Cure #1.** Sold as pink curing salt, Prague powder #1, Insta Cure #1. Read the bag, it must be specifically cure #1 (6.25% sodium nitrite). Cure #2 is wrong for this product.
 
 **Salt and sugar.** Any non-iodised salt (kosher, sea, pickling); any sugar (white, brown, maple, honey). Brown sugar is the most common in American bacon; maple is the second most common.
 
-**Black pepper, optional flavourings.** Coarsely cracked. Plus optional bay leaves, juniper berries, garlic, thyme, smoked paprika - any aromatics you like. The cure ratios are fixed; the seasonings are free.
+**Black pepper, optional flavourings.** Coarsely cracked. Plus optional bay leaves, juniper berries, garlic, thyme, smoked paprika, any aromatics you like. The cure ratios are fixed; the seasonings are free.
 
 **Vacuum bag or heavy-duty resealable bag.** Vacuum is best (the cure stays in contact with the meat); resealable bag is acceptable for a 1-week cure.
 
@@ -46,7 +46,7 @@ Scale to whatever weight your belly actually is. A 1.8 kg belly: 45 g salt, 4.5 
 
 1. Weigh the belly. Note the weight.
 2. Calculate the cure for that weight using the percentages above.
-3. Mix the cure thoroughly in a bowl - the cure #1 must be evenly distributed through the salt, sugar and pepper.
+3. Mix the cure thoroughly in a bowl, the cure #1 must be evenly distributed through the salt, sugar and pepper.
 4. Rub the cure all over the belly. Get every surface; the cure works by contact.
 5. Place the belly in a vacuum bag (or a heavy-duty resealable bag with as much air pressed out as possible). If using a resealable bag, double-bag in case of leaks.
 6. Refrigerate.
@@ -68,13 +68,13 @@ After 7 days, the cure has penetrated evenly. A 5-6 cm thick belly is reliably c
 
 **Option A: Smoked bacon.**
 
-Cold-smoke at 25 C or below for 4-6 hours using apple, hickory or oak wood. Then refrigerate overnight and either bake at 90 C until 65 C internal (about 60-90 minutes for a 1.5-2 kg belly) or eat as-is (cold-smoked but not cooked, like commercial cold-smoked salmon - safe because the cure #1 has done its work but the meat must be sliced and cooked before eating).
+Cold-smoke at 25 C or below for 4-6 hours using apple, hickory or oak wood. Then refrigerate overnight and either bake at 90 C until 65 C internal (about 60-90 minutes for a 1.5-2 kg belly) or eat as-is (cold-smoked but not cooked, like commercial cold-smoked salmon, safe because the cure #1 has done its work but the meat must be sliced and cooked before eating).
 
 Most home bacons split the difference: cold-smoke 2-4 hours then continue in the same chamber at warming heat (60-80 C) until 65 C internal. The result is smoked, partially cooked, ready to slice and pan-fry the rest.
 
 **Option B: Baked, not smoked.**
 
-Place the cured belly on a wire rack over a tray. Bake at 90 C until the internal temperature reaches 65 C - about 60-90 minutes for a 1.5-2 kg piece. The slow low oven sets the texture and removes a bit more moisture; the result is not smoked but is still dramatically bacon-y.
+Place the cured belly on a wire rack over a tray. Bake at 90 C until the internal temperature reaches 65 C, about 60-90 minutes for a 1.5-2 kg piece. The slow low oven sets the texture and removes a bit more moisture; the result is not smoked but is still dramatically bacon-y.
 
 **Option C: Pancetta (cured, not smoked, not cooked).**
 
@@ -102,7 +102,7 @@ Use the same cure but with extra herbs (rosemary, fennel seed, bay, more juniper
 
 ## The Time-vs-Salt Tradeoff
 
-If you forget to flip the bag for a couple of days, no real harm done; the cure is forgiving over the short term. If you forget to take it out for two weeks beyond schedule, the bacon will be very salty - you can rescue it by soaking the sliced bacon in cold water for an hour before cooking, but it is easier to set a phone reminder for day 7.
+If you forget to flip the bag for a couple of days, no real harm done; the cure is forgiving over the short term. If you forget to take it out for two weeks beyond schedule, the bacon will be very salty, you can rescue it by soaking the sliced bacon in cold water for an hour before cooking, but it is easier to set a phone reminder for day 7.
 
 ## Where Next
 - [Gravlax](gravlax.md): the same logic applied to salmon. Faster (48 hours) and no nitrite.

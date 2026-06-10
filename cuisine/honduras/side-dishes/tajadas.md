@@ -2,7 +2,7 @@
 
 ![Tajadas](resources/tajadas.jpg)
 
-*Long, thin fried plantain slices - the universal Honduran side. Ripe ones turn sweet and soft; green ones turn crisp and salty. Served under pollo con tajadas, alongside refried beans on the plato típico, packed into baleadas or piled into a bowl as their own snack.*
+*Long, thin fried plantain slices, the universal Honduran side. Ripe ones turn sweet and soft; green ones turn crisp and salty. Served under pollo con tajadas, alongside refried beans on the plato típico, packed into baleadas or piled into a bowl as their own snack.*
 
 **Serves:** 4 as a side
 
@@ -15,7 +15,7 @@ Tajadas are the Honduran fried plantain slices that turn up beside every main, t
 
 ## Ingredients
 
-- 3 plantains (peeled - see Notes; sliced lengthways into 5 mm strips)
+- 3 plantains (peeled, see Notes; sliced lengthways into 5 mm strips)
 - 200 ml vegetable oil (for shallow frying)
 - Salt
 
@@ -39,7 +39,7 @@ Tajadas are the Honduran fried plantain slices that turn up beside every main, t
 
 ## Notes
 - **Peeling plantain:** Top and tail, then score the skin lengthways in 3 places (don't cut into the flesh); peel each strip away. Ripe peels off easily; green needs a paring knife.
-- **Ripe vs green:** Yellow plantain skin with black spots = ripe (sweet, soft). All green skin = green (starchy, crisp). Yellow with no spots = transitional - decide which side you want and adjust.
+- **Ripe vs green:** Yellow plantain skin with black spots = ripe (sweet, soft). All green skin = green (starchy, crisp). Yellow with no spots = transitional, decide which side you want and adjust.
 - **Salt timing:** Salt sticks while the tajadas are hot from the fryer; doesn't stick once they cool.
 
 ## Storage

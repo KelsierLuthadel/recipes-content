@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Peanut punch is the Jamaican high-calorie protein drink - sold from coolers at every food stall, breakfast shop and gym across the island, marketed (jokingly and seriously) as a strength-building, virility-enhancing pour. The build is roasted peanuts blitzed with sweetened condensed milk, evaporated milk, rolled oats (which thicken the drink), vanilla, a pinch of nutmeg and sometimes a splash of stout. Thick, creamy, intensely sweet, properly filling - half a glass leaves you not hungry. Caribbean variants exist in Trinidad and Guyana; the Jamaican version is the most heavily marketed. Often served cold from a chilled glass with crushed ice.
+Peanut punch is the Jamaican high-calorie protein drink, sold from coolers at every food stall, breakfast shop and gym across the island, marketed (jokingly and seriously) as a strength-building, virility-enhancing pour. The build is roasted peanuts blitzed with sweetened condensed milk, evaporated milk, rolled oats (which thicken the drink), vanilla, a pinch of nutmeg and sometimes a splash of stout. Thick, creamy, intensely sweet, properly filling, half a glass leaves you not hungry. Caribbean variants exist in Trinidad and Guyana; the Jamaican version is the most heavily marketed. Often served cold from a chilled glass with crushed ice.
 
 ## Ingredients
 

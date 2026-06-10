@@ -36,7 +36,7 @@ Think of these as North African pigs-in-blankets, only better. All-butter puff p
 1. Heat the oven to 200°C (180°C fan).
 1. Unroll the puff pastry on a lightly floured surface.
 1. Cut each sheet lengthways into 4 strips of equal width (about 6 cm wide).
-1. Then cut each strip in half crossways - you should have 16 strips total, each about 6 cm × 12 cm.
+1. Then cut each strip in half crossways, you should have 16 strips total, each about 6 cm × 12 cm.
 
 ### Stage 3 - Wrap
 1. Place a merguez piece at one short end of a pastry strip.
@@ -61,7 +61,7 @@ Think of these as North African pigs-in-blankets, only better. All-butter puff p
 1. Provide the cool yogurt sauce alongside.
 
 ## Notes
-- **Real merguez, not generic sausage:** merguez has lamb / beef, harissa, cumin, paprika, garlic - its identity is the spice mix. A pork sausage or generic chipolata won't taste right. Buy from a halal butcher or North-African deli.
+- **Real merguez, not generic sausage:** merguez has lamb / beef, harissa, cumin, paprika, garlic, its identity is the spice mix. A pork sausage or generic chipolata won't taste right. Buy from a halal butcher or North-African deli.
 - **One layer of pastry, not two:** these are roll-ups, not parcels. A single wrap with seam underneath is the structure.
 - **Harissa-honey is iconic:** the combination of hot North-African chilli paste and sweet honey is the signature dipping sauce. Don't skip.
 

@@ -24,7 +24,7 @@ Gado-gado is the Indonesian composed salad with peanut sauce, a plate of vegetab
 - 2 tablespoons vegetable oil (for frying tofu)
 - 4 eggs (large, hard-boiled, halved)
 - ½ cucumber (sliced)
-- 50 g prawn crackers (vegetarian; for serving - optional)
+- 50 g prawn crackers (vegetarian; for serving, optional)
 
 ### Peanut sauce
 - 200 g roasted unsalted peanuts
@@ -52,7 +52,7 @@ Gado-gado is the Indonesian composed salad with peanut sauce, a plate of vegetab
 ### Stage 3 - Peanut sauce
 1. Blend the peanuts to a coarse rubble in a food processor; add the garlic, chillies, ginger, kecap manis, soy, tamarind, sugar, lime; pulse to a thick paste.
 1. With the motor running (or stirring by hand), add the hot water gradually until the sauce is thick but pourable.
-1. Taste; adjust lime, sugar, soy and salt - should be balanced sweet/salty/sour with heat.
+1. Taste; adjust lime, sugar, soy and salt, should be balanced sweet/salty/sour with heat.
 
 ### Stage 4 - Assemble
 1. Arrange the potato, beans, cabbage, beansprouts, tofu, eggs and cucumber on a large platter.
@@ -60,9 +60,9 @@ Gado-gado is the Indonesian composed salad with peanut sauce, a plate of vegetab
 1. Top with crushed prawn crackers if using.
 
 ## Notes
-- **Vegetable mix is flexible:** Add carrot, bok choy, fried tempeh, watercress; subtract whatever you don't have. Gado-gado is a household salad - every cook makes it differently.
+- **Vegetable mix is flexible:** Add carrot, bok choy, fried tempeh, watercress; subtract whatever you don't have. Gado-gado is a household salad, every cook makes it differently.
 - **Sauce thickness:** Should be thick enough to coat a spoon. If too thick after sitting, loosen with hot water.
 - **Vegetarian prawn crackers:** Many "prawn crackers" contain shrimp; check labels or use cassava crackers (krupuk) instead.
 
 ## Storage
-- Best fresh. Sauce keeps 1 week refrigerated; thickens in the fridge - loosen with hot water on use. Vegetables don't refresh well; cook fresh.
+- Best fresh. Sauce keeps 1 week refrigerated; thickens in the fridge, loosen with hot water on use. Vegetables don't refresh well; cook fresh.

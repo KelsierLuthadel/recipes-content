@@ -5,7 +5,7 @@
 *The slow-cook in liquid. Greens softened with garlic and stock; whole vegetables in tomato and olive oil; the Provence and southern Italian traditions of melting-tender vegetables that have absorbed the flavour of everything they cooked in.*
 
 ## Overview
-Braising is the third heat method - distinct from roasting (dry high heat) and blanching (brief immersion). Braising cooks vegetables in a small amount of liquid over a long time at moderate heat. The vegetable softens completely; the liquid concentrates; the two flavours marry into something neither would be on its own.
+Braising is the third heat method, distinct from roasting (dry high heat) and blanching (brief immersion). Braising cooks vegetables in a small amount of liquid over a long time at moderate heat. The vegetable softens completely; the liquid concentrates; the two flavours marry into something neither would be on its own.
 
 The technique is what produces the vegetable dishes of the Mediterranean. Slow-braised aubergine with tomato. Whole leeks cooked in olive oil and stock until silky. Cabbage cooked down with butter and stock until almost a puree. The North African and Persian traditions also use the technique heavily (tagines, korma vegetables, slow-cooked chard).
 
@@ -17,7 +17,7 @@ The basic structure of every braise:
 
 1. **Brown the base.** Aromatic vegetables (onions, leeks, fennel, garlic) and sometimes a meat element (pancetta, anchovy) are softened or browned in olive oil at the start. This builds the flavour foundation.
 2. **Add the main vegetable.** Stir to coat in the aromatics and oil.
-3. **Add liquid.** Stock, wine, water, tomato. Just enough to come about halfway up the vegetables - the braise is not a stew (where vegetables are fully submerged) but a slow cook that uses the liquid as a moist heat carrier.
+3. **Add liquid.** Stock, wine, water, tomato. Just enough to come about halfway up the vegetables, the braise is not a stew (where vegetables are fully submerged) but a slow cook that uses the liquid as a moist heat carrier.
 4. **Cook covered or partially covered at low heat.** Stovetop on a low setting, or oven at 130-160 C. Time varies from 30 minutes (for delicate greens) to 90+ minutes (for whole onions or fennel bulbs).
 5. **Finish.** Often a squeeze of lemon, a drizzle of olive oil, fresh herbs, sometimes cheese.
 
@@ -40,11 +40,11 @@ Long, slow, silky.
 Method:
 1. Trim the leeks: cut off the root just enough to keep them held together; halve lengthways; rinse thoroughly under cold running water (leeks hide grit between the layers).
 2. Heat the olive oil in a wide ovenproof pan over medium heat.
-3. Place the leeks cut-side down. Salt them. Cook 5-7 minutes without disturbing - the cut side caramelises slightly.
+3. Place the leeks cut-side down. Salt them. Cook 5-7 minutes without disturbing, the cut side caramelises slightly.
 4. Flip; add the garlic and thyme.
 5. Add the wine; let it bubble and reduce for 2-3 minutes.
 6. Add the stock; cover the pan (with a lid or with foil); transfer to a 140 C oven.
-7. Braise 45-60 minutes - the leeks should be tender enough to cut with a spoon.
+7. Braise 45-60 minutes, the leeks should be tender enough to cut with a spoon.
 8. Lift out; reduce the cooking liquid on the hob if needed (it should be like a glaze, not a puddle); whisk in butter; pour back over the leeks.
 9. Finish with lemon juice and zest.
 
@@ -56,7 +56,7 @@ A Tuscan tradition. The kale collapses into a deep-flavoured silky mass.
 
 - 500 g cavolo nero (or kale), tough stems removed, leaves roughly chopped
 - 4 tbsp olive oil
-- 100 g pancetta, cubed (optional - skip for vegetarian)
+- 100 g pancetta, cubed (optional, skip for vegetarian)
 - 4 cloves garlic, sliced
 - 1 tsp chilli flakes
 - 300 ml chicken or vegetable stock
@@ -94,7 +94,7 @@ Method:
 2. Add garlic and fennel seeds; cook 1 minute.
 3. Add wine; let it bubble and reduce 2 minutes.
 4. Add stock; tuck the lemon slices between the fennel bulbs.
-5. Cover; transfer to a 140 C oven for 45-60 minutes - the fennel should be tender to the centre.
+5. Cover; transfer to a 140 C oven for 45-60 minutes, the fennel should be tender to the centre.
 6. Lift the fennel out; reduce the liquid on the hob to a thick glaze; whisk in butter.
 7. Pour the glaze over the fennel; top with parmesan if using; serve.
 
@@ -126,7 +126,7 @@ Method:
 4. Add the tomato paste; cook 2 minutes until it darkens.
 5. Add the tomatoes, raisins (drained), pine nuts, vinegar, sugar, capers, salt and oregano. Stir.
 6. Return the aubergine to the pan; stir to coat.
-7. Cover; simmer over low heat 40-50 minutes - the aubergine should be very soft; the sauce thickened.
+7. Cover; simmer over low heat 40-50 minutes, the aubergine should be very soft; the sauce thickened.
 8. Cool to room temperature. Refrigerate overnight.
 9. Serve at room temperature, drizzled with fresh olive oil and torn fresh basil.
 
@@ -163,14 +163,14 @@ The right technique depends on the vegetable and what you want from it:
 |-----------|----------|----------|
 | Carrots, parsnips | Best for caramelisation and dryness | OK for soup or stew, less interesting alone |
 | Brassicas (sprouts, broccoli, cauliflower) | Best for char and snap | Mushy unless very brief |
-| Kale, cavolo nero, collards | Crisps in roast (kale chips); but braise is the proper traditional treatment | Yes - the silky braise is the classic |
+| Kale, cavolo nero, collards | Crisps in roast (kale chips); but braise is the proper traditional treatment | Yes, the silky braise is the classic |
 | Aubergine | Yes, especially when whole-roasted then mashed | Yes (caponata, parmigiana) |
-| Fennel | Roast or braise both work | Yes - deep flavour development |
-| Leeks | Roast for char; braise for silkiness | Yes - the slow braise is the elegant move |
+| Fennel | Roast or braise both work | Yes, deep flavour development |
+| Leeks | Roast for char; braise for silkiness | Yes, the slow braise is the elegant move |
 | Cabbage | Yes (roasted wedges) | Yes (slow-cooked cabbage with butter) |
 | Onions | Yes (caramelisation) | Yes (long-cooked onion compote) |
 | Tomatoes | Yes (blistered, slow-roasted) | Yes (basis of almost every braise) |
-| Beans (dried, soaked) | Not really | Yes - the technique for beans |
+| Beans (dried, soaked) | Not really | Yes, the technique for beans |
 | Greens (spinach, chard) | Not really | Yes |
 | Asparagus | Yes (roast or blanch) | Not really |
 

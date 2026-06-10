@@ -2,7 +2,7 @@
 
 ![Provoleta](resources/provoleta.jpg)
 
-*Argentina's most genius cheese dish: a thick disc of provolone cheese - Argentine "provoleta", aged sharper and firmer than Italian provolone - sprinkled with dried oregano and chilli flakes, grilled directly on the parrilla till the bottom is deeply caramelised, the middle softened, and the top crusted with herbs. Eat with fresh bread, alongside chimichurri, with a glass of Malbec. The traditional Argentine asado opener.*
+*Argentina's most genius cheese dish: a thick disc of provolone cheese, Argentine "provoleta", aged sharper and firmer than Italian provolone, sprinkled with dried oregano and chilli flakes, grilled directly on the parrilla till the bottom is deeply caramelised, the middle softened, and the top crusted with herbs. Eat with fresh bread, alongside chimichurri, with a glass of Malbec. The traditional Argentine asado opener.*
 
 **Serves:** 4 (as a starter)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 8-10 minutes
 
 ## Overview
-Provoleta is Argentina's most clever and most universally beloved cheese starter - a uniquely Argentine adaptation of Italian provolone. Argentine provolone is aged longer than its Italian counterpart, giving it a firmer texture that holds together over high heat. The construction is brilliantly simple: a thick (3 cm) disc of Argentine provolone is sprinkled with dried oregano, chilli flakes, and a small drizzle of olive oil; placed directly on the asado parrilla (or in a cast-iron pan on the grill); grilled over medium-high heat till the bottom is deeply caramelised (3-4 minutes), then carefully flipped (or left undisturbed and just topped under the broiler) and grilled till the second side is also crusted and the middle is softened and stretchy. The finished provoleta is a golden-brown disc with crisp edges, gooey-melty centre, and a top crusted with charred oregano and chilli. Served on a wooden board with fresh bread for tearing and dipping into the molten cheese; chimichurri alongside for those who want a fresh herbal note.
+Provoleta is Argentina's most clever and most universally beloved cheese starter, a uniquely Argentine adaptation of Italian provolone. Argentine provolone is aged longer than its Italian counterpart, giving it a firmer texture that holds together over high heat. The construction is brilliantly simple: a thick (3 cm) disc of Argentine provolone is sprinkled with dried oregano, chilli flakes, and a small drizzle of olive oil; placed directly on the asado parrilla (or in a cast-iron pan on the grill); grilled over medium-high heat till the bottom is deeply caramelised (3-4 minutes), then carefully flipped (or left undisturbed and just topped under the broiler) and grilled till the second side is also crusted and the middle is softened and stretchy. The finished provoleta is a golden-brown disc with crisp edges, gooey-melty centre, and a top crusted with charred oregano and chilli. Served on a wooden board with fresh bread for tearing and dipping into the molten cheese; chimichurri alongside for those who want a fresh herbal note.
 
 ## Ingredients
 
@@ -48,12 +48,12 @@ Provoleta is Argentina's most clever and most universally beloved cheese starter
 
 ### Stage 3 - Grill the bottom
 1. Place the provoleta directly on the hot grate (or in the pan).
-2. Cook 3-4 minutes WITHOUT moving - the bottom needs to caramelise into a deep golden crust.
+2. Cook 3-4 minutes WITHOUT moving, the bottom needs to caramelise into a deep golden crust.
 3. The cheese will release oil and may smoke slightly; this is normal.
 
 ### Stage 4 - Flip carefully
 1. Use a wide spatula to flip the cheese disc.
-2. Some bits may stick to the grate; that's fine - the bottom crust is the goal.
+2. Some bits may stick to the grate; that's fine, the bottom crust is the goal.
 3. Grill the second side another 2-3 minutes.
 
 ### Stage 5 - Check the centre
@@ -65,7 +65,7 @@ Provoleta is Argentina's most clever and most universally beloved cheese starter
 2. Scatter fresh oregano leaves over.
 3. Provide a small wedge of lemon for squeezing.
 4. Surround with chunks of fresh bread.
-5. Eat immediately - tear bread, scoop molten cheese, eat warm.
+5. Eat immediately, tear bread, scoop molten cheese, eat warm.
 
 ## Notes
 - **Argentine provoleta, not Italian:** the Argentine version is aged longer and firmer; holds together on the grill. Italian provolone is softer and may melt apart.
@@ -75,13 +75,13 @@ Provoleta is Argentina's most clever and most universally beloved cheese starter
 - **Substitute (last resort):** if Argentine provoleta is unavailable, use thick slices of aged Italian provolone, halloumi (very different but works), or even a thick slice of mozzarella (will melt too much but is acceptable).
 
 ## Variations
-**Provoleta with chimichurri spooned over:** drizzle a tablespoon of chimichurri over the grilled cheese - herbal and bright.
+**Provoleta with chimichurri spooned over:** drizzle a tablespoon of chimichurri over the grilled cheese, herbal and bright.
 **Provoleta with caramelised onions:** top with sweated onions before grilling.
-**Provoleta with tomato:** add a slice of grilled tomato on top - Italian-Argentine fusion.
-**Provoleta with figs and honey:** modernised version with fresh figs and a drizzle of honey - restaurant variant.
-**Provoleta with anchovy:** top with anchovy fillets before grilling - Mediterranean-Argentine.
-**Provoleta with chorizo crumbles:** crumble cooked chorizo on top - heartier variant.
-**Mini provoletas:** make small individual portions (50 g each) on a cast-iron skillet - party version.
+**Provoleta with tomato:** add a slice of grilled tomato on top, Italian-Argentine fusion.
+**Provoleta with figs and honey:** modernised version with fresh figs and a drizzle of honey, restaurant variant.
+**Provoleta with anchovy:** top with anchovy fillets before grilling, Mediterranean-Argentine.
+**Provoleta with chorizo crumbles:** crumble cooked chorizo on top, heartier variant.
+**Mini provoletas:** make small individual portions (50 g each) on a cast-iron skillet, party version.
 **Pan-cooked provoleta (no grill):** in a screaming-hot cast-iron pan on the stovetop, 3 minutes per side. Same result.
 
 ## Serving
@@ -91,5 +91,5 @@ At every Argentine asado as the traditional opener (the traditional setting) · 
 - Best eaten immediately from the grill.
 - Uncooked provoleta keeps refrigerated 2 weeks (well-wrapped).
 - Freeze raw provoleta 2 months wrapped well.
-- Leftover grilled provoleta refrigerates 1 day; reheat under a broiler 1 minute - never as good as fresh.
+- Leftover grilled provoleta refrigerates 1 day; reheat under a broiler 1 minute, never as good as fresh.
 - The chimichurri keeps 2 weeks refrigerated.

@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Selsko meso (literally "village meat") is one of Macedonia's most beloved restaurant dishes - a hearty pork casserole found at every traditional gostilna (village-style restaurant). The construction: cubed pork shoulder browned in fat, sweated with onion and mushrooms, paprika and sweet wine added, simmered slowly for 90 minutes till the meat is fork-tender; sometimes topped with Kashkaval cheese in the last 10 minutes and grilled till golden. Served in the clay pot (kazan) directly to the table with bread for sopping.
+Selsko meso (literally "village meat") is one of Macedonia's most beloved restaurant dishes, a hearty pork casserole found at every traditional gostilna (village-style restaurant). The construction: cubed pork shoulder browned in fat, sweated with onion and mushrooms, paprika and sweet wine added, simmered slowly for 90 minutes till the meat is fork-tender; sometimes topped with Kashkaval cheese in the last 10 minutes and grilled till golden. Served in the clay pot (kazan) directly to the table with bread for sopping.
 
 ## Ingredients
 - 1 kg pork shoulder (cubed 3 cm)
@@ -30,7 +30,7 @@ Selsko meso (literally "village meat") is one of Macedonia's most beloved restau
 - 1 teaspoon coarsely cracked black pepper
 - 2 teaspoons fine sea salt
 - 2 tablespoons chopped fresh parsley
-- 200 g grated Kashkaval cheese (or aged Edam) - optional topping
+- 200 g grated Kashkaval cheese (or aged Edam): optional topping
 
 ### To serve
 - Crusty bread
@@ -55,7 +55,7 @@ Selsko meso (literally "village meat") is one of Macedonia's most beloved restau
 
 ## Variations
 **With smoked sausage:** add Macedonian klobasica.
-**With cream:** finish with 100 ml sour cream - modern variant.
+**With cream:** finish with 100 ml sour cream, modern variant.
 **Chicken selsko meso:** swap pork for chicken thighs.
 **With dumplings:** poach small dumplings in the sauce.
 

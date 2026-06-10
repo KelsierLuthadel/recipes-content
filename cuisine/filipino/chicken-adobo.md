@@ -31,7 +31,7 @@ Chicken adobo is the unofficial national dish of the Philippines, the recipe eve
 
 ### Stage 1 - Marinate (optional)
 1. Combine the soy, vinegar, garlic, peppercorns and bay in a large bowl with the chicken.
-1. Marinate at room temperature for 30 minutes (or skip this and cook straight away - adobo works either way).
+1. Marinate at room temperature for 30 minutes (or skip this and cook straight away, adobo works either way).
 
 ### Stage 2 - Simmer
 1. Tip everything into a heavy pan; add the water and brown sugar.

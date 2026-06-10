@@ -20,7 +20,7 @@ Walk Jerusalem's Old City at any hour and you'll find bread sellers pushing wood
 - 1 sachet (7 g) fast-action yeast
 - 1 ½ teaspoons salt
 - 1 tablespoon caster sugar
-- 1 teaspoon ground mahleb (optional but very traditional - sold at Middle Eastern shops)
+- 1 teaspoon ground mahleb (optional but very traditional, sold at Middle Eastern shops)
 - 60 ml olive oil
 - 100 ml warm milk
 - 220 ml warm water (more as needed)
@@ -37,7 +37,7 @@ Walk Jerusalem's Old City at any hour and you'll find bread sellers pushing wood
 
 ### Stage 1 - Toast the sesame
 1. Tip the sesame seeds onto a dry baking tray.
-1. Toast in a 180°C oven 5-6 minutes, stirring halfway, until pale gold and very fragrant. (Or toast in a dry pan over medium heat 4-5 minutes - watch carefully, they go from gold to burnt fast.)
+1. Toast in a 180°C oven 5-6 minutes, stirring halfway, until pale gold and very fragrant. (Or toast in a dry pan over medium heat 4-5 minutes, watch carefully, they go from gold to burnt fast.)
 1. Cool.
 1. Tip into a wide shallow bowl.
 
@@ -54,7 +54,7 @@ Walk Jerusalem's Old City at any hour and you'll find bread sellers pushing wood
 1. Knock back the risen dough.
 1. Divide into 4 (for large rings) or 8 (for snack-size rings) pieces.
 1. Roll each piece into a rope about 30 cm long, slightly thicker at one end.
-1. Bring the ends together and pinch to seal - the ring should be more oblong than perfectly round, mimicking the traditional Jerusalem shape.
+1. Bring the ends together and pinch to seal, the ring should be more oblong than perfectly round, mimicking the traditional Jerusalem shape.
 
 ### Stage 5 - Glaze and coat
 1. Working one ring at a time:

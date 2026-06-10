@@ -20,7 +20,7 @@ The most useful single garnish technique. Here's how:
 4. Wipe the strip around the rim of the glass (this passes oil to the rim, so the drinker smells it on first sip).
 5. Drop the strip into the drink, or twist it and drop in (a curl-of-orange-peel look).
 
-The "expression" - the squeezing that releases the oils - is the traditional bartender move. Without it, the twist is just decorative; with it, the twist changes the drink.
+The "expression", the squeezing that releases the oils, is the traditional bartender move. Without it, the twist is just decorative; with it, the twist changes the drink.
 
 Common citrus matches:
 - **Old Fashioned, Manhattan** → orange twist.
@@ -31,14 +31,14 @@ Common citrus matches:
 
 ## Olives and onions
 
-- **Martini olives:** stuffed with pimento, sometimes blue cheese, sometimes anchovy. Use 1-3 olives on a cocktail pick. Some bartenders add a teaspoon of olive brine to the cocktail itself ("dirty martini") - that goes in the mixing glass before stirring.
+- **Martini olives:** stuffed with pimento, sometimes blue cheese, sometimes anchovy. Use 1-3 olives on a cocktail pick. Some bartenders add a teaspoon of olive brine to the cocktail itself ("dirty martini"): that goes in the mixing glass before stirring.
 - **Cocktail onions** (the small pearl onions in vinegar): a Gibson martini uses these instead of olives. The vinegar gives a sour note that contrasts nicely with the dry vermouth.
 
 ## Cocktail cherries
 
-- **Maraschino cherries** (the bright red supermarket kind, in heavy syrup with food colouring): traditional for Manhattans and Old Fashioneds - drop the cherry in, let it bleed a little into the drink.
+- **Maraschino cherries** (the bright red supermarket kind, in heavy syrup with food colouring): traditional for Manhattans and Old Fashioneds, drop the cherry in, let it bleed a little into the drink.
 - **Luxardo cherries** (Italian, in dark cherry syrup): the premium version. Darker, less sweet, more flavour. Worth the upgrade.
-- **Brandied cherries:** make your own - soak fresh cherries in brandy + sugar + spices for 2 weeks. A serious cocktail bar's signature touch.
+- **Brandied cherries:** make your own, soak fresh cherries in brandy + sugar + spices for 2 weeks. A serious cocktail bar's signature touch.
 
 ## Rims
 
@@ -55,7 +55,7 @@ A salt or sugar rim adds a textural and flavour contrast at the drinker's first 
 
 ## Picks
 
-Wooden cocktail picks (bamboo skewers from any supermarket) are fine for routine garnish. Premium versions: silver, designed, branded - pure aesthetics.
+Wooden cocktail picks (bamboo skewers from any supermarket) are fine for routine garnish. Premium versions: silver, designed, branded, pure aesthetics.
 
 Use a pick when the garnish is something you want the drinker to retrieve and eat: an olive, an onion, a cherry, a wedge of pineapple. Don't pick a citrus twist; it sits in the drink as a floater.
 
@@ -90,7 +90,7 @@ If you're making 4 drinks in 10 minutes, you don't have time to cut a citrus twi
 | Gibson | Cocktail onion |
 | Margarita | Salt rim + lime wheel |
 | Negroni | Orange twist |
-| Mojito | Mint sprig (slapped - see below) + lime wheel |
+| Mojito | Mint sprig (slapped, see below) + lime wheel |
 | Mint Julep | Generous mint sprig + powdered sugar dust |
 | Tom Collins | Lemon wheel + cherry |
 | Gin and Tonic | Lime wedge or lemon twist (classic); cucumber + juniper berries (modern) |
@@ -100,7 +100,7 @@ If you're making 4 drinks in 10 minutes, you don't have time to cut a citrus twi
 
 ## The "slap" technique
 
-Mint sprigs need to be slapped before garnishing - clap the mint between your palms once or twice. This bruises the leaves and releases the essential oils into the air. A mint sprig that hasn't been slapped is just decorative; a slapped one perfumes the drink at every sip.
+Mint sprigs need to be slapped before garnishing, clap the mint between your palms once or twice. This bruises the leaves and releases the essential oils into the air. A mint sprig that hasn't been slapped is just decorative; a slapped one perfumes the drink at every sip.
 
 Same principle for fresh herbs (basil, rosemary, thyme, sage): a gentle clap to release aromatics.
 
@@ -108,8 +108,8 @@ Same principle for fresh herbs (basil, rosemary, thyme, sage): a gentle clap to 
 
 A few cocktails are essentially defined by their garnish:
 
-- **Bloody Mary** - celery stick + lemon wedge + Tabasco rim + bacon + olive + cocktail onion + the kitchen sink. The garnish IS the drink in many bars.
-- **Mai Tai** - mint sprig + lime shell + cocktail umbrella + cherry. A tiki bar's calling card.
-- **Pimm's Cup** - cucumber + strawberry + apple + orange + mint + everything from the garden.
+- **Bloody Mary**: celery stick + lemon wedge + Tabasco rim + bacon + olive + cocktail onion + the kitchen sink. The garnish IS the drink in many bars.
+- **Mai Tai**: mint sprig + lime shell + cocktail umbrella + cherry. A tiki bar's calling card.
+- **Pimm's Cup**: cucumber + strawberry + apple + orange + mint + everything from the garden.
 
 In these cases, lean into the maximalism; understated garnish would look wrong.

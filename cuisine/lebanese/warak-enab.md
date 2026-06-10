@@ -16,7 +16,7 @@ Lebanon's stuffed vine leaves, the Sunday-afternoon project that yields a platte
 ## Ingredients
 
 ### Vine leaves
-- 60 fresh vine leaves (or 1 jar 500 g brined leaves - rinsed)
+- 60 fresh vine leaves (or 1 jar 500 g brined leaves, rinsed)
 
 ### Filling
 - 300 g short-grain rice (rinsed, not pre-cooked)
@@ -35,7 +35,7 @@ Lebanon's stuffed vine leaves, the Sunday-afternoon project that yields a platte
 
 ### Base layer (prevents scorching)
 - 2 potatoes (medium, sliced 5 mm)
-- A few lamb bones (or rib pieces, optional - add depth to the liquid)
+- A few lamb bones (or rib pieces, optional, add depth to the liquid)
 
 ### Cooking liquid
 - 3 lemons (juice)
@@ -71,7 +71,7 @@ Lebanon's stuffed vine leaves, the Sunday-afternoon project that yields a platte
 
 ### Stage 5 - Liquid
 1. Whisk lemon juice, olive oil, garlic, salt with the hot stock.
-1. Pour over the rolls - should just cover.
+1. Pour over the rolls, should just cover.
 
 ### Stage 6 - Weight and cook
 1. Place a heatproof plate directly on top of the rolls to weight them down.
@@ -88,7 +88,7 @@ Lebanon's stuffed vine leaves, the Sunday-afternoon project that yields a platte
 1. Serve with yogurt and lemon wedges.
 
 ## Notes
-- **Vegetarian version:** Skip the lamb; double the rice, add 200 g cooked chickpeas, and use olive oil instead of stock - the result is "warak enab b'zeit" (vegetarian).
+- **Vegetarian version:** Skip the lamb; double the rice, add 200 g cooked chickpeas, and use olive oil instead of stock, the result is "warak enab b'zeit" (vegetarian).
 - **Pack tightly:** Loosely packed rolls float and unwind. Snug enough that they support each other; not so tight they have no room for the rice to swell.
 - **Vine leaf source:** Fresh leaves from a Middle Eastern grocer (in season) are tender; jarred leaves are reliable year-round.
 

@@ -16,7 +16,7 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 ## Ingredients
 
 ### The chocolate shells (and caps)
-- 600 g good Belgian dark couverture chocolate (Callebaut 70%, Belcolade Noir Pure, or Valrhona Guanaja) - chopped or in callets
+- 600 g good Belgian dark couverture chocolate (Callebaut 70%, Belcolade Noir Pure, or Valrhona Guanaja): chopped or in callets
 - (Or use milk couverture: Callebaut Milk 33%; or white: Callebaut White 28%)
 
 ### Filling 1: Dark chocolate ganache (makes about 200 g; fills about 15 pralines)
@@ -46,7 +46,7 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 
 ### Stage 1 - Prep the moulds
 1. Clean the polycarbonate moulds with a soft cloth (no soap; the residue affects the chocolate's release).
-2. Polish each cavity with a cotton ball - this is what makes the finished praline glossy.
+2. Polish each cavity with a cotton ball, this is what makes the finished praline glossy.
 
 ### Stage 2 - Temper the chocolate (Method 1 - seeding)
 1. Place 400 g of the chocolate in a heatproof bowl.
@@ -55,7 +55,7 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 4. Remove the bowl from the heat.
 5. Add the remaining 200 g chocolate (the "seed"); stir gently.
 6. Let the temperature drop to 27°C (for dark; 26°C for milk; 25°C for white).
-7. Briefly warm again over the saucepan till the chocolate reaches 31-32°C (for dark; 29-30°C for milk; 28-29°C for white). This is working temperature - the chocolate is now tempered.
+7. Briefly warm again over the saucepan till the chocolate reaches 31-32°C (for dark; 29-30°C for milk; 28-29°C for white). This is working temperature, the chocolate is now tempered.
 8. Test: drop a small spoonful on parchment; let set 2 minutes. It should be glossy, snap cleanly, and show no streaks.
 
 ### Stage 3 - Mould the shells
@@ -72,12 +72,12 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 2. Heat the cream just to a simmer; pour over the chocolate.
 3. Let stand 1 minute; whisk till smooth and glossy.
 4. Whisk in the butter and vanilla.
-5. Let cool to 28-30°C - this takes 20-30 minutes at room temperature.
+5. Let cool to 28-30°C, this takes 20-30 minutes at room temperature.
 6. Scoop into a piping bag.
 
 ### Stage 5 - Make Filling 2: Praliné hazelnut
 1. Heat the caster sugar in a heavy frying pan over medium heat (no water).
-2. Stir gently till the sugar melts and turns amber - about 6-8 minutes.
+2. Stir gently till the sugar melts and turns amber, about 6-8 minutes.
 3. Add the hazelnuts; stir to coat.
 4. Tip onto a parchment-lined tray; let cool completely.
 5. Once cold and brittle, break into pieces and blitz in a food processor for 4-6 minutes till you have a smooth paste (it goes through a crumb stage then a paste stage).
@@ -87,19 +87,19 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 
 ### Stage 6 - Fill the shells
 1. Pipe the fillings into the set chocolate shells, leaving 2-3 mm of space at the top for the cap.
-2. Don't overfill - excess filling stops the cap sealing properly.
+2. Don't overfill, excess filling stops the cap sealing properly.
 3. Let the filled shells sit 30 minutes for the surface of the filling to firm slightly.
 
 ### Stage 7 - Cap the pralines
 1. Re-temper the remaining chocolate if needed (a brief warm to 32°C).
 2. Pour a thin layer over the filled mould.
-3. Scrape across the top with a palette knife in a single firm motion, removing all excess - this is what creates the flat bottom of each finished praline.
+3. Scrape across the top with a palette knife in a single firm motion, removing all excess, this is what creates the flat bottom of each finished praline.
 4. Tap the mould gently to settle the cap.
 
 ### Stage 8 - Set and unmould
 1. Let the moulds sit at cool room temperature (16-18°C) for 4-6 hours till the caps are fully set and the pralines have contracted slightly from the cavity walls.
 2. Invert the mould over a clean cool surface; tap firmly. The pralines should pop out cleanly with a glossy shell.
-3. If any stick, the chocolate wasn't tempered properly - they will need to be carefully prised out.
+3. If any stick, the chocolate wasn't tempered properly, they will need to be carefully prised out.
 
 ### Stage 9 - Store and serve
 1. Store in a single layer in a cool tin, separated by parchment.
@@ -114,20 +114,20 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 - **A trained Belgian chocolatier makes this look easy.** Expect your first attempt to have soft spots and uneven shells. Practice (and a thermometer) help.
 
 ## Variations
-**Praliné with feuilletine (crispy):** add 20 g crushed feuilletine wafers to the praliné paste before piping - adds crunch.
+**Praliné with feuilletine (crispy):** add 20 g crushed feuilletine wafers to the praliné paste before piping, adds crunch.
 **Champagne truffle filling:** swap the cream in Filling 1 for 70 ml cream + 30 ml champagne or sparkling wine.
 **Coffee ganache:** add 1 tablespoon espresso powder to the cream in Filling 1 before pouring over the chocolate.
 **Raspberry-white-chocolate filling:** swap the dark chocolate in Filling 1 for white; reduce 50 g fresh raspberries to a thick purée and stir in.
 **Salted caramel filling:** make a soft caramel (sugar, cream, butter, salt) cooled to 30°C; pipe into shells.
 **Pistachio gianduja:** swap the hazelnuts in Filling 2 for pistachios; use white chocolate.
-**Dark chocolate enrobed truffles (alternative, no mould needed):** make ganache balls, refrigerate till firm, dip in tempered chocolate, roll in cocoa powder - a simpler praliné-style treat without the moulds.
+**Dark chocolate enrobed truffles (alternative, no mould needed):** make ganache balls, refrigerate till firm, dip in tempered chocolate, roll in cocoa powder, a simpler praliné-style treat without the moulds.
 
 ## Serving
 At a Belgian chocolatier or pâtisserie in Brussels, Antwerp or Bruges (the traditional setting) · in a hand-tied gift box from Leonidas, Neuhaus, Pierre Marcolini or Galler (the classic Belgian premium boutiques) · after a Belgian dinner with coffee · at a Belgian wedding reception · at Belgian Christmas or Easter as a gift · as the traditional Belgian "I brought you these from Brussels" present.
 
 ## Storage
 - Store in a single layer in a cool tin (16-20°C), away from light and humidity, for up to 3 weeks.
-- Don't refrigerate - condensation forms when removed and dulls the surface.
-- Don't freeze - the temper breaks; the chocolate develops white sugar/fat bloom.
-- Don't store near strongly scented foods - chocolate absorbs odours readily.
+- Don't refrigerate, condensation forms when removed and dulls the surface.
+- Don't freeze, the temper breaks; the chocolate develops white sugar/fat bloom.
+- Don't store near strongly scented foods, chocolate absorbs odours readily.
 - The ganache fillings keep 3 weeks; the praliné fillings keep 6 weeks (the nut oils have a longer life than dairy ganache).

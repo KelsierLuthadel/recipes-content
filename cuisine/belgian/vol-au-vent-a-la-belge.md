@@ -16,7 +16,7 @@ Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-p
 ## Ingredients
 
 ### The chicken poach
-- 1 free-range chicken (1.5-1.7 kg) - poach the whole bird then strip; or 800 g boneless skinless chicken thighs
+- 1 free-range chicken (1.5-1.7 kg): poach the whole bird then strip; or 800 g boneless skinless chicken thighs
 - 1.2 litres good chicken stock
 - 1 leek (white part), washed
 - 1 carrot
@@ -101,7 +101,7 @@ Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-p
 
 ### Stage 6 - The egg yolk and cream finish
 1. In a bowl, whisk the egg yolks with the double cream and lemon juice.
-2. Ladle 200 ml of the hot sauce into the yolk mixture in a slow steady stream, whisking constantly - this tempers the eggs.
+2. Ladle 200 ml of the hot sauce into the yolk mixture in a slow steady stream, whisking constantly, this tempers the eggs.
 3. Take the pot off the heat.
 4. Pour the tempered yolk-cream mixture back into the pot, stirring constantly.
 5. Return to the lowest heat for 1-2 minutes till lightly thickened. Do not let it boil.
@@ -113,7 +113,7 @@ Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-p
 
 ### Stage 8 - Plate
 1. Place a warm pastry shell in the centre of each warmed wide plate.
-2. Spoon the chicken filling generously into and around the shell - it should spill onto the plate.
+2. Spoon the chicken filling generously into and around the shell, it should spill onto the plate.
 3. Scatter with reserved parsley.
 4. Serve immediately with a lemon wedge, Belgian frites or boiled potatoes alongside.
 
@@ -125,9 +125,9 @@ Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-p
 - **A wedge of lemon at the table:** the velouté is rich; the lemon cuts it. Don't skip.
 
 ## Variations
-**Bouchée à la reine (smaller version):** make smaller pastry shells (6-7 cm) and a finer mince of chicken - the elegant version for a starter.
-**Vol-au-vent au poisson:** swap the chicken and meatballs for chunks of cod, salmon, prawns and scallops - the seafood version, big in Ghent.
-**Vol-au-vent aux ris de veau:** with sweetbreads in place of meatballs - the high-restaurant version.
+**Bouchée à la reine (smaller version):** make smaller pastry shells (6-7 cm) and a finer mince of chicken, the elegant version for a starter.
+**Vol-au-vent au poisson:** swap the chicken and meatballs for chunks of cod, salmon, prawns and scallops, the seafood version, big in Ghent.
+**Vol-au-vent aux ris de veau:** with sweetbreads in place of meatballs, the high-restaurant version.
 **Vol-au-vent à la flamande:** add a handful of cooked Belgian ham (jambon d'Ardenne) to the filling.
 **Quick weeknight version:** use rotisserie chicken meat, frozen meatballs (good quality ones), and bought puff-pastry shells - 30 minutes start to finish.
 **Vegetarian "vol-au-vent":** sliced king oyster mushrooms instead of meat, vegetable stock, the same velouté treatment.
@@ -137,7 +137,7 @@ At a Brussels brasserie Sunday lunch (the traditional setting) · at a Belgian f
 
 ## Storage
 - Refrigerate the filling (without the pastry shells) for 3 days; reheat very gently on the stovetop. The pastry shells separately keep 4 days in an airtight tin.
-- Don't refrigerate filling inside the pastry shell - the pastry goes soggy.
+- Don't refrigerate filling inside the pastry shell, the pastry goes soggy.
 - Freezes 2 months but the egg-yolk liaison can break on defrosting; expect a slightly thinner sauce.
 - Reheat the filling in a saucepan over very low heat, stirring constantly; add a splash of cream to loosen.
 - Day-old filling makes an excellent base for a chicken pot pie.

@@ -16,16 +16,16 @@ Bright-green chewy rice cakes with a soft bean-paste centre, the sweet you reach
 ## Ingredients
 
 ### Mochi dough
-- 200 g glutinous rice flour (mochiko / shiratamako / sweet rice flour - sold at Asian / Japanese shops)
+- 200 g glutinous rice flour (mochiko / shiratamako / sweet rice flour, sold at Asian / Japanese shops)
 - 80 g caster sugar
-- 1 tablespoon matcha powder (good quality culinary matcha - bright vibrant green)
+- 1 tablespoon matcha powder (good quality culinary matcha, bright vibrant green)
 - 280 ml water
 
 ### Filling (optional)
-- 200 g sweet red bean paste (anko - sold at Japanese / Asian shops)
+- 200 g sweet red bean paste (anko, sold at Japanese / Asian shops)
 
 ### To prevent sticking
-- 100 g potato starch (katakuriko - sold at Asian shops; or substitute cornstarch)
+- 100 g potato starch (katakuriko, sold at Asian shops; or substitute cornstarch)
 - 1 teaspoon matcha powder (for dusting alongside the starch)
 
 ## Method
@@ -38,12 +38,12 @@ Bright-green chewy rice cakes with a soft bean-paste centre, the sweet you reach
 ### Stage 2 - Mix the dough
 1. In a microwave-safe bowl, whisk glutinous rice flour, sugar and matcha.
 1. Gradually pour in the water, whisking smoothly to avoid lumps.
-1. The mixture should be smooth and slightly thick - like double cream.
+1. The mixture should be smooth and slightly thick, like double cream.
 
 ### Stage 3 - Cook the dough
-1. **Microwave method**: cover the bowl loosely with cling film. Microwave on high 1 minute. Stir vigorously with a damp wooden spoon or silicone spatula. Microwave another 1 minute; stir again. Microwave a final 1 minute. The mochi should be thick, glossy, translucent, and very elastic - it pulls away from the bowl in stretchy strands.
+1. **Microwave method**: cover the bowl loosely with cling film. Microwave on high 1 minute. Stir vigorously with a damp wooden spoon or silicone spatula. Microwave another 1 minute; stir again. Microwave a final 1 minute. The mochi should be thick, glossy, translucent, and very elastic, it pulls away from the bowl in stretchy strands.
 1. **Steam method**: cover the bowl with cling film with a few pierced holes. Place in a steamer over boiling water; steam 15 minutes, stirring at the 7-minute mark.
-1. The cooked mochi is extremely hot - let it cool 2 minutes before handling, but don't let it cool completely (it gets too firm to shape).
+1. The cooked mochi is extremely hot, let it cool 2 minutes before handling, but don't let it cool completely (it gets too firm to shape).
 
 ### Stage 4 - Prep the work surface
 1. Mix the 100 g potato starch with 1 teaspoon matcha in a wide bowl.
@@ -68,12 +68,12 @@ Bright-green chewy rice cakes with a soft bean-paste centre, the sweet you reach
 ### Stage 7 - Dust and rest
 1. Brush off any excess starch from the surface (a small dry pastry brush helps).
 1. Optional: dust the tops with extra matcha for a more vivid green finish.
-1. Let stand at room temperature 30 minutes - the mochi firms slightly and the flavours settle.
+1. Let stand at room temperature 30 minutes, the mochi firms slightly and the flavours settle.
 
 ### Stage 8 - Serve
 1. Plate 2 per person.
 1. Eat at room temperature, with green tea.
-1. Bite gently - the mochi is stretchy and the filling sweet.
+1. Bite gently, the mochi is stretchy and the filling sweet.
 
 ## Notes
 - **Glutinous rice flour, not regular rice flour:** Glutinous (sticky / sweet) rice flour gives the chewy stretch that defines mochi. Regular rice flour gives a brittle, crumbly result. They're sold side-by-side; check the packet says "glutinous", "sweet" or "mochiko/shiratamako".
@@ -82,5 +82,5 @@ Bright-green chewy rice cakes with a soft bean-paste centre, the sweet you reach
 
 ## Storage
 - Best within 24 hours of making, at room temperature.
-- Don't refrigerate - chilled mochi hardens unappealingly.
+- Don't refrigerate, chilled mochi hardens unappealingly.
 - Wrap individually in cling film and freeze 1 month; defrost at room temperature 30 minutes before eating (don't microwave from frozen).

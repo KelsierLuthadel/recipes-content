@@ -51,7 +51,7 @@ Pad nam mun hoy translates as "fried with oyster sauce," and this beef version i
 4. Add the mushrooms and sliced onion and stir it all up to combine.
 5. Pour in the oyster sauce, remaining soy sauce, stock or water and white pepper.
 6. Again, stir this quickly and then add the cornflour (cornstarch) and water paste.
-7. Bring to a simmer - the paste will cause the sauce to thicken and give it a shiny appearance.
+7. Bring to a simmer, the paste will cause the sauce to thicken and give it a shiny appearance.
 8. Don’t forget to taste it and adjust the flavours to taste.
 9. To finish, add the chopped spring onions (scallions) and chilli slices and stir a bit so that they are coated lightly in the sauce.
 

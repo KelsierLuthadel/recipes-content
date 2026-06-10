@@ -2,7 +2,7 @@
 
 ![Lecsó](resources/lecso.jpg)
 
-*Hungary's pepper, tomato and onion stew, sweet and slightly smoky from sweet paprika, just enough fat to make it glossy. The summer dish - eaten on bread, over rice, with eggs broken in at the end, or alongside meat or fish. The first thing Hungarian cooks make when peppers come into season.*
+*Hungary's pepper, tomato and onion stew, sweet and slightly smoky from sweet paprika, just enough fat to make it glossy. The summer dish, eaten on bread, over rice, with eggs broken in at the end, or alongside meat or fish. The first thing Hungarian cooks make when peppers come into season.*
 
 **Serves:** 4
 

@@ -10,11 +10,11 @@ Indian carbohydrate splits roughly along the Vindhya mountain range that divides
 
 This page covers:
 
-1. **Basmati rice** - the traditional Indian long-grain. Cooking technique.
-2. **The chapati / roti** - the everyday flatbread.
-3. **The paratha** - the layered, ghee-rich flatbread.
-4. **Naan** - the leavened tandoor flatbread (more restaurant than home).
-5. **Other rices and flatbreads** - when to use what.
+1. **Basmati rice**: the traditional Indian long-grain. Cooking technique.
+2. **The chapati / roti**: the everyday flatbread.
+3. **The paratha**: the layered, ghee-rich flatbread.
+4. **Naan**: the leavened tandoor flatbread (more restaurant than home).
+5. **Other rices and flatbreads**: when to use what.
 
 ## Basmati rice
 
@@ -29,7 +29,7 @@ Basmati is a specific cultivar from the Punjab / Pakistan / North India region. 
 5. **Bring to a boil**; reduce heat to LOW.
 6. **Cover tightly**; cook 10 minutes.
 7. **Off heat**; let stand covered 10 more minutes (residual cooking).
-8. **Fluff** with a fork (don't stir - breaks the grains).
+8. **Fluff** with a fork (don't stir, breaks the grains).
 
 The result: each grain separate, long, fragrant, slightly al dente. The pre-soak is the difference between average and very good basmati.
 
@@ -55,7 +55,7 @@ Made by sweating onion + whole spices in ghee, adding rice, adding stock or wate
 
 ### Biryani
 
-The big-deal cousin of pulao. Half-cooked rice layered with separately-cooked marinated meat, then sealed and slow-cooked (dum). Multiple regional variants (Hyderabadi, Lucknowi, Sindhi, Kolkata, Calcutta-Memoni). A weekend project - not the daily meal.
+The big-deal cousin of pulao. Half-cooked rice layered with separately-cooked marinated meat, then sealed and slow-cooked (dum). Multiple regional variants (Hyderabadi, Lucknowi, Sindhi, Kolkata, Calcutta-Memoni). A weekend project, not the daily meal.
 
 ## The chapati / roti
 
@@ -77,7 +77,7 @@ The daily flatbread of North India. Whole wheat flour, water, salt. No leavener.
 7. Heat tawa over medium-high heat.
 8. Cook the chapati 30 seconds on the first side (small bubbles appear).
 9. Flip; cook 30 seconds on the second side (more bubbles; the chapati starts to puff slightly).
-10. **The puff**: lift the chapati with tongs and place it directly over an open gas flame (or a hot electric ring set high). It should puff into a ball within 5-10 seconds - this is the magic moment.
+10. **The puff**: lift the chapati with tongs and place it directly over an open gas flame (or a hot electric ring set high). It should puff into a ball within 5-10 seconds, this is the magic moment.
 11. Smear with a touch of ghee while warm. Stack on a plate; cover with a tea towel.
 
 The puff comes from steam trapped between the two cooked surfaces. A well-puffed chapati is sign of dough that was properly hydrated and a tawa that was hot enough. The "round" puff (full sphere) is the visible mark of a well-made chapati.
@@ -90,14 +90,14 @@ Same dough as chapati but layered with ghee and rolled multiple times to create 
 2. Brush generously with melted ghee.
 3. Fold into a triangle (or roll into a tube and coil).
 4. Re-roll to original size.
-5. Cook on a hot tawa with a small amount of ghee - about 1 minute per side.
+5. Cook on a hot tawa with a small amount of ghee, about 1 minute per side.
 6. The paratha has visible layers and a slight buttery crisp from the ghee.
 
 Variants:
-- **Aloo paratha** - stuffed with spiced mashed potato.
-- **Gobi paratha** - stuffed with grated cauliflower + spices.
-- **Mooli paratha** - stuffed with grated mooli (white radish).
-- **Paneer paratha** - stuffed with crumbled paneer + spices.
+- **Aloo paratha**: stuffed with spiced mashed potato.
+- **Gobi paratha**: stuffed with grated cauliflower + spices.
+- **Mooli paratha**: stuffed with grated mooli (white radish).
+- **Paneer paratha**: stuffed with crumbled paneer + spices.
 
 ## Naan
 
@@ -106,26 +106,26 @@ The tandoor-baked bread, more associated with restaurant Indian than home cookin
 At home, an oven preheated to 250°C with a stone or upturned baking sheet works but never quite reproduces the tandoor effect. Naan is typically restaurant fare in India.
 
 ### Variants
-- **Plain naan** - the traditional.
-- **Garlic naan** - chopped garlic + butter brushed on after baking.
-- **Peshawari naan** - sweet, with raisins, coconut, almonds.
-- **Keema naan** - stuffed with minced meat.
-- **Cheese naan** - stuffed with cheese.
+- **Plain naan**: the traditional.
+- **Garlic naan**: chopped garlic + butter brushed on after baking.
+- **Peshawari naan**: sweet, with raisins, coconut, almonds.
+- **Keema naan**: stuffed with minced meat.
+- **Cheese naan**: stuffed with cheese.
 
 ## Other rices and breads
 
 ### Rices
-- **Sona masoori** - short-grain, used in South Indian everyday cooking (idli, dosa, daily meals). Cheaper than basmati; more sticky; less fragrant.
-- **Ponni rice** - Tamil short-grain. Sticky, used in many South Indian dishes.
-- **Brown basmati** - the wholegrain variant. Longer cook (40 minutes); nuttier.
+- **Sona masoori**: short-grain, used in South Indian everyday cooking (idli, dosa, daily meals). Cheaper than basmati; more sticky; less fragrant.
+- **Ponni rice**: Tamil short-grain. Sticky, used in many South Indian dishes.
+- **Brown basmati**: the wholegrain variant. Longer cook (40 minutes); nuttier.
 
 ### Breads
-- **Bhakri** - Maharashtrian/Gujarati millet flatbread, thicker than chapati, slightly chewy.
-- **Thepla** - Gujarati flatbread with fenugreek leaves + masala.
-- **Akki roti** - Karnataka rice-flour flatbread.
-- **Appam** - Kerala fermented rice-and-coconut pancake (bowl-shaped, the Sri Lankan-Kerala continuum).
-- **Puri** - small deep-fried puffed bread (the deep-fried cousin of the chapati).
-- **Bhatura** - Punjabi yogurt-leavened bread, deep-fried; paired with chole.
+- **Bhakri**: Maharashtrian/Gujarati millet flatbread, thicker than chapati, slightly chewy.
+- **Thepla**: Gujarati flatbread with fenugreek leaves + masala.
+- **Akki roti**: Karnataka rice-flour flatbread.
+- **Appam**: Kerala fermented rice-and-coconut pancake (bowl-shaped, the Sri Lankan-Kerala continuum).
+- **Puri**: small deep-fried puffed bread (the deep-fried cousin of the chapati).
+- **Bhatura**: Punjabi yogurt-leavened bread, deep-fried; paired with chole.
 
 ## How to pair rice/roti with the rest of the meal
 

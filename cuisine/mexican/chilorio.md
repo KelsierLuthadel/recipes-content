@@ -66,7 +66,7 @@ Chilorio is the iconic Sinaloan slow-cooked spiced pork and a beloved Northern M
 
 ### Stage 2 - Prepare the chillies
 1. Heat a dry pan over medium heat.
-2. Toast the dried ancho, pasilla and guajillo chillies briefly (30 seconds per side; don't let them burn - they should be slightly puffed and fragrant).
+2. Toast the dried ancho, pasilla and guajillo chillies briefly (30 seconds per side; don't let them burn, they should be slightly puffed and fragrant).
 3. Place in a bowl; cover with the 500 ml hot water.
 4. Soak 30 minutes till the chillies are fully softened.
 5. Drain; reserve the soaking liquid.

@@ -88,7 +88,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 200
     unit: g
-    name: leafy greens - bitter leaf or spinach or ugu
-    raw: 200 g leafy greens - bitter leaf OR spinach OR ugu
+    name: leafy greens
+    raw: 200 g leafy greens, bitter leaf OR spinach OR ugu
   - name: fufu
     raw: Fufu, pounded yam, eba or rice

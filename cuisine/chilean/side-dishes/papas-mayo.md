@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-A Chilean potato salad, the Sunday-lunch staple that sits next to grilled meat and an ensalada chilena at any asado worth the name. You boil floury potatoes whole in their skins, peel and dice them while still warm so they soak up the dressing properly. Hard-boiled egg goes in halved or quartered, sliced spring onion adds bite, Dijon and mayonnaise bind, and a splash of white wine vinegar lifts the lot. Toss gently so the egg doesn't pulverise, with chopped parsley scattered over. Best slightly warm - the mayo grips the potato and the egg breaks into soft creamy crumbles. Eat with grilled meat or as part of a wider lunch spread.
+A Chilean potato salad, the Sunday-lunch staple that sits next to grilled meat and an ensalada chilena at any asado worth the name. You boil floury potatoes whole in their skins, peel and dice them while still warm so they soak up the dressing properly. Hard-boiled egg goes in halved or quartered, sliced spring onion adds bite, Dijon and mayonnaise bind, and a splash of white wine vinegar lifts the lot. Toss gently so the egg doesn't pulverise, with chopped parsley scattered over. Best slightly warm, the mayo grips the potato and the egg breaks into soft creamy crumbles. Eat with grilled meat or as part of a wider lunch spread.
 
 ## Ingredients
 
@@ -40,7 +40,7 @@ A Chilean potato salad, the Sunday-lunch staple that sits next to grilled meat a
 ### Stage 3 - Mix
 1. In a wide bowl, whisk mayonnaise, mustard, vinegar, salt, pepper.
 1. Add the warm potato, chopped egg, spring onions and parsley.
-1. Toss gently - keep some potato chunks intact.
+1. Toss gently, keep some potato chunks intact.
 
 ### Stage 4 - Serve
 1. Best slightly warm or at room temperature.
@@ -49,7 +49,7 @@ A Chilean potato salad, the Sunday-lunch staple that sits next to grilled meat a
 ## Notes
 - **Warm potato grabs the mayo:** Cold-mixed potato salad has dressing pooling at the bottom. Mix warm; the potato absorbs.
 - **Floury not waxy:** Waxy potatoes give chunky pieces but hold shape too well; floury gives some crumble and some chunk.
-- **Mayo + Dijon:** The Chilean ratio. Don't add too much mustard - it should be a background sharpness.
+- **Mayo + Dijon:** The Chilean ratio. Don't add too much mustard, it should be a background sharpness.
 
 ## Storage
 - Refrigerate 3 days. Bring to room temperature before serving.

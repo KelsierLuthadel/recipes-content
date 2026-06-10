@@ -67,9 +67,9 @@ Nam mak nao is one of the simplest and most beloved Lao drinks: a Lao spin on le
 
 ## Variations
 **Spicy nam mak nao:** add a pinch of chilli flakes; the traditional Lao street-stall sweet-spicy-sour variant.
-**Nam mak nao with mint:** muddle 4-5 fresh mint leaves in the bottom of the glass before adding lime - the modern variant.
-**Hot nam mak nao:** skip the ice; pour hot palm-sugar syrup + lime + salt + hot water - the cold-weather variant.
-**With sparkling water:** swap still water for sparkling - the modern bubbly variant.
+**Nam mak nao with mint:** muddle 4-5 fresh mint leaves in the bottom of the glass before adding lime, the modern variant.
+**Hot nam mak nao:** skip the ice; pour hot palm-sugar syrup + lime + salt + hot water, the cold-weather variant.
+**With sparkling water:** swap still water for sparkling, the modern bubbly variant.
 
 ## Serving
 At a Lao street stall (the traditional setting; sold from carts in every market in hot weather) · at a Lao midday meal as the non-alcoholic accompaniment · at a Lao café · at home as the Lao answer to lemonade · paired with sai oua, laap, tam mak hung or any spicy Lao dish.

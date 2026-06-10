@@ -20,7 +20,7 @@ The small bowl of pickles that lands beside almost every Japanese meal: bright, 
 - 1 teaspoon fine salt
 - 1 tablespoon rice vinegar
 - 1 teaspoon caster sugar
-- 1 strip kombu (about 5 cm - sold dried at Japanese / Asian shops; soaked in 1 tablespoon water for 5 minutes)
+- 1 strip kombu (about 5 cm, sold dried at Japanese / Asian shops; soaked in 1 tablespoon water for 5 minutes)
 - 1 teaspoon toasted sesame seeds
 - 1 red chilli (small, sliced thin, optional)
 
@@ -34,7 +34,7 @@ The small bowl of pickles that lands beside almost every Japanese meal: bright, 
 ### Pickle 3 - Chinese cabbage with shiso (hakusai no asazuke)
 - 200 g Chinese cabbage (or napa cabbage, sliced 5 mm crosswise)
 - ½ teaspoon fine salt
-- 4 shiso leaves (sold at Japanese / Asian shops - or substitute fresh basil leaves + a pinch of fennel seed)
+- 4 shiso leaves (sold at Japanese / Asian shops, or substitute fresh basil leaves + a pinch of fennel seed)
 - 1 small piece kombu (3 cm, optional)
 - 1 teaspoon mirin
 
@@ -75,4 +75,4 @@ The small bowl of pickles that lands beside almost every Japanese meal: bright, 
 ## Storage
 - All three pickles refrigerate 3-5 days.
 - Asazuke generally taste best on day 1-2; longer keeps shift them toward saltier and more sour.
-- Don't freeze - texture suffers.
+- Don't freeze, texture suffers.

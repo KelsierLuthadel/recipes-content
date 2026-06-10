@@ -50,11 +50,11 @@ The vegetable side of tempura: sweet potato, kabocha, aubergine, mushrooms, gree
 
 ### Stage 2 - Heat the oil
 1. Heat 5 cm of oil in a heavy pot or deep fryer to 175-180°C.
-1. Drop a tiny piece of batter to test - it should sink halfway, then float and sizzle.
+1. Drop a tiny piece of batter to test, it should sink halfway, then float and sizzle.
 
 ### Stage 3 - Batter (only when ready to fry)
 1. In a wide bowl, whisk the egg yolk into the cold sparkling water; add a few ice cubes to keep it cold.
-1. Add the chilled flour all at once; mix with chopsticks or a fork in 4-5 strokes only - leave lumps and dry patches; this is correct.
+1. Add the chilled flour all at once; mix with chopsticks or a fork in 4-5 strokes only, leave lumps and dry patches; this is correct.
 
 ### Stage 4 - Fry
 1. Working in small batches:
@@ -69,7 +69,7 @@ The vegetable side of tempura: sweet potato, kabocha, aubergine, mushrooms, gree
 
 ## Notes
 - **Cold cold cold:** The temperature differential between the batter and the oil is what gives tempura its characteristic shattering crust. Lukewarm batter gives a soggy, doughy result.
-- **Lumpy batter is correct:** Smooth, well-mixed batter develops gluten and goes chewy. Two or three streaks of flour visible - perfect.
+- **Lumpy batter is correct:** Smooth, well-mixed batter develops gluten and goes chewy. Two or three streaks of flour visible, perfect.
 - **Pale, not deep golden:** Tempura should be the colour of straw, not toast. Deep brown means overcooked vegetables and a heavy crust.
 
 ## Storage

@@ -2,7 +2,7 @@
 
 ![Aborrajados](resources/aborrajados.jpg)
 
-*Ripe sweet plantain stuffed with melting cheese, then dipped in a sweet batter and deep-fried until the outside crackles. The Valle del Cauca (south-western Colombia) snack par excellence - sweet, savoury, gooey, all in one bite. Eats hot, the cheese pulling in long strings when you tear it open.*
+*Ripe sweet plantain stuffed with melting cheese, then dipped in a sweet batter and deep-fried until the outside crackles. The Valle del Cauca (south-western Colombia) snack par excellence, sweet, savoury, gooey, all in one bite. Eats hot, the cheese pulling in long strings when you tear it open.*
 
 **Serves:** 4 (makes 8 aborrajados)
 
@@ -16,7 +16,7 @@ Aborrajados are the Cali street-cart treat that turns a very ripe plantain into 
 ## Ingredients
 
 ### Plantain
-- 4 very ripe plantains (black-spotted skin - almost black)
+- 4 very ripe plantains (black-spotted skin, almost black)
 - 4 tablespoons neutral oil (for the first fry)
 
 ### Filling
@@ -63,7 +63,7 @@ Aborrajados are the Cali street-cart treat that turns a very ripe plantain into 
 1. Lift onto a wire rack.
 
 ### Stage 5 - Serve
-1. Eat immediately, hot - the cheese needs to be molten.
+1. Eat immediately, hot, the cheese needs to be molten.
 
 ## Notes
 - **Very ripe plantain or fail:** under-ripe plantains are starchy and bland. Black-skinned plantains have the deep banana sweetness aborrajados need.
@@ -72,5 +72,5 @@ Aborrajados are the Cali street-cart treat that turns a very ripe plantain into 
 
 ## Storage
 - Best within 10 minutes of frying.
-- Reheats poorly - the cheese turns rubbery on reheat. Fry to order.
+- Reheats poorly, the cheese turns rubbery on reheat. Fry to order.
 - Prepared (unfried) sandwiches keep 1 day refrigerated; batter and fry from cold.

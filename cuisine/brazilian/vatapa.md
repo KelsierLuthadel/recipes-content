@@ -44,7 +44,7 @@ Vatapá is one of Brazil's most opulent and most distinctly African dishes: a Ba
 - 600 g white long-grain rice (cooked)
 - 200 g farofa
 - Lime wedges
-- Acarajé (optional; black-eyed pea fritters that get stuffed with vatapá - Brazilian street food)
+- Acarajé (optional; black-eyed pea fritters that get stuffed with vatapá, Brazilian street food)
 - Cold Brazilian beer
 
 ## Method
@@ -113,7 +113,7 @@ Vatapá is one of Brazil's most opulent and most distinctly African dishes: a Ba
 
 ## Variations
 **Vatapá de frango (chicken vatapá):** swap prawns for cubed chicken; cook chicken 15 minutes in the cream before serving.
-**Vatapá de bacalhau (cod):** swap prawns for salt cod (desalted overnight) - Portuguese-Brazilian crossover.
+**Vatapá de bacalhau (cod):** swap prawns for salt cod (desalted overnight): Portuguese-Brazilian crossover.
 **Vatapá nordestino (northeastern variant):** add 100 g grated coconut to the paste; gives extra coconut depth.
 **Acarajé vatapá filling (street food):** smaller portions, served inside the fritters. The acarajé is the bigger production; the vatapá is the filling.
 **Vatapá com siri (with crab):** swap prawns for crab claws or picked crab meat.

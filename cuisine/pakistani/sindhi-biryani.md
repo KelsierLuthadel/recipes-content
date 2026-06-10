@@ -65,7 +65,7 @@ Sindhi biryani is the celebration rice dish of Sindh province, distinguished fro
 
 ### Stage 2 - Fried onions
 1. Heat oil in a wide pan over medium-high.
-1. Add sliced onions; fry 18-20 minutes, stirring often, until deep dark brown and crisp (NOT just gold - keep going).
+1. Add sliced onions; fry 18-20 minutes, stirring often, until deep dark brown and crisp (NOT just gold, keep going).
 1. Lift onto kitchen paper.
 1. Reserve 100 ml of the onion-flavoured oil for the biryani.
 
@@ -74,16 +74,16 @@ Sindhi biryani is the celebration rice dish of Sindh province, distinguished fro
 1. Add the marinated mutton (along with all the marinade).
 1. Cook 5 minutes on medium-high, stirring, until the yogurt absorbs.
 1. Add tomatoes and water.
-1. Bring to a simmer; cover; reduce heat; cook 45-60 minutes until the mutton is fall-from-bone tender. The sauce should be thick and clinging to the meat - not soupy. (Uncover for the last 10 minutes if too wet.)
+1. Bring to a simmer; cover; reduce heat; cook 45-60 minutes until the mutton is fall-from-bone tender. The sauce should be thick and clinging to the meat, not soupy. (Uncover for the last 10 minutes if too wet.)
 
 ### Stage 4 - Parboil rice
 1. While the mutton braises: bring 2 litres of well-salted water to a boil with the whole spices.
 1. Add the drained soaked rice.
-1. Cook 5-6 minutes until 70% done (still firm to the bite at the centre - the rice will finish in dum).
+1. Cook 5-6 minutes until 70% done (still firm to the bite at the centre, the rice will finish in dum).
 1. Drain quickly; spread on a wide tray briefly to stop cooking.
 
 ### Stage 5 - Layer
-1. Use the same wide heavy pot as the mutton (don't remove the mutton - layer over it).
+1. Use the same wide heavy pot as the mutton (don't remove the mutton, layer over it).
 1. Spread half the rice over the mutton evenly.
 1. Scatter: a third of the fried onions, all the prunes, the slit chillies, half the mint, half the coriander, a squeeze of lemon.
 1. Spread the remaining rice.
@@ -99,12 +99,12 @@ Sindhi biryani is the celebration rice dish of Sindh province, distinguished fro
 
 ### Stage 7 - Serve
 1. Uncover at the table.
-1. Use a wide flat spoon to gently lift portions from the pot, scooping down from rice through to mutton - try not to mash the rice.
+1. Use a wide flat spoon to gently lift portions from the pot, scooping down from rice through to mutton, try not to mash the rice.
 1. Eat with raita and a wedge of lemon.
 
 ## Notes
 - **Prunes are the Sindhi tell:** Alu bukhara (dried plum/prune) is what distinguishes Sindhi biryani from every other regional biryani. The slight tang and sweetness running through the dish is its character.
-- **Deep dark fried onions:** "Gold and crisp" is the goal. Pale onions give bland biryani. Don't be afraid to push the colour - they should be on the edge of burnt at the edges.
+- **Deep dark fried onions:** "Gold and crisp" is the goal. Pale onions give bland biryani. Don't be afraid to push the colour, they should be on the edge of burnt at the edges.
 - **70% cooked rice for dum:** Fully cooked rice goes to mush in the dum stage. The rice should still have a firm centre when drained; the steam from the meat finishes it.
 
 ## Storage

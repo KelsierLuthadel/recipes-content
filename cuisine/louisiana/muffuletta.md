@@ -68,7 +68,7 @@ The olive salad is the soul of the dish. Made even a few hours ahead, it is acce
 
 ## Notes
 - **Make the olive salad first.** This recipe is sometimes given without the rest period; you will end up with a coarsely chopped salad on a sandwich rather than the deeply melded relish a real muffuletta has. Six hours minimum. Overnight is better.
-- **Round seeded bread is the marker.** A standard Italian loaf works in a pinch; a baguette is wrong. The round shape is structural - it lets the sandwich press flat and quarter neatly.
+- **Round seeded bread is the marker.** A standard Italian loaf works in a pinch; a baguette is wrong. The round shape is structural, it lets the sandwich press flat and quarter neatly.
 - **Press the sandwich.** The pressing step is what makes a muffuletta a muffuletta: the olive salad oil migrates into the bread, the layers compact, the structure becomes one thing rather than several. Skipping it gives you a perfectly good but distinctly less interesting sandwich.
 - **Eat at room temperature or slightly warmer.** Cold muffuletta loses the open quality of the olive salad oil; piping hot melts the cheese unattractively. The middle is the sweet spot.
 

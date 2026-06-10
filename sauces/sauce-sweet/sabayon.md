@@ -2,7 +2,7 @@
 
 ![Sabayon](resources/sabayon.jpg)
 
-*Serve the sabayon immediately - either in a glass as it is, or spoon it over a dessert such as a medley of red fruits, or fruit filled crêpes in a gratin dish and place under a hot grill until the sabayon is lightly grilled.*
+*Serve the sabayon immediately, either in a glass as it is, or spoon it over a dessert such as a medley of red fruits, or fruit filled crêpes in a gratin dish and place under a hot grill until the sabayon is lightly grilled.*
 
 **Serves:** 4
 
@@ -31,7 +31,7 @@ Sabayon is the French version of Italian zabaglione and the building block for a
 1. Remove the bowl from the pan.
 
 ### Marsala sabayon
-For a richer sabayon, replace the Sauternes with Marsala, or Banyuls if you prefer. This is delicious spooned over summer berries and briefly gratinéed - either under the grill or using a cook's blowtorch.
+For a richer sabayon, replace the Sauternes with Marsala, or Banyuls if you prefer. This is delicious spooned over summer berries and briefly gratinéed, either under the grill or using a cook's blowtorch.
 
 ### Eau-de-vie sabayon
 Replace the Sauternes with 75 ml eau-de-vie, such as raspberry or pear, or Kirsch, and add 50 ml water and an extra 20 grams sugar.

@@ -48,7 +48,7 @@ Maklouba means "upside-down", and the flip at the end is the whole drama of a Pa
 ### Stage 1 - Cook the chicken
 1. Place the chicken in a large pot with the onion, cardamom, cinnamon, cloves, bay, peppercorns, water and salt.
 1. Bring to a simmer; cook 25 minutes; remove the chicken and reserve.
-1. Strain the stock; you should have about 1 litre - top up with hot water if less.
+1. Strain the stock; you should have about 1 litre, top up with hot water if less.
 
 ### Stage 2 - Fry the aubergines
 1. Heat 1 cm of oil in a frying pan over medium-high heat.
@@ -77,7 +77,7 @@ Maklouba means "upside-down", and the flip at the end is the whole drama of a Pa
 ### Stage 6 - Invert
 1. Run a spatula around the edges.
 1. Place a wide platter over the pot; flip in one steady motion.
-1. Lift the pot off carefully - the layers should stack neatly: rice on the bottom, then chicken, cauliflower, aubergine, tomato on top.
+1. Lift the pot off carefully, the layers should stack neatly: rice on the bottom, then chicken, cauliflower, aubergine, tomato on top.
 
 ### Stage 7 - Serve
 1. Scatter pine nuts, almonds and parsley on top.
@@ -86,7 +86,7 @@ Maklouba means "upside-down", and the flip at the end is the whole drama of a Pa
 ## Notes
 - **The flip is the moment:** Use a wide platter; commit to the motion. If pieces stick, rest a minute longer in the pot first.
 - **Fry the vegetables properly:** Pale aubergine and cauliflower don't have the colour or flavour for the layers. Fry until truly golden.
-- **Tomato on the bottom:** When inverted, the tomato is on top - it gives colour and a juicy contrast to the rice base.
+- **Tomato on the bottom:** When inverted, the tomato is on top, it gives colour and a juicy contrast to the rice base.
 
 ## Storage
 - Best fresh; reheat covered with a splash of water.

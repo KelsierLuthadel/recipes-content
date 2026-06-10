@@ -16,8 +16,8 @@ The London Fog is one of Canada's most successful modern drink exports. Despite 
 ## Ingredients
 
 ### Per drink (multiply for more)
-- 1 Earl Grey tea bag OR 1 tablespoon loose-leaf Earl Grey (good quality - Twinings, Taylor's, Harney & Sons; the flavour matters)
-- 200 ml freshly boiled water (at 95°C; not above 100°C - bergamot turns bitter at full boil)
+- 1 Earl Grey tea bag OR 1 tablespoon loose-leaf Earl Grey (good quality, Twinings, Taylor's, Harney & Sons; the flavour matters)
+- 200 ml freshly boiled water (at 95°C; not above 100°C, bergamot turns bitter at full boil)
 - 200 ml whole milk
 - 2 teaspoons vanilla syrup (homemade or shop-bought; recipe below)
 - Optional: a small lavender bud or 2 drops of lavender extract (for the "Earl Grey lavender" variant)
@@ -48,20 +48,20 @@ The London Fog is one of Canada's most successful modern drink exports. Despite 
 
 ### Stage 2 - Brew the tea
 1. Place the tea bag (or loose-leaf in a strainer) in a small heatproof jug.
-2. Pour over 200 ml of just-boiled water (let the kettle cool 30 seconds after boiling to drop from 100°C to about 95°C - bergamot is volatile and turns bitter at full boil).
-3. Brew 4-5 minutes (a strong brew - the bergamot needs to be present even after dilution by milk).
+2. Pour over 200 ml of just-boiled water (let the kettle cool 30 seconds after boiling to drop from 100°C to about 95°C, bergamot is volatile and turns bitter at full boil).
+3. Brew 4-5 minutes (a strong brew, the bergamot needs to be present even after dilution by milk).
 4. Remove the tea bag (or strain out the loose-leaf).
 
 ### Stage 3 - Steam the milk
 1. Pour the whole milk into a small saucepan.
 2. Warm over medium heat 2-3 minutes till the milk reaches 60-65°C (steaming, just before the simmer; bubbles forming at the edge).
-3. Off the heat, whisk vigorously by hand for 30 seconds to create some foam - or use a milk-steamer wand if you have one.
+3. Off the heat, whisk vigorously by hand for 30 seconds to create some foam, or use a milk-steamer wand if you have one.
 4. (If using a stovetop espresso milk-steamer or a French press, follow that method instead.)
 
 ### Stage 4 - Assemble
 1. Pour 100 ml of the brewed Earl Grey into the bottom of each warmed mug.
 2. Add 1-2 teaspoons of vanilla syrup; stir gently.
-3. Pour the steamed milk over - aim for the centre of the mug so the milk sinks in and mixes; finish by spooning a small dollop of foam on top.
+3. Pour the steamed milk over, aim for the centre of the mug so the milk sinks in and mixes; finish by spooning a small dollop of foam on top.
 4. The drink should be the colour of a milky tea with a light foam crown.
 
 ### Stage 5 - Serve
@@ -78,21 +78,21 @@ The London Fog is one of Canada's most successful modern drink exports. Despite 
 - **Brew teabag vs loose-leaf:** loose-leaf gives better flavour (especially Earl Grey, where the bergamot oil quality varies enormously between brands). Twinings Earl Grey bags work; a good loose-leaf Earl Grey from a specialty tea shop is markedly better.
 
 ## Variations
-**Earl Grey Lavender Fog (modern Vancouver):** add 2-3 lavender buds to the brewing tea, OR 2 drops of culinary lavender extract to the milk - the floral variant.
-**Maple London Fog:** swap the vanilla syrup for 2 teaspoons pure maple syrup - the Quebec-Vancouver crossover.
-**Iced London Fog:** brew the tea hot, add vanilla syrup, cool; pour over ice with cold milk - the summer variant.
-**Honey London Fog:** swap the vanilla syrup for 1-2 teaspoons of good honey - more delicate, more aromatic.
-**Vanilla bean London Fog:** infuse the milk with a split vanilla pod (warm in the milk for 5 minutes, then strain) - the extravagant variant.
+**Earl Grey Lavender Fog (modern Vancouver):** add 2-3 lavender buds to the brewing tea, OR 2 drops of culinary lavender extract to the milk, the floral variant.
+**Maple London Fog:** swap the vanilla syrup for 2 teaspoons pure maple syrup, the Quebec-Vancouver crossover.
+**Iced London Fog:** brew the tea hot, add vanilla syrup, cool; pour over ice with cold milk, the summer variant.
+**Honey London Fog:** swap the vanilla syrup for 1-2 teaspoons of good honey, more delicate, more aromatic.
+**Vanilla bean London Fog:** infuse the milk with a split vanilla pod (warm in the milk for 5 minutes, then strain): the extravagant variant.
 **Earl Grey Crème Brûlée Fog:** add a tablespoon of double cream and a touch more sugar; gives a richer, custard-like body.
-**Decaf London Fog:** swap the regular Earl Grey for decaf (rare but available) - the late-afternoon and evening version.
-**Spiced London Fog:** add a pinch of ground cardamom, cinnamon, and ginger to the brewing tea - the chai-influenced variant.
+**Decaf London Fog:** swap the regular Earl Grey for decaf (rare but available): the late-afternoon and evening version.
+**Spiced London Fog:** add a pinch of ground cardamom, cinnamon, and ginger to the brewing tea, the chai-influenced variant.
 **Vegan London Fog:** swap whole milk for oat milk (the best stand-in; oat milk steams beautifully); same vanilla syrup.
 
 ## Serving
 At a Vancouver coffee shop (the traditional setting; the drink's birthplace) · at a Canadian coffee shop nationwide · at a Toronto tea-room · at a Calgary independent café · at a Maritime tea-and-cake shop · at a Yukon hotel lobby on a winter afternoon · at home as the Sunday morning weather-permitting brew · paired with a Nanaimo bar, a butter tart, or a fresh-baked biscuit.
 
 ## Storage
-- Brew and drink fresh. London Fog doesn't reheat well - the milk forms a skin and the tea goes bitter on a second heat.
+- Brew and drink fresh. London Fog doesn't reheat well, the milk forms a skin and the tea goes bitter on a second heat.
 - The vanilla syrup keeps refrigerated 4 weeks in a sealed glass bottle.
 - Tea bags / loose-leaf tea keeps in a dry tin indefinitely (though Earl Grey loses bergamot fragrance after 12-18 months; buy fresh for the best flavour).
 - A pre-brewed "London Fog concentrate" (strong brewed tea + vanilla syrup mixed) keeps refrigerated 3 days; add hot milk on demand for fast service.

@@ -7,7 +7,7 @@
 ## Overview
 Chocolate is one of the most rewarding ingredients to learn properly and one of the most punishing to get wrong. The same bar of high-quality couverture, melted and cooled correctly, snaps with a clean break and a glossy sheen; melted and cooled incorrectly, it sets soft, dull, and streaked with white bloom. The difference is a 1 C temperature swing during cooling, and the difference is the entire reason commercial chocolate is the way it is.
 
-This course is built around tempering. Tempering is the heat-and-cool cycle that produces the stable Form V cocoa-butter crystal, which is responsible for the snap, the gloss, the long shelf life, and the way chocolate releases cleanly from a mould. Everything else - ganache, truffles, moulded bonbons, dipped chocolates - depends on a properly tempered base. Get the temper right and the rest is following recipes.
+This course is built around tempering. Tempering is the heat-and-cool cycle that produces the stable Form V cocoa-butter crystal, which is responsible for the snap, the gloss, the long shelf life, and the way chocolate releases cleanly from a mould. Everything else, ganache, truffles, moulded bonbons, dipped chocolates, depends on a properly tempered base. Get the temper right and the rest is following recipes.
 
 A note on terminology: this course uses "chocolate" to mean **real chocolate** made with cocoa butter, not the wax-and-vegetable-fat compound coatings sold under names like "candy melts" or "compound chocolate". Compound coatings do not need tempering (they have no cocoa butter) but also do not deliver chocolate flavour or texture. Stick to real chocolate; buy couverture if you can.
 
@@ -31,7 +31,7 @@ Most of the course collapses into three principles.
 
 1. **Tempering is mandatory.** Without proper temper, chocolate is matte, soft, prone to bloom (the white-grey film of badly-crystallised cocoa butter), and unpleasant to eat. With proper temper, chocolate is glossy, snaps cleanly, releases from moulds, and keeps for months. Every shaped or moulded product needs tempered chocolate.
 
-2. **Water is the enemy.** A single drop of water in a bowl of melting chocolate causes it to "seize" - the cocoa butter and the small amount of cocoa solids agglomerate into a gritty, broken mass that cannot be recovered. Bowls, spatulas, moulds, hands - all must be bone dry. The exception is ganache, where water (in the form of cream) is added in deliberate proportion and emulsified in.
+2. **Water is the enemy.** A single drop of water in a bowl of melting chocolate causes it to "seize", the cocoa butter and the small amount of cocoa solids agglomerate into a gritty, broken mass that cannot be recovered. Bowls, spatulas, moulds, hands, all must be bone dry. The exception is ganache, where water (in the form of cream) is added in deliberate proportion and emulsified in.
 
 3. **Temperature is precise.** The temperatures in this course are not approximate. Tempering dark chocolate needs to reach 50 C, drop to 27 C, and rise back to 31-32 C. A 2 C overshoot at any step ruins the temper. Use a digital thermometer with a thin probe; sample frequently.
 
@@ -44,7 +44,7 @@ Most of the course collapses into three principles.
 
 ## Where Next
 - [Patisserie](../patisserie/patisserie.md): chocolate is one of the foundation flavours of French patisserie. Many of the techniques (ganache, glaze, the seven-textures dessert) live in both courses.
-- [Eggs - Custards](../eggs/custards.md): chocolate custard, pots de creme, chocolate ice cream all build on the egg-custard technique with chocolate added.
+- [Eggs, Custards](../eggs/custards.md): chocolate custard, pots de creme, chocolate ice cream all build on the egg-custard technique with chocolate added.
 - [Sugar Work and Confectionery](../sugar-work/sugar-work.md): chocolate sits next to caramel, toffee and brittle in the confectioner's kit.
 
 ## A Note on Equipment
@@ -53,8 +53,8 @@ Minimum:
 - A heatproof bowl that fits over a saucepan (for the double-boiler / bain-marie method)
 - A digital thermometer with a thin probe (instant-read, accurate to 0.1 C)
 - A silicone spatula
-- A clean marble or stone surface (for the classic tabling method - optional but the most reliable temper for small batches)
-- Moulds if you want to make bars and bonbons - polycarbonate moulds give the best gloss
+- A clean marble or stone surface (for the classic tabling method, optional but the most reliable temper for small batches)
+- Moulds if you want to make bars and bonbons, polycarbonate moulds give the best gloss
 
 Nice-to-haves:
 - Bench scraper for the tabling method

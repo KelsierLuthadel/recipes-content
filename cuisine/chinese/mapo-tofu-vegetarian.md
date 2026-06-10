@@ -2,7 +2,7 @@
 
 ![Mapo Tofu (Vegetarian)](resources/mapo-tofu-vegetarian.jpg)
 
-*Sichuan's signature tofu dish in a vegetarian build - silky tofu cubes braised in a numbing-hot sauce of doubanjiang (fermented broad-bean chilli paste), Sichuan peppercorns and finely-chopped mushrooms standing in for the usual minced pork. The numbness (málà) and the heat are the dish; tofu is the carrier.*
+*Sichuan's signature tofu dish in a vegetarian build, silky tofu cubes braised in a numbing-hot sauce of doubanjiang (fermented broad-bean chilli paste), Sichuan peppercorns and finely-chopped mushrooms standing in for the usual minced pork. The numbness (málà) and the heat are the dish; tofu is the carrier.*
 
 **Serves:** 3-4
 
@@ -50,10 +50,10 @@ This is mapo tofu without the pork, where the dried shiitake mushroom steps in a
 ### Stage 2 - Mushrooms
 1. Drain the rehydrated mushrooms (save the liquid). Squeeze dry; chop finely.
 1. Heat the oil in a wok over medium heat.
-1. Add the chopped mushrooms; cook 5 minutes until darkened and slightly chewy - they're standing in for the meat texture.
+1. Add the chopped mushrooms; cook 5 minutes until darkened and slightly chewy, they're standing in for the meat texture.
 
 ### Stage 3 - Sauce
-1. Add the doubanjiang to the mushrooms; cook 1 minute, stirring - the oil should turn red.
+1. Add the doubanjiang to the mushrooms; cook 1 minute, stirring, the oil should turn red.
 1. Stir in the black beans, chilli flakes, garlic and ginger; cook 30 seconds.
 
 ### Stage 4 - Liquid
@@ -62,7 +62,7 @@ This is mapo tofu without the pork, where the dried shiitake mushroom steps in a
 1. Bring to a steady simmer.
 
 ### Stage 5 - Tofu and thicken
-1. Lift the tofu out of its poach water with a slotted spoon; slide gently into the wok. Don't stir hard - push the tofu around with the back of a spoon.
+1. Lift the tofu out of its poach water with a slotted spoon; slide gently into the wok. Don't stir hard, push the tofu around with the back of a spoon.
 1. Simmer 4-5 minutes; the tofu will absorb flavour.
 1. Stir the cornflour slurry; pour in while gently swirling. The sauce thickens to a glossy gravy in seconds.
 

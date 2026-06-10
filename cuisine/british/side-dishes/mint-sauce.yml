@@ -26,8 +26,8 @@ ingredients:
     raw: 1 tablespoon caster sugar
   - qty: 3.5
     unit: tbsp
-    name: malt vinegar - or white wine vinegar
-    raw: 3-4 tablespoons malt vinegar - or white wine vinegar
+    name: "malt vinegar : or white wine vinegar"
+    raw: "3-4 tablespoons malt vinegar : or white wine vinegar"
   - qty: 1
     unit: small pinch
     name: salt

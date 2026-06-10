@@ -45,13 +45,13 @@ Brooklyn's dense baked cheesecake and the iconic American dessert: cream cheese,
 1. Bake 10 minutes; cool on a rack while you make the filling.
 
 ### Stage 2 - Wrap the tin for water bath
-1. Wrap the bottom and sides of the springform tin in 2 layers of heavy-duty foil (no gaps - water mustn't seep in during the bath).
+1. Wrap the bottom and sides of the springform tin in 2 layers of heavy-duty foil (no gaps, water mustn't seep in during the bath).
 
 ### Stage 3 - Filling
 1. In a stand mixer or with electric beaters, beat the room-temperature cream cheese on medium for 2 minutes until smooth and lump-free.
 1. Add the sugar and flour; beat 2 more minutes.
 1. Scrape down the bowl.
-1. Add the eggs ONE AT A TIME, beating just until incorporated after each (don't over-aerate - bubbles cause cracks).
+1. Add the eggs ONE AT A TIME, beating just until incorporated after each (don't over-aerate, bubbles cause cracks).
 1. Add the extra yolk; beat briefly.
 1. Mix in the sour cream, vanilla, lemon zest and juice; beat on low until just combined.
 1. Scrape down again; mix briefly.
@@ -61,7 +61,7 @@ Brooklyn's dense baked cheesecake and the iconic American dessert: cream cheese,
 1. Pour the filling into the prepared crust; smooth the top with a spatula.
 1. Place the foil-wrapped tin into a deep roasting tray.
 1. Pour boiling water around the tin to a depth of 3 cm (the water bath stabilises the temperature and prevents cracks).
-1. Bake 60-75 minutes - the edges should be set and slightly puffed; the centre should jiggle a 7 cm wobble area.
+1. Bake 60-75 minutes, the edges should be set and slightly puffed; the centre should jiggle a 7 cm wobble area.
 
 ### Stage 5 - Slow cool
 1. Turn the oven off; crack the door open 5 cm.

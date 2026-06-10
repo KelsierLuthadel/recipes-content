@@ -20,12 +20,12 @@ Ackee and saltfish is Jamaica's national dish: an unlikely-looking combination o
 - Water for soaking
 
 ### The dish
-- 1 large tin ackee (about 540 g, drained gently - do not break the lobes)
+- 1 large tin ackee (about 540 g, drained gently, do not break the lobes)
 - 1 medium onion (finely sliced)
 - 1 red bell pepper (deseeded, sliced into thin strips)
 - 4 spring onions (whites and greens separated, finely sliced)
 - 3 garlic cloves (minced)
-- ½ scotch bonnet pepper (deseeded, finely chopped - adjust for heat)
+- ½ scotch bonnet pepper (deseeded, finely chopped, adjust for heat)
 - 4 sprigs fresh thyme (or 1 tsp dried)
 - 2 large tomatoes (deseeded and chopped)
 - 2 tbsp neutral oil
@@ -37,7 +37,7 @@ Ackee and saltfish is Jamaica's national dish: an unlikely-looking combination o
 
 ### Stage 1 - Soak the saltfish (the night before)
 1. Place the salt cod in a large bowl. Cover with cold water by at least 5 cm.
-1. Refrigerate at least 12 hours, changing the water 2-3 times during the soak. Taste a small sliver to test - it should still have a savoury saltiness but should not be aggressively salty.
+1. Refrigerate at least 12 hours, changing the water 2-3 times during the soak. Taste a small sliver to test, it should still have a savoury saltiness but should not be aggressively salty.
 1. If you have less time: bring the saltfish and water to a boil, simmer 10 minutes, drain, repeat once with fresh water. Faster but slightly mealier in texture.
 
 ### Stage 2 - Cook and flake the saltfish
@@ -57,7 +57,7 @@ Ackee and saltfish is Jamaica's national dish: an unlikely-looking combination o
 1. Sprinkle in the paprika and black pepper. Stir.
 
 ### Stage 5 - Add the ackee
-1. Drain the tinned ackee very carefully - the lobes break easily. Tip the ackee gently into the pan.
+1. Drain the tinned ackee very carefully, the lobes break easily. Tip the ackee gently into the pan.
 1. Fold the ackee through the saltfish and sofrito with a spoon, lifting from underneath rather than stirring. The ackee should warm through and pick up some colour from the sauce, but the lobes should stay mostly intact. Cook 3-4 minutes only.
 1. Off the heat. Scatter the spring-onion greens over the top.
 1. Taste; the dish should taste salty (from the fish), warm with chilli heat, herbaceous from the thyme and allspice. Add black pepper if needed.

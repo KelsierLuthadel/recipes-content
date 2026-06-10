@@ -16,7 +16,7 @@ A Chilean lentil stew, the kind of one-pot that turns up at any Sunday lunch thr
 ## Ingredients
 
 - 400 g green lentils (or brown lentils, rinsed)
-- 200 g smoked streaky bacon (or smoked pancetta - cut into 1 cm pieces)
+- 200 g smoked streaky bacon (or smoked pancetta, cut into 1 cm pieces)
 - 1 onion (large, chopped)
 - 4 garlic cloves (crushed)
 - 2 carrots (diced)
@@ -64,7 +64,7 @@ A Chilean lentil stew, the kind of one-pot that turns up at any Sunday lunch thr
 ## Notes
 - **Brown / green lentils:** Hold their shape better than red lentils, which collapse. The Chilean original uses green.
 - **Smoked bacon depth:** The signature. Skip it (and add 1 tsp smoked paprika more) for a vegetarian version.
-- **Vinegar at the end:** Cuts the richness. Don't add to the boil - it goes flat.
+- **Vinegar at the end:** Cuts the richness. Don't add to the boil, it goes flat.
 
 ## Storage
 - Refrigerate 5 days; lentils improve on day 2.

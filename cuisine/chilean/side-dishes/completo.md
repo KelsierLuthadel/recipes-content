@@ -15,7 +15,7 @@ The Chilean street hot dog and the proper night-out food after a few drinks in a
 
 ## Ingredients
 
-- 4 long soft hot dog rolls (pan de hot dog - softer and longer than American ones)
+- 4 long soft hot dog rolls (pan de hot dog, softer and longer than American ones)
 - 4 good-quality frankfurters (or German-style sausages)
 - 2 ripe avocados
 - ½ lime (juice)
@@ -34,7 +34,7 @@ The Chilean street hot dog and the proper night-out food after a few drinks in a
 1. Mash the avocado with lime juice and 1 teaspoon salt to a chunky-smooth purée.
 
 ### Stage 2 - Sausages
-1. Bring 2 litres of water to a low simmer (not boiling - boiling splits the casings).
+1. Bring 2 litres of water to a low simmer (not boiling, boiling splits the casings).
 1. Drop the frankfurters in; cook 5-6 minutes.
 1. Lift onto a tray.
 

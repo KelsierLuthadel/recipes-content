@@ -2,7 +2,7 @@
 
 ![Chicken and Sausage Gumbo](resources/chicken-and-sausage-gumbo.jpg)
 
-*The everyday Louisiana version of gumbo - no seafood, just chicken and andouille, simmered three hours in a deep mahogany roux with the holy trinity and a touch of tomato puree. Bacon fat (or duck fat) is the traditional roux medium; butter or oil work. Eats over white rice with hot sauce.*
+*The everyday Louisiana version of gumbo, no seafood, just chicken and andouille, simmered three hours in a deep mahogany roux with the holy trinity and a touch of tomato puree. Bacon fat (or duck fat) is the traditional roux medium; butter or oil work. Eats over white rice with hot sauce.*
 
 **Serves:** 10-12
 

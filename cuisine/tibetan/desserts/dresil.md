@@ -59,4 +59,4 @@ A sweet rice that's about generosity rather than complexity: hot basmati glossed
 ## Storage
 - Best within a few hours.
 - Keeps 2 days refrigerated; reheat gently.
-- Don't freeze - the rice texture suffers.
+- Don't freeze, the rice texture suffers.

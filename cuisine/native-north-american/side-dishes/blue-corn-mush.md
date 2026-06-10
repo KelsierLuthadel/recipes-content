@@ -31,11 +31,11 @@ A Pueblo and Hopi breakfast porridge built on blue corn, an indigenous heritage 
 
 ### Stage 1 - Boil
 1. Bring the water to a low boil in a heavy saucepan.
-1. Whisk in the baking soda and salt - the water will fizz briefly.
+1. Whisk in the baking soda and salt, the water will fizz briefly.
 
 ### Stage 2 - Whisk in the cornmeal
 1. Reduce heat to medium-low.
-1. With the water at a gentle simmer, pour the cornmeal in a thin steady stream while whisking vigorously - this is critical to avoid lumps.
+1. With the water at a gentle simmer, pour the cornmeal in a thin steady stream while whisking vigorously, this is critical to avoid lumps.
 1. Keep whisking 1 minute as it thickens.
 
 ### Stage 3 - Cook
@@ -51,8 +51,8 @@ A Pueblo and Hopi breakfast porridge built on blue corn, an indigenous heritage 
 1. Top each with a drizzle of honey or maple, a scatter of piñon nuts and dried berries, and a splash of cream.
 
 ## Notes
-- **Why blue cornmeal:** Blue corn is a Pueblo and Hopi heritage variety; the colour is from anthocyanins. Different in flavour from yellow - earthier, slightly more bitter, faintly smoky. White or yellow cornmeal makes a similar mush (atole), but the dish is properly blue.
-- **Baking soda or ash:** The alkali isn't optional in the historical version - it's what makes the corn's niacin bioavailable (the Pueblo were spared the pellagra that plagued some other corn-eating cultures). Even in this short-cook version, a pinch keeps the colour blue.
+- **Why blue cornmeal:** Blue corn is a Pueblo and Hopi heritage variety; the colour is from anthocyanins. Different in flavour from yellow, earthier, slightly more bitter, faintly smoky. White or yellow cornmeal makes a similar mush (atole), but the dish is properly blue.
+- **Baking soda or ash:** The alkali isn't optional in the historical version, it's what makes the corn's niacin bioavailable (the Pueblo were spared the pellagra that plagued some other corn-eating cultures). Even in this short-cook version, a pinch keeps the colour blue.
 - **No lumps, no scorch:** The two failure modes. Whisking constantly during the addition prevents lumps; stirring constantly during the cook prevents scorching.
 
 ## Storage

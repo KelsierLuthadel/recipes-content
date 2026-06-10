@@ -55,7 +55,7 @@ Pistachio babka buns are the individual-portion version of the iconic Eastern Eu
 ### Stage 4 - Make the date paste
 1. Chop the dates roughly if whole. Place in a heatproof bowl and pour over the just-boiled water. Cover and leave for 30 minutes; the dates collapse as they steam.
 2. Tip into a food processor and blitz to a smooth, spreadable paste, adding more water a tablespoon at a time if too thick. You want the consistency of soft peanut butter, not pourable.
-3. Stir in the cinnamon. Taste - it should be sweet and warm, with the cinnamon clearly present.
+3. Stir in the cinnamon. Taste, it should be sweet and warm, with the cinnamon clearly present.
 
 ### Stage 5 - Shape
 1. Lightly oil a 23 cm loose-bottom round cake tin and line the base with baking paper.
@@ -63,7 +63,7 @@ Pistachio babka buns are the individual-portion version of the iconic Eastern Eu
 3. Spread the date paste evenly across the rectangle, leaving a 1 cm clear strip along one short edge.
 4. Scatter the chopped pistachios over the paste.
 5. Roll up tightly from the long short edge opposite the clear strip, pinching the seam to seal as you finish.
-6. If the log has softened, lift onto a tray and chill for 20 minutes - a firm log slices cleanly; a soft one squashes. If the log is too long for your fridge, halve it.
+6. If the log has softened, lift onto a tray and chill for 20 minutes, a firm log slices cleanly; a soft one squashes. If the log is too long for your fridge, halve it.
 7. With a sharp serrated knife, slice the log into seven equal pieces about 5 cm thick.
 8. Arrange the slices spiral-side up in the prepared tin: one in the centre, six around it. Leave a small gap between each; they will rise to meet.
 
@@ -75,7 +75,7 @@ Pistachio babka buns are the individual-portion version of the iconic Eastern Eu
 2. Brush the tops of the buns lightly with the salted beaten egg.
 3. Bake for 20 minutes, until deep golden and the tops sound hollow when tapped.
 4. While they bake, make the honey syrup: combine the sugar, honey and water in a small pan over a low heat, swirling until the sugar dissolves and the syrup is glossy.
-5. As soon as the buns come out of the oven, brush them generously with the warm syrup. Use all of it - the buns will drink it in.
+5. As soon as the buns come out of the oven, brush them generously with the warm syrup. Use all of it, the buns will drink it in.
 6. Cool in the tin for 15 minutes, then lift out using the baking paper.
 
 ## Notes

@@ -53,7 +53,7 @@ Fattoush is the chopped Levantine salad of cucumber, tomato, radish and a heap o
 
 ### Stage 4 - Assemble
 1. Just before serving, pour the dressing over the salad; toss gently.
-1. Scatter the pita shards over the top - keep them on top, not folded in, so they stay crisp.
+1. Scatter the pita shards over the top, keep them on top, not folded in, so they stay crisp.
 1. Finish with another small pinch of sumac.
 
 ### Stage 5 - Serve
@@ -61,8 +61,8 @@ Fattoush is the chopped Levantine salad of cucumber, tomato, radish and a heap o
 
 ## Notes
 - **Pita on top, not stirred in:** The pita is meant to be crisp. Folded into the dressing it goes soggy in minutes. Scatter on top; let people lift it with their forks.
-- **Sumac is the signature:** The dark-red ground sumac berry gives the salad its characteristic lemony tartness. Don't substitute - skip it instead and add more lemon.
-- **Purslane:** A succulent green popular in Levantine salads. Hard to find outside Mediterranean grocers. Optional - the salad works without.
+- **Sumac is the signature:** The dark-red ground sumac berry gives the salad its characteristic lemony tartness. Don't substitute, skip it instead and add more lemon.
+- **Purslane:** A succulent green popular in Levantine salads. Hard to find outside Mediterranean grocers. Optional, the salad works without.
 
 ## Storage
 - Don't store dressed. Components keep separately 24 hours.

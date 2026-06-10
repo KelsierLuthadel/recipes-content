@@ -11,12 +11,12 @@
 **Cook Time:** 40 minutes
 
 ## Overview
-Boller i karry (literally "balls in curry") is a Danish family-dinner classic that emerged in the 1950s when Danish home cooks started experimenting with curry powder imported via Britain's colonial trade routes. The result is unmistakably Danish: poached (not fried) pork meatballs simmered in a creamy pale-yellow sauce built on a butter-flour roux, thickened with milk, flavoured with mild Danish curry powder (much milder than Indian curry - closer to a sweet aromatic spice blend) and finished with a touch of mango chutney or apple compote for sweetness. Served over fluffy white basmati rice, with the traditional Danish accompaniments scattered on top: toasted desiccated coconut, sliced banana, chopped peanut, and chopped pickle. The dish is gentle, sweet-sour, mildly spiced, and creamy - perfect for kids, and a fixture of every Danish school canteen and family dinner table.
+Boller i karry (literally "balls in curry") is a Danish family-dinner classic that emerged in the 1950s when Danish home cooks started experimenting with curry powder imported via Britain's colonial trade routes. The result is unmistakably Danish: poached (not fried) pork meatballs simmered in a creamy pale-yellow sauce built on a butter-flour roux, thickened with milk, flavoured with mild Danish curry powder (much milder than Indian curry, closer to a sweet aromatic spice blend) and finished with a touch of mango chutney or apple compote for sweetness. Served over fluffy white basmati rice, with the traditional Danish accompaniments scattered on top: toasted desiccated coconut, sliced banana, chopped peanut, and chopped pickle. The dish is gentle, sweet-sour, mildly spiced, and creamy, perfect for kids, and a fixture of every Danish school canteen and family dinner table.
 
 ## Ingredients
 
 ### Meatballs (kogt frikadeller - poached version)
-- 500 g ground pork (or use the traditional frikadeller mix - see [frikadeller recipe](frikadeller.md))
+- 500 g ground pork (or use the traditional frikadeller mix, see [frikadeller recipe](frikadeller.md))
 - 1 small onion (finely grated)
 - 1 large egg (beaten)
 - 3 tablespoons plain flour
@@ -70,7 +70,7 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 2. Bring to a gentle simmer (not a hard boil).
 
 ### Stage 3 - Shape and poach the meatballs
-1. With a wet tablespoon, scoop heaped portions of the meat mixture into small balls (about 25g each - slightly smaller than frikadeller for boller i karry).
+1. With a wet tablespoon, scoop heaped portions of the meat mixture into small balls (about 25g each, slightly smaller than frikadeller for boller i karry).
 2. Drop each ball gently into the simmering poaching liquid.
 3. Poach 12-15 minutes till cooked through and floating on top.
 4. Don't boil hard; the meatballs will fall apart.
@@ -80,13 +80,13 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 ### Stage 4 - Make the curry sauce
 1. In a heavy pan, melt the butter over medium heat.
 2. Add the chopped onion and leek; cook 8 minutes till soft and translucent.
-3. Stir in the curry powder and turmeric; cook 1 minute to bloom the spices in the butter (essential - this is where the flavour develops).
+3. Stir in the curry powder and turmeric; cook 1 minute to bloom the spices in the butter (essential, this is where the flavour develops).
 4. Sprinkle in the flour; whisk 2 minutes.
 5. Gradually whisk in the reserved poaching liquid in a slow steady stream.
 6. Bring to a gentle simmer; cook 5 minutes till thickened.
 7. Stir in the cream, mango chutney, grated apple, salt, and white pepper.
 8. Simmer 3 minutes more till glossy.
-9. Taste; adjust salt and sweetness - the sauce should be gently sweet with a mild aromatic curry warmth, not hot.
+9. Taste; adjust salt and sweetness, the sauce should be gently sweet with a mild aromatic curry warmth, not hot.
 
 ### Stage 5 - Combine
 1. Return the poached meatballs to the curry sauce.
@@ -113,8 +113,8 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 
 ## Variations
 **Hønsefrikadeller i karry:** swap the pork meatballs for chicken meatballs.
-**With fish (boller i karry med fisk):** swap the meatballs for fish dumplings made from cod and cream - a Lent version.
-**Spicier (modern):** add a teaspoon of curry paste (Thai red, Madras) for more heat - less traditional but increasingly common.
+**With fish (boller i karry med fisk):** swap the meatballs for fish dumplings made from cod and cream, a Lent version.
+**Spicier (modern):** add a teaspoon of curry paste (Thai red, Madras) for more heat, less traditional but increasingly common.
 **Vegetarian:** swap the meatballs for fried chickpea or paneer balls; same curry sauce.
 **Christmas leftover version:** swap the meatballs for sliced cold julestege (Christmas pork roast) for the day-after-Christmas curry leftover.
 

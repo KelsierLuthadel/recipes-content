@@ -141,8 +141,8 @@ ingredients:
     raw: 4 large eggs
   - qty: 2
     unit: tbsp
-    name: butter - brushed over the rim after baking
-    raw: 2 tablespoons butter - brushed over the rim after baking
+    name: "butter : brushed over the rim after baking"
+    raw: "2 tablespoons butter : brushed over the rim after baking"
   - qty: 1
     unit: tbsp
     name: aleppo pepper

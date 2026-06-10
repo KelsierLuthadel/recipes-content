@@ -45,7 +45,7 @@ Lu rou fan is Taiwan's everyday comfort bowl: hand-diced pork belly braised glos
 ## Method
 
 ### Stage 1 - Prep the pork
-1. Slice the pork belly into 1 cm thick strips, then into 1 cm cubes. Keep the skin on every piece - this is the texture that defines the dish.
+1. Slice the pork belly into 1 cm thick strips, then into 1 cm cubes. Keep the skin on every piece, this is the texture that defines the dish.
 2. Bring a saucepan of water to the boil. Add the pork; boil for 3 minutes to remove scum. Drain and rinse under cold water. Pat dry.
 
 ### Stage 2 - Build the aromatics

@@ -42,8 +42,8 @@ Lebanon's cheese manakish, the breakfast bread sold from every Beirut bakery bef
 1. Cover; rise 1 hour until doubled.
 
 ### Stage 2 - Cheese prep
-1. If using akkawi: soak in cold water 30 minutes (it's brined - desalinates), drain, grate.
-1. If using mozzarella + halloumi: grate both. Don't grate the halloumi too fine - leave some texture.
+1. If using akkawi: soak in cold water 30 minutes (it's brined, desalinates), drain, grate.
+1. If using mozzarella + halloumi: grate both. Don't grate the halloumi too fine, leave some texture.
 1. Toss the grated cheeses together with crumbled feta.
 
 ### Stage 3 - Shape
@@ -59,7 +59,7 @@ Lebanon's cheese manakish, the breakfast bread sold from every Beirut bakery bef
 1. Sprinkle nigella seeds and dried mint over the cheese.
 
 ### Stage 5 - Bake
-1. Bake 7-9 minutes - bottom is deep gold, cheese is melted and just bubbling, edges crisp.
+1. Bake 7-9 minutes, bottom is deep gold, cheese is melted and just bubbling, edges crisp.
 
 ### Stage 6 - Serve
 1. Eat warm. Cut into wedges, fold in half like a taco, or roll.

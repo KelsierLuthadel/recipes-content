@@ -42,12 +42,12 @@ Pita is the Levantine flatbread that puffs into a hollow pocket in the oven and 
 
 ### Stage 4 - Bake
 1. Slide one pita onto the hot stone using a peel or back of a tray (dust with flour or cornmeal first to prevent sticking).
-1. Bake 2-3 minutes - the bread puffs dramatically into a balloon.
+1. Bake 2-3 minutes, the bread puffs dramatically into a balloon.
 1. Lift off with tongs.
 1. Repeat with the rest.
 
 ### Stage 5 - Stack
-1. Stack the baked pitas under a clean tea towel - the steam keeps them soft.
+1. Stack the baked pitas under a clean tea towel, the steam keeps them soft.
 
 ### Stage 6 - Serve
 1. Eat warm. Tear or split open and stuff with shawarma, falafel, schnitzel, or scoop hummus.

@@ -49,14 +49,14 @@ Basbousa is the Egyptian semolina cake that lives at every neighbourhood bakery,
 ### Stage 3 - Shape and score
 1. Butter a 23 x 33 cm baking tin.
 1. Spread the batter evenly; smooth the top with a wet spatula.
-1. With a sharp knife, score the batter into diamonds (about 6 cm across) - cut all the way through to the bottom.
+1. With a sharp knife, score the batter into diamonds (about 6 cm across): cut all the way through to the bottom.
 1. Press a blanched almond into the centre of each diamond.
 
 ### Stage 4 - Bake
 1. Bake 30-35 minutes until deep golden on top and pulling slightly from the edges.
 
 ### Stage 5 - Drown in syrup
-1. As soon as it comes out of the oven, slowly pour the hot syrup all over - let it run into every cut.
+1. As soon as it comes out of the oven, slowly pour the hot syrup all over, let it run into every cut.
 1. The cake will absorb most of it within minutes.
 
 ### Stage 6 - Cool and serve

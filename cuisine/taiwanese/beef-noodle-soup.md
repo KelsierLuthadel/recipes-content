@@ -52,13 +52,13 @@ Taiwanese beef noodle soup (niu rou mian) is the island's national obsession, th
 ### Stage 1 - Parboil the beef
 1. Cut the shank into 5 cm chunks.
 1. Place in a pot; cover with cold water; bring to the boil.
-1. Boil 3-4 minutes; drain and rinse the beef thoroughly under cold water - this removes the scum and leaves you with a clean broth.
+1. Boil 3-4 minutes; drain and rinse the beef thoroughly under cold water, this removes the scum and leaves you with a clean broth.
 
 ### Stage 2 - Aromatics
 1. Heat the oil in a large heavy pot over medium-high heat.
 1. Add the ginger, garlic, spring onions and onion; cook 4-5 minutes until fragrant.
 1. Add the star anise, cinnamon, dried chillies and Sichuan peppercorns; cook 1 minute.
-1. Stir in the doubanjiang; cook 2 minutes - the oil should turn red.
+1. Stir in the doubanjiang; cook 2 minutes, the oil should turn red.
 
 ### Stage 3 - Tomato and deglaze
 1. Add the tomatoes; cook 4-5 minutes, mashing slightly, until they break down.
@@ -73,7 +73,7 @@ Taiwanese beef noodle soup (niu rou mian) is the island's national obsession, th
 
 ### Stage 5 - Strain (optional but cleaner)
 1. Lift the beef out into a bowl.
-1. Strain the broth through a fine sieve into a clean pot - discard the spices and aromatics.
+1. Strain the broth through a fine sieve into a clean pot, discard the spices and aromatics.
 1. Return the beef to the strained broth.
 1. Taste and adjust salt.
 
@@ -86,7 +86,7 @@ Taiwanese beef noodle soup (niu rou mian) is the island's national obsession, th
 ### Stage 7 - Serve
 1. Ladle hot broth over the noodles, with 3-4 chunks of beef per bowl.
 1. Top with pickled mustard greens, sliced spring onions, coriander and a drizzle of chilli oil.
-1. Eat while hot - chopsticks for noodles and beef, spoon for the broth.
+1. Eat while hot, chopsticks for noodles and beef, spoon for the broth.
 
 ## Notes
 - **Parboil first:** This is the secret to a clean, clear broth. Skipping gives a cloudy, scummy soup.

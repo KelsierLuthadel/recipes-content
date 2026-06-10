@@ -2,7 +2,7 @@
 
 ![Ensopado de Borrego](resources/ensopado-de-borrego.jpg)
 
-*Portugal's brothy lamb stew: cubes of lamb slow-cooked with onion, garlic, white wine, mint, coriander, paprika and bay leaves into a deeply savoury soupy stew, served over thick slices of stale bread that soak up the broth. The Alentejo countryside classic - bread is the carb, the broth is the prize.*
+*Portugal's brothy lamb stew: cubes of lamb slow-cooked with onion, garlic, white wine, mint, coriander, paprika and bay leaves into a deeply savoury soupy stew, served over thick slices of stale bread that soak up the broth. The Alentejo countryside classic, bread is the carb, the broth is the prize.*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 45 minutes
 
 ## Overview
-Ensopado de borrego (literally "soaked lamb") is one of Portugal's most beloved countryside stews and the traditional Alentejo countryside dish: cubes of lamb (typically shoulder; sometimes leg) slow-cooked with chopped onion, garlic, fresh tomato, white wine, paprika, fresh mint, fresh coriander, bay leaves and lamb stock into a deeply savoury soupy stew (not thick - properly brothy), then served ladled over thick slices of stale bread (the Portuguese "broa" - corn bread; or any sturdy stale white bread) that soak up the broth and become the carb. The dish is the Portuguese answer to a French bourguignon (with bread instead of mashed potato) or an Italian pasta-and-broth - bread is the traditional Portuguese carb in countryside cooking, and ensopado uses the stale-bread tradition. Stale bread is essential; fresh bread goes too soggy, and day-old or two-day-old is right. Mint and coriander together is the traditional Alentejo herb combination, not one or the other. The stew is meant to be soupy, not thick.
+Ensopado de borrego (literally "soaked lamb") is one of Portugal's most beloved countryside stews and the traditional Alentejo countryside dish: cubes of lamb (typically shoulder; sometimes leg) slow-cooked with chopped onion, garlic, fresh tomato, white wine, paprika, fresh mint, fresh coriander, bay leaves and lamb stock into a deeply savoury soupy stew (not thick, properly brothy), then served ladled over thick slices of stale bread (the Portuguese "broa", corn bread; or any sturdy stale white bread) that soak up the broth and become the carb. The dish is the Portuguese answer to a French bourguignon (with bread instead of mashed potato) or an Italian pasta-and-broth, bread is the traditional Portuguese carb in countryside cooking, and ensopado uses the stale-bread tradition. Stale bread is essential; fresh bread goes too soggy, and day-old or two-day-old is right. Mint and coriander together is the traditional Alentejo herb combination, not one or the other. The stew is meant to be soupy, not thick.
 
 ## Ingredients
 

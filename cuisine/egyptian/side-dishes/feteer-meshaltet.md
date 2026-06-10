@@ -40,7 +40,7 @@ Feteer meshaltet is the Egyptian layered pastry sometimes called Egyptian pizza,
 ### Stage 3 - Stretch
 1. Oil a wide work surface generously.
 1. Press the first dough half into a flat round; oil the top.
-1. With oiled hands, gently stretch outwards from the centre, rotating, until the dough is paper-thin and large (40-50 cm round) - you should see your hand through it.
+1. With oiled hands, gently stretch outwards from the centre, rotating, until the dough is paper-thin and large (40-50 cm round): you should see your hand through it.
 1. Don't worry about small holes.
 
 ### Stage 4 - Fold and layer
@@ -65,7 +65,7 @@ Feteer meshaltet is the Egyptian layered pastry sometimes called Egyptian pizza,
 ## Notes
 - **Stretch don't roll:** Feteer is built on a strudel-style stretch. A rolling pin won't get it thin enough; oiled hands will.
 - **Ghee not butter alone:** Ghee gives the flaky layers their proper character. Butter works but the flavour is shallower.
-- **Tear, don't slice:** The point is the layers - pull apart to expose them.
+- **Tear, don't slice:** The point is the layers, pull apart to expose them.
 
 ## Storage
 - Best fresh, eaten warm.

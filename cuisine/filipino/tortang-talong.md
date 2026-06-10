@@ -33,7 +33,7 @@ Tortang talong is the Filipino aubergine omelette, the dish that turns a charred
 1. Cool slightly; peel off the skin, leaving the stem attached if you can.
 
 ### Stage 2 - Flatten
-1. Lay each aubergine on a plate; press flat with the back of a fork in a fan shape - work outward from the stem so the flesh splays. Don't break it apart.
+1. Lay each aubergine on a plate; press flat with the back of a fork in a fan shape, work outward from the stem so the flesh splays. Don't break it apart.
 
 ### Stage 3 - Fry
 1. Beat the eggs with the salt and black pepper.
@@ -47,7 +47,7 @@ Tortang talong is the Filipino aubergine omelette, the dish that turns a charred
 1. Serve hot, drizzled with soy and calamansi or with banana ketchup, alongside steamed rice.
 
 ## Notes
-- **Char over flame for the smoke:** The whole point - that wood-fire flavour. Roasting in the oven is convenient but plainer.
+- **Char over flame for the smoke:** The whole point, that wood-fire flavour. Roasting in the oven is convenient but plainer.
 - **Keep the stem on:** Functions as a handle for flipping and dipping. If it falls off, no disaster.
 - **Don't drown in egg:** Too much egg makes it more frittata than torta. The aubergine should peek through.
 

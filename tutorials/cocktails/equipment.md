@@ -16,7 +16,7 @@ This page lists what to buy and what to spend on. Skip anything labelled "decora
 
 The shaker is for the shaken drinks: sours, daiquiris, anything with citrus or egg white. Two styles:
 
-- **Boston shaker** (two pieces - a 28oz metal tin + a 16oz mixing-glass insert). The bartender's choice. Faster, more capacity, harder to bind shut by accident.
+- **Boston shaker** (two pieces, a 28oz metal tin + a 16oz mixing-glass insert). The bartender's choice. Faster, more capacity, harder to bind shut by accident.
 - **3-piece cobbler shaker** (a tin + lid + built-in strainer). Easier for beginners; the built-in strainer means you don't need a separate Hawthorne strainer for shaken drinks.
 
 Start with a cobbler if you're new; switch to a Boston when you want speed.
@@ -27,7 +27,7 @@ For stirred drinks (Manhattan, Negroni, Martini, Old Fashioned). A 500ml weighte
 
 ### 3. A double jigger
 
-The most-used tool. Measures spirit volumes precisely. Buy a stepped Japanese jigger (one side 30ml/15ml stepped; other side 45ml/22.5ml stepped) - about £8. The cheap rounded American jigger only does 30/15 or 45/22.5 and is harder to read.
+The most-used tool. Measures spirit volumes precisely. Buy a stepped Japanese jigger (one side 30ml/15ml stepped; other side 45ml/22.5ml stepped): about £8. The cheap rounded American jigger only does 30/15 or 45/22.5 and is harder to read.
 
 ### 4. A Hawthorne strainer
 
@@ -35,26 +35,26 @@ The flat metal strainer with a spring coil that fits the top of the Boston shake
 
 ### 5. A bar spoon
 
-Long-handled spoon (about 30cm) with a twisted shaft. The twist is for stirring efficiently - you let the spoon spin between your fingers, the ice circles the glass, the drink chills without aerating. £4-6.
+Long-handled spoon (about 30cm) with a twisted shaft. The twist is for stirring efficiently, you let the spoon spin between your fingers, the ice circles the glass, the drink chills without aerating. £4-6.
 
 ### 6. Glassware
 
 Four glass types cover 95% of cocktails:
 
-- **Rocks glass** (300ml) - Old Fashioned, Negroni, whisky on the rocks.
-- **Coupe** (180-220ml) - sour, Daiquiri, French 75, anything served "up" (no ice).
-- **Martini glass** (180ml) - Martini, Manhattan, classic up drinks.
-- **Highball / Collins** (350-400ml) - long drinks: Tom Collins, gin and tonic, Mojito.
+- **Rocks glass** (300ml): Old Fashioned, Negroni, whisky on the rocks.
+- **Coupe** (180-220ml): sour, Daiquiri, French 75, anything served "up" (no ice).
+- **Martini glass** (180ml): Martini, Manhattan, classic up drinks.
+- **Highball / Collins** (350-400ml): long drinks: Tom Collins, gin and tonic, Mojito.
 
 Buy 4 of each. Coupe + martini are nearly interchangeable; if you can only buy three, get rocks + coupe + highball.
 
 ## The optional kit (when you're ready)
 
-- **Lewis bag + mallet** - for crushed ice (Mint Julep, Mai Tai).
-- **Citrus juicer** - a Mexican squeeze press (yellow for lemon, green for lime). £10. Hand-juicing 6 limes for a round of drinks is much less fun than it sounds.
-- **Channel knife / vegetable peeler** - for citrus twists. A regular Y-peeler works fine until you go full bartender.
-- **Strainer (fine mesh)** - a small tea strainer. Catches the small bits of crushed citrus pulp when "double-straining" a shaken drink for a clean look.
-- **Atomiser** - for spraying vermouth (a "dirty martini" requires only a fine vermouth mist over a chilled gin). A repurposed essential-oil atomiser works.
+- **Lewis bag + mallet**: for crushed ice (Mint Julep, Mai Tai).
+- **Citrus juicer**: a Mexican squeeze press (yellow for lemon, green for lime). £10. Hand-juicing 6 limes for a round of drinks is much less fun than it sounds.
+- **Channel knife / vegetable peeler**: for citrus twists. A regular Y-peeler works fine until you go full bartender.
+- **Strainer (fine mesh)**: a small tea strainer. Catches the small bits of crushed citrus pulp when "double-straining" a shaken drink for a clean look.
+- **Atomiser**: for spraying vermouth (a "dirty martini" requires only a fine vermouth mist over a chilled gin). A repurposed essential-oil atomiser works.
 
 ## What to skip
 
@@ -64,4 +64,4 @@ Buy 4 of each. Coupe + martini are nearly interchangeable; if you can only buy t
 
 ## Setup
 
-Keep all six items together on a tray or in a drawer. The friction of having to fetch the jigger from another room is the leading cause of "I'll just pour by eye" - which leads to bad cocktails. Keep it together; reach in once.
+Keep all six items together on a tray or in a drawer. The friction of having to fetch the jigger from another room is the leading cause of "I'll just pour by eye", which leads to bad cocktails. Keep it together; reach in once.

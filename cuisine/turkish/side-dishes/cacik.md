@@ -91,7 +91,7 @@ Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an i
 **Beetroot cacık:** add 1 small cooked beetroot (finely diced) for a pink-tinged variation; common modern Turkish-Levantine variation.
 
 ## Serving
-In a small bowl alongside the main meal, eaten with a spoon between bites of grilled meat or kebab. As a meze with warm flatbread for dipping. With dolma, kuzu şiş, köfte, or any rich Turkish main. The proper Turkish way is to spoon some cacık onto a bite of meat as you eat. Drink: ayran (which is the closely related drink - cacık without cucumber).
+In a small bowl alongside the main meal, eaten with a spoon between bites of grilled meat or kebab. As a meze with warm flatbread for dipping. With dolma, kuzu şiş, köfte, or any rich Turkish main. The proper Turkish way is to spoon some cacık onto a bite of meat as you eat. Drink: ayran (which is the closely related drink, cacık without cucumber).
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour develops over 24 hours.

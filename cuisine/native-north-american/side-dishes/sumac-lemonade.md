@@ -15,7 +15,7 @@ The Eastern Woodlands' summer drink, foraged across Haudenosaunee and Algonquian
 
 ## Ingredients
 
-- 2 whole staghorn sumac drupes (foraged in late summer / early autumn; bright red, fully formed, dry to the touch) - OR substitute 3 tablespoons ground culinary sumac (the Middle Eastern spice; same plant family)
+- 2 whole staghorn sumac drupes (foraged in late summer / early autumn; bright red, fully formed, dry to the touch): OR substitute 3 tablespoons ground culinary sumac (the Middle Eastern spice; same plant family)
 - 1.2 litres cold filtered water
 - 3-4 tablespoons pure maple syrup (or honey)
 - Lemon wheels, ice cubes, fresh mint (to serve)
@@ -24,18 +24,18 @@ The Eastern Woodlands' summer drink, foraged across Haudenosaunee and Algonquian
 
 ### Stage 1 - Identify the sumac (foraged version only)
 1. Use only STAGHORN SUMAC (Rhus typhina) or SMOOTH SUMAC (Rhus glabra). The drupes are bright deep red, in upright cone-shaped clusters, with fuzzy fruit.
-1. NEVER use POISON SUMAC (Toxicodendron vernix) - which has WHITE drooping berries, NOT red, and grows in swamps. If in any doubt, don't forage; use the dried ground spice from a shop.
+1. NEVER use POISON SUMAC (Toxicodendron vernix): which has WHITE drooping berries, NOT red, and grows in swamps. If in any doubt, don't forage; use the dried ground spice from a shop.
 1. Pick on a dry day (rain washes away the citric acid coating on the drupes).
 
 ### Stage 2 - Cold steep
 1. Place the drupes (whole) in a large jug.
 1. Pour cold water over.
 1. Press and bruise the drupes against the side of the jug with the back of a spoon for 1 minute to release the citric acid coating.
-1. Let stand 20 minutes (no longer - extended steeping draws tannins).
+1. Let stand 20 minutes (no longer, extended steeping draws tannins).
 
 ### Stage 3 - Strain
 1. Strain through a fine sieve.
-1. Strain a second time through a coffee filter or three layers of muslin - sumac drupes have tiny hairs that you don't want in the drink.
+1. Strain a second time through a coffee filter or three layers of muslin, sumac drupes have tiny hairs that you don't want in the drink.
 
 ### Stage 4 - Sweeten
 1. Stir in maple syrup; taste; add more until balanced. The drink should be sharp like a soft lemonade.
@@ -52,7 +52,7 @@ The Eastern Woodlands' summer drink, foraged across Haudenosaunee and Algonquian
 ## Notes
 - **Cold water, not hot:** This is the critical step. Hot water extracts tannins from the woody parts of the cluster and gives a bitter, harsh drink. Cold steeping draws only the citric acid coating.
 - **Two strainings:** Sumac drupes are covered in fine reddish hairs that are mildly irritating to the throat. Two strainings (a sieve then a coffee filter) eliminates them.
-- **Identification matters:** Staghorn / smooth sumac (red, upright fruit clusters) is the edible one. Poison sumac (white, drooping clusters, swamp habitat) is dangerous. If unsure, use the cheap ground spice from a Middle Eastern shop - same plant, dried and ground, safe and widely available.
+- **Identification matters:** Staghorn / smooth sumac (red, upright fruit clusters) is the edible one. Poison sumac (white, drooping clusters, swamp habitat) is dangerous. If unsure, use the cheap ground spice from a Middle Eastern shop, same plant, dried and ground, safe and widely available.
 
 ## Storage
 - Refrigerate up to 3 days; flavour fades after that.

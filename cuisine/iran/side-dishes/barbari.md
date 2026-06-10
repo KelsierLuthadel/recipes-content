@@ -53,7 +53,7 @@ Barbari is the Persian morning flatbread, long oval loaves with deep parallel ri
 1. Divide the dough into 2 portions.
 1. Oil the work surface and your hands generously.
 1. Press one portion into a long oval; stretch by hand to 40-50 cm long and 15 cm wide.
-1. With 4 fingertips together, press 4 parallel ridges (deep grooves) down the length of the dough - almost to the surface but not through.
+1. With 4 fingertips together, press 4 parallel ridges (deep grooves) down the length of the dough, almost to the surface but not through.
 
 ### Stage 5 - Glaze
 1. Brush the roomal generously over the top.

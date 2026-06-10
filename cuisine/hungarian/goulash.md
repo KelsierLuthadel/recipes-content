@@ -2,7 +2,7 @@
 
 ![Hungarian Goulash](resources/goulash.jpg)
 
-*Hungary's national dish: chunks of beef simmered slow with onions, sweet paprika and tomato into a rust-coloured stew. Originally a herder's dish cooked over open fires; modern versions are richer and thicker. Not the German "goulash" with sour cream - that's pörkölt-adjacent and a different thing.*
+*Hungary's national dish: chunks of beef simmered slow with onions, sweet paprika and tomato into a rust-coloured stew. Originally a herder's dish cooked over open fires; modern versions are richer and thicker. Not the German "goulash" with sour cream, that's pörkölt-adjacent and a different thing.*
 
 **Serves:** 6
 

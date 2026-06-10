@@ -61,7 +61,7 @@ India's spiral sweet and one of the most identity-defining Indian street dessert
 
 ### Stage 4 - Fry
 1. Heat the oil to 175-180°C in a wide shallow pan (8-9 cm deep is ideal; a wok or kadhai is traditional).
-2. Working over the oil, pipe spirals: start at the centre, make a small circle, then 2-3 interlocking loops around it (the classic shape; perfection isn't needed - rough is right).
+2. Working over the oil, pipe spirals: start at the centre, make a small circle, then 2-3 interlocking loops around it (the classic shape; perfection isn't needed, rough is right).
 3. Fry 30-40 seconds; flip; another 30-40 seconds until golden and crisp.
 4. The jalebi should be hard and rigid when lifted; if it's still floppy it's not crisp enough.
 5. Lift onto a slotted spoon; drain 5 seconds.
@@ -74,7 +74,7 @@ India's spiral sweet and one of the most identity-defining Indian street dessert
 
 ### Stage 6 - Serve
 1. Scatter slivered pistachios and saffron strands on top.
-2. Eat hot, within 10 minutes - the texture is at its absolute best on the first bite from the syrup.
+2. Eat hot, within 10 minutes, the texture is at its absolute best on the first bite from the syrup.
 
 ## Notes
 - **Fermentation:** Don't skip it. The slight sour tang and the air bubbles are what give jalebi its character. Warm room overnight; if your kitchen is cold (under 18°C), use the inside of an oven with the light on.
@@ -83,7 +83,7 @@ India's spiral sweet and one of the most identity-defining Indian street dessert
 - **Don't fry too dark:** Deep gold is right. Browned jalebi taste bitter and the syrup can't penetrate.
 
 ## Variations
-**Imarti (jangiri):** South Indian cousin - thicker batter (urad dal-based) piped in concentric flower shapes; deeper orange.
+**Imarti (jangiri):** South Indian cousin, thicker batter (urad dal-based) piped in concentric flower shapes; deeper orange.
 **Khova jalebi:** Add 50 g khoya (milk solids) to the batter for a richer, paler version popular in Rajasthan.
 **Without fermentation (quick):** Add ¼ teaspoon yeast and rest the batter 1 hour at warm room temperature. Acceptable shortcut; the depth of flavour is less.
 

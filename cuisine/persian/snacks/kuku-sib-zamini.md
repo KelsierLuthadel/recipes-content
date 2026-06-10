@@ -15,7 +15,7 @@ Kuku sib zamini is the potato cousin of kuku sabzi, the same baked-frittata tech
 
 ## Ingredients
 
-- 700 g waxy potatoes (about 4 medium - Charlotte, Yukon Gold or other waxy)
+- 700 g waxy potatoes (about 4 medium, Charlotte, Yukon Gold or other waxy)
 - 1 onion (large, finely diced)
 - 3 tablespoons sunflower oil OR ghee
 - 1 teaspoon ground turmeric

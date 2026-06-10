@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Pljeskavica (from "pljesak" - "clap"; refers to the slapping motion of forming the patties) is the iconic Balkan grilled-meat dish. The construction: a mix of minced pork and beef (50/50 is traditional) is combined with finely diced raw onion, salt, pepper, paprika and bicarbonate of soda (the secret tenderiser); rested 2 hours minimum; formed into wide thin discs (15 cm wide, 1 cm thick - much wider and thinner than a typical burger); grilled over wood coals till charred and just cooked. Served in soft flatbread (lepinja) with kajmak, raw onion, ajvar and pickled chillies.
+Pljeskavica (from "pljesak", "clap"; refers to the slapping motion of forming the patties) is the iconic Balkan grilled-meat dish. The construction: a mix of minced pork and beef (50/50 is traditional) is combined with finely diced raw onion, salt, pepper, paprika and bicarbonate of soda (the secret tenderiser); rested 2 hours minimum; formed into wide thin discs (15 cm wide, 1 cm thick, much wider and thinner than a typical burger); grilled over wood coals till charred and just cooked. Served in soft flatbread (lepinja) with kajmak, raw onion, ajvar and pickled chillies.
 
 ## Ingredients
 - 500 g minced pork

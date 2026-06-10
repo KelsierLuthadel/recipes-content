@@ -15,7 +15,7 @@ Mapo tofu (mapo doufu) is the dish a pockmarked widow named Chen invented in lat
 
 ## Ingredients
 
-- 600 g silken tofu (very soft Chinese-style - not silken Japanese)
+- 600 g silken tofu (very soft Chinese-style, not silken Japanese)
 - 200 g pork mince (or beef)
 - 3 tablespoons vegetable oil
 - 3 tablespoons doubanjiang (Pixian fermented broad-bean paste)
@@ -63,7 +63,7 @@ Mapo tofu (mapo doufu) is the dish a pockmarked widow named Chen invented in lat
 
 ### Stage 6 - Tofu
 1. Gently slide the blanched tofu cubes into the sauce.
-1. Spoon sauce over the tofu - do not stir aggressively (breaks the tofu).
+1. Spoon sauce over the tofu, do not stir aggressively (breaks the tofu).
 1. Simmer gently 5 minutes.
 
 ### Stage 7 - Thicken
@@ -81,7 +81,7 @@ Mapo tofu (mapo doufu) is the dish a pockmarked widow named Chen invented in lat
 1. Serve over hot rice.
 
 ## Notes
-- **Silken Chinese tofu, not Japanese:** Use the very soft Chinese silken (often labelled "soft tofu" or "silken tofu" - usually in a plastic tube). Japanese silken is too delicate; medium-firm tofu doesn't have the right slipperiness.
+- **Silken Chinese tofu, not Japanese:** Use the very soft Chinese silken (often labelled "soft tofu" or "silken tofu", usually in a plastic tube). Japanese silken is too delicate; medium-firm tofu doesn't have the right slipperiness.
 - **Don't stir-aggressively:** Pushing the tofu around breaks it. Lift with a spoon, ladle sauce over.
 - **Ground vs whole peppercorn:** Toast whole peppercorns lightly, then grind. Pre-ground loses the mala kick fast.
 

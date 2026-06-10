@@ -32,7 +32,7 @@ Moules marinière is the French mussel dish the Belgians later turned into moule
 ### Stage 1 - Clean the mussels
 1. Tip the mussels into the sink and cover with cold water.
 1. Scrub the shells one by one with a small brush; pull off any beards (the wiry threads).
-1. Discard any mussels that don't close when sharply tapped (they're dead - not safe).
+1. Discard any mussels that don't close when sharply tapped (they're dead, not safe).
 1. Drain in a colander.
 
 ### Stage 2 - Build the broth

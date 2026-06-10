@@ -45,7 +45,7 @@ Feteer meshaltet is the Egyptian layered pastry the country has been baking in c
 1. Whisk flour, salt, sugar and (if using) yeast in a wide bowl.
 1. Whisk milk + water + egg in a jug.
 1. Add wet to dry; mix to a soft sticky dough.
-1. Knead 10 minutes by hand - the dough should be very soft and elastic. Add a tablespoon of water if too dry, or a tablespoon of flour if unmanageably wet.
+1. Knead 10 minutes by hand, the dough should be very soft and elastic. Add a tablespoon of water if too dry, or a tablespoon of flour if unmanageably wet.
 1. Rest in an oiled bowl, covered, 30 minutes.
 
 ### Stage 2 - Divide and oil
@@ -54,7 +54,7 @@ Feteer meshaltet is the Egyptian layered pastry the country has been baking in c
 
 ### Stage 3 - Stretch first time
 1. Heavily ghee a wide work surface.
-1. Take one ball; flatten gently with palms; pull and stretch outward into a paper-thin square / circle 40 cm across (similar technique to filo / yufka - translucent in the centre).
+1. Take one ball; flatten gently with palms; pull and stretch outward into a paper-thin square / circle 40 cm across (similar technique to filo / yufka, translucent in the centre).
 1. Drizzle 2 tablespoons of melted ghee across the surface; spread with fingers.
 
 ### Stage 4 - Fold (lamination)
@@ -88,7 +88,7 @@ Feteer meshaltet is the Egyptian layered pastry the country has been baking in c
 1. Tear and dip, or layer toppings inside the warm wedges.
 
 ## Notes
-- **Stretch paper-thin:** The signature of feteer is the dramatic flaky-layered cross-section. That happens only if each ball is stretched truly translucent - you should see your hand through the dough. Tears are fine; they fold over.
+- **Stretch paper-thin:** The signature of feteer is the dramatic flaky-layered cross-section. That happens only if each ball is stretched truly translucent, you should see your hand through the dough. Tears are fine; they fold over.
 - **Ghee, generously:** Don't be timid with the fat between layers. Feteer is rich by design; sparingly-oiled feteer is flat and bread-like.
 - **Hot oven, short bake:** 220°C is right. Lower temperatures give pale, undercooked layers. The bake is short (about 25 min) because the dough is already thin.
 

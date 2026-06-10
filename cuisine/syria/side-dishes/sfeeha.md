@@ -62,7 +62,7 @@ Sfeeha is Aleppo's contribution to the great Levantine family of open-faced flat
 ### Stage 4 - Top
 1. Heat oven to 230°C (210°C fan).
 1. Spread a generous tablespoon of topping over each round, almost to the edge but leaving a small 5 mm border.
-1. Spread thin - thick meat won't cook through in the bake.
+1. Spread thin, thick meat won't cook through in the bake.
 
 ### Stage 5 - Bake
 1. Bake 12-14 minutes, until the dough is gold underneath and the meat is just cooked and slightly bubbling at the edges.

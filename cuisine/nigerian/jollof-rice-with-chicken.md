@@ -16,7 +16,7 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 ## Ingredients
 
 ### Chicken
-- 1.4 kg chicken pieces (drumsticks, thighs, breasts cut in half - bone-in, skin-on)
+- 1.4 kg chicken pieces (drumsticks, thighs, breasts cut in half, bone-in, skin-on)
 - 2 tablespoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (Nigerian-style if possible)
 - 2 teaspoons dried thyme
 - 2 stock cubes (Maggi or knorr)
@@ -64,7 +64,7 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 1. Heat the oil in a large heavy pot over medium heat.
 1. Add the sliced onion; cook 6-8 minutes until soft.
 1. Stir in the tomato paste; cook 4-5 minutes until much darker.
-1. Pour in the blended pepper sauce; cook 15-20 minutes, stirring often, until reduced by about a third and the colour has deepened to a brick red. The oil will pool around the edges - this is correct.
+1. Pour in the blended pepper sauce; cook 15-20 minutes, stirring often, until reduced by about a third and the colour has deepened to a brick red. The oil will pool around the edges, this is correct.
 
 ### Stage 4 - Bloom
 1. Stir in the curry powder, thyme, bay leaves, oregano, crumbled stock cube and salt.
@@ -72,11 +72,11 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 
 ### Stage 5 - Rice
 1. Add the rinsed rice; toss to coat in the pepper sauce.
-1. Pour in the reserved chicken stock - the liquid should be 2 cm above the rice (top up with hot water if not).
+1. Pour in the reserved chicken stock, the liquid should be 2 cm above the rice (top up with hot water if not).
 1. Bring to a steady simmer.
 
 ### Stage 6 - Cover and cook
-1. Cover with foil first (pressed onto the rice surface), then the lid - the foil traps steam and stops the rice drying out.
+1. Cover with foil first (pressed onto the rice surface), then the lid, the foil traps steam and stops the rice drying out.
 1. Reduce to lowest heat; cook 30-35 minutes.
 1. Don't lift the lid for the first 25 minutes.
 
@@ -87,15 +87,15 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 
 ### Stage 8 - Serve
 1. When the rice is done, take it off the heat; rest covered 5 more minutes.
-1. Stir gently to fluff (the bottom layer should be slightly crispy - the prized "party rice" texture).
+1. Stir gently to fluff (the bottom layer should be slightly crispy, the prized "party rice" texture).
 1. Pile rice on plates; arrange chicken on top.
 1. Top with sliced spring onions and basil if using.
 1. Eat with fried plantain (dodo), a green salad, or stewed beans alongside.
 
 ## Notes
-- **Smoky bottom = party jollof:** The slightly-burnt bottom layer (called "burn-burn") is celebrated, not avoided. Don't lift the lid early - let the steam-cook do its work.
+- **Smoky bottom = party jollof:** The slightly-burnt bottom layer (called "burn-burn") is celebrated, not avoided. Don't lift the lid early, let the steam-cook do its work.
 - **Scotch bonnet adjustable:** Three peppers gives proper Lagos heat. Reduce to one or none for mild palates; the dish still works.
-- **Stock cubes:** Nigerian cooking uses bouillon cubes generously; this isn't shame - they're a deliberate flavour layer. Maggi or Knorr; substitute extra salt + a teaspoon of yeast extract if you avoid them.
+- **Stock cubes:** Nigerian cooking uses bouillon cubes generously; this isn't shame, they're a deliberate flavour layer. Maggi or Knorr; substitute extra salt + a teaspoon of yeast extract if you avoid them.
 
 ## Storage
 - Keeps 4 days refrigerated; reheats well in a covered pan with a splash of water. The bottom-of-pot crispness is best fresh.

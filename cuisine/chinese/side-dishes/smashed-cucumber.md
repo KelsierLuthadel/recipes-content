@@ -21,13 +21,13 @@ Smashed cucumber (pai huang gua) is the snack the Sichuanese eat with cold beer 
 
 ### Dressing
 - 3 tablespoons light soy sauce
-- 2 tablespoons Chinkiang black vinegar (Chinese black vinegar - sold at Asian shops; substitute balsamic if unavailable)
+- 2 tablespoons Chinkiang black vinegar (Chinese black vinegar, sold at Asian shops; substitute balsamic if unavailable)
 - 1 tablespoon caster sugar
 - 1 tablespoon sesame oil
 - 1-2 tablespoons chilli oil (Lao Gan Ma or your preferred brand, with or without crispy bits)
 - 5 garlic cloves (crushed to a paste)
 - 1 teaspoon toasted sesame seeds
-- A pinch of MSG (optional - restaurant standard; can substitute pinch of mushroom seasoning powder)
+- A pinch of MSG (optional, restaurant standard; can substitute pinch of mushroom seasoning powder)
 
 ### To finish
 - 1 spring onion (finely sliced)
@@ -40,7 +40,7 @@ Smashed cucumber (pai huang gua) is the snack the Sichuanese eat with cold beer 
 1. Place a cucumber on a cutting board.
 1. Peel into strips
 1. Lay the flat side of a heavy cleaver (or rolling pin / small pan) on top.
-1. Strike the cleaver firmly with the heel of your hand to crack the cucumber lengthwise - the skin and flesh split unevenly.
+1. Strike the cleaver firmly with the heel of your hand to crack the cucumber lengthwise, the skin and flesh split unevenly.
 1. Repeat with remaining cucumbers.
 
 ### Stage 2 - Tear
@@ -50,7 +50,7 @@ Smashed cucumber (pai huang gua) is the snack the Sichuanese eat with cold beer 
 ### Stage 3 - Salt
 1. Place the torn cucumber in a colander set over a bowl.
 1. Sprinkle with the salt; toss with your hand.
-1. Rest 20-30 minutes - the cucumber releases visible water.
+1. Rest 20-30 minutes, the cucumber releases visible water.
 1. Don't rinse. Just press gently and drain.
 
 ### Stage 4 - Dressing
@@ -60,10 +60,10 @@ Smashed cucumber (pai huang gua) is the snack the Sichuanese eat with cold beer 
 ### Stage 5 - Combine
 1. Tip the drained cucumber into a wide bowl.
 1. Pour the dressing over.
-1. Toss thoroughly - the cucumber should be coated in the dressing, not swimming in it.
+1. Toss thoroughly, the cucumber should be coated in the dressing, not swimming in it.
 
 ### Stage 6 - Rest
-1. Cover; refrigerate 30 minutes - the cucumber absorbs the dressing's flavours.
+1. Cover; refrigerate 30 minutes, the cucumber absorbs the dressing's flavours.
 
 ### Stage 7 - Serve
 1. Tip onto a serving plate or shallow bowl.
@@ -74,8 +74,8 @@ Smashed cucumber (pai huang gua) is the snack the Sichuanese eat with cold beer 
 ## Notes
 - **Smashing is the technique:** Clean knife slices give clean cucumber that the dressing slides off. Smashed-and-torn cucumber has ragged porous surfaces that drink dressing. This is the entire difference between an ordinary cucumber salad and pai huang gua.
 - **Chinkiang black vinegar is specific:** It's malty, complex, lower in acidity than rice vinegar. Substitute Balsamic vinegar at a stretch (similar flavour profile, though sweeter); avoid distilled white vinegar (too sharp).
-- **Salt first, dress after:** Skipping the salt step gives a watery salad - the cucumber weeps into the dressing as it sits, diluting it. The 30-min salt rest sets the dressing concentrated and clinging.
+- **Salt first, dress after:** Skipping the salt step gives a watery salad, the cucumber weeps into the dressing as it sits, diluting it. The 30-min salt rest sets the dressing concentrated and clinging.
 
 ## Storage
-- Best within 2 hours of dressing - beyond that the cucumber goes too soft.
+- Best within 2 hours of dressing, beyond that the cucumber goes too soft.
 - Refrigerated leftovers keep 24 hours; eat as a refrigerator-quick-pickle (still good, less textured).

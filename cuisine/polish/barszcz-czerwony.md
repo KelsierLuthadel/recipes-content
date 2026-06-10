@@ -40,13 +40,13 @@ Polish barszcz is the brilliant ruby broth that opens Christmas Eve dinner and t
 
 ### Stage 2 - Strain
 1. Strain through a fine sieve lined with muslin (or a clean tea towel) into a clean pot.
-1. Press the solids gently - don't squeeze them through, you want clarity.
+1. Press the solids gently, don't squeeze them through, you want clarity.
 1. Discard the solids.
 
 ### Stage 3 - Balance
 1. Add the vinegar, sugar and salt.
 1. Bring back to a gentle simmer.
-1. Taste; adjust - should be sour-sweet with the beet earthiness behind. Add more vinegar for sharpness, more sugar to round out.
+1. Taste; adjust, should be sour-sweet with the beet earthiness behind. Add more vinegar for sharpness, more sugar to round out.
 
 ### Stage 4 - Serve
 1. Ladle into small bowls or mugs (Polish barszcz is often served in a mug with a single dumpling).

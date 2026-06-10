@@ -19,14 +19,14 @@ Thai coconut ice cream is the Bangkok street-cart classic, served from young coc
 - 800 ml full-fat coconut milk
 - 200 ml coconut cream (the thick top from a tin)
 - 150 g palm sugar (chopped fine; or 130 g caster sugar)
-- 2 tablespoons glucose syrup (or honey - keeps the texture smooth)
+- 2 tablespoons glucose syrup (or honey, keeps the texture smooth)
 - ¾ teaspoon salt
 - 1 pandan leaf, tied in a knot (optional)
 - 1 teaspoon vanilla extract (optional)
 
 ### Topping bar (per serving - set out for everyone to mix)
 - 2 bananas (small, sliced)
-- 200 g sweet sticky rice (cooked, with coconut sauce - see [khao-niao.md](../side-dishes/khao-niao.md))
+- 200 g sweet sticky rice (cooked, with coconut sauce, see [khao-niao.md](../side-dishes/khao-niao.md))
 - 80 g salted roasted peanuts (crushed)
 - 200 g sweet red bean paste OR cooked azuki beans in syrup (sold tinned at Asian shops)
 - 50 g toasted shredded coconut
@@ -48,7 +48,7 @@ Thai coconut ice cream is the Bangkok street-cart classic, served from young coc
 
 ### Stage 2 - Churn
 1. Pour the cold base into the bowl of an ice-cream maker.
-1. Churn 25-30 minutes (or per your machine's instructions) until the mixture is thick and creamy - like soft-serve ice cream.
+1. Churn 25-30 minutes (or per your machine's instructions) until the mixture is thick and creamy, like soft-serve ice cream.
 
 ### Stage 3 - Firm
 1. Scrape into a freezer container; press cling film directly onto the surface to prevent ice crystals.
@@ -56,7 +56,7 @@ Thai coconut ice cream is the Bangkok street-cart classic, served from young coc
 
 ### Stage 4 - Palm sugar syrup
 1. In a small pan, combine palm sugar, water and a pinch of salt.
-1. Heat over medium, stirring, until the sugar dissolves and the syrup is thinly coats a spoon - about 4 minutes.
+1. Heat over medium, stirring, until the sugar dissolves and the syrup is thinly coats a spoon, about 4 minutes.
 1. Cool.
 
 ### Stage 5 - Assemble
@@ -69,7 +69,7 @@ Thai coconut ice cream is the Bangkok street-cart classic, served from young coc
 1. The Bangkok build: a layer of warm sticky rice in the bottom, ice cream on top, banana to one side, beans to another, peanuts scattered, palm syrup drizzled, cherry on top.
 
 ## Notes
-- **Salt the coconut:** Thai sweet dishes get a more pronounced salt level than Western desserts. The ¾ teaspoon salt isn't a typo - it makes the coconut taste of coconut rather than of sugar.
+- **Salt the coconut:** Thai sweet dishes get a more pronounced salt level than Western desserts. The ¾ teaspoon salt isn't a typo, it makes the coconut taste of coconut rather than of sugar.
 - **No-churn option:** Whip 300 ml double cream to soft peaks; fold into the cooled coconut base; freeze 4 hours, stirring every 30 minutes for the first 2 hours to break up ice crystals. The texture is slightly less smooth than churned but very close.
 - **Coconut shell presentation:** If you can find young coconuts, cracking them in half and serving the ice cream in the shells is the full street-cart experience. Otherwise use small bowls.
 

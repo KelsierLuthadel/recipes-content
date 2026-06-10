@@ -68,11 +68,11 @@ Lomo saltado is Peru's signature stir-fry: a chifa-influenced dish born from the
 
 ### Stage 5 - Sauce
 1. Return the beef and any juices.
-1. Pour in the soy, vinegar and stock; toss for 30 seconds - the sauce should coat without pooling.
+1. Pour in the soy, vinegar and stock; toss for 30 seconds, the sauce should coat without pooling.
 1. Off the heat, add the lime juice.
 
 ### Stage 6 - Combine with fries
-1. Tip the fries into the wok; toss 30 seconds (just to coat - don't let them go soggy).
+1. Tip the fries into the wok; toss 30 seconds (just to coat, don't let them go soggy).
 1. Stir in the coriander; grind in pepper.
 
 ### Stage 7 - Serve

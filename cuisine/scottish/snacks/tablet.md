@@ -20,7 +20,7 @@ Tablet is Scotland's distinctively crystalline confectionery, a member of the fu
 - 250 ml whole milk
 - 120 g unsalted butter
 - 1 × 397 g tin sweetened condensed milk
-- 1 teaspoon vanilla extract (optional; controversial - some traditional Scottish recipes don't use it)
+- 1 teaspoon vanilla extract (optional; controversial, some traditional Scottish recipes don't use it)
 - A pinch of fine sea salt
 - 1 teaspoon malt whisky (optional, for the Highland variant)
 
@@ -39,14 +39,14 @@ Tablet is Scotland's distinctively crystalline confectionery, a member of the fu
 ### Stage 2 - Combine and dissolve
 1. Place the sugar, milk, and butter in a heavy-bottomed pan.
 2. Heat over low heat, stirring constantly with a wooden spoon, till the sugar fully dissolves (about 10 minutes).
-3. Don't increase the heat until ALL the sugar is dissolved - sugar crystals stuck to the side of the pan can trigger early crystallisation later.
+3. Don't increase the heat until ALL the sugar is dissolved, sugar crystals stuck to the side of the pan can trigger early crystallisation later.
 4. Use a wet pastry brush to wash any sugar crystals down the sides of the pan as needed.
 
 ### Stage 3 - Boil to soft-ball
 1. Once fully dissolved, add the condensed milk and salt.
 2. Stir to combine.
 3. Increase the heat to medium-high.
-4. Bring to a boil; stir constantly with the wooden spoon (essential - the mixture burns quickly otherwise).
+4. Bring to a boil; stir constantly with the wooden spoon (essential, the mixture burns quickly otherwise).
 5. The mixture will rise dramatically in the pan (this is why you need the big pan).
 6. Boil, stirring constantly, for 18-22 minutes till the temperature reaches 115-118°C (the "soft-ball" stage) on a sugar thermometer.
 7. SOFT-BALL TEST (if you don't have a thermometer): drop a small amount of mixture into a cup of cold water; it should form a soft ball that holds its shape when squeezed between your fingers.
@@ -58,10 +58,10 @@ Tablet is Scotland's distinctively crystalline confectionery, a member of the fu
 
 ### Stage 5 - Beat (the crystallisation step)
 1. With the wooden spoon, begin beating vigorously.
-2. Continue beating for 5-10 minutes - your arm will get tired.
+2. Continue beating for 5-10 minutes, your arm will get tired.
 3. The mixture starts glossy and dark amber.
 4. As you beat, it gradually thickens, lightens in colour (to pale-amber/honey), and starts to look matt/sandy on the surface (this is the sugar crystallising).
-5. Stop beating just as the mixture starts to look matt and feels slightly grainy on the spoon - if you wait too long, it'll set in the pan.
+5. Stop beating just as the mixture starts to look matt and feels slightly grainy on the spoon, if you wait too long, it'll set in the pan.
 
 ### Stage 6 - Pour and set
 1. Quickly pour the mixture into the lined tin.
@@ -81,18 +81,18 @@ Tablet is Scotland's distinctively crystalline confectionery, a member of the fu
 - **Big pan:** the mixture quadruples in volume during boiling. A 4-litre pan minimum.
 - **Sugar thermometer:** the 115-118°C window is narrow. A few degrees over and the tablet is hard like rock candy; a few degrees under and it stays soft like fudge.
 - **Stir constantly during boiling:** the mixture burns fast. Constant stirring with a wooden spoon.
-- **Beat just enough - not too long:** under-beat = soft like fudge. Over-beat = sets in the pan. The sweet spot is the moment it goes matt and slightly grainy.
+- **Beat just enough, not too long:** under-beat = soft like fudge. Over-beat = sets in the pan. The sweet spot is the moment it goes matt and slightly grainy.
 - **Don't refrigerate:** room-temperature setting gives the right texture. Refrigeration causes sugar bloom.
 
 ## Variations
 **Highland whisky tablet:** add 2 teaspoons single-malt Scotch in stage 4. Adult variant.
 **Vanilla tablet:** add 2 teaspoons vanilla bean paste at the end for a more pronounced vanilla.
-**With sea-salt flakes:** sprinkle Maldon sea salt flakes on top as the tablet sets - modern salted-caramel-style variant.
-**With nuts:** stir in 100 g chopped toasted hazelnuts or pecans during the final beating - texture contrast.
-**Chocolate tablet:** stir in 100 g grated dark chocolate during the final beating - bittersweet variant.
-**Coffee tablet:** add 1 tablespoon strong espresso to the mixture in stage 4 - bitter edge.
-**Heather-honey tablet:** swap 2 tablespoons of the sugar for 2 tablespoons of heather honey - adds floral note.
-**Ginger tablet:** stir 80 g finely chopped stem ginger into the mixture during final beating - warming, slightly spicy.
+**With sea-salt flakes:** sprinkle Maldon sea salt flakes on top as the tablet sets, modern salted-caramel-style variant.
+**With nuts:** stir in 100 g chopped toasted hazelnuts or pecans during the final beating, texture contrast.
+**Chocolate tablet:** stir in 100 g grated dark chocolate during the final beating, bittersweet variant.
+**Coffee tablet:** add 1 tablespoon strong espresso to the mixture in stage 4, bitter edge.
+**Heather-honey tablet:** swap 2 tablespoons of the sugar for 2 tablespoons of heather honey, adds floral note.
+**Ginger tablet:** stir 80 g finely chopped stem ginger into the mixture during final beating, warming, slightly spicy.
 
 ## Serving
 At every Scottish church fete, school fundraiser, and bake-sale (the traditional sales item) · in tartan-printed tins as a tourist souvenir from any Edinburgh shop · at a Scottish family Christmas hamper · as a Scottish wedding-favour bag · at a Burns Night supper as the after-dinner sweet · at home with a strong cup of tea (the only thing that cuts the sweetness) · as a present for a Scottish dentist (joke; please don't).
@@ -102,4 +102,4 @@ At every Scottish church fete, school fundraiser, and bake-sale (the traditional
 - Don't refrigerate (causes the sugar to bloom and the texture to go gritty).
 - Freezes 3 months (wrapped well); defrost at room temperature.
 - The tablet hardens slightly over the first week as it dries; this is normal.
-- Stale tablet (3+ weeks old) becomes very hard but is still edible - break into small pieces and stir into hot milk for a Scottish hot chocolate.
+- Stale tablet (3+ weeks old) becomes very hard but is still edible, break into small pieces and stir into hot milk for a Scottish hot chocolate.

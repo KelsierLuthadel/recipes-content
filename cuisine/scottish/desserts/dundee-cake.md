@@ -44,7 +44,7 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 ### Stage 1 - Optional fruit soak (overnight)
 1. Mix the sultanas, currants, candied peel, glacé cherries, orange zest, lemon zest, marmalade, and whisky in a bowl.
 2. Cover; leave overnight at room temperature.
-3. This step is optional but recommended - the fruit plumps and absorbs the whisky.
+3. This step is optional but recommended, the fruit plumps and absorbs the whisky.
 
 ### Stage 2 - Prep the tin
 1. Line a deep 20 cm round cake tin with two layers of parchment (bottom and sides; the sides should come 5 cm above the rim).
@@ -79,7 +79,7 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 
 ### Stage 9 - Bake
 1. Bake at 160°C for 2 hours.
-2. Check after 1 hour 45 minutes - if the top is browning too quickly, cover loosely with parchment.
+2. Check after 1 hour 45 minutes, if the top is browning too quickly, cover loosely with parchment.
 3. The cake is done when a skewer inserted into the centre comes out clean (or with a few moist crumbs but no wet batter).
 4. Total bake time is typically 2 hours to 2 hours 30 minutes depending on the oven.
 
@@ -89,7 +89,7 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 3. Cool completely on a wire rack (3-4 hours).
 
 ### Stage 11 - Optional gloss finish
-1. Warm 2 tablespoons of apricot jam with 1 tablespoon water; brush the warm glaze gently over the almonds - gives a beautiful golden gloss.
+1. Warm 2 tablespoons of apricot jam with 1 tablespoon water; brush the warm glaze gently over the almonds, gives a beautiful golden gloss.
 2. Optional: a very light dusting of icing sugar.
 
 ### Stage 12 - Serve
@@ -107,10 +107,10 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 
 ## Variations
 **Christmas-Dundee hybrid:** add 100 g mixed spice + 100 g chopped dates to the fruit; ice the top with marzipan and white royal icing for a Christmas version (loses the almond-ring signature but gains Christmas-cake character).
-**Marmalade-loaded Dundee:** add 4 extra tablespoons of Dundee marmalade to the batter - extra orange-bitter depth.
-**Whisky-loaded Dundee:** double the whisky in the soak and add another tablespoon to the batter - boozier.
+**Marmalade-loaded Dundee:** add 4 extra tablespoons of Dundee marmalade to the batter, extra orange-bitter depth.
+**Whisky-loaded Dundee:** double the whisky in the soak and add another tablespoon to the batter, boozier.
 **Smaller Dundee cake:** make in a 15 cm tin (halve all quantities); for a smaller household.
-**Dundee tea bread (loaf version):** bake in a loaf tin for 90 minutes instead - easier to slice for tea-time sandwiches.
+**Dundee tea bread (loaf version):** bake in a loaf tin for 90 minutes instead, easier to slice for tea-time sandwiches.
 **Gluten-free Dundee:** use gluten-free self-raising flour + add ½ teaspoon xanthan gum; otherwise identical.
 
 ## Serving
@@ -118,7 +118,7 @@ At a Scottish high tea with strong tea and butter (the traditional setting) · a
 
 ## Storage
 - Keeps wrapped in foil in a sealed tin for 3 weeks (matures beautifully in the first week).
-- "Feeding" - every 2-3 days, prick the top with a skewer and drizzle 1 teaspoon of whisky over; keeps the cake moist and intensifies the flavour.
+- "Feeding", every 2-3 days, prick the top with a skewer and drizzle 1 teaspoon of whisky over; keeps the cake moist and intensifies the flavour.
 - Freezes 6 months wrapped well; defrost overnight in the fridge.
 - Best eaten 3-7 days after baking when the flavours have matured.
 - Stale Dundee cake makes excellent trifle base (cube and use in place of sponge in tipsy laird).

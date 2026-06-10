@@ -17,7 +17,7 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 
 ### Bread base
 - 8 thick slices Danish rugbrød (dense sourdough rye; if unavailable, use the densest dark German rye / pumpernickel)
-- 100 g cold salted butter (Danish butter ideal - Lurpak; or any quality salted butter)
+- 100 g cold salted butter (Danish butter ideal, Lurpak; or any quality salted butter)
 
 ### Topping 1: Sild på rugbrød (pickled herring) - for 2 pieces
 - 4 fillets pickled herring (inlagd sill style; from a jar)
@@ -41,9 +41,9 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 - Ground black pepper
 
 ### Topping 4: Dyrlægens natmad (vet's late-night supper) - for 2 pieces
-- 4 slices of cold leverpostej (Danish liver pâté; warm-baked the day before is the traditional chef version, or use shop-bought leverpostej from a tin - Stryhn's brand is the Danish standard)
+- 4 slices of cold leverpostej (Danish liver pâté; warm-baked the day before is the traditional chef version, or use shop-bought leverpostej from a tin, Stryhn's brand is the Danish standard)
 - 4 thin slices cold roast beef
-- 2 small spoons of meat aspic (sky - chopped fine; from a butcher; or skip)
+- 2 small spoons of meat aspic (sky, chopped fine; from a butcher; or skip)
 - 1 small red onion (sliced very thin)
 - A small handful of garden cress
 
@@ -62,12 +62,12 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 
 ### Stage 2 - Boil the potatoes (for kartoffelmad)
 1. Boil small potatoes in salted water 12-15 minutes till tender.
-2. Drain; cool completely (essential - the slices won't hold their shape if warm).
+2. Drain; cool completely (essential, the slices won't hold their shape if warm).
 3. Peel; slice into 5mm rounds.
 
 ### Stage 3 - Butter the bread
 1. Lay all 8 slices of rugbrød on a board.
-2. Spread cold butter generously across each slice (Danish butter use is generous - distinct visible thickness, not a thin smear).
+2. Spread cold butter generously across each slice (Danish butter use is generous, distinct visible thickness, not a thin smear).
 
 ### Stage 4 - Build each smørrebrød
 1. **Sild på rugbrød (2 pieces):** Place 1-2 herring fillets across each slice. A few thin half-rings of red onion. A scatter of capers. A heap of chopped dill. A lemon wedge alongside.
@@ -80,7 +80,7 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 
 ### Stage 5 - Plate
 1. Arrange the 8 smørrebrød on a large flat platter or one per plate.
-2. The traditional Danish serving order is: herring first (cold), then fish (other), then meat, then cheese - drink akvavit between courses.
+2. The traditional Danish serving order is: herring first (cold), then fish (other), then meat, then cheese, drink akvavit between courses.
 3. Each gets a knife and fork.
 
 ### Stage 6 - The snaps and beer ritual
@@ -93,7 +93,7 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 - **Generous butter:** Danish butter use is generous; thin smears are wrong.
 - **Each topping is a named composition:** don't mix freely; respect the traditional combinations.
 - **Fork-and-knife only:** smørrebrød is plated and eaten with cutlery, never handheld. Picking one up marks you as a non-Dane.
-- **Pickled / fresh / sharp:** every composition has all three - pickled element (herring, onion), fresh-green (dill, cress, chives), sharp (mustard, horseradish, capers).
+- **Pickled / fresh / sharp:** every composition has all three, pickled element (herring, onion), fresh-green (dill, cress, chives), sharp (mustard, horseradish, capers).
 
 ## Variations
 **Beef-and-blue-cheese:** thin slices of cold roast beef + crumbled Danish blue + horseradish + crispy onions + cress (less traditional, more modern).

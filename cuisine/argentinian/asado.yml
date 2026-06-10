@@ -27,16 +27,16 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: asado de tira - the traditional first beef cut
-    raw: 1.5 kg asado de tira - the traditional first beef cut
+    name: "asado de tira : the traditional first beef cut"
+    raw: "1.5 kg asado de tira : the traditional first beef cut"
   - qty: 1
     unit: kg
-    name: vacio - the asador's favourite
-    raw: 1 kg vacío - the asador's favourite
+    name: "vacio : the asador's favourite"
+    raw: "1 kg vacío : the asador's favourite"
   - qty: 800
     unit: g
-    name: bife de chorizo or entrana - premium cuts
-    raw: 800 g bife de chorizo OR entraña - premium cuts
+    name: "bife de chorizo or entrana : premium cuts"
+    raw: "800 g bife de chorizo OR entraña : premium cuts"
   - qty: 6
     name: chorizo sausages
     raw: 6 chorizo sausages

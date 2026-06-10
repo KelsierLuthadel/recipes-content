@@ -2,7 +2,7 @@
 
 ![Batata Harra](resources/batata-harra.jpg)
 
-*Spicy Levantine potatoes: chunky potato cubes pan-fried until deep gold, tossed off-heat with garlic, fresh coriander, chilli flakes and lemon. Eat as a mezze side or alongside grilled meats. Hot, garlicky, herbal - the classic Jordanian / Lebanese vegetable side that sits next to hummus on every mezze table.*
+*Spicy Levantine potatoes: chunky potato cubes pan-fried until deep gold, tossed off-heat with garlic, fresh coriander, chilli flakes and lemon. Eat as a mezze side or alongside grilled meats. Hot, garlicky, herbal, the classic Jordanian / Lebanese vegetable side that sits next to hummus on every mezze table.*
 
 **Serves:** 4 as a side
 
@@ -43,7 +43,7 @@ The spicy Levantine potato side that sits next to hummus on every mezze table fr
 
 ### Stage 4 - Garlic
 1. Pour off all but 3 tablespoons of the frying oil.
-1. Reduce heat to medium-low; add crushed garlic; cook 60 seconds - pale gold, not brown.
+1. Reduce heat to medium-low; add crushed garlic; cook 60 seconds, pale gold, not brown.
 1. Stir in chilli flakes, cumin, salt.
 
 ### Stage 5 - Combine
@@ -58,7 +58,7 @@ The spicy Levantine potato side that sits next to hummus on every mezze table fr
 ## Notes
 - **Dry the potatoes well:** Wet potatoes spatter and don't crisp. The tea-towel step is important.
 - **Garlic just gold:** Brown garlic is bitter and ruins the dish. 60 seconds is enough.
-- **Aleppo chilli:** The right chilli flake for Levantine cooking - fruity, medium heat. Substitute regular chilli flakes with a pinch of paprika.
+- **Aleppo chilli:** The right chilli flake for Levantine cooking, fruity, medium heat. Substitute regular chilli flakes with a pinch of paprika.
 
 ## Storage
 - Refrigerate 2 days. Reheat in a hot pan to re-crisp.

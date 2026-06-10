@@ -2,7 +2,7 @@
 
 ![Pierogi z Kapustą i Grzybami](resources/pierogi-z-kapusta-i-grzybami.jpg)
 
-*Polish dumplings filled with sauerkraut and dried wild mushrooms - Christmas Eve pierogi, and an everyday pierogi the rest of the year. The filling is sour, earthy, deep; the dough is slightly elastic from kneading. Boiled briefly, then often pan-fried in butter for a crisp golden bottom.*
+*Polish dumplings filled with sauerkraut and dried wild mushrooms, Christmas Eve pierogi, and an everyday pierogi the rest of the year. The filling is sour, earthy, deep; the dough is slightly elastic from kneading. Boiled briefly, then often pan-fried in butter for a crisp golden bottom.*
 
 **Makes:** 30-35 pierogi (serves 4-5)
 
@@ -70,7 +70,7 @@ These are the Christmas Eve pierogi of Polish tables, stuffed with sauerkraut an
 
 ### Stage 5 - Boil
 1. Bring a large pot of salted water to a steady boil.
-1. Drop pierogi in batches of 8-10. They sink, then rise - cook 2-3 minutes from when they float.
+1. Drop pierogi in batches of 8-10. They sink, then rise, cook 2-3 minutes from when they float.
 1. Lift with a slotted spoon; toss with butter and onions.
 
 ### Stage 6 - (Optional) pan-fry

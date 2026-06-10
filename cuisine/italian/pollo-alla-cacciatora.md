@@ -2,7 +2,7 @@
 
 ![Pollo alla Cacciatora](resources/pollo-alla-cacciatora.jpg)
 
-*Italy's "hunter's chicken": bone-in chicken pieces slow-cooked in a sauce of onion, garlic, mushrooms, tomato, white or red wine, rosemary, bay leaves and olives. The rustic Italian one-pot - Northern (with red wine and mushrooms) or Tuscan (with white wine and olives) - eaten with bread or polenta.*
+*Italy's "hunter's chicken": bone-in chicken pieces slow-cooked in a sauce of onion, garlic, mushrooms, tomato, white or red wine, rosemary, bay leaves and olives. The rustic Italian one-pot, Northern (with red wine and mushrooms) or Tuscan (with white wine and olives): eaten with bread or polenta.*
 
 **Serves:** 4-6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Pollo alla cacciatora (literally "hunter-style chicken") is one of Italy's most beloved rustic chicken dishes and a staple of Italian home cooking; the name refers to the way hunters traditionally prepared chicken with simple pantry-and-foraged ingredients. The dish has regional variations: the Northern Italian version (Tuscan, Emilian) uses white wine, olives, capers and herbs; the Central-Northern version (Marche, Umbria) uses red wine, mushrooms and fewer herbs; the Southern version uses tomato more heavily, plus chillies. This recipe gives the Tuscan white-wine version with olives and a touch of tomato - generally considered the traditional northern Italian rendition. Bone-in skin-on chicken pieces give the proper flavour; boneless skinless cuts won't work. Fresh rosemary and sage are the traditional herbs. The cook needs 45 minutes minimum till the chicken is tender and the sauce has reduced.
+Pollo alla cacciatora (literally "hunter-style chicken") is one of Italy's most beloved rustic chicken dishes and a staple of Italian home cooking; the name refers to the way hunters traditionally prepared chicken with simple pantry-and-foraged ingredients. The dish has regional variations: the Northern Italian version (Tuscan, Emilian) uses white wine, olives, capers and herbs; the Central-Northern version (Marche, Umbria) uses red wine, mushrooms and fewer herbs; the Southern version uses tomato more heavily, plus chillies. This recipe gives the Tuscan white-wine version with olives and a touch of tomato, generally considered the traditional northern Italian rendition. Bone-in skin-on chicken pieces give the proper flavour; boneless skinless cuts won't work. Fresh rosemary and sage are the traditional herbs. The cook needs 45 minutes minimum till the chicken is tender and the sauce has reduced.
 
 ## Ingredients
 

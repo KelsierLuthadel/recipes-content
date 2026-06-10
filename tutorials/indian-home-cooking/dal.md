@@ -2,20 +2,20 @@
 
 ![Dal](resources/dal.jpg)
 
-*Dal isn't just a curry - it's the protein heart of Indian eating. Almost every meal has at least one dal on the plate. There are at least 20 named dal varieties, but six cover 95% of home cooking. Once you know how to handle each, you can build a meal around any.*
+*Dal isn't just a curry, it's the protein heart of Indian eating. Almost every meal has at least one dal on the plate. There are at least 20 named dal varieties, but six cover 95% of home cooking. Once you know how to handle each, you can build a meal around any.*
 
 ## Overview
 
-Dal is the Hindi word for both the pulse (the dried legume) AND the cooked dish. The same word for the raw ingredient and the finished dish - that tells you how central it is to Indian cooking. India is the world's largest producer and consumer of pulses; a typical Indian household eats dal at least once a day.
+Dal is the Hindi word for both the pulse (the dried legume) AND the cooked dish. The same word for the raw ingredient and the finished dish, that tells you how central it is to Indian cooking. India is the world's largest producer and consumer of pulses; a typical Indian household eats dal at least once a day.
 
 The six common dals (and their traditional preparations):
 
-1. **Toor dal (arhar dal)** - split pigeon pea. The most common across most of India. Pale yellow when cooked.
-2. **Moong dal** - split mung bean. Yellow; mild; quick-cooking.
-3. **Masoor dal** - red lentil. Brown when whole; pink when split; tan when cooked. Very fast.
-4. **Chana dal** - split Bengal gram. Pale yellow; nutty; longer cook.
-5. **Urad dal** - split black gram. Black-skinned when whole; pale yellow when skinned-and-split. Long cook.
-6. **Rajma** - kidney beans. Whole; cook 6-8 hours or 1 hour in pressure cooker.
+1. **Toor dal (arhar dal)**: split pigeon pea. The most common across most of India. Pale yellow when cooked.
+2. **Moong dal**: split mung bean. Yellow; mild; quick-cooking.
+3. **Masoor dal**: red lentil. Brown when whole; pink when split; tan when cooked. Very fast.
+4. **Chana dal**: split Bengal gram. Pale yellow; nutty; longer cook.
+5. **Urad dal**: split black gram. Black-skinned when whole; pale yellow when skinned-and-split. Long cook.
+6. **Rajma**: kidney beans. Whole; cook 6-8 hours or 1 hour in pressure cooker.
 
 This page walks through each, the cooking method, and a traditional preparation.
 
@@ -25,7 +25,7 @@ Most Indian households use a pressure cooker for dal. It cuts the cooking time f
 
 1. **Wash and soak** the dal in water for 30 minutes (longer for harder dals like chana and rajma). Drain.
 2. **Combine in the pressure cooker** the soaked dal + 3-4 times its volume of water + 1 teaspoon turmeric + 1 teaspoon salt + 1 chopped tomato (optional but recommended).
-3. **Pressure cook** - see times per dal below.
+3. **Pressure cook**: see times per dal below.
 4. **Release pressure naturally** for 10 minutes; then release any remaining pressure.
 5. **Stir** with the back of a spoon to mash some of the dal lightly (gives the right texture).
 6. **Tarka** (see the [tarka page](tarka.md)) on top.
@@ -86,7 +86,7 @@ The Punjabi name for the same dish as above, but North-Indian style. Toor or arh
 
 ### Sambar (the South Indian dal-and-vegetable stew)
 
-The defining South Indian dish. Toor dal + mixed vegetables (carrots, beans, eggplant, drumstick, okra - whatever's in season) + tamarind water + sambar powder. The tarka uses sesame oil + mustard + curry leaves + dried red chillies + asafoetida.
+The defining South Indian dish. Toor dal + mixed vegetables (carrots, beans, eggplant, drumstick, okra, whatever's in season) + tamarind water + sambar powder. The tarka uses sesame oil + mustard + curry leaves + dried red chillies + asafoetida.
 
 ### Rasam (South Indian thin spicy soup)
 
@@ -94,7 +94,7 @@ A thinner, soupier dal-related dish. Toor dal water + tomato + tamarind + rasam 
 
 ### Chana masala (whole chickpeas)
 
-Technically not a dal - uses whole chickpeas (kabuli chana) - but cooked similarly. Pressure-cook the soaked chickpeas; finish with a thick tomato-onion-ginger-garlic masala + amchur (dried mango) + a tarka of cumin + chilli.
+Technically not a dal, uses whole chickpeas (kabuli chana): but cooked similarly. Pressure-cook the soaked chickpeas; finish with a thick tomato-onion-ginger-garlic masala + amchur (dried mango) + a tarka of cumin + chilli.
 
 ### Khichdi (rice + dal one-pot)
 
@@ -102,7 +102,7 @@ A combined rice-and-dal dish, the "comfort food" of India. Rice + moong dal + gh
 
 ## A note on consistency
 
-Indian dal isn't one consistency. A typical North Indian dal is thick - almost like a stew. A South Indian sambar is thinner - like a thick soup. A rasam is thinner still - almost a broth. The right consistency depends on the dish and the region.
+Indian dal isn't one consistency. A typical North Indian dal is thick, almost like a stew. A South Indian sambar is thinner, like a thick soup. A rasam is thinner still, almost a broth. The right consistency depends on the dish and the region.
 
 When the cooked dal is too thin, simmer uncovered to reduce. When it's too thick, add hot water.
 
@@ -116,4 +116,4 @@ When the cooked dal is too thin, simmer uncovered to reduce. When it's too thick
 - **Sambar** → idli, dosa, vada, rice.
 - **Khichdi** → eaten alone, sometimes with pickle and yogurt.
 
-The next page covers rice and roti - the carbohydrate companions to all of these.
+The next page covers rice and roti, the carbohydrate companions to all of these.

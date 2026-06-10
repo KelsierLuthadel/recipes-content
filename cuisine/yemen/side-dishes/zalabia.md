@@ -40,7 +40,7 @@ Zalabia are the small cardamom-and-saffron fried dough balls that turn up at the
 
 ### Stage 2 - Honey soak
 1. Warm the honey, water and lemon juice in a small pan until just combined and pourable.
-1. Keep on a low heat - the syrup needs to be warm but not boiling.
+1. Keep on a low heat, the syrup needs to be warm but not boiling.
 
 ### Stage 3 - Fry
 1. Heat the oil to 170°C in a wide deep pan.
@@ -62,4 +62,4 @@ Zalabia are the small cardamom-and-saffron fried dough balls that turn up at the
 
 ## Storage
 - Best fresh, eaten warm. Keep 2 days at room temperature in a tin; they soften as they sit.
-- Don't refrigerate - the honey crystallises.
+- Don't refrigerate, the honey crystallises.

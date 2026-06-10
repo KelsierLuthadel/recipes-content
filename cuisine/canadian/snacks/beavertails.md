@@ -26,7 +26,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 - 1 teaspoon vanilla extract
 
 ### For frying
-- 2 litres sunflower oil OR rapeseed oil (or 1.5 kg beef tallow for the traditional Quebec version - a strong but excellent taste)
+- 2 litres sunflower oil OR rapeseed oil (or 1.5 kg beef tallow for the traditional Quebec version, a strong but excellent taste)
 
 ### Topping 1 - Cinnamon-sugar (the classic)
 - 150 g caster sugar
@@ -72,14 +72,14 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 
 ### Stage 4 - Hand-stretch the BeaverTails
 1. Take one ball; press flat with the palm.
-2. With floured hands, stretch each ball into an irregular oval about 25 cm × 10 cm, with one end slightly wider than the other and the surface slightly uneven (this is the traditional look - irregular, not perfectly oval).
+2. With floured hands, stretch each ball into an irregular oval about 25 cm × 10 cm, with one end slightly wider than the other and the surface slightly uneven (this is the traditional look, irregular, not perfectly oval).
 3. The dough should be about 4-5 mm thick.
 4. Place each stretched piece on a lightly floured baking sheet.
 
 ### Stage 5 - Heat the oil
 1. Heat the oil to 180°C (use a thermometer to check).
-2. Don't go above 190°C - too hot and the outside burns before the inside cooks.
-3. Don't go below 170°C - the dough soaks up fat and goes greasy.
+2. Don't go above 190°C, too hot and the outside burns before the inside cooks.
+3. Don't go below 170°C, the dough soaks up fat and goes greasy.
 
 ### Stage 6 - Mix the cinnamon-sugar
 1. In a wide shallow dish (big enough to hold a finished BeaverTail), whisk together the caster sugar, cinnamon and salt.
@@ -97,7 +97,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 2. Transfer to a serving plate.
 3. Alternative: for the Maple Butter or Choco-Hazelnut versions, spread the topping over the hot BeaverTail with the back of a spoon.
 4. For the Killaloe Sunrise, dust with cinnamon-sugar then squeeze a slice of lemon over the top.
-5. Eat immediately - BeaverTails lose their crisp within 5 minutes.
+5. Eat immediately, BeaverTails lose their crisp within 5 minutes.
 
 ## Notes
 - **Hand-stretch, don't roll uniform:** the BeaverTail's irregular oval shape is part of its identity. A pasta-rolled uniform disc looks like a funnel cake or a deep-fried elephant ear, not a BeaverTail.
@@ -108,7 +108,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 - **Don't reheat in the microwave:** the texture is destroyed. The oven (200°C for 4 minutes) revives them passably; freshly fried is always better.
 
 ## Variations
-**Killaloe Sunrise (the original BeaverTails Inc. variant):** dust with cinnamon-sugar; squeeze fresh lemon juice over - the traditional Ottawa kiosk classic.
+**Killaloe Sunrise (the original BeaverTails Inc. variant):** dust with cinnamon-sugar; squeeze fresh lemon juice over, the traditional Ottawa kiosk classic.
 **Choco-Hazelnut BeaverTail:** spread 2 tablespoons warm Nutella over the hot pastry; eat immediately.
 **Maple Butter and Skor:** spread with maple butter (recipe above); sprinkle 1 tablespoon of crushed Skor or Heath toffee bits.
 **Apple Cinnamon BeaverTail:** dust with cinnamon-sugar; pile with finely chopped cooked apples (apple chunks pre-stewed with brown sugar and cinnamon).
@@ -116,7 +116,7 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 **Lemon-Sugar BeaverTail (the British "pancake day" style):** dust with caster sugar (no cinnamon); squeeze fresh lemon juice generously over.
 **Banana-Chocolate BeaverTail:** spread with Nutella; pile sliced banana on top.
 **Cinnamon-Maple BeaverTail (the Quebec variant):** dust with cinnamon-sugar; drizzle pure maple syrup over.
-**Vegan BeaverTail:** swap the egg for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk - the texture is slightly different but works.
+**Vegan BeaverTail:** swap the egg for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk, the texture is slightly different but works.
 **Mini BeaverTails (for kids):** halve the dough portions (55 g each); make 12 smaller hand-stretched pieces; fry 60 seconds per side.
 
 ## Serving
@@ -125,7 +125,7 @@ At an Ottawa BeaverTails kiosk on the frozen Rideau Canal during Winterlude (the
 ## Storage
 - Best eaten within 5 minutes of frying. The texture is destroyed after an hour.
 - Refrigerate up to 24 hours, but the texture won't fully recover; reheat in a 200°C oven for 4 minutes.
-- Don't freeze fried BeaverTails - the texture goes leathery.
+- Don't freeze fried BeaverTails, the texture goes leathery.
 - The raw dough refrigerates 24 hours after the first rise (cover tight); take to room temperature for 30 minutes before stretching and frying.
-- The cinnamon-sugar mix keeps indefinitely in a sealed jar - useful for sprinkling on toast, French toast, or oatmeal.
-- The maple butter spread keeps refrigerated 2 weeks - excellent on toast.
+- The cinnamon-sugar mix keeps indefinitely in a sealed jar, useful for sprinkling on toast, French toast, or oatmeal.
+- The maple butter spread keeps refrigerated 2 weeks, excellent on toast.

@@ -38,7 +38,7 @@ Fesenjan is the Persian walnut-and-pomegranate stew, a deep mahogany sauce of gr
 
 ### Stage 1 - Walnut paste
 1. Toast the walnuts in a dry pan over medium heat 5-6 minutes, stirring, until fragrant and lightly coloured.
-1. Cool slightly; blitz in a food processor until they form a coarse, oily paste - about 1 minute. Don't take them all the way to butter; texture is good.
+1. Cool slightly; blitz in a food processor until they form a coarse, oily paste, about 1 minute. Don't take them all the way to butter; texture is good.
 
 ### Stage 2 - Sear chicken
 1. Heat the oil in a wide heavy pan over medium-high heat.
@@ -58,7 +58,7 @@ Fesenjan is the Persian walnut-and-pomegranate stew, a deep mahogany sauce of gr
 ### Stage 5 - Simmer
 1. Return the chicken to the pan; nestle into the sauce.
 1. Partly cover; cook 1 hour - 1 ¼, stirring every 15 minutes so the walnuts don't catch on the bottom.
-1. The sauce should darken to deep mahogany and the oil should start to glisten on the surface - that's the sign it's done.
+1. The sauce should darken to deep mahogany and the oil should start to glisten on the surface, that's the sign it's done.
 
 ### Stage 6 - Balance and finish
 1. Stir in the lemon juice and the remaining saffron-water.

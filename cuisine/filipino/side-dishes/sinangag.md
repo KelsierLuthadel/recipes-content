@@ -26,7 +26,7 @@ Sinangag is the Filipino garlic fried rice that anchors every Filipino breakfast
 ### Stage 1 - Crisp the garlic
 1. Heat the oil in a wide wok or heavy frying pan over medium-low heat.
 1. Add the sliced garlic; cook 4-5 minutes, stirring almost continuously.
-1. The garlic will go from translucent to pale gold to amber. STOP at amber-gold - burnt garlic is bitter and ruins the rice.
+1. The garlic will go from translucent to pale gold to amber. STOP at amber-gold, burnt garlic is bitter and ruins the rice.
 1. Lift the garlic out with a slotted spoon onto kitchen paper (it will crisp as it cools).
 1. Reserve half for cooking, half for the topping.
 
@@ -34,7 +34,7 @@ Sinangag is the Filipino garlic fried rice that anchors every Filipino breakfast
 1. Turn the heat up to medium-high under the same pan (the garlic oil stays in).
 1. Break the cold rice up with your fingers to separate any clumps.
 1. Tip into the hot oil; spread out in a single layer.
-1. Let it sit 1 minute without stirring - the bottom grains crisp slightly.
+1. Let it sit 1 minute without stirring, the bottom grains crisp slightly.
 1. Toss with a wooden spoon or wok spatula; spread out again; rest 1 minute.
 1. Repeat for 3-4 minutes total until every grain is hot, lightly toasted, and separate.
 
@@ -52,7 +52,7 @@ Sinangag is the Filipino garlic fried rice that anchors every Filipino breakfast
 ## Notes
 - **Day-old rice or fail:** fresh rice steams together into clumps and never separates. Refrigerated rice loses moisture, the grains harden, and they stir-fry beautifully.
 - **Slow garlic, hot rice:** the garlic needs gentle heat to crisp without burning. The rice needs high heat to toast. Two different temperatures, same pan.
-- **Don't add soy sauce:** sinangag is not nasi goreng. The flavour is garlic, salt, oil - nothing else.
+- **Don't add soy sauce:** sinangag is not nasi goreng. The flavour is garlic, salt, oil, nothing else.
 
 ## Storage
 - Best straight from the pan.

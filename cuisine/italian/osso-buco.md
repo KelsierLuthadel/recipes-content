@@ -102,7 +102,7 @@ Osso buco (literally "bone with hole") is Milan's most iconic dish and one of It
 - **Tie the shanks:** keeps them intact.
 - **Low-and-slow:** 2-2.5 hours minimum.
 - **Gremolata is non-negotiable:** it makes the dish.
-- **Eat the marrow:** the centre of the bone has soft marrow - scoop it out.
+- **Eat the marrow:** the centre of the bone has soft marrow, scoop it out.
 
 ## Variations
 **Without tomato (alla milanese pura):** the purist Milanese version skips tomato entirely; cooks in white wine and stock only; gives a paler sauce.
@@ -111,7 +111,7 @@ Osso buco (literally "bone with hole") is Milan's most iconic dish and one of It
 **With anchovy in gremolata:** add 1 finely chopped anchovy to the gremolata; gives umami depth.
 
 ## Serving
-With saffron risotto Milanese - the traditional pairing. Crusty bread for the sauce. Italian red wine.
+With saffron risotto Milanese, the traditional pairing. Crusty bread for the sauce. Italian red wine.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

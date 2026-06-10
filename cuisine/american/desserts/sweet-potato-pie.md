@@ -56,7 +56,7 @@ Sweet potato pie is the Southern Thanksgiving pie that crosses every African-Ame
 2. Line the pie shell with baking paper and fill with baking beans or dried rice. Bake for 15 minutes, then lift out the paper and beans and bake for another 5 minutes until the base looks dry and pale gold. Set aside.
 
 ### Stage 4 - Mix the filling
-1. While the shell is baking, whip the sweet potato flesh with the butter using a hand whisk or stand mixer for 1-2 minutes - you want light and fluffy, not gluey, so keep it short.
+1. While the shell is baking, whip the sweet potato flesh with the butter using a hand whisk or stand mixer for 1-2 minutes, you want light and fluffy, not gluey, so keep it short.
 2. Beat in the brown sugar, then the eggs one at a time. Add the evaporated milk, vanilla, all the spices, bourbon if using, and salt. Whisk until smooth and a single colour. The mixture should be the consistency of thick pouring custard.
 
 ### Stage 5 - Bake

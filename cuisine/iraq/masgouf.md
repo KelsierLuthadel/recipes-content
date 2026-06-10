@@ -15,7 +15,7 @@ Masgouf is the Iraqi grilled fish dish of the Tigris, the national dish of Iraq,
 
 ## Ingredients
 
-- 1 whole large freshwater fish (1.4-1.8 kg - carp, perch, sea bass or trout) - butterflied (ask the fishmonger to remove the spine and open it flat, skin still on)
+- 1 whole large freshwater fish (1.4-1.8 kg, carp, perch, sea bass or trout): butterflied (ask the fishmonger to remove the spine and open it flat, skin still on)
 - 4 tablespoons olive oil
 - 2 tablespoons tamarind paste (concentrate)
 - 1 lemon (juice)
@@ -47,7 +47,7 @@ Masgouf is the Iraqi grilled fish dish of the Tigris, the national dish of Iraq,
 ### Stage 4 - Top
 1. Lay the sliced tomato and onion over the surface of the fish.
 1. Drizzle with another tablespoon of olive oil.
-1. Grill another 8-10 minutes - vegetables soften, fish is fully cooked, skin charred where exposed.
+1. Grill another 8-10 minutes, vegetables soften, fish is fully cooked, skin charred where exposed.
 
 ### Stage 5 - Serve
 1. Scatter parsley; lemon wedges alongside.

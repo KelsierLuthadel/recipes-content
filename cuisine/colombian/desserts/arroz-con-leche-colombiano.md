@@ -44,7 +44,7 @@ Arroz con leche is the cinnamon-scented rice pudding every Colombian grandmother
 
 ### Stage 3 - Slow cook
 1. Cook on low heat 25-30 minutes, stirring every few minutes (more frequently in the last 10 minutes).
-1. The mixture will thicken slowly - the rice swells; the milk reduces; the texture becomes creamy.
+1. The mixture will thicken slowly, the rice swells; the milk reduces; the texture becomes creamy.
 1. Aim for loose-creamy, not stiff (it firms up as it cools).
 
 ### Stage 4 - Finish
@@ -59,7 +59,7 @@ Arroz con leche is the cinnamon-scented rice pudding every Colombian grandmother
 
 ## Notes
 - **Short-grain rice is essential:** long-grain stays distinct; you want grains that release some starch and break down slightly to give creaminess.
-- **Sweetened condensed milk is the Colombian shortcut:** gives both sweetness and creaminess. Don't try to replicate with just sugar + cream - the texture is different.
+- **Sweetened condensed milk is the Colombian shortcut:** gives both sweetness and creaminess. Don't try to replicate with just sugar + cream, the texture is different.
 - **Stop while loose:** the pudding thickens as it cools. Cooking till stiff in the pan = bricklike rice pudding when cold.
 - **Cinnamon at the end, not the start:** the topping cinnamon is what makes it Colombian. Ground cinnamon in the cooking goes muddy.
 

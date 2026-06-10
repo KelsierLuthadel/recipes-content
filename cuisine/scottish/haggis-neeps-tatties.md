@@ -39,7 +39,7 @@ Haggis, neeps and tatties is Scotland's national dish and the absolute centrepie
 ### Stage 1 - Reheat the haggis
 1. Place the whole haggis (still in its casing) in a large pot.
 2. Cover with cold water; bring slowly to a gentle simmer.
-3. DO NOT boil hard - the casing will burst.
+3. DO NOT boil hard, the casing will burst.
 4. Simmer gently for 1 hour for a 1.4 kg haggis (allow 45 minutes per kg). Larger haggis takes longer.
 5. The haggis is ready when it's piping hot through the middle (test with a skewer; should come out hot to the touch).
 
@@ -49,7 +49,7 @@ Haggis, neeps and tatties is Scotland's national dish and the absolute centrepie
 3. Bring to a boil; simmer 25 minutes till the swede is very tender (a knife slides in with no resistance).
 4. Drain very well.
 5. Return to the pan; add the butter, nutmeg, salt, and pepper.
-6. Mash thoroughly to a soft, slightly textured purée (not totally smooth - neeps should have some character).
+6. Mash thoroughly to a soft, slightly textured purée (not totally smooth, neeps should have some character).
 7. Taste; adjust seasoning. Cover; keep warm.
 
 ### Stage 3 - Mash the tatties
@@ -62,7 +62,7 @@ Haggis, neeps and tatties is Scotland's national dish and the absolute centrepie
 ### Stage 4 - The ceremony (Burns Night)
 1. Place the cooked haggis on a wooden board or silver platter.
 2. The host (or a designated reader) carries it to the table to the accompaniment of bagpipes if available.
-3. Read Burns's "Address to a Haggis" - the eight stanzas, slowly, with the appropriate Scots gusto.
+3. Read Burns's "Address to a Haggis", the eight stanzas, slowly, with the appropriate Scots gusto.
 4. At the line "His knife see rustic Labour dight," plunge a dirk or sharp knife into the haggis and split it open along its length.
 5. The aromatic steam (peppery, oatmealy, lamb-y) is the moment.
 
@@ -82,12 +82,12 @@ Haggis, neeps and tatties is Scotland's national dish and the absolute centrepie
 - **The Address:** Burns's 1786 poem in eight stanzas. The host reads it; the dirk is plunged at the appropriate line. Print it out; don't try to memorise on the night.
 
 ## Variations
-**Vegetarian haggis:** Macsween's vegetarian version (oats, lentils, mushrooms, vegetables, spices) - the dish loses nothing.
+**Vegetarian haggis:** Macsween's vegetarian version (oats, lentils, mushrooms, vegetables, spices): the dish loses nothing.
 **Highland version:** add a tablespoon of whisky directly into the neeps mash and into the tatties.
-**Modern haggis bonbons:** make small balls of cooked haggis, coat in breadcrumbs, deep-fry - a modern Burns Night canapé.
-**Haggis with bashed neeps:** mash the swede less smoothly (deliberately chunky) - the rustic version.
+**Modern haggis bonbons:** make small balls of cooked haggis, coat in breadcrumbs, deep-fry, a modern Burns Night canapé.
+**Haggis with bashed neeps:** mash the swede less smoothly (deliberately chunky): the rustic version.
 **Whisky cream sauce:** swap the dram pour-over for a whisky-and-cream sauce drizzled over the haggis (modern restaurant version).
-**Haggis stuffed chicken:** stuff a chicken breast with cooked haggis, wrap in bacon, roast - the "Highland chicken" dish.
+**Haggis stuffed chicken:** stuff a chicken breast with cooked haggis, wrap in bacon, roast, the "Highland chicken" dish.
 
 ## Serving
 On Burns Night (25 January) as the centrepiece of the supper · on Saint Andrew's Day (30 November) · at Hogmanay (New Year's Eve) and the days after · at a Scottish wedding luncheon · at any Scottish family Sunday lunch in winter · in any Scottish gastropub from October to March.

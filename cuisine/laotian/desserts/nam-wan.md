@@ -70,7 +70,7 @@ Nam wan (literally "sweet liquid") is a family of Lao mixed-fruit desserts serve
 - **Pandan leaf:** the traditional Southeast Asian aromatic. Dried extract is the workable substitute.
 
 ## Variations
-**Nam wan with tapioca pearls:** add 4 tablespoons of cooked small tapioca pearls - the Thai-influenced variant.
+**Nam wan with tapioca pearls:** add 4 tablespoons of cooked small tapioca pearls, the Thai-influenced variant.
 **Iced nam wan (chilled):** chill the coconut syrup; serve cold with ice; the cool summer variant.
 **Hot nam wan:** skip the ice; serve the syrup warm over the fruit; the winter variant.
 **Nam wan with sticky rice cake:** add small cubes of cooked sticky rice cake to each bowl.

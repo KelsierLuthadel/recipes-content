@@ -52,13 +52,13 @@ Pão de queijo (literally "bread of cheese") is Brazil's most universally belove
 ### Stage 4 - Add the eggs
 1. Add the beaten eggs to the cooled mixture.
 2. Mix thoroughly (use the stand mixer if you have one; otherwise vigorous wooden-spoon work).
-3. The dough will look ugly at first - clumpy and resistant.
+3. The dough will look ugly at first, clumpy and resistant.
 4. Keep mixing till the eggs are fully incorporated and the dough is smooth-ish (about 2 minutes).
 
 ### Stage 5 - Add the cheese
 1. Add the grated cheese.
 2. Mix in thoroughly.
-3. The dough should be very soft, sticky, and stretchy - not a typical bread dough.
+3. The dough should be very soft, sticky, and stretchy, not a typical bread dough.
 
 ### Stage 6 - Form into rolls
 1. Preheat oven to 200°C / 180°C fan / 400°F.
@@ -74,7 +74,7 @@ Pão de queijo (literally "bread of cheese") is Brazil's most universally belove
 
 ### Stage 8 - Serve
 1. Serve immediately, warm from the oven (the traditional pão de queijo experience).
-2. Tear open with the fingers (don't slice - the steam escapes).
+2. Tear open with the fingers (don't slice, the steam escapes).
 3. Pair with a strong Brazilian coffee.
 4. Optional: a small dish of cured Brazilian sausage alongside.
 
@@ -87,13 +87,13 @@ Pão de queijo (literally "bread of cheese") is Brazil's most universally belove
 
 ## Variations
 **Pão de queijo com chia e linhaça (modern healthy variant):** add 2 tablespoons each of chia and linseed to the dough.
-**Pão de queijo de tomate e manjericão:** add 2 tablespoons of tomato paste + chopped basil to the dough - Italian-Brazilian variant.
-**Pão de queijo recheado (stuffed):** form into small discs, place a cube of mozzarella in the centre, close up - discover-the-cheese version.
-**Pão de queijo doce (sweet):** swap savoury cheese for cream cheese + add 50 g sugar + ½ teaspoon cinnamon - modern dessert variant.
-**Pão de queijo de presunto (with ham):** add 60 g finely diced ham - savoury filling.
-**Pão de queijo de bacon:** add 60 g finely diced cooked bacon - smoky variant.
-**Mini pão de queijo:** smaller rolls (1.5 cm balls) for cocktail parties - same recipe, smaller portions.
-**Pão de queijo de massa preta (black cheese bread):** add 30 g charcoal powder for visual drama - modern dessert-bar variant.
+**Pão de queijo de tomate e manjericão:** add 2 tablespoons of tomato paste + chopped basil to the dough, Italian-Brazilian variant.
+**Pão de queijo recheado (stuffed):** form into small discs, place a cube of mozzarella in the centre, close up, discover-the-cheese version.
+**Pão de queijo doce (sweet):** swap savoury cheese for cream cheese + add 50 g sugar + ½ teaspoon cinnamon, modern dessert variant.
+**Pão de queijo de presunto (with ham):** add 60 g finely diced ham, savoury filling.
+**Pão de queijo de bacon:** add 60 g finely diced cooked bacon, smoky variant.
+**Mini pão de queijo:** smaller rolls (1.5 cm balls) for cocktail parties, same recipe, smaller portions.
+**Pão de queijo de massa preta (black cheese bread):** add 30 g charcoal powder for visual drama, modern dessert-bar variant.
 
 ## Serving
 At every Brazilian breakfast (the traditional Brazilian morning bread) · at every Brazilian padaria with a coffee · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at a Brazilian airport's coffee shop (the traditional Brazilian air-travel snack) · at a Brazilian afternoon coffee break · at a Brazilian-themed dinner abroad · at home as the perfect warm-from-the-oven Sunday-morning treat.

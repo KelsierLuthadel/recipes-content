@@ -18,7 +18,7 @@ Matbucha is the North African-Israeli slow-cooked tomato-and-pepper salad, a thi
 - 4 red bell peppers
 - 1 kg ripe tomatoes (or 2 × 400 g tins chopped tomatoes if out of season)
 - 8 garlic cloves (sliced)
-- 2 hot green chillies (finely chopped - adjust to taste)
+- 2 hot green chillies (finely chopped, adjust to taste)
 - 4 tablespoons olive oil
 - 2 teaspoons sweet paprika
 - 1 teaspoon hot paprika (or smoked paprika)

@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most universally beloved potato preparation - found at every German Gasthaus, every beer garden, every Hausfrau's table, and every leftover-Sunday-roast Monday lunch. The dish has dual purposes: it's the traditional accompaniment to virtually every German savoury dish (bratwurst, schnitzel, fried egg, smoked sausages, etc.), AND it's a brilliant use of leftover boiled potatoes from the previous day. The construction is straightforward: cold cooked potatoes (yesterday's boiled or roast; or freshly boiled and refrigerated 1 hour) are sliced into 5 mm rounds; diced streaky bacon (or smoked Speck) is rendered in a heavy pan until crisp; finely diced onion is sweated in the bacon fat till translucent and sweet; the sliced potatoes are added to the pan and fried, undisturbed for several minutes at a time, till each slice has a deep golden-brown crust. Seasoned with salt, pepper, and (in many German regions) a pinch of caraway. The finished dish is golden-brown, slightly crisp at the edges, with sweet bacon-onion notes throughout.
+Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most universally beloved potato preparation, found at every German Gasthaus, every beer garden, every Hausfrau's table, and every leftover-Sunday-roast Monday lunch. The dish has dual purposes: it's the traditional accompaniment to virtually every German savoury dish (bratwurst, schnitzel, fried egg, smoked sausages, etc.), AND it's a brilliant use of leftover boiled potatoes from the previous day. The construction is straightforward: cold cooked potatoes (yesterday's boiled or roast; or freshly boiled and refrigerated 1 hour) are sliced into 5 mm rounds; diced streaky bacon (or smoked Speck) is rendered in a heavy pan until crisp; finely diced onion is sweated in the bacon fat till translucent and sweet; the sliced potatoes are added to the pan and fried, undisturbed for several minutes at a time, till each slice has a deep golden-brown crust. Seasoned with salt, pepper, and (in many German regions) a pinch of caraway. The finished dish is golden-brown, slightly crisp at the edges, with sweet bacon-onion notes throughout.
 
 ## Ingredients
 
@@ -45,9 +45,9 @@ Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most
 1. Place the potatoes whole (skin on) in a large pot.
 2. Cover with cold water; add 1 tablespoon salt.
 3. Bring to a boil; reduce to simmer.
-4. Cook 20-25 minutes till tender but not falling apart (a knife should slide in with slight resistance - slightly underdone).
+4. Cook 20-25 minutes till tender but not falling apart (a knife should slide in with slight resistance, slightly underdone).
 5. Drain; cool to room temperature.
-6. Refrigerate at least 1 hour (overnight is ideal - the texture is much better cold).
+6. Refrigerate at least 1 hour (overnight is ideal, the texture is much better cold).
 
 ### Stage 2 - Slice
 1. Peel the chilled potatoes (the skin slips off easily).
@@ -95,12 +95,12 @@ Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most
 ## Variations
 **Bratkartoffeln mit Speck (with bacon):** the traditional version described above.
 **Bratkartoffeln vegetarian:** skip the bacon; use 4 tablespoons butter; add 2 tablespoons smoked paprika to the pan for the smoky note.
-**Bratkartoffeln with egg (mit Spiegelei):** top with a fried egg with a runny yolk - the traditional German breakfast/lunch.
-**Bratkartoffeln Berlin-style (sour):** add 1 tablespoon white vinegar at the end - sharper, Berlin variant.
-**Bratkartoffeln Schwäbisch (with Maultaschen broth):** add a splash of beef stock at the end - Swabian variant.
-**Bratkartoffeln with apple:** add a small diced apple to the pan with the onion - Hessian variant, slightly sweet.
-**With sauerkraut:** stir in a small handful of sauerkraut at the end - Bavarian fusion variant.
-**With smoked tofu (vegan):** swap bacon for diced smoked tofu - modern German vegan variant.
+**Bratkartoffeln with egg (mit Spiegelei):** top with a fried egg with a runny yolk, the traditional German breakfast/lunch.
+**Bratkartoffeln Berlin-style (sour):** add 1 tablespoon white vinegar at the end, sharper, Berlin variant.
+**Bratkartoffeln Schwäbisch (with Maultaschen broth):** add a splash of beef stock at the end, Swabian variant.
+**Bratkartoffeln with apple:** add a small diced apple to the pan with the onion, Hessian variant, slightly sweet.
+**With sauerkraut:** stir in a small handful of sauerkraut at the end, Bavarian fusion variant.
+**With smoked tofu (vegan):** swap bacon for diced smoked tofu, modern German vegan variant.
 
 ## Serving
 At every German Gasthaus alongside any sausage or schnitzel (the traditional setting) · at a Berlin breakfast with fried egg on top · at a Bavarian beer garden alongside grilled meat · at a Hessian Sunday lunch · at a German pub as the standard side · at home as a quick weeknight side · at a German Christmas dinner alongside roast goose.

@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Imqaret (singular "mqaret"; the name comes from the Arabic root for "diamond-shaped") are Malta's traditional date pastries - a remnant of the islands' Arab heritage adapted into a Catholic-festa street food. The construction: dates are puréed with anisette (or brandy), orange and lemon zest, cinnamon, cloves, and a touch of olive oil to make a thick paste; a sturdy shortcrust pastry (sometimes made with semolina for added crunch) is rolled into a long thin rectangle; the date paste is piped down the centre of the pastry; the pastry is folded over and sealed; the long log is cut into diamond shapes; deep-fried in olive oil till deeply golden; dusted generously with icing sugar. Sold hot at every Maltese village festa, sold cold from bakery counters; eaten with coffee or as a sweet snack.
+Imqaret (singular "mqaret"; the name comes from the Arabic root for "diamond-shaped") are Malta's traditional date pastries, a remnant of the islands' Arab heritage adapted into a Catholic-festa street food. The construction: dates are puréed with anisette (or brandy), orange and lemon zest, cinnamon, cloves, and a touch of olive oil to make a thick paste; a sturdy shortcrust pastry (sometimes made with semolina for added crunch) is rolled into a long thin rectangle; the date paste is piped down the centre of the pastry; the pastry is folded over and sealed; the long log is cut into diamond shapes; deep-fried in olive oil till deeply golden; dusted generously with icing sugar. Sold hot at every Maltese village festa, sold cold from bakery counters; eaten with coffee or as a sweet snack.
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ Imqaret (singular "mqaret"; the name comes from the Arabic root for "diamond-sha
 5. Press gently to seal.
 
 ### Stage 4 - Cut into diamonds
-1. With a sharp knife, cut each log into diamond shapes - angled cuts every 5-6 cm.
+1. With a sharp knife, cut each log into diamond shapes, angled cuts every 5-6 cm.
 2. Each piece should be a parallelogram about 5 cm across.
 
 ### Stage 5 - Deep fry
@@ -79,7 +79,7 @@ Imqaret (singular "mqaret"; the name comes from the Arabic root for "diamond-sha
 - **Eat warm:** best straight from the fryer.
 
 ## Variations
-**Baked imqaret:** bake at 200°C for 18-20 minutes - easier, less traditional.
+**Baked imqaret:** bake at 200°C for 18-20 minutes, easier, less traditional.
 **With walnuts:** add 80 g chopped walnuts to the date paste.
 **With honey drizzle:** drizzle warm honey after frying.
 **Mini imqaret:** smaller diamonds (3 cm) for canapé portions.

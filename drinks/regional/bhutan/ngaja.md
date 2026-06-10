@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Where suja (the famous Bhutanese butter tea) is the daily mountain drink for hard work, ngaja is the lowland-friendly sweet alternative: strong black tea, hot milk, sugar, and gentle spice. Bhutanese households serve ngaja to guests at any hour, alongside small biscuits or zaw (puffed rice). The brew is closer to Indian masala chai than to Tibetan butter tea, reflecting Bhutan's southern Indian-Bhutanese cultural overlap, but the spice mix is gentler than Indian chai - usually just cardamom, sometimes a tiny piece of cinnamon or fresh ginger for cold mornings. The drink is properly sweet, sometimes very sweet, by Bhutanese standards.
+Where suja (the famous Bhutanese butter tea) is the daily mountain drink for hard work, ngaja is the lowland-friendly sweet alternative: strong black tea, hot milk, sugar, and gentle spice. Bhutanese households serve ngaja to guests at any hour, alongside small biscuits or zaw (puffed rice). The brew is closer to Indian masala chai than to Tibetan butter tea, reflecting Bhutan's southern Indian-Bhutanese cultural overlap, but the spice mix is gentler than Indian chai, usually just cardamom, sometimes a tiny piece of cinnamon or fresh ginger for cold mornings. The drink is properly sweet, sometimes very sweet, by Bhutanese standards.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ Where suja (the famous Bhutanese butter tea) is the daily mountain drink for har
 - **Cardamom is the signature.** Don't skip even if you skip the ginger or cinnamon.
 
 ## Variations
-- **Without spice.** Plain milk-tea ngaja - tea, milk, sugar. The simpler everyday version.
+- **Without spice.** Plain milk-tea ngaja, tea, milk, sugar. The simpler everyday version.
 - **With Tibetan touch.** Add a tiny pinch of salt to the brew alongside the sugar; common in Eastern Bhutan near the Tibetan border.
 
 ## Storage

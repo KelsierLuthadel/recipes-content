@@ -2,12 +2,12 @@
 
 ![Rack of St Louis-style ribs](resources/ribs.jpg)
 
-*The most accessible BBQ project. Pork ribs - St Louis or baby back - cook in 5-6 hours, fit on any smoker, and feed a crowd. The 3-2-1 method gives reliable results; the bend test confirms doneness; the regional sauce or dry rub finishes the dish.*
+*The most accessible BBQ project. Pork ribs, St Louis or baby back, cook in 5-6 hours, fit on any smoker, and feed a crowd. The 3-2-1 method gives reliable results; the bend test confirms doneness; the regional sauce or dry rub finishes the dish.*
 
 ## Overview
-Ribs are the BBQ project that fits a Saturday afternoon. Where brisket is a 14-hour commitment and pulled pork is overnight, a rack of pork ribs is on the smoker by 11 AM and off by 5 PM - eaten with friends, hands, a stack of paper towels, and a cold drink.
+Ribs are the BBQ project that fits a Saturday afternoon. Where brisket is a 14-hour commitment and pulled pork is overnight, a rack of pork ribs is on the smoker by 11 AM and off by 5 PM, eaten with friends, hands, a stack of paper towels, and a cold drink.
 
-This lesson covers the three most common rib formats - St Louis, baby back, and beef short ribs - with the standard 3-2-1 timing for pork ribs and a worked recipe for each. The bend test is the doneness test; rib internal temperature is a guide but not the truth.
+This lesson covers the three most common rib formats, St Louis, baby back, and beef short ribs, with the standard 3-2-1 timing for pork ribs and a worked recipe for each. The bend test is the doneness test; rib internal temperature is a guide but not the truth.
 
 ## The Three Major Rib Cuts
 
@@ -32,7 +32,7 @@ A short rib plate is about 1.5-2 kg. Serves 2-3 people. Cook longer than pork ri
 ## What You Need
 
 - 2 racks of ribs (pork) or 1 plate beef short ribs
-- BBQ rub - Memphis dry rub for ribs (see [Rubs, Mops and Sauces](rubs-mops-sauces.md))
+- BBQ rub, Memphis dry rub for ribs (see [Rubs, Mops and Sauces](rubs-mops-sauces.md))
 - BBQ sauce (Kansas City sweet for the classic; or omit for dry-rub Memphis ribs)
 - Wood for smoke (cherry + hickory is the classic pork rib combo; oak for beef)
 - Smoker
@@ -57,7 +57,7 @@ For beef short ribs (bigger, fattier), use 3-3-2 or similar. Total: 8 hours.
 
 ### Preparation
 
-1. **Remove the membrane.** The silver skin on the back of the ribs - the side facing the bones, away from the meat. Slide a butter knife under one corner of the membrane; pry it up; grip with a paper towel (for purchase); peel off in one piece. Critical step - the membrane blocks smoke and rub from penetrating.
+1. **Remove the membrane.** The silver skin on the back of the ribs, the side facing the bones, away from the meat. Slide a butter knife under one corner of the membrane; pry it up; grip with a paper towel (for purchase); peel off in one piece. Critical step, the membrane blocks smoke and rub from penetrating.
 2. **Apply the rub.** Coat both sides of the ribs heavily with the Memphis dry rub. 2 tbsp per rack on the meat side, 1 tbsp on the bone side. Press into the meat. Let rest at room temperature 30 minutes (or refrigerate overnight if planning ahead).
 3. **Set up the smoker.** Target 110 C. Add cherry and hickory wood chunks - 3-4 chunks for the cook.
 
@@ -87,13 +87,13 @@ The wrap accelerates the cook (the meat is in a moist steam environment) and ten
 
 1. Open the foil packages carefully (the steam will be hot).
 2. Lift the ribs onto the grate, meat-side-up. Discard the foil and the cooking liquid (or save it for a rib glaze).
-3. Brush BBQ sauce on the meat side - heavily for a sauced rib, lightly for a dry-rubbed rib finished with a glossy glaze.
+3. Brush BBQ sauce on the meat side, heavily for a sauced rib, lightly for a dry-rubbed rib finished with a glossy glaze.
 4. Return to the smoker for 30-60 minutes, lid closed.
 5. The sauce caramelises and sets onto the meat; the bark crisps slightly; the meat firms back up after the wrap-tender phase.
 
 ### The Bend Test
 
-Lift one end of the rack with tongs. The rack should bend gracefully - the meat should pull slightly apart between the bones, the rack should arc 30-45 degrees without snapping or falling apart.
+Lift one end of the rack with tongs. The rack should bend gracefully, the meat should pull slightly apart between the bones, the rack should arc 30-45 degrees without snapping or falling apart.
 
 - Rack stiff and flat: not done; continue cooking.
 - Rack bends and meat splits open between bones, but holds together: done. Right.
@@ -115,13 +115,13 @@ Watch closely after 4 hours. Baby backs are smaller and cook faster; the bend te
 Treat them more like brisket than pork ribs. The cook is longer; the fat is more abundant; the meat is denser.
 
 1. **Trim.** Remove silver skin from the meat surface. Leave the fat cap on top.
-2. **Apply Texas salt-and-pepper rub** (NOT the Memphis sweet rub - beef short ribs are a beef cook). 4-5 tbsp per plate.
+2. **Apply Texas salt-and-pepper rub** (NOT the Memphis sweet rub, beef short ribs are a beef cook). 4-5 tbsp per plate.
 3. **Smoke at 110 C with oak.** 6 hours unwrapped.
 4. **Wrap in butcher paper** with 60 ml beef stock. 2 hours.
 5. **Continue unwrapped** for 1-2 hours, until probe-tender at 95-98 C internal.
 6. **Rest 30 minutes** wrapped in butcher paper.
 
-Slice between the bones - each bone-and-meat slice is one portion. Serve simply: salt, the natural juices, a side of bread.
+Slice between the bones, each bone-and-meat slice is one portion. Serve simply: salt, the natural juices, a side of bread.
 
 ## Variations
 
@@ -139,7 +139,7 @@ Beef short ribs marinated in soy, sugar, garlic, sesame, ginger, then grilled ov
 
 ### Sticky Pork Ribs (Asian-inflected)
 
-Mid-cook (after the wrap), substitute soy + brown sugar + ginger + garlic + rice vinegar for the BBQ sauce. The result is closer to Char Siu - a Chinese-style sticky pork rib rather than American BBQ.
+Mid-cook (after the wrap), substitute soy + brown sugar + ginger + garlic + rice vinegar for the BBQ sauce. The result is closer to Char Siu, a Chinese-style sticky pork rib rather than American BBQ.
 
 ## Serving
 

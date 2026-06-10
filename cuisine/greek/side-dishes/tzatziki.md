@@ -2,7 +2,7 @@
 
 ![Tzatziki](resources/tzatziki.jpg)
 
-*Greek yogurt dip with grated cucumber, garlic, dill and a splash of olive oil. The Greek table staple; goes with bread, grilled meats, vegetables, anything. The trick is squeezing the cucumber dry - wet cucumber gives a watery dip.*
+*Greek yogurt dip with grated cucumber, garlic, dill and a splash of olive oil. The Greek table staple; goes with bread, grilled meats, vegetables, anything. The trick is squeezing the cucumber dry, wet cucumber gives a watery dip.*
 
 **Serves:** 4-6 (as a dip)
 
@@ -36,7 +36,7 @@ Tzatziki is the Greek cucumber-yogurt dip that lives at every meze table, beside
 ### Stage 2 - Mix
 1. In a bowl, combine the squeezed cucumber, yogurt, garlic, olive oil, lemon juice, dill, salt and pepper.
 1. Stir until well combined.
-1. Taste; the dip should be assertive - bright with lemon, garlic-forward, salted enough.
+1. Taste; the dip should be assertive, bright with lemon, garlic-forward, salted enough.
 
 ### Stage 3 - Chill
 1. Refrigerate at least 30 minutes for flavours to meld (longer is fine; up to a day).

@@ -33,17 +33,17 @@ White chocolate rocky road is the festive cousin of the classic milk-chocolate s
 1. Line a 20 cm square tin with baking paper, leaving overhang on two sides for lift-out.
 
 ### Stage 2 - Crush the biscuits
-1. Place the digestives in a sealed freezer bag. Bash with a rolling pin to coarse chunks - some pieces should still be 2 cm across, others crushed smaller. Don't reduce to crumbs.
+1. Place the digestives in a sealed freezer bag. Bash with a rolling pin to coarse chunks, some pieces should still be 2 cm across, others crushed smaller. Don't reduce to crumbs.
 
 ### Stage 3 - Melt the white chocolate base
 1. Combine the white chocolate, butter, golden syrup, double cream and salt in a heatproof bowl. Set over a pan of barely simmering water (bowl not touching the water).
-2. Stir gently until smooth and glossy. White chocolate scorches faster than milk or dark - keep the heat very low and stir continuously.
-3. Take off the heat as soon as the last lumps disappear. Cool for 5 minutes - the mixture should still be pourable but starting to thicken.
+2. Stir gently until smooth and glossy. White chocolate scorches faster than milk or dark, keep the heat very low and stir continuously.
+3. Take off the heat as soon as the last lumps disappear. Cool for 5 minutes, the mixture should still be pourable but starting to thicken.
 
 ### Stage 4 - Combine
 1. Add the chopped biscuits, marshmallows, dried cranberries and chopped pistachios to the cooled chocolate mixture.
-2. Fold gently with a spatula - turn from the bottom rather than stirring vigorously, to keep the marshmallows whole and the biscuit chunks intact.
-3. Once everything is coated, tip into the prepared tin. Press down firmly with the back of a spoon to compact, but leave the surface deliberately uneven - that's the look.
+2. Fold gently with a spatula, turn from the bottom rather than stirring vigorously, to keep the marshmallows whole and the biscuit chunks intact.
+3. Once everything is coated, tip into the prepared tin. Press down firmly with the back of a spoon to compact, but leave the surface deliberately uneven, that's the look.
 
 ### Stage 5 - Drizzle
 1. Melt the dark chocolate in a heatproof bowl over the pan (or 30-second bursts in the microwave).
@@ -52,7 +52,7 @@ White chocolate rocky road is the festive cousin of the classic milk-chocolate s
 
 ### Stage 6 - Chill and slice
 1. Refrigerate for at least 2 hours, until firmly set.
-2. Lift out using the baking-paper overhang. Let the slab come to room temperature for 5 minutes before cutting - fridge-cold white chocolate cracks under the knife.
+2. Lift out using the baking-paper overhang. Let the slab come to room temperature for 5 minutes before cutting, fridge-cold white chocolate cracks under the knife.
 3. Cut into 16 squares with a long sharp knife dipped in hot water and wiped dry between cuts.
 
 ## Notes
@@ -62,7 +62,7 @@ White chocolate rocky road is the festive cousin of the classic milk-chocolate s
 - **Christmas variant**: replace the pistachios with chopped glace cherries and add 2 tablespoons of mince meat (the dried-fruit type used in mince pies) folded in. Skip the dark drizzle and use Christmas sprinkles instead.
 
 ## Serving
-On a plate at room temperature. The slab is sweeter than the milk-chocolate version - a smaller square per person is plenty. Hot tea cuts through the richness better than coffee.
+On a plate at room temperature. The slab is sweeter than the milk-chocolate version, a smaller square per person is plenty. Hot tea cuts through the richness better than coffee.
 
 ## Storage
 - Airtight tin at cool room temperature for up to 10 days. Refrigerate in warm kitchens; white chocolate softens quickly above 22°C.

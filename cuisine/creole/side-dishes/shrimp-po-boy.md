@@ -72,4 +72,4 @@ The shrimp po-boy is the New Orleans sandwich invented in the 1920s for striking
 - **Dressed vs naked:** "Dressed" = with lettuce, tomato, pickles, mayo. "Naked" = just shrimp on bread. Both are right.
 
 ## Storage
-- Eat immediately. Po-boys don't keep - the bread goes soggy in 20 minutes.
+- Eat immediately. Po-boys don't keep, the bread goes soggy in 20 minutes.

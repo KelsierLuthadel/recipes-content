@@ -50,4 +50,4 @@ Soft butter-yellow biscuits with a layer of crystalline white sugar pressed into
 
 ## Storage
 - Keeps 1 week in an airtight tin at room temperature.
-- Don't freeze - the sugar crust softens on thaw.
+- Don't freeze, the sugar crust softens on thaw.

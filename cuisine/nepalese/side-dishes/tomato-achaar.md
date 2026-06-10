@@ -13,7 +13,7 @@
 ## Overview
 Tomato achaar (golbheda ko achaar) is the everyday Nepali pickle, the spoonful of sharp-smoky-sour-hot relish that sits at the corner of every dal bhat plate and at every momo stall in the country. The technique is straightforward but the order matters: ripe tomatoes are charred whole over a flame until the skin blackens and the flesh starts to weep, sesame seeds are toasted and ground with dried chillies into a coarse spice paste, and mustard oil is heated to smoking before being poured over the whole thing to mellow its raw pungency. Everything is then mashed together with garlic, ginger, salt and lemon into a thick brick-red relish that smells of bonfire and toasted nuts.
 
-This is a same-day achaar - bracing on day one, fading by day three. It is also the dipping sauce for [chicken momos](../chicken-momos.md), where it is sometimes thinned with a tablespoon of water and called momo ko achaar.
+This is a same-day achaar, bracing on day one, fading by day three. It is also the dipping sauce for [chicken momos](../chicken-momos.md), where it is sometimes thinned with a tablespoon of water and called momo ko achaar.
 
 ## Ingredients
 - 5 large ripe tomatoes (about 600 g)

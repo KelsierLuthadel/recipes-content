@@ -42,7 +42,7 @@ Every Jamaican kitchen has its version of callaloo, the everyday green that turn
 
 ### Stage 3 - Steam
 1. Cover; cook 6-8 minutes (less for spinach, more for callaloo) until the greens are tender and bright.
-1. Uncover; cook 2 more minutes to drive off any excess liquid - the dish should be moist but not soupy.
+1. Uncover; cook 2 more minutes to drive off any excess liquid, the dish should be moist but not soupy.
 
 ### Stage 4 - Finish
 1. Fish out the scotch bonnet and thyme stems.

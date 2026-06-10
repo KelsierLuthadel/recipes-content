@@ -67,7 +67,7 @@ A dark, brown-roux-thickened stew that sits closer to Louisiana gumbo than to Ja
 ### Stage 4 - Dark roux
 1. Tip the remaining 120 ml oil into a large heavy pot over medium heat.
 1. Whisk in the flour continuously.
-1. Cook 5-8 minutes, stirring without stopping, until the roux is a deep brown - the colour of dark caramel.
+1. Cook 5-8 minutes, stirring without stopping, until the roux is a deep brown, the colour of dark caramel.
 1. Stir in the tomato paste; cook 1 minute.
 
 ### Stage 5 - Aromatics
@@ -93,7 +93,7 @@ A dark, brown-roux-thickened stew that sits closer to Louisiana gumbo than to Ja
 1. Serve with lime wedges and a piece of Johnny Cake on the side if you have one.
 
 ## Notes
-- **Dark roux is the dish:** the longer you cook the flour-oil mixture, the deeper the colour and flavour. Aim for a colour somewhere between peanut butter and dark caramel. Don't burn it - if you see black flecks, start over.
+- **Dark roux is the dish:** the longer you cook the flour-oil mixture, the deeper the colour and flavour. Aim for a colour somewhere between peanut butter and dark caramel. Don't burn it, if you see black flecks, start over.
 - **Cassava is firmer than potato:** peel it carefully (the skin is bark-like). It holds shape through the stew where a regular potato would break down.
 - **Plantain ripeness:** yellow plantain with black spots adds sweetness; green plantain is starchy and savoury. The recipe calls for yellow; pick what you can find.
 - **Scotch bonnet gloves:** standard practice. Two minutes of mincing transfer enough capsaicin to burn skin for hours.

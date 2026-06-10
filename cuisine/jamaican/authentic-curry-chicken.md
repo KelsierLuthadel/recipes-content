@@ -47,7 +47,7 @@ Jamaican curry sits in its own corner of the global curry map: heavier on turmer
 ### Stage 2 - Burn the curry
 1. Heat the oil in a heavy pot over medium-high until shimmering.
 1. Add the **remaining** 2 tablespoons of curry powder.
-1. Stir constantly for 30 seconds until the curry is deeply golden and fragrant - this is "burning the curry" but it must not actually burn.
+1. Stir constantly for 30 seconds until the curry is deeply golden and fragrant, this is "burning the curry" but it must not actually burn.
 
 ### Stage 3 - Brown the chicken
 1. Working in batches, add the chicken pieces.
@@ -72,9 +72,9 @@ Jamaican curry sits in its own corner of the global curry map: heavier on turmer
 1. Scatter sliced spring onions.
 
 ## Notes
-- **"Burning" the curry:** the spice doesn't actually burn; it blooms in hot oil until the aroma changes from raw to roasted. Watch the colour - it should darken from yellow to brown over 30 seconds. Any blackening = too far.
+- **"Burning" the curry:** the spice doesn't actually burn; it blooms in hot oil until the aroma changes from raw to roasted. Watch the colour, it should darken from yellow to brown over 30 seconds. Any blackening = too far.
 - **Dark meat for juiciness:** breasts dry out in the long stew. Stick with thighs and drumsticks.
-- **Whole pierced Scotch bonnet:** delivers flavour and gentle heat without bursting. If it bursts, the dish becomes very hot - fish it out earlier if you're worried.
+- **Whole pierced Scotch bonnet:** delivers flavour and gentle heat without bursting. If it bursts, the dish becomes very hot, fish it out earlier if you're worried.
 
 ## Storage
 - Keeps 2-3 days refrigerated; reheats well and deepens overnight.

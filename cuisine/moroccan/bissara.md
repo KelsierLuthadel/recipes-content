@@ -42,7 +42,7 @@ Bissara is northern Morocco's street-food breakfast, sold from stalls in Chefcha
 
 ### Stage 2 - Blend
 1. Blend the soup smooth with a stick blender (or in batches in a jug blender).
-1. The soup should be thick - porridge-like - but pourable. Add hot water to thin to your preferred consistency.
+1. The soup should be thick, porridge-like, but pourable. Add hot water to thin to your preferred consistency.
 
 ### Stage 3 - Season
 1. Stir in the olive oil and lemon juice.
@@ -54,10 +54,10 @@ Bissara is northern Morocco's street-food breakfast, sold from stalls in Chefcha
 1. Serve with warm bread for dipping.
 
 ## Notes
-- **Skinned fava beans:** "Split fava beans" or "split broad beans" - sold dried at North African and Middle Eastern grocers. Whole favas need their tough skins removed; not worth the effort here.
-- **Yellow split peas as substitute:** Give a milder, paler bissara - still good but not authentic.
+- **Skinned fava beans:** "Split fava beans" or "split broad beans", sold dried at North African and Middle Eastern grocers. Whole favas need their tough skins removed; not worth the effort here.
+- **Yellow split peas as substitute:** Give a milder, paler bissara, still good but not authentic.
 - **Olive oil at the end:** Drizzle generously. The oil is the second main ingredient in flavour terms.
 
 ## Storage
-- Keeps 4 days refrigerated; thickens to almost solid in the fridge - loosen with hot water on reheat.
+- Keeps 4 days refrigerated; thickens to almost solid in the fridge, loosen with hot water on reheat.
 - Freezes 3 months.

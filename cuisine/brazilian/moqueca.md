@@ -32,7 +32,7 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 - 4 large ripe tomatoes (sliced into 1 cm slices)
 - 8 garlic cloves (chopped)
 - 1 small red chilli (sliced thin)
-- 1 large bunch fresh coriander (about 80 g - both stems and leaves)
+- 1 large bunch fresh coriander (about 80 g, both stems and leaves)
 - 400 ml full-fat coconut milk
 - 1 teaspoon fine sea salt
 - A few squeezes of lime
@@ -83,7 +83,7 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 1. Cover the pot tightly with a lid.
 2. Bring to a gentle simmer over medium-low heat.
 3. DO NOT boil; the fish overcooks quickly.
-4. Simmer 15-20 minutes (the time depends on the fish thickness - test at 15 minutes; the fish should be just flaking with a fork but still tender).
+4. Simmer 15-20 minutes (the time depends on the fish thickness, test at 15 minutes; the fish should be just flaking with a fork but still tender).
 5. The dendê oil and coconut milk will combine into a beautiful red-orange broth.
 
 ### Stage 8 - Finish
@@ -110,11 +110,11 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 **Moqueca capixaba (Espírito Santo state):** swap the coconut milk and dendê for olive oil and tomato base. Lighter, more Portuguese-influenced.
 **Shrimp moqueca:** swap fish for 800 g large prawns (shell-on); reduce cooking time to 8-10 minutes.
 **Mixed seafood moqueca:** combine fish + prawns + squid + scallops; layered moqueca with multiple seafoods.
-**Crab moqueca (caranguejo):** swap fish for crab claws - coastal Bahian variant.
-**Mussel moqueca:** swap fish for mussels - fast (8 minutes cooking).
-**Vegetarian moqueca:** swap fish for hearts of palm + chunks of plantain + chickpeas - surprising and excellent.
+**Crab moqueca (caranguejo):** swap fish for crab claws, coastal Bahian variant.
+**Mussel moqueca:** swap fish for mussels, fast (8 minutes cooking).
+**Vegetarian moqueca:** swap fish for hearts of palm + chunks of plantain + chickpeas, surprising and excellent.
 **Moqueca de ovos:** swap fish for eggs poached in the moqueca broth.
-**Moqueca de banana (sweet variant):** with plantains and palm hearts instead of fish - Bahian street food.
+**Moqueca de banana (sweet variant):** with plantains and palm hearts instead of fish, Bahian street food.
 
 ## Serving
 At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Brazilian Sunday family lunch in any northeast city · at a Brazilian dinner party in São Paulo or Rio · at a Bahian Carnival party · at a Brazilian-themed dinner abroad as a stunning showpiece · at home with friends and a bottle of Brazilian beer.

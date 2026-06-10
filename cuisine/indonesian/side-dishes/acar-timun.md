@@ -17,7 +17,7 @@ Acar timun is the Indonesian quick pickle: sweet-sour shreds of cucumber, carrot
 - 2 cucumbers (small, about 300 g)
 - 1 carrot (medium)
 - 4 shallots (or ½ small red onion)
-- 2 fresh red chillies (1 hot, 1 mild - adjust to taste)
+- 2 fresh red chillies (1 hot, 1 mild, adjust to taste)
 - 30 g fresh ginger (peeled, julienned)
 - 1 teaspoon salt (for the draw)
 
@@ -58,4 +58,4 @@ Acar timun is the Indonesian quick pickle: sweet-sour shreds of cucumber, carrot
 
 ## Storage
 - Keeps 24 hours at room temperature (or 36 hours refrigerated, brought back to room temp before serving).
-- The dressing alone keeps 2 weeks refrigerated - make a batch and dress fresh vegetables on demand.
+- The dressing alone keeps 2 weeks refrigerated, make a batch and dress fresh vegetables on demand.

@@ -15,7 +15,7 @@ Red beans is the Monday dish of New Orleans, the meal that filled the kitchens o
 
 ## Ingredients
 
-- 500 g dried small red beans (or kidney beans - soaked 12 hours, drained)
+- 500 g dried small red beans (or kidney beans, soaked 12 hours, drained)
 - 1 smoked ham hock (about 800 g)
 - 300 g andouille sausage (sliced 1 cm thick)
 - 2 tablespoons vegetable oil
@@ -29,7 +29,7 @@ Red beans is the Monday dish of New Orleans, the meal that filled the kitchens o
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt (to taste, added late)
 - 2 ½ litres hot stock
-- 2 tablespoons hot pepper sauce (Tabasco or Crystal - to serve)
+- 2 tablespoons hot pepper sauce (Tabasco or Crystal, to serve)
 
 ### To serve
 - 6 servings cooked white rice
@@ -53,7 +53,7 @@ Red beans is the Monday dish of New Orleans, the meal that filled the kitchens o
 
 ### Stage 4 - Thicken
 1. Lift the ham hock out; shred the meat off the bone; discard skin and bone.
-1. With the back of a wooden spoon or a potato masher, mash about a quarter of the beans against the pot wall - they thicken the pot liquor naturally.
+1. With the back of a wooden spoon or a potato masher, mash about a quarter of the beans against the pot wall, they thicken the pot liquor naturally.
 1. Return the shredded ham; stir.
 1. Stir in salt; taste; adjust.
 

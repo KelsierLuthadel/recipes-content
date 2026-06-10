@@ -45,7 +45,7 @@ The Sicilian sweet-sour aubergine relish that gets better every hour it sits, an
 
 ### Stage 1 - Salt the aubergine
 1. Place cubes in a colander set over a bowl; toss with 2 teaspoons fine salt.
-1. Rest 30 minutes - the cubes will weep visible droplets of dark liquid.
+1. Rest 30 minutes, the cubes will weep visible droplets of dark liquid.
 1. Rinse briefly under cold water; squeeze and pat very dry with kitchen paper. Wet cubes soak oil; dry cubes fry crisp.
 
 ### Stage 2 - Fry the aubergine
@@ -62,20 +62,20 @@ The Sicilian sweet-sour aubergine relish that gets better every hour it sits, an
 ### Stage 4 - Tomato and agrodolce
 1. Tip in the chopped tomatoes.
 1. Pour in the red wine vinegar; sprinkle in the caster sugar.
-1. Simmer 12-15 minutes uncovered until reduced to a thick glossy sauce - the colour deepens to a deep red-brown.
+1. Simmer 12-15 minutes uncovered until reduced to a thick glossy sauce, the colour deepens to a deep red-brown.
 
 ### Stage 5 - Fold in
 1. Stir in olives, capers, pine nuts and sultanas (if using).
 1. Cook 2 minutes to integrate.
 
 ### Stage 6 - Return the aubergine
-1. Add the fried aubergine; toss gently - don't break it up.
+1. Add the fried aubergine; toss gently, don't break it up.
 1. Simmer 8 minutes more. Taste; balance with extra vinegar (for sharpness), sugar (for sweetness), salt and pepper.
 
 ### Stage 7 - Rest
 1. Off heat; stir in torn basil.
 1. Cool to room temperature.
-1. Refrigerate at least 2 hours (ideally overnight) - caponata is one of those dishes that genuinely transforms with a day's rest.
+1. Refrigerate at least 2 hours (ideally overnight): caponata is one of those dishes that genuinely transforms with a day's rest.
 
 ### Stage 8 - Serve
 1. Bring back to room temperature.
@@ -84,7 +84,7 @@ The Sicilian sweet-sour aubergine relish that gets better every hour it sits, an
 
 ## Notes
 - **Salt the aubergine, pat it dry:** This is the technique. Skipping the salt step gives bitter, mushy, oil-saturated cubes. The 30-minute weep + thorough pat-dry produces crisp golden aubergine that holds its shape in the relish.
-- **Agrodolce balance is by taste:** Vinegar and sugar are the soul of caponata. The ratios in the recipe are a starting point - taste at Stage 6 and adjust until the sweet and sour are in tension, not pulling apart. A common Sicilian habit: a fraction more sugar than feels right; the dish needs sweetness to round the vinegar.
+- **Agrodolce balance is by taste:** Vinegar and sugar are the soul of caponata. The ratios in the recipe are a starting point, taste at Stage 6 and adjust until the sweet and sour are in tension, not pulling apart. A common Sicilian habit: a fraction more sugar than feels right; the dish needs sweetness to round the vinegar.
 - **Day-two is the dish:** Caponata served the day it's made is good. Day two is dramatically better. The flavours meld, the aubergine drinks in the agrodolce, the relish becomes a single thing rather than separate parts.
 
 ## Storage

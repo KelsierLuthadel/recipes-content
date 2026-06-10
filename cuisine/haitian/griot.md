@@ -16,7 +16,7 @@ Griot is the Haitian Sunday-table pork dish, cubes of pork shoulder marinated ov
 ## Ingredients
 
 ### Pork and marinade
-- 1 ½ kg pork shoulder (boneless, cut into 4 cm cubes - leave some fat on)
+- 1 ½ kg pork shoulder (boneless, cut into 4 cm cubes, leave some fat on)
 - 4 tablespoons épis (Haitian green seasoning); recipe in Notes
 - 1 shallot (large, finely chopped)
 - 6 garlic cloves (crushed)

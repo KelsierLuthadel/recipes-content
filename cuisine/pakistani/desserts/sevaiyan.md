@@ -48,7 +48,7 @@ Sevaiyan is the drier cousin of sheer khurma and the morning-of-Eid breakfast in
 2. Taste and adjust sugar: Eid sevaiyan is meant to be properly sweet but not cloying. Add another tablespoon of sugar if needed.
 
 ## Notes
-- Roasted sevaiyan is a different product from the long thin vermicelli used in sheer khurma; it is shorter, redder and sold in clumps. Both work - adjust the cook time slightly for the unroasted kind (a minute or two longer).
+- Roasted sevaiyan is a different product from the long thin vermicelli used in sheer khurma; it is shorter, redder and sold in clumps. Both work, adjust the cook time slightly for the unroasted kind (a minute or two longer).
 - For a richer version, add 100 ml double cream alongside the milk and reduce the sugar by 20 g.
 - A small spoon of khoya (reduced milk solids) stirred in at the end deepens the flavour considerably.
 

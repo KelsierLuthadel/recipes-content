@@ -24,7 +24,7 @@ The Native American powwow plate: pillowy fried-bread disks topped with a thick 
 - Vegetable oil for shallow frying
 
 ### Wojapi
-- 600 g mixed berries (blueberries, blackberries, raspberries - fresh or frozen)
+- 600 g mixed berries (blueberries, blackberries, raspberries, fresh or frozen)
 - 200 ml water
 - 4 tablespoons pure maple syrup
 - 2 tablespoons brown sugar (adjust to fruit's natural sweetness)
@@ -49,7 +49,7 @@ The Native American powwow plate: pillowy fried-bread disks topped with a thick 
 ### Stage 2 - Frybread dough
 1. Whisk the flour, baking powder, salt and sugar in a wide bowl.
 1. Add the warm milk gradually; mix to a soft, slightly tacky dough.
-1. Knead briefly - 2-3 minutes - until smooth.
+1. Knead briefly - 2-3 minutes, until smooth.
 1. Cover; rest 30 minutes (lets the gluten relax for easier shaping).
 
 ### Stage 3 - Heat the oil
@@ -70,7 +70,7 @@ The Native American powwow plate: pillowy fried-bread disks topped with a thick 
 1. Eat immediately while the frybread is still hot.
 
 ## Notes
-- **Frybread's history:** Worth knowing. It comes from a period of forced relocation and rationing - many Native cooks have a complicated relationship with it. Today it stands as a symbol of resilience and community.
+- **Frybread's history:** Worth knowing. It comes from a period of forced relocation and rationing, many Native cooks have a complicated relationship with it. Today it stands as a symbol of resilience and community.
 - **Hot oil, fast cook:** Soft, undercooked frybread is heavy. Pull when it's deep golden; it cooks fast.
 - **Wojapi traditions:** Lakota chokecherries are the original ingredient; the sauce was originally thickened with chokecherry pits or a cornflour-like starch. Modern recipes use whatever berries are available.
 

@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Jalapeño poppers are the iconic Southwestern bar-and-grill appetiser: fresh jalapeño peppers halved lengthwise and deseeded, stuffed with a mixture of cream cheese, grated sharp cheddar, garlic powder, smoked paprika and chopped spring onions, wrapped in a half-strip of streaky bacon, secured with a toothpick, and baked (the modern preference) or deep-fried (the traditional 1970s American style) till the bacon crisps to deep golden and the cheese inside is molten. Served hot with ranch dressing or sour cream for dipping. The dish is the traditional Southwestern bar food - Friday night football, Super Bowl parties, bar appetisers across Arizona, New Mexico and Texas.
+Jalapeño poppers are the iconic Southwestern bar-and-grill appetiser: fresh jalapeño peppers halved lengthwise and deseeded, stuffed with a mixture of cream cheese, grated sharp cheddar, garlic powder, smoked paprika and chopped spring onions, wrapped in a half-strip of streaky bacon, secured with a toothpick, and baked (the modern preference) or deep-fried (the traditional 1970s American style) till the bacon crisps to deep golden and the cheese inside is molten. Served hot with ranch dressing or sour cream for dipping. The dish is the traditional Southwestern bar food, Friday night football, Super Bowl parties, bar appetisers across Arizona, New Mexico and Texas.
 
 ## Ingredients
 

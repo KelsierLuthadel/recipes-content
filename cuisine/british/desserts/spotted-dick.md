@@ -17,7 +17,7 @@ Spotted dick is the old British steamed pudding, the schoolroom-and-Sunday-lunch
 
 ### Pudding
 - 250 g self-raising flour
-- 125 g shredded beef suet (Atora-style, sold dried at supermarkets - vegetable suet works for vegetarian)
+- 125 g shredded beef suet (Atora-style, sold dried at supermarkets, vegetable suet works for vegetarian)
 - 80 g caster sugar
 - A pinch of salt
 - ½ teaspoon ground cinnamon (optional)
@@ -61,7 +61,7 @@ Spotted dick is the old British steamed pudding, the schoolroom-and-Sunday-lunch
 1. Add more milk 1 tablespoon at a time until the batter is a soft dropping consistency (it should fall off the spoon with one gentle shake).
 
 ### Stage 5 - Fill the basin
-1. Tip the mixture into the prepared basin; don't fill to the top - leave 2 cm of headspace (the pudding rises during steaming).
+1. Tip the mixture into the prepared basin; don't fill to the top, leave 2 cm of headspace (the pudding rises during steaming).
 1. Smooth the top.
 
 ### Stage 6 - Cover
@@ -76,14 +76,14 @@ Spotted dick is the old British steamed pudding, the schoolroom-and-Sunday-lunch
 1. Cover the pot with a tight-fitting lid.
 1. Bring back to a gentle simmer.
 1. Steam over low heat for 2 hours.
-1. Top up the water every 30 minutes with more boiling water - DO NOT let it run dry.
+1. Top up the water every 30 minutes with more boiling water, DO NOT let it run dry.
 
 ### Stage 8 - Make the custard
 1. Heat milk with the vanilla pod (or vanilla extract) to just below a simmer.
 1. Whisk egg yolks with sugar and cornflour until pale.
 1. Pour the hot milk slowly onto the yolks, whisking.
 1. Return to the pan over low heat; cook 3-4 minutes, stirring constantly, until the custard thickens enough to coat the back of a spoon.
-1. Don't let it boil - it scrambles.
+1. Don't let it boil, it scrambles.
 1. Strain through a fine sieve into a jug.
 
 ### Stage 9 - Turn out the pudding
@@ -91,7 +91,7 @@ Spotted dick is the old British steamed pudding, the schoolroom-and-Sunday-lunch
 1. Remove the foil and paper.
 1. Run a thin knife around the edge of the pudding.
 1. Place a wide serving plate over the basin; invert; lift the basin away.
-1. The pudding should slide out as a domed shape - golden-brown on top (formerly the bottom), studded with dark currants.
+1. The pudding should slide out as a domed shape, golden-brown on top (formerly the bottom), studded with dark currants.
 
 ### Stage 10 - Serve
 1. Slice into thick wedges (about 2 ½ cm).
@@ -101,7 +101,7 @@ Spotted dick is the old British steamed pudding, the schoolroom-and-Sunday-lunch
 ## Notes
 - **Suet is the secret:** Beef suet (or vegetarian suet) is what gives spotted dick its distinctive light-but-rich texture. Substituting butter gives a denser, cake-like pudding (still good, but not authentic).
 - **Don't open during steaming:** Like Yorkshire puddings, the rise depends on consistent steam. Don't lift the lid or remove the basin to check; let it steam for the full 2 hours.
-- **Don't let the water run dry:** A pot that boils dry will burn the bottom of the pudding and possibly the bottom of the pan. Check water level every 30 minutes; top up with boiling water (never cold - it stops the steaming).
+- **Don't let the water run dry:** A pot that boils dry will burn the bottom of the pudding and possibly the bottom of the pan. Check water level every 30 minutes; top up with boiling water (never cold, it stops the steaming).
 
 ## Storage
 - Best fresh, served warm.

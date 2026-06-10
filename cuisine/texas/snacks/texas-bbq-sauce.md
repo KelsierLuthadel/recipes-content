@@ -2,7 +2,7 @@
 
 ![Texas BBQ Sauce](resources/texas-bbq-sauce.jpg)
 
-*Texas's vinegar-tomato BBQ sauce: ketchup, beef stock, vinegar, brown sugar, Worcestershire, mustard, chili powder, cumin and butter slow-simmered into a thin glossy red BBQ sauce. The Central Texas counterpoint to Kansas City sweet-and-thick sauces - Texas BBQ sauce is thinner, more vinegar-forward, more savoury.*
+*Texas's vinegar-tomato BBQ sauce: ketchup, beef stock, vinegar, brown sugar, Worcestershire, mustard, chili powder, cumin and butter slow-simmered into a thin glossy red BBQ sauce. The Central Texas counterpoint to Kansas City sweet-and-thick sauces, Texas BBQ sauce is thinner, more vinegar-forward, more savoury.*
 
 **Serves:** Makes about 600 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Texas BBQ sauce is the Lone Star State's regional take on tomato-based BBQ sauce, distinct from the thicker sweeter Kansas City and Memphis styles: a thin glossy red sauce made from ketchup, beef stock (the traditional Texan addition - gives savory depth), white vinegar, dark brown sugar, Worcestershire sauce, yellow mustard, chili powder, cumin, garlic powder, onion powder, smoked paprika, salt and a small amount of butter for shine. Slow-simmered for 20 minutes to meld. Central Texas BBQ purists actually serve their brisket without sauce; it's a Northern-Texas (Dallas-Fort Worth) tradition to use sauce more freely. The dish is what's drizzled on Texas BBQ when sauce is wanted, brushed on ribs in the final stages of smoking, or served as a dipping sauce alongside.
+Texas BBQ sauce is the Lone Star State's regional take on tomato-based BBQ sauce, distinct from the thicker sweeter Kansas City and Memphis styles: a thin glossy red sauce made from ketchup, beef stock (the traditional Texan addition, gives savory depth), white vinegar, dark brown sugar, Worcestershire sauce, yellow mustard, chili powder, cumin, garlic powder, onion powder, smoked paprika, salt and a small amount of butter for shine. Slow-simmered for 20 minutes to meld. Central Texas BBQ purists actually serve their brisket without sauce; it's a Northern-Texas (Dallas-Fort Worth) tradition to use sauce more freely. The dish is what's drizzled on Texas BBQ when sauce is wanted, brushed on ribs in the final stages of smoking, or served as a dipping sauce alongside.
 
 ## Ingredients
 
@@ -64,7 +64,7 @@ Texas BBQ sauce is the Lone Star State's regional take on tomato-based BBQ sauce
 **East Texas (sweeter):** double the brown sugar; closer to Kansas City style.
 
 ## Serving
-With Texas BBQ - brisket, ribs, sausage, chicken. As a dipping sauce. Brushed on grilled meats in the last 5 minutes. Drink: cold beer.
+With Texas BBQ, brisket, ribs, sausage, chicken. As a dipping sauce. Brushed on grilled meats in the last 5 minutes. Drink: cold beer.
 
 ## Storage
 - Keeps refrigerated 1 month in a sealed jar.

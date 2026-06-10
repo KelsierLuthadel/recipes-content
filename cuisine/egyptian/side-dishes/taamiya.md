@@ -15,7 +15,7 @@ Taamiya is the Egyptian falafel, made with fava beans instead of chickpeas (the 
 
 ## Ingredients
 
-- 400 g dried split fava beans (skinless - soaked 12 hours, drained)
+- 400 g dried split fava beans (skinless, soaked 12 hours, drained)
 - 1 onion (medium, chopped)
 - 1 leek (medium, white part only, chopped)
 - 8 garlic cloves
@@ -43,7 +43,7 @@ Taamiya is the Egyptian falafel, made with fava beans instead of chickpeas (the 
 
 ### Stage 1 - Blitz
 1. Place the drained fava beans, onion, leek, garlic, all herbs, ground coriander, cumin, pepper, salt and chilli (if using) in a food processor.
-1. Blitz to a coarse paste - should hold a shape when squeezed but still grainy.
+1. Blitz to a coarse paste, should hold a shape when squeezed but still grainy.
 1. Tip into a bowl. Cover; refrigerate 1 hour.
 
 ### Stage 2 - Baking powder
@@ -59,10 +59,10 @@ Taamiya is the Egyptian falafel, made with fava beans instead of chickpeas (the 
 1. Drain on kitchen paper.
 
 ### Stage 5 - Serve
-1. Eat warm - stuff into pita with tahina, salata, pickles. Or eat as a starter with tahina to dip.
+1. Eat warm, stuff into pita with tahina, salata, pickles. Or eat as a starter with tahina to dip.
 
 ## Notes
-- **Fava not chickpea:** Egyptian ta'amiya uses dried split fava beans. Sold in Middle Eastern shops as "split broad beans". Don't substitute chickpeas - that's Lebanese / Israeli falafel, different dish.
+- **Fava not chickpea:** Egyptian ta'amiya uses dried split fava beans. Sold in Middle Eastern shops as "split broad beans". Don't substitute chickpeas, that's Lebanese / Israeli falafel, different dish.
 - **Don't over-blitz:** The texture should be coarse, with visible bits of herb and bean. A smooth purée gives dense, doughy ta'amiya.
 - **Baking powder at the end:** Activates with frying for lightness. Adding earlier and the patties go flat.
 

@@ -88,7 +88,7 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 5. Drink immediately while ice-cold.
 
 ## Notes
-- **Dried hibiscus, not European sorrel:** the Caribbean "sorrel" is the hibiscus flower. European sorrel is a green herb - completely different.
+- **Dried hibiscus, not European sorrel:** the Caribbean "sorrel" is the hibiscus flower. European sorrel is a green herb, completely different.
 - **Long overnight steep:** the traditional Caribbean technique. 12-24 hours of cooled steep gives the deepest red colour and the fullest spice infusion.
 - **Generous sugar:** dried hibiscus is quite tart; 200-300 g sugar per 1.5 litres of brew is the traditional Caribbean sweetness.
 - **The Christmas timing:** in Barbados, sorrel is essentially a November-December-January drink. Outside that season it feels off-period.
@@ -96,15 +96,15 @@ Sorrel is the most identity-specifically Christmas drink in the Caribbean, made 
 - **Don't over-simmer:** 25 minutes is enough. Longer simmering makes the spice profile too aggressive.
 
 ## Variations
-**Sorrel with ginger (extra warming):** triple the fresh ginger - the warmer Christmas variant.
-**Sorrel cocktail with falernum:** add 30 ml of Bajan falernum (the lime-ginger-clove-almond syrup) per glass - the upmarket Bajan cocktail variant.
-**Sparkling sorrel:** top each glass with 30 ml of sparkling water or club soda - the modern bubbly variant.
-**Sorrel sangria:** mix the sorrel 50/50 with dry red wine + diced fresh fruit - the Caribbean Christmas sangria.
-**Sorrel mocktail (non-alcoholic):** the kids' version with no rum - excellent for the designated driver.
-**Sorrel with pineapple (Trinidadian variant):** add 200 ml of pineapple juice - the Trinidadian Christmas variant.
-**Sorrel slushie:** blend the chilled sorrel with crushed ice - the Bajan summer variant.
+**Sorrel with ginger (extra warming):** triple the fresh ginger, the warmer Christmas variant.
+**Sorrel cocktail with falernum:** add 30 ml of Bajan falernum (the lime-ginger-clove-almond syrup) per glass, the upmarket Bajan cocktail variant.
+**Sparkling sorrel:** top each glass with 30 ml of sparkling water or club soda, the modern bubbly variant.
+**Sorrel sangria:** mix the sorrel 50/50 with dry red wine + diced fresh fruit, the Caribbean Christmas sangria.
+**Sorrel mocktail (non-alcoholic):** the kids' version with no rum, excellent for the designated driver.
+**Sorrel with pineapple (Trinidadian variant):** add 200 ml of pineapple juice, the Trinidadian Christmas variant.
+**Sorrel slushie:** blend the chilled sorrel with crushed ice, the Bajan summer variant.
 **Quick sorrel (24-hour batch):** simmer; steep 12 hours; strain and sweeten; faster than the traditional 24-hour version.
-**Sorrel jelly:** dissolve gelatin in the strained warm brew; chill - the Bajan Christmas pudding variant.
+**Sorrel jelly:** dissolve gelatin in the strained warm brew; chill, the Bajan Christmas pudding variant.
 **Sorrel syrup:** concentrate by simmering 2x; use as a Bajan cocktail mixer year-round.
 
 ## Serving
@@ -113,7 +113,7 @@ At a Bajan Christmas Eve dinner (the traditional setting; alongside jug-jug, bak
 ## Storage
 - The chilled sorrel refrigerates 1 week; the flavour deepens slightly over time.
 - The rum-laced version refrigerates 2 weeks (alcohol preserves).
-- Don't freeze the prepared drink - the colour and flavour suffer.
+- Don't freeze the prepared drink, the colour and flavour suffer.
 - The dried hibiscus and whole spices keep indefinitely in sealed jars in a dry pantry.
 - A "sorrel concentrate" (2x strength brew) can be made and refrigerated for 4 weeks; dilute with cold water to serve.
 - A typical Bajan household makes a large pot of sorrel in late November and keeps it in the fridge throughout December.

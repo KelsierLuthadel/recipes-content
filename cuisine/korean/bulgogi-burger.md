@@ -92,7 +92,7 @@ The bulgogi burger is one of the great Korean-American fusion creations, born ou
 4. A heap of drained pickled daikon and carrot.
 5. The fried egg.
 6. A scatter of sliced spring onion greens and sesame seeds.
-7. Close. The yolk will burst into the patty on the first bite - that's the point.
+7. Close. The yolk will burst into the patty on the first bite, that's the point.
 
 ### Stage 8 - Serve
 1. Cut diagonally for the photo.

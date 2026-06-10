@@ -2,7 +2,7 @@
 
 ![Filipino Hot Dog](resources/filipino-hot-dog.jpg)
 
-*The Philippines' breakfast-plate hot dog: a bright-red Filipino hot dog (the iconic crimson-coloured sweet pork-and-beef sausage) notched and pan-fried till the notches curl outward, served with garlic rice (sinangag), a sunny-side-up fried egg, and a side dish of banana ketchup. The Filipino silog breakfast version of the hot dog - no bun.*
+*The Philippines' breakfast-plate hot dog: a bright-red Filipino hot dog (the iconic crimson-coloured sweet pork-and-beef sausage) notched and pan-fried till the notches curl outward, served with garlic rice (sinangag), a sunny-side-up fried egg, and a side dish of banana ketchup. The Filipino silog breakfast version of the hot dog, no bun.*
 
 **Serves:** 4
 
@@ -16,7 +16,7 @@ The Filipino hot dog (called "hotsilog" or "hotdogsilog" when served as the brea
 ## Ingredients
 
 ### Hot dogs
-- 4 Filipino red hot dogs (Purefoods, CDO, Tender Juicy - or substitute any sweet pork-and-beef hot dog and tint with a few drops of red food colouring if you want the traditional colour)
+- 4 Filipino red hot dogs (Purefoods, CDO, Tender Juicy, or substitute any sweet pork-and-beef hot dog and tint with a few drops of red food colouring if you want the traditional colour)
 - 2 tablespoons vegetable oil
 
 ### Garlic rice (sinangag) - make this from day-old rice for best texture

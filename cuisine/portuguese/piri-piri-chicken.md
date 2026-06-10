@@ -16,7 +16,7 @@ Piri-piri chicken is the dish that travelled from Mozambique to Portugal to the 
 ## Ingredients
 
 ### Chicken
-- 1 ½ kg whole chicken (spatchcocked - backbone removed, bird flattened)
+- 1 ½ kg whole chicken (spatchcocked, backbone removed, bird flattened)
 
 ### Marinade and sauce
 - 8-12 African bird's-eye chillies (piri-piri, also sold as African Devil chilli, adjust to heat tolerance)

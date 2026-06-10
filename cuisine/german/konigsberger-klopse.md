@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Kaliningrad in Russia) is one of Germany's most refined classical dishes - a holdover from the cuisine of East Prussia, brought westward by the millions of German refugees who fled the region after World War Two. The construction has two distinct elements: pale meatballs made from finely minced veal and pork (with rusks/breadcrumbs as binder, an anchovy or two for deep umami without fishiness, finely chopped onion, parsley, an egg, and gentle seasoning), shaped into smooth balls and poached gently in a flavoured stock (not boiled - the meatballs would toughen); and a creamy white sauce (a classic béchamel enriched with the poaching stock, lifted with capers and lemon juice, and finished with cream and egg yolk). The dish is served with white rice or boiled potatoes. The pale colour palette is traditional: white sauce, white meatballs, white rice, all in a deep white bowl.
+Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Kaliningrad in Russia) is one of Germany's most refined classical dishes, a holdover from the cuisine of East Prussia, brought westward by the millions of German refugees who fled the region after World War Two. The construction has two distinct elements: pale meatballs made from finely minced veal and pork (with rusks/breadcrumbs as binder, an anchovy or two for deep umami without fishiness, finely chopped onion, parsley, an egg, and gentle seasoning), shaped into smooth balls and poached gently in a flavoured stock (not boiled, the meatballs would toughen); and a creamy white sauce (a classic béchamel enriched with the poaching stock, lifted with capers and lemon juice, and finished with cream and egg yolk). The dish is served with white rice or boiled potatoes. The pale colour palette is traditional: white sauce, white meatballs, white rice, all in a deep white bowl.
 
 ## Ingredients
 
@@ -127,18 +127,18 @@ Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Ka
 - **The white-on-white look is traditional:** don't garnish with paprika or anything coloured. Pale meatballs in pale sauce in white bowls.
 
 ## Variations
-**Spreewald Klopse:** the Saxon-region variant uses dill pickles in the sauce instead of capers - more vinegary.
-**Klopse with mushroom (modern):** add 200 g sliced mushrooms to the sauce - modern variant.
-**Beetroot-juice-coloured (Berlin):** add a tablespoon of beet juice to the sauce for a pink tint - modernist twist.
+**Spreewald Klopse:** the Saxon-region variant uses dill pickles in the sauce instead of capers, more vinegary.
+**Klopse with mushroom (modern):** add 200 g sliced mushrooms to the sauce, modern variant.
+**Beetroot-juice-coloured (Berlin):** add a tablespoon of beet juice to the sauce for a pink tint, modernist twist.
 **Vegan Klopse:** use a mixture of finely chopped mushrooms + cooked lentils + breadcrumbs to replace the meat; oat cream instead of dairy.
-**With sour cream finish:** add 3 tablespoons sour cream to the sauce - Sile sian variant.
-**With dill and lemon (Northern German):** add 2 tablespoons fresh dill to the sauce - coastal variant.
+**With sour cream finish:** add 3 tablespoons sour cream to the sauce, Sile sian variant.
+**With dill and lemon (Northern German):** add 2 tablespoons fresh dill to the sauce, coastal variant.
 
 ## Serving
 At a German Hausfrau Sunday lunch (the traditional setting) · at a Berlin restaurant specialising in classic German cuisine · at a Königsberg-refugee family dinner (the dish that crossed Germany) · at a German-themed dinner abroad as a sophisticated showpiece · at a German Christmas Eve dinner · at home as a Sunday family meal · alongside a glass of dry Riesling.
 
 ## Storage
-- Meatballs + sauce refrigerate 3 days; reheat gently in a saucepan (don't boil - the egg-yolk-enriched sauce splits if reboiled).
+- Meatballs + sauce refrigerate 3 days; reheat gently in a saucepan (don't boil, the egg-yolk-enriched sauce splits if reboiled).
 - Don't freeze (the sauce splits on defrosting).
 - The poached meatballs alone can be frozen 1 month; remake the sauce fresh.
 - Leftover meatballs in their sauce make excellent next-day open-faced sandwiches.

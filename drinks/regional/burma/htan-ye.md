@@ -20,7 +20,7 @@ Htan ye is the fresh, unfermented sap of the toddy palm tree (Borassus flabellif
 
 ### Substitute (when fresh sap isn't available)
 - 1 litre cold water
-- 120 g palm jaggery (jaggery from palm sugar - sold at South Asian / Southeast Asian groceries; brown lumps, NOT the same as cane sugar)
+- 120 g palm jaggery (jaggery from palm sugar, sold at South Asian / Southeast Asian groceries; brown lumps, NOT the same as cane sugar)
 - 2 tablespoons fresh lime juice
 - 1/4 teaspoon ground cardamom
 - Pinch of fine salt
@@ -60,7 +60,7 @@ Htan ye is the fresh, unfermented sap of the toddy palm tree (Borassus flabellif
 
 ## Notes
 - **Fresh palm sap is rare outside Myanmar.** Some Burmese / Thai / Indian groceries carry frozen palm sap, but quality is variable. The substitute version is a credible approximation of the flavour profile.
-- **Palm jaggery, not cane jaggery.** Palm jaggery (made from boiled-down palm sap) has a deeper, more floral, slightly smoky character than cane jaggery. The substitute hinges on this - cane sugar gives a flatter drink.
+- **Palm jaggery, not cane jaggery.** Palm jaggery (made from boiled-down palm sap) has a deeper, more floral, slightly smoky character than cane jaggery. The substitute hinges on this, cane sugar gives a flatter drink.
 - **Drink quickly.** Both versions are best within a few hours of preparation. The fresh sap version is on a clock as the fermentation accelerates.
 - **Salt.** The pinch of salt amplifies the jaggery's complex sweetness. Don't skip.
 

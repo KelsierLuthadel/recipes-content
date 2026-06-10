@@ -9,7 +9,7 @@ Smoke is a flavour, a preservative, and an antimicrobial all at once. The phenol
 
 The single distinction that matters in this lesson: smoke at low temperatures (cold smoke, under 30 C) flavours without cooking, leaving you with a salt-cured-and-smoked raw product that you finish another way (or eat as raw cured, like cold-smoked salmon). Smoke at higher temperatures (hot smoke, 60-120 C) cooks the meat as it smokes, producing a ready-to-eat product (brisket, pulled pork, hot-smoked salmon, kielbasa).
 
-The food-safety implications are completely different. Cold-smoked products must have been cured first (salt + nitrite at the correct ratios) - the smoke does not preserve. Hot-smoked products can use lighter cures because the cooking does the safety work. Equipment, wood choice, timing all follow.
+The food-safety implications are completely different. Cold-smoked products must have been cured first (salt + nitrite at the correct ratios): the smoke does not preserve. Hot-smoked products can use lighter cures because the cooking does the safety work. Equipment, wood choice, timing all follow.
 
 ## Cold Smoke
 
@@ -39,7 +39,7 @@ The chamber: any insulated box with hooks at the top and a smoke inlet. A conver
 
 1. **Cure first.** The product must already be cured. Salt + cure #1 + sugar + aromatics applied at percentages from the relevant cure lesson.
 2. **Form the pellicle.** After rinsing the cure off, place the product on a wire rack in the fridge uncovered for 12-24 hours. The surface dries to a slightly tacky pellicle; this is what holds the smoke.
-3. **Smoke.** Place in the cold smoker. Smoke for 4-12 hours depending on the product and your taste. Outdoor temperature matters - cold-smoking is only safe when the chamber stays below 30 C, which means cool weather or active cooling.
+3. **Smoke.** Place in the cold smoker. Smoke for 4-12 hours depending on the product and your taste. Outdoor temperature matters, cold-smoking is only safe when the chamber stays below 30 C, which means cool weather or active cooling.
 
 | Product | Cold-smoke duration | Wood (commonly) |
 |---------|---------------------|-----------------|
@@ -108,7 +108,7 @@ The choice of smoker is partly skill (the offset stick burner takes the most lea
 
 ### Hot-Smoke Safety
 
-The cooking does the food-safety work. Cure #1 is not strictly required for hot-smoked products that come from a fresh-meat starting point, though many recipes use cure to enhance flavour and colour. If a hot smoke takes longer than 4 hours to bring meat from 4 C up to 60 C internal (the danger-zone passage), cure #1 is advised for safety - this is why brisket and pulled pork often include cure in the rub.
+The cooking does the food-safety work. Cure #1 is not strictly required for hot-smoked products that come from a fresh-meat starting point, though many recipes use cure to enhance flavour and colour. If a hot smoke takes longer than 4 hours to bring meat from 4 C up to 60 C internal (the danger-zone passage), cure #1 is advised for safety, this is why brisket and pulled pork often include cure in the rub.
 
 ## Wood Choice
 
@@ -127,7 +127,7 @@ The wood matters. Different woods give different flavour profiles.
 | Maple | Mild, slightly sweet | Bacon, ham, poultry, cheese |
 | Whisky barrel oak | Oak with a residual sweet whisky note | Specialty smokes |
 
-What to avoid: any softwood (pine, fir, cedar - resinous, bitter smoke), green/unseasoned wood (acrid), treated lumber (toxic), wood from unknown sources (potentially treated or contaminated).
+What to avoid: any softwood (pine, fir, cedar, resinous, bitter smoke), green/unseasoned wood (acrid), treated lumber (toxic), wood from unknown sources (potentially treated or contaminated).
 
 ## The Single Most Important Lesson
 
@@ -136,7 +136,7 @@ Smoke is a seasoning, not a sledgehammer. Over-smoked meat tastes acrid and bitt
 Two corrections that work:
 
 1. **Use less wood than you think.** Particularly in pellet smokers and electric smokers, which produce more smoke than people often realise. A handful of wood chunks in a charcoal smoker is usually right; whole logs in an offset is right for the offset's airflow.
-2. **Smoke for less time.** Brisket needs the long cook; that does not mean it needs smoke for the entire cook. The "smoke ring" - the pink layer just under the surface - forms in the first 3-4 hours of cooking, at which point the meat has set enough that further smoke is just surface deposit. Many barbecue cooks load the smoker with wood for the first 4 hours, then continue the cook with just charcoal.
+2. **Smoke for less time.** Brisket needs the long cook; that does not mean it needs smoke for the entire cook. The "smoke ring", the pink layer just under the surface, forms in the first 3-4 hours of cooking, at which point the meat has set enough that further smoke is just surface deposit. Many barbecue cooks load the smoker with wood for the first 4 hours, then continue the cook with just charcoal.
 
 ## Where Next
 - [Bacon](bacon.md): cold or warm-smoked after the cure.

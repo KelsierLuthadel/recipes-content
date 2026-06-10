@@ -39,7 +39,7 @@ Tunisia's signature street food, sold from every Sidi Bou Said cart and every Tu
 ## Method
 
 ### Stage 1 - Filling
-1. Mix the tuna, onion, parsley, capers, cheese (if using), harissa, cumin, salt and pepper in a bowl with a fork - keep the texture chunky.
+1. Mix the tuna, onion, parsley, capers, cheese (if using), harissa, cumin, salt and pepper in a bowl with a fork, keep the texture chunky.
 
 ### Stage 2 - Heat the oil
 1. Pour 1 cm of oil into a wide heavy pan; heat to 180°C (a piece of pastry should sizzle vigorously).
@@ -48,7 +48,7 @@ Tunisia's signature street food, sold from every Sidi Bou Said cart and every Tu
 1. Lay one malsouka sheet flat (or 2 stacked filo).
 1. Spread a quarter of the filling on one half of the sheet, leaving a 2 cm border. Press to flatten.
 1. Make a well in the centre of the filling.
-1. Crack an egg into the well - try not to break the yolk.
+1. Crack an egg into the well, try not to break the yolk.
 1. Salt and pepper lightly.
 1. Fold the empty half over the filling to form a triangle or rectangle.
 1. Press the edges with a fork to seal.
@@ -61,12 +61,12 @@ Tunisia's signature street food, sold from every Sidi Bou Said cart and every Tu
 ### Stage 5 - Serve
 1. Repeat for the remaining 3 brik (the oil will need a moment to come back to temperature between each).
 1. Serve immediately with lemon wedges, a smear of harissa and a green salad.
-1. Eat by hand - bite a corner; let the yolk run.
+1. Eat by hand, bite a corner; let the yolk run.
 
 ## Notes
 - **Yolk soft is the point:** A brik with a fully-set yolk is overcooked. 90 seconds per side at proper heat keeps the white just-set and the yolk runny.
-- **Malsouka vs filo:** Malsouka (warqa) is a thinner, more pliable Tunisian pastry sheet. Filo works as a substitute - use 2 sheets stacked and brushed lightly with oil between.
+- **Malsouka vs filo:** Malsouka (warqa) is a thinner, more pliable Tunisian pastry sheet. Filo works as a substitute, use 2 sheets stacked and brushed lightly with oil between.
 - **Don't overstuff:** Too much filling makes a soggy brik that splits in the oil.
 
 ## Storage
-- Eat immediately. Brik don't keep - the pastry softens and the yolk overcooks on reheat.
+- Eat immediately. Brik don't keep, the pastry softens and the yolk overcooks on reheat.

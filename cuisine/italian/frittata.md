@@ -54,7 +54,7 @@ Frittata is the Italian open-faced omelette, eggs whisked with seasonal vegetabl
 ## Notes
 - **Oven-proof pan:** No plastic handles. Cast iron or all-metal non-stick.
 - **Don't overcook:** A puffy, just-set centre stays moist; an over-baked frittata goes dry. Pull when slightly wobbly.
-- **Whatever vegetables:** Asparagus, leftover roast potatoes, peas, broccoli, mushrooms - frittata is forgiving.
+- **Whatever vegetables:** Asparagus, leftover roast potatoes, peas, broccoli, mushrooms, frittata is forgiving.
 
 ## Storage
 - Eats hot, warm or cold. Keeps 3 days refrigerated; great in a packed lunch.

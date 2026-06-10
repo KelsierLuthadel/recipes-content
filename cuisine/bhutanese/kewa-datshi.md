@@ -28,7 +28,7 @@ The gentler, more domestic cousin of ema datshi: a Bhutanese family supper of po
 ### Cheese mix (yak churpi substitute)
 - 100 g Edam cheese (grated; or mild gouda)
 - 80 g processed cheese slices (chopped; e.g. supermarket American slices or Dairylea singles)
-- 40 g crumbled feta (or a small handful of mild blue cheese, for the funky note - optional but recommended)
+- 40 g crumbled feta (or a small handful of mild blue cheese, for the funky note, optional but recommended)
 - 50 ml whole milk
 
 ### To finish
@@ -53,7 +53,7 @@ The gentler, more domestic cousin of ema datshi: a Bhutanese family supper of po
 
 ### Stage 3 - Add the cheese
 1. Reduce heat to low.
-1. Scatter the cheese mix over the surface of the pot; do not stir immediately - let it begin melting from above.
+1. Scatter the cheese mix over the surface of the pot; do not stir immediately, let it begin melting from above.
 1. After 2 minutes, stir gently to fold the melting cheese into the broth.
 1. Continue on low heat 4-5 minutes more, stirring occasionally, until the cheese has fully melted and clings to the potatoes in a thick sauce. If the sauce tightens too much, splash in a tablespoon or two of milk.
 
@@ -63,7 +63,7 @@ The gentler, more domestic cousin of ema datshi: a Bhutanese family supper of po
 1. Turn off the heat and let it sit covered for 3 minutes; the sauce settles and thickens.
 
 ### Stage 5 - Serve
-1. Spoon over red rice in deep bowls. The dish is intentionally saucy - the rice soaks up the chilli-cheese broth.
+1. Spoon over red rice in deep bowls. The dish is intentionally saucy, the rice soaks up the chilli-cheese broth.
 
 ## Notes
 - **Yak cheese is unavailable abroad:** churpi made from yak milk is the authentic cheese and is fresh, salty, slightly funky and melts into ropy strands. The Edam-and-processed-cheese mix is the standard expat substitute: Edam gives the meltability and mildness, the processed slices give the salty plastic-y elasticity that approximates churpi. A small amount of feta or blue cheese adds the funky note. Stilton or Gorgonzola can replace the feta if you want a more pronounced flavour.
@@ -73,13 +73,13 @@ The gentler, more domestic cousin of ema datshi: a Bhutanese family supper of po
 - **Salt last:** processed cheese and feta are both salty. Always taste before adding more salt.
 
 ## Variations
-**Shamu Datshi:** the mushroom version - same method, with 400 g sliced mushrooms (button, chestnut or oyster) replacing the potatoes. Cooks faster, around 12 minutes total.
-**Kewa Phagsha Datshi:** a hybrid with sliced pork added to the pot at the start - heartier, richer, less of a side dish and more a one-pot meal.
+**Shamu Datshi:** the mushroom version, same method, with 400 g sliced mushrooms (button, chestnut or oyster) replacing the potatoes. Cooks faster, around 12 minutes total.
+**Kewa Phagsha Datshi:** a hybrid with sliced pork added to the pot at the start, heartier, richer, less of a side dish and more a one-pot meal.
 **Sosem datshi:** sliced asparagus replacing the potatoes in season.
 
 ## Serving
 Serve with: Bhutanese red rice or plain rice as the staple, ema datshi (if you can handle two chilli-cheese dishes), a simple green vegetable stir-fry, and a small dish of ezay for those who want more heat. Salt butter tea (suja) traditionally accompanies the meal.
 
 ## Storage
-- Keeps 2 days refrigerated but the texture is best on day one - the potatoes absorb the sauce and the dish loses its loose, cheesy character. Reheat very gently with a splash of milk to loosen.
-- Do not freeze - both the cheese and the potatoes go grainy on thawing.
+- Keeps 2 days refrigerated but the texture is best on day one, the potatoes absorb the sauce and the dish loses its loose, cheesy character. Reheat very gently with a splash of milk to loosen.
+- Do not freeze, both the cheese and the potatoes go grainy on thawing.

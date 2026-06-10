@@ -44,7 +44,7 @@ Hawawshi is the Egyptian street-corner snack you can smell three blocks away, sp
 ## Method
 
 ### Stage 1 - Mix the filling
-1. Combine all the filling ingredients in a wide bowl. Mix with your hands until thoroughly combined - should be evenly seasoned and slightly sticky.
+1. Combine all the filling ingredients in a wide bowl. Mix with your hands until thoroughly combined, should be evenly seasoned and slightly sticky.
 
 ### Stage 2 - Stuff
 1. Heat the oven to 220°C (200°C fan).

@@ -32,7 +32,7 @@ Bourek tunisien is Tunisia's Ramadan cigar, the iftar staple sold from every sou
 - 1 tablespoon plain flour (mixed with 1 tablespoon water for sealing)
 
 ### Egg insert
-- 8 medium eggs (small or large, whole, raw - one per bourek)
+- 8 medium eggs (small or large, whole, raw, one per bourek)
 
 ### Frying
 - 800 ml neutral oil
@@ -56,7 +56,7 @@ Bourek tunisien is Tunisia's Ramadan cigar, the iftar staple sold from every sou
 1. Spoon a generous tablespoon of filling in a 10 cm line in the centre of the lower triangle.
 1. With the back of a spoon, press a small well into the middle of the filling line.
 1. Crack a raw egg into a small bowl; carefully tip into the well in the filling (yolk + white).
-1. **WORK FAST FROM HERE** - the egg will start spreading.
+1. **WORK FAST FROM HERE**: the egg will start spreading.
 1. Fold the left and right corners inward to meet over the filling.
 1. Fold the bottom corner up over the filling.
 1. Roll up tightly toward the top corner, keeping the egg contained inside.
@@ -72,14 +72,14 @@ Bourek tunisien is Tunisia's Ramadan cigar, the iftar staple sold from every sou
 1. Continue for the remaining bourek, frying in batches of 2-3.
 
 ### Stage 5 - Serve
-1. Eat IMMEDIATELY while hot - when you bite into a bourek, the egg yolk should be just-set, slightly runny.
+1. Eat IMMEDIATELY while hot, when you bite into a bourek, the egg yolk should be just-set, slightly runny.
 1. Serve with lemon wedges, extra harissa and a small bowl of slata mechouia.
 
 ## Notes
 - **WORK FAST after cracking the egg:** the egg starts spreading the moment it's in the filling. Have the pastry corners pre-folded position-ready in your head; the egg goes in last and the rolling happens within 20 seconds.
 - **Don't try to be neat with the egg:** a little leakage at the seam is expected. The frying seals it.
 - **Warka is the authentic pastry:** it's a Tunisian / Moroccan thin pancake-like dough, slightly thicker than filo. Filo works (use 2 stacked sheets for strength). Spring roll wrappers are a fine cross-cultural substitute.
-- **Egg should be slightly runny inside:** the timing of the fry - 3 minutes per side - is calibrated for a just-set yolk. The first time, cut one open to check; adjust your frying time for the rest.
+- **Egg should be slightly runny inside:** the timing of the fry - 3 minutes per side, is calibrated for a just-set yolk. The first time, cut one open to check; adjust your frying time for the rest.
 
 ## Storage
 - Eat IMMEDIATELY. The crisp shell + runny egg combination doesn't keep.

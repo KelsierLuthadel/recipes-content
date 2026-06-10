@@ -31,12 +31,12 @@ Lebanon's iconic salad and the test of any Levantine cook: very finely chopped p
 
 ### Stage 1 - Soak the bulgur
 1. Place the bulgur in a small bowl; pour over half the lemon juice.
-1. Rest 20 minutes - the bulgur will plump and soften.
+1. Rest 20 minutes, the bulgur will plump and soften.
 
 ### Stage 2 - Prepare the parsley
 1. Pick the leaves from the stems (a tedious but essential step).
-1. Wash thoroughly; dry very well in a salad spinner or between tea towels - wet parsley turns the salad mushy.
-1. Pile on a board and chop very finely with a sharp knife. Don't blitz in a food processor - the texture matters.
+1. Wash thoroughly; dry very well in a salad spinner or between tea towels, wet parsley turns the salad mushy.
+1. Pile on a board and chop very finely with a sharp knife. Don't blitz in a food processor, the texture matters.
 
 ### Stage 3 - Tomato
 1. Cut the tomatoes in half; squeeze out the seeds and watery cores.

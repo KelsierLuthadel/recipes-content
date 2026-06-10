@@ -1,6 +1,6 @@
 # Pickling
 
-![Jars of pickled vegetables - red cabbage, cucumber, carrot](resources/pickling.jpg)
+![Jars of pickled vegetables, red cabbage, cucumber, carrot](resources/pickling.jpg)
 
 *The cold preservation method that adds a sharp acidic element to every meal. Quick refrigerator pickles for everyday use; traditional fermented pickles for the long game; the Korean and Japanese pickle traditions that are an entire course of their own. One jar in the fridge transforms what you eat.*
 
@@ -11,7 +11,7 @@ This lesson covers three pickle traditions:
 
 - **Quick refrigerator pickles** (vinegar brine, no fermentation, kept cold). Western tradition; useful for everyday cooking.
 - **Lacto-fermented pickles** (salt brine, room-temperature fermentation, then cold storage). Traditional in many cuisines; produces complex tangy flavours from bacterial fermentation.
-- **Asian-style pickles** (kimchi as the Korean centrepiece; nukazuke and tsukemono as the Japanese tradition). A different vocabulary - more complex, more central to the cuisine.
+- **Asian-style pickles** (kimchi as the Korean centrepiece; nukazuke and tsukemono as the Japanese tradition). A different vocabulary, more complex, more central to the cuisine.
 
 ## Quick Refrigerator Pickles
 
@@ -73,7 +73,7 @@ Pack carrot ribbons. Pour brine. Refrigerate 24 hours; eat over 2-3 weeks.
 - 1 tsp salt
 - 1 tsp black peppercorns
 
-Pour over sliced onion in a jar. Press down to submerge. Refrigerate 30 minutes - ready to use as a garnish for tacos, salads, sandwiches.
+Pour over sliced onion in a jar. Press down to submerge. Refrigerate 30 minutes, ready to use as a garnish for tacos, salads, sandwiches.
 
 **Bread-and-butter pickles (American sweet).**
 - 6 small cucumbers (or 2 large), sliced
@@ -102,10 +102,10 @@ For 1 kg of vegetables:
 - Enough water to submerge
 
 Method:
-1. Pack vegetables tightly into a clean jar - tight enough that they support each other.
+1. Pack vegetables tightly into a clean jar, tight enough that they support each other.
 2. Make the brine: dissolve 22 g salt per litre of water. Pour over the vegetables until fully covered.
 3. Weight the vegetables down so they stay submerged. A small clean plate, a glass weight, or a freezer bag filled with brine pressed on top all work. The vegetables MUST stay under the brine; anything above develops mould.
-4. Cover loosely (to allow CO2 to escape) - a cloth secured with a rubber band, or a fermentation airlock lid.
+4. Cover loosely (to allow CO2 to escape): a cloth secured with a rubber band, or a fermentation airlock lid.
 5. Leave at room temperature (18-22 C) for 5-14 days. Day 2-3 the brine turns cloudy and tiny bubbles appear. Day 5-7 the brine tastes sour. By day 10-14 the ferment is fully developed.
 6. Taste daily after day 5. When you like the flavour, transfer to the fridge. Cold storage slows fermentation; keeps the pickle 3-6 months.
 
@@ -119,7 +119,7 @@ Method:
 
 Method: massage salt into the cabbage in a large bowl for 5-10 minutes. The cabbage releases water and softens. Pack into a jar with the spices; pour the released water over to cover. Press to submerge. Cover loosely. Ferment 7-14 days. Refrigerate.
 
-Sauerkraut is the simplest fermented vegetable - cabbage makes its own brine.
+Sauerkraut is the simplest fermented vegetable, cabbage makes its own brine.
 
 **Cortido (Salvadoran fermented slaw).** Same as sauerkraut but with shredded carrot, sliced onion, oregano and chilli. Bright, sharp, eaten with pupusas.
 
@@ -133,7 +133,7 @@ The major Asian pickling traditions are vast; this section is a pointer.
 
 **Korean kimchi.** Salt-fermented vegetable preparations, often heavily spiced with gochugaru, garlic, ginger, fish sauce. Napa cabbage kimchi is the famous one; daikon (kkakdugi), cucumber (oi sobagi), and cubed water kimchi (nabak kimchi) are all standard. Eaten with every meal; turned into stews and pancakes as it ages.
 
-**Japanese tsukemono.** A spectrum of pickling: shio-zuke (salt pickles), nuka-zuke (rice-bran-paste pickles), su-zuke (vinegar pickles), miso-zuke (miso-paste pickles), shoyu-zuke (soy-sauce pickles). The flavour profile is more subtle than Korean - less garlic, less heat, more umami from soy and miso.
+**Japanese tsukemono.** A spectrum of pickling: shio-zuke (salt pickles), nuka-zuke (rice-bran-paste pickles), su-zuke (vinegar pickles), miso-zuke (miso-paste pickles), shoyu-zuke (soy-sauce pickles). The flavour profile is more subtle than Korean, less garlic, less heat, more umami from soy and miso.
 
 **Chinese pickled vegetables.** Suan cai (sour cabbage), pao cai (Sichuan-style brined vegetables), preserved vegetables of every kind. The Sichuan paocai tradition uses a clay pot with a water-seal lid for indefinite-duration fermentation.
 
@@ -147,9 +147,9 @@ These each warrant their own dedicated treatment; the [Spices](../spices/spices.
 
 **Lacto-fermentation safety.** The acidic environment created by lactobacillus fermentation kills most pathogens. The risk: at the start, before the brine has acidified, pathogens could grow if the salt level is too low. The 2-2.5% brine is the safety threshold; below it, fermentation can fail. Stick to the salt percentage and you are safe.
 
-**Mould vs film.** During fermentation, a white film (kahm yeast) sometimes forms on the brine surface. Harmless; skim off. Black, blue, green mould is bad - the batch should be discarded.
+**Mould vs film.** During fermentation, a white film (kahm yeast) sometimes forms on the brine surface. Harmless; skim off. Black, blue, green mould is bad, the batch should be discarded.
 
-**Vinegar pickle safety.** Quick pickles in vinegar are safe because vinegar's pH (around 2.4-3.4) kills most pathogens. But they are not shelf-stable like canned pickles - refrigerate.
+**Vinegar pickle safety.** Quick pickles in vinegar are safe because vinegar's pH (around 2.4-3.4) kills most pathogens. But they are not shelf-stable like canned pickles, refrigerate.
 
 **Canning for long storage.** Both vinegar and lacto pickles can be canned (water-bath processed) for shelf-stable storage. The canning process is its own technique not covered here; refer to a canning-specific guide if you want pickles that keep at room temperature for years.
 

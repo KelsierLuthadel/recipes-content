@@ -76,7 +76,7 @@ Thenthuk is Tibet's pulled-noodle soup, the warming winter bowl where rough flat
 ### Stage 5 - Pull the noodles
 1. Bring the broth back to a brisk simmer.
 2. Hold one strip of dough over the pot. Use your fingers to pinch off 3-4 cm pieces, flattening each between thumb and finger as you go, and let them drop straight into the broth.
-3. Work through all the strips. Try not to throw them in a pile - spread them out as they go.
+3. Work through all the strips. Try not to throw them in a pile, spread them out as they go.
 4. Once all the dough is in, stir gently; cook 2-3 minutes until the noodles float and look glossy.
 
 ### Stage 6 - Finish and serve
@@ -95,7 +95,7 @@ Thenthuk is Tibet's pulled-noodle soup, the warming winter bowl where rough flat
 
 ## Variations
 **Vegetarian thenthuk:** Skip the beef; use vegetable stock, add 150 g cubed firm tofu or 200 g mushrooms with the onion, and a teaspoon of butter at the end for body.
-**Sour thenthuk:** Add a splash of vinegar and a spoon of chilli oil to each bowl at the table - a popular Lhasa restaurant style.
+**Sour thenthuk:** Add a splash of vinegar and a spoon of chilli oil to each bowl at the table, a popular Lhasa restaurant style.
 
 ## Serving
 Serve with: sepen (Tibetan chilli sauce) or fresh chilli, lemon wedges, and Tibetan butter tea on the side.

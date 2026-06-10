@@ -11,7 +11,7 @@
 **Cook Time:** 3 hours
 
 ## Overview
-Schweinshaxe (literally "pig knuckle") is Bavaria's most iconic beer-garden dish - the centrepiece of every Bavarian Biergarten lunch from Munich's Hofbräuhaus to the smallest Alpine village inn. The cut is the lower hind leg of a pig: a piece of meat with skin on, bones in, plenty of connective tissue, and a thick layer of subcutaneous fat. Cooked properly, the meat falls off the bone in deeply savoury chunks, the fat melts into a confit-like richness, and the skin transforms into glass-like crackling that shatters under the knife. The Bavarian technique: brine the knuckle overnight in salt-water with juniper, bay and peppercorns; score the skin; slow-roast for 2 hours at moderate heat over a bed of vegetables, then crank the heat for the final 30 minutes to crackle the skin (or - the traditional Bavarian shortcut - roast at moderate heat throughout, then finish under a grill or torch for the crackling). Served with traditional accompaniments: sauerkraut (traditional), bread dumplings (semmelknödel) or potato dumplings (kartoffelknödel), and a generous stein of Bavarian lager.
+Schweinshaxe (literally "pig knuckle") is Bavaria's most iconic beer-garden dish, the centrepiece of every Bavarian Biergarten lunch from Munich's Hofbräuhaus to the smallest Alpine village inn. The cut is the lower hind leg of a pig: a piece of meat with skin on, bones in, plenty of connective tissue, and a thick layer of subcutaneous fat. Cooked properly, the meat falls off the bone in deeply savoury chunks, the fat melts into a confit-like richness, and the skin transforms into glass-like crackling that shatters under the knife. The Bavarian technique: brine the knuckle overnight in salt-water with juniper, bay and peppercorns; score the skin; slow-roast for 2 hours at moderate heat over a bed of vegetables, then crank the heat for the final 30 minutes to crackle the skin (or, the traditional Bavarian shortcut, roast at moderate heat throughout, then finish under a grill or torch for the crackling). Served with traditional accompaniments: sauerkraut (traditional), bread dumplings (semmelknödel) or potato dumplings (kartoffelknödel), and a generous stein of Bavarian lager.
 
 ## Ingredients
 
@@ -106,16 +106,16 @@ Schweinshaxe (literally "pig knuckle") is Bavaria's most iconic beer-garden dish
 - **Brine overnight:** non-negotiable. Without brine, the long roast dries the meat.
 - **Score deeply:** the scoring is what creates the crackling. Don't be shy.
 - **High heat at the end:** the crackling needs intense heat in the last 30 minutes. Don't skip.
-- **Eat the crackling first:** Bavarian etiquette - start with the crackling while it's at peak crisp.
+- **Eat the crackling first:** Bavarian etiquette, start with the crackling while it's at peak crisp.
 - **Use Bavarian lager:** the traditional pairing. Helles (pale lager) is most popular; Dunkel (dark lager) is excellent.
 
 ## Variations
-**With apple-mustard sauce:** swap the gravy for a sauce of cooked apples, mustard, and a splash of cider - autumn Bavarian variant.
-**With horseradish cream:** serve with a horseradish-and-cream sauce alongside - modern restaurant touch.
+**With apple-mustard sauce:** swap the gravy for a sauce of cooked apples, mustard, and a splash of cider, autumn Bavarian variant.
+**With horseradish cream:** serve with a horseradish-and-cream sauce alongside, modern restaurant touch.
 **Smoked schweinshaxe (Eisbein, Berlin variant):** the Berlin version is smoked rather than roasted, and served simmered instead of roasted; different dish entirely.
-**With dumpling-on-bread (Knödel im Brot):** swap the knödel for slices of stale bread sautéed in butter - Bavarian rustic variant.
-**Schweinshaxe Kassler:** uses cured (kassler) pork rather than fresh - easier to cook, less crackling.
-**Schweinshaxe with cabbage instead of sauerkraut:** lightly braised cabbage rather than fermented kraut - easier, less assertive.
+**With dumpling-on-bread (Knödel im Brot):** swap the knödel for slices of stale bread sautéed in butter, Bavarian rustic variant.
+**Schweinshaxe Kassler:** uses cured (kassler) pork rather than fresh, easier to cook, less crackling.
+**Schweinshaxe with cabbage instead of sauerkraut:** lightly braised cabbage rather than fermented kraut, easier, less assertive.
 
 ## Serving
 At a Munich beer garden (the traditional setting) · at the Hofbräuhaus in Munich · at Oktoberfest · at a Bavarian Sunday family lunch · at a Bavarian-themed restaurant abroad · at home with a stein of lager and a Wagner opera in the background.

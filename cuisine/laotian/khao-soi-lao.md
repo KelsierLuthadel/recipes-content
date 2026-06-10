@@ -85,7 +85,7 @@ Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the 
 ### Stage 5 - Serve with the garnish plate
 1. Place the herb-and-vegetable garnish plate at the centre of the table.
 2. Each diner adds bean sprouts, mint, cilantro, basil, sliced shallot, sliced chilli, pickled mustard greens and a squeeze of lime to their own bowl according to taste.
-3. Eat with chopsticks and a spoon - chopsticks for the noodles, spoon for the broth.
+3. Eat with chopsticks and a spoon, chopsticks for the noodles, spoon for the broth.
 
 ## Notes
 - **Lao khao soi vs Thai khao soi:** completely different dishes. The Lao version has a clear broth and a meat-tomato-soybean topping; the Thai has a yellow coconut curry and crispy noodles on top. Don't confuse.

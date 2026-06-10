@@ -31,7 +31,7 @@ Mexico's avocado dip in its purest form: ripe avocados mashed with lime, salt, f
 1. Halve the avocados; remove the stones; scoop the flesh into a bowl.
 
 ### Stage 2 - Mash
-1. Mash with a fork to your preferred texture; chunky is traditional, smooth is fine. Don't blitz - it goes brown faster.
+1. Mash with a fork to your preferred texture; chunky is traditional, smooth is fine. Don't blitz, it goes brown faster.
 
 ### Stage 3 - Mix
 1. Add the onion, chilli, coriander, lime juice and salt.

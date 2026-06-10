@@ -27,7 +27,7 @@ Colcannon is the Irish potato-and-cabbage mash, traditionally eaten at Halloween
 ## Method
 
 ### Stage 1 - Potatoes
-1. Boil the potatoes in salted water 15-18 minutes until completely tender - a knife should slide through with no resistance.
+1. Boil the potatoes in salted water 15-18 minutes until completely tender, a knife should slide through with no resistance.
 1. Drain and return to the dry pan; cover with a clean tea towel for 5 minutes (draws steam off).
 
 ### Stage 2 - Greens

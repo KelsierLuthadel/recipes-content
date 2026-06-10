@@ -19,10 +19,10 @@ Hummus is the great Levantine chickpea-tahini dip, smoothed silky-pale-gold, swi
 - 1 teaspoon baking soda (for the cook)
 - 4 garlic cloves
 - 1 ½ lemons (more to taste, juice)
-- 200 g good tahini (Lebanese, Palestinian or Israeli brand - light and pourable)
+- 200 g good tahini (Lebanese, Palestinian or Israeli brand, light and pourable)
 - 1 ½ teaspoons salt (to taste)
 - 60-100 ml ice water (added during blending)
-- 4 ice cubes (one of the Israeli tricks - silkier emulsion)
+- 4 ice cubes (one of the Israeli tricks, silkier emulsion)
 
 ### To finish
 - 2 tablespoons olive oil (extra-virgin)
@@ -37,7 +37,7 @@ Hummus is the great Levantine chickpea-tahini dip, smoothed silky-pale-gold, swi
 ### Stage 1 - Cook chickpeas
 1. Drain soaked chickpeas; rinse; place in a wide pot.
 1. Cover with cold water by 5 cm; add 1 teaspoon baking soda.
-1. Bring to a boil; skim the heavy scum and the loose skins that rise (skim aggressively - the skins make the hummus grainy).
+1. Bring to a boil; skim the heavy scum and the loose skins that rise (skim aggressively, the skins make the hummus grainy).
 1. Reduce to a simmer; cover partially; cook 60-75 minutes until chickpeas crush easily between thumb and finger.
 
 ### Stage 2 - Drain and reserve
@@ -52,7 +52,7 @@ Hummus is the great Levantine chickpea-tahini dip, smoothed silky-pale-gold, swi
 1. The hummus should be silky-smooth, pale gold, ribbons from the spatula.
 
 ### Stage 4 - Taste
-1. Adjust salt, lemon, tahini. Hummus should taste sharper than seems right cold - flavours mellow once cooled.
+1. Adjust salt, lemon, tahini. Hummus should taste sharper than seems right cold, flavours mellow once cooled.
 
 ### Stage 5 - Plate
 1. Spread on a wide shallow plate. Use the back of a spoon to create a swirl-well in the centre.
@@ -66,7 +66,7 @@ Hummus is the great Levantine chickpea-tahini dip, smoothed silky-pale-gold, swi
 
 ## Notes
 - **Baking soda is the trick:** During soak and cook. Softens the chickpea skins; loose skins float off in the boil; gives silky-smooth hummus.
-- **Long blend:** 5+ minutes total in the processor. Most people stop too soon - that's where graininess comes from.
+- **Long blend:** 5+ minutes total in the processor. Most people stop too soon, that's where graininess comes from.
 - **Hot chickpeas:** Blending hot gives a silkier result than cooled. The ice water + ice cubes during blending then re-emulsifies.
 
 ## Storage

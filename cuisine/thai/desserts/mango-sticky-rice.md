@@ -22,7 +22,7 @@ Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet 
 ### Sweet coconut sauce (for soaking the rice)
 - 400 ml coconut milk
 - 100 g palm sugar (chopped fine; or 80 g caster sugar)
-- ¾ teaspoon salt (not optional - the salt-sweet balance is the dish)
+- ¾ teaspoon salt (not optional, the salt-sweet balance is the dish)
 - 1 pandan leaf, tied in a knot (optional but traditional; sold frozen at Thai shops)
 
 ### Plain coconut cream (for drizzling at the end)
@@ -31,9 +31,9 @@ Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet 
 - 2 teaspoons rice flour (helps it thicken slightly without sugar)
 
 ### To finish
-- 2 ripe mangoes (large, Nam Dok Mai or any sweet ripe variety - Ataulfo / honey mangoes work well; about 600 g total)
+- 2 ripe mangoes (large, Nam Dok Mai or any sweet ripe variety, Ataulfo / honey mangoes work well; about 600 g total)
 - 2 tablespoons toasted sesame seeds (white, black, or a mix)
-- 2 tablespoons toasted mung beans (optional but traditional - crispy / nutty)
+- 2 tablespoons toasted mung beans (optional but traditional, crispy / nutty)
 
 ## Method
 
@@ -57,7 +57,7 @@ Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet 
 
 ### Stage 4 - Sweet coconut sauce
 1. In a saucepan, combine coconut milk, palm sugar, salt and pandan leaf.
-1. Heat over medium-low, stirring, until the sugar dissolves - about 4-5 minutes.
+1. Heat over medium-low, stirring, until the sugar dissolves, about 4-5 minutes.
 1. Don't boil hard; gentle warmth is enough. The sauce should be slightly thinner than double cream.
 1. Discard the pandan leaf.
 
@@ -65,7 +65,7 @@ Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet 
 1. Transfer the freshly steamed rice to a wide bowl.
 1. Pour about three-quarters of the warm sweet sauce over the rice.
 1. Stir gently with a wooden spoon to coat every grain.
-1. Cover the bowl; let rest 15 minutes - the rice absorbs the sauce and becomes glossy and pliable.
+1. Cover the bowl; let rest 15 minutes, the rice absorbs the sauce and becomes glossy and pliable.
 
 ### Stage 6 - Plain coconut cream
 1. While the rice rests, whisk the 100 ml coconut cream with ¼ teaspoon salt and 2 teaspoons rice flour in a small saucepan.
@@ -80,15 +80,15 @@ Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet 
 ### Stage 8 - Plate
 1. Spoon a mound of coconut-soaked rice in the centre of each plate (about ½ cup per serving).
 1. Fan mango slices alongside.
-1. Drizzle the rice with the plain coconut cream - about 2 tablespoons per plate.
-1. Drizzle the remaining sweet sauce over (it'll pool slightly around the rice - that's fine).
+1. Drizzle the rice with the plain coconut cream, about 2 tablespoons per plate.
+1. Drizzle the remaining sweet sauce over (it'll pool slightly around the rice, that's fine).
 1. Scatter toasted sesame seeds and toasted mung beans.
 
 ### Stage 9 - Serve
 1. Eat while the rice is still slightly warm and the mango is cool. The temperature contrast is part of the dish.
 
 ## Notes
-- **Salt is the secret:** Coconut without salt tastes flat. The salt in both the sweet sauce and the topping cream is what makes mango sticky rice memorable - don't be shy with it.
+- **Salt is the secret:** Coconut without salt tastes flat. The salt in both the sweet sauce and the topping cream is what makes mango sticky rice memorable, don't be shy with it.
 - **Two layers of coconut:** The first (sweetened) goes into the rice; the second (salted, unsweetened) drizzles on top. Two layers, two flavours. Skipping the second leaves the dish too sweet.
 - **Mango ripeness:** A ripe mango should yield slightly to gentle pressure, smell fragrant at the stem end. Underripe mango is fibrous and sour; overripe is mushy. If your mangoes aren't ready, leave them at room temperature 1-2 days.
 

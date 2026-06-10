@@ -46,8 +46,8 @@ Sabich is the Iraqi-Jewish breakfast pita, fried aubergine, hard-boiled egg and 
 - 4 pitas (large, warmed)
 
 ### Amba (mango pickle sauce)
-- 4 tablespoons jarred amba (Iraqi mango pickle sauce - sold at Middle Eastern grocers)
-- (substitute: mix 2 tablespoons mango chutney with ½ teaspoon turmeric, a pinch of fenugreek, and 1 teaspoon lemon juice - close approximation)
+- 4 tablespoons jarred amba (Iraqi mango pickle sauce, sold at Middle Eastern grocers)
+- (substitute: mix 2 tablespoons mango chutney with ½ teaspoon turmeric, a pinch of fenugreek, and 1 teaspoon lemon juice, close approximation)
 
 ### To garnish
 - Extra parsley
@@ -96,5 +96,5 @@ Sabich is the Iraqi-Jewish breakfast pita, fried aubergine, hard-boiled egg and 
 
 ## Storage
 - Components keep separately: aubergine 1 day refrigerated; salad 4 hours; tahini sauce 1 week.
-- Don't pre-assemble - the pita disintegrates.
+- Don't pre-assemble, the pita disintegrates.
 - Reheat aubergine briefly in a dry pan; the rest goes in cold.

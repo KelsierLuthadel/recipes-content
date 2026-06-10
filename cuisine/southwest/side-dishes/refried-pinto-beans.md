@@ -39,7 +39,7 @@ The traditional Southwest-Tex-Mex bean side and one of the foundational dishes o
 
 ### Stage 2 - Add beans
 1. Add the cooked pinto beans.
-2. Mash with a potato masher (or wooden spoon) - leave some beans whole for texture.
+2. Mash with a potato masher (or wooden spoon): leave some beans whole for texture.
 
 ### Stage 3 - Fry
 1. Cook 10-15 minutes, stirring frequently, till the beans thicken and the bottom starts to caramelise.

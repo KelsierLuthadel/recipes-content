@@ -16,7 +16,7 @@ Paya is Lahore's Sunday breakfast, the slow-cooked trotter stew eaten at dawn fr
 ## Ingredients
 
 ### Paya (trotters)
-- 8 lamb trotters (or 6 goat trotters, about 1 ½ kg total - your butcher will clean and chop them; ask for "paya cut")
+- 8 lamb trotters (or 6 goat trotters, about 1 ½ kg total, your butcher will clean and chop them; ask for "paya cut")
 - 1 tablespoon salt (for blanching)
 
 ### Masala
@@ -31,7 +31,7 @@ Paya is Lahore's Sunday breakfast, the slow-cooked trotter stew eaten at dawn fr
 - 1 ½ teaspoons [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
 - 2 bay leaves
 - 4 green cardamom pods
-- 2 black cardamom pods (the smoky kind - important for paya)
+- 2 black cardamom pods (the smoky kind, important for paya)
 - 4 cloves
 - 1 cinnamon stick
 - 1 teaspoon black peppercorns
@@ -89,18 +89,18 @@ Paya is Lahore's Sunday breakfast, the slow-cooked trotter stew eaten at dawn fr
 
 ### Stage 7 - Combine
 1. Stir the tarka into the paya pot.
-1. Taste; adjust salt - paya needs generous salt.
+1. Taste; adjust salt, paya needs generous salt.
 
 ### Stage 8 - Serve
-1. Ladle paya into deep bowls - make sure each gets some meat, broth and bone.
+1. Ladle paya into deep bowls, make sure each gets some meat, broth and bone.
 1. At the table, garnish with ginger matchsticks, green chilli, coriander, garam masala and a lemon wedge to squeeze.
-1. Eat with fresh naan - tear, dip, suck the marrow from any leftover bones.
+1. Eat with fresh naan, tear, dip, suck the marrow from any leftover bones.
 
 ## Notes
 - **Slow simmer is the dish:** Paya cannot be rushed. 6 hours on the lowest heat is what extracts the gelatin and makes the meat tender. A pressure cooker shortcuts to 2 hours but the texture is slightly less silky.
-- **Black cardamom matters:** The smoky black cardamom pods are key to paya's traditional flavour. Don't substitute extra green cardamom - the smokiness is missed.
+- **Black cardamom matters:** The smoky black cardamom pods are key to paya's traditional flavour. Don't substitute extra green cardamom, the smokiness is missed.
 - **Garnish generously:** A bowl of paya without lemon, fresh ginger, chilli and coriander on top is ½ bowl. The fresh notes cut the richness.
 
 ## Storage
-- Refrigerate 5 days - paya sets to a savoury jelly in the fridge as the gelatin firms; reheats gently back to liquid.
+- Refrigerate 5 days, paya sets to a savoury jelly in the fridge as the gelatin firms; reheats gently back to liquid.
 - Freezes 3 months.

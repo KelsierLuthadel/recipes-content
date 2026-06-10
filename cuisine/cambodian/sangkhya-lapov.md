@@ -26,7 +26,7 @@ The Khmer New Year dessert, a pumpkin custard steamed inside a whole pumpkin and
 ## Method
 
 ### Stage 1 - Prep the pumpkin
-1. Cut off the top of the pumpkin in a wide circle (around 12 cm across) - this is your lid; save it.
+1. Cut off the top of the pumpkin in a wide circle (around 12 cm across): this is your lid; save it.
 1. Scoop out the seeds and stringy flesh.
 1. Wipe the cavity dry with kitchen paper.
 
@@ -34,16 +34,16 @@ The Khmer New Year dessert, a pumpkin custard steamed inside a whole pumpkin and
 1. Warm the coconut milk and palm sugar gently in a small pan with the salt and pandan leaves until the sugar dissolves; cool to lukewarm; remove the pandan.
 1. Whisk the eggs in a bowl until smooth (don't froth).
 1. Strain in the warm coconut milk; whisk gently to combine; add the vanilla if using.
-1. Pour the mixture into the pumpkin - fill to about 1 cm below the rim.
+1. Pour the mixture into the pumpkin, fill to about 1 cm below the rim.
 
 ### Stage 3 - Steam
 1. Set the pumpkin (lid on) on a heatproof plate inside a large steamer (or a deep roasting pan with a wire rack, lid sealed with foil) over boiling water.
-1. Steam 60-75 minutes - top up the water as it boils away. The custard is set when a knife inserted comes out clean.
+1. Steam 60-75 minutes, top up the water as it boils away. The custard is set when a knife inserted comes out clean.
 1. The pumpkin flesh underneath should yield easily to a knife (similar to roast pumpkin).
 
 ### Stage 4 - Cool and slice
 1. Lift the pumpkin out carefully; cool 30 minutes.
-1. Refrigerate at least 2 hours before slicing - gives clean, layered wedges.
+1. Refrigerate at least 2 hours before slicing, gives clean, layered wedges.
 1. Cut from the top: each wedge has a layer of pumpkin and a layer of custard.
 
 ## Notes

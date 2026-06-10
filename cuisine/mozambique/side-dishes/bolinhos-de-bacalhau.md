@@ -29,22 +29,22 @@ The great Lusophone snack and the small fritter that turns up at every Mozambica
 
 ### Stage 1 - Desalt the cod
 1. Rinse the salt cod under cold water; place in a bowl; cover with cold water.
-1. Refrigerate 24 hours, changing the water 3-4 times. Taste a small piece on the second day - it should be salted but not overpowering.
+1. Refrigerate 24 hours, changing the water 3-4 times. Taste a small piece on the second day, it should be salted but not overpowering.
 1. Drain.
 
 ### Stage 2 - Poach and flake
 1. Place the cod in a pan; cover with fresh cold water; bring to just under a simmer.
-1. Cook 8 minutes - the cod should flake easily.
+1. Cook 8 minutes, the cod should flake easily.
 1. Drain; cool slightly; remove skin and any bones; flake into small pieces.
 
 ### Stage 3 - Potato
 1. While the cod cooks, boil the potatoes in salted water until tender (12-15 minutes).
 1. Drain; return to the dry pot; dry off over low heat 1 minute.
-1. Mash smooth - no lumps.
+1. Mash smooth, no lumps.
 
 ### Stage 4 - Mix
 1. Combine the warm mash, flaked cod, onion, garlic, parsley, beaten eggs and pepper.
-1. Mix to a uniform, thick paste. Don't overwork - the fritters should be light.
+1. Mix to a uniform, thick paste. Don't overwork, the fritters should be light.
 1. Taste; add a pinch of salt only if needed.
 
 ### Stage 5 - Shape and fry
@@ -59,7 +59,7 @@ The great Lusophone snack and the small fritter that turns up at every Mozambica
 ## Notes
 - **Soak fully:** 24 hours with water changes is the minimum. Skipping this gives inedibly salty fritters.
 - **Mash must be dry:** Wet mash makes wet bolinhos that won't shape. Dry the potato in the pot before mashing.
-- **Two-spoon shape:** A classic quenelle - oval, three-sided. A small ice cream scoop works for cleaner balls but isn't traditional.
+- **Two-spoon shape:** A classic quenelle, oval, three-sided. A small ice cream scoop works for cleaner balls but isn't traditional.
 
 ## Storage
 - Best eaten same day. Re-crisp leftover bolinhos at 200°C for 5 minutes (microwave makes them sad).

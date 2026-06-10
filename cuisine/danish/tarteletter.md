@@ -92,7 +92,7 @@ Tarteletter are one of Denmark's most distinctively Danish "fancy lunch" dishes:
 ## Notes
 - **Shop-bought shells are traditional:** even at Danish home dinners, most cooks use the freezer-aisle tartlet shells. Homemade is the special-occasion luxury.
 - **White wine in the sauce:** the Danish chef's touch; not optional for the proper flavour.
-- **Asparagus - canned vs fresh:** canned white asparagus is the traditional 1950s-1970s Danish version. Fresh is more modern.
+- **Asparagus, canned vs fresh:** canned white asparagus is the traditional 1950s-1970s Danish version. Fresh is more modern.
 - **Serve immediately:** the shells go soggy within 5 minutes of filling.
 - **Don't overfill:** the filling should mound just above the shell, not spill over.
 
@@ -109,4 +109,4 @@ At a Danish confirmation luncheon · at a wedding buffet · at a Sunday lunch ·
 ## Storage
 - Filling refrigerates 3 days; reheat gently with a splash of milk to loosen.
 - Empty tartlet shells keep in a sealed tin for a week (or freeze 1 month).
-- Don't store assembled - the shells turn soggy within an hour.
+- Don't store assembled, the shells turn soggy within an hour.

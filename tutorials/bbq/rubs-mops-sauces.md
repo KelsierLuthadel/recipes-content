@@ -10,7 +10,7 @@ BBQ flavour is built in layers: a dry rub before cooking; an optional mop during
 - **Texas:** Heavy salt-and-pepper rub. Often no mop. No or minimal sauce at the table (the meat should stand alone).
 - **Memphis:** Sweet-and-spicy rub heavy with paprika. Mop with vinegar-and-mop-sauce. Sauce on the side.
 - **Kansas City:** Sweet rub with cumin and onion. Mop with mop sauce. Sweet thick tomato sauce on top.
-- **Carolina (East):** Light rub. Vinegar-pepper mop. Vinegar-and-pepper finishing sauce - thin, sharp, no tomato.
+- **Carolina (East):** Light rub. Vinegar-pepper mop. Vinegar-and-pepper finishing sauce, thin, sharp, no tomato.
 - **Carolina (West) / Lexington:** Tomato-vinegar mop and sauce.
 - **Carolina (South):** Mustard-based sauce.
 - **Alabama (white BBQ):** Mayonnaise-based sauce, especially with chicken.
@@ -106,7 +106,7 @@ Works on pork, beef, chicken. Adjustable.
 
 The mop is a thin, vinegar-based sauce brushed or sprayed onto the meat during cooking, every hour or so. It does two things: keeps the surface moist (so the bark forms slowly rather than burning) and adds layers of acid and aromatic flavour over the cook.
 
-Mops are not strictly required - many top-tier BBQ cooks skip them entirely. They are most useful in dry, hot environments or when the meat is going through an extended cook in a dry smoker.
+Mops are not strictly required, many top-tier BBQ cooks skip them entirely. They are most useful in dry, hot environments or when the meat is going through an extended cook in a dry smoker.
 
 ### Texas Beef Mop
 
@@ -151,7 +151,7 @@ The sauce served at the table or brushed on during the last 30 minutes of the co
 
 ### Kansas City (Sweet Tomato)
 
-The most globally recognised "BBQ sauce" - thick, sweet, tomato-based. KC Masterpiece is the commercial template.
+The most globally recognised "BBQ sauce", thick, sweet, tomato-based. KC Masterpiece is the commercial template.
 
 - 250 ml ketchup
 - 100 ml apple cider vinegar
@@ -183,7 +183,7 @@ The same as the mop. Apply liberally.
 
 ### Carolina (West / Lexington-Style)
 
-The Western North Carolina version - vinegar with a tomato base.
+The Western North Carolina version, vinegar with a tomato base.
 
 - 250 ml cider vinegar
 - 100 ml ketchup
@@ -214,7 +214,7 @@ Simmer 5-10 minutes. Cool.
 
 ### Alabama (White / Mayonnaise)
 
-The unusual Northern Alabama tradition - mayonnaise plus vinegar, dressed on smoked chicken. Big Bob Gibson Bar-B-Q in Decatur is the original.
+The unusual Northern Alabama tradition, mayonnaise plus vinegar, dressed on smoked chicken. Big Bob Gibson Bar-B-Q in Decatur is the original.
 
 - 250 ml mayonnaise
 - 60 ml apple cider vinegar

@@ -2,7 +2,7 @@
 
 ![Coxinha](resources/coxinha.jpg)
 
-*Brazil's most beloved street-food snack: tear-drop-shaped balls of soft wheat-flour dough wrapped around a shredded chicken filling enriched with cream cheese (Catupiry), breaded, and deep-fried till deeply golden. The traditional Brazilian "snack" - sold from every street-corner padaria (bakery), every bus-station kiosk, every Brazilian bar, every childhood birthday party.*
+*Brazil's most beloved street-food snack: tear-drop-shaped balls of soft wheat-flour dough wrapped around a shredded chicken filling enriched with cream cheese (Catupiry), breaded, and deep-fried till deeply golden. The traditional Brazilian "snack", sold from every street-corner padaria (bakery), every bus-station kiosk, every Brazilian bar, every childhood birthday party.*
 
 **Serves:** Makes 24-30 coxinhas
 
@@ -123,13 +123,13 @@ Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-m
 - **170°C is the right oil temperature:** higher and the outside burns before the inside heats; lower and the breading absorbs too much oil.
 
 ## Variations
-**Coxinha de queijo (cheese coxinha):** swap the chicken for 100% Catupiry or cream cheese - the vegetarian version.
-**Coxinha de pizza:** stuff with chopped pepperoni + mozzarella + tomato sauce - modern fusion variant.
-**Coxinha doce (sweet coxinha):** make the dough with milk + a touch of sugar; stuff with chocolate sauce + caramelised condensed milk - Brazilian dessert variant.
+**Coxinha de queijo (cheese coxinha):** swap the chicken for 100% Catupiry or cream cheese, the vegetarian version.
+**Coxinha de pizza:** stuff with chopped pepperoni + mozzarella + tomato sauce, modern fusion variant.
+**Coxinha doce (sweet coxinha):** make the dough with milk + a touch of sugar; stuff with chocolate sauce + caramelised condensed milk, Brazilian dessert variant.
 **Coxinha de jaca (jackfruit):** swap chicken for shredded young jackfruit (a vegan alternative). Increasingly popular.
 **Mini coxinhas:** make 50-60 small bite-size versions for canapés.
 **Coxinha assada (baked):** brush with egg wash; bake at 200°C for 25 minutes instead of deep-frying. Less crispy but healthier.
-**Coxinha de bacalhau:** swap chicken for desalted shredded cod - Portuguese-Brazilian fusion.
+**Coxinha de bacalhau:** swap chicken for desalted shredded cod, Portuguese-Brazilian fusion.
 **Spicy coxinha:** add 1-2 finely chopped jalapeños to the chicken filling.
 
 ## Serving

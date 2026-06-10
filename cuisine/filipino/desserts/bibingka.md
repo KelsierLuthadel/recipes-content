@@ -41,7 +41,7 @@ Bibingka is the Filipino Christmas-season rice cake sold from baskets outside ch
 
 ### Stage 1 - Prepare the tin
 1. Heat the oven to 200°C (180°C fan).
-1. Pass the banana leaf over a low gas flame for a few seconds on each side - it changes colour from matte to shiny and becomes pliable.
+1. Pass the banana leaf over a low gas flame for a few seconds on each side, it changes colour from matte to shiny and becomes pliable.
 1. Line a 22 cm round cake tin or 6 ramekins with the banana leaf, brushing with melted butter to help it stick.
 1. The leaf should come up the sides.
 
@@ -52,13 +52,13 @@ Bibingka is the Filipino Christmas-season rice cake sold from baskets outside ch
 1. Pour the batter into the prepared tin(s) to a depth of 2 cm.
 
 ### Stage 3 - First bake
-1. Bake 15 minutes - the batter should be set but pale.
+1. Bake 15 minutes, the batter should be set but pale.
 
 ### Stage 4 - Top
 1. Slide the rack out (don't fully remove the bibingka from the oven).
 1. Arrange salted egg slices over the top.
 1. Crumble the kesong puti / cheese evenly.
-1. Slide back in for another 10 minutes - the surface should be lightly golden.
+1. Slide back in for another 10 minutes, the surface should be lightly golden.
 
 ### Stage 5 - Finish
 1. Brush the top of the still-hot bibingka with melted butter.
@@ -67,7 +67,7 @@ Bibingka is the Filipino Christmas-season rice cake sold from baskets outside ch
 1. Serve warm in wedges or directly in the ramekin.
 
 ## Notes
-- **Two rice flours, not one:** plain rice flour gives the structure; glutinous rice flour gives the springy chew. Ratio matters - too much glutinous turns sticky, too little gives a crumbly cake.
+- **Two rice flours, not one:** plain rice flour gives the structure; glutinous rice flour gives the springy chew. Ratio matters, too much glutinous turns sticky, too little gives a crumbly cake.
 - **Banana leaf isn't optional for authenticity:** it imparts a subtle grassy aroma that defines bibingka. Buy frozen banana leaves at any Asian grocery; pass over a flame briefly to release the fragrance and make them flexible. Skip if truly unobtainable; line the tin with parchment.
 - **Salted egg:** small, perfect bricks of savoury. Look for them at Filipino or Chinese groceries; if unavailable, brine a regular hard-boiled egg in heavy salt water overnight.
 - **Coconut milk, not coconut cream:** the cream is too rich and the bibingka turns dense.

@@ -72,4 +72,4 @@ Mongolia's mutton noodle soup, the cold-day restorative that turns up at every g
 
 ## Storage
 - Refrigerate 3 days; reheat gently.
-- The noodles soften on day two - for best texture, make the broth ahead but the noodles fresh.
+- The noodles soften on day two, for best texture, make the broth ahead but the noodles fresh.

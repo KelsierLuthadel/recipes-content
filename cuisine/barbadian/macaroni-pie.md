@@ -16,7 +16,7 @@ Bajan macaroni pie is the Caribbean cousin of American mac-and-cheese, brighter,
 ## Ingredients
 
 ### The pasta
-- 500 g dried elbow macaroni (or small shells; not penne or rigatoni - the small shapes are traditional)
+- 500 g dried elbow macaroni (or small shells; not penne or rigatoni, the small shapes are traditional)
 - 1 teaspoon salt for the pasta water
 
 ### The Bajan cheese sauce
@@ -25,7 +25,7 @@ Bajan macaroni pie is the Caribbean cousin of American mac-and-cheese, brighter,
 - 800 ml whole milk, warmed
 - 200 ml evaporated milk (the Caribbean addition; gives extra richness)
 - 400 g mature Caribbean-style or extra-mature cheddar, grated (plus 80 g extra for the top)
-- 100 g processed cheese (optional but traditional - the orange American-style processed cheese gives the right Caribbean colour and meltability)
+- 100 g processed cheese (optional but traditional, the orange American-style processed cheese gives the right Caribbean colour and meltability)
 - 3 tablespoons prepared yellow mustard (French's or a Caribbean equivalent; NOT Dijon)
 - 1 teaspoon dry mustard powder (Coleman's English mustard powder)
 - 2 tablespoons Bajan green seasoning (see [Cou-cou and flying fish](cou-cou-and-flying-fish.md))
@@ -69,7 +69,7 @@ Bajan macaroni pie is the Caribbean cousin of American mac-and-cheese, brighter,
 5. Reduce heat to low.
 6. Whisk in the grated cheddar (and the processed cheese if using) in 3 batches, stirring after each till fully melted.
 7. Stir in the prepared mustard, dry mustard powder, Bajan green seasoning, the sweated onion-pepper mix, and the grated nutmeg.
-8. Taste; adjust salt and pepper. The sauce should be assertively flavoured - sharp, herbal, peppery.
+8. Taste; adjust salt and pepper. The sauce should be assertively flavoured, sharp, herbal, peppery.
 
 ### Stage 4 - Temper the eggs in (the binding move)
 1. Take the sauce OFF the heat.
@@ -96,7 +96,7 @@ Bajan macaroni pie is the Caribbean cousin of American mac-and-cheese, brighter,
 
 ### Stage 8 - Serve
 1. Lift onto warm plates with a spatula (the squares hold their shape).
-2. Serve alongside stew chicken, rice and peas, and fried plantain - the traditional Bajan Sunday lunch.
+2. Serve alongside stew chicken, rice and peas, and fried plantain, the traditional Bajan Sunday lunch.
 3. Bajan pepper sauce on the table for extra heat.
 
 ## Notes
@@ -108,13 +108,13 @@ Bajan macaroni pie is the Caribbean cousin of American mac-and-cheese, brighter,
 - **Compact the macaroni in the tin:** firm packing gives clean square cuts.
 
 ## Variations
-**Tuna macaroni pie:** add 1 large tin of drained tuna to the sauce - the Bajan lunchbox variant.
+**Tuna macaroni pie:** add 1 large tin of drained tuna to the sauce, the Bajan lunchbox variant.
 **Vegetarian Bajan macaroni pie:** skip any meat; use vegetable stock in place of any meat-based ingredient; the heat and mustard make it work.
 **Macaroni pie with bacon:** scatter 200 g crisp bacon lardons over the top before baking.
-**Spicy macaroni pie:** double the Scotch bonnet - for the heat-lovers.
+**Spicy macaroni pie:** double the Scotch bonnet, for the heat-lovers.
 **Bajan macaroni pie loaf (the Sunday-school cake):** bake in a loaf tin and slice; the traditional Sunday-school food at Bajan church gatherings.
-**Macaroni pie with breadcrumb topping:** scatter 60 g panko + 30 g extra cheddar + 1 tablespoon butter over the top before baking - extra crunch.
-**Cream macaroni pie:** swap 200 ml of the whole milk for 200 ml double cream - the richer wedding-day variant.
+**Macaroni pie with breadcrumb topping:** scatter 60 g panko + 30 g extra cheddar + 1 tablespoon butter over the top before baking, extra crunch.
+**Cream macaroni pie:** swap 200 ml of the whole milk for 200 ml double cream, the richer wedding-day variant.
 
 ## Serving
 At a Bajan Sunday lunch (the traditional setting; cut into hefty squares; piled alongside stew chicken and rice and peas) · at a Bajan Independence Day celebration · at a Bajan church potluck · at a Bajan birthday party · at a Bajan funeral wake · at home as a Bajan-themed dinner-party side · paired with stew chicken, fried chicken, rice and peas.
@@ -122,7 +122,7 @@ At a Bajan Sunday lunch (the traditional setting; cut into hefty squares; piled 
 ## Storage
 - Refrigerates 4 days; reheats well covered in a 180°C oven for 20 minutes.
 - Freezes 3 months baked; defrost overnight in the fridge before reheating.
-- The egg binding means the squares hold up well to reheating - texture is excellent on day 2 and 3.
-- Don't microwave - the texture goes rubbery.
+- The egg binding means the squares hold up well to reheating, texture is excellent on day 2 and 3.
+- Don't microwave, the texture goes rubbery.
 - Day-old macaroni pie pan-fried in butter till crisp on both sides is the Bajan day-after breakfast.
 - The cheese sauce on its own keeps refrigerated 3 days; useful as a dip or a quick weeknight cheesy-pasta base.

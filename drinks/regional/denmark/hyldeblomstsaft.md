@@ -55,7 +55,7 @@ Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished home
 3. Press the flowers down gently with a wooden spoon so they're fully submerged.
 
 ### Stage 4 - Steep
-1. Cover the bowl with a clean tea towel (NOT a tight lid - the flowers need a little air).
+1. Cover the bowl with a clean tea towel (NOT a tight lid, the flowers need a little air).
 2. Leave at cool room temperature for 24-48 hours.
 3. Stir gently once a day.
 4. After 48 hours the syrup will smell deeply of elderflower; it'll be pale gold with citrus notes.
@@ -68,7 +68,7 @@ Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished home
 ### Stage 6 - Bottle
 1. Pour the strained syrup into sterilised glass bottles or jars.
 2. Seal tightly.
-3. Refrigerate (or pasteurise - heat the sealed bottles in a hot water bath at 80°C for 20 minutes - for longer shelf life).
+3. Refrigerate (or pasteurise, heat the sealed bottles in a hot water bath at 80°C for 20 minutes, for longer shelf life).
 
 ### Stage 7 - Dilute and serve
 1. In each glass, pour 60ml of the syrup.
@@ -85,7 +85,7 @@ Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished home
 - **24-48 hour cold steep:** the flavour develops over time.
 
 ## Variations
-**Sparkling-wine version:** dilute with chilled cava / champagne / prosecco instead of sparkling water - the Danish Midsummer cocktail.
+**Sparkling-wine version:** dilute with chilled cava / champagne / prosecco instead of sparkling water, the Danish Midsummer cocktail.
 **With ginger:** add a thumb of grated fresh ginger to the steep for warmth.
 **With rose petals:** add a small handful of edible rose petals for an extra floral note.
 **Pasteurised long-keeping bottles:** heat sealed bottles in a 80°C water bath for 20 minutes to make them shelf-stable for a year.

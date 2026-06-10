@@ -75,11 +75,11 @@ Cigares au miel are Morocco's honey-almond cigars, the smaller and easier cousin
 
 ## Notes
 - **Don't over-knead the almond paste:** it should be plastic but not greasy. Over-mixing in a processor warms the almonds and the oil separates.
-- **Roll cylinders thin:** 1 ½ cm is the sweet spot - too thick and the filling stays cold in the centre; too thin and the cigars bend during frying.
+- **Roll cylinders thin:** 1 ½ cm is the sweet spot, too thick and the filling stays cold in the centre; too thin and the cigars bend during frying.
 - **Honey warm, not boiling:** boiled honey crystallises on cooling. Keep at body-temperature warm.
 - **Sesame on the sticky cigars:** the seeds adhere only while honey is wet. Sprinkle within 30 seconds of removing from the glaze.
 
 ## Storage
 - Keeps 2 weeks at room temperature in a sealed tin (cigares stay crisp if the honey isn't drowning them).
-- Don't refrigerate - the honey crystallises.
+- Don't refrigerate, the honey crystallises.
 - The cinnamon flavour deepens over the first day.

@@ -18,8 +18,8 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: peameal bacon - about 80-100 g per sandwich
-    raw: 4 slices peameal bacon - about 80-100 g per sandwich
+    name: "peameal bacon : about 80-100 g per sandwich"
+    raw: "4 slices peameal bacon : about 80-100 g per sandwich"
   - qty: 1
     unit: tbsp
     name: sunflower oil or a knob of butter

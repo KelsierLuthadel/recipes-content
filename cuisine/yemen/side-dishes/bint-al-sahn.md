@@ -53,7 +53,7 @@ Bint al-sahn (literally "daughter of the plate") is Yemen's celebration bread: s
 1. Bake 25-28 minutes until the top is deep gold and the edges are crisp.
 
 ### Stage 5 - Finish
-1. Lift from the oven. While the bread is still hot, drizzle generously with honey - it should sink between the layers.
+1. Lift from the oven. While the bread is still hot, drizzle generously with honey, it should sink between the layers.
 1. Scatter with the toasted black caraway / nigella seeds.
 
 ### Stage 6 - Serve
@@ -61,10 +61,10 @@ Bint al-sahn (literally "daughter of the plate") is Yemen's celebration bread: s
 1. Tear into flakes with the hand; serve with cardamom tea.
 
 ## Notes
-- **Sidr honey:** Yemeni mountain honey is dark, malty, almost bitter at the edges - a famous ingredient. Manuka, Greek thyme honey or any dark honey makes a good substitute.
+- **Sidr honey:** Yemeni mountain honey is dark, malty, almost bitter at the edges, a famous ingredient. Manuka, Greek thyme honey or any dark honey makes a good substitute.
 - **Roll thin:** The character comes from the layers. If your discs are thick, you'll get bread; if they're thin, you'll get a flaky leaved pastry. Closer to filo than to flatbread.
 - **Black caraway / nigella:** Black caraway is the traditional seed; nigella (kalonji) is the easy substitute.
 
 ## Storage
 - Best the day baked.
-- Keeps 2 days in foil at room temperature; the honey keeps everything moist. Don't refrigerate - the layers go heavy.
+- Keeps 2 days in foil at room temperature; the honey keeps everything moist. Don't refrigerate, the layers go heavy.

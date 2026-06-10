@@ -2,7 +2,7 @@
 
 ![Salsa Verde Chilena](resources/salsa-verde-chilena.jpg)
 
-*Chile's parsley-coriander green sauce: finely chopped fresh parsley, coriander, scallions, garlic, lemon juice and olive oil, blitzed to a vivid green relish. The Chilean herbal sauce that complements grilled meats, fish and roasted vegetables - sharper and herbier than its Italian cousin.*
+*Chile's parsley-coriander green sauce: finely chopped fresh parsley, coriander, scallions, garlic, lemon juice and olive oil, blitzed to a vivid green relish. The Chilean herbal sauce that complements grilled meats, fish and roasted vegetables, sharper and herbier than its Italian cousin.*
 
 **Serves:** Makes about 250 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Salsa verde Chilena is Chile's version of the wider Latin/Iberian green-sauce family, distinct from the Italian salsa verde (which uses capers, anchovies, and breadcrumbs) and the Argentine chimichurri (which is more oregano-dominant): a vivid green relish made from finely chopped fresh flat-leaf parsley, fresh coriander, spring onions, garlic, lemon juice, white wine vinegar, olive oil, salt and pepper, sometimes with a touch of merkén for warm depth. The dish is used as a table condiment alongside grilled meats (asado), grilled fish, roasted chicken and vegetables - providing a bright fresh herby counterpoint to the richer mains. Both herbs go in together; parsley alone or coriander alone is acceptable but the pair is traditional. The texture should be chunky, not a smooth purée; visible bits of herb. Combined raw, not cooked, and best eaten within 24 to 48 hours while the herbs are still bright.
+Salsa verde Chilena is Chile's version of the wider Latin/Iberian green-sauce family, distinct from the Italian salsa verde (which uses capers, anchovies, and breadcrumbs) and the Argentine chimichurri (which is more oregano-dominant): a vivid green relish made from finely chopped fresh flat-leaf parsley, fresh coriander, spring onions, garlic, lemon juice, white wine vinegar, olive oil, salt and pepper, sometimes with a touch of merkén for warm depth. The dish is used as a table condiment alongside grilled meats (asado), grilled fish, roasted chicken and vegetables, providing a bright fresh herby counterpoint to the richer mains. Both herbs go in together; parsley alone or coriander alone is acceptable but the pair is traditional. The texture should be chunky, not a smooth purée; visible bits of herb. Combined raw, not cooked, and best eaten within 24 to 48 hours while the herbs are still bright.
 
 ## Ingredients
 

@@ -2,7 +2,7 @@
 
 ![Cazuela de Vacuno](resources/cazuela-de-vacuno.jpg)
 
-*The Chilean Sunday-lunch one-pot: bone-in beef shin slow-simmered in a clear broth with a generous chunk of pumpkin, a section of corn-on-the-cob, a whole potato, green beans and rice (sometimes noodles), eaten in deep bowls with a sprinkle of coriander and a wedge of lime. Plain but deep - the broth is the soul.*
+*The Chilean Sunday-lunch one-pot: bone-in beef shin slow-simmered in a clear broth with a generous chunk of pumpkin, a section of corn-on-the-cob, a whole potato, green beans and rice (sometimes noodles), eaten in deep bowls with a sprinkle of coriander and a wedge of lime. Plain but deep, the broth is the soul.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-The Chilean Sunday-lunch one-pot, the soup-stew that turns up on every kitchen table from Santiago to Patagonia. You brown bone-in beef shin to colour, then drop it into a simple broth of onion, garlic, oregano and cumin and simmer slowly for ninety minutes until the meat is tender and the broth has built depth. The vegetables go in for the last twenty-five minutes - a thick chunk of pumpkin, a section of corn-on-the-cob, a whole potato, a handful of green beans - each piece kept whole because the cazuela is meant to arrive in the bowl looking like a still life. Rice or vermicelli cooks separately in a ladle of the broth and joins at the very end. Served in deep bowls with chopped coriander and a wedge of lime, the steam rising while you eat. Comfort food at its plainest and deepest.
+The Chilean Sunday-lunch one-pot, the soup-stew that turns up on every kitchen table from Santiago to Patagonia. You brown bone-in beef shin to colour, then drop it into a simple broth of onion, garlic, oregano and cumin and simmer slowly for ninety minutes until the meat is tender and the broth has built depth. The vegetables go in for the last twenty-five minutes, a thick chunk of pumpkin, a section of corn-on-the-cob, a whole potato, a handful of green beans, each piece kept whole because the cazuela is meant to arrive in the bowl looking like a still life. Rice or vermicelli cooks separately in a ladle of the broth and joins at the very end. Served in deep bowls with chopped coriander and a wedge of lime, the steam rising while you eat. Comfort food at its plainest and deepest.
 
 ## Ingredients
 
@@ -63,10 +63,10 @@ The Chilean Sunday-lunch one-pot, the soup-stew that turns up on every kitchen t
 1. Scatter coriander; lime wedge alongside.
 
 ## Notes
-- **Whole chunks:** The Chilean way is whole vegetables in each bowl - the diner picks them up with the spoon. Don't dice.
+- **Whole chunks:** The Chilean way is whole vegetables in each bowl, the diner picks them up with the spoon. Don't dice.
 - **Beef shin:** The cut. Marrow bone enriches the broth; the meat shreds when tender.
 - **Rice / vermicelli separately:** Cooking them in the main pot makes the broth cloudy and starchy. Cooked in a side ladleful of broth, they stay bright.
 
 ## Storage
 - Refrigerate 4 days. Reheats well.
-- Freezes 3 months (without the rice - cook fresh).
+- Freezes 3 months (without the rice, cook fresh).

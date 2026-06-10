@@ -16,7 +16,7 @@ The Southern Sunday dinner that defined a region. You start the night before, si
 ## Ingredients
 
 ### Brine
-- 8 chicken pieces (drumsticks, thighs, wings, breasts cut in half - bone-in, skin-on)
+- 8 chicken pieces (drumsticks, thighs, wings, breasts cut in half, bone-in, skin-on)
 - 600 ml buttermilk
 - 4 garlic cloves (crushed)
 - 2 tablespoons hot sauce (Crystal or Frank's)
@@ -48,7 +48,7 @@ The Southern Sunday dinner that defined a region. You start the night before, si
 
 ### Stage 2 - Dredge
 1. Whisk all the dredge ingredients in a wide shallow bowl.
-1. Lift each chicken piece out of the brine, letting excess drip off - but don't shake clean. The brine on the chicken is what binds the first coat.
+1. Lift each chicken piece out of the brine, letting excess drip off, but don't shake clean. The brine on the chicken is what binds the first coat.
 1. Roll each piece in the seasoned flour, pressing firmly so the flour clings.
 1. Place on a wire rack; rest 10 minutes (lets the coating hydrate).
 
@@ -58,7 +58,7 @@ The Southern Sunday dinner that defined a region. You start the night before, si
 
 ### Stage 4 - Fry
 1. Working in 2-3 batches (don't crowd):
-1. Lower chicken pieces in carefully - large bone-in pieces first; thighs and breasts at the bottom of the pan, smaller wings and drumsticks at the top.
+1. Lower chicken pieces in carefully, large bone-in pieces first; thighs and breasts at the bottom of the pan, smaller wings and drumsticks at the top.
 1. Fry 12-15 minutes, turning every 3-4 minutes, maintaining oil temperature at 165-175°C.
 1. The chicken is done when deep mahogany brown, the coating is crisp, and the internal temperature reaches 75°C (or juices run clear).
 1. Drain on a wire rack (not paper, which traps steam and softens the crust).

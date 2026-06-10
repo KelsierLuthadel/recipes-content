@@ -2,7 +2,7 @@
 
 ![Mazamorra Morada](resources/mazamorra-morada.jpg)
 
-*Lima's most distinctively-coloured dessert: a thick deep-purple pudding made by simmering Peruvian purple corn (maíz morado, the same corn used to make chicha morada) with pineapple skin, quince, cinnamon, cloves, dried apricots, raisins and a generous quantity of sugar, then thickened with sweet potato starch and finished with chunks of seasonal fruit (apple, peach, dried apricot, dried cherries). Served warm or cold in small bowls; the traditional accompaniment to arroz con leche (the Peruvian "marriage" - half purple pudding, half rice pudding, eaten side-by-side in the same bowl). October's All Saints' Day dessert; year-round at every Peruvian dessert counter.*
+*Lima's most distinctively-coloured dessert: a thick deep-purple pudding made by simmering Peruvian purple corn (maíz morado, the same corn used to make chicha morada) with pineapple skin, quince, cinnamon, cloves, dried apricots, raisins and a generous quantity of sugar, then thickened with sweet potato starch and finished with chunks of seasonal fruit (apple, peach, dried apricot, dried cherries). Served warm or cold in small bowls; the traditional accompaniment to arroz con leche (the Peruvian "marriage", half purple pudding, half rice pudding, eaten side-by-side in the same bowl). October's All Saints' Day dessert; year-round at every Peruvian dessert counter.*
 
 **Serves:** 6
 
@@ -41,7 +41,7 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 
 ### To finish
 - Ground cinnamon (for dusting)
-- (Optional) A scoop of Peruvian arroz con leche (rice pudding) served alongside in the same bowl - the "marriage"
+- (Optional) A scoop of Peruvian arroz con leche (rice pudding) served alongside in the same bowl, the "marriage"
 
 ### Equipment
 - A large heavy pot (4-5 litre capacity)
@@ -50,7 +50,7 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 ## Method
 
 ### Stage 1 - Make the purple-corn broth
-1. If using whole purple corn cob: break or saw it into 4-5 pieces (no need to remove kernels - the cob itself contains anthocyanin colour).
+1. If using whole purple corn cob: break or saw it into 4-5 pieces (no need to remove kernels, the cob itself contains anthocyanin colour).
 2. Place the corn (cob or kernels) in a large pot.
 3. Add the water, cinnamon sticks, cloves, optional star anise, pineapple skin, halved quince (or apple) and orange peel.
 4. Bring to a gentle boil; reduce to a simmer.
@@ -73,7 +73,7 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 ### Stage 3 - Thicken
 1. Whisk the sweet-potato starch (or cornflour) with the cold water in a small bowl till smooth.
 2. Slowly drizzle this slurry into the simmering purple-fruit mixture while stirring constantly.
-3. Continue cooking 4-6 minutes till the mixture thickens to the consistency of thick custard - it should coat the back of a spoon thickly.
+3. Continue cooking 4-6 minutes till the mixture thickens to the consistency of thick custard, it should coat the back of a spoon thickly.
 4. Stir in the lime juice.
 
 ### Stage 4 - Taste and adjust
@@ -88,19 +88,19 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 
 ## Notes
 - **Real maíz morado is dramatically different from substitutes:** the deep-purple Andean corn has a unique earthy-fruity character that blueberries can't fully replicate. Source from a Latin American shop if you can.
-- **Pineapple skin (not flesh):** the traditional Peruvian additive - the rind gives aroma without bitterness. The flesh goes into the fruit dice.
+- **Pineapple skin (not flesh):** the traditional Peruvian additive, the rind gives aroma without bitterness. The flesh goes into the fruit dice.
 - **Don't over-thicken:** the consistency should be thick custard, not jelly. The mixture firms further as it cools.
-- **The "matrimonio" with arroz con leche:** the traditional Peruvian way to serve - both desserts in the same bowl, side by side.
+- **The "matrimonio" with arroz con leche:** the traditional Peruvian way to serve, both desserts in the same bowl, side by side.
 - **Sweetness is generous:** mazamorra morada is unapologetically sweet. Don't reduce the sugar too aggressively or the dish tastes flat.
 
 ## Variations
-**Mazamorra morada Lima style:** add 1 tablespoon of cornflour-thickened cooked maíz morado kernels for texture - the chunky variant.
+**Mazamorra morada Lima style:** add 1 tablespoon of cornflour-thickened cooked maíz morado kernels for texture, the chunky variant.
 **Mazamorra morada with arroz con leche (the marriage):** the traditional pairing in a single bowl.
-**Mazamorra morada with quinoa:** add 50 g of cooked Andean quinoa to the pudding - the modern variant.
-**Lighter Mazamorra:** use less sugar (60 g) - for those who find the standard version too sweet.
+**Mazamorra morada with quinoa:** add 50 g of cooked Andean quinoa to the pudding, the modern variant.
+**Lighter Mazamorra:** use less sugar (60 g): for those who find the standard version too sweet.
 **Vegan mazamorra morada:** the recipe is already vegan (no dairy or eggs).
-**Mazamorra with chia seed thickener:** swap the sweet potato starch for chia seeds (2 tablespoons) - the modern healthy variant.
-**Mazamorra morada cocktail (modern):** thin with 100 ml of pisco - the modern Lima cocktail-bar variant.
+**Mazamorra with chia seed thickener:** swap the sweet potato starch for chia seeds (2 tablespoons): the modern healthy variant.
+**Mazamorra morada cocktail (modern):** thin with 100 ml of pisco, the modern Lima cocktail-bar variant.
 
 ## Serving
 At a Peruvian All Saints' Day (1 November) celebration (the traditional setting) · at a Peruvian Independence Day (28 July) dessert · at a Lima criolla restaurant · at a Peruvian street-cart in the late afternoon · at a Peruvian family Sunday lunch · at a Peruvian wedding · at home as the make-ahead Sunday dessert · paired with arroz con leche (the traditional "marriage") · with a strong black coffee.
@@ -109,6 +109,6 @@ At a Peruvian All Saints' Day (1 November) celebration (the traditional setting)
 - Refrigerates 5 days in a sealed container.
 - Freezes 3 months in portion-size containers.
 - The pudding thickens further on cooling; loosen with a splash of water or fruit juice when reheating.
-- Reheat gently on the stovetop (don't microwave - uneven heating creates hot spots).
-- The strained purple-corn broth (before adding fruit) freezes 6 months - useful as a make-ahead base for fast subsequent batches.
+- Reheat gently on the stovetop (don't microwave, uneven heating creates hot spots).
+- The strained purple-corn broth (before adding fruit) freezes 6 months, useful as a make-ahead base for fast subsequent batches.
 - Dried purple corn cobs and kernels keep indefinitely in a sealed pantry jar.

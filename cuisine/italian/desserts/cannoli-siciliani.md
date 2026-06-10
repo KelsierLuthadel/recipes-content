@@ -32,13 +32,13 @@ Sicily's most famous sweet, and the one you'll find on every pasticceria counter
 - 12 metal cannoli forms (cylinders 13 cm long; widely sold at Italian shops and online)
 
 ### Ricotta filling
-- 600 g whole-ricotta (drain overnight in muslin in the fridge - see Stage 1)
+- 600 g whole-ricotta (drain overnight in muslin in the fridge, see Stage 1)
 - 120 g icing sugar (sifted)
 - 1 teaspoon vanilla extract
 - 1 orange (zest)
 - 60 g dark chocolate chips (or finely chopped dark chocolate)
 - 30 g candied orange peel (finely chopped)
-- 30 g candied citron (optional - sold at Italian / cake-decorating shops)
+- 30 g candied citron (optional, sold at Italian / cake-decorating shops)
 
 ### To finish
 - 50 g shelled unsalted pistachios (finely chopped)
@@ -58,12 +58,12 @@ Sicily's most famous sweet, and the one you'll find on every pasticceria counter
 1. Rub in the cold cubed butter with fingertips until the mixture resembles fine breadcrumbs.
 1. Make a well; add egg yolk, Marsala and vinegar.
 1. Mix with a fork, then by hand, to a stiff but pliable dough.
-1. Knead on a floured surface for 6-8 minutes - the dough should be smooth and elastic.
+1. Knead on a floured surface for 6-8 minutes, the dough should be smooth and elastic.
 1. Wrap in cling film; rest 30 minutes at room temperature.
 
 ### Stage 3 - Roll and cut
-1. Roll the dough on a lightly floured surface to a thin sheet - ideally pasta-thin, around 2 mm thick. Use a pasta machine if you have one, taking it down to setting 5 or 6.
-1. Cut out 12 cm discs (or 12 x 8 cm oval shapes - the traditional shape).
+1. Roll the dough on a lightly floured surface to a thin sheet, ideally pasta-thin, around 2 mm thick. Use a pasta machine if you have one, taking it down to setting 5 or 6.
+1. Cut out 12 cm discs (or 12 x 8 cm oval shapes, the traditional shape).
 1. Re-roll scraps once.
 
 ### Stage 4 - Form
@@ -76,7 +76,7 @@ Sicily's most famous sweet, and the one you'll find on every pasticceria counter
 1. Lower 3-4 cannoli (still on their forms) into the oil with tongs.
 1. Fry 90 seconds to 2 minutes, turning, until deep amber and blistered.
 1. Lift onto kitchen paper.
-1. Once cool enough to handle (about 5 minutes), gently slide each shell off its form. The metal will be hot - use a tea towel.
+1. Once cool enough to handle (about 5 minutes), gently slide each shell off its form. The metal will be hot, use a tea towel.
 1. Re-oil the forms between batches.
 
 ### Stage 6 - Make the filling
@@ -97,12 +97,12 @@ Sicily's most famous sweet, and the one you'll find on every pasticceria counter
 
 ### Stage 9 - Serve
 1. Dust with icing sugar at the table.
-1. Eat within 30 minutes of filling - beyond that, the shell softens.
+1. Eat within 30 minutes of filling, beyond that, the shell softens.
 
 ## Notes
-- **Drain the ricotta - really drain it:** Wet ricotta makes the cannoli filling sloppy and the shell soft within minutes. Overnight in muslin is ideal. The drained whey can be discarded or used in bread / smoothies.
+- **Drain the ricotta, really drain it:** Wet ricotta makes the cannoli filling sloppy and the shell soft within minutes. Overnight in muslin is ideal. The drained whey can be discarded or used in bread / smoothies.
 - **Fill at the last second:** This is the cardinal rule of cannoli. Pre-filled cannoli in a bakery window are sad; the shells go soft from the wet filling. Real Sicilian pasticcerie fill them as you order. At home: fry the shells in advance, store airtight, fill when serving.
-- **No cannoli forms?**: Cut foil into rectangles, fold and roll around cylindrical objects (like a thick pen wrapped in foil) for a homemade form. Or skip the tubes entirely and make "cannoli scoops" - break shells into shards, pile filling on a plate, scatter chocolate chips and pistachios.
+- **No cannoli forms?**: Cut foil into rectangles, fold and roll around cylindrical objects (like a thick pen wrapped in foil) for a homemade form. Or skip the tubes entirely and make "cannoli scoops", break shells into shards, pile filling on a plate, scatter chocolate chips and pistachios.
 
 ## Storage
 - **Fried shells, unfilled**: keep airtight at room temperature 1 week.

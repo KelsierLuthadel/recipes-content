@@ -59,7 +59,7 @@ Bạc xỉu (the name is a Vietnamese phonetic adaptation of the Cantonese "白�
 ## Variations
 - **Bạc xỉu nóng (hot version).** Just the coffee mixed with hot frothed sweetened condensed milk and a splash of warm coconut milk. Served in a mug. The winter / morning version.
 - **With coconut cream layer.** Pour the blended bạc xỉu into a glass, then float 2 tablespoons of thick coconut cream on top. Visual two-tone, sweeter.
-- **Without coconut.** Just coffee, condensed milk, and ice - blended. The classic non-coconut bạc xỉu, a Saigon dessert-drink before the coconut version became popular.
+- **Without coconut.** Just coffee, condensed milk, and ice, blended. The classic non-coconut bạc xỉu, a Saigon dessert-drink before the coconut version became popular.
 - **Pandan bạc xỉu.** Add a knotted pandan leaf to the coffee while brewing. Faintly grassy-floral; modern café variant.
 
 ## Storage

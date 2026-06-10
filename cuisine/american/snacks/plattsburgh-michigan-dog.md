@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-The Plattsburgh Michigan hot dog (almost always just called "Michigan" or "a Michigan" by locals) is one of America's strangest regional hot-dog naming oddities: a New York State specialty named after the wrong state. The dish was created around 1927 in Plattsburgh, in upstate New York's North Country region near the Canadian border, by Eula Otis (some accounts credit Garth Otis), who is said to have based it on a Detroit Coney Island recipe she encountered - hence the "Michigan" name. The result is distinct from a Coney Island chili dog in three ways: the meat sauce ("Michigan sauce") is smoother and more tomato-forward (more like a meat-sauce than a chili-with-meat); the dog sits in a New England-style top-split bun (not a side-split bun); and the traditional onion topping is either "buried" (raw chopped onion under the sauce, between dog and sauce) or "dragged" (chopped onion piled on top, dragged through the sauce). Sold at Clare and Carl's, McSweeney's, Nitzi's and other 90-year-old Plattsburgh stands.
+The Plattsburgh Michigan hot dog (almost always just called "Michigan" or "a Michigan" by locals) is one of America's strangest regional hot-dog naming oddities: a New York State specialty named after the wrong state. The dish was created around 1927 in Plattsburgh, in upstate New York's North Country region near the Canadian border, by Eula Otis (some accounts credit Garth Otis), who is said to have based it on a Detroit Coney Island recipe she encountered, hence the "Michigan" name. The result is distinct from a Coney Island chili dog in three ways: the meat sauce ("Michigan sauce") is smoother and more tomato-forward (more like a meat-sauce than a chili-with-meat); the dog sits in a New England-style top-split bun (not a side-split bun); and the traditional onion topping is either "buried" (raw chopped onion under the sauce, between dog and sauce) or "dragged" (chopped onion piled on top, dragged through the sauce). Sold at Clare and Carl's, McSweeney's, Nitzi's and other 90-year-old Plattsburgh stands.
 
 ## Ingredients
 
@@ -68,7 +68,7 @@ The Plattsburgh Michigan hot dog (almost always just called "Michigan" or "a Mic
 
 ### Stage 4 - Build "buried" (traditional)
 1. Place the warm dog in the bun.
-2. A heap of chopped raw onion on top of the dog (this is the "buried" position - under the sauce).
+2. A heap of chopped raw onion on top of the dog (this is the "buried" position, under the sauce).
 3. A generous ladle of warm Michigan sauce on top, burying the onion.
 4. A zigzag of yellow mustard.
 

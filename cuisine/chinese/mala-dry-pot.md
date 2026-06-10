@@ -69,7 +69,7 @@ Ganguo, literally "dry pot", is the dry sister of hotpot. Where hotpot is a comm
 - **Everything cooks twice:** the secret to ganguo is pre-cooking each ingredient on its own. The final toss is for coating, not cooking.
 - **Sauce ratio:** about 3 tbsp of mala dry-pot sauce per 500 g of ingredients. Adjust to your heat tolerance.
 - **Don't crowd the early sears:** the proteins need direct contact with hot metal. The final crowded wok is fine because everything is already cooked.
-- **Customise freely:** lotus root, fish balls, squid, beef, chicken wings, enoki, tofu skin - anything that holds up to a quick toss works.
+- **Customise freely:** lotus root, fish balls, squid, beef, chicken wings, enoki, tofu skin, anything that holds up to a quick toss works.
 
 ## Storage
 - Best eaten immediately; the vegetables wilt on standing.

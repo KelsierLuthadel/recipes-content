@@ -51,7 +51,7 @@ The Japanese fried-vegetable-and-prawn snack that lives or dies on two things: i
 
 ### Stage 3 - Make the batter
 1. Whisk the egg yolk into the cold water in a bowl set in a larger bowl of ice.
-1. Tip in the flour and cornflour and stir 5-6 strokes only - leave lumps and dry patches.
+1. Tip in the flour and cornflour and stir 5-6 strokes only, leave lumps and dry patches.
 1. Add a few ice cubes to keep it cold.
 
 ### Stage 4 - Fry

@@ -41,7 +41,7 @@ The flavour you'd get at a Melbourne charcoal-chicken takeaway, distilled into s
 
 ### Stage 1 - Make the marinade
 1. In a wide bowl, combine the garlic powder, onion powder, paprika, mustard powder, oregano, curry powder, salt and pepper. Whisk briefly.
-2. Add the olive oil and lemon juice. Stir to a thick paste - like wet sand.
+2. Add the olive oil and lemon juice. Stir to a thick paste, like wet sand.
 
 ### Stage 2 - Marinate
 1. Add the chicken cubes to the bowl. Toss with your hands until every piece is fully coated. The paste should cling to each cube.
@@ -49,23 +49,23 @@ The flavour you'd get at a Melbourne charcoal-chicken takeaway, distilled into s
 
 ### Stage 3 - Skewer
 1. If using bamboo skewers, soak them in water for 30 minutes first to prevent burning.
-2. Thread the chicken onto the skewers - about 3-4 pieces per skewer. Don't squash them tight; small gaps let the heat get into the sides.
+2. Thread the chicken onto the skewers, about 3-4 pieces per skewer. Don't squash them tight; small gaps let the heat get into the sides.
 
 ### Stage 4 - Cook
-1. Heat a large heavy frying pan or grill pan over medium-high. Add the olive oil - enough to cover the base in a thin film.
+1. Heat a large heavy frying pan or grill pan over medium-high. Add the olive oil, enough to cover the base in a thin film.
 2. Cook the skewers in batches (don't crowd the pan or they steam). 3 minutes on the first side, until deep golden with crisp edges.
 3. Turn and cook 3 more minutes on the second side. The chicken should be just cooked through (internal temp 75°C / 165°F) with a deeply caramelised crust.
-4. If the spices start to burn at the edges before the chicken's done, drop the heat - the marinade has sugar in the onion and garlic powders and will catch.
+4. If the spices start to burn at the edges before the chicken's done, drop the heat, the marinade has sugar in the onion and garlic powders and will catch.
 5. Lift onto a plate and cover loosely with foil while you cook the rest.
 
 ### Stage 5 - Rest and serve
-1. Rest for 3-5 minutes - the juices settle back into the meat.
+1. Rest for 3-5 minutes, the juices settle back into the meat.
 2. Serve on a wide platter with the flatbreads, salads and sauce alongside. Squeeze a lemon wedge over the skewers just before eating.
 
 ## Notes
 - **Chicken thigh, not breast**: breast goes dry under the long marinade-and-sear. Thigh stays juicy and stands up to the bold spice rub.
 - **No charcoal needed**: the dry rub does the work that charcoal smoke would in a takeaway shop. For an even closer match, grill on charcoal or under a hot oven grill at 230°C, 4 minutes per side.
-- **Curry powder is the secret**: half a teaspoon - just enough to add warmth without tasting curry-flavoured. Skipping it gives a fine but less rounded result.
+- **Curry powder is the secret**: half a teaspoon, just enough to add warmth without tasting curry-flavoured. Skipping it gives a fine but less rounded result.
 
 ## Serving
 Pull the chicken off the skewers onto warm flatbread. Pile salad and sauce on top, fold, eat with your hands. Or serve skewers whole alongside roasted potatoes and the salad as a proper Sunday dinner.

@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signature street and BBQ-joint sandwich, born out of Cleveland's deep Polish and Eastern European immigrant heritage (Cleveland once had the second-largest Polish-American population in America after Chicago): a grilled kielbasa (Polish smoked sausage) in a soft white bun, then loaded with three things at once - a heap of French fries piled inside the bun on top of the kielbasa, a generous drizzle of barbecue sauce or the traditional Cleveland "Stadium Mustard" hot sauce (the spicy brown mustard sold at Cleveland Browns games since 1969), and a heap of vinegar-based cole slaw. The result is a vertical tower of textures: chewy bun, snappy sausage casing, crispy fries, tangy spicy sauce, cool crunchy slaw. Eat with two hands and a fork standing by for fallout. Created by Virgil Whitmore at a Cleveland street stand in the 1940s; traditional at Hot Sauce Williams, Freddie's BBQ, and Seti's Polish Boys.
+The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signature street and BBQ-joint sandwich, born out of Cleveland's deep Polish and Eastern European immigrant heritage (Cleveland once had the second-largest Polish-American population in America after Chicago): a grilled kielbasa (Polish smoked sausage) in a soft white bun, then loaded with three things at once, a heap of French fries piled inside the bun on top of the kielbasa, a generous drizzle of barbecue sauce or the traditional Cleveland "Stadium Mustard" hot sauce (the spicy brown mustard sold at Cleveland Browns games since 1969), and a heap of vinegar-based cole slaw. The result is a vertical tower of textures: chewy bun, snappy sausage casing, crispy fries, tangy spicy sauce, cool crunchy slaw. Eat with two hands and a fork standing by for fallout. Created by Virgil Whitmore at a Cleveland street stand in the 1940s; traditional at Hot Sauce Williams, Freddie's BBQ, and Seti's Polish Boys.
 
 ## Ingredients
 
@@ -76,7 +76,7 @@ The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signatur
 
 ### Stage 6 - Build (Cleveland Polish Boy order)
 1. Place a grilled kielbasa in each bun.
-2. A heap of warm French fries piled ON TOP of the kielbasa inside the bun (this is the structural signature - the fries are part of the sandwich, not a side).
+2. A heap of warm French fries piled ON TOP of the kielbasa inside the bun (this is the structural signature, the fries are part of the sandwich, not a side).
 3. A generous drizzle of Cleveland Stadium Mustard hot sauce over the fries.
 4. (Or, alternatively: a generous drizzle of BBQ sauce.)
 5. A generous heap of vinegar slaw on top of the fries and sauce.

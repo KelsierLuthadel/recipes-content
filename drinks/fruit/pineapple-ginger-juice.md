@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Pineapple and ginger sit together naturally - the sweet pineapple meets the bright ginger heat, lime juice ties them together with acid, a touch of honey rounds the edges. The result is a vivid yellow drink that drinks like a fresh juice but with a clean ginger snap on the back of the throat. Strain it through a fine sieve for the smooth juice-bar version, or leave the pulp in for a textured drink with body. Either way it's deeply hydrating and built for a hot afternoon or a slow morning. Used as the base for the Caribbean classic "Jamaican pineapple ginger drink" and in modern juice-bar cleanse menus across the West.
+Pineapple and ginger sit together naturally, the sweet pineapple meets the bright ginger heat, lime juice ties them together with acid, a touch of honey rounds the edges. The result is a vivid yellow drink that drinks like a fresh juice but with a clean ginger snap on the back of the throat. Strain it through a fine sieve for the smooth juice-bar version, or leave the pulp in for a textured drink with body. Either way it's deeply hydrating and built for a hot afternoon or a slow morning. Used as the base for the Caribbean classic "Jamaican pineapple ginger drink" and in modern juice-bar cleanse menus across the West.
 
 ## Ingredients
 
@@ -51,7 +51,7 @@ Pineapple and ginger sit together naturally - the sweet pineapple meets the brig
 1. Serve immediately.
 
 ## Notes
-- **Ripe pineapple is essential.** Tap the pineapple at the side - a hollow ripe-pineapple sound is right; a dull thud means it's under-ripe. The base should smell sweet; that means it's ready.
+- **Ripe pineapple is essential.** Tap the pineapple at the side, a hollow ripe-pineapple sound is right; a dull thud means it's under-ripe. The base should smell sweet; that means it's ready.
 - **Don't skip the core trim.** The tough central core of a pineapple is tough and gives the drink an off-putting fibrous texture even after blending. Trim it out.
 - **Salt pinch.** Amplifies sweetness; without it the drink can taste flat.
 - **Strain vs not.** Strained gives a clean juice-bar appearance; unstrained is rustic and has more body / fibre. Both are valid.

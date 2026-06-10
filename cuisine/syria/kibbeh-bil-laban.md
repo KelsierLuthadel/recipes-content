@@ -73,7 +73,7 @@ Kibbeh bil laban is the celebration kibbeh of Syrian and Lebanese tables: small 
 1. Hollow out with your index finger; rotate to thin and lengthen the walls.
 1. Spoon in 1 teaspoon of filling.
 1. Pinch closed at the top to a small point; smooth into a torpedo shape, 5-6 cm long.
-1. Repeat - you should get 20-24 torpedoes.
+1. Repeat, you should get 20-24 torpedoes.
 
 ### Stage 5 - Fry shells
 1. Heat the oil to 175°C.
@@ -98,7 +98,7 @@ Kibbeh bil laban is the celebration kibbeh of Syrian and Lebanese tables: small 
 ## Notes
 - **Fine bulgur grade #1:** Coarse bulgur won't blend into a workable paste; the kibbeh shell needs to be smooth and elastic.
 - **Yogurt stabiliser:** Egg white + cornflour + constant stirring. Skipping any one of these and your sauce splits.
-- **Hand-shape practice:** The first three or four kibbeh will tear or split. After that, the wrist motion clicks. The shell should be 3-4 mm thick - thinner cracks open in the fryer.
+- **Hand-shape practice:** The first three or four kibbeh will tear or split. After that, the wrist motion clicks. The shell should be 3-4 mm thick, thinner cracks open in the fryer.
 
 ## Storage
 - Fried kibbeh alone keep 2 days refrigerated; re-crisp in a hot oven.

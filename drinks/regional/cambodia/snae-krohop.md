@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Snae krohop ("lemongrass tea" in Khmer) is the household remedy-drink across Cambodia. Lemongrass grows abundantly in every Cambodian garden - fresh stalks pulled and trimmed, bruised with the flat of a knife to release their essential oils, simmered with sliced ginger and a touch of palm sugar. The result is a clear, bright golden tea with a citrus-grassy nose and a warm ginger finish. Cambodian households serve it for colds, for upset stomachs, for hot afternoons, and just because the kettle is on. It pairs especially well with Cambodian sweets and small biscuits at the end of a meal. The drink is closely related to Vietnamese lemongrass tea and Thai takrai water but distinct in its slightly higher ginger ratio and the use of palm sugar (not white sugar). Modern Phnom Penh cafés sometimes add a drizzle of honey or a squeeze of lime for the brighter version.
+Snae krohop ("lemongrass tea" in Khmer) is the household remedy-drink across Cambodia. Lemongrass grows abundantly in every Cambodian garden, fresh stalks pulled and trimmed, bruised with the flat of a knife to release their essential oils, simmered with sliced ginger and a touch of palm sugar. The result is a clear, bright golden tea with a citrus-grassy nose and a warm ginger finish. Cambodian households serve it for colds, for upset stomachs, for hot afternoons, and just because the kettle is on. It pairs especially well with Cambodian sweets and small biscuits at the end of a meal. The drink is closely related to Vietnamese lemongrass tea and Thai takrai water but distinct in its slightly higher ginger ratio and the use of palm sugar (not white sugar). Modern Phnom Penh cafés sometimes add a drizzle of honey or a squeeze of lime for the brighter version.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ Snae krohop ("lemongrass tea" in Khmer) is the household remedy-drink across Cam
 
 ### Stage 1 - Prep the lemongrass
 1. Trim the lemongrass: cut off the dry tops (the leafy ends) and the dry root ends, leaving the firm 15-20 cm stalk per piece.
-1. Bruise each stalk by smacking firmly with the flat of a heavy knife or rolling pin. The fibres should crack open along the length of the stalk - this releases the essential oils.
+1. Bruise each stalk by smacking firmly with the flat of a heavy knife or rolling pin. The fibres should crack open along the length of the stalk, this releases the essential oils.
 1. Cut each bruised stalk into 4-5 pieces.
 
 ### Stage 2 - Brew
@@ -53,7 +53,7 @@ Snae krohop ("lemongrass tea" in Khmer) is the household remedy-drink across Cam
 - **Skin-on ginger.** Don't bother peeling. The skin holds flavour and is removed at the strain.
 
 ## Variations
-- **Iced snae krohop.** Brew the same tea, sweeten while warm, cool then refrigerate. Serve over ice with a lime wedge - the Cambodian summer iced version.
+- **Iced snae krohop.** Brew the same tea, sweeten while warm, cool then refrigerate. Serve over ice with a lime wedge, the Cambodian summer iced version.
 - **With kaffir lime leaves.** Add 2 bruised kaffir lime leaves to the brewing pan; deeper citrus-floral aroma.
 - **With turmeric.** Add a 1 cm piece of fresh turmeric root (sliced) to the brewing pan; gives a faint yellow tint and earthy depth, sometimes used as an enhanced wellness tea.
 - **Cambodian "cold remedy" version.** Add 2 cloves and a 5 cm cinnamon stick to the brew; serve hot with a tablespoon of honey and a squeeze of lemon. The household winter cold cure.

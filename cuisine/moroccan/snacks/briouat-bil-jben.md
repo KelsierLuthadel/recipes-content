@@ -22,10 +22,10 @@ Briouat bil jben are Morocco's little cheese pastries: triangular warka or filo 
 - 15 g fresh mint (chopped)
 - 1 teaspoon ground cumin
 - ½ teaspoon ground black pepper
-- ¼ teaspoon salt (taste - feta may be salty enough)
+- ¼ teaspoon salt (taste, feta may be salty enough)
 
 ### Pastry
-- 18 sheets warka (or filo pastry, about 25 × 25 cm - cut filo to size if larger)
+- 18 sheets warka (or filo pastry, about 25 × 25 cm, cut filo to size if larger)
 - 2 tablespoons olive oil (for brushing the strips lightly)
 - 1 egg (large, beaten, for sealing)
 
@@ -34,7 +34,7 @@ Briouat bil jben are Morocco's little cheese pastries: triangular warka or filo 
 
 ### To serve
 - Lemon wedges
-- A drizzle of honey (optional - sounds odd, works beautifully)
+- A drizzle of honey (optional, sounds odd, works beautifully)
 
 ## Method
 

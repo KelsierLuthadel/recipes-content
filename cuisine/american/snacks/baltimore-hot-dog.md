@@ -39,7 +39,7 @@ The Baltimore hot dog (sometimes called a "bologna dog" or a "Maryland dog") is 
 ### Stage 1 - Fry the bologna
 1. Heat the oil in a wide pan over medium-high heat.
 2. Lay the bologna slices flat in the hot pan.
-3. The edges will curl up into a bowl shape - that's the right look; some Baltimore stands cut a small slit at the edge to control the curl.
+3. The edges will curl up into a bowl shape, that's the right look; some Baltimore stands cut a small slit at the edge to control the curl.
 4. Cook 2 minutes per side till the edges are deeply browned and crispy and the middle has slightly puffed.
 5. Remove to paper towels.
 
@@ -52,7 +52,7 @@ The Baltimore hot dog (sometimes called a "bologna dog" or a "Maryland dog") is 
 1. Lay each piece of fried bologna flat (or cup-shaped, depending on curl).
 2. Place a fried frankfurter inside.
 3. Wrap the bologna around the dog as tightly as the slight curl allows.
-4. The bologna doesn't need to fully encircle - partial wrapping is fine; it'll hold its shape in the bun.
+4. The bologna doesn't need to fully encircle, partial wrapping is fine; it'll hold its shape in the bun.
 
 ### Stage 4 - Toast the buns
 1. In the same pan, melt the butter.

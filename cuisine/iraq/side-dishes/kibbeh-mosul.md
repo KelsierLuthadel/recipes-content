@@ -65,7 +65,7 @@ Kibbeh Mosul is the baked-tray version of kibbeh from the northern Iraqi city of
 1. Wet your fingers; press the edges firmly to seal.
 
 ### Stage 5 - Score and bake
-1. With a sharp knife, score into diamonds (4 cuts horizontally, 4 cuts diagonally - wedge pieces 5 cm wide).
+1. With a sharp knife, score into diamonds (4 cuts horizontally, 4 cuts diagonally, wedge pieces 5 cm wide).
 1. Press a pine nut into the centre of each diamond (optional).
 1. Drizzle samna over the surface.
 1. Bake 30 minutes until deep gold.
@@ -79,7 +79,7 @@ Kibbeh Mosul is the baked-tray version of kibbeh from the northern Iraqi city of
 ## Notes
 - **Fine bulgur grade #1:** Coarse bulgur won't make a smooth shell. Look for the very fine grade at Middle Eastern shops.
 - **Ice water for paste:** Keeps the meat cold and gives a smooth elastic shell. Don't use warm water.
-- **Score before baking:** Cuts through the top layer only - easier to portion later without crushing.
+- **Score before baking:** Cuts through the top layer only, easier to portion later without crushing.
 
 ## Storage
 - Refrigerate 3 days; reheat at 180°C 10 minutes.

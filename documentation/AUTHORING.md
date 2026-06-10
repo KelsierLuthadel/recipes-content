@@ -72,19 +72,19 @@ This walks every recipe, inserts a `resources/<slug>.jpg` link if missing, and d
 
 ## Tags
 
-Tags are derived automatically by [`scripts/build-manifest.mjs`](../scripts/build-manifest.mjs) - you don't write them yourself. They're computed from:
+Tags are derived automatically by [`scripts/build-manifest.mjs`](../scripts/build-manifest.mjs): you don't write them yourself. They're computed from:
 
-- **Ingredients block** - diet tags (`vegetarian`, `vegan`, `gluten-free`, `dairy-free`, `spicy`), allergen tags (`gluten`, `dairy`, `eggs`, `tree-nuts`, `peanuts`, `soy`, `sesame`, `fish`, `shellfish`, `mustard`, `celery`, `garlic`), and protein tags (`chicken`, `beef`, `pork`, `lamb`, `duck`, `prawn`, `salmon`, `meat`, `fish`).
-- **Recipe title and ingredients** - `curry`, `complex`.
-- **Folder path** - `meals` (anything under `cuisine/`), `dessert`, `baking`, `sides`, `salsa`, `asian` (umbrella for South / South-East / East Asian cuisines), `spices`, `pastes`.
-- **Prep + cook time** - `quick` (≤30 minutes total), `complex` (>90 minutes).
-- **Method body** - `make-ahead`, `one-pan`, `no-cook`.
+- **Ingredients block**: diet tags (`vegetarian`, `vegan`, `gluten-free`, `dairy-free`, `spicy`), allergen tags (`gluten`, `dairy`, `eggs`, `tree-nuts`, `peanuts`, `soy`, `sesame`, `fish`, `shellfish`, `mustard`, `celery`, `garlic`), and protein tags (`chicken`, `beef`, `pork`, `lamb`, `duck`, `prawn`, `salmon`, `meat`, `fish`).
+- **Recipe title and ingredients**: `curry`, `complex`.
+- **Folder path**: `meals` (anything under `cuisine/`), `dessert`, `baking`, `sides`, `salsa`, `asian` (umbrella for South / South-East / East Asian cuisines), `spices`, `pastes`.
+- **Prep + cook time**: `quick` (≤30 minutes total), `complex` (>90 minutes).
+- **Method body**: `make-ahead`, `one-pan`, `no-cook`.
 
 If your recipe gets the wrong tags:
 
 - The detection scans the recipe **title** + the Ingredients block only (not the Method or Notes).
 - Common false positives have been guarded: "kidney beans", "mushroom mince", "oyster mushroom/sauce", "prawn cracker", "beef tomato", "Glamorgan/veggie/vegetarian/vegan sausages". If you're hitting a new false positive, edit the patterns in [`scripts/build-manifest.mjs`](../scripts/build-manifest.mjs) (`MEAT_PATTERNS`, `SEAFOOD_PATTERNS`, `ALLERGEN_PATTERNS`, `PROTEIN_PATTERNS`).
-- Wording your ingredient line slightly differently is often the fastest fix - `oyster mushroom` instead of `oyster, shiitake`, etc.
+- Wording your ingredient line slightly differently is often the fastest fix, `oyster mushroom` instead of `oyster, shiitake`, etc.
 
 ## Adding a new cuisine
 
@@ -103,8 +103,8 @@ The overview shows on the cuisine's category tile and at the top of its category
 
 Pairings are rule-based and live in JSON at the repo root:
 
-- [`wine-pairings.json`](../wine-pairings.json) - wines suggested for meals and desserts. Match by `tags`, `anyTags`, `titleAny`, plus `pathPrefix`.
-- [`side-pairings.json`](../side-pairings.json) - side-dish recipe slugs to suggest alongside a meal. Sides themselves don't get pairings (a side never suggests another side).
+- [`wine-pairings.json`](../wine-pairings.json): wines suggested for meals and desserts. Match by `tags`, `anyTags`, `titleAny`, plus `pathPrefix`.
+- [`side-pairings.json`](../side-pairings.json): side-dish recipe slugs to suggest alongside a meal. Sides themselves don't get pairings (a side never suggests another side).
 
 If a recipe slug listed in `side-pairings.json` doesn't exist, it's silently dropped at build time.
 
@@ -122,10 +122,10 @@ After adding or editing recipes, run these from the repo root:
 | `npm run doctor` | Before submitting a PR; periodically. | Lints recipes for missing fields, malformed metadata, broken image links, and other authoring issues. Catches things the build doesn't reject but that look broken on the site. |
 | `npm test` | Before submitting a PR. | Runs the unit tests for the parsers (time, scaling, routes, etc.). |
 | `node scripts/fetch-missing-images.mjs` | When recipes have no image yet. | Inserts `![Title](resources/<slug>.jpg)` links and bulk-fetches missing files from Pexels. Requires `PEXELS_API_KEY`. |
-| `npm run stamp` | **Just before a release.** Bump `package.json` first. | Rewrites every relative ES-module import in `docs/` to include `?v=<version>`. Without this, iOS Safari caches old inner module URLs and users see Frankenstein code after a release. Tests keep passing with stamped imports - `scripts/test-loader.mjs` strips `?v=` query strings during Node's resolution. |
+| `npm run stamp` | **Just before a release.** Bump `package.json` first. | Rewrites every relative ES-module import in `docs/` to include `?v=<version>`. Without this, iOS Safari caches old inner module URLs and users see Frankenstein code after a release. Tests keep passing with stamped imports, `scripts/test-loader.mjs` strips `?v=` query strings during Node's resolution. |
 | `npm run unstamp` | Rarely. | Removes `?v=` from imports if you want clean diffs while editing. Tests don't require it. |
 
-The CI workflow rebuilds the manifest automatically on push, so `docs/recipes.json` doesn't need to be committed - but locally `npm run build` lets you preview your changes against the site (`npm run dev` then open http://localhost:8000/).
+The CI workflow rebuilds the manifest automatically on push, so `docs/recipes.json` doesn't need to be committed, but locally `npm run build` lets you preview your changes against the site (`npm run dev` then open http://localhost:8000/).
 
 ### Release flow
 
@@ -148,7 +148,7 @@ The order matters: run tests **before** stamping (stamped imports break Node's m
 - [ ] Serves / Prep Time / Cook Time fields
 - [ ] Overview paragraph
 - [ ] Ingredients section (one item per `-` bullet)
-- [ ] Method section with `### Stage X - Name` sub-headings and `1.`-numbered steps
+- [ ] Method section with `### Stage X, Name` sub-headings and `1.`-numbered steps
 - [ ] Notes and Storage sections
 - [ ] Image saved to sibling `resources/` folder
 - [ ] If new cuisine: overview added to `categories.json`

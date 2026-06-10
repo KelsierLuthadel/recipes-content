@@ -2,7 +2,7 @@
 
 ![Gizzada](resources/gizzada.jpg)
 
-*Small Jamaican coconut tartlets - shortcrust pastry shells with a pinched, fluted edge, filled with a sticky, spiced coconut mixture cooked down with brown sugar, ginger, nutmeg and vanilla. Sometimes called "pinch-me-round" for the hand-pinched edge. A tea-time classic and a fixture at every Jamaican bakery.*
+*Small Jamaican coconut tartlets, shortcrust pastry shells with a pinched, fluted edge, filled with a sticky, spiced coconut mixture cooked down with brown sugar, ginger, nutmeg and vanilla. Sometimes called "pinch-me-round" for the hand-pinched edge. A tea-time classic and a fixture at every Jamaican bakery.*
 
 **Serves:** Makes 12 tarts
 
@@ -63,9 +63,9 @@ A fixture at every Jamaican bakery and tea trolley, these small coconut tarts go
 3. Serve at room temperature.
 
 ## Notes
-- **Pinching the edge:** The signature shape is achieved by hand-pinching the pastry up into a fluted wall. It does not need to be neat - the rustic, uneven edge is part of the look.
+- **Pinching the edge:** The signature shape is achieved by hand-pinching the pastry up into a fluted wall. It does not need to be neat, the rustic, uneven edge is part of the look.
 - **Don't overcook the filling:** It should be thick but still spreadable. Cook too long and it sets hard like toffee before you can portion it.
-- **Fresh ginger:** Gives a sharp, slightly hot note that lifts the sweetness. Don't substitute ground ginger - it's not the same.
+- **Fresh ginger:** Gives a sharp, slightly hot note that lifts the sweetness. Don't substitute ground ginger, it's not the same.
 
 ## Variations
 **Rum gizzada:** Add 1 tablespoon dark rum to the filling at the end.
@@ -76,5 +76,5 @@ Serve with: Hot Jamaican coffee or tea, or a glass of cold milk. Also lovely wit
 
 ## Storage
 - Keeps 4 days in an airtight tin at room temperature.
-- Pastry softens slightly after day 2 - still delicious.
+- Pastry softens slightly after day 2, still delicious.
 - Freezes 1 month; defrost at room temperature.

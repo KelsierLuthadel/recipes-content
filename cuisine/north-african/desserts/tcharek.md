@@ -66,7 +66,7 @@ The Maghreb's Eve's crescents, the small pale moons that turn up at every Eid te
 1. Place on the tray.
 
 ### Stage 4 - Bake
-1. Bake 16-18 minutes until just-cooked but still pale (don't brown - tcharek should look creamy-white).
+1. Bake 16-18 minutes until just-cooked but still pale (don't brown, tcharek should look creamy-white).
 1. Cool on the tray 5 minutes.
 
 ### Stage 5 - Syrup
@@ -76,7 +76,7 @@ The Maghreb's Eve's crescents, the small pale moons that turn up at every Eid te
 
 ### Stage 6 - Dip and coat
 1. Spread the 100 g icing sugar on a wide plate.
-1. One at a time: lift a slightly-cooled tcharek; dip briefly into the warm syrup (just a 3-second dunk - the dough shouldn't soak through).
+1. One at a time: lift a slightly-cooled tcharek; dip briefly into the warm syrup (just a 3-second dunk, the dough shouldn't soak through).
 1. Lift out; let excess drip; immediately roll in the icing sugar to coat heavily.
 1. Place on a wire rack to set.
 
@@ -93,4 +93,4 @@ The Maghreb's Eve's crescents, the small pale moons that turn up at every Eid te
 ## Storage
 - Keeps 2 weeks at cool room temperature in a sealed tin.
 - The sugar coat softens slightly on day 2 (still good).
-- Don't refrigerate - the dough goes hard and the sugar weeps.
+- Don't refrigerate, the dough goes hard and the sugar weeps.

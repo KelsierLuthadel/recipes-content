@@ -53,13 +53,13 @@ The Japanese sesame side that turns up in every bento box and beside almost ever
 ### Stage 3 - Toast the sesame
 1. Place sesame seeds in a small dry frying pan.
 1. Toast over medium heat 2-3 minutes, shaking constantly, until the seeds are slightly darker and very fragrant (some may pop).
-1. Tip onto a plate to cool - they go from gold to burnt very quickly.
+1. Tip onto a plate to cool, they go from gold to burnt very quickly.
 
 ### Stage 4 - Grind the dressing
 1. Place 3 tablespoons of the toasted seeds (reserve 1 tablespoon for garnish) in a suribachi or mini food processor.
-1. Grind until you have a coarse-paste consistency - most seeds are crushed and oily, but some intact seeds for texture are good. Don't over-grind to butter.
+1. Grind until you have a coarse-paste consistency, most seeds are crushed and oily, but some intact seeds for texture are good. Don't over-grind to butter.
 1. Stir in soy sauce, sugar, mirin, rice vinegar (if using) and sake (if using).
-1. The dressing should be thick but spoonable - like a thick tahini.
+1. The dressing should be thick but spoonable, like a thick tahini.
 
 ### Stage 5 - Toss
 1. Tip the squeezed vegetable into a wide bowl.
@@ -77,11 +77,11 @@ The Japanese sesame side that turns up in every bento box and beside almost ever
 1. Eat at room temperature, alongside rice and other dishes.
 
 ## Notes
-- **Squeeze the spinach hard:** This is the single most common goma-ae failure. Wet spinach dilutes the dressing and makes the dish soggy. After draining, take handfuls and squeeze with both hands - you should see a noticeable amount of water come out.
+- **Squeeze the spinach hard:** This is the single most common goma-ae failure. Wet spinach dilutes the dressing and makes the dish soggy. After draining, take handfuls and squeeze with both hands, you should see a noticeable amount of water come out.
 - **Coarse paste, not butter:** The texture is part of the dish. Grinding to butter consistency gives a smooth dressing that lacks character. Aim for "mostly crushed with some seeds intact".
 - **Variations:** Goma-ae works with all green vegetables. Spinach is the most common in Japanese homes; green beans (sayaingen no goma-ae) is the most common in restaurants; asparagus and broccoli are Western adaptations that work just as well.
 
 ## Storage
 - Best within 4 hours of dressing.
 - Refrigerate 2 days; the dressing thickens further and the colour darkens but the flavour holds.
-- The dressing alone (without vegetable) keeps refrigerated 1 week - use as a salad dressing, drizzle on grilled fish, or stir into rice.
+- The dressing alone (without vegetable) keeps refrigerated 1 week, use as a salad dressing, drizzle on grilled fish, or stir into rice.

@@ -16,7 +16,7 @@ The Japanese rice ball that lives in every convenience-store fridge, every bento
 ## Ingredients
 
 ### Rice
-- 400 g short-grain Japanese rice (sushi rice - Koshihikari, Calrose, or similar; NOT basmati / jasmine / long-grain)
+- 400 g short-grain Japanese rice (sushi rice, Koshihikari, Calrose, or similar; NOT basmati / jasmine / long-grain)
 - 500 ml water (a 1:1 ¼ ratio rice to water)
 - 1 teaspoon salt (to fold in after cooking, optional)
 
@@ -38,7 +38,7 @@ The Japanese rice ball that lives in every convenience-store fridge, every bento
 ### To shape and wrap
 - Cold water (for wetting hands)
 - 1 teaspoon flaky salt (for the hands)
-- 4 sheets of nori (sold at Japanese / Asian shops - sushi-grade)
+- 4 sheets of nori (sold at Japanese / Asian shops, sushi-grade)
 - 1 teaspoon toasted white sesame seeds (optional, for sprinkling)
 - 1 teaspoon furikake (rice seasoning sprinkles, optional)
 
@@ -50,8 +50,8 @@ The Japanese rice ball that lives in every convenience-store fridge, every bento
 1. Drain fully; let rest 15 minutes (lets each grain hydrate evenly).
 1. Tip into a heavy lidded saucepan; add the 500 ml water.
 1. Bring to a boil over medium heat; immediately reduce to the lowest possible setting; cover tightly.
-1. Cook 15 minutes - don't peek.
-1. Off heat; rest covered another 10 minutes (essential - the residual steam finishes cooking).
+1. Cook 15 minutes, don't peek.
+1. Off heat; rest covered another 10 minutes (essential, the residual steam finishes cooking).
 1. Fluff with a wooden paddle / spatula; tip onto a wide tray to cool slightly to warm (not hot).
 
 ### Stage 2 - Prepare fillings (do whichever you're making)
@@ -72,7 +72,7 @@ The Japanese rice ball that lives in every convenience-store fridge, every bento
 1. With the thumb of the other hand, make a small dent in the centre.
 1. Drop 1 heaped teaspoon of filling into the dent.
 1. Fold the rice up and around the filling, enclosing it completely (re-wet and re-salt hands if rice is sticking).
-1. With both palms, press the rice into a triangle: cup one palm to form the bottom edge, use the other palm to form the top corners. Aim for a flat triangular tablet shape, with the filling fully hidden inside. Apply firm but not crushing pressure - the rice should hold together but each grain should still be visible (not mashed).
+1. With both palms, press the rice into a triangle: cup one palm to form the bottom edge, use the other palm to form the top corners. Aim for a flat triangular tablet shape, with the filling fully hidden inside. Apply firm but not crushing pressure, the rice should hold together but each grain should still be visible (not mashed).
 1. Repeat for all 8 onigiri.
 
 ### Stage 5 - Wrap with nori
@@ -90,11 +90,11 @@ The Japanese rice ball that lives in every convenience-store fridge, every bento
 
 ## Notes
 - **Short-grain Japanese rice only:** Long-grain rice (basmati, jasmine, American long-grain) doesn't stick properly and won't hold the onigiri shape. Sushi rice or Calrose-style short-grain is essential.
-- **Warm rice, wet hands:** Hot rice burns; cold rice won't compress. The sweet spot is warm - about 50-60°C. Wet hands prevent the sticky rice from clinging to skin; dry hands give a frustrating mess.
+- **Warm rice, wet hands:** Hot rice burns; cold rice won't compress. The sweet spot is warm, about 50-60°C. Wet hands prevent the sticky rice from clinging to skin; dry hands give a frustrating mess.
 - **Don't over-press:** Onigiri should hold together when picked up, but if you squeeze too hard the rice becomes a paste. Aim for firm-but-not-crushed.
 
 ## Storage
 - Best within 4 hours of making, at room temperature.
 - Wrap individually in cling film; carry in a lunch box.
-- Don't refrigerate - short-grain Japanese rice hardens unappealingly in the fridge. If you must, store wrapped in cling film and bring fully to room temperature before eating.
+- Don't refrigerate, short-grain Japanese rice hardens unappealingly in the fridge. If you must, store wrapped in cling film and bring fully to room temperature before eating.
 - Freeze cooked rice in portions; defrost and re-warm in a steamer if making future onigiri.

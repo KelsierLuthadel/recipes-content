@@ -11,7 +11,7 @@
 **Cook Time:** 1.5 hours
 
 ## Overview
-Ajvar (pronounced "EYE-var") is the Balkan condiment that defines Macedonian cooking - a thick, dark red, smoky relish made from roasted red bell peppers and aubergines. The construction: large red bell peppers (Macedonian capia or American red bells) are roasted whole till the skins blacken; aubergines are roasted alongside; both are peeled while warm; the flesh is finely chopped or blended; slow-cooked in sunflower oil with garlic, vinegar, salt and a touch of chilli till thick (90 minutes minimum). Sealed in jars for winter use. Eat daily across Macedonia: on bread, with grilled meat, alongside cheese, in stuffed peppers.
+Ajvar (pronounced "EYE-var") is the Balkan condiment that defines Macedonian cooking, a thick, dark red, smoky relish made from roasted red bell peppers and aubergines. The construction: large red bell peppers (Macedonian capia or American red bells) are roasted whole till the skins blacken; aubergines are roasted alongside; both are peeled while warm; the flesh is finely chopped or blended; slow-cooked in sunflower oil with garlic, vinegar, salt and a touch of chilli till thick (90 minutes minimum). Sealed in jars for winter use. Eat daily across Macedonia: on bread, with grilled meat, alongside cheese, in stuffed peppers.
 
 ## Ingredients
 - 2 kg red bell peppers (or Macedonian capia peppers)

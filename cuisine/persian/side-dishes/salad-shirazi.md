@@ -2,7 +2,7 @@
 
 ![Salad Shirazi](resources/salad-shirazi.jpg)
 
-*Persia's everyday cucumber-and-tomato salad, named for the city of Shiraz: tomato, cucumber and onion finely diced, dressed with lime juice, olive oil and dried mint. Eats next to kabab, fesenjan, ghormeh sabzi - anything from the Persian table. The dice is small, almost like a relish; the dried mint is the signature.*
+*Persia's everyday cucumber-and-tomato salad, named for the city of Shiraz: tomato, cucumber and onion finely diced, dressed with lime juice, olive oil and dried mint. Eats next to kabab, fesenjan, ghormeh sabzi, anything from the Persian table. The dice is small, almost like a relish; the dried mint is the signature.*
 
 **Serves:** 4
 
@@ -49,7 +49,7 @@ Salad shirazi is named for Shiraz and turns up next to almost everything on a Pe
 
 ## Notes
 - **Dried mint, not fresh alone:** Dried mint is what gives the salad its signature flavour. Fresh mint adds, but isn't a substitute.
-- **Small dice:** Salad Shirazi is finer than Western chopped salads - small cubes coat in the dressing properly. Knife work matters.
+- **Small dice:** Salad Shirazi is finer than Western chopped salads, small cubes coat in the dressing properly. Knife work matters.
 - **Eat fresh:** Won't keep beyond 2 hours; the cucumbers and tomatoes weep and the salad goes watery.
 
 ## Storage

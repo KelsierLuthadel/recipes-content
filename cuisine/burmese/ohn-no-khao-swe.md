@@ -56,7 +56,7 @@ Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao
 1. Lift the chicken out. When cool enough to handle, shred the meat off the bones; discard skin and bones.
 
 ### Stage 2 - Build the soup
-1. Strain the broth into a jug (you should have about 1.2 litres - top up with hot water if short).
+1. Strain the broth into a jug (you should have about 1.2 litres, top up with hot water if short).
 1. Wipe the pot; return the strained broth.
 1. Add the coconut milk and fish sauce; bring to a simmer.
 
@@ -79,9 +79,9 @@ Myanmar's coconut-chicken noodle soup, the dish closest in spirit to a Thai khao
 1. Squeeze in the lime; mix it all together; eat.
 
 ## Notes
-- **Garnishes are the dish:** Don't skip the toppings - they're not optional. The contrast of soft soup, fresh raw onion, crispy fried shallot, sharp lime is what makes this Burmese rather than generic chicken noodle.
-- **Gram flour thickener:** Gives the broth a body different to roux or cornflour - slightly grainy, deeply savoury. Chickpea flour and gram flour are the same thing.
-- **Substitutes:** Yellow egg noodles are ideal. Thin Chinese wheat noodles work. Don't use rice noodles - the broth won't cling.
+- **Garnishes are the dish:** Don't skip the toppings, they're not optional. The contrast of soft soup, fresh raw onion, crispy fried shallot, sharp lime is what makes this Burmese rather than generic chicken noodle.
+- **Gram flour thickener:** Gives the broth a body different to roux or cornflour, slightly grainy, deeply savoury. Chickpea flour and gram flour are the same thing.
+- **Substitutes:** Yellow egg noodles are ideal. Thin Chinese wheat noodles work. Don't use rice noodles, the broth won't cling.
 
 ## Storage
 - Soup and chicken keep 3 days refrigerated.

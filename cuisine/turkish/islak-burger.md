@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 30 minutes steaming)
 
 ## Overview
-The islak burger ("wet burger" in Turkish) is the iconic Istanbul late-night street food, sold from glass-fronted steam cases at the city's most famous fast-food stalls in Taksim Square (Kızılkayalar has been making them since 1965; the queue at 2am is legendary): small bun-sized burgers (each about 12 cm wide, 60 g patty) of seasoned ground beef tucked into a small soft white bun, then bathed in a buttery garlic-and-tomato sauce and stacked into a covered steam case where the heat and humidity slowly saturate the bun till it's soft, glossy and dripping with sauce. The result: not a burger you eat with your hands without getting messy, not a sandwich, something in between - soft, garlicky, slightly sweet from the tomato, with the umami-rich beef patty almost dissolving into the sauce-soaked bread. Eat in two or three bites, with one or two friends after a long night.
+The islak burger ("wet burger" in Turkish) is the iconic Istanbul late-night street food, sold from glass-fronted steam cases at the city's most famous fast-food stalls in Taksim Square (Kızılkayalar has been making them since 1965; the queue at 2am is legendary): small bun-sized burgers (each about 12 cm wide, 60 g patty) of seasoned ground beef tucked into a small soft white bun, then bathed in a buttery garlic-and-tomato sauce and stacked into a covered steam case where the heat and humidity slowly saturate the bun till it's soft, glossy and dripping with sauce. The result: not a burger you eat with your hands without getting messy, not a sandwich, something in between, soft, garlicky, slightly sweet from the tomato, with the umami-rich beef patty almost dissolving into the sauce-soaked bread. Eat in two or three bites, with one or two friends after a long night.
 
 ## Ingredients
 
@@ -43,7 +43,7 @@ The islak burger ("wet burger" in Turkish) is the iconic Istanbul late-night str
 - 1 ½ teaspoons fine sea salt
 - ½ teaspoon ground black pepper
 - 200 ml hot water (or beef stock)
-- 100 ml olive oil (the sauce gets generous oil - the surface gloss is the look)
+- 100 ml olive oil (the sauce gets generous oil, the surface gloss is the look)
 
 ### To serve
 - Cold ayran (Turkish yogurt drink) or Coca-Cola

@@ -33,8 +33,8 @@ Chile's everyday bread, the small crusty roll with four lobes that pulls apart c
 ### Stage 2 - Shape
 1. Knock back; divide into 16 small pieces (about 50 g each).
 1. Roll each piece into a tight ball.
-1. Pair the balls - place two side-by-side, slightly touching.
-1. Press a chopstick or the side of a thin wooden spoon firmly down the middle, then perpendicular across - making a deep cross-shaped score that almost (but not quite) divides each ball into 4 segments.
+1. Pair the balls, place two side-by-side, slightly touching.
+1. Press a chopstick or the side of a thin wooden spoon firmly down the middle, then perpendicular across, making a deep cross-shaped score that almost (but not quite) divides each ball into 4 segments.
 1. Place on a lined baking tray, leaving 4 cm between each pair.
 1. Cover loosely; rise 25 minutes.
 
@@ -46,10 +46,10 @@ Chile's everyday bread, the small crusty roll with four lobes that pulls apart c
 1. Just before putting the bread in, pour 200 ml of hot water into the empty tray on the bottom (creates steam).
 1. Place the bread tray on the middle rack.
 1. Bake 20-22 minutes until deep gold and crusty.
-1. Tap the bottom - should sound hollow.
+1. Tap the bottom, should sound hollow.
 
 ### Stage 5 - Cool
-1. Cool 10 minutes on a wire rack - the crust crackles audibly.
+1. Cool 10 minutes on a wire rack, the crust crackles audibly.
 
 ### Stage 6 - Serve
 1. Eat warm. Split along the score lines (the 4 segments pull apart) and butter generously.
@@ -57,9 +57,9 @@ Chile's everyday bread, the small crusty roll with four lobes that pulls apart c
 ## Notes
 - **Lean dough:** No sugar, no fat. Marraqueta's identity is the crispy crust and chewy crumb of a plain bread. Don't enrich.
 - **Steam matters:** The hot-water tray at the bottom gives a steamy oven environment for the first few minutes, which lets the crust set thin and crackly.
-- **The four-segment shape:** It's iconic and functional - pulls apart into 4 small bread portions, perfect for two people sharing.
+- **The four-segment shape:** It's iconic and functional, pulls apart into 4 small bread portions, perfect for two people sharing.
 
 ## Storage
-- Eat fresh within 6 hours - marraqueta stales fast.
+- Eat fresh within 6 hours, marraqueta stales fast.
 - Refresh in a hot oven 3 minutes.
 - Freeze 1 month; toast from frozen.

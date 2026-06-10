@@ -23,7 +23,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 - 500 g smoked pork ribs (slabs of smoked spare ribs, cut into individual ribs)
 - 500 g fresh pork shoulder (cubed 4 cm)
 - 200 g smoked bacon (in one piece, cubed)
-- Optional: 1 pig's ear (cleaned, blanched) + 1 pig's snout + 2 trotters - these add collagen and authenticity; skip if squeamish
+- Optional: 1 pig's ear (cleaned, blanched) + 1 pig's snout + 2 trotters, these add collagen and authenticity; skip if squeamish
 
 ### Aromatics
 - 2 large onions (finely diced)
@@ -38,7 +38,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 ### To serve (essential accompaniments)
 - 600 g white long-grain rice (cooked)
 - 1 bunch couve à mineira (collard greens), finely shredded and sautéed with garlic and bacon fat
-- 200 g farofa (toasted cassava flour with bacon and onion - see [farofa recipe](side-dishes/farofa.md))
+- 200 g farofa (toasted cassava flour with bacon and onion, see [farofa recipe](side-dishes/farofa.md))
 - 2 oranges (peeled and segmented)
 - 1 small red onion (very thinly sliced)
 - A bottle of pinga (cachaça) or several cold beers
@@ -73,7 +73,7 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 1. Return all the browned meats to the pot.
 2. Add the carne seca, smoked ribs, and (if using) the pig parts.
 3. Add the drained beans.
-4. Cover with 3 litres of cold water - the level should be 5 cm above the contents.
+4. Cover with 3 litres of cold water, the level should be 5 cm above the contents.
 5. Bring to a gentle simmer (don't boil hard; you want low slow cooking).
 6. Reduce heat; cover with the lid ajar.
 
@@ -106,17 +106,17 @@ Feijoada is Brazil's national dish, eaten across all regions but particularly an
 - **Variety of pork cuts is the key:** more variety = more depth. Don't reduce to just one type of pork.
 - **Long slow simmer (3-4 hours):** undercooked feijoada has tough beans and meat. Don't rush.
 - **Desalt the carne seca:** if you don't, the whole pot is over-salted.
-- **All the accompaniments:** rice, collards, farofa, orange, raw onion - feijoada without the spread is incomplete.
+- **All the accompaniments:** rice, collards, farofa, orange, raw onion, feijoada without the spread is incomplete.
 - **Saturday lunch:** the traditional day in Brazil. Don't make for a quick Tuesday dinner; this is a slow Saturday affair.
 
 ## Variations
-**Feijoada light (modern, less pork):** use only pork shoulder, smoked sausage, and bacon - lighter, more weeknight-friendly. Less authentic.
+**Feijoada light (modern, less pork):** use only pork shoulder, smoked sausage, and bacon, lighter, more weeknight-friendly. Less authentic.
 **Vegetarian feijoada:** swap all pork for smoked tofu, mushrooms, and ½ teaspoon liquid smoke; surprisingly satisfying. Brazilian vegetarian restaurants serve this.
 **Feijão tropeiro variant:** the Minas Gerais version mixes beans with sausage, eggs, kale and farofa as a one-pan dish. Lighter than feijoada.
 **Feijoada with cachaça reduction:** finish with 50 ml cachaça stirred in at the end; the alcohol burns off and leaves a smoky-rum note.
 **Pressure cooker version:** use a pressure cooker (45 minutes high pressure) for a 90-minute total cook. Faster but lacks some depth.
-**Smoked-paprika feijoada:** add 2 teaspoons smoked paprika in stage 4 - modernised, less traditional.
-**Beef-only feijoada:** swap all pork for beef chuck, smoked beef sausage, and smoked beef ribs - for halal/non-pork eaters.
+**Smoked-paprika feijoada:** add 2 teaspoons smoked paprika in stage 4, modernised, less traditional.
+**Beef-only feijoada:** swap all pork for beef chuck, smoked beef sausage, and smoked beef ribs, for halal/non-pork eaters.
 
 ## Serving
 At a Saturday-afternoon Brazilian family lunch (the traditional setting) · at a Rio de Janeiro botequim (corner restaurant) on Saturdays · at a Brazilian-Portuguese wedding lunch · at a Brazilian carnival party · at a Brazilian football-watching gathering · at a Brazilian birthday celebration · at home with friends for a long lazy weekend afternoon · at a New Year's Day brunch.

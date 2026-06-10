@@ -5,7 +5,7 @@
 *The deliberately-crystallised confection. Sugar cooked to soft ball, cooled untouched, then beaten until it sets in a smooth-fine-grained crystal structure. The texture is short and creamy; the flavour comes from the sugar and dairy plus added vanilla, chocolate or nuts.*
 
 ## Overview
-Fudge is the opposite of toffee. Where toffee depends on preventing all crystallisation, fudge depends on encouraging crystallisation - just with the right size and quantity of crystals. The "fine-grained" texture of good fudge is millions of tiny sugar crystals separated by a thin film of butter and dairy.
+Fudge is the opposite of toffee. Where toffee depends on preventing all crystallisation, fudge depends on encouraging crystallisation, just with the right size and quantity of crystals. The "fine-grained" texture of good fudge is millions of tiny sugar crystals separated by a thin film of butter and dairy.
 
 The technique is simple but specific:
 
@@ -24,7 +24,7 @@ The beating is the magic step. It shears the supersaturated syrup, nucleating ma
 - 200 ml double cream
 - 100 ml whole milk
 - 50 g unsalted butter
-- 2 tbsp golden syrup (or light corn syrup) - controls crystallisation
+- 2 tbsp golden syrup (or light corn syrup): controls crystallisation
 - 1 tsp vanilla extract
 - 1/2 tsp salt
 
@@ -34,11 +34,11 @@ The beating is the magic step. It shears the supersaturated syrup, nucleating ma
 2. **Combine sugar, cream, milk, butter and golden syrup** in a heavy saucepan.
 3. **Stir over medium heat** until sugar is fully dissolved and butter melted. Bring to a simmer.
 4. **Stop stirring** once the sugar is dissolved. Cook to 113-115 C (soft ball stage). This takes 15-20 minutes.
-5. **Remove from heat.** Add vanilla and salt - but do not stir them in yet.
-6. **Pour onto a clean cold surface** - a granite slab if you have one, or into a clean cool baking pan. Do not scrape the saucepan; pour what flows out cleanly.
+5. **Remove from heat.** Add vanilla and salt, but do not stir them in yet.
+6. **Pour onto a clean cold surface**: a granite slab if you have one, or into a clean cool baking pan. Do not scrape the saucepan; pour what flows out cleanly.
 7. **Cool without stirring** until the mixture reaches 43-50 C (45 C is the sweet spot). This takes 30-45 minutes at room temperature. The surface should be cool to the touch but the mass still pourable underneath.
-8. **Beat vigorously** with a wooden spoon or paddle. The mixture starts glossy and translucent; after 5-10 minutes of beating it goes from glossy to opaque to thicken. This is the crystallisation happening - small crystals forming in supersaturated solution.
-9. **The moment it becomes opaque and thick** - it will look like cake batter - pour into the prepared tin.
+8. **Beat vigorously** with a wooden spoon or paddle. The mixture starts glossy and translucent; after 5-10 minutes of beating it goes from glossy to opaque to thicken. This is the crystallisation happening, small crystals forming in supersaturated solution.
+9. **The moment it becomes opaque and thick**: it will look like cake batter, pour into the prepared tin.
 10. **Smooth the top.** Press greaseproof paper directly onto the surface.
 11. **Cool to room temperature** 2-4 hours, then refrigerate to firm fully.
 12. **Cut into squares** with a sharp knife.
@@ -47,8 +47,8 @@ The beating phase is the difference between a successful batch and a failed one.
 
 ### Sign It Is Done Right
 
-- The fudge sets to a firm but yielding texture - holds its shape but yields to a fingernail.
-- The texture is fine-grained, almost creamy - if you can detect individual crystals, they are too large.
+- The fudge sets to a firm but yielding texture, holds its shape but yields to a fingernail.
+- The texture is fine-grained, almost creamy, if you can detect individual crystals, they are too large.
 - The colour is matte, not glossy.
 - Cuts cleanly with a sharp knife.
 
@@ -163,9 +163,9 @@ The refrigerated fudge needs to come to room temperature before serving (about 3
 
 The beating mechanically shears the syrup, breaking the surface tension that holds the supersaturated state. Once broken, sucrose crystals begin to form at multiple points simultaneously. The simultaneous nucleation produces many small crystals rather than a few large ones. The many small crystals are what give fudge its fine-grained, smooth texture.
 
-A batch that is not beaten will eventually crystallise (the supersaturation is unstable indefinitely) but will produce a few large crystals over hours - resulting in grainy, sandy texture.
+A batch that is not beaten will eventually crystallise (the supersaturation is unstable indefinitely) but will produce a few large crystals over hours, resulting in grainy, sandy texture.
 
-A batch that is beaten while still hot will not nucleate properly - the syrup is too thin and the crystals do not stay attached. The result is runny.
+A batch that is beaten while still hot will not nucleate properly, the syrup is too thin and the crystals do not stay attached. The result is runny.
 
 A batch that is beaten at the right temperature window (43-50 C) crystallises evenly and quickly. The window matters.
 

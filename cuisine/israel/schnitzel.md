@@ -63,4 +63,4 @@ Schnitzel is the Eastern European Jewish breaded chicken cutlet that became the 
 
 ## Storage
 - Best fresh, eaten warm. Re-crisp at 200°C 5 minutes.
-- Refrigerate 2 days max - the coating softens.
+- Refrigerate 2 days max, the coating softens.

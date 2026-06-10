@@ -36,7 +36,7 @@ American Southern diner food and a close cousin of Salisbury steak: browned grou
 
 ### Stage 1 - Mix and rest
 1. Combine the ground beef with the scallions, Cajun seasoning, Sazon, garlic paste, Worcestershire, maple syrup and dried minced onion.
-1. Mix gently with the hands until just combined - don't overwork.
+1. Mix gently with the hands until just combined, don't overwork.
 1. Refrigerate 1-24 hours.
 
 ### Stage 2 - Form and brown

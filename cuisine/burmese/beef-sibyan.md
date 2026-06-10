@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes
 
 ## Overview
-A Burmese curry from the country's Indian-origin community, sitting somewhere between a Madras and a Burmese ohn-no in spice profile. You marinate chunks of beef chuck or shin in turmeric, fish sauce and salt while you fry onions in oil until they're deep brown - that long onion fry is the foundation. The beef browns in the same oil, then ginger-garlic paste, paprika and chilli powder go in, then tomato and water turn it into a stew. Two hours of slow simmer until the meat falls apart at a fork. The signature finish is the see byan, a deep red-orange oil slick that rises to the top of the curry as it reduces, which is what the dish is named for. Eat with rice or paratha, and a small bowl of pickled vegetable on the side.
+A Burmese curry from the country's Indian-origin community, sitting somewhere between a Madras and a Burmese ohn-no in spice profile. You marinate chunks of beef chuck or shin in turmeric, fish sauce and salt while you fry onions in oil until they're deep brown, that long onion fry is the foundation. The beef browns in the same oil, then ginger-garlic paste, paprika and chilli powder go in, then tomato and water turn it into a stew. Two hours of slow simmer until the meat falls apart at a fork. The signature finish is the see byan, a deep red-orange oil slick that rises to the top of the curry as it reduces, which is what the dish is named for. Eat with rice or paratha, and a small bowl of pickled vegetable on the side.
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ A Burmese curry from the country's Indian-origin community, sitting somewhere be
 - 2 teaspoons ground turmeric (split)
 - 2 tablespoons fish sauce
 - 1 ½ teaspoons salt (added later)
-- 8 tablespoons vegetable oil (more than feels right - this is the dish)
+- 8 tablespoons vegetable oil (more than feels right, this is the dish)
 - 3 onions (large, chopped)
 - 8 garlic cloves (crushed)
 - 1 large thumb fresh ginger (grated)
@@ -58,11 +58,11 @@ A Burmese curry from the country's Indian-origin community, sitting somewhere be
 1. Cover; cook on the lowest heat 2 hours, stirring every 30 minutes, until the meat shreds.
 
 ### Stage 6 - Si byan
-1. Uncover; raise heat to medium. Cook 15-20 minutes - the sauce reduces and the oil rises to the surface in a dark red-orange slick.
+1. Uncover; raise heat to medium. Cook 15-20 minutes, the sauce reduces and the oil rises to the surface in a dark red-orange slick.
 1. Taste; adjust salt and fish sauce.
 
 ### Stage 7 - Serve
-1. Rest 10 minutes - allowing the oil to settle on top.
+1. Rest 10 minutes, allowing the oil to settle on top.
 1. Plate with the oil layer visible. Eat over rice with raw cucumber.
 
 ## Notes

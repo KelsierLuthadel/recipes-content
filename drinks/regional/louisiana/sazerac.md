@@ -16,7 +16,7 @@ The Sazerac is the official cocktail of New Orleans and Louisiana, traditionally
 The recipe sounds simple, but two things are easy to get wrong. The absinthe is a rinse, not an ingredient; the glass is coated and the excess discarded. And the drink itself is built and stirred in a separate mixing glass, then strained into the prepared serving glass. Skipping the rinse-and-pour gives you something fine but not a Sazerac.
 
 ## Ingredients
-- 60 ml rye whiskey (Sazerac, Rittenhouse, Old Overholt - all classic choices)
+- 60 ml rye whiskey (Sazerac, Rittenhouse, Old Overholt, all classic choices)
 - 1 sugar cube (or ½ tsp white sugar)
 - 3 dashes Peychaud's bitters
 - 1 dash Angostura bitters (optional but classic)

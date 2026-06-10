@@ -30,7 +30,7 @@ Shish barak is the kind of dish Palestinian families gather around an afternoon 
 - ½ teaspoon ground cinnamon
 - 1 teaspoon salt
 - ½ teaspoon black pepper
-- 1 tablespoon pine nuts (toasted, finely chopped - optional)
+- 1 tablespoon pine nuts (toasted, finely chopped, optional)
 
 ### Yogurt sauce
 - 800 g full-fat plain yogurt
@@ -42,7 +42,7 @@ Shish barak is the kind of dish Palestinian families gather around an afternoon 
 ### Garlic-mint finish
 - 3 tablespoons unsalted butter
 - 6 garlic cloves (sliced thin)
-- 2 tablespoons fresh mint (chopped - or 1 tablespoon dried mint)
+- 2 tablespoons fresh mint (chopped, or 1 tablespoon dried mint)
 - 1 teaspoon Aleppo pepper
 
 ### To serve
@@ -75,7 +75,7 @@ Shish barak is the kind of dish Palestinian families gather around an afternoon 
 1. Re-roll scraps once.
 
 ### Stage 4 - Bake the dumplings
-1. Bake 10-12 minutes - just until set and very pale gold (not deeply browned).
+1. Bake 10-12 minutes, just until set and very pale gold (not deeply browned).
 1. This step is what gives shish barak its slightly chewy, distinct character. Don't skip it.
 
 ### Stage 5 - Yogurt sauce
@@ -84,14 +84,14 @@ Shish barak is the kind of dish Palestinian families gather around an afternoon 
 1. Whisk in the egg white (or cornstarch slurry).
 1. Add 200 ml warm water; whisk to a pourable consistency (like single cream).
 1. Place over medium-low heat.
-1. Whisk CONSTANTLY in one direction (don't stop until it boils - yogurt splits when you stop stirring).
+1. Whisk CONSTANTLY in one direction (don't stop until it boils, yogurt splits when you stop stirring).
 1. Bring just to a low simmer; cook 5 minutes whisking, until very slightly thickened.
 1. Reduce to the lowest heat.
 1. Add salt and white pepper.
 
 ### Stage 6 - Combine
 1. Add the baked dumplings to the warm yogurt sauce.
-1. Heat through 5 minutes - DON'T boil; just keep it warm enough to soak through the dumplings.
+1. Heat through 5 minutes, DON'T boil; just keep it warm enough to soak through the dumplings.
 1. They will absorb some sauce and soften slightly.
 
 ### Stage 7 - Garlic-mint butter
@@ -105,11 +105,11 @@ Shish barak is the kind of dish Palestinian families gather around an afternoon 
 1. Eat with rice on the side.
 
 ## Notes
-- **Stabilise the yogurt:** Without the egg white or cornstarch, the yogurt will curdle when heated. Either works; cornstarch gives a slightly glossier sauce, egg white a fresher taste. Whisk constantly while heating - non-negotiable.
+- **Stabilise the yogurt:** Without the egg white or cornstarch, the yogurt will curdle when heated. Either works; cornstarch gives a slightly glossier sauce, egg white a fresher taste. Whisk constantly while heating, non-negotiable.
 - **Bake before boiling:** Pre-baking the dumplings is what makes shish barak distinct from generic boiled dumplings. The dough sets slightly, the bottom faintly toasts; when they go into the yogurt they soften but keep their structure.
-- **Garlic-mint sizzle is the final flourish:** Pour it over hot - the sizzle of butter on warm yogurt is part of the dish's presentation.
+- **Garlic-mint sizzle is the final flourish:** Pour it over hot, the sizzle of butter on warm yogurt is part of the dish's presentation.
 
 ## Storage
 - Best the day they're made.
 - The baked dumplings (without sauce) refrigerate 3 days or freeze 2 months; warm in the yogurt fresh.
-- Yogurt sauce with dumplings doesn't reheat well - the yogurt thickens unappealingly. Eat what you ladle.
+- Yogurt sauce with dumplings doesn't reheat well, the yogurt thickens unappealingly. Eat what you ladle.

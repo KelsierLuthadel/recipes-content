@@ -16,9 +16,9 @@ The portable Palestinian wedding-and-iftar version of musakhan: the same caramel
 ## Ingredients
 
 ### Filling
-- 500 g cooked chicken (poached or rotisserie; pulled into shreds - leftover roast chicken works ideally)
+- 500 g cooked chicken (poached or rotisserie; pulled into shreds, leftover roast chicken works ideally)
 - 6 tablespoons extra-virgin olive oil
-- 5 red onions (large, sliced thin - about 1 kg)
+- 5 red onions (large, sliced thin, about 1 kg)
 - 1 teaspoon salt
 - 3 tablespoons sumac (the tart purple Levantine spice)
 - 1 teaspoon Aleppo pepper
@@ -47,7 +47,7 @@ The portable Palestinian wedding-and-iftar version of musakhan: the same caramel
 ### Stage 1 - Caramelise the onions
 1. Heat 6 tablespoons olive oil in a wide deep pan over medium heat.
 1. Add sliced red onions; sprinkle with the salt.
-1. Cook 25-30 minutes, stirring often, until very soft and deep golden-mahogany. Don't rush this - pale-onion musakhan is bland; deep-caramelised onion is what makes it.
+1. Cook 25-30 minutes, stirring often, until very soft and deep golden-mahogany. Don't rush this, pale-onion musakhan is bland; deep-caramelised onion is what makes it.
 
 ### Stage 2 - Spice the onions
 1. Reduce heat to low.

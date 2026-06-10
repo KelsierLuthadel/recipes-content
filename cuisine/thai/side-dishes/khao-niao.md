@@ -41,20 +41,20 @@ Khao niao is the sticky rice of northern and north-eastern Thailand and Laos, gl
 ### Stage 3 - Set up steamer
 1. **Traditional bamboo cone**: line the inside with a damp muslin if it has wide gaps; fill with rice; cover with the lid.
 1. **Bamboo or metal steamer**: line with a single layer of damp muslin or banana leaves; mound the rice in the centre, leaving steam channels at the edges.
-1. **Improvised**: line a sieve with muslin and set over a pan of simmering water - works fine.
+1. **Improvised**: line a sieve with muslin and set over a pan of simmering water, works fine.
 
 ### Stage 4 - Steam
-1. Bring water to a boil in the steamer base - don't let the water touch the rice.
+1. Bring water to a boil in the steamer base, don't let the water touch the rice.
 1. Place the rice-loaded steamer on top.
 1. Cover.
 1. Steam 20-25 minutes over medium heat.
 1. At the 15-minute mark, gently flip the rice cake over (lift it as a single mass with the muslin) so the bottom layer steams from above. This ensures even cooking.
-1. Taste a grain - fully cooked rice is fully tender with a slightly translucent quality; if still chalky at the centre, steam another 5 minutes.
+1. Taste a grain, fully cooked rice is fully tender with a slightly translucent quality; if still chalky at the centre, steam another 5 minutes.
 
 ### Stage 5 - Rest and serve
 1. Transfer to a wooden bowl or bamboo serving basket (kratip).
 1. Cover with a damp cloth or the basket lid.
-1. Rest 5 minutes - the rice firms up slightly.
+1. Rest 5 minutes, the rice firms up slightly.
 
 ### Stage 6 - Eat
 1. Pinch off a small ball with the right hand fingers; press into a small loose ball.
@@ -65,12 +65,12 @@ Khao niao is the sticky rice of northern and north-eastern Thailand and Laos, gl
 1. In a saucepan, combine 350 ml of the coconut milk, the sugar and salt.
 1. Heat gently over low heat, stirring, until the sugar dissolves and the mixture is just warm (do not boil).
 1. Pour the warm coconut sauce over the freshly steamed rice; toss gently with a spoon to coat.
-1. Cover; rest 15 minutes - the rice absorbs the coconut and becomes glossy.
+1. Cover; rest 15 minutes, the rice absorbs the coconut and becomes glossy.
 1. Plate: a mound of coconut-rice; sliced mango fanned alongside.
 1. Drizzle with the remaining 50 ml of plain coconut milk; sprinkle with toasted sesame seeds and (if using) toasted mung beans.
 
 ## Notes
-- **Sticky rice is a different variety:** Regular jasmine or basmati rice will not work - the starch makeup is wrong. Look for "Thai glutinous rice" or "sweet rice" or "kao niao" (sometimes labeled in Lao or Thai script).
+- **Sticky rice is a different variety:** Regular jasmine or basmati rice will not work, the starch makeup is wrong. Look for "Thai glutinous rice" or "sweet rice" or "kao niao" (sometimes labeled in Lao or Thai script).
 - **Soak first, always:** Unsoaked sticky rice steamed straight from the bag gives chalky, hard, unevenly cooked rice. The 6-12 hour soak is the difference between a fail and a success.
 - **Steam, never boil:** Boiling water touching the rice gives porridge. Steam is what produces the distinctive chewy-pearly texture.
 

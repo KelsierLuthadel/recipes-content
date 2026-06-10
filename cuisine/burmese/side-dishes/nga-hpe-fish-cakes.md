@@ -16,7 +16,7 @@ The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack
 ## Ingredients
 
 - 500 g firm white fish fillets (cod, haddock, hake or pollock, skin and bones removed, cubed)
-- 4 shallots (or 1 small red onion - finely chopped)
+- 4 shallots (or 1 small red onion, finely chopped)
 - 4 garlic cloves
 - 1 thumb fresh ginger (grated)
 - 1 lime (juice)
@@ -41,7 +41,7 @@ The Burmese fish cakes that arrive at lahpet-thoke salad tables and street snack
 
 ### Stage 1 - Process
 1. Place the fish, shallot, garlic, ginger, lime juice, fish sauce and egg in a food processor.
-1. Pulse to a coarse paste - some texture is welcome. Don't run it smooth.
+1. Pulse to a coarse paste, some texture is welcome. Don't run it smooth.
 
 ### Stage 2 - Mix in herbs
 1. Tip into a bowl. Stir in cornflour, turmeric, curry leaves, spring onions, fresh coriander, green chillies, pepper and salt.

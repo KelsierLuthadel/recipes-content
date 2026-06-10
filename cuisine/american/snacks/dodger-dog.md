@@ -36,7 +36,7 @@ The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles a
 ### Stage 1 - Cook the dogs (grilled - the traditional "grilled Dodger Dog")
 1. Heat a barbecue or cast-iron grill pan to medium-high.
 2. Brush the dogs lightly with vegetable oil.
-3. Grill 4-5 minutes per side till the casing scores with deep char marks. Don't burst - just charred grill lines.
+3. Grill 4-5 minutes per side till the casing scores with deep char marks. Don't burst, just charred grill lines.
 
 ### Stage 2 - Alternative: steamed
 1. Bring a wide pan of water to a gentle simmer.

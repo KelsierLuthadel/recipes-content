@@ -45,7 +45,7 @@ Baba ganoush is the Levantine smoky aubergine dip, fire-charred whole aubergines
 ### Stage 4 - Mash
 1. Chop the drained flesh roughly.
 1. In a wide bowl, combine the aubergine, garlic-salt paste, tahini, lemon, cumin, salt, 2 tablespoons olive oil.
-1. Mash thoroughly with a fork to a chunky but cohesive paste. Don't use a processor - the texture should be rustic.
+1. Mash thoroughly with a fork to a chunky but cohesive paste. Don't use a processor, the texture should be rustic.
 
 ### Stage 5 - Taste
 1. Adjust salt, lemon, tahini. The dip should be smoky-forward with the lemon and garlic supporting.

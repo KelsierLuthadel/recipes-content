@@ -31,16 +31,16 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 
 ### The dipping sauces (traditional Peruvian; pick one or both)
 
-**Sauce 1 - Huancaína dip:**
+**Sauce 1, Huancaína dip:**
 - 4 tablespoons aji amarillo paste
 - 100 g queso fresco (or cream cheese)
 - 100 ml evaporated milk
 - 2 saltines
 - 1 garlic clove
 - 1 tbsp oil
-- (Blend till smooth - see [Papa a la Huancaína](../side-dishes/papa-a-la-huancaina.md))
+- (Blend till smooth, see [Papa a la Huancaína](../side-dishes/papa-a-la-huancaina.md))
 
-**Sauce 2 - Guacamole:**
+**Sauce 2, Guacamole:**
 - 2 ripe avocados, mashed
 - 1 small finely chopped red onion
 - 1 small finely chopped tomato
@@ -60,7 +60,7 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 1. In a bowl, combine the flour, salt, soft butter and egg.
 2. Rub together with cold fingertips till the butter is fully incorporated.
 3. Add 100 ml of lukewarm milk; mix with a wooden spoon.
-4. Add more milk 1 tablespoon at a time only if needed - the dough should be soft but not sticky.
+4. Add more milk 1 tablespoon at a time only if needed, the dough should be soft but not sticky.
 5. Knead briefly on a floured surface 4-5 minutes till smooth.
 6. Shape into a flat disc; wrap in cling film; rest 30 minutes at room temperature.
 
@@ -71,7 +71,7 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 
 ### Stage 3 - Roll and cut the dough
 1. Divide the dough in half.
-2. Working with one half at a time (keep the other wrapped), roll out on a lightly floured surface to 2 mm thick - really thin.
+2. Working with one half at a time (keep the other wrapped), roll out on a lightly floured surface to 2 mm thick, really thin.
 3. Cut into strips about 14 cm long × 2.5 cm wide.
 
 ### Stage 4 - Wrap the cheese batons
@@ -91,7 +91,7 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 1. Heat the oil to 180°C in a deep heavy pot.
 2. Fry the tequeños in batches of 6-8 (don't overcrowd).
 3. Cook 90 seconds, turning gently, till deep golden brown all over.
-4. The cheese inside should soften but not melt out - if it's leaking, the cheese was too low-melt or the oil was too hot.
+4. The cheese inside should soften but not melt out, if it's leaking, the cheese was too low-melt or the oil was too hot.
 5. Lift out with a slotted spoon; drain briefly on kitchen paper.
 
 ### Stage 7 - Serve immediately
@@ -108,14 +108,14 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 - **Eat hot:** tequeños are at their peak for 5 minutes; the cheese firms as they cool.
 
 ## Variations
-**Modern Lima tequeños with chicken filling:** swap cheese for finely shredded cooked chicken seasoned with aji amarillo - the savoury-meat variant.
-**Sweet tequeños:** swap the cheese for chunks of fresh fig or guava paste - the dessert variant.
-**Tequeños with crab filling:** chunk crab + cream cheese + a touch of mustard - the upscale Lima restaurant variant.
-**Vegan tequeños:** swap cheese for slices of firm tofu seasoned with smoked paprika and salt - surprisingly good.
+**Modern Lima tequeños with chicken filling:** swap cheese for finely shredded cooked chicken seasoned with aji amarillo, the savoury-meat variant.
+**Sweet tequeños:** swap the cheese for chunks of fresh fig or guava paste, the dessert variant.
+**Tequeños with crab filling:** chunk crab + cream cheese + a touch of mustard, the upscale Lima restaurant variant.
+**Vegan tequeños:** swap cheese for slices of firm tofu seasoned with smoked paprika and salt, surprisingly good.
 **Larger format tequeños:** make 10 cm batons (instead of 6 cm) for substantial canapés.
 **Smaller tequeños for canapés:** 3 cm batons; for cocktail receptions.
-**Air-fryer tequeños:** brush with oil; air-fry at 200°C for 8 minutes - less crisp but functional.
-**Baked tequeños:** brush with oil; bake at 220°C for 10-12 minutes - lighter, less crisp.
+**Air-fryer tequeños:** brush with oil; air-fry at 200°C for 8 minutes, less crisp but functional.
+**Baked tequeños:** brush with oil; bake at 220°C for 10-12 minutes, lighter, less crisp.
 
 ## Serving
 At a Lima reception or wedding (the traditional setting) · at a Peruvian birthday party · at a Peruvian Sunday family lunch as a starter · at a Peruvian Independence Day buffet · at a Lima café for a 4 pm tea · at home as a Saturday-night drinks-and-snacks plate · paired with cold beer or chicha morada.
@@ -123,6 +123,6 @@ At a Lima reception or wedding (the traditional setting) · at a Peruvian birthd
 ## Storage
 - The raw wrapped tequeños can be made and refrigerated for 24 hours before frying; or frozen 2 months and fried from frozen (add 30 seconds frying time).
 - Cooked tequeños are best within 10 minutes of frying.
-- Don't refrigerate cooked tequeños - the cheese hardens and the dough goes leathery.
+- Don't refrigerate cooked tequeños, the cheese hardens and the dough goes leathery.
 - The huancaína and guacamole sauces refrigerate 2 days each.
 - The cheese batons can be cut and refrigerated 24 hours; the dough can be made up to 12 hours ahead.

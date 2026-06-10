@@ -58,7 +58,7 @@ Borani banjan is an Afghan aubergine dish that does the same work as a moussaka 
 ### Stage 5 - Assemble
 1. In a wide shallow dish, lay half the eggplant; spoon over half the tomato sauce.
 1. Layer the rest of the eggplant; spoon the remaining tomato sauce on top.
-1. Dollop the chaka generously over the surface - don't smooth out; the contrast of cold yogurt and warm sauce is the point.
+1. Dollop the chaka generously over the surface, don't smooth out; the contrast of cold yogurt and warm sauce is the point.
 
 ### Stage 6 - Finish
 1. Sprinkle dried mint; drizzle olive oil.
@@ -68,7 +68,7 @@ Borani banjan is an Afghan aubergine dish that does the same work as a moussaka 
 
 ## Notes
 - **Salt before frying:** Skip this and the aubergine drinks oil and turns soggy. The salt draws out water.
-- **Cold yogurt on warm eggplant:** The temperature contrast is signature. Don't reheat the assembled dish - make the chaka fresh.
+- **Cold yogurt on warm eggplant:** The temperature contrast is signature. Don't reheat the assembled dish, make the chaka fresh.
 - **Dried mint not fresh:** Dried mint has a deeper, more pungent quality that works with yogurt. Fresh mint over the top is decorative.
 
 ## Storage

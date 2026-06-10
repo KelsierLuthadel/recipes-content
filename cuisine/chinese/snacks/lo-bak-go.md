@@ -27,7 +27,7 @@ Lo bak go is the turnip cake of Cantonese dim-sum carts: square pale-grey slabs 
 - 1 tablespoon light soy sauce
 
 ### Main body
-- 1 kg daikon radish (peeled and grated - should yield about 700 g grated)
+- 1 kg daikon radish (peeled and grated, should yield about 700 g grated)
 - 300 g rice flour (NOT glutinous rice flour)
 - 500 ml cold water (for the slurry)
 
@@ -45,7 +45,7 @@ Lo bak go is the turnip cake of Cantonese dim-sum carts: square pale-grey slabs 
 ### Stage 1 - Soak
 1. Place dried shrimp and shiitake in a small bowl; cover with the just-boiled water.
 1. Soak 20 minutes until soft.
-1. Drain through a sieve - RESERVE the soaking water.
+1. Drain through a sieve, RESERVE the soaking water.
 1. Squeeze the shiitake; trim off the stems; finely chop the caps.
 1. Roughly chop the shrimp.
 
@@ -64,7 +64,7 @@ Lo bak go is the turnip cake of Cantonese dim-sum carts: square pale-grey slabs 
 1. Add the grated daikon to the pan.
 1. Pour in the reserved shiitake-shrimp soaking water.
 1. Bring to a simmer; cover; reduce heat.
-1. Cook 10 minutes - the daikon softens and releases its own water; the mass becomes wet and translucent.
+1. Cook 10 minutes, the daikon softens and releases its own water; the mass becomes wet and translucent.
 
 ### Stage 5 - Rice flour slurry
 1. In a separate bowl, whisk rice flour with 500 ml cold water until lump-free.
@@ -98,7 +98,7 @@ Lo bak go is the turnip cake of Cantonese dim-sum carts: square pale-grey slabs 
 
 ## Notes
 - **Plain rice flour, NOT glutinous:** Lo bak go uses regular rice flour for its slight crumb-like structure. Glutinous rice flour (sticky / sweet rice flour) is wrong and gives a gummy mochi-like cake.
-- **Soak the shrimp and shiitake liquid is umami:** The reserved soaking water is liquid gold - it's loaded with the flavour of both ingredients. Use it instead of plain water for cooking the daikon.
+- **Soak the shrimp and shiitake liquid is umami:** The reserved soaking water is liquid gold, it's loaded with the flavour of both ingredients. Use it instead of plain water for cooking the daikon.
 - **Fully chill before slicing:** Hot lo bak go falls apart. The chill (and the 4-hour rest) sets the starch and lets you slice clean firm pieces that hold together in the frying pan.
 
 ## Storage

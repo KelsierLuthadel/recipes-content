@@ -15,12 +15,12 @@ Three things matter:
 ## Best Fish for Pan-Frying
 
 Skin-on fillets of:
-- **Sea bass** - the standard. Thin skin crisps to glass-shard crackle.
-- **Salmon** - fatty, forgiving, beautiful golden skin.
-- **Cod / hake** - meaty white fish. Skin slightly less dramatic but excellent.
-- **Mackerel** - oily; skin crisps to pavement-tile crunch.
-- **Bream** - similar to bass.
-- **Snapper, gurnard, John Dory** - restaurant fish, all suit pan-frying.
+- **Sea bass**: the standard. Thin skin crisps to glass-shard crackle.
+- **Salmon**: fatty, forgiving, beautiful golden skin.
+- **Cod / hake**: meaty white fish. Skin slightly less dramatic but excellent.
+- **Mackerel**: oily; skin crisps to pavement-tile crunch.
+- **Bream**: similar to bass.
+- **Snapper, gurnard, John Dory**: restaurant fish, all suit pan-frying.
 
 Skinless fillets work but you miss the best part of the dish. Sole, plaice, monkfish are usually cooked skinless.
 
@@ -39,41 +39,41 @@ For 2 portions (250-300 g each):
 
 ### Method
 
-**Step 1 - Dry the skin.**
+**Step 1, Dry the skin.**
 1. Lay the fillets skin-side up on a board lined with kitchen paper.
 2. Press a fresh sheet of kitchen paper firmly against the skin. Pat dry hard.
 3. Repeat with a new sheet until the paper comes away dry. The skin should look matte, not shiny.
 
 Dry skin is the single most important step. Wet skin steams, sticks to the pan, never crisps. 30 seconds of patting is worth 5 minutes of cooking.
 
-**Step 2 - Season just before cooking.**
+**Step 2, Season just before cooking.**
 1. Season the skin side generously with fine sea salt and white pepper.
 2. Don't season the flesh side yet (the salt draws moisture, defeating the dry-skin work).
 
-**Step 3 - Heat the pan.**
+**Step 3, Heat the pan.**
 1. Heat a heavy-based non-stick or cast-iron pan over medium-high heat for 2 minutes.
 2. Add the vegetable oil. Swirl. The oil should shimmer but not smoke.
 
 A non-stick pan is more forgiving for the home cook; a cast-iron or carbon-steel pan gives a slightly better crisp but is less forgiving of mistakes.
 
-**Step 4 - Skin-side down.**
+**Step 4, Skin-side down.**
 1. Lay the fillets carefully into the pan, skin-side down, AWAY from you (so any splash goes away).
 2. Press the fillets flat for the first 30 seconds with a fish slice or another small pan. The skin curls under heat; pressing keeps it flat against the metal.
 3. Don't touch them otherwise. Let the skin crisp.
 
-**Step 5 - The first 4 minutes.**
+**Step 5, The first 4 minutes.**
 1. Cook over medium-high heat for 3-4 minutes. The skin develops a deep golden brown.
 2. The fish should be visibly cooking from the bottom up; you can see the flesh turn from translucent to opaque about 70-80% of the way up the fillet.
 
 How to check the skin: lift one corner with a fish slice. The skin should be deep golden brown and look crisp. Not? Cook another 30 seconds.
 
-**Step 6 - Flip and finish.**
+**Step 6, Flip and finish.**
 1. Once the flesh is opaque about 80% of the way up, slip the fish slice underneath and flip carefully.
 2. Add the butter to the pan. As it melts and foams, tilt the pan and spoon the foaming butter over the flesh (this is "basting"; classical technique).
 3. Cook the flesh-side for 30-60 seconds.
 4. Test: press the centre with a finger. Firm-jelly bounce = done.
 
-**Step 7 - Rest and serve.**
+**Step 7, Rest and serve.**
 1. Lift onto a warm plate.
 2. Squeeze lemon over the top.
 3. The crisp skin should crunch under the fork. Serve immediately.

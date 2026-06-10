@@ -21,7 +21,7 @@ The English butter toffee tradition, often topped with melted chocolate.
 - 250 g caster sugar
 - 250 g unsalted butter (yes, equal weight to the sugar)
 - 60 ml water
-- 1 tbsp golden syrup (or light corn syrup) - anti-crystallisation insurance
+- 1 tbsp golden syrup (or light corn syrup): anti-crystallisation insurance
 - 1 tsp vanilla extract
 - 1/2 tsp salt
 - 150 g dark chocolate, chopped (for the topping)
@@ -35,7 +35,7 @@ The English butter toffee tradition, often topped with melted chocolate.
 4. **Insert thermometer.** Cook to 149-154 C (hard crack). This takes 10-15 minutes for this size batch.
 5. **Watch the colour change.** As the toffee cooks, it goes from pale to amber. The colour change is the visual marker that you are approaching hard crack.
 6. **At hard crack, immediately remove from heat.** Stir in vanilla and salt.
-7. **Pour onto the prepared sheet.** The toffee should spread to about 5-7 mm thick. Tilt the sheet to help it spread; do not work it with a spatula - that introduces crystals.
+7. **Pour onto the prepared sheet.** The toffee should spread to about 5-7 mm thick. Tilt the sheet to help it spread; do not work it with a spatula, that introduces crystals.
 8. **Topping step.** Sprinkle the chopped chocolate over the still-hot toffee. The residual heat melts the chocolate within 2-3 minutes. Once melted, spread the chocolate evenly with an offset palette knife.
 9. **Sprinkle the nuts** over the chocolate while it is still wet, pressing them in lightly.
 10. **Cool completely.** Room temperature 2 hours; or refrigerate 30 minutes to speed.
@@ -72,7 +72,7 @@ The American classic.
 3. Cook to 121 C (firm ball stage).
 4. **Add the peanuts.** Stir to coat them. Continue cooking.
 5. **Cook to 149-154 C** (hard crack). The mixture should be deep amber.
-6. **Remove from heat.** Quickly stir in the butter, baking soda and vanilla. The baking soda causes the mixture to foam up - this is the brittle texture (the foam creates a slightly porous structure that gives brittle its characteristic snap and crunch).
+6. **Remove from heat.** Quickly stir in the butter, baking soda and vanilla. The baking soda causes the mixture to foam up, this is the brittle texture (the foam creates a slightly porous structure that gives brittle its characteristic snap and crunch).
 7. **Pour immediately** onto the prepared sheet. Tilt to spread thin, about 3-5 mm thick.
 8. **Cool completely.** 30-45 minutes at room temperature.
 9. **Break into shards.**
@@ -82,7 +82,7 @@ The baking soda step is what makes brittle "brittle" rather than just hard candy
 ### Variations
 
 - **Cashew brittle:** Substitute cashews for peanuts. The fattier cashew gives a richer brittle.
-- **Sesame brittle (pasteli, Greek/Middle Eastern):** Use 250 g sesame seeds (toasted) instead of peanuts. Often made with honey instead of corn syrup - replace the corn syrup with 100 g honey for a more aromatic version.
+- **Sesame brittle (pasteli, Greek/Middle Eastern):** Use 250 g sesame seeds (toasted) instead of peanuts. Often made with honey instead of corn syrup, replace the corn syrup with 100 g honey for a more aromatic version.
 - **Mixed nut brittle:** Almonds, hazelnuts, pecans, walnuts. About 200 g total.
 - **Pumpkin seed brittle:** 200 g pumpkin seeds. The seeds toast more fully in the hot sugar.
 
@@ -100,16 +100,16 @@ A British/Australian variation. Same hard-crack technique with extra baking soda
 ### Method
 
 1. Line a deep baking tin with greaseproof paper. The honeycomb expands dramatically; use a 20cm square tin or larger.
-2. Sift the baking soda - lumps create uneven foaming.
+2. Sift the baking soda, lumps create uneven foaming.
 3. Combine sugar, syrup and water in a heavy saucepan. Dissolve gently. Stop stirring.
 4. Cook to 154-160 C (hard crack to early caramel).
-5. Off the heat, immediately whisk in the baking soda - vigorously, with a balloon whisk.
+5. Off the heat, immediately whisk in the baking soda, vigorously, with a balloon whisk.
 6. The mixture will foam up dramatically - 5-10 times its previous volume.
 7. Pour immediately into the tin. Do not spread; do not press.
-8. Cool completely - the honeycomb collapses slightly as it sets.
+8. Cool completely, the honeycomb collapses slightly as it sets.
 9. Break into chunks.
 
-Honeycomb keeps poorly - it absorbs moisture from the air and softens within days. Eat within 3-4 days, or store in a dry sealed tin with a desiccant sachet.
+Honeycomb keeps poorly, it absorbs moisture from the air and softens within days. Eat within 3-4 days, or store in a dry sealed tin with a desiccant sachet.
 
 ## Pure Hard Candy (Lollipops)
 
@@ -121,7 +121,7 @@ Sugar at hard crack with no fat. Glossy, hard, glassy. The base for lollipops an
 - 100 g light corn syrup
 - 60 ml water
 - 1/2 tsp food colouring (optional)
-- 1 tsp flavouring oil (peppermint, cherry, lemon - choose one)
+- 1 tsp flavouring oil (peppermint, cherry, lemon, choose one)
 
 ### Method
 
@@ -130,7 +130,7 @@ Sugar at hard crack with no fat. Glossy, hard, glassy. The base for lollipops an
 3. Cook to 154 C (hard crack).
 4. Remove from heat. Wait 30 seconds to let the bubbles subside.
 5. Stir in colouring and flavouring. Whisk to combine.
-6. Pour into moulds, or spoon onto sticks. Work quickly - the sugar sets fast as it cools.
+6. Pour into moulds, or spoon onto sticks. Work quickly, the sugar sets fast as it cools.
 7. Cool completely. Unmould carefully.
 
 Wrap in cellophane individually for storage; otherwise the lollipops stick together.

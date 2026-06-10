@@ -2,7 +2,7 @@
 
 ![Cozido a Portuguesa](resources/cozido-a-portuguesa.jpg)
 
-*Portugal's mixed-meat boiled feast: a slow-cooked one-pot of beef, pork, ham, smoked sausages, blood sausages, cabbage, carrot, potato, turnip and rice (cooked separately in the broth). The Portuguese Sunday feast - a full meat-and-vegetable boiled dinner served in courses over hours.*
+*Portugal's mixed-meat boiled feast: a slow-cooked one-pot of beef, pork, ham, smoked sausages, blood sausages, cabbage, carrot, potato, turnip and rice (cooked separately in the broth). The Portuguese Sunday feast, a full meat-and-vegetable boiled dinner served in courses over hours.*
 
 **Serves:** 8-10
 

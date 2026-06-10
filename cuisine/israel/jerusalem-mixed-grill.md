@@ -50,7 +50,7 @@ Jerusalem mixed grill (me'orav Yerushalmi) is the late-night street-food sandwic
 
 ### Stage 3 - Spice
 1. Sprinkle in all the spices and salt.
-1. Toss everything together; cook 2-3 minutes more so the spices coat and the livers are just-cooked through (still pink at the centre is fine - they shouldn't be dry).
+1. Toss everything together; cook 2-3 minutes more so the spices coat and the livers are just-cooked through (still pink at the centre is fine, they shouldn't be dry).
 
 ### Stage 4 - Finish
 1. Off the heat, squeeze in the lemon juice.

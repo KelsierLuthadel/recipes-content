@@ -50,7 +50,7 @@
 **[Variation name]:** [Description and substitutions]
 
 ## Serving
-Serve with: [Recommended accompaniments - rice, bread, salads, etc.]
+Serve with: [Recommended accompaniments, rice, bread, salads, etc.]
 Garnish with: [Optional garnishes]
 
 ## Storage

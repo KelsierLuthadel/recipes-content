@@ -29,7 +29,7 @@ Jordan's Bedouin paper-thin bread: a simple flour-and-water dough stretched almo
 1. Cover; rest 30 minutes.
 
 ### Stage 2 - Heat the pan
-1. Place a heavy upturned wok or wide cast-iron pan (or a flat dry griddle) over high heat 3-4 minutes - should be very hot.
+1. Place a heavy upturned wok or wide cast-iron pan (or a flat dry griddle) over high heat 3-4 minutes, should be very hot.
 
 ### Stage 3 - Stretch
 1. Divide dough into 6 portions.
@@ -39,12 +39,12 @@ Jordan's Bedouin paper-thin bread: a simple flour-and-water dough stretched almo
 
 ### Stage 4 - Cook
 1. Drape the thin disc over the hot pan (or upturned wok).
-1. Cook 30-60 seconds - small bubbles rise; the surface dries; light brown spots appear.
+1. Cook 30-60 seconds, small bubbles rise; the surface dries; light brown spots appear.
 1. Flip with tongs or a wide spatula; cook 20 seconds more.
-1. The bread should be soft and pliable - not crisp.
+1. The bread should be soft and pliable, not crisp.
 
 ### Stage 5 - Stack
-1. Stack on a board under a clean tea towel - keeps it soft.
+1. Stack on a board under a clean tea towel, keeps it soft.
 
 ### Stage 6 - Serve
 1. Use immediately or within a few hours. Tear for scooping or wrap around grilled meats.

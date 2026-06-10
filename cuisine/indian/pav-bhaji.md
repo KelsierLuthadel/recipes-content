@@ -31,7 +31,7 @@ Pav bhaji is Mumbai's defining street food and the night-market plate that lives
 - 2 green chillies (finely chopped)
 - 1 green capsicum (deseeded, finely diced)
 - 4 ripe tomatoes (finely chopped, or 400 g tinned chopped tomatoes)
-- 2 tablespoons pav bhaji masala (the dedicated blend, MDH / Everest / Catch - substitute: 1 tablespoon garam masala + 1 teaspoon amchur + ½ teaspoon kasuri methi if unavailable)
+- 2 tablespoons pav bhaji masala (the dedicated blend, MDH / Everest / Catch, substitute: 1 tablespoon garam masala + 1 teaspoon amchur + ½ teaspoon kasuri methi if unavailable)
 - 1 teaspoon Kashmiri chilli powder (gives colour without scorching heat)
 - 1 teaspoon ground cumin
 - ½ teaspoon turmeric
@@ -93,9 +93,9 @@ Pav bhaji is Mumbai's defining street food and the night-market plate that lives
 - **Pav bhaji masala is the soul:** the dedicated commercial blend (with kokum, dried fenugreek, dry mango) is what makes this dish distinct from a generic vegetable curry. Indian grocers stock several brands; MDH is the most common. The substitute works but is noticeably different.
 - **Mash, don't blend:** bhaji wants visible vegetable texture. A blender turns it into baby food.
 - **Generous butter, both ways:** Mumbai street stalls famously cook bhaji in shallow lakes of butter. Don't skimp; the dish doesn't work lean.
-- **Pav is non-negotiable:** soft, slightly sweet milk-bread rolls - not crusty bread. Indian groceries sell pav rolls; brioche buns are the best substitute.
+- **Pav is non-negotiable:** soft, slightly sweet milk-bread rolls, not crusty bread. Indian groceries sell pav rolls; brioche buns are the best substitute.
 
 ## Storage
 - Bhaji keeps 4 days refrigerated; reheat with a splash of water in a pan over low heat.
-- Don't pre-griddle pav - do it to order; reheated griddled pav is leathery.
+- Don't pre-griddle pav, do it to order; reheated griddled pav is leathery.
 - Freezes 2 months without the pav; thaw overnight and reheat.

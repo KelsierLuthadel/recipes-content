@@ -9,7 +9,7 @@
 **Prep Time:** 5 minutes
 
 ## Overview
-Mississippi Punch first appears in print in Jerry Thomas's *The Bartender's Guide* of 1862, the first American cocktail book ever published. Thomas was a New Orleans bartender (later New York) who collected the punches of the Mississippi riverboat era - drinks served on the long paddlewheel boats running between Memphis, Vicksburg, Natchez and New Orleans in the 1850s. The punch combines three spirits (bourbon, brandy and dark rum), sweetens with sugar, sharpens with lemon, and chills hard over crushed ice. The result is a long, fruity, mid-strength drink that tasted then (and tastes now) like a riverboat afternoon.
+Mississippi Punch first appears in print in Jerry Thomas's *The Bartender's Guide* of 1862, the first American cocktail book ever published. Thomas was a New Orleans bartender (later New York) who collected the punches of the Mississippi riverboat era, drinks served on the long paddlewheel boats running between Memphis, Vicksburg, Natchez and New Orleans in the 1850s. The punch combines three spirits (bourbon, brandy and dark rum), sweetens with sugar, sharpens with lemon, and chills hard over crushed ice. The result is a long, fruity, mid-strength drink that tasted then (and tastes now) like a riverboat afternoon.
 
 The drink is bigger and easier-drinking than its strength suggests. Three half-ounces of spirit add up to a quarter-pint, but the crushed ice melts as you drink it and the citrus and sugar dilute the alcohol. Two are perfect; three are aspirational.
 

@@ -8,7 +8,7 @@
 
 **Prep Time:** 30 minutes (plus overnight chilling)
 
-**Cook Time:** 0 minutes (eggs are raw - see Notes)
+**Cook Time:** 0 minutes (eggs are raw, see Notes)
 
 ## Overview
 Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso slowly overnight. You whisk egg yolks and sugar over a pan of barely simmering water until pale and ribbon-thick (the zabaglione method, which gives the cream its body), then whisk in mascarpone off the heat to a smooth thick cream. Whipped whites fold through to lighten it. The savoiardi go for a quick dip in cooled espresso laced with Marsala, two seconds a side and no more, then lie tight in the dish under half the cream, a heavy dust of cocoa between, a second layer of dipped biscuits, the rest of the cream. Cocoa on top, fridge overnight, and the savoiardi soften into something between cake and custard. Cut it gently with a warm knife and serve with espresso, or if it's been that kind of dinner, a glass of grappa.
@@ -16,7 +16,7 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 ## Ingredients
 
 ### The cream
-- 4 eggs (large, separated - yolks for the cream, whites for lightening)
+- 4 eggs (large, separated, yolks for the cream, whites for lightening)
 - 100 g caster sugar (for the yolks)
 - 50 g caster sugar (for the whites)
 - 500 g mascarpone cheese (cold, from the fridge)
@@ -28,7 +28,7 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 - 1 tablespoon caster sugar
 
 ### Assembly
-- 300 g savoiardi (lady fingers / Italian sponge biscuits - about 32-36 biscuits)
+- 300 g savoiardi (lady fingers / Italian sponge biscuits, about 32-36 biscuits)
 - 30 g good cocoa powder (Valrhona or other 100% cocoa, NOT sweetened drinking chocolate)
 - 50 g dark chocolate (70% - for grating, optional)
 
@@ -39,17 +39,17 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 ## Method
 
 ### Stage 1 - Prep the dish
-1. Get a 22 x 28 cm rectangular dish (or a 22 cm round dish, deep). No greasing needed - the dessert sets and lifts naturally.
+1. Get a 22 x 28 cm rectangular dish (or a 22 cm round dish, deep). No greasing needed, the dessert sets and lifts naturally.
 
 ### Stage 2 - Egg yolks and sugar (zabaglione step)
 1. Set up a bain-marie: place a heatproof bowl over a small pan of barely simmering water (the water mustn't touch the bowl).
-1. In the bowl, whisk egg yolks with 100 g caster sugar continuously for 5-6 minutes - the mixture should pale and thicken to a ribbon consistency (a trail held briefly on the surface when the whisk is lifted).
+1. In the bowl, whisk egg yolks with 100 g caster sugar continuously for 5-6 minutes, the mixture should pale and thicken to a ribbon consistency (a trail held briefly on the surface when the whisk is lifted).
 1. The bowl should be warm but never hot to the touch. Don't let the eggs scramble.
 1. Off heat; whisk 1 more minute to cool slightly.
 
 ### Stage 3 - Add mascarpone
 1. Add the cold mascarpone in 3 additions, whisking smoothly between each, until you have a thick smooth cream.
-1. Don't overwork - mascarpone can split if whisked too long.
+1. Don't overwork, mascarpone can split if whisked too long.
 
 ### Stage 4 - Whip the egg whites
 1. In a separate clean bowl with clean beaters, whip egg whites and a pinch of salt to soft peaks.
@@ -57,12 +57,12 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 
 ### Stage 5 - Fold
 1. Fold a third of the meringue into the mascarpone mixture to lighten.
-1. Fold in the rest in 2 additions, using a large spatula and lifting / cutting motion - don't stir flat.
+1. Fold in the rest in 2 additions, using a large spatula and lifting / cutting motion, don't stir flat.
 1. The cream should be light, voluminous, but still thick enough to hold its shape.
 
 ### Stage 6 - Prepare the coffee
 1. Stir Marsala and 1 tablespoon sugar into the cooled espresso in a wide shallow bowl.
-1. Coffee must be at room temperature - hot coffee makes the savoiardi go to mush instantly.
+1. Coffee must be at room temperature, hot coffee makes the savoiardi go to mush instantly.
 
 ### Stage 7 - First layer
 1. Working quickly: take a savoiardo, dip one flat side in the coffee for 1 second, then the other for 1 second.
@@ -76,7 +76,7 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 1. Cover with the remaining cream; smooth flat.
 
 ### Stage 9 - Finish
-1. Sift cocoa generously across the top in an even layer - about 2 tablespoons.
+1. Sift cocoa generously across the top in an even layer, about 2 tablespoons.
 1. Grate dark chocolate over the cocoa if using.
 
 ### Stage 10 - Chill
@@ -86,15 +86,15 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 
 ### Stage 11 - Serve
 1. Slice with a large spoon (a knife drags the cocoa).
-1. Best slightly cold but not fridge-cold - let it sit out for 15 minutes before serving.
+1. Best slightly cold but not fridge-cold, let it sit out for 15 minutes before serving.
 
 ## Notes
 - **Raw eggs:** Traditional Italian tiramisù uses raw eggs (in both the yolk-zabaglione and the whipped whites). The zabaglione step DOES cook the yolks lightly. If you're concerned about food safety (pregnant, immunocompromised), use pasteurised eggs (sold in cartons) OR whisk the yolks at the bain-marie for an extra 3 minutes to reach 71°C, OR skip the egg whites and substitute 200 ml whipped double cream folded in instead.
-- **Quick dip the savoiardi:** 1-2 seconds per side, no more. Long-soaked savoiardi disintegrate into the cream and the dessert becomes wet sponge. Italian savoiardi are designed to be dipped quickly - the dryness is the point.
-- **Marsala, rum or alcohol-free:** Sweet Marsala is the classic. Dark rum is the next best. Amaretto is great but pushes the dessert into a different flavour profile (almond-forward). Alcohol-free tiramisù just leaves out the booze - still good, slightly less complex.
+- **Quick dip the savoiardi:** 1-2 seconds per side, no more. Long-soaked savoiardi disintegrate into the cream and the dessert becomes wet sponge. Italian savoiardi are designed to be dipped quickly, the dryness is the point.
+- **Marsala, rum or alcohol-free:** Sweet Marsala is the classic. Dark rum is the next best. Amaretto is great but pushes the dessert into a different flavour profile (almond-forward). Alcohol-free tiramisù just leaves out the booze, still good, slightly less complex.
 - **Mascarpone, not cream cheese:** Mascarpone is much higher fat (about 45%) and almost sweet-tasting. Cream cheese is sour, lower fat, and makes a tiramisù that tastes like New York cheesecake. They are not interchangeable.
 
 ## Storage
 - Refrigerate 4 days; arguably best on day 2-3 when the layers fully set and flavours marry.
-- The cocoa dusting can darken / dampen over time - re-sift fresh cocoa just before serving if it's been more than a day.
-- Doesn't freeze well - the mascarpone separates on thaw.
+- The cocoa dusting can darken / dampen over time, re-sift fresh cocoa just before serving if it's been more than a day.
+- Doesn't freeze well, the mascarpone separates on thaw.

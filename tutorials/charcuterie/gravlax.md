@@ -59,7 +59,7 @@ A second drain at 24-36 hours is helpful.
 
 ### Day 2 (48 hours) - Done
 
-After 48 hours total, the salmon is cured. The flesh has gone from soft and bright orange to firm and slightly darker, with a translucent, cured quality. Squeeze gently - it should feel firm and bouncy, no longer raw-soft.
+After 48 hours total, the salmon is cured. The flesh has gone from soft and bright orange to firm and slightly darker, with a translucent, cured quality. Squeeze gently, it should feel firm and bouncy, no longer raw-soft.
 
 ### Rinse, dry, slice
 

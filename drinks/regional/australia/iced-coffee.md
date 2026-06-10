@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Australian iced coffee is its own thing - bigger, richer and more dessert-adjacent than the American Starbucks-style iced coffee. The build is cold espresso (or strong-brewed cold coffee) poured into a tall glass over a generous scoop of vanilla ice cream, topped with very cold full-cream milk, with optional whipped cream and a dusting of chocolate or cocoa on top. Sold from refrigerator cases in milky 600ml cartons (Big M, Oak, Dare) at every Australian petrol station and corner shop; also a milkbar and café institution. The ice cream is non-negotiable - without it you have iced coffee in the American sense; with it you have the Aussie version.
+Australian iced coffee is its own thing, bigger, richer and more dessert-adjacent than the American Starbucks-style iced coffee. The build is cold espresso (or strong-brewed cold coffee) poured into a tall glass over a generous scoop of vanilla ice cream, topped with very cold full-cream milk, with optional whipped cream and a dusting of chocolate or cocoa on top. Sold from refrigerator cases in milky 600ml cartons (Big M, Oak, Dare) at every Australian petrol station and corner shop; also a milkbar and café institution. The ice cream is non-negotiable, without it you have iced coffee in the American sense; with it you have the Aussie version.
 
 ## Ingredients
 

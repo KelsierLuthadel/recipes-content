@@ -2,7 +2,7 @@
 
 ![Vegetarian Borscht](resources/vegetarian-borscht.jpg)
 
-*Russian beetroot soup with cabbage, carrots and potatoes, deep ruby-red and faintly sweet from the long-cooked beetroot. The sour finish - vinegar in the soup, sour cream and fresh dill on top - is what makes it borscht and not just a beetroot stew.*
+*Russian beetroot soup with cabbage, carrots and potatoes, deep ruby-red and faintly sweet from the long-cooked beetroot. The sour finish, vinegar in the soup, sour cream and fresh dill on top, is what makes it borscht and not just a beetroot stew.*
 
 **Serves:** 6
 
@@ -53,7 +53,7 @@ The vegetarian sister to the great beef-stocked borscht: a deep ruby-red soup of
 
 ### Stage 4 - Balance
 1. Stir in the vinegar, sugar and salt.
-1. Taste; adjust vinegar (sour), sugar (sweet) and salt to balance - should be all three with the beetroot earthiness behind.
+1. Taste; adjust vinegar (sour), sugar (sweet) and salt to balance, should be all three with the beetroot earthiness behind.
 1. Discard the bay leaves and peppercorns if you can find them.
 
 ### Stage 5 - Serve
@@ -62,7 +62,7 @@ The vegetarian sister to the great beef-stocked borscht: a deep ruby-red soup of
 1. Serve with dark rye bread.
 
 ## Notes
-- **Grate the beetroot:** Diced beetroot gives a chunky stew with isolated bits of red. Grated bleeds throughout - that deep ruby colour is what defines borscht.
+- **Grate the beetroot:** Diced beetroot gives a chunky stew with isolated bits of red. Grated bleeds throughout, that deep ruby colour is what defines borscht.
 - **Vinegar is essential:** Without acid the soup tastes flat and sweet. Adjust to taste; some prefer it sharper.
 - **Soured cream at the table:** Stir it in just before eating; the swirl of pink-and-white in the dark broth is part of the dish.
 

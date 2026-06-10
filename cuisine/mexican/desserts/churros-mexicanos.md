@@ -46,18 +46,18 @@ Mexico's fried-dough dessert and the late-night Mexico City pavement classic: ri
 1. In a saucepan, combine water, butter, sugar, salt and vanilla.
 1. Bring to a rolling boil over medium-high heat, stirring occasionally to dissolve the sugar and melt the butter.
 1. As soon as it boils vigorously, reduce to medium and tip in ALL the flour at once.
-1. Stir vigorously with a wooden spoon for 90 seconds - the dough comes together as a smooth ball that pulls cleanly away from the pan walls and base.
+1. Stir vigorously with a wooden spoon for 90 seconds, the dough comes together as a smooth ball that pulls cleanly away from the pan walls and base.
 1. Tip into a wide bowl; rest 5 minutes to cool slightly (so the eggs don't cook on contact).
 
 ### Stage 2 - Add the eggs
 1. Add a third of the beaten eggs; stir hard with a wooden spoon (or use a stand mixer paddle on medium speed) until fully absorbed.
 1. Continue with the next third; mix to incorporate.
 1. Continue with the final third.
-1. The dough should be glossy, smooth, thick and pipe-able - it should hold its shape on a spoon but slowly flow.
+1. The dough should be glossy, smooth, thick and pipe-able, it should hold its shape on a spoon but slowly flow.
 
 ### Stage 3 - Heat the oil
 1. Pour oil into a wide deep heavy pan to a depth of 5 cm.
-1. Heat to 175°C. Test with a small piece of dough - it should bubble immediately, rise to the surface, and brown in about 90 seconds.
+1. Heat to 175°C. Test with a small piece of dough, it should bubble immediately, rise to the surface, and brown in about 90 seconds.
 
 ### Stage 4 - Make the chocolate sauce
 1. Combine chopped chocolate, milk, cream, sugar, cinnamon and salt in a saucepan.
@@ -66,7 +66,7 @@ Mexico's fried-dough dessert and the late-night Mexico City pavement classic: ri
 1. Keep warm (low heat or near the oven).
 
 ### Stage 5 - Pipe and fry
-1. Transfer the dough to a piping bag fitted with a 1 ½ cm closed-star nozzle (Wilton 1M or similar). A larger nozzle is essential - small nozzles tear under the dough's resistance.
+1. Transfer the dough to a piping bag fitted with a 1 ½ cm closed-star nozzle (Wilton 1M or similar). A larger nozzle is essential, small nozzles tear under the dough's resistance.
 1. Hold the piping bag at a 45° angle just above the hot oil; squeeze gently to pipe a strip of dough directly into the oil.
 1. Cut each churro to 12-15 cm length with kitchen scissors (or a knife). Let the cut piece drop into the oil.
 1. Fry 2-3 at a time, 90 seconds per side, turning, until deep amber gold.
@@ -78,7 +78,7 @@ Mexico's fried-dough dessert and the late-night Mexico City pavement classic: ri
 
 ### Stage 7 - Serve
 1. Pile churros on a plate.
-1. Pour the warm chocolate sauce into small cups or mugs (about 80 ml per person - it's rich).
+1. Pour the warm chocolate sauce into small cups or mugs (about 80 ml per person, it's rich).
 1. Eat by dipping the warm churro into the chocolate.
 
 ## Notes

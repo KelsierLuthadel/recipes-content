@@ -16,7 +16,7 @@ Lebanon's strained-yogurt cheese, the small plate that anchors every Lebanese br
 ## Ingredients
 
 ### Labneh
-- 1 kg full-fat natural yogurt (Greek or Lebanese strained yogurt won't work - needs to be regular yogurt that hasn't already been strained)
+- 1 kg full-fat natural yogurt (Greek or Lebanese strained yogurt won't work, needs to be regular yogurt that hasn't already been strained)
 - 1 ½ teaspoons salt
 
 ### To finish

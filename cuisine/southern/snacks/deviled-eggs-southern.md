@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Southern deviled eggs are one of the South's most beloved appetisers and a fixture of every church potluck, family reunion, picnic and Sunday dinner: hard-boiled eggs halved lengthwise, the yolks scooped out and mashed with mayonnaise (Duke's traditional Southern), yellow mustard, sweet pickle relish (or finely chopped sweet pickles), a touch of hot sauce, paprika, salt and pepper, then piped or spooned back into the egg whites and dusted with paprika and chopped chives. The Southern version distinguishes itself from generic deviled eggs by the sweet pickle relish (the Southern touch - gives sweet-sour balance), Duke's mayo, and the generous paprika dusting.
+Southern deviled eggs are one of the South's most beloved appetisers and a fixture of every church potluck, family reunion, picnic and Sunday dinner: hard-boiled eggs halved lengthwise, the yolks scooped out and mashed with mayonnaise (Duke's traditional Southern), yellow mustard, sweet pickle relish (or finely chopped sweet pickles), a touch of hot sauce, paprika, salt and pepper, then piped or spooned back into the egg whites and dusted with paprika and chopped chives. The Southern version distinguishes itself from generic deviled eggs by the sweet pickle relish (the Southern touch, gives sweet-sour balance), Duke's mayo, and the generous paprika dusting.
 
 ## Ingredients
 

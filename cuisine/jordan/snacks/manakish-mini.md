@@ -87,12 +87,12 @@ Snack-sized Jordan manakish: small yeasted discs topped three ways with za'atar 
 
 ### Stage 8 - Bake
 1. Slide onto the hot stone / tray on baking paper, in batches of 6.
-1. Bake 6-8 minutes - the dough should be gold and the toppings bubbling (cheese) / set (lamb) / glistening (za'atar).
+1. Bake 6-8 minutes, the dough should be gold and the toppings bubbling (cheese) / set (lamb) / glistening (za'atar).
 
 ### Stage 9 - Serve
 1. Pile on a wide platter, mixing the three toppings.
 1. Sprinkle a pinch of sumac across.
-1. Eat warm - fold each in half like a taco, or eat flat.
+1. Eat warm, fold each in half like a taco, or eat flat.
 
 ## Notes
 - **Hot stone is non-negotiable:** Real Jordanian manakish bakes on a fierce-hot tannur (clay oven). A baking stone or upside-down heavy tray pre-heated to 230°C is the closest home equivalent. Without it, the bases stay soft and pale.

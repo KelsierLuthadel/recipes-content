@@ -59,4 +59,4 @@ A festival rice pudding from the Mongolian steppe, eaten warm for Tsagaan Sar, N
 ## Storage
 - Keeps 3 days refrigerated; the pudding sets firm in the fridge.
 - Reheat gently in a pan with a splash of fresh milk to loosen.
-- Doesn't freeze well - the texture goes grainy.
+- Doesn't freeze well, the texture goes grainy.

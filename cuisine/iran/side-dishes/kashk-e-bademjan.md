@@ -22,7 +22,7 @@ Kashk-e bademjan is the Persian aubergine-and-fermented-whey dip, a smoky-savour
 - 1 teaspoon ground turmeric
 - ½ teaspoon ground black pepper
 - ½ teaspoon salt (to taste)
-- 80 g kashk (Iranian whey paste - sold in jars in Middle Eastern shops; substitute thick Greek yogurt mixed with 1 tsp salt and 1 tsp lemon juice if unavailable)
+- 80 g kashk (Iranian whey paste, sold in jars in Middle Eastern shops; substitute thick Greek yogurt mixed with 1 tsp salt and 1 tsp lemon juice if unavailable)
 - 50 ml water
 - 50 g walnut halves (toasted, half chopped, half whole)
 
@@ -66,7 +66,7 @@ Kashk-e bademjan is the Persian aubergine-and-fermented-whey dip, a smoky-savour
 1. Eat warm with warm flatbread.
 
 ## Notes
-- **Kashk:** Iranian whey paste - strongly sour and salty. Substitute Greek yogurt + lemon + salt if you can't find it; flavour is close but less deep.
+- **Kashk:** Iranian whey paste, strongly sour and salty. Substitute Greek yogurt + lemon + salt if you can't find it; flavour is close but less deep.
 - **Brown the onion hard:** The deep caramelisation is half the dish's flavour. Don't rush.
 - **Eat warm:** Best within 30 minutes of plating. Cold kashk-e-bademjan loses its softness.
 

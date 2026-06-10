@@ -2,7 +2,7 @@
 
 ![Rocoto Relleno](resources/rocoto-relleno.jpg)
 
-*Arequipa's signature stuffed-pepper: large red rocoto chillies (the Andean apple-shaped pepper, hotter than an aji amarillo but with a sweet vegetal note) boiled briefly to mellow the heat, stuffed with a richly spiced filling of minced beef, sweated onion, garlic, aji panca paste, raisins and chopped peanuts, topped with a slice of queso fresco, baked till the cheese melts and the rocotos collapse slightly. Served with a slice of pastel de papa (Andean potato gratin) alongside. Arequipa's most identity-defining dish - hot, generous, distinctive.*
+*Arequipa's signature stuffed-pepper: large red rocoto chillies (the Andean apple-shaped pepper, hotter than an aji amarillo but with a sweet vegetal note) boiled briefly to mellow the heat, stuffed with a richly spiced filling of minced beef, sweated onion, garlic, aji panca paste, raisins and chopped peanuts, topped with a slice of queso fresco, baked till the cheese melts and the rocotos collapse slightly. Served with a slice of pastel de papa (Andean potato gratin) alongside. Arequipa's most identity-defining dish, hot, generous, distinctive.*
 
 **Serves:** 4
 
@@ -56,14 +56,14 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 ### Stage 1 - Prep the rocoto chillies
 1. Wash the rocotos.
 2. Cut a "lid" off the top of each (around the stem); set the lids aside.
-3. Carefully scoop out the seeds and white ribs with a small spoon - WEAR RUBBER GLOVES if you're sensitive to chilli heat; rocoto residue on hands is unpleasant for hours.
+3. Carefully scoop out the seeds and white ribs with a small spoon, WEAR RUBBER GLOVES if you're sensitive to chilli heat; rocoto residue on hands is unpleasant for hours.
 
 ### Stage 2 - Mellow the heat (boil)
 1. In a saucepan, bring the water with the vinegar, sugar and salt to the boil.
 2. Add the rocoto shells (and their lids) to the boiling water.
 3. Boil 3-4 minutes (3 for spicy lovers; 4 for milder).
 4. Drain.
-5. (For the maximum-mellow Arequipa style: boil twice more, each time with fresh water-vinegar-sugar-salt, draining between - this gives the milder restaurant version.)
+5. (For the maximum-mellow Arequipa style: boil twice more, each time with fresh water-vinegar-sugar-salt, draining between, this gives the milder restaurant version.)
 6. Set the boiled chilli shells aside.
 
 ### Stage 3 - Make the filling
@@ -81,7 +81,7 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 ### Stage 4 - Stuff the chillies
 1. Heat the oven to 180°C (160°C fan).
 2. Place the boiled rocoto shells in a buttered ovenproof dish.
-3. Stuff each generously with the beef filling - really pack it in (a heaped 4 tablespoons per chilli).
+3. Stuff each generously with the beef filling, really pack it in (a heaped 4 tablespoons per chilli).
 4. Top each chilli with a thick slice of queso fresco (or the mozzarella-feta mix) covering the top of the filling.
 5. (Optional: brush the cheese with the beaten egg yolk for a golden glaze.)
 6. Replace the rocoto "lids" loosely on top (some cooks do; some don't).
@@ -108,18 +108,18 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 **Vegetarian rocoto relleno:** swap beef for finely chopped mushrooms + lentils + the same raisins and peanuts.
 **Pork rocoto relleno:** swap beef for finely chopped pork shoulder; same spice base.
 **Chicken rocoto relleno:** swap beef for finely chopped chicken thigh.
-**Modern Arequipa upscale rocoto:** wrap the stuffed chilli in a thin sheet of phyllo before baking - the modern restaurant presentation.
-**Rocoto relleno with quinoa:** add 80 g cooked quinoa to the filling - the modern healthy variant.
-**Bell pepper version (heat-free):** use red bell peppers if you absolutely can't handle the heat - tastes different but works structurally.
+**Modern Arequipa upscale rocoto:** wrap the stuffed chilli in a thin sheet of phyllo before baking, the modern restaurant presentation.
+**Rocoto relleno with quinoa:** add 80 g cooked quinoa to the filling, the modern healthy variant.
+**Bell pepper version (heat-free):** use red bell peppers if you absolutely can't handle the heat, tastes different but works structurally.
 **Mini rocoto relleno canapés:** use small rocotos or cherry peppers; reduce filling proportions; serve as canapés.
-**Rocoto Relleno with aji huacatay sauce:** spoon a small dollop of huacatay sauce on top - the modern Lima fusion.
+**Rocoto Relleno with aji huacatay sauce:** spoon a small dollop of huacatay sauce on top, the modern Lima fusion.
 
 ## Serving
 At an Arequipa picantería (the traditional setting; a picantería is a Peruvian regional restaurant focused on traditional Arequipa food) · at an Arequipa family Sunday lunch · at the annual Arequipa Day celebration (15 August) · at a Peruvian Independence Day buffet · at a southern-Peruvian Andean restaurant · at home as a Saturday-night dinner-party showpiece · paired with a glass of cold Cusqueña or Pilsen lager.
 
 ## Storage
 - Cooked rocotos refrigerate 3 days; reheat in a 180°C oven for 15 minutes.
-- Don't microwave - the cheese goes rubbery.
+- Don't microwave, the cheese goes rubbery.
 - Freezes 2 months in airtight containers; defrost overnight in the fridge before reheating.
 - The raw filling refrigerates 24 hours; assemble fresh.
 - The boiled rocoto shells (empty) refrigerate 3 days; stuff and bake as needed.

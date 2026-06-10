@@ -50,7 +50,7 @@ The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the cur
 ### Stage 1 - Fry the paneer
 1. Heat 2 tablespoons of the mustard oil in a heavy-based pan over medium-high heat until it just smokes, then reduce the heat slightly.
 2. Slide in the paneer cubes and fry for 3 to 4 minutes, turning, until golden on all sides.
-3. Lift out with a slotted spoon and drop into a bowl of warm water - this stops them going hard as they sit.
+3. Lift out with a slotted spoon and drop into a bowl of warm water, this stops them going hard as they sit.
 
 ### Stage 2 - Fry the potatoes
 1. In the same oil, fry the potato quarters for 5 to 6 minutes, turning, until lightly golden at the edges (turmeric-rub them first if you want extra colour).
@@ -63,10 +63,10 @@ The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the cur
 
 ### Stage 4 - Build the wet masala
 1. Lower the heat to medium.
-2. Spoon in the ginger paste - it will spit, so stand back.
+2. Spoon in the ginger paste, it will spit, so stand back.
 3. Cook for 1 to 2 minutes, stirring, until the raw edge is gone and the paste smells sweet.
 4. Sprinkle in the ground cumin, ground coriander, Kashmiri chilli powder and turmeric.
-5. Stir for 30 seconds, splashing in a tablespoon of water if the spices threaten to catch - they should bloom in the oil, not scorch.
+5. Stir for 30 seconds, splashing in a tablespoon of water if the spices threaten to catch, they should bloom in the oil, not scorch.
 
 ### Stage 6 - The dalna
 1. Drain the paneer from the warm-water bath and add it to the pan along with the par-fried potatoes and slit green chillies.
@@ -82,7 +82,7 @@ The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the cur
 4. Top with chopped coriander.
 
 ## Notes
-- **No onion, no garlic.** Traditional chanar dalna is satvik-cooking-friendly - no onion or garlic. This is what gives it its distinctive clean, ginger-led flavour. Adding them is fine if you prefer, but the dish then drifts toward a generic paneer curry.
+- **No onion, no garlic.** Traditional chanar dalna is satvik-cooking-friendly, no onion or garlic. This is what gives it its distinctive clean, ginger-led flavour. Adding them is fine if you prefer, but the dish then drifts toward a generic paneer curry.
 - **Soak the fried paneer.** The warm-water trick is genuinely important. Paneer goes leathery if it sits dry between frying and the gravy. Five minutes in warm water keeps it soft.
 - **Fresh ginger paste.** Pre-made jar pastes work but a freshly pounded knob of ginger (or a quick processor blitz) is a noticeable lift in a dish this clean.
 - **Heat level.** This is a mild curry. The slit green chillies infuse rather than dominate. For more punch, double them or add a pinch more Kashmiri chilli.

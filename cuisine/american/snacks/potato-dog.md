@@ -40,7 +40,7 @@ The potato dog is the American diner-counter and roadside food-truck answer to t
 
 ### To serve
 - Cold beer or soda
-- Crinkle fries (yes, even with the potato topping - double-potato is fine)
+- Crinkle fries (yes, even with the potato topping, double-potato is fine)
 
 ## Method
 
@@ -78,7 +78,7 @@ The potato dog is the American diner-counter and roadside food-truck answer to t
 4. Optional: ketchup, pickled hot peppers.
 
 ### Stage 7 - Serve immediately
-1. With a fork standing by - the overflow is real.
+1. With a fork standing by, the overflow is real.
 2. Cold beer.
 
 ## Notes

@@ -45,15 +45,15 @@ Babka, at its sweet best as the chocolate version, turns out to be a wonderful v
 2. In the bowl of a stand mixer fitted with the dough hook, combine the milk, eggs (reserving one for the wash), sugar, salt and the yeast mixture. Mix briefly to combine.
 3. Add the flour. Mix on low for 2 minutes until a shaggy dough forms.
 4. Add the softened butter a cube at a time, kneading each in before adding the next. This takes 5-6 minutes. The dough will look broken halfway through; keep going and it pulls back together, smooth and elastic.
-5. Knead on medium for another 4 minutes - the dough should clear the bowl walls and feel silky.
+5. Knead on medium for another 4 minutes, the dough should clear the bowl walls and feel silky.
 
 ### Stage 2 - First rise
 1. Shape into a ball, place in a lightly oiled bowl, cover, and leave to rise in a warm place for 1 ½ hours, until visibly puffed. For deeper flavour, refrigerate overnight (8-12 hours) after the initial warm rise.
 
 ### Stage 3 - Make the pesto
-1. While the dough rises, make the pesto. In a food processor, pulse the basil, walnuts, parmesan, garlic and salt until chunky - leave some texture.
+1. While the dough rises, make the pesto. In a food processor, pulse the basil, walnuts, parmesan, garlic and salt until chunky, leave some texture.
 2. With the motor running, drizzle in the olive oil and lemon juice until the pesto is loose enough to spread but not pourable.
-3. Taste - adjust salt and lemon. A pesto destined for spreading wants to be slightly sharper than one for pasta.
+3. Taste, adjust salt and lemon. A pesto destined for spreading wants to be slightly sharper than one for pasta.
 
 ### Stage 4 - Shape
 1. If the dough was refrigerated, let it sit at room temperature for 20 minutes first.
@@ -65,17 +65,17 @@ Babka, at its sweet best as the chocolate version, turns out to be a wonderful v
 7. Curl the rope into a circle on a baking-paper-lined tray, pinching the ends together to form a wreath. The cut faces should still be visible on top.
 
 ### Stage 5 - Final rise
-1. Cover loosely with a tea towel and leave to rise in a warm spot for 1 ½ hours, until visibly puffed (not doubled - over-proved babka collapses).
+1. Cover loosely with a tea towel and leave to rise in a warm spot for 1 ½ hours, until visibly puffed (not doubled, over-proved babka collapses).
 
 ### Stage 6 - Bake
 1. Heat the oven to 170°C fan / 190°C / 375°F.
 2. Beat the reserved egg with a teaspoon of water and brush over the wreath, getting into the creases.
 3. Bake for 45-50 minutes, until deep golden and the internal temperature reaches 90°C at the thickest point. If the top is browning too fast, tent loosely with foil for the last 10 minutes.
-4. Cool on the tray for 20 minutes before slicing - the cheese needs to set inside the layers.
+4. Cool on the tray for 20 minutes before slicing, the cheese needs to set inside the layers.
 
 ## Notes
 - Wild garlic (ramps in North America) makes the most spectacular green-flecked version, and is in season in March and April. Use the same weight as basil and skip the garlic clove.
-- For a fully Sephardic-leaning filling, swap the pesto for a thin layer of zhoug (green chilli-coriander paste) and the cheddar for feta. Different beast - both work.
+- For a fully Sephardic-leaning filling, swap the pesto for a thin layer of zhoug (green chilli-coriander paste) and the cheddar for feta. Different beast, both work.
 - This babka is at its best the day it is baked, warm. Toasted slices the next morning with butter are the dream second-day breakfast.
 
 ## Serving

@@ -2,7 +2,7 @@
 
 ![Sweet spiced roasted peaches](resources/spiced-roasted-peaches.png)
 
-*This simple dessert can be prepared in advance - ready to add the honey glaze at the last moment, for an appealing sheen.*
+*This simple dessert can be prepared in advance, ready to add the honey glaze at the last moment, for an appealing sheen.*
 
 **Serves:** 4
 

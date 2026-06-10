@@ -41,12 +41,12 @@ This is the sort of thing you'd order in a Portuguese tavern after the third gla
 ### Stage 3 - Light (carefully)
 1. **At the table for theatre, with care:** turn off any nearby gas; ensure no flammables overhead; have a saucepan lid nearby to smother flames if needed.
 1. Hold a long match or lighter to the spirit; light it.
-1. Blue flames will rise - they're hot but controlled because the alcohol level is low and the dish contains them.
+1. Blue flames will rise, they're hot but controlled because the alcohol level is low and the dish contains them.
 
 ### Stage 4 - Cook in the flames
 1. The flames cook the chouriço over 8-10 minutes.
 1. As the alcohol burns off, the flames die down.
-1. Use tongs to turn the chouriço halfway through (carefully - flames can flare).
+1. Use tongs to turn the chouriço halfway through (carefully, flames can flare).
 1. The skin should char in patches; the fat should render and pool below the sausage.
 
 ### Stage 5 - When the flames die
@@ -57,14 +57,14 @@ This is the sort of thing you'd order in a Portuguese tavern after the third gla
 1. Slice into 1 cm coins.
 1. Arrange on a plate with bread, olives, pickled chillies.
 1. Drizzle some of the dish oil over the slices.
-1. Mop the rendered oil from the dish with bread - that's the best bit.
+1. Mop the rendered oil from the dish with bread, that's the best bit.
 
 ### Stage 7 - Serve immediately
 1. Eat warm, with the fingers.
 1. Pair with vinho verde, a young red, or a glass of Madeira.
 
 ## Notes
-- **Don't substitute fresh chorizo:** Portuguese chouriço is cured (dried, smoked, sliceable raw). Fresh / raw paprika chorizo (the soft cooking kind) doesn't work for this dish - it'll cook unevenly and lose its shape.
+- **Don't substitute fresh chorizo:** Portuguese chouriço is cured (dried, smoked, sliceable raw). Fresh / raw paprika chorizo (the soft cooking kind) doesn't work for this dish, it'll cook unevenly and lose its shape.
 - **Safety:** Lighting alcohol at the table is dramatic but requires care. Don't pour MORE alcohol onto an already-flaming dish (a flame can travel up the stream into the bottle). Use a long match. Have a saucepan lid nearby to smother flames.
 - **The rendered fat is the best part:** Don't waste it. Mop with bread, drizzle over the slices, or pool a small spoonful onto each slice.
 

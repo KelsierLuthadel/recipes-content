@@ -46,7 +46,7 @@ Nigeria's glossy draw-thick soup, the side-stew that anchors every fufu plate: c
 
 ### Stage 2 - Chop the okra
 1. Trim the stem ends.
-1. Chop the okra into very small rounds - 2 mm thick - OR grate on the coarse side of a box grater. The finer the chop, the more "draw" (mucilage) is released.
+1. Chop the okra into very small rounds - 2 mm thick, OR grate on the coarse side of a box grater. The finer the chop, the more "draw" (mucilage) is released.
 
 ### Stage 3 - Cook the base
 1. Heat palm oil in a wide pot over medium-high until it shimmers.
@@ -61,7 +61,7 @@ Nigeria's glossy draw-thick soup, the side-stew that anchors every fufu plate: c
 
 ### Stage 5 - Okra
 1. Tip in the chopped okra.
-1. Stir; cook just 4-5 minutes - the okra should be tender and bright green. The soup will thicken visibly into a glossy ribboned texture.
+1. Stir; cook just 4-5 minutes, the okra should be tender and bright green. The soup will thicken visibly into a glossy ribboned texture.
 
 ### Stage 6 - Serve
 1. Spoon the soup alongside a mound of fufu, eba or pounded yam.
@@ -70,9 +70,9 @@ Nigeria's glossy draw-thick soup, the side-stew that anchors every fufu plate: c
 
 ## Notes
 - **Don't overcook the okra:** Beyond 6 minutes, okra loses its bright green colour and goes dull khaki, and the slipperiness is replaced by mushiness. 5 minutes is the rule.
-- **The draw is the point:** First-time Nigerian okra-soup eaters from outside the culture often struggle with the slipperiness. The slipperiness is the dish - it's what helps the fufu slide down. Embrace it; don't try to fix it.
+- **The draw is the point:** First-time Nigerian okra-soup eaters from outside the culture often struggle with the slipperiness. The slipperiness is the dish, it's what helps the fufu slide down. Embrace it; don't try to fix it.
 - **Variations:** Okazi okra soup adds shredded okazi (afang) leaves; ogbono can be added for extra body; some recipes use seafood (prawn, periwinkle, snail) in place of beef.
 
 ## Storage
-- Refrigerate 3 days; reheats well - the okra loses some vibrancy but the flavour holds.
+- Refrigerate 3 days; reheats well, the okra loses some vibrancy but the flavour holds.
 - Freezes 2 months; texture suffers slightly.

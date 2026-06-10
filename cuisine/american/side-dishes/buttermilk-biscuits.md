@@ -35,7 +35,7 @@ The American flaky soft biscuit: short by butter, leavened by baking powder and 
 
 ### Stage 3 - Liquid
 1. Pour in cold buttermilk in a stream while folding with a butter knife.
-1. Stop as soon as the dough comes together to a shaggy mass - slightly tacky, with visible butter pieces.
+1. Stop as soon as the dough comes together to a shaggy mass, slightly tacky, with visible butter pieces.
 
 ### Stage 4 - Laminate
 1. Tip onto a lightly floured surface.

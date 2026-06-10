@@ -2,7 +2,7 @@
 
 ![Texas Sheet Cake](resources/texas-sheet-cake.jpg)
 
-*Texas's chocolate-pecan sheet cake: a thin, fudgy, deeply chocolatey single-layer cake topped with a warm chocolate-pecan icing poured while both cake and icing are hot. The Texan church-potluck classic, the cake that defines Texas dessert culture - feeds a crowd, transports easily, tastes incredible.*
+*Texas's chocolate-pecan sheet cake: a thin, fudgy, deeply chocolatey single-layer cake topped with a warm chocolate-pecan icing poured while both cake and icing are hot. The Texan church-potluck classic, the cake that defines Texas dessert culture, feeds a crowd, transports easily, tastes incredible.*
 
 **Serves:** 24
 

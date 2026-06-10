@@ -37,7 +37,7 @@ Carrots, sweet potatoes and prunes are layered in a baking dish with butter or o
 
 ### Stage 2 - Slow cook
 1. Cover the dish tightly with foil and bake for 45 minutes. The vegetables should be tender when pierced with the tip of a knife.
-2. Uncover and stir gently with a wooden spoon - try not to break up the sweet potatoes - and return to the oven for another 25-30 minutes. The juices should reduce and turn syrupy, and the tops of the vegetables should catch and darken in places.
+2. Uncover and stir gently with a wooden spoon, try not to break up the sweet potatoes, and return to the oven for another 25-30 minutes. The juices should reduce and turn syrupy, and the tops of the vegetables should catch and darken in places.
 
 ### Stage 3 - Finish
 1. Fish out the cinnamon stick. Taste and add a pinch more salt if needed; the sweetness needs the salt to land properly.

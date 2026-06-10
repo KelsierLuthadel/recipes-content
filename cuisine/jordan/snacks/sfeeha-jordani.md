@@ -60,7 +60,7 @@ Jordan's open-top meat pastries: small yeasted discs topped with raw spiced lamb
 1. In a wide bowl, mix lamb mince, grated onion (well-squeezed), diced tomato, garlic, parsley, pomegranate molasses, tomato paste, baharat, allspice, Aleppo pepper, cinnamon, salt, pepper, lemon juice and olive oil.
 1. Mix with your hand for 2 minutes until uniform.
 1. Fold in toasted pine nuts.
-1. Taste a tiny piece (cooked in a small pan briefly) - adjust salt / pomegranate molasses.
+1. Taste a tiny piece (cooked in a small pan briefly): adjust salt / pomegranate molasses.
 
 ### Stage 3 - Heat the oven
 1. Heat oven to 220°C (200°C fan).
@@ -77,7 +77,7 @@ Jordan's open-top meat pastries: small yeasted discs topped with raw spiced lamb
 1. Pinch the dough into a 4-cornered square at the edges (the Jordanian star-shape signature; corners stand up slightly above the meat).
 
 ### Stage 6 - Bake
-1. Bake 10-12 minutes - the dough should be gold and the meat is glossy-set, slightly bubbling at the edges.
+1. Bake 10-12 minutes, the dough should be gold and the meat is glossy-set, slightly bubbling at the edges.
 
 ### Stage 7 - Serve
 1. Brush each with a tiny bit of olive oil.

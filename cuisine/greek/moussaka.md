@@ -72,7 +72,7 @@ Moussaka is the Greek tradition of layered aubergine and lamb baked under a thic
 1. Layer in a deep baking dish (about 30 x 20 cm): potatoes, half the lamb, aubergine, remaining lamb, more aubergine.
 1. Pour béchamel evenly over the top.
 1. Bake 45-50 minutes until golden and bubbling.
-1. Rest at least 15 minutes before slicing (essential - it firms up).
+1. Rest at least 15 minutes before slicing (essential, it firms up).
 
 ## Notes
 - **Salt the aubergine:** Removes bitterness and stops it sponging up oil. 20 minutes is enough.

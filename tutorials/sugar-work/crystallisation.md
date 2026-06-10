@@ -11,7 +11,7 @@ Sugar (sucrose) is a small symmetrical molecule that crystallises easily from co
 - **Fudge, fondant, pralines.** Fine crystals throughout. Smooth-fine-grained texture.
 - **Rock candy.** Large visible crystals. Decorative or whimsical.
 
-Each requires different handling. The same recipe handled differently gives different results - and the same recipe handled the wrong way gives a failed batch.
+Each requires different handling. The same recipe handled differently gives different results, and the same recipe handled the wrong way gives a failed batch.
 
 ## The Two Failure Modes
 
@@ -21,7 +21,7 @@ A batch of caramel intended for sauce becomes a grainy mass of sandy crystals. A
 
 Causes:
 - A single seed crystal nucleated the rest of the batch
-- Sugar dissolved unevenly at the start - undissolved crystals seeded the whole pan
+- Sugar dissolved unevenly at the start, undissolved crystals seeded the whole pan
 - Crystals on the pan wall (from splashing) dropped into the molten mass
 - Stirring during the cook brought crystals out of solution
 - Cooling was too slow or in the wrong conditions
@@ -38,9 +38,9 @@ Causes:
 
 ## What Causes Crystals to Form
 
-Sugar in water is a solution. The water has dissolved the sugar. As you boil the water away, the syrup becomes increasingly concentrated; at the higher stages (firm ball, hard ball, hard crack) the solution is "supersaturated" - it contains more dissolved sugar than the water can normally hold.
+Sugar in water is a solution. The water has dissolved the sugar. As you boil the water away, the syrup becomes increasingly concentrated; at the higher stages (firm ball, hard ball, hard crack) the solution is "supersaturated", it contains more dissolved sugar than the water can normally hold.
 
-In a supersaturated state, the sucrose molecules want to leave solution and reform into crystals. The reason they do not is that the molecules need a starting point - a seed crystal - to attach to. Without a seed, the supersaturated syrup stays liquid for a long time.
+In a supersaturated state, the sucrose molecules want to leave solution and reform into crystals. The reason they do not is that the molecules need a starting point, a seed crystal, to attach to. Without a seed, the supersaturated syrup stays liquid for a long time.
 
 A seed crystal can be:
 - An undissolved sugar grain from the original sugar
@@ -60,7 +60,7 @@ Typical addition: 10-20% of the sugar weight, as glucose syrup.
 
 For 250 g sugar, use 30-50 ml of glucose syrup.
 
-Light corn syrup (American name) is essentially the same product - mostly glucose with some water. Substitute equally.
+Light corn syrup (American name) is essentially the same product, mostly glucose with some water. Substitute equally.
 
 Honey, golden syrup and maple syrup contain mostly different sugars (fructose, dextrose) and also work as anti-crystallisers, with their own flavour notes.
 
@@ -100,7 +100,7 @@ The technique:
 
 1. **Cook to soft ball stage (113-115 C).** Stop the cook here; this is the concentration that allows fine crystals to form during cooling.
 2. **Do not stir during cooling.** Pour onto a cold surface or into a cold buttered tin. Let it cool to 43-50 C undisturbed.
-3. **Then beat vigorously.** Once cooled, beat with a wooden spoon or paddle for 5-10 minutes. The beating shears the syrup and nucleates many crystals at once - the abrupt mechanical action produces the fine grain.
+3. **Then beat vigorously.** Once cooled, beat with a wooden spoon or paddle for 5-10 minutes. The beating shears the syrup and nucleates many crystals at once, the abrupt mechanical action produces the fine grain.
 
 The key insight: the syrup must be supersaturated and cool when the beating begins. Beating earlier (while still hot) produces no crystallisation; beating later (after the syrup has set) is too late.
 

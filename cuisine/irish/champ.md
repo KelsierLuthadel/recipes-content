@@ -26,7 +26,7 @@ Champ is the Northern Irish mashed potato, a generous mound of floury mash infus
 
 ### Stage 1 - Steep the milk
 1. Put the milk and spring onions in a small pan; bring just to a simmer.
-1. Off the heat, cover and rest 10 minutes - the onions soften and infuse the milk.
+1. Off the heat, cover and rest 10 minutes, the onions soften and infuse the milk.
 
 ### Stage 2 - Potatoes
 1. Boil the potatoes in salted water 15-18 minutes until completely tender.

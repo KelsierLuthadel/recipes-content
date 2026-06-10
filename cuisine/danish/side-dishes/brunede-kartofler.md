@@ -11,18 +11,18 @@
 **Cook Time:** 25 minutes (mostly potato boiling)
 
 ## Overview
-Brunede kartofler (literally "browned potatoes" - though the name undersells the colour; they're more amber-caramel than just browned) are one of Denmark's most distinctive savoury-meets-sweet side dishes and a non-negotiable component of every Danish Christmas table. The technique is simple but the result polarises non-Danes: small whole new potatoes (peeled cooked the day before) are rolled in a hot pan where caster sugar has been melted into a pale golden caramel, then butter added to halt the caramel and turn it glossy. The potatoes pick up a glistening sweet amber glaze that's not too sweet (the potato's starch absorbs and balances the sugar) but unmistakably present. Served alongside the traditional Danish Christmas pork roast (julestege), Frikadeller, the Christmas duck, or any traditional dinner with rødkål and red cabbage. The Danish meal layout always has BOTH plain boiled potatoes AND brunede kartofler on the table; diners take some of each.
+Brunede kartofler (literally "browned potatoes", though the name undersells the colour; they're more amber-caramel than just browned) are one of Denmark's most distinctive savoury-meets-sweet side dishes and a non-negotiable component of every Danish Christmas table. The technique is simple but the result polarises non-Danes: small whole new potatoes (peeled cooked the day before) are rolled in a hot pan where caster sugar has been melted into a pale golden caramel, then butter added to halt the caramel and turn it glossy. The potatoes pick up a glistening sweet amber glaze that's not too sweet (the potato's starch absorbs and balances the sugar) but unmistakably present. Served alongside the traditional Danish Christmas pork roast (julestege), Frikadeller, the Christmas duck, or any traditional dinner with rødkål and red cabbage. The Danish meal layout always has BOTH plain boiled potatoes AND brunede kartofler on the table; diners take some of each.
 
 ## Ingredients
 
-- 1 kg small new potatoes (about walnut-sized - uniform, waxy, NOT floury; boiled the day before, peeled, cold)
+- 1 kg small new potatoes (about walnut-sized, uniform, waxy, NOT floury; boiled the day before, peeled, cold)
 - 100 g caster sugar
 - 60 g butter
 - ½ teaspoon flaky sea salt
 - (Optional, less traditional: 1 tablespoon water at the start to dissolve the sugar; or a splash of cream at the end for a silkier glaze)
 
 ### To serve
-- Alongside any Danish Christmas or Sunday dinner - particularly with julestege (Christmas roast pork), Frikadeller, roast duck, or roast goose
+- Alongside any Danish Christmas or Sunday dinner, particularly with julestege (Christmas roast pork), Frikadeller, roast duck, or roast goose
 
 ## Method
 
@@ -31,15 +31,15 @@ Brunede kartofler (literally "browned potatoes" - though the name undersells the
 2. Drain; cool completely.
 3. Peel (the skins slip off easily on cold cooked potatoes).
 4. Refrigerate overnight if making the day before, or rest at room temp for a few hours.
-5. The potatoes need to be COLD and DRY when they hit the caramel - warm or wet potatoes won't glaze properly.
+5. The potatoes need to be COLD and DRY when they hit the caramel, warm or wet potatoes won't glaze properly.
 
 ### Stage 2 - Make the caramel
 1. Use a wide heavy-bottomed pan (cast iron ideal).
 2. Spread the sugar in an even layer across the bottom.
-3. Heat over medium heat (no stirring - let the sugar melt undisturbed).
+3. Heat over medium heat (no stirring, let the sugar melt undisturbed).
 4. Watch closely. After about 3-5 minutes, the sugar at the edges will start to melt and turn pale gold.
 5. Gently swirl the pan (don't stir with a spoon) to distribute the melting sugar.
-6. Continue heating till the entire sugar pool is a uniform pale amber colour. This is the proper caramel stage - about 4-5 minutes total. Stop before it goes dark amber (bitter).
+6. Continue heating till the entire sugar pool is a uniform pale amber colour. This is the proper caramel stage, about 4-5 minutes total. Stop before it goes dark amber (bitter).
 
 ### Stage 3 - Add butter
 1. Quickly add the butter to the hot caramel.
@@ -66,7 +66,7 @@ Brunede kartofler (literally "browned potatoes" - though the name undersells the
 - **Small uniform potatoes:** walnut-sized waxy potatoes. Large potatoes don't roll properly and don't glaze evenly.
 - **COLD and DRY potatoes:** essential. Warm potatoes weep and dilute the caramel; wet potatoes don't take the glaze.
 - **Caramel stage:** pale amber (not too pale, not too dark). The window is narrow. Watch carefully and don't multitask.
-- **Butter at the end:** the magic step - halts the caramel and creates the glaze.
+- **Butter at the end:** the magic step, halts the caramel and creates the glaze.
 - **Don't stir with a metal spoon:** scratches the potatoes. Swirl the pan or use a wooden / silicone spatula gently.
 
 ## Variations
@@ -80,7 +80,7 @@ Brunede kartofler (literally "browned potatoes" - though the name undersells the
 At every Danish Christmas Eve dinner (julestege) · at a Danish Christmas Day lunch with frikadeller · at Sunday roast with duck or pork · at a Danish family Easter dinner · alongside any roast meat at a Danish table where boiled potatoes alone would feel too plain.
 
 ## Storage
-- Best fresh - the glaze sets and dulls as they cool.
+- Best fresh, the glaze sets and dulls as they cool.
 - Refrigerate 2 days; reheat in a 180°C oven for 8 minutes to re-soften the glaze.
 - Don't freeze (texture suffers).
 - Boiled-peeled cold potatoes (the base) keep 3 days refrigerated, ready to glaze when needed.

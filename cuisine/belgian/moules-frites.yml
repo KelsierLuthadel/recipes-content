@@ -44,8 +44,8 @@ ingredients:
     name: garlic
     raw: 4 cloves garlic, finely chopped
   - qty: 1
-    name: flat-leaf parsley - stalks chopped fine
-    raw: 1 small bunch fresh flat-leaf parsley - stalks chopped fine, leaves chopped and reserved for finishing
+    name: "flat-leaf parsley : stalks chopped fine"
+    raw: "1 small bunch fresh flat-leaf parsley : stalks chopped fine, leaves chopped and reserved for finishing"
   - qty: 250
     unit: ml
     name: dry white wine
@@ -62,8 +62,8 @@ ingredients:
   - name: reserved chopped parsley leaves
     raw: Reserved chopped parsley leaves
   - qty: 1
-    name: batch belgian frites - twice-fried in beef tallow ideally
-    raw: 1 batch Belgian frites - twice-fried in beef tallow ideally
+    name: "batch belgian frites : twice-fried in beef tallow ideally"
+    raw: "1 batch Belgian frites : twice-fried in beef tallow ideally"
   - qty: 1
     name: bowl mayonnaise
     raw: 1 small bowl mayonnaise

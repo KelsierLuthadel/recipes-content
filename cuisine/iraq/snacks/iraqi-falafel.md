@@ -57,7 +57,7 @@ Iraqi falafel is the version with cardamom and dill, distinct from the Levantine
 ### Stage 1 - Soak (the day before)
 1. Cover the chickpeas with cold water by at least 5 cm; they more than double in size.
 2. Soak 24 hours at room temperature (or 36 in the fridge in summer).
-3. Drain and pat dry. Do not cook - cooked chickpeas give a wet, gummy falafel.
+3. Drain and pat dry. Do not cook, cooked chickpeas give a wet, gummy falafel.
 
 ### Stage 2 - Process
 1. Combine the drained chickpeas, onion, garlic, chilli, herbs, cumin, coriander, cardamom, pepper, salt and sesame seeds in a food processor.

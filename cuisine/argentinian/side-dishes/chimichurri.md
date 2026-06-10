@@ -25,7 +25,7 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 - 250 ml extra-virgin olive oil
 - 1 teaspoon fine sea salt
 - 1 teaspoon coarsely ground black pepper
-- 1 small bunch fresh oregano (optional; chopped - adds a fresh layer)
+- 1 small bunch fresh oregano (optional; chopped, adds a fresh layer)
 - 1 small bunch fresh thyme (optional; chopped)
 - ½ teaspoon ground cumin (optional; less traditional but common)
 
@@ -34,7 +34,7 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 ### Stage 1 - Chop the parsley
 1. Wash and thoroughly dry the parsley.
 2. Remove the thick stems (use the thinner stems).
-3. Chop FINELY by hand on a board - don't use a food processor (the traditional Argentine technique).
+3. Chop FINELY by hand on a board, don't use a food processor (the traditional Argentine technique).
 4. You want pieces about 2-3 mm; not paste.
 
 ### Stage 2 - Combine in a bowl
@@ -71,11 +71,11 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 ## Variations
 **Chimichurri rojo (red):** add 1 small red bell pepper finely chopped + 1 teaspoon sweet paprika. The Uruguayan / southern Brazilian variant.
 **Chimichurri picante (spicy):** double the chilli flakes; add 1 fresh chopped chilli.
-**Chimichurri verde (green Mexican-style):** add chopped fresh coriander - non-Argentine but excellent.
+**Chimichurri verde (green Mexican-style):** add chopped fresh coriander, non-Argentine but excellent.
 **Chimichurri criollo:** add ½ chopped tomato; semi-criollo (between chimichurri and salsa criolla).
-**Chimichurri with lemon zest:** add zest of 1 lemon - modern variant; non-traditional.
+**Chimichurri with lemon zest:** add zest of 1 lemon, modern variant; non-traditional.
 **Chimichurri butter:** mix 2 tablespoons of chimichurri into 60 g softened butter; serve as a compound butter on grilled steak.
-**Chimichurri aioli:** mix 4 tablespoons into 200 g mayonnaise - modern Argentine restaurant variant.
+**Chimichurri aioli:** mix 4 tablespoons into 200 g mayonnaise, modern Argentine restaurant variant.
 
 ## Serving
 At every Argentine asado on every grilled cut of meat (the traditional setting) · in every choripán sandwich · on grilled provoleta · as a marinade for grilled chicken or fish · drizzled over avocado toast · alongside grilled vegetables · at home as a green-sauce-for-everything.

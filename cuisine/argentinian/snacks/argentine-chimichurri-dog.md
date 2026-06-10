@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich than hot dog in shape - but in Argentine asado culture, it's the traditional between-the-grilling snack and a national institution. The construction is structural sister to the hot dog: a length of Argentine chorizo (a coarse-ground pork-and-beef sausage seasoned with sweet paprika, garlic, salt and white wine; thicker and more rustic than a frankfurter) butterflied by being sliced lengthwise without cutting all the way through, then grilled hard over wood-coal embers till the cut faces caramelise deeply and the casing crisps. Placed inside a soft baguette-style French roll (often called a "rosa de pan" in Argentina; lightly toasted on the grill on its cut sides), smothered in a fistful of bright green chimichurri sauce (the Argentine herb-vinegar sauce of fresh parsley, oregano, garlic, red wine vinegar, olive oil, dried red chilli flakes and salt), and finished with chopped pickled red onion + tomato mix (called "salsa criolla" - the Argentine table relish).
+The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich than hot dog in shape, but in Argentine asado culture, it's the traditional between-the-grilling snack and a national institution. The construction is structural sister to the hot dog: a length of Argentine chorizo (a coarse-ground pork-and-beef sausage seasoned with sweet paprika, garlic, salt and white wine; thicker and more rustic than a frankfurter) butterflied by being sliced lengthwise without cutting all the way through, then grilled hard over wood-coal embers till the cut faces caramelise deeply and the casing crisps. Placed inside a soft baguette-style French roll (often called a "rosa de pan" in Argentina; lightly toasted on the grill on its cut sides), smothered in a fistful of bright green chimichurri sauce (the Argentine herb-vinegar sauce of fresh parsley, oregano, garlic, red wine vinegar, olive oil, dried red chilli flakes and salt), and finished with chopped pickled red onion + tomato mix (called "salsa criolla", the Argentine table relish).
 
 ## Ingredients
 
@@ -64,7 +64,7 @@ The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich 
 
 ### Stage 3 - Butterfly and grill the chorizo
 1. Place each chorizo on a board.
-2. With a sharp knife, slice lengthwise down the middle without cutting all the way through; open it up like a book ("a la mariposa" - butterflied).
+2. With a sharp knife, slice lengthwise down the middle without cutting all the way through; open it up like a book ("a la mariposa", butterflied).
 3. Heat a barbecue, grill pan, or wide cast-iron pan to high.
 4. Place chorizo cut-side down first; grill 4-5 minutes till deeply caramelised.
 5. Flip; grill the rounded side 3-4 minutes till the casing crisps and starts to char in spots.

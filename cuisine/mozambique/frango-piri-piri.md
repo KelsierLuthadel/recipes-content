@@ -27,7 +27,7 @@ Mozambique's national grilled chicken and the dish that defines coastal Lusophon
 - 100 ml olive oil
 
 ### Chicken
-- 1 whole chicken (1.6-1.8 kg) (spatchcocked - ask the butcher or cut the backbone out with kitchen shears)
+- 1 whole chicken (1.6-1.8 kg) (spatchcocked, ask the butcher or cut the backbone out with kitchen shears)
 - 1 tablespoon olive oil (extra, for basting)
 - 1 lemon (for serving)
 
@@ -36,7 +36,7 @@ Mozambique's national grilled chicken and the dish that defines coastal Lusophon
 ### Stage 1 - Marinade
 1. Strip the chilli stems. Roughly chop the chillies (leave the seeds for full heat; deseed for less).
 1. Blend the chillies, garlic, paprika, oregano, salt, pepper, lemon zest and juice, vinegar and oil to a smooth red paste.
-1. Reserve a third of the marinade in a small bowl - this is the basting / serving sauce.
+1. Reserve a third of the marinade in a small bowl, this is the basting / serving sauce.
 
 ### Stage 2 - Marinate
 1. Place the spatchcocked chicken skin-up on a board. Score the thickest parts of the thighs and breasts 1 cm deep.

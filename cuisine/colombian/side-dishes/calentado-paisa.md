@@ -2,7 +2,7 @@
 
 ![Calentado Paisa](resources/calentado-paisa.jpg)
 
-*Colombia's Antioqueño breakfast hash: a pan-fried mixture of leftover rice and beans crisped in oil with sliced sausage, scallions and hogao, topped with a fried egg and served with arepas. The paisa region's answer to the "what to do with last night's leftovers" question - the traditional Sunday morning hangover cure.*
+*Colombia's Antioqueño breakfast hash: a pan-fried mixture of leftover rice and beans crisped in oil with sliced sausage, scallions and hogao, topped with a fried egg and served with arepas. The paisa region's answer to the "what to do with last night's leftovers" question, the traditional Sunday morning hangover cure.*
 
 **Serves:** 4
 

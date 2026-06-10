@@ -55,7 +55,7 @@ Kabuli pulao is Afghanistan's national dish, the centrepiece of every wedding, E
 1. Add the garlic, ginger, cardamom, cinnamon, cumin, coriander and black pepper; cook 1 minute.
 1. Return the lamb; pour in the water; add salt.
 1. Bring to the boil; reduce to a simmer; cover; cook 1 hour - 1 ¼ until the lamb is fork-tender.
-1. Lift the lamb out; strain the stock; reserve both. You should have about 1 litre of stock - top up with hot water if less.
+1. Lift the lamb out; strain the stock; reserve both. You should have about 1 litre of stock, top up with hot water if less.
 
 ### Stage 2 - Carrots and raisins
 1. Melt the butter in a wide pan over medium heat.
@@ -64,7 +64,7 @@ Kabuli pulao is Afghanistan's national dish, the centrepiece of every wedding, E
 
 ### Stage 3 - Parboil rice
 1. Bring 2 litres of water to the boil with 1 tablespoon salt.
-1. Drain the rice; tip in; cook 5-6 minutes - al dente; drain.
+1. Drain the rice; tip in; cook 5-6 minutes, al dente; drain.
 
 ### Stage 4 - Layer
 1. Wipe out the lamb pot; heat the oil over medium heat.
@@ -90,7 +90,7 @@ Kabuli pulao is Afghanistan's national dish, the centrepiece of every wedding, E
 1. Serve with yogurt and a simple cucumber-tomato salad on the side.
 
 ## Notes
-- **Carrots cooked separately, sweet:** The carrots in Kabuli pulao are nearly candied - soft, sweet, golden. Don't skip the sugar or under-cook.
+- **Carrots cooked separately, sweet:** The carrots in Kabuli pulao are nearly candied, soft, sweet, golden. Don't skip the sugar or under-cook.
 - **Tea towel under lid:** Standard South-Central Asian rice technique; gives drier, fluffier grains and helps the bottom crisp.
 - **Caramelised sugar for colour:** Optional but traditional. Cook sugar with water to deep amber; this colours the rice the proper Kabuli amber.
 

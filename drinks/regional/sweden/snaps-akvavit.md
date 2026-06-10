@@ -19,7 +19,7 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 - 1 bottle (700 ml) Skåne Akvavit OR OP Anderson Akvavit OR Aalborg Taffel Akvavit (Danish, similar)
 
 ### Option B: Home-infused snaps (1-week infusion)
-- 700 ml clear neutral vodka (a smooth one - Absolut, Smirnoff Black, or any quality potato vodka)
+- 700 ml clear neutral vodka (a smooth one, Absolut, Smirnoff Black, or any quality potato vodka)
 - 3 tablespoons caraway seeds (whole)
 - 1 tablespoon fennel seeds
 - 1 tablespoon dill seeds (or 4 fresh dill sprigs)
@@ -47,7 +47,7 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 
 ### Stage 1A - Option A: Bottled akvavit
 1. Place the unopened bottle in the freezer 24 hours before serving.
-2. (Akvavit, with its high alcohol content, won't freeze; it'll just become syrupy-cold and viscous - the traditional "ice-cold from the freezer" Swedish presentation.)
+2. (Akvavit, with its high alcohol content, won't freeze; it'll just become syrupy-cold and viscous, the traditional "ice-cold from the freezer" Swedish presentation.)
 3. Skip to Stage 4.
 
 ### Stage 1B - Option B: Home-infused (1-week version)
@@ -99,7 +99,7 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 **Bäska Droppar:** the Swedish bitter wormwood-and-citrus snaps. Acquired taste.
 **Brännvin (plain unflavoured):** a clear unflavoured Swedish spirit. Simple.
 **Hallonbåtar (raspberry snaps):** infuse the vodka with raspberries + sugar for a sweeter dessert-end snaps.
-**Aquavit cocktails (modern):** akvavit in cocktails (Akvavit Martini, Aquavit Sour, Negroni with akvavit) - non-traditional but increasingly popular.
+**Aquavit cocktails (modern):** akvavit in cocktails (Akvavit Martini, Aquavit Sour, Negroni with akvavit): non-traditional but increasingly popular.
 
 ## Serving
 At every traditional Swedish meal involving cured fish or the smörgåsbord · at the Christmas julbord · at Midsommar lunch in the garden · at Easter brunch · at a Nordic-themed dinner party.

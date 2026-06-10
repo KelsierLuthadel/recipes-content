@@ -42,7 +42,7 @@ Chicha morada is Peru's most identity-defining non-alcoholic drink and the tradi
 ## Method
 
 ### Stage 1 - Prepare the corn
-1. If using a whole corn cob: break or saw it into 3-4 pieces. Don't bother removing kernels - the cob itself holds most of the colour.
+1. If using a whole corn cob: break or saw it into 3-4 pieces. Don't bother removing kernels, the cob itself holds most of the colour.
 2. If using kernels: weigh out 200 g.
 
 ### Stage 2 - The long simmer (the colour extraction)
@@ -81,19 +81,19 @@ Chicha morada is Peru's most identity-defining non-alcoholic drink and the tradi
 
 ## Notes
 - **Dried maíz morado is dramatically different from substitutes:** the deep-purple Andean corn has a unique earthy-floral character. Source from a Latin American shop if you can.
-- **Pineapple skin in the brew:** the traditional Peruvian addition - the rind gives aroma without the cloudiness that the flesh would. Don't skip.
+- **Pineapple skin in the brew:** the traditional Peruvian addition, the rind gives aroma without the cloudiness that the flesh would. Don't skip.
 - **Chill fully:** 2 hours minimum. The drink is dramatically better cold than warm.
 - **Lime juice fresh:** never bottled. The bright bracing acidity is critical.
 - **Don't over-sweeten:** chicha morada is moderately sweet, not aggressively. Adjust to taste but stop at 200 g sugar for 2 litres.
-- **The fresh fruit stays crunchy:** added cold at the end, the apple and pineapple stay crisp - the traditional Peruvian texture.
+- **The fresh fruit stays crunchy:** added cold at the end, the apple and pineapple stay crisp, the traditional Peruvian texture.
 
 ## Variations
-**Chicha morada with chia seeds:** add 2 tablespoons chia seeds to the chilled drink; let stand 20 minutes till the seeds bloom into a gel - the modern Peruvian variant.
-**Chicha morada gelatin:** dissolve gelatin (or agar agar for vegan) in the warm broth; pour into glasses; chill - a Peruvian dessert variant.
-**Spiked chicha morada (alcoholic):** add 30 ml of Peruvian pisco to each glass before serving - the adult Peruvian summer drink.
-**Sangria chicha morada:** add a bottle of dry red wine + diced fruit to the cold chicha - the modern Lima fusion.
-**Chicha morada popsicles:** freeze in popsicle moulds with a wedge of fruit - the Peruvian summer street-food.
-**Sparkling chicha morada:** top each glass with 30 ml of cold sparkling water - the bubblier variant.
+**Chicha morada with chia seeds:** add 2 tablespoons chia seeds to the chilled drink; let stand 20 minutes till the seeds bloom into a gel, the modern Peruvian variant.
+**Chicha morada gelatin:** dissolve gelatin (or agar agar for vegan) in the warm broth; pour into glasses; chill, a Peruvian dessert variant.
+**Spiked chicha morada (alcoholic):** add 30 ml of Peruvian pisco to each glass before serving, the adult Peruvian summer drink.
+**Sangria chicha morada:** add a bottle of dry red wine + diced fruit to the cold chicha, the modern Lima fusion.
+**Chicha morada popsicles:** freeze in popsicle moulds with a wedge of fruit, the Peruvian summer street-food.
+**Sparkling chicha morada:** top each glass with 30 ml of cold sparkling water, the bubblier variant.
 **Smaller batch:** halve all the ingredients for 1 litre instead of 2.
 
 ## Serving
@@ -101,7 +101,7 @@ At a Peruvian household lunch (the traditional setting; chicha morada is the tra
 
 ## Storage
 - The brewed concentrated broth refrigerates 5 days; freezes 3 months.
-- The fully-assembled chicha morada (with fresh fruit) is best within 24 hours - the fresh fruit slowly leaks colour.
+- The fully-assembled chicha morada (with fresh fruit) is best within 24 hours, the fresh fruit slowly leaks colour.
 - The dry purple corn cobs and kernels keep indefinitely in a sealed jar in a dry pantry.
 - A "chicha morada concentrate" can be made 2x or 3x strength and refrigerated for up to a week; dilute with water to serve.
-- Don't freeze with fresh fruit in - freeze the broth only, add fresh fruit on defrost.
+- Don't freeze with fresh fruit in, freeze the broth only, add fresh fruit on defrost.

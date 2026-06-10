@@ -29,7 +29,7 @@ What it does:
 
 - **Blocks Clostridium botulinum.** This is the dangerous pathogen of charcuterie. It grows in low-oxygen environments (under a layer of fat, inside a sausage casing, in a cured ham), at warm-ish temperatures (above 4 C), and produces a toxin that is one of the most lethal known to medicine. Nitrite blocks its growth at concentrations as low as 150 parts per million.
 - **Stabilises colour.** The pink-red of cured ham (versus the brown of cooked roast pork) is the nitrite-myoglobin bond. Bacon, ham, frankfurters all owe their colour to nitrite.
-- **Contributes flavour.** The characteristic "cured" flavour - the difference between a cured pork chop and a roast one - is partly the nitrite.
+- **Contributes flavour.** The characteristic "cured" flavour, the difference between a cured pork chop and a roast one, is partly the nitrite.
 
 The standard dose is **0.25% of meat weight**. That is 2.5 g of cure #1 per kilo of meat. Cure #1 is approximately 6.25% nitrite by weight; 2.5 g cure #1 contains about 156 mg of nitrite, which lands at the 150 ppm in-meat concentration that is the food-safety target.
 
@@ -64,10 +64,10 @@ Both nitrites and nitrates occur naturally in vegetables (especially celery, bee
 Most cures contain sugar at 1-2% of meat weight. It does several things:
 
 - **Softens the saltiness.** A cure with 3% salt and 1% sugar tastes less harshly salty than the same cure without sugar; the flavour rounds out.
-- **Feeds the curing bacteria.** In long-aged dry cures (salami, dry-cured ham), specific bacteria - lactobacilli and related species - ferment the sugar, lower the pH, and add tang. The lower pH (alongside the salt and the water loss) is the third safety leg of the cure.
+- **Feeds the curing bacteria.** In long-aged dry cures (salami, dry-cured ham), specific bacteria, lactobacilli and related species, ferment the sugar, lower the pH, and add tang. The lower pH (alongside the salt and the water loss) is the third safety leg of the cure.
 - **Balances the cure aesthetically.** A bit of sugar in bacon makes it taste like bacon and not like jerky.
 
-Brown sugar, maple syrup, honey, white sugar - all work. The differences are flavour, not function.
+Brown sugar, maple syrup, honey, white sugar, all work. The differences are flavour, not function.
 
 ## The Percentage-by-Weight Method
 
@@ -83,7 +83,7 @@ Black pepper: 1.0% = 10.0 g
 
 Mix all the dry cure together, coat the meat thoroughly, vacuum-seal or place in a heavy-duty resealable bag, refrigerate. Flip the bag daily. Done.
 
-This method scales to any size of meat. The percentages stay the same; only the gram totals change. There is no margin of safety in the cure #1 ratio - it must be 0.25% to land in the safe-and-effective range.
+This method scales to any size of meat. The percentages stay the same; only the gram totals change. There is no margin of safety in the cure #1 ratio, it must be 0.25% to land in the safe-and-effective range.
 
 A useful safety hack: never premix a large batch of "house cure" with cure #1 included. The cure #1 is so small that it concentrates unevenly when mixed in bulk. Mix each cure fresh, using a 0.1 g scale, for the specific batch of meat you are working with.
 
@@ -93,7 +93,7 @@ Some traditional dry-cured products use only sea salt and time (notably some pro
 
 This is not safely achievable at home without serious aging infrastructure. The professional curing rooms of an Italian prosciutto producer have decades of microflora colonising the walls (favourable Penicillium and Staphylococcus species) and the temperature control to back it up. Replicating that is not a beginner project.
 
-For the home cook, cure #1 (short) and cure #2 (long) are the safety insurance that makes the project achievable without dedicated infrastructure. The flavour of nitrite-cured meat is also what most palates expect of "cured" - prosciutto-without-nitrite is a different ingredient.
+For the home cook, cure #1 (short) and cure #2 (long) are the safety insurance that makes the project achievable without dedicated infrastructure. The flavour of nitrite-cured meat is also what most palates expect of "cured", prosciutto-without-nitrite is a different ingredient.
 
 ## Where Next
 - [Safety](safety.md): the rules these chemicals enforce, and what happens if they fail.

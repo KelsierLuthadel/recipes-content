@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pastizzi are Malta's most iconic street food - small flaky phyllo-pastry pockets that appear in every Maltese pastizzeria, every bus station, every village square shop, and every snack break. The traditional Maltese pastizzi come in two main filling types: pastizzi tal-irkotta (with seasoned ricotta - the more popular of the two, made with drained ricotta, beaten egg, salt, pepper, and chopped parsley) and pastizzi tal-piżelli (with curried mushy peas - green split peas slowly cooked with onion, curry powder, tomato paste). The pastry is a labour-intensive Maltese-specific dough (close to but different from phyllo or strudel dough) that's been stretched paper-thin, painted with lard or vegetable fat, layered, and shaped into the iconic diamond shape with a slight peak in the middle. Most home cooks use bought phyllo (filo) pastry as a substitute.
+Pastizzi are Malta's most iconic street food, small flaky phyllo-pastry pockets that appear in every Maltese pastizzeria, every bus station, every village square shop, and every snack break. The traditional Maltese pastizzi come in two main filling types: pastizzi tal-irkotta (with seasoned ricotta, the more popular of the two, made with drained ricotta, beaten egg, salt, pepper, and chopped parsley) and pastizzi tal-piżelli (with curried mushy peas, green split peas slowly cooked with onion, curry powder, tomato paste). The pastry is a labour-intensive Maltese-specific dough (close to but different from phyllo or strudel dough) that's been stretched paper-thin, painted with lard or vegetable fat, layered, and shaped into the iconic diamond shape with a slight peak in the middle. Most home cooks use bought phyllo (filo) pastry as a substitute.
 
 ## Ingredients
 
@@ -73,7 +73,7 @@ Pastizzi are Malta's most iconic street food - small flaky phyllo-pastry pockets
 **Pastizzi tal-piżelli:** the curried pea traditional.
 **Pastizzi tat-tonn:** with tuna and tomato.
 **Pastizzi tal-laħam:** with minced beef and spices.
-**Pastizzi taċ-ċikkulata:** with chocolate and ricotta - dessert variant.
+**Pastizzi taċ-ċikkulata:** with chocolate and ricotta, dessert variant.
 **Mini pastizzi:** smaller squares for canapé portions.
 
 ## Serving

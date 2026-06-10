@@ -25,7 +25,7 @@ The dessert against which all other Italian creams are judged: cooked cream, set
 - A pinch of salt
 
 ### Berry compote
-- 300 g mixed berries (raspberries, strawberries, blueberries, blackberries - fresh or frozen)
+- 300 g mixed berries (raspberries, strawberries, blueberries, blackberries, fresh or frozen)
 - 60 g caster sugar
 - 1 tablespoon lemon juice
 - 1 tablespoon water
@@ -38,18 +38,18 @@ The dessert against which all other Italian creams are judged: cooked cream, set
 ## Method
 
 ### Stage 1 - Bloom the gelatin
-1. **Powdered**: sprinkle 8 g gelatin over 100 ml cold milk in a small bowl; let stand 5 minutes - the powder absorbs the liquid and swells into a soft, slightly bouncy mass.
+1. **Powdered**: sprinkle 8 g gelatin over 100 ml cold milk in a small bowl; let stand 5 minutes, the powder absorbs the liquid and swells into a soft, slightly bouncy mass.
 1. **Leaf**: soak 4 leaves in plenty of cold water 5 minutes; squeeze out excess water before using.
 
 ### Stage 2 - Heat the cream
 1. In a saucepan, combine double cream, 150 ml additional milk, caster sugar, the split vanilla pod (and its scraped seeds), and a pinch of salt.
 1. Heat over medium-low, stirring occasionally to dissolve the sugar.
-1. Bring to JUST under a simmer (about 80°C - small bubbles at the edges, no rolling boil).
+1. Bring to JUST under a simmer (about 80°C, small bubbles at the edges, no rolling boil).
 1. Off heat.
 
 ### Stage 3 - Combine with gelatin
 1. Pour about half the hot cream into the bowl with the bloomed gelatin.
-1. Whisk to dissolve the gelatin completely - no specks left.
+1. Whisk to dissolve the gelatin completely, no specks left.
 1. Pour back into the saucepan; whisk thoroughly to combine.
 
 ### Stage 4 - Strain and pour
@@ -70,7 +70,7 @@ The dessert against which all other Italian creams are judged: cooked cream, set
 
 ### Stage 7 - Unmould and serve
 1. To unmould: run a thin knife around the inside edge of each ramekin.
-1. Dip the bottom of the ramekin in a bowl of hot tap water for 5-8 seconds - feel it loosen.
+1. Dip the bottom of the ramekin in a bowl of hot tap water for 5-8 seconds, feel it loosen.
 1. Place a serving plate over the top; invert; lift the ramekin away. The panna cotta should slide out as a domed disc.
 1. Spoon the berry compote around the base.
 1. Garnish with a mint sprig.
@@ -79,12 +79,12 @@ The dessert against which all other Italian creams are judged: cooked cream, set
 1. Eat slightly cold, but not fridge-fresh. The flavours open at slightly-cool temperature.
 
 ## Notes
-- **Gelatin proportion is precise:** 8 g powdered (or 4 leaves) for 750 ml of liquid gives the right wobble. Less and it won't hold its shape; more and it's gummy. If using a different brand of gelatin, check the packet - some are stronger than others.
+- **Gelatin proportion is precise:** 8 g powdered (or 4 leaves) for 750 ml of liquid gives the right wobble. Less and it won't hold its shape; more and it's gummy. If using a different brand of gelatin, check the packet, some are stronger than others.
 - **Don't boil the cream:** Boiling denatures the gelatin and the panna cotta won't set properly. Just below a simmer is right.
 - **Vanilla pod is worth it:** The pod is what gives panna cotta its delicate fragrance. Bean paste works as a substitute; vanilla extract added at the end works in a pinch but lacks the depth.
 - **Mould vs glass:** Traditional Italian panna cotta is unmoulded onto a plate. Modern presentations often serve it in glass jars or coupes (no unmoulding needed). Both work; the dramatic flat-top dome is the classic visual.
 
 ## Storage
 - Refrigerate (in moulds, covered) 3 days.
-- Once unmoulded, eat the same day - it's fragile.
+- Once unmoulded, eat the same day, it's fragile.
 - The berry compote keeps 1 week in the fridge.

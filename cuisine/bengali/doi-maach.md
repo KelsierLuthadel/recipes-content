@@ -35,7 +35,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 - 4 green cardamom pods (bashed)
 - 4 cloves
 - 2 dried red chillies (optional, broken)
-- 1 onion (medium, finely chopped, optional - some traditions skip this)
+- 1 onion (medium, finely chopped, optional, some traditions skip this)
 - 1 tablespoon garlic and ginger paste
 - 2 green chillies (slit lengthways)
 
@@ -43,7 +43,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 - 1 teaspoon sugar
 - Salt (to taste)
 - ½ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
-- A small handful of fresh coriander (chopped, optional - Bengali tradition is sparing with coriander)
+- A small handful of fresh coriander (chopped, optional, Bengali tradition is sparing with coriander)
 
 ## Method
 
@@ -51,7 +51,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 1. Pat the fish pieces dry with kitchen paper.
 2. Rub with the first teaspoon of turmeric and the salt.
 3. Heat the first 4 tablespoons of mustard oil in a heavy-based pan over medium-high heat until it just smokes, then reduce the heat slightly.
-4. Slide the fish into the oil and fry for 2 to 3 minutes per side, until lightly golden - just sealed, not cooked through.
+4. Slide the fish into the oil and fry for 2 to 3 minutes per side, until lightly golden, just sealed, not cooked through.
 5. Lift the fish out with a slotted spoon onto a plate.
 
 ### Stage 2 - Whisk the yoghurt mix
@@ -65,7 +65,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 3. Sizzle for 30 seconds until fragrant.
 
 ### Stage 4 - Build the base
-1. Add the chopped onion (if using) with a pinch of salt; cook for 6 to 8 minutes until soft and pale gold (don't brown it dark - this dish wants the gravy to stay pale).
+1. Add the chopped onion (if using) with a pinch of salt; cook for 6 to 8 minutes until soft and pale gold (don't brown it dark, this dish wants the gravy to stay pale).
 2. Stir in the garlic and ginger paste; cook for 1 minute.
 3. Add the slit green chillies.
 
@@ -89,7 +89,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 ## Notes
 - **Yoghurt at room temperature only.** Cold yoghurt straight from the fridge is the most common cause of splitting. Take it out 30 minutes ahead.
 - **Off the heat before pouring.** The single most important step. The pan stays cooler, the yoghurt eases in, and the sauce comes together silky rather than curdled.
-- **Light hand on the onion.** Bengalis disagree about whether doi maach should have onion at all. If you use it, keep it pale - heavy browning makes the gravy muddy and steals from the yoghurt's clean tang.
+- **Light hand on the onion.** Bengalis disagree about whether doi maach should have onion at all. If you use it, keep it pale, heavy browning makes the gravy muddy and steals from the yoghurt's clean tang.
 - **Mustard oil is the dish.** As with most Bengali cooking, mustard oil heated to smoking before anything else is the signature. Don't substitute unless you have to.
 
 ## Serving

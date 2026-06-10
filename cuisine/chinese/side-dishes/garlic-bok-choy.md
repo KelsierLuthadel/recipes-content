@@ -15,7 +15,7 @@ Garlic bok choy is the side dish that every Cantonese parent makes mid-week with
 
 ## Ingredients
 
-- 600 g baby bok choy (about 8 small heads - or 4 larger heads halved lengthwise)
+- 600 g baby bok choy (about 8 small heads, or 4 larger heads halved lengthwise)
 - 2 teaspoons salt (for blanching)
 - 3 tablespoons sunflower oil (or any neutral)
 - 6 garlic cloves (sliced thin)
@@ -24,37 +24,37 @@ Garlic bok choy is the side dish that every Cantonese parent makes mid-week with
 - 1 teaspoon caster sugar
 - 3 tablespoons hot water (or chicken stock)
 - 1 teaspoon sesame oil
-- 1 teaspoon cornflour (mixed with 1 tablespoon cold water - optional, for a glossier finish)
+- 1 teaspoon cornflour (mixed with 1 tablespoon cold water, optional, for a glossier finish)
 
 ### Optional
-- 1 red chilli (small, sliced - for heat)
-- 1 spring onion (sliced - to scatter)
+- 1 red chilli (small, sliced, for heat)
+- 1 spring onion (sliced, to scatter)
 
 ## Method
 
 ### Stage 1 - Trim and blanch
 1. Trim a thin slice off the base of each bok choy; halve lengthwise (or quarter if very large), keeping the leaves attached at the base.
-1. Rinse under running water - bok choy can hide grit between the stems.
+1. Rinse under running water, bok choy can hide grit between the stems.
 1. Bring a wide pot of water with the 2 teaspoons salt to a hard boil.
 1. Add the bok choy; cook just 30-45 seconds (until the green leaves are vivid and the white stems are slightly translucent).
 1. Drain immediately; refresh briefly in cold water to stop the cooking.
-1. Pat or press dry - wet bok choy steams instead of fries.
+1. Pat or press dry, wet bok choy steams instead of fries.
 
 ### Stage 2 - Fry the garlic
 1. Heat sunflower oil in a wide wok or frying pan over medium heat.
-1. Add the sliced garlic; cook 60-90 seconds, stirring, until just pale gold - don't let it brown (bitter).
+1. Add the sliced garlic; cook 60-90 seconds, stirring, until just pale gold, don't let it brown (bitter).
 1. If using chilli, add it at the end of this stage and stir 10 seconds.
 
 ### Stage 3 - Stir-fry
 1. Increase heat to high.
 1. Add the drained bok choy.
-1. Toss vigorously for 60-90 seconds - the bok choy should sizzle in the garlic oil and pick up colour at the edges.
+1. Toss vigorously for 60-90 seconds, the bok choy should sizzle in the garlic oil and pick up colour at the edges.
 
 ### Stage 4 - Glaze
 1. Mix oyster sauce, soy sauce, sugar and hot water/stock in a small bowl.
 1. Pour over the bok choy; toss to coat.
 1. Cook 30 seconds.
-1. Optional: add the cornflour slurry; stir 15 seconds - the sauce becomes glossy and clinging.
+1. Optional: add the cornflour slurry; stir 15 seconds, the sauce becomes glossy and clinging.
 
 ### Stage 5 - Finish
 1. Off heat; drizzle sesame oil; toss once.
@@ -72,5 +72,5 @@ Garlic bok choy is the side dish that every Cantonese parent makes mid-week with
 
 ## Storage
 - Best within 30 minutes.
-- Doesn't keep well - the bok choy weeps water into the sauce overnight and the result is sad.
+- Doesn't keep well, the bok choy weeps water into the sauce overnight and the result is sad.
 - The garlic-oil base can be made ahead and the bok choy blanched fresh, then assembled in 90 seconds.

@@ -24,7 +24,7 @@ Manakish zaatar is the morning bread of Syria: soft yeasted flatbread slicked wi
 - 320 ml warm water
 
 ### Za'atar paste
-- 6 tablespoons za'atar (dried Syrian or Lebanese blend - thyme, sumac, sesame, salt)
+- 6 tablespoons za'atar (dried Syrian or Lebanese blend, thyme, sumac, sesame, salt)
 - 8-10 tablespoons olive oil (enough to make a loose, spoonable paste)
 
 ## Method
@@ -36,7 +36,7 @@ Manakish zaatar is the morning bread of Syria: soft yeasted flatbread slicked wi
 1. Cover; rise 1 hour until doubled.
 
 ### Stage 2 - Za'atar paste
-1. In a small bowl, combine the za'atar and enough olive oil to make a loose paste - spreadable but not runny.
+1. In a small bowl, combine the za'atar and enough olive oil to make a loose paste, spreadable but not runny.
 1. Let it sit 10 minutes so the herbs hydrate.
 
 ### Stage 3 - Shape
@@ -53,13 +53,13 @@ Manakish zaatar is the morning bread of Syria: soft yeasted flatbread slicked wi
 1. Use your fingertips to press small dimples into the dough through the za'atar (the dimples help hold the oil).
 
 ### Stage 6 - Bake
-1. Bake 7-9 minutes - the bottom should be deep gold and the za'atar oil should bubble.
+1. Bake 7-9 minutes, the bottom should be deep gold and the za'atar oil should bubble.
 
 ### Stage 7 - Serve
 1. Eat warm, on its own, or folded around white cheese (akkawi / feta), tomato, cucumber and olives.
 
 ## Notes
-- **Za'atar quality:** Look for a properly made Levantine blend - dried wild thyme (or oregano), sumac, toasted sesame, salt. Avoid blends with cumin or "Middle Eastern spice mix" - that's not za'atar.
+- **Za'atar quality:** Look for a properly made Levantine blend, dried wild thyme (or oregano), sumac, toasted sesame, salt. Avoid blends with cumin or "Middle Eastern spice mix", that's not za'atar.
 - **Generous oil:** Don't be stingy. A dry topping makes a sad manakish; the oil is what makes it sing.
 - **Cheese version:** A cheese manakish (jibneh) uses 100 g grated akkawi or mozzarella in place of za'atar. Same dough, same bake.
 

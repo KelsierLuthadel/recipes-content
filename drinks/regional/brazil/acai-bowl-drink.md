@@ -50,9 +50,9 @@ The açaí bowl is Brazil's most successfully exported food of the 2010s, and th
 3. Add the guaraná syrup (or honey/maple) and vanilla (if using).
 4. Add just 50 ml of liquid to start.
 5. Blend on high speed.
-6. The mixture will be very stiff at first - use a tamper or pause and scrape down the sides.
+6. The mixture will be very stiff at first, use a tamper or pause and scrape down the sides.
 7. Add more liquid in small increments (1 tablespoon at a time) only if needed to keep the blender moving.
-8. The final consistency should be like soft-serve ice cream - thick enough to hold a spoon upright when scooped into the bowl.
+8. The final consistency should be like soft-serve ice cream, thick enough to hold a spoon upright when scooped into the bowl.
 
 ### Stage 3 - Plate
 1. Take the chilled bowls from the freezer.
@@ -80,15 +80,15 @@ The açaí bowl is Brazil's most successfully exported food of the 2010s, and th
 
 ## Variations
 **Classic Brazilian açaí com banana e granola:** the traditional setup described above.
-**Açaí na tigela com leite condensado:** the Rio favourite - with extra condensed milk drizzled generously.
+**Açaí na tigela com leite condensado:** the Rio favourite, with extra condensed milk drizzled generously.
 **Açaí with peanut butter:** drizzle natural peanut butter over (very popular at Brazilian gyms).
 **Açaí superbowl (modern fitness variant):** add a scoop of protein powder to the blend; top with seeds and nuts.
-**Açaí with sliced mango and passion fruit:** swap the strawberries for tropical fruit - Brazilian tropical variant.
+**Açaí with sliced mango and passion fruit:** swap the strawberries for tropical fruit, Brazilian tropical variant.
 **Vegan açaí:** skip the condensed milk; use maple syrup or agave.
 **Açaí milkshake:** add more liquid (200 ml) to make a thick drinkable shake instead of a bowl.
 **Frozen açaí pop:** make the base; freeze in popsicle moulds. Brazilian summer kids' treat.
-**Açaí with Nutella:** drizzle Nutella over the top - modern dessert variant.
-**Açaí com tapioca pearls:** add boba/tapioca pearls - Brazilian-Asian fusion bowl.
+**Açaí with Nutella:** drizzle Nutella over the top, modern dessert variant.
+**Açaí com tapioca pearls:** add boba/tapioca pearls, Brazilian-Asian fusion bowl.
 
 ## Serving
 At a Rio de Janeiro beach kiosk (the traditional setting) · at a São Paulo "fitness-Brazilian" café · at a Brazilian gym's post-workout bar · as a Brazilian summer breakfast · at a Brazilian beach-side lunch (in 35°C heat) · at a Brazilian-themed café anywhere worldwide · at home for a healthy weekend breakfast.
@@ -96,7 +96,7 @@ At a Rio de Janeiro beach kiosk (the traditional setting) · at a São Paulo "fi
 ## Storage
 - Eat fresh; the texture is best within 15 minutes of blending.
 - Açaí base (without toppings) can be frozen back into popsicles for next-day eating.
-- Don't try to make ahead and refrigerate - the texture goes wrong.
+- Don't try to make ahead and refrigerate, the texture goes wrong.
 - Frozen açaí pulp packets keep 6 months in the freezer.
 - Toppings can be prepared 1-2 days ahead (granola, sliced fruit, etc).
 - The dish is fundamentally a "make-fresh-when-you-want-it" preparation.

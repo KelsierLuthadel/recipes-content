@@ -17,7 +17,7 @@ The Korean side dish that defines a meal: napa cabbage salted to wilt, packed le
 
 ### Cabbage and salt
 - 1 napa (large, Chinese) cabbage (1 ½-2 kg)
-- 80 g coarse sea salt (do NOT use table salt - iodine kills fermentation)
+- 80 g coarse sea salt (do NOT use table salt, iodine kills fermentation)
 
 ### Rice porridge
 - 2 tablespoons sweet rice flour (mochiko / glutinous rice flour)
@@ -30,7 +30,7 @@ The Korean side dish that defines a meal: napa cabbage salted to wilt, packed le
 - 8 garlic cloves
 - 30 g fresh ginger
 - 80 ml fish sauce
-- 100 g gochugaru (Korean coarse red pepper flakes - NOT generic chilli flakes)
+- 100 g gochugaru (Korean coarse red pepper flakes, NOT generic chilli flakes)
 - 1 teaspoon salt
 
 ### Vegetables
@@ -64,15 +64,15 @@ The Korean side dish that defines a meal: napa cabbage salted to wilt, packed le
 ### Stage 4 - Stuff the cabbage
 1. Wear food-prep gloves (gochugaru stains skin yellow).
 1. Take a cabbage quarter; open the leaves one by one and rub the paste into each leaf, top to bottom.
-1. Don't be shy - every leaf needs paste.
+1. Don't be shy, every leaf needs paste.
 1. Fold the stuffed cabbage in on itself; nestle into a clean glass jar.
 1. Repeat for the remaining quarters.
 
 ### Stage 5 - Ferment
 1. Press the kimchi down so it's submerged in its own brine.
-1. Seal the jar loosely (or use a fermentation lid - gas pressure will build).
+1. Seal the jar loosely (or use a fermentation lid, gas pressure will build).
 1. Ferment at room temperature 24-72 hours (longer in cold rooms; shorter in hot ones).
-1. Taste daily - when it has the sour-fizzy edge you like, transfer to the fridge.
+1. Taste daily, when it has the sour-fizzy edge you like, transfer to the fridge.
 
 ### Stage 6 - Serve
 1. Use straight from the jar; slice with clean scissors into bite-sized pieces.

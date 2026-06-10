@@ -86,7 +86,7 @@ Aushak are the Afghan leek-and-mint dumplings that share their plating shape wit
 ## Notes
 - **Squeeze the leeks dry:** Wet leeks make a soggy filling that bursts the dumpling. The 20-minute salt-and-squeeze is essential.
 - **Don't pre-cool the dumplings:** Aushak loses its appeal when the wrappers cool and stiffen. Boil, plate, serve immediately.
-- **Yogurt warm, not hot:** Don't heat the yogurt sauce - Afghan tradition keeps it room-temperature so it stays loose and cool against the hot meat.
+- **Yogurt warm, not hot:** Don't heat the yogurt sauce, Afghan tradition keeps it room-temperature so it stays loose and cool against the hot meat.
 
 ## Storage
 - Best fresh.

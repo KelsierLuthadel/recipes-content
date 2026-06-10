@@ -24,8 +24,8 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: "firm white-fleshed sea fish - sashimi-grade. best options: corvina"
-    raw: "600 g very fresh firm white-fleshed sea fish - sashimi-grade. Best options: corvina, sea bass, halibut, sole, red snapper, sea bream. Cut against the grain into 1.5 cm cubes."
+    name: firm white-fleshed sea fish
+    raw: "600 g very fresh firm white-fleshed sea fish, sashimi-grade. Best options: corvina, sea bass, halibut, sole, red snapper, sea bream. Cut against the grain into 1.5 cm cubes."
   - qty: 200
     unit: ml
     name: lime juice

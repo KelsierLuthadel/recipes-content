@@ -90,7 +90,7 @@ Lebanon's fried torpedo and the test of any Levantine cook's skill: a thin bulgu
 ## Notes
 - **Cold mixture:** Working ice water into the shell mixture helps it stay cool and binds the bulgur to the meat. A warm mix splits in the fryer.
 - **Thin walls:** The defining feature of good kibbeh is a thin, almost translucent shell. Thick-walled kibbeh feels heavy and stodgy.
-- **Freeze ahead:** Shaped raw kibbeh freeze well - fry from frozen, adding 2 minutes.
+- **Freeze ahead:** Shaped raw kibbeh freeze well, fry from frozen, adding 2 minutes.
 
 ## Storage
 - Best eaten hot; re-crisp leftovers at 200°C for 5 minutes.

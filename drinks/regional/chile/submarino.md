@@ -11,7 +11,7 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-Submarino (literally "submarine" - named for how the chocolate "dives" into the milk) is the Chilean answer to "kids want hot chocolate". Instead of pre-mixing cocoa powder, sugar and milk, you pour a tall glass of hot milk and drop in a chunk of dark chocolate - typically a square or two from a bar of plain dark chocolate, sometimes a specifically-sold "submarino" chocolate cube. The chocolate slowly melts and sinks; the drinker stirs gradually to encourage dissolving, watching the dark spiral spread through the milk. By the time the chocolate has fully melted (about 4-5 minutes), you have a glass of homemade hot chocolate - milky, properly chocolate, with whatever exact sweetness you'd add yourself. Found in every Chilean café from breakfast hours through afternoon merienda, served alongside sopaipillas (fried dough discs) or marraqueta bread with butter. Adults sometimes add a shot of pisco or rum for a grown-up version.
+Submarino (literally "submarine", named for how the chocolate "dives" into the milk) is the Chilean answer to "kids want hot chocolate". Instead of pre-mixing cocoa powder, sugar and milk, you pour a tall glass of hot milk and drop in a chunk of dark chocolate, typically a square or two from a bar of plain dark chocolate, sometimes a specifically-sold "submarino" chocolate cube. The chocolate slowly melts and sinks; the drinker stirs gradually to encourage dissolving, watching the dark spiral spread through the milk. By the time the chocolate has fully melted (about 4-5 minutes), you have a glass of homemade hot chocolate, milky, properly chocolate, with whatever exact sweetness you'd add yourself. Found in every Chilean café from breakfast hours through afternoon merienda, served alongside sopaipillas (fried dough discs) or marraqueta bread with butter. Adults sometimes add a shot of pisco or rum for a grown-up version.
 
 ## Ingredients
 
@@ -24,14 +24,14 @@ Submarino (literally "submarine" - named for how the chocolate "dives" into the 
 
 ### To serve
 - 2 tall heatproof mugs or glass tumblers
-- 2 long spoons (essential - the chocolate needs stirring)
+- 2 long spoons (essential, the chocolate needs stirring)
 - Optional: a small piece of sopaipilla or marraqueta on the side
 
 ## Method
 
 ### Stage 1 - Warm the milk
 1. Pour the milk into a small saucepan with the salt (and vanilla and cinnamon if using).
-1. Warm over medium-low heat, stirring occasionally, until the milk is steaming but not boiling - about 70°C. Don't let it boil hard, you want hot enough to melt chocolate but not so hot that the chocolate seizes.
+1. Warm over medium-low heat, stirring occasionally, until the milk is steaming but not boiling, about 70°C. Don't let it boil hard, you want hot enough to melt chocolate but not so hot that the chocolate seizes.
 
 ### Stage 2 - Pour and submerge
 1. Pour the hot milk into 2 tall mugs.
@@ -48,7 +48,7 @@ Submarino (literally "submarine" - named for how the chocolate "dives" into the 
 ## Notes
 - **Quality chocolate matters.** This drink is just milk and chocolate, so the chocolate has to be good. Use 60-70% dark chocolate; brands like Lindt, Callebaut or even a quality supermarket dark work. Milk chocolate gives a thin, overly-sweet drink.
 - **Don't boil the milk.** Hot enough to melt chocolate (70°C+), not so hot the chocolate seizes (above 90°C makes chocolate grainy). Steady warmth, not aggressive heat.
-- **Theater is half the point.** Serving the chocolate already-melted in milk is just hot chocolate; the "submarine" effect - watching the chunk sink, stir, dissolve - is what makes this submarino. Always drop the chocolate in at the table.
+- **Theater is half the point.** Serving the chocolate already-melted in milk is just hot chocolate; the "submarine" effect, watching the chunk sink, stir, dissolve, is what makes this submarino. Always drop the chocolate in at the table.
 - **No pre-stirring.** Don't pre-melt the chocolate in the saucepan. Drop it whole into the glass.
 
 ## Variations

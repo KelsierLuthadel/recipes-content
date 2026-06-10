@@ -16,12 +16,12 @@ The Wabanaki and New England original baked-beans dish, the slow-cooked pot that
 ## Ingredients
 
 - 500 g dried navy beans (or haricot beans)
-- 1 tablespoon salt (for the soaking water - softens the skins)
+- 1 tablespoon salt (for the soaking water, softens the skins)
 - 150 g salt pork (or thick-cut smoked bacon, cut into 2 cm pieces)
 - 1 onion (large, diced)
 - 150 ml pure maple syrup (Grade A dark or Grade B; not maple-flavoured syrup)
 - 2 tablespoons brown mustard (or 1 tablespoon dried mustard powder)
-- 1 tablespoon molasses (optional - for extra depth)
+- 1 tablespoon molasses (optional, for extra depth)
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
 - 800 ml water (enough to cover the beans by 2 cm)
@@ -44,11 +44,11 @@ The Wabanaki and New England original baked-beans dish, the slow-cooked pot that
 ### Stage 3 - Bake covered
 1. Clamp the lid on.
 1. Bake 4 hours.
-1. Check at the 2-hour mark - top up with hot water if the liquid drops below the beans (it shouldn't, but the lid seal matters).
+1. Check at the 2-hour mark, top up with hot water if the liquid drops below the beans (it shouldn't, but the lid seal matters).
 
 ### Stage 4 - Bake uncovered
 1. Lift the lid.
-1. Stir gently - the beans on top should be glossy and starting to darken.
+1. Stir gently, the beans on top should be glossy and starting to darken.
 1. Bake 1 hour uncovered to reduce the liquor and brown the top.
 
 ### Stage 5 - Rest
@@ -60,7 +60,7 @@ The Wabanaki and New England original baked-beans dish, the slow-cooked pot that
 1. Eat with cornbread, grilled meat, frybread, or alongside roast pork.
 
 ## Notes
-- **Pure maple, not pancake syrup:** The dish requires real maple syrup - the smoky-caramel of slow-boiled tree sap. Grade A dark or Grade B (now called "Grade A dark amber" in the new labelling) has the deepest flavour. Pancake syrup is corn syrup with brown colouring and ruins the dish.
+- **Pure maple, not pancake syrup:** The dish requires real maple syrup, the smoky-caramel of slow-boiled tree sap. Grade A dark or Grade B (now called "Grade A dark amber" in the new labelling) has the deepest flavour. Pancake syrup is corn syrup with brown colouring and ruins the dish.
 - **Salt pork or bacon:** Salt pork (uncured pork fat, cured in salt only) is traditional. Thick-cut smoked bacon is the easy substitute and adds smoke, which is good.
 - **Low and slow, lid on:** The all-day low cook is what makes baked beans different from quick beans. The beans hold their shape but go soft inside; the liquor reduces to a thick mahogany glaze.
 

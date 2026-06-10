@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 30 minutes
 
 ## Overview
-The Burmese pork curry, the simplest of the country's red-oil-slick curries and the dish that turns up in every household's lunch rotation. You marinate pork briefly in turmeric, salt and a splash of fish sauce, then cook onions hard in oil until they're deep golden brown - this is the colour and depth of the curry, and rushing it leaves the dish pale. The pork browns in the same oil, then garlic, ginger, paprika and chilli powder go in, then tomato softens. Water covers the meat and the curry simmers covered for an hour until tender, then uncovers for the se-byan stage that returns the oil to the surface in the characteristic red-orange slick. Served with white rice, a side of balachaung, and a green vegetable.
+The Burmese pork curry, the simplest of the country's red-oil-slick curries and the dish that turns up in every household's lunch rotation. You marinate pork briefly in turmeric, salt and a splash of fish sauce, then cook onions hard in oil until they're deep golden brown, this is the colour and depth of the curry, and rushing it leaves the dish pale. The pork browns in the same oil, then garlic, ginger, paprika and chilli powder go in, then tomato softens. Water covers the meat and the curry simmers covered for an hour until tender, then uncovers for the se-byan stage that returns the oil to the surface in the characteristic red-orange slick. Served with white rice, a side of balachaung, and a green vegetable.
 
 ## Ingredients
 
@@ -55,7 +55,7 @@ The Burmese pork curry, the simplest of the country's red-oil-slick curries and 
 ### Stage 5 - Slow cook
 1. Pour in the hot water; tuck in the lemongrass.
 1. Bring to a simmer; cover; cook on low 1 hour.
-1. Uncover; cook another 20 minutes - the sauce reduces and a slick of oil rises to the top (the "si byan" signal that the curry is ready).
+1. Uncover; cook another 20 minutes, the sauce reduces and a slick of oil rises to the top (the "si byan" signal that the curry is ready).
 
 ### Stage 6 - Finish
 1. Taste; adjust salt and fish sauce.
@@ -66,7 +66,7 @@ The Burmese pork curry, the simplest of the country's red-oil-slick curries and 
 
 ## Notes
 - **Brown the onions hard:** Burmese curry colour and depth come from this step. Most curries fail because the onions are pale. Push to dark brown but stop short of black.
-- **"Si byan" - the oil returns:** When the curry is ready, the oil separates and floats on top. This is the Burmese sign that the curry has cooked through. Don't skim it - it's flavour.
+- **"Si byan", the oil returns:** When the curry is ready, the oil separates and floats on top. This is the Burmese sign that the curry has cooked through. Don't skim it, it's flavour.
 - **Pork cuts:** Shoulder is right. Belly is too fatty; loin is too lean. Bone-in shoulder gives extra body.
 
 ## Storage

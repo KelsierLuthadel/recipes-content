@@ -21,8 +21,8 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 - A drizzle of olive oil (very small amount, optional)
 
 ### Equipment
-- A churrasco sword (the long flat metal skewer) - if you don't have one, you can use a heavy steel skewer or just grill the picanha flat
-- A grill with high heat - gas works, but charcoal is traditional
+- A churrasco sword (the long flat metal skewer): if you don't have one, you can use a heavy steel skewer or just grill the picanha flat
+- A grill with high heat, gas works, but charcoal is traditional
 
 ### Brazilian vinaigrette molho (the traditional relish)
 - 3 ripe tomatoes (finely diced)
@@ -47,7 +47,7 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 ### Stage 1 - Prep the picanha
 1. Take the picanha out of the fridge 30 minutes before cooking (bring to room temperature; cold meat doesn't sear properly).
 2. Pat the meat dry on all sides with kitchen paper.
-3. DO NOT trim the fat. Score the fat cap in a crosshatch pattern (just shallow - 5 mm deep - through the fat but not into the meat; this lets the fat render).
+3. DO NOT trim the fat. Score the fat cap in a crosshatch pattern (just shallow - 5 mm deep, through the fat but not into the meat; this lets the fat render).
 
 ### Stage 2 - Salt the picanha
 1. Place the picanha on a board fat-side-up.
@@ -79,7 +79,7 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 ### Stage 6 - Rest
 1. Lift off the skewer (or off the grill).
 2. Place on a board; tent loosely with foil.
-3. Rest 8-10 minutes (essential - the juices redistribute).
+3. Rest 8-10 minutes (essential, the juices redistribute).
 
 ### Stage 7 - Make the molho
 1. Combine the diced tomatoes, onion, green pepper (if using), parsley, coriander, olive oil, vinegar, salt, and pepper in a bowl.
@@ -94,7 +94,7 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 5. Drink very cold beer alongside.
 
 ## Notes
-- **Buy fresh picanha with fat cap intact:** a proper butcher's cut. Many supermarkets sell trimmed sirloin labeled as picanha - this is not the same. Ask your butcher.
+- **Buy fresh picanha with fat cap intact:** a proper butcher's cut. Many supermarkets sell trimmed sirloin labeled as picanha, this is not the same. Ask your butcher.
 - **Salt the fat side only:** the rendering fat carries the salt into the meat. Salting the meat side draws moisture.
 - **Score the fat cap:** the crosshatch lets the fat render properly without bunching up.
 - **Sear the fat side first:** the rendering fat creates the cooking medium for the rest of the cook.
@@ -102,12 +102,12 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 - **Medium-rare is traditional:** 50-55°C internal temperature. Don't cook beyond medium; you'll dry the fat-crust magic out.
 
 ## Variations
-**Picanha steaks (instead of whole cut):** slice the picanha into 2 cm thick "steaks" before grilling - each steak gets its own fat cap. Pan-sear or grill 4 minutes per side.
-**With chimichurri (Argentine-Brazilian crossover):** swap the molho for chimichurri sauce - Argentine influence.
-**Picanha and provoleta:** grill provolone cheese alongside the picanha (with oregano and chilli) - classic Brazilian sides.
+**Picanha steaks (instead of whole cut):** slice the picanha into 2 cm thick "steaks" before grilling, each steak gets its own fat cap. Pan-sear or grill 4 minutes per side.
+**With chimichurri (Argentine-Brazilian crossover):** swap the molho for chimichurri sauce, Argentine influence.
+**Picanha and provoleta:** grill provolone cheese alongside the picanha (with oregano and chilli): classic Brazilian sides.
 **Espeto picanha (street-food version):** small chunks of picanha on bamboo skewers, charcoal-grilled at Brazilian markets and beachfront stalls.
 **Pan-seared picanha:** if you don't have a grill, sear in a screaming-hot cast-iron pan with the fat side first; same technique.
-**Picanha sandwich:** sliced grilled picanha in a fresh bread roll with chimichurri or molho - the classic Brazilian-Uruguayan street food.
+**Picanha sandwich:** sliced grilled picanha in a fresh bread roll with chimichurri or molho, the classic Brazilian-Uruguayan street food.
 
 ## Serving
 At a Brazilian churrasco (the traditional setting) · at a Rio Grande do Sul gaucho ranch (the original picanha territory) · at a Brazilian steakhouse (churrascaria) anywhere in the world · at a Brazilian World Cup viewing party · at a Brazilian wedding reception · at home for a Saturday family barbecue · alongside cold beer and football on TV.

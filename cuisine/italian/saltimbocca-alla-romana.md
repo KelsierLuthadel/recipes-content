@@ -2,7 +2,7 @@
 
 ![Saltimbocca alla Romana](resources/saltimbocca-alla-romana.jpg)
 
-*Rome's veal-prosciutto-and-sage classic: thin veal escalopes topped with prosciutto and fresh sage leaves, pan-fried briefly in butter and white wine till the prosciutto crisps and the veal is just cooked. The Roman trattoria classic - saltimbocca means "jumps in the mouth", named for the dish's vibrant flavours.*
+*Rome's veal-prosciutto-and-sage classic: thin veal escalopes topped with prosciutto and fresh sage leaves, pan-fried briefly in butter and white wine till the prosciutto crisps and the veal is just cooked. The Roman trattoria classic, saltimbocca means "jumps in the mouth", named for the dish's vibrant flavours.*
 
 **Serves:** 4
 
@@ -25,7 +25,7 @@ Saltimbocca alla Romana (literally "jumps in the mouth, Roman-style") is one of 
 ### Cooking
 - 4 tablespoons butter
 - 2 tablespoons olive oil
-- 200 ml dry white wine (Italian - Frascati, Pinot Grigio, Verdicchio)
+- 200 ml dry white wine (Italian, Frascati, Pinot Grigio, Verdicchio)
 - 60 ml beef stock (optional; for richer sauce)
 - 2 tablespoons additional butter (for finishing the sauce)
 - 1 tablespoon fresh lemon juice

@@ -2,7 +2,7 @@
 
 ![Bunjay-Style Curry Chicken](resources/bunjay-curry-chicken.jpg)
 
-*"Bunjay" - "fry-down" in Trinidad and Tobago. A dry curry technique where bone-in, skin-on chicken cooks down with concentrated spices and its own juices until the gravy disappears and the meat carries the curry on its surface. No water, no sauce, no coconut milk. Eats with rice and dhal.*
+*"Bunjay", "fry-down" in Trinidad and Tobago. A dry curry technique where bone-in, skin-on chicken cooks down with concentrated spices and its own juices until the gravy disappears and the meat carries the curry on its surface. No water, no sauce, no coconut milk. Eats with rice and dhal.*
 
 **Serves:** 6
 
@@ -43,7 +43,7 @@ A dry curry rather than a saucy one. "Bunjay" is Trinidadian patois for "fry-dow
 1. Heat the oil in a wide pan over medium heat.
 1. Add the onion, garlic and whole Scotch bonnet; cook 2-3 minutes.
 1. Add the turmeric, roasted geera, anchar masala and remaining 2 tablespoons of curry powder.
-1. Stir 3 minutes - the spices should darken and release fragrance.
+1. Stir 3 minutes, the spices should darken and release fragrance.
 
 ### Stage 3 - Build flavour
 1. Add the grated tomato and 2 tablespoons of water.
@@ -52,12 +52,12 @@ A dry curry rather than a saucy one. "Bunjay" is Trinidadian patois for "fry-dow
 ### Stage 4 - Sear the chicken
 1. Increase heat to medium-high.
 1. Add the marinated chicken to the pan; sear 2 minutes.
-1. Reduce to medium; cover; cook 3-4 minutes - this releases the chicken's natural juices.
+1. Reduce to medium; cover; cook 3-4 minutes, this releases the chicken's natural juices.
 
 ### Stage 5 - Cook down
 1. Remove the lid; stir well to coat the chicken with the curry.
 1. Continue cooking 15-20 minutes, stirring occasionally, until the chicken is fully cooked through and no liquid remains in the pan.
-1. The dish should be completely dry - bunjay means no sauce.
+1. The dish should be completely dry, bunjay means no sauce.
 1. Taste; adjust salt.
 
 ### Stage 6 - Serve

@@ -28,7 +28,7 @@ Turon is the Filipino street snack you smell before you see, sticky-sweet carame
 
 ### Stage 1 - Prep filling
 1. Peel the bananas; halve lengthways down the long axis.
-1. Cut each half in two crossways so you have 4 pieces per banana (24 pieces total - you'll use 2 per turon).
+1. Cut each half in two crossways so you have 4 pieces per banana (24 pieces total, you'll use 2 per turon).
 1. Drain the jackfruit if from a tin; pat dry; slice into thin strips.
 
 ### Stage 2 - Wrap
@@ -44,7 +44,7 @@ Turon is the Filipino street snack you smell before you see, sticky-sweet carame
 ### Stage 3 - Sugar coat
 1. Spread the remaining brown sugar on a plate.
 1. Roll each finished turon firmly in the sugar to coat the outside.
-1. The sugar should stick in patches; gaps are fine - the wrapper itself will gold.
+1. The sugar should stick in patches; gaps are fine, the wrapper itself will gold.
 
 ### Stage 4 - Fry
 1. Heat the oil to 170°C (a piece of bread should brown in 40 seconds).
@@ -60,10 +60,10 @@ Turon is the Filipino street snack you smell before you see, sticky-sweet carame
 ## Notes
 - **Saba over regular bananas:** saba (cooking banana) holds shape during frying; regular bananas turn to mush. If using regular, pick the firmest, just-ripe ones.
 - **Spring roll, not rice-paper, wrappers:** the thin wheat-flour wrappers caramelise; rice paper goes soggy.
-- **Hot oil, watch the colour:** sugar caramelises fast. Pull the turon out when the shell is amber, not when it's mahogany - it keeps darkening after.
+- **Hot oil, watch the colour:** sugar caramelises fast. Pull the turon out when the shell is amber, not when it's mahogany, it keeps darkening after.
 - **Eat within minutes:** the sugar shell loses its crackle as the moisture from the banana migrates outward.
 
 ## Storage
 - Best within 10 minutes of frying.
 - Leftovers go soft; re-crisp briefly in a hot dry oven (200°C, 4 minutes) but the magic is the fresh sugar shell.
-- Don't refrigerate cooked turon - the sugar absorbs fridge moisture and goes gummy.
+- Don't refrigerate cooked turon, the sugar absorbs fridge moisture and goes gummy.

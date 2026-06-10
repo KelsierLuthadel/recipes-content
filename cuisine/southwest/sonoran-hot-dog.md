@@ -2,7 +2,7 @@
 
 ![Sonoran Hot Dog](resources/sonoran-hot-dog.jpg)
 
-*Arizona's bacon-wrapped hot dog: a hot dog wrapped in bacon, grilled till the bacon crisps, served in a Mexican bolillo bread roll with pinto beans, diced tomato, chopped onion, mayonnaise, mustard, jalapeño salsa and a whole roasted yellow chile. The Tucson border classic - Mexican-American street food at its most excessive.*
+*Arizona's bacon-wrapped hot dog: a hot dog wrapped in bacon, grilled till the bacon crisps, served in a Mexican bolillo bread roll with pinto beans, diced tomato, chopped onion, mayonnaise, mustard, jalapeño salsa and a whole roasted yellow chile. The Tucson border classic, Mexican-American street food at its most excessive.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-The Sonoran hot dog is Arizona's most beloved street food and a Tucson-Phoenix specialty borrowed from the Sonora region of Mexico just across the border: an American beef hot dog wrapped in a strip of bacon, grilled or pan-fried till the bacon crisps to deep golden, then nestled into a soft Mexican bolillo bread roll (the traditional bun; or substitute with a soft hot dog bun) which has been hollowed out slightly. Topped with: warm pinto beans, finely chopped raw onion, diced fresh tomato, generous lines of mayonnaise and yellow mustard, jalapeño salsa (verde or roja), and finished with a whole roasted yellow chile pepper (chile güero) on top. Each bite gives bacon-crisp, juicy hot dog, sweet bun, savoury beans, fresh vegetables, creamy mayo and chile heat - the traditional Tucson "Sonoran". The dish became iconic in Tucson in the 1980s and has spread across Arizona and into California.
+The Sonoran hot dog is Arizona's most beloved street food and a Tucson-Phoenix specialty borrowed from the Sonora region of Mexico just across the border: an American beef hot dog wrapped in a strip of bacon, grilled or pan-fried till the bacon crisps to deep golden, then nestled into a soft Mexican bolillo bread roll (the traditional bun; or substitute with a soft hot dog bun) which has been hollowed out slightly. Topped with: warm pinto beans, finely chopped raw onion, diced fresh tomato, generous lines of mayonnaise and yellow mustard, jalapeño salsa (verde or roja), and finished with a whole roasted yellow chile pepper (chile güero) on top. Each bite gives bacon-crisp, juicy hot dog, sweet bun, savoury beans, fresh vegetables, creamy mayo and chile heat, the traditional Tucson "Sonoran". The dish became iconic in Tucson in the 1980s and has spread across Arizona and into California.
 
 ## Ingredients
 
@@ -29,7 +29,7 @@ The Sonoran hot dog is Arizona's most beloved street food and a Tucson-Phoenix s
 - 4 tablespoons mayonnaise (the traditional Mexican-style mayo with lime works well)
 - 3 tablespoons yellow mustard
 - 4 tablespoons salsa verde (or red salsa)
-- 4 fresh güero (banana) peppers (roasted) - or substitute with pickled jalapeños
+- 4 fresh güero (banana) peppers (roasted): or substitute with pickled jalapeños
 
 ### Optional
 - Crumbled queso fresco

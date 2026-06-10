@@ -33,11 +33,11 @@ A base recipe:
 - 1 piece (2 cm) mace blade
 - 1 nutmeg, grated at the end
 
-Dry-toast the whole spices until fragrant. Grind. Stir in the grated nutmeg. No chilli, no turmeric - garam masala is about warmth, not heat or colour.
+Dry-toast the whole spices until fragrant. Grind. Stir in the grated nutmeg. No chilli, no turmeric, garam masala is about warmth, not heat or colour.
 
 ## Ras El Hanout (Moroccan / North African)
 
-"Top of the shop" - the seller's best blend. Famously variable; some versions contain 30+ ingredients including rosebuds, lavender, ash berries. The core is warm and sweet rather than hot.
+"Top of the shop", the seller's best blend. Famously variable; some versions contain 30+ ingredients including rosebuds, lavender, ash berries. The core is warm and sweet rather than hot.
 
 A working version:
 - 2 tsp cumin seeds, toasted
@@ -58,7 +58,7 @@ Goes into tagines, lamb dishes, vegetable stews, couscous. The blend works best 
 
 ## Baharat (Levantine)
 
-The Arabic word baharat just means "spices" - the blend varies across the region (Syrian, Lebanese, Gulf, Iraqi). The common thread is paprika anchoring a warm-pepper-clove direction.
+The Arabic word baharat just means "spices", the blend varies across the region (Syrian, Lebanese, Gulf, Iraqi). The common thread is paprika anchoring a warm-pepper-clove direction.
 
 A Lebanese-style version:
 - 2 tbsp sweet paprika
@@ -77,7 +77,7 @@ Used on meatballs (kibbeh), rice (hashweh), stuffed vegetables. Less complex tha
 Not just a spice but a finishing condiment. The blend has two non-spice ingredients (sumac and sesame) which make it more like a dukka than a traditional powder.
 
 A working version:
-- 4 tbsp dried thyme (or za'atar herb if you can source it - the Origanum syriacum)
+- 4 tbsp dried thyme (or za'atar herb if you can source it, the Origanum syriacum)
 - 2 tbsp sesame seeds, toasted
 - 2 tbsp ground sumac
 - 1 tsp salt
@@ -100,7 +100,7 @@ Toast, grind, store. Used in red-braised dishes, pork belly, duck, roast chicken
 
 ## Herbes de Provence (Mediterranean)
 
-Not a spice blend strictly - all herbs - but the role is the same.
+Not a spice blend strictly, all herbs, but the role is the same.
 
 The base:
 - 2 tbsp dried thyme
@@ -176,7 +176,7 @@ Used in doro wat (chicken stew), misir wat (red lentils), siga wat (beef). The f
 
 ## Madras Curry Powder (Commercial / Colonial)
 
-The British colonial-era invention - a generic "curry powder" with no specific Indian regional equivalent. Still useful for anglo-Indian cooking (kedgeree, coronation chicken, curry-flavoured anything-British) and for cooks who want a single-jar shortcut.
+The British colonial-era invention, a generic "curry powder" with no specific Indian regional equivalent. Still useful for anglo-Indian cooking (kedgeree, coronation chicken, curry-flavoured anything-British) and for cooks who want a single-jar shortcut.
 
 A reasonable home version:
 - 3 tbsp ground coriander
@@ -194,7 +194,7 @@ For most real Indian cooking, this is a substitute for the layered build that th
 
 ## Pumpkin Spice (American Autumn)
 
-Yes, this is a real blend in the same sense as the others - a regional condiment optimised for a regional dish (pumpkin pie). It just happens to be from the modern American cuisine.
+Yes, this is a real blend in the same sense as the others, a regional condiment optimised for a regional dish (pumpkin pie). It just happens to be from the modern American cuisine.
 
 The five:
 - 4 tsp ground cinnamon
@@ -210,7 +210,7 @@ In pies, cakes, lattes, oatmeal, the inside of butternut squash before it goes i
 Once you have made a few of the above, a pattern becomes obvious. Most blends are:
 
 1. **A base of two or three workhorses.** Cumin and coriander are the most common pair; paprika is a third in many warm-region blends.
-2. **A warm dimension.** Cinnamon, clove, allspice, cardamom, nutmeg - usually two or three in any given blend.
+2. **A warm dimension.** Cinnamon, clove, allspice, cardamom, nutmeg, usually two or three in any given blend.
 3. **A heat dimension.** Black pepper alone (Indian), black pepper plus dried chilli (Ethiopian, Cajun), Sichuan pepper (Chinese five-spice), or nothing (garam masala, ras el hanout).
 4. **A distinctive note or two.** Fenugreek (berbere, madras), Sichuan pepper (Chinese five-spice), saffron (ras el hanout), sumac (za'atar), bay (Old Bay), lavender (herbes de Provence). This is what separates one blend from another structurally.
 

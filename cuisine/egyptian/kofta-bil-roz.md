@@ -56,7 +56,7 @@ Kofta bil roz is the Egyptian one-dish dinner that builds the whole meal in a si
 
 ### Stage 2 - Brown
 1. Heat 1 tablespoon oil in a wide pan over medium-high.
-1. Brown the meatballs lightly in batches, 2 minutes per side - they finish cooking in the bake.
+1. Brown the meatballs lightly in batches, 2 minutes per side, they finish cooking in the bake.
 1. Set aside.
 
 ### Stage 3 - Sauce
@@ -79,13 +79,13 @@ Kofta bil roz is the Egyptian one-dish dinner that builds the whole meal in a si
 1. Uncover; bake 10-15 more minutes until rice is tender and the meatballs are deeply browned.
 
 ### Stage 6 - Rest
-1. Rest 10 minutes - the rice continues to absorb.
+1. Rest 10 minutes, the rice continues to absorb.
 
 ### Stage 7 - Serve
 1. Scatter coriander; serve with lemon wedges.
 
 ## Notes
-- **Grated onion juices:** They keep the meatballs juicy. Don't squeeze the onion dry - add the juices to the bowl.
+- **Grated onion juices:** They keep the meatballs juicy. Don't squeeze the onion dry, add the juices to the bowl.
 - **Don't fully cook the meatballs first:** Light browning gives flavour; finishing them in the bake keeps them tender.
 - **Rice ratio:** 300 g rice + 700 ml liquid (stock + the moisture from the sauce). Adjust if your sauce is wetter or drier.
 

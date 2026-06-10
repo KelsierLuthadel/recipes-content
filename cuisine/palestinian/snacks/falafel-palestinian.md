@@ -59,7 +59,7 @@ The Palestinian falafel is the herb-heavy, vividly green sort, the one whose int
 
 ### Stage 2 - Blitz
 1. In a food processor, combine drained beans, onion, leek, garlic, parsley, coriander, dill (if using), salt, cumin, ground coriander, Aleppo pepper and pepper.
-1. Pulse to a coarse green paste - vivid green colour, fine grainy texture.
+1. Pulse to a coarse green paste, vivid green colour, fine grainy texture.
 1. Tip into a bowl; rest 30 minutes.
 
 ### Stage 3 - Tahini
@@ -84,7 +84,7 @@ The Palestinian falafel is the herb-heavy, vividly green sort, the one whose int
 
 ## Notes
 - **Herb-heavy is the Palestinian signature:** Big bunch of parsley + big bunch of coriander + dill is the herb load. The interior should be GREEN. Compare to a Lebanese falafel which is also green but less so; an Egyptian tameya which uses different beans; an Israeli falafel which is often denser and less herby.
-- **Soak, never cook:** Same rule as all falafel - raw soaked beans.
+- **Soak, never cook:** Same rule as all falafel, raw soaked beans.
 - **Baking soda last:** Activates with moisture.
 
 ## Storage

@@ -42,7 +42,7 @@ Ginataang gulay is the Filipino vegetable curry, a coconut-milk stew of squash, 
 
 ### Stage 3 - Other vegetables
 1. Add the aubergine, long beans, soy sauce and chilli (if using).
-1. Simmer 8-10 minutes more until everything is tender and the sauce has thickened to coat. Don't overcook the beans - they should still be bright.
+1. Simmer 8-10 minutes more until everything is tender and the sauce has thickened to coat. Don't overcook the beans, they should still be bright.
 
 ### Stage 4 - Finish
 1. Taste; adjust soy or salt; grind in black pepper.

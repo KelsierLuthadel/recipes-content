@@ -79,8 +79,8 @@ ingredients:
   - name: cou-cou stick / wooden paddle / sturdy wooden spoon
     raw: A cou-cou stick / wooden paddle / sturdy wooden spoon
   - qty: 4
-    name: flying-fish fillets - sold at bajan / caribbean markets
-    raw: 4 large flying-fish fillets - sold at Bajan / Caribbean markets, frozen in some specialty shops
+    name: "flying-fish fillets : sold at bajan / caribbean markets"
+    raw: "4 large flying-fish fillets : sold at Bajan / Caribbean markets, frozen in some specialty shops"
   - name: or 8 small whole sardines
     raw: OR 8 small whole sardines, gutted
   - name: or 4 small mackerel fillets

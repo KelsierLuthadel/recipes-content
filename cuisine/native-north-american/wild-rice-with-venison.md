@@ -21,7 +21,7 @@ A Great Lakes one-pot built around true hand-harvested wild rice, the long black
 - 400 ml water (just-boiled, for the mushrooms)
 - 1 onion (large, diced)
 - 3 garlic cloves (sliced)
-- 200 g wild rice (the long black grain - not "wild rice blend" with brown rice mixed in)
+- 200 g wild rice (the long black grain, not "wild rice blend" with brown rice mixed in)
 - 1 teaspoon juniper berries (lightly crushed)
 - 1 teaspoon dried thyme
 - 600 ml game (or beef stock)
@@ -38,7 +38,7 @@ A Great Lakes one-pot built around true hand-harvested wild rice, the long black
 
 ### Stage 1 - Mushrooms
 1. Place dried mushrooms in a heatproof bowl; cover with the just-boiled water; soak 20 minutes.
-1. Lift out the mushrooms; squeeze; chop coarsely. Strain the soaking liquid through a paper-lined sieve into a measuring jug - it should be a dark mahogany liquor. Reserve.
+1. Lift out the mushrooms; squeeze; chop coarsely. Strain the soaking liquid through a paper-lined sieve into a measuring jug, it should be a dark mahogany liquor. Reserve.
 
 ### Stage 2 - Brown the venison
 1. Heat oil in a wide heavy lidded pot over medium-high.
@@ -51,7 +51,7 @@ A Great Lakes one-pot built around true hand-harvested wild rice, the long black
 1. Add garlic, juniper, thyme and the chopped soaked mushrooms; cook 2 minutes.
 
 ### Stage 4 - Toast the rice
-1. Add the wild rice to the pot; stir 1 minute - you'll smell the grass aroma intensify.
+1. Add the wild rice to the pot; stir 1 minute, you'll smell the grass aroma intensify.
 
 ### Stage 5 - Simmer
 1. Return the venison and any juices.
@@ -68,8 +68,8 @@ A Great Lakes one-pot built around true hand-harvested wild rice, the long black
 1. Tip onto a wide platter; scatter toasted pumpkin seeds, fresh thyme and spring onion.
 
 ## Notes
-- **Real wild rice, not a blend:** Hand-harvested wild rice from the Great Lakes (or from First Nations producers in Ontario/Minnesota) has a parching step in its processing - a low smoke fire - that gives it a flavour you cannot get from cultivated paddy-grown wild rice. Both work; the hand-harvested is the dish.
-- **Maple at the end:** A small amount of maple at the finish is traditional and balances the mineral grassiness. Don't use it like sugar - a tablespoon, not three.
+- **Real wild rice, not a blend:** Hand-harvested wild rice from the Great Lakes (or from First Nations producers in Ontario/Minnesota) has a parching step in its processing, a low smoke fire, that gives it a flavour you cannot get from cultivated paddy-grown wild rice. Both work; the hand-harvested is the dish.
+- **Maple at the end:** A small amount of maple at the finish is traditional and balances the mineral grassiness. Don't use it like sugar, a tablespoon, not three.
 - **Venison vs beef:** Venison gives the cleanest, most traditional flavour. Beef chuck makes a fine substitute but lacks the gamey edge.
 
 ## Storage

@@ -40,7 +40,7 @@ The British pub classic and picnic-basket regular: a soft-yolk egg encased in se
 1. Bring a pan of water to the boil.
 1. Lower the eggs in carefully; cook for 6 minutes (timer; precise).
 1. Plunge into ice water for 5 minutes.
-1. Peel very gently - the whites are still soft.
+1. Peel very gently, the whites are still soft.
 
 ### Stage 2 - Sausage layer
 1. Mix the sausagemeat with mustard, herbs, spring onions, pepper and salt.

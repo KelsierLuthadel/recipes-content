@@ -5,7 +5,7 @@
 *Moulded chocolate is the most professional-looking home chocolate work. A polycarbonate mould, tempered chocolate, a filling, and a sealed back. The result snaps cleanly, glides off the mould with a glossy finish, and looks like it came from a Parisian patisserie.*
 
 ## Overview
-This is the centrepiece application of tempered chocolate. Moulded bars and bonbons take everything from the previous lessons - tempering, ganache, infusions - and assemble them into the most recognisable form of artisan chocolate. The technique is simple once you know it; the result is impressive because most people have never tried it at home.
+This is the centrepiece application of tempered chocolate. Moulded bars and bonbons take everything from the previous lessons, tempering, ganache, infusions, and assemble them into the most recognisable form of artisan chocolate. The technique is simple once you know it; the result is impressive because most people have never tried it at home.
 
 The two formats:
 
@@ -75,7 +75,7 @@ Allow the cocoa butter to set fully (5-10 minutes at room temperature) before pr
 6. Flip back up; clean the top edge again with the scraper.
 7. Allow to set fully at room temperature, 10-15 minutes. The shells should be hardened.
 
-A properly tempered shell will be 2-3 mm thick - just thick enough to snap cleanly, not so thick that the filling-to-shell ratio is unbalanced.
+A properly tempered shell will be 2-3 mm thick, just thick enough to snap cleanly, not so thick that the filling-to-shell ratio is unbalanced.
 
 ### Step 3: Fill
 
@@ -83,19 +83,19 @@ Pipe filling into each shell. The fill should reach about 80-85% of the shell's 
 
 Filling options:
 
-- **Dark chocolate ganache** (2:1 ratio) - the classic.
-- **Milk chocolate praline ganache** - milk chocolate + cream + praline paste (hazelnut paste).
-- **Salted caramel** - thick soft caramel made with butter, cream and sea salt.
-- **Fruit ganache** - dark ganache flavoured with fruit puree (raspberry, passionfruit). The fruit acidity slightly destabilises the emulsion; balance with a little extra chocolate.
-- **Liqueur ganache** - per the [Ganache](ganache.md) variations.
-- **Mixed centres** - layer dark ganache (firmer) at the bottom, then a softer caramel on top, for two-textured bonbons.
+- **Dark chocolate ganache** (2:1 ratio): the classic.
+- **Milk chocolate praline ganache**: milk chocolate + cream + praline paste (hazelnut paste).
+- **Salted caramel**: thick soft caramel made with butter, cream and sea salt.
+- **Fruit ganache**: dark ganache flavoured with fruit puree (raspberry, passionfruit). The fruit acidity slightly destabilises the emulsion; balance with a little extra chocolate.
+- **Liqueur ganache**: per the [Ganache](ganache.md) variations.
+- **Mixed centres**: layer dark ganache (firmer) at the bottom, then a softer caramel on top, for two-textured bonbons.
 
-The filling should be at 28-30 C when piped - cool enough not to melt the shell, warm enough to flow into the cavity. If too hot, the shell partially melts and the filling and shell blend. If too cold, the filling sits as a stiff lump and creates an air pocket.
+The filling should be at 28-30 C when piped, cool enough not to melt the shell, warm enough to flow into the cavity. If too hot, the shell partially melts and the filling and shell blend. If too cold, the filling sits as a stiff lump and creates an air pocket.
 
 ### Step 4: Cool, Then Seal
 
 1. Allow the filled bonbons to cool at room temperature for 30 minutes. The filling should be slightly set but not hard. (If you proceed too quickly while the filling is hot, it melts the seal as you pour.)
-2. Re-temper the chocolate (or reheat your existing tempered chocolate to working temperature - it has cooled while you worked).
+2. Re-temper the chocolate (or reheat your existing tempered chocolate to working temperature, it has cooled while you worked).
 3. Pour a small amount of tempered chocolate over the entire mould, covering the open backs of the bonbons.
 4. With a bench scraper, scrape across the top of the mould, sealing each cavity and removing all excess. The seal becomes the "bottom" of the finished bonbon.
 5. Set at room temperature for 20-30 minutes until fully hardened.
@@ -106,11 +106,11 @@ Flip the mould over a sheet pan. Tap firmly. Bonbons should drop out cleanly. Th
 
 ### Common Failures
 
-- **Bonbons stuck in the mould** - improper temper. Re-melt the chocolate, re-temper, try again.
-- **Shell too thick or too thin** - the invert-and-drain step had too long or too short a drain. 30-60 seconds inverted is right for the typical mould.
-- **Filling leaking out the bottom** - the seal was applied while filling was too hot, or the seal layer was too thin.
-- **Painted cavity colour doesn't transfer** - cocoa butter was warmer than the shell chocolate, or the shell chocolate's temperature melted the cocoa butter.
-- **Air bubbles inside the shell** - tap harder when pouring the first layer; air bubbles are visible against the polycarbonate.
+- **Bonbons stuck in the mould**: improper temper. Re-melt the chocolate, re-temper, try again.
+- **Shell too thick or too thin**: the invert-and-drain step had too long or too short a drain. 30-60 seconds inverted is right for the typical mould.
+- **Filling leaking out the bottom**: the seal was applied while filling was too hot, or the seal layer was too thin.
+- **Painted cavity colour doesn't transfer**: cocoa butter was warmer than the shell chocolate, or the shell chocolate's temperature melted the cocoa butter.
+- **Air bubbles inside the shell**: tap harder when pouring the first layer; air bubbles are visible against the polycarbonate.
 
 ## Caramelised Hazelnuts (Worked Inclusion Recipe)
 
@@ -124,7 +124,7 @@ A useful inclusion that goes into bars, bonbons, or eaten alone.
 Method:
 1. Toast hazelnuts in a 180 C oven for 12-15 minutes until golden and the skins crack.
 2. Rub in a tea towel to remove most of the skins.
-3. In a heavy-bottomed pan, combine sugar and water. Heat without stirring until the sugar reaches a deep amber caramel (170-180 C - see [Sugar Stages](../sugar-work/sugar-stages.md)).
+3. In a heavy-bottomed pan, combine sugar and water. Heat without stirring until the sugar reaches a deep amber caramel (170-180 C, see [Sugar Stages](../sugar-work/sugar-stages.md)).
 4. Off heat, add the hazelnuts and salt; stir to coat each nut.
 5. Tip onto greaseproof paper; quickly separate the nuts before they cool together.
 
@@ -133,4 +133,4 @@ Use whole as an inclusion; chopped in ganache; or scattered on top of a finished
 ## Where Next
 - [Ganache](ganache.md): the filling under most bonbons.
 - [Tempering](tempering.md): re-read if your bars are sticking in the mould.
-- [Sauce and Glaze](sauce-and-glaze.md): the remaining chocolate applications - pourable chocolate for cakes and desserts.
+- [Sauce and Glaze](sauce-and-glaze.md): the remaining chocolate applications, pourable chocolate for cakes and desserts.

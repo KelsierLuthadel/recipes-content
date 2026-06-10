@@ -26,7 +26,7 @@ These are the cheese-filled bourekas, ready-rolled puff pastry triangles filled 
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - ½ teaspoon ground nutmeg
 - ½ teaspoon ground black pepper
-- (no extra salt - feta is salty enough)
+- (no extra salt, feta is salty enough)
 
 ### Glaze
 - 1 egg yolk (beaten with 1 tablespoon milk)
@@ -49,7 +49,7 @@ These are the cheese-filled bourekas, ready-rolled puff pastry triangles filled 
 1. Place 1 heaped tablespoon of filling in the centre of each square.
 1. Brush the edges with egg wash.
 1. Lift two opposite corners up over the filling, meeting them at the top.
-1. Press to seal - you should have a triangle with the filling enclosed.
+1. Press to seal, you should have a triangle with the filling enclosed.
 1. Crimp the cut edges with a fork or pinch them firmly.
 
 ### Stage 4 - Glaze
@@ -59,11 +59,11 @@ These are the cheese-filled bourekas, ready-rolled puff pastry triangles filled 
 
 ### Stage 5 - Bake
 1. Bake 22-25 minutes till deep golden and puffed.
-1. The filling will hint at oozing through the edges - that's correct.
+1. The filling will hint at oozing through the edges, that's correct.
 
 ### Stage 6 - Serve
 1. Cool 3 minutes (the filling is molten).
-1. Eat hot - traditionally with a hard-boiled egg, pickles, and a cup of strong black coffee for the Israeli breakfast.
+1. Eat hot, traditionally with a hard-boiled egg, pickles, and a cup of strong black coffee for the Israeli breakfast.
 
 ## Notes
 - **Puff pastry, not filo:** Israeli bourekas use puff pastry (the descendants of yufka / Turkish börek doughs). Filo is more typical for Greek tyropita. Both are valid; this is the Israeli version.

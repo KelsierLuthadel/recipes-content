@@ -65,7 +65,7 @@ Klepon are the Indonesian glutinous-rice balls, pandan-tinted spheres hiding a m
 
 ### Stage 6 - Serve
 1. Eat at room temperature, ideally within an hour.
-1. Bite carefully - the palm sugar inside is hot/sticky.
+1. Bite carefully, the palm sugar inside is hot/sticky.
 
 ## Notes
 - **Seal the dough tight:** any gap and the palm sugar leaks out into the boiling water during cooking. Pinch firmly.
@@ -76,5 +76,5 @@ Klepon are the Indonesian glutinous-rice balls, pandan-tinted spheres hiding a m
 ## Storage
 - Best within 2 hours of making.
 - Keeps 1 day in an airtight container at cool room temperature; the dough firms slightly but is still good.
-- Don't refrigerate - glutinous rice flour goes rock-hard in the fridge.
+- Don't refrigerate, glutinous rice flour goes rock-hard in the fridge.
 - Doesn't freeze well.

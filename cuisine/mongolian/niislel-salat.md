@@ -43,7 +43,7 @@ Mongolia's "capital city salad", the Ulaanbaatar potluck staple that lands besid
 ### Stage 3 - Combine
 1. Tip everything into a wide bowl.
 1. Mix the mayo, mustard, salt and pepper together; pour over.
-1. Toss gently with two large spoons - try to keep the cubes intact rather than mashing.
+1. Toss gently with two large spoons, try to keep the cubes intact rather than mashing.
 1. Stir in the dill (and spring onions if using); reserve a little for the top.
 
 ### Stage 4 - Chill
@@ -57,7 +57,7 @@ Mongolia's "capital city salad", the Ulaanbaatar potluck staple that lands besid
 ## Notes
 - **5 mm dice across the board:** Inconsistency makes the salad look messy and dressed unevenly. Take the time to dice properly.
 - **Sausage or beef:** Mongolian niislel salat traditionally uses boiled beef (sometimes including the brisket from making bone broth). Smoked sausage is the everyday city version. Both work.
-- **Make ahead:** Better the next day - the potatoes absorb dressing and the salad becomes silkier.
+- **Make ahead:** Better the next day, the potatoes absorb dressing and the salad becomes silkier.
 
 ## Storage
 - Keeps 3 days refrigerated. Don't freeze (the texture suffers).

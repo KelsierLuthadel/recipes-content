@@ -22,7 +22,7 @@ For approximately 30-40 truffles:
 - 300 g dark chocolate, finely chopped (60-70% cocoa)
 - 200 g double cream
 - 30 g unsalted butter, cubed (optional but improves texture)
-- 1-2 tbsp liqueur (optional - cognac, rum, kirsch, Grand Marnier)
+- 1-2 tbsp liqueur (optional, cognac, rum, kirsch, Grand Marnier)
 
 ### Method
 
@@ -38,8 +38,8 @@ For approximately 30-40 truffles:
 
 1. **Set up.** Line a baking tray with greaseproof paper. Have a melon baller or small ice cream scoop (15-20 ml capacity) ready. Have a bowl of cocoa powder (or other coating, see below) at hand.
 2. **Scoop.** Run the scoop under hot water briefly, dry it; press into the ganache and lift out a ball. The hot scoop helps release the ganache cleanly. Drop the scoop directly onto the tray.
-3. **Speed matters.** Work fast - ganache softens the moment it leaves the fridge. Scoop the whole batch onto the tray.
-4. **Refrigerate scooped balls.** 15-20 minutes - they firm back up.
+3. **Speed matters.** Work fast, ganache softens the moment it leaves the fridge. Scoop the whole batch onto the tray.
+4. **Refrigerate scooped balls.** 15-20 minutes, they firm back up.
 5. **Hand-roll.** Wear thin food-safe gloves to prevent skin warmth melting the chocolate. Quickly roll each ball between your palms to smooth into a sphere. Do not over-handle - 2-3 seconds per truffle is enough. Return to the tray.
 6. **Refrigerate 15 minutes more.**
 
@@ -105,6 +105,6 @@ Tempered-shell truffles keep 2-3 weeks at room temperature in a cool dark spot, 
 Boxed for gifts, they keep up to 2 weeks at room temperature. Pack in a sturdy box with paper or plastic dividers between layers.
 
 ## Where Next
-- [Bars and Bonbons](bars-and-bonbons.md): the moulded application - filled bonbons take the truffle concept to its most refined form.
+- [Bars and Bonbons](bars-and-bonbons.md): the moulded application, filled bonbons take the truffle concept to its most refined form.
 - [Sauce and Glaze](sauce-and-glaze.md): the liquid chocolate applications.
 - [Ganache](ganache.md): the foundation under truffles, infusions and ratios.

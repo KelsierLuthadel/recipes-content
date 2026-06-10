@@ -80,7 +80,7 @@ The Bahamian fish-shack starter that every visitor to Nassau or the Out Islands 
 
 ## Notes
 - **Conch sourcing:** Cleaned frozen conch from Caribbean or Asian grocers is the realistic option. Defrost in the fridge overnight before use.
-- **Squid substitute:** If you can't find conch, use cleaned squid tubes - pulse them in the food processor with the same vegetables. The texture is close.
+- **Squid substitute:** If you can't find conch, use cleaned squid tubes, pulse them in the food processor with the same vegetables. The texture is close.
 - **Goat pepper for authenticity:** The Bahamian goat pepper is a relative of scotch bonnet. Scotch bonnet or habanero work well and are easier to find.
 - **Mix size:** Spoon size determines fritter size. A heaped tablespoon makes a fritter that cooks through evenly in 4-5 minutes; bigger ones burn outside before the centre is done.
 - **Pink sauce:** The classic dipping sauce varies house to house. Some add mustard, some grated onion, some swap ketchup for chilli sauce. Adjust to taste.

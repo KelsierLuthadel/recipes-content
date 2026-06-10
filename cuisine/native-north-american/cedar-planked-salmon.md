@@ -43,7 +43,7 @@ The Pacific Northwest indigenous technique that has spread to every Canadian and
 ### Stage 2 - Cure
 1. Mix the brown sugar, salt, juniper and pepper.
 1. Pat the salmon dry; rub the cure all over the flesh side (not the skin).
-1. Cover; refrigerate 30 minutes - the cure draws moisture and tightens the flesh.
+1. Cover; refrigerate 30 minutes, the cure draws moisture and tightens the flesh.
 
 ### Stage 3 - Glaze
 1. Whisk the maple syrup, lemon zest and mustard.
@@ -56,9 +56,9 @@ The Pacific Northwest indigenous technique that has spread to every Canadian and
 
 ### Stage 5 - Grill
 1. Lay the plank directly on the grates; close the lid.
-1. After 3-4 minutes, check the plank - it should be smoking but not flaming. (If flame appears, mist with water from a spray bottle.)
+1. After 3-4 minutes, check the plank, it should be smoking but not flaming. (If flame appears, mist with water from a spray bottle.)
 1. Lay the salmon skin-side down on the plank; close the lid.
-1. Cook 14-18 minutes - the salmon is done when the centre is just-set (a knife slides in easily) and the surface is glossy and slightly caramelised.
+1. Cook 14-18 minutes, the salmon is done when the centre is just-set (a knife slides in easily) and the surface is glossy and slightly caramelised.
 1. The plank may char around the edges; this is desirable.
 
 ### Stage 6 - Rest and serve
@@ -68,7 +68,7 @@ The Pacific Northwest indigenous technique that has spread to every Canadian and
 1. Serve from the plank with lemon wedges. The salmon lifts off the plank in clean pieces, leaving the skin behind.
 
 ## Notes
-- **Untreated cedar only:** Don't use treated lumber - it leaches chemicals. Buy "grilling planks" (cedar, alder, cherry are all good) at hardware or barbecue stores.
+- **Untreated cedar only:** Don't use treated lumber, it leaches chemicals. Buy "grilling planks" (cedar, alder, cherry are all good) at hardware or barbecue stores.
 - **Soak hard:** A plank that hasn't soaked long enough will catch fire. An hour is the minimum.
 - **Don't overcook:** Salmon stays moist when just-set in the centre; overcooked it goes dry and flaky in the wrong way.
 

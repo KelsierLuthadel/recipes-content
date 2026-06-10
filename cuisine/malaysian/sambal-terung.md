@@ -44,11 +44,11 @@ A Malaysian stir-fried aubergine in sambal, the side dish that makes a meal of r
 
 ### Stage 3 - Cook the sambal
 1. Heat the 4 tablespoons of oil in a wide pan or wok over medium heat.
-1. Add the paste; cook 6-8 minutes, stirring often, until much darker, the oil separates and it smells deeply aromatic - not raw.
+1. Add the paste; cook 6-8 minutes, stirring often, until much darker, the oil separates and it smells deeply aromatic, not raw.
 1. Stir in the tamarind, sugar, soy and water; cook 2-3 minutes more to a glossy thick sauce.
 
 ### Stage 4 - Combine
-1. Add the fried aubergines and the sliced onion; toss gently to coat - try not to break the aubergines apart.
+1. Add the fried aubergines and the sliced onion; toss gently to coat, try not to break the aubergines apart.
 1. Cook 2 minutes more so the aubergines absorb the sambal.
 1. Taste; adjust salt or sugar.
 

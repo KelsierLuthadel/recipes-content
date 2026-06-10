@@ -36,13 +36,13 @@ Garam masala is the building block for the finishing touch on Indian curries, da
 1. Measure all remaining spices.
 
 ### Stage 2 - Dry Roast (Two Phases)
-**Phase 1 - Hot Spices First:**
+**Phase 1, Hot Spices First:**
 1. Place a large heavy-based frying pan over medium heat with no oil.
 1. Add the dried red chillies, cinnamon sticks, and curry leaves.
 1. Stir and shake the pan continuously for 2 minutes until the spices give off a rich aroma.
 1. The curry leaves will darken and the cinnamon will begin to smell sweet.
 
-**Phase 2 - Add Seed Spices:**
+**Phase 2, Add Seed Spices:**
 1. Add the coriander seeds, cumin seeds, black peppercorns, cloves, fenugreek, and mustard seeds.
 1. Continue shaking the pan continuously as the spices roast.
 1. After 3-5 minutes, the mustard seeds will start to pop.

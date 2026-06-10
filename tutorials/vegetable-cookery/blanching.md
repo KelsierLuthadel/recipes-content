@@ -9,14 +9,14 @@ Blanching is the most elegant vegetable technique. A large pot of boiling water,
 
 The blanched vegetable can be eaten as-is (steamed, dressed in butter or olive oil, salt, lemon), set aside for later assembly (the make-ahead trick of restaurant kitchens), or used as a stepping stone in another dish (a quickly-blanched then sauteed green; a blanched-then-frozen batch for the freezer).
 
-The salt-and-ice technique sounds fussy; once you have done it twice it becomes instinctive. The salt level matters - undersalted blanching water produces dull vegetables; oversalted is hardly possible. The ice bath also matters - skipping it and just draining produces vegetables that continue cooking from residual heat, going soft and grey.
+The salt-and-ice technique sounds fussy; once you have done it twice it becomes instinctive. The salt level matters, undersalted blanching water produces dull vegetables; oversalted is hardly possible. The ice bath also matters, skipping it and just draining produces vegetables that continue cooking from residual heat, going soft and grey.
 
 ## The Universal Method
 
 1. **Bring a very large pot of water to a rolling boil.** 4-5 litres minimum, even for 500 g of vegetables. The large volume of water recovers quickly when the cold vegetables go in, and dilutes the natural acids the vegetables release (acids dull the colour).
 2. **Salt heavily.** 4-5 tablespoons of sea salt per 4 litres of water. Should taste like seawater. The salt seasons the vegetable, stops chlorophyll degradation (keeps the green), and reduces nutrient loss to the water.
 3. **Prepare an ice bath.** A large bowl half-filled with ice cubes, topped up with cold water. Have a slotted spoon or strainer ready.
-4. **Drop in the vegetable.** No need to wait between additions - drop everything at once if it is delicate (peas, beans, asparagus), or in batches if it is denser (broccoli, cauliflower, root vegetables sliced thin).
+4. **Drop in the vegetable.** No need to wait between additions, drop everything at once if it is delicate (peas, beans, asparagus), or in batches if it is denser (broccoli, cauliflower, root vegetables sliced thin).
 5. **Time precisely.** Use a timer; under-blanched is undercooked, over-blanched is mushy. Pinpoint timing is the difference between a great blanched green and a mediocre one.
 6. **Lift out into the ice bath.** Use a slotted spoon, spider, or pour through a colander into the ice bath. The cold shock stops the cooking instantly.
 7. **Drain when cool.** 30-60 seconds in the ice is enough; the vegetable should be cool to the touch but not waterlogged.
@@ -41,7 +41,7 @@ The salt-and-ice technique sounds fussy; once you have done it twice it becomes 
 | Brussels sprouts (halved) | 3-4 minutes | Tender to the centre |
 | Carrots (sliced thin) | 60-90 seconds | Stays slightly firm |
 | Beetroot (small whole) | 25-35 minutes | Skin slips off when cool |
-| Beetroot (cut to chunks) | 8-12 minutes | Test with a knife - should slide in |
+| Beetroot (cut to chunks) | 8-12 minutes | Test with a knife, should slide in |
 | New potatoes (small whole) | 12-18 minutes | Salt the water heavily; the salt penetrates |
 | Tomatoes (for peeling) | 15-30 seconds | Until the skin splits |
 
@@ -112,7 +112,7 @@ Method:
 
 ## Refreshing and Holding
 
-A useful restaurant trick: blanch a large batch of vegetables in the morning, refresh in ice, drain, store in the fridge in a covered container. Heat to serve - either in a small amount of butter (the French pan-finish above) or directly into a stir-fry.
+A useful restaurant trick: blanch a large batch of vegetables in the morning, refresh in ice, drain, store in the fridge in a covered container. Heat to serve, either in a small amount of butter (the French pan-finish above) or directly into a stir-fry.
 
 This works for almost all blanched vegetables for 24-48 hours. The colour stays bright; the texture stays intact; the cook time at service is just 1-2 minutes to warm through.
 

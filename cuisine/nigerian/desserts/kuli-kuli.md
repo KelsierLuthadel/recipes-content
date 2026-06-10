@@ -32,15 +32,15 @@ Northern Nigeria's Hausa peanut snack, sold across markets and roadside stalls f
 ### Stage 2 - Grind
 1. Pulse the warm peanuts in a food processor 1 minute to a coarse meal.
 1. Continue pulsing in long bursts (1-2 minutes) until the peanuts release their oil and the mixture becomes a thick wet paste.
-1. You'll hear the motor strain as it transitions from dry meal to oily paste - keep going.
+1. You'll hear the motor strain as it transitions from dry meal to oily paste, keep going.
 1. Total grinding time: 4-6 minutes.
 
 ### Stage 3 - Press out oil
 1. Place the peanut paste in the centre of a clean fine-weave cloth (a flour-sack tea towel works).
 1. Gather the corners; twist hard over a bowl.
-1. Press and squeeze for 5-7 minutes - golden oil will run out into the bowl.
+1. Press and squeeze for 5-7 minutes, golden oil will run out into the bowl.
 1. Continue until very little oil emerges and the paste tightens to a clay-like dough.
-1. Save the pressed-out peanut oil (manshanu) - it's great for cooking.
+1. Save the pressed-out peanut oil (manshanu): it's great for cooking.
 
 ### Stage 4 - Season and shape
 1. Transfer the de-oiled paste to a bowl.
@@ -58,15 +58,15 @@ Northern Nigeria's Hausa peanut snack, sold across markets and roadside stalls f
 1. Lift onto a wire rack lined with kitchen paper.
 
 ### Stage 6 - Cool
-1. Cool completely before eating - kuli-kuli crisps as it cools.
+1. Cool completely before eating, kuli-kuli crisps as it cools.
 
 ## Notes
 - **The oil press is the technique:** kuli-kuli's signature dry, slightly chalky texture depends on extracting the peanut oil. Skip the press and you've made peanut paste cookies, not kuli-kuli.
-- **Save the oil (manshanu):** the pressed-out oil is a Hausa cooking staple - flavour-rich and golden. Use it in stews, fried plantain, anywhere you'd use oil.
+- **Save the oil (manshanu):** the pressed-out oil is a Hausa cooking staple, flavour-rich and golden. Use it in stews, fried plantain, anywhere you'd use oil.
 - **Spice level adjusts:** classic kuli-kuli is mildly spicy. Northern Nigerians prefer it hotter; reduce chilli for southern Nigerian / international palates.
 - **Use a fine-weave cloth:** loose-weave cloths let peanut paste through with the oil. A flour-sack towel or several layers of cheesecloth tied tight work.
 
 ## Storage
 - Keeps 3 weeks in an airtight container at room temperature.
-- Crisp deteriorates with humidity - store with a silica packet for longer life.
+- Crisp deteriorates with humidity, store with a silica packet for longer life.
 - Don't refrigerate.

@@ -32,10 +32,10 @@ Jian bing is the street-corner breakfast crepe of northern China, the egg-and-ba
 - 1 tablespoon chopped coriander
 - 1 teaspoon Chinese sweet bean sauce (tian mian jiang, sold at Chinese shops; or hoisin sauce + 1 teaspoon soy)
 - 1 teaspoon chilli sauce (Lao Gan Ma or any Chinese chilli paste)
-- 1 sheet crisp fried wonton (about 12 cm square - see Stage 2) OR a piece of churro-like fried Chinese doughstick (you-tiao)
+- 1 sheet crisp fried wonton (about 12 cm square, see Stage 2) OR a piece of churro-like fried Chinese doughstick (you-tiao)
 
 ### For frying the wonton sheets
-- 4 wonton wrappers (12 cm square - sold at Asian shops, the thin yellow kind)
+- 4 wonton wrappers (12 cm square, sold at Asian shops, the thin yellow kind)
 - 300 ml sunflower oil
 - A pinch of salt
 
@@ -64,7 +64,7 @@ Jian bing is the street-corner breakfast crepe of northern China, the egg-and-ba
 ### Stage 4 - First crepe - cook the bottom
 1. Ladle about 150 ml of batter onto the centre of the hot pan.
 1. Immediately tilt and rotate the pan to spread the batter into a thin disc that covers the entire base (or use a wooden disc-rake to spread it).
-1. Cook 60-90 seconds - the surface should look dry, the edges starting to curl.
+1. Cook 60-90 seconds, the surface should look dry, the edges starting to curl.
 
 ### Stage 5 - Egg
 1. Crack an egg onto the centre of the crepe.
@@ -85,7 +85,7 @@ Jian bing is the street-corner breakfast crepe of northern China, the egg-and-ba
 ### Stage 9 - Fold
 1. Fold the crepe over the wonton from the left side toward the centre.
 1. Fold from the right side.
-1. Fold the top down and the bottom up - into a square parcel.
+1. Fold the top down and the bottom up, into a square parcel.
 1. (Some Beijing-cart sellers fold it into quarters instead, into a single triangle.)
 
 ### Stage 10 - Serve

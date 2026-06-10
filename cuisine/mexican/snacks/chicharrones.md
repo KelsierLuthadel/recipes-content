@@ -4,7 +4,7 @@
 
 *Mexico's pork crackling: dried pork skin plunged into hot oil until it puffs into shattering, salty, weightless clouds.*
 
-**Serves:** 6 (as a snack - makes about 150 g cooked chicharrones from 400 g raw skin)
+**Serves:** 6 (as a snack, makes about 150 g cooked chicharrones from 400 g raw skin)
 
 **Prep Time:** 30 minutes
 
@@ -15,7 +15,7 @@ Mexico's pork crackling, the bag-snack sold at every market and the warm-from-th
 
 ## Ingredients
 
-- 400 g raw pork back skin (fresh; ask the butcher for skin with thick subcutaneous fat - yes, both layers; you'll trim the fat)
+- 400 g raw pork back skin (fresh; ask the butcher for skin with thick subcutaneous fat, yes, both layers; you'll trim the fat)
 
 ### Seasoning
 - 1 teaspoon flaky sea salt
@@ -35,15 +35,15 @@ Mexico's pork crackling, the bag-snack sold at every market and the warm-from-th
 
 ### Stage 1 - Scrape the skin
 1. Lay the skin flat on a board, fat-side up.
-1. With a sharp knife held almost flat to the skin, scrape away all the white fat layer. Take your time - the goal is to leave only the thin grey-pink skin behind, with no white fat visible.
+1. With a sharp knife held almost flat to the skin, scrape away all the white fat layer. Take your time, the goal is to leave only the thin grey-pink skin behind, with no white fat visible.
 1. This takes 15-20 minutes. Rinse the skin under cold water; pat dry.
 
 ### Stage 2 - Dry (this is the critical multi-day step)
-1. **Method A - air-dry in the fridge (best texture)**:
+1. **Method A, air-dry in the fridge (best texture)**:
    - Lay the scraped skin on a rack over a tray.
    - Refrigerate uncovered for 24-48 hours, flipping once.
    - The skin should be completely dry, brittle, almost translucent, and lighter in weight by half.
-1. **Method B - low-oven dry**:
+1. **Method B, low-oven dry**:
    - Heat oven to 100°C (80°C fan).
    - Place skin on a rack over a tray.
    - Dry 3-4 hours, until brittle and dry.
@@ -72,7 +72,7 @@ Mexico's pork crackling, the bag-snack sold at every market and the warm-from-th
 ### Optional stewed version (chicharrón en salsa verde)
 1. Make a salsa verde from 500 g tomatillos + onion + jalapeño + garlic blended with chicken stock.
 1. Simmer 10 minutes.
-1. Add 100 g of the chicharrones; they soften and absorb the salsa, becoming chewy-tender (very different from the crisp version - both are good).
+1. Add 100 g of the chicharrones; they soften and absorb the salsa, becoming chewy-tender (very different from the crisp version, both are good).
 1. Eat with rice and tortillas as a meal.
 
 ## Notes
@@ -81,7 +81,7 @@ Mexico's pork crackling, the bag-snack sold at every market and the warm-from-th
 - **Lard vs oil:** Pure pork lard gives the most authentic flavour and a slightly more golden colour. Sunflower or vegetable oil works fine and is more practical for most kitchens. Avoid olive oil (smoke point too low, wrong flavour).
 
 ## Storage
-- Best within 4 hours of frying - they soften quickly in humid air.
+- Best within 4 hours of frying, they soften quickly in humid air.
 - Store in a sealed jar with silica gel packets at room temperature for 2-3 days.
 - Re-crisp soft chicharrones at 180°C oven for 4 minutes.
 - Stewed chicharrón en salsa verde: refrigerate 3 days; reheats well.

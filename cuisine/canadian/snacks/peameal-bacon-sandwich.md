@@ -16,7 +16,7 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 ## Ingredients
 
 ### The sandwich (per sandwich, multiplied by 4)
-- 4 slices peameal bacon (6 mm thick) - about 80-100 g per sandwich
+- 4 slices peameal bacon (6 mm thick): about 80-100 g per sandwich
 - 1 tablespoon sunflower oil OR a knob of butter (for frying)
 - 4 fresh kaiser rolls (about 12 cm diameter; soft white)
 - 4 tablespoons prepared yellow mustard (French's or a Canadian equivalent; NOT Dijon)
@@ -33,7 +33,7 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 
 ### Stage 1 - Prep the rolls
 1. Slice each kaiser roll in half horizontally.
-2. (Optional) Lightly toast the cut sides in a dry pan or under a hot grill for 30 seconds - just to give them a hint of golden colour and structure.
+2. (Optional) Lightly toast the cut sides in a dry pan or under a hot grill for 30 seconds, just to give them a hint of golden colour and structure.
 3. Spread the bottom half of each with 1 tablespoon of yellow mustard, edge to edge.
 4. (Optional) Spread a thin smear of butter on the top half.
 
@@ -41,7 +41,7 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 1. Heat 1 tablespoon of oil in a heavy frying pan over medium-high heat.
 2. Add the peameal slices in a single layer (work in 2 batches if needed).
 3. Fry 3-4 minutes per side till golden brown on both sides and just heated through (internal temperature 60-65°C).
-4. Don't over-cook - peameal goes dry and chewy past 70°C internal.
+4. Don't over-cook, peameal goes dry and chewy past 70°C internal.
 5. Lift onto kitchen paper to drain briefly.
 
 ### Stage 3 - Assemble
@@ -59,20 +59,20 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 ## Notes
 - **Peameal is not bacon as you might know it:** it's a cured, cornmeal-rolled, unsmoked pork loin. The name "bacon" is a North American convention but the texture is closer to a juicy pork chop than to crispy strip bacon.
 - **6 mm slices is the traditional thickness:** thin slices dry out; thick slices don't cook through evenly. 6 mm is the sweet spot.
-- **Don't over-cook:** peameal is best at 60-65°C internal - just-cooked-through, still juicy. Past 70°C and the meat goes tough.
+- **Don't over-cook:** peameal is best at 60-65°C internal, just-cooked-through, still juicy. Past 70°C and the meat goes tough.
 - **Yellow mustard, not Dijon:** the traditional Toronto condiment is French's yellow. Dijon is too sharp; honey-mustard is too sweet.
 - **Fresh kaiser roll:** the Polish-Canadian soft white round roll. Day-old rolls go limp. Buy fresh, eat within 6 hours of purchase.
 - **No mayo, no relish:** the Carousel Bakery purist version is just peameal + mustard. Adding mayo, cheese, ranch, or chipotle sauce is a personal choice; defenders of the tradition would object.
 
 ## Variations
 **The Carousel Bakery classic (the purist version):** peameal + yellow mustard + kaiser roll. Nothing else. Sold from the original stall at St. Lawrence Market in Toronto since 1996.
-**Peameal sandwich with fried egg:** add an over-easy fried egg on top of the peameal - the breakfast variant.
-**Peameal sandwich with cheddar:** add a slice of melted Canadian cheddar - the modern Toronto deli variant.
-**Peameal on rye:** swap the kaiser roll for fresh rye bread - the Jewish-Toronto fusion variant.
-**Toronto-style peameal sandwich with maple syrup:** drizzle a teaspoon of pure maple syrup over the peameal - the Quebec-Ontario crossover.
-**Peameal on a brioche bun (modern):** swap the kaiser for a brioche burger bun and add caramelised onions - the upmarket gastropub variant.
-**Peameal-and-egg breakfast (no bread):** skip the roll; serve the fried peameal with two fried eggs, hash browns and beans - the diner breakfast.
-**Pulled peameal (modern):** cook a whole peameal roast in the oven (170°C, 90 minutes); shred and pile on the roll - the slow-cooker variant.
+**Peameal sandwich with fried egg:** add an over-easy fried egg on top of the peameal, the breakfast variant.
+**Peameal sandwich with cheddar:** add a slice of melted Canadian cheddar, the modern Toronto deli variant.
+**Peameal on rye:** swap the kaiser roll for fresh rye bread, the Jewish-Toronto fusion variant.
+**Toronto-style peameal sandwich with maple syrup:** drizzle a teaspoon of pure maple syrup over the peameal, the Quebec-Ontario crossover.
+**Peameal on a brioche bun (modern):** swap the kaiser for a brioche burger bun and add caramelised onions, the upmarket gastropub variant.
+**Peameal-and-egg breakfast (no bread):** skip the roll; serve the fried peameal with two fried eggs, hash browns and beans, the diner breakfast.
+**Pulled peameal (modern):** cook a whole peameal roast in the oven (170°C, 90 minutes); shred and pile on the roll, the slow-cooker variant.
 **Vegan "peameal" (recent):** seitan dough rolled in cornmeal, brined, slow-cooked, pan-fried. Surprisingly close in texture.
 
 ## Serving
@@ -83,5 +83,5 @@ At the Carousel Bakery stall in Toronto's St. Lawrence Market (the traditional s
 - The cooked peameal bacon refrigerates 3 days; eat cold sliced thin, or pan-fry again briefly to refresh.
 - Raw peameal bacon refrigerates 7 days (sealed in the deli wrapper); slice and cook as needed.
 - The raw peameal freezes 3 months in vacuum-sealed portions.
-- Don't refrigerate the assembled sandwich - the bread goes soggy.
+- Don't refrigerate the assembled sandwich, the bread goes soggy.
 - The pickle and the frites are best fresh; the sandwich components can be prepped 30 minutes ahead and assembled on demand.

@@ -17,10 +17,10 @@ Nigeria's breakfast fritter, the deep-fried bean ball sold from roadside stalls 
 
 - 300 g dried black-eyed beans
 - 1 red onion (small, rough chunks)
-- 1 Scotch bonnet chilli (to taste - deseeded for less heat)
+- 1 Scotch bonnet chilli (to taste, deseeded for less heat)
 - 80-120 ml water (to blend, used sparingly)
 - 1 teaspoon salt
-- ½ teaspoon ground white pepper (optional - traditional in some regions)
+- ½ teaspoon ground white pepper (optional, traditional in some regions)
 - 1 litre vegetable oil (for deep-frying)
 
 ### To serve (optional)
@@ -31,18 +31,18 @@ Nigeria's breakfast fritter, the deep-fried bean ball sold from roadside stalls 
 
 ### Stage 1 - Soak and peel
 1. Place beans in a bowl; cover with hot water; soak 30 minutes.
-1. Drain. Working in batches in a large bowl of cool water, rub the beans firmly between your palms - the skins lift off and float.
+1. Drain. Working in batches in a large bowl of cool water, rub the beans firmly between your palms, the skins lift off and float.
 1. Pour off the water with the skins. Add fresh water and repeat 2-3 times until most skins are gone.
 1. Drain.
 
 ### Stage 2 - Blend
 1. In a powerful blender, combine the peeled beans, onion chunks, Scotch bonnet and 80 ml of water.
-1. Blend on high until completely smooth - 2-3 minutes. The batter should be the consistency of thick pancake batter - not runny, not stiff. Add 1-2 tablespoons more water if needed.
+1. Blend on high until completely smooth - 2-3 minutes. The batter should be the consistency of thick pancake batter, not runny, not stiff. Add 1-2 tablespoons more water if needed.
 
 ### Stage 3 - Whip
 1. Tip the batter into a wide bowl.
 1. Add salt and white pepper (if using).
-1. Whip with a wooden spoon (or stand mixer paddle) for 5 minutes - the batter visibly lightens in colour and increases slightly in volume. This air is what gives akara its fluff.
+1. Whip with a wooden spoon (or stand mixer paddle) for 5 minutes, the batter visibly lightens in colour and increases slightly in volume. This air is what gives akara its fluff.
 
 ### Stage 4 - Test the batter
 1. Drop a small spoonful into a glass of cold water. If it floats, the batter has enough air. If it sinks, whip another 2 minutes and re-test.
@@ -52,7 +52,7 @@ Nigeria's breakfast fritter, the deep-fried bean ball sold from roadside stalls 
 1. Working in batches of 6-8, scoop heaped tablespoons of batter and gently drop into the oil. Use a second spoon to slide them off cleanly.
 1. Fry 3-4 minutes per side, turning once, until deep golden brown.
 1. Lift onto kitchen paper.
-1. Don't crowd - the oil temperature drops too far.
+1. Don't crowd, the oil temperature drops too far.
 
 ### Stage 6 - Serve
 1. Eat warm, while still crisp.
@@ -67,4 +67,4 @@ Nigeria's breakfast fritter, the deep-fried bean ball sold from roadside stalls 
 ## Storage
 - Best within 30 minutes of frying.
 - Refrigerate cooked akara 2 days; reheat in a 180°C oven 5 minutes (microwaving makes them rubbery).
-- Freeze raw batter? No - the air is lost. Freeze cooked fritters and reheat in the oven.
+- Freeze raw batter? No, the air is lost. Freeze cooked fritters and reheat in the oven.

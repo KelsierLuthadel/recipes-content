@@ -25,7 +25,7 @@ Diri ak djon djon is the dish that defines Haitian celebration cooking, slate-bl
 - 6 garlic cloves (finely chopped)
 - 1 Scotch bonnet (whole, pierced; remove before serving)
 - 2 sprigs fresh thyme
-- 2 tablespoons épis (Haitian green seasoning - see Notes)
+- 2 tablespoons épis (Haitian green seasoning, see Notes)
 - 100 g frozen green peas
 - 100 g cooked lima beans (or butter beans)
 - 400 g long-grain rice (basmati or jasmine)
@@ -56,12 +56,12 @@ Diri ak djon djon is the dish that defines Haitian celebration cooking, slate-bl
 1. Add the peas and lima beans; stir to coat.
 
 ### Stage 3 - Toast the rice
-1. Add the rice to the pot. Stir thoroughly so every grain is coated in the oil and aromatics. Cook 1-2 minutes - this is the toasting step that keeps the grains separate.
+1. Add the rice to the pot. Stir thoroughly so every grain is coated in the oil and aromatics. Cook 1-2 minutes, this is the toasting step that keeps the grains separate.
 1. Add the salt and pepper.
 
 ### Stage 4 - Steam
 1. Pour in the djon djon broth (use 750 ml for slightly drier rice, 800 ml for softer). Lay the pierced Scotch bonnet on top.
-1. Bring to a vigorous boil, uncovered, until the level of liquid drops below the surface of the rice - around 3-4 minutes.
+1. Bring to a vigorous boil, uncovered, until the level of liquid drops below the surface of the rice, around 3-4 minutes.
 1. Reduce heat to the lowest setting. Cover tightly (a folded tea towel under the lid helps trap steam).
 1. Cook 18-20 minutes without lifting the lid.
 1. Turn off the heat. Leave covered another 10 minutes to finish steaming.
@@ -82,8 +82,8 @@ Diri ak djon djon is the dish that defines Haitian celebration cooking, slate-bl
 - **Épis:** see the griot recipe for the standard épis paste, or use any Caribbean green seasoning.
 
 ## Variations
-**Diri djon djon ak kribich:** with prawns or shrimp stirred through the rice for the last 5 minutes of cooking - a coastal Cap-Haïtien variant.
-**With crab:** small whole crabs (or large crab claws) are simmered briefly in the broth before the rice goes in - common at weddings.
+**Diri djon djon ak kribich:** with prawns or shrimp stirred through the rice for the last 5 minutes of cooking, a coastal Cap-Haïtien variant.
+**With crab:** small whole crabs (or large crab claws) are simmered briefly in the broth before the rice goes in, common at weddings.
 
 ## Serving
 Serve with: griot (the classic pairing), stewed chicken (poul nan sòs), pikliz, sliced avocado, fried plantains. Almost always part of a larger Haitian Sunday spread rather than a stand-alone meal.

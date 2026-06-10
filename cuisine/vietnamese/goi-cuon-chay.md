@@ -62,7 +62,7 @@ Gỏi cuốn chay are Vietnam's vegetarian summer rolls: cool rice paper wrapped
 1. Have all fillings in arm's reach: lettuce, vermicelli, tofu, beansprouts, carrot, cucumber, herbs, chives.
 
 ### Stage 5 - Roll
-1. Dip a rice paper round in warm water for 5-10 seconds - pliable but still firm; it'll continue softening as you work.
+1. Dip a rice paper round in warm water for 5-10 seconds, pliable but still firm; it'll continue softening as you work.
 1. Lay flat on a clean board.
 1. On the lower third, lay: a leaf of lettuce, a small pile of vermicelli, a baton of tofu, a few beansprouts, a few sticks of carrot and cucumber, a few herb leaves, two chive lengths sticking out one end.
 1. Fold the bottom up over the filling; fold the sides in; roll up tight, sausage-style.

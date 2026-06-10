@@ -24,7 +24,7 @@ Beignets are the New Orleans French Quarter pastry sold three to an order at Caf
 - 200 ml warm whole milk
 - 100 ml evaporated milk (or more whole milk)
 - 1 ½ litres vegetable oil for deep frying
-- 150 g icing sugar (for dusting - be generous)
+- 150 g icing sugar (for dusting, be generous)
 
 ## Method
 

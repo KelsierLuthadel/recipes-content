@@ -34,7 +34,7 @@ The Southern fish-fry sidekick: golf-ball scoops of buttermilk-cornmeal batter w
 1. Whisk cornmeal, flour, baking powder, baking soda, salt, sugar, cayenne, pepper in a wide bowl.
 1. Stir in the chopped onion.
 1. Whisk the egg and buttermilk together; pour into the dry; fold to a thick scoopable batter.
-1. Rest 15 minutes - the cornmeal needs to hydrate.
+1. Rest 15 minutes, the cornmeal needs to hydrate.
 
 ### Stage 2 - Heat oil
 1. Heat oil to 170°C in a deep heavy pan.
@@ -48,10 +48,10 @@ The Southern fish-fry sidekick: golf-ball scoops of buttermilk-cornmeal batter w
 1. Eat hot, with fried catfish or shrimp, BBQ, or alongside coleslaw and pickles.
 
 ## Notes
-- **Fine cornmeal:** Coarse cornmeal gives gritty, dry hush puppies. Look for fine or medium - yellow cornmeal (corn flour in the UK, polenta if it's labelled "fine ground").
+- **Fine cornmeal:** Coarse cornmeal gives gritty, dry hush puppies. Look for fine or medium, yellow cornmeal (corn flour in the UK, polenta if it's labelled "fine ground").
 - **Don't overmix:** Lumps are fine. Overmixing develops gluten and gives chewy hush puppies.
 - **Hot oil, small scoops:** Big scoops at low heat give pale, raw centres. Walnut-sized at 170°C gives even gold.
 
 ## Storage
 - Best fresh. Re-crisp at 200°C 5 minutes if needed.
-- Don't refrigerate - texture goes wrong.
+- Don't refrigerate, texture goes wrong.

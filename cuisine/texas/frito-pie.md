@@ -2,7 +2,7 @@
 
 ![Frito Pie](resources/frito-pie.jpg)
 
-*Texas's bag-of-chips chili: a bag of Fritos corn chips opened down the side, filled with hot Texas chili, topped with grated cheese, chopped onion, sour cream and pickled jalapeños - eaten directly from the bag with a fork. The Texan stadium-and-state-fair classic, the dish that defined working-class American Tex-Mex.*
+*Texas's bag-of-chips chili: a bag of Fritos corn chips opened down the side, filled with hot Texas chili, topped with grated cheese, chopped onion, sour cream and pickled jalapeños, eaten directly from the bag with a fork. The Texan stadium-and-state-fair classic, the dish that defined working-class American Tex-Mex.*
 
 **Serves:** 4
 
@@ -56,7 +56,7 @@ Frito pie is one of Texas's most iconic working-class foods and a fixture of sta
 ### Stage 4 - Serve
 1. Provide a plastic fork.
 2. Eat directly from the bag.
-3. The chips break up into the chili as you eat - that's the point.
+3. The chips break up into the chili as you eat, that's the point.
 
 ### Family-style serving (alternative)
 
@@ -87,7 +87,7 @@ Frito pie is one of Texas's most iconic working-class foods and a fixture of sta
 **Spicy version:** add Cayenne and chopped fresh habanero; properly fierce Texan.
 
 ## Serving
-At state fairs, football games, school cafeterias - anywhere Texan working-class food is celebrated. Cold soda, beer, or sweet tea.
+At state fairs, football games, school cafeterias, anywhere Texan working-class food is celebrated. Cold soda, beer, or sweet tea.
 
 ## Storage
 - Best eaten immediately.

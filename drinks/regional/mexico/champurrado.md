@@ -11,11 +11,11 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Champurrado is the corn-thickened cousin of regular Mexican hot chocolate, and its defining ingredient is masa harina - the nixtamalised corn flour used for tortillas and tamales. Whisked with cold water first to make a slurry (lumps will ruin the drink), then added to simmering milk along with broken Mexican chocolate tablets (the classic brand is Abuelita or Ibarra, the disc-shaped chocolate with grainy unrefined sugar pressed in) and piloncillo (Mexican raw cane sugar in cone form), it slowly thickens to a velvety consistency that's somewhere between a chocolate drink and a thin pudding. Cinnamon and sometimes a small piece of anise round the spice. Champurrado is one of the traditional drinks for Día de los Muertos (Day of the Dead), shared at midnight vigils; it's also a winter breakfast drink in Mexico City and the Bajío region, served alongside tamales pulled from steamers in the market. The whole point is the texture - never bland, never thin, just thick enough to be substantial without being a pudding.
+Champurrado is the corn-thickened cousin of regular Mexican hot chocolate, and its defining ingredient is masa harina, the nixtamalised corn flour used for tortillas and tamales. Whisked with cold water first to make a slurry (lumps will ruin the drink), then added to simmering milk along with broken Mexican chocolate tablets (the classic brand is Abuelita or Ibarra, the disc-shaped chocolate with grainy unrefined sugar pressed in) and piloncillo (Mexican raw cane sugar in cone form), it slowly thickens to a velvety consistency that's somewhere between a chocolate drink and a thin pudding. Cinnamon and sometimes a small piece of anise round the spice. Champurrado is one of the traditional drinks for Día de los Muertos (Day of the Dead), shared at midnight vigils; it's also a winter breakfast drink in Mexico City and the Bajío region, served alongside tamales pulled from steamers in the market. The whole point is the texture, never bland, never thin, just thick enough to be substantial without being a pudding.
 
 ## Ingredients
 
-- 4 tablespoons masa harina (Maseca brand; the same flour used for tortillas - not corn flour or polenta)
+- 4 tablespoons masa harina (Maseca brand; the same flour used for tortillas, not corn flour or polenta)
 - 250 ml cold water (for the masa slurry)
 - 1 litre whole milk
 - 1 Mexican chocolate tablet (90 g; Abuelita or Ibarra) OR 80 g dark chocolate + 1 teaspoon cinnamon + 1 tablespoon sugar
@@ -43,7 +43,7 @@ Champurrado is the corn-thickened cousin of regular Mexican hot chocolate, and i
 1. Increase the heat to medium and continue whisking until the mixture comes to a gentle simmer.
 
 ### Stage 4 - Simmer to thicken
-1. Reduce the heat to low and simmer for 8-10 minutes, whisking constantly. The champurrado will thicken noticeably - going from milky to a velvety, slightly viscous consistency that coats the back of a spoon. If it gets too thick, whisk in a splash more hot milk.
+1. Reduce the heat to low and simmer for 8-10 minutes, whisking constantly. The champurrado will thicken noticeably, going from milky to a velvety, slightly viscous consistency that coats the back of a spoon. If it gets too thick, whisk in a splash more hot milk.
 1. Taste: it should be richly chocolate, warmly spiced, and properly sweet. Adjust sugar (an extra tablespoon of piloncillo or brown sugar) if it tastes flat.
 
 ### Stage 5 - Serve
@@ -53,7 +53,7 @@ Champurrado is the corn-thickened cousin of regular Mexican hot chocolate, and i
 1. Serve immediately with a tamale or pan dulce on the side.
 
 ## Notes
-- **Masa harina, not cornstarch.** Masa harina (Maseca brand) is nixtamalised corn flour - the same one used for tortillas. It has a distinctive faintly grainy flavour that's the whole point. Cornstarch gives a slick thickness without the corn character.
+- **Masa harina, not cornstarch.** Masa harina (Maseca brand) is nixtamalised corn flour, the same one used for tortillas. It has a distinctive faintly grainy flavour that's the whole point. Cornstarch gives a slick thickness without the corn character.
 - **Whisk constantly.** Once the masa hits the milk, lumps form fast if you stop whisking. Keep moving until the simmer thickens it.
 - **Mexican chocolate is the right one.** Abuelita and Ibarra tablets include the cinnamon and sugar already; they're built for hot chocolate. Substituting plain dark chocolate works but you need to add cinnamon and a touch more sugar to compensate.
 - **Texture is the trick.** Champurrado should be thick enough to coat a spoon but still pour easily from a jug. Too thin and it's just hot chocolate; too thick and it's chocolate pudding.

@@ -77,10 +77,10 @@ Saltah is Yemen's national dish: a deeply spiced slow-cooked lamb stew (the mara
 1. Tear lahoh or flatbread; scoop directly from the pot. The first bites are eaten in the still-bubbling stew.
 
 ## Notes
-- **Fenugreek bitter at first:** Hulba is an acquired taste - intensely savoury, slightly bitter. Yemenis eat it from childhood. Soaking overnight and rinsing twice keeps the bitterness in check.
+- **Fenugreek bitter at first:** Hulba is an acquired taste, intensely savoury, slightly bitter. Yemenis eat it from childhood. Soaking overnight and rinsing twice keeps the bitterness in check.
 - **Stone pot (madra):** Traditional. A cast-iron skillet or any flameproof clay pot works to keep the boiling-at-the-table effect.
 - **Heat options:** Add more sahawiq for heat. The hulba itself is not spicy.
 
 ## Storage
-- Stew refrigerates 3 days; reheats well, though the hulba doesn't keep - make fresh before serving.
+- Stew refrigerates 3 days; reheats well, though the hulba doesn't keep, make fresh before serving.
 - Soaked seeds keep 2 days refrigerated.

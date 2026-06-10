@@ -7,7 +7,7 @@
 ## Overview
 Tempering is the controlled crystallisation of cocoa butter into Form V (the [Chocolate Science](science.md) lesson covers why this matters). The technique is a temperature cycle: heat the chocolate well above all six crystal forms' melting points (around 50 C); cool it past the Form V melting point so that crystals begin to form (around 27 C); warm it slightly back up to a temperature where only the stable Form V crystals survive (31-32 C for dark; 30-31 C for milk and white).
 
-Done right, you have working chocolate. You can pour it into moulds, dip strawberries in it, coat truffles - any of which will set in 5-10 minutes to a glossy, snappy finish. Done wrong, you have a sticky soft mess that will set into bloom in a few hours.
+Done right, you have working chocolate. You can pour it into moulds, dip strawberries in it, coat truffles, any of which will set in 5-10 minutes to a glossy, snappy finish. Done wrong, you have a sticky soft mess that will set into bloom in a few hours.
 
 This lesson covers four methods. The first two (tabling, seeding) are classical and reliable. The third (microwave) is fast and works well with practice. The fourth (Mycryo / EZ-temper) is fool-proof and faster but needs special powdered cocoa butter.
 
@@ -37,23 +37,23 @@ You need:
 
 ### Steps
 
-1. **Melt completely.** Chop the chocolate finely (or use callets/pistoles - small disc-shaped pieces sold for tempering). Melt in a bain-marie or a microwave (low power, short bursts), stirring frequently, until completely smooth and at 45-50 C for dark (40-45 C for milk and white). All six crystal forms are now liquid; no seed crystals remain.
+1. **Melt completely.** Chop the chocolate finely (or use callets/pistoles, small disc-shaped pieces sold for tempering). Melt in a bain-marie or a microwave (low power, short bursts), stirring frequently, until completely smooth and at 45-50 C for dark (40-45 C for milk and white). All six crystal forms are now liquid; no seed crystals remain.
 
-2. **Pour 2/3 onto the slab.** Set aside 1/3 of the chocolate in the bowl - this stays warm. Pour the other 2/3 onto the marble slab in a wide pool.
+2. **Pour 2/3 onto the slab.** Set aside 1/3 of the chocolate in the bowl, this stays warm. Pour the other 2/3 onto the marble slab in a wide pool.
 
 3. **Spread and gather.** With the bench scraper and palette knife, spread the chocolate thin across the slab; then gather it back to the centre. Repeat. The thinning spreads the chocolate over the cool stone (which absorbs heat); the gathering keeps it together as a working mass.
 
-4. **Watch the thermometer.** Continue spreading and gathering until the chocolate cools to **27-28 C** for dark (26-27 C for white/milk). At this temperature it has thickened noticeably - it is now a stiff paste, no longer a pourable liquid. Form IV and V crystals have started to nucleate.
+4. **Watch the thermometer.** Continue spreading and gathering until the chocolate cools to **27-28 C** for dark (26-27 C for white/milk). At this temperature it has thickened noticeably, it is now a stiff paste, no longer a pourable liquid. Form IV and V crystals have started to nucleate.
 
-5. **Add back to the warm 1/3.** Scrape the tempered mass back into the bowl with the reserved warm chocolate. Stir gently and thoroughly to combine. The mass should rise to **31-32 C** for dark (29-30 C for milk and white). This is the working temperature - Form IV and unstable crystals melt; Form V remains. The chocolate is now tempered.
+5. **Add back to the warm 1/3.** Scrape the tempered mass back into the bowl with the reserved warm chocolate. Stir gently and thoroughly to combine. The mass should rise to **31-32 C** for dark (29-30 C for milk and white). This is the working temperature, Form IV and unstable crystals melt; Form V remains. The chocolate is now tempered.
 
-6. **Test.** Dip the end of a clean offset palette knife or a small spoon into the chocolate. Set aside at room temperature (around 20 C, not a cold fridge). It should set within 3-5 minutes to a glossy snap. If it sets to a streaky dull surface, the temper is off - usually because the working temperature was too high (over-warm, melting the seed) or too low (under-warm, insufficient flow). Adjust and try again.
+6. **Test.** Dip the end of a clean offset palette knife or a small spoon into the chocolate. Set aside at room temperature (around 20 C, not a cold fridge). It should set within 3-5 minutes to a glossy snap. If it sets to a streaky dull surface, the temper is off, usually because the working temperature was too high (over-warm, melting the seed) or too low (under-warm, insufficient flow). Adjust and try again.
 
 7. **Work fast.** Tempered chocolate stays in temper for about 20-30 minutes at room temperature before the working temperature drops and it becomes too thick. To extend the working window, place the bowl on a folded tea towel over a heat source (a low warming pad set to 30 C, the lowest setting of an electric heating pad) so the temperature stays in the working range.
 
 ### Why It Works
 
-The cool slab pulls the chocolate down through the Form IV/V crystal nucleation temperature. Spreading thin maximises contact with the cool stone; gathering brings the mass together so it crystallises evenly. The final warm-up phase melts away unstable Form IV crystals while leaving Form V intact - "seeding" the bulk of the chocolate with the right crystal structure.
+The cool slab pulls the chocolate down through the Form IV/V crystal nucleation temperature. Spreading thin maximises contact with the cool stone; gathering brings the mass together so it crystallises evenly. The final warm-up phase melts away unstable Form IV crystals while leaving Form V intact, "seeding" the bulk of the chocolate with the right crystal structure.
 
 ## Method 2: Seed Tempering
 
@@ -69,12 +69,12 @@ You need:
 
 1. **Melt 800 g.** Heat to 45-50 C. All crystals melted.
 2. **Remove from heat.** Add the 200 g of unmelted chocolate (the seed). Stir gently.
-3. **Stir until cooled to the working temperature.** The seed pieces are at room temperature (around 20 C). As they melt into the warm chocolate, they cool the mass and donate their crystal structure. Stir steadily; some seed pieces may not fully melt - that is fine.
+3. **Stir until cooled to the working temperature.** The seed pieces are at room temperature (around 20 C). As they melt into the warm chocolate, they cool the mass and donate their crystal structure. Stir steadily; some seed pieces may not fully melt, that is fine.
 4. **Reach 31-32 C for dark.** Once the chocolate is at the working temperature and any unmelted seed has been removed (or has fully melted), test by dipping a knife and letting it set at room temperature. A clean glossy snap means tempered.
 
 ### Why It Works
 
-The unmelted seed brings Form V crystals into the melted mass. Stirring distributes them. Cooling slows down so the crystal structure of the seed propagates through the bulk. The unstable crystals from the melted-and-cooled chocolate get incorporated into the Form V structure of the seed - they all align together.
+The unmelted seed brings Form V crystals into the melted mass. Stirring distributes them. Cooling slows down so the crystal structure of the seed propagates through the bulk. The unstable crystals from the melted-and-cooled chocolate get incorporated into the Form V structure of the seed, they all align together.
 
 This works best with couverture chocolate that has been properly tempered when bought (most commercial couverture is). It does not work with badly-stored chocolate that has already bloomed.
 
@@ -90,11 +90,11 @@ Fast, no special equipment, easy to control. Good for small batches (100-300 g).
 4. **Stir continuously.** The residual heat in the melted chocolate finishes melting the remaining chunks while the chunks themselves act as seed crystals.
 5. **Reach 31-32 C.** Test for temper by dipping a knife.
 
-The trick: starting from cool chocolate, do not let the temperature exceed the working temperature (31-32 C for dark). The chocolate never goes above the Form V melting point, so the existing Form V crystals from the original chocolate are preserved - they seed the rest.
+The trick: starting from cool chocolate, do not let the temperature exceed the working temperature (31-32 C for dark). The chocolate never goes above the Form V melting point, so the existing Form V crystals from the original chocolate are preserved, they seed the rest.
 
 ### Why It Works
 
-This is "incremental tempering" - you never destroy the Form V crystals in the first place, so you do not need to recreate them. The bulk of the original chocolate is already tempered; partial melting keeps that crystal structure intact while liquefying the chocolate.
+This is "incremental tempering", you never destroy the Form V crystals in the first place, so you do not need to recreate them. The bulk of the original chocolate is already tempered; partial melting keeps that crystal structure intact while liquefying the chocolate.
 
 ### Failure modes
 
@@ -108,7 +108,7 @@ The easiest method. Buy a small bag of powdered cocoa butter (sold as Mycryo by 
 
 ### Steps
 
-1. **Melt the chocolate** to 40-42 C (not as hot as the other methods - we are not destroying existing crystals).
+1. **Melt the chocolate** to 40-42 C (not as hot as the other methods, we are not destroying existing crystals).
 2. **Add 1% Mycryo by weight.** For 500 g of chocolate, add 5 g.
 3. **Stir thoroughly.** The Mycryo melts in and donates Form V crystals.
 4. **Cool to working temperature.** Let it sit until it reaches 31-32 C. Tempered.
@@ -117,7 +117,7 @@ The easiest method. Buy a small bag of powdered cocoa butter (sold as Mycryo by 
 
 The Mycryo is essentially pure Form V seed in powder form. Adding 1% directly to molten chocolate provides millions of crystal nucleation sites; the chocolate sets in Form V naturally.
 
-This is the home cook's cheat code. It is the most reliable method available, requires no specialised equipment beyond a thermometer, and produces excellent results. The only downside: Mycryo is not cheap (around £25/kg) and not always available at supermarkets - order online.
+This is the home cook's cheat code. It is the most reliable method available, requires no specialised equipment beyond a thermometer, and produces excellent results. The only downside: Mycryo is not cheap (around £25/kg) and not always available at supermarkets, order online.
 
 ## Testing for Temper
 
@@ -148,7 +148,7 @@ Tempered chocolate stays in temper for 20-40 minutes at room temperature before 
 
 - Place the bowl on a folded towel over a low-warming pad (set to about 30 C).
 - Stir frequently to keep the crystal structure even throughout.
-- Test the temper occasionally - if the chocolate has been heated above 34 C at any point, the Form V is destroyed and you need to start again.
+- Test the temper occasionally, if the chocolate has been heated above 34 C at any point, the Form V is destroyed and you need to start again.
 
 For continuous work, a chocolate tempering machine (small countertop unit, 1-2 kg capacity) holds chocolate at the working temperature indefinitely. For home use this is overkill; for any volume work it is essential.
 

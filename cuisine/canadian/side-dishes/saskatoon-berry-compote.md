@@ -40,7 +40,7 @@ Saskatoon berries are the Canadian prairie's signature wild fruit, growing on Am
 
 ### Stage 1 - Prep the berries
 1. If using fresh: pick over and remove any stems, leaves, or unripe berries. Rinse and pat dry.
-2. If using frozen: no need to defrost - they go straight in.
+2. If using frozen: no need to defrost, they go straight in.
 
 ### Stage 2 - The cook
 1. Place the berries in a heavy small saucepan.
@@ -68,7 +68,7 @@ Saskatoon berries are the Canadian prairie's signature wild fruit, growing on Am
 4. Serve cold over hot pancakes, warm over cold yogurt, or any temperature combination you like.
 
 ## Notes
-- **Saskatoons taste different from blueberries:** the marzipan-almond note is real - try to source the real berry if you can. Frozen Canadian saskatoons are sold online by specialty Canadian preservers; supermarket frozen blueberries with a 1/4 teaspoon almond extract added gets you close.
+- **Saskatoons taste different from blueberries:** the marzipan-almond note is real, try to source the real berry if you can. Frozen Canadian saskatoons are sold online by specialty Canadian preservers; supermarket frozen blueberries with a 1/4 teaspoon almond extract added gets you close.
 - **Don't over-cook:** the compote should keep some whole berries for textural interest. Cooking it down to a uniform jammy mass loses the character.
 - **The pectin is in the skins:** saskatoons have plenty of natural pectin. No need to add pectin powder for this recipe.
 - **Adjust sugar to taste:** late-season berries are sweeter; early-season berries are tart. Taste a few before deciding on sugar quantity.
@@ -76,13 +76,13 @@ Saskatoon berries are the Canadian prairie's signature wild fruit, growing on Am
 
 ## Variations
 **Saskatoon-berry pie filling:** double the recipe; add 2 tablespoons cornflour mixed with 2 tablespoons cold water; cook 2 minutes more till thick. Use as a pie filling.
-**Saskatoon-berry sauce for pork:** add 1 tablespoon Dijon mustard, 1 tablespoon balsamic vinegar, and reduce slightly thinner - excellent over roast pork loin.
-**Saskatoon-rhubarb compote:** swap 200 g of the berries for 200 g chopped rhubarb - a prairie classic spring-into-summer pairing.
-**Saskatoon-blueberry compote:** 50/50 saskatoons and blueberries - the cross-prairie variant.
-**Saskatoon syrup (thinner):** reduce the sugar to 80 g; cook only 12 minutes; strain through a sieve - use as a cocktail mixer or drizzle for cheesecake.
+**Saskatoon-berry sauce for pork:** add 1 tablespoon Dijon mustard, 1 tablespoon balsamic vinegar, and reduce slightly thinner, excellent over roast pork loin.
+**Saskatoon-rhubarb compote:** swap 200 g of the berries for 200 g chopped rhubarb, a prairie classic spring-into-summer pairing.
+**Saskatoon-blueberry compote:** 50/50 saskatoons and blueberries, the cross-prairie variant.
+**Saskatoon syrup (thinner):** reduce the sugar to 80 g; cook only 12 minutes; strain through a sieve, use as a cocktail mixer or drizzle for cheesecake.
 **Saskatoon-berry-and-cardamom jam (deeper):** double the cardamom; cook longer with an extra 30 g sugar till the texture sets to a jam consistency.
 **Spiced saskatoon compote (winter):** add a cinnamon stick, 4 cloves, and a thin slice of ginger to the cook; remove before serving.
-**Boozy saskatoon compote:** add 30 ml maple whisky or Cognac at the end - the after-dinner sauce.
+**Boozy saskatoon compote:** add 30 ml maple whisky or Cognac at the end, the after-dinner sauce.
 
 ## Serving
 At a Manitoba Sunday-morning pancake breakfast (the traditional setting) · at a Saskatchewan farm kitchen at the end of saskatoon-picking season · at an Alberta cattle-ranch barbecue · alongside roast pork or duck breast at a Canadian Thanksgiving dinner · at a Calgary Stampede breakfast · at a Yukon cabin alongside bannock and butter · as the Canadian prairie answer to French confiture · paired with a glass of cold milk, hot tea, or a slice of buttered [Bannock](bannock.md).
@@ -93,4 +93,4 @@ At a Manitoba Sunday-morning pancake breakfast (the traditional setting) · at a
 - Freezes 6 months in airtight containers; defrost in the fridge overnight before using.
 - Once opened, refrigerate and use within 3 weeks.
 - The compote thickens slightly as it cools and again in the fridge; warm gently in a saucepan to loosen if needed.
-- Can be used as a glaze on the last 10 minutes of a roast pork or duck cook - heats and reduces to a sticky lacquer.
+- Can be used as a glaze on the last 10 minutes of a roast pork or duck cook, heats and reduces to a sticky lacquer.

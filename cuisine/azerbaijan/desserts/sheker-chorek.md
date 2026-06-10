@@ -38,7 +38,7 @@ Azerbaijan's everyday tea cookie, the soft melt-in-the-mouth shortbread that sit
 
 ### Stage 2 - Mix
 1. Sift the flour, salt and cardamom into the bowl.
-1. Fold gently with a spatula until just combined (don't beat - overworking develops gluten and the cookies go tough).
+1. Fold gently with a spatula until just combined (don't beat, overworking develops gluten and the cookies go tough).
 1. The dough should be soft and slightly sticky.
 
 ### Stage 3 - Rest
@@ -49,7 +49,7 @@ Azerbaijan's everyday tea cookie, the soft melt-in-the-mouth shortbread that sit
 1. Line two baking trays with parchment.
 1. Pinch off walnut-sized pieces of dough (about 25 g each); roll between your palms into balls.
 1. Place on the trays, spaced 4 cm apart.
-1. Press each ball gently with the pad of your thumb to flatten slightly (don't squash flat - they should still be domed).
+1. Press each ball gently with the pad of your thumb to flatten slightly (don't squash flat, they should still be domed).
 
 ### Stage 5 - Glaze and bake
 1. Whisk the egg yolk with milk for the glaze.

@@ -2,7 +2,7 @@
 
 ![Aji Chileno](resources/aji-chileno.jpg)
 
-*Chile's hot sauce: fresh ají (Chilean chillies) blitzed with garlic, cumin, oregano, lemon juice and olive oil into a thick fiery red-orange table condiment. The Chilean hot sauce that turns up at every asado, every empanada plate and every "completo" hot dog stand - distinct from but related to ají picante across South America.*
+*Chile's hot sauce: fresh ají (Chilean chillies) blitzed with garlic, cumin, oregano, lemon juice and olive oil into a thick fiery red-orange table condiment. The Chilean hot sauce that turns up at every asado, every empanada plate and every "completo" hot dog stand, distinct from but related to ají picante across South America.*
 
 **Serves:** Makes about 300 ml
 

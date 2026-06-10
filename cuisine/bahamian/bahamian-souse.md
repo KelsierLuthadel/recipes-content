@@ -50,7 +50,7 @@ The Bahamas' Saturday-morning hangover cure, the breakfast bowl that arrives ste
 1. Place the chicken in a large heavy pot. Cover with the cold water.
 2. Bring to the boil over high heat. As it heats, skim off any grey scum that rises.
 3. Reduce the heat to medium-low; add the onion, celery, garlic, spring onions, carrot, allspice, bay leaves, salt and pepper.
-4. Drop in the whole pierced scotch bonnet - whole means flavour without overwhelming heat. If anyone bites it, that's their problem.
+4. Drop in the whole pierced scotch bonnet, whole means flavour without overwhelming heat. If anyone bites it, that's their problem.
 
 ### Stage 3 - Simmer
 1. Cover the pot loosely and simmer gently for 50 minutes, until the chicken is tender and the broth is fragrant.
@@ -62,7 +62,7 @@ The Bahamas' Saturday-morning hangover cure, the breakfast bowl that arrives ste
 
 ### Stage 5 - Acidify
 1. Off the heat, fish out the whole scotch bonnet (leave it in if you like real fire) and the bay leaves.
-2. Pour in the lime juice (start with 4 limes' worth, taste, add more). The broth should taste assertively citric - that's the defining note.
+2. Pour in the lime juice (start with 4 limes' worth, taste, add more). The broth should taste assertively citric, that's the defining note.
 3. Taste and adjust salt. A souse should be clear, bright, clean and a bit fiery.
 4. Stir in the chopped parsley.
 

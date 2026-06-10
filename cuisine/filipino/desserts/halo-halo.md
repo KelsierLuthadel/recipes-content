@@ -27,7 +27,7 @@ Halo-halo is the Philippines' answer to a long hot summer afternoon, a tall glas
 - A small piece of [Leche Flan](leche-flan.md) (about 50 g)
 
 ### Top
-- 2 cups shaved ice (very finely shaved - a snow texture)
+- 2 cups shaved ice (very finely shaved, a snow texture)
 - 80 ml evaporated milk (or 50/50 evaporated + sweetened condensed)
 - 1 scoop ube (purple yam) ice cream
 - 1 tablespoon toasted pinipig (pounded young rice; sub: crushed cornflakes)
@@ -69,7 +69,7 @@ Halo-halo is the Philippines' answer to a long hot summer afternoon, a tall glas
 ### Stage 6 - Serve
 1. Provide a long spoon.
 1. Instruct each diner to "halo-halo" (mix-mix) thoroughly before eating.
-1. Serve immediately - once the ice melts, the texture is lost.
+1. Serve immediately, once the ice melts, the texture is lost.
 
 ## Notes
 - **No fixed recipe:** halo-halo varies by region, family, and season. 6-8 components is plenty; 12+ becomes a mess.
@@ -80,4 +80,4 @@ Halo-halo is the Philippines' answer to a long hot summer afternoon, a tall glas
 ## Storage
 - Assemble immediately before eating.
 - The components (cooked beans, jellies, sago, fruit) keep separately for 5 days refrigerated.
-- The ice and milk obviously don't keep - assemble at the table.
+- The ice and milk obviously don't keep, assemble at the table.

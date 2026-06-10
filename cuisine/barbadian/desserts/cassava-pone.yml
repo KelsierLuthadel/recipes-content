@@ -21,7 +21,7 @@ ingredients:
   - qty: 600
     unit: g
     name: cassava
-    raw: 600 g fresh cassava, peeled and finely grated - OR 500 g frozen grated cassava, defrosted, drained
+    raw: "600 g fresh cassava, peeled and finely grated : OR 500 g frozen grated cassava, defrosted, drained"
   - qty: 300
     unit: g
     name: sweet potato

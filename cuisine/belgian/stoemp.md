@@ -26,7 +26,7 @@ Stoemp is Brussels' traditional winter dinner and the textural opposite of a smo
 - Pinch of grated nutmeg
 
 ### The toppings (Brussels traditional)
-- 4 good smoked sausages (saucisse de campagne, Liège sausage, or Cumberland) - about 600 g total
+- 4 good smoked sausages (saucisse de campagne, Liège sausage, or Cumberland): about 600 g total
 - 200 g smoked bacon lardons (1 cm cubes)
 - 2 tablespoons sunflower oil
 
@@ -45,7 +45,7 @@ Stoemp is Brussels' traditional winter dinner and the textural opposite of a smo
 ### Stage 2 - Boil the potatoes
 1. Meanwhile, place the potato chunks in a large pot and cover with cold salted water.
 2. Bring to the boil, then reduce to a steady simmer.
-3. Cook 15-18 minutes till a knife slides in easily - fully tender.
+3. Cook 15-18 minutes till a knife slides in easily, fully tender.
 4. Drain in a colander; return the empty pot to the hob for 1 minute to evaporate any moisture.
 
 ### Stage 3 - Cook the sausages and bacon
@@ -57,7 +57,7 @@ Stoemp is Brussels' traditional winter dinner and the textural opposite of a smo
 1. Tip the drained potatoes into the leek-and-onion pan.
 2. Pour over the warm milk and the double cream.
 3. Add the remaining 30 g butter.
-4. With a potato masher (or a sturdy fork), crush coarsely - leave visible chunks of potato and visible strips of leek. Don't smooth into a purée.
+4. With a potato masher (or a sturdy fork), crush coarsely, leave visible chunks of potato and visible strips of leek. Don't smooth into a purée.
 5. Season generously with salt, white pepper and a pinch of grated nutmeg. Taste and adjust.
 
 ### Stage 5 - Plate
@@ -73,20 +73,20 @@ Stoemp is Brussels' traditional winter dinner and the textural opposite of a smo
 3. Cold Belgian lager to drink.
 
 ## Notes
-- **Bintje is the traditional potato:** the Belgian floury workhorse. Maris Piper, King Edward and Russet all work. Avoid Yukon Gold or any waxy variety - they won't crush properly.
+- **Bintje is the traditional potato:** the Belgian floury workhorse. Maris Piper, King Edward and Russet all work. Avoid Yukon Gold or any waxy variety, they won't crush properly.
 - **Sweat the leeks long and slow:** 15 minutes minimum. This is where the sweetness comes from. Rushing this step gives you flat-tasting stoemp.
 - **Coarse crush is the point:** if you smooth it out with a ricer, you've made mashed potatoes, not stoemp.
 - **Smoked sausage matters:** the Liège saucisson or a Cumberland with proper smoke is the traditional pairing. Don't use a plain bratwurst.
 - **Cream + butter is generous:** stoemp is a winter dish; the richness is the point.
 
 ## Variations
-**Stoemp aux carottes:** swap the leeks for 600 g of carrots (peeled, diced, sweated in butter till sweet) - the most common variant after leek; see [Stoemp aux carottes](side-dishes/stoemp-aux-carottes.md).
+**Stoemp aux carottes:** swap the leeks for 600 g of carrots (peeled, diced, sweated in butter till sweet): the most common variant after leek; see [Stoemp aux carottes](side-dishes/stoemp-aux-carottes.md).
 **Stoemp aux choux de Bruxelles:** swap the leeks for 600 g shredded Brussels sprouts, sweated long and slow till silky.
-**Stoemp aux épinards:** swap leeks for 400 g wilted spinach, finely chopped - the spring variant.
+**Stoemp aux épinards:** swap leeks for 400 g wilted spinach, finely chopped, the spring variant.
 **Stoemp aux poireaux et lard:** the traditional Brussels recipe (this one) but with extra bacon mixed into the crush itself.
-**Stoemp avec boudin noir:** swap the smoked sausage for grilled black pudding (boudin noir) - the Liège variant.
+**Stoemp avec boudin noir:** swap the smoked sausage for grilled black pudding (boudin noir): the Liège variant.
 **Vegetarian stoemp:** skip the meat; double the leeks, top with a fried egg.
-**Stoemp aux navets:** swap leeks for diced turnips - a more rural variant from rural Flanders.
+**Stoemp aux navets:** swap leeks for diced turnips, a more rural variant from rural Flanders.
 
 ## Serving
 At a Brussels brasserie on a cold winter evening (the traditional setting) · at a Belgian working-day lunch · at a Belgian family dinner from October to March · at a Belgian Christmas-market food stall · at a Flemish pub alongside a Trappist beer · at home as a Sunday-night comfort plate.

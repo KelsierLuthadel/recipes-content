@@ -17,7 +17,7 @@ This is the small-plate version of mantu, folded into a four-pointed flower with
 
 ### Filling
 - 400 g ground lamb (20% fat)
-- 1 onion (small, grated, squeezed dry - about 80 g after squeezing)
+- 1 onion (small, grated, squeezed dry, about 80 g after squeezing)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon ground cumin
@@ -30,7 +30,7 @@ This is the small-plate version of mantu, folded into a four-pointed flower with
 - 24 square wonton wrappers (10-12 cm; sold at Asian shops)
 
 ### Chana dal sauce
-- 100 g chana dal (split chickpeas - soaked 2 hours; or substitute split yellow peas)
+- 100 g chana dal (split chickpeas, soaked 2 hours; or substitute split yellow peas)
 - 2 tablespoons sunflower oil
 - 1 onion (small, finely diced)
 - 3 garlic cloves (crushed)
@@ -67,7 +67,7 @@ This is the small-plate version of mantu, folded into a four-pointed flower with
 ### Stage 3 - Shape
 1. Place 1 teaspoon of filling in centre of each wrapper.
 1. Pull all four corners up over the filling.
-1. Pinch opposite corners together at the top in 2 paired pinches, leaving a small visible gap of meat between each pinch - the result is a flower shape with 4 tiny meat windows.
+1. Pinch opposite corners together at the top in 2 paired pinches, leaving a small visible gap of meat between each pinch, the result is a flower shape with 4 tiny meat windows.
 
 ### Stage 4 - Steam
 1. Line a bamboo steamer with baking paper (cut to size, pierced).
@@ -86,8 +86,8 @@ This is the small-plate version of mantu, folded into a four-pointed flower with
 
 ## Notes
 - **Steam, never boil:** The thin wrappers tear in boiling water. Steaming over (not in) gives the right texture.
-- **Open-top flower shape:** The exposed meat is a signature visual. Don't pinch all four corners together at once - pinch in two pairs (opposite corners), leaving gaps in between.
-- **Two sauces matter:** Yogurt + chana dal + mint together is what makes mantu - the cool tangy yogurt + warm spiced lentil + bright mint. Skipping the chana dal turns it into plain dumplings.
+- **Open-top flower shape:** The exposed meat is a signature visual. Don't pinch all four corners together at once, pinch in two pairs (opposite corners), leaving gaps in between.
+- **Two sauces matter:** Yogurt + chana dal + mint together is what makes mantu, the cool tangy yogurt + warm spiced lentil + bright mint. Skipping the chana dal turns it into plain dumplings.
 
 ## Storage
 - Filled raw dumplings freeze 2 months on a tray.

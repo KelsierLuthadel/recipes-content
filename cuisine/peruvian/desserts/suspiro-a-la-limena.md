@@ -45,9 +45,9 @@ Suspiro a la Limeña is Lima's signature dessert: intensely sweet, generous, una
 1. In a heavy saucepan, whisk together the condensed milk, evaporated milk, egg yolks, vanilla and salt.
 2. (Add the cinnamon stick if using.)
 3. Place over the lowest possible heat.
-4. Stir CONSTANTLY with a wooden spoon for 25-30 minutes - the mixture thickens slowly and turns from pale ivory to deep gold caramel.
+4. Stir CONSTANTLY with a wooden spoon for 25-30 minutes, the mixture thickens slowly and turns from pale ivory to deep gold caramel.
 5. The manjar is done when it coats the back of the spoon thickly and a line drawn through it stays clear for 3-4 seconds.
-6. Don't rush this step - higher heat will scramble the eggs and burn the bottom.
+6. Don't rush this step, higher heat will scramble the eggs and burn the bottom.
 
 ### Stage 2 - Spoon into glasses
 1. Remove the cinnamon stick (if used).
@@ -73,13 +73,13 @@ Suspiro a la Limeña is Lima's signature dessert: intensely sweet, generous, una
 
 ### Stage 6 - Top the suspiros
 1. Take the glasses of cold manjar blanco from the fridge.
-2. Pipe (or spoon) a generous mound of port-wine meringue on top of each glass - it should rise above the rim like a fluffy cloud.
+2. Pipe (or spoon) a generous mound of port-wine meringue on top of each glass, it should rise above the rim like a fluffy cloud.
 3. Use a piping bag with a star tip for elegant peaks, or just spoon for a more rustic look.
 
 ### Stage 7 - Finish and serve
 1. Dust each suspiro with a small amount of ground cinnamon.
 2. Serve immediately, or chill 30 minutes before serving.
-3. Eat with a long spoon - the diner mixes the meringue and manjar with each bite.
+3. Eat with a long spoon, the diner mixes the meringue and manjar with each bite.
 
 ## Notes
 - **Constant stirring for the manjar:** the egg-yolk-cream mixture catches and burns within seconds of stopping. A wooden spoon, low heat, never look away.
@@ -90,21 +90,21 @@ Suspiro a la Limeña is Lima's signature dessert: intensely sweet, generous, una
 - **Cinnamon dust at the end:** the traditional Peruvian finish.
 
 ## Variations
-**Vanilla suspiro:** swap the port-wine meringue for plain Italian meringue + a vanilla bean - the milder variant.
-**Coffee suspiro:** add 1 tablespoon strong espresso powder to the manjar blanco - the adult variant.
-**Pisco suspiro:** swap the port for Peruvian pisco - the more local variant.
-**Chocolate suspiro:** add 50 g good dark chocolate to the manjar blanco; melt in - the chocolate-lover's variant.
-**Coconut suspiro:** swap half the evaporated milk for coconut milk in the manjar - the tropical variant.
-**Salted-caramel suspiro:** add a pinch of fleur de sel on top before the cinnamon - the modern sweet-salt variant.
-**Larger format (one large dish):** make in a single large bowl; serve scooped into small bowls - the family-style version.
+**Vanilla suspiro:** swap the port-wine meringue for plain Italian meringue + a vanilla bean, the milder variant.
+**Coffee suspiro:** add 1 tablespoon strong espresso powder to the manjar blanco, the adult variant.
+**Pisco suspiro:** swap the port for Peruvian pisco, the more local variant.
+**Chocolate suspiro:** add 50 g good dark chocolate to the manjar blanco; melt in, the chocolate-lover's variant.
+**Coconut suspiro:** swap half the evaporated milk for coconut milk in the manjar, the tropical variant.
+**Salted-caramel suspiro:** add a pinch of fleur de sel on top before the cinnamon, the modern sweet-salt variant.
+**Larger format (one large dish):** make in a single large bowl; serve scooped into small bowls, the family-style version.
 
 ## Serving
 At a Lima family Sunday lunch as the dessert course (the traditional setting) · at a Peruvian wedding · at a Peruvian Independence Day (28 July) dinner · at a Lima criolla restaurant · at a Peruvian fine-dining dessert menu · at home as a make-ahead dinner-party finisher · paired with a small glass of Peruvian pisco or a strong espresso.
 
 ## Storage
 - The manjar blanco refrigerates 1 week; freezes 3 months in airtight containers.
-- The meringue is best within 6 hours of making - it slowly weeps and loses fluffiness.
+- The meringue is best within 6 hours of making, it slowly weeps and loses fluffiness.
 - Assemble the suspiros within 4 hours of serving for the best texture.
 - The manjar blanco can be made up to a week ahead; the meringue is made fresh.
-- Leftover Italian meringue can be piped into kisses and dried in a low oven for 2 hours - dried meringues are excellent with coffee.
-- Don't freeze the assembled suspiro - the meringue collapses.
+- Leftover Italian meringue can be piped into kisses and dried in a low oven for 2 hours, dried meringues are excellent with coffee.
+- Don't freeze the assembled suspiro, the meringue collapses.

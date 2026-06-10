@@ -14,7 +14,7 @@ This page walks through each family with its shape and the traditional recipe. T
 
 **Shape:** spirit + sugar + bitters + ice.
 
-The oldest family - the original "cock-tail" was an Old Fashioned. The recipe predates the Manhattan by 50 years.
+The oldest family, the original "cock-tail" was an Old Fashioned. The recipe predates the Manhattan by 50 years.
 
 **Traditional:**
 - 60 ml rye whisky (or bourbon)
@@ -23,10 +23,10 @@ The oldest family - the original "cock-tail" was an Old Fashioned. The recipe pr
 - Stirred over a single large ice cube; orange-peel twist.
 
 **Family members:**
-- **Sazerac** - rye + sugar + Peychaud's bitters; absinthe-rinsed glass.
-- **Old Cuban** - Cuban rum + sugar + Angostura, no ice.
-- **Brandy Old Fashioned** - brandy + sugar + bitters (Wisconsin).
-- **Brown derby variant** - bourbon + maple syrup + Angostura.
+- **Sazerac**: rye + sugar + Peychaud's bitters; absinthe-rinsed glass.
+- **Old Cuban**: Cuban rum + sugar + Angostura, no ice.
+- **Brandy Old Fashioned**: brandy + sugar + bitters (Wisconsin).
+- **Brown derby variant**: bourbon + maple syrup + Angostura.
 
 If you can make one Old Fashioned well, you can make all of these.
 
@@ -43,11 +43,11 @@ The Manhattan is the Old Fashioned's wine-fortified cousin. Where the Old Fashio
 - Stirred; coupe or rocks glass; cherry or orange-peel twist.
 
 **Family members:**
-- **Boulevardier** - bourbon + sweet vermouth + Campari (the Manhattan's Negroni cousin).
-- **Rob Roy** - Scotch + sweet vermouth + bitters.
-- **Brooklyn** - rye + dry vermouth + maraschino + Amer Picon.
-- **Bensonhurst** - rye + dry vermouth + maraschino + Cynar.
-- **Brookwood** - bourbon + sweet vermouth + Aperol.
+- **Boulevardier**: bourbon + sweet vermouth + Campari (the Manhattan's Negroni cousin).
+- **Rob Roy**: Scotch + sweet vermouth + bitters.
+- **Brooklyn**: rye + dry vermouth + maraschino + Amer Picon.
+- **Bensonhurst**: rye + dry vermouth + maraschino + Cynar.
+- **Brookwood**: bourbon + sweet vermouth + Aperol.
 
 The Manhattan family is the easiest to expand: change the spirit, swap the modifier liqueur, the cocktail evolves.
 
@@ -64,11 +64,11 @@ The first of the sour-family cocktails. The Daiquiri is the cleanest, most balan
 - Shaken; coupe; no garnish (or a lime wheel).
 
 **Family members:**
-- **Margarita** - tequila + lime + Cointreau (Cointreau replaces simple syrup as the sweetener).
-- **Whisky Sour** - bourbon + lemon + simple syrup + egg white optional.
-- **Pisco Sour** - pisco + lime + simple syrup + egg white + Angostura on top.
-- **Cosmopolitan** - vodka + lime + Cointreau + cranberry.
-- **Sidecar** - cognac + lemon + Cointreau (the Daiquiri's brandy cousin).
+- **Margarita**: tequila + lime + Cointreau (Cointreau replaces simple syrup as the sweetener).
+- **Whisky Sour**: bourbon + lemon + simple syrup + egg white optional.
+- **Pisco Sour**: pisco + lime + simple syrup + egg white + Angostura on top.
+- **Cosmopolitan**: vodka + lime + Cointreau + cranberry.
+- **Sidecar**: cognac + lemon + Cointreau (the Daiquiri's brandy cousin).
 
 ## 4. The Martini
 
@@ -84,10 +84,10 @@ The most-quoted, most-debated cocktail. The shape is simple; the proportions are
 **The dry martini** uses 60 ml gin + 7-10 ml vermouth (or even just a vermouth rinse). The wet martini uses equal parts. The "in-and-out" martini uses just a vermouth mist over the glass. James Bond's "shaken not stirred" is wrong; the right answer is stirred at any ratio.
 
 **Family members:**
-- **Vesper** (Bond's actual drink) - gin + vodka + Lillet Blanc.
-- **Gibson** - martini garnished with cocktail onion.
-- **Dirty martini** - martini + a teaspoon of olive brine.
-- **Tuxedo** - gin + dry vermouth + maraschino + absinthe + orange bitters.
+- **Vesper** (Bond's actual drink): gin + vodka + Lillet Blanc.
+- **Gibson**: martini garnished with cocktail onion.
+- **Dirty martini**: martini + a teaspoon of olive brine.
+- **Tuxedo**: gin + dry vermouth + maraschino + absinthe + orange bitters.
 
 ## 5. The Sour
 
@@ -105,10 +105,10 @@ Technically a sub-family of the Daiquiri, the Sour gets its own line because of 
 - Strain into a chilled coupe; 3 dashes Angostura bitters on the foam for decoration.
 
 **Family members:**
-- **Pisco Sour** - pisco + lime + sugar + egg white.
-- **Amaretto Sour** - amaretto + lemon + simple + egg white.
-- **Boston Sour** - Whisky Sour but in a rocks glass over ice with a cherry and orange.
-- **Penicillin** - Scotch + lemon + ginger + honey + smoky Islay float on top.
+- **Pisco Sour**: pisco + lime + sugar + egg white.
+- **Amaretto Sour**: amaretto + lemon + simple + egg white.
+- **Boston Sour**: Whisky Sour but in a rocks glass over ice with a cherry and orange.
+- **Penicillin**: Scotch + lemon + ginger + honey + smoky Islay float on top.
 
 ## 6. The Highball
 
@@ -122,12 +122,12 @@ The long-drink family. Lower alcohol per volume; designed for slow sipping.
 - Generous ice; lemon or lime wheel.
 
 **Family members:**
-- **Mojito** - white rum + lime + sugar + mint + soda water (a citrus-and-mint Highball).
-- **Tom Collins** - gin + lemon + simple syrup + soda water (a citrus-Sour-as-Highball).
-- **Dark and Stormy** - dark rum + ginger beer + lime.
-- **Whisky Highball** - Scotch + soda + ice + lemon (the Japanese-style ratio is 1:4 spirit:soda).
-- **Aperol Spritz** - Aperol + prosecco + soda (a wine-based Highball).
-- **Paloma** - tequila + grapefruit soda + lime + salt rim.
+- **Mojito**: white rum + lime + sugar + mint + soda water (a citrus-and-mint Highball).
+- **Tom Collins**: gin + lemon + simple syrup + soda water (a citrus-Sour-as-Highball).
+- **Dark and Stormy**: dark rum + ginger beer + lime.
+- **Whisky Highball**: Scotch + soda + ice + lemon (the Japanese-style ratio is 1:4 spirit:soda).
+- **Aperol Spritz**: Aperol + prosecco + soda (a wine-based Highball).
+- **Paloma**: tequila + grapefruit soda + lime + salt rim.
 
 ## Memorising the families
 

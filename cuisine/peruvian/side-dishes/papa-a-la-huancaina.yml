@@ -70,8 +70,8 @@ ingredients:
     name: botija olives
     raw: 8-12 Botija olives
   - qty: 7
-    name: lettuce leaves - the bed
-    raw: 6-8 lettuce leaves - the bed for the potatoes
+    name: "lettuce leaves : the bed"
+    raw: "6-8 lettuce leaves : the bed for the potatoes"
   - name: flat-leaf parsley
     raw: A few sprigs fresh flat-leaf parsley
   - name: aji amarillo paste

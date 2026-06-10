@@ -55,7 +55,7 @@ Kashk o bademjan is the Persian appetiser that turns up on every mezze plate fro
 
 ### Stage 2 - Crispy onions (do early; need cooling time)
 1. Heat 3 tablespoons sunflower oil over medium heat.
-1. Fry the thinly sliced onion 10-12 minutes until DEEP brown and crisp (not just gold - push the colour).
+1. Fry the thinly sliced onion 10-12 minutes until DEEP brown and crisp (not just gold, push the colour).
 1. Lift onto kitchen paper. Reserve.
 
 ### Stage 3 - Aubergine base
@@ -64,7 +64,7 @@ Kashk o bademjan is the Persian appetiser that turns up on every mezze plate fro
 1. Add crushed garlic; cook 1 minute.
 1. Stir in turmeric, saffron-water, salt and pepper; cook 30 seconds.
 1. Add the chopped roasted aubergine; mash gently with a wooden spoon to a rough purée.
-1. Add water; simmer 10 minutes - the mixture thickens to a thick spoonable dip.
+1. Add water; simmer 10 minutes, the mixture thickens to a thick spoonable dip.
 1. Taste; adjust salt.
 
 ### Stage 4 - Mint and garlic oil

@@ -61,9 +61,9 @@ Pad pak ruam is the Thai mixed-vegetable stir-fry, a hot wok of garlic and soy w
 1. Serve immediately over hot jasmine rice.
 
 ## Notes
-- **Vegetarian oyster sauce:** Sold in Asian grocers as "mushroom oyster sauce" or "vegetarian oyster sauce" - uses shiitake instead of oysters. Skip the regular oyster sauce; it isn't vegetarian.
+- **Vegetarian oyster sauce:** Sold in Asian grocers as "mushroom oyster sauce" or "vegetarian oyster sauce", uses shiitake instead of oysters. Skip the regular oyster sauce; it isn't vegetarian.
 - **High heat:** Stir-fry is heat. A flat-bottomed pan over the highest gas flame; or a domestic wok preheated 3 minutes. Without it, you steam-fry; the dish goes flabby.
-- **Vegetable swap-ins:** Asparagus, mange-tout, water spinach, mustard greens, Chinese broccoli - anything that's crisp and fresh works. Keep firm-then-soft order.
+- **Vegetable swap-ins:** Asparagus, mange-tout, water spinach, mustard greens, Chinese broccoli, anything that's crisp and fresh works. Keep firm-then-soft order.
 
 ## Storage
 - Best fresh; reheats poorly because the textures soften. Don't refrigerate or freeze.

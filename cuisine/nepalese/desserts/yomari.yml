@@ -42,8 +42,8 @@ ingredients:
     raw: 30 g desiccated coconut
   - qty: 30
     unit: g
-    name: khowa - optional but classic
-    raw: 30 g khowa - optional but classic
+    name: "khowa : optional but classic"
+    raw: "30 g khowa : optional but classic"
   - qty: 1
     unit: tsp
     name: cardamom

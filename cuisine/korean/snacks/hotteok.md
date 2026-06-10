@@ -39,7 +39,7 @@ Korea's winter street pancake, the steam-rising thing you queue for at Seoul foo
 ### Stage 1 - Dough
 1. In a wide bowl, whisk both flours, yeast, sugar and salt.
 1. Pour in the warm milk and 1 tablespoon oil.
-1. Stir with a wooden spoon to a wet sticky dough (don't knead - the dough is too wet to knead conventionally).
+1. Stir with a wooden spoon to a wet sticky dough (don't knead, the dough is too wet to knead conventionally).
 1. Cover with cling film; rise in a warm spot 1 hour until doubled and bubbly on top.
 
 ### Stage 2 - Filling
@@ -62,19 +62,19 @@ Korea's winter street pancake, the steam-rising thing you queue for at Seoul foo
 1. Place 4 hotteok seam-down in the pan.
 1. Cook 1 minute.
 1. Press flat with a heavy spatula or a small saucepan lid pressed onto the top of each hotteok (Korean cooks use a special flat hotteok press). Press to about 1 cm thick.
-1. Cook 2 more minutes - the bottom should be deep gold.
+1. Cook 2 more minutes, the bottom should be deep gold.
 1. Flip; cook 2-3 minutes on the second side.
 1. Lift onto a wire rack; the sugar inside will still be molten.
 
 ### Stage 6 - Serve
-1. Eat immediately - but CAREFUL, the inside is volcano-hot.
+1. Eat immediately, but CAREFUL, the inside is volcano-hot.
 1. The crust should be crisp; the inside molten caramel-peanut.
 
 ## Notes
 - **Wet dough, oily hands:** the dough is too wet to knead conventionally. Oil is what makes it workable.
 - **Seal the ball tightly:** any gap and the sugar leaks into the pan and burns. Pinch firmly at the seam.
-- **Press to flatten - don't roll:** rolling tears the seam and the sugar leaks out. Press from above with a flat heavy object.
-- **Eat hot:** the molten centre is the entire point. Cooled hotteok have set caramel - still tasty but less dramatic.
+- **Press to flatten, don't roll:** rolling tears the seam and the sugar leaks out. Press from above with a flat heavy object.
+- **Eat hot:** the molten centre is the entire point. Cooled hotteok have set caramel, still tasty but less dramatic.
 
 ## Storage
 - Best within 30 minutes of cooking.

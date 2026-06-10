@@ -81,7 +81,7 @@ A dish that wears its multi-culture origin on its sleeve: chicken, potato and gr
 
 ## Notes on safety
 - Hot oil splatters when meat hits it; lower the chicken in gently.
-- Star anise will leave a strong flavour; one or two are plenty for some palates - taste at the halfway mark.
+- Star anise will leave a strong flavour; one or two are plenty for some palates, taste at the halfway mark.
 
 ## Storage
 - Keeps 3 days refrigerated. The braise deepens overnight; reheat with a splash of water.

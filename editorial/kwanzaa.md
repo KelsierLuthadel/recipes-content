@@ -1,16 +1,16 @@
 ---
 name: Kwanzaa
 image: resources/kwanzaa.jpg
-tagline: Seven nights of African-diaspora cooking. Jollof, jerk, callaloo, doro wat - and the cornbread that sits beside everything.
+tagline: Seven nights of African-diaspora cooking. Jollof, jerk, callaloo, doro wat, and the cornbread that sits beside everything.
 publishedAt: 2026-05-20
 seasonalrange: 12-22..12-31
 kind: festival
 origin: African diaspora
 ---
 
-Kwanzaa runs from 26 December to 1 January - seven nights of pan-African celebration in the African-American tradition, each evening lighting a candle for one of the seven principles. The food is pan-African by design: dishes from across the continent and the diaspora, the threads connecting West Africa to the Caribbean to the American South over centuries of forced and chosen migration.
+Kwanzaa runs from 26 December to 1 January, seven nights of pan-African celebration in the African-American tradition, each evening lighting a candle for one of the seven principles. The food is pan-African by design: dishes from across the continent and the diaspora, the threads connecting West Africa to the Caribbean to the American South over centuries of forced and chosen migration.
 
-The karamu - the Kwanzaa feast - is the high point, usually on the sixth night. Jollof rice from Nigeria, jerk chicken from Jamaica, doro wat from Ethiopia, gumbo and fried chicken from Louisiana, callaloo from the Caribbean, peanut stew from Senegal. Side it with cornbread, plantains and rice and peas. Close with bread pudding, pecan pralines or sweet potato pie.
+The karamu, the Kwanzaa feast, is the high point, usually on the sixth night. Jollof rice from Nigeria, jerk chicken from Jamaica, doro wat from Ethiopia, gumbo and fried chicken from Louisiana, callaloo from the Caribbean, peanut stew from Senegal. Side it with cornbread, plantains and rice and peas. Close with bread pudding, pecan pralines or sweet potato pie.
 
 Family-style serving, communal table, food in big platters. The collection here pulls from every African and African-diaspora kitchen the catalogue has. The Kwanzaa table is broad on purpose.
 

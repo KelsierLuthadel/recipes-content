@@ -72,13 +72,13 @@ The Lebanese smooth knafeh as it's sold at Beirut sweet shops and Ramadan iftars
 1. The dome should release as a single round.
 
 ### Stage 7 - Drench
-1. Slowly pour the cool syrup over the hot pastry - it should soak in.
+1. Slowly pour the cool syrup over the hot pastry, it should soak in.
 1. Use about three-quarters of the syrup; keep the rest for the table.
 
 ### Stage 8 - Garnish and serve
 1. Scatter chopped pistachios densely across the top.
 1. Add rose petals if using.
-1. Cut into wedges. Eat hot - the cheese should stretch.
+1. Cut into wedges. Eat hot, the cheese should stretch.
 
 ## Notes
 - **Naameh vs khishneh:** Naameh = smooth (semolina base); khishneh = rough (shredded kataifi base, as in Palestinian Nabulsiya). Both are knafeh; this is the Lebanese smooth version.

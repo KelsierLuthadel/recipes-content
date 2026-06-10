@@ -2,7 +2,7 @@
 
 ![Anjero](resources/anjero.jpg)
 
-*Somalia's spongy fermented pancake - close cousin to Ethiopian injera, but smaller and softer. Fermented batter of sorghum or wheat flour pours onto a hot pan; bubbles burst across the top as it cooks; one side only, so the surface stays porous and lacy. Eat with stews, tea and honey, or rolled around suqaar.*
+*Somalia's spongy fermented pancake, close cousin to Ethiopian injera, but smaller and softer. Fermented batter of sorghum or wheat flour pours onto a hot pan; bubbles burst across the top as it cooks; one side only, so the surface stays porous and lacy. Eat with stews, tea and honey, or rolled around suqaar.*
 
 **Makes:** 12 pancakes
 
@@ -27,14 +27,14 @@ Anjero is Somalia's spongy fermented pancake, a smaller and softer cousin to Eth
 
 ### Stage 1 - Ferment
 1. Whisk the flour, semolina, yeast, sugar and salt together.
-1. Whisk in the warm water gradually to a smooth, pourable batter - about the thickness of double cream.
+1. Whisk in the warm water gradually to a smooth, pourable batter, about the thickness of double cream.
 1. Cover with a clean cloth; rest 12-24 hours at room temperature. The batter will rise, fall back, and develop a faintly sour smell.
 1. Whisk briefly the next day; if too thick, add warm water to bring back to pancake-batter consistency.
 
 ### Stage 2 - First pancake
 1. Heat a non-stick frying pan (24-26 cm) over medium heat.
 1. Brush with a thin film of oil for the first pancake only.
-1. Pour about 100 ml of batter into the centre; tilt the pan to spread (or, traditionally, leave it alone to spread on its own - anjero is poured thicker than crepes).
+1. Pour about 100 ml of batter into the centre; tilt the pan to spread (or, traditionally, leave it alone to spread on its own, anjero is poured thicker than crepes).
 
 ### Stage 3 - Cook (one side only)
 1. Cook 90-120 seconds without flipping. Bubbles will rise across the top and burst, leaving a lattice of holes.

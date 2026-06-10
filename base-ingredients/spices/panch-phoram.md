@@ -18,7 +18,7 @@ Panch phoram is the building block of Bengali tempering, a five-seed (panch = fi
 - 1 teaspoon fennel seeds (saunf)
 - 1 teaspoon fenugreek seeds (methi)
 - 1 teaspoon black mustard seeds (rai)
-- 1 teaspoon wild onion seeds (nigella seeds or kalonji - as substitute if wild onion unavailable)
+- 1 teaspoon wild onion seeds (nigella seeds or kalonji, as substitute if wild onion unavailable)
 
 ## Method
 

@@ -49,5 +49,5 @@ With grilled lamb skewers, chicken kebabs, falafel, roast vegetables, charred eg
 
 ## Storage
 - In a sealed jar in the fridge for up to 3 days. The flavour improves on day 2; by day 3 the garlic starts to dominate.
-- Whisk briefly before serving - separation is normal.
-- Don't freeze - yogurt seizes on thawing.
+- Whisk briefly before serving, separation is normal.
+- Don't freeze, yogurt seizes on thawing.

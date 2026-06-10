@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one of Malta's oldest dishes - a fishermen's soup that uses smaller mixed-catch fish in a clear garlicky tomato broth thickened with a small amount of rice. The dish became the traditional Maltese Friday and Lenten meal (Catholic fasting days). The construction: a head of garlic is sweated in olive oil with onion and tomato; fish stock and water are added; small chunks of white fish (cod, hake, sea bream, scorpion fish, monkfish - whatever was caught) are poached briefly; rice is cooked into the broth for body; the soup is finished with a generous shower of fresh mint, marjoram, and parsley, plus a squeeze of lemon.
+Aljotta (the name derives from "all'aglio", Italian for "with garlic") is one of Malta's oldest dishes, a fishermen's soup that uses smaller mixed-catch fish in a clear garlicky tomato broth thickened with a small amount of rice. The dish became the traditional Maltese Friday and Lenten meal (Catholic fasting days). The construction: a head of garlic is sweated in olive oil with onion and tomato; fish stock and water are added; small chunks of white fish (cod, hake, sea bream, scorpion fish, monkfish, whatever was caught) are poached briefly; rice is cooked into the broth for body; the soup is finished with a generous shower of fresh mint, marjoram, and parsley, plus a squeeze of lemon.
 
 ## Ingredients
 
@@ -23,7 +23,7 @@ Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one o
 - 2 tablespoons tomato paste
 - 1.5 litres fish stock (or 1 litre fish stock + 500 ml water)
 - 100 g long-grain rice
-- 600 g mixed white fish fillets (cod, hake, sea bream, monkfish - cubed)
+- 600 g mixed white fish fillets (cod, hake, sea bream, monkfish, cubed)
 - 1 small bunch fresh mint (chopped)
 - 1 small bunch fresh marjoram (chopped) OR 1 teaspoon dried
 - 1 small bunch fresh parsley (chopped)
@@ -75,8 +75,8 @@ Aljotta (the name derives from "all'aglio" - Italian for "with garlic") is one o
 ## Variations
 **With prawns:** add 200 g raw prawns alongside the fish.
 **With clams or mussels:** the seafood-rich version.
-**Light vegetable aljotta:** for Lent - skip the fish; double the rice + add chickpeas.
-**With egg:** crack 4 eggs into the simmering broth in the last 3 minutes - poached-in-the-soup version.
+**Light vegetable aljotta:** for Lent, skip the fish; double the rice + add chickpeas.
+**With egg:** crack 4 eggs into the simmering broth in the last 3 minutes, poached-in-the-soup version.
 **Spicy aljotta:** add 2 chopped chillies + 1 teaspoon harissa.
 
 ## Serving

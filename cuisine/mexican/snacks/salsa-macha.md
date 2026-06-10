@@ -38,7 +38,7 @@ Salsa macha is one of Mexico's most distinctive condiments and a Veracruz-coast 
 ### Stage 1 - Toast the chillies (carefully)
 1. Heat a wide heavy frying pan over medium heat (no oil yet).
 2. Add the dried chillies (all four types); toast 30-60 seconds per side, pressing with a spatula, till slightly puffed and fragrant.
-3. Don't let them burn - burnt chillies make bitter salsa.
+3. Don't let them burn, burnt chillies make bitter salsa.
 4. Transfer to a plate.
 
 ### Stage 2 - Heat the oil and infuse

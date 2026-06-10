@@ -2,7 +2,7 @@
 
 ![Neeps](resources/neeps-mashed-swede.jpg)
 
-*Scotland's "neeps" - orange-fleshed swede (rutabaga) boiled till tender, drained, and mashed with butter, nutmeg, salt and pepper. The "neeps" of "haggis, neeps and tatties"; the most distinctively Scottish vegetable preparation; the dish that confuses every visitor (who calls them turnips - a different vegetable entirely).*
+*Scotland's "neeps", orange-fleshed swede (rutabaga) boiled till tender, drained, and mashed with butter, nutmeg, salt and pepper. The "neeps" of "haggis, neeps and tatties"; the most distinctively Scottish vegetable preparation; the dish that confuses every visitor (who calls them turnips, a different vegetable entirely).*
 
 **Serves:** 6
 
@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed SWEDE (the orange-fleshed root vegetable known as rutabaga in North America), but in England and most of the rest of the English-speaking world, "neeps" or "turnips" refers to the smaller, white-fleshed, purple-topped Brassica rapa. Scottish neeps are the larger orange-fleshed Brassica napus, and the dish is one of the country's most iconic vegetable preparations. The construction is simple: swede is peeled, cut into chunks, boiled till very tender, drained extremely thoroughly (excess water ruins neeps), and mashed with butter, a pinch of nutmeg, a generous amount of black pepper and salt. The finished neeps should be soft, slightly textured (not whipped to baby food - keep some character), and a deep golden-orange colour with flecks of pepper. They're served alongside haggis on Burns Night (the traditional haggis-neeps-tatties trio), alongside roast lamb on Sunday lunch, and alongside Scotch broth as the absorbent vegetable.
+The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed SWEDE (the orange-fleshed root vegetable known as rutabaga in North America), but in England and most of the rest of the English-speaking world, "neeps" or "turnips" refers to the smaller, white-fleshed, purple-topped Brassica rapa. Scottish neeps are the larger orange-fleshed Brassica napus, and the dish is one of the country's most iconic vegetable preparations. The construction is simple: swede is peeled, cut into chunks, boiled till very tender, drained extremely thoroughly (excess water ruins neeps), and mashed with butter, a pinch of nutmeg, a generous amount of black pepper and salt. The finished neeps should be soft, slightly textured (not whipped to baby food, keep some character), and a deep golden-orange colour with flecks of pepper. They're served alongside haggis on Burns Night (the traditional haggis-neeps-tatties trio), alongside roast lamb on Sunday lunch, and alongside Scotch broth as the absorbent vegetable.
 
 ## Ingredients
 
@@ -21,17 +21,17 @@ The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed S
 - ½ teaspoon ground nutmeg
 - 1 teaspoon fine sea salt (or to taste)
 - 1 teaspoon freshly ground black pepper (generous)
-- A pinch of caster sugar (optional; brings out the sweetness - some Scots swear by it)
+- A pinch of caster sugar (optional; brings out the sweetness, some Scots swear by it)
 
 ### Optional add-ins (Scottish variants)
-- 2 tablespoons single-malt Scotch whisky (the "Highland neeps" - stirred in at the end)
+- 2 tablespoons single-malt Scotch whisky (the "Highland neeps", stirred in at the end)
 - 50 ml double cream (for an extra-rich version)
 - 30 g butter melted with a pinch of mustard powder (drizzled over for serving)
 
 ## Method
 
 ### Stage 1 - Peel and chop
-1. With a sharp knife (not a peeler - swede skin is too thick), peel the swede deeply - remove the brown outer skin AND the fibrous layer just beneath it. You'll lose 15-20% of the volume; that's normal.
+1. With a sharp knife (not a peeler, swede skin is too thick), peel the swede deeply, remove the brown outer skin AND the fibrous layer just beneath it. You'll lose 15-20% of the volume; that's normal.
 2. Cut into 3 cm chunks (roughly uniform).
 3. Rinse in a colander.
 
@@ -39,18 +39,18 @@ The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed S
 1. Place the swede chunks in a large pot.
 2. Cover with cold water; add a tablespoon of salt.
 3. Bring to a boil; reduce heat to a steady simmer.
-4. Cook 25-30 minutes till COMPLETELY tender (test with a knife - should slide in with absolutely no resistance).
+4. Cook 25-30 minutes till COMPLETELY tender (test with a knife, should slide in with absolutely no resistance).
 5. Don't undercook; underdone swede is hard to mash and tastes earthy.
 
 ### Stage 3 - Drain
 1. Drain the swede in a colander.
-2. Return to the (empty) pot over LOW heat for 1-2 minutes to steam off any remaining moisture (very important - excess water makes the mash sloppy).
-3. The pot bottom may scorch slightly; that's fine - adds flavour.
+2. Return to the (empty) pot over LOW heat for 1-2 minutes to steam off any remaining moisture (very important, excess water makes the mash sloppy).
+3. The pot bottom may scorch slightly; that's fine, adds flavour.
 
 ### Stage 4 - Mash
 1. Remove the pot from heat.
 2. Add the butter; let it melt into the swede.
-3. Mash thoroughly with a potato masher till you have a soft, slightly textured purée (not totally smooth - neeps benefit from a little character).
+3. Mash thoroughly with a potato masher till you have a soft, slightly textured purée (not totally smooth, neeps benefit from a little character).
 4. Don't use a food processor (turns into puréed baby food).
 
 ### Stage 5 - Season
@@ -77,11 +77,11 @@ The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed S
 
 ## Variations
 **Highland neeps:** stir in 2 tablespoons of single-malt Scotch at the end. Adds depth and edge.
-**Honey-roasted neeps:** swap boiling for roasting - cube the swede, toss with honey, butter, salt, pepper; roast at 200°C for 40 minutes till golden and caramelised.
+**Honey-roasted neeps:** swap boiling for roasting, cube the swede, toss with honey, butter, salt, pepper; roast at 200°C for 40 minutes till golden and caramelised.
 **Clapshot (Orkney variant):** mix equal parts mashed swede + mashed potato + butter + a tablespoon of chopped chives. The Orkney version is hugely popular at Burns Night.
-**With carrot:** boil 200 g carrot with the swede; mash together - sweeter, more colourful.
-**With ginger:** add a teaspoon of grated fresh ginger to the mash - modern variant.
-**With orange zest:** add the zest of half an orange to the mash - bright, modern.
+**With carrot:** boil 200 g carrot with the swede; mash together, sweeter, more colourful.
+**With ginger:** add a teaspoon of grated fresh ginger to the mash, modern variant.
+**With orange zest:** add the zest of half an orange to the mash, bright, modern.
 
 ## Serving
 Alongside haggis at Burns Night (the traditional setting) · alongside roast lamb on a Sunday · alongside Scotch broth as the absorbent veg · alongside roast venison or pheasant on a Highland hunting lunch · alongside roast goose at Christmas · with smoked sausage and onion gravy as a weeknight supper.

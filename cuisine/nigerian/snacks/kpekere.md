@@ -23,7 +23,7 @@ Nigeria's plantain crisps, sold in cellophane bags at every bus station and moto
 ## Method
 
 ### Stage 1 - Peel
-1. Plantain skin is thick and tough. With a sharp knife, score 3-4 lengthways cuts down the ridges of the plantain (don't cut into the flesh - just the skin).
+1. Plantain skin is thick and tough. With a sharp knife, score 3-4 lengthways cuts down the ridges of the plantain (don't cut into the flesh, just the skin).
 1. Pry up a strip of skin at one end; pull off in strips.
 1. Repeat for all 4 plantains.
 
@@ -33,7 +33,7 @@ Nigeria's plantain crisps, sold in cellophane bags at every bus station and moto
 
 ### Stage 3 - Fry
 1. Heat the oil to 180°C in a wide pan.
-1. Lower a handful of slices in (don't crowd - fry in 4-5 batches).
+1. Lower a handful of slices in (don't crowd, fry in 4-5 batches).
 1. The oil will bubble vigorously.
 1. Fry 2-3 minutes per batch, stirring once or twice with a slotted spoon, until the chips turn deep golden and stop bubbling vigorously.
 1. Lift onto a wire rack lined with kitchen paper.
@@ -43,7 +43,7 @@ Nigeria's plantain crisps, sold in cellophane bags at every bus station and moto
 1. For spiced version, also dust with chilli powder and onion powder; toss gently.
 
 ### Stage 5 - Cool and serve
-1. Cool completely before storing - hot chips trap steam.
+1. Cool completely before storing, hot chips trap steam.
 1. Serve in bowls as a snack with cold drinks.
 
 ## Notes
@@ -55,4 +55,4 @@ Nigeria's plantain crisps, sold in cellophane bags at every bus station and moto
 ## Storage
 - Keeps 3 days in an airtight container at room temperature.
 - The chips re-crisp briefly in a 200°C oven 2 minutes if they soften.
-- Don't refrigerate - humidity kills the crisp.
+- Don't refrigerate, humidity kills the crisp.

@@ -82,8 +82,8 @@ ingredients:
     raw: 2 tablespoons chopped fresh parsley
   - qty: 200
     unit: g
-    name: kashkaval cheese - optional topping
-    raw: 200 g grated Kashkaval cheese - optional topping
+    name: "kashkaval cheese : optional topping"
+    raw: "200 g grated Kashkaval cheese : optional topping"
   - name: crusty bread
     raw: Crusty bread
   - name: pickled vegetables

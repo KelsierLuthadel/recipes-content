@@ -72,7 +72,7 @@ Gheymeh is the Persian split-pea-and-dried-lime stew, a sour-savoury Persian cla
 
 ## Notes
 - **Soak the peas:** Without soaking they take double the time and stay tough. 1 hour minimum.
-- **Matchstick potatoes on top:** The Persian signature - the crisp contrast against the soft stew. Don't skip; eat with the stew.
+- **Matchstick potatoes on top:** The Persian signature, the crisp contrast against the soft stew. Don't skip; eat with the stew.
 - **Loomi at the start:** Pierce them once; they perfume the entire pot. Squeeze at the end.
 
 ## Storage

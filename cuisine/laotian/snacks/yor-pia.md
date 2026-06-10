@@ -105,10 +105,10 @@ Yor pia (also spelled yawr pia) is Laos's summer fresh-roll tradition, eaten at 
 - **Eat within 30 minutes:** the rice paper dries out fast.
 
 ## Variations
-**Yor pia with laap:** swap the cold meat for cooked laap as the protein - the more substantial Lao variant.
+**Yor pia with laap:** swap the cold meat for cooked laap as the protein, the more substantial Lao variant.
 **Vegetarian yor pia:** swap meat for pan-fried tofu or marinated portobello strips.
 **Spicier yor pia:** add more chilli strips inside each roll.
-**With mango:** add julienned green mango for tartness - the modern variant.
+**With mango:** add julienned green mango for tartness, the modern variant.
 **Larger format (whole-meal):** wrap with a single large lettuce leaf on the bottom for a bigger, more substantial wrap.
 
 ## Serving
@@ -119,4 +119,4 @@ At a Lao home summer lunch (the traditional setting) · at a Lao café · at a L
 - Cover with a damp tea towel if not serving immediately; lasts up to 2 hours covered at room temperature.
 - The fillings (vermicelli, cooked pork, herbs) keep refrigerated 24 hours separately.
 - The sauces keep refrigerated 1 week.
-- Don't refrigerate rolled yor pia - the rice paper hardens and goes leathery.
+- Don't refrigerate rolled yor pia, the rice paper hardens and goes leathery.

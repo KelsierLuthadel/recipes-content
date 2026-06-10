@@ -42,7 +42,7 @@ Loukoumades are the Greek honey-doughnuts, fluffy yeasted balls fried golden and
 ### Stage 1 - Batter
 1. In a wide bowl, whisk the flour, yeast, salt and sugar.
 1. Pour in the warm water all at once.
-1. Whisk vigorously for 1 minute - the batter should be smooth and sticky (it's much wetter than a bread dough; pourable from a spoon).
+1. Whisk vigorously for 1 minute, the batter should be smooth and sticky (it's much wetter than a bread dough; pourable from a spoon).
 1. Cover with cling film; rest in a warm spot 1 hour. The surface should be bubbly and the volume doubled.
 
 ### Stage 2 - Syrup
@@ -57,7 +57,7 @@ Loukoumades are the Greek honey-doughnuts, fluffy yeasted balls fried golden and
 
 ### Stage 4 - Fry
 1. Dip your hand in a bowl of cold water (this is the key to working with sticky batter).
-1. Grab a small handful of batter; squeeze your fist gently - the batter pops out the top of your fist like toothpaste.
+1. Grab a small handful of batter; squeeze your fist gently, the batter pops out the top of your fist like toothpaste.
 1. With a wet teaspoon (or just your wet hand), scoop a walnut-sized piece off the top of your fist and drop into the hot oil.
 1. Continue until you have 6-8 loukoumades frying.
 1. Fry 2-3 minutes total, turning with a slotted spoon, until deep gold and puffed.
@@ -72,15 +72,15 @@ Loukoumades are the Greek honey-doughnuts, fluffy yeasted balls fried golden and
 1. Pile the syrup-soaked loukoumades on a warm platter.
 1. Sprinkle with chopped walnuts, cinnamon and sesame seeds.
 1. Drizzle a little extra syrup over the top.
-1. Serve IMMEDIATELY - loukoumades cool fast and the crisp shell goes soft.
+1. Serve IMMEDIATELY, loukoumades cool fast and the crisp shell goes soft.
 
 ## Notes
 - **Wet hand, wet spoon:** working with sticky yeasted batter is impossible dry. Keep a bowl of cold water next to you and re-wet constantly.
 - **Squeeze-from-fist technique:** Greek cooks shape loukoumades by squeezing batter through a fist and scraping the protrusion with a teaspoon. Practise the motion before frying; it's the difference between round puffs and irregular blobs.
 - **Hot syrup, hot loukoumades:** the temperature drives absorption. Cold syrup on hot loukoumades sits on the surface; warm syrup soaks in.
-- **Eat immediately:** the crisp-soaked contrast lasts about 10 minutes. After that you have a soggy honey ball - still good but the magic is gone.
+- **Eat immediately:** the crisp-soaked contrast lasts about 10 minutes. After that you have a soggy honey ball, still good but the magic is gone.
 
 ## Storage
 - Best within 30 minutes of frying.
 - Day-2 loukoumades soften and lose their crisp; warm gently in a 160°C oven 5 minutes (won't fully revive but acceptable).
-- Don't refrigerate - the syrup crystallises and the texture suffers.
+- Don't refrigerate, the syrup crystallises and the texture suffers.

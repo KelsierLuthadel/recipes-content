@@ -30,7 +30,7 @@ Lebanon's vivid yellow turmeric semolina cake, the kind of thing that lives on t
 ### Topping
 - 3 tablespoons pine nuts
 - 1 tablespoon sesame seeds (optional)
-- 1 tablespoon tahini (for greasing the tin - traditional, gives a nutty edge to the bottom; or use butter)
+- 1 tablespoon tahini (for greasing the tin, traditional, gives a nutty edge to the bottom; or use butter)
 
 ## Method
 
@@ -45,7 +45,7 @@ Lebanon's vivid yellow turmeric semolina cake, the kind of thing that lives on t
 1. In a measuring jug, whisk melted butter (or olive oil), milk and vanilla.
 
 ### Stage 4 - Combine
-1. Pour the wet into the dry; fold to a thick batter - like a stiff pancake batter.
+1. Pour the wet into the dry; fold to a thick batter, like a stiff pancake batter.
 1. Don't overmix.
 
 ### Stage 5 - Tin
@@ -58,7 +58,7 @@ Lebanon's vivid yellow turmeric semolina cake, the kind of thing that lives on t
 ### Stage 7 - Cool and slice
 1. Cool 15 minutes in the tin.
 1. Run a knife around the edge; invert onto a wire rack; peel off the paper.
-1. Cut into squares (cut while still slightly warm - easier).
+1. Cut into squares (cut while still slightly warm, easier).
 
 ### Stage 8 - Serve
 1. Eat with strong Arabic coffee or sweet black tea.

@@ -16,8 +16,8 @@ Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic 
 ## Ingredients
 
 - 500 g beef mince (or lamb mince, or 50/50)
-- 1 potato (medium, peeled - about 250 g)
-- 1 onion (medium, peeled - about 150 g)
+- 1 potato (medium, peeled, about 250 g)
+- 1 onion (medium, peeled, about 150 g)
 - 2 garlic cloves (crushed)
 - 2 eggs (large)
 - 1 ½ teaspoons ground turmeric
@@ -37,13 +37,13 @@ Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic 
 ## Method
 
 ### Stage 1 - Grate
-1. Grate the potato on the fine side of a box grater (NOT shredded - finer than that, into a paste-like texture).
+1. Grate the potato on the fine side of a box grater (NOT shredded, finer than that, into a paste-like texture).
 1. Do the same for the onion.
 1. Combine both in a clean tea towel; twist hard over the sink to squeeze out as much liquid as you can. (Discard the liquid.)
 
 ### Stage 2 - Mix
 1. In a wide bowl, combine the mince, the squeezed potato-and-onion, crushed garlic, eggs, turmeric, cinnamon, salt and pepper.
-1. Mix thoroughly with your hand for 3-4 minutes - the mixture should be uniform, slightly tacky, and hold together when pressed.
+1. Mix thoroughly with your hand for 3-4 minutes, the mixture should be uniform, slightly tacky, and hold together when pressed.
 
 ### Stage 3 - Rest
 1. Cover; refrigerate 30 minutes (firms the mixture; lets the seasoning permeate).
@@ -63,7 +63,7 @@ Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic 
 ### Stage 6 - Serve
 1. Eat warm with sangak or flatbread.
 1. On the side: sliced tomatoes, radishes, fresh herbs, pickles.
-1. Wrap a kotlet inside a piece of bread with some tomato and a sprig of herb - that's the Persian way.
+1. Wrap a kotlet inside a piece of bread with some tomato and a sprig of herb, that's the Persian way.
 
 ## Notes
 - **Grate fine, not shredded:** The texture of a properly grated potato and onion is a paste, not strands. Shredded gives a stringy kotlet. Use the fine side of the grater, not the coarse.
@@ -73,4 +73,4 @@ Kotlet is the everyday Persian cutlet, the dish that anchors lunchboxes, picnic 
 ## Storage
 - Refrigerate 3 days; eat cold or reheat in a dry pan 1 minute per side.
 - Freeze cooked 2 months; reheat from frozen in a pan 4 minutes per side.
-- Sandwiches the next day - a Persian classic.
+- Sandwiches the next day, a Persian classic.

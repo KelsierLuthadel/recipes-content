@@ -48,7 +48,7 @@ Florida's state pie and the traditional dessert of the Florida Keys, where Key l
 1. Add the condensed milk; whisk 3 more minutes (the mixture should ribbon-trail when the whisk is lifted).
 1. Whisk in the lime zest.
 1. Pour in the lime juice; whisk gently 30 seconds.
-1. The mixture should thicken slightly even before baking - this is the lime acid setting the milk proteins.
+1. The mixture should thicken slightly even before baking, this is the lime acid setting the milk proteins.
 
 ### Stage 3 - Bake
 1. Pour the filling into the pre-baked crust.
@@ -70,7 +70,7 @@ Florida's state pie and the traditional dessert of the Florida Keys, where Key l
 
 ## Notes
 - **Real lime juice, not bottled:** bottled lime juice has off-flavours from preservatives. Fresh juice is the entire dish.
-- **Persian or Key limes - both work:** the original is Key lime (smaller, more aromatic, more tart) but Persian (supermarket) limes are perfectly fine. Don't substitute lemons - wrong flavour.
+- **Persian or Key limes, both work:** the original is Key lime (smaller, more aromatic, more tart) but Persian (supermarket) limes are perfectly fine. Don't substitute lemons, wrong flavour.
 - **Pale yellow, NOT green:** authentic key lime pie has zero food colouring. The natural colour is from egg yolks. Green pies are bakery shortcuts.
 - **Wobble at 15 minutes:** over-baked filling cracks and weeps. Pull when the centre still moves slightly.
 

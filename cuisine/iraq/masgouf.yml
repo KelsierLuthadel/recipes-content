@@ -17,8 +17,8 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: freshwater fish - butterflied
-    raw: 1 whole large freshwater fish - butterflied
+    name: "freshwater fish : butterflied"
+    raw: "1 whole large freshwater fish : butterflied"
   - qty: 4
     unit: tbsp
     name: olive oil

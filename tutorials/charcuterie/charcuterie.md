@@ -5,7 +5,7 @@
 *A course on curing meat at home: the salt-and-nitrite science that makes it safe, the dry cures that produce bacon and bresaola, the wet cures behind brined pork, the slow-fat preservation of confit and rillettes, and the cold-smoke and hot-smoke techniques that complete the tradition.*
 
 ## Overview
-Charcuterie is the oldest cooking discipline that still works. Long before refrigeration, salt drew water out of meat, lowered the water activity to a point where pathogens could not grow, and bought a kitchen weeks or months of stored protein from a single autumn slaughter. The modern equivalents - your home bacon, your bowl of rillettes, your dry-cured coppa - are doing the same chemistry. Salt does the work, time does the rest, and a small set of accessory ingredients (nitrites, pepper, herbs, smoke) shape the final flavour.
+Charcuterie is the oldest cooking discipline that still works. Long before refrigeration, salt drew water out of meat, lowered the water activity to a point where pathogens could not grow, and bought a kitchen weeks or months of stored protein from a single autumn slaughter. The modern equivalents, your home bacon, your bowl of rillettes, your dry-cured coppa, are doing the same chemistry. Salt does the work, time does the rest, and a small set of accessory ingredients (nitrites, pepper, herbs, smoke) shape the final flavour.
 
 This course covers what is achievable at home with a kitchen, a fridge, a thermometer and a small amount of patience. The two endpoints are bacon (a weekend cure) and proper dry-cured salumi (six to twelve weeks at temperature-and-humidity-controlled aging). Most home charcuterie sits in between.
 
@@ -25,8 +25,8 @@ A note on safety: this is the one cooking discipline where bad practice causes r
 - [Confit and Rillettes](confit-and-rillettes.md): the French technique of slow-cooking in fat, either eaten whole (confit duck leg) or shredded into a fat-set preserve (pork or duck rillettes). Not a cure in the strict sense but in the same tradition.
 
 ### 4. Long Dry Cures (Weeks)
-- [Salumi](salumi.md): whole-muscle dry-cured pork - bresaola (beef), lonza (pork loin), coppa (pork collar), pancetta arrotolata (rolled belly). The home-achievable end of dry curing; needs a fridge or wine cooler at controlled humidity for 4-12 weeks.
-- [Sausages](sausages.md): fresh sausages (no cure, cook fresh, freeze for keeping); semi-dry; dry-cured salami (the harder version - same equipment as salumi but with ground meat, fat, and a fermentation step).
+- [Salumi](salumi.md): whole-muscle dry-cured pork, bresaola (beef), lonza (pork loin), coppa (pork collar), pancetta arrotolata (rolled belly). The home-achievable end of dry curing; needs a fridge or wine cooler at controlled humidity for 4-12 weeks.
+- [Sausages](sausages.md): fresh sausages (no cure, cook fresh, freeze for keeping); semi-dry; dry-cured salami (the harder version, same equipment as salumi but with ground meat, fat, and a fermentation step).
 
 ### 5. Smoke
 - [Smoking](smoking.md): cold smoke (under 30 C, adds flavour, does not cook) versus hot smoke (60-120 C, cooks the meat). The kit options: home-made cold smoker, kettle-grill hot smoker, an actual smoker. What woods to use, how long, what to smoke.
@@ -39,7 +39,7 @@ Most of the course collapses into three principles.
 
 2. **Time at temperature.** Cured meat needs to sit. Bacon needs a week to fully equilibrate; bresaola needs eight weeks; a salami needs three months. The time is not optional; the salt has to penetrate, the moisture has to leave, the flavour has to develop. Refrigerator cures (4 C) take longer than meat-cellar cures (12-14 C) but are safer for the home cook with no dedicated aging space.
 
-3. **Water activity is the goal.** Pathogens need water to grow. Curing dries the meat - sometimes a little (bacon: minimal water loss; cooked off in the pan), sometimes a lot (bresaola: 30-40% weight loss; the meat firms into a shelf-stable piece you can slice thin). The water activity (Aw) target for shelf-stable dry-cured meat is 0.85 or below; above 0.91 and bacteria multiply. You do not need to measure this directly; the weight-loss percentage is a proxy.
+3. **Water activity is the goal.** Pathogens need water to grow. Curing dries the meat, sometimes a little (bacon: minimal water loss; cooked off in the pan), sometimes a lot (bresaola: 30-40% weight loss; the meat firms into a shelf-stable piece you can slice thin). The water activity (Aw) target for shelf-stable dry-cured meat is 0.85 or below; above 0.91 and bacteria multiply. You do not need to measure this directly; the weight-loss percentage is a proxy.
 
 ## Where to Start
 

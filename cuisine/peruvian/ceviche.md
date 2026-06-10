@@ -2,7 +2,7 @@
 
 ![Ceviche](resources/ceviche.jpg)
 
-*Peru's national dish, the country's most identity-defining plate: fresh white-fleshed sea fish (corvina, sea bass, sole, halibut) cut into 1.5 cm cubes, tossed with lime juice (the traditional Peruvian "leche de tigre" - tiger's milk), thinly sliced red onion, finely chopped aji limo or aji amarillo chilli, salt and a generous bunch of fresh cilantro. The lime "cooks" the fish in 5-12 minutes by denaturing the proteins; the result is opaque, firm, vivid, bracingly sour-spicy. Served with cancha (Andean toasted-corn snacks), boiled sweet potato (camote) and a sliver of toasted corn-on-the-cob (choclo) - the traditional Peruvian plate.*
+*Peru's national dish, the country's most identity-defining plate: fresh white-fleshed sea fish (corvina, sea bass, sole, halibut) cut into 1.5 cm cubes, tossed with lime juice (the traditional Peruvian "leche de tigre", tiger's milk), thinly sliced red onion, finely chopped aji limo or aji amarillo chilli, salt and a generous bunch of fresh cilantro. The lime "cooks" the fish in 5-12 minutes by denaturing the proteins; the result is opaque, firm, vivid, bracingly sour-spicy. Served with cancha (Andean toasted-corn snacks), boiled sweet potato (camote) and a sliver of toasted corn-on-the-cob (choclo): the traditional Peruvian plate.*
 
 **Serves:** 4
 
@@ -16,7 +16,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 ## Ingredients
 
 ### The fish
-- 600 g very fresh firm white-fleshed sea fish - sashimi-grade. Best options: corvina, sea bass, halibut, sole, red snapper, sea bream. Cut against the grain into 1.5 cm cubes.
+- 600 g very fresh firm white-fleshed sea fish, sashimi-grade. Best options: corvina, sea bass, halibut, sole, red snapper, sea bream. Cut against the grain into 1.5 cm cubes.
 
 ### The leche de tigre (Peruvian marinade)
 - 200 ml fresh lime juice (about 12-15 limes)
@@ -52,7 +52,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 ### Stage 2 - Make the leche de tigre
 1. Squeeze the limes fresh - 200 ml of juice is the target.
 2. In a wide bowl, combine the lime juice with the sliced red onion, chopped chilli, chopped cilantro stems, grated garlic, salt and white pepper.
-3. Add the ice cubes (they keep the marinade cold during the cure - critical).
+3. Add the ice cubes (they keep the marinade cold during the cure, critical).
 4. Stir gently to combine.
 
 ### Stage 3 - Cure the fish
@@ -76,11 +76,11 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 
 ### Stage 6 - Pour the shot of leche de tigre
 1. Pour a small shot glass of the strained leche de tigre marinade alongside each plate.
-2. The diner drinks this between bites - it's the traditional Peruvian "ceviche cure" for hangovers (and even for inducing them; some Peruvians swear it tightens the brain like an espresso).
+2. The diner drinks this between bites, it's the traditional Peruvian "ceviche cure" for hangovers (and even for inducing them; some Peruvians swear it tightens the brain like an espresso).
 
 ### Stage 7 - Serve immediately
 1. Hand to the diner.
-2. Eat within 10 minutes of plating - ceviche degrades fast.
+2. Eat within 10 minutes of plating, ceviche degrades fast.
 
 ## Notes
 - **Fresh fish is non-negotiable:** sashimi-grade only. The lime cures the proteins but doesn't kill pathogens. Source from a trusted fishmonger; use the same day.
@@ -91,21 +91,21 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 - **Sweet potato is the balance:** the sweet camote balances the sour-spicy ceviche. Some Peruvians eat it after; some during; the balance is the point.
 
 ## Variations
-**Ceviche mixto:** add 200 g cooked octopus or prawns alongside the raw fish - the mixed-seafood variant.
-**Tiradito Peruano:** the Nikkei (Japanese-Peruvian) variant - the fish is sliced THIN like sashimi instead of cubed; the leche de tigre is poured over at table.
+**Ceviche mixto:** add 200 g cooked octopus or prawns alongside the raw fish, the mixed-seafood variant.
+**Tiradito Peruano:** the Nikkei (Japanese-Peruvian) variant, the fish is sliced THIN like sashimi instead of cubed; the leche de tigre is poured over at table.
 **Ceviche con leche de tigre amarilla:** the leche de tigre is blitzed with aji amarillo paste for a thicker, vivid yellow marinade.
-**Ceviche con leche de tigre verde:** add a handful of fresh herbs (mint, basil, cilantro) blitzed into the marinade for a green leche de tigre - the modern Lima restaurant variant.
+**Ceviche con leche de tigre verde:** add a handful of fresh herbs (mint, basil, cilantro) blitzed into the marinade for a green leche de tigre, the modern Lima restaurant variant.
 **Ceviche de pulpo (octopus):** swap the fish for finely sliced cooked octopus; same marinade.
-**Ceviche caliente / chilcano:** the cooked variant for fish that isn't sashimi-grade - briefly poached fish in the leche de tigre at very low heat.
+**Ceviche caliente / chilcano:** the cooked variant for fish that isn't sashimi-grade, briefly poached fish in the leche de tigre at very low heat.
 **Modern Lima ceviche:** add a few drops of a Peruvian fruit purée (passion fruit, mango) to the leche de tigre; the upscale Lima restaurant variant.
 **Vegan ceviche:** swap fish for diced firm tofu, or hearts of palm chopped into cubes; the same marinade.
 
 ## Serving
-At a Lima cebicheria for lunch (the traditional setting; cebicherias close at 3 pm because ceviche is a lunch dish, never dinner - lunch fish is fresher) · at a Peruvian Independence Day (28 July) celebration · at the National Ceviche Day (28 June) festival · at a Pacific-coast seafood restaurant · at home as a substantial first course or light main · paired with a chilled glass of pisco sour, chicha morada, or a cold Cusqueña lager.
+At a Lima cebicheria for lunch (the traditional setting; cebicherias close at 3 pm because ceviche is a lunch dish, never dinner, lunch fish is fresher) · at a Peruvian Independence Day (28 July) celebration · at the National Ceviche Day (28 June) festival · at a Pacific-coast seafood restaurant · at home as a substantial first course or light main · paired with a chilled glass of pisco sour, chicha morada, or a cold Cusqueña lager.
 
 ## Storage
 - Doesn't store. Eat within 15 minutes of plating.
 - Leftover leche de tigre marinade refrigerates 24 hours and is excellent as a hangover cure (drunk as a shot) or as a marinade for grilled prawns.
-- Don't refrigerate cured ceviche - the fish continues to "cook" in the lime and becomes over-firm within hours.
+- Don't refrigerate cured ceviche, the fish continues to "cook" in the lime and becomes over-firm within hours.
 - The raw fish itself can be cubed and refrigerated 24 hours before curing; the marinade can be made up to 4 hours ahead.
 - Cancha (toasted corn) keeps weeks in a sealed jar; sweet potato keeps 3 days boiled.

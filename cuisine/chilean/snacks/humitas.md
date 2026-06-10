@@ -2,7 +2,7 @@
 
 ![Humitas](resources/humitas.jpg)
 
-*Fresh corn pulped with basil, onion and butter, wrapped in corn husks and steamed into tender parcels. The Andean / Chilean answer to a tamale, but unfilled - just sweet fresh corn, intensified. Eats hot with a sprinkle of sugar (savoury-sweet at the table) or with pebre alongside.*
+*Fresh corn pulped with basil, onion and butter, wrapped in corn husks and steamed into tender parcels. The Andean / Chilean answer to a tamale, but unfilled, just sweet fresh corn, intensified. Eats hot with a sprinkle of sugar (savoury-sweet at the table) or with pebre alongside.*
 
 **Serves:** 6 (makes 12 humitas)
 
@@ -21,10 +21,10 @@ The Andean-Chilean answer to the Mexican tamale, but unfilled: just sweet fresh 
 - 1 teaspoon salt
 - ½ teaspoon ground white pepper
 - 8 fresh basil leaves (chopped)
-- 2 tablespoons fine cornmeal (optional - only if mixture seems too wet)
+- 2 tablespoons fine cornmeal (optional, only if mixture seems too wet)
 
 ### To serve
-- Sugar (a bowl at the table - guests sprinkle to taste)
+- Sugar (a bowl at the table, guests sprinkle to taste)
 - [Pebre](../side-dishes/pebre.md) (Chilean salsa), optional
 
 ## Method

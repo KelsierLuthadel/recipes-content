@@ -55,13 +55,13 @@ Rissois are the half-moon prawn fritters you'd see in the glass cabinet of every
 1. Reduce to medium; tip in flour all at once.
 1. Stir vigorously with a wooden spoon for 90 seconds until you have a smooth shiny dough that pulls cleanly from the pan walls.
 1. Tip onto a lightly floured surface.
-1. Knead briefly while still warm (be careful - it's hot) until smooth and pliable.
+1. Knead briefly while still warm (be careful, it's hot) until smooth and pliable.
 1. Cover with cling film; cool to room temperature.
 
 ### Stage 2 - Filling
 1. Melt butter in a saucepan over medium heat.
 1. Whisk in flour; cook 1 minute (roux).
-1. Slowly whisk in the milk; cook 4 minutes, whisking, until the béchamel thickens to a very thick paste - should be much thicker than a standard sauce.
+1. Slowly whisk in the milk; cook 4 minutes, whisking, until the béchamel thickens to a very thick paste, should be much thicker than a standard sauce.
 1. Add salt, white pepper, nutmeg.
 1. Off heat; stir in chopped prawns, parsley, lemon zest, and sautéed shallot (if using).
 1. Cool fully (warm filling tears the dough).
@@ -93,10 +93,10 @@ Rissois are the half-moon prawn fritters you'd see in the glass cabinet of every
 ### Stage 8 - Serve
 1. Pile on a warm platter.
 1. Lemon wedges, olives, pickled chillies.
-1. Eat warm - within 10 minutes is best.
+1. Eat warm, within 10 minutes is best.
 
 ## Notes
-- **Dough must be pliable while warm:** This is a hot-water dough (like for empanadas). Work while still warm - once cooled fully, it can crack when rolled. If it cools, gently warm in the microwave 10 seconds.
+- **Dough must be pliable while warm:** This is a hot-water dough (like for empanadas). Work while still warm, once cooled fully, it can crack when rolled. If it cools, gently warm in the microwave 10 seconds.
 - **Cool the filling fully:** Béchamel-based filling that's still warm will tear the soft dough during folding. Cool to room temperature minimum.
 - **Double-bread for extra crisp:** A second pass through egg + breadcrumbs gives the iconic crackly amber shell. Skip if you prefer a thinner crust.
 

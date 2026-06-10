@@ -35,9 +35,9 @@ Laap (also spelled larb in English) is the most identity-defining Lao dish, eate
 - Dry-toast in a pan over medium heat 6-8 minutes, stirring, till deep golden and fragrant. Grind to coarse powder in a mortar or spice grinder. Use within 48 hours.
 
 ### To serve
-- 1 basket warm Lao sticky rice (khao niao) - see [Sticky Rice](side-dishes/sticky-rice.md)
+- 1 basket warm Lao sticky rice (khao niao): see [Sticky Rice](side-dishes/sticky-rice.md)
 - A plate of raw vegetables for scooping: cabbage wedges, long beans, cucumber spears, lettuce leaves
-- A small dish of jeow bong (Lao chilli paste) - optional
+- A small dish of jeow bong (Lao chilli paste): optional
 
 ## Method
 
@@ -49,7 +49,7 @@ Laap (also spelled larb in English) is the most identity-defining Lao dish, eate
 ### Stage 2 - Cook the meat
 1. In a wide pan, combine the minced meat with the 100 ml water.
 2. Cook over medium heat, breaking up with a wooden spoon, 5-6 minutes till just cooked through.
-3. Don't brown - this is a gentle steam-cook to keep the meat tender.
+3. Don't brown, this is a gentle steam-cook to keep the meat tender.
 4. The water mostly evaporates; the meat should be just-cooked and moist.
 
 ### Stage 3 - Dress while still warm

@@ -33,7 +33,7 @@ Pisang goreng is the Indonesian fried banana, the ubiquitous street-cart sweet s
 ### To finish (optional)
 - Icing sugar
 - Palm-sugar syrup (gula merah dissolved in a little water)
-- Grated mature cheese (the Indonesian way - sounds weird, works brilliantly)
+- Grated mature cheese (the Indonesian way, sounds weird, works brilliantly)
 
 ## Method
 
@@ -45,7 +45,7 @@ Pisang goreng is the Indonesian fried banana, the ubiquitous street-cart sweet s
 ### Stage 2 - Batter
 1. In a wide bowl, whisk the rice flour, plain flour, sugar, baking powder and salt.
 1. Whisk in the cold sparkling water and vanilla until smooth.
-1. The batter should coat the back of a spoon - thick but pourable.
+1. The batter should coat the back of a spoon, thick but pourable.
 
 ### Stage 3 - Fry
 1. Heat the oil to 175°C.
@@ -57,7 +57,7 @@ Pisang goreng is the Indonesian fried banana, the ubiquitous street-cart sweet s
 ### Stage 4 - Serve
 1. Pile hot fritters on a platter.
 1. Dust with icing sugar, drizzle with palm-sugar syrup, or top with grated cheese.
-1. Eat immediately - the crisp shell softens within 20 minutes.
+1. Eat immediately, the crisp shell softens within 20 minutes.
 
 ## Notes
 - **Saba bananas are the authentic choice:** denser, less sweet, hold shape during frying. Look for short stubby green-yellow bananas at Asian groceries.
@@ -67,5 +67,5 @@ Pisang goreng is the Indonesian fried banana, the ubiquitous street-cart sweet s
 
 ## Storage
 - Best within 15 minutes of frying.
-- Don't refrigerate - the batter goes soggy.
+- Don't refrigerate, the batter goes soggy.
 - Cooked fritters re-crisp briefly (3 minutes) in a hot 200°C oven but freshness is the magic.

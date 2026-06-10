@@ -29,7 +29,7 @@ Chakalaka is the spiced South African relish that turns up alongside every braai
 - 1 teaspoon dried thyme
 - 400 g tin chopped tomatoes
 - 1 tablespoon tomato paste
-- 400 g tin [Baked Beans](../american/side-dishes/baked-beans.md) (in tomato sauce - the standard supermarket kind)
+- 400 g tin [Baked Beans](../american/side-dishes/baked-beans.md) (in tomato sauce, the standard supermarket kind)
 - 2 tablespoons cider vinegar
 - 1 ½ teaspoons salt
 - ½ teaspoon black pepper
@@ -56,7 +56,7 @@ Chakalaka is the spiced South African relish that turns up alongside every braai
 
 ### Stage 5 - Baked beans and finish
 1. Stir in the baked beans (with their sauce) and the vinegar.
-1. Cook 3-4 minutes more, gently - don't break up the beans.
+1. Cook 3-4 minutes more, gently, don't break up the beans.
 1. Off the heat, stir in the parsley.
 1. Taste; adjust salt, vinegar and chilli.
 

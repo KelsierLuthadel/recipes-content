@@ -65,14 +65,14 @@ ingredients:
   - qty: 150
     unit: g
     name: smoked streaky bacon
-    raw: 150 g smoked streaky bacon, cut into lardons - the more substantial version
+    raw: "150 g smoked streaky bacon, cut into lardons : the more substantial version"
   - qty: 1
     name: onion
-    raw: 1 small onion, finely chopped - traditional
+    raw: "1 small onion, finely chopped : traditional"
   - qty: 50
     unit: g
-    name: cheese folded in at the end - the friesland variant
-    raw: 50 g grated mature cheese folded in at the end - the Friesland variant
+    name: cheese folded in at the end
+    raw: 50 g grated mature cheese folded in at the end, the Friesland variant
   - name: dutch mustard on the side
     raw: Strong Dutch mustard on the side
   - name: pickled silverskin onions

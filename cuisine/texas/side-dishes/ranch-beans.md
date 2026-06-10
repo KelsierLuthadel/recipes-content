@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Ranch beans (also called "Texas pinto beans" or "borracho beans" when made with beer) is Texas's iconic side for barbecue: dried pinto beans slow-cooked with bacon, onion, garlic, fresh jalapeños, chopped tomato, chili powder, cumin, oregano and beer (the "borracho" or "drunken bean" version) or beef stock, till the beans are tender and the broth thickens to a savoury brown stew. The dish is the everyday Texan accompaniment to brisket, ribs, sausage - anywhere Texas BBQ goes, ranch beans go alongside.
+Ranch beans (also called "Texas pinto beans" or "borracho beans" when made with beer) is Texas's iconic side for barbecue: dried pinto beans slow-cooked with bacon, onion, garlic, fresh jalapeños, chopped tomato, chili powder, cumin, oregano and beer (the "borracho" or "drunken bean" version) or beef stock, till the beans are tender and the broth thickens to a savoury brown stew. The dish is the everyday Texan accompaniment to brisket, ribs, sausage, anywhere Texas BBQ goes, ranch beans go alongside.
 
 ## Ingredients
 
@@ -36,7 +36,7 @@ Ranch beans (also called "Texas pinto beans" or "borracho beans" when made with 
 
 ### Stage 1 - Render the bacon
 1. Cook the diced bacon in a heavy pot over medium heat 5-6 minutes till crispy and the fat is rendered.
-2. Don't drain - keep all the fat.
+2. Don't drain, keep all the fat.
 
 ### Stage 2 - Sauté aromatics
 1. Add chopped onions to the bacon and fat; cook 8 minutes till soft.

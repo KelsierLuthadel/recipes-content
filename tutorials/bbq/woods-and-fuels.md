@@ -1,13 +1,13 @@
 # Woods and Fuels
 
-![Stacked wood chunks - oak, hickory, apple, cherry](resources/woods-and-fuels.jpg)
+![Stacked wood chunks, oak, hickory, apple, cherry](resources/woods-and-fuels.jpg)
 
 *Different woods give different smoke. The wrong wood ruins a 14-hour cook; the right wood makes it sing. This lesson lays out what to use, what to avoid, and how charcoal fits in.*
 
 ## Overview
 The fuel is half the cook. Charcoal supplies most of the heat in most smoker formats; wood (chunks, chips, splits or pellets) supplies the smoke flavour. The combinations available are many; the principles are simple.
 
-The most important rule: never burn softwood. Pine, fir, cedar, spruce, redwood - any conifer. They produce harsh, resinous, acrid smoke that ruins meat. The list below is all hardwoods.
+The most important rule: never burn softwood. Pine, fir, cedar, spruce, redwood, any conifer. They produce harsh, resinous, acrid smoke that ruins meat. The list below is all hardwoods.
 
 ## The Major BBQ Woods
 
@@ -26,7 +26,7 @@ The most important rule: never burn softwood. Pine, fir, cedar, spruce, redwood 
 
 ## What to Avoid
 
-- **Pine, fir, cedar, spruce, redwood.** All softwoods. Resinous, acrid, sometimes toxic. Cedar is occasionally used in plank-grilling (the cedar plank under salmon), but the smoke is from the plank's surface only and is brief - never use cedar as a primary smoke wood.
+- **Pine, fir, cedar, spruce, redwood.** All softwoods. Resinous, acrid, sometimes toxic. Cedar is occasionally used in plank-grilling (the cedar plank under salmon), but the smoke is from the plank's surface only and is brief, never use cedar as a primary smoke wood.
 - **Green or unseasoned wood.** Wet wood does not burn cleanly; it smoulders, producing thick white smoke with high creosote content. Wood for BBQ should be aged 6-12 months minimum.
 - **Treated lumber.** Pressure-treated wood, painted wood, glued wood (plywood, MDF). Toxic.
 - **Eucalyptus, oleander, yew.** Allergenic or toxic species used in some regions.
@@ -37,7 +37,7 @@ The most important rule: never burn softwood. Pine, fir, cedar, spruce, redwood 
 The wood comes in different sizes for different smoker formats:
 
 - **Chunks.** Fist-sized hardwood pieces. The most versatile form. Used in kettle barbecues, drum smokers, offset smokers (as supplementary wood alongside the main fuel), and pellet smokers (in a smoke tube). 4-6 chunks across an 8-hour cook.
-- **Chips.** Pea-to-thumbnail-sized pieces. Used in electric smokers, kettle barbecues, and gas grills with smoke boxes. Soaked in water for 30 minutes before use in most setups - the water delays the burn-rate. A small handful per hour.
+- **Chips.** Pea-to-thumbnail-sized pieces. Used in electric smokers, kettle barbecues, and gas grills with smoke boxes. Soaked in water for 30 minutes before use in most setups, the water delays the burn-rate. A small handful per hour.
 - **Splits.** Logs about 30-40 cm long. Used in offset stick burners as both heat source and smoke source. Splits are the dominant fuel in serious Texas-style smokers.
 - **Pellets.** Compressed sawdust, about 6 mm long. Used in pellet smokers and smoke tubes. The wood species is mixed into the pellet (a "hickory pellet" contains hickory sawdust).
 - **Sawdust / wood dust.** Used in cold smokers. Slowly smouldered to produce smoke at low temperatures.
@@ -60,7 +60,7 @@ In offset stick burners, wood is the heat source as well as the smoke source. Sp
 
 The skill in stick-burning is fire management: keeping the fire hot enough to burn cleanly (avoiding the thick white smouldering smoke) while not so hot that the cooking chamber overshoots temperature. Splits are added every 30-45 minutes; the fire is poked, the airflow adjusted, the temperature monitored.
 
-Pellet smokers automate this - an electric auger feeds pellets at a controlled rate, maintaining a precise temperature. The flavour profile is lighter than stick-burning because the pellets burn at a higher efficiency, producing less smoke per gram of fuel.
+Pellet smokers automate this, an electric auger feeds pellets at a controlled rate, maintaining a precise temperature. The flavour profile is lighter than stick-burning because the pellets burn at a higher efficiency, producing less smoke per gram of fuel.
 
 ### Gas
 

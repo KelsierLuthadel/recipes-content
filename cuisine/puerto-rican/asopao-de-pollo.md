@@ -91,7 +91,7 @@ Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting del
 ### Stage 6 - Add peas and finish
 1. Add the frozen peas.
 2. Continue cooking 5 more minutes till the rice is tender and the soup has reduced slightly to a thick brothy consistency.
-3. The soup should be brothy - you should be able to eat it with a spoon, not a fork.
+3. The soup should be brothy, you should be able to eat it with a spoon, not a fork.
 4. If too thick, add more hot stock; if too thin, simmer a few more minutes.
 
 ### Stage 7 - Finish and serve

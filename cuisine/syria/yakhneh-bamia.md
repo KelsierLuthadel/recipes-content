@@ -72,7 +72,7 @@ Yakhneh bamia is the slow-simmered Syrian okra stew: lamb shoulder braised with 
 
 ## Notes
 - **Small whole okra:** Don't slice. Sliced okra goes slimy. Whole pods, especially small ones, stay structural.
-- **Pomegranate molasses is the signature:** Don't substitute - the dish takes its character from the dark-sour-fruity note.
+- **Pomegranate molasses is the signature:** Don't substitute, the dish takes its character from the dark-sour-fruity note.
 - **Taqliya at the end:** The fresh garlic-coriander-butter sizzle is the Syrian signature. Don't pre-mix it into the stew; the freshness matters.
 
 ## Storage

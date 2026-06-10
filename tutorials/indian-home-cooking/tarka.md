@@ -48,7 +48,7 @@ The dal/dish should be in a serving bowl. The hot fat hits the cold (or warm) da
 
 Some dishes are built with the tarka first, then the dal/protein/vegetable added to it:
 
-1. Heat ghee in the cooking pan (not a small one - the main pan).
+1. Heat ghee in the cooking pan (not a small one, the main pan).
 2. Bloom the whole spices as above.
 3. Add the dal or vegetable directly to the spiced ghee.
 4. Add water/stock and simmer.
@@ -69,7 +69,7 @@ The tarka changes with the region:
 - Used on sambars, rasams, dals, coconut chutneys.
 
 ### Bengal (West Bengal, Bangladesh)
-- Mustard oil + panch phoron (the 5-spice - cumin, mustard, fenugreek, nigella, fennel) + dried chillies + bay leaves + sometimes green cardamom.
+- Mustard oil + panch phoron (the 5-spice, cumin, mustard, fenugreek, nigella, fennel) + dried chillies + bay leaves + sometimes green cardamom.
 - Used on dals, fish curries, vegetable dishes.
 
 ### Gujarat
@@ -88,7 +88,7 @@ The tarka changes with the region:
 
 The audible signal that mustard seeds are blooming properly is the pop. Heat the oil/ghee until shimmering, drop in a teaspoon of mustard seeds, and listen. Within 5-10 seconds you'll hear the first pop. Cover the pan loosely (an upturned strainer works) if you don't want them jumping out.
 
-The pop is the moment the mustard oil compound is being released. Wait until the popping is more than half-finished (about 15 seconds) before adding the next ingredient - too early and the mustard flavour is muted.
+The pop is the moment the mustard oil compound is being released. Wait until the popping is more than half-finished (about 15 seconds) before adding the next ingredient, too early and the mustard flavour is muted.
 
 If the mustard seeds are silent in the hot oil, the oil wasn't hot enough. If they burn (turn black and smell acrid), the oil was too hot. The right temperature is shimmering, not smoking.
 
@@ -101,7 +101,7 @@ If the mustard seeds are silent in the hot oil, the oil wasn't hot enough. If th
 
 ## A worked example: simple dal with tarka
 
-This is the basic Indian household dal-tarka - eaten 3-4 times a week in millions of homes.
+This is the basic Indian household dal-tarka, eaten 3-4 times a week in millions of homes.
 
 1. **The dal:** 200 g toor dal + 800 ml water + 1 teaspoon turmeric + 1 teaspoon salt. Pressure cook 4 whistles (or 25 minutes on stovetop until soft).
 2. **Mash lightly** with the back of a spoon to break the dal up slightly.

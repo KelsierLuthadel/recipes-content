@@ -44,20 +44,20 @@ The French hot dog (often called "hot-dog à la française" or just "hot dog" on
 
 ### Stage 2 - Tunnel-cut the baguette
 1. Take each 15cm baguette section.
-2. With a long thin serrated knife, cut a slit along the long axis of the top - about 1.5 cm deep and the full length of the section, but stopping 1cm short at each end (the baguette stays whole; you're just creating a tunnel-pocket from the top).
+2. With a long thin serrated knife, cut a slit along the long axis of the top, about 1.5 cm deep and the full length of the section, but stopping 1cm short at each end (the baguette stays whole; you're just creating a tunnel-pocket from the top).
 3. With the tip of the knife, scoop out the soft white interior to widen the tunnel into a proper trough that a sausage can lie in.
 
 ### Stage 3 - Build
 1. Preheat the grill (broiler) to high.
 2. Spread Dijon mustard (if using) thinly along the inside of each baguette trough.
 3. Slide a warm sausage into each trough.
-4. Top each sausage with a generous heap of grated Gruyère - pile it on top of the sausage and let some cascade down the sides onto the baguette top.
+4. Top each sausage with a generous heap of grated Gruyère, pile it on top of the sausage and let some cascade down the sides onto the baguette top.
 
 ### Stage 4 - Broil
 1. Place the loaded baguettes on a baking sheet.
 2. Slide under the hot grill, about 12cm from the heat.
 3. Broil 3-5 minutes till the cheese is fully melted, bubbling, and deeply golden in spots.
-4. Watch closely - the moment between "perfectly golden" and "burnt" is short.
+4. Watch closely, the moment between "perfectly golden" and "burnt" is short.
 
 ### Stage 5 - Serve immediately
 1. Optional: a small dollop of crème fraîche or extra mustard on the side.

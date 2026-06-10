@@ -2,7 +2,7 @@
 
 ![Molho Piri-Piri](resources/molho-piri-piri.jpg)
 
-*Portugal's foundational chilli sauce: fresh red bird's-eye chillies (piri-piri) infused in olive oil with garlic, lemon juice, paprika, oregano and salt into a fiery red sauce. The Portuguese (and Mozambican, and Angolan) condiment that goes on grilled chicken, fish, vegetables - anywhere heat is wanted.*
+*Portugal's foundational chilli sauce: fresh red bird's-eye chillies (piri-piri) infused in olive oil with garlic, lemon juice, paprika, oregano and salt into a fiery red sauce. The Portuguese (and Mozambican, and Angolan) condiment that goes on grilled chicken, fish, vegetables, anywhere heat is wanted.*
 
 **Serves:** Makes about 250 ml
 

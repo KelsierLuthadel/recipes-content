@@ -22,7 +22,7 @@ The hard part is not the recipe. It is the curing chamber: a space that holds 12
 
 The meat must be very fresh, refrigerated, never previously frozen. Buy as close to the date you start curing as possible.
 
-**Cure #2.** Not cure #1 - the long cure needs the slow nitrate release. 0.25% by weight, weighed to 0.1 g precision.
+**Cure #2.** Not cure #1, the long cure needs the slow nitrate release. 0.25% by weight, weighed to 0.1 g precision.
 
 **Salt.** Non-iodised, fine. 3% by weight.
 
@@ -89,7 +89,7 @@ Weigh weekly. The loss curve is fastest in the first 2 weeks (10-15% per week) a
 
 The finished bresaola is firm to the touch, slightly springy. Slicing it reveals a deep ruby-red interior with no soft or grey patches. A faint white surface mould (Penicillium nalgiovense, the cured-meat mould) on the casing is desirable and expected.
 
-Slice paper-thin on a slicer or on the bias with a sharp knife. Eat over a few weeks; once started, the cut surface dries out and the bresaola loses quality faster - wrap loosely in greaseproof paper to slow this.
+Slice paper-thin on a slicer or on the bias with a sharp knife. Eat over a few weeks; once started, the cut surface dries out and the bresaola loses quality faster, wrap loosely in greaseproof paper to slow this.
 
 ## Lonza (Pork Loin)
 

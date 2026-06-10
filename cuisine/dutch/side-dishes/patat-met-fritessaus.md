@@ -32,7 +32,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 
 ### The Dutch satay sauce (satésaus) - traditional Indonesian-Dutch peanut sauce
 - 4 tablespoons crunchy peanut butter
-- 2 tablespoons sweet soy sauce (kecap manis - the Indonesian soy sauce; sold in Dutch supermarkets; substitute with regular soy + 1 tablespoon brown sugar)
+- 2 tablespoons sweet soy sauce (kecap manis, the Indonesian soy sauce; sold in Dutch supermarkets; substitute with regular soy + 1 tablespoon brown sugar)
 - 1 tablespoon lime juice
 - 1 clove garlic, finely grated
 - 1/2 teaspoon sambal oelek (Indonesian chili paste) OR sriracha
@@ -48,7 +48,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 ### Optional Dutch chip-shop sauces (offer one or more)
 - Curry mayo (mayo + 1 teaspoon curry powder + a pinch of sugar)
 - Knoflooksaus (garlic mayo)
-- Joppiesaus (a Dutch fast-food brand-specific sauce - mayo + curry + onion + spices)
+- Joppiesaus (a Dutch fast-food brand-specific sauce, mayo + curry + onion + spices)
 - Sambal mayo (mayo + sambal oelek)
 
 ## Method
@@ -61,8 +61,8 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 ### Stage 2 - Make the fritessaus
 1. In a tall narrow bowl (jug-shaped helps for stick-blender use), combine the egg yolk, vinegar, mustard, sugar, salt and lemon juice.
 2. Add the oil all at once on top of the yolk mixture.
-3. Using a stick blender, blend on slowest speed from the bottom of the bowl up - the mixture will emulsify into a thick mayo-like sauce within 15-20 seconds.
-4. Add 1 tablespoon of water and a small extra dash of vinegar to loosen and brighten - fritessaus is slightly thinner than mayo.
+3. Using a stick blender, blend on slowest speed from the bottom of the bowl up, the mixture will emulsify into a thick mayo-like sauce within 15-20 seconds.
+4. Add 1 tablespoon of water and a small extra dash of vinegar to loosen and brighten, fritessaus is slightly thinner than mayo.
 5. Taste; should be tangy, slightly sweet, gently sharp. Adjust salt or sugar.
 6. Transfer to a clean jar; refrigerate.
 
@@ -70,7 +70,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 1. In a small saucepan, combine the peanut butter, sweet soy sauce, lime juice, grated garlic, sambal oelek and ground coriander.
 2. Add the warm water slowly, whisking, till the sauce reaches a thick-pourable consistency.
 3. Warm gently over low heat for 2 minutes; stir constantly.
-4. Don't boil - the peanut butter can split.
+4. Don't boil, the peanut butter can split.
 5. Keep warm (or reheat gently before serving).
 
 ### Stage 4 - First fry (the blanch)
@@ -100,19 +100,19 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 ## Notes
 - **Fritessaus is its own thing:** not just mayo. The Dutch-specific eggless (or low-egg), slightly sweet, more vinegar-forward profile is what makes it Dutch. The Calvé Fritessaus brand is the traditional commercial version; homemade gets you close.
 - **Patat oorlog:** the legendary Dutch combo. Translates as "chip war" but is more about the joyful messy excess. Don't be shy with the sauces.
-- **Frozen frites:** the Dutch home version often uses good frozen oven frites (Aviko is a Dutch brand) - acceptable, especially on weeknights. The chip-shop uses fresh.
+- **Frozen frites:** the Dutch home version often uses good frozen oven frites (Aviko is a Dutch brand): acceptable, especially on weeknights. The chip-shop uses fresh.
 - **Sweet soy sauce (kecap manis):** the Indonesian-influenced ingredient. Sold in Dutch supermarkets; substitute with regular soy + 1 tablespoon brown sugar.
 - **Warm satay sauce:** the peanut sauce should be warm, not cold. Cold satay sauce hardens the cold sauce alongside.
 - **Hand-eat style:** Dutch frites come in a paper cone and are eaten with a small wooden two-prong fork from the cone itself. No plate.
 
 ## Variations
-**Patat speciaal (the diner-friendly variant):** frites + fritessaus + curry ketchup + finely chopped onion - the second-most-popular Dutch combination.
+**Patat speciaal (the diner-friendly variant):** frites + fritessaus + curry ketchup + finely chopped onion, the second-most-popular Dutch combination.
 **Patat pinda:** just frites + warm satay sauce. No mayo. The simpler peanut-sauce variant.
-**Patat met joppiesaus:** frites + Joppiesaus (a Dutch fast-food brand sauce - mayo + curry + onion + spices); Joppiesaus is sold in supermarkets across the Netherlands.
+**Patat met joppiesaus:** frites + Joppiesaus (a Dutch fast-food brand sauce, mayo + curry + onion + spices); Joppiesaus is sold in supermarkets across the Netherlands.
 **Patat met curry:** frites + Indonesian curry ketchup (a sweet-spicy ketchup-curry blend).
 **Patat met sambal:** frites + sambal mayo (mayo + sambal oelek + lime juice).
-**Frikandel speciaal (the over-the-top chip-shop classic):** a frikandel sausage cut open lengthwise; topped with fritessaus, curry ketchup, and chopped onion - served alongside the frites.
-**Kapsalon (Rotterdam-invented):** a baking tray of frites covered with grilled shawarma or kebab meat, cheese, salad, garlic sauce and sambal; baked under the grill till the cheese melts - the Dutch fast-food invention from Rotterdam.
+**Frikandel speciaal (the over-the-top chip-shop classic):** a frikandel sausage cut open lengthwise; topped with fritessaus, curry ketchup, and chopped onion, served alongside the frites.
+**Kapsalon (Rotterdam-invented):** a baking tray of frites covered with grilled shawarma or kebab meat, cheese, salad, garlic sauce and sambal; baked under the grill till the cheese melts, the Dutch fast-food invention from Rotterdam.
 **Healthier "patat" (oven frites):** the same fritessaus or satay sauce; over baked frites (220°C for 30 minutes, tossed halfway). Less crispy but a real Dutch home midweek dinner.
 
 ## Serving
@@ -124,4 +124,4 @@ At a Dutch frituur or chip-shop (the traditional setting; sold from carts and co
 - The satay sauce refrigerates 5 days; freezes 2 months.
 - The blanched (first-fried) frites can be refrigerated 3 days; bring to room temperature before the second fry.
 - The blanched frites freeze 2 months on a tray then bagged; fry from frozen at 180°C, allow an extra minute.
-- Day-old frites can be revived in a 200°C oven for 5 minutes - acceptable, not great.
+- Day-old frites can be revived in a 200°C oven for 5 minutes, acceptable, not great.

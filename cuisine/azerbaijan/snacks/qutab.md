@@ -63,7 +63,7 @@ Azerbaijan's folded flatbread, the proper name for what the diaspora sometimes l
 
 ### Stage 4 - Cook
 1. Heat a heavy dry skillet over medium heat (no oil).
-1. Lay one qutab in the pan; cook 90 seconds - the surface should blister and brown in patches.
+1. Lay one qutab in the pan; cook 90 seconds, the surface should blister and brown in patches.
 1. Flip; cook another 60-90 seconds.
 1. Lift onto a warm plate; brush both sides with melted butter; dust with sumac.
 1. Repeat for the rest.

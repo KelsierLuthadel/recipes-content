@@ -38,7 +38,7 @@ Spanakopita is the great Greek spinach pie, layers of butter-brushed filo wrappe
 ## Method
 
 ### Stage 1 - Spinach
-1. Wilt the spinach in a dry pan in batches (or thaw frozen). Squeeze hard in a clean cloth to remove ALL liquid (this is structural - wet filling makes soggy pie). Chop roughly.
+1. Wilt the spinach in a dry pan in batches (or thaw frozen). Squeeze hard in a clean cloth to remove ALL liquid (this is structural, wet filling makes soggy pie). Chop roughly.
 
 ### Stage 2 - Filling
 1. Heat the olive oil; cook the onion 5 minutes; add spring onions and garlic, cook 2 more minutes. Cool slightly.

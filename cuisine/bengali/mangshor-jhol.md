@@ -11,7 +11,7 @@
 **Cook Time:** 90 minutes
 
 ## Overview
-The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho - and the more everyday of the two. "Jhol" means a thin, soupy gravy and mangshor jhol is exactly that: bone-in goat or mutton cooked low and slow with potatoes in a light, aromatic broth that you ladle generously over rice. You heat mustard oil to smoking to take the raw edge off, temper whole bay and cinnamon in the hot fat, then brown the onions deeply and add a measured hand of turmeric to give the gravy its colour and weight. The bones contribute marrow to the broth as the meat tenderises over an hour or so, and the potatoes go in late enough that they soften without disintegrating. Eat with a mound of plain steamed rice, a wedge of lime, and a thin slick of mustard oil scattered with raw onion on the side. A Sunday lunch dish for a Bengali household, served from the same pot it was cooked in.
+The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho, and the more everyday of the two. "Jhol" means a thin, soupy gravy and mangshor jhol is exactly that: bone-in goat or mutton cooked low and slow with potatoes in a light, aromatic broth that you ladle generously over rice. You heat mustard oil to smoking to take the raw edge off, temper whole bay and cinnamon in the hot fat, then brown the onions deeply and add a measured hand of turmeric to give the gravy its colour and weight. The bones contribute marrow to the broth as the meat tenderises over an hour or so, and the potatoes go in late enough that they soften without disintegrating. Eat with a mound of plain steamed rice, a wedge of lime, and a thin slick of mustard oil scattered with raw onion on the side. A Sunday lunch dish for a Bengali household, served from the same pot it was cooked in.
 
 ## Ingredients
 
@@ -78,18 +78,18 @@ The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho - and th
 
 ### Stage 6 - Bhuna the mutton
 1. Add the marinated mutton (and all the marinade) to the pan.
-2. Cook over medium-high heat, stirring often, for 8 to 10 minutes - the meat will release liquid which then evaporates, and the masala will tighten around the pieces and the oil will start to separate at the edges.
+2. Cook over medium-high heat, stirring often, for 8 to 10 minutes, the meat will release liquid which then evaporates, and the masala will tighten around the pieces and the oil will start to separate at the edges.
 3. This bhuna step builds the gravy's depth, so don't rush it.
 
 ### Stage 7 - The jhol
 1. Return the par-fried potatoes to the pan along with the slit green chillies and sugar.
-2. Pour in the water (or stock) - the level should be loose, more broth than sauce.
+2. Pour in the water (or stock): the level should be loose, more broth than sauce.
 3. Bring to a gentle simmer, cover and lower the heat.
 4. Cook for 60 to 75 minutes, stirring occasionally, until the mutton is fall-off-the-bone tender and the potatoes are soft.
 5. Top up with hot water if it reduces too far before the meat is ready.
 
 ### Stage 8 - Finish
-1. Uncover and let the gravy reduce for 5 minutes if it's thinner than you'd like (Bengali jhol stays loose - this isn't a thick masala).
+1. Uncover and let the gravy reduce for 5 minutes if it's thinner than you'd like (Bengali jhol stays loose, this isn't a thick masala).
 2. Taste and adjust salt.
 3. Sprinkle over the garam masala and dot in the ghee, if using.
 4. Cover and rest off the heat for 10 minutes.
@@ -105,6 +105,6 @@ The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho - and th
 Serve with steamed long-grain rice, a wedge of lime, and either a dal or a simple cucumber salad on the side. Many Bengali households eat this with a single plain roti to mop up the last of the gravy.
 
 ## Storage
-- Refrigerate up to 3 days. The flavour improves overnight - many cooks consider day-two jhol better than the day it was made.
+- Refrigerate up to 3 days. The flavour improves overnight, many cooks consider day-two jhol better than the day it was made.
 - Freeze up to 2 months; thaw overnight in the fridge before reheating.
 - Reheat gently with a splash of water to loosen the gravy back to its loose, brothy consistency.

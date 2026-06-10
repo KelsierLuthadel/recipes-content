@@ -25,8 +25,8 @@ Korea's most-eaten street snack: cylindrical rice cakes (tteok) simmered in a sw
 - 4 garlic cloves (crushed)
 
 ### Main
-- 600 g Korean rice cake cylinders (tteok - refrigerated or frozen, thawed if needed)
-- 200 g fish cakes (eomuk - flat sheets cut into strips, or tube-shape sliced)
+- 600 g Korean rice cake cylinders (tteok, refrigerated or frozen, thawed if needed)
+- 200 g fish cakes (eomuk, flat sheets cut into strips, or tube-shape sliced)
 - 4 hard-boiled eggs (peeled, whole)
 - 1 onion (small, sliced)
 
@@ -51,7 +51,7 @@ Korea's most-eaten street snack: cylindrical rice cakes (tteok) simmered in a sw
 
 ### Stage 4 - Fish cakes and egg
 1. Add the fish cakes and boiled eggs.
-1. Simmer 5 more minutes - fish cakes soften and absorb the sauce.
+1. Simmer 5 more minutes, fish cakes soften and absorb the sauce.
 
 ### Stage 5 - Finish
 1. Drizzle with toasted sesame oil.
@@ -68,4 +68,4 @@ Korea's most-eaten street snack: cylindrical rice cakes (tteok) simmered in a sw
 - **Variations:** Add ramen noodles in the last 4 minutes (rabokki); add cheese on top and broil (cheese tteokbokki); add stir-fried beef (gungjung tteokbokki).
 
 ## Storage
-- Best fresh. Refrigerate 2 days; the rice cakes harden in the fridge - reheat with a splash of water and they soften again.
+- Best fresh. Refrigerate 2 days; the rice cakes harden in the fridge, reheat with a splash of water and they soften again.

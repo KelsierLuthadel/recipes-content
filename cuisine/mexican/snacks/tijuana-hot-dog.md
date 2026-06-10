@@ -89,7 +89,7 @@ The Tijuana hot dog (also called "el perro tijuanense") is the Mexican-border-to
 
 ## Notes
 - **Bacon-wrapped, grilled hard:** the bacon must be crisp; not flabby.
-- **Peppers + onions cooked on the flat-top:** they take on the bacon fat - that's the traditional street-cart flavour.
+- **Peppers + onions cooked on the flat-top:** they take on the bacon fat, that's the traditional street-cart flavour.
 - **Three sauces (mayo + ketchup + mustard):** the traditional street trio.
 - **Small soft bun:** Tijuana buns are smaller than American; choose accordingly.
 

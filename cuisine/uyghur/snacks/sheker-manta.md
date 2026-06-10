@@ -54,7 +54,7 @@ A sweet steamed dumpling with the surprising savoury-rich note of rendered lamb 
 
 ## Notes
 - **Lamb fat carries the dish:** the rendered fat coats the dried fruits, sweetens with the sugar, and gives the filling its characteristic Uyghur richness. Vegetable oil works but reads as a different (lighter) dish.
-- **Thicker centre, thinner edges:** the dough wrapper does double duty - thicker centre takes the weight of the filling; thinner edges fold cleanly to a sealed triangle.
+- **Thicker centre, thinner edges:** the dough wrapper does double duty, thicker centre takes the weight of the filling; thinner edges fold cleanly to a sealed triangle.
 
 ## Storage
 - Best warm from the steamer.

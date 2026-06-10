@@ -24,7 +24,7 @@ Buffalo sauce is the building block of American Buffalo wings, the tangy orange 
 
 ### Stage 1 - Melt the butter
 1. Place the butter in a small saucepan over low-medium heat.
-1. Let it melt without browning - the butter should be liquid, not foaming or sizzling.
+1. Let it melt without browning, the butter should be liquid, not foaming or sizzling.
 
 ### Stage 2 - Combine with the hot sauce
 1. Pour in the hot sauce.
@@ -41,7 +41,7 @@ Buffalo sauce is the building block of American Buffalo wings, the tangy orange 
 ## Notes
 - **Low heat throughout:** Crank it up and the butter splits, leaving an oily film on top. If it splits, pull the pan off the heat and whisk vigorously to bring it back; a teaspoon of cold water helps.
 - **Heat level:** This is a balanced sauce, not a face-melter. For more heat add another tablespoon of hot sauce; for less, an extra teaspoon of butter.
-- **Frank's RedHot is the original:** Other cayenne-vinegar hot sauces work (Crystal, Texas Pete, Tabasco-style) but the salt and vinegar levels vary - taste and adjust.
+- **Frank's RedHot is the original:** Other cayenne-vinegar hot sauces work (Crystal, Texas Pete, Tabasco-style) but the salt and vinegar levels vary, taste and adjust.
 
 ## Serving
 The classic partner for wings (toss in a wide bowl with a splash of sauce per portion). Also brilliant for: fried chicken sandwiches, drizzled over crisp roasted cauliflower, stirred 1:1 with mayonnaise for a Buffalo dip, or thinned with cream for a pasta sauce.
@@ -50,4 +50,4 @@ The classic partner for wings (toss in a wide bowl with a splash of sauce per po
 - Keeps refrigerated 1 week in a sealed jar.
 - The butter sets solid once chilled; warm gently on the hob or 20 seconds in a microwave before using.
 - If it thickens too far, loosen with a splash of warm water.
-- Not recommended for freezing - the emulsion breaks on thaw.
+- Not recommended for freezing, the emulsion breaks on thaw.

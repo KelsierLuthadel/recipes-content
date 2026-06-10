@@ -46,8 +46,8 @@ Most of the course collapses into three principles.
 - Spices going stale: [Storage](storage.md). Most home cooks throw money away on jars that fade unseen; one fifteen-minute audit recovers half the rack.
 
 ## Where Next
-- [Indian Home Cooking](../indian-home-cooking/indian-home-cooking.md): the cuisine where everything in this course lands first. Tempering, blending, dry-roasting, blooming - all built into the daily method.
-- [Thai Curry](../thai-curry/thai-curry.md): a different relationship with spice - more about aromatics (galangal, lemongrass, kaffir lime) than dry spice.
+- [Indian Home Cooking](../indian-home-cooking/indian-home-cooking.md): the cuisine where everything in this course lands first. Tempering, blending, dry-roasting, blooming, all built into the daily method.
+- [Thai Curry](../thai-curry/thai-curry.md): a different relationship with spice, more about aromatics (galangal, lemongrass, kaffir lime) than dry spice.
 - [Middle Eastern Fundamentals](../middle-eastern-fundamentals/middle-eastern-fundamentals.md): baharat, za'atar, sumac, allspice. The Levantine spice rack.
 - [Mexican Fundamentals](../mexican-fundamentals/mexican-fundamentals.md): the dried-chilli vocabulary, plus cumin, oregano, achiote.
 - [BIR Curry](../bir-curry/bir-curry.md): the British-Indian-Restaurant system, which is built on a pre-cooked spice base.

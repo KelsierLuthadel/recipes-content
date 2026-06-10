@@ -15,7 +15,7 @@ Sweet tea is the everyday drink of the American South, from Louisiana up through
 
 ## Ingredients
 
-- 6 black tea bags (Lipton is the South's go-to; use a robust everyday black tea - Yorkshire, PG Tips, or English Breakfast all work)
+- 6 black tea bags (Lipton is the South's go-to; use a robust everyday black tea, Yorkshire, PG Tips, or English Breakfast all work)
 - 2 litres cold water
 - 200 to 250 g caster sugar (start at 200, taste, add more for properly Southern sweetness)
 - A small pinch of baking soda (the secret Southern trick: a tiny amount of baking soda neutralises any bitter tannins from over-brewing)
@@ -53,7 +53,7 @@ Sweet tea is the everyday drink of the American South, from Louisiana up through
 - **The baking soda trick.** A tiny pinch of baking soda in the brew (no more than 1/8 teaspoon per 2 litres) neutralises any harsh bitter tannins from long-brewed tea, giving a cleaner sweetness. This is the secret in most Southern grandmothers' recipes; don't skip it.
 - **Sugar while hot.** Adding sugar to cold tea leaves it gritty at the bottom. Always dissolve while hot.
 - **Bag count and steep time.** 6 bags for 2 litres is the standard ratio. Steep 5 to 7 minutes; don't go longer or it gets harsh even with baking soda.
-- **Sweet by Southern standards.** 250 g of sugar to 2 litres is the proper deep-South sweetness. If that sounds like a lot, start lighter - but recognise that "sweet tea with not enough sugar" isn't sweet tea, it's iced tea.
+- **Sweet by Southern standards.** 250 g of sugar to 2 litres is the proper deep-South sweetness. If that sounds like a lot, start lighter, but recognise that "sweet tea with not enough sugar" isn't sweet tea, it's iced tea.
 - **Always with lemon.** A wedge of fresh lemon on every glass. The lemon cuts the sweetness and adds the right brightness; don't serve it without.
 
 ## Variations

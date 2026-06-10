@@ -19,8 +19,8 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: white bread - pain de mie
-    raw: 4 thick slices of good white bread - pain de mie, brioche tranche, or a sturdy white bloomer
+    name: "white bread : pain de mie"
+    raw: "4 thick slices of good white bread : pain de mie, brioche tranche, or a sturdy white bloomer"
   - qty: 60
     unit: g
     name: unsalted butter

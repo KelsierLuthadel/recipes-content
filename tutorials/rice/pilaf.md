@@ -20,7 +20,7 @@ This is the form pilaf takes everywhere. Different cuisines vary the spices and 
 - 300 g long-grain rice (basmati for Indian, jasmine for Thai, long-grain Carolina for Persian/Lebanese)
 - 2 tbsp ghee, butter or vegetable oil
 - 1 small onion, finely chopped
-- Aromatic spice base (varies by cuisine - see below)
+- Aromatic spice base (varies by cuisine, see below)
 - 450 ml hot stock (chicken, vegetable, or water)
 - ½ tsp salt
 

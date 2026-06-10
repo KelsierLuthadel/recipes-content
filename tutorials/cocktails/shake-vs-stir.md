@@ -21,7 +21,7 @@ Stirring chills the drink gently. The ice melts slowly, the drink stays clear, a
 
 Shaking does three things at once: it chills aggressively (the ice surface increases as it gets thrown around), it dilutes more (more ice contact in less time), and it aerates (incorporates tiny air bubbles). Citrus-and-spirit drinks want all three. The acid is bright and slightly aggressive; aeration and dilution soften it. The cloudiness from broken-up ice and air bubbles becomes part of the drink's character.
 
-If you shake a Manhattan, you get the same flavour but a hazy, foamy version with too much water. The drinker's first reaction is "this is watery" - and they're right.
+If you shake a Manhattan, you get the same flavour but a hazy, foamy version with too much water. The drinker's first reaction is "this is watery", and they're right.
 
 If you stir a Daiquiri, you get cold rum-and-lime-water; the drink is thin and the lime tastes harsh because the dilution isn't enough to soften it.
 
@@ -45,15 +45,15 @@ The right sound is a quiet circular swirl, not clinking. If you hear clinking, y
 5. Shake hard for 12-15 seconds. The drink chills to -1°C and dilutes to about 35-40% water.
 6. Strain into the chilled glass.
 
-Hard means hard - over-the-shoulder, both arms, full kinetic. A weak shake gives a watery drink; the goal is rapid temperature drop, not gentle agitation.
+Hard means hard, over-the-shoulder, both arms, full kinetic. A weak shake gives a watery drink; the goal is rapid temperature drop, not gentle agitation.
 
 The right sound is a sharp percussive rattle that softens as the ice breaks down. Stop when the shaker feels icy-cold against your palm (about 12-15 seconds).
 
 ## Edge cases
 
-- **Egg white drinks** (Whisky Sour, Pisco Sour): do a "dry shake" first - shake without ice for 10 seconds to froth the egg, then add ice and shake again for 12-15. The dry shake is what gives you the thick foam head.
+- **Egg white drinks** (Whisky Sour, Pisco Sour): do a "dry shake" first, shake without ice for 10 seconds to froth the egg, then add ice and shake again for 12-15. The dry shake is what gives you the thick foam head.
 - **Champagne / sparkling-wine cocktails** (French 75, Mimosa, Aperol Spritz): never shake the bubbles directly. Shake the spirit + citrus + syrup first; strain into the glass; top with chilled sparkling.
-- **Hot cocktails** (Hot Toddy, Irish Coffee): no shaking or stirring - build in the glass with a spoon.
+- **Hot cocktails** (Hot Toddy, Irish Coffee): no shaking or stirring, build in the glass with a spoon.
 - **Layered cocktails** (Pousse-Café, B-52): pour each layer over the back of a bar spoon held just above the previous one. Different densities; no mixing.
 
 ## A test

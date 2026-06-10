@@ -73,11 +73,11 @@ Dadar gulung is the Indonesian rolled coconut crêpe, a soft pandan-green pancak
 
 ## Notes
 - **Cool the filling:** warm filling makes the crepes go limp and they tear during rolling.
-- **Pandan paste vs fresh:** fresh pandan juice (blend 4-5 pandan leaves with 100 ml water and strain) has the truest flavour, but bottled pandan paste is a fair shortcut. Use one or the other - both makes it taste perfumey.
+- **Pandan paste vs fresh:** fresh pandan juice (blend 4-5 pandan leaves with 100 ml water and strain) has the truest flavour, but bottled pandan paste is a fair shortcut. Use one or the other, both makes it taste perfumey.
 - **Don't make the filling too dry:** if you cook the unti to bone-dry it crumbles out of the crepe. Slightly moist is correct.
-- **Thin crepes, not thick:** dadar gulung crepes are like a French crepe in thickness - thinner than American pancakes.
+- **Thin crepes, not thick:** dadar gulung crepes are like a French crepe in thickness, thinner than American pancakes.
 
 ## Storage
 - Best on the day of making.
 - Keep 24 hours at cool room temperature; the crepe slightly stiffens but is still good.
-- Don't refrigerate - the rice flour seizes up. Eat at room temp.
+- Don't refrigerate, the rice flour seizes up. Eat at room temp.

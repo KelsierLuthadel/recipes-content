@@ -73,7 +73,7 @@ Nihari is Karachi's breakfast of kings, the slow-cooked beef stew that sits in c
 
 ### Stage 4 - Bloom
 1. Stir in the nihari masala, Kashmiri chilli powder, turmeric and salt.
-1. Cook 1 minute - the kitchen should fill with the smell.
+1. Cook 1 minute, the kitchen should fill with the smell.
 
 ### Stage 5 - Simmer
 1. Return the beef and any juices.
@@ -99,7 +99,7 @@ Nihari is Karachi's breakfast of kings, the slow-cooked beef stew that sits in c
 ## Notes
 - **Bone-in shank is essential:** The marrow and connective tissue dissolving into the broth is what makes nihari nihari. Boneless beef gives a thinner, less rich result.
 - **Time, not shortcuts:** Pressure-cooker nihari (1 hour) is faster but the depth comes from the long simmer. If you have the time, take it.
-- **The wheat-flour slurry is what makes this nihari, not stew:** Don't skip - it gives the gravy its body and slight stickiness.
+- **The wheat-flour slurry is what makes this nihari, not stew:** Don't skip, it gives the gravy its body and slight stickiness.
 
 ## Storage
 - Keeps 4 days refrigerated; arguably better the next day. Reheat gently.

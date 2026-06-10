@@ -55,8 +55,8 @@ ingredients:
     unit: g
     name: smoked bacon
     raw: 200 g smoked bacon
-  - name: "optional: 1 pig's ear + 1 pig's snout + 2 trotters - these add collagen and authenticity; skip if squeamish"
-    raw: "Optional: 1 pig's ear + 1 pig's snout + 2 trotters - these add collagen and authenticity; skip if squeamish"
+  - name: "optional: 1 pig's ear + 1 pig's snout + 2 trotters"
+    raw: "Optional: 1 pig's ear + 1 pig's snout + 2 trotters, these add collagen and authenticity; skip if squeamish"
   - qty: 2
     name: onions
     raw: 2 large onions

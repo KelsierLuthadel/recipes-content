@@ -17,7 +17,7 @@ Keftedakia are the small Greek meatballs, the meze-platter staple seasoned with 
 
 ### Meatballs
 - 500 g beef mince (or 50/50 beef and pork)
-- 1 onion (large, grated, then squeezed dry through a tea towel - keep the juice for the pan)
+- 1 onion (large, grated, then squeezed dry through a tea towel, keep the juice for the pan)
 - 60 g day-old white bread (crusts off, soaked in 100 ml milk, then squeezed dry)
 - 1 egg (large)
 - 3 garlic cloves (finely minced)
@@ -63,7 +63,7 @@ Keftedakia are the small Greek meatballs, the meze-platter staple seasoned with 
 
 ### Stage 6 - Fry
 1. Heat the olive oil and butter together in a wide frying pan over medium-high heat.
-1. Add the meatballs in a single layer (don't overcrowd - fry in 2-3 batches).
+1. Add the meatballs in a single layer (don't overcrowd, fry in 2-3 batches).
 1. Cook 6-8 minutes, turning every 2 minutes, until deep brown on all sides and cooked through.
 1. Lift onto a wire rack lined with kitchen paper.
 

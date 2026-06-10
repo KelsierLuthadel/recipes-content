@@ -2,7 +2,7 @@
 
 ![Sayur Masak Lemak](resources/sayur-masak-lemak.jpg)
 
-*Malaysian vegetables in coconut milk: a yellow-tinged, turmeric-bright broth with squash, beans, and a fragrant rempah base. "Masak lemak" means "cooked rich" - and the dish is exactly that, mild and creamy without being heavy. Eat with rice, every day across Malaysia.*
+*Malaysian vegetables in coconut milk: a yellow-tinged, turmeric-bright broth with squash, beans, and a fragrant rempah base. "Masak lemak" means "cooked rich", and the dish is exactly that, mild and creamy without being heavy. Eat with rice, every day across Malaysia.*
 
 **Serves:** 4
 
@@ -61,9 +61,9 @@ Malaysia's everyday vegetables in coconut milk: a yellow-tinged, turmeric-bright
 1. Serve hot with rice.
 
 ## Notes
-- **Fresh turmeric:** Fresh root gives a brighter, more floral flavour than ground. If using ground, halve to ½ teaspoon - it can taste musty in larger amounts.
+- **Fresh turmeric:** Fresh root gives a brighter, more floral flavour than ground. If using ground, halve to ½ teaspoon, it can taste musty in larger amounts.
 - **Don't boil the coconut milk hard:** It can split. Steady simmer; never a rolling boil.
-- **Vegetable choice:** Sweet potato, snake gourd, choko, kabocha all work - anything that holds shape in coconut sauce.
+- **Vegetable choice:** Sweet potato, snake gourd, choko, kabocha all work, anything that holds shape in coconut sauce.
 
 ## Storage
 - Keeps 3 days refrigerated; flavour deepens.

@@ -14,7 +14,7 @@
 Pimientos de Padrón are the small green peppers from Galicia that turn up on every Spanish tapas counter in summer: blistered in screaming-hot olive oil and finished with a heavy hand of flaky sea salt. The famous twist is that nine out of ten are mild and sweet and the tenth is fiery hot, which makes eating a plate of them an edible Russian roulette where you find out which is which only after you bite. The peppers go into a smoking-hot cast-iron pan with olive oil all at once; they should sizzle aggressively the moment they hit. Pat bone-dry first or the oil spits. Tossed three or four minutes till the skins char and blister in patches and the peppers slump slightly but still have some bite. Flaky salt scatters generously over the top; fine salt dissolves into the oil and disappears, but flaky sits on the surface for the iconic crunch. Eat hot with your fingers, by the stem from the wide end, with a cold glass of beer or Albariño.
 
 ## Ingredients
-- 400 g Padrón peppers (or substitute Shishito peppers from a Japanese grocer - almost identical)
+- 400 g Padrón peppers (or substitute Shishito peppers from a Japanese grocer, almost identical)
 - 3 tablespoons olive oil
 - 1 tablespoon flaky sea salt (Maldon or similar)
 
@@ -31,11 +31,11 @@ Pimientos de Padrón are the small green peppers from Galicia that turn up on ev
 1. Tip all the peppers in at once; they should sizzle aggressively.
 1. Toss / stir constantly for 3-4 minutes.
 1. The skins should char and blister in patches; the peppers should soften slightly but not collapse.
-1. Don't overcook - they should still have a bit of bite.
+1. Don't overcook, they should still have a bit of bite.
 
 ### Stage 4 - Salt and serve
 1. Tip onto a serving plate.
-1. Sprinkle generously with flaky sea salt - more than you think.
+1. Sprinkle generously with flaky sea salt, more than you think.
 1. Eat immediately, holding by the stem, biting from the wide end.
 
 ## Notes

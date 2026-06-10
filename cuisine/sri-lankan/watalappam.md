@@ -32,7 +32,7 @@ Watalappam is Sri Lanka's defining steamed dessert: a Malay legacy carried into 
 
 ### Stage 1 - Dissolve the jaggery
 1. If using kithul jaggery in solid form, grate or chop it finely.
-1. Combine with the eggs in a bowl; whisk gently - don't froth - until the sugar has mostly dissolved.
+1. Combine with the eggs in a bowl; whisk gently, don't froth, until the sugar has mostly dissolved.
 
 ### Stage 2 - Combine
 1. Whisk in the coconut milk, milk, cardamom, cloves, nutmeg, vanilla, and salt.
@@ -53,7 +53,7 @@ Watalappam is Sri Lanka's defining steamed dessert: a Malay legacy carried into 
 
 ## Notes
 - **Kithul jaggery is non-negotiable for the real flavour:** Sri Lankan/South Asian grocers sell it in solid blocks. Palm sugar is a workable substitute; muscovado-style dark brown sugar gives a flatter result.
-- **Steam, don't bake:** Watalappam is steamed, not oven-baked - the gentle moist heat gives the silky set without the cracked surface a baked custard gets.
+- **Steam, don't bake:** Watalappam is steamed, not oven-baked, the gentle moist heat gives the silky set without the cracked surface a baked custard gets.
 - **Don't over-whisk:** Frothy eggs make a bubbly, holey custard. Gentle whisking only.
 
 ## Storage

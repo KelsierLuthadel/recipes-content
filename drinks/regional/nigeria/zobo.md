@@ -11,11 +11,11 @@
 **Cook Time:** 30 minutes (plus chilling)
 
 ## Overview
-Zobo (called "zoborodo" in full, from the Hausa word for hibiscus) is the everyday Nigerian soft drink, sold cold in plastic bottles by every street vendor, served in tall glass jugs at parties and weddings, and made at home weekly in fridges across Lagos, Abuja, Kano and Port Harcourt. The base is dried red hibiscus calyces (also known as sorrel, roselle or zobo leaves - the same flower that makes Egyptian karkadeh, Mexican agua de Jamaica, and Caribbean sorrel, prepared distinctly in each tradition). The Nigerian version uses generous quantities of ginger, plus pineapple skin (or fresh pineapple), cloves and sometimes cinnamon or uziza leaves. It's simmered hard for half an hour to extract every bit of colour and flavour, then strained, sweetened (usually heavily), and chilled. The colour is a deep magenta-purple, the taste tart and slightly cranberry-like with a strong ginger finish. Health-conscious modern preparations skip the sugar and use stevia; old-school party zobo is sweet to the point of being almost-syrupy.
+Zobo (called "zoborodo" in full, from the Hausa word for hibiscus) is the everyday Nigerian soft drink, sold cold in plastic bottles by every street vendor, served in tall glass jugs at parties and weddings, and made at home weekly in fridges across Lagos, Abuja, Kano and Port Harcourt. The base is dried red hibiscus calyces (also known as sorrel, roselle or zobo leaves, the same flower that makes Egyptian karkadeh, Mexican agua de Jamaica, and Caribbean sorrel, prepared distinctly in each tradition). The Nigerian version uses generous quantities of ginger, plus pineapple skin (or fresh pineapple), cloves and sometimes cinnamon or uziza leaves. It's simmered hard for half an hour to extract every bit of colour and flavour, then strained, sweetened (usually heavily), and chilled. The colour is a deep magenta-purple, the taste tart and slightly cranberry-like with a strong ginger finish. Health-conscious modern preparations skip the sugar and use stevia; old-school party zobo is sweet to the point of being almost-syrupy.
 
 ## Ingredients
 
-- 100 g dried hibiscus calyces (zobo leaves) - from any African or Caribbean grocery, or health food shop
+- 100 g dried hibiscus calyces (zobo leaves): from any African or Caribbean grocery, or health food shop
 - 2 litres cold water
 - 80 g fresh ginger, sliced thin (skin on is fine)
 - 6 whole cloves

@@ -69,7 +69,7 @@ Pork-and-vegetable spring rolls are the Chinese-takeaway favourite given a subtl
 ### Stage 3 - Cook Pork and Combine
 1. Clean your wok or pan with paper towel and turn the heat up to high.
 2. When a drop of water evaporates immediately on contact, add the remaining oil and swirl it around to coat the surface.
-3. Add the pork and stir quickly and continuously until the meat is about 80% cooked through - this should take about 5 minutes.
+3. Add the pork and stir quickly and continuously until the meat is about 80% cooked through, this should take about 5 minutes.
 4. Add the par-cooked vegetables and toss well to combine.
 5. Turn the heat down to medium and stir in the sugar, rice wine or sherry, dark soy sauce, fish sauce and white pepper, followed by the cornflour (cornstarch) mixture.
 6. Cook for a further 20 seconds until the mixture is slightly thick and glossy, then pour onto a plate to cool before wrapping your spring rolls.
@@ -85,8 +85,8 @@ Pork-and-vegetable spring rolls are the Chinese-takeaway favourite given a subtl
 
 ### Stage 5 - Fry
 1. Heat the oil for deep-frying in a large saucepan or wok to 180°C (350°F).
-2. When ready, add the spring rolls in batches to maintain the heat of the oil - you want them to come out crispy, not soggy.
-3. Fry until crisp and lightly browned - around 3-5 minutes.
+2. When ready, add the spring rolls in batches to maintain the heat of the oil, you want them to come out crispy, not soggy.
+3. Fry until crisp and lightly browned, around 3-5 minutes.
 4. Serve hot or at room temperature with sweet chilli dip.
 
 ## Notes

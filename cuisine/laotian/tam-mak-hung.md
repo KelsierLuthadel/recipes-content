@@ -39,7 +39,7 @@ Tam mak hung is Laos's everyday salad and one of the country's most identity-def
 ### Stage 1 - Prep the papaya
 1. Peel the green papaya. Halve lengthways; scoop out any seeds.
 2. Hold one half firmly; with a sharp knife, score the papaya in 10-12 vertical cuts (3 mm deep, 3 mm apart) along the flesh.
-3. Slice across the cuts with the same knife in thin shaves - the result is irregular ribbons. Repeat with the other half.
+3. Slice across the cuts with the same knife in thin shaves, the result is irregular ribbons. Repeat with the other half.
 4. (Or use a julienne peeler for uniform shreds.)
 5. Rinse the shreds briefly in cold water; drain thoroughly.
 
@@ -56,7 +56,7 @@ Tam mak hung is Laos's everyday salad and one of the country's most identity-def
 
 ### Stage 4 - Combine with the papaya
 1. Add the shredded green papaya to the mortar (it'll be crowded; that's OK).
-2. Use the pestle to pound and stir simultaneously - lift, drop, turn the mortar; the papaya should bruise and absorb the dressing.
+2. Use the pestle to pound and stir simultaneously, lift, drop, turn the mortar; the papaya should bruise and absorb the dressing.
 3. Continue 60-90 seconds till the papaya is moistened and the dressing is uniformly distributed.
 
 ### Stage 5 - Taste and adjust
@@ -77,11 +77,11 @@ Tam mak hung is Laos's everyday salad and one of the country's most identity-def
 - **The clay mortar:** the traditional Lao tool is a tall narrow clay mortar (different from the Thai stone mortar). A heavy stone mortar works fine; a small mortar makes it harder to mix.
 
 ## Variations
-**Tam mak hung pa daek nyao (with fermented fish whole pieces):** add a few whole pieces of fermented fish to the mortar - the rural variant.
+**Tam mak hung pa daek nyao (with fermented fish whole pieces):** add a few whole pieces of fermented fish to the mortar, the rural variant.
 **Tam khao poon (with rice noodles):** add a handful of cooked rice vermicelli to the mortar before final pounding.
 **Tam mak teng (cucumber instead of papaya):** swap green papaya for julienned green cucumber.
 **Vegetarian tam mak hung:** skip the padaek and dried shrimp; double the lime juice and add 1 teaspoon of light soy sauce.
-**Tam mak hung Vientiane style:** add a small handful of crushed roasted peanuts to the mortar - the Vientiane city variant.
+**Tam mak hung Vientiane style:** add a small handful of crushed roasted peanuts to the mortar, the Vientiane city variant.
 
 ## Serving
 At a Lao family lunch (the traditional setting) · at a Vientiane street stall · at a Luang Prabang night market · at a Lao New Year (Pi Mai) celebration · at home as the traditional Lao spicy salad · paired with sticky rice, laap, cooked pork rind or fried chicken, and a glass of Beerlao.

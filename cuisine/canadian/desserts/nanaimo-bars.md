@@ -20,7 +20,7 @@ The Nanaimo bar is British Columbia's most famous sweet, named for the Vancouver
 - 60 g caster sugar
 - 60 g unsweetened cocoa powder
 - 1 large egg, lightly beaten
-- 220 g graham cracker crumbs (or digestive biscuit crumbs - blitz biscuits in a food processor)
+- 220 g graham cracker crumbs (or digestive biscuit crumbs, blitz biscuits in a food processor)
 - 90 g sweetened shredded coconut
 - 60 g walnuts, finely chopped
 
@@ -57,19 +57,19 @@ The Nanaimo bar is British Columbia's most famous sweet, named for the Vancouver
 2. Sprinkle the custard powder over; beat in.
 3. Add the milk and vanilla; beat to combine.
 4. Sift in the icing sugar in 3 batches, beating after each addition.
-5. The mixture should be a smooth, soft, spreadable butter icing - just stiff enough to hold its shape but soft enough to spread cleanly.
+5. The mixture should be a smooth, soft, spreadable butter icing, just stiff enough to hold its shape but soft enough to spread cleanly.
 
 ### Stage 3 - Apply the middle layer
 1. Take the cold tin from the fridge.
 2. Dollop the custard icing over the chilled base.
 3. Spread evenly with a palette knife to a uniform thickness (about 1 cm thick).
 4. Smooth the top.
-5. Refrigerate 1 hour till the icing is fully firm (not just chilled - it should be solid enough to support the chocolate top without smearing).
+5. Refrigerate 1 hour till the icing is fully firm (not just chilled, it should be solid enough to support the chocolate top without smearing).
 
 ### Stage 4 - Make the chocolate top
 1. Place the chopped chocolate and butter in a heatproof bowl over a saucepan of barely simmering water.
 2. Stir gently till just melted and smooth.
-3. Take off the heat; let cool 3-4 minutes (don't pour hot chocolate over the cold butter icing - it will melt the icing layer).
+3. Take off the heat; let cool 3-4 minutes (don't pour hot chocolate over the cold butter icing, it will melt the icing layer).
 4. The chocolate should still be pourable but no longer hot to the touch.
 
 ### Stage 5 - Apply the chocolate top
@@ -99,14 +99,14 @@ The Nanaimo bar is British Columbia's most famous sweet, named for the Vancouver
 - **Layers must be cold before the next goes on:** rushing means the layers smear together. Patience is the rule.
 
 ## Variations
-**Mint Nanaimo bars:** add 1/2 teaspoon peppermint extract to the middle layer; tint pale green - the after-dinner-mint variant.
+**Mint Nanaimo bars:** add 1/2 teaspoon peppermint extract to the middle layer; tint pale green, the after-dinner-mint variant.
 **Mocha Nanaimo bars:** add 2 teaspoons instant espresso powder to the middle layer and to the chocolate top.
 **Peanut-butter Nanaimo bars:** replace 30 g of butter in the middle layer with 30 g peanut butter; add chopped peanuts to the base.
-**Raspberry Nanaimo bars:** add a layer of raspberry jam (about 3 tablespoons) spread between the bottom and middle layers - the modern bakery variant.
+**Raspberry Nanaimo bars:** add a layer of raspberry jam (about 3 tablespoons) spread between the bottom and middle layers, the modern bakery variant.
 **Maple Nanaimo bars:** replace 60 g of icing sugar in the middle layer with 60 ml maple syrup; the texture is slightly softer.
 **Boozy Nanaimo bars:** add 1 tablespoon Cognac, Irish Cream, or Canadian whisky to the middle layer.
 **Vegan Nanaimo bars:** swap butter for vegan block butter; egg for 3 tablespoons aquafaba; milk for almond milk; the custard powder is technically vegan (read the label).
-**Round Nanaimo "truffles":** roll the chilled middle-layer icing into balls; dip in the chocolate-and-butter top mix; refrigerate till set - the bite-sized variant for canapés.
+**Round Nanaimo "truffles":** roll the chilled middle-layer icing into balls; dip in the chocolate-and-butter top mix; refrigerate till set, the bite-sized variant for canapés.
 
 ## Serving
 At a BC tea-room (the traditional setting) · at a Vancouver Island café · at a Nanaimo bakery (the traditional city is the namesake) · at a Canadian Thanksgiving dessert table · at a Canadian Christmas cookie tray · at a Vancouver office potluck · at a Canadian community fundraiser bake sale · at home as a make-ahead Sunday-afternoon treat · paired with a strong cup of black tea or coffee.
@@ -114,7 +114,7 @@ At a BC tea-room (the traditional setting) · at a Vancouver Island café · at 
 ## Storage
 - Refrigerates 1 week in an airtight container (separate layers with parchment).
 - Freezes 3 months wrapped tight; defrost in the fridge overnight before serving.
-- Best served cold - leaving them at room temperature for 30 minutes softens the chocolate; longer than an hour and the layers start to migrate.
-- Don't store at room temperature - the butter-heavy middle layer goes soft and the layers blur.
+- Best served cold, leaving them at room temperature for 30 minutes softens the chocolate; longer than an hour and the layers start to migrate.
+- Don't store at room temperature, the butter-heavy middle layer goes soft and the layers blur.
 - Pre-cut squares stack well in a tin if separated by parchment circles between layers.
 - The crumb base can be made 24 hours ahead and pressed; the rest of the bars assembled the next day.

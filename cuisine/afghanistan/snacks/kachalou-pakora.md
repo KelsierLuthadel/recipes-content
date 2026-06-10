@@ -21,7 +21,7 @@ Kachalou pakora are Afghan-style battered potato slices, fried crisp and dusted 
 - 1 ½ teaspoons salt
 - 1 teaspoon turmeric
 - 1 teaspoon Kashmiri red chilli powder
-- 1 teaspoon ajwain seeds (carom - sold at Indian shops)
+- 1 teaspoon ajwain seeds (carom, sold at Indian shops)
 - 1 teaspoon ground coriander
 - ½ teaspoon ground cumin
 - 3 garlic cloves (crushed to a paste)
@@ -29,7 +29,7 @@ Kachalou pakora are Afghan-style battered potato slices, fried crisp and dusted 
 - 250-280 ml cold water
 
 ### Potatoes
-- 4 waxy potatoes (medium, about 700 g - peeled and sliced into 3 mm rounds)
+- 4 waxy potatoes (medium, about 700 g, peeled and sliced into 3 mm rounds)
 - 1 teaspoon salt (for prepping)
 
 ### For frying
@@ -52,7 +52,7 @@ Kachalou pakora are Afghan-style battered potato slices, fried crisp and dusted 
 
 ### Stage 1 - Batter
 1. In a wide bowl, whisk besan, rice flour, salt, turmeric, chilli, ajwain, coriander, cumin, baking soda and garlic.
-1. Slowly pour in cold water, whisking smoothly to a thick pourable batter - like double cream.
+1. Slowly pour in cold water, whisking smoothly to a thick pourable batter, like double cream.
 1. Rest 10 minutes.
 
 ### Stage 2 - Potatoes

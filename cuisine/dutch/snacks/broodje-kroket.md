@@ -67,7 +67,7 @@ The broodje kroket is one of the Netherlands' most identity-defining quick lunch
 1. With floured hands, take a 100-120 g portion of the cold ragout.
 2. Shape into a cylinder about 8-10 cm long, 3 cm wide.
 3. Place on a tray lined with parchment.
-4. Repeat - you should make about 8-10 krokets from one batch of ragout (extras can be frozen).
+4. Repeat, you should make about 8-10 krokets from one batch of ragout (extras can be frozen).
 
 ### Stage 3 - Bread the krokets
 1. Set up 3 shallow dishes: one with flour, one with beaten egg, one with breadcrumbs.
@@ -111,12 +111,12 @@ The broodje kroket is one of the Netherlands' most identity-defining quick lunch
 
 ## Variations
 **Kalfsragout kroket (veal):** swap beef for veal; the more refined Dutch upscale variant.
-**Pittige kroket (spicy):** add 1 teaspoon of sambal oelek and a pinch of cayenne to the ragout - the Indonesian-Dutch crossover.
-**Goulash kroket:** add 1 tablespoon paprika to the ragout - the Hungarian-Dutch variant; very popular at Dutch fast-food counters.
+**Pittige kroket (spicy):** add 1 teaspoon of sambal oelek and a pinch of cayenne to the ragout, the Indonesian-Dutch crossover.
+**Goulash kroket:** add 1 tablespoon paprika to the ragout, the Hungarian-Dutch variant; very popular at Dutch fast-food counters.
 **Kaasbouquet (cheese kroket):** swap the beef for a thick cheese-and-béchamel filling (aged Gouda + Parmesan + thick béchamel); the same breading and frying. The cheese-shop classic.
 **Vegetarian kroket:** swap beef for a slow-cooked shredded king oyster mushroom + chestnut mushroom ragout; the same velouté binding.
 **Chicken kroket:** swap beef for slow-cooked shredded chicken thigh; lighter, paler ragout.
-**Goulash-kroket sandwich:** add a slice of fresh tomato and a leaf of lettuce alongside the kroket - the Toronto-style upgrade.
+**Goulash-kroket sandwich:** add a slice of fresh tomato and a leaf of lettuce alongside the kroket, the Toronto-style upgrade.
 **Mini kroketten for canapés:** make 16 smaller (5 cm) krokets; serve at a Dutch borrel reception.
 
 ## Serving
@@ -126,6 +126,6 @@ At a FEBO automaten cafeteria (the traditional setting; sells thousands daily in
 - The breaded uncooked krokets freeze excellently 3 months on a tray then bagged. Fry from frozen at 180°C, allow 7-8 minutes (slightly longer than from chilled).
 - The ragout (before shaping) refrigerates 5 days; freezes 3 months.
 - Cooked krokets are best within 5 minutes of frying.
-- Don't reheat cooked krokets - the breading goes soft.
+- Don't reheat cooked krokets, the breading goes soft.
 - The fresh rolls are best the day they're bought; if you have to plan ahead, freeze the rolls and defrost the morning of.
 - A typical Dutch home freezes a batch of breaded uncooked krokets for last-minute Saturday lunches.

@@ -78,7 +78,7 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 1. Tip the bread-and-milk mixture into a blender.
 2. Add the aji-amarillo-onion mixture.
 3. Add the toasted walnuts.
-4. Blend 2-3 minutes till perfectly smooth - a velvety, electric-yellow sauce.
+4. Blend 2-3 minutes till perfectly smooth, a velvety, electric-yellow sauce.
 
 ### Stage 6 - Cook the sauce
 1. Pour the blended sauce back into the saucepan.
@@ -102,19 +102,19 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 
 ## Notes
 - **Aji amarillo paste is non-negotiable:** sold in jars at Latin American shops (Inka Crops, Doña Isabel are common brands); or buy dried whole aji amarillos and rehydrate-blitz them yourself.
-- **Bread-and-milk thickener:** white bread + evaporated milk + chicken broth is the Peruvian way. Don't substitute flour or cornflour - the texture is wrong.
+- **Bread-and-milk thickener:** white bread + evaporated milk + chicken broth is the Peruvian way. Don't substitute flour or cornflour, the texture is wrong.
 - **Shred chicken by hand:** thin threads, not chunks. The mouth-feel matters.
-- **The criolla garnish (egg, olive, potato, parsley) is traditional:** don't skip - the colour and the contrast are essential to the dish.
+- **The criolla garnish (egg, olive, potato, parsley) is traditional:** don't skip, the colour and the contrast are essential to the dish.
 - **Walnuts toasted:** dry-toast in a frying pan 4-5 minutes till fragrant. Untoasted walnuts give a flat finish.
 - **Parmesan is optional but standard in modern recipes:** the 18th-century version didn't include it; modern Lima restaurants almost all do.
 
 ## Variations
-**Aji de mariscos:** swap chicken for cooked prawns, scallops, or octopus - the seafood variant.
-**Aji de pollo with raisins:** add 50 g raisins to the sauce - the rural-Peruvian sweet variant.
-**Vegetarian aji de soya:** swap chicken for slow-cooked shredded soya pieces - the vegan Andean variant.
-**Modern Lima restaurant aji de gallina:** add a poached egg on top instead of hard-boiled - the brunch variant.
-**Aji de gallina sanguche:** the sandwich version - pile the cooked filling into a fresh roll with avocado and pickled red onion.
-**Aji de pollo with quinoa:** serve over Andean quinoa instead of rice - the modern healthy variant.
+**Aji de mariscos:** swap chicken for cooked prawns, scallops, or octopus, the seafood variant.
+**Aji de pollo with raisins:** add 50 g raisins to the sauce, the rural-Peruvian sweet variant.
+**Vegetarian aji de soya:** swap chicken for slow-cooked shredded soya pieces, the vegan Andean variant.
+**Modern Lima restaurant aji de gallina:** add a poached egg on top instead of hard-boiled, the brunch variant.
+**Aji de gallina sanguche:** the sandwich version, pile the cooked filling into a fresh roll with avocado and pickled red onion.
+**Aji de pollo with quinoa:** serve over Andean quinoa instead of rice, the modern healthy variant.
 
 ## Serving
 At a Lima criolla restaurant (the traditional setting) · at a Peruvian family Sunday lunch · at a Peruvian Independence Day (28 July) celebration · at a Peruvian household for a comfort-food dinner · at any chifa or criolla restaurant in Lima, Cusco, Arequipa or Trujillo · paired with chicha morada or a glass of cold Cusqueña lager.
@@ -123,5 +123,5 @@ At a Lima criolla restaurant (the traditional setting) · at a Peruvian family S
 - Refrigerates 4 days; reheats well on the stovetop with a splash of milk to loosen.
 - Freezes 2 months in airtight containers.
 - The sauce thickens in the fridge; reheat with a splash of milk or broth to loosen.
-- Day-2 aji de gallina is often better than fresh - the flavours marry overnight.
+- Day-2 aji de gallina is often better than fresh, the flavours marry overnight.
 - The shredded chicken can be poached 3 days ahead and refrigerated; the sauce can be made 2 days ahead.

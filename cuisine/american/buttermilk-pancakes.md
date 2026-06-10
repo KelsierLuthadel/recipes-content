@@ -40,7 +40,7 @@ Tall, soft, caramel-coloured pancakes that pour into the kind of weekend breakfa
 1. In another bowl, whisk the buttermilk, eggs, melted butter and vanilla.
 
 ### Stage 3 - Combine and rest
-1. Pour the wet into the dry; whisk briefly with a fork - STOP while there are still lumps. Overmixing = chewy pancakes.
+1. Pour the wet into the dry; whisk briefly with a fork, STOP while there are still lumps. Overmixing = chewy pancakes.
 1. Rest 10 minutes.
 
 ### Stage 4 - Cook

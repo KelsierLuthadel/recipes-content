@@ -7,9 +7,9 @@ seasonalrange: 02-01..02-15
 kind: festival
 ---
 
-Valentine's Day in the kitchen is the small dinner: two plates, the good cutlery, a candle on the table. The food leans rich rather than abundant - one carefully cooked main rather than a parade of courses. A steak with a pan sauce. A beef Wellington if you are ambitious. A salmon fillet on a bed of butter-sweated leeks if you want light. Mussels in white wine if you want quick and romantic.
+Valentine's Day in the kitchen is the small dinner: two plates, the good cutlery, a candle on the table. The food leans rich rather than abundant, one carefully cooked main rather than a parade of courses. A steak with a pan sauce. A beef Wellington if you are ambitious. A salmon fillet on a bed of butter-sweated leeks if you want light. Mussels in white wine if you want quick and romantic.
 
-The dessert does most of the heavy lifting. Chocolate is the convention, and the French dessert drawer is full of it: warm chocolate fondant with a molten centre, a deep dark chocolate mousse, profiteroles with chocolate sauce, a chocolate soufflé that has to come straight from the oven to the table. The lighter side - a lemon tart, a creme brulee, a single perfect tarte tatin - works just as well if the meal was already rich.
+The dessert does most of the heavy lifting. Chocolate is the convention, and the French dessert drawer is full of it: warm chocolate fondant with a molten centre, a deep dark chocolate mousse, profiteroles with chocolate sauce, a chocolate soufflé that has to come straight from the oven to the table. The lighter side, a lemon tart, a creme brulee, a single perfect tarte tatin, works just as well if the meal was already rich.
 
 There are no hard rules. The point is sitting down at the table together, not what is on the table.
 

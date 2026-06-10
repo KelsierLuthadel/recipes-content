@@ -26,7 +26,7 @@ This lesson covers fresh sausages (straightforward home project), semi-dry sausa
 2. **Grind.** Use a coarse plate (8 mm) for chunky sausages or a medium plate (4-5 mm) for smoother. Grind once.
 3. **Season.** Mix the salt and other seasonings into the ground meat thoroughly. Test the seasoning by frying a small patty before stuffing.
 4. **Soak casings.** Natural hog casings come in salt; rinse in cold water and soak in water with a splash of vinegar for 30 minutes to soften.
-5. **Stuff.** Slide a length of casing onto the stuffer nozzle. Stuff at low speed (or by hand) so the meat fills the casing tightly without trapping air pockets. Don't overfill - the casing should be plump but not bursting.
+5. **Stuff.** Slide a length of casing onto the stuffer nozzle. Stuff at low speed (or by hand) so the meat fills the casing tightly without trapping air pockets. Don't overfill, the casing should be plump but not bursting.
 6. **Twist into links.** Pinch the filled casing at intervals (10-12 cm for breakfast sausage, 15-20 cm for larger). Twist alternately in opposite directions to lock the links.
 7. **Hang briefly.** Hang in the fridge uncovered for 1-12 hours. The casing dries slightly and the seasoning equilibrates.
 
@@ -124,7 +124,7 @@ Beef middles (the larger casings, around 50-60 mm diameter) are the standard.
 ### Why This Is Harder Than Salumi
 
 Two extra failure modes:
-- **Fermentation can stall.** Wrong temperature, weak culture, contamination - the pH never drops, the cure does not develop the protective acidity, the salami is unsafe.
+- **Fermentation can stall.** Wrong temperature, weak culture, contamination, the pH never drops, the cure does not develop the protective acidity, the salami is unsafe.
 - **Texture defects.** Under-mixed mince: crumbly when sliced. Over-stuffed casing: bursts during fermentation. Wrong fat-to-meat ratio: greasy or dry.
 
 Start with a small batch (500 g - 1 kg of meat). Use a measured culture. Buy a pH meter. Follow the recipe exactly; this is not a freelancing project.
@@ -137,14 +137,14 @@ For the home charcuterist working through these courses, a sensible order is:
 2. Gravlax (2 days, low risk)
 3. Fresh sausages (immediate, low risk)
 4. Confit and rillettes (1 day cook, low risk)
-5. Bresaola (8 weeks, moderate risk - needs chamber)
+5. Bresaola (8 weeks, moderate risk, needs chamber)
 6. Coppa, lonza, pancetta arrotolata (8-10 weeks, moderate risk)
 7. Semi-dry smoked sausages (3 weeks, low-moderate risk)
-8. Dry-cured salami (8-12 weeks, higher risk - needs chamber + fermentation + pH meter)
+8. Dry-cured salami (8-12 weeks, higher risk, needs chamber + fermentation + pH meter)
 
 Each step builds skill and equipment investment.
 
 ## Where Next
 - [Salumi](salumi.md): whole-muscle cures, the same chamber.
-- [Smoking](smoking.md): the next dimension - smoked fresh sausages, cold-smoked salumi.
+- [Smoking](smoking.md): the next dimension, smoked fresh sausages, cold-smoked salumi.
 - [Safety](safety.md): re-read before any dry-cured salami batch. This is the highest-risk project in the course.

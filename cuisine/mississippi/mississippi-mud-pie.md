@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 4 hours chilling)
 
 ## Overview
-Mississippi mud pie is named for the dark, dense mud of the Mississippi riverbank - and the dessert is named to match: layered chocolate, deeply rich, slightly cracked on top, with the dark colour and dense texture the name promises. The recipe was popularised in the 1970s as a Southern dinner-party showpiece; every Mississippi grandmother now has a version, and most disagree about which layers are essential.
+Mississippi mud pie is named for the dark, dense mud of the Mississippi riverbank, and the dessert is named to match: layered chocolate, deeply rich, slightly cracked on top, with the dark colour and dense texture the name promises. The recipe was popularised in the 1970s as a Southern dinner-party showpiece; every Mississippi grandmother now has a version, and most disagree about which layers are essential.
 
 This version follows the most common Mississippi template: chocolate cookie crust, baked flourless chocolate cake layer (the "mud"), soft chocolate pudding layer (sometimes called the "swamp"), and whipped cream on top. Some recipes add a marshmallow or pecan layer; the version below leaves them out to keep the focus on chocolate. The pie sits in the fridge for at least 4 hours after assembly to firm up; overnight is better.
 

@@ -18,7 +18,7 @@ The Haudenosaunee winter one-pot built on the indigenous trinity of corn, beans 
 - 3 tablespoons sunflower oil
 - 1 onion (large, diced)
 - 4 garlic cloves (sliced)
-- 1 butternut squash (medium, peeled, seeded, cut into 2 ½ cm cubes - about 800 g prepared)
+- 1 butternut squash (medium, peeled, seeded, cut into 2 ½ cm cubes, about 800 g prepared)
 - 1 teaspoon dried sage
 - 1 teaspoon ground sumac (or substitute 2 teaspoons lemon juice at the end)
 - 1 teaspoon smoked paprika (modern; substitutes for hardwood-cooking smokiness)
@@ -68,10 +68,10 @@ The Haudenosaunee winter one-pot built on the indigenous trinity of corn, beans 
 1. Cornbread or frybread is the natural side.
 
 ## Notes
-- **Three sisters companion planting:** Corn provides the stalk for beans to climb; beans fix nitrogen for the corn and squash; squash's broad leaves shade the soil to keep moisture and discourage weeds. The three together feed each other in the field - and on the plate they form a complete protein.
+- **Three sisters companion planting:** Corn provides the stalk for beans to climb; beans fix nitrogen for the corn and squash; squash's broad leaves shade the soil to keep moisture and discourage weeds. The three together feed each other in the field, and on the plate they form a complete protein.
 - **Hominy vs sweetcorn:** Hominy (nixtamalised maize) is the authentic choice and has a fragrance sweetcorn lacks. Tinned hominy is widely available in international shops or online.
 - **Sage and squash:** Sage is the herb of this dish. Don't substitute thyme or rosemary; the flavour shifts entirely.
 
 ## Storage
-- Refrigerate 4 days; reheats beautifully - the stew thickens overnight and the flavour deepens.
+- Refrigerate 4 days; reheats beautifully, the stew thickens overnight and the flavour deepens.
 - Freezes 2 months.

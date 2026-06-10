@@ -62,7 +62,7 @@ Chettinad chicken curry comes from the Chettiar trading community of Tamil Nadu,
 1. Add curry leaves; sizzle 10 seconds.
 1. Add shallots; fry 8 minutes until deep gold.
 1. Add ginger and green chillies; cook 1 minute.
-1. Stir in the masala paste and ¼ teaspoon turmeric; fry 5-6 minutes, stirring, until the oil splits out (this is the key step - don't rush).
+1. Stir in the masala paste and ¼ teaspoon turmeric; fry 5-6 minutes, stirring, until the oil splits out (this is the key step, don't rush).
 1. Add tomato; cook 4 minutes until soft.
 
 ### Stage 4 - Add chicken

@@ -49,7 +49,7 @@ Nigeria's steamed bean pudding, the small ramekin (or banana-leaf parcel) that t
 
 ### Stage 1 - Peel the beans
 1. Place dried beans in a wide bowl; cover with hot water; soak 30 minutes.
-1. Drain. Working in batches, rub the beans firmly between your palms in fresh cool water - the skins lift off and float. Tip off the water with the skins.
+1. Drain. Working in batches, rub the beans firmly between your palms in fresh cool water, the skins lift off and float. Tip off the water with the skins.
 1. Repeat until most skins are gone (some persistent ones are fine).
 1. Soak the peeled beans in fresh water 30 more minutes; drain.
 
@@ -59,7 +59,7 @@ Nigeria's steamed bean pudding, the small ramekin (or banana-leaf parcel) that t
 
 ### Stage 3 - Mix the batter
 1. Tip the batter into a wide bowl.
-1. Whisk in the palm oil - keep whisking until fully incorporated (the colour shifts to a glowing red-orange).
+1. Whisk in the palm oil, keep whisking until fully incorporated (the colour shifts to a glowing red-orange).
 1. Add ground crayfish, crumbled stock cube, salt, nutmeg and breadcrumbs.
 1. Stir to combine.
 
@@ -74,13 +74,13 @@ Nigeria's steamed bean pudding, the small ramekin (or banana-leaf parcel) that t
 1. Cover each ramekin with a small piece of foil.
 1. Place ramekins on the rack; the water should not touch them.
 1. Cover with a tight lid (an old saucer on top of foil makes a good seal).
-1. Steam 50-60 minutes - the moin moin is done when set firm, no jiggle in the centre.
+1. Steam 50-60 minutes, the moin moin is done when set firm, no jiggle in the centre.
 1. Top up the water as needed every 20 minutes.
 
 ### Stage 6 - Cool and serve
 1. Lift out the ramekins; cool 10 minutes.
 1. Run a knife around the edge; invert onto a plate.
-1. Serve warm - with jollof rice, plain rice, ogi (corn porridge), or just bread.
+1. Serve warm, with jollof rice, plain rice, ogi (corn porridge), or just bread.
 
 ## Notes
 - **Skin removal is essential:** Black-eyed bean skins make moin moin gritty and slightly bitter. The rubbing-and-floating-off method works; food processors with a pulse function also help. Skip this step at your peril.

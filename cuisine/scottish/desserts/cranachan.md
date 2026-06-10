@@ -20,7 +20,7 @@ Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland'
 - 400 ml double cream (very cold)
 - 60 g icing sugar (sifted)
 - 4 tablespoons heather honey (or other good runny honey)
-- 4 tablespoons single-malt Scotch whisky (Highland: Glenmorangie, Dalmore; or Speyside: Glenlivet, Macallan - not heavily peated)
+- 4 tablespoons single-malt Scotch whisky (Highland: Glenmorangie, Dalmore; or Speyside: Glenlivet, Macallan, not heavily peated)
 - 500 g fresh raspberries (Scottish if you can get them; frozen-and-thawed in winter)
 - A few extra raspberries and toasted oats for garnish
 - 1 teaspoon vanilla extract (optional)
@@ -40,12 +40,12 @@ Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland'
 1. Heat a dry heavy-bottomed pan over medium heat.
 2. Add the pinhead oatmeal.
 3. Toast, stirring constantly, for 4-5 minutes till golden-brown and intensely fragrant (smells of toasted oats and slight caramel).
-4. Don't let them burn - keep moving.
+4. Don't let them burn, keep moving.
 5. Tip onto a cold plate to stop the cooking; cool completely.
 
 ### Stage 2 - Crush the raspberries (slightly)
 1. Place 400 g of the raspberries in a bowl.
-2. Crush gently with a fork - you want about half-crushed, half-whole.
+2. Crush gently with a fork, you want about half-crushed, half-whole.
 3. Drizzle with 2 tablespoons of the honey.
 4. Let sit 10 minutes to draw out the juice (gives a beautiful syrup).
 
@@ -82,18 +82,18 @@ Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland'
 4. Pair with a small dram of the same whisky alongside.
 
 ## Notes
-- **Pinhead oatmeal toasted DRY:** the traditional Scottish cut. Rolled oats won't have the same crunch. Don't toast in butter - dry pan only.
+- **Pinhead oatmeal toasted DRY:** the traditional Scottish cut. Rolled oats won't have the same crunch. Don't toast in butter, dry pan only.
 - **Fresh raspberries are essential:** the slight tartness balances the cream and honey. Frozen is acceptable in winter but Scottish-grown Tayside raspberries are the ideal.
 - **Heather honey is traditional:** any runny honey works, but heather honey has the floral edge that distinguishes Scottish cranachan from generic versions.
 - **Don't whip the cream stiff:** soft peaks. The cream should flow softly over the oats, not sit on top in stiff blobs.
 - **Assemble JUST before serving:** the toasted oats go soft within 20-30 minutes. Don't make this 2 hours ahead.
 
 ## Variations
-**Cream-crowdie variant:** fold 100 g crowdie cheese into the whipped cream - adds a tangy edge.
-**Brambleberry cranachan (autumn):** swap raspberries for fresh brambles (blackberries) - the autumn variant when raspberry season ends.
-**Strawberry cranachan (summer):** swap raspberries for halved strawberries - softer, sweeter; less traditional.
-**Drambuie cranachan:** swap the Scotch for Drambuie (Scotch + honey + herbs liqueur) - sweeter, more aromatic.
-**Atholl Brose cranachan:** add a tablespoon of Atholl Brose (oat-infused whisky-honey) to the cream - adds depth.
+**Cream-crowdie variant:** fold 100 g crowdie cheese into the whipped cream, adds a tangy edge.
+**Brambleberry cranachan (autumn):** swap raspberries for fresh brambles (blackberries): the autumn variant when raspberry season ends.
+**Strawberry cranachan (summer):** swap raspberries for halved strawberries, softer, sweeter; less traditional.
+**Drambuie cranachan:** swap the Scotch for Drambuie (Scotch + honey + herbs liqueur): sweeter, more aromatic.
+**Atholl Brose cranachan:** add a tablespoon of Atholl Brose (oat-infused whisky-honey) to the cream, adds depth.
 **Layered as a trifle:** make in a large trifle dish for the centrepiece version (assemble just before serving still).
 **Mini cranachans in shot glasses:** for a canapé-style party; same ingredients, tiny portions.
 

@@ -34,7 +34,7 @@ Mlukhieh is the dark green summer stew of Palestinian kitchens, jute leaves chop
 - 4 tablespoons olive oil (or 2 tablespoons olive oil + 2 tablespoons ghee)
 - 10 garlic cloves (crushed)
 - 1 tablespoon ground coriander
-- 1 small bunch fresh coriander (chopped - both leaves and stems)
+- 1 small bunch fresh coriander (chopped, both leaves and stems)
 - ½ teaspoon chilli flakes
 
 ### To finish
@@ -44,7 +44,7 @@ Mlukhieh is the dark green summer stew of Palestinian kitchens, jute leaves chop
 ### To serve
 - 400 g basmati rice (cooked, fluffy)
 - 2 lemons (cut into wedges)
-- 1 red onion (small, diced and soaked briefly in vinegar - optional Palestinian-style relish)
+- 1 red onion (small, diced and soaked briefly in vinegar, optional Palestinian-style relish)
 - Khobz (or pita)
 
 ## Method
@@ -59,19 +59,19 @@ Mlukhieh is the dark green summer stew of Palestinian kitchens, jute leaves chop
 
 ### Stage 2 - Mlukhieh
 1. Bring the strained stock back to a simmer.
-1. Add the frozen mlukhieh straight into the pot (no need to defrost - drop it in frozen).
+1. Add the frozen mlukhieh straight into the pot (no need to defrost, drop it in frozen).
 1. Stir; bring back to a gentle simmer; cook 20-25 minutes. The mlukhieh thaws and integrates; the stock thickens slightly into a dark green soup.
-1. Don't boil hard - the mlukhieh "breaks" with rough boiling.
+1. Don't boil hard, the mlukhieh "breaks" with rough boiling.
 
 ### Stage 3 - Tarka (the Palestinian signature)
 1. Heat olive oil (or oil-ghee mix) in a wide pan over medium heat.
-1. Add crushed garlic; cook 1 minute - stir constantly, don't let it brown.
+1. Add crushed garlic; cook 1 minute, stir constantly, don't let it brown.
 1. Add ground coriander; stir 30 seconds.
 1. Off heat; stir in fresh coriander and Aleppo pepper.
 
 ### Stage 4 - Combine
 1. Tip the tarka into the simmering mlukhieh.
-1. The pot will hiss and bubble vigorously - this is what infuses the dish with garlic-and-coriander aroma.
+1. The pot will hiss and bubble vigorously, this is what infuses the dish with garlic-and-coriander aroma.
 1. Stir well.
 1. Simmer 5 more minutes.
 1. Season with extra salt and pepper to taste.
@@ -85,7 +85,7 @@ Mlukhieh is the dark green summer stew of Palestinian kitchens, jute leaves chop
 
 ## Notes
 - **Frozen mlukhieh is the easy choice:** Sold at almost any Middle Eastern shop in 400-500g bags. Pre-chopped, ready to use. Dried whole leaves require more work (soaking, chopping); fresh is impossible to find outside the region.
-- **Don't boil hard:** Vigorous boiling causes the mlukhieh to "break" - the texture goes lumpy and the colour murky. Gentle simmer throughout.
+- **Don't boil hard:** Vigorous boiling causes the mlukhieh to "break", the texture goes lumpy and the colour murky. Gentle simmer throughout.
 - **Tarka in last:** Frying the garlic and coriander separately and stirring in at the end is the Palestinian touch. Egyptian molokhia adds the garlic differently; the Palestinian version is bolder and more garlic-forward.
 
 ## Storage

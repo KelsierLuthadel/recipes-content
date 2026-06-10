@@ -37,13 +37,13 @@ The eight-day Passover diet rests on matzo, and matzo brei is the dish that turn
 
 ### Stage 1 - Soak the matzo
 1. Break the matzo into roughly 4 cm pieces and pile in a colander or wide bowl.
-2. Run warm (not hot) water over the pieces for 10-15 seconds, turning with your hands so every piece gets wet. The matzo softens fast - over-soak and it turns to porridge; under-soak and it stays sharp at the edges.
+2. Run warm (not hot) water over the pieces for 10-15 seconds, turning with your hands so every piece gets wet. The matzo softens fast, over-soak and it turns to porridge; under-soak and it stays sharp at the edges.
 3. Drain in the colander and press gently to release excess water. The pieces should feel pliable but still have some texture, like a wet sponge.
 
 ### Stage 2 - Mix with egg
 1. Crack the eggs into a wide bowl. Add the salt and pepper. Beat with a fork until uniform.
 2. Tip the drained matzo into the eggs. Fold gently with a spatula until every piece is coated.
-3. Let the mixture sit for 2 minutes. The matzo continues to absorb the egg and the mix tightens. This rest matters - a quick cook from a wet mix gives mushy brei.
+3. Let the mixture sit for 2 minutes. The matzo continues to absorb the egg and the mix tightens. This rest matters, a quick cook from a wet mix gives mushy brei.
 
 ### Stage 3 - Cook
 1. Heat the butter in a medium non-stick frying pan over a medium heat until it bubbles vigorously but is not browning.
@@ -52,7 +52,7 @@ The eight-day Passover diet rests on matzo, and matzo brei is the dish that turn
 4. **For the scrambled style**: after 1 minute, start breaking the matzo brei into large rough chunks with a spatula and stirring gently. Continue for 2-3 minutes until the eggs are set but still soft, the matzo pieces holding shape but warmed through.
 
 ### Stage 4 - Finish
-1. **Sweet**: top with sour cream, a spoon of jam, and a generous shake of cinnamon sugar. The classic combination is half-sweet-half-savoury - sour cream on one half, jam on the other.
+1. **Sweet**: top with sour cream, a spoon of jam, and a generous shake of cinnamon sugar. The classic combination is half-sweet-half-savoury, sour cream on one half, jam on the other.
 2. **Savoury**: top with cream cheese, a few slices of smoked salmon, chopped chives, a squeeze of lemon.
 
 ## Notes
@@ -64,4 +64,4 @@ The eight-day Passover diet rests on matzo, and matzo brei is the dish that turn
 On warm plates straight from the pan, with strong coffee. Beside a bowl of fresh berries or a half-grapefruit if you want to dress it up.
 
 ## Storage
-Best fresh - the texture suffers on reheating. Leftovers keep in a covered container in the fridge for 1 day; refresh in a hot non-stick pan for 2 minutes if you must.
+Best fresh, the texture suffers on reheating. Leftovers keep in a covered container in the fridge for 1 day; refresh in a hot non-stick pan for 2 minutes if you must.

@@ -2,7 +2,7 @@
 
 ![Texas Chili](resources/texas-chili.jpg)
 
-*Texas's purist chili: cubed beef chuck slow-cooked with dried ancho and guajillo chillies, garlic, cumin, oregano and Mexican spices into a rich smoky red stew. No beans. No tomatoes. No filler. The Lone Star State's "chili con carne" - beef and chillies and nothing else. The dish that defines Texan stubbornness about food.*
+*Texas's purist chili: cubed beef chuck slow-cooked with dried ancho and guajillo chillies, garlic, cumin, oregano and Mexican spices into a rich smoky red stew. No beans. No tomatoes. No filler. The Lone Star State's "chili con carne", beef and chillies and nothing else. The dish that defines Texan stubbornness about food.*
 
 **Serves:** 6-8
 

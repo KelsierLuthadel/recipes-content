@@ -15,11 +15,11 @@ The technique is closer to applejack than to whisky:
 2. Distil once on a pot still, applying the cuts technique
 3. Optionally age in oak
 
-The result is a clear, intensely peach-perfumed spirit at around 50-60% ABV. Drunk neat after a meal, used in cocktails, or - at lower proof - taken straight in a cordial style.
+The result is a clear, intensely peach-perfumed spirit at around 50-60% ABV. Drunk neat after a meal, used in cocktails, or, at lower proof, taken straight in a cordial style.
 
 **Methanol warning specifically for peach brandy:**
 
-Fruit washes - including peach - produce 5-10x more methanol than grain washes due to the high pectin in fruit. Apply the AGGRESSIVE foreshots cut: **100 ml per gallon of wash**, not the 50 ml used for grain. For a 5-gallon peach wash, discard the first 500 ml. See the [safety page](safety.md) for the full methanol section.
+Fruit washes, including peach, produce 5-10x more methanol than grain washes due to the high pectin in fruit. Apply the AGGRESSIVE foreshots cut: **100 ml per gallon of wash**, not the 50 ml used for grain. For a 5-gallon peach wash, discard the first 500 ml. See the [safety page](safety.md) for the full methanol section.
 
 ## Ingredients (5-gallon wash)
 
@@ -28,16 +28,16 @@ The yield is the variable. Expect about 1 litre of finished spirit from 5 gallon
 - **6-7 kg ripe peaches** (about 30-40 medium peaches; stones removed)
 - 2 kg cane sugar (peaches are sweet but not sweet enough; the added sugar drives ABV to fermentation-friendly levels)
 - 15 litres water
-- 25 g distiller's yeast (Lalvin 71B or any fruit wine yeast - bread yeast works in a pinch but gives lower-quality results)
+- 25 g distiller's yeast (Lalvin 71B or any fruit wine yeast, bread yeast works in a pinch but gives lower-quality results)
 - 5 g yeast nutrient (DAP)
-- 1 tsp pectic enzyme (optional but recommended - breaks down pectin, which both increases yield and reduces methanol)
+- 1 tsp pectic enzyme (optional but recommended, breaks down pectin, which both increases yield and reduces methanol)
 
 ## Method
 
 ### Stage 1 - Prepare the peaches
 1. **Pit the peaches.** Cut around the stone, twist, discard the stones. Keep some skins on (they hold colour and a small amount of flavour), but tear them to release juice.
    
-   **A note on stones**: peach stones contain trace amounts of amygdalin, which breaks down to cyanide. Distillers historically removed stones to avoid this, but a few traditions (some Slavic plum brandies, the Italian "nocino" tradition) deliberately include some stones for a faint marzipan note. For peach brandy, REMOVE all stones - the amount of amygdalin is small but unnecessary, and the cuts technique already strips most flavour compounds.
+   **A note on stones**: peach stones contain trace amounts of amygdalin, which breaks down to cyanide. Distillers historically removed stones to avoid this, but a few traditions (some Slavic plum brandies, the Italian "nocino" tradition) deliberately include some stones for a faint marzipan note. For peach brandy, REMOVE all stones, the amount of amygdalin is small but unnecessary, and the cuts technique already strips most flavour compounds.
 
 2. **Roughly chop or pulp** the peaches. A potato masher or a quick run through a food processor works. You want a chunky pulp, not a smooth purée.
 
@@ -52,13 +52,13 @@ The yield is the variable. Expect about 1 litre of finished spirit from 5 gallon
 ### Stage 3 - Ferment
 1. Ferment 7-12 days at 18-22 °C (peach yeast works best at slightly cooler temperatures than grain yeast).
 2. Bubbles should be vigorous in the first 3 days, slowing toward the end of week one.
-3. Stir the wash every 2 days for the first 4 days - the peach pulp will float on top; pushing it back down helps fermentation.
+3. Stir the wash every 2 days for the first 4 days, the peach pulp will float on top; pushing it back down helps fermentation.
 4. Fermentation is complete when bubbling stops and a specific gravity reading is stable around 0.990-1.000.
 5. Expected wash ABV: 6-8%.
 
 ### Stage 4 - Strain
 1. Strain the wash through cheesecloth or a wide-mesh strainer into the still boiler. The strained peach pulp can be composted.
-2. The pulp retains some alcohol - squeezing it firmly recovers a litre or so of additional wash. Worth doing.
+2. The pulp retains some alcohol, squeezing it firmly recovers a litre or so of additional wash. Worth doing.
 3. Total wash should be about 13 litres at this point.
 
 ### Stage 5 - Distil
@@ -68,7 +68,7 @@ This is a single distillation. Apply the cuts technique from [safety.md](safety.
 2. **Heat slowly.** The wash will start vaporising around 78 °C.
 3. **Discard foreshots**: 500 ml for a 5-gallon wash. DO NOT TASTE.
 4. **Discard heads**: another 100-200 ml. Smell test: heads will smell of acetone and harsh peach-ester; hearts will smell of clean peach.
-5. **Collect hearts**: typically 70-80% ABV at the parrot early in the run, dropping toward 60-65% mid-run. The hearts are 1-1.5 litres of brilliant clear spirit. The smell when fresh is unmistakable - fresh peach, with a clean spirit warmth behind it.
+5. **Collect hearts**: typically 70-80% ABV at the parrot early in the run, dropping toward 60-65% mid-run. The hearts are 1-1.5 litres of brilliant clear spirit. The smell when fresh is unmistakable, fresh peach, with a clean spirit warmth behind it.
 6. **Stop when parrot reads below 50% ABV.** Late tails picks up oily, vegetal notes that don't belong in peach brandy.
 
 ### Stage 6 - Cut and either bottle or barrel
@@ -79,8 +79,8 @@ This is a single distillation. Apply the cuts technique from [safety.md](safety.
 - Bottle in clean glass.
 
 **For aged peach brandy (amber, traditional Southern style):**
-- Cut to 55-60% ABV before barrelling (lower than whisky's 62.5% rule - peach is delicate and over-extracts oak fast).
-- Age in a 5-gallon American oak barrel ([see aging-small-barrels](aging-small-barrels.md)). Char #2 or #3 - peach doesn't need the aggressive #4 alligator char that bourbon does.
+- Cut to 55-60% ABV before barrelling (lower than whisky's 62.5% rule, peach is delicate and over-extracts oak fast).
+- Age in a 5-gallon American oak barrel ([see aging-small-barrels](aging-small-barrels.md)). Char #2 or #3, peach doesn't need the aggressive #4 alligator char that bourbon does.
 - Age 3-6 months in a small barrel. Taste at month 2; bottle when balanced (the oak should support the peach, not dominate it).
 - Cut to 40-45% ABV when bottling.
 
@@ -116,6 +116,6 @@ A bad peach brandy: harsh (foreshots not cut properly), or vegetal-bitter (tails
 - Refrigeration unnecessary; cool dark cupboard is fine.
 
 ## See also
-- [Applejack](applejack.md) - the apple counterpart, similar technique
-- [Whisky (the umbrella)](whisky.md) - the base distillation process
-- [Aging in small barrels](aging-small-barrels.md) - for the aged version
+- [Applejack](applejack.md): the apple counterpart, similar technique
+- [Whisky (the umbrella)](whisky.md): the base distillation process
+- [Aging in small barrels](aging-small-barrels.md): for the aged version

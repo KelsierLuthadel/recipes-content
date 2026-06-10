@@ -18,7 +18,7 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 ### The herbal infusion
 - 100 g pearl barley (substitute: half barley, half rolled oats)
 - 30 g flax seeds (linaza)
-- 4 tablespoons dried horsetail leaves (cola de caballo) - sold at health-food shops or Latin American shops
+- 4 tablespoons dried horsetail leaves (cola de caballo): sold at health-food shops or Latin American shops
 - 2 tablespoons dried alfalfa leaves (optional but traditional)
 - 4 dried boldo leaves OR 2 tablespoons dried boldo (optional but traditional)
 - 1 cinnamon stick
@@ -34,8 +34,8 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 - (Optional: a small thin slice of ginger added during the simmer)
 
 ### Optional medicinal/herbal additions (the Peruvian street-vendor extras)
-- A pinch of muña (Andean mint) - rare outside Peru
-- A small pinch of camu camu powder - the Amazon vitamin-C berry
+- A pinch of muña (Andean mint): rare outside Peru
+- A small pinch of camu camu powder, the Amazon vitamin-C berry
 
 ### To serve
 - Hot, in small ceramic mugs or paper cups (the traditional street-vendor serving)
@@ -44,8 +44,8 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 ## Method
 
 ### Stage 1 - Soak the flax (optional)
-1. (Optional - some Peruvian recipes call for this; others skip.) Place the flax seeds in a small bowl with 200 ml of cold water; let stand 12 hours (overnight). The flax releases its gel-like mucilage into the water; this gel goes into the emoliente for body.
-2. If you don't have 12 hours, skip this - the flax goes in dry and releases mucilage during cooking.
+1. (Optional, some Peruvian recipes call for this; others skip.) Place the flax seeds in a small bowl with 200 ml of cold water; let stand 12 hours (overnight). The flax releases its gel-like mucilage into the water; this gel goes into the emoliente for body.
+2. If you don't have 12 hours, skip this, the flax goes in dry and releases mucilage during cooking.
 
 ### Stage 2 - Toast the barley
 1. Heat a heavy frying pan over medium heat (no oil).
@@ -58,7 +58,7 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 2. Add the 2.5 litres of water.
 3. Bring to a gentle boil.
 4. Reduce to a low simmer; cover loosely.
-5. Cook 30-35 minutes - the broth should reduce by about 1/5 and become slightly thick / cloudy from the released mucilage.
+5. Cook 30-35 minutes, the broth should reduce by about 1/5 and become slightly thick / cloudy from the released mucilage.
 
 ### Stage 4 - Strain
 1. Strain through a fine sieve into a clean pot.
@@ -91,14 +91,14 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 - **Drink hot:** emoliente is a hot drink. Cold emoliente loses its character.
 
 ## Variations
-**Emoliente sin aloe:** for the aloe-averse - skip the aloe; double the flax for body.
-**Emoliente con maca:** add 1 tablespoon of maca powder to the brew - the modern Peruvian energy variant.
-**Emoliente con quinoa:** add 30 g cooked quinoa to the strained brew - the modern healthy variant.
-**Emoliente with ginger:** double the ginger - the cold-and-flu variant.
-**Emoliente con limonada:** mix half emoliente, half cold lemonade - the modern Lima cafe variant.
-**Iced emoliente (summer):** chill the strained brew; serve over ice with lime and honey - the modern summer variant.
+**Emoliente sin aloe:** for the aloe-averse, skip the aloe; double the flax for body.
+**Emoliente con maca:** add 1 tablespoon of maca powder to the brew, the modern Peruvian energy variant.
+**Emoliente con quinoa:** add 30 g cooked quinoa to the strained brew, the modern healthy variant.
+**Emoliente with ginger:** double the ginger, the cold-and-flu variant.
+**Emoliente con limonada:** mix half emoliente, half cold lemonade, the modern Lima cafe variant.
+**Iced emoliente (summer):** chill the strained brew; serve over ice with lime and honey, the modern summer variant.
 **Emoliente sin barley (lighter):** swap barley for rolled oats; lighter brew.
-**Emoliente con malta:** add 2 tablespoons of malt extract to the warm brew - the deeper, richer variant.
+**Emoliente con malta:** add 2 tablespoons of malt extract to the warm brew, the deeper, richer variant.
 
 ## Serving
 At a Peruvian street-cart at dawn (the traditional setting; emoliente vendors set up at 5 am and serve till mid-morning) · in any Peruvian town's main street · at a Peruvian Andean village square · at a Peruvian household as a Sunday-morning digestive · at a Peruvian Christmas Eve dinner as the morning-after recovery drink · at home as the herbal-tea alternative to coffee · paired with a slice of dense Andean bread or a small sweet biscuit.
@@ -109,4 +109,4 @@ At a Peruvian street-cart at dawn (the traditional setting; emoliente vendors se
 - The dry herbs (barley, flax, horsetail, alfalfa, boldo) keep indefinitely in sealed jars in a dry pantry.
 - A "emoliente concentrate" can be made 2x strength and diluted with hot water on demand.
 - The aloe vera leaf keeps refrigerated 2 weeks; once cut, use within a week.
-- Don't keep at room temperature for more than 2 hours - the mucilage allows bacterial growth.
+- Don't keep at room temperature for more than 2 hours, the mucilage allows bacterial growth.

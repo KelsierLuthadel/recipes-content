@@ -47,7 +47,7 @@ Honduran white rice is the foundation under every Honduran main, simple long-gra
 1. Plate alongside beans, meat and plantain.
 
 ## Notes
-- **Toast briefly:** 2 minutes is right - the rice should take on a slight gloss, not colour. Longer and it goes too nutty for the role.
+- **Toast briefly:** 2 minutes is right, the rice should take on a slight gloss, not colour. Longer and it goes too nutty for the role.
 - **Hot water:** Not cold. Cold water shocks the toasted grains and the rice cooks unevenly.
 - **No peeking:** The 18-minute cook is sacred; the steam does the work. Lifting the lid bleeds it away.
 

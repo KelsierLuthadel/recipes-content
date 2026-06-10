@@ -40,13 +40,13 @@ Hong Kong egg tarts are the snack you order with milk tea at a corner cha chaan 
 1. In a wide bowl, whisk flour, cornflour, icing sugar and salt.
 1. Rub in the cold lard (or butter + shortening) with fingertips until the mixture resembles coarse breadcrumbs.
 1. Add the egg yolk; mix with a fork.
-1. Bring together with your hands into a dough - add the cold water only if needed.
+1. Bring together with your hands into a dough, add the cold water only if needed.
 1. Press into a thick disc; wrap in cling film; refrigerate 30 minutes.
 
 ### Stage 2 - Roll and line
 1. Lightly grease the muffin tin wells.
 1. Roll the dough on a floured surface to about 3 mm thick.
-1. Cut out 12 circles, about 9 cm in diameter (slightly larger than the wells - a saucer or biscuit cutter works).
+1. Cut out 12 circles, about 9 cm in diameter (slightly larger than the wells, a saucer or biscuit cutter works).
 1. Press each circle gently into a muffin well, easing the dough up the sides so it just reaches the top edge.
 1. Don't stretch the dough or it'll shrink during baking.
 1. Refrigerate the lined tin 15 minutes while you make the custard.
@@ -57,11 +57,11 @@ Hong Kong egg tarts are the snack you order with milk tea at a corner cha chaan 
 1. Cool to room temperature.
 
 ### Stage 4 - Custard
-1. In a separate bowl, whisk the 4 eggs lightly - just enough to combine, not to foam.
+1. In a separate bowl, whisk the 4 eggs lightly, just enough to combine, not to foam.
 1. Slowly whisk in the cooled sugar syrup.
 1. Whisk in the evaporated milk and vanilla extract.
 1. Strain the custard through a fine sieve into a clean jug (catches the chalazae and any foam).
-1. Strain a SECOND time - Hong Kong egg tarts have a perfectly smooth glassy custard, and twice-straining is the trick.
+1. Strain a SECOND time, Hong Kong egg tarts have a perfectly smooth glassy custard, and twice-straining is the trick.
 1. Let stand 5 minutes; gently skim off any foam from the surface (foam gives a pocked baked surface).
 
 ### Stage 5 - Fill
@@ -71,11 +71,11 @@ Hong Kong egg tarts are the snack you order with milk tea at a corner cha chaan 
 ### Stage 6 - Bake
 1. Bake at 220°C for 8 minutes (sets the pastry edges).
 1. Reduce heat to 180°C (160°C fan); bake another 12-15 minutes.
-1. The custard is done when set but with the slightest jiggle in the very centre when the tin is tapped - NOT puffed, NOT cracked. If the custard puffs significantly, your oven is too hot; open the door briefly to release heat.
+1. The custard is done when set but with the slightest jiggle in the very centre when the tin is tapped, NOT puffed, NOT cracked. If the custard puffs significantly, your oven is too hot; open the door briefly to release heat.
 
 ### Stage 7 - Cool
 1. Cool in the tin 5 minutes (the custard finishes setting).
-1. Lift out gently - use a knife around the edges if they stick.
+1. Lift out gently, use a knife around the edges if they stick.
 1. Cool on a rack to warm or room temperature.
 
 ### Stage 8 - Serve
@@ -88,5 +88,5 @@ Hong Kong egg tarts are the snack you order with milk tea at a corner cha chaan 
 
 ## Storage
 - Best within 4 hours of baking.
-- Refrigerate 2 days; bring to room temperature 30 minutes before serving (or re-warm at 150°C 5 minutes - careful not to overcook the custard).
+- Refrigerate 2 days; bring to room temperature 30 minutes before serving (or re-warm at 150°C 5 minutes, careful not to overcook the custard).
 - Don't freeze; the custard texture suffers on thaw.

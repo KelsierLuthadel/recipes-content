@@ -2,7 +2,7 @@
 
 ![Fattah bil Lahma](resources/fattah-bil-lahma.jpg)
 
-*The Egyptian celebration dish: layered toasted bread (aysh baladi), rice, garlic-vinegar dakka sauce, tomato sauce, slow-braised lamb (or beef) and a drizzle of cooking liquor - assembled in a wide platter and eaten communally. Cooked for Eid al-Adha, weddings, Sham El-Nessim. A dish of celebration through and through.*
+*The Egyptian celebration dish: layered toasted bread (aysh baladi), rice, garlic-vinegar dakka sauce, tomato sauce, slow-braised lamb (or beef) and a drizzle of cooking liquor, assembled in a wide platter and eaten communally. Cooked for Eid al-Adha, weddings, Sham El-Nessim. A dish of celebration through and through.*
 
 **Serves:** 6
 
@@ -84,7 +84,7 @@ Fattah is the celebration dish of Egypt, served at Eid al-Adha and at weddings, 
 
 ### Stage 5 - Dakka
 1. In a small pan, melt the butter over medium heat.
-1. Add chopped garlic; sizzle 30-40 seconds - just gold, not brown.
+1. Add chopped garlic; sizzle 30-40 seconds, just gold, not brown.
 1. Stand back; pour in vinegar (it spits).
 1. Add coriander; sizzle 5 seconds. Off the heat.
 
@@ -104,7 +104,7 @@ Fattah is the celebration dish of Egypt, served at Eid al-Adha and at weddings, 
 ## Notes
 - **Order matters:** Bread under everything; rice in the middle; meat on top. Eat down through the layers.
 - **Dakka is the signature:** Don't skip the garlic-vinegar-butter step. The sour-sharp bite cuts the richness of the lamb.
-- **Make-ahead components:** Lamb, rice, tomato sauce all keep separately. Assemble fresh - the bread softens in storage.
+- **Make-ahead components:** Lamb, rice, tomato sauce all keep separately. Assemble fresh, the bread softens in storage.
 
 ## Storage
 - Components keep 3 days separately. Assembled fattah is best eaten same day.

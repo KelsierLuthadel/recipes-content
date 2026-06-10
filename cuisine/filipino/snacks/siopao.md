@@ -90,4 +90,4 @@ Siopao is the Filipino take on the Chinese steamed bun, brought to the Philippin
 ## Storage
 - Cooked buns refrigerate 3 days; re-steam 5-7 minutes to revive the soft texture.
 - Freeze cooked buns on a tray, then bag; re-steam 12-15 minutes from frozen.
-- Don't microwave - the dough turns gummy.
+- Don't microwave, the dough turns gummy.

@@ -78,7 +78,7 @@ The Coney Island hot dog is one of America's most regionally proud and naming-co
 
 ### Stage 7 - Serve immediately
 1. With crinkle fries and a cold soda.
-2. The proper Detroit order is "two with everything" - eaten standing at the counter.
+2. The proper Detroit order is "two with everything", eaten standing at the counter.
 
 ## Notes
 - **Coney sauce is finely textured, not chunky chili:** the meat must be very finely broken up. Some Detroit cooks pass it through a food mill.

@@ -54,7 +54,7 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 
 ### Stage 1 - Beat the beef
 1. Place each slice of beef between two sheets of cling film.
-2. Beat gently but firmly with a meat mallet (or the bottom of a heavy saucepan) till the slice is 3 mm thick - about 50% thinner than starting.
+2. Beat gently but firmly with a meat mallet (or the bottom of a heavy saucepan) till the slice is 3 mm thick, about 50% thinner than starting.
 3. Don't tear the meat; gentle blows till it stretches out.
 
 ### Stage 2 - Prep the fillings
@@ -67,7 +67,7 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
    - 2 slices of bacon
    - A handful of sliced onion (about 2 tablespoons)
    - 4 pickle wedges arranged across the width
-2. Don't overfill - the rolls need to close properly.
+2. Don't overfill, the rolls need to close properly.
 
 ### Stage 4 - Roll and tie
 1. Starting from the short end (the end with the pickles closest), roll the beef tightly around the filling.
@@ -122,16 +122,16 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 - **Strain the gravy:** smooth, glossy gravy is the traditional German style.
 
 ## Variations
-**Bavarian rouladen with bratwurst:** add a slice of bratwurst inside each roll alongside the bacon - heartier variant.
-**Rouladen with sauerkraut:** stuff with a small amount of sauerkraut alongside the pickle - even more sour.
-**Rouladen mit Pflaumen (plum rouladen):** add 1-2 prunes to the filling - sweet-savoury Berlin variant.
-**Modern open rouladen:** layer all the fillings on a single sheet of beef, fold once, and braise as one piece - easier, less traditional.
+**Bavarian rouladen with bratwurst:** add a slice of bratwurst inside each roll alongside the bacon, heartier variant.
+**Rouladen with sauerkraut:** stuff with a small amount of sauerkraut alongside the pickle, even more sour.
+**Rouladen mit Pflaumen (plum rouladen):** add 1-2 prunes to the filling, sweet-savoury Berlin variant.
+**Modern open rouladen:** layer all the fillings on a single sheet of beef, fold once, and braise as one piece, easier, less traditional.
 **Mini rouladen (canapé):** make smaller rolls (8-9 cm) with single-slice fillings; serve as starters.
 **Vegetarian rouladen:** use sliced aubergine or grilled portobello mushroom in place of beef; smoked tofu in place of bacon. Modern variant.
-**Pressure cooker rouladen:** brown then pressure-cook for 40 minutes high pressure - faster, less time for flavour development.
+**Pressure cooker rouladen:** brown then pressure-cook for 40 minutes high pressure, faster, less time for flavour development.
 
 ## Serving
-At a German Sunday family lunch (the traditional setting - the "Sonntagsbraten") · at a German Christmas Eve dinner · at a German wedding luncheon · at a German birthday celebration · at a Bavarian beer-hall as a special-occasion dish · at a German-themed dinner abroad · at home for a special Saturday-evening dinner-for-two with a bottle of Spätburgunder.
+At a German Sunday family lunch (the traditional setting, the "Sonntagsbraten") · at a German Christmas Eve dinner · at a German wedding luncheon · at a German birthday celebration · at a Bavarian beer-hall as a special-occasion dish · at a German-themed dinner abroad · at home for a special Saturday-evening dinner-for-two with a bottle of Spätburgunder.
 
 ## Storage
 - Refrigerates 3 days; the flavour deepens overnight.

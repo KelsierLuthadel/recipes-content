@@ -24,7 +24,7 @@ Patatas bravas are Spain's most-ordered tapa: twice-fried potato cubes drenched 
 - 4 tablespoons olive oil
 - 4 garlic cloves (minced)
 - 1 tablespoon plain flour
-- 1 tablespoon Pimentón de la Vera (smoked Spanish paprika - sweet or hot, your call)
+- 1 tablespoon Pimentón de la Vera (smoked Spanish paprika, sweet or hot, your call)
 - ¼ teaspoon cayenne (or to taste)
 - 400 g tomato passata (or 1 tin chopped tomatoes)
 - 2 tablespoons sherry vinegar (or red-wine vinegar)
@@ -81,4 +81,4 @@ Patatas bravas are Spain's most-ordered tapa: twice-fried potato cubes drenched 
 - Best eaten immediately.
 - Sauce keeps 5 days refrigerated (improves with time); reheat gently before serving.
 - Aioli 3 days refrigerated.
-- Cooked potatoes don't store - re-crisp leftover boiled potatoes by frying fresh to order.
+- Cooked potatoes don't store, re-crisp leftover boiled potatoes by frying fresh to order.

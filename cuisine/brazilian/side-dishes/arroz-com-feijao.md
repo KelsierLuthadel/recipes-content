@@ -103,23 +103,23 @@ Arroz com feijão (rice and beans) is the Brazilian daily staple, eaten at lunch
 - **Toast the rice:** the Brazilian technique. Don't skip the brief toast in oil with onion and garlic.
 - **Mash a cup of beans:** the trick to creamy bean broth. Don't skip.
 - **The pork element makes the beans:** ham hock, bacon, or smoked sausage. Vegetarian beans can be excellent but lose this signature note.
-- **Serve generously:** Brazilians eat large portions of rice and beans. Not a side dish - the centre of the plate.
+- **Serve generously:** Brazilians eat large portions of rice and beans. Not a side dish, the centre of the plate.
 
 ## Variations
-**Arroz com feijão carioca (brown beans):** swap black beans for the lighter brown "carioca" beans - São Paulo / Minas Gerais standard.
-**Feijão tropeiro (Minas Gerais):** stir cooked beans with bacon, sausage, kale, farofa, and a fried egg - one-pan version.
-**Arroz à grega (Greek-style rice):** add diced carrot, raisins, and peas to the rice - the Brazilian Christmas variant.
-**Arroz de festa (party rice):** rice + raisins + diced cooked ham + chopped olives - party version.
-**Vegetarian arroz com feijão:** skip the bacon/ham; use a vegetable stock and a few drops of liquid smoke - Brazilian vegetarian restaurants make this well.
-**Arroz com feijão preto (the Rio standard):** specifically black beans + white rice - the Rio version, as opposed to carioca beans elsewhere.
-**Arroz tropical:** rice with chopped tropical fruit (pineapple, mango) - modern Brazilian variant.
+**Arroz com feijão carioca (brown beans):** swap black beans for the lighter brown "carioca" beans, São Paulo / Minas Gerais standard.
+**Feijão tropeiro (Minas Gerais):** stir cooked beans with bacon, sausage, kale, farofa, and a fried egg, one-pan version.
+**Arroz à grega (Greek-style rice):** add diced carrot, raisins, and peas to the rice, the Brazilian Christmas variant.
+**Arroz de festa (party rice):** rice + raisins + diced cooked ham + chopped olives, party version.
+**Vegetarian arroz com feijão:** skip the bacon/ham; use a vegetable stock and a few drops of liquid smoke, Brazilian vegetarian restaurants make this well.
+**Arroz com feijão preto (the Rio standard):** specifically black beans + white rice, the Rio version, as opposed to carioca beans elsewhere.
+**Arroz tropical:** rice with chopped tropical fruit (pineapple, mango): modern Brazilian variant.
 
 ## Serving
-At every Brazilian lunch every day (the traditional setting; no exaggeration - Brazilians eat this every day of their life) · at every Brazilian "prato feito" set-lunch restaurant · at every Brazilian work canteen · at every Brazilian family table · at a Brazilian Sunday lunch alongside feijoada · at home as the centre of a Brazilian plate.
+At every Brazilian lunch every day (the traditional setting; no exaggeration, Brazilians eat this every day of their life) · at every Brazilian "prato feito" set-lunch restaurant · at every Brazilian work canteen · at every Brazilian family table · at a Brazilian Sunday lunch alongside feijoada · at home as the centre of a Brazilian plate.
 
 ## Storage
 - Both rice and beans refrigerate 4-5 days.
 - Reheat with a splash of water for the rice and stock for the beans.
 - Beans freeze 3 months; rice freezes 1 month (slightly less well).
-- Leftover rice + beans + a fried egg + chopped sausage = the traditional Brazilian "arroz de carreteiro" (charger's rice - the gaucho cart-driver's one-pan dish).
+- Leftover rice + beans + a fried egg + chopped sausage = the traditional Brazilian "arroz de carreteiro" (charger's rice, the gaucho cart-driver's one-pan dish).
 - The flavour of the beans improves over the first 2 days as the broth tightens.

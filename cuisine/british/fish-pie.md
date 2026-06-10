@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-The British family classic that turns up on a kitchen table on a cold Tuesday night, the one fish dish that even children who hate fish will eat. You poach a mix of fish (cod, smoked haddock, salmon, prawns) briefly in milk - just enough to set the flesh - then strain the milk off and turn it into a parsley-and-cheddar béchamel. The fish goes into a deep dish, the béchamel pours over to bind, and a thick layer of cheddar mash piles on top in rough peaks that catch and crisp in the oven. Bake until the top is golden and the sauce bubbles up around the edges. Eat with peas or buttered greens, a glass of cold white wine, the kind of meal that turns the evening domestic in the best way.
+The British family classic that turns up on a kitchen table on a cold Tuesday night, the one fish dish that even children who hate fish will eat. You poach a mix of fish (cod, smoked haddock, salmon, prawns) briefly in milk, just enough to set the flesh, then strain the milk off and turn it into a parsley-and-cheddar béchamel. The fish goes into a deep dish, the béchamel pours over to bind, and a thick layer of cheddar mash piles on top in rough peaks that catch and crisp in the oven. Bake until the top is golden and the sauce bubbles up around the edges. Eat with peas or buttered greens, a glass of cold white wine, the kind of meal that turns the evening domestic in the best way.
 
 ## Ingredients
 

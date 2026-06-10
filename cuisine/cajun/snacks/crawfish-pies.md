@@ -64,7 +64,7 @@ A Louisiana hand pie, the Cajun answer to a Cornish pasty and the snack you'd bu
 4. Stir in the garlic, Cajun seasoning, smoked paprika and thyme; cook 1 minute.
 5. Add the tomato; cook 2 minutes.
 6. Pour in the stock gradually, whisking, to make a thick sauce.
-7. Simmer 5 minutes until properly thick (it should mound on a spoon - any thinner and the pies will leak).
+7. Simmer 5 minutes until properly thick (it should mound on a spoon, any thinner and the pies will leak).
 8. Stir in the crawfish (or chopped raw prawn), spring onions, parsley and hot sauce.
 9. Cook 3 minutes (just enough to cook the prawn through, if using).
 10. Season with salt and pepper.

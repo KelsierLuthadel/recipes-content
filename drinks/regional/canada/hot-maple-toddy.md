@@ -50,7 +50,7 @@ The hot maple toddy is the Canadian winter answer to the British/Scottish/Irish 
 1. Pour 45 ml of whisky into the warm glass.
 2. Add 2 tablespoons of maple syrup.
 3. Add 1 tablespoon of lemon juice.
-4. Stir briefly to combine - the maple syrup should start dissolving into the spirit.
+4. Stir briefly to combine, the maple syrup should start dissolving into the spirit.
 
 ### Stage 4 - Add the hot water
 1. Pour in 180 ml of the just-cooled hot water.
@@ -77,16 +77,16 @@ The hot maple toddy is the Canadian winter answer to the British/Scottish/Irish 
 - **Drink hot, not cold:** the toddy is at its best for about 10 minutes. After that the temperature drops and the magic fades.
 
 ## Variations
-**Hot maple toddy with bourbon (cross-border variant):** swap rye for bourbon (Maker's Mark, Buffalo Trace) - sweeter, more vanilla.
-**Hot maple-and-rum toddy (Maritime variant):** swap whisky for Newfoundland Screech rum or any dark Caribbean rum - rounder, more molasses.
-**Hot maple-ginger toddy:** add a thin slice of fresh ginger to the glass; double the spice warmth - the Yukon trapline variant.
-**Hot maple Earl Grey toddy:** swap the hot water for hot brewed Earl Grey tea - gives the bergamot note alongside the maple.
+**Hot maple toddy with bourbon (cross-border variant):** swap rye for bourbon (Maker's Mark, Buffalo Trace): sweeter, more vanilla.
+**Hot maple-and-rum toddy (Maritime variant):** swap whisky for Newfoundland Screech rum or any dark Caribbean rum, rounder, more molasses.
+**Hot maple-ginger toddy:** add a thin slice of fresh ginger to the glass; double the spice warmth, the Yukon trapline variant.
+**Hot maple Earl Grey toddy:** swap the hot water for hot brewed Earl Grey tea, gives the bergamot note alongside the maple.
 **Hot apple-maple toddy:** swap half the water for hot apple juice; great for Christmas market settings.
-**Hot maple-buttered toddy (Canadian "hot buttered rum" cousin):** add 1 teaspoon of unsalted butter to the drink; stir till melted - the rich winter variant.
+**Hot maple-buttered toddy (Canadian "hot buttered rum" cousin):** add 1 teaspoon of unsalted butter to the drink; stir till melted, the rich winter variant.
 **Hot maple toddy with cardamom:** add 1 cardamom pod (lightly crushed) to the glass; gives a fragrant subtle spice.
-**Non-alcoholic maple "toddy":** swap whisky for strong brewed black tea (or rooibos for a caffeine-free option); same maple, lemon, cinnamon - the designated-driver winter warmer.
-**Smoked maple toddy:** use a smoked salt rim and a slightly smoky whisky (Forty Creek Smoke Show) - the modern Toronto variant.
-**Hot maple toddy with herbal bitters:** add 2 dashes of orange bitters or Angostura - a slightly more cocktail-bar variant.
+**Non-alcoholic maple "toddy":** swap whisky for strong brewed black tea (or rooibos for a caffeine-free option); same maple, lemon, cinnamon, the designated-driver winter warmer.
+**Smoked maple toddy:** use a smoked salt rim and a slightly smoky whisky (Forty Creek Smoke Show): the modern Toronto variant.
+**Hot maple toddy with herbal bitters:** add 2 dashes of orange bitters or Angostura, a slightly more cocktail-bar variant.
 
 ## Serving
 At a Quebec sugar shack in the spring sap-running season (the traditional setting; March-April) · at a Canadian ski-resort fireside lounge · at a Yukon trapline cabin · at a Vancouver Island winter cottage · at a Canadian Christmas Eve · at home on a cold January evening · at a Canadian hockey-watching party · paired with a butter tart, a slice of tourtière, or a small piece of Canadian dark chocolate.
@@ -95,5 +95,5 @@ At a Quebec sugar shack in the spring sap-running season (the traditional settin
 - Make and drink fresh. The hot toddy doesn't store.
 - The maple syrup, whisky, and lemon all keep separately as normal pantry items.
 - A "toddy mix" of pre-blended maple + lemon + spices can be made ahead (mix 4 portions worth in a small jar) and refrigerated 1 week; add hot water and whisky on demand for fast service.
-- The cinnamon sticks reuse well - dry them out for an hour after the first use; they keep some flavour for a second toddy though the first use is the best.
-- The maple syrup itself improves with quality - if you can source a single-tree pure Quebec syrup from a specific producer (Cyril Charbonneau, Jacques Lavallée, or one of many small-batch operations), the difference from generic supermarket maple is dramatic.
+- The cinnamon sticks reuse well, dry them out for an hour after the first use; they keep some flavour for a second toddy though the first use is the best.
+- The maple syrup itself improves with quality, if you can source a single-tree pure Quebec syrup from a specific producer (Cyril Charbonneau, Jacques Lavallée, or one of many small-batch operations), the difference from generic supermarket maple is dramatic.

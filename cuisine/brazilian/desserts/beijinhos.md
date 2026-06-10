@@ -95,7 +95,7 @@ Beijinhos (literally "little kisses"; the name reflects the truffles' small bite
 **Beijinho de Bahia (Bahian variant):** add a tablespoon of cachaça to the cooking mixture for an adult touch.
 **Beijinho com leite de coco (with coconut milk):** swap 50 ml of the condensed milk for full-fat coconut milk for extra coconut depth.
 **Beijinho de cardamomo (cardamom variant):** add ½ teaspoon ground cardamom to the cooking mixture. Persian-Brazilian crossover.
-**Beijinho gelado (frozen):** freeze for 30 minutes after rolling for a firmer texture - modern dessert-bar variant.
+**Beijinho gelado (frozen):** freeze for 30 minutes after rolling for a firmer texture, modern dessert-bar variant.
 **Beijinho com nozes (with walnuts):** roll the truffles in finely chopped walnuts mixed with coconut.
 
 ## Serving

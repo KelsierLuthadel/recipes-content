@@ -9,9 +9,9 @@ kind: religious
 origin: Jewish tradition
 ---
 
-Shavuot, the Feast of Weeks, falls fifty days after Passover and commemorates the giving of the Torah at Sinai. The food custom - possibly unique among Jewish holidays - is dairy: cheesecake, blintzes, cheese kreplach, cheese kugel, cheese-stuffed everything. There are several explanations for the tradition, none definitive: that the Israelites at Sinai had no time to prepare meat under the new kosher laws and so ate dairy; that the Torah is compared to milk and honey; that the Hebrew word for milk is numerically equivalent to a phrase about the holiday. The cooks accept the gift and reach for the cream cheese.
+Shavuot, the Feast of Weeks, falls fifty days after Passover and commemorates the giving of the Torah at Sinai. The food custom, possibly unique among Jewish holidays, is dairy: cheesecake, blintzes, cheese kreplach, cheese kugel, cheese-stuffed everything. There are several explanations for the tradition, none definitive: that the Israelites at Sinai had no time to prepare meat under the new kosher laws and so ate dairy; that the Torah is compared to milk and honey; that the Hebrew word for milk is numerically equivalent to a phrase about the holiday. The cooks accept the gift and reach for the cream cheese.
 
-The blintzes are the traditional centrepiece. Thin crepes wrapped around sweetened farmer cheese, fried in butter, served warm with sour cream and a spoon of berry compote. Cheesecake - Eastern European farmer-cheese version or American cream-cheese version - comes alongside or after. Babka, rugelach, anything that uses the dairy drawer of the kitchen.
+The blintzes are the traditional centrepiece. Thin crepes wrapped around sweetened farmer cheese, fried in butter, served warm with sour cream and a spoon of berry compote. Cheesecake, Eastern European farmer-cheese version or American cream-cheese version, comes alongside or after. Babka, rugelach, anything that uses the dairy drawer of the kitchen.
 
 The savoury side leans light: quiches, frittatas, salads with feta or labneh. After the heavy meat festivals of the rest of the calendar, Shavuot is the welcome dairy interlude.
 

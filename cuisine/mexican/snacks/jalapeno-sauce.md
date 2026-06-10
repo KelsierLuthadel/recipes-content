@@ -27,14 +27,14 @@ A no-cook blender sauce. Pickled jalapeños bring brine and a manageable heat th
 
 ### Stage 1 - Blend
 1. Combine everything EXCEPT the sour cream in a tall jug or blender beaker: pickled jalapeños, mayonnaise, coriander, garlic, lime juice and salt.
-2. Blend with an immersion blender (or in a small food processor) until completely smooth - about 30 seconds. The sauce should be pale green and uniform.
+2. Blend with an immersion blender (or in a small food processor) until completely smooth, about 30 seconds. The sauce should be pale green and uniform.
 
 ### Stage 2 - Finish
-1. Stir in the sour cream by hand with a spoon (don't blend it in - keeps a slightly thicker, chunkier feel).
+1. Stir in the sour cream by hand with a spoon (don't blend it in, keeps a slightly thicker, chunkier feel).
 2. Taste. Add more salt or another teaspoon of lime juice if it tastes flat. For more heat, blend in another tablespoon of pickled jalapeños.
 
 ### Stage 3 - Rest
-1. Transfer to a jar or container with a tight-fitting lid. Refrigerate for at least 1 hour before serving - the flavours marry and the heat mellows slightly.
+1. Transfer to a jar or container with a tight-fitting lid. Refrigerate for at least 1 hour before serving, the flavours marry and the heat mellows slightly.
 
 ## Notes
 - **Pickled vs fresh jalapeños**: pickled bring a briny-tangy depth that complements Mexican food brilliantly. Fresh give a cleaner, sharper heat. Pickled is the better default; fresh is the rebel pick.
@@ -45,4 +45,4 @@ A no-cook blender sauce. Pickled jalapeños bring brine and a manageable heat th
 Drizzled over tacos al pastor, carnitas, chicken tinga, fish tacos. Smeared inside burritos. Spooned over a steak quesadilla. As a dip with tortilla chips. Anywhere you'd use a sour-cream-based crema.
 
 ## Storage
-In a sealed jar in the fridge for up to 3 days. Better on day 2. Don't freeze - sour cream weeps on thawing.
+In a sealed jar in the fridge for up to 3 days. Better on day 2. Don't freeze, sour cream weeps on thawing.

@@ -71,7 +71,7 @@ Melktert is the South African milk tart, an Afrikaans tea-time staple: a thin pa
 
 ### Stage 6 - Bake
 1. Pour the custard into the warm pastry shell.
-1. Bake 18-22 minutes until just set with a faint wobble in the centre - don't overbake or the surface cracks.
+1. Bake 18-22 minutes until just set with a faint wobble in the centre, don't overbake or the surface cracks.
 
 ### Stage 7 - Cool and dust
 1. Cool to room temperature (the custard firms as it cools).
@@ -83,7 +83,7 @@ Melktert is the South African milk tart, an Afrikaans tea-time staple: a thin pa
 
 ## Notes
 - **Set, not firm:** Melktert custard should be sliceable but still wobble. Cooking it like a heavy egg custard ruins it.
-- **Cinnamon at the table:** A heavy dust just before serving is correct - it's part of the flavour, not just decoration. Don't bake it on (it bitters).
+- **Cinnamon at the table:** A heavy dust just before serving is correct, it's part of the flavour, not just decoration. Don't bake it on (it bitters).
 - **Rooibos pairing:** Slightly oxidised rooibos is the South African choice; English breakfast tea also works.
 
 ## Storage

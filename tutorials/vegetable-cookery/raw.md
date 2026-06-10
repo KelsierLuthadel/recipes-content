@@ -5,7 +5,7 @@
 *Salads, slaws, ceviche-style preparations, and the salt-massage move that transforms raw vegetables without heat. The technique for when you want bright vegetable flavour with snap intact.*
 
 ## Overview
-Some vegetables are at their best raw. Tomatoes in peak summer, cucumbers, lettuces, herbs, certain root vegetables thinly shaved, and a long list of fruits-treated-as-vegetables (avocado, peppers, citrus). The technique question shifts from "how to cook it" to "how to dress it" - because raw vegetable is mostly waiting for an acid, a fat, salt, and the time to balance flavours.
+Some vegetables are at their best raw. Tomatoes in peak summer, cucumbers, lettuces, herbs, certain root vegetables thinly shaved, and a long list of fruits-treated-as-vegetables (avocado, peppers, citrus). The technique question shifts from "how to cook it" to "how to dress it", because raw vegetable is mostly waiting for an acid, a fat, salt, and the time to balance flavours.
 
 This lesson covers four approaches to raw vegetable preparation:
 
@@ -18,8 +18,8 @@ This lesson covers four approaches to raw vegetable preparation:
 
 Every good salad has the same four-part structure:
 
-1. **The base.** Greens, leaves, or a primary raw vegetable. Substantial - lettuce, kale, chicory, raw fennel, shaved radish.
-2. **Texture.** A contrasting element with a different mouthfeel - toasted nuts or seeds, crunchy chickpeas or croutons, cheese.
+1. **The base.** Greens, leaves, or a primary raw vegetable. Substantial, lettuce, kale, chicory, raw fennel, shaved radish.
+2. **Texture.** A contrasting element with a different mouthfeel, toasted nuts or seeds, crunchy chickpeas or croutons, cheese.
 3. **Acid.** Vinegar, lemon, lime. The brightening element. About 1 tbsp per portion of leaves.
 4. **Fat.** Olive oil, walnut oil, mayonnaise. The carrier. About 2-3 tbsp per portion of leaves (3:1 fat to acid is the classic vinaigrette ratio).
 
@@ -51,7 +51,7 @@ A starting template.
 Method:
 1. Whisk the vinaigrette ingredients in a small bowl or shake in a jar. Taste; adjust salt and acid.
 2. Combine all the salad ingredients in a large bowl.
-3. Drizzle vinaigrette; toss gently. (Toss just before serving - dressed leaves wilt fast.)
+3. Drizzle vinaigrette; toss gently. (Toss just before serving, dressed leaves wilt fast.)
 4. Top with toasted seeds and feta.
 
 ### Shaved Fennel and Citrus Salad
@@ -166,11 +166,11 @@ The simplest summer salad.
   - 1/2 tsp salt
   - Black pepper
 
-Method: combine all in a serving bowl. Drizzle; toss; rest 10 minutes; serve. The tomato and cucumber release juice into the dressing - all of it is good with bread for soaking up.
+Method: combine all in a serving bowl. Drizzle; toss; rest 10 minutes; serve. The tomato and cucumber release juice into the dressing, all of it is good with bread for soaking up.
 
 ## Citrus-Cured Raw Preparations
 
-A separate technique. Citrus juice (lemon, lime) "cooks" thinly-sliced raw vegetables (or fish) chemically - the acid denatures the proteins similarly to heat. The texture changes from snappy raw to slightly firmer, slightly cooked-feeling.
+A separate technique. Citrus juice (lemon, lime) "cooks" thinly-sliced raw vegetables (or fish) chemically, the acid denatures the proteins similarly to heat. The texture changes from snappy raw to slightly firmer, slightly cooked-feeling.
 
 ### Citrus-Cured Fennel
 
@@ -207,7 +207,7 @@ Toss the courgette with lemon and salt; rest 10 minutes; the slices soften and c
 
 ## The Salt-Massage Move
 
-Worth highlighting separately. The salt-and-massage technique applied for 2-3 minutes does to a tough raw leaf what cooking does to a tender one - breaks down cell walls, softens fibres, releases moisture - without heat.
+Worth highlighting separately. The salt-and-massage technique applied for 2-3 minutes does to a tough raw leaf what cooking does to a tender one, breaks down cell walls, softens fibres, releases moisture, without heat.
 
 What it works on:
 - Kale (any variety)
@@ -220,7 +220,7 @@ What it works on:
 The technique:
 1. Tear or finely slice the leaves.
 2. Sprinkle with salt (about 1 tsp per 300 g of leaves) and a small amount of olive oil.
-3. Massage with your hands - press, rub, squeeze - for 2-3 minutes. The leaves visibly soften, darken, and shrink to about half their original volume.
+3. Massage with your hands, press, rub, squeeze, for 2-3 minutes. The leaves visibly soften, darken, and shrink to about half their original volume.
 4. Use immediately, or rest 15-30 minutes before dressing.
 
 The result is a leaf that holds up to vinaigrette without wilting (the cell walls have already given up their water), with a slightly silky-tender texture rather than the raw chewy texture.

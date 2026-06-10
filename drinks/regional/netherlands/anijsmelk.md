@@ -19,7 +19,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 - 250 ml whole milk
 - 2 whole star anise pods (lightly crushed)
 - 1 tablespoon caster sugar (or to taste; some Dutch grandmothers use 2 tablespoons)
-- (Optional: 1 small thin slice of fresh ginger - the modern variant)
+- (Optional: 1 small thin slice of fresh ginger, the modern variant)
 - (Optional: 1/4 teaspoon vanilla extract)
 - A dust of ground cinnamon to finish
 
@@ -33,7 +33,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 
 ### Stage 1 - Crush the star anise
 1. Place the whole star anise pods on a chopping board.
-2. Press firmly with the flat of a knife (or smash with a pestle) - the pods should crack open and release their fragrance.
+2. Press firmly with the flat of a knife (or smash with a pestle): the pods should crack open and release their fragrance.
 3. Don't pulverise them into powder; just crack the pods so the volatile oils can leach out.
 
 ### Stage 2 - Warm the milk
@@ -45,14 +45,14 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 
 ### Stage 3 - Slow steep
 1. Warm the milk gently 6-8 minutes, stirring once or twice.
-2. The temperature should reach about 80-85°C - you'll see small bubbles forming around the edge of the pan and steam rising; the milk should be hot enough to drink but not yet boiling.
-3. DO NOT BOIL - boiling scorches the milk and creates a skin.
+2. The temperature should reach about 80-85°C, you'll see small bubbles forming around the edge of the pan and steam rising; the milk should be hot enough to drink but not yet boiling.
+3. DO NOT BOIL, boiling scorches the milk and creates a skin.
 4. The longer the steep (up to 10-12 minutes), the stronger the anise flavour. 8 minutes is the traditional Dutch grandmother's timing.
 
 ### Stage 4 - Strain
 1. Pre-warm 2 tall mugs by filling them with hot water for 30 seconds; tip out.
 2. Pour the anijsmelk through a fine sieve into the warm mugs, catching the star anise pods.
-3. (The strained anise pods can be reused once - they have a second infusion in them; keep them dry to use again the next evening.)
+3. (The strained anise pods can be reused once, they have a second infusion in them; keep them dry to use again the next evening.)
 
 ### Stage 5 - Finish
 1. Stir each mug briefly to make sure the sugar is fully dissolved.
@@ -63,33 +63,33 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 1. Hand the warm mug to the diner.
 2. Place a small biscuit alongside (speculaas is the traditional companion).
 3. Drink slowly; the aroma rises with the steam.
-4. The first sip should taste of warm milk, gentle aniseed, and sweetness - nothing else.
+4. The first sip should taste of warm milk, gentle aniseed, and sweetness, nothing else.
 
 ## Notes
 - **Whole milk is essential:** the fat in whole milk is what carries the aniseed oils. Skim milk gives a thin, one-note drink.
 - **Star anise pods, not anise seed:** the specific star-shape pod from Illicium verum has the right aromatic profile. Anise seed (from Pimpinella anisum) is more delicate and produces a different (and arguably inferior) drink. Fennel seed is also a no.
 - **Don't boil:** scorched milk is unpleasant; a skin on top is even worse. 85°C is the sweet spot.
 - **Length of steep is variable:** 6 minutes gives a light hint; 10 minutes gives strong anise; 12 minutes is the maximum before bitterness sets in.
-- **The bedtime ritual:** in the Netherlands, this is the traditional drink for sleepy children - the anise is mildly soothing and the warm milk helps everyone sleep.
+- **The bedtime ritual:** in the Netherlands, this is the traditional drink for sleepy children, the anise is mildly soothing and the warm milk helps everyone sleep.
 - **Re-use the star anise once:** they have a second infusion in them.
 
 ## Variations
-**Anijsmelk met honing (with honey):** swap the sugar for 1 tablespoon of good honey per cup - mellower, more aromatic.
-**Anijsmelk met kaneel (cinnamon-heavy):** add a cinnamon stick to the steep alongside the star anise - more aromatic, more Christmas-market.
-**Adult anijsmelk (with rum or anise liqueur):** add 15 ml of dark rum or Pernod / Pastis to each mug just before drinking - the grown-up variant.
-**Anijsmelk met saffraan (saffron variant):** see [Slemp](slemp.md) - the slightly richer Dutch winter drink that adds saffron, tea and more spices.
-**Anijsmelk on ice (summer variant):** cool the brewed anijsmelk fully; serve over ice with a small twist of orange peel - the modern Amsterdam café summer variant.
-**Anijsmelk with foam (latte-style):** steam the milk to a latte texture (use a milk steamer); steep the anise first, strain, then froth - the modern coffee-shop variant.
-**Vegan anijsmelk:** swap whole milk for full-fat oat milk or coconut milk (canned, not light) - the texture is similar; the aniseed dominates either way.
-**Anijsmelk with ginger:** add a thin slice of fresh ginger to the steep - the warming variant for cold and flu season.
+**Anijsmelk met honing (with honey):** swap the sugar for 1 tablespoon of good honey per cup, mellower, more aromatic.
+**Anijsmelk met kaneel (cinnamon-heavy):** add a cinnamon stick to the steep alongside the star anise, more aromatic, more Christmas-market.
+**Adult anijsmelk (with rum or anise liqueur):** add 15 ml of dark rum or Pernod / Pastis to each mug just before drinking, the grown-up variant.
+**Anijsmelk met saffraan (saffron variant):** see [Slemp](slemp.md): the slightly richer Dutch winter drink that adds saffron, tea and more spices.
+**Anijsmelk on ice (summer variant):** cool the brewed anijsmelk fully; serve over ice with a small twist of orange peel, the modern Amsterdam café summer variant.
+**Anijsmelk with foam (latte-style):** steam the milk to a latte texture (use a milk steamer); steep the anise first, strain, then froth, the modern coffee-shop variant.
+**Vegan anijsmelk:** swap whole milk for full-fat oat milk or coconut milk (canned, not light): the texture is similar; the aniseed dominates either way.
+**Anijsmelk with ginger:** add a thin slice of fresh ginger to the steep, the warming variant for cold and flu season.
 
 ## Serving
 At a Dutch grandmother's kitchen on a winter evening (the traditional setting) · at a Dutch Sinterklaas (5 December) celebration after the gift-giving · at a Dutch Christmas market hot-drink stall · at a Dutch family bedtime ritual · at a Dutch sledding outing as the warming drink on returning home · at a Dutch ice-skating shelter · at home as the children's-bedtime ritual · paired with a speculaas biscuit, a piece of taai-taai, or a small chocolate.
 
 ## Storage
-- Make and drink fresh - anijsmelk doesn't keep more than an hour; the milk loses its fresh anise top-notes and the texture can change.
+- Make and drink fresh, anijsmelk doesn't keep more than an hour; the milk loses its fresh anise top-notes and the texture can change.
 - Refrigerate up to 24 hours; reheat gently on the stovetop (don't boil).
-- Don't reheat in the microwave - uneven heating creates hot spots and can scorch the milk.
+- Don't reheat in the microwave, uneven heating creates hot spots and can scorch the milk.
 - Whole star anise pods keep indefinitely in a sealed jar in a dry pantry.
-- A pre-mixed "anise-and-sugar" sachet (3 crushed pods + 1 tablespoon sugar) per serving can be prepped ahead and steeped in milk on demand - useful for cold-weekend mornings.
+- A pre-mixed "anise-and-sugar" sachet (3 crushed pods + 1 tablespoon sugar) per serving can be prepped ahead and steeped in milk on demand, useful for cold-weekend mornings.
 - The strained star anise pods can be re-used once for a second infusion the next evening; keep them dry between uses.

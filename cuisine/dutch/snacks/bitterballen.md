@@ -44,13 +44,13 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 - 200 g plain flour (for the first coat)
 - 4 large eggs, beaten (for the second coat)
 - 250 g fine panko-style breadcrumbs OR Dutch beschuit crumbs (for the third coat)
-- (Optional: a fourth and fifth coat by repeating the egg-and-crumb steps - the triple-bread variant)
+- (Optional: a fourth and fifth coat by repeating the egg-and-crumb steps, the triple-bread variant)
 
 ### For frying
 - 2 litres sunflower or groundnut oil
 
 ### To serve
-- Grainy Dutch mustard (mosterd) - a small ramekin per person
+- Grainy Dutch mustard (mosterd): a small ramekin per person
 - A glass of cold Heineken or Amstel pilsner OR a small glass of jenever
 - A small wooden serving board (the traditional Dutch presentation)
 
@@ -95,7 +95,7 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 1. With damp hands (the mixture is sticky), scoop a heaped teaspoon (about 25-30 g) of the cold mixture.
 2. Roll between your palms into a small ball, about 3-3.5 cm diameter.
 3. Place on a tray lined with parchment.
-4. Repeat with the remaining mixture - you should make 30-35 bitterballen.
+4. Repeat with the remaining mixture, you should make 30-35 bitterballen.
 
 ### Stage 6 - Bread the bitterballen
 1. Set up 3 shallow bowls: one with flour, one with beaten egg, one with breadcrumbs.
@@ -104,20 +104,20 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 4. Place the breaded balls on a tray.
 
 ### Stage 7 - Chill the breaded balls
-1. Refrigerate the breaded balls 30 minutes - this firms the coating and helps prevent splitting during frying.
+1. Refrigerate the breaded balls 30 minutes, this firms the coating and helps prevent splitting during frying.
 
 ### Stage 8 - Fry
 1. Heat the oil to 180°C in a deep heavy pot.
 2. Fry the bitterballen in batches of 6-8 (don't overcrowd; overcrowding drops the oil temperature).
 3. Fry 3-4 minutes till deep golden brown all over.
-4. The interior should be almost molten - a freshly fried bitterbal cut in half should release steaming, soft, shred-bound velouté.
+4. The interior should be almost molten, a freshly fried bitterbal cut in half should release steaming, soft, shred-bound velouté.
 5. Lift out with a slotted spoon; drain briefly on kitchen paper.
 
 ### Stage 9 - Serve immediately
 1. Pile the hot bitterballen on a small wooden serving board.
 2. Place a small ramekin of grainy Dutch mustard alongside.
 3. Hand a wooden cocktail pick or small fork to each diner.
-4. Eat HOT - the molten centre is part of the experience.
+4. Eat HOT, the molten centre is part of the experience.
 5. Serve with cold beer or a small glass of jenever.
 
 ## Notes
@@ -129,13 +129,13 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 - **Maggi seasoning is the Dutch home secret:** the umami-soy-bouillon-like liquid that goes into everything in a Dutch kitchen. Worcestershire sauce is the substitute but Maggi gives the unmistakable Dutch profile.
 
 ## Variations
-**Kroketten (broodje kroket form):** the same ragout shaped into cylinders 8-10 cm long, breaded and fried; served in a fresh Dutch bun with mustard - see [Broodje kroket](broodje-kroket.md).
+**Kroketten (broodje kroket form):** the same ragout shaped into cylinders 8-10 cm long, breaded and fried; served in a fresh Dutch bun with mustard, see [Broodje kroket](broodje-kroket.md).
 **Veal bitterballen:** swap beef for veal; the more delicate Dutch upscale variant.
 **Chicken bitterballen:** swap beef for slow-cooked shredded chicken thigh; lighter, paler ragout.
-**Goulash bitterballen:** add 1 tablespoon of paprika and a pinch of caraway to the ragout - the Dutch-Hungarian crossover.
-**Curry-spiced bitterballen (Indonesian-influenced):** add 1 teaspoon of mild curry powder to the ragout - the colonial-Dutch variant.
+**Goulash bitterballen:** add 1 tablespoon of paprika and a pinch of caraway to the ragout, the Dutch-Hungarian crossover.
+**Curry-spiced bitterballen (Indonesian-influenced):** add 1 teaspoon of mild curry powder to the ragout, the colonial-Dutch variant.
 **Vegetarian bitterballen:** swap the beef for slow-cooked shredded king-oyster mushrooms + a splash of soy sauce for umami depth; the same velouté binding.
-**Cheese bitterballen (kaasbitterballen):** swap the beef for a thick aged-cheese (oude kaas) velouté - the Dutch cheese-shop variant.
+**Cheese bitterballen (kaasbitterballen):** swap the beef for a thick aged-cheese (oude kaas) velouté, the Dutch cheese-shop variant.
 **Goose / duck bitterballen:** swap beef for slow-cooked duck or goose confit, shredded; the high-end variant.
 **Smaller (bittergarnituur):** make 60 small (15 g) bitterballen for a Dutch reception or wedding canapé.
 
@@ -143,9 +143,9 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 At a Dutch café with a glass of cold beer (the traditional setting) · at a Dutch borrel (early-evening drinks gathering with snacks) · at a Dutch reception or wedding · at an Amsterdam brown bar (the traditional Dutch wood-panelled pub) · at a Dutch sinterklaas (5 December) family gathering · at a Dutch carnival in Limburg · at home as the traditional Friday-night drinking snack · paired with grainy mustard, cold lager, jenever or a Dutch witbier.
 
 ## Storage
-- The breaded uncooked balls freeze excellently 3 months - on a tray then bagged. Fry from frozen at 180°C, allow 4-5 minutes (slightly longer than fresh).
+- The breaded uncooked balls freeze excellently 3 months, on a tray then bagged. Fry from frozen at 180°C, allow 4-5 minutes (slightly longer than fresh).
 - The ragout (before shaping) refrigerates 5 days; freezes 3 months.
-- Cooked bitterballen don't store well - eat within 30 minutes of frying.
-- Don't reheat cooked bitterballen - the breading goes soft and the molten centre solidifies.
+- Cooked bitterballen don't store well, eat within 30 minutes of frying.
+- Don't reheat cooked bitterballen, the breading goes soft and the molten centre solidifies.
 - The shaped raw balls refrigerate 24 hours; bring to room temperature for 10 minutes before frying.
 - A typical Dutch home freezes 30-50 bitterballen at a time for unexpected drinks-with-friends evenings.

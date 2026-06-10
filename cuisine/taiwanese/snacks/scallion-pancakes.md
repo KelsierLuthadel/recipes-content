@@ -64,14 +64,14 @@ Scallion pancakes (cong you bing) are the great Taiwanese street snack: hand-rol
 1. Roll up the rectangle from the long side into a tight log (jelly-roll style).
 1. Coil the log into a spiral (snail shape); tuck the end under.
 1. Flatten the spiral gently into a disc with your palm.
-1. Roll into a 18-20 cm pancake about 5 mm thick (the spring onions will poke out - that's fine).
+1. Roll into a 18-20 cm pancake about 5 mm thick (the spring onions will poke out, that's fine).
 1. Repeat for all 4 pancakes; stack with parchment between to prevent sticking.
 
 ### Stage 5 - Fry
 1. Heat 2 tablespoons of oil in a wide non-stick pan over medium heat.
 1. Lay one pancake in carefully; cook 3-4 minutes until the underside is deep golden with crispy edges.
 1. Flip; cook 3-4 minutes more on the second side.
-1. Lift onto a wire rack (not paper - paper traps steam and softens the crisp).
+1. Lift onto a wire rack (not paper, paper traps steam and softens the crisp).
 1. Repeat with the rest, adding oil as needed.
 
 ### Stage 6 - Serve
@@ -84,4 +84,4 @@ Scallion pancakes (cong you bing) are the great Taiwanese street snack: hand-rol
 - **Eat fresh:** Crisp lasts about 30 minutes. Reheat in a hot dry pan to revive (don't microwave).
 
 ## Storage
-- Best eaten immediately. Frozen unfried pancakes (with parchment between) keep 2 months - fry from frozen, adding 1-2 minutes per side.
+- Best eaten immediately. Frozen unfried pancakes (with parchment between) keep 2 months, fry from frozen, adding 1-2 minutes per side.

@@ -2,7 +2,7 @@
 
 ![Yasai Ramen](resources/yasai-ramen.jpg)
 
-*Vegetable ramen built on a mushroom-and-kombu broth: soy-tare for backbone, miso for body, fresh ramen noodles, and a colourful pile of toppings - soft-boiled egg, sweet corn, blanched bok choy, fried tofu, scallions, sesame, nori. The broth simmers 30 minutes; the assembly is the meal.*
+*Vegetable ramen built on a mushroom-and-kombu broth: soy-tare for backbone, miso for body, fresh ramen noodles, and a colourful pile of toppings, soft-boiled egg, sweet corn, blanched bok choy, fried tofu, scallions, sesame, nori. The broth simmers 30 minutes; the assembly is the meal.*
 
 **Serves:** 2
 
@@ -61,7 +61,7 @@ A vegetable ramen built on a mushroom-and-kombu broth instead of the chicken or 
 
 ### Stage 3 - Tare
 1. Strain the broth again into a clean pot.
-1. Whisk the sesame oil, miso, soy, mirin, sake (if using) and sugar in each serving bowl - about half the mixture per bowl.
+1. Whisk the sesame oil, miso, soy, mirin, sake (if using) and sugar in each serving bowl, about half the mixture per bowl.
 
 ### Stage 4 - Blanch the bok choy
 1. Bring a large pot of water to the boil.
@@ -84,4 +84,4 @@ A vegetable ramen built on a mushroom-and-kombu broth instead of the chicken or 
 - **Broth depth:** A handful of dried mushrooms more makes a deeper broth. Shiitakes work best; porcini or mixed dried mushrooms also good.
 
 ## Storage
-- Broth keeps 4 days refrigerated and freezes 3 months. Cooked noodles and assembled bowls don't keep - always cook noodles fresh.
+- Broth keeps 4 days refrigerated and freezes 3 months. Cooked noodles and assembled bowls don't keep, always cook noodles fresh.

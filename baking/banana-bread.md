@@ -42,7 +42,7 @@ Banana bread is the redemption recipe for the four bananas turning black on your
 
 ### Stage 4 - Combine
 1. Pour the dry into the wet; fold gently with a spatula until just combined.
-1. Stop mixing as soon as no flour streaks remain - overmixing makes a tough loaf.
+1. Stop mixing as soon as no flour streaks remain, overmixing makes a tough loaf.
 1. Fold in the walnuts.
 
 ### Stage 5 - Bake

@@ -35,7 +35,7 @@ The American picnic and barbecue mainstay: shredded green and red cabbage with g
 
 ### Stage 1 - Sweat the cabbage
 1. Toss the green and red cabbage with the carrot and the tablespoon of salt in a colander.
-1. Leave over the sink 20 minutes - water drips out.
+1. Leave over the sink 20 minutes, water drips out.
 1. Squeeze handfuls hard. Pat dry.
 
 ### Stage 2 - Dressing
@@ -55,7 +55,7 @@ The American picnic and barbecue mainstay: shredded green and red cabbage with g
 ## Notes
 - **Sweat the cabbage:** Skipping this step gives watery, weepy slaw within hours. Twenty minutes is enough.
 - **Cider vinegar + sugar:** The classic American sweet-sour balance. Don't use white vinegar (too sharp) or balsamic (wrong colour).
-- **Make ahead:** Coleslaw is better the next day; keeps 4 days. Don't dress more than 24 hours ahead - it weeps after that.
+- **Make ahead:** Coleslaw is better the next day; keeps 4 days. Don't dress more than 24 hours ahead, it weeps after that.
 
 ## Storage
 - Refrigerate 4 days. Stir before serving.

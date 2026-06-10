@@ -86,12 +86,12 @@ Lebanon's layered fatteh, the kind of dish that gets brought to the table assemb
 1. Scatter toasted pine nuts, parsley, paprika and pomegranate seeds.
 
 ### Stage 7 - Serve
-1. Eat immediately, scooping down through the layers. The crisp pita softens within minutes - assembled-and-eaten is the key.
+1. Eat immediately, scooping down through the layers. The crisp pita softens within minutes, assembled-and-eaten is the key.
 
 ## Notes
 - **Eat fast:** Fatteh is layered fresh and eaten within 5-10 minutes. Beyond that the pita softens entirely. Don't pre-assemble.
-- **Taqliya is the finish:** Pour it on while still sizzling - the sizzle of hot butter on cool yogurt is part of the experience.
-- **Variations:** Fatteh hummus (chickpeas only, no chicken - vegetarian); fatteh makdous (with stuffed aubergine); fatteh laham (with lamb).
+- **Taqliya is the finish:** Pour it on while still sizzling, the sizzle of hot butter on cool yogurt is part of the experience.
+- **Variations:** Fatteh hummus (chickpeas only, no chicken, vegetarian); fatteh makdous (with stuffed aubergine); fatteh laham (with lamb).
 
 ## Storage
 - Components keep separately 3 days. Assemble fresh.

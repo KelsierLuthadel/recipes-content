@@ -32,7 +32,7 @@ Tahdig is the crisp golden rice crust at the bottom of every Persian rice pot, t
 ### Stage 2 - Parboil
 1. Bring 2 ½ litres of water to a vigorous boil with the salt.
 1. Drain the soaked rice; tip into the boiling water.
-1. Cook 5-6 minutes - the rice should be al dente: bendy but still firm at the centre. Bite to test.
+1. Cook 5-6 minutes, the rice should be al dente: bendy but still firm at the centre. Bite to test.
 1. Drain quickly; rinse with cold water to stop cooking.
 
 ### Stage 3 - Build the crust
@@ -41,12 +41,12 @@ Tahdig is the crisp golden rice crust at the bottom of every Persian rice pot, t
 1. Spread the yogurt-rice mixture evenly across the bottom of the pan.
 
 ### Stage 4 - Pile rice
-1. Pile the rest of the parboiled rice on top in a pyramid (high in the centre, sloping at the edges - this allows steam to circulate).
+1. Pile the rest of the parboiled rice on top in a pyramid (high in the centre, sloping at the edges, this allows steam to circulate).
 1. Make 4-5 holes through the pile with the handle of a wooden spoon.
 1. Drizzle the remaining saffron-water over.
 
 ### Stage 5 - Steam
-1. Cover the lid with a clean tea towel (gathered up over the top of the lid; it absorbs steam - gives drier, fluffier rice).
+1. Cover the lid with a clean tea towel (gathered up over the top of the lid; it absorbs steam, gives drier, fluffier rice).
 1. Cook over medium-high heat 8-10 minutes until you hear sizzling and see steam.
 1. Reduce the heat to lowest; cook 35-40 minutes more.
 

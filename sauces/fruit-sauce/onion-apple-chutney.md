@@ -2,7 +2,7 @@
 
 ![Onion and green apple chutney](resources/onion-apple-chutney.png)
 
-*This chutney is superb with mature cheese, sausage and roast pork - hot or cold. This also works with left over partridge or pheasant.*
+*This chutney is superb with mature cheese, sausage and roast pork, hot or cold. This also works with left over partridge or pheasant.*
 
 **Serves:** 10 (makes 800 grams preserve)
 

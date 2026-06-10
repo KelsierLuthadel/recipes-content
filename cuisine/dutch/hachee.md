@@ -111,12 +111,12 @@ Hachee is the Netherlands' traditional beef stew: the slow-cooked, deeply spiced
 - **The mustard-bread trick:** the Dutch home cook's way of thickening the sauce while adding a sharp mustard counter-note. The slice of bread completely dissolves; don't be alarmed.
 
 ## Variations
-**Hachee met appel:** add 2 chopped apples (Bramley or Granny Smith) to the onions in the last 10 minutes of sweating - the rural Dutch variant with extra sweetness.
+**Hachee met appel:** add 2 chopped apples (Bramley or Granny Smith) to the onions in the last 10 minutes of sweating, the rural Dutch variant with extra sweetness.
 **Hachee with pears (Limburg variant):** add 200 g sliced firm pears to the braise in the last 30 minutes.
-**Hachee with prunes (sweet-savoury):** add 100 g pitted prunes in the last 30 minutes - the historical Dutch variant.
-**Modern hachee (lighter):** halve the onions; use chicken stock; serve with a dollop of crème fraîche on top - the modern Amsterdam restaurant variant.
-**Hachee with red wine instead of beer:** swap the dark lager for 200 ml red wine - lighter, more French.
-**Hachee for sandwiches (broodje hachee):** chop the finished meat fine and serve in a soft Dutch bun with mustard - the Dutch deli lunch.
+**Hachee with prunes (sweet-savoury):** add 100 g pitted prunes in the last 30 minutes, the historical Dutch variant.
+**Modern hachee (lighter):** halve the onions; use chicken stock; serve with a dollop of crème fraîche on top, the modern Amsterdam restaurant variant.
+**Hachee with red wine instead of beer:** swap the dark lager for 200 ml red wine, lighter, more French.
+**Hachee for sandwiches (broodje hachee):** chop the finished meat fine and serve in a soft Dutch bun with mustard, the Dutch deli lunch.
 **Hachee with mushrooms:** add 300 g sliced mushrooms to the onions for the last 10 minutes of sweating.
 **Slow-cooker hachee:** brown the beef and sweat the onions on the stovetop; transfer to a slow cooker on low for 6-7 hours.
 **Vegetarian "hachee" with king oyster mushrooms:** swap beef for thick king oyster mushrooms; same onion-and-spice base.
@@ -127,7 +127,7 @@ At a Dutch family Sunday dinner (the traditional setting; October to March) · a
 ## Storage
 - Refrigerates 5 days; reheats better than it cooks first time round.
 - Freezes 3 months in airtight containers; defrost overnight in the fridge.
-- The flavours improve overnight - this is the traditional make-ahead Dutch stew.
+- The flavours improve overnight, this is the traditional make-ahead Dutch stew.
 - Reheat gently on the stovetop with a splash of water or stock to loosen.
 - Day-old hachee on a soft Dutch bun (broodje hachee) is the Dutch deli lunch.
 - Hachee freezes excellently in individual portions; defrost one portion at a time for a quick weeknight dinner.

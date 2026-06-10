@@ -98,7 +98,7 @@ The Korean corn dog (gamja hot dog, or "potato hot dog") is a viral Seoul street
 
 ## Variations
 **All cheese (mozzarella-only):** for the iconic Korean cheese-pull video version.
-**Half-and-half:** the most popular Korean stall version - half hot dog, half cheese.
+**Half-and-half:** the most popular Korean stall version, half hot dog, half cheese.
 **Ramyeon-crusted:** swap the potato cubes for crushed Korean instant noodles for a different crunch.
 **Spicy gochujang sauce:** drizzle gochujang-mayo over instead of ketchup-mustard.
 **With Cheetos crust:** crushed Cheetos instead of potato (a meme variant that actually works).

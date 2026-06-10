@@ -44,8 +44,8 @@ ingredients:
   - name: black pepper
     raw: A grating of black pepper
   - qty: 8
-    name: ham - large enough to wrap around each chicory head
-    raw: 8 slices good cooked ham - large enough to wrap around each chicory head
+    name: "ham : large enough to wrap around each chicory head"
+    raw: "8 slices good cooked ham : large enough to wrap around each chicory head"
   - qty: 60
     unit: g
     name: unsalted butter

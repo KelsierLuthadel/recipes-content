@@ -22,7 +22,7 @@ A note: most supermarkets sell most vegetables year-round, sourced globally. The
 - Similar to January. Forced rhubarb is at its peak. Wild garlic begins in late February in the south.
 
 ### March
-- **New season:** Wild garlic in full flow. Purple sprouting broccoli arrives - a brief but exceptional season.
+- **New season:** Wild garlic in full flow. Purple sprouting broccoli arrives, a brief but exceptional season.
 - **Still strong:** Leeks, kale, parsnips, cabbage.
 - **Beginning to lose quality:** Stored carrots and roots from the previous autumn are starting to taste tired.
 
@@ -32,7 +32,7 @@ A note: most supermarkets sell most vegetables year-round, sourced globally. The
 - **Ending:** Winter brassicas (sprouts, kale) finishing.
 
 ### May
-- **Peak:** English asparagus (mid-May to mid-June is the British asparagus season - cook it heavily during these six weeks). Wild garlic ending. Peas and broad beans starting. Spring greens.
+- **Peak:** English asparagus (mid-May to mid-June is the British asparagus season, cook it heavily during these six weeks). Wild garlic ending. Peas and broad beans starting. Spring greens.
 - **New season:** First English strawberries (treated as a fruit).
 
 ### June
@@ -56,11 +56,11 @@ A note: most supermarkets sell most vegetables year-round, sourced globally. The
 - **Ending:** Tomatoes (last of the season).
 
 ### November
-- **Peak:** Brussels sprouts, kale (its season picks up after the first frost - the frost converts starches to sugars, making the leaves sweeter), cavolo nero, all root vegetables (parsnip, swede, celeriac at full flavour), squashes, leeks, beetroot.
+- **Peak:** Brussels sprouts, kale (its season picks up after the first frost, the frost converts starches to sugars, making the leaves sweeter), cavolo nero, all root vegetables (parsnip, swede, celeriac at full flavour), squashes, leeks, beetroot.
 - The deep autumn cooking season is in full effect.
 
 ### December
-- Same as November plus: forced rhubarb starts in heated sheds (delivered as the "Yorkshire forced rhubarb"). The Christmas dinner ingredients are all in season - sprouts, parsnips, carrots, leeks, red cabbage.
+- Same as November plus: forced rhubarb starts in heated sheds (delivered as the "Yorkshire forced rhubarb"). The Christmas dinner ingredients are all in season, sprouts, parsnips, carrots, leeks, red cabbage.
 
 ## How to Use the Calendar
 
@@ -76,7 +76,7 @@ Each season has its own peak dish:
 
 - **Late spring (May-June):** Roasted asparagus with butter, salt, lemon. Pure asparagus.
 - **Early summer (June-July):** Pea soup, peas with mint and bacon, fresh broad beans on toast with ricotta.
-- **Late summer (August-September):** Tomato salad - the world's simplest dish, only good when the tomatoes are.
+- **Late summer (August-September):** Tomato salad, the world's simplest dish, only good when the tomatoes are.
 - **Early autumn (September-October):** Squash soup, roasted pumpkin with sage and brown butter.
 - **Late autumn (October-November):** Roasted root vegetables, braised kale, brussels sprouts hard-charred.
 - **Winter (December-February):** Red cabbage braised slowly, jerusalem artichoke soup, leek and potato gratin, kale and cavolo nero in deep braises.
@@ -103,13 +103,13 @@ For the vegetables where imports are noticeably worse (tomatoes, peppers, aspara
 
 Frozen vegetables are often better than out-of-season fresh imports. Peas, broad beans, sweetcorn and spinach all freeze well; the freezing process happens within hours of harvest (so the vegetable is captured at peak), and the nutrition is largely preserved. Frozen peas in February are dramatically better than the imported "fresh" peas at the supermarket.
 
-The exceptions where frozen is poor: anything that depends on texture (cucumber, lettuce, fresh herbs - never freeze) or shape (asparagus tips, courgette).
+The exceptions where frozen is poor: anything that depends on texture (cucumber, lettuce, fresh herbs, never freeze) or shape (asparagus tips, courgette).
 
 ## A Note on Foraging
 
-Wild garlic (ramsons) is the easiest foraged green for beginners - identifiable, abundant, in season from late February to early May in woodlands across the UK and Northern Europe. The leaves are the prize; the flowers are also edible (delicious in salads). Pesto, soup, baked into focaccia.
+Wild garlic (ramsons) is the easiest foraged green for beginners, identifiable, abundant, in season from late February to early May in woodlands across the UK and Northern Europe. The leaves are the prize; the flowers are also edible (delicious in salads). Pesto, soup, baked into focaccia.
 
-Beyond wild garlic, foraging gets more complex (mushroom identification is serious; many edible plants have toxic look-alikes). The course does not cover foraging in depth, but worth knowing that even one foraged ingredient per year - wild garlic in April or sloes in autumn - connects you to the seasons in a way the supermarket cannot.
+Beyond wild garlic, foraging gets more complex (mushroom identification is serious; many edible plants have toxic look-alikes). The course does not cover foraging in depth, but worth knowing that even one foraged ingredient per year, wild garlic in April or sloes in autumn, connects you to the seasons in a way the supermarket cannot.
 
 ## Where Next
 - [Roasting](roasting.md), [Blanching](blanching.md), [Braising](braising.md), [Pickling](pickling.md), [Raw](raw.md): the techniques that the seasonal ingredients want.

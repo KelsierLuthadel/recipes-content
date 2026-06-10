@@ -10,7 +10,7 @@
 
 Vodka, by U.S. federal regulation (27 CFR § 5.143), is **"neutral spirits so distilled, or so treated after distillation with charcoal or other materials, as to be without distinctive character, aroma, taste, or color."**
 
-In plain language: distil something to high proof, filter it through activated charcoal to remove any remaining flavour, dilute to bottling strength. The "neutral spirit" part has a specific threshold - distilled to at least 95% ABV (190 proof). That high proof is what strips out the grain, fruit, potato or whatever started the wash; once distilled to 95%, vodka from wheat tastes nearly identical to vodka from potato.
+In plain language: distil something to high proof, filter it through activated charcoal to remove any remaining flavour, dilute to bottling strength. The "neutral spirit" part has a specific threshold, distilled to at least 95% ABV (190 proof). That high proof is what strips out the grain, fruit, potato or whatever started the wash; once distilled to 95%, vodka from wheat tastes nearly identical to vodka from potato.
 
 On a pot still you cannot reliably reach 95% ABV in a single run. Vodka requires either:
 
@@ -30,7 +30,7 @@ Vodka can be made from anything fermentable. Common bases:
 | **Beet sugar / molasses** | Cheap, fast; slightly sweet finish | Highest |
 | **Grape (wine)** | Distinctive but fades with multiple distillations | Lowest |
 
-For a Tennessee family operation, a grain-based vodka makes sense - you're already set up for corn and barley fermentation. The wash recipe below is essentially a "lighter, sugar-only" version of the [whisky](whisky.md) wash, designed for clean spirit rather than flavour retention.
+For a Tennessee family operation, a grain-based vodka makes sense, you're already set up for corn and barley fermentation. The wash recipe below is essentially a "lighter, sugar-only" version of the [whisky](whisky.md) wash, designed for clean spirit rather than flavour retention.
 
 ## Recipe (5-gallon wash)
 
@@ -51,27 +51,27 @@ For a Tennessee family operation, a grain-based vodka makes sense - you're alrea
 
 **Ferment:**
 1. Add yeast and nutrient. Cover.
-2. Ferment 5-7 days at 25-30 °C. The wash will ferment vigorously - sugar-led washes are fast.
+2. Ferment 5-7 days at 25-30 °C. The wash will ferment vigorously, sugar-led washes are fast.
 3. Expected wash ABV: 12-14% (higher than whisky because of the added sugar).
 
 **Strip run (first distillation):**
-1. Charge the still with the whole wash. The wash is meant to be stripped of alcohol fast in this run - you are not making finished spirit yet.
-2. Heat aggressively. Collect everything above about 30% ABV into one large vessel. Discard the first 50 ml per gallon as foreshots, but otherwise be less precise - this run produces a "low wines" of mixed quality, around 40-50% ABV.
+1. Charge the still with the whole wash. The wash is meant to be stripped of alcohol fast in this run, you are not making finished spirit yet.
+2. Heat aggressively. Collect everything above about 30% ABV into one large vessel. Discard the first 50 ml per gallon as foreshots, but otherwise be less precise, this run produces a "low wines" of mixed quality, around 40-50% ABV.
 
 **Spirit runs (second through fifth distillation):**
 1. Dilute the low wines with clean water back to about 25% ABV (this gives the still enough water to vapourise cleanly).
 2. Distil more carefully. Take aggressive foreshots, heads and tails cuts.
-3. Save only the hearts - the cleanest middle of the run, ideally above 90% ABV.
+3. Save only the hearts, the cleanest middle of the run, ideally above 90% ABV.
 4. Repeat. Each successive run further concentrates ethanol and removes residual flavour compounds.
-5. By the 3rd or 4th run, the hearts should be 94-96% ABV - neutral spirit territory.
+5. By the 3rd or 4th run, the hearts should be 94-96% ABV, neutral spirit territory.
 
 **Charcoal filtering:**
-1. Pour the high-proof spirit through a column of activated coconut charcoal (NOT the maple charcoal used for Tennessee whiskey - that has flavour; vodka wants flavourless removal).
+1. Pour the high-proof spirit through a column of activated coconut charcoal (NOT the maple charcoal used for Tennessee whiskey, that has flavour; vodka wants flavourless removal).
 2. A 50 cm column of granulated activated charcoal is enough for a few litres.
 3. Filter once or twice. More than twice doesn't help.
 
 **Dilute and bottle:**
-1. Dilute the high-proof spirit with distilled water to 40% ABV (80 proof) - the American vodka standard.
+1. Dilute the high-proof spirit with distilled water to 40% ABV (80 proof): the American vodka standard.
 2. Let rest 1 week. The taste integrates.
 3. Bottle. No aging.
 
@@ -79,10 +79,10 @@ For a Tennessee family operation, a grain-based vodka makes sense - you're alrea
 
 The aim is "nothing distinctive." A perfect vodka has:
 
-- **No nose** - no smell beyond a faint clean ethanol warmth
-- **No flavour on the palate** - a slight grain or wheat softness on the finish is acceptable; anything more is a flaw
-- **No burn** - high-proof vodka burns; properly cut and rested vodka has warmth but no harsh sting
-- **A clean, dry finish** - no oiliness, no lingering grain or fruit character
+- **No nose**: no smell beyond a faint clean ethanol warmth
+- **No flavour on the palate**: a slight grain or wheat softness on the finish is acceptable; anything more is a flaw
+- **No burn**: high-proof vodka burns; properly cut and rested vodka has warmth but no harsh sting
+- **A clean, dry finish**: no oiliness, no lingering grain or fruit character
 
 If you taste anything, the vodka needs another distillation or filtering pass.
 
@@ -99,14 +99,14 @@ These are largely marketing differences; charcoal is the workhorse.
 
 ## Common mistakes
 
-- **Stopping after one or two distillations.** Vodka requires multiple runs. A pot-still vodka after one distillation will be 75-80% ABV with significant grain flavour - that's white whisky, not vodka.
+- **Stopping after one or two distillations.** Vodka requires multiple runs. A pot-still vodka after one distillation will be 75-80% ABV with significant grain flavour, that's white whisky, not vodka.
 - **Using flavoured charcoal for filtering.** Use coconut activated charcoal or aquarium-grade activated charcoal. Maple, hickory or BBQ charcoals all add flavour.
 - **Cutting too quickly with non-filtered tap water.** The chlorine and minerals in tap water muddy the vodka. Use distilled or RO water.
 - **Bottling at too high a proof.** Above 50% ABV the vodka feels harsh; below 35% it feels watery. 40% (80 proof) is the international convention.
 
 ## Infusing vodka (the family-friendly application)
 
-Vodka's blank-canvas nature makes it the perfect base for infusions. Throw something flavourful into a bottle of finished vodka, wait a few days, strain. The result is a flavoured vodka - many premium "flavoured vodkas" are made this way.
+Vodka's blank-canvas nature makes it the perfect base for infusions. Throw something flavourful into a bottle of finished vodka, wait a few days, strain. The result is a flavoured vodka, many premium "flavoured vodkas" are made this way.
 
 Family-scale infusion timeline:
 
@@ -134,6 +134,6 @@ Vodka's clean canvas makes it the most-used spirit in the modern cocktail bar:
 - **[Sex on the Beach](../../drinks/cocktails/sex-on-the-beach.md):** vodka, peach schnapps, cranberry, orange juice.
 
 ## See also
-- [Grain alcohol](grain-alcohol.md) - the higher-proof cousin (95%+ ABV) used as a base for tinctures and infusions
-- [Flavoured moonshine](flavoured-moonshine.md) - the rougher-edged version of flavoured vodka
-- [Ole Smoky moonshine](ole-smoky-moonshine.md) - what an un-aged grain spirit tastes like before the multiple-distillation step
+- [Grain alcohol](grain-alcohol.md): the higher-proof cousin (95%+ ABV) used as a base for tinctures and infusions
+- [Flavoured moonshine](flavoured-moonshine.md): the rougher-edged version of flavoured vodka
+- [Ole Smoky moonshine](ole-smoky-moonshine.md): what an un-aged grain spirit tastes like before the multiple-distillation step

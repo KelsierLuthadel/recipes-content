@@ -2,7 +2,7 @@
 
 ![Paella Valenciana](resources/paella-valenciana.jpg)
 
-*The original paella from Valencia: chicken, rabbit, beans, snails (or rosemary if you're squeamish) and saffron rice cooked in a wide flat pan. The rice is unstirred to develop the prized socarrat - the caramelised crust on the bottom of the pan.*
+*The original paella from Valencia: chicken, rabbit, beans, snails (or rosemary if you're squeamish) and saffron rice cooked in a wide flat pan. The rice is unstirred to develop the prized socarrat, the caramelised crust on the bottom of the pan.*
 
 **Serves:** 6
 
@@ -49,7 +49,7 @@ The original paella, the dish born in the rice fields outside Valencia and prote
 ### Stage 4 - Cook the rice
 1. Boil hard for 10 minutes, then reduce to medium-low.
 1. Cook another 8-10 minutes until the rice is just tender and the liquid is almost absorbed.
-1. Listen for crackling at the base - that's the socarrat forming. Crank the heat to high for 30-60 seconds at the end if needed.
+1. Listen for crackling at the base, that's the socarrat forming. Crank the heat to high for 30-60 seconds at the end if needed.
 
 ### Stage 5 - Rest and serve
 1. Take off the heat, cover with a clean tea towel and rest for 5-8 minutes.

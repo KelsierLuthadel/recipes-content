@@ -29,7 +29,7 @@ Korea's summer sundae, the shaved-milk-ice mountain that turns up on every Seoul
 - 50 g mochi pieces (sold ready, or make from glutinous rice flour)
 - 50 g sweet rice cake (tteok) cut into 1 cm cubes (optional)
 - 3 tablespoons sweetened condensed milk (for drizzling)
-- 2 tablespoons injeolmi powder (roasted soybean powder, sold at Korean markets - substitute toasted soya flour or finely crushed sweet biscuits)
+- 2 tablespoons injeolmi powder (roasted soybean powder, sold at Korean markets, substitute toasted soya flour or finely crushed sweet biscuits)
 - 1 scoop vanilla ice cream (optional, on top)
 
 ## Method
@@ -40,7 +40,7 @@ Korea's summer sundae, the shaved-milk-ice mountain that turns up on every Seoul
 1. Freeze overnight until solid.
 
 ### Stage 2 - Shave the milk
-1. **Method 1 (ice shaver):** scrape the frozen block into fine flakes with a Korean ice shaver - pile into a bowl.
+1. **Method 1 (ice shaver):** scrape the frozen block into fine flakes with a Korean ice shaver, pile into a bowl.
 1. **Method 2 (blender):** break the frozen milk into chunks; pulse in a powerful blender briefly (3-4 short pulses) until it's a snow-soft consistency. Don't over-blend (you'll get milkshake).
 1. **Method 3 (manual):** scrape the surface of the frozen milk repeatedly with a fork; takes longer but gives a nice flake.
 
@@ -54,7 +54,7 @@ Korea's summer sundae, the shaved-milk-ice mountain that turns up on every Seoul
 ### Stage 4 - Finish
 1. Dust generously with injeolmi powder (the sweet roasted soybean flour gives the iconic nutty layer).
 1. Serve immediately with two long spoons.
-1. Eat quickly - the bingsu melts fast.
+1. Eat quickly, the bingsu melts fast.
 
 ## Notes
 - **Milk bingsu vs water-ice bingsu:** the modern Korean version freezes milk (creamy and shaves into snow); the traditional version uses crushed water-ice (icier, less rich). Milk is the popular choice now.
@@ -65,4 +65,4 @@ Korea's summer sundae, the shaved-milk-ice mountain that turns up on every Seoul
 ## Storage
 - Assemble immediately before eating.
 - Pre-made frozen milk and toppings keep separately for weeks.
-- Don't try to keep assembled bingsu - it melts.
+- Don't try to keep assembled bingsu, it melts.

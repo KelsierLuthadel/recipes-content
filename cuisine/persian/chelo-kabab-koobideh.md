@@ -43,18 +43,18 @@ Chelo kabab koobideh is the great Friday meal of Iran, the country's national di
 
 ### Stage 1 - Mix
 1. Place the mince in a large bowl.
-1. Squeeze the grated onion in a clean tea towel - wring out as much liquid as possible.
+1. Squeeze the grated onion in a clean tea towel, wring out as much liquid as possible.
 1. Add the onion to the mince with the salt, pepper, turmeric, sumac, half the saffron-water and the bicarb.
-1. Knead with your hands for 5-7 minutes - really work it. The mixture should become slightly sticky and tight; this is what makes it stick to the skewer.
+1. Knead with your hands for 5-7 minutes, really work it. The mixture should become slightly sticky and tight; this is what makes it stick to the skewer.
 
 ### Stage 2 - Chill
 1. Cover and refrigerate at least 1 hour, ideally 3.
 
 ### Stage 3 - Shape
-1. If using flat metal skewers (the wide-bladed Persian style - the only kind that holds koobideh): wet your hands.
+1. If using flat metal skewers (the wide-bladed Persian style, the only kind that holds koobideh): wet your hands.
 1. Take a fistful of the mince mixture (about 150 g) and press onto the centre of the skewer.
 1. Working from the centre outward, press the meat thinly along the skewer in a long sausage shape (about 20 cm).
-1. Pinch ridges at intervals along the length with damp fingers - gives the classic ridged koobideh look.
+1. Pinch ridges at intervals along the length with damp fingers, gives the classic ridged koobideh look.
 1. Repeat for 8 skewers total.
 
 ### Stage 4 - Heat the grill
@@ -62,9 +62,9 @@ Chelo kabab koobideh is the great Friday meal of Iran, the country's national di
 1. Brush grates with oil.
 
 ### Stage 5 - Grill
-1. Lay the skewers across the grill (not directly on the grates - suspended between two bricks or rails so air circulates beneath; this is how Persians do it).
+1. Lay the skewers across the grill (not directly on the grates, suspended between two bricks or rails so air circulates beneath; this is how Persians do it).
 1. Don't disturb for 90 seconds; rotate 180°; cook another 90 seconds; flip; cook the other side similarly.
-1. Total time 5-6 minutes - the meat should be just cooked through, with deep char on both sides.
+1. Total time 5-6 minutes, the meat should be just cooked through, with deep char on both sides.
 1. Grill the tomatoes and chillies alongside, turning, until blistered.
 
 ### Stage 6 - Plate
@@ -78,9 +78,9 @@ Chelo kabab koobideh is the great Friday meal of Iran, the country's national di
 1. Tear lavash; wrap kabab pieces in bread with a smashed tomato, fresh herbs and onion. Or eat with a fork over the rice. Both are correct.
 
 ## Notes
-- **Wide flat skewers are the tool:** Round skewers don't work - the meat slips and cracks off. Persian-style flat skewers (about 1 ½ cm wide blade) are sold at Middle Eastern grocers and online.
+- **Wide flat skewers are the tool:** Round skewers don't work, the meat slips and cracks off. Persian-style flat skewers (about 1 ½ cm wide blade) are sold at Middle Eastern grocers and online.
 - **Squeeze the onion dry:** Wet onion makes wet mince that won't stay on the skewer.
-- **Bicarb in the mix:** Untraditional in Iran but a reliable home-cook trick - it tenderises the surface and helps the meat grip the skewer. Skip if you'd rather; just knead longer.
+- **Bicarb in the mix:** Untraditional in Iran but a reliable home-cook trick, it tenderises the surface and helps the meat grip the skewer. Skip if you'd rather; just knead longer.
 
 ## Storage
 - Best fresh from the grill. Freezes well shaped and uncooked on the skewer (3 months).

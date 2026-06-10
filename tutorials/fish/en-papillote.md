@@ -27,14 +27,14 @@ For 2 portions:
 
 ### Method
 
-**Step 1 - Heat the oven.**
+**Step 1, Heat the oven.**
 180 C (160 fan). Place a baking sheet on the middle rack.
 
-**Step 2 - Set up the parchment.**
+**Step 2, Set up the parchment.**
 1. Fold each sheet in half. Open back up.
 2. Lay the parchment on the counter. The fold line is your hinge.
 
-**Step 3 - Layer the package.**
+**Step 3, Layer the package.**
 1. On one half of the parchment (not on the fold), lay:
    - A handful of sliced vegetables (small bed for the fish to sit on).
    - The fish fillet on top.
@@ -45,14 +45,14 @@ For 2 portions:
    - 2 tablespoons white wine drizzled over.
    - Pinch of salt, grind of pepper.
 
-**Step 4 - Seal the parcel.**
+**Step 4, Seal the parcel.**
 1. Fold the other half of the parchment over the top, like closing a book.
 2. Starting at one corner of the fold, make a series of small triangular folds along the cut edges, each fold overlapping the previous. Work all the way around the open edge.
 3. Press each fold tightly. The final fold should sit flat. The parcel should look like a half-moon with a crimped edge.
 
 If sealing in paper baffles you (it baffles everyone the first time), use a small parchment paper bag (sold at kitchen shops) or seal with butter-side-up squares of foil. The result is the same; the look is slightly less elegant.
 
-**Step 5 - Bake.**
+**Step 5, Bake.**
 1. Place the parcels on the hot baking sheet.
 2. Bake at 180 C for 10-15 minutes, depending on fillet thickness.
 
@@ -63,7 +63,7 @@ Timing guide (fillets 2 cm thick):
 
 The parcel will puff dramatically as steam builds inside.
 
-**Step 6 - The drama.**
+**Step 6, The drama.**
 1. Carry the parcels to the table on the plates.
 2. Open at the table with a small knife or scissors. The steam billows up fragrant.
 3. Serve from the open paper, or tip onto the plate.

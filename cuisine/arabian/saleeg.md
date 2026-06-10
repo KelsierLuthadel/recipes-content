@@ -19,7 +19,7 @@ A Hijazi speciality that sits closer to a savoury rice porridge than to any othe
 - 1 whole chicken (1.4-1.6 kg) jointed into 8 pieces
 - 2 onions (halved)
 - 6 cardamom pods (bruised)
-- 2 dried black limes (loomi - pierced)
+- 2 dried black limes (loomi, pierced)
 - 1 mastic gum tear (optional)
 - 2 bay leaves
 - 8 black peppercorns
@@ -69,9 +69,9 @@ A Hijazi speciality that sits closer to a savoury rice porridge than to any othe
 1. Serve with yogurt and sahawiq.
 
 ## Notes
-- **Short-grain matters:** Saleeg's texture is creamy and soupy. Long-grain (basmati) gives a dry pilaf - not saleeg. Egyptian, Calrose or Italian arborio work; even pudding rice.
+- **Short-grain matters:** Saleeg's texture is creamy and soupy. Long-grain (basmati) gives a dry pilaf, not saleeg. Egyptian, Calrose or Italian arborio work; even pudding rice.
 - **Stir often:** Like risotto, this benefits from agitation. Lazy cooking gives lumpy or scorched rice.
-- **Brown butter is the finish:** Plain melted butter is fine; properly browned butter (samna baladi) is signature - take it to a nutty deep gold, not black.
+- **Brown butter is the finish:** Plain melted butter is fine; properly browned butter (samna baladi) is signature, take it to a nutty deep gold, not black.
 
 ## Storage
 - Best eaten fresh. The rice thickens cold; reheat with a generous splash of warm milk on low heat, stirring.

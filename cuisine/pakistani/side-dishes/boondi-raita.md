@@ -23,7 +23,7 @@ Boondi raita is the cooling bowl that balances any rich plate of biryani, nihari
 - 1 ½ teaspoons ground roasted cumin (see notes)
 - ½ teaspoon Kashmiri red chilli powder
 - 1 tablespoon fresh mint (finely chopped)
-- 1 green chilli (small, deseeded, finely chopped - optional)
+- 1 green chilli (small, deseeded, finely chopped, optional)
 
 ### To finish
 - 80 g ready-made boondi (the savoury yellow kind, NOT the sweet pink-and-white, sold at South Asian shops)
@@ -42,7 +42,7 @@ Boondi raita is the cooling bowl that balances any rich plate of biryani, nihari
 
 ### Stage 2 - Whisk the yogurt
 1. Whisk yogurt in a wide bowl until smooth.
-1. Add water 1 tablespoon at a time until it reaches a thick pourable consistency - like single cream.
+1. Add water 1 tablespoon at a time until it reaches a thick pourable consistency, like single cream.
 
 ### Stage 3 - Season
 1. Stir in salt, sugar, ground roasted cumin, Kashmiri chilli powder, chopped mint and green chilli (if using).
@@ -65,7 +65,7 @@ Boondi raita is the cooling bowl that balances any rich plate of biryani, nihari
 1. Toast 2 tablespoons cumin seeds in a dry pan over medium heat 3 minutes until deep brown and very fragrant.
 1. Cool; grind to a fine powder in a mortar or spice grinder.
 1. Store in a sealed jar; keeps 2 months.
-1. (Pakistani roasted cumin is darker and more pungent than raw ground cumin - worth making fresh.)
+1. (Pakistani roasted cumin is darker and more pungent than raw ground cumin, worth making fresh.)
 
 ## Notes
 - **Refresh the boondi:** Ready-made boondi is fried and oily; the hot-water dip removes the surface oil and softens them so they take on the yogurt better. Skipping this step gives a slightly greasy raita.

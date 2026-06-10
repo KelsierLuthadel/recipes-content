@@ -49,8 +49,8 @@ Bajan rice and peas (called "rice and peas" across the English Caribbean) is the
 ### Stage 1 - Cook the dried peas (if using dried)
 1. Drain the soaked pigeon peas; place in a small pot.
 2. Cover with cold water by 5 cm; add a bay leaf and 1 teaspoon salt.
-3. Bring to a simmer; cook 60-75 minutes till tender (test by squeezing a pea - should yield to gentle pressure).
-4. Drain (RESERVE the cooking broth - this is what cooks the rice).
+3. Bring to a simmer; cook 60-75 minutes till tender (test by squeezing a pea, should yield to gentle pressure).
+4. Drain (RESERVE the cooking broth, this is what cooks the rice).
 5. You should have about 200 g cooked peas + 400 ml broth.
 
 ### Stage 1 alternative - If using canned peas
@@ -78,8 +78,8 @@ Bajan rice and peas (called "rice and peas" across the English Caribbean) is the
 1. Bring to a gentle boil.
 2. Reduce to the lowest possible heat.
 3. Cover with a tight lid.
-4. Cook 18-22 minutes till the rice has absorbed all the liquid (check by tilting the pot - no liquid should pool).
-5. Don't lift the lid before 18 minutes - the steam needs to cook the rice fully.
+4. Cook 18-22 minutes till the rice has absorbed all the liquid (check by tilting the pot, no liquid should pool).
+5. Don't lift the lid before 18 minutes, the steam needs to cook the rice fully.
 
 ### Stage 6 - Rest and fluff
 1. Take the pot off the heat (don't remove the lid).
@@ -101,13 +101,13 @@ Bajan rice and peas (called "rice and peas" across the English Caribbean) is the
 - **Canned pigeon peas work:** the traditional Bajan home version often uses canned for speed; the dried-and-soaked version has slightly better flavour.
 
 ## Variations
-**Rice and peas with salt pork:** add 100 g diced salt pork to the sweated onion - the rich Bajan variant.
+**Rice and peas with salt pork:** add 100 g diced salt pork to the sweated onion, the rich Bajan variant.
 **Vegan rice and peas:** the recipe is already vegan (without the optional salt pork).
 **Brown rice and peas:** swap white rice for brown rice; cook 35-40 minutes instead of 18-22; more nutritious.
 **Rice and peas with thyme broth:** make a strong thyme-and-bay broth for the rice; more aromatic.
-**Rice and red beans (rice and beans Cuban-style):** swap pigeon peas for red kidney beans - the Cuban variant.
-**Festive rice and peas:** add 100 g raisins and 50 g toasted coconut shavings - the wedding-day variant.
-**Crab rice and peas (Bajan coastal variant):** add cooked crab meat in the last 5 minutes - the seafood variant.
+**Rice and red beans (rice and beans Cuban-style):** swap pigeon peas for red kidney beans, the Cuban variant.
+**Festive rice and peas:** add 100 g raisins and 50 g toasted coconut shavings, the wedding-day variant.
+**Crab rice and peas (Bajan coastal variant):** add cooked crab meat in the last 5 minutes, the seafood variant.
 
 ## Serving
 At a Bajan Sunday lunch (the traditional setting; rice and peas is the traditional starch on the Sunday plate) · at a Bajan Independence Day (30 November) celebration · at a Bajan rum-shop · at a Caribbean food festival · at home as the Caribbean-themed side · paired with stew chicken, Bajan fried chicken, oxtail, or jerk chicken.

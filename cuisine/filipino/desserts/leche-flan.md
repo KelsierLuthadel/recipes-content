@@ -30,13 +30,13 @@ Leche flan is the Filipino baked caramel custard the country adopted from its Sp
 
 ### Stage 1 - Caramel
 1. Combine the sugar and water in a small heavy-based pan over medium heat.
-1. Don't stir - swirl the pan occasionally as the sugar dissolves.
+1. Don't stir, swirl the pan occasionally as the sugar dissolves.
 1. Cook 6-8 minutes until the syrup turns deep amber (the colour of strong tea).
 1. Working quickly: pour into 8 small individual moulds or 2 oval llanera tins, tilting to coat the bottom evenly.
 1. Cool to set the caramel hard.
 
 ### Stage 2 - Custard
-1. In a wide bowl, gently whisk the egg yolks with a fork (don't use an electric whisk - air bubbles ruin the texture).
+1. In a wide bowl, gently whisk the egg yolks with a fork (don't use an electric whisk, air bubbles ruin the texture).
 1. Whisk in the condensed milk slowly until smooth.
 1. Whisk in the evaporated milk and vanilla.
 1. Add the lemon peel if using; let infuse 5 minutes; remove.
@@ -52,7 +52,7 @@ Leche flan is the Filipino baked caramel custard the country adopted from its Sp
 ### Stage 5 - Cook (steam method)
 1. Place the moulds in a deep tray; pour boiling water around them until it reaches halfway up the sides.
 1. Cover the whole tray with foil; transfer to a 160°C oven.
-1. Bake 40-45 minutes - the custards should be just-set with a slight wobble in the centre.
+1. Bake 40-45 minutes, the custards should be just-set with a slight wobble in the centre.
 1. Test by inserting a knife at the edge; it should come out clean.
 
 ### Stage 5b - Cook (stovetop steam alternative)
@@ -79,4 +79,4 @@ Leche flan is the Filipino baked caramel custard the country adopted from its Sp
 ## Storage
 - Keeps 4 days refrigerated, covered.
 - Tastes better on day 2 (the caramel softens further into the custard).
-- Doesn't freeze well - the texture goes grainy.
+- Doesn't freeze well, the texture goes grainy.

@@ -24,9 +24,9 @@ The Black American family-cookout hot wing distilled to its essentials: Frank's 
 ## Method
 
 ### Stage 1 - Garlic butter sauce
-1. Mince the garlic until it's almost a paste - "when you think you're done, do it 5 more times" is the rule.
+1. Mince the garlic until it's almost a paste, "when you think you're done, do it 5 more times" is the rule.
 1. Melt the butter in a medium saucepan over low-medium heat until it's just bubbling.
-1. Add the garlic; cook 30-60 seconds until fragrant - don't let it brown.
+1. Add the garlic; cook 30-60 seconds until fragrant, don't let it brown.
 1. Pour in the hot sauce; whisk to combine.
 1. Simmer uncovered on low for 15-35 minutes, stirring occasionally, until the sauce thickens to glaze consistency.
 
@@ -50,4 +50,4 @@ The Black American family-cookout hot wing distilled to its essentials: Frank's 
 
 ## Storage
 - Keeps 3 days refrigerated; reheat in the oven at 325°F for 10-15 minutes.
-- Don't microwave - rubbery skin.
+- Don't microwave, rubbery skin.

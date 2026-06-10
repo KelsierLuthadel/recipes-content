@@ -44,14 +44,14 @@ Sheer khurma is the Eid al-Fitr morning dessert, eaten first thing after dawn pr
 ### Stage 2 - Toast the nuts and vermicelli
 1. Melt 1 tablespoon of the ghee in a heavy, wide pan over medium-low heat.
 1. Add the almonds, pistachios and cashews. Stir for 2-3 minutes until the cashews are pale gold and the almonds smell toasted. Tip onto a small plate.
-1. Add the remaining 2 tablespoons of ghee to the same pan. Tip in the broken vermicelli and stir continuously over medium-low heat for 3-4 minutes until evenly deep golden brown. Watch closely - vermicelli goes from pale to burnt in seconds.
+1. Add the remaining 2 tablespoons of ghee to the same pan. Tip in the broken vermicelli and stir continuously over medium-low heat for 3-4 minutes until evenly deep golden brown. Watch closely, vermicelli goes from pale to burnt in seconds.
 
 ### Stage 3 - Build the kheer
 1. Pour the milk into the same pan with the toasted vermicelli. Add the cardamom and stir.
 1. Bring to a gentle simmer over medium-low heat, stirring every minute or so to stop the milk sticking. Cook for 12-15 minutes until the vermicelli is soft but still distinct strands, not falling apart.
 1. Add the sugar a tablespoon at a time, tasting as you go. The traditional taste is sweet but not cloying; some homes go richer.
 1. Stir in the saffron milk; the kheer turns pale gold.
-1. Add the dates, two-thirds of the toasted nuts, and the raisins (if using). Simmer for 3 more minutes - the dates soften and start to release their syrup.
+1. Add the dates, two-thirds of the toasted nuts, and the raisins (if using). Simmer for 3 more minutes, the dates soften and start to release their syrup.
 1. Off the heat, stir in the rose water (if using). Taste once more for sweetness.
 
 ### Stage 4 - Serve
@@ -59,8 +59,8 @@ Sheer khurma is the Eid al-Fitr morning dessert, eaten first thing after dawn pr
 
 ## Notes
 - The vermicelli should be the thin "sevaiyan" sold in Indian and Pakistani groceries, not Italian pasta vermicelli. The Italian sort is much thicker and won't yield the right texture.
-- Some families use khoya (reduced milk solids) for extra richness - about 50 g grated in at the end. Optional but festive.
-- Dates can be soaked briefly in hot milk to soften further if they're firm - most medjools are soft enough straight from the box.
+- Some families use khoya (reduced milk solids) for extra richness, about 50 g grated in at the end. Optional but festive.
+- Dates can be soaked briefly in hot milk to soften further if they're firm, most medjools are soft enough straight from the box.
 
 ## Serving
 First thing on Eid al-Fitr morning, in small bowls passed around the family. Cooled to lukewarm if it's a hot Eid; warm if the morning is cool. A second helping is expected.

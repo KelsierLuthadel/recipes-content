@@ -49,10 +49,10 @@ Malaysia's mamak-style dhal: yellow split peas slow-cooked with curry leaves, mu
 1. Drain the soaked chana dal.
 1. Combine in a large pan with the onion, garlic, ginger, tomato, turmeric, cumin, coriander, green chilli, water and salt.
 1. Bring to the boil; reduce to a steady simmer.
-1. Cook 40-45 minutes, stirring occasionally, until the dhal is completely soft and broken down - almost a thick soup. Top up with water if it dries.
+1. Cook 40-45 minutes, stirring occasionally, until the dhal is completely soft and broken down, almost a thick soup. Top up with water if it dries.
 
 ### Stage 2 - Mash gently
-1. Use a wooden spoon or whisk to mash the dhal slightly - leave some texture.
+1. Use a wooden spoon or whisk to mash the dhal slightly, leave some texture.
 1. Taste; adjust salt.
 
 ### Stage 3 - Tarka
@@ -62,7 +62,7 @@ Malaysia's mamak-style dhal: yellow split peas slow-cooked with curry leaves, mu
 1. Cook 2-3 minutes until everything is golden and fragrant.
 
 ### Stage 4 - Combine
-1. Pour the hot tarka - oil and all - directly over the dhal. Listen to it sizzle.
+1. Pour the hot tarka, oil and all, directly over the dhal. Listen to it sizzle.
 1. Stir once; squeeze in the lime juice.
 1. Top with fresh coriander.
 
@@ -72,7 +72,7 @@ Malaysia's mamak-style dhal: yellow split peas slow-cooked with curry leaves, mu
 ## Notes
 - **Curry leaves:** Fresh ones are non-negotiable for the proper smell; dried are pale imitations.
 - **Dhal consistency:** Should be loose and saucy, not thick. If it tightens too much overnight, loosen with water on reheat.
-- **Tarka at the end only:** The point is contrast - a hit of crackling, hot, oily aromatics over the soft, mellow dhal. Made earlier, it loses its punch.
+- **Tarka at the end only:** The point is contrast, a hit of crackling, hot, oily aromatics over the soft, mellow dhal. Made earlier, it loses its punch.
 
 ## Storage
 - Keeps 5 days refrigerated; flavour improves overnight.

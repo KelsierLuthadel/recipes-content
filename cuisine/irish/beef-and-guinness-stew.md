@@ -38,7 +38,7 @@ Beef and Guinness stew is the pub-kitchen classic of every Dublin and Cork bistr
 ### Stage 1 - Brown the beef
 1. Heat the oven to 150°C fan / 170°C / 340°F.
 2. Pat the beef chunks dry with kitchen paper. Toss in the seasoned flour, shaking off the excess.
-3. Heat 2 tablespoons of the oil in a heavy ovenproof pot or Dutch oven over a medium-high heat. Brown the beef in 3-4 batches, 4-5 minutes per batch, until each side has a proper dark crust. Crowding the pan steams the meat - leave space and turn each piece. Lift each batch onto a plate as it browns.
+3. Heat 2 tablespoons of the oil in a heavy ovenproof pot or Dutch oven over a medium-high heat. Brown the beef in 3-4 batches, 4-5 minutes per batch, until each side has a proper dark crust. Crowding the pan steams the meat, leave space and turn each piece. Lift each batch onto a plate as it browns.
 
 ### Stage 2 - Cook the onions
 1. Drop the heat to medium-low. Add the butter and remaining oil to the pot. When the butter melts, tip in the onions and a good pinch of salt.
@@ -47,7 +47,7 @@ Beef and Guinness stew is the pub-kitchen classic of every Dublin and Cork bistr
 
 ### Stage 3 - Build the stew
 1. Return the beef and any resting juices to the pot. Stir in the treacle.
-2. Pour over the Guinness - it will foam - and bring to a low boil for 2 minutes. Add the stock, bay leaves and thyme. The beef should be just covered; top up with hot water if not.
+2. Pour over the Guinness, it will foam, and bring to a low boil for 2 minutes. Add the stock, bay leaves and thyme. The beef should be just covered; top up with hot water if not.
 3. Cover with the lid and slide into the oven. Cook for 1 hour 30 minutes.
 
 ### Stage 4 - Add the vegetables
@@ -55,7 +55,7 @@ Beef and Guinness stew is the pub-kitchen classic of every Dublin and Cork bistr
 2. Return to the oven, uncovered for the last half hour to reduce the broth, for 45 minutes to 1 hour, until the beef is fork-tender, the potatoes and carrots are cooked, and the barley has plumped and thickened the sauce.
 
 ### Stage 5 - Finish
-1. Fish out the bay leaves and thyme stalk. Taste: the stout brings bitterness, the treacle and onions push back with sweetness - adjust salt to balance.
+1. Fish out the bay leaves and thyme stalk. Taste: the stout brings bitterness, the treacle and onions push back with sweetness, adjust salt to balance.
 2. Scatter with chopped parsley just before serving.
 
 ## Notes

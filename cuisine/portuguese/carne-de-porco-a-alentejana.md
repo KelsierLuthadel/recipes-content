@@ -2,7 +2,7 @@
 
 ![Carne de Porco a Alentejana](resources/carne-de-porco-a-alentejana.jpg)
 
-*Portugal's pork-and-clams: cubes of pork marinated in massa de pimentão (red pepper paste), white wine and garlic, then pan-fried and combined with fresh clams that steam open in the pan, finished with chopped coriander, lemon and fried potato cubes. The iconic Alentejo dish that pairs land and sea - surf-and-turf, Portuguese style.*
+*Portugal's pork-and-clams: cubes of pork marinated in massa de pimentão (red pepper paste), white wine and garlic, then pan-fried and combined with fresh clams that steam open in the pan, finished with chopped coriander, lemon and fried potato cubes. The iconic Alentejo dish that pairs land and sea, surf-and-turf, Portuguese style.*
 
 **Serves:** 4
 

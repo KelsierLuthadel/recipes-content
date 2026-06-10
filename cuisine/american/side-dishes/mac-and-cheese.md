@@ -15,7 +15,7 @@ America's baked pasta side and a Southern Sunday-dinner institution: short pasta
 
 ## Ingredients
 
-- 400 g elbow macaroni (or short tubular pasta - cavatappi, ditalini)
+- 400 g elbow macaroni (or short tubular pasta, cavatappi, ditalini)
 - 1 tablespoon salt (for the pasta water)
 - 60 g unsalted butter
 - 60 g plain flour
@@ -67,7 +67,7 @@ America's baked pasta side and a Southern Sunday-dinner institution: short pasta
 1. Serve hot.
 
 ## Notes
-- **Cheese choice:** Cheddar gives flavour; Gruyère or Jack add stretch; Parmesan adds depth and a sharp top note. Pre-shredded supermarket cheese is coated in anti-caking starch that gives a grainy sauce - grate your own.
+- **Cheese choice:** Cheddar gives flavour; Gruyère or Jack add stretch; Parmesan adds depth and a sharp top note. Pre-shredded supermarket cheese is coated in anti-caking starch that gives a grainy sauce, grate your own.
 - **Warm the milk:** Whisking cold milk into a hot roux gives lumps. Warm milk dissolves smoothly.
 - **Cook pasta short:** It finishes in the oven; full-cooked pasta turns mushy.
 

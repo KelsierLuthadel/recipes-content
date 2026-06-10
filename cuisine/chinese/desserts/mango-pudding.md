@@ -16,7 +16,7 @@ Mango pudding is the dessert that closes a Cantonese banquet, set into small mou
 ## Ingredients
 
 ### Pudding
-- 400 g ripe mango flesh (about 2 large mangoes - peeled, stones removed, weighed)
+- 400 g ripe mango flesh (about 2 large mangoes, peeled, stones removed, weighed)
 - 80 g caster sugar (more or less depending on mango sweetness)
 - 1 tablespoon lime juice (cuts the sweetness, brightens flavour)
 - 12 g powdered gelatin (about 2 ½ teaspoons, or 6 sheets)
@@ -42,12 +42,12 @@ Mango pudding is the dessert that closes a Cantonese banquet, set into small mou
 
 ### Stage 2 - Bloom the gelatin
 1. Sprinkle the powdered gelatin over 150 ml COLD milk in a small bowl.
-1. Let stand 5 minutes - the gelatin swells and looks slightly spongy.
+1. Let stand 5 minutes, the gelatin swells and looks slightly spongy.
 
 ### Stage 3 - Warm milk
 1. In a small saucepan, warm the OTHER 150 ml of milk to just below a simmer (steam rising, no bubbles).
 1. Off heat; tip in the bloomed gelatin mixture.
-1. Whisk until the gelatin fully dissolves - no specks remain.
+1. Whisk until the gelatin fully dissolves, no specks remain.
 
 ### Stage 4 - Combine
 1. Pour the warm gelatin-milk into the mango puree, whisking constantly.
@@ -77,7 +77,7 @@ Mango pudding is the dessert that closes a Cantonese banquet, set into small mou
 ## Notes
 - **Mango ripeness matters more than variety:** Underripe mango makes a sour, fibrous pudding. Choose mangoes that yield slightly to gentle pressure and smell fragrant at the stem. If the only mango available is underripe, leave at room temperature 2-3 days.
 - **Gelatin proportion is gentle:** Hong Kong mango pudding should wobble freely; this isn't a firm panna cotta. The 12 g gelatin for 750 ml of liquid gives a soft tender set. More and the pudding becomes rubbery; less and it won't hold its shape.
-- **Evaporated milk on top is the signature:** The Hong Kong restaurant presentation has a small pour of evaporated milk over the unmoulded pudding - like a creamy moat. Don't substitute condensed milk (too sweet) or fresh cream (too rich).
+- **Evaporated milk on top is the signature:** The Hong Kong restaurant presentation has a small pour of evaporated milk over the unmoulded pudding, like a creamy moat. Don't substitute condensed milk (too sweet) or fresh cream (too rich).
 
 ## Storage
 - Refrigerate 3 days, covered.

@@ -52,12 +52,12 @@ Filet américain is Belgium's national raw-beef preparation, similar in spirit t
 3. With a very sharp knife, slice the beef into thin strips (2-3 mm).
 4. Stack the strips and slice across into thin matchsticks.
 5. Chop across the matchsticks into a fine dice (2-3 mm cubes).
-6. Don't grind, don't blitz - the hand-chop gives the right texture.
+6. Don't grind, don't blitz, the hand-chop gives the right texture.
 7. Place the chopped beef in a bowl in the fridge while you make the dressing.
 
 ### Stage 2 - Make the emulsion (the binder)
 1. In a clean bowl, whisk the egg yolks with the Dijon mustard and vinegar.
-2. Whisking constantly, drizzle in the oil very slowly - a thin steady stream at first till the emulsion forms, then in a thicker stream.
+2. Whisking constantly, drizzle in the oil very slowly, a thin steady stream at first till the emulsion forms, then in a thicker stream.
 3. The mixture should thicken into a dense mayonnaise-like consistency.
 4. Whisk in the optional 1 tablespoon shop mayo if using.
 
@@ -68,7 +68,7 @@ Filet américain is Belgium's national raw-beef preparation, similar in spirit t
 ### Stage 4 - Combine with the beef
 1. Take the chopped beef from the fridge.
 2. Add the dressing in 3 stages, folding gently after each addition with a wooden spoon.
-3. Stop adding dressing when the beef holds together but isn't swimming - you want a "spreadable but coarse" texture.
+3. Stop adding dressing when the beef holds together but isn't swimming, you want a "spreadable but coarse" texture.
 4. (Any leftover dressing keeps 2 days; use as a sandwich spread.)
 5. Taste; adjust seasoning one final time.
 
@@ -83,15 +83,15 @@ Filet américain is Belgium's national raw-beef preparation, similar in spirit t
 - **Pasteurised eggs:** if you're nervous about raw egg, use pasteurised yolks (sold in cartons at supermarkets); the flavour is identical.
 - **Cold tools and surfaces:** the colder the beef stays during prep, the better the texture. Chill your knife and chopping board if you can.
 - **Eat within an hour:** raw beef oxidises and the colour turns from pink to grey within 2 hours; the texture also softens. Make and eat.
-- **Brussels brasserie style:** ask for "américain préparé maison" - meaning made-fresh-at-table; some places do this in front of you with a small theatre.
+- **Brussels brasserie style:** ask for "américain préparé maison", meaning made-fresh-at-table; some places do this in front of you with a small theatre.
 
 ## Variations
 **Steak tartare classique (French):** chopped beef topped with a raw yolk and small bowls of all the condiments separate, so the diner can mix to taste; less emulsified than the Belgian.
-**Tatar au boeuf hâché (cooked):** for the squeamish - lightly brown the beef in a pan for 60 seconds before chopping; you lose the rawness but keep the chopped texture.
+**Tatar au boeuf hâché (cooked):** for the squeamish, lightly brown the beef in a pan for 60 seconds before chopping; you lose the rawness but keep the chopped texture.
 **Filet américain au tabasco:** double the Tabasco; the spicy variant popular in Antwerp.
-**Filet américain à la truffe:** finish with a few drops of truffle oil and a grating of black truffle - upmarket Brussels variant.
-**Vegetarian "américain":** swap the beef for finely diced cooked beetroot mixed with toasted walnuts and a chunky vegan mayo - excellent texture-similar, completely different in spirit.
-**Filet américain sur toast (the canapé):** spread thinly on toasted baguette slices with a caper on top - the Belgian cocktail-canapé variant.
+**Filet américain à la truffe:** finish with a few drops of truffle oil and a grating of black truffle, upmarket Brussels variant.
+**Vegetarian "américain":** swap the beef for finely diced cooked beetroot mixed with toasted walnuts and a chunky vegan mayo, excellent texture-similar, completely different in spirit.
+**Filet américain sur toast (the canapé):** spread thinly on toasted baguette slices with a caper on top, the Belgian cocktail-canapé variant.
 
 ## Serving
 At a Brussels brasserie as a starter or main (the traditional setting) · at a Belgian café for a quick lunch with bread and a Stella · at a Belgian summer terrace · at a Flemish family Sunday brunch · at a Belgian wedding reception buffet · at home with a pre-dinner Belgian gin or a glass of cold Belgian lager.
@@ -99,6 +99,6 @@ At a Brussels brasserie as a starter or main (the traditional setting) · at a B
 ## Storage
 - Make and eat within an hour. Raw beef oxidises fast.
 - If you must hold a small amount, refrigerate in a sealed tub, covered tight to keep air out, for up to 4 hours.
-- Don't freeze the prepared mix - the texture suffers.
+- Don't freeze the prepared mix, the texture suffers.
 - The dressing component on its own (without the beef) keeps 2-3 days in the fridge; use as a sandwich spread or salad dressing.
 - Pre-made supermarket filet américain in tubs has a sell-by date; respect it.

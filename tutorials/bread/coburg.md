@@ -8,7 +8,7 @@
 The Coburg is a cob with one decisive piece of cutlery work: a deep cross cut across the top before the bake. In the oven those four quarters lift apart, picking up their own pattern of blistering along the cut edges. Same dough, same shaping as the cob, but with a striking blistered crown for the price of one extra step.
 
 ## What you're aiming for
-A tight, smooth, round loaf with a deep cross cut through the dome. The cross opens into four "petals" during the bake, each picking up its own pattern of blistering and char along the cut edges. Inside, the crumb is the same as a cob - close, sliceable, generous. The whole thing reads as a more confident bake than a plain round, and the technique is almost identical.
+A tight, smooth, round loaf with a deep cross cut through the dome. The cross opens into four "petals" during the bake, each picking up its own pattern of blistering and char along the cut edges. Inside, the crumb is the same as a cob, close, sliceable, generous. The whole thing reads as a more confident bake than a plain round, and the technique is almost identical.
 
 ## The shaping
 
@@ -22,17 +22,17 @@ This is where the Coburg becomes a Coburg.
 
 ![Cutting the cross into the proved cob](resources/coburg-2.jpg)
 
-Preheat the oven to 220°C. With the loaf sitting on its sheet, take a very sharp knife or a bread lame and make one decisive cut straight across the top - corner to corner, running through the centre. About 1 cm deep. Then turn the loaf 90 degrees and make a second cut perpendicular to the first. You should have a deep + shape across the dome.
+Preheat the oven to 220°C. With the loaf sitting on its sheet, take a very sharp knife or a bread lame and make one decisive cut straight across the top, corner to corner, running through the centre. About 1 cm deep. Then turn the loaf 90 degrees and make a second cut perpendicular to the first. You should have a deep + shape across the dome.
 
 A few things that make a clean cross:
 
 - **Sharp blade, swift motion.** Hesitation drags the dough; a clean slash leaves crisp edges.
-- **Cut deep.** A shallow Coburg cross looks unimpressive - the four quarters won't lift apart enough to show off. About 1 cm is right.
+- **Cut deep.** A shallow Coburg cross looks unimpressive, the four quarters won't lift apart enough to show off. About 1 cm is right.
 - **Through the centre.** The cross should meet at the highest point of the dome. If it's off-centre the quarters bake unevenly.
 
 ## The bake
 
-Slide the scored loaf straight into the hot oven on the middle rack. Bake for 25 to 30 minutes until deeply golden. As it rises, the cross opens dramatically and the four quarters lift away from each other - that's the Coburg's signature.
+Slide the scored loaf straight into the hot oven on the middle rack. Bake for 25 to 30 minutes until deeply golden. As it rises, the cross opens dramatically and the four quarters lift away from each other, that's the Coburg's signature.
 
 Cool on a wire rack for at least an hour before slicing. The cross-cut top makes for natural tearing into quarters at the table.
 

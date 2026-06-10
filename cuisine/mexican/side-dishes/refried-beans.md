@@ -22,7 +22,7 @@ Mexico's frijoles refritos, the side that anchors any Mexican plate and the fill
 - 1 onion (large, halved)
 - 6 garlic cloves (whole, peeled)
 - 2 bay leaves
-- 2 sprigs fresh epazote (optional, traditional - sold dried at Mexican shops; an aromatic herb)
+- 2 sprigs fresh epazote (optional, traditional, sold dried at Mexican shops; an aromatic herb)
 - 1 pork bone, smoked ham hock, or 100 g bacon (optional; vegetarians use 1 tablespoon extra salt)
 - 1 ½ teaspoons salt (added in the last 30 minutes)
 
@@ -37,7 +37,7 @@ Mexico's frijoles refritos, the side that anchors any Mexican plate and the fill
 - pepper
 
 ### To finish
-- 80 g cotija cheese (or queso fresco, crumbled - or feta as a substitute)
+- 80 g cotija cheese (or queso fresco, crumbled, or feta as a substitute)
 - 3 tablespoons fresh coriander (chopped)
 - 1 jalapeño (small, sliced thin, for topping)
 - Warm corn (or flour tortillas to serve)
@@ -61,7 +61,7 @@ Mexico's frijoles refritos, the side that anchors any Mexican plate and the fill
 1. (Pressure cooker: cook on high pressure 30-35 minutes; natural release.)
 
 ### Stage 3 - Reserve liquid
-1. Drain the beans through a sieve set over a large bowl - KEEP the cooking liquid.
+1. Drain the beans through a sieve set over a large bowl, KEEP the cooking liquid.
 1. Discard the bay leaves, onion halves, and pork bone (pull off any meat and reserve).
 
 ### Stage 4 - Refry stage
@@ -78,12 +78,12 @@ Mexico's frijoles refritos, the side that anchors any Mexican plate and the fill
 1. Cook 2 minutes, stirring.
 
 ### Stage 7 - Mash
-1. Mash with a potato masher to a chunky paste - leave some whole beans for texture (smooth puree is the Tex-Mex / commercial style; chunky is traditional Mexican).
+1. Mash with a potato masher to a chunky paste, leave some whole beans for texture (smooth puree is the Tex-Mex / commercial style; chunky is traditional Mexican).
 1. Cook 8-10 more minutes, stirring frequently, until thick and glossy.
 1. Add more bean liquid if the mixture becomes too dry; reduce if too soupy. Final consistency: thick spoonable paste, like very thick porridge.
 
 ### Stage 8 - Season
-1. Taste; adjust salt heavily - refried beans need generous salt.
+1. Taste; adjust salt heavily, refried beans need generous salt.
 1. Add black pepper.
 1. If using leftover ham hock meat, shred and stir in.
 
@@ -95,7 +95,7 @@ Mexico's frijoles refritos, the side that anchors any Mexican plate and the fill
 
 ## Notes
 - **Lard is the right fat:** Lard gives refried beans their unmistakable savoury depth. Bacon fat is a great substitute (and adds smoke). Vegetable oil works but the result is less rich; use 2 tablespoons more oil + 1 tablespoon butter if cooking vegetarian.
-- **Don't drain - reserve the liquid:** The cooking liquid is what makes refried beans creamy. Adding it back during the fry stage gives the right consistency. Throwing it away gives a dry, pasty mash.
+- **Don't drain, reserve the liquid:** The cooking liquid is what makes refried beans creamy. Adding it back during the fry stage gives the right consistency. Throwing it away gives a dry, pasty mash.
 - **Texture is a preference:** Chunky mashed = traditional Mexican home cooking. Smooth puree = Tex-Mex restaurant style. Pinto-bean canned refried beans are usually the puree style; if you've grown up with them, the chunky version may seem rustic.
 
 ## Storage

@@ -44,7 +44,7 @@ Vegetable pakora is the North Indian monsoon snack and the dish that comes out o
 
 ### Stage 1 - Batter
 1. Whisk the gram flour, rice flour, chilli powder, turmeric, ajwain, cumin seeds, coriander seeds, bicarbonate of soda, salt and amchur in a large bowl.
-2. Add the water gradually, whisking, to a thick coating batter - it should drop off a spoon in a slow, heavy ribbon, not run.
+2. Add the water gradually, whisking, to a thick coating batter, it should drop off a spoon in a slow, heavy ribbon, not run.
 3. Rest 5 minutes (the gram flour hydrates).
 
 ### Stage 2 - Mix vegetables

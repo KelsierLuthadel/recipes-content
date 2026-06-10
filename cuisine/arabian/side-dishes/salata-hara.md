@@ -2,7 +2,7 @@
 
 ![Salata Hara](resources/salata-hara.jpg)
 
-*The Saudi "hot salad": a chunky relish-salad of tomato, cucumber, onion, parsley and fresh green chilli, sharpened with lemon and a pinch of cumin. Served alongside almost everything - kabsa, mandi, grilled meats. Saudi tables aren't complete without it. Fast, vivid, crunchy, mildly hot.*
+*The Saudi "hot salad": a chunky relish-salad of tomato, cucumber, onion, parsley and fresh green chilli, sharpened with lemon and a pinch of cumin. Served alongside almost everything, kabsa, mandi, grilled meats. Saudi tables aren't complete without it. Fast, vivid, crunchy, mildly hot.*
 
 **Serves:** 4 as a side
 

@@ -22,7 +22,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 - 150 g carrot (peeled)
 - 150 g cauliflower florets (the tighter inner ones, not the leafy stems)
 - 1 onion (large, peeled)
-- 80 g gherkins (drained, chopped fine - the small sweet variety)
+- 80 g gherkins (drained, chopped fine, the small sweet variety)
 - 100 g pitted dates (chopped fine)
 - 80 g sultanas
 
@@ -67,7 +67,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 
 ### Stage 4 - Add dates and sultanas
 1. Stir in chopped gherkins, dates and sultanas.
-1. Continue simmering uncovered 15-20 minutes - the liquid should reduce, and the vegetables should be tender but still hold their shape. The dates dissolve into the syrup, giving the dark brown colour.
+1. Continue simmering uncovered 15-20 minutes, the liquid should reduce, and the vegetables should be tender but still hold their shape. The dates dissolve into the syrup, giving the dark brown colour.
 
 ### Stage 5 - Thicken
 1. Stir in the cornflour slurry; cook 2 minutes, stirring, until the syrup is glossy and thick enough to coat the back of a spoon.
@@ -85,7 +85,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 
 ### Stage 8 - Mature
 1. Cool jars to room temperature; refrigerate or keep in a cool, dark cupboard.
-1. Leave 2-4 weeks before opening (essential - the flavours mature dramatically in the first 2 weeks).
+1. Leave 2-4 weeks before opening (essential, the flavours mature dramatically in the first 2 weeks).
 
 ### Stage 9 - Serve
 1. Spoon onto a plate as part of a ploughman's lunch: mature cheddar, crusty bread, pickled onion, ½ apple, the pickle, perhaps a slice of ham or pork pie.

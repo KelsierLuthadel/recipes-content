@@ -65,7 +65,7 @@ The vegetarian Moroccan tagine that anchors a Friday family lunch when the house
 
 ## Notes
 - **Ras el hanout quality:** A good blend has 15-30 spices; cheap mixes are mostly cumin and turmeric. Worth seeking out from a North African grocer.
-- **Preserved lemon:** Use just the rind, not the flesh - it's the rind that has the floral, salty flavour. The flesh is too salty/bitter.
+- **Preserved lemon:** Use just the rind, not the flesh, it's the rind that has the floral, salty flavour. The flesh is too salty/bitter.
 - **Apricots not cranberries:** Apricots melt slightly into the sauce and balance the spice. Cranberries are a sharper, less authentic substitute.
 
 ## Storage

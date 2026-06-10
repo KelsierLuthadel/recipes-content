@@ -66,7 +66,7 @@ Morocco's Friday lamb tagine: the slow Sunday-lunch dish that wraps the kitchen 
 
 ### Stage 4 - Brown the lamb
 1. Push onion to one side; turn heat to medium-high.
-1. Add the lamb pieces fat-side down; brown 4 minutes (don't worry about all sides - Moroccan tagines don't sear hard).
+1. Add the lamb pieces fat-side down; brown 4 minutes (don't worry about all sides, Moroccan tagines don't sear hard).
 1. Stir together with the onion.
 
 ### Stage 5 - Simmer
@@ -78,7 +78,7 @@ Morocco's Friday lamb tagine: the slow Sunday-lunch dish that wraps the kitchen 
 ### Stage 6 - Prunes and honey
 1. Add the soaked prunes (and their soaking liquid) to the tagine.
 1. Stir in the honey and additional cinnamon.
-1. Cook uncovered 15-20 minutes - the sauce reduces; the prunes plump further and soften into the sauce.
+1. Cook uncovered 15-20 minutes, the sauce reduces; the prunes plump further and soften into the sauce.
 
 ### Stage 7 - Garnish and serve
 1. Taste; adjust salt or add a small extra drizzle of honey if the dish needs balance.
@@ -88,7 +88,7 @@ Morocco's Friday lamb tagine: the slow Sunday-lunch dish that wraps the kitchen 
 ## Notes
 - **Lamb shoulder, not leg:** Shoulder has fat and connective tissue that melt over 2 hours into a silky sauce. Leg goes dry. Don't substitute.
 - **Honey at the end, not the start:** Honey added early scorches. Add at the prune stage when the sauce is wet enough to dilute it.
-- **Soft prunes, not dried:** Agen-style soft prunes still in the bag - moist, plump, dark. Hard dried prunes need a much longer soak and never quite catch up.
+- **Soft prunes, not dried:** Agen-style soft prunes still in the bag, moist, plump, dark. Hard dried prunes need a much longer soak and never quite catch up.
 
 ## Storage
 - Refrigerate 4 days; even better on day 2 when the fruit has fully integrated.

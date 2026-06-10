@@ -11,14 +11,14 @@
 **Cook Time:** 25 minutes (plus chilling)
 
 ## Overview
-Agua de tamarindo is made from the sticky brown pulp inside tamarind pods, a fruit indigenous to East Africa that travelled across India, Southeast Asia, the Caribbean and Mexico, where it became a foundational ingredient. The pulp is sour and sweet at once, with a slightly fruity, leather-like character. Dissolved in water and sweetened heavily, it becomes the deep amber drink served at every taqueria counter in Mexico. The colour is roughly the colour of a Coca-Cola; the taste is in the same family but cleaner, fruitier and far less artificial-tasting. Tamarindo pairs beautifully with rich Mexican food - the acid cuts through grease, the sweetness balances chilli heat. At a stand it comes in a tall glass with a wedge of lime and sometimes a chamoy-rimmed glass for an extra sour-spicy edge.
+Agua de tamarindo is made from the sticky brown pulp inside tamarind pods, a fruit indigenous to East Africa that travelled across India, Southeast Asia, the Caribbean and Mexico, where it became a foundational ingredient. The pulp is sour and sweet at once, with a slightly fruity, leather-like character. Dissolved in water and sweetened heavily, it becomes the deep amber drink served at every taqueria counter in Mexico. The colour is roughly the colour of a Coca-Cola; the taste is in the same family but cleaner, fruitier and far less artificial-tasting. Tamarindo pairs beautifully with rich Mexican food, the acid cuts through grease, the sweetness balances chilli heat. At a stand it comes in a tall glass with a wedge of lime and sometimes a chamoy-rimmed glass for an extra sour-spicy edge.
 
 ## Ingredients
 
 - 200 g whole tamarind pods (the brittle brown pods from any Mexican / South Asian / Asian grocery) OR 100 g seedless tamarind pulp block (often labelled "tamarind paste" in supermarkets)
 - 2 litres cold water
 - 200 to 250 g caster sugar, to taste
-- A pinch of fine salt (yes, salt - it amplifies the tamarind)
+- A pinch of fine salt (yes, salt, it amplifies the tamarind)
 - Juice of 1 lime (optional, but recommended)
 
 ### To serve
@@ -39,12 +39,12 @@ Agua de tamarindo is made from the sticky brown pulp inside tamarind pods, a fru
 1. Remove from heat and let stand for 10 minutes to cool slightly.
 
 ### Stage 3 - Strain hard
-1. Push the mixture through a fine sieve into a large jug, using the back of a wooden spoon to extract every bit of pulp. Take time with this - most of the flavour is in the pulp paste, not the watery liquid.
+1. Push the mixture through a fine sieve into a large jug, using the back of a wooden spoon to extract every bit of pulp. Take time with this, most of the flavour is in the pulp paste, not the watery liquid.
 1. Discard the spent seeds and fibre left in the sieve.
 
 ### Stage 4 - Sweeten
 1. Add the remaining 1 litre of cold water to dilute.
-1. Stir in 200 g of sugar and the pinch of salt until dissolved. Taste - tamarindo is properly very sweet to balance the strong sourness of the fruit. Add more sugar 25 g at a time to taste.
+1. Stir in 200 g of sugar and the pinch of salt until dissolved. Taste, tamarindo is properly very sweet to balance the strong sourness of the fruit. Add more sugar 25 g at a time to taste.
 1. Stir in the lime juice if using.
 
 ### Stage 5 - Chill and serve

@@ -29,7 +29,7 @@ This recipe uses chaku (palm sugar molasses), which is the proper traditional fi
 - 200 g chaku (palm sugar molasses; substitute jaggery or dark muscovado)
 - 50 g toasted sesame seeds
 - 30 g desiccated coconut
-- 30 g khowa (reduced milk solids) - optional but classic
+- 30 g khowa (reduced milk solids): optional but classic
 - 1 tsp ground cardamom
 - Pinch of salt
 
@@ -58,7 +58,7 @@ This recipe uses chaku (palm sugar molasses), which is the proper traditional fi
 ### Stage 4 - Steam
 1. Set up a steamer with water boiling vigorously.
 1. Line the steamer tier with a lightly oiled banana leaf, a lightly oiled lettuce leaf, or parchment paper with a few holes punched.
-1. Arrange the yomari with 2-3 cm gap between them - they expand slightly and stick if crowded.
+1. Arrange the yomari with 2-3 cm gap between them, they expand slightly and stick if crowded.
 1. Steam 20 minutes, covered. The wrappers will turn from opaque white to slightly translucent. The filling inside will be molten.
 1. Lift carefully onto a serving plate.
 

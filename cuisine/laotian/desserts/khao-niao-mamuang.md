@@ -53,7 +53,7 @@ Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably 
 1. Tip the warm sticky rice into a large bowl.
 2. Pour the warm coconut soak over the rice.
 3. Fold gently with a wooden spoon to combine.
-4. Cover; let stand 10-15 minutes - the rice absorbs the coconut and sweetens.
+4. Cover; let stand 10-15 minutes, the rice absorbs the coconut and sweetens.
 
 ### Stage 4 - Make the drizzle
 1. In a small saucepan, combine the thick coconut cream, sugar, salt and rice flour.
@@ -84,7 +84,7 @@ Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably 
 ## Variations
 **Black sticky rice variant:** use half white sticky rice, half black sticky rice for a striped purple-and-white effect.
 **Durian sticky rice:** swap mango for ripe durian; the more aggressive Lao variant.
-**With ice cream:** add a small scoop of coconut ice cream alongside - the modern Lao-fusion variant.
+**With ice cream:** add a small scoop of coconut ice cream alongside, the modern Lao-fusion variant.
 **Coconut sticky rice with banana:** swap mango for ripe banana; the budget variant.
 **Out-of-season (substitute):** use frozen mango chunks defrosted and dressed with a teaspoon of lime juice and sugar.
 

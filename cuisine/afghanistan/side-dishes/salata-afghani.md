@@ -51,4 +51,4 @@ Salata afghani is the salad that goes alongside every Afghan main, no exceptions
 - **Cuts matter:** Small even dice. Big chunks and it's a chopped salad; mince and it's a salsa.
 
 ## Storage
-- Eat fresh. Doesn't keep - vegetables go soft within hours.
+- Eat fresh. Doesn't keep, vegetables go soft within hours.

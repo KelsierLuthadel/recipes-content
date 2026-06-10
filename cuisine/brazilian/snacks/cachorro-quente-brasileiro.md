@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-The Brazilian cachorro quente (literally "hot dog") is one of South America's most maximalist street foods and a fixture of every São Paulo and Rio de Janeiro street stall, late-night kiosk and lanchonete. The construction is layered and extravagant: a sausage (traditionally a long mild salsicha - Brazilian pork-and-beef sausage similar to a Vienna sausage) first simmered in a tomato-and-vegetable braising sauce that flavours the dog from the outside. Then tucked into a soft white split roll alongside a heaped assortment of toppings stacked in a small tower: chopped pico de gallo (tomato + onion + cilantro), warm sweet corn kernels, grated Parmesan cheese, shredded raw carrot, a small dollop of warm mashed potato, diced ham (presunto), fresh chopped coriander, and finished with a generous fistful of crispy shoestring potato sticks (batata palha - the traditional Brazilian crunchy element). Eat with both hands and many napkins; the tower of toppings overflows the bun.
+The Brazilian cachorro quente (literally "hot dog") is one of South America's most maximalist street foods and a fixture of every São Paulo and Rio de Janeiro street stall, late-night kiosk and lanchonete. The construction is layered and extravagant: a sausage (traditionally a long mild salsicha, Brazilian pork-and-beef sausage similar to a Vienna sausage) first simmered in a tomato-and-vegetable braising sauce that flavours the dog from the outside. Then tucked into a soft white split roll alongside a heaped assortment of toppings stacked in a small tower: chopped pico de gallo (tomato + onion + cilantro), warm sweet corn kernels, grated Parmesan cheese, shredded raw carrot, a small dollop of warm mashed potato, diced ham (presunto), fresh chopped coriander, and finished with a generous fistful of crispy shoestring potato sticks (batata palha, the traditional Brazilian crunchy element). Eat with both hands and many napkins; the tower of toppings overflows the bun.
 
 ## Ingredients
 
@@ -37,8 +37,8 @@ The Brazilian cachorro quente (literally "hot dog") is one of South America's mo
 - 1 medium carrot (grated raw)
 - 400 g warm mashed potato (made simply with butter, milk, salt)
 - 150 g diced ham (presunto cozido)
-- 4 large tomatoes (chopped - for pico de gallo)
-- 1 small red onion (chopped - for pico de gallo)
+- 4 large tomatoes (chopped, for pico de gallo)
+- 1 small red onion (chopped, for pico de gallo)
 - 1 small bunch fresh coriander (chopped)
 - Juice of 1 lime (for pico de gallo)
 - 1 teaspoon fine sea salt (for pico de gallo)
@@ -54,7 +54,7 @@ The Brazilian cachorro quente (literally "hot dog") is one of South America's mo
 
 ### To serve
 - A cold Guaraná Antarctica or a Brazilian beer (Brahma, Skol)
-- A side of plain feijão (beans) for completeness - or just call it a meal in itself
+- A side of plain feijão (beans) for completeness, or just call it a meal in itself
 
 ## Method
 

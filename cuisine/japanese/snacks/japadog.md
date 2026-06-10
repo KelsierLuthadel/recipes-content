@@ -2,7 +2,7 @@
 
 ![Japadog](resources/japadog.jpg)
 
-*The Japanese-Canadian fusion hot dog: a frankfurter in a soft bun topped with Japanese pantry staples - teriyaki sauce, shredded nori, bonito flakes, Kewpie mayonnaise, daikon oroshi (grated daikon), and chopped spring onion. The Vancouver-born street food (with Japanese-Canadian heritage) that bridges American comfort food and Japanese flavour vocabulary.*
+*The Japanese-Canadian fusion hot dog: a frankfurter in a soft bun topped with Japanese pantry staples, teriyaki sauce, shredded nori, bonito flakes, Kewpie mayonnaise, daikon oroshi (grated daikon), and chopped spring onion. The Vancouver-born street food (with Japanese-Canadian heritage) that bridges American comfort food and Japanese flavour vocabulary.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-The Japadog is a Japanese-Canadian fusion hot dog that originated in Vancouver in 2005 when Noriki Tamura opened a cart on Burrard Street selling hot dogs topped with Japanese ingredients (the cart is now an institution with multiple locations and a near-cult following): a high-quality pork-or-beef frankfurter in a soft white bun, topped with Japanese flavour notes you'd never put on an American hot dog - teriyaki sauce, shredded nori (seaweed), bonito flakes (katsuobushi; the smoked-tuna shavings that dance in steam), Kewpie Japanese mayonnaise, daikon oroshi (grated white daikon radish), thinly sliced spring onion, and sometimes Japanese pickles. The result: a hot dog that tastes umami-deep, slightly sweet from the teriyaki, fresh-sharp from the daikon, and unmistakably Japanese in its flavour vocabulary. The Vancouver original menu offers many variants (the Terimayo with teriyaki + mayo + nori is the classic flagship; the Oroshi adds the radish on top; the Kurobuta uses Japanese black-pig sausage). This version captures the traditional Terimayo + Oroshi combination.
+The Japadog is a Japanese-Canadian fusion hot dog that originated in Vancouver in 2005 when Noriki Tamura opened a cart on Burrard Street selling hot dogs topped with Japanese ingredients (the cart is now an institution with multiple locations and a near-cult following): a high-quality pork-or-beef frankfurter in a soft white bun, topped with Japanese flavour notes you'd never put on an American hot dog, teriyaki sauce, shredded nori (seaweed), bonito flakes (katsuobushi; the smoked-tuna shavings that dance in steam), Kewpie Japanese mayonnaise, daikon oroshi (grated white daikon radish), thinly sliced spring onion, and sometimes Japanese pickles. The result: a hot dog that tastes umami-deep, slightly sweet from the teriyaki, fresh-sharp from the daikon, and unmistakably Japanese in its flavour vocabulary. The Vancouver original menu offers many variants (the Terimayo with teriyaki + mayo + nori is the classic flagship; the Oroshi adds the radish on top; the Kurobuta uses Japanese black-pig sausage). This version captures the traditional Terimayo + Oroshi combination.
 
 ## Ingredients
 
@@ -78,7 +78,7 @@ The Japadog is a Japanese-Canadian fusion hot dog that originated in Vancouver i
 7. A sprinkle of spring onion.
 8. A sprinkle of toasted sesame seeds.
 9. Top with shredded nori.
-10. Crown with a generous heap of bonito flakes - they should be visibly dancing in the warmth of the dog.
+10. Crown with a generous heap of bonito flakes, they should be visibly dancing in the warmth of the dog.
 
 ### Stage 6 - Serve
 1. Sprinkle with shichimi togarashi for heat.

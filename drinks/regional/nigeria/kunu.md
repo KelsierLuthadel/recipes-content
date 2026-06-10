@@ -2,7 +2,7 @@
 
 ![Kunu](resources/kunu.jpg)
 
-*Northern Nigeria's staple millet drink: white millet soaked, blended with ginger, cloves and a touch of chilli, strained, sweetened lightly, served chilled in a calabash bowl or tall glass. Cooling, lightly fizzy, nourishing - the everyday drink of Kano, Sokoto and Maiduguri.*
+*Northern Nigeria's staple millet drink: white millet soaked, blended with ginger, cloves and a touch of chilli, strained, sweetened lightly, served chilled in a calabash bowl or tall glass. Cooling, lightly fizzy, nourishing, the everyday drink of Kano, Sokoto and Maiduguri.*
 
 **Serves:** 4 to 6 glasses (makes 1.5 litres)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Kunu is the drink of Northern Nigeria, particularly Hausa and Fulani culture, where it has been brewed for centuries. The base is white millet (or sometimes guinea corn / sorghum, or rice), soaked overnight to soften and start the fermentation that gives kunu its slight tang. The soaked grains are blended with fresh ginger, cloves and (in some versions) a single bird's-eye chilli or a few black peppercorns for a faint heat, then strained through cloth to give a pale beige liquid. A small amount of sugar or pure honey is stirred in to taste - Northern kunu is traditionally only lightly sweet, contrasting with the heavily-sweet Southern Nigerian zobo. The result is a thin, slightly fizzy, creamy-textured drink with a clean grain flavour and a warm gingery finish, served cold in calabash bowls (kwarya) at markets or in glass bottles at homes. Kunu is also considered a "completing food": it's nutritious enough to count as a meal for working travellers, and it's the traditional drink for breaking the Ramadan fast in many Hausa households.
+Kunu is the drink of Northern Nigeria, particularly Hausa and Fulani culture, where it has been brewed for centuries. The base is white millet (or sometimes guinea corn / sorghum, or rice), soaked overnight to soften and start the fermentation that gives kunu its slight tang. The soaked grains are blended with fresh ginger, cloves and (in some versions) a single bird's-eye chilli or a few black peppercorns for a faint heat, then strained through cloth to give a pale beige liquid. A small amount of sugar or pure honey is stirred in to taste, Northern kunu is traditionally only lightly sweet, contrasting with the heavily-sweet Southern Nigerian zobo. The result is a thin, slightly fizzy, creamy-textured drink with a clean grain flavour and a warm gingery finish, served cold in calabash bowls (kwarya) at markets or in glass bottles at homes. Kunu is also considered a "completing food": it's nutritious enough to count as a meal for working travellers, and it's the traditional drink for breaking the Ramadan fast in many Hausa households.
 
 ## Ingredients
 
@@ -22,7 +22,7 @@ Kunu is the drink of Northern Nigeria, particularly Hausa and Fulani culture, wh
 - 8 whole cloves
 - 1 small bird's-eye chilli, deseeded (optional, for traditional faint heat)
 - 6 black peppercorns
-- 3 to 4 tablespoons sugar (or 2 tablespoons honey), to taste - kunu is properly only lightly sweet
+- 3 to 4 tablespoons sugar (or 2 tablespoons honey), to taste, kunu is properly only lightly sweet
 - A pinch of fine salt
 
 ### To serve

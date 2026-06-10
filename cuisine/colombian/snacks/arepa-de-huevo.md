@@ -58,7 +58,7 @@ Arepa de huevo is one of Colombia's most iconic street snacks and a signature sp
 5. Repeat with the other 3 arepas.
 
 ### Stage 5 - Open and fill with egg
-1. Quickly (while still warm - about 30 seconds after lifting out), use a small sharp knife to cut a 3 cm slit along one edge of each puffed arepa.
+1. Quickly (while still warm, about 30 seconds after lifting out), use a small sharp knife to cut a 3 cm slit along one edge of each puffed arepa.
 2. Carefully open the slit with the knife to widen the air pocket.
 3. Crack one egg into a small cup; gently pour into the slit.
 4. Tilt the arepa to let the egg slip inside.

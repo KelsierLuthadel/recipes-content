@@ -29,7 +29,7 @@ Limonana (from "limon" plus "nana", lemon and mint) is one of the great accident
 ## Method
 
 ### Stage 1 - Prep the mint
-1. Pick the mint leaves from the stems. You should have a packed cup; if you have less, add more - the drink should taste assertively of mint.
+1. Pick the mint leaves from the stems. You should have a packed cup; if you have less, add more, the drink should taste assertively of mint.
 1. Rinse and shake dry.
 
 ### Stage 2 - Blend
@@ -49,7 +49,7 @@ Limonana (from "limon" plus "nana", lemon and mint) is one of the great accident
 ## Notes
 - **Mint quantity is the whole point.** 40 g of fresh mint leaves for 4 glasses; less and you've made green lemonade. Some Tel Aviv cafés use 50 g for a more aggressively minty version.
 - **Sugar level.** The Israeli version is more lemon-tart and less syrupy than its Lebanese cousin. 80 g sugar is the standard; reduce to 60 g if you want it even sharper.
-- **High-powered blender.** A weak blender won't pulverise the mint properly. Vitamix-class or Nutribullet works well. Pulse, don't sustain - sustained blending heats the mix and dulls the mint.
+- **High-powered blender.** A weak blender won't pulverise the mint properly. Vitamix-class or Nutribullet works well. Pulse, don't sustain, sustained blending heats the mix and dulls the mint.
 - **Cold lemon juice.** Use lemons straight from the fridge or chill the juice before blending. Warm lemon juice tastes flatter.
 
 ## Variations
@@ -59,4 +59,4 @@ Limonana (from "limon" plus "nana", lemon and mint) is one of the great accident
 - **Hot mint and lemon.** Same ingredients, blended without ice and served warm. The winter equivalent; closer to a tea than a lemonade.
 
 ## Storage
-- Best fresh; the slush starts to separate within 30 minutes. The base (lemon juice + mint + sugar + water, pre-ice) keeps 24 hours in the fridge in a sealed jar - then add ice and blitz fresh at serving.
+- Best fresh; the slush starts to separate within 30 minutes. The base (lemon juice + mint + sugar + water, pre-ice) keeps 24 hours in the fridge in a sealed jar, then add ice and blitz fresh at serving.

@@ -51,7 +51,7 @@ Mazondo is Zimbabwe's spiced stewed cow trotters: a sticky, gelatinous, deeply s
 
 ### Stage 4 - Combine
 1. Add the cooked trotters; stir to coat in the sauce.
-1. Simmer uncovered 45 minutes - the sauce reduces and glazes the trotters; the gelatin thickens it.
+1. Simmer uncovered 45 minutes, the sauce reduces and glazes the trotters; the gelatin thickens it.
 1. Taste; adjust salt and chilli.
 
 ### Stage 5 - Serve
@@ -60,8 +60,8 @@ Mazondo is Zimbabwe's spiced stewed cow trotters: a sticky, gelatinous, deeply s
 ## Notes
 - **Ask the butcher to chop:** Trotters are bone-heavy and impossible to cut at home. They should arrive in 4-6 cm pieces, split lengthwise where possible.
 - **First boil is for cleanliness:** The skim that rises is alarming; the second boil is in clean water with the spices.
-- **Gelatin:** The sauce thickens dramatically as it cools - this is the gelatin. Reheat gently with a splash of water to loosen.
+- **Gelatin:** The sauce thickens dramatically as it cools, this is the gelatin. Reheat gently with a splash of water to loosen.
 
 ## Storage
-- Refrigerate 3 days. The sauce sets like jelly cold - that's correct.
+- Refrigerate 3 days. The sauce sets like jelly cold, that's correct.
 - Freezes 2 months.

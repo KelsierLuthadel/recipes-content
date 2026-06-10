@@ -68,14 +68,14 @@ The Tunisian fricassé is the deep-fried sandwich bun that turns up at every str
 1. Have the egg slices, capers, olives, preserved lemon and parsley ready.
 
 ### Stage 5 - Stuff
-1. With a small knife, cut a slit lengthways along the side of each fricassé (don't cut through - make a pocket).
-1. Open the pocket carefully - it should be hollow inside.
+1. With a small knife, cut a slit lengthways along the side of each fricassé (don't cut through, make a pocket).
+1. Open the pocket carefully, it should be hollow inside.
 1. Spread harissa-tuna mash inside.
 1. Add: 2-3 slices of hard-boiled egg, 2-3 capers, 2-3 olive halves, a small piece of preserved lemon, a sprinkle of parsley.
 
 ### Stage 6 - Serve
 1. Eat IMMEDIATELY while still hot.
-1. The bread softens within 30 minutes - fricassé is best straight after building.
+1. The bread softens within 30 minutes, fricassé is best straight after building.
 
 ## Notes
 - **Hot oil + light dough = hollow interior:** the secret is the fry. The dough puffs into a balloon, leaving a perfect pocket for stuffing. Cold dough won't puff.
@@ -86,4 +86,4 @@ The Tunisian fricassé is the deep-fried sandwich bun that turns up at every str
 ## Storage
 - Eat fricassés within 30 minutes of building.
 - Plain fried buns (unstuffed) keep 1 day at room temperature; reheat briefly in a 180°C oven before stuffing.
-- Don't pre-stuff and store - the filling weeps into the bread.
+- Don't pre-stuff and store, the filling weeps into the bread.

@@ -59,12 +59,12 @@ Gemista is the Greek stuffed-vegetable dish of mid-summer, ripe tomatoes and pep
 1. Add the garlic; cook 1 minute.
 1. Add the rice; toast 2 minutes.
 1. Add the chopped tomato flesh, pine nuts, currants, oregano, sugar, salt and pepper.
-1. Pour in the 200 ml hot water; cover and cook 8 minutes - the rice will be half-done with most liquid absorbed.
+1. Pour in the 200 ml hot water; cover and cook 8 minutes, the rice will be half-done with most liquid absorbed.
 1. Off the heat, stir in the mint, dill and parsley.
 
 ### Stage 3 - Stuff
 1. Stand the tomatoes and peppers in a deep oven dish.
-1. Spoon the rice mixture into each, filling about ¾ - the rice expands as it cooks.
+1. Spoon the rice mixture into each, filling about ¾, the rice expands as it cooks.
 1. Replace the tops.
 
 ### Stage 4 - Tray
@@ -77,7 +77,7 @@ Gemista is the Greek stuffed-vegetable dish of mid-summer, ripe tomatoes and pep
 1. Remove the foil; bake 25-30 minutes more until the vegetables are tender and slightly charred at the edges, the potatoes deeply golden, and the rice fully cooked.
 
 ### Stage 6 - Rest and serve
-1. Rest 15 minutes - the dish settles, the juices redistribute.
+1. Rest 15 minutes, the dish settles, the juices redistribute.
 1. Serve warm or at room temperature with crumbled feta and bread.
 
 ## Notes

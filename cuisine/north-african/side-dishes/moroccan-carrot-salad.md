@@ -38,7 +38,7 @@ Morocco's bright orange side, the small bowl that turns up alongside a tagine or
 
 ### Stage 1 - Cook the carrots
 1. Bring a pot of salted water to a boil.
-1. Add the carrots; boil 8-10 minutes until just tender - a knife should slip in with slight resistance.
+1. Add the carrots; boil 8-10 minutes until just tender, a knife should slip in with slight resistance.
 1. Drain; do NOT rinse with cold water.
 
 ### Stage 2 - Dressing
@@ -46,11 +46,11 @@ Morocco's bright orange side, the small bowl that turns up alongside a tagine or
 
 ### Stage 3 - Combine warm
 1. Tip the drained warm carrots into the bowl with the dressing.
-1. Toss gently - the warm carrots will soak up the dressing.
+1. Toss gently, the warm carrots will soak up the dressing.
 1. Taste; adjust salt or lemon.
 
 ### Stage 4 - Rest
-1. Let cool to room temperature, 30 minutes (or refrigerate longer - flavours improve).
+1. Let cool to room temperature, 30 minutes (or refrigerate longer, flavours improve).
 
 ### Stage 5 - Serve
 1. Scatter coriander and parsley.

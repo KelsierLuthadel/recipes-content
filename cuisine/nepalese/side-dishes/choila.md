@@ -48,13 +48,13 @@ Choila (or chhwela) is a Newari dish from the Kathmandu Valley, traditionally ma
 1. Rest 5 minutes, then tear by hand into rough bite-size strips. Place in a wide warm bowl.
 
 ### Stage 2 - Make the hot dressing
-1. While the meat rests, finely chop the garlic, ginger, green chilli and spring onions (whites and greens together). Have the chopped coriander, lemon juice and ground spices ready in small piles or bowls - this happens fast.
+1. While the meat rests, finely chop the garlic, ginger, green chilli and spring onions (whites and greens together). Have the chopped coriander, lemon juice and ground spices ready in small piles or bowls, this happens fast.
 1. Heat the 3 tbsp mustard oil in a small heavy pan over high heat until smoking heavily. (Mustard oil benefits from being heated until smoking, then briefly cooled; this removes the raw sharpness.)
 1. Reduce heat to medium. Add the cumin seeds, fenugreek seeds and broken dried chillies. They will sizzle violently for 10-15 seconds. The chillies should darken; do not let them burn black.
 1. Off the heat. Add the chopped garlic, ginger and green chilli. They will hiss and aromatise immediately.
 
 ### Stage 3 - Dress the meat
-1. Pour the entire hot dressing - oil, spices, aromatics - over the torn chicken in the bowl.
+1. Pour the entire hot dressing, oil, spices, aromatics, over the torn chicken in the bowl.
 1. Sprinkle over the ground timur, ground cumin, ground turmeric and salt.
 1. Add the lemon juice and chopped spring onions and coriander.
 1. Toss vigorously with two large spoons or your hands (be cautious; the oil is hot). The meat should be uniformly coated in the spiced oil; the herbs should look freshly wilted from the heat.

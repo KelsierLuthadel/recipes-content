@@ -11,7 +11,7 @@ Autumn cooking starts the moment the evenings turn cool enough to want a soup. T
 
 This is also the season when slow technique starts to make sense again. Braises that did not suit August come into their own. Roots get caramelised in the oven instead of eaten raw. Cider replaces white wine in pan sauces, cream comes back into circulation, and the kitchen starts smelling of bay and thyme and bacon fat. Apples get used hot.
 
-A fall menu wants one big, slow main, two roots or a mushroom side, a soup if the room is cold, and something with apple at the end. Save the sweet potato and turkey for late November - they have their own table coming.
+A fall menu wants one big, slow main, two roots or a mushroom side, a soup if the room is cold, and something with apple at the end. Save the sweet potato and turkey for late November, they have their own table coming.
 
 ## Recipes
 

@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-A staple of the Cajun home kitchen, the rice dish that turns up alongside fried chicken at Sunday lunch or as a centre-of-the-plate dinner on a Wednesday. You blitz chicken livers to a fine paste (so they melt into the rice rather than appearing as recognisable pieces - the texture is the point), brown minced beef or pork hard for colour, then add the Cajun trinity of onion, celery and bell pepper to soften in the rendered fat. Cajun spice blooms in the heat, rice toasts in the same pan, stock pours in, and everything simmers covered until the rice is tender and has drunk up the cooking liquid. The result is grey-brown rice studded with meat and trinity. The "dirty" name describes the look (livers staining the grains) not the cleanliness. Eat with hot sauce on the table and a wedge of cornbread on the side.
+A staple of the Cajun home kitchen, the rice dish that turns up alongside fried chicken at Sunday lunch or as a centre-of-the-plate dinner on a Wednesday. You blitz chicken livers to a fine paste (so they melt into the rice rather than appearing as recognisable pieces, the texture is the point), brown minced beef or pork hard for colour, then add the Cajun trinity of onion, celery and bell pepper to soften in the rendered fat. Cajun spice blooms in the heat, rice toasts in the same pan, stock pours in, and everything simmers covered until the rice is tender and has drunk up the cooking liquid. The result is grey-brown rice studded with meat and trinity. The "dirty" name describes the look (livers staining the grains) not the cleanliness. Eat with hot sauce on the table and a wedge of cornbread on the side.
 
 ## Ingredients
 

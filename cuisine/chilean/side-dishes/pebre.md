@@ -46,7 +46,7 @@ Chile's table salsa, the fresh chunky relish that turns up in a small bowl next 
 ## Notes
 - **Tomato seeds out:** Bleed water and dilute the sauce.
 - **Coriander generously:** A small bunch (40 g, stems and leaves) is right. Pebre is herbal-forward.
-- **Heat:** Ají de color is the Chilean original - mild, fruity. Red Thai or Fresno chillies substitute. Adjust to taste.
+- **Heat:** Ají de color is the Chilean original, mild, fruity. Red Thai or Fresno chillies substitute. Adjust to taste.
 
 ## Storage
 - Refrigerate 2 days. The vegetables soften but the sauce keeps.

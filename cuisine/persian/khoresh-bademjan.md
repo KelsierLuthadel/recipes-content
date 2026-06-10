@@ -62,14 +62,14 @@ Khoresh bademjan is the great Persian aubergine stew, layers of golden-fried aub
 
 ### Stage 4 - Spice
 1. Add turmeric, cinnamon, salt and pepper; cook 30 seconds.
-1. Add tomato paste; stir 2 minutes - it should darken slightly.
+1. Add tomato paste; stir 2 minutes, it should darken slightly.
 
 ### Stage 5 - Simmer
 1. Return lamb to the pot.
 1. Add yellow split peas.
 1. Pour in 800 ml water.
 1. Bring to a simmer; cover; reduce heat.
-1. Cook 1 hour - the lamb should be tender; the split peas soft and slightly broken down.
+1. Cook 1 hour, the lamb should be tender; the split peas soft and slightly broken down.
 
 ### Stage 6 - Fry the aubergines
 1. While the lamb simmers: heat 200 ml sunflower oil in a wide pan to 175°C.

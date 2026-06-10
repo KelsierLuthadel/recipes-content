@@ -2,7 +2,7 @@
 
 ![Vitello Tonnato](resources/vitello-tonnato.jpg)
 
-*Piedmont's cold veal with tuna sauce: thinly sliced cold poached veal, sauced with a creamy tuna-mayonnaise-caper-anchovy emulsion, garnished with capers, lemon and parsley. The Piemontese summer antipasto, ribbons of pink veal under pale tuna sauce - counter-intuitive, classic, deeply Italian.*
+*Piedmont's cold veal with tuna sauce: thinly sliced cold poached veal, sauced with a creamy tuna-mayonnaise-caper-anchovy emulsion, garnished with capers, lemon and parsley. The Piemontese summer antipasto, ribbons of pink veal under pale tuna sauce, counter-intuitive, classic, deeply Italian.*
 
 **Serves:** 6 (as antipasto) or 4 (as light main)
 

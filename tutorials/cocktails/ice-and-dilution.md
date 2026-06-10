@@ -6,7 +6,7 @@
 
 ## Overview
 
-Cocktail dilution is the invisible third ingredient. A Daiquiri starts as 90ml of spirit-and-citrus and ends as about 140ml - the extra 50ml is melted ice. A Manhattan starts at 80ml and ends at about 110-115ml. Get this wrong and the cocktail is either too hot (under-diluted) or watery (over-diluted).
+Cocktail dilution is the invisible third ingredient. A Daiquiri starts as 90ml of spirit-and-citrus and ends as about 140ml, the extra 50ml is melted ice. A Manhattan starts at 80ml and ends at about 110-115ml. Get this wrong and the cocktail is either too hot (under-diluted) or watery (over-diluted).
 
 This page covers the three things you control: ice quality, ice size/shape, and how long you shake or stir.
 
@@ -15,33 +15,33 @@ This page covers the three things you control: ice quality, ice size/shape, and 
 The ice in a domestic freezer is usually fine but worth thinking about:
 
 - **Cloudy ice cubes** (the standard ice-tray kind) freeze fast, trapping air. They look cloudy because of the air bubbles. They're slightly more fragile and melt slightly faster than clear ice.
-- **Clear ice cubes** are made by "directional freezing" - you freeze water from one direction so air escapes. They're prettier but for everyday cocktails the difference is small. Worth doing for a presented Old Fashioned with a giant clear cube.
-- **Crushed ice** (Lewis bag + mallet, or a powerful blender) - for Mint Juleps, Mai Tais, frozen daiquiris.
-- **Tap water vs filtered** - if your tap water tastes like chlorine, your ice does too, and that gets into the drink. Use filtered water for ice (a Brita pitcher is enough).
+- **Clear ice cubes** are made by "directional freezing", you freeze water from one direction so air escapes. They're prettier but for everyday cocktails the difference is small. Worth doing for a presented Old Fashioned with a giant clear cube.
+- **Crushed ice** (Lewis bag + mallet, or a powerful blender): for Mint Juleps, Mai Tais, frozen daiquiris.
+- **Tap water vs filtered**: if your tap water tastes like chlorine, your ice does too, and that gets into the drink. Use filtered water for ice (a Brita pitcher is enough).
 
 ## Ice size
 
 Smaller ice = faster dilution. Larger ice = slower dilution.
 
-- **Small cubes (1-2 cm)** in a shaker for a shaken sour - chills aggressively, dilutes quickly. Good.
-- **Standard cubes (3 cm)** in a mixing glass for a stirred drink - chills gently, dilutes properly over 30 seconds. Right.
-- **Large 5 cm cubes** in a rocks glass for an Old Fashioned - chills the drink in the glass, dilutes very slowly. The drink lasts for 20 minutes without becoming watery. Right for sipping.
-- **Crushed ice** in a julep - chills instantly, dilutes very fast. Right for the julep style (icy, slushy).
-- **One huge sphere or cube** in a rocks glass - looks impressive, melts very slowly. Right for a drink you want to sip for 30+ minutes.
+- **Small cubes (1-2 cm)** in a shaker for a shaken sour, chills aggressively, dilutes quickly. Good.
+- **Standard cubes (3 cm)** in a mixing glass for a stirred drink, chills gently, dilutes properly over 30 seconds. Right.
+- **Large 5 cm cubes** in a rocks glass for an Old Fashioned, chills the drink in the glass, dilutes very slowly. The drink lasts for 20 minutes without becoming watery. Right for sipping.
+- **Crushed ice** in a julep, chills instantly, dilutes very fast. Right for the julep style (icy, slushy).
+- **One huge sphere or cube** in a rocks glass, looks impressive, melts very slowly. Right for a drink you want to sip for 30+ minutes.
 
 ## How long to chill
 
-Once you've put cold ice in the shaker/mixing glass with cold ingredients, the temperature drops fast - most of the chilling happens in the first 5-10 seconds. The rest of the time is about getting the dilution right.
+Once you've put cold ice in the shaker/mixing glass with cold ingredients, the temperature drops fast, most of the chilling happens in the first 5-10 seconds. The rest of the time is about getting the dilution right.
 
 **Stirring guide:**
-- 25 seconds - a light Manhattan (less dilution, spirit-forward).
-- 30-35 seconds - the standard stir.
-- 40+ seconds - too much dilution; the drink tastes watery.
+- 25 seconds, a light Manhattan (less dilution, spirit-forward).
+- 30-35 seconds, the standard stir.
+- 40+ seconds, too much dilution; the drink tastes watery.
 
 **Shaking guide:**
-- 8 seconds - a "shorter shake" for cocktails that want minimal dilution (Last Word).
-- 12-15 seconds - the standard hard shake.
-- 20+ seconds - too long; the drink is watery and the ice is broken into shards.
+- 8 seconds, a "shorter shake" for cocktails that want minimal dilution (Last Word).
+- 12-15 seconds, the standard hard shake.
+- 20+ seconds, too long; the drink is watery and the ice is broken into shards.
 
 ## The dilution rule of thumb
 
@@ -62,14 +62,14 @@ The best way to learn the difference is to make the same drink twice, deliberate
 
 ## Diluting flavour, not just temperature
 
-Some cocktails benefit from "additional water" before serving - a few drops of room-temperature water added to a hot whisky (like a Scotch tasting), or a small additional dilution at the end of a hot toddy. This is rare in cocktails; the dilution from ice is usually right. The exception is high-proof spirits (cask-strength whisky, navy gin); these benefit from being slightly more diluted at start to bring them to drinkable strength.
+Some cocktails benefit from "additional water" before serving, a few drops of room-temperature water added to a hot whisky (like a Scotch tasting), or a small additional dilution at the end of a hot toddy. This is rare in cocktails; the dilution from ice is usually right. The exception is high-proof spirits (cask-strength whisky, navy gin); these benefit from being slightly more diluted at start to bring them to drinkable strength.
 
 ## Ice tools
 
-- **Lewis bag + mallet** - for crushed ice. Wrap cubes in a thick canvas bag (cocktail-supply or canvas tool bag); hammer with a wooden mallet. Cheap kit; takes 30 seconds for a glass of crushed.
-- **Ice scoop** - for hygiene. Don't use your hands.
-- **Large cube ice trays** - silicone trays that make 5 cm cubes. £5-8. Worth having for Old Fashioneds.
-- **Clear ice maker** (insulated cooler - directional freezing) - overkill for daily cocktails; nice for presentations.
+- **Lewis bag + mallet**: for crushed ice. Wrap cubes in a thick canvas bag (cocktail-supply or canvas tool bag); hammer with a wooden mallet. Cheap kit; takes 30 seconds for a glass of crushed.
+- **Ice scoop**: for hygiene. Don't use your hands.
+- **Large cube ice trays**: silicone trays that make 5 cm cubes. £5-8. Worth having for Old Fashioneds.
+- **Clear ice maker** (insulated cooler, directional freezing): overkill for daily cocktails; nice for presentations.
 
 ## Common ice mistakes
 

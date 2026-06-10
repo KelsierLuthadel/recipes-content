@@ -53,10 +53,10 @@ A fast, fragrant, hands-on dish: medium shrimp roasted hard in a beer-and-butter
 ## Notes
 - **Don't overcook the shrimp:** five minutes at 260°C is plenty. Anything longer and the shrimp go rubbery. Check at 4 minutes if your oven runs hot.
 - **Scotch bonnet gloves:** the oils transfer to skin and stay there for hours. Always wear gloves when prepping; wash your hands twice afterwards regardless.
-- **Beer choice:** a light lager or pilsner works. Avoid stout or heavy IPA - too dominant against the shrimp.
+- **Beer choice:** a light lager or pilsner works. Avoid stout or heavy IPA, too dominant against the shrimp.
 - **The bread is non-negotiable:** the spiced butter at the bottom of the dish is the second half of the meal. Bread to mop. Don't skip it.
 
 ## Storage
 - Best eaten immediately.
 - Leftover shrimp can be chopped through pasta or rice the next day.
-- Don't refrigerate the dish with the butter still in - it congeals and reheats poorly.
+- Don't refrigerate the dish with the butter still in, it congeals and reheats poorly.

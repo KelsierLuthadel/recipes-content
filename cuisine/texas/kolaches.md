@@ -2,7 +2,7 @@
 
 ![Kolaches](resources/kolaches.jpg)
 
-*Texas's Czech-immigrant filled pastry: soft yeasted sweet dough rolled into small rounds with a thumb-pressed well in the centre, filled with fruit (apricot, prune, poppy seed, cherry) or sausage-and-cheese (the savoury Czech-Texan klobasniky variant), baked till the dough is pale gold. The Central Texas Czech heritage celebrated in pastry - West, Texas's claim to culinary fame.*
+*Texas's Czech-immigrant filled pastry: soft yeasted sweet dough rolled into small rounds with a thumb-pressed well in the centre, filled with fruit (apricot, prune, poppy seed, cherry) or sausage-and-cheese (the savoury Czech-Texan klobasniky variant), baked till the dough is pale gold. The Central Texas Czech heritage celebrated in pastry, West, Texas's claim to culinary fame.*
 
 **Serves:** Makes 16 kolaches
 
@@ -119,7 +119,7 @@ Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) 
 **With nuts:** add chopped walnuts or pecans to the dough; gives crunch.
 
 ## Serving
-Warm with strong coffee. At Czech-Texan bakeries (West, Caldwell, La Grange - the traditional Texas-Czech towns). At Texas breakfast spreads.
+Warm with strong coffee. At Czech-Texan bakeries (West, Caldwell, La Grange, the traditional Texas-Czech towns). At Texas breakfast spreads.
 
 ## Storage
 - Keeps in a sealed container at room temperature 3 days.

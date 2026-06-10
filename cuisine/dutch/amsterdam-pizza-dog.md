@@ -71,7 +71,7 @@ The Amsterdam pizza dog is one of the newer and more polarising entries in the i
 1. Place each cut roll on a baking sheet, cut-side-up.
 2. Lay a warm sausage in the cavity of each roll.
 3. Spoon a generous heap of pizza tomato sauce over each sausage, letting it pool on top.
-4. Pile mozzarella generously over the sauce - load it on (it'll shrink as it melts).
+4. Pile mozzarella generously over the sauce, load it on (it'll shrink as it melts).
 5. Add Parmesan if using.
 6. Add pepperoni and olives if using.
 

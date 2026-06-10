@@ -30,7 +30,7 @@ Chile's homely flan, the simpler cousin of crème caramel that turns up on every
 1. Strain (discard solids).
 
 ### Stage 2 - Eggs
-1. Whisk the eggs gently with the sugar, vanilla and salt - don't aerate.
+1. Whisk the eggs gently with the sugar, vanilla and salt, don't aerate.
 
 ### Stage 3 - Combine
 1. Slowly pour the warm infused milk into the eggs, whisking continuously.
@@ -38,15 +38,15 @@ Chile's homely flan, the simpler cousin of crème caramel that turns up on every
 
 ### Stage 4 - Bake
 1. Heat the oven to 180°C (160°C fan).
-1. Bake 40-45 minutes - the top should be deep golden-brown and the centre should jiggle only slightly when nudged.
-1. Don't over-bake - better to pull at slight wobble than have a curdled custard.
+1. Bake 40-45 minutes, the top should be deep golden-brown and the centre should jiggle only slightly when nudged.
+1. Don't over-bake, better to pull at slight wobble than have a curdled custard.
 
 ### Stage 5 - Cool and chill
 1. Cool to room temperature on a rack (1 hour).
 1. Chill at least 2 hours (overnight is better).
 
 ### Stage 6 - Serve
-1. Spoon into bowls - leche asada doesn't unmould like flan; it's served scooped.
+1. Spoon into bowls, leche asada doesn't unmould like flan; it's served scooped.
 1. Top with fresh berries, a slice of peach in syrup, or a drizzle of dulce de leche.
 
 ## Notes
@@ -57,4 +57,4 @@ Chile's homely flan, the simpler cousin of crème caramel that turns up on every
 ## Storage
 - Keeps 4 days refrigerated.
 - Flavour deepens on day 2.
-- Doesn't freeze well - texture goes grainy.
+- Doesn't freeze well, texture goes grainy.

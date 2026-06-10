@@ -66,5 +66,5 @@ Croquetas de jamón are the bar-snack heart of every Spanish tapas counter from 
 - **Panko gives more crunch:** Traditional fine breadcrumbs work but panko stays crisper after frying.
 
 ## Storage
-- Best fresh. Shaped raw croquetas freeze well 2 months - fry from frozen, adding 1 minute.
+- Best fresh. Shaped raw croquetas freeze well 2 months, fry from frozen, adding 1 minute.
 - Cooked keep 1 day refrigerated; reheat at 180°C for 6 minutes.

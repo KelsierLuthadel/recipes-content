@@ -75,7 +75,7 @@ Shish barak is the Damascene Sunday lunch: small lamb-filled dumplings bathed in
 
 ### Stage 5 - Yogurt sauce
 1. In a wide heavy pan, whisk the yogurt, egg white, cornflour, garlic and salt with the warm water until smooth.
-1. Place on medium-low heat. Stir constantly in one direction with a wooden spoon as it heats - never let it boil hard, and never stop stirring (this prevents splitting).
+1. Place on medium-low heat. Stir constantly in one direction with a wooden spoon as it heats, never let it boil hard, and never stop stirring (this prevents splitting).
 1. After 8-10 minutes the sauce thickens slightly and bubbles gently at the edges.
 
 ### Stage 6 - Combine

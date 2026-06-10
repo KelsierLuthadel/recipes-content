@@ -45,12 +45,12 @@ ingredients:
     name: sunflower oil
     raw: 300 ml sunflower oil
   - qty: 2
-    name: garlic cloves - for aioli-style
-    raw: 2 garlic cloves - for aioli-style
+    name: "garlic cloves : for aioli-style"
+    raw: "2 garlic cloves : for aioli-style"
   - qty: 1
-    name: herbs - for green mayo
-    raw: 1 small bunch fresh herbs - for green mayo
+    name: "herbs : for green mayo"
+    raw: "1 small bunch fresh herbs : for green mayo"
   - qty: 1
     unit: tsp
-    name: aleppo pepper or merken - for spicy mayo
-    raw: 1 teaspoon Aleppo pepper or merkén - for spicy mayo
+    name: aleppo pepper or merken
+    raw: 1 teaspoon Aleppo pepper or merkén, for spicy mayo

@@ -39,13 +39,13 @@ Timman ahmar is the Iraqi red rice, basmati cooked with a deep tomato-and-bahara
 1. Heat 2 tablespoons of the oil in a heavy lidded pot over medium heat.
 1. Cook the onion 6-8 minutes until golden.
 1. Add the garlic; cook 1 minute.
-1. Stir in the tomato paste, baharat, cumin, cinnamon and turmeric; cook 2-3 minutes - the paste will darken.
+1. Stir in the tomato paste, baharat, cumin, cinnamon and turmeric; cook 2-3 minutes, the paste will darken.
 1. Tip into a bowl; clean the pot.
 
 ### Stage 2 - Potato crust
 1. Heat the remaining 2 tablespoons of oil in the cleaned pot over medium heat.
 1. Lay the potato slices flat in a single layer to cover the bottom (overlap slightly if needed).
-1. Salt lightly; cook 4-5 minutes - they should start to colour but not burn.
+1. Salt lightly; cook 4-5 minutes, they should start to colour but not burn.
 
 ### Stage 3 - Build
 1. Drain the rice; mix with the tomato-onion mixture.
@@ -61,7 +61,7 @@ Timman ahmar is the Iraqi red rice, basmati cooked with a deep tomato-and-bahara
 
 ### Stage 5 - Invert
 1. Run a spatula around the edges to loosen.
-1. Invert onto a wide serving plate - the potato crust should come out on top, golden and intact.
+1. Invert onto a wide serving plate, the potato crust should come out on top, golden and intact.
 1. Top with parsley and almonds.
 
 ### Stage 6 - Serve

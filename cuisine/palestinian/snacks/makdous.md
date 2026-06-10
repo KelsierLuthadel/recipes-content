@@ -61,7 +61,7 @@ Makdous is the Palestinian winter pantry in a jar: tiny aubergines stuffed with 
 
 ### Stage 5 - Pack the jar
 1. Place stuffed aubergines tightly into the sterilised jar (slit-side up if possible), packing tightly to maximise count.
-1. Pour olive oil to fully submerge - every aubergine must be under the oil line; expose-to-air = mould.
+1. Pour olive oil to fully submerge, every aubergine must be under the oil line; expose-to-air = mould.
 1. Press the small plate / weight on top to keep aubergines submerged.
 
 ### Stage 6 - Cure
@@ -75,11 +75,11 @@ Makdous is the Palestinian winter pantry in a jar: tiny aubergines stuffed with 
 1. Eat as part of breakfast (with labneh, olives, and bread), on a mezze platter, or sliced onto toast.
 
 ## Notes
-- **Tiny aubergines are the dish:** Big eggplant doesn't work - the cure takes too long, the stuffing-to-aubergine ratio is wrong. Look for the 5-7 cm aubergines sold at Middle Eastern shops; if unavailable, the closest substitute is baby aubergines from supermarkets (somewhat larger but workable).
+- **Tiny aubergines are the dish:** Big eggplant doesn't work, the cure takes too long, the stuffing-to-aubergine ratio is wrong. Look for the 5-7 cm aubergines sold at Middle Eastern shops; if unavailable, the closest substitute is baby aubergines from supermarkets (somewhat larger but workable).
 - **Fully submerged in oil:** Anything above the oil line moulds. The weight on top keeps everything submerged. Check every few days.
 - **Salt-and-press is essential:** Skipping this stage gives bitter, soggy makdous. The 4-6 hour weighted press is the technique.
 
 ## Storage
 - After 7 days curing, refrigerate for safety (the oil-and-salt cure is preservation, but home conditions vary). Refrigerated keeps 3-6 months.
 - Once a jar is opened, eat within 1 month, keeping the remaining aubergines under oil.
-- The flavoured oil at the end of the jar is exceptional - use as a finishing oil on hummus, labneh, salads, or grilled fish.
+- The flavoured oil at the end of the jar is exceptional, use as a finishing oil on hummus, labneh, salads, or grilled fish.

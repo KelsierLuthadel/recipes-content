@@ -2,16 +2,16 @@
 
 ![Salsas](resources/salsas.jpg)
 
-*A Mexican meal without salsa is incomplete. Every taco, every tortilla chip, every fried egg gets dressed. The four traditional salsas - salsa roja, salsa verde, pico de gallo, salsa cruda - cover almost everything. Master one of each style and you can build any Mexican plate.*
+*A Mexican meal without salsa is incomplete. Every taco, every tortilla chip, every fried egg gets dressed. The four traditional salsas, salsa roja, salsa verde, pico de gallo, salsa cruda, cover almost everything. Master one of each style and you can build any Mexican plate.*
 
 ## Overview
 
-A salsa is a sauce - *salsa* literally means "sauce" in Spanish. Mexican salsas range from:
+A salsa is a sauce, *salsa* literally means "sauce" in Spanish. Mexican salsas range from:
 
-- **Raw / fresh (cruda)** - chopped tomato, onion, chilli, coriander, lime. Made in 10 minutes; eaten same day.
-- **Cooked / roasted (asada)** - tomatoes / tomatillos / chillies are charred over a flame or under a grill, then blended. Deeper, smokier.
-- **Boiled (hervida)** - tomatoes / chillies simmered briefly then blended. Cleaner, brighter.
-- **Dry-toasted chilli paste (recado / adobo)** - dried chillies toasted and ground; the foundation of mole.
+- **Raw / fresh (cruda)**: chopped tomato, onion, chilli, coriander, lime. Made in 10 minutes; eaten same day.
+- **Cooked / roasted (asada)**: tomatoes / tomatillos / chillies are charred over a flame or under a grill, then blended. Deeper, smokier.
+- **Boiled (hervida)**: tomatoes / chillies simmered briefly then blended. Cleaner, brighter.
+- **Dry-toasted chilli paste (recado / adobo)**: dried chillies toasted and ground; the foundation of mole.
 
 This page covers the four traditional "everyday" salsas. The recado / mole approach is covered in the [mole page](mole.md).
 
@@ -40,9 +40,9 @@ The everyday Mexican red salsa. Tomato-based, with a chilli kick, served warm or
 7. **Adjust** salt and lime to taste.
 
 ### Variations
-- **Salsa roja picante** - double the árbol chillies; add 1 chipotle in adobo.
-- **Salsa roja cocida** - skip the charring; just simmer everything together for 15 minutes; blend.
-- **Salsa roja tatemada** - char EVERYTHING heavily (tomatoes, onion, garlic). Smokier.
+- **Salsa roja picante**: double the árbol chillies; add 1 chipotle in adobo.
+- **Salsa roja cocida**: skip the charring; just simmer everything together for 15 minutes; blend.
+- **Salsa roja tatemada**: char EVERYTHING heavily (tomatoes, onion, garlic). Smokier.
 
 ### Use
 - On tacos al pastor.
@@ -71,8 +71,8 @@ Tomatillo-based; tart, bright, slightly tangy. Pairs with rich proteins.
 4. **Heat** in a small pan with olive oil for 5 minutes.
 
 ### Variations
-- **Salsa verde cruda** - skip the charring. Just blend raw. Brighter, sharper.
-- **Salsa verde con aguacate** - add half an avocado to the blend. Creamier.
+- **Salsa verde cruda**: skip the charring. Just blend raw. Brighter, sharper.
+- **Salsa verde con aguacate**: add half an avocado to the blend. Creamier.
 
 ### Use
 - On pork tacos (the classic pairing).
@@ -101,9 +101,9 @@ Not blended; just chopped. Fresh, bright, completely uncooked.
 6. **Toss** gently. Let stand 10-15 minutes for flavours to marry.
 
 ### Variations
-- **Pico de gallo con mango** - replace 1 tomato with diced ripe mango. Sweet variant.
-- **Pico de gallo con piña** - add diced pineapple. Pairs with pork tacos.
-- **Pico de gallo de fruta** - replace tomatoes entirely with a fruit mix (mango, pineapple, kiwi, jicama).
+- **Pico de gallo con mango**: replace 1 tomato with diced ripe mango. Sweet variant.
+- **Pico de gallo con piña**: add diced pineapple. Pairs with pork tacos.
+- **Pico de gallo de fruta**: replace tomatoes entirely with a fruit mix (mango, pineapple, kiwi, jicama).
 
 ### Use
 - On any taco.
@@ -126,15 +126,15 @@ A blended raw salsa; smoother than pico de gallo, brighter than salsa roja. The 
 
 ### Method
 1. Place all ingredients in a blender.
-2. Pulse-blend until the salsa is coarse but uniform - not a smooth purée, more like crushed tomato with visible flecks of jalapeño and coriander.
+2. Pulse-blend until the salsa is coarse but uniform, not a smooth purée, more like crushed tomato with visible flecks of jalapeño and coriander.
 3. Taste; adjust lime and salt.
 4. Let rest 30 minutes before serving (the flavours marry).
 
-This salsa is best eaten the day it's made - by day 2 it loses brightness.
+This salsa is best eaten the day it's made, by day 2 it loses brightness.
 
 ### Use
-- The Mexican "table salsa" - sits in the middle of the table, dipped into for everything.
-- On chilaquiles (rojas variant - see below).
+- The Mexican "table salsa", sits in the middle of the table, dipped into for everything.
+- On chilaquiles (rojas variant, see below).
 - Mixed into mayonnaise as a Mexican mayo (for sandwiches).
 
 ## Other essential salsas
@@ -149,26 +149,26 @@ A salsa made with pulque (the ancient Mexican fermented agave beverage) or tequi
 Made by charring chillies until deeply blackened, then blending with garlic, olive oil, and salt. Smoky, intense, used sparingly.
 
 ### Salsa de Mole (a related sauce)
-The mole sauce reduced and used as a dipping salsa - see the [mole page](mole.md).
+The mole sauce reduced and used as a dipping salsa, see the [mole page](mole.md).
 
 ## Chillies: a brief guide
 
 Mexican cooking uses many chillies. Each has a distinct character:
 
 **Fresh chillies** (used in cruda / pico salsas):
-- **Jalapeño** - medium heat; grass-green; the everyday workhorse.
-- **Serrano** - hotter than jalapeño; smaller; for spicier salsas.
-- **Habanero** - fiery; fruit-floral notes; Yucatán cooking.
-- **Poblano** (Pasilla in California) - large, dark green, mild; for chiles rellenos and roasting.
+- **Jalapeño**: medium heat; grass-green; the everyday workhorse.
+- **Serrano**: hotter than jalapeño; smaller; for spicier salsas.
+- **Habanero**: fiery; fruit-floral notes; Yucatán cooking.
+- **Poblano** (Pasilla in California): large, dark green, mild; for chiles rellenos and roasting.
 
 **Dried chillies** (used in salsa roja, mole, adobo):
-- **Guajillo** - moderately hot; red; the foundational mole chilli.
-- **Ancho** (dried poblano) - mild, deep, slightly sweet; in mole.
-- **Pasilla** (dried chilaca) - slightly hotter, dried plum flavour; in mole negro.
-- **Chipotle** - smoked, dried jalapeño; in adobo (jarred chipotles en adobo are excellent).
-- **Árbol** - small, very hot; for salsa picante.
-- **Mulato** - dark, fruit-and-cocoa notes; in mole.
-- **Cascabel** - small round; nut-and-fruit flavours; in mole.
+- **Guajillo**: moderately hot; red; the foundational mole chilli.
+- **Ancho** (dried poblano): mild, deep, slightly sweet; in mole.
+- **Pasilla** (dried chilaca): slightly hotter, dried plum flavour; in mole negro.
+- **Chipotle**: smoked, dried jalapeño; in adobo (jarred chipotles en adobo are excellent).
+- **Árbol**: small, very hot; for salsa picante.
+- **Mulato**: dark, fruit-and-cocoa notes; in mole.
+- **Cascabel**: small round; nut-and-fruit flavours; in mole.
 
 A serious Mexican kitchen has all of the above in dried form.
 
@@ -190,10 +190,10 @@ If a salsa is too:
 
 ## Storage
 
-- **Cooked salsas (roja, verde)** - refrigerate 1 week. Often better on day 2-3.
-- **Pico de gallo / cruda** - refrigerate 2-3 days max. Best day 1.
-- **Macha (oil-based)** - refrigerate 2 weeks.
-- Don't freeze cooked salsas - texture suffers. Refreezing tomato-based sauces is acceptable but the texture changes.
+- **Cooked salsas (roja, verde)**: refrigerate 1 week. Often better on day 2-3.
+- **Pico de gallo / cruda**: refrigerate 2-3 days max. Best day 1.
+- **Macha (oil-based)**: refrigerate 2 weeks.
+- Don't freeze cooked salsas, texture suffers. Refreezing tomato-based sauces is acceptable but the texture changes.
 
 ## The salsa-and-tortilla habit
 

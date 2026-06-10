@@ -30,11 +30,11 @@ Bhutanese ginger tea (called dralo in some regions) is the household drink at an
 
 ### Stage 1 - Simmer
 1. Put the ginger slices, water, and any optional spices (cinnamon, cardamom, pepper) into a small saucepan.
-1. Bring to a hard rolling boil for 2 minutes - this gets the ginger oils released quickly.
+1. Bring to a hard rolling boil for 2 minutes, this gets the ginger oils released quickly.
 1. Reduce to a strong simmer for 10 minutes. The water turns a pale amber and the kitchen smells distinctly of ginger.
 
 ### Stage 2 - Sweeten
-1. Off the heat, stir in the honey until completely dissolved. Don't add honey while boiling - high heat damages the honey's delicate aromatics.
+1. Off the heat, stir in the honey until completely dissolved. Don't add honey while boiling, high heat damages the honey's delicate aromatics.
 1. Squeeze in the lemon juice. The amber colour brightens slightly.
 
 ### Stage 3 - Strain and serve
@@ -55,4 +55,4 @@ Bhutanese ginger tea (called dralo in some regions) is the household drink at an
 
 ## Storage
 - Brewed ginger tea keeps 2 days in the fridge sealed; the ginger sharpness fades after 48 hours. Reheat gently before serving.
-- Best brewed fresh - the kettle goes on, the cup goes out, that's the rhythm.
+- Best brewed fresh, the kettle goes on, the cup goes out, that's the rhythm.

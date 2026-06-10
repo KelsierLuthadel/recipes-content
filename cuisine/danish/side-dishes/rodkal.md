@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a fixture of every Danish Christmas, Sunday roast, frikadeller dinner and traditional cold-month meal: finely shredded red cabbage slow-cooked for 1.5-2 hours with red wine vinegar, sugar, butter, allspice berries, and the traditional Danish sweet-tart liftliftiplifter - a generous spoonful of redcurrant jelly added in the last 20 minutes that brings the colour to a vivid ruby and the flavour to a balanced sweet-sour-fruit. The result is tender, glossy, deeply ruby-coloured, sweet-sour and aromatic, transformed completely from the raw cabbage starting point. Often made days or even a week in advance (it improves dramatically with rest), reheated in big quantities for Christmas, and eaten cold from the fridge as leftovers for days afterwards.
+Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a fixture of every Danish Christmas, Sunday roast, frikadeller dinner and traditional cold-month meal: finely shredded red cabbage slow-cooked for 1.5-2 hours with red wine vinegar, sugar, butter, allspice berries, and the traditional Danish sweet-tart liftliftiplifter, a generous spoonful of redcurrant jelly added in the last 20 minutes that brings the colour to a vivid ruby and the flavour to a balanced sweet-sour-fruit. The result is tender, glossy, deeply ruby-coloured, sweet-sour and aromatic, transformed completely from the raw cabbage starting point. Often made days or even a week in advance (it improves dramatically with rest), reheated in big quantities for Christmas, and eaten cold from the fridge as leftovers for days afterwards.
 
 ## Ingredients
 
@@ -20,8 +20,8 @@ Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a
 - 1 large onion (finely chopped)
 - 200 ml red wine vinegar
 - 100 ml red wine (a dry red; or skip and add extra vinegar + 100 ml water)
-- 100 g caster sugar (or to taste - Danish cooks lean sweet)
-- 4 tablespoons redcurrant jelly (traditional Danish - Hjordbærsyltetøj works as substitute)
+- 100 g caster sugar (or to taste, Danish cooks lean sweet)
+- 4 tablespoons redcurrant jelly (traditional Danish, Hjordbærsyltetøj works as substitute)
 - 8 whole allspice berries
 - 6 whole cloves
 - 1 cinnamon stick
@@ -47,7 +47,7 @@ Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a
 ### Stage 1 - Prep the cabbage
 1. Remove the outer leaves of the red cabbage; quarter it; cut out the core.
 2. Finely shred the cabbage with a sharp knife or mandoline (5mm strips).
-3. The cabbage will look like a huge volume - it cooks down to about a third.
+3. The cabbage will look like a huge volume, it cooks down to about a third.
 
 ### Stage 2 - Sauté the onion
 1. In a large heavy pot (Dutch oven or similar), melt the butter over medium heat.
@@ -93,11 +93,11 @@ Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a
 - **Slow cook 1.5-2 hours:** the cabbage needs the time to fully soften and absorb the flavours. Shortcut versions are noticeably worse.
 - **Redcurrant jelly:** the Danish signature. Adds glossiness, sweet-tart fruitiness, and the traditional Christmas colour.
 - **Make ahead:** rødkål made 2-3 days in advance and reheated is dramatically better than fresh.
-- **Whole spices, removed before serving:** the allspice + cloves + cinnamon stick + bay should be picked out (or just left in and warned about at the table - they're not eaten).
+- **Whole spices, removed before serving:** the allspice + cloves + cinnamon stick + bay should be picked out (or just left in and warned about at the table, they're not eaten).
 - **Sweet-sour balance:** the traditional Danish lean is slightly sweet. Adjust to taste.
 
 ## Variations
-**With goose fat:** swap some butter for goose fat - the traditional Christmas-goose-pairing version.
+**With goose fat:** swap some butter for goose fat, the traditional Christmas-goose-pairing version.
 **Spicier:** add 1 teaspoon Indian curry powder for a less traditional but lovely twist.
 **With pickled herring jus:** add a splash of brine from a jar of pickled herring for extra savoury depth.
 **Sugar-free:** swap sugar for stevia and use sugar-free jelly; works but tastes thinner.
@@ -105,10 +105,10 @@ Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a
 **With orange:** add the zest of 1 orange; gives a brighter winter note.
 
 ## Serving
-At Danish Christmas Eve dinner (julestege + brunede kartofler + rødkål - the traditional Christmas trio) · at any Danish Sunday roast · at a frikadeller weeknight dinner · at a Danish julefrokost Christmas lunch · alongside duck, goose, pork or beef any winter day.
+At Danish Christmas Eve dinner (julestege + brunede kartofler + rødkål, the traditional Christmas trio) · at any Danish Sunday roast · at a frikadeller weeknight dinner · at a Danish julefrokost Christmas lunch · alongside duck, goose, pork or beef any winter day.
 
 ## Storage
 - Refrigerates 2 weeks (improves over the first 3 days; stays good for ages).
-- Freezes 3 months - perfect for making big batches ahead of Christmas.
+- Freezes 3 months, perfect for making big batches ahead of Christmas.
 - Reheat with a splash of water in a pan or microwave.
 - Cold rødkål is excellent on smørrebrød (the Danish lunch tradition).

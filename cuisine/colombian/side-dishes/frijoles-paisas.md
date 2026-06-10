@@ -66,7 +66,7 @@ Frijoles paisas are the slow-cooked red beans that anchor every bandeja paisa in
 1. Eat alongside bandeja paisa, or as a meal on its own with rice and an arepa.
 
 ## Notes
-- **Green plantain trick:** The plantain dissolves into the broth, releasing starch - gives the characteristic velvet texture that paisas use to thicken instead of flour or roux.
+- **Green plantain trick:** The plantain dissolves into the broth, releasing starch, gives the characteristic velvet texture that paisas use to thicken instead of flour or roux.
 - **Pork stays in:** Don't chop the pork belly upfront; the whole piece flavours the broth slowly. Chop only at the end.
 - **Cargamanto:** The Antioquian heirloom red-and-white bean. Hard to find outside Colombia. Kidney beans are the right substitute.
 

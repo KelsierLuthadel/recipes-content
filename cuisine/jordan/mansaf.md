@@ -42,7 +42,7 @@ Jordan's national dish: the platter that gets carried out at weddings, big famil
 ## Method
 
 ### Stage 1 - Soak the jameed
-1. Crumble the jameed balls and soak overnight in 1 litre of cold water - the dried yogurt rehydrates and softens.
+1. Crumble the jameed balls and soak overnight in 1 litre of cold water, the dried yogurt rehydrates and softens.
 1. The next day, blend the soaked mixture smooth in a blender with its soaking liquid; pass through a sieve. Set aside.
 
 ### Stage 2 - Cook the lamb
@@ -52,7 +52,7 @@ Jordan's national dish: the platter that gets carried out at weddings, big famil
 
 ### Stage 3 - Combine with jameed
 1. Lift the lamb out; strain the cooking liquid; return both to a clean pot.
-1. Whisk in the jameed liquid and the chopped onion; bring to a low simmer (don't boil - jameed splits at high heat).
+1. Whisk in the jameed liquid and the chopped onion; bring to a low simmer (don't boil, jameed splits at high heat).
 1. Cook 30 minutes, whisking often, until thickened slightly and the flavours marry.
 
 ### Stage 4 - Rice

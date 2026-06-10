@@ -41,7 +41,7 @@ The butter tart is one of Ontario's most identity-defining baked goods, made in 
 - 60 g currants
 
 ### Equipment
-- 12 individual tart tins (7-8 cm wide, 2.5 cm deep) - non-stick is helpful
+- 12 individual tart tins (7-8 cm wide, 2.5 cm deep): non-stick is helpful
 - A 9 cm round cookie cutter
 - A baking tray
 
@@ -66,13 +66,13 @@ The butter tart is one of Ontario's most identity-defining baked goods, made in 
 ### Stage 3 - Make the filling
 1. Whisk the brown sugar, melted butter, beaten egg, corn syrup, vinegar, vanilla, salt and optional cinnamon together in a bowl.
 2. The mixture should be smooth and pourable, like thick custard.
-3. Don't over-whisk - you don't want to incorporate air.
+3. Don't over-whisk, you don't want to incorporate air.
 
 ### Stage 4 - Add the optional fillings
 1. If using raisins or pecans, divide them evenly among the 12 lined tart tins (about 1 tablespoon per tart).
 
 ### Stage 5 - Fill and bake
-1. Pour the filling into each tart shell to about 2/3 full - DO NOT OVER-FILL (the filling expands and overflows; an overflow burns onto the tin and sticks).
+1. Pour the filling into each tart shell to about 2/3 full, DO NOT OVER-FILL (the filling expands and overflows; an overflow burns onto the tin and sticks).
 2. Bake on the middle shelf of the oven at 200°C for 8 minutes.
 3. Reduce the oven to 180°C (160°C fan); bake 12-14 minutes more till the pastry edges are deep golden and the filling has set around the edges but still wobbles slightly in the centre (for a runny-centre tart) or is fully set (for a firm-centre tart).
 4. The filling will continue to set as it cools.
@@ -81,7 +81,7 @@ The butter tart is one of Ontario's most identity-defining baked goods, made in 
 1. Let the tarts cool in the tins 8-10 minutes (the filling sets enough to handle).
 2. Run a thin knife around the edge of each tart to release.
 3. Lift out gently with a small palette knife; place on a wire rack.
-4. Cool fully before storing - the filling firms further as it cools.
+4. Cool fully before storing, the filling firms further as it cools.
 
 ### Stage 7 - Serve
 1. Best eaten at room temperature, the day they are baked.
@@ -98,12 +98,12 @@ The butter tart is one of Ontario's most identity-defining baked goods, made in 
 
 ## Variations
 **Butter tarts with pecans (modern):** swap raisins for 60 g toasted chopped pecans.
-**Maple butter tarts:** swap 2 tablespoons of the brown sugar for 2 tablespoons pure maple syrup; reduces overall sweetness and adds maple notes - the Quebec-Ontario crossover.
+**Maple butter tarts:** swap 2 tablespoons of the brown sugar for 2 tablespoons pure maple syrup; reduces overall sweetness and adds maple notes, the Quebec-Ontario crossover.
 **Butter tarts with walnuts:** the Northern Ontario classic - 60 g walnut halves.
-**Chocolate-chip butter tarts (modern):** scatter 60 g small dark-chocolate chips on the bottom of each tart before filling - the Cottage-Country variant.
-**Bourbon butter tarts:** add 1 tablespoon of bourbon to the filling - the modern bakery variant.
+**Chocolate-chip butter tarts (modern):** scatter 60 g small dark-chocolate chips on the bottom of each tart before filling, the Cottage-Country variant.
+**Bourbon butter tarts:** add 1 tablespoon of bourbon to the filling, the modern bakery variant.
 **Salted-caramel butter tarts:** add a heavier pinch of fleur de sel on top of each tart in the last 2 minutes of baking; sprinkle a few flakes after cooling.
-**Butter-tart squares (sheet variant):** press the pastry into a 23 × 23 cm tin; pour the filling on top; bake 30 minutes; cool, cut into 16 squares - the home-cook shortcut.
+**Butter-tart squares (sheet variant):** press the pastry into a 23 × 23 cm tin; pour the filling on top; bake 30 minutes; cool, cut into 16 squares, the home-cook shortcut.
 **Open-faced large butter tart (Ontario diner style):** make one big tart in a 23 cm tart tin; bake 35-40 minutes; serve as a sliced pie. Less traditional but practical for parties.
 
 ## Serving
@@ -111,8 +111,8 @@ At an Ontario bakery (the traditional setting; Maid's Cottage, Crust & Crumb, or
 
 ## Storage
 - Stores 3 days at cool room temperature in an airtight container (separate layers with parchment paper).
-- Refrigerates 5 days - bring to room temperature before serving.
-- Freezes 3 months, baked - defrost at room temperature for 2 hours; the texture is slightly firmer after freezing.
+- Refrigerates 5 days, bring to room temperature before serving.
+- Freezes 3 months, baked, defrost at room temperature for 2 hours; the texture is slightly firmer after freezing.
 - The runny-centre version is best within 24 hours; the moisture softens the pastry over time.
 - The firm-centre version keeps longer (4-5 days at room temperature).
 - The raw filling can be made 24 hours ahead and refrigerated; whisk briefly before using.

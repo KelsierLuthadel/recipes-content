@@ -2,7 +2,7 @@
 
 ![Buttery Mashed Potatoes](resources/mashed-potatoes.jpg)
 
-*The silkiest mash: floury potatoes, plenty of butter, warm milk, salt. The technique is steaming-dry the boiled potatoes before mashing, riced not whisked, butter first, milk second. Avoid a food processor - it turns potatoes glue.*
+*The silkiest mash: floury potatoes, plenty of butter, warm milk, salt. The technique is steaming-dry the boiled potatoes before mashing, riced not whisked, butter first, milk second. Avoid a food processor, it turns potatoes glue.*
 
 **Serves:** 4-6
 
@@ -35,7 +35,7 @@ The silkiest British mash: floury potatoes (Maris Piper or King Edward), plenty 
 
 ### Stage 3 - Rice
 1. Pass the potatoes through a ricer or food mill into a clean pan or bowl.
-1. (No ricer? Mash with a hand masher; never use a food processor - it activates starch and gives glue.)
+1. (No ricer? Mash with a hand masher; never use a food processor, it activates starch and gives glue.)
 
 ### Stage 4 - Butter and milk
 1. Add the cold butter cubes to the riced potato; whisk gently with a wooden spoon until incorporated.

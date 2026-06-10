@@ -81,7 +81,7 @@ The Saudi gathering platter built for the night when one cut of meat isn't enoug
 1. Serve with sahawiq, salata and lemon wedges.
 
 ## Notes
-- **Why three meats:** Saudi hospitality goes wide - serving one meat to guests would be modest, three is generous. Each diner picks what they want.
+- **Why three meats:** Saudi hospitality goes wide, serving one meat to guests would be modest, three is generous. Each diner picks what they want.
 - **Don't rush the simmer:** Lamb shin needs 90 minutes minimum; rushing makes chewy meat. Beef joins the lamb; chicken comes in last to keep it moist.
 - **One pot but better in stages:** Cooking the three meats separately is more space-efficient if your pot isn't huge.
 

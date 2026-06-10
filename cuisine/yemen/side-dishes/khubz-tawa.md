@@ -37,7 +37,7 @@ Khubz tawa is the everyday Yemeni griddle bread: a soft lightly leavened flatbre
 
 ### Stage 3 - Cook
 1. Heat a wide dry pan over medium-high heat 2 minutes.
-1. Lay one disc onto the dry pan; cook 60-90 seconds - small bubbles will rise.
+1. Lay one disc onto the dry pan; cook 60-90 seconds, small bubbles will rise.
 1. Flip; cook another 60-90 seconds, pressing gently with a spatula to encourage a few darker spots.
 1. Stack under a clean tea towel as they come off; the steam keeps them soft.
 

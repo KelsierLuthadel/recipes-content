@@ -25,7 +25,7 @@ Mongolia's one-pot noodle dish, the kind of weeknight dinner that fills a deep p
 - 2 tablespoons vegetable oil
 - 2 onions (medium, sliced)
 - 4 garlic cloves (crushed)
-- ½ small cabbage (shredded - about 300 g)
+- ½ small cabbage (shredded, about 300 g)
 - 2 carrots (medium, julienned)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
@@ -57,23 +57,23 @@ Mongolia's one-pot noodle dish, the kind of weeknight dinner that fills a deep p
 
 ### Stage 4 - Steam the noodles
 1. Pour in the water; bring to a simmer.
-1. Spread the raw noodles on top of the stew in a loose pile (don't push them down into the liquid - they need to steam, not boil).
+1. Spread the raw noodles on top of the stew in a loose pile (don't push them down into the liquid, they need to steam, not boil).
 1. Cover tightly; reduce heat to low.
-1. Cook 15 minutes (no peeking - the steam is what cooks the noodles).
+1. Cook 15 minutes (no peeking, the steam is what cooks the noodles).
 
 ### Stage 5 - Toss
 1. Lift the lid; sprinkle over the soy sauce.
-1. With two big forks or wooden spoons, toss everything together - the noodles fall into the meat and vegetables and absorb the juices.
+1. With two big forks or wooden spoons, toss everything together, the noodles fall into the meat and vegetables and absorb the juices.
 1. Cook 2 more minutes uncovered if the bottom is wet.
 
 ### Stage 6 - Serve
 1. Pile into wide bowls; scatter spring onion.
 
 ## Notes
-- **Steam, don't boil:** The water in the pot is for steam only - there should be no broth at the end, just glossy noodles coated in meat juice. If it looks soupy, lift the lid for the last few minutes to evaporate.
+- **Steam, don't boil:** The water in the pot is for steam only, there should be no broth at the end, just glossy noodles coated in meat juice. If it looks soupy, lift the lid for the last few minutes to evaporate.
 - **Hand-cut, not shop-bought:** Shop-bought noodles are pre-dried and won't absorb the meat fat the same way. The fresh noodles are non-negotiable for the right texture.
 - **Mutton fat is the flavour:** Lean cuts give a thinner dish. Mutton shoulder or breast (or fatty beef) is what you want.
 
 ## Storage
 - Refrigerate 3 days; reheats well in a covered pan with a splash of water.
-- Doesn't freeze well - the noodles turn mushy on thaw.
+- Doesn't freeze well, the noodles turn mushy on thaw.

@@ -2,7 +2,7 @@
 
 ![Bistecca alla Fiorentina](resources/bistecca-alla-fiorentina.jpg)
 
-*Tuscany's giant grilled T-bone: a thick (4 cm minimum) T-bone or porterhouse steak from Chianina cattle, grilled rare over wood coals till the outside chars and the inside stays bright red. Seasoned only with sea salt, olive oil, fresh rosemary and lemon. The Florentine restaurant centerpiece - minimalism in service of a perfect piece of meat.*
+*Tuscany's giant grilled T-bone: a thick (4 cm minimum) T-bone or porterhouse steak from Chianina cattle, grilled rare over wood coals till the outside chars and the inside stays bright red. Seasoned only with sea salt, olive oil, fresh rosemary and lemon. The Florentine restaurant centerpiece, minimalism in service of a perfect piece of meat.*
 
 **Serves:** 4 (sharing one giant steak)
 

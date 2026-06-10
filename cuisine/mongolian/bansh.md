@@ -55,7 +55,7 @@ Mongolia's small boiled dumplings, the everyday cousin to the steamed buuz: thum
 1. Cut into 15 g pieces (about thumb-tip sized).
 1. Roll each piece into a thin disc 7-8 cm across.
 1. Spoon a heaped teaspoon of filling onto the centre.
-1. Gather the edges up and pinch them into pleats at the top, forming a small purse. Don't seal completely - bansh traditionally has a tiny opening at the top.
+1. Gather the edges up and pinch them into pleats at the top, forming a small purse. Don't seal completely, bansh traditionally has a tiny opening at the top.
 1. Repeat with remaining dough and filling.
 
 ### Stage 4 - Cook
@@ -70,8 +70,8 @@ Mongolia's small boiled dumplings, the everyday cousin to the steamed buuz: thum
 ## Notes
 - **Bansh vs buuz:** Bansh are smaller and boiled; buuz are bigger and steamed. Both are mutton mince in unleavened dough but the texture is quite different.
 - **The small opening at the top:** Traditional bansh have a tiny gap to let the steam escape during cooking. Don't seal totally airtight.
-- **The water in the filling:** Same trick as khuushuur - water makes the meat juice up inside the dumpling.
+- **The water in the filling:** Same trick as khuushuur, water makes the meat juice up inside the dumpling.
 
 ## Storage
-- Make filled raw bansh, freeze on a tray in a single layer, then bag - keeps 3 months. Cook from frozen, adding 3 minutes to the boil.
+- Make filled raw bansh, freeze on a tray in a single layer, then bag, keeps 3 months. Cook from frozen, adding 3 minutes to the boil.
 - Cooked bansh refrigerate 2 days; reheat in simmering water 2 minutes.

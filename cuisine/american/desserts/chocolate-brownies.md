@@ -2,7 +2,7 @@
 
 ![Chocolate Brownies](resources/chocolate-brownies.png)
 
-*Fudgy, dense, glossy-topped chocolate brownies. The middle should be slightly underdone - set but still gooey; the edges should pull away from the tin. The crackly top is from sugar dissolved fully into the batter; whisk the eggs and sugar long enough to thicken before folding in everything else.*
+*Fudgy, dense, glossy-topped chocolate brownies. The middle should be slightly underdone, set but still gooey; the edges should pull away from the tin. The crackly top is from sugar dissolved fully into the batter; whisk the eggs and sugar long enough to thicken before folding in everything else.*
 
 **Makes:** 16 brownies
 
@@ -46,7 +46,7 @@ The American fudgy brownie at its most uncompromising: dense, glossy-topped, cra
 ### Stage 4 - Bake
 1. Pour into the lined tin; smooth the top.
 1. Bake for 22-25 minutes; the top should be glossy and crackly, the edges set, the centre still wobbling slightly when nudged.
-1. (A skewer in the centre should come out with thick fudgy crumbs - not clean.)
+1. (A skewer in the centre should come out with thick fudgy crumbs, not clean.)
 
 ### Stage 5 - Cool fully
 1. Cool completely in the tin (at least 2 hours; overnight is better).

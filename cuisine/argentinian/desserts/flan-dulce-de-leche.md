@@ -2,7 +2,7 @@
 
 ![Flan con Dulce de Leche](resources/flan-dulce-de-leche.jpg)
 
-*Argentina's most beloved dessert finale: a baked vanilla custard set in a caramelised tin, unmoulded onto a plate, the caramel flowing down to surround it, and a generous spoon of dulce de leche piled on top with a dollop of whipped cream. The two great Argentine sweets - flan and dulce de leche - combined into the traditional Argentine restaurant dessert.*
+*Argentina's most beloved dessert finale: a baked vanilla custard set in a caramelised tin, unmoulded onto a plate, the caramel flowing down to surround it, and a generous spoon of dulce de leche piled on top with a dollop of whipped cream. The two great Argentine sweets, flan and dulce de leche, combined into the traditional Argentine restaurant dessert.*
 
 **Serves:** 8
 
@@ -45,7 +45,7 @@ Flan con dulce de leche is the Argentine dessert that wins all the polls: the mo
 1. Place the sugar and water in a heavy pan.
 2. Heat over medium-high heat without stirring.
 3. Boil 6-8 minutes, swirling occasionally, till the syrup is a deep amber colour.
-4. Watch closely - sugar burns fast at the end.
+4. Watch closely, sugar burns fast at the end.
 
 ### Stage 2 - Coat the tin
 1. Pour the hot caramel immediately into the flan tin.
@@ -77,7 +77,7 @@ Flan con dulce de leche is the Argentine dessert that wins all the polls: the mo
 ### Stage 6 - Unmould
 1. Run a sharp knife around the inside edge of the flan tin.
 2. Place a large serving plate (deep-rimmed) over the top.
-3. Invert sharply - the flan should release with caramel flowing around.
+3. Invert sharply, the flan should release with caramel flowing around.
 4. Lift off the tin.
 
 ### Stage 7 - Finish with dulce de leche
@@ -102,14 +102,14 @@ Flan con dulce de leche is the Argentine dessert that wins all the polls: the mo
 - **Generous dulce on top:** the Argentine signature. Don't be shy.
 
 ## Variations
-**Flan mixto:** with both caramel sauce and dulce de leche - the traditional Argentine version (described above).
+**Flan mixto:** with both caramel sauce and dulce de leche, the traditional Argentine version (described above).
 **Flan casero (homemade simple):** just flan with caramel; no dulce on top.
 **Flan de coco:** add 100 g desiccated coconut to the custard before baking.
 **Flan de chocolate:** add 4 tablespoons cocoa powder to the custard.
 **Flan de café:** add 2 tablespoons espresso to the custard.
-**Flan with creme chantilly:** the traditional Argentine restaurant version - flan + dulce de leche + chantilly cream + a wafer cigar biscuit alongside.
+**Flan with creme chantilly:** the traditional Argentine restaurant version, flan + dulce de leche + chantilly cream + a wafer cigar biscuit alongside.
 **Mini flans:** in 8 individual small ramekins; bake 35 minutes; same technique.
-**Crème brûlée Argentine-style:** torch the dulce de leche on top after assembly - modern restaurant variant.
+**Crème brûlée Argentine-style:** torch the dulce de leche on top after assembly, modern restaurant variant.
 
 ## Serving
 At every Argentine restaurant as the dessert (the traditional setting) · at every Argentine Sunday family lunch · at an Argentine wedding · at an Argentine birthday party · at a Buenos Aires café with espresso · at home as a special-occasion dessert · alongside a glass of dessert wine or coffee.

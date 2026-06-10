@@ -16,7 +16,7 @@ Tameya is the Cairo version of Egyptian falafel, sold by every street vendor acr
 ## Ingredients
 
 ### Bean base
-- 250 g dried split fava beans (foul mudammas / ful asfar - yellowish split bean; sold at Egyptian shops)
+- 250 g dried split fava beans (foul mudammas / ful asfar, yellowish split bean; sold at Egyptian shops)
 - Cold water (for overnight soaking)
 
 ### Blender
@@ -54,11 +54,11 @@ Tameya is the Cairo version of Egyptian falafel, sold by every street vendor acr
 ### Stage 1 - Soak (no cooking)
 1. Place split fava beans in a deep bowl; cover with cold water by 5 cm.
 1. Soak 12 hours.
-1. Drain. (Don't cook - that's the falafel rule. Cooked beans give a different, mushy product.)
+1. Drain. (Don't cook, that's the falafel rule. Cooked beans give a different, mushy product.)
 
 ### Stage 2 - Blitz
 1. In a food processor, combine drained beans, onion chunks, garlic, herbs, leek, salt, cumin, coriander, pepper, Aleppo pepper.
-1. Pulse repeatedly to a coarse green paste - not smooth puree; some texture is essential for the right tameya structure.
+1. Pulse repeatedly to a coarse green paste, not smooth puree; some texture is essential for the right tameya structure.
 1. Tip into a bowl; cover; rest 30 minutes (lets the herbs infuse).
 
 ### Stage 3 - Prep the sesame coating
@@ -88,7 +88,7 @@ Tameya is the Cairo version of Egyptian falafel, sold by every street vendor acr
 
 ## Notes
 - **Dried fava beans, NOT chickpeas:** This is what makes tameya Egyptian. Chickpea falafel is the Lebanese / Palestinian / general-Levant version. The fava version is greener, softer, more vegetal.
-- **Soak only - never cook:** Cooked beans give a soggy, falling-apart patty. Raw soaked beans give the right structure that frizzles crisp on the outside while staying fluffy-green inside.
+- **Soak only, never cook:** Cooked beans give a soggy, falling-apart patty. Raw soaked beans give the right structure that frizzles crisp on the outside while staying fluffy-green inside.
 - **Add baking soda last:** Baking soda activates with moisture; mixing it in early gives flat patties. Add right before shaping.
 
 ## Storage

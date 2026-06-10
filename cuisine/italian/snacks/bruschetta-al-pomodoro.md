@@ -16,7 +16,7 @@ The bruschetta everyone else apes, made properly. You cube ripe tomatoes (and th
 ## Ingredients
 
 ### Tomato topping
-- 600 g ripe tomatoes (mixed sizes/colours - beef, plum, vine, cherry; the riper the better)
+- 600 g ripe tomatoes (mixed sizes/colours, beef, plum, vine, cherry; the riper the better)
 - 4 garlic cloves (2 crushed for the topping, 2 whole for rubbing the bread)
 - 1 teaspoon fine salt
 - 3 tablespoons extra-virgin olive oil
@@ -25,8 +25,8 @@ The bruschetta everyone else apes, made properly. You cube ripe tomatoes (and th
 - ½ teaspoon black pepper
 
 ### Bread and finish
-- 8 thick slices crusty country bread (sourdough, pugliese or any rustic loaf - about 2 cm thick)
-- 4-5 tablespoons extra-virgin olive oil (for drizzling - good oil only)
+- 8 thick slices crusty country bread (sourdough, pugliese or any rustic loaf, about 2 cm thick)
+- 4-5 tablespoons extra-virgin olive oil (for drizzling, good oil only)
 - 1 teaspoon flaky sea salt
 - Black pepper
 
@@ -50,7 +50,7 @@ The bruschetta everyone else apes, made properly. You cube ripe tomatoes (and th
 1. **Oven broiler**: place slices on a tray under a hot grill (broiler), 4 minutes per side.
 
 ### Stage 3 - Garlic rub
-1. While the bread is still hot from the grill, take a peeled whole garlic clove and rub one side of each slice firmly - the rough surface acts as a grater and the garlic essence rubs in.
+1. While the bread is still hot from the grill, take a peeled whole garlic clove and rub one side of each slice firmly, the rough surface acts as a grater and the garlic essence rubs in.
 1. One whole clove will do about 4 slices before it disintegrates.
 
 ### Stage 4 - Olive oil drizzle
@@ -58,17 +58,17 @@ The bruschetta everyone else apes, made properly. You cube ripe tomatoes (and th
 1. The bread should glisten but not pool.
 
 ### Stage 5 - Top
-1. Spoon the macerated tomatoes onto each slice - about 2 heaped tablespoons per slice.
+1. Spoon the macerated tomatoes onto each slice, about 2 heaped tablespoons per slice.
 1. Drizzle a tiny bit of the tomato-and-oil juice from the bowl over each topped slice.
 1. Finish with a pinch of flaky sea salt, a grind of black pepper, and a few more basil leaves.
 1. Optional: shave parmesan or pecorino on top.
 
 ### Stage 6 - Serve immediately
-1. Eat within 60 seconds of topping - beyond that, the bread starts to soften under the wet topping.
+1. Eat within 60 seconds of topping, beyond that, the bread starts to soften under the wet topping.
 1. Provide napkins.
 
 ## Notes
-- **Bread is the dish:** Use good crusty bread. Soft white sliced bread is not bruschetta. The crust on a thick slice of sourdough or rustic country loaf is what makes the dish work - it provides the bite that contrasts with the soft wet tomato topping.
+- **Bread is the dish:** Use good crusty bread. Soft white sliced bread is not bruschetta. The crust on a thick slice of sourdough or rustic country loaf is what makes the dish work, it provides the bite that contrasts with the soft wet tomato topping.
 - **Toast hard, then top:** Pre-topped pre-rested bruschetta is wrong; the bread softens by the time it gets to the table. Toast first, top at the last possible moment.
 - **Don't skip the garlic rub:** It's a small step that transforms the bread. The toast-rub-drizzle sequence is the foundation; the topping is just garnish.
 

@@ -18,13 +18,13 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 ## Ingredients
 
 ### Filling
-- 700 g boneless pork shoulder (with fat - about 25% fat)
+- 700 g boneless pork shoulder (with fat, about 25% fat)
 - 150 g unsmoked thick-cut bacon
 - 1 teaspoon white pepper
 - 1 teaspoon salt
 - 1 teaspoon ground mace (or nutmeg, slightly different)
 - 1 teaspoon dried sage
-- 1 teaspoon anchovy paste (optional, for depth - invisible in flavour but adds umami)
+- 1 teaspoon anchovy paste (optional, for depth, invisible in flavour but adds umami)
 - ½ teaspoon ground allspice
 - ¼ teaspoon ground ginger
 - 1 tablespoon brandy (optional)
@@ -54,7 +54,7 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 ## Method
 
 ### Stage 1 - Filling prep
-1. Cut the pork shoulder and bacon into 5 mm dice - don't mince (the texture is the point).
+1. Cut the pork shoulder and bacon into 5 mm dice, don't mince (the texture is the point).
 1. Mix with white pepper, salt, mace, sage, anchovy paste, allspice, ginger and brandy.
 1. Cover; refrigerate while you make the pastry.
 
@@ -63,7 +63,7 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 1. In a small saucepan, combine the lard, butter and water.
 1. Heat gently until the fats melt and the mixture comes to a boil.
 1. Immediately pour the hot fat-water into the flour.
-1. Mix with a wooden spoon (it's hot) until you have a soft dough; once cool enough to handle, knead briefly into a smooth ball - do this while still WARM (the dough is pliable while warm; brittle when cool).
+1. Mix with a wooden spoon (it's hot) until you have a soft dough; once cool enough to handle, knead briefly into a smooth ball, do this while still WARM (the dough is pliable while warm; brittle when cool).
 1. Cut off and reserve a third of the dough for the lid; wrap and keep warm (near the oven, not in it).
 
 ### Stage 3 - Mould
@@ -83,7 +83,7 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 1. Brush the top all over with egg wash.
 1. Heat oven to 200°C (180°C fan).
 1. Bake 30 minutes (the pastry goes golden and crisp at the edges).
-1. Reduce heat to 160°C (140°C fan); bake another 60-75 minutes - the internal temperature of the meat should reach 80°C on a probe thermometer.
+1. Reduce heat to 160°C (140°C fan); bake another 60-75 minutes, the internal temperature of the meat should reach 80°C on a probe thermometer.
 1. The pastry should be deep mahogany gold all over.
 
 ### Stage 7 - Make the jelly
@@ -93,7 +93,7 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 
 ### Stage 8 - Fill with jelly
 1. Cool the baked pie 30 minutes (it should still be warm, but not hot).
-1. Using a small funnel, slowly pour the warm-but-not-hot jelly stock through the steam hole - pour in stages, letting the meat absorb the liquid.
+1. Using a small funnel, slowly pour the warm-but-not-hot jelly stock through the steam hole, pour in stages, letting the meat absorb the liquid.
 1. Stop pouring when the pie is full (resistance + a tiny well of liquid visible in the hole).
 
 ### Stage 9 - Set
@@ -112,5 +112,5 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 
 ## Storage
 - Refrigerate 5 days, well wrapped. Eat cold.
-- Pork pie freezes badly - the pastry softens and the jelly weeps on thaw.
+- Pork pie freezes badly, the pastry softens and the jelly weeps on thaw.
 - Best at days 2-3 when the jelly has fully set and the flavours have married.

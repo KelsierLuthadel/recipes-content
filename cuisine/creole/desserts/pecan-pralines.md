@@ -40,7 +40,7 @@ Pralines are the Louisiana confection sold at every counter on Bourbon Street, s
 1. Place over medium heat; stir until the butter melts and the sugar dissolves.
 1. Clip on a candy thermometer.
 1. Bring to a simmer; stop stirring.
-1. Cook to 116°C (soft-ball stage - about 6-8 minutes from the simmer).
+1. Cook to 116°C (soft-ball stage, about 6-8 minutes from the simmer).
 1. Add the salt during this time.
 
 ### Stage 3 - Off heat
@@ -66,5 +66,5 @@ Pralines are the Louisiana confection sold at every counter on Bourbon Street, s
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature.
-- Don't refrigerate - the sugar absorbs moisture and they go sticky.
+- Don't refrigerate, the sugar absorbs moisture and they go sticky.
 - Wrap individually in cellophane for gifts.

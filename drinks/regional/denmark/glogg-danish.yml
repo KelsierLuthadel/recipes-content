@@ -67,8 +67,8 @@ ingredients:
   - qty: 1
     name: orange peel
     raw: 1 small piece of orange peel
-  - name: æbleskiver dusted with icing sugar and served with raspberry or strawberry jam - the traditional pairing
-    raw: Æbleskiver dusted with icing sugar and served with raspberry or strawberry jam - the traditional pairing
+  - name: æbleskiver dusted with icing sugar and served with raspberry or strawberry jam
+    raw: Æbleskiver dusted with icing sugar and served with raspberry or strawberry jam, the traditional pairing
   - name: pebernødder
     raw: Pebernødder
   - name: klejner

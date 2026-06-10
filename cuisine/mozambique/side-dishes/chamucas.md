@@ -48,7 +48,7 @@ Mozambique's take on the samosa, brought to East Africa by Indian traders and re
 ### Stage 2 - Fold
 1. Take a pastry strip; place a teaspoon of filling on the bottom-right corner.
 1. Fold the corner up to the left edge to form a triangle.
-1. Continue folding the triangle up the strip in a zig-zag (flag-fold method) - each fold makes a triangular packet.
+1. Continue folding the triangle up the strip in a zig-zag (flag-fold method): each fold makes a triangular packet.
 1. At the end, seal the tail with the flour-water paste.
 1. Repeat until filling is used up.
 
@@ -61,7 +61,7 @@ Mozambique's take on the samosa, brought to East Africa by Indian traders and re
 1. Eat hot or warm with piri-piri sauce or a chilli dip.
 
 ## Notes
-- **Folding technique:** YouTube "samosa fold" - the flag/zig-zag method is universal across South Asia, East Africa and the Lusophone world. After two or three you'll have it.
+- **Folding technique:** YouTube "samosa fold", the flag/zig-zag method is universal across South Asia, East Africa and the Lusophone world. After two or three you'll have it.
 - **Cool filling is essential:** Warm filling steams the pastry from the inside and ruins the seal.
 - **Sealing paste:** A small amount of flour-water at every tucked corner; without it the parcels open in the fryer and shed filling.
 

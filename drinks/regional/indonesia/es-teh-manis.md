@@ -11,7 +11,7 @@
 **Cook Time:** 8 minutes
 
 ## Overview
-Es teh manis ("sweet iced tea" in Indonesian) is what Indonesians actually order at warungs (small food stalls) - even more than coffee. The build is strong black tea (Sariwangi or any Indonesian Ceylon blend) brewed hard, generously sweetened with sugar while still warm so it dissolves cleanly, then poured over a tall glass of crushed ice and finished with a paper or plastic straw. Sometimes a wedge of lime sits on the rim. Considered the universal accompaniment to spicy Indonesian food - the sweetness offsets the chilli, the ice cuts the heat. A glass at every meal.
+Es teh manis ("sweet iced tea" in Indonesian) is what Indonesians actually order at warungs (small food stalls): even more than coffee. The build is strong black tea (Sariwangi or any Indonesian Ceylon blend) brewed hard, generously sweetened with sugar while still warm so it dissolves cleanly, then poured over a tall glass of crushed ice and finished with a paper or plastic straw. Sometimes a wedge of lime sits on the rim. Considered the universal accompaniment to spicy Indonesian food, the sweetness offsets the chilli, the ice cuts the heat. A glass at every meal.
 
 ## Ingredients
 

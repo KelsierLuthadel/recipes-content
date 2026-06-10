@@ -63,7 +63,7 @@ The Montreal all-dressed hot dog (toute garnie in French) is the signature Quebe
 ## Notes
 - **Steamed, not grilled:** the traditional Montreal preparation. The snack-bar steamer is always running.
 - **New England top-split bun:** the structural signature. Side-split buns work but aren't right.
-- **Shredded raw cabbage, undressed:** the Quebec ingredient. Not slaw - just raw shredded cabbage.
+- **Shredded raw cabbage, undressed:** the Quebec ingredient. Not slaw, just raw shredded cabbage.
 - **Yellow mustard, chopped onion, cabbage:** the traditional "all-dressed" trio.
 
 ## Variations

@@ -14,7 +14,7 @@ The infusion principle is the same as for vodka: pour the spirit over a flavour 
 
 - **Base proof:** moonshine starts at 50% ABV. The infusion concentrates flavours faster than the same procedure with vodka (40% ABV).
 - **Sweetness:** flavoured moonshines are sweet. A sugar syrup is added; the resulting cordial is closer to a liqueur than a flavoured spirit.
-- **Final proof:** typically 35-50 proof (17.5-25% ABV) - much lower than the base moonshine. Drinkable straight.
+- **Final proof:** typically 35-50 proof (17.5-25% ABV): much lower than the base moonshine. Drinkable straight.
 
 This page covers the Ole Smoky canon by name, with family-scale recipes for each.
 
@@ -24,7 +24,7 @@ The single most popular flavoured moonshine in the United States. Spiced apple c
 
 ### Ingredients (makes about 2 litres)
 - 1 litre Ole Smoky-style moonshine (50% ABV)
-- 1 litre fresh apple cider (the non-alcoholic, unfiltered kind - what Brits call "cloudy apple juice")
+- 1 litre fresh apple cider (the non-alcoholic, unfiltered kind, what Brits call "cloudy apple juice")
 - 250 ml apple juice (clear, for layered apple character)
 - 200 g brown sugar
 - 4 cinnamon sticks
@@ -39,7 +39,7 @@ The single most popular flavoured moonshine in the United States. Spiced apple c
 3. Cool to room temperature.
 4. Strain through a fine mesh sieve to remove spices and lemon zest.
 5. Stir in the moonshine and vanilla extract.
-6. Bottle in mason jars. Refrigerate 2-3 days before drinking - the flavours integrate.
+6. Bottle in mason jars. Refrigerate 2-3 days before drinking, the flavours integrate.
 
 Final ABV: about 25%.
 
@@ -79,7 +79,7 @@ The Appalachian summer pick. Wild blackberries are abundant across the Tennessee
 - ½ cinnamon stick
 
 ### Method
-1. Lightly crush the blackberries with the back of a wooden spoon - not to a paste, just to release juice.
+1. Lightly crush the blackberries with the back of a wooden spoon, not to a paste, just to release juice.
 2. Combine crushed blackberries, sugar, lemon juice and cinnamon stick in a clean jar.
 3. Add the moonshine. Seal.
 4. Steep 2-3 weeks in a cool dark place. Shake every few days.
@@ -121,7 +121,7 @@ The darkest and richest of the flavoured moonshines. Use sour cherries (Montmore
 
 ### Method
 1. Combine all ingredients in a clean jar.
-2. Steep 3-4 weeks (longer than the other fruits - cherry is slower to give its flavour).
+2. Steep 3-4 weeks (longer than the other fruits, cherry is slower to give its flavour).
 3. Strain through cheesecloth, then coffee filter.
 4. Bottle.
 
@@ -129,7 +129,7 @@ Final ABV: about 38%.
 
 ## White Lightnin' (the un-flavoured version)
 
-This is just the base moonshine, packaged for sale. The "flavour" is the corn itself, the cuts, the proof. See [Ole Smoky moonshine](ole-smoky-moonshine.md) - that recipe IS White Lightnin'.
+This is just the base moonshine, packaged for sale. The "flavour" is the corn itself, the cuts, the proof. See [Ole Smoky moonshine](ole-smoky-moonshine.md): that recipe IS White Lightnin'.
 
 Tradition: cut to 50% ABV (100 proof) for the proper Tennessee strength.
 
@@ -139,7 +139,7 @@ A pre-mixed cocktail-in-a-jar. Multiple fruit juices, two spirits, sweet but not
 
 ### Ingredients (makes about 2 litres)
 - 750 ml moonshine
-- 500 ml fruit punch (the bottled kind - Hawaiian Punch is the cultural standard)
+- 500 ml fruit punch (the bottled kind, Hawaiian Punch is the cultural standard)
 - 250 ml pineapple juice
 - 250 ml orange juice
 - 100 g granulated sugar
@@ -184,15 +184,15 @@ Serving: over ice with a splash of cream, or in coffee cocktails (a White Russia
 
 ## Cocktails with flavoured moonshines
 
-- **Apple Pie on the rocks** - straight, with a piece of cinnamon stick.
+- **Apple Pie on the rocks**: straight, with a piece of cinnamon stick.
 - **Peach Bellini-style** - 50 ml peach moonshine, 100 ml prosecco, fresh peach slice.
 - **Blackberry smash** - 50 ml blackberry moonshine, 25 ml lemon juice, mint leaves muddled, soda water.
 - **Strawberry Lemonade** - 50 ml strawberry moonshine, 75 ml fresh lemonade, lemon wedge.
 - **Cherry Old Fashioned** - 50 ml cherry moonshine, 1 sugar cube, 2 dashes Angostura, orange peel.
 - **Mountain Java White Russian** - 50 ml Mountain Java, 50 ml vodka, 30 ml cream over ice.
-- **Hunch Punch by the pitcher** - already a cocktail; serve as it is.
+- **Hunch Punch by the pitcher**: already a cocktail; serve as it is.
 
 ## See also
-- [Ole Smoky moonshine](ole-smoky-moonshine.md) - the base spirit for everything on this page
-- [Vodka](vodka.md) - the cleaner cousin used in some flavoured spirits
-- [Applejack](applejack.md) - the proper-distilled apple version, drier and stronger than Apple Pie moonshine
+- [Ole Smoky moonshine](ole-smoky-moonshine.md): the base spirit for everything on this page
+- [Vodka](vodka.md): the cleaner cousin used in some flavoured spirits
+- [Applejack](applejack.md): the proper-distilled apple version, drier and stronger than Apple Pie moonshine

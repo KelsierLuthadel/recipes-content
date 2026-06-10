@@ -37,7 +37,7 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 - A cou-cou stick / wooden paddle / sturdy wooden spoon
 
 ### The flying fish (traditional) OR substitute
-- 4 large flying-fish fillets (about 100 g each) - sold at Bajan / Caribbean markets, frozen in some specialty shops
+- 4 large flying-fish fillets (about 100 g each): sold at Bajan / Caribbean markets, frozen in some specialty shops
 - OR 8 small whole sardines, gutted (substitute)
 - OR 4 small mackerel fillets (substitute)
 - 3 tablespoons Bajan green seasoning (recipe above)
@@ -89,7 +89,7 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 2. Add the sliced okra; simmer 5 minutes till tender and the water is slightly slimy from the okra.
 3. Slowly whisk in the cornmeal in a steady stream while stirring constantly.
 4. Reduce heat to medium-low.
-5. Continue stirring vigorously with the cou-cou stick / paddle / wooden spoon for 10-12 minutes - the cou-cou should be thick, glossy, and pulling away from the sides of the pot.
+5. Continue stirring vigorously with the cou-cou stick / paddle / wooden spoon for 10-12 minutes, the cou-cou should be thick, glossy, and pulling away from the sides of the pot.
 6. Add 200-300 ml more hot water as needed (the cou-cou should be wet enough to be stir-able but firm enough to hold its shape).
 7. The okra should have fully broken down into the cou-cou; small visible pieces are OK.
 8. Stir in the 60 g butter till fully melted.
@@ -102,13 +102,13 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 
 ### Stage 6 - Plate
 1. Wet a small bowl with cold water (helps the cou-cou release cleanly).
-2. Spoon a generous mound of cou-cou into the bowl, press to compact, then invert onto each warm dinner plate - you should have a smooth dome of cou-cou in the centre.
+2. Spoon a generous mound of cou-cou into the bowl, press to compact, then invert onto each warm dinner plate, you should have a smooth dome of cou-cou in the centre.
 3. Lay 1 (or 2 small) flying fish fillet on top of the cou-cou dome.
 4. Spoon the gravy generously over the fish and around the cou-cou.
 5. Add a lime wedge.
 
 ### Stage 7 - Serve immediately
-1. Eat hot - cou-cou and flying fish is at its peak straight from the stove.
+1. Eat hot, cou-cou and flying fish is at its peak straight from the stove.
 2. The diner squeezes lime over the fish, breaks the cou-cou with the fork, mixes some cou-cou into the gravy with each bite.
 
 ## Notes
@@ -120,13 +120,13 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 - **Substitute for flying fish outside Barbados:** small whole sardines, small mackerel fillets, or any small firm-fleshed white fish. The seasoning makes it Bajan even if the fish is different.
 
 ## Variations
-**Cou-cou and saltfish:** swap the fresh flying fish for soaked-and-flaked salt cod - the alternative Bajan traditional.
-**Cou-cou and stewed fish:** instead of steamed fish on the gravy, stewed fish in a richer gravy with okra chunks - the Sunday variant.
-**Coconut cou-cou:** swap 200 ml of the water for coconut milk - the upscale variant.
+**Cou-cou and saltfish:** swap the fresh flying fish for soaked-and-flaked salt cod, the alternative Bajan traditional.
+**Cou-cou and stewed fish:** instead of steamed fish on the gravy, stewed fish in a richer gravy with okra chunks, the Sunday variant.
+**Coconut cou-cou:** swap 200 ml of the water for coconut milk, the upscale variant.
 **Vegetarian cou-cou:** just the cornmeal-and-okra mound; serve with the gravy alone, or with stewed pumpkin.
-**Pumpkin cou-cou:** add 200 g grated pumpkin to the cornmeal-and-okra cook - the modern variant.
-**Cou-cou cakes (next-day):** form cold leftover cou-cou into small patties; pan-fry till golden on both sides - the Bajan breakfast hack.
-**Bajan cou-cou with pickled fish:** instead of fresh flying fish, use pickled fish in a vinegar-and-pepper brine - the older traditional variant.
+**Pumpkin cou-cou:** add 200 g grated pumpkin to the cornmeal-and-okra cook, the modern variant.
+**Cou-cou cakes (next-day):** form cold leftover cou-cou into small patties; pan-fry till golden on both sides, the Bajan breakfast hack.
+**Bajan cou-cou with pickled fish:** instead of fresh flying fish, use pickled fish in a vinegar-and-pepper brine, the older traditional variant.
 
 ## Serving
 At a Bajan Friday-night family dinner (the traditional setting) · at a Bajan rum-shop on a Friday afternoon · at the Oistins Fish Fry (the famous Friday-night Bajan fish festival in Christ Church) · at a Bajan Independence Day (30 November) celebration · at any Bajan home for the traditional national-dish dinner · paired with a glass of cold Banks lager, mauby, or sorrel.

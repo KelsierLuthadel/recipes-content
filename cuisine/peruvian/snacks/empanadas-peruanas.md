@@ -2,7 +2,7 @@
 
 ![Empanadas Peruanas](resources/empanadas-peruanas.jpg)
 
-*Lima's bakery and street-stall classic: a buttery short pastry half-moon, crimped at the edge with a decorative repulgue (twisted-rope crimp), filled with a juicy mince-beef-and-onion picadillo seasoned with aji panca paste, cumin, raisins, hard-boiled egg and a black Botija olive at the heart, brushed with egg wash and baked till deeply golden. The Peruvian version differs from Argentinian and Chilean empanadas in three small but defining ways. Eat warm in the hand, with a small squeeze of lime over the top - the traditional Lima lunchroom and bakery quick lunch.*
+*Lima's bakery and street-stall classic: a buttery short pastry half-moon, crimped at the edge with a decorative repulgue (twisted-rope crimp), filled with a juicy mince-beef-and-onion picadillo seasoned with aji panca paste, cumin, raisins, hard-boiled egg and a black Botija olive at the heart, brushed with egg wash and baked till deeply golden. The Peruvian version differs from Argentinian and Chilean empanadas in three small but defining ways. Eat warm in the hand, with a small squeeze of lime over the top, the traditional Lima lunchroom and bakery quick lunch.*
 
 **Serves:** 12 empanadas
 
@@ -71,7 +71,7 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 6. Pour in the beef stock; simmer 3-4 minutes till the liquid has mostly evaporated.
 7. Fold in the raisins, chopped hard-boiled egg and parsley.
 8. Taste; adjust salt. The filling should be assertively flavoured, moist but not soupy.
-9. Cool to room temperature before assembling (essential - hot filling melts the pastry).
+9. Cool to room temperature before assembling (essential, hot filling melts the pastry).
 
 ### Stage 3 - Roll and cut the pastry
 1. Heat the oven to 200°C (180°C fan).
@@ -97,7 +97,7 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 
 ### Stage 6 - Serve
 1. Let the empanadas cool 5 minutes (the filling is very hot just out of the oven).
-2. (Optional Lima bakery touch: dust the cooked empanadas with a small amount of caster sugar or icing sugar - the sweet-savoury contrast is classical.)
+2. (Optional Lima bakery touch: dust the cooked empanadas with a small amount of caster sugar or icing sugar, the sweet-savoury contrast is classical.)
 3. Pile on a serving platter.
 4. Serve with lime wedges, a small dish of huancaína or huacatay sauce, and salsa criolla alongside.
 
@@ -105,19 +105,19 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 - **Aji panca, not aji amarillo:** the Peruvian empanada filling is RED (panca) not yellow (amarillo). This is the key Peruvian-specific flavour difference from Argentinian/Chilean empanadas.
 - **The olive in the centre:** traditional Peruvian. A single Botija olive at the heart of each empanada, placed before sealing.
 - **The hard-boiled egg in the filling:** Peruvian / Argentinian shared tradition; gives texture and richness.
-- **The raisins:** the sweet-savoury contrast. Don't skip - they're the Peruvian signature.
+- **The raisins:** the sweet-savoury contrast. Don't skip, they're the Peruvian signature.
 - **Repulgue crimp:** the twisted-rope edge is the elegant Peruvian / Argentinian way to seal. Practice on a few; you'll find your rhythm.
 - **Cool the filling before assembly:** hot filling melts the pastry; assembly with cold filling is the Peruvian rule.
 
 ## Variations
 **Empanadas de pollo:** swap beef for shredded chicken thigh; same aji panca base; sometimes with diced potato added.
-**Empanadas de queso (cheese):** a filling of grated mature cheese + chopped onion + chilli - the popular meat-free variant.
-**Empanadas de jamón y queso:** ham + cheese + a slice of olive - the simplest variant.
-**Empanadas dulces (sweet):** filling of dulce de leche, with a brown sugar + cinnamon dust on top - the dessert variant.
-**Fried empanadas:** instead of baking, deep-fry at 180°C for 4-5 minutes till deep golden - the street-stall version.
+**Empanadas de queso (cheese):** a filling of grated mature cheese + chopped onion + chilli, the popular meat-free variant.
+**Empanadas de jamón y queso:** ham + cheese + a slice of olive, the simplest variant.
+**Empanadas dulces (sweet):** filling of dulce de leche, with a brown sugar + cinnamon dust on top, the dessert variant.
+**Fried empanadas:** instead of baking, deep-fry at 180°C for 4-5 minutes till deep golden, the street-stall version.
 **Mini empanadas for cocktails:** make 8 cm rounds instead of 15 cm; smaller filling; bake 15 minutes. Good for receptions.
-**Empanadas de mariscos (seafood):** chunky cooked seafood + chopped onion + aji amarillo + lime - the Lima coastal variant.
-**Empanadas with a quinoa-mushroom filling (vegan):** cooked quinoa + sautéed mushrooms + aji panca paste - the modern healthy variant.
+**Empanadas de mariscos (seafood):** chunky cooked seafood + chopped onion + aji amarillo + lime, the Lima coastal variant.
+**Empanadas with a quinoa-mushroom filling (vegan):** cooked quinoa + sautéed mushrooms + aji panca paste, the modern healthy variant.
 
 ## Serving
 At a Lima bakery in the morning (the traditional setting; sold from glass cases at every Peruvian panadería) · at a Peruvian working-day lunch break · at a Peruvian Independence Day buffet · at a Peruvian wedding · at a Peruvian birthday party · at home as a make-ahead weekend lunch · paired with chicha morada, cold lager, or a small glass of pisco.

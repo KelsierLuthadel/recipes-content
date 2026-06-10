@@ -10,20 +10,20 @@
 
 Grain alcohol (also called "neutral grain spirit" or NGS) is essentially vodka taken to its mathematical limit. The US federal definition simply describes it as "distilled spirits distilled at or above 190 proof." Commercial brands like Everclear, Spirytus and Devil's Springs reach 190 proof (95% ABV) in bottles; some go to 191 proof, the practical maximum achievable by distillation (you cannot get higher than 95.6% ABV via simple distillation due to the ethanol-water azeotrope; molecular sieves or membrane separation are needed for the final 4-5%).
 
-For a family-scale pot still, reaching 95% ABV requires multiple distillation passes - typically 4-6, sometimes more, depending on technique. A reflux column makes it easier but adds equipment.
+For a family-scale pot still, reaching 95% ABV requires multiple distillation passes, typically 4-6, sometimes more, depending on technique. A reflux column makes it easier but adds equipment.
 
 Grain alcohol is **NOT a drinking spirit.** At 95% ABV, even a small sip causes severe throat burn and is dangerous. Its purpose is:
 
-1. **Tincture base** - herbal extracts (vanilla, lemon balm, propolis, peppermint) for the kitchen or the medicine cabinet
-2. **Infusion base for cordials and liqueurs** - limoncello, nocino, ratafia
-3. **Cocktail component (heavily diluted)** - long island iced tea bases, "punch" punches
-4. **Cleaning and lab uses** - solvent, sterilising rub
+1. **Tincture base**: herbal extracts (vanilla, lemon balm, propolis, peppermint) for the kitchen or the medicine cabinet
+2. **Infusion base for cordials and liqueurs**: limoncello, nocino, ratafia
+3. **Cocktail component (heavily diluted)**: long island iced tea bases, "punch" punches
+4. **Cleaning and lab uses**: solvent, sterilising rub
 
 Several US states ban the retail sale of 190-proof grain alcohol (California, New York, Florida, Washington, Massachusetts, others). Tennessee permits it. Your family operation, with a federal DSP, can produce it; check your state license terms for what you can sell.
 
 ## Recipe (5-gallon wash, base sugar wash for cleanest yield)
 
-For grain alcohol you want maximum yield and minimum flavour - the multi-distillation strips out flavour anyway, so a high-sugar, low-flavour wash is ideal.
+For grain alcohol you want maximum yield and minimum flavour, the multi-distillation strips out flavour anyway, so a high-sugar, low-flavour wash is ideal.
 
 ### Ingredients
 - 7 kg cane sugar
@@ -52,7 +52,7 @@ For grain alcohol you want maximum yield and minimum flavour - the multi-distill
 2. Heat slowly. Run carefully.
 3. Discard 100 ml of foreshots (more aggressive than usual; you want zero methanol in the final spirit).
 4. Discard the first 250 ml of heads.
-5. Collect hearts only - the middle of the run, ideally 80-90% ABV at the parrot.
+5. Collect hearts only, the middle of the run, ideally 80-90% ABV at the parrot.
 6. Cut when parrot reads below 80%.
 7. Result: about 2 litres of clean spirit at about 85-90% ABV.
 
@@ -92,7 +92,7 @@ The most common kitchen tincture:
 - Steep 8-12 weeks, shaking weekly
 - Strain (or leave the beans in indefinitely)
 
-This is real vanilla extract - far superior to the imitation supermarket version.
+This is real vanilla extract, far superior to the imitation supermarket version.
 
 ### Limoncello
 
@@ -119,9 +119,9 @@ NEVER drink grain alcohol straight. The Reddit-style "shot of Everclear" prank h
 ## Notes
 - **Azeotrope:** 95.6% ABV is the practical maximum for simple distillation. To exceed this, you need molecular sieves, anhydrous CaCl2 absorption, or membrane separation. Not family-scale.
 - **The legal limit on grain alcohol** is set by the federal definition (190 proof minimum) and your state's retail rules.
-- **Tincture vs liqueur** - a tincture is alcohol + herb; a liqueur is tincture + sugar. The line is exactly where you add sweetener.
+- **Tincture vs liqueur**: a tincture is alcohol + herb; a liqueur is tincture + sugar. The line is exactly where you add sweetener.
 
 ## See also
-- [Vodka](vodka.md) - the slightly-lower-proof cousin, more drinkable
-- [Flavoured moonshine](flavoured-moonshine.md) - the lower-proof, flavour-forward route to similar drinks
-- [Applejack](applejack.md) - a related fruit-based concentration technique
+- [Vodka](vodka.md): the slightly-lower-proof cousin, more drinkable
+- [Flavoured moonshine](flavoured-moonshine.md): the lower-proof, flavour-forward route to similar drinks
+- [Applejack](applejack.md): a related fruit-based concentration technique

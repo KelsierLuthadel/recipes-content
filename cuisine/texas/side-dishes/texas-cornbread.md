@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Texas cornbread is the Lone Star State's signature cornbread: a batter made from yellow cornmeal, plain flour (Texas style uses some flour for a slightly tenderer crumb), buttermilk, eggs, melted butter (or bacon fat for proper Texan), with chopped fresh jalapeños and grated sharp cheddar folded in. The batter is poured into a screaming-hot, well-oiled cast-iron skillet (the traditional Texan vessel) and baked at 200°C till the bottom and edges crust deeply golden and the centre is just set. The Texan version distinguishes itself from Northern American sweet cornbread (which has more sugar and flour) by the savory direction - Texas cornbread is mostly cornmeal, mostly savory, with jalapeños and cheese as the Texan touch.
+Texas cornbread is the Lone Star State's signature cornbread: a batter made from yellow cornmeal, plain flour (Texas style uses some flour for a slightly tenderer crumb), buttermilk, eggs, melted butter (or bacon fat for proper Texan), with chopped fresh jalapeños and grated sharp cheddar folded in. The batter is poured into a screaming-hot, well-oiled cast-iron skillet (the traditional Texan vessel) and baked at 200°C till the bottom and edges crust deeply golden and the centre is just set. The Texan version distinguishes itself from Northern American sweet cornbread (which has more sugar and flour) by the savory direction, Texas cornbread is mostly cornmeal, mostly savory, with jalapeños and cheese as the Texan touch.
 
 ## Ingredients
 
@@ -49,7 +49,7 @@ Texas cornbread is the Lone Star State's signature cornbread: a batter made from
 ### Stage 5 - Pour into the hot skillet
 1. Carefully take the hot skillet out of the oven.
 2. Add 2 tablespoons of bacon fat or butter; swirl to coat.
-3. Pour the batter into the hot skillet (it should sizzle - that's the point).
+3. Pour the batter into the hot skillet (it should sizzle, that's the point).
 
 ### Stage 6 - Bake
 1. Bake at 220°C for 22-25 minutes till the top is deep golden and a skewer comes out clean.

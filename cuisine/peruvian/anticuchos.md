@@ -2,7 +2,7 @@
 
 ![Anticuchos](resources/anticuchos.jpg)
 
-*Lima's street food classic, born from Incan altar-offering tradition: cubes of beef heart (corazón de res - the traditional cut; beef sirloin is the modern home substitute) marinated overnight in aji panca paste, garlic, cumin, oregano, red wine vinegar and a splash of oil, threaded onto wooden skewers and grilled hard over charcoal till the edges char and the centres stay pink. Served three skewers per plate with a slice of boiled yellow potato, a piece of choclo, a smear of aji huacatay (mint-and-aji creamy sauce) and a wedge of lime. The Lima street-corner classic that's also the Friday-night family barbecue dinner.*
+*Lima's street food classic, born from Incan altar-offering tradition: cubes of beef heart (corazón de res, the traditional cut; beef sirloin is the modern home substitute) marinated overnight in aji panca paste, garlic, cumin, oregano, red wine vinegar and a splash of oil, threaded onto wooden skewers and grilled hard over charcoal till the edges char and the centres stay pink. Served three skewers per plate with a slice of boiled yellow potato, a piece of choclo, a smear of aji huacatay (mint-and-aji creamy sauce) and a wedge of lime. The Lima street-corner classic that's also the Friday-night family barbecue dinner.*
 
 **Serves:** 4 (3 skewers each)
 
@@ -16,7 +16,7 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 ## Ingredients
 
 ### The meat (pick one)
-- 700 g beef heart (corazón de res; ask the butcher to clean it - remove the white fat and the connective tissue), cut into 3 cm cubes
+- 700 g beef heart (corazón de res; ask the butcher to clean it, remove the white fat and the connective tissue), cut into 3 cm cubes
 - OR 700 g beef sirloin (the home-cook substitute), cut into 3 cm cubes
 - OR 700 g boneless skinless chicken thighs, cut into 3 cm cubes
 
@@ -55,7 +55,7 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 ## Method
 
 ### Stage 1 - Marinate the meat
-1. Combine all the marinade ingredients in a large bowl - whisk to a thick reddish-orange paste.
+1. Combine all the marinade ingredients in a large bowl, whisk to a thick reddish-orange paste.
 2. Add the cubed meat; toss to coat every cube generously.
 3. Cover with cling film.
 4. Refrigerate at least 4 hours, ideally overnight (8-12 hours).
@@ -70,7 +70,7 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 3. Refrigerate till serving.
 
 ### Stage 4 - Heat the grill
-1. Light a charcoal grill 30 minutes ahead; let the coals burn down to white ash with red embers underneath - HIGH heat.
+1. Light a charcoal grill 30 minutes ahead; let the coals burn down to white ash with red embers underneath, HIGH heat.
 2. Or heat a heavy cast-iron grill pan over the highest heat for 5 minutes till smoking.
 3. The grill must be VERY HOT for proper anticuchos.
 
@@ -95,7 +95,7 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 6. Add a lime wedge.
 
 ### Stage 8 - Serve immediately
-1. Eat while hot - anticuchos are at their peak straight from the grill.
+1. Eat while hot, anticuchos are at their peak straight from the grill.
 2. The diner alternates between meat (with a dip in the huacatay sauce), potato, corn, and a squeeze of lime.
 
 ## Notes
@@ -110,19 +110,19 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 **Anticuchos de pollo:** chicken-thigh version; same marinade; the kid-friendly home variant.
 **Anticuchos de pescado:** large chunks of firm white fish (mahi-mahi, swordfish) skewered with the same marinade.
 **Vegetarian anticuchos:** swap meat for thick chunks of king oyster mushroom, halloumi, or seitan; same marinade.
-**Anticuchos with quinoa sides:** swap the potato for Andean quinoa pilaf - the modern healthy variant.
+**Anticuchos with quinoa sides:** swap the potato for Andean quinoa pilaf, the modern healthy variant.
 **Cocktail-canapé anticuchos:** make smaller skewers (1.5 cm cubes; 3 per skewer); for a Peruvian reception.
 **Anticuchos with a chimichurri-style green sauce:** add chopped parsley to the huacatay sauce.
-**Modern Lima upscale anticuchos:** marinate Wagyu beef in the same aji panca base - the high-end Lima restaurant variant.
-**Anticuchos sanguche:** anticuchos pulled off the skewer and piled in a fresh roll with the huacatay sauce - the Lima street-sandwich variant.
+**Modern Lima upscale anticuchos:** marinate Wagyu beef in the same aji panca base, the high-end Lima restaurant variant.
+**Anticuchos sanguche:** anticuchos pulled off the skewer and piled in a fresh roll with the huacatay sauce, the Lima street-sandwich variant.
 
 ## Serving
-At a Lima street-corner anticuchera (the traditional setting - charcoal carts grill them on the pavement at dusk) · at a Peruvian family backyard barbecue · at a Peruvian Independence Day (28 July) celebration · at the Lima Mistura food festival · at a Peruvian Friday-night dinner with friends · at a Peruvian gastropub abroad · at home as a Saturday-evening grill party.
+At a Lima street-corner anticuchera (the traditional setting, charcoal carts grill them on the pavement at dusk) · at a Peruvian family backyard barbecue · at a Peruvian Independence Day (28 July) celebration · at the Lima Mistura food festival · at a Peruvian Friday-night dinner with friends · at a Peruvian gastropub abroad · at home as a Saturday-evening grill party.
 
 ## Storage
 - Cooked anticuchos refrigerate 2 days; reheat in a hot grill pan 2 minutes to refresh.
 - The marinade (sealed, not yet meat-touched) keeps 2 weeks refrigerated.
 - The aji huacatay sauce refrigerates 3 days; freezes 2 months.
 - The skewers can be pre-marinated and refrigerated up to 24 hours before grilling.
-- Don't freeze cooked anticuchos - the texture suffers.
+- Don't freeze cooked anticuchos, the texture suffers.
 - Leftover anticucho meat is excellent in a sanguche (sandwich) with the huacatay sauce.

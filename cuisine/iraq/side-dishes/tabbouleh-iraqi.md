@@ -42,7 +42,7 @@ Iraqi tabbouleh is the Iraqi-Levantine bulgur salad, more grain-heavy than its L
 ### Stage 2 - Chop
 1. Dice tomato and cucumber fine (deseed both).
 1. Slice spring onions thin.
-1. Chop parsley and mint as fine as you can - the herbs are central.
+1. Chop parsley and mint as fine as you can, the herbs are central.
 
 ### Stage 3 - Combine
 1. In a wide bowl, combine soaked bulgur, all chopped vegetables and herbs.

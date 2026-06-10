@@ -36,7 +36,7 @@ Hungarian mushroom soup is the velvety paprika-laced soup that turns up on every
 ### Stage 1 - Mushrooms
 1. Melt the butter in a heavy pan over medium heat.
 1. Cook the onion 5 minutes until soft.
-1. Add the mushrooms; cook 10 minutes, stirring, until they release their liquid and it cooks back off - the pan will go almost dry.
+1. Add the mushrooms; cook 10 minutes, stirring, until they release their liquid and it cooks back off, the pan will go almost dry.
 1. Stir in the garlic; cook 1 minute.
 
 ### Stage 2 - Paprika and flour

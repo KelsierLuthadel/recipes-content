@@ -60,7 +60,7 @@ A Ramadan-iftar, Eid and wedding sweet, the kind of Jordanian pudding that lives
 
 ### Stage 6 - Plate
 1. Spread the ashta evenly over the chilled semolina layer.
-1. Scatter chopped pistachios densely over the top - should look snow-covered.
+1. Scatter chopped pistachios densely over the top, should look snow-covered.
 1. Scatter rose petals if using.
 
 ### Stage 7 - Serve

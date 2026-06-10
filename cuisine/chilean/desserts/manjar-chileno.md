@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours 30 minutes (mostly hands-off)
 
 ## Overview
-Chile's version of dulce de leche, the slow-simmered milk caramel that turns up in alfajores, kuchen fillings and the breakfast spread on a thick slice of bread. You combine whole milk, sugar, a split vanilla pod and a pinch of bicarbonate of soda in a heavy wide pan, then simmer slowly for two to three hours, stirring more frequently as the mixture thickens. The bicarb is the trick - it accelerates the Maillard reaction and is what gives manjar its iconic deep brown colour, where unaided dulce de leche stays paler. You're done when the mixture has reduced by two-thirds and turned the colour of dark caramel. Cool, store in a jar. Spread on toast, sandwich in alfajores, or eat by the spoonful when nobody's looking.
+Chile's version of dulce de leche, the slow-simmered milk caramel that turns up in alfajores, kuchen fillings and the breakfast spread on a thick slice of bread. You combine whole milk, sugar, a split vanilla pod and a pinch of bicarbonate of soda in a heavy wide pan, then simmer slowly for two to three hours, stirring more frequently as the mixture thickens. The bicarb is the trick, it accelerates the Maillard reaction and is what gives manjar its iconic deep brown colour, where unaided dulce de leche stays paler. You're done when the mixture has reduced by two-thirds and turned the colour of dark caramel. Cool, store in a jar. Spread on toast, sandwich in alfajores, or eat by the spoonful when nobody's looking.
 
 ## Ingredients
 - 2 litres whole milk
@@ -30,7 +30,7 @@ Chile's version of dulce de leche, the slow-simmered milk caramel that turns up 
 1. Bring to a gentle simmer; reduce heat to low.
 1. Cook uncovered, stirring occasionally, for the first hour.
 1. As the mixture thickens (after about 90 minutes), stir more frequently to prevent it scorching at the bottom.
-1. Continue simmering until the mixture has reduced by about two-thirds and turned a deep caramel-amber colour - total 2-3 hours.
+1. Continue simmering until the mixture has reduced by about two-thirds and turned a deep caramel-amber colour, total 2-3 hours.
 
 ### Stage 3 - Test
 1. Drop a teaspoon on a cold plate; let it cool 30 seconds.
@@ -51,5 +51,5 @@ Chile's version of dulce de leche, the slow-simmered milk caramel that turns up 
 ## Storage
 - Keeps 6 weeks refrigerated in a sealed jar.
 - Spreads colder; warm gently to make pourable.
-- Doesn't freeze well - texture goes grainy.
+- Doesn't freeze well, texture goes grainy.
 - Use as filling for alfajores, layer cakes, panqueques (Chilean crepes), or just spread on toast.

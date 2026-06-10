@@ -9,9 +9,9 @@ kind: religious
 origin: Christian tradition
 ---
 
-Easter is the slow Sunday lunch at the spring end of the calendar. The lamb is the headline - a leg, studded with garlic and rosemary, roasted to pink at the bone, carved at the table. Or a shoulder slow-cooked for hours until it pulls apart on the spoon. The sides are spring-coded: new potatoes, asparagus, peas, buttered carrots, mint sauce in a small glass jug.
+Easter is the slow Sunday lunch at the spring end of the calendar. The lamb is the headline, a leg, studded with garlic and rosemary, roasted to pink at the bone, carved at the table. Or a shoulder slow-cooked for hours until it pulls apart on the spoon. The sides are spring-coded: new potatoes, asparagus, peas, buttered carrots, mint sauce in a small glass jug.
 
-Breakfast on Good Friday was the hot cross bun: spiced enriched dough, currants, a piped flour cross, glazed sticky from the oven. Eaten warm with cold butter and tea, all the way through to Easter Monday. Tea on Easter Sunday afternoon brings the simnel cake - a light fruit cake with two marzipan layers and eleven apostle balls on top, the top scorched amber under the grill.
+Breakfast on Good Friday was the hot cross bun: spiced enriched dough, currants, a piped flour cross, glazed sticky from the oven. Eaten warm with cold butter and tea, all the way through to Easter Monday. Tea on Easter Sunday afternoon brings the simnel cake, a light fruit cake with two marzipan layers and eleven apostle balls on top, the top scorched amber under the grill.
 
 The eggs are everywhere: hard-boiled and painted for the children, deviled for the buffet table, baked into the cake. The whole feast has a quality of relief, of having got through the long stretch from Christmas, the spring properly under way.
 

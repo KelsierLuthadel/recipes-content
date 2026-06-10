@@ -21,7 +21,7 @@ Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rum
 - 100 ml whole milk (warmed)
 - 1 medium savoy cabbage (about 500 g, core removed, finely shredded)
 - 1 large onion (finely diced)
-- 1 leek (white and pale green parts only, finely sliced) - optional but excellent
+- 1 leek (white and pale green parts only, finely sliced): optional but excellent
 - 150 g mature Cheddar (grated; Scottish Mull or any aged farmhouse cheddar)
 - 1 teaspoon Dijon mustard
 - 1 teaspoon fine sea salt (plus more for the potato water)
@@ -76,15 +76,15 @@ Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rum
 - **Mature Cheddar:** mild cheddar disappears. Use mature, sharp, ideally Scottish.
 - **Bake, don't fry:** the bake gives the cheese crust that defines rumbledethumps. Pan-frying makes it bubble-and-squeak, a different dish.
 - **Use leftover potatoes:** rumbledethumps is traditionally made with leftover boiled or mashed potatoes from yesterday's lunch. Don't worry about overcooking the spuds the day before.
-- **Add a pinch of nutmeg:** a Scottish granny trick - a pinch of nutmeg in the potato cabbage mix.
+- **Add a pinch of nutmeg:** a Scottish granny trick, a pinch of nutmeg in the potato cabbage mix.
 
 ## Variations
-**With smoked bacon:** add 100 g diced smoked bacon (cooked till crisp) to the cabbage-onion mixture - heartier version, more like a one-dish supper.
-**With ham hock:** stir in 200 g shredded ham-hock meat (from a cooked ham bone) - turns it into a main course.
-**With kale and leek (clapshot direction):** swap half the cabbage for shredded kale; add 1 sliced leek to the onion - more nutritious modern version.
+**With smoked bacon:** add 100 g diced smoked bacon (cooked till crisp) to the cabbage-onion mixture, heartier version, more like a one-dish supper.
+**With ham hock:** stir in 200 g shredded ham-hock meat (from a cooked ham bone): turns it into a main course.
+**With kale and leek (clapshot direction):** swap half the cabbage for shredded kale; add 1 sliced leek to the onion, more nutritious modern version.
 **With swede (a clapshot-rumbledethumps hybrid):** swap 300 g of the potato for mashed swede; the Orkney version that crosses with clapshot.
 **Whole-meal version:** add 50 g cooked pearl barley to the mix for extra texture.
-**Indian-influenced:** add a teaspoon of curry powder + ½ teaspoon turmeric to the cabbage during cooking - modern Anglo-Indian Scottish.
+**Indian-influenced:** add a teaspoon of curry powder + ½ teaspoon turmeric to the cabbage during cooking, modern Anglo-Indian Scottish.
 
 ## Serving
 Alongside a Scottish Sunday roast lamb or beef (the traditional pairing) · with grilled or pan-fried Lorne sausage and a fried egg as a brunch · with cooked smoked sausage as a weeknight family supper · alongside roast game (pheasant, venison) · at a Burns Night supper as an extra side.

@@ -44,7 +44,7 @@ Lebanon's street-corner fritter and the answer to "what do you eat fast at lunch
 - 4 pita breads (large, warmed)
 - Tahini sauce (4 tablespoons tahini + 4 tablespoons water + juice of 1 lemon + 2 crushed garlic + ½ teaspoon salt; whisked smooth)
 - Sliced tomato, cucumber, red onion, romaine lettuce
-- Pickled turnips (Lebanese pink turnips - sold at Middle Eastern shops)
+- Pickled turnips (Lebanese pink turnips, sold at Middle Eastern shops)
 - A sprinkle of sumac
 - Hot sauce (optional)
 
@@ -57,7 +57,7 @@ Lebanon's street-corner fritter and the answer to "what do you eat fast at lunch
 
 ### Stage 2 - Blitz
 1. In a food processor, combine drained chickpeas, onion chunks, garlic, parsley, coriander, salt, cumin, ground coriander, Aleppo pepper and pepper.
-1. Pulse repeatedly to a coarse green paste - fine grainy texture, not smooth puree. Don't process to hummus consistency.
+1. Pulse repeatedly to a coarse green paste, fine grainy texture, not smooth puree. Don't process to hummus consistency.
 1. Tip into a bowl; cover; rest 30 minutes (lets the flavours integrate).
 
 ### Stage 3 - Tahini sauce
@@ -82,7 +82,7 @@ Lebanon's street-corner fritter and the answer to "what do you eat fast at lunch
 1. Optional: hot sauce.
 
 ## Notes
-- **Soaked chickpeas, never cooked:** Cooked chickpeas make mushy falafel that falls apart. Raw soaked chickpeas - soft enough to crush, not soft enough to mash - give the crisp-outside, soft-green-inside texture.
+- **Soaked chickpeas, never cooked:** Cooked chickpeas make mushy falafel that falls apart. Raw soaked chickpeas, soft enough to crush, not soft enough to mash, give the crisp-outside, soft-green-inside texture.
 - **Lots of herbs:** Lebanese falafel is GREEN inside. A big bunch of parsley + smaller bunch of coriander is the right ratio. If your falafel comes out beige, you needed more herbs.
 - **Baking soda last:** Activates with moisture; if added at the blitz stage, the falafel will be flat. Add right before frying.
 

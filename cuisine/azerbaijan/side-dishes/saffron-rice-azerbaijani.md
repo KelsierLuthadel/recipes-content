@@ -27,7 +27,7 @@ The everyday cousin of plov: the rice you cook on a Tuesday when there's no wedd
 1. Soak in cold salted water 1 hour.
 1. Bring 3 L water to a rolling boil with 2 tablespoons salt.
 1. Drain the rice; tip into the boiling water.
-1. Par-boil 5 minutes - grains should bend but still have a hard core.
+1. Par-boil 5 minutes, grains should bend but still have a hard core.
 1. Drain in a colander; rinse briefly with warm water.
 
 ### Stage 2 - Saffron infusion
@@ -41,12 +41,12 @@ The everyday cousin of plov: the rice you cook on a Tuesday when there's no wedd
 1. Dot the remaining 40 g butter in cubes on top.
 1. Wrap the pot lid in a clean tea towel (catches condensation).
 1. Cover tight; reduce heat to low.
-1. Steam 40 minutes - do not lift the lid.
+1. Steam 40 minutes, do not lift the lid.
 
 ### Stage 4 - Plate
 1. Lift the saffron-stained top layer onto a warm platter first.
 1. Heap the remaining rice around it.
-1. The bottom of the pot will have a thin crisp golden crust - break this into shards and serve alongside.
+1. The bottom of the pot will have a thin crisp golden crust, break this into shards and serve alongside.
 
 ## Notes
 - **Tea-towel wrap is the trick:** the cloth absorbs the rising steam so condensation doesn't drip back onto the rice and make it stodgy.

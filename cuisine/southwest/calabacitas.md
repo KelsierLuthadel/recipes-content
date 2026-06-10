@@ -20,7 +20,7 @@ Calabacitas (literally "little squashes") is the iconic Southwest vegetable side
 - 300 g sweet corn kernels (fresh or frozen)
 - 1 large onion (chopped)
 - 6 garlic cloves (crushed)
-- 4 roasted green chillies (Hatch or Anaheim; deseeded; chopped) - or 1 small tin chopped roasted green chillies
+- 4 roasted green chillies (Hatch or Anaheim; deseeded; chopped): or 1 small tin chopped roasted green chillies
 - 4 tablespoons butter (or olive oil)
 - 100 ml double cream (or sour cream)
 - 200 g grated Monterey Jack cheese

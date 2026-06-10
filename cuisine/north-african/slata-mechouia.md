@@ -50,7 +50,7 @@ Tunisia's roasted-pepper salad, the bright smoky relish that sits on every mezze
 1. Peel off the blackened skins; discard.
 1. Remove pepper and chilli seeds and stems.
 1. Squeeze the garlic cloves out of their skins.
-1. Chop everything roughly with a knife on a board - the salad should be coarse, not pureed.
+1. Chop everything roughly with a knife on a board, the salad should be coarse, not pureed.
 
 ### Stage 4 - Combine
 1. Tip into a bowl; toss with the olive oil, lemon juice, caraway, salt, capers and half the parsley.

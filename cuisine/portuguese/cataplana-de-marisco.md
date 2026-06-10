@@ -26,7 +26,7 @@ A cataplana is a hinged copper clamshell pan, and the seafood stew named after i
 - 1 teaspoon sweet paprika
 - 2 bay leaves
 - 1 fresh red chilli (sliced, or 1 teaspoon piri-piri sauce)
-- 4 ripe tomatoes (chopped) - OR 1 (400 g) tin chopped tomatoes
+- 4 ripe tomatoes (chopped): OR 1 (400 g) tin chopped tomatoes
 - 250 ml dry white wine
 - 1 teaspoon salt (to taste)
 - ½ teaspoon black pepper
@@ -35,7 +35,7 @@ A cataplana is a hinged copper clamshell pan, and the seafood stew named after i
 - 500 g clams (live, well-rinsed and purged in salted water 30 min)
 - 500 g mussels (debearded, scrubbed)
 - 400 g large raw prawns (shelled, with tails on)
-- 400 g firm white fish - monkfish, hake (or cod, cut into 4 cm chunks)
+- 400 g firm white fish, monkfish, hake (or cod, cut into 4 cm chunks)
 
 ### To finish
 - 1 large bunch fresh coriander (chopped, about 50 g)
@@ -57,7 +57,7 @@ A cataplana is a hinged copper clamshell pan, and the seafood stew named after i
 1. Cook 10 minutes, stirring, until soft and slightly golden at the edges.
 
 ### Stage 3 - Chouriço
-1. Add sliced chouriço; cook 3 minutes - the red fat releases and stains the oil.
+1. Add sliced chouriço; cook 3 minutes, the red fat releases and stains the oil.
 
 ### Stage 4 - Spice and tomato
 1. Stir in paprika (both kinds), bay leaves and chilli.
@@ -69,7 +69,7 @@ A cataplana is a hinged copper clamshell pan, and the seafood stew named after i
 ### Stage 5 - Add the shellfish
 1. Tip in the clams and mussels in a single layer.
 1. Cover tightly with the cataplana lid (or pot lid).
-1. Cook 4-5 minutes - the shells should open. Discard any that stay shut.
+1. Cook 4-5 minutes, the shells should open. Discard any that stay shut.
 
 ### Stage 6 - Add prawns and fish
 1. Add the prawns and fish chunks on top.
@@ -87,7 +87,7 @@ A cataplana is a hinged copper clamshell pan, and the seafood stew named after i
 ## Notes
 - **Cataplana is dramatic but optional:** A real Algarve cataplana is a copper clam-shell pot, brought to the table sealed and opened at the table. Wonderful theatre. A heavy lidded pot or Dutch oven cooks the same dish identically.
 - **Don't overcook the seafood:** Prawns and fish go from done to rubbery in 90 seconds. Pull off the heat as soon as the fish is just opaque and the prawns just curled.
-- **Discard unopened shells:** Clams or mussels that don't open during cooking were dead before they hit the pot - don't eat. Tapping live ones before cooking and watching them close is the safety check.
+- **Discard unopened shells:** Clams or mussels that don't open during cooking were dead before they hit the pot, don't eat. Tapping live ones before cooking and watching them close is the safety check.
 
 ## Storage
 - Best within an hour of cooking. Seafood doesn't keep.

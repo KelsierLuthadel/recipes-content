@@ -62,7 +62,7 @@ Cullen skink takes its name from the small fishing village of Cullen on Scotland
 
 ### Stage 5 - Simmer
 1. Simmer gently for 15 minutes till the potato is fully tender.
-2. Some of the smaller potato cubes will break down and slightly thicken the broth - this is correct.
+2. Some of the smaller potato cubes will break down and slightly thicken the broth, this is correct.
 3. With a fork or potato masher, lightly crush about a third of the potato against the side of the pot to give the soup more body.
 
 ### Stage 6 - Finish
@@ -79,19 +79,19 @@ Cullen skink takes its name from the small fishing village of Cullen on Scotland
 5. Optional: a wedge of lemon for those who want to brighten.
 
 ## Notes
-- **Undyed Finnan haddie:** the traditional fish. Bright yellow dyed haddock is wrong - it's a different (later, industrial) smoking process.
+- **Undyed Finnan haddie:** the traditional fish. Bright yellow dyed haddock is wrong, it's a different (later, industrial) smoking process.
 - **Don't boil the milk:** boiled milk separates; boiled haddock toughens. Gentle simmer only.
 - **Floury potato (Maris Piper / King Edward):** part of the potato should break down and thicken the broth. Waxy potatoes (Charlotte, Anya) won't do this.
 - **Smoke balance:** if your haddock is intensely smoky, the soup may be overpowering; cut with a splash of fish stock. If your haddock is mild, you may want a tiny pinch of smoked paprika to lift it.
 - **Don't over-salt:** the haddock is brined during smoking. Taste first.
 
 ## Variations
-**Cream-heavy version:** double the cream, halve the milk - the rich restaurant version.
+**Cream-heavy version:** double the cream, halve the milk, the rich restaurant version.
 **With leek:** swap the onion for a finely sliced leek (white part only); softer flavour, very north-east-Scotland.
-**With sweetcorn:** add a small tin of sweetcorn at the end - modern variant.
-**Cullen skink chowder:** add diced bacon (cooked separately and stirred in at the end) and a glug of white wine - the chowder direction.
-**With egg:** poach an egg in each bowl just before serving - the indulgent version.
-**Pearled-barley version:** swap the diced potato for cooked pearl barley - a more substantial version, very Scottish.
+**With sweetcorn:** add a small tin of sweetcorn at the end, modern variant.
+**Cullen skink chowder:** add diced bacon (cooked separately and stirred in at the end) and a glug of white wine, the chowder direction.
+**With egg:** poach an egg in each bowl just before serving, the indulgent version.
+**Pearled-barley version:** swap the diced potato for cooked pearl barley, a more substantial version, very Scottish.
 
 ## Serving
 At a Highland inn on a winter evening with a pint of heavy ale · at a Scottish gastropub anywhere as a starter or main · at a Burns Night supper as the soup course · at a coastal Scottish lunch with a hunk of bread and butter · at home as a winter weeknight supper with oatcakes.

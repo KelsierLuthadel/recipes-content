@@ -42,7 +42,7 @@ Bolo do caco is the Madeiran flatbread you'll get at every restaurant on the isl
 ### Stage 2 - Dough
 1. In a wide bowl, whisk flour, yeast, salt and sugar.
 1. Add the mashed sweet potato, warm water and oil.
-1. Mix to a soft sticky dough. Add a few more tablespoons of water if too stiff, or a few tablespoons of flour if too wet - the dough should be soft enough to be slightly tacky but cohesive.
+1. Mix to a soft sticky dough. Add a few more tablespoons of water if too stiff, or a few tablespoons of flour if too wet, the dough should be soft enough to be slightly tacky but cohesive.
 1. Knead 8 minutes by hand (or 6 minutes in a stand mixer) until smooth.
 1. Cover; rise 1 hour until doubled.
 
@@ -58,7 +58,7 @@ Bolo do caco is the Madeiran flatbread you'll get at every restaurant on the isl
 
 ### Stage 5 - Cook
 1. Heat a wide heavy dry frying pan (or cast-iron griddle) over medium-high heat 3 minutes.
-1. Cook each disc 5-6 minutes per side, pressing gently with a spatula - the bread puffs slightly; both sides become spotted-brown.
+1. Cook each disc 5-6 minutes per side, pressing gently with a spatula, the bread puffs slightly; both sides become spotted-brown.
 1. Lift onto a plate; cover with a tea towel to keep soft.
 1. Repeat with remaining discs.
 
@@ -68,7 +68,7 @@ Bolo do caco is the Madeiran flatbread you'll get at every restaurant on the isl
 1. Close.
 
 ### Stage 7 - Eat
-1. Eat warm, with napkins - the butter drips out.
+1. Eat warm, with napkins, the butter drips out.
 1. Excellent with the cataplana, with espetada (Madeira's grilled meat skewers), or just on its own.
 
 ## Notes

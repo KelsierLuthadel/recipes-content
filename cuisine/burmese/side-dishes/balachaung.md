@@ -38,7 +38,7 @@ The Burmese dried-shrimp relish that sits in a jar in every Yangon kitchen, the 
 1. Heat 4 tablespoons of the oil in a wide heavy pan over medium heat.
 1. Add the sliced onion; fry 8 minutes until deep gold and just starting to crisp at the edges.
 1. Lift onto kitchen paper; reserve.
-1. Add the sliced garlic; fry 4-5 minutes until pale gold (it crisps as it cools - don't take it too far).
+1. Add the sliced garlic; fry 4-5 minutes until pale gold (it crisps as it cools, don't take it too far).
 1. Lift onto paper; reserve.
 
 ### Stage 3 - Toast the shrimp
@@ -53,7 +53,7 @@ The Burmese dried-shrimp relish that sits in a jar in every Yangon kitchen, the 
 ### Stage 5 - Combine
 1. Stir in the reserved fried onion and garlic.
 1. Cook another 2 minutes to combine.
-1. Taste; adjust salt - the relish should be salty, hot, slightly sour, slightly sweet.
+1. Taste; adjust salt, the relish should be salty, hot, slightly sour, slightly sweet.
 
 ### Stage 6 - Cool and store
 1. Cool completely. Tip into a clean glass jar; cover with the oil that has risen to the surface (this preserves it).
@@ -68,4 +68,4 @@ The Burmese dried-shrimp relish that sits in a jar in every Yangon kitchen, the 
 
 ## Storage
 - Refrigerate up to 3 weeks in a sealed jar with an oil cap on top.
-- Don't freeze - the texture goes claggy.
+- Don't freeze, the texture goes claggy.

@@ -43,7 +43,7 @@ Nước mía (literally "sugarcane water") is the everyday Vietnamese street dri
 
 ## Notes
 - **Freshness is everything.** Sugarcane juice tastes brightest within 1-2 hours of pressing. After 4-6 hours it loses its grassy-sweet snap and tastes flat. Buy from a busy vendor; refrigerate immediately if not drinking straight away.
-- **Calamansi, not lime.** If you can find calamansi (small green Filipino-Vietnamese citrus, sold at Asian groceries), use it - the flavour is distinct, somewhere between lime and tangerine. Lime is the closest substitute but tastes different.
+- **Calamansi, not lime.** If you can find calamansi (small green Filipino-Vietnamese citrus, sold at Asian groceries), use it, the flavour is distinct, somewhere between lime and tangerine. Lime is the closest substitute but tastes different.
 - **No added sugar.** Sugarcane juice is naturally about 15-20% sugar; it doesn't need any added. The brightness comes from the citrus, not extra sweetness.
 - **Don't strain finely.** A bit of natural pulp/fibre in the juice is correct and adds to the texture. Over-straining gives a thin, less satisfying drink.
 

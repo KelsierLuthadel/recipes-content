@@ -14,7 +14,7 @@ Milk punch is one of the older surviving American cocktails, with a lineage that
 The drink is associated more with Mississippi and Louisiana than anywhere else, where it has been a Sunday brunch fixture for over a century. It is also the drink most often suggested as a hangover cure in the region (the bourbon supplies hair-of-the-dog, the milk and cream calm the stomach, the sugar settles the appetite). Take that as the medical advice it isn't.
 
 ## Ingredients
-- 60 ml bourbon (Buffalo Trace, Maker's Mark, Knob Creek - any standard)
+- 60 ml bourbon (Buffalo Trace, Maker's Mark, Knob Creek, any standard)
 - 90 ml whole milk
 - 30 ml double cream
 - 15 ml simple syrup (or 1 tbsp icing sugar)
@@ -44,7 +44,7 @@ The drink is associated more with Mississippi and Louisiana than anywhere else, 
 ## Variations
 - **Brandy milk punch:** swap bourbon for cognac. The pre-Prohibition version.
 - **Coffee milk punch:** replace 30 ml of the milk with cold-brew coffee. Adds a faint bitter edge.
-- **Clarified milk punch:** the historical technique - combine the cocktail with warm milk in a separate vessel; the milk curdles, the curds are strained out through cheesecloth, leaving a brilliantly clear drink with the body and silkiness of milk but no opacity. A weekend project; book Dave Arnold's *Liquid Intelligence* for the precise method.
+- **Clarified milk punch:** the historical technique, combine the cocktail with warm milk in a separate vessel; the milk curdles, the curds are strained out through cheesecloth, leaving a brilliantly clear drink with the body and silkiness of milk but no opacity. A weekend project; book Dave Arnold's *Liquid Intelligence* for the precise method.
 - **With egg white:** add an egg white before shaking for a foamier, denser drink.
 
 ## Serving

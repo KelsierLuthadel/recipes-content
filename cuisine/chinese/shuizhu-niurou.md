@@ -70,7 +70,7 @@ Two sensations at once: the bright immediate burn of dried chilli (la) sitting u
 
 ### Stage 3 - Fiery broth
 1. Heat the 3 tablespoons of oil in a wide saucepan over medium heat.
-1. Add the doubanjiang and stir-fry 1-2 minutes until the oil turns deep red. **Don't let it scorch** - keep the heat moderate.
+1. Add the doubanjiang and stir-fry 1-2 minutes until the oil turns deep red. **Don't let it scorch**: keep the heat moderate.
 1. Add the dried Sichuan chillies, Sichuan peppercorns, ginger, garlic and spring onion whites. Stir-fry 30 seconds till fragrant.
 1. Pour in the chicken stock, light soy, sugar and dark soy. Bring to a simmer.
 1. Simmer 5 minutes to extract the flavours, then strain through a sieve into a clean pan, pressing the solids (discard solids).

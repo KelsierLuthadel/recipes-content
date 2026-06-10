@@ -83,7 +83,7 @@ Roujiamo is often, lazily, called the Chinese hamburger, but it is older than th
 ### Stage 5 - Chop and stuff
 1. Lift the pork out of the braise with a slotted spoon. Strain and reserve the liquid.
 1. On a chopping board, finely chop the pork with a heavy knife until it is a coarse mince.
-1. Tip into a bowl with the chopped red onion and fresh coriander. Add 1-2 tbsp of the braising liquid - enough to moisten but not pool.
+1. Tip into a bowl with the chopped red onion and fresh coriander. Add 1-2 tbsp of the braising liquid, enough to moisten but not pool.
 1. Taste and add chilli oil if you want heat.
 1. Split each warm bun three-quarters of the way through and stuff with about 60 ml (¼ cup) of the meat mixture. Eat immediately.
 

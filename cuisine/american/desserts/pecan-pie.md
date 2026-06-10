@@ -59,7 +59,7 @@ The Southern Thanksgiving pie and one of the most American of all desserts: peca
 
 ### Stage 5 - Bake
 1. Lower the oven to 175°C (155°C fan).
-1. Bake 40-45 minutes - the filling should be set around the edges with a slight wobble in the centre (a 5 cm wobble area is fine).
+1. Bake 40-45 minutes, the filling should be set around the edges with a slight wobble in the centre (a 5 cm wobble area is fine).
 1. If the crust browns too fast, cover the edges with foil strips.
 
 ### Stage 6 - Cool and rest

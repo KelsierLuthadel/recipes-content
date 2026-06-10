@@ -16,11 +16,11 @@ This is the Chinese answer to the deli pickle, a quick-pickled cucumber spear th
 ## Ingredients
 
 ### Cucumbers
-- 600 g cucumbers (Persian or English; 4-5 small or 2 large - peel partially if thick-skinned)
+- 600 g cucumbers (Persian or English; 4-5 small or 2 large, peel partially if thick-skinned)
 - 1 tablespoon salt (for salting)
 
 ### Brine
-- 200 ml rice vinegar (Japanese or Chinese - NOT distilled white)
+- 200 ml rice vinegar (Japanese or Chinese, NOT distilled white)
 - 80 g caster sugar
 - 4 tablespoons light soy sauce
 - 100 ml water
@@ -35,15 +35,15 @@ This is the Chinese answer to the deli pickle, a quick-pickled cucumber spear th
 ### Stage 1 - Cut and salt
 1. Halve cucumbers lengthwise.
 1. Scoop out the wet seedy core with a teaspoon.
-1. Cut each half into spears 6 cm long, 1 cm thick - OR slice into 5 mm rounds - OR smash with a cleaver and tear into chunks (see [smashed-cucumber.md](smashed-cucumber.md)).
+1. Cut each half into spears 6 cm long, 1 cm thick, OR slice into 5 mm rounds, OR smash with a cleaver and tear into chunks (see [smashed-cucumber.md](smashed-cucumber.md)).
 1. Place in a colander; sprinkle with 1 tablespoon salt; toss.
-1. Rest 30 minutes - the cucumber weeps a noticeable amount of water.
+1. Rest 30 minutes, the cucumber weeps a noticeable amount of water.
 1. Press gently with the back of a spoon to extract more.
-1. Don't rinse - the salt level is part of the pickle.
+1. Don't rinse, the salt level is part of the pickle.
 
 ### Stage 2 - Brine
 1. In a saucepan, combine vinegar, sugar, soy sauce, water, ginger, garlic, Sichuan peppercorns and dried chillies.
-1. Heat over medium just until the sugar dissolves and the mixture is steaming - about 3-4 minutes. Don't boil hard; gentle warmth is enough.
+1. Heat over medium just until the sugar dissolves and the mixture is steaming, about 3-4 minutes. Don't boil hard; gentle warmth is enough.
 1. Off heat; cool fully to room temperature.
 
 ### Stage 3 - Combine

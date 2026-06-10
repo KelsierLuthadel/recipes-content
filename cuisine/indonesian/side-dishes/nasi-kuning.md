@@ -25,7 +25,7 @@ Nasi kuning is the Indonesian celebratory yellow rice, jasmine cooked in coconut
 - 1 bay leaf (or 2 Indonesian salam leaves if you have them)
 
 ### To serve (typical accompaniments)
-- Fried shallots (bawang goreng - sold ready)
+- Fried shallots (bawang goreng, sold ready)
 - A fried egg per person
 - [Sambal Terasi](sambal-terasi.md) (or sambal oelek)
 - Cucumber slices

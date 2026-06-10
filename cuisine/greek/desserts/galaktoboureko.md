@@ -40,20 +40,20 @@ Galaktoboureko is the Greek semolina custard tart wrapped in filo and drowned in
 ### Stage 1 - Custard
 1. In a heavy saucepan, whisk the milk, semolina and 200 g sugar.
 1. Place over medium heat; whisk constantly as the milk heats.
-1. When it reaches a simmer, reduce heat to low and continue whisking 6-8 minutes - the semolina absorbs moisture and the mixture thickens to a thick porridge.
+1. When it reaches a simmer, reduce heat to low and continue whisking 6-8 minutes, the semolina absorbs moisture and the mixture thickens to a thick porridge.
 1. Off the heat, stir in the lemon zest and vanilla.
 
 ### Stage 2 - Temper the eggs
 1. In a separate bowl, whisk the eggs.
 1. Slowly drizzle 200 ml of the hot semolina into the eggs, whisking constantly (tempers them without scrambling).
-1. Pour the tempered egg mix back into the saucepan; whisk over very low heat 1 minute (don't simmer - eggs will curdle).
+1. Pour the tempered egg mix back into the saucepan; whisk over very low heat 1 minute (don't simmer, eggs will curdle).
 1. Off heat, whisk in the 80 g butter.
 1. Cover the surface with cling film (pressed directly on, to prevent skin); cool 15 minutes.
 
 ### Stage 3 - Build the pastry
 1. Heat the oven to 180°C (160°C fan).
 1. Brush a 30 × 22 cm baking tin generously with melted butter.
-1. Lay 1 sheet of filo in the tin (it'll come up the sides - that's fine).
+1. Lay 1 sheet of filo in the tin (it'll come up the sides, that's fine).
 1. Brush with melted butter.
 1. Layer 9 more sheets, brushing each.
 
@@ -66,7 +66,7 @@ Galaktoboureko is the Greek semolina custard tart wrapped in filo and drowned in
 1. Brush the top with the remaining butter.
 
 ### Stage 6 - Score
-1. With a sharp thin knife, score the top filo (ONLY the top layers, not all the way down) in a diamond pattern - diagonal cuts 4 cm apart, then crossing diagonals 4 cm apart.
+1. With a sharp thin knife, score the top filo (ONLY the top layers, not all the way down) in a diamond pattern, diagonal cuts 4 cm apart, then crossing diagonals 4 cm apart.
 1. Scoring only the top lets the syrup penetrate later.
 
 ### Stage 7 - Bake

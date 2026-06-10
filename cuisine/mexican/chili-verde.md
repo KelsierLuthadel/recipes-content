@@ -83,7 +83,7 @@ The Mexican-American pork-and-tomatillo stew you'll find at every Tex-Mex diner 
 1. Rice or beans on the side.
 
 ## Notes
-- **Roast the salsa:** Raw tomatillos give a bright, sharp sauce - too one-dimensional. Roasting gives smoky depth.
+- **Roast the salsa:** Raw tomatillos give a bright, sharp sauce, too one-dimensional. Roasting gives smoky depth.
 - **Pork shoulder:** Lean cuts dry out. Shoulder has the connective tissue that breaks down to silky.
 - **Heat dial:** Poblanos give body and mild heat; jalapeños add medium kick. Add a serrano or two for hotter.
 

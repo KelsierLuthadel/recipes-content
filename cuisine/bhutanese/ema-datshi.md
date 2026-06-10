@@ -60,11 +60,11 @@ Bhutan's national dish, built on an honest two-ingredient premise: chillies and 
 1. Tibetans traditionally serve the broth in a separate bowl alongside dry rice; either way works.
 
 ## Notes
-- **Blue cheese is the traditional choice:** Bhutanese yak cheese is unavailable in most of the world. Stilton and Gorgonzola are the standard substitutes. The funky-strong blue is part of the dish - mild cheese makes a flat dish.
+- **Blue cheese is the traditional choice:** Bhutanese yak cheese is unavailable in most of the world. Stilton and Gorgonzola are the standard substitutes. The funky-strong blue is part of the dish, mild cheese makes a flat dish.
 - **Chillies are the dish:** ema means "chilli". 10 jalapeños is on the moderate end of authentic; in Bhutan the dish is often hotter. Don't go below 4 jalapeños or the dish stops being ema datshi.
 - **Beef is the most common protein:** pork is also traditional in some regions; the vegetarian version replaces meat with mushrooms and adds Asian crystal noodles.
 - **Visible oil:** older Tibetans expect to see oil glistening on the soup surface ("soup without oil looks like water"). The butter at the end achieves this.
 
 ## Storage
 - Keeps 3 days refrigerated; reheats well. The heat softens slightly overnight.
-- Don't freeze - the potatoes go grainy.
+- Don't freeze, the potatoes go grainy.

@@ -5,7 +5,7 @@
 *Knowing what to do with a whole fish lets you buy from a proper fishmonger instead of staring at the supermarket fillets. You get the bones for stock, the heads for fumet, the cheeks for the cook, and a fish that stays moister than any filleted portion. A whole sea bass on a tray with lemon and thyme is one of the easier weeknight wins going.*
 
 ## Overview
-A whole fish is dramatically better value than a filleted one. The fishmonger charges by the whole-fish weight; you get the fillets, the head, the bones, the cheeks. The "fillet yield" is about 50% - half the fish is meat - but the rest is the foundation for fish stock, the cook's reward (cheeks, eaten standing up at the counter), and the head for sauce or display.
+A whole fish is dramatically better value than a filleted one. The fishmonger charges by the whole-fish weight; you get the fillets, the head, the bones, the cheeks. The "fillet yield" is about 50% - half the fish is meat, but the rest is the foundation for fish stock, the cook's reward (cheeks, eaten standing up at the counter), and the head for sauce or display.
 
 A whole fish also stays moister when cooked. The skin, bones and skeleton act as natural insulation against drying out. A whole roasted sea bass is harder to over-cook than a fillet.
 

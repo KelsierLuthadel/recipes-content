@@ -39,14 +39,14 @@ Muriwo une dovi is Zimbabwe's collard greens with peanut butter, the sidekick to
 
 ### Stage 3 - Finish with peanut butter
 1. Whisk the peanut butter with the hot water to a loose sauce.
-1. Stir into the greens. Cook uncovered 2-3 minutes - the sauce should coat the leaves and look glossy, not pasty.
+1. Stir into the greens. Cook uncovered 2-3 minutes, the sauce should coat the leaves and look glossy, not pasty.
 1. Taste; adjust salt.
 
 ### Stage 4 - Serve
 1. Tip into a serving bowl. Eat alongside sadza and any stew or dovi.
 
 ## Notes
-- **Greens choice:** Covo (Zimbabwean collard) is the original; in the UK / US use kale, cavolo nero, spring greens or collard greens. Spinach overcooks and bleeds water - skip it.
+- **Greens choice:** Covo (Zimbabwean collard) is the original; in the UK / US use kale, cavolo nero, spring greens or collard greens. Spinach overcooks and bleeds water, skip it.
 - **Peanut butter quality:** Smooth, unsweetened, no palm oil. Sweetened American-style brands ruin the dish.
 - **Don't drown it:** The peanut sauce coats the greens, not braises them. If it pools at the bottom, cook off the excess.
 

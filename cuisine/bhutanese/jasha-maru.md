@@ -81,7 +81,7 @@ The Bhutanese weeknight chicken stew, the dish a Thimphu cook turns to after a l
 - **No tomato puree:** the dish uses fresh tomato only. Tomato puree thickens too much and overshadows the fresh aromatics.
 
 ## Variations
-**Jasha Tshoem:** a thicker, drier variant with less liquid and a finish of butter and cheese stirred in - lavish for special occasions.
+**Jasha Tshoem:** a thicker, drier variant with less liquid and a finish of butter and cheese stirred in, lavish for special occasions.
 **With datshi:** a generous handful of crumbled blue cheese or feta stirred in at the very end pulls the dish toward ema datshi territory. Not traditional in every region but common in Thimphu home cooking.
 
 ## Serving

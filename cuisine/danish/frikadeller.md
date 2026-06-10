@@ -11,14 +11,14 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Frikadeller are Denmark's national meatballs and a fixture of every Danish family kitchen, eaten as a weeknight dinner with potatoes and gravy, packed cold into lunchboxes the next day, or piled onto a slice of rye bread for smørrebrød. The defining structural difference from Swedish köttbullar: frikadeller are larger and flat (oval-shaped patties about 6cm long and 2cm thick, formed with a wet spoon dipped between portions), not round balls. The mix is also distinct: a 70/30 ground pork-and-veal blend (pork dominant; some recipes use beef in place of veal), bound with grated onion, a beaten egg, milk-soaked flour (the panade - flour mixed with milk rather than breadcrumbs), and a Scandinavian-traditional touch of grated nutmeg and white pepper. Salted lightly, rested 30 minutes for the flour to hydrate, then shaped into ovals and pan-fried hard in butter till deeply browned and just-cooked-through. Served with boiled or roasted potatoes, brunede kartofler (sugar-glazed potatoes; see [recipe](side-dishes/brunede-kartofler.md)), rødkål (Danish red cabbage; see [recipe](side-dishes/rodkal.md)), and a brown sauce (brun sovs) made from the pan drippings.
+Frikadeller are Denmark's national meatballs and a fixture of every Danish family kitchen, eaten as a weeknight dinner with potatoes and gravy, packed cold into lunchboxes the next day, or piled onto a slice of rye bread for smørrebrød. The defining structural difference from Swedish köttbullar: frikadeller are larger and flat (oval-shaped patties about 6cm long and 2cm thick, formed with a wet spoon dipped between portions), not round balls. The mix is also distinct: a 70/30 ground pork-and-veal blend (pork dominant; some recipes use beef in place of veal), bound with grated onion, a beaten egg, milk-soaked flour (the panade, flour mixed with milk rather than breadcrumbs), and a Scandinavian-traditional touch of grated nutmeg and white pepper. Salted lightly, rested 30 minutes for the flour to hydrate, then shaped into ovals and pan-fried hard in butter till deeply browned and just-cooked-through. Served with boiled or roasted potatoes, brunede kartofler (sugar-glazed potatoes; see [recipe](side-dishes/brunede-kartofler.md)), rødkål (Danish red cabbage; see [recipe](side-dishes/rodkal.md)), and a brown sauce (brun sovs) made from the pan drippings.
 
 ## Ingredients
 
 ### Meatballs
 - 500 g ground pork
 - 200 g ground veal (or substitute with extra pork; or ground beef for a beefier version)
-- 1 small onion (finely grated - use a microplane or fine box-grater)
+- 1 small onion (finely grated, use a microplane or fine box-grater)
 - 1 large egg (beaten)
 - 4 tablespoons plain flour
 - 150 ml whole milk
@@ -55,7 +55,7 @@ Frikadeller are Denmark's national meatballs and a fixture of every Danish famil
 ### Stage 2 - Make the flour-milk panade
 1. In a separate small bowl, whisk the flour with the milk till smooth (no lumps).
 2. Pour the flour-milk into the meat mixture.
-3. Mix thoroughly with your hand or a wooden spoon - beat the mixture for 2-3 minutes to develop a slight chew.
+3. Mix thoroughly with your hand or a wooden spoon, beat the mixture for 2-3 minutes to develop a slight chew.
 
 ### Stage 3 - Rest
 1. Cover the bowl with cling film.
@@ -67,7 +67,7 @@ Frikadeller are Denmark's national meatballs and a fixture of every Danish famil
 3. Dip the spoon in the water, then scoop a heaped tablespoon of mixture.
 4. Using a second wet spoon (or your wet free hand), shape the scoop into an oval patty about 6cm long and 2cm thick.
 5. Slide off onto a plate.
-6. Repeat for all the mixture - about 16-20 frikadeller.
+6. Repeat for all the mixture, about 16-20 frikadeller.
 7. The wet-spoon technique keeps the mixture from sticking and gives the traditional oval shape.
 
 ### Stage 5 - Fry
@@ -79,7 +79,7 @@ Frikadeller are Denmark's national meatballs and a fixture of every Danish famil
 6. Transfer to a warm plate; keep warm.
 
 ### Stage 6 - Make the brown sauce (optional)
-1. Don't wipe the pan - the drippings make the gravy.
+1. Don't wipe the pan, the drippings make the gravy.
 2. Add 40g butter to the pan over medium heat.
 3. Whisk in the flour; cook 2 minutes till golden.
 4. Gradually whisk in the stock.
@@ -104,9 +104,9 @@ Frikadeller are Denmark's national meatballs and a fixture of every Danish famil
 - **Rest 30 minutes:** the flour needs to hydrate; the patties hold together better.
 
 ## Variations
-**Kogt frikadeller:** poached frikadeller (boiled in stock instead of fried) - used as the base for boller i karry (see [recipe](boller-i-karry.md)).
-**Fiskefrikadeller:** fish-frikadeller (with cod or similar white fish in place of pork) - equally Danish; pan-fried the same way.
-**Hønsefrikadeller:** chicken frikadeller - lighter; same technique.
+**Kogt frikadeller:** poached frikadeller (boiled in stock instead of fried): used as the base for boller i karry (see [recipe](boller-i-karry.md)).
+**Fiskefrikadeller:** fish-frikadeller (with cod or similar white fish in place of pork): equally Danish; pan-fried the same way.
+**Hønsefrikadeller:** chicken frikadeller, lighter; same technique.
 **With minced beef only:** less traditional but works.
 **Cold for lunchbox / smørrebrød:** the next day, sliced cold frikadeller on rye bread with mustard and pickled cucumber is the traditional Danish lunch.
 

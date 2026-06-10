@@ -49,7 +49,7 @@ Chicken piccata, the Italian-American mid-century classic of pounded chicken cut
 1. Add the minced garlic, parsley, ricotta, parmesan, panko, paprika, red pepper flakes, salt and pepper. Mix thoroughly.
 
 ### Stage 2 - Meatballs
-1. Add the ground chicken; mix gently until just combined - don't overwork.
+1. Add the ground chicken; mix gently until just combined, don't overwork.
 1. Roll into about 20 meatballs. Wet hands help.
 
 ### Stage 3 - Brown

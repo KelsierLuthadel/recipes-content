@@ -11,15 +11,15 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent gathering, julefrokost, Christmas market, and family pre-dinner drink from late November through Twelfth Night. The Danish version differs from the Swedish glögg (see [Swedish glögg](../../sweden/glogg.md)) in three ways: it's more cinnamon-forward (less cardamom), sharper and more wine-driven (lower sugar than Swedish), and frequently uses dark rum or brandy instead of akvavit for the spirit boost (giving warmer, less herbal notes). Otherwise the principle is the same: red wine warmed gently with sugar, a spirit boost, a bag of warming spices (cinnamon stick, cloves, cardamom, allspice, fresh ginger, orange peel), and served in small heat-safe mugs with plump rum-soaked raisins and whole blanched almonds in the bottom. Drunk with æbleskiver (Danish round pancake balls, dusted with icing sugar and served with jam) - the traditional Danish Christmas gløgg-and-æbleskiver pairing.
+Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent gathering, julefrokost, Christmas market, and family pre-dinner drink from late November through Twelfth Night. The Danish version differs from the Swedish glögg (see [Swedish glögg](../../sweden/glogg.md)) in three ways: it's more cinnamon-forward (less cardamom), sharper and more wine-driven (lower sugar than Swedish), and frequently uses dark rum or brandy instead of akvavit for the spirit boost (giving warmer, less herbal notes). Otherwise the principle is the same: red wine warmed gently with sugar, a spirit boost, a bag of warming spices (cinnamon stick, cloves, cardamom, allspice, fresh ginger, orange peel), and served in small heat-safe mugs with plump rum-soaked raisins and whole blanched almonds in the bottom. Drunk with æbleskiver (Danish round pancake balls, dusted with icing sugar and served with jam): the traditional Danish Christmas gløgg-and-æbleskiver pairing.
 
 ## Ingredients
 
 ### Gløgg base
-- 1.5 litres dry red wine (a robust dry red - Cabernet Sauvignon, Merlot, or any decent table red; saving the good wine for drinking neat)
-- 300 ml dark rum OR brandy OR Aalborg akvavit (the Danish choice - dark rum is the most traditional Danish home version)
+- 1.5 litres dry red wine (a robust dry red, Cabernet Sauvignon, Merlot, or any decent table red; saving the good wine for drinking neat)
+- 300 ml dark rum OR brandy OR Aalborg akvavit (the Danish choice, dark rum is the most traditional Danish home version)
 - 150 ml port (optional; for sweetness depth)
-- 100 g caster sugar (less than Swedish - the Danish balance is drier)
+- 100 g caster sugar (less than Swedish, the Danish balance is drier)
 
 ### Spice mix
 - 2 cinnamon sticks
@@ -38,11 +38,11 @@ Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent g
 
 ### Equipment
 - A cheesecloth or muslin bag for the spices (or just add loose and strain at the end)
-- Small heat-safe mugs or proper gløgg glasses (small - about 120 ml; you're sipping, not chugging)
+- Small heat-safe mugs or proper gløgg glasses (small, about 120 ml; you're sipping, not chugging)
 - Small teaspoons for the raisins-and-almonds at the bottom of the cup
 
 ### To serve alongside
-- Æbleskiver (Danish round pancake balls) dusted with icing sugar and served with raspberry or strawberry jam - the traditional pairing
+- Æbleskiver (Danish round pancake balls) dusted with icing sugar and served with raspberry or strawberry jam, the traditional pairing
 - Pebernødder (small Danish Christmas spice biscuits)
 - Klejner (Danish fried twist biscuits)
 - Or just a plate of fika-style Christmas biscuits
@@ -76,7 +76,7 @@ Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent g
 4. Each guest receives a small teaspoon for the raisins-and-almonds at the bottom.
 
 ### Stage 6 - The serving ritual
-1. Serve with æbleskiver (Danish round pancake balls) on the side - the traditional pairing.
+1. Serve with æbleskiver (Danish round pancake balls) on the side, the traditional pairing.
 2. Hold the mug with both hands; sip slowly.
 3. When you reach the bottom of the cup, spoon up the rum-soaked raisins and almonds.
 4. A round of gløgg should last 20-30 minutes.
@@ -91,7 +91,7 @@ Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent g
 ## Variations
 **Vit gløgg (white gløgg):** swap red wine for a dry white wine (Riesling, Gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
 **Bærgløgg (berry gløgg):** swap half the wine for cherry or elderberry juice; gives a less alcoholic Christmas-market version.
-**Børnegløgg (children's gløgg):** non-alcoholic - swap the wine for red grape or cherry juice; same spices, same raisins-and-almonds.
+**Børnegløgg (children's gløgg):** non-alcoholic, swap the wine for red grape or cherry juice; same spices, same raisins-and-almonds.
 **Aalborg-spiked:** use Aalborg Jubilæum (oak-aged akvavit) instead of rum for a herbal-akvavit Danish version.
 **Aged gløgg:** make a double batch; bottle half and age 2 weeks before drinking. The spices marry beautifully.
 

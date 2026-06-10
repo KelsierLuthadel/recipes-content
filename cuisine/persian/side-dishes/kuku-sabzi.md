@@ -20,7 +20,7 @@ Kuku sabzi is the deep-green herb omelette that sits at the centre of the Nowruz
 - 1 large bunch coriander (about 60 g)
 - 1 large bunch fresh dill (about 60 g)
 - 1 small bunch chives (or spring onion tops, about 30 g)
-- A handful fresh fenugreek leaves (shanbalileh) - OR 2 teaspoons dried fenugreek leaves (kasoori methi)
+- A handful fresh fenugreek leaves (shanbalileh): OR 2 teaspoons dried fenugreek leaves (kasoori methi)
 
 ### Eggs
 - 6 eggs (large)
@@ -48,8 +48,8 @@ Kuku sabzi is the deep-green herb omelette that sits at the centre of the Nowruz
 
 ### Stage 1 - Chop herbs
 1. Strip leaves from the stems; reserve the soft fine stems (which have great flavour); discard only the thick bottom stems.
-1. Chop all herbs very fine - by hand on a board, or pulse in a food processor (don't process to a paste - you want fine chop).
-1. The herb pile should be about 250 g total. (If using a kitchen scale, fresh chopped herbs weigh light - go by volume too: you want a generous heap, the bulk of the dish.)
+1. Chop all herbs very fine, by hand on a board, or pulse in a food processor (don't process to a paste, you want fine chop).
+1. The herb pile should be about 250 g total. (If using a kitchen scale, fresh chopped herbs weigh light, go by volume too: you want a generous heap, the bulk of the dish.)
 
 ### Stage 2 - Egg mixture
 1. In a wide bowl, whisk eggs until well combined.
@@ -59,13 +59,13 @@ Kuku sabzi is the deep-green herb omelette that sits at the centre of the Nowruz
 ### Stage 3 - Combine
 1. Fold the chopped herbs into the egg mixture.
 1. Add walnuts and barberries if using.
-1. The mixture should be thick (more like a herb-with-some-egg than an omelette) - about 80% herbs, 20% egg.
+1. The mixture should be thick (more like a herb-with-some-egg than an omelette): about 80% herbs, 20% egg.
 
 ### Stage 4 - Cook (stovetop method)
 1. Heat oil in a 24 cm non-stick pan over medium heat until shimmering.
 1. Pour in the mixture; smooth the top.
 1. Cover with a lid (to trap heat).
-1. Cook 6-8 minutes - the bottom sets and turns deep green-brown.
+1. Cook 6-8 minutes, the bottom sets and turns deep green-brown.
 1. To flip: slide onto a flat plate, then invert the pan over the plate and tip back. Cook 4-6 more minutes covered to set the second side.
 
 ### Stage 5 - Or oven method (easier for beginners)

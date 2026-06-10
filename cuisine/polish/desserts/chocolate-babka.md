@@ -47,7 +47,7 @@ Chocolate babka is the Polish-Jewish bread that turns up at Sunday brunch and on
 ### Stage 2 - Filling
 1. Melt the chocolate and butter together in a heatproof bowl over barely-simmering water.
 1. Whisk in the icing sugar, cocoa and cinnamon until smooth.
-1. Cool to room temperature - it should be spreadable, not runny. If it sets too firm, soften gently.
+1. Cool to room temperature, it should be spreadable, not runny. If it sets too firm, soften gently.
 
 ### Stage 3 - Roll and fill
 1. Tip the cold dough onto a lightly floured surface; roll into a 50 x 30 cm rectangle.
@@ -55,7 +55,7 @@ Chocolate babka is the Polish-Jewish bread that turns up at Sunday brunch and on
 
 ### Stage 4 - Roll and shape
 1. Roll up tightly from one long edge into a long sausage; pinch the seam closed.
-1. Place seam-side down; with a sharp knife, slice the log lengthwise - cutting it in half so the cut sides expose the chocolate spiral.
+1. Place seam-side down; with a sharp knife, slice the log lengthwise, cutting it in half so the cut sides expose the chocolate spiral.
 1. Holding both halves cut-side up, twist them around each other into a 2-strand braid (like a rope).
 1. Pinch the ends to seal.
 1. Lift carefully into a buttered, parchment-lined 23 cm loaf tin.
@@ -70,11 +70,11 @@ Chocolate babka is the Polish-Jewish bread that turns up at Sunday brunch and on
 
 ### Stage 7 - Sugar syrup
 1. While baking, simmer the sugar and water 3 minutes; cool slightly.
-1. As the babka comes out of the oven, brush the syrup all over the top - it'll soak in and gloss the surface.
+1. As the babka comes out of the oven, brush the syrup all over the top, it'll soak in and gloss the surface.
 
 ### Stage 8 - Cool and slice
 1. Cool 30 minutes in the tin; lift out using parchment.
-1. Cool fully before slicing - warm babka tears.
+1. Cool fully before slicing, warm babka tears.
 
 ## Notes
 - **Cold dough is essential:** Refrigerated overnight, the dough is firm enough to roll thin and twist neatly. Room-temperature dough tears and won't hold the spiral.

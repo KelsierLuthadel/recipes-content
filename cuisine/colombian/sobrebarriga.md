@@ -75,7 +75,7 @@ Sobrebarriga is the Colombian Sunday cut, a thick whole flank slow-braised until
 1. Serve with rice, papa salada and avocado.
 
 ## Notes
-- **Don't overcook the boil:** 2 hours max - pushing further gives shredded meat that won't slice cleanly. Target: tender enough to push with a fork but holds shape.
+- **Don't overcook the boil:** 2 hours max, pushing further gives shredded meat that won't slice cleanly. Target: tender enough to push with a fork but holds shape.
 - **Annatto colour:** Gives the gravy its deep red-orange. Smoked paprika is the everyday substitute.
 - **Beer adds depth:** Don't substitute red wine; the lager is the Bogotá signature.
 

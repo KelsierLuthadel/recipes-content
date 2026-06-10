@@ -61,8 +61,8 @@ ingredients:
     raw: 1 tablespoon white wine vinegar
   - qty: 4
     unit: tbsp
-    name: lard - for additional cooking fat
-    raw: 4 tablespoons lard - for additional cooking fat
+    name: "lard : for additional cooking fat"
+    raw: "4 tablespoons lard : for additional cooking fat"
   - qty: 2
     name: white onions
     raw: 2 large white onions

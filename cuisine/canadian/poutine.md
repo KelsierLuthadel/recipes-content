@@ -34,7 +34,7 @@ Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food expo
 
 ### The cheese curds
 - 350 g fresh white cheese curds (at ROOM TEMPERATURE; take out of the fridge 1 hour ahead)
-- (Substitute: 350 g fresh mozzarella, torn into walnut-sized pieces - loses the squeak but gains the melt)
+- (Substitute: 350 g fresh mozzarella, torn into walnut-sized pieces, loses the squeak but gains the melt)
 
 ### To serve
 - 4 wide shallow bowls (warmed)
@@ -89,15 +89,15 @@ Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food expo
 - **Eat immediately:** poutine is at its peak for about 4 minutes. After 8 minutes the fries are limp and the curds have melted fully.
 
 ## Variations
-**Poutine au foie gras:** add a small slice of seared foie gras on top - the Au Pied de Cochon Montreal restaurant variant. Very upmarket.
-**Poutine galvaude:** add chunks of cooked chicken and green peas to the gravy - a Quebec rural variant.
-**Poutine smoked-meat:** add chopped Montreal smoked-meat brisket over the curds - the deli variant.
-**Poutine au pulled pork:** add slow-cooked pulled pork in the gravy - a modern restaurant variant.
-**Italian poutine:** swap the gravy for marinara, the curds for fresh mozzarella - a Quebec-Italian crossover.
-**Poutine breakfast:** add a fried egg on top, runny yolk through the gravy - the brunch variant.
+**Poutine au foie gras:** add a small slice of seared foie gras on top, the Au Pied de Cochon Montreal restaurant variant. Very upmarket.
+**Poutine galvaude:** add chunks of cooked chicken and green peas to the gravy, a Quebec rural variant.
+**Poutine smoked-meat:** add chopped Montreal smoked-meat brisket over the curds, the deli variant.
+**Poutine au pulled pork:** add slow-cooked pulled pork in the gravy, a modern restaurant variant.
+**Italian poutine:** swap the gravy for marinara, the curds for fresh mozzarella, a Quebec-Italian crossover.
+**Poutine breakfast:** add a fried egg on top, runny yolk through the gravy, the brunch variant.
 **Vegetarian mushroom poutine:** swap the beef-chicken gravy for a deep mushroom-stock gravy; the curds stay.
 **Vegan poutine:** vegan cheese curds (jackfruit-based work surprisingly well) + a vegetable-stock gravy thickened with cornflour.
-**Quebec-style poutine "all-dressed":** add chopped pickles, raw onion, a dribble of yellow mustard on top - the diner variant.
+**Quebec-style poutine "all-dressed":** add chopped pickles, raw onion, a dribble of yellow mustard on top, the diner variant.
 
 ## Serving
 At a Quebec roadside chip-stand (the traditional setting; La Banquise in Montreal is the famous tourist spot but most Quebecois eat it at their local cabane-à-patates) · at a Quebec hockey-arena snack bar · at a Canadian university dining hall at 2 am after a night out · at a Canadian winter ski-resort lodge · at a Toronto food-truck festival · at home as a Friday-night Canadian comfort plate.
@@ -106,5 +106,5 @@ At a Quebec roadside chip-stand (the traditional setting; La Banquise in Montrea
 - Doesn't store. Eat within 5 minutes.
 - Leftover gravy refrigerates 4 days; freeze 3 months.
 - Leftover fries (without gravy) refrigerate 2 days; refresh in a 200°C oven 6 minutes.
-- Don't refrigerate assembled poutine - the fries go limp and the cheese curd texture is destroyed.
+- Don't refrigerate assembled poutine, the fries go limp and the cheese curd texture is destroyed.
 - Cheese curds keep refrigerated up to 5 days but lose the squeak after 24 hours; rescue old curds by warming briefly under a hot grill (they melt nicely even if they no longer squeak).

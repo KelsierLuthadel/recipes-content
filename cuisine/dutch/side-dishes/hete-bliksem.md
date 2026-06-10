@@ -63,7 +63,7 @@ Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, nati
 3. Tip the mixture back into the pot.
 4. Add the butter, warm milk, salt, white pepper and grated nutmeg.
 5. Add the rendered bacon fat and (optional) the sweated onion.
-6. With a sturdy fork or potato masher, crush coarsely - visible chunks of potato and apple should remain. Don't smooth into a purée.
+6. With a sturdy fork or potato masher, crush coarsely, visible chunks of potato and apple should remain. Don't smooth into a purée.
 
 ### Stage 5 - Taste and adjust
 1. Taste; the dish should be sweet from the apples, savoury from the bacon and potato, with a faint warming spice from the nutmeg.
@@ -87,13 +87,13 @@ Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, nati
 - **Rural roots:** this is country home cooking from the eastern Netherlands. Modern Amsterdam restaurants do refined versions; the rural version is hearty and unfussy.
 
 ## Variations
-**Hete bliksem met rookworst:** the traditional pairing - a whole smoked Gelderse rookworst sausage on top.
-**Hete bliksem met bloedworst:** with a thick slice of pan-fried black pudding alongside - the rural Twente variant.
+**Hete bliksem met rookworst:** the traditional pairing, a whole smoked Gelderse rookworst sausage on top.
+**Hete bliksem met bloedworst:** with a thick slice of pan-fried black pudding alongside, the rural Twente variant.
 **Sweet hete bliksem (modern dessert variant):** skip the bacon and salt; add 50 g brown sugar to the apples; serve with vanilla ice cream as a Dutch take on apple crumble.
-**Hete bliksem with prunes:** add 50 g pitted prunes to the apple cook - the rural Achterhoek variant.
-**Hete bliksem with quince:** swap half the apples for poached quince - the autumn variant.
+**Hete bliksem with prunes:** add 50 g pitted prunes to the apple cook, the rural Achterhoek variant.
+**Hete bliksem with quince:** swap half the apples for poached quince, the autumn variant.
 **Vegetarian hete bliksem:** skip the bacon; use 2 tablespoons of butter; serve with a fried egg on top.
-**Hete bliksem with sausage and pear:** swap half the apples for sliced pear; serve with rookworst - the Limburg variant.
+**Hete bliksem with sausage and pear:** swap half the apples for sliced pear; serve with rookworst, the Limburg variant.
 **Quick weeknight hete bliksem:** use frozen mash (good quality) + sliced apples microwaved 4 minutes + crisp bacon - 15 minutes total.
 
 ## Serving

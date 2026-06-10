@@ -55,7 +55,7 @@ This is the vegetarian Thai green curry: the same fierce-but-fragrant paste of f
 
 ### Stage 2 - Crack the coconut cream
 1. Open the coconut milk tin without shaking; spoon the thick cream from the top into a wok. Add the separate 165 ml coconut cream tin too.
-1. Heat over medium-high heat 4-5 minutes - it'll boil furiously, then quiet down as the oil splits out around the edges. This is when it's ready.
+1. Heat over medium-high heat 4-5 minutes, it'll boil furiously, then quiet down as the oil splits out around the edges. This is when it's ready.
 
 ### Stage 3 - Fry the paste
 1. Add the curry paste; stir-fry 4-5 minutes until aromatic, slightly darkened, and the oil is visible around the edges. Add the tablespoon of oil if it's too dry.

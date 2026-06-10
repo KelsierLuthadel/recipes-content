@@ -46,10 +46,10 @@ A creamy Ethiopian chickpea-flour stew, the everyday vegan main that's eaten con
 1. Drizzle with extra oil at the table; serve with injera or rice.
 
 ## Notes
-- **Whisk in the flour off heat:** Or hold the heat low - boil-in causes lumps. A wire whisk and steady pour gets you a smooth result.
+- **Whisk in the flour off heat:** Or hold the heat low, boil-in causes lumps. A wire whisk and steady pour gets you a smooth result.
 - **Texture is personal:** Some like it pourable like thick gravy, others prefer almost spreadable. Adjust water to taste.
 - **Berbere makes it:** Without good berbere this is bland chickpea-flour soup. The spice blend is non-negotiable.
 
 ## Storage
-- Keeps 4 days refrigerated; thickens further on cooling - loosen with hot water on reheat.
+- Keeps 4 days refrigerated; thickens further on cooling, loosen with hot water on reheat.
 - Freezes 2 months; texture is fine if whisked while reheating.

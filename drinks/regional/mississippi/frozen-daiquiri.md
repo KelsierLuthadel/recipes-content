@@ -11,7 +11,7 @@
 ## Overview
 A frozen daiquiri at a Mississippi gas station is a regional institution. Daiquiri stops are scattered across the southern half of the state, often combined with a fuel station or a small drive-thru shed, offering pre-made frozen daiquiris in pastel colours (banana, strawberry, peach, mudslide, hurricane) dispensed from slushy machines into 32-ounce styrofoam cups. They are sold sealed (with a separate straw, technically making them a "closed container" and so legally transportable in the car), and they are inexpensive enough that this is genuinely how a great many Mississippians order their happy hour.
 
-The home version is built in a blender. The recipe below is the classic lime version - the foundation of every other flavour. The colour variations layer fruit purée into the same base.
+The home version is built in a blender. The recipe below is the classic lime version, the foundation of every other flavour. The colour variations layer fruit purée into the same base.
 
 ## Ingredients
 - 100 ml white rum (Bacardi, Plantation, or any decent light rum)

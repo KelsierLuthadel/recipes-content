@@ -31,7 +31,7 @@ The Sunday-lunch obligation in its most argued-about form: shaggy-edged, crisp-s
 ### Stage 2 - Fluff up
 1. Drain in a colander.
 1. Let steam off for 1 minute.
-1. Shake the colander vigorously back and forth - the edges of the potatoes should rough up into a fluffy coating.
+1. Shake the colander vigorously back and forth, the edges of the potatoes should rough up into a fluffy coating.
 1. Sprinkle with semolina if using; toss once more.
 
 ### Stage 3 - Heat the fat

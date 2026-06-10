@@ -33,14 +33,14 @@ Fried plantain is one of the simplest dishes in the Caribbean and one of the mos
 ### Stage 1 - Prep the plantains
 1. Cut both ends off each plantain.
 2. With a sharp knife, score the skin lengthways down the side (a single cut through the skin only).
-3. Peel the skin off in 2 pieces (it should come off easily on ripe plantains; if it sticks, the plantain is underripe - let it ripen another day).
+3. Peel the skin off in 2 pieces (it should come off easily on ripe plantains; if it sticks, the plantain is underripe, let it ripen another day).
 4. Slice the peeled flesh on the diagonal into 1.5 cm thick rounds.
 5. You should have about 24-30 slices total.
 
 ### Stage 2 - Heat the oil
 1. Heat about 3 tablespoons of oil in a heavy wide frying pan over medium heat (the oil should be about 4-5 mm deep in the pan).
 2. Test the temperature: a small piece of plantain dropped in should sizzle immediately and form bubbles around the edges.
-3. The oil should be 175-180°C - hot enough to caramelise quickly but not so hot it burns before the inside softens.
+3. The oil should be 175-180°C, hot enough to caramelise quickly but not so hot it burns before the inside softens.
 
 ### Stage 3 - Fry the first side
 1. Place the plantain slices in a single layer in the hot oil (don't overcrowd; work in 2 batches if needed).
@@ -61,25 +61,25 @@ Fried plantain is one of the simplest dishes in the Caribbean and one of the mos
 ### Stage 6 - Serve immediately
 1. Serve hot, alongside the main Caribbean dish.
 2. Each slice should be deeply caramelised outside, soft and almost-jammy inside.
-3. Eat with the fingers or a fork - the slices are firm enough to handle.
+3. Eat with the fingers or a fork, the slices are firm enough to handle.
 
 ## Notes
 - **Plantain ripeness:** YELLOW WITH BLACK SPOTS is the traditional ripeness. Pure-yellow is too starchy; pure-green is for a different dish (tostones); pure-black is over-ripe but still acceptable.
 - **1.5 cm diagonal cut:** the thickness is critical. Thinner slices burn; thicker stays raw in the middle.
 - **Don't crowd the pan:** the slices need to caramelise, not steam. Work in batches.
 - **Don't move the slices:** the caramelisation needs to form. 2 minutes undisturbed on each side.
-- **Salt on the hot slices:** the traditional Caribbean finish. Don't skip - it makes the slices.
+- **Salt on the hot slices:** the traditional Caribbean finish. Don't skip, it makes the slices.
 - **Eat hot:** fried plantain is at its peak for 15 minutes. After an hour the slices have softened and lost their caramelised crust.
 
 ## Variations
-**Tostones / patacones (savoury - different dish):** green underripe plantains sliced thick, fried briefly, smashed flat, fried again - the savoury crispy variant; not fried plantain.
+**Tostones / patacones (savoury, different dish):** green underripe plantains sliced thick, fried briefly, smashed flat, fried again, the savoury crispy variant; not fried plantain.
 **Cinnamon-sugar fried plantain (dessert):** dust with cinnamon-sugar instead of salt; serve as a dessert with vanilla ice cream.
 **Plantain chips / banane pesée:** thin slices fried crisp; the snack variant.
 **Coconut-fried plantain:** swap the oil for coconut oil; gives a subtle coconut note.
-**Stuffed plantain (canoa / mofongo-style):** fry whole, then split lengthways and stuff with meat - the Puerto Rican variant.
+**Stuffed plantain (canoa / mofongo-style):** fry whole, then split lengthways and stuff with meat, the Puerto Rican variant.
 **Baked plantain:** slice as for fried; brush with oil; bake at 220°C for 18-22 minutes; less crisp but lighter.
-**Plantain "fries" (thin strips):** cut into French-fry shapes; deep-fry till crisp - the chip-shop variant.
-**Plantain mash:** boil green plantains till tender; mash with butter and salt - a side-dish alternative.
+**Plantain "fries" (thin strips):** cut into French-fry shapes; deep-fry till crisp, the chip-shop variant.
+**Plantain mash:** boil green plantains till tender; mash with butter and salt, a side-dish alternative.
 
 ## Serving
 At a Bajan Sunday lunch (the traditional setting) · at every Caribbean family dinner from Jamaica to Trinidad · at a Caribbean restaurant abroad · at a Bajan beach picnic · at a Bajan Independence Day celebration · at a Caribbean-themed barbecue · at home as a sweet side for any main · paired with stew chicken, fried chicken, oxtail, jerk chicken.
@@ -87,7 +87,7 @@ At a Bajan Sunday lunch (the traditional setting) · at every Caribbean family d
 ## Storage
 - Best within 30 minutes of frying. After an hour the slices soften.
 - Refrigerates 2 days; reheat in a hot pan for 2 minutes per side to refresh.
-- Doesn't freeze well - the texture suffers.
+- Doesn't freeze well, the texture suffers.
 - Raw plantains keep at room temperature 3-5 days; refrigeration slows further ripening if needed.
 - Day-old plantain slices on toast with cream cheese is the Caribbean day-after breakfast.
 - Leftover slices chopped into a sweet rum-and-cream dessert is a quick Caribbean dessert hack.

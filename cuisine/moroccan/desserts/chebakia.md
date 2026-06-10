@@ -52,13 +52,13 @@ Chebakia is Morocco's Ramadan rosette, the ornate honey-soaked pastry that piles
 ### Stage 2 - Roll and cut
 1. Roll the rested dough on a lightly floured surface to 3 mm thick.
 1. Cut into rectangles 8 × 5 cm.
-1. With a sharp knife, slit each rectangle lengthways 4 times - slits should not reach the ends (the dough must stay in one piece).
+1. With a sharp knife, slit each rectangle lengthways 4 times, slits should not reach the ends (the dough must stay in one piece).
 
 ### Stage 3 - Shape rosettes
 1. Take one rectangle; hold by the two short ends.
 1. Thread one corner through the centre slit, pulling out the other side.
 1. Pinch the corners to set the shape.
-1. Practice on a few - the goal is an open flower / rosette form.
+1. Practice on a few, the goal is an open flower / rosette form.
 1. Set on a tray.
 
 ### Stage 4 - Warm the honey
@@ -77,7 +77,7 @@ Chebakia is Morocco's Ramadan rosette, the ornate honey-soaked pastry that piles
 1. Cool fully.
 
 ## Notes
-- **Rosette shaping takes practice:** your first chebakia will look terrible. By the 10th they're recognisable; by the 20th they're beautiful. Watch a YouTube video of a Moroccan grandmother folding chebakia - it's mesmerising.
+- **Rosette shaping takes practice:** your first chebakia will look terrible. By the 10th they're recognisable; by the 20th they're beautiful. Watch a YouTube video of a Moroccan grandmother folding chebakia, it's mesmerising.
 - **Toasted sesame in the dough, not raw:** raw sesame tastes bland. Toast 200 g in a dry pan 4 minutes till fragrant, then grind lightly.
 - **Honey HOT enough to penetrate, NOT boiling:** boiling honey turns bitter. Body-temperature warm is perfect.
 - **Soak fully:** chebakia depends on the deep honey absorption. Skimping on soaking gives dry chebakia.

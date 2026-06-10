@@ -8,15 +8,15 @@
 
 ## Overview
 
-Whisky (or whiskey - American convention adds the "e") is fermented grain mash, distilled to between 60% and 80% ABV, and aged in oak barrels (with one exception, moonshine, which is the un-aged version). Every American whiskey on this course is built on the same five-stage process:
+Whisky (or whiskey, American convention adds the "e") is fermented grain mash, distilled to between 60% and 80% ABV, and aged in oak barrels (with one exception, moonshine, which is the un-aged version). Every American whiskey on this course is built on the same five-stage process:
 
-1. **Mash** - milled grains soaked in hot water to extract sugars
-2. **Ferment** - yeast eats the sugars and produces alcohol (a "wash" or "distiller's beer")
-3. **Distil** - the wash heated in a pot still; ethanol and flavour compounds vapourise and condense
-4. **Cut** - the foreshots, heads, hearts and tails separated as described in [safety](safety.md)
-5. **Age** - the spirit aged in oak barrels for months to years, picking up colour and flavour
+1. **Mash**: milled grains soaked in hot water to extract sugars
+2. **Ferment**: yeast eats the sugars and produces alcohol (a "wash" or "distiller's beer")
+3. **Distil**: the wash heated in a pot still; ethanol and flavour compounds vapourise and condense
+4. **Cut**: the foreshots, heads, hearts and tails separated as described in [safety](safety.md)
+5. **Age**: the spirit aged in oak barrels for months to years, picking up colour and flavour
 
-This page covers the universal process. The individual whiskies - [bourbon](bourbon.md), [rye](rye.md), [Tennessee whiskey](tennessee-whiskey.md) - diverge in their grain bills and aging requirements.
+This page covers the universal process. The individual whiskies, [bourbon](bourbon.md), [rye](rye.md), [Tennessee whiskey](tennessee-whiskey.md): diverge in their grain bills and aging requirements.
 
 ## Stage 1 - Mashing
 
@@ -25,7 +25,7 @@ Whisky starts with milled grain. The two essential grains are CORN and MALTED BA
 A typical bourbon mash bill: 70% corn, 15% rye, 15% malted barley.
 
 ### Ingredients (for a 5-gallon wash)
-- 5 kg corn (cracked, not flour - the texture of coarse cornmeal)
+- 5 kg corn (cracked, not flour, the texture of coarse cornmeal)
 - 1 kg malted barley (crushed)
 - 1 kg rye (cracked, for a bourbon-style mash; or 1 kg corn if not adding rye)
 - 18 litres water
@@ -57,7 +57,7 @@ This is the run. You have read [Safety](safety.md) by now.
 1. **Strain the wash** through cheesecloth or a wide-mesh strainer to remove the grain (the "spent grain" is fed to livestock or composted).
 2. **Charge the still** with the strained wash. Fill to 80% capacity.
 3. **Heat slowly.** Bring to about 78 °C. Watch the thermometer; cooling water flowing.
-4. **First drops emerge.** These are foreshots. Discard. (50 ml per gallon of wash - for a 5-gallon batch, the first 250 ml.)
+4. **First drops emerge.** These are foreshots. Discard. (50 ml per gallon of wash, for a 5-gallon batch, the first 250 ml.)
 5. **Heads.** The next 250-500 ml. Smell will be hot and grassy. Discard, or save in a separate "heads" jar for redistilling.
 6. **Hearts.** The middle 1.5-2 litres of the run. Clean spirit smell, sweetly alcoholic, parrot hydrometer reading 70-85% ABV early in the run, dropping toward 60-65% mid-run. This is your whiskey.
 7. **Tails.** When the parrot reads below 50% ABV, you are in tails. Smell will turn oily and wet. Discard or save for redistilling.
@@ -69,10 +69,10 @@ For a "single distillation" whiskey, this is your finished spirit. For a "double
 
 Whisky goes into oak barrels for aging. The barrels do four things:
 
-1. **Add tannins and lignins from the wood** - vanilla, coconut, baking spice, smoke
-2. **Concentrate the spirit** - water and alcohol evaporate through the wood ("angel's share")
-3. **Mellow harsh notes** - fusel oils and other heavy compounds precipitate or react out
-4. **Add colour** - the new whiskey comes off the still water-clear; oak gives the amber
+1. **Add tannins and lignins from the wood**: vanilla, coconut, baking spice, smoke
+2. **Concentrate the spirit**: water and alcohol evaporate through the wood ("angel's share")
+3. **Mellow harsh notes**: fusel oils and other heavy compounds precipitate or react out
+4. **Add colour**: the new whiskey comes off the still water-clear; oak gives the amber
 
 **For American whiskies, the barrel MUST be new and charred** (this is the legal definition of straight bourbon). Charring caramelises wood sugars and creates the iconic flavour. A 5-gallon American oak barrel ($150-200) is the family-scale standard; commercial barrels are 53 gallons.
 
@@ -80,7 +80,7 @@ Whisky goes into oak barrels for aging. The barrels do four things:
 - **#1 char** (light): 15-30 seconds, gentle vanilla
 - **#2 char**: 30-45 seconds, balanced
 - **#3 char** (medium): 45-60 seconds, more caramel and spice
-- **#4 char** ("alligator char"): 60+ seconds, blackened and crocodile-textured - the standard for most American bourbon
+- **#4 char** ("alligator char"): 60+ seconds, blackened and crocodile-textured, the standard for most American bourbon
 
 **Aging times** for family-scale whiskey:
 - 6-12 months in a 5-gallon barrel approximates 2-4 years in a commercial 53-gallon barrel (the surface-area-to-volume ratio is much higher in small barrels, so aging is faster)
@@ -118,7 +118,7 @@ The whisky family covers the most classic American cocktails:
 - **[Sazerac](../../drinks/regional/louisiana/sazerac.md):** rye whisky, absinthe, Peychaud's bitters, sugar. The New Orleans classic.
 
 ## See also
-- [Bourbon](bourbon.md) - the specific whiskey style with 51% corn, new charred oak, the federal standard
-- [Rye](rye.md) - the spicier whiskey with 51% rye
-- [Tennessee whiskey](tennessee-whiskey.md) - the same as bourbon plus the Lincoln County Process
-- [Ole Smoky moonshine](ole-smoky-moonshine.md) - un-aged corn whiskey
+- [Bourbon](bourbon.md): the specific whiskey style with 51% corn, new charred oak, the federal standard
+- [Rye](rye.md): the spicier whiskey with 51% rye
+- [Tennessee whiskey](tennessee-whiskey.md): the same as bourbon plus the Lincoln County Process
+- [Ole Smoky moonshine](ole-smoky-moonshine.md): un-aged corn whiskey

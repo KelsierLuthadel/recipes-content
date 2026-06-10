@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Torta tal-lampuki appears in Malta only during late summer and autumn - the lampuki (mahi-mahi / dorado / Coryphaena hippurus) is caught off Maltese shores from August through November using traditional palm-frond rafts that attract the fish. During this season, every Maltese bakery and home kitchen produces the traditional lampuki pie. The construction is a classic British-style pie filled with a uniquely Maltese filling: lampuki fillets (lightly floured and pan-fried first), layered with sautéed spinach, sultanas, capers, black olives, fresh tomato, chopped mint, and a touch of cauliflower for body. Two layers of shortcrust pastry encase the filling; baked till deeply golden.
+Torta tal-lampuki appears in Malta only during late summer and autumn, the lampuki (mahi-mahi / dorado / Coryphaena hippurus) is caught off Maltese shores from August through November using traditional palm-frond rafts that attract the fish. During this season, every Maltese bakery and home kitchen produces the traditional lampuki pie. The construction is a classic British-style pie filled with a uniquely Maltese filling: lampuki fillets (lightly floured and pan-fried first), layered with sautéed spinach, sultanas, capers, black olives, fresh tomato, chopped mint, and a touch of cauliflower for body. Two layers of shortcrust pastry encase the filling; baked till deeply golden.
 
 ## Ingredients
 
@@ -87,14 +87,14 @@ Torta tal-lampuki appears in Malta only during late summer and autumn - the lamp
 - **Cool slightly before slicing:** otherwise the filling runs.
 
 ## Variations
-**Without cauliflower:** simpler version - just spinach base.
+**Without cauliflower:** simpler version, just spinach base.
 **With Maltese cheese (ġbejniet):** crumble 100 g fresh ġbejniet into the filling.
 **With more sultanas:** sweeter, more Eastern-Mediterranean variant.
 **Single-pie version:** make 6 individual pies in muffin tins.
 **Pastry top only (lampuki cazzola):** no bottom crust; baked in a deep dish.
 
 ## Serving
-During lampuki season (August-November) - the traditional setting · at a Maltese family Sunday lunch · at a Maltese village festa · at a Maltese wedding · at home with a glass of Maltese white wine.
+During lampuki season (August-November): the traditional setting · at a Maltese family Sunday lunch · at a Maltese village festa · at a Maltese wedding · at home with a glass of Maltese white wine.
 
 ## Storage
 - Refrigerates 3 days; reheat at 180°C for 12 minutes.

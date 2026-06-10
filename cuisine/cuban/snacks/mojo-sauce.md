@@ -2,7 +2,7 @@
 
 ![Cuban Mojo Sauce](resources/mojo-sauce.jpg)
 
-*Cuba's foundational garlic-citrus sauce: crushed garlic infused in warm olive oil, finished with fresh sour orange juice (or lime + orange juice), cumin, oregano and salt. The Cuban sauce that goes on everything - on lechón asado, on yuca, on plantains, as a dipping sauce, as a marinade. The single most important Cuban condiment.*
+*Cuba's foundational garlic-citrus sauce: crushed garlic infused in warm olive oil, finished with fresh sour orange juice (or lime + orange juice), cumin, oregano and salt. The Cuban sauce that goes on everything, on lechón asado, on yuca, on plantains, as a dipping sauce, as a marinade. The single most important Cuban condiment.*
 
 **Serves:** Makes about 300 ml
 

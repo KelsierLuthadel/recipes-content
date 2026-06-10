@@ -35,7 +35,7 @@ Colombian empanadas are deep-fried half-moons in a vivid yellow-corn casing, sol
 - 1 tsp turmeric 
 - ½ tsp paprika
 - 1 teaspoon salt
-- 600 ml warm water (approximately - adjust as you go)
+- 600 ml warm water (approximately, adjust as you go)
 - 1 tablespoon vegetable oil
 
 ### To fry
@@ -56,13 +56,13 @@ Colombian empanadas are deep-fried half-moons in a vivid yellow-corn casing, sol
 1. Add onion; cook 5 minutes.
 1. Add garlic, cumin, oregano, paprika; cook 30 seconds.
 1. Stir in tomato and puree; cook 4 minutes.
-1. Add cooked potato; mash gently with a fork into the meat - keep some chunky.
+1. Add cooked potato; mash gently with a fork into the meat, keep some chunky.
 1. Season with salt, pepper, coriander.
 1. Cool completely.
 
 ### Stage 2 - Dough
 1. Whisk masarepa, turmerc, paprika and salt in a wide bowl.
-1. Drizzle in oil; add warm water gradually, mixing with hands, to a soft pliable dough (similar to playdough - holds shape, doesn't stick).
+1. Drizzle in oil; add warm water gradually, mixing with hands, to a soft pliable dough (similar to playdough, holds shape, doesn't stick).
 1. Knead briefly. Cover with damp cloth; rest 10 minutes.
 
 ### Stage 3 - Shape

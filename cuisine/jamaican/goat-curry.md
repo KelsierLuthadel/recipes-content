@@ -35,7 +35,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 - 2 tablespoons Caribbean curry powder (extra, for blooming)
 - 1 litre chicken stock (or water)
 - 2 potatoes (medium, peeled, cut into 3 cm chunks)
-- 1 whole Scotch bonnet (left whole, pierced once with a knife - **do not break**)
+- 1 whole Scotch bonnet (left whole, pierced once with a knife, **do not break**)
 - 2 sprigs fresh thyme
 - Salt and black pepper, to adjust at the end
 
@@ -50,7 +50,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 ### Stage 1 - Marinate the goat
 1. Put the goat chunks into a large bowl.
 1. Add the curry powder, allspice, black pepper, salt, picked thyme leaves, spring onion, garlic, ginger, **chopped (deseeded)** Scotch bonnet, vegetable oil and vinegar.
-1. Massage everything into the meat with your hands. Wear gloves if you've got a cut anywhere - the Scotch bonnet will find it.
+1. Massage everything into the meat with your hands. Wear gloves if you've got a cut anywhere, the Scotch bonnet will find it.
 1. Cover and refrigerate at least 2 hours; overnight is much better. The marinade penetrates the bone and the curry powder loses its raw edge.
 
 ### Stage 2 - Brown the goat
@@ -59,7 +59,7 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 1. Set the browned goat aside on a plate.
 
 ### Stage 3 - Bloom the curry
-1. Reduce heat to medium. There should be some fond stuck to the pot - good.
+1. Reduce heat to medium. There should be some fond stuck to the pot, good.
 1. Add the sliced onion to the same pot. Stir 5 minutes until softened and golden.
 1. Add the **extra 2 tablespoons** of curry powder. Stir constantly for 60-90 seconds, **scraping the fond**. The curry powder should darken from yellow to brown and release a sharp, dusty aroma. Don't let it burn.
 
@@ -84,11 +84,11 @@ A deep, brick-yellow gravy stained with turmeric and allspice (called pimento in
 ## Notes
 - **Goat is the meat:** lamb is a workable substitute (use shoulder or shank pieces; reduce braise time to 90 minutes total because lamb is softer than goat). Mutton works similarly. Avoid pre-trimmed, boneless: the bones are what make the gravy.
 - **Scotch bonnet is the heat:** the whole pierced one in the pot delivers fragrance and gentle heat. The chopped (deseeded) one in the marinade is the real fire. For mild palates, skip the chopped one entirely; the whole one alone is enough flavour.
-- **Caribbean curry powder vs Indian:** Caribbean blends are heavier on turmeric and allspice, lighter on cumin. Betapac (yellow tub) is the gold standard. If using an Indian Madras as substitute, the dish is still good but reads as more "curry" and less "Jamaican curry" - close the gap with the extra allspice.
+- **Caribbean curry powder vs Indian:** Caribbean blends are heavier on turmeric and allspice, lighter on cumin. Betapac (yellow tub) is the gold standard. If using an Indian Madras as substitute, the dish is still good but reads as more "curry" and less "Jamaican curry", close the gap with the extra allspice.
 - **The fond is everything:** scrape the bottom of the pot when blooming the curry powder. The browned bits there are flavour.
 - **Make a day ahead if you can:** the curry deepens overnight. Day-2 goat curry is what every Jamaican grandmother makes for Sunday lunch from Saturday's prep.
 
 ## Storage
 - Keeps 4 days refrigerated; reheats beautifully (the gravy thickens, the flavours marry).
 - Freezes 3 months. Thaw overnight in the fridge.
-- Don't freeze with the rice and peas - cook those fresh.
+- Don't freeze with the rice and peas, cook those fresh.

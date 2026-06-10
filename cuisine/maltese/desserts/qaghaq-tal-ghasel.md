@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry - a thick honey-treacle-spice paste encased in shortcrust pastry, formed into a ring (the traditional shape), with the top scored diagonally so the dark filling shows through. The filling is a complex spiced mixture of honey, treacle, semolina, orange and lemon zest, cinnamon, cloves, cocoa, and almonds - slowly cooked till thick and dark. The pastry is rolled, wrapped around the cooled filling rope, shaped into a ring, scored with a sharp knife, and baked till deep gold. Sliced thin (like fruit cake) for tea. Every Maltese bakery sells qagħaq tal-għasel from late November through January.
+Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry, a thick honey-treacle-spice paste encased in shortcrust pastry, formed into a ring (the traditional shape), with the top scored diagonally so the dark filling shows through. The filling is a complex spiced mixture of honey, treacle, semolina, orange and lemon zest, cinnamon, cloves, cocoa, and almonds, slowly cooked till thick and dark. The pastry is rolled, wrapped around the cooled filling rope, shaped into a ring, scored with a sharp knife, and baked till deep gold. Sliced thin (like fruit cake) for tea. Every Maltese bakery sells qagħaq tal-għasel from late November through January.
 
 ## Ingredients
 
@@ -64,7 +64,7 @@ Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry 
 6. Form the long log into a ring on a lined baking tray, sealing the two ends together.
 
 ### Stage 4 - Score and glaze
-1. With a sharp knife, score the top diagonally every 2 cm (cuts about 5 mm deep - the filling should be visible through the slashes).
+1. With a sharp knife, score the top diagonally every 2 cm (cuts about 5 mm deep, the filling should be visible through the slashes).
 2. Brush the top with beaten egg yolk.
 
 ### Stage 5 - Bake
@@ -72,7 +72,7 @@ Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry 
 2. Cool on a wire rack.
 
 ### Stage 6 - Slice and serve
-1. Slice thin (5 mm slices - like fruit cake).
+1. Slice thin (5 mm slices, like fruit cake).
 2. Serve with tea or coffee.
 
 ## Notes
@@ -81,7 +81,7 @@ Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry 
 - **Slice thin:** the filling is dense and very sweet.
 
 ## Variations
-**Smaller rings:** make 4-6 smaller individual rings - perfect for gifts.
+**Smaller rings:** make 4-6 smaller individual rings, perfect for gifts.
 **With orange flower water:** add 1 tablespoon orange flower water to the filling.
 **With pine nuts:** swap almonds for pine nuts.
 **Vegan version:** vegan butter, skip the egg.

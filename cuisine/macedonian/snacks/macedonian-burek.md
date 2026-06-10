@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo pie tradition spanning the Balkans. The Macedonian version distinguishes itself by the spiral form: phyllo sheets are laid out, brushed with butter, filled with the chosen filling (cheese being most popular - sirenje/feta + ricotta + egg; spinach is the second favourite; minced meat the third), rolled into a long log, then coiled into a flat spiral in a round baking tray; baked at high heat till deeply golden. Eat warm for breakfast with yogurt drink.
+Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo pie tradition spanning the Balkans. The Macedonian version distinguishes itself by the spiral form: phyllo sheets are laid out, brushed with butter, filled with the chosen filling (cheese being most popular, sirenje/feta + ricotta + egg; spinach is the second favourite; minced meat the third), rolled into a long log, then coiled into a flat spiral in a round baking tray; baked at high heat till deeply golden. Eat warm for breakfast with yogurt drink.
 
 ## Ingredients
 
@@ -61,7 +61,7 @@ Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo 
 - **Eat warm:** the cheese softens; the pastry crisp is at peak.
 
 ## Variations
-**Pumpkin burek (Tikvenik):** roasted pumpkin + sugar + cinnamon - sweet variant.
+**Pumpkin burek (Tikvenik):** roasted pumpkin + sugar + cinnamon, sweet variant.
 **Spinach (Zeljanica):** as above.
 **Meat (Burek sa mesom):** minced lamb or beef + onion + spice.
 **Mixed cheese:** combine feta, ricotta, Kashkaval.

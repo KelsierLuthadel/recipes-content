@@ -24,9 +24,9 @@ The Cornish tin miner's lunch and the protected food name of Cornwall: beef, pot
 - 150 ml ice water (more if needed)
 
 ### Filling
-- 400 g beef skirt steak (or chuck - cut into 5 mm dice, NEVER minced)
-- 400 g potato (peeled, cut into 5 mm dice - Maris Piper or other floury)
-- 250 g swede (peeled, cut into 5 mm dice - known as "turnip" in Cornwall)
+- 400 g beef skirt steak (or chuck, cut into 5 mm dice, NEVER minced)
+- 400 g potato (peeled, cut into 5 mm dice, Maris Piper or other floury)
+- 250 g swede (peeled, cut into 5 mm dice, known as "turnip" in Cornwall)
 - 1 onion (large, cut into 5 mm dice)
 - 1 ½ teaspoons salt (be generous; the meat is raw and needs seasoning to flavour through)
 - 1 teaspoon black pepper (coarsely ground)
@@ -42,14 +42,14 @@ The Cornish tin miner's lunch and the protected food name of Cornwall: beef, pot
 1. Rub in the cold butter and lard with fingertips until the mixture looks like coarse breadcrumbs with some pea-sized lumps remaining.
 1. Whisk the egg into 100 ml of ice water.
 1. Pour into the flour; bring together with a fork. Add more ice water 1 tablespoon at a time if needed.
-1. Knead briefly (5 squeezes) into a smooth ball - don't overwork.
+1. Knead briefly (5 squeezes) into a smooth ball, don't overwork.
 1. Divide into 4 equal portions; wrap; refrigerate 30 minutes.
 
 ### Stage 2 - Filling
 1. Cut beef into 5 mm dice (smaller is wrong; minced is wrong). Spread on a board.
 1. Cut potato, swede and onion to similar 5 mm dice.
 1. In a wide bowl, combine all 4 ingredients with salt and pepper.
-1. Mix thoroughly with your hands - the salt and pepper should coat everything.
+1. Mix thoroughly with your hands, the salt and pepper should coat everything.
 
 ### Stage 3 - Roll and cut
 1. Heat oven to 200°C (180°C fan).
@@ -90,7 +90,7 @@ The Cornish tin miner's lunch and the protected food name of Cornwall: beef, pot
 ## Notes
 - **Beef skirt, chopped not minced:** This is the protected/traditional rule. Beef skirt (also called flank or hanger) has the right texture and beef flavour. Chuck works as substitute. Minced beef gives a wrong texture entirely.
 - **Crimp along the curve, not the top:** Real Cornish pasties have the crimp along the curved long edge, with the flat side facing up. (Devon pasties have the crimp along the top; they're a separate cousin.) Either works; only one is true to Cornwall.
-- **Don't pre-cook the filling:** Cornish pasties cook from raw. The filling steams inside the pastry. Pre-cooking gives a different (and worse) texture - drier meat, mushier veg. The raw assembly is the technique.
+- **Don't pre-cook the filling:** Cornish pasties cook from raw. The filling steams inside the pastry. Pre-cooking gives a different (and worse) texture, drier meat, mushier veg. The raw assembly is the technique.
 
 ## Storage
 - Refrigerate 3 days; reheat at 180°C 12 minutes.

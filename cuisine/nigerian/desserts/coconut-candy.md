@@ -29,7 +29,7 @@ Nigeria's childhood sweet: the candy you'd buy in folded paper at the school gat
 
 ### Stage 1 - Prep coconut
 1. If using whole coconut: crack open; remove the white flesh; peel off the brown skin; grate coarsely on a box grater OR dice into 5 mm cubes.
-1. If using packaged coconut: use fresh-frozen grated coconut (not dried desiccated - desiccated coconut is too dry and gives chalky candy).
+1. If using packaged coconut: use fresh-frozen grated coconut (not dried desiccated, desiccated coconut is too dry and gives chalky candy).
 
 ### Stage 2 - Cook
 1. In a heavy wide pan, combine the brown sugar, water, nutmeg and salt.
@@ -45,7 +45,7 @@ Nigeria's childhood sweet: the candy you'd buy in folded paper at the school gat
 ### Stage 4 - Set
 1. Tip immediately onto a parchment-lined tray (lightly greased with oil to prevent sticking).
 1. Spread with a greased spatula to a single layer about 1 cm thick.
-1. Don't try to smooth perfectly - irregular is the traditional look.
+1. Don't try to smooth perfectly, irregular is the traditional look.
 1. Cool 30 minutes to set hard.
 
 ### Stage 5 - Break
@@ -59,5 +59,5 @@ Nigeria's childhood sweet: the candy you'd buy in folded paper at the school gat
 
 ## Storage
 - Keeps 2 weeks in an airtight container at room temperature.
-- Don't refrigerate - sugar absorbs moisture and the candy goes sticky.
+- Don't refrigerate, sugar absorbs moisture and the candy goes sticky.
 - Doesn't freeze.

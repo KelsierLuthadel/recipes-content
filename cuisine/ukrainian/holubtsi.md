@@ -56,7 +56,7 @@ Holubtsi are the stuffed cabbage rolls of Ukrainian Sunday dinners: blanched who
 
 ### Stage 1 - Half-cook the rice
 1. Combine the rice with the 300 ml water and a pinch of salt; bring to the boil; cover; reduce to lowest heat; cook 8 minutes.
-1. Off the heat, rest covered 5 minutes; cool - the rice should be half-done.
+1. Off the heat, rest covered 5 minutes; cool, the rice should be half-done.
 
 ### Stage 2 - Cabbage
 1. Cut a deep cone-shape into the base of the cabbage to remove the core.
@@ -82,7 +82,7 @@ Holubtsi are the stuffed cabbage rolls of Ukrainian Sunday dinners: blanched who
 
 ### Stage 6 - Braise
 1. Pack the rolls seam-side down in a wide oven-proof pot or deep roasting tin (a couple of layers is fine).
-1. Pour the sauce over - it should come about ¾ of the way up.
+1. Pour the sauce over, it should come about ¾ of the way up.
 1. Cover with the lid (or foil) and braise at 160°C for 1 hour.
 
 ### Stage 7 - Finish

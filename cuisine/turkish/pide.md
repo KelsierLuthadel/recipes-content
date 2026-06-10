@@ -56,7 +56,7 @@ Pide (pronounced pee-deh) is Turkey's iconic boat-shaped flatbread and one of th
 - 4 large eggs (one per pide; cracked over the centre in the last 5 minutes of baking)
 
 ### To finish
-- 2 tablespoons butter (melted) - brushed over the rim after baking
+- 2 tablespoons butter (melted): brushed over the rim after baking
 - 1 tablespoon Aleppo pepper (sprinkled)
 - 2 tablespoons fresh parsley (chopped)
 

@@ -2,7 +2,7 @@
 
 ![Atakilt Wat](resources/atakilt-wat.jpg)
 
-*Ethiopia's spiced cabbage, carrots and potatoes - bright with turmeric, fragrant with ginger, the vegetables stewed slowly until they meld and the cabbage almost disappears into the sauce. Mild compared to the berbere-heavy stews; cooling against them on a shared platter.*
+*Ethiopia's spiced cabbage, carrots and potatoes, bright with turmeric, fragrant with ginger, the vegetables stewed slowly until they meld and the cabbage almost disappears into the sauce. Mild compared to the berbere-heavy stews; cooling against them on a shared platter.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 35 minutes
 
 ## Overview
-Ethiopia's spiced cabbage stew, the gentle vegetable side that sits between the fiercer berbere-loaded curries on a shared platter and cools whoever's eating against the heat. You soften onions in oil with turmeric until they're pale gold, then bloom garlic, ginger and a small amount of berbere in the same fat - small because this is the mellow dish, not the fierce one. Carrots and potatoes go in first to soften; cabbage joins later. Cover, drop the heat, and let the lot steam-cook for forty minutes until the volume has halved, the vegetables have melted into each other, and the cabbage has almost disappeared into the sauce. Eat with injera and a few spoonfuls of doro wat or misir wat alongside for contrast.
+Ethiopia's spiced cabbage stew, the gentle vegetable side that sits between the fiercer berbere-loaded curries on a shared platter and cools whoever's eating against the heat. You soften onions in oil with turmeric until they're pale gold, then bloom garlic, ginger and a small amount of berbere in the same fat, small because this is the mellow dish, not the fierce one. Carrots and potatoes go in first to soften; cabbage joins later. Cover, drop the heat, and let the lot steam-cook for forty minutes until the volume has halved, the vegetables have melted into each other, and the cabbage has almost disappeared into the sauce. Eat with injera and a few spoonfuls of doro wat or misir wat alongside for contrast.
 
 ## Ingredients
 
@@ -51,7 +51,7 @@ Ethiopia's spiced cabbage stew, the gentle vegetable side that sits between the 
 
 ## Notes
 - **Cabbage volume:** Looks impossible at first; collapses to about a third under the lid. Trust it.
-- **Potato size:** Cut chunks slightly larger than the carrot pieces - they cook a touch faster, so the slightly larger size keeps them from breaking down.
+- **Potato size:** Cut chunks slightly larger than the carrot pieces, they cook a touch faster, so the slightly larger size keeps them from breaking down.
 - **Turmeric matters:** It's not just for colour; it gives the dish its mild earthy backbone.
 
 ## Storage

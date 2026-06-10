@@ -11,12 +11,12 @@
 **Cook Time:** 30 minutes
 
 ## Overview
-Stegt flæsk med persillesovs (literally "fried pork belly with parsley sauce") is officially Denmark's national dish - voted so in a 2014 nationwide poll by the Danish Ministry of Environment and Food (beating frikadeller, smørrebrød, and roast pork to the top spot). The construction is satisfyingly simple: thick slices of pork belly (about 1cm thick, skin-on or off depending on regional preference) are seasoned with salt and pepper and fried hard in a dry pan till the fat renders out and the edges crisp deeply dark golden. Served with a heap of small boiled new potatoes (cooked in their skins, peeled at the table) and a generous ladle of creamy white persillesovs - a Danish parsley sauce made from a butter-flour roux thickened with milk, finished with masses of chopped fresh parsley and a touch of nutmeg. The persillesovs is the heart of the dish - a properly thick, glossy, parsley-flecked cream sauce that floods the plate. Often served with pickled beetroot on the side.
+Stegt flæsk med persillesovs (literally "fried pork belly with parsley sauce") is officially Denmark's national dish, voted so in a 2014 nationwide poll by the Danish Ministry of Environment and Food (beating frikadeller, smørrebrød, and roast pork to the top spot). The construction is satisfyingly simple: thick slices of pork belly (about 1cm thick, skin-on or off depending on regional preference) are seasoned with salt and pepper and fried hard in a dry pan till the fat renders out and the edges crisp deeply dark golden. Served with a heap of small boiled new potatoes (cooked in their skins, peeled at the table) and a generous ladle of creamy white persillesovs, a Danish parsley sauce made from a butter-flour roux thickened with milk, finished with masses of chopped fresh parsley and a touch of nutmeg. The persillesovs is the heart of the dish, a properly thick, glossy, parsley-flecked cream sauce that floods the plate. Often served with pickled beetroot on the side.
 
 ## Ingredients
 
 ### Pork belly
-- 800 g pork belly (skin-on or off; 1cm thick slices - ask your butcher to slice it, or buy ready-sliced)
+- 800 g pork belly (skin-on or off; 1cm thick slices, ask your butcher to slice it, or buy ready-sliced)
 - 2 teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 
@@ -59,7 +59,7 @@ Stegt flæsk med persillesovs (literally "fried pork belly with parsley sauce") 
 8. Keep warm over the lowest heat (cover the surface with cling film if standing more than 5 minutes to prevent a skin).
 
 ### Stage 3 - Fry the pork belly
-1. Heat a large dry cast-iron pan over medium-high heat - no oil or butter needed; the pork renders its own fat.
+1. Heat a large dry cast-iron pan over medium-high heat, no oil or butter needed; the pork renders its own fat.
 2. Season the pork belly slices with salt and pepper on both sides.
 3. Lay the slices in the dry pan in a single layer (cook in batches if needed; don't crowd).
 4. Cook 4-5 minutes on the first side, undisturbed, till the fat has rendered and the bottom is deeply golden.

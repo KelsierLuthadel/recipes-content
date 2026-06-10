@@ -42,7 +42,7 @@ The crescent pastry that marks Novruz, the Persian new year celebrated across Az
 1. Wrap; chill 1 hour.
 
 ### Stage 2 - Filling
-1. Pulse the walnuts in a food processor to a medium-fine grind - finer than chopped, coarser than ground almonds.
+1. Pulse the walnuts in a food processor to a medium-fine grind, finer than chopped, coarser than ground almonds.
 1. Stir in the caster sugar and ground cardamom.
 1. Drizzle in the lightly beaten egg white; mix until just clumpable (not wet, not crumbly).
 
@@ -57,11 +57,11 @@ The crescent pastry that marks Novruz, the Persian new year celebrated across Az
 ### Stage 4 - Crimp
 1. With the tines of a fork or a flat pair of crimping tweezers, pinch a delicate pattern along the curved edge.
 1. Traditional patterns are dots, leaves or zigzag lines.
-1. Don't pinch through the dough - the goal is a decorative impression.
+1. Don't pinch through the dough, the goal is a decorative impression.
 
 ### Stage 5 - Bake
 1. Arrange on the trays, 3 cm apart.
-1. Bake 22-25 minutes until the dough is pale gold (not browned - shekerbura should look creamy, almost ivory).
+1. Bake 22-25 minutes until the dough is pale gold (not browned, shekerbura should look creamy, almost ivory).
 1. Cool 5 minutes on the tray.
 
 ### Stage 6 - Finish
@@ -69,11 +69,11 @@ The crescent pastry that marks Novruz, the Persian new year celebrated across Az
 1. Cool fully on the rack before storing.
 
 ## Notes
-- **Pale gold, not amber:** shekerbura colour is the visual marker - over-browned and they read as a generic cookie. The low temperature and short bake protects this.
-- **Egg white binds the filling:** without it the filling crumbles when the pastry is cut. Don't use a whole egg - the yolk muddies the flavour.
+- **Pale gold, not amber:** shekerbura colour is the visual marker, over-browned and they read as a generic cookie. The low temperature and short bake protects this.
+- **Egg white binds the filling:** without it the filling crumbles when the pastry is cut. Don't use a whole egg, the yolk muddies the flavour.
 - **Crimping is the signature:** even simple fork tines transform shekerbura from a generic crescent into something recognisable. Press evenly.
 
 ## Storage
 - Keeps 1 week in an airtight tin at room temperature; the dough firms slightly over the first day and stays good.
 - Freezes baked, 2 months. Re-dust with icing sugar after thawing.
-- Don't refrigerate - the dough goes from delicately short to dense.
+- Don't refrigerate, the dough goes from delicately short to dense.

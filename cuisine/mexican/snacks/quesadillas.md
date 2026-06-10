@@ -17,7 +17,7 @@ Mexico's simplest snack and the after-school staple in every Mexican home: a tor
 
 ### Per quesadilla
 - 1 flour tortilla (large, 20-25 cm) OR 2 corn tortillas overlapped
-- 80 g melting cheese (Oaxacan string cheese / queso Oaxaca, monterey jack, mild cheddar, or low-moisture mozzarella - grated)
+- 80 g melting cheese (Oaxacan string cheese / queso Oaxaca, monterey jack, mild cheddar, or low-moisture mozzarella, grated)
 - Optional filling (any combination, 2-3 tablespoons total):
   - Sautéed mushrooms with garlic and thyme
   - Cooked chorizo (sliced or crumbled)
@@ -50,11 +50,11 @@ Mexico's simplest snack and the after-school staple in every Mexican home: a tor
    - Mushrooms: sauté with butter and garlic 5 minutes until water has evaporated.
    - Chorizo: fry 4 minutes until crisp; drain on paper.
    - Peppers: char on a flame or under a broiler 5 minutes, peel, slice.
-1. Cool fillings to warm - hot filling makes the cheese sweat and the tortilla goes soggy.
+1. Cool fillings to warm, hot filling makes the cheese sweat and the tortilla goes soggy.
 
 ### Stage 2 - Heat the pan
 1. Place a wide non-stick frying pan, comal or flat griddle over medium heat.
-1. Once hot, brush very lightly with oil or rub with a small piece of butter - quesadillas need only a sheen of fat.
+1. Once hot, brush very lightly with oil or rub with a small piece of butter, quesadillas need only a sheen of fat.
 
 ### Stage 3 - Assemble (in the pan, or pre-folded)
 1. **In-pan method (recommended for flour tortillas)**: Place a tortilla flat in the pan. Scatter half the cheese over one half. Add filling. Scatter remaining cheese. Sprinkle herbs / chilli / jalapeño if using. Fold the empty half over the topped half.
@@ -62,7 +62,7 @@ Mexico's simplest snack and the after-school staple in every Mexican home: a tor
 
 ### Stage 4 - Cook
 1. Press the folded quesadilla gently with a spatula.
-1. Cook 90 seconds - the underside should be golden with darker spots.
+1. Cook 90 seconds, the underside should be golden with darker spots.
 1. Flip carefully (slide the spatula fully under and use your free hand to support the top).
 1. Cook 90 seconds on the second side.
 1. The cheese should be fully melted and just starting to ooze at the edges. If the cheese isn't fully melted, lower the heat slightly and continue 30 seconds more.
@@ -79,7 +79,7 @@ Mexico's simplest snack and the after-school staple in every Mexican home: a tor
 
 ## Notes
 - **Cheese matters most:** The cheese has to melt smoothly. Hard cheeses (pecorino, aged cheddar) don't stretch; pre-grated supermarket cheese (coated in anti-caking starch) doesn't melt cleanly. Good options: Oaxacan string cheese (best), low-moisture mozzarella, monterey jack, mild cheddar, or a mix.
-- **Corn vs flour tortilla:** Flour tortillas fold easily and give a softer chewier shell. Corn tortillas are traditional and give a more authentic Mexican flavour but break if folded sharply - better to use two corn tortillas overlapped, with filling between, like a sandwich.
+- **Corn vs flour tortilla:** Flour tortillas fold easily and give a softer chewier shell. Corn tortillas are traditional and give a more authentic Mexican flavour but break if folded sharply, better to use two corn tortillas overlapped, with filling between, like a sandwich.
 - **Don't overload:** A pile of filling makes the cheese unable to bind everything together; the quesadilla falls apart when sliced. A light handful of cheese + 2 tablespoons of filling is right.
 
 ## Storage

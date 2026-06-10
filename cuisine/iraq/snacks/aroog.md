@@ -52,7 +52,7 @@ Aroog are the Iraqi spiced meat-and-bulgur patties, flat discs of mince, bulgur 
 ### Stage 2 - Mix
 1. Combine the mince, grated onion (and its juice), garlic, parsley, coriander, spring onions, chilli, baharat, cumin, coriander, cinnamon, pepper, salt and egg in a large bowl.
 2. Add the cooled bulgur.
-3. Mix by hand, kneading lightly for 1-2 minutes - the mince should bind smoothly with the bulgur.
+3. Mix by hand, kneading lightly for 1-2 minutes, the mince should bind smoothly with the bulgur.
 4. If the mixture feels loose, add the tablespoon of flour.
 5. Test: pinch a small piece into a 1 cm patty between damp palms; it should hold its shape with no cracks. Adjust with a splash of water if dry, or more flour if wet.
 6. Rest 10 minutes.

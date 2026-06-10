@@ -2,7 +2,7 @@
 
 ![Arroz de Marisco](resources/arroz-de-marisco.jpg)
 
-*Portugal's brothy seafood rice: medium-grain rice cooked into a deliberately wet creamy stew with shrimp, mussels, clams, white fish, octopus and the traditional sofrito base of onion, garlic, tomato, white wine and fresh coriander. The Portuguese coastal classic - Atlantic abundance in a single pot, eaten with a spoon from deep plates.*
+*Portugal's brothy seafood rice: medium-grain rice cooked into a deliberately wet creamy stew with shrimp, mussels, clams, white fish, octopus and the traditional sofrito base of onion, garlic, tomato, white wine and fresh coriander. The Portuguese coastal classic, Atlantic abundance in a single pot, eaten with a spoon from deep plates.*
 
 **Serves:** 6
 
@@ -84,7 +84,7 @@ Arroz de marisco (literally "seafood rice") is one of Portugal's most iconic coa
 3. Add the mussels and clams; cover the pot; cook 5 minutes till they open.
 4. Add the shrimp; cook 3 more minutes till pink.
 5. Total rice cooking time: about 21 minutes.
-6. The dish should be brothy - not dry; add more hot stock if needed.
+6. The dish should be brothy, not dry; add more hot stock if needed.
 
 ### Stage 6 - Finish
 1. Take off the heat; discard unopened mussels/clams.

@@ -2,7 +2,7 @@
 
 ![Lutenica](resources/lutenica.jpg)
 
-*North Macedonia's other pepper relish: a thick blended relish of roasted red peppers, tomatoes, garlic and chilli - distinct from ajvar by including tomato. Spread on bread; spooned alongside grilled meat; the slightly sharper sibling of ajvar.*
+*North Macedonia's other pepper relish: a thick blended relish of roasted red peppers, tomatoes, garlic and chilli, distinct from ajvar by including tomato. Spread on bread; spooned alongside grilled meat; the slightly sharper sibling of ajvar.*
 
 **Serves:** Makes 600 g
 
@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour
 
 ## Overview
-Lutenica (the name suggests "spicy" from "luto" - hot in Bulgarian/Macedonian) is the slightly sharper, slightly more tomato-forward sister of ajvar. The construction: roasted red peppers (same as ajvar) combined with cooked tomatoes, garlic, sugar, vinegar, salt and a generous pinch of chilli; reduced till thick. Where ajvar is smoky and aubergine-creamy, lutenica is brighter, more acidic, more tomato-driven. Both are traditional Macedonian condiments; many households make both.
+Lutenica (the name suggests "spicy" from "luto", hot in Bulgarian/Macedonian) is the slightly sharper, slightly more tomato-forward sister of ajvar. The construction: roasted red peppers (same as ajvar) combined with cooked tomatoes, garlic, sugar, vinegar, salt and a generous pinch of chilli; reduced till thick. Where ajvar is smoky and aubergine-creamy, lutenica is brighter, more acidic, more tomato-driven. Both are traditional Macedonian condiments; many households make both.
 
 ## Ingredients
 - 1 kg red bell peppers (or capia)

@@ -40,11 +40,11 @@ Dulce de leche (literally "sweet of milk") is Argentina's most beloved sweet ing
 ### Stage 1 - Traditional method
 1. In a large heavy-bottomed pot, combine the milk, sugar, and salt.
 2. Place over medium heat; stir to dissolve the sugar.
-3. Once the sugar is dissolved (about 10 minutes), stir in the bicarbonate of soda - the mixture will foam dramatically (this is normal; the bicarb prevents crystallisation).
+3. Once the sugar is dissolved (about 10 minutes), stir in the bicarbonate of soda, the mixture will foam dramatically (this is normal; the bicarb prevents crystallisation).
 4. Bring to a gentle simmer (don't boil hard).
 5. Continue simmering for 2-3 hours, stirring frequently (every 5-10 minutes), reducing the heat as the mixture thickens.
 6. The mixture will gradually turn from white to pale gold to deep amber.
-7. Don't let it stick to the bottom - keep stirring.
+7. Don't let it stick to the bottom, keep stirring.
 8. The dulce is ready when it coats the back of a wooden spoon thickly and the colour is deep golden-amber.
 9. If you have a thermometer, the target is 105°C.
 10. Stir in the vanilla extract.
@@ -57,7 +57,7 @@ Dulce de leche (literally "sweet of milk") is Argentina's most beloved sweet ing
 
 ### Stage 3 - Easy method (tin in water)
 1. Place 1-2 unopened tins of sweetened condensed milk in a deep saucepan.
-2. Cover with cold water (the water must remain at least 5 cm above the tins at all times - non-negotiable for safety).
+2. Cover with cold water (the water must remain at least 5 cm above the tins at all times, non-negotiable for safety).
 3. Bring to a boil; reduce to a steady simmer.
 4. Simmer for 2 hours (for light caramel) or 3 hours (for deep amber dulce).
 5. CRITICAL: top up with boiling water as needed; never let the water level drop below the top of the tins (uncovered tins can explode dangerously).

@@ -11,13 +11,13 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixture of Swedish home cooking and bistro menus across the country. The defining difference from the Jewish latke (which has the same principle but a different recipe) is what's NOT in it: råraka is just grated potato + salt + nothing else. No flour, no egg, no onion. The potato's own starch is the only binder. Coarsely grated raw potato, salted lightly and immediately, the moisture squeezed out vigorously (the traditional Swedish step - wet potato won't crisp), then formed into thin loose patties and fried in plenty of butter till deeply golden and crispy on the outside while the inside stays soft, fluffy and just-cooked-through. Served with cold sour cream, lingonberry preserve, and a fistful of chopped fresh chives.
+Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixture of Swedish home cooking and bistro menus across the country. The defining difference from the Jewish latke (which has the same principle but a different recipe) is what's NOT in it: råraka is just grated potato + salt + nothing else. No flour, no egg, no onion. The potato's own starch is the only binder. Coarsely grated raw potato, salted lightly and immediately, the moisture squeezed out vigorously (the traditional Swedish step, wet potato won't crisp), then formed into thin loose patties and fried in plenty of butter till deeply golden and crispy on the outside while the inside stays soft, fluffy and just-cooked-through. Served with cold sour cream, lingonberry preserve, and a fistful of chopped fresh chives.
 
 ## Ingredients
 
 - 1 kg starchy potatoes (Maris Piper or Russet; peeled)
 - 1 ½ teaspoons fine sea salt
-- 80 g butter (for frying; in batches - about 20 g per batch)
+- 80 g butter (for frying; in batches, about 20 g per batch)
 - 1 tablespoon vegetable oil (added to the butter; raises smoke point)
 - Ground black pepper (optional)
 
@@ -37,7 +37,7 @@ Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixt
 ### Stage 2 - Salt and squeeze
 1. Place the grated potato in a clean kitchen towel.
 2. Sprinkle with the salt; toss briefly.
-3. Twist the towel into a bundle and squeeze HARD over the sink. Lots of liquid will come out - keep going till the bundle feels relatively dry.
+3. Twist the towel into a bundle and squeeze HARD over the sink. Lots of liquid will come out, keep going till the bundle feels relatively dry.
 4. This is the most important step. Wet potato won't crisp.
 5. Place the squeezed potato in a bowl.
 
@@ -78,7 +78,7 @@ Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixt
 - **Loose patties:** don't compress into hockey-pucks. Loose texture = crispy with airy inside.
 
 ## Variations
-**Råraka med löjrom (with bleak roe):** the Stockholm bistro deluxe version - top each pancake with a generous spoon of bleak roe and a wedge of red onion. Eat with chilled vodka or champagne.
+**Råraka med löjrom (with bleak roe):** the Stockholm bistro deluxe version, top each pancake with a generous spoon of bleak roe and a wedge of red onion. Eat with chilled vodka or champagne.
 **With smoked salmon and crème fraîche:** smoked salmon and a dollop of crème fraîche; a luxurious brunch version.
 **Vegetarian / vegan:** swap the butter for olive oil and the sour cream for a cashew cream.
 **With horseradish cream:** instead of sour cream; a sharper hit.

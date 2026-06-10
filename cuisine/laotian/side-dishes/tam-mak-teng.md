@@ -48,7 +48,7 @@ Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-poun
 
 ### Stage 3 - Add the cucumber
 1. Add the julienned cucumber.
-2. Use the pestle to bruise-and-stir (lift the pestle, twist, press lightly) - the cucumber should bruise slightly and absorb the dressing without mushing.
+2. Use the pestle to bruise-and-stir (lift the pestle, twist, press lightly): the cucumber should bruise slightly and absorb the dressing without mushing.
 3. Don't pound aggressively; cucumber is delicate.
 
 ### Stage 4 - Taste and adjust
@@ -70,8 +70,8 @@ Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-poun
 - **Padaek is the traditional Lao signature:** without it, you've made Thai cucumber salad.
 
 ## Variations
-**Tam mak teng with hard-boiled egg:** add 2 hard-boiled egg quarters - the more substantial variant.
-**Tam mak teng with sesame:** add 2 tablespoons toasted sesame seeds - modern variant.
+**Tam mak teng with hard-boiled egg:** add 2 hard-boiled egg quarters, the more substantial variant.
+**Tam mak teng with sesame:** add 2 tablespoons toasted sesame seeds, modern variant.
 **Vegetarian tam mak teng:** skip the padaek and dried shrimp; use soy sauce + extra lime.
 **Spicier:** double the chillies.
 

@@ -2,7 +2,7 @@
 
 ![Pimento Cheese](resources/pimento-cheese.jpg)
 
-*The South's cheese-and-pimento spread: grated sharp cheddar, mayonnaise, diced pimentos (sweet red peppers), grated onion, hot sauce and seasoning whipped into a thick spreadable cheese mixture. The Southern "caviar of the South" - on crackers, in sandwiches, on burgers, with crudités.*
+*The South's cheese-and-pimento spread: grated sharp cheddar, mayonnaise, diced pimentos (sweet red peppers), grated onion, hot sauce and seasoning whipped into a thick spreadable cheese mixture. The Southern "caviar of the South", on crackers, in sandwiches, on burgers, with crudités.*
 
 **Serves:** Makes 600 ml
 
@@ -45,7 +45,7 @@ Pimento cheese is the South's most beloved cheese spread and one of the most ico
 ### Stage 3 - Add mayo and mix
 1. Add mayonnaise.
 2. Stir vigorously by hand till everything is combined into a thick chunky spread.
-3. Don't use a blender or food processor - texture must stay chunky.
+3. Don't use a blender or food processor, texture must stay chunky.
 
 ### Stage 4 - Rest
 1. Cover and refrigerate at least 2 hours (overnight is better).

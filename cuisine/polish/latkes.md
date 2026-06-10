@@ -39,7 +39,7 @@ Latkes are the crisp Ashkenazi potato pancakes of Hanukkah, fried in shallow oil
 1. Beat in the eggs, matzo meal, salt and pepper.
 
 ### Stage 3 - Fry
-1. Heat 5 mm of oil in a wide heavy frying pan over medium-high heat - a piece of mixture should sizzle vigorously when dropped in.
+1. Heat 5 mm of oil in a wide heavy frying pan over medium-high heat, a piece of mixture should sizzle vigorously when dropped in.
 1. Drop heaped tablespoons of mixture into the pan; flatten gently to 1 cm thick discs about 7 cm across.
 1. Fry 3-4 minutes per side until each is deep golden and crisp at the edges; the inside should be cooked through.
 1. Lift onto a wire rack lined with kitchen paper; salt immediately.

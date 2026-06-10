@@ -45,7 +45,7 @@ Halwa tahini is the Iraqi sesame fudge, a flaky-melting block of crystallised su
 ### Stage 3 - Combine
 1. Pour the hot syrup in a slow steady stream onto the tahini, whisking constantly with a sturdy wooden spoon or spatula.
 2. Add the rose water.
-3. Mix vigorously 30-60 seconds; the mixture will thicken and start to look slightly grainy as the sugar begins to crystallise - this is correct.
+3. Mix vigorously 30-60 seconds; the mixture will thicken and start to look slightly grainy as the sugar begins to crystallise, this is correct.
 4. Don't overmix. The moment the mix turns from glossy to matte and starts pulling away from the sides of the bowl, stop.
 
 ### Stage 4 - Set

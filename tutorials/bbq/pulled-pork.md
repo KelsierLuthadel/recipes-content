@@ -11,9 +11,9 @@ The dish itself is famous in Carolina (both Carolinas, with different sauce trad
 
 ## What You Need
 
-- Pork shoulder (bone-in is best). Often labelled "Boston butt" - despite the name, this is the shoulder, not the rear. 3-5 kg piece. Bone-in cooks more evenly and adds gelatin.
-- BBQ rub - Kansas City sweet rub or Carolina light rub (see [Rubs, Mops and Sauces](rubs-mops-sauces.md))
-- Wood for smoke - hickory primary, applewood secondary
+- Pork shoulder (bone-in is best). Often labelled "Boston butt", despite the name, this is the shoulder, not the rear. 3-5 kg piece. Bone-in cooks more evenly and adds gelatin.
+- BBQ rub, Kansas City sweet rub or Carolina light rub (see [Rubs, Mops and Sauces](rubs-mops-sauces.md))
+- Wood for smoke, hickory primary, applewood secondary
 - Smoker
 - BBQ sauce of choice (regional preference)
 - Soft burger buns
@@ -55,7 +55,7 @@ The internal temperature climbs through 80 C up to 92-95 C. The connective tissu
 Begin probing at 88 C internal:
 - Insert a probe into the meat at multiple points; the probe should slide in like into butter
 - Specifically, probe near the bone: the meat should slide off the bone easily
-- The bone itself should be loose - if you grasp it, it should pull cleanly out of the meat
+- The bone itself should be loose, if you grasp it, it should pull cleanly out of the meat
 
 When all these tests pass, the pork is done. Internal temperature: usually 92-95 C, occasionally 96 C.
 
@@ -66,7 +66,7 @@ Wrap (or re-wrap) in foil. Place in an insulated cooler or low oven (60 C). Rest
 ## Pulling
 
 1. Unwrap on a large board or tray (the meat releases liquid; have something to catch it).
-2. Pull the bone out cleanly. If it does not come out cleanly, the meat was undercooked - return to the smoker for 30 more minutes.
+2. Pull the bone out cleanly. If it does not come out cleanly, the meat was undercooked, return to the smoker for 30 more minutes.
 3. With two forks (or wearing food-safe gloves), shred the meat against the grain. Pull apart into stringy chunks.
 4. The bark mixed through the shred is the textural highlight; do not separate the bark out, mix it in.
 5. Pour over any reserved cooking liquid from the foil wrap; this adds moisture and seasoning. Stir to coat.

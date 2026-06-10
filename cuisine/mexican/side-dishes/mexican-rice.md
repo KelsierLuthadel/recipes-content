@@ -34,7 +34,7 @@ The taquería side and the rice that lands beside almost every Mexican plate: lo
 - 1 ½ teaspoons salt (to taste)
 
 ### To finish
-- 100 g frozen peas (defrosted - or fresh)
+- 100 g frozen peas (defrosted, or fresh)
 - 50 g sweetcorn kernels (optional)
 - 3 tablespoons fresh coriander (chopped)
 - 1 lime (cut into wedges)
@@ -48,13 +48,13 @@ The taquería side and the rice that lands beside almost every Mexican plate: lo
 
 ### Stage 2 - Rinse the rice (optional)
 1. Place the rice in a sieve; rinse under cold water until the water runs clear.
-1. This step is optional and slightly controversial - rinsed rice gives cleaner grains; unrinsed rice gives a slightly stickier rice but more flavour. Both work.
-1. Drain well - wet rice steams instead of toasts.
+1. This step is optional and slightly controversial, rinsed rice gives cleaner grains; unrinsed rice gives a slightly stickier rice but more flavour. Both work.
+1. Drain well, wet rice steams instead of toasts.
 
 ### Stage 3 - Toast the rice
 1. Heat the sunflower oil in a wide heavy lidded pot over medium heat.
 1. Add the rice; stir to coat.
-1. Toast 4-5 minutes, stirring almost constantly, until the rice turns pale gold and smells nutty (don't let it brown deeply - that's burnt).
+1. Toast 4-5 minutes, stirring almost constantly, until the rice turns pale gold and smells nutty (don't let it brown deeply, that's burnt).
 
 ### Stage 4 - Aromatics
 1. Add the diced onion and garlic; cook 2 minutes until just softened.
@@ -69,14 +69,14 @@ The taquería side and the rice that lands beside almost every Mexican plate: lo
 ### Stage 7 - Cook
 1. As soon as it boils, reduce heat to the lowest setting.
 1. Cover with a tight lid.
-1. Cook 18-20 minutes - don't peek, don't stir.
+1. Cook 18-20 minutes, don't peek, don't stir.
 
 ### Stage 8 - Rest
 1. Off heat; leave covered another 10 minutes.
 
 ### Stage 9 - Fluff and finish
 1. Discard the bay leaf.
-1. Fluff gently with a fork (don't stir aggressively - breaks the grains).
+1. Fluff gently with a fork (don't stir aggressively, breaks the grains).
 1. Fold in defrosted peas and sweetcorn (if using).
 1. Cover 2 minutes for the peas to warm through.
 
@@ -86,7 +86,7 @@ The taquería side and the rice that lands beside almost every Mexican plate: lo
 1. Lime wedges around.
 
 ## Notes
-- **Toast the rice - don't skip:** The 4-5 minute toast is the entire technique. Untoasted rice gives a wet, sticky, tomato-flavoured rice. Properly toasted rice gives separate, fluffy, deeply-flavoured grains.
+- **Toast the rice, don't skip:** The 4-5 minute toast is the entire technique. Untoasted rice gives a wet, sticky, tomato-flavoured rice. Properly toasted rice gives separate, fluffy, deeply-flavoured grains.
 - **Long-grain, not basmati:** Long-grain American or Latino rice is what arroz rojo needs. Basmati's longer grain and aromatic character is wrong for Mexican cooking. Use Mahatma, Carolina Gold, or similar.
 - **Strain the tomato puree:** Skipping the strain step leaves bits of tomato skin and fibre that disrupt the texture. The strained puree gives a clean coloured liquid that the rice absorbs evenly.
 

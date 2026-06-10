@@ -16,7 +16,7 @@ A Yangon street-stall snack and the lunch office workers queue for at midday: br
 ## Ingredients
 
 ### Yellow pea soup
-- 250 g yellow split peas (chana dal or yellow split peas - soaked 4 hours, drained)
+- 250 g yellow split peas (chana dal or yellow split peas, soaked 4 hours, drained)
 - 1.4 litres water
 - 1 ½ teaspoons ground turmeric
 - 1 ½ teaspoons salt
@@ -80,9 +80,9 @@ A Yangon street-stall snack and the lunch office workers queue for at midday: br
 1. Toss everything at the table with a fork; squeeze in lime; eat hot.
 
 ## Notes
-- **Soup texture:** The pea soup should pour but be thick enough to coat a spoon - like a loose dal.
-- **Don't pre-mix:** Bring the components to the table separately so the textures stay distinct - crispy bits go soggy if mixed in advance.
-- **Salad or soup?** Neither - it's a Burmese category of its own. Some bowls are wet and soupy; others are drier and more salad-like. Adjust the soup to noodle ratio to taste.
+- **Soup texture:** The pea soup should pour but be thick enough to coat a spoon, like a loose dal.
+- **Don't pre-mix:** Bring the components to the table separately so the textures stay distinct, crispy bits go soggy if mixed in advance.
+- **Salad or soup?** Neither, it's a Burmese category of its own. Some bowls are wet and soupy; others are drier and more salad-like. Adjust the soup to noodle ratio to taste.
 
 ## Storage
 - Pea soup keeps 4 days; reheats well.

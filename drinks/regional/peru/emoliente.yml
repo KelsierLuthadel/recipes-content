@@ -24,8 +24,8 @@ ingredients:
     raw: 30 g flax seeds
   - qty: 4
     unit: tbsp
-    name: horsetail leaves - sold at health-food shops or latin american shops
-    raw: 4 tablespoons dried horsetail leaves - sold at health-food shops or Latin American shops
+    name: "horsetail leaves : sold at health-food shops or latin american shops"
+    raw: "4 tablespoons dried horsetail leaves : sold at health-food shops or Latin American shops"
   - qty: 2
     unit: tbsp
     name: alfalfa leaves
@@ -59,12 +59,12 @@ ingredients:
     raw: 4-6 tablespoons honey
   - qty: 1
     unit: pinch
-    name: muna - rare outside peru
-    raw: A pinch of muña - rare outside Peru
+    name: "muna : rare outside peru"
+    raw: "A pinch of muña : rare outside Peru"
   - qty: 1
     unit: small pinch
-    name: camu camu powder - the amazon vitamin-c berry
-    raw: A small pinch of camu camu powder - the Amazon vitamin-C berry
+    name: camu camu powder
+    raw: A small pinch of camu camu powder, the Amazon vitamin-C berry
   - name: hot in small ceramic mugs or paper cups
     raw: Hot, in small ceramic mugs or paper cups
   - name: honey for adjusting sweetness

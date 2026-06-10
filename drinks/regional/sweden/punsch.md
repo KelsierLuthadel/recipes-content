@@ -2,7 +2,7 @@
 
 ![Swedish Punsch](resources/punsch.jpg)
 
-*Sweden's almost-forgotten 19th-century cocktail: Indonesian arrack rum cut with sugar, citrus and spice, then aged briefly to mellow - a sweet, bright, complex spirit that ruled Swedish drinking culture in the 1800s, was nearly extinguished by Prohibition-era restrictions, and survives today as the post-pea-soup-and-pancakes Thursday-night tradition. Sweden's lost cocktail.*
+*Sweden's almost-forgotten 19th-century cocktail: Indonesian arrack rum cut with sugar, citrus and spice, then aged briefly to mellow, a sweet, bright, complex spirit that ruled Swedish drinking culture in the 1800s, was nearly extinguished by Prohibition-era restrictions, and survives today as the post-pea-soup-and-pancakes Thursday-night tradition. Sweden's lost cocktail.*
 
 **Serves:** 6 (small glasses, 60ml each)
 
@@ -27,7 +27,7 @@ Swedish Punsch is one of the great forgotten spirits of European drinking histor
 - 4 whole cardamom pods (lightly crushed; optional)
 
 ### To serve
-- Small chilled glasses (60ml - about half the size of a wine glass)
+- Small chilled glasses (60ml, about half the size of a wine glass)
 - Or small punsch glasses (vintage Swedish style)
 - Strong black coffee in a cup alongside
 - Optional: a small piece of pepparkakor (Swedish gingerbread biscuit)
@@ -68,14 +68,14 @@ Swedish Punsch is one of the great forgotten spirits of European drinking histor
 - **Sweet:** Swedish punsch is supposed to be sweet. Don't reduce the sugar.
 - **Serve cold:** the traditional Swedish presentation. Even slightly room-temp punsch loses its appeal.
 - **Age 24-48 hours:** improves significantly.
-- **Thursday-night ritual:** the traditional Swedish slot - after ärtsoppa-och-pannkakor.
+- **Thursday-night ritual:** the traditional Swedish slot, after ärtsoppa-och-pannkakor.
 
 ## Variations
 **Cold punsch (the traditional):** as above, served chilled.
 **Warm punsch (heated):** in winter, gently warm a punsch + a splash of hot water for a hot toddy version. Don't boil.
-**Punsch-rolle (the bakery treat):** a Swedish punsch-flavoured pastry roll filled with green marzipan, dipped in chocolate ends - a sweet adaptation.
+**Punsch-rolle (the bakery treat):** a Swedish punsch-flavoured pastry roll filled with green marzipan, dipped in chocolate ends, a sweet adaptation.
 **With ice:** modern Stockholm bars serve punsch on the rocks with a citrus twist.
-**As a base for cocktails:** Swedish bartenders increasingly use punsch in cocktails - Punsch Sour, Punsch Negroni - for the depth and sweetness.
+**As a base for cocktails:** Swedish bartenders increasingly use punsch in cocktails, Punsch Sour, Punsch Negroni, for the depth and sweetness.
 
 ## Serving
 On Thursday nights after ärtsoppa-och-pannkakor (the traditional Swedish weekly ritual; pea soup + pancakes + punsch) · at university nation dinners in Uppsala or Lund (Swedish university culture preserved punsch through the 20th century) · at a Swedish dinner-party finale alongside coffee and small biscuits · at a Nordic cocktail bar as a curiosity.

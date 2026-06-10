@@ -16,7 +16,7 @@ Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbo
 ## Ingredients
 
 ### Pork
-- 600 g pork loin (or boneless pork shoulder, sliced 3 mm thin across the grain - about 12 slices)
+- 600 g pork loin (or boneless pork shoulder, sliced 3 mm thin across the grain, about 12 slices)
 
 ### Marinade
 - 200 ml dry white wine (vinho verde or any dry white)
@@ -41,7 +41,7 @@ Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbo
 ### Stage 1 - Slice
 1. Place pork in the freezer 20 minutes (firms it for easier slicing).
 1. Slice 3 mm thick across the grain. Each slice should be about a palm size.
-1. Bash slices lightly between baking paper with a meat mallet (or rolling pin) to thin them further to 2 mm - this is important for the texture.
+1. Bash slices lightly between baking paper with a meat mallet (or rolling pin) to thin them further to 2 mm, this is important for the texture.
 
 ### Stage 2 - Marinate
 1. In a wide bowl, combine all marinade ingredients.
@@ -51,7 +51,7 @@ Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbo
 ### Stage 3 - Cook
 1. Heat olive oil and butter in a wide pan over high heat until shimmering.
 1. Lift pork slices out of the marinade (reserve the marinade); add to the hot pan in a single layer (work in 2 batches).
-1. Fry 1 minute per side, no longer - the slices should be coloured and cooked through but not dried out.
+1. Fry 1 minute per side, no longer, the slices should be coloured and cooked through but not dried out.
 1. Lift onto a plate; cover.
 
 ### Stage 4 - Pan sauce
@@ -73,8 +73,8 @@ Bifanas are Portugal's national lunch sandwich, sold at every counter from Lisbo
 1. A glass of cold beer is mandatory.
 
 ## Notes
-- **Thin slices, fast cook:** The pork is too thin for slow cooking. High heat, fast sear, 1 minute per side - any longer and you have shoe leather.
-- **Soak the bread:** Half the pleasure of a bifana is the marinade-soaked bread underneath. Don't be shy with the pan-juices - spoon them generously.
+- **Thin slices, fast cook:** The pork is too thin for slow cooking. High heat, fast sear, 1 minute per side, any longer and you have shoe leather.
+- **Soak the bread:** Half the pleasure of a bifana is the marinade-soaked bread underneath. Don't be shy with the pan-juices, spoon them generously.
 - **Pork shoulder or loin:** Loin is leaner and slightly drier. Shoulder is more flavourful but tougher. Both work; loin is more traditional in Lisbon, shoulder in the north.
 
 ## Storage

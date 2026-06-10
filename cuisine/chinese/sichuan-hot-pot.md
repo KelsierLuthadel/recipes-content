@@ -41,7 +41,7 @@ Sichuan hot pot is less a dish than a method of eating: a pot of fiercely spiced
 - ½ teaspoon salt
 
 ### Cook-yourself ingredients (pick a selection)
-- 400 g thinly sliced beef (sirloin, brisket - frozen 1 hour then sliced paper-thin)
+- 400 g thinly sliced beef (sirloin, brisket, frozen 1 hour then sliced paper-thin)
 - 300 g thinly sliced lamb
 - 200 g raw shell-off prawns
 - 200 g firm tofu (cubed)

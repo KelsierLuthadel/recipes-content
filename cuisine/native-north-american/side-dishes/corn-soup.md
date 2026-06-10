@@ -15,7 +15,7 @@ The Haudenosaunee (Iroquois) ceremonial soup: a slow-simmered stew of nixtamalis
 
 ## Ingredients
 
-- 250 g dried white hominy corn (nixtamalised, not just dried corn - sold as "posole corn" or "hominy", alternatively 2 tins drained hominy for a faster version)
+- 250 g dried white hominy corn (nixtamalised, not just dried corn, sold as "posole corn" or "hominy", alternatively 2 tins drained hominy for a faster version)
 - 1 kg pork hocks (smoked or fresh, OR 800 g venison neck, OR 2 smoked turkey legs)
 - 3 litres water
 - 2 bay leaves
@@ -31,7 +31,7 @@ The Haudenosaunee (Iroquois) ceremonial soup: a slow-simmered stew of nixtamalis
 1. Place the dried hominy corn in a deep bowl with 2 litres of cold water.
 1. Soak overnight (12+ hours).
 1. Drain.
-1. (Skip this stage if using tinned hominy - drain and add later.)
+1. (Skip this stage if using tinned hominy, drain and add later.)
 
 ### Stage 2 - Pork broth
 1. Place the pork hocks (or venison/turkey) in a large stockpot.
@@ -43,7 +43,7 @@ The Haudenosaunee (Iroquois) ceremonial soup: a slow-simmered stew of nixtamalis
 
 ### Stage 3 - Add the corn
 1. Add the drained soaked hominy.
-1. Continue simmering 45-60 minutes until the corn is tender - the kernels should be firm but yielding, not crunchy and not mush.
+1. Continue simmering 45-60 minutes until the corn is tender, the kernels should be firm but yielding, not crunchy and not mush.
 
 ### Stage 4 - Beans and finish
 1. Lift the pork hocks from the pot; cool slightly.
@@ -53,19 +53,19 @@ The Haudenosaunee (Iroquois) ceremonial soup: a slow-simmered stew of nixtamalis
 
 ### Stage 5 - Season
 1. Add pepper.
-1. Taste; adjust salt - the soup should be well-seasoned but not aggressively salty.
+1. Taste; adjust salt, the soup should be well-seasoned but not aggressively salty.
 
 ### Stage 6 - Rest
 1. Off heat; let stand 10 minutes.
 
 ### Stage 7 - Serve
 1. Ladle into deep bowls.
-1. Eat plain - no garnish is traditional. Frybread on the side optional.
+1. Eat plain, no garnish is traditional. Frybread on the side optional.
 
 ## Notes
 - **Nixtamalised corn is not sweetcorn:** The corn for this soup is dried field corn that has been treated with wood ash or lime (nixtamalisation). This is what gives it the distinctive flavour, the chewy texture, and unlocks the niacin. Tinned hominy is the same thing, cooked. Sweetcorn (yellow, sweet kernels) is a totally different ingredient and won't work.
 - **Salt at the end:** Salt during the corn cook can slow the softening. Start with a modest salt level in the broth; finish to taste after the corn is tender.
-- **Pork hocks vs venison vs turkey:** Pork hocks are the everyday modern choice and give a smoky-savoury broth. Venison neck (the original) makes a leaner, gamier soup. Smoked turkey legs are the easy compromise - pork-like richness without pork, used when serving people who don't eat pork.
+- **Pork hocks vs venison vs turkey:** Pork hocks are the everyday modern choice and give a smoky-savoury broth. Venison neck (the original) makes a leaner, gamier soup. Smoked turkey legs are the easy compromise, pork-like richness without pork, used when serving people who don't eat pork.
 
 ## Storage
 - Refrigerate 5 days; reheats brilliantly and tastes better on day 2.

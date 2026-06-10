@@ -15,7 +15,7 @@ Mushy peas are the British chippy side and a Yorkshire dinner-table fixture, the
 
 ## Ingredients
 
-- 250 g dried marrowfat peas (sold dried - Batchelors or Whitworths brands in the UK; or split green peas if you can't find marrowfat)
+- 250 g dried marrowfat peas (sold dried, Batchelors or Whitworths brands in the UK; or split green peas if you can't find marrowfat)
 - 1 teaspoon bicarbonate of soda
 - Cold water (for soaking and cooking)
 
@@ -27,7 +27,7 @@ Mushy peas are the British chippy side and a Yorkshire dinner-table fixture, the
 - 1 tablespoon mint sauce OR 2 tablespoons fresh mint (chopped, optional)
 
 ### To serve
-- Malt vinegar (on the table - optional)
+- Malt vinegar (on the table, optional)
 - Fish and chips, or pie and chips, or anything else
 
 ## Method
@@ -48,10 +48,10 @@ Mushy peas are the British chippy side and a Yorkshire dinner-table fixture, the
 1. Bring to a boil; skim any foam.
 1. Reduce heat to a low simmer.
 1. Cover loosely; cook 35-45 minutes, stirring occasionally, until the peas break down into a thick green mush. Add boiling water during cooking if the peas are getting dry before they're tender.
-1. The peas are done when they collapse into a porridge consistency - no whole peas remain, the texture is uniformly mushy.
+1. The peas are done when they collapse into a porridge consistency, no whole peas remain, the texture is uniformly mushy.
 
 ### Stage 4 - Mash
-1. With a wooden spoon, beat the peas vigorously against the side of the pan to break up any remaining whole peas - or use a potato masher for a few stokes.
+1. With a wooden spoon, beat the peas vigorously against the side of the pan to break up any remaining whole peas, or use a potato masher for a few stokes.
 1. The texture should be soft, lumpy-smooth, like a thick porridge.
 
 ### Stage 5 - Season
@@ -66,7 +66,7 @@ Mushy peas are the British chippy side and a Yorkshire dinner-table fixture, the
 
 ## Notes
 - **Marrowfat peas, not garden peas:** Marrowfat are a specific variety of dried mature pea, larger and starchier than ordinary dried green peas. They give the right grey-green colour and starchy mush. Frozen garden peas + boiling them down gives a different, brighter dish (still good, but a "pea purée" not "mushy peas").
-- **Bicarb is essential:** Without bicarbonate of soda in the soak, the skins stay tough and the peas never fully break down. The traditional method depends on it. Don't rinse so thoroughly that you remove all the soda - just enough to remove the soapy taste.
+- **Bicarb is essential:** Without bicarbonate of soda in the soak, the skins stay tough and the peas never fully break down. The traditional method depends on it. Don't rinse so thoroughly that you remove all the soda, just enough to remove the soapy taste.
 - **Mint is optional but classic:** Northern English chippies often don't add mint; southern / pubs / Sunday-roast versions often do. Both are correct. If using fresh mint, chop it fine and add at the end (heat dulls fresh mint).
 
 ## Storage

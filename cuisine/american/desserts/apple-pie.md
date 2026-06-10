@@ -42,7 +42,7 @@ An American apple pie is the autumn dessert every kitchen in the country has its
 
 ### Stage 1 - Pastry
 1. Whisk the flour, sugar and salt in a wide bowl.
-1. Rub in the cold butter until roughly the size of small peas (some larger flakes are good - they make the crust flaky).
+1. Rub in the cold butter until roughly the size of small peas (some larger flakes are good, they make the crust flaky).
 1. Add the ice water a tablespoon at a time, mixing with a knife, until the dough just comes together.
 1. Divide into 2 unequal discs (slightly larger for the bottom).
 1. Wrap in cling film; refrigerate 1 hour.
@@ -50,7 +50,7 @@ An American apple pie is the autumn dessert every kitchen in the country has its
 ### Stage 2 - Filling
 1. Combine the apples, both sugars, cornflour, spices, salt and lemon juice in a wide pan.
 1. Cook over medium heat 8-10 minutes, stirring, until the apples release liquid and it thickens slightly.
-1. Cool fully - warm filling melts the bottom crust.
+1. Cool fully, warm filling melts the bottom crust.
 
 ### Stage 3 - Assemble
 1. Heat the oven to 200°C (180°C fan).
@@ -70,7 +70,7 @@ An American apple pie is the autumn dessert every kitchen in the country has its
 1. If the edge browns too fast, cover with foil after 30 minutes.
 
 ### Stage 6 - Cool
-1. Cool at least 3 hours before slicing - this is non-negotiable. Hot pie is filling soup; the cornflour needs time to set.
+1. Cool at least 3 hours before slicing, this is non-negotiable. Hot pie is filling soup; the cornflour needs time to set.
 
 ### Stage 7 - Serve
 1. Cut wedges; serve warm with vanilla ice cream.
@@ -81,5 +81,5 @@ An American apple pie is the autumn dessert every kitchen in the country has its
 - **Cool before slicing:** A pie cut hot oozes everywhere. 3-4 hours minimum at room temperature lets the filling set.
 
 ## Storage
-- Keeps 3 days at room temperature, covered loosely. Day 2 is arguably the best - the filling has fully set.
+- Keeps 3 days at room temperature, covered loosely. Day 2 is arguably the best, the filling has fully set.
 - Freezes 3 months.

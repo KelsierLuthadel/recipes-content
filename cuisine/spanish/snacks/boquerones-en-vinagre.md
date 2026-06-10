@@ -32,7 +32,7 @@ Spain's eternal tapa: snowy white fillets of fresh anchovy cured in vinegar and 
 1. Thaw overnight in the fridge.
 
 ### Stage 2 - Clean
-1. With wet hands, pinch each anchovy's head and pull gently - the head, guts and central spine should come away in one motion.
+1. With wet hands, pinch each anchovy's head and pull gently, the head, guts and central spine should come away in one motion.
 1. The fish should now be a butterflied piece: two fillets joined at the tail.
 1. Pat off any inner blackness or excess membrane.
 1. Drop into a bowl of icy water; soak 5 minutes (cleans residual blood); drain on paper towels.
@@ -59,9 +59,9 @@ Spain's eternal tapa: snowy white fillets of fresh anchovy cured in vinegar and 
 - **FREEZE FIRST:** fresh anchovies can carry Anisakis. Freezing kills it. Non-negotiable if using truly fresh fish.
 - **Time the cure:** under-cured fillets are translucent and fishy; over-cured fillets are tough and harsh. 24 hours at refrigerator temperature is the standard.
 - **Olive oil quality matters:** these fillets are 50% oil by flavour. Buy the best you can afford.
-- **Don't substitute brine-cured anchovies:** those are a completely different product - dark, salty, intense. Boquerones en vinagre are mild, white, clean.
+- **Don't substitute brine-cured anchovies:** those are a completely different product, dark, salty, intense. Boquerones en vinagre are mild, white, clean.
 
 ## Storage
 - Keeps 1 week refrigerated in the olive oil.
-- The oil itself becomes deeply flavoured - use it on bread, in salads, on pasta.
-- Don't freeze cured fillets - the texture goes spongy.
+- The oil itself becomes deeply flavoured, use it on bread, in salads, on pasta.
+- Don't freeze cured fillets, the texture goes spongy.

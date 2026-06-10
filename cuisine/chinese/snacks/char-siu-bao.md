@@ -26,7 +26,7 @@ Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split op
 - A pinch of salt
 
 ### Filling
-- 250 g char siu (Chinese BBQ pork - sold ready-cooked at Chinese supermarkets, or use leftover roast pork)
+- 250 g char siu (Chinese BBQ pork, sold ready-cooked at Chinese supermarkets, or use leftover roast pork)
 - 2 tablespoons vegetable oil
 - 1 shallot (small, finely diced)
 - 2 tablespoons oyster sauce
@@ -58,7 +58,7 @@ Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split op
 1. Add oyster sauce, hoisin, both soy sauces, sugar, sesame oil and chicken stock.
 1. Bring to a simmer; cook 2 minutes.
 1. Stir in the cornflour slurry; cook 1 more minute until the sauce is thick and clinging.
-1. Tip onto a wide plate; cool fully - warm filling tears the dough.
+1. Tip onto a wide plate; cool fully, warm filling tears the dough.
 
 ### Stage 3 - Shape
 1. Knock back the dough; divide into 12 equal balls (about 50 g each).
@@ -66,7 +66,7 @@ Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split op
 1. Working one at a time on a lightly floured surface, roll each ball into a disc about 10 cm across, with the centre slightly thicker than the edges (this gives a sturdy base for the filling and a thin pleated top).
 1. Hold the disc in one cupped palm; spoon a tablespoon of cool filling into the centre.
 1. With the other hand, pleat the edge of the dough up and around the filling in 12-16 small folds, gathering at the top.
-1. Pinch the top closed firmly; twist to seal - but leave a small visible seam at the very top so the bun can split there during steaming.
+1. Pinch the top closed firmly; twist to seal, but leave a small visible seam at the very top so the bun can split there during steaming.
 1. Set each bun seam-up on a square of baking paper.
 
 ### Stage 4 - Final proof
@@ -77,8 +77,8 @@ Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split op
 ### Stage 5 - Steam
 1. Bring water to a vigorous boil in a wide pot.
 1. Place the bamboo steamer on top.
-1. Steam 12-15 minutes over high heat - the buns puff and the seam at the top splits open to reveal a slash of filling (this is the visual signature of char siu bao).
-1. Don't lift the lid mid-steam - the drop in temperature can collapse the buns.
+1. Steam 12-15 minutes over high heat, the buns puff and the seam at the top splits open to reveal a slash of filling (this is the visual signature of char siu bao).
+1. Don't lift the lid mid-steam, the drop in temperature can collapse the buns.
 
 ### Stage 6 - Serve
 1. Lift the lid carefully.
@@ -93,5 +93,5 @@ Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split op
 ## Storage
 - Best fresh, hot from the steamer.
 - Refrigerate cooked buns 2 days; re-steam 5 minutes.
-- Freeze cooked buns 2 months on a tray, then bag - steam from frozen 8 minutes.
+- Freeze cooked buns 2 months on a tray, then bag, steam from frozen 8 minutes.
 - Freeze raw filled buns just before final proof; defrost, proof, steam.

@@ -26,7 +26,7 @@ Japan's pancake sandwich: two golden honey-perfumed discs pressed around a gener
 - A pinch of salt
 
 ### Filling
-- 350 g sweet red bean paste (anko - sold ready-made at Japanese / Asian shops in tubs or pouches; the smooth "koshian" or the chunky "tsubuan" both work)
+- 350 g sweet red bean paste (anko, sold ready-made at Japanese / Asian shops in tubs or pouches; the smooth "koshian" or the chunky "tsubuan" both work)
 
 ### For cooking
 - 1 teaspoon vegetable oil (for wiping the pan)
@@ -34,25 +34,25 @@ Japan's pancake sandwich: two golden honey-perfumed discs pressed around a gener
 ## Method
 
 ### Stage 1 - Batter
-1. In a wide bowl, whisk eggs and sugar together until pale, thick and ribbon-y - about 2 minutes (electric beaters help).
+1. In a wide bowl, whisk eggs and sugar together until pale, thick and ribbon-y, about 2 minutes (electric beaters help).
 1. Whisk in the honey and mirin.
 1. Whisk in the milk.
-1. Sift in the flour, baking powder and salt; fold gently with a spatula until smooth - don't overwork.
+1. Sift in the flour, baking powder and salt; fold gently with a spatula until smooth, don't overwork.
 1. The batter should be smooth and thick (slightly thicker than American pancake batter).
 1. Cover; rest 1 hour at room temperature (or up to 4 hours).
 1. After resting, if the batter is too thick (won't spread when ladled), thin with a tablespoon or two of milk.
 
 ### Stage 2 - Heat the pan
 1. Place a wide non-stick frying pan over medium-low heat.
-1. Once warm, wipe the surface with kitchen paper that's been dampened with vegetable oil - you want a thin oily sheen, not a pool. (Don't add fresh oil for each pancake; the residual film is right.)
+1. Once warm, wipe the surface with kitchen paper that's been dampened with vegetable oil, you want a thin oily sheen, not a pool. (Don't add fresh oil for each pancake; the residual film is right.)
 1. Let the pan come to temperature: a drop of batter should set within 5 seconds and start to bubble within 30.
 
 ### Stage 3 - Cook the pancakes
-1. Ladle 3 tablespoons of batter (about 80 g) onto the pan from a height of 5 cm - this helps the pancake spread into a clean disc shape without spreading too far.
+1. Ladle 3 tablespoons of batter (about 80 g) onto the pan from a height of 5 cm, this helps the pancake spread into a clean disc shape without spreading too far.
 1. Don't move the pan or the spoon. Let the pancake spread naturally.
 1. After 60-90 seconds the surface should be set, bubbles forming on top, the underside deep golden.
 1. Flip carefully (the gold underside should be uniform, no flat-spot near the centre).
-1. Cook the second side 30 seconds - slightly paler than the first side. This is normal; serve the gold-side out.
+1. Cook the second side 30 seconds, slightly paler than the first side. This is normal; serve the gold-side out.
 1. Lift onto a tray; cover with a clean cloth to keep moist.
 1. Repeat for 12 pancakes (6 sandwiches × 2).
 
@@ -64,7 +64,7 @@ Japan's pancake sandwich: two golden honey-perfumed discs pressed around a gener
 1. Use your hand to lightly cup and round the edges into a clean disc-sandwich shape.
 
 ### Stage 5 - Rest
-1. Let stand at room temperature 30 minutes - the pancakes absorb a tiny bit of moisture from the anko and become slightly softer / more uniform.
+1. Let stand at room temperature 30 minutes, the pancakes absorb a tiny bit of moisture from the anko and become slightly softer / more uniform.
 
 ### Stage 6 - Serve
 1. Eat by hand, with green tea or coffee.
@@ -72,7 +72,7 @@ Japan's pancake sandwich: two golden honey-perfumed discs pressed around a gener
 
 ## Notes
 - **Honey for the colour:** The classic dorayaki recipe uses honey instead of (or alongside) regular sugar. The honey gives the deep amber colour and slightly chewy texture that distinguishes dorayaki from a generic pancake. Don't substitute golden syrup or maple syrup; honey is correct.
-- **Rest the batter:** A fresh batter gives flat, pale pancakes. The 1-hour rest develops the gluten slightly and lets the baking powder activate properly - the rested batter rises into the characteristic dome shape on the pan.
+- **Rest the batter:** A fresh batter gives flat, pale pancakes. The 1-hour rest develops the gluten slightly and lets the baking powder activate properly, the rested batter rises into the characteristic dome shape on the pan.
 - **Low heat, no oil bath:** Dorayaki pancakes are cooked dry (just a film of oil from a wipe), at low-medium heat, to give a uniformly golden smooth surface. High heat or an oil pool gives blotchy, dark, uneven discs.
 
 ## Storage

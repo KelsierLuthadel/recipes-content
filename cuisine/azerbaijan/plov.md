@@ -56,14 +56,14 @@ Azerbaijan's wedding rice, the centrepiece of any celebration worth the name, an
 ### Stage 3 - Build the qazmaq
 1. Melt half the butter (50 g) in a wide heavy-based pot over medium heat.
 1. Line the bottom with lavash sheets, pressing them down into the butter.
-1. Spoon the rice on top in a pyramid (don't press it down - air gives the qazmaq its lift).
+1. Spoon the rice on top in a pyramid (don't press it down, air gives the qazmaq its lift).
 1. Drizzle the saffron infusion over the rice peak.
 1. Drop the remaining 50 g butter in small cubes over the top.
 
 ### Stage 4 - Steam
 1. Wrap the pot lid in a clean tea towel (catches condensation, stops it dripping back onto the rice).
 1. Cover tightly; reduce heat to low.
-1. Steam 45 minutes - do not lift the lid.
+1. Steam 45 minutes, do not lift the lid.
 
 ### Stage 5 - Lamb qara
 1. While the rice steams, brown the lamb cubes in butter over medium-high heat in a separate heavy pan; remove.

@@ -18,7 +18,7 @@ Crowdie is one of the oldest dairy products in the British Isles, with documente
 ### For 300 g crowdie
 - 2 litres whole milk (full-fat; not UHT)
 - 2 tablespoons natural yogurt or buttermilk (the starter culture; or skip and let the milk naturally sour 24 hours)
-- 1 teaspoon fine sea salt (or to taste; do not over-salt - crowdie is subtle)
+- 1 teaspoon fine sea salt (or to taste; do not over-salt, crowdie is subtle)
 - 60 ml double cream
 - Optional flavourings (pick one):
   - 2 tablespoons finely chopped fresh chives
@@ -30,7 +30,7 @@ Crowdie is one of the oldest dairy products in the British Isles, with documente
   - 50 g cracked black peppercorns (the peppered version)
 
 ### Equipment
-- A heavy-bottomed pot (don't use a thin pan - milk burns)
+- A heavy-bottomed pot (don't use a thin pan, milk burns)
 - A digital thermometer (essential)
 - A square of muslin or cheesecloth (about 50 × 50 cm)
 - A colander
@@ -65,7 +65,7 @@ Crowdie is one of the oldest dairy products in the British Isles, with documente
 3. Gently pour the curds-and-whey through the muslin.
 4. Let drain naturally for 30 minutes.
 5. Then tie the muslin into a bundle (gather the corners and tie); hang from a hook or a tap over the bowl.
-6. Drain a further 4-6 hours (or overnight) till the curds are firm but moist - somewhere between cottage cheese and ricotta.
+6. Drain a further 4-6 hours (or overnight) till the curds are firm but moist, somewhere between cottage cheese and ricotta.
 
 ### Stage 4 - Season and shape
 1. Tip the drained curds into a clean bowl.

@@ -5,7 +5,7 @@
 *The fat-based preservation tradition. Slow-cook the meat in its own (or a relative's) fat at low temperature for hours; eat it whole as confit, or shred and pot it for rillettes. The fat seals the meat from oxygen, the salt rub stops most pathogens, and the result keeps for months.*
 
 ## Overview
-Confit and rillettes are siblings. Both use the same starting move - meat salted, then slow-cooked submerged in fat at very low temperatures. Confit is the whole-meat preservation (duck legs are the famous version, but pork shoulder, goose, rabbit and pork belly all work). Rillettes is the shredded, fat-set, spread-on-toast version, usually made by cooking the meat the same way then pulling it apart and packing into a terrine under a sealing layer of its own fat.
+Confit and rillettes are siblings. Both use the same starting move, meat salted, then slow-cooked submerged in fat at very low temperatures. Confit is the whole-meat preservation (duck legs are the famous version, but pork shoulder, goose, rabbit and pork belly all work). Rillettes is the shredded, fat-set, spread-on-toast version, usually made by cooking the meat the same way then pulling it apart and packing into a terrine under a sealing layer of its own fat.
 
 This is the second pillar of French rural charcuterie alongside the salt-cured products. Where bacon and salumi rely on salt and time, confit and rillettes rely on slow heat and a fat seal. The principle is the same: keep oxygen, water and warmth away from the meat for long enough that it stays edible. Refrigerated and submerged in its set fat, confit duck keeps six months easily. Rillettes under a clean fat seal keep three.
 
@@ -40,7 +40,7 @@ The whole point is the slow second-cooking that crisps the skin and reheats the 
 3. Heat slowly over medium-low. The skin renders its remaining fat over 8-10 minutes, going golden-brown and crisp; the flesh heats through gradually.
 4. Flip briefly to warm the flesh side; serve.
 
-Confit duck is classically served on a bed of garlicky potatoes (pommes Sarladaises - sliced potato cooked in some of the confit fat), with a green salad. Or shredded into a cassoulet. Or sliced over a lentil-and-bacon stew.
+Confit duck is classically served on a bed of garlicky potatoes (pommes Sarladaises, sliced potato cooked in some of the confit fat), with a green salad. Or shredded into a cassoulet. Or sliced over a lentil-and-bacon stew.
 
 ### Variations
 
@@ -54,11 +54,11 @@ Confit duck is classically served on a bed of garlicky potatoes (pommes Sarladai
 
 Rillettes is what you make when you want the confit method but the shreds-on-toast result rather than the whole-piece result. Pork shoulder is the most common; duck, rabbit and goose all work.
 
-1. **Cut to chunks.** Pork shoulder cut into 4-5 cm pieces. Bone in is fine - the bones go in the pot.
+1. **Cut to chunks.** Pork shoulder cut into 4-5 cm pieces. Bone in is fine, the bones go in the pot.
 2. **Salt and aromatics.** 2% salt by weight, plus thyme, bay, peppercorns, garlic, optionally a small amount of allspice.
 3. **Long slow cook.** In a heavy pot, just covered with rendered lard (or some pork fat plus water; the water cooks off slowly). Lid on, very low oven (110 C) for 4 hours. The meat falls apart; the fat infuses; the connective tissue dissolves into gelatin.
 4. **Pick out bones and herbs.** Discard. Mash the meat with two forks. Do not blend; rillettes should be shreddy, not smooth.
-5. **Adjust salt and texture.** Taste; salt is usually correct, occasionally needs more. Add fat back if the mass is too dry - rillettes is supposed to be rich, not lean.
+5. **Adjust salt and texture.** Taste; salt is usually correct, occasionally needs more. Add fat back if the mass is too dry, rillettes is supposed to be rich, not lean.
 6. **Pack into a terrine or jars.** Pack tight; smooth the top.
 7. **Seal with clean fat.** Pour a 5 mm layer of clean strained fat (from the cooking) over the top. This sets to a solid layer that excludes air. Refrigerate.
 
@@ -78,7 +78,7 @@ Cook covered at 110 C for 4 hours, then proceed as above.
 
 ### Eating Rillettes
 
-Rillettes is a spread, not a slice. Lift out of the jar with a spoon, smear thickly on a slice of bread - sourdough, baguette, brown rye - with a few cornichons on the side and a glass of light red wine. The flavour is intensely pork, slightly herbaceous, very rich. A small portion goes a long way.
+Rillettes is a spread, not a slice. Lift out of the jar with a spoon, smear thickly on a slice of bread, sourdough, baguette, brown rye, with a few cornichons on the side and a glass of light red wine. The flavour is intensely pork, slightly herbaceous, very rich. A small portion goes a long way.
 
 ### Variations
 

@@ -38,8 +38,8 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 1
-    name: leek - optional but excellent
-    raw: 1 leek - optional but excellent
+    name: "leek : optional but excellent"
+    raw: "1 leek : optional but excellent"
   - qty: 150
     unit: g
     name: cheddar

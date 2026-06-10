@@ -2,7 +2,7 @@
 
 ![Esquites](resources/esquites.jpg)
 
-*Mexican street-corn salad: charred corn kernels tossed with mayo, lime, chilli powder, cotija (or feta) and coriander. The dish elote becomes when you take it off the cob - same flavours, in a cup, eaten with a spoon. Smoky, spicy, salty, tangy all at once.*
+*Mexican street-corn salad: charred corn kernels tossed with mayo, lime, chilli powder, cotija (or feta) and coriander. The dish elote becomes when you take it off the cob, same flavours, in a cup, eaten with a spoon. Smoky, spicy, salty, tangy all at once.*
 
 **Serves:** 4
 
@@ -36,7 +36,7 @@ The Mexican street-corn salad: charred corn kernels tossed with mayo, lime, chil
 
 ### Stage 1 - Char the corn
 1. Heat the oil and butter in a large heavy skillet over medium-high heat.
-1. Add the corn in a single layer; let it sit undisturbed 3-4 minutes - kernels should char.
+1. Add the corn in a single layer; let it sit undisturbed 3-4 minutes, kernels should char.
 1. Stir; cook another 4-5 minutes, stirring occasionally, until many kernels are deeply blackened in spots and the rest are golden.
 
 ### Stage 2 - Aromatics
@@ -54,7 +54,7 @@ The Mexican street-corn salad: charred corn kernels tossed with mayo, lime, chil
 
 ## Notes
 - **Char the corn properly:** Pale yellow corn tossed with mayo is just creamed corn. The dish needs the smoky, blistered kernels.
-- **Cotija substitute:** True cotija - Mexican aged cow's milk cheese, salty and crumbly - is sold at Latin grocers. Feta is the closest UK supermarket substitute; pecorino works in a pinch.
+- **Cotija substitute:** True cotija, Mexican aged cow's milk cheese, salty and crumbly, is sold at Latin grocers. Feta is the closest UK supermarket substitute; pecorino works in a pinch.
 - **Tajín:** A Mexican seasoning of chilli, lime and salt; sold at Latin grocers and now many supermarkets. Sprinkle on top in addition to or instead of plain chilli powder.
 
 ## Storage

@@ -49,14 +49,14 @@ Shrimp Creole is the dish that announces you're in New Orleans, a tomato-rich st
 1. Add the garlic; cook 1 minute.
 
 ### Stage 2 - Build the sauce
-1. Stir in the tomato paste and Creole seasoning; cook 2 minutes - the paste will darken.
+1. Stir in the tomato paste and Creole seasoning; cook 2 minutes, the paste will darken.
 1. Add the chopped tomatoes, stock, bay, thyme, Worcestershire and hot sauce.
 1. Bring to a simmer; reduce to medium-low.
 1. Cook 18-22 minutes, stirring occasionally, until thickened to a sauce that coats a spoon.
 
 ### Stage 3 - Prawns
 1. Add the prawns; stir into the sauce.
-1. Cook 3-4 minutes until the prawns are pink and just-set - don't overcook (rubbery, sad prawns).
+1. Cook 3-4 minutes until the prawns are pink and just-set, don't overcook (rubbery, sad prawns).
 
 ### Stage 4 - Finish
 1. Off the heat, stir in the lemon juice, half the spring onions and half the parsley.

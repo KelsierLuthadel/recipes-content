@@ -2,7 +2,7 @@
 
 ![Halwo](resources/halwo.jpg)
 
-*Somali halva: a deep amber, almost translucent confection of cornflour, sugar, ghee and cardamom, perfumed with saffron and studded with chopped peanuts. Ribbons fold thick over each other as it cools. Sliced into squares and eaten with tea - celebrations, weddings, holidays - across Somalia and the Horn of Africa.*
+*Somali halva: a deep amber, almost translucent confection of cornflour, sugar, ghee and cardamom, perfumed with saffron and studded with chopped peanuts. Ribbons fold thick over each other as it cools. Sliced into squares and eaten with tea, celebrations, weddings, holidays, across Somalia and the Horn of Africa.*
 
 **Makes:** about 700 g (12 squares)
 
@@ -27,7 +27,7 @@ Halwo is the Somali halva that turns up at weddings, Eid and every celebration t
 ## Method
 
 ### Stage 1 - Slurry
-1. Whisk the cornflour into 300 ml of the cold water in a bowl until completely smooth - no lumps.
+1. Whisk the cornflour into 300 ml of the cold water in a bowl until completely smooth, no lumps.
 
 ### Stage 2 - Sugar syrup
 1. Combine the remaining 400 ml water, the sugar and the saffron-water in a wide heavy pan.
@@ -38,17 +38,17 @@ Halwo is the Somali halva that turns up at weddings, Eid and every celebration t
 1. Pour the cornflour slurry slowly into the syrup, whisking constantly. The mixture will thicken in seconds.
 
 ### Stage 4 - Cook and add ghee
-1. Continue whisking - the mixture will be opaque and gloopy.
+1. Continue whisking, the mixture will be opaque and gloopy.
 1. Drizzle in the ghee a tablespoon at a time, whisking each addition in fully before the next. This takes 8-10 minutes.
 
 ### Stage 5 - The colour change
 1. After all the ghee is in, switch to a wooden spoon and stir.
-1. Continue cooking 10-12 minutes more - the mixture will go from opaque cream to translucent amber, like melted caramel. It thickens dramatically.
+1. Continue cooking 10-12 minutes more, the mixture will go from opaque cream to translucent amber, like melted caramel. It thickens dramatically.
 1. The halwo is done when a spoon drawn through leaves a clean trail and the colour is even amber.
 
 ### Stage 6 - Finish
 1. Stir in the cardamom, peanuts and vanilla (if using).
-1. Pour into a lightly-greased shallow dish (around 20 x 20 cm) - the layer should be 2-3 cm thick.
+1. Pour into a lightly-greased shallow dish (around 20 x 20 cm): the layer should be 2-3 cm thick.
 1. Cool at room temperature 2-3 hours until set but still slightly chewy.
 
 ### Stage 7 - Cut and serve
@@ -62,4 +62,4 @@ Halwo is the Somali halva that turns up at weddings, Eid and every celebration t
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature; eats better as it ages slightly.
-- Don't refrigerate - goes hard; let it return to room temperature if you do.
+- Don't refrigerate, goes hard; let it return to room temperature if you do.

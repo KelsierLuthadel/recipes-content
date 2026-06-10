@@ -27,7 +27,7 @@ The American bar snack born at the Anchor Bar in Buffalo, New York in 1964: deep
 - 120 ml Frank's RedHot (or any Louisiana-style hot sauce)
 - 1 teaspoon white vinegar
 - ½ teaspoon Worcestershire sauce
-- ½ teaspoon cayenne pepper (for extra heat - optional)
+- ½ teaspoon cayenne pepper (for extra heat, optional)
 
 ### Blue-cheese dip
 - 100 g blue cheese (Roquefort or Stilton; crumbled)
@@ -46,7 +46,7 @@ The American bar snack born at the Anchor Bar in Buffalo, New York in 1964: deep
 ### Stage 1 - Dry the wings
 1. Pat the wings VERY dry with paper towels (wet wings won't crisp).
 1. Toss in a bowl with baking powder, salt and pepper.
-1. Spread on a wire rack over a tray; rest uncovered in the fridge 1 hour (or up to overnight - the longer the drier).
+1. Spread on a wire rack over a tray; rest uncovered in the fridge 1 hour (or up to overnight, the longer the drier).
 
 ### Stage 2 - Blue-cheese dip
 1. Mash half the blue cheese with the soured cream and mayonnaise to a smooth-ish base.
@@ -59,12 +59,12 @@ The American bar snack born at the Anchor Bar in Buffalo, New York in 1964: deep
 
 ### Stage 4 - Fry stage one
 1. Heat oil to 160°C.
-1. Lower wings in 8 at a time; fry 10 minutes - they'll cook through but stay pale.
+1. Lower wings in 8 at a time; fry 10 minutes, they'll cook through but stay pale.
 1. Lift onto a wire rack to rest 5 minutes.
 
 ### Stage 5 - Fry stage two
 1. Bring oil up to 190°C.
-1. Re-fry wings 8 at a time, 4-5 minutes - they should turn deep gold and crackling crisp.
+1. Re-fry wings 8 at a time, 4-5 minutes, they should turn deep gold and crackling crisp.
 1. Lift onto a fresh rack.
 
 ### Stage 6 - Toss
@@ -85,4 +85,4 @@ The American bar snack born at the Anchor Bar in Buffalo, New York in 1964: deep
 ## Storage
 - Best within 10 minutes of saucing.
 - Plain fried wings (pre-saucing) keep 24 hours refrigerated; re-crisp in a 200°C oven 8 minutes; toss in fresh sauce.
-- Don't refrigerate sauced wings - the coat goes gummy.
+- Don't refrigerate sauced wings, the coat goes gummy.

@@ -42,11 +42,11 @@ Baleadas are the Honduran street-stall staple, soft thick flour tortillas folded
 
 ### Stage 2 - Shape
 1. Divide the dough into 8 equal balls.
-1. Flatten each into a disc. Roll out to about 18 cm wide and 3 mm thick - thicker than a Mexican tortilla.
+1. Flatten each into a disc. Roll out to about 18 cm wide and 3 mm thick, thicker than a Mexican tortilla.
 
 ### Stage 3 - Cook
 1. Heat a dry heavy pan or comal over medium-high.
-1. Cook each tortilla 60-90 seconds per side - light blisters and pale gold patches.
+1. Cook each tortilla 60-90 seconds per side, light blisters and pale gold patches.
 1. Stack as you go, wrapped in a clean tea towel to stay soft.
 
 ### Stage 4 - Fill and fold (per baleada)
@@ -58,7 +58,7 @@ Baleadas are the Honduran street-stall staple, soft thick flour tortillas folded
 
 ## Notes
 - **Tortillas are thicker than Mexican:** Don't roll them too thin. They should fold without cracking, with a bit of chew.
-- **Mantequilla:** The Honduran fermented sour cream is unique - sour, thick, slightly funky. Crème fraîche thinned with buttermilk approximates it; sour cream works at a pinch.
+- **Mantequilla:** The Honduran fermented sour cream is unique, sour, thick, slightly funky. Crème fraîche thinned with buttermilk approximates it; sour cream works at a pinch.
 - **Make ahead:** Cook tortillas an hour ahead and wrap in the towel; reheat individually on the comal for 10 seconds before filling.
 
 ## Storage

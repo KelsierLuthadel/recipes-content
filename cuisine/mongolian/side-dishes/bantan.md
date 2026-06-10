@@ -39,7 +39,7 @@ Mongolia's flour-and-mutton broth, the steppe's morning-after restorative for ha
 ### Stage 3 - Flour pearls
 1. Place the flour in a wide shallow bowl.
 1. Drizzle 2 tablespoons of cold water across the flour.
-1. Rub the flour and water together between your palms - the flour clumps into pea-sized crumbs.
+1. Rub the flour and water together between your palms, the flour clumps into pea-sized crumbs.
 1. Sieve the crumbs gently to remove any loose flour (the loose flour is fine but the crumbs are the point).
 
 ### Stage 4 - Cook the pearls
@@ -51,9 +51,9 @@ Mongolia's flour-and-mutton broth, the steppe's morning-after restorative for ha
 1. Ladle into bowls; scatter spring onion or dill.
 
 ## Notes
-- **Rub, don't measure:** The flour pearls form by friction - the water moistens, the rubbing aggregates. Too much water and you get dough; too little and you get loose flour. The right consistency is "couscous-like crumbs".
+- **Rub, don't measure:** The flour pearls form by friction, the water moistens, the rubbing aggregates. Too much water and you get dough; too little and you get loose flour. The right consistency is "couscous-like crumbs".
 - **Stir as you drop:** If you add the pearls in a lump they'll fuse. Sprinkle as you stir.
-- **Mild and salty:** Bantan is plain on purpose. Don't add chilli, garlic or fancy herbs - that's not the dish.
+- **Mild and salty:** Bantan is plain on purpose. Don't add chilli, garlic or fancy herbs, that's not the dish.
 
 ## Storage
 - Best fresh. Refrigerate 2 days; reheat gently with extra stock (the pearls absorb liquid as they sit).

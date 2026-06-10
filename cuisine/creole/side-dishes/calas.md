@@ -15,7 +15,7 @@ Calas are the New Orleans rice fritters that used to be sold by Black Creole wom
 
 ## Ingredients
 
-- 300 g cooked long-grain rice (slightly soft - see Notes)
+- 300 g cooked long-grain rice (slightly soft, see Notes)
 - 2 eggs (large, beaten)
 - 80 g caster sugar
 - 80 ml whole milk
@@ -31,7 +31,7 @@ Calas are the New Orleans rice fritters that used to be sold by Black Creole wom
 ## Method
 
 ### Stage 1 - Mash rice
-1. In a wide bowl, mash the cooked rice lightly with a fork - keep some grains visible.
+1. In a wide bowl, mash the cooked rice lightly with a fork, keep some grains visible.
 
 ### Stage 2 - Wet mix
 1. Stir in the eggs, sugar, milk and vanilla.
@@ -41,7 +41,7 @@ Calas are the New Orleans rice fritters that used to be sold by Black Creole wom
 1. Fold to a thick batter (slightly looser than pancake batter).
 
 ### Stage 4 - Rest
-1. Cover; rest 30 minutes - the rice absorbs moisture and the baking powder activates.
+1. Cover; rest 30 minutes, the rice absorbs moisture and the baking powder activates.
 
 ### Stage 5 - Fry
 1. Heat oil to 175°C in a deep heavy pan.
@@ -56,7 +56,7 @@ Calas are the New Orleans rice fritters that used to be sold by Black Creole wom
 1. Eat warm with strong chicory coffee or a glass of cold milk.
 
 ## Notes
-- **Rice texture:** Slightly over-cooked, soft rice is right - gives a tender fritter. Drying-out leftover rice from the fridge works perfectly.
+- **Rice texture:** Slightly over-cooked, soft rice is right, gives a tender fritter. Drying-out leftover rice from the fridge works perfectly.
 - **Rest the batter:** The baking powder needs to activate; the rice needs to drink some moisture. 30 minutes is the minimum.
 - **Eat warm:** Calas are 50% better in the first 10 minutes after frying. They turn dense and chewy when cold.
 

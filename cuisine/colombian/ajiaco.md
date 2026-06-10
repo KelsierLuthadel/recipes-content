@@ -72,7 +72,7 @@ Ajiaco is Bogotá's signature dish, the Andean chicken soup the whole capital ea
 1. Taste; adjust salt.
 
 ### Stage 7 - Serve
-1. Ladle into wide bowls - make sure each bowl gets a wedge of corn on the cob.
+1. Ladle into wide bowls, make sure each bowl gets a wedge of corn on the cob.
 1. Top each with avocado slices.
 1. Bring capers, cream, lime and rice to the table; each diner garnishes their own.
 

@@ -71,7 +71,7 @@ Sancocho is the soup-stew Colombians make on Sundays for big gatherings, a wide 
 
 ## Notes
 - **Stewing hen if you can:** Older birds give a deeper broth and stand up to long simmering. A regular chicken works but cuts the cook to about an hour.
-- **Don't pre-dice everything small:** The vegetables are eaten in big chunks - that's the dish.
+- **Don't pre-dice everything small:** The vegetables are eaten in big chunks, that's the dish.
 - **Rice on the side:** Don't cook rice in the broth. Plain rice goes in the bowl with broth poured over.
 
 ## Storage

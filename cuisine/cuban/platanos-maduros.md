@@ -28,7 +28,7 @@ Plátanos maduros are the sweet caramelised plantain rounds that turn up beside 
 
 ### Stage 2 - Fry
 1. Heat the oil in a heavy frying pan over medium heat (the oil should shimmer but not smoke).
-1. Add the plantain slices in a single layer; don't crowd. Fry 2-3 minutes per side until deep mahogany - almost burnt-looking - and the cut faces caramelised.
+1. Add the plantain slices in a single layer; don't crowd. Fry 2-3 minutes per side until deep mahogany, almost burnt-looking, and the cut faces caramelised.
 1. Lower the heat slightly if they brown too fast (the inside needs to soften before the outside burns).
 
 ### Stage 3 - Drain and finish
@@ -36,7 +36,7 @@ Plátanos maduros are the sweet caramelised plantain rounds that turn up beside 
 1. Sprinkle with flaky salt and a tiny pinch of cinnamon if using.
 
 ## Notes
-- **Ripeness is everything:** Yellow plantains with no black spots are too starchy and bland; they fry to firm bricks instead of soft jammy slices. The riper the better - heavily black-skinned ones give the most caramelisation.
+- **Ripeness is everything:** Yellow plantains with no black spots are too starchy and bland; they fry to firm bricks instead of soft jammy slices. The riper the better, heavily black-skinned ones give the most caramelisation.
 - **Don't crowd the pan:** Steam-fries instead of caramelising. Cook in batches.
 - **Salt the right amount:** Plantains are sweet; a little salt brings them into focus. Too much and you've made a confused side dish.
 

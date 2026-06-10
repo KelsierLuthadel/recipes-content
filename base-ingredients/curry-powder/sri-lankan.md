@@ -16,13 +16,13 @@ Sri Lankan curry powder is the building block for the country's distinctive dark
 ## Ingredients
 
 ### Spices Roasted Separately
-**Set 1 - Rapid Roasting Spices:**
+**Set 1, Rapid Roasting Spices:**
 - 6 tablespoons coriander seeds
 - 3 tablespoons cumin seeds
 - 1 tablespoon fennel seeds
 - 1 teaspoon fenugreek seeds
 
-**Set 2 - Slow Roasting Aromatics:**
+**Set 2, Slow Roasting Aromatics:**
 - 1 cinnamon stick (broken into pieces)
 - 1 teaspoon cloves
 - 8 green cardamom pods

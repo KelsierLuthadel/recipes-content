@@ -44,7 +44,7 @@ Ukoy is the Filipino shrimp fritter, an open-lattice cake of grated squash and b
 
 ### Stage 1 - Shrimp
 1. Rinse the small whole shrimp under cold water.
-1. Pat dry on kitchen paper (don't peel - the shells become crispy when fried).
+1. Pat dry on kitchen paper (don't peel, the shells become crispy when fried).
 1. Set aside.
 
 ### Stage 2 - Batter
@@ -73,9 +73,9 @@ Ukoy is the Filipino shrimp fritter, an open-lattice cake of grated squash and b
 - **Shell-on shrimp:** the shells fry to a sweet crisp and are entirely edible (and the best bit). Don't peel them.
 - **Hot oil, not just warm:** below 170°C the batter absorbs oil and the fritters go greasy. Use a thermometer or test with bread.
 - **Drain on a rack:** any flat surface traps steam and softens the bottom. A wire rack lets air circulate.
-- **Best shrimp size:** small (8-10 cm body) are ideal - large prawns are too meaty for the batter ratio.
+- **Best shrimp size:** small (8-10 cm body) are ideal, large prawns are too meaty for the batter ratio.
 
 ## Storage
 - Best straight from the fryer.
-- Reheat any leftovers in a hot dry oven (200°C, 5 minutes) - never microwave.
+- Reheat any leftovers in a hot dry oven (200°C, 5 minutes): never microwave.
 - The batter must be made fresh; the rice flour separates within 30 minutes of mixing.

@@ -69,4 +69,4 @@ Fried green tomatoes are the South's answer to using up the last of the summer t
 - **Salt the slices first:** Removes excess water that would steam the coat off.
 
 ## Storage
-- Eat fresh. Re-crisping isn't great - the coat goes soft fast.
+- Eat fresh. Re-crisping isn't great, the coat goes soft fast.

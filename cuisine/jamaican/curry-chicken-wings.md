@@ -76,4 +76,4 @@ Buttermilk-fried wings in the American Southern tradition, with a Caribbean acce
 
 ## Storage
 - Best the day of frying. Refrigerated 2 days; reheat at 200°C / 400°F oven for 8-10 minutes to refresh the crust.
-- Don't microwave - soggy.
+- Don't microwave, soggy.

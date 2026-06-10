@@ -29,7 +29,7 @@ Mexico's defining dessert and the centrepiece of every quinceañera and Sunday f
 - 1 tablespoon rum (or brandy, optional, traditional)
 
 ### Equipment
-- 1 round cake tin (22 cm, NOT springform - needs to be solid-bottomed; ideally 8 cm deep)
+- 1 round cake tin (22 cm, NOT springform, needs to be solid-bottomed; ideally 8 cm deep)
 - OR 8 ramekins (180 ml each)
 - A large roasting tin (to act as a bain-marie)
 - Boiling water
@@ -40,18 +40,18 @@ Mexico's defining dessert and the centrepiece of every quinceañera and Sunday f
 1. Place sugar and water in a heavy saucepan (light-coloured base so you can see the caramel colour).
 1. Heat over medium-low until the sugar dissolves; swirl the pan occasionally.
 1. Once the syrup is clear, increase heat to medium-high.
-1. Cook 5-8 minutes without stirring (swirling occasionally) until the syrup darkens to a deep amber - like a strong espresso. Watch carefully; it goes from amber to burnt-black in 30 seconds.
+1. Cook 5-8 minutes without stirring (swirling occasionally) until the syrup darkens to a deep amber, like a strong espresso. Watch carefully; it goes from amber to burnt-black in 30 seconds.
 1. Immediately pour into your cake tin (or distribute among ramekins).
 1. Tilt to coat the base and 1 cm up the sides.
-1. The caramel sets and hardens within a minute - that's fine.
+1. The caramel sets and hardens within a minute, that's fine.
 1. Set aside.
 
 ### Stage 2 - Make the custard
 1. Heat oven to 160°C (140°C fan).
 1. Bring a kettle of water to a boil.
-1. In a wide bowl, gently whisk eggs (don't whip - you don't want foam) until just combined.
+1. In a wide bowl, gently whisk eggs (don't whip, you don't want foam) until just combined.
 1. Whisk in the condensed milk, evaporated milk, whole milk, vanilla, salt and rum (if using).
-1. Strain the custard through a fine sieve into a measuring jug - twice if you're a perfectionist.
+1. Strain the custard through a fine sieve into a measuring jug, twice if you're a perfectionist.
 1. Skim any foam from the surface (foam gives a pocked finish on the bottom of the flan when unmoulded).
 
 ### Stage 3 - Bain-marie
@@ -75,20 +75,20 @@ Mexico's defining dessert and the centrepiece of every quinceañera and Sunday f
 
 ### Stage 6 - Unmould
 1. Run a thin knife around the edge.
-1. Place a large flat serving plate (one with a slight lip is ideal - to catch the caramel) over the cake tin.
-1. Invert with confidence - flip it over completely.
-1. Gently lift the tin off - the flan slides down onto the plate; the caramel pours over it.
+1. Place a large flat serving plate (one with a slight lip is ideal, to catch the caramel) over the cake tin.
+1. Invert with confidence, flip it over completely.
+1. Gently lift the tin off, the flan slides down onto the plate; the caramel pours over it.
 
 ### Stage 7 - Serve
 1. Slice into 8 wedges.
 1. Spoon caramel from the plate over each slice as you serve.
 
 ## Notes
-- **Caramel colour matters:** Pale caramel gives sweet syrup without depth; burnt caramel is bitter. Deep amber (espresso-coloured) is the target - bittersweet, deeply caramelised, slight smokiness.
+- **Caramel colour matters:** Pale caramel gives sweet syrup without depth; burnt caramel is bitter. Deep amber (espresso-coloured) is the target, bittersweet, deeply caramelised, slight smokiness.
 - **The milk trio is the Mexican signature:** Condensed milk (sweetness + body), evaporated milk (richness without sugar), whole milk (lightening). Substituting fresh cream gives a less authentic, richer-but-flatter flan.
 - **Bain-marie is non-negotiable:** Direct oven heat overcooks the edges before the centre sets, giving a curdled rubbery flan. The water bath surrounds the tin in gentle moist heat that cooks the custard evenly to a silky texture.
 
 ## Storage
 - Refrigerated, covered, in its tin (not unmoulded): 4 days.
 - Once unmoulded, eat within 2 days.
-- Doesn't freeze well - the custard texture separates on thaw.
+- Doesn't freeze well, the custard texture separates on thaw.

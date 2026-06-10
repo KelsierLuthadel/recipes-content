@@ -46,7 +46,7 @@ Pumpkin halves roasted cut-side down until the flesh collapses against the spoon
 
 ### Stage 2 - Build the base
 1. While the pumpkin roasts, melt the butter with the remaining tablespoon of olive oil in a heavy pot over a medium-low heat.
-2. Add the onions, carrot and celery. Cook gently for 12-15 minutes, stirring often, until soft and faintly golden at the edges - the slow cook builds sweetness.
+2. Add the onions, carrot and celery. Cook gently for 12-15 minutes, stirring often, until soft and faintly golden at the edges, the slow cook builds sweetness.
 3. Add the garlic, thyme and bay leaf. Stir for 2 minutes.
 
 ### Stage 3 - Simmer
@@ -56,7 +56,7 @@ Pumpkin halves roasted cut-side down until the flesh collapses against the spoon
 
 ### Stage 4 - Blitz
 1. Blend the soup with a stick blender until completely smooth and silky. If it looks thicker than you want, add a splash more stock; thinner, simmer for another 5 minutes uncovered.
-2. Stir in the cream and nutmeg. Taste and adjust salt - pumpkin needs more than you think. Grind in plenty of black pepper.
+2. Stir in the cream and nutmeg. Taste and adjust salt, pumpkin needs more than you think. Grind in plenty of black pepper.
 
 ### Stage 5 - Toast and serve
 1. If toasting your own seeds: warm a dry frying pan over a medium heat, add the cleaned seeds, and toast for 3-4 minutes, shaking the pan, until they pop and brown. Tip onto a plate; sprinkle with salt.

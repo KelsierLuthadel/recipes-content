@@ -24,7 +24,7 @@ The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lu
 - 100 ml ice-cold water (approx)
 
 ### Filling
-- 500 g minced beef (15-20% fat; from the shoulder/chuck - not lean)
+- 500 g minced beef (15-20% fat; from the shoulder/chuck, not lean)
 - 1 large onion (very finely diced)
 - 1 teaspoon Bovril (or 1 teaspoon beef-gravy salt)
 - 1 teaspoon Worcestershire sauce
@@ -63,7 +63,7 @@ The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lu
 2. Brush the border with cold water.
 3. Fold the empty half over the filling to form a half-moon.
 4. Press the edges firmly together to seal.
-5. Crimp the curved edge - Forfar style is a folded-over rope crimp, but a simple fork-pressed edge also works.
+5. Crimp the curved edge, Forfar style is a folded-over rope crimp, but a simple fork-pressed edge also works.
 
 ### Stage 5 - Steam holes and glaze
 1. With a sharp knife, punch two small steam holes through the top of each bridie (the traditional Forfar mark).
@@ -90,12 +90,12 @@ The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lu
 - **Eat warm, not piping hot:** the filling is very hot just out of the oven; rest 5 minutes.
 
 ## Variations
-**Mince-and-cheese bridie:** add 80 g grated mature Cheddar to the filling - modern variant, very popular in Dundee.
-**Spicy bridie:** add a teaspoon of curry powder + ½ teaspoon chilli flakes to the filling - the modern bakery version.
+**Mince-and-cheese bridie:** add 80 g grated mature Cheddar to the filling, modern variant, very popular in Dundee.
+**Spicy bridie:** add a teaspoon of curry powder + ½ teaspoon chilli flakes to the filling, the modern bakery version.
 **Vegetarian bridie:** swap the beef for cooked lentils + sautéed mushrooms + diced potato; brush with milk instead of egg.
-**Steak bridie:** use chunked stewing steak (slow-cooked with onion till tender) instead of mince - heartier, takes longer.
+**Steak bridie:** use chunked stewing steak (slow-cooked with onion till tender) instead of mince, heartier, takes longer.
 **With black pudding:** add 100 g crumbled Stornoway black pudding to the beef filling.
-**Mini bridies (canapés):** make 24 small bridies for parties - same filling, half the bake time.
+**Mini bridies (canapés):** make 24 small bridies for parties, same filling, half the bake time.
 
 ## Serving
 At Saddler's, McLaren's, or Mr Howe's bakeries in Forfar at lunchtime · at Dundee football matches · at a Scottish gastropub as a hand-pie starter · at a Highland country fair · at home as a Saturday weekend lunch with a pint of ale · in a Scottish school packed lunch.

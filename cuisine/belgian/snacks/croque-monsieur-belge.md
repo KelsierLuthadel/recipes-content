@@ -16,7 +16,7 @@ The croque monsieur is French in origin, invented around 1910 at a Paris café, 
 ## Ingredients
 
 ### The sandwiches (makes 2)
-- 4 thick slices of good white bread (1.5 cm thick) - pain de mie, brioche tranche, or a sturdy white bloomer
+- 4 thick slices of good white bread (1.5 cm thick): pain de mie, brioche tranche, or a sturdy white bloomer
 - 60 g unsalted butter, soft
 - 4 slices Belgian Ardennes ham OR good cooked jambon d'Ardenne (about 120 g total)
 - 80 g Gruyère, finely grated
@@ -65,7 +65,7 @@ The croque monsieur is French in origin, invented around 1910 at a Paris café, 
 6. Place the second bread slice on top, butter-side-up.
 
 ### Stage 4 - Pan-toast
-1. Heat a heavy frying pan over medium heat (no extra fat needed - the butter on the bread is enough).
+1. Heat a heavy frying pan over medium heat (no extra fat needed, the butter on the bread is enough).
 2. Place the sandwiches in the pan.
 3. Cook 3 minutes till the underside is deep golden brown.
 4. Flip carefully with a spatula.
@@ -89,15 +89,15 @@ The croque monsieur is French in origin, invented around 1910 at a Paris café, 
 - **Bread thickness matters:** 1.5 cm is the right thickness; thinner and the sandwich falls apart, thicker and the cheese doesn't melt through.
 - **Butter both sides:** the outside butter is for browning; the inside butter helps the cheese fuse to the bread and seal the ham.
 - **Aged cheese:** young supermarket Gruyère lacks the umami depth. A 12-month or better works far better.
-- **The gratin top is the Belgian move:** the French original is just a pan-toasted sandwich. The Belgian version adds the béchamel-cheese topping under the grill - more like a hot open sandwich than a closed grilled cheese.
+- **The gratin top is the Belgian move:** the French original is just a pan-toasted sandwich. The Belgian version adds the béchamel-cheese topping under the grill, more like a hot open sandwich than a closed grilled cheese.
 - **Mustard in the béchamel is non-negotiable:** Dijon gives the sharp counterpoint to the rich cheese.
 - **Eat immediately:** the gratin crust softens fast.
 
 ## Variations
 **Croque Madame Belge:** crack a fried egg over each sandwich just before serving (over-easy ideal; the runny yolk runs through the gratin).
-**Croque au jambon de Bayonne:** swap Belgian Ardennes for French Bayonne ham - the cross-border variant.
+**Croque au jambon de Bayonne:** swap Belgian Ardennes for French Bayonne ham, the cross-border variant.
 **Croque au fromage seul (cheese only):** skip the ham; double the cheese; the vegetarian version.
-**Croque hawaïen (Belgian version):** add a slice of grilled pineapple between the ham and cheese - the controversial Brussels diner variant.
+**Croque hawaïen (Belgian version):** add a slice of grilled pineapple between the ham and cheese, the controversial Brussels diner variant.
 **Croque au boeuf:** swap the ham for thin slices of cold roast beef and a smear of horseradish on the bread.
 **Bruges-style croque:** use Brugge Vieux exclusively as the cheese; richer and sharper.
 **Mini-croques (for canapés):** cut the sandwich into 4 squares before the grill stage; serve as canapés with a cocktail.
@@ -106,7 +106,7 @@ The croque monsieur is French in origin, invented around 1910 at a Paris café, 
 At a Brussels brasserie at lunchtime (the traditional setting) · at a Belgian café in Bruges, Antwerp or Ghent · with a beer at a Belgian gastropub · as a quick Belgian dinner alongside a salad · at a Belgian Sunday brunch · at home for a sophisticated grilled cheese.
 
 ## Storage
-- Doesn't keep - eat within 10 minutes of finishing under the grill.
+- Doesn't keep, eat within 10 minutes of finishing under the grill.
 - Béchamel can be made ahead 2 days; reheat gently with a splash of milk.
 - Don't refrigerate the assembled sandwich; the bread goes soggy.
 - The components (bread, butter, ham, cheese) all keep separately as normal pantry items.

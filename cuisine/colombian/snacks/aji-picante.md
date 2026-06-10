@@ -2,7 +2,7 @@
 
 ![Aji Picante](resources/aji-picante.jpg)
 
-*Colombia's foundational hot sauce: finely chopped tomato, onion, scallion, coriander, fresh chillies, lime juice and vinegar combined into a fresh chunky table-condiment. The traditional Colombian condiment that turns up alongside every meal - the salsa criolla equivalent across the country.*
+*Colombia's foundational hot sauce: finely chopped tomato, onion, scallion, coriander, fresh chillies, lime juice and vinegar combined into a fresh chunky table-condiment. The traditional Colombian condiment that turns up alongside every meal, the salsa criolla equivalent across the country.*
 
 **Serves:** Makes about 400 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ají picante (or simply "ají") is Colombia's most pervasive table condiment and the foundational Colombian hot sauce: a fresh chunky relish-like condiment made from finely chopped tomato, white onion, scallions, fresh coriander, fresh hot chillies (typically ají amarillo or any small green/red hot chilli), lime juice, white vinegar and salt, mixed together and rested briefly for the flavours to marry. The dish appears at every Colombian table - alongside arepas at breakfast, with empanadas as a dipping sauce, drizzled over bandeja paisa, sopped up with patacones, ladled into sancocho. Unlike commercial bottled hot sauces, ají picante is meant to be made fresh and eaten within a few days; the freshness is the point. The chunkiness is intentional; finely chopped by knife, not blended. Both lime and vinegar go in: lime for brightness, vinegar for keeping power and a different tang. Fresh hot chillies (Colombian ají amarillo if you can; serrano or jalapeño substitute).
+Ají picante (or simply "ají") is Colombia's most pervasive table condiment and the foundational Colombian hot sauce: a fresh chunky relish-like condiment made from finely chopped tomato, white onion, scallions, fresh coriander, fresh hot chillies (typically ají amarillo or any small green/red hot chilli), lime juice, white vinegar and salt, mixed together and rested briefly for the flavours to marry. The dish appears at every Colombian table, alongside arepas at breakfast, with empanadas as a dipping sauce, drizzled over bandeja paisa, sopped up with patacones, ladled into sancocho. Unlike commercial bottled hot sauces, ají picante is meant to be made fresh and eaten within a few days; the freshness is the point. The chunkiness is intentional; finely chopped by knife, not blended. Both lime and vinegar go in: lime for brightness, vinegar for keeping power and a different tang. Fresh hot chillies (Colombian ají amarillo if you can; serrano or jalapeño substitute).
 
 ## Ingredients
 

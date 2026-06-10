@@ -31,20 +31,20 @@ Wok-fried greens is the catch-all Cantonese side that mixes whatever leafy or cr
 ## Method
 
 ### Stage 1 - Prep before lighting the wok
-1. Have everything cut and within reach of the hob - the dish takes minutes; you can't pause to chop.
+1. Have everything cut and within reach of the hob, the dish takes minutes; you can't pause to chop.
 
 ### Stage 2 - Heat the wok
 1. Heat the wok over the highest heat 2-3 minutes until it smokes faintly.
 1. Add the oil; swirl to coat.
 
 ### Stage 3 - Aromatics
-1. Add the garlic and ginger; toss for 15 seconds - they should sizzle furiously, not burn.
+1. Add the garlic and ginger; toss for 15 seconds, they should sizzle furiously, not burn.
 
 ### Stage 4 - Broccoli
 1. Add the tenderstem broccoli; toss vigorously for 90 seconds. The stems should blister and char in places.
 
 ### Stage 5 - Bok choy and snap peas
-1. Add the bok choy and snap peas; toss for 60 seconds - bok choy should wilt slightly, snap peas should still snap.
+1. Add the bok choy and snap peas; toss for 60 seconds, bok choy should wilt slightly, snap peas should still snap.
 
 ### Stage 6 - Glaze
 1. Pour in the soy sauce, mirin and vinegar around the edge of the pan; toss to coat. The liquid should reduce to almost nothing in 30 seconds.
@@ -56,7 +56,7 @@ Wok-fried greens is the catch-all Cantonese side that mixes whatever leafy or cr
 
 ## Notes
 - **High heat is non-negotiable:** Lower heat steams the greens; you want char and smoke. A domestic gas hob on its highest setting; or get a takeaway-style wok burner if you cook this often.
-- **Bok choy halves cut-side down:** When you add them, lay halves flat in the pan for 30 seconds before tossing - the cut side caramelises briefly.
+- **Bok choy halves cut-side down:** When you add them, lay halves flat in the pan for 30 seconds before tossing, the cut side caramelises briefly.
 - **Don't crowd the wok:** Half quantities cook faster and better than a full wok-load. Cook in batches if you scale up.
 
 ## Storage

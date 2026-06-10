@@ -35,7 +35,7 @@ Jamaica's pillowy folded coconut-milk roll: soft, faintly sweet, the bread that 
 1. In a large bowl, whisk together the flour, yeast, sugar and salt.
 2. Make a well; pour in the warm coconut milk, warm milk and beaten egg.
 3. Mix with a spoon until a rough dough forms, then turn onto a clean surface.
-4. Knead in the softened butter (it will look messy at first - persist).
+4. Knead in the softened butter (it will look messy at first, persist).
 5. Knead 10 minutes by hand (or 6 minutes in a stand mixer with a dough hook on medium) until smooth, elastic and slightly tacky.
 6. Place in an oiled bowl; cover; rise in a warm spot 1 to 1 ½ hours until doubled.
 
@@ -44,14 +44,14 @@ Jamaica's pillowy folded coconut-milk roll: soft, faintly sweet, the bread that 
 2. Roll each piece into a smooth ball.
 3. On a lightly floured surface, roll each ball into a round about 14 cm across and 5 mm thick.
 4. Brush the surface generously with melted butter.
-5. Fold the round in half to form a half-moon; press lightly around the curved edge to seal (but not too hard - the fold should puff during baking).
+5. Fold the round in half to form a half-moon; press lightly around the curved edge to seal (but not too hard, the fold should puff during baking).
 6. Lay the folded rolls onto a lined baking tray, leaving 3 cm between each.
 7. Cover with a clean cloth; let rest 25 minutes (they should look slightly puffed).
 
 ### Stage 3 - Bake
 1. Heat the oven to 180°C (160°C fan).
 2. Brush the tops of the rolls lightly with milk.
-3. Bake 18-20 minutes until pale golden on top (not deeply browned - coco bread should stay soft and light in colour).
+3. Bake 18-20 minutes until pale golden on top (not deeply browned, coco bread should stay soft and light in colour).
 4. Brush with the remaining melted butter while still hot.
 5. Cool on a wire rack 10 minutes before serving.
 

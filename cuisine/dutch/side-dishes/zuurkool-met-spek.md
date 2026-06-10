@@ -31,7 +31,7 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 - 200 ml unsweetened apple juice OR a mix of 100 ml chicken stock + 100 ml white wine
 
 ### To finish
-- 1 tablespoon Dutch grainy mustard (mosterd) - some cooks add a small amount at the end
+- 1 tablespoon Dutch grainy mustard (mosterd): some cooks add a small amount at the end
 - A small handful of chopped fresh flat-leaf parsley OR a pinch of dried thyme
 - A small grind of black pepper
 
@@ -44,7 +44,7 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 
 ### Stage 1 - Rinse the sauerkraut
 1. Drain the sauerkraut in a colander.
-2. Rinse lightly under cold running water for about 10 seconds - just enough to take the harshest edge off, not enough to wash out all the flavour.
+2. Rinse lightly under cold running water for about 10 seconds, just enough to take the harshest edge off, not enough to wash out all the flavour.
 3. Squeeze gently to remove excess water.
 
 ### Stage 2 - Render the bacon
@@ -69,7 +69,7 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 1. Cover with a lid.
 2. Reduce heat to low.
 3. Cook 20-25 minutes, stirring once or twice, till the sauerkraut is meltingly soft and the flavours have melded.
-4. Uncover for the last 3-5 minutes if there's any excess liquid - it should be moist but not soupy.
+4. Uncover for the last 3-5 minutes if there's any excess liquid, it should be moist but not soupy.
 
 ### Stage 6 - Finish
 1. Fish out the bay leaves, cloves (whole) and juniper berries.
@@ -93,21 +93,21 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 - **Don't add the bacon too early:** if the crisp bacon goes in during the braise, it loses its crispness. Add at the end.
 
 ## Variations
-**Zuurkoolstamppot:** fold the finished zuurkool through 800 g of mashed floury potato; serve with rookworst on top - the Dutch winter standard.
-**Zuurkool met spek en banaan (with banana):** a weird-but-loved Dutch variant - slice a banana and lay it on top before serving; the sweet creamy banana balances the sharp sauerkraut beautifully.
-**Zuurkool met ananas:** swap the apple for tinned pineapple chunks - the colonial-era Indonesian-Dutch variant.
+**Zuurkoolstamppot:** fold the finished zuurkool through 800 g of mashed floury potato; serve with rookworst on top, the Dutch winter standard.
+**Zuurkool met spek en banaan (with banana):** a weird-but-loved Dutch variant, slice a banana and lay it on top before serving; the sweet creamy banana balances the sharp sauerkraut beautifully.
+**Zuurkool met ananas:** swap the apple for tinned pineapple chunks, the colonial-era Indonesian-Dutch variant.
 **Vegetarian zuurkool:** skip the bacon; use 2 tablespoons of olive oil; finish with a teaspoon of smoked paprika for depth.
-**Zuurkool with wine:** swap the apple juice for 200 ml dry Riesling - the Alsatian-Dutch crossover.
-**Zuurkool with smoked sausage built in:** slice a rookworst sausage into rounds; add to the pan in the last 10 minutes of braising - turns the side into a complete dinner.
+**Zuurkool with wine:** swap the apple juice for 200 ml dry Riesling, the Alsatian-Dutch crossover.
+**Zuurkool with smoked sausage built in:** slice a rookworst sausage into rounds; add to the pan in the last 10 minutes of braising, turns the side into a complete dinner.
 **Zuurkool soup (the leftover variant):** add 600 ml stock to the finished zuurkool; blend half; serve with cubed ham and a slice of dark rye bread.
-**Modern Amsterdam variant:** finish with a swirl of crème fraîche on top and a dusting of smoked paprika - bistro-fied.
+**Modern Amsterdam variant:** finish with a swirl of crème fraîche on top and a dusting of smoked paprika, bistro-fied.
 
 ## Serving
 At a Dutch winter dinner (the traditional setting; October to March) · at a Dutch family Sunday lunch · at a Dutch sinterklaas (5 December) family meal · at a German-Dutch border region restaurant · at home alongside grilled pork chops or rookworst · paired with mashed potato or buttered noodles, and a cold Dutch lager.
 
 ## Storage
-- Refrigerates 5 days - and improves with time. Many Dutch families make it the day before.
+- Refrigerates 5 days, and improves with time. Many Dutch families make it the day before.
 - Freezes 3 months in airtight containers; defrost overnight in the fridge.
 - The flavours meld further on day 2 and 3; arguably better than fresh.
-- Don't store the crisp bacon mixed in - the bacon goes soft. Keep separate, scatter on top at serving.
+- Don't store the crisp bacon mixed in, the bacon goes soft. Keep separate, scatter on top at serving.
 - Leftover zuurkool is the start of dozens of Dutch dishes: zuurkoolstamppot, zuurkoolsoep, fried-egg-on-zuurkool breakfast.

@@ -2,7 +2,7 @@
 
 ![Sahlab](resources/sahlab.jpg)
 
-*Israel's winter milk drink: hot milk thickened with sahlab powder (or cornflour), lightly sweetened, served in tall mugs piled high with toppings - crushed pistachios, desiccated coconut, cinnamon and a splash of rose water. Closer to a dessert than a drink, the steamy answer to a cold Tel Aviv January.*
+*Israel's winter milk drink: hot milk thickened with sahlab powder (or cornflour), lightly sweetened, served in tall mugs piled high with toppings, crushed pistachios, desiccated coconut, cinnamon and a splash of rose water. Closer to a dessert than a drink, the steamy answer to a cold Tel Aviv January.*
 
 **Serves:** 4 mugs
 
@@ -11,14 +11,14 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Sahlab in Israel is a layered theatre as much as a drink - the hot milk base is fairly simple, but the topping ritual is the whole show. The base: whole milk thickened with sahlab powder (or a cornflour substitute), sweetened lightly with sugar, finished with vanilla and a drop of rose water. The topping: crushed unsalted pistachios, desiccated coconut, ground cinnamon, sometimes raisins or chopped nuts, occasionally a pinch of saffron. The drinker sees a mug of pale-cream sahlab with a cap of green pistachios, white coconut and rust-brown cinnamon - three distinct layers - and eats / drinks the assembled thing with a long spoon. Where Turkish salep leans on the orchid-root for that uniquely stretchy mouthfeel and the cinnamon dusting, Israeli sahlab leans on the toppings: less sweet base, more aggressive garnish, served as a winter street-food drink alongside borekas or bourekas (Israeli pastries) at every Tel Aviv juice bar from November to March.
+Sahlab in Israel is a layered theatre as much as a drink, the hot milk base is fairly simple, but the topping ritual is the whole show. The base: whole milk thickened with sahlab powder (or a cornflour substitute), sweetened lightly with sugar, finished with vanilla and a drop of rose water. The topping: crushed unsalted pistachios, desiccated coconut, ground cinnamon, sometimes raisins or chopped nuts, occasionally a pinch of saffron. The drinker sees a mug of pale-cream sahlab with a cap of green pistachios, white coconut and rust-brown cinnamon, three distinct layers, and eats / drinks the assembled thing with a long spoon. Where Turkish salep leans on the orchid-root for that uniquely stretchy mouthfeel and the cinnamon dusting, Israeli sahlab leans on the toppings: less sweet base, more aggressive garnish, served as a winter street-food drink alongside borekas or bourekas (Israeli pastries) at every Tel Aviv juice bar from November to March.
 
 ## Ingredients
 
 ### For the milk base
 - 2 tablespoons sahlab powder (Levantine brand from Israeli / Middle Eastern grocery) OR 2 tablespoons cornflour + 1 tablespoon milk powder (substitute when sahlab unavailable)
 - 1 litre whole milk
-- 60 g caster sugar (less than the Turkish version - Israelis prefer a less-sweet base because the toppings sweeten)
+- 60 g caster sugar (less than the Turkish version, Israelis prefer a less-sweet base because the toppings sweeten)
 - 1 teaspoon vanilla extract
 - 1 teaspoon rose water
 
@@ -40,12 +40,12 @@ Sahlab in Israel is a layered theatre as much as a drink - the hot milk base is 
 
 ### Stage 2 - Warm the milk
 1. Pour the remaining milk into a heavy-bottomed saucepan.
-1. Warm over medium-low heat until just steaming - about 65°C. Don't boil.
+1. Warm over medium-low heat until just steaming, about 65°C. Don't boil.
 
 ### Stage 3 - Combine and thicken
 1. While whisking the warm milk continuously, pour in the slurry in a steady stream.
 1. Add the sugar.
-1. Continue whisking on medium heat for 8-10 minutes until the mixture thickens to a velvety consistency that coats a spoon and falls in slow ribbons. The Israeli sahlab is slightly thinner than the Turkish - about the texture of a thin custard.
+1. Continue whisking on medium heat for 8-10 minutes until the mixture thickens to a velvety consistency that coats a spoon and falls in slow ribbons. The Israeli sahlab is slightly thinner than the Turkish, about the texture of a thin custard.
 1. Whisk in the vanilla extract and rose water just before removing from heat.
 
 ### Stage 4 - Layer the toppings
@@ -73,5 +73,5 @@ Sahlab in Israel is a layered theatre as much as a drink - the hot milk base is 
 - **Vegan.** Replace the milk with oat milk; the texture is slightly different but works. Use maple syrup instead of vanilla extract.
 
 ## Storage
-- Best fresh. Keeps 1 day in the fridge; the texture thickens further as it cools, so thin with hot milk on reheating. Don't microwave - it can break the texture; reheat gently in a saucepan.
+- Best fresh. Keeps 1 day in the fridge; the texture thickens further as it cools, so thin with hot milk on reheating. Don't microwave, it can break the texture; reheat gently in a saucepan.
 - Toppings stored separately (sealed in small jars) keep indefinitely.

@@ -50,8 +50,8 @@ ingredients:
     name: nutmeg
     raw: Pinch of grated nutmeg
   - qty: 4
-    name: smoked sausages - about 600 g total
-    raw: 4 good smoked sausages - about 600 g total
+    name: "smoked sausages : about 600 g total"
+    raw: "4 good smoked sausages : about 600 g total"
   - qty: 200
     unit: g
     name: smoked bacon lardons

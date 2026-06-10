@@ -69,12 +69,12 @@ Black bun is one of Scotland's most uniquely structured cakes: a very dense, alm
 
 ### Stage 3 - Make the cake batter
 1. In a large bowl, cream the butter and brown sugar for 5 minutes till pale and fluffy.
-2. Add the eggs one at a time, beating well after each addition (it may look curdled - that's fine).
+2. Add the eggs one at a time, beating well after each addition (it may look curdled, that's fine).
 3. Stir in the black treacle and marmalade.
 4. Sift the flour, spices, and salt over the mixture.
 5. Add the soaked fruit (with all its juice).
 6. Fold in gently till everything is evenly combined.
-7. The mixture will be VERY dense - almost solid with fruit. That's correct.
+7. The mixture will be VERY dense, almost solid with fruit. That's correct.
 
 ### Stage 4 - Prep the tin
 1. Line a deep 20 cm round cake tin with parchment (bottom and sides; sides 5 cm above rim).
@@ -129,12 +129,12 @@ Black bun is one of Scotland's most uniquely structured cakes: a very dense, alm
 - **Feed with whisky:** every 4-5 days, prick and drizzle. This is what gives black bun its almost-treacly intensity.
 
 ## Variations
-**With brandy or rum:** swap the whisky for brandy or dark rum - less traditional but excellent.
+**With brandy or rum:** swap the whisky for brandy or dark rum, less traditional but excellent.
 **Vegan black bun:** replace butter with vegan baking block; replace eggs with 4 tablespoons milled flaxseed + 12 tablespoons water; otherwise identical.
-**Mini black buns:** make in 6-8 small dariole moulds - individual New Year's portions.
+**Mini black buns:** make in 6-8 small dariole moulds, individual New Year's portions.
 **Gluten-free black bun:** use gluten-free plain flour + ½ teaspoon xanthan gum; the pastry handling is harder but works.
-**Heavier on the dates:** add 200 g chopped dates to the fruit - modern, sweeter.
-**With ground almonds in batter:** add 100 g ground almonds to the cake batter - richer crumb.
+**Heavier on the dates:** add 200 g chopped dates to the fruit, modern, sweeter.
+**With ground almonds in batter:** add 100 g ground almonds to the cake batter, richer crumb.
 
 ## Serving
 On Hogmanay (New Year's Eve) and through the first week of January (the traditional Scottish New Year window) · brought as a first-footer's gift just after midnight on January 1st · with a small glass of single-malt Scotch · alongside a cup of strong tea on New Year's Day · at a Scottish family New Year's lunch · at a Burns Night supper as the after-coffee biscuit (less common but valid).

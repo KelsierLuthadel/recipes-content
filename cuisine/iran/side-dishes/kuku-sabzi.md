@@ -20,7 +20,7 @@ Kuku sabzi is the Persian herb frittata of Nowruz (Persian New Year): a deep-gre
 - 50 g fresh chives (or spring onion greens)
 - 50 g fresh dill
 - 30 g fresh fenugreek leaves (or 1 tablespoon dried)
-- 1 leek (medium, white and pale green only - finely sliced)
+- 1 leek (medium, white and pale green only, finely sliced)
 - 8 eggs (large)
 - 3 tablespoons plain flour
 - 1 teaspoon baking powder
@@ -28,7 +28,7 @@ Kuku sabzi is the Persian herb frittata of Nowruz (Persian New Year): a deep-gre
 - 1 ½ teaspoons salt
 - 1 teaspoon ground black pepper
 - 50 g walnut halves (lightly toasted, chopped)
-- 3 tablespoons dried barberries (zereshk - rinsed; or substitute dried cranberries chopped fine)
+- 3 tablespoons dried barberries (zereshk, rinsed; or substitute dried cranberries chopped fine)
 - 4 tablespoons olive oil (split)
 
 ### To serve
@@ -72,4 +72,4 @@ Kuku sabzi is the Persian herb frittata of Nowruz (Persian New Year): a deep-gre
 
 ## Storage
 - Refrigerate 4 days. Travels well in a sandwich.
-- Doesn't freeze well - egg texture goes off.
+- Doesn't freeze well, egg texture goes off.

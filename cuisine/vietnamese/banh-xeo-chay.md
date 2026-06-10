@@ -77,7 +77,7 @@ Bánh xèo chay is the vegetarian version of Vietnam's "sizzling pancake": a cri
 1. Each diner: tear off a piece of pancake, wrap in a lettuce leaf with a sprig of each herb, dip and eat.
 
 ## Notes
-- **Hot pan, thin batter:** Bánh xèo's signature is crispy edges. Lukewarm pan or thick batter gives a soft pancake - wrong texture.
+- **Hot pan, thin batter:** Bánh xèo's signature is crispy edges. Lukewarm pan or thick batter gives a soft pancake, wrong texture.
 - **Beansprouts are added late:** They wilt slightly but should keep their crunch. Adding them with the batter makes them limp.
 - **Rice flour vs glutinous rice flour:** Use plain rice flour (not glutinous/sticky rice flour). The cornflour helps the crisp.
 

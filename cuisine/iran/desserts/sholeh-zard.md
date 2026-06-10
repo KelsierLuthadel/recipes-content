@@ -38,7 +38,7 @@ Sholeh zard is the Persian saffron rice pudding, a luminous yellow set pudding s
 
 ### Stage 2 - Sweeten and saffron
 1. Add the sugar and the saffron-water; stir well.
-1. Continue cooking 25-30 minutes more, stirring often, until the pudding is thick - when a spoon drawn through leaves a clear path that fills slowly.
+1. Continue cooking 25-30 minutes more, stirring often, until the pudding is thick, when a spoon drawn through leaves a clear path that fills slowly.
 
 ### Stage 3 - Finish
 1. Stir in the butter, rosewater and cardamom.
@@ -50,7 +50,7 @@ Sholeh zard is the Persian saffron rice pudding, a luminous yellow set pudding s
 1. Cool slightly; refrigerate at least 2 hours to set.
 
 ### Stage 5 - Decorate and serve
-1. Just before serving, dust the top with ground cinnamon - traditionally in patterns or stripes.
+1. Just before serving, dust the top with ground cinnamon, traditionally in patterns or stripes.
 1. Sprinkle pistachios and rose petals.
 1. Serve cold or at room temperature.
 

@@ -26,7 +26,7 @@ Ghriba is Morocco's almond shortbread, the cracked-snowy-topped biscuit that lan
 
 ### Coating
 - 150 g icing sugar (for rolling)
-- 50 g whole almonds (optional - pressed onto each ball as a topper)
+- 50 g whole almonds (optional, pressed onto each ball as a topper)
 
 ## Method
 
@@ -44,14 +44,14 @@ Ghriba is Morocco's almond shortbread, the cracked-snowy-topped biscuit that lan
 1. Line two baking trays with parchment.
 1. Spread the 150 g icing sugar on a wide plate.
 1. Pinch off walnut-sized portions (about 30 g each); roll between palms into smooth balls.
-1. Drop each ball into the icing sugar; roll to coat HEAVILY (not a dusting - a thick all-over snow).
+1. Drop each ball into the icing sugar; roll to coat HEAVILY (not a dusting, a thick all-over snow).
 1. Place on the trays, 4 cm apart.
 1. Optional: press a whole almond into the centre of each ball.
 
 ### Stage 4 - Bake
 1. Bake 12-15 minutes.
 1. The cookies will spread slightly; the icing sugar coat will crack as the cookies expand; the surface should look like a fissured snowball.
-1. DON'T let them brown - pale is the goal.
+1. DON'T let them brown, pale is the goal.
 
 ### Stage 5 - Cool
 1. Cool on the tray 5 minutes (they're fragile straight from the oven).
@@ -65,6 +65,6 @@ Ghriba is Morocco's almond shortbread, the cracked-snowy-topped biscuit that lan
 
 ## Storage
 - Keeps 2 weeks in a sealed tin at room temperature.
-- The texture softens slightly over the first 24 hours - actually improves.
-- Doesn't refrigerate well - the sugar coat goes damp.
+- The texture softens slightly over the first 24 hours, actually improves.
+- Doesn't refrigerate well, the sugar coat goes damp.
 - Freezes baked 2 months; re-dust with icing sugar after thawing.

@@ -38,7 +38,7 @@ Sinigang is the Filipino sour soup, a brothy stew built on the puckering acidity
 1. Cover loosely and cook 40 minutes until the pork is tender.
 
 ### Stage 2 - Add tamarind
-1. Stir in the tamarind paste (or sinigang mix); taste - the broth should be assertively sour.
+1. Stir in the tamarind paste (or sinigang mix); taste, the broth should be assertively sour.
 1. Add fish sauce; adjust if needed.
 
 ### Stage 3 - Vegetables

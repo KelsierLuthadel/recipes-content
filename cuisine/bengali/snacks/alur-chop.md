@@ -71,7 +71,7 @@ Alur chop (alu meaning potato, chop a Bengali loan-word for a fried cutlet, inhe
 
 ### Stage 4 - Batter
 1. Whisk the chickpea flour, rice flour, nigella seeds, turmeric, chilli powder, baking soda and salt in a bowl.
-1. Whisk in the cold water gradually until the batter is smooth and the consistency of thick double cream - it should fully coat a chop without dripping in sheets.
+1. Whisk in the cold water gradually until the batter is smooth and the consistency of thick double cream, it should fully coat a chop without dripping in sheets.
 
 ### Stage 5 - Fry
 1. Heat the frying oil in a karahi or deep pan to 180 C. If using mustard oil, bring it to smoking first then reduce the heat to take off the raw edge.

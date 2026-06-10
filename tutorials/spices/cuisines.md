@@ -2,7 +2,7 @@
 
 ![A world of spices](resources/cuisines.jpg)
 
-*Every cuisine has a spice fingerprint - a small set of recurring aromas that you can taste through a hundred dishes. Recognising the fingerprint lets you place a dish, and helps you reach for the right additions in your own cooking.*
+*Every cuisine has a spice fingerprint, a small set of recurring aromas that you can taste through a hundred dishes. Recognising the fingerprint lets you place a dish, and helps you reach for the right additions in your own cooking.*
 
 ## Overview
 This lesson is a quick reference. Each section gives a cuisine's signature aromatic profile, the workhorse spices it relies on, the spice mix that most defines it, and a sentence about how the spice base is built into the cooking method. The patterns are easier to remember when you taste them; cook your way through one or two dishes per cuisine and the fingerprints become instantly recognisable.
@@ -21,7 +21,7 @@ A note on what is omitted. Many great cuisines (Argentinian, Brazilian, Korean, 
 
 **Signature aromatics:** Galangal, lemongrass, kaffir lime leaf, Thai basil, chilli, garlic, shrimp paste, fish sauce.
 
-**Hero blend:** Curry pastes - red, green, yellow, massaman, panang. These are not dry spice mixes but wet pastes pounded from fresh aromatics (galangal, lemongrass, lime, shrimp paste, dried chilli, garlic, coriander root, white peppercorn).
+**Hero blend:** Curry pastes, red, green, yellow, massaman, panang. These are not dry spice mixes but wet pastes pounded from fresh aromatics (galangal, lemongrass, lime, shrimp paste, dried chilli, garlic, coriander root, white peppercorn).
 
 **Method:** Thai cooking leans on fresh aromatics rather than dry spice. The dry spice that does appear (cumin, coriander seed in some curries; white pepper; star anise in northern dishes) plays a supporting role to the fresh galangal-lemongrass-lime triumvirate. See [Thai Curry](../thai-curry/thai-curry.md) for the worked technique.
 
@@ -53,9 +53,9 @@ A note on what is omitted. Many great cuisines (Argentinian, Brazilian, Korean, 
 
 **Signature aromatics:** Fish sauce, lime, chilli, mint, Thai basil, sawtooth coriander, lemongrass, star anise (in pho), cinnamon (in pho), ginger.
 
-**Hero blend:** Pho broth seasoning - star anise, cinnamon, cloves, cardamom pods, coriander seed, fennel, charred ginger and onion. Plus the table herbs that finish every dish.
+**Hero blend:** Pho broth seasoning, star anise, cinnamon, cloves, cardamom pods, coriander seed, fennel, charred ginger and onion. Plus the table herbs that finish every dish.
 
-**Method:** Vietnamese cooking is the lightest of the South-East Asian cuisines on dry spice. The flavour profile comes from fresh herbs (table-loaded by the bowl), fish sauce, lime, sugar, chilli. Pho is the great exception - the broth is heavily spiced and slowly built.
+**Method:** Vietnamese cooking is the lightest of the South-East Asian cuisines on dry spice. The flavour profile comes from fresh herbs (table-loaded by the bowl), fish sauce, lime, sugar, chilli. Pho is the great exception, the broth is heavily spiced and slowly built.
 
 ## Middle Eastern (Levantine and Gulf)
 
@@ -111,7 +111,7 @@ A note on what is omitted. Many great cuisines (Argentinian, Brazilian, Korean, 
 
 **Hero blend:** No formal blend dominant. The "Italian spice" jar in supermarkets is an Anglo-American invention. Italian cooking uses individual herbs in characteristic combinations (basil with tomato; sage with butter; rosemary with lamb; fennel with pork).
 
-**Method:** Italian cooking is relatively spice-light. Fresh tomato, garlic, olive oil and herbs do most of the work; cured meats supply depth; dried chilli (peperoncino) gives a small heat. The exception is Sicilian and southern Italian cooking, which uses cumin, fennel seed, saffron and cinnamon in ways the rest of Italy does not - the legacy of Arab presence.
+**Method:** Italian cooking is relatively spice-light. Fresh tomato, garlic, olive oil and herbs do most of the work; cured meats supply depth; dried chilli (peperoncino) gives a small heat. The exception is Sicilian and southern Italian cooking, which uses cumin, fennel seed, saffron and cinnamon in ways the rest of Italy does not, the legacy of Arab presence.
 
 ## Cajun and Creole (Louisiana)
 

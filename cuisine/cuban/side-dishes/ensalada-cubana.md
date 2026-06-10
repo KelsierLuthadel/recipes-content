@@ -2,7 +2,7 @@
 
 ![Ensalada Cubana](resources/ensalada-cubana.jpg)
 
-*Cuba's simple salad: sliced ripe tomato, cucumber, white onion and avocado, dressed with olive oil, lime juice and a pinch of salt. The Cuban table standard - restrained, fresh, made in 5 minutes - that accompanies every main course alongside the rice and beans.*
+*Cuba's simple salad: sliced ripe tomato, cucumber, white onion and avocado, dressed with olive oil, lime juice and a pinch of salt. The Cuban table standard, restrained, fresh, made in 5 minutes, that accompanies every main course alongside the rice and beans.*
 
 **Serves:** 4
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Ensalada Cubana is Cuba's simple table salad and the traditional accompaniment to every Cuban main course: sliced ripe tomato, sliced cucumber, sliced raw white or red onion, sliced avocado, dressed with extra virgin olive oil, fresh lime juice, a pinch of salt and a touch of dried oregano. That's it. The salad is deliberately simple - no leaves, no dressing beyond oil-and-lime, no fancy components. The point is freshness and contrast against the rich heavy main courses (ropa vieja, lechón asado, picadillo, frijoles negros). The salad lives or dies by tomato quality; greenhouse winter tomatoes give bland results. Raw onion (red or white, thinly sliced) goes in straight; some Cuban cooks soak it briefly in cold water to mellow the sharpness, others leave it raw and assertive. Assembled at the last minute; don't pre-dress.
+Ensalada Cubana is Cuba's simple table salad and the traditional accompaniment to every Cuban main course: sliced ripe tomato, sliced cucumber, sliced raw white or red onion, sliced avocado, dressed with extra virgin olive oil, fresh lime juice, a pinch of salt and a touch of dried oregano. That's it. The salad is deliberately simple, no leaves, no dressing beyond oil-and-lime, no fancy components. The point is freshness and contrast against the rich heavy main courses (ropa vieja, lechón asado, picadillo, frijoles negros). The salad lives or dies by tomato quality; greenhouse winter tomatoes give bland results. Raw onion (red or white, thinly sliced) goes in straight; some Cuban cooks soak it briefly in cold water to mellow the sharpness, others leave it raw and assertive. Assembled at the last minute; don't pre-dress.
 
 ## Ingredients
 

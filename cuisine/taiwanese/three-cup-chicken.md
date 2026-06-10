@@ -40,7 +40,7 @@ Three-cup chicken (san bei ji) takes its name from the original three cups of eq
 
 ### Stage 1 - Prep
 1. Pat the chicken pieces dry with kitchen paper. Season lightly with white pepper.
-2. Have all aromatics and sauce ingredients measured and to hand - the cook is fast once it starts.
+2. Have all aromatics and sauce ingredients measured and to hand, the cook is fast once it starts.
 
 ### Stage 2 - Fry the aromatics
 1. Heat the sesame oil in a wok or heavy casserole over medium heat. The oil should shimmer but not smoke; sesame oil burns easily.
@@ -59,7 +59,7 @@ Three-cup chicken (san bei ji) takes its name from the original three cups of eq
 
 ### Stage 5 - The basil finish
 1. Off the heat, throw in the Thai basil all at once.
-2. Toss vigorously for 20-30 seconds - the basil should wilt in the residual heat but stay vivid green.
+2. Toss vigorously for 20-30 seconds, the basil should wilt in the residual heat but stay vivid green.
 3. Tip straight onto a warm platter or into a small clay pot.
 4. Serve at once with steamed jasmine rice.
 
@@ -72,7 +72,7 @@ Three-cup chicken (san bei ji) takes its name from the original three cups of eq
 
 ## Variations
 **Three-cup mushroom:** Replace chicken with 600 g mixed king oyster and shiitake mushrooms, halved. Reduce cook time to 12-15 minutes total.
-**Three-cup squid:** A coastal variation - quick-fry cleaned squid tubes in place of chicken; total cook 6-8 minutes only or the squid turns rubbery.
+**Three-cup squid:** A coastal variation, quick-fry cleaned squid tubes in place of chicken; total cook 6-8 minutes only or the squid turns rubbery.
 
 ## Serving
 Serve with: steamed jasmine rice, a simple stir-fried green like garlic water spinach, and a cold beer.

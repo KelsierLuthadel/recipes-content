@@ -44,11 +44,11 @@ The thick, soft flatbread that turns up on every Saudi table: the bread you tear
 
 ### Stage 4 - Bake
 1. Slide breads onto the hot stone using a peel or back of a tray (2 at a time).
-1. Bake 3-4 minutes - the bottom should be deep gold and the top should puff and blister.
+1. Bake 3-4 minutes, the bottom should be deep gold and the top should puff and blister.
 1. If your oven has a grill, hit the top with 60 seconds under the grill to colour the surface.
 
 ### Stage 5 - Stack
-1. Stack the breads under a clean tea towel as they come out - the steam keeps them soft.
+1. Stack the breads under a clean tea towel as they come out, the steam keeps them soft.
 
 ### Stage 6 - Serve
 1. Eat warm. They keep all day in a tea towel; reheat in a dry pan or 200°C oven.

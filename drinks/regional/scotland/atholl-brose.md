@@ -16,10 +16,10 @@ Atholl Brose is Scotland's most ancient and most distinctively Scottish whisky-b
 ## Ingredients
 
 ### Atholl Brose (the traditional version)
-- 100 g medium oatmeal (also called "fine pinhead oatmeal"; Scott's Porage Oats are too rolled - use Hamlyn's or Scotts Steel Cut)
+- 100 g medium oatmeal (also called "fine pinhead oatmeal"; Scott's Porage Oats are too rolled, use Hamlyn's or Scotts Steel Cut)
 - 600 ml cold water
 - 6 tablespoons heather honey (or any good runny honey)
-- 250 ml single-malt Scotch whisky (Highland or Speyside; not Islay - too peated)
+- 250 ml single-malt Scotch whisky (Highland or Speyside; not Islay, too peated)
 - 4 small thick whisky glasses or small tumblers
 
 ### Atholl Brose (the rich modern version)
@@ -78,12 +78,12 @@ Atholl Brose is Scotland's most ancient and most distinctively Scottish whisky-b
 
 ## Variations
 **Traditional Atholl Brose (no cream):** as above without the cream. Lighter, more whisky-forward.
-**Rich Atholl Brose (with cream):** as above with the double cream. The "after-dinner Atholl Brose" - richer, more dessert-like.
-**Crannachan-cross Atholl Brose:** stir in 2 tablespoons fresh raspberries (lightly crushed) - the Atholl-Brose-meets-cranachan variant.
+**Rich Atholl Brose (with cream):** as above with the double cream. The "after-dinner Atholl Brose", richer, more dessert-like.
+**Crannachan-cross Atholl Brose:** stir in 2 tablespoons fresh raspberries (lightly crushed): the Atholl-Brose-meets-cranachan variant.
 **Whisky-free version:** swap the Scotch for an additional 100 ml apple juice + an extra tablespoon of honey. Children-and-non-drinkers version.
 **Honey-and-cream-only:** skip the whisky for a non-alcoholic but still authentic Highland version.
 **With added oatcake crumbs:** crumble a toasted oatcake into each glass for extra texture.
-**Atholl Brose as a sauce:** thicker (less water, more cream) - pour over Christmas pudding or steamed pudding.
+**Atholl Brose as a sauce:** thicker (less water, more cream): pour over Christmas pudding or steamed pudding.
 
 ## Serving
 At a Burns Night supper as an after-dinner drink alongside or instead of cranachan (the traditional setting) · at a Scottish wedding reception's "tartan" cocktail bar · at a Highland hunting-lodge dinner · at a Scottish New Year's Day brunch · at a Hogmanay first-footing visit · as a Scottish home Christmas-Day toast · at the end of a long Highland country-house weekend.

@@ -39,7 +39,7 @@ Sri Lankan chicken curry is the dish that turns up at the centre of every rice-a
 - 2 teaspoons sweet paprika
 - 1-2 long green chillies (slit lengthwise)
 - 1 tablespoon Maldive fish flakes (or fish sauce; optional)
-- 400 ml tin coconut milk (separated into thick and thin - see method)
+- 400 ml tin coconut milk (separated into thick and thin, see method)
 - 200 ml chicken stock (or water)
 - 2 teaspoons salt (or to taste)
 - ½ lime (juice)
@@ -57,7 +57,7 @@ Sri Lankan chicken curry is the dish that turns up at the centre of every rice-a
 1. Add the garlic, ginger, curry leaves, pandan, lemongrass and cinnamon stick; cook 1-2 minutes until aromatic.
 
 ### Stage 3 - Bloom
-1. Add the toasted curry powder, turmeric and paprika; stir 30 seconds - the oil should turn deep red.
+1. Add the toasted curry powder, turmeric and paprika; stir 30 seconds, the oil should turn deep red.
 1. Add the chicken; toss to coat thoroughly.
 
 ### Stage 4 - Simmer
@@ -74,7 +74,7 @@ Sri Lankan chicken curry is the dish that turns up at the centre of every rice-a
 1. Serve with steamed rice, pol sambol, and a coconut-milk vegetable curry alongside.
 
 ## Notes
-- **Toasting matters:** Sri Lankan curry powder (kalu pothu) is unusually dark - the curry's mahogany colour and roasted depth come from this. Untoasted, it tastes plain.
+- **Toasting matters:** Sri Lankan curry powder (kalu pothu) is unusually dark, the curry's mahogany colour and roasted depth come from this. Untoasted, it tastes plain.
 - **Maldive fish flakes (umbalakada):** Sun-dried, smoked tuna; gives the umami kick. Fish sauce is the next-best substitute. Skip for vegetarian / pescatarian reasons.
 - **Pandan and curry leaves:** Both are non-negotiable for the proper aroma. Available frozen at Asian grocers.
 

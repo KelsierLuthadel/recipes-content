@@ -26,7 +26,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 - 1 thin slice fresh ginger (5 mm thick, optional)
 - 4-5 tablespoons soft dark brown sugar (or to taste; less if you prefer drier; more for sweeter)
 - (Optional: 1 vanilla pod, split lengthwise)
-- (Optional: 60 ml dark rum or brandy added at the end for extra warmth - the traditional Sinterklaas adult variant)
+- (Optional: 60 ml dark rum or brandy added at the end for extra warmth, the traditional Sinterklaas adult variant)
 
 ### To finish (per mug)
 - A small slice of fresh orange, floated on top
@@ -42,17 +42,17 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 ## Method
 
 ### Stage 1 - Prepare the citrus peel
-1. With a vegetable peeler, take long thin strips of zest from the orange (avoid the white pith - it's bitter).
+1. With a vegetable peeler, take long thin strips of zest from the orange (avoid the white pith, it's bitter).
 2. Repeat with the lemon.
 3. You should have about 6-8 long strips of orange zest and 4-6 of lemon zest.
 4. Juice the orange; reserve the juice (about 80 ml).
 
 ### Stage 2 - Lightly crush the spices
 1. Place the star anise and cardamom pods on a board.
-2. Press firmly with the flat of a knife - the pods should crack open without pulverising.
+2. Press firmly with the flat of a knife, the pods should crack open without pulverising.
 
 ### Stage 3 - Build the bisschopswijn
-1. Pour the red wine into a heavy saucepan (use a non-reactive pan - stainless steel or enamelled cast iron; aluminium reacts with the wine acids and gives a metallic taste).
+1. Pour the red wine into a heavy saucepan (use a non-reactive pan, stainless steel or enamelled cast iron; aluminium reacts with the wine acids and gives a metallic taste).
 2. Add the orange and lemon peel strips.
 3. Add the cinnamon stick, cloves, crushed star anise, crushed cardamom, slice of ginger.
 4. (If using the optional vanilla pod, add now.)
@@ -61,7 +61,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 
 ### Stage 4 - The slow warm (this is the key)
 1. Place over medium-low heat.
-2. Warm slowly 15-20 minutes till the temperature reaches 80-85°C - small bubbles forming around the edge but NOT actively boiling.
+2. Warm slowly 15-20 minutes till the temperature reaches 80-85°C, small bubbles forming around the edge but NOT actively boiling.
 3. Do NOT let it boil. If you see bubbles rising rapidly, take off the heat immediately and let it sit 2 minutes before returning to a lower heat.
 4. The kitchen will fill with the smell of warm spice and citrus; the wine darkens slightly; the sugar dissolves.
 
@@ -75,7 +75,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 ### Stage 7 - Strain and serve
 1. Pre-warm 6 small ceramic mugs with hot water; tip out.
 2. Pour the bisschopswijn through a fine sieve into a clean warm jug.
-3. Pour into the warm mugs - about 200 ml each.
+3. Pour into the warm mugs, about 200 ml each.
 4. Float a fresh slice of orange on top of each mug.
 5. Place a small cinnamon stick in each as a stirrer (optional).
 6. Hand out warm.
@@ -83,7 +83,7 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 ### Stage 8 - The Dutch ritual
 1. Place a small plate of speculaas biscuits, pepernoten or taai-taai cookies in the centre of the table.
 2. Sip the bisschopswijn slowly; the aroma rises with the steam.
-3. The drink is meant to last 15-20 minutes of an evening - refill once or twice.
+3. The drink is meant to last 15-20 minutes of an evening, refill once or twice.
 4. The traditional Dutch winter evening: a Christmas Eve dinner finished, the candles lit, the bisschopswijn warm, the company unhurried.
 
 ## Notes
@@ -95,24 +95,24 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 - **Better in batches throughout the evening:** Dutch tradition is to keep a small saucepan of bisschopswijn warm on the lowest heat throughout a Sinterklaas evening, refilling guests' mugs as the evening progresses.
 
 ## Variations
-**Bisschopswijn with raisins (the older tradition):** add 100 g raisins to the steep; the raisins absorb wine and become a small treat eaten with a spoon from the bottom of the mug - the historical 19th-century Dutch variant.
-**Bisschopswijn with apple:** add 1 chopped apple (Bramley or Granny Smith) to the steep - more autumn-fruit-forward.
-**White bisschopswijn (modern):** swap red wine for a sturdy white (Riesling, dry Tokaji); reduce the cinnamon; add more cardamom and ginger - the modern Dutch tea-room variant.
-**Brandy-fortified bisschopswijn (traditional Sinterklaas):** add 60 ml brandy or dark rum at the end - the traditional adult drink.
-**Mulled cider variant (cidersbisschopswijn):** swap the red wine for sturdy cider; the same spices and citrus - the Dutch cider-region variant.
+**Bisschopswijn with raisins (the older tradition):** add 100 g raisins to the steep; the raisins absorb wine and become a small treat eaten with a spoon from the bottom of the mug, the historical 19th-century Dutch variant.
+**Bisschopswijn with apple:** add 1 chopped apple (Bramley or Granny Smith) to the steep, more autumn-fruit-forward.
+**White bisschopswijn (modern):** swap red wine for a sturdy white (Riesling, dry Tokaji); reduce the cinnamon; add more cardamom and ginger, the modern Dutch tea-room variant.
+**Brandy-fortified bisschopswijn (traditional Sinterklaas):** add 60 ml brandy or dark rum at the end, the traditional adult drink.
+**Mulled cider variant (cidersbisschopswijn):** swap the red wine for sturdy cider; the same spices and citrus, the Dutch cider-region variant.
 **Quick weeknight bisschopswijn:** use a pre-made mulling-spice bag; warm with red wine, orange juice and brown sugar for 8 minutes - 10 minutes total.
 **Glühwein (German cousin):** less citrus peel, more cinnamon and clove; usually no cardamom; sometimes a slice of fresh ginger. The German version.
 **Vin chaud (French cousin):** less spice, more citrus, often with a star anise floating in each glass; the French Alpine version.
 **Wassail (English Christmas cousin):** with cider AND red wine + roasted apples + spices; the English Christmas Eve drink.
-**Non-alcoholic bisschopswijn:** swap the red wine for 750 ml of unsweetened pomegranate juice + 250 ml of red grape juice; same spices and citrus - works surprisingly well.
+**Non-alcoholic bisschopswijn:** swap the red wine for 750 ml of unsweetened pomegranate juice + 250 ml of red grape juice; same spices and citrus, works surprisingly well.
 
 ## Serving
 At a Dutch Sinterklaas (5 December) family gathering (the traditional setting) · at a Dutch Christmas Eve dinner · at an Amsterdam Christmas market hot-drink stall · at a Dutch ice-skating festival shelter · at a Dutch winter family Sunday lunch · at a Dutch sledding-and-return-home ritual · at home as the traditional December evening drink · paired with speculaas, pepernoten, taai-taai, gingerbread, or a small chunk of mature Dutch cheese.
 
 ## Storage
 - Refrigerates 3 days; reheats well on the stovetop (don't boil).
-- The flavours marry overnight - day-2 bisschopswijn is often better than fresh.
-- Don't reheat in the microwave - uneven heating creates hot spots.
+- The flavours marry overnight, day-2 bisschopswijn is often better than fresh.
+- Don't reheat in the microwave, uneven heating creates hot spots.
 - The whole spices (cinnamon stick, cloves, star anise, cardamom) can be re-used once for a lighter second batch.
-- Pre-mixed "bisschopswijn spice sachets" (cinnamon stick + 4 cloves + 2 star anise + 4 cardamom + ginger slice + dried orange zest, all in a small muslin bag) are sold in Dutch supermarkets in December - convenient for fast weekday warmth.
-- Don't freeze - the texture changes irreversibly; the cooked-wine notes intensify.
+- Pre-mixed "bisschopswijn spice sachets" (cinnamon stick + 4 cloves + 2 star anise + 4 cardamom + ginger slice + dried orange zest, all in a small muslin bag) are sold in Dutch supermarkets in December, convenient for fast weekday warmth.
+- Don't freeze, the texture changes irreversibly; the cooked-wine notes intensify.

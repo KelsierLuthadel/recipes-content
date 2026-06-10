@@ -82,7 +82,7 @@ Sernik is the Polish Easter cheesecake (and Christmas Eve, and every birthday in
 3. Slice with a hot, dry knife (dip in hot water, wipe, slice; repeat).
 
 ## Notes
-- **Twaróg is the critical ingredient:** Polish farmer's curd cheese - dry, tangy, slightly grainy. The closest substitute is full-fat cottage cheese, drained for an hour through muslin then pressed through a sieve. Ricotta is too wet without overnight draining. Quark is acceptable but thinner.
+- **Twaróg is the critical ingredient:** Polish farmer's curd cheese, dry, tangy, slightly grainy. The closest substitute is full-fat cottage cheese, drained for an hour through muslin then pressed through a sieve. Ricotta is too wet without overnight draining. Quark is acceptable but thinner.
 - **Slow cool prevents cracks:** Don't shortcut by pulling the cake out at the end. The temperature drop is what cracks the top.
 - **Next day is better:** Sernik genuinely improves on day two. Make ahead.
 

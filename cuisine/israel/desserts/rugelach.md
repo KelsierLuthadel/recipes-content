@@ -40,7 +40,7 @@ Rugelach are the Jewish-Polish rolled cookies, cream-cheese shortcrust wrapped a
 ### Stage 1 - Dough
 1. In a stand mixer or with electric beaters, beat the cold butter and cream cheese until just combined (4-5 minutes on medium).
 1. Add the sugar, salt and vanilla; beat briefly.
-1. Add the flour all at once; mix on low until a dough comes together (don't overmix - toughens).
+1. Add the flour all at once; mix on low until a dough comes together (don't overmix, toughens).
 1. Tip out; divide into 4 equal portions.
 1. Flatten each portion into a 12 cm disc; wrap in cling film.
 1. Chill at least 2 hours (overnight is better).

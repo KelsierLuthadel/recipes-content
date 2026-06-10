@@ -58,7 +58,7 @@ A Full English is a coordination exercise more than a recipe. You're cooking eig
 ### Stage 4 - Beans, fried bread, eggs
 1. Tip the baked beans into a small saucepan and warm through over low heat. Don't boil; just hot.
 1. Add the butter to the frying pan. When it foams, lay in the bread slices. Fry 90 seconds per side until golden and shatteringly crisp. Move to the warming plate.
-1. Crack the eggs straight into the same pan. The fat should be at a medium heat - sizzling but not smoking. Spoon the hot fat over the whites for 30 seconds so they set without overcooking the yolks. Lift out when the whites are just firm and the yolks still trembling.
+1. Crack the eggs straight into the same pan. The fat should be at a medium heat, sizzling but not smoking. Spoon the hot fat over the whites for 30 seconds so they set without overcooking the yolks. Lift out when the whites are just firm and the yolks still trembling.
 
 ### Stage 5 - Plate
 1. Pull everything from the oven. Plate each portion with a sausage and a half tomato up top, bacon and black pudding behind the egg, fried bread tucked under, a small heap of chips on the side, and the beans in a small ramekin or in a corner of the plate (to stop the sauce from soaking the bread).
@@ -68,7 +68,7 @@ A Full English is a coordination exercise more than a recipe. You're cooking eig
 - A Full English lives or dies on timing. Read the whole method through before you start and have every ingredient out and prepped. The cooking itself takes about 35 minutes; the prep step keeps you from juggling tin openers mid-fry.
 - A second pan in parallel cuts the total time considerably. If you have one, run the chips and sausages on the larger pan, the bacon/black pudding/tomato/eggs on the second.
 - Bacon fat is the soul of the dish; don't drain the pan between stages. Each item should sit briefly in the previous one's rendered fat.
-- Streaky bacon works in place of back if that's what's in the fridge - it'll just curl tighter and crisp faster.
+- Streaky bacon works in place of back if that's what's in the fridge, it'll just curl tighter and crisp faster.
 - Mushrooms are a traditional addition many cooks include. Halve a handful of chestnut mushrooms and fry in butter alongside the tomatoes if you want them.
 
 ## Serving

@@ -16,7 +16,7 @@ American baked beans are the slow-cooked, smoky-sweet pot that lands beside ever
 ## Ingredients
 
 - 400 g dried navy beans (or haricot, soaked 12 hours, drained)
-- 200 g smoked streaky bacon (or pancetta - cut into 1 cm pieces)
+- 200 g smoked streaky bacon (or pancetta, cut into 1 cm pieces)
 - 1 onion (large, chopped)
 - 4 tablespoons molasses (blackstrap if you have it; black treacle works)
 - 4 tablespoons tomato puree
@@ -43,13 +43,13 @@ American baked beans are the slow-cooked, smoky-sweet pot that lands beside ever
 
 ### Stage 3 - Sauce
 1. Stir in molasses, tomato puree, brown sugar, vinegar, mustard, Worcestershire, paprika, salt, pepper.
-1. Add the par-cooked beans; pour over the hot stock (and reserved bean liquor if needed) - the beans should be just covered.
+1. Add the par-cooked beans; pour over the hot stock (and reserved bean liquor if needed): the beans should be just covered.
 1. Bring to a simmer.
 
 ### Stage 4 - Bake
 1. Cover with the lid; transfer to the oven.
 1. Bake 2 hours 30 minutes. Check every 45 minutes; top up with hot stock if the beans are uncovered.
-1. Uncover; bake 30 minutes more - the sauce reduces to a glaze; the top crisps lightly.
+1. Uncover; bake 30 minutes more, the sauce reduces to a glaze; the top crisps lightly.
 
 ### Stage 5 - Rest and serve
 1. Rest 10 minutes. Sauce thickens as it sits.

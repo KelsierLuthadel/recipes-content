@@ -24,7 +24,7 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 - 3 large shallots, finely chopped
 - 2 stalks celery (the inner pale ones), finely diced
 - 4 cloves garlic, finely chopped
-- 1 small bunch fresh flat-leaf parsley (about 20 g) - stalks chopped fine, leaves chopped and reserved for finishing
+- 1 small bunch fresh flat-leaf parsley (about 20 g): stalks chopped fine, leaves chopped and reserved for finishing
 - 250 ml dry white wine (Muscadet, Sauvignon Blanc, or a Belgian-style witbier for the bière variant)
 - 1 bay leaf
 - Black pepper
@@ -34,7 +34,7 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 - Reserved chopped parsley leaves
 
 ### To serve
-- 1 batch Belgian frites (see [Belgian frites](side-dishes/belgian-frites.md)) - twice-fried in beef tallow ideally
+- 1 batch Belgian frites (see [Belgian frites](side-dishes/belgian-frites.md)): twice-fried in beef tallow ideally
 - 1 small bowl mayonnaise (homemade or Hellmann's; never ketchup)
 - 1 lemon, cut into wedges
 - 4 small bowls for empty shells (or use the pot lid)
@@ -70,14 +70,14 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 2. Use a slotted spoon to transfer most of the mussels to 4 warmed bowls, leaving the broth in the pot.
 3. Discard any mussels that haven't opened (they were dead before cooking).
 4. Reduce the broth in the pot over high heat for 30 seconds.
-5. Whisk in the cold butter cubes, one at a time, off the heat - this gives the broth a glossy emulsion.
+5. Whisk in the cold butter cubes, one at a time, off the heat, this gives the broth a glossy emulsion.
 6. Stir in the reserved chopped parsley.
 
 ### Stage 6 - Serve
 1. Ladle the buttery broth generously over the mussels.
 2. Place a paper cone of Belgian frites alongside each plate.
 3. Set the mayonnaise on the table; cut the lemon into wedges.
-4. Provide a bowl for the empty shells (or use the pot lid - the traditional Belgian way).
+4. Provide a bowl for the empty shells (or use the pot lid, the traditional Belgian way).
 5. Eat the mussels with the help of an empty shell as tongs. Soak up the broth at the end with the last of the frites.
 
 ## Notes
@@ -86,23 +86,23 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 - **Don't overcook:** mussel flesh goes rubbery after 7-8 minutes. The first ones to open are the best ones.
 - **The frites must be twice-fried:** Belgian frites are double-fried in beef tallow. Once is a French fry; twice is a Belgian frite.
 - **Mayonnaise, not ketchup:** Belgians dip their frites in mayo. Don't argue.
-- **Eat with empty shells:** the traditional Belgian technique - use a hinged empty shell as tongs to extract the next mussel. Faster, more elegant, no fork needed.
+- **Eat with empty shells:** the traditional Belgian technique, use a hinged empty shell as tongs to extract the next mussel. Faster, more elegant, no fork needed.
 - **Don't try to wash the pot mid-cook:** the broth and the juice from the mussels are what makes the dish.
 
 ## Variations
-**Moules à la crème:** add 100 ml double cream to the broth in stage 5 - the Brussels variant.
-**Moules à la bière (Belgian beer):** swap the white wine for a Belgian witbier (Hoegaarden) - sweeter, more fragrant.
+**Moules à la crème:** add 100 ml double cream to the broth in stage 5, the Brussels variant.
+**Moules à la bière (Belgian beer):** swap the white wine for a Belgian witbier (Hoegaarden): sweeter, more fragrant.
 **Moules à l'ail (garlic):** double the garlic and add a teaspoon of finely chopped chilli.
-**Moules au curry (Belgian):** add 1 teaspoon of curry powder to the shallots in stage 2 - the Brussels-Indian fusion version.
-**Moules au Roquefort:** crumble 80 g Roquefort cheese into the broth in stage 5 - blue-cheese variant.
-**Moules à la provençale:** add a tin of chopped tomatoes and a pinch of Espelette pepper - the southern French take.
+**Moules au curry (Belgian):** add 1 teaspoon of curry powder to the shallots in stage 2, the Brussels-Indian fusion version.
+**Moules au Roquefort:** crumble 80 g Roquefort cheese into the broth in stage 5, blue-cheese variant.
+**Moules à la provençale:** add a tin of chopped tomatoes and a pinch of Espelette pepper, the southern French take.
 **Moules nature:** no broth; just the mussels steamed in their own juice with butter and parsley.
 
 ## Serving
 At a Brussels brasserie or Belgian seaside café in Ostend or Knokke (the traditional setting) · at a Belgian summer terrace lunch · at a French-Belgian crossover brasserie · at a moules-frites festival (Bruges has an annual one) · at a Belgian Father's Day dinner · at home with a chilled Hoegaarden and a paper cone of frites.
 
 ## Storage
-- Cooked mussels do not keep - eat them within 30 minutes of cooking.
+- Cooked mussels do not keep, eat them within 30 minutes of cooking.
 - Leftover broth can be strained and refrigerated up to 2 days; use as a base for fish stew or soup.
-- Don't reheat cooked mussels - the flesh turns to rubber.
+- Don't reheat cooked mussels, the flesh turns to rubber.
 - Raw live mussels keep 2-3 days in the coldest part of the fridge in a damp tea towel (never in a sealed bag, never in water).

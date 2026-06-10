@@ -41,7 +41,7 @@ Flan de huevo is Spain's national pudding, the lighter-and-more-eggy cousin to t
 1. Bring to just-simmering; remove from heat; cover; infuse 15 minutes.
 
 ### Stage 3 - Custard
-1. In a wide bowl, whisk the 4 eggs and 2 extra yolks gently with the 100 g sugar - don't aerate (air bubbles spoil the surface).
+1. In a wide bowl, whisk the 4 eggs and 2 extra yolks gently with the 100 g sugar, don't aerate (air bubbles spoil the surface).
 1. Strain the warm infused milk through a fine sieve into the eggs, whisking continuously.
 1. Strain the whole mixture again through a fine sieve into a jug.
 
@@ -52,7 +52,7 @@ Flan de huevo is Spain's national pudding, the lighter-and-more-eggy cousin to t
 ### Stage 5 - Water bath bake
 1. Heat the oven to 150°C (130°C fan).
 1. Place ramekins in a deep baking dish; pour hot water around them halfway up the sides.
-1. Bake 40-45 minutes - the custards should be just set with a slight wobble in the centre.
+1. Bake 40-45 minutes, the custards should be just set with a slight wobble in the centre.
 1. Test with a knife inserted at the edge: should come out clean.
 
 ### Stage 6 - Cool and chill
@@ -74,4 +74,4 @@ Flan de huevo is Spain's national pudding, the lighter-and-more-eggy cousin to t
 ## Storage
 - Keeps 4 days refrigerated, covered.
 - Tastes best on day 2 as the caramel sets fully.
-- Doesn't freeze well - texture goes grainy.
+- Doesn't freeze well, texture goes grainy.

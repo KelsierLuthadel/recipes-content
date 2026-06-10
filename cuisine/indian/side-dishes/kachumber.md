@@ -52,4 +52,4 @@ The classic Indian table salad: a small uniform dice of cucumber, tomato, red on
 - **Chaat masala:** Adds the unmistakable Indian street-food tang from black salt, dried mango, cumin and ajwain. Optional but distinctive.
 
 ## Storage
-- Eat fresh. Doesn't keep - the vegetables go soft within hours.
+- Eat fresh. Doesn't keep, the vegetables go soft within hours.

@@ -58,7 +58,7 @@ Kadu bouranee is Afghanistan's sweet-and-savoury pumpkin dish: cubes of butternu
 
 ### Stage 5 - Plate
 1. Spoon pumpkin into a wide shallow dish.
-1. Top generously with the cold chaka - covering most of the surface.
+1. Top generously with the cold chaka, covering most of the surface.
 1. Sprinkle dried mint; drizzle olive oil.
 
 ### Stage 6 - Serve
@@ -66,9 +66,9 @@ Kadu bouranee is Afghanistan's sweet-and-savoury pumpkin dish: cubes of butternu
 
 ## Notes
 - **Sweet meets sour:** The combination is the dish. Tasting before adding the yogurt feels weirdly sweet; together it works.
-- **Pumpkin type:** Use a dense floury variety - kabocha, butternut, red kuri. Watery pumpkin (Halloween-type) collapses to mush.
+- **Pumpkin type:** Use a dense floury variety, kabocha, butternut, red kuri. Watery pumpkin (Halloween-type) collapses to mush.
 - **Don't oversweeten:** 2 tablespoons sugar is right; more pushes the dish into pudding territory.
 
 ## Storage
 - Pumpkin keeps 3 days refrigerated; reheat gently.
-- Plate freshly each time - don't store with yogurt on top.
+- Plate freshly each time, don't store with yogurt on top.

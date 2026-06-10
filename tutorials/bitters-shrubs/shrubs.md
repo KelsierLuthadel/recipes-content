@@ -38,7 +38,7 @@ The cold process gives a more aromatic, fresher shrub. The hot process is faster
 
 ### Method
 1. In a mason jar, combine the raspberries and sugar. Crush gently with the back of a spoon to break the fruit slightly.
-2. Cover loosely with cling film or a lid (don't seal tight - gases need to escape).
+2. Cover loosely with cling film or a lid (don't seal tight, gases need to escape).
 3. Let sit at room temperature for 24-48 hours. The sugar will draw out the raspberry juice; the mixture becomes a syrupy pink mass.
 4. Strain through a cheesecloth-lined sieve into a clean jar. Press the fruit to extract as much as possible. Discard the spent berries.
 5. Add the apple cider vinegar to the strained syrup. Stir thoroughly.
@@ -133,12 +133,12 @@ This is technically an oxymel (honey + vinegar + herbs) rather than a fruit shru
 
 Different vinegars give different shrubs:
 
-- **Apple cider vinegar** (raw, unfiltered) - the traditional. Slightly sweet, mellow, fruit-friendly. Use 90% of the time.
-- **White wine vinegar** - cleaner, lighter. Lets delicate fruits (strawberry, white peach) speak.
-- **Rice vinegar** - gentle, slightly sweet. Good for Asian-leaning shrubs (lychee, ginger, kaffir lime).
-- **Red wine vinegar** - assertive, bold. Use for stone-fruit shrubs (cherry, plum).
-- **Sherry vinegar / balsamic** - too assertive for most shrubs but excellent in small amounts for fig shrub or specific applications.
-- **Champagne vinegar** - delicate; for delicate fruit shrubs.
+- **Apple cider vinegar** (raw, unfiltered): the traditional. Slightly sweet, mellow, fruit-friendly. Use 90% of the time.
+- **White wine vinegar**: cleaner, lighter. Lets delicate fruits (strawberry, white peach) speak.
+- **Rice vinegar**: gentle, slightly sweet. Good for Asian-leaning shrubs (lychee, ginger, kaffir lime).
+- **Red wine vinegar**: assertive, bold. Use for stone-fruit shrubs (cherry, plum).
+- **Sherry vinegar / balsamic**: too assertive for most shrubs but excellent in small amounts for fig shrub or specific applications.
+- **Champagne vinegar**: delicate; for delicate fruit shrubs.
 
 ## Storage
 
@@ -148,10 +148,10 @@ Different vinegars give different shrubs:
 
 ## Common mistakes
 
-- **Boiling the cold-process shrub** - drives off the fresh fruit aromatics. Cold process is cold.
-- **Using too much vinegar** - overpowers the fruit. Stick to 1:1 vinegar-to-fruit-syrup ratio.
-- **Not enough sugar** - the resulting shrub is too tart to use in drinks. Aim for 75 g sugar per 100 g fruit.
-- **Using off-brand vinegar** - cheap vinegars taste of acetic acid only, not of fermented apple. Use decent vinegar.
+- **Boiling the cold-process shrub**: drives off the fresh fruit aromatics. Cold process is cold.
+- **Using too much vinegar**: overpowers the fruit. Stick to 1:1 vinegar-to-fruit-syrup ratio.
+- **Not enough sugar**: the resulting shrub is too tart to use in drinks. Aim for 75 g sugar per 100 g fruit.
+- **Using off-brand vinegar**: cheap vinegars taste of acetic acid only, not of fermented apple. Use decent vinegar.
 
 ## Shrub vs syrup
 

@@ -5,7 +5,7 @@
 *The single most rewarding vegetable technique. High oven, plenty of fat, plenty of salt, plenty of time. Roasted carrots, charred sprouts, blistered peppers, whole-roasted leeks. The technique that turns vegetables from a side dish into the centrepiece of the plate.*
 
 ## Overview
-Roasting concentrates flavour. The dry heat of a hot oven drives off surface moisture, allowing the vegetable's natural sugars to caramelise on contact with the hot pan and the surrounding hot air. The Maillard browning - the same reaction that browns a steak or a bread crust - happens on the vegetable surface. The interior steams in its own moisture, soft and bright; the exterior crisps and darkens.
+Roasting concentrates flavour. The dry heat of a hot oven drives off surface moisture, allowing the vegetable's natural sugars to caramelise on contact with the hot pan and the surrounding hot air. The Maillard browning, the same reaction that browns a steak or a bread crust, happens on the vegetable surface. The interior steams in its own moisture, soft and bright; the exterior crisps and darkens.
 
 The result is, for most vegetables, dramatically better than any other technique. The only requirement is enough fat, enough salt, enough heat, and enough time.
 
@@ -14,8 +14,8 @@ The result is, for most vegetables, dramatically better than any other technique
 Five steps, the same for almost every vegetable.
 
 1. **Heat the oven hot.** 220-240 C (425-475 F). The high temperature drives the Maillard browning; below 200 C the vegetables go soft and pale rather than browning crisply.
-2. **Cut to even sizes.** Pieces should be similar in size so they cook at the same rate. The size depends on the vegetable - large pieces for root vegetables (chunks 3-4 cm), small for delicate vegetables (florets 2 cm, slices 1 cm thick).
-3. **Toss with fat.** Olive oil, neutral vegetable oil, duck fat, beef dripping. About 2-3 tablespoons per kg of vegetable - more than most recipes suggest. The fat carries flavour, conducts heat, and lets the surface dry without burning.
+2. **Cut to even sizes.** Pieces should be similar in size so they cook at the same rate. The size depends on the vegetable, large pieces for root vegetables (chunks 3-4 cm), small for delicate vegetables (florets 2 cm, slices 1 cm thick).
+3. **Toss with fat.** Olive oil, neutral vegetable oil, duck fat, beef dripping. About 2-3 tablespoons per kg of vegetable, more than most recipes suggest. The fat carries flavour, conducts heat, and lets the surface dry without burning.
 4. **Salt and season heavily.** Half a teaspoon of flaky sea salt per kg of vegetable, then any aromatics (rosemary, thyme, chilli, garlic, cumin seed). Tossed thoroughly so every piece is coated.
 5. **Spread in a single layer on a heavy tray.** Crowding causes steam to build up; the vegetables boil in their own moisture rather than roasting. Use two trays if you have a lot.
 6. **Roast.** 25-50 minutes depending on the vegetable. Most root vegetables: 35-45 minutes. Brassicas: 20-30 minutes. Tomatoes: 20-25 minutes.
@@ -60,7 +60,7 @@ Method:
 2. Trim the sprouts; halve if large, leave whole if small.
 3. Toss with olive oil, salt, garlic. If using bacon, sprinkle alongside.
 4. Spread cut-side down on a heavy roasting tray.
-5. Roast 20-25 minutes - the cut side should be deeply charred when ready.
+5. Roast 20-25 minutes, the cut side should be deeply charred when ready.
 6. Drizzle with balsamic on serving.
 
 The dark almost-burnt edges are the point. Brussels sprouts roasted lightly are bitter; roasted hard they are sweet and nutty.
@@ -102,7 +102,7 @@ A quick base for pasta, bruschetta, or eaten as a side.
 Method:
 1. Heat oven to 230 C.
 2. Toss tomatoes with all ingredients in a roasting tray.
-3. Roast 18-25 minutes - tomatoes should be splitting and slightly charred.
+3. Roast 18-25 minutes, tomatoes should be splitting and slightly charred.
 4. Mash gently with the back of a spoon to release juice.
 
 Pour over pasta with parmesan; serve on toast; use as a base for chicken thighs in their next roast.
@@ -138,8 +138,8 @@ Serve with the lemon squeezed over plus the pan oil drizzled on top.
 | Aubergine | Halves or 3 cm chunks | 230 C | 25-35 min | Salt and rest for 20 min before roasting to draw moisture |
 | Bell peppers | Halves | 230 C | 20-25 min | Until skin blackens, then steam in a bowl to peel |
 | Cherry tomatoes | Whole | 230 C | 18-25 min | Until splitting |
-| Whole tomatoes | Halves | 200 C | 60-90 min | Slow-roasted - sweet and condensed |
-| Asparagus | Whole | 230 C | 10-15 min | Faster than most - watch carefully |
+| Whole tomatoes | Halves | 200 C | 60-90 min | Slow-roasted, sweet and condensed |
+| Asparagus | Whole | 230 C | 10-15 min | Faster than most, watch carefully |
 | Squash (butternut, kabocha) | Wedges or 4 cm chunks | 220 C | 35-45 min | Skin can stay on for kabocha; remove for butternut |
 | Whole onions | Quartered | 220 C | 30-40 min | Until the outer layers char and the inside softens |
 | Whole leeks | Halved lengthways | 220 C | 30-40 min | Brush thoroughly |

@@ -18,7 +18,7 @@ Tang yuan are the small glutinous-rice dumplings the Chinese eat at the Lantern 
 ### Filling (sesame paste)
 - 100 g black sesame seeds
 - 60 g caster sugar
-- 40 g lard (softened - or use unsalted butter)
+- 40 g lard (softened, or use unsalted butter)
 - A pinch of salt
 
 ### Dough
@@ -47,12 +47,12 @@ Tang yuan are the small glutinous-rice dumplings the Chinese eat at the Lantern 
 ### Stage 3 - Shape and freeze the filling
 1. Divide the filling into 16 portions (about 10 g each).
 1. Roll each into a small ball (cherry-sized).
-1. Place on a tray; freeze at least 30 minutes - frozen filling is essential for wrapping, otherwise the soft paste squishes out when you try to enclose it.
+1. Place on a tray; freeze at least 30 minutes, frozen filling is essential for wrapping, otherwise the soft paste squishes out when you try to enclose it.
 
 ### Stage 4 - Make the dough
 1. Place the glutinous rice flour and pinch of salt in a wide bowl.
-1. Pour in the just-boiled water in stages, stirring with chopsticks or a spoon (don't use your hands - the water is too hot).
-1. As it cools enough to handle, knead by hand into a smooth, soft, slightly sticky dough - like Play-Doh consistency.
+1. Pour in the just-boiled water in stages, stirring with chopsticks or a spoon (don't use your hands, the water is too hot).
+1. As it cools enough to handle, knead by hand into a smooth, soft, slightly sticky dough, like Play-Doh consistency.
 1. Add more rice flour if too sticky, or a teaspoon of cold water if too dry.
 1. Cover with cling film; rest 10 minutes.
 
@@ -63,7 +63,7 @@ Tang yuan are the small glutinous-rice dumplings the Chinese eat at the Lantern 
 1. Bring the edges of the dough up and over to enclose; pinch the seam closed; roll between your palms into a smooth round ball.
 1. Set on a lightly floured tray.
 1. Repeat for all 16.
-1. Work quickly - the filling thaws as you work.
+1. Work quickly, the filling thaws as you work.
 
 ### Stage 6 - Make the syrup
 1. In a wide saucepan, combine water, sugar, ginger slices and dried tangerine peel (if using).
@@ -75,19 +75,19 @@ Tang yuan are the small glutinous-rice dumplings the Chinese eat at the Lantern 
 1. Bring a separate wide pot of water to a rolling boil.
 1. Slide in the tang yuan; stir gently so they don't stick to the base.
 1. They sink, then float to the surface within 1-2 minutes.
-1. Once they're all floating, cook 3 more minutes - the dough is translucent and the filling is hot.
+1. Once they're all floating, cook 3 more minutes, the dough is translucent and the filling is hot.
 
 ### Stage 8 - Serve
 1. Lift the tang yuan out with a slotted spoon; place 4 in each small serving bowl.
 1. Ladle hot ginger syrup over to half-cover.
-1. Eat immediately, with a spoon - and bite carefully; the filling is volcanic.
+1. Eat immediately, with a spoon, and bite carefully; the filling is volcanic.
 
 ## Notes
-- **Frozen filling is the secret:** Soft filling cannot be wrapped - it squishes out when you pinch the dough closed. Pre-freezing makes the filling firm and easy to enclose; it thaws inside the boiling tang yuan, becoming the molten ooze that makes the dessert memorable.
+- **Frozen filling is the secret:** Soft filling cannot be wrapped, it squishes out when you pinch the dough closed. Pre-freezing makes the filling firm and easy to enclose; it thaws inside the boiling tang yuan, becoming the molten ooze that makes the dessert memorable.
 - **Hot water for the dough:** Adding boiling water (rather than cold) partially gelatinises the starch and gives glutinous rice flour its characteristic chewy-smooth texture. Cold water gives a crumbly dough.
 - **Glutinous rice flour, not regular rice flour:** They're different products. Glutinous (sticky) rice flour has the chewy starch profile; regular rice flour gives a brittle dry dough that won't enclose the filling.
 
 ## Storage
-- Best within 30 minutes of boiling - they firm slightly as they cool.
-- Freeze raw filled tang yuan on a tray, then bag - keeps 2 months. Boil from frozen (add 2 extra minutes).
+- Best within 30 minutes of boiling, they firm slightly as they cool.
+- Freeze raw filled tang yuan on a tray, then bag, keeps 2 months. Boil from frozen (add 2 extra minutes).
 - Cooked leftover tang yuan keep 1 day; reheat in hot syrup 2 minutes.

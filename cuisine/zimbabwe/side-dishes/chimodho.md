@@ -47,7 +47,7 @@ Chimodho is Zimbabwe's steamed cornbread: a dense, faintly sweet maize-meal loaf
 1. Slice into wedges. Eat warm with butter and tea, or cool and pack for later.
 
 ## Notes
-- **Steaming is the technique:** Don't bake - the texture goes wrong. Steaming keeps the loaf moist and dense, which is the point.
+- **Steaming is the technique:** Don't bake, the texture goes wrong. Steaming keeps the loaf moist and dense, which is the point.
 - **Sugar adjusts:** Some make it almost cake-sweet (150 g sugar); some leave it almost savoury (50 g). 100 g is the middle.
 - **Variations:** Roast peanuts, sultanas or grated apple can fold into the batter. Keep them small so they cook evenly.
 

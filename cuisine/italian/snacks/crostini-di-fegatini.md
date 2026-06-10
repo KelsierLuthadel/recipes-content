@@ -38,7 +38,7 @@ Tuscany's classic antipasto, the pâté you'll see set out at every long lunch i
 - Extra-virgin olive oil to drizzle
 
 ### Crostini
-- 1 baguette (or ciabatta, sliced 1 cm thick - about 24 slices)
+- 1 baguette (or ciabatta, sliced 1 cm thick, about 24 slices)
 - 3 tablespoons olive oil (for brushing)
 - 1 garlic clove (peeled, whole, for rubbing)
 
@@ -57,7 +57,7 @@ Tuscany's classic antipasto, the pâté you'll see set out at every long lunch i
 
 ### Stage 3 - Cook the livers
 1. Increase heat to medium-high; add the livers in a single layer.
-1. Cook 4 minutes, turning occasionally, until they're sealed and just pink at the centre (don't overcook - they'll continue cooking in Stage 4).
+1. Cook 4 minutes, turning occasionally, until they're sealed and just pink at the centre (don't overcook, they'll continue cooking in Stage 4).
 
 ### Stage 4 - Deglaze and simmer
 1. Pour in the Vin Santo; let it bubble vigorously for 30 seconds, scraping the base.
@@ -67,9 +67,9 @@ Tuscany's classic antipasto, the pâté you'll see set out at every long lunch i
 
 ### Stage 5 - Process
 1. Discard the bay leaf.
-1. Tip the contents of the pan into a food processor - including any liquid.
+1. Tip the contents of the pan into a food processor, including any liquid.
 1. Add the 30 g cold cubed butter and a small handful of fresh parsley.
-1. Pulse 6-10 times to a coarse-textured spread (NOT smooth pâté - Tuscan style is rustic and chunky).
+1. Pulse 6-10 times to a coarse-textured spread (NOT smooth pâté, Tuscan style is rustic and chunky).
 1. Taste; adjust salt and pepper.
 
 ### Stage 6 - Toast the bread
@@ -77,7 +77,7 @@ Tuscany's classic antipasto, the pâté you'll see set out at every long lunch i
 1. Arrange bread slices on a baking tray.
 1. Brush both sides with olive oil.
 1. Toast 8-10 minutes, turning halfway, until golden and crisp.
-1. While still warm, rub one side of each slice with the whole garlic clove (gently - just enough for aroma).
+1. While still warm, rub one side of each slice with the whole garlic clove (gently, just enough for aroma).
 
 ### Stage 7 - Assemble
 1. Spread a generous spoon of warm liver pâté onto each crostino.
@@ -90,8 +90,8 @@ Tuscany's classic antipasto, the pâté you'll see set out at every long lunch i
 
 ## Notes
 - **Don't overcook the livers:** Overcooked livers give a grainy, dry pâté. Rosy at the centre when you process is right; they finish from the residual heat. Tuscan crostini di fegatini should be silky-rich, not chalky.
-- **Anchovies and capers dissolve:** Anchovies are not a fishy presence in the finished spread - they melt into umami background. Capers add brightness and tiny bursts of salt.
-- **Rustic, not smooth:** A food processor pulsed 6-10 times gives the right texture. A blender or longer processing makes French-pâté-smooth - different dish.
+- **Anchovies and capers dissolve:** Anchovies are not a fishy presence in the finished spread, they melt into umami background. Capers add brightness and tiny bursts of salt.
+- **Rustic, not smooth:** A food processor pulsed 6-10 times gives the right texture. A blender or longer processing makes French-pâté-smooth, different dish.
 
 ## Storage
 - Refrigerate 4 days in a sealed jar with a thin film of olive oil over the top (which seals the surface).

@@ -2,7 +2,7 @@
 
 ![Mirza Ghasemi](resources/mirza-ghasemi.jpg)
 
-*A smoky Northern Iranian (Gilan) side: roasted aubergine smashed with fried garlic, tomato, turmeric, salt and a scrambled egg folded through. Eat with bread or rice. The smoke from the aubergine - properly charred over flame or under a hot grill - is the dish's signature.*
+*A smoky Northern Iranian (Gilan) side: roasted aubergine smashed with fried garlic, tomato, turmeric, salt and a scrambled egg folded through. Eat with bread or rice. The smoke from the aubergine, properly charred over flame or under a hot grill, is the dish's signature.*
 
 **Serves:** 4 as a side
 
@@ -57,7 +57,7 @@ Mirza ghasemi is the smoky aubergine-and-egg side dish from the Caspian coast of
 ### Stage 6 - Egg
 1. Push the mixture to one side of the pan.
 1. Pour the beaten eggs into the cleared half; lightly scramble 30 seconds.
-1. Fold the scramble through the aubergine - leaves visible streaks of yellow.
+1. Fold the scramble through the aubergine, leaves visible streaks of yellow.
 
 ### Stage 7 - Plate
 1. Tip into a wide warm shallow dish.

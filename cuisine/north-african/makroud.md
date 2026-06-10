@@ -87,7 +87,7 @@ North Africa's date diamonds, sold by the box at Algerian and Tunisian sweet sho
 1. Cool fully so the syrup soaks in and the dough firms.
 
 ## Notes
-- **Soak time matters:** The dough rest is what makes the texture right - semolina takes 30 minutes to fully hydrate. Skip this step and the dough is gritty.
+- **Soak time matters:** The dough rest is what makes the texture right, semolina takes 30 minutes to fully hydrate. Skip this step and the dough is gritty.
 - **Pale, not deep golden:** Makroud are fried fast and dipped while still pale; the syrup gives the final colour. Dark-fried makroud taste burnt against the sweet syrup.
 - **Pipe the date paste:** Easier than spooning; gives a cleaner cylinder when you fold.
 

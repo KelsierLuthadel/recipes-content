@@ -75,7 +75,7 @@ The samosa is India's most loved tea-time snack and one of the most travelled pa
 ### Stage 4 - Fry
 1. Heat the oil to 140°C in a deep heavy pan (lower than usual; this is critical for blistering).
 2. Lower 4 samosas in at a time.
-3. Fry slowly 8-10 minutes at this gentle heat - they should not colour, only set and lightly puff.
+3. Fry slowly 8-10 minutes at this gentle heat, they should not colour, only set and lightly puff.
 4. Raise the heat to 180°C.
 5. Fry another 2-3 minutes until deep golden and crisp with the classic blistered surface.
 6. Lift onto kitchen paper.

@@ -69,7 +69,7 @@ The original dinner-party showstopper: a domed sponge base hides scoops of vanil
 1. Pour the boiling milk on to the egg yolks, whisking continuously, then pour the mixture back in to the saucepan.
 1. Cook over a very low heat, stirring with a wooden spatula. 
 1. Do not let the mixture boil or it will curdle.
-1. The crème anglaise is ready when it has thickened slightly - just enough to coat the back of the spatula. 
+1. The crème anglaise is ready when it has thickened slightly, just enough to coat the back of the spatula. 
 1. Immediately take off the heat.
 1. Unless you are serving the crème anglaise warm, strain through a fine sieve into a bowl set over crushed ice to cool, stirring occasionally to prevent a skin forming.    
 

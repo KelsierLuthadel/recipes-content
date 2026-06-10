@@ -48,7 +48,7 @@ Molokhia is the deep-green Egyptian stew named for the jute leaves that give it 
 ### Stage 2 - Molokhia
 1. Bring the strained broth to a low simmer (not boiling).
 1. Add the molokhia.
-1. Cook on the lowest heat 15-20 minutes - barely a tremor on the surface.
+1. Cook on the lowest heat 15-20 minutes, barely a tremor on the surface.
 1. Stir occasionally with a wooden spoon. The broth thickens slightly and turns deep green.
 
 ### Stage 3 - Taqliya
@@ -62,7 +62,7 @@ Molokhia is the deep-green Egyptian stew named for the jute leaves that give it 
 1. Stir gently to combine.
 
 ### Stage 5 - Combine
-1. Return the cooked meat (whole pieces or shredded - your choice).
+1. Return the cooked meat (whole pieces or shredded, your choice).
 1. Warm through 3 minutes.
 
 ### Stage 6 - Serve

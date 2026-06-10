@@ -52,4 +52,4 @@ Mozambique's coconut rice, the standard accompaniment to frango piri-piri, matat
 
 ## Storage
 - Refrigerate 3 days. Reheat covered with a splash of water.
-- Don't freeze - the texture goes spongy.
+- Don't freeze, the texture goes spongy.

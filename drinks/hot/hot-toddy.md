@@ -11,11 +11,11 @@
 **Cook Time:** 4 minutes
 
 ## Overview
-The hot toddy has been a British and Scottish cold-weather drink since at least the 18th century. The base is straightforward: a measure of Scotch or Irish whisky, a generous spoonful of honey, the juice of half a lemon, a wedge of lemon studded with a few cloves, a slice of fresh ginger, and just-boiled water to fill the glass. The drink is sipped slowly while the spices infuse and the warmth spreads. Variations exist across the British Isles - Irish hot whiskey omits the ginger and adds brown sugar instead of honey; the Scottish version is typically heavier on the whisky; the English version may add cinnamon. The hot toddy has a folk-medicine reputation as a cold remedy (the honey soothes a sore throat, the lemon delivers vitamin C, the whisky relaxes you to sleep, the steam clears the sinuses), but it's also just a perfect autumn / winter evening drink.
+The hot toddy has been a British and Scottish cold-weather drink since at least the 18th century. The base is straightforward: a measure of Scotch or Irish whisky, a generous spoonful of honey, the juice of half a lemon, a wedge of lemon studded with a few cloves, a slice of fresh ginger, and just-boiled water to fill the glass. The drink is sipped slowly while the spices infuse and the warmth spreads. Variations exist across the British Isles, Irish hot whiskey omits the ginger and adds brown sugar instead of honey; the Scottish version is typically heavier on the whisky; the English version may add cinnamon. The hot toddy has a folk-medicine reputation as a cold remedy (the honey soothes a sore throat, the lemon delivers vitamin C, the whisky relaxes you to sleep, the steam clears the sinuses), but it's also just a perfect autumn / winter evening drink.
 
 ## Ingredients
 
-- 60 ml Scotch whisky (or Irish whiskey, or bourbon - the choice is yours; a blended Scotch works fine)
+- 60 ml Scotch whisky (or Irish whiskey, or bourbon, the choice is yours; a blended Scotch works fine)
 - 1/2 lemon, cut into 2 wedges
 - 4 whole cloves
 - 2 thin slices of fresh ginger (peeled or not, doesn't matter)
@@ -40,11 +40,11 @@ The hot toddy has been a British and Scottish cold-weather drink since at least 
    - The juice of the squeezed lemon (split between the two glasses)
    - 1 thin slice of fresh ginger
    - 1 clove-studded lemon wedge
-   - The cinnamon stick (if using) - split a small one between the two glasses
+   - The cinnamon stick (if using): split a small one between the two glasses
 
 ### Stage 3 - Add hot water
 1. Pour the just-off-the-boil water into each glass (about 200 ml per glass), filling to about 2 cm from the rim.
-1. Stir gently with a long spoon to dissolve the honey. The aroma will be immediate - ginger, lemon, clove, whisky.
+1. Stir gently with a long spoon to dissolve the honey. The aroma will be immediate, ginger, lemon, clove, whisky.
 
 ### Stage 4 - Serve
 1. Serve immediately, hot. Drink slowly; the toddy is meant to last 15-20 minutes.

@@ -2,7 +2,7 @@
 
 ![Israeli Salad](resources/israeli-salad.jpg)
 
-*Salat Katzutz: cucumber, tomato, onion and parsley diced very small and dressed with lemon, olive oil and salt. Eat morning, noon and night across Israel - at breakfast next to eggs and labneh, at lunch beside grilled meat, at dinner in pita. The size of the dice is the dish; everything finer than 5 mm.*
+*Salat Katzutz: cucumber, tomato, onion and parsley diced very small and dressed with lemon, olive oil and salt. Eat morning, noon and night across Israel, at breakfast next to eggs and labneh, at lunch beside grilled meat, at dinner in pita. The size of the dice is the dish; everything finer than 5 mm.*
 
 **Serves:** 4
 

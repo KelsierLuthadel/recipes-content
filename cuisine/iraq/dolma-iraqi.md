@@ -67,7 +67,7 @@ Iraqi dolma is the slow-cooked stuffed-vegetable dish that anchors every Iraqi f
 
 ### Stage 5 - Liquid
 1. Whisk tamarind, pomegranate molasses, lemon, olive oil, garlic, salt with the hot water.
-1. Pour over the dolma - should come halfway up the layers.
+1. Pour over the dolma, should come halfway up the layers.
 
 ### Stage 6 - Weight and cook
 1. Place a heatproof plate directly on the dolma to weight them down.

@@ -27,11 +27,11 @@ Khoresh karafs is the Persian celery stew, an unlikely-sounding dish that turns 
 - 700 ml water
 
 ### Celery and herbs (the karafs)
-- 1 large head celery (8-10 stalks, leaves reserved - about 500 g)
+- 1 large head celery (8-10 stalks, leaves reserved, about 500 g)
 - 3 tablespoons sunflower oil
-- 1 large bunch fresh flat-leaf parsley (chopped - about 50 g)
-- 1 small bunch fresh mint (chopped - about 25 g, or 2 tablespoons dried mint)
-- A handful of celery leaves (chopped - they go in for extra flavour)
+- 1 large bunch fresh flat-leaf parsley (chopped, about 50 g)
+- 1 small bunch fresh mint (chopped, about 25 g, or 2 tablespoons dried mint)
+- A handful of celery leaves (chopped, they go in for extra flavour)
 
 ### To finish
 - 1 large pinch saffron threads (soaked in 3 tablespoons hot water)
@@ -65,13 +65,13 @@ Khoresh karafs is the Persian celery stew, an unlikely-sounding dish that turns 
 1. While the lamb simmers, slice celery stalks into 2 cm pieces.
 1. Heat 3 tablespoons sunflower oil in a wide pan over medium heat.
 1. Add celery; sauté 6-7 minutes until just softened and slightly golden at the edges (the bright green colour intensifies).
-1. Add chopped parsley, mint and celery leaves; cook 2 minutes - the herbs darken slightly but should stay vibrant green.
+1. Add chopped parsley, mint and celery leaves; cook 2 minutes, the herbs darken slightly but should stay vibrant green.
 1. Off heat.
 
 ### Stage 6 - Combine
 1. Tip the sautéed celery-and-herbs into the lamb pot.
 1. Stir gently.
-1. Cover; simmer 25 minutes - the celery softens further; the herb flavour permeates the lamb.
+1. Cover; simmer 25 minutes, the celery softens further; the herb flavour permeates the lamb.
 
 ### Stage 7 - Finish
 1. Off heat (or very low).
@@ -83,7 +83,7 @@ Khoresh karafs is the Persian celery stew, an unlikely-sounding dish that turns 
 1. Serve over chelo rice with tahdig alongside.
 
 ## Notes
-- **Heaps of herbs:** Persian khoresh karafs is not "stew with a sprig of parsley" - it's stew thick with herbs. A whole bunch of parsley per 4 people is correct.
+- **Heaps of herbs:** Persian khoresh karafs is not "stew with a sprig of parsley", it's stew thick with herbs. A whole bunch of parsley per 4 people is correct.
 - **Sauté the celery before adding:** Raw celery added directly to the pot would water down the stew and stay grassy. Sautéing draws out water and builds flavour.
 - **Lemon at the end:** Lemon juice added at the start dulls the herbs. At the end it brightens everything.
 

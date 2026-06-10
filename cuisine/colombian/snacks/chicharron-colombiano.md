@@ -37,7 +37,7 @@ Colombian chicharrón is the crackling crown of every bandeja paisa, thick pork-
 
 ### Stage 2 - Reduce
 1. After 45 minutes, uncover; turn the heat up.
-1. Boil 15 minutes more - the water mostly evaporates and the pork starts to fry in its own rendered fat at the bottom of the pan.
+1. Boil 15 minutes more, the water mostly evaporates and the pork starts to fry in its own rendered fat at the bottom of the pan.
 
 ### Stage 3 - Fry the skin
 1. As the liquid disappears, the strips start to sizzle.
@@ -46,7 +46,7 @@ Colombian chicharrón is the crackling crown of every bandeja paisa, thick pork-
 1. The skin will gradually puff, blister and turn a deep amber-gold with raised crackled ridges.
 
 ### Stage 4 - Test
-1. The chicharrón is done when the skin is shatter-crisp (tap it with a knife - should clack) and the meat is tender.
+1. The chicharrón is done when the skin is shatter-crisp (tap it with a knife, should clack) and the meat is tender.
 
 ### Stage 5 - Drain and serve
 1. Lift the strips onto kitchen paper or a wire rack.
@@ -55,11 +55,11 @@ Colombian chicharrón is the crackling crown of every bandeja paisa, thick pork-
 
 ## Notes
 - **Skin-on belly is non-negotiable:** the puffy crackling skin is the entire point. Skinless pork belly gives chicharrón that's just fatty pork.
-- **Two-stage cook - simmer then fry:** simmering tenderises the meat through; frying crisps the skin. Skip the simmer and the meat is tough; skip the fry and the skin is rubbery.
+- **Two-stage cook, simmer then fry:** simmering tenderises the meat through; frying crisps the skin. Skip the simmer and the meat is tough; skip the fry and the skin is rubbery.
 - **Press the skin during frying:** uneven contact gives uneven crackling. A heavy spatula or a small saucepan lid pressed on top guarantees full surface contact.
-- **The rendered fat is a bonus:** strain the leftover fat into a jar - it's amazing for frying eggs, potatoes, or the next batch of chicharrón.
+- **The rendered fat is a bonus:** strain the leftover fat into a jar, it's amazing for frying eggs, potatoes, or the next batch of chicharrón.
 
 ## Storage
 - Best within 30 minutes of finishing.
-- Reheats poorly - the crackling goes chewy. Better to render fresh.
+- Reheats poorly, the crackling goes chewy. Better to render fresh.
 - Keep raw cut pork belly 2 days refrigerated; cook to order.

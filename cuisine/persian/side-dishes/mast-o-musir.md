@@ -39,7 +39,7 @@ Mast o musir is the side bowl that turns up on every Persian table next to kebab
 1. Taste; adjust salt.
 
 ### Stage 3 - Rest
-1. Cover; refrigerate 1 hour (or up to 24 hours - the flavour develops).
+1. Cover; refrigerate 1 hour (or up to 24 hours, the flavour develops).
 
 ### Stage 4 - Serve
 1. Tip into a wide shallow bowl.

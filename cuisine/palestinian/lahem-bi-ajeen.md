@@ -54,8 +54,8 @@ Picture a Ramallah neighbourhood bakery at noon: a pile of paper-thin meat pies 
 1. Cover; rise 1 hour until doubled.
 
 ### Stage 2 - Topping
-1. In a wide bowl, combine the lamb mince, grated onion (squeezed dry - important), diced tomato, garlic, parsley, pomegranate molasses, tomato paste, baharat, allspice, cinnamon, Aleppo pepper, salt, pepper and olive oil.
-1. Mix thoroughly with your hand for 2 minutes - the mixture should be evenly seasoned, smooth, and slightly wet but not soupy.
+1. In a wide bowl, combine the lamb mince, grated onion (squeezed dry, important), diced tomato, garlic, parsley, pomegranate molasses, tomato paste, baharat, allspice, cinnamon, Aleppo pepper, salt, pepper and olive oil.
+1. Mix thoroughly with your hand for 2 minutes, the mixture should be evenly seasoned, smooth, and slightly wet but not soupy.
 
 ### Stage 3 - Heat the oven
 1. Heat oven to 230°C (210°C fan).
@@ -68,11 +68,11 @@ Picture a Ramallah neighbourhood bakery at noon: a pile of paper-thin meat pies 
 
 ### Stage 5 - Top
 1. Place 4 discs on a piece of baking paper.
-1. Spoon 2 tablespoons of meat topping onto each disc; spread thinly to the edges with the back of a spoon - the layer should be 5 mm thick, not piled.
+1. Spoon 2 tablespoons of meat topping onto each disc; spread thinly to the edges with the back of a spoon, the layer should be 5 mm thick, not piled.
 
 ### Stage 6 - Bake
 1. Slide the baking paper (with the topped discs) onto the hot stone or tray.
-1. Bake 8-10 minutes - the dough should be golden at the edges; the meat should be glossy, slightly bubbling at the edges, just cooked through.
+1. Bake 8-10 minutes, the dough should be golden at the edges; the meat should be glossy, slightly bubbling at the edges, just cooked through.
 1. Repeat with the remaining discs in batches.
 
 ### Stage 7 - Serve
@@ -83,7 +83,7 @@ Picture a Ramallah neighbourhood bakery at noon: a pile of paper-thin meat pies 
 
 ## Notes
 - **Squeeze the onion:** Grated onion releases a lot of water. If you don't squeeze, the topping is wet and the dough underneath goes soggy.
-- **Spread thin, not piled:** Lahem bi ajeen is meant to be a single thin layer of meat - about 5 mm. Piling it makes the meat dough's middle wet and the pies don't crisp.
+- **Spread thin, not piled:** Lahem bi ajeen is meant to be a single thin layer of meat, about 5 mm. Piling it makes the meat dough's middle wet and the pies don't crisp.
 - **Pomegranate molasses is the Palestinian signature:** The slight sweet-sour tang distinguishes the Palestinian pie from the Lebanese (which uses more lemon) and the Syrian (which leans heavier on tomato).
 
 ## Storage

@@ -2,7 +2,7 @@
 
 ![Uyghur Lamb Ribs](resources/lamb-ribs.jpg)
 
-*Long-braised lamb ribs in a paprika-cumin-cayenne crust, served on torn naan that's been dunked into the braising sauce to soak the juices. A celebratory Uyghur dish - simple ingredient list, long unattended braise. The naan goes from crisp to soft to flavour-loaded as the dish builds.*
+*Long-braised lamb ribs in a paprika-cumin-cayenne crust, served on torn naan that's been dunked into the braising sauce to soak the juices. A celebratory Uyghur dish, simple ingredient list, long unattended braise. The naan goes from crisp to soft to flavour-loaded as the dish builds.*
 
 **Serves:** 2 (large portions)
 

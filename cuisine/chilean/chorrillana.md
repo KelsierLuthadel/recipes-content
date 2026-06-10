@@ -38,7 +38,7 @@ The Valparaíso bar classic, the giant shareable platter that lands in the middl
 
 ### Stage 1 - Chips
 1. Rinse the potato in cold water; pat dry.
-1. Heat oil to 140°C in a deep pan. First fry: 6-7 minutes per batch - pale and soft. Lift onto a rack.
+1. Heat oil to 140°C in a deep pan. First fry: 6-7 minutes per batch, pale and soft. Lift onto a rack.
 1. Raise oil to 180°C. Second fry: 3-4 minutes per batch until deep gold and crisp.
 1. Drain; salt; keep warm in a low oven.
 

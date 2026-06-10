@@ -30,7 +30,7 @@ Masitas de puerco fritas ("little fried pork pieces") is one of Cuba's most belo
 - 1 tablespoon white wine vinegar
 
 ### For slow-cooking
-- 4 tablespoons lard (or vegetable oil) - for additional cooking fat
+- 4 tablespoons lard (or vegetable oil): for additional cooking fat
 
 ### For crisp-frying
 - 2 large white onions (sliced into thin half-moons)

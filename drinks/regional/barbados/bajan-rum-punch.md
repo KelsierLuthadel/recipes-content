@@ -53,7 +53,7 @@ Bajan rum punch is one of the most-recognised Caribbean drinks and Barbados's na
 7. Stir gently with a long spoon for 20 seconds.
 
 ### Stage 3 - Taste and adjust
-1. Taste; the rum punch should be balanced - rum-forward, sweet-tart, with the bitters giving a peppery edge.
+1. Taste; the rum punch should be balanced, rum-forward, sweet-tart, with the bitters giving a peppery edge.
 2. Adjust: more lime if too sweet; more sugar if too sour; more rum for a stiffer drink; more water for lighter.
 
 ### Stage 4 - Serve over ice
@@ -73,22 +73,22 @@ Bajan rum punch is one of the most-recognised Caribbean drinks and Barbados's na
 ## Notes
 - **Aged dark Bajan rum:** Mount Gay Eclipse is the traditional Bajan workhorse. Mount Gay XO or Foursquare 12-year are the premium choices. Never use white rum (lacks the traditional depth) or spiced rum (overpowers the lime and nutmeg).
 - **Fresh lime juice:** always; never bottled. The bright aromatic oils are essential.
-- **Angostura bitters:** the traditional Bajan addition. Don't skip - the small dash transforms the drink.
+- **Angostura bitters:** the traditional Bajan addition. Don't skip, the small dash transforms the drink.
 - **Fresh nutmeg on top:** non-negotiable. Grated whole nutmeg has a vivid aromatic warmth that pre-ground supermarket nutmeg has lost.
-- **The 1:2:3:4 ratio:** memorise the Bajan rhyme - "one of sour, two of sweet, three of strong, four of weak". This applies whether you're making one drink or a pitcher for a party.
+- **The 1:2:3:4 ratio:** memorise the Bajan rhyme, "one of sour, two of sweet, three of strong, four of weak". This applies whether you're making one drink or a pitcher for a party.
 - **Falernum is optional but very traditional:** the lime-ginger-clove-almond syrup invented in Barbados is the upmarket Bajan addition.
 
 ## Variations
 **Single-serving rum punch (for one):** 45 ml rum + 15 ml lime juice + 30 ml simple syrup + 60 ml water + 2 dashes bitters + ice + nutmeg + lime slice.
 **Party-batch rum punch (serves 16):** quadruple all ingredients; make in a 3-litre pitcher.
-**Cockspur Old Gold rum punch:** the same recipe with Cockspur instead of Mount Gay - slightly drier, more sherry-like profile.
-**Stronger rum punch:** use a 4:2:3:3 ratio (more strong, less weak) - the "rum-shop strong" variant.
-**Lighter rum punch:** use a 1:2:3:6 ratio (more water) - for daytime drinking.
+**Cockspur Old Gold rum punch:** the same recipe with Cockspur instead of Mount Gay, slightly drier, more sherry-like profile.
+**Stronger rum punch:** use a 4:2:3:3 ratio (more strong, less weak): the "rum-shop strong" variant.
+**Lighter rum punch:** use a 1:2:3:6 ratio (more water): for daytime drinking.
 **Rum punch with falernum:** the upmarket Bajan variant; falernum gives lime-ginger-clove-almond depth.
-**Tropical rum punch:** add 60 ml fresh pineapple juice + 30 ml fresh orange juice; reduce the water - the modern tourist variant.
-**Sorrel rum punch (Christmas variant):** swap the water for chilled sorrel (hibiscus tea) - the festive variant.
-**Non-alcoholic rum punch (mocktail):** swap the rum for cold brewed black tea + 30 ml ginger ale - acceptable for the designated driver but lacks the traditional character.
-**Falernum + rum punch + soda:** add 60 ml soda water at the end - the spritzed variant.
+**Tropical rum punch:** add 60 ml fresh pineapple juice + 30 ml fresh orange juice; reduce the water, the modern tourist variant.
+**Sorrel rum punch (Christmas variant):** swap the water for chilled sorrel (hibiscus tea): the festive variant.
+**Non-alcoholic rum punch (mocktail):** swap the rum for cold brewed black tea + 30 ml ginger ale, acceptable for the designated driver but lacks the traditional character.
+**Falernum + rum punch + soda:** add 60 ml soda water at the end, the spritzed variant.
 
 ## Serving
 At a Bajan beach bar at sunset (the traditional setting) · at a Bajan hotel pool · at a Bajan rum-shop · at a Bajan wedding cocktail hour · at a Bajan Independence Day (30 November) celebration · at a Bajan family Sunday lunch · at a Bajan Christmas Eve dinner · at home as the Caribbean-themed party drink · paired with Bajan fish cakes, conkies, or just a plate of fresh tropical fruit.

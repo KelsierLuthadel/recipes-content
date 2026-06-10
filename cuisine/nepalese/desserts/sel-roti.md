@@ -11,11 +11,11 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Sel roti is the Nepali festival bread - a sweet, ring-shaped, fried rice-flour dough that appears at Tihar (the festival of lights), Dashain (the great autumn festival), weddings, religious offerings and any occasion that calls for something celebratory. It looks like a giant donut and tastes a little like one, but the rice flour gives it a distinctly different texture: crisp and slightly crackly outside, soft and faintly chewy inside, with a light cardamom-and-fennel perfume.
+Sel roti is the Nepali festival bread, a sweet, ring-shaped, fried rice-flour dough that appears at Tihar (the festival of lights), Dashain (the great autumn festival), weddings, religious offerings and any occasion that calls for something celebratory. It looks like a giant donut and tastes a little like one, but the rice flour gives it a distinctly different texture: crisp and slightly crackly outside, soft and faintly chewy inside, with a light cardamom-and-fennel perfume.
 
 The technique is precise. The batter is poured from a height in a single thin stream into hot ghee, forming a ring as the dough hits the oil. Skilled grandmothers form a perfect circle in one continuous pour; first-timers will produce something more like a question mark. Either way it tastes good.
 
-The dough is traditionally made by soaking rice grains, then grinding to a thick batter - this gives the best texture. A faster version uses rice flour straight; the result is slightly denser but still pleasing.
+The dough is traditionally made by soaking rice grains, then grinding to a thick batter, this gives the best texture. A faster version uses rice flour straight; the result is slightly denser but still pleasing.
 
 ## Ingredients
 
@@ -28,7 +28,7 @@ The dough is traditionally made by soaking rice grains, then grinding to a thick
 - ½ tsp ground fennel seeds
 - ½ tsp salt
 - A pinch of ground cinnamon (optional)
-- 1 ripe banana (mashed; optional but classic - gives flavour and helps the batter bind)
+- 1 ripe banana (mashed; optional but classic, gives flavour and helps the batter bind)
 
 ### Quick method (rice flour)
 - 400 g fine rice flour
@@ -42,7 +42,7 @@ The dough is traditionally made by soaking rice grains, then grinding to a thick
 - 1 ripe banana (mashed; optional)
 
 ### Frying
-- 1 litre ghee (or half ghee, half neutral oil - the traditional medium is pure ghee but it is expensive)
+- 1 litre ghee (or half ghee, half neutral oil, the traditional medium is pure ghee but it is expensive)
 
 ## Method
 

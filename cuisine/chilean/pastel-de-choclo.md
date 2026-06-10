@@ -65,7 +65,7 @@ Chile's summer corn cake, the layered casserole made when fresh sweetcorn is at 
 1. Lift the chicken out; cool slightly; pull the meat from the bones into shreds.
 
 ### Stage 3 - Corn topping
-1. Blend the corn kernels, milk and basil to a coarse purée - leave some texture.
+1. Blend the corn kernels, milk and basil to a coarse purée, leave some texture.
 1. Pour into a wide pan; melt in the butter; bring to a steady simmer over medium heat.
 1. Stir in the salt and the cornflour slurry.
 1. Cook 6-8 minutes, stirring constantly, until thickened to a porridge consistency.
@@ -88,7 +88,7 @@ Chile's summer corn cake, the layered casserole made when fresh sweetcorn is at 
 1. Pair with Chilean salad (tomato + onion + coriander) and a glass of cold red wine.
 
 ## Notes
-- **Sugar on top is essential:** The caramelised crackle is the signature finish - without it the dish tastes flat. Don't skimp.
+- **Sugar on top is essential:** The caramelised crackle is the signature finish, without it the dish tastes flat. Don't skimp.
 - **Fresh corn vs frozen:** Fresh in season is unbeatable. Frozen is a workable year-round substitute. Tinned is too watery.
 - **Clay dishes:** Traditional pastel de choclo bakes in individual clay pasteleras (paila in Chile). Worth seeking out if you cook this often; one large dish works fine.
 

@@ -57,7 +57,7 @@ Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve
 7. Refrigerate at least 30 minutes (overnight is better).
 
 ### Stage 2 - Cook the meat filling
-1. Heat a heavy frying pan over medium-low heat (no extra fat - the meat will render its own).
+1. Heat a heavy frying pan over medium-low heat (no extra fat, the meat will render its own).
 2. Add the minced pork and beef.
 3. Break up with a wooden spoon; cook 6-8 minutes till the meat has lost its pink colour but not browned hard.
 4. Add the finely chopped onion and garlic; cook 6-8 minutes more till the onion is translucent.
@@ -73,7 +73,7 @@ Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve
 1. Stir the boiled, mashed potato into the cooked meat filling.
 2. Sprinkle the 1 tablespoon flour over and stir in.
 3. Cook 2-3 more minutes; the potato should be fully integrated, the texture moist and binding.
-4. Let the filling cool to room temperature before assembling (essential - hot filling melts the pastry).
+4. Let the filling cool to room temperature before assembling (essential, hot filling melts the pastry).
 
 ### Stage 5 - Roll and assemble
 1. Heat the oven to 200°C (180°C fan).
@@ -108,12 +108,12 @@ Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve
 
 ## Variations
 **Tourtière du Lac-Saint-Jean:** cubed game meats (venison, wild boar, hare) layered with potatoes and onions in a deep pie dish; baked 6 hours slow. A completely different (and longer-cooked) dish from the Lac-Saint-Jean region of northern Quebec.
-**Tourtière aux deux viandes:** the Christmas variant - half pork, half ground turkey or chicken; lighter.
+**Tourtière aux deux viandes:** the Christmas variant, half pork, half ground turkey or chicken; lighter.
 **Tourtière de cerf (venison):** swap the beef for minced venison; the Quebec hunter's variant.
-**Pâté chinois (the "shepherd's pie cousin"):** a layered casserole - same meat filling but layered with corn niblets in the middle and mashed potato on top, baked uncovered. Not a pie, but a sister dish in Quebec families.
+**Pâté chinois (the "shepherd's pie cousin"):** a layered casserole, same meat filling but layered with corn niblets in the middle and mashed potato on top, baked uncovered. Not a pie, but a sister dish in Quebec families.
 **Vegetarian tourtière:** swap meat for a mix of green lentils, chopped mushrooms, finely diced carrot and walnuts; same spices and mashed potato binding. Excellent.
-**Mini-tourtières (individual):** divide the filling among 6 individual pie dishes; bake 25 minutes total - the buffet/canapé variant.
-**Acadian variant (tourtière acadienne):** add a layer of sliced potato in the middle, more allspice, less cinnamon - the Maritime cousin.
+**Mini-tourtières (individual):** divide the filling among 6 individual pie dishes; bake 25 minutes total, the buffet/canapé variant.
+**Acadian variant (tourtière acadienne):** add a layer of sliced potato in the middle, more allspice, less cinnamon, the Maritime cousin.
 
 ## Serving
 At a Quebec Christmas Eve reveillon (the traditional setting; after midnight Mass) · at a Quebec sugar-shack lunch (cabane à sucre) · as Boxing Day lunch with leftover salads · at a Quebec funeral wake · as a working-day winter dinner with cider · as a packed lunch sliced cold (the Quebec lunchbox equivalent of pork pie).
@@ -121,6 +121,6 @@ At a Quebec Christmas Eve reveillon (the traditional setting; after midnight Mas
 ## Storage
 - Refrigerates 4 days. Eat cold or reheat individual slices in a 180°C oven 15 minutes.
 - Freezes excellently - 3 months baked, or 1 month unbaked. Defrost overnight in the fridge before reheating or baking.
-- Cold tourtière is arguably better than hot - the spices marry overnight and the filling firms into a sliceable terrine texture.
-- Don't microwave - the pastry goes soggy; the oven is the right reheat tool.
+- Cold tourtière is arguably better than hot, the spices marry overnight and the filling firms into a sliceable terrine texture.
+- Don't microwave, the pastry goes soggy; the oven is the right reheat tool.
 - Baked tourtière keeps at room temperature 4-6 hours during a long Christmas-Eve evening (typical reveillon serving window).

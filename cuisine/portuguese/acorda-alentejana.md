@@ -16,7 +16,7 @@ This is the Alentejo's classic morning-after breakfast and lunchtime  supper: a 
 ## Ingredients
 
 - 6 garlic cloves (peeled)
-- 1 large bunch fresh coriander (about 60 g - the volume is by design)
+- 1 large bunch fresh coriander (about 60 g, the volume is by design)
 - 2 teaspoons salt
 - 80 ml extra-virgin olive oil (good Portuguese or Spanish)
 - 1.2 litres boiling water (the broth is essentially this)
@@ -47,7 +47,7 @@ This is the Alentejo's classic morning-after breakfast and lunchtime  supper: a 
 
 ### Stage 4 - Soften the bread
 1. Tip the stale bread chunks into the hot broth.
-1. Press down gently with a spoon; let stand 2 minutes - the bread softens and absorbs the broth.
+1. Press down gently with a spoon; let stand 2 minutes, the bread softens and absorbs the broth.
 
 ### Stage 5 - Assemble
 1. Ladle the bread-and-broth into deep bowls.

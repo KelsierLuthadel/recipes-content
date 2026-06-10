@@ -15,7 +15,7 @@ Manhanga is the Zimbabwean sweet pumpkin mash: dense floury pumpkin boiled tende
 
 ## Ingredients
 
-- 1 kg pumpkin (kabocha, butternut or red-kuri - dense, floury types), peeled and cut into 4 cm chunks
+- 1 kg pumpkin (kabocha, butternut or red-kuri, dense, floury types), peeled and cut into 4 cm chunks
 - 1 teaspoon salt
 - 50 g unsalted butter
 - 2 tablespoons brown sugar (or honey)
@@ -47,4 +47,4 @@ Manhanga is the Zimbabwean sweet pumpkin mash: dense floury pumpkin boiled tende
 
 ## Storage
 - Refrigerate 3 days; reheat in a microwave or covered pan.
-- Doesn't freeze well - turns watery.
+- Doesn't freeze well, turns watery.

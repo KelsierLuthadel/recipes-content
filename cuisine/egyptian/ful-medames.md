@@ -52,7 +52,7 @@ Ful medames is the breakfast Egypt has been eating since pharaonic times, dried 
 ### Stage 3 - Season
 1. Off the heat, mash about a third of the beans roughly against the side of the pan with a wooden spoon; leave the rest whole.
 1. Stir in the crushed garlic, lemon juice, cumin, paprika and salt.
-1. Add bean cooking liquid (or hot water) to loosen to a thick stew - should hold a furrow but not be dry.
+1. Add bean cooking liquid (or hot water) to loosen to a thick stew, should hold a furrow but not be dry.
 1. Drizzle in 3 tablespoons of the olive oil; stir.
 
 ### Stage 4 - Serve

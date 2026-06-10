@@ -77,5 +77,5 @@ At every Lao meal (the traditional setting; sticky rice is on every Lao table at
 ## Storage
 - Best eaten warm within 4 hours of cooking.
 - Refrigerates 3 days; reheat by steaming for 5 minutes or microwaving with a damp paper towel covering.
-- Day-old sticky rice can be sliced and pan-fried in oil till crisp on both sides - excellent for breakfast.
+- Day-old sticky rice can be sliced and pan-fried in oil till crisp on both sides, excellent for breakfast.
 - Freezes 2 months in airtight bags; defrost and steam to refresh.

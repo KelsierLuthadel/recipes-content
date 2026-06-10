@@ -35,12 +35,12 @@ Nigeria's bus-stop pasty, sold from every roadside cart and snack shop across th
 - ½ teaspoon salt
 - ½ teaspoon black pepper
 - 1 carrot (medium, diced 5 mm)
-- 1 potato (large, diced 5 mm - about 200 g)
+- 1 potato (large, diced 5 mm, about 200 g)
 - 200 ml beef (or chicken stock)
 - 1 tablespoon cornflour (mixed with 2 tablespoons cold water)
 
 ### To finish
-- 1 egg (beaten - for egg-wash)
+- 1 egg (beaten, for egg-wash)
 
 ## Method
 
@@ -86,11 +86,11 @@ Nigeria's bus-stop pasty, sold from every roadside cart and snack shop across th
 1. Eat warm or at room temperature.
 
 ## Notes
-- **Butter AND margarine:** Nigerian meat pie crust is its own thing - neither traditional shortcrust nor American flaky. The butter gives flavour; the margarine gives that distinctive slightly chewy-flaky texture. Don't substitute one for the other.
+- **Butter AND margarine:** Nigerian meat pie crust is its own thing, neither traditional shortcrust nor American flaky. The butter gives flavour; the margarine gives that distinctive slightly chewy-flaky texture. Don't substitute one for the other.
 - **Cool the filling fully:** Warm filling melts the fats in the pastry and you get a soft, soggy base. Let it cool right down.
 - **Steam slits matter:** Without slits, the pies puff up like balloons and burst. Two small cuts on top let steam escape.
 
 ## Storage
 - Refrigerate cooked pies 4 days; reheat in a 180°C oven 8 minutes (microwave makes the pastry soft).
 - Freeze cooked pies 2 months; reheat from frozen at 180°C 20 minutes.
-- Unbaked filled pies freeze too - bake from frozen at 200°C 40 minutes.
+- Unbaked filled pies freeze too, bake from frozen at 200°C 40 minutes.

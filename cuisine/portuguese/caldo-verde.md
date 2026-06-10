@@ -41,13 +41,13 @@ This is the soup Portugal eats in winter and at every wedding, christening and C
 1. Cook 18-22 minutes until the potatoes are completely soft.
 
 ### Stage 2 - Blend
-1. Blend the soup smooth with a stick blender (or in batches in a jug blender - be careful with hot liquid).
+1. Blend the soup smooth with a stick blender (or in batches in a jug blender, be careful with hot liquid).
 1. Return to medium heat; the soup should be thick enough to coat a spoon. Loosen with hot water if too thick.
 
 ### Stage 3 - Kale
 1. Bring back to a steady simmer.
 1. Stir in the shredded kale.
-1. Cook 2-4 minutes only - the kale should stay bright green and just-wilted, never sludgy.
+1. Cook 2-4 minutes only, the kale should stay bright green and just-wilted, never sludgy.
 
 ### Stage 4 - Chouriço
 1. Meanwhile, cook the chouriço slices in a dry pan over medium-high heat 1-2 minutes per side until lightly crisped at the edges.
@@ -59,9 +59,9 @@ This is the soup Portugal eats in winter and at every wedding, christening and C
 1. Serve with crusty bread.
 
 ## Notes
-- **Shred the kale thin:** This is the technique. The thinner you cut, the better - proper Portuguese cooks shave it almost to threads. A food processor with a slicing disc helps; otherwise stack leaves, roll tight, and slice with a sharp knife.
+- **Shred the kale thin:** This is the technique. The thinner you cut, the better, proper Portuguese cooks shave it almost to threads. A food processor with a slicing disc helps; otherwise stack leaves, roll tight, and slice with a sharp knife.
 - **Don't overcook the kale:** Sludgy grey-green caldo verde is bad caldo verde. The whole point is bright green confetti against the pale potato cream.
-- **Olive oil at the table:** A heavy pour at serving time isn't optional - it's part of the dish.
+- **Olive oil at the table:** A heavy pour at serving time isn't optional, it's part of the dish.
 
 ## Storage
 - Keeps 3 days refrigerated; reheat the soup base, then add fresh kale and chouriço each time so the kale stays bright.

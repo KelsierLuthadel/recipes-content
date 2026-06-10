@@ -33,8 +33,8 @@ Turkish pilav (pirinç pilavı) is one of Turkey's most foundational dishes and 
 - 2 tablespoons butter (for toasting the pine nuts)
 
 ### To finish
-- 1 tablespoon fresh dill (chopped) - optional
-- 1 tablespoon fresh parsley (chopped) - optional
+- 1 tablespoon fresh dill (chopped): optional
+- 1 tablespoon fresh parsley (chopped): optional
 
 ## Method
 

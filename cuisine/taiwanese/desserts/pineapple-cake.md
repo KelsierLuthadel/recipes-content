@@ -31,12 +31,12 @@ Pineapple cakes (feng li su) are Taiwan's defining gift food: small shortbread r
 - A pinch of salt
 
 ### Equipment
-- 16 small rectangular pineapple cake moulds (about 5 x 4 cm) - or use mini-loaf tins, or shape free-form
+- 16 small rectangular pineapple cake moulds (about 5 x 4 cm): or use mini-loaf tins, or shape free-form
 
 ## Method
 
 ### Stage 1 - Pineapple paste
-1. Pulse the pineapple in a food processor to a coarse rubble (or grate by hand). Squeeze out and discard about half the juice - too much liquid means the paste won't thicken.
+1. Pulse the pineapple in a food processor to a coarse rubble (or grate by hand). Squeeze out and discard about half the juice, too much liquid means the paste won't thicken.
 1. Tip the squeezed pulp into a wide heavy pan.
 1. Add the sugar, maltose syrup, butter and salt.
 1. Cook over medium-low heat, stirring often, 30-40 minutes until the mixture is thick, golden, and pulls away from the pan when the spoon is drawn through. The colour should deepen to caramel-gold.
@@ -49,7 +49,7 @@ Pineapple cakes (feng li su) are Taiwan's defining gift food: small shortbread r
 1. Cream the butter and icing sugar in a wide bowl until pale.
 1. Beat in the egg yolks one at a time.
 1. Mix in the milk powder, flour and salt with a spatula until just combined.
-1. Wrap and rest 15 minutes (don't refrigerate fully - too cold and it cracks during shaping).
+1. Wrap and rest 15 minutes (don't refrigerate fully, too cold and it cracks during shaping).
 
 ### Stage 4 - Shape
 1. Heat the oven to 170°C (150°C fan).
@@ -73,7 +73,7 @@ Pineapple cakes (feng li su) are Taiwan's defining gift food: small shortbread r
 ## Notes
 - **Maltose vs honey:** Maltose syrup gives the chewy texture that's authentic pineapple cake. Honey works as a substitute but the filling is slightly stickier.
 - **Drain the pineapple hard:** Excess liquid means the paste won't reach the right consistency in cooking time. Squeeze through a sieve or muslin.
-- **Pale, not golden:** Pineapple cakes are baked light. Deep gold means overdone - the texture goes from tender shortbread to dry biscuit.
+- **Pale, not golden:** Pineapple cakes are baked light. Deep gold means overdone, the texture goes from tender shortbread to dry biscuit.
 
 ## Storage
 - Keeps 2 weeks at room temperature in an airtight tin; flavour deepens.

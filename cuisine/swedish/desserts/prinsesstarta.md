@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes (sponge)
 
 ## Overview
-Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes and a fixture of every Swedish konditori window from Stockholm to Malmö. The cake was created in the 1920s by Jenny Åkerström, a Swedish home-economics teacher who taught the three Swedish princesses (Margaretha, Märtha, and Astrid) - hence the name. The construction: three thin layers of light vanilla sponge (sometimes flavoured with cardamom) sandwiched with raspberry jam, vanilla pastry cream, and finally a tall mounded dome of lightly sweetened whipped cream that gives the cake its distinctive bowler-hat shape. The whole assembly is then wrapped in a smooth thin sheet of pale green-tinted marzipan (the traditional Swedish princess colour - though pink and yellow variants exist for different occasions), the marzipan smoothed over the dome to give a perfect curved surface. Crowned with a single rose made from pink marzipan and a small dusting of icing sugar. The cake is best eaten the day it's assembled (the cream stays fluffy) but can be made up to 24 hours ahead.
+Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes and a fixture of every Swedish konditori window from Stockholm to Malmö. The cake was created in the 1920s by Jenny Åkerström, a Swedish home-economics teacher who taught the three Swedish princesses (Margaretha, Märtha, and Astrid): hence the name. The construction: three thin layers of light vanilla sponge (sometimes flavoured with cardamom) sandwiched with raspberry jam, vanilla pastry cream, and finally a tall mounded dome of lightly sweetened whipped cream that gives the cake its distinctive bowler-hat shape. The whole assembly is then wrapped in a smooth thin sheet of pale green-tinted marzipan (the traditional Swedish princess colour, though pink and yellow variants exist for different occasions), the marzipan smoothed over the dome to give a perfect curved surface. Crowned with a single rose made from pink marzipan and a small dusting of icing sugar. The cake is best eaten the day it's assembled (the cream stays fluffy) but can be made up to 24 hours ahead.
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 - 1 teaspoon vanilla extract
 
 ### Filling
-- 4 tablespoons high-quality raspberry jam (Swedish hjortronsylt - cloudberry jam - is the deluxe alternative)
+- 4 tablespoons high-quality raspberry jam (Swedish hjortronsylt, cloudberry jam, is the deluxe alternative)
 
 ### Green marzipan covering
 - 400 g good-quality marzipan (50% almond minimum)
@@ -58,7 +58,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 ### Stage 1 - Make the sponge
 1. Preheat oven to 180°C (350°F).
 2. Grease and line a 23cm round cake tin with parchment.
-3. Whisk the eggs and sugar together with electric beaters for 6-8 minutes till pale, thick, and tripled in volume. The "ribbon stage" - the whisk should leave a trail that holds for 5 seconds.
+3. Whisk the eggs and sugar together with electric beaters for 6-8 minutes till pale, thick, and tripled in volume. The "ribbon stage", the whisk should leave a trail that holds for 5 seconds.
 4. Sift the flour, cornflour, baking powder, and salt over the top.
 5. Add vanilla extract.
 6. Fold in gently with a metal spoon or spatula; don't deflate.
@@ -102,7 +102,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 
 ### Stage 8 - Make the marzipan covering
 1. Knead the marzipan with the green food colouring gel till the colour is uniform.
-2. Add colour gradually - pale pistachio green is the traditional shade, not bright emerald.
+2. Add colour gradually, pale pistachio green is the traditional shade, not bright emerald.
 3. Roll the marzipan out on a surface lightly dusted with icing sugar to a circle about 35cm diameter and 4mm thick.
 
 ### Stage 9 - Wrap the cake
@@ -113,7 +113,7 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 
 ### Stage 10 - Add the rose
 1. Pinch off a small piece of pink marzipan; roll into a small ball.
-2. Flatten with your fingers into a thin disc - this is the centre of the rose.
+2. Flatten with your fingers into a thin disc, this is the centre of the rose.
 3. Roll smaller marzipan balls into thin discs and wrap them around the centre as overlapping petals.
 4. Place the rose on top of the cake (slightly off-centre is fine).
 

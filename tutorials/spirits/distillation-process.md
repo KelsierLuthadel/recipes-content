@@ -5,7 +5,7 @@
 *A closer look at the four stages every commercial distillery follows: mash, ferment, distil, age. The chemistry, the equipment and what each step actually does to turn grain into a glass of whisky or vodka.*
 
 ## Overview
-The transformation from raw grain to a clear high-proof spirit happens through four distinct phases, each handled by specialist equipment in any working distillery. This page walks through what each phase does at industrial scale - useful background for tasting and understanding spirits, but explicitly not instructions to do this at home (see the [Spirits Overview](spirits.md) for the legal context).
+The transformation from raw grain to a clear high-proof spirit happens through four distinct phases, each handled by specialist equipment in any working distillery. This page walks through what each phase does at industrial scale, useful background for tasting and understanding spirits, but explicitly not instructions to do this at home (see the [Spirits Overview](spirits.md) for the legal context).
 
 ## Stage 1: Mash
 
@@ -13,9 +13,9 @@ The transformation from raw grain to a clear high-proof spirit happens through f
 Convert starches in grain into fermentable sugars.
 
 ### Process
-Whole grain (usually barley, rye, wheat or corn, depending on the spirit being made) is first malted - soaked in water to germinate, then kiln-dried to halt germination at the stage where the grain has developed enzymes (specifically alpha-amylase and beta-amylase) but hasn't actually grown a plant.
+Whole grain (usually barley, rye, wheat or corn, depending on the spirit being made) is first malted, soaked in water to germinate, then kiln-dried to halt germination at the stage where the grain has developed enzymes (specifically alpha-amylase and beta-amylase) but hasn't actually grown a plant.
 
-The malted grain is milled to crack the husks and expose the starchy interior, then combined with hot water (around 65°C) in a large vessel called a mash tun. The enzymes from the malted grain dissolve into the water and break the starches in the grain into simple sugars - primarily maltose. After about an hour, the resulting sweet liquid (called "wort" in beer-making, "mash" or "wash" in spirit-making) is drained off and the grain residue is discarded or used as cattle feed.
+The malted grain is milled to crack the husks and expose the starchy interior, then combined with hot water (around 65°C) in a large vessel called a mash tun. The enzymes from the malted grain dissolve into the water and break the starches in the grain into simple sugars, primarily maltose. After about an hour, the resulting sweet liquid (called "wort" in beer-making, "mash" or "wash" in spirit-making) is drained off and the grain residue is discarded or used as cattle feed.
 
 ### Equipment
 - **Mash tun**: a large insulated vessel (typically 1,000-30,000 litres at distillery scale) with a false floor that lets the liquid drain off the grain bed.
@@ -32,12 +32,12 @@ The malted grain is milled to crack the husks and expose the starchy interior, t
 Yeast eats the sugars in the mash and produces ethanol and CO2.
 
 ### Process
-The mash is cooled to around 20-25°C (yeast can't survive above 35°C). Distillery yeast - typically Saccharomyces cerevisiae, sometimes a specific strain selected by the distillery for the flavour compounds it produces - is added to the mash in large vessels called washbacks.
+The mash is cooled to around 20-25°C (yeast can't survive above 35°C). Distillery yeast, typically Saccharomyces cerevisiae, sometimes a specific strain selected by the distillery for the flavour compounds it produces, is added to the mash in large vessels called washbacks.
 
-Over 3-7 days the yeast ferments the sugars, dropping the specific gravity from around 1.060 to about 1.000. The wash at the end of fermentation is roughly 7-12% ABV - essentially a strong, sour, unhopped beer. The yeast also produces a range of secondary flavour compounds (esters, higher alcohols, aldehydes) which carry through to the finished spirit and contribute to its character. This is why distilleries jealously guard their yeast strains; the same mash fermented with different yeasts produces noticeably different spirits.
+Over 3-7 days the yeast ferments the sugars, dropping the specific gravity from around 1.060 to about 1.000. The wash at the end of fermentation is roughly 7-12% ABV, essentially a strong, sour, unhopped beer. The yeast also produces a range of secondary flavour compounds (esters, higher alcohols, aldehydes) which carry through to the finished spirit and contribute to its character. This is why distilleries jealously guard their yeast strains; the same mash fermented with different yeasts produces noticeably different spirits.
 
 ### Equipment
-- **Washbacks**: large fermentation vessels (traditionally wooden - Oregon pine or Douglas fir is classic for Scotch - but increasingly stainless steel for ease of cleaning). Typical capacity 5,000-50,000 litres.
+- **Washbacks**: large fermentation vessels (traditionally wooden, Oregon pine or Douglas fir is classic for Scotch, but increasingly stainless steel for ease of cleaning). Typical capacity 5,000-50,000 litres.
 
 ### What varies
 - **Yeast strain**: each distillery's choice. Some use multiple strains in combination.
@@ -50,7 +50,7 @@ Over 3-7 days the yeast ferments the sugars, dropping the specific gravity from 
 Separate the alcohol (and certain desirable flavour compounds) from the water and undesirable compounds in the fermented wash.
 
 ### Process
-The fermented wash is heated in a still. Ethanol boils at 78.3°C - lower than water (100°C) - so by holding the wash at a temperature in between, alcohol vapours rise off the top while most of the water stays behind. The alcohol vapour is captured, passed through a cooling condenser, and collected as a liquid at a higher ABV than the wash.
+The fermented wash is heated in a still. Ethanol boils at 78.3°C, lower than water (100°C): so by holding the wash at a temperature in between, alcohol vapours rise off the top while most of the water stays behind. The alcohol vapour is captured, passed through a cooling condenser, and collected as a liquid at a higher ABV than the wash.
 
 A single distillation typically takes the spirit from 7-12% ABV to around 25-30%. A second distillation can raise it to 65-70% ABV. Industrial column stills can produce neutral grain spirit at 95-96% ABV in a continuous process.
 
@@ -59,7 +59,7 @@ A single distillation typically takes the spirit from 7-12% ABV to around 25-30%
 During distillation, different compounds vaporise at different temperatures. The distiller (or modern automated systems) separates the output into three streams:
 
 - **Heads** (also "foreshots"): the first about 5% of output. Contains methanol (the toxic alcohol), acetaldehyde and other volatile compounds with lower boiling points than ethanol. Discarded or reused as next batch's heads.
-- **Hearts**: the middle 70-80% of output. This is the desirable, drinkable spirit - ethanol with a clean balance of flavour-bearing congeners.
+- **Hearts**: the middle 70-80% of output. This is the desirable, drinkable spirit, ethanol with a clean balance of flavour-bearing congeners.
 - **Tails**: the last about 15-20% of output. Contains heavier alcohols, water, and unpleasant compounds (fusel oils, propanol). Discarded or saved and added back to the next batch.
 
 Knowing exactly when to make these "cuts" is the most important skill in distillation. Too early on the heads cut means the spirit contains methanol; too late on the tails cut means harsh fusel oils carry through.
@@ -68,9 +68,9 @@ Knowing exactly when to make these "cuts" is the most important skill in distill
 
 There are two main still designs:
 
-**Pot stills** are batch-processed copper vessels shaped like a kettle. Wash is loaded in, heated, distilled, and the still emptied between batches. Pot stills produce spirit at moderate ABV (60-70%) and retain a lot of flavour-bearing congeners from the wash. They're used for Scotch single malt, Irish whisky, cognac, some gins, rums and tequilas - wherever character and complexity are valued.
+**Pot stills** are batch-processed copper vessels shaped like a kettle. Wash is loaded in, heated, distilled, and the still emptied between batches. Pot stills produce spirit at moderate ABV (60-70%) and retain a lot of flavour-bearing congeners from the wash. They're used for Scotch single malt, Irish whisky, cognac, some gins, rums and tequilas, wherever character and complexity are valued.
 
-**Column stills** (also called continuous stills, patent stills or Coffey stills, after their 1830 inventor Aeneas Coffey) are tall vertical columns of multiple trays through which the wash trickles down while heat rises up. Each tray operates at a slightly different temperature, achieving multiple distillations in one pass. Column stills produce very high-proof, very pure neutral spirit (up to 96% ABV) - used for vodka, light rums, neutral grain spirit and most gin bases. The trade-off: column-distilled spirits have far less character because most of the congeners are stripped.
+**Column stills** (also called continuous stills, patent stills or Coffey stills, after their 1830 inventor Aeneas Coffey) are tall vertical columns of multiple trays through which the wash trickles down while heat rises up. Each tray operates at a slightly different temperature, achieving multiple distillations in one pass. Column stills produce very high-proof, very pure neutral spirit (up to 96% ABV): used for vodka, light rums, neutral grain spirit and most gin bases. The trade-off: column-distilled spirits have far less character because most of the congeners are stripped.
 
 ### Equipment
 - **Pot stills**: copper, traditional, batch-processed. Capacity typically 1,000-20,000 litres per batch.
@@ -85,10 +85,10 @@ There are two main still designs:
 ## Stage 4: Age (sometimes)
 
 ### Goal
-Soften, mature and flavour the spirit through prolonged contact with wood - primarily oak.
+Soften, mature and flavour the spirit through prolonged contact with wood, primarily oak.
 
 ### Process
-The new-make spirit fresh from the still (75-95% ABV depending on type) is typically reduced to around 60-65% ABV with pure water, then loaded into wooden barrels - almost always white oak (American Quercus alba or European Quercus robur). The barrel is sealed and stored in a warehouse for years.
+The new-make spirit fresh from the still (75-95% ABV depending on type) is typically reduced to around 60-65% ABV with pure water, then loaded into wooden barrels, almost always white oak (American Quercus alba or European Quercus robur). The barrel is sealed and stored in a warehouse for years.
 
 During ageing, three things happen:
 1. **Extraction**: compounds in the oak (vanillin, tannins, lactones, sugars) dissolve into the spirit, adding colour, flavour and aroma.

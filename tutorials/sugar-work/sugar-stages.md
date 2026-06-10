@@ -7,7 +7,7 @@
 ## Overview
 When you cook sugar with water, the water boils off and the sugar concentrates. As the water concentration drops, the boiling point of the syrup rises. The temperature of the syrup at any point tells you the sugar concentration; the sugar concentration tells you what the syrup will do when cooled.
 
-The seven main stages are below. The names ("soft ball," "hard crack") come from the traditional cold-water test - dropping a spoonful of syrup into cold water to see what it does. The temperatures are the modern thermometer reading. Use the thermometer; the cold-water test is a fallback when the thermometer fails.
+The seven main stages are below. The names ("soft ball," "hard crack") come from the traditional cold-water test, dropping a spoonful of syrup into cold water to see what it does. The temperatures are the modern thermometer reading. Use the thermometer; the cold-water test is a fallback when the thermometer fails.
 
 ## The Seven Stages
 
@@ -58,7 +58,7 @@ Beyond 180 C: bitter, smoking, ruined.
 
 If your thermometer breaks or is off-calibration, the cold-water test works:
 
-1. Set up a small bowl of very cold water with a few ice cubes (not ice-filled - the cubes should be floating in the water).
+1. Set up a small bowl of very cold water with a few ice cubes (not ice-filled, the cubes should be floating in the water).
 2. Take a spoonful of syrup from the pan; immediately drip a small amount (about 1/2 tsp) into the cold water.
 3. Wait 10-15 seconds for the sugar to cool.
 4. With clean fingers, try to lift the sugar out and examine it.
@@ -81,7 +81,7 @@ A digital thermometer can drift over time. Test it before any critical sugar wor
 3. Read the temperature once it stabilises.
 4. At sea level, water boils at 100 C. At 1000 m altitude (Denver, mountain regions), boiling point drops to about 96 C.
 
-If your thermometer reads 102 C in boiling water at sea level, every sugar reading is 2 C too high - mentally subtract 2 from every reading.
+If your thermometer reads 102 C in boiling water at sea level, every sugar reading is 2 C too high, mentally subtract 2 from every reading.
 
 If the thermometer is more than 3-4 C off, replace it. Drift suggests the probe is failing.
 
@@ -109,7 +109,7 @@ Be at the pan and watching the thermometer in the final stages. Move the thermom
 
 A heavy-bottomed saucepan is essential. Thin pans heat unevenly; the syrup at the bottom can be in caramel stage while the syrup at the top is still in firm-ball stage. Heavy pans distribute heat evenly so the whole batch reaches each stage at the same time.
 
-Copper is the traditional and best material - it conducts heat evenly and the curved pan walls help control crystallisation (sugar crystals do not have flat surfaces to attach to as easily). Stainless steel with a thick aluminium base is the next best. Cast iron is too thick and slow to react. Non-stick pans are not great - the coating degrades at sugar temperatures.
+Copper is the traditional and best material, it conducts heat evenly and the curved pan walls help control crystallisation (sugar crystals do not have flat surfaces to attach to as easily). Stainless steel with a thick aluminium base is the next best. Cast iron is too thick and slow to react. Non-stick pans are not great, the coating degrades at sugar temperatures.
 
 ## Where Next
 - [Crystallisation](crystallisation.md): how to prevent or control sugar crystals during cooking.

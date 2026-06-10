@@ -39,7 +39,7 @@ Tempura garlic prawns look at first like they belong in a Japanese cookbook, but
 
 ### Stage 2 - Make Batter
 1. Sift the flours into a large bowl and then stir in the sparkling water, beaten egg, salt and garlic powder and whisk it all together. Your batter will be quite runny.
-2. Heat about 10cm (4in) of the oil in a large saucepan or wok until it reaches 170-180°C (340-350°F) - or until a small bit of the batter dropped into the oil sizzles instantly.
+2. Heat about 10cm (4in) of the oil in a large saucepan or wok until it reaches 170-180°C (340-350°F): or until a small bit of the batter dropped into the oil sizzles instantly.
 
 ### Stage 3 - Fry
 1. Fry in batches of only four or five to avoid reducing the oil temperature.

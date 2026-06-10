@@ -16,9 +16,9 @@ The Lebanese grilled kafta sold at every mangal from Beirut to Sydney: lamb-and-
 ## Ingredients
 
 ### Kafta
-- 500 g lamb mince (slightly fatty - shoulder)
+- 500 g lamb mince (slightly fatty, shoulder)
 - 300 g beef mince
-- 1 onion (large, very finely chopped - grate then squeeze out and chop the pulp)
+- 1 onion (large, very finely chopped, grate then squeeze out and chop the pulp)
 - 4 tablespoons fresh parsley (very finely chopped)
 - 4 garlic cloves (crushed)
 - 1 ½ teaspoons ground allspice
@@ -45,7 +45,7 @@ The Lebanese grilled kafta sold at every mangal from Beirut to Sydney: lamb-and-
 
 ### Stage 1 - Mix
 1. Combine all kafta ingredients in a wide bowl. Mix thoroughly with hands.
-1. Cover; rest 30 minutes in the fridge - the meat firms up and seasons through.
+1. Cover; rest 30 minutes in the fridge, the meat firms up and seasons through.
 
 ### Stage 2 - Shape
 1. Wet your hands.

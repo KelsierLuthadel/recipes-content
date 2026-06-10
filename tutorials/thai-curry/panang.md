@@ -50,7 +50,7 @@ For about 200 g of paste:
 
 1. Rehydrate the dried chillies in just-boiled water, 20 minutes. Drain.
 2. Toast the whole spices (coriander, cumin, peppercorns), 60-90 seconds in a dry pan. Grind to powder.
-3. Toast the peanuts briefly if not already roasted: 60 seconds in the dry pan, shaking. Cool. Grind to a coarse meal (pulses, not a paste - you want some texture).
+3. Toast the peanuts briefly if not already roasted: 60 seconds in the dry pan, shaking. Cool. Grind to a coarse meal (pulses, not a paste, you want some texture).
 4. Pound the paste:
    - Salt, lemongrass, galangal, kaffir lime first.
    - Shallots and garlic.

@@ -2,7 +2,7 @@
 
 ![Red Beans and Rice](resources/red-beans-and-rice.jpg)
 
-*Louisiana's Monday-night dish - a vegetarian version, where the smoke usually given by andouille comes from smoked paprika and a long simmer with bay and thyme. Beans break down on the edges and stay whole at the heart; the broth thickens to a gravy. Spooned over white rice, with hot sauce on the side.*
+*Louisiana's Monday-night dish, a vegetarian version, where the smoke usually given by andouille comes from smoked paprika and a long simmer with bay and thyme. Beans break down on the edges and stay whole at the heart; the broth thickens to a gravy. Spooned over white rice, with hot sauce on the side.*
 
 **Serves:** 4-6
 
@@ -50,7 +50,7 @@ The Monday dinner of New Orleans, the dish traditionally cooked on washing day b
 
 ### Stage 3 - Mash and thicken
 1. Add the soy sauce and salt.
-1. Use a wooden spoon to mash some of the beans against the side of the pot - about a third - to thicken the broth.
+1. Use a wooden spoon to mash some of the beans against the side of the pot, about a third, to thicken the broth.
 1. Continue cooking uncovered another 30 minutes until the beans are creamy and the gravy is thick enough to coat a spoon.
 
 ### Stage 4 - Finish

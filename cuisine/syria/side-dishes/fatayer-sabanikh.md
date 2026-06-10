@@ -61,7 +61,7 @@ Fatayer bi sabanikh is the Levantine spinach turnover: small yeasted dough round
    - Lift the right-top edge towards the centre, pinching the seam closed
    - Lift the left-top edge towards the centre, pinching the seam
    - Lift the bottom edge up to meet both, pinching all seams tightly closed
-1. The result is a small pyramid with three seams meeting at the top - completely sealed.
+1. The result is a small pyramid with three seams meeting at the top, completely sealed.
 1. Place on lined baking trays, seam-side up.
 
 ### Stage 5 - Bake

@@ -58,7 +58,7 @@ Keema samosa is the meat-filled samosa that turns up at every Indian iftar table
 ### Stage 2 - Fold
 1. Take a pastry strip. Place a generous tablespoon of cool filling on the bottom-right corner.
 1. Fold the corner up to the left edge to form a triangle.
-1. Continue folding the triangle up the strip - flag-fold method.
+1. Continue folding the triangle up the strip, flag-fold method.
 1. At the tail, brush with flour paste; tuck and seal.
 
 ### Stage 3 - Fry
@@ -71,7 +71,7 @@ Keema samosa is the meat-filled samosa that turns up at every Indian iftar table
 
 ## Notes
 - **Cool the filling:** Crucial. Warm filling melts the pastry and breaks the seal. Cool fully - 30 minutes on a tray works.
-- **Spring-roll vs samosa pastry:** Real samosa pastry is hand-rolled (flour, salt, oil, water) and is heavier and chewier. Spring-roll sheets give a quicker, crispier shell - widely accepted home shortcut.
+- **Spring-roll vs samosa pastry:** Real samosa pastry is hand-rolled (flour, salt, oil, water) and is heavier and chewier. Spring-roll sheets give a quicker, crispier shell, widely accepted home shortcut.
 - **Make ahead and freeze:** Fold; freeze on a tray; bag. Fry from frozen, adding 2 minutes to the cook time.
 
 ## Storage

@@ -24,8 +24,8 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: side of scottish salmon - farmed loch-reared or wild
-    raw: 1 side of Scottish salmon - farmed loch-reared or wild
+    name: "side of scottish salmon : farmed loch-reared or wild"
+    raw: "1 side of Scottish salmon : farmed loch-reared or wild"
   - qty: 200
     unit: g
     name: sea salt

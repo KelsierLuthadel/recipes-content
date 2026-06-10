@@ -26,15 +26,15 @@ Pão de queijo is the Brazilian cheese bread of Minas Gerais: small puffs of tap
 
 ### Stage 1 - Scald
 1. Combine the milk, oil and salt in a small pan.
-1. Bring to a steady boil - pull off the heat the moment it bubbles up.
+1. Bring to a steady boil, pull off the heat the moment it bubbles up.
 
 ### Stage 2 - Mix with starch
 1. Place the tapioca starch in a wide bowl.
-1. Pour the hot milk mixture over; stir with a wooden spoon - the starch will go from powder to a stringy, lumpy paste.
+1. Pour the hot milk mixture over; stir with a wooden spoon, the starch will go from powder to a stringy, lumpy paste.
 1. Cool 10 minutes (you'll be adding eggs; don't cook them).
 
 ### Stage 3 - Eggs and cheese
-1. Beat the eggs in one at a time, fully incorporating before the next. The mixture will look broken; keep mixing - it comes together.
+1. Beat the eggs in one at a time, fully incorporating before the next. The mixture will look broken; keep mixing, it comes together.
 1. Stir in the grated cheese.
 1. The dough will be sticky and a bit unruly.
 
@@ -53,9 +53,9 @@ Pão de queijo is the Brazilian cheese bread of Minas Gerais: small puffs of tap
 1. Eat hot from the oven, ideally within 10 minutes of baking.
 
 ## Notes
-- **Tapioca starch only:** Cornflour or cassava flour is not the same - they don't give the chew that defines pão de queijo. Polvilho is sold at Brazilian grocers and online.
+- **Tapioca starch only:** Cornflour or cassava flour is not the same, they don't give the chew that defines pão de queijo. Polvilho is sold at Brazilian grocers and online.
 - **Sour vs sweet polvilho:** Sour (azedo) is fermented, gives a slight tang and more lift. Sweet (doce) is milder. Both work; many recipes mix 50/50.
-- **Eat fresh:** The chew is at its best within 10 minutes of baking. Cooled pão de queijo is still tasty but loses its character - re-warm at 180°C for 5 minutes to revive.
+- **Eat fresh:** The chew is at its best within 10 minutes of baking. Cooled pão de queijo is still tasty but loses its character, re-warm at 180°C for 5 minutes to revive.
 
 ## Storage
-- Best fresh. Frozen unbaked dough balls keep 2 months - bake from frozen, adding 5 minutes.
+- Best fresh. Frozen unbaked dough balls keep 2 months, bake from frozen, adding 5 minutes.

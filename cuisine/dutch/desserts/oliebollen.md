@@ -41,7 +41,7 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 
 ### To serve
 - Hot, dusted heavily with icing sugar.
-- A glass of warm bisschopswijn (Dutch mulled wine) - the traditional New Year's Eve pairing.
+- A glass of warm bisschopswijn (Dutch mulled wine): the traditional New Year's Eve pairing.
 - A cup of strong coffee for the morning after.
 
 ## Method
@@ -57,7 +57,7 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 2. Whisk together so the yeast is evenly distributed.
 3. In a jug, whisk together the lukewarm milk, eggs and melted butter.
 4. Pour the wet into the dry; whisk till smooth (no lumps).
-5. The batter should be thick - the consistency of yogurt - not a thin pourable pancake batter.
+5. The batter should be thick, the consistency of yogurt, not a thin pourable pancake batter.
 
 ### Stage 3 - First rise
 1. Cover the bowl with cling film.
@@ -66,12 +66,12 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 ### Stage 4 - Add the inclusions
 1. Knock the batter back gently with a wooden spoon.
 2. Fold in the soaked raisins, sultanas, chopped apple, optional lemon zest and optional candied orange peel.
-3. The fruit should be evenly distributed but the batter should still be thick - don't add so much fruit that the batter loses its body.
+3. The fruit should be evenly distributed but the batter should still be thick, don't add so much fruit that the batter loses its body.
 
 ### Stage 5 - Heat the oil
 1. Heat the oil to 180°C in a deep heavy pot - 7-8 cm depth of oil.
 2. Use a thermometer to verify the temperature.
-3. Don't go above 190°C - too hot and the outside burns before the inside cooks; below 170°C and the oliebollen soak fat.
+3. Don't go above 190°C, too hot and the outside burns before the inside cooks; below 170°C and the oliebollen soak fat.
 
 ### Stage 6 - Fry (the two-spoon technique)
 1. Working in batches of 4-5 at a time (don't overcrowd), dip 2 tablespoons into a small bowl of hot water (helps the batter slide off).
@@ -79,7 +79,7 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 3. With the second spoon, slide / push the batter off into the hot oil.
 4. The batter forms an irregular ball as it hits the oil; don't try to make it perfectly round.
 5. Fry 5-7 minutes total, turning once or twice with a wire spider, till deeply golden brown on all sides.
-6. The oliebollen are done when they're a deep gold all over; tap with the spider - they should sound hollow.
+6. The oliebollen are done when they're a deep gold all over; tap with the spider, they should sound hollow.
 
 ### Stage 7 - Drain
 1. Lift the cooked oliebollen out with the spider; drain over the pot for a few seconds.
@@ -88,16 +88,16 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 ### Stage 8 - Dust with icing sugar
 1. While still warm, sift a generous coating of icing sugar over the oliebollen.
 2. Some Dutch cooks toss them in a bag of icing sugar to coat all over.
-3. Don't dust them when fully cold - the sugar doesn't stick as well.
+3. Don't dust them when fully cold, the sugar doesn't stick as well.
 
 ### Stage 9 - Serve immediately
 1. Pile the oliebollen on a serving plate.
 2. Add an extra dusting of icing sugar just before serving.
 3. Best eaten warm, within 30 minutes of frying.
-4. Pair with a glass of warm bisschopswijn (Dutch mulled wine - see [Bisschopswijn](../../../drinks/regional/netherlands/bisschopswijn.md)) for the traditional New Year's Eve combination.
+4. Pair with a glass of warm bisschopswijn (Dutch mulled wine, see [Bisschopswijn](../../../drinks/regional/netherlands/bisschopswijn.md)) for the traditional New Year's Eve combination.
 
 ## Notes
-- **Batter, not dough:** oliebollen batter is thick but pourable - more like a stiff pancake batter than a bread dough. Don't try to knead it.
+- **Batter, not dough:** oliebollen batter is thick but pourable, more like a stiff pancake batter than a bread dough. Don't try to knead it.
 - **Two-spoon scoop technique:** one spoon scoops, one spoon slides the batter off into the oil. The Dutch grandmother's method.
 - **Dipping spoons in hot water:** helps the sticky batter slide cleanly off the spoon.
 - **180°C is the magic temperature:** too low and the oliebollen soak fat; too high and the outside burns.
@@ -106,12 +106,12 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 - **They don't keep:** oliebollen are at their peak within 30 minutes of frying. After 2 hours the texture has gone leathery; after a day they're sad.
 
 ## Variations
-**Oliebollen met krenten (currant):** swap the sultanas for 100 g of currants - a tarter version.
-**Oliebollen met appel (apple-heavy variant):** double the apple to 4 apples; skip the raisins and sultanas - the rural Dutch variant.
-**Oliebollen with rum-soaked raisins (boozy):** double the rum and don't drain the raisins - the adult New Year's Eve variant.
+**Oliebollen met krenten (currant):** swap the sultanas for 100 g of currants, a tarter version.
+**Oliebollen met appel (apple-heavy variant):** double the apple to 4 apples; skip the raisins and sultanas, the rural Dutch variant.
+**Oliebollen with rum-soaked raisins (boozy):** double the rum and don't drain the raisins, the adult New Year's Eve variant.
 **Krentenbollen (alternative name for a similar product):** smaller versions sold at Dutch bakeries year-round; same recipe but smaller portions.
-**Berliner / Berlina (the filled cousin):** instead of free-form, shape the dough into balls; fry; inject with jam or custard - the Polish-German cousin.
-**Appelbeignets (apple beignet variant):** dip rings of cored apple in a similar batter; fry; dust with sugar - the smaller alternative to oliebollen.
+**Berliner / Berlina (the filled cousin):** instead of free-form, shape the dough into balls; fry; inject with jam or custard, the Polish-German cousin.
+**Appelbeignets (apple beignet variant):** dip rings of cored apple in a similar batter; fry; dust with sugar, the smaller alternative to oliebollen.
 **Vegan oliebollen:** swap eggs for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk.
 **Quick-yeast oliebollen:** use a fast-rise yeast for a 45-minute rise instead of 90.
 
@@ -121,7 +121,7 @@ At a Dutch street stall in the last two weeks of December (the traditional setti
 ## Storage
 - Best within 30 minutes of frying. Past that, the texture deteriorates fast.
 - Refrigerate up to 24 hours, but the texture won't fully recover; reheat in a 200°C oven for 4 minutes to revive somewhat.
-- Don't freeze - the texture goes leathery.
+- Don't freeze, the texture goes leathery.
 - The raw batter, before the first rise, refrigerates 24 hours; bring to room temperature for 30 minutes before frying.
 - The soaked raisins keep refrigerated 2 weeks in their soaking liquid.
-- Don't try to make oliebollen ahead - they're a fresh-from-the-fryer treat.
+- Don't try to make oliebollen ahead, they're a fresh-from-the-fryer treat.

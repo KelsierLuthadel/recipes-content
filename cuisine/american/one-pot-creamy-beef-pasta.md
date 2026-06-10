@@ -46,7 +46,7 @@ An American weeknight pasta that compresses a Hamburger Helper box meal into a s
 ### Stage 4 - Finish off heat
 1. Remove from heat.
 1. Stir in the heavy cream, shredded cheddar and grated parmesan.
-1. Cover; rest 10 minutes - the sauce thickens around the pasta as it sits.
+1. Cover; rest 10 minutes, the sauce thickens around the pasta as it sits.
 
 ### Stage 5 - Serve
 1. Plate in deep bowls; top with extra parmesan.

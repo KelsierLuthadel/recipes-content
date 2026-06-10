@@ -29,18 +29,18 @@ Chile's rainy-day flatbread, the pumpkin-and-flour disc that turns up at street 
 1. Place pumpkin in a pot with salted water to cover; bring to a boil.
 1. Cook 15 minutes until very tender.
 1. Drain very thoroughly; return to the dry pot; mash to a smooth purée.
-1. Cool to lukewarm - too hot melts the butter unevenly.
+1. Cool to lukewarm, too hot melts the butter unevenly.
 
 ### Stage 2 - Dough
 1. Whisk flour, baking powder, salt in a wide bowl.
 1. Add 400 g of the warm pumpkin purée and the melted butter; mix to a soft dough.
-1. Knead 3-4 minutes on a lightly floured surface - the dough should be soft and slightly sticky but workable.
+1. Knead 3-4 minutes on a lightly floured surface, the dough should be soft and slightly sticky but workable.
 1. Cover; rest 30 minutes.
 
 ### Stage 3 - Shape
 1. Roll the dough on a floured surface to 5 mm thick.
 1. Stamp out 8 cm rounds with a cutter or glass.
-1. Pierce each round twice through the centre with a fork - this prevents puffing too dramatically.
+1. Pierce each round twice through the centre with a fork, this prevents puffing too dramatically.
 
 ### Stage 4 - Fry
 1. Heat oil to 170°C in a deep pan.
@@ -52,7 +52,7 @@ Chile's rainy-day flatbread, the pumpkin-and-flour disc that turns up at street 
 1. For sweet sopaipillas pasadas, dunk in a hot chancaca syrup (brown sugar boiled with orange peel and cinnamon).
 
 ## Notes
-- **Dry pumpkin:** Drain very well after boiling - wet pumpkin gives wet dough that won't fry crisp.
+- **Dry pumpkin:** Drain very well after boiling, wet pumpkin gives wet dough that won't fry crisp.
 - **Don't roll too thin:** 5 mm is right. Thinner gives crispy crackers; thicker gives doughy centres.
 - **Pierce them:** Without the fork holes, they balloon then collapse to leathery flatbreads. With the holes, they stay flat-ish and crisp.
 

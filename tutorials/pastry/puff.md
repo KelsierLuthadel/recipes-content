@@ -44,27 +44,27 @@ For about 750 g finished pastry.
 
 ### Method
 
-**Day 1 morning - Make the detrempe.**
+**Day 1 morning, Make the detrempe.**
 1. Combine flours and salt in a large bowl.
 2. Mix the water, vinegar and melted butter in a jug.
 3. Make a well in the flour, add the liquid, mix to a rough dough.
 4. Knead briefly (2 minutes) to bring together. Do not over-develop the gluten.
 5. Cut a cross in the top, wrap, refrigerate 1 hour.
 
-**Day 1 morning - Make the butter block.**
+**Day 1 morning, Make the butter block.**
 1. Take the 350 g butter from the fridge. It needs to be cold but pliable.
 2. Place between two sheets of greaseproof paper.
 3. Beat with a rolling pin into a flat square, about 15 x 15 cm.
 4. Wrap, refrigerate until the detrempe is ready.
 
-**Day 1 - Enclose the butter (the envelope fold).**
+**Day 1, Enclose the butter (the envelope fold).**
 1. Roll the detrempe into a cross shape: a central square slightly larger than the butter block, with four flat flaps extending outward.
 2. Place the butter block in the centre.
 3. Fold the flaps over the butter, sealing it inside like an envelope.
 4. Press the edges with the rolling pin to seal.
 5. You now have a small square parcel with butter completely enclosed.
 
-**Day 1 - First turn (a "letter fold" or "single turn"):**
+**Day 1, First turn (a "letter fold" or "single turn"):**
 1. With the seam underneath, roll the parcel into a rectangle three times as long as wide.
 2. Fold in thirds like folding a letter: bring the top third down, then the bottom third up over it.
 3. Rotate 90 degrees so the open seam is on the right.
@@ -72,13 +72,13 @@ For about 750 g finished pastry.
 
 That is one turn. The dough now has 3 layers of butter and 4 layers of dough.
 
-**Day 1 - Second turn (another single turn):**
+**Day 1, Second turn (another single turn):**
 Same as above. Now 9 layers of butter, 12 layers of dough. Refrigerate 30 minutes.
 
-**Day 1 afternoon - Third and fourth turns:**
+**Day 1 afternoon, Third and fourth turns:**
 Same again. After turn 3: 27 / 36 layers. After turn 4: 81 / 108. Refrigerate 30 minutes between.
 
-**Day 1 evening - Fifth and sixth turns:**
+**Day 1 evening, Fifth and sixth turns:**
 After turn 5: 243 layers butter, 324 dough. After turn 6: 729 layers butter, 972 dough.
 
 The dough is now ready. Wrap, refrigerate overnight. Use within 3 days, or freeze in 250 g portions for up to 3 months.

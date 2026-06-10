@@ -49,7 +49,7 @@ Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-cre
 1. Add the green plantain; simmer a further 10 minutes.
 
 ### Stage 4 - Conch
-1. Add the conch strips; simmer just 3-5 minutes - it cooks through fast and overcooks to rubber.
+1. Add the conch strips; simmer just 3-5 minutes, it cooks through fast and overcooks to rubber.
 1. (If using shrimp: simmer 3 minutes. If using fish: 4-5 minutes.)
 1. Stir in lime juice; season with salt and pepper.
 1. Scatter fresh coriander.
@@ -63,5 +63,5 @@ Sopa de caracol is the Honduran conch soup of the Caribbean coast, a coconut-cre
 - **Achiote (annatto):** Gives the soup its golden-red colour and a slightly earthy note. Paprika is a fine substitute; smoked paprika adds depth.
 
 ## Storage
-- Refrigerate 2 days. Reheat gently - boiling rubberises the conch.
-- Don't freeze - the coconut milk splits and the yuca turns grainy.
+- Refrigerate 2 days. Reheat gently, boiling rubberises the conch.
+- Don't freeze, the coconut milk splits and the yuca turns grainy.

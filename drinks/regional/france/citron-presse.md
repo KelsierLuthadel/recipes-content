@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Citron pressé is the French café lemon drink and a small ceremony of self-assembly. The waiter brings a tall glass containing the fresh juice of one or two lemons, a small bowl of caster sugar with its own spoon, a carafe of cold still water, and sometimes a jug of soda water alongside. You stir in as much sugar as you want, top up with as much water as you want, and adjust to taste over the course of the drink. The result tastes brighter and sharper than any pre-mixed lemonade - the proportions are personal and the lemon is properly fresh. Common at every French café on a hot day; the brasserie equivalent of the British pub's lime and soda.
+Citron pressé is the French café lemon drink and a small ceremony of self-assembly. The waiter brings a tall glass containing the fresh juice of one or two lemons, a small bowl of caster sugar with its own spoon, a carafe of cold still water, and sometimes a jug of soda water alongside. You stir in as much sugar as you want, top up with as much water as you want, and adjust to taste over the course of the drink. The result tastes brighter and sharper than any pre-mixed lemonade, the proportions are personal and the lemon is properly fresh. Common at every French café on a hot day; the brasserie equivalent of the British pub's lime and soda.
 
 ## Ingredients
 
@@ -37,7 +37,7 @@ Citron pressé is the French café lemon drink and a small ceremony of self-asse
 1. At the table: spoon 2 to 4 teaspoons of sugar into the glass, stir to dissolve, then top up with water to taste. Drink, taste, adjust.
 
 ## Notes
-- **The assembly is the point.** Don't pre-mix at home if guests are around - bringing out the components on a tray feels more proper.
+- **The assembly is the point.** Don't pre-mix at home if guests are around, bringing out the components on a tray feels more proper.
 - **Use room-temperature lemons.** Rolled hard on the counter for 10 seconds; gives twice the juice yield.
 - **Soda water variant.** Some Parisian cafés serve the option of sparkling water alongside still; both are fine.
 

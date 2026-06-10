@@ -36,7 +36,7 @@ Maque choux is the summer corn dish of the bayou, a sweet, slow-stewed mix of co
 
 ### Stage 1 - Corn (if fresh)
 1. Stand each ear in a wide bowl; cut off the kernels with a sharp knife, working close to the cob.
-1. Once kernels are off, scrape the cob with the back of the knife to extract the milky pulp - this is what makes maque choux creamy. Add to the kernels.
+1. Once kernels are off, scrape the cob with the back of the knife to extract the milky pulp, this is what makes maque choux creamy. Add to the kernels.
 
 ### Stage 2 - Trinity
 1. Melt the butter in a wide heavy pan over medium heat.

@@ -5,12 +5,12 @@
 *The actual differentiation between grain alcohol, vodka, gin, whisky and rye. The legal definitions, the typical processes, the regional traditions, and the flavour profiles. A reference page for anyone who wants to know what's actually in the bottle.*
 
 ## Overview
-The spirits on a typical UK shelf - vodka, gin, whisky, rye, rum, brandy - are all distilled from fermented sugar, water and yeast. So why do they taste so different? The answer is in the choices at each of the four stages described in [The Distillation Process](distillation-process.md): different starting grain, different fermentation, different still, different ageing. This page works through each major spirit category in turn, covering what defines it legally, what process produces it, and what to expect in the glass.
+The spirits on a typical UK shelf, vodka, gin, whisky, rye, rum, brandy, are all distilled from fermented sugar, water and yeast. So why do they taste so different? The answer is in the choices at each of the four stages described in [The Distillation Process](distillation-process.md): different starting grain, different fermentation, different still, different ageing. This page works through each major spirit category in turn, covering what defines it legally, what process produces it, and what to expect in the glass.
 
 ## Grain alcohol (neutral spirit)
 
 ### What it is
-Grain alcohol - also called neutral grain spirit, rectified spirit, ethanol, or just "alcohol" in some commercial contexts - is the highest-proof, most flavourless spirit produced commercially. Distilled to 95-96% ABV in column stills, with the goal of removing essentially all flavour-bearing compounds. It's the foundational ingredient that vodka, gin and most other neutral spirits are built from.
+Grain alcohol, also called neutral grain spirit, rectified spirit, ethanol, or just "alcohol" in some commercial contexts, is the highest-proof, most flavourless spirit produced commercially. Distilled to 95-96% ABV in column stills, with the goal of removing essentially all flavour-bearing compounds. It's the foundational ingredient that vodka, gin and most other neutral spirits are built from.
 
 ### How it's made
 - **Mash**: typically corn (US), wheat (Europe), rye or potato.
@@ -19,10 +19,10 @@ Grain alcohol - also called neutral grain spirit, rectified spirit, ethanol, or 
 - **Age**: none. Filtered through activated charcoal to further strip impurities, then bottled or sold to other producers.
 
 ### What it tastes like
-Nothing, really. Slightly sweet on the palate (from residual ethanol-related smoothness), with a strong alcohol burn. The point is flavourlessness - to be a neutral canvas.
+Nothing, really. Slightly sweet on the palate (from residual ethanol-related smoothness), with a strong alcohol burn. The point is flavourlessness, to be a neutral canvas.
 
 ### Where you encounter it
-- Bottled as "Everclear" (95% in the US) or "Spirytus Rektyfikowany" (95% in Poland) - drunk diluted or used to make infusions and liqueurs.
+- Bottled as "Everclear" (95% in the US) or "Spirytus Rektyfikowany" (95% in Poland): drunk diluted or used to make infusions and liqueurs.
 - The base ingredient in almost every vodka and most gins. Distillers buy neutral grain spirit by the tanker truck from agricultural alcohol producers and then either bottle it (vodka) or redistill with botanicals (gin).
 - Used in extracts (vanilla, almond), tinctures, and pharmaceutical preparations.
 
@@ -34,19 +34,19 @@ Nothing, really. Slightly sweet on the palate (from residual ethanol-related smo
 ## Vodka
 
 ### What it is
-Vodka is neutral grain spirit (or neutral spirit from potato, grape, or other source) reduced with water to around 40% ABV and bottled. Legally in the UK and EU, vodka must be distilled to "such a strength that the qualities of the raw materials used cannot be perceived" - in other words, near-tastelessness is the legal requirement.
+Vodka is neutral grain spirit (or neutral spirit from potato, grape, or other source) reduced with water to around 40% ABV and bottled. Legally in the UK and EU, vodka must be distilled to "such a strength that the qualities of the raw materials used cannot be perceived", in other words, near-tastelessness is the legal requirement.
 
 ### How it's made
 - **Mash**: grain (wheat, rye, corn, barley) or potato. Premium vodkas are often single-grain (Stolichnaya: wheat and rye; Belvedere: rye; Grey Goose: wheat); cheaper vodkas use mixed grains for cost.
 - **Ferment**: standard.
 - **Distil**: column still, multiple distillations (premium vodkas advertise 4-7 distillations).
-- **Filter**: activated charcoal filtration removes any residual congeners. Some vodkas filter through quartz, silver or even diamond - mostly marketing, but they do add purification.
+- **Filter**: activated charcoal filtration removes any residual congeners. Some vodkas filter through quartz, silver or even diamond, mostly marketing, but they do add purification.
 - **Age**: none. Bottled at 40% (sometimes higher) after dilution with pure water.
 
 ### What it tastes like
-Premium vodka is almost flavourless - clean, slightly sweet, with a smooth burn. The differences between premium vodkas are subtle: a wheat vodka tends to taste slightly creamy and round; a rye vodka has more peppery edge; a potato vodka is sometimes slightly fuller-bodied.
+Premium vodka is almost flavourless, clean, slightly sweet, with a smooth burn. The differences between premium vodkas are subtle: a wheat vodka tends to taste slightly creamy and round; a rye vodka has more peppery edge; a potato vodka is sometimes slightly fuller-bodied.
 
-Cheap vodka has off-flavours from less rigorous filtration and lower-quality grain - solvent-like, sometimes faintly oily, with a harsher burn. The premium / cheap distinction in vodka is genuinely meaningful.
+Cheap vodka has off-flavours from less rigorous filtration and lower-quality grain, solvent-like, sometimes faintly oily, with a harsher burn. The premium / cheap distinction in vodka is genuinely meaningful.
 
 ### Where you encounter it
 - Neat (chilled, often as a "shot") in Russian, Polish, Ukrainian and other Slavic traditions.
@@ -80,7 +80,7 @@ Gin is neutral grain spirit redistilled with juniper and other botanicals. The l
 There's also **compound gin** (steeped not redistilled, see the [Compound Gin](../compound-gin/compound-gin.md) tutorial) and **flavoured gins** (modern category, often pink-coloured, with added fruit / botanical essences after distillation).
 
 ### What it tastes like
-Juniper-led, with citrus and warm-spice support depending on the botanical bill. A London Dry is clean, crisp and herbal; a Plymouth is rounded; a Hendricks-style is floral with cucumber. The character of gin is the most consciously designed of any spirit category - each distiller chooses their botanicals to create their signature.
+Juniper-led, with citrus and warm-spice support depending on the botanical bill. A London Dry is clean, crisp and herbal; a Plymouth is rounded; a Hendricks-style is floral with cucumber. The character of gin is the most consciously designed of any spirit category, each distiller chooses their botanicals to create their signature.
 
 ### Where you encounter it
 - Gin and tonic (the British classic), Martini, Negroni, Gimlet, Tom Collins, Aviation, Last Word, French 75.
@@ -104,7 +104,7 @@ Spirit distilled from grain mash, aged in oak barrels for a minimum legal period
 - **Tastes like**: smoother, lighter, less peaty than most Scotches. Examples: Jameson, Bushmills, Redbreast.
 
 ### Bourbon whisky (American)
-- **Legal**: made in the US, mash bill must be at least 51% corn, aged in new charred American oak barrels (key - bourbon barrels are not reused), no minimum age (most bourbon is 4+ years), 80% maximum distillation strength.
+- **Legal**: made in the US, mash bill must be at least 51% corn, aged in new charred American oak barrels (key, bourbon barrels are not reused), no minimum age (most bourbon is 4+ years), 80% maximum distillation strength.
 - **Tastes like**: vanilla, caramel, oak, sweet corn. Examples: Maker's Mark, Buffalo Trace, Bulleit, Knob Creek, Woodford Reserve.
 
 ### Tennessee whiskey
@@ -127,7 +127,7 @@ Spirit distilled from grain mash, aged in oak barrels for a minimum legal period
 A specific subcategory of whisky in which rye grain dominates the mash bill. The legal definition varies by country.
 
 ### Canadian rye
-Historically, Canadian whisky was distilled mostly from corn with a small amount of rye added to the mash bill - the rye was used because it ferments aggressively and produces a particular spicy flavour. Canadian "rye" labels survived even when actual rye content dropped over the 20th century, so a Canadian whisky labelled "rye" may have less rye than US rye. Examples: Crown Royal, Canadian Club.
+Historically, Canadian whisky was distilled mostly from corn with a small amount of rye added to the mash bill, the rye was used because it ferments aggressively and produces a particular spicy flavour. Canadian "rye" labels survived even when actual rye content dropped over the 20th century, so a Canadian whisky labelled "rye" may have less rye than US rye. Examples: Crown Royal, Canadian Club.
 
 ### American rye
 - **Legal**: mash bill must be 51%+ rye, aged in new charred oak.
@@ -137,7 +137,7 @@ Historically, Canadian whisky was distilled mostly from corn with a small amount
 Rye produces particularly aromatic and spicy congeners during fermentation. The result is a whisky that's drier and more savoury than bourbon (which is corn-heavy and sweet) and more peppery than Scotch (which is barley). Rye is the traditional base for the Manhattan cocktail and the Old Fashioned.
 
 ### Production notes
-Rye is sticky and tough to mash compared to corn or barley - it's why pure 100% rye whiskies are rarer and more expensive (the high-rye-content mash is technically challenging to ferment). Most "rye" labels are 51-65% rye by mash.
+Rye is sticky and tough to mash compared to corn or barley, it's why pure 100% rye whiskies are rarer and more expensive (the high-rye-content mash is technically challenging to ferment). Most "rye" labels are 51-65% rye by mash.
 
 ## A note on labels and confusion
 

@@ -42,12 +42,12 @@ Two strong Caribbean flavours pulled into a single one-pan dinner: jerk on the i
 
 ### Stage 1 - Mix the meatballs
 1. Combine pork, egg, panko, garlic, scallion, jerk seasoning, ginger paste, salt and pepper in a bowl.
-1. Mix gently with the hands until just combined - don't overwork.
+1. Mix gently with the hands until just combined, don't overwork.
 1. Shape into 20-22 meatballs using a tablespoon scoop, then roll smooth.
 
 ### Stage 2 - Sear
 1. Heat 2 tablespoons butter + 1 tablespoon oil in a non-stick skillet over medium heat.
-1. Working in batches, brown the meatballs all over - about 3 minutes per side.
+1. Working in batches, brown the meatballs all over, about 3 minutes per side.
 1. Set aside on a plate.
 
 ### Stage 3 - Sauce

@@ -17,9 +17,9 @@ Nam prik pao is Thailand's roasted chilli jam, the dark mahogany paste of dried 
 
 ### Aromatics (each fried separately)
 - 200 ml sunflower oil (or vegetable oil, most stays in the finished jam as a sealing layer)
-- 30 g dried red chillies (large mild - like Thai dried red chillies or Kashmiri; about 12-15 chillies)
-- 80 g shallots (thinly sliced - about 4 small shallots)
-- 80 g garlic (thinly sliced - about 2 whole bulbs)
+- 30 g dried red chillies (large mild, like Thai dried red chillies or Kashmiri; about 12-15 chillies)
+- 80 g shallots (thinly sliced, about 4 small shallots)
+- 80 g garlic (thinly sliced, about 2 whole bulbs)
 - 30 g dried shrimp (sold at Asian shops)
 
 ### Seasoning
@@ -59,14 +59,14 @@ Nam prik pao is Thailand's roasted chilli jam, the dark mahogany paste of dried 
 ### Stage 6 - Pound or pulse
 1. Reserve all the cooking oil in the pan.
 1. In a mortar or food processor, combine the fried shallots, garlic, chillies and shrimp.
-1. **Mortar**: pound vigorously for 5-7 minutes to a coarse paste - traditional method, gives the best texture.
-1. **Processor**: pulse 8-12 times until you have a textured paste (NOT smooth - small chunks are good).
+1. **Mortar**: pound vigorously for 5-7 minutes to a coarse paste, traditional method, gives the best texture.
+1. **Processor**: pulse 8-12 times until you have a textured paste (NOT smooth, small chunks are good).
 
 ### Stage 7 - Combine and cook
 1. Return the paste to the pan with the reserved oil over medium-low heat.
 1. Add palm sugar, fish sauce, tamarind paste and 60 ml water.
 1. Cook 8-10 minutes, stirring constantly, until the mixture darkens to a deep mahogany red-brown, thickens to a jam-like consistency, and the oil rises to the surface.
-1. Taste; balance with extra sugar (for sweetness), fish sauce (for saltiness), tamarind (for sourness) or chilli (for heat) - nam prik pao should hit all four notes.
+1. Taste; balance with extra sugar (for sweetness), fish sauce (for saltiness), tamarind (for sourness) or chilli (for heat): nam prik pao should hit all four notes.
 
 ### Stage 8 - Cool and store
 1. Cool fully to room temperature.

@@ -13,12 +13,12 @@
 ## Overview
 This recipe is the cornerstone of the course. Once you've made it once and understood how the botanicals balance, every other compound gin variation (citrus-forward, herbal, floral, peppery) is a simple change to the botanical mix. Start here, taste the result, then experiment.
 
-The technique is dead simple: combine spirit and botanicals in a glass jar, seal, let steep, strain, bottle. The skill is in the proportions of botanicals - get these right and you have a balanced gin; get them wrong and you have an unpleasant or muddled spirit. The proportions in this recipe are the well-established middle-of-the-road for a London Dry-style profile.
+The technique is dead simple: combine spirit and botanicals in a glass jar, seal, let steep, strain, bottle. The skill is in the proportions of botanicals, get these right and you have a balanced gin; get them wrong and you have an unpleasant or muddled spirit. The proportions in this recipe are the well-established middle-of-the-road for a London Dry-style profile.
 
 ## Ingredients
 
 ### The spirit base
-- 1 litre of neutral grain spirit at 40-45% ABV - Russian Standard, Smirnoff Red, Absolut or Stolichnaya vodka are all good choices. Don't use cheap supermarket-own-brand vodka (often has off-flavours) or premium vodka (above £30 a litre, wasted because botanicals dominate). About £18-£22 per litre.
+- 1 litre of neutral grain spirit at 40-45% ABV, Russian Standard, Smirnoff Red, Absolut or Stolichnaya vodka are all good choices. Don't use cheap supermarket-own-brand vodka (often has off-flavours) or premium vodka (above £30 a litre, wasted because botanicals dominate). About £18-£22 per litre.
 
 ### The botanicals
 - 30 g dried juniper berries (whole, not crushed)
@@ -64,8 +64,8 @@ See the [Botanicals Guide](botanicals.md) for sourcing details.
 1. Place the sealed jar somewhere away from direct sunlight at normal room temperature (18-22°C).
 1. Shake gently once a day.
 1. At 24 hours, decant a small sample (about 5 ml) into a clean shot glass. Taste straight, then taste diluted with tonic water at the proportions you'd actually drink it (1 part gin to 3 parts tonic).
-1. If the spirit tastes pleasantly piney, citrussy and aromatic - strain immediately (Stage 5).
-1. If it tastes thin or under-aromatic - leave for another 12 hours and re-taste.
+1. If the spirit tastes pleasantly piney, citrussy and aromatic, strain immediately (Stage 5).
+1. If it tastes thin or under-aromatic, leave for another 12 hours and re-taste.
 1. Beyond 48 hours total, the gin can become bitter as more astringent compounds extract. Don't go past 48 hours.
 
 ### Stage 5 - First strain (10 min)
@@ -76,7 +76,7 @@ See the [Botanicals Guide](botanicals.md) for sourcing details.
 ### Stage 6 - Fine strain (5 min)
 1. Set a coffee filter (or 3 layers of muslin cloth) in a fresh clean funnel above your bottle.
 1. Pour the strained gin through the filter into the bottle. This second strain catches the fine sediment that the sieve missed.
-1. Be patient - coffee filtering is slow (10-15 minutes for a litre). The finished gin should be perfectly clear with no cloudiness.
+1. Be patient, coffee filtering is slow (10-15 minutes for a litre). The finished gin should be perfectly clear with no cloudiness.
 
 ### Stage 7 - Bottle and label
 1. Cork or seal the bottle.
@@ -127,7 +127,7 @@ See the [Botanicals Guide](botanicals.md) for sourcing details.
 ## Storage
 
 - A sealed bottle of compound gin keeps indefinitely at room temperature. The flavour holds well for 1-2 years.
-- Keep out of direct sunlight - UV degrades the aromatic compounds.
+- Keep out of direct sunlight, UV degrades the aromatic compounds.
 - No need to refrigerate.
 
 ## Next step

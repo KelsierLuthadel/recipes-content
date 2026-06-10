@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking partner of every Danish lunch involving pickled herring, smørrebrød or cured meat. The Aalborg distillery in northern Jutland has been making akvavit since 1846 and produces multiple varieties: Aalborg Taffel (the traditional caraway-and-dill aquavit, smooth, clear); Aalborg Jubilæum (oak-aged, slightly darker); Aalborg Dild (extra-dill); Aalborg Porse (with sweet-gale, a Danish bog plant). The dominant flavour is caraway - more aggressively caraway-forward than Swedish Skåne or Norwegian Linie aquavits - with secondary notes of dill, fennel, and lemon peel. Served ice-cold (straight from the freezer; akvavit's high alcohol prevents it freezing, but it becomes syrupy-viscous and intensely cold), in tiny straight-sided 30-40ml shot glasses. The Danish snaps ritual: a snapsvisa (snaps song - there are hundreds, from the universal "Helan går" to bawdier regional variants) is sung at the table, then everyone shouts "Skål!" and downs (or sips) the shot, immediately following with a bite of pickled herring on rye bread.
+Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking partner of every Danish lunch involving pickled herring, smørrebrød or cured meat. The Aalborg distillery in northern Jutland has been making akvavit since 1846 and produces multiple varieties: Aalborg Taffel (the traditional caraway-and-dill aquavit, smooth, clear); Aalborg Jubilæum (oak-aged, slightly darker); Aalborg Dild (extra-dill); Aalborg Porse (with sweet-gale, a Danish bog plant). The dominant flavour is caraway, more aggressively caraway-forward than Swedish Skåne or Norwegian Linie aquavits, with secondary notes of dill, fennel, and lemon peel. Served ice-cold (straight from the freezer; akvavit's high alcohol prevents it freezing, but it becomes syrupy-viscous and intensely cold), in tiny straight-sided 30-40ml shot glasses. The Danish snaps ritual: a snapsvisa (snaps song, there are hundreds, from the universal "Helan går" to bawdier regional variants) is sung at the table, then everyone shouts "Skål!" and downs (or sips) the shot, immediately following with a bite of pickled herring on rye bread.
 
 ## Ingredients
 
@@ -19,13 +19,13 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 - 1 bottle (700 ml) Aalborg Taffel Akvavit OR Aalborg Jubilæum (for the oak-aged version)
 
 ### Option B: Home-infused Danish-style snaps (2-week infusion)
-- 700 ml clear neutral vodka (a smooth one - Absolut, Smirnoff Black, or any quality potato vodka)
-- 4 tablespoons caraway seeds (whole - this is the Danish caraway-forward emphasis)
+- 700 ml clear neutral vodka (a smooth one, Absolut, Smirnoff Black, or any quality potato vodka)
+- 4 tablespoons caraway seeds (whole, this is the Danish caraway-forward emphasis)
 - 2 tablespoons dill seeds (or 6 fresh dill sprigs)
 - 1 tablespoon fennel seeds
 - 1 teaspoon coriander seeds
 - Peel of 1 lemon (no white pith)
-- A small piece of sweet-gale (porse) if available - the Danish bog plant; or substitute juniper berries
+- A small piece of sweet-gale (porse) if available, the Danish bog plant; or substitute juniper berries
 - 1 tablespoon caster sugar (optional; balances the burn)
 
 ### Equipment
@@ -34,7 +34,7 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 - Small (30-40ml) straight-sided shot glasses ("snaps glasses")
 
 ### To serve (per round)
-- 1 piece pickled herring (or karrysild - see [karrysild recipe](../../cuisine/danish/snacks/karrysild.md)) on a small piece of dark Danish rye bread
+- 1 piece pickled herring (or karrysild, see [karrysild recipe](../../cuisine/danish/snacks/karrysild.md)) on a small piece of dark Danish rye bread
 - A sprig of fresh dill
 - A small pinch of flaky salt
 
@@ -59,7 +59,7 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 2. Seal the jar tightly.
 
 ### Stage 3 - Infuse 2 weeks
-1. Place in a cool dark cupboard for 2 weeks (Danish home cooks tend to infuse longer than Swedish - the caraway is stronger).
+1. Place in a cool dark cupboard for 2 weeks (Danish home cooks tend to infuse longer than Swedish, the caraway is stronger).
 2. Shake the jar gently every 3 days.
 3. The vodka will turn pale amber with hints of green from the herbs.
 4. Taste at day 10: if strong enough, strain; if mild, continue to day 14.
@@ -96,7 +96,7 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 **Aalborg Jubilæum (oak-aged):** slightly warmer, deeper colour. Bottled as a deluxe Aalborg version.
 **Aalborg Dild (extra-dill):** dill-forward; for fish-and-pickle pairings.
 **Aalborg Porse (sweet-gale):** Danish bog-plant infusion; herbal and bitter.
-**Snaps cocktails:** modern Copenhagen bars increasingly use akvavit in cocktails - Aalborg Sour, Akvavit Negroni - for the depth and caraway notes.
+**Snaps cocktails:** modern Copenhagen bars increasingly use akvavit in cocktails, Aalborg Sour, Akvavit Negroni, for the depth and caraway notes.
 **Birch-bud snaps (forager's version):** infuse vodka with fresh spring birch buds for a uniquely Scandinavian green-herbal snaps.
 
 ## Serving

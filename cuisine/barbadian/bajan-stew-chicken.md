@@ -16,7 +16,7 @@ Bajan stew chicken is the dish that anchors the traditional Bajan Sunday-lunch p
 ## Ingredients
 
 ### The chicken
-- 1 whole chicken (1.6-1.8 kg), cut into 8 pieces (or 8 large bone-in pieces - thighs, drumsticks, breast quarters)
+- 1 whole chicken (1.6-1.8 kg), cut into 8 pieces (or 8 large bone-in pieces, thighs, drumsticks, breast quarters)
 - 4 tablespoons Bajan green seasoning (see [Cou-cou and flying fish](cou-cou-and-flying-fish.md))
 - 2 tablespoons fresh lime juice
 - 2 tablespoons tomato ketchup
@@ -35,7 +35,7 @@ Bajan stew chicken is the dish that anchors the traditional Bajan Sunday-lunch p
 - 4 cloves garlic, finely chopped
 - 2 ripe tomatoes, finely chopped (or 200 g canned chopped tomatoes)
 - 2 tablespoons tomato paste
-- 1 Scotch bonnet pepper, deseeded and finely chopped (or whole - for less heat, leave in to flavour and remove at end)
+- 1 Scotch bonnet pepper, deseeded and finely chopped (or whole, for less heat, leave in to flavour and remove at end)
 - 2 tablespoons Bajan green seasoning (additional, beyond the marinade)
 - 1 tablespoon fresh thyme leaves (or 1 teaspoon dried)
 - 2 bay leaves
@@ -123,14 +123,14 @@ Bajan stew chicken is the dish that anchors the traditional Bajan Sunday-lunch p
 - **Brown the chicken hard:** the dark crust + the fond at the bottom of the pot are half the flavour.
 - **Slow simmer:** 40-50 minutes covered on low. High heat dries out the chicken before the gravy thickens.
 - **Coconut milk is optional but adds richness:** the standard Bajan home version uses stock only; modern restaurants often add coconut milk.
-- **The Bajan Sunday plate:** stew chicken alone is incomplete. Serve with rice and peas + macaroni pie + fried plantain - the traditional full plate.
+- **The Bajan Sunday plate:** stew chicken alone is incomplete. Serve with rice and peas + macaroni pie + fried plantain, the traditional full plate.
 
 ## Variations
-**Bajan stew chicken with okra:** add 200 g sliced okra in the last 15 minutes - the rural Bajan variant.
+**Bajan stew chicken with okra:** add 200 g sliced okra in the last 15 minutes, the rural Bajan variant.
 **Bajan stew oxtail (the celebratory variant):** swap chicken for 1.5 kg oxtail pieces; brown hard; simmer 3 hours; the same gravy.
 **Curry chicken Bajan style:** add 2 tablespoons Caribbean curry powder to the marinade; an Indian-Caribbean variant.
 **Pepper-chicken (extra spicy):** double the Scotch bonnet; the heat-lovers' variant.
-**Coconut stew chicken:** add the full 400 ml of coconut milk; reduces to a creamier gravy - the festive Caribbean variant.
+**Coconut stew chicken:** add the full 400 ml of coconut milk; reduces to a creamier gravy, the festive Caribbean variant.
 **Slow-cooker Bajan stew chicken:** brown the chicken in a pan; transfer to a slow cooker with the rest; low for 6 hours.
 **Stew pork (Bajan):** same method with pork shoulder cubes; 90 minutes braising time.
 **Vegetarian stew "chicken" (jackfruit):** swap chicken for canned green jackfruit; same marinade and gravy.
@@ -141,7 +141,7 @@ At a Bajan Sunday lunch (the traditional setting; the most-defining Bajan family
 ## Storage
 - Refrigerates 4 days; reheats well on the stovetop with a small splash of stock or water.
 - Freezes 3 months in airtight containers; defrost overnight in the fridge.
-- The flavours marry overnight - day-2 stew chicken is often better than fresh.
+- The flavours marry overnight, day-2 stew chicken is often better than fresh.
 - The marinade keeps refrigerated 24 hours before adding chicken.
 - The Bajan green seasoning is the make-ahead component; keeps 2 weeks refrigerated.
 - Leftover chicken stripped from the bones and stirred into a stew or curry the next day is the classic Bajan home use-up.

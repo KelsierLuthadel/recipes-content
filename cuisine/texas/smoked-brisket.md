@@ -2,7 +2,7 @@
 
 ![Texas Smoked Brisket](resources/smoked-brisket.jpg)
 
-*Texas's national dish: a whole beef brisket rubbed with salt and coarse pepper, smoked over post-oak (or oak) wood at 110°C / 225°F for 12-14 hours till the fat renders, the bark crusts deep mahogany, and the meat falls apart at the touch of a fork. The Lone Star State's signature dish - the bar against which all other barbecue is judged.*
+*Texas's national dish: a whole beef brisket rubbed with salt and coarse pepper, smoked over post-oak (or oak) wood at 110°C / 225°F for 12-14 hours till the fat renders, the bark crusts deep mahogany, and the meat falls apart at the touch of a fork. The Lone Star State's signature dish, the bar against which all other barbecue is judged.*
 
 **Serves:** 12-15
 
@@ -42,7 +42,7 @@ Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arg
 
 ### Stage 2 - Apply the rub
 1. Mix the salt and pepper (and optional garlic powder and paprika).
-2. Rub generously over the entire brisket - top, bottom, sides.
+2. Rub generously over the entire brisket, top, bottom, sides.
 3. Refrigerate overnight (uncovered for proper bark formation; this is the "dry brine").
 
 ### Stage 3 - Set up the smoker
@@ -66,15 +66,15 @@ Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arg
 ### Stage 6 - Continue smoking
 1. Continue smoking at 110°C.
 2. The internal temperature will now climb steadily.
-3. Pull when the internal temperature reaches 95°C (203°F) - about 4-6 more hours.
-4. The brisket should "probe like butter" - a thermometer or skewer slides in with no resistance.
+3. Pull when the internal temperature reaches 95°C (203°F): about 4-6 more hours.
+4. The brisket should "probe like butter", a thermometer or skewer slides in with no resistance.
 
 ### Stage 7 - Rest
 1. Don't slice immediately.
 2. Wrap the brisket (still in butcher paper) loosely in a towel.
 3. Place in a cooler (chilly bin) or covered pot.
 4. Rest at least 1 hour; ideally 2-3 hours.
-5. The resting is essential - the juices redistribute and the meat tenderises further.
+5. The resting is essential, the juices redistribute and the meat tenderises further.
 
 ### Stage 8 - Slice
 1. Place on a cutting board.
@@ -84,7 +84,7 @@ Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arg
 
 ### Stage 9 - Serve
 1. Arrange slices on a wooden board or paper-lined platter.
-2. Serve with white bread (for sandwiches), pickles, sliced raw onion, jalapeños, and Texas BBQ sauce (optional - Central Texas purists eat brisket without sauce).
+2. Serve with white bread (for sandwiches), pickles, sliced raw onion, jalapeños, and Texas BBQ sauce (optional, Central Texas purists eat brisket without sauce).
 3. Sides: pinto beans, coleslaw, potato salad, cornbread.
 
 ## Notes

@@ -23,7 +23,7 @@ Boza is one of the world's oldest drinks, predating beer in some accounts: a thi
 
 ### To serve
 - 8 small heatproof glasses (about 150 ml capacity)
-- 100 g leblebi (roasted chickpeas) - Turkish brand at any Turkish grocery; or substitute with roasted chickpeas
+- 100 g leblebi (roasted chickpeas): Turkish brand at any Turkish grocery; or substitute with roasted chickpeas
 - Ground cinnamon for dusting
 
 ## Method
@@ -55,12 +55,12 @@ Boza is one of the world's oldest drinks, predating beer in some accounts: a thi
 1. Stir well before pouring; the grain settles as it sits.
 1. Pour into small chilled glasses.
 1. Dust each glass with a generous pinch of ground cinnamon.
-1. Serve with a small dish of roasted chickpeas (leblebi) alongside - the tradition is to alternate sips of boza with handfuls of leblebi.
+1. Serve with a small dish of roasted chickpeas (leblebi) alongside, the tradition is to alternate sips of boza with handfuls of leblebi.
 
 ## Notes
 - **Watch the fermentation.** Boza fermenting too long becomes more strongly alcoholic and quite sour. In a warm kitchen (above 25°C) fermentation can be done in 24 hours; in cool conditions it may need 60+ hours. Taste from 24 hours onward to catch the right balance.
 - **Yeast vs yogurt starter.** Yeast gives a more consistent fizz and faster fermentation; yogurt gives a more complex, tangier flavour but takes longer to develop. Both are valid traditional approaches.
-- **Texture should be thick.** Boza is meant to be thick - spoon-coating, not water-thin. If yours comes out too thin, you blended too much water in; next time use 1.2 litres of water in stage 1.
+- **Texture should be thick.** Boza is meant to be thick, spoon-coating, not water-thin. If yours comes out too thin, you blended too much water in; next time use 1.2 litres of water in stage 1.
 - **Winter drink.** Don't try to make boza in summer unless you have good temperature control; the warm room temperatures over-ferment it and push the alcohol up.
 
 ## Variations

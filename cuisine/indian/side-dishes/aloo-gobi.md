@@ -52,7 +52,7 @@ North India's everyday dry curry and a staple of Punjabi home cooking: chunks of
 1. Add the cauliflower florets; toss gently to coat.
 1. Splash in 80 ml water if the pan is dry.
 1. Cover; cook another 10 minutes, stirring carefully, until the cauliflower is just tender and the potatoes are cooked through.
-1. Uncover; cook 3 minutes more if the pan is wet - the dish should be dry, not saucy.
+1. Uncover; cook 3 minutes more if the pan is wet, the dish should be dry, not saucy.
 
 ### Stage 5 - Finish
 1. Stir in garam masala.
@@ -65,8 +65,8 @@ North India's everyday dry curry and a staple of Punjabi home cooking: chunks of
 ## Notes
 - **Dry curry:** Aloo gobi is a sukhi sabzi (dry vegetable). It shouldn't pool gravy. If yours is wet, cook off uncovered.
 - **Cauliflower size:** Florets of 3-4 cm cook in the right time. Big chunks stay raw at the centre; small florets disintegrate.
-- **Floury potato:** Use floury (Maris Piper, King Edward, Russet). Waxy potatoes hold shape too well - the curry should have some give.
+- **Floury potato:** Use floury (Maris Piper, King Edward, Russet). Waxy potatoes hold shape too well, the curry should have some give.
 
 ## Storage
 - Refrigerate 3 days; reheats well in a covered pan.
-- Doesn't freeze well - the potato turns mealy.
+- Doesn't freeze well, the potato turns mealy.

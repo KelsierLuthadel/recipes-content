@@ -32,7 +32,7 @@ Juju dhau (literally "king curd") is a Newari speciality from the city of Bhakta
 
 ### Stage 2 - Cool to setting temperature
 1. Pour the warm milk into a wide bowl to cool faster.
-1. Cool to **42-45°C** (108-113°F). At this temperature it should feel comfortably warm to the touch but not hot - about the temperature of a baby's bath. Too hot will kill the cultures; too cool and the yoghurt will not set firmly.
+1. Cool to **42-45°C** (108-113°F). At this temperature it should feel comfortably warm to the touch but not hot, about the temperature of a baby's bath. Too hot will kill the cultures; too cool and the yoghurt will not set firmly.
 1. A digital thermometer is the safest way; the back-of-the-wrist test is the traditional way.
 
 ### Stage 3 - Culture
@@ -42,7 +42,7 @@ Juju dhau (literally "king curd") is a Newari speciality from the city of Bhakta
 ### Stage 4 - Pour and set
 1. Divide the cultured milk between 4 small unglazed clay pots, terracotta ramekins, or 6 small heatproof glass jars/cups.
 1. Cover each loosely with a piece of cloth or a small saucer (do not seal completely; the porosity of the cover matters).
-1. Place in a warm spot - an unlit oven with the door closed and the light on, a yoghurt maker, or a thermal box with a hot water bottle. Aim for around 30°C ambient.
+1. Place in a warm spot, an unlit oven with the door closed and the light on, a yoghurt maker, or a thermal box with a hot water bottle. Aim for around 30°C ambient.
 1. Set undisturbed 8-10 hours, or overnight.
 
 ### Stage 5 - Chill

@@ -46,7 +46,7 @@ A quick Korean banchan: cucumber tossed with gochugaru, garlic, soy, sesame oil 
 
 ### Stage 4 - Toss
 1. Tip the drained cucumber into a wide bowl.
-1. Pour the dressing over; toss with hands (wear gloves - gochugaru stains).
+1. Pour the dressing over; toss with hands (wear gloves, gochugaru stains).
 1. Add the sliced spring onion.
 1. Rest 10 minutes (the flavours meld; the cucumber takes on the red colour).
 

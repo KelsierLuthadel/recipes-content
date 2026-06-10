@@ -54,7 +54,7 @@ Frijoles fritos are the Honduran refried red beans that anchor nearly every Hond
 ## Notes
 - **Pressure cooker:** Cuts the simmer to 25 minutes (15 high pressure + natural release). Same flavour, much faster.
 - **Salt timing:** Adding salt at the start hardens the bean skins. Wait until they're soft.
-- **Fat matters:** Pork lard gives the richest, most traditional result; vegetable oil is the everyday default. Don't skimp - they need fat to fry, not steam.
+- **Fat matters:** Pork lard gives the richest, most traditional result; vegetable oil is the everyday default. Don't skimp, they need fat to fry, not steam.
 
 ## Storage
 - Refrigerate 1 week. Loosen with hot water when reheating.

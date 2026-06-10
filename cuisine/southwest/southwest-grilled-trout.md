@@ -2,7 +2,7 @@
 
 ![Southwest Grilled Trout](resources/southwest-grilled-trout.jpg)
 
-*The Southwest's chile-rubbed grilled trout: whole rainbow trout (a high-altitude Southwest favourite) rubbed with a spice blend of cumin, paprika, chili powder and lime zest, stuffed with lemon, garlic and herbs, then grilled over hot charcoal till the skin crisps and the flesh flakes easily. The mountain-Southwest dish - Colorado, Northern New Mexico and Arizona high country.*
+*The Southwest's chile-rubbed grilled trout: whole rainbow trout (a high-altitude Southwest favourite) rubbed with a spice blend of cumin, paprika, chili powder and lime zest, stuffed with lemon, garlic and herbs, then grilled over hot charcoal till the skin crisps and the flesh flakes easily. The mountain-Southwest dish, Colorado, Northern New Mexico and Arizona high country.*
 
 **Serves:** 4
 

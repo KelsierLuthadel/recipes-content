@@ -35,7 +35,7 @@ A Cambodian quick-pickle, the bright sharp counter that turns up on every Khmer 
 
 ### Stage 1 - Drain
 1. Toss the daikon, carrot and cucumber with the 1 teaspoon salt in a colander.
-1. Rest 15 minutes - they'll release water.
+1. Rest 15 minutes, they'll release water.
 1. Rinse briefly; squeeze gently to remove excess water.
 
 ### Stage 2 - Brine

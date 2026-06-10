@@ -16,7 +16,7 @@ Baklava is the great pan-Mediterranean dessert claimed by every cuisine from Ist
 ## Ingredients
 
 ### Filling
-- 600 g walnuts (roughly chopped, not powdered - a coarse grind keeps texture)
+- 600 g walnuts (roughly chopped, not powdered, a coarse grind keeps texture)
 - 100 g caster sugar
 - 2 teaspoons ground cinnamon
 - ½ teaspoon ground cloves
@@ -40,7 +40,7 @@ Baklava is the great pan-Mediterranean dessert claimed by every cuisine from Ist
 ## Method
 
 ### Stage 1 - Filling
-1. Chop the walnuts coarse with a knife (don't use a food processor - it pulverises). The texture should be like coarse couscous.
+1. Chop the walnuts coarse with a knife (don't use a food processor, it pulverises). The texture should be like coarse couscous.
 1. In a bowl, mix the walnuts with the sugar, cinnamon, cloves and optional orange zest.
 
 ### Stage 2 - Syrup (made first to cool)
@@ -52,7 +52,7 @@ Baklava is the great pan-Mediterranean dessert claimed by every cuisine from Ist
 ### Stage 3 - Build the pastry
 1. Heat the oven to 180°C (160°C fan).
 1. Brush a 30 × 22 cm baking tin with melted butter.
-1. Lay 8 sheets of filo in the tin, brushing each with butter (don't be stingy - every layer needs butter).
+1. Lay 8 sheets of filo in the tin, brushing each with butter (don't be stingy, every layer needs butter).
 1. Sprinkle one-third of the walnut mixture evenly.
 1. Add 4 more buttered filo sheets.
 1. Sprinkle another third of the walnut mixture.
@@ -62,7 +62,7 @@ Baklava is the great pan-Mediterranean dessert claimed by every cuisine from Ist
 1. Brush the top with the remaining butter.
 
 ### Stage 4 - Score and clove
-1. With a sharp thin knife, score the top into squares - long cuts at 4 cm intervals, cross cuts at 4 cm intervals.
+1. With a sharp thin knife, score the top into squares, long cuts at 4 cm intervals, cross cuts at 4 cm intervals.
 1. Important: cut all the way down through every layer (different from galaktoboureko).
 1. Press a whole clove into the centre of each square.
 

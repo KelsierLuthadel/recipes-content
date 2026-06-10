@@ -16,7 +16,7 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 ## Ingredients
 
 ### Broth
-- 400 g cooked chickpeas (about 200 g dried, soaked overnight and simmered 1 hour until tender - OR 2 x 400 g tins drained and rinsed) plus 700 ml of their cooking liquid (or 700 ml water + 1 stock cube)
+- 400 g cooked chickpeas (about 200 g dried, soaked overnight and simmered 1 hour until tender, OR 2 x 400 g tins drained and rinsed) plus 700 ml of their cooking liquid (or 700 ml water + 1 stock cube)
 - 6 garlic cloves (crushed to a paste with ½ teaspoon salt)
 - 2 teaspoons ground cumin
 - 1 tablespoon harissa paste (more for the bolder; less for the timid)
@@ -31,7 +31,7 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 - 1 teaspoon harissa paste
 - 1 tablespoon extra-virgin olive oil
 - ½ tablespoon lemon juice
-- 2 tablespoons drained canned tuna (in oil - the kind packed in good olive oil)
+- 2 tablespoons drained canned tuna (in oil, the kind packed in good olive oil)
 - 5-6 black olives (pitted)
 - 1 teaspoon capers
 - A pinch of ground cumin
@@ -43,7 +43,7 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 ### Stage 1 - Build the broth
 1. In a heavy pot, combine cooked chickpeas, their cooking water (or water + stock), garlic-salt paste, cumin, harissa, olive oil, salt and pepper.
 1. Bring to a simmer.
-1. Cook 20 minutes - a few chickpeas will break down and slightly thicken the broth. Mash a small ladleful against the side of the pot with a fork if you want it slightly thicker.
+1. Cook 20 minutes, a few chickpeas will break down and slightly thicken the broth. Mash a small ladleful against the side of the pot with a fork if you want it slightly thicker.
 1. Add the lemon juice; taste; adjust salt and harissa.
 
 ### Stage 2 - Prepare the eggs
@@ -70,5 +70,5 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 
 ## Storage
 - Make the broth and chickpeas ahead; refrigerate 4 days; reheat and assemble fresh.
-- Don't assemble ahead - the bread softens to mush.
+- Don't assemble ahead, the bread softens to mush.
 - Broth alone freezes 2 months.

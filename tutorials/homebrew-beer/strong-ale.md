@@ -2,7 +2,7 @@
 
 ![Strong English Ale](resources/strong-ale.jpg)
 
-*A 7-8% ABV strong English ale: deep amber, malt-led with caramel and toffee notes from crystal malt, balanced bitterness from Fuggles and East Kent Goldings hops, fermented with English ale yeast. The beginner's strong beer - full of flavour, forgiving to brew, drinkable from week 6 onward and properly delicious from month 3.*
+*A 7-8% ABV strong English ale: deep amber, malt-led with caramel and toffee notes from crystal malt, balanced bitterness from Fuggles and East Kent Goldings hops, fermented with English ale yeast. The beginner's strong beer, full of flavour, forgiving to brew, drinkable from week 6 onward and properly delicious from month 3.*
 
 **Makes:** 20 litres (about 40 × 500ml bottles)
 
@@ -11,28 +11,28 @@
 **Total time:** 8 weeks from brew to first comfortable drink
 
 ## Overview
-Extract brewing skips the mash. Instead of crushing barley grains and steeping them yourself, you buy malt extract - a concentrated dark syrup or dry powder that's the result of a commercial brewery already having done the mashing for you. Your job is to dissolve the extract in water, add hops at scheduled points during a 60-minute boil, cool the resulting wort, pitch yeast, ferment, bottle. The result is genuinely good beer; many commercial breweries use extract for some of their range.
+Extract brewing skips the mash. Instead of crushing barley grains and steeping them yourself, you buy malt extract, a concentrated dark syrup or dry powder that's the result of a commercial brewery already having done the mashing for you. Your job is to dissolve the extract in water, add hops at scheduled points during a 60-minute boil, cool the resulting wort, pitch yeast, ferment, bottle. The result is genuinely good beer; many commercial breweries use extract for some of their range.
 
 This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing, with a small amount of steeped crystal malt for caramel-toffee character. English hops (Fuggles for bittering, East Kent Goldings for late additions) and an English ale yeast (S-04 or Nottingham) give the proper old-school English strong-ale profile.
 
 ## Ingredients
 
 ### Malts
-- 3 kg dry malt extract (DME), pale variety - Muntons or Brewferm brands, £18-£25
-- 500 g dry malt extract, dark or amber variety - for colour and depth, £4
-- 300 g crystal malt, 60 L grade (pre-crushed) - the steeping grain for caramel character, £3-£4
+- 3 kg dry malt extract (DME), pale variety, Muntons or Brewferm brands, £18-£25
+- 500 g dry malt extract, dark or amber variety, for colour and depth, £4
+- 300 g crystal malt, 60 L grade (pre-crushed): the steeping grain for caramel character, £3-£4
 
 ### Hops
-- 40 g Fuggles hop pellets - for 60-minute (bittering) addition. £3-£4
-- 30 g East Kent Goldings hop pellets - for 15-minute and 5-minute (flavour and aroma) additions, £3-£4
+- 40 g Fuggles hop pellets, for 60-minute (bittering) addition. £3-£4
+- 30 g East Kent Goldings hop pellets, for 15-minute and 5-minute (flavour and aroma) additions, £3-£4
 
 ### Yeast
-- 1 sachet Fermentis Safale S-04 (dry English ale yeast, 11.5g) - £3
-  - Alternative: Lallemand Nottingham Ale Yeast (dry) - also works perfectly.
+- 1 sachet Fermentis Safale S-04 (dry English ale yeast, 11.5g): £3
+  - Alternative: Lallemand Nottingham Ale Yeast (dry): also works perfectly.
 
 ### Other
 - 25 litres cold water (filtered or tap left overnight to off-gas chlorine)
-- 5 g priming sugar per litre of finished beer (about 120 g total) - for natural carbonation in the bottle, £2 per kilo
+- 5 g priming sugar per litre of finished beer (about 120 g total): for natural carbonation in the bottle, £2 per kilo
 
 ## Equipment
 - See the [Equipment](equipment.md) page. You'll need: a 25-30 litre stockpot, a 25-litre fermenter with tap, an airlock, a thermometer, a hydrometer + trial jar, a wort chiller or ice bath, 40 sanitised 500ml bottles + caps + capper, a bottling wand.
@@ -50,8 +50,8 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 ### Stage 2 - Add the malt extract (Day 1, about 10 mins)
 1. Add 16 litres more cold water to the pot (you now have about 20 litres total).
 1. Bring to a gentle simmer.
-1. Off the heat (so the extract doesn't scorch on the bottom), gradually whisk in all the dry malt extract - both the 3 kg pale and the 500 g dark/amber. Stir continuously to prevent clumping.
-1. Once fully dissolved, return to medium heat and bring to a rolling boil. This is now your "wort" - the unfermented beer base.
+1. Off the heat (so the extract doesn't scorch on the bottom), gradually whisk in all the dry malt extract, both the 3 kg pale and the 500 g dark/amber. Stir continuously to prevent clumping.
+1. Once fully dissolved, return to medium heat and bring to a rolling boil. This is now your "wort", the unfermented beer base.
 
 ### Stage 3 - 60-minute boil with hops (Day 1, about 70 mins)
 1. Once the wort reaches a rolling boil, start the 60-minute timer. Add the Fuggles hops immediately (this is the "60-minute addition" for bittering).
@@ -69,7 +69,7 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 
 ### Stage 5 - Transfer to fermenter and aerate (Day 1, about 10 mins)
 1. Sanitise the fermenter, airlock, hydrometer, trial jar and any siphons.
-1. Pour the cooled wort into the fermenter through a sanitised fine-mesh sieve to catch the spent hop debris. Pour from height to introduce air - yeast needs oxygen for the start of fermentation.
+1. Pour the cooled wort into the fermenter through a sanitised fine-mesh sieve to catch the spent hop debris. Pour from height to introduce air, yeast needs oxygen for the start of fermentation.
 1. Top up with cold sanitised water if you're short of 20 litres total in the fermenter.
 
 ### Stage 6 - Take a starting hydrometer reading
@@ -81,10 +81,10 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 1. Sprinkle the entire yeast sachet directly over the surface of the wort.
 1. Stir gently for 30 seconds to disperse the yeast.
 1. Seal the fermenter, fit the airlock with a drop of water.
-1. Place the fermenter somewhere at steady 18-20°C - slightly cooler than your house. A cellar, garage corner, or unheated room.
+1. Place the fermenter somewhere at steady 18-20°C, slightly cooler than your house. A cellar, garage corner, or unheated room.
 
 ### Stage 8 - Primary fermentation (Days 2 to 10)
-1. Within 24-48 hours you'll see active fermentation - airlock bubbling rapidly, possibly foam (krausen) on top of the beer in the fermenter.
+1. Within 24-48 hours you'll see active fermentation, airlock bubbling rapidly, possibly foam (krausen) on top of the beer in the fermenter.
 1. Maintain 18-20°C. Higher temperatures produce fruity / solvent off-flavours.
 1. After 4-5 days, the krausen falls back into the beer and the airlock slows to a few bubbles per minute. Don't open the fermenter to peek; trust the bubbles.
 
@@ -92,7 +92,7 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 1. Take a hydrometer reading on day 10 by drawing a sample with a sanitised siphon or pipette.
 1. Wait 3 days and take another reading. If the SG hasn't changed, fermentation is complete.
 1. Target final SG: 1.014 to 1.020 for a strong ale.
-1. Use the formula: (Starting SG - Final SG) × 131 = ABV%. From 1.075 to 1.018 gives 7.5% ABV.
+1. Use the formula: (Starting SG, Final SG) × 131 = ABV%. From 1.075 to 1.018 gives 7.5% ABV.
 
 ### Stage 10 - Condition (Days 14 to 21)
 1. Leave the beer in the fermenter for another 7 days at 18-20°C. This is the "conditioning" phase: the yeast cleans up off-flavours and the beer matures.
@@ -110,11 +110,11 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 
 ### Stage 12 - Bottle condition (Days 21 to 42)
 1. Store bottled beer at 18-22°C for 14-21 days. The residual yeast eats the priming sugar in the bottle, producing CO2 that carbonates the beer.
-1. Don't refrigerate during this phase - cold halts the carbonation.
+1. Don't refrigerate during this phase, cold halts the carbonation.
 
 ### Stage 13 - Cool and drink (Day 42+)
 1. After 3 weeks of bottle conditioning, refrigerate one bottle for 4 hours and crack it open. The beer should pour with a thick foamy head, taste deeply malty with caramel undertones from the crystal malt, have a clear hop bitterness, and finish with a warm 7-8% alcohol presence.
-1. At 6 weeks the beer is good. At 3 months it's properly excellent - the alcohol has mellowed, the malt has integrated, the hops have softened.
+1. At 6 weeks the beer is good. At 3 months it's properly excellent, the alcohol has mellowed, the malt has integrated, the hops have softened.
 
 ## Notes
 - **Don't pitch yeast hot.** Pitching yeast into wort that's above 25°C can produce harsh off-flavours and stress the yeast. Always cool to 20-22°C before pitching.
@@ -136,4 +136,4 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 ## Next steps
 - Read [Mash, Hops and Fermentation](mash-and-hops.md) for the science behind every step you just did.
 - Try an all-grain version of the same recipe once you've made 2-3 successful extract batches.
-- Read the [Equipment](equipment.md) page if you skipped it - sanitisation is the difference between this recipe and a vinegar bath.
+- Read the [Equipment](equipment.md) page if you skipped it, sanitisation is the difference between this recipe and a vinegar bath.

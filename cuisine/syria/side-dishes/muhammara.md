@@ -42,11 +42,11 @@ Muhammara is Aleppo's deep-crimson dip: charred red peppers pounded with walnuts
 
 ### Stage 2 - Blitz
 1. Place the peppers, walnuts, breadcrumbs, pomegranate molasses, Aleppo pepper, cumin, garlic, lemon juice, olive oil and salt in a food processor.
-1. Pulse to a thick, slightly chunky paste - some walnut texture is welcome. Don't run it smooth.
+1. Pulse to a thick, slightly chunky paste, some walnut texture is welcome. Don't run it smooth.
 
 ### Stage 3 - Rest
 1. Taste; adjust pomegranate molasses (more for sourness), salt or Aleppo pepper (more for heat).
-1. Refrigerate at least 30 minutes - the flavours need to mingle.
+1. Refrigerate at least 30 minutes, the flavours need to mingle.
 
 ### Stage 4 - Serve
 1. Spread on a wide plate (or in a shallow bowl), pushing the surface with the back of a spoon to make ridges.
@@ -56,9 +56,9 @@ Muhammara is Aleppo's deep-crimson dip: charred red peppers pounded with walnuts
 
 ## Notes
 - **Jarred peppers:** Save 25 minutes; texture and flavour are slightly less smoky but very good. Look for ones in brine, not vinegar.
-- **Aleppo pepper:** The signature heat - a gentle, fruity, slow chilli. Hungarian or Turkish red pepper flakes are the substitutes. Don't use cayenne (too sharp).
+- **Aleppo pepper:** The signature heat, a gentle, fruity, slow chilli. Hungarian or Turkish red pepper flakes are the substitutes. Don't use cayenne (too sharp).
 - **Walnut quality:** Slightly toasted walnuts have more flavour. Stale walnuts are bitter; toast for 5 minutes at 180°C to refresh.
 
 ## Storage
 - Refrigerate 4 days. Bring to room temperature before serving.
-- Don't freeze - the texture goes coarse.
+- Don't freeze, the texture goes coarse.

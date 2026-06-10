@@ -31,14 +31,14 @@ The Yoruba "stirred greens" stew that anchors a Lagos Sunday lunch: spinach wilt
 - 3 cm fresh ginger
 
 ### To finish
-- 120 ml red palm oil (proper West African - the deep red type)
+- 120 ml red palm oil (proper West African, the deep red type)
 - 150 g smoked fish (smoked mackerel or smoked herring; bones removed, flaked)
 - 2 tablespoons ground crayfish
 - 1 tablespoon iru (fermented locust beans)
-- 200 g large raw prawns (shelled - optional, for the prawn version)
+- 200 g large raw prawns (shelled, optional, for the prawn version)
 - 1 teaspoon salt (to taste)
 - 1 teaspoon black pepper
-- 400 g fresh spinach (washed, rough chopped) - or 250 g frozen spinach (defrosted, drained)
+- 400 g fresh spinach (washed, rough chopped): or 250 g frozen spinach (defrosted, drained)
 
 ### To serve
 - White rice, eba, fufu, pounded yam (or boiled yam)
@@ -52,27 +52,27 @@ The Yoruba "stirred greens" stew that anchors a Lagos Sunday lunch: spinach wilt
 1. Reserve the meat and the stock separately (you'll want about 250-300 ml stock).
 
 ### Stage 2 - Blend the pepper paste
-1. Blitz red peppers, onion, tomatoes, Scotch bonnets, garlic and ginger in a blender to a smooth paste. Don't add water - the vegetables will release enough.
+1. Blitz red peppers, onion, tomatoes, Scotch bonnets, garlic and ginger in a blender to a smooth paste. Don't add water, the vegetables will release enough.
 
 ### Stage 3 - Fry the pepper paste
 1. Heat the palm oil in a wide heavy pot over medium-high until it shimmers (don't let it smoke too hard).
-1. Carefully tip in the pepper paste - it will spit.
+1. Carefully tip in the pepper paste, it will spit.
 1. Reduce heat to medium; cook 12-15 minutes, stirring, until the paste has reduced by about a third and the oil has risen to the surface in shiny pools at the edges.
 
 ### Stage 4 - Stock, meat and depth
 1. Pour in 250 ml of the reserved stock.
 1. Add the cooked meat, flaked smoked fish, ground crayfish and iru.
-1. Stir; simmer 12-15 minutes - the sauce should be thick and intensely flavoured.
+1. Stir; simmer 12-15 minutes, the sauce should be thick and intensely flavoured.
 
 ### Stage 5 - Prawns (if using)
 1. Add the raw prawns; cook 3 minutes until just pink.
 
 ### Stage 6 - Season
-1. Add salt and black pepper to taste. The dish should be well-seasoned - adjust before adding the greens.
+1. Add salt and black pepper to taste. The dish should be well-seasoned, adjust before adding the greens.
 
 ### Stage 7 - Greens
 1. Stir in the spinach in handfuls.
-1. Cook 3-5 minutes - the spinach should be just wilted and vibrant, not stewed. (If using frozen spinach, the timing is the same; just squeeze out the excess water before adding.)
+1. Cook 3-5 minutes, the spinach should be just wilted and vibrant, not stewed. (If using frozen spinach, the timing is the same; just squeeze out the excess water before adding.)
 
 ### Stage 8 - Serve
 1. Spoon over rice, or alongside a mound of eba/fufu/pounded yam.

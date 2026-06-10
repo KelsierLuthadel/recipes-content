@@ -2,7 +2,7 @@
 
 ![Bigos](resources/bigos.jpg)
 
-*Polish hunter's stew: sauerkraut and fresh cabbage simmered slow with mixed meats (pork, beef, sausage, sometimes game), dried mushrooms, prunes and red wine. Three days of cooking - properly bigos is reheated and reheated, deepening each day.*
+*Polish hunter's stew: sauerkraut and fresh cabbage simmered slow with mixed meats (pork, beef, sausage, sometimes game), dried mushrooms, prunes and red wine. Three days of cooking, properly bigos is reheated and reheated, deepening each day.*
 
 **Serves:** 8
 
@@ -75,7 +75,7 @@ Bigos is Poland's great hunter's stew, the pot you start on Saturday and eat fro
 
 ## Notes
 - **Multiple meats matter:** Single-meat bigos is bland. The complexity comes from pork, beef, smoked sausage and bacon all contributing different notes.
-- **Reheat for days:** Once cooked, bigos isn't done - it improves over 2-3 days of reheats. Plan accordingly.
+- **Reheat for days:** Once cooked, bigos isn't done, it improves over 2-3 days of reheats. Plan accordingly.
 - **Don't drain the sauerkraut too well:** Some of its briny liquid is part of the dish. Squeeze, don't rinse, unless yours is very salty.
 
 ## Storage

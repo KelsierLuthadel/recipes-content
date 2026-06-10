@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Stuffat tal-fenek is Malta's most iconic dish and the central event of the Maltese fenkata - a traditional rabbit-feast meal eaten at family gatherings and village festas. The construction: rabbit (preferably wild) is jointed and marinated overnight in red wine, bay leaves, garlic and herbs; the next day, the marinated meat is browned in olive oil and slow-braised in tomato paste, more red wine, beef stock, garlic, bay, a small piece of dark chocolate or cocoa (the Maltese signature - adds depth, not sweetness), and a pinch of cinnamon. After 90 minutes the rabbit is fork-tender and the sauce thick and mahogany. The traditional Maltese serving: the rich sauce is tossed first with spaghetti as a primo, then the rabbit meat is served as the secondo with roasted potatoes.
+Stuffat tal-fenek is Malta's most iconic dish and the central event of the Maltese fenkata, a traditional rabbit-feast meal eaten at family gatherings and village festas. The construction: rabbit (preferably wild) is jointed and marinated overnight in red wine, bay leaves, garlic and herbs; the next day, the marinated meat is browned in olive oil and slow-braised in tomato paste, more red wine, beef stock, garlic, bay, a small piece of dark chocolate or cocoa (the Maltese signature, adds depth, not sweetness), and a pinch of cinnamon. After 90 minutes the rabbit is fork-tender and the sauce thick and mahogany. The traditional Maltese serving: the rich sauce is tossed first with spaghetti as a primo, then the rabbit meat is served as the secondo with roasted potatoes.
 
 ## Ingredients
 
@@ -81,16 +81,16 @@ Stuffat tal-fenek is Malta's most iconic dish and the central event of the Malte
 - **Wild rabbit if you can find it:** stronger flavour than farmed.
 
 ## Variations
-**Fenkata with garlic and wine only:** simpler; no tomato or chocolate - the older Maltese recipe.
+**Fenkata with garlic and wine only:** simpler; no tomato or chocolate, the older Maltese recipe.
 **With olives:** add 100 g black olives in the last 30 minutes.
 **Stuffat tal-fenek bil-mardquf (with bone marrow):** richer with the addition of bone marrow.
-**Chicken stuffat:** swap rabbit for chicken thighs - fenkata-style chicken stew.
+**Chicken stuffat:** swap rabbit for chicken thighs, fenkata-style chicken stew.
 **Pressure cooker stuffat:** brown and pressure-cook 30 minutes high pressure.
 
 ## Serving
-At a Maltese fenkata (rabbit feast) - the traditional setting · at a Mġarr or Bahar ic-Caghaq village festa · at a Maltese Sunday lunch · at a Maltese wedding luncheon · at home as a celebration weekend meal.
+At a Maltese fenkata (rabbit feast): the traditional setting · at a Mġarr or Bahar ic-Caghaq village festa · at a Maltese Sunday lunch · at a Maltese wedding luncheon · at home as a celebration weekend meal.
 
 ## Storage
 - Refrigerates 3 days; flavour improves overnight.
 - Freezes 3 months.
-- Reheat gently; the sauce thickens overnight - loosen with a splash of stock.
+- Reheat gently; the sauce thickens overnight, loosen with a splash of stock.

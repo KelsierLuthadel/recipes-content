@@ -16,7 +16,7 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 ## Ingredients
 
 ### Lemon curd (makes about 400ml; you'll use about 300ml in the roulade, save the rest)
-- 4 large lemons (zest of 3, juice of all 4 - about 200 ml juice)
+- 4 large lemons (zest of 3, juice of all 4, about 200 ml juice)
 - 200 g caster sugar
 - 100 g unsalted butter (cubed)
 - 4 large eggs + 2 large egg yolks (the whites go into the meringue)
@@ -28,7 +28,7 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 - 1 teaspoon cornflour
 - 1 teaspoon white wine vinegar (or distilled white vinegar)
 - 1 teaspoon vanilla extract
-- 2 tablespoons flaked almonds (for the top of the meringue - gives the rolled outside a delicate crunch)
+- 2 tablespoons flaked almonds (for the top of the meringue, gives the rolled outside a delicate crunch)
 
 ### Whipped cream filling
 - 400 ml double cream (cold)
@@ -68,7 +68,7 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 1. In a clean dry bowl, whisk the egg whites on medium speed till frothy (about 1 minute).
 2. Increase to high speed; whisk till soft peaks form (about 2-3 minutes).
 3. Gradually add the caster sugar a tablespoon at a time, continuing to whisk on high.
-4. After all the sugar is in, whisk another 3-4 minutes till the meringue is glossy, stiff-peaked, and the sugar has fully dissolved (rub a tiny pinch between your fingers - should feel smooth, not gritty).
+4. After all the sugar is in, whisk another 3-4 minutes till the meringue is glossy, stiff-peaked, and the sugar has fully dissolved (rub a tiny pinch between your fingers, should feel smooth, not gritty).
 5. Sprinkle the cornflour over the meringue.
 6. Drizzle the vinegar and vanilla over.
 7. Fold in gently with a spatula (about 6-8 folds; don't deflate).
@@ -100,7 +100,7 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 
 ### Stage 8 - Roll
 1. Position the meringue with one short side facing you.
-2. Use the towel to lift and tuck the near edge - start the first turn tight, like rolling a Swiss roll.
+2. Use the towel to lift and tuck the near edge, start the first turn tight, like rolling a Swiss roll.
 3. Use the towel to roll the meringue tightly away from you into a long log.
 4. Don't worry about small cracks; the curd and cream hide them.
 5. The finished roulade is a log about 30cm long.

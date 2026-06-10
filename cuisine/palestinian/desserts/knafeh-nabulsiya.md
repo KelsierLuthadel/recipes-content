@@ -40,12 +40,12 @@ Walk into a Nablus sweet shop late afternoon and this is what you smell: hot ora
 1. Combine the sugar, water and lemon juice in a small pan.
 1. Bring to a boil; simmer 8-10 minutes until slightly thickened.
 1. Off the heat, stir in the rosewater and orange blossom water.
-1. Cool fully - must be cold when poured.
+1. Cool fully, must be cold when poured.
 
 ### Stage 2 - Soak the cheese
 1. If using akkawi: rinse under cold running water 30 minutes (or soak in cold water with several changes) to remove excess salt; drain; chop into 1 cm pieces.
 1. If using halloumi: rinse 30 minutes; grate.
-1. The cheese must be unsalted-tasting - that's the difference between a great knafeh and a salty mess.
+1. The cheese must be unsalted-tasting, that's the difference between a great knafeh and a salty mess.
 
 ### Stage 3 - Prepare the pastry
 1. Heat the oven to 200°C (180°C fan).
@@ -63,9 +63,9 @@ Walk into a Nablus sweet shop late afternoon and this is what you smell: hot ora
 1. Bake 25-30 minutes until the top is deep orange-gold and the edges are crisp.
 
 ### Stage 6 - Drown and invert
-1. Pull from the oven; immediately pour the cold syrup all over - slowly, evenly. Listen for the sizzle.
+1. Pull from the oven; immediately pour the cold syrup all over, slowly, evenly. Listen for the sizzle.
 1. Rest 2 minutes (lets the syrup penetrate without softening too far).
-1. Run a knife around the edges; invert onto a serving platter - the bright orange pastry should be on top.
+1. Run a knife around the edges; invert onto a serving platter, the bright orange pastry should be on top.
 
 ### Stage 7 - Top and serve
 1. Scatter the chopped pistachios across the surface.

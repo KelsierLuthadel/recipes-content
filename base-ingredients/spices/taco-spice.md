@@ -30,7 +30,7 @@ Taco spice mix is the building block for Tex-Mex weeknight cooking: a dry season
 
 ### Stage 1 - Measure
 1. Spoon each spice into a small mixing bowl on a kitchen scale or with measuring spoons.
-1. Use fresh-smelling spices - ground cumin and paprika lose punch after 6 months in the cupboard.
+1. Use fresh-smelling spices, ground cumin and paprika lose punch after 6 months in the cupboard.
 
 ### Stage 2 - Blend
 1. Whisk thoroughly with a fork or small whisk for 1-2 minutes until the colour is uniform.
@@ -56,7 +56,7 @@ Taco spice mix is the building block for Tex-Mex weeknight cooking: a dry season
 
 ## Serving
 - **Typical dose:** ½ tablespoon (about 4 g) per 100 g of mince, or per tin of beans.
-- **Application:** Brown the mince first, drain excess fat, then add the spice mix with a splash of water or tomato passata. Simmer 5 minutes to bloom and coat. Don't add to a cold pan - toasting in the residual fat is what brings the cumin and paprika to life.
+- **Application:** Brown the mince first, drain excess fat, then add the spice mix with a splash of water or tomato passata. Simmer 5 minutes to bloom and coat. Don't add to a cold pan, toasting in the residual fat is what brings the cumin and paprika to life.
 - **Beyond taco mince:** Rub onto chicken thighs before roasting; toss with roast potatoes; sprinkle on popcorn; stir into sour cream for a dip.
 
 ## Storage
@@ -65,4 +65,4 @@ Taco spice mix is the building block for Tex-Mex weeknight cooking: a dry season
 - Discard if the colour fades from red-brown to grey-brown, or if the cumin smell goes flat.
 
 
-*The seasoning behind the Tex-Mex taco - earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about ½ tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*
+*The seasoning behind the Tex-Mex taco, earthy ground cumin, sweet and smoked paprika, garlic and onion powder, a hit of chilli and a small amount of oregano for the herbal back-note. Mixed dry, kept in a jar, and dosed at about ½ tablespoon per 100 g of mince. A homemade blend beats the shop sachets because you control the salt and the heat level, and the spices stay fresh.*

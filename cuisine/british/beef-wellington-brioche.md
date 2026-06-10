@@ -59,7 +59,7 @@ The dinner-party showstopper in its most ambitious form: a whole beef tenderloin
 ### Stage 2 - Sear & Roast Beef
 1. Preheat the oven to 200°C.
 1. Trim the fillet of any membrane, then season all over with salt and pepper.
-1. Heat the clarified butter in a roasting pan over a medium - high heat and sear the beef for 3 - 4 minutes until golden turning to colour evenly.
+1. Heat the clarified butter in a roasting pan over a medium, high heat and sear the beef for 3 - 4 minutes until golden turning to colour evenly.
 1. Transfer to the oven and roast for 6 minutes, turning the meat over after 3 minutes.
 1. Lift the beef onto a wire rack and leave to cool completely.
 1. At this stage it will be very rare.

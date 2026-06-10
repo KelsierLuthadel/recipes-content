@@ -50,7 +50,7 @@ Klaicha are the Iraqi date-filled cookies of Eid (a variant spelling of klicha),
 1. Cream the butter with the sugar in a large bowl.
 1. Add the cardamom, nigella, salt and egg; mix.
 1. Add the milk-yeast mixture; mix.
-1. Add the flour gradually; mix to a soft, smooth dough (don't over-knead - just bring it together).
+1. Add the flour gradually; mix to a soft, smooth dough (don't over-knead, just bring it together).
 1. Cover and rest 30 minutes.
 
 ### Stage 3 - Shape
@@ -65,7 +65,7 @@ Klaicha are the Iraqi date-filled cookies of Eid (a variant spelling of klicha),
 ### Stage 4 - Bake
 1. Place on lined baking sheets, 3 cm apart.
 1. Brush with the egg yolk glaze; sprinkle with sesame seeds.
-1. Bake 18-22 minutes until pale gold (not browned - Iraqi klaicha stay light).
+1. Bake 18-22 minutes until pale gold (not browned, Iraqi klaicha stay light).
 
 ### Stage 5 - Cool
 1. Cool on a wire rack.

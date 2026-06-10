@@ -5,7 +5,7 @@
 *The rest of the confectionery toolkit. Hard candies (lollipops, butterscotch), chewy taffies and soft caramels, gummies (gelatin-set), marshmallow (whipped sugar protein foam). Different stages of cooked sugar plus the trick of each.*
 
 ## Overview
-This lesson covers the candy types not covered in the dedicated lessons - hard candies, taffies, gummies and marshmallow. Each leans on a different sugar-work technique combined with a defining secondary ingredient (gelatin, whipped air, pulled stretch, butter). The temperatures stay in the same family as the earlier lessons; the variations are in what gets added afterward.
+This lesson covers the candy types not covered in the dedicated lessons, hard candies, taffies, gummies and marshmallow. Each leans on a different sugar-work technique combined with a defining secondary ingredient (gelatin, whipped air, pulled stretch, butter). The temperatures stay in the same family as the earlier lessons; the variations are in what gets added afterward.
 
 This is the "everything else" lesson; the previous lessons covered the major confection families in depth, and this lesson rounds out the candy types so you have a complete map of what's possible.
 
@@ -29,7 +29,7 @@ Method:
 5. Spoon onto a greaseproof-paper-lined sheet in drops, OR pour into hard candy moulds, OR (if you want lollipops) onto sticks pre-placed on the sheet.
 6. Cool completely. Unmould or peel off.
 
-The dose for hard candy flavouring oils is small (1 tsp per 250 g sugar) - these are concentrated essential oils, not extracts.
+The dose for hard candy flavouring oils is small (1 tsp per 250 g sugar): these are concentrated essential oils, not extracts.
 
 ### Butterscotch Drops
 
@@ -62,7 +62,7 @@ The chewy, pulled-stretched candy. Cooked to soft crack (132-143 C), then pulled
 - 100 g light corn syrup
 - 100 ml water
 - 60 g unsalted butter
-- 1 tsp glycerin (or 1 tsp vinegar - prevents excessive crystallisation)
+- 1 tsp glycerin (or 1 tsp vinegar, prevents excessive crystallisation)
 - 1 tsp vanilla
 - 1/2 tsp salt
 - Food colouring (optional)
@@ -72,7 +72,7 @@ Method:
 2. Cook to 132-143 C (soft crack). Lower end produces chewier taffy; higher end produces firmer.
 3. Off heat, add vanilla, salt and colour.
 4. Pour onto a buttered baking sheet or marble slab.
-5. **Let cool to 60-70 C** - cool enough to handle but still warm and pliable.
+5. **Let cool to 60-70 C**: cool enough to handle but still warm and pliable.
 6. **Pulling:** with buttered hands, gather the taffy and start pulling. Stretch the mass into a rope; fold; stretch; fold. This is the work that gives taffy its characteristic texture. Pull for 10-15 minutes; the taffy goes from translucent to opaque and lightens in colour.
 7. Roll into a rope; cut with buttered scissors into 1-2 cm pieces. Wrap each in greaseproof paper twists.
 
@@ -84,7 +84,7 @@ Gelatin-set sugar with flavouring. Soft, bouncy, slightly translucent.
 
 ### Recipe
 
-- 200 ml fruit juice (orange, apple, raspberry - or a mix)
+- 200 ml fruit juice (orange, apple, raspberry, or a mix)
 - 100 g caster sugar
 - 30 g powdered gelatin (or 12 sheets, soaked)
 - 1 tbsp lemon juice
@@ -119,7 +119,7 @@ Whipped sugar syrup stabilised by gelatin. Light, soft, airy.
 - 250 g caster sugar
 - 100 g light corn syrup
 - 100 ml water
-- 4 egg whites (about 120 g) - sometimes omitted in egg-free versions
+- 4 egg whites (about 120 g): sometimes omitted in egg-free versions
 - 30 g powdered gelatin (or 12 sheets, soaked)
 - 1 tsp vanilla extract
 - Pinch of salt
@@ -146,7 +146,7 @@ For the egg-free version, skip the egg whites and beat the gelatin-syrup mixture
 
 ## Pralines (Pecan or Almond)
 
-A Southern American confection - sugar with nuts, cooked and beaten until creamy. Like fudge but with nuts as the dominant feature.
+A Southern American confection, sugar with nuts, cooked and beaten until creamy. Like fudge but with nuts as the dominant feature.
 
 ### Recipe
 
@@ -161,9 +161,9 @@ A Southern American confection - sugar with nuts, cooked and beaten until creamy
 Method:
 1. Combine sugars, cream, butter and salt in a heavy saucepan.
 2. Stir to dissolve. Bring to a boil.
-3. Cook to 113-115 C (soft ball - same as fudge).
+3. Cook to 113-115 C (soft ball, same as fudge).
 4. Off heat, add vanilla and pecans.
-5. **Beat with a wooden spoon for 30 seconds.** This is the key difference from fudge - much shorter beating period for a creamier, looser texture.
+5. **Beat with a wooden spoon for 30 seconds.** This is the key difference from fudge, much shorter beating period for a creamier, looser texture.
 6. Drop spoonfuls onto greaseproof paper to set. Each spoonful spreads to a 5cm round, slightly domed.
 7. Cool fully.
 

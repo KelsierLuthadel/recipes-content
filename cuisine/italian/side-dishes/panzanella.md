@@ -15,12 +15,12 @@ Tuscan summer salad invented to use up the day-old bread, and one of the clevere
 
 ## Ingredients
 
-- 400 g day-old crusty country bread (sourdough, pugliese, or any rustic loaf - NOT fresh, NOT toasted)
+- 400 g day-old crusty country bread (sourdough, pugliese, or any rustic loaf, NOT fresh, NOT toasted)
 - 4 tablespoons cold water (to moisten)
 - 1 tablespoon red wine vinegar (to mix with the water)
 
 ### Vegetables
-- 700 g ripe summer tomatoes (the best you can find - mixed colours / shapes / sizes is ideal)
+- 700 g ripe summer tomatoes (the best you can find, mixed colours / shapes / sizes is ideal)
 - 1 cucumber (large, peeled in alternating stripes, deseeded, sliced 5 mm)
 - 1 red onion (small, sliced thin)
 - 1 tablespoon vinegar (mixed into water for soaking onions)
@@ -46,7 +46,7 @@ Tuscan summer salad invented to use up the day-old bread, and one of the clevere
 ### Stage 1 - Bread
 1. Tear the bread into rough 3-4 cm chunks (or cut with a serrated knife). Crusts in.
 1. Whisk the 4 tablespoons water with the 1 tablespoon vinegar in a small bowl.
-1. Sprinkle the bread chunks with this mixture - don't drench, just dampen each piece.
+1. Sprinkle the bread chunks with this mixture, don't drench, just dampen each piece.
 1. Toss with hands; rest 10 minutes.
 1. The bread should be softening but not mush. If still very stiff, sprinkle a little more water.
 
@@ -61,13 +61,13 @@ Tuscan summer salad invented to use up the day-old bread, and one of the clevere
 
 ### Stage 4 - Dressing
 1. In a small bowl, whisk olive oil, red wine vinegar, garlic-salt paste, the reserved tomato juice, sugar (if using), salt and pepper.
-1. Taste; balance - the dressing should be sharp and bright.
+1. Taste; balance, the dressing should be sharp and bright.
 
 ### Stage 5 - Combine
 1. In a wide bowl, combine the moistened bread, tomatoes, cucumber and drained onion.
 1. Pour the dressing over.
 1. Add capers and olives if using.
-1. Toss thoroughly with your hands or two big spoons - squish the tomatoes slightly as you toss so they release more juice into the bread.
+1. Toss thoroughly with your hands or two big spoons, squish the tomatoes slightly as you toss so they release more juice into the bread.
 
 ### Stage 6 - Rest
 1. Cover; let stand at room temperature 30 minutes.
@@ -75,7 +75,7 @@ Tuscan summer salad invented to use up the day-old bread, and one of the clevere
 1. Toss again at the 15-minute mark to redistribute.
 
 ### Stage 7 - Finish and serve
-1. Tear in the basil leaves (don't chop - tearing keeps the colour and aroma).
+1. Tear in the basil leaves (don't chop, tearing keeps the colour and aroma).
 1. Drizzle a generous final glug of extra-virgin olive oil.
 1. Sprinkle with flaky sea salt.
 1. Serve at room temperature. Don't refrigerate; it dulls the tomatoes.
@@ -83,7 +83,7 @@ Tuscan summer salad invented to use up the day-old bread, and one of the clevere
 ## Notes
 - **Stale bread is non-negotiable:** Fresh bread becomes paste. Toasted bread stays crisp and doesn't drink the dressing. Two-day-old crusty bread, slightly stiff, is what panzanella needs. If you only have fresh bread, dry it: tear into pieces, spread on a tray, leave at room temperature overnight (or 1 hour in a 100°C oven).
 - **Tomatoes matter more than anything:** This is a dish for late summer when tomatoes are at their peak. Out-of-season supermarket tomatoes give a sad panzanella. If your tomatoes aren't fragrant when you cut into them, save panzanella for another month.
-- **30-minute rest is mandatory:** Eating panzanella in the first 10 minutes is wrong - the bread is still hard chunks and the dressing hasn't married. After 30 minutes the bread is softly chewy, the tomatoes are wept-out, the dressing is everywhere. Eat within 2 hours after that; beyond, the bread turns to mush.
+- **30-minute rest is mandatory:** Eating panzanella in the first 10 minutes is wrong, the bread is still hard chunks and the dressing hasn't married. After 30 minutes the bread is softly chewy, the tomatoes are wept-out, the dressing is everywhere. Eat within 2 hours after that; beyond, the bread turns to mush.
 
 ## Storage
 - Best within 2 hours of assembly.

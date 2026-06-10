@@ -35,14 +35,14 @@ The order is from easiest to hardest:
 2. Add 5 ml of cold water; stir to dissolve.
 3. Add the whisky.
 4. Add the large ice cube.
-5. Stir for 25 seconds with the bar spoon, tracing the wall of the glass - chills and dilutes.
+5. Stir for 25 seconds with the bar spoon, tracing the wall of the glass, chills and dilutes.
 6. Cut the orange peel; express the oils over the surface; rub the peel around the rim; drop in.
 7. Serve.
 
 ### Why each step
 - The sugar dissolves with bitters + water first because cold-spirit doesn't dissolve dry sugar well.
 - The single large ice cube melts slowly, so the drink lasts 15-20 minutes without going watery.
-- The orange twist is traditional - change to a lemon twist and you've made a Brandy Old Fashioned; add maple syrup and you've made a "modern Old Fashioned".
+- The orange twist is traditional, change to a lemon twist and you've made a Brandy Old Fashioned; add maple syrup and you've made a "modern Old Fashioned".
 
 ## 2. Daiquiri
 
@@ -66,7 +66,7 @@ The order is from easiest to hardest:
 7. Float a lime wheel or skip the garnish.
 
 ### Why each step
-- The shake is HARD (over-the-shoulder, both arms) for 12-15 seconds - the goal is full chill + about 35% dilution.
+- The shake is HARD (over-the-shoulder, both arms) for 12-15 seconds, the goal is full chill + about 35% dilution.
 - The fresh lime is non-negotiable. Bottled lime juice tastes wrong.
 - Don't sweeten with regular sugar in the tin; it doesn't dissolve. Always simple syrup.
 
@@ -77,7 +77,7 @@ The order is from easiest to hardest:
 **Glass:** rocks glass.
 
 ### Ingredients (1 drink)
-- 30 ml gin (any decent London Dry - Tanqueray, Beefeater, Sipsmith)
+- 30 ml gin (any decent London Dry, Tanqueray, Beefeater, Sipsmith)
 - 30 ml sweet vermouth (Carpano Antica, Cocchi di Torino, or Punt e Mes)
 - 30 ml Campari
 - Orange twist (large strip, expressed)
@@ -93,7 +93,7 @@ The order is from easiest to hardest:
 ### Why each step
 - Equal parts is the traditional recipe (1:1:1). The Negroni works because the three ingredients pull in opposing directions: sweet vermouth (sweet), gin (juniper-bitter), Campari (bitter-orange). The balance is the cocktail.
 - Stirring over 30 seconds gives the right dilution; the Negroni's first sip should be slightly cool and intensely bitter; subsequent sips soften as the ice melts.
-- The orange twist's expression is essential - it adds an aromatic top-note that ties the gin and Campari's orange-pith bitterness together.
+- The orange twist's expression is essential, it adds an aromatic top-note that ties the gin and Campari's orange-pith bitterness together.
 
 ## 4. Whisky Sour
 
@@ -112,7 +112,7 @@ The order is from easiest to hardest:
 ### Method
 1. Chill the coupe.
 2. In the shaker tin, combine bourbon, lemon, syrup, egg white.
-3. **Dry shake** (no ice) for 10 seconds - this aerates the egg white into thick foam.
+3. **Dry shake** (no ice) for 10 seconds, this aerates the egg white into thick foam.
 4. Open the tin; add ice (half-full).
 5. Close; **wet shake** for 12-15 seconds.
 6. Double-strain through the Hawthorne AND a fine mesh strainer into the coupe (catches any tiny ice shards and gives a glassy surface to the foam).
@@ -121,9 +121,9 @@ The order is from easiest to hardest:
 
 ### Why each step
 - The dry shake aerates without dilution; the resulting foam is what makes a Sour a Sour.
-- Egg whites pasteurise during the agitation and the alcohol content - safe at this proportion.
+- Egg whites pasteurise during the agitation and the alcohol content, safe at this proportion.
 - Double-strain into the coupe so the foam stays clean.
-- The bitters on top is decorative AND functional - dragging them gives you a brief lift of Angostura on the first sip.
+- The bitters on top is decorative AND functional, dragging them gives you a brief lift of Angostura on the first sip.
 
 ## 5. Mojito
 
@@ -143,7 +143,7 @@ The order is from easiest to hardest:
 ### Method
 1. In the highball glass, add the mint leaves.
 2. Pour the lime juice and simple syrup over the mint.
-3. Gently muddle the mint with the back of a bar spoon (don't pulverise - just bruise to release the oils).
+3. Gently muddle the mint with the back of a bar spoon (don't pulverise, just bruise to release the oils).
 4. Add the rum.
 5. Fill with crushed ice (or stacked regular cubes).
 6. Top with soda water.
@@ -151,8 +151,8 @@ The order is from easiest to hardest:
 8. Slap the mint sprig between your palms; insert into the drink.
 
 ### Why each step
-- Muddle gently - over-muddled mint releases chlorophyll bitterness and tastes "green".
-- The crushed ice is traditional for the textural reason - colder, slushier, more refreshing.
+- Muddle gently, over-muddled mint releases chlorophyll bitterness and tastes "green".
+- The crushed ice is traditional for the textural reason, colder, slushier, more refreshing.
 - The soda top is generous; the Mojito is a long drink meant for slow sipping.
 - The slapped mint sprig perfumes the drink at every sip via the released aromatics.
 
@@ -178,7 +178,7 @@ The order is from easiest to hardest:
 
 ### Why each step
 - The cocktail is named for its pale sky-blue colour from the violette.
-- Without violette (rare in supermarkets), the cocktail is technically a "Casino" - still delicious, just clearer in colour.
+- Without violette (rare in supermarkets), the cocktail is technically a "Casino", still delicious, just clearer in colour.
 - The proportions matter: maraschino is intensely sweet, so 15 ml is the maximum; violette is intensely floral, so 8 ml.
 - This is the hardest of the six because the balance between four ingredients is more delicate than three. Get the gin-to-lemon ratio right (3:1) and the rest balances.
 

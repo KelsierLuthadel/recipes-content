@@ -61,7 +61,7 @@ Vareniki are the Russian and Ukrainian half-moon dumplings of a long Sunday lunc
 
 ### Stage 5 - Boil
 1. Bring a wide pan of salted water to a steady boil.
-1. Drop in vareniki in batches of 8-10. They sink, then float - cook 2-3 minutes from when they float.
+1. Drop in vareniki in batches of 8-10. They sink, then float, cook 2-3 minutes from when they float.
 1. Lift out with a slotted spoon; toss with some of the fried onion butter to stop sticking.
 
 ### Stage 6 - Serve

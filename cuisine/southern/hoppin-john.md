@@ -11,7 +11,7 @@
 **Cook Time:** 2 hours
 
 ## Overview
-Hoppin' John (also called "Carolina Hoppin' John" or "Lowcountry red rice with peas") is the traditional Southern New Year's Day dish and a year-round Lowcountry-Gullah staple: black-eyed peas (the traditional Southern legume - symbol of luck for the new year) slow-cooked with a smoked ham hock (or smoked turkey wing for a leaner version), chopped onion, green bell pepper, garlic, bay leaves, fresh thyme, and chicken stock, till the peas are tender and the broth thickens. Served over plain white rice with sliced raw onion, hot sauce and chopped parsley. Traditionally eaten on New Year's Day for prosperity in the coming year; collard greens accompany (the green of greens symbolises dollars) and cornbread (the gold of corn symbolises coins).
+Hoppin' John (also called "Carolina Hoppin' John" or "Lowcountry red rice with peas") is the traditional Southern New Year's Day dish and a year-round Lowcountry-Gullah staple: black-eyed peas (the traditional Southern legume, symbol of luck for the new year) slow-cooked with a smoked ham hock (or smoked turkey wing for a leaner version), chopped onion, green bell pepper, garlic, bay leaves, fresh thyme, and chicken stock, till the peas are tender and the broth thickens. Served over plain white rice with sliced raw onion, hot sauce and chopped parsley. Traditionally eaten on New Year's Day for prosperity in the coming year; collard greens accompany (the green of greens symbolises dollars) and cornbread (the gold of corn symbolises coins).
 
 ## Ingredients
 

@@ -50,7 +50,7 @@ Leche frita is the Spanish dessert with the deceptive name ("fried milk"): squar
 1. Pour in a quarter of the warm infused milk; whisk smooth.
 1. Pour in the remaining milk; whisk smooth.
 1. Return the mixture to the saucepan over medium-low heat.
-1. Whisk continuously for 6-8 minutes; the custard will thicken dramatically. Keep going past "thick custard" to "wallpaper paste" consistency - it needs to set firm.
+1. Whisk continuously for 6-8 minutes; the custard will thicken dramatically. Keep going past "thick custard" to "wallpaper paste" consistency, it needs to set firm.
 1. Off heat; whisk in the butter and vanilla.
 
 ### Stage 3 - Set
@@ -66,7 +66,7 @@ Leche frita is the Spanish dessert with the deceptive name ("fried milk"): squar
 ### Stage 5 - Coat
 1. Spread the 80 g plain flour on a plate.
 1. Whisk the 2 eggs in a wide bowl.
-1. Dredge each custard square in flour (very gently - they're fragile); dip in egg; the coating should be even.
+1. Dredge each custard square in flour (very gently, they're fragile); dip in egg; the coating should be even.
 
 ### Stage 6 - Fry
 1. Heat the oil in a wide pan to 175°C.
@@ -84,7 +84,7 @@ Leche frita is the Spanish dessert with the deceptive name ("fried milk"): squar
 1. The interior should be soft, almost melting custard; the exterior crisp and amber.
 
 ## Notes
-- **Cook the custard FIRM:** standard creme pat consistency is too soft to cube. Cook until it's like thick wallpaper paste - the spoon stands up in it.
+- **Cook the custard FIRM:** standard creme pat consistency is too soft to cube. Cook until it's like thick wallpaper paste, the spoon stands up in it.
 - **Chill long enough:** under-set custard collapses during the dredge-and-fry. 4 hours minimum at fridge temperature.
 - **HANDLE GENTLY:** the squares are fragile. Use two spatulas or a wide slotted spoon. A delicate touch keeps them intact.
 - **Eat warm:** the soft-inside / crisp-outside contrast is the soul of the dish. Cold leche frita is good but lacks the magic.
@@ -92,5 +92,5 @@ Leche frita is the Spanish dessert with the deceptive name ("fried milk"): squar
 ## Storage
 - Best within 30 minutes of frying.
 - The custard base alone keeps 2 days refrigerated; fry to order.
-- Don't freeze the custard - texture goes grainy.
-- Don't refrigerate fried leche frita - the crust softens.
+- Don't freeze the custard, texture goes grainy.
+- Don't refrigerate fried leche frita, the crust softens.

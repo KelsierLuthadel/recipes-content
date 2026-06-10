@@ -46,12 +46,12 @@ Naan-e-afghani is the long lozenge-shaped flatbread you'll see hanging from cord
 
 ### Stage 4 - Bake
 1. Slide one shaped naan onto the hot stone using a peel or back of a tray.
-1. Bake 5-7 minutes - the surface should blister and the underside go deep gold.
+1. Bake 5-7 minutes, the surface should blister and the underside go deep gold.
 1. If the surface is pale, give it 60 seconds under the grill.
 1. Repeat with the remaining naan.
 
 ### Stage 5 - Stack
-1. Stack the baked breads under a clean tea towel as they come out - the steam keeps them soft.
+1. Stack the baked breads under a clean tea towel as they come out, the steam keeps them soft.
 
 ### Stage 6 - Serve
 1. Eat warm, torn into pieces, with any Afghan meal. They keep in foil all day; reheat briefly on a dry pan.

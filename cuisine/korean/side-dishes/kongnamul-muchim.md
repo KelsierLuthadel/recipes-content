@@ -37,7 +37,7 @@ The most basic Korean banchan and probably the one you'll make first: blanched s
 ### Stage 2 - Blanch
 1. Bring a wide pot of water to a rolling boil; add 1 ½ teaspoons salt.
 1. Add the soybean sprouts.
-1. Cover with a lid; cook 5-6 minutes (the harder bean head needs the longer time - too short and they're squeaky-raw).
+1. Cover with a lid; cook 5-6 minutes (the harder bean head needs the longer time, too short and they're squeaky-raw).
 1. Drain in a colander immediately; rinse under cold running water 1 minute to stop the cooking.
 1. Squeeze gently to remove excess water.
 
@@ -52,7 +52,7 @@ The most basic Korean banchan and probably the one you'll make first: blanched s
 1. Serve cool, as a side at any meal.
 
 ## Notes
-- **Cover during blanching:** Korean cookbooks insist - covering the pot reduces the raw-bean "smell" that develops if the sprouts boil uncovered.
+- **Cover during blanching:** Korean cookbooks insist, covering the pot reduces the raw-bean "smell" that develops if the sprouts boil uncovered.
 - **Soybean sprouts ≠ mung bean sprouts:** make sure you buy the right kind. Kongnamul are larger, yellow-topped, with thicker stems. Mung bean sprouts (sukju namul) are smaller, more delicate, and need a different (shorter) blanch.
 - **Cool, not hot:** kongnamul muchim is always served at room temperature or cold. Hot it tastes squeaky and grassy.
 

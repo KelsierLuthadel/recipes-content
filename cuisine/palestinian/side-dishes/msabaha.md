@@ -44,7 +44,7 @@ Msabaha is the warm breakfast hummus eaten sitting on a low stool at a Palestini
 - 1 teaspoon ground cumin
 - ½ teaspoon paprika
 - 2 tablespoons fresh flat-leaf parsley (chopped)
-- 1 green chilli (small, finely chopped - optional)
+- 1 green chilli (small, finely chopped, optional)
 - 1 lemon (cut into wedges)
 
 ### To serve
@@ -94,7 +94,7 @@ Msabaha is the warm breakfast hummus eaten sitting on a low stool at a Palestini
 1. The technique: tear a piece of bread, scoop the chickpeas + tahini together, eat.
 
 ## Notes
-- **Bicarbonate of soda in the soak:** Adds alkali to the soaking water; softens the skins so the chickpeas cook more tenderly. Don't skip - old chickpeas in particular need this help.
+- **Bicarbonate of soda in the soak:** Adds alkali to the soaking water; softens the skins so the chickpeas cook more tenderly. Don't skip, old chickpeas in particular need this help.
 - **Cook the chickpeas until very soft:** Underdone chickpeas make a gritty msabaha. They should crush easily between your fingers. Soft is the goal.
 - **Warm, not hot:** Msabaha is served warm-but-not-scalding. The tahini sauce should not be heated; it's poured cold-to-warm over the warm chickpeas, where it slightly slackens and emulsifies with the chickpea juices.
 

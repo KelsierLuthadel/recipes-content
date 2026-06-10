@@ -62,7 +62,7 @@ Guizhou lazi ji is the southwest's answer to the Sichuan chongqing lazi ji, but 
 - **Chilli choice matters:** the goal is aroma, not heat. Use mild aromatic chillies as the base and add only a few hot ones (zi dan tou, xiao mi la) if you want a sharper kick.
 - **Don't rush the paste:** five minutes of slow-frying is the difference between raw, sharp chilli flavour and the rich, sweet, layered base the dish is known for.
 - **Make ahead:** the flavour deepens overnight. Cook the day before and reheat.
-- **Save the oil:** the leftover red chilli oil from this dish is a treasure - drizzle over noodles or use to dress cold tofu.
+- **Save the oil:** the leftover red chilli oil from this dish is a treasure, drizzle over noodles or use to dress cold tofu.
 
 ## Storage
 - Keeps 4 days refrigerated; reheat gently with a splash of water.

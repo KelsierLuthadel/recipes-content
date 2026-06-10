@@ -88,14 +88,14 @@ Bajan caramelised pumpkin is a deceptively simple side that delivers a lot of fl
 - **Don't over-braise:** the pumpkin should still hold some shape. A 25-30 minute braise mushes it completely.
 
 ## Variations
-**Caramelised pumpkin with raisins and ginger:** add 60 g raisins to the braise; double the ginger - the festive variant.
-**Pumpkin with toasted coconut:** scatter 30 g toasted coconut shavings over the finished dish - the Caribbean crunch variant.
-**Pumpkin with crisp bacon:** scatter 100 g crisp bacon lardons over the finished pumpkin - the heartier variant.
-**Roasted pumpkin (alternative method):** spread the cubed pumpkin on a tray; toss with butter, sugar and spices; roast at 200°C for 35-40 minutes till caramelised - less hands-on, similar result.
-**Mashed pumpkin:** continue cooking till the pumpkin is fully soft; mash to a smooth purée - the side-dish-as-vegetable-mash version.
+**Caramelised pumpkin with raisins and ginger:** add 60 g raisins to the braise; double the ginger, the festive variant.
+**Pumpkin with toasted coconut:** scatter 30 g toasted coconut shavings over the finished dish, the Caribbean crunch variant.
+**Pumpkin with crisp bacon:** scatter 100 g crisp bacon lardons over the finished pumpkin, the heartier variant.
+**Roasted pumpkin (alternative method):** spread the cubed pumpkin on a tray; toss with butter, sugar and spices; roast at 200°C for 35-40 minutes till caramelised, less hands-on, similar result.
+**Mashed pumpkin:** continue cooking till the pumpkin is fully soft; mash to a smooth purée, the side-dish-as-vegetable-mash version.
 **Coconut pumpkin curry:** triple the coconut milk; add 1 tablespoon Caribbean curry powder; serve as a vegetarian main with rice.
 **Sweet potato variant:** swap pumpkin for sweet potato; same method.
-**Spicy pumpkin:** double the Scotch bonnet and add a teaspoon of cayenne - the heat-lovers' variant.
+**Spicy pumpkin:** double the Scotch bonnet and add a teaspoon of cayenne, the heat-lovers' variant.
 
 ## Serving
 At a Bajan Sunday lunch (the traditional setting; alongside stew chicken and rice and peas) · at a Bajan Thanksgiving / Independence Day celebration · at a Bajan Christmas dinner · at a Caribbean barbecue · at home as the traditional Bajan vegetable side · paired with stew chicken, fried fish, or jerk chicken.

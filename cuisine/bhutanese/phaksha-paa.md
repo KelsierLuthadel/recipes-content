@@ -45,7 +45,7 @@ A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himal
 
 ### Stage 2 - Render the pork
 1. Heat a heavy wok or shallow pan over medium heat. Add the pork strips dry (no oil needed unless very lean).
-1. Cook 10-12 minutes, stirring occasionally, until the fat has rendered and the pork edges are golden. The pan will fill with melted pork fat - this is the cooking medium.
+1. Cook 10-12 minutes, stirring occasionally, until the fat has rendered and the pork edges are golden. The pan will fill with melted pork fat, this is the cooking medium.
 1. Sprinkle in the salt.
 
 ### Stage 3 - Build the braise
@@ -65,7 +65,7 @@ A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himal
 1. Taste; adjust salt or soy.
 
 ### Stage 6 - Serve
-1. Spoon over red rice. Warn diners about the whole chillies - they are eaters' choice.
+1. Spoon over red rice. Warn diners about the whole chillies, they are eaters' choice.
 
 ## Notes
 - **Dried chillies, not fresh:** the dish is built on dried red chilli, which gives a smoky, earthy heat. Fresh chillies belong in ema datshi, not paa. Kashmiri chillies are mild and a good entry point; chillies de árbol are hotter and closer to Bhutanese intensity.

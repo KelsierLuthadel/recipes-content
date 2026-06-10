@@ -43,42 +43,42 @@ Aromatic salt is the building block for finishing Balti and British-Indian dishe
 
 ### VERSION 1: Light Aromatic Salt
 
-**Stage 1 - Prepare Base**
+**Stage 1, Prepare Base**
 1. Pour the coarsely granulated sea salt into a bowl.
 1. The larger granule size is important for texture and prevents over-salting.
 
-**Stage 2 - Add Spices**
+**Stage 2, Add Spices**
 1. Add ground cinnamon, ground allspice, and optional ginger to the salt.
 1. Using a spoon, stir very thoroughly for 2-3 minutes.
 1. Ensure the color is uniform and no clumps form.
 
-**Stage 3 - Store**
+**Stage 3, Store**
 1. Transfer to an airtight jar.
 1. Label "Light Aromatic Salt" and date.
 1. Store in cool, dark place away from moisture.
 
 ### VERSION 2: Spicy Aromatic Salt with Nuts
 
-**Stage 1 - Toast Spices (If Using Whole)**
+**Stage 1, Toast Spices (If Using Whole)**
 1. If starting with whole fenugreek seeds and mint leaves, toast briefly:
    - Dry-fry fenugreek seeds in pan for 30-45 seconds until fragrant
    - Lightly crush dried mint to break up larger pieces
 1. Grind toasted fenugreek to powder; crush dried mint finely.
 
-**Stage 2 - Prepare Base Salt**
+**Stage 2, Prepare Base Salt**
 1. Pour the coarsely granulated sea salt into a bowl.
 
-**Stage 3 - Add Spices**
+**Stage 3, Add Spices**
 1. Add ground cinnamon, allspice, fenugreek powder, crushed mint, turmeric, and chilli powder to the salt.
 1. Stir very thoroughly for 2-3 minutes.
 1. The color should be relatively uniform (slight turmeric tint expected).
 
-**Stage 4 - Add Ground Almonds**
+**Stage 4, Add Ground Almonds**
 1. Add the ground almond to the spice-salt mixture.
 1. Stir for another 1-2 minutes until the almond is evenly distributed.
 1. The almond adds texture and subtle richness.
 
-**Stage 5 - Store**
+**Stage 5, Store**
 1. Transfer to airtight jar.
 1. Label "Spicy Aromatic Salt" and date.
 1. Store in cool, dark place away from moisture (almonds can absorb humidity).

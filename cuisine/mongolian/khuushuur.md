@@ -26,7 +26,7 @@ Mongolia's Naadam pasty, the deep-fried half-moon pie that turns up at every Naa
 - 3 garlic cloves (crushed)
 - 1 teaspoon salt
 - ½ teaspoon black pepper
-- 4 tablespoons cold water (essential - keeps the filling juicy)
+- 4 tablespoons cold water (essential, keeps the filling juicy)
 
 ### For frying
 - 500 ml vegetable oil (or rendered mutton fat for the authentic version)
@@ -54,7 +54,7 @@ Mongolia's Naadam pasty, the deep-fried half-moon pie that turns up at every Naa
 1. Heat 4 cm of oil in a wide heavy pan to 180°C.
 1. Fry 2-3 khuushuur at a time, 3 minutes per side, until deep gold and blistered.
 1. Lift onto kitchen paper.
-1. Eat within 10 minutes - they lose their crispness fast.
+1. Eat within 10 minutes, they lose their crispness fast.
 
 ## Notes
 - **The water in the filling:** Mixing cold water into the meat is what makes khuushuur juicy. The water steams during frying and creates a gush of broth at first bite. Skip it and the filling is dry and dense.

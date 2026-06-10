@@ -2,7 +2,7 @@
 
 ![Agrodolce](resources/agrodolce.jpg)
 
-*Italy's sweet-sour sauce: a syrup of vinegar, sugar, garlic, onion and aromatics reduced to a glossy glaze. The Italian "sweet-and-sour" - used to dress fish, vegetables (especially eggplant in caponata), meat dishes and roasted onions. Sicilian roots, used across the country.*
+*Italy's sweet-sour sauce: a syrup of vinegar, sugar, garlic, onion and aromatics reduced to a glossy glaze. The Italian "sweet-and-sour", used to dress fish, vegetables (especially eggplant in caponata), meat dishes and roasted onions. Sicilian roots, used across the country.*
 
 **Serves:** Makes about 200 ml
 
@@ -50,7 +50,7 @@ Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's founda
 
 ### Stage 4 - Add Sicilian additions
 1. If using raisins, add them; cook 2 minutes more (they plump).
-2. If using pine nuts, capers, mint - stir in at the end.
+2. If using pine nuts, capers, mint, stir in at the end.
 
 ### Stage 5 - Cool slightly
 1. Take off the heat.
@@ -70,7 +70,7 @@ Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's founda
 ## Variations
 **With balsamic:** swap white wine vinegar for balsamic; richer; more "modern Italian".
 **With honey:** swap sugar for honey; gives a different sweetness.
-**Caponata-style:** combine with sautéed eggplant cubes, capers, olives, basil - Sicilian eggplant condiment.
+**Caponata-style:** combine with sautéed eggplant cubes, capers, olives, basil, Sicilian eggplant condiment.
 **Mosto-cotto version:** use Italian mosto cotto (cooked grape must) instead of sugar; deeper sweetness, less traditional agrodolce.
 
 ## Serving

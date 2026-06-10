@@ -14,7 +14,7 @@
 The Mongolian clotted cream: whole milk simmered slowly for hours, the cream skin lifted off as it forms and stacked in layers with sugar between each, then chilled overnight to set into a soft slab that gets sliced like a small cake. Patient work but mostly hands-off; an afternoon project that gives you a celebration dessert and a second prize of reduced sweet milk for tea. Full-fat whole milk and a wide shallow heavy pan are essential; semi-skimmed barely forms a skin, and more surface area means more skin. Steam and tiny bubbles at the edge but never a rolling boil; boiling tears the skin and the milk solids fall to the bottom. Don't discard the reduced sweet milk left in the pan; it goes into tea or chills as a sweet drink. Sliced like cake, served with strong black tea or smeared on warm bread.
 
 ## Ingredients
-- 2 litres whole milk (full-fat, organic if possible - fat content makes urum)
+- 2 litres whole milk (full-fat, organic if possible, fat content makes urum)
 - 50 g caster sugar (or to taste)
 - 1 pinch salt
 - ½ teaspoon vanilla extract (optional, not traditional but pleasant)
@@ -22,10 +22,10 @@ The Mongolian clotted cream: whole milk simmered slowly for hours, the cream ski
 ## Method
 
 ### Stage 1 - The slow simmer
-1. Pour the milk into a wide shallow heavy pan (a sauté pan is ideal - more surface area means more cream skin forms).
+1. Pour the milk into a wide shallow heavy pan (a sauté pan is ideal, more surface area means more cream skin forms).
 1. Add a pinch of salt.
 1. Place over the lowest possible heat.
-1. Bring the milk slowly to just-below-a-simmer - you'll see steam and tiny bubbles at the edge, but the surface should never break into a rolling boil.
+1. Bring the milk slowly to just-below-a-simmer, you'll see steam and tiny bubbles at the edge, but the surface should never break into a rolling boil.
 1. Hold here for 30-40 minutes; a wrinkled cream skin will form on the surface.
 
 ### Stage 2 - Lift and stack
@@ -38,7 +38,7 @@ The Mongolian clotted cream: whole milk simmered slowly for hours, the cream ski
 ### Stage 3 - Use the reduced milk
 1. By the end you'll have about 500 ml of reduced sweet milk in the pan.
 1. This goes into tea (the Mongolian way) or chills as a sweet milk drink.
-1. Don't discard it - it's the second half of urum's value.
+1. Don't discard it, it's the second half of urum's value.
 
 ### Stage 4 - Set
 1. Cover the layered cream dish; chill overnight (the layers fuse into a soft slab).

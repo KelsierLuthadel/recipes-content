@@ -66,7 +66,7 @@ Korea's fire chicken, named for what it does to the mouth: boneless thighs marin
 1. Serve with steamed rice, kimchi, and lettuce leaves to wrap chicken-and-cheese bites if you want.
 
 ## Notes
-- **Heat level:** Gochugaru and gochujang together pack a real punch. Cut both by half for a milder version - still recognisably buldak.
+- **Heat level:** Gochugaru and gochujang together pack a real punch. Cut both by half for a milder version, still recognisably buldak.
 - **Low-moisture mozzarella:** Fresh mozzarella weeps water and dilutes the sauce. Use the supermarket block / pre-grated kind.
 - **Cast-iron is the right pan:** Holds heat for the caramelisation step. A regular non-stick works but the sauce reduces less crisply.
 

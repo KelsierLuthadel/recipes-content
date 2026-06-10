@@ -43,12 +43,12 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 3. DO NOT stir after this point.
 4. Boil the sugar syrup, swirling the pan occasionally to ensure even cooking, for 6-8 minutes.
 5. The syrup will gradually turn pale gold, then darker amber.
-6. Watch closely - sugar burns fast at the end stage.
+6. Watch closely, sugar burns fast at the end stage.
 7. Remove from heat when the caramel is a deep amber colour (not black; pull off before it burns).
 
 ### Stage 2 - Coat the pudim tin
 1. Immediately pour the hot caramel into the pudim tin.
-2. Tilt the tin to coat the bottom and sides evenly with the caramel (be careful - caramel is dangerously hot).
+2. Tilt the tin to coat the bottom and sides evenly with the caramel (be careful, caramel is dangerously hot).
 3. Set aside; the caramel will set hard.
 
 ### Stage 3 - Make the custard
@@ -69,7 +69,7 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 3. Test at 1 hour: gently shake the pudim tin; the centre should still jiggle slightly (like a soft custard) but the outer 4 cm should be set.
 4. Continue baking in 10-minute increments if needed.
 5. DO NOT overcook; an overcooked pudim is dry and grainy.
-6. The skewer test isn't reliable here - go by jiggle.
+6. The skewer test isn't reliable here, go by jiggle.
 
 ### Stage 6 - Cool
 1. Remove from the oven.
@@ -81,7 +81,7 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 ### Stage 7 - Unmould
 1. The next day (or after 4+ hours), run a thin sharp knife around the inside edge AND the central tube of the pudim tin to loosen the custard.
 2. Place a large serving plate (deep-rimmed if possible) over the top of the pudim tin.
-3. Invert sharply - the pudim should release with a satisfying glop, and the caramel will flow down to surround it.
+3. Invert sharply, the pudim should release with a satisfying glop, and the caramel will flow down to surround it.
 4. Lift off the tin (gently; if it sticks, give a gentle shake).
 5. The finished pudim is a glossy amber dome with caramel sauce pooled around it.
 
@@ -104,7 +104,7 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 **Pudim de café (coffee pudim):** add 2 tablespoons strong espresso to the custard. Coffee-flavoured.
 **Pudim de chocolate:** add 4 tablespoons of unsweetened cocoa powder to the custard. Chocolate variant.
 **Pudim de leite com queijo (with cheese):** add 80 g grated mature Brazilian Catupiry or cream cheese. Surprising and very rich.
-**Pudim de microondas (microwave pudim):** controversial but real - bake in a microwave at 50% power for 25 minutes. Faster, denser, less elegant.
+**Pudim de microondas (microwave pudim):** controversial but real, bake in a microwave at 50% power for 25 minutes. Faster, denser, less elegant.
 **Pudim de banana:** add 2 mashed ripe bananas to the custard. Banana-flavoured.
 **Pudim de doce de leite:** swap caramel for dulce de leche sauce on top. The Argentine-Brazilian variant.
 **Pudim sem furo (smooth pudim):** strain the custard twice and bake at 150°C; gives a perfectly smooth top with no holes.
@@ -117,4 +117,4 @@ At every Brazilian Sunday family lunch as the dessert (the traditional setting) 
 - The caramel may dissolve into the custard slightly over time; this is normal and delicious.
 - Don't freeze (the custard texture changes badly on defrosting).
 - A leftover pudim cubed and used as a parfait base is excellent.
-- The longer it sits (up to 5 days), the more the caramel infuses the custard - many Brazilians believe day-2 pudim is the best.
+- The longer it sits (up to 5 days), the more the caramel infuses the custard, many Brazilians believe day-2 pudim is the best.

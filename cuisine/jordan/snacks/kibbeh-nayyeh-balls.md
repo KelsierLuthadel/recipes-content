@@ -16,7 +16,7 @@ Jordan's fried kibbeh: bulgur-and-lamb dough wrapped around a spiced mince and p
 ## Ingredients
 
 ### Outer kibbeh dough
-- 200 g fine bulgur wheat (#1 - sold as fine bulgur at Middle Eastern shops)
+- 200 g fine bulgur wheat (#1, sold as fine bulgur at Middle Eastern shops)
 - 300 ml cold water (for soaking)
 - 400 g very lean lamb (or beef, leg, trimmed of all fat; the leanness is key for the dough)
 - 1 onion (small, rough chunks)
@@ -61,7 +61,7 @@ Jordan's fried kibbeh: bulgur-and-lamb dough wrapped around a spiced mince and p
 1. Add fattier mince; brown 6 minutes.
 1. Stir in baharat, allspice, cinnamon, salt and pepper; cook 1 minute.
 1. Off heat; stir in toasted pine nuts and parsley.
-1. Cool fully - warm filling tears the dough.
+1. Cool fully, warm filling tears the dough.
 
 ### Stage 3 - Outer dough
 1. In a food processor, blitz lean meat, onion chunks, baharat, allspice, salt and pepper for 30 seconds to a smooth paste.
@@ -70,11 +70,11 @@ Jordan's fried kibbeh: bulgur-and-lamb dough wrapped around a spiced mince and p
 1. Refrigerate 15 minutes.
 
 ### Stage 4 - Shape
-1. Wet hands with cold water (essential - keeps the dough from sticking).
+1. Wet hands with cold water (essential, keeps the dough from sticking).
 1. Take 35 g of dough; roll into a ball.
 1. Press a finger into the centre; turn the ball on the finger to hollow it into a cup with thin walls.
 1. Drop 1 ½ teaspoons of cool filling into the cup.
-1. Pinch the top closed; roll between palms into a pointed football shape (American football / rugby ball - about 6 cm long with pointed tips).
+1. Pinch the top closed; roll between palms into a pointed football shape (American football / rugby ball, about 6 cm long with pointed tips).
 1. Set on a tray. Repeat for all 18.
 
 ### Stage 5 - Fry

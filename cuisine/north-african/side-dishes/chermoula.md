@@ -36,14 +36,14 @@ Morocco's all-purpose green herb sauce, the bright bowl of garlicky, saffrony em
 
 ### Stage 2 - Emulsify
 1. With the motor running on low, drizzle in the olive oil in a thin steady stream.
-1. Stop when the paste is bright green, well-emulsified, and the texture of a slightly chunky pesto. Don't over-blend into a smooth paste - chermoula benefits from a bit of texture.
+1. Stop when the paste is bright green, well-emulsified, and the texture of a slightly chunky pesto. Don't over-blend into a smooth paste, chermoula benefits from a bit of texture.
 
 ### Stage 3 - Finish
 1. Tip into a bowl; stir in the diced preserved lemon (if using).
 1. Taste; adjust with extra lemon juice, salt or cayenne.
 
 ### Stage 4 - Rest
-1. Let stand 30 minutes for the flavours to integrate. Or refrigerate for hours/days - chermoula deepens with time.
+1. Let stand 30 minutes for the flavours to integrate. Or refrigerate for hours/days, chermoula deepens with time.
 
 ### Uses
 

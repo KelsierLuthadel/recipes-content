@@ -42,7 +42,7 @@ Nam khing is one of Laos's simplest and most beloved drinks: a ginger infusion s
 1. In a heavy small saucepan, combine the sliced ginger with the water, palm sugar, salt and (optional) cinnamon stick, cloves and peppercorns.
 2. Bring to a gentle boil over medium heat.
 3. Reduce to a low simmer.
-4. Cook covered 20-25 minutes - the brew develops a deep ginger heat.
+4. Cook covered 20-25 minutes, the brew develops a deep ginger heat.
 
 ### Stage 3 - Strain
 1. Strain through a fine sieve into a clean teapot or pitcher.
@@ -65,11 +65,11 @@ Nam khing is one of Laos's simplest and most beloved drinks: a ginger infusion s
 - **Strong proportions:** the traditional Lao brew is more aggressive than Western "ginger tea" - 40-50 g ginger per litre.
 
 ## Variations
-**With honey instead of palm sugar:** swap palm sugar for honey - more aromatic, modern.
-**Cold nam khing:** chill the brewed drink; serve over ice with extra lime - the summer variant.
-**With lemongrass:** add 1 stalk lemongrass (lightly crushed) to the simmer - the Northern Lao variant.
-**With turmeric:** add a 2 cm slice of fresh turmeric - the medicinal cold-and-flu variant.
-**Boozy nam khing:** add 30 ml of Lao-Lao rice spirit or whisky per cup - the adult cold-weather variant.
+**With honey instead of palm sugar:** swap palm sugar for honey, more aromatic, modern.
+**Cold nam khing:** chill the brewed drink; serve over ice with extra lime, the summer variant.
+**With lemongrass:** add 1 stalk lemongrass (lightly crushed) to the simmer, the Northern Lao variant.
+**With turmeric:** add a 2 cm slice of fresh turmeric, the medicinal cold-and-flu variant.
+**Boozy nam khing:** add 30 ml of Lao-Lao rice spirit or whisky per cup, the adult cold-weather variant.
 
 ## Serving
 At a Lao morning market stall (the traditional setting; especially in cool months) · at a Lao breakfast counter · at a Lao home as a morning or after-meal digestive · at a Lao temple for visiting monks · at home as a cold-weather warming drink · paired with a Lao biscuit, a small piece of mango sticky rice, or a slice of coconut cake.

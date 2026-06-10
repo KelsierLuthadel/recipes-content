@@ -9,13 +9,13 @@ kind: religious
 origin: Muslim world
 ---
 
-Ramadan is the month-long daytime fast, and the food culture that fills it is the food culture of breaking that fast at sunset. Iftar starts at the call of the maghrib prayer with dates and water - the same three dates the Prophet broke his fast with - and then everything else.
+Ramadan is the month-long daytime fast, and the food culture that fills it is the food culture of breaking that fast at sunset. Iftar starts at the call of the maghrib prayer with dates and water, the same three dates the Prophet broke his fast with, and then everything else.
 
 What everything else looks like depends on where you are. In Morocco it's harira, the lentil-chickpea-tomato soup that ladles into bowls and goes down hot. In Pakistan it's samosa and seekh kebab as warm-ups before a biryani or a karahi. In Turkey it's pide bread, kebabs and baklava to close. In the Levant it's a long table of mezze with grilled meats arriving in waves.
 
 The sweet at the end is non-negotiable and varies by household: gulab jamun, baklava, sheer khurma, knafeh. Drink: rose milk, lassi, or the strong sweet tea that the Muslim world drinks in every variant from Marrakech to Karachi.
 
-Cooking for Ramadan is patient cooking. You start in the late afternoon for a meal that begins at sunset, and the slow stews - haleem, biryani, harira - earn their hours because they're best made ahead and reheated.
+Cooking for Ramadan is patient cooking. You start in the late afternoon for a meal that begins at sunset, and the slow stews, haleem, biryani, harira, earn their hours because they're best made ahead and reheated.
 
 ## Recipes
 

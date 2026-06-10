@@ -26,19 +26,19 @@ Tortilla española is the great Spanish potato omelette: a thick juicy round of 
 
 ### Stage 1 - Cook the potatoes and onions
 1. Heat the oil in a 24 cm non-stick or well-seasoned cast-iron pan over medium heat.
-1. Add the potatoes and onion; the oil should just cover them. They should bubble gently - not fry.
+1. Add the potatoes and onion; the oil should just cover them. They should bubble gently, not fry.
 1. Cook 18-22 minutes, stirring every few minutes, until the potatoes are completely soft (a slice should crush easily) but not coloured. Onions should be limp and translucent.
 1. Lift out with a slotted spoon into a colander; let drain. Save the oil.
 
 ### Stage 2 - Combine
 1. Beat the eggs in a wide bowl with the salt and black pepper.
-1. Tip in the warm potatoes and onions; mix gently - don't break them up too much.
+1. Tip in the warm potatoes and onions; mix gently, don't break them up too much.
 1. Rest 5 minutes (lets the potatoes absorb some egg).
 
 ### Stage 3 - First side
 1. Wipe the pan; put 2 tablespoons of the saved oil back in; heat over medium-high.
 1. Pour in the egg-and-potato mixture; spread evenly.
-1. Reduce the heat to medium-low; cook 5-7 minutes - the bottom should set golden, the top still wet.
+1. Reduce the heat to medium-low; cook 5-7 minutes, the bottom should set golden, the top still wet.
 1. Run a spatula around the edge to make sure nothing is stuck.
 
 ### Stage 4 - Flip
@@ -52,11 +52,11 @@ Tortilla española is the great Spanish potato omelette: a thick juicy round of 
 1. Slide onto a clean plate.
 
 ### Stage 6 - Rest and serve
-1. Rest 5 minutes before slicing - this lets the centre settle.
+1. Rest 5 minutes before slicing, this lets the centre settle.
 1. Cut into wedges and eat warm or cold.
 
 ## Notes
-- **Don't fry - confit:** The potatoes should be soft, not crisp. Lower the heat if they start to brown; you want gentle cooking through and through.
+- **Don't fry, confit:** The potatoes should be soft, not crisp. Lower the heat if they start to brown; you want gentle cooking through and through.
 - **The flip:** The most-feared step. Use a plate larger than the pan, hold it firmly, commit to the motion. A flip plate (plato volteador) makes it easy.
 - **Jugosa vs fully cooked:** Spaniards split. Pull off the heat earlier for soft-set juicy centre; later for set-through. There is no wrong answer; just preference.
 

@@ -69,7 +69,7 @@ Maultaschen are the Swabian dumplings the German monks supposedly invented to hi
 
 ### Stage 4 - Cook
 **For in-broth:**
-1. Bring the stock to a gentle simmer (not a hard boil - too aggressive splits the dumplings).
+1. Bring the stock to a gentle simmer (not a hard boil, too aggressive splits the dumplings).
 1. Cook maultaschen in batches of 4-5 for 8-10 minutes until they float and the pasta is tender.
 1. Lift into bowls; ladle hot broth over.
 
@@ -81,9 +81,9 @@ Maultaschen are the Swabian dumplings the German monks supposedly invented to hi
 1. Top each plate with a fried egg.
 
 ## Notes
-- **Frozen spinach is fine:** Fresh works too - wilt 1 kg fresh spinach, squeeze dry. Frozen is faster and gives the same result.
+- **Frozen spinach is fine:** Fresh works too, wilt 1 kg fresh spinach, squeeze dry. Frozen is faster and gives the same result.
 - **Seal carefully:** Maultaschen are bigger than pierogi; air pockets cause them to burst. Press out around each mound.
 - **Two ways to eat:** Both classic. In-broth is the elegant version; pan-fried is the homey one.
 
 ## Storage
-- Cooked maultaschen refrigerate 3 days. Frozen raw maultaschen keep 2 months - boil from frozen with 2-3 minutes extra.
+- Cooked maultaschen refrigerate 3 days. Frozen raw maultaschen keep 2 months, boil from frozen with 2-3 minutes extra.

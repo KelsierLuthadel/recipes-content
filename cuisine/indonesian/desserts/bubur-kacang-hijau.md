@@ -55,7 +55,7 @@ Bubur kacang hijau is the Indonesian breakfast porridge of split mung beans, pal
 1. Remove pandan leaves and ginger slices.
 
 ### Stage 4 - Coconut milk
-1. In a small saucepan, gently warm the coconut milk with a pandan leaf and a pinch of salt over low heat - do not boil (coconut milk splits).
+1. In a small saucepan, gently warm the coconut milk with a pandan leaf and a pinch of salt over low heat, do not boil (coconut milk splits).
 1. Heat until just steaming.
 1. Remove the pandan leaf.
 

@@ -16,7 +16,7 @@ Bessara is the Egyptian fava-bean dip the colour of pale green, a thicker, smoot
 ## Ingredients
 
 ### Beans
-- 250 g dried split fava beans (the yellow split bean - sold at Egyptian / Middle Eastern shops)
+- 250 g dried split fava beans (the yellow split bean, sold at Egyptian / Middle Eastern shops)
 - 1 teaspoon bicarbonate of soda (for the soak)
 - 1 ½ litres water (for the soak)
 
@@ -28,7 +28,7 @@ Bessara is the Egyptian fava-bean dip the colour of pale green, a thicker, smoot
 - 1 teaspoon salt
 
 ### Blender
-- 4 garlic cloves (extra - peeled)
+- 4 garlic cloves (extra, peeled)
 - 1 ½ teaspoons ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon Aleppo pepper
@@ -68,7 +68,7 @@ Bessara is the Egyptian fava-bean dip the colour of pale green, a thicker, smoot
 1. Add cumin, coriander, Aleppo pepper, lemon juice and 3 tablespoons olive oil.
 1. Blitz until smooth.
 1. Taste; adjust salt and lemon.
-1. The texture should be like a thick hummus - spoonable but not stiff. Loosen with hot water if needed.
+1. The texture should be like a thick hummus, spoonable but not stiff. Loosen with hot water if needed.
 
 ### Stage 4 - Green oil
 1. In a small bowl, whisk extra-virgin olive oil with chopped parsley, paprika, cumin and dried mint.
@@ -87,9 +87,9 @@ Bessara is the Egyptian fava-bean dip the colour of pale green, a thicker, smoot
 ## Notes
 - **Soak with bicarb:** Without baking soda in the soak, the bean skins stay tough and the puree never becomes silky.
 - **Cook them very soft:** Underdone beans give grainy, harsh bessara. The beans should mash easily under finger pressure; if they don't, simmer longer.
-- **Side or dip:** Bessara works as a side at a mezze table OR as the centre of a bread-and-dip lunch. Either way, eat warm - cold bessara dulls dramatically.
+- **Side or dip:** Bessara works as a side at a mezze table OR as the centre of a bread-and-dip lunch. Either way, eat warm, cold bessara dulls dramatically.
 
 ## Storage
 - Refrigerate 4 days; warm with a splash of water (it thickens unappealingly cold).
 - Freezes 3 months.
-- The green oil is excellent on anything else - roast vegetables, fried eggs, grilled fish.
+- The green oil is excellent on anything else, roast vegetables, fried eggs, grilled fish.

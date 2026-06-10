@@ -18,11 +18,11 @@ A 5-litre traditional mead, medium-dry, about 11-12% ABV. Total active time abou
 ## Day 0: Brewing day
 
 ### Sanitise everything
-Mix Star San per instructions (about 2 ml per litre of water). Submerge or spray the demijohn, bung, airlock, funnel, hydrometer, racking cane. Drain (Star San is no-rinse - the residual foam is fine).
+Mix Star San per instructions (about 2 ml per litre of water). Submerge or spray the demijohn, bung, airlock, funnel, hydrometer, racking cane. Drain (Star San is no-rinse, the residual foam is fine).
 
 ### Heat the must
 1. Heat 2 litres of water to about 40°C (warm to the touch but not hot).
-2. Stir in the 1.2 kg honey until fully dissolved. Don't boil - boiling drives off the honey's aromatics.
+2. Stir in the 1.2 kg honey until fully dissolved. Don't boil, boiling drives off the honey's aromatics.
 3. Pour the honey-water (the "must") into the demijohn through a funnel.
 4. Top up with 2 litres of cold water (cooling and filling at the same time).
 5. Add 2 g of Fermaid O (the first staggered nutrient dose).
@@ -92,7 +92,7 @@ At this point, taste the mead. It should be:
 The mead sits in the secondary for another 4-8 weeks. The flavour matures, harshness softens, the mead clarifies further. Top up with sanitised water any time you transfer or rack to minimise oxidation.
 
 After 4-6 weeks in secondary, decide whether to:
-- **Bottle now** - a younger, more honey-forward mead with some heat remaining.
+- **Bottle now**: a younger, more honey-forward mead with some heat remaining.
 - **Continue aging** in the demijohn for another 4-6 months. Smoother, more complex, more wine-like.
 
 For a first batch: rack to a third demijohn at month 4 if the lees layer is more than 5 mm. Otherwise just leave it.
@@ -112,17 +112,17 @@ After at least 3-4 months from pitch (and ideally 6-12 months):
 
 Bottle-age at least 3 months before opening the first bottle. 6 months is much better. 12 months is excellent.
 
-Mead's "ugly duckling" phase is roughly the 2-6 month mark - young, sharp, slightly hot. Past 6 months it transforms. The first bottle you open at 12 months will taste like a different drink from the one you bottled.
+Mead's "ugly duckling" phase is roughly the 2-6 month mark, young, sharp, slightly hot. Past 6 months it transforms. The first bottle you open at 12 months will taste like a different drink from the one you bottled.
 
 ## Common mistakes (worth avoiding)
 
-- **Boiling the honey** - drives off aromatics. Warm-dissolve only.
-- **Skipping the nutrient** - gives stressed, off-flavour mead.
-- **Pitching at too-hot temperature** (above 25°C) - produces fusel alcohols (hot, solventy notes).
-- **Racking too early** (during active fermentation) - disturbs the yeast; can stall the ferment.
-- **Bottling too early** (before primary is fully done) - bottles can explode.
-- **Insufficient sanitisation** - wild yeast / bacteria → spoiled mead.
-- **Opening the first bottle too early** - you'll be disappointed. Wait at least 3 months.
+- **Boiling the honey**: drives off aromatics. Warm-dissolve only.
+- **Skipping the nutrient**: gives stressed, off-flavour mead.
+- **Pitching at too-hot temperature** (above 25°C): produces fusel alcohols (hot, solventy notes).
+- **Racking too early** (during active fermentation): disturbs the yeast; can stall the ferment.
+- **Bottling too early** (before primary is fully done): bottles can explode.
+- **Insufficient sanitisation**: wild yeast / bacteria → spoiled mead.
+- **Opening the first bottle too early**: you'll be disappointed. Wait at least 3 months.
 
 ## What good mead tastes like
 

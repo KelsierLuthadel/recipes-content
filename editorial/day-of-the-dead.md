@@ -8,11 +8,11 @@ kind: festival
 origin: Mexico
 ---
 
-**Día de los Muertos** is the Mexican celebration that meets the dead at the table. Altars (ofrendas) carry photographs and marigolds and the favourite foods of the people being honoured - a tin of beer here, a plate of mole there, a bowl of tortilla soup steaming for someone who used to make it on Sundays.
+**Día de los Muertos** is the Mexican celebration that meets the dead at the table. Altars (ofrendas) carry photographs and marigolds and the favourite foods of the people being honoured, a tin of beer here, a plate of mole there, a bowl of tortilla soup steaming for someone who used to make it on Sundays.
 
 The food is generous and old: mole poblano with its hours of toasting, blending and simmering; tamales wrapped in corn husks and steamed in stacks; pan de muerto in its bone-shaped braids dusted with sugar. Sweet and savoury share equal space at the table. Atole and champurrado go alongside hot chocolate for the night, and tres leches cake catches the last of everyone's appetite.
 
-Birria, cochinita pibil, slow-roasted meats that take an afternoon - all are appropriate. So is anything the departed loved. The kitchen sits in late-October light, the chillies toast, and the smell of cumin and clove fills the house.
+Birria, cochinita pibil, slow-roasted meats that take an afternoon, all are appropriate. So is anything the departed loved. The kitchen sits in late-October light, the chillies toast, and the smell of cumin and clove fills the house.
 
 ## Recipes
 

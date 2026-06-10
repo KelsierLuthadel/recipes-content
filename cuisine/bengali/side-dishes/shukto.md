@@ -65,7 +65,7 @@ Shukto is the dish that confuses newcomers and converts Bengalis for life. The f
 1. Return the fried bori to the pot, sprinkle the ground roasted radhuni and the finishing ghee, and rest off the heat for 5 minutes before serving with hot rice.
 
 ## Notes
-- **Radhuni:** This is the signature spice of shukto - a small relative of celery seed, native to Bengal. If unavailable, use ajwain (carom) sparingly, or a 50/50 mix of celery seed and a pinch of fenugreek.
+- **Radhuni:** This is the signature spice of shukto, a small relative of celery seed, native to Bengal. If unavailable, use ajwain (carom) sparingly, or a 50/50 mix of celery seed and a pinch of fenugreek.
 - **Bitterness balance:** If your bitter gourd is very strong, rub the slices with salt and rest for 10 minutes, then squeeze gently before frying. Do not skip the gourd altogether; without it the dish is not shukto.
 - **Milk:** Use whole milk only. Skimmed milk will not give the right texture and is more likely to split.
 - **Order matters:** Bengali cooks add vegetables in a specific sequence so each is correctly cooked. The bitter gourd always goes in first.

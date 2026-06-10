@@ -2,19 +2,19 @@
 
 ![Aromatic bitters](resources/aromatic.jpg)
 
-*Angostura is the famous one. Here's how to make your own version - the Angostura-style "aromatic" bitters - with herbs, roots, spices, and high-proof spirit.*
+*Angostura is the famous one. Here's how to make your own version, the Angostura-style "aromatic" bitters, with herbs, roots, spices, and high-proof spirit.*
 
 ## Overview
 
-Aromatic bitters are the "default" cocktail bitter - the one you'd add to an Old Fashioned, Manhattan, Whisky Sour, or any cocktail that calls for "a dash of bitters" without specifying which.
+Aromatic bitters are the "default" cocktail bitter, the one you'd add to an Old Fashioned, Manhattan, Whisky Sour, or any cocktail that calls for "a dash of bitters" without specifying which.
 
 The defining flavour is:
-- **Gentian root** - the foundational bitter agent.
-- **Cinchona bark** - the source of quinine; supports the bitterness.
-- **Warm spices** - cardamom, clove, allspice, cinnamon, anise.
-- **Citrus zest** - usually orange and/or lemon.
-- **Herbal notes** - angelica, wormwood, hyssop, calamus.
-- **Sometimes earthy notes** - gentian, calamus root.
+- **Gentian root**: the foundational bitter agent.
+- **Cinchona bark**: the source of quinine; supports the bitterness.
+- **Warm spices**: cardamom, clove, allspice, cinnamon, anise.
+- **Citrus zest**: usually orange and/or lemon.
+- **Herbal notes**: angelica, wormwood, hyssop, calamus.
+- **Sometimes earthy notes**: gentian, calamus root.
 
 Each commercial brand has its own blend; this recipe is a starting point that gives Angostura-style character.
 
@@ -31,7 +31,7 @@ Each commercial brand has its own blend; this recipe is a starting point that gi
 - 2 star anise pods
 - 1 teaspoon dried orange peel (or zest of 1 orange, dried)
 - 1 teaspoon dried bay leaf (1 small leaf, crumbled)
-- ½ teaspoon dried wormwood (artemisia - available at herbalists)
+- ½ teaspoon dried wormwood (artemisia, available at herbalists)
 - 1 teaspoon dried angelica root
 - ¼ teaspoon caraway seeds (lightly crushed)
 - 50 g demerara sugar (for sweetening at the end)
@@ -59,7 +59,7 @@ After 14 days:
 1. Strain the liquid through a cheesecloth-lined sieve into a clean jar.
 2. Press the solids in the cheesecloth to extract as much liquid as possible.
 3. Discard the spent solids.
-4. The strained liquid is the "bitters base". It's intensely bitter - a single drop on the tongue will pucker.
+4. The strained liquid is the "bitters base". It's intensely bitter, a single drop on the tongue will pucker.
 
 ### Step 3: Sweeten
 
@@ -79,9 +79,9 @@ The bitters are usable immediately but improve dramatically with 2-4 weeks of ad
 A finished aromatic bitter should be:
 
 - **Intensely bitter** on the tongue (the bitterness should hit immediately and linger).
-- **Aromatic** on the nose - the warm spices, citrus, and herbal notes should be present even from a tiny drop.
-- **Slightly sweet** - the sugar provides balance, not full sweetness.
-- **Complex** - multiple layers detectable: bitter, warm, citrus, herbal, slight savoury.
+- **Aromatic** on the nose, the warm spices, citrus, and herbal notes should be present even from a tiny drop.
+- **Slightly sweet**: the sugar provides balance, not full sweetness.
+- **Complex**: multiple layers detectable: bitter, warm, citrus, herbal, slight savoury.
 
 Use 2-3 dashes (about 0.5-1 ml) in a cocktail.
 
@@ -106,7 +106,7 @@ Use in: gin cocktails, champagne cocktails, dessert applications.
 ## Quality notes
 
 - **The cinchona bark** is the trickiest ingredient to source. UK herbalists (Bald-Headed Herbs, Bodywise) carry it; online sellers (Cinchona officinalis dried) are reliable.
-- **Wormwood** (artemisia absinthium) is legal in the UK in small amounts - herbalists stock it. Use sparingly; it's potent.
+- **Wormwood** (artemisia absinthium) is legal in the UK in small amounts, herbalists stock it. Use sparingly; it's potent.
 - **Gentian root** is the traditional bitter agent; available at any herbalist.
 - **The spirit choice matters**: high-proof (60-95%) extracts more efficiently. 40% works but takes longer.
 
@@ -114,6 +114,6 @@ Use in: gin cocktails, champagne cocktails, dessert applications.
 
 Pour the finished bitters into 30 ml dropper bottles. Label with date and "aromatic bitters". Stores indefinitely at room temperature (the high alcohol preserves).
 
-A 100 ml batch makes about 3 × 30 ml dropper bottles - enough for 200+ cocktails. Total cost: about £1.50 (ingredients + bottles).
+A 100 ml batch makes about 3 × 30 ml dropper bottles, enough for 200+ cocktails. Total cost: about £1.50 (ingredients + bottles).
 
 Commercial equivalent: a 30 ml bottle of Angostura is £8; a Fee Brothers Old Fashioned aromatic is £15. Your homemade version, at a third of the cost, with adjustable parameters, is a serious cocktail-cabinet upgrade.

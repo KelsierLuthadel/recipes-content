@@ -19,7 +19,7 @@ Bannock is the traditional Indigenous bread of Canada, with roots that predate E
 - 400 g plain flour (or 50/50 plain and whole-wheat for a denser, more rustic loaf)
 - 3 teaspoons baking powder
 - 1 teaspoon fine sea salt
-- 2 teaspoons granulated sugar (optional; gives a slight sweetness - some traditional cooks include, some don't)
+- 2 teaspoons granulated sugar (optional; gives a slight sweetness, some traditional cooks include, some don't)
 - 40 g cold unsalted butter OR lard, cubed (or 3 tablespoons vegetable oil mixed in at the end)
 - 250-300 ml warm water OR warm whole milk
 
@@ -48,8 +48,8 @@ Bannock is the traditional Indigenous bread of Canada, with roots that predate E
 
 ### Stage 4 - Light knead and rest
 1. Turn the dough out onto a lightly floured surface.
-2. Knead very gently 4-5 times - just till it comes together into a smooth ball.
-3. DON'T over-knead - bannock is meant to be light and slightly crumbly inside.
+2. Knead very gently 4-5 times, just till it comes together into a smooth ball.
+3. DON'T over-knead, bannock is meant to be light and slightly crumbly inside.
 4. Let rest 5 minutes.
 
 ### Stage 5 - Shape
@@ -58,7 +58,7 @@ Bannock is the traditional Indigenous bread of Canada, with roots that predate E
 3. Some cooks use a wooden spoon to make a small dimple in the centre (this prevents a domed centre while frying).
 
 ### Stage 6 - Pan-fry
-1. Heat the oil to medium-low (around 160°C if you have a thermometer; or test with a small piece of dough - it should bubble gently but not violently).
+1. Heat the oil to medium-low (around 160°C if you have a thermometer; or test with a small piece of dough, it should bubble gently but not violently).
 2. Working in batches of 2-3, lower the bannocks gently into the oil.
 3. Fry 3-4 minutes on the first side till deep golden.
 4. Flip carefully with tongs; fry 3-4 minutes on the second side till golden.
@@ -81,13 +81,13 @@ Bannock is the traditional Indigenous bread of Canada, with roots that predate E
 ## Variations
 **Oven-baked bannock (the "tea biscuit" cousin):** form into one large 25 cm disc; bake on a parchment-lined tray at 220°C (200°C fan) for 18-22 minutes till deep golden and a tester comes out clean. Cut into wedges.
 **Stick-wrapped bannock (canoe-trip / pow-wow style):** wrap a fist-sized ball of dough around the peeled end of a green stick (birch is traditional); toast over the embers of an open fire, turning slowly, 12-15 minutes till the outside is crisp and the inside cooked through.
-**Cinnamon-raisin bannock:** add 80 g raisins and 1 teaspoon ground cinnamon to the dough - the breakfast / sweet variant.
-**Cheddar bannock:** fold 100 g grated mature cheddar through the dough - the modern savoury variant.
-**Saskatoon-berry bannock:** fold 80 g fresh or dried Saskatoon berries through the dough; pan-fry as normal - the prairie variant.
-**Wild-rice bannock:** add 80 g cooked wild rice to the dough - the Northern Ontario / Manitoba variant.
-**Métis "fry bread" (puffy):** thin the dough slightly (5 mm thick rounds); deep-fry in hot oil till puffed and golden - the larger, puffier Métis variant served with chili or stew on top.
-**Skillet-baked bannock (one big disc):** pour the dough straight into a hot oiled cast-iron skillet; bake at 220°C for 25 minutes - the canoe-trip variant where you only have one pot.
-**Sweet bannock with maple syrup:** drizzle warm maple syrup over the freshly-fried bannock - the sugar-shack lunch.
+**Cinnamon-raisin bannock:** add 80 g raisins and 1 teaspoon ground cinnamon to the dough, the breakfast / sweet variant.
+**Cheddar bannock:** fold 100 g grated mature cheddar through the dough, the modern savoury variant.
+**Saskatoon-berry bannock:** fold 80 g fresh or dried Saskatoon berries through the dough; pan-fry as normal, the prairie variant.
+**Wild-rice bannock:** add 80 g cooked wild rice to the dough, the Northern Ontario / Manitoba variant.
+**Métis "fry bread" (puffy):** thin the dough slightly (5 mm thick rounds); deep-fry in hot oil till puffed and golden, the larger, puffier Métis variant served with chili or stew on top.
+**Skillet-baked bannock (one big disc):** pour the dough straight into a hot oiled cast-iron skillet; bake at 220°C for 25 minutes, the canoe-trip variant where you only have one pot.
+**Sweet bannock with maple syrup:** drizzle warm maple syrup over the freshly-fried bannock, the sugar-shack lunch.
 
 ## Serving
 At an Indigenous community feast (the traditional setting) · at a First Nations powwow · at a Métis cultural event · at a Canadian camp or canoe trip · at a Yukon trapline cabin · at a Saskatchewan farm kitchen · at home as a side for chili, stew, or breakfast eggs · at an Indigenous-led restaurant (e.g. Salmon n' Bannock in Vancouver, NishDish in Toronto) · as the universal Canadian bread accompaniment.
@@ -96,5 +96,5 @@ At an Indigenous community feast (the traditional setting) · at a First Nations
 - Best within 4 hours of cooking. After that the texture firms and the bannock loses its softness.
 - Cool, wrapped in a clean tea towel, keeps 24 hours at room temperature; refresh in a hot oven for 4 minutes to soften.
 - Freezes 2 months wrapped tight; defrost at room temperature and refresh in the oven.
-- Day-old bannock makes excellent French toast - dip in beaten egg and milk, pan-fry, serve with maple syrup.
-- The dough itself doesn't keep well - bannock is a make-and-eat bread, not a make-ahead one.
+- Day-old bannock makes excellent French toast, dip in beaten egg and milk, pan-fry, serve with maple syrup.
+- The dough itself doesn't keep well, bannock is a make-and-eat bread, not a make-ahead one.

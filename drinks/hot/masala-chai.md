@@ -11,7 +11,7 @@
 **Cook Time:** 12 minutes
 
 ## Overview
-Masala chai is the everyday spiced tea of the Indian subcontinent - from the railway-station chai-wallah pouring it into clay cups across India, to the home kitchen at any time a guest sits down. The recipe varies household by household, region by region, but the core is always there: black tea (Assam or Ceylon), whole milk, fresh ginger, green cardamom, cinnamon, cloves, and crushed black peppercorns for the warming finish. Some households add fennel; others nutmeg; some star anise. Sugar is added in serious quantity. The brewing technique is the defining detail: everything goes into a saucepan together, brought to a hard boil, then simmered until the kitchen smells unmistakable. The result is a deep tan tea with a strong spice nose, properly sweet, served in small cups - better as a small intense cup than a large mug. Different in every way from the Western "chai latte" which is mostly syrup and steamed milk.
+Masala chai is the everyday spiced tea of the Indian subcontinent, from the railway-station chai-wallah pouring it into clay cups across India, to the home kitchen at any time a guest sits down. The recipe varies household by household, region by region, but the core is always there: black tea (Assam or Ceylon), whole milk, fresh ginger, green cardamom, cinnamon, cloves, and crushed black peppercorns for the warming finish. Some households add fennel; others nutmeg; some star anise. Sugar is added in serious quantity. The brewing technique is the defining detail: everything goes into a saucepan together, brought to a hard boil, then simmered until the kitchen smells unmistakable. The result is a deep tan tea with a strong spice nose, properly sweet, served in small cups, better as a small intense cup than a large mug. Different in every way from the Western "chai latte" which is mostly syrup and steamed milk.
 
 ## Ingredients
 
@@ -41,7 +41,7 @@ Masala chai is the everyday spiced tea of the Indian subcontinent - from the rai
 
 ### Stage 3 - Add tea
 1. Add the tea (loose or bags) to the brewing pan.
-1. Simmer hard for 2 minutes more - the brew turns very dark, almost mahogany.
+1. Simmer hard for 2 minutes more, the brew turns very dark, almost mahogany.
 
 ### Stage 4 - Add milk and sugar
 1. Pour in the whole milk; add the sugar.

@@ -21,7 +21,7 @@ Horiatiki is the Greek village salad, the real one, no lettuce in sight, just to
 - 16 kalamata olives (pitted or whole, your call)
 - 2 tablespoons capers in brine (drained)
 - 200 g feta cheese (one slab, NOT pre-crumbled)
-- 6 tablespoons extra virgin olive oil (good quality - this is the dressing)
+- 6 tablespoons extra virgin olive oil (good quality, this is the dressing)
 - 1 ½ tablespoons red-wine vinegar
 - 1 tablespoon dried Greek oregano (rigani)
 - salt
@@ -39,12 +39,12 @@ Horiatiki is the Greek village salad, the real one, no lettuce in sight, just to
 ### Stage 2 - Compose
 1. In a shallow wide bowl, pile the tomatoes, cucumber, pepper rings and drained onion.
 1. Scatter the olives and capers over.
-1. Place the slab of feta on top - DO NOT crumble.
+1. Place the slab of feta on top, DO NOT crumble.
 
 ### Stage 3 - Dress
-1. Drizzle the olive oil generously over the whole assembly (don't be shy - Greeks use a lot of oil).
+1. Drizzle the olive oil generously over the whole assembly (don't be shy, Greeks use a lot of oil).
 1. Splash the red-wine vinegar over the vegetables (not the feta).
-1. Sprinkle the oregano over everything - including the feta, which should look dusted.
+1. Sprinkle the oregano over everything, including the feta, which should look dusted.
 1. Crack pepper over. A small pinch of salt over the vegetables (the feta is salty enough on its own).
 
 ### Stage 4 - Rest and serve

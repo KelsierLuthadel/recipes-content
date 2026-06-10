@@ -35,13 +35,13 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 
 ### Topping
 - 1 egg (beaten with 1 tablespoon milk; for egg wash)
-- 50 g pearl sugar (pärlsocker - the traditional Swedish chunky white sugar; substitute with crushed sugar cubes if unavailable, or coarse demerara)
+- 50 g pearl sugar (pärlsocker, the traditional Swedish chunky white sugar; substitute with crushed sugar cubes if unavailable, or coarse demerara)
 - 2 tablespoons flaked almonds (optional)
 
 ### To serve
 - Strong coffee (Swedish-style)
 - Or tea
-- The fika ritual - never alone
+- The fika ritual, never alone
 
 ## Method
 
@@ -66,7 +66,7 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 3. Spread the cinnamon-butter filling evenly across the entire surface, all the way to the edges.
 
 ### Stage 5 - Fold and cut (the Swedish twist method)
-1. Fold the rectangle into thirds (like folding a letter - bring the bottom third up over the middle, then the top third down over both, giving three layers).
+1. Fold the rectangle into thirds (like folding a letter, bring the bottom third up over the middle, then the top third down over both, giving three layers).
 2. With a sharp knife or pizza wheel, cut the folded rectangle widthwise into 16 strips (each about 3cm wide).
 3. Each strip should be three layers thick.
 
@@ -76,7 +76,7 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 3. Wind the twisted rope into a small spiral knot; tuck the loose end underneath.
 4. Place on a parchment-lined baking sheet.
 5. Repeat for all 16 strips.
-6. Don't worry about perfect uniformity - Swedish kanelbullar look slightly rustic.
+6. Don't worry about perfect uniformity, Swedish kanelbullar look slightly rustic.
 
 ### Stage 7 - Second rise
 1. Cover the shaped buns loosely with a damp tea towel.
@@ -105,7 +105,7 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 **Kardemummabullar (cardamom buns):** swap the cinnamon filling for an all-cardamom filling. Equally traditional and arguably even more Swedish.
 **Saffron buns (lussekatter):** at Christmas, swap to a saffron-yellow dough with raisin eyes; the Sankta Lucia Day specialty.
 **Vegan version:** swap milk for oat milk, egg for flax egg, butter for vegan butter.
-**With cream cheese frosting:** less traditional, more modern (American influence) - drizzle a cream-cheese frosting over after baking.
+**With cream cheese frosting:** less traditional, more modern (American influence): drizzle a cream-cheese frosting over after baking.
 **Smaller mini cocktail version:** half-size buns for a fika spread or canapé.
 
 ## Serving

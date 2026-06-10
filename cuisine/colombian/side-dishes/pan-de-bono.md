@@ -17,11 +17,11 @@ Pan de bono is the Colombian cheese bread that puffs into glossy little rings in
 
 - 300 g yuca (cassava) flour
 - 100 g masarepa (white pre-cooked corn flour, P.A.N. or similar)
-- 250 g feta (or fresh white cheese - queso costeño, ricotta salata, or salted ricotta)
-- 100 g mature cheddar cheese (finely grated, optional - adds richness)
+- 250 g feta (or fresh white cheese, queso costeño, ricotta salata, or salted ricotta)
+- 100 g mature cheddar cheese (finely grated, optional, adds richness)
 - 1 egg (large)
 - 1 tablespoon caster sugar
-- ½ teaspoon salt (taste - depends on the cheese saltiness)
+- ½ teaspoon salt (taste, depends on the cheese saltiness)
 - 80 ml whole milk (more as needed)
 
 ## Method
@@ -36,7 +36,7 @@ Pan de bono is the Colombian cheese bread that puffs into glossy little rings in
 ### Stage 3 - Wet
 1. Beat the egg with 60 ml of milk in a small bowl.
 1. Add to the bowl; mix to a soft dough.
-1. Add more milk by the tablespoon as needed - the dough should be soft, slightly tacky, but hold a shape.
+1. Add more milk by the tablespoon as needed, the dough should be soft, slightly tacky, but hold a shape.
 
 ### Stage 4 - Rest
 1. Cover; rest 15 minutes.

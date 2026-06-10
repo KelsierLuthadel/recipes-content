@@ -46,9 +46,9 @@ Thai prawn toast is not the thin-smeared takeaway version: this is a proper praw
 
 ### Stage 2 - Assemble
 1. Lay the bread slices on a clean work surface and top each with a generous amount of the prawn mixture.
-2. I like to pile them high like a mound - no skimping allowed!
+2. I like to pile them high like a mound, no skimping allowed!
 3. Press the prawn mounds firmly in place on each piece of bread.
-4. Sprinkle with sesame seeds. You could just sprinkle a few on or go all out and coat the whole top with them - that’s up to you.
+4. Sprinkle with sesame seeds. You could just sprinkle a few on or go all out and coat the whole top with them, that’s up to you.
 
 ### Stage 3 - Fry
 1. Heat about 10cm (4in) of oil in a large saucepan or wok over a medium-high heat.

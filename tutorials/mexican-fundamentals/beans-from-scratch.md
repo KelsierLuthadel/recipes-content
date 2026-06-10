@@ -8,8 +8,8 @@
 
 Two beans dominate Mexican cooking:
 
-- **Pinto beans** (frijoles pintos) - speckled brown, creamy when cooked, the traditional "Mexican bean" of the north and central regions.
-- **Black beans** (frijoles negros) - dark, slightly sweeter, the traditional bean of Oaxaca, Veracruz, and the south.
+- **Pinto beans** (frijoles pintos): speckled brown, creamy when cooked, the traditional "Mexican bean" of the north and central regions.
+- **Black beans** (frijoles negros): dark, slightly sweeter, the traditional bean of Oaxaca, Veracruz, and the south.
 
 Other beans in Mexican use: bayo, mayocoba, lima (small white), Peruvian. But pinto and black are 90% of the kitchen.
 
@@ -31,20 +31,20 @@ This page covers cooking the traditional pinto from dried + the traditional blac
 - 4 garlic cloves (smashed)
 - 1 bay leaf
 - 1 tablespoon vegetable oil OR 100 g chopped bacon (for cooking richness)
-- 1 teaspoon salt (added LATE - see notes)
+- 1 teaspoon salt (added LATE, see notes)
 - Optional: 1 epazote sprig (the Mexican herb specifically grown for beans; available at Mexican grocers; reduces gas from beans and adds a uniquely Mexican herbal note)
 
 ### Method (stovetop)
 
-1. **Sort the beans** - spread on a tray; pick out any stones or shrivelled beans.
+1. **Sort the beans**: spread on a tray; pick out any stones or shrivelled beans.
 2. **Rinse** under cold water in a sieve.
-3. **Soak (optional but recommended)** - submerge in cold water by 5 cm; soak 8 hours or overnight. Cuts cooking time from 90 to 60 minutes; helps with digestibility.
+3. **Soak (optional but recommended)**: submerge in cold water by 5 cm; soak 8 hours or overnight. Cuts cooking time from 90 to 60 minutes; helps with digestibility.
 4. **Drain** the soaked beans.
 5. **Bring to a boil** with fresh water (1.5 litres), the halved onion, smashed garlic, bay leaf, and oil/bacon. Don't add salt yet.
 6. **Reduce heat** to low; cover with the lid slightly ajar.
 7. **Simmer gently for 60-90 minutes**, until the beans are creamy-tender (they should crush easily between your fingers).
 8. **Add salt** in the last 20 minutes of cooking. (Salting earlier toughens the bean skins.)
-9. **Test for doneness** - the beans should be soft, creamy, slightly broken open, with the cooking liquid thickened.
+9. **Test for doneness**: the beans should be soft, creamy, slightly broken open, with the cooking liquid thickened.
 10. **Remove the onion, garlic, and bay leaf** before serving.
 
 ### Method (pressure cooker)
@@ -59,7 +59,7 @@ Re-fried beans aren't fried twice. The "re-" in "refritos" means "well-fried" or
 ### From cooked beans
 1. In a heavy frying pan, heat 2 tablespoons of lard or vegetable oil over medium-low heat.
 2. Add 500 g of cooked beans (drained but with some of their cooking liquid).
-3. Mash gently with a potato masher as they fry - you want a chunky paste, not perfectly smooth.
+3. Mash gently with a potato masher as they fry, you want a chunky paste, not perfectly smooth.
 4. Fry for 10-15 minutes, stirring often, until the beans deepen in colour, develop a thicker consistency, and start to peel off the bottom of the pan.
 5. Add 100-150 ml of the cooking liquid (or stock) gradually if the beans get too dry.
 6. Taste; adjust salt.
@@ -126,15 +126,15 @@ A northern Mexican variant. Beans cooked with bacon + sausage + tomato + chilli 
 7. Stir in fresh coriander before serving.
 
 ### Use
-Charro beans are a side dish at carne asada or grilled-meat dinners - Northern Mexico's standard.
+Charro beans are a side dish at carne asada or grilled-meat dinners, Northern Mexico's standard.
 
 ## Common bean mistakes
 
-- **Salting too early** - toughens the bean skins. Add salt only in the last 20 minutes.
-- **Boiling too aggressively** - breaks the beans open and turns them mushy. Low-and-slow.
-- **Not soaking** - beans take 30-50% longer and digest worse. Always soak when you have time.
-- **Discarding the soaking water** - the soaking water is fine to cook in (some old advice says to discard, but modern research suggests just rinsing the soaked beans before cooking is enough).
-- **Using old beans** - beans older than a year take much longer to cook. Buy fresh-ish (look at packing date).
+- **Salting too early**: toughens the bean skins. Add salt only in the last 20 minutes.
+- **Boiling too aggressively**: breaks the beans open and turns them mushy. Low-and-slow.
+- **Not soaking**: beans take 30-50% longer and digest worse. Always soak when you have time.
+- **Discarding the soaking water**: the soaking water is fine to cook in (some old advice says to discard, but modern research suggests just rinsing the soaked beans before cooking is enough).
+- **Using old beans**: beans older than a year take much longer to cook. Buy fresh-ish (look at packing date).
 
 ## Storage
 
@@ -151,7 +151,7 @@ A working Mexican kitchen has:
 - 2-3 tins of cooked beans (for emergencies).
 - Always: a tub of cooked beans in the fridge OR a portion in the freezer.
 
-The first time you cook a pot of beans takes an hour. Once you do it weekly, the rhythm settles in - Sunday makes a pot of beans for the week.
+The first time you cook a pot of beans takes an hour. Once you do it weekly, the rhythm settles in, Sunday makes a pot of beans for the week.
 
 ## Why fresh beans matter
 
@@ -161,6 +161,6 @@ A tin of black beans and a pot of from-scratch black beans share a name but are 
 - Come in their own broth (which is delicious and useful for other dishes).
 - Cost half as much per gram.
 
-The whole pot - 500 g dried beans → about 1.5 kg cooked beans → 12-15 portions - costs £2 (£4 with bacon and aromatic). The equivalent in tins is £6-8.
+The whole pot - 500 g dried beans → about 1.5 kg cooked beans → 12-15 portions, costs £2 (£4 with bacon and aromatic). The equivalent in tins is £6-8.
 
 Cooking beans from scratch is the most important "fundamental" of Mexican cooking. Get this right and the rest follows.

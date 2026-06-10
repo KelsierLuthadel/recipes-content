@@ -82,7 +82,7 @@ The Azerbaijani take on the pan-Caucasus pastry that goes by half a dozen names 
 1. Stir in the lemon juice; remove from heat.
 
 ### Stage 7 - Pour and rest
-1. While the pakhlava is still hot, slowly pour the warm syrup evenly over the entire surface - about ½ small ladle per diamond.
+1. While the pakhlava is still hot, slowly pour the warm syrup evenly over the entire surface, about ½ small ladle per diamond.
 1. The syrup will hiss, foam briefly and absorb.
 1. Cool fully in the tin.
 1. Rest overnight at room temperature, uncovered.
@@ -101,4 +101,4 @@ The Azerbaijani take on the pan-Caucasus pastry that goes by half a dozen names 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature.
 - Freezes 3 months pre-cut, separated by parchment; thaw at room temperature 2 hours.
-- Don't refrigerate - moisture turns the layers soggy.
+- Don't refrigerate, moisture turns the layers soggy.

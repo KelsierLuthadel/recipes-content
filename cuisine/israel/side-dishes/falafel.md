@@ -15,7 +15,7 @@ Falafel is the Levantine deep-fried chickpea-and-herb croquette, the snack stall
 
 ## Ingredients
 
-- 400 g dried chickpeas (soaked 12 hours, drained - DO NOT use tinned or cooked chickpeas)
+- 400 g dried chickpeas (soaked 12 hours, drained, DO NOT use tinned or cooked chickpeas)
 - 1 onion (medium, chopped)
 - 6 garlic cloves
 - 1 large bunch fresh parsley (50 g, stems and leaves)
@@ -45,7 +45,7 @@ Falafel is the Levantine deep-fried chickpea-and-herb croquette, the snack stall
 
 ### Stage 1 - Blitz
 1. Place drained raw chickpeas, onion, garlic, parsley, coriander, ground coriander, cumin, pepper, salt and chilli in a food processor.
-1. Blitz to a coarse green paste - should hold a shape when squeezed but still grainy and recognisable.
+1. Blitz to a coarse green paste, should hold a shape when squeezed but still grainy and recognisable.
 
 ### Stage 2 - Rest
 1. Tip into a bowl; cover; refrigerate 1 hour. The mixture firms up and the flavours combine.
@@ -63,7 +63,7 @@ Falafel is the Levantine deep-fried chickpea-and-herb croquette, the snack stall
 1. Drain on a rack.
 
 ### Stage 6 - Serve
-1. Eat hot - stuff into pita with hummus, tahina sauce, salata, pickles, and a drizzle of zhug.
+1. Eat hot, stuff into pita with hummus, tahina sauce, salata, pickles, and a drizzle of zhug.
 
 ## Notes
 - **Raw soaked chickpeas only:** Cooked chickpeas give dense, mushy falafel that falls apart in the fryer. The raw-soaked technique is non-negotiable.

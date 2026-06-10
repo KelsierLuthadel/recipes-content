@@ -19,7 +19,7 @@ Hyderabadi mutton biryani is the most distinctive biryani in India, the one that
 - 1.2 kg bone-in mutton (or lamb, shoulder or neck, cut into 4 cm chunks)
 - 400 g full-fat Greek yogurt
 - 4 tablespoons ginger-garlic paste
-- 200 g birista (deep-fried onions - see Notes)
+- 200 g birista (deep-fried onions, see Notes)
 - 2 tablespoons [Garam Masala](Spice-Mixes/garam-masala.md)
 - 1 tablespoon ground turmeric
 - 1 tablespoon Kashmiri chilli powder (or 1 tsp regular chilli + 2 tsp paprika)
@@ -49,7 +49,7 @@ Hyderabadi mutton biryani is the most distinctive biryani in India, the one that
 
 ### Seal
 - 300 g plain flour 
-- 150 ml water (for dough seal - or use 2 layers of foil)
+- 150 ml water (for dough seal, or use 2 layers of foil)
 
 ## Method
 
@@ -60,7 +60,7 @@ Hyderabadi mutton biryani is the most distinctive biryani in India, the one that
 ### Stage 2 - Par-cook the rice
 1. Bring the 2 litres of water to a hard boil with the salt and all the whole spices.
 1. Add the drained rice.
-1. Boil 4 minutes only - the rice should be 70% done (a grain crushed between the fingers should still have a chalky centre).
+1. Boil 4 minutes only, the rice should be 70% done (a grain crushed between the fingers should still have a chalky centre).
 1. Drain immediately into a colander.
 
 ### Stage 3 - Layer
@@ -85,8 +85,8 @@ Hyderabadi mutton biryani is the most distinctive biryani in India, the one that
 1. Serve with mirchi ka salan (peanut and chilli curry), raita and lime wedges.
 
 ## Notes
-- **Birista (fried onion):** Critical. Thinly slice 2 large onions; deep-fry slowly in oil 12-15 minutes until deep crisp and brown (not burnt). Drain on kitchen paper - they crisp on cooling. Cannot substitute; can buy ready-made at Indian shops.
-- **Raw meat in raw rice:** The defining technique. The meat tenderises in the steam from the par-cooked rice. Boneless mutton cooks faster - reduce dum to 45 minutes.
+- **Birista (fried onion):** Critical. Thinly slice 2 large onions; deep-fry slowly in oil 12-15 minutes until deep crisp and brown (not burnt). Drain on kitchen paper, they crisp on cooling. Cannot substitute; can buy ready-made at Indian shops.
+- **Raw meat in raw rice:** The defining technique. The meat tenderises in the steam from the par-cooked rice. Boneless mutton cooks faster, reduce dum to 45 minutes.
 - **Sealing matters:** No steam escapes. A poorly sealed pot gives undercooked rice and chewy meat.
 
 ## Storage

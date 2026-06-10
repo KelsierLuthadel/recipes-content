@@ -44,7 +44,7 @@ Nan e barbari is the long ridged loaf you queue for at the corner bakery in any 
 ### Stage 2 - Roomal glaze
 1. While the dough rises, in a small saucepan whisk flour with 250 ml cold water until smooth.
 1. Add baking soda and sugar.
-1. Bring to a simmer over medium heat, whisking constantly - the mixture thickens to a thin runny paste over about 3 minutes.
+1. Bring to a simmer over medium heat, whisking constantly, the mixture thickens to a thin runny paste over about 3 minutes.
 1. Off heat; cool to lukewarm.
 1. (If it gets too thick on standing, whisk in a tablespoon of water.)
 
@@ -52,7 +52,7 @@ Nan e barbari is the long ridged loaf you queue for at the corner bakery in any 
 1. Knock back the dough; divide into 2 equal pieces.
 1. Roll each piece into a ball.
 1. Cover; rest 10 minutes.
-1. On a lightly floured surface, shape each ball into a long oval, about 35 cm x 15 cm, by stretching and patting (NOT rolling - barbari should have some air retained).
+1. On a lightly floured surface, shape each ball into a long oval, about 35 cm x 15 cm, by stretching and patting (NOT rolling, barbari should have some air retained).
 
 ### Stage 4 - Proof
 1. Place each shaped loaf on a piece of baking paper.
@@ -65,7 +65,7 @@ Nan e barbari is the long ridged loaf you queue for at the corner bakery in any 
 ### Stage 6 - Glaze and ridge
 1. Working with one loaf at a time on the paper:
    - Brush the entire top surface generously with the lukewarm roomal glaze.
-   - With fingertips (oiled if sticky), press 4-5 deep parallel ridges running lengthwise along the loaf - really push down to leave clear grooves about 1 cm deep.
+   - With fingertips (oiled if sticky), press 4-5 deep parallel ridges running lengthwise along the loaf, really push down to leave clear grooves about 1 cm deep.
    - Sprinkle generously with sesame seeds and nigella seeds.
 
 ### Stage 7 - Bake

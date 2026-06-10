@@ -43,7 +43,7 @@ Mongolia's everyday fried dough: slightly sweet biscuits that turn up dipped in 
 ### Stage 2 - Roll and shape
 1. On a lightly floured surface, roll the dough to a 6-7 mm thick rectangle.
 1. Cut into pieces. Several traditional shapes:
-   - **Rectangles** (3 x 6 cm) - easiest.
+   - **Rectangles** (3 x 6 cm): easiest.
    - **Twists**: cut a long strip; make a slit lengthwise in the middle; pull one end through the slit to form a twist.
    - **Discs**: roll into balls, flatten, score the top with a fork.
 1. Lay finished pieces on a tray; rest 10 minutes (gives a slightly puffier result).
@@ -67,7 +67,7 @@ Mongolia's everyday fried dough: slightly sweet biscuits that turn up dipped in 
 ## Notes
 - **Don't overwork the dough:** Boortsog should be tender, not chewy. Knead just until smooth, then leave it alone.
 - **Frying temperature:** Hotter than 175°C burns the outside before the inside cooks; cooler than 160°C means oily, dense biscuits. Use a thermometer if you have one.
-- **Festival stacking:** For Tsagaan Sar, boortsog stack like a tiered cake - sometimes called "ul boov" - symbolising prosperity. Domestic versions are eaten more casually, dipped into milk tea.
+- **Festival stacking:** For Tsagaan Sar, boortsog stack like a tiered cake, sometimes called "ul boov", symbolising prosperity. Domestic versions are eaten more casually, dipped into milk tea.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature; eats well stale (dunked in tea).

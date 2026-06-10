@@ -64,4 +64,4 @@ A heartier descendant of Southern fried cabbage and its more substantial sibling
 
 ## Storage
 - Keeps 3-4 days refrigerated; reheats on the stovetop over medium-low heat or in the microwave.
-- Don't freeze - the cabbage and bacon textures both suffer.
+- Don't freeze, the cabbage and bacon textures both suffer.

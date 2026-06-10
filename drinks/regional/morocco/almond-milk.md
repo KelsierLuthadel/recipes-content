@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Moroccan almond milk (chorba lozt, or simply lait d'amandes in the French-Moroccan kitchen) is a far more ceremonial drink than the commercial supermarket almond milks of the modern food world. The Moroccan version is properly thick, sweetened generously and perfumed with orange blossom water (ma zhar), which is the signature scent of Moroccan sweet kitchens and the local definition of "summery". A pinch of cinnamon brings warmth; some households add a few drops of rose water for extra floral lift. Served deeply chilled in tall glasses, sometimes with a few crushed pistachios floating on top, it's the special-occasion drink at weddings, religious feasts and warm afternoons when mint tea would feel too brisk. The technique is straightforward - soak, blend, strain through cloth, sweeten - but the finish with orange blossom water is what makes it distinctly Moroccan rather than the generic almond milk you'd find anywhere else.
+Moroccan almond milk (chorba lozt, or simply lait d'amandes in the French-Moroccan kitchen) is a far more ceremonial drink than the commercial supermarket almond milks of the modern food world. The Moroccan version is properly thick, sweetened generously and perfumed with orange blossom water (ma zhar), which is the signature scent of Moroccan sweet kitchens and the local definition of "summery". A pinch of cinnamon brings warmth; some households add a few drops of rose water for extra floral lift. Served deeply chilled in tall glasses, sometimes with a few crushed pistachios floating on top, it's the special-occasion drink at weddings, religious feasts and warm afternoons when mint tea would feel too brisk. The technique is straightforward, soak, blend, strain through cloth, sweeten, but the finish with orange blossom water is what makes it distinctly Moroccan rather than the generic almond milk you'd find anywhere else.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Moroccan almond milk (chorba lozt, or simply lait d'amandes in the French-Morocc
 
 ### Stage 3 - Strain through cloth
 1. Set a fine sieve over a large jug. Line it with a clean muslin cloth (or use a nut milk bag).
-1. Pour the blended liquid through, then gather the cloth and squeeze hard to extract every drop. This step matters - under-strained almond milk is gritty. The pulp left behind can be dried for use in baking.
+1. Pour the blended liquid through, then gather the cloth and squeeze hard to extract every drop. This step matters, under-strained almond milk is gritty. The pulp left behind can be dried for use in baking.
 
 ### Stage 4 - Sweeten and perfume
 1. Stir in 100 g of sugar and the salt until completely dissolved.

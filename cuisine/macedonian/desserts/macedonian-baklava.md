@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Baklava appears across Macedonia, Greece, Turkey, Bosnia and Albania - each country claims subtle variations. The Macedonian version uses walnuts (rather than the pistachio-heavy Turkish version), cinnamon-spiced filling, and a syrup with lemon and a touch of honey. The construction: 18-20 sheets of phyllo pastry are layered with melted butter; a filling of finely chopped walnuts mixed with caster sugar and cinnamon is layered between every 5-6 phyllo sheets; the whole thing is scored into diamond pieces before baking; baked till deeply golden; immediately drenched in cool lemon-and-honey syrup.
+Baklava appears across Macedonia, Greece, Turkey, Bosnia and Albania, each country claims subtle variations. The Macedonian version uses walnuts (rather than the pistachio-heavy Turkish version), cinnamon-spiced filling, and a syrup with lemon and a touch of honey. The construction: 18-20 sheets of phyllo pastry are layered with melted butter; a filling of finely chopped walnuts mixed with caster sugar and cinnamon is layered between every 5-6 phyllo sheets; the whole thing is scored into diamond pieces before baking; baked till deeply golden; immediately drenched in cool lemon-and-honey syrup.
 
 ## Ingredients
 

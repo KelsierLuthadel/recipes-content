@@ -45,7 +45,7 @@ Mahshi koromb is the cabbage-roll dish that anchors Egyptian Friday lunches acro
 - 1 litre hot water (or beef stock)
 
 ### Base
-- 2 tomatoes (medium, sliced - line the pot)
+- 2 tomatoes (medium, sliced, line the pot)
 
 ## Method
 
@@ -72,7 +72,7 @@ Mahshi koromb is the cabbage-roll dish that anchors Egyptian Friday lunches acro
 
 ### Stage 5 - Cooking liquid
 1. Whisk the garlic, tomato puree, olive oil, salt, lemon juice with the hot water.
-1. Pour over the rolls - should come almost to the top of the rolls but not flooding.
+1. Pour over the rolls, should come almost to the top of the rolls but not flooding.
 
 ### Stage 6 - Weight and cook
 1. Place a heatproof plate directly on top of the rolls to weight them down (stops them unravelling).

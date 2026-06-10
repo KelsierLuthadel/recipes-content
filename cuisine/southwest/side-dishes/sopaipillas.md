@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Sopaipillas (or "sopaipas") are New Mexico's iconic puffed fried bread, distinct from the related Argentine sopaipillas (which use pumpkin in the dough) and the Mexican sopaipas (smaller and often sweeter): a yeasted flour dough (sometimes with a touch of lard or oil) rolled to 5 mm thickness, cut into small squares or triangles, and deep-fried briefly till they puff dramatically into hollow golden pillows. Served warm - at New Mexican restaurants they arrive at the table fresh from the fryer with honey in a small pitcher (the traditional sweet way; tear a corner and pour honey inside). Or served alongside savoury Southwestern meals to mop up green chile stew, carne adovada or red chile sauce. The dish is what every New Mexican kid grows up eating; what every New Mexico restaurant table starts with; what defines Southwest bread.
+Sopaipillas (or "sopaipas") are New Mexico's iconic puffed fried bread, distinct from the related Argentine sopaipillas (which use pumpkin in the dough) and the Mexican sopaipas (smaller and often sweeter): a yeasted flour dough (sometimes with a touch of lard or oil) rolled to 5 mm thickness, cut into small squares or triangles, and deep-fried briefly till they puff dramatically into hollow golden pillows. Served warm, at New Mexican restaurants they arrive at the table fresh from the fryer with honey in a small pitcher (the traditional sweet way; tear a corner and pour honey inside). Or served alongside savoury Southwestern meals to mop up green chile stew, carne adovada or red chile sauce. The dish is what every New Mexican kid grows up eating; what every New Mexico restaurant table starts with; what defines Southwest bread.
 
 ## Ingredients
 

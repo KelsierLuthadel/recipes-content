@@ -15,15 +15,15 @@ Tunisia's one-pan supper, the dish that turns up on every weeknight table from T
 
 ## Ingredients
 
-- 400 g merguez sausages (Tunisian-style lamb merguez, ideally - sold at North African shops and many supermarkets)
-- 2 tablespoons olive oil (if needed - depends how fatty the sausages are)
+- 400 g merguez sausages (Tunisian-style lamb merguez, ideally, sold at North African shops and many supermarkets)
+- 2 tablespoons olive oil (if needed, depends how fatty the sausages are)
 - 1 onion (large, sliced)
 - 1 red bell pepper (sliced thin)
 - 4 garlic cloves (sliced)
 - 1 teaspoon caraway seeds
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
-- 1-2 tablespoons [Harissa](../../base-ingredients/sauces/harissa.md) (to taste - Tunisian harissa is fiery)
+- 1-2 tablespoons [Harissa](../../base-ingredients/sauces/harissa.md) (to taste, Tunisian harissa is fiery)
 - 1 teaspoon sweet paprika
 - 800 g tins chopped tomatoes (or 800 g passata)
 - 1 teaspoon caster sugar
@@ -41,7 +41,7 @@ Tunisia's one-pan supper, the dish that turns up on every weeknight table from T
 
 ### Stage 1 - Brown the merguez
 1. Heat a wide deep heavy pan or a wide tagine over medium-high.
-1. Add the merguez whole (no oil - they release plenty).
+1. Add the merguez whole (no oil, they release plenty).
 1. Brown 6 minutes, turning, until the casings are crisp at the edges and the sausages are 80% cooked through.
 1. Lift onto a plate; cut into 3 cm pieces. Reserve.
 
@@ -50,7 +50,7 @@ Tunisia's one-pan supper, the dish that turns up on every weeknight table from T
 1. Reduce heat to medium; add onion and red pepper.
 1. Cook 7 minutes until soft.
 1. Add garlic; cook 1 minute.
-1. Stir in caraway, cumin, coriander, harissa and paprika; cook 30 seconds - the kitchen will smell strongly fragrant.
+1. Stir in caraway, cumin, coriander, harissa and paprika; cook 30 seconds, the kitchen will smell strongly fragrant.
 
 ### Stage 3 - Tomatoes
 1. Tip in the tinned tomatoes (and the sugar to balance acidity).
@@ -68,7 +68,7 @@ Tunisia's one-pan supper, the dish that turns up on every weeknight table from T
 1. Sprinkle a tiny pinch of salt on each yolk.
 1. Cover with a lid (or foil).
 1. Reduce heat to low.
-1. Cook 4-5 minutes - the whites set; the yolks stay runny.
+1. Cook 4-5 minutes, the whites set; the yolks stay runny.
 
 ### Stage 6 - Serve
 1. Scatter parsley.
@@ -77,7 +77,7 @@ Tunisia's one-pan supper, the dish that turns up on every weeknight table from T
 
 ## Notes
 - **Real merguez:** Tunisian or Algerian merguez has a fierce harissa-and-paprika-and-cumin colour and flavour. French-supermarket merguez can be milder; if so, double the harissa in the sauce.
-- **Caraway is the giveaway:** Caraway seeds are the difference between Tunisian ojja and Moroccan-style shakshouka. Don't substitute fennel or anise - the flavour profile shifts wrong.
+- **Caraway is the giveaway:** Caraway seeds are the difference between Tunisian ojja and Moroccan-style shakshouka. Don't substitute fennel or anise, the flavour profile shifts wrong.
 - **Don't overcook the eggs:** Soft yolks are the dish. Pull off the heat when the whites are just set; carryover heat will finish them.
 
 ## Storage

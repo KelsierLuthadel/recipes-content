@@ -55,7 +55,7 @@ Zaalouk is Morocco's smoky-aubergine-and-tomato salad, a fixture in every mezze 
 ## Notes
 - **Char for the smoke:** The flame-cooked aubergine is the soul of zaalouk. Oven-roasting works but tastes plainer.
 - **Texture:** Should be coarse, not smooth. Mash with a spoon; never blend.
-- **Olive oil:** Be generous - Moroccan zaalouk is properly oily, almost glossy on the plate. The oil is the carrier for everything.
+- **Olive oil:** Be generous, Moroccan zaalouk is properly oily, almost glossy on the plate. The oil is the carrier for everything.
 
 ## Storage
 - Keeps 5 days refrigerated; flavour deepens. Eat at room temperature; cold mutes the spices.

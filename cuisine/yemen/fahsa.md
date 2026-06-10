@@ -31,7 +31,7 @@ Fahsa is the close cousin to saltah, a thick deeply-spiced lamb stew traditional
 - 200 ml hot water (extra, for the sauce)
 
 ### To finish
-- 1 batch hulba (whipped fenugreek - see Saltah recipe)
+- 1 batch hulba (whipped fenugreek, see Saltah recipe)
 - 4 tablespoons [Sahawiq](side-dishes/sahawiq.md)
 - Lahoh (or flatbread)
 
@@ -53,7 +53,7 @@ Fahsa is the close cousin to saltah, a thick deeply-spiced lamb stew traditional
 
 ### Stage 3 - Combine
 1. Pour in 200 ml of the reserved broth and the extra hot water; add bay; bring to a simmer.
-1. Add the shredded lamb; cook 15 minutes on a low simmer to combine - the sauce should be thick and clinging.
+1. Add the shredded lamb; cook 15 minutes on a low simmer to combine, the sauce should be thick and clinging.
 1. Add more broth if needed to keep it stew-like.
 1. Taste; adjust salt.
 
@@ -73,4 +73,4 @@ Fahsa is the close cousin to saltah, a thick deeply-spiced lamb stew traditional
 
 ## Storage
 - Refrigerate 3 days. Reheat covered with a splash of water.
-- Hulba doesn't keep - make fresh each time.
+- Hulba doesn't keep, make fresh each time.

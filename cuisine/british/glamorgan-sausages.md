@@ -2,7 +2,7 @@
 
 ![Glamorgan Sausages](resources/glamorgan-sausages.jpg)
 
-*Welsh leek-and-cheese sausages, breadcrumb-coated and fried until crisp. The "sausage" is a misnomer - there's no meat, no skin, just a tightly bound mixture of caerphilly, leeks and sage rolled and shallow-fried. A 19th-century Glamorgan classic.*
+*Welsh leek-and-cheese sausages, breadcrumb-coated and fried until crisp. The "sausage" is a misnomer, there's no meat, no skin, just a tightly bound mixture of caerphilly, leeks and sage rolled and shallow-fried. A 19th-century Glamorgan classic.*
 
 **Makes:** 8 sausages
 
@@ -34,7 +34,7 @@ The Welsh vegetarian sausage, named after the south Wales county of Glamorgan an
 1. Melt the butter in a pan over medium-low heat; cook the leeks 8-10 minutes until soft and silky but not coloured. Cool fully.
 
 ### Stage 2 - Mix
-1. Combine the cooled leeks, cheese, 200 g of the breadcrumbs, sage, thyme, mustard, 1 egg, salt and plenty of black pepper. Mix until cohesive - should hold its shape when pressed.
+1. Combine the cooled leeks, cheese, 200 g of the breadcrumbs, sage, thyme, mustard, 1 egg, salt and plenty of black pepper. Mix until cohesive, should hold its shape when pressed.
 1. Cover and chill 30 minutes (firms the mix; makes shaping easier).
 
 ### Stage 3 - Shape and coat

@@ -79,7 +79,7 @@ Camarones enchilados is Cuba's most beloved shrimp dish and a coastal-Cuban spec
 2. Stir to coat thoroughly.
 3. Add the chopped chilli if using.
 4. Cover with the lid; cook 3-4 minutes till the shrimp turn pink and curl.
-5. Don't overcook; check by lifting one shrimp - when it's pink throughout and the flesh is just opaque, it's done.
+5. Don't overcook; check by lifting one shrimp, when it's pink throughout and the flesh is just opaque, it's done.
 
 ### Stage 4 - Finish
 1. Take off the heat.

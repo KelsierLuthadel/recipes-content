@@ -16,7 +16,7 @@ The Scottish macaroon bar is one of the country's strangest and most beloved con
 ## Ingredients
 
 ### Macaroon fondant
-- 80 g floury potato (peeled and quartered; one small spud - about half a regular-sized potato)
+- 80 g floury potato (peeled and quartered; one small spud, about half a regular-sized potato)
 - 800-900 g icing sugar (sifted; you may need slightly more or less depending on potato moisture)
 - 1 teaspoon vanilla extract
 - A pinch of fine sea salt
@@ -74,11 +74,11 @@ The Scottish macaroon bar is one of the country's strangest and most beloved con
 1. Place the chocolate in a microwave-safe bowl.
 2. Microwave on medium-low (50% power) in 30-second bursts, stirring between, till fully melted and smooth.
 3. Or melt in a bain-marie (bowl over a pan of barely simmering water).
-4. Don't overheat - chocolate should be smooth, glossy, around 45°C.
+4. Don't overheat, chocolate should be smooth, glossy, around 45°C.
 
 ### Stage 7 - Coat the bars
 1. Set up a station: cooled toasted coconut on one plate, parchment-lined tray on another.
-2. With a fork or skewer, dip each fondant bar in the melted chocolate (cover completely or just the top - your choice).
+2. With a fork or skewer, dip each fondant bar in the melted chocolate (cover completely or just the top, your choice).
 3. Lift out; let excess chocolate drip off.
 4. Immediately roll in the toasted coconut.
 5. Place on the parchment-lined tray.
@@ -96,17 +96,17 @@ The Scottish macaroon bar is one of the country's strangest and most beloved con
 - **Plain boiled potato:** no salt in the water, no butter, no milk. The potato is just a moisture-and-bulk ingredient; flavour should be neutral.
 - **Add icing sugar gradually:** you may need slightly more or less depending on potato moisture. The fondant should be very stiff.
 - **Toasted coconut is essential:** untoasted desiccated coconut is bland and pale. Toast till golden.
-- **Dark chocolate (70%):** milk chocolate is too sweet - the fondant is already pure sugar.
+- **Dark chocolate (70%):** milk chocolate is too sweet, the fondant is already pure sugar.
 - **The potato is undetectable:** if you're worried about your guests detecting potato, don't be. Once mixed with that much icing sugar, the potato disappears entirely.
 
 ## Variations
 **Without potato (modern shortcut):** swap the potato for 2-3 tablespoons of water + 1 tablespoon of glucose syrup; the texture is slightly different but the dish works.
-**With cocoa fondant:** add 30 g cocoa powder to the fondant mixture - chocolate macaroon bars.
-**With lemon:** add the zest of 2 lemons + 1 teaspoon lemon juice to the fondant - bright, modern variant.
-**With raspberry:** add 1 tablespoon freeze-dried raspberry powder to the fondant - pink-flecked version.
+**With cocoa fondant:** add 30 g cocoa powder to the fondant mixture, chocolate macaroon bars.
+**With lemon:** add the zest of 2 lemons + 1 teaspoon lemon juice to the fondant, bright, modern variant.
+**With raspberry:** add 1 tablespoon freeze-dried raspberry powder to the fondant, pink-flecked version.
 **Mini macaroon bites:** form into small balls instead of bars; coat and roll in coconut.
-**Half-dipped:** dip only one end in chocolate, then roll the chocolate-end in coconut - visually striking.
-**Triple-coated:** dip in chocolate, roll in coconut, allow to set, then drizzle with melted white chocolate - modern fancy version.
+**Half-dipped:** dip only one end in chocolate, then roll the chocolate-end in coconut, visually striking.
+**Triple-coated:** dip in chocolate, roll in coconut, allow to set, then drizzle with melted white chocolate, modern fancy version.
 
 ## Serving
 At Scottish school bake-sales (the traditional setting; arranged on doilies on a folding table) · at a Scottish church fete · at a Saint Andrew's Day market in Edinburgh · as a Scottish Christmas-stocking treat · in Lees of Scotland branded wrapping in any Scottish corner shop · at a Highland coffee morning with a cup of strong tea · at a Burns Night supper as a curiosity for the English guests.

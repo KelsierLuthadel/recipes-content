@@ -2,7 +2,7 @@
 
 ![Mayonesa Chilena](resources/mayonesa-chilena.jpg)
 
-*Chile's homemade mayonnaise: an emulsion of egg yolks, sunflower oil, lemon juice, salt and a touch of mustard, whisked or blitzed till thick and pale. The Chilean condiment that goes on practically everything - Chileans are famously the world's heaviest per-capita mayonnaise consumers.*
+*Chile's homemade mayonnaise: an emulsion of egg yolks, sunflower oil, lemon juice, salt and a touch of mustard, whisked or blitzed till thick and pale. The Chilean condiment that goes on practically everything, Chileans are famously the world's heaviest per-capita mayonnaise consumers.*
 
 **Serves:** Makes about 350 ml
 
@@ -23,9 +23,9 @@ Mayonesa chilena is Chile's pervasive homemade mayonnaise and one of the most be
 - 300 ml sunflower oil (or vegetable oil; or rapeseed oil)
 
 ### Optional flavourings (for variants)
-- 2 garlic cloves (crushed) - for aioli-style
-- 1 small bunch fresh herbs (parsley, dill, chives) - for green mayo
-- 1 teaspoon Aleppo pepper or merkén - for spicy mayo
+- 2 garlic cloves (crushed): for aioli-style
+- 1 small bunch fresh herbs (parsley, dill, chives): for green mayo
+- 1 teaspoon Aleppo pepper or merkén, for spicy mayo
 
 ## Method (Hand-whisked classic version)
 

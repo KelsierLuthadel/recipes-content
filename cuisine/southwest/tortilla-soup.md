@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima (the Mexican lime chicken soup): a richly spiced chicken broth with shredded chicken, blended tomatoes, onion, garlic, chipotle in adobo, cumin, chili powder, and Mexican oregano - finished at the table with crispy fried tortilla strips, sliced avocado, grated cheese, sour cream, fresh coriander and lime wedges. The dish is the traditional Southwestern restaurant soup and a comfort-food classic across Arizona, New Mexico and Texas.
+Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima (the Mexican lime chicken soup): a richly spiced chicken broth with shredded chicken, blended tomatoes, onion, garlic, chipotle in adobo, cumin, chili powder, and Mexican oregano, finished at the table with crispy fried tortilla strips, sliced avocado, grated cheese, sour cream, fresh coriander and lime wedges. The dish is the traditional Southwestern restaurant soup and a comfort-food classic across Arizona, New Mexico and Texas.
 
 ## Ingredients
 

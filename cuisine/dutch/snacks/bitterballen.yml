@@ -115,8 +115,8 @@ ingredients:
     unit: l
     name: sunflower or groundnut oil
     raw: 2 litres sunflower or groundnut oil
-  - name: grainy dutch mustard - a small ramekin per person
-    raw: Grainy Dutch mustard - a small ramekin per person
+  - name: "grainy dutch mustard : a small ramekin per person"
+    raw: "Grainy Dutch mustard : a small ramekin per person"
   - name: glass of cold heineken or amstel pilsner or a small glass of jenever
     raw: A glass of cold Heineken or Amstel pilsner OR a small glass of jenever
   - name: wooden serving board

@@ -43,9 +43,9 @@ Larb is the Isaan minced-meat salad from north-eastern Thailand, hot-fried pork 
 1. Cool. Grind to a coarse powder in a mortar or spice grinder.
 
 ### Stage 2 - Cook mince
-1. Heat a wide pan over high heat (no oil - mince renders its own fat).
+1. Heat a wide pan over high heat (no oil, mince renders its own fat).
 1. Add the mince; break up with a wooden spoon. Pour in 4 tablespoons stock.
-1. Cook 4-5 minutes, stirring, until just cooked through (no pink). Don't dry it out - it should be saucy.
+1. Cook 4-5 minutes, stirring, until just cooked through (no pink). Don't dry it out, it should be saucy.
 
 ### Stage 3 - Dress
 1. Off heat. Pour in fish sauce, lime juice, chilli flakes, sugar (if using).

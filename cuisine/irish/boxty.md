@@ -2,7 +2,7 @@
 
 ![Boxty](resources/boxty.jpg)
 
-*Irish potato pancakes built on a 50/50 mix of grated raw and mashed cooked potatoes - the raw gives a chewy, almost fritter-like body; the mash gives smoothness. Eats hot off the pan with butter, an egg, or rolled around a savoury filling.*
+*Irish potato pancakes built on a 50/50 mix of grated raw and mashed cooked potatoes, the raw gives a chewy, almost fritter-like body; the mash gives smoothness. Eats hot off the pan with butter, an egg, or rolled around a savoury filling.*
 
 **Makes:** 8 small pancakes
 
@@ -32,10 +32,10 @@ Boxty is the Irish potato pancake from the Northwest and the Midlands: half-grat
 
 ### Stage 2 - Grate the other half
 1. Coarsely grate the remaining peeled potatoes.
-1. Pile the grated potato into a clean tea towel; twist hard over the sink to wring out as much liquid as possible - you want the grated potato dry-ish.
+1. Pile the grated potato into a clean tea towel; twist hard over the sink to wring out as much liquid as possible, you want the grated potato dry-ish.
 
 ### Stage 3 - Mix
-1. Combine the mash, grated potato, flour, baking powder, egg, milk, salt and black pepper in a bowl. Stir to a thick, lumpy batter - should hold its shape on a spoon.
+1. Combine the mash, grated potato, flour, baking powder, egg, milk, salt and black pepper in a bowl. Stir to a thick, lumpy batter, should hold its shape on a spoon.
 1. Rest 10 minutes (lets the flour hydrate).
 
 ### Stage 4 - Fry

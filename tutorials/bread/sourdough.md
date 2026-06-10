@@ -68,15 +68,15 @@ A basic sourdough loaf:
 
 The schedule:
 
-**Hour 0 - Mix (5 minutes).** Combine flour and water in a bowl. Mix briefly, no kneading. Cover. Rest 1 hour. This is the autolyse.
+**Hour 0, Mix (5 minutes).** Combine flour and water in a bowl. Mix briefly, no kneading. Cover. Rest 1 hour. This is the autolyse.
 
-**Hour 1 - Add levain and salt (5 minutes).** Pour the levain over the dough, sprinkle the salt, work them in with wet hands. The dough comes together quickly.
+**Hour 1, Add levain and salt (5 minutes).** Pour the levain over the dough, sprinkle the salt, work them in with wet hands. The dough comes together quickly.
 
-**Hour 1-5 - Bulk ferment with folds.** Leave the dough covered at room temperature. Every 30 minutes for the first 2 hours, do one round of stretch-and-fold in the bowl (see [Hydration](hydration.md)). After the first 2 hours, leave it alone. Bulk is done at hour 4-5 (or when the dough has visibly risen 50-75%).
+**Hour 1-5, Bulk ferment with folds.** Leave the dough covered at room temperature. Every 30 minutes for the first 2 hours, do one round of stretch-and-fold in the bowl (see [Hydration](hydration.md)). After the first 2 hours, leave it alone. Bulk is done at hour 4-5 (or when the dough has visibly risen 50-75%).
 
-**Hour 5 - Shape (5 minutes).** Turn dough onto a lightly floured bench. Pre-shape into a loose round, rest 30 minutes uncovered. Final-shape into a tighter ball or oval, place seam-side up in a floured banneton.
+**Hour 5, Shape (5 minutes).** Turn dough onto a lightly floured bench. Pre-shape into a loose round, rest 30 minutes uncovered. Final-shape into a tighter ball or oval, place seam-side up in a floured banneton.
 
-**Hour 5.5 - Cold prove (12-18 hours).** Cover the banneton with cling film, refrigerate overnight. The cold prove is what develops the deep sourdough flavour.
+**Hour 5.5, Cold prove (12-18 hours).** Cover the banneton with cling film, refrigerate overnight. The cold prove is what develops the deep sourdough flavour.
 
 **Hour 18+ - Bake.** See the Bake section below.
 

@@ -5,9 +5,9 @@
 *Chocolate plus cream, plus the right ratio for the right job. A 2:1 chocolate-to-cream is a truffle filling; a 1:1 is a pourable glaze; a 1:2 is a sauce. The technique is the same; the ratio decides everything.*
 
 ## Overview
-Ganache is an emulsion - the cocoa butter and the cream's milk fat held in stable suspension with the cocoa solids and sugar. It is the most useful application of chocolate in patisserie: it makes truffle centres, cake fillings, frostings, glazes, whipped cream alternatives, sauces and a dozen other things. The recipe is two ingredients; the technique is in the temperature and the stirring.
+Ganache is an emulsion, the cocoa butter and the cream's milk fat held in stable suspension with the cocoa solids and sugar. It is the most useful application of chocolate in patisserie: it makes truffle centres, cake fillings, frostings, glazes, whipped cream alternatives, sauces and a dozen other things. The recipe is two ingredients; the technique is in the temperature and the stirring.
 
-This lesson covers the standard ratios, the method that produces a glossy, stable ganache rather than a broken or grainy one, and the variations - whipped ganache, infused ganache, butter-finished ganache - that expand the technique into more advanced patisserie.
+This lesson covers the standard ratios, the method that produces a glossy, stable ganache rather than a broken or grainy one, and the variations, whipped ganache, infused ganache, butter-finished ganache, that expand the technique into more advanced patisserie.
 
 ## The Basic Ratios
 
@@ -30,7 +30,7 @@ The reliable way to make ganache, regardless of ratio:
 2. **Heat the cream** to a simmer (90 C, just below boiling) in a small saucepan. Do not boil hard.
 3. **Pour the hot cream over the chocolate.** Let it stand untouched for 60 seconds. The heat of the cream begins to melt the chocolate from the surface in.
 4. **Stir gently from the centre outwards.** Use a small whisk or a silicone spatula. Start in a small circle in the centre; the chocolate emulsifies first there, forming a glossy core. Gradually widen the circle, pulling in more chocolate as you go.
-5. **Continue until uniform.** The ganache should be completely smooth, glossy and homogenous. Initially it may look "broken" (greasy or grainy); keep stirring - it usually comes together. If it does not, see "Recovery" below.
+5. **Continue until uniform.** The ganache should be completely smooth, glossy and homogenous. Initially it may look "broken" (greasy or grainy); keep stirring, it usually comes together. If it does not, see "Recovery" below.
 6. **Add butter (optional).** Some recipes whisk in cold cubes of unsalted butter at the end. The butter adds shine, mouthfeel and a slightly softer final texture. 20-50 g butter per 200 g chocolate is typical.
 
 ## Recovery From a Broken Ganache
@@ -47,7 +47,7 @@ A broken ganache (greasy, grainy, oil separating from the chocolate) means the e
 
 ### Whipped Ganache
 
-A 1:1 dark chocolate ganache chilled overnight, then whipped to soft peaks with an electric mixer, becomes a chocolate frosting with a mousse-like texture. Use immediately - it sets firmer as it sits.
+A 1:1 dark chocolate ganache chilled overnight, then whipped to soft peaks with an electric mixer, becomes a chocolate frosting with a mousse-like texture. Use immediately, it sets firmer as it sits.
 
 For a chocolate buttercream alternative: combine 200 g dark chocolate, 200 g cream, 50 g butter; chill 4-6 hours; whip. Pipes beautifully on cakes.
 
@@ -60,10 +60,10 @@ Classic infusions:
 - **Cardamom** - 4-5 crushed green pods per 200 g cream. Steep 15 minutes.
 - **Lavender** - 1 tsp dried flowers per 200 g cream. Steep 5 minutes (longer turns soapy).
 - **Ginger** - 30 g fresh ginger, grated. Steep 20 minutes.
-- **Mint** - large bunch of fresh mint, bruised. Steep 15 minutes.
+- **Mint**: large bunch of fresh mint, bruised. Steep 15 minutes.
 - **Espresso** - 2 tbsp coffee beans, crushed, per 200 g cream. Steep 10 minutes.
 - **Vanilla** - 1 split bean per 200 g cream. Steep 20 minutes, scrape seeds back in.
-- **Smoke** - cold-smoke the cream briefly before heating. Unusual; effective.
+- **Smoke**: cold-smoke the cream briefly before heating. Unusual; effective.
 
 ### Butter Ganache
 
@@ -110,7 +110,7 @@ For filled bonbons with a layered ganache (e.g. a dark layer plus a coloured fru
 
 Ganache keeps refrigerated 1-2 weeks. The texture firms in the fridge; let it come to room temperature before serving for the right consistency. It freezes for 1-2 months but may need brief gentle reheating and re-emulsifying with a stir on thaw.
 
-A ganache layered inside a fully-set tempered chocolate shell (bonbon) keeps a month at room temperature - the chocolate shell protects the soft centre from oxygen and humidity.
+A ganache layered inside a fully-set tempered chocolate shell (bonbon) keeps a month at room temperature, the chocolate shell protects the soft centre from oxygen and humidity.
 
 ## Where Next
 - [Truffles](truffles.md): hand-rolled ganache centres. The simplest finished chocolate product.

@@ -31,7 +31,7 @@ Cornbread is the Southern side that lands next to bowls of chilli, plates of fri
 ### Stage 1 - Heat the pan
 1. Heat the oven to 200°C (180°C fan).
 1. Place the 50 g of butter in a 25 cm cast-iron skillet (or 23 cm cake tin).
-1. Set in the oven 5 minutes - the butter should melt and just start to colour.
+1. Set in the oven 5 minutes, the butter should melt and just start to colour.
 
 ### Stage 2 - Dry mix
 1. Whisk the cornmeal, flour, sugar, baking powder, salt and bicarb in a large bowl.
@@ -46,7 +46,7 @@ Cornbread is the Southern side that lands next to bowls of chilli, plates of fri
 1. Pull the hot skillet from the oven.
 1. Swirl the melted butter to coat the bottom and sides.
 1. Pour any excess into the batter; whisk in.
-1. Pour the batter into the hot skillet - listen for the sizzle.
+1. Pour the batter into the hot skillet, listen for the sizzle.
 1. Bake 22-26 minutes until deep golden on top and a skewer in the centre comes out clean.
 
 ### Stage 6 - Rest and serve

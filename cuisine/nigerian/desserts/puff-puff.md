@@ -31,7 +31,7 @@ West Africa's fried dough ball, the sweet that turns up at children's parties, n
 
 ### Stage 1 - Batter
 1. Whisk the flour, sugar, yeast, salt and nutmeg in a wide bowl.
-1. Add the warm water gradually, mixing with a wooden spoon to a thick, sticky batter - looser than dough, thicker than pancake batter. Stop before it becomes runny.
+1. Add the warm water gradually, mixing with a wooden spoon to a thick, sticky batter, looser than dough, thicker than pancake batter. Stop before it becomes runny.
 
 ### Stage 2 - Rise
 1. Cover with cling film or a clean damp tea towel.
@@ -43,7 +43,7 @@ West Africa's fried dough ball, the sweet that turns up at children's parties, n
 
 ### Stage 4 - Fry
 1. Wet your hand (the batter won't stick).
-1. Scoop a generous tablespoon of batter; squeeze through your thumb-and-forefinger fist into the hot oil - the squeeze releases a roughly round ball.
+1. Scoop a generous tablespoon of batter; squeeze through your thumb-and-forefinger fist into the hot oil, the squeeze releases a roughly round ball.
 1. Or: use a spoon, dipped in water between scoops.
 1. Fry 6-8 puff puff at a time; they should puff and turn themselves in the oil.
 1. Cook 3-4 minutes total, turning if needed, until deep golden all around.
@@ -58,9 +58,9 @@ West Africa's fried dough ball, the sweet that turns up at children's parties, n
 
 ## Notes
 - **Sticky batter is correct:** Stiffer batter gives dense, dry puff puff. The looseness is what creates the airy interior.
-- **Hand-squeeze technique:** Takes practice but gives the most uniform shape. Two-spoon scooping works fine - wet the spoons.
+- **Hand-squeeze technique:** Takes practice but gives the most uniform shape. Two-spoon scooping works fine, wet the spoons.
 - **175°C oil:** Hotter and they brown before cooking through; cooler and they soak up oil. A thermometer or a digital probe takes the guesswork out.
 
 ## Storage
-- Best fresh. Refrigerate 2 days at most; re-crisp at 180°C for 4 minutes - but they're never as good as fresh.
+- Best fresh. Refrigerate 2 days at most; re-crisp at 180°C for 4 minutes, but they're never as good as fresh.
 - Don't freeze (the texture goes spongy).

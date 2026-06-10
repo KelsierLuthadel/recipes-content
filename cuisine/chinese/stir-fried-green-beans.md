@@ -33,12 +33,12 @@ Sichuan dry-frying (gan bian) is the technique that turns a humble green bean in
 
 ### Stage 1 - Dry-fry the beans
 1. Heat 3 tablespoons of oil in a wok or wide heavy pan over high heat.
-1. Add the beans; stir-fry 6-8 minutes - they should blister, wrinkle and develop dark spots. Don't lower the heat; don't stir too often.
+1. Add the beans; stir-fry 6-8 minutes, they should blister, wrinkle and develop dark spots. Don't lower the heat; don't stir too often.
 1. Lift out onto a plate.
 
 ### Stage 2 - Aromatics
 1. Reduce the heat to medium; add the remaining tablespoon of oil to the wok.
-1. Add the dried chillies and Sichuan peppercorns; cook 30 seconds until fragrant - don't burn the chillies.
+1. Add the dried chillies and Sichuan peppercorns; cook 30 seconds until fragrant, don't burn the chillies.
 1. Add the garlic, ginger and zhacai (if using); cook 30 seconds.
 
 ### Stage 3 - Combine

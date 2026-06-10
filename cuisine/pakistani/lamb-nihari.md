@@ -94,7 +94,7 @@ Lamb nihari is the Lahori version of nihari, the slow lamb stew eaten at dawn fr
 1. Whisk the wheat flour into 250 ml cold water until smooth (no lumps).
 1. Whisk a ladleful of warm broth into the slurry to temper.
 1. Pour the slurry into the broth, whisking continuously.
-1. Bring to a low simmer; cook 8-10 minutes, whisking, until the broth thickens to a glossy, slightly velvety consistency - like single cream.
+1. Bring to a low simmer; cook 8-10 minutes, whisking, until the broth thickens to a glossy, slightly velvety consistency, like single cream.
 
 ### Stage 6 - Return the meat
 1. Return the lamb pieces to the thickened broth.
@@ -105,14 +105,14 @@ Lamb nihari is the Lahori version of nihari, the slow lamb stew eaten at dawn fr
 1. Heat the ghee in a small pan.
 1. Add cumin seeds; sizzle 15 seconds.
 1. Off heat; stir in the deep-fried golden onions.
-1. Pour the tarka over the nihari pot - listen for the sizzle.
+1. Pour the tarka over the nihari pot, listen for the sizzle.
 
 ### Stage 8 - Rest and serve
 1. Cover; rest 10 minutes.
 1. Ladle into bowls; ensure each bowl has a piece of meat and plenty of broth.
 1. At the table: scatter ginger matchsticks, green chilli, coriander.
 1. Squeeze of lemon.
-1. Eat with hot naan or paratha - tear, dip, scoop the meat off the bone.
+1. Eat with hot naan or paratha, tear, dip, scoop the meat off the bone.
 
 ## Notes
 - **Mustard oil is traditional:** The dish has a faintly pungent, slightly nasal note from mustard oil. Heat it to smoking before reducing temperature to mellow the harshness, then proceed normally.

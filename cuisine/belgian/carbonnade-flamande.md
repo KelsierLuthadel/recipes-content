@@ -45,11 +45,11 @@ Carbonnade flamande is the traditional Flemish beef stew, and arguably Belgium's
 ## Method
 
 ### Stage 1 - Brown the beef
-1. Pat the beef cubes dry with kitchen paper - very important for browning.
+1. Pat the beef cubes dry with kitchen paper, very important for browning.
 2. Toss the beef with the flour, salt and pepper in a bowl.
 3. Heat 2 tablespoons of beef tallow or butter in a heavy Dutch oven over medium-high heat until shimmering.
 4. Brown the beef in 3 batches (overcrowding steams it). 4-5 minutes per batch, turning to get a dark crust on at least 3 sides of each cube.
-5. Transfer browned beef to a bowl as you go. Don't wash the pot - the fond is gold.
+5. Transfer browned beef to a bowl as you go. Don't wash the pot, the fond is gold.
 
 ### Stage 2 - Caramelise the onions
 1. Reduce heat to medium and add the remaining 2 tablespoons fat to the same pot.
@@ -72,7 +72,7 @@ Carbonnade flamande is the traditional Flemish beef stew, and arguably Belgium's
 1. Spread the slice of bread thickly with the Dijon mustard.
 2. Place mustard-side-down on top of the stew.
 3. Cover and continue cooking on low for 30 minutes.
-4. After 30 minutes, the bread should have slumped and dissolved into the sauce. Stir it through gently with a wooden spoon - it acts as a thickener.
+4. After 30 minutes, the bread should have slumped and dissolved into the sauce. Stir it through gently with a wooden spoon, it acts as a thickener.
 
 ### Stage 6 - Final adjustments
 1. Taste the sauce. It should be deeply savoury, slightly sweet (from the brown sugar and onions), with the malt backbone of the beer and a sharp mustard echo.
@@ -89,14 +89,14 @@ Carbonnade flamande is the traditional Flemish beef stew, and arguably Belgium's
 - **Don't skip the browning:** the dark crust on the beef is half the flavour. Patience pays.
 - **The mustard bread is traditional:** Flemish home cooks all do this. It thickens the sauce and adds a sharp mustard note that cuts the sweetness.
 - **Better the next day:** the flavours marry overnight. Cook ahead if you can.
-- **Pain d'épices variant:** in Flanders, some cooks use a slice of gingerbread (pain d'épices) instead of mustard bread - sweeter, more aromatic. Try both.
+- **Pain d'épices variant:** in Flanders, some cooks use a slice of gingerbread (pain d'épices) instead of mustard bread, sweeter, more aromatic. Try both.
 
 ## Variations
-**Carbonnade aux pruneaux:** add 100 g pitted prunes in stage 3 - the Flemish sweet-savoury variant.
+**Carbonnade aux pruneaux:** add 100 g pitted prunes in stage 3, the Flemish sweet-savoury variant.
 **Stoofvlees:** the Dutch / Flemish "stew meat" name; identical recipe, often slightly less sweet.
-**Carbonnade with Trappist Westmalle Tripel:** uses a tripel instead of dubbel - lighter, more spicy.
-**Vegetarian "carbonnade" with king oyster mushrooms:** a modern Brussels variant - king oyster mushrooms instead of beef, the same beer-and-onion treatment.
-**Carbonnade flamande au speculoos:** the bread is replaced with two speculoos biscuits - sweeter, more aromatic.
+**Carbonnade with Trappist Westmalle Tripel:** uses a tripel instead of dubbel, lighter, more spicy.
+**Vegetarian "carbonnade" with king oyster mushrooms:** a modern Brussels variant, king oyster mushrooms instead of beef, the same beer-and-onion treatment.
+**Carbonnade flamande au speculoos:** the bread is replaced with two speculoos biscuits, sweeter, more aromatic.
 **Quick carbonnade in the pressure cooker:** 45 minutes high pressure instead of 3 hours; flavour is good but not as deep.
 
 ## Serving
@@ -105,5 +105,5 @@ At a Brussels brasserie alongside frites and a Trappist beer (the traditional se
 ## Storage
 - Refrigerates 4 days; reheats better than it cooks first time round.
 - Freezes 3 months in airtight containers.
-- The flavours improve overnight - it's the traditional make-ahead Belgian stew.
+- The flavours improve overnight, it's the traditional make-ahead Belgian stew.
 - Reheat gently on the stovetop with a splash of water or stock to loosen.

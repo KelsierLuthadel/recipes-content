@@ -39,7 +39,7 @@ Catrachitas are the Honduran snack named for the country's people themselves (ca
 1. Top with a thin slice of avocado for the fuller version.
 
 ### Stage 4 - Serve
-1. Eat warm, picked up by the edge. They go soggy if they sit - assemble close to serving.
+1. Eat warm, picked up by the edge. They go soggy if they sit, assemble close to serving.
 
 ## Notes
 - **Tortilla thickness:** Standard corn tortillas (not the thick, fresh kind). They need to crisp through.

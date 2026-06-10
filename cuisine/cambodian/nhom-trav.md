@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-A Cambodian banana flower salad, the kind of bright herby starter that opens a Khmer meal. You slice banana flower thin and submerge it immediately in lemon water to stop the browning (banana flower oxidises within seconds of cutting, going from pale ivory to brown). Tofu cubes (or shredded chicken in the non-vegetarian version) join for substance. Peanuts toast in a dry pan; shallots fry crisp in oil. The dressing is lime, palm sugar, soy and chilli pounded together in a mortar, and everything tosses with fresh herbs at the last minute - mint, coriander, Thai basil, whatever is around. Eat as a starter or alongside grilled meat, the bitter floral note of the banana flower balanced by the salty-sweet dressing and the crunch of peanuts.
+A Cambodian banana flower salad, the kind of bright herby starter that opens a Khmer meal. You slice banana flower thin and submerge it immediately in lemon water to stop the browning (banana flower oxidises within seconds of cutting, going from pale ivory to brown). Tofu cubes (or shredded chicken in the non-vegetarian version) join for substance. Peanuts toast in a dry pan; shallots fry crisp in oil. The dressing is lime, palm sugar, soy and chilli pounded together in a mortar, and everything tosses with fresh herbs at the last minute, mint, coriander, Thai basil, whatever is around. Eat as a starter or alongside grilled meat, the bitter floral note of the banana flower balanced by the salty-sweet dressing and the crunch of peanuts.
 
 ## Ingredients
 
@@ -45,12 +45,12 @@ A Cambodian banana flower salad, the kind of bright herby starter that opens a K
 1. Fill a large bowl with cold water and the lemon juice.
 1. Discard the outer 2-3 red leaves of the banana flower; save the small immature finger-like flowers inside (remove the woody stamen).
 1. Slice the flower itself crosswise as thinly as possible with a sharp knife (1-2 mm).
-1. Drop the slices straight into the lemon water as you work - they brown otherwise.
+1. Drop the slices straight into the lemon water as you work, they brown otherwise.
 1. Soak 10 minutes; drain; squeeze gently.
 
 ### Stage 2 - Crispy shallots
 1. Heat the oil in a small pan over medium heat.
-1. Cook the shallots 6-8 minutes, stirring, until deep golden and crisp. Don't burn - they go from done to over fast.
+1. Cook the shallots 6-8 minutes, stirring, until deep golden and crisp. Don't burn, they go from done to over fast.
 1. Lift onto kitchen paper.
 
 ### Stage 3 - Dressing
@@ -66,9 +66,9 @@ A Cambodian banana flower salad, the kind of bright herby starter that opens a K
 1. Top with peanuts and crispy shallots.
 
 ## Notes
-- **Banana flower is essential:** Cambodian, Thai, Vietnamese groceries stock fresh banana flowers. Tinned ones (in brine) work as a substitute - drain and rinse well.
+- **Banana flower is essential:** Cambodian, Thai, Vietnamese groceries stock fresh banana flowers. Tinned ones (in brine) work as a substitute, drain and rinse well.
 - **Slice immediately into acid:** The cut surfaces oxidise within minutes. Keep them submerged.
-- **Crispy shallots:** Worth the small effort - the textural contrast against the soft flowers is the dish.
+- **Crispy shallots:** Worth the small effort, the textural contrast against the soft flowers is the dish.
 
 ## Storage
 - Best eaten right away. Soak banana flower up to a few hours ahead; assemble at the last minute.

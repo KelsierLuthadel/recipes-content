@@ -58,7 +58,7 @@ Maltese potato salad rejects the heavy mayonnaise-based Northern European versio
 - **Eat at room temperature:** cold mutes the flavours.
 
 ## Variations
-**With tuna:** add 1 tin tuna in olive oil - turns it into a niçoise-style main.
+**With tuna:** add 1 tin tuna in olive oil, turns it into a niçoise-style main.
 **With anchovies:** add 4 anchovy fillets.
 **With ġbejniet:** crumble in 100 g fresh Maltese sheep's cheese.
 **Spicy variant:** add a chopped fresh chilli or chilli flakes.

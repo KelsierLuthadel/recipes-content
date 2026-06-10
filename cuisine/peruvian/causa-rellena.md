@@ -68,12 +68,12 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 3. Bring to the boil; simmer 20-25 minutes till a knife slides easily through the centre.
 4. Drain; let stand 5 minutes till cool enough to handle.
 5. Peel the skins off (they slip off easily when warm).
-6. Mash the peeled potatoes thoroughly in a large bowl - aim for a smooth-to-coarse texture. Don't use a food processor (overworking makes potato glue).
+6. Mash the peeled potatoes thoroughly in a large bowl, aim for a smooth-to-coarse texture. Don't use a food processor (overworking makes potato glue).
 
 ### Stage 2 - Season the mash
 1. Add the aji amarillo paste, lime juice, oil, salt and white pepper to the mashed potato.
 2. Mix thoroughly with a wooden spoon till the mash is bright yellow-orange, uniformly seasoned, and slightly oily.
-3. Taste; should be assertively flavoured - salty, tart from lime, gently spicy. Adjust salt and lime.
+3. Taste; should be assertively flavoured, salty, tart from lime, gently spicy. Adjust salt and lime.
 4. Let cool to room temperature (about 30 minutes).
 
 ### Stage 3 - Make the filling (choose one)
@@ -110,15 +110,15 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 - **Chill overnight:** 4 hours minimum; overnight is dramatically better. The slices cut cleaner; the flavours marry.
 - **Cling film the tin:** essential for clean unmoulding.
 - **Mash by hand or with a potato masher:** food-processor mashing makes potato glue.
-- **The garnish is the show:** Peruvian causa is an Instagram dish - the garnish is what makes it spectacular.
+- **The garnish is the show:** Peruvian causa is an Instagram dish, the garnish is what makes it spectacular.
 
 ## Variations
 **Causa individual:** instead of one large round, use 8 individual ring moulds (8 cm diameter, 5 cm tall) for elegant individual portions.
-**Causa de cangrejo (crab):** the upmarket Lima restaurant version - crab meat with mayo, lime and chives.
+**Causa de cangrejo (crab):** the upmarket Lima restaurant version, crab meat with mayo, lime and chives.
 **Causa limeña classic (chicken-avocado):** Lima's most popular filling.
 **Vegetarian causa:** swap the filling for chopped roasted vegetables + mayo + lime; or for grated cheddar + diced avocado + sour cream.
-**Modern Lima fine-dining causa:** thin stripes of potato mash + delicate fish ceviche + microgreens - the deconstructed version.
-**Causa with quinoa:** swap half the potato for cooked quinoa - the modern healthy variant.
+**Modern Lima fine-dining causa:** thin stripes of potato mash + delicate fish ceviche + microgreens, the deconstructed version.
+**Causa with quinoa:** swap half the potato for cooked quinoa, the modern healthy variant.
 **Mini causas for canapés:** make 30 small (3 cm) rounds with piped mash and a tiny dollop of filling.
 
 ## Serving
@@ -126,8 +126,8 @@ At a Lima Sunday family lunch (the traditional setting; cold first course before
 
 ## Storage
 - Refrigerates 3 days, well covered. Slice fresh each time.
-- Doesn't freeze - the texture suffers.
+- Doesn't freeze, the texture suffers.
 - The potato mash (seasoned, unassembled) refrigerates 24 hours.
 - The fillings each keep refrigerated 24 hours.
 - Best assembled the day before serving for the cleanest slicing.
-- Leftover slices can be pan-fried in butter till crisp on both sides - the day-after Peruvian breakfast hack.
+- Leftover slices can be pan-fried in butter till crisp on both sides, the day-after Peruvian breakfast hack.

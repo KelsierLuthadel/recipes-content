@@ -23,7 +23,7 @@ Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, de
 ### The batter
 - 250 g plain flour
 - 1 tablespoon baking powder
-- 1 teaspoon salt (taste first - the saltfish is still salty)
+- 1 teaspoon salt (taste first, the saltfish is still salty)
 - 1/2 teaspoon black pepper
 - 1 large egg
 - 250 ml water (cold)
@@ -80,7 +80,7 @@ Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, de
 1. Working in batches of 6-8, drop scant tablespoonfuls of batter into the hot oil.
 2. The batter will spread slightly and puff up.
 3. Fry 2-3 minutes per side till deep golden brown all over.
-4. Don't overcrowd - reduces the oil temperature.
+4. Don't overcrowd, reduces the oil temperature.
 5. Lift out with a slotted spoon; drain briefly on kitchen paper.
 
 ### Stage 6 - Serve immediately
@@ -99,11 +99,11 @@ Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, de
 ## Variations
 **Vegetarian "fish" cakes:** swap the saltfish for chopped hearts of palm or finely flaked king-oyster mushrooms; same spice profile.
 **Spicy fish cakes:** double the Scotch bonnet pepper.
-**Cassava-flour fish cakes (gluten-free):** swap the plain flour for cassava flour - lighter, slightly crisper.
-**Codfish fritters with mango chutney:** serve with a homemade mango chutney instead of pepper sauce - the modern variant.
-**Cornmeal fish cakes:** add 50 g cornmeal to the flour mix - the textural variant.
-**Pholourie-style (Trinidadian cousin):** use a yellow split-pea batter instead of saltfish; same frying technique - the Trinidadian cousin.
-**Mini fish cakes (canapé):** make tablespoon-sized; serve with a dipping sauce - canapé-friendly.
+**Cassava-flour fish cakes (gluten-free):** swap the plain flour for cassava flour, lighter, slightly crisper.
+**Codfish fritters with mango chutney:** serve with a homemade mango chutney instead of pepper sauce, the modern variant.
+**Cornmeal fish cakes:** add 50 g cornmeal to the flour mix, the textural variant.
+**Pholourie-style (Trinidadian cousin):** use a yellow split-pea batter instead of saltfish; same frying technique, the Trinidadian cousin.
+**Mini fish cakes (canapé):** make tablespoon-sized; serve with a dipping sauce, canapé-friendly.
 **Air-fryer fish cakes:** spray with oil; air-fry at 200°C for 12-15 minutes; less crisp but lighter.
 
 ## Serving
@@ -112,7 +112,7 @@ At a Bajan rum-shop (the traditional setting; sold by the dozen) · at the Oisti
 ## Storage
 - The raw fish-cake batter refrigerates 24 hours; bring to room temperature before frying.
 - Cooked fish cakes refrigerate 3 days; reheat in a 200°C oven for 6 minutes.
-- Don't microwave - the texture goes soggy.
+- Don't microwave, the texture goes soggy.
 - Freezes 2 months cooked; defrost in the fridge overnight; reheat in a hot oven.
 - The soaked, boiled and flaked saltfish keeps refrigerated 3 days before mixing into the batter.
 - A "Bajan fish-cake mix" (the dry ingredients + dried herbs) can be made ahead and stored in a sealed jar.

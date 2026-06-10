@@ -43,7 +43,7 @@ Mongolia's layered sweet pastry, the kind of tea-time treat that turns up at eve
 1. Cover all but one with a damp tea towel.
 
 ### Stage 3 - Roll and laminate
-1. Roll the first portion on a lightly floured surface to a circle 35 cm across - paper-thin (1-2 mm).
+1. Roll the first portion on a lightly floured surface to a circle 35 cm across, paper-thin (1-2 mm).
 1. Brush generously with melted butter, edge to edge.
 1. Sprinkle 2 teaspoons of caster sugar evenly over the buttered surface.
 1. Dust lightly with cardamom (if using).
@@ -79,4 +79,4 @@ Mongolia's layered sweet pastry, the kind of tea-time treat that turns up at eve
 ## Storage
 - Best within an hour of cooking.
 - Keep 2 days in an airtight tin; re-warm in a 150°C oven 5 minutes to revive the layers.
-- Don't refrigerate - the butter solidifies and the layers go heavy.
+- Don't refrigerate, the butter solidifies and the layers go heavy.

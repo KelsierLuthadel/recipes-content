@@ -60,7 +60,7 @@ The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktai
 4. Lift away; the rim should be evenly coated.
 
 ### Stage 2 - Build the drink in the glass
-1. Fill each rimmed glass with ice cubes (3-4 large cubes; not crushed - the dilution is too fast).
+1. Fill each rimmed glass with ice cubes (3-4 large cubes; not crushed, the dilution is too fast).
 2. Pour in 30 ml of vodka.
 3. Add 4 dashes of Worcestershire sauce.
 4. Add 4 dashes of hot sauce.
@@ -69,8 +69,8 @@ The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktai
 7. Top up with 180 ml of Clamato.
 
 ### Stage 3 - Stir gently
-1. Use a long bar spoon to stir gently 5-6 times - just enough to combine.
-2. Don't shake or stir vigorously - you'll disturb the celery-salt rim and aerate the Clamato into froth.
+1. Use a long bar spoon to stir gently 5-6 times, just enough to combine.
+2. Don't shake or stir vigorously, you'll disturb the celery-salt rim and aerate the Clamato into froth.
 
 ### Stage 4 - Garnish
 1. Push a long celery stalk into the drink, leaves sticking up above the rim.
@@ -94,21 +94,21 @@ The Caesar (full name: Bloody Caesar) is Canada's most identity-defining cocktai
 
 ## Variations
 **Caesar Spicy (Calgary brunch):** double the hot sauce and the horseradish; add 1/4 teaspoon Cajun spice mix.
-**Caesar with gin (the "Gin Caesar"):** swap vodka for a good London dry gin - the modern variant; works beautifully with the briny Clamato.
+**Caesar with gin (the "Gin Caesar"):** swap vodka for a good London dry gin, the modern variant; works beautifully with the briny Clamato.
 **Caesar Verde (modern):** add 30 ml of muddled cilantro + jalapeño + cucumber; bright, herbaceous variant.
 **Bloody Mary (American cousin):** plain tomato juice instead of Clamato; plain salt rim; the same Worcestershire and hot sauce.
-**Caesar with bacon-infused vodka:** infuse the vodka with crispy bacon for 4 hours; strain; use as the base - the high-end brunch variant.
+**Caesar with bacon-infused vodka:** infuse the vodka with crispy bacon for 4 hours; strain; use as the base, the high-end brunch variant.
 **Smoked Caesar:** add 4 dashes of liquid smoke OR use a smoked salt rim.
-**Lobster Caesar (Maritime variant):** garnish with a small chunk of cooked lobster meat on a stick - the Halifax / PEI summer variant.
+**Lobster Caesar (Maritime variant):** garnish with a small chunk of cooked lobster meat on a stick, the Halifax / PEI summer variant.
 **Pickle Caesar (Saskatchewan variant):** use the brine from a jar of dill pickles as part of the liquid; garnish heavily with pickled vegetables.
-**Caesar mocktail (non-alcoholic):** skip the vodka; double the lime juice and add a tablespoon of dill-pickle brine - the designated-driver Sunday-brunch version.
-**Caesar with chicken wing garnish:** spear a small grilled chicken wing on a cocktail pick - the maximalist meal-in-a-glass Caesar that's now a Canadian bar staple.
+**Caesar mocktail (non-alcoholic):** skip the vodka; double the lime juice and add a tablespoon of dill-pickle brine, the designated-driver Sunday-brunch version.
+**Caesar with chicken wing garnish:** spear a small grilled chicken wing on a cocktail pick, the maximalist meal-in-a-glass Caesar that's now a Canadian bar staple.
 
 ## Serving
 At a Canadian Sunday brunch (the traditional setting) · at a Calgary Stampede brunch · at a Vancouver hockey-night dinner party · at a Toronto wedding cocktail hour · at a Halifax Maritime barbecue · at a Canadian-themed restaurant abroad · at a Canadian pub at midday · at home as the traditional Saturday morning hangover cure · paired with eggs Benedict, peameal-bacon sandwich, or simply a plate of bacon and toast.
 
 ## Storage
-- Make and drink fresh. Caesars don't store - the Clamato separates and the rim falls off.
+- Make and drink fresh. Caesars don't store, the Clamato separates and the rim falls off.
 - Mott's Clamato (sealed bottle) keeps in the fridge per the manufacturer's date.
 - Once opened, Clamato refrigerates 7 days.
 - The vodka, Worcestershire, hot sauce, and celery salt all keep indefinitely in the pantry.

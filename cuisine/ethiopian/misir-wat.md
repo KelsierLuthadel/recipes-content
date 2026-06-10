@@ -11,7 +11,7 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Ethiopia's red lentil stew, the vegan everyday main that turns up on every fasting-day table and most non-fasting ones too. You cook onions slowly in oil or niter kibbeh until they melt and turn jammy - this is the same long, patient onion cook that doro wat relies on. Berbere blooms in, tomato paste deepens, lentils go in with water and simmer until they're soft and the stew has thickened to a coating consistency. A squeeze of lemon at the end brightens the deep berbere-rich base. Bright orange from the spice, eaten by mopping with injera, made vegan with oil or richer with niter kibbeh. Either way, the dish that anchors an Ethiopian meal.
+Ethiopia's red lentil stew, the vegan everyday main that turns up on every fasting-day table and most non-fasting ones too. You cook onions slowly in oil or niter kibbeh until they melt and turn jammy, this is the same long, patient onion cook that doro wat relies on. Berbere blooms in, tomato paste deepens, lentils go in with water and simmer until they're soft and the stew has thickened to a coating consistency. A squeeze of lemon at the end brightens the deep berbere-rich base. Bright orange from the spice, eaten by mopping with injera, made vegan with oil or richer with niter kibbeh. Either way, the dish that anchors an Ethiopian meal.
 
 ## Ingredients
 
@@ -47,7 +47,7 @@ Ethiopia's red lentil stew, the vegan everyday main that turns up on every fasti
 1. Serve with injera (Ethiopian flatbread) or rice.
 
 ## Notes
-- **Niter kibbeh vs oil:** Niter kibbeh - clarified butter spiced with cardamom, fenugreek and aromatics - gives the authentic flavour. Oil makes it vegan and still excellent.
+- **Niter kibbeh vs oil:** Niter kibbeh, clarified butter spiced with cardamom, fenugreek and aromatics, gives the authentic flavour. Oil makes it vegan and still excellent.
 - **Berbere strength varies:** Some blends are mild; others are searing. Start with 2 tablespoons and add more after tasting at Stage 3.
 - **The dry-onion start:** Dry-cooking onions before adding fat is the Ethiopian technique. They break down faster and end up sweeter; doesn't burn because they're releasing moisture.
 

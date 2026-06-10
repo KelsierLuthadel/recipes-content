@@ -56,7 +56,7 @@ A burger that eats with a Himalayan accent rather than a Western one. The season
 1. Top muffin. Serve immediately.
 
 ## Notes
-- **Momo seasoning is subtle:** the dish reads as "beef burger with a Himalayan accent". Don't expect a chilli-fire profile - the heat comes from sepen on the side if at all.
+- **Momo seasoning is subtle:** the dish reads as "beef burger with a Himalayan accent". Don't expect a chilli-fire profile, the heat comes from sepen on the side if at all.
 - **Chicken mince works:** cook through (75°C internal). The lighter meat reads as more momo-like to some palates.
 - **Whole-wheat muffin or brioche:** the wheaty muffin gives a hearty bite; brioche is sweeter and softer. Both work.
 

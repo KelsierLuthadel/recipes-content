@@ -77,8 +77,8 @@ ingredients:
     name: cilantro
     raw: 1 large bunch fresh cilantro
   - qty: 1
-    name: culantro/recao - or double the cilantro
-    raw: 1 small bunch fresh culantro/recao - or double the cilantro
+    name: "culantro/recao : or double the cilantro"
+    raw: "1 small bunch fresh culantro/recao : or double the cilantro"
   - qty: 1
     name: chilli
     raw: 1 small fresh chilli

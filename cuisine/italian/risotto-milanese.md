@@ -44,12 +44,12 @@ Risotto alla milanese is the saffron-yellow Milanese rice dish, the side that tr
 1. Add a ladleful of warm stock; stir until absorbed.
 1. Continue adding stock a ladleful at a time, stirring constantly, for about 18 minutes total.
 1. Halfway through, stir in the saffron-infused stock (the rice turns golden).
-1. Taste at 16 minutes; the rice should be al dente - tender but with a faint chalky core.
+1. Taste at 16 minutes; the rice should be al dente, tender but with a faint chalky core.
 
 ### Stage 5 - Mantecare
 1. Take the pan OFF the heat.
 1. Beat in the remaining butter (cold, in cubes) and the parmesan vigorously with a wooden spoon for 30-45 seconds.
-1. The risotto should fall slowly off the spoon (all'onda - "in waves").
+1. The risotto should fall slowly off the spoon (all'onda, "in waves").
 1. Taste; season with salt and white pepper.
 
 ### Stage 6 - Serve

@@ -64,7 +64,7 @@ Saudi Arabia's national dish, the one platter you'll meet at almost every gather
 1. Cook the onions in the rendered fat 8 minutes.
 1. Add the garlic and ginger; cook 1 minute.
 1. Stir in the tomato paste, tomatoes, dried limes, cinnamon, cardamom, cloves, bay, spice mix and turmeric.
-1. Cook 4-5 minutes - the mixture should darken.
+1. Cook 4-5 minutes, the mixture should darken.
 1. Pour in the hot water; return the chicken.
 
 ### Stage 3 - Simmer
@@ -74,7 +74,7 @@ Saudi Arabia's national dish, the one platter you'll meet at almost every gather
 
 ### Stage 4 - Cook the rice
 1. Drain the soaked rice.
-1. Strain the cooking liquid; you should have about 1.2 litres - top up with hot water if less.
+1. Strain the cooking liquid; you should have about 1.2 litres, top up with hot water if less.
 1. Return the strained liquid to the pot; add the rice.
 1. Bring to the boil; reduce to lowest heat; cover; cook 18-20 minutes.
 1. Off the heat, rest covered 10 minutes.

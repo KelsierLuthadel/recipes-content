@@ -2,7 +2,7 @@
 
 ![Salsa di Noci](resources/salsa-di-noci.jpg)
 
-*Liguria's walnut sauce: blanched walnuts blitzed with garlic, bread soaked in milk, olive oil, Parmesan and a touch of marjoram into a creamy pale sauce. The Ligurian alternative to pesto - the Genoese coast's walnut answer, traditionally served with pansoti or stuffed pasta.*
+*Liguria's walnut sauce: blanched walnuts blitzed with garlic, bread soaked in milk, olive oil, Parmesan and a touch of marjoram into a creamy pale sauce. The Ligurian alternative to pesto, the Genoese coast's walnut answer, traditionally served with pansoti or stuffed pasta.*
 
 **Serves:** Makes about 400 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Salsa di noci is Liguria's iconic walnut sauce and the lesser-known cousin of pesto Genovese - both are Genoese-Ligurian sauces but salsa di noci uses walnuts instead of basil and pine nuts: shelled walnuts (preferably fresh new-crop), briefly blanched in hot water to soften and peel the bitter skins, then blitzed with crushed garlic, day-old bread soaked in milk (the panada - gives the proper creamy texture), extra virgin olive oil, grated Parmesan and a touch of fresh marjoram (the traditional Ligurian herb) into a creamy pale-coloured sauce. Traditionally served with pansoti (the Ligurian stuffed pasta filled with herbs and ricotta) or any stuffed pasta; also excellent over plain pasta, drizzled on grilled vegetables, or used as a dip for crudités. Blanch and peel the walnuts; the bitter skin gives an off taste, and blanching loosens it for easy peeling. The bread-and-milk panada gives the proper creamy texture. Fresh marjoram (the traditional Ligurian herb, similar to oregano but milder and sweeter) is essential.
+Salsa di noci is Liguria's iconic walnut sauce and the lesser-known cousin of pesto Genovese, both are Genoese-Ligurian sauces but salsa di noci uses walnuts instead of basil and pine nuts: shelled walnuts (preferably fresh new-crop), briefly blanched in hot water to soften and peel the bitter skins, then blitzed with crushed garlic, day-old bread soaked in milk (the panada, gives the proper creamy texture), extra virgin olive oil, grated Parmesan and a touch of fresh marjoram (the traditional Ligurian herb) into a creamy pale-coloured sauce. Traditionally served with pansoti (the Ligurian stuffed pasta filled with herbs and ricotta) or any stuffed pasta; also excellent over plain pasta, drizzled on grilled vegetables, or used as a dip for crudités. Blanch and peel the walnuts; the bitter skin gives an off taste, and blanching loosens it for easy peeling. The bread-and-milk panada gives the proper creamy texture. Fresh marjoram (the traditional Ligurian herb, similar to oregano but milder and sweeter) is essential.
 
 ## Ingredients
 

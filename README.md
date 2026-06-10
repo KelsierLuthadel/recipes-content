@@ -114,11 +114,11 @@ Only the H1, image, caption, the three metadata fields, and the Method are stric
 
 - **Fractions.** Use unicode glyphs: `1 ½ cups`, `½ teaspoon`. The renderer also accepts `1 1/2` and `1.5`.
 - **Units.** Metric (g / ml / cm / °C) is the traditional authoring unit. The site offers a metric / imperial toggle that converts at render time.
-- **No em dashes.** Anywhere user-facing. Use ` - ` (hyphen with spaces) or a colon, or rephrase.
+- **No em dashes.** Anywhere user-facing. Use `, ` (hyphen with spaces) or a colon, or rephrase.
 - **Image alt text.** Should be the recipe title, not `Name` (the template placeholder).
 - **Sub-sections inside Ingredients.** `### Marinade`, `### Sauce`, etc. for multi-component recipes. The shopping-list builder treats each sub-section separately so two `2 tbsp soy sauce` lines in different sub-sections won't merge into `4 tbsp soy sauce`.
 - **Equipment sub-section.** A `### Equipment` block inside Ingredients lists non-edible items (a fish slice, a banneton, a Dutch oven). The build excludes these from shopping lists, allergen detection, and ingredient indexing.
-- **Stage headings inside Method.** `### Stage 1 - Prep`, `### Stage 2 - Cook`. Optional, but useful for any recipe with more than five steps - the stages become collapsible scroll anchors on the page.
+- **Stage headings inside Method.** `### Stage 1, Prep`, `### Stage 2, Cook`. Optional, but useful for any recipe with more than five steps, the stages become collapsible scroll anchors on the page.
 
 ### 4. Add an image and a thumbnail
 
@@ -159,13 +159,13 @@ Tutorials live in [tutorials/](tutorials/) as one folder per course. Each course
 
 Tutorial pages follow the same markdown structure as recipes but with these differences:
 
-- No `**Serves:**` / `**Prep Time:**` / `**Cook Time:**` fields - tutorials aren't cookable artifacts.
-- No `## Ingredients` block - tutorials may reference ingredients but don't list a single quantity.
+- No `**Serves:**` / `**Prep Time:**` / `**Cook Time:**` fields, tutorials aren't cookable artifacts.
+- No `## Ingredients` block, tutorials may reference ingredients but don't list a single quantity.
 - A warm, friendly italic intro is the convention.
 - A "Where Next" section at the bottom cross-links to related tutorial pages (and sometimes to recipes).
-- Photos go inline inside the prose rather than under a single hero - tutorials are visual.
+- Photos go inline inside the prose rather than under a single hero, tutorials are visual.
 
-Tutorials don't surface in search, Discover, or Recently Viewed - they're reference content reached by browsing from the Learn page on the site.
+Tutorials don't surface in search, Discover, or Recently Viewed, they're reference content reached by browsing from the Learn page on the site.
 
 ## Editorial collections
 
@@ -186,11 +186,11 @@ recipes:
 Optional intro markdown paragraph(s).
 ```
 
-- `id` - the URL slug. Don't change this once published; it's the link.
-- `name` - displayed title.
-- `tagline` - one-line description shown on the tile and at the top of the page.
-- `cover` - hero image, path relative to the repo root.
-- `recipes` - list of recipe filenames (without `.md`). The build resolves them against the recipe tree; unresolvable slugs are silently dropped.
+- `id`, the URL slug. Don't change this once published; it's the link.
+- `name`, displayed title.
+- `tagline`, one-line description shown on the tile and at the top of the page.
+- `cover`, hero image, path relative to the repo root.
+- `recipes`, list of recipe filenames (without `.md`). The build resolves them against the recipe tree; unresolvable slugs are silently dropped.
 
 ### Seasonal rotation
 
@@ -205,7 +205,7 @@ seasonalrange: 03-01..05-31
 ---
 ```
 
-Format is `MM-DD..MM-DD`, inclusive, year-agnostic - the same collection rotates in year after year without re-authoring. Wrapped ranges work too (`12-15..01-10` covers the festive period across year-end).
+Format is `MM-DD..MM-DD`, inclusive, year-agnostic, the same collection rotates in year after year without re-authoring. Wrapped ranges work too (`12-15..01-10` covers the festive period across year-end).
 
 When today's date matches a seasonal range, that collection takes over the Seasonal pick slot's title, cover, and recipe list. If no editorial collection claims today, the site falls back to a hardcoded Summer BBQ default. Buckets the rotation is designed for: Spring (Mar-May), Summer BBQ (Jun-Aug), Fall harvest (mid-Sep-mid-Nov), Thanksgiving (mid-Nov), Christmas (Dec).
 
@@ -229,10 +229,10 @@ To add a recipe to a festival, append its slug to the corresponding list. To add
 
 When you've added or changed content, the site needs to rebuild its manifest to pick up the change. That step plus every other automation script (image thumbs, fetch-from-Pexels, fraction normalisation, em-dash sweep, recipe linter, etc.) is documented in the sibling repo:
 
-- **[WORKFLOW.md](WORKFLOW.md)** - add / update / delete a recipe under the SvelteKit (`recipes-ui-next`) build. **Start here if you're authoring recipes today.**
-- **[recipes-ui/documentation/SCRIPTS.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/SCRIPTS.md)** - every script in either repo, what it does, when to run it (covers the legacy vanilla build).
-- **[recipes-ui/documentation/DEVELOPER.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/DEVELOPER.md)** - how the build pipeline turns this markdown into the deployed site.
-- **[documentation/AUTHORING.md](documentation/AUTHORING.md)** - the full authoring spec (this file is the short version).
+- **[WORKFLOW.md](WORKFLOW.md)**: add / update / delete a recipe under the SvelteKit (`recipes-ui-next`) build. **Start here if you're authoring recipes today.**
+- **[recipes-ui/documentation/SCRIPTS.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/SCRIPTS.md)**: every script in either repo, what it does, when to run it (covers the legacy vanilla build).
+- **[recipes-ui/documentation/DEVELOPER.md](https://github.com/KelsierLuthadel/recipe-ui/blob/main/documentation/DEVELOPER.md)**: how the build pipeline turns this markdown into the deployed site.
+- **[documentation/AUTHORING.md](documentation/AUTHORING.md)**: the full authoring spec (this file is the short version).
 
 ## License
 

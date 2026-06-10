@@ -22,7 +22,7 @@ Ghormeh sabzi is the Persian herb stew often called Iran's national dish, dark g
 - ¼ teaspoon ground cinnamon
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
-- 4 dried black limes (loomi - pierced, whole)
+- 4 dried black limes (loomi, pierced, whole)
 - 1 litre hot stock
 - 1 (400 g) tin red kidney beans (drained, or 100 g dried, soaked overnight and pre-cooked)
 
@@ -34,7 +34,7 @@ Ghormeh sabzi is the Persian herb stew often called Iran's national dish, dark g
 - 4 tablespoons vegetable oil (for frying herbs)
 
 ### To serve
-- 4 servings cooked chelo (Persian white rice - see tahdig recipe for technique)
+- 4 servings cooked chelo (Persian white rice, see tahdig recipe for technique)
 - 1 lime (to finish, juice)
 
 ## Method
@@ -50,7 +50,7 @@ Ghormeh sabzi is the Persian herb stew often called Iran's national dish, dark g
 ### Stage 2 - Fry the herbs
 1. In a separate wide pan, heat 4 tablespoons oil over medium.
 1. Add all the chopped herbs and dried fenugreek.
-1. Cook 15-20 minutes, stirring often, until the herbs turn very dark green (almost black) and smell deeply aromatic. Don't burn - adjust heat down if catching.
+1. Cook 15-20 minutes, stirring often, until the herbs turn very dark green (almost black) and smell deeply aromatic. Don't burn, adjust heat down if catching.
 
 ### Stage 3 - Combine
 1. Add the fried herbs to the lamb pot.

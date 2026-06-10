@@ -54,9 +54,9 @@ Tres leches is the Latin American sponge cake that drinks the three milks of its
 
 ### Stage 3 - Soak
 1. Whisk the condensed milk, evaporated milk and whole milk in a jug.
-1. Pierce the cooled sponge ALL OVER with a fork or skewer (don't be shy - dozens of holes).
+1. Pierce the cooled sponge ALL OVER with a fork or skewer (don't be shy, dozens of holes).
 1. Pour the milk slurry slowly and evenly over the cake.
-1. Most of the liquid will look like too much - that's correct. The cake will absorb it.
+1. Most of the liquid will look like too much, that's correct. The cake will absorb it.
 1. Cover; refrigerate overnight (or at least 6 hours).
 
 ### Stage 4 - Whipped cream
@@ -76,4 +76,4 @@ Tres leches is the Latin American sponge cake that drinks the three milks of its
 ## Storage
 - Keeps 3 days refrigerated, covered.
 - The milk continues absorbing; day 2 is arguably the peak texture.
-- Doesn't freeze well - texture goes spongy-wet.
+- Doesn't freeze well, texture goes spongy-wet.

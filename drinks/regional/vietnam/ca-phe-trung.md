@@ -11,18 +11,18 @@
 **Cook Time:** 6 minutes
 
 ## Overview
-Cà phê trứng is a Hanoi invention, traditionally credited to the Giang Café in the Old Quarter where it was created in 1946 to substitute for fresh milk during the French colonial milk shortage. The drink is now a Vietnamese institution and a tourist pilgrimage destination: a tiny glass of strong, dark Vietnamese drip coffee (cà phê) with a thick, fluffy, sweet cap of whipped egg yolk and sweetened condensed milk floating on top, served in a small bowl of hot water that keeps the coffee warm. The egg foam tastes like a custard cream - sweet, eggy, vanilla-rich, with the bitter dark coffee underneath cutting through it perfectly. The texture is the whole experience: stir slowly with a small spoon as you drink, alternating between sipping the strong coffee and spooning the cream. Some people drink the coffee first then eat the cream like dessert. There's no wrong way. It tastes like Vietnamese tiramisu in a glass; it's served at every Hanoi café from breakfast through midnight.
+Cà phê trứng is a Hanoi invention, traditionally credited to the Giang Café in the Old Quarter where it was created in 1946 to substitute for fresh milk during the French colonial milk shortage. The drink is now a Vietnamese institution and a tourist pilgrimage destination: a tiny glass of strong, dark Vietnamese drip coffee (cà phê) with a thick, fluffy, sweet cap of whipped egg yolk and sweetened condensed milk floating on top, served in a small bowl of hot water that keeps the coffee warm. The egg foam tastes like a custard cream, sweet, eggy, vanilla-rich, with the bitter dark coffee underneath cutting through it perfectly. The texture is the whole experience: stir slowly with a small spoon as you drink, alternating between sipping the strong coffee and spooning the cream. Some people drink the coffee first then eat the cream like dessert. There's no wrong way. It tastes like Vietnamese tiramisu in a glass; it's served at every Hanoi café from breakfast through midnight.
 
 ## Ingredients
 
 - 2 tablespoons strong Vietnamese ground coffee (Trung Nguyên brand; dark Robusta-blend; espresso grind)
 - 200 ml just-off-the-boil water
-- 2 egg yolks (from very fresh free-range eggs - the egg is whipped raw, so quality matters)
+- 2 egg yolks (from very fresh free-range eggs, the egg is whipped raw, so quality matters)
 - 4 tablespoons sweetened condensed milk
 - 1/2 teaspoon vanilla extract
 
 ### Equipment
-- A small Vietnamese phin filter (the metal drip filter) OR a small French press OR a moka pot - produces the strong coffee base
+- A small Vietnamese phin filter (the metal drip filter) OR a small French press OR a moka pot, produces the strong coffee base
 - Electric hand whisk or stand mixer for the egg cream
 
 ### To serve
@@ -44,15 +44,15 @@ Cà phê trứng is a Hanoi invention, traditionally credited to the Giang Café
 
 ### Stage 3 - Assemble
 1. Pour the hot brewed coffee into 2 small thick-walled glasses, filling them about a third full (about 50-60 ml each).
-1. Spoon the egg cream generously on top - it should float as a thick fluffy layer covering the coffee completely. The cream should fill the remaining two-thirds of the glass.
+1. Spoon the egg cream generously on top, it should float as a thick fluffy layer covering the coffee completely. The cream should fill the remaining two-thirds of the glass.
 
 ### Stage 4 - Serve
-1. Set each glass into a small bowl of hot water (the hot-water bath keeps the coffee warm while the cream stays cool on top - the classic Hanoi serve).
+1. Set each glass into a small bowl of hot water (the hot-water bath keeps the coffee warm while the cream stays cool on top, the classic Hanoi serve).
 1. Optional: dust the cream with a tiny pinch of cocoa powder or cinnamon.
 1. Serve immediately with a small spoon.
 
 ## Notes
-- **Egg yolk freshness.** The egg yolk is whipped raw and served raw. Use the freshest free-range eggs you can find. If raw eggs are a concern (very young children, pregnant women, elderly), use pasteurised liquid yolks instead - most major supermarkets stock them.
+- **Egg yolk freshness.** The egg yolk is whipped raw and served raw. Use the freshest free-range eggs you can find. If raw eggs are a concern (very young children, pregnant women, elderly), use pasteurised liquid yolks instead, most major supermarkets stock them.
 - **Strong coffee is essential.** Cà phê trứng depends on the contrast between bitter dark coffee and sweet eggy cream. Weak coffee gives a sweet, one-note drink.
 - **Whip the cream thick.** Under-whipped cream sinks into the coffee instead of floating. Properly whipped cream floats as a distinct thick layer.
 - **The hot water bath.** Setting the coffee glass in a bowl of hot water is the proper Hanoi serve. It keeps the drink warm without further heating (which would cook the egg yolk in the cream).

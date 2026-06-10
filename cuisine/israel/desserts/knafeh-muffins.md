@@ -43,7 +43,7 @@ Knafeh muffins are the individual portion version of the classical knafeh Nabuls
 ### Stage 1 - Make the syrup
 1. In a small pan, combine the sugar, water and lemon juice. Heat gently, stirring until the sugar dissolves, then bring to a steady simmer for 8-10 minutes until the syrup coats the back of a spoon with a faint thread.
 2. Take off the heat and stir in the rose water and orange-blossom water if using.
-3. Leave to cool to lukewarm - you want it warm but not hot when it meets the hot muffins, for the best soak. The temperature gap is key.
+3. Leave to cool to lukewarm, you want it warm but not hot when it meets the hot muffins, for the best soak. The temperature gap is key.
 
 ### Stage 2 - Prepare the kataifi
 1. Heat the oven to 190°C fan / 210°C / 410°F. Generously butter a 12-cup muffin tin.
@@ -52,16 +52,16 @@ Knafeh muffins are the individual portion version of the classical knafeh Nabuls
 
 ### Stage 3 - Mix the cheese
 1. In a wide bowl, combine the drained ricotta with the shredded mozzarella, sugar, cardamom and orange-blossom water. Mix with a fork until the cheeses are evenly distributed.
-2. The mixture should be soft and spoonable. Taste - if the mozzarella was salty, you may want a touch more sugar.
+2. The mixture should be soft and spoonable. Taste, if the mozzarella was salty, you may want a touch more sugar.
 
 ### Stage 4 - Assemble
 1. Press about 1 ½ tablespoons of the buttered kataifi into each muffin cup, pushing down firmly with the back of a measuring spoon to compact the base into a tight nest.
 2. Spoon a generous tablespoon of the cheese mixture on top of each, smoothing slightly with the back of the spoon so it sits level.
-3. Cover with another 1 ½ tablespoons of the kataifi, pressing the top gently - firm enough to hold, light enough that the surface stays open so it crisps.
+3. Cover with another 1 ½ tablespoons of the kataifi, pressing the top gently, firm enough to hold, light enough that the surface stays open so it crisps.
 
 ### Stage 5 - Bake
 1. Bake for 28-30 minutes until the tops are deep golden and the edges are visibly crisp. The cheese should be melted and bubbling at the edges.
-2. If the tops have set but are still pale, finish under a hot grill for 1-2 minutes - watch closely, kataifi goes from gold to scorched in seconds.
+2. If the tops have set but are still pale, finish under a hot grill for 1-2 minutes, watch closely, kataifi goes from gold to scorched in seconds.
 
 ### Stage 6 - Soak and finish
 1. As soon as the muffins come out of the oven, slowly pour or spoon the lukewarm syrup over each. They will hiss and drink it in.
@@ -70,11 +70,11 @@ Knafeh muffins are the individual portion version of the classical knafeh Nabuls
 
 ## Notes
 - Akkawi is the traditional cheese; a blend of ricotta and low-moisture mozzarella is the most accessible substitute and gives the right pull. If you can find a "knafeh cheese" blend at a Levantine grocer, use it.
-- The buttered kataifi is forgiving - a single layer of unpacked strands turns wispy and lacy; a packed layer turns dense and biscuit-like. Both work; muffin-tin baking suits the packed version slightly better.
+- The buttered kataifi is forgiving, a single layer of unpacked strands turns wispy and lacy; a packed layer turns dense and biscuit-like. Both work; muffin-tin baking suits the packed version slightly better.
 - For a vivid orange traditional knafeh nablusi look, add a pinch of red food colouring to the melted butter before tossing with the kataifi.
 
 ## Serving
 Two per person on a plate while warm, with the pistachios scattered fresh on top. Strong unsweetened coffee or mint tea on the side. The temperature contrast is the dish: hot pastry, warm syrup, cool cheese still pulling.
 
 ## Storage
-Best eaten the day they are made. Keep at room temperature, loosely covered, for 12 hours; reheat briefly in a 160°C oven for 5 minutes to refresh the crisp. Do not refrigerate - the cheese hardens and the kataifi softens.
+Best eaten the day they are made. Keep at room temperature, loosely covered, for 12 hours; reheat briefly in a 160°C oven for 5 minutes to refresh the crisp. Do not refrigerate, the cheese hardens and the kataifi softens.

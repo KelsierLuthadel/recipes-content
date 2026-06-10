@@ -42,7 +42,7 @@ Suqaar is the Somali stir-fry of tender beef cubes sautéed quickly with onion, 
 ### Stage 1 - Sear the beef
 1. Heat 2 tablespoons of oil in a wide pan over high heat.
 1. Pat the beef cubes dry; toss with a pinch of the salt.
-1. Sear in batches in a single layer for 60-90 seconds - they should brown on one side; lift out before they cook through.
+1. Sear in batches in a single layer for 60-90 seconds, they should brown on one side; lift out before they cook through.
 
 ### Stage 2 - Vegetables and spices
 1. Lower the heat to medium; add the remaining oil.
@@ -54,7 +54,7 @@ Suqaar is the Somali stir-fry of tender beef cubes sautéed quickly with onion, 
 1. Add the chopped tomatoes; cook 4 minutes until softening.
 1. Pour in the water; bring to a simmer.
 1. Return the beef and any juices; toss to coat.
-1. Cook 3-4 minutes more - the beef should be just cooked through, the sauce slightly reduced.
+1. Cook 3-4 minutes more, the beef should be just cooked through, the sauce slightly reduced.
 
 ### Stage 4 - Finish
 1. Stir in the butter to gloss the sauce.
@@ -66,7 +66,7 @@ Suqaar is the Somali stir-fry of tender beef cubes sautéed quickly with onion, 
 1. Top with remaining coriander; serve lime wedges alongside.
 
 ## Notes
-- **Tender cut, fast cook:** Sirloin or tenderloin cooked briefly is the goal. Tougher cuts (chuck, brisket) need a long braise - different dish (maraq).
+- **Tender cut, fast cook:** Sirloin or tenderloin cooked briefly is the goal. Tougher cuts (chuck, brisket) need a long braise, different dish (maraq).
 - **Xawaash:** The Somali spice mix is the dish's identity. The four spices listed approximate it; if you have ready-made xawaash, use 2 tablespoons in place of the spice list.
 - **Don't overcrowd the pan:** Beef cubes that crowd steam-cook instead of searing. Cook in 2-3 batches if needed.
 

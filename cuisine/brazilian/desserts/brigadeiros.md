@@ -46,7 +46,7 @@ Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political ca
 
 ### Stage 2 - Cook
 1. Place the pan over medium heat.
-2. Stir constantly with the wooden spoon - non-negotiable; the mixture burns very quickly otherwise.
+2. Stir constantly with the wooden spoon, non-negotiable; the mixture burns very quickly otherwise.
 3. After about 5 minutes, the mixture will start to bubble.
 4. Continue stirring for 10-15 minutes total cooking time.
 5. The mixture will gradually thicken; you'll see it pulling away from the sides and bottom of the pan as you stir.
@@ -98,12 +98,12 @@ Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political ca
 **Brigadeiro de pistache (pistachio):** use white chocolate + 80g ground pistachios. Roll in chopped pistachios.
 **Brigadeiro de coco (coconut):** use full-fat coconut milk instead of condensed milk + add 100g desiccated coconut. Roll in shredded coconut.
 **Brigadeiro com nozes (with nuts):** add 80 g chopped walnuts or hazelnuts to the cooking mixture. Roll in chopped same nuts.
-**Beijinho (the white version with coconut):** see [beijinhos recipe](beijinhos.md) - the traditional white sister.
+**Beijinho (the white version with coconut):** see [beijinhos recipe](beijinhos.md): the traditional white sister.
 **Brigadeiro de panela (the pan-eating version):** don't roll into balls; just eat warm from the pan with a spoon. The illicit Brazilian "I-eat-the-leftovers" version.
-**Black brigadeiro (modern):** add 20g of activated charcoal for visual drama - modern dessert-bar version.
+**Black brigadeiro (modern):** add 20g of activated charcoal for visual drama, modern dessert-bar version.
 
 ## Serving
-At every Brazilian birthday party (the traditional setting - never absent) · at a Brazilian wedding's dessert table · at a Brazilian Christmas dinner · at a Brazilian baby shower · at a Brazilian friends-meet-at-home gathering · at a Brazilian school bake-sale · at home as a quick weeknight treat · alongside coffee at a Brazilian café (the "brigadeiro-of-the-day" tradition).
+At every Brazilian birthday party (the traditional setting, never absent) · at a Brazilian wedding's dessert table · at a Brazilian Christmas dinner · at a Brazilian baby shower · at a Brazilian friends-meet-at-home gathering · at a Brazilian school bake-sale · at home as a quick weeknight treat · alongside coffee at a Brazilian café (the "brigadeiro-of-the-day" tradition).
 
 ## Storage
 - Refrigerates 1 week in a sealed container.

@@ -29,25 +29,25 @@ Arepas are the bread of Colombia and Venezuela, eaten three meals a day in count
 
 ### Stage 1 - Dough
 1. Whisk the maize flour and salt in a wide bowl.
-1. Pour in the warm water gradually, mixing with a wooden spoon, until the dough is the texture of soft mashed potato - moist but holding shape. Different brands of masarepa absorb differently; add water by tablespoons if dry.
+1. Pour in the warm water gradually, mixing with a wooden spoon, until the dough is the texture of soft mashed potato, moist but holding shape. Different brands of masarepa absorb differently; add water by tablespoons if dry.
 1. Cover with a damp tea towel; rest 5 minutes (lets the flour hydrate and the dough firm).
 
 ### Stage 2 - Add the cheese
-1. Knead the cheese into the dough thoroughly - work it in with your hands until the cheese is well distributed.
+1. Knead the cheese into the dough thoroughly, work it in with your hands until the cheese is well distributed.
 
 ### Stage 3 - Shape
 1. Divide the dough into 8 equal balls (about 100 g each).
 1. Flatten each ball between your palms into a disc about 1 cm thick and 9 cm across.
-1. Smooth any cracked edges with damp fingers - cracks open in the pan.
+1. Smooth any cracked edges with damp fingers, cracks open in the pan.
 
 ### Stage 4 - Cook
 1. Heat a heavy non-stick or cast-iron pan over medium heat.
-1. Lay the arepas in dry; cook 4-5 minutes per side until lightly speckled but no deep colour - this sets the surface.
+1. Lay the arepas in dry; cook 4-5 minutes per side until lightly speckled but no deep colour, this sets the surface.
 1. Brush both sides with melted butter.
 1. Continue cooking 2-3 more minutes per side until each is deep golden and crisp on the outside; the inside should be steamy and the cheese melted.
 
 ### Stage 5 - Serve
-1. Lift onto a plate; eat hot - split or whole, with extra butter, hogao or just on their own.
+1. Lift onto a plate; eat hot, split or whole, with extra butter, hogao or just on their own.
 
 ## Notes
 - **Masarepa, not cornmeal:** Masarepa is pre-cooked maize flour; ordinary cornmeal or polenta won't work. Look for "harina P.A.N." or similar at Latin grocers and increasingly in supermarket world food aisles.

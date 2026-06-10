@@ -80,7 +80,7 @@ King cake is the Mardi Gras cake of New Orleans, an enriched cinnamon-swirled ri
 1. Cool 15 minutes on the tray.
 
 ### Stage 7 - Hide the baby
-1. From underneath, push a small plastic baby (or substitute) into the dough. Don't bake the plastic - slip it in after baking.
+1. From underneath, push a small plastic baby (or substitute) into the dough. Don't bake the plastic, slip it in after baking.
 
 ### Stage 8 - Icing
 1. Whisk icing sugar with milk and vanilla to a thick pourable glaze.

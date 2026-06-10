@@ -38,7 +38,7 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 - Bavarian sweet mustard (Süssersenf; Händlmaier is the famous brand)
 - Butter (for spreading)
 - A stein of Bavarian lager (Helles)
-- Optional: a slice of Leberkäse (Bavarian meatloaf) for stuffing - see [Leberkäse recipe](leberkase.md)
+- Optional: a slice of Leberkäse (Bavarian meatloaf) for stuffing, see [Leberkäse recipe](leberkase.md)
 
 ## Method
 
@@ -77,9 +77,9 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 1. For the most authentic result, refrigerate the rested pretzels uncovered for 30-60 minutes (this dries the surface slightly; gives a better crust).
 
 ### Stage 7a - The lye bath (for purists; CAUTION - lye is dangerous)
-1. ONLY ATTEMPT WITH PROPER SAFETY GEAR - chemical gloves, safety goggles, well-ventilated kitchen.
-2. In a stainless-steel saucepan (NOT aluminium - it reacts), heat 1 litre water to about 70-80°C.
-3. SLOWLY add the food-grade lye to the water (NEVER water to lye - it can splash dangerously).
+1. ONLY ATTEMPT WITH PROPER SAFETY GEAR, chemical gloves, safety goggles, well-ventilated kitchen.
+2. In a stainless-steel saucepan (NOT aluminium, it reacts), heat 1 litre water to about 70-80°C.
+3. SLOWLY add the food-grade lye to the water (NEVER water to lye, it can splash dangerously).
 4. Stir gently with a wooden spoon.
 5. Once dissolved, briefly dip each pretzel in the lye bath (5 seconds maximum) using a slotted spoon.
 6. Lift out; place on a parchment-lined tray.
@@ -93,7 +93,7 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 
 ### Stage 8 - Salt and slash
 1. Sprinkle the wet pretzels generously with coarse rock salt.
-2. Optional: with a sharp knife or razor blade, make a 1 cm slash through the thickest part of the pretzel (the bottom curve) - this is the traditional Bavarian "Brezenschnitt" (pretzel cut), gives the characteristic split.
+2. Optional: with a sharp knife or razor blade, make a 1 cm slash through the thickest part of the pretzel (the bottom curve): this is the traditional Bavarian "Brezenschnitt" (pretzel cut), gives the characteristic split.
 
 ### Stage 9 - Bake
 1. Preheat oven to 220°C / 200°C fan / 425°F.
@@ -114,14 +114,14 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 - **Serve warm:** pretzels are at their peak warm from the oven. Cold pretzels can be refreshed by 5 minutes in a 180°C oven.
 
 ## Variations
-**Brezel with sesame seeds (Vienna style):** sprinkle sesame seeds instead of salt - Austrian variant.
-**Pretzel sticks (Pretzel Stangen):** shape the dough into long thin sticks instead of pretzels - beer-garden snack version.
-**Mini pretzels (Brezelchen):** make small bite-sized pretzels (40 g each) - perfect for parties.
-**Sweet pretzels (with pearl sugar):** brush with butter after baking; sprinkle pearl sugar - sweet variant.
-**Cinnamon-sugar pretzels:** dust with cinnamon-sugar after baking - modern dessert variant.
-**Pretzel rolls (Brezelbrötchen):** shape the dough into rolls instead of pretzels - the famous pretzel sandwich roll.
-**Stuffed pretzel (Leberkäs Brezel):** sandwich slices of Leberkäse between two pretzel halves with mustard - Munich street food.
-**Pretzel with cheese filling:** stuff with grated cheese before baking - modern variant.
+**Brezel with sesame seeds (Vienna style):** sprinkle sesame seeds instead of salt, Austrian variant.
+**Pretzel sticks (Pretzel Stangen):** shape the dough into long thin sticks instead of pretzels, beer-garden snack version.
+**Mini pretzels (Brezelchen):** make small bite-sized pretzels (40 g each): perfect for parties.
+**Sweet pretzels (with pearl sugar):** brush with butter after baking; sprinkle pearl sugar, sweet variant.
+**Cinnamon-sugar pretzels:** dust with cinnamon-sugar after baking, modern dessert variant.
+**Pretzel rolls (Brezelbrötchen):** shape the dough into rolls instead of pretzels, the famous pretzel sandwich roll.
+**Stuffed pretzel (Leberkäs Brezel):** sandwich slices of Leberkäse between two pretzel halves with mustard, Munich street food.
+**Pretzel with cheese filling:** stuff with grated cheese before baking, modern variant.
 
 ## Serving
 At a Munich beer garden with a stein of Helles (the traditional setting) · at Oktoberfest · at a Bavarian Hofbräuhaus · at a Berlin breakfast café · at a German bakery counter on Sunday morning · at a German Christmas market · at a German wedding canapé reception · at home for a Bavarian-themed dinner party.

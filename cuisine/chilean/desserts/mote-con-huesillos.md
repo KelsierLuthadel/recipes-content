@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour (plus chilling)
 
 ## Overview
-Chile's summer drink-dessert, the cold glass that street vendors carry across Santiago in heatwaves and that arrives on every patio table in January. You soak dried peaches overnight to soften them, then simmer with sugar, cinnamon and cloves into a deep amber syrup. Husked wheat (mote, or pearled wheat as a substitute) cooks separately in plain water until tender. Both chill thoroughly. Served in tall glasses with a big spoonful of cooked wheat at the bottom, two peach halves balanced on top, and the cold spiced syrup poured over. You drink it first - the syrup is the reward of a hot afternoon - then spoon up the soft peaches and the wheat at the bottom. A summer ritual.
+Chile's summer drink-dessert, the cold glass that street vendors carry across Santiago in heatwaves and that arrives on every patio table in January. You soak dried peaches overnight to soften them, then simmer with sugar, cinnamon and cloves into a deep amber syrup. Husked wheat (mote, or pearled wheat as a substitute) cooks separately in plain water until tender. Both chill thoroughly. Served in tall glasses with a big spoonful of cooked wheat at the bottom, two peach halves balanced on top, and the cold spiced syrup poured over. You drink it first, the syrup is the reward of a hot afternoon, then spoon up the soft peaches and the wheat at the bottom. A summer ritual.
 
 ## Ingredients
 
@@ -38,7 +38,7 @@ Chile's summer drink-dessert, the cold glass that street vendors carry across Sa
 ### Stage 2 - Cook the peaches
 1. Tip the peaches and their soaking water into a heavy pan.
 1. Add the sugar, cinnamon, cloves, orange peel and lemon juice.
-1. Bring to a simmer; reduce to lowest heat; cook 50-60 minutes uncovered until the peaches are very tender and the syrup has darkened to deep amber. Top up with water if it reduces too far - you want plenty of syrup.
+1. Bring to a simmer; reduce to lowest heat; cook 50-60 minutes uncovered until the peaches are very tender and the syrup has darkened to deep amber. Top up with water if it reduces too far, you want plenty of syrup.
 1. Cool fully; refrigerate at least 4 hours, ideally overnight.
 
 ### Stage 3 - Cook the mote
@@ -50,13 +50,13 @@ Chile's summer drink-dessert, the cold glass that street vendors carry across Sa
 ### Stage 4 - Serve
 1. Place 3-4 tablespoons of cooked mote in the bottom of each tall glass.
 1. Add 2 peach halves per glass.
-1. Pour cold syrup generously over - it should fill the glass.
+1. Pour cold syrup generously over, it should fill the glass.
 1. Serve cold with a long spoon.
 
 ## Notes
-- **Husked wheat (mote):** The proper grain is mote pelado, husked wheat sold at Andean grocers. Pearled wheat is the closest supermarket substitute. Don't use bulgur - wrong texture.
+- **Husked wheat (mote):** The proper grain is mote pelado, husked wheat sold at Andean grocers. Pearled wheat is the closest supermarket substitute. Don't use bulgur, wrong texture.
 - **Don't sweeten further:** The syrup carries enough sugar already. Tasting it on its own may seem light; in the glass with mote and peach, it balances out.
 - **Serve in tall glasses:** Mote con huesillos is meant to be drunk and spooned. Wide bowls don't work; a clear tall glass is the proper vessel.
 
 ## Storage
-- Both components keep 5 days separately refrigerated. Don't combine until serving - the wheat absorbs syrup and the proportions go off.
+- Both components keep 5 days separately refrigerated. Don't combine until serving, the wheat absorbs syrup and the proportions go off.

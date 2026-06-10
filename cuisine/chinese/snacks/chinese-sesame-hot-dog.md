@@ -2,7 +2,7 @@
 
 ![Chinese Sesame Hot Dog](resources/chinese-sesame-hot-dog.jpg)
 
-*Chinese-bakery hot dog roll: a hot dog wrapped in a soft slightly-sweet milk bread dough, brushed with egg wash, sprinkled with sesame seeds, and baked till the dough is golden and the dog is heated through inside. The 7-11 Asia and Chinese-bakery counter staple - a hand-held warm snack of bread and sausage in one.*
+*Chinese-bakery hot dog roll: a hot dog wrapped in a soft slightly-sweet milk bread dough, brushed with egg wash, sprinkled with sesame seeds, and baked till the dough is golden and the dog is heated through inside. The 7-11 Asia and Chinese-bakery counter staple, a hand-held warm snack of bread and sausage in one.*
 
 **Serves:** Makes 8 hot dog buns
 
@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-The Chinese sesame hot dog bun (often called "hot dog bao" or just "hot dog bread" on Chinese-bakery menus) is a fixture of Chinese bakeries across mainland China, Hong Kong, Taiwan and the diaspora (Tai Pan Bakery in Hong Kong, 85°C Bakery Café in Taiwan, the countless Chinatown bakeries in San Francisco and New York all sell their version): a hot dog wrapped entirely in a soft slightly-sweet enriched milk bread dough (very similar to Japanese shokupan or Hong Kong-style cocktail bun dough - flour, milk, sugar, butter, egg, yeast, salt), shaped either as a spiral wrap around the dog or as a fully enclosed elongated bun, brushed with egg wash, generously sprinkled with white (and optionally black) sesame seeds, and baked till the dough turns deep golden brown and the dog inside is heated through. Eat with the hands as a warm portable snack - the bread enclosure means no need for utensils or plates.
+The Chinese sesame hot dog bun (often called "hot dog bao" or just "hot dog bread" on Chinese-bakery menus) is a fixture of Chinese bakeries across mainland China, Hong Kong, Taiwan and the diaspora (Tai Pan Bakery in Hong Kong, 85°C Bakery Café in Taiwan, the countless Chinatown bakeries in San Francisco and New York all sell their version): a hot dog wrapped entirely in a soft slightly-sweet enriched milk bread dough (very similar to Japanese shokupan or Hong Kong-style cocktail bun dough, flour, milk, sugar, butter, egg, yeast, salt), shaped either as a spiral wrap around the dog or as a fully enclosed elongated bun, brushed with egg wash, generously sprinkled with white (and optionally black) sesame seeds, and baked till the dough turns deep golden brown and the dog inside is heated through. Eat with the hands as a warm portable snack, the bread enclosure means no need for utensils or plates.
 
 ## Ingredients
 

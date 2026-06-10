@@ -34,7 +34,7 @@ A Burmese aubergine dish, the kind of thing that turns up on a weekday table nex
 
 ### Stage 1 - Salt the aubergine
 1. Toss cubed aubergine with salt in a colander; set over the sink.
-1. Leave 20 minutes - water will drip out.
+1. Leave 20 minutes, water will drip out.
 1. Squeeze handfuls hard over the sink to remove more water. Pat dry.
 
 ### Stage 2 - Fry aubergine
@@ -67,4 +67,4 @@ A Burmese aubergine dish, the kind of thing that turns up on a weekday table nex
 
 ## Storage
 - Refrigerate 3 days; reheats well.
-- Add peanuts and fresh garnish fresh - the topping goes soft in storage.
+- Add peanuts and fresh garnish fresh, the topping goes soft in storage.

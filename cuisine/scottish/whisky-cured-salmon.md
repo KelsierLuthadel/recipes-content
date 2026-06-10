@@ -16,7 +16,7 @@ Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-c
 ## Ingredients
 
 ### For one whole side of salmon (1.2 kg)
-- 1 side of Scottish salmon (1.2 kg, skin on, pinboned) - farmed loch-reared or wild
+- 1 side of Scottish salmon (1.2 kg, skin on, pinboned): farmed loch-reared or wild
 - 200 g coarse sea salt
 - 200 g caster sugar
 - 1 large bunch of fresh dill (about 50 g, finely chopped)
@@ -115,10 +115,10 @@ Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-c
 ## Variations
 **Beetroot-cured:** add 300 g grated raw beetroot to the cure for stunning pink/purple colour and earthy sweetness.
 **Gin-and-juniper instead of whisky:** swap the whisky for Scottish gin (Hendrick's, Edinburgh Gin) + extra juniper berries.
-**Heather-honey-cured:** swap half the sugar for Scottish heather honey - sweeter, more floral.
-**Whisky-cure-then-hot-smoke combo:** do the full cure, dry, then hot-smoke (best of both - firm-cured AND smoke-finished).
+**Heather-honey-cured:** swap half the sugar for Scottish heather honey, sweeter, more floral.
+**Whisky-cure-then-hot-smoke combo:** do the full cure, dry, then hot-smoke (best of both, firm-cured AND smoke-finished).
 **Citrus-heavy:** add orange zest + lime zest to the cure for a citrus-bright version.
-**Vodka-cured (Scandinavian):** swap whisky for vodka - closer to traditional gravlax.
+**Vodka-cured (Scandinavian):** swap whisky for vodka, closer to traditional gravlax.
 
 ## Serving
 At a Hogmanay buffet (the traditional setting) · on Christmas morning with blinis and champagne · at a Scottish wedding breakfast · at a Burns Night supper as a starter · at any Scottish gastropub on Easter Sunday · on the breakfast trolley at a Highland hotel · at home for a New Year's Day brunch.

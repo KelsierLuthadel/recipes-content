@@ -19,7 +19,7 @@ Nigeria's peppery clear broth: the dish that turns up as a head-cold cure, a Fri
 - 1 onion (large, chopped)
 - 6 garlic cloves (crushed)
 - 1 large thumb fresh ginger (grated)
-- 2 scotch bonnet chillies (whole, pierced - or chopped for extra heat)
+- 2 scotch bonnet chillies (whole, pierced, or chopped for extra heat)
 - 2 tablespoons pepper-soup spice mix (or substitute: 1 tsp ground nutmeg + 1 tsp ground allspice + 1 tsp ground black pepper + 1 tsp ground white pepper + 1 tsp dried thyme + ½ tsp ground cloves)
 - 2 tablespoons crayfish (ground dried shrimp)
 - 1 tablespoon palm oil (optional but traditional)

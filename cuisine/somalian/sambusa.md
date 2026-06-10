@@ -33,7 +33,7 @@ Sambusa is Somalia's triangular fried pastry, the snack you find on every iftar 
 - A small bunch of coriander (chopped)
 
 ### Wrappers and frying
-- 16 spring roll wrappers (22 cm; cut diagonally in half - you want triangles)
+- 16 spring roll wrappers (22 cm; cut diagonally in half, you want triangles)
 - 4 tablespoons plain flour mixed with 4 tablespoons water (sealing paste)
 - Vegetable oil for deep-frying
 
@@ -50,13 +50,13 @@ Sambusa is Somalia's triangular fried pastry, the snack you find on every iftar 
 1. Stir in all the spices and salt; cook 1 minute.
 1. Add the lentils and peas; cook 2-3 minutes until the mixture is dry-ish.
 1. Off the heat, stir in the fresh coriander.
-1. Cool fully before filling - warm filling tears the wrappers.
+1. Cool fully before filling, warm filling tears the wrappers.
 
 ### Stage 3 - Fold
 1. Cut spring roll wrappers diagonally to make triangles.
 1. Take one triangle; fold one corner over to make a cone shape; seal the seam with paste.
 1. Spoon a tablespoon of filling into the cone.
-1. Fold the open edge down over itself; seal closed with paste - making a tidy triangle.
+1. Fold the open edge down over itself; seal closed with paste, making a tidy triangle.
 1. Repeat for all wrappers; cover finished sambusas with a damp cloth.
 
 ### Stage 4 - Fry

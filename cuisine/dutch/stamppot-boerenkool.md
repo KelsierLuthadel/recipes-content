@@ -34,9 +34,9 @@ Stamppot is the traditional Dutch one-pot winter dinner, and stamppot boerenkool
 - A small grind of black pepper
 
 ### Optional additions
-- 150 g smoked streaky bacon, cut into lardons (sweated separately and folded in at the end) - the more substantial version
-- 1 small onion, finely chopped (sweated with the bacon) - traditional
-- 50 g grated mature cheese (oude kaas / aged Gouda) folded in at the end - the Friesland variant
+- 150 g smoked streaky bacon, cut into lardons (sweated separately and folded in at the end): the more substantial version
+- 1 small onion, finely chopped (sweated with the bacon): traditional
+- 50 g grated mature cheese (oude kaas / aged Gouda) folded in at the end, the Friesland variant
 
 ### To serve
 - Strong Dutch mustard on the side
@@ -58,7 +58,7 @@ Stamppot is the traditional Dutch one-pot winter dinner, and stamppot boerenkool
 4. Cook 12 minutes.
 
 ### Stage 3 - Add the kale (and the sausage if poaching whole)
-1. Add the shredded kale on top of the potatoes (don't stir yet - let it sit on top and steam down).
+1. Add the shredded kale on top of the potatoes (don't stir yet, let it sit on top and steam down).
 2. If poaching the rookworst, slip the whole sausages in at this point too.
 3. Cover with a lid; cook 10 more minutes.
 4. Stir gently to combine the wilted kale with the potatoes.
@@ -77,7 +77,7 @@ Stamppot is the traditional Dutch one-pot winter dinner, and stamppot boerenkool
 2. Return the empty pot to the hob for 1 minute to evaporate any moisture.
 3. Tip the drained mixture back into the pot.
 4. Add the butter, warm milk, salt, pepper and grated nutmeg.
-5. With a sturdy potato masher or a fork, crush coarsely - visible chunks of potato and kale should remain. Don't smooth into a purée.
+5. With a sturdy potato masher or a fork, crush coarsely, visible chunks of potato and kale should remain. Don't smooth into a purée.
 6. (If using bacon and onion: fold in now along with the rendered bacon fat.)
 7. Taste and adjust seasoning.
 
@@ -115,8 +115,8 @@ Stamppot is the traditional Dutch one-pot winter dinner, and stamppot boerenkool
 **Boerenkool-met-spek (bacon-rich version):** double the bacon; fold in extra crispy bacon and a handful of fried onion shreds at the end.
 **Vegetarian stamppot:** skip the sausage and bacon; use vegetable stock; serve with a fried egg on top.
 **Stamppot with apple-pear compote:** the rural Friesland variant; serve the stamppot with a side of warm spiced apple-and-pear compote.
-**Modern Amsterdam restaurant variant:** present in a wide bowl with a quenelle of stamppot, the sausage sliced into rounds and seared on one side, the jus drizzled artfully - same flavours, different plating.
-**Stamppot with smoked salmon (modern):** swap the rookworst for a generous slice of hot-smoked salmon - the modern Dutch healthy-week variant.
+**Modern Amsterdam restaurant variant:** present in a wide bowl with a quenelle of stamppot, the sausage sliced into rounds and seared on one side, the jus drizzled artfully, same flavours, different plating.
+**Stamppot with smoked salmon (modern):** swap the rookworst for a generous slice of hot-smoked salmon, the modern Dutch healthy-week variant.
 
 ## Serving
 At a Dutch family Sunday dinner (the traditional setting, from October to March) · at a Dutch farm-kitchen at the end of a cold workday · at a Friesland or Drenthe pub on a winter evening · at a Dutch Christmas Eve meal · at a Dutch student-residence house dinner · at home as the traditional winter restorative.

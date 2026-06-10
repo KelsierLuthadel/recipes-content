@@ -15,7 +15,7 @@ Green beans almondine (haricots verts amandine) is the classic French side dish 
 
 ## Ingredients
 
-- 500 g fresh green beans (haricots verts if you can find them - thinner and more elegant than ordinary green beans)
+- 500 g fresh green beans (haricots verts if you can find them, thinner and more elegant than ordinary green beans)
 - 2 tablespoons salt (for the blanching water)
 - 60 g unsalted butter
 - 50 g flaked (or sliced almonds)
@@ -35,22 +35,22 @@ Green beans almondine (haricots verts amandine) is the classic French side dish 
 
 ### Stage 2 - Blanch
 1. Bring a wide pot of water to a hard boil with the 2 tablespoons salt.
-1. Add the beans; cook 3-4 minutes - the beans should be just tender with a slight bite, vibrant green.
+1. Add the beans; cook 3-4 minutes, the beans should be just tender with a slight bite, vibrant green.
 1. Drain through a sieve.
-1. If serving immediately, do NOT refresh - keep them hot.
+1. If serving immediately, do NOT refresh, keep them hot.
 1. If making ahead, drop into a bowl of ice water for 30 seconds to stop cooking; drain again; pat dry. They'll need 60 seconds in the pan in Stage 4 to warm through.
 
 ### Stage 3 - Brown the butter with almonds
 1. Heat a wide non-stick frying pan or sauté pan over medium heat.
 1. Add the butter; let it melt.
 1. Add the flaked almonds.
-1. Cook 3-4 minutes, stirring frequently, until BOTH the butter and the almonds have turned amber-gold (the butter foams, then settles, and brown sediment forms at the base - this is beurre noisette / hazelnut butter; the almonds turn from pale to golden to deep amber alongside).
+1. Cook 3-4 minutes, stirring frequently, until BOTH the butter and the almonds have turned amber-gold (the butter foams, then settles, and brown sediment forms at the base, this is beurre noisette / hazelnut butter; the almonds turn from pale to golden to deep amber alongside).
 1. Watch closely; brown butter goes from gold to burnt in 30 seconds.
 
 ### Stage 4 - Toss
 1. Add the optional garlic; stir 30 seconds (don't brown).
 1. Add the drained green beans (still warm if just-blanched; cold if refreshed) to the brown butter pan.
-1. Toss vigorously over high heat for 60-90 seconds - the beans should glisten with butter and pick up some almonds.
+1. Toss vigorously over high heat for 60-90 seconds, the beans should glisten with butter and pick up some almonds.
 1. If using Dijon mustard, add at this stage; stir to coat.
 
 ### Stage 5 - Finish

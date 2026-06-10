@@ -34,7 +34,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 
 ### To serve
 - Spooned alongside sticky rice, sai oua, grilled meat, raw vegetables, steamed greens.
-- Spread on toast or used as a sandwich condiment - the modern Lao kitchen variant.
+- Spread on toast or used as a sandwich condiment, the modern Lao kitchen variant.
 
 ## Method
 
@@ -73,7 +73,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 
 ## Notes
 - **Deep-roast is essential:** under-roasted aromatics give a sharp, raw-tasting paste.
-- **Dried meat (or crackling):** the traditional Lao signature - skip and the paste is missing its identity.
+- **Dried meat (or crackling):** the traditional Lao signature, skip and the paste is missing its identity.
 - **Mortar pounding gives the traditional texture:** a food processor gives a smoother paste; the mortar gives a coarse-rustic texture that's more Lao.
 - **Adjust to taste:** palm sugar, fish sauce, lime are all adjustable; the balance is the cook's signature.
 - **Cook briefly:** the traditional Luang Prabang move deepens the flavour. Skip if you want a fresher taste.
@@ -82,14 +82,14 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 **Vegetarian jeow bong:** skip the meat and fish sauce; use soy sauce + a teaspoon of doenjang for umami depth.
 **Spicier jeow bong:** double the dried chillies for the heat-lovers.
 **Sweeter jeow bong:** double the palm sugar for the modern variant.
-**Jeow bong with sesame seeds:** add 2 tablespoons toasted sesame seeds at the end - the modern variant.
-**Smoky jeow bong:** add 1 teaspoon liquid smoke or smoked paprika - the modern variant.
+**Jeow bong with sesame seeds:** add 2 tablespoons toasted sesame seeds at the end, the modern variant.
+**Smoky jeow bong:** add 1 teaspoon liquid smoke or smoked paprika, the modern variant.
 
 ## Serving
-At a Luang Prabang night market (the traditional setting; sold in small jars at the herb-and-spice stalls) · at every Lao home as the traditional condiment · alongside sticky rice + grilled meat + raw vegetables - the traditional Lao plate · in modern Lao-influenced cooking as a sandwich spread or a marinade base · paired with sai oua, laap, or grilled fish.
+At a Luang Prabang night market (the traditional setting; sold in small jars at the herb-and-spice stalls) · at every Lao home as the traditional condiment · alongside sticky rice + grilled meat + raw vegetables, the traditional Lao plate · in modern Lao-influenced cooking as a sandwich spread or a marinade base · paired with sai oua, laap, or grilled fish.
 
 ## Storage
 - Refrigerates 1 month in a clean sealed jar; the flavour deepens further over 2-3 weeks.
 - Freezes 6 months in small portions.
 - The oil layer on top prevents oxidation; top up with a thin layer of oil if you see darkening.
-- Don't keep at room temperature for more than a few hours - the moisture allows bacterial growth.
+- Don't keep at room temperature for more than a few hours, the moisture allows bacterial growth.

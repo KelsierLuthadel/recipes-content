@@ -2,7 +2,7 @@
 
 ![Patacones](resources/patacones.jpg)
 
-*Twice-fried green plantain rounds - sliced thick, fried, smashed flat, fried again, salted hard. Crisp outside, starchy-soft inside, served as a side, a vehicle for shrimp ceviche, or topped with hogao. Different to ripe-plantain tajadas (sweet); patacones are savoury, crunchy, salty.*
+*Twice-fried green plantain rounds, sliced thick, fried, smashed flat, fried again, salted hard. Crisp outside, starchy-soft inside, served as a side, a vehicle for shrimp ceviche, or topped with hogao. Different to ripe-plantain tajadas (sweet); patacones are savoury, crunchy, salty.*
 
 **Serves:** 4 as a side
 
@@ -50,7 +50,7 @@ Patacones are the twice-fried green plantain rounds that turn up on plates acros
 ## Notes
 - **Truly green plantains:** Skin should be solidly green. Yellow / spotted plantains turn sweet and won't crisp.
 - **Smash thin enough:** 8 mm is right. Thicker stays starchy; thinner breaks apart.
-- **Salt-water dip:** Optional but improves the crunch. Don't soak - a 1-second dip.
+- **Salt-water dip:** Optional but improves the crunch. Don't soak, a 1-second dip.
 
 ## Storage
 - Eat immediately. Cooked patacones go soft within an hour.

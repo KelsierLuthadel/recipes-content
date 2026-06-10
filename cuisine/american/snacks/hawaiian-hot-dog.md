@@ -50,7 +50,7 @@ The Hawaiian hot dog is the islands' distinctive take on the American hot dog, b
 4. Stir in salt; cool slightly.
 
 ### Stage 2 - Tunnel the bread
-1. The classic Hawaiian hot dog uses a roll with a tunnel - not split open like a standard hot dog bun.
+1. The classic Hawaiian hot dog uses a roll with a tunnel, not split open like a standard hot dog bun.
 2. Take a King's Hawaiian sweet bread roll; with a long thin knife or chopstick, punch a tunnel through the centre of the roll along its long axis.
 3. Wiggle the knife/chopstick to widen the tunnel slightly so a dog can slide in.
 4. Alternative: split open like a standard bun if you can't find Hawaiian rolls.

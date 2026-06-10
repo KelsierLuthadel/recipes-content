@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Agurkesalat (Danish cucumber salad) is the traditional lighter side dish that turns up on every Danish dinner table - alongside frikadeller, stegt flæsk, julestege, smørrebrød herring, or anything where the meat-and-potato richness needs a bright cool counterpoint. The construction is essentially a quick pickle: paper-thin cucumber slices (mandoline ideal) salted briefly to draw out water, drained, then steeped in a 1:2:3 vinegar-sugar-water brine (the same Scandinavian traditional ratio used for inlagd sill and Swedish pressgurka - see [pressgurka recipe](../../swedish/side-dishes/pressgurka.md) for the Swedish cousin) with a generous handful of chopped fresh dill, sometimes with thinly sliced red onion, sometimes with a touch of mustard seed. Unlike the Swedish pressgurka, the Danish version doesn't press the cucumber under weights - it's a quicker version that brines in 20 minutes.
+Agurkesalat (Danish cucumber salad) is the traditional lighter side dish that turns up on every Danish dinner table, alongside frikadeller, stegt flæsk, julestege, smørrebrød herring, or anything where the meat-and-potato richness needs a bright cool counterpoint. The construction is essentially a quick pickle: paper-thin cucumber slices (mandoline ideal) salted briefly to draw out water, drained, then steeped in a 1:2:3 vinegar-sugar-water brine (the same Scandinavian traditional ratio used for inlagd sill and Swedish pressgurka, see [pressgurka recipe](../../swedish/side-dishes/pressgurka.md) for the Swedish cousin) with a generous handful of chopped fresh dill, sometimes with thinly sliced red onion, sometimes with a touch of mustard seed. Unlike the Swedish pressgurka, the Danish version doesn't press the cucumber under weights, it's a quicker version that brines in 20 minutes.
 
 ## Ingredients
 
@@ -46,7 +46,7 @@ Agurkesalat (Danish cucumber salad) is the traditional lighter side dish that tu
 ### Stage 2 - Salt and draw out water
 1. Place the slices in a colander set over a bowl.
 2. Sprinkle the salt evenly between the layers.
-3. Let stand 10 minutes - water will drip into the bowl below.
+3. Let stand 10 minutes, water will drip into the bowl below.
 4. Gently squeeze the cucumber slices with your hands or pat dry with a clean kitchen towel.
 5. (The Swedish pressgurka uses a heavier press for 30 min; the Danish agurkesalat is quicker.)
 

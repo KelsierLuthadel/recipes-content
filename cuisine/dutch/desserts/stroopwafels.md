@@ -36,10 +36,10 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 - A small pinch of fine sea salt
 
 ### Equipment
-- A pizzelle iron (the traditional Italian/Dutch pizzelle iron; available online from kitchen-equipment specialists) - OR a sandwich press / panini grill at a pinch
+- A pizzelle iron (the traditional Italian/Dutch pizzelle iron; available online from kitchen-equipment specialists): OR a sandwich press / panini grill at a pinch
 - A sugar thermometer
 - A long sharp knife OR a slicer
-- A round 9-10 cm cookie cutter (optional - some pizzelle irons give a perfect round, others give a more rectangular wafel that needs trimming)
+- A round 9-10 cm cookie cutter (optional, some pizzelle irons give a perfect round, others give a more rectangular wafel that needs trimming)
 
 ## Method
 
@@ -53,7 +53,7 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 
 ### Stage 2 - First rise
 1. Cover the bowl with cling film.
-2. Let rise at warm room temperature 45 minutes - this is a SHORT rise (a true brioche-style long rise is too risen; a 45-minute rise is the traditional stroopwafel timing).
+2. Let rise at warm room temperature 45 minutes, this is a SHORT rise (a true brioche-style long rise is too risen; a 45-minute rise is the traditional stroopwafel timing).
 3. The dough will roughly double in size.
 
 ### Stage 3 - Make the stroop (caramel) filling
@@ -87,12 +87,12 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 5. (Optional: use a 9-10 cm round cookie cutter to trim each wafel into a perfect round if your iron didn't give one.)
 
 ### Stage 8 - Fill and sandwich
-1. While the two halves are still warm, spread a generous tablespoon of warm stroop (caramel) on the bottom half - cover the entire surface, edge to edge.
+1. While the two halves are still warm, spread a generous tablespoon of warm stroop (caramel) on the bottom half, cover the entire surface, edge to edge.
 2. Press the top half back on, embossed-pattern facing up.
 3. Set on a wire rack to cool.
 
 ### Stage 9 - Repeat with the rest of the dough
-1. Work in batches - cook one wafel at a time, slice it, fill it, sandwich it before moving on.
+1. Work in batches, cook one wafel at a time, slice it, fill it, sandwich it before moving on.
 2. The stroop in the saucepan can cool slightly between use; warm gently over low heat if it firms up.
 
 ### Stage 10 - Serve
@@ -105,16 +105,16 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 - **Slice while warm:** the 30-45 second window is critical. Cold wafels crack; warm ones split cleanly.
 - **Soft-ball stage (115°C):** the traditional stroop temperature. Too cool and the syrup stays runny and the assembled stroopwafel falls apart; too hot and the syrup goes brittle.
 - **Fresh-from-the-iron is dramatically better:** the supermarket pre-packed versions (Daelmans, Lotus) are good but the home-baked version is on another level.
-- **The coffee-mug trick:** the classic Dutch presentation. The steam from the hot coffee softens the caramel inside the stroopwafel. Don't skip - it's part of the experience.
+- **The coffee-mug trick:** the classic Dutch presentation. The steam from the hot coffee softens the caramel inside the stroopwafel. Don't skip, it's part of the experience.
 
 ## Variations
-**Chocolate stroopwafels:** dip half the assembled stroopwafel in melted dark chocolate; let set on parchment - the modern Dutch tea-room variant.
-**Caramel-and-salted stroopwafels:** add 1/2 teaspoon of fleur de sel to the stroop - the modern sweet-salt variant.
-**Spice-heavy stroopwafels:** double the cinnamon; add 1 teaspoon ground ginger and 1/4 teaspoon ground cloves to the dough - the speculoos-stroopwafel hybrid.
-**Honey stroopwafels:** swap half the golden syrup for honey - more floral, less molasses.
-**Maple stroopwafels:** swap the dark muscovado sugar for 200 g dark maple syrup + 50 g brown sugar - a Dutch-Canadian crossover.
-**Smaller stroopwafels (mini):** divide the dough into 24 portions; cook in smaller pizzelle iron - the canapé / tea-time variant.
-**Stroopwafel ice-cream sandwich:** sandwich vanilla ice cream between 2 stroopwafels; freeze - the modern Dutch dessert.
+**Chocolate stroopwafels:** dip half the assembled stroopwafel in melted dark chocolate; let set on parchment, the modern Dutch tea-room variant.
+**Caramel-and-salted stroopwafels:** add 1/2 teaspoon of fleur de sel to the stroop, the modern sweet-salt variant.
+**Spice-heavy stroopwafels:** double the cinnamon; add 1 teaspoon ground ginger and 1/4 teaspoon ground cloves to the dough, the speculoos-stroopwafel hybrid.
+**Honey stroopwafels:** swap half the golden syrup for honey, more floral, less molasses.
+**Maple stroopwafels:** swap the dark muscovado sugar for 200 g dark maple syrup + 50 g brown sugar, a Dutch-Canadian crossover.
+**Smaller stroopwafels (mini):** divide the dough into 24 portions; cook in smaller pizzelle iron, the canapé / tea-time variant.
+**Stroopwafel ice-cream sandwich:** sandwich vanilla ice cream between 2 stroopwafels; freeze, the modern Dutch dessert.
 **Vegan stroopwafels:** swap egg for 2 tablespoons aquafaba; butter for vegan block butter; milk for oat milk.
 
 ## Serving
@@ -122,9 +122,9 @@ At a Gouda market stall (the traditional setting; freshly made every Wednesday a
 
 ## Storage
 - Best within 24 hours of making, while the caramel is still soft.
-- Stores 5 days at cool room temperature in an airtight container - the caramel firms slightly but is still good.
-- Don't refrigerate - the cold makes the caramel rock-hard.
+- Stores 5 days at cool room temperature in an airtight container, the caramel firms slightly but is still good.
+- Don't refrigerate, the cold makes the caramel rock-hard.
 - The stroopwafels can be revived by placing on top of a mug of hot coffee or tea for 30 seconds, or by microwaving for 5 seconds.
 - Freezes 3 months wrapped in pairs; defrost at room temperature 20 minutes.
 - The dough (raw, after the first rise) refrigerates 24 hours; bring to room temperature for 30 minutes before shaping.
-- Pre-made (commercial) stroopwafels keep months in a sealed bag - convenient, but never as good as fresh.
+- Pre-made (commercial) stroopwafels keep months in a sealed bag, convenient, but never as good as fresh.

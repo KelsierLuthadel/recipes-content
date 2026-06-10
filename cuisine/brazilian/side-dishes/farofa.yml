@@ -54,19 +54,19 @@ ingredients:
     name: cracked black pepper
     raw: ½ teaspoon coarsely cracked black pepper
   - qty: 2
-    name: hard-boiled eggs - adds richness
-    raw: 2 hard-boiled eggs - adds richness
+    name: "hard-boiled eggs : adds richness"
+    raw: "2 hard-boiled eggs : adds richness"
   - qty: 1
-    name: banana - adds sweet contrast
-    raw: 1 ripe banana - adds sweet contrast
+    name: "banana : adds sweet contrast"
+    raw: "1 ripe banana : adds sweet contrast"
   - qty: 30
     unit: g
-    name: raisins or chopped dried apricots - sweet variant
-    raw: 30 g raisins or chopped dried apricots - sweet variant
+    name: raisins or chopped dried apricots
+    raw: 30 g raisins or chopped dried apricots, sweet variant
   - qty: 50
     unit: g
-    name: green olives - savoury variant
-    raw: 50 g chopped green olives - savoury variant
+    name: green olives
+    raw: 50 g chopped green olives, savoury variant
   - qty: 1
     unit: small handful
     name: parsley

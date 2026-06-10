@@ -2,7 +2,7 @@
 
 ![Black Bean Salad](resources/black-bean-salad.jpg)
 
-*The Southwest's vibrant bean salad: black beans tossed with corn, red bell pepper, red onion, jalapeño, fresh coriander, lime juice, olive oil and cumin. The Southwest-style cold salad - fresh, vegetarian, the traditional potluck side.*
+*The Southwest's vibrant bean salad: black beans tossed with corn, red bell pepper, red onion, jalapeño, fresh coriander, lime juice, olive oil and cumin. The Southwest-style cold salad, fresh, vegetarian, the traditional potluck side.*
 
 **Serves:** 6
 

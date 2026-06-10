@@ -5,7 +5,7 @@
 *Most spices play well with each other; a small number clash; a smaller number anchor a dish on their own. Learning the workhorse pairings is the shortcut to inventing your own seasoning.*
 
 ## Overview
-Pairing is what blends do at scale: lay several aromatics against each other so the dish reads as more than the sum of its parts. This lesson works backwards from blends to first principles, asking which pairings recur across cuisines and why. The recurring pairings are not coincidence; they tend to be combinations where the chemistry complements - one spice supplies citrus, another supplies depth, another supplies a warm note, and together they cover ground no single spice can.
+Pairing is what blends do at scale: lay several aromatics against each other so the dish reads as more than the sum of its parts. This lesson works backwards from blends to first principles, asking which pairings recur across cuisines and why. The recurring pairings are not coincidence; they tend to be combinations where the chemistry complements, one spice supplies citrus, another supplies depth, another supplies a warm note, and together they cover ground no single spice can.
 
 The lesson also covers ingredient pairings: which spices love which proteins, vegetables, fats and acids. A roast chicken does different work with cumin and coriander than it does with thyme and lemon; pork wants fennel; lamb wants cumin; cauliflower wants turmeric or curry leaves. These pairings show up across the world because the chemistry works, not because of regional preference.
 
@@ -27,13 +27,13 @@ The base of most Western braises and stews. Onion supplies sweet depth on long c
 Warming aromatics layer particularly well with each other; almost any combination works. The classic four are:
 
 ### Cinnamon + Clove
-Together they cover most of "Christmas spice." Cinnamaldehyde and eugenol are both warm but read slightly differently - cinnamon is sweeter, clove more medicinal-aromatic. Used in mulled wine, pumpkin pie, gingerbread, lamb tagines, biryanis. Two cloves to a cinnamon stick is a reasonable starting ratio in long-simmered dishes; in baking the ratio is similar.
+Together they cover most of "Christmas spice." Cinnamaldehyde and eugenol are both warm but read slightly differently, cinnamon is sweeter, clove more medicinal-aromatic. Used in mulled wine, pumpkin pie, gingerbread, lamb tagines, biryanis. Two cloves to a cinnamon stick is a reasonable starting ratio in long-simmered dishes; in baking the ratio is similar.
 
 ### Cardamom + Saffron
 The luxurious Mughal-Indian-Persian pairing. Cardamom supplies a citrus-and-menthol high note; saffron supplies an earthy, honeyed depth and the colour. In milk-based desserts (kheer, kulfi, ras malai), in biryani, in Persian rice. Both are expensive; both are added at the end of cooking so the aromatics do not fade.
 
 ### Star Anise + Cinnamon
-The Chinese / Vietnamese pairing for long-cooked meats - pho broth, red-braised pork, braised duck. Anethole (star anise) plus cinnamaldehyde gives a sweet-warm base that holds up to hours of simmering. Add ginger and Sichuan pepper and you are at Chinese five-spice territory.
+The Chinese / Vietnamese pairing for long-cooked meats, pho broth, red-braised pork, braised duck. Anethole (star anise) plus cinnamaldehyde gives a sweet-warm base that holds up to hours of simmering. Add ginger and Sichuan pepper and you are at Chinese five-spice territory.
 
 ### Nutmeg + Mace
 Same plant, different parts (mace is the lacy aril around the nutmeg seed; nutmeg is the seed itself). Mace is brighter and more floral; nutmeg is rounder and more bitter. Used together in French sauces (especially bechamel, where a grating of nutmeg is the classic move), in moussaka, in cured meats, in baked goods.
@@ -53,7 +53,7 @@ All three contain anethole; together they read as deeply herbal rather than sepa
 
 ## Heat Pairings
 
-Heat-bearing spices layer differently. Capsaicin (chilli) and piperine (black pepper) are not really "warm" - they are receptor-pure, and they need warm or bright spices to round them out into something edible.
+Heat-bearing spices layer differently. Capsaicin (chilli) and piperine (black pepper) are not really "warm", they are receptor-pure, and they need warm or bright spices to round them out into something edible.
 
 ### Chilli + Cumin
 The Mexican pairing. Cumin's earthiness softens the chilli's edge; the chilli supplies heat the cumin lacks. Carne adovada, chilli con carne, mole-adjacent rubs all sit on this pair.
@@ -65,7 +65,7 @@ The Mexican mole architecture. Sweet warm spice plus dried chilli plus chocolate
 The Indian rice biryani axis. Pepper bites; cardamom cools and brightens. Cooks who shy away from chilli often use this pair as the heat source in Indian cooking.
 
 ### Sichuan Pepper + Chilli
-The Sichuan ma-la (numbing-spicy) combination. The sanshool gives a tingling, numbing sensation that reads as cooling against the chilli's heat. Mapo tofu, dan dan noodles, dry-fried green beans, chongqing chicken - the dish architecture in this region is built on the pair.
+The Sichuan ma-la (numbing-spicy) combination. The sanshool gives a tingling, numbing sensation that reads as cooling against the chilli's heat. Mapo tofu, dan dan noodles, dry-fried green beans, chongqing chicken, the dish architecture in this region is built on the pair.
 
 ## Spice + Protein Pairings
 
@@ -101,13 +101,13 @@ The root-vegetable warm-spice pairing. Roasted carrots with cumin and harissa; p
 Cauliflower has a slight sulphur character that turmeric (in a curry context) or curry leaves (in a south Indian sabzi) covers beautifully. Aloo gobi is the classic combination.
 
 ### Aubergine (Eggplant) + Cumin, Smoke
-Smoky cumin notes (or actual smoke, from charring) is the Middle Eastern pair - baba ghanoush, moutabal, smoky melitzanosalata. Cumin alone works in Chinese aubergine dishes.
+Smoky cumin notes (or actual smoke, from charring) is the Middle Eastern pair, baba ghanoush, moutabal, smoky melitzanosalata. Cumin alone works in Chinese aubergine dishes.
 
 ### Tomato + Basil, Oregano, Bay
 The Mediterranean trio. Basil for fresh dishes; oregano for cooked; bay for long-simmered tomato sauce. Cumin and tomato work together in Mexican cooking but feel wrong in Italian.
 
 ### Mushroom + Thyme, Tarragon, Black Pepper
-Earthy meets earthy. The umami of mushroom layers with the herbal-resinous quality of thyme; tarragon adds anise-bright lift. Avoid sweet spices (cinnamon, clove) with mushroom - they clash.
+Earthy meets earthy. The umami of mushroom layers with the herbal-resinous quality of thyme; tarragon adds anise-bright lift. Avoid sweet spices (cinnamon, clove) with mushroom, they clash.
 
 ### Cabbage + Caraway, Dill, Mustard
 The Eastern European triangle. Caraway for sauerkraut, cabbage rolls; dill for sour cabbage soups; mustard seed for pickled red cabbage. Sulphurous cabbage pairs with sulphurous mustard surprisingly well.

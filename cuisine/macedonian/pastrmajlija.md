@@ -11,7 +11,7 @@
 **Cook Time:** 18 minutes
 
 ## Overview
-Pastrmajlija (from "pastrma" - Macedonian cured meat) is the Macedonian flatbread classic - an oval boat-shaped pizza topped with cubed cured pork, lamb or beef. The construction: yeasted dough is divided, rolled into oval boat shapes (about 25 × 15 cm), the edges raised slightly; cubed cured meat is scattered over with a splash of oil and a sprinkle of paprika; sometimes an egg is cracked in the centre at the last minute. Baked at very high heat till the bread is deeply golden and the meat is crisped. Served with chopped raw onion, pickled chillies, and a wedge of lemon.
+Pastrmajlija (from "pastrma", Macedonian cured meat) is the Macedonian flatbread classic, an oval boat-shaped pizza topped with cubed cured pork, lamb or beef. The construction: yeasted dough is divided, rolled into oval boat shapes (about 25 × 15 cm), the edges raised slightly; cubed cured meat is scattered over with a splash of oil and a sprinkle of paprika; sometimes an egg is cracked in the centre at the last minute. Baked at very high heat till the bread is deeply golden and the meat is crisped. Served with chopped raw onion, pickled chillies, and a wedge of lemon.
 
 ## Ingredients
 

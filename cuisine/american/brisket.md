@@ -2,7 +2,7 @@
 
 ![Jewish Brisket](resources/brisket.jpg)
 
-*Slow-braised beef brisket in a sweet-savoury onion-and-tomato sauce, the meat cooked until it can be cut with a fork. The defining holiday main of Ashkenazi Jewish cooking - served at Rosh Hashanah, Passover, Shabbat, weddings. Best made the day before so it slices cleanly and the flavours deepen.*
+*Slow-braised beef brisket in a sweet-savoury onion-and-tomato sauce, the meat cooked until it can be cut with a fork. The defining holiday main of Ashkenazi Jewish cooking, served at Rosh Hashanah, Passover, Shabbat, weddings. Best made the day before so it slices cleanly and the flavours deepen.*
 
 **Serves:** 8
 
@@ -11,7 +11,7 @@
 **Cook Time:** 4 hours
 
 ## Overview
-This is the brisket that anchors every Ashkenazi holiday table - Rosh Hashanah dinner, the Passover seder, a Friday-night Shabbat. You sear the meat hard until the surface is mahogany, then build a slow braise on its rendered fat: onions caramelised down to gold, garlic and tomato paste deepened with paprika and brown sugar, wine and stock pulling the lot together. The brisket goes back in fat-side up and the pot disappears into a low oven for three hours plus, until a fork meets no resistance. The trick almost every recipe insists on is the overnight rest. You cool the meat in its sauce, slice it cold against the grain (warm brisket shreds, cold brisket slices clean), then reheat the slices in the sauce before serving. Spoon the onion-rich gravy generously over mashed potato, kasha or buttered egg noodles.
+This is the brisket that anchors every Ashkenazi holiday table, Rosh Hashanah dinner, the Passover seder, a Friday-night Shabbat. You sear the meat hard until the surface is mahogany, then build a slow braise on its rendered fat: onions caramelised down to gold, garlic and tomato paste deepened with paprika and brown sugar, wine and stock pulling the lot together. The brisket goes back in fat-side up and the pot disappears into a low oven for three hours plus, until a fork meets no resistance. The trick almost every recipe insists on is the overnight rest. You cool the meat in its sauce, slice it cold against the grain (warm brisket shreds, cold brisket slices clean), then reheat the slices in the sauce before serving. Spoon the onion-rich gravy generously over mashed potato, kasha or buttered egg noodles.
 
 ## Ingredients
 
@@ -76,7 +76,7 @@ This is the brisket that anchors every Ashkenazi holiday table - Rosh Hashanah d
 1. Serve with mashed potato, kasha or noodles.
 
 ## Notes
-- **Cook the day before:** The two essential techniques - slicing cold for clean slices, and skimming the fat - both need overnight rest. Same-day brisket falls apart unevenly.
+- **Cook the day before:** The two essential techniques, slicing cold for clean slices, and skimming the fat, both need overnight rest. Same-day brisket falls apart unevenly.
 - **Against the grain:** Brisket has very long muscle fibres. Slice perpendicular to the grain or every bite is chewy.
 - **Don't trim all the fat:** Some fat cap renders into the sauce and bastes the meat. Trim the thick parts; leave a 5 mm cap.
 

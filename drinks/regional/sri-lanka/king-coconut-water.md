@@ -20,7 +20,7 @@ The king coconut, called thambili in Sinhala or "elaneer" in Tamil-Sri Lankan, i
 ### To open and serve
 - A large heavy knife (a cleaver or kitchi knife works; a Western chef's knife is just about adequate)
 - A clean tea towel for grip
-- A wide straw (paper or metal - single-use plastic feels wrong with this drink)
+- A wide straw (paper or metal, single-use plastic feels wrong with this drink)
 - Optional: a small spoon to scoop out the soft flesh after drinking
 
 ## Method

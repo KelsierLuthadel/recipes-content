@@ -13,11 +13,11 @@ This lesson covers the chemistry of safety: what pathogens need to grow, what yo
 
 For a bacterium to grow in cured meat, four conditions have to be met simultaneously. Charcuterie is the art of denying at least one of them at all times.
 
-1. **Water.** Pathogens cannot replicate without water. Water activity (Aw) is the technical measure - effectively the proportion of unbound water in the meat. Fresh meat has Aw around 0.99; bacteria thrive. Cured products drop the Aw via salt (which binds water) and drying (which removes it). At Aw 0.91 most pathogens stop; at 0.85 nearly all stop. Most bacterial growth ceases at 0.85.
+1. **Water.** Pathogens cannot replicate without water. Water activity (Aw) is the technical measure, effectively the proportion of unbound water in the meat. Fresh meat has Aw around 0.99; bacteria thrive. Cured products drop the Aw via salt (which binds water) and drying (which removes it). At Aw 0.91 most pathogens stop; at 0.85 nearly all stop. Most bacterial growth ceases at 0.85.
 
-2. **Warmth.** Pathogens grow fastest at 20-40 C - the temperature of room and the human body. Below 4 C most stop (though Listeria monocytogenes is the dangerous exception; it grows slowly at fridge temperatures). Above 60 C most are killed within minutes.
+2. **Warmth.** Pathogens grow fastest at 20-40 C, the temperature of room and the human body. Below 4 C most stop (though Listeria monocytogenes is the dangerous exception; it grows slowly at fridge temperatures). Above 60 C most are killed within minutes.
 
-3. **Oxygen (for some).** Many pathogens need oxygen (aerobic). Some thrive without (anaerobic - including Clostridium botulinum, the cause of botulism). This matters: a cured meat inside a sausage casing or under a fat seal is an anaerobic environment, which is exactly where botulism grows.
+3. **Oxygen (for some).** Many pathogens need oxygen (aerobic). Some thrive without (anaerobic, including Clostridium botulinum, the cause of botulism). This matters: a cured meat inside a sausage casing or under a fat seal is an anaerobic environment, which is exactly where botulism grows.
 
 4. **A favourable pH.** Most bacteria want neutral pH (around 7). Acidic environments (pH below 5) stop most growth; lactic-acid fermentation in salami drops the pH and is part of the safety system.
 
@@ -25,7 +25,7 @@ A cured product is safe when it has dropped one or more of those four below the 
 
 ## The Botulism Question
 
-**Clostridium botulinum** is the pathogen that justifies cure #1 and cure #2. It is rare in the environment but lethal when present. Its spores are everywhere (soil, dust, untreated water). At room temperature, in low-oxygen environments, with neutral pH and moisture, the spores germinate, multiply, and produce botulinum toxin - the most lethal naturally-occurring substance known.
+**Clostridium botulinum** is the pathogen that justifies cure #1 and cure #2. It is rare in the environment but lethal when present. Its spores are everywhere (soil, dust, untreated water). At room temperature, in low-oxygen environments, with neutral pH and moisture, the spores germinate, multiply, and produce botulinum toxin, the most lethal naturally-occurring substance known.
 
 The conditions inside a curing sausage are perfect for it: warm-ish, no oxygen (the casing is impermeable), high water activity (until the meat dries out), neutral pH (until any fermentation lowers it). Without intervention, a home cured sausage is exactly the wrong environment.
 
@@ -89,10 +89,10 @@ These are the non-negotiable rules. Skip any of them and you have lost the safet
 
 In long-aged products (salumi, salami), surface moulds appear. Some are desirable; some are not.
 
-- **White Penicillium nalgiovense, Penicillium chrysogenum** - desirable. Fine white powdery coating, sometimes slightly fuzzy. Inoculated commercially with cultures like Mold 600. Adds flavour and outcompetes harmful moulds.
-- **Black or green-black mould** - throw out. Aspergillus species, some produce mycotoxins.
-- **Bright blue or vivid green** - undesirable. Wipe off with a vinegar solution if small; throw out if widespread.
-- **Pink, red, orange** - undesirable. Some indicate bacterial growth.
+- **White Penicillium nalgiovense, Penicillium chrysogenum**: desirable. Fine white powdery coating, sometimes slightly fuzzy. Inoculated commercially with cultures like Mold 600. Adds flavour and outcompetes harmful moulds.
+- **Black or green-black mould**: throw out. Aspergillus species, some produce mycotoxins.
+- **Bright blue or vivid green**: undesirable. Wipe off with a vinegar solution if small; throw out if widespread.
+- **Pink, red, orange**: undesirable. Some indicate bacterial growth.
 
 If the surface is colonised with white mould but the wrong moulds appear in patches, wipe with a cloth dampened in white vinegar; the vinegar suppresses the unwanted moulds without harming the white ones. If the bad moulds keep returning, the curing chamber humidity or hygiene is wrong.
 

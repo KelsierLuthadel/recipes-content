@@ -33,7 +33,7 @@ Samoon is the Iraqi everyday bread, football-shaped pointed-end loaves with a de
 
 ### Stage 2 - Shape
 1. Knock back; divide into 8 portions (about 90 g each).
-1. Shape each into a football oval - taper both ends.
+1. Shape each into a football oval, taper both ends.
 1. Place on a lined baking tray, spaced 4 cm apart.
 1. Slash lengthways down the middle of each with a sharp knife, 5 mm deep.
 

@@ -2,7 +2,7 @@
 
 ![Honey Chipotle Fried Chicken Sandwich](resources/honey-chipotle-fried-chicken-sandwich.jpg)
 
-*Buttermilk-brined thighs fried golden, then glazed with a sweet-and-spicy chipotle-honey-soy sauce, served on toasted brioche with a Cajun-lemon-dill aioli slaw and dill pickle chips. The chipotle-honey is the move - molasses-deep, smoky, with bite. Better than most chain-restaurant fried chicken sandwiches.*
+*Buttermilk-brined thighs fried golden, then glazed with a sweet-and-spicy chipotle-honey-soy sauce, served on toasted brioche with a Cajun-lemon-dill aioli slaw and dill pickle chips. The chipotle-honey is the move, molasses-deep, smoky, with bite. Better than most chain-restaurant fried chicken sandwiches.*
 
 **Serves:** 4
 

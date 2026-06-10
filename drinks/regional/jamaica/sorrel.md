@@ -11,7 +11,7 @@
 **Cook Time:** 30 minutes (plus 24 hours steeping)
 
 ## Overview
-Sorrel drink is the Jamaican Christmas beverage - sold in big glass jugs at every Yard celebration from mid-December through to Old Year's Night. "Sorrel" here means dried hibiscus calyces (Hibiscus sabdariffa), unrelated to the English garden herb. They're simmered with fresh ginger, whole cloves, cinnamon sticks and orange peel, sweetened heavily with caster sugar, left to steep 24 hours, then strained and served ice-cold (sometimes with a splash of dark rum or sorrel wine added for the adult version). The result is deep crimson-red, sharply tart, spiced and warming despite being cold. Each Jamaican family has slight variations; this is a baseline. The same ingredient appears across the Caribbean: Trinidad sorrel is similar, Bissap in Senegal is the West African parent.
+Sorrel drink is the Jamaican Christmas beverage, sold in big glass jugs at every Yard celebration from mid-December through to Old Year's Night. "Sorrel" here means dried hibiscus calyces (Hibiscus sabdariffa), unrelated to the English garden herb. They're simmered with fresh ginger, whole cloves, cinnamon sticks and orange peel, sweetened heavily with caster sugar, left to steep 24 hours, then strained and served ice-cold (sometimes with a splash of dark rum or sorrel wine added for the adult version). The result is deep crimson-red, sharply tart, spiced and warming despite being cold. Each Jamaican family has slight variations; this is a baseline. The same ingredient appears across the Caribbean: Trinidad sorrel is similar, Bissap in Senegal is the West African parent.
 
 ## Ingredients
 

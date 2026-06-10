@@ -44,7 +44,7 @@ Chalow is Afghanistan's foundational rice method, and once you have it down you 
 
 ### Stage 4 - Serve
 1. Lift the lid; fluff gently with a fork.
-1. Tip onto a wide platter - the gold crust comes out last.
+1. Tip onto a wide platter, the gold crust comes out last.
 
 ## Notes
 - **Long-grain basmati only:** Short-grain rice cooks short and sticky; chalow is built on long separate grains.

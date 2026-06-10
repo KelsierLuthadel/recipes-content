@@ -69,11 +69,11 @@ Lebanon's Sunday lunch and the centrepiece of any family table: a whole chicken 
 
 ### Stage 4 - Rest
 1. Remove from heat (lid on); rest 5 minutes.
-1. Fluff gently with a fork - the mince should be distributed through the rice.
+1. Fluff gently with a fork, the mince should be distributed through the rice.
 
 ### Stage 5 - Nuts and fruit
 1. While the rice rests, heat 2 tablespoons ghee in a small pan.
-1. Add pine nuts, almonds and raisins; toast 3-4 minutes, stirring, until nuts are deep gold and raisins are plump. Watch - pine nuts burn fast.
+1. Add pine nuts, almonds and raisins; toast 3-4 minutes, stirring, until nuts are deep gold and raisins are plump. Watch, pine nuts burn fast.
 
 ### Stage 6 - Plate
 1. Tip rice onto a wide warm platter.

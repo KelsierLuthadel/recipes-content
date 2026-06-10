@@ -18,7 +18,7 @@ The Pakistani beef samosa anchors every iftar table and every roadside chai stal
 ### Dough
 - 400 g plain flour
 - 1 teaspoon salt
-- 1 teaspoon ajwain seeds (carom - sold at South Asian shops; or substitute thyme)
+- 1 teaspoon ajwain seeds (carom, sold at South Asian shops; or substitute thyme)
 - 100 g ghee (or sunflower oil, NOT melted; cool / room temperature)
 - 180-200 ml warm water
 
@@ -57,7 +57,7 @@ The Pakistani beef samosa anchors every iftar table and every roadside chai stal
 ### Stage 1 - Dough
 1. Whisk flour, salt and ajwain in a wide bowl.
 1. Rub in ghee with fingertips until the mixture looks like coarse breadcrumbs.
-1. Add warm water gradually; mix to a stiff dough (samosa dough should be much stiffer than bread dough - it shouldn't yield easily to a fingertip).
+1. Add warm water gradually; mix to a stiff dough (samosa dough should be much stiffer than bread dough, it shouldn't yield easily to a fingertip).
 1. Knead 5 minutes on a lightly floured surface.
 1. Cover; rest 30 minutes.
 
@@ -69,7 +69,7 @@ The Pakistani beef samosa anchors every iftar table and every roadside chai stal
 1. Stir in turmeric, garam masala, cumin, coriander, chilli powder, salt and pepper; cook 1 minute.
 1. Add frozen peas; cook 4 minutes until the meat is dry but moist (no liquid pooling).
 1. Off heat; stir in coriander and lemon juice.
-1. Cool fully - warm filling makes the pastry soft.
+1. Cool fully, warm filling makes the pastry soft.
 
 ### Stage 3 - Shape
 1. Divide dough into 10 balls.

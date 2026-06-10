@@ -11,7 +11,7 @@
 **Cook Time:** None (assumes pre-cooked meatballs)
 
 ## Overview
-The köttbulle-smörgås (meatball sandwich) is one of Sweden's most workaday lunchtime open sandwiches and a fixture of every Swedish bageri (bakery counter), office canteen, and packed-lunch sandwich shop across the country: cold leftover Swedish meatballs (from yesterday's husmanskost dinner) sliced into 4-5mm rounds, layered onto a slice of dark Swedish rye bread (rågbröd - denser and darker than American rye, with a slight molasses sweetness) that's been spread with cold butter and a thin smear of lingonberry preserve. Topped with thinly sliced cucumber, finely chopped raw red onion, chopped fresh dill or chives, a grind of black pepper, and (optionally) a small dollop of soured cream or a slice of mild cheese. Eat open-face with a fork, or closed-up with another slice of bread on top for the grab-and-go version.
+The köttbulle-smörgås (meatball sandwich) is one of Sweden's most workaday lunchtime open sandwiches and a fixture of every Swedish bageri (bakery counter), office canteen, and packed-lunch sandwich shop across the country: cold leftover Swedish meatballs (from yesterday's husmanskost dinner) sliced into 4-5mm rounds, layered onto a slice of dark Swedish rye bread (rågbröd, denser and darker than American rye, with a slight molasses sweetness) that's been spread with cold butter and a thin smear of lingonberry preserve. Topped with thinly sliced cucumber, finely chopped raw red onion, chopped fresh dill or chives, a grind of black pepper, and (optionally) a small dollop of soured cream or a slice of mild cheese. Eat open-face with a fork, or closed-up with another slice of bread on top for the grab-and-go version.
 
 ## Ingredients
 
@@ -74,7 +74,7 @@ The köttbulle-smörgås (meatball sandwich) is one of Sweden's most workaday lu
 - **Cold meatballs:** essential. Hot meatballs steam the bread and ruin it. This is a leftovers dish.
 - **Lingonberry preserve under the meatballs:** the traditional Swedish move. The sweet-tart preserve is what makes it not just "meatballs on bread".
 - **Dark rye bread:** the traditional base. Lighter wheat bread doesn't work the same.
-- **Onion chopped fine:** not sliced - chopped fine gives the right bite.
+- **Onion chopped fine:** not sliced, chopped fine gives the right bite.
 
 ## Variations
 **Open-face elaborate version (smörgås):** top with a small mound of pressgurka cucumber salad + sliced hard-boiled egg + dill for the smörgåsbord-ready presentation.

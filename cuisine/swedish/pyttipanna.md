@@ -11,13 +11,13 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation dish and the traditional Monday-night dinner (made from Sunday's leftover roast). The construction is loose by design: small cubes of cold cooked potato (the traditional base), small cubes of cold cooked meat (typically a falukorv-style smoked Swedish sausage; or ham, leftover roast beef, or any meat from the previous day's meal), finely chopped onion. All fried hard in butter in a wide pan till the edges crisp and brown. Served with a sunny-side-up fried egg on top of each portion (the runny yolk is the sauce), pickled beetroot (rödbetor - the traditional Swedish accompaniment, the sweet-vinegary lift), a small spoon of Dijon mustard on the side, and chopped fresh parsley. Eat with a fork, often standing at the kitchen counter.
+Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation dish and the traditional Monday-night dinner (made from Sunday's leftover roast). The construction is loose by design: small cubes of cold cooked potato (the traditional base), small cubes of cold cooked meat (typically a falukorv-style smoked Swedish sausage; or ham, leftover roast beef, or any meat from the previous day's meal), finely chopped onion. All fried hard in butter in a wide pan till the edges crisp and brown. Served with a sunny-side-up fried egg on top of each portion (the runny yolk is the sauce), pickled beetroot (rödbetor, the traditional Swedish accompaniment, the sweet-vinegary lift), a small spoon of Dijon mustard on the side, and chopped fresh parsley. Eat with a fork, often standing at the kitchen counter.
 
 ## Ingredients
 
 ### Base
 - 700 g cold pre-cooked potatoes (boiled or roasted the day before; cubed into 1cm dice)
-- 400 g leftover cooked meat (Swedish falukorv smoked sausage, ham, leftover roast beef, kassler - pick one or mix; cubed into 1cm dice)
+- 400 g leftover cooked meat (Swedish falukorv smoked sausage, ham, leftover roast beef, kassler, pick one or mix; cubed into 1cm dice)
 - 1 large yellow onion (finely chopped)
 - 60 g butter
 - 2 tablespoons vegetable oil
@@ -56,7 +56,7 @@ Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation
 1. Add the cubed cold potatoes to the pan.
 2. Don't stir for 4-5 minutes; let the potatoes get a deep golden crust on the bottom.
 3. Then toss / stir; let them crisp on another side.
-4. Repeat - total 12-15 minutes of cooking, with periodic stirring to give all sides a crust.
+4. Repeat, total 12-15 minutes of cooking, with periodic stirring to give all sides a crust.
 5. Season with salt and pepper.
 6. Keep warm.
 

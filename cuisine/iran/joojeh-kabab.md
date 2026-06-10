@@ -19,7 +19,7 @@ Joojeh kabab is the Persian saffron-and-yogurt chicken kebab, a marinated grille
 - 1 kg boneless chicken thigh (cut into 4 cm pieces)
 - 1 large pinch saffron threads
 - 2 tablespoons hot water
-- 1 onion (large, grated, juice squeezed out - discard the pulp, use the juice)
+- 1 onion (large, grated, juice squeezed out, discard the pulp, use the juice)
 - 250 ml plain yogurt
 - 1 lemon (juice)
 - 3 tablespoons olive oil
@@ -52,7 +52,7 @@ Joojeh kabab is the Persian saffron-and-yogurt chicken kebab, a marinated grille
 
 ### Stage 4 - Grill
 1. Heat a charcoal grill until coals are ashed over, or a gas grill / oven grill to high.
-1. Grill chicken skewers 4 minutes per side over direct heat - the surface should char in spots, the inside stay juicy.
+1. Grill chicken skewers 4 minutes per side over direct heat, the surface should char in spots, the inside stay juicy.
 1. Grill tomato skewers 2-3 minutes per side until lightly charred and softening.
 
 ### Stage 5 - Saffron butter

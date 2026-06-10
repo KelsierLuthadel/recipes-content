@@ -58,8 +58,8 @@ The side-dish form of three-sisters cooking, the Iroquois name for corn, beans a
 1. Serve warm alongside roast meat, grilled fish, or with cornbread.
 
 ## Notes
-- **Three Sisters:** The Iroquois name for corn, beans and squash, planted together - the corn gives the beans something to climb, the beans fix nitrogen, the squash shades the soil. This dish honours that combination as a single bowl.
-- **Squash holds shape:** Kabocha and butternut are best - they soften without dissolving. Avoid acorn or hubbard, which break down.
+- **Three Sisters:** The Iroquois name for corn, beans and squash, planted together, the corn gives the beans something to climb, the beans fix nitrogen, the squash shades the soil. This dish honours that combination as a single bowl.
+- **Squash holds shape:** Kabocha and butternut are best, they soften without dissolving. Avoid acorn or hubbard, which break down.
 - **Vinegar at the end:** Brings the dish into focus. Without it the succotash tastes muddy-sweet.
 
 ## Storage

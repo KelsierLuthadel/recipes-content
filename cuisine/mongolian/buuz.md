@@ -21,7 +21,7 @@ Mongolia's signature dumpling and the centrepiece of Tsagaan Sar (Mongolian Luna
 - 250-280 ml warm water
 
 ### Filling
-- 600 g minced mutton (or lamb, 20% fat - fat is essential for juicy buuz; or 60/40 lamb-beef mix)
+- 600 g minced mutton (or lamb, 20% fat, fat is essential for juicy buuz; or 60/40 lamb-beef mix)
 - 2 onions (medium, very finely chopped)
 - 6 garlic cloves (crushed)
 - 2 teaspoons salt
@@ -49,24 +49,24 @@ Mongolia's signature dumpling and the centrepiece of Tsagaan Sar (Mongolian Luna
 
 ### Stage 2 - Filling
 1. Combine the minced meat, onion, garlic, salt, pepper, caraway and cold water in a wide bowl.
-1. Mix with one hand for 2-3 minutes - work it until the mixture is sticky and slightly springy. The water gets absorbed; the result is a juicier dumpling.
+1. Mix with one hand for 2-3 minutes, work it until the mixture is sticky and slightly springy. The water gets absorbed; the result is a juicier dumpling.
 1. Refrigerate while you roll the wrappers.
 
 ### Stage 3 - Wrappers
 1. Divide the dough into 30 walnut-sized balls.
-1. On a lightly floured surface, roll each ball into a 9-10 cm circle - slightly thinner in the centre, thicker at the edge.
+1. On a lightly floured surface, roll each ball into a 9-10 cm circle, slightly thinner in the centre, thicker at the edge.
 
 ### Stage 4 - Shape
 1. Place a heaped tablespoon of filling in the centre of each wrapper.
 1. Lift the edges up around the filling.
-1. Pleat the edges together: pinch a small fold, push it onto the next, repeat around the perimeter - making 12-15 small pleats.
+1. Pleat the edges together: pinch a small fold, push it onto the next, repeat around the perimeter, making 12-15 small pleats.
 1. Pinch the pleats closed at the top, leaving a tiny hole (the steam vent and "drink hole").
 1. Place finished buuz on a lightly floured tray, not touching.
 
 ### Stage 5 - Steam
 1. Set up a steamer with simmering water; line the steamer baskets with parchment (with holes punched) or oil them lightly.
 1. Place buuz in the steamer with 1 cm gaps between (they don't expand much but should not stick).
-1. Steam over high heat 15-18 minutes - the wrappers turn slightly translucent and the filling is cooked through.
+1. Steam over high heat 15-18 minutes, the wrappers turn slightly translucent and the filling is cooked through.
 
 ### Stage 6 - Serve
 1. Lift onto a platter; serve hot.
@@ -75,9 +75,9 @@ Mongolia's signature dumpling and the centrepiece of Tsagaan Sar (Mongolian Luna
 
 ## Notes
 - **Fat is essential:** Lean meat makes dry buuz. Mutton with 20% fat (or beef + lamb mix) gives the proper juicy interior.
-- **Wrapper thickness:** Centre thinner than edge - the bottom of the buuz has more filling and needs a stronger wrapper. With practice, this becomes automatic.
+- **Wrapper thickness:** Centre thinner than edge, the bottom of the buuz has more filling and needs a stronger wrapper. With practice, this becomes automatic.
 - **Pleat count is showy:** Mongolian and Tibetan dumpling makers pride themselves on 12, 15, even 20+ pleats per buuz. Six is fine for a home cook.
 
 ## Storage
 - Cooked buuz refrigerate 3 days; reheat by steaming again 5 minutes.
-- Frozen raw buuz keep 2 months - steam from frozen, adding 4-5 minutes.
+- Frozen raw buuz keep 2 months, steam from frozen, adding 4-5 minutes.

@@ -46,13 +46,13 @@ Aloo tikki is Delhi's chaat-stall classic, the spiced potato patty with a deep g
 
 ### Stage 1 - Potato base
 1. Boil the potatoes in their skins in well-salted water until a knife slides in cleanly, 25-30 minutes.
-2. Drain; cool slightly; peel; pass through a ricer or mash thoroughly - no lumps.
+2. Drain; cool slightly; peel; pass through a ricer or mash thoroughly, no lumps.
 3. Spread on a tray; cool fully (a wet warm mash gives wet tikkis).
 
 ### Stage 2 - Bind
 1. Add the cornflour, gram flour, green chilli, ginger, coriander leaves, mint, cumin seeds, chilli powder, garam masala, amchur, black pepper and salt to the cool potato.
-2. Mix lightly with a fork or your hands - don't overwork or the tikkis go gluey.
-3. Taste; adjust salt and amchur (the mix should taste vivid and a touch over-salted - frying mutes it).
+2. Mix lightly with a fork or your hands, don't overwork or the tikkis go gluey.
+3. Taste; adjust salt and amchur (the mix should taste vivid and a touch over-salted, frying mutes it).
 
 ### Stage 3 - Shape and chill
 1. Divide into 8 equal balls.

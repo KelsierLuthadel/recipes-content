@@ -93,7 +93,7 @@ Loaded fries are the iconic American sharing-plate / bar-food classic: hand-cut 
 - **Properly melt the cheese:** under hot oven or grill; not just sprinkled.
 - **Multiple toppings:** the loaded-ness is the point.
 - **Cajun seasoning gives the American profile:** distinguishes from British dirty fries.
-- **Eat immediately:** the cheese cools and toppings warm the fries - both compromise within 5 minutes of serving.
+- **Eat immediately:** the cheese cools and toppings warm the fries, both compromise within 5 minutes of serving.
 
 ## Variations
 **Buffalo loaded fries:** swap the ranch for buffalo sauce (Frank's RedHot + butter); top with blue cheese crumbles. Classic American bar variation.

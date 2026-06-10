@@ -74,7 +74,7 @@ Tahu isi is the Indonesian stuffed tofu, firm tofu triangles slit open and stuff
 ### Stage 4 - Batter
 1. Whisk both flours, turmeric, salt, garlic paste and sliced spring onion.
 1. Whisk in cold water until smooth.
-1. The batter should be thin - like single cream.
+1. The batter should be thin, like single cream.
 
 ### Stage 5 - Fry
 1. Heat the oil to 175°C.
@@ -92,9 +92,9 @@ Tahu isi is the Indonesian stuffed tofu, firm tofu triangles slit open and stuff
 - **Press the tofu before slitting:** wet tofu won't fry crisp and the batter won't stick. Pat dry.
 - **Don't overfill the pockets:** the tofu cracks open during frying and you lose the vegetable filling. 1-2 tablespoons is plenty.
 - **Cool the filling fully:** hot filling steams inside the tofu and the batter goes soggy.
-- **Whole fresh chillies on the side:** classic Indonesian snack convention - bite the fritter, bite the chilli, eat a forkful of rice. The contrast is the point.
+- **Whole fresh chillies on the side:** classic Indonesian snack convention, bite the fritter, bite the chilli, eat a forkful of rice. The contrast is the point.
 
 ## Storage
 - Best within 15 minutes of frying.
 - Leftover stuffed-but-unfried tahu isi keep 1 day refrigerated; fry from cold (no need to thaw or warm).
-- Don't refrigerate fried - the tofu turns rubbery and the batter sogs.
+- Don't refrigerate fried, the tofu turns rubbery and the batter sogs.

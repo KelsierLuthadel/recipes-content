@@ -30,7 +30,7 @@ Late-summer panna cotta, when figs are heavy on the tree and a spoonful of good 
 1. Remove from the fridge about 10 minutes before serving. 
 1. Top each pannacotta with a fig slice to serve.
 
-If you wish to turn out the pannacottas to serve, oil the moulds and use an extra ½ leaf of gelatine - they will look pretty, but the texture won't be quite as delicate.
+If you wish to turn out the pannacottas to serve, oil the moulds and use an extra ½ leaf of gelatine, they will look pretty, but the texture won't be quite as delicate.
 
 Espresso vanilla pannacotta: Omit the figs. At the table, pour a strong, piping hot espresso over each pannacotta for a real explosion of flavours.
 ## Notes

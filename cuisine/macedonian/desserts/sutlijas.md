@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-Sutlijaš (from Turkish "sütlaç") is North Macedonia's classic rice pudding - a slow-cooked creamy dessert eaten warm or chilled. The construction: short-grain rice is briefly toasted in butter, then simmered in whole milk for 35-40 minutes with sugar, vanilla, a strip of lemon peel and a cinnamon stick till the rice is tender and the milk is thick and creamy. Served in small bowls dusted with cinnamon.
+Sutlijaš (from Turkish "sütlaç") is North Macedonia's classic rice pudding, a slow-cooked creamy dessert eaten warm or chilled. The construction: short-grain rice is briefly toasted in butter, then simmered in whole milk for 35-40 minutes with sugar, vanilla, a strip of lemon peel and a cinnamon stick till the rice is tender and the milk is thick and creamy. Served in small bowls dusted with cinnamon.
 
 ## Ingredients
 - 200 g short-grain rice (or risotto rice)
@@ -44,7 +44,7 @@ Sutlijaš (from Turkish "sütlaç") is North Macedonia's classic rice pudding - 
 ## Variations
 **With cardamom:** add 4 crushed pods.
 **With raisins:** stir in 60 g at the end.
-**With rose water:** add 1 teaspoon at the end - Levantine variant.
+**With rose water:** add 1 teaspoon at the end, Levantine variant.
 **Chocolate sutlijaš:** stir in 60 g dark chocolate at the end.
 **Caramelised top (brûlée):** sprinkle sugar; torch.
 

@@ -16,14 +16,14 @@ Two things define the dish: ferocious black pepper and dried chilli (the diavola
 ## Ingredients
 
 ### Chicken
-- 1 whole chicken, 1 ½-1.8 kg (free-range or organic if you can - the flavour matters here)
+- 1 whole chicken, 1 ½-1.8 kg (free-range or organic if you can, the flavour matters here)
 
 ### Marinade
 - 6 tablespoons extra-virgin olive oil
 - 2 lemons (zest)
 - 1 lemon (save the second for serving, juice)
 - 6 garlic cloves (smashed flat with the side of a knife)
-- 2 tablespoons whole black peppercorns (cracked coarsely in a mortar - not ground to dust)
+- 2 tablespoons whole black peppercorns (cracked coarsely in a mortar, not ground to dust)
 - 2 tablespoons dried chilli flakes (peperoncino; Calabrian if you can find it, otherwise standard crushed red pepper)
 - 1 tablespoon sweet smoked paprika
 - 4 sprigs fresh rosemary (leaves stripped and roughly chopped)
@@ -84,7 +84,7 @@ Two things define the dish: ferocious black pepper and dried chilli (the diavola
 - **The brick is the point:** without weight, the skin won't crackle. A brick wrapped in foil is traditional; two heavy cast-iron pans work fine. Improvise; the principle is pressure.
 - **Peperoncino quantity:** 2 tablespoons sounds like a lot. It is. But the dish is named after the devil. For mild palates, halve to 1 tablespoon; the flavour is still distinctly diavola.
 - **Cracked, not ground:** black peppercorns must be cracked coarse, not pulverised. The bite of half-broken peppercorns is half the dish.
-- **Don't add herbs that burn:** rosemary handles the heat. Basil and parsley have no place here - they scorch and turn bitter on the grill.
+- **Don't add herbs that burn:** rosemary handles the heat. Basil and parsley have no place here, they scorch and turn bitter on the grill.
 - **Free-range chicken matters:** the marinade is intense, but the chicken still has to carry it. A factory broiler reads as "chilli on poultry"; a free-range bird tastes of chicken with chilli on top.
 
 ## Storage

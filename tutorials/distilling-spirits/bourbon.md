@@ -12,12 +12,12 @@ Bourbon is the most legally precise of American whiskies. The federal definition
 
 1. **At least 51% corn** in the mash bill (the rest is typically rye, wheat or barley)
 2. **Distilled to no more than 80% ABV** (160 proof)
-3. **Stored at no more than 62.5% ABV** (125 proof) - that is, cut with water down to this level before barrelling
-4. **Aged in NEW CHARRED American oak barrels** (one-time use - Scotch whisky often gets the second-hand bourbon barrels)
-5. **No additives** - no colour, no flavouring, no sweeteners
+3. **Stored at no more than 62.5% ABV** (125 proof): that is, cut with water down to this level before barrelling
+4. **Aged in NEW CHARRED American oak barrels** (one-time use, Scotch whisky often gets the second-hand bourbon barrels)
+5. **No additives**: no colour, no flavouring, no sweeteners
 6. **Bottled at 40% ABV or higher**
 
-Beyond these federal rules, **"straight bourbon"** must be aged at least 2 years; **"bottled-in-bond"** bourbon must be aged at least 4 years at 50% ABV (100 proof) from a single distillation season. And - contrary to popular belief - **bourbon does NOT have to come from Kentucky**. It can be made anywhere in the United States. The Kentucky association is historical and cultural, not legal.
+Beyond these federal rules, **"straight bourbon"** must be aged at least 2 years; **"bottled-in-bond"** bourbon must be aged at least 4 years at 50% ABV (100 proof) from a single distillation season. And, contrary to popular belief, **bourbon does NOT have to come from Kentucky**. It can be made anywhere in the United States. The Kentucky association is historical and cultural, not legal.
 
 Tennessee whiskey (e.g. Jack Daniel's) IS bourbon by the federal definition; Tennessee state law adds the Lincoln County Process step (charcoal mellowing) but the whiskey still meets every bourbon requirement. See [Tennessee whiskey](tennessee-whiskey.md).
 
@@ -103,7 +103,7 @@ The "alligator char" (#4) is critical. The black, blistered interior of a #4-cha
 
 ## Common mistakes
 
-- **Mash bill below 51% corn.** If your corn is less than 51% of the grain, the whiskey is not bourbon - it's just a "whiskey" generically. Measure carefully.
+- **Mash bill below 51% corn.** If your corn is less than 51% of the grain, the whiskey is not bourbon, it's just a "whiskey" generically. Measure carefully.
 - **Over-aging in a small barrel.** A 5-gallon barrel can over-extract the oak in 12 months. Taste regularly; bottle when the balance is right, not when an arbitrary calendar date arrives.
 - **Cutting too aggressively before barrelling.** The federal max is 62.5% ABV into the barrel; cut all the way to 40% before aging and the spirit doesn't extract enough oak character.
 - **Reusing a barrel for bourbon.** A used barrel produces "whiskey" not "bourbon". The new-barrel rule is federal.
@@ -120,7 +120,7 @@ Bourbon is the foundation of half of America's classic cocktails:
 - **[Mississippi Punch](../../drinks/regional/mississippi/mississippi-punch.md):** a heavier rum-and-bourbon punch.
 
 ## See also
-- [Whisky (the umbrella)](whisky.md) - the general process this recipe is built on
-- [Tennessee whiskey](tennessee-whiskey.md) - bourbon plus the Lincoln County Process
-- [Rye](rye.md) - the rye-led counterpart
-- [Ole Smoky moonshine](ole-smoky-moonshine.md) - what unaged corn whiskey tastes like before it becomes bourbon
+- [Whisky (the umbrella)](whisky.md): the general process this recipe is built on
+- [Tennessee whiskey](tennessee-whiskey.md): bourbon plus the Lincoln County Process
+- [Rye](rye.md): the rye-led counterpart
+- [Ole Smoky moonshine](ole-smoky-moonshine.md): what unaged corn whiskey tastes like before it becomes bourbon

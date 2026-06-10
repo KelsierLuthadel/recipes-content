@@ -40,7 +40,7 @@ Ash reshteh is the great pot of Nowruz, the Persian new-year soup that fills the
 
 ### Toppings (essential!)
 - 4 tablespoons sunflower oil (for fried onions)
-- 1 onion (large, sliced thin, fried deep brown - about 12 minutes)
+- 1 onion (large, sliced thin, fried deep brown, about 12 minutes)
 - 3 tablespoons sunflower oil (for mint oil)
 - 6 garlic cloves (sliced thin)
 - 2 tablespoons dried mint
@@ -51,7 +51,7 @@ Ash reshteh is the great pot of Nowruz, the Persian new-year soup that fills the
 
 ### Stage 1 - Soak beans
 1. Place chickpeas, kidney beans and barley (if using) in a bowl with 2 litres of water.
-1. Soak overnight (lentils need NO soaking - add fresh to the pot at Stage 3).
+1. Soak overnight (lentils need NO soaking, add fresh to the pot at Stage 3).
 1. Drain.
 
 ### Stage 2 - Onion base
@@ -63,18 +63,18 @@ Ash reshteh is the great pot of Nowruz, the Persian new-year soup that fills the
 1. Add the soaked chickpeas, kidney beans, barley AND the unsoaked green lentils to the pot.
 1. Pour in 2 ½ litres of water (or stock).
 1. Bring to a boil; reduce to a simmer; partially cover.
-1. Cook 1 hour to 1 hour 15 minutes until all the beans are tender. (Lentils may break down; that's fine - they thicken the soup.)
+1. Cook 1 hour to 1 hour 15 minutes until all the beans are tender. (Lentils may break down; that's fine, they thicken the soup.)
 1. The soup should be like a thick porridge consistency; if too thick, add more hot water.
 
 ### Stage 4 - Herbs
 1. Add the chopped parsley, coriander, dill, chives and chopped spinach.
-1. Stir to combine - the soup darkens to a deep green.
-1. Simmer 15 minutes - the herbs cook into the soup and integrate.
+1. Stir to combine, the soup darkens to a deep green.
+1. Simmer 15 minutes, the herbs cook into the soup and integrate.
 
 ### Stage 5 - Noodles
 1. Add the reshteh noodles (break them in half before adding if they're long).
 1. Stir; cook 8-10 minutes until tender (the noodles will swell and the soup will thicken substantially).
-1. Taste; adjust salt - ash reshteh needs generous salt.
+1. Taste; adjust salt, ash reshteh needs generous salt.
 
 ### Stage 6 - Crispy fried onions
 1. While the soup simmers, heat 4 tablespoons oil in a wide pan over medium-high.
@@ -85,7 +85,7 @@ Ash reshteh is the great pot of Nowruz, the Persian new-year soup that fills the
 1. In a small pan, heat 3 tablespoons sunflower oil over medium-low.
 1. Add sliced garlic; cook 1 minute until just gold.
 1. Off heat (or barely simmering); stir in the dried mint. It should sizzle and turn deep green.
-1. Don't let the mint burn - that's why it goes off heat.
+1. Don't let the mint burn, that's why it goes off heat.
 
 ### Stage 8 - Serve
 1. Ladle ash reshteh into deep bowls.
@@ -103,6 +103,6 @@ Ash reshteh is the great pot of Nowruz, the Persian new-year soup that fills the
 - **Generous herbs:** This is a soup BUILT on herbs. The herb-to-bean ratio is high. Don't be timid with the parsley, coriander and dill.
 
 ## Storage
-- Refrigerate 4 days; the soup thickens overnight - loosen with hot water on reheat.
+- Refrigerate 4 days; the soup thickens overnight, loosen with hot water on reheat.
 - Freezes 3 months (without toppings).
 - Toppings keep separately: fried onions 1 week, mint oil 2 weeks in fridge, kashk 6 weeks.

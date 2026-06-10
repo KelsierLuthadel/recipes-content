@@ -79,7 +79,7 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 
 ### Stage 5 - Add the rookworst
 1. Lift out the ham hock and the pork rib; let them cool slightly on a board.
-2. Add the rookworst sausages to the simmering soup; cook gently 25-30 minutes (don't boil hard - the sausage casing can split).
+2. Add the rookworst sausages to the simmering soup; cook gently 25-30 minutes (don't boil hard, the sausage casing can split).
 3. Lift the rookworst out; slice into 1.5 cm rounds.
 
 ### Stage 6 - Pick the meat
@@ -88,7 +88,7 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 3. Return the meat to the pot.
 
 ### Stage 7 - Finish
-1. Taste the soup; adjust salt and pepper (the smoked meat is already salty - taste before adding more).
+1. Taste the soup; adjust salt and pepper (the smoked meat is already salty, taste before adding more).
 2. Stir in the chopped celery leaves and parsley.
 3. Add the sliced rookworst rounds.
 4. Warm through 2-3 minutes.
@@ -109,12 +109,12 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 - **Don't add salt early:** the smoked meat releases plenty of salt during the long cook. Taste before adding more.
 
 ## Variations
-**Erwtensoep met rookworst (the traditional home version):** as above with both ham hock + rookworst - what most Dutch families make.
-**Snert without ham hock (lighter):** skip the ham hock; use a smoked turkey wing or just the rookworst - lighter, less rich.
+**Erwtensoep met rookworst (the traditional home version):** as above with both ham hock + rookworst, what most Dutch families make.
+**Snert without ham hock (lighter):** skip the ham hock; use a smoked turkey wing or just the rookworst, lighter, less rich.
 **Vegetarian erwtensoep:** skip all meat; use a strong vegetable stock + a teaspoon of smoked paprika + a teaspoon of liquid smoke; serve with a small dollop of crispy fried-onion shreds on top.
-**Modern Amsterdam restaurant variant:** serve in a small bowl with a sliced poached egg on top and a swirl of crème fraîche - bistro-fied.
-**Erwtensoep with curry powder (modern):** add 1 teaspoon Indonesian curry powder (kerrie poeder) - the colonial-era Dutch-Indonesian variant.
-**Snert with celery root puree:** swap the celery vegetable for an extra portion of celeriac - the modern earthy variant.
+**Modern Amsterdam restaurant variant:** serve in a small bowl with a sliced poached egg on top and a swirl of crème fraîche, bistro-fied.
+**Erwtensoep with curry powder (modern):** add 1 teaspoon Indonesian curry powder (kerrie poeder): the colonial-era Dutch-Indonesian variant.
+**Snert with celery root puree:** swap the celery vegetable for an extra portion of celeriac, the modern earthy variant.
 **Quick weeknight erwtensoep:** use frozen split peas (cooks in 1.5 hours instead of 2) + a tin of canned smoked-pork-belly + rookworst - 90 minutes total.
 **Erwtensoep served at the Elfstedentocht ice-skating festival:** with hot mulled spirits (bisschopswijn) alongside.
 
@@ -122,9 +122,9 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 At a Dutch winter family dinner (the traditional setting, December to February) · at an ice-skating shelter along a frozen Dutch canal (the traditional Dutch winter street food) · at a Dutch sinterklaas (5 December) celebration · at a Dutch ice-skating festival like the legendary Elfstedentocht · at a Dutch Christmas Eve dinner · at a Dutch student-house dinner · at home as the traditional Sunday winter restorative · paired with dark rye bread, katenspek, mustard and a glass of cold lager.
 
 ## Storage
-- Refrigerates 4 days - and improves with time. Many Dutch families make it the day before serving.
+- Refrigerates 4 days, and improves with time. Many Dutch families make it the day before serving.
 - Freezes 3 months in airtight containers; defrost in the fridge overnight; reheat gently with a splash of water to loosen.
 - The soup thickens further in the fridge; loosen with a small ladle of water or stock when reheating.
-- Don't reheat in the microwave - the texture changes; the stovetop is the correct reheat method.
+- Don't reheat in the microwave, the texture changes; the stovetop is the correct reheat method.
 - The dry split peas keep indefinitely in a sealed jar in a cool dry pantry.
-- Day-old erwtensoep is the traditional Dutch winter lunch box - heat in a thermos in the morning, eat at lunch.
+- Day-old erwtensoep is the traditional Dutch winter lunch box, heat in a thermos in the morning, eat at lunch.

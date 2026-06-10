@@ -62,7 +62,7 @@ Sago at gulaman is the Filipino answer to bubble tea, but with a different textu
 
 ## Notes
 - **Agar over gelatine.** Agar sets firmer and stays solid at room temperature; the gelatine version melts on a hot day. Agar is the traditional choice.
-- **Tapioca cooking time varies.** Some pearls are larger and need longer; check by biting one - fully translucent with no white centre means done.
+- **Tapioca cooking time varies.** Some pearls are larger and need longer; check by biting one, fully translucent with no white centre means done.
 - **Dark muscovado for the syrup.** Plain brown sugar works but the muscovado depth is what makes the drink taste of more than sugar water.
 
 ## Storage

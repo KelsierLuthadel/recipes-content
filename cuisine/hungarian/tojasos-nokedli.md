@@ -32,17 +32,17 @@ Tojásos nokedli is the Hungarian comfort-food-on-toast equivalent, fresh nokedl
 
 ### Stage 1 - Batter
 1. Beat the eggs with the water and salt.
-1. Whisk in the flour to make a thick batter - pourable but lumpy, like a bread batter. Rest 10 minutes.
+1. Whisk in the flour to make a thick batter, pourable but lumpy, like a bread batter. Rest 10 minutes.
 
 ### Stage 2 - Cook the nokedli
 1. Bring a large pan of salted water to a rolling boil.
 1. Press the batter through a spätzle plane or a wide-holed colander directly into the water. Work in 2-3 batches.
-1. The dumplings cook in 60-90 seconds - they float; lift out with a slotted spoon and drain.
+1. The dumplings cook in 60-90 seconds, they float; lift out with a slotted spoon and drain.
 
 ### Stage 3 - Eggs
 1. Wipe out the empty pan or use a fresh one; melt the butter over medium heat.
 1. Add the drained nokedli; toss to coat.
-1. Pour over the beaten eggs; stir gently with a spatula. The eggs will set in 60-90 seconds - fold once or twice but don't overwork; you want soft ribbons of cooked egg, not scramble.
+1. Pour over the beaten eggs; stir gently with a spatula. The eggs will set in 60-90 seconds, fold once or twice but don't overwork; you want soft ribbons of cooked egg, not scramble.
 
 ### Stage 4 - Serve
 1. Off the heat, sprinkle in salt, pepper and parsley.

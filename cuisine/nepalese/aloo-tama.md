@@ -14,7 +14,7 @@
 Aloo tama (literally "potato bamboo") is one of Nepal's most distinctive dishes, the recipe that introduces visitors to the sour-funk side of the cuisine. The defining ingredient is tama, fermented bamboo shoot, which gives the curry its sharp, almost cheese-like sour note unlike anything else in the regional repertoire. Potato carries the body; black-eyed peas (bodi) provide the bite and the protein. The whole thing is spiced lightly with turmeric, cumin, coriander and a generous hand of timur (Sichuan-type pepper). Fermented bamboo is sold in jars or vacuum-packs at Nepali and Tibetan groceries. Tinned bamboo shoots are not a substitute; they're fresh-cooked, not fermented, and the dish loses its character. Fermented mustard greens (Sichuan suan cai) or sauerkraut substitute if you absolutely can't find tama. A staple of Newari and broader Nepali cooking, often served as part of a dal bhat plate.
 
 ## Ingredients
-- 200 g dried black-eyed peas (soaked overnight in cold water) - or 1 tin (400 g), drained
+- 200 g dried black-eyed peas (soaked overnight in cold water): or 1 tin (400 g), drained
 - 500 g waxy potatoes (peeled, cut into 2 cm chunks)
 - 200 g fermented bamboo shoot (tama), drained, sliced thin
 - 1 large onion (finely chopped)
@@ -53,7 +53,7 @@ Aloo tama (literally "potato bamboo") is one of Nepal's most distinctive dishes,
 1. Add the chopped tomatoes and salt. Cook 4-5 minutes, mashing with the back of a spoon, until the tomatoes break down into a thick base.
 
 ### Stage 4 - Add the bamboo and potato
-1. Stir in the sliced fermented bamboo. Cook 2-3 minutes; the bamboo's sour aroma will perfume the whole pot. (Open a window if you are sensitive to fermented foods - the smell is strong but the cooked flavour is mellower.)
+1. Stir in the sliced fermented bamboo. Cook 2-3 minutes; the bamboo's sour aroma will perfume the whole pot. (Open a window if you are sensitive to fermented foods, the smell is strong but the cooked flavour is mellower.)
 1. Add the potato chunks. Stir to coat in the spice base.
 1. Pour in the water. Stir, bring to a gentle boil.
 

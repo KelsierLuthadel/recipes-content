@@ -15,7 +15,7 @@ Grilled sardines are the smell of a Portuguese summer. From June to August the s
 
 ## Ingredients
 
-- 12 fresh whole sardines (small, about 600 g total - ideally finger-length, no longer than your hand)
+- 12 fresh whole sardines (small, about 600 g total, ideally finger-length, no longer than your hand)
 - 4 tablespoons coarse sea salt (yes, that much)
 - Olive oil (for the grill or pan)
 
@@ -30,7 +30,7 @@ Grilled sardines are the smell of a Portuguese summer. From June to August the s
 ## Method
 
 ### Stage 1 - Salt
-1. Rinse sardines briefly under cold water; don't gut them (intact sardines hold their shape better on the grill - Portuguese tradition is to grill whole; the guts are discarded after).
+1. Rinse sardines briefly under cold water; don't gut them (intact sardines hold their shape better on the grill, Portuguese tradition is to grill whole; the guts are discarded after).
 1. Pat dry on kitchen paper.
 1. Lay on a wide tray.
 1. Sprinkle generously with coarse salt on both sides and inside the cavity.
@@ -43,7 +43,7 @@ Grilled sardines are the smell of a Portuguese summer. From June to August the s
 ### Stage 3 - Grill (best - charcoal)
 1. Build a fierce charcoal fire; wait for the coals to be glowing red.
 1. Brush the grill grate lightly with olive oil to prevent sticking.
-1. Lay sardines on the hot grate - don't crowd; they should sizzle immediately.
+1. Lay sardines on the hot grate, don't crowd; they should sizzle immediately.
 1. Grill 3-4 minutes per side, until the skin is deeply charred and the flesh flakes easily from the spine.
 
 ### Stage 3 (alt) - Domestic broiler
@@ -54,7 +54,7 @@ Grilled sardines are the smell of a Portuguese summer. From June to August the s
 1. Cook 4 minutes; flip; cook 3-4 more minutes until charred.
 
 ### Stage 4 - Serve
-1. Lift sardines onto warm plates over slices of crusty bread (the bread soaks up the juices and oil - eat the bread).
+1. Lift sardines onto warm plates over slices of crusty bread (the bread soaks up the juices and oil, eat the bread).
 1. Arrange roasted pepper strips, parsley sprigs, lemon wedges and boiled potatoes alongside.
 
 ### Stage 5 - Eat

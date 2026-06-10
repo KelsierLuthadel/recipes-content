@@ -63,4 +63,4 @@ A lighter, faster Southern cabbage dish than its heavier bacon-laden sibling: th
 
 ## Storage
 - Keeps 4 days refrigerated; reheats well in the microwave or a pan.
-- Doesn't freeze well - cabbage texture suffers.
+- Doesn't freeze well, cabbage texture suffers.

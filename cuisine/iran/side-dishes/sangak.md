@@ -21,7 +21,7 @@ Sangak is the Persian stone-baked flatbread, long oval loaves with a dimpled sur
 - 1 ½ teaspoons salt
 - 1 tablespoon olive oil
 - 380 ml warm water
-- 500 g small smooth river pebbles (washed, oven-safe - see Notes)
+- 500 g small smooth river pebbles (washed, oven-safe, see Notes)
 - Cornmeal (or extra flour, for dusting)
 
 ## Method
@@ -39,7 +39,7 @@ Sangak is the Persian stone-baked flatbread, long oval loaves with a dimpled sur
 ### Stage 3 - Shape
 1. Tip the dough onto a generously floured surface.
 1. Divide in half.
-1. Press the first half into a long oval; stretch by hand to a 40-50 cm long, 15 cm wide flat - about 5 mm thick.
+1. Press the first half into a long oval; stretch by hand to a 40-50 cm long, 15 cm wide flat, about 5 mm thick.
 1. Slide carefully onto a peel (or upturned tray) dusted with cornmeal.
 
 ### Stage 4 - Bake
@@ -57,8 +57,8 @@ Sangak is the Persian stone-baked flatbread, long oval loaves with a dimpled sur
 1. Eat warm with feta, walnuts, fresh mint and basil, and a glass of black tea.
 
 ## Notes
-- **Pebbles:** Use small, smooth, oven-safe river stones - washed, dried. Pottery beads, baking weights, or coarse rock salt also work. Don't use pea gravel (too sharp).
-- **Don't have pebbles?** Bake on a hot stone or steel - you'll get a flat (not dimpled) sangak. Still delicious; just not the traditional shape.
+- **Pebbles:** Use small, smooth, oven-safe river stones, washed, dried. Pottery beads, baking weights, or coarse rock salt also work. Don't use pea gravel (too sharp).
+- **Don't have pebbles?** Bake on a hot stone or steel, you'll get a flat (not dimpled) sangak. Still delicious; just not the traditional shape.
 - **Long ferment:** The flavour depth comes from a long rise. Overnight in the fridge gives the best sourdough-like character.
 
 ## Storage

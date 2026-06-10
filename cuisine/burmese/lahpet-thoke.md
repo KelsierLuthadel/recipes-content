@@ -44,7 +44,7 @@ Myanmar's national salad and one of the most distinctive dishes in Southeast Asi
 1. Add the peanuts; fry 2-3 minutes until golden; lift out.
 1. Add the drained split peas; fry 4-5 minutes, stirring, until crispy and golden; lift out.
 1. Toast the sesame seeds in the residual oil 30 seconds.
-1. Reserve the oil - it's flavour-rich and goes back into the salad.
+1. Reserve the oil, it's flavour-rich and goes back into the salad.
 
 ### Stage 3 - Dressing
 1. Whisk the fish sauce, lime juice, sesame oil and brown sugar.

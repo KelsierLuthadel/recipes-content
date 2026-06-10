@@ -11,7 +11,7 @@
 **Cook Time:** 20 minutes
 
 ## Overview
-Chile's cheese empanadas, the parties-and-snacks half-moon that's the lighter, quicker cousin of empanadas de pino. You knead a dough of flour, salt, butter, warm milk and an egg to a smooth pliable ball and rest it for thirty minutes. The filling is simplicity itself: cubes of queso fresco or mozzarella about a centimetre across, with a sprinkle of oregano. Divide the dough, roll each ball to a ten-centimetre disc, place a cube of cheese in the centre, fold into a half-moon, crimp the edges with a fork. Deep-fry in moderately hot oil for three minutes per side until deep gold. Drain briefly, eat hot before the cheese sets - the stretchy bite is half the pleasure.
+Chile's cheese empanadas, the parties-and-snacks half-moon that's the lighter, quicker cousin of empanadas de pino. You knead a dough of flour, salt, butter, warm milk and an egg to a smooth pliable ball and rest it for thirty minutes. The filling is simplicity itself: cubes of queso fresco or mozzarella about a centimetre across, with a sprinkle of oregano. Divide the dough, roll each ball to a ten-centimetre disc, place a cube of cheese in the centre, fold into a half-moon, crimp the edges with a fork. Deep-fry in moderately hot oil for three minutes per side until deep gold. Drain briefly, eat hot before the cheese sets, the stretchy bite is half the pleasure.
 
 ## Ingredients
 

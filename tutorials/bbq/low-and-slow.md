@@ -7,7 +7,7 @@
 ## Overview
 Every BBQ cook in this course follows the same temperature curve and the same general phases. Knowing the curve lets you predict where a cook is in its journey by looking at the meat's internal temperature, and lets you handle the surprises (the stall) calmly.
 
-This lesson is the meta-lesson - the principles abstracted out of the individual recipes. It is short.
+This lesson is the meta-lesson, the principles abstracted out of the individual recipes. It is short.
 
 ## The Temperature Targets
 
@@ -50,7 +50,7 @@ The meat hits 70-75 C internal and the temperature stops climbing. Evaporative c
 What is happening:
 - The bark is hardening and drying
 - The collagen-to-gelatin conversion is ramping up
-- The meat is losing moisture (significant moisture - up to 15-20% of starting weight by the end of the stall)
+- The meat is losing moisture (significant moisture, up to 15-20% of starting weight by the end of the stall)
 
 What you do:
 - **Wait.** Patience. Maintain temperature; the stall breaks eventually.
@@ -108,7 +108,7 @@ A 6 kg brisket is a 14-hour project from go to serve. Plan accordingly.
 
 ## The Single Best Practical Advice
 
-**Get a good thermometer.** A dual-probe wireless thermometer (one probe in the smoker, one in the meat) is the single highest-value piece of BBQ equipment. ThermoWorks Smoke, Inkbird IBT-4XS, the FireBoard - any will work. The cook becomes manageable when you can see the temperature without opening the smoker.
+**Get a good thermometer.** A dual-probe wireless thermometer (one probe in the smoker, one in the meat) is the single highest-value piece of BBQ equipment. ThermoWorks Smoke, Inkbird IBT-4XS, the FireBoard, any will work. The cook becomes manageable when you can see the temperature without opening the smoker.
 
 **Cook to probe-tender, not to temperature.** Temperature is a guide; the probe feel is the truth. Two briskets cook differently; the one is ready when it is ready.
 

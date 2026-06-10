@@ -28,10 +28,10 @@ Japan's take on dan-dan noodles: a brothy ramen built around a thick sesame-and-
 - 1 teaspoon toasted sesame oil
 
 ### Tare (per bowl, makes 2)
-- 3 tablespoons white sesame paste (Asian style - runnier than tahini; substitute tahini whisked smooth)
+- 3 tablespoons white sesame paste (Asian style, runnier than tahini; substitute tahini whisked smooth)
 - 2 tablespoons soy sauce
 - 1 tablespoon rice vinegar
-- 1 tablespoon chilli oil (la-yu - Japanese rayu chilli oil; substitute homemade or a good shop-bought)
+- 1 tablespoon chilli oil (la-yu, Japanese rayu chilli oil; substitute homemade or a good shop-bought)
 - 1 teaspoon white miso paste
 - 1 garlic clove (grated to a paste)
 - ½ teaspoon caster sugar
@@ -67,7 +67,7 @@ Japan's take on dan-dan noodles: a brothy ramen built around a thick sesame-and-
 
 ### Stage 3 - Soup
 1. Heat the chicken stock in a saucepan to just-simmering.
-1. Whisk in 1 tablespoon sesame paste and 1 teaspoon chilli oil - the soup turns a creamy beige with red flecks.
+1. Whisk in 1 tablespoon sesame paste and 1 teaspoon chilli oil, the soup turns a creamy beige with red flecks.
 1. Keep hot.
 
 ### Stage 4 - Bok choy and noodles
@@ -77,7 +77,7 @@ Japan's take on dan-dan noodles: a brothy ramen built around a thick sesame-and-
 
 ### Stage 5 - Assemble
 1. Working fast (everything wants to be hot):
-1. Pour 400 ml of the hot soup into each bowl over the tare - whisk briefly with chopsticks so the tare emulsifies into the soup.
+1. Pour 400 ml of the hot soup into each bowl over the tare, whisk briefly with chopsticks so the tare emulsifies into the soup.
 1. Drain the noodles; lift into the soup; arrange in a small mound at the centre.
 1. Spoon half the niku miso on top of the noodles in each bowl.
 1. Add 2 bok choy halves alongside.

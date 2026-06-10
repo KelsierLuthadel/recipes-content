@@ -33,7 +33,7 @@ Gaza's coastal showpiece, a whole sea bream or bass baked into a sauce that's ve
 - 200 g tahini (well-stirred)
 - 200 ml warm water (more as needed)
 - 2 lemons (about 4 tablespoons, juice)
-- 1 large bunch fresh coriander (chopped - leaves and fine stems, about 80 g)
+- 1 large bunch fresh coriander (chopped, leaves and fine stems, about 80 g)
 - 1 teaspoon salt (to taste)
 
 ### Garnish
@@ -56,15 +56,15 @@ Gaza's coastal showpiece, a whole sea bream or bass baked into a sauce that's ve
 ### Stage 2 - Soften the onion
 1. Heat olive oil in a wide deep oven-safe pan over medium heat.
 1. Add diced onion; cook 8 minutes until soft and just gold.
-1. Add sliced garlic; cook 2 minutes (don't brown - golden is right).
+1. Add sliced garlic; cook 2 minutes (don't brown, golden is right).
 
 ### Stage 3 - Spice
 1. Stir in Aleppo pepper, cumin, ground coriander and cayenne (if using); cook 30 seconds.
 
 ### Stage 4 - Tahini sauce
-1. Off heat (or very low heat - tahini scorches).
-1. Stir in the tahini, warm water and lemon juice - the tahini will look like it's seizing; keep whisking and it'll smooth out into a velvety sauce.
-1. Add more warm water 1 tablespoon at a time if too thick - the sauce should be like pourable double cream.
+1. Off heat (or very low heat, tahini scorches).
+1. Stir in the tahini, warm water and lemon juice, the tahini will look like it's seizing; keep whisking and it'll smooth out into a velvety sauce.
+1. Add more warm water 1 tablespoon at a time if too thick, the sauce should be like pourable double cream.
 1. Stir in the chopped coriander.
 1. Add salt; taste; adjust.
 
@@ -83,7 +83,7 @@ Gaza's coastal showpiece, a whole sea bream or bass baked into a sauce that's ve
 1. Squeeze of lemon at the table.
 
 ## Notes
-- **Don't boil the tahini sauce:** Tahini splits and goes oily over too much heat. The sauce warms gently in the oven inside the foil - that's the right amount.
+- **Don't boil the tahini sauce:** Tahini splits and goes oily over too much heat. The sauce warms gently in the oven inside the foil, that's the right amount.
 - **Whole fish vs fillets:** Whole fish gives the most flavour and traditional presentation. Fillets work for a quicker dinner; reduce baking time to 15 minutes total.
 - **Sea bass, sea bream, or red mullet:** Any firm white fish with skin and bones in. White flat-fish are too delicate; tuna or salmon are too oily and overwhelm the tahini.
 

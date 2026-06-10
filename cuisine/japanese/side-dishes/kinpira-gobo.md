@@ -25,7 +25,7 @@ A glossy root-vegetable side from the workaday Japanese repertoire: julienned bu
 - 1 tablespoon mirin
 - 1 tablespoon sake (or substitute extra mirin + 1 teaspoon water)
 - 1 tablespoon caster sugar
-- 1 tablespoon dashi (optional, for extra depth - use instant dashi powder dissolved in 1 tablespoon hot water)
+- 1 tablespoon dashi (optional, for extra depth, use instant dashi powder dissolved in 1 tablespoon hot water)
 
 ### Stir-fry
 - 1 tablespoon sesame oil
@@ -40,7 +40,7 @@ A glossy root-vegetable side from the workaday Japanese repertoire: julienned bu
 ## Method
 
 ### Stage 1 - Prep the gobo
-1. Scrub the burdock root under running water with the back of a knife or a stiff brush - gobo has a thin brown skin that's edible and flavourful (don't peel away the skin like a carrot; just scrub clean).
+1. Scrub the burdock root under running water with the back of a knife or a stiff brush, gobo has a thin brown skin that's edible and flavourful (don't peel away the skin like a carrot; just scrub clean).
 1. Slice the root into 4-5 cm lengths.
 1. Cut each length into 3 mm thick slabs.
 1. Stack the slabs and cut into 3 mm matchsticks.
@@ -59,7 +59,7 @@ A glossy root-vegetable side from the workaday Japanese repertoire: julienned bu
 
 ### Stage 5 - Gobo first
 1. Add the drained gobo matchsticks.
-1. Stir-fry 3-4 minutes, tossing - the gobo softens slightly but should retain a crisp bite.
+1. Stir-fry 3-4 minutes, tossing, the gobo softens slightly but should retain a crisp bite.
 
 ### Stage 6 - Carrot
 1. Add the carrot matchsticks.
@@ -67,7 +67,7 @@ A glossy root-vegetable side from the workaday Japanese repertoire: julienned bu
 
 ### Stage 7 - Sauce
 1. Pour in the sauce mixture; toss to coat.
-1. Cook 4-5 minutes over medium-high heat - the sauce reduces and clings to the vegetables. Stir frequently to prevent burning.
+1. Cook 4-5 minutes over medium-high heat, the sauce reduces and clings to the vegetables. Stir frequently to prevent burning.
 1. The vegetables should be tender-crisp and the pan should be nearly dry of liquid.
 
 ### Stage 8 - Finish

@@ -74,7 +74,7 @@ The New Orleans bread pudding, the warm dessert that lands on the table at the e
 ## Notes
 - **Stale bread:** The drier the bread, the better the texture. Fresh bread turns gluey. If yours is too fresh, tear it onto a tray and dry in a 130°C oven for 15 minutes first.
 - **Brioche vs French bread:** Both work. Brioche gives a richer, more custardy result; French bread keeps the slight chew of a classic Louisiana pudding.
-- **The bourbon sauce:** Off-heat egg yolk addition is critical - too hot and you get scrambled egg. Whisk constantly.
+- **The bourbon sauce:** Off-heat egg yolk addition is critical, too hot and you get scrambled egg. Whisk constantly.
 - **Sauce non-alcoholic:** Replace the bourbon with 60 ml of strong cold espresso or 60 ml apple juice with 1 teaspoon vanilla. Different, still excellent.
 
 ## Variations

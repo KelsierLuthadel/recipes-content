@@ -16,7 +16,7 @@ Mexico's crisp tortilla plate: flat-fried tortillas built up in layers with refr
 ## Ingredients
 
 ### Tostada shells
-- 8 corn tortillas (15 cm - bought, not made)
+- 8 corn tortillas (15 cm, bought, not made)
 - 2 tablespoons vegetable oil (for baking) OR 300 ml oil (for frying)
 - A pinch of salt
 
@@ -25,7 +25,7 @@ Mexico's crisp tortilla plate: flat-fried tortillas built up in layers with refr
 - 2 tablespoons vegetable oil
 - 1 onion (small, sliced thin)
 - 3 garlic cloves (sliced)
-- 2 chipotles in adobo (chopped - plus 1 tablespoon of the adobo sauce)
+- 2 chipotles in adobo (chopped, plus 1 tablespoon of the adobo sauce)
 - 1 (400 g) tin chopped tomatoes
 - 1 teaspoon dried oregano
 - 1 teaspoon ground cumin
@@ -78,10 +78,10 @@ Mexico's crisp tortilla plate: flat-fried tortillas built up in layers with refr
 
 ### Stage 5 - Serve
 1. Plate 2 tostadas per person; offer lime wedges on the side.
-1. Eat with hands, holding the tostada flat between thumb and fingers (the corners crack if you flex it - bite carefully).
+1. Eat with hands, holding the tostada flat between thumb and fingers (the corners crack if you flex it, bite carefully).
 
 ## Notes
-- **Crisp the shells well:** Soggy shells are sad. Whether frying or baking, push for deep golden colour - the shells need to be crisp enough to hold the toppings without collapsing.
+- **Crisp the shells well:** Soggy shells are sad. Whether frying or baking, push for deep golden colour, the shells need to be crisp enough to hold the toppings without collapsing.
 - **Assemble at the last moment:** Pre-assembled tostadas go soggy within 10 minutes. Lay out all the toppings; assemble at the table or just before serving.
 - **Toppings are flexible:** Tinga is just one option. Pulled pork carnitas, refried beans alone (vegetarian), ceviche-marinated white fish, or grilled prawns all work. Tostada de tinga is the most common Mexican home version.
 

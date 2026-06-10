@@ -46,7 +46,7 @@ Morocco's weeknight tagine and the dish that anchors a fast Friday lunch when th
 ### To finish
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 - 2 tablespoons fresh coriander (chopped)
-- 1 pickled lemon (small, optional - peel sliced into strips)
+- 1 pickled lemon (small, optional, peel sliced into strips)
 
 ### To serve
 - Khobz, pita (or crusty bread)
@@ -67,20 +67,20 @@ Morocco's weeknight tagine and the dish that anchors a fast Friday lunch when th
 1. Pour in the passata.
 1. Crumble in the stock cube.
 1. Add salt and sugar.
-1. Bring to a simmer; cook 10 minutes - the sauce reduces and the colour deepens.
+1. Bring to a simmer; cook 10 minutes, the sauce reduces and the colour deepens.
 
 ### Stage 3 - Cook the meatballs
-1. Tip in the meatballs in a single layer (don't crowd - if needed do 2 batches).
+1. Tip in the meatballs in a single layer (don't crowd, if needed do 2 batches).
 1. Don't stir for the first 4 minutes; let the bottom sides cook.
 1. Then gently turn them over with a spoon and a fork; cook 4 more minutes.
-1. Continue, turning occasionally, until cooked through - about 12 minutes total.
+1. Continue, turning occasionally, until cooked through, about 12 minutes total.
 
 ### Stage 4 - Eggs
 1. With the back of a spoon, make 4 small wells between the meatballs.
 1. Crack an egg into each well.
 1. Season the eggs with a tiny pinch of salt.
 1. Cover with a lid (or foil if the tagine is too tall); reduce heat to low.
-1. Cook 4-5 minutes - the whites should be just set; the yolks still runny.
+1. Cook 4-5 minutes, the whites should be just set; the yolks still runny.
 
 ### Stage 5 - Serve
 1. Scatter parsley, coriander and (if using) preserved lemon strips across the top.

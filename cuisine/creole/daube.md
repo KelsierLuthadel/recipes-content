@@ -64,7 +64,7 @@ Daube is the Creole beef stew that traces its roots through the French quarter a
 1. Cover; transfer to a 150°C (130°C fan) oven 3 hours. The meat should shred easily.
 
 ### Stage 6 - Reduce
-1. Uncover; cook a further 25-30 minutes (on the stovetop or in the oven) - the gravy thickens to coat a spoon.
+1. Uncover; cook a further 25-30 minutes (on the stovetop or in the oven): the gravy thickens to coat a spoon.
 1. Lift out the bay and thyme stems.
 1. Taste; adjust salt.
 

@@ -52,7 +52,7 @@ Beguni (from begun, the Bengali word for brinjal/eggplant) is the simplest of th
 ### Stage 2 - Batter
 1. In a wide bowl whisk together the chickpea flour, rice flour, nigella seeds, turmeric, chilli powder, cumin, coriander, baking soda and salt.
 1. Add the ginger paste and chopped green chilli.
-1. Whisk in the cold water gradually until the batter is smooth and the consistency of thick cream - it should coat the back of a spoon and drip slowly. Add a splash more water if too thick.
+1. Whisk in the cold water gradually until the batter is smooth and the consistency of thick cream, it should coat the back of a spoon and drip slowly. Add a splash more water if too thick.
 1. Rest the batter 5 minutes.
 
 ### Stage 3 - Fry

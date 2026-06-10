@@ -15,7 +15,7 @@ Arroz con leche is the Cuban rice pudding that turns up at every family dinner, 
 
 ## Ingredients
 
-- 150 g short-grain rice (paella rice, pudding rice or arborio - not basmati or long-grain)
+- 150 g short-grain rice (paella rice, pudding rice or arborio, not basmati or long-grain)
 - 500 ml water
 - 1 cinnamon stick
 - 1 strip of lemon zest (about 5 cm long, no pith)
@@ -58,7 +58,7 @@ Arroz con leche is the Cuban rice pudding that turns up at every family dinner, 
 4. Serve warm, or chill and serve cold.
 
 ## Notes
-- **Short-grain rice:** Paella, pudding or arborio - the starch is what makes the pudding creamy. Long-grain or basmati won't give the right texture: the grains stay separate and the milk stays thin.
+- **Short-grain rice:** Paella, pudding or arborio, the starch is what makes the pudding creamy. Long-grain or basmati won't give the right texture: the grains stay separate and the milk stays thin.
 - **Condensed milk over plain sugar:** The Cuban version uses sweetened condensed milk for richness and a slight caramel note. Substituting with plain sugar gives a thinner, less rich pudding.
 - **Cinnamon stick, not powder:** Powder makes the pudding dusty-grey. The stick infuses cleanly and lifts out.
 - **Stir often:** Milk on the base of the pan catches and burns; the burn taints the whole pot. Stir every few minutes.

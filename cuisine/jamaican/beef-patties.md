@@ -58,7 +58,7 @@ A handheld pastry that looks like a Cornish pasty but tastes nothing like one. T
 1. Cook 2-3 minutes until fragrant.
 1. Pour in the stock; stir 1 minute.
 1. Mix in the breadcrumbs (they absorb the liquid), then add the cubed butter and stir to melt through.
-1. The filling should be juicy and moist - never dry.
+1. The filling should be juicy and moist, never dry.
 1. Cool completely before assembly.
 
 ### Stage 3 - Assemble and bake

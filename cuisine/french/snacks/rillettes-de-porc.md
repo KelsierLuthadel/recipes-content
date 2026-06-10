@@ -16,7 +16,7 @@ Rillettes are the French country preservation of slow-cooked pork pulled into lo
 ## Ingredients
 
 ### Pork
-- 1.2 kg boneless pork shoulder (with fat - about 25-30% fat content; lean cuts won't work)
+- 1.2 kg boneless pork shoulder (with fat, about 25-30% fat content; lean cuts won't work)
 - 200 g pork back fat OR lard (cubed)
 - 2 shallots (finely diced)
 - 6 garlic cloves (crushed)
@@ -48,7 +48,7 @@ Rillettes are the French country preservation of slow-cooked pork pulled into lo
 
 ### Stage 1 - Prep
 1. Heat oven to 120°C (100°C fan).
-1. Cut the pork shoulder into 3 cm chunks. Don't trim the fat - it's essential.
+1. Cut the pork shoulder into 3 cm chunks. Don't trim the fat, it's essential.
 1. Cube the back fat or lard into 1 cm pieces.
 
 ### Stage 2 - Combine
@@ -71,14 +71,14 @@ Rillettes are the French country preservation of slow-cooked pork pulled into lo
 ### Stage 5 - Shred
 1. Tip the drained pork into a wide bowl.
 1. Discard any large gristly pieces.
-1. Shred the pork with two forks into long strands - NOT a paste. Some chunks are good; you want texture.
-1. Tradition says: never use a food processor - it gives a paste, not strands.
+1. Shred the pork with two forks into long strands, NOT a paste. Some chunks are good; you want texture.
+1. Tradition says: never use a food processor, it gives a paste, not strands.
 
 ### Stage 6 - Season and combine
 1. Add salt, pepper (black and white), and brandy if using.
 1. Pour in about 100 ml of the reserved fat (or enough to make the mixture moist and bind-able but not soupy).
 1. Stir with a fork to integrate.
-1. Taste; adjust salt and pepper liberally - cold rillettes need MORE salt than warm rillettes seem to (you'll be eating them cold from the jar).
+1. Taste; adjust salt and pepper liberally, cold rillettes need MORE salt than warm rillettes seem to (you'll be eating them cold from the jar).
 
 ### Stage 7 - Jar
 1. Pack the rillettes firmly into sterilised glass jars, pressing down to eliminate air pockets.
@@ -88,10 +88,10 @@ Rillettes are the French country preservation of slow-cooked pork pulled into lo
 1. Seal jars; refrigerate.
 
 ### Stage 8 - Mature
-1. Refrigerate at least 3 days, ideally 5, before eating. The flavours mature dramatically - day-of, the rillettes taste of pork-and-salt; day-5, they're complex, savoury, and faintly sweet.
+1. Refrigerate at least 3 days, ideally 5, before eating. The flavours mature dramatically, day-of, the rillettes taste of pork-and-salt; day-5, they're complex, savoury, and faintly sweet.
 
 ### Stage 9 - Serve
-1. Bring out of the fridge 30 minutes before serving - rillettes are eaten at room temperature.
+1. Bring out of the fridge 30 minutes before serving, rillettes are eaten at room temperature.
 1. Open the jar; the fat-cap protects everything underneath.
 1. Spoon out generously; spread thickly onto toasted baguette.
 1. Garnish each toast with a cornichon, a dab of mustard.
@@ -99,7 +99,7 @@ Rillettes are the French country preservation of slow-cooked pork pulled into lo
 
 ## Notes
 - **Fatty pork is non-negotiable:** Lean pork shoulder gives dry, chalky rillettes. Look for shoulder with visible white fat marbling; if your butcher doesn't have fatty shoulder, ask for pork belly cubes mixed in (50/50 with leaner shoulder).
-- **Shred, don't paste:** Long strands of meat give rillettes their characteristic texture and look - a food processor turns them into a pâté, which is a different dish entirely.
+- **Shred, don't paste:** Long strands of meat give rillettes their characteristic texture and look, a food processor turns them into a pâté, which is a different dish entirely.
 - **The fat cap is the preservation:** A complete fat seal over the top of each jar protects the rillettes from oxygen and extends the fridge life dramatically (to 3 weeks). Skipping the cap shortens the keep to 1 week.
 
 ## Storage

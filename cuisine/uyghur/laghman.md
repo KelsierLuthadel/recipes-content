@@ -72,7 +72,7 @@ Two distinct elements that meet at the bowl: long, springy hand-pulled noodles w
 1. Eat immediately, stirring the topping into the noodles at the table.
 
 ## Notes
-- **Rest the dough properly:** rushed dough won't stretch - it'll snap. Two rest stages with oiling between is the technique that allows hand-pulling.
+- **Rest the dough properly:** rushed dough won't stretch, it'll snap. Two rest stages with oiling between is the technique that allows hand-pulling.
 - **Don't rip:** the noodle thins by pulling, not pinching. Long, smooth, slow movements.
 - **The "dance":** the bounce on the tabletop is more than theatre; it elongates and aerates the dough. Some breakage is expected.
 - **Topping is wet, not dry:** Uyghur laghman has a brothy sauce around the noodles, not a stir-fry glaze. Water at the end is correct.

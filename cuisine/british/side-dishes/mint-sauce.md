@@ -15,20 +15,20 @@ The British roast-lamb companion: finely chopped fresh spearmint stirred into su
 
 ## Ingredients
 
-- 1 large bunch fresh mint (about 30 g leaves only, stems discarded - spearmint is the traditional choice)
+- 1 large bunch fresh mint (about 30 g leaves only, stems discarded, spearmint is the traditional choice)
 - 2 tablespoons water (just-boiled)
 - 1 tablespoon caster sugar
-- 3-4 tablespoons malt vinegar (traditional) - or white wine vinegar (more delicate)
+- 3-4 tablespoons malt vinegar (traditional): or white wine vinegar (more delicate)
 - A small pinch of salt
 
 ## Method
 
 ### Stage 1 - Prep the mint
-1. Pull mint leaves off their stems - you want only the soft leaves; thick stems are bitter and stringy.
-1. Chop the leaves very fine on a board with a sharp knife. Pulse in a mini-food-processor for 10-15 seconds if you prefer (don't over-process to a paste - finely chopped is right).
+1. Pull mint leaves off their stems, you want only the soft leaves; thick stems are bitter and stringy.
+1. Chop the leaves very fine on a board with a sharp knife. Pulse in a mini-food-processor for 10-15 seconds if you prefer (don't over-process to a paste, finely chopped is right).
 
 ### Stage 2 - Dissolve the sugar
-1. In a small bowl or jug, dissolve the sugar in the just-boiled water - stir for 30 seconds until clear.
+1. In a small bowl or jug, dissolve the sugar in the just-boiled water, stir for 30 seconds until clear.
 
 ### Stage 3 - Combine
 1. Add vinegar to the sugar-water (start with 3 tablespoons; adjust at the end if desired).

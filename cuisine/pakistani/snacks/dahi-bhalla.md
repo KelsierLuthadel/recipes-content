@@ -16,12 +16,12 @@ Dahi bhalla is the yogurt-and-fritter snack that turns up at iftar and across Ei
 ## Ingredients
 
 ### Fritters (bhalla)
-- 200 g dried urad dal (white split - sold at South Asian shops; sometimes called "split white lentils")
+- 200 g dried urad dal (white split, sold at South Asian shops; sometimes called "split white lentils")
 - 2 cm fresh ginger (grated)
 - 1 green chilli (chopped)
 - 60-80 ml cold water (for blending)
 - 1 teaspoon salt
-- ½ teaspoon asafoetida (hing - sold at Indian shops)
+- ½ teaspoon asafoetida (hing, sold at Indian shops)
 - ¼ teaspoon ground white pepper
 - ½ teaspoon baking soda (added just before frying)
 
@@ -53,13 +53,13 @@ Dahi bhalla is the yogurt-and-fritter snack that turns up at iftar and across Ei
 
 ### Stage 2 - Batter
 1. Place drained urad dal, ginger and green chilli in a powerful blender with 60 ml cold water.
-1. Blend to a very smooth thick batter - like very thick whipped cream. Add more water 1 tablespoon at a time only if necessary.
+1. Blend to a very smooth thick batter, like very thick whipped cream. Add more water 1 tablespoon at a time only if necessary.
 1. Tip into a wide bowl.
 
 ### Stage 3 - Whip
-1. Whip vigorously with a wooden spoon (or stand mixer paddle) for 5 minutes - the batter visibly lightens in colour and increases in volume.
+1. Whip vigorously with a wooden spoon (or stand mixer paddle) for 5 minutes, the batter visibly lightens in colour and increases in volume.
 1. Stir in salt, asafoetida and white pepper.
-1. Test the float-test: drop a small ball into cold water - if it floats, the batter has enough air. If it sinks, whip another 2 minutes.
+1. Test the float-test: drop a small ball into cold water, if it floats, the batter has enough air. If it sinks, whip another 2 minutes.
 
 ### Stage 4 - Spiced yogurt
 1. Whisk yogurt, water, salt, sugar, ground roasted cumin and chilli powder in a wide bowl.
@@ -91,7 +91,7 @@ Dahi bhalla is the yogurt-and-fritter snack that turns up at iftar and across Ei
 ## Notes
 - **Whip the batter:** Light, airy fritters depend on whipping air into the batter. Insufficient whipping gives dense, hard fritters that won't absorb the yogurt properly.
 - **Soak in lukewarm water:** Not cold (won't fully soften) and not hot (cooks the surface). Lukewarm is right. The 8-minute soak transforms the fritters from crisp to spongy.
-- **Sweet yogurt is the point:** Pakistani dahi bhalla is sweet-sour-salty-spicy all at once. Don't omit the sugar - bland yogurt makes a sad bowl.
+- **Sweet yogurt is the point:** Pakistani dahi bhalla is sweet-sour-salty-spicy all at once. Don't omit the sugar, bland yogurt makes a sad bowl.
 
 ## Storage
 - Soaked fritters in spiced yogurt: best within 2 hours; the toppings should go on at the moment of serving.

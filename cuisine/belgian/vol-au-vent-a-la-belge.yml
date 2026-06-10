@@ -31,8 +31,8 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: free-range chicken - poach the whole bird then strip; or 800 g boneless skinless chicken thighs
-    raw: 1 free-range chicken - poach the whole bird then strip; or 800 g boneless skinless chicken thighs
+    name: "free-range chicken : poach the whole bird then strip; or 800 g boneless skinless chicken thighs"
+    raw: "1 free-range chicken : poach the whole bird then strip; or 800 g boneless skinless chicken thighs"
   - qty: 1.2
     unit: l
     name: chicken stock

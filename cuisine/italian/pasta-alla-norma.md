@@ -2,7 +2,7 @@
 
 ![Pasta alla Norma](resources/pasta-alla-norma.jpg)
 
-*Sicily's eggplant-tomato pasta: short pasta (rigatoni or penne) tossed with a sauce of fried eggplant cubes, garlic-tomato passata, fresh basil and ricotta salata. The Sicilian classic from Catania, named after Bellini's opera - fried eggplant, sweet tomato, salty cheese, a beautiful trio.*
+*Sicily's eggplant-tomato pasta: short pasta (rigatoni or penne) tossed with a sauce of fried eggplant cubes, garlic-tomato passata, fresh basil and ricotta salata. The Sicilian classic from Catania, named after Bellini's opera, fried eggplant, sweet tomato, salty cheese, a beautiful trio.*
 
 **Serves:** 4
 

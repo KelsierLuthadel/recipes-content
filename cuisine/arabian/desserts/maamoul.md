@@ -54,7 +54,7 @@ The cookie that arrives in tins at every Middle Eastern festival worth marking, 
 ### Stage 1 - Dough (the day before)
 1. Whisk the semolina, flour, sugar, mahleb, mastic and cardamom in a large bowl.
 1. Pour over the warm melted butter; mix well to coat every grain.
-1. Cover and rest 4 hours at room temperature (or overnight) - the semolina absorbs the butter.
+1. Cover and rest 4 hours at room temperature (or overnight): the semolina absorbs the butter.
 1. Dissolve the yeast in the warm milk; rest 5 minutes.
 1. Add to the semolina mixture with the orange blossom water and rosewater.
 1. Mix to a soft, smooth dough; cover and rest 30 minutes.
@@ -72,19 +72,19 @@ The cookie that arrives in tins at every Middle Eastern festival worth marking, 
 
 ### Stage 4 - Mould or score
 1. If using a maamoul mould: dust with flour; press the cookie smooth-side down into the mould; tap out onto a baking tray.
-1. If hand-shaping: flatten the ball gently to a 4 cm thick disc; press a pattern in the surface with the tines of a fork or the back of a knife (date - diamond; walnut - round; pistachio - oval, traditionally).
+1. If hand-shaping: flatten the ball gently to a 4 cm thick disc; press a pattern in the surface with the tines of a fork or the back of a knife (date, diamond; walnut, round; pistachio, oval, traditionally).
 
 ### Stage 5 - Bake
 1. Place on lined trays, 2 cm apart.
-1. Bake 18-22 minutes until pale gold (not brown - maamoul stay light).
-1. Cool fully on a wire rack - they firm up as they cool.
+1. Bake 18-22 minutes until pale gold (not brown, maamoul stay light).
+1. Cool fully on a wire rack, they firm up as they cool.
 
 ### Stage 6 - Dust and serve
 1. Dust generously with icing sugar.
 1. Serve with strong sweet coffee or tea.
 
 ## Notes
-- **Pale, never golden:** Browned maamoul are overdone - the texture goes from soft-crumbly to dry. Pull from the oven before they colour.
+- **Pale, never golden:** Browned maamoul are overdone, the texture goes from soft-crumbly to dry. Pull from the oven before they colour.
 - **Mahleb:** Ground sour cherry kernels; gives a faintly almond-cherry note unique to maamoul. Sold at Middle Eastern grocers; skip if unavailable.
 - **Maamoul moulds:** Carved wooden moulds give the traditional patterns and a cleaner shape. Each filling has its mould (date is diamond-pattern; walnut and pistachio are round). A fork-pattern is the easy substitute.
 

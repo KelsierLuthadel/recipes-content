@@ -67,7 +67,7 @@ A bowl of warm, slightly tangy tomato-and-lamb broth thickened by the starch of 
 ## Notes
 - **Tear, don't roll-and-cut:** the irregular hand-torn shapes are the dish. Even pieces eat like generic pasta.
 - **Communal preparation:** traditionally several people tear pasta into the pot at once. Faster, looser, more fun.
-- **Seasonal flex:** the recipe changes with the vegetables available - swap in pumpkin, courgette, beans or whatever's in season.
+- **Seasonal flex:** the recipe changes with the vegetables available, swap in pumpkin, courgette, beans or whatever's in season.
 
 ## Storage
 - Best fresh; the pasta softens further on standing.

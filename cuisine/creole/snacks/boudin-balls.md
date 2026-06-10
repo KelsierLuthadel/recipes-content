@@ -17,7 +17,7 @@ Boudin balls are the Cajun snack that turns the porky-rice filling of a boudin s
 
 ### Boudin filling (or use 500 g of pre-made boudin, casings removed)
 - 400 g pork shoulder (cut into 3 cm cubes)
-- 100 g pork liver (optional, traditional - gives the iconic boudin earthiness)
+- 100 g pork liver (optional, traditional, gives the iconic boudin earthiness)
 - 1 onion (large, chopped)
 - 2 celery stalks (chopped)
 - ½ green pepper (chopped)
@@ -52,7 +52,7 @@ Boudin balls are the Cajun snack that turns the porky-rice filling of a boudin s
 1. Bring to a simmer; cook 1 hour 15 minutes until the pork is very tender.
 1. Drain (reserve some cooking liquid).
 1. Remove the bay leaf.
-1. Coarsely mince or pulse the pork mixture in a food processor (don't reduce to paste - keep some texture).
+1. Coarsely mince or pulse the pork mixture in a food processor (don't reduce to paste, keep some texture).
 1. Mix with the cooked rice, parsley, spring onion, salt, pepper, cayenne, paprika and thyme.
 1. Stir in 2-3 tablespoons of the reserved cooking liquid to moisten if dry.
 
@@ -80,9 +80,9 @@ Boudin balls are the Cajun snack that turns the porky-rice filling of a boudin s
 
 ## Notes
 - **Pork liver is traditional:** gives the iconic boudin earthiness. Omit if squeamish; the balls work but taste subtly different.
-- **Don't over-process the filling:** texture should remain visible - bits of pork, distinct rice grains. Pasty boudin balls taste of nothing.
+- **Don't over-process the filling:** texture should remain visible, bits of pork, distinct rice grains. Pasty boudin balls taste of nothing.
 - **Chill before breading:** room-temp filling slides around during the dredge. 30 min firm-up makes neat balls.
-- **Cajun seasoning in the breading:** not the filling. The pepper hits twice - in the filling and on the crust - for the iconic flavour.
+- **Cajun seasoning in the breading:** not the filling. The pepper hits twice, in the filling and on the crust, for the iconic flavour.
 
 ## Storage
 - Best within 30 minutes of frying.

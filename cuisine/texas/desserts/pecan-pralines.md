@@ -2,7 +2,7 @@
 
 ![Pecan Pralines](resources/pecan-pralines.jpg)
 
-*Texas's pecan candy: brown sugar, cream and butter cooked together to soft-ball stage, then beaten with toasted pecans and dropped in spoonfuls onto parchment to set into chewy-grainy candies. The Texas-Louisiana praline tradition - pecan-rich, brown-sugar-deep, candy-shop-classic.*
+*Texas's pecan candy: brown sugar, cream and butter cooked together to soft-ball stage, then beaten with toasted pecans and dropped in spoonfuls onto parchment to set into chewy-grainy candies. The Texas-Louisiana praline tradition, pecan-rich, brown-sugar-deep, candy-shop-classic.*
 
 **Serves:** Makes 24 pralines
 
@@ -11,7 +11,7 @@
 **Cook Time:** 25 minutes
 
 ## Overview
-Pecan pralines are one of Texas's most iconic candies and a tradition shared with neighbouring Louisiana (the dish has French and Creole roots; came to America with French settlers in Louisiana, then spread to Texas via the pecan-growing regions): a candy made from dark brown sugar, granulated sugar, double cream, butter and toasted pecans cooked together to the soft-ball stage (114-118°C / 237-244°F), then beaten vigorously off the heat for a few minutes till the mixture starts to thicken and crystallise slightly, then dropped quickly in spoonfuls onto parchment paper where each praline sets into a flat 6-7 cm disc - chewy, grainy, deeply brown-sugar-flavored, packed with toasted pecans. A candy thermometer is essential to hit soft-ball stage; too hot gives hard candy, too cool and they don't set. The beating off-heat is what crystallises the sugar slightly and gives the proper grainy-chewy texture. Work quickly once it sets in the pan; the candy hardens fast, with maybe sixty seconds to scoop and drop.
+Pecan pralines are one of Texas's most iconic candies and a tradition shared with neighbouring Louisiana (the dish has French and Creole roots; came to America with French settlers in Louisiana, then spread to Texas via the pecan-growing regions): a candy made from dark brown sugar, granulated sugar, double cream, butter and toasted pecans cooked together to the soft-ball stage (114-118°C / 237-244°F), then beaten vigorously off the heat for a few minutes till the mixture starts to thicken and crystallise slightly, then dropped quickly in spoonfuls onto parchment paper where each praline sets into a flat 6-7 cm disc, chewy, grainy, deeply brown-sugar-flavored, packed with toasted pecans. A candy thermometer is essential to hit soft-ball stage; too hot gives hard candy, too cool and they don't set. The beating off-heat is what crystallises the sugar slightly and gives the proper grainy-chewy texture. Work quickly once it sets in the pan; the candy hardens fast, with maybe sixty seconds to scoop and drop.
 
 ## Ingredients
 

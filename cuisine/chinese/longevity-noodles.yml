@@ -27,8 +27,8 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: yi mein - about 2 cakes - or fresh thin egg noodles
-    raw: 400 g yi mein - about 2 cakes - or fresh thin egg noodles
+    name: "yi mein : about 2 cakes"
+    raw: "400 g yi mein : about 2 cakes, or fresh thin egg noodles"
   - qty: 200
     unit: g
     name: shiitake mushrooms

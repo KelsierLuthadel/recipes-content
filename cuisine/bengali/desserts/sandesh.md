@@ -62,7 +62,7 @@ Sandesh is the most refined sweet in the Bengali misti repertoire: where rasgull
 ## Notes
 - **The chhena makes the sweet:** as with rasgulla, everything depends on tender, well-kneaded chhena. Old milk, UHT milk or over-pressed chhena will give grainy, dry sandesh.
 - **Low heat throughout:** sandesh is cooked at the lowest steady heat you can manage. High heat scorches the milk solids and toughens the texture.
-- **Know when to stop:** the cooked mass should still feel soft and slightly tacky when you turn it out. If it has gone stiff in the pan, you have overcooked it - it will be crumbly. A few seconds before "looks done" is the right moment.
+- **Know when to stop:** the cooked mass should still feel soft and slightly tacky when you turn it out. If it has gone stiff in the pan, you have overcooked it, it will be crumbly. A few seconds before "looks done" is the right moment.
 - **Nolen gur if you can:** the winter version with date palm jaggery (sometimes sold solid as patali gur) is exceptional. Use the same weight in place of sugar.
 - **Moulds:** traditional Bengali sandesh moulds are small carved wooden blocks, often fish-shaped. Lightly butter the cavity, press in a piece of warm sandesh, level the back, then tap out. Silicone chocolate moulds work as a modern substitute.
 - **Norom vs karaa:** for gifting and elaborate moulded shapes, cook a little longer (karaa paak). For eating fresh at home, stop early (norom paak) for a softer, melting texture.

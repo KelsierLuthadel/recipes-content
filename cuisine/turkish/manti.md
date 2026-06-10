@@ -98,4 +98,4 @@ Manti are the tiny Turkish handmade dumplings of Kayseri tradition: small square
 - **Butter sauce off heat:** Paprika burns instantly in hot butter. Always pull the pan off the heat before adding spices.
 
 ## Storage
-- Cooked manti refrigerate 2 days. Frozen raw manti keep 3 months - boil from frozen, adding 2-3 minutes.
+- Cooked manti refrigerate 2 days. Frozen raw manti keep 3 months, boil from frozen, adding 2-3 minutes.

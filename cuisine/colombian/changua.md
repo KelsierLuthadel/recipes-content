@@ -76,7 +76,7 @@ Changua is Bogotá's most iconic breakfast and one of Colombia's most distinctiv
 **Coconut milk version:** swap half the milk for coconut milk; gives a richer Caribbean-leaning version (less traditional Bogotano but works).
 
 ## Serving
-In deep bowls with the egg in the centre, the broth ladled over the bread, butter melting on top, coriander scattered. As breakfast on a cold morning. Drink: cafe Colombiano (strong sweet Colombian coffee) or hot chocolate (Bogotá-style with cheese melted in - yes, cheese in hot chocolate is Colombian).
+In deep bowls with the egg in the centre, the broth ladled over the bread, butter melting on top, coriander scattered. As breakfast on a cold morning. Drink: cafe Colombiano (strong sweet Colombian coffee) or hot chocolate (Bogotá-style with cheese melted in, yes, cheese in hot chocolate is Colombian).
 
 ## Storage
 - Best eaten immediately; the broth and bread don't reheat well.

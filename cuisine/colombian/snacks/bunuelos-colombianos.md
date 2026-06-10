@@ -37,22 +37,22 @@ Buñuelos are the Christmas-morning Colombian snack, golden cheese-cornstarch ba
 1. Roll each between palms into a smooth ball.
 
 ### Stage 3 - Fry
-1. Heat the oil to **160°C** (lower than typical fry temperature - buñuelos need the inside to cook through before the outside burns).
+1. Heat the oil to **160°C** (lower than typical fry temperature, buñuelos need the inside to cook through before the outside burns).
 1. Drop 5-6 balls in at a time.
 1. Turn constantly with a slotted spoon to ensure even colouring.
-1. Cook 5-7 minutes per batch - they should puff slightly, develop tiny cracks (a sign the inside is steaming through), and turn deep amber-gold.
+1. Cook 5-7 minutes per batch, they should puff slightly, develop tiny cracks (a sign the inside is steaming through), and turn deep amber-gold.
 1. Lift onto a wire rack.
 
 ### Stage 4 - Serve
 1. Eat hot, traditionally with natillas (Colombian Christmas custard) or just on their own.
 
 ## Notes
-- **Cornstarch flour (almidón), not corn flour:** Colombian buñuelos use almidón de yuca (tapioca starch - sometimes labelled mandioca flour). Plain corn flour (maizena) gives a softer, less crisp result. Latin / Caribbean groceries stock it.
+- **Cornstarch flour (almidón), not corn flour:** Colombian buñuelos use almidón de yuca (tapioca starch, sometimes labelled mandioca flour). Plain corn flour (maizena) gives a softer, less crisp result. Latin / Caribbean groceries stock it.
 - **LOWER oil temperature than other frying:** 160°C is correct. Hot oil burns the surface before the interior cooks.
-- **Tiny cracks signal doneness:** as the balls fry, small fissures appear on the surface - that's the steam escaping. Without those, the inside is still doughy.
+- **Tiny cracks signal doneness:** as the balls fry, small fissures appear on the surface, that's the steam escaping. Without those, the inside is still doughy.
 - **Cheese matters:** queso costeño is salty and firm. Feta + mature cheddar is the closest substitute outside Colombia.
 
 ## Storage
 - Best within 30 minutes of frying.
 - Day-old buñuelos lose their crisp; refresh briefly in a 200°C oven 4 minutes.
-- Don't refrigerate - they go rubbery.
+- Don't refrigerate, they go rubbery.

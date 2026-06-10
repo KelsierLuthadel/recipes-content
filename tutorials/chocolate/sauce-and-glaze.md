@@ -2,10 +2,10 @@
 
 ![Chocolate sauce poured over ice cream](resources/sauce-and-glaze.jpg)
 
-*The pourable chocolate applications. Chocolate sauce for desserts, ganache-based glazes for poured cakes, mirror glaze for the gloss-mirrored finish. No tempering required - these are by-design soft applications.*
+*The pourable chocolate applications. Chocolate sauce for desserts, ganache-based glazes for poured cakes, mirror glaze for the gloss-mirrored finish. No tempering required, these are by-design soft applications.*
 
 ## Overview
-This lesson rounds out the chocolate course with the liquid applications - the pourable, brushable, dippable versions that do not need tempering because they are by-design soft. Chocolate sauce is a sweet finishing sauce for ice cream, profiteroles, fruit. Chocolate glaze is the thicker pourable layer over a cake. Mirror glaze is the high-gloss showstopper for fancy entremets.
+This lesson rounds out the chocolate course with the liquid applications, the pourable, brushable, dippable versions that do not need tempering because they are by-design soft. Chocolate sauce is a sweet finishing sauce for ice cream, profiteroles, fruit. Chocolate glaze is the thicker pourable layer over a cake. Mirror glaze is the high-gloss showstopper for fancy entremets.
 
 Each is a slightly different chocolate-and-fat-and-sugar emulsion or solution. Each has its place; none requires the tempering precision of moulded chocolate work.
 
@@ -34,12 +34,12 @@ Serve warm. Reheats gently in the microwave or over very low heat. Keeps refrige
 
 - **Mocha sauce.** Replace 2 tbsp water with 2 tbsp strong espresso.
 - **Whisky-chocolate sauce.** Add 2-3 tbsp whisky off the heat. Lights up the dark chocolate flavour without dominating.
-- **Salted caramel chocolate sauce.** Increase sugar to 80 g; allow to caramelise to a deep amber before adding the cream (carefully - the steam burst is intense). Continue as normal.
+- **Salted caramel chocolate sauce.** Increase sugar to 80 g; allow to caramelise to a deep amber before adding the cream (carefully, the steam burst is intense). Continue as normal.
 - **Spicy hot chocolate sauce.** Steep 1 cinnamon stick + 1 chilli (split) + 1 star anise in the cream first; strain out before adding chocolate. Mexican / mole-adjacent.
 
 ### What This Is Not
 
-This is not a ganache. The high water content (the 30 ml plus the water in the cream) keeps it pourable; a ganache has less water and sets firmer. The butter and water content also make this sauce less stable than ganache - it does not have ganache's two-week refrigerated shelf life if no preservatives are added; figure 7-10 days refrigerated.
+This is not a ganache. The high water content (the 30 ml plus the water in the cream) keeps it pourable; a ganache has less water and sets firmer. The butter and water content also make this sauce less stable than ganache, it does not have ganache's two-week refrigerated shelf life if no preservatives are added; figure 7-10 days refrigerated.
 
 ## Chocolate Glaze (Ganache-Based)
 
@@ -82,12 +82,12 @@ The high-gloss showcase glaze. Creates the mirror-like finish on French entremet
 
 Method:
 1. Soften the gelatin in cold water (about 100 ml). Leave 5 minutes.
-2. In a saucepan, combine water, sugar and glucose syrup. Heat to a strong simmer; bring to 103 C (just past the soft-ball stage - see [Sugar Stages](../sugar-work/sugar-stages.md)).
+2. In a saucepan, combine water, sugar and glucose syrup. Heat to a strong simmer; bring to 103 C (just past the soft-ball stage, see [Sugar Stages](../sugar-work/sugar-stages.md)).
 3. Off heat, stir in the condensed milk.
 4. Stir in the softened gelatin until dissolved.
 5. Strain over the chopped chocolate; wait 60 seconds; stir to emulsify.
-6. Use an immersion blender to fully emulsify - this is what makes the glaze glossy. Avoid creating air bubbles (keep the blender head submerged); blend for 1-2 minutes until utterly smooth.
-7. Cool to **32-35 C**. This temperature is critical - too warm and the glaze runs off the cake; too cool and it sets before levelling. A digital thermometer is essential.
+6. Use an immersion blender to fully emulsify, this is what makes the glaze glossy. Avoid creating air bubbles (keep the blender head submerged); blend for 1-2 minutes until utterly smooth.
+7. Cool to **32-35 C**. This temperature is critical, too warm and the glaze runs off the cake; too cool and it sets before levelling. A digital thermometer is essential.
 
 ### Application
 
@@ -100,7 +100,7 @@ Method:
 
 ### Tinted Mirror Glaze
 
-Replace dark chocolate with white chocolate, plus add a small amount of gel food colouring (a few drops, blended in with the immersion blender). The result: jewel-toned mirror glazes - magenta, gold, royal blue, etc.
+Replace dark chocolate with white chocolate, plus add a small amount of gel food colouring (a few drops, blended in with the immersion blender). The result: jewel-toned mirror glazes, magenta, gold, royal blue, etc.
 
 Common decorative colours: 50/50 milk and white chocolate produces a soft beige; white plus rose food colour produces a soft pink; white plus gold lustre dust plus green colour produces a marble effect.
 
@@ -122,10 +122,10 @@ For everyday baking, the elaborate mirror glaze is overkill. Two simpler options
 
 The applications in this lesson set without tempering because:
 
-1. **Sauce stays liquid** at serving temperatures (warm) - no setting required.
-2. **Ganache-glaze and mirror glaze** set into a stable structure because of the cream, sugar and gelatin (mirror glaze) - the cocoa butter contribution to the set is small, and the surface set looks glossy because of the syrup or gelatin, not because of Form V crystals.
+1. **Sauce stays liquid** at serving temperatures (warm): no setting required.
+2. **Ganache-glaze and mirror glaze** set into a stable structure because of the cream, sugar and gelatin (mirror glaze): the cocoa butter contribution to the set is small, and the surface set looks glossy because of the syrup or gelatin, not because of Form V crystals.
 
-This means you can use lower-cost chocolate for these applications - couverture is wasted on a sauce that will be slathered over ice cream anyway. Save the expensive chocolate for bars and bonbons; use everyday chocolate for sauce and glaze.
+This means you can use lower-cost chocolate for these applications, couverture is wasted on a sauce that will be slathered over ice cream anyway. Save the expensive chocolate for bars and bonbons; use everyday chocolate for sauce and glaze.
 
 ## Where Next
 - [Ganache](ganache.md): the foundation under both sauce and glaze.

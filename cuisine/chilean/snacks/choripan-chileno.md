@@ -53,7 +53,7 @@ Chile's street sandwich and the food that fuels any Sunday football game or summ
 
 ### Stage 4 - Assemble
 1. Tuck a butterflied sausage into each roll.
-1. Spoon generous pebre on top (be generous - it's the dish).
+1. Spoon generous pebre on top (be generous, it's the dish).
 1. Add a drizzle of mayo or mustard if liked.
 
 ### Stage 5 - Serve
@@ -65,6 +65,6 @@ Chile's street sandwich and the food that fuels any Sunday football game or summ
 - **Merkén is iconic but optional:** the Chilean smoked-chilli powder gives a particular smoky heat. Smoked paprika + a pinch of cayenne is a close substitute.
 
 ## Storage
-- Eats immediately - don't pre-assemble.
+- Eats immediately, don't pre-assemble.
 - Pebre keeps 3 days refrigerated; flavour deepens.
 - Grilled sausages reheat poorly; cook to order.

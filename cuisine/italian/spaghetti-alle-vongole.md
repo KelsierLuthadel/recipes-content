@@ -2,7 +2,7 @@
 
 ![Spaghetti alle Vongole](resources/spaghetti-alle-vongole.jpg)
 
-*Naples' spaghetti with clams: spaghetti tossed with fresh clams in their shells steamed open in white wine, garlic, olive oil, fresh parsley and a touch of red pepper flakes. The Campanian coastal classic - minimalism in service of clam-and-pasta perfection.*
+*Naples' spaghetti with clams: spaghetti tossed with fresh clams in their shells steamed open in white wine, garlic, olive oil, fresh parsley and a touch of red pepper flakes. The Campanian coastal classic, minimalism in service of clam-and-pasta perfection.*
 
 **Serves:** 4
 

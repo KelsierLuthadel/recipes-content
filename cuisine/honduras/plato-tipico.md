@@ -30,7 +30,7 @@ Plato típico is the Honduran national plate, a wide platter of nearly everythin
 - 200 ml vegetable oil for frying
 - 300 g white rice (cooked)
 - 400 g [Refried Beans](../mexican/side-dishes/refried-beans.md) (warmed)
-- 250 ml mantequilla (Honduran sour cream - or crème fraîche thinned with milk)
+- 250 ml mantequilla (Honduran sour cream, or crème fraîche thinned with milk)
 - 2 ripe avocados (sliced)
 - 8 flour (or corn tortillas, warmed)
 - Salt for finishing

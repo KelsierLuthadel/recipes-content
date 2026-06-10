@@ -2,7 +2,7 @@
 
 ![Gremolata](resources/gremolata.jpg)
 
-*Milan's citrus-herb topping: finely grated lemon zest, finely chopped garlic and chopped fresh parsley, mixed together and scattered over rich dishes like a flavour-bomb. The Milanese signature finishing touch - primarily known as the topping for osso buco but excellent on grilled fish, roasted vegetables and creamy soups.*
+*Milan's citrus-herb topping: finely grated lemon zest, finely chopped garlic and chopped fresh parsley, mixed together and scattered over rich dishes like a flavour-bomb. The Milanese signature finishing touch, primarily known as the topping for osso buco but excellent on grilled fish, roasted vegetables and creamy soups.*
 
 **Serves:** Makes about 60 ml
 
@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Gremolata (or "gremolada" in Milanese dialect) is one of Italian cooking's most iconic and simple finishing touches: a vivid combination of finely grated lemon zest, very finely chopped garlic and finely chopped fresh flat-leaf parsley, mixed together at the last minute and scattered over rich dishes as a flavour-bomb finish. Best known as the traditional topping for osso buco (the Milanese braised veal shank), gremolata also works brilliantly on grilled fish, roasted vegetables, creamy soups, risotto, grilled meats, pasta - anywhere a bright citrus-garlic-herb lift is wanted. The dish is essentially three ingredients: zest, garlic, parsley. The simplicity is the point. Lemon zest only, never juice; just the yellow, avoiding the bitter white pith. The garlic finely chopped, not crushed or minced, into small but visible pieces. Mixed just before serving; both the garlic and the zest dry out and fade within a couple of hours.
+Gremolata (or "gremolada" in Milanese dialect) is one of Italian cooking's most iconic and simple finishing touches: a vivid combination of finely grated lemon zest, very finely chopped garlic and finely chopped fresh flat-leaf parsley, mixed together at the last minute and scattered over rich dishes as a flavour-bomb finish. Best known as the traditional topping for osso buco (the Milanese braised veal shank), gremolata also works brilliantly on grilled fish, roasted vegetables, creamy soups, risotto, grilled meats, pasta, anywhere a bright citrus-garlic-herb lift is wanted. The dish is essentially three ingredients: zest, garlic, parsley. The simplicity is the point. Lemon zest only, never juice; just the yellow, avoiding the bitter white pith. The garlic finely chopped, not crushed or minced, into small but visible pieces. Mixed just before serving; both the garlic and the zest dry out and fade within a couple of hours.
 
 ## Ingredients
 

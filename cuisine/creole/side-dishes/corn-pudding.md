@@ -2,7 +2,7 @@
 
 ![Corn Pudding](resources/corn-pudding.jpg)
 
-*The American South / Creole baked side: a soft, savoury custard of fresh corn kernels, beaten egg, cream, melted butter and a touch of sugar, baked until set with a faintly bronzed top. Sweet, eggy, comforting. Goes alongside fried chicken, BBQ ribs, or - at Thanksgiving - turkey and ham.*
+*The American South / Creole baked side: a soft, savoury custard of fresh corn kernels, beaten egg, cream, melted butter and a touch of sugar, baked until set with a faintly bronzed top. Sweet, eggy, comforting. Goes alongside fried chicken, BBQ ribs, or, at Thanksgiving, turkey and ham.*
 
 **Serves:** 6
 
@@ -46,14 +46,14 @@ Corn pudding is the Creole side that lands in the spot between vegetable and des
 1. Bake 45-50 minutes until set around the edge with a slight wobble in the centre and the top is faintly bronzed.
 
 ### Stage 5 - Rest and serve
-1. Rest 10 minutes - the custard sets fully as it cools.
+1. Rest 10 minutes, the custard sets fully as it cools.
 1. Serve warm; spoon out onto plates.
 
 ## Notes
 - **Half whole, half blended:** This gives the soft custard texture with intact kernels for chew. All-blended gives a smooth pudding; all-whole gives a curdled mess.
 - **Don't overbake:** The wobble in the centre is right. Over-baking gives a rubbery texture.
-- **Fresh vs frozen:** Frozen corn is fine - thaw and drain. Tinned is too watery.
+- **Fresh vs frozen:** Frozen corn is fine, thaw and drain. Tinned is too watery.
 
 ## Storage
 - Refrigerate 3 days. Reheat covered at 180°C 15 minutes.
-- Doesn't freeze well - the custard separates.
+- Doesn't freeze well, the custard separates.

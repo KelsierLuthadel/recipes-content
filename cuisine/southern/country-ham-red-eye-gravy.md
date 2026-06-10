@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Country ham with red eye gravy is one of the South's most distinctive breakfast dishes and a Kentucky-Tennessee Appalachian mountain tradition: thick slices of country ham (the dry-cured salt-aged ham from the Appalachian South; substitute with prosciutto or Spanish jamón outside the US) pan-fried in a hot cast-iron pan till the edges crisp and the meat heats through; the pan is then deglazed with strong black coffee and a touch of water to create "red eye gravy" - a thin, deeply savoury, slightly bitter-coffee-flavoured pan sauce. Served with creamy grits, hot buttermilk biscuits, fried eggs (over-easy), butter and the gravy poured over everything. The dish is what mountain folks eat for breakfast in the Appalachian South.
+Country ham with red eye gravy is one of the South's most distinctive breakfast dishes and a Kentucky-Tennessee Appalachian mountain tradition: thick slices of country ham (the dry-cured salt-aged ham from the Appalachian South; substitute with prosciutto or Spanish jamón outside the US) pan-fried in a hot cast-iron pan till the edges crisp and the meat heats through; the pan is then deglazed with strong black coffee and a touch of water to create "red eye gravy", a thin, deeply savoury, slightly bitter-coffee-flavoured pan sauce. Served with creamy grits, hot buttermilk biscuits, fried eggs (over-easy), butter and the gravy poured over everything. The dish is what mountain folks eat for breakfast in the Appalachian South.
 
 ## Ingredients
 
@@ -42,7 +42,7 @@ Country ham with red eye gravy is one of the South's most distinctive breakfast 
 ### Stage 2 - Make red eye gravy
 1. With pan still hot, pour in the strong black coffee.
 2. Add water.
-3. Bring to a simmer; scrape the pan to release all the fond (browned bits at the bottom - the source of the flavour).
+3. Bring to a simmer; scrape the pan to release all the fond (browned bits at the bottom, the source of the flavour).
 4. Add brown sugar (if using) and black pepper.
 5. Simmer 2-3 minutes till slightly reduced.
 

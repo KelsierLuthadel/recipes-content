@@ -53,7 +53,7 @@
 ### Stage 3 - Add the apples
 1. Add the apple wedges to the onion-and-bacon-fat pan.
 2. Sprinkle with the brown sugar, cinnamon (if using), allspice, salt, and pepper.
-3. Cook 10-12 minutes, turning occasionally with a spatula (don't stir vigorously - you want the apple chunks to stay intact, not mash into sauce).
+3. Cook 10-12 minutes, turning occasionally with a spatula (don't stir vigorously, you want the apple chunks to stay intact, not mash into sauce).
 4. The apples should soften, lightly caramelise on the outside, and release their juices. They should be just-tender, holding their shape.
 
 ### Stage 4 - Add vinegar and finish
@@ -85,9 +85,9 @@
 - **Warm on rye with mustard:** the traditional Danish presentation.
 
 ## Variations
-**With pork belly instead of bacon:** thick slices of salted Danish flæsk - more substantial.
+**With pork belly instead of bacon:** thick slices of salted Danish flæsk, more substantial.
 **With prunes:** add 100g chopped pitted prunes to the apple mix for the Christmas-feast version.
-**With caraway seeds:** add 1 teaspoon caraway to the apples - the Bavarian-influenced variant.
+**With caraway seeds:** add 1 teaspoon caraway to the apples, the Bavarian-influenced variant.
 **With cider reduction:** replace the vinegar with 100ml dry cider reduced in the pan to a syrup; deeper apple flavour.
 **Vegetarian:** swap the bacon for smoked tofu strips fried crispy; the apple-and-onion mixture stays the same.
 **On a plate (not as open sandwich):** serve the apple-bacon mixture as a side alongside roast pork or a Danish dinner main.

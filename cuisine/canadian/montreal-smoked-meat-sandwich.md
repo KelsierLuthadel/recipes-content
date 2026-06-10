@@ -19,7 +19,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 - 1 whole "plate" or point-cut brisket, about 2.5 kg, with the fat cap mostly intact
 - 80 g coarse kosher salt
 - 30 g granulated sugar
-- 20 g Prague Powder #1 (curing salt with 6.25% sodium nitrite) - essential for safety on a long cure
+- 20 g Prague Powder #1 (curing salt with 6.25% sodium nitrite): essential for safety on a long cure
 - 4 tablespoons coarsely cracked black pepper
 - 4 tablespoons whole coriander seeds, cracked
 - 2 tablespoons whole black peppercorns, cracked
@@ -54,7 +54,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 3. Pat the brisket dry. Rub the cure all over, working into every surface.
 4. Place the brisket in a large food-grade plastic bag or non-reactive container.
 5. Seal and refrigerate.
-6. Every 2 days, flip the brisket and massage the cure into the surface. Liquid will accumulate (this is normal - the brine forms around the meat).
+6. Every 2 days, flip the brisket and massage the cure into the surface. Liquid will accumulate (this is normal, the brine forms around the meat).
 7. Continue for 10 days (some Quebec delis do 14 days; the longer cure penetrates more deeply and gives a more intense flavour).
 
 ### Stage 2 - The rinse and rub
@@ -66,10 +66,10 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 
 ### Stage 3 - The smoke
 1. Set up a smoker at 95-110°C (200-225°F).
-2. Use hardwood for smoke - oak, hickory, maple (Quebec traditional), or apple.
+2. Use hardwood for smoke, oak, hickory, maple (Quebec traditional), or apple.
 3. Place the brisket fat-side-up on the smoker rack.
 4. Smoke 4-6 hours till the internal temperature reads 65°C and a dark, mahogany bark forms on the outside.
-5. Don't go above 110°C - this is a cold-to-warm smoke, not a hot grill.
+5. Don't go above 110°C, this is a cold-to-warm smoke, not a hot grill.
 
 ### Stage 4 - The steam (this is the Montreal move)
 1. Remove the smoked brisket from the smoker.
@@ -83,7 +83,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 1. Let the brisket rest in the foil 30 minutes after steaming.
 2. Unwrap; the brisket is now ready to slice.
 3. Use a sharp slicing knife (or a deli slicer); slice perpendicular to the grain (across the fibres) into 4 mm thick slices.
-4. Don't slice too thin - paper-thin slices fall apart; 4 mm is sturdy enough to handle and tender enough to bite through.
+4. Don't slice too thin, paper-thin slices fall apart; 4 mm is sturdy enough to handle and tender enough to bite through.
 
 ### Stage 6 - Build the sandwich
 1. Lightly toast or warm 2 slices of rye bread.
@@ -96,7 +96,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 1. Place a whole sour pickle alongside.
 2. Pour a cold Cott Black Cherry soda over ice.
 3. Add a handful of fries on the plate.
-4. Eat immediately - smoked meat is at its peak warm.
+4. Eat immediately, smoked meat is at its peak warm.
 
 ## Notes
 - **Prague Powder #1 is essential:** the nitrite cure prevents botulism during the 10-day cure. Don't skip; don't substitute regular salt for the full quantity.
@@ -108,12 +108,12 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 
 ## Variations
 **Sous-vide shortcut:** cure 7 days; vacuum-seal; sous-vide at 80°C for 24 hours; finish under a hot smoker or in a 230°C oven for 30 minutes for the bark. 24 hours of sous-vide replicates the 4-hour steam stage; the cure is shorter, the smoke shorter, but the result is very close.
-**Smoked meat on rye with mustard AND pickles (Schwartz's "complète"):** the traditional Schwartz's order - add a side of sliced sour pickle on the sandwich itself.
-**Smoked meat poutine:** chop the smoked meat into smaller pieces; scatter over a finished poutine - see [Poutine](poutine.md) variations.
-**Lean cut sandwich:** ask for "lean" - thicker slices from the trimmed point with minimal fat. Schwartz's purists order "medium" for a balance of fat and lean.
-**Smoked meat omelette:** chop 100 g into small pieces; fold into a 3-egg omelette with Swiss cheese - the deli breakfast variant.
+**Smoked meat on rye with mustard AND pickles (Schwartz's "complète"):** the traditional Schwartz's order, add a side of sliced sour pickle on the sandwich itself.
+**Smoked meat poutine:** chop the smoked meat into smaller pieces; scatter over a finished poutine, see [Poutine](poutine.md) variations.
+**Lean cut sandwich:** ask for "lean", thicker slices from the trimmed point with minimal fat. Schwartz's purists order "medium" for a balance of fat and lean.
+**Smoked meat omelette:** chop 100 g into small pieces; fold into a 3-egg omelette with Swiss cheese, the deli breakfast variant.
 **Smoked meat hash:** dice 200 g smoked meat; fry with diced potato, onion, and a fried egg on top.
-**Vegan "smoked meat" (modern):** seitan or jackfruit slow-cooked with the Montreal spice profile and smoked - surprisingly close.
+**Vegan "smoked meat" (modern):** seitan or jackfruit slow-cooked with the Montreal spice profile and smoked, surprisingly close.
 
 ## Serving
 At Schwartz's Hebrew Delicatessen in Montreal (the traditional setting; the queue down Saint-Laurent Boulevard at any hour) · at any Montreal Jewish deli (Lester's, Smoked Meat Pete, Snowdon Deli) · at a Toronto deli with Montreal pedigree · at home as a special-project weekend with friends · as a Quebec Saint-Jean-Baptiste celebration dish (24 June) · at any Canadian summer barbecue with a touch of theatre.
@@ -121,7 +121,7 @@ At Schwartz's Hebrew Delicatessen in Montreal (the traditional setting; the queu
 ## Storage
 - Smoked meat (cooked) refrigerates 5 days wrapped tight; steam-reheat for 10 minutes to restore tenderness.
 - Freezes 3 months sliced and vacuum-packed; defrost in the fridge overnight.
-- Don't microwave smoked meat - the steam-reheat is essential to keep it tender.
+- Don't microwave smoked meat, the steam-reheat is essential to keep it tender.
 - Leftover smoked meat is the basis of dozens of next-day dishes: hash, poutine, omelette, sandwich-revival.
 - The 10-day cure brisket can be made and held at the post-cure / pre-smoke stage in the fridge for an extra week if you can't get to the smoke step.
 - Caraway rye for the sandwich keeps 3 days at room temperature; slice fresh each time.

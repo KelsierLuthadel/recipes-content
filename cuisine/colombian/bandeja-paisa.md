@@ -18,10 +18,10 @@ Bandeja paisa is the lunch the Antioquia coffee-region farmers ate before going 
 ### Per serving
 - 250 g cooked [Frijoles Paisas](side-dishes/frijoles-paisas.md)
 - 200 g cooked white rice
-- 1 piece chicharrón (90 g pre-cooked pork belly - see Notes)
+- 1 piece chicharrón (90 g pre-cooked pork belly, see Notes)
 - 1 chorizo (Colombian-style or Spanish chorizo)
 - 1 thin steak (sirloin or skirt, 100-120 g per person)
-- ½ ripe plantain (sliced lengthways and fried - tajadas)
+- ½ ripe plantain (sliced lengthways and fried, tajadas)
 - 1 egg (large)
 - ½ ripe avocado
 - 1 arepa de maíz blanco (white-corn arepa, 1 per person)

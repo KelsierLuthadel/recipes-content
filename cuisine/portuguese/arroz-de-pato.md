@@ -16,7 +16,7 @@ Arroz de pato is Portugal's answer to paella, except baked rather than simmered,
 ## Ingredients
 
 ### Duck stock
-- 1 whole duck (small, about 2 kg) - OR 4 large duck legs (about 1.4 kg)
+- 1 whole duck (small, about 2 kg): OR 4 large duck legs (about 1.4 kg)
 - 1 onion (large, halved)
 - 6 garlic cloves (crushed)
 - 3 bay leaves
@@ -31,12 +31,12 @@ Arroz de pato is Portugal's answer to paella, except baked rather than simmered,
 ### Rice
 - 400 g long-grain rice (or Carolino, Portuguese-style)
 - 1 onion (large, finely diced)
-- 4 tablespoons duck fat (skimmed from the stock - or use olive oil)
+- 4 tablespoons duck fat (skimmed from the stock, or use olive oil)
 - 2 bay leaves
 - 1 teaspoon salt (to taste)
 
 ### Topping
-- 200 g chouriço sausage (Portuguese - or substitute Spanish chorizo)
+- 200 g chouriço sausage (Portuguese, or substitute Spanish chorizo)
 - 2 tablespoons fresh flat-leaf parsley (chopped)
 
 ## Method
@@ -47,7 +47,7 @@ Arroz de pato is Portugal's answer to paella, except baked rather than simmered,
 1. Reduce to a low simmer; cover loosely.
 1. Cook 2 hours until the duck is very tender.
 1. Lift duck onto a plate; cool slightly.
-1. Pull all meat off the bones in shreds (discard skin and bones, or return bones for an extra 30 minute simmer for deeper stock - recommended).
+1. Pull all meat off the bones in shreds (discard skin and bones, or return bones for an extra 30 minute simmer for deeper stock, recommended).
 1. Strain the stock through a fine sieve. Skim off the fat from the surface (reserve 4 tablespoons of duck fat).
 1. You should have about 1 ½ litres of stock.
 
@@ -69,7 +69,7 @@ Arroz de pato is Portugal's answer to paella, except baked rather than simmered,
 1. Heat oven to 200°C (180°C fan).
 1. Spread the rice mixture into a wide oven dish (about 26 cm round, or a 20 x 30 cm rectangle).
 1. Slice the chouriço into thin (3 mm) coins; arrange over the rice in a single overlapping layer.
-1. Bake 18-22 minutes - the chouriço crisps and releases its red-orange fat into the rice; the top of the rice deepens to gold.
+1. Bake 18-22 minutes, the chouriço crisps and releases its red-orange fat into the rice; the top of the rice deepens to gold.
 
 ### Stage 5 - Serve
 1. Sprinkle with chopped parsley.

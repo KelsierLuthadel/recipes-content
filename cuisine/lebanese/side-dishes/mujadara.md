@@ -43,7 +43,7 @@ Lebanon's everyday rice-and-lentils dish and the one-pot supper that anchors a w
 ### Stage 2 - First onion (deep brown, for the body)
 1. Heat 70 ml of olive oil in a wide heavy pot over medium heat.
 1. Add 2 of the 3 onions (sliced).
-1. Cook 25-30 minutes, stirring often, until deeply mahogany brown - past golden, almost into burnt at the edges. This dark caramelisation is the dish's character.
+1. Cook 25-30 minutes, stirring often, until deeply mahogany brown, past golden, almost into burnt at the edges. This dark caramelisation is the dish's character.
 
 ### Stage 3 - Spices and rice
 1. Add cumin, allspice, pepper to the brown onion; toast 30 seconds.
@@ -75,7 +75,7 @@ Lebanon's everyday rice-and-lentils dish and the one-pot supper that anchors a w
 
 ## Notes
 - **Two onion stages:** The first batch goes deep into the rice for sweetness; the second batch crisps on top for texture. Both matter.
-- **Brown lentils, not red:** Red lentils dissolve. Mujadara needs lentils that hold their shape - brown, green or French lentils.
+- **Brown lentils, not red:** Red lentils dissolve. Mujadara needs lentils that hold their shape, brown, green or French lentils.
 - **Patience with the onion:** Pale onion gives bland mujadara. Push to deep mahogany; let some bits scorch slightly.
 
 ## Storage

@@ -54,8 +54,8 @@ ingredients:
     name: salsa verde
     raw: 4 tablespoons salsa verde
   - qty: 4
-    name: guero peppers - or substitute with pickled jalapenos
-    raw: 4 fresh güero peppers - or substitute with pickled jalapeños
+    name: "guero peppers : or substitute with pickled jalapenos"
+    raw: "4 fresh güero peppers : or substitute with pickled jalapeños"
   - name: crumbled queso fresco
     raw: Crumbled queso fresco
   - name: sour cream

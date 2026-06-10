@@ -33,7 +33,7 @@ Pol sambol is the relish that anchors every Sri Lankan plate: fiery red from chi
 ### Stage 2 - Combine
 1. Add the grated coconut to the mortar (or transfer everything to a wide bowl).
 1. Mix with the chilli, fish flakes if using, lime juice, sugar, and curry leaves.
-1. Squeeze and rub the mixture together with your fingers - the friction blooms the chilli colour and bruises the coconut so it absorbs the lime.
+1. Squeeze and rub the mixture together with your fingers, the friction blooms the chilli colour and bruises the coconut so it absorbs the lime.
 
 ### Stage 3 - Onion
 1. Stir in the chopped red onion last (so it stays crunchy).

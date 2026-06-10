@@ -51,7 +51,7 @@ Simnel cake is the British Easter cake, the lighter cousin of the dense Christma
 1. In a stand mixer, cream the butter and sugar for 4-5 minutes until pale and fluffy.
 2. Add the eggs one at a time, beating each in fully. The mixture may look curdled at the third egg; add a tablespoon of the flour to bring it back.
 3. Sift the flour, baking powder, spices and salt over the mixture. Add the orange and lemon zest. Fold gently with a spatula until just combined.
-4. Stir in the currants, sultanas, cherries and mixed peel. Stir in the milk and brandy - the batter should drop softly from the spoon.
+4. Stir in the currants, sultanas, cherries and mixed peel. Stir in the milk and brandy, the batter should drop softly from the spoon.
 
 ### Stage 3 - Layer and bake
 1. Spread half the batter into the prepared tin, smoothing the surface.
@@ -67,7 +67,7 @@ Simnel cake is the British Easter cake, the lighter cousin of the dense Christma
 ### Stage 5 - Caramelise
 1. Heat the grill to high.
 2. Brush the top marzipan disc and the eleven balls with a thin coat of egg yolk.
-3. Slide the cake under the grill on the second-from-top shelf for 1-2 minutes, until the marzipan turns deep amber in patches. Watch like a hawk - marzipan goes from gold to scorched in seconds. Remove the moment you have colour.
+3. Slide the cake under the grill on the second-from-top shelf for 1-2 minutes, until the marzipan turns deep amber in patches. Watch like a hawk, marzipan goes from gold to scorched in seconds. Remove the moment you have colour.
 4. Cool to room temperature before slicing.
 
 ## Notes

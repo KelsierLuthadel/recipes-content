@@ -37,8 +37,8 @@ ingredients:
     raw: 1 small bunch chives
   - qty: 1
     unit: handful
-    name: fenugreek leaves - or 2 teaspoons dried fenugreek leaves
-    raw: A handful fresh fenugreek leaves - OR 2 teaspoons dried fenugreek leaves
+    name: "fenugreek leaves : or 2 teaspoons dried fenugreek leaves"
+    raw: "A handful fresh fenugreek leaves : OR 2 teaspoons dried fenugreek leaves"
   - qty: 6
     name: eggs
     raw: 6 eggs

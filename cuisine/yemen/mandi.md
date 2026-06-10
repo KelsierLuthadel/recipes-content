@@ -56,7 +56,7 @@ Mandi is Yemen's most famous dish, the celebration plate that turns up at weddin
 1. Wipe the pot; add 1 litre of hot water; place a steaming rack inside (or use foil scrunched into a nest).
 1. Return the lamb on top of the rack.
 1. Cover tightly with foil and the lid; cook on the lowest hob heat (or 150°C oven) 2 hours, until the meat shreds when prodded.
-1. Lift the lamb out and rest it on a plate; strain the liquid in the pot - this is your rice cooking stock. Skim the surface fat; you should have 800-900 ml; top up with hot water if needed.
+1. Lift the lamb out and rest it on a plate; strain the liquid in the pot, this is your rice cooking stock. Skim the surface fat; you should have 800-900 ml; top up with hot water if needed.
 
 ### Stage 4 - Rice
 1. Bloom the saffron in the hot water.
@@ -79,7 +79,7 @@ Mandi is Yemen's most famous dish, the celebration plate that turns up at weddin
 1. Serve with sahawiq, yogurt and lemon wedges.
 
 ## Notes
-- **Hawaij:** A Yemeni spice mix. Buy ready-made at a Middle Eastern shop, or use the substitution in the ingredient list - it's a passable approximation.
+- **Hawaij:** A Yemeni spice mix. Buy ready-made at a Middle Eastern shop, or use the substitution in the ingredient list, it's a passable approximation.
 - **Smoking is optional:** The charcoal step (called "tedkhin") is signature but skippable. The flavour is otherwise complete; this just adds smoke.
 - **Real mandi:** Cooked in a taboon (clay oven) buried in the ground or in coals. The home version (pot-steamed) gets surprisingly close.
 

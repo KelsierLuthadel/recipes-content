@@ -42,7 +42,7 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 
 ### Stage 2 - Warm the milk and cream
 1. Combine the milk and cream in a small heavy saucepan.
-2. Warm over medium-low heat 3-4 minutes till you see steam rising and small bubbles at the edge - around 70-80°C.
+2. Warm over medium-low heat 3-4 minutes till you see steam rising and small bubbles at the edge, around 70-80°C.
 3. Don't let it boil. Boiling milk scorches the chocolate and creates a skin.
 
 ### Stage 3 - Melt the chocolate in
@@ -50,12 +50,12 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 2. Add the chopped chocolate to the warm milk in 3 batches, whisking constantly after each addition.
 3. After the last batch is in, whisk steadily for 1-2 minutes till the mixture is smooth, glossy and uniformly dark.
 4. Add the pinch of salt, the optional sugar, cinnamon and vanilla.
-5. Taste - the drink should be intensely chocolaty, just barely sweet (the chocolate's natural sweetness leads; added sugar should round, not dominate), with the salt audible but not loud.
+5. Taste, the drink should be intensely chocolaty, just barely sweet (the chocolate's natural sweetness leads; added sugar should round, not dominate), with the salt audible but not loud.
 6. Adjust sweetness if needed.
 
 ### Stage 4 - The "Belgian whisk" for texture
-1. With the pan still on the lowest heat, whisk vigorously for 30 seconds to incorporate a little air - this gives the drink a slightly mousse-like texture and a soft foam on top.
-2. Some Brussels cafés use a small immersion blender for 5 seconds instead - excellent texture, but the whisk is the traditional way.
+1. With the pan still on the lowest heat, whisk vigorously for 30 seconds to incorporate a little air, this gives the drink a slightly mousse-like texture and a soft foam on top.
+2. Some Brussels cafés use a small immersion blender for 5 seconds instead, excellent texture, but the whisk is the traditional way.
 
 ### Stage 5 - Pour and serve
 1. Pour into 2 warmed small mugs (150-200 ml each).
@@ -69,24 +69,24 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 - **Chocolate quality is everything:** this drink lives or dies by the chocolate. A good 70% couverture (Callebaut, Belcolade, Côte d'Or, Marcolini) is non-negotiable. Cooking chocolate or cocoa-powder-based "hot chocolate mix" gives a watery, thin result.
 - **Don't boil:** scorched milk ruins the flavour and the texture.
 - **Whisk constantly:** the chocolate-milk emulsion can split if you stop. Steady agitation gives a smooth glossy drink.
-- **Cream is optional but helps:** the single cream gives body. Without it, the drink can taste a touch thin. Don't go past double cream - it overwhelms.
+- **Cream is optional but helps:** the single cream gives body. Without it, the drink can taste a touch thin. Don't go past double cream, it overwhelms.
 - **Sugar is restrained:** Belgian hot chocolate is meant to taste of chocolate, not sweetness. A teaspoon is plenty for 70% chocolate; 60% needs less.
 - **The biscuit on the saucer:** speculoos is traditional. A small piece of dark chocolate also works, as does a single Belgian praline.
 
 ## Variations
-**Chocolat chaud à l'orange:** add the grated zest of 1/2 an orange to the milk while heating - infuses the milk with bitter-orange notes; strain before adding chocolate. The Christmas-market variant.
-**Chocolat chaud à la cannelle:** double the cinnamon and add a star anise to the milk while warming - the winter-market variant.
+**Chocolat chaud à l'orange:** add the grated zest of 1/2 an orange to the milk while heating, infuses the milk with bitter-orange notes; strain before adding chocolate. The Christmas-market variant.
+**Chocolat chaud à la cannelle:** double the cinnamon and add a star anise to the milk while warming, the winter-market variant.
 **Marshmallow Belgian hot chocolate:** top with 2 mini-marshmallows; modern variant, less traditional.
-**White Belgian hot chocolate:** swap the dark chocolate for Callebaut White 28% and add a teaspoon of vanilla bean paste; serve with a raspberry on top - elegant variant.
-**Spicy Mexican-Belgian hybrid:** add 1/4 teaspoon of grated chilli (Mexican / Espelette / Aleppo) and 1/4 teaspoon ground cardamom to the milk - the cocktail-bar variant.
-**Boozy Belgian hot chocolate:** add 30 ml of Cointreau, Cognac, or Belgian genever per cup just before serving - the after-dinner-drink variant.
-**Iced Belgian hot chocolate (chocolat chaud glacé):** prepare as above, let cool, blend with crushed ice and a scoop of vanilla ice cream - the summer variant; closer to a Café liégeois (see [Café liégeois](cafe-liegeois.md)).
+**White Belgian hot chocolate:** swap the dark chocolate for Callebaut White 28% and add a teaspoon of vanilla bean paste; serve with a raspberry on top, elegant variant.
+**Spicy Mexican-Belgian hybrid:** add 1/4 teaspoon of grated chilli (Mexican / Espelette / Aleppo) and 1/4 teaspoon ground cardamom to the milk, the cocktail-bar variant.
+**Boozy Belgian hot chocolate:** add 30 ml of Cointreau, Cognac, or Belgian genever per cup just before serving, the after-dinner-drink variant.
+**Iced Belgian hot chocolate (chocolat chaud glacé):** prepare as above, let cool, blend with crushed ice and a scoop of vanilla ice cream, the summer variant; closer to a Café liégeois (see [Café liégeois](cafe-liegeois.md)).
 
 ## Serving
 At a Brussels chocolatier-café (the traditional setting; Mary on the Rue Royale, Pierre Marcolini in the Sablon district, Wittamer on the Place du Grand-Sablon) · at a Bruges Christmas market on a cold December afternoon · at an Antwerp tea-room mid-morning · at home as a winter Sunday-afternoon ritual · paired with a buttery speculoos or a hand-made praline · as the traditional post-skating drink in the Ardennes.
 
 ## Storage
-- Doesn't store well - the chocolate-milk emulsion separates within an hour. Make and drink fresh.
+- Doesn't store well, the chocolate-milk emulsion separates within an hour. Make and drink fresh.
 - Leftover hot chocolate can be refrigerated 2 days; reheat gently on the stovetop with a brief whisk to re-emulsify. Some texture is lost.
 - Freezing breaks the emulsion irreversibly; don't.
 - The cold leftover poured over a scoop of vanilla ice cream becomes a passable instant café liégeois.

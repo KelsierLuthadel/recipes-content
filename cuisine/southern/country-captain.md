@@ -11,7 +11,7 @@
 **Cook Time:** 1 hour 15 minutes
 
 ## Overview
-Country Captain is one of the South's most distinctive dishes and reflects the historical trade routes between the American South (particularly Charleston and Savannah) and British colonial India: bone-in chicken pieces lightly floured and browned, then slow-braised in a sauce of sautéed onion, bell pepper, garlic, tomato, curry powder, ginger, cinnamon, with raisins and toasted almonds added - making a sweet-savoury chicken curry that's distinctly Anglo-Indian-Southern. Served over plain white rice with mango chutney, chopped fresh coriander and lime wedges. The dish supposedly arrived in Charleston via a British sea captain in the 19th century; became a staple of upper-class Southern entertaining.
+Country Captain is one of the South's most distinctive dishes and reflects the historical trade routes between the American South (particularly Charleston and Savannah) and British colonial India: bone-in chicken pieces lightly floured and browned, then slow-braised in a sauce of sautéed onion, bell pepper, garlic, tomato, curry powder, ginger, cinnamon, with raisins and toasted almonds added, making a sweet-savoury chicken curry that's distinctly Anglo-Indian-Southern. Served over plain white rice with mango chutney, chopped fresh coriander and lime wedges. The dish supposedly arrived in Charleston via a British sea captain in the 19th century; became a staple of upper-class Southern entertaining.
 
 ## Ingredients
 

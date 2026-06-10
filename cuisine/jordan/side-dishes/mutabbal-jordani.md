@@ -46,7 +46,7 @@ The smoky aubergine dip that sits on every Levantine mezze table, smoother and r
 ### Stage 3 - Mash
 1. Chop the drained flesh roughly.
 1. In a wide bowl, fold together aubergine, tahini, yogurt, garlic-salt paste, lemon, cumin and salt.
-1. Mash to a chunky-smooth dip with a fork - don't use a processor (too smooth).
+1. Mash to a chunky-smooth dip with a fork, don't use a processor (too smooth).
 
 ### Stage 4 - Taste
 1. Adjust salt, lemon, tahini. Should taste smoky-forward with creamy tahini-yogurt body.
@@ -61,7 +61,7 @@ The smoky aubergine dip that sits on every Levantine mezze table, smoother and r
 ## Notes
 - **Open flame is the dish:** Roasting in the oven gives a passable but inferior result.
 - **Yogurt is the Jordanian touch:** Baba ganoush (Levantine generic) uses just tahini; the Jordanian mutabbal adds yogurt for body. Both are right; this is the Jordan style.
-- **Drain the flesh:** Aubergine releases water - drain or the dip is loose and bland.
+- **Drain the flesh:** Aubergine releases water, drain or the dip is loose and bland.
 
 ## Storage
 - Refrigerate 3 days. Bring to room temperature before serving.

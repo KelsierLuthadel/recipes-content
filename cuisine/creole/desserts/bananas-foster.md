@@ -43,11 +43,11 @@ Bananas Foster is the dish Brennan's of New Orleans invented in 1951 and made in
 
 ### Stage 4 - Banana liqueur
 1. Pour the banana liqueur into the pan; stir to coat.
-1. The bananas should be just-tender - about to lose their shape but not yet collapsed.
+1. The bananas should be just-tender, about to lose their shape but not yet collapsed.
 
 ### Stage 5 - Flambé
 1. Pour the dark rum carefully into the pan.
-1. With long matches, ignite - at the surface - and stand back.
+1. With long matches, ignite, at the surface, and stand back.
 1. The flames will burn 30-60 seconds; let them die naturally.
 1. The remaining sauce will be slightly reduced and intense.
 
@@ -59,8 +59,8 @@ Bananas Foster is the dish Brennan's of New Orleans invented in 1951 and made in
 
 ## Notes
 - **Firm-ripe bananas:** Soft, spotty bananas collapse into mush. Yellow with no brown spots is right.
-- **Flambé safely:** Pull the pan off the heat first, pour rum, then ignite at arm's length with long matches or a long lighter. Don't pour rum from the bottle into a flaming pan - flame can travel up the pour and ignite the bottle.
+- **Flambé safely:** Pull the pan off the heat first, pour rum, then ignite at arm's length with long matches or a long lighter. Don't pour rum from the bottle into a flaming pan, flame can travel up the pour and ignite the bottle.
 - **Don't overcook:** The bananas should hold their shape. Cooking too long turns them to porridge.
 
 ## Storage
-- Eat immediately. Doesn't keep - the bananas brown and the syrup hardens.
+- Eat immediately. Doesn't keep, the bananas brown and the syrup hardens.

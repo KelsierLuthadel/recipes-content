@@ -61,7 +61,7 @@ Morocco's defining tagine and the Friday lunch at every Casablanca household: bo
 1. Place the chicken pieces skin-side-up on top of the onion.
 1. Drop in the cinnamon stick.
 1. Scrape any leftover spice paste from the bowl over the chicken.
-1. Pour the water around (not over) the chicken - it should come halfway up the meat.
+1. Pour the water around (not over) the chicken, it should come halfway up the meat.
 
 ### Stage 4 - Simmer
 1. Cover; bring to a very gentle simmer.
@@ -70,7 +70,7 @@ Morocco's defining tagine and the Friday lunch at every Casablanca household: bo
 ### Stage 5 - Lemons and olives
 1. Tuck the preserved lemon strips around the chicken.
 1. Scatter the olives.
-1. Cook uncovered 10 minutes - the sauce reduces a little further.
+1. Cook uncovered 10 minutes, the sauce reduces a little further.
 
 ### Stage 6 - Serve
 1. Taste the sauce; adjust salt if needed (preserved lemons and olives are salty so usually no adjustment).
@@ -79,7 +79,7 @@ Morocco's defining tagine and the Friday lunch at every Casablanca household: bo
 
 ## Notes
 - **Preserved lemon use:** Only the skin is used; the pulp is too salty and bitter for this dish. Rinse the skin under cold water before slicing to remove excess salt.
-- **Saffron quality:** Use real Persian or Spanish saffron threads; not powdered colour. The soaking water is what gets added - that's where the colour and aroma live.
+- **Saffron quality:** Use real Persian or Spanish saffron threads; not powdered colour. The soaking water is what gets added, that's where the colour and aroma live.
 - **Don't brown the chicken first:** Moroccan tagines are not French braises. The chicken goes in raw onto the softened onion bed; it steam-poaches in its own juices and the spices coat it without searing. Browning gives a different (also good) dish but not a tagine.
 
 ## Storage

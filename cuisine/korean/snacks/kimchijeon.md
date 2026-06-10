@@ -16,7 +16,7 @@ Korea's rainy-day pancake, the thing every Korean grandmother makes when the wea
 ## Ingredients
 
 ### Pancake
-- 200 g well-fermented kimchi (sour is better than fresh - old kimchi is gold)
+- 200 g well-fermented kimchi (sour is better than fresh, old kimchi is gold)
 - 4 tablespoons kimchi juice (squeezed from the kimchi)
 - 100 g plain flour
 - 1 tablespoon sweet rice flour (optional, for chewier texture)
@@ -24,7 +24,7 @@ Korea's rainy-day pancake, the thing every Korean grandmother makes when the wea
 - 120 ml ice-cold water (or sparkling water for crisper edges)
 - 1 teaspoon sugar
 - 2 spring onions (sliced thin)
-- 4 tablespoons neutral oil (for frying - split between 2 pancakes)
+- 4 tablespoons neutral oil (for frying, split between 2 pancakes)
 
 ### Dipping sauce
 - 3 tablespoons soy sauce
@@ -44,7 +44,7 @@ Korea's rainy-day pancake, the thing every Korean grandmother makes when the wea
 ### Stage 2 - Batter
 1. In a wide bowl, whisk the plain flour, sweet rice flour and sugar.
 1. Whisk in the egg, the reserved kimchi juice and the ice-cold water.
-1. The batter should be smooth and thin - runnier than American pancake batter, like crepe batter.
+1. The batter should be smooth and thin, runnier than American pancake batter, like crepe batter.
 1. Stir in the chopped kimchi and sliced spring onions.
 
 ### Stage 3 - Dipping sauce
@@ -56,7 +56,7 @@ Korea's rainy-day pancake, the thing every Korean grandmother makes when the wea
 1. Add 2 tablespoons of oil; swirl to coat.
 1. Pour half the batter into the pan; spread with the back of a spoon to a thin even circle (the pan should be just covered).
 1. Cook 3-4 minutes; the edges should crisp brown and the surface set.
-1. Lift an edge with a spatula to check - if deep gold underneath, flip.
+1. Lift an edge with a spatula to check, if deep gold underneath, flip.
 1. **Flip method:** slide pancake onto a flat plate, invert the pan over the plate, flip the whole thing. Or use two large spatulas.
 1. Cook another 2-3 minutes till the second side is gold.
 
@@ -79,4 +79,4 @@ Korea's rainy-day pancake, the thing every Korean grandmother makes when the wea
 - Best within an hour of cooking.
 - Reheats well in a hot dry pan 1 minute per side; revives the crisp.
 - Keep cooked pancakes 1 day refrigerated.
-- Don't microwave - turns gummy.
+- Don't microwave, turns gummy.

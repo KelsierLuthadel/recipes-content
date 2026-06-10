@@ -11,13 +11,13 @@
 **Cook Time:** 50 minutes
 
 ## Overview
-Janssons frestelse (Jansson's Temptation) is one of Sweden's most beloved comfort dishes and a fixture of every Christmas julbord, Easter buffet and late-night svensk pub menu: julienned potatoes (cut into matchsticks about 5mm thick, never grated) layered in a baking dish with thinly sliced sweet onions and "Swedish anchovies" - which is one of the great food-naming traps. Swedish "ansjovis" are NOT the salt-cured Mediterranean anchovies most cooks know; they're actually pickled European sprats, cured in a sweet-spiced brine with cloves, allspice, white peppercorns, sandalwood and bay (Abba brand is the traditional Swedish jar). They're sweeter, milder, and less aggressively fishy than Italian anchovies. The dish drenches all this in double cream + a splash of the spiced brine from the anchovy jar, tops with breadcrumbs and butter, and bakes till the top crisps golden and the inside is silky, salty-sweet, deeply savoury. The name's etymology is contested (Pelle Janzon, the Swedish opera singer? a Janzon family cookbook? a 1929 short story?), but the dish dates from at least the late 1920s.
+Janssons frestelse (Jansson's Temptation) is one of Sweden's most beloved comfort dishes and a fixture of every Christmas julbord, Easter buffet and late-night svensk pub menu: julienned potatoes (cut into matchsticks about 5mm thick, never grated) layered in a baking dish with thinly sliced sweet onions and "Swedish anchovies", which is one of the great food-naming traps. Swedish "ansjovis" are NOT the salt-cured Mediterranean anchovies most cooks know; they're actually pickled European sprats, cured in a sweet-spiced brine with cloves, allspice, white peppercorns, sandalwood and bay (Abba brand is the traditional Swedish jar). They're sweeter, milder, and less aggressively fishy than Italian anchovies. The dish drenches all this in double cream + a splash of the spiced brine from the anchovy jar, tops with breadcrumbs and butter, and bakes till the top crisps golden and the inside is silky, salty-sweet, deeply savoury. The name's etymology is contested (Pelle Janzon, the Swedish opera singer? a Janzon family cookbook? a 1929 short story?), but the dish dates from at least the late 1920s.
 
 ## Ingredients
 
 - 1 kg waxy potatoes (Maris Piper, Yukon Gold, or Désirée; peeled and julienned into 5mm matchsticks)
 - 2 large sweet onions (thinly sliced into half-moons)
-- 1 tin (125 g) Swedish ansjovis (Abba brand) - about 12-16 fillets, plus 4 tablespoons of the spiced pickling brine reserved
+- 1 tin (125 g) Swedish ansjovis (Abba brand): about 12-16 fillets, plus 4 tablespoons of the spiced pickling brine reserved
   - Substitute if Swedish brand unavailable: use 1 tin of marinated brisling sardines or 12 European pickled sprats; if only Italian salt-cured anchovies are available, rinse them well to reduce saltiness and add 2 tablespoons of sugar + a pinch each of allspice and ground cloves to the cream to approximate
 - 50 g butter
 - 400 ml double cream

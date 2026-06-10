@@ -14,7 +14,7 @@
 Sambal terasi is the Indonesian fermented-shrimp-paste sambal, the spoonful of red fire that lives in a small dish beside every Indonesian meal and elevates anything plain. Red chillies, garlic, shallots and tomato roast briefly under a grill until softened and slightly charred. Terasi (Indonesian shrimp paste) toasts in a dry pan for a minute until intensely fragrant (open a window). All ingredients pound or pulse to a coarse paste; the paste then fries in oil for eight to ten minutes until deep red, fragrant and the oil separates at the edges. Salt and a touch of palm sugar balance. Serve hot or cool with rice, grilled fish, fried tofu, or anything that wants a hit of heat.
 
 ## Ingredients
-- 12 red chillies (10 hot bird's-eye + 2 mild large red - adjust ratio to taste)
+- 12 red chillies (10 hot bird's-eye + 2 mild large red, adjust ratio to taste)
 - 6 garlic cloves
 - 4 shallots
 - 2 ripe tomatoes (about 200 g)
@@ -34,11 +34,11 @@ Sambal terasi is the Indonesian fermented-shrimp-paste sambal, the spoonful of r
 
 ### Stage 2 - Toast the terasi
 1. Wrap the terasi in foil; place in a dry pan over medium heat 2 minutes per side until intensely fragrant (or directly grill over flame on a metal skewer).
-1. The smell will be powerfully shrimp-funk - this is correct.
+1. The smell will be powerfully shrimp-funk, this is correct.
 
 ### Stage 3 - Pound or process
 1. Pound everything together in a mortar (the traditional way): start with terasi, garlic, shallot, then add chilli and tomato.
-1. **Processor method:** pulse everything together to a coarse paste (not a smooth purée - texture matters).
+1. **Processor method:** pulse everything together to a coarse paste (not a smooth purée, texture matters).
 
 ### Stage 4 - Fry
 1. Heat the oil in a wide pan over medium heat.
@@ -52,7 +52,7 @@ Sambal terasi is the Indonesian fermented-shrimp-paste sambal, the spoonful of r
 
 ### Stage 6 - Serve
 1. Spoon into a small bowl.
-1. Serve at any temperature - hot on rice, room temp on grilled meat, cool as a dipping condiment.
+1. Serve at any temperature, hot on rice, room temp on grilled meat, cool as a dipping condiment.
 
 ## Notes
 - **Terasi is non-negotiable:** without it sambal terasi is just chilli paste. Indonesian/Malaysian/Thai shrimp paste varies in intensity; start with less if your terasi is very pungent.
@@ -62,5 +62,5 @@ Sambal terasi is the Indonesian fermented-shrimp-paste sambal, the spoonful of r
 
 ## Storage
 - Keeps 1 week refrigerated in a sealed jar with a thin film of oil on top.
-- The colour darkens further over 24 hours - improves rather than degrades.
+- The colour darkens further over 24 hours, improves rather than degrades.
 - Freeze in ice-cube portions for 3 months; thaw at room temperature.

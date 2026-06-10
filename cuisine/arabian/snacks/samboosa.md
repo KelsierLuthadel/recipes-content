@@ -31,7 +31,7 @@ The Saudi Ramadan staple, the snack that breaks the fast in households across th
 - ½ lemon (zest)
 
 ### Wrappers and sealing paste
-- 20 spring-roll wrappers (the thin square or rectangular kind - sold at Asian shops) OR 20 samboosa pastry sheets
+- 20 spring-roll wrappers (the thin square or rectangular kind, sold at Asian shops) OR 20 samboosa pastry sheets
 - 2 tablespoons plain flour mixed with 3 tablespoons cold water (the flour paste seals the pastry)
 
 ### For frying
@@ -51,10 +51,10 @@ The Saudi Ramadan staple, the snack that breaks the fast in households across th
 1. Add mince; break up; brown 6 minutes.
 1. Stir in baharat, allspice, cinnamon, crushed black lime, salt and pepper; cook 1 minute.
 1. Off heat; stir in pine nuts, parsley and lemon zest.
-1. Cool fully - warm filling tears the wrappers.
+1. Cool fully, warm filling tears the wrappers.
 
 ### Stage 2 - Fold
-1. Cut spring-roll wrappers into long strips (about 8 cm wide, 25 cm long) if using full sheets - usually they come pre-cut.
+1. Cut spring-roll wrappers into long strips (about 8 cm wide, 25 cm long) if using full sheets, usually they come pre-cut.
 1. Place 1 tablespoon of filling at the bottom corner.
 1. Fold corner over filling diagonally to make a triangle.
 1. Continue folding triangle-over-triangle up the strip.

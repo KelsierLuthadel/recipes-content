@@ -11,12 +11,12 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-ofa") is Brazil's most distinctively Brazilian side dish: granular cassava flour toasted in butter and pork fat with diced bacon, onion, garlic, and frequently chopped hard-boiled egg, ripe banana, or chopped olives. The base is "farinha de mandioca" (cassava flour) - also called "yuca flour" or "manioc flour" - which is a coarse, grainy flour made from dried cassava root. The dish is the traditional Brazilian textural accent: a small mound of farofa is sprinkled over every plate of feijoada, churrasco, picanha, frango com quiabo, and the daily rice-and-beans plate at family lunch. The texture is unique: dry, slightly crunchy, golden-brown, with diced bacon and crisp onion providing additional texture. Brazilians regard a meal without farofa on the table as incomplete.
+Farofa (the name comes from "farinha", cassava flour, plus the diminutive "-ofa") is Brazil's most distinctively Brazilian side dish: granular cassava flour toasted in butter and pork fat with diced bacon, onion, garlic, and frequently chopped hard-boiled egg, ripe banana, or chopped olives. The base is "farinha de mandioca" (cassava flour): also called "yuca flour" or "manioc flour", which is a coarse, grainy flour made from dried cassava root. The dish is the traditional Brazilian textural accent: a small mound of farofa is sprinkled over every plate of feijoada, churrasco, picanha, frango com quiabo, and the daily rice-and-beans plate at family lunch. The texture is unique: dry, slightly crunchy, golden-brown, with diced bacon and crisp onion providing additional texture. Brazilians regard a meal without farofa on the table as incomplete.
 
 ## Ingredients
 
 ### For 8 portions
-- 400 g coarse cassava flour ("farinha de mandioca crua" - yellow, granular; available at Brazilian and Latin American shops, online)
+- 400 g coarse cassava flour ("farinha de mandioca crua", yellow, granular; available at Brazilian and Latin American shops, online)
 - 60 g butter (unsalted)
 - 60 g smoked bacon (finely diced)
 - 1 medium onion (finely diced)
@@ -25,10 +25,10 @@ Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-of
 - ½ teaspoon coarsely cracked black pepper
 
 ### Traditional add-ins (use any or all)
-- 2 hard-boiled eggs (chopped) - adds richness
-- 1 ripe banana (sliced into rounds) - adds sweet contrast
-- 30 g raisins or chopped dried apricots - sweet variant
-- 50 g chopped green olives - savoury variant
+- 2 hard-boiled eggs (chopped): adds richness
+- 1 ripe banana (sliced into rounds): adds sweet contrast
+- 30 g raisins or chopped dried apricots, sweet variant
+- 50 g chopped green olives, savoury variant
 - A small handful of chopped fresh parsley (for garnish)
 - A pinch of paprika (optional, for colour)
 
@@ -56,7 +56,7 @@ Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-of
 3. Stir thoroughly to coat every grain with the butter and pan fat.
 4. Toast over medium-low heat, stirring constantly with a wooden spoon, for 5-8 minutes.
 5. The flour will gradually deepen from pale yellow to golden brown.
-6. Don't let it burn - keep stirring, keep moving.
+6. Don't let it burn, keep stirring, keep moving.
 
 ### Stage 4 - Season
 1. Add the salt and pepper.
@@ -84,17 +84,17 @@ Farofa (the name comes from "farinha" - cassava flour - plus the diminutive "-of
 - **Add-ins matter:** the simplest farofa is bacon-onion-cassava; the traditional Brazilian Sunday-lunch version adds egg, banana, and parsley.
 
 ## Variations
-**Farofa de banana:** add 2 ripe bananas (sliced) - the Bahian-Brazilian variant; sweet-savoury contrast.
-**Farofa de ovo:** add 4 chopped hard-boiled eggs - protein-rich version.
+**Farofa de banana:** add 2 ripe bananas (sliced): the Bahian-Brazilian variant; sweet-savoury contrast.
+**Farofa de ovo:** add 4 chopped hard-boiled eggs, protein-rich version.
 **Farofa de vegetais (vegetarian):** skip the bacon; use olive oil and butter; add diced carrot, celery, and parsley.
-**Farofa de azeite (with palm oil):** swap butter for dendê (red palm oil) - Bahian Afro-Brazilian variant; golden-orange.
-**Farofa de queijo:** add 100 g grated mature Cheddar at the end - modern cheesy variant.
-**Farofa para Natal (Christmas farofa):** add raisins, dried cranberries, chopped pecans, and a tablespoon of cinnamon-sugar - Christmas variant.
-**Farofa com gorduras (rich version):** double the butter and bacon - extra-fat, party-style.
+**Farofa de azeite (with palm oil):** swap butter for dendê (red palm oil): Bahian Afro-Brazilian variant; golden-orange.
+**Farofa de queijo:** add 100 g grated mature Cheddar at the end, modern cheesy variant.
+**Farofa para Natal (Christmas farofa):** add raisins, dried cranberries, chopped pecans, and a tablespoon of cinnamon-sugar, Christmas variant.
+**Farofa com gorduras (rich version):** double the butter and bacon, extra-fat, party-style.
 **Farofa carioca (Rio-style):** add chopped green olives and finely diced ham.
 
 ## Serving
-At every Brazilian Sunday lunch (the traditional setting - never absent from the table) · alongside feijoada · alongside picanha or any churrasco · with rice and beans as the daily Brazilian plate · at a Brazilian birthday party · at a Brazilian wedding reception · at a Brazilian Christmas dinner (the festive farofa with raisins) · at home as a quick side for any roasted meat.
+At every Brazilian Sunday lunch (the traditional setting, never absent from the table) · alongside feijoada · alongside picanha or any churrasco · with rice and beans as the daily Brazilian plate · at a Brazilian birthday party · at a Brazilian wedding reception · at a Brazilian Christmas dinner (the festive farofa with raisins) · at home as a quick side for any roasted meat.
 
 ## Storage
 - Refrigerates 5 days in a sealed container; reheats in a pan with a small extra knob of butter.

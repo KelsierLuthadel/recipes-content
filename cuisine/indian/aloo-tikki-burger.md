@@ -2,7 +2,7 @@
 
 ![Aloo Tikki Burger](resources/aloo-tikki-burger.jpg)
 
-*India's vegetarian potato burger: a crispy pan-fried patty of spiced mashed potato, peas, ginger, green chilli and fresh coriander, served on a soft bun with mint-coriander chutney, tamarind sauce, sliced red onion, tomato and cucumber. The McAloo Tikki of the Indian McDonald's menu reimagined - the vegetarian burger that anchors Indian fast food.*
+*India's vegetarian potato burger: a crispy pan-fried patty of spiced mashed potato, peas, ginger, green chilli and fresh coriander, served on a soft bun with mint-coriander chutney, tamarind sauce, sliced red onion, tomato and cucumber. The McAloo Tikki of the Indian McDonald's menu reimagined, the vegetarian burger that anchors Indian fast food.*
 
 **Serves:** 4
 
@@ -74,7 +74,7 @@ The aloo tikki burger is one of India's most iconic fast-food creations and the 
 ### Stage 1 - Cook and dry the potatoes
 1. Boil the cubed potatoes in salted water 15 minutes till tender.
 2. Drain very thoroughly.
-3. Return to the empty hot pot; let steam off 5 minutes (this is essential - wet potato gives a soggy patty).
+3. Return to the empty hot pot; let steam off 5 minutes (this is essential, wet potato gives a soggy patty).
 4. Mash thoroughly; cool 15 minutes.
 
 ### Stage 2 - Make mint-coriander chutney

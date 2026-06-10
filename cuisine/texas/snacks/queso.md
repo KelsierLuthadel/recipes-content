@@ -61,7 +61,7 @@ Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the
 2. Add the cheese (cubed Velveeta, or the cheddar/Monterey/cream cheese mix).
 3. Add the milk gradually.
 4. Stir constantly till the cheese is fully melted and smooth.
-5. Don't let it boil - boiling makes the cheese seize.
+5. Don't let it boil, boiling makes the cheese seize.
 6. Cook 5-7 minutes till silky.
 
 ### Stage 4 - Finish
@@ -93,4 +93,4 @@ With yellow corn chips at the centre of a Texan party. Drink: cold beer (Tecate,
 ## Storage
 - Keeps refrigerated 4 days; reheat slowly with extra milk to restore texture.
 - Don't freeze; the cheese splits.
-- Use a slow cooker on warm for parties - keeps the dip silky.
+- Use a slow cooker on warm for parties, keeps the dip silky.

@@ -11,12 +11,12 @@
 **Cook Time:** 10 minutes
 
 ## Overview
-Limoncello is the after-dinner liqueur of southern Italy - Sorrento, Amalfi, Capri - made from the zest of specific large-fruited Amalfi or Sfusato lemons macerated in high-proof neutral alcohol for a week to ten days, then strained and combined with a sugar syrup. Bottled, refrigerated and served in tiny frosted glasses pulled straight from the freezer (the alcohol prevents it from solidifying), sipped as a digestivo at the end of a meal. The flavour is bright, intensely lemon-oily, sweet but not cloying, alcoholic in the 25-30% range. Tourist limoncellos in Sorrento gift shops range from excellent to terrible; homemade is reliably good if you start with the right lemons.
+Limoncello is the after-dinner liqueur of southern Italy, Sorrento, Amalfi, Capri, made from the zest of specific large-fruited Amalfi or Sfusato lemons macerated in high-proof neutral alcohol for a week to ten days, then strained and combined with a sugar syrup. Bottled, refrigerated and served in tiny frosted glasses pulled straight from the freezer (the alcohol prevents it from solidifying), sipped as a digestivo at the end of a meal. The flavour is bright, intensely lemon-oily, sweet but not cloying, alcoholic in the 25-30% range. Tourist limoncellos in Sorrento gift shops range from excellent to terrible; homemade is reliably good if you start with the right lemons.
 
 ## Ingredients
 
 ### Steep
-- 8 to 10 unwaxed lemons (preferably Amalfi or Sorrento lemons; thick-skinned, intensely aromatic - see notes)
+- 8 to 10 unwaxed lemons (preferably Amalfi or Sorrento lemons; thick-skinned, intensely aromatic, see notes)
 - 1 litre 95% neutral grain alcohol (Everclear-style; OR 1 litre 50% vodka as a substitute, will give a milder limoncello)
 
 ### Sugar syrup
@@ -27,7 +27,7 @@ Limoncello is the after-dinner liqueur of southern Italy - Sorrento, Amalfi, Cap
 
 ### Stage 1 - Peel the lemons
 1. Wash and dry the lemons thoroughly.
-1. Using a vegetable peeler or a microplane, remove the yellow zest in wide strips, taking ONLY the yellow outer layer. Avoid the white pith below - pith makes limoncello bitter.
+1. Using a vegetable peeler or a microplane, remove the yellow zest in wide strips, taking ONLY the yellow outer layer. Avoid the white pith below, pith makes limoncello bitter.
 1. You should have 100 to 150 g of zest by weight.
 
 ### Stage 2 - Steep
@@ -46,7 +46,7 @@ Limoncello is the after-dinner liqueur of southern Italy - Sorrento, Amalfi, Cap
 1. Decant into clean glass bottles.
 
 ### Stage 5 - Rest
-1. Seal the bottles; let stand in the fridge for at least 1 week before drinking (longer is better - the harshness of the alcohol mellows over 2 to 4 weeks).
+1. Seal the bottles; let stand in the fridge for at least 1 week before drinking (longer is better, the harshness of the alcohol mellows over 2 to 4 weeks).
 1. Store in the freezer.
 
 ### To serve

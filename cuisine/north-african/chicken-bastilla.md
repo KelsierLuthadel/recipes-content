@@ -81,7 +81,7 @@ Morocco's celebration pie and the centrepiece at any wedding or Eid feast: shred
 1. Spread the chicken-and-egg mixture evenly over the filo base.
 1. Top with the almond rubble.
 1. Lay the remaining 4 filo sheets on top, brushing each with butter, tucking them into the tin.
-1. Fold the overhanging filo up and over the top to seal - the parcel should look like a domed round pie.
+1. Fold the overhanging filo up and over the top to seal, the parcel should look like a domed round pie.
 1. Brush the entire top thoroughly with butter.
 
 ### Stage 5 - Bake
@@ -94,7 +94,7 @@ Morocco's celebration pie and the centrepiece at any wedding or Eid feast: shred
 1. Sprinkle the cinnamon in narrow stripes or a lattice pattern.
 
 ### Stage 7 - Serve
-1. Cut into wedges with a serrated knife (sawing motion - the filo is crisp).
+1. Cut into wedges with a serrated knife (sawing motion, the filo is crisp).
 1. Eat warm; small portions are usual because it's rich.
 
 ## Notes
@@ -105,4 +105,4 @@ Morocco's celebration pie and the centrepiece at any wedding or Eid feast: shred
 ## Storage
 - Best within 2 hours of baking. The filo softens with time.
 - Refrigerate 2 days; reheat in a 180°C oven 10 minutes (microwave makes it floppy).
-- Freezes well unbaked - assemble, freeze, then bake from frozen at 180°C 45 minutes.
+- Freezes well unbaked, assemble, freeze, then bake from frozen at 180°C 45 minutes.

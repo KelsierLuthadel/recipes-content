@@ -2,7 +2,7 @@
 
 ![Wienerbrød](resources/wienerbrod.jpg)
 
-*Denmark's most-exported baked good (the world calls it "Danish pastry"; Danes call it Wienerbrød - "Vienna bread" - because Austrian bakers brought the technique to Copenhagen in 1850): a buttery laminated dough (multiple folds of butter through yeasted dough, like puff pastry but with yeast) shaped into spirals, knots and braids, filled with vanilla custard, cinnamon-sugar, almond paste or apple, baked till deep golden and crisped at the edges, topped with sugar glaze and flaked almonds. The Danish breakfast pastry; eaten with strong coffee.*
+*Denmark's most-exported baked good (the world calls it "Danish pastry"; Danes call it Wienerbrød, "Vienna bread", because Austrian bakers brought the technique to Copenhagen in 1850): a buttery laminated dough (multiple folds of butter through yeasted dough, like puff pastry but with yeast) shaped into spirals, knots and braids, filled with vanilla custard, cinnamon-sugar, almond paste or apple, baked till deep golden and crisped at the edges, topped with sugar glaze and flaked almonds. The Danish breakfast pastry; eaten with strong coffee.*
 
 **Serves:** Makes 12 pastries (varied shapes)
 
@@ -100,7 +100,7 @@ Wienerbrød is the most internationally famous Danish food. Confusingly, the Eng
 2. Turn 90 degrees; roll into a long rectangle again.
 3. Letter-fold. Refrigerate 30 minutes.
 4. Repeat for fold #3.
-5. After the 3rd fold, wrap tightly and refrigerate OVERNIGHT - this is essential.
+5. After the 3rd fold, wrap tightly and refrigerate OVERNIGHT, this is essential.
 
 ### Stage 6 - Make the vanilla custard (next day)
 1. Heat the milk with the split vanilla pod till just below boiling.
@@ -166,5 +166,5 @@ At a Danish bakery counter at 7am · at a Copenhagen hotel breakfast buffet · a
 - Wienerbrød best within 2 hours of baking.
 - Room temp covered 1 day; the flake softens but is still good.
 - Freeze cooked 1 month (without glaze); thaw, refresh in 180°C oven 5 min, then glaze.
-- Dough (after the 3 folds) can rest in the fridge 24-48 hours before shaping - actually improves the flavour.
+- Dough (after the 3 folds) can rest in the fridge 24-48 hours before shaping, actually improves the flavour.
 - Vanilla custard refrigerates 4 days.

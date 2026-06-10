@@ -41,7 +41,7 @@ Kachumber is Pakistan's chopped salad, the fresh foil to nihari, biryani, karahi
 
 ### Stage 3 - Finish
 1. Stir in the coriander and mint.
-1. Taste; adjust salt and lime - should be sharp and fresh.
+1. Taste; adjust salt and lime, should be sharp and fresh.
 
 ### Stage 4 - Serve
 1. Serve at room temperature alongside any rich Pakistani main.

@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-Moroccan avocado smoothie is one of those things that catches first-time visitors off guard. In the UK and US, avocado is treated as a savoury fruit; in Morocco (and across much of North Africa, the Middle East and Southeast Asia), avocado is dessert. The drink - sold at juice bars in every Moroccan town from Casablanca to Marrakech under the name "aseer avocado" - is blended with milk, sugar, almonds, vanilla and a few drops of orange blossom water, producing a thick, pale-green, faintly nutty drink that has more in common with a milkshake than a fruit smoothie. The Moroccan twist on the broader Middle Eastern preparation is the orange blossom water, which carries the same signature scent as the country's sweet kitchens. Served deeply chilled in tall glasses, sometimes layered with strawberry purée or topped with crushed pistachios, it's the breakfast-or-afternoon drink at juice bars; Moroccan teenagers drink it instead of ordering coffee.
+Moroccan avocado smoothie is one of those things that catches first-time visitors off guard. In the UK and US, avocado is treated as a savoury fruit; in Morocco (and across much of North Africa, the Middle East and Southeast Asia), avocado is dessert. The drink, sold at juice bars in every Moroccan town from Casablanca to Marrakech under the name "aseer avocado", is blended with milk, sugar, almonds, vanilla and a few drops of orange blossom water, producing a thick, pale-green, faintly nutty drink that has more in common with a milkshake than a fruit smoothie. The Moroccan twist on the broader Middle Eastern preparation is the orange blossom water, which carries the same signature scent as the country's sweet kitchens. Served deeply chilled in tall glasses, sometimes layered with strawberry purée or topped with crushed pistachios, it's the breakfast-or-afternoon drink at juice bars; Moroccan teenagers drink it instead of ordering coffee.
 
 ## Ingredients
 
@@ -33,7 +33,7 @@ Moroccan avocado smoothie is one of those things that catches first-time visitor
 
 ### Stage 1 - Prep the avocados
 1. Halve the avocados, remove the stones, scoop the flesh into a high-powered blender.
-1. The avocados should be fully ripe - yielding to thumb pressure but not mushy. Under-ripe avocados give a fibrous bitter drink.
+1. The avocados should be fully ripe, yielding to thumb pressure but not mushy. Under-ripe avocados give a fibrous bitter drink.
 
 ### Stage 2 - Blend
 1. Add the cold milk, 6 tablespoons of sugar, the sweetened condensed milk (if using), vanilla extract, orange blossom water, ground almonds and ice cubes to the blender.
@@ -41,7 +41,7 @@ Moroccan avocado smoothie is one of those things that catches first-time visitor
 
 ### Stage 3 - Taste and adjust
 1. Taste. The Moroccan version is properly sweet (Moroccan juice bars use more sugar than you'd expect). Add 1 more tablespoon at a time if it tastes flat. If too thick, add a splash more milk.
-1. The texture should be thick enough to coat a spoon but pour easily from the blender jug - somewhere between a smoothie and a milkshake.
+1. The texture should be thick enough to coat a spoon but pour easily from the blender jug, somewhere between a smoothie and a milkshake.
 
 ### Stage 4 - Serve
 1. Pour into chilled tall glasses.
@@ -52,7 +52,7 @@ Moroccan avocado smoothie is one of those things that catches first-time visitor
 ## Notes
 - **Ripe avocados only.** Hard avocados give a fibrous, bitter, grainy drink. Yielding-to-thumb is the right ripeness.
 - **Sweet by Moroccan standards.** 6-8 tablespoons of sugar might seem aggressive; this is correct. The avocado is naturally bland and needs heavy sweetening to come into balance.
-- **The orange blossom water is signature.** Don't skip - it's what makes this Moroccan rather than a generic avocado milkshake. Start at 1 teaspoon; rose-water-fragrant overkill is a real risk.
+- **The orange blossom water is signature.** Don't skip, it's what makes this Moroccan rather than a generic avocado milkshake. Start at 1 teaspoon; rose-water-fragrant overkill is a real risk.
 - **Cold ingredients.** Milk straight from the fridge, ice cubes, blended quickly so it doesn't warm up. The drink is served cold.
 
 ## Variations

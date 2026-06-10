@@ -29,7 +29,7 @@ Torrijas are Spain's Holy Week pudding, the Semana Santa equivalent of French to
 - 3 eggs (large, beaten with a pinch of salt)
 
 ### Frying
-- 200 ml olive oil (mild - not extra-virgin)
+- 200 ml olive oil (mild, not extra-virgin)
 
 ### To finish (choose one)
 #### Honey version
@@ -75,7 +75,7 @@ Torrijas are Spain's Holy Week pudding, the Semana Santa equivalent of French to
 
 ## Notes
 - **Stale bread is the key:** fresh bread falls apart in the milk soak. Bread that's been sitting on the counter 1-2 days is perfect. Day-fresh bread can be dried in a low oven for 30 minutes.
-- **Don't over-soak:** soft sandwich bread takes 2 minutes; stale country bread takes 20 minutes. Test the centre - saturated but not collapsing is the goal.
+- **Don't over-soak:** soft sandwich bread takes 2 minutes; stale country bread takes 20 minutes. Test the centre, saturated but not collapsing is the goal.
 - **Olive oil, not butter:** Spanish torrijas are fried in olive oil. Butter burns at the temperature needed and gives a different flavour profile.
 - **Medium heat:** too hot and the outside burns before the egg sets; too cool and the bread absorbs oil and goes greasy.
 

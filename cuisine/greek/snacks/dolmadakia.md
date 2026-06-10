@@ -61,7 +61,7 @@ Dolmadakia are the Greek stuffed vine leaves, small cigar-shaped rolls of soften
 
 ### Stage 3 - Roll
 1. Lay a leaf shiny-side-down on the work surface; trim any tough stem.
-1. Place 1 teaspoon of filling near the stem end (don't overfill - rice expands during cooking).
+1. Place 1 teaspoon of filling near the stem end (don't overfill, rice expands during cooking).
 1. Fold the stem flap up over the filling.
 1. Fold the two side flaps in over the filling.
 1. Roll up tightly to a 5-6 cm cigar.

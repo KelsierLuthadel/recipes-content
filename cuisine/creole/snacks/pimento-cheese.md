@@ -16,7 +16,7 @@ Pimento cheese is the Southern spread the New Orleans Creoles adopted as their o
 ## Ingredients
 - 400 g mature sharp cheddar cheese (extra-mature or vintage; ORANGE cheddar gives the iconic colour but white works)
 - 100 g cream cheese (softened)
-- 150 g mayonnaise (Duke's or Hellmann's - Southerners insist on Duke's)
+- 150 g mayonnaise (Duke's or Hellmann's, Southerners insist on Duke's)
 - 100 g jarred pimentos (or roasted red peppers; drained, patted dry, finely diced)
 - 1 teaspoon Worcestershire sauce
 - 1 teaspoon Dijon mustard
@@ -24,7 +24,7 @@ Pimento cheese is the Southern spread the New Orleans Creoles adopted as their o
 - 1 teaspoon garlic powder
 - 1 teaspoon sweet paprika
 - ½ teaspoon cayenne pepper (less if mild preferred)
-- 1 teaspoon ground black pepper (lots - black pepper is a signature)
+- 1 teaspoon ground black pepper (lots, black pepper is a signature)
 - ½ teaspoon salt (taste; cheese may be salty enough)
 
 ### To serve
@@ -61,4 +61,4 @@ Pimento cheese is the Southern spread the New Orleans Creoles adopted as their o
 ## Storage
 - Keeps 1 week refrigerated in a sealed container.
 - The flavour improves on day 2-3 as the mayo softens the cheese further.
-- Doesn't freeze - texture breaks.
+- Doesn't freeze, texture breaks.

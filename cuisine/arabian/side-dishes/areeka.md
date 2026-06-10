@@ -35,7 +35,7 @@ A Saudi sweet you can put together in five minutes from three ingredients you al
 ### Stage 3 - Press and butter
 1. Melt the samna in a small pan over low heat until just warm.
 1. Pour over the bread and dates.
-1. With a wooden pestle (or the back of a sturdy spoon), press and stir the mixture together - the dates break down, the bread absorbs the butter, everything combines into a dense, buttery, brown-flecked mass.
+1. With a wooden pestle (or the back of a sturdy spoon), press and stir the mixture together, the dates break down, the bread absorbs the butter, everything combines into a dense, buttery, brown-flecked mass.
 1. Stir in the cardamom and honey (if using).
 
 ### Stage 4 - Serve
@@ -44,10 +44,10 @@ A Saudi sweet you can put together in five minutes from three ingredients you al
 1. Eat warm, with the fingers or a small spoon, alongside qahwa.
 
 ## Notes
-- **Bread quality:** A whole-wheat flatbread with a slight tooth is best. Sliced sandwich bread doesn't work - the structure collapses into wet mush.
+- **Bread quality:** A whole-wheat flatbread with a slight tooth is best. Sliced sandwich bread doesn't work, the structure collapses into wet mush.
 - **Date quality:** Medjool dates are huge, soft, caramelly. Kholas are smaller, more wrinkled, deeply Saudi. Ajwa (from Medina) are highly prized but expensive. All work.
 - **Samna matters:** Indian ghee is the closest substitute. Plain butter works but lacks the slightly nutty samna character.
 
 ## Storage
 - Best fresh, eaten warm. Keeps 1 day at room temperature.
-- Don't refrigerate - the butter sets hard and the texture turns wrong.
+- Don't refrigerate, the butter sets hard and the texture turns wrong.

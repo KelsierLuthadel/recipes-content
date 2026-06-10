@@ -44,7 +44,7 @@ Yuca con chicharrón is the Honduran fair-day snack, the dish that turns up at e
 
 ### Stage 2 - Chicharrón
 1. Place the pork belly in a wide heavy pan with the 2 tablespoons of water; season with salt and pepper.
-1. Cover; cook over medium-low 25 minutes - the water evaporates and the pork begins to render.
+1. Cover; cook over medium-low 25 minutes, the water evaporates and the pork begins to render.
 1. Uncover; raise the heat; continue cooking 35-40 minutes, stirring occasionally, until the pork is deeply crisp and golden in its own fat.
 1. Lift out with a slotted spoon onto kitchen paper.
 
@@ -63,7 +63,7 @@ Yuca con chicharrón is the Honduran fair-day snack, the dish that turns up at e
 1. Tear chicharrón into bite-sized pieces with fork or fingers; pile onto yuca; top with curtido. Squeeze over lime.
 
 ## Notes
-- **Peel the yuca carefully:** The skin is tough; score lengthways with a knife and peel each strip off. Remove the central fibre after boiling - it's woody.
+- **Peel the yuca carefully:** The skin is tough; score lengthways with a knife and peel each strip off. Remove the central fibre after boiling, it's woody.
 - **Render slowly:** The water-then-fat method (a Mexican / Central American technique) is foolproof. The pork releases its own fat as the water evaporates; it then fries crisp without needing extra oil.
 - **Frozen yuca:** Sold in most large supermarkets in the freezer aisle. Cooks the same; no peeling.
 

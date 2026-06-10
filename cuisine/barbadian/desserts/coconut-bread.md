@@ -63,7 +63,7 @@ Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. D
 1. Beat in the eggs one at a time.
 2. Add the vanilla extract.
 3. With the mixer on low, alternate adding the dry mix and the coconut milk in 3 batches (start and end with dry).
-4. Mix till just combined - don't overmix.
+4. Mix till just combined, don't overmix.
 
 ### Stage 5 - Fold in the coconut and herbs
 1. Stir in the grated coconut, thyme leaves, lime juice and zest.
@@ -100,13 +100,13 @@ Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. D
 - **Improves with a day:** the flavours marry overnight. The loaf is even better on day 2.
 
 ## Variations
-**Coconut bread with rum-soaked raisins:** soak the raisins in 60 ml of Bajan rum for 1 hour; drain; add to the batter - the boozy variant.
-**Pineapple-coconut bread:** add 200 g of chopped fresh or canned pineapple (well-drained) to the batter - the tropical variant.
-**Chocolate-chip coconut bread:** add 150 g dark chocolate chips - the modern variant.
-**Banana-coconut bread:** swap 200 ml of the coconut milk for 2 mashed ripe bananas - the Caribbean banana-bread crossover.
+**Coconut bread with rum-soaked raisins:** soak the raisins in 60 ml of Bajan rum for 1 hour; drain; add to the batter, the boozy variant.
+**Pineapple-coconut bread:** add 200 g of chopped fresh or canned pineapple (well-drained) to the batter, the tropical variant.
+**Chocolate-chip coconut bread:** add 150 g dark chocolate chips, the modern variant.
+**Banana-coconut bread:** swap 200 ml of the coconut milk for 2 mashed ripe bananas, the Caribbean banana-bread crossover.
 **Vegan coconut bread:** swap eggs for 6 tablespoons aquafaba + 3 tablespoons milled flax + 3 tablespoons water; butter for vegan block butter; otherwise the recipe is vegan-friendly.
-**Mini coconut breads (cupcake-format):** divide the batter into a 12-cup muffin tin; bake 28-32 minutes - the lunchbox variant.
-**Coconut-spice loaf (festive Christmas variant):** double the spices; add 100 g chopped dates - the Bajan Christmas variant.
+**Mini coconut breads (cupcake-format):** divide the batter into a 12-cup muffin tin; bake 28-32 minutes, the lunchbox variant.
+**Coconut-spice loaf (festive Christmas variant):** double the spices; add 100 g chopped dates, the Bajan Christmas variant.
 
 ## Serving
 At a Bajan Sunday tea (the traditional setting) · at a Bajan church social · at a Bajan Christmas tea-table · at a Bajan Independence Day reception · at a Caribbean tea-room · at home as a make-ahead Sunday-tea bake · paired with strong Bajan tea, mauby, cocoa-tea, or vanilla ice cream.
@@ -115,6 +115,6 @@ At a Bajan Sunday tea (the traditional setting) · at a Bajan church social · a
 - Stores 5 days at room temperature wrapped tight (or in a tin with a tight lid).
 - Refrigerates 1 week (the texture firms slightly; bring to room temperature for the best texture).
 - Freezes 3 months wrapped tight; defrost at room temperature for 2 hours.
-- Improves with a day's resting - the flavours marry; the crumb settles.
+- Improves with a day's resting, the flavours marry; the crumb settles.
 - Day-old coconut bread sliced and toasted till golden, then spread with butter and a smear of guava jam, is a Bajan breakfast classic.
-- The raw batter doesn't keep - bake the same day.
+- The raw batter doesn't keep, bake the same day.

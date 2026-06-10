@@ -2,7 +2,7 @@
 
 ![Pampushky](resources/pampushky.jpg)
 
-*Ukrainian small soft yeast rolls slathered with a paste of garlic, oil, salt and dill - pulled apart and dipped into bowls of borscht. Pillow-soft on the inside, glossy with garlic oil on top, intensely savoury. The traditional companion to red borscht, but also good as a starter on their own.*
+*Ukrainian small soft yeast rolls slathered with a paste of garlic, oil, salt and dill, pulled apart and dipped into bowls of borscht. Pillow-soft on the inside, glossy with garlic oil on top, intensely savoury. The traditional companion to red borscht, but also good as a starter on their own.*
 
 **Makes:** 12 rolls
 
@@ -43,7 +43,7 @@ Pampushky are the small pillowy yeast rolls that sit beside every bowl of red bo
 
 ### Stage 2 - Shape
 1. Knock back the dough; divide into 12 equal balls.
-1. Arrange in a buttered 26 cm round cake tin or oven-proof skillet, leaving small gaps - they'll touch as they rise.
+1. Arrange in a buttered 26 cm round cake tin or oven-proof skillet, leaving small gaps, they'll touch as they rise.
 
 ### Stage 3 - Second rise
 1. Cover loosely; rise 30-40 minutes until puffy and just touching each other.
@@ -58,13 +58,13 @@ Pampushky are the small pillowy yeast rolls that sit beside every bowl of red bo
 1. Mix in the oil, dill and water to make a slick, pungent dressing.
 
 ### Stage 6 - Glaze and serve
-1. Pull rolls from the oven; immediately brush all over the tops with the garlic oil - it should soak into the warm crust.
+1. Pull rolls from the oven; immediately brush all over the tops with the garlic oil, it should soak into the warm crust.
 1. Eat warm, pulled apart and dipped into hot borscht.
 
 ## Notes
 - **Brush hot from the oven:** Cool rolls don't absorb the garlic oil; they sit dressed but unflavoured.
 - **Smash the garlic, don't mince:** A mortar releases the oils properly. A grater or microplane is the next best; minced is fine.
-- **Eat the day baked:** Pampushky stale fast - they're not bread to keep. Make for the meal you're eating.
+- **Eat the day baked:** Pampushky stale fast, they're not bread to keep. Make for the meal you're eating.
 
 ## Storage
 - Best fresh; refrigerate 2 days at most. Reheat at 180°C for 5 minutes covered, then re-brush with fresh garlic oil.

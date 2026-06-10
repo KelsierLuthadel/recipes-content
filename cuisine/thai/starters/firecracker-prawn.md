@@ -37,7 +37,7 @@ Firecracker prawns are the chilli-spiked Thai starter you find on every restaura
 1. Using a sharp knife, make three shallow slits in the underside of each prawn (shrimp): one at one end, then in the middle and one more at the other end.
 2. Then bend the prawn upwards to straighten.
 3. Pat the prawns dry with a paper towel.
-4. Whisk the marinade ingredients in a bowl and taste to adjust the seasoning - add the roasted chilli flakes if you want additional heat.
+4. Whisk the marinade ingredients in a bowl and taste to adjust the seasoning, add the roasted chilli flakes if you want additional heat.
 5. Mix the prawns into the marinade and marinate for 30 minutes in the fridge.
 
 ### Stage 2 - Prepare Wrappers

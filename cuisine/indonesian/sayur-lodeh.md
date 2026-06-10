@@ -2,7 +2,7 @@
 
 ![Sayur Lodeh](resources/sayur-lodeh.jpg)
 
-*A mild Indonesian vegetable curry built on coconut milk, lemongrass and turmeric. Vegetables - usually long beans, aubergine and tofu, but flexible - simmer until just-tender; the broth is gentle, fragrant, soup-meal thin. Comfort food across Java.*
+*A mild Indonesian vegetable curry built on coconut milk, lemongrass and turmeric. Vegetables, usually long beans, aubergine and tofu, but flexible, simmer until just-tender; the broth is gentle, fragrant, soup-meal thin. Comfort food across Java.*
 
 **Serves:** 4
 
@@ -47,7 +47,7 @@ Sayur lodeh is the Indonesian vegetable curry from Central Java, a turmeric-yell
 
 ### Stage 2 - Fry the paste
 1. Heat the oil in a heavy pan over medium heat.
-1. Cook the paste 4-5 minutes, stirring, until darker and aromatic - most of the harshness should cook off.
+1. Cook the paste 4-5 minutes, stirring, until darker and aromatic, most of the harshness should cook off.
 
 ### Stage 3 - Aromatics and broth
 1. Add the lemongrass, lime leaves and galangal; cook 1 minute.

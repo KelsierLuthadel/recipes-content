@@ -27,31 +27,31 @@ Kaffepunch (also called "kaffe med skipper", coffee with a skipper) is one of De
 - A small spoon
 
 ### To serve alongside (optional)
-- A small separate snaps glass of cold akvavit (the "double" - for those who want extra warming)
+- A small separate snaps glass of cold akvavit (the "double", for those who want extra warming)
 - A small piece of Danish pebernødder (Christmas spice biscuit) or a piece of dark chocolate
 - A small biscuit (pebernødder, brunkager, vaniljekranse) at Christmas
 
 ## Method
 
 ### Stage 1 - Brew strong coffee
-1. Brew a strong French-press or filter coffee - about 7g coffee per 100ml water (slightly stronger than usual).
+1. Brew a strong French-press or filter coffee, about 7g coffee per 100ml water (slightly stronger than usual).
 2. Don't use espresso (too small; the kaffepunch needs volume) or weak American filter (too thin).
 
 ### Stage 2 - Add the sugar
 1. Drop a sugar cube into the hot coffee.
 2. Stir to dissolve.
-3. Some Danish farmers drop the sugar cube in with the akvavit and let it dissolve as they sip - adds a slight sweetness gradient.
+3. Some Danish farmers drop the sugar cube in with the akvavit and let it dissolve as they sip, adds a slight sweetness gradient.
 
 ### Stage 3 - Add the akvavit
 1. Pour the cold akvavit into the hot coffee.
-2. The temperature contrast is part of the ritual - the cold akvavit hitting the hot coffee gives a brief release of caraway aroma.
+2. The temperature contrast is part of the ritual, the cold akvavit hitting the hot coffee gives a brief release of caraway aroma.
 3. The "coin test": traditionally, the cup is filled to a level where, if you dropped a coin in, you could just barely see it (or not). This means the akvavit-to-coffee ratio is generous.
 4. Add a piece of orange peel (if using).
 5. Optional: a pinch of cinnamon on top.
 
 ### Stage 4 - The serving ritual
 1. Place the cup on a small plate or napkin.
-2. Optional: a separate small snaps glass alongside, with a thin pour of extra cold akvavit (the "kaffe med skipper" - coffee with a skipper-of-akvavit-alongside).
+2. Optional: a separate small snaps glass alongside, with a thin pour of extra cold akvavit (the "kaffe med skipper", coffee with a skipper-of-akvavit-alongside).
 3. A small biscuit on the plate.
 
 ### Stage 5 - Drink slowly
@@ -67,11 +67,11 @@ Kaffepunch (also called "kaffe med skipper", coffee with a skipper) is one of De
 - **Optional sugar:** some Danes drink it black + akvavit only, no sugar.
 
 ## Variations
-**Kaffe med ister (coffee with ice cream):** swap the akvavit for a scoop of vanilla ice cream - a modern dessert-coffee variant.
+**Kaffe med ister (coffee with ice cream):** swap the akvavit for a scoop of vanilla ice cream, a modern dessert-coffee variant.
 **Karsk (Norwegian style):** swap the akvavit for moonshine (homebrew); the Norwegian truck-driver's stronger version.
 **With Bailey's or cream liqueur:** less traditional, more modern (Irish coffee influence).
 **With dark rum or brandy:** swap the akvavit for dark rum (Danish-rum-tradition version) or brandy.
-**Iced kaffepunch (summer version):** chill the coffee, add akvavit and ice - a non-traditional summer cocktail variant.
+**Iced kaffepunch (summer version):** chill the coffee, add akvavit and ice, a non-traditional summer cocktail variant.
 **Skipperkaffe (large mug version):** a bigger pour; the "skipper" (sailor / farm-hand) version with extra akvavit.
 
 ## Serving

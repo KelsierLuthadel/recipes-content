@@ -48,7 +48,7 @@ Atchara is the Filipino pickle that lives in every refrigerator, sweet-sour shre
 1. Combine all vegetables in a large bowl.
 1. Sprinkle 2 tablespoons salt; toss thoroughly.
 1. Rest 1 hour at room temperature.
-1. After an hour, take handfuls of the vegetable mix and squeeze hard over the sink - you'll release a surprising amount of water.
+1. After an hour, take handfuls of the vegetable mix and squeeze hard over the sink, you'll release a surprising amount of water.
 1. Tip the squeezed vegetables back into a clean bowl.
 1. Stir in the raisins.
 

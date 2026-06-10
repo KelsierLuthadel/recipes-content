@@ -69,7 +69,7 @@ The Saudi street snack that almost every food court and roadside griddle in the 
 ### Stage 4 - Fill and fold
 1. Just before folding, mix one quarter of the cool filling with 1 beaten egg and 1 tablespoon each of parsley and coriander.
 1. Spoon into a 15 cm square in the centre of the stretched dough.
-1. Fold the four edges of the dough over the filling - left, right, top, bottom - overlapping into a flat closed square parcel about 18 cm.
+1. Fold the four edges of the dough over the filling, left, right, top, bottom, overlapping into a flat closed square parcel about 18 cm.
 
 ### Stage 5 - Griddle
 1. Heat a wide non-stick frying pan over medium-high heat with 1 tablespoon oil.
@@ -85,7 +85,7 @@ The Saudi street snack that almost every food court and roadside griddle in the 
 1. Eat hot.
 
 ## Notes
-- **Paper-thin stretch is the technique:** A 35 cm translucent square from a tennis-ball of dough is the goal. The high oil content of the dough makes this possible without tearing - if it tears, patch with a small piece of stretched dough.
+- **Paper-thin stretch is the technique:** A 35 cm translucent square from a tennis-ball of dough is the goal. The high oil content of the dough makes this possible without tearing, if it tears, patch with a small piece of stretched dough.
 - **Raw egg in the filling cooks inside:** The beaten egg gets folded in just before stretching; it cooks during griddling and binds the filling. Don't pre-cook the egg.
 - **Hot pan, small amount of oil:** The crust crisps from contact with hot pan + a small slick of oil. Too much oil and the crust becomes greasy; too little and it sticks.
 

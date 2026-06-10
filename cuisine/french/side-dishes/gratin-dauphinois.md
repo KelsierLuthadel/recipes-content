@@ -15,13 +15,13 @@ Gratin dauphinois is the rich potato gratin from the Dauphiné region of southea
 
 ## Ingredients
 
-- 1.2 kg waxy potatoes (Charlotte, Yukon Gold, Roseval - peeled)
+- 1.2 kg waxy potatoes (Charlotte, Yukon Gold, Roseval, peeled)
 - 6 garlic cloves (4 for infusing the cream; 2 halved for rubbing the dish + extra slivers between layers)
 - 500 ml double cream
 - 300 ml whole milk
 - 1 fresh bay leaf
 - A generous grating of fresh nutmeg (about ½ teaspoon)
-- 1 ½ teaspoons salt (to taste - be generous)
+- 1 ½ teaspoons salt (to taste, be generous)
 - ½ teaspoon white pepper
 - 40 g unsalted butter (for the dish + dotting on top)
 
@@ -30,25 +30,25 @@ Gratin dauphinois is the rich potato gratin from the Dauphiné region of southea
 ### Stage 1 - Slice the potatoes
 1. Peel the potatoes.
 1. Slice as thinly as you can manage - 2-3 mm thick. A mandoline gives the most consistent results; a sharp knife also works.
-1. Do NOT rinse the sliced potatoes - the starch is what helps thicken the cream into the gratin. Just keep them in a bowl ready to use.
+1. Do NOT rinse the sliced potatoes, the starch is what helps thicken the cream into the gratin. Just keep them in a bowl ready to use.
 
 ### Stage 2 - Infuse the cream
 1. In a saucepan, combine cream, milk, 4 crushed garlic cloves, the bay leaf, nutmeg, salt and pepper.
-1. Heat over medium-low until just below a simmer (about 80°C - gentle steam, no rolling bubbles).
+1. Heat over medium-low until just below a simmer (about 80°C, gentle steam, no rolling bubbles).
 1. Off heat; let stand 10 minutes to infuse.
 
 ### Stage 3 - Prepare the dish
 1. Heat oven to 160°C (140°C fan).
 1. Take a shallow gratin dish or oven-safe heavy pan (about 22 x 28 cm or 24 cm diameter).
-1. Rub the inside all over (base and sides) with the cut side of the halved garlic clove - pressing the garlic into the surface so it leaves a film of garlic essence.
+1. Rub the inside all over (base and sides) with the cut side of the halved garlic clove, pressing the garlic into the surface so it leaves a film of garlic essence.
 1. Generously butter the inside with about 30 g of the butter.
 
 ### Stage 4 - Layer
 1. Strain the cream mixture into a measuring jug (discard the garlic and bay).
 1. Layer half the sliced potatoes in the dish in slightly overlapping rows (like fish scales / roof shingles).
 1. Season with a generous pinch of salt and a grind of pepper.
-1. Pour over half the warm cream - enough to just cover the potatoes.
-1. Layer the remaining potatoes on top - try to keep neat overlapping rows on the top layer for a tidy gratin look.
+1. Pour over half the warm cream, enough to just cover the potatoes.
+1. Layer the remaining potatoes on top, try to keep neat overlapping rows on the top layer for a tidy gratin look.
 1. Season again; pour over the remaining cream. The cream should come up to (but not over) the top layer of potatoes.
 
 ### Stage 5 - Dot with butter
@@ -72,10 +72,10 @@ Gratin dauphinois is the rich potato gratin from the Dauphiné region of southea
 
 ## Notes
 - **Waxy potatoes only:** Floury potatoes (Maris Piper, King Edward) disintegrate into mash. Waxy potatoes (Charlotte, Yukon Gold, Roseval) hold their shape in distinct layers. This is non-negotiable.
-- **No cheese in classic Dauphinois:** The cheese-topped gratin you may know is a different dish - gratin Savoyard or gratin Lyonnais. Authentic Dauphinois is just potatoes and cream, allowing the spuds to shine.
+- **No cheese in classic Dauphinois:** The cheese-topped gratin you may know is a different dish, gratin Savoyard or gratin Lyonnais. Authentic Dauphinois is just potatoes and cream, allowing the spuds to shine.
 - **Don't rinse the sliced potatoes:** Rinsing removes the surface starch, which is what binds the cream into the gratin. Slice and go straight to layering.
 
 ## Storage
 - Refrigerate 4 days; reheat covered with foil at 160°C 25 minutes.
-- The gratin is excellent on day 2 - the flavours marry overnight.
+- The gratin is excellent on day 2, the flavours marry overnight.
 - Doesn't freeze well; the cream separates.

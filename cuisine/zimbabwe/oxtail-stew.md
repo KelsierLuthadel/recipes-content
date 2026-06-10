@@ -15,7 +15,7 @@ Zimbabwean oxtail stew is the Sunday-lunch project: bone-in oxtail browned hard 
 
 ## Ingredients
 
-- 1 ½ kg oxtail (cut into 3-4 cm pieces - ask the butcher)
+- 1 ½ kg oxtail (cut into 3-4 cm pieces, ask the butcher)
 - 3 tablespoons vegetable oil
 - 2 onions (large, chopped)
 - 6 garlic cloves (crushed)
@@ -44,12 +44,12 @@ Zimbabwean oxtail stew is the Sunday-lunch project: bone-in oxtail browned hard 
 
 ### Stage 3 - Braise
 1. Return the oxtail with any resting juices. Crumble in the stock cube. Add bay and chilli.
-1. Pour in the hot water - the oxtail should be just covered. Bring to a simmer.
+1. Pour in the hot water, the oxtail should be just covered. Bring to a simmer.
 1. Cover; transfer to a 150°C (130°C fan) oven for 2 ½ hours. Add carrots (if using) at the 2 hour mark.
 1. The meat should slide off the bone with a fork; if not, give it another 30 minutes.
 
 ### Stage 4 - Finish
-1. Lift out the bay and chilli. Skim the surface fat - there's a lot.
+1. Lift out the bay and chilli. Skim the surface fat, there's a lot.
 1. If the sauce is thin, simmer uncovered 10 minutes on the stovetop. It should coat a spoon.
 1. Taste; adjust salt.
 1. Serve with sadza, rice or pap. A tomato-onion-coriander relish on the side cuts the richness.
@@ -57,7 +57,7 @@ Zimbabwean oxtail stew is the Sunday-lunch project: bone-in oxtail browned hard 
 ## Notes
 - **Don't skip the browning:** Oxtail is fatty and bony; the depth comes from a hard sear. Pale-brown stew tastes pale.
 - **Skim:** A litre of beef fat sits on top of an unskimmed oxtail. Either skim with a ladle, refrigerate overnight and lift it off solid, or both.
-- **Same-day vs next-day:** Better next-day, like all braises - the gelatin in the bones sets the sauce, and reheating loosens it back.
+- **Same-day vs next-day:** Better next-day, like all braises, the gelatin in the bones sets the sauce, and reheating loosens it back.
 
 ## Storage
 - Refrigerate 4 days. Reheat covered with a splash of water on low.

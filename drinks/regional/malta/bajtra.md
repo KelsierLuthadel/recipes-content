@@ -11,7 +11,7 @@
 **Cook Time:** None
 
 ## Overview
-Bajtra (the Maltese name for the prickly pear / Opuntia ficus-indica fruit) is Malta's indigenous fruit liqueur - made from the deep-pink-to-magenta fruits of the prickly pear cactus that grows wild on every Maltese stone wall and across the rocky landscape. The fruit ripens in late summer (August-October); during this season, every Maltese household traditionally makes a batch of bajtra liqueur. The commercial brand Zeppi's makes the most famous version; smaller producers across Malta and Gozo make excellent artisanal versions. The construction is straightforward maceration: ripe prickly pears are peeled (carefully - the fruits have invisible spines), the flesh is chunked, combined with sugar and a neutral spirit (vodka or 96% alcohol), and left to macerate 2-4 weeks; the liqueur is then strained, sweetened to taste, and bottled. The colour is deep pink to magenta; the flavour is sweet, slightly floral, with the unique prickly pear taste (somewhat like watermelon crossed with strawberry, but more delicate). Served chilled in small glasses as a digestif.
+Bajtra (the Maltese name for the prickly pear / Opuntia ficus-indica fruit) is Malta's indigenous fruit liqueur, made from the deep-pink-to-magenta fruits of the prickly pear cactus that grows wild on every Maltese stone wall and across the rocky landscape. The fruit ripens in late summer (August-October); during this season, every Maltese household traditionally makes a batch of bajtra liqueur. The commercial brand Zeppi's makes the most famous version; smaller producers across Malta and Gozo make excellent artisanal versions. The construction is straightforward maceration: ripe prickly pears are peeled (carefully, the fruits have invisible spines), the flesh is chunked, combined with sugar and a neutral spirit (vodka or 96% alcohol), and left to macerate 2-4 weeks; the liqueur is then strained, sweetened to taste, and bottled. The colour is deep pink to magenta; the flavour is sweet, slightly floral, with the unique prickly pear taste (somewhat like watermelon crossed with strawberry, but more delicate). Served chilled in small glasses as a digestif.
 
 ## Ingredients
 
@@ -56,7 +56,7 @@ Bajtra (the Maltese name for the prickly pear / Opuntia ficus-indica fruit) is M
 ### Stage 5 - Sweeten
 1. Make a sugar syrup: combine sugar and water; heat till sugar dissolves; cool.
 2. Add the sugar syrup to the strained liqueur.
-3. Adjust to taste - start with half the syrup, taste, add more.
+3. Adjust to taste, start with half the syrup, taste, add more.
 
 ### Stage 6 - Bottle
 1. Pour into a sterilised bottle.
@@ -77,7 +77,7 @@ Bajtra (the Maltese name for the prickly pear / Opuntia ficus-indica fruit) is M
 **With lemon zest:** add 2 tablespoons fresh lemon zest during maceration.
 **Stronger version:** use 96% neutral spirit + less water; reach about 30% ABV.
 **Sweeter version:** double the sugar syrup.
-**With orange blossom water:** add 1 teaspoon at the end - Maltese-Arab touch.
+**With orange blossom water:** add 1 teaspoon at the end, Maltese-Arab touch.
 
 ## Serving
 As a Maltese after-dinner digestif (the traditional setting) · at a Maltese village festa · at a Maltese wedding bar · with espresso · as a Maltese gift bottle · at home as the indigenous Maltese spirit.

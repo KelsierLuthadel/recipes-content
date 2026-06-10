@@ -9,9 +9,9 @@ kind: religious
 origin: Jewish tradition
 ---
 
-Passover commemorates the exodus from Egypt, and the food carries the story. No leavened bread for eight days - matzo only, the unleavened cracker that recalls the bread the Israelites couldn't wait to rise. The seder itself, on the first two nights, is choreographed: each food on the seder plate stands for something - the bitter herbs for slavery, the charoset for the mortar, the egg for grief and renewal, the shank bone for the lamb of the original Passover.
+Passover commemorates the exodus from Egypt, and the food carries the story. No leavened bread for eight days, matzo only, the unleavened cracker that recalls the bread the Israelites couldn't wait to rise. The seder itself, on the first two nights, is choreographed: each food on the seder plate stands for something, the bitter herbs for slavery, the charoset for the mortar, the egg for grief and renewal, the shank bone for the lamb of the original Passover.
 
-But after the seder, the cooking opens up. Brisket goes in slow and low and emerges hours later, pulled-tender, in its own oniony braise. Roast lamb, roast chicken, slow-simmered things. Anything that doesn't lean on flour or yeast - and for the Ashkenazi tradition, anything that doesn't include rice, beans or corn either.
+But after the seder, the cooking opens up. Brisket goes in slow and low and emerges hours later, pulled-tender, in its own oniony braise. Roast lamb, roast chicken, slow-simmered things. Anything that doesn't lean on flour or yeast, and for the Ashkenazi tradition, anything that doesn't include rice, beans or corn either.
 
 The table is generous and family-deep. This collection is what's in the catalogue that fits the Passover spread; the traditional seder plate items (matzo ball soup, charoset, gefilte fish) are still ahead.
 

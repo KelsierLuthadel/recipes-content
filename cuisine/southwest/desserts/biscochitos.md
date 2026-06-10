@@ -2,7 +2,7 @@
 
 ![Biscochitos](resources/biscochitos.jpg)
 
-*New Mexico's anise-cinnamon shortbread cookies: a buttery shortbread dough flavoured with anise seeds, brandy and orange zest, rolled out and cut into shapes (fleur-de-lis, stars, ovals), baked till just pale gold, and dusted with cinnamon sugar. The official state cookie of New Mexico - Hispano-Pueblo Christmas tradition.*
+*New Mexico's anise-cinnamon shortbread cookies: a buttery shortbread dough flavoured with anise seeds, brandy and orange zest, rolled out and cut into shapes (fleur-de-lis, stars, ovals), baked till just pale gold, and dusted with cinnamon sugar. The official state cookie of New Mexico, Hispano-Pueblo Christmas tradition.*
 
 **Serves:** Makes about 36 cookies
 
@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-Biscochitos are New Mexico's iconic anise-cinnamon shortbread cookies and the official state cookie of New Mexico (designated 1989) - the only state cookie in the US: a buttery shortbread dough (traditionally made with lard for the proper crumbly tender texture; substitute with butter for modern versions) flavoured with whole anise seeds, brandy (or whiskey), orange zest and ground cinnamon, rolled to 5 mm and cut into shapes (fleur-de-lis, stars, ovals - the traditional New Mexican shapes), baked till just pale gold, and dusted while still warm with a thick coat of cinnamon sugar. The dish is a Hispano-New Mexico-Pueblo tradition, particularly associated with Christmas baking - every New Mexican Christmas spread, every wedding cookie table, every Día de los Muertos altar.
+Biscochitos are New Mexico's iconic anise-cinnamon shortbread cookies and the official state cookie of New Mexico (designated 1989) - the only state cookie in the US: a buttery shortbread dough (traditionally made with lard for the proper crumbly tender texture; substitute with butter for modern versions) flavoured with whole anise seeds, brandy (or whiskey), orange zest and ground cinnamon, rolled to 5 mm and cut into shapes (fleur-de-lis, stars, ovals, the traditional New Mexican shapes), baked till just pale gold, and dusted while still warm with a thick coat of cinnamon sugar. The dish is a Hispano-New Mexico-Pueblo tradition, particularly associated with Christmas baking, every New Mexican Christmas spread, every wedding cookie table, every Día de los Muertos altar.
 
 ## Ingredients
 

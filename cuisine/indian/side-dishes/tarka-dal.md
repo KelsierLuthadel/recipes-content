@@ -47,7 +47,7 @@ Tarka dal is the everyday North Indian dal that anchors every Punjabi home meal 
 1. Place the dal in a wide pot with the water, turmeric, salt, tomato and green chilli.
 1. Bring to a boil; skim any foam.
 1. Reduce to a gentle simmer; cover partially; cook 25-30 minutes until the dal is soft and starting to break down. Stir occasionally to prevent sticking.
-1. Whisk briefly to break up the lentils into a creamy dal - thick but pourable.
+1. Whisk briefly to break up the lentils into a creamy dal, thick but pourable.
 1. Adjust salt; add a splash of water if too thick.
 1. Keep warm over the lowest heat.
 
@@ -58,7 +58,7 @@ Tarka dal is the everyday North Indian dal that anchors every Punjabi home meal 
 1. Add sliced garlic; fry 30-40 seconds until just turning gold.
 1. Add dried chillies, ginger (if using) and curry leaves; sizzle 5 seconds.
 1. Sprinkle in the chilli powder; sizzle 2 seconds.
-1. Immediately - while everything is still sputtering - pour the entire contents of the tarka pan over the warm dal.
+1. Immediately, while everything is still sputtering, pour the entire contents of the tarka pan over the warm dal.
 
 ### Stage 4 - Serve
 1. Stir once gently to swirl the tarka through.
@@ -68,8 +68,8 @@ Tarka dal is the everyday North Indian dal that anchors every Punjabi home meal 
 ## Notes
 - **Tarka timing:** The garlic should be just gold, not brown. Brown garlic is bitter. The whole tempering takes 60 seconds; have everything to hand before you start.
 - **Pour while sputtering:** The sound of the hot tarka hitting the dal is the dish's signature. The visual steam is half the appeal.
-- **Asafoetida:** A pinch of this sulphurous gum adds digestibility and a savoury onion-garlic note that's unmistakable in Indian home cooking. Don't skip - hing is sold in any Indian shop.
+- **Asafoetida:** A pinch of this sulphurous gum adds digestibility and a savoury onion-garlic note that's unmistakable in Indian home cooking. Don't skip, hing is sold in any Indian shop.
 
 ## Storage
-- Refrigerate 4 days. Reheat with a splash of water; if you can be bothered, make a fresh tarka rather than reheating the old one - it perks the dal back up.
+- Refrigerate 4 days. Reheat with a splash of water; if you can be bothered, make a fresh tarka rather than reheating the old one, it perks the dal back up.
 - Freezes 3 months.

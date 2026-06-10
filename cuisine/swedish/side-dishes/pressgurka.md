@@ -38,14 +38,14 @@ Pressgurka (literally "pressed cucumber") is the traditional Swedish cucumber pi
 ### Stage 2 - Salt and press
 1. Layer the slices in a colander set over a bowl (to catch the released liquid).
 2. Sprinkle the salt evenly between the layers.
-3. Cover with cling film or a flat plate; place a weight on top (a tin of beans, a kettlebell - about 2 kg).
+3. Cover with cling film or a flat plate; place a weight on top (a tin of beans, a kettlebell, about 2 kg).
 4. Press for 30 minutes.
 5. Lots of cucumber liquid will drain into the bowl below.
 
 ### Stage 3 - Rinse briefly
 1. After pressing, rinse the cucumber slices briefly under cold running water to remove most of the surface salt (don't soak; the salt has already done its work and you want some remaining flavour).
 2. Pat gently dry with paper towels or a clean kitchen towel.
-3. The slices will now be limp, translucent, and shrunken - that's the right look.
+3. The slices will now be limp, translucent, and shrunken, that's the right look.
 
 ### Stage 4 - Make the brine
 1. In a small bowl, whisk together the vinegar, sugar, and water.
@@ -64,12 +64,12 @@ Pressgurka (literally "pressed cucumber") is the traditional Swedish cucumber pi
 ### Stage 7 - Serve
 1. Lift the pressgurka into small glass dishes with a slotted spoon.
 2. A reserved dill sprig on top for garnish.
-3. Serve cold alongside warm Swedish savoury dishes - particularly meatballs, gravlax, jansson's temptation, sausages, or roast beef.
+3. Serve cold alongside warm Swedish savoury dishes, particularly meatballs, gravlax, jansson's temptation, sausages, or roast beef.
 
 ## Notes
 - **Paper-thin slices:** the traditional Swedish texture. Mandoline is the way.
 - **Press for 30 minutes minimum:** the pressing concentrates the cucumber and prevents the salad turning watery in the brine.
-- **1:2:3 brine ratio (vinegar:sugar:water):** the Swedish balance - sweeter than English cucumber pickles.
+- **1:2:3 brine ratio (vinegar:sugar:water):** the Swedish balance, sweeter than English cucumber pickles.
 - **Masses of dill:** Swedish recipes use much more dill than you'd expect. Don't be shy.
 
 ## Variations

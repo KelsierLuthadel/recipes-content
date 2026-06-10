@@ -22,7 +22,7 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 
 ### The peas
 - 250 g dried pigeon peas (gungo peas / guandules), soaked overnight in cold water
-- (Or 2 × 400 g cans pigeon peas, drained - the shortcut)
+- (Or 2 × 400 g cans pigeon peas, drained, the shortcut)
 
 ### The Guinea corn (millet) base
 - 200 g millet flour OR Guinea corn flour (sold at Caribbean shops as "Guinea cornmeal")
@@ -41,7 +41,7 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 
 ### The liquid
 - 1.5-2 litres water (or the salt-meat poaching liquid, diluted if too salty)
-- Salt (taste before adding - the salt meat is salty)
+- Salt (taste before adding, the salt meat is salty)
 
 ### To finish
 - 2 tablespoons unsalted butter
@@ -68,7 +68,7 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 1. Drain the soaked pigeon peas.
 2. Place in a fresh pot of cold water with a bay leaf.
 3. Bring to a simmer; cook 60-75 minutes till the peas are completely tender (they should crush easily between your fingers).
-4. Drain (RESERVE the cooking broth - the traditional Bajan cooking liquid for the rest of the dish).
+4. Drain (RESERVE the cooking broth, the traditional Bajan cooking liquid for the rest of the dish).
 
 ### Stage 2 alternative - If using canned pigeon peas
 1. Drain the canned peas; use 600 ml water instead of pea broth.
@@ -93,13 +93,13 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 2. Continue simmering 8-10 minutes.
 
 ### Stage 7 - Add the millet flour
-1. In a small bowl, whisk the millet flour (or cornmeal-semolina substitute) with 200 ml of cold water - this prevents lumps.
+1. In a small bowl, whisk the millet flour (or cornmeal-semolina substitute) with 200 ml of cold water, this prevents lumps.
 2. Slowly drizzle the slurry into the simmering pot while stirring constantly.
-3. Continue cooking 20-25 minutes, stirring every 4-5 minutes, till the mixture thickens to a thick coarse porridge - a wooden spoon should stand mostly upright in it.
+3. Continue cooking 20-25 minutes, stirring every 4-5 minutes, till the mixture thickens to a thick coarse porridge, a wooden spoon should stand mostly upright in it.
 
 ### Stage 8 - Adjust seasoning and finish
 1. Taste; adjust salt (the salt meat is salty; you may not need any more) and pepper.
-2. The texture should be a thick savoury porridge - dense, scoopable, NOT pourable.
+2. The texture should be a thick savoury porridge, dense, scoopable, NOT pourable.
 3. If too thick, add a small amount of broth or water; if too thin, simmer 5 more minutes uncovered.
 4. Stir in the cold butter to finish (gives a glossy sheen).
 5. Fish out the bay leaves.
@@ -120,16 +120,16 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 - **Christmas Eve is traditional:** jug-jug is eaten almost exclusively at Christmas Eve dinner in Barbados. Eating it in March is acceptable but feels off-season to most Bajan palates.
 - **Salt meat overnight-soak:** essential; without it the dish is over-salty.
 - **Guinea corn flour (millet flour) is traditional:** sold at Caribbean shops. The cornmeal + semolina substitute works but lacks the slight nutty flavour of millet.
-- **Mash half the peas:** the traditional Bajan move - half mashed, half whole - gives the dish its thick texture with bean character.
+- **Mash half the peas:** the traditional Bajan move, half mashed, half whole, gives the dish its thick texture with bean character.
 - **Slow simmer uncovered:** the slow reduction is what builds the deep flavour and the thick porridge texture.
 - **Pigeon peas, not green peas:** the small dried Caribbean beans, not garden peas.
 - **The dish is dense:** a spoonful stays mounded on the plate. If it pours, you have soup, not jug-jug.
 
 ## Variations
-**Jug-jug with chicken (modern):** for non-pork eaters - substitute chicken thighs for the salt-cured pork; same method.
+**Jug-jug with chicken (modern):** for non-pork eaters, substitute chicken thighs for the salt-cured pork; same method.
 **Vegetarian jug-jug:** skip all the salt meat; use vegetable stock; double the Bajan green seasoning; add a tablespoon of smoked paprika for the smoky depth.
-**Jug-jug with okra:** add 150 g sliced okra to the pot in the last 10 minutes - the rural variant.
-**Jug-jug with corn:** add 100 g sweet corn kernels in the last 10 minutes - the modern variant.
+**Jug-jug with okra:** add 150 g sliced okra to the pot in the last 10 minutes, the rural variant.
+**Jug-jug with corn:** add 100 g sweet corn kernels in the last 10 minutes, the modern variant.
 **Slow-cooker jug-jug:** brown the aromatics and salt meat in a pan; transfer to a slow cooker with the rest; low for 6-7 hours.
 **Pressure-cooker jug-jug:** the pigeon peas + salt meat + aromatics pressure-cook in 30 minutes; finish with the millet flour stirred in over 15 minutes simmer.
 **Smaller-batch jug-jug (4 portions):** halve all the ingredients; 1 hour cook time.
@@ -140,7 +140,7 @@ At a Bajan Christmas Eve dinner (the traditional setting; the dish is so locked-
 ## Storage
 - Refrigerates 5 days; reheats well in a saucepan with a small splash of water to loosen.
 - Freezes 3 months in airtight containers; defrost overnight in the fridge.
-- Improves with 1-2 days resting - the flavours marry; the texture firms.
+- Improves with 1-2 days resting, the flavours marry; the texture firms.
 - Day-old jug-jug pan-fried in butter till crisp on the outside is the traditional Boxing Day breakfast.
 - The pre-soaked salt meat keeps refrigerated 3 days before cooking.
 - A "Christmas Eve cooking marathon" tradition in many Bajan households: make jug-jug on 23 December; refrigerate; reheat to serve on the 24th.

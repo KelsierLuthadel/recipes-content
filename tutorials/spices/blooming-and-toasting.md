@@ -18,11 +18,11 @@ The essential oils that make a spice smell are held inside microscopic glands in
 
 When the heat is dry (a hot pan, no fat), the oils evaporate into the surrounding air and your kitchen smells incredible; some of the aroma sticks to the surface of the spice for use later. When the heat is in fat (oil, ghee, butter), the oils dissolve into the fat and disperse through the dish.
 
-Fat-soluble compounds (most volatile oils) move into oil readily; this is what makes oil-tempering work. Water-soluble compounds (allyl isothiocyanate in mustard, sanshool in Sichuan pepper) are different - they can be released into oil too but they are also happy in water-based sauces and do not need fat at all.
+Fat-soluble compounds (most volatile oils) move into oil readily; this is what makes oil-tempering work. Water-soluble compounds (allyl isothiocyanate in mustard, sanshool in Sichuan pepper) are different, they can be released into oil too but they are also happy in water-based sauces and do not need fat at all.
 
 ## Dry-Toasting
 
-The technique: heat a dry pan to medium-low. Add whole spices in a single layer. Toast, swirling the pan or stirring gently, until the spices smell fragrant and a thin wisp of smoke starts to rise. Tip onto a plate immediately - the pan stays hot enough to scorch them if you leave them in.
+The technique: heat a dry pan to medium-low. Add whole spices in a single layer. Toast, swirling the pan or stirring gently, until the spices smell fragrant and a thin wisp of smoke starts to rise. Tip onto a plate immediately, the pan stays hot enough to scorch them if you leave them in.
 
 The signs of doneness:
 
@@ -67,7 +67,7 @@ A general rule across all the techniques above:
 2. Ground spices after the whole have started releasing (they bloom in seconds; burn in not many more).
 3. Anything ground onto the finished dish at the end (Aleppo pepper, Sichuan pepper, sumac, smoked paprika garnish) goes on after the heat is off.
 
-Reversing the order - dumping ground spices into bare hot oil and waiting - turns spices to ash quickly. The flavour is acrid, bitter, irrecoverable.
+Reversing the order, dumping ground spices into bare hot oil and waiting, turns spices to ash quickly. The flavour is acrid, bitter, irrecoverable.
 
 ## The Smoke Point Question
 
@@ -80,9 +80,9 @@ For long-cooked curries with ground spices, the temperature is moderate (the wet
 Some uses are deliberately cold:
 
 - **Rubs.** Spice rubs on meat are heated by the meat's cooking, not pre-heated. Pre-toasting them is fine and intensifies the flavour; not strictly necessary.
-- **Garnishes.** Sumac on hummus, Aleppo on a salad, ground sansho on grilled meat - these are added at the table for the lift, not cooked into the dish.
+- **Garnishes.** Sumac on hummus, Aleppo on a salad, ground sansho on grilled meat, these are added at the table for the lift, not cooked into the dish.
 - **Pickling brines.** Cold pickling extracts spice character into vinegar slowly over days; that is the point.
-- **Cold infusions.** Cardamom in cold milk, vanilla in cold cream - given enough time, the cold-extraction draws out the volatile oils into the dairy.
+- **Cold infusions.** Cardamom in cold milk, vanilla in cold cream, given enough time, the cold-extraction draws out the volatile oils into the dairy.
 
 ## Where Next
 - [Mixes](mixes.md): now that you can bloom them, the regional blends are the next thing to learn.

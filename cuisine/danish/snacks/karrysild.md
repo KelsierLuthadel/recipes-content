@@ -48,7 +48,7 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 
 ### Stage 1 - Make the curry mayo
 1. In a wide bowl, whisk the mayonnaise, soured cream, curry powder, Dijon mustard, turmeric, mango chutney, sugar, lemon juice, salt, and white pepper.
-2. Taste; adjust - the sauce should be properly yellow, gently sweet, mildly curried, and slightly tangy.
+2. Taste; adjust, the sauce should be properly yellow, gently sweet, mildly curried, and slightly tangy.
 
 ### Stage 2 - Prep the herring
 1. Lift the pre-cured herring fillets from their jar.
@@ -58,7 +58,7 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 ### Stage 3 - Combine
 1. Add the herring pieces to the curry mayo.
 2. Stir in the chopped red onion, capers, grated apple (or sweet pickle relish), and chopped dill.
-3. Toss gently to coat - every piece of herring should be coated in the bright yellow curry mayo.
+3. Toss gently to coat, every piece of herring should be coated in the bright yellow curry mayo.
 
 ### Stage 4 - Chill
 1. Cover; refrigerate at least 4 hours (overnight is better).
@@ -82,7 +82,7 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 3. Eat a forkful of karrysild on rye → sip beer → sip akvavit → "skål!" → repeat.
 
 ## Notes
-- **Pre-cured pickled herring:** the traditional Scandinavian base. Matjessild or saltsild from a jar. Don't use raw herring or smoked herring - different products.
+- **Pre-cured pickled herring:** the traditional Scandinavian base. Matjessild or saltsild from a jar. Don't use raw herring or smoked herring, different products.
 - **Mild Danish curry powder:** the traditional balance is gentle and sweet. Indian hot curry powder is too aggressive.
 - **Mango chutney:** the Danish-British-colonial influence. Adds the sweet-fruity note that distinguishes karrysild from generic curried mayo.
 - **Chill 4 hours minimum:** the herring needs time to take on the yellow colour and absorb the curry flavour.

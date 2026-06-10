@@ -2,7 +2,7 @@
 
 ![Texas Smoked Beef Ribs](resources/smoked-beef-ribs.jpg)
 
-*Texas's mammoth beef ribs: full beef plate ribs (the rack the dinosaur looked at and walked away from) rubbed with salt and coarse pepper, smoked over post-oak wood for 6-8 hours till the meat falls off the bone and the bark crusts deep mahogany. The Central Texas barbecue trophy - bigger than pork ribs, beefier than brisket, the show-off cut of the Texas pit.*
+*Texas's mammoth beef ribs: full beef plate ribs (the rack the dinosaur looked at and walked away from) rubbed with salt and coarse pepper, smoked over post-oak wood for 6-8 hours till the meat falls off the bone and the bark crusts deep mahogany. The Central Texas barbecue trophy, bigger than pork ribs, beefier than brisket, the show-off cut of the Texas pit.*
 
 **Serves:** 4
 

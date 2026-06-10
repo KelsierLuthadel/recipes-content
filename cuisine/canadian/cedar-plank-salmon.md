@@ -17,7 +17,7 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 
 ### The salmon
 - 1 whole side of wild Pacific salmon (1.2-1.5 kg), skin-on, pin bones removed
-- (Sockeye - bright red, strong flavour; king/chinook - rich; coho - mild)
+- (Sockeye, bright red, strong flavour; king/chinook, rich; coho, mild)
 
 ### The glaze
 - 80 ml pure Canadian maple syrup (grade A "Dark, robust" ideal)
@@ -34,8 +34,8 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 - 1 teaspoon dried dill (optional)
 
 ### Equipment
-- 1 thick western red cedar plank, untreated (35 × 15 × 1.5 cm) - available from BBQ supply shops; sold as "grilling planks"
-- A covered barbecue (gas or charcoal) - this technique doesn't work in an indoor oven
+- 1 thick western red cedar plank, untreated (35 × 15 × 1.5 cm): available from BBQ supply shops; sold as "grilling planks"
+- A covered barbecue (gas or charcoal): this technique doesn't work in an indoor oven
 - Hardwood lump charcoal OR wood chunks for a charcoal grill; gas grills work but lose some of the smoke benefit
 
 ### To serve
@@ -49,7 +49,7 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 
 ### Stage 1 - Soak the plank
 1. Submerge the cedar plank in cold water, weighting it with a heavy bowl or a clean stone so it stays submerged.
-2. Soak at least 2 hours - longer is fine, overnight is ideal.
+2. Soak at least 2 hours, longer is fine, overnight is ideal.
 3. The soaked plank should feel heavy with absorbed water; an un-soaked plank will burn through within 8 minutes of grilling.
 
 ### Stage 2 - Prepare the salmon
@@ -70,7 +70,7 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 ### Stage 5 - Place the salmon on the plank
 1. Lift the soaked plank from the water; shake off excess.
 2. Place the plank directly on the grill grate over the COLDER side (the indirect-heat side, away from the lit coals).
-3. Close the lid briefly to let the plank pre-heat for 2-3 minutes - the wood will start to steam and may char slightly on the underside.
+3. Close the lid briefly to let the plank pre-heat for 2-3 minutes, the wood will start to steam and may char slightly on the underside.
 4. Open the lid; place the salmon skin-side-down on the plank.
 5. Brush the salmon generously with the glaze.
 
@@ -83,7 +83,7 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 
 ### Stage 7 - Rest and serve
 1. Lift the entire plank with the salmon off the grill onto a heatproof surface.
-2. Let rest 4-5 minutes - the salmon firms slightly and the carryover heat finishes the cooking.
+2. Let rest 4-5 minutes, the salmon firms slightly and the carryover heat finishes the cooking.
 3. Squeeze a wedge of lemon over the top.
 4. Scatter with fresh dill or chives.
 5. Serve the salmon directly from the plank (the plank can be the serving board) or transfer to a platter.
@@ -93,17 +93,17 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 - **Soak the plank properly:** 2 hours is the minimum; overnight is better. An under-soaked plank burns through.
 - **Lid closed for the smoke:** the cedar's flavour is captured by the closed grill. An open grill is just charring the wood without flavouring the fish.
 - **Don't overcook:** 50-55°C is the sweet spot. Pacific salmon is naturally lean; overcooked, it goes dry and the texture goes chalky.
-- **The plank smokes - that's correct:** dark char on the underside of the plank is fine. If it catches actual flame, mist with water from a spray bottle.
-- **One plank, one use:** the plank can be re-used once for a short cook, but is typically charred too thoroughly to use a second time. Worth the investment - planks cost a few dollars each.
+- **The plank smokes, that's correct:** dark char on the underside of the plank is fine. If it catches actual flame, mist with water from a spray bottle.
+- **One plank, one use:** the plank can be re-used once for a short cook, but is typically charred too thoroughly to use a second time. Worth the investment, planks cost a few dollars each.
 - **Maple syrup grade:** "Dark, Robust" or older "Grade B" gives the deepest flavour. "Light, Golden" is too delicate; reserve for tea or pancakes.
 
 ## Variations
-**Cedar-plank salmon with brown sugar rub:** swap the maple glaze for a rub of brown sugar + smoked paprika + salt + black pepper - the Pacific Northwest classic dry rub.
-**Plank-grilled salmon with mango salsa:** finish with a mango-jalapeño-lime salsa - the Vancouver fusion variant.
-**Cedar-plank salmon with miso-maple glaze:** swap the Dijon for 2 tablespoons of white miso paste - Japanese-Canadian fusion.
-**Indigenous-traditional style (no glaze):** salt-only seasoning, slow-cooked over alder wood embers, no maple - the Coast Salish original technique.
-**Bourbon-maple glaze:** add 1 tablespoon bourbon to the glaze - the southern-Ontario variant.
-**Cedar-plank arctic char:** swap salmon for arctic char (a Canadian Arctic species) - the Yukon variant.
+**Cedar-plank salmon with brown sugar rub:** swap the maple glaze for a rub of brown sugar + smoked paprika + salt + black pepper, the Pacific Northwest classic dry rub.
+**Plank-grilled salmon with mango salsa:** finish with a mango-jalapeño-lime salsa, the Vancouver fusion variant.
+**Cedar-plank salmon with miso-maple glaze:** swap the Dijon for 2 tablespoons of white miso paste, Japanese-Canadian fusion.
+**Indigenous-traditional style (no glaze):** salt-only seasoning, slow-cooked over alder wood embers, no maple, the Coast Salish original technique.
+**Bourbon-maple glaze:** add 1 tablespoon bourbon to the glaze, the southern-Ontario variant.
+**Cedar-plank arctic char:** swap salmon for arctic char (a Canadian Arctic species): the Yukon variant.
 **Smaller fillets, individual planks:** 6 individual 180 g salmon fillets on 6 small cedar planks; same cooking time minus 4 minutes. The dinner-party presentation.
 
 ## Serving
@@ -111,8 +111,8 @@ At a BC backyard barbecue (the traditional setting) · at a Vancouver Island sum
 
 ## Storage
 - Leftover plank-grilled salmon refrigerates 3 days; eat cold flaked over salad, or fold into a salmon chowder.
-- Don't reheat in the microwave - the texture suffers; flaking it cold into a hot dish is better.
+- Don't reheat in the microwave, the texture suffers; flaking it cold into a hot dish is better.
 - Freezes 2 months but the texture softens; better used in chowder or fish cakes than as a centrepiece.
 - The cedar plank is single-use; clean and discard.
 - Leftover maple-Dijon glaze keeps refrigerated 2 weeks; use as a dressing for cold salmon salad.
-- Cold smoked salmon (plank-cooked, sliced thin) is excellent on rye bread with cream cheese, capers and red onion - the Canadian breakfast classic.
+- Cold smoked salmon (plank-cooked, sliced thin) is excellent on rye bread with cream cheese, capers and red onion, the Canadian breakfast classic.

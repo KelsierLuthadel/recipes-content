@@ -11,7 +11,7 @@
 **Cook Time:** None (the salt-and-sugar cure does the work)
 
 ## Overview
-Gravlax (literally "buried salmon" - from the medieval Scandinavian practice of burying salt-cured salmon in the cold ground for preservation) is one of the traditional Nordic dishes and the centrepiece of every Swedish Christmas julbord (Christmas table) and Midsommar buffet. Modern gravlax is no longer buried, but the principle holds: a side of fresh salmon (skin-on, deboned) is covered in a curing mix of coarse salt + sugar (in roughly 2:3 ratio - more sugar than salt is the Swedish balance) + a tightly packed coat of chopped fresh dill (huge amounts; you want a green carpet) + crushed white peppercorns. Weighed down and refrigerated for 48 hours, during which the salt draws out moisture, the sugar pulls in, and the salmon firms from translucent and floppy to opaque, silky, and slice-able. Sliced paper-thin, against the grain, and served with hovmästarsås (the traditional Swedish accompaniment - a mustard-and-dill sweet-tangy mayonnaise-style sauce), Scandinavian crisp bread (knäckebröd), and quick-pickled cucumber.
+Gravlax (literally "buried salmon", from the medieval Scandinavian practice of burying salt-cured salmon in the cold ground for preservation) is one of the traditional Nordic dishes and the centrepiece of every Swedish Christmas julbord (Christmas table) and Midsommar buffet. Modern gravlax is no longer buried, but the principle holds: a side of fresh salmon (skin-on, deboned) is covered in a curing mix of coarse salt + sugar (in roughly 2:3 ratio, more sugar than salt is the Swedish balance) + a tightly packed coat of chopped fresh dill (huge amounts; you want a green carpet) + crushed white peppercorns. Weighed down and refrigerated for 48 hours, during which the salt draws out moisture, the sugar pulls in, and the salmon firms from translucent and floppy to opaque, silky, and slice-able. Sliced paper-thin, against the grain, and served with hovmästarsås (the traditional Swedish accompaniment, a mustard-and-dill sweet-tangy mayonnaise-style sauce), Scandinavian crisp bread (knäckebröd), and quick-pickled cucumber.
 
 ## Ingredients
 
@@ -68,7 +68,7 @@ Gravlax (literally "buried salmon" - from the medieval Scandinavian practice of 
 ### Stage 4 - Weight and refrigerate
 1. Cover the salmon tightly with cling film.
 2. Place a flat tray or chopping board on top.
-3. Add weights (heavy cans, a brick, a kettlebell) - about 2-3 kg total weight.
+3. Add weights (heavy cans, a brick, a kettlebell): about 2-3 kg total weight.
 4. Refrigerate 48 hours.
 5. After 24 hours, drain off any accumulated liquid (a clear amber brine), turn the salmon over (now flesh-side-up in the cure), and re-weight for the second 24 hours.
 
@@ -92,7 +92,7 @@ Gravlax (literally "buried salmon" - from the medieval Scandinavian practice of 
 5. Cold akvavit in tiny glasses, beer in tall glasses.
 
 ## Notes
-- **2:3 salt-sugar ratio:** the Swedish balance - sweeter than Danish or Norwegian. Adjust to taste once you've made it once.
+- **2:3 salt-sugar ratio:** the Swedish balance, sweeter than Danish or Norwegian. Adjust to taste once you've made it once.
 - **Masses of dill, not garnish:** the dill forms a full green carpet over both sides.
 - **48 hours minimum:** less than 36 hours and the centre of the fish is still raw; more than 72 hours and it gets too firm and salty.
 - **Drain at 24 hours and flip:** distributes the cure evenly through the fish.
@@ -100,7 +100,7 @@ Gravlax (literally "buried salmon" - from the medieval Scandinavian practice of 
 
 ## Variations
 **Citrus-cured:** add the zest of a lemon and an orange to the cure for a bright variant.
-**Beet-cured (Beetroot gravlax):** add 200 g grated raw beetroot to the cure - gives the salmon a vivid magenta colour at the edges.
+**Beet-cured (Beetroot gravlax):** add 200 g grated raw beetroot to the cure, gives the salmon a vivid magenta colour at the edges.
 **Pepper-crusted:** swap white pepper for crushed pink peppercorns + black peppercorns.
 **Gin-cured:** swap brandy for juniper-heavy gin; complements the dill.
 **With horseradish cream instead of hovmästarsås:** a less sweet, sharper accompaniment.

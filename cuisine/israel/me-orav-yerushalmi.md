@@ -56,7 +56,7 @@ Me'orav Yerushalmi is the original Jerusalem mixed grill, named for the city its
 ### Stage 4 - Second batch (offal)
 1. Push everything to the side. Add the remaining 2 tablespoons oil.
 1. Add hearts; sear 3 minutes (they stay slightly pink inside).
-1. Add livers; sear 2 minutes (still slightly pink at the centre - they go grainy if overcooked).
+1. Add livers; sear 2 minutes (still slightly pink at the centre, they go grainy if overcooked).
 1. Add garlic and remaining spices; toss everything together.
 
 ### Stage 5 - Finish

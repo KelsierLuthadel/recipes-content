@@ -67,7 +67,7 @@ Jalapeño cheese grits is one of Texas's most beloved side dishes and a Texan-So
 
 ### Stage 6 - Finish
 1. Taste; adjust salt and pepper.
-2. The grits should be thick but pourable - like very thick porridge.
+2. The grits should be thick but pourable, like very thick porridge.
 
 ### Stage 7 - Serve
 1. Ladle into bowls or onto plates.

@@ -2,7 +2,7 @@
 
 ![Toto](resources/toto.jpg)
 
-*A traditional Jamaican coconut spice cake - dense, moist, deeply flavoured with brown sugar, allspice, cinnamon, nutmeg and grated fresh coconut. Often served in thick squares with afternoon tea or wrapped for school lunches. A simple recipe, no icing, just a glossy crust and a sweet, spiced crumb that keeps for days.*
+*A traditional Jamaican coconut spice cake, dense, moist, deeply flavoured with brown sugar, allspice, cinnamon, nutmeg and grated fresh coconut. Often served in thick squares with afternoon tea or wrapped for school lunches. A simple recipe, no icing, just a glossy crust and a sweet, spiced crumb that keeps for days.*
 
 **Serves:** 9-12 (one 23 cm square cake)
 
@@ -67,5 +67,5 @@ A traditional Jamaican coconut spice cake, the sort of thing wrapped in foil for
 Serve with: A cup of hot tea, Jamaican coffee, or a glass of sorrel drink at Christmas. Excellent with a thin slice of mango on the side.
 
 ## Storage
-- Keeps 5 days in an airtight tin at room temperature - in fact it improves over the first 2 days.
+- Keeps 5 days in an airtight tin at room temperature, in fact it improves over the first 2 days.
 - Freezes 2 months wrapped tightly; defrost at room temperature.

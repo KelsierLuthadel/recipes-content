@@ -16,8 +16,8 @@ mentions:
 ingredients:
   - qty: 100
     unit: g
-    name: hibiscus calyces - from any african or caribbean grocery
-    raw: 100 g dried hibiscus calyces - from any African or Caribbean grocery, or health food shop
+    name: "hibiscus calyces : from any african or caribbean grocery"
+    raw: "100 g dried hibiscus calyces : from any African or Caribbean grocery, or health food shop"
   - qty: 2
     unit: l
     name: water

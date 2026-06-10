@@ -32,7 +32,7 @@ Sadza is Zimbabwe's defining staple: a stiff glossy porridge of white maize meal
 
 ### Stage 3 - Steam
 1. Smooth the top; reduce heat to the lowest setting; cover tightly.
-1. Cook 5 minutes - the steam finishes the inside and removes any raw-meal taste.
+1. Cook 5 minutes, the steam finishes the inside and removes any raw-meal taste.
 1. Stir once more to bring it together; turn out onto a wooden board or plate.
 
 ### Stage 4 - Serve
@@ -45,4 +45,4 @@ Sadza is Zimbabwe's defining staple: a stiff glossy porridge of white maize meal
 
 ## Storage
 - Best fresh. Eats well cold (rolled into balls and fried in oil for breakfast the next day).
-- Don't refrigerate longer than 24 hours - it dries out and reheats badly.
+- Don't refrigerate longer than 24 hours, it dries out and reheats badly.

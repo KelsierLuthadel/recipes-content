@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Kokum is the dried, sun-cured fruit of Garcinia indica, a Konkan-coast tree whose fruit ripens deep purple. Sliced and dried in the sun, kokum turns into hard, almost-black, leathery wedges that release a deep ruby-pink colour and a slightly sour-fruity flavour when soaked. Kokum sharbat is the simplest expression: kokum steeped in water with sugar, salt, sometimes a pinch of roasted cumin and a few mint leaves, then chilled and served over ice. The drink is intensely refreshing on a Goan summer afternoon - sour-sweet-savoury all at once, mildly cooling on the palate. A folk remedy for heatstroke and indigestion; also just a great summer drink.
+Kokum is the dried, sun-cured fruit of Garcinia indica, a Konkan-coast tree whose fruit ripens deep purple. Sliced and dried in the sun, kokum turns into hard, almost-black, leathery wedges that release a deep ruby-pink colour and a slightly sour-fruity flavour when soaked. Kokum sharbat is the simplest expression: kokum steeped in water with sugar, salt, sometimes a pinch of roasted cumin and a few mint leaves, then chilled and served over ice. The drink is intensely refreshing on a Goan summer afternoon, sour-sweet-savoury all at once, mildly cooling on the palate. A folk remedy for heatstroke and indigestion; also just a great summer drink.
 
 ## Ingredients
 

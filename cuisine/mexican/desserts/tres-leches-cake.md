@@ -57,20 +57,20 @@ Latin America's celebration cake, the dessert that turns up at every quinceañer
 1. Whisk in the milk and vanilla.
 
 ### Stage 4 - Combine
-1. Sift the flour, baking powder and salt over the yolk mixture; gently fold in with a spatula - don't overwork.
+1. Sift the flour, baking powder and salt over the yolk mixture; gently fold in with a spatula, don't overwork.
 1. Fold in a third of the meringue to lighten the batter.
 1. Fold in the remaining meringue in two additions, using a large spatula in a lifting / cutting motion. The batter should stay airy.
 
 ### Stage 5 - Bake
 1. Pour into the prepared tin; smooth the top.
 1. Bake 25-30 minutes until the top is gold, the edges have pulled slightly from the tin, and a skewer comes out clean.
-1. Don't open the oven during the first 20 minutes - it can collapse the sponge.
+1. Don't open the oven during the first 20 minutes, it can collapse the sponge.
 
 ### Stage 6 - Prep the soak
 1. While the cake bakes, whisk the evaporated milk, condensed milk, double cream, vanilla and rum (if using) in a measuring jug.
 
 ### Stage 7 - Soak
-1. As soon as the cake comes out of the oven (still in the tin), prick the top all over with a skewer or fork - make lots of holes, top to bottom.
+1. As soon as the cake comes out of the oven (still in the tin), prick the top all over with a skewer or fork, make lots of holes, top to bottom.
 1. Slowly pour the milk mixture over the warm cake.
 1. The cake drinks the milk in stages; pour about a third at a time, waiting 1 minute between additions, until you've added all of it.
 1. Most of the milk will be absorbed; a small puddle at the base is fine.
@@ -88,11 +88,11 @@ Latin America's celebration cake, the dessert that turns up at every quinceañer
 1. Serve cold.
 
 ## Notes
-- **The sponge has to be airy:** A heavy dense sponge won't absorb the soak - it'll just float on top while the milk pools at the bottom. The whipped-egg-whites technique gives the right open structure that drinks the milk.
-- **Soak while warm:** A warm cake absorbs the milk far better than a cold cake. Don't wait - pour the soak as soon as the cake comes out of the oven.
-- **Overnight rest is best:** Tres leches gets better with time. 4 hours minimum; 12 hours is the target. The cake should be uniformly moist throughout - not wet at the bottom and dry at the top.
+- **The sponge has to be airy:** A heavy dense sponge won't absorb the soak, it'll just float on top while the milk pools at the bottom. The whipped-egg-whites technique gives the right open structure that drinks the milk.
+- **Soak while warm:** A warm cake absorbs the milk far better than a cold cake. Don't wait, pour the soak as soon as the cake comes out of the oven.
+- **Overnight rest is best:** Tres leches gets better with time. 4 hours minimum; 12 hours is the target. The cake should be uniformly moist throughout, not wet at the bottom and dry at the top.
 
 ## Storage
 - Refrigerate 4 days, covered.
 - The whipped cream topping is best within 24 hours; if making further ahead, add the cream just before serving.
-- Doesn't freeze well - the saturated sponge structure breaks down on thaw.
+- Doesn't freeze well, the saturated sponge structure breaks down on thaw.

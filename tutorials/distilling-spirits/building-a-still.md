@@ -10,12 +10,12 @@
 
 A pot still is the simplest distillation apparatus that works. Its parts in order of vapour travel:
 
-1. **Boiler (pot)** - the vessel holding your fermented wash, sitting on the heat source
-2. **Head (onion or column)** - the lid of the pot, where the vapour collects
-3. **Vapour arm (lyne arm)** - the angled pipe carrying vapour from the head to the condenser
-4. **Condenser** - a coil or jacket cooled by water that turns the vapour back to liquid
-5. **Parrot** - a small overflow chamber with a hydrometer where the spirit drips out
-6. **Heat source** - propane burner, electric immersion element, or wood fire (rare today)
+1. **Boiler (pot)**: the vessel holding your fermented wash, sitting on the heat source
+2. **Head (onion or column)**: the lid of the pot, where the vapour collects
+3. **Vapour arm (lyne arm)**: the angled pipe carrying vapour from the head to the condenser
+4. **Condenser**: a coil or jacket cooled by water that turns the vapour back to liquid
+5. **Parrot**: a small overflow chamber with a hydrometer where the spirit drips out
+6. **Heat source**: propane burner, electric immersion element, or wood fire (rare today)
 
 For a family-scale Tennessee operation, a 5-20 gallon boiler is the right size. Below 5 gallons, the cuts become hard to manage (a 1-gallon wash only produces 50 ml of foreshots, which is hard to measure accurately). Above 20 gallons, you are running a commercial-scale operation that needs commercial equipment and a different kind of permit.
 
@@ -29,7 +29,7 @@ For most family operations, this is the right answer. The leading American kit s
 
 | Feature | What you want |
 |---|---|
-| **Boiler material** | Copper or 304 stainless steel. Both work; copper removes sulphur compounds during distillation (a real benefit for grain mashes); stainless is easier to clean. Most modern kits use stainless boilers with copper column packing - the best of both. |
+| **Boiler material** | Copper or 304 stainless steel. Both work; copper removes sulphur compounds during distillation (a real benefit for grain mashes); stainless is easier to clean. Most modern kits use stainless boilers with copper column packing, the best of both. |
 | **Boiler capacity** | 5, 8, 10 or 13 gallon are common. A 10-gallon boiler holds an 8-gallon wash (you fill to 80%) and produces 1-1.5 litres of clean spirit per run. |
 | **Heat source compatibility** | "Direct-fire" boilers sit on a propane burner. "Electric" boilers have an internal element (1500-5500W). Electric is more controllable and safer; direct-fire is traditional and slightly faster. |
 | **Head type** | A simple onion head (a domed copper lid) is correct for pot-still operation. Column heads with packing are for reflux/neutral spirit (vodka) work; you do not want them for whiskey. |
@@ -98,7 +98,7 @@ Once you have the parts (kit or fabricated), assembly is straightforward:
 
 ### Stage 3 - Attach the vapour arm and condenser
 1. Fit the lyne arm (vapour arm) between the head and the condenser inlet. Use silicone gaskets and tri-clamps.
-2. The vapour arm should slope DOWNWARD from the head to the condenser. A 5-10° downward slope helps the condensed spirit drain forward. A flat or upward slope can cause "reflux" (condensate running back into the boiler) - fine for vodka, wrong for whiskey.
+2. The vapour arm should slope DOWNWARD from the head to the condenser. A 5-10° downward slope helps the condensed spirit drain forward. A flat or upward slope can cause "reflux" (condensate running back into the boiler): fine for vodka, wrong for whiskey.
 3. Connect the cooling water inlet to the BOTTOM of the condenser and the outlet to the TOP. This counter-current flow gives the most efficient cooling.
 
 ### Stage 4 - Set up the parrot
@@ -118,7 +118,7 @@ Before introducing any wash:
 2. Connect cooling water; start the flow (a moderate tap or pump).
 3. Apply heat. For a 10-gallon water charge, expect 60-90 minutes to first boil.
 4. Watch for water emerging from the parrot. This should be clean, hot water (about 95-99 °C). Capture for 30 minutes.
-5. Cut heat. Let everything cool. Drain the boiler. The still has now been "broken in" - copper oils have been driven out, leaks have been identified, you know how long the system takes to come to temperature.
+5. Cut heat. Let everything cool. Drain the boiler. The still has now been "broken in", copper oils have been driven out, leaks have been identified, you know how long the system takes to come to temperature.
 
 ## Running the still: the first wash
 
@@ -127,7 +127,7 @@ Once the water test passes, you can run a real wash. This is covered on the indi
 1. Pour the fermented wash into the cleaned boiler. Fill to no more than 80% capacity (the wash will foam during heating).
 2. Seal the head, attach vapour arm and condenser, start cooling water.
 3. Heat slowly. Watch the thermometer; the wash should rise to about 78 °C and stay there as ethanol begins to vaporise.
-4. The first drops emerge at the condenser when the boiler is around 78 °C. These first drops are foreshots - discard.
+4. The first drops emerge at the condenser when the boiler is around 78 °C. These first drops are foreshots, discard.
 5. Continue running, swapping collection jars as the ABV drops (the parrot hydrometer tells you when).
 6. Stop when the ABV at the parrot drops below 25-30% - you are deep in tails.
 7. Cut heat. Let cool. Empty the boiler. Clean.
@@ -145,7 +145,7 @@ Between runs:
 
 ## Notes on heat sources
 
-- **Propane** is fast and powerful but requires outdoor or extremely well-ventilated use. The flame is open - no leaking vapour should ever be nearby. A 100,000 BTU jet burner is overkill for a 10-gallon still; a 50,000 BTU is the sweet spot.
+- **Propane** is fast and powerful but requires outdoor or extremely well-ventilated use. The flame is open, no leaking vapour should ever be nearby. A 100,000 BTU jet burner is overkill for a 10-gallon still; a 50,000 BTU is the sweet spot.
 - **Electric immersion** is the modern choice for indoor use. A 5500W element runs on 240V (a standard US dryer outlet). Add a PID controller for precision temperature control. The element sits inside the boiler, so the heat is direct and there is no open flame.
 - **Wood fire** is traditional and beautiful but hard to control. Possible for an outdoor build with a dedicated firepit; not recommended for a modern licensed operation.
 
@@ -154,6 +154,6 @@ Between runs:
 - **Pressure cookers** are unsuitable. They are pressurised vessels by design and not built to be vented properly.
 - **Plastic anywhere on the vapour path.** Some online plans show plastic tubing for the condenser. Ethanol vapour at 80 °C dissolves many plastics, contaminating the spirit and weakening the tube. Copper or stainless only.
 - **Aluminium boilers.** Aluminium reacts with the slight acidity of fermenting wash and gives a metallic off-flavour. Copper or stainless only.
-- **Reflux columns for whiskey.** A packed column with mesh or beads gives a much cleaner, higher-proof distillate - which is what you want for vodka, not for whiskey. Whiskey wants the flavour compounds that a simple pot still carries through.
+- **Reflux columns for whiskey.** A packed column with mesh or beads gives a much cleaner, higher-proof distillate, which is what you want for vodka, not for whiskey. Whiskey wants the flavour compounds that a simple pot still carries through.
 
 Once you have a working still and have run water through it cleanly, move on to a first wash. The [whisky](whisky.md) page is the broadest starting point; [Ole Smoky-style moonshine](ole-smoky-moonshine.md) is the simplest single recipe.

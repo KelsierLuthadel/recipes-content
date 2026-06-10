@@ -52,14 +52,14 @@ Cambodia's national dish, the centrepiece of any Khmer feast and the proper-occa
 1. Pound or blend everything in the kroeung list to a smooth paste, scraping down. A high-speed blender or small food processor with a tablespoon of water works fine.
 
 ### Stage 2 - Banana-leaf cups (optional)
-1. Soften banana leaves over a flame for 5 seconds - they turn glossy and pliable.
+1. Soften banana leaves over a flame for 5 seconds, they turn glossy and pliable.
 1. Fold each square into a small open box: bring two opposite corners up and pin together; do the same with the other two. Use cocktail sticks. (Skip and use ramekins if simpler.)
 
 ### Stage 3 - Custard base
 1. Heat 1 tablespoon vegetable oil in a wok over medium heat.
 1. Add the kroeung; fry 4-5 minutes until darker and aromatic.
 1. Pour in the coconut cream and stock; whisk; bring to a simmer.
-1. Whisk the eggs lightly; pour into the wok off the heat, whisking - they shouldn't curdle but they're not meant to stay liquid either.
+1. Whisk the eggs lightly; pour into the wok off the heat, whisking, they shouldn't curdle but they're not meant to stay liquid either.
 1. Stir in the fish sauce, palm sugar, salt.
 
 ### Stage 4 - Fold
@@ -76,8 +76,8 @@ Cambodia's national dish, the centrepiece of any Khmer feast and the proper-occa
 1. Serve hot with jasmine rice.
 
 ## Notes
-- **Kroeung is the dish:** The paste is unique to Khmer cooking - different from Thai green or red curry pastes. The galangal-lemongrass-turmeric balance makes it.
-- **Fish that holds together:** Firm white fish - cod, basa, sea bass, halibut - chunks of 3 cm hold up to steaming. Tilapia and barramundi are traditional.
+- **Kroeung is the dish:** The paste is unique to Khmer cooking, different from Thai green or red curry pastes. The galangal-lemongrass-turmeric balance makes it.
+- **Fish that holds together:** Firm white fish, cod, basa, sea bass, halibut, chunks of 3 cm hold up to steaming. Tilapia and barramundi are traditional.
 - **Banana leaves vs ramekins:** Banana leaves give a subtle, tea-like aroma; ramekins are cleaner and easier. Both are valid.
 
 ## Storage

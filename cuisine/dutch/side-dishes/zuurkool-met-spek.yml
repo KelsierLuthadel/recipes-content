@@ -60,8 +60,8 @@ ingredients:
     raw: 200 ml unsweetened apple juice OR a mix of 100 ml chicken stock + 100 ml white wine
   - qty: 1
     unit: tbsp
-    name: dutch grainy mustard - some cooks add a small amount at the end
-    raw: 1 tablespoon Dutch grainy mustard - some cooks add a small amount at the end
+    name: "dutch grainy mustard : some cooks add a small amount at the end"
+    raw: "1 tablespoon Dutch grainy mustard : some cooks add a small amount at the end"
   - qty: 1
     unit: small handful
     name: flat-leaf parsley or a pinch of dried thyme

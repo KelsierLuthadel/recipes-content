@@ -53,7 +53,7 @@ Adobong sitaw is the vegetable side that proves the adobo method works on anythi
 
 ## Notes
 - **Don't stir the vinegar in:** Filipino tradition holds that stirring the vinegar before it boils makes the dish taste raw and sharp. Let it bubble for a minute first.
-- **Long beans (sitaw) vs green beans:** Long beans hold up best; green beans work fine but cook faster - check at 6 minutes.
+- **Long beans (sitaw) vs green beans:** Long beans hold up best; green beans work fine but cook faster, check at 6 minutes.
 - **Sugar at the end:** Balances the vinegar without adding sweetness up front.
 
 ## Storage

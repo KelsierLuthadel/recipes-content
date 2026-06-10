@@ -11,7 +11,7 @@
 **Cook Time:** 15 minutes
 
 ## Overview
-The tunnbrödsrulle (literally "thin bread roll") is Sweden's distinctive answer to the hot dog and a fixture of Swedish street food and korvkiosk culture across Stockholm, Gothenburg and Malmö: a soft Swedish tunnbröd flatbread (a thin soft wheat-and-rye flatbread, traditionally baked unleavened) used as the wrapper instead of a hot-dog bun, piled high with a grilled sausage (traditionally a long Swedish-style varmkorv), a generous spoon of warm Swedish mashed potato (potatismos - the Scandinavian dense buttery potato mash), a heap of Swedish shrimp salad (räksallad - small cold-water shrimps mixed with mayonnaise, dill and a touch of lemon), a layer of crisp lettuce, sliced cucumber, crispy fried onions, and finished with zigzags of ketchup and mustard. The whole thing is rolled up tightly into a portable wrap, eaten standing at the kiosk or walking down Drottninggatan.
+The tunnbrödsrulle (literally "thin bread roll") is Sweden's distinctive answer to the hot dog and a fixture of Swedish street food and korvkiosk culture across Stockholm, Gothenburg and Malmö: a soft Swedish tunnbröd flatbread (a thin soft wheat-and-rye flatbread, traditionally baked unleavened) used as the wrapper instead of a hot-dog bun, piled high with a grilled sausage (traditionally a long Swedish-style varmkorv), a generous spoon of warm Swedish mashed potato (potatismos, the Scandinavian dense buttery potato mash), a heap of Swedish shrimp salad (räksallad, small cold-water shrimps mixed with mayonnaise, dill and a touch of lemon), a layer of crisp lettuce, sliced cucumber, crispy fried onions, and finished with zigzags of ketchup and mustard. The whole thing is rolled up tightly into a portable wrap, eaten standing at the kiosk or walking down Drottninggatan.
 
 ## Ingredients
 
@@ -55,7 +55,7 @@ The tunnbrödsrulle (literally "thin bread roll") is Sweden's distinctive answer
 ### Stage 1 - Make mashed potato
 1. Boil potatoes in salted water 15-18 minutes till very tender.
 2. Drain thoroughly; return to the hot pot off heat to dry out 2 minutes.
-3. Mash through a ricer (Swedish style - smooth, no lumps).
+3. Mash through a ricer (Swedish style, smooth, no lumps).
 4. Add butter, milk, salt, white pepper.
 5. Beat with a wooden spoon till smooth and silky.
 6. Keep warm.
@@ -75,7 +75,7 @@ The tunnbrödsrulle (literally "thin bread roll") is Sweden's distinctive answer
 
 ### Stage 5 - Build the tunnbrödsrulle
 1. Lay a warm tunnbröd flat on a board.
-2. Spread a generous strip of warm mashed potato down the centre (across the diameter - like a wide stripe).
+2. Spread a generous strip of warm mashed potato down the centre (across the diameter, like a wide stripe).
 3. Lay a warm sausage on top of the mash.
 4. Add a generous spoon of cold shrimp salad alongside the sausage.
 5. A heap of crispy fried onions.

@@ -27,7 +27,7 @@ Lahoh is Yemen's sourdough crumpet: a fermented spongy flatbread cooked on a hot
 
 ### Stage 1 - Batter
 1. Whisk the flour, semolina, yeast, salt and sugar in a wide bowl.
-1. Gradually whisk in the warm water to make a smooth, runny batter - the consistency of single cream.
+1. Gradually whisk in the warm water to make a smooth, runny batter, the consistency of single cream.
 1. Cover; leave at room temperature 8 hours (or overnight). It should be bubbly and smell pleasantly sour.
 
 ### Stage 2 - Adjust consistency
@@ -39,7 +39,7 @@ Lahoh is Yemen's sourdough crumpet: a fermented spongy flatbread cooked on a hot
 1. Ladle 120 ml of batter into the centre; swirl quickly to spread into a 20 cm round.
 1. Within 30 seconds, bubbles will rise across the surface and burst, leaving open holes.
 1. Cook 2-3 minutes until the bottom is pale gold and the top is fully set and dry.
-1. Do not flip - lahoh is cooked one side only.
+1. Do not flip, lahoh is cooked one side only.
 
 ### Stage 4 - Stack
 1. Slide onto a plate; cover with a clean tea towel to keep warm and soft.

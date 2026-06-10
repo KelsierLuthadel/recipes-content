@@ -85,5 +85,5 @@ A Caribbean-American fusion that works because both food cultures speak the lang
 - **Scotch bonnet gloves:** standard. Two of them deseeded is a moderate burn; one with seeds is fierce.
 
 ## Storage
-- Best eaten immediately - chips lose crispness in 20 minutes.
+- Best eaten immediately, chips lose crispness in 20 minutes.
 - Leftover jerk chicken keeps 3 days; chow keeps 2 days. Re-build nachos fresh.

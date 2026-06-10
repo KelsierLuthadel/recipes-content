@@ -73,9 +73,9 @@ ingredients:
     raw: 2 tablespoons butter
   - qty: 1
     unit: tbsp
-    name: dill -
-    raw: 1 tablespoon fresh dill - optional
+    name: "dill :"
+    raw: "1 tablespoon fresh dill : optional"
   - qty: 1
     unit: tbsp
-    name: parsley -
-    raw: 1 tablespoon fresh parsley - optional
+    name: "parsley :"
+    raw: "1 tablespoon fresh parsley : optional"

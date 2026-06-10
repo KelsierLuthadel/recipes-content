@@ -73,7 +73,7 @@ Bobotie is South Africa's national dish, the Cape Malay legacy made over generat
 1. Heat the oven to 180°C (160°C fan).
 1. Whisk the eggs with the reserved soaking milk, the additional 250 ml milk, salt and nutmeg.
 1. Pour over the mince mixture.
-1. Stick the fresh bay leaves into the top - vertically, like little flags - spaced across the dish.
+1. Stick the fresh bay leaves into the top, vertically, like little flags, spaced across the dish.
 1. Sprinkle with extra flaked almonds.
 
 ### Stage 5 - Bake
@@ -85,7 +85,7 @@ Bobotie is South Africa's national dish, the Cape Malay legacy made over generat
 
 ## Notes
 - **Mrs Ball's chutney is traditional:** South Africa's beloved fruit chutney; an alternative is Major Grey's mango chutney or any sweet fruit chutney.
-- **Bay leaves on top:** Aesthetic and aromatic. They roast slightly during baking, releasing oil into the topping. Don't skip - they're part of bobotie's identity.
+- **Bay leaves on top:** Aesthetic and aromatic. They roast slightly during baking, releasing oil into the topping. Don't skip, they're part of bobotie's identity.
 - **Sweet-savoury balance:** Bobotie is meant to be slightly sweet (jam, chutney, raisins) against the curry warmth. If you reduce sugar, the dish loses its character.
 
 ## Storage

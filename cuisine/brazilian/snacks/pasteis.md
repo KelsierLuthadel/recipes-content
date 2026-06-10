@@ -51,7 +51,7 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 ### To serve
 - Hot sauce (Brazilian molho de pimenta)
 - A wedge of lime
-- A glass of sugarcane juice (caldo de cana - the traditional Brazilian street-food pairing)
+- A glass of sugarcane juice (caldo de cana, the traditional Brazilian street-food pairing)
 - A small bowl of mayonnaise (some Brazilians dip their pastel in mayo; less traditional but real)
 
 ## Method
@@ -75,7 +75,7 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 
 ### Stage 3 - Roll the dough
 1. Divide the rested dough into 4 equal portions.
-2. On a lightly floured surface, roll one portion as THIN as possible - aim for 1 mm thickness, almost translucent.
+2. On a lightly floured surface, roll one portion as THIN as possible, aim for 1 mm thickness, almost translucent.
 3. The dough should be elastic and stretchy; use a pasta machine if you have one for the perfect thinness.
 4. Cut into rectangles roughly 14 cm wide × 20 cm long.
 
@@ -91,7 +91,7 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 ### Stage 5 - Fry
 1. Heat the vegetable oil to 180°C in a deep pan.
 2. Lower 2-3 pastéis at a time into the hot oil.
-3. Fry 90-120 seconds - the dough will bubble dramatically.
+3. Fry 90-120 seconds, the dough will bubble dramatically.
 4. Turn once during cooking.
 5. The pastéis should be deeply golden and crisply bubbled.
 6. Lift out with a slotted spoon; drain on kitchen paper.
@@ -99,7 +99,7 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 ### Stage 6 - Serve
 1. Serve immediately while crispy and piping hot.
 2. Add lime wedges and a small dish of hot sauce.
-3. Drink a glass of cold caldo de cana (sugarcane juice) - the traditional Brazilian street-food pairing.
+3. Drink a glass of cold caldo de cana (sugarcane juice): the traditional Brazilian street-food pairing.
 4. Eat with the hands; cut a small corner to let the steam out (the filling is volcanic).
 
 ## Notes
@@ -110,14 +110,14 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 - **Cold filling when assembling:** hot filling melts the dough during shaping. Cool completely.
 
 ## Variations
-**Pastel de queijo (cheese pastel):** filled with mozzarella + a few oregano leaves - the simplest and most universally loved.
+**Pastel de queijo (cheese pastel):** filled with mozzarella + a few oregano leaves, the simplest and most universally loved.
 **Pastel de carne (beef pastel):** the traditional variant; described above.
-**Pastel de palmito (heart of palm):** filled with chopped hearts of palm + Catupiry - vegetarian standard.
-**Pastel de camarão (shrimp pastel):** filled with cooked shrimp + Catupiry + spring onion - premium variant.
-**Pastel de pizza:** filled with mozzarella + sliced tomato + oregano - modern Italian-Brazilian.
-**Pastel de bacalhau (cod):** filled with desalted shredded cod + onion + parsley - Portuguese-Brazilian.
+**Pastel de palmito (heart of palm):** filled with chopped hearts of palm + Catupiry, vegetarian standard.
+**Pastel de camarão (shrimp pastel):** filled with cooked shrimp + Catupiry + spring onion, premium variant.
+**Pastel de pizza:** filled with mozzarella + sliced tomato + oregano, modern Italian-Brazilian.
+**Pastel de bacalhau (cod):** filled with desalted shredded cod + onion + parsley, Portuguese-Brazilian.
 **Mini pastéis:** smaller rectangles (6×10 cm) for cocktail parties.
-**Sweet pastéis (dessert):** filled with chocolate + banana + cinnamon-sugar - the sweet dessert variant.
+**Sweet pastéis (dessert):** filled with chocolate + banana + cinnamon-sugar, the sweet dessert variant.
 
 ## Serving
 At a Brazilian Saturday-morning feira (street market) with a glass of caldo de cana (the traditional setting) · at a Brazilian bus station kiosk · at a São Paulo Brazilian street-food cart · at a Brazilian bar with cold beer · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at home as a weekend treat with friends.

@@ -2,7 +2,7 @@
 
 ![Risalamande](resources/risalamande.jpg)
 
-*Denmark's Christmas Eve dessert: a creamy cold rice pudding folded with whipped cream, chopped almonds and vanilla, topped with a vivid red warm cherry sauce. Eat at every Danish Christmas Eve dinner - and ritualised by the tradition of hiding a single whole almond in the pot; whoever finds it wins the mandelgaven (almond gift).*
+*Denmark's Christmas Eve dessert: a creamy cold rice pudding folded with whipped cream, chopped almonds and vanilla, topped with a vivid red warm cherry sauce. Eat at every Danish Christmas Eve dinner, and ritualised by the tradition of hiding a single whole almond in the pot; whoever finds it wins the mandelgaven (almond gift).*
 
 **Serves:** 8
 
@@ -28,10 +28,10 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 - 80 g blanched whole almonds (chopped coarsely; reserve 1 WHOLE almond for the hidden one)
 - 100 g caster sugar
 - 1 teaspoon vanilla extract
-- 4 tablespoons cherry brandy (kirsch) or sherry - optional but traditional
+- 4 tablespoons cherry brandy (kirsch) or sherry, optional but traditional
 
 ### Cherry sauce (kirsebærsauce)
-- 500 g pitted morello cherries (fresh, frozen, or from a jar - Aalborg or Den Gamle Fabrik brand is the Danish traditional)
+- 500 g pitted morello cherries (fresh, frozen, or from a jar, Aalborg or Den Gamle Fabrik brand is the Danish traditional)
 - 200 ml cherry juice (from the jar, or apple juice)
 - 100 ml red wine (or extra juice)
 - 80 g caster sugar
@@ -42,7 +42,7 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 
 ### To serve
 - 1 whole blanched almond (THE hidden one)
-- A mandelgave (almond gift) - wrapped, small, ready to award to the winner
+- A mandelgave (almond gift): wrapped, small, ready to award to the winner
 
 ## Method
 
@@ -72,7 +72,7 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 2. In a large mixing bowl, beat the rice pudding briefly to loosen it.
 3. Add the sugar, vanilla extract, and kirsch (if using); stir.
 4. Add the chopped almonds; stir.
-5. Fold in the whipped cream gently - about 4-5 strokes; you want airy folds, not full incorporation.
+5. Fold in the whipped cream gently, about 4-5 strokes; you want airy folds, not full incorporation.
 
 ### Stage 5 - Hide THE almond
 1. Take the one whole blanched almond.

@@ -56,10 +56,10 @@ Zambezia province's coastal chicken, the milder cousin to frango piri-piri: spat
 1. Serve with coconut rice and a green salad.
 
 ## Notes
-- **Cashews:** Grind them in a small food processor or a mortar. Some pieces are fine - the sauce isn't expected to be glass-smooth.
+- **Cashews:** Grind them in a small food processor or a mortar. Some pieces are fine, the sauce isn't expected to be glass-smooth.
 - **Heat balance:** The coconut milk softens the chilli; the sauce ends up rich rather than fiery. Add more piri-piri at the end if you want more bite.
 - **Spatchcock for even cooking:** A whole upright chicken won't cook evenly under this sauce. Flat is the way.
 
 ## Storage
 - Refrigerate 3 days; reheat in the oven covered.
-- The sauce thickens cold - loosen with a splash of coconut milk when reheating.
+- The sauce thickens cold, loosen with a splash of coconut milk when reheating.

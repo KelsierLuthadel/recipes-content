@@ -54,7 +54,7 @@ The Levantine-Arabian cheese half-moon, the milder vegetarian cousin to the meat
 
 ### Stage 2 - Filling
 1. Mix grated akkawi (or mozzarella-halloumi blend), crumbled feta, egg yolk, parsley, spring onion, mint, pepper, nutmeg and nigella in a wide bowl.
-1. Don't add extra salt - the cheeses are salty.
+1. Don't add extra salt, the cheeses are salty.
 
 ### Stage 3 - Roll
 1. Heat oven to 200°C (180°C fan) if baking.
@@ -81,7 +81,7 @@ The Levantine-Arabian cheese half-moon, the milder vegetarian cousin to the meat
 1. Eat warm. The cheese is hot and melty.
 
 ## Notes
-- **Akkawi is the authentic cheese:** A brined cow's-milk Levantine cheese, mild and milky, melts smoothly. The mozzarella-halloumi substitute is the practical option outside the region - mozzarella gives the stretch; halloumi gives the salt and a hint of squeaky texture.
+- **Akkawi is the authentic cheese:** A brined cow's-milk Levantine cheese, mild and milky, melts smoothly. The mozzarella-halloumi substitute is the practical option outside the region, mozzarella gives the stretch; halloumi gives the salt and a hint of squeaky texture.
 - **Don't over-salt:** Feta + akkawi (even desalted) + halloumi all bring salt. Skip adding extra; the filling is plenty seasoned.
 - **Fried vs baked:** Fried gives the crispest, richest result. Baked is lighter, more practical for a batch, and works well with the egg-wash-and-sesame finish.
 

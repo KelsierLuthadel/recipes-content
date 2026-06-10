@@ -35,18 +35,18 @@ This is the Ashkenazi appetiser plate of a thousand Friday-night tables: hard-bo
 
 ### Stage 2 - Caramelise the onions
 1. Heat the schmaltz or oil in a wide pan over medium-low heat.
-1. Cook the onions 18-20 minutes, stirring occasionally, until deeply golden and very soft. Don't rush - this is half the dish.
+1. Cook the onions 18-20 minutes, stirring occasionally, until deeply golden and very soft. Don't rush, this is half the dish.
 1. Cool to room temperature.
 
 ### Stage 3 - Chop and combine
-1. Roughly chop the eggs in a wide bowl with a fork - coarse, not fine.
+1. Roughly chop the eggs in a wide bowl with a fork, coarse, not fine.
 1. Add the cooled onions with all their fat from the pan.
 1. Season with salt and white pepper; mix to combine.
 1. Taste; adjust salt and pepper.
 
 ### Stage 4 - Rest
 1. Cover and refrigerate at least 30 minutes (the flavours marry).
-1. Bring back to room temperature before serving - cold mutes the flavour.
+1. Bring back to room temperature before serving, cold mutes the flavour.
 
 ### Stage 5 - Serve
 1. Pile into a small bowl; serve with rye bread, matzo or crackers, and a few cucumber slices to refresh between bites.

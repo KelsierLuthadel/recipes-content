@@ -11,7 +11,7 @@
 **Cook Time:** 45 minutes
 
 ## Overview
-The German-Chilean fruit cake from the country's Lakes Region, where 19th-century German immigrants brought their baking traditions and adapted them to local fruit. You cream butter with sugar for the base, beat in eggs one at a time, fold in flour and baking powder, and spread the batter into a 23 cm tin. Sliced apples or stoned plums press into the surface (whatever's in season - cherries, peaches and strawberries all work). A streusel topping of flour, butter, sugar and cinnamon crumbles over the top. Forty-five minutes at 180°C until the topping is gold and a skewer comes out clean. A dust of icing sugar before serving. Eat with afternoon coffee on a Lakes Region veranda, or any Sunday wherever you happen to be.
+The German-Chilean fruit cake from the country's Lakes Region, where 19th-century German immigrants brought their baking traditions and adapted them to local fruit. You cream butter with sugar for the base, beat in eggs one at a time, fold in flour and baking powder, and spread the batter into a 23 cm tin. Sliced apples or stoned plums press into the surface (whatever's in season, cherries, peaches and strawberries all work). A streusel topping of flour, butter, sugar and cinnamon crumbles over the top. Forty-five minutes at 180°C until the topping is gold and a skewer comes out clean. A dust of icing sugar before serving. Eat with afternoon coffee on a Lakes Region veranda, or any Sunday wherever you happen to be.
 
 ## Ingredients
 
@@ -80,7 +80,7 @@ The German-Chilean fruit cake from the country's Lakes Region, where 19th-centur
 1. Serve warm or at room temperature with coffee.
 
 ## Notes
-- **German-Chilean heritage:** kuchen recipes vary by family - some use a yeasted base, others a quark filling under the fruit. This is the most common Chilean homestyle version.
+- **German-Chilean heritage:** kuchen recipes vary by family, some use a yeasted base, others a quark filling under the fruit. This is the most common Chilean homestyle version.
 - **Fruit acidity balances the sweet:** lemon juice on apples; extra sugar on rhubarb; plums and berries usually fine as-is.
 - **Don't undercook the centre:** the fruit weeps moisture as it bakes; underdone cake stays soggy. Test with a skewer.
 

@@ -55,12 +55,12 @@ The small folded pancakes that turn up on every Ramadan iftar table across Jorda
 1. Combine the sugar, water and lemon juice in a small pan.
 1. Simmer 10 minutes until slightly thickened.
 1. Off the heat, stir in the rosewater and orange blossom water.
-1. Cool fully - this is poured over the hot atayef, so it must be cold.
+1. Cool fully, this is poured over the hot atayef, so it must be cold.
 
 ### Stage 3 - Pancakes (one side only)
 1. Heat a non-stick frying pan over medium heat (no oil).
 1. Pour 2 tablespoons of batter for each pancake; let spread to about 8 cm circles.
-1. Cook 90 seconds without flipping - bubbles will rise and burst across the top, leaving a lattice of holes; the top should set with a matte finish.
+1. Cook 90 seconds without flipping, bubbles will rise and burst across the top, leaving a lattice of holes; the top should set with a matte finish.
 1. Lift onto a clean tea towel; cover with another so they don't dry out.
 
 ### Stage 4 - Fillings
@@ -69,7 +69,7 @@ The small folded pancakes that turn up on every Ramadan iftar table across Jorda
 
 ### Stage 5 - Fold and seal
 1. Place a teaspoon of filling on each pancake (cooked side up).
-1. Fold in half to a half-moon; pinch the edges firmly to seal - they shouldn't open in the oil.
+1. Fold in half to a half-moon; pinch the edges firmly to seal, they shouldn't open in the oil.
 
 ### Stage 6 - Fry
 1. Heat 4 cm of oil in a wide pan to 180°C.
@@ -82,7 +82,7 @@ The small folded pancakes that turn up on every Ramadan iftar table across Jorda
 1. Eat hot.
 
 ## Notes
-- **Cold syrup, hot pastry:** This is the rule for everything in this family of Levantine sweets - basbousa, baklava, atayef. The temperature contrast is what makes the syrup soak in without going greasy.
+- **Cold syrup, hot pastry:** This is the rule for everything in this family of Levantine sweets, basbousa, baklava, atayef. The temperature contrast is what makes the syrup soak in without going greasy.
 - **One side only:** Atayef are uncooked on top so the filling sticks to the still-doughy surface. Flipping breaks the fold.
 - **Pinch firmly:** Filling escaping into hot oil burns and ruins the dish. Pinch the seam hard; double-pinch if dry.
 

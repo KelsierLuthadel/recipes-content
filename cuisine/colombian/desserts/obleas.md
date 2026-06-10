@@ -6,7 +6,7 @@
 
 **Serves:** Makes 6 wafer sandwiches
 
-**Prep Time:** 15 minutes (assembly only - wafers are bought, arequipe is pre-made)
+**Prep Time:** 15 minutes (assembly only, wafers are bought, arequipe is pre-made)
 
 **Cook Time:** 0 minutes
 
@@ -16,7 +16,7 @@ Obleas are the Colombian street-corner sweet you eat standing up, paper-thin rou
 ## Ingredients
 
 ### Base
-- 12 obleas wafers (large, thin, round - from a Colombian / Latin grocer; substitute: large Italian wafer biscuits if obleas are not available)
+- 12 obleas wafers (large, thin, round, from a Colombian / Latin grocer; substitute: large Italian wafer biscuits if obleas are not available)
 
 ### Filling
 - 300 g arequipe (Colombian dulce de leche / manjar)
@@ -37,7 +37,7 @@ Obleas are the Colombian street-corner sweet you eat standing up, paper-thin rou
 
 ### Stage 2 - Spread arequipe
 1. Spread a generous 2 tablespoons of arequipe on each base wafer.
-1. Don't go all the way to the edge - leave a 5 mm border so it doesn't squish out everywhere.
+1. Don't go all the way to the edge, leave a 5 mm border so it doesn't squish out everywhere.
 
 ### Stage 3 - Customise
 1. Per sandwich, scatter 2-3 of the toppings: a little grated cheese here, a spoonful of jam there, a sprinkle of coconut, etc.
@@ -45,17 +45,17 @@ Obleas are the Colombian street-corner sweet you eat standing up, paper-thin rou
 
 ### Stage 4 - Lid and press
 1. Place a second wafer on top of each filled base.
-1. Press very gently - too firm and the wafers crack.
+1. Press very gently, too firm and the wafers crack.
 
 ### Stage 5 - Eat
 1. Eat IMMEDIATELY. Obleas wafers absorb moisture from the filling and go from crisp to chewy within 30 minutes.
 
 ## Notes
-- **Don't make ahead:** obleas wafers go soft and chewy within 20 minutes of assembly. The crisp-meets-sticky contrast is the whole appeal - eat as soon as built.
+- **Don't make ahead:** obleas wafers go soft and chewy within 20 minutes of assembly. The crisp-meets-sticky contrast is the whole appeal, eat as soon as built.
 - **Cheese + arequipe sounds wrong, tastes right:** the salty cheese cuts through the deep caramel of arequipe and gives the iconic Colombian flavour. Try at least once.
 - **Improvise with biscuits:** if you can't find proper obleas wafers, two large thin Italian fan wafer biscuits sandwiched together is the closest substitute. Most western supermarkets sell them.
 
 ## Storage
-- Don't store assembled obleas - the wafers absorb moisture and go chewy.
+- Don't store assembled obleas, the wafers absorb moisture and go chewy.
 - Components keep separately: wafers 6 weeks in a sealed tin; arequipe 6 weeks refrigerated.
-- Make to order at the table for a party - it's a fun assemble-your-own snack.
+- Make to order at the table for a party, it's a fun assemble-your-own snack.
