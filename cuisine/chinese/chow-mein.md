@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chow Mein
 
 ![Chow Mein](resources/chow-mein.jpg)

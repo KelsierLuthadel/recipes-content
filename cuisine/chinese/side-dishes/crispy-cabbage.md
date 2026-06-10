@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Crispy Cabbage
 
 ![Crispy cabbage](resources/crispy-cabbage.jpg)

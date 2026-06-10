@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tang Yuan
 
 ![Tang Yuan](resources/tang-yuan.jpg)

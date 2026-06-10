@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Maple-Syrup Pie (Tarte au Sirop d'Érable)
 
 ![Maple-Syrup Pie](resources/maple-syrup-pie.jpg)
