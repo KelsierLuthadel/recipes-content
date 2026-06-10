@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cherry Clafoutis Tart
 
 ![Cherry Clafoutis Tart](resources/cherry-clafoutis-tart.jpg)

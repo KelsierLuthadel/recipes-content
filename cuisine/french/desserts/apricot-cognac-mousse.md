@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Apricot and Cognac Mousse with Caramelised Almonds
 
 ![Apricot and cognac mousse with caramelised almonds](resources/apricot-cognac-mousse.jpg)

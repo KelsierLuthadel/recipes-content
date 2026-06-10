@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Apple Tart
 
 ![Apple tart](resources/apple-tart.jpg)

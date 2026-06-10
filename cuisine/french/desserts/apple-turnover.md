@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Apple Turnovers
 
 ![Apple turnovers](resources/apple-turnover.jpg)

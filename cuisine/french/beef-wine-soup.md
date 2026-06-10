@@ -1,9 +1,8 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Beef and Wine Soup
 
 ![Beef and wine soup](resources/beef-wine-soup.jpg)
 
-*Eisacktaler Weinsuppe*
+*A French-Italian border soup from the Alpine Eisacktal valley: beef broth lifted with white wine, finished with cream and Parmesan, and topped with a cinnamon-dusted slice of toast that floats while the broth warms beneath.*
 
 **Serves:** 4
 

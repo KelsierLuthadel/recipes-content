@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Crab Bisque
 
 ![Crab bisque](resources/crab-bisque.jpg)
