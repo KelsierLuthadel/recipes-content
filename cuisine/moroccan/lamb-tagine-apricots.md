@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lamb Tagine with Apricots and Almonds
 
 ![Lamb Tagine with Apricots and Almonds](resources/lamb-tagine-apricots.jpg)

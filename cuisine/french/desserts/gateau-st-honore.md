@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Gâteau St. Honoré with Cocoa Dusted Chantilly Cream
 
 ![Gâteau St. Honoré with cocoa dusted chantilly cream](resources/gateau-st-honore.jpg)

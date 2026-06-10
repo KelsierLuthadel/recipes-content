@@ -28,7 +28,7 @@ Wienerbrød is the most internationally famous Danish food. Confusingly, the Eng
 ### Lamination butter (the butter block)
 - 250 g cold high-fat butter (Lurpak or any 82%+ butterfat butter; this needs to be a single block)
 
-### Vanilla custard filling (for spandauer; makes ~400ml)
+### Vanilla custard filling (for spandauer; makes about 400ml)
 - 400 ml whole milk
 - 1 vanilla pod (split and scraped)
 - 4 large egg yolks
@@ -145,7 +145,7 @@ Wienerbrød is the most internationally famous Danish food. Confusingly, the Eng
 2. Serve warm with strong coffee.
 
 ## Notes
-- **Cold lamination butter:** the butter and dough need to be a similar temperature. Both at ~10-15°C is right.
+- **Cold lamination butter:** the butter and dough need to be a similar temperature. Both at about 10-15°C is right.
 - **3 single folds OR 1 + 1 double:** the traditional Danish lamination.
 - **Overnight rest between lamination and shaping:** essential for the layers to be defined and the dough to relax.
 - **High heat for the bake:** 220°C minimum; the steam needs to push the layers apart hard.

@@ -42,7 +42,7 @@ Clarified butter is the building block for hollandaise, béarnaise and any cooki
 
 ## Notes
 - **Heat Gentleness:** Rushing the melting or using high heat damages the butter's flavor and creates too much foaming.
-- **Yield Loss:** Expect to lose about 30% of the original weight in water and milk solids; 120 grams yields ~85 grams clarified.
+- **Yield Loss:** Expect to lose about 30% of the original weight in water and milk solids; 120 grams yields about 85 grams clarified.
 - **Storage:** Keeps refrigerated for several weeks and can be frozen for up to 3 months.
 - **Smoke Point:** The significantly higher smoke point makes this essential for classical meat cookery and sauce-making.
 - **Ghee vs. Clarified Butter:** Ghee is clarified butter cooked longer until all water evaporates and milk solids brown slightly, adding nutty flavor.

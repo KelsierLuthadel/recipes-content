@@ -53,7 +53,7 @@ The Tunisian fricassé is the deep-fried sandwich bun that turns up at every str
 1. Rest in a covered bowl 1 hour till doubled.
 
 ### Stage 2 - Shape
-1. Knock back; divide into 8 portions (~80 g each).
+1. Knock back; divide into 8 portions (about 80 g each).
 1. Shape each into an oval shape about 10 cm long and 5 cm wide, slightly pointed at the ends.
 1. Rest 15 minutes on parchment.
 

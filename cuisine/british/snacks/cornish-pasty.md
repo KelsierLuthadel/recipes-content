@@ -60,7 +60,7 @@ The Cornish tin miner's lunch and the protected food name of Cornwall: beef, pot
 ### Stage 4 - Fill
 1. Lay the pastry disc flat.
 1. Pile about a quarter of the filling onto half the disc (leaving a 1 cm border).
-1. Drop a small cube of butter (~7 g) on top of the filling.
+1. Drop a small cube of butter (about 7 g) on top of the filling.
 1. Brush the entire pastry rim with water (helps the seal).
 
 ### Stage 5 - Fold and crimp

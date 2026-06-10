@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cuts by Smell and Taste
 
 ![Cuts by Smell and Taste](resources/cuts-by-smell.jpg)
@@ -20,7 +19,7 @@ This page covers what to smell, taste and look for at each stage of a run, in th
 Equipment:
 - **Numbered 250 ml jars** - 8-15 of them, ready to receive spirit in sequence
 - **A small tasting glass** (Glencairn or small wine glass) for evaluating samples
-- **Distilled water** for diluting samples to ~25% ABV before tasting (a 70% spirit is too hot to evaluate)
+- **Distilled water** for diluting samples to about 25% ABV before tasting (a 70% spirit is too hot to evaluate)
 - **A notebook** - write down what you smell at each jar number. Builds the palate over time.
 
 Routine: as each jar fills (every 5-10 minutes for a typical run), take a small sample, dilute it with about an equal volume of water in your tasting glass, give it a swirl, and smell - then taste a tiny sip. Write the smell, the ABV from the parrot, and the jar number.
@@ -115,7 +114,7 @@ When the parrot reads below 20-25% ABV, the still is producing mostly water with
 
 The first 5-10 runs you do, your sensory accuracy will be guesswork. The cues become learnable through three habits:
 
-1. **Always dilute before evaluating.** Neat 70% spirit is impossible to smell honestly - the alcohol burns your nose closed. Dilute to ~25% with water; this is the proper "nosing" strength.
+1. **Always dilute before evaluating.** Neat 70% spirit is impossible to smell honestly - the alcohol burns your nose closed. Dilute to about 25% with water; this is the proper "nosing" strength.
 2. **Write everything down.** Jar number, ABV, smell, taste. After 5 runs you'll see patterns.
 3. **Side-by-side comparison.** Keep small samples (10 ml in a sealed vial) from each run. Months later, compare an old foreshots-discard sample to a current heads sample. The contrast trains the nose faster than anything else.
 

@@ -16,7 +16,7 @@ The Bhutanese weeknight chicken stew, the dish a Thimphu cook turns to after a l
 ## Ingredients
 
 ### Chicken
-- 1 chicken (~1.2 kg), jointed into 8 pieces (or 1 kg bone-in chicken thighs)
+- 1 chicken (about 1.2 kg), jointed into 8 pieces (or 1 kg bone-in chicken thighs)
 - 1 teaspoon salt
 - ½ teaspoon ground turmeric
 

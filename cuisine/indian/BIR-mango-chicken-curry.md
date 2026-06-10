@@ -41,7 +41,7 @@ BIR mango chicken curry is the British restaurant sweet-spicy curry with tropica
 
 ### Stage 1 - Sauté aromatics
 1. Heat oil in frying pan over medium-high heat.
-1. Add garlic-ginger paste and fry ~30 sec.
+1. Add garlic-ginger paste and fry about 30 sec.
 1. Add mixed powder, chilli powder, coriander stalks, and green chillies; stir well.
 
 ### Stage 2 - Add sauce
@@ -49,7 +49,7 @@ BIR mango chicken curry is the British restaurant sweet-spicy curry with tropica
 1. Add coconut flour and mango chutney, then 125 ml (½ cup) base sauce.
 
 ### Stage 3 - Add chicken and mango
-1. Stir in chicken and heat ~1 min.
+1. Stir in chicken and heat about 1 min.
 1. Add mango chunks and remaining base sauce.
 1. Simmer 4 min until slightly reduced (add extra sauce or water if too thick).
 

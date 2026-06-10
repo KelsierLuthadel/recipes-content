@@ -47,7 +47,7 @@ BIR lamb achari is the restaurant take on the Punjabi achari tradition, a curry 
 ### Stage 1 - Temper spices and fry onion
 1. Heat oil in a frying pan over medium-high heat.
 1. Add panch poran and Kashmiri chillies; let crackle.
-1. Add sliced onion and fry until soft and translucent (~5 mins); sprinkle salt to release moisture.
+1. Add sliced onion and fry until soft and translucent (about 5 mins); sprinkle salt to release moisture.
 
 ### Stage 2 - Add aromatics and spices
 1. Add garlic and ginger paste and bird’s eye chillies; fry 30 seconds, stirring.

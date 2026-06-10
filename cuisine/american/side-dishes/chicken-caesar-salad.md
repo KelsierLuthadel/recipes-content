@@ -46,7 +46,7 @@ The 1990s American main-course Caesar: the original Tijuana salad upgraded with 
 1. Preheat oven to 200°C.
 1. Remove crusts from bread and cut into 1 cm cubes.
 1. Place in a roasting tin, sprinkle with olive oil and a little pepper.
-1. Bake, turning every minute, until golden and crispy (~5 mins).
+1. Bake, turning every minute, until golden and crispy (about 5 mins).
 1. Toss in grated Parmesan and set aside to cool.
 
 ### Stage 2 - Cook protein

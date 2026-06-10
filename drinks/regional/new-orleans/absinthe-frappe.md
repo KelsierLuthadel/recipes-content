@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Absinthe Frappé
 
 ![Absinthe Frappé](resources/absinthe-frappe.jpg)

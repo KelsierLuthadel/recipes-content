@@ -126,7 +126,7 @@ Once the water test passes, you can run a real wash. This is covered on the indi
 
 1. Pour the fermented wash into the cleaned boiler. Fill to no more than 80% capacity (the wash will foam during heating).
 2. Seal the head, attach vapour arm and condenser, start cooling water.
-3. Heat slowly. Watch the thermometer; the wash should rise to ~78 °C and stay there as ethanol begins to vaporise.
+3. Heat slowly. Watch the thermometer; the wash should rise to about 78 °C and stay there as ethanol begins to vaporise.
 4. The first drops emerge at the condenser when the boiler is around 78 °C. These first drops are foreshots - discard.
 5. Continue running, swapping collection jars as the ABV drops (the parrot hydrometer tells you when).
 6. Stop when the ABV at the parrot drops below 25-30% - you are deep in tails.

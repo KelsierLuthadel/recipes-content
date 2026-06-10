@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Meringue and Red Berry Layers
 
 ![Meringue and red berry layers](resources/meringue-red-berry-layers.jpg)

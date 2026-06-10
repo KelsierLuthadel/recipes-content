@@ -74,7 +74,7 @@ Candied citrus peel is the petit-four trick that turns the part of the fruit you
 
 ## Variations
 **Orange-Only Version:** Use 6 medium oranges instead of grapefruits for shorter poaching time (2 hours).
-**Lemon Peel:** Thinner-skinned lemons require reduced cooking time (~1 ½ hours per poaching).
+**Lemon Peel:** Thinner-skinned lemons require reduced cooking time (about 1 ½ hours per poaching).
 **Mixed Citrus:** Combine grapefruit, orange, and lemon peels for visual variety and flavor complexity.
 **Chocolate-Dipped:** After sugar-coating, dip the bottom third of each peel into tempered dark chocolate using a small fork.
 **Vanilla-Sugar Coating:** Replace half the granulated sugar with vanilla sugar for fragrant finish.

@@ -19,13 +19,13 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 - 600 g good Belgian dark couverture chocolate (Callebaut 70%, Belcolade Noir Pure, or Valrhona Guanaja) - chopped or in callets
 - (Or use milk couverture: Callebaut Milk 33%; or white: Callebaut White 28%)
 
-### Filling 1: Dark chocolate ganache (makes ~200 g; fills ~15 pralines)
+### Filling 1: Dark chocolate ganache (makes about 200 g; fills about 15 pralines)
 - 150 g dark couverture chocolate (70%), chopped
 - 100 ml double cream
 - 20 g unsalted butter
 - 1 teaspoon vanilla extract
 
-### Filling 2: Praliné hazelnut (makes ~200 g; fills ~15 pralines)
+### Filling 2: Praliné hazelnut (makes about 200 g; fills about 15 pralines)
 - 150 g whole hazelnuts (skinned)
 - 100 g caster sugar
 - 30 g milk chocolate, melted

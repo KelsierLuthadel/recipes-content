@@ -4,7 +4,7 @@
 
 *The bouquet garni (French for "garnished bouquet") is a bundle of herbs tied together with string. It infuses stocks, soups, and stews with subtle flavor during cooking, then is removed before serving.*
 
-**Yield:** 1 bouquet (flavors ~1 ½ liters of liquid)
+**Yield:** 1 bouquet (flavors about 1 ½ liters of liquid)
 
 **Prep Time:** 5 minutes
 

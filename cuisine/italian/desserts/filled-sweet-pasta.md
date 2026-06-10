@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Half-Moon Shaped Sweet Pasta Filled with Candied Fruit
 
 ![Half-moon sweet pasta with candied fruit](resources/filled-sweet-pasta.jpg)

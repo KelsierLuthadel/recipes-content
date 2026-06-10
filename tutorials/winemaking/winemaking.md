@@ -42,7 +42,7 @@ So from picking elderflowers to drinking your first decent glass: about 4 months
 
 ## Equipment summary
 
-A starter kit for under £40 will make ~5 litres at a time. Detailed list on the [Equipment](equipment.md) page.
+A starter kit for under £40 will make about 5 litres at a time. Detailed list on the [Equipment](equipment.md) page.
 
 ## Legal note (UK)
 Home winemaking for personal use is legal in the UK at any quantity, without a licence. Sale of homemade wine is not legal without an HMRC licence and is outside the scope of this course. Many home winemakers gift bottles freely to friends and family; this remains a legal grey area but is the longstanding practice.

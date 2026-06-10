@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Akuri (Indian Spicy Scrambled Eggs)
 
 ![Akuri](resources/akuri.jpg)

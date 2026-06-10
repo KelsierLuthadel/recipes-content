@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tomato and Basil Sauce
 
 ![Tomato and Basil Sauce](resources/tomato-basil-sauce.jpg)

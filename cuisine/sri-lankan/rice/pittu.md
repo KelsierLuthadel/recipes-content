@@ -24,7 +24,7 @@ Pittu is a steamed dish of seasoned red rice flour layered with grated coconut i
 - 200 ml warm water (more if needed)
 
 ### Equipment
-- A pittu bambuwa (bamboo cylinder, ~3-4 cm diameter, ~15 cm long; from Sri Lankan groceries) OR an aluminium pittu maker
+- A pittu bambuwa (bamboo cylinder, about 3-4 cm diameter, about 15 cm long; from Sri Lankan groceries) OR an aluminium pittu maker
 - A standard tiered steamer
 
 ### To serve

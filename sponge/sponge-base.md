@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Sponge Base
 
 ![Sponge Base](resources/sponge-base.png)

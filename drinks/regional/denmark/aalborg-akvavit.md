@@ -4,7 +4,7 @@
 
 *Denmark's national spirit: a clear caraway-and-dill-infused grain alcohol from the Aalborg distillery in northern Jutland (operated since 1846), served in tiny ice-cold glasses with pickled herring, smørrebrød and the Danish snaps ritual. Stronger and more caraway-forward than Swedish akvavit; the traditional drinking spirit at every Danish lunch.*
 
-**Serves:** 8 (small shots, ~30ml each; figure 3-4 rounds per lunch)
+**Serves:** 8 (small shots, about 30ml each; figure 3-4 rounds per lunch)
 
 **Prep Time:** 5 minutes (assumes bottled Aalborg Taffel) OR 2 weeks (for home-infused version)
 
@@ -71,7 +71,7 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 
 ### Stage 5 - The serving ritual
 1. Place the snaps glasses in the freezer 15 minutes before serving.
-2. Pour the ice-cold akvavit into each frosted glass to about ¾ full (~25-30 ml).
+2. Pour the ice-cold akvavit into each frosted glass to about ¾ full (about 25-30 ml).
 3. Lay each glass on a small plate with a piece of pickled herring on rye bread alongside.
 
 ### Stage 6 - The snapsvisa

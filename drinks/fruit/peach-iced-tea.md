@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Peach Iced Tea
 
 ![Peach Iced Tea](resources/peach-iced-tea.jpg)

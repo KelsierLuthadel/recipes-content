@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Pain Perdu
 
 ![Pain perdu](resources/pain-perdu.jpg)

@@ -26,7 +26,7 @@ m'Hencha is Morocco's snake-coil dessert and the showpiece pastry at any Eid or 
 - A pinch of salt
 
 ### Pastry
-- 12 sheets warka (or filo pastry, large rounds preferred; rectangles work - cut to ~30 × 25 cm)
+- 12 sheets warka (or filo pastry, large rounds preferred; rectangles work - cut to about 30 × 25 cm)
 - 80 g unsalted butter (melted, for brushing)
 
 ### Eggwash

@@ -128,7 +128,7 @@ For puri, bhatura, kachori, the oil temperature is everything. The right range: 
 
 ### Oil choice
 
-- **Sunflower oil** — neutral, high smoke point (~225°C). Default for Indian deep-frying.
+- **Sunflower oil** — neutral, high smoke point (about 225°C). Default for Indian deep-frying.
 - **Rapeseed / canola oil** — same characteristics.
 - **Ghee** — flavoursome but expensive for deep-frying. Used in mithai (Indian sweets) deep-frying.
 - **Mustard oil** — distinctly pungent. Used in Bengali deep-frying.

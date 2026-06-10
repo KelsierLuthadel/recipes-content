@@ -16,7 +16,7 @@ The Cubano sandwich is one of the most iconic sandwiches in the world and the tr
 ## Ingredients
 
 ### Bread
-- 2 loaves Cuban bread (about 30 cm each); or 4 Portuguese rolls; or 1 French baguette cut into 4 sections (~15 cm each)
+- 2 loaves Cuban bread (about 30 cm each); or 4 Portuguese rolls; or 1 French baguette cut into 4 sections (about 15 cm each)
 
 ### Inside layers
 - 4 tablespoons yellow mustard (the traditional American-Cuban mustard)

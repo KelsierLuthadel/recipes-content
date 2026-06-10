@@ -4,7 +4,7 @@
 
 *The British pub pickle: a chunky brown relish of swede, carrot, gherkin and dates simmered in malt vinegar and treacle. With cheese.*
 
-**Serves:** ~10 (makes 1 litre, in 2 jars)
+**Serves:** about 10 (makes 1 litre, in 2 jars)
 
 **Prep Time:** 30 minutes
 
@@ -17,7 +17,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 
 ## Ingredients
 
-### Vegetables (all diced to ~4 mm pieces)
+### Vegetables (all diced to about 4 mm pieces)
 - 200 g swede (peeled)
 - 150 g carrot (peeled)
 - 150 g cauliflower florets (the tighter inner ones, not the leafy stems)
@@ -49,7 +49,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 ## Method
 
 ### Stage 1 - Prep the vegetables
-1. Dice swede, carrot, cauliflower and onion to ~4 mm cubes. Smaller / bigger is wrong; ploughman's pickle should have a distinctive small-dice texture.
+1. Dice swede, carrot, cauliflower and onion to about 4 mm cubes. Smaller / bigger is wrong; ploughman's pickle should have a distinctive small-dice texture.
 1. Chop gherkins to similar size.
 1. Chop dates to a paste consistency (they break down into the pickle).
 1. Set sultanas aside whole.
@@ -93,7 +93,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 
 ## Notes
 - **Malt vinegar is the British signature:** It's what gives ploughman's pickle (and Branston) its characteristic dark amber colour and faintly malty flavour. White vinegar gives a paler, sharper pickle that's not quite right.
-- **Small dice, not chunks:** The defining textural feature is the very small (~4 mm) cubes of vegetable. Larger cubes give a chutney that feels rustic; smaller (or mashed) gives a paste. Aim for the size that lets each vegetable be distinguishable in a spoonful.
+- **Small dice, not chunks:** The defining textural feature is the very small (about 4 mm) cubes of vegetable. Larger cubes give a chutney that feels rustic; smaller (or mashed) gives a paste. Aim for the size that lets each vegetable be distinguishable in a spoonful.
 - **Matures over weeks:** Eating ploughman's pickle the day it's made gives a sharp, unintegrated flavour. The 2-4 week rest is when the magic happens. A jar that's been in the cupboard 3 months is at its peak.
 
 ## Storage

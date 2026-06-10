@@ -57,10 +57,10 @@ Two distinct elements that meet at the bowl: long, springy hand-pulled noodles w
 
 ### Stage 3 - Stretch the noodles
 1. Bring a wide pot of water to a rolling boil.
-1. Lift one end of the coiled dough rope; loosen ~30 cm above the work surface.
+1. Lift one end of the coiled dough rope; loosen about 30 cm above the work surface.
 1. Hold the rope lightly between thumb and forefinger of both hands.
 1. Move your arms outward, stretching the dough thinner as it slides between your hands.
-1. Continue working your way along the coil, thinning the rope to ~5 mm thickness.
+1. Continue working your way along the coil, thinning the rope to about 5 mm thickness.
 1. Once stretched, lift the rope and let it bounce gently on the worktop a few times to elongate further. Some breakage is normal.
 
 ### Stage 4 - Cook and serve

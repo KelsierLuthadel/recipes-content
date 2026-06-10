@@ -53,7 +53,7 @@ A bread from the mountain villages of Azerbaijan and the wider Caucasus, the kin
 1. Season with salt and pepper.
 
 ### Stage 3 - Shape
-1. Knock the risen dough back; divide into 6 balls (~110 g each).
+1. Knock the risen dough back; divide into 6 balls (about 110 g each).
 1. Roll each ball to a 15 cm disc on a lightly floured surface.
 1. Spoon 3 heaped tablespoons of filling into the centre.
 1. Gather the edges up over the filling, pinching to seal at the top like a money-purse.

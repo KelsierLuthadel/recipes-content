@@ -59,5 +59,5 @@ The Scottish no-bake chocolate slab and a Dundee bakery classic: crushed digesti
 
 ## Storage
 - Keeps in an airtight tin for up to 2 weeks at cool room temperature.
-- Refrigerate in summer or warm kitchens; chocolate softens above ~22°C.
+- Refrigerate in summer or warm kitchens; chocolate softens above about 22°C.
 - Freezes well for up to 3 months in airtight wrap; defrost in the fridge.

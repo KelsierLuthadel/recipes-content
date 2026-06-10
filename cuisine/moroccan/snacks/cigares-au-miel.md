@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cigares au Miel (Honey Almond Cigars)
 
 ![Cigares au Miel](resources/cigares-au-miel.jpg)
@@ -49,7 +48,7 @@ Cigares au miel are Morocco's honey-almond cigars, the smaller and easier cousin
 1. Cover; rest 10 minutes.
 
 ### Stage 2 - Shape
-1. Divide the paste into 24 walnut-sized portions (~22 g each).
+1. Divide the paste into 24 walnut-sized portions (about 22 g each).
 1. Roll each between palms into a thin cylinder about 10 cm long and 1 ½ cm thick.
 
 ### Stage 3 - Wrap

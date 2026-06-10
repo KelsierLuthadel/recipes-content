@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Missi Rotis
 
 ![Missi Rotis](resources/missi-rotis.jpg)

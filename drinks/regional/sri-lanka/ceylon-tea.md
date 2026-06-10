@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Ceylon Tea (Plain Tea, Sri Lankan Style)
 
 ![Ceylon Tea](resources/ceylon-tea.jpg)

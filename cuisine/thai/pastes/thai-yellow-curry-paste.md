@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Yellow Curry Paste
 
 ![Yellow Curry Paste](resources/thai-yellow-curry-paste.jpg)

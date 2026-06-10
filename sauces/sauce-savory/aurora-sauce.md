@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Aurora Sauce
 
 ![Aurora Sauce](resources/aurora-sauce.jpg)

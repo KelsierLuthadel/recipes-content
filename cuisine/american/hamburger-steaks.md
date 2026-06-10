@@ -19,7 +19,7 @@ American Southern diner food and a close cousin of Salisbury steak: browned grou
 - 900 g (2 lbs) ground beef (85/15)
 - ¼ cup chopped scallions (plus more to garnish)
 - 1 tablespoon Cajun seasoning
-- 1 packet Sazon seasoning (~1 ½ teaspoons)
+- 1 packet Sazon seasoning (about 1 ½ teaspoons)
 - 1 tablespoon garlic paste
 - 1 tablespoon Worcestershire sauce
 - 1 tablespoon maple syrup (or honey)

@@ -61,7 +61,7 @@ Boudin balls are the Cajun snack that turns the porky-rice filling of a boudin s
 1. Fluff with a fork.
 
 ### Stage 2 - Shape
-1. Roll the filling into walnut-sized balls (~30 g each).
+1. Roll the filling into walnut-sized balls (about 30 g each).
 1. Place on a tray; chill 30 minutes (firms up; easier to bread).
 
 ### Stage 3 - Bread

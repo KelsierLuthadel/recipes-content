@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Pollo Asado
 
 ![Pollo Asado](resources/pollo-asado.jpg)

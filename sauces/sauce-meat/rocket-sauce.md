@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Rocket Sauce with Horseradish
 
 ![Rocket sauce with horseradish](resources/rocket-sauce.png)

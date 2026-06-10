@@ -53,7 +53,7 @@ A lighter remix of the classic Buffalo wings format: the same flavour trio (Fran
 
 ## Notes
 - **Frank's RedHot is the buffalo:** plain Frank's, not the "wing sauce" variant (which is creamier). Hot sauce + a little melted butter is the classic blend.
-- **Rotisserie chicken hack:** skip the chicken roast and use ~280 g of pulled rotisserie chicken instead. Cut prep time in half.
+- **Rotisserie chicken hack:** skip the chicken roast and use about 280 g of pulled rotisserie chicken instead. Cut prep time in half.
 - **Blue cheese substitutes:** ranch crumbles, feta, goat cheese all work as cool counterpoints.
 
 ## Storage

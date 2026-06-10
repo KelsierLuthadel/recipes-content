@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Biscuit Joconde
 
 ![Biscuit Joconde](resources/biscuit-joconde.png)

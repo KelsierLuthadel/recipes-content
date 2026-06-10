@@ -19,7 +19,7 @@ Azerbaijan's wedding rice, the centrepiece of any celebration worth the name, an
 - 500 g basmati rice
 - 2 tablespoons salt (for the par-boil)
 - 100 g unsalted butter
-- 1 large pinch saffron threads (~20 strands)
+- 1 large pinch saffron threads (about 20 strands)
 - 2 tablespoons boiling water
 - 2 sheets lavash flatbread (for the crust)
 

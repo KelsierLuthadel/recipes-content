@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Mongolian Sweet Rice
 
 ![Mongolian Sweet Rice](resources/mongolian-sweet-rice.jpg)

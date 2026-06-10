@@ -15,7 +15,7 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 
 ## Ingredients
 
-### The brisket and cure (for one ~2.5 kg brisket, ~16 sandwiches)
+### The brisket and cure (for one about 2.5 kg brisket, about 16 sandwiches)
 - 1 whole "plate" or point-cut brisket, about 2.5 kg, with the fat cap mostly intact
 - 80 g coarse kosher salt
 - 30 g granulated sugar

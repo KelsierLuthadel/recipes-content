@@ -16,7 +16,7 @@ Buttermilk-fried wings in the American Southern tradition, with a Caribbean acce
 ## Ingredients
 
 ### Marinade
-- 1.1-1.4 kg (2 ½-3 lbs) whole chicken wings (~10 wings)
+- 1.1-1.4 kg (2 ½-3 lbs) whole chicken wings (about 10 wings)
 - 2 tablespoons Jamaican curry powder
 - 1 tablespoon Creole Cajun seasoning
 - 1 tablespoon Maggi chicken bouillon powder

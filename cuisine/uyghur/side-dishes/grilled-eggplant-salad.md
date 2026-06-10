@@ -15,11 +15,11 @@ A juicy room-temperature salad built around the smoky soft flesh of whole-roaste
 
 ## Ingredients
 
-- 2 whole eggplants (~440 g total)
-- 4 tomatoes (~370 g, finely chopped)
-- 2 cucumbers (~350 g, cut into thin strips)
-- 1 mild green pepper (~40 g, finely chopped)
-- 1 onion (~85 g, finely chopped)
+- 2 whole eggplants (about 440 g total)
+- 4 tomatoes (about 370 g, finely chopped)
+- 2 cucumbers (about 350 g, cut into thin strips)
+- 1 mild green pepper (about 40 g, finely chopped)
+- 1 onion (about 85 g, finely chopped)
 - 1 spring onion (finely chopped)
 - ½ bulb garlic (finely chopped)
 - 5 g fresh basil (finely chopped)

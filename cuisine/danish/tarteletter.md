@@ -15,7 +15,7 @@ Tarteletter are one of Denmark's most distinctively Danish "fancy lunch" dishes:
 
 ## Ingredients
 
-### Tartlet shells (8 small, ~7cm wide)
+### Tartlet shells (8 small, about 7cm wide)
 - Option A: 8 shop-bought tartlet shells (Karen Volf, Wasa Tarteletter; widely available in Denmark and Scandinavian shops)
 - Option B (homemade): 1 sheet (320g) good-quality butter puff pastry, baked into 8 tartlet shells
 

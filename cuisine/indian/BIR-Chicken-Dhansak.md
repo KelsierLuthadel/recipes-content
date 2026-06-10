@@ -41,7 +41,7 @@ BIR chicken dhansak is a British restaurant classic with sweet-sour notes of pin
 
 ### Stage 1 - Start the sauce
 1. Heat oil in a pan over medium-high.
-1. Add garlic and ginger paste with turmeric; sizzle ~30 seconds until colour deepens.
+1. Add garlic and ginger paste with turmeric; sizzle about 30 seconds until colour deepens.
 1. Add mixed powder, chilli powder, and tomato purée; stir briskly.
 
 ### Stage 2 - Add base sauce and lentils

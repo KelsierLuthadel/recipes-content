@@ -15,7 +15,7 @@ A Tibetan tomato hot sauce that's about depth rather than burn. The base is summ
 
 ## Ingredients
 
-- 9 Roma tomatoes (~650 g)
+- 9 Roma tomatoes (about 650 g)
 - 3 celery stalks (diced)
 - 2 hot green peppers (jalapeño or similar)
 - 2 garlic cloves

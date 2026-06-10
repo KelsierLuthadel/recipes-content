@@ -15,7 +15,7 @@ Light pizza dough is the building block for restaurant-quality pizza at home: an
 
 ### Stage 1 (Long Fermentation Starter)
 - 450 grams Italian '00' flour (doppio zero, or bread flour)
-- 330 ml lukewarm water (temperature calculated to total ~64°C with flour and air temperature as described below)
+- 330 ml lukewarm water (temperature calculated to total about 64°C with flour and air temperature as described below)
 - 20 grams fresh yeast cake (compressed yeast) or 7 grams dry yeast
 
 ### Stage 2 (Final Dough Development)

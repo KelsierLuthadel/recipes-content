@@ -56,10 +56,10 @@ For a Tennessee family operation, a grain-based vodka makes sense - you're alrea
 
 **Strip run (first distillation):**
 1. Charge the still with the whole wash. The wash is meant to be stripped of alcohol fast in this run - you are not making finished spirit yet.
-2. Heat aggressively. Collect everything above ~30% ABV into one large vessel. Discard the first 50 ml per gallon as foreshots, but otherwise be less precise - this run produces a "low wines" of mixed quality, around 40-50% ABV.
+2. Heat aggressively. Collect everything above about 30% ABV into one large vessel. Discard the first 50 ml per gallon as foreshots, but otherwise be less precise - this run produces a "low wines" of mixed quality, around 40-50% ABV.
 
 **Spirit runs (second through fifth distillation):**
-1. Dilute the low wines with clean water back to ~25% ABV (this gives the still enough water to vapourise cleanly).
+1. Dilute the low wines with clean water back to about 25% ABV (this gives the still enough water to vapourise cleanly).
 2. Distil more carefully. Take aggressive foreshots, heads and tails cuts.
 3. Save only the hearts - the cleanest middle of the run, ideally above 90% ABV.
 4. Repeat. Each successive run further concentrates ethanol and removes residual flavour compounds.

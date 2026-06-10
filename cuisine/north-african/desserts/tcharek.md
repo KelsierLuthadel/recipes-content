@@ -46,7 +46,7 @@ The Maghreb's Eve's crescents, the small pale moons that turn up at every Eid te
 ### Stage 1 - Almond filling
 1. In a bowl, combine ground almonds, icing sugar, melted butter, lemon zest, orange-flower water and cinnamon.
 1. Mix to a soft pliable paste; rest 10 minutes.
-1. Divide into 24 walnut-sized portions (~17 g each).
+1. Divide into 24 walnut-sized portions (about 17 g each).
 1. Roll each into a small log about 4 cm long, slightly tapered at the ends.
 
 ### Stage 2 - Dough
@@ -58,7 +58,7 @@ The Maghreb's Eve's crescents, the small pale moons that turn up at every Eid te
 ### Stage 3 - Wrap
 1. Heat the oven to 170°C (150°C fan).
 1. Line two baking trays with parchment.
-1. Divide the dough into 24 portions (~20 g each).
+1. Divide the dough into 24 portions (about 20 g each).
 1. Take one portion; flatten with the palm to a disc about 6 cm across.
 1. Place an almond log in the centre.
 1. Wrap the dough around the almond log; pinch the ends to seal.

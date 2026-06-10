@@ -8,7 +8,7 @@
 
 Mead is the fermented drink of honey. The honey supplies the sugar; yeast converts that sugar into alcohol and CO2; what's left is a drink that ranges from dry to very sweet, from 6% ABV (lighter "session mead") to 18% ABV (sack mead).
 
-Mead has been documented archaeologically from ~7000 BCE in China and ~3000 BCE in Europe. The Vikings drank it; the medieval monks made it; the British countryside made it for centuries before the Industrial Revolution; and the modern craft-mead revival has built a small but serious global industry since the 1990s.
+Mead has been documented archaeologically from about 7000 BCE in China and about 3000 BCE in Europe. The Vikings drank it; the medieval monks made it; the British countryside made it for centuries before the Industrial Revolution; and the modern craft-mead revival has built a small but serious global industry since the 1990s.
 
 The whole craft is small:
 

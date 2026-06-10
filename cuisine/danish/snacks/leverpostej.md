@@ -15,7 +15,7 @@ Leverpostej is one of the most ubiquitous foods in Denmark. Every supermarket se
 
 ## Ingredients
 
-### Pâté loaf (1 large loaf, ~1 kg)
+### Pâté loaf (1 large loaf, about 1 kg)
 - 500 g pork liver (trimmed, chopped roughly)
 - 200 g pork fat (back fat) OR 300 g streaky bacon (chopped; the bacon version is the home-friendly option)
 - 1 large onion (finely chopped)

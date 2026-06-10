@@ -26,8 +26,8 @@ ingredients:
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 1
-    name: baguette ; cut into 4 sections of ~15cm each
-    raw: 1 large fresh baguette ; cut into 4 sections of ~15cm each
+    name: baguette ; cut into 4 sections of about 15cm each
+    raw: 1 large fresh baguette ; cut into 4 sections of about 15cm each
   - qty: 250
     unit: g
     name: gruyere cheese ; or 50/50 gruyere + emmental

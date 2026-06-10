@@ -26,9 +26,9 @@ A Sunday dish from Cap-Haïtien on Haiti's north coast where cashews have been a
 
 ### Chicken and braise
 - 4 chicken leg quarters (each cut into 2 pieces)
-- 6 oz (~170 g) épis (Haitian green seasoning)
+- 6 oz (about 170 g) épis (Haitian green seasoning)
 - Canola oil for searing
-- 6 oz (~170 g) tomato paste
+- 6 oz (about 170 g) tomato paste
 - 1 litre chicken stock (or broth)
 - 2 tablespoons cashews (ground to powder)
 - ½ cup toasted cashew halves

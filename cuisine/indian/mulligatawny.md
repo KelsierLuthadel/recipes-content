@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Mulligatawny Soup
 
 ![Mulligatawny soup](resources/mulligatawny.jpg)

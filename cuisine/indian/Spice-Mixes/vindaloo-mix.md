@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Vindaloo Spice Mix
 
 ![Vindaloo Spice Mix](resources/vindaloo-mix.jpg)

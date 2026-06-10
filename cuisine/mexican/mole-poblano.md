@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Mole Poblano
 
 ![Mole Poblano](resources/mole-poblano.jpg)

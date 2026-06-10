@@ -90,7 +90,7 @@ Feteer meshaltet is the Egyptian layered pastry the country has been baking in c
 ## Notes
 - **Stretch paper-thin:** The signature of feteer is the dramatic flaky-layered cross-section. That happens only if each ball is stretched truly translucent - you should see your hand through the dough. Tears are fine; they fold over.
 - **Ghee, generously:** Don't be timid with the fat between layers. Feteer is rich by design; sparingly-oiled feteer is flat and bread-like.
-- **Hot oven, short bake:** 220°C is right. Lower temperatures give pale, undercooked layers. The bake is short (~25 min) because the dough is already thin.
+- **Hot oven, short bake:** 220°C is right. Lower temperatures give pale, undercooked layers. The bake is short (about 25 min) because the dough is already thin.
 
 ## Storage
 - Best within 4 hours of baking.

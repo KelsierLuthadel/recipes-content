@@ -4,7 +4,7 @@
 
 *Morocco's all-purpose green herb sauce: coriander, parsley, garlic, cumin, paprika, saffron and lemon, bound with good olive oil.*
 
-**Serves:** 6 (makes ~250 ml)
+**Serves:** 6 (makes about 250 ml)
 
 **Prep Time:** 10 minutes
 

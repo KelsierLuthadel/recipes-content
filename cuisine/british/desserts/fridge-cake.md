@@ -68,5 +68,5 @@ Garnish with: A dusting of cocoa powder or icing sugar just before serving.
 
 ## Storage
 - Keeps in an airtight tin at cool room temperature for up to 2 weeks.
-- Refrigerate on warm days; chocolate softens above ~22°C.
+- Refrigerate on warm days; chocolate softens above about 22°C.
 - Freezes well in airtight wrap for up to 3 months; defrost in the fridge before serving.

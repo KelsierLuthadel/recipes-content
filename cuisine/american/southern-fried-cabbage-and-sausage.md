@@ -20,7 +20,7 @@ A lighter, faster Southern cabbage dish than its heavier bacon-laden sibling: th
 - 1 cup chopped yellow onion
 - 4 garlic cloves (minced)
 - 2 teaspoons brown sugar
-- 1 medium head green cabbage (~900 g, chopped)
+- 1 medium head green cabbage (about 900 g, chopped)
 - 2 tablespoons apple cider vinegar
 - 2 teaspoons Creole Cajun seasoning
 - ¼ teaspoon ground nutmeg

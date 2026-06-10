@@ -32,7 +32,7 @@ A fast, fragrant, hands-on dish: medium shrimp roasted hard in a beer-and-butter
 1. Set the rack in the middle.
 
 ### Stage 2 - Build the dish
-1. In a 1-quart (~1 litre) oven-safe baking dish, combine the beer, allspice, minced Scotch bonnet, garlic, thyme and spring onion. Stir.
+1. In a 1-quart (about 1 litre) oven-safe baking dish, combine the beer, allspice, minced Scotch bonnet, garlic, thyme and spring onion. Stir.
 1. Add the shrimp in a single layer.
 1. Drizzle the melted butter over the top so every shrimp gets a swipe.
 

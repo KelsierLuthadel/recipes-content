@@ -83,7 +83,7 @@ Arroz de marisco (literally "seafood rice") is one of Portugal's most iconic coa
 2. Add the octopus and white fish; cook 5 minutes.
 3. Add the mussels and clams; cover the pot; cook 5 minutes till they open.
 4. Add the shrimp; cook 3 more minutes till pink.
-5. Total rice cooking time: ~21 minutes.
+5. Total rice cooking time: about 21 minutes.
 6. The dish should be brothy - not dry; add more hot stock if needed.
 
 ### Stage 6 - Finish

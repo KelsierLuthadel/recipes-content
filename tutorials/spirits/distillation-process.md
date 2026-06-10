@@ -58,9 +58,9 @@ A single distillation typically takes the spirit from 7-12% ABV to around 25-30%
 
 During distillation, different compounds vaporise at different temperatures. The distiller (or modern automated systems) separates the output into three streams:
 
-- **Heads** (also "foreshots"): the first ~5% of output. Contains methanol (the toxic alcohol), acetaldehyde and other volatile compounds with lower boiling points than ethanol. Discarded or reused as next batch's heads.
+- **Heads** (also "foreshots"): the first about 5% of output. Contains methanol (the toxic alcohol), acetaldehyde and other volatile compounds with lower boiling points than ethanol. Discarded or reused as next batch's heads.
 - **Hearts**: the middle 70-80% of output. This is the desirable, drinkable spirit - ethanol with a clean balance of flavour-bearing congeners.
-- **Tails**: the last ~15-20% of output. Contains heavier alcohols, water, and unpleasant compounds (fusel oils, propanol). Discarded or saved and added back to the next batch.
+- **Tails**: the last about 15-20% of output. Contains heavier alcohols, water, and unpleasant compounds (fusel oils, propanol). Discarded or saved and added back to the next batch.
 
 Knowing exactly when to make these "cuts" is the most important skill in distillation. Too early on the heads cut means the spirit contains methanol; too late on the tails cut means harsh fusel oils carry through.
 

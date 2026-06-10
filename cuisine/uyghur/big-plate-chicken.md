@@ -31,7 +31,7 @@ A dish that wears its multi-culture origin on its sleeve: chicken, potato and gr
 - ½ teaspoon chilli flakes
 - ½ teaspoon sweet paprika
 - 1 fresh red chilli (diagonally sliced)
-- 2 mild green peppers (~75 g, seeded, cut into triangles)
+- 2 mild green peppers (about 75 g, seeded, cut into triangles)
 - ½ mild red paprika (seeded, cut into triangles)
 - 360 g potatoes (peeled and cubed 3 cm)
 - 1 ½ tablespoons soy sauce

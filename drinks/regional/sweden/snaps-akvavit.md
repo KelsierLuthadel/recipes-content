@@ -72,7 +72,7 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 
 ### Stage 5 - The serving ritual
 1. Place the snaps glasses in the freezer 15 minutes before serving (or fill an ice bucket and rest the glasses on the ice).
-2. Pour the ice-cold snaps into each frosted glass to about ¾ full (~30 ml).
+2. Pour the ice-cold snaps into each frosted glass to about ¾ full (about 30 ml).
 3. Lay each glass on a small plate with a piece of pickled herring on crispbread alongside.
 
 ### Stage 6 - The snapsvisa (snaps song)

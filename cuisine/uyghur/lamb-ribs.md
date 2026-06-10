@@ -15,7 +15,7 @@ Lamb fat rendered slowly into a paprika-and-cumin glaze, with naan acting as bot
 
 ## Ingredients
 
-- 5 pieces lamb ribs (~1 kg total)
+- 5 pieces lamb ribs (about 1 kg total)
 - 100 ml olive oil
 - 2 teaspoons ground cumin (freshly ground if possible)
 - 1 teaspoon sweet paprika

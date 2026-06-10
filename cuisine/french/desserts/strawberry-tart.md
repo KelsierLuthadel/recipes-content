@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Strawberry Tart
 
 ![Strawberry tart](resources/strawberry-tart.jpg)

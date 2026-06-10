@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Spicy Sausage Calzone
 
 ![Spicy Sausage Calzone](resources/spicy-sausage-calzone.jpg)

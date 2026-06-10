@@ -46,7 +46,7 @@ Winemaking has two phases:
 - Active, vigorous bubbling.
 - Yeast multiplies rapidly to high cell counts.
 - Most of the alcohol is produced in this phase.
-- SG drops from starting (~1.090) to about 1.010.
+- SG drops from starting (about 1.090) to about 1.010.
 - Lasts 7-14 days.
 
 ### Secondary fermentation (days 14-60)

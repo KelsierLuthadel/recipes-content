@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Authentic Chicken Handi
 
 ![Authentic Chicken Handi](resources/BIR-Chicken-Handi.jpg)

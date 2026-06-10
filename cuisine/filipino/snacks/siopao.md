@@ -57,7 +57,7 @@ Siopao is the Filipino take on the Chinese steamed bun, brought to the Philippin
 1. Tip onto a plate; cool to room temperature.
 
 ### Stage 3 - Shape
-1. Knock back the risen dough; divide into 12 portions (~75 g each).
+1. Knock back the risen dough; divide into 12 portions (about 75 g each).
 1. Cover with a damp cloth.
 1. Take one ball; roll on a lightly floured surface to a 12 cm disc, thicker (5 mm) in the middle, thinner (2 mm) at the edges.
 1. Place a heaped tablespoon of filling in the centre.

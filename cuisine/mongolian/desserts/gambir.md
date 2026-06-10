@@ -39,7 +39,7 @@ Mongolia's layered sweet pastry, the kind of tea-time treat that turns up at eve
 
 ### Stage 2 - Divide
 1. Turn the rested dough onto the work surface.
-1. Divide into 6 equal portions (~100 g each).
+1. Divide into 6 equal portions (about 100 g each).
 1. Cover all but one with a damp tea towel.
 
 ### Stage 3 - Roll and laminate

@@ -4,7 +4,7 @@
 
 *Thailand's roasted chilli jam: dried chillies, shallots, garlic and dried shrimp pounded with palm sugar and tamarind into a smoky paste.*
 
-**Serves:** 8 (makes ~250 ml)
+**Serves:** 8 (makes about 250 ml)
 
 **Prep Time:** 15 minutes
 

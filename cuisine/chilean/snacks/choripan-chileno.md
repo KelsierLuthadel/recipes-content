@@ -16,7 +16,7 @@ Chile's street sandwich and the food that fuels any Sunday football game or summ
 ## Ingredients
 
 ### Sausages and rolls
-- 4 Chilean longaniza (or any good fresh chorizo / pork sausages; ~120 g each)
+- 4 Chilean longaniza (or any good fresh chorizo / pork sausages; about 120 g each)
 - 4 marraqueta rolls (or crusty hot-dog buns)
 - 2 tablespoons neutral oil
 

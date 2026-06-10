@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cucumber Raita
 
 ![Cucumber raita](resources/cucumber-raita.jpg)

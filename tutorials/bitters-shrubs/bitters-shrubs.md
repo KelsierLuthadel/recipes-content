@@ -28,7 +28,7 @@ Bitters and shrubs are different things with similar roles: both are concentrate
 
 **Origin:** 17th-19th-century method of preserving fresh fruit. Pre-refrigeration, vinegar acted as a preservative; the resulting shrub was used as a base for "shrub" (the drink — vinegar-fruit syrup mixed with water).
 
-**Modern revival:** since ~2010, craft cocktail bars have rediscovered shrubs as alternatives to citrus in cocktails. A blackberry shrub gives a sour-sweet fruity hit that fresh blackberry juice can't match. They're shelf-stable, work in carbonated drinks, and add a layer that's distinct from citrus.
+**Modern revival:** since about 2010, craft cocktail bars have rediscovered shrubs as alternatives to citrus in cocktails. A blackberry shrub gives a sour-sweet fruity hit that fresh blackberry juice can't match. They're shelf-stable, work in carbonated drinks, and add a layer that's distinct from citrus.
 
 **Uses:**
 - 30-50 ml in a Highball-style drink with soda water and gin (or vodka, or tequila).
@@ -47,7 +47,7 @@ This course covers:
 
 ## Why make your own
 
-- **Variety** — commercial bitters cover ~20 flavours; you can make 100s.
+- **Variety** — commercial bitters cover about 20 flavours; you can make 100s.
 - **Quality** — home-infused with good ingredients usually outperforms supermarket commercial.
 - **Customisation** — adjust intensity, sweetness, herb profile.
 - **Cost** — home-made aromatic bitters cost about £1.50 for a 100 ml batch; commercial Angostura is £8 for 100 ml.
@@ -76,7 +76,7 @@ This course covers:
 ## How to use the course
 
 1. Read all 4 content pages once, in order.
-2. Make a basic aromatic bitter following [aromatic-bitters.md](aromatic-bitters.md) — 2 weeks of waiting, ~30 minutes total work.
+2. Make a basic aromatic bitter following [aromatic-bitters.md](aromatic-bitters.md) — 2 weeks of waiting, about 30 minutes total work.
 3. Make a basic shrub from any seasonal fruit — same evening.
 4. After a month, you have your own bitters AND your own shrubs.
 

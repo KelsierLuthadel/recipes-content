@@ -11,7 +11,7 @@
 **Total time:** 3 months minimum, ideally 6 months
 
 ## Overview
-Sloe gin is one of the great British home traditions. Sloes are the fruit of the blackthorn tree (Prunus spinosa), a hardy hedgerow shrub found across most of the UK. The small (~1 cm) blue-black fruit are too tart and astringent to eat raw, but steeped in gin with sugar for several months, they release their pectin, anthocyanin pigments and tart-fruity flavour into the spirit, producing a deep ruby-red liqueur with a flavour reminiscent of cherries, almonds and autumn fruit.
+Sloe gin is one of the great British home traditions. Sloes are the fruit of the blackthorn tree (Prunus spinosa), a hardy hedgerow shrub found across most of the UK. The small (about 1 cm) blue-black fruit are too tart and astringent to eat raw, but steeped in gin with sugar for several months, they release their pectin, anthocyanin pigments and tart-fruity flavour into the spirit, producing a deep ruby-red liqueur with a flavour reminiscent of cherries, almonds and autumn fruit.
 
 The classic British tradition is to pick sloes after the first frost (usually mid-October to early November), which breaks the cell walls of the fruit and releases the juices. Modern home cooks usually skip the wait for frost and prick each sloe individually with a needle to achieve the same effect. The infusion takes a minimum of 3 months - most households start a batch in October or November and decant on Christmas Eve, which is exactly the right ageing time.
 

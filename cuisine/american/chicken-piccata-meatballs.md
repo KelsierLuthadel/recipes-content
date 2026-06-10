@@ -50,7 +50,7 @@ Chicken piccata, the Italian-American mid-century classic of pounded chicken cut
 
 ### Stage 2 - Meatballs
 1. Add the ground chicken; mix gently until just combined - don't overwork.
-1. Roll into ~20 meatballs. Wet hands help.
+1. Roll into about 20 meatballs. Wet hands help.
 
 ### Stage 3 - Brown
 1. Heat the oil in a wide skillet over medium heat.

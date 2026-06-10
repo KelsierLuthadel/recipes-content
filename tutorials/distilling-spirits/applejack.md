@@ -81,7 +81,7 @@ The technique works in a winter freeze (the original colonial method, with a bar
 
 ### Method
 
-1. **Start with 5 gallons of hard cider** at ~7% ABV.
+1. **Start with 5 gallons of hard cider** at about 7% ABV.
 2. **Place in a wide, shallow open container** - a clean food-grade plastic tub. Or in the original barrel.
 3. **Freeze at -5 to -10 °C** (a household chest freezer works; a winter night below freezing works).
 4. **Wait 24-48 hours.** Ice will form on the surface - a thick crust of clear ice. The liquid beneath is now slightly more alcoholic.

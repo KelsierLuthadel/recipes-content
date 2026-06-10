@@ -51,7 +51,7 @@ Trinidadian comfort food that brings together the East Indian and Afro-Caribbean
 1. Reduce heat to low.
 1. Add the roasted geera, anchar masala, remaining black pepper and curry powder. Stir 4 minutes - the spices should darken and release their oils.
 1. Pour in the seasoned water; increase to medium-high.
-1. Reduce by ~25% until the sauce deepens in colour.
+1. Reduce by about 25% until the sauce deepens in colour.
 
 ### Stage 4 - Combine
 1. Return the fried smelts to the pan.

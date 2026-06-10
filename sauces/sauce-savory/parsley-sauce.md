@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Parsley Sauce
 
 ![Parsley sauce](resources/parsley-sauce.png)

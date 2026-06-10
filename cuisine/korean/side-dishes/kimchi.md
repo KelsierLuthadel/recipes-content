@@ -4,7 +4,7 @@
 
 *The Korean side dish: napa cabbage salted overnight, then packed with gochugaru, garlic and fish sauce. Ferments deeper for weeks.*
 
-**Serves:** Makes a 1 ½ L jar (~20 servings)
+**Serves:** Makes a 1 ½ L jar (about 20 servings)
 
 **Prep Time:** 1 hour (plus 4 hours salting + 1-3 days fermenting)
 

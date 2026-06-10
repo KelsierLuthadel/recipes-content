@@ -24,11 +24,11 @@ A bowl of warm, slightly tangy tomato-and-lamb broth thickened by the starch of 
 - 155 g lamb (diced small)
 - 50 ml olive oil
 - 1 turnip (medium, purple-top or green-top, diced)
-- 1 potato (medium, ~120 g, diced small)
+- 1 potato (medium, about 120 g, diced small)
 - 1 red sweet pepper (diced)
 - ½ green bell pepper (diced)
 - 25 g fresh ginger (finely chopped)
-- 6 tomatoes (~220 g, finely chopped)
+- 6 tomatoes (about 220 g, finely chopped)
 - 1 onion (diced small)
 - 1 bulb garlic (finely chopped)
 - 1 teaspoon white pepper

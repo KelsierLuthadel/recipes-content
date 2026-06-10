@@ -4,7 +4,7 @@
 
 *The Loire's potted pork: shoulder slow-cooked for hours in its own fat with garlic and wine, shredded into jars, sealed with lard.*
 
-**Serves:** 8 (makes ~600 g in 2-3 small jars)
+**Serves:** 8 (makes about 600 g in 2-3 small jars)
 
 **Prep Time:** 20 minutes
 

@@ -20,7 +20,7 @@ The French hot dog (often called "hot-dog à la française" or just "hot dog" on
 - 1 tablespoon vegetable oil
 
 ### Bread
-- 1 large fresh baguette (about 60cm); cut into 4 sections of ~15cm each
+- 1 large fresh baguette (about 60cm); cut into 4 sections of about 15cm each
 
 ### Cheese
 - 250 g Gruyère cheese (grated); or 50/50 Gruyère + Emmental

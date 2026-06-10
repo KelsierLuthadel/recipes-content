@@ -47,7 +47,7 @@ Azerbaijan's everyday tea cookie, the soft melt-in-the-mouth shortbread that sit
 ### Stage 4 - Shape
 1. Heat the oven to 170°C (150°C fan).
 1. Line two baking trays with parchment.
-1. Pinch off walnut-sized pieces of dough (~25 g each); roll between your palms into balls.
+1. Pinch off walnut-sized pieces of dough (about 25 g each); roll between your palms into balls.
 1. Place on the trays, spaced 4 cm apart.
 1. Press each ball gently with the pad of your thumb to flatten slightly (don't squash flat - they should still be domed).
 

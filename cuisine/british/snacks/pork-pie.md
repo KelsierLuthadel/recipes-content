@@ -68,7 +68,7 @@ The British picnic pie and a Melton Mowbray institution: chopped seasoned pork i
 
 ### Stage 3 - Mould
 1. **With a tin**: Use an 18 cm round springform tin or a pork-pie tin. Press the larger portion of warm dough into the base and up the sides to a 5 mm thickness, ensuring no thin spots. Leave a small overhang at the top.
-1. **Freestanding (traditional Melton Mowbray)**: wrap the dough around the outside of a clean glass jar (about 12 cm diameter) into a cup shape, ~5 mm thick at the base and sides. Refrigerate 20 minutes to firm. Carefully remove the jar.
+1. **Freestanding (traditional Melton Mowbray)**: wrap the dough around the outside of a clean glass jar (about 12 cm diameter) into a cup shape, about 5 mm thick at the base and sides. Refrigerate 20 minutes to firm. Carefully remove the jar.
 
 ### Stage 4 - Fill
 1. Pack the meat filling tightly into the pastry case, pressing down firmly to eliminate air pockets and mounding it slightly above the edge.

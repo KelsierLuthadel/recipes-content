@@ -4,7 +4,7 @@
 
 *Sweden's tart-sweet lingonberry cordial: fresh or frozen lingonberries simmered with sugar and water into a tangy-sweet syrup, then diluted with cold sparkling water to make the traditional Swedish non-alcoholic table drink. The Swedish summer answer to American sodas; pink, mouth-puckering, and properly cold.*
 
-**Serves:** Makes about 1 litre syrup (yields ~8 litres of dilute drink, about 30 glasses)
+**Serves:** Makes about 1 litre syrup (yields about 8 litres of dilute drink, about 30 glasses)
 
 **Prep Time:** 10 minutes
 

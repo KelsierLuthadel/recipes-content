@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lemon Sauce
 
 ![Lemon sauce](resources/lemon-sauce.jpg)

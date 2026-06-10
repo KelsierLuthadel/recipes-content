@@ -84,11 +84,11 @@ If you slice brisket the moment it comes off the smoker, the juices run out and 
 For a 6 kg untrimmed brisket (4-5 kg after trimming):
 
 - 0:00 - Brisket on the smoker. Smoker at 110 C. Wood chunks added.
-- 3:00 - Internal at ~70 C. Stall begins. Smoke ring laid down.
+- 3:00 - Internal at about 70 C. Stall begins. Smoke ring laid down.
 - 6:00 - Internal still around 75-78 C. Stall in full effect. Bark is dark and hardened. Decision time: wrap or wait.
 - 6:30 - Wrap in butcher paper. Return to smoker.
-- 9:00 - Internal at ~85 C. Climbing past the stall.
-- 11:00 - Internal at ~93 C. Beginning to probe-test.
+- 9:00 - Internal at about 85 C. Climbing past the stall.
+- 11:00 - Internal at about 93 C. Beginning to probe-test.
 - 12:00 - Probe-tender at 95 C. Done.
 - 12:00-14:00 - Rest in insulated cooler.
 - 14:00 - Slice and serve.

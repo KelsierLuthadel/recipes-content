@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Moh Let Saung
 
 ![Moh Let Saung](resources/moh-let-saung.jpg)
@@ -43,7 +42,7 @@ Moh let saung sits at the boundary between drink and dessert. The let-saung are 
 ### Stage 1 - Make the let-saung noodles
 1. In a saucepan, whisk together the rice flour, tapioca starch, water, salt and pandan extract (if using) until completely smooth.
 1. Cook over medium heat, whisking constantly. The mixture will thicken in 4 to 6 minutes from a thin batter to a thick, sticky, smooth paste that pulls away from the pan sides. It should be glossy and stretchy.
-1. Off the heat, scoop the paste into a piping bag fitted with a small round tip (or a heavy zip-lock bag with a corner snipped off, ~5 mm hole). Have a large bowl of cold ice water ready.
+1. Off the heat, scoop the paste into a piping bag fitted with a small round tip (or a heavy zip-lock bag with a corner snipped off, about 5 mm hole). Have a large bowl of cold ice water ready.
 1. Pipe the paste in continuous lines into the cold water; the noodles will set instantly. Aim for noodles 3-5 cm long. Continue until all the paste is used.
 1. Let the noodles cool in the water for 5 minutes, then drain. Set aside.
 

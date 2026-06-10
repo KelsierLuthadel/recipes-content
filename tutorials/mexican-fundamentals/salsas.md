@@ -19,7 +19,7 @@ This page covers the four traditional "everyday" salsas. The recado / mole appro
 
 The everyday Mexican red salsa. Tomato-based, with a chilli kick, served warm or at room temperature.
 
-### Ingredients (makes ~400 ml)
+### Ingredients (makes about 400 ml)
 - 4 large ripe tomatoes (Roma / plum)
 - 2 dried guajillo chillies (or 2 fresh jalapeños for fresh-style)
 - 1 dried árbol chilli (omit for mild)
@@ -54,7 +54,7 @@ The everyday Mexican red salsa. Tomato-based, with a chilli kick, served warm or
 
 Tomatillo-based; tart, bright, slightly tangy. Pairs with rich proteins.
 
-### Ingredients (makes ~400 ml)
+### Ingredients (makes about 400 ml)
 - 8-10 fresh tomatillos (the small green tomato cousins, with papery husks)
 - 2 jalapeños (or serranos for spicier)
 - 1 small white onion
@@ -84,7 +84,7 @@ Tomatillo-based; tart, bright, slightly tangy. Pairs with rich proteins.
 
 Not blended; just chopped. Fresh, bright, completely uncooked.
 
-### Ingredients (makes ~400 ml)
+### Ingredients (makes about 400 ml)
 - 3 large ripe tomatoes (Roma; the firmer the better)
 - 1 small white onion
 - 1-2 jalapeños (deseeded if you want milder)
@@ -115,7 +115,7 @@ Not blended; just chopped. Fresh, bright, completely uncooked.
 
 A blended raw salsa; smoother than pico de gallo, brighter than salsa roja. The Mexican-grandma's everyday table salsa.
 
-### Ingredients (makes ~300 ml)
+### Ingredients (makes about 300 ml)
 - 3 large ripe tomatoes
 - 1 small white onion (chopped)
 - 1 jalapeño

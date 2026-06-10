@@ -33,7 +33,7 @@ Tirokafteri is the Greek spicy feta dip, the salty-creamy-fiery mezze that every
 
 ### Stage 1 - Prep
 1. If using a jarred roasted red pepper: drain well, pat dry with paper towel.
-1. If roasting your own: blister a whole pepper directly over a flame or under a hot grill until charred all over (~10 minutes). Steam in a covered bowl 10 minutes. Peel, deseed, drain.
+1. If roasting your own: blister a whole pepper directly over a flame or under a hot grill until charred all over (about 10 minutes). Steam in a covered bowl 10 minutes. Peel, deseed, drain.
 
 ### Stage 2 - Blend
 1. In a food processor, combine the feta (broken into chunks), cream cheese, roasted pepper, chillies (1 to start), peeled garlic, olive oil, vinegar, oregano and smoked paprika.

@@ -34,7 +34,7 @@ The journey:
 
 What makes dark, milk and white chocolate different is the recipe ratio of three ingredients: cocoa solids, cocoa butter, sugar (plus milk solids in milk and white).
 
-**Dark chocolate** is cocoa solids + cocoa butter + sugar. Sometimes lecithin (a tiny amount, ~0.5%, for flow). Sometimes vanilla. That is the whole list.
+**Dark chocolate** is cocoa solids + cocoa butter + sugar. Sometimes lecithin (a tiny amount, about 0.5%, for flow). Sometimes vanilla. That is the whole list.
 
 - 70% dark: 70% cocoa (combined mass and butter), 30% sugar
 - 80% dark: 80% cocoa, 20% sugar

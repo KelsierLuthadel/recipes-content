@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Fröccs (Hungarian Wine Spritzer)
 
 ![Fröccs](resources/froccs.jpg)

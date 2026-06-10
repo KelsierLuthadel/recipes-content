@@ -43,7 +43,7 @@ Ghriba is Morocco's almond shortbread, the cracked-snowy-topped biscuit that lan
 1. Heat the oven to 170°C (150°C fan).
 1. Line two baking trays with parchment.
 1. Spread the 150 g icing sugar on a wide plate.
-1. Pinch off walnut-sized portions (~30 g each); roll between palms into smooth balls.
+1. Pinch off walnut-sized portions (about 30 g each); roll between palms into smooth balls.
 1. Drop each ball into the icing sugar; roll to coat HEAVILY (not a dusting - a thick all-over snow).
 1. Place on the trays, 4 cm apart.
 1. Optional: press a whole almond into the centre of each ball.

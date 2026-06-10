@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tarte Tatin with Shortbread Crust
 
 ![Tarte Tatin with Shortbread Crust](resources/tarte-tatin-shortbread.jpg)

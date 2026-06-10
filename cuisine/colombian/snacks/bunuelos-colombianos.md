@@ -33,7 +33,7 @@ Buñuelos are the Christmas-morning Colombian snack, golden cheese-cornstarch ba
 1. Rest 10 minutes.
 
 ### Stage 2 - Shape
-1. Divide the dough into 20 walnut-sized portions (~25 g each).
+1. Divide the dough into 20 walnut-sized portions (about 25 g each).
 1. Roll each between palms into a smooth ball.
 
 ### Stage 3 - Fry

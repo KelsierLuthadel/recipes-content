@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tom Yum Goong
 
 ![Tom Yum Goong](resources/tom-yum-goong.jpg)

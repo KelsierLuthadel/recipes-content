@@ -4,7 +4,7 @@
 
 *Uyghur cut-out sugar-topped cookies. A simple oil-and-egg dough, rolled thin, cut into shapes, dipped sugar-side-down on a plate of sugar, baked until just-set. A childhood Uyghur snack served with milk tea.*
 
-**Serves:** Makes ~24 cookies
+**Serves:** Makes about 24 cookies
 
 **Prep Time:** 15 minutes (plus 10 minutes dough rest)
 

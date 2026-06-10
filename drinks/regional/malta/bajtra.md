@@ -75,7 +75,7 @@ Bajtra (the Maltese name for the prickly pear / Opuntia ficus-indica fruit) is M
 ## Variations
 **Without cinnamon/cloves:** pure prickly pear flavour.
 **With lemon zest:** add 2 tablespoons fresh lemon zest during maceration.
-**Stronger version:** use 96% neutral spirit + less water; reach ~30% ABV.
+**Stronger version:** use 96% neutral spirit + less water; reach about 30% ABV.
 **Sweeter version:** double the sugar syrup.
 **With orange blossom water:** add 1 teaspoon at the end - Maltese-Arab touch.
 

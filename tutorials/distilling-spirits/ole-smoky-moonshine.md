@@ -69,7 +69,7 @@ Single distillation. Apply the standard cuts:
 
 **Cut to bottling strength:**
 
-Unlike bourbon, no barrel cut required (no barrel). The hearts come off at ~75% ABV; cut directly to the desired bottling strength:
+Unlike bourbon, no barrel cut required (no barrel). The hearts come off at about 75% ABV; cut directly to the desired bottling strength:
 
 - **Traditional moonshine strength: 50% ABV (100 proof).** This is "White Lightnin'" territory.
 - **Stronger: 60-70% ABV.** "Mountain dew" or "white whiskey" at higher proofs.

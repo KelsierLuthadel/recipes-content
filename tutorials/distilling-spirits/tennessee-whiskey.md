@@ -47,7 +47,7 @@ The net effect: a softer, sweeter, more drinkable whiskey straight out of the ba
 
 The mash, ferment and distil stages are identical to [bourbon](bourbon.md) - high-corn mash bill, 90-minute conversion, 5-7 day fermentation, single pot-still distillation with foreshots/heads/hearts/tails cuts.
 
-The hearts come off the still at ~70-75% ABV.
+The hearts come off the still at about 70-75% ABV.
 
 ### The Lincoln County Process
 

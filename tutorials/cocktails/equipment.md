@@ -35,7 +35,7 @@ The flat metal strainer with a spring coil that fits the top of the Boston shake
 
 ### 5. A bar spoon
 
-Long-handled spoon (~30cm) with a twisted shaft. The twist is for stirring efficiently - you let the spoon spin between your fingers, the ice circles the glass, the drink chills without aerating. £4-6.
+Long-handled spoon (about 30cm) with a twisted shaft. The twist is for stirring efficiently - you let the spoon spin between your fingers, the ice circles the glass, the drink chills without aerating. £4-6.
 
 ### 6. Glassware
 

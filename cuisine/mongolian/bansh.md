@@ -4,7 +4,7 @@
 
 *Mongolia's small boiled dumplings: thumb-sized parcels of unleavened dough around seasoned mutton, simmered in salted water or in mutton broth.*
 
-**Serves:** 4 (makes ~60 bansh)
+**Serves:** 4 (makes about 60 bansh)
 
 **Prep Time:** 45 minutes
 

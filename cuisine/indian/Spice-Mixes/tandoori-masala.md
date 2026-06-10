@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tandoori Masala
 
 ![Tandoori Masala](resources/tandoori-masala.jpg)

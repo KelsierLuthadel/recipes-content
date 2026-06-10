@@ -56,7 +56,7 @@ This is the run. You have read [Safety](safety.md) by now.
 
 1. **Strain the wash** through cheesecloth or a wide-mesh strainer to remove the grain (the "spent grain" is fed to livestock or composted).
 2. **Charge the still** with the strained wash. Fill to 80% capacity.
-3. **Heat slowly.** Bring to ~78 °C. Watch the thermometer; cooling water flowing.
+3. **Heat slowly.** Bring to about 78 °C. Watch the thermometer; cooling water flowing.
 4. **First drops emerge.** These are foreshots. Discard. (50 ml per gallon of wash - for a 5-gallon batch, the first 250 ml.)
 5. **Heads.** The next 250-500 ml. Smell will be hot and grassy. Discard, or save in a separate "heads" jar for redistilling.
 6. **Hearts.** The middle 1.5-2 litres of the run. Clean spirit smell, sweetly alcoholic, parrot hydrometer reading 70-85% ABV early in the run, dropping toward 60-65% mid-run. This is your whiskey.

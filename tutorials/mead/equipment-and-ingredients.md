@@ -57,11 +57,11 @@ Honey is 80% sugar, 18% water, 2% nutrients/flavour/colour. The kind of honey yo
 
 Yeast eats the honey's sugar and converts it to alcohol. Mead yeast choices:
 
-- **D47 (Lalvin)** — the gold standard. Wine yeast. Clean, dry, good for traditional and fruit meads. Tolerates up to ~14% ABV. £2-3 per sachet.
-- **K1-V1116 (Lalvin)** — fruit-forward. Best for melomels (fruit meads). ~14-16% ABV tolerance.
+- **D47 (Lalvin)** — the gold standard. Wine yeast. Clean, dry, good for traditional and fruit meads. Tolerates up to about 14% ABV. £2-3 per sachet.
+- **K1-V1116 (Lalvin)** — fruit-forward. Best for melomels (fruit meads). about 14-16% ABV tolerance.
 - **EC-1118 (Lalvin Premier Cuvée / Lalvin Premier Blanc)** — champagne yeast. Very hardy, very dry; will ferment to 18%+ ABV. Less flavour development; better for sack (high-ABV) meads.
-- **71B-1122 (Lalvin)** — fruit/wine yeast that mellows malic acid. Good for cyser (apple mead). ~14% ABV.
-- **English ale yeast (Wyeast 1098 / Safale S-04)** — gives rounder, more honey-forward character. Lower ABV tolerance (~10%). Good for session meads.
+- **71B-1122 (Lalvin)** — fruit/wine yeast that mellows malic acid. Good for cyser (apple mead). about 14% ABV.
+- **English ale yeast (Wyeast 1098 / Safale S-04)** — gives rounder, more honey-forward character. Lower ABV tolerance (about 10%). Good for session meads.
 - **Wild yeast (Brettanomyces, Lactobacillus)** — advanced. For sour/funky mead styles. £4-8 per blend.
 
 For a first traditional mead: **D47**. For a first fruit mead: **K1-V1116**.
@@ -87,9 +87,9 @@ For a basic 5-litre traditional mead at 11-12% ABV:
 - 4 litres water (top up to 5 litres after honey is mixed in)
 - 1 sachet D47 yeast (5-10 g)
 - 5 g Fermaid O (staggered)
-- Starting gravity: ~1.090 (measured by hydrometer)
-- Final gravity (after fermentation): ~1.000 (dry)
-- ABV: ~12%
+- Starting gravity: about 1.090 (measured by hydrometer)
+- Final gravity (after fermentation): about 1.000 (dry)
+- ABV: about 12%
 
 A "sweet" or "sack" mead would use 1.5-2 kg honey for the same 5 litres and ferment to a higher gravity (yeast can't fully ferment all the sugar).
 
@@ -102,6 +102,6 @@ A first 5-litre batch costs:
 - Yeast + nutrient: £4-6
 - Bottling: £20-25 for 8 reusable flip-tops
 
-Total first batch: ~£75. Subsequent batches: ~£15-20 each (no kit cost).
+Total first batch: about £75. Subsequent batches: about £15-20 each (no kit cost).
 
 A 500 ml bottle of decent commercial mead retails at £15-25. Three or four bottles into your own brewing and you've broken even on the gear.

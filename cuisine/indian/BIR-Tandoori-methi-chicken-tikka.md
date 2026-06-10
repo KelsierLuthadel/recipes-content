@@ -66,7 +66,7 @@ BIR tandoori methi chicken tikka is the restaurant tandoori starter, marinated c
 ### Stage 6 - Cook chicken
 1. Light charcoal barbecue (two shoeboxes full) until white-hot.
 1. Skewer chicken with space between pieces.
-1. Grill one side until charred; flip and cook through (~10 mins total).
+1. Grill one side until charred; flip and cook through (about 10 mins total).
 1. Baste with melted butter just before done.
 1. Rest 5 mins; season with salt.
 

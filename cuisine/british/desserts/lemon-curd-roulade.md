@@ -15,7 +15,7 @@ Lemon curd meringue roulade is one of British baking's most enduringly popular d
 
 ## Ingredients
 
-### Lemon curd (makes ~400ml; you'll use about 300ml in the roulade, save the rest)
+### Lemon curd (makes about 400ml; you'll use about 300ml in the roulade, save the rest)
 - 4 large lemons (zest of 3, juice of all 4 - about 200 ml juice)
 - 200 g caster sugar
 - 100 g unsalted butter (cubed)

@@ -39,7 +39,7 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 
 ## Method
 
-### Stage 1 - Steep the crystal malt (Day 1 / Brew Day, ~15 mins)
+### Stage 1 - Steep the crystal malt (Day 1 / Brew Day, about 15 mins)
 1. Put 4 litres of cold water in the stockpot.
 1. Tie the crystal malt in a fine-mesh muslin bag (the steeping grains stay contained).
 1. Warm the water to 70°C, then drop the muslin bag in.
@@ -47,27 +47,27 @@ This recipe uses dry malt extract (DME) for cleaner flavour and ease of weighing
 1. Remove the muslin bag, drain into the pot, discard the spent grains.
 1. The water is now lightly amber and smells faintly of caramel.
 
-### Stage 2 - Add the malt extract (Day 1, ~10 mins)
-1. Add 16 litres more cold water to the pot (you now have ~20 litres total).
+### Stage 2 - Add the malt extract (Day 1, about 10 mins)
+1. Add 16 litres more cold water to the pot (you now have about 20 litres total).
 1. Bring to a gentle simmer.
 1. Off the heat (so the extract doesn't scorch on the bottom), gradually whisk in all the dry malt extract - both the 3 kg pale and the 500 g dark/amber. Stir continuously to prevent clumping.
 1. Once fully dissolved, return to medium heat and bring to a rolling boil. This is now your "wort" - the unfermented beer base.
 
-### Stage 3 - 60-minute boil with hops (Day 1, ~70 mins)
+### Stage 3 - 60-minute boil with hops (Day 1, about 70 mins)
 1. Once the wort reaches a rolling boil, start the 60-minute timer. Add the Fuggles hops immediately (this is the "60-minute addition" for bittering).
 1. Keep the boil rolling but not so hard that it foams over. A gentle but visible rolling boil is right.
 1. At 60 minutes minus 15 (so at the 45-minute mark on the timer), add 15 g of the East Kent Goldings hops.
 1. At 60 minutes minus 5 (so at the 55-minute mark), add the remaining 15 g of East Kent Goldings.
 1. At 60 minutes exactly, turn off the heat. Boil is complete.
 
-### Stage 4 - Cool the wort (Day 1, ~30 mins)
+### Stage 4 - Cool the wort (Day 1, about 30 mins)
 1. Cool the wort rapidly to 20-22°C. Options:
    - **Wort chiller**: place coil in the pot, run cold water through. 30 minutes typical.
    - **Ice bath**: place the pot in a sink filled with ice and cold water; stir occasionally. 45 minutes typical.
    - **Drift method (not recommended)**: let it cool naturally overnight; risks contamination.
 1. Confirm temperature is 20-22°C with the thermometer before proceeding.
 
-### Stage 5 - Transfer to fermenter and aerate (Day 1, ~10 mins)
+### Stage 5 - Transfer to fermenter and aerate (Day 1, about 10 mins)
 1. Sanitise the fermenter, airlock, hydrometer, trial jar and any siphons.
 1. Pour the cooled wort into the fermenter through a sanitised fine-mesh sieve to catch the spent hop debris. Pour from height to introduce air - yeast needs oxygen for the start of fermentation.
 1. Top up with cold sanitised water if you're short of 20 litres total in the fermenter.

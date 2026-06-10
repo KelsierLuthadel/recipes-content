@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Knafeh Naameh
 
 ![Knafeh Naameh](resources/knafeh-naameh.jpg)

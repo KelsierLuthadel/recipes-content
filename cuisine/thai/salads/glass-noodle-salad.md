@@ -58,7 +58,7 @@ Yum woon sen is Thailand's glass-noodle salad, slippery transparent cellophane n
 1. Transfer prawns to rest on noodles.
 
 ### Stage 5 - Cook pork
-1. Add minced pork to remaining water; cook on high, stirring, until water dissolves and pork is cooked (~5 mins).
+1. Add minced pork to remaining water; cook on high, stirring, until water dissolves and pork is cooked (about 5 mins).
 
 ### Stage 6 - Assemble salad
 1. Add prawns and pork to salad bowl.

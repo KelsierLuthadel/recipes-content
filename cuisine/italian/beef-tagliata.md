@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Beef Tagliata
 
 ![Beef Tagliata](resources/beef-tagliata.jpg)

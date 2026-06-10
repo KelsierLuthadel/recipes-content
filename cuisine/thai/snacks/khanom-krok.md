@@ -4,7 +4,7 @@
 
 *Thailand's coconut-cream dimples: rice-flour batter and pure coconut cream griddled into crisp-bottomed, custard-topped half-spheres.*
 
-**Serves:** 4 (makes ~24 half-spheres / 12 paired snacks)
+**Serves:** 4 (makes about 24 half-spheres / 12 paired snacks)
 
 **Prep Time:** 15 minutes (plus 2 hour batter rest)
 

@@ -26,10 +26,10 @@ When you distil a fermented wash, the vapour that boils off does NOT come over e
 
 | Stage | Boils at | Contains | Action |
 |---|---|---|---|
-| **Foreshots** | ~56 °C / 133 °F | Methanol, acetone, methyl acetate | **DISCARD ALL** |
-| **Heads** | ~78 °C / 172 °F | Lighter ethanol, some acetone and aldehydes | Discard or save for redistilling |
-| **Hearts** | ~78-82 °C / 172-180 °F | Clean ethanol | **KEEP** - this is your spirit |
-| **Tails** | ~82-95 °C / 180-203 °F | Heavier alcohols (fusel oils), water | Discard or save for redistilling |
+| **Foreshots** | about 56 °C / 133 °F | Methanol, acetone, methyl acetate | **DISCARD ALL** |
+| **Heads** | about 78 °C / 172 °F | Lighter ethanol, some acetone and aldehydes | Discard or save for redistilling |
+| **Hearts** | about 78-82 °C / 172-180 °F | Clean ethanol | **KEEP** - this is your spirit |
+| **Tails** | about 82-95 °C / 180-203 °F | Heavier alcohols (fusel oils), water | Discard or save for redistilling |
 
 **The foreshots cut is non-negotiable.** A 5-gallon wash will produce roughly 50-100 ml of foreshots. Throw it away. Do not taste it, do not save it, do not put it back into the next batch. Methanol is metabolised by the body into formic acid, which destroys the optic nerve and can cause death at quantities as small as 30 ml. This is not a hypothetical risk.
 
@@ -96,7 +96,7 @@ A spirit hydrometer measures the alcohol content of your distillate. You will us
 - **Always read at 20 °C (68 °F).** The reading is temperature-dependent; a warm sample reads artificially high. Either let the sample cool, or use a correction chart.
 - **Read at eye level, where the surface meets the scale.** The meniscus curves; the standard convention is the bottom of the meniscus.
 - **The parrot keeps the hydrometer floating continuously** during the run. Read it every 5-10 minutes; the ABV will start very high (75-90%), gradually drop through the heart of the run, and tail off into the tails.
-- **A separate "proofing" hydrometer** is used for diluting finished spirit. A new whiskey comes off the still at ~70% ABV; to bottle at 40% (the standard for most American whiskies) you add water until the proofing hydrometer reads 40.
+- **A separate "proofing" hydrometer** is used for diluting finished spirit. A new whiskey comes off the still at about 70% ABV; to bottle at 40% (the standard for most American whiskies) you add water until the proofing hydrometer reads 40.
 
 **ABV math:** Ethanol is 0.789 g/ml, water is 1.000 g/ml. If you cut a 70% ABV spirit to 40% ABV, you add (70/40 - 1) = 0.75 parts water by volume. A 500 ml jar of 70% ABV spirit needs 375 ml of water to bring it to 40%.
 

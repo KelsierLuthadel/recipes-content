@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lemon Custard
 
 ![Lemon custard](resources/lemon-custard.png)

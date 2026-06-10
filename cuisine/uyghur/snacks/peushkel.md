@@ -43,9 +43,9 @@ The most stripped-down Uyghur fried bread: flour, water, yeast, salt absent, sug
 1. Rest 5 minutes.
 
 ### Stage 3 - Shape and fry
-1. Heat the frying oil to ~170°C / 340°F.
+1. Heat the frying oil to about 170°C / 340°F.
 1. Take walnut-sized pieces of dough; roll each into a ball.
-1. Flatten with a rolling pin to ~1 cm thick rounds.
+1. Flatten with a rolling pin to about 1 cm thick rounds.
 1. Make two short slits down the middle of each round.
 1. Gently lower 3-4 rounds at a time into the oil; fry 2-3 minutes until light gold, turning once.
 1. Lift onto kitchen paper.

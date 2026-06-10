@@ -86,7 +86,7 @@ Char siu bao is the Cantonese dim-sum stalwart: soft pillowy white buns split op
 1. Eat warm, with tea, dipping into chilli oil if you like.
 
 ## Notes
-- **Low-protein flour matters:** The pillowy white texture of char siu bao depends on low-protein flour. Cake flour (~7% protein) gives the right tender crumb. Plain flour (~11%) gives chewier buns. If only plain is available, substitute 20 g of the flour with cornflour to lower the effective protein.
+- **Low-protein flour matters:** The pillowy white texture of char siu bao depends on low-protein flour. Cake flour (about 7% protein) gives the right tender crumb. Plain flour (about 11%) gives chewier buns. If only plain is available, substitute 20 g of the flour with cornflour to lower the effective protein.
 - **The top should crack open:** A bao that stays sealed at the top during steaming was either over-proofed or the seam was pinched too tightly. The traditional crack happens naturally if you leave a tiny visible seam and the dough is fresh-proofed.
 - **Cool the filling:** Hot filling tears wet dough. Spread thin and cool to room temperature before stuffing.
 

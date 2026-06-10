@@ -16,7 +16,7 @@ A handheld pastry that looks like a Cornish pasty but tastes nothing like one. T
 ## Ingredients
 
 ### Pastry
-- 3 ½ cups (~430 g) plain flour
+- 3 ½ cups (about 430 g) plain flour
 - 2 teaspoons salt
 - 1 tablespoon caster sugar
 - 1 tablespoon Jamaican curry powder
@@ -63,7 +63,7 @@ A handheld pastry that looks like a Cornish pasty but tastes nothing like one. T
 
 ### Stage 3 - Assemble and bake
 1. Preheat oven to 175°C / 350°F; line a baking sheet with parchment.
-1. Divide the chilled dough into 8 equal pieces (~140 g each).
+1. Divide the chilled dough into 8 equal pieces (about 140 g each).
 1. Roll each into a smooth ball, then flatten to a 3 mm disc, 15-18 cm diameter.
 1. Place 4 tablespoons of filling on one side of each disc.
 1. Fold the pastry over to a crescent; crimp the edges firmly with a fork.

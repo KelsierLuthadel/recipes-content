@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Fatayer Sabanikh
 
 ![Fatayer Sabanikh](resources/fatayer-sabanikh.jpg)

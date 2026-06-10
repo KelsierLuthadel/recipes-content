@@ -59,7 +59,7 @@ Nigeria's bus-stop pastry, the deep-fried savoury cigar that turns up in school 
 1. Cool to room temperature.
 
 ### Stage 3 - Shape
-1. Divide the dough into 12 portions (~70 g each).
+1. Divide the dough into 12 portions (about 70 g each).
 1. Roll each into a ball.
 1. Roll each ball on a lightly floured surface to a 12 cm circle, 3 mm thick.
 1. Place 2 tablespoons of cool filling in a 10 cm line down the centre of the circle.

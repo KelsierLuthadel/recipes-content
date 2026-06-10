@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Curried Mussel Sauce
 
 ![Curried mussel sauce](resources/curried-mussel-sauce.png)

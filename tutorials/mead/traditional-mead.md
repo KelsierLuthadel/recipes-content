@@ -54,10 +54,10 @@ Bubbling slows progressively. After 2-3 weeks, the airlock activity slows to one
 ### Track gravity
 Once a week, take a hydrometer reading. The gravity drops as the yeast converts sugar to alcohol.
 
-- Day 0: ~1.090 (sugar is high)
-- Day 7: ~1.030
-- Day 14: ~1.005
-- Day 21: ~1.000 or close
+- Day 0: about 1.090 (sugar is high)
+- Day 7: about 1.030
+- Day 14: about 1.005
+- Day 21: about 1.000 or close
 
 A reading of 1.000 (or below) for two consecutive weeks means primary fermentation is finished.
 

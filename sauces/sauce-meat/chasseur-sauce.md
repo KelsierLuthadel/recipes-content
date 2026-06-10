@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chasseur Sauce
 
 ![Chasseur sauce](resources/chasseur-sauce.png)

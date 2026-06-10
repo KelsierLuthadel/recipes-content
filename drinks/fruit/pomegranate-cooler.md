@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Pomegranate Cooler
 
 ![Pomegranate Cooler](resources/pomegranate-cooler.jpg)

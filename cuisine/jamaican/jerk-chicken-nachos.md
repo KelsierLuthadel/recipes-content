@@ -48,7 +48,7 @@ A Caribbean-American fusion that works because both food cultures speak the lang
 - pepper
 
 ### Nachos
-- 2 cups (~225 g) shredded cheese (Tillamook or similar)
+- 2 cups (about 225 g) shredded cheese (Tillamook or similar)
 - ½ cup black beans (drained, rinsed)
 - 1 bag tortilla chips
 - Cherry tomatoes (halved), to garnish

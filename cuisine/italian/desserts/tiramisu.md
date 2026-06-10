@@ -92,7 +92,7 @@ Coffee, mascarpone, and the patience to let the savoiardi soak up the espresso s
 - **Raw eggs:** Traditional Italian tiramisù uses raw eggs (in both the yolk-zabaglione and the whipped whites). The zabaglione step DOES cook the yolks lightly. If you're concerned about food safety (pregnant, immunocompromised), use pasteurised eggs (sold in cartons) OR whisk the yolks at the bain-marie for an extra 3 minutes to reach 71°C, OR skip the egg whites and substitute 200 ml whipped double cream folded in instead.
 - **Quick dip the savoiardi:** 1-2 seconds per side, no more. Long-soaked savoiardi disintegrate into the cream and the dessert becomes wet sponge. Italian savoiardi are designed to be dipped quickly - the dryness is the point.
 - **Marsala, rum or alcohol-free:** Sweet Marsala is the classic. Dark rum is the next best. Amaretto is great but pushes the dessert into a different flavour profile (almond-forward). Alcohol-free tiramisù just leaves out the booze - still good, slightly less complex.
-- **Mascarpone, not cream cheese:** Mascarpone is much higher fat (~45%) and almost sweet-tasting. Cream cheese is sour, lower fat, and makes a tiramisù that tastes like New York cheesecake. They are not interchangeable.
+- **Mascarpone, not cream cheese:** Mascarpone is much higher fat (about 45%) and almost sweet-tasting. Cream cheese is sour, lower fat, and makes a tiramisù that tastes like New York cheesecake. They are not interchangeable.
 
 ## Storage
 - Refrigerate 4 days; arguably best on day 2-3 when the layers fully set and flavours marry.

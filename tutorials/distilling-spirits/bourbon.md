@@ -68,7 +68,7 @@ A summary recap:
 
 **Cut to barrel strength:**
 1. Bourbon must enter the barrel at no more than 62.5% ABV.
-2. Your fresh hearts will be ~70-75% ABV. Cut with distilled water to exactly 62.5% (use the proofing hydrometer).
+2. Your fresh hearts will be about 70-75% ABV. Cut with distilled water to exactly 62.5% (use the proofing hydrometer).
 3. For typical 70% spirit: add 0.12 parts water by volume.
 
 **Age:**

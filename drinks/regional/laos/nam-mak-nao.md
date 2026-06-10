@@ -15,7 +15,7 @@ Nam mak nao is one of the simplest and most beloved Lao drinks: a Lao spin on le
 
 ## Ingredients
 
-### The palm-sugar syrup (makes 250 ml; enough for ~8 drinks)
+### The palm-sugar syrup (makes 250 ml; enough for about 8 drinks)
 - 100 g palm sugar (or soft dark muscovado as substitute)
 - 200 ml water
 - 1 pandan leaf, torn and knotted (optional but traditional)

@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tarte au Citron Brûlée (Cream-Set)
 
 ![Tarte au Citron Brûlée](resources/tarte-au-citron-brulee.jpg)

@@ -4,7 +4,7 @@
 
 *Denmark's summer elderflower cordial: fresh elderflowers steeped with sugar, citric acid, lemon and orange peel into a fragrant pale-gold syrup, then diluted with cold sparkling water. The traditional Danish summer non-alcoholic drink; brewed in every Danish summerhouse garden when the elder blooms in late May and June.*
 
-**Serves:** Makes about 1.5 litres syrup (yields ~10 litres of dilute drink)
+**Serves:** Makes about 1.5 litres syrup (yields about 10 litres of dilute drink)
 
 **Prep Time:** 20 minutes (plus 24-48 hours steeping)
 

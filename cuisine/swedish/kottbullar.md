@@ -15,7 +15,7 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the
 
 ## Ingredients
 
-### Meatballs (makes ~32 small)
+### Meatballs (makes about 32 small)
 - 300 g ground beef (80/20)
 - 300 g ground pork shoulder
 - 100 g panko or fresh white breadcrumbs
@@ -56,7 +56,7 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the
 2. Mix gently with clean hands till just combined (don't overwork; gives tough meatballs).
 
 ### Stage 3 - Shape
-1. Roll the mix into small uniform balls about 3 cm wide (~25 g each).
+1. Roll the mix into small uniform balls about 3 cm wide (about 25 g each).
 2. Place on a tray; refrigerate 15 minutes to firm up (helps them hold shape in the pan).
 
 ### Stage 4 - Brown the meatballs
@@ -86,7 +86,7 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost - the
 2. A small shot of ice-cold akvavit if going proper Swedish.
 
 ## Notes
-- **Small uniform balls (~25 g):** Swedish meatballs are smaller than Italian-American polpette. Don't supersize.
+- **Small uniform balls (about 25 g):** Swedish meatballs are smaller than Italian-American polpette. Don't supersize.
 - **Allspice is essential:** the traditional Swedish flavour note. Skip and you have a generic meatball.
 - **Soy sauce in the gravy:** the secret behind the deep brown colour and umami depth. Swedish home cooks use it; don't be surprised.
 - **All four accompaniments:** mash + gravy + lingonberry + cucumber salad. Each does work the others can't.

@@ -52,7 +52,7 @@ Tuscan summer salad invented to use up the day-old bread, and one of the clevere
 
 ### Stage 2 - Tomatoes
 1. Halve the tomatoes; squeeze out the seeds and juice into a sieve set over a bowl.
-1. Reserve the strained juice (~100 ml).
+1. Reserve the strained juice (about 100 ml).
 1. Roughly chop the deseeded tomato flesh into 2-3 cm pieces.
 
 ### Stage 3 - Cucumber and onion

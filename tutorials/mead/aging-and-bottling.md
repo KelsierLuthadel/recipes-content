@@ -141,7 +141,7 @@ Pour a small amount into a wine glass and taste. If it's lovely, you're there. I
 ## Long-term aging
 
 Some mead styles benefit from very long aging (18-36 months):
-- **Sack mead** (high-ABV traditional) — improves continuously up to ~36 months.
+- **Sack mead** (high-ABV traditional) — improves continuously up to about 36 months.
 - **Bochet** (caramelised honey) — the toffee notes mellow and integrate over 18+ months.
 - **Sour meads / Bretts** — develop their characteristic funk over 12-24 months.
 

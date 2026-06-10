@@ -4,7 +4,7 @@
 
 *Burgundy's apéritif puff: small choux-pastry rounds flavoured with grated Gruyère and Comté, baked till puffed and crisp outside, hollow within.*
 
-**Serves:** 6 (makes ~30 small gougères)
+**Serves:** 6 (makes about 30 small gougères)
 
 **Prep Time:** 25 minutes
 

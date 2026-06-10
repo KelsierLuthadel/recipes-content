@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tzatziki Sauce
 
 ![Tzatziki sauce](resources/tzatziki-sauce.png)

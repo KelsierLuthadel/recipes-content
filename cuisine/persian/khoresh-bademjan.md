@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Khoresh Bademjan
 
 ![Khoresh Bademjan](resources/khoresh-bademjan.jpg)

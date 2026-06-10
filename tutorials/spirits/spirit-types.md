@@ -95,7 +95,7 @@ Spirit distilled from grain mash, aged in oak barrels for a minimum legal period
 
 ### Scotch whisky
 - **Legal**: made in Scotland, aged minimum 3 years in oak barrels, bottled at 40%+ ABV. Single malt = single distillery, malted barley only. Single grain = single distillery, mixed grains. Blended = combination of single malts and/or grain whiskies.
-- **Made**: malted barley mash, double-distilled (sometimes triple in Lowland) in copper pot stills to ~70%, aged 3-25+ years in oak barrels (typically ex-bourbon or ex-sherry).
+- **Made**: malted barley mash, double-distilled (sometimes triple in Lowland) in copper pot stills to about 70%, aged 3-25+ years in oak barrels (typically ex-bourbon or ex-sherry).
 - **Regions**: Speyside (sweet, fruity), Highlands (varied, often peat-tinged), Islay (peaty, smoky, maritime), Lowlands (light, delicate), Campbeltown (briny, complex), Islands (varied).
 - **Tastes like**: depends entirely on region and producer. Speysiders taste of honey, dried fruit and oak; Islays taste of bonfire smoke, iodine and salt; etc.
 

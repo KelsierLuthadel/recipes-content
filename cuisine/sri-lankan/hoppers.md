@@ -48,7 +48,7 @@ Hoppers, known as appa in Sinhala, appam in Tamil, are the most distinctive brea
 1. The batter should now be pourable; if it's too thick, splash in a little more warm water.
 
 ### Stage 3 - Cook the hoppers
-1. Heat a hopper pan (small wok-shaped pan, ~15 cm) over medium-high. A small carbon-steel wok or non-stick wok-shaped pan works.
+1. Heat a hopper pan (small wok-shaped pan, about 15 cm) over medium-high. A small carbon-steel wok or non-stick wok-shaped pan works.
 1. Brush the inside lightly with coconut oil.
 1. Pour a ladleful of batter into the centre (about 80 ml).
 1. Immediately pick up the pan and swirl it in a circular motion so the batter coats the sides; the swirling creates the thin lacy walls and lets the centre pool.

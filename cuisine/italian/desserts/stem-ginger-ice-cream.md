@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Stem Ginger Ice Cream
 
 ![Stem ginger ice cream](resources/stem-ginger-ice-cream.jpg)

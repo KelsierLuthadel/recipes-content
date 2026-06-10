@@ -25,7 +25,7 @@ Kokis (pronounced "ko-kiss") is the Sri Lankan adaptation of the Dutch koekje (c
 - 100 ml cold water (more if needed)
 
 ### Equipment
-- A kokis iron (long-handled brass mould; from any Sri Lankan grocer, ~£8)
+- A kokis iron (long-handled brass mould; from any Sri Lankan grocer, about £8)
 - A deep pan or wok for frying
 - A slotted spoon
 

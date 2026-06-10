@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Anise Parfait
 
 ![Anise parfait](resources/anise-parfait.jpg)

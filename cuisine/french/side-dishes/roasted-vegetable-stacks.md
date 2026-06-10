@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Roasted Vegetable Stacks
 
 ![Roasted vegetable stacks](resources/roasted-vegetable-stacks.png)

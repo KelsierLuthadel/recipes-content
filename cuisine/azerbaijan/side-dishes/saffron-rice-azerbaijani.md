@@ -17,7 +17,7 @@ The everyday cousin of plov: the rice you cook on a Tuesday when there's no wedd
 - 500 g basmati rice
 - 2 tablespoons salt (for the par-boil)
 - 80 g unsalted butter
-- 1 large pinch saffron threads (~15 strands)
+- 1 large pinch saffron threads (about 15 strands)
 - 3 tablespoons boiling water
 
 ## Method

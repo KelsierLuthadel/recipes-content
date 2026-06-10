@@ -16,7 +16,7 @@ A burger that tastes like a Kashgar street kebab rather than a Western quarter-p
 ## Ingredients
 
 ### Patties
-- 200 g minced lamb (ideally ~20% fat)
+- 200 g minced lamb (ideally about 20% fat)
 - 1 white onion (finely chopped)
 - 1 egg
 - 2 teaspoons plain flour

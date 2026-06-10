@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chinese Chicken Stock
 
 ![Chinese Chicken Stock](resources/chinese-chicken-stock.jpg)

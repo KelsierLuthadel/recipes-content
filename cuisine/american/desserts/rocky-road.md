@@ -55,5 +55,5 @@ A no-bake fridge slab built on milk chocolate, butter and golden syrup, studded 
 
 ## Storage
 - Keeps for up to 2 weeks in an airtight container in a cool place.
-- Refrigerate in warmer weather; the chocolate softens above ~22°C.
+- Refrigerate in warmer weather; the chocolate softens above about 22°C.
 - Freezes well for up to 3 months wrapped tightly; defrost in the fridge.

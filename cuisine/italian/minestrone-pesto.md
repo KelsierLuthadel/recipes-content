@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Minestrone with Pesto
 
 ![Minestrone with pesto](resources/minestrone-pesto.jpg)

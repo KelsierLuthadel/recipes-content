@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Fennel Shellfish Laksa
 
 ![Fennel Shellfish Laksa](resources/fennel-shellfish-laksa.jpg)

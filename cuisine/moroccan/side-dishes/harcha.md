@@ -40,7 +40,7 @@ Harcha is Morocco's teatime semolina pan-bread: a dense, slightly crumbly disc c
 
 ### Stage 3 - Shape
 1. Spread the extra semolina on a plate.
-1. Divide the dough into 6 portions (~120 g each).
+1. Divide the dough into 6 portions (about 120 g each).
 1. Shape each into a flat disc 8 cm across and 1 ½ cm thick (use damp hands if it sticks).
 1. Press each disc into the extra semolina to coat both sides.
 

@@ -45,7 +45,7 @@ For grain alcohol you want maximum yield and minimum flavour - the multi-distill
 1. Charge the still with the whole wash. Heat aggressively.
 2. The strip run does not need careful cuts; the goal is to capture all the alcohol fast.
 3. Collect everything above 30% ABV. Discard the foreshots (50 ml/gallon). Don't try to separate heads/hearts/tails on this run.
-4. Result: ~3-4 litres of "low wines" at ~45-55% ABV.
+4. Result: about 3-4 litres of "low wines" at about 45-55% ABV.
 
 **Second distillation (spirit run):**
 1. Dilute the low wines with clean distilled water back to 25-30% ABV.
@@ -54,10 +54,10 @@ For grain alcohol you want maximum yield and minimum flavour - the multi-distill
 4. Discard the first 250 ml of heads.
 5. Collect hearts only - the middle of the run, ideally 80-90% ABV at the parrot.
 6. Cut when parrot reads below 80%.
-7. Result: ~2 litres of clean spirit at ~85-90% ABV.
+7. Result: about 2 litres of clean spirit at about 85-90% ABV.
 
 **Third distillation (concentration run):**
-1. Dilute the clean spirit back to ~30% ABV with distilled water.
+1. Dilute the clean spirit back to about 30% ABV with distilled water.
 2. Distil even more carefully. Tight cuts.
 3. Hearts will now reach 90-93% ABV at the parrot.
 4. Collect only the tightest middle of the run.
@@ -65,7 +65,7 @@ For grain alcohol you want maximum yield and minimum flavour - the multi-distill
 **Fourth and fifth distillations (if needed):**
 1. Repeat the dilution-to-30%-then-distil cycle.
 2. By the 4th or 5th run, hearts should reach 94-95% ABV.
-3. The yield drops with each run (some spirit is left as heads/tails); expect to end with ~1 litre of finished spirit from the original 5-gallon wash.
+3. The yield drops with each run (some spirit is left as heads/tails); expect to end with about 1 litre of finished spirit from the original 5-gallon wash.
 
 **Charcoal filtering (optional but recommended):**
 1. Filter the final high-proof spirit through activated coconut charcoal. Removes any last off-notes.

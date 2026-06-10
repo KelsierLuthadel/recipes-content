@@ -25,11 +25,11 @@ Doubling the barrel's linear dimensions multiplies volume by 8 but surface area 
 For specific common sizes:
 | Barrel | Volume (litres) | Surface area (cm²) | SA/Volume ratio |
 |---|---|---|---|
-| 53 gallon (commercial) | 200 | ~16,000 | 80 cm²/L |
-| 10 gallon (small craft) | 38 | ~6,500 | 170 cm²/L |
-| 5 gallon (family-scale) | 19 | ~4,200 | 220 cm²/L |
-| 2 gallon (mini) | 7.5 | ~2,300 | 305 cm²/L |
-| 1 litre (souvenir) | 1 | ~600 | 600 cm²/L |
+| 53 gallon (commercial) | 200 | about 16,000 | 80 cm²/L |
+| 10 gallon (small craft) | 38 | about 6,500 | 170 cm²/L |
+| 5 gallon (family-scale) | 19 | about 4,200 | 220 cm²/L |
+| 2 gallon (mini) | 7.5 | about 2,300 | 305 cm²/L |
+| 1 litre (souvenir) | 1 | about 600 | 600 cm²/L |
 
 The 5-gallon ratio is roughly 2.75x the 53-gallon ratio (220 / 80). Aging proceeds faster but not 4x faster - the relationship is not strictly linear because the wood's extraction rate slows as it gives up its accessible compounds. In practice, 6 months in 5-gallon ≈ 2-3 years in 53-gallon.
 

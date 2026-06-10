@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Falafel Palestinian
 
 ![Falafel Palestinian](resources/falafel-palestinian.jpg)
@@ -25,9 +24,9 @@ The Palestinian falafel is the herb-heavy, vividly green sort, the one whose int
 - 1 onion (medium, rough chunks)
 - 1 leek (small, white and pale green only, chopped) OR 4 spring onions
 - 5 garlic cloves
-- 1 large bunch fresh parsley (~50 g, leaves and fine stems)
-- 1 large bunch fresh coriander (~30 g)
-- 1 small bunch fresh dill (~15 g, optional, traditional)
+- 1 large bunch fresh parsley (about 50 g, leaves and fine stems)
+- 1 large bunch fresh coriander (about 30 g)
+- 1 small bunch fresh dill (about 15 g, optional, traditional)
 - 1 ½ teaspoons salt
 - 2 teaspoons ground cumin
 - 1 teaspoon ground coriander

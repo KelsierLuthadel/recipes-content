@@ -42,14 +42,14 @@ A fried dough with a glassy, slightly biscuit-crisp shell and a soft, chewy, sli
 
 ### Stage 3 - Shape and twist
 1. Divide the dough into 7 equal pieces.
-1. Roll each into a rope ~28 cm long and 2 cm thick.
+1. Roll each into a rope about 28 cm long and 2 cm thick.
 1. Hold one end of the rope steady; with the other hand, twist tight (multiple rotations).
 1. Lift the rope off the surface; bring the two ends together. The rope will counter-twist on itself into a tight spiral.
 1. Repeat 1-2 more rotations until the spiral has 3-4 visible twists; pinch the ends to seal.
 1. Lay on a tray; rest 15-30 minutes, flipping once for even rise.
 
 ### Stage 4 - Fry
-1. Heat the frying oil over medium-high heat to ~170°C / 340°F. Test with a wooden chopstick: small even bubbles around it means ready.
+1. Heat the frying oil over medium-high heat to about 170°C / 340°F. Test with a wooden chopstick: small even bubbles around it means ready.
 1. Lower the heat to its lowest setting.
 1. Gently add 3-4 twists at a time; fry 2 minutes per side, 4-5 minutes total, until deep gold.
 1. Lift onto kitchen paper to drain.

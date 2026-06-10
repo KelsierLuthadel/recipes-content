@@ -66,7 +66,7 @@ Bánh xèo chay is the vegetarian version of Vietnam's "sizzling pancake": a cri
 1. Heat 1 tablespoon of oil in a 24 cm non-stick or well-seasoned pan over medium-high heat.
 1. Add about a quarter of the mushrooms, tofu and onion; stir-fry 2 minutes with a pinch of salt.
 1. Spread out across the pan in a thin layer.
-1. Whisk the batter; pour about a quarter of it (~150 ml) over the filling; tilt to coat the pan in a thin layer.
+1. Whisk the batter; pour about a quarter of it (about 150 ml) over the filling; tilt to coat the pan in a thin layer.
 1. Reduce heat to medium; cook 3-4 minutes until the edges turn deep golden and lift away.
 1. Pile a small handful of beansprouts on one half.
 1. Slide a spatula under the other half; fold over; slide onto a plate.
