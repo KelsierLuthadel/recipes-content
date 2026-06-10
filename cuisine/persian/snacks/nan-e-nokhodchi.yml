@@ -15,6 +15,7 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 250
     unit: g

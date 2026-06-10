@@ -25,6 +25,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/braising
 ingredients:
   - qty: 800
     unit: g

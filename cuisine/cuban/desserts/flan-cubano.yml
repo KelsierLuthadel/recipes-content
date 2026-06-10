@@ -15,6 +15,7 @@ mentions:
   - tutorials/distilling-spirits/whisky
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 200
     unit: g

@@ -10,7 +10,8 @@ tags:
   - cream
   - chocolate
   - valentines
-mentions: []
+mentions:
+  - tutorials/chocolate/ganache
 ingredients:
   - qty: 280
     unit: g

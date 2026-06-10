@@ -1,0 +1,22 @@
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - bbq
+  - meat
+  - pork
+mentions:
+  - bread-pasta/burger-buns
+  - cuisine/american/pulled-pork
+  - cuisine/american/side-dishes/baked-beans
+  - cuisine/american/side-dishes/mac-and-cheese
+  - cuisine/mexican/cochinita-pibil
+  - tutorials/bbq/brisket
+  - tutorials/bbq/ribs
+  - tutorials/bbq/rubs-mops-sauces
+  - tutorials/charcuterie/bacon
+  - tutorials/charcuterie/smoking
+  - tutorials/indian-home-cooking/regional-traditions
+  - tutorials/pizza/sauce

@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chocolate Soufflé
 
 ![Chocolate Soufflé](resources/chocolate-souffle.jpg)

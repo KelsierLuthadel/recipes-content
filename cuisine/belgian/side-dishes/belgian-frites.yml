@@ -13,9 +13,11 @@ tags:
 mentions:
   - cuisine/belgian/carbonnade-flamande
   - cuisine/belgian/moules-frites
+  - tutorials/charcuterie/sausages
   - tutorials/cocktails/equipment
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/blanching
 ingredients:
   - qty: 1.5
     unit: kg

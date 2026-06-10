@@ -29,6 +29,7 @@ mentions:
   - cuisine/indian/BIR-chicken-curry
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/braising
 ingredients:
   - qty: 25
     unit: g

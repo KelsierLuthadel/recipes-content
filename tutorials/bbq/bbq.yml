@@ -1,0 +1,19 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - bbq
+mentions:
+  - cuisine/american/pulled-pork
+  - tutorials/bbq/brisket
+  - tutorials/bbq/low-and-slow
+  - tutorials/bbq/pulled-pork
+  - tutorials/bbq/ribs
+  - tutorials/bbq/rubs-mops-sauces
+  - tutorials/bbq/smoke-science
+  - tutorials/bbq/woods-and-fuels
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/stocks-sauces

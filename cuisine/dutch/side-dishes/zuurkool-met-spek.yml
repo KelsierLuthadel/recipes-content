@@ -14,9 +14,11 @@ tags:
   - potato
   - complex
 mentions:
+  - tutorials/charcuterie/bacon
   - tutorials/cocktails/garnish
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/braising
 ingredients:
   - qty: 700
     unit: g

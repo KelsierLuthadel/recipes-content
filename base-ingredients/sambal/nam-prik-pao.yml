@@ -17,9 +17,11 @@ tags:
   - coriander
   - chili
 mentions:
+  - tutorials/charcuterie/safety
   - tutorials/distilling-spirits/safety
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 55
     unit: g

@@ -15,6 +15,7 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/eggs/custards
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 500
     unit: ml

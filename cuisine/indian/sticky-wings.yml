@@ -16,9 +16,11 @@ tags:
   - ginger
   - lemon
 mentions:
+  - tutorials/charcuterie/safety
   - tutorials/distilling-spirits/safety
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 1
     unit: kg

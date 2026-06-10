@@ -11,7 +11,8 @@ tags:
   - eggs
   - chocolate
   - nuts
-mentions: []
+mentions:
+  - tutorials/sugar-work/fudge
 ingredients:
   - qty: 250
     unit: g

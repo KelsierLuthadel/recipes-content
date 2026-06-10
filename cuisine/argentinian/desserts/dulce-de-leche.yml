@@ -10,8 +10,11 @@ mentions:
   - cuisine/argentinian/desserts/alfajores
   - cuisine/argentinian/desserts/flan-dulce-de-leche
   - cuisine/french/desserts/crepes
+  - tutorials/charcuterie/safety
   - tutorials/distilling-spirits/safety
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+  - tutorials/sugar-work/crystallisation
 ingredients:
   - qty: 2
     unit: l

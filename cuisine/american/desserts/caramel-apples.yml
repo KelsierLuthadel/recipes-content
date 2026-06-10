@@ -12,7 +12,8 @@ tags:
   - cream
   - nuts
   - halloween
-mentions: []
+mentions:
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 6
     name: tart apples

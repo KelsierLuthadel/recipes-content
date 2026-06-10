@@ -10,7 +10,8 @@ tags:
   - baking
   - butter
   - chocolate
-mentions: []
+mentions:
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 750
     unit: g

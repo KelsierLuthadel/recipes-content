@@ -16,8 +16,10 @@ tags:
   - nuts
   - complex
 mentions:
+  - tutorials/chocolate/truffles
   - tutorials/cocktails/equipment
   - tutorials/spices/storage
+  - tutorials/sugar-work/fudge
 ingredients:
   - qty: 125
     unit: g

@@ -19,7 +19,9 @@ tags:
   - chili
   - complex
 mentions:
+  - tutorials/charcuterie/bacon
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 800
     unit: g

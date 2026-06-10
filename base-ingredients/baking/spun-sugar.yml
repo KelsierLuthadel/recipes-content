@@ -8,10 +8,12 @@ tags:
   - quick
   - make-ahead
 mentions:
+  - tutorials/charcuterie/safety
   - tutorials/cocktails/equipment
   - tutorials/cocktails/garnish
   - tutorials/distilling-spirits/safety
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 250
     unit: g

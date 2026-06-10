@@ -21,8 +21,10 @@ tags:
 mentions:
   - cuisine/french/snacks/chicken-liver-pate
   - cuisine/vietnamese/snacks/banh-mi
+  - tutorials/charcuterie/sausages
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/pickling
 ingredients:
   - qty: 200
     unit: g

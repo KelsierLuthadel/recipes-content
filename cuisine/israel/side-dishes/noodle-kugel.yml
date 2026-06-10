@@ -17,7 +17,8 @@ tags:
   - yom-kippur
   - sukkot
   - jewish
-mentions: []
+mentions:
+  - tutorials/bbq/brisket
 ingredients:
   - qty: 350
     unit: g

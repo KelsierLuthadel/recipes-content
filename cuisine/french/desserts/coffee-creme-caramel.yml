@@ -11,7 +11,8 @@ tags:
   - make-ahead
   - eggs
   - cream
-mentions: []
+mentions:
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 120
     unit: g

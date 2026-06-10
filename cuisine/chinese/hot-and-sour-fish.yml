@@ -16,9 +16,11 @@ tags:
   - onion
   - soy-sauce
 mentions:
+  - tutorials/charcuterie/smoking
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 350
     unit: g

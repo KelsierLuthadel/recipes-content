@@ -12,9 +12,12 @@ tags:
   - coriander
   - chili
 mentions:
+  - tutorials/bbq/ribs
+  - tutorials/charcuterie/sausages
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 300
     unit: g

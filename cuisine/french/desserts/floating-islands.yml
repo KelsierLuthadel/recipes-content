@@ -10,7 +10,8 @@ tags:
   - dessert
   - make-ahead
   - eggs
-mentions: []
+mentions:
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 2
     name: rhubarb stalks

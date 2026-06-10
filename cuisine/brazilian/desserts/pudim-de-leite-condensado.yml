@@ -15,6 +15,7 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 250
     unit: g

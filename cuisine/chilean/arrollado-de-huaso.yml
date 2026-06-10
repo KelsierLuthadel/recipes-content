@@ -24,6 +24,7 @@ mentions:
   - cuisine/chilean/ensalada-chilena
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - tutorials/vegetable-cookery/braising
 ingredients:
   - qty: 800
     unit: g

@@ -8,7 +8,8 @@ tags:
   - quick
   - dessert
   - eggs
-mentions: []
+mentions:
+  - tutorials/sugar-work/caramel
 ingredients:
   - qty: 200
     unit: g
