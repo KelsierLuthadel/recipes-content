@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Murgh Cholay
 
 ![Murgh Cholay](resources/murgh-cholay.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Profiteroles with Ice Cream and Chocolate Sauce
 
 ![Profiteroles with ice cream and chocolate sauce](resources/profiteroles.jpg)

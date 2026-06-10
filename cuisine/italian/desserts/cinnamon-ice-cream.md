@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cinnamon Ice Cream
 
 ![Cinnamon Ice Cream](resources/cinnamon-ice-cream.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Floating Islands with Rhubarb
 
 ![Floating islands](resources/floating-islands.jpg)

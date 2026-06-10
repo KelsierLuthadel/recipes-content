@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Authentic Enchilada Sauce
 
 ![Authentic Enchilada Sauce](resources/enchilada-sauce.png)

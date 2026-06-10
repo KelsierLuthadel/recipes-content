@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Salade Niçoise with Seared Tuna
 
 ![Salade Niçoise with Seared Tuna](resources/salade-nicoise-moderne.jpg)

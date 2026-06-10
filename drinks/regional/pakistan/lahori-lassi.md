@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lahori Sweet Lassi
 
 ![Lahori Sweet Lassi](resources/lahori-lassi.jpg)

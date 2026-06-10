@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Khao Soi (Northern Thai Curry Noodle Soup)
 
 ![Khao Soi](resources/khao-soi.jpg)

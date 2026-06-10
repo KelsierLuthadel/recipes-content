@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Pimientos de Padrón
 
 ![Pimientos de Padrón](resources/pimientos-de-padron.jpg)

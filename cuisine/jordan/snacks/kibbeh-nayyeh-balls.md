@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Kibbeh Nayyeh Balls (Fried)
 
 ![Kibbeh Nayyeh Balls](resources/kibbeh-nayyeh-balls.jpg)

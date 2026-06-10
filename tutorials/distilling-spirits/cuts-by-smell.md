@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cuts by Smell and Taste
 
 ![Cuts by Smell and Taste](resources/cuts-by-smell.jpg)

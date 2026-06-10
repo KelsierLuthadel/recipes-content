@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Mini Croquembouche
 
 ![Mini croquembouche](resources/mini-croquembouche.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lemon and Orange Meringue Pie
 
 ![Lemon and orange meringue pie](resources/lemon-orange-meringue-pie.jpg)

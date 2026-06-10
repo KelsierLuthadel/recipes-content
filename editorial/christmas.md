@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 ---
 name: Christmas Feast
 image: resources/christmas.jpg

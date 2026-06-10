@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Coffee Sabayon with Cinnamon
 
 ![Coffee sabayon with cinnamon](resources/coffee-sabayon.png)

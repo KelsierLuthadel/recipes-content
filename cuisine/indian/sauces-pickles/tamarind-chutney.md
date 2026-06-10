@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tamarind Chutney
 
 ![Tamarind Chutney](resources/tamarind-chutney.jpg)

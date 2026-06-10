@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cigares au Miel (Honey Almond Cigars)
 
 ![Cigares au Miel](resources/cigares-au-miel.jpg)

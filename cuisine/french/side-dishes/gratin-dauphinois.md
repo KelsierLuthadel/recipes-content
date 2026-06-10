@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Gratin Dauphinois
 
 ![Gratin Dauphinois](resources/gratin-dauphinois.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tartare Sauce
 
 ![Tartare Sauce](resources/tartare-sauce.png)

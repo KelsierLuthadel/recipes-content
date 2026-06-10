@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Herb Crêpes
 
 ![Herb crêpes](resources/herb-crepes.jpg)

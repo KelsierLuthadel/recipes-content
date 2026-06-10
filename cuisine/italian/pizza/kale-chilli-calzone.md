@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Kale and Chilli Calzone
 
 ![Kale and Chilli Calzone](resources/kale-chilli-calzone.jpg)

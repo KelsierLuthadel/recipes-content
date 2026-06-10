@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Butter Chicken
 
 ![Butter Chicken](resources/butter-chicken.png)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Bolinhos de Bacalhau
 
 ![Bolinhos de Bacalhau](resources/bolinhos-de-bacalhau.jpg)

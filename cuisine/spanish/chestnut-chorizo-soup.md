@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chestnut and Chorizo Soup
 
 ![Chestnut and Chorizo Soup](resources/chestnut-chorizo-soup.jpg)

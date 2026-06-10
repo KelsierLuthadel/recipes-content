@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chicken Katsu
 
 ![Chicken Katsu](resources/chicken-katsu.jpg)

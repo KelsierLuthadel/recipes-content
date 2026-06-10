@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Base Curry Powder
 
 ![Base Curry Powder](resources/base-curry-powder.jpg)

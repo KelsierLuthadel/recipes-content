@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chinese Sesame Prawn Toast
 
 ![Chinese Sesame Prawn Toast](resources/sesame-prawn-toast.jpg)

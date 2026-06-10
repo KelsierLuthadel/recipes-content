@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Yuca Con Chicharrón
 
 ![Yuca con Chicharrón](resources/yuca-con-chicharron.jpg)

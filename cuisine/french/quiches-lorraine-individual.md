@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Individual Quiches Lorraine
 
 ![Individual Quiches Lorraine](resources/quiches-lorraine-individual.jpg)

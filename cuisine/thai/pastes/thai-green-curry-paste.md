@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Thai Green Curry Paste
 
 ![Thai Green Curry Paste](resources/thai-green-curry-paste.jpg)

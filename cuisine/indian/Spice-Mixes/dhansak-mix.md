@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Dhansak Spice Mix
 
 ![Dhansak Spice Mix](resources/dhansak-mix.jpg)

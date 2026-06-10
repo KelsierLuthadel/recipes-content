@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Naan
 
 ![Naan](resources/naan.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Bercy Sauce
 
 ![Bercy sauce](resources/bercy-sauce.jpg)

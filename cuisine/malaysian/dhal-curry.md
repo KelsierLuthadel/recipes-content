@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Malaysian Dhal Curry
 
 ![Malaysian Dhal Curry](resources/dhal-curry.jpg)

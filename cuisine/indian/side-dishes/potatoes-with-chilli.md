@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Potatoes with Red Chillies
 
 ![Potatoes with red chillies](resources/potatoes-with-chilli.jpg)

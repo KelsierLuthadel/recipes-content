@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Peach Sauce
 
 ![Peach sauce](resources/peach-sauce.png)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lavender Ice Cream
 
 ![Lavender ice cream](resources/lavender-ice-cream.jpg)

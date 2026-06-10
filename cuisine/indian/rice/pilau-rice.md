@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Pilau Rice
 
 ![Pilau Rice](resources/pilau-rice.jpg)

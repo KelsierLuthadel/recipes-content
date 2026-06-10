@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Fiery Vegetables in Coconut Milk
 
 ![Fiery vegetables in coconut milk](resources/fiery-vegetables-in-coconut-milk.png)

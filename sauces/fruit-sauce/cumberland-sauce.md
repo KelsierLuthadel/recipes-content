@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cumberland Sauce
 
 ![Cumberland sauce](resources/cumberland-sauce.png)

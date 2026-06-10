@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Tamarind Sauce
 
 ![Tamarind sauce](resources/tamarind-sauce.png)

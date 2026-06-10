@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Caldo Verde
 
 ![Caldo Verde](resources/caldo-verde.jpg)

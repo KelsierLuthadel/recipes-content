@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Bigarade Sauce
 
 ![Bigarade sauce](resources/bigarade-sauce.png)

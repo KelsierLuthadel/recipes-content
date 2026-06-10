@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Raspberry Mousse
 
 ![Raspberry mousse](resources/raspberry-mousse.jpg)

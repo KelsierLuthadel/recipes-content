@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Plum Meringues
 
 ![Plum meringues](resources/plum-meringue.jpg)

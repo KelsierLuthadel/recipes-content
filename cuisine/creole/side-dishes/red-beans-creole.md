@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Red Beans (Creole)
 
 ![Red Beans (Creole)](resources/red-beans-creole.jpg)

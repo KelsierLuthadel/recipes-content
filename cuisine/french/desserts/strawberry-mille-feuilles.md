@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Glazed Strawberry Mille-Feuilles
 
 ![Strawberry mille-feuilles](resources/strawberry-mille-feuilles.jpg)

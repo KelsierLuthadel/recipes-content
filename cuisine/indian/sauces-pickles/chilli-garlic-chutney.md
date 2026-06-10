@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Kashmiri Red Chilli and Garlic Chutney
 
 ![Kashmiri Red Chilli Chutney](resources/chilli-garlic-chutney.jpg)

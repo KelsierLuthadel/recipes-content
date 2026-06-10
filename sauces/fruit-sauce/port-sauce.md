@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Port Sauce
 
 ![Port sauce](resources/port-sauce.png)

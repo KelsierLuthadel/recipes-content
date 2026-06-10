@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Cold Onion Chutney
 
 ![Cold Onion Chutney](resources/onion-chutney.jpg)

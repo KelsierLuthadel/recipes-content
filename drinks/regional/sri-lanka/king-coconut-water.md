@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # King Coconut Water (Thambili)
 
 ![King Coconut Water](resources/king-coconut-water.jpg)

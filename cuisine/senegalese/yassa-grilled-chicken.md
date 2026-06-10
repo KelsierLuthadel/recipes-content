@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Yassa Spice-Rubbed Grilled Chicken
 
 ![Yassa Spice-Rubbed Grilled Chicken](resources/yassa-grilled-chicken.jpg)

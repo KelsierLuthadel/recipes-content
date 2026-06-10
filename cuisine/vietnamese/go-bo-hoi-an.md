@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Go Bo Hoi an
 
 ![Go Bo Hoi An](resources/go-bo-hoi-an.jpg)

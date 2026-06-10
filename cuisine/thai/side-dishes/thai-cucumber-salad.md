@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Thai Cucumber Salad
 
 ![Thai cucumber salad](resources/thai-cucumber-salad.jpg)

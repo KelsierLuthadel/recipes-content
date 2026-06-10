@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Empanadas Peruanas (Peruvian Beef Empanadas)
 
 ![Empanadas Peruanas](resources/empanadas-peruanas.jpg)

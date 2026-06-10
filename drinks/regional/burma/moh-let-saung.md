@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Moh Let Saung
 
 ![Moh Let Saung](resources/moh-let-saung.jpg)

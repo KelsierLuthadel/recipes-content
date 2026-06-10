@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Chocolate Mousse, Lavender Crémeux and Berry Compote
 
 ![Chocolate mousse, lavender crémeux and berry compote](resources/chocolate-mousse.jpg)

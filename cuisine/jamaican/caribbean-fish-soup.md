@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Caribbean Fish Soup
 
 ![Caribbean fish soup](resources/caribbean-fish-soup.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Normandy Sauce
 
 ![Normandy sauce](resources/normandy-sauce.png)

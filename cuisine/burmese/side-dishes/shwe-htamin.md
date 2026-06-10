@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Shwe Htamin
 
 ![Shwe Htamin](resources/shwe-htamin.jpg)

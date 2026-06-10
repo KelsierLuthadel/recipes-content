@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Onion and Green Apple Chutney
 
 ![Onion and green apple chutney](resources/onion-apple-chutney.png)

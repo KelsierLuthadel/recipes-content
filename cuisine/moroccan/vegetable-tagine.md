@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Vegetable Tagine
 
 ![Vegetable Tagine](resources/vegetable-tagine.jpg)

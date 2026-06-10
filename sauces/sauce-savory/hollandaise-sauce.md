@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Hollandaise Sauce
 
 ![Hollandaise sauce](resources/hollandaise-sauce.png)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Spicy Peanut Balls
 
 ![Spicy peanut balls](resources/spicy-peanut-balls.jpg)

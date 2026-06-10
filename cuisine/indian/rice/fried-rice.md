@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Lemon and Garlic Fried Rice
 
 ![Lemon Garlic Fried Rice](resources/fried-rice.jpg)

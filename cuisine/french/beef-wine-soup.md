@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Beef and Wine Soup
 
 ![Beef and wine soup](resources/beef-wine-soup.jpg)

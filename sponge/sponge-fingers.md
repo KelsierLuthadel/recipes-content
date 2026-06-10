@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Sponge Fingers
 
 ![Sponge Fingers](resources/sponge-fingers.png)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Ginger Crème Brûlée
 
 ![Ginger Crème Brûlée](resources/ginger-creme-brulee.jpg)

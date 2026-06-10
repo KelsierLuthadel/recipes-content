@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Fruity Curry Sauce
 
 ![Fruity curry sauce](resources/fruit-curry-sauce.png)

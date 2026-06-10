@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Crawfish Pie (Mini)
 
 ![Crawfish Pie](resources/crawfish-pie.jpg)

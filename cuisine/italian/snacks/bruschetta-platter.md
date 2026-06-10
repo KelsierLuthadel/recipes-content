@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Bruschetta Platter (Tomato and Roasted Pepper)
 
 ![Bruschetta Platter](resources/bruschetta-platter.jpg)

@@ -1,3 +1,4 @@
+<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Korma Spice Mix
 
 ![Korma Spice Mix](resources/korma-mix.jpg)
