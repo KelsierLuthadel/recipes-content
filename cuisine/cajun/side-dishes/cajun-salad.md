@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Hot Cajun Potato Salad
 
 ![Hot cajun potato salad](resources/cajun-salad.jpg)

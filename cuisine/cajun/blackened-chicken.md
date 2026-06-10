@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Blackened Chicken
 
 ![Blackened Chicken](resources/blackened-chicken.jpg)
