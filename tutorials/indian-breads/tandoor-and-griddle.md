@@ -8,9 +8,9 @@
 
 Indian breads use three main cooking surfaces:
 
-1. **Tawa** (flat griddle) — for roti, chapati, paratha, akki roti.
-2. **Tandoor** (clay oven, 480°C) — for naan, kulcha, tandoori roti.
-3. **Deep oil** (180°C) — for puri, bhatura, kachori.
+1. **Tawa** (flat griddle) - for roti, chapati, paratha, akki roti.
+2. **Tandoor** (clay oven, 480°C) - for naan, kulcha, tandoori roti.
+3. **Deep oil** (180°C) - for puri, bhatura, kachori.
 
 Plus accessories: the open gas flame (for puffing roti); the baking stone (for home oven naan); the wok / kadhai (for deep-frying).
 
@@ -45,7 +45,7 @@ A well-seasoned cast iron tawa is naturally non-stick after this process and dev
 ### Cleaning the tawa
 
 - After cooking, scrape off any burnt bits with a flat spatula while still hot.
-- Wipe with a clean cloth or kitchen paper (don't wash with soap if cast iron — strips the seasoning).
+- Wipe with a clean cloth or kitchen paper (don't wash with soap if cast iron - strips the seasoning).
 - For non-stick or steel, wash normally.
 - Re-season cast iron occasionally if the surface looks dry.
 
@@ -71,7 +71,7 @@ At home, three approximations:
 - Higher heat than oven; closer to tandoor temperature.
 
 ### 3. Pizza oven (if you have one)
-- A wood-fired pizza oven runs at 350-450°C — very close to tandoor temperature.
+- A wood-fired pizza oven runs at 350-450°C - very close to tandoor temperature.
 - The bread cooks in 90-120 seconds on the stone floor.
 
 For most home kitchens, option 1 (baking stone in oven) is the best balance of access + result.
@@ -87,7 +87,7 @@ The roti has two cooked surfaces (after 30 sec on each side on the tawa). The do
 
 **Gas flame:**
 - Lift the roti off the tawa with tongs.
-- Hold directly over the open gas flame (not the side flame — the centre).
+- Hold directly over the open gas flame (not the side flame - the centre).
 - The roti will start to puff within 3-5 seconds. Watch it inflate.
 - Hold for 5-8 seconds total; the bottom should char slightly.
 - Flip; another 3-5 seconds on the other side.
@@ -103,12 +103,12 @@ The roti has two cooked surfaces (after 30 sec on each side on the tawa). The do
 
 ### When the puff doesn't happen
 
-- **Tawa side was over-cooked** — the inner moisture cooked away before the flame puff. Tawa-cook each side only 30-45 seconds.
-- **Roti has a small hole** — steam escapes. Roll more carefully.
-- **Roti is too thick** — too much dough for the steam to inflate. Roll thinner.
-- **Roti is too thin** — not enough dough to hold its shape; tears. Roll thicker.
-- **Flame too low** — Indian gas flames are typically high. Use the highest setting.
-- **Roti not fresh** — a refrigerated dough doesn't puff well. Use the dough within 2-3 hours of mixing.
+- **Tawa side was over-cooked** - the inner moisture cooked away before the flame puff. Tawa-cook each side only 30-45 seconds.
+- **Roti has a small hole** - steam escapes. Roll more carefully.
+- **Roti is too thick** - too much dough for the steam to inflate. Roll thinner.
+- **Roti is too thin** - not enough dough to hold its shape; tears. Roll thicker.
+- **Flame too low** - Indian gas flames are typically high. Use the highest setting.
+- **Roti not fresh** - a refrigerated dough doesn't puff well. Use the dough within 2-3 hours of mixing.
 
 ## Deep-fry temperature control
 
@@ -128,11 +128,11 @@ For puri, bhatura, kachori, the oil temperature is everything. The right range: 
 
 ### Oil choice
 
-- **Sunflower oil** — neutral, high smoke point (about 225°C). Default for Indian deep-frying.
-- **Rapeseed / canola oil** — same characteristics.
-- **Ghee** — flavoursome but expensive for deep-frying. Used in mithai (Indian sweets) deep-frying.
-- **Mustard oil** — distinctly pungent. Used in Bengali deep-frying.
-- **Sesame oil** — too strong-flavoured for general use; sometimes used for specific regional dishes.
+- **Sunflower oil** - neutral, high smoke point (about 225°C). Default for Indian deep-frying.
+- **Rapeseed / canola oil** - same characteristics.
+- **Ghee** - flavoursome but expensive for deep-frying. Used in mithai (Indian sweets) deep-frying.
+- **Mustard oil** - distinctly pungent. Used in Bengali deep-frying.
+- **Sesame oil** - too strong-flavoured for general use; sometimes used for specific regional dishes.
 
 ### Re-using oil
 
@@ -152,7 +152,7 @@ A technique to make puris ultra-puffy:
 4. Roll once more (now a thicker double-layered puri).
 5. Fry. The double-layered structure puffs more dramatically and stays inflated longer.
 
-This works for serving — the doubled puri stays puffy at the table while a single puri tends to deflate within 30 seconds of leaving the oil.
+This works for serving - the doubled puri stays puffy at the table while a single puri tends to deflate within 30 seconds of leaving the oil.
 
 ## Stone vs tawa: which to choose
 

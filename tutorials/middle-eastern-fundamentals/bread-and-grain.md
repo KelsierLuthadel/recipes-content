@@ -2,25 +2,25 @@
 
 ![Middle Eastern bread and grain](resources/bread.jpg)
 
-*Bread isn't a side dish in the Middle East — it's the utensil. You tear bread to scoop hummus, wrap it around kebab, hold it under a poached egg. The right bread is half the meal. The grains (bulgur, freekeh, rice) complete the carbohydrate picture.*
+*Bread isn't a side dish in the Middle East - it's the utensil. You tear bread to scoop hummus, wrap it around kebab, hold it under a poached egg. The right bread is half the meal. The grains (bulgur, freekeh, rice) complete the carbohydrate picture.*
 
 ## Overview
 
 Middle Eastern bread comes in several distinct types, each suited to a different role:
 
-- **Pita / khubz** — the round, slightly leavened pocket bread. Tears open into two thin discs. The everyday workhorse.
-- **Lavash** — thin, papery flatbread. Soft when fresh, crisp when dried. Used as a wrap (lavash wraps the kebab) or for scooping.
-- **Markook / saj** — extremely thin, large-diameter bread cooked on a domed griddle. Lebanese / Syrian.
-- **Taboon** — a thicker, slightly chewy flatbread cooked on hot stones (the taboon is the oven). Palestinian + Jordanian.
-- **Khubz Iraqi (samoon)** — football-shaped Iraqi white bread, slightly puffy.
-- **Aish baladi** (Egyptian) — round wholewheat pita-like bread, the daily Egyptian bread.
+- **Pita / khubz** - the round, slightly leavened pocket bread. Tears open into two thin discs. The everyday workhorse.
+- **Lavash** - thin, papery flatbread. Soft when fresh, crisp when dried. Used as a wrap (lavash wraps the kebab) or for scooping.
+- **Markook / saj** - extremely thin, large-diameter bread cooked on a domed griddle. Lebanese / Syrian.
+- **Taboon** - a thicker, slightly chewy flatbread cooked on hot stones (the taboon is the oven). Palestinian + Jordanian.
+- **Khubz Iraqi (samoon)** - football-shaped Iraqi white bread, slightly puffy.
+- **Aish baladi** (Egyptian) - round wholewheat pita-like bread, the daily Egyptian bread.
 
 And the grains:
 
-- **Bulgur** — cracked parboiled wheat. The base of tabbouleh, kibbeh, mujadara. Sold in fine, medium, and coarse grinds.
-- **Freekeh** — green wheat (young wheat) that's been smoked and dried. Earthy, smoky. Used in pilafs and stews.
-- **Rice** — basmati or long-grain. Used in pilafs, mansaf, maqluba, and as everyday rice.
-- **Couscous** — more North African than Levantine; small steamed semolina pellets.
+- **Bulgur** - cracked parboiled wheat. The base of tabbouleh, kibbeh, mujadara. Sold in fine, medium, and coarse grinds.
+- **Freekeh** - green wheat (young wheat) that's been smoked and dried. Earthy, smoky. Used in pilafs and stews.
+- **Rice** - basmati or long-grain. Used in pilafs, mansaf, maqluba, and as everyday rice.
+- **Couscous** - more North African than Levantine; small steamed semolina pellets.
 
 This page covers pita (the everyday focus), plus the key grain preparations.
 
@@ -64,7 +64,7 @@ The thin dough has just enough flour structure to hold its shape; the wet interi
 
 - 18-20 cm diameter, 1-2 cm tall (puffed).
 - Pale golden, with a few brown spots from the hot oven.
-- Hollow inside — split with a knife and you have a perfect pocket.
+- Hollow inside - split with a knife and you have a perfect pocket.
 - Soft and slightly chewy; never crispy.
 
 ## Other Middle Eastern breads
@@ -72,7 +72,7 @@ The thin dough has just enough flour structure to hold its shape; the wet interi
 ### Lavash
 Thin, large (30 cm+), papery. Made with flour + water + salt + a touch of yeast. Rolled super-thin (about 1 mm), cooked briefly on a hot saj or tandoor.
 
-Used as a wrap for kebabs (the famous Armenian / Iranian / Turkish style — meat + tomato + onion + herbs rolled in lavash); torn for scooping; dried into a crisp cracker (lavash chips).
+Used as a wrap for kebabs (the famous Armenian / Iranian / Turkish style - meat + tomato + onion + herbs rolled in lavash); torn for scooping; dried into a crisp cracker (lavash chips).
 
 ### Markook
 Same as lavash but typically larger and thinner. Lebanese / Syrian. Cooked on a domed metal griddle (saj). At home, a hot upturned wok over a gas flame can substitute.
@@ -92,9 +92,9 @@ Wholewheat pita-style bread. Slightly thicker and more substantial than Lebanese
 
 The cracked wheat that's the base of multiple Middle Eastern dishes. Available in three grades:
 
-- **Fine bulgur (#1)** — for kibbeh, kibbeh nayyeh, tabbouleh.
-- **Medium bulgur (#2)** — for mujadara, pilafs.
-- **Coarse bulgur (#3)** — for pilafs, stuffings, soups.
+- **Fine bulgur (#1)** - for kibbeh, kibbeh nayyeh, tabbouleh.
+- **Medium bulgur (#2)** - for mujadara, pilafs.
+- **Coarse bulgur (#3)** - for pilafs, stuffings, soups.
 
 ### Basic bulgur pilaf (medium)
 
@@ -145,7 +145,7 @@ Young green wheat, smoked over fire then dried. Has a distinct smoky, earthy fla
 6. Fluff with a fork; rest 10 min.
 7. Top with pine nuts and parsley.
 
-Freekeh is more complex than rice — slightly chewy, distinctly smoky, with a slightly tannic finish. It's the foundation of many Levantine meat-and-grain dishes.
+Freekeh is more complex than rice - slightly chewy, distinctly smoky, with a slightly tannic finish. It's the foundation of many Levantine meat-and-grain dishes.
 
 ## Rice (Middle Eastern style)
 
@@ -172,11 +172,11 @@ Middle Eastern rice is typically basmati or long-grain, cooked with whole spices
 
 ### Special rice dishes
 
-- **Mujadara** — rice + lentils cooked together; topped with caramelised onions. A Levantine staple.
-- **Maqluba** — "upside-down" rice + eggplant + chicken; cooked in a sealed pot, then flipped onto a platter. Palestinian / Jordanian celebration dish.
-- **Yakhnit al lahmeh** — lamb-and-rice stew.
-- **Mansaf** — Jordan's national dish: lamb cooked in jameed (fermented dried yogurt) over rice, with toasted pine nuts and parsley.
-- **Kabsa** — Saudi spiced rice with chicken or lamb. The Gulf national dish (covered in [cuisine/saudi/](../../cuisine/saudi/)).
+- **Mujadara** - rice + lentils cooked together; topped with caramelised onions. A Levantine staple.
+- **Maqluba** - "upside-down" rice + eggplant + chicken; cooked in a sealed pot, then flipped onto a platter. Palestinian / Jordanian celebration dish.
+- **Yakhnit al lahmeh** - lamb-and-rice stew.
+- **Mansaf** - Jordan's national dish: lamb cooked in jameed (fermented dried yogurt) over rice, with toasted pine nuts and parsley.
+- **Kabsa** - Saudi spiced rice with chicken or lamb. The Gulf national dish (covered in [cuisine/saudi/](../../cuisine/saudi/)).
 
 ## A bread-and-grain pantry
 
@@ -201,16 +201,16 @@ A working Middle Eastern kitchen has:
 
 ## Common mistakes
 
-- **Storing pita in plastic** — softens too much; goes stale fast. Use a paper bag or a clean tea towel.
-- **Skipping the bulgur soak** for tabbouleh — biting into raw cracked wheat is unpleasant. 30 min soak minimum.
-- **Overcooking freekeh** — gets gummy. Aim for tender-but-chewy.
-- **Using sushi rice or risotto rice** — wrong starch / texture. Basmati or long-grain is traditional.
-- **Buying old freekeh** — loses its smoky punch. Buy from a good Middle Eastern grocer; check the package date.
+- **Storing pita in plastic** - softens too much; goes stale fast. Use a paper bag or a clean tea towel.
+- **Skipping the bulgur soak** for tabbouleh - biting into raw cracked wheat is unpleasant. 30 min soak minimum.
+- **Overcooking freekeh** - gets gummy. Aim for tender-but-chewy.
+- **Using sushi rice or risotto rice** - wrong starch / texture. Basmati or long-grain is traditional.
+- **Buying old freekeh** - loses its smoky punch. Buy from a good Middle Eastern grocer; check the package date.
 
 ## Where to source
 
-- **Middle Eastern grocery shops** — for fresh pita, fresh za'atar pita, lavash, fresh herbs, and the traditional brands of bulgur, freekeh, tahini, pomegranate molasses.
-- **Online** — for niche items like proper Iraqi samoon, Palestinian taboon, fresh sumac.
-- **Supermarket** — for everyday pita, basic bulgur, basic tahini. Acceptable but not great.
+- **Middle Eastern grocery shops** - for fresh pita, fresh za'atar pita, lavash, fresh herbs, and the traditional brands of bulgur, freekeh, tahini, pomegranate molasses.
+- **Online** - for niche items like proper Iraqi samoon, Palestinian taboon, fresh sumac.
+- **Supermarket** - for everyday pita, basic bulgur, basic tahini. Acceptable but not great.
 
 The freshness of the bread matters more than the brand. A 3-day-old supermarket pita is sad; a 30-minute-old market pita is transformative.

@@ -27,14 +27,14 @@ Every recipe has two files in the same folder:
 
 ```
 cuisine/indian/Spice-Mixes/
-  chaat-masala.md      ← source of truth (you edit this)
-  chaat-masala.yml     ← derived snapshot (generated; do not edit by hand)
+  chaat-masala.md ← source of truth (you edit this)
+  chaat-masala.yml ← derived snapshot (generated; do not edit by hand)
 ```
 
 - **`.md`** holds the recipe prose: title, byline, hero image link, Overview, Ingredients, Method, Notes. This is the only file an author edits.
 - **`.yml`** is a machine-readable snapshot of the recipe's structured fields (prep / cook times, allergens, tags, mentions, parsed ingredient list). It's regenerated from the `.md` body by the build. Hand-edits will be overwritten on the next build, so don't.
 
-The `.yml` sidecar isn't used by the build itself — the build reads the `.md` body. The sidecar exists as a checked-in snapshot for external tooling, audit trails, and reviewable diffs of derived data.
+The `.yml` sidecar isn't used by the build itself - the build reads the `.md` body. The sidecar exists as a checked-in snapshot for external tooling, audit trails, and reviewable diffs of derived data.
 
 ---
 
@@ -266,10 +266,10 @@ You're replacing a hero with a better one (different source, better crop, higher
 2. **Check for cross-references.** Other recipes' `.yml` files may list this slug in their `mentions:` array. Search the catalogue:
 
    ```sh
-   grep -rl "tutorials/bread/gluten" .  # for example
+   grep -rl "tutorials/bread/gluten" . # for example
    ```
 
-   The build will rewrite those files' `mentions:` entries on the next run (the regen script drops stale slugs that no longer exist). No manual fixing needed, but you may see a flurry of unrelated `.yml` updates in your diff — that's the cascade.
+   The build will rewrite those files' `mentions:` entries on the next run (the regen script drops stale slugs that no longer exist). No manual fixing needed, but you may see a flurry of unrelated `.yml` updates in your diff - that's the cascade.
 
 3. **Run the build:**
 
@@ -291,7 +291,7 @@ All scripts run from `recipes-ui-next/`. They expect the `recipes-content/` repo
 | `npm run check:sync` | Same as `build-manifest` but the regen step runs in `--check` mode: it doesn't write, just exits non-zero if any `.yml` would drift. Lists the drifted recipe paths. | In CI / pre-commit, or before opening a PR to make sure you didn't forget to run the build. |
 | `node --experimental-strip-types scripts/build-manifest.mjs` | Just the manifest build. Doesn't touch `.yml`. | When you want a quick rebuild without sidecar regen. Rare. |
 | `node --experimental-strip-types scripts/regen-sidecars.mjs` | Just the sidecar regen. Reads the current `static/recipes.json` and writes any `.yml` that's drifted. Pass `--check` to abort instead of writing. | When you've manually edited a `.yml` and want to revert it to the body-derived form. |
-| `npm run dev` | Starts the SvelteKit dev server. | When you want to preview the changes in a browser. Reads `static/recipes.json` — you need to have built it first. |
+| `npm run dev` | Starts the SvelteKit dev server. | When you want to preview the changes in a browser. Reads `static/recipes.json` - you need to have built it first. |
 | `npm run check` | `svelte-check` over the SvelteKit app code. | Before opening a PR. Must be 0/0. |
 | `npm run test` | Vitest unit tests. | Before opening a PR. |
 
@@ -310,9 +310,9 @@ set -e
 if git diff --cached --name-only | grep -qE '\.(md|yml)$'; then
   (cd ../recipes-ui-next && npm run --silent check:sync) || {
     echo
-    echo "  Sidecar drift detected. Run 'npm run build-manifest' in" >&2
-    echo "  recipes-ui-next/, commit the resulting .yml changes," >&2
-    echo "  and retry your commit." >&2
+    echo " Sidecar drift detected. Run 'npm run build-manifest' in" >&2
+    echo " recipes-ui-next/, commit the resulting .yml changes," >&2
+    echo " and retry your commit." >&2
     exit 1
   }
 fi
@@ -362,10 +362,10 @@ Either layer catches the "forgot to rebuild after editing the `.md`" mistake. Bo
 ## Common gotchas
 
 - **"My change isn't showing up."** Run `npm run build-manifest`. The dev server reads the built `static/recipes.json`; if you skipped the build, the site is stale.
-- **"My recipe doesn't have a `gluten-free` tag but I think it should."** Diet tags are derived from regex scans of the Ingredients block. A line like `Gluten-free warning: contains wheat in some asafoetida brands` in the Notes section won't add `gluten-free` — but it also won't cause a false positive (the scan is scoped to the `## Ingredients` block only).
-- **"The build says 'missing prep, missing cook' on a tutorial page."** Tutorial pages don't need prep/cook times — the build accepts that and emits them as `null` in the manifest. The migrator's "flagged" log line is informational, not an error.
+- **"My recipe doesn't have a `gluten-free` tag but I think it should."** Diet tags are derived from regex scans of the Ingredients block. A line like `Gluten-free warning: contains wheat in some asafoetida brands` in the Notes section won't add `gluten-free` - but it also won't cause a false positive (the scan is scoped to the `## Ingredients` block only).
+- **"The build says 'missing prep, missing cook' on a tutorial page."** Tutorial pages don't need prep/cook times - the build accepts that and emits them as `null` in the manifest. The migrator's "flagged" log line is informational, not an error.
 - **"I edited a `.yml` to fix something and the build wiped it."** The `.yml` is derived. To fix the data, fix the body line that produces it.
-- **"Two recipes have the same slug."** The build doesn't deduplicate by slug — last-writer-wins on the manifest. Rename the file before this bites you in cross-references.
+- **"Two recipes have the same slug."** The build doesn't deduplicate by slug - last-writer-wins on the manifest. Rename the file before this bites you in cross-references.
 
 ---
 
@@ -373,30 +373,30 @@ Either layer catches the "forgot to rebuild after editing the `.md`" mistake. Bo
 
 ```
                   ┌─────────────────────────────────────┐
-                  │  recipes-content/<slug>.md          │
-                  │  (source of truth - author edits)   │
+                  │ recipes-content/<slug>.md │
+                  │ (source of truth - author edits) │
                   └────────────────────┬────────────────┘
                                        │
                                        ▼
               ┌──────────────────────────────────────────────┐
-              │  scripts/build-manifest.mjs                   │
-              │  - extractPrepTime, extractCookTime           │
-              │  - deriveAllergens, deriveTags                │
-              │  - detectMentions                             │
-              │  - extractIngredientText / IngredientNames    │
+              │ scripts/build-manifest.mjs │
+              │ - extractPrepTime, extractCookTime │
+              │ - deriveAllergens, deriveTags │
+              │ - detectMentions │
+              │ - extractIngredientText / IngredientNames │
               └────────────┬──────────────┬───────────────────┘
-                           │              │
-                           ▼              ▼
-            ┌───────────────────────┐  ┌──────────────────────────┐
-            │  static/recipes.json  │  │  scripts/regen-sidecars  │
-            │  (runtime manifest)   │  │  reads the manifest,     │
-            └───────────────────────┘  │  writes per-recipe .yml  │
+                           │ │
+                           ▼ ▼
+            ┌───────────────────────┐ ┌──────────────────────────┐
+            │ static/recipes.json │ │ scripts/regen-sidecars │
+            │ (runtime manifest) │ │ reads the manifest, │
+            └───────────────────────┘ │ writes per-recipe .yml │
                                        └─────────────┬────────────┘
                                                      │
                                                      ▼
                               ┌─────────────────────────────────────┐
-                              │  recipes-content/<slug>.yml         │
-                              │  (derived snapshot - never edited)  │
+                              │ recipes-content/<slug>.yml │
+                              │ (derived snapshot - never edited) │
                               └─────────────────────────────────────┘
 ```
 

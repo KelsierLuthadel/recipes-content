@@ -8,35 +8,35 @@
 
 This page covers the practical applications:
 
-1. **In cocktails** — where the bartender uses each.
-2. **In soft drinks** — non-alcoholic applications.
-3. **In cooking** — yes, you can cook with bitters and shrubs.
-4. **Pairing principles** — what flavour-combinations work.
+1. **In cocktails** - where the bartender uses each.
+2. **In soft drinks** - non-alcoholic applications.
+3. **In cooking** - yes, you can cook with bitters and shrubs.
+4. **Pairing principles** - what flavour-combinations work.
 
 ## Bitters in cocktails
 
-The "rule": 2-3 dashes of bitters in a 75-100 ml cocktail. A dash is approximately 0.5-1 ml — small. Too much bitters and the cocktail becomes bitter-dominant; too little and they contribute nothing.
+The "rule": 2-3 dashes of bitters in a 75-100 ml cocktail. A dash is approximately 0.5-1 ml - small. Too much bitters and the cocktail becomes bitter-dominant; too little and they contribute nothing.
 
 ### Where each bitter goes
 
 **Aromatic bitters (Angostura-style):**
-- Old Fashioned — 2-3 dashes. Essential.
-- Manhattan — 2 dashes.
-- Whisky Sour — 2 dashes on the foam (decorative + functional).
-- Sazerac — 4 dashes Peychaud's (different style of aromatic).
-- Champagne cocktail — 2 dashes onto a sugar cube.
+- Old Fashioned - 2-3 dashes. Essential.
+- Manhattan - 2 dashes.
+- Whisky Sour - 2 dashes on the foam (decorative + functional).
+- Sazerac - 4 dashes Peychaud's (different style of aromatic).
+- Champagne cocktail - 2 dashes onto a sugar cube.
 
 **Citrus bitters:**
-- Martini — 1-2 dashes orange bitters with gin + vermouth.
-- Negroni — 1 dash orange bitters can brighten.
-- Champagne cocktail — 1 dash orange bitters alongside Angostura.
-- Aviation — 2 dashes orange bitters (some bartenders add).
-- Gin and tonic — 1 dash orange bitters lifts the cocktail.
+- Martini - 1-2 dashes orange bitters with gin + vermouth.
+- Negroni - 1 dash orange bitters can brighten.
+- Champagne cocktail - 1 dash orange bitters alongside Angostura.
+- Aviation - 2 dashes orange bitters (some bartenders add).
+- Gin and tonic - 1 dash orange bitters lifts the cocktail.
 
 **Speciality bitters:**
-- Mole bitters (with cacao + chilli) — in tequila cocktails (Mezcal Old Fashioned).
-- Coffee bitters — in espresso martinis, bourbon cocktails, dessert drinks.
-- Saffron / herbal bitters — in champagne cocktails, after-dinner drinks.
+- Mole bitters (with cacao + chilli) - in tequila cocktails (Mezcal Old Fashioned).
+- Coffee bitters - in espresso martinis, bourbon cocktails, dessert drinks.
+- Saffron / herbal bitters - in champagne cocktails, after-dinner drinks.
 
 ### The mixology principle
 
@@ -67,8 +67,8 @@ Shrubs are more substantial pours: typically 20-50 ml per drink. They replace or
 ### Shrubs vs citrus
 
 A shrub does the work of citrus (sourness) but with additional layers:
-- Pure citrus (lemon/lime juice) — clean, bright, sharp.
-- Shrub (e.g. blackberry) — fruity, tart, with body and depth.
+- Pure citrus (lemon/lime juice) - clean, bright, sharp.
+- Shrub (e.g. blackberry) - fruity, tart, with body and depth.
 
 Substituting shrub for citrus in a cocktail transforms it: a Margarita with raspberry shrub instead of half the lime juice becomes a raspberry-margarita. A Whisky Sour with apple shrub instead of half the lemon becomes an autumn-warming variant.
 
@@ -122,13 +122,13 @@ When pairing bitters or shrubs with spirits, the traditional principles:
 
 Imagine a small home-bar menu with 4 cocktails, each demonstrating bitters + shrubs:
 
-1. **Blackberry-Sage Bourbon Smash** — 60 ml bourbon + 30 ml blackberry-sage shrub + 1 dash aromatic bitters + crushed ice + sage sprig. Stirred in a rocks glass.
+1. **Blackberry-Sage Bourbon Smash** - 60 ml bourbon + 30 ml blackberry-sage shrub + 1 dash aromatic bitters + crushed ice + sage sprig. Stirred in a rocks glass.
 
-2. **Apple Shrub Old Fashioned** — 60 ml rye + 15 ml spiced apple shrub + 2 dashes aromatic bitters + 1 large ice cube + orange twist. Stirred in a rocks glass.
+2. **Apple Shrub Old Fashioned** - 60 ml rye + 15 ml spiced apple shrub + 2 dashes aromatic bitters + 1 large ice cube + orange twist. Stirred in a rocks glass.
 
-3. **Strawberry-Basil Spritz** — 30 ml strawberry-basil shrub + 100 ml prosecco + 50 ml soda water + lemon wedge + basil sprig. Built in a wine glass over ice.
+3. **Strawberry-Basil Spritz** - 30 ml strawberry-basil shrub + 100 ml prosecco + 50 ml soda water + lemon wedge + basil sprig. Built in a wine glass over ice.
 
-4. **Ginger-Honey Switchel** (non-alcoholic) — 30 ml ginger-honey oxymel + 200 ml sparkling water + lime wedge + ice. Built in a tall glass.
+4. **Ginger-Honey Switchel** (non-alcoholic) - 30 ml ginger-honey oxymel + 200 ml sparkling water + lime wedge + ice. Built in a tall glass.
 
 Each cocktail demonstrates a different shrub style. Each is interesting and reproducible.
 
@@ -142,10 +142,10 @@ Each cocktail demonstrates a different shrub style. Each is interesting and repr
 
 ## Common mistakes
 
-- **Using bitters as a "main" ingredient** — they're a seasoning, not a base. 2-3 dashes is enough.
-- **Using shrubs as a "subtle" ingredient** — they need to be pourable amounts (20-50 ml) to register. 5 ml of shrub does nothing.
-- **Combining too many flavours** — a cocktail with aromatic bitters + orange bitters + a fruit shrub + bitter Campari is too busy. Pick two or three layers.
-- **Skipping the citrus in a shrub-and-spirit cocktail** — the shrub provides some sourness but often not enough. Add a few drops of fresh citrus alongside.
+- **Using bitters as a "main" ingredient** - they're a seasoning, not a base. 2-3 dashes is enough.
+- **Using shrubs as a "subtle" ingredient** - they need to be pourable amounts (20-50 ml) to register. 5 ml of shrub does nothing.
+- **Combining too many flavours** - a cocktail with aromatic bitters + orange bitters + a fruit shrub + bitter Campari is too busy. Pick two or three layers.
+- **Skipping the citrus in a shrub-and-spirit cocktail** - the shrub provides some sourness but often not enough. Add a few drops of fresh citrus alongside.
 
 ## Where to go next
 

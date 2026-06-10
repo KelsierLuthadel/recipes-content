@@ -2,7 +2,7 @@
 
 ![Paratha](resources/paratha.jpg)
 
-*The paratha is a roti with ambition. Same dough, but laminated with ghee through repeated rolls-and-folds, then cooked on a tawa with more ghee. The result is a flaky, layered bread that's the traditional Indian breakfast. The stuffed variants — aloo paratha, gobi paratha, paneer paratha — are full meals in themselves.*
+*The paratha is a roti with ambition. Same dough, but laminated with ghee through repeated rolls-and-folds, then cooked on a tawa with more ghee. The result is a flaky, layered bread that's the traditional Indian breakfast. The stuffed variants - aloo paratha, gobi paratha, paneer paratha - are full meals in themselves.*
 
 ## Overview
 
@@ -10,12 +10,12 @@ A paratha is built from the same dough as a roti but uses a lamination technique
 
 Two main families:
 
-1. **Plain (layered) parathas** — the dough is laminated and rolled into rounds or triangles. The flaky layers are the point. Lachha paratha (multi-layer) and triangle paratha are the traditional forms.
-2. **Stuffed parathas** — a small portion of spiced filling (potato / cauliflower / paneer / radish / lentil) is sealed inside the dough before rolling. The result is a bread that's also the protein.
+1. **Plain (layered) parathas** - the dough is laminated and rolled into rounds or triangles. The flaky layers are the point. Lachha paratha (multi-layer) and triangle paratha are the traditional forms.
+2. **Stuffed parathas** - a small portion of spiced filling (potato / cauliflower / paneer / radish / lentil) is sealed inside the dough before rolling. The result is a bread that's also the protein.
 
 ## Dough
 
-The same as roti dough — atta + water + salt + a touch of oil. But for paratha, the dough is sometimes enriched with a tablespoon of yogurt or a tablespoon of milk for tenderness:
+The same as roti dough - atta + water + salt + a touch of oil. But for paratha, the dough is sometimes enriched with a tablespoon of yogurt or a tablespoon of milk for tenderness:
 
 ### Ingredients (makes 6 parathas)
 - 300 g atta
@@ -71,12 +71,12 @@ Cooked thick dal (mashed) + ginger + green chilli + coriander + cumin + salt.
 
 ### Method (the stuffed technique)
 
-1. Divide the dough into 6 balls (slightly larger than roti — 60-70 g each).
+1. Divide the dough into 6 balls (slightly larger than roti - 60-70 g each).
 2. Roll a ball into a 12 cm circle.
 3. Place 1 heaped tablespoon of filling in the centre.
 4. Bring the edges of the dough up and over the filling. Pinch closed at the top to seal completely.
 5. Dust with atta.
-6. Roll out gently to about 18-20 cm diameter. Don't press too hard — the filling can break through.
+6. Roll out gently to about 18-20 cm diameter. Don't press too hard - the filling can break through.
 7. If a tear appears, dust with atta and gently press closed.
 8. Cook on a hot tawa with 1 tablespoon ghee, 60 seconds per side, then a final 30 seconds with extra ghee to crisp.
 

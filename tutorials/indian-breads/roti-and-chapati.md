@@ -6,7 +6,7 @@
 
 ## Overview
 
-Roti and chapati are often used interchangeably — they describe the same daily flatbread. Some regions / families use "roti" for the everyday bread; some use "chapati"; some use both. The bread is:
+Roti and chapati are often used interchangeably - they describe the same daily flatbread. Some regions / families use "roti" for the everyday bread; some use "chapati"; some use both. The bread is:
 
 - Made from atta (Indian whole-wheat flour) + water + salt + optionally a touch of oil.
 - Rolled thin (about 3 mm).
@@ -14,7 +14,7 @@ Roti and chapati are often used interchangeably — they describe the same daily
 - Puffed by holding it directly over an open gas flame (or on a hot electric ring).
 - Served warm, often smeared with a touch of ghee.
 
-The bread is unleavened — no yeast, no baking powder. The puff comes from steam trapped between the two cooked surfaces. A well-puffed roti is the sign of correct dough hydration + hot enough tawa + skilled handling.
+The bread is unleavened - no yeast, no baking powder. The puff comes from steam trapped between the two cooked surfaces. A well-puffed roti is the sign of correct dough hydration + hot enough tawa + skilled handling.
 
 ## Dough (makes 8 rotis)
 
@@ -29,7 +29,7 @@ The bread is unleavened — no yeast, no baking powder. The puff comes from stea
 2. Add the oil (if using); rub in lightly with fingertips.
 3. Add the water gradually, mixing with a fork at first, then with your hands. Hold back the last 20-30 ml; you may not need all of it.
 4. Knead for 8-10 minutes until the dough is smooth, elastic, slightly tacky, and bounces back when poked.
-5. The dough should be SOFT — much softer than European bread dough. If too dry, add a teaspoon of water; if too wet, a teaspoon of flour.
+5. The dough should be SOFT - much softer than European bread dough. If too dry, add a teaspoon of water; if too wet, a teaspoon of flour.
 6. Cover with a damp cloth or cling film. Rest at room temperature for 30 minutes.
 
 The rest is essential. The gluten relaxes; the dough becomes pliable enough to roll thin without springing back.
@@ -69,7 +69,7 @@ This is where roti becomes roti.
 2. Within 5-10 seconds, the steam trapped between the two cooked surfaces will inflate the roti into a balloon. The roti will puff up like a pillow.
 3. Hold it over the flame for 3-5 more seconds (browning the bottom slightly).
 4. Flip; brown the other side over the flame for 3-5 more seconds.
-5. Remove. The puffed roti deflates as it cools — that's normal.
+5. Remove. The puffed roti deflates as it cools - that's normal.
 
 If the roti doesn't puff:
 - The tawa-cook side might have been too cooked (the surface dried before the inside could steam).
@@ -94,13 +94,13 @@ Practice. By the 4th or 5th roti, the puff should happen reliably.
 ## Variations
 
 ### Tandoori roti
-The same roti but cooked in a tandoor (clay oven at 480°C). The bread is slapped onto the side of the tandoor and cooks in 60-90 seconds with a slightly different texture — slightly crispy edges, smoky char marks. At home: preheat oven to 250°C with a baking stone; slap the rolled roti onto the stone; cook 90-120 seconds.
+The same roti but cooked in a tandoor (clay oven at 480°C). The bread is slapped onto the side of the tandoor and cooks in 60-90 seconds with a slightly different texture - slightly crispy edges, smoky char marks. At home: preheat oven to 250°C with a baking stone; slap the rolled roti onto the stone; cook 90-120 seconds.
 
 ### Phulka roti
-A north Indian variant — slightly thinner than the everyday roti, cooked till more crisp at the edges. Same dough.
+A north Indian variant - slightly thinner than the everyday roti, cooked till more crisp at the edges. Same dough.
 
 ### Akki roti (Karnataka)
-A South Indian regional bread made with rice flour instead of wheat. Different technique entirely — the dough is patted out by hand on the back of a banana leaf or a sheet of baking paper, then transferred to a tawa with oil. Crumbly, slightly crisp.
+A South Indian regional bread made with rice flour instead of wheat. Different technique entirely - the dough is patted out by hand on the back of a banana leaf or a sheet of baking paper, then transferred to a tawa with oil. Crumbly, slightly crisp.
 
 ### Bajra roti (Rajasthani)
 Made with bajra (pearl millet) flour. Thicker than regular roti; gluten-free; eaten with a lump of ghee, jaggery, or with garlic-chilli chutney. Winter Rajasthani breakfast.

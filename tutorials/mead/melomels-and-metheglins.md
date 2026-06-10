@@ -8,8 +8,8 @@
 
 Once you've made a traditional mead, the variant styles open up. Two big families:
 
-- **Melomel** — mead with fruit. The fruit is added in the secondary fermentation (after primary is finished), so the yeast extracts the flavour without consuming all the fruit sugar.
-- **Metheglin** — mead with herbs and spices. The spices are added in the secondary, or as a spice tea added at bottling.
+- **Melomel** - mead with fruit. The fruit is added in the secondary fermentation (after primary is finished), so the yeast extracts the flavour without consuming all the fruit sugar.
+- **Metheglin** - mead with herbs and spices. The spices are added in the secondary, or as a spice tea added at bottling.
 
 The technique is identical to traditional mead until the point of secondary fermentation; that's where the divergence happens.
 
@@ -17,7 +17,7 @@ The technique is identical to traditional mead until the point of secondary ferm
 
 ### When to add fruit
 
-Fruit in the primary fermentation gets consumed by the active yeast — most of the sugar fermented out, some of the flavour stripped. Result: a "fruity-ish" mead.
+Fruit in the primary fermentation gets consumed by the active yeast - most of the sugar fermented out, some of the flavour stripped. Result: a "fruity-ish" mead.
 
 Fruit in the secondary fermentation, after primary is finished, is extracted gently. The yeast (still active but slowing) consumes some sugar but most of the fruit's aromatic compounds are preserved. Result: a clearly fruit-forward mead.
 
@@ -25,14 +25,14 @@ Fruit in the secondary fermentation, after primary is finished, is extracted gen
 
 ### Choosing fruit
 
-- **Raspberry** — strongest melomel candidate. Bold, deep flavour. Use 1-1.5 kg per 5 litres. Often combined with vanilla or chocolate notes.
-- **Blackberry** — earthier than raspberry. Use 1-1.5 kg per 5 litres.
-- **Blueberry** — subtle, gentle. Use 2-2.5 kg per 5 litres.
-- **Cherry (sour cherry)** — bright, tart, beautiful colour. Use 1-1.5 kg per 5 litres.
-- **Peach / apricot** — soft stone-fruit notes. Use 2-2.5 kg per 5 litres.
-- **Apple (whole cubed)** — gives "cyser" character (apple mead — see below).
-- **Strawberry** — delicate, hard to capture. Use 2 kg per 5 litres. Best paired with vanilla.
-- **Pomegranate** — striking colour, slightly tart-bitter. Use 1.5-2 kg per 5 litres.
+- **Raspberry** - strongest melomel candidate. Bold, deep flavour. Use 1-1.5 kg per 5 litres. Often combined with vanilla or chocolate notes.
+- **Blackberry** - earthier than raspberry. Use 1-1.5 kg per 5 litres.
+- **Blueberry** - subtle, gentle. Use 2-2.5 kg per 5 litres.
+- **Cherry (sour cherry)** - bright, tart, beautiful colour. Use 1-1.5 kg per 5 litres.
+- **Peach / apricot** - soft stone-fruit notes. Use 2-2.5 kg per 5 litres.
+- **Apple (whole cubed)** - gives "cyser" character (apple mead - see below).
+- **Strawberry** - delicate, hard to capture. Use 2 kg per 5 litres. Best paired with vanilla.
+- **Pomegranate** - striking colour, slightly tart-bitter. Use 1.5-2 kg per 5 litres.
 
 For first melomel, raspberry or blackberry are easiest. The flavour comes through clearly; the colour develops beautifully.
 
@@ -65,23 +65,23 @@ The result: a fragrant raspberry mead, slightly sweet from residual raspberry su
 ### When to add spices
 
 Spices can go in two places:
-- **Secondary fermentation** — add as whole spices in a muslin bag suspended in the secondary. Steeps for 1-3 weeks; the flavour extracts gradually.
-- **At bottling** — make a strong "spice tea" by simmering spices in a small amount of water; cool; add to the mead at bottling. Quick and controllable.
+- **Secondary fermentation** - add as whole spices in a muslin bag suspended in the secondary. Steeps for 1-3 weeks; the flavour extracts gradually.
+- **At bottling** - make a strong "spice tea" by simmering spices in a small amount of water; cool; add to the mead at bottling. Quick and controllable.
 
 The secondary approach is more traditional; the bottling approach gives finer control over intensity.
 
 ### Common metheglin spices
 
-- **Cinnamon stick** — warm, classic. 1-2 sticks per 5 litres.
-- **Vanilla bean** — split lengthwise. 1-2 beans per 5 litres.
-- **Cloves** — strong, use sparingly. 4-6 cloves per 5 litres.
-- **Cardamom (green pods)** — floral. 6-10 pods, lightly crushed, per 5 litres.
-- **Fresh ginger** — sliced thin, 30-50 g per 5 litres.
-- **Black peppercorns** — surprising and excellent. 10-15 corns per 5 litres.
-- **Allspice berries** — warming. 4-6 berries per 5 litres.
-- **Star anise** — sweet aniseed. 2-3 stars per 5 litres.
-- **Lemon or orange zest** — strips, no white pith. From 2-3 citrus per 5 litres.
-- **Hops** (yes, hops) — give a beer-mead crossover called braggot. 5-10 g of low-alpha hops per 5 litres.
+- **Cinnamon stick** - warm, classic. 1-2 sticks per 5 litres.
+- **Vanilla bean** - split lengthwise. 1-2 beans per 5 litres.
+- **Cloves** - strong, use sparingly. 4-6 cloves per 5 litres.
+- **Cardamom (green pods)** - floral. 6-10 pods, lightly crushed, per 5 litres.
+- **Fresh ginger** - sliced thin, 30-50 g per 5 litres.
+- **Black peppercorns** - surprising and excellent. 10-15 corns per 5 litres.
+- **Allspice berries** - warming. 4-6 berries per 5 litres.
+- **Star anise** - sweet aniseed. 2-3 stars per 5 litres.
+- **Lemon or orange zest** - strips, no white pith. From 2-3 citrus per 5 litres.
+- **Hops** (yes, hops) - give a beer-mead crossover called braggot. 5-10 g of low-alpha hops per 5 litres.
 
 ### A worked example: spiced wassail metheglin
 
@@ -125,7 +125,7 @@ The technique:
 - Heat 1.2 kg honey in a heavy pan over low-medium heat, stirring constantly.
 - The honey will go through stages: liquid → bubbling → light caramel → deep amber → very dark.
 - Stop at "deep amber" (similar to maple syrup colour). 30-40 minutes of stirring.
-- Don't let it go to black/burnt — bitter and acrid.
+- Don't let it go to black/burnt - bitter and acrid.
 - Add hot water; the caramelised honey will dissolve.
 - Continue with the standard mead recipe.
 

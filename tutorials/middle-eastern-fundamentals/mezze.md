@@ -10,14 +10,14 @@ A mezze is a collection of small dishes served as a starter, an appetiser course
 
 A traditional mezze has:
 
-- **2-3 dips** — hummus, baba ghanoush, muhammara, labneh.
-- **2-3 salads** — tabbouleh, fattoush, shanklish salad.
-- **1-2 fritters** — falafel, fried halloumi, kibbeh.
-- **A pickle plate** — pickled cucumber, pickled turnips (the pink ones), pickled olives.
-- **Bread** — pita, lavash, markook.
-- **Sliced raw vegetables** — cucumber, tomato, radish, lettuce.
-- **Olives** — cured Lebanese / Syrian / Cretan olives.
-- **A herb plate** — mint sprigs, parsley sprigs, fresh thyme, fresh tarragon.
+- **2-3 dips** - hummus, baba ghanoush, muhammara, labneh.
+- **2-3 salads** - tabbouleh, fattoush, shanklish salad.
+- **1-2 fritters** - falafel, fried halloumi, kibbeh.
+- **A pickle plate** - pickled cucumber, pickled turnips (the pink ones), pickled olives.
+- **Bread** - pita, lavash, markook.
+- **Sliced raw vegetables** - cucumber, tomato, radish, lettuce.
+- **Olives** - cured Lebanese / Syrian / Cretan olives.
+- **A herb plate** - mint sprigs, parsley sprigs, fresh thyme, fresh tarragon.
 
 The mezze is meant to be picked over slowly. A Lebanese dinner traditionally starts with mezze + arak (anise spirit + water + ice) for 60-90 minutes; only then does the main course appear.
 
@@ -28,7 +28,7 @@ This page walks through the traditional mezze dips and salads.
 The most-famous Middle Eastern dish. Pureed chickpeas + tahini + lemon + garlic + olive oil + salt. The recipe is simple; the craft is in the balance.
 
 ### Recipe (serves 4-6)
-- 400 g cooked chickpeas (from dried — see below — or canned, rinsed and drained)
+- 400 g cooked chickpeas (from dried - see below - or canned, rinsed and drained)
 - 5 tablespoons good tahini
 - Juice of 1-2 lemons (start with 1; adjust)
 - 1 garlic clove (small; raw)
@@ -41,9 +41,9 @@ The most-famous Middle Eastern dish. Pureed chickpeas + tahini + lemon + garlic 
 
 ### Method
 1. **Cook the chickpeas from dried for best result.** Soak overnight; cook with a teaspoon of baking soda + a chopped onion + a bay leaf + a sprig of thyme + a few peppercorns for 60-90 minutes until they're completely soft (you should be able to crush one between your fingers with no resistance). Drain (reserve some cooking liquid).
-2. **Or use canned chickpeas** — rinse + drain. Optionally peel the skins (improves texture but takes 15 minutes); the skin-peel is what separates restaurant hummus from home hummus.
+2. **Or use canned chickpeas** - rinse + drain. Optionally peel the skins (improves texture but takes 15 minutes); the skin-peel is what separates restaurant hummus from home hummus.
 3. **Combine** chickpeas + tahini + lemon + garlic + ice water + salt + cumin in a food processor.
-4. **Blend** for 4-5 minutes. Yes, that long. The hummus needs to be processed long enough that it goes from "chunky" to "creamy-as-air" — this is the difference. The hot or cool tahini + the long process is the secret.
+4. **Blend** for 4-5 minutes. Yes, that long. The hummus needs to be processed long enough that it goes from "chunky" to "creamy-as-air" - this is the difference. The hot or cool tahini + the long process is the secret.
 5. **Taste** for salt, lemon, and garlic. Adjust.
 6. **Serve** in a shallow bowl. Make a small well in the centre. Drizzle olive oil generously. Sprinkle sumac or paprika. Garnish with whole chickpeas + parsley.
 
@@ -52,15 +52,15 @@ The most-famous Middle Eastern dish. Pureed chickpeas + tahini + lemon + garlic 
 - **Tahini quality matters most.** A good Lebanese / Israeli / Palestinian tahini (Al Wadi, Joyva, Soom, Karawan) is creamy, slightly nutty, light. A cheap tahini is gritty, bitter. Spend on tahini.
 - **Long processing** breaks down the chickpea skins and creates the silky texture. 4-5 minutes minimum.
 - **Ice water** keeps the hummus light during processing.
-- **The garlic balance** — 1 raw clove is plenty for 4-6 servings. 3+ cloves is too much (raw garlic dominates).
-- **The acid balance** — fresh lemon juice; start with 1 lemon; add more to taste.
+- **The garlic balance** - 1 raw clove is plenty for 4-6 servings. 3+ cloves is too much (raw garlic dominates).
+- **The acid balance** - fresh lemon juice; start with 1 lemon; add more to taste.
 
 ### Variations
-- **Hummus with za'atar** — sprinkle za'atar on top with the olive oil.
-- **Hummus with sautéed mushrooms** — modern Tel Aviv style.
-- **Beetroot hummus** — add 1 cooked beetroot to the blend; pink, slightly sweet.
-- **Hummus with sumac onions** — top with sliced red onion soaked in sumac.
-- **Hummus with mushrooms / meat** — Lebanese hummus is sometimes topped with sautéed mushrooms or finely chopped sautéed lamb.
+- **Hummus with za'atar** - sprinkle za'atar on top with the olive oil.
+- **Hummus with sautéed mushrooms** - modern Tel Aviv style.
+- **Beetroot hummus** - add 1 cooked beetroot to the blend; pink, slightly sweet.
+- **Hummus with sumac onions** - top with sliced red onion soaked in sumac.
+- **Hummus with mushrooms / meat** - Lebanese hummus is sometimes topped with sautéed mushrooms or finely chopped sautéed lamb.
 
 ## Baba Ghanoush (also Baba Ganoush)
 
@@ -81,14 +81,14 @@ The smoky aubergine dip. Roasted/charred aubergine + tahini + lemon + garlic + o
 2. **Cool slightly.** Place in a covered bowl to steam for 5 minutes (loosens the skin).
 3. **Peel and drain.** Remove the blackened skin; place the flesh in a colander; drain 10 minutes (the aubergine releases a lot of bitter water).
 4. **Combine** flesh + tahini + lemon + garlic + salt in a bowl.
-5. **Mash or pulse** (in a food processor briefly — about 30 seconds; not too smooth). Baba ghanoush should have visible texture, not be a puree.
+5. **Mash or pulse** (in a food processor briefly - about 30 seconds; not too smooth). Baba ghanoush should have visible texture, not be a puree.
 6. **Serve** in a shallow bowl. Drizzle olive oil. Garnish with parsley. Optional drizzle of pomegranate molasses.
 
-The "charred" flavour is the dish's identity. A baba ghanoush made with roasted (rather than charred) aubergine is just an aubergine dip — pleasant but not the same thing.
+The "charred" flavour is the dish's identity. A baba ghanoush made with roasted (rather than charred) aubergine is just an aubergine dip - pleasant but not the same thing.
 
 ## Labneh
 
-Strained yogurt — thicker than Greek yogurt, lighter than cream cheese. The everyday Middle Eastern spread.
+Strained yogurt - thicker than Greek yogurt, lighter than cream cheese. The everyday Middle Eastern spread.
 
 ### Recipe
 - 1 kg full-fat yogurt (Greek-style, or Lebanese style if available)
@@ -103,9 +103,9 @@ Strained yogurt — thicker than Greek yogurt, lighter than cream cheese. The ev
 4. **Result:** about 600 g of thick labneh. Spread on a plate; create a swirl with the back of a spoon; drizzle with olive oil; sprinkle za'atar.
 
 ### Variations
-- **Labneh balls (kishkah)** — once strained, roll into small balls; coat in olive oil + za'atar + chilli; refrigerate or store in oil.
-- **Labneh with herbs** — mix in chopped mint + dill + parsley.
-- **Labneh with smoked paprika** — top with smoked paprika for a Syrian touch.
+- **Labneh balls (kishkah)** - once strained, roll into small balls; coat in olive oil + za'atar + chilli; refrigerate or store in oil.
+- **Labneh with herbs** - mix in chopped mint + dill + parsley.
+- **Labneh with smoked paprika** - top with smoked paprika for a Syrian touch.
 
 ## Muhammara
 
@@ -178,7 +178,7 @@ The toasted-bread salad. Pita is toasted, broken into pieces, and mixed with cho
 - 4 spring onions (chopped)
 - 1 large bunch of parsley (chopped roughly)
 - 1 large bunch of mint (chopped roughly)
-- 1 head of romaine lettuce (chopped) — optional but adds crunch
+- 1 head of romaine lettuce (chopped) - optional but adds crunch
 - 4 tablespoons extra-virgin olive oil
 - 4 tablespoons fresh lemon juice
 - 1 tablespoon pomegranate molasses
@@ -194,7 +194,7 @@ The toasted-bread salad. Pita is toasted, broken into pieces, and mixed with cho
 5. **Add the toasted pita pieces** last (so they stay slightly crispy).
 6. **Serve immediately** (the pita softens within 15 minutes).
 
-Fattoush is bright, tart, layered, and uses up day-old pita. The sumac is essential — gives the tart-tangy note that defines the dish.
+Fattoush is bright, tart, layered, and uses up day-old pita. The sumac is essential - gives the tart-tangy note that defines the dish.
 
 ## Other essential mezze
 
@@ -205,9 +205,9 @@ Tahini + lemon + water + garlic + salt + parsley + cumin. A sauce used over keba
 Cured Lebanese / Syrian / Cretan olives. Green or black. Marinated with lemon zest, garlic, chilli, and herbs.
 
 ### Cheese plate
-- **Halloumi** (Cypriot but ubiquitous in Lebanese mezze) — sliced and pan-fried.
-- **Feta or Lebanese white cheese** — cubed.
-- **Shanklish** — Lebanese aged cheese rolled in za'atar; served crumbled.
+- **Halloumi** (Cypriot but ubiquitous in Lebanese mezze) - sliced and pan-fried.
+- **Feta or Lebanese white cheese** - cubed.
+- **Shanklish** - Lebanese aged cheese rolled in za'atar; served crumbled.
 
 ### Pickled vegetables
 - **Pickled turnips** (the famous pink ones, coloured with beet juice).
@@ -222,7 +222,7 @@ For 4-6 people:
 - **2 dips**: hummus + baba ghanoush (or hummus + muhammara, or hummus + labneh)
 - **1 salad**: tabbouleh OR fattoush
 - **1 fritter**: halloumi (sliced + pan-fried) OR falafel
-- **Pita** (warm) — 2 per person
+- **Pita** (warm) - 2 per person
 - **Olives** + a small bowl of pickles
 - **Sliced cucumber + tomato + radish** on a plate
 - **A small herb plate**: mint sprigs + parsley sprigs
@@ -231,11 +231,11 @@ Total prep time: 1.5 hours (most of it for the hummus and the bulgur soak). Plat
 
 ## Pairing mezze with drinks
 
-- **Arak** (anise spirit) + water + ice — the traditional Lebanese pairing. Becomes cloudy white when water is added.
-- **Lebanese white wine** (Chateau Musar Blanc, Chateau Ksara Blanc de Blanc) — light, herbaceous.
-- **Lebanese rosé** — surprising depth; excellent with mezze.
-- **A cold beer** — Almaza or Lebanese beer; or a German pilsner.
-- **Mint tea** — for a non-alcoholic pairing.
+- **Arak** (anise spirit) + water + ice - the traditional Lebanese pairing. Becomes cloudy white when water is added.
+- **Lebanese white wine** (Chateau Musar Blanc, Chateau Ksara Blanc de Blanc) - light, herbaceous.
+- **Lebanese rosé** - surprising depth; excellent with mezze.
+- **A cold beer** - Almaza or Lebanese beer; or a German pilsner.
+- **Mint tea** - for a non-alcoholic pairing.
 
 ## A mezze rhythm
 
@@ -251,11 +251,11 @@ The mezze is the time when conversation happens; the food is the social glue. Do
 
 A great mezze depends on great ingredients:
 
-- **Tahini** — Joyva, Soom, Al Wadi, Karawan. Spend on this; it's the foundation of half the dishes.
-- **Sumac** — fresh, deep purple. From Middle Eastern grocers or specialty spice merchants.
-- **Pomegranate molasses** — Cortas (Lebanese, the classic) or Sadaf.
-- **Za'atar** — Lebanese or Palestinian; fresh.
-- **Aleppo pepper (pul biber)** — Syrian; mildly hot, slightly fruity.
-- **Olives** — from a Middle Eastern grocer; not Mediterranean-section supermarket olives.
+- **Tahini** - Joyva, Soom, Al Wadi, Karawan. Spend on this; it's the foundation of half the dishes.
+- **Sumac** - fresh, deep purple. From Middle Eastern grocers or specialty spice merchants.
+- **Pomegranate molasses** - Cortas (Lebanese, the classic) or Sadaf.
+- **Za'atar** - Lebanese or Palestinian; fresh.
+- **Aleppo pepper (pul biber)** - Syrian; mildly hot, slightly fruity.
+- **Olives** - from a Middle Eastern grocer; not Mediterranean-section supermarket olives.
 
 A well-stocked mezze pantry costs about £40-50 to set up; lasts months.

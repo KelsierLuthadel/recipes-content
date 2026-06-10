@@ -2,15 +2,15 @@
 
 ![Puri and bhatura](resources/puri.jpg)
 
-*Puri is the small puffed sphere — the size of a tennis ball — that puffs dramatically in hot oil. Bhatura is the larger oval cousin — the traditional pairing for chole. Both are deep-fried; both are festive; both are easy to make at home with a wok and oil.*
+*Puri is the small puffed sphere - the size of a tennis ball - that puffs dramatically in hot oil. Bhatura is the larger oval cousin - the traditional pairing for chole. Both are deep-fried; both are festive; both are easy to make at home with a wok and oil.*
 
 ## Overview
 
 Puri and bhatura belong to the deep-fried Indian bread family. The technique is the same: roll a dough flat (relatively thin), slip into hot oil, watch it puff dramatically into a balloon shape, drain, eat warm.
 
 The differences:
-- **Puri** — uses whole-wheat atta dough (similar to roti). Small (8-10 cm). Eaten at breakfast, on festivals, with chole + halwa (the "halwa-puri" Punjabi breakfast).
-- **Bhatura** — uses maida (refined flour) + yogurt + leavening (yeast or baking powder). Large (18-25 cm oval). Eaten almost exclusively with chole.
+- **Puri** - uses whole-wheat atta dough (similar to roti). Small (8-10 cm). Eaten at breakfast, on festivals, with chole + halwa (the "halwa-puri" Punjabi breakfast).
+- **Bhatura** - uses maida (refined flour) + yogurt + leavening (yeast or baking powder). Large (18-25 cm oval). Eaten almost exclusively with chole.
 
 This page covers both, with technique notes that apply to the wider deep-fried Indian bread family.
 
@@ -26,7 +26,7 @@ This page covers both, with technique notes that apply to the wider deep-fried I
 ### Method (dough)
 1. Combine flour, semolina, salt in a bowl.
 2. Add the oil; rub in lightly.
-3. Add water gradually; knead to a stiff dough (stiffer than roti dough — about 4-5% drier).
+3. Add water gradually; knead to a stiff dough (stiffer than roti dough - about 4-5% drier).
 4. Cover; rest 15-30 minutes.
 
 The dough for puri is firmer than roti dough because too-soft dough absorbs more oil. A firm dough fries clean.
@@ -35,14 +35,14 @@ The dough for puri is firmer than roti dough because too-soft dough absorbs more
 
 1. Divide the dough into 12 small balls (about 30 g each).
 2. Roll each ball briefly to smooth.
-3. Dip in oil (a small amount on a saucer — about a teaspoon per side). This prevents sticking and helps the dough roll without much added atta.
+3. Dip in oil (a small amount on a saucer - about a teaspoon per side). This prevents sticking and helps the dough roll without much added atta.
 4. Roll each ball into a small circle about 10 cm diameter, 2 mm thick.
 
 The puri must be uniform thickness. Any thin spot will tear during frying; any thick spot won't puff.
 
 ### Frying
 
-1. Heat 4-5 cm of oil in a heavy wok or kadhai. The right temperature: 180-185°C. Test by dropping a small piece of dough — it should rise to the surface within 2 seconds and bubble actively.
+1. Heat 4-5 cm of oil in a heavy wok or kadhai. The right temperature: 180-185°C. Test by dropping a small piece of dough - it should rise to the surface within 2 seconds and bubble actively.
 2. Slip one puri into the hot oil.
 3. Almost immediately, gently press the puri with a slotted spoon. The pressure makes it puff into a sphere within 2-3 seconds.
 4. Flip the puffed puri with the slotted spoon. Cook 10 seconds on the other side.
@@ -84,7 +84,7 @@ The whole frying time per puri is 30-45 seconds. The puff is the visible sign th
 1. Divide the dough into 8 balls (75-80 g each).
 2. Roll briefly in your hand to smooth.
 3. Dip in oil on both sides.
-4. Roll into an oval shape (not round!) — about 20-25 cm long, 12-15 cm wide, 3-4 mm thick.
+4. Roll into an oval shape (not round!) - about 20-25 cm long, 12-15 cm wide, 3-4 mm thick.
 
 The oval shape is traditional. Round bhaturas exist but the oval is what you'd find in Delhi street stalls.
 
@@ -92,7 +92,7 @@ The oval shape is traditional. Round bhaturas exist but the oval is what you'd f
 
 1. Heat oil to 180°C in a heavy wok / kadhai.
 2. Slip one bhatura into the oil.
-3. Gently press with a slotted spoon — the bhatura will puff dramatically into a balloon shape within 5-10 seconds (the yogurt + leavening creates the puff).
+3. Gently press with a slotted spoon - the bhatura will puff dramatically into a balloon shape within 5-10 seconds (the yogurt + leavening creates the puff).
 4. Flip; cook the other side 30 seconds.
 5. Lift out; drain on kitchen paper.
 
@@ -120,7 +120,7 @@ A specific Uttar Pradesh / Mathura specialty. Puri made with a urad dal stuffing
 Bihar / Eastern India regional bread. Wheat-flour balls stuffed with sattu (roasted chickpea flour + spices); baked or shallow-fried until golden; served with chokha (mashed spiced vegetable) and ghee.
 
 ### Bhakarwadi (Maharashtrian)
-Tiny spiced fried snacks — atta + sesame + spices + jaggery + tamarind, rolled and deep-fried. A snack, not a bread per se, but in the same family.
+Tiny spiced fried snacks - atta + sesame + spices + jaggery + tamarind, rolled and deep-fried. A snack, not a bread per se, but in the same family.
 
 ### Mathri
 Salty wheat-flour biscuit-like fried bread. Eaten as a snack with pickle or chutney.
@@ -131,7 +131,7 @@ These are the two traditional pairings:
 
 ### Halwa-Puri (Punjabi breakfast)
 - Puri (the deep-fried unleavened wheat bread).
-- Sooji halwa (semolina + ghee + sugar + cardamom + raisins) — a thick sweet semolina pudding.
+- Sooji halwa (semolina + ghee + sugar + cardamom + raisins) - a thick sweet semolina pudding.
 - Chickpea curry (chole) on the side.
 - A cup of strong chai.
 
@@ -169,7 +169,7 @@ For chole-bhature lunch for 4:
 - Roll and fry 4-8 bhaturas just before serving.
 - 3 hours total time (mostly hands-off resting).
 
-Both are weekend or special-occasion food in modern Indian homes — too time-consuming for weekday cooking. Worth it for the result.
+Both are weekend or special-occasion food in modern Indian homes - too time-consuming for weekday cooking. Worth it for the result.
 
 ## After deep-fried breads
 

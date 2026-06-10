@@ -18,7 +18,7 @@ A mole is a complex Mexican sauce built from:
 
 The ingredients are individually toasted, then ground together, then simmered into a thick savoury sauce. Each component is treated with care: chillies are blistered then soaked; nuts are toasted; spices are bloomed; the resulting paste is fried in lard before stock is added.
 
-A good mole takes 6-8 hours to make from scratch. The result is a sauce of unprecedented complexity — bitter, sweet, savoury, smoky, hot, spicy — that coats poultry or vegetables with a depth no other Mexican preparation matches.
+A good mole takes 6-8 hours to make from scratch. The result is a sauce of unprecedented complexity - bitter, sweet, savoury, smoky, hot, spicy - that coats poultry or vegetables with a depth no other Mexican preparation matches.
 
 This page introduces the seven moles of Oaxaca and gives a worked recipe for mole poblano (the famous one).
 
@@ -88,7 +88,7 @@ The legend: invented by nuns at the Convento de Santa Rosa in Puebla in the 17th
 #### Sweetness and depth
 - 60 g raisins
 - 4 prunes
-- 80 g Mexican chocolate (Mayordomo or Ibarra — sweetened, cinnamon-flavoured chocolate, NOT bittersweet)
+- 80 g Mexican chocolate (Mayordomo or Ibarra - sweetened, cinnamon-flavoured chocolate, NOT bittersweet)
 - 1 tablespoon piloncillo (or brown sugar)
 - 50 g lard (for frying the paste)
 
@@ -96,7 +96,7 @@ The legend: invented by nuns at the Convento de Santa Rosa in Puebla in the 17th
 - 2.5 litres chicken stock (or turkey, ideally)
 
 #### To finish
-- 6 chicken legs (or 1 whole turkey, broken down) — cooked separately
+- 6 chicken legs (or 1 whole turkey, broken down) - cooked separately
 - Sesame seeds for garnish
 - Mexican rice + warm tortillas for serving
 
@@ -117,7 +117,7 @@ The legend: invented by nuns at the Convento de Santa Rosa in Puebla in the 17th
 6. **Toast the whole spices** (cinnamon, cloves, peppercorns, allspice, coriander, cumin) in a dry pan for 1 minute. Grind in a spice mill or mortar.
 
 **Hour 4: Blend**
-7. **Blend in stages** — the dried chillies (with some of their soaking water) + nuts + seeds + tortilla + bread + raisins + prunes + ground spices + aromatic vegetables + chipotle. Blend in batches; aim for a smooth thick paste.
+7. **Blend in stages** - the dried chillies (with some of their soaking water) + nuts + seeds + tortilla + bread + raisins + prunes + ground spices + aromatic vegetables + chipotle. Blend in batches; aim for a smooth thick paste.
 
 **Hour 5: Fry the paste**
 8. In a heavy pan, melt the lard over medium heat.
@@ -153,12 +153,12 @@ The legend: invented by nuns at the Convento de Santa Rosa in Puebla in the 17th
 
 Mole is a special-occasion dish. You don't make mole on a Tuesday for dinner. You make it for:
 
-- **A wedding** — the traditional mole occasion in Mexico.
-- **A funeral** — the traditional alternate occasion.
-- **Christmas Day** — mole is a Christmas tradition in Puebla and Oaxaca.
-- **A birthday** — for a special celebration.
-- **The Day of the Dead (Día de los Muertos)** — November 1-2.
-- **Family reunion** — when you have a weekend and 10+ people to feed.
+- **A wedding** - the traditional mole occasion in Mexico.
+- **A funeral** - the traditional alternate occasion.
+- **Christmas Day** - mole is a Christmas tradition in Puebla and Oaxaca.
+- **A birthday** - for a special celebration.
+- **The Day of the Dead (Día de los Muertos)** - November 1-2.
+- **Family reunion** - when you have a weekend and 10+ people to feed.
 
 Making a big batch (8-10 servings) is the traditional scale. The leftovers freeze beautifully for 3 months.
 
@@ -166,9 +166,9 @@ Making a big batch (8-10 servings) is the traditional scale. The leftovers freez
 
 For weeknight use, jarred mole pastes exist:
 
-- **Doña María Mole** — Mexican brand, widely available. Add chicken stock and chocolate; simmer 30 minutes. Acceptable; not great.
-- **Mole Doña María Negro** — the dark variant.
-- **Modern artisan mole pastes** — some specialty shops sell freshly-made mole pastes from real Mexican cooks. £8-15 per jar; serves 6-8.
+- **Doña María Mole** - Mexican brand, widely available. Add chicken stock and chocolate; simmer 30 minutes. Acceptable; not great.
+- **Mole Doña María Negro** - the dark variant.
+- **Modern artisan mole pastes** - some specialty shops sell freshly-made mole pastes from real Mexican cooks. £8-15 per jar; serves 6-8.
 
 A homemade mole from scratch is incomparably better than a jarred version. But for a weekday meal, the jarred is acceptable.
 
@@ -176,14 +176,14 @@ A homemade mole from scratch is incomparably better than a jarred version. But f
 
 Once you've made mole, you can use it in:
 
-- **Mole enchiladas** — corn tortillas dipped in mole, rolled with chicken filling, baked with more mole.
-- **Mole over fried eggs** — for breakfast.
-- **Mole tacos** — chicken cooked in mole, then in tortillas with onion and cilantro.
-- **Mole over plain rice** — when you have leftover mole and no time for the proper assembly.
+- **Mole enchiladas** - corn tortillas dipped in mole, rolled with chicken filling, baked with more mole.
+- **Mole over fried eggs** - for breakfast.
+- **Mole tacos** - chicken cooked in mole, then in tortillas with onion and cilantro.
+- **Mole over plain rice** - when you have leftover mole and no time for the proper assembly.
 
 ## Why mole matters
 
-Mole is the cuisine's masterpiece. The list of ingredients (20-30 items), the cooking time (8+ hours, 2 days), and the depth of the resulting sauce — there's no comparable preparation in everyday cooking. Spanish cuisine has paella; Italian cuisine has ragù bolognese; Mexican cuisine has mole.
+Mole is the cuisine's masterpiece. The list of ingredients (20-30 items), the cooking time (8+ hours, 2 days), and the depth of the resulting sauce - there's no comparable preparation in everyday cooking. Spanish cuisine has paella; Italian cuisine has ragù bolognese; Mexican cuisine has mole.
 
 Don't expect to nail it on the first try. Expect to make 3-5 moles before they start to feel right. Each time, you understand more about the balance and the technique.
 

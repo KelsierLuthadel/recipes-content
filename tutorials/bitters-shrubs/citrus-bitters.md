@@ -9,9 +9,9 @@
 Citrus bitters work differently from aromatic bitters: where aromatic bitters use bitter roots (gentian, cinchona) as the main bitter element, citrus bitters use the citrus peel's essential oils PLUS the white pith (which is genuinely bitter on its own). The result is a bitter that smells distinctly of a specific citrus, with a clean bitter finish.
 
 Three traditional variants:
-- **Orange bitters** — the most common. Goes with gin (Martini, Negroni), bourbon (Manhattan variants), and any "citrus-forward" cocktail.
-- **Lemon bitters** — fresher, brighter. Excellent in vodka cocktails, champagne cocktails, anywhere lemon is the supporting note.
-- **Grapefruit bitters** — sharper, slightly herbal. Good with tequila, mezcal, and modern cocktails (Penicillin variants).
+- **Orange bitters** - the most common. Goes with gin (Martini, Negroni), bourbon (Manhattan variants), and any "citrus-forward" cocktail.
+- **Lemon bitters** - fresher, brighter. Excellent in vodka cocktails, champagne cocktails, anywhere lemon is the supporting note.
+- **Grapefruit bitters** - sharper, slightly herbal. Good with tequila, mezcal, and modern cocktails (Penicillin variants).
 
 This page covers all three with one technique that varies only in the citrus.
 
@@ -19,7 +19,7 @@ This page covers all three with one technique that varies only in the citrus.
 
 ### Ingredients
 - 250 ml high-proof neutral spirit
-- Zest of 3 large oranges (use a vegetable peeler; avoid the white pith — sort of)
+- Zest of 3 large oranges (use a vegetable peeler; avoid the white pith - sort of)
 - 2 tablespoons of the white pith from the peeled oranges
 - 1 teaspoon coriander seeds
 - 1 teaspoon cardamom pods (lightly crushed)
@@ -37,10 +37,10 @@ This page covers all three with one technique that varies only in the citrus.
 5. Bottle in 30 ml droppers.
 
 ### Use
-- **Martini** — 1-2 dashes alongside the gin and vermouth. Brightens.
-- **Negroni** — 1 dash. Lifts the bitter Campari into more citrus territory.
-- **Manhattan** — substitute or add alongside aromatic bitters for a citrus-forward variant.
-- **Old Fashioned** — pair with aromatic bitters for a more complex profile.
+- **Martini** - 1-2 dashes alongside the gin and vermouth. Brightens.
+- **Negroni** - 1 dash. Lifts the bitter Campari into more citrus territory.
+- **Manhattan** - substitute or add alongside aromatic bitters for a citrus-forward variant.
+- **Old Fashioned** - pair with aromatic bitters for a more complex profile.
 
 ## Lemon Bitters
 
@@ -50,7 +50,7 @@ This page covers all three with one technique that varies only in the citrus.
 - 1 tablespoon of the white pith
 - 1 teaspoon coriander seeds
 - ½ teaspoon angelica root
-- ½ teaspoon dried lavender (just a touch — too much = soap)
+- ½ teaspoon dried lavender (just a touch - too much = soap)
 - 4 green cardamom pods
 - 1 teaspoon dried chamomile flowers
 - 1 small piece of dried orange peel
@@ -59,10 +59,10 @@ This page covers all three with one technique that varies only in the citrus.
 Same as orange bitters: infuse 10-14 days; strain; sweeten with 25 g demerara dissolved in 50 ml water; bottle.
 
 ### Use
-- **Vodka Martini** — 1 dash sharpens.
-- **Champagne cocktail** — 1 dash with a sugar cube + champagne.
-- **Tom Collins** — replace 1 dash of standard bitters.
-- **Whisky Sour** — pair with aromatic bitters for a brighter sour.
+- **Vodka Martini** - 1 dash sharpens.
+- **Champagne cocktail** - 1 dash with a sugar cube + champagne.
+- **Tom Collins** - replace 1 dash of standard bitters.
+- **Whisky Sour** - pair with aromatic bitters for a brighter sour.
 
 ## Grapefruit Bitters
 
@@ -82,17 +82,17 @@ Same as orange bitters: infuse 10-14 days; strain; sweeten with 25 g demerara di
 Same as before. Note: the grapefruit's pith is more bitter than orange or lemon's, so use SLIGHTLY less. Infuse 10-14 days.
 
 ### Use
-- **Tequila cocktails** — Paloma (grapefruit soda + tequila), Mezcal Old Fashioned.
-- **Penicillin** — 1-2 dashes in the smoky Scotch sour for grapefruit lift.
-- **Hemingway Daiquiri** — 1 dash brings out the grapefruit-cherry flavour profile.
+- **Tequila cocktails** - Paloma (grapefruit soda + tequila), Mezcal Old Fashioned.
+- **Penicillin** - 1-2 dashes in the smoky Scotch sour for grapefruit lift.
+- **Hemingway Daiquiri** - 1 dash brings out the grapefruit-cherry flavour profile.
 
 ## Other citrus variants worth trying
 
-- **Lime bitters** — limited shelf life because of lime oil oxidation. Use within 6 months.
-- **Bergamot bitters** — for Earl Grey cocktails. Use bergamot peel + earl grey tea.
-- **Yuzu bitters** — yuzu peel + sansho pepper + ginger. Modern Japanese cocktail style.
-- **Blood orange bitters** — like orange bitters but with deeper colour and slightly bitter edge.
-- **Kumquat bitters** — whole kumquats (sliced) + cardamom + clove. Sweeter, more floral.
+- **Lime bitters** - limited shelf life because of lime oil oxidation. Use within 6 months.
+- **Bergamot bitters** - for Earl Grey cocktails. Use bergamot peel + earl grey tea.
+- **Yuzu bitters** - yuzu peel + sansho pepper + ginger. Modern Japanese cocktail style.
+- **Blood orange bitters** - like orange bitters but with deeper colour and slightly bitter edge.
+- **Kumquat bitters** - whole kumquats (sliced) + cardamom + clove. Sweeter, more floral.
 
 ## A worked example: making a 3-citrus blend
 
@@ -106,9 +106,9 @@ The result is a "house citrus bitter" with the depth of orange, the brightness o
 
 ## Common mistakes
 
-- **Including too much white pith** — bitter and slightly fibrous. The peel oils carry the flavour; the pith provides bitterness but a little goes a long way.
-- **Not enough citrus** — citrus bitters should smell of the citrus IMMEDIATELY from the bottle. If you can't smell it from 20 cm away, the infusion needed more zest.
-- **Too much sweetener** — citrus bitters work because they're tart-bitter. Adding too much sugar makes them taste like a watered-down liqueur.
+- **Including too much white pith** - bitter and slightly fibrous. The peel oils carry the flavour; the pith provides bitterness but a little goes a long way.
+- **Not enough citrus** - citrus bitters should smell of the citrus IMMEDIATELY from the bottle. If you can't smell it from 20 cm away, the infusion needed more zest.
+- **Too much sweetener** - citrus bitters work because they're tart-bitter. Adding too much sugar makes them taste like a watered-down liqueur.
 
 ## Storage
 

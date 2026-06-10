@@ -2,7 +2,7 @@
 
 ![Middle Eastern spices](resources/spices.jpg)
 
-*Middle Eastern cooking uses spices subtly — never the wall-of-flavour of Indian cooking; never the single-spice dominance of European; but a precise layered approach. Sumac for tart-tangy. Za'atar for herbal. Baharat for warmth. Aleppo pepper for fruity heat. This page covers the traditional spice kit and the regional blends.*
+*Middle Eastern cooking uses spices subtly - never the wall-of-flavour of Indian cooking; never the single-spice dominance of European; but a precise layered approach. Sumac for tart-tangy. Za'atar for herbal. Baharat for warmth. Aleppo pepper for fruity heat. This page covers the traditional spice kit and the regional blends.*
 
 ## Overview
 
@@ -30,22 +30,22 @@ This page walks through each.
 The tart-tangy berry powder. Made from the dried berries of the Rhus genus (NOT the poisonous variety; Middle Eastern sumac is Rhus coriaria, a different species). Bright red-purple powder; tastes of dried lemon + a slight bitterness + a salty edge.
 
 ### Where sumac goes
-- **On fattoush** — essential.
-- **Over sliced raw onions** — sumac onions are the traditional Middle Eastern garnish for kebabs.
-- **On hummus or labneh** — as a finishing sprinkle.
-- **In musakhan** (Palestinian sumac-chicken) — the dominant flavour.
-- **On grilled meat** — sumac sprinkled over a hot kebab adds tart-tangy.
-- **In dressings** — replaces (or supplements) lemon.
+- **On fattoush** - essential.
+- **Over sliced raw onions** - sumac onions are the traditional Middle Eastern garnish for kebabs.
+- **On hummus or labneh** - as a finishing sprinkle.
+- **In musakhan** (Palestinian sumac-chicken) - the dominant flavour.
+- **On grilled meat** - sumac sprinkled over a hot kebab adds tart-tangy.
+- **In dressings** - replaces (or supplements) lemon.
 
 ### What good sumac looks like
 - Deep purple-red, slightly damp-looking (not dusty grey-brown).
 - Tart smell immediately when opened.
-- Fresh (less than 1 year from purchase) — old sumac loses its punch.
+- Fresh (less than 1 year from purchase) - old sumac loses its punch.
 
 ### Sourcing
 - Lebanese / Palestinian sumac is traditional.
 - Iranian sumac is brighter, with a slight floral note.
-- Avoid generic supermarket "sumac" — often pale and dusty.
+- Avoid generic supermarket "sumac" - often pale and dusty.
 - Bald-Headed Herbs (UK), Penzeys (US), and Middle Eastern grocers carry the good stuff.
 
 ## Aleppo pepper (pul biber)
@@ -53,10 +53,10 @@ The tart-tangy berry powder. Made from the dried berries of the Rhus genus (NOT 
 Mildly hot dried red chilli pepper, traditionally from the Aleppo region of Syria. Coarsely ground, slightly oily, with a fruity-floral character that's quite different from regular crushed red pepper flakes.
 
 ### Where Aleppo pepper goes
-- **On hummus, labneh, muhammara** — finishing sprinkle.
-- **In kebabs** — the kofta / kafta spice mix.
-- **In stews and tagines** — gentle warmth without overwhelming.
-- **On eggs** — sprinkled over fried or poached eggs.
+- **On hummus, labneh, muhammara** - finishing sprinkle.
+- **In kebabs** - the kofta / kafta spice mix.
+- **In stews and tagines** - gentle warmth without overwhelming.
+- **On eggs** - sprinkled over fried or poached eggs.
 
 ### Substitutes
 - Maraş pepper (Turkish; very similar)
@@ -71,34 +71,34 @@ The genuine Aleppo from Syria is harder to find since 2011 due to conflict. The 
 Warming, slightly earthy, slightly sweet. Used whole or ground. The most-used Middle Eastern spice.
 
 ### Where cumin goes
-- **In kebabs** — essential.
+- **In kebabs** - essential.
 - **In hummus** (a small amount).
-- **In stews and tagines** — foundational.
-- **In rice and pilafs** — the traditional Middle Eastern rice perfume.
+- **In stews and tagines** - foundational.
+- **In rice and pilafs** - the traditional Middle Eastern rice perfume.
 
 ### Whole vs ground
-- **Whole cumin** — toasted whole and ground fresh gives the best aroma. Toast in a dry pan for 30 seconds; grind in a spice grinder.
-- **Ground cumin** — pre-ground; loses aroma after 6 months. Replace regularly.
+- **Whole cumin** - toasted whole and ground fresh gives the best aroma. Toast in a dry pan for 30 seconds; grind in a spice grinder.
+- **Ground cumin** - pre-ground; loses aroma after 6 months. Replace regularly.
 
 ## Allspice
 
 The dried berry of Pimenta dioica. Tastes of cinnamon + clove + nutmeg combined (hence the name). Used heavily in Lebanese / Syrian / Palestinian cooking.
 
 ### Where allspice goes
-- **In kofta / kafta** — essential. The Levantine "warm spice" identity.
-- **In rice dishes** (mansaf, maqluba) — added to the rice pot.
-- **In stews** — slow-cooked lamb, beef stews.
+- **In kofta / kafta** - essential. The Levantine "warm spice" identity.
+- **In rice dishes** (mansaf, maqluba) - added to the rice pot.
+- **In stews** - slow-cooked lamb, beef stews.
 
-The Levantine love of allspice distinguishes the region from Persian / Iranian cooking (which uses more saffron) and Maghrebi cooking (which uses more ras el hanout — covered below).
+The Levantine love of allspice distinguishes the region from Persian / Iranian cooking (which uses more saffron) and Maghrebi cooking (which uses more ras el hanout - covered below).
 
 ## Cinnamon
 
 Warm-sweet. Used in both savoury and sweet Middle Eastern cooking.
 
 ### Where cinnamon goes
-- **In savoury rice dishes** — mansaf, mujadara, maqluba (a stick added to the rice pot).
-- **In meat stews** — slow-cooked lamb with cinnamon + onion + tomato is traditional.
-- **In sweet dishes** — knafeh, baklava, atayef.
+- **In savoury rice dishes** - mansaf, mujadara, maqluba (a stick added to the rice pot).
+- **In meat stews** - slow-cooked lamb with cinnamon + onion + tomato is traditional.
+- **In sweet dishes** - knafeh, baklava, atayef.
 
 Use a whole stick for savoury (added to the pot and removed before serving) and ground for sweets.
 
@@ -107,10 +107,10 @@ Use a whole stick for savoury (added to the pot and removed before serving) and 
 Green pods, lightly crushed. Floral, slightly camphor-like, distinctively Middle Eastern.
 
 ### Where cardamom goes
-- **In Arabic coffee** — the traditional use. 6-8 pods per pot of coffee.
-- **In rice** — 2-4 pods in the pot.
-- **In stews** — 2-3 pods in slow-cooked lamb.
-- **In sweet dishes** — kunafa, rice pudding, atayef.
+- **In Arabic coffee** - the traditional use. 6-8 pods per pot of coffee.
+- **In rice** - 2-4 pods in the pot.
+- **In stews** - 2-3 pods in slow-cooked lamb.
+- **In sweet dishes** - kunafa, rice pudding, atayef.
 
 Black cardamom (a different variety, larger and smokier) is used in some Persian and Gulf dishes but less common in everyday Levantine.
 
@@ -119,15 +119,15 @@ Black cardamom (a different variety, larger and smokier) is used in some Persian
 Mild, colour-rich. Used as a finishing sprinkle on hummus, labneh, and dips.
 
 ### Where paprika goes
-- **On hummus and dips** — replaces or supplements Aleppo pepper.
-- **In some kebab mixes** — Egyptian kofta uses paprika.
-- **On baba ghanoush** — colour finish.
+- **On hummus and dips** - replaces or supplements Aleppo pepper.
+- **In some kebab mixes** - Egyptian kofta uses paprika.
+- **On baba ghanoush** - colour finish.
 
 Smoked paprika (pimentón) is more Spanish than Middle Eastern. Use sparingly in Middle Eastern recipes.
 
 ## Baharat (the Levantine all-purpose blend)
 
-Translates as "spices" — the all-purpose Middle Eastern spice mix. Each family has a version; recipes vary widely.
+Translates as "spices" - the all-purpose Middle Eastern spice mix. Each family has a version; recipes vary widely.
 
 ### Traditional baharat (Lebanese / Syrian)
 - 2 tablespoons ground black pepper
@@ -142,14 +142,14 @@ Translates as "spices" — the all-purpose Middle Eastern spice mix. Each family
 Combine; store in a sealed jar.
 
 ### Where baharat goes
-- **In meat dishes** — rubs for lamb, beef, chicken.
-- **In rice dishes** — sprinkled over before cooking.
-- **In stews** — added with the onion / tomato base.
+- **In meat dishes** - rubs for lamb, beef, chicken.
+- **In rice dishes** - sprinkled over before cooking.
+- **In stews** - added with the onion / tomato base.
 
 ### Regional baharat variants
-- **Iraqi baharat** — more cardamom, slightly less cinnamon.
-- **Gulf baharat** — heavier on dried lime (loomi), saffron.
-- **Egyptian baharat** — more cumin, slightly more chilli.
+- **Iraqi baharat** - more cardamom, slightly less cinnamon.
+- **Gulf baharat** - heavier on dried lime (loomi), saffron.
+- **Egyptian baharat** - more cumin, slightly more chilli.
 
 ## Za'atar (the Lebanese / Palestinian herb blend)
 
@@ -165,18 +165,18 @@ A green powder made from dried thyme + sumac + sesame seeds + salt + olive oil (
 Mix; store in a sealed jar.
 
 ### Where za'atar goes
-- **On flat bread** — manakish za'atar (Lebanese breakfast bread topped with za'atar + olive oil).
-- **On labneh** — sprinkled over with olive oil.
-- **On feta** — labneh with za'atar is the traditional mezze.
-- **On grilled chicken** — a herb rub.
-- **In pita pockets** — labneh + cucumber + za'atar inside a pita.
-- **Sprinkled over eggs** — fried egg + za'atar + olive oil is a Lebanese breakfast.
+- **On flat bread** - manakish za'atar (Lebanese breakfast bread topped with za'atar + olive oil).
+- **On labneh** - sprinkled over with olive oil.
+- **On feta** - labneh with za'atar is the traditional mezze.
+- **On grilled chicken** - a herb rub.
+- **In pita pockets** - labneh + cucumber + za'atar inside a pita.
+- **Sprinkled over eggs** - fried egg + za'atar + olive oil is a Lebanese breakfast.
 
 ### Regional za'atar
-- **Lebanese** — heavier on sumac and oregano.
-- **Palestinian** — heavier on sumac and wild thyme.
-- **Jordanian** — slightly more dried sumac.
-- **Modern Israeli** — sometimes adds anise or fennel.
+- **Lebanese** - heavier on sumac and oregano.
+- **Palestinian** - heavier on sumac and wild thyme.
+- **Jordanian** - slightly more dried sumac.
+- **Modern Israeli** - sometimes adds anise or fennel.
 
 ## Ras el hanout (Maghrebi blend)
 
@@ -199,9 +199,9 @@ Translates as "head of the shop" (the shopkeeper's best blend). A complex blend 
 - A pinch of dried lavender (optional)
 
 ### Where ras el hanout goes
-- **In Moroccan tagines** — lamb tagine with prunes + ras el hanout.
-- **In couscous** — over the meat-and-vegetable base.
-- **As a rub** — on roast lamb, chicken, or fish.
+- **In Moroccan tagines** - lamb tagine with prunes + ras el hanout.
+- **In couscous** - over the meat-and-vegetable base.
+- **As a rub** - on roast lamb, chicken, or fish.
 
 This is more Maghrebi than Levantine but worth having in a Middle Eastern pantry for crossover recipes.
 
@@ -216,12 +216,12 @@ The Persian all-spice blend. Lighter, more floral than baharat.
 - 1 tablespoon ground rose petals
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground black pepper
-- 1 teaspoon dried lime (loomi) — ground
+- 1 teaspoon dried lime (loomi) - ground
 
 ### Where advieh goes
-- **In Persian rice (chelo and polos)** — sprinkled over.
-- **In Persian stews (khoresh)** — fesenjan, gheimeh.
-- **As a rub** — for Persian-style kebabs.
+- **In Persian rice (chelo and polos)** - sprinkled over.
+- **In Persian stews (khoresh)** - fesenjan, gheimeh.
+- **As a rub** - for Persian-style kebabs.
 
 ## Other Middle Eastern spices worth knowing
 
@@ -246,7 +246,7 @@ The dried sap of the mastic tree (from the Greek island of Chios). Pine-resin-li
 Distilled flower waters. Used heavily in Middle Eastern desserts (knafeh, baklava, ma'amoul, atayef) and in some savoury dishes (Persian rice).
 
 ### Black lime powder (loomi pulverised)
-A modern preparation — dried lime ground to a fine powder. Sprinkled over Gulf rice dishes or marinades.
+A modern preparation - dried lime ground to a fine powder. Sprinkled over Gulf rice dishes or marinades.
 
 ## A Middle Eastern spice pantry
 
@@ -261,10 +261,10 @@ Total cost to assemble from scratch: about £80-100 from Middle Eastern grocers;
 
 ## Where to source
 
-- **Middle Eastern grocers** (UK: Sweetlands, Yummy Stamford Hill, Damascus Bite) — for fresh spices, the traditional Lebanese / Palestinian brands.
+- **Middle Eastern grocers** (UK: Sweetlands, Yummy Stamford Hill, Damascus Bite) - for fresh spices, the traditional Lebanese / Palestinian brands.
 - **Online**: Bald-Headed Herbs (UK), Cool Chile Co, Sous Chef.
-- **Spice merchants** — Penzeys (US), Steenbergs (UK).
-- **Avoid supermarket spice aisles** — old stock, low quality, expensive per gram.
+- **Spice merchants** - Penzeys (US), Steenbergs (UK).
+- **Avoid supermarket spice aisles** - old stock, low quality, expensive per gram.
 
 A small spice grinder (£15) + a mortar and pestle (£10) makes the difference. Whole spices toasted and ground fresh have 3x the aroma of pre-ground.
 

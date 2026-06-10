@@ -2,17 +2,17 @@
 
 ![Naan and kulcha](resources/naan.jpg)
 
-*Naan is the famous restaurant bread — the teardrop-shaped, charred, leavened tandoor bread that comes with the curry. Kulcha is its less-famous Punjabi cousin: slightly smaller, sometimes stuffed, often paired with chole. Both are made the same way; both are tandoor-baked in restaurants and slightly-modified-but-still-good at home.*
+*Naan is the famous restaurant bread - the teardrop-shaped, charred, leavened tandoor bread that comes with the curry. Kulcha is its less-famous Punjabi cousin: slightly smaller, sometimes stuffed, often paired with chole. Both are made the same way; both are tandoor-baked in restaurants and slightly-modified-but-still-good at home.*
 
 ## Overview
 
-Naan and kulcha are leavened breads — made with maida (refined flour) + yogurt + a touch of leavening (yeast OR baking powder + baking soda) + sometimes egg. The dough is softer than roti dough; the bread has chew and structure that unleavened roti can't match.
+Naan and kulcha are leavened breads - made with maida (refined flour) + yogurt + a touch of leavening (yeast OR baking powder + baking soda) + sometimes egg. The dough is softer than roti dough; the bread has chew and structure that unleavened roti can't match.
 
 The defining technique: high-heat baking on a tandoor wall at 480-500°C. The bread is slapped onto the inside of the hot clay; it sticks; it cooks in 60-90 seconds; the bartender pries it off with a hook. Result: chewy, blistered, slightly charred, irregularly puffed.
 
 At home, the substitute: a baking stone preheated in a 250°C oven, or a heavy cast-iron pan flipped upside-down on the cooktop as an improvised tandoor surface. Neither hits the real tandoor's heat profile, but both produce decent naan.
 
-This page covers both naan and kulcha — they share the same base dough.
+This page covers both naan and kulcha - they share the same base dough.
 
 ## Dough (makes 8 naans)
 
@@ -60,7 +60,7 @@ For home cooks without a baking stone:
 3. Wet one side of the naan with water (use your hands or a brush).
 4. Place the naan wet-side-down in the pan.
 5. Cook 60-90 seconds. The wet side sticks to the pan; the upper side begins to bubble.
-6. Now invert the pan over an open gas flame (carefully — the naan is still attached to the pan by the wet side). The upper side will cook quickly from the direct flame.
+6. Now invert the pan over an open gas flame (carefully - the naan is still attached to the pan by the wet side). The upper side will cook quickly from the direct flame.
 7. After 30-45 seconds of flame-cooking, flip the pan over; the naan releases. Brush with ghee.
 
 This stovetop technique simulates the tandoor's two-sided cooking: the wet-down-side cooks in contact with the pan (like the tandoor wall); the up-side cooks from the open flame (like the open top of the tandoor).
@@ -103,7 +103,7 @@ Both are tandoor-baked. The difference: tandoori roti is unleavened (atta dough)
 
 ## Kulcha
 
-Kulcha is the Punjabi cousin of naan. Same dough; slightly different ratio (less yogurt, more flour); often stuffed. The famous version is amritsari kulcha — a chole-bhature-style street food from Amritsar in Punjab.
+Kulcha is the Punjabi cousin of naan. Same dough; slightly different ratio (less yogurt, more flour); often stuffed. The famous version is amritsari kulcha - a chole-bhature-style street food from Amritsar in Punjab.
 
 ### Plain kulcha
 Same dough as naan but with slightly less yogurt. Rolled into rounds (not teardrop); cooked the same way; slightly chewier and less puffy.
@@ -153,12 +153,12 @@ For a weekday Indian dinner: use the tawa method instead. 30-40 minutes total fr
 
 ## Pairing
 
-- **Naan with butter chicken** — the traditional UK Indian restaurant pairing.
-- **Naan with dal makhani** — the Punjabi household pairing.
-- **Naan with tandoori chicken or tikka** — the BBQ-style Punjabi pairing.
-- **Kulcha with chole** — the Punjabi street-food pairing.
-- **Naan with paneer butter masala** — the vegetarian classic.
+- **Naan with butter chicken** - the traditional UK Indian restaurant pairing.
+- **Naan with dal makhani** - the Punjabi household pairing.
+- **Naan with tandoori chicken or tikka** - the BBQ-style Punjabi pairing.
+- **Kulcha with chole** - the Punjabi street-food pairing.
+- **Naan with paneer butter masala** - the vegetarian classic.
 
 ## After the naan
 
-With naan in your repertoire, you've covered the "leavened" Indian bread family. The next page covers the "deep-fried" family — puri and bhatura.
+With naan in your repertoire, you've covered the "leavened" Indian bread family. The next page covers the "deep-fried" family - puri and bhatura.
