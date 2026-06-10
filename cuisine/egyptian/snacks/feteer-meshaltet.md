@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Feteer Meshaltet
 
 ![Feteer Meshaltet](resources/feteer-meshaltet.jpg)

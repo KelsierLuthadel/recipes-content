@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Ful Medames
 
 ![Ful Medames](resources/ful-medames.jpg)

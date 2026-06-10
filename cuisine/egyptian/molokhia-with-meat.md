@@ -1,4 +1,3 @@
-<!-- TODO: hero image undersized, refresh from Pexels or hand-curate -->
 # Molokhia with Meat
 
 ![Molokhia with Meat](resources/molokhia-with-meat.jpg)
