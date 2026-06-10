@@ -16,6 +16,7 @@ mentions:
   - drinks/fruit/fresh-orange-juice
   - tutorials/cocktails/equipment
   - tutorials/cocktails/garnish
+  - tutorials/spices/storage
 ingredients:
   - qty: 180
     unit: ml

@@ -11,6 +11,7 @@ mentions:
   - tutorials/distilling-spirits/applejack
   - tutorials/distilling-spirits/safety
   - tutorials/distilling-spirits/whisky
+  - tutorials/spices/storage
 ingredients:
   - qty: 6.5
     unit: kg

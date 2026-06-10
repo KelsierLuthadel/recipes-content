@@ -10,7 +10,8 @@ tags:
   - butter
   - cream
   - chocolate
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: ml

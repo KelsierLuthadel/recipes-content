@@ -13,6 +13,7 @@ mentions:
   - drinks/cocktails/tom-collins
   - tutorials/cocktails/garnish
   - tutorials/cocktails/shake-vs-stir
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: ml

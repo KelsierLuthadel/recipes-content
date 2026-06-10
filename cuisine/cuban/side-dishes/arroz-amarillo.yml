@@ -19,6 +19,7 @@ mentions:
   - cuisine/cuban/ropa-vieja
   - drinks/cocktails/mojito
   - tutorials/cocktails/garnish
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

@@ -14,7 +14,8 @@ tags:
   - carrot
   - butter
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

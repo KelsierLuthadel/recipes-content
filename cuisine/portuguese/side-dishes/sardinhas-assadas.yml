@@ -9,7 +9,8 @@ tags:
   - fish
   - potato
   - lemon
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 12
     name: sardines

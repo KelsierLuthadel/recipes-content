@@ -16,7 +16,8 @@ tags:
   - lime
   - chili
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.5
     unit: kg

@@ -15,6 +15,7 @@ tags:
 mentions:
   - cuisine/italian/pesto
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: prepared pizza dough bases

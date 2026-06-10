@@ -12,6 +12,7 @@ tags:
 mentions:
   - tutorials/cocktails/equipment
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: eggs

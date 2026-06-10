@@ -19,6 +19,7 @@ tags:
   - complex
 mentions:
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 180
     unit: ml

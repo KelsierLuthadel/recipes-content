@@ -12,7 +12,8 @@ tags:
   - garlic
   - ginger
   - curry
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 700
     unit: g

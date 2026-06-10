@@ -23,6 +23,7 @@ tags:
 mentions:
   - sauces/fruit-sauce/port-sauce
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: steaks

@@ -12,7 +12,8 @@ tags:
   - beef
   - onion
   - potato
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: natural-casing all-beef hot dogs

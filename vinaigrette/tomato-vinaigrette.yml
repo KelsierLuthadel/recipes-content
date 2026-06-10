@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - tomato
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 150
     unit: ml

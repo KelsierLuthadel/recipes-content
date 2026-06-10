@@ -27,6 +27,7 @@ mentions:
   - cuisine/british/shepherds-pie
   - tutorials/bread/cottage
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

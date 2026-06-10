@@ -24,6 +24,7 @@ mentions:
   - cuisine/chilean/ensalada-chilena
   - cuisine/indian/side-dishes/onion-salad
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: kg

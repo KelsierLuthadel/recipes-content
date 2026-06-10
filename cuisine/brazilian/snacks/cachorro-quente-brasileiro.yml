@@ -25,6 +25,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: long mild salsicha sausages

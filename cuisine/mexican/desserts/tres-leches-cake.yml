@@ -13,7 +13,8 @@ tags:
   - cream
   - complex
   - day-of-the-dead
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 5
     name: eggs

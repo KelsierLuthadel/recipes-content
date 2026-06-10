@@ -14,7 +14,8 @@ tags:
   - pork
   - cream
   - cheese
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: long strasbourg-style frankfurters

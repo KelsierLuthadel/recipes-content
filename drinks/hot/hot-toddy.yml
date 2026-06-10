@@ -11,6 +11,7 @@ tags:
   - honey
 mentions:
   - tutorials/distilling-spirits/whisky
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: ml

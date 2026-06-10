@@ -9,7 +9,8 @@ tags:
   - ginger
   - lime
   - honey
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: lemongrass stalks

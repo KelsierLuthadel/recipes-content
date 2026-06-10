@@ -20,7 +20,8 @@ tags:
   - complex
   - eid-al-adha
   - muslim
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.5
     unit: kg

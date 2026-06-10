@@ -22,6 +22,7 @@ mentions:
   - bread-pasta/burger-buns
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 700
     unit: g

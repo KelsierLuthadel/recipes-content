@@ -14,7 +14,8 @@ tags:
   - onion
   - lemon
   - cheese
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 160
     unit: g

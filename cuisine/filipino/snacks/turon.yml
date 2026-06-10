@@ -6,7 +6,8 @@ tags:
   - vegetarian
   - gluten-free
   - snack
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 6
     name: saba bananas

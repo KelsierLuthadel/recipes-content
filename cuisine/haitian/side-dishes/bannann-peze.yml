@@ -11,6 +11,7 @@ tags:
   - lime
 mentions:
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: green plantains

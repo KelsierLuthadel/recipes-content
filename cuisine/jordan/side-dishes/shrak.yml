@@ -13,6 +13,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/mezze
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

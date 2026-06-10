@@ -12,6 +12,7 @@ mentions:
   - cuisine/chilean/charquican
   - cuisine/chilean/lomo-a-lo-pobre
   - cuisine/chilean/plateada
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.2
     unit: kg

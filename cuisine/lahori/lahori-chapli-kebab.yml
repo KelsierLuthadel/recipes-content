@@ -26,6 +26,7 @@ tags:
 mentions:
   - tutorials/middle-eastern-fundamentals/kebabs
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

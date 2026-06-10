@@ -15,7 +15,8 @@ tags:
   - coriander
   - chili
   - day-of-the-dead
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: avocados

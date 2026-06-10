@@ -12,6 +12,7 @@ mentions:
   - drinks/hot/hot-toddy
   - tutorials/cocktails/garnish
   - tutorials/distilling-spirits/whisky
+  - tutorials/spices/storage
 ingredients:
   - qty: 45
     unit: ml

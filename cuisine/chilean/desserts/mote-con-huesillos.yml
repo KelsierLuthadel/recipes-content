@@ -9,7 +9,8 @@ tags:
   - dessert
   - make-ahead
   - lemon
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 12
     name: peaches

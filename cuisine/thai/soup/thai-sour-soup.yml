@@ -15,7 +15,8 @@ tags:
   - lime
   - coriander
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     name: galangal

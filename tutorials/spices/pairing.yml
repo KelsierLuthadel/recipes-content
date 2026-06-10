@@ -1,0 +1,20 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spices
+mentions:
+  - cuisine/american/desserts/pumpkin-pie
+  - cuisine/chinese/mapo-tofu
+  - cuisine/greek/moussaka
+  - cuisine/indian/biryani
+  - cuisine/mexican/jays-mixed-chilli
+  - cuisine/scottish/snacks/shortbread
+  - cuisine/southwest/carne-adovada
+  - drinks/hot/mulled-wine
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/blooming-and-toasting
+  - tutorials/stocks-sauces/bechamel

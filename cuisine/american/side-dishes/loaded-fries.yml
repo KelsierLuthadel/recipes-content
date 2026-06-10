@@ -26,6 +26,7 @@ mentions:
   - sauces/sauce-spicy/buffalo-sauce
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.2
     unit: kg

@@ -7,7 +7,8 @@ tags:
   - gluten-free
   - quick
   - onion
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: g

@@ -14,6 +14,7 @@ mentions:
   - drinks/classic/lemonade
   - drinks/cocktails/margarita
   - tutorials/distilling-spirits/whisky
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: ml

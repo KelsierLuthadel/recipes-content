@@ -24,6 +24,7 @@ tags:
 mentions:
   - tutorials/bread/gluten
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: tbsp

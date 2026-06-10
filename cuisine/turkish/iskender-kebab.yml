@@ -24,6 +24,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/rice/pilaf
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

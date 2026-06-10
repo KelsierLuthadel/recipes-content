@@ -14,7 +14,8 @@ tags:
   - onion
   - garlic
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

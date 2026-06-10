@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - yogurt
   - nuts
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

@@ -13,6 +13,7 @@ mentions:
   - cuisine/mexican/tacos-al-pastor
   - drinks/regional/mexico/horchata
   - drinks/regional/nigeria/zobo
+  - tutorials/spices/storage
 ingredients:
   - qty: 80
     unit: g

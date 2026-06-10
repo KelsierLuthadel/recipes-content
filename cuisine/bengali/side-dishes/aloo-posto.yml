@@ -10,7 +10,8 @@ tags:
   - spicy
   - sides
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: g

@@ -14,6 +14,7 @@ mentions:
   - cuisine/cuban/platanos-maduros
   - cuisine/mexican/carne-asada
   - cuisine/puerto-rican/side-dishes/maduros
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: plantains

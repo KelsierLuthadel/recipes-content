@@ -11,7 +11,8 @@ tags:
   - potato
   - butter
   - st-patricks
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: kg

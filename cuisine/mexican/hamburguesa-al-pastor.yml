@@ -26,6 +26,7 @@ mentions:
   - cuisine/mexican/snacks/salsa-roja
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

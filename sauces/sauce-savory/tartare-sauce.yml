@@ -15,6 +15,7 @@ mentions:
   - base-ingredients/herbs/fines-herbes
   - cuisine/british/fish-and-chips
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: egg yolks

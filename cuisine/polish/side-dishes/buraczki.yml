@@ -9,7 +9,8 @@ tags:
   - onion
   - lemon
   - butter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 750
     unit: g

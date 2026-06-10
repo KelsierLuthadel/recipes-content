@@ -21,6 +21,7 @@ mentions:
   - cuisine/mexican/snacks/guacamole
   - tutorials/cocktails/equipment
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: extra-large flour tortilla

@@ -11,7 +11,8 @@ tags:
   - onion
   - tomato
   - butter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     unit: tbsp

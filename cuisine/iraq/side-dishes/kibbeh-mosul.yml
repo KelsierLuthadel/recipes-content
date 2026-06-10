@@ -20,6 +20,7 @@ mentions:
   - cuisine/middle-east/kibbeh
   - cuisine/middle-east/side-dishes/fattoush
   - cuisine/syria/side-dishes/fattoush
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

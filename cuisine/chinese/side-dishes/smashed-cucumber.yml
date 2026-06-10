@@ -20,6 +20,7 @@ tags:
   - soy-sauce
 mentions:
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: cucumbers

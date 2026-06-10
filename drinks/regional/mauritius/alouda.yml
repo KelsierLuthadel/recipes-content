@@ -7,7 +7,8 @@ tags:
   - vegetarian
   - gluten-free
   - nuts
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     unit: tbsp

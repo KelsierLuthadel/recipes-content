@@ -24,6 +24,7 @@ mentions:
   - cuisine/lebanese/kibbeh
   - cuisine/middle-east/kibbeh
   - drinks/regional/ethiopia/tej
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

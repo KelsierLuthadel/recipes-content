@@ -17,6 +17,7 @@ mentions:
   - sauces/sauce-savory/tartare-sauce
   - tutorials/fish/whole-fish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: catfish fillets

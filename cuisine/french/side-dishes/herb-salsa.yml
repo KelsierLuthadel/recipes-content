@@ -17,6 +17,7 @@ mentions:
   - tutorials/mexican-fundamentals/salsas
   - tutorials/pasta/pasta
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: g

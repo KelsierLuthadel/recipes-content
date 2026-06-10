@@ -14,6 +14,7 @@ mentions:
   - drinks/classic/lemonade
   - drinks/cocktails/mojito
   - tutorials/cocktails/garnish
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: mint leaves

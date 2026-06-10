@@ -18,6 +18,7 @@ tags:
   - complex
 mentions:
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 700
     unit: g

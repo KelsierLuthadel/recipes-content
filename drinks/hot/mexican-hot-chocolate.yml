@@ -12,6 +12,7 @@ tags:
 mentions:
   - cuisine/mexican/desserts/champurrado
   - drinks/regional/mexico/champurrado
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: ml

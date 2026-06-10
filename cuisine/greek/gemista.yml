@@ -16,7 +16,8 @@ tags:
   - cheese
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: beef tomatoes

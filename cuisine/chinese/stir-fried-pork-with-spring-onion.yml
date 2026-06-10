@@ -15,6 +15,7 @@ tags:
   - soy-sauce
 mentions:
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: g

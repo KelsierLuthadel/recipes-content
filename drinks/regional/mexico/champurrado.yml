@@ -12,6 +12,7 @@ mentions:
   - cuisine/mexican/desserts/champurrado
   - cuisine/scottish/snacks/tablet
   - drinks/hot/mexican-hot-chocolate
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     unit: tbsp

@@ -13,7 +13,8 @@ tags:
   - onion
   - butter
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: bratwurst

@@ -15,6 +15,7 @@ mentions:
   - cuisine/egyptian/desserts/basbousa
   - cuisine/turkish/desserts/baklava
   - tutorials/cocktails/garnish
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

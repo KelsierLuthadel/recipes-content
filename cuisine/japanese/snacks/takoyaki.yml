@@ -21,6 +21,7 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

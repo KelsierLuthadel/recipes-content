@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - lemon
   - lime
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: l

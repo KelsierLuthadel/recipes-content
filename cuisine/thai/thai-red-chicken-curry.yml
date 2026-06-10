@@ -25,6 +25,7 @@ mentions:
   - tutorials/bread/gluten
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: tbsp

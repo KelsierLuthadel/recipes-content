@@ -15,6 +15,7 @@ tags:
 mentions:
   - cuisine/chilean/charquican
   - cuisine/chilean/lomo-a-lo-pobre
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

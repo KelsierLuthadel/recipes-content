@@ -16,6 +16,7 @@ mentions:
   - cuisine/indian/biryani
   - cuisine/indian/rice/matar-pulao
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

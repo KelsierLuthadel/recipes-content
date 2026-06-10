@@ -18,6 +18,7 @@ mentions:
   - cuisine/texas/texas-chili
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     unit: cup

@@ -21,6 +21,7 @@ mentions:
   - cuisine/barbadian/bajan-fried-chicken
   - cuisine/jamaican/jerk-chicken
   - cuisine/jamaican/snacks/festival
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

@@ -26,6 +26,7 @@ mentions:
   - cuisine/israel/chicken-shawarma
   - cuisine/middle-east/chicken-shawarma
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.5
     unit: kg

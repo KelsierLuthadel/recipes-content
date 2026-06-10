@@ -12,6 +12,7 @@ tags:
 mentions:
   - cuisine/austrian/backhendl
   - cuisine/german/wiener-schnitzel
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

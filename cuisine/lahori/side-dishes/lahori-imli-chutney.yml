@@ -15,6 +15,7 @@ mentions:
   - cuisine/indian/side-dishes/samosa
   - sauces/sauce-fish/tamarind-sauce
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: g

@@ -10,6 +10,7 @@ mentions:
   - cuisine/french/desserts/chocolate-souffle
   - cuisine/french/desserts/crepes
   - tutorials/patisserie/tarts
+  - tutorials/spices/storage
 ingredients:
   - qty: 6
     name: oranges

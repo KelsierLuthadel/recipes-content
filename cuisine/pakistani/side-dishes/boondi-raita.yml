@@ -17,6 +17,7 @@ mentions:
   - cuisine/indian/biryani
   - cuisine/pakistani/haleem
   - tutorials/cocktails/garnish
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

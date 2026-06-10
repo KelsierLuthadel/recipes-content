@@ -16,6 +16,7 @@ tags:
   - ginger
 mentions:
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 150
     unit: g

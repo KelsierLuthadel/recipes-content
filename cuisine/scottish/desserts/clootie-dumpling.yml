@@ -21,6 +21,7 @@ mentions:
   - tutorials/distilling-spirits/whisky
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: g

@@ -21,6 +21,7 @@ tags:
 mentions:
   - cuisine/indian/BIR-chicken-curry
   - cuisine/indian/BIR-Chicken-Vindaloo
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: chicken thighs

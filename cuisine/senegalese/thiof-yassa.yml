@@ -22,6 +22,7 @@ mentions:
   - tutorials/fish/whole-fish
   - tutorials/pizza/sauce
   - tutorials/rice/boiled-rice
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: white fish or 4 thick white fish fillets

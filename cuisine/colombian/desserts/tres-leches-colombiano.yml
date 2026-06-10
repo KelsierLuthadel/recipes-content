@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - eggs
   - cream
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 6
     name: eggs

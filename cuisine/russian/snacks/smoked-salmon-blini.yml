@@ -15,7 +15,8 @@ tags:
   - cream
   - complex
   - yom-kippur
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: g

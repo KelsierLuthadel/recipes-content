@@ -20,6 +20,7 @@ mentions:
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: all-beef hot dogs

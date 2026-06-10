@@ -23,6 +23,7 @@ mentions:
   - cuisine/british/snacks/pork-pie
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: g

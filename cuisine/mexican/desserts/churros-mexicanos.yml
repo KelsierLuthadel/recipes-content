@@ -18,6 +18,7 @@ mentions:
   - sauces/sauce-sweet/chocolate-sauce
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: ml

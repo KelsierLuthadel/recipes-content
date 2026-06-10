@@ -1,0 +1,21 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spices
+mentions:
+  - cuisine/arabian/kabsa
+  - cuisine/cajun/jambalaya
+  - cuisine/ethiopian/doro-wat
+  - cuisine/ethiopian/side-dishes/injera
+  - cuisine/jordan/mansaf
+  - cuisine/lebanese/kibbeh
+  - cuisine/mexican/cochinita-pibil
+  - cuisine/mexican/mole-poblano
+  - cuisine/middle-east/kibbeh
+  - tutorials/cocktails/garnish
+  - tutorials/mexican-fundamentals/mole
+  - tutorials/pizza/sauce
+  - tutorials/stocks-sauces/bechamel

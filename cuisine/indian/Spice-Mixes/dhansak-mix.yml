@@ -10,7 +10,8 @@ tags:
   - asian
   - spices
   - coriander
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: tsp

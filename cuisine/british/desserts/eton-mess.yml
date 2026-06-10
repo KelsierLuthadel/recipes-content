@@ -11,7 +11,8 @@ tags:
   - cream
   - nuts
   - easter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

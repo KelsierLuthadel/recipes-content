@@ -12,7 +12,8 @@ tags:
   - spinach
   - lime
   - honey
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: large handful

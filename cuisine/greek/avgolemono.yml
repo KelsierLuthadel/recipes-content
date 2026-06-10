@@ -15,7 +15,8 @@ tags:
   - onion
   - carrot
   - lemon
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: chicken or 4 chicken legs

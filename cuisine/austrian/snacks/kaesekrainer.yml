@@ -13,7 +13,8 @@ tags:
   - onion
   - cheese
   - curry
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: kasekrainer

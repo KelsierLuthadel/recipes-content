@@ -14,7 +14,8 @@ tags:
   - cheese
   - chocolate
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 175
     unit: g

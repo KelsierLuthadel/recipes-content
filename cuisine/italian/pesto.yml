@@ -16,6 +16,7 @@ mentions:
   - cuisine/british/vegetable-soup
   - cuisine/italian/lasagne
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 40
     unit: g

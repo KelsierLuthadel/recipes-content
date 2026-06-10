@@ -26,6 +26,7 @@ mentions:
   - cuisine/indian/rice/pilau-rice
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 225
     unit: g

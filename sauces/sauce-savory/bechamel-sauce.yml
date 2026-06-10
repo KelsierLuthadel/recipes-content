@@ -12,6 +12,7 @@ mentions:
   - cuisine/greek/moussaka
   - sauces/sauce-savory/cheese-sauce
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 30
     unit: g

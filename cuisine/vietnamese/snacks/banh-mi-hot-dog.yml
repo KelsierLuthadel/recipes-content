@@ -22,6 +22,7 @@ mentions:
   - cuisine/french/snacks/chicken-liver-pate
   - cuisine/vietnamese/snacks/banh-mi
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

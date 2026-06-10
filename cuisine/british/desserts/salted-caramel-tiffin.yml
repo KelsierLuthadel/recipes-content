@@ -9,7 +9,8 @@ tags:
   - butter
   - chocolate
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: g

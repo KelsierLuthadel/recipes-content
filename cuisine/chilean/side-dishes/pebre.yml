@@ -19,6 +19,7 @@ tags:
 mentions:
   - cuisine/chilean/chorrillana
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: tomatoes

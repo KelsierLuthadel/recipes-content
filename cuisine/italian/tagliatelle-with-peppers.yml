@@ -12,7 +12,8 @@ tags:
   - meals
   - onion
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     unit: tbsp

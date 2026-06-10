@@ -8,7 +8,8 @@ tags:
   - gluten-free
   - meat
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: kg

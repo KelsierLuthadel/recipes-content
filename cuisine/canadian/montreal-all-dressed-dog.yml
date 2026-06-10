@@ -17,6 +17,7 @@ mentions:
   - cuisine/canadian/poutine
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: standard all-beef frankfurters

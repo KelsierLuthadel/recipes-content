@@ -21,6 +21,7 @@ mentions:
   - cuisine/chinese/char-siu
   - cuisine/chinese/fried-rice
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

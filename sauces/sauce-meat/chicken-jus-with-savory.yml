@@ -10,7 +10,8 @@ tags:
   - garlic
   - potato
   - carrot
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

@@ -19,6 +19,7 @@ tags:
 mentions:
   - tutorials/pizza/dough
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

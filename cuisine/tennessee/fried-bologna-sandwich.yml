@@ -16,6 +16,7 @@ tags:
   - cheese
 mentions:
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: bologna

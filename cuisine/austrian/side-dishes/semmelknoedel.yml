@@ -17,6 +17,7 @@ mentions:
   - cuisine/austrian/tafelspitz
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

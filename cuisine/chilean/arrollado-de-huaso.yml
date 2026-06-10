@@ -23,6 +23,7 @@ tags:
 mentions:
   - cuisine/chilean/ensalada-chilena
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

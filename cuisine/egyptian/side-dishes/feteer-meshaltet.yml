@@ -11,6 +11,7 @@ tags:
   - honey
 mentions:
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

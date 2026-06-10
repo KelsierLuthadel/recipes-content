@@ -11,7 +11,8 @@ tags:
   - garlic
   - lemon
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: roman artichokes

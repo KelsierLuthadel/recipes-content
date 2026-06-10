@@ -25,6 +25,7 @@ mentions:
   - cuisine/indian/side-dishes/samosa
   - cuisine/indian/snacks/samosa
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

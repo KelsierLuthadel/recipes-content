@@ -14,6 +14,7 @@ mentions:
   - cuisine/indian/BIR-Butter-Chicken
   - cuisine/indian/butter-chicken
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

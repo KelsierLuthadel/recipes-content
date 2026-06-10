@@ -13,7 +13,8 @@ tags:
   - cream
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: ml

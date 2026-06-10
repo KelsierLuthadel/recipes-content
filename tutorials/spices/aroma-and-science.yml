@@ -1,0 +1,13 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spices
+mentions:
+  - cuisine/indian/biryani
+  - tutorials/mexican-fundamentals/mole
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/blooming-and-toasting
+  - tutorials/spices/storage

@@ -17,6 +17,7 @@ tags:
 mentions:
   - cuisine/chinese/lemon-chicken
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 225
     unit: g

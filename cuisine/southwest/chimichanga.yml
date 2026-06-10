@@ -21,6 +21,7 @@ mentions:
   - cuisine/american/pulled-pork
   - cuisine/mexican/snacks/guacamole
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

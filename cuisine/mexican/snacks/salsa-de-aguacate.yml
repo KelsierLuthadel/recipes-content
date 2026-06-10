@@ -19,6 +19,7 @@ mentions:
   - cuisine/mexican/snacks/guacamole
   - tutorials/mexican-fundamentals/salsas
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     name: avocados

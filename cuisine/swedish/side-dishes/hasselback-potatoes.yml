@@ -20,6 +20,7 @@ tags:
   - cheese
 mentions:
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: yellow waxy potatoes

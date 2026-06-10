@@ -23,6 +23,7 @@ mentions:
   - drinks/cocktails/manhattan
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: g

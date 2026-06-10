@@ -21,6 +21,7 @@ tags:
 mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: g

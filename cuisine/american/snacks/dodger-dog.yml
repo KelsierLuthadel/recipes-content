@@ -20,6 +20,7 @@ mentions:
   - sauces/sauce-savory/cheese-sauce
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: footlong all-pork or beef-and-pork frankfurters

@@ -15,7 +15,8 @@ tags:
   - garlic
   - tomato
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 60
     unit: ml

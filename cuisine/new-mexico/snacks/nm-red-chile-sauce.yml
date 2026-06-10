@@ -17,6 +17,7 @@ mentions:
   - cuisine/southwest/carne-adovada
   - cuisine/texas/frito-pie
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 14
     name: new mexico red chiles ; stems and seeds removed

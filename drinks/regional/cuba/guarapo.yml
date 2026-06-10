@@ -10,7 +10,8 @@ tags:
   - make-ahead
   - ginger
   - lime
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: ml

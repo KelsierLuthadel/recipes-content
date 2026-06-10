@@ -18,6 +18,7 @@ tags:
   - chili
 mentions:
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: g

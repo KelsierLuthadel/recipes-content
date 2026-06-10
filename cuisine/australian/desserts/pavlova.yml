@@ -11,7 +11,8 @@ tags:
   - lemon
   - cream
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 6
     name: egg whites

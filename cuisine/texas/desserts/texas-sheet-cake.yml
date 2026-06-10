@@ -13,7 +13,8 @@ tags:
   - butter
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g

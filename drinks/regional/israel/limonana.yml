@@ -12,6 +12,7 @@ tags:
 mentions:
   - drinks/classic/lemonade
   - drinks/regional/lebanon/limonana
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: ml

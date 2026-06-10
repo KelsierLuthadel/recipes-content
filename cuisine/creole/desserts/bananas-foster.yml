@@ -8,7 +8,8 @@ tags:
   - quick
   - dessert
   - butter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: firm-ripe bananas

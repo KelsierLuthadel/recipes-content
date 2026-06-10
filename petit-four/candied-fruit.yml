@@ -6,7 +6,8 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: grapefruits or 6 oranges

@@ -16,6 +16,7 @@ tags:
 mentions:
   - baking/pastry/filo-pastry
   - tutorials/pastry/filo
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

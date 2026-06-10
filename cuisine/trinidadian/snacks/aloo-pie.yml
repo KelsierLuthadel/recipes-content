@@ -22,6 +22,7 @@ mentions:
   - sauces/sauce-fish/tamarind-sauce
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

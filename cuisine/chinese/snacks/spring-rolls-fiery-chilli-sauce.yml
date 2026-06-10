@@ -26,6 +26,7 @@ mentions:
   - cuisine/chinese/snacks/spring-rolls
   - drinks/regional/china/jasmine-tea
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 25
     unit: g

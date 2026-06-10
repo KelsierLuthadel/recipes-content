@@ -20,6 +20,7 @@ tags:
   - complex
 mentions:
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: hot dogs

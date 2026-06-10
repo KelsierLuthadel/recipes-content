@@ -12,7 +12,8 @@ tags:
   - garlic
   - potato
   - lemon
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: t-bone or porterhouse steak

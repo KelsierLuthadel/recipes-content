@@ -19,6 +19,7 @@ mentions:
   - cuisine/indian/BIR-Butter-Chicken
   - cuisine/indian/butter-chicken
   - cuisine/indian/rice/plain-basmati
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

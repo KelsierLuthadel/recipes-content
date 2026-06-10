@@ -12,6 +12,7 @@ tags:
 mentions:
   - cuisine/french/desserts/clafoutis
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: ml

@@ -9,7 +9,8 @@ tags:
   - quick
   - ginger
   - lemon
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: ml

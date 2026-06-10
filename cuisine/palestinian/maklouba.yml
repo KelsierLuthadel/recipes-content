@@ -16,7 +16,8 @@ tags:
   - yogurt
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: chicken thighs and drumsticks

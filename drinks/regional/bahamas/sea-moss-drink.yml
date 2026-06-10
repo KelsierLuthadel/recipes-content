@@ -8,7 +8,8 @@ tags:
   - make-ahead
   - lime
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 30
     unit: g

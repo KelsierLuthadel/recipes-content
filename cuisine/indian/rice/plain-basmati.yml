@@ -12,6 +12,7 @@ mentions:
   - cuisine/chinese/fried-rice
   - cuisine/indian/rice/lemon-rice
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

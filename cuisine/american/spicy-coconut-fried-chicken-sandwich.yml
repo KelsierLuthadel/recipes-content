@@ -18,6 +18,7 @@ mentions:
   - cuisine/jamaican/snacks/coco-bread
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 450
     unit: g

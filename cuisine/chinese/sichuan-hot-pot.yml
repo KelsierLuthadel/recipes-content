@@ -32,6 +32,7 @@ tags:
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: g

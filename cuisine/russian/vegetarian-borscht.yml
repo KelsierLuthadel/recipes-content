@@ -16,6 +16,7 @@ tags:
 mentions:
   - cuisine/russian/borscht
   - cuisine/ukrainian/borscht
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     unit: tbsp

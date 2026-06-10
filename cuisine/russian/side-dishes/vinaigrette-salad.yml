@@ -12,7 +12,8 @@ tags:
   - potato
   - carrot
   - chickpea
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: beetroots

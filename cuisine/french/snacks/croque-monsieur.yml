@@ -12,7 +12,8 @@ tags:
   - pork
   - butter
   - cheese
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 30
     unit: g

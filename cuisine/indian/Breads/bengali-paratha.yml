@@ -12,6 +12,7 @@ mentions:
   - cuisine/indian/lamb-karahi
   - tutorials/indian-breads/paratha
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 180
     unit: g

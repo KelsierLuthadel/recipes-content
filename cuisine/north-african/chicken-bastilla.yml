@@ -21,6 +21,7 @@ mentions:
   - baking/pastry/filo-pastry
   - tutorials/pastry/filo
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

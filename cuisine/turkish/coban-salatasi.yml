@@ -15,6 +15,7 @@ mentions:
   - cuisine/turkish/pide
   - tutorials/middle-eastern-fundamentals/kebabs
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: tomatoes

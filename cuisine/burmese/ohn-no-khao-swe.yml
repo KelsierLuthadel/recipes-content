@@ -27,6 +27,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 8
     name: chicken thighs

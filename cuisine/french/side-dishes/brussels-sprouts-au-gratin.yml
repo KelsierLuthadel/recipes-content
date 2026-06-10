@@ -9,7 +9,8 @@ tags:
   - sides
   - garlic
   - cheese
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 480
     unit: g

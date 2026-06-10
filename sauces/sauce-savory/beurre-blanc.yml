@@ -12,6 +12,7 @@ tags:
 mentions:
   - cuisine/chinese/steamed-fish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 75
     unit: ml

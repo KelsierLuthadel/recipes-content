@@ -23,6 +23,7 @@ mentions:
   - cuisine/texas/chicken-fried-steak
   - sauces/sauce-fish/lemon-sauce
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 250
     unit: g

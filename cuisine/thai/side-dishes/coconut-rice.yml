@@ -19,6 +19,7 @@ mentions:
   - cuisine/indian/BIR-Chicken-Vindaloo
   - cuisine/indian/rice/coconut-rice
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 225
     unit: g

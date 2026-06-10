@@ -10,7 +10,8 @@ tags:
   - meat
   - eggs
   - easter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 140
     unit: g

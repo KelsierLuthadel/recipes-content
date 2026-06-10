@@ -8,6 +8,7 @@ tags:
   - quick
 mentions:
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: g

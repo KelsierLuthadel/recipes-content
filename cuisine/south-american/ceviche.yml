@@ -16,7 +16,8 @@ tags:
   - tomato
   - lime
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: g

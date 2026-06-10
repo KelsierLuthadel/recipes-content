@@ -25,6 +25,7 @@ mentions:
   - tutorials/bread/proving
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g

@@ -25,6 +25,7 @@ mentions:
   - drinks/cocktails/mojito
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

@@ -13,6 +13,7 @@ tags:
 mentions:
   - drinks/classic/lemonade
   - drinks/cocktails/margarita
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: g

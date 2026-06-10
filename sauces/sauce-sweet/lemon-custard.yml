@@ -11,7 +11,8 @@ tags:
   - eggs
   - lemon
   - cream
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 240
     unit: ml

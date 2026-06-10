@@ -15,6 +15,7 @@ mentions:
   - cuisine/american/eggs-benedict
   - cuisine/chinese/steamed-fish
   - cuisine/new-york/eggs-benedict
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: tbsp

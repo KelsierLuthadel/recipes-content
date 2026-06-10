@@ -16,7 +16,8 @@ tags:
   - onion
   - butter
   - nuts
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 50
     unit: g

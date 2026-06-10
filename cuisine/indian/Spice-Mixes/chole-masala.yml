@@ -12,7 +12,8 @@ tags:
   - spices
   - coriander
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     unit: tbsp

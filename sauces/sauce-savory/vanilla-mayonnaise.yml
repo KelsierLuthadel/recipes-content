@@ -10,7 +10,8 @@ tags:
   - gluten-free
   - quick
   - eggs
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: egg yolk

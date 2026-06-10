@@ -7,7 +7,8 @@ tags:
   - dairy-free
   - gluten-free
   - lime
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 30
     unit: g

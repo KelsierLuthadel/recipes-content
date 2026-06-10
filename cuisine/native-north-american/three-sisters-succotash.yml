@@ -10,7 +10,8 @@ tags:
   - onion
   - garlic
   - butter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     unit: tbsp

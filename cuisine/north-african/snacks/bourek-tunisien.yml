@@ -20,6 +20,7 @@ mentions:
   - cuisine/north-african/slata-mechouia
   - tutorials/pastry/filo
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g

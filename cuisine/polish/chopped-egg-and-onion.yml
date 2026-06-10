@@ -12,7 +12,8 @@ tags:
   - passover
   - yom-kippur
   - sukkot
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 6
     name: eggs

@@ -17,7 +17,8 @@ tags:
   - chili
   - complex
   - day-of-the-dead
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     name: tomatoes

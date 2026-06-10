@@ -10,7 +10,8 @@ tags:
   - dessert
   - chili
   - tu-bav
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 170
     unit: g

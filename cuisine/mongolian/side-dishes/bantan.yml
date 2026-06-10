@@ -12,6 +12,7 @@ tags:
   - onion
 mentions:
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: tbsp

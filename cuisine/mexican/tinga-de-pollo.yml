@@ -23,6 +23,7 @@ mentions:
   - cuisine/mexican/snacks/tostadas
   - sauces/sauce-spicy/chipotle-sauce
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 800
     unit: g

@@ -8,7 +8,8 @@ tags:
   - make-ahead
   - lemon
   - honey
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: medium-bodied red wine

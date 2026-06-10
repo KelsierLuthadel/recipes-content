@@ -19,6 +19,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: bratwurst sausages or chunky all-beef frankfurters

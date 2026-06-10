@@ -16,7 +16,8 @@ tags:
   - garlic
   - butter
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 120
     unit: ml

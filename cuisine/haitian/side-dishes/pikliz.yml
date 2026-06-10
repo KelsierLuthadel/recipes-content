@@ -23,6 +23,7 @@ mentions:
   - cuisine/haitian/poulet-creole
   - cuisine/haitian/tasso
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

@@ -12,7 +12,8 @@ tags:
   - spices
   - coriander
   - curry
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - name: homemade garam masala
     raw: Homemade garam masala

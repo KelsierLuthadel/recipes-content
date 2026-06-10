@@ -16,6 +16,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/kebabs
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: onion

@@ -22,6 +22,7 @@ mentions:
   - cuisine/afghanistan/snacks/mantu
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g

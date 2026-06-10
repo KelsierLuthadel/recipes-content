@@ -26,6 +26,7 @@ mentions:
   - sauces/sauce-savory/bearnaise-sauce
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 260
     unit: ml

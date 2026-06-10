@@ -13,6 +13,7 @@ mentions:
   - drinks/cocktails/tom-collins
   - tutorials/cocktails/garnish
   - tutorials/compound-gin/sloe-gin
+  - tutorials/spices/storage
 ingredients:
   - qty: 50
     unit: ml

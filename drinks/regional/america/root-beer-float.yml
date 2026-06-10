@@ -6,7 +6,8 @@ tags:
   - vegetarian
   - gluten-free
   - quick
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: ml

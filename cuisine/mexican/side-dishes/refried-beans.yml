@@ -17,7 +17,8 @@ tags:
   - cheese
   - complex
   - day-of-the-dead
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g

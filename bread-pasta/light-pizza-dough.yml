@@ -9,6 +9,7 @@ tags:
 mentions:
   - tutorials/bread/hydration
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 450
     unit: g

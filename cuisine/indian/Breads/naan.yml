@@ -18,6 +18,7 @@ mentions:
   - base-ingredients/spices/aromatic-salt
   - tutorials/bread/proving
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 450
     unit: g

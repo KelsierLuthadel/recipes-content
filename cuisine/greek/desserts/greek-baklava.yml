@@ -19,6 +19,7 @@ mentions:
   - cuisine/turkish/desserts/baklava
   - drinks/regional/greece/greek-coffee
   - tutorials/pastry/filo
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

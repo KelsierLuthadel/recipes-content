@@ -14,6 +14,7 @@ mentions:
   - cuisine/french/desserts/pithiviers
   - tutorials/bread/gluten
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 70
     unit: ml

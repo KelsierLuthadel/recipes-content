@@ -15,6 +15,7 @@ mentions:
   - cuisine/british/desserts/hot-cross-buns
   - cuisine/british/desserts/treacle-tart
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: tbsp

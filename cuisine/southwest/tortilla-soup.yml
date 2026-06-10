@@ -22,6 +22,7 @@ mentions:
   - cuisine/british/tomato-soup
   - cuisine/mexican/sopa-de-lima
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.2
     unit: kg

@@ -10,6 +10,7 @@ tags:
   - eggs
 mentions:
   - tutorials/patisserie/tarts
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: egg whites

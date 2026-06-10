@@ -19,6 +19,7 @@ mentions:
   - cuisine/russian/borscht
   - cuisine/russian/vegetarian-borscht
   - cuisine/ukrainian/pampushky
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

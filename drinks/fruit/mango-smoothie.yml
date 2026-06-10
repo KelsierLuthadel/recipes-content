@@ -9,7 +9,8 @@ tags:
   - quick
   - honey
   - nuts
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 2
     name: mangoes or 400 g tinned alphonso / kesar mango pulp

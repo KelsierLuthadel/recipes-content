@@ -19,6 +19,7 @@ mentions:
   - cuisine/mexican/tamales
   - tutorials/cocktails/garnish
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 24
     name: corn husks

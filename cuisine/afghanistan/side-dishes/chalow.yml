@@ -7,7 +7,8 @@ tags:
   - gluten-free
   - sides
   - rice
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g

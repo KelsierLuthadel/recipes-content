@@ -1,0 +1,19 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spices
+mentions:
+  - cuisine/american/desserts/pumpkin-pie
+  - cuisine/cajun/dirty-rice
+  - cuisine/cajun/jambalaya
+  - cuisine/ethiopian/doro-wat
+  - cuisine/ethiopian/misir-wat
+  - cuisine/lebanese/kibbeh
+  - cuisine/lebanese/side-dishes/labneh
+  - cuisine/middle-east/kibbeh
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/pairing
+  - tutorials/spices/storage

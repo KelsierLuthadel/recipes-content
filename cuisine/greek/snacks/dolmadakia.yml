@@ -14,7 +14,8 @@ tags:
   - yogurt
   - nuts
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 50
     name: brined vine leaves plus extras for lining the pot

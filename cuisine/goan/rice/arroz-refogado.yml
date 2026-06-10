@@ -16,7 +16,8 @@ tags:
   - lime
   - coriander
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 300
     unit: g

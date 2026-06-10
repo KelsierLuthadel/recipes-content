@@ -23,6 +23,7 @@ tags:
 mentions:
   - base-ingredients/spices/creole-mix
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 12
     name: shrimp

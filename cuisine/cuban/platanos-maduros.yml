@@ -8,7 +8,8 @@ tags:
   - gluten-free
   - quick
   - meals
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: plantains

@@ -8,7 +8,8 @@ tags:
   - dessert
   - asian
   - coconut
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 200
     unit: g

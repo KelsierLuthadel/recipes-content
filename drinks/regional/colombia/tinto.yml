@@ -7,7 +7,8 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: ml

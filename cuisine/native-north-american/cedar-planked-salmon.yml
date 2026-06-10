@@ -12,7 +12,8 @@ tags:
   - salmon
   - lemon
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: salmon fillet

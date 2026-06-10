@@ -15,6 +15,7 @@ mentions:
   - sauces/sauce-savory/cheese-sauce
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

@@ -12,6 +12,7 @@ mentions:
   - drinks/classic/iced-tea
   - drinks/classic/lemonade
   - drinks/cocktails/tequila-sunrise
+  - tutorials/spices/storage
 ingredients:
   - qty: 350
     unit: ml

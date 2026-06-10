@@ -25,6 +25,7 @@ mentions:
   - drinks/cocktails/bloody-mary
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 30
     unit: ml

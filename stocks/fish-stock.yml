@@ -6,7 +6,8 @@ allergens:
 tags:
   - gluten-free
   - fish
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.5
     unit: kg

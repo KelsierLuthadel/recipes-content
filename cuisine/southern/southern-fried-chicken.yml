@@ -19,6 +19,7 @@ mentions:
   - cuisine/tennessee/nashville-hot-chicken
   - drinks/classic/iced-tea
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.5
     unit: kg

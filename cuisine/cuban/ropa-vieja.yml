@@ -26,6 +26,7 @@ mentions:
   - drinks/cocktails/mojito
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.2
     unit: kg

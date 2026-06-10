@@ -14,6 +14,7 @@ mentions:
   - cuisine/american/snacks/buffalo-wings
   - cuisine/new-york/buffalo-wings
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 125
     unit: ml

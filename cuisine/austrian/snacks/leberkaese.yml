@@ -17,6 +17,7 @@ mentions:
   - cuisine/american/meatloaf
   - drinks/regional/austria/almdudler
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
 ingredients:
   - qty: 500
     unit: g

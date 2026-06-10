@@ -25,6 +25,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/rice/pilaf
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: kg

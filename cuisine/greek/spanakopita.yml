@@ -18,6 +18,7 @@ tags:
 mentions:
   - baking/pastry/filo-pastry
   - tutorials/pastry/filo
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: kg

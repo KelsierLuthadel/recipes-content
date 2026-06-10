@@ -14,7 +14,8 @@ tags:
   - onion
   - garlic
   - potato
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 27
     unit: g

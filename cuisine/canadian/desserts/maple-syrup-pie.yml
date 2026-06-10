@@ -21,6 +21,7 @@ mentions:
   - tutorials/eggs/custards
   - tutorials/patisserie/tarts
   - tutorials/pizza/dough
+  - tutorials/spices/storage
 ingredients:
   - qty: 220
     unit: g

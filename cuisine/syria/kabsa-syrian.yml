@@ -27,6 +27,7 @@ mentions:
   - cuisine/arabian/kabsa
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: chicken

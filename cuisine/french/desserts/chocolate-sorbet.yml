@@ -9,7 +9,8 @@ tags:
   - dessert
   - make-ahead
   - chocolate
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: ml

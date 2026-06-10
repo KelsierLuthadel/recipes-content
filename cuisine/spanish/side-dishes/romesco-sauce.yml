@@ -9,7 +9,8 @@ tags:
   - sides
   - onion
   - lemon
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 4
     name: red peppers

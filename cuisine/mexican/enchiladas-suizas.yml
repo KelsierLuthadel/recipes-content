@@ -23,6 +23,7 @@ mentions:
   - cuisine/mexican/enchilladas
   - drinks/regional/mexico/agua-de-jamaica
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

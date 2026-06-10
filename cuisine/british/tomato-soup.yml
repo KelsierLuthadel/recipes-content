@@ -15,7 +15,8 @@ tags:
   - tomato
   - carrot
   - butter
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 50
     unit: ml

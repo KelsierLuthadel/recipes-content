@@ -16,7 +16,8 @@ tags:
   - carrot
   - lemon
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     name: duck - or 4 large duck legs

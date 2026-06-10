@@ -19,7 +19,8 @@ tags:
   - coriander
   - butter
   - chili
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 3
     name: eggs

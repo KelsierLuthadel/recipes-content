@@ -12,6 +12,7 @@ tags:
   - cheese
 mentions:
   - cuisine/french/quiche-lorraine
+  - tutorials/spices/storage
 ingredients:
   - qty: 375
     unit: g

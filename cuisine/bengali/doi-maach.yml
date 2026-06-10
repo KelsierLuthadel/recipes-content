@@ -22,6 +22,7 @@ mentions:
   - cuisine/bengali/machher-jhol
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 600
     unit: g

@@ -22,7 +22,8 @@ tags:
   - nuts
   - curry
   - complex
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: kg

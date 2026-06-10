@@ -21,6 +21,7 @@ mentions:
   - cuisine/canadian/poutine
   - tutorials/cocktails/equipment
   - tutorials/pizza/sauce
+  - tutorials/spices/storage
 ingredients:
   - qty: 700
     unit: g

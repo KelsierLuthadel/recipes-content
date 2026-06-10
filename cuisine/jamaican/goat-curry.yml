@@ -19,7 +19,8 @@ tags:
   - curry
   - complex
   - kwanzaa
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1.2
     unit: kg

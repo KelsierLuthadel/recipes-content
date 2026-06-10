@@ -14,7 +14,8 @@ tags:
   - eggs
   - onion
   - potato
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 1
     unit: kg

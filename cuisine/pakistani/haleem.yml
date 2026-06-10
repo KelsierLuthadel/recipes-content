@@ -24,7 +24,8 @@ tags:
   - eid-al-adha
   - ramadan
   - muslim
-mentions: []
+mentions:
+  - tutorials/spices/storage
 ingredients:
   - qty: 100
     unit: g

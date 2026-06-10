@@ -20,6 +20,7 @@ mentions:
   - cuisine/egyptian/side-dishes/aysh-baladi
   - cuisine/egyptian/side-dishes/tahina-salad
   - cuisine/israel/side-dishes/falafel
+  - tutorials/spices/storage
 ingredients:
   - qty: 400
     unit: g
