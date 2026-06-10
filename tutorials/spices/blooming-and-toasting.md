@@ -71,9 +71,9 @@ Reversing the order - dumping ground spices into bare hot oil and waiting - turn
 
 ## The Smoke Point Question
 
-Different oils handle spice-tempering differently. Ghee has a high smoke point (~250 C) and is the traditional Indian medium for a reason: you can get it screamingly hot without it breaking down. Mustard oil is also high (~250 C) and adds its own pungent character. Neutral vegetable oils sit around 220-230 C and work fine. Olive oil smokes at 190-210 C and is not the right choice for tempering hard whole spices; the oil burns before the spice releases.
+Different oils handle spice-tempering differently. Ghee has a high smoke point (250° C) and is the traditional Indian medium for a reason: you can get it screamingly hot without it breaking down. Mustard oil is also high (250° C) and adds its own pungent character. Neutral vegetable oils sit around 220-230° C and work fine. Olive oil smokes at 190-210° C and is not the right choice for tempering hard whole spices; the oil burns before the spice releases.
 
-For long-cooked curries with ground spices, the temperature is moderate (the wet base keeps it below 130 C) and any decent oil works.
+For long-cooked curries with ground spices, the temperature is moderate (the wet base keeps it below 130° C) and any decent oil works.
 
 ## When NOT to Heat
 
