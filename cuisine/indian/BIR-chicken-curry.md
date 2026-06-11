@@ -64,7 +64,7 @@ BIR chicken curry is the restaurant style chicken curry built from whole spices 
 1. Remove lid; sauce should be thick with onions integrating into it.
 
 ### Stage 4 - Finish and garnish
-1. Rub dried fenugreek leaves between fingers into sauce and season with salt.
+1. Rub dried fenugreek leaves between fingers into sauce, stir in the garam masala, and season with salt.
 1. Stir in melted ghee if using for richness.
 1. Garnish with chopped coriander and serve hot.
 

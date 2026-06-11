@@ -8,7 +8,7 @@
 
 **Prep Time:** 20 minutes
 
-**Cook Time:** 4 minutes
+**Cook Time:** 3 hours 15 minutes
 
 ## Overview
 Ragù is the great Italian meat sauce, deeply browned beef (or beef-and-pork mix) slow-simmered with soffritto, wine and tomato into something dark and concentrated, the foundation of every Italian Sunday lunch. The dish demands patience, precision and respect for the process. Ground beef (or a beef and pork mix) browns deeply in batches to build caramelisation without steaming. Aromatic vegetables (onion, carrot, celery) soften slowly until sweet. Tomato paste darkens and concentrates its flavour through caramelisation. Red wine deglazes and cooks off. Then comes the long, gentle simmer, one hour forty-five minutes to two hours, where flavours meld and deepen into something far greater than the sum of its parts. This is not a quick sauce; it is an investment in excellence. Serve over fresh tagliatelle or pappardelle.
@@ -41,9 +41,12 @@ Ragù is the great Italian meat sauce, deeply browned beef (or beef-and-pork mix
 
 ## Method
 
+### Stage 0 - Render the pancetta (optional)
+1. If using pancetta, fry the chopped pancetta in 1 tablespoon olive oil in a heavy pan over medium heat 4-5 minutes until the fat renders and the lardons crisp. Lift the pancetta out with a slotted spoon; reserve. Use the rendered fat in place of the oil in Stage 1.
+
 ### Stage 1 - Brown Meat in Batches
 1. Heat a large, heavy pan over medium-high heat for 2 minutes.
-2. Add 1 tablespoon olive oil until shimmering.
+2. Add 1 tablespoon olive oil (or the reserved pancetta fat) until shimmering.
 3. Add half the ground meat, spreading it in an even layer.
 4. Cook without stirring for the first 2 minutes to allow deep browning and caramelization to form.
 5. After 2 minutes, stir occasionally as moisture evaporates.

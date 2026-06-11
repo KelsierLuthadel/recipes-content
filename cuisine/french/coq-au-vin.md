@@ -11,12 +11,12 @@
 **Cook Time:** 1 ¼ hours
 
 ## Overview
-Coq au vin is the Burgundian wine-soaked chicken stew that started life as a way of slow-cooking an old rooster into tenderness and ended up as one of the great French dishes, served at every bistro from Lyon to Lille. Lardons render their fat in a heavy pot; chicken pieces brown hard in the bacon fat to pick up colour. The lot simmers in red wine (Burgundy if you can, any decent red if not) with brandy, stock, garlic, herbs and a spoonful of tomato puree for an hour and a half. Mushrooms and pearl onions sauté separately so they keep their shape and texture, then join at the end. A beurre manié of butter and flour thickens the sauce to a coating gloss. Serve with mashed potato or buttered noodles, with the rest of the wine in the glass.
+Coq au vin is the Burgundian wine-soaked chicken stew that started life as a way of slow-cooking an old rooster into tenderness and ended up as one of the great French dishes, served at every bistro from Lyon to Lille. Lardons render their fat in a heavy pot; chicken pieces brown hard in the bacon fat to pick up colour. The lot simmers in red wine (Burgundy if you can, any decent red if not) with brandy, stock, garlic, herbs and a spoonful of tomato puree for an hour and a half. Mushrooms and pearl onions sauté separately so they keep their shape and texture, then join at the end. The seasoned flour dredge on the chicken thickens the sauce as it braises; a final hard reduction takes it to a coating gloss. Serve with mashed potato or buttered noodles, with the rest of the wine in the glass.
 
 ## Ingredients
 
 ### Chicken
-- 1 chicken (1.6 kg), cut into 8 pieces (or 6 chicken thighs and 4 drumsticks)
+- 1 chicken (1.6 kg), cut into 8 pieces (or 4 chicken thighs and 4 drumsticks)
 - 2 tablespoons plain flour, seasoned with salt and pepper
 - 200 g smoked bacon lardons
 - 2 tablespoons olive oil

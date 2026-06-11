@@ -127,7 +127,7 @@ Less complex than the soft caramels above. A thicker, stickier caramel for coati
 Method:
 1. Combine all ingredients in a heavy saucepan.
 2. Heat slowly, stirring until sugar dissolves.
-3. Cook to 120-125 C (firm ball).
+3. Cook to 130-138 C (hard ball to soft crack); a 120-125°C caramel stays sticky and slides off the apple.
 4. Dip washed dry apples (sticks pushed in for handles) one at a time into the caramel, swirling to coat.
 5. Set on greaseproof paper. Allow to cool 1 hour at room temperature.
 

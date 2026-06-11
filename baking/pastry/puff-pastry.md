@@ -39,7 +39,7 @@ Feuilletage (puff pastry) is the building block for vol-au-vents, mille-feuille,
 
 ### The turns
 1. Lightly flour the work surface, then progressively roll the dough gently away from you into a rectangle about 70 x 40 cm. Fold over the ends to make 3 layers. This is the first turn.
-1. On the lightly floured surface, give the rectangle one-quarter turn and again progressively roll it gently away from your into a 70 x 40 cm rectangle. This is the second turn.
+1. On the lightly floured surface, give the rectangle one-quarter turn and again progressively roll it gently away from you into a 70 x 40 cm rectangle. This is the second turn.
 1. Wrap the dough in greaseproof paper or polythene and place in the fridge for 30 minutes to firm up.
 1. Make 2 more turns as above, then wrap the dough and refrigerate for 30 minutes to 1 hour.
 1. Make 2 more turns, bringing the total to 6. The pastry is now ready to use.

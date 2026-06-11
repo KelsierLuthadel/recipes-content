@@ -2,11 +2,11 @@
 
 ![Sweet and Sour Prawns](resources/ss-prawns.jpg)
 
-*Cantonese sweet and sour prawns: battered prawns deep-fried crisp and tossed in a tangy pineapple-vinegar-sugar sauce with peppers and on.*
+*Cantonese sweet and sour prawns: cornflour-dusted prawns shallow-fried and tossed in a tangy tomato-vinegar-sugar sauce with peppers and spring onion.*
 
 **Serves:** 4
 **Prep Time:** 15 minutes
-**Cook Time:** 2 minutes
+**Cook Time:** 8 minutes
 
 ## Overview
 This is a brighter, lighter sibling of sweet and sour pork, where the prawns cook in seconds and the sauce stays clean instead of getting heavy. Large prawns are dredged in cornflour and shallow-fried until the shells colour and the meat just curls, then lifted out so they don't overcook while you build the sauce. Tomato, rice vinegar, sugar, soy and a flake of dried chilli reduce in the same pan into something glossy and the colour of dark coral; a slurry of cornflour at the end gives it body. The prawns return for a final toss in the sauce, no more than thirty seconds, and out they go onto a warm dish. Eat over rice or as a starter with a beer; the chilli builds slowly behind the sweet and sour.

@@ -6,7 +6,7 @@
 
 **Serves:** 4-6
 **Prep Time:** 15 minutes
-**Cook Time:** 2 minutes
+**Cook Time:** 1 hour 25 minutes (plus overnight drying)
 
 ## Overview
 Peking duck is the duck of duck dishes, the centrepiece of imperial banquets in Beijing for six hundred years and the gold standard against which every other roast-duck cook is measured. The restaurant version involves air-pumping the bird, drying it for days, and roasting in a wood-burning fruit-tree oven; the home version cuts that to a honey-syrup glaze, a long fan-dry overnight in the fridge, and a careful roast that gives you most of the way there. The aim is two distinct elements: shatteringly crisp skin you can hear from across the kitchen, and meat that's still moist underneath. You serve it the proper way: paper-thin pancakes, julienned spring onion and cucumber, a dish of hoisin to brush across each pancake, the carved skin and meat in the middle of the table. Build your own at the table, fold, eat with your hands; never with cutlery.
@@ -36,7 +36,7 @@ Peking duck is the duck of duck dishes, the centrepiece of imperial banquets in 
 1. Combine the lemon slices with the remaining syrup ingredients in a large pot and bring to the boil.
 1. Immediately reduce heat to low and simmer for about 20 minutes.
 1. Using a large ladle, pour this mixture over the duck several times, bathing it completely until all skin is coated.
-1. Hang the duck in a cool, well-ventilated place to dry for at least 6 hours, with a tray underneath to catch syrup.
+1. Set the duck on a rack inside a fridge (or hang it from a hook in a fridge) with a tray underneath to catch the syrup. Dry uncovered at least 6 hours, ideally overnight. Don't dry at room temperature - raw poultry needs to stay below 5°C.
 1. The duck is ready when the skin feels like parchment.
 
 ### Stage 2 - Roast

@@ -8,7 +8,7 @@
 
 **Prep Time:** 10 minutes
 
-**Cook Time:** 1 minute
+**Cook Time:** 10-20 minutes (depending on size)
 
 ## Overview
 Pâte à choux is the building block for éclairs, choux buns, profiteroles, Paris-Brest, religieuses, croquembouche and the savoury cousins like gougères: a pastry with no rising agent at all, lifted purely by steam released from the water in the dough as it hits the hot oven, so the shells puff dramatically and bake into crisp light hollow cases ready to be filled. The technique is unusual because it cooks twice. First, water, milk, butter, salt and sugar boil together in a pan, then sifted flour is dumped in all at once and stirred furiously into a smooth paste. Now the critical step: the pan goes back on the heat for a full minute and you stir constantly while some of the water evaporates from the dough and the paste turns from sticky and shaggy into smooth and dry, just barely coming away from the sides of the pan in a clean ball. Too short and the choux is too wet and won't hold its puff; too long and the dough cracks open as it bakes rather than rising smoothly. Tip the dried-out paste into a bowl, beat in the eggs one at a time with a spatula, fully incorporating each before adding the next; the paste goes glossy and falls off the spatula in a ribbon when ready. Pipe immediately onto parchment in your chosen shape (buns, éclairs, rings for Paris-Brest), bake at 220 C, and after 4 or 5 minutes wedge the oven door slightly open so steam can escape and the shells crisp rather than soften. Bake 10 to 20 minutes depending on size till deep gold and hollow-sounding. Cool, then split and fill with crème pâtissière, Chantilly, ice cream or savoury cheese.
@@ -33,7 +33,7 @@ Pâte à choux is the building block for éclairs, choux buns, profiteroles, Par
 1. Immediately beat in the eggs, one at a time, using a spatula. If you do not want to use it immediately, spread one-third of a beaten egg over the surface to prevent a skin forming, which can happen after a few hours.
 1. Choose an appropriate plain nozzle to pipe out your chosen shape, small or large choux buns or éclair.
 1. Pipe out the paste on baking parchment or a greased baking sheet. 
-1. If you like, glaze the shapes and make them lightly with the back of a fork, dipping it into the glaze each time.
+1. If you like, glaze the shapes and mark them lightly with the back of a fork, dipping it into the glaze each time.
 1. Bake in a preheated oven, then open the door slightly (1-2 cm) after about 4-5 minutes and leave it ajar. 
 1. Cooking time will vary from 10-20 minutes, depending on the size of the buns.
 

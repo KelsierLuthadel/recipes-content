@@ -43,8 +43,8 @@ The textbook British family dinner, the dish that turns up on every primary-scho
 
 ### Stage 1 - Brown the beef
 1. Heat the oil in a large heavy pan over medium-high heat.
-1. Add the beef mince and brown thoroughly, breaking up clumps with a wooden spoon. Drain off most of the fat (keeping a tablespoon for the soffritto).
-1. Scoop out and set aside.
+1. Add the beef mince and brown thoroughly, breaking up clumps with a wooden spoon.
+1. Scoop the browned beef out with a slotted spoon and set aside. Pour off most of the rendered fat, leaving about a tablespoon in the pan for the soffritto.
 
 ### Stage 2 - Build the filling
 1. Cook the onion, carrot and celery in the reserved fat over medium heat for 10 minutes until soft and slightly caramelised.

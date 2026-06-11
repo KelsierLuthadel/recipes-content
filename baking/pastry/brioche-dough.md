@@ -6,7 +6,7 @@
 
 **Prep Time:** 5 minutes
 
-**Cook Time:** 31 minutes
+**Cook Time:** 45 minutes (15 min at 200°C, 30 min at 170°C)
 
 **Yield:** 1.2 kg
 
@@ -25,7 +25,7 @@ Brioche dough is the building block for the enriched French yeast pantheon: brio
 
 ## Method
 1. Put the milk and yeast into a bowl and stir to dissolve the yeast.
-1. Put the flour, salt and eggs into an electric mixer fitter with a dough hook and pour in the milk and yeast mixture.
+1. Put the flour, salt and eggs into an electric mixer fitted with a dough hook and pour in the milk and yeast mixture.
 1. Mix on low speed to combine and knead the dough for 5 minutes.
 1. Scrape down the sides of the bowl with a rubber spatula, then knead at medium speed for about 10 minutes.
 1. By this stage, the dough should be smooth, elastic and well amalgamated.
@@ -40,7 +40,7 @@ Brioche dough is the building block for the enriched French yeast pantheon: brio
 ### To shape a large brioche
 1. Divide 600 grams of dough into two-thirds (400 grams) and one-third (200 grams).
 1. Shape the larger piece into a ball and place it in the bottom of the mould.
-1. Press 2 fingers into the centre of the dough to make a deep indention, forming a large ring doughnut shape. 
+1. Press 2 fingers into the centre of the dough to make a deep indentation, forming a large ring doughnut shape. 
 1. Shape the small piece of dough into a ball and roll it at an angle into an elongated oval.
 1. Lightly flour your index and middle fingers, then gently press the small ball into the indentation so that two thirds of the small ball is above the larger ring.
 1. Lightly brush the dough with the eggwash.

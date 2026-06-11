@@ -57,7 +57,7 @@ Steak tartare is the French dish that demands the best beef you can buy and the 
 1. Diners mix the yolk through the beef before eating.
 
 ## Notes
-- **Freshness is essential:** Tell the butcher you're making tartare. Use the same day. If you're nervous, freeze the fillet for 24 hours at -20°C first (kills any parasites; texture barely changes).
+- **Freshness is essential:** Tell the butcher you're making tartare. Use the same day. For parasite control in beef, current FDA guidance is -20°C for at least 7 days, or -35°C for at least 15 hours in a commercial freezer; home freezers usually run warmer than they claim, so err on the longer side. If you can't meet that, lean on a reputable butcher with good provenance instead.
 - **Hand-chop, don't blitz:** A food processor turns it into mince paste. The texture should be fine but distinguishable.
 - **Egg yolk freshness:** Use the freshest pasteurised eggs you can. The yolk must be unbroken until the diner mixes it through.
 

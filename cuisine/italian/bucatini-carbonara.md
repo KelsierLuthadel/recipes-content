@@ -8,7 +8,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 2 minutes
+**Cook Time:** 15 minutes
 
 ## Overview
 Carbonara is the Roman pasta dish that's a masterclass in temperature control, five ingredients (pasta, eggs, pecorino, pancetta or guanciale, black pepper) that come together off the heat into a silken sauce without a drop of cream. Bucatini cooks in heavily salted water; meanwhile, pancetta (or proper guanciale if you can find it) renders its fat in a wide pan. Eggs whisk with finely grated Pecorino Romano and lots of black pepper. The trick is temperature: hot pasta tosses with the rendered pancetta first, then comes off the heat completely before the egg mixture stirs through; the residual heat cooks the egg to silken perfection without scrambling. Eat immediately, with extra pepper at the table.

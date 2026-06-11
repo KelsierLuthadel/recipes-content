@@ -48,7 +48,7 @@ Sticky toffee pudding is the British end-of-Sunday-lunch winter pudding, the dis
 1. Cream the butter and brown sugar in a bowl until light.
 1. Beat in the eggs one at a time.
 1. Stir in the vanilla.
-1. Fold in the flour and baking powder alternately with the date paste.
+1. Sift the flour and baking powder together, then fold into the creamed mixture alternately with the date paste (a third of the flour mix, a third of the dates, repeat).
 1. The batter is loose; that's correct.
 
 ### Stage 3 - Bake

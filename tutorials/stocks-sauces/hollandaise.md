@@ -23,6 +23,8 @@ For 250 ml hollandaise (4 portions, eggs benedict style):
 - 1 small pinch fine sea salt
 - 1 small pinch cayenne or white pepper (optional)
 - Squeeze of lemon (to finish)
+- 4 black peppercorns (for the optional reduction)
+- 1 small bay leaf (for the optional reduction)
 
 ## Method
 
@@ -32,7 +34,7 @@ Optional but recommended for a glossier finish. Otherwise use plain melted butte
 
 1. Place 150 g butter in a small saucepan.
 2. Melt over very low heat. White foam rises to the top.
-3. Skim the foam off with a spoon (this is the whey).
+3. Skim the foam off with a spoon (milk solids and water foam).
 4. Pour the clear gold butter into a jug, leaving the milky solids behind in the pan.
 5. The jug contains clarified butter (ghee, more or less). Should be warm but not hot when added to the eggs.
 

@@ -49,13 +49,13 @@ The British Sunday lunch, the meal that anchors the week for any household that 
 1. Mash the butter with the garlic, thyme, salt and pepper. Loosen the skin over the breast and push half the butter underneath; smear the rest on the skin.
 1. Pop the lemon halves in the cavity.
 1. Place breast-up in a roasting tin and roast for 20 minutes.
-1. Drop the oven to 180°C (160°C fan) and roast another 50-55 minutes (or until a probe in the thigh reads 75°C and juices run clear).
-1. Rest on a board, loosely covered, for 20 minutes.
+1. Drop the oven to 180°C (160°C fan) and roast another 55-65 minutes (or until a probe in the thigh reads 75°C and juices run clear; allow longer for a colder-from-fridge bird).
+1. Lift the chicken to a board, loosely cover, and rest 20 minutes. Crank the oven back up to 220°C (200°C fan) for the potatoes and Yorkshires.
 
 ### Stage 2 - Roast potatoes
 1. Boil the potatoes in salted water for 8 minutes. Drain and shake hard in the colander to rough up the edges.
-1. While the chicken finishes, heat the goose fat in a roasting tin in the oven for 5 minutes until smoking.
-1. Tip in the potatoes, turn to coat, and roast for 50-55 minutes turning twice, until deeply golden.
+1. About 50 minutes before the chicken is due out, heat the goose fat in a roasting tin alongside the chicken (180°C is fine for this stage). Once the chicken comes out and the oven is up to 220°C, the fat will come to smoking heat in a few more minutes.
+1. Tip the potatoes into the hot fat, turn to coat, and roast at 220°C for 40-45 minutes, turning twice, until deeply golden.
 1. Salt as soon as they come out.
 
 ### Stage 3 - Yorkshires

@@ -6,7 +6,7 @@
 
 **Serves:** 6
 **Prep Time:** 15 minutes
-**Cook Time:** 1 hour 20 minutes
+**Cook Time:** 3 hours 15 minutes
 
 ## Overview
 The British home-cook chilli, the kind of stew that turns up at student houses, family Sunday lunches and weeknight dinners across the UK: beef mince slow-simmered with kidney beans, baked beans, tomato passata and a generous spice mix lifted by marmite, soy sauce and balsamic for umami depth. Not authentic Mexican but a proper comforting crowd-feeder, and better on day two. The single step that separates a good chilli from a flat one is dry-toasting whole cumin seeds and cloves till they smoke and become fragrant, then grinding them fresh into the stock with the marmite, soy, balsamic, chilli powder, ground coriander and tomato paste. Sweated onion, garlic and grated celery and carrot give the soft sweet base; the beef browns hard with them till the meat dries to a deep brown. A star anise dropped into the simmer is the secret round-off. Eat hot with rice, sour cream, grated cheese, diced onion and fresh coriander.
@@ -77,14 +77,14 @@ The British home-cook chilli, the kind of stew that turns up at student houses, 
 
 ### Stage 4 - Add the tomato puree
 1. Add the tomato puree and stir
-2. increase the head to medium-high
+2. increase the heat to medium-high
 3. Stir the meat so that the puree is combined
 4. continue to stir until the meat becomes dark brown
 
 ### Stage 5 - Build the Chilli
-1. Pour the prepared spice stock mixture into the pan with the browned meat and vegetables.
-2. Add the kidney beans and baked beans.
-3. Stir in the passata bottles until well combined.
+1. Return the reserved soffritto vegetables to the pan with the browned meat. Pour in the prepared spice stock mixture.
+2. Add the kidney beans, pinto beans and baked beans.
+3. Stir in the passata until well combined.
 4. Add the star anise.
 5. Increase the heat until the mixture comes to a boil, then reduce to low heat.
 6. Add the chocolate, coffee and beer

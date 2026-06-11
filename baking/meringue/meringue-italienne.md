@@ -32,7 +32,7 @@ Italian meringue is the building block of the French pastry kitchen's stable cre
 1. The meringue is now ready to use.
 
 ## Notes
-- The sugar must reach exactly 121°C (soft ball stage); lower temperatures result in loose meringue, higher temperatures create grainy texture
+- The sugar must reach exactly 121°C (firm-ball stage); lower temperatures result in loose meringue, higher temperatures create grainy texture
 - Begin beating egg whites when sugar reaches 100°C, timing the stiff peaks to coincide with the sugar's readiness
 - Pour the hot sugar in a thin stream onto lower-speed whisks; pouring onto the beater shaft risks splattering
 - Continue low-speed beating until the meringue cools completely (about 15 minutes); this is essential for proper texture development

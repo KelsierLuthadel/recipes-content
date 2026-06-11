@@ -60,7 +60,7 @@ The most stable. Used for buttercream, mousses, baked alaska, marshmallow.
 
 ### Method
 
-1. **Make a sugar syrup.** Combine the sugar and water in a small saucepan. Stir until the sugar dissolves. Stop stirring. Bring to a boil. Cook until the syrup reaches 118 C (the "soft ball" stage; use a thermometer).
+1. **Make a sugar syrup.** Combine the sugar and water in a small saucepan. Stir until the sugar dissolves. Stop stirring. Bring to a boil. Cook until the syrup reaches 118 C (the firm-ball stage; use a thermometer).
 2. **Whisk the whites.** While the syrup cooks, beat the whites in a stand mixer to medium-stiff peaks.
 3. **Pour the syrup.** Once the syrup reaches 118 C, take off the heat. With the mixer running at medium-high, pour the hot syrup down the side of the bowl in a steady thin stream. Don't pour onto the whisk (the syrup will splash up and harden on the bowl walls); pour onto the meringue between the whisk and the bowl wall.
 4. **Continue whisking.** Until the bowl feels cool to the touch (about 5-7 minutes). The meringue should be very glossy, very stiff, and warm rather than hot.

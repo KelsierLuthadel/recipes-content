@@ -8,10 +8,10 @@
 
 **Prep Time:** 20 minutes
 
-**Cook Time:** 29 minutes
+**Cook Time:** 2 hours 45 minutes
 
 ## Overview
-Beef bourguignon is the quintessential French braise from Burgundy, beef cubes that go in tough on Friday afternoon and come out fork-tender by Saturday lunch, wrapped in a wine-dark sauce that's the entire reason the dish exists. You sear the chuck or shin in batches in a hot heavy pot so each piece picks up a dark crust; lardons render their fat into the pot first to make this possible. Burgundy red wine, beef stock, garlic, herbs and a spoonful of tomato puree build the braising liquid, which simmers slowly with the beef for three hours until the meat collapses under a fork. Pearl onions glaze separately in butter and sugar; mushrooms sauté hard so they hold their shape; both join the pot at the end so they keep their character. A flour-and-butter beurre manié thickens the sauce to coating consistency. Serve with mashed potato or buttered noodles, with the rest of the Burgundy in the glass.
+Beef bourguignon is the quintessential French braise from Burgundy, beef cubes that go in tough on Friday afternoon and come out fork-tender by Saturday lunch, wrapped in a wine-dark sauce that's the entire reason the dish exists. You sear the chuck or shin in batches in a hot heavy pot so each piece picks up a dark crust; lardons render their fat into the pot first to make this possible. Burgundy red wine, beef stock, garlic, herbs and a spoonful of tomato puree build the braising liquid, which simmers slowly with the beef for three hours until the meat collapses under a fork. Pearl onions glaze separately in butter and sugar; mushrooms sauté hard so they hold their shape; both join the pot at the end so they keep their character. A spoonful of flour, sprinkled onto the seared meat and cooked off before the wine, thickens the sauce to coating consistency. Serve with mashed potato or buttered noodles, with the rest of the Burgundy in the glass.
 
 ## Ingredients
 

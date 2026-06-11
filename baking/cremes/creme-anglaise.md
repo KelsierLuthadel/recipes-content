@@ -46,7 +46,7 @@ Crème anglaise is the building block under half the French dessert canon: a sil
 1. Infuse the milk with a bunch of fresh mint instead of vanilla. The freshness of this goes well with berries or truffle cake.
 
 ### Pistachio crème anglaise
-1. Soak 200 grams of fresh pistachio nuts in water for 24 hours, then crushed in a pestle and mortar to make a paste. 
+1. Soak 200 grams of fresh pistachio nuts in water for 24 hours, then crush them in a pestle and mortar to make a paste. 
 1. Pour one third of the hot crème anglaise onto the paste, stirring with a whisk, then stir into the rest of the crème anglaise. 
 1. Purée in a blender for 3 minutes, and cool over crushed ice. This is superb with poached pears.
 

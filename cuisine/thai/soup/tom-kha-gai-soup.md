@@ -8,11 +8,7 @@
 
 **Prep Time:** 15 minutes
 
-**Cook Time:** 5 minutes
-
-**Prep time:** 10 mins
-
-**Cooking time:** 20 mins
+**Cook Time:** 20 minutes
 
 ## Overview
 Tom kha gai is Thailand's chicken-and-galangal coconut soup, the cooler creamier sibling to tom yum: a bowl of poached chicken and mushrooms swimming in a fragrant coconut broth perfumed with lemongrass, galangal, kaffir lime and coriander stalks. The broth carries the dish here. The protein is interchangeable (prawns for tom kha goong, meaty white fish for a Sunday version, or tofu for a vegan bowl), but the build of the broth is non-negotiable. Chicken stock infuses for ten minutes with bashed lemongrass, sliced galangal, kaffir lime leaves and coriander stalks before the chicken goes in; coconut milk and palm sugar follow, then mushrooms, fish sauce and a spoon of roasted Thai chilli oil to dial the heat. Finished off the heat with lime juice and spring onions. Ladled into deep bowls: as a starter, or poured over rice noodles for a satisfying light main.

@@ -33,6 +33,7 @@ Beef panang is the thicker, sweeter, peanut-tinged cousin to red curry: beef sim
 ### Aromatics and seasoning
 - 3 lime leaves, stalks removed and leaves finely julienned
 - 2 tbsp Thai fish sauce (more or less to taste)
+- 3 tbsp roasted peanuts, roughly crushed (the defining panang finish)
 
 ## Method
 
@@ -48,6 +49,7 @@ Beef panang is the thicker, sweeter, peanut-tinged cousin to red curry: beef sim
 1. Stir in vegetables; simmer until cooked but fresh.
 1. Add lime leaves and fish sauce.
 1. Taste; adjust sugar or fish sauce.
+1. Scatter the crushed roasted peanuts over just before serving.
 
 ## Notes
 - Many Thai fish sauces contain gluten; use gluten-free brands if needed.

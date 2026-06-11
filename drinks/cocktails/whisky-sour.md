@@ -11,7 +11,7 @@
 **Cook Time:** 0 minutes
 
 ## Overview
-The Whisky Sour is the easiest entry into shaken cocktails, and the one that taught the rest of the world what an egg white does in a drink. The build is whisky, lemon juice, sugar (as a syrup), egg white, shaken first without ice (a "dry shake" to whip the white into foam) and then with ice to chill. The result has a creamy white head on top that takes a Peychaud's-bitters dot or two as a decoration; the drink underneath is sour and warm, the egg white smoothing out the bourbon's edges without you really tasting it. Skipping the egg white gives an "egg-less sour" which is fine but flatter. For the boozy who don't do raw egg, aquafaba (the chickpea brine from a tin) works almost identically. The garnish is a sliver of lemon peel and an optional maraschino cherry on a stick balanced across the rim.
+The Whisky Sour is the easiest entry into shaken cocktails, and the one that taught the rest of the world what an egg white does in a drink. The build is whisky, lemon juice, sugar (as a syrup), egg white, shaken first without ice (a "dry shake" to whip the white into foam) and then with ice to chill. The result has a creamy white head on top that takes an Angostura-bitters dot or two as a decoration; the drink underneath is sour and warm, the egg white smoothing out the bourbon's edges without you really tasting it. Skipping the egg white gives an "egg-less sour" which is fine but flatter. For the boozy who don't do raw egg, aquafaba (the chickpea brine from a tin) works almost identically. The garnish is a sliver of lemon peel and an optional maraschino cherry on a stick balanced across the rim.
 
 ## Ingredients
 

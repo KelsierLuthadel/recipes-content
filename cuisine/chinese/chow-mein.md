@@ -6,7 +6,7 @@
 
 **Serves:** 4
 **Prep Time:** 15 minutes
-**Cook Time:** 5 minutes
+**Cook Time:** 10 minutes
 
 ## Overview
 Chow mein, literally "stir-fried noodles", is the dish every Cantonese takeaway sells but few do well; the difference between a good and a forgettable version comes down to heat and timing. Cook fresh egg noodles to just under done, drain them properly, and toss them with a teaspoon of oil so they don't stick. From there the wok needs to be smoking before anything else goes in: aromatics flash for ten seconds, harder vegetables and protein next, noodles in last, soy and oyster around the edge of the wok so they hit metal before noodle and caramelise instantly. The noodles want char marks, not a soggy steam in a glossy puddle. Serve fast, with chilli oil and pickled chilli on the table.
