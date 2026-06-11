@@ -46,7 +46,7 @@ A burger that tastes like a Kashgar street kebab rather than a Western quarter-p
 1. Roll each between your palms into a ball, then flatten gently into a 2 cm-thick round patty.
 
 ### Stage 3 - Cook
-1. **Oven:** preheat the grill to its highest setting for 10 minutes. Line a tray with parchment, lay the patties out, and grill on the top shelf 12 minutes per side until the edges are deeply browned (24 minutes total).
+1. **Oven:** preheat the grill to its highest setting for 10 minutes. Line a tray with parchment, lay the patties out, and grill on the upper-middle shelf 5-6 minutes per side until the edges are deeply browned (about 10-12 minutes total). Don't sit them under a max-temperature grill for longer or they'll incinerate.
 1. **BBQ:** grill 4-5 minutes per side over hot charcoal.
 1. **Pan:** preheat a heavy pan over high heat 3-4 minutes; cook 4-5 minutes per side. Press gently with a spatula to encourage edge contact; don't press hard or the juices escape.
 

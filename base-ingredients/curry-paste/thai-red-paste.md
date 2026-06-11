@@ -20,7 +20,7 @@ Thai red curry paste is the building block for the family of Thai red curries: a
 - 10 fresh red chillies (seeded and sliced)
 - 115 grams shallots (finely chopped)
 - 4 garlic cloves (peeled)
-- 1 cm piece fresh galangal (peeled, sliced, and bruised)
+- 4 cm piece fresh galangal (peeled, sliced, and bruised)
 - Stems from 4 fresh coriander sprigs
 
 ### Spices & Flavor

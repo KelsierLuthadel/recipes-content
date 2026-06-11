@@ -26,7 +26,7 @@ Sabayon is the French version of Italian zabaglione and the building block for a
 1. Continue whisking the mixture over the heat so that it gradually thickens, making sure that the temperature of the water in the pan increases steadily but moderately.
 1. After 8 - 10 minutes, the mixture should have reached a light ribbon consistency. 
 1. It is essential to keep whisking all the time. 
-1. When the temperature reaches 55°C, the sabayon is cooked.
+1. When the temperature reaches 70-75°C the sabayon is cooked (yolks pasteurise around 70°C; below that the sauce is technically raw).
 1. Turn off the heat and continue whisking until the sabayon has a very thick ribbon consistency and a fluffy, rich and shiny texture. 
 1. Remove the bowl from the pan.
 

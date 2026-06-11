@@ -43,12 +43,12 @@ Sauce Mousseline is the building block for the ethereal light hollandaise variat
 1. Season with salt to taste.
 
 ### Stage 4 - Add cream & finish
+1. If you need to remove the crushed pepper, pass the hollandaise base through a muslin-lined conical strainer first (don't strain after adding the cream - it deflates the foam).
 1. Whip the cream to soft peaks and fold gently into the hollandaise sauce.
-1. At the very last moment, stir in the lemon juice (if using).
-1. Pass the sauce through a muslin-lined conical strainer to eliminate the crushed pepper if required, then serve immediately.
+1. At the very last moment, stir in the lemon juice (if using). Serve immediately.
 
 ## Notes
-- **Temperature control:** Like hollandaise, this sauce breaks if it gets too hot (above 70°C). Use a heat diffuser and low heat.
+- **Temperature control:** Like hollandaise, this sauce breaks if it gets too hot. Keep the sabayon at 62-65°C; yolks fully set around 70°C. Use a heat diffuser and very low heat.
 - **Cream folding:** Fold the whipped cream gently to maintain airy texture; do not overmix.
 - **Timing:** Must be served immediately after folding in cream; the sauce will deflate if held.
 

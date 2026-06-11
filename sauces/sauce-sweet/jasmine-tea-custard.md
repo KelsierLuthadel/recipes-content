@@ -17,7 +17,7 @@ Jasmine tea custard is the building block for a delicate floral cold custard sau
 
 ### Infusion
 - 120 ml milk
-- 250 ml whipping cream
+- 750 ml whipping cream (250 ml goes into the infusion; 500 ml goes in after tempering)
 - 3 tablespoons jasmine tea leaves
 
 ### Custard base

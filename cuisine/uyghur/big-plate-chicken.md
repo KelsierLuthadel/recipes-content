@@ -52,7 +52,7 @@ A dish that wears its multi-culture origin on its sleeve: chicken, potato and gr
 
 ### Stage 3 - Build the braise
 1. Heat a heavy wok over medium-high; add the oil.
-1. Add the sugar; whisk until it melts and starts to bubble.
+1. Add the sugar; whisk until it melts, bubbles, and turns a deep amber (this is the proper colour caramel; pulling at 'just bubbled' gives a pale sauce). Watch carefully - it goes from amber to burnt fast.
 1. Add the chicken; brown 3-4 minutes.
 1. Add the spring onion whites, ginger, garlic, fresh red chilli and potato. Stir 1 minute.
 1. Pour in the water; add the star anise, paprika, chilli flakes, soy sauce, salt and Sichuan pepper.
@@ -72,6 +72,7 @@ A dish that wears its multi-culture origin on its sleeve: chicken, potato and gr
 ### Stage 5 - Serve
 1. Lay the noodles in a wide shared platter.
 1. Tip the chicken braise over the top, scattering the sauce and pieces.
+1. Scatter the reserved spring onion greens over the platter.
 1. Bring the platter to the table. Spoon onto plates so everyone gets noodles and braise; eat with chopsticks.
 
 ## Notes

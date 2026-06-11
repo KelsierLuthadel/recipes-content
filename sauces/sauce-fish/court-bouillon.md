@@ -41,12 +41,12 @@ Court-bouillon is the building block for French fish poaching, the gentle aromat
 
 ### Stage 3 - Use for poaching
 1. Strain and reserve for poaching the fish.
-1. Warm the court-bouillon in a wide-bottomed saucepan over a medium-low heat until the temperature of the liquid reaches 50°C.
-1. Place the fish in the liquid and bring the liquid back to 50°C. Maintain this temperature for 10 minutes or until the internal temperature of the fattest part of the fish reaches 45°C.
+1. Warm the court-bouillon in a wide-bottomed saucepan over a medium-low heat until the temperature of the liquid reaches 75-80°C (just below a simmer; small bubbles around the edge but no rolling boil).
+1. Place the fish in the liquid; hold the liquid at 75-80°C until the internal temperature of the thickest part of the fish reaches 55-60°C (allow 8-12 minutes for a 2 cm thick fillet). Do not let the bouillon boil - it toughens the flesh.
 1. Carefully remove the fish with a spatula and drain well.
 
 ## Notes
-- **Temperature control:** Maintaining 50°C gently poaches fish without toughening flesh; use a thermometer for accuracy.
+- **Temperature control:** Holding the bouillon at 75-80°C gently poaches the fish to a safe 55-60°C internal without toughening; use a probe thermometer for accuracy.
 - **Fresh vegetables:** Quality vegetables create clean, delicate broth; avoid wilted or old produce.
 - **Lemon juice:** Fresh lemon is essential; it brightens flavours and prevents discoloration of light-fleshed vegetables.
 

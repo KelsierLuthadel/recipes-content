@@ -54,7 +54,7 @@ Molokhia is the deep-green Egyptian stew named for the jute leaves that give it 
 ### Stage 3 - Taqliya
 1. In a small pan, melt the butter over medium heat.
 1. Add chopped garlic; sizzle 30 seconds until just gold (not brown).
-1. Stir in ground coriander and Aleppo pepper; sizzle 5 seconds.
+1. Stir in ground coriander and chilli flakes; sizzle 5 seconds.
 1. Stir in dried mint (if using).
 
 ### Stage 4 - The sizzle

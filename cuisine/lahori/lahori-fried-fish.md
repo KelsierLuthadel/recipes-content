@@ -78,7 +78,7 @@ The Lahori winter-street classic, sold from Anarkali pavement stalls all through
 ## Notes
 - **Smoke the mustard oil:** Raw mustard oil has a bitter, sharp flavour. Heating it to the smoke point and cooling knocks the rawness back to a clean, warming pungency.
 - **Rice flour for crunch:** A small amount of rice flour in the batter is what gives Lahori fried fish its signature shatter; pure besan batter is dense.
-- **180°C is the target:** Cooler oil gives an oil-logged crust. Hotter and the batter browns before the fish cooks through.
+- **175°C is the target:** Cooler oil gives an oil-logged crust. Hotter and the batter browns before the fish cooks through.
 
 ## Storage
 - Best within 20 minutes of frying.

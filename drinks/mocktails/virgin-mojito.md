@@ -44,7 +44,7 @@ A virgin mojito is a real drink in its own right, not a sad cocktail with the al
 1. Serve immediately with a straw if you like.
 
 ## Notes
-- **Crushed ice slows dilution.** Cubed ice melts too fast and the drink reads watery; crushed ice has more surface area so the drink stays cold longer without diluting as much. Wrap cubes in a tea towel and bash with a rolling pin if you don't have a crusher.
+- **Crushed ice for chill.** Crushed ice packs tightly in the glass and chills the drink down fast (it does melt sooner than a big cube, but the dish wants to be very cold quickly). Wrap cubes in a tea towel and bash with a rolling pin if you don't have a crusher.
 - **Slap the mint, don't tear it.** Slapping it between your palms wakes the volatile oils; tearing or chopping bruises the leaves so they go dark and slimy in the glass.
 - **Fresh mint is non-negotiable.** Dried doesn't work; tired refrigerator mint barely works. Buy a bunch the day of.
 - **Adjust the sugar.** Some limes are sharper than others; taste before topping with soda and add a touch more sugar if needed.

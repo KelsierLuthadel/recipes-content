@@ -8,7 +8,7 @@
 
 **Prep Time:** 30 minutes (plus overnight soaking)
 
-**Cook Time:** 4 hours (pressure cooker) or 6 hours (stovetop)
+**Cook Time:** 1 hour 30 minutes (pressure cooker) or 3 hours 30 minutes (stovetop)
 
 ## Overview
 Haleem is Pakistan's iftar pot, the long-cooked Ramadan tradition that fills mosques and households across the country in the evening hours of the holy month. Cracked wheat, pearl barley and four kinds of dal simmer with mutton on the bone until the grains and meat collapse into a thick glossy porridge. The mash is the dish here, not a soup with chunks of meat in it but the meat and grain becoming one continuous gritty-smooth texture through hours of beating against the side of the pot (the traditional ghutna step). Without the beating you have a stew; with it, you have haleem. A final tarka of ghee, cumin seeds and dried red chillies poured sizzling over the bowl is part of the experience. The garnishes are not optional: fried onions, ginger matchsticks, sliced green chilli, fresh coriander, mint and lemon wedges scattered at the table for each diner to pile on. A bowl of haleem without all the toppings is incomplete.

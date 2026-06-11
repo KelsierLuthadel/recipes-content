@@ -17,18 +17,18 @@ Aïoli is the building block of Provençal cooking, the golden saffron-tinted ga
 
 ### Base
 - 2 egg yolks (hard boiled)
-- 21 egg yolk (raw)
+- 1 egg yolk (raw)
 
 ### Aromatics & spice
-- 24 cloves garlic (crushed)
-- 21 pinch salt
-- 21 pinch cayenne pepper
-- 21 pinch saffron threads (infused in 3 tablespoons of boiling water)
+- 4 cloves garlic (crushed)
+- 1 pinch salt
+- 1 pinch cayenne pepper
+- 1 pinch saffron threads (infused in 3 tablespoons of boiling water)
 
 ### Liquid
-- 2200 ml olive oil
-- 21 teaspoon lemon juice
-- 2 half teaspoon cold water
+- 200 ml olive oil
+- 1 teaspoon lemon juice
+- ½ teaspoon cold water
 
 ## Method
 

@@ -6,7 +6,7 @@
 
 **Serves:** 6
 **Prep Time:** 25 minutes
-**Cook Time:** 1 hour 4 minutes
+**Cook Time:** 1 hour 15 minutes
 
 ## Overview
 A shellfish gumbo, lighter than the full Cajun "everything" version but built on the same foundations, a deep roux, the holy trinity of onion, celery and sweet pepper, and a slow-simmered broth that ties everything together. You cook a roux in oil until it goes to a peanut-butter brown (lighter than the full-Cajun chocolate roux but darker than blond), then soften the trinity in it before stock and herbs go in to build the soup. Mussels, prawns and crab go in towards the end and cook just briefly so they stay tender. A modern touch of fresh chilli lifts the heat across the back. Eat over white rice in deep bowls, with hot sauce on the table and crusty bread to mop the last of the broth.
@@ -83,7 +83,7 @@ A shellfish gumbo, lighter than the full Cajun "everything" version but built on
 
 ## Notes
 - **The Holy Trinity:** Onion, celery, and sweet pepper form the aromatic base of Cajun cooking, essential to authentic gumbo.
-- **Roux technique:** Golden-brown roux takes time and requires constant stirring. Don't rush it; burnt roux ruined the dish.
+- **Roux technique:** Golden-brown roux takes time and requires constant stirring. Don't rush it; burnt roux ruins the dish.
 - **Stock-making:** Fresh shellfish stock is crucial for authentic flavour. Don't skip this step.
 - **Serving:** Gumbo is traditionally ladled over hot rice in soup plates rather than mixed together.
 - **Roux colour:** Darker roux has deeper flavour but burns more easily; medium-brown is safest for beginners.

@@ -65,9 +65,8 @@ Curanto is the iconic dish of Chiloé, the rainy archipelago off Chile's souther
 
 ### Stage 2 - Build the curanto pot
 1. Use a very large heavy Dutch oven or pot (8 litre capacity).
-2. Layer in order:
+2. Layer in order (mussels and clams stay out for now - they go in late so they don't overcook):
    - Bottom: half the cabbage leaves (as a base).
-   - Next: mussels and clams in a layer.
    - Next: pork ribs and chicken pieces.
    - Next: longaniza sausages.
    - Next: potatoes, onions, carrots.
@@ -81,8 +80,9 @@ Curanto is the iconic dish of Chiloé, the rainy archipelago off Chile's souther
 ### Stage 4 - Slow-cook
 1. Cover the pot tightly with the lid.
 2. Place over medium-low heat on the stovetop (or in a 160°C / 320°F oven).
-3. Cook 2 hours; don't lift the lid much.
-4. The shellfish at the bottom release their liquid which becomes the broth and steam-cooks everything above.
+3. Cook 1 hour 40 minutes; don't lift the lid much.
+4. Lift the lid and nestle the mussels and clams into the top layer (under the cabbage leaves). Replace the lid; cook another 15-20 minutes until the shells open.
+5. The shellfish release their liquid into the steam-bath that cooks everything; longer than 20 minutes and they go rubbery.
 
 ### Stage 5 - Serve
 1. Bring the pot to the table.
@@ -92,7 +92,7 @@ Curanto is the iconic dish of Chiloé, the rainy archipelago off Chile's souther
 5. Lemon wedges, pebre, parsley garnish.
 
 ## Notes
-- **Layer order matters:** shellfish on bottom (releases liquid), meats next, potatoes and milcao on top.
+- **Layer order matters:** meats at the bottom (longest cook), potatoes and milcao on top; shellfish join only in the last 15-20 minutes so they don't toughen.
 - **Don't lift the lid:** the steam does the cooking.
 - **Multiple proteins traditional:** variety is the point.
 - **Milcao is the Chiloé signature:** the potato bread distinguishes the dish.

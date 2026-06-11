@@ -8,7 +8,7 @@
 
 **Prep Time:** 20 minutes
 
-**Cook Time:** 36 minutes
+**Cook Time:** 2 hours
 
 ## Overview
 Irish stew is the country-kitchen classic elevated to comfort-food status, middle neck of lamb simmered with potatoes, onions, carrots and cabbage in a light broth, the potatoes gradually breaking down to thicken the sauce naturally. The dish is humble by design: no browning step, no thickener, no fancy aromatics. Layer the lamb pieces with sliced onion, sliced carrot and roughly cubed potato in a heavy pot; cover with water (or light lamb stock); simmer gently for two hours. The potatoes break down enough to thicken the broth into something between a soup and a stew. Shredded cabbage joins for the last fifteen minutes. The result is a one-pot wonder that's wholesome, deeply flavoured, and warming, the kind of dish that feeds both body and soul on cold days. Serve in deep bowls with crusty soda bread.

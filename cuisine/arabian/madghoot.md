@@ -20,7 +20,6 @@ The fast Saudi cousin of mandi, made when you want kabsa-deep flavour but the da
 - 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each: ground cumin, coriander, black pepper, allspice, cinnamon)
 - 4 garlic cloves (crushed)
 - 1 tablespoon tomato puree
-- 2 dried black limes (loomi, pierced; whole)
 - 3 tablespoons natural yogurt
 - 1 ½ teaspoons salt
 - 2 tablespoons vegetable oil
@@ -28,6 +27,7 @@ The fast Saudi cousin of mandi, made when you want kabsa-deep flavour but the da
 ### Cooking
 - 2 onions (large, sliced)
 - 1 (400 g) tin chopped tomatoes
+- 2 dried black limes (loomi, pierced; whole)
 - 1 cinnamon stick
 - 4 cardamom pods (bruised)
 - 1.2 litres hot water (or stock)

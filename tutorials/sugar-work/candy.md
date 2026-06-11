@@ -127,7 +127,7 @@ Whipped sugar syrup stabilised by gelatin. Light, soft, airy.
 
 Method:
 1. **Bloom the gelatin.** Sprinkle over 60 ml cold water; let stand 5 minutes.
-2. **Cook the syrup.** Combine sugar, corn syrup and water (the remaining water). Cook to 116-118 C (firm ball stage).
+2. **Cook the syrup.** Combine sugar, corn syrup and water (the remaining water). Cook to 118-120 C (firm-ball stage).
 3. **Whip egg whites** to soft peaks in a stand mixer.
 4. **Pour the hot syrup** slowly into the whipping egg whites in a thin stream, with the mixer on medium. Continue whipping.
 5. **Add the bloomed gelatin** (gently warmed if it has set) and vanilla and salt. Continue whipping.

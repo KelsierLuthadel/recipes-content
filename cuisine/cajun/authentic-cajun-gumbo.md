@@ -38,7 +38,7 @@ The "everything" Louisiana gumbo: chicken thighs, andouille, lump crab and shrim
 
 ### Stage 1 - Brown the meats
 1. Heat ¼ cup of the oil in a heavy pot over medium heat.
-1. Sauté the chicken cubes 4-5 minutes per side until golden. Season with 1 teaspoon Cajun seasoning. Transfer to a plate.
+1. Sauté the chicken cubes, stirring, for 4-5 minutes until golden on most sides. Season with 1 teaspoon Cajun seasoning. Transfer to a plate.
 1. Brown the andouille in the same pot 2-3 minutes per side. Set aside.
 
 ### Stage 2 - Holy trinity
@@ -60,9 +60,9 @@ The "everything" Louisiana gumbo: chicken thighs, andouille, lump crab and shrim
 1. Bring to a simmer; cover; cook 20 minutes.
 
 ### Stage 5 - Seafood
-1. Stir in the crab meat; simmer covered 15-20 minutes.
-1. Add the okra and shrimp; reduce heat to low.
-1. Cook 7-10 minutes until the shrimp turn pink and the okra is tender.
+1. Add the okra; simmer 10-12 minutes until tender.
+1. Add the shrimp and crab meat; reduce heat to low.
+1. Cook 3-5 minutes until the shrimp turn pink and the crab is warmed through (longer and the crab goes stringy).
 
 ### Stage 6 - Finish
 1. Sprinkle the filé powder and add hot sauce to taste.

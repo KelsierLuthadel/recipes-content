@@ -31,9 +31,9 @@ Lamb fat rendered slowly into a paprika-and-cumin glaze, with naan acting as bot
 
 ### Stage 1 - Brown
 1. Cut the ribs into pieces if not already. Rinse to remove bone fragments; pat dry thoroughly.
-1. Heat the oil in a wide, deep pan over high heat.
-1. Lay the ribs in meat-side down; cover; reduce to medium-low.
-1. Brown 3-4 minutes per side, all sides, until deep golden.
+1. Heat the oil in a wide, deep pan over medium-high heat.
+1. Lay the ribs in meat-side down (uncovered - covering steams them).
+1. Brown 3-4 minutes per side, all sides, until deep golden. Adjust heat down if the oil starts smoking.
 
 ### Stage 2 - Season
 1. Apply a thick layer of salt, paprika and half the cumin to the exposed side of the ribs.

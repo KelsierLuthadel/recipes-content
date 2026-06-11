@@ -2,11 +2,11 @@
 
 ![Jambalaya](resources/jambalaya.jpg)
 
-*Louisiana's one-pot rice dish: chicken, andouille and prawns cooked down with rice, the trinity and Cajun spice.*
+*A modern pasta-twist on jambalaya: chicken, andouille and prawns tossed with penne, the trinity and Cajun spice. Not the traditional rice version - a weeknight pasta version using the jambalaya flavour profile.*
 
 **Serves:** 4
 **Prep Time:** 25 minutes
-**Cook Time:** 17 minutes
+**Cook Time:** 35 minutes
 
 ## Overview
 A modern pasta-twist on the Cajun one-pot classic, swapping the traditional rice for penne but keeping the layered Louisiana flavour intact. You brown andouille sausage hard in a heavy pot to render its smoky fat, then add chicken pieces and cook them through in the same fat. The Cajun trinity (onion, celery and sweet pepper) softens in next, Cajun seasoning blooms in the heat, and a tomato base goes in with cream to build a sauce that's rich, smoky and just-spicy. Cooked pasta tosses through at the end, with prawns going in for the last few minutes so they stay tender. Eat in deep bowls with parsley scattered over and hot sauce on the table for whoever wants more heat. New Orleans rules adapted to a Tuesday-night kitchen.

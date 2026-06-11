@@ -2,7 +2,7 @@
 
 ![Indonesian Meatballs](resources/indonesian-meatballs.jpg)
 
-*Indonesia's bakso: small soft beef meatballs in a clear ginger-and-garlic broth, served over rice noodles with bean sprouts.*
+*Tender chicken meatballs in a fragrant coconut-curry sauce with lemongrass and kaffir lime: a quick Indonesian-style weeknight bowl over jasmine rice with a lime wedge and sambal.*
 
 **Serves:** 8 (makes approximately 40 meatballs)
 **Prep Time:** 20 minutes

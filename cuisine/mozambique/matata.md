@@ -57,7 +57,7 @@ A Mozambican coastal stew of clams (or shrimp) in a peanut sauce with tender gre
 1. Scatter coriander; serve with xima or coconut rice.
 
 ## Notes
-- **Live clams:** Soak in salted cold water 30 minutes before cooking to purge any sand. Tap any open shells before cooking; discard ones that stay open. Same after cooking with any that stay closed.
+- **Live clams:** Soak in salted cold water 30 minutes before cooking to purge any sand. Before cooking, tap any open shells sharply on the counter - live clams snap shut in response; discard any that don't close. After cooking, discard any clams that haven't opened.
 - **Shrimp swap:** Easier weekday version. The flavour stays Mozambican; you lose the brininess that clam liquor brings.
 - **Pumpkin leaves:** Traditional. In their absence, baby spinach or chard works.
 

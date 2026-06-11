@@ -53,7 +53,7 @@ The mojito is Cuba's national cocktail and one of the great hot-weather drinks: 
 1. Serve immediately, ideally outdoors on a hot day; if available, a Cuban band playing in the background.
 
 ## Notes
-- **Crushed ice, not cubed.** The crushed ice melts slower because of its larger surface area dilution maths (counterintuitive but true) and packs tighter in the glass. Wrap cubes in a tea towel and bash with a rolling pin if you don't have a crusher.
+- **Crushed ice, not cubed.** Crushed ice packs tighter in the glass and chills the drink down faster, even though it does melt sooner than a single big cube. The trade-off is worth it for a cold mojito. Wrap cubes in a tea towel and bash with a rolling pin if you don't have a crusher.
 - **Slap, don't tear the mint.** Slapping the garnish sprig between your palms releases the volatile oils; tearing bruises it dark and dull.
 - **Fresh mint, every time.** Tired mint gives a flat drink. Buy a bunch the day of.
 - **White rum is the canon.** Cuban-style uses soft white rum; American bars sometimes use gold rum for more depth (acceptable). Spiced or aged rum doesn't work; the spice fights the mint.

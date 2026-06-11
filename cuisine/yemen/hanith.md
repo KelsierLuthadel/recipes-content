@@ -82,7 +82,7 @@ Hanith is Yemen's most luxurious lamb celebration dish, particularly associated 
 
 ### Stage 5 - Slow-roast
 1. Roast at 140°C for 3.5-4 hours till the lamb is meltingly tender (a fork should slide in easily; the meat should pull from the bone with no resistance).
-2. The internal temperature should be 95°C / 200°F.
+2. The internal temperature should be 95°C / 203°F.
 
 ### Stage 6 - Make the mandi rice (last 45 minutes of lamb cooking)
 1. Melt the butter in a wide heavy saucepan over medium heat.

@@ -51,7 +51,7 @@ Homemade ginger beer is a low-effort weekend project that ferments quietly on th
 1. Put the grated ginger, sugar, water and lemon zest strips into a saucepan.
 1. Bring to a simmer over medium heat, stirring to dissolve the sugar.
 1. Simmer gently for 8 to 10 minutes; the syrup should reduce slightly and taste sharply of ginger.
-1. Take off the heat and leave to cool to lukewarm (above 30°C kills the yeast).
+1. Take off the heat and leave to cool to lukewarm (under 40°C; yeast is happy at 20-30°C but starts dying above 45°C, so wait until the syrup is just blood-warm).
 1. Strain through a fine sieve, pressing the ginger pulp gently to extract the syrup.
 
 ### Stage 3 - Build the brew

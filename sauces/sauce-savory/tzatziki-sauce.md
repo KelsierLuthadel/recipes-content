@@ -16,7 +16,7 @@ Tzatziki is the building block of Greek mezze, the cool yogurt-and-cucumber sauc
 ## Ingredients
 
 ### Base
-- 100 ml Greek yoghurt
+- 400 ml Greek yoghurt
 - 1 clove garlic (crushed)
 
 ### Vegetables & herbs

@@ -46,8 +46,8 @@ The everyday Cajun household gumbo, without the seafood and ceremony of its bigg
 
 ### Stage 2 - Trinity
 1. Stir the tomato paste into the roux until dissolved, 1-2 minutes.
-1. Add the onion, peppers and garlic.
-1. Cook 2-3 minutes, stirring.
+1. Add the onion, peppers, celery and garlic.
+1. Cook 6-8 minutes, stirring, until the vegetables soften and the smell of raw onion is gone.
 
 ### Stage 3 - Base
 1. Pour in the chicken stock and tomato puree.
@@ -55,7 +55,7 @@ The everyday Cajun household gumbo, without the seafood and ceremony of its bigg
 1. Cook 3-5 minutes until thickened.
 
 ### Stage 4 - The long simmer
-1. Add the cooked shredded chicken, sliced andouille, 2 teaspoons of the filé, oregano, paprika, salt, bay leaves, thyme sprigs and diced celery.
+1. Add the cooked shredded chicken, sliced andouille, 2 teaspoons of the filé, oregano, paprika, salt, bay leaves and thyme sprigs.
 1. Reduce heat to low.
 1. Simmer 2 hours, stirring occasionally.
 

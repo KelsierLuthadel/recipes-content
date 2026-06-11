@@ -46,12 +46,12 @@ Louisiana seafood gumbo is the coastal counterpart to chicken-andouille gumbo: s
 - 2 teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 1 tablespoon Worcestershire sauce
-- 1 ½ tablespoons filé powder (added at end)
+- 2 teaspoons filé powder (added off the heat at the end; too much makes the gumbo gluey)
 - Juice of 1 lemon
 
 ### To finish
-- 1 bunch spring onions
-- 1 small bunch fresh parsley
+- 1 bunch spring onions, finely sliced
+- 1 small bunch fresh parsley, chopped
 - Tabasco
 
 ### To serve

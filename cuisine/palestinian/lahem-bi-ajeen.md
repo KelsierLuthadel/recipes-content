@@ -8,7 +8,7 @@
 
 **Prep Time:** 45 minutes (plus 1 hour rising)
 
-**Cook Time:** 12 minutes
+**Cook Time:** 30 minutes (about 8-10 min per batch of 4 pies)
 
 ## Overview
 Picture a Ramallah neighbourhood bakery at noon: a pile of paper-thin meat pies coming out of the wood oven minutes apart, fingers folding them in half over a lemon wedge and a sprig of mint. Raise a soft yeasted dough for an hour while you build the topping by hand, kneading lamb mince with grated onion squeezed dry, finely diced tomato, garlic, parsley, pomegranate molasses, baharat and a hit of Aleppo pepper. No browning here; the mince stays raw and cooks on the pies. Divide the dough into twelve balls, roll each thin, spread a thin layer of the meat right to the edges (about 5 mm thick, not piled, or the middle goes soggy). Slide them onto a screaming-hot stone or baking tray and bake at 230 °C for eight to ten minutes till the dough is crisp at the edges and the meat looks glossy and just-cooked. Eat warm, folded in half over chopped mint and parsley with a squeeze of lemon, a spoon of yogurt on the side.

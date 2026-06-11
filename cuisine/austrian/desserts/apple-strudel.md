@@ -2,7 +2,7 @@
 
 ![Apple strudel](resources/apple-strudel.jpg)
 
-*This classic German dessert works especially well when the pastry is so thin it is nearly transparent.*
+*This classic Austrian dessert works especially well when the pastry is so thin it is nearly transparent.*
 
 **Serves:** 6
 
@@ -45,7 +45,7 @@ The Viennese pastry that holds the cafe culture of Habsburg Europe in a single b
 - The filo must be thin and pliable; work quickly to prevent drying once unrolled, and cover unused sheets with a damp tea towel
 - Blanching the raisins briefly hydrates them and improves their flavor; water-fresh raisins would sink during baking rather than distribute throughout
 - The filling should release moisture between prep and assembly (standing 15 minutes allows flavors to mingle); drain excess liquid or the bottom will become soggy
--Rolling with the aid of a tea towel ensures an even cylinder and helps apply light pressure without squashing the apples; this technique prevents cracking
+- Rolling with the aid of a tea towel ensures an even cylinder and helps apply light pressure without squashing the apples; this technique prevents cracking
 
 ## Serving
 Slice the warm strudel at the table for presentation impact, dusting each slice with icing sugar. Serve with clotted cream or vanilla ice cream alongside. The warmth of the strudel melting the ice cream creates an elegant contrast.

@@ -2,7 +2,7 @@
 
 ![Blackened Chicken](resources/blackened-chicken.jpg)
 
-*Louisiana's blackened chicken: breast fillets dipped in melted butter.*
+*Louisiana's blackened chicken: breast fillets dipped in melted butter, pressed into a bold paprika-and-pepper spice rub, then seared on a screaming-hot cast-iron skillet until the butter and spices char into a smoky mahogany crust.*
 
 **Serves:** 4
 **Prep Time:** 10 minutes
@@ -16,17 +16,18 @@ The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1
 ### Chicken & Cooking Fat
 - 4 chicken breasts
 - 1 tablespoon oil
-- 1 tablespoon butter
+- 100 g unsalted butter, melted (for dipping)
 
 ### Blackened Spice Mix
 - 1 tablespoon salt
+- 2 tablespoons sweet paprika
 - 1 ½ teaspoons garlic powder
 - 1 ½ teaspoons freshly ground black pepper
 - 1 teaspoon ground white pepper
 - 1 teaspoon onion powder
 - 1 teaspoon ground cumin
+- 1 teaspoon dried thyme
 - ½ teaspoon cayenne pepper
-- ½ teaspoon paprika
 
 ## Method
 
@@ -42,7 +43,7 @@ The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1
 ### Stage 3 - Sear on Stovetop
 1. Preheat the oven to 200°C.
 2. Mix the oil and butter together in a large frying pan over medium-high heat.
-3. Once the butter is bubbling and foaming (but not smoking), carefully add the chicken breasts skin-side down.
+3. Once the butter is bubbling and foaming (but not smoking), dip each chicken breast into the bowl of melted dipping butter to coat both sides, press firmly into the spice rub, and carefully add to the pan smooth-side down.
 4. Cook for 3-5 minutes until the spice crust is blackened and charred.
 5. Turn the chicken and cook the other side for another 3-5 minutes until blackened.
 6. The chicken should develop a dark, almost burnt appearance, this is correct.

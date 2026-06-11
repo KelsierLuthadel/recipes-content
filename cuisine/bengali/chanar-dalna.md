@@ -68,14 +68,14 @@ The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the cur
 4. Sprinkle in the ground cumin, ground coriander, Kashmiri chilli powder and turmeric.
 5. Stir for 30 seconds, splashing in a tablespoon of water if the spices threaten to catch, they should bloom in the oil, not scorch.
 
-### Stage 6 - The dalna
+### Stage 5 - The dalna
 1. Drain the paneer from the warm-water bath and add it to the pan along with the par-fried potatoes and slit green chillies.
 2. Stir gently to coat in the masala.
 3. Pour in the water and add the sugar and salt.
 4. Bring to a gentle simmer, cover and cook for 12 to 15 minutes until the potatoes are completely soft and the gravy has lightly thickened.
 5. Stir once or twice (gently, so the paneer doesn't break) to stop anything catching.
 
-### Stage 7 - Finish
+### Stage 6 - Finish
 1. Taste and adjust salt.
 2. Sprinkle over the garam masala and dot in the ghee.
 3. Cover and rest off the heat for 5 minutes.

@@ -46,7 +46,7 @@ Hollandaise is one of the five French mother sauces and the building block for a
 1. Pass the sauce through a muslin-lined conical strainer to eliminate the crushed pepper if required, then serve immediately.
 
 ## Notes
-- **Temperature control:** This sauce breaks if it gets too hot (above 70°C). Use a heat diffuser and low heat.
+- **Temperature control:** Keep the sabayon at 62-65°C. Egg yolks fully set around 70°C and the sauce splits at that point. Use a heat diffuser and very low heat.
 - **Clarified butter:** Must be tepid (lukewarm), not hot, for smooth emulsification.
 - **Reduction:** The acidic base is essential for flavour and helps stabilize the emulsion.
 

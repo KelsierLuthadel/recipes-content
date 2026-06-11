@@ -18,7 +18,7 @@ Mango chutney is the building block for the sweet fruity preserve that turns up 
 ### Aromatics & spices
 - 1 tablespoon sunflower oil
 - 1 teaspoon ginger (finely grated)
-- 1 garlic cloves (crushed)
+- 1 garlic clove (crushed)
 - 5 cloves
 - 1 star anise
 - 2 cinnamon sticks

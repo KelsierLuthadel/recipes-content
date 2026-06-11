@@ -61,7 +61,7 @@ Sri Lankan chicken curry is the dish that turns up at the centre of every rice-a
 1. Add the chicken; toss to coat thoroughly.
 
 ### Stage 4 - Simmer
-1. Pour in the thin coconut milk (from the tin, stock and Maldive fish flakes if using.
+1. Pour in the thin coconut milk (from the tin), stock and Maldive fish flakes if using.
 1. Add the slit green chillies and salt.
 1. Bring to a steady simmer; reduce heat; partly cover and cook 25-30 minutes until the chicken is tender and the sauce has reduced.
 

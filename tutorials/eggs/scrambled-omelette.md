@@ -93,7 +93,7 @@ For fillings that need cooking through (mushrooms, peppers, onions, meats). Or f
 6. Slide onto the plate.
 
 ### Method (Spanish Tortilla)
-A thicker disc with potato and onion folded in. Cook the potato and onion in olive oil first (a poach in oil at 80 C for 20 minutes). Drain. Mix with 6 beaten eggs. Return to a wider pan; cook over very low heat 5-7 minutes until the bottom is set. Flip onto a plate, then slide back into the pan to cook the second side. Serve at room temperature.
+A thicker disc with potato and onion folded in. Cook the potato and onion in olive oil first (confit-poach in oil at 90-100 C for 25-30 minutes until the potatoes crush easily between fingers). Drain. Mix with 6 beaten eggs. Return to a wider pan; cook over very low heat 5-7 minutes until the bottom is set. Flip onto a plate, then slide back into the pan to cook the second side. Serve at room temperature.
 
 ## Common Mistakes
 

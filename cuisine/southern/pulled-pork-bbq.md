@@ -31,6 +31,7 @@ Southern pulled pork BBQ is one of America's great regional barbecue traditions,
 
 ### Smoking
 - Hickory or apple wood chunks
+- 500 ml apple juice in a spray bottle (optional, for spritzing during the smoke)
 
 ### Eastern Carolina vinegar sauce
 - 500 ml apple cider vinegar

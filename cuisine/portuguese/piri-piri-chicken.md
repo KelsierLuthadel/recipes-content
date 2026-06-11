@@ -53,8 +53,8 @@ Piri-piri chicken is the dish that travelled from Mozambique to Portugal to the 
 1. Remove from the fridge 30 minutes before cooking.
 
 ### Stage 4 - Cook
-1. **Charcoal grill (best):** Build a medium-hot fire. Place chicken skin-side up on the grill 15 cm above the coals; cook 18 minutes. Flip; cook 15 minutes skin-side down for crispness. Baste with the remaining 2 tablespoons olive oil mixed with a spoon of the reserved sauce.
-1. **Oven + grill (broiler) alternative:** Heat oven to 220°C. Place chicken skin-side up on a rack over a tray. Roast 25 minutes. Switch to broil; flip; broil skin-side down 5 minutes, then skin-side up 4 minutes until charred at the edges.
+1. **Charcoal grill (best):** Build a medium-hot fire. Place chicken skin-side up on the grill 15 cm above the coals; cook 18 minutes. Flip; cook 15 minutes skin-side down for crispness. Baste with the remaining 2 tablespoons olive oil mixed with a spoon of the reserved sauce. A probe in the thigh should read 75°C and the juices should run clear.
+1. **Oven + grill (broiler) alternative:** Heat oven to 220°C. Place chicken skin-side up on a rack over a tray. Roast 25 minutes (probe should read about 70°C). Switch to broil; flip; broil skin-side down 5 minutes, then skin-side up 4 minutes until the thigh reads 75°C and the edges are charred.
 
 ### Stage 5 - Rest
 1. Lift onto a board; rest 8 minutes.

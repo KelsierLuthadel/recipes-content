@@ -45,7 +45,7 @@ The Cubano sandwich is one of the most iconic sandwiches in the world and the tr
 1. Spread a thin layer of yellow mustard on the inside of both halves of each loaf.
 2. Layer the meats and cheese (in this order): half the sliced pork on the bottom; half the ham over; half the salami if using; half the Swiss cheese on top.
 3. Add 2-3 pickle slices spread along the length.
-4. Repeat the cheese layer at the very top (some Cuban cooks like cheese on both sides for proper meltiness): 2-3 more slices of cheese.
+4. Optional but traditional: spread a thin second cheese layer at the top for extra meltiness (this needs another 50-100g of Swiss cheese on top of the listed quantity).
 5. Close the sandwich.
 
 ### Stage 3 - Brush the outside
