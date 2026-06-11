@@ -1,0 +1,87 @@
+prep: 10 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - eggs
+  - onion
+  - tomato
+  - potato
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: barley flour
+    raw: 500 g barley flour
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 500
+    unit: g
+    name: lamb
+    raw: 500 g lamb , cut into 3 cm cubes
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tbsp
+    name: bisbas or harissa
+    raw: 1 tbsp bisbas or harissa
+  - qty: 0.5
+    name: /2 tsp turmeric
+    raw: 1/2 tsp turmeric
+  - qty: 0.25
+    name: /4 tsp cinnamon
+    raw: 1/4 tsp cinnamon
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, peeled
+  - qty: 4
+    name: potatoes
+    raw: 4 small potatoes, peeled and halved
+  - name: salt and pepper
+    raw: Salt and pepper

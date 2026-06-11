@@ -1,0 +1,59 @@
+prep: 20 minutes
+cook: None (plus 5-7 day ferment)
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - carrot
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white turnip
+    raw: 500 g white turnip, peeled and cut into batons
+  - qty: 250
+    unit: g
+    name: carrot
+    raw: 250 g carrot, peeled and cut into batons
+  - qty: 1
+    name: beetroot
+    raw: 1 small beetroot, peeled and sliced into 3 mm rounds
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, peeled and smashed
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, halved
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tbsp black peppercorns
+  - qty: 250
+    unit: ml
+    name: white wine vinegar
+    raw: 250 ml white wine vinegar
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tbsp salt
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar

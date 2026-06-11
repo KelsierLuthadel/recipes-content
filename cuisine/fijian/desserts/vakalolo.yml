@@ -1,0 +1,42 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - coconut
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: cassava
+    raw: 1 kg fresh cassava
+  - qty: 300
+    unit: g
+    name: coconut
+    raw: 300 g grated fresh coconut
+  - qty: 200
+    unit: g
+    name: brown sugar
+    raw: 200 g brown sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tbsp coconut oil, melted
+  - qty: 5
+    name: banana leaves
+    raw: 4-6 large banana leaves, softened over a flame
+  - name: "optional for serving: 100 ml thick coconut cream"
+    raw: "Optional for serving: 100 ml thick coconut cream"

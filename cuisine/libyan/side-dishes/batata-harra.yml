@@ -1,0 +1,62 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - cuisine/jordan/side-dishes/batata-harra
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes , cut into 2 cm cubes
+  - qty: 5
+    unit: tbsp
+    name: olive oil
+    raw: 5 tbsp olive oil
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: harissa or bisbas
+    raw: 1 tbsp harissa or bisbas
+  - qty: 2
+    unit: tsp
+    name: coriander
+    raw: 2 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: mint
+    raw: 1 tsp dried mint
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, juiced
+  - qty: 1
+    unit: handful
+    name: coriander leaves and parsley
+    raw: A handful of coriander leaves and parsley, chopped

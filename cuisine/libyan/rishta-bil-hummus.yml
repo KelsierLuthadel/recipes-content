@@ -1,0 +1,99 @@
+prep: 20 minutes (plus dough rest)
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - eggs
+  - onion
+  - tomato
+  - lemon
+  - coriander
+  - chickpea
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g semolina
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - qty: 300
+    unit: g
+    name: lamb shoulder
+    raw: 300 g lamb shoulder, cut into 2 cm cubes
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tbsp
+    name: bisbas or harissa
+    raw: 1 tbsp bisbas or harissa
+  - qty: 0.5
+    name: /2 tsp turmeric
+    raw: 1/2 tsp turmeric
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    name: chickpeas
+    raw: 1 tin chickpeas, drained
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tbsp dried mint
+  - name: salt and pepper
+    raw: Salt and pepper
+  - name: mint and lemon
+    raw: Fresh mint and lemon to finish

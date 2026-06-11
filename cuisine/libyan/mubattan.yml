@@ -1,0 +1,100 @@
+prep: 30 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: lamb mince
+    raw: 250 g lamb mince
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, minced
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tbsp finely chopped parsley
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    name: /2 tsp cinnamon
+    raw: 1/2 tsp cinnamon
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 4
+    name: potatoes
+    raw: 4 medium potatoes
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil for frying
+  - name: plain flour for dusting
+    raw: Plain flour for dusting
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, sliced
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 0.5
+    name: /2 tsp cumin
+    raw: 1/2 tsp cumin
+  - qty: 1
+    unit: tsp
+    name: bisbas or harissa
+    raw: 1 tsp bisbas or harissa
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - name: salt and pepper
+    raw: Salt and pepper

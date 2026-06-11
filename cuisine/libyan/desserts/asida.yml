@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - butter
+  - nuts
+mentions:
+  - cuisine/libyan/bazin
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: semolina
+    raw: 300 g fine semolina
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted
+  - qty: 200
+    unit: ml
+    name: dibs
+    raw: 200 ml dibs
+  - qty: 50
+    unit: g
+    name: toasted sesame seeds
+    raw: 50 g toasted sesame seeds
+  - name: roasted almonds
+    raw: A few crushed roasted almonds

@@ -1,0 +1,43 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: bananas - black-spotted is right
+    raw: 6 very ripe bananas - black-spotted is right
+  - qty: 200
+    unit: g
+    name: self-raising flour
+    raw: 200 g self-raising flour
+  - qty: 100
+    unit: g
+    name: coconut
+    raw: 100 g grated fresh coconut
+  - qty: 80
+    unit: g
+    name: brown sugar
+    raw: 80 g brown sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tbsp coconut oil, melted
+  - qty: 5
+    name: banana leaves
+    raw: 4-6 banana leaves, softened over a flame
+  - name: "for serving: 100 ml thick coconut cream"
+    raw: "For serving: 100 ml thick coconut cream"

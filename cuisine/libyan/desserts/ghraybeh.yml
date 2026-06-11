@@ -1,0 +1,42 @@
+prep: 25 minutes (plus 30 min rest)
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - nuts
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, softened to room temperature
+  - qty: 50
+    unit: ml
+    name: olive oil
+    raw: 50 ml olive oil
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 0.5
+    name: /2 tsp ground cardamom
+    raw: 1/2 tsp ground cardamom
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 30
+    name: blanched almonds
+    raw: 30 blanched almonds

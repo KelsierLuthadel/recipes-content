@@ -1,0 +1,100 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: goat on the bone
+    raw: 1.2 kg goat on the bone , cut into 4 cm pieces
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic, finely minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: madras-style or fijian curry powder
+    raw: 2 tbsp Madras-style or Fijian curry powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp garam masala
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods, cracked
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: potato
+    raw: 1 large potato, peeled and cut into 3 cm cubes
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander, chopped

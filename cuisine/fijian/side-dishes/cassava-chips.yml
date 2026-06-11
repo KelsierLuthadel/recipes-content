@@ -1,0 +1,35 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - lime
+  - chili
+mentions:
+  - cuisine/fijian/kokoda
+  - tutorials/charcuterie/safety
+  - tutorials/distilling-spirits/safety
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: cassava - usually sold whole or frozen at african and caribbean shops
+    raw: 1 kg cassava - usually sold whole or frozen at African and Caribbean shops
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for frying
+  - name: sea salt flakes
+    raw: Sea salt flakes to finish
+  - name: "optional: lime wedges and a small dish of chilli sauce"
+    raw: "Optional: lime wedges and a small dish of chilli sauce"

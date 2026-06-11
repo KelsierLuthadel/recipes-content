@@ -1,0 +1,135 @@
+prep: 1 hour (including osban-making)
+cook: 2 hours
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - tomato
+  - carrot
+  - coriander
+  - chickpea
+  - complex
+mentions:
+  - tutorials/charcuterie/sausages
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: medium-grain couscous
+    raw: 500 g medium-grain couscous
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml warm water
+  - qty: 500
+    unit: g
+    name: lamb shoulder
+    raw: 500 g lamb shoulder, on the bone if possible, cut into large chunks
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tbsp sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tbsp
+    name: bisbas or harissa
+    raw: 1 tbsp bisbas or harissa
+  - qty: 0.5
+    name: /2 tsp turmeric
+    raw: 1/2 tsp turmeric
+  - qty: 0.5
+    name: /2 tsp cinnamon
+    raw: 1/2 tsp cinnamon
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, halved
+  - qty: 2
+    name: turnips
+    raw: 2 small turnips, quartered
+  - qty: 200
+    unit: g
+    name: chickpeas
+    raw: 200 g chickpeas
+  - name: salt
+    raw: Salt
+  - qty: 300
+    unit: g
+    name: lamb mince
+    raw: 300 g lamb mince
+  - qty: 100
+    unit: g
+    name: white rice
+    raw: 100 g cooked white rice
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: parsley
+    raw: 4 tbsp finely chopped parsley
+  - qty: 4
+    unit: tbsp
+    name: mint
+    raw: 4 tbsp finely chopped fresh mint
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - qty: 0.5
+    name: /2 tsp cinnamon
+    raw: 1/2 tsp cinnamon
+  - qty: 0.25
+    name: /4 tsp allspice
+    raw: 1/4 tsp allspice
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 200
+    unit: g
+    name: cleaned sheep tripe
+    raw: 200 g cleaned sheep tripe

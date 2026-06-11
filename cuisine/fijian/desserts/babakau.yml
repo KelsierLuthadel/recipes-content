@@ -1,0 +1,55 @@
+prep: 20 minutes (plus 1 hour rise)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 7
+    unit: g
+    name: fast-action dried yeast
+    raw: 7 g fast-action dried yeast
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk, warmed to lukewarm
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted
+  - qty: 1
+    name: egg
+    raw: 1 large egg, lightly beaten
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for frying
+  - name: caster sugar for dusting
+    raw: Caster sugar for dusting

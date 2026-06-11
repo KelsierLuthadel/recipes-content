@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 8 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: water
+    raw: 4 small cups of water
+  - qty: 4
+    unit: tsp
+    name: coffee
+    raw: 4 tsp very finely ground coffee
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods, lightly crushed
+  - qty: 4
+    unit: tsp
+    name: sugar
+    raw: 4 tsp sugar
+  - name: "optional: a tiny pinch of saffron threads"
+    raw: "Optional: a tiny pinch of saffron threads, or a few drops of rose water"

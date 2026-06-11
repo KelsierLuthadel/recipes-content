@@ -1,0 +1,91 @@
+prep: 40 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: semolina
+    raw: 400 g fine semolina
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 150
+    unit: ml
+    name: olive oil
+    raw: 150 ml olive oil
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 400
+    unit: g
+    name: pitted dates
+    raw: 400 g pitted dates
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 0.5
+    name: /2 tsp ground cloves
+    raw: 1/2 tsp ground cloves
+  - qty: 0.5
+    name: /2 tsp ground anise
+    raw: 1/2 tsp ground anise
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 200
+    unit: g
+    name: sugar
+    raw: 200 g sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 100
+    unit: g
+    name: honey
+    raw: 100 g honey
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tbsp orange-blossom water
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil

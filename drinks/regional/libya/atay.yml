@@ -1,0 +1,31 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - tree-nuts
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - nuts
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: gunpowder green tea
+    raw: 2 tbsp gunpowder green tea
+  - qty: 1
+    name: spearmint
+    raw: 1 small bunch fresh spearmint , washed
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 5
+    name: sugar cubes or 4 tbsp sugar
+    raw: 4-6 sugar cubes or 4 tbsp sugar
+  - name: "optional: a small handful of pine nuts or roasted peanuts"
+    raw: "Optional: a small handful of pine nuts or roasted peanuts"

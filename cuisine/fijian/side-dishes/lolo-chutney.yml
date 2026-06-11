@@ -1,0 +1,52 @@
+prep: 15 minutes
+cook: None
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/fijian/lovo
+  - cuisine/fijian/rourou
+  - cuisine/fijian/side-dishes/cassava-chips
+  - cuisine/indian/side-dishes/coconut-chutney
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g fresh grated coconut
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely diced
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp finely grated fresh ginger
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tbsp lime juice
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tbsp finely chopped fresh coriander
+  - qty: 2
+    unit: tbsp
+    name: coconut milk
+    raw: 2 tbsp coconut milk

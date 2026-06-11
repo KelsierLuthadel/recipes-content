@@ -1,0 +1,85 @@
+prep: 15 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - onion
+  - tomato
+  - lemon
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: lamb
+    raw: 500 g lamb , cut into 3 cm cubes
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g tinned chopped tomatoes
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: bisbas or harissa
+    raw: 1 tsp bisbas or harissa
+  - qty: 0.5
+    name: /2 tsp turmeric
+    raw: 1/2 tsp turmeric
+  - qty: 0.25
+    name: /4 tsp cinnamon
+    raw: 1/4 tsp cinnamon
+  - qty: 1.5
+    unit: l
+    name: water or lamb stock
+    raw: 1.5 litres water or lamb stock
+  - qty: 1
+    name: chickpeas
+    raw: 1 tin chickpeas, drained
+  - qty: 100
+    unit: g
+    name: orzo
+    raw: 100 g orzo
+  - qty: 1
+    unit: tbsp
+    name: mint
+    raw: 1 tbsp dried mint
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, juiced
+  - qty: 1
+    unit: handful
+    name: mint and parsley
+    raw: A handful of fresh mint and parsley, chopped, to finish

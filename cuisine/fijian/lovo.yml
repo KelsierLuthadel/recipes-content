@@ -1,0 +1,92 @@
+prep: 1 hour
+cook: 2 hours 30 minutes (plus pit-heating time)
+allergens:
+  - dairy
+  - soy
+  - fish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - chicken
+  - pork
+  - garlic
+  - ginger
+  - coconut
+  - potato
+  - lime
+  - soy-sauce
+  - complex
+mentions:
+  - cuisine/fijian/side-dishes/lolo-chutney
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder, in 2-3 large pieces
+  - qty: 500
+    unit: g
+    name: firm white fish
+    raw: 500 g firm white fish
+  - qty: 4
+    unit: tbsp
+    name: lime juice
+    raw: 4 tbsp lime juice
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp grated ginger
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tbsp sea salt
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tbsp soy sauce
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tbsp coconut oil
+  - qty: 8
+    name: dalo
+    raw: 8 medium pieces dalo , or substitute large potatoes
+  - qty: 4
+    name: kumara
+    raw: 4 medium kumara , halved
+  - qty: 8
+    name: green banana leaves
+    raw: 8 large green banana leaves , softened over a flame
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml thick coconut cream
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, sliced
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, smashed
+  - name: thyme or basil
+    raw: A few sprigs of fresh thyme or basil

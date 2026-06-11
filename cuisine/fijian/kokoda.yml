@@ -1,0 +1,56 @@
+prep: 20 minutes (plus 30-60 min cure)
+cook: None
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - tomato
+  - coconut
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/south-american/ceviche
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: firm white fish
+    raw: 500 g firm white fish , skinless and boneless
+  - name: juice of 4-5 limes
+    raw: Juice of 4-5 limes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml thick coconut cream
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely diced
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, deseeded and diced 5 mm
+  - qty: 0.5
+    name: /2 cucumber
+    raw: 1/2 cucumber, deseeded and diced 5 mm
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tbsp finely chopped fresh coriander
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion, finely sliced
+  - name: black pepper
+    raw: Black pepper
