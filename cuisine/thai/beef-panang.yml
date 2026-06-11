@@ -2,6 +2,7 @@ prep: 10 minutes
 cook: 20 minutes
 allergens:
   - dairy
+  - peanuts
   - fish
   - meat
 tags:
@@ -16,6 +17,7 @@ tags:
   - mushroom
   - coconut
   - lime
+  - nuts
   - curry
 mentions:
   - cuisine/thai/pastes/panang-curry-paste
@@ -54,3 +56,7 @@ ingredients:
     unit: tbsp
     name: thai fish sauce
     raw: 2 tbsp Thai fish sauce
+  - qty: 3
+    unit: tbsp
+    name: roasted peanuts
+    raw: 3 tbsp roasted peanuts, roughly crushed
