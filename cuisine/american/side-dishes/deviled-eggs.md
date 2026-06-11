@@ -29,7 +29,7 @@ Deviled eggs are one of America's most enduring party foods: a fixture of Easter
 - 1 tsp finely chopped chives (optional, mixed in)
 
 ### To finish
-- Smoked (or sweet paprika), for dusting
+- Smoked paprika (or sweet paprika), for dusting
 - Finely snipped chives
 - Optional: cornichon slices, capers, or crispy bacon crumbs
 

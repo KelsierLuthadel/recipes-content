@@ -20,7 +20,7 @@ Risotto alla milanese is the saffron-yellow Milanese rice dish, the side that tr
 - 50 g unsalted butter (split)
 - 1 tablespoon olive oil
 - 1 shallot (small, very finely chopped)
-- 300 g carnaroli (or arborio rice)
+- 300 g carnaroli rice (or arborio rice)
 - 100 ml dry white wine
 - 60 g parmesan cheese (finely grated)
 - salt

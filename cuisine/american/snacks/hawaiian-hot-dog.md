@@ -25,7 +25,7 @@ The Hawaiian hot dog is the islands' distinctive take on the American hot dog, b
 - 200 g fresh pineapple (chopped); or use canned crushed pineapple
 - 2 tablespoons brown sugar
 - Juice of 1 lime
-- 1 tablespoon rice vinegar (or apple cider)
+- 1 tablespoon rice vinegar (or apple cider vinegar)
 - 1 thumb (3 cm) fresh ginger (grated)
 - 1 small fresh red chilli (deseeded, finely chopped; optional)
 - ½ teaspoon fine sea salt

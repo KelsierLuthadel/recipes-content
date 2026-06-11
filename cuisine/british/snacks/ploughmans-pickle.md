@@ -28,7 +28,7 @@ The British pub pickle and the traditional partner to a wedge of mature Cheddar 
 
 ### Pickling syrup
 - 400 ml malt vinegar (NOT white vinegar; the malt is essential for the colour and depth)
-- 100 ml apple cider vinegar (or extra malt)
+- 100 ml apple cider vinegar (or extra malt vinegar)
 - 250 g dark brown sugar (muscovado is ideal)
 - 3 tablespoons black treacle (or molasses)
 - 1 tablespoon English mustard powder

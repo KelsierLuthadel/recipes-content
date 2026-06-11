@@ -41,7 +41,7 @@ Chicken inasal is the pride of Bacolod City on Negros Occidental, where streetsi
 
 ### Dipping sauce (toyomansi)
 - 45 ml soy sauce
-- 30 ml calamansi (or lime juice)
+- 30 ml calamansi juice (or lime juice)
 - 15 ml cane vinegar
 - 1 bird's eye chilli (sliced)
 - 1 shallot (small, finely chopped)

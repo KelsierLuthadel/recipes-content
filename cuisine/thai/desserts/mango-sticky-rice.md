@@ -16,7 +16,7 @@ Khao niao mamuang is Thailand's mango plate: sticky rice steeped in salty-sweet 
 ## Ingredients
 
 ### Rice
-- 300 g Thai glutinous (or sticky rice)
+- 300 g Thai glutinous rice (or sticky rice)
 - Cold water (for soaking)
 
 ### Sweet coconut sauce (for soaking the rice)

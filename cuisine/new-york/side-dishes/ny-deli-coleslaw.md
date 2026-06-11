@@ -27,7 +27,7 @@ NY deli coleslaw is the traditional Jewish-American deli-counter slaw and the si
 - 50 g caster sugar
 - 1 tablespoon celery seed
 - 1 ½ teaspoons fine sea salt
-- 1 teaspoon ground white pepper (or black)
+- 1 teaspoon ground white pepper (or ground black pepper)
 - 1 teaspoon onion powder
 
 ### Optional add-ins

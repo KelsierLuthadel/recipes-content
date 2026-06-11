@@ -98,8 +98,8 @@ ingredients:
     raw: 45 ml soy sauce
   - qty: 30
     unit: ml
-    name: calamansi
-    raw: 30 ml calamansi
+    name: calamansi juice
+    raw: 30 ml calamansi juice
   - qty: 15
     unit: ml
     name: cane vinegar

@@ -42,7 +42,7 @@ Agra's ginger chicken is a North Indian home-cook's curry from the Taj Mahal's c
 ### Greens and garnish
 - 200 g (7 oz) baby spinach, washed
 - 1 lime (zest)
-- 1 small bunch fresh coriander (or fresh coriander), leaves and stalks roughly chopped
+- 1 small bunch fresh coriander, leaves and stalks roughly chopped
 
 ## Method
 

@@ -17,7 +17,7 @@ Garlic bok choy is the side dish that every Cantonese parent makes mid-week with
 
 - 600 g baby bok choy (about 8 small heads, or 4 larger heads halved lengthwise)
 - 2 teaspoons salt (for blanching)
-- 3 tablespoons sunflower oil (or any neutral)
+- 3 tablespoons sunflower oil (or any neutral oil)
 - 6 garlic cloves (sliced thin)
 - 2 tablespoons oyster sauce
 - 1 tablespoon light soy sauce

@@ -18,7 +18,7 @@ Green beans almondine (haricots verts amandine) is the classic French side dish 
 - 500 g fresh green beans (haricots verts if you can find them, thinner and more elegant than ordinary green beans)
 - 2 tablespoons salt (for the blanching water)
 - 60 g unsalted butter
-- 50 g flaked (or sliced almonds)
+- 50 g flaked almonds (or sliced almonds)
 - 1 garlic clove (small, very finely chopped, optional)
 - 1 teaspoon Dijon mustard (optional)
 - 1 tablespoon fresh lemon juice

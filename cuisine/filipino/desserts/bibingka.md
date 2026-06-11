@@ -31,7 +31,7 @@ Bibingka is the Filipino Christmas-season rice cake sold from baskets outside ch
 - 50 g kesong puti (or salty white cheese, or substitute mild feta or queso fresco)
 - 30 g unsalted butter (extra, for brushing)
 - 2 tablespoons caster sugar (for sprinkling)
-- 80 g fresh grated coconut (or rehydrated desiccated)
+- 80 g fresh grated coconut (or rehydrated desiccated coconut)
 
 ### Lining
 - Banana leaf (cut to fit the tin or ramekins, pass over a gas flame briefly to soften)
