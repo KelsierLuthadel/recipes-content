@@ -52,8 +52,8 @@ ingredients:
     unit: tsp
     name: chives
     raw: 1 tsp finely chopped chives
-  - name: smoked
-    raw: Smoked , for dusting
+  - name: smoked paprika
+    raw: Smoked paprika , for dusting
   - name: snipped chives
     raw: Finely snipped chives
   - name: "optional: cornichon slices"
