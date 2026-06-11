@@ -49,8 +49,8 @@ The vegetable side of tempura: sweet potato, kabocha, aubergine, mushrooms, gree
 1. Serve the grated daikon and ginger separately so guests can stir in to taste.
 
 ### Stage 2 - Heat the oil
-1. Heat 5 cm of oil in a heavy pot or deep fryer to 175-180°C.
-1. Drop a tiny piece of batter to test, it should sink halfway, then float and sizzle.
+1. Heat 5 cm of oil in a heavy pot or deep fryer to 175-180°C - a kitchen thermometer is the reliable check. Failing that, the handle of a wooden spoon dipped in should give off a steady stream of small bubbles.
+1. Once the batter is mixed in Stage 3, drop a tiny piece in: it should sink halfway, then float and sizzle.
 
 ### Stage 3 - Batter (only when ready to fry)
 1. In a wide bowl, whisk the egg yolk into the cold sparkling water; add a few ice cubes to keep it cold.
@@ -59,7 +59,8 @@ The vegetable side of tempura: sweet potato, kabocha, aubergine, mushrooms, gree
 ### Stage 4 - Fry
 1. Working in small batches:
 1. Dust each vegetable in plain flour; dip into batter; let excess drip off.
-1. Slip carefully into the oil; fry 90 seconds to 2 minutes until pale golden and crisp.
+1. Slip carefully into the oil. Slice the dense root vegetables (sweet potato, kabocha, pumpkin) thin (3 mm) or par-steam them 3-4 minutes first - otherwise the batter colours before the inside cooks through.
+1. Fry 90 seconds to 2 minutes (longer for any thicker dense pieces) until pale golden and crisp.
 1. Lift onto a wire rack (not paper, which traps steam and softens the crust).
 1. Skim any batter scraps out of the oil between batches; re-check temperature.
 

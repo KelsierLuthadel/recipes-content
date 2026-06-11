@@ -47,8 +47,8 @@ The original paella, the dish born in the rice fields outside Valencia and prote
 1. From this point, DO NOT STIR.
 
 ### Stage 4 - Cook the rice
-1. Boil hard for 10 minutes, then reduce to medium-low.
-1. Cook another 8-10 minutes until the rice is just tender and the liquid is almost absorbed.
+1. High heat (vigorous bubbling, not violent crashing) for 5-7 minutes.
+1. Reduce to medium-low; cook another 10-12 minutes until the rice is just tender and the liquid is almost absorbed.
 1. Listen for crackling at the base, that's the socarrat forming. Crank the heat to high for 30-60 seconds at the end if needed.
 
 ### Stage 5 - Rest and serve

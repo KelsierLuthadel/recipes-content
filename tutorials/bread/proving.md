@@ -31,7 +31,7 @@ How to tell when it is done: the dough has roughly doubled in size, feels light 
 2. Press the finger about 1 cm into the surface of the dough.
 3. Lift it out and watch what happens.
 
-**Ready:** The indentation springs back slowly, taking 1-2 seconds to fill in, but does not fully disappear. There is a slight visible dimple left when you walk away.
+**Ready:** The indentation fills back about halfway in 1-2 seconds, leaving a faint visible dimple behind.
 
 **Under-proved:** The indentation springs back fast and disappears completely. The dough is still tight and has not finished fermenting. Give it another 20-30 minutes.
 

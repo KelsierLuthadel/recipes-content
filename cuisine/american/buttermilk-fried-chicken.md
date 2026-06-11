@@ -54,13 +54,13 @@ The Southern Sunday dinner that defined a region. You start the night before, si
 
 ### Stage 3 - Heat the oil
 1. Pour 5 cm of oil into a heavy deep pot or cast-iron skillet.
-1. Heat to 175°C (a small piece of dredge should sizzle vigorously when dropped in).
+1. Heat to 175°C - a kitchen thermometer is the reliable check. As a backup, the handle of a wooden spoon dipped in should give a steady stream of small bubbles, and a small piece of dredge should sizzle vigorously.
 
 ### Stage 4 - Fry
 1. Working in 2-3 batches (don't crowd):
 1. Lower chicken pieces in carefully, large bone-in pieces first; thighs and breasts at the bottom of the pan, smaller wings and drumsticks at the top.
 1. Fry 12-15 minutes, turning every 3-4 minutes, maintaining oil temperature at 165-175°C.
-1. The chicken is done when deep mahogany brown, the coating is crisp, and the internal temperature reaches 75°C (or juices run clear).
+1. The chicken is done when deep mahogany brown, the coating is crisp, and a probe in the thickest part reaches 75°C.
 1. Drain on a wire rack (not paper, which traps steam and softens the crust).
 
 ### Stage 5 - Rest and serve

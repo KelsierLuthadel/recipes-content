@@ -58,10 +58,10 @@ Samgyeopsal, literally "three-layered flesh" after the visible stripes of meat a
 ### Stage 3 - Set the table
 1. Wash lettuce and perilla leaves and dry them well. Arrange on a platter.
 2. Set out the sliced garlic, chillies, salt-pepper dish, sesame oil dip, ssamjang, spring onion salad, kimchi and rice.
-3. Heat a tabletop grill or heavy cast-iron pan to high.
+3. Heat a tabletop grill or heavy cast-iron pan to medium-high (high blackens the outside before the fat renders).
 
 ### Stage 4 - Grill
-1. Lay the pork belly slabs onto the dry hot grill, fat side down first if possible. Do not crowd.
+1. Lay the pork belly slabs onto the dry hot grill, fattiest edge contacting the pan first. Do not crowd.
 2. Let them sizzle undisturbed for 3 to 4 minutes until the underside is deep golden and the fat is glassy.
 3. Flip with tongs. Cook another 3 to 4 minutes.
 4. Tip in a few slices of garlic and chilli into the rendered fat to crisp gently alongside the meat.

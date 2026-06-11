@@ -54,7 +54,7 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 
 ### Stage 1 - Beat the beef
 1. Place each slice of beef between two sheets of cling film.
-2. Beat gently but firmly with a meat mallet (or the bottom of a heavy saucepan) till the slice is 3 mm thick, about 50% thinner than starting.
+2. Beat gently but firmly with a meat mallet (or the bottom of a heavy saucepan) till the slice is 3 mm thick, about 40% thinner than starting.
 3. Don't tear the meat; gentle blows till it stretches out.
 
 ### Stage 2 - Prep the fillings
@@ -87,7 +87,7 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 4. Add the bay leaves.
 
 ### Stage 7 - Deglaze and braise
-1. Pour in the red wine; reduce 5 minutes (alcohol burns off).
+1. Pour in the red wine; reduce 5 minutes to mellow the wine and concentrate the flavour.
 2. Add the beef stock, redcurrant jelly, and pepper.
 3. Return the browned rouladen to the pan (with any resting juices).
 4. The liquid should come about 2/3 up the rouladen.

@@ -48,11 +48,11 @@ Paella de mariscos is the coastal seafood paella, the Mediterranean cousin to pa
 1. Sprinkle the rice evenly across the pan; do not stir.
 
 ### Stage 3 - Cook the rice
-1. Boil hard for 8 minutes.
-1. Tuck in the white fish cubes; reduce heat to medium-low.
-1. After another 5 minutes, nestle the prawns, mussels and clams into the rice (hinge-down for shellfish).
+1. Boil vigorously (but not crashing) for 5-6 minutes.
+1. Reduce heat to medium-low; cook another 6-7 minutes without stirring.
+1. Nestle the prawns, mussels (hinge-down so they open upward) and clams (shell-up so the juices stay in) into the rice. Tuck in the white fish cubes - they only need a few minutes.
 1. Scatter the peas over.
-1. Cook another 8 minutes, until the rice is just tender, the shellfish have opened, and the prawns are pink and cooked through.
+1. Cook another 5-6 minutes, until the rice is just tender, the shellfish have opened, the prawns are pink and the fish is just opaque.
 1. Crank the heat to high for 30 seconds at the end to crisp the bottom.
 
 ### Stage 4 - Rest and serve

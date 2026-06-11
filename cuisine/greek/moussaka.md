@@ -65,7 +65,7 @@ Moussaka is the Greek tradition of layered aubergine and lamb baked under a thic
 ### Stage 4 - Béchamel
 1. Melt the butter; whisk in flour; cook 1 minute.
 1. Add warm milk gradually, whisking, until smooth and thickened.
-1. Off the heat, beat in the eggs (whisk fast or they scramble), cheese and nutmeg.
+1. Off the heat, let the bechamel cool 3-4 minutes (still warm but no longer steaming). Whisk the eggs in a small bowl with a ladleful of the warm bechamel to temper them, then pour the tempered mixture back into the pan, whisking. Stir in the cheese and nutmeg.
 
 ### Stage 5 - Assemble and bake
 1. Reduce oven to 180°C (160°C fan).

@@ -53,7 +53,7 @@ Bratwurst is a whole family of sausages, with each German region defending its o
 ### Stage 2 - Poach the bratwurst
 1. Combine the lager (or water), bay, caraway and sliced onion in a wide pan; bring to a bare simmer (about 75-80°C, never boiling).
 1. Slip in the bratwurst; keep the liquid at the gentlest possible quiver.
-1. Poach 8-10 minutes until the sausages are firm to the touch and grey-pink throughout.
+1. Poach 12-15 minutes until a probe in the centre of a sausage reads at least 65°C. The grill in Stage 3 will take them past 71°C.
 1. Lift out carefully with tongs (not a fork) and drain on a tray.
 
 ### Stage 3 - Grill

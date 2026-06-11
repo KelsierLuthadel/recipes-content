@@ -53,7 +53,7 @@ Ethiopia's national dish, the spiced chicken stew that turns up at every wedding
 
 ### Stage 2 - Cook the onions
 1. Place the chopped onions in a large heavy pot WITHOUT any oil.
-1. Cook over medium-low heat, stirring occasionally, for 30-40 minutes until they're very soft, dark and have lost most of their volume.
+1. Cook over medium-low heat, stirring every few minutes, for 30-40 minutes until they're very soft, dark and have lost most of their volume. The pan will dry out as the onions release their water; whenever it looks dry and the onions threaten to catch, splash in 1-2 tablespoons of water and keep stirring. This dry-cook stage is what gives doro wat its deep onion base.
 1. Add 4 tablespoons niter kibbeh; cook another 10 minutes.
 
 ### Stage 3 - Build the sauce

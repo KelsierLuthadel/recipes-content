@@ -43,7 +43,7 @@ Avgolemono is the Greek lemon-egg soup the country eats when someone is unwell o
 
 ### Stage 3 - Cook the rice
 1. Return the broth to the pot; bring to a simmer.
-1. Add the rice (or orzo); cook 18 minutes for rice or 8 minutes for orzo, until tender.
+1. Add the rice (or orzo); cook partially covered 18 minutes for rice or 8 minutes for orzo, until tender. Top up with hot water if the broth has reduced below ~1.3 litres - the rice will drink a fair amount.
 
 ### Stage 4 - Avgolemono (egg-lemon liaison)
 1. In a bowl, whisk the eggs with the lemon juice until foamy.

@@ -68,7 +68,7 @@ After 7 days, the cure has penetrated evenly. A 5-6 cm thick belly is reliably c
 
 **Option A: Smoked bacon.**
 
-Cold-smoke at 25 C or below for 4-6 hours using apple, hickory or oak wood. Then refrigerate overnight and either bake at 90 C until 65 C internal (about 60-90 minutes for a 1.5-2 kg belly) or eat as-is (cold-smoked but not cooked, like commercial cold-smoked salmon, safe because the cure #1 has done its work but the meat must be sliced and cooked before eating).
+Cold-smoke at 25 C or below for 4-6 hours using apple, hickory or oak wood. Then refrigerate overnight. From there, either bake at 90 C until 65 C internal (about 60-90 minutes for a 1.5-2 kg belly) to make ready-to-eat smoked bacon, or store the cold-smoked-only belly sliced and cook before eating - unlike cold-smoked salmon, cold-smoked bacon is *not* ready-to-eat; slice and pan-fry the slices the same as you would any raw bacon.
 
 Most home bacons split the difference: cold-smoke 2-4 hours then continue in the same chamber at warming heat (60-80 C) until 65 C internal. The result is smoked, partially cooked, ready to slice and pan-fry the rest.
 

@@ -54,8 +54,9 @@ A weeknight rescue from someone-doing-Japanese-at-home, twenty minutes start to 
 1. Push to one side.
 
 ### Stage 4 - Glaze
+1. Reduce the pan to medium-low (the sugar in the glaze burns fast in a screaming-hot pan).
 1. Pour the glaze into the empty side of the pan.
-1. Bring to a simmer; let it bubble and thicken for 1-2 minutes.
+1. Let it bubble gently and thicken for 1-2 minutes.
 1. Return the salmon (skin-side up); spoon the glaze over the top of each fillet.
 1. Cook 1 more minute; the glaze should be sticky.
 

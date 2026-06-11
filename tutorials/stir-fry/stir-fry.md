@@ -27,9 +27,9 @@ The standard workflow:
 
 1. Set up all ingredients in small bowls beside the hob. Each one ready to grab.
 2. Pre-mix any sauces (soy + cornflour slurry + sugar + vinegar) in a small jug.
-3. Heat the wok empty until smoking faintly.
-4. Add oil. Swirl.
-5. Add aromatics (garlic, ginger, spring onion white). 5-10 seconds.
+3. Heat the wok empty until smoking faintly (carbon-steel or cast-iron only - never preheat a non-stick wok empty; the coating breaks down above 240°C).
+4. Add oil; swirl to coat. The oil should shimmer immediately.
+5. Quickly add aromatics (garlic, ginger, spring onion white) - they should sizzle, not blacken. If the wok is too hot they'll burn in seconds; lift the pan off the heat briefly if needed. 10-20 seconds total.
 6. Add protein. Cook until just done.
 7. Push protein to the side; add vegetables. Cook 1-2 minutes.
 8. Pour in sauce. Toss to coat.

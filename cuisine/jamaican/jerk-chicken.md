@@ -63,13 +63,13 @@ Jamaica's signature on a grill: bone-in chicken marinated overnight in a fiery w
 1. Set up a charcoal grill for indirect heat (coals on one side, drip tray on the other).
 1. Scatter pimento wood chips (or allspice berries) over the coals.
 1. Place chicken skin-side up on the cool side; close the lid; vents open.
-1. Cook 35-45 minutes, basting with reserved paste every 10 minutes, until the meat is tender and the skin is mahogany-dark.
+1. Cook 35-45 minutes, basting with reserved paste every 10 minutes, until a probe in the thickest part of the thigh reads 75°C and the skin is mahogany-dark.
 
 ### Stage 4 - Cook (oven shortcut)
 1. Heat oven to 200°C (180°C fan).
 1. Lay chicken on a wire rack over a foil-lined tray.
-1. Roast 30 minutes.
-1. Brush with reserved paste; switch to grill on high; finish 5-8 minutes until skin is darkly bronzed.
+1. Roast 30 minutes (or until a probe in the thigh reads 70°C).
+1. Brush with reserved paste; switch to grill on high; finish 5-8 minutes until the skin is darkly bronzed and the thigh probe reads 75°C.
 
 ### Stage 5 - Rest and serve
 1. Rest 5 minutes.

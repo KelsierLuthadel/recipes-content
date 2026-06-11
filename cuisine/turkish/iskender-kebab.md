@@ -81,9 +81,8 @@
 ### Stage 4 - Cook the lamb
 1. Heat a wide heavy frying pan (or grill pan) over high heat till smoking.
 2. Lift the lamb slices from the marinade; let any excess drip off.
-3. Cook the lamb in batches (don't crowd); 2 minutes per side till charred and just cooked through.
-4. Transfer to a warm plate.
-5. After all the lamb is cooked, slice each piece thinly into long strips (about 5 mm wide).
+3. Cook the lamb in batches (don't crowd); 45-60 seconds per side - the slices are thin, they'll be charred and just cooked through fast. Overdo it and they grey out.
+4. Transfer to a warm plate as you go.
 
 ### Stage 5 - Grill the tomatoes and chillies (optional)
 1. Place the halved fresh tomatoes and whole chillies on the grill pan; char briefly for the garnish.

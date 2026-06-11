@@ -52,7 +52,7 @@ Using a fork or your fingertips:
 3. If too dry (cracking, won't come together): dampen your hands slightly and knead more.
 4. If too wet (sticking to the bench): dust a bit of flour. Be sparing; over-flouring makes the dough tough.
 
-A correctly-kneaded dough passes a simple test: press a finger into the surface; it should spring back slowly. Tight elastic dough = under-kneaded; slack non-springy dough = over-hydrated.
+A correctly-kneaded dough passes a simple test: press a finger into the surface; it should spring back slowly. Rough lumpy dough that won't smooth out = under-kneaded (keep going); tight elastic dough that resists rolling = over-worked or under-rested (rest longer); slack non-springy dough = over-hydrated.
 
 ### Stage 4 - Rest
 

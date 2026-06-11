@@ -51,8 +51,9 @@ Harira is the Moroccan tomato-and-lentil soup that breaks the Ramadan fast at ev
 1. Stir in the tomato purée; cook 1 minute.
 
 ### Stage 3 - Simmer
-1. Return the lamb. Add the chopped tomatoes, chickpeas, lentils and stock.
-1. Bring to a simmer; cover loosely and cook 1 hour until the lamb is tender and the lentils are soft.
+1. Return the lamb. Add the chopped tomatoes, chickpeas and stock (no lentils yet).
+1. Bring to a simmer; cover loosely and cook 1 hour until the lamb is approaching tender.
+1. Add the lentils; simmer another 25-30 minutes until the lamb is fully tender and the lentils are soft but still hold their shape.
 
 ### Stage 4 - Vermicelli and finish
 1. Add the vermicelli noodles; cook 8-10 minutes until soft.

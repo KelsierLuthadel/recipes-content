@@ -11,7 +11,7 @@ The result is, for most vegetables, dramatically better than any other technique
 
 ## The Universal Method
 
-Five steps, the same for almost every vegetable.
+Seven steps, the same for almost every vegetable.
 
 1. **Heat the oven hot.** 220-240 C (425-475 F). The high temperature drives the Maillard browning; below 200 C the vegetables go soft and pale rather than browning crisply.
 2. **Cut to even sizes.** Pieces should be similar in size so they cook at the same rate. The size depends on the vegetable, large pieces for root vegetables (chunks 3-4 cm), small for delicate vegetables (florets 2 cm, slices 1 cm thick).
@@ -135,7 +135,7 @@ Serve with the lemon squeezed over plus the pan oil drizzled on top.
 | Brussels sprouts | Halved | 230 C | 20-25 min | Cut-side down for char |
 | Cauliflower/broccoli florets | 3-4 cm florets | 220 C | 18-25 min | Spread well; do not crowd |
 | Whole cauliflower head | Whole | 220 C | 45-55 min | Massage spice paste in deeply |
-| Aubergine | Halves or 3 cm chunks | 230 C | 25-35 min | Salt and rest for 20 min before roasting to draw moisture |
+| Aubergine | Halves or 3 cm chunks | 230 C | 25-35 min | Modern varieties don't need degorging; if salting to draw moisture, rinse and pat dry before roasting |
 | Bell peppers | Halves | 230 C | 20-25 min | Until skin blackens, then steam in a bowl to peel |
 | Cherry tomatoes | Whole | 230 C | 18-25 min | Until splitting |
 | Whole tomatoes | Halves | 200 C | 60-90 min | Slow-roasted, sweet and condensed |
@@ -150,7 +150,7 @@ Serve with the lemon squeezed over plus the pan oil drizzled on top.
 The single technique that produces ideal British roast potatoes:
 
 1. Peel potatoes and cut to large chunks.
-2. Boil in well-salted water until just past the point where a knife slides in (about 8-10 minutes).
+2. Boil in well-salted water until a knife meets just a hint of resistance at the centre (about 8-10 minutes) - they should not be fully soft.
 3. Drain. Return to the pan; shake gently to rough up the surface (the rough edges are what crisp).
 4. Toss with goose fat or beef dripping (4-5 tbsp per kg).
 5. Spread on a heavy roasting tray.

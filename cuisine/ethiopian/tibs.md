@@ -52,7 +52,7 @@ Tibs is the everyday sautéed meat dish of Ethiopia, the quick-cook counterpart 
 
 ### Stage 3 - Sear the meat
 1. Add the meat to the pan in a single layer, working in 2 batches if needed to avoid crowding. The first batch should fit with space between cubes.
-2. Let the cubes sear undisturbed for 90 seconds till the underside is deep brown.
+2. Let the cubes sear undisturbed for 2-3 minutes till the underside is well-coloured.
 3. Toss or turn the cubes and continue searing for another 1-2 minutes till most surfaces are well-browned but the meat is still pink in the centre. (The meat will keep cooking in the final stage.)
 4. Tip the seared meat into a bowl. Repeat with the second batch if needed.
 

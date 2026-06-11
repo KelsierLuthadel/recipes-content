@@ -103,7 +103,7 @@ The simplest cook and the most dramatic presentation. The fish is left in one pi
 
 1. Heat the oven to 200 C (180 fan).
 2. Scale and gut the fish (or have the fishmonger do it).
-3. Pat the fish dry. Score the skin diagonally on both sides, 3-4 cuts each side, about 0.5 cm deep (these help heat penetrate and the seasoning to flavour the flesh).
+3. Pat the fish dry. Score the skin diagonally on both sides, 3-4 cuts each side, just through the skin and into the top 3-5 mm of flesh - not down to the bone (these help heat penetrate and the seasoning flavour the flesh).
 4. Rub the fish all over with olive oil. Season generously with salt and pepper inside and out, including in the scored cuts.
 5. Stuff the cavity with lemon slices, herbs and crushed garlic.
 6. Place on a sheet of baking paper on a roasting tray. Add the cherry tomatoes around. Pour the white wine into the tray.

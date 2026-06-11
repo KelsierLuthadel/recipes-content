@@ -68,7 +68,7 @@ The finger-poke test still works. The dough should spring back slowly when ready
 The order matters more than for lean doughs.
 
 **Standard enriched method:**
-1. Warm the milk (if using) gently. Whisk in the yeast and a pinch of the sugar. Wait 5 minutes for the yeast to activate (small bubbles on top).
+1. Warm the milk (if using) gently. Whisk in the yeast and a pinch of the sugar. If using active dry yeast, wait 5 minutes for the yeast to activate (small bubbles on top). Instant yeast doesn't need this step - just mix and go.
 2. In a large bowl: flour, remaining sugar, salt, eggs.
 3. Pour in the milk-yeast mixture. Mix with a wooden spoon until a rough dough comes together.
 4. Knead 5 minutes on the bench, or 3 minutes in a stand mixer with a dough hook. The gluten is starting to develop.

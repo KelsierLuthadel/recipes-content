@@ -14,11 +14,11 @@ The salt-and-ice technique sounds fussy; once you have done it twice it becomes 
 ## The Universal Method
 
 1. **Bring a very large pot of water to a rolling boil.** 4-5 litres minimum, even for 500 g of vegetables. The large volume of water recovers quickly when the cold vegetables go in, and dilutes the natural acids the vegetables release (acids dull the colour).
-2. **Salt heavily.** 4-5 tablespoons of sea salt per 4 litres of water. Should taste like seawater. The salt seasons the vegetable, stops chlorophyll degradation (keeps the green), and reduces nutrient loss to the water.
+2. **Salt heavily.** 4-5 tablespoons of sea salt per 4 litres of water - aim for water that tastes salty as a well-seasoned broth (about 1.5-2%, slightly under true seawater). The salt seasons the vegetable, stops chlorophyll degradation (keeps the green), and reduces nutrient loss to the water.
 3. **Prepare an ice bath.** A large bowl half-filled with ice cubes, topped up with cold water. Have a slotted spoon or strainer ready.
 4. **Drop in the vegetable.** No need to wait between additions, drop everything at once if it is delicate (peas, beans, asparagus), or in batches if it is denser (broccoli, cauliflower, root vegetables sliced thin).
 5. **Time precisely.** Use a timer; under-blanched is undercooked, over-blanched is mushy. Pinpoint timing is the difference between a great blanched green and a mediocre one.
-6. **Lift out into the ice bath.** Use a slotted spoon, spider, or pour through a colander into the ice bath. The cold shock stops the cooking instantly.
+6. **Lift out into the ice bath.** Use a slotted spoon or spider straight from the pot into the ice (faster). Or pour the pot through a colander in the sink, then transfer the drained vegetables into the ice bath - don't pour boiling water through the colander into the ice bath itself, it warms the ice and defeats the shock. The cold shock stops the cooking instantly.
 7. **Drain when cool.** 30-60 seconds in the ice is enough; the vegetable should be cool to the touch but not waterlogged.
 
 ## Timings

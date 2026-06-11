@@ -42,7 +42,7 @@ Beef panang is the thicker, sweeter, peanut-tinged cousin to red curry: beef sim
 1. Add beef; fry 2 mins to brown.
 
 ### Stage 2 - Add paste and sugar
-1. Add curry paste and 1 tbsp sugar; fry briefly.
+1. Add curry paste and 1 tbsp sugar; fry 1-2 minutes until the paste smells fragrant and the oil starts to take on its colour.
 1. Add coconut milk; simmer 5 mins to thicken.
 
 ### Stage 3 - Add vegetables and finish

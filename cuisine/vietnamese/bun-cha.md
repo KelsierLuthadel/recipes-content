@@ -71,7 +71,7 @@ Two cuts of pork (sliced belly and seasoned mince patties) are marinated in a fi
 
 ### Stage 4 - Grill the Pork
 1. Heat a char-grill pan, barbecue plate or frying pan over high heat.
-2. Brush with oil and grill the pork belly for 2 minutes on each side, until slightly charred and cooked through.
+2. Brush with oil and grill the pork belly slices (3-5 mm thick is right; thicker won't cook through this fast) for 2 minutes on each side, until slightly charred and cooked through.
 3. Transfer to a serving platter.
 4. Brush the pan with oil again and cook the pork patties for 3 to 4 minutes on each side, until charred and cooked through.
 5. Transfer to the same platter.

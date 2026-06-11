@@ -52,7 +52,7 @@ The chamber: any insulated box with hooks at the top and a smoke inlet. A conver
 
 ### Safety Notes
 
-- Outdoor temperature must be below 16 C for safe cold smoking with no active cooling. At 20-25 C the chamber will warm into the danger zone (4-60 C, where pathogens grow).
+- Keep the smoking chamber under 30 C (the cold-smoke ceiling). With no active cooling this usually means an outdoor ambient temperature of around 20 C or below; warmer ambients can push the chamber into the danger zone (4-60 C, where pathogens grow). If your chamber temperature is creeping up, switch to hot smoking or finish another day.
 - The product must be fully cured before smoking. Cold smoke does not preserve uncured meat or fish.
 - Long cold smokes (over 12 hours total) are not necessary at home; the flavour saturates earlier.
 

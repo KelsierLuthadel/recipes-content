@@ -30,7 +30,7 @@ For a 500 ml jar of pickle:
 - 300 ml water
 - 200 ml vinegar
 - 100 g sugar
-- 1.5 tbsp sea salt
+- 2 tsp (10-12 g) fine sea salt
 
 Heat to dissolve sugar and salt. Pour over vegetables in the jar. Add spices to the jar (mustard seed, black peppercorns, coriander seed, garlic cloves, dried chilli, bay leaf). Refrigerate.
 
