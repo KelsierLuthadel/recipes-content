@@ -23,7 +23,7 @@ The Mexican breakfast that justifies last night: leftover tortilla chips simmere
 - 1 tablespoon olive oil
 - A handful of fresh coriander
 - ½ teaspoon salt
-- 200 ml chicken (or vegetable stock)
+- 200 ml chicken stock (or vegetable stock)
 
 ### To assemble
 - 4 cups tortilla chips (about 200 g, ideally lightly stale)

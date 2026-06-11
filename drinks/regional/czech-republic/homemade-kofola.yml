@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 45 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - ginger
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 200
+    unit: g
+    name: more caster sugar
+    raw: 200 g more caster sugar
+  - name: zest of 2 oranges
+    raw: Zest of 2 oranges
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - qty: 6
+    name: star anise
+    raw: 6 whole star anise
+  - qty: 8
+    name: cloves
+    raw: 8 whole cloves
+  - qty: 6
+    name: allspice berries
+    raw: 6 whole allspice berries
+  - qty: 2
+    unit: tsp
+    name: coriander seeds
+    raw: 2 tsp coriander seeds, lightly crushed
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 tsp fennel seeds
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger, sliced
+  - qty: 1
+    name: licorice root
+    raw: 1 small piece dried licorice root
+  - qty: 2
+    name: vanilla pods
+    raw: 2 vanilla pods, split
+  - qty: 1
+    unit: tsp
+    name: citric acid
+    raw: 1 tsp citric acid
+  - qty: 1
+    unit: small pinch
+    name: salt
+    raw: A small pinch of fine salt
+  - qty: 35
+    unit: ml
+    name: kofola syrup
+    raw: 30-40 ml kofola syrup
+  - qty: 250
+    unit: ml
+    name: chilled sparkling water
+    raw: 250 ml chilled sparkling water
+  - name: ice cubes
+    raw: Ice cubes
+  - name: lemon or orange slice
+    raw: A lemon or orange slice
+  - name: "optional: a sprig of mint"
+    raw: "Optional: a sprig of mint"

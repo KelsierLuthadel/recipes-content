@@ -23,7 +23,7 @@ Shrimp Creole is the dish that announces you're in New Orleans, a tomato-rich st
 - 6 garlic cloves (crushed)
 - 2 tablespoons tomato paste
 - 400 g tin chopped tomatoes
-- 400 ml seafood, chicken (or vegetable stock)
+- 400 ml seafood, chicken or vegetable stock
 - 2 bay leaves
 - 4 sprigs fresh thyme
 - 2 teaspoons Creole seasoning (or 1 tsp paprika + ½ tsp each cayenne, garlic powder, oregano, salt, black pepper)

@@ -1,0 +1,57 @@
+prep: 30 minutes (plus 90 minutes proving)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - butter
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 100
+    unit: g
+    name: day-old white bread
+    raw: 100 g day-old white bread , cut into 1 cm cubes
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 tsp caster sugar
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 280
+    unit: ml
+    name: milk
+    raw: 280 ml whole milk, warmed to body temperature
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tbsp unsalted butter, melted
+  - qty: 4
+    unit: l
+    name: water
+    raw: 4 L water
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt

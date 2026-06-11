@@ -90,8 +90,8 @@ ingredients:
     raw: 1 potato
   - qty: 200
     unit: ml
-    name: beef
-    raw: 200 ml beef
+    name: beef stock
+    raw: 200 ml beef stock
   - qty: 1
     unit: tbsp
     name: cornflour

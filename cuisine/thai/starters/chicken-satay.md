@@ -28,7 +28,7 @@ Chicken satay with peanut sauce is the great Thai street-grill starter, marinate
 - 200ml (generous ¾ cup) coconut milk
 - A pinch of ground cinnamon
 - 2 tsp palm sugar (or white sugar)
-- 1 tbsp white wine (or rice vinegar)
+- 1 tbsp white wine vinegar (or rice vinegar)
 - 1 tsp salt
 
 ### Peanut sauce

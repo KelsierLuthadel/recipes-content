@@ -1,0 +1,48 @@
+prep: 15 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - potato
+  - butter
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: lamb shoulder or lamb breast on the bone
+    raw: 1.5 kg lamb shoulder or lamb breast on the bone, cut into 5 cm chunks
+  - qty: 1
+    name: white cabbage
+    raw: 1 large white cabbage , cut into thick wedges
+  - qty: 2
+    unit: tbsp
+    name: black peppercorns
+    raw: 2 tbsp whole black peppercorns
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1.5
+    unit: kg
+    name: floury potatoes
+    raw: 1.5 kg floury potatoes, peeled, boiled
+  - name: butter
+    raw: Butter for the potatoes
+  - name: lingonberry preserves or sweet pickled red cabbage on the side
+    raw: Lingonberry preserves or sweet pickled red cabbage on the side

@@ -80,8 +80,8 @@ ingredients:
     raw: 1 pinch freshly grated nutmeg
   - qty: 500
     unit: ml
-    name: chicken
-    raw: 500 milliliters chicken
+    name: chicken stock
+    raw: 500 milliliters chicken stock
   - qty: 100
     unit: ml
     name: milk

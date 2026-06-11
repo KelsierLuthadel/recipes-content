@@ -38,11 +38,11 @@ A whole roast turkey is the centrepiece of the American Thanksgiving table and m
 - 1 head garlic (halved through the equator)
 - 1 lemon (halved)
 - 1 large bunch fresh thyme, sage and rosemary
-- 500 ml chicken (or turkey stock, for the roasting tin)
+- 500 ml chicken stock (or turkey stock, for the roasting tin)
 
 ### Gravy
 - 30 g plain flour
-- 750 ml chicken (or turkey stock, warm)
+- 750 ml chicken stock (or turkey stock, warm)
 - 100 ml dry white wine (optional)
 - salt
 - pepper

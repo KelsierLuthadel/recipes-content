@@ -36,7 +36,7 @@ Nigeria's bus-stop pasty, sold from every roadside cart and snack shop across th
 - ½ teaspoon black pepper
 - 1 carrot (medium, diced 5 mm)
 - 1 potato (large, diced 5 mm, about 200 g)
-- 200 ml beef (or chicken stock)
+- 200 ml beef stock (or chicken stock)
 - 1 tablespoon cornflour (mixed with 2 tablespoons cold water)
 
 ### To finish

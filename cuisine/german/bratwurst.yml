@@ -61,8 +61,8 @@ ingredients:
     raw: 150 ml dry white wine
   - qty: 100
     unit: ml
-    name: chicken
-    raw: 100 ml chicken
+    name: chicken stock
+    raw: 100 ml chicken stock
   - qty: 5
     unit: g
     name: sugar

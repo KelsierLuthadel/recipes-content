@@ -12,7 +12,7 @@
 ### For the pastry
 - 175 grams plain flour
 - 100 grams chopped butter
-- 25 grams caster (or icing sugar)
+- 25 grams caster sugar (or icing sugar)
 - a little cold water
 - one orange (zest)
 

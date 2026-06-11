@@ -1,0 +1,51 @@
+prep: 5 minutes (plus pre-made cordial)
+cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions:
+  - drinks/hot/hot-toddy
+  - drinks/hot/mulled-wine
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: or frozen blackcurrants
+    raw: 500 g fresh or frozen blackcurrants
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 200
+    unit: ml
+    name: blackcurrant cordial
+    raw: 200 ml blackcurrant cordial
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml boiling water
+  - qty: 4
+    name: lemon
+    raw: 4 thin slices of lemon
+  - qty: 4
+    name: cinnamon sticks
+    raw: 4 cinnamon sticks
+  - qty: 8
+    name: cloves
+    raw: 8 whole cloves
+  - qty: 1
+    unit: small handful
+    name: berries
+    raw: A small handful of fresh berries , for garnish

@@ -29,8 +29,8 @@ ingredients:
     raw: 5 egg whites
   - qty: 25
     unit: g
-    name: granulated
-    raw: 25 grams granulated
+    name: granulated sugar
+    raw: 25 grams granulated sugar
   - qty: 50
     unit: g
     name: cake flour

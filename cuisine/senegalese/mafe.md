@@ -27,7 +27,7 @@ Mafé is West Africa's great peanut stew: a deep rust-coloured sauce that turns 
 - 2 bay leaves
 - 1 teaspoon ground black pepper
 - 2 Maggi (or other seasoning cubes)
-- 1.2 litres beef (or chicken stock)
+- 1.2 litres beef stock (or chicken stock)
 - Salt
 
 ### Peanut sauce

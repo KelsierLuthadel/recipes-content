@@ -28,7 +28,7 @@ Sichuan hot pot is less a dish than a method of eating: a pot of fiercely spiced
 - 6 garlic cloves (smashed)
 - 4 spring onions (cut into 5 cm lengths)
 - 1 tablespoon Shaoxing rice wine
-- 2 ½ litres unsalted chicken (or beef stock)
+- 2 ½ litres unsalted chicken stock (or beef stock)
 - 2 tablespoons rock sugar (or 1 tablespoon caster sugar)
 - 1 tablespoon dark soy sauce
 - 1 ½ teaspoons salt (to taste)

@@ -32,7 +32,7 @@ Thukpa is Tibet's restorative winter noodle soup: a clean ginger-and-garlic-forw
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric
-- 1 ½ litres beef (or chicken stock)
+- 1 ½ litres beef stock (or chicken stock)
 - 1 tablespoon soy sauce
 - salt
 - pepper

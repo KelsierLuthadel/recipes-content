@@ -1,0 +1,95 @@
+prep: 20 minutes
+cook: 2 hours 15 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: beef chuck or shin
+    raw: 1.2 kg beef chuck or shin, cut into 4 cm chunks
+  - qty: 600
+    unit: g
+    name: onions
+    raw: 600 g onions , finely diced
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 4
+    unit: tbsp
+    name: lard
+    raw: 4 tbsp lard, duck fat or vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: sweet hungarian or czech paprika
+    raw: 3 tbsp sweet Hungarian or Czech paprika
+  - qty: 1
+    unit: tsp
+    name: smoked paprika
+    raw: 1 tsp smoked paprika
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds, lightly crushed
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 tsp dried marjoram
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 800
+    unit: ml
+    name: beef stock
+    raw: 800 ml beef stock
+  - qty: 300
+    unit: ml
+    name: dark czech lager
+    raw: 300 ml dark Czech lager
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: brown sugar
+    raw: 1 tsp brown sugar
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tbsp red wine vinegar
+  - name: czech bread dumplings
+    raw: Czech bread dumplings , sliced into rounds
+  - name: onion
+    raw: Sliced raw onion
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tbsp finely chopped flat-leaf parsley

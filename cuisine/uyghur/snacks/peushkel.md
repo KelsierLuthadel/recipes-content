@@ -26,7 +26,7 @@ The most stripped-down Uyghur fried bread: flour, water, yeast, salt absent, sug
 - 1 handful flour (for the pass)
 
 ### To fry
-- 1 ½ litres olive (or sunflower oil, for deep-frying)
+- 1 ½ litres olive oil (or sunflower oil, for deep-frying)
 - Icing sugar, to finish
 
 ## Method

@@ -1,0 +1,87 @@
+prep: 30 minutes (plus 2 hours proving)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - coconut
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/bread/proving
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: cardamom
+    raw: 2 tsp ground cardamom
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk, warmed to body temperature
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, softened
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split
+  - qty: 4
+    name: egg yolks
+    raw: 4 large egg yolks
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 40
+    unit: g
+    name: cornflour
+    raw: 40 g cornflour
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
+  - qty: 2.5
+    unit: tbsp
+    name: water
+    raw: 2-3 tbsp water
+  - qty: 100
+    unit: g
+    name: desiccated coconut
+    raw: 100 g desiccated coconut

@@ -1,0 +1,55 @@
+prep: 40 minutes (plus overnight chill of potato)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - potato
+  - butter
+  - cream
+mentions:
+  - tutorials/charcuterie/sausages
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes, peeled and quartered
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1.5 tsp fine sea salt
+  - qty: 225
+    unit: g
+    name: plain flour
+    raw: 200-250 g plain flour
+  - name: plain flour for dusting
+    raw: Extra plain flour for dusting
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, melted
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1.5
+    unit: tsp
+    name: cinnamon
+    raw: 1.5 tsp ground cinnamon

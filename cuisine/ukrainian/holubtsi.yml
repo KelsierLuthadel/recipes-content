@@ -96,8 +96,8 @@ ingredients:
     raw: 400 g tin chopped tomatoes
   - qty: 600
     unit: ml
-    name: beef
-    raw: 600 ml beef
+    name: beef stock
+    raw: 600 ml beef stock
   - qty: 200
     unit: g
     name: soured cream

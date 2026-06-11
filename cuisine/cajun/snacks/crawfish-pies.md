@@ -32,7 +32,7 @@ A Louisiana hand pie, the Cajun answer to a Cornish pasty and the snack you'd bu
 - ½ green pepper, deseeded and finely chopped
 - 2 garlic cloves, finely chopped
 - 1 tomato (small), deseeded and finely chopped
-- 200 ml seafood (or chicken stock)
+- 200 ml seafood stock (or chicken stock)
 - 1 ½ teaspoons Cajun seasoning
 - ½ teaspoon smoked paprika
 - 1 teaspoon hot sauce (Tabasco or Louisiana)

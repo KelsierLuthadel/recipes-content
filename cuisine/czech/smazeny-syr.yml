@@ -1,0 +1,83 @@
+prep: 15 minutes (plus 30 minutes freeze)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - lemon
+  - cheese
+  - complex
+mentions:
+  - sauces/sauce-savory/tartare-sauce
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: block edam cheese
+    raw: 600 g block Edam cheese , cut into 4 thick slabs
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g dried breadcrumbs
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 600
+    unit: ml
+    name: vegetable or sunflower oil
+    raw: 500-700 ml vegetable or sunflower oil
+  - qty: 200
+    unit: ml
+    name: mayonnaise
+    raw: 200 ml mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: cornichons
+    raw: 2 tbsp finely chopped cornichons
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tbsp finely chopped capers
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tbsp Dijon mustard
+  - qty: 1
+    name: shallot
+    raw: 1 small shallot, finely diced
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tbsp finely chopped flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: lemon juice
+    raw: 1 tsp lemon juice
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 4
+    name: chips or boiled new potatoes
+    raw: 4 generous portions of chips or boiled new potatoes
+  - qty: 4
+    name: lemon wedges
+    raw: 4 lemon wedges
+  - name: pickled gherkins
+    raw: Pickled gherkins
+  - name: green salad
+    raw: A small green salad

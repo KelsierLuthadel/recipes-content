@@ -40,7 +40,7 @@ Holubtsi are the stuffed cabbage rolls of Ukrainian Sunday dinners: blanched who
 - 3 garlic cloves (crushed)
 - 2 tablespoons tomato paste
 - 400 g tin chopped tomatoes
-- 600 ml beef (or vegetable stock)
+- 600 ml beef stock (or vegetable stock)
 - 200 g soured cream (at room temperature)
 - 1 bay leaf
 - 2 sprigs thyme

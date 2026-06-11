@@ -28,7 +28,7 @@ A competition-winning fried tender from chef Jessica Fulks where everything is b
 - 3 tablespoons dried basil
 
 ### Fry
-- 1 ½ litres canola (or vegetable oil)
+- 1 ½ litres canola oil (or vegetable oil)
 
 ### Sauce
 - 300 g (10 oz) pure honey

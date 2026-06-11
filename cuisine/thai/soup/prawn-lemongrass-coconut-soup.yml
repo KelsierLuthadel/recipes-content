@@ -53,8 +53,8 @@ ingredients:
     raw: 1 tablespoon fish sauce
   - qty: 1.2
     unit: l
-    name: fish
-    raw: 1.2 litres fish
+    name: fish stock
+    raw: 1.2 litres fish stock
   - qty: 400
     unit: ml
     name: coconut milk

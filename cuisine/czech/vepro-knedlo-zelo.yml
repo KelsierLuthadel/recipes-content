@@ -1,0 +1,107 @@
+prep: 25 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/braising
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: pork shoulder
+    raw: 1.5 kg pork shoulder
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 2
+    unit: tbsp
+    name: caraway seeds
+    raw: 2 tbsp caraway seeds, lightly crushed
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp freshly ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tbsp Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, sliced
+  - qty: 400
+    unit: ml
+    name: beef or chicken stock
+    raw: 400 ml beef or chicken stock
+  - qty: 200
+    unit: ml
+    name: dark beer
+    raw: 200 ml dark beer
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 1
+    unit: pinch
+    name: brown sugar
+    raw: A pinch of brown sugar
+  - qty: 100
+    unit: ml
+    name: stock or water
+    raw: 100 ml stock or water
+  - qty: 800
+    unit: g
+    name: sauerkraut
+    raw: 800 g sauerkraut
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely diced
+  - qty: 50
+    unit: g
+    name: smoked bacon lardons
+    raw: 50 g smoked bacon lardons
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds
+  - qty: 2
+    unit: tsp
+    name: soft brown sugar
+    raw: 2 tsp soft brown sugar
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tbsp plain flour
+  - qty: 200
+    unit: ml
+    name: water or stock
+    raw: 200 ml water or stock
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 tsp white wine vinegar
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 12
+    name: houskove knedliky - or use shop-bought
+    raw: 12 slices houskové knedlíky - or use shop-bought, available in some delis

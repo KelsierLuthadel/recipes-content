@@ -1,0 +1,74 @@
+prep: 30 minutes (plus 15 minutes rest)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - tutorials/bread/cottage
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 12
+    name: dark plums - traditional
+    raw: 12 small dark plums - traditional
+  - name: or 12 large strawberries
+    raw: OR 12 large strawberries
+  - name: or 12 apricots
+    raw: OR 12 apricots, halved and pitted
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 tsp caster sugar
+  - qty: 12
+    name: sugar cubes
+    raw: 12 sugar cubes
+  - qty: 250
+    unit: g
+    name: curd cheese - or substitute drained ricotta
+    raw: 250 g curd cheese - or substitute drained ricotta, or quark
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour, plus extra for shaping
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter, melted
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 g icing sugar, sifted
+  - qty: 50
+    unit: g
+    name: poppy seeds
+    raw: 50 g ground poppy seeds
+  - name: or 80 g sweetened tvaroh
+    raw: OR 80 g sweetened tvaroh
+  - name: or 80 g toasted chopped walnuts mixed with cinnamon sugar
+    raw: OR 80 g toasted chopped walnuts mixed with cinnamon sugar
+  - name: "optional: a small spoonful of sour cream"
+    raw: "Optional: a small spoonful of sour cream"
+  - name: "optional: extra sugar at the table"
+    raw: "Optional: extra sugar at the table"

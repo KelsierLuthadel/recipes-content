@@ -26,7 +26,7 @@ Ragù is the great Italian meat sauce, deeply browned beef (or beef-and-pork mix
 
 ### Building Depth
 - 1-2 tablespoons tomato paste
-- 150 ml dry red (or white wine)
+- 150 ml dry red wine (or white wine)
 - 400 grams canned tomatoes (or passata)
 - 300 ml beef stock (or water)
 - 1 bay leaf (or small sprig thyme, optional)

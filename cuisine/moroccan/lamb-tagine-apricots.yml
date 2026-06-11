@@ -69,8 +69,8 @@ ingredients:
     raw: A pinch of saffron threads
   - qty: 700
     unit: ml
-    name: chicken
-    raw: 700 ml chicken
+    name: chicken stock
+    raw: 700 ml chicken stock
   - qty: 2
     unit: tbsp
     name: honey

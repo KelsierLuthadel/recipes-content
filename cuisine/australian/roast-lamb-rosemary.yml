@@ -59,12 +59,12 @@ ingredients:
     raw: 250 ml red wine
   - qty: 500
     unit: ml
-    name: lamb
-    raw: 500 ml lamb
+    name: lamb stock
+    raw: 500 ml lamb stock
   - qty: 2
     unit: tbsp
-    name: redcurrant
-    raw: 2 tablespoons redcurrant
+    name: redcurrant jelly
+    raw: 2 tablespoons redcurrant jelly
   - qty: 1
     unit: tsp
     name: dijon mustard

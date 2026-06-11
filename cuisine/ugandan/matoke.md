@@ -28,7 +28,7 @@ Matoke is Uganda's emblematic dish, the Buganda staple of green starchy plantain
 - 1 Royco (or Maggi cube)
 - 2 bay leaves
 - 1 green chilli (split lengthways, seeds in or out to taste)
-- 700 ml beef (or chicken stock)
+- 700 ml beef stock (or chicken stock)
 - Salt
 
 ### Plantains

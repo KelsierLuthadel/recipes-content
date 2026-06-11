@@ -22,7 +22,7 @@ Biscuit joconde is the building block for almost every French mousse cake and ba
 ### Egg Components
 - 5 whole eggs (room temperature)
 - 5 egg whites (room temperature)
-- 25 grams granulated (or caster sugar)
+- 25 grams granulated sugar (or caster sugar)
 
 ### Flour & Fat
 - 50 grams cake flour (or soft flour, sifted)

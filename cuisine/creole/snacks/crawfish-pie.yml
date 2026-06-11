@@ -5,7 +5,6 @@ allergens:
   - dairy
   - eggs
   - shellfish
-  - meat
   - celery
   - garlic
 tags:
@@ -70,8 +69,8 @@ ingredients:
     raw: 2 tablespoons tomato paste
   - qty: 150
     unit: ml
-    name: chicken
-    raw: 150 ml chicken
+    name: chicken stock
+    raw: 150 ml chicken stock
   - qty: 80
     unit: ml
     name: double cream

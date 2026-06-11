@@ -1,0 +1,55 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted and cooled
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 tsp ground cardamom
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - name: icing sugar for dusting
+    raw: Icing sugar for dusting
+  - name: whipped cream with vanilla
+    raw: Whipped cream with vanilla
+  - name: berries
+    raw: Fresh berries
+  - name: cloudberry preserves or apricot jam
+    raw: Cloudberry preserves or apricot jam

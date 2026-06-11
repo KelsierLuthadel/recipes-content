@@ -1,0 +1,74 @@
+prep: 15 minutes (plus 48 hours cure)
+cook: None
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - mustard
+tags:
+  - meals
+  - meat
+  - fish
+  - salmon
+  - lemon
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: salmon fillet
+    raw: 1 kg salmon fillet, skin-on, scaled, pin bones removed
+  - qty: 100
+    unit: g
+    name: sea salt
+    raw: 100 g coarse sea salt
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: white peppercorns
+    raw: 1 tbsp coarsely crushed white peppercorns
+  - qty: 1
+    name: dill
+    raw: 1 large bunch fresh dill, roughly chopped
+  - name: "optional: 2 tbsp aquavit"
+    raw: "Optional: 2 tbsp aquavit, brandy or vodka"
+  - qty: 3
+    unit: tbsp
+    name: dijon mustard
+    raw: 3 tbsp Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: wholegrain mustard
+    raw: 1 tbsp wholegrain mustard
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tbsp white wine vinegar
+  - qty: 100
+    unit: ml
+    name: neutral vegetable oil
+    raw: 100 ml neutral vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tbsp finely chopped fresh dill
+  - name: salt and white pepper
+    raw: Salt and white pepper
+  - name: dark rye bread or pumpernickel
+    raw: Dark rye bread or pumpernickel, thinly sliced
+  - name: unsalted butter
+    raw: Unsalted butter
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: dill
+    raw: Extra fresh dill sprigs

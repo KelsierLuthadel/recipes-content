@@ -102,8 +102,8 @@ ingredients:
     raw: pepper
   - qty: 125
     unit: ml
-    name: beef
-    raw: 125ml beef
+    name: beef stock
+    raw: 125ml beef stock
   - qty: 1
     unit: tsp
     name: marmite

@@ -1,0 +1,81 @@
+prep: 20 minutes (plus chilling time)
+cook: 1 hour (for the porridge, day before)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - rice
+  - lemon
+  - cream
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: short-grain rice
+    raw: 200 g short-grain rice
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1.2
+    unit: l
+    name: milk
+    raw: 1.2 L whole milk
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tbsp icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    name: almond
+    raw: 1 whole peeled almond
+  - qty: 400
+    unit: g
+    name: mixed berries or fresh
+    raw: 400 g frozen mixed berries or fresh
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 1
+    unit: tbsp
+    name: cornflour mixed with 2 tbsp cold water
+    raw: 1 tbsp cornflour mixed with 2 tbsp cold water

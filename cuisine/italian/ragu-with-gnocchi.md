@@ -32,7 +32,7 @@ Ragu with gnocchi is the Italian comfort dinner that pairs slow-cooked meat sauc
 - 1 parmesan rind
 - 2 bay leaves
 - 1 pinch freshly grated nutmeg
-- 500 milliliters chicken (or beef stock)
+- 500 milliliters chicken stock (or beef stock)
 - 100 milliliters whole milk (second addition)
 - 30 grams butter
 - salt

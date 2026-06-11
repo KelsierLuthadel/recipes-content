@@ -87,16 +87,16 @@ ingredients:
     raw: 1 large bunch fresh thyme, sage and rosemary
   - qty: 500
     unit: ml
-    name: chicken
-    raw: 500 ml chicken
+    name: chicken stock
+    raw: 500 ml chicken stock
   - qty: 30
     unit: g
     name: plain flour
     raw: 30 g plain flour
   - qty: 750
     unit: ml
-    name: chicken
-    raw: 750 ml chicken
+    name: chicken stock
+    raw: 750 ml chicken stock
   - qty: 100
     unit: ml
     name: dry white wine

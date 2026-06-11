@@ -26,7 +26,7 @@ The other classic Moroccan tagine, a sweet-and-savoury celebration of lamb that 
 - 1 teaspoon sweet paprika
 - ½ teaspoon ground turmeric
 - A pinch of saffron threads
-- 700 ml chicken (or lamb stock)
+- 700 ml chicken stock (or lamb stock)
 - 2 tablespoons honey
 - 200 g dried apricots
 - 50 g toasted flaked almonds

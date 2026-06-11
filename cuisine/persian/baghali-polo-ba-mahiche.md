@@ -25,7 +25,7 @@ Baghali polo ba mahiche is the Nowruz feast plate of a Persian kitchen: dill-and
 - 2 teaspoons salt
 - ½ teaspoon black pepper
 - 1 large pinch saffron threads (soaked in 4 tablespoons hot water)
-- 500 ml light lamb (or chicken stock)
+- 500 ml light lamb stock (or chicken stock)
 - 2 tablespoons tomato paste (optional)
 
 ### Rice

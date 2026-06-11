@@ -22,7 +22,7 @@ Káposzta is the Hungarian braised cabbage that goes beside almost every Hungari
 - 1 ½ tablespoons Hungarian sweet paprika
 - ½ teaspoon caraway seeds (lightly crushed)
 - 1 teaspoon sugar
-- 150 ml chicken (or vegetable stock)
+- 150 ml chicken stock (or vegetable stock)
 - 1 tablespoon white wine vinegar (or cider vinegar)
 - salt
 - pepper

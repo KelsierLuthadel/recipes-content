@@ -31,7 +31,7 @@ Harira is the Moroccan tomato-and-lentil soup that breaks the Ramadan fast at ev
 - 800 g tinned chopped tomatoes (2 tins)
 - 200 g tinned chickpeas (or dried chickpeas, cooked if dried)
 - 100 g brown lentils (rinsed)
-- 1 ½ litres chicken (or lamb stock)
+- 1 ½ litres chicken stock (or lamb stock)
 - 100 g vermicelli noodles (broken into short pieces)
 - A small bunch of fresh coriander (chopped)
 - A small bunch of fresh parsley (chopped)

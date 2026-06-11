@@ -30,7 +30,7 @@ Bratwurst is a whole family of sausages, with each German region defending its o
 - 2 juniper berries (crushed)
 - 1 bay leaf
 - 150 ml dry white wine (or apple juice)
-- 100 ml chicken (or vegetable stock)
+- 100 ml chicken stock (or vegetable stock)
 - 5 g sugar
 - salt
 - pepper

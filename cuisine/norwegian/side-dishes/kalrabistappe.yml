@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - sides
+  - meat
+  - carrot
+  - butter
+  - cream
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: rutabaga
+    raw: 1 kg rutabaga , peeled, cut into 3 cm chunks
+  - qty: 200
+    unit: g
+    name: carrots
+    raw: 200 g carrots, peeled, cut into 2 cm chunks
+  - qty: 600
+    unit: ml
+    name: lamb broth
+    raw: 600 ml lamb broth
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: 0.5 tsp ground white pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of grated nutmeg
+  - qty: 2
+    unit: tbsp
+    name: chives or parsley
+    raw: 2 tbsp finely chopped fresh chives or parsley
+  - qty: 1
+    unit: drizzle
+    name: brown butter on top
+    raw: A drizzle of brown butter on top

@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - duck
+  - onion
+  - butter
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: red cabbage
+    raw: 1 large red cabbage , outer leaves removed, cored and finely shredded
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely diced
+  - qty: 2
+    name: dessert apples
+    raw: 2 dessert apples , peeled, cored, grated
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 150
+    unit: ml
+    name: red wine vinegar
+    raw: 150 ml red wine vinegar
+  - qty: 150
+    unit: ml
+    name: red wine
+    raw: 150 ml red wine
+  - qty: 100
+    unit: g
+    name: soft brown sugar
+    raw: 100 g soft brown sugar
+  - qty: 2
+    unit: tbsp
+    name: redcurrant jelly
+    raw: 2 tbsp redcurrant jelly
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: juniper berries
+    raw: 4 juniper berries
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - name: black pepper
+    raw: A grind of black pepper

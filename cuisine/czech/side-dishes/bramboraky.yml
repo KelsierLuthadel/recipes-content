@@ -1,0 +1,63 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - potato
+  - cream
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely grated
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tbsp plain flour
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 tsp dried marjoram
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds, lightly crushed
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1.5 tsp fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: 0.5 tsp freshly ground black pepper
+  - qty: 100
+    unit: ml
+    name: vegetable oil or lard
+    raw: 100 ml vegetable oil or lard
+  - name: sour cream
+    raw: Sour cream
+  - name: pickled gherkins
+    raw: Pickled gherkins
+  - name: "optional: sauerkraut"
+    raw: "Optional: sauerkraut, fried egg, mushroom stew"

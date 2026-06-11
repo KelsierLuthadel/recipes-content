@@ -22,7 +22,7 @@ The defining dish of the north-west of England, the one-pot supper invented to f
 - 2 carrots (sliced)
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon fresh thyme leaves
-- 500 ml lamb (or beef stock)
+- 500 ml lamb stock (or beef stock)
 - 1 kg waxy potatoes (Charlotte or similar), peeled and sliced 5 mm thick
 - 50 g unsalted butter (melted)
 - salt

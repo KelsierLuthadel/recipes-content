@@ -1,0 +1,73 @@
+prep: 20 minutes
+cook: 10 minutes (plus 2 weeks pickling)
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - meat
+  - pork
+  - onion
+  - garlic
+  - chili
+mentions:
+  - tutorials/charcuterie/sausages
+  - tutorials/cocktails/equipment
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/pickling
+ingredients:
+  - qty: 8
+    name: long thin czech spekacky sausages
+    raw: 8 long thin Czech špekáčky sausages
+  - qty: 3
+    name: onions
+    raw: 3 large onions, very finely sliced into rings
+  - qty: 1
+    name: red bell pepper
+    raw: 1 small red bell pepper, sliced
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, sliced
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, lightly smashed
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 2
+    unit: tsp
+    name: black peppercorns
+    raw: 2 tsp whole black peppercorns
+  - qty: 4
+    name: allspice berries
+    raw: 4 whole allspice berries
+  - qty: 1
+    unit: tsp
+    name: yellow mustard seeds
+    raw: 1 tsp yellow mustard seeds
+  - qty: 1
+    name: chilli
+    raw: 1 small dried chilli
+  - qty: 500
+    unit: ml
+    name: white wine vinegar
+    raw: 500 ml white wine vinegar
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 3
+    unit: tbsp
+    name: caster sugar
+    raw: 3 tbsp caster sugar
+  - qty: 1.5
+    unit: tbsp
+    name: sea salt
+    raw: 1.5 tbsp fine sea salt

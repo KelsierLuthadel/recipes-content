@@ -2,7 +2,6 @@ prep: 5 minutes
 cook: 25 minutes
 allergens:
   - dairy
-  - meat
 tags:
   - gluten-free
   - quick
@@ -22,8 +21,8 @@ ingredients:
     raw: 1 large pinch saffron threads
   - qty: 1
     unit: l
-    name: chicken
-    raw: 1 litre chicken
+    name: chicken stock
+    raw: 1 litre chicken stock
   - qty: 50
     unit: g
     name: unsalted butter

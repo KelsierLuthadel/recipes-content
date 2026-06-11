@@ -31,8 +31,8 @@ Australia's Sunday lamb, the centre of the long-lunch table and the smell that f
 
 ### Gravy
 - 250 ml red wine (or extra stock)
-- 500 ml lamb (or beef stock, good quality)
-- 2 tablespoons redcurrant (or quince jelly)
+- 500 ml lamb stock (or beef stock, good quality)
+- 2 tablespoons redcurrant jelly (or quince jelly)
 - 1 teaspoon Dijon mustard
 - 1 tablespoon plain flour (optional, for thickening)
 - salt

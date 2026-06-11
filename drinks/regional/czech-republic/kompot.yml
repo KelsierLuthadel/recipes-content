@@ -1,0 +1,46 @@
+prep: 10 minutes
+cook: 15 minutes (plus 2 hours chill)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - lemon
+  - honey
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: "mixed fruit (one or a combination of:"
+    raw: "500 g mixed fruit (one or a combination of:"
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 L water
+  - qty: 90
+    unit: g
+    name: caster sugar
+    raw: 80-100 g caster sugar
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    name: star anise
+    raw: 1 star anise
+  - name: zest of half a lemon
+    raw: Zest of half a lemon, in strips
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - qty: 1
+    unit: small pinch
+    name: salt
+    raw: A small pinch of salt
+  - name: "optional: 1 tbsp honey for added complexity"
+    raw: "Optional: 1 tbsp honey for added complexity"

@@ -22,7 +22,7 @@ Cassoulet is the great slow-cooked white-bean and meat dish of southwest France,
 - 4 garlic cloves
 - 1 [Bouquet Garni](../../base-ingredients/herbs/bouquet-garni.md)
 - 1 tablespoon tomato purée
-- 1 ½ litres chicken (or duck stock)
+- 1 ½ litres chicken stock (or duck stock)
 
 ### Meats
 - 4 confit duck legs (jarred or homemade)

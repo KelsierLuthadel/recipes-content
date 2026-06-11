@@ -35,7 +35,7 @@ A Tex-Mex chilli pushed past its usual edges: beef and pork mince with smoked pa
 - pepper
 
 ### Sauce & Umami Base
-- 125ml beef (or vegetable stock)
+- 125ml beef stock (or vegetable stock)
 - 1 teaspoon marmite
 - 2 teaspoons soy sauce
 - 1 tablespoon balsamic vinegar

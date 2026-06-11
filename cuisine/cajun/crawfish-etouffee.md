@@ -26,7 +26,7 @@ A Louisiana classic, the dish whose name means "smothered" in French, and that's
 ### Sauce
 - 2 tablespoons tomato paste
 - 1 tablespoon Cajun seasoning (or 1 tsp paprika + ½ tsp each cayenne, garlic powder, oregano, thyme, salt, pepper)
-- 700 ml seafood, chicken (or vegetable stock)
+- 700 ml seafood, chicken or vegetable stock
 - 2 bay leaves
 - 1 tablespoon Worcestershire sauce
 - 1 tablespoon hot sauce (Crystal or Tabasco)

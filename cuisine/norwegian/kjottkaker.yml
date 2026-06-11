@@ -1,0 +1,106 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - soy
+  - meat
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - potato
+  - butter
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: beef mince
+    raw: 400 g beef mince
+  - qty: 400
+    unit: g
+    name: pork mince
+    raw: 400 g pork mince
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely grated
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1.5 tsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp freshly ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: 0.5 tsp ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: 0.5 tsp ground ginger
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tbsp plain flour
+  - qty: 600
+    unit: ml
+    name: beef stock
+    raw: 600 ml beef stock
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1
+    unit: tsp
+    name: soy sauce
+    raw: 1 tsp soy sauce
+  - qty: 1
+    unit: pinch
+    name: brown sugar
+    raw: A pinch of brown sugar
+  - name: salt and pepper
+    raw: Salt and pepper
+  - name: mashed potato
+    raw: Mashed potato
+  - qty: 400
+    unit: g
+    name: peas
+    raw: 400 g frozen peas, boiled 3 minutes
+  - qty: 100
+    unit: g
+    name: lingonberry preserves
+    raw: 100 g lingonberry preserves

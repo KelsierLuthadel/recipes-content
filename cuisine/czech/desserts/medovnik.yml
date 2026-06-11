@@ -1,0 +1,90 @@
+prep: 1 hour (plus 24 hours setting)
+cook: 30 minutes (across 6 thin layers)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - ginger
+  - butter
+  - cream
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 200
+    unit: g
+    name: clear honey
+    raw: 200 g clear honey
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 1
+    unit: tbsp
+    name: bicarbonate of soda
+    raw: 1 tbsp bicarbonate of soda
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tbsp white vinegar
+  - qty: 650
+    unit: g
+    name: plain flour
+    raw: 600-700 g plain flour
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: 0.5 tsp ground cloves
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 600
+    unit: ml
+    name: sour cream
+    raw: 600 ml sour cream
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, softened
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 100
+    unit: g
+    name: walnuts
+    raw: 100 g walnuts, finely chopped
+  - name: icing sugar for dusting
+    raw: Icing sugar for dusting
+  - name: reserved cake crumbs
+    raw: Reserved cake crumbs
+  - name: "optional: 2 tbsp ground walnuts"
+    raw: "Optional: 2 tbsp ground walnuts"

@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, softened
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1.5 tsp baking powder
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 400
+    unit: g
+    name: pitted sour cherries - the most traditional
+    raw: 400 g pitted sour cherries - the most traditional
+  - name: or 400 g pitted dark plums
+    raw: OR 400 g pitted dark plums, halved or quartered
+  - name: or 400 g blueberries / raspberries / blackberries
+    raw: OR 400 g blueberries / raspberries / blackberries
+  - name: or 400 g sliced peaches or nectarines
+    raw: OR 400 g sliced peaches or nectarines
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 1
+    unit: tbsp
+    name: flaked almonds
+    raw: 1 tbsp flaked almonds
+  - name: icing sugar for dusting
+    raw: Icing sugar for dusting

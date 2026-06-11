@@ -30,7 +30,7 @@ Crawfish pie is the Acadian dish you order at Mardi Gras parties and during craw
 - 3 garlic cloves (minced)
 - 300 g cooked crawfish tail meat (frozen or fresh; substitute small peeled shrimp)
 - 2 tablespoons tomato paste
-- 150 ml chicken (or shellfish stock)
+- 150 ml chicken stock (or shellfish stock)
 - 80 ml double cream
 - 2 teaspoons Cajun seasoning (paprika + cayenne + thyme + garlic powder + onion powder)
 - 1 teaspoon Worcestershire sauce

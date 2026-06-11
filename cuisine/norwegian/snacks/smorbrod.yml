@@ -1,0 +1,96 @@
+prep: 15 minutes
+cook: None
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - meat
+  - fish
+  - beef
+  - pork
+  - salmon
+  - eggs
+  - onion
+  - lemon
+  - butter
+  - cheese
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: dark rye bread or wholemeal sourdough
+    raw: 4 large slices dark rye bread or wholemeal sourdough, about 1.5 cm thick
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - qty: 150
+    unit: g
+    name: cured salmon
+    raw: 150 g cured salmon , thinly sliced
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: 1 small handful fresh dill sprigs
+  - qty: 1
+    unit: tbsp
+    name: mustard-dill sauce
+    raw: 1 tbsp mustard-dill sauce
+  - qty: 1
+    name: lemon wedge
+    raw: 1 lemon wedge
+  - name: cracked black pepper
+    raw: Cracked black pepper
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 large hard-boiled eggs, peeled and sliced
+  - qty: 4
+    name: anchovy fillets in oil
+    raw: 4 anchovy fillets in oil
+  - qty: 1
+    unit: tbsp
+    name: mayonnaise
+    raw: 1 tbsp mayonnaise
+  - qty: 1
+    unit: pinch
+    name: chives
+    raw: A pinch of chopped chives
+  - name: dill
+    raw: A few sprigs of fresh dill
+  - qty: 4
+    name: brunost
+    raw: 4 thick slices brunost
+  - qty: 2
+    name: strawberries
+    raw: 2 strawberries, sliced
+  - qty: 1
+    unit: drizzle
+    name: honey
+    raw: A drizzle of honey
+  - qty: 60
+    unit: g
+    name: cold roast beef
+    raw: 60 g thinly sliced cold roast beef
+  - qty: 1
+    unit: tbsp
+    name: horseradish cream
+    raw: 1 tbsp horseradish cream
+  - qty: 4
+    name: cornichons
+    raw: 4 cornichons, sliced lengthways
+  - qty: 1
+    unit: small handful
+    name: crispy fried onions
+    raw: A small handful of crispy fried onions
+  - name: flat-leaf parsley
+    raw: A few sprigs of flat-leaf parsley

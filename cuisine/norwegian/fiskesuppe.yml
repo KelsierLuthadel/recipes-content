@@ -1,0 +1,102 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+  - shellfish
+  - celery
+  - garlic
+tags:
+  - meals
+  - meat
+  - fish
+  - prawn
+  - salmon
+  - onion
+  - garlic
+  - carrot
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tbsp unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, finely diced
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots, finely diced
+  - qty: 1
+    name: leek
+    raw: 1 small leek, white part only, finely sliced
+  - qty: 2
+    unit: stick
+    name: celery
+    raw: 2 sticks celery, finely diced
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, minced
+  - qty: 800
+    unit: ml
+    name: fish stock
+    raw: 800 ml fish stock
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: dill stems
+    raw: 1 small bunch of fresh dill stems
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 300
+    unit: g
+    name: cod fillet
+    raw: 300 g cod fillet, skinned, cut into 3 cm chunks
+  - qty: 300
+    unit: g
+    name: salmon fillet
+    raw: 300 g salmon fillet, skinned, cut into 3 cm chunks
+  - qty: 200
+    unit: g
+    name: prawns or shelled mussels
+    raw: 200 g raw peeled prawns or shelled mussels
+  - qty: 1
+    unit: small handful
+    name: dill fronds
+    raw: A small handful of fresh dill fronds, finely chopped
+  - qty: 1
+    unit: small handful
+    name: chives
+    raw: A small handful of fresh chives, finely chopped
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - name: salt and freshly ground white pepper
+    raw: Salt and freshly ground white pepper
+  - name: "optional: 1 tbsp vermouth or aquavit"
+    raw: "Optional: 1 tbsp vermouth or aquavit"
+  - name: crusty bread or rye bread
+    raw: Crusty bread or rye bread, sliced
+  - name: salted butter
+    raw: Salted butter

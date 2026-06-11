@@ -16,7 +16,7 @@ Risotto alla milanese is the saffron-yellow Milanese rice dish, the side that tr
 ## Ingredients
 
 - 1 large pinch saffron threads (about ½ g)
-- 1 litre chicken (or vegetable stock)
+- 1 litre chicken stock (or vegetable stock)
 - 50 g unsalted butter (split)
 - 1 tablespoon olive oil
 - 1 shallot (small, very finely chopped)

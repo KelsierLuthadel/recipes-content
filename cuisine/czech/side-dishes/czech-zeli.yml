@@ -1,0 +1,61 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+mentions:
+  - cuisine/polish/bigos
+  - tutorials/charcuterie/sausages
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: sauerkraut
+    raw: 800 g sauerkraut
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely diced
+  - qty: 50
+    unit: g
+    name: smoked bacon lardons
+    raw: 50 g smoked bacon lardons
+  - qty: 2
+    unit: tbsp
+    name: lard or duck fat
+    raw: 2 tbsp lard or duck fat
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds, lightly crushed
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: tsp
+    name: soft brown sugar
+    raw: 2 tsp soft brown sugar
+  - qty: 1.5
+    unit: tbsp
+    name: plain flour
+    raw: 1.5 tbsp plain flour
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 100
+    unit: ml
+    name: reserved sauerkraut brine
+    raw: 100 ml reserved sauerkraut brine
+  - qty: 1
+    name: dessert apple
+    raw: 1 small dessert apple, peeled and grated
+  - name: salt and pepper
+    raw: Salt and pepper to taste

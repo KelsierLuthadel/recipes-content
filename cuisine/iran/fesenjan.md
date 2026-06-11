@@ -21,7 +21,7 @@ Fesenjan is the Persian walnut-and-pomegranate stew, a deep mahogany sauce of gr
 - 1 teaspoon ground turmeric
 - A generous pinch of saffron (steeped in 3 tablespoons hot water 10 min)
 - 400 g shelled walnuts
-- 1 litre chicken (or vegetable stock)
+- 1 litre chicken stock (or vegetable stock)
 - 4 tablespoons pomegranate molasses (Iranian if possible)
 - 2 tablespoons brown sugar (or to taste)
 - ½ lemon (juice)

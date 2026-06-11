@@ -22,7 +22,7 @@ An American weeknight pasta that compresses a Hamburger Helper box meal into a s
 - 1 teaspoon garlic powder
 - 1 shallot (large, finely chopped)
 - 450 g (1 lb) dried short pasta (rigatoni recommended)
-- 950 ml chicken (or beef broth)
+- 950 ml chicken broth (or beef broth)
 - 240 ml heavy cream
 - 225 g sharp white cheddar (shredded)
 - 1 cup freshly grated parmesan cheese (plus more to top)

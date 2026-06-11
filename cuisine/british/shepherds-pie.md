@@ -26,7 +26,7 @@ The lamb cousin of cottage pie, and the original of the two (cottage pie came la
 - 1 tablespoon Worcestershire sauce
 - 1 teaspoon fresh rosemary (chopped) or ½ teaspoon dried
 - 1 teaspoon fresh thyme leaves (or ½ teaspoon dried)
-- 300 ml lamb (or beef stock)
+- 300 ml lamb stock (or beef stock)
 - 1 tablespoon plain flour
 - salt
 - pepper

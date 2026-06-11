@@ -1,0 +1,37 @@
+prep: 30 minutes
+cook: 10 minutes (for pasteurised version)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - ginger
+  - lemon
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: mixed apples
+    raw: 2 kg mixed apples
+  - name: "optional: 1 tbsp lemon juice"
+    raw: "Optional: 1 tbsp lemon juice"
+  - name: clean 1.5 l bottle
+    raw: A clean 1.5 L bottle, sterilised
+  - qty: 2
+    unit: sprig
+    name: mint
+    raw: 2 sprigs fresh mint
+  - name: ginger
+    raw: A few thin slices of fresh ginger
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

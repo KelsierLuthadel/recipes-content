@@ -69,8 +69,8 @@ ingredients:
     raw: 2 Maggi
   - qty: 1.2
     unit: l
-    name: beef
-    raw: 1.2 litres beef
+    name: beef stock
+    raw: 1.2 litres beef stock
   - name: salt
     raw: Salt
   - qty: 250

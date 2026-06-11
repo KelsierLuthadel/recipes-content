@@ -3,7 +3,6 @@ cook: 15 minutes
 allergens:
   - dairy
   - eggs
-  - meat
   - garlic
 tags:
   - gluten-free
@@ -48,8 +47,8 @@ ingredients:
     raw: ½ teaspoon salt
   - qty: 200
     unit: ml
-    name: chicken
-    raw: 200 ml chicken
+    name: chicken stock
+    raw: 200 ml chicken stock
   - qty: 4
     unit: cup
     name: tortilla chips

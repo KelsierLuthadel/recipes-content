@@ -1,0 +1,86 @@
+prep: 30 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - sides
+  - meat
+  - pork
+  - onion
+  - potato
+  - carrot
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb bones or lamb shoulder on the bone
+    raw: 1 kg lamb bones or lamb shoulder on the bone
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, halved
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp whole black peppercorns
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - name: water
+    raw: Water to cover
+  - qty: 1
+    unit: kg
+    name: waxy potatoes
+    raw: 1 kg waxy potatoes
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 100
+    unit: g
+    name: barley flour
+    raw: 100 g barley flour
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: white pepper
+    raw: 0.5 tsp ground white pepper
+  - qty: 250
+    unit: g
+    name: smoked streaky bacon
+    raw: 250 g smoked streaky bacon , diced
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 400
+    unit: g
+    name: rutabaga
+    raw: 400 g rutabaga , peeled, cubed
+  - qty: 1
+    unit: tbsp
+    name: golden syrup or honey
+    raw: 1 tbsp golden syrup or honey
+  - name: lingonberry preserves on the side
+    raw: Lingonberry preserves on the side

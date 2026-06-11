@@ -32,7 +32,7 @@ This is the creamy coconut-milk version of tom yum, prawns simmered in a fragran
 - 1 tablespoon fish sauce
 
 ### Liquid/Broth
-- 1.2 litres fish (or chicken stock)
+- 1.2 litres fish stock (or chicken stock)
 - 400 ml coconut milk
 
 ### Garnishes

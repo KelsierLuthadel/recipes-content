@@ -36,7 +36,7 @@ An American apple pie is the autumn dessert every kitchen in the country has its
 
 ### Glaze
 - 1 egg (large, beaten with 1 tablespoon water)
-- 2 tablespoons demerara (or coarse sugar)
+- 2 tablespoons demerara sugar (or coarse sugar)
 
 ## Method
 

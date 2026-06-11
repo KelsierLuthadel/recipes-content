@@ -47,8 +47,8 @@ ingredients:
     raw: 1 teaspoon fresh thyme leaves
   - qty: 500
     unit: ml
-    name: lamb
-    raw: 500 ml lamb
+    name: lamb stock
+    raw: 500 ml lamb stock
   - qty: 1
     unit: kg
     name: waxy potatoes

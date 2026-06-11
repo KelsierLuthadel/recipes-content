@@ -1,0 +1,61 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - butter
+  - cream
+  - chocolate
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 g good-quality dark chocolate , chopped fine
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: soft brown sugar
+    raw: 1 tbsp soft brown sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 1
+    unit: pinch
+    name: cardamom
+    raw: A pinch of ground cardamom
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream, very cold
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tbsp icing sugar
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: 0.5 tsp vanilla extract
+  - name: dark chocolate or cocoa powder for dusting
+    raw: Grated dark chocolate or cocoa powder for dusting

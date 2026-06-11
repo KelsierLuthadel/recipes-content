@@ -1,0 +1,95 @@
+prep: 45 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - mustard
+tags:
+  - snack
+  - meat
+  - fish
+  - pork
+  - salmon
+  - eggs
+  - onion
+  - tomato
+  - potato
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+ingredients:
+  - qty: 16
+    name: oval slices of veka - or substitute slices from a baguette or any small white sandwich loaf
+    raw: 16 oval slices of veka - or substitute slices from a baguette or any small white sandwich loaf
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, softened
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, finely chopped
+  - qty: 200
+    unit: g
+    name: waxy potato
+    raw: 200 g cooked waxy potato, finely diced
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tbsp mayonnaise
+  - qty: 2
+    unit: tsp
+    name: dijon mustard
+    raw: 2 tsp Dijon mustard
+  - qty: 1
+    name: shallot
+    raw: 1 small shallot, finely diced
+  - name: salt and white pepper
+    raw: Salt and white pepper
+  - qty: 8
+    name: ham
+    raw: 8 slices of ham
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, sliced into rounds
+  - qty: 16
+    name: cornichons or thin gherkin slices
+    raw: 16 cornichons or thin gherkin slices
+  - qty: 8
+    name: czech klobasa sausage
+    raw: 8 slices Czech klobása sausage
+  - qty: 4
+    name: smoked salmon
+    raw: 4 slices smoked salmon, halved
+  - qty: 8
+    name: edam cheese
+    raw: 8 thin slices Edam cheese, quartered
+  - qty: 80
+    unit: g
+    name: pickled herring rollmops
+    raw: 80 g pickled herring rollmops, quartered
+  - qty: 1
+    unit: small handful
+    name: parsley leaves
+    raw: A small handful of fresh parsley leaves
+  - name: dill
+    raw: A few sprigs of dill
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, cut into 16 thin slices or wedges
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper, cut into thin strips
+  - qty: 16
+    name: black olives
+    raw: 16 black olives, halved
+  - qty: 50
+    unit: g
+    name: caviar or lumpfish roe
+    raw: 50 g caviar or lumpfish roe
