@@ -1,5 +1,5 @@
 prep: 20 minutes
-cook: 36 minutes
+cook: 2 hours
 allergens:
   - dairy
   - meat
@@ -17,6 +17,7 @@ tags:
   - potato
   - carrot
   - butter
+  - complex
   - st-patricks
 mentions:
   - cuisine/irish/colcannon

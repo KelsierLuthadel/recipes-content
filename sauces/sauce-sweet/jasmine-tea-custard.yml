@@ -10,6 +10,7 @@ tags:
   - cream
 mentions:
   - drinks/regional/china/jasmine-tea
+  - tutorials/chocolate/tempering
   - tutorials/eggs/meringues
   - tutorials/pizza/sauce
   - tutorials/spices/storage
@@ -18,10 +19,10 @@ ingredients:
     unit: ml
     name: milk
     raw: 120 ml milk
-  - qty: 250
+  - qty: 750
     unit: ml
     name: whipping cream
-    raw: 250 ml whipping cream
+    raw: 750 ml whipping cream
   - qty: 3
     unit: tbsp
     name: jasmine tea leaves

@@ -67,6 +67,10 @@ ingredients:
     raw: Hickory or apple wood chunks
   - qty: 500
     unit: ml
+    name: apple juice in a spray bottle
+    raw: 500 ml apple juice in a spray bottle
+  - qty: 500
+    unit: ml
     name: apple cider vinegar
     raw: 500 ml apple cider vinegar
   - qty: 100

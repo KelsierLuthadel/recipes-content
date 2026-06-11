@@ -108,18 +108,18 @@ ingredients:
     unit: tbsp
     name: worcestershire sauce
     raw: 1 tablespoon Worcestershire sauce
-  - qty: 1.5
-    unit: tbsp
+  - qty: 2
+    unit: tsp
     name: file powder
-    raw: 1 ½ tablespoons filé powder
+    raw: 2 teaspoons filé powder
   - name: juice of 1 lemon
     raw: Juice of 1 lemon
   - qty: 1
     name: spring onions
-    raw: 1 bunch spring onions
+    raw: 1 bunch spring onions, finely sliced
   - qty: 1
     name: parsley
-    raw: 1 small bunch fresh parsley
+    raw: 1 small bunch fresh parsley, chopped
   - name: tabasco
     raw: Tabasco
   - name: steamed long-grain rice

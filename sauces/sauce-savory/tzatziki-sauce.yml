@@ -17,10 +17,10 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - qty: 100
+  - qty: 400
     unit: ml
     name: greek yoghurt
-    raw: 100 ml Greek yoghurt
+    raw: 400 ml Greek yoghurt
   - qty: 1
     unit: clove
     name: garlic

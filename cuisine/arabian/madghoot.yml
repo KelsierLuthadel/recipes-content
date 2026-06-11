@@ -39,9 +39,6 @@ ingredients:
     unit: tbsp
     name: tomato puree
     raw: 1 tablespoon tomato puree
-  - qty: 2
-    name: black limes
-    raw: 2 dried black limes
   - qty: 3
     unit: tbsp
     name: natural yogurt
@@ -60,6 +57,9 @@ ingredients:
   - qty: 1
     name: tomatoes
     raw: 1 tin chopped tomatoes
+  - qty: 2
+    name: black limes
+    raw: 2 dried black limes
   - qty: 1
     name: cinnamon stick
     raw: 1 cinnamon stick

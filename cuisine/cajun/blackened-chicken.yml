@@ -26,14 +26,18 @@ ingredients:
     unit: tbsp
     name: oil
     raw: 1 tablespoon oil
-  - qty: 1
-    unit: tbsp
-    name: butter
-    raw: 1 tablespoon butter
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted
   - qty: 1
     unit: tbsp
     name: salt
     raw: 1 tablespoon salt
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tablespoons sweet paprika
   - qty: 1.5
     unit: tsp
     name: garlic powder
@@ -54,11 +58,11 @@ ingredients:
     unit: tsp
     name: cumin
     raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
   - qty: 0.5
     unit: tsp
     name: cayenne pepper
     raw: ½ teaspoon cayenne pepper
-  - qty: 0.5
-    unit: tsp
-    name: paprika
-    raw: ½ teaspoon paprika
