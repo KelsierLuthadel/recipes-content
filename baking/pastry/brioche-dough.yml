@@ -1,5 +1,5 @@
 prep: 5 minutes
-cook: 31 minutes
+cook: 45 minutes (15 min at 200°C, 30 min at 170°C)
 allergens:
   - gluten
   - dairy
@@ -10,6 +10,7 @@ tags:
   - baking
   - eggs
   - butter
+  - complex
 mentions:
   - cuisine/french/desserts/pithiviers
   - tutorials/bread/gluten
