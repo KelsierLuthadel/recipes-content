@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - fish
+  - mustard
+tags:
+  - dairy-free
+  - meals
+  - fish
+  - potato
+  - lemon
+  - complex
+mentions:
+  - cuisine/british/side-dishes/mushy-peas
+  - sauces/sauce-savory/tartare-sauce
+  - tutorials/bread/gluten
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled
+  - name: vegetable oil
+    raw: Vegetable oil for deep frying
+  - name: sea salt
+    raw: Sea salt
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 50
+    unit: g
+    name: cornflour
+    raw: 50 g cornflour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 300
+    unit: ml
+    name: beer
+    raw: 300 ml cold beer
+  - name: 50 g plain flour for dusting
+    raw: An extra 50 g plain flour for dusting
+  - qty: 4
+    name: fillets of firm white fish
+    raw: 4 fillets of firm white fish , about 180 g each, skinned
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, cut into wedges
+  - name: malt vinegar
+    raw: Malt vinegar
+  - name: sea salt
+    raw: Sea salt
+  - name: tartare sauce or mushy peas
+    raw: Tartare sauce or mushy peas
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tbsp mayonnaise
+  - qty: 1
+    unit: tbsp
+    name: cornichons
+    raw: 1 tbsp finely chopped cornichons
+  - qty: 1
+    unit: tbsp
+    name: capers
+    raw: 1 tbsp finely chopped capers
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tbsp finely chopped parsley
+  - qty: 1
+    unit: squeeze
+    name: lemon juice
+    raw: A squeeze of lemon juice
+  - name: black pepper
+    raw: Black pepper

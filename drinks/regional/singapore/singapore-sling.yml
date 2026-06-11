@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 45
+    unit: ml
+    name: london dry gin
+    raw: 45 ml London dry gin
+  - qty: 15
+    unit: ml
+    name: cherry heering
+    raw: 15 ml Cherry Heering
+  - qty: 7.5
+    unit: ml
+    name: benedictine
+    raw: 7.5 ml Bénédictine
+  - qty: 7.5
+    unit: ml
+    name: cointreau
+    raw: 7.5 ml Cointreau
+  - qty: 120
+    unit: ml
+    name: pineapple juice
+    raw: 120 ml fresh pineapple juice
+  - qty: 15
+    unit: ml
+    name: lime juice
+    raw: 15 ml fresh lime juice
+  - qty: 10
+    unit: ml
+    name: grenadine
+    raw: 10 ml grenadine
+  - qty: 2.5
+    unit: dash
+    name: angostura bitters
+    raw: 2-3 dashes Angostura bitters
+  - name: plenty of crushed ice
+    raw: Plenty of crushed ice
+  - name: pineapple wedge and a maraschino cherry
+    raw: Pineapple wedge and a maraschino cherry to garnish
+  - name: long stirring stick
+    raw: A long stirring stick

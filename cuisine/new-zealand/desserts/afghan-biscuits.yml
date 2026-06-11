@@ -1,0 +1,66 @@
+prep: 20 minutes
+cook: 20 minutes (plus 30 minutes cool + ice)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - nuts
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, softened
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 175
+    unit: g
+    name: plain flour
+    raw: 175 g plain flour
+  - qty: 30
+    unit: g
+    name: unsweetened cocoa powder
+    raw: 30 g unsweetened cocoa powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 70
+    unit: g
+    name: cornflakes
+    raw: 70 g cornflakes
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar
+  - qty: 30
+    unit: g
+    name: unsweetened cocoa powder
+    raw: 30 g unsweetened cocoa powder
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, softened
+  - qty: 2.5
+    unit: tbsp
+    name: water
+    raw: 2-3 tbsp hot water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 24
+    name: walnut halves
+    raw: 24 walnut halves

@@ -1,0 +1,79 @@
+prep: 15 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: pearl barley
+    raw: 200 g pearl barley
+  - qty: 150
+    unit: g
+    name: smoked pancetta or smoked streaky bacon
+    raw: 150 g smoked pancetta or smoked streaky bacon, cut into 1 cm dice
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tbsp unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely diced
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots, diced
+  - qty: 2
+    name: celery sticks
+    raw: 2 celery sticks, diced
+  - qty: 1
+    name: leek
+    raw: 1 small leek, sliced
+  - qty: 1
+    name: turnip or 200 g celeriac
+    raw: 1 small turnip or 200 g celeriac, diced
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, minced
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 1.8
+    unit: l
+    name: beef or chicken stock
+    raw: 1.8 L beef or chicken stock
+  - qty: 100
+    unit: g
+    name: bundnerfleisch
+    raw: 100 g bündnerfleisch , finely sliced
+  - qty: 150
+    unit: ml
+    name: double cream
+    raw: 150 ml double cream
+  - name: salt and freshly ground black pepper
+    raw: Salt and freshly ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tbsp flat-leaf parsley, chopped

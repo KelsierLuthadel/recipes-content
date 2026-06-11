@@ -1,0 +1,53 @@
+prep: 30 minutes (plus 4 hours freezing)
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - complex
+mentions:
+  - cuisine/australian/desserts/pavlova
+  - cuisine/new-zealand/desserts/pavlova
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 60
+    unit: g
+    name: golden syrup or light corn syrup
+    raw: 60 g golden syrup or light corn syrup
+  - qty: 2
+    unit: tsp
+    name: baking soda
+    raw: 2 tsp baking soda
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 600
+    unit: ml
+    name: double cream
+    raw: 600 ml double cream
+  - qty: 5
+    name: egg yolks
+    raw: 5 large egg yolks
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt

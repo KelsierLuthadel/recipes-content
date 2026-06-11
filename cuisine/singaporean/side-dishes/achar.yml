@@ -1,0 +1,94 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - tree-nuts
+  - peanuts
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - ginger
+  - carrot
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/biryani
+  - cuisine/singaporean/chilli-crab
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: cucumber
+    raw: 1 medium cucumber, halved lengthways, seeded, cut into 6 cm batons
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots, peeled and cut into 6 cm batons
+  - qty: 0.25
+    name: /4 small white cabbage
+    raw: 1/4 small white cabbage, finely shredded
+  - qty: 200
+    unit: g
+    name: pineapple
+    raw: 200 g fresh pineapple, cut into 1.5 cm pieces
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tbsp sea salt
+  - qty: 200
+    unit: ml
+    name: white vinegar
+    raw: 200 ml white vinegar
+  - qty: 4
+    name: red chillies
+    raw: 4 dried red chillies, soaked in hot water 20 min, drained
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies
+  - qty: 4
+    name: shallots
+    raw: 4 shallots, peeled
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    name: turmeric
+    raw: 1 thumb fresh turmeric
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger
+  - qty: 4
+    name: candlenuts
+    raw: 4 candlenuts
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 200
+    unit: ml
+    name: white vinegar
+    raw: 200 ml white vinegar
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 3
+    unit: tbsp
+    name: toasted peanuts
+    raw: 3 tbsp toasted peanuts, crushed
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tbsp toasted sesame seeds

@@ -1,0 +1,55 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 12
+    name: pandan leaves
+    raw: 12 fresh pandan leaves
+  - qty: 80
+    unit: ml
+    name: water
+    raw: 80 ml water
+  - qty: 7
+    name: eggs
+    raw: 7 large eggs, separated, at room temperature
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 100
+    unit: ml
+    name: vegetable oil
+    raw: 100 ml vegetable oil
+  - qty: 80
+    unit: ml
+    name: coconut milk
+    raw: 80 ml coconut milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 200
+    unit: g
+    name: cake flour
+    raw: 200 g cake flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1.5 tsp baking powder
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: cream of tartar
+    raw: 1 tsp cream of tartar

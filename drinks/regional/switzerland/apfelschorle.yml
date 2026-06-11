@@ -1,0 +1,31 @@
+prep: 2 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions:
+  - drinks/regional/germany/apfelschorle
+  - tutorials/charcuterie/sausages
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: ml
+    name: cloudy unfiltered apple juice
+    raw: 600 ml cloudy unfiltered apple juice , chilled
+  - qty: 600
+    unit: ml
+    name: sparkling water
+    raw: 600 ml sparkling water, chilled
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, sliced into rounds
+  - name: mint
+    raw: A few sprigs of mint

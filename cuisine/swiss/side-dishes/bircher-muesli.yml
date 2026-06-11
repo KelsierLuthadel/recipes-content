@@ -1,0 +1,65 @@
+prep: 10 minutes (plus overnight soak)
+cook: None
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - lemon
+  - yogurt
+  - honey
+  - nuts
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 150
+    unit: g
+    name: rolled oats
+    raw: 150 g rolled oats
+  - qty: 250
+    unit: ml
+    name: unsweetened apple juice
+    raw: 250 ml unsweetened apple juice
+  - qty: 200
+    unit: g
+    name: plain yoghurt
+    raw: 200 g full-fat plain yoghurt
+  - qty: 2
+    name: eating apples
+    raw: 2 large eating apples , grated with skin on
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 2
+    unit: tbsp
+    name: clear honey
+    raw: 2 tbsp clear honey
+  - qty: 50
+    unit: g
+    name: hazelnuts
+    raw: 50 g hazelnuts, toasted and roughly chopped
+  - qty: 50
+    unit: g
+    name: almonds
+    raw: 50 g almonds, roughly chopped
+  - qty: 50
+    unit: g
+    name: sultanas or raisins
+    raw: 50 g sultanas or raisins
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: handful
+    name: berries or seasonal fruit
+    raw: A handful of fresh berries or seasonal fruit
+  - name: spoonful of extra yoghurt
+    raw: A spoonful of extra yoghurt
+  - qty: 1
+    unit: drizzle
+    name: honey
+    raw: A drizzle of honey

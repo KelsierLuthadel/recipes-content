@@ -1,0 +1,81 @@
+prep: 30 minutes (plus overnight rest)
+cook: 25 minutes (plus 5-7 days mellowing)
+allergens:
+  - gluten
+  - tree-nuts
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - make-ahead
+  - ginger
+  - lemon
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: clear runny honey
+    raw: 250 g clear runny honey
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 50
+    unit: ml
+    name: kirsch
+    raw: 50 ml Kirsch
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 tsp ground cloves
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 tsp ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ground ginger
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 tsp ground white pepper
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 200
+    unit: g
+    name: almonds
+    raw: 200 g whole almonds, roughly chopped
+  - qty: 150
+    unit: g
+    name: mixed candied peel
+    raw: 150 g mixed candied peel
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 tsp bicarbonate of soda
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 30
+    unit: ml
+    name: water
+    raw: 30 ml water
+  - qty: 1
+    unit: tbsp
+    name: kirsch
+    raw: 1 tbsp Kirsch

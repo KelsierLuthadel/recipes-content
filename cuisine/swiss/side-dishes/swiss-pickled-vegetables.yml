@@ -1,0 +1,81 @@
+prep: 20 minutes
+cook: 5 minutes (plus 1 week ferment)
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - carrot
+  - coriander
+  - chili
+mentions:
+  - cuisine/swiss/raclette
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: pearl onions or shallots
+    raw: 250 g pearl onions or shallots, peeled
+  - qty: 250
+    unit: g
+    name: pickling cucumbers
+    raw: 250 g small pickling cucumbers , whole if small, halved if larger
+  - qty: 200
+    unit: g
+    name: cauliflower florets
+    raw: 200 g cauliflower florets, broken into bite-size pieces
+  - qty: 200
+    unit: g
+    name: carrots
+    raw: 200 g baby carrots, halved lengthways if thick
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli
+  - qty: 500
+    unit: ml
+    name: white wine vinegar
+    raw: 500 ml white wine vinegar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1.5
+    unit: tbsp
+    name: sea salt
+    raw: 1.5 tbsp fine sea salt
+  - qty: 2
+    unit: tsp
+    name: yellow mustard seeds
+    raw: 2 tsp yellow mustard seeds
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 4
+    unit: sprig
+    name: dill
+    raw: 4 sprigs fresh dill
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, peeled

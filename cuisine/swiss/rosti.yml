@@ -1,0 +1,61 @@
+prep: 10 minutes (plus parboiled potatoes from the day before)
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - potato
+  - butter
+  - cheese
+mentions:
+  - cuisine/swiss/zuericher-geschnetzeltes
+  - drinks/regional/germany/apfelschorle
+  - drinks/regional/switzerland/apfelschorle
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of grated nutmeg
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely diced
+  - qty: 100
+    unit: g
+    name: lardons or diced bacon
+    raw: 100 g lardons or diced bacon
+  - qty: 80
+    unit: g
+    name: gruyere
+    raw: 80 g grated Gruyère
+  - qty: 4
+    name: fried eggs
+    raw: 4 fried eggs to serve

@@ -1,0 +1,58 @@
+prep: 20 minutes
+cook: None
+allergens:
+  - dairy
+  - peanuts
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+ingredients:
+  - qty: 100
+    unit: g
+    name: red azuki beans
+    raw: 100 g cooked red azuki beans
+  - qty: 100
+    unit: g
+    name: sweet corn kernels
+    raw: 100 g sweet corn kernels
+  - qty: 100
+    unit: g
+    name: grass jelly
+    raw: 100 g grass jelly , cut into 1 cm cubes - sold ready in tins/blocks at Asian shops
+  - qty: 100
+    unit: g
+    name: attap chee in syrup - optional but traditional
+    raw: 100 g attap chee in syrup - optional but traditional
+  - qty: 100
+    unit: g
+    name: rainbow agar-jelly cubes - shop-bought or home-made
+    raw: 100 g rainbow agar-jelly cubes - shop-bought or home-made
+  - qty: 2
+    unit: l
+    name: ice cubes
+    raw: 2 litres ice cubes
+  - qty: 4
+    unit: tbsp
+    name: rose syrup
+    raw: 4 tbsp rose syrup
+  - qty: 4
+    unit: tbsp
+    name: palm sugar syrup
+    raw: 4 tbsp palm sugar syrup
+  - qty: 4
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 4 tbsp sweetened condensed milk
+  - qty: 50
+    unit: g
+    name: salted peanuts
+    raw: 50 g salted peanuts, crushed
+  - name: vanilla ice cream
+    raw: A scoop of vanilla ice cream

@@ -1,0 +1,83 @@
+prep: 30 minutes (plus 2 hours pastry rest)
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 250
+    unit: g
+    name: cold unsalted butter
+    raw: 250 g cold unsalted butter, diced
+  - qty: 2
+    name: eggs
+    raw: 2 medium eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - name: zest of half a lemon
+    raw: Zest of half a lemon
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml water
+  - qty: 300
+    unit: g
+    name: walnuts
+    raw: 300 g walnuts, roughly chopped
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 3
+    unit: tbsp
+    name: clear honey
+    raw: 3 tbsp clear honey
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tbsp milk

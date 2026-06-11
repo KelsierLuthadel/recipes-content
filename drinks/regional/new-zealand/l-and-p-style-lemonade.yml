@@ -1,0 +1,35 @@
+prep: 10 minutes
+cook: 5 minutes (plus 30 minutes chill)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - lemon
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - name: juice of 6 lemons
+    raw: Juice of 6 lemons
+  - name: zest of 2 lemons
+    raw: Zest of 2 lemons
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1.2
+    unit: l
+    name: sparkling mineral water
+    raw: 1.2 L sparkling mineral water , chilled
+  - name: plenty of ice
+    raw: Plenty of ice
+  - name: lemon slices
+    raw: Lemon slices to garnish
+  - name: mint
+    raw: A few sprigs of fresh mint

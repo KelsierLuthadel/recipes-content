@@ -1,0 +1,56 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - coconut
+  - butter
+  - honey
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 100
+    unit: g
+    name: rolled oats
+    raw: 100 g rolled oats
+  - qty: 75
+    unit: g
+    name: desiccated coconut
+    raw: 75 g desiccated coconut
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: g
+    name: soft brown sugar
+    raw: 100 g soft brown sugar
+  - qty: 125
+    unit: g
+    name: unsalted butter
+    raw: 125 g unsalted butter
+  - qty: 4
+    unit: tbsp
+    name: golden syrup
+    raw: 4 tbsp golden syrup
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 tsp baking soda
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tbsp boiling water
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt

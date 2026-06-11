@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: 8 minutes
+allergens:
+  - tree-nuts
+  - soy
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - fish
+  - prawn
+  - garlic
+  - spinach
+  - nuts
+  - chili
+  - soy-sauce
+mentions:
+  - cuisine/singaporean/chilli-crab
+  - cuisine/singaporean/hainanese-chicken-rice
+  - tutorials/charcuterie/smoking
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: kangkung - substitute morning glory
+    raw: 400 g kangkung - substitute morning glory, or spinach + water chestnuts for crunch
+  - qty: 2
+    unit: tbsp
+    name: shrimp
+    raw: 2 tbsp dried shrimp, rinsed and roughly chopped
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies , finely chopped
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic, minced
+  - qty: 1
+    unit: tbsp
+    name: belacan - toasted briefly in foil before use to mellow it
+    raw: 1 tbsp belacan - toasted briefly in foil before use to mellow it
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: light soy sauce
+    raw: 1 tbsp light soy sauce
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tbsp
+    name: shaoxing wine
+    raw: 1 tbsp Shaoxing wine
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - qty: 0.5
+    name: /2 tsp white pepper
+    raw: 1/2 tsp white pepper

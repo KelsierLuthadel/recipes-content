@@ -1,0 +1,34 @@
+prep: 5 minutes
+cook: None
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 8
+    unit: tbsp
+    name: rose syrup
+    raw: 8 tbsp rose syrup
+  - qty: 400
+    unit: ml
+    name: evaporated milk
+    raw: 400 ml evaporated milk
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml cold water
+  - qty: 4
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 4 tbsp sweetened condensed milk
+  - name: plenty of crushed ice
+    raw: Plenty of crushed ice
+  - name: "optional: 2 tbsp basil seeds"
+    raw: "Optional: 2 tbsp basil seeds , soaked in 100 ml water 15 minutes to swell"
+  - name: "optional: 4 lychees in syrup"
+    raw: "Optional: 4 lychees in syrup, halved, to garnish"

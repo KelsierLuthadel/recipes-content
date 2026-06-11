@@ -1,0 +1,66 @@
+prep: 30 minutes (plus 4-hour or overnight rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - fish
+  - chicken
+  - eggs
+  - lentils
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - tutorials/indian-breads/paratha
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: instant yeast
+    raw: 1 tsp instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 30
+    unit: g
+    name: ghee
+    raw: 30 g ghee, melted
+  - qty: 1
+    name: egg
+    raw: 1 large egg, beaten
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml warm milk
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 100
+    unit: g
+    name: ghee
+    raw: 100 g ghee, melted
+  - qty: 4
+    unit: tbsp
+    name: neutral oil
+    raw: 4 tbsp neutral oil
+  - qty: 1
+    name: fish or chicken curry
+    raw: 1 portion of fish or chicken curry
+  - name: granulated sugar
+    raw: Granulated sugar

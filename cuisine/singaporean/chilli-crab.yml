@@ -1,0 +1,99 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - eggs
+  - soy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: live mud crabs - or 1.5 kg pre-cooked frozen mud crab pieces
+    raw: 2 live mud crabs - or 1.5 kg pre-cooked frozen mud crab pieces
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tbsp cornflour, for dusting
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic, minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 3
+    unit: tbsp
+    name: sambal oelek
+    raw: 3 tbsp sambal oelek
+  - qty: 1
+    unit: tbsp
+    name: fermented soybean paste
+    raw: 1 tbsp fermented soybean paste
+  - qty: 4
+    unit: tbsp
+    name: tomato ketchup
+    raw: 4 tbsp tomato ketchup
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 2
+    unit: tbsp
+    name: chilli sauce
+    raw: 2 tbsp chilli sauce
+  - qty: 2
+    unit: tbsp
+    name: light soy sauce
+    raw: 2 tbsp light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: rice vinegar
+    raw: 2 tbsp rice vinegar
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tbsp sugar
+  - qty: 400
+    unit: ml
+    name: chicken or seafood stock
+    raw: 400 ml chicken or seafood stock
+  - qty: 1
+    unit: tbsp
+    name: cornflour mixed with 3 tbsp cold water
+    raw: 1 tbsp cornflour mixed with 3 tbsp cold water
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten
+  - name: salt and white pepper
+    raw: Salt and white pepper to taste
+  - qty: 10
+    name: mantou buns
+    raw: 8-12 mantou buns , warmed
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - name: coriander leaves
+    raw: Coriander leaves

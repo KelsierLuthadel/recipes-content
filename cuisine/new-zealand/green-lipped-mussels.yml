@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - quick
+  - meals
+  - meat
+  - fish
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - chili
+mentions:
+  - cuisine/belgian/moules-frites
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: live green-lipped mussels
+    raw: 2 kg fresh live green-lipped mussels
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 2
+    name: shallots
+    raw: 2 shallots, finely diced
+  - qty: 1
+    name: leek
+    raw: 1 small leek, white part only, finely sliced
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic, minced
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 tsp fennel seeds
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped
+  - qty: 350
+    unit: ml
+    name: dry white wine
+    raw: 350 ml dry white wine
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml chicken stock
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    unit: small handful
+    name: thyme
+    raw: A small handful of fresh thyme sprigs
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: large handful
+    name: flat-leaf parsley
+    raw: A large handful of flat-leaf parsley, finely chopped
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - name: crusty bread
+    raw: Crusty bread, to serve

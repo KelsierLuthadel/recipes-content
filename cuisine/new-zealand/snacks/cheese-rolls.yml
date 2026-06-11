@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - snack
+  - onion
+  - butter
+  - cheese
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: cheddar cheese
+    raw: 250 g mature cheddar cheese, grated
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely grated
+  - qty: 150
+    unit: ml
+    name: evaporated milk
+    raw: 150 ml evaporated milk
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tbsp Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tbsp Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: onion soup mix
+    raw: 1 tbsp packet onion soup mix
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: A pinch of cayenne pepper
+  - qty: 12
+    name: soft white sandwich bread
+    raw: 12 slices soft white sandwich bread, crusts trimmed
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - name: cheese for sprinkling on top
+    raw: Extra grated cheese for sprinkling on top

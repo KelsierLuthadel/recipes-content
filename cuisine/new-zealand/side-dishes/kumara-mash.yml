@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - butter
+  - cream
+  - honey
+mentions:
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: kumara
+    raw: 1 kg kūmara , peeled, cut into 4 cm chunks
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of grated nutmeg
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - name: sea salt
+    raw: Sea salt to taste
+  - qty: 1
+    unit: tbsp
+    name: maple syrup or honey
+    raw: 1 tbsp maple syrup or honey
+  - qty: 1
+    unit: handful
+    name: toasted pumpkin seeds
+    raw: A handful of toasted pumpkin seeds, for crunch
+  - name: thyme
+    raw: A few sprigs of fresh thyme

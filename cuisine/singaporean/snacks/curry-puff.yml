@@ -1,0 +1,110 @@
+prep: 45 minutes
+cook: 30 minutes (plus filling cool time)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - fish
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - coriander
+  - butter
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/british/snacks/cornish-pasty
+  - drinks/regional/malaysia/teh-tarik
+  - drinks/regional/singapore/teh-tarik
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 90
+    unit: g
+    name: chilled unsalted butter
+    raw: 90 g chilled unsalted butter, cubed
+  - qty: 90
+    unit: ml
+    name: ice-cold water
+    raw: 90 ml ice-cold water
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, grated
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: madras-style curry powder
+    raw: 2 tbsp Madras-style curry powder
+  - qty: 0.5
+    name: /2 tsp ground turmeric
+    raw: 1/2 tsp ground turmeric
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 250
+    unit: g
+    name: chicken thigh
+    raw: 250 g chicken thigh, finely chopped
+  - qty: 300
+    unit: g
+    name: potato
+    raw: 300 g potato, peeled and diced into 5 mm pieces
+  - qty: 100
+    unit: ml
+    name: chicken stock
+    raw: 100 ml chicken stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp sugar
+    raw: 1/2 tsp sugar
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs, chopped
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tbsp chopped fresh coriander
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil

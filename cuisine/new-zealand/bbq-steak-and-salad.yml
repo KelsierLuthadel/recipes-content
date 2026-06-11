@@ -1,0 +1,95 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - mustard
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - bbq
+  - meat
+  - beef
+  - garlic
+  - lemon
+  - butter
+  - cheese
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/charcuterie/smoking
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: sirloin or ribeye steaks
+    raw: 4 sirloin or ribeye steaks, 250 g each, about 2.5 cm thick
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - name: sea salt and freshly ground black pepper
+    raw: Sea salt and freshly ground black pepper
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, minced
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tbsp finely chopped flat-leaf parsley
+  - qty: 1
+    unit: tbsp
+    name: chives
+    raw: 1 tbsp finely chopped chives
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: worcestershire sauce
+    raw: A few drops of Worcestershire sauce
+  - qty: 2
+    unit: large handful
+    name: rocket
+    raw: 2 large handfuls of rocket
+  - qty: 1
+    unit: small handful
+    name: mint leaves
+    raw: A small handful of fresh mint leaves
+  - qty: 4
+    name: feijoas
+    raw: 4 ripe feijoas, halved and flesh scooped out into wedges
+  - qty: 80
+    unit: g
+    name: walnuts
+    raw: 80 g walnuts, toasted and roughly chopped
+  - qty: 80
+    unit: g
+    name: feta or blue cheese
+    raw: 80 g feta or blue cheese, crumbled
+  - qty: 3
+    unit: tbsp
+    name: virgin olive oil
+    raw: 3 tbsp extra virgin olive oil
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 1
+    unit: tsp
+    name: honey
+    raw: 1 tsp honey
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - name: salt and pepper
+    raw: Salt and pepper

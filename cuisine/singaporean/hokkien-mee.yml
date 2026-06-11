@@ -1,0 +1,121 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - soy-sauce
+  - complex
+mentions:
+  - base-ingredients/sambal/sambal-belacan
+  - cuisine/malaysian/hokkien-mee
+  - cuisine/malaysian/side-dishes/sambal-belacan
+  - tutorials/charcuterie/smoking
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - name: heads and shells from 200 g prawns
+    raw: Heads and shells from 200 g prawns
+  - qty: 4
+    unit: cup
+    name: water
+    raw: 4 cups water
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 300
+    unit: g
+    name: yellow egg noodles
+    raw: 300 g thick yellow egg noodles
+  - qty: 200
+    unit: g
+    name: rice vermicelli
+    raw: 200 g thin rice vermicelli, soaked in warm water 10 min and drained
+  - qty: 200
+    unit: g
+    name: prawns
+    raw: 200 g raw prawns, peeled
+  - qty: 200
+    unit: g
+    name: squid
+    raw: 200 g squid, cleaned and cut into rings
+  - qty: 150
+    unit: g
+    name: pork belly
+    raw: 150 g pork belly, sliced thin
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 200
+    unit: g
+    name: bean sprouts
+    raw: 200 g bean sprouts
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs, lightly beaten
+  - qty: 3
+    unit: tbsp
+    name: light soy sauce
+    raw: 3 tbsp light soy sauce
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tbsp dark soy sauce
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tbsp fish sauce
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 tsp white pepper
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 500
+    unit: ml
+    name: prawn stock
+    raw: 500 ml prawn stock
+  - qty: 1
+    name: lime
+    raw: 1 lime, quartered
+  - qty: 4
+    unit: tbsp
+    name: sambal belacan
+    raw: 4 tbsp sambal belacan
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander

@@ -1,0 +1,70 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - sides
+  - lemon
+  - cheese
+  - honey
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: pumpkin or butternut squash
+    raw: 1.2 kg pumpkin or butternut squash , cut into 4 cm wedges
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 2
+    unit: tbsp
+    name: manuka honey
+    raw: 2 tbsp manuka honey
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp sea salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 tsp dried chilli flakes
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 150
+    unit: g
+    name: feta cheese
+    raw: 150 g feta cheese, crumbled
+  - qty: 60
+    unit: g
+    name: pumpkin seeds
+    raw: 60 g pumpkin seeds , toasted in a dry pan
+  - qty: 1
+    unit: handful
+    name: mint leaves
+    raw: A handful of fresh mint leaves, torn
+  - qty: 1
+    unit: handful
+    name: rocket leaves
+    raw: A handful of rocket leaves
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tbsp extra honey for drizzling
+  - qty: 1
+    unit: tbsp
+    name: balsamic vinegar
+    raw: 1 tbsp balsamic vinegar
+  - qty: 1
+    unit: squeeze
+    name: lemon juice
+    raw: A squeeze of lemon juice

@@ -1,0 +1,77 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - one-pan
+  - meals
+  - onion
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: dessert apples
+    raw: 4 dessert apples , peeled, cored, chopped
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tbsp water
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of cinnamon
+  - qty: 300
+    unit: g
+    name: macaroni or short pasta tubes
+    raw: 300 g macaroni or short pasta tubes
+  - qty: 400
+    unit: g
+    name: waxy potatoes
+    raw: 400 g waxy potatoes, peeled, cut into 1 cm cubes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 200
+    unit: g
+    name: gruyere
+    raw: 200 g Gruyère, grated
+  - qty: 50
+    unit: g
+    name: emmental
+    raw: 50 g Emmental, grated
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of nutmeg
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, thinly sliced into rings
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - name: salt
+    raw: Salt

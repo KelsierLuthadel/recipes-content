@@ -1,0 +1,76 @@
+prep: 20 minutes (plus 1 hour pastry rest)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 125
+    unit: g
+    name: cold unsalted butter
+    raw: 125 g cold unsalted butter, diced
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 60
+    unit: ml
+    name: ice water
+    raw: 60 ml ice water
+  - qty: 250
+    unit: g
+    name: gruyere
+    raw: 250 g Gruyère, grated
+  - qty: 150
+    unit: g
+    name: emmental
+    raw: 150 g Emmental, grated
+  - qty: 4
+    name: eggs
+    raw: 4 medium eggs
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of grated nutmeg
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely diced and sweated in butter
+  - qty: 80
+    unit: g
+    name: smoked bacon lardons
+    raw: 80 g smoked bacon lardons, fried crisp

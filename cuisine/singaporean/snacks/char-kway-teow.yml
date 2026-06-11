@@ -1,0 +1,92 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - meat
+  - fish
+  - pork
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/charcuterie/smoking
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: flat rice noodles - or 200 g dried
+    raw: 400 g fresh flat rice noodles - or 200 g dried, soaked
+  - qty: 200
+    unit: g
+    name: prawns
+    raw: 200 g raw prawns, peeled
+  - qty: 100
+    unit: g
+    name: chinese sausage
+    raw: 100 g Chinese sausage , sliced diagonally 5 mm thick
+  - qty: 100
+    unit: g
+    name: squid
+    raw: 100 g squid, cleaned and sliced into rings
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs, lightly beaten
+  - qty: 250
+    unit: g
+    name: bean sprouts
+    raw: 250 g bean sprouts
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, cut into 4 cm lengths
+  - qty: 2
+    unit: tbsp
+    name: dark soy sauce
+    raw: 2 tbsp dark soy sauce
+  - qty: 1.5
+    unit: tbsp
+    name: light soy sauce
+    raw: 1.5 tbsp light soy sauce
+  - qty: 1
+    unit: tbsp
+    name: fish sauce
+    raw: 1 tbsp fish sauce
+  - qty: 1
+    unit: tbsp
+    name: shaoxing wine
+    raw: 1 tbsp Shaoxing wine
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tsp
+    name: sambal oelek -
+    raw: 1 tsp sambal oelek - optional
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - name: white pepper
+    raw: White pepper to taste
+  - name: chinese chives
+    raw: Chinese chives

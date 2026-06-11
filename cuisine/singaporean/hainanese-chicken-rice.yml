@@ -1,0 +1,126 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - soy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken , preferably free-range
+  - qty: 2
+    name: thumbs of ginger
+    raw: 2 thumbs of ginger, sliced
+  - qty: 6
+    name: spring onions
+    raw: 6 spring onions, white parts only
+  - qty: 2
+    name: pandan leaves
+    raw: 2 pandan leaves, tied in a knot
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tbsp sea salt
+  - qty: 1
+    unit: tbsp
+    name: sesame oil
+    raw: 1 tbsp sesame oil
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - name: bowl of iced water
+    raw: A bowl of iced water
+  - qty: 400
+    unit: g
+    name: jasmine rice
+    raw: 400 g jasmine rice
+  - qty: 30
+    unit: g
+    name: chicken fat - sub 30 ml vegetable oil
+    raw: 30 g chicken fat - sub 30 ml vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, knotted
+  - qty: 600
+    unit: ml
+    name: the chicken poaching broth
+    raw: 600 ml of the chicken poaching broth
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 6
+    name: red chillies
+    raw: 6 fresh red chillies
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp lime juice
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 60
+    unit: ml
+    name: the chicken poaching broth
+    raw: 60 ml of the chicken poaching broth
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, white parts only, finely chopped
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 60
+    unit: ml
+    name: hot oil
+    raw: 60 ml hot oil
+  - name: dark sweet soy sauce
+    raw: Dark sweet soy sauce , to drizzle
+  - name: cucumber
+    raw: Sliced cucumber
+  - name: coriander
+    raw: Coriander sprigs

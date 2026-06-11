@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+  - ginger
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: long green chillies - or use 4 long + 2 bird's-eye for more heat
+    raw: 6 fresh long green chillies - or use 4 long + 2 bird's-eye for more heat
+  - qty: 200
+    unit: ml
+    name: white vinegar
+    raw: 200 ml white vinegar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tbsp caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, smashed
+  - qty: 1
+    name: ginger
+    raw: 1 small piece of ginger, sliced
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf

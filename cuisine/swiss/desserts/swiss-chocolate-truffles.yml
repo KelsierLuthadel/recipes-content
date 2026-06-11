@@ -1,0 +1,60 @@
+prep: 20 minutes (plus 4 hours chilling)
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - butter
+  - cream
+  - chocolate
+  - honey
+  - complex
+mentions:
+  - petit-four/chocolate-truffles
+  - tutorials/chocolate/ganache
+  - tutorials/chocolate/truffles
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: dark chocolate
+    raw: 300 g good-quality dark chocolate , chopped fine
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter, soft
+  - qty: 1
+    unit: tbsp
+    name: glucose syrup or honey
+    raw: 1 tbsp glucose syrup or honey
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 30
+    unit: ml
+    name: kirsch or kirsch-substitute brandy
+    raw: 30 ml Kirsch or Kirsch-substitute brandy
+  - qty: 30
+    unit: ml
+    name: double espresso
+    raw: 30 ml double espresso, cooled
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 60
+    unit: g
+    name: unsweetened cocoa powder
+    raw: 60 g unsweetened cocoa powder
+  - name: "optional: 30 g icing sugar mixed with the cocoa"
+    raw: "Optional: 30 g icing sugar mixed with the cocoa"

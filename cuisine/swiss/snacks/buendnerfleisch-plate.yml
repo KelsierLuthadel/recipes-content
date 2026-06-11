@@ -1,0 +1,68 @@
+prep: 15 minutes
+cook: None
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - mustard
+tags:
+  - quick
+  - snack
+  - meat
+  - pork
+  - onion
+  - butter
+  - cheese
+  - nuts
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 120
+    unit: g
+    name: bundnerfleisch
+    raw: 120 g Bündnerfleisch
+  - qty: 100
+    unit: g
+    name: salami or saucisson sec
+    raw: 100 g salami or saucisson sec, thinly sliced
+  - qty: 150
+    unit: g
+    name: gruyere
+    raw: 150 g Gruyère, cut into thin shards or small wedges
+  - qty: 100
+    unit: g
+    name: sbrinz or aged gruyere
+    raw: 100 g Sbrinz or aged Gruyère , broken into chunks
+  - qty: 80
+    unit: g
+    name: cornichons
+    raw: 80 g cornichons
+  - qty: 60
+    unit: g
+    name: silverskin pickled onions
+    raw: 60 g silverskin pickled onions
+  - qty: 2
+    unit: tbsp
+    name: wholegrain mustard
+    raw: 2 tbsp wholegrain mustard
+  - qty: 50
+    unit: g
+    name: salted butter
+    raw: 50 g salted butter
+  - name: half a baguette or swiss farmhouse loaf
+    raw: Half a baguette or Swiss farmhouse loaf, sliced
+  - name: bowl of rye bread
+    raw: A small bowl of rye bread, sliced
+  - name: breadsticks
+    raw: A few small breadsticks
+  - qty: 1
+    unit: small handful
+    name: walnuts in shell
+    raw: A small handful of walnuts in shell
+  - qty: 7
+    name: apricots or figs
+    raw: 6-8 dried apricots or figs
+  - name: thyme
+    raw: A few sprigs of fresh thyme

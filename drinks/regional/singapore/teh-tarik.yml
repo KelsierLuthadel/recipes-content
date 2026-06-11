@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions:
+  - cuisine/singaporean/desserts/kaya-toast
+  - cuisine/singaporean/snacks/roti-prata
+  - drinks/regional/malaysia/teh-tarik
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: loose black tea leaves
+    raw: 2 tbsp loose black tea leaves
+  - qty: 400
+    unit: ml
+    name: just-off-boiling water
+    raw: 400 ml just-off-boiling water
+  - qty: 3.5
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 3-4 tbsp sweetened condensed milk
+  - qty: 1
+    unit: tbsp
+    name: evaporated milk
+    raw: 1 tbsp evaporated milk
+  - qty: 2
+    name: heat-resistant pitchers or jugs
+    raw: 2 small heat-resistant pitchers or jugs

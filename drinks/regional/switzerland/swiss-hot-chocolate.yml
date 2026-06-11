@@ -1,0 +1,53 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - cream
+  - chocolate
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 g good-quality dark chocolate , chopped fine
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cocoa powder
+    raw: 1 tbsp cocoa powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 1
+    unit: pinch
+    name: cinnamon
+    raw: A pinch of ground cinnamon
+  - name: softly whipped cream
+    raw: Softly whipped cream
+  - name: cocoa powder for dusting
+    raw: Cocoa powder for dusting
+  - name: shaved dark chocolate
+    raw: Shaved dark chocolate
+  - name: "optional: 30 ml kirsch or rum per mug"
+    raw: "Optional: 30 ml Kirsch or rum per mug"

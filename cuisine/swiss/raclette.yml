@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 20 minutes (plus melting time per round at the table)
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - potato
+  - cheese
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: raclette cheese ; substitute gruyere or another semi-firm melting cheese only as a last resort
+    raw: 1.5 kg raclette cheese ; substitute Gruyère or another semi-firm melting cheese only as a last resort
+  - qty: 200
+    unit: g
+    name: bundnerfleisch or any thinly-sliced cured meat
+    raw: 200 g Bündnerfleisch or any thinly-sliced cured meat
+  - qty: 1.5
+    unit: kg
+    name: waxy potatoes
+    raw: 1.5 kg small waxy potatoes
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - name: thyme
+    raw: A few sprigs of fresh thyme
+  - qty: 200
+    unit: g
+    name: cornichons
+    raw: 200 g cornichons
+  - qty: 200
+    unit: g
+    name: silverskin pickled onions
+    raw: 200 g silverskin pickled onions
+  - qty: 100
+    unit: g
+    name: pickled gherkins
+    raw: 100 g pickled gherkins
+  - name: black pepper
+    raw: A small dish of crushed black pepper
+  - name: paprika
+    raw: A small dish of paprika
+  - name: cumin
+    raw: A small dish of cumin
+  - name: oregano
+    raw: A small dish of dried oregano

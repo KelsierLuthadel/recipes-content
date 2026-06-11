@@ -1,0 +1,68 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes (plus 2 hours cool)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - complex
+mentions:
+  - cuisine/australian/desserts/pavlova
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: egg whites
+    raw: 6 large egg whites , at room temperature
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 tsp white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tbsp cornflour
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 500
+    unit: ml
+    name: double cream
+    raw: 500 ml double cream, very cold
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tbsp icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 4
+    name: kiwifruit
+    raw: 4 kiwifruit, peeled and sliced
+  - qty: 300
+    unit: g
+    name: strawberries
+    raw: 300 g strawberries, hulled and halved
+  - qty: 4
+    name: passionfruit
+    raw: 4 passionfruit, pulp scooped out
+  - qty: 1
+    unit: handful
+    name: mint leaves
+    raw: A handful of fresh mint leaves
+  - name: "optional: 100 g raspberries"
+    raw: "Optional: 100 g raspberries, blueberries"

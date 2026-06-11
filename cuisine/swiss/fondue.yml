@@ -1,0 +1,52 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - garlic
+  - lemon
+  - cheese
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: gruyere cheese
+    raw: 400 g Gruyère cheese, grated
+  - qty: 400
+    unit: g
+    name: vacherin fribourgeois
+    raw: 400 g Vacherin Fribourgeois , grated
+  - qty: 1
+    name: garlic
+    raw: 1 large clove garlic, halved
+  - qty: 400
+    unit: ml
+    name: dry swiss white wine
+    raw: 400 ml dry Swiss white wine
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 30
+    unit: ml
+    name: kirsch - or any neutral fruit brandy
+    raw: 30 ml kirsch - or any neutral fruit brandy
+  - qty: 1.5
+    unit: tbsp
+    name: cornflour
+    raw: 1.5 tbsp cornflour
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: A pinch of freshly grated nutmeg
+  - qty: 1
+    name: loaf rustic crusty bread
+    raw: 1 large loaf rustic crusty bread , cut into 3 cm cubes - the crust should be on every piece for skewering

@@ -1,0 +1,82 @@
+prep: 25 minutes
+cook: 45 minutes (plus 30 minutes cool)
+allergens:
+  - gluten
+  - eggs
+  - soy
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - beef
+  - eggs
+  - onion
+  - garlic
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: beef mince
+    raw: 700 g beef mince
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely diced
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, minced
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tbsp plain flour
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml beef stock
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 2
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 2 tbsp Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tbsp soy sauce
+  - qty: 1
+    unit: tbsp
+    name: dijon mustard
+    raw: 1 tbsp Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: salt and freshly ground black pepper
+    raw: Salt and freshly ground black pepper
+  - qty: 500
+    unit: g
+    name: shortcrust pastry
+    raw: 500 g shortcrust pastry
+  - qty: 500
+    unit: g
+    name: puff pastry
+    raw: 500 g puff pastry
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten

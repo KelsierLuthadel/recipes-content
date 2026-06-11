@@ -1,0 +1,117 @@
+prep: 30 minutes (plus shrimp paste roasting)
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - fish
+  - prawn
+  - eggs
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 6
+    name: red chillies
+    raw: 6 dried red chillies, soaked in hot water 20 min, drained
+  - qty: 4
+    name: red chillies
+    raw: 4 fresh red chillies
+  - qty: 5
+    name: shallots
+    raw: 5 shallots, peeled
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic
+  - qty: 2
+    name: lemongrass stalks
+    raw: 2 lemongrass stalks, white parts only, sliced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger
+  - qty: 1
+    name: galangal
+    raw: 1 thumb of galangal
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 3
+    name: candlenuts
+    raw: 3 candlenuts , crushed
+  - qty: 2
+    unit: tbsp
+    name: shrimp
+    raw: 2 tbsp dried shrimp, rinsed and rehydrated
+  - qty: 1
+    unit: tbsp
+    name: belacan
+    raw: 1 tbsp belacan , toasted
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 1.5
+    unit: l
+    name: prawn or chicken stock
+    raw: 1.5 litres prawn or chicken stock
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 tsp sugar
+  - qty: 16
+    name: prawns
+    raw: 16 large raw prawns, peeled
+  - qty: 200
+    unit: g
+    name: fish cake
+    raw: 200 g fish cake
+  - qty: 200
+    unit: g
+    name: cockles or clams
+    raw: 200 g cooked cockles or clams
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, halved
+  - qty: 300
+    unit: g
+    name: bean sprouts
+    raw: 300 g bean sprouts
+  - qty: 600
+    unit: g
+    name: rice vermicelli noodles
+    raw: 600 g thick rice vermicelli noodles
+  - qty: 1
+    name: laksa leaf
+    raw: 1 large bunch laksa leaf , torn - substitute fresh mint + coriander
+  - qty: 2
+    name: limes
+    raw: 2 limes, quartered
