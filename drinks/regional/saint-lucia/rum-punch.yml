@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lime
+mentions:
+  - drinks/cocktails/rum-punch
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml fresh lime juice
+  - qty: 120
+    unit: ml
+    name: sugar syrup
+    raw: 120 ml sugar syrup
+  - qty: 180
+    unit: ml
+    name: dark caribbean rum
+    raw: 180 ml dark Caribbean rum
+  - qty: 240
+    unit: ml
+    name: water
+    raw: 240 ml cold water
+  - name: angostura bitters
+    raw: A few dashes of Angostura bitters
+  - name: nutmeg for grating
+    raw: Whole nutmeg for grating
+  - name: plenty of crushed ice
+    raw: Plenty of crushed ice
+  - name: lime slices and orange wedges
+    raw: Lime slices and orange wedges to garnish
+  - name: "optional: a teaspoon of pomegranate or grenadine syrup for the \"swizzle\" red layer"
+    raw: "Optional: a teaspoon of pomegranate or grenadine syrup for the \"swizzle\" red layer"

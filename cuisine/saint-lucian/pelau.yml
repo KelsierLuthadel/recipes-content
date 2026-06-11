@@ -1,0 +1,89 @@
+prep: 20 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - chili
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs, cut into 2-3 cm pieces
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, grated
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme, leaves only
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - qty: 1
+    name: lime
+    raw: 1 lime, juiced
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable or coconut oil
+    raw: 3 tbsp vegetable or coconut oil
+  - qty: 4
+    unit: tbsp
+    name: dark brown sugar
+    raw: 4 tbsp dark brown sugar
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 small scotch bonnet, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 400
+    unit: g
+    name: basmati or long-grain rice
+    raw: 400 g basmati or long-grain rice, rinsed
+  - qty: 1
+    name: green pigeon peas
+    raw: 1 tin green pigeon peas , drained
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 600
+    unit: ml
+    name: chicken stock
+    raw: 600 ml chicken stock
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf

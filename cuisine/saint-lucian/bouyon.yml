@@ -1,0 +1,111 @@
+prep: 25 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - spinach
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/callaloo
+  - drinks/cocktails/rum-punch
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef shin or chuck
+    raw: 500 g beef shin or chuck, cut into 3 cm cubes
+  - qty: 200
+    unit: g
+    name: salt pork
+    raw: 200 g salt pork , cubed
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 small scotch bonnet, halved
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper, chopped
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, chopped
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme, leaves only
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1.5
+    unit: l
+    name: water or stock
+    raw: 1.5 litres water or stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 1
+    name: dasheen
+    raw: 1 small dasheen , peeled and cut into 4 cm chunks
+  - qty: 1
+    name: yam
+    raw: 1 medium yam, peeled and cut into 4 cm chunks
+  - qty: 1
+    name: sweet potato
+    raw: 1 medium sweet potato, peeled and cut into 4 cm chunks
+  - qty: 1
+    name: firm green plantain
+    raw: 1 firm green plantain, peeled and cut into 3 cm rounds
+  - qty: 2
+    name: green bananas
+    raw: 2 green bananas , peeled and halved
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 90
+    unit: ml
+    name: water
+    raw: 90 ml cold water
+  - qty: 1
+    unit: large handful
+    name: spinach or callaloo
+    raw: 1 large handful spinach or callaloo, chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced

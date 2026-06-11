@@ -1,0 +1,106 @@
+prep: 20 minutes (plus 2 hour marinade)
+cook: 50 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coconut
+  - potato
+  - lime
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1.2 kg chicken thighs and drumsticks
+  - qty: 2
+    unit: tbsp
+    name: west indian curry powder
+    raw: 2 tbsp West Indian curry powder
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, grated
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tbsp coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    name: more cloves garlic
+    raw: 4 more cloves garlic, minced
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 small scotch bonnet, finely chopped
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, chopped
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 200
+    unit: ml
+    name: chicken stock or water
+    raw: 200 ml chicken stock or water
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme, leaves only
+  - qty: 1
+    name: potato
+    raw: 1 large potato, peeled and cubed
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: coriander
+    raw: Fresh coriander to finish

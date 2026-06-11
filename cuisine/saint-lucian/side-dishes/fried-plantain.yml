@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - coconut
+mentions:
+  - cuisine/jamaican/callaloo
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: plantains
+    raw: 4 large ripe plantains
+  - qty: 4
+    unit: tbsp
+    name: coconut oil
+    raw: 4 tbsp coconut oil
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: Pinch of sea salt
+  - name: "optional: 1 tsp dark brown sugar"
+    raw: "Optional: 1 tsp dark brown sugar"

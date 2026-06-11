@@ -1,0 +1,52 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - dessert
+  - ginger
+  - coconut
+  - lime
+mentions:
+  - cuisine/scottish/snacks/tablet
+  - drinks/cocktails/rum-punch
+  - drinks/regional/saint-lucia/cocoa-tea
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 400
+    unit: g
+    name: coconut
+    raw: 400 g freshly grated coconut
+  - qty: 400
+    unit: g
+    name: dark brown sugar
+    raw: 400 g dark brown sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ground ginger
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 0.5
+    name: /2 tsp ground nutmeg
+    raw: 1/2 tsp ground nutmeg
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - name: zest of 1 lime
+    raw: Zest of 1 lime
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract

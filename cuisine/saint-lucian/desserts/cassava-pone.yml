@@ -1,0 +1,74 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - coconut
+  - lime
+  - butter
+  - complex
+mentions:
+  - drinks/regional/saint-lucia/cocoa-tea
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: cassava
+    raw: 500 g fresh grated cassava
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g grated fresh coconut
+  - qty: 200
+    unit: g
+    name: pumpkin or butternut squash
+    raw: 200 g grated pumpkin or butternut squash
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: lime zest
+    raw: 1 tbsp grated lime zest
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 tsp ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 tsp ground mixed spice
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins

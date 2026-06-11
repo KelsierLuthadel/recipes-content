@@ -1,0 +1,47 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: cocoa tea stick
+    raw: 1 cocoa tea stick
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    name: /2 tsp freshly grated nutmeg
+    raw: 1/2 tsp freshly grated nutmeg
+  - qty: 0.25
+    name: /4 tsp ground clove
+    raw: 1/4 tsp ground clove
+  - qty: 4
+    unit: tbsp
+    name: brown sugar
+    raw: 4 tbsp brown sugar
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: condensed milk per serving
+    raw: 1 tbsp condensed milk per serving

@@ -1,0 +1,80 @@
+prep: 25 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - pork
+  - onion
+  - garlic
+  - coconut
+  - spinach
+  - lime
+  - chili
+mentions:
+  - cuisine/chinese/steamed-fish
+  - cuisine/jamaican/callaloo
+  - tutorials/charcuterie/bacon
+  - tutorials/charcuterie/safety
+  - tutorials/distilling-spirits/safety
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: dasheen leaves - substitute fresh spinach or chard
+    raw: 500 g fresh dasheen leaves - substitute fresh spinach or chard
+  - qty: 250
+    unit: g
+    name: salt pork or smoked bacon
+    raw: 250 g salt pork or smoked bacon, cubed
+  - qty: 3
+    unit: tbsp
+    name: vegetable or coconut oil
+    raw: 3 tbsp vegetable or coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 small scotch bonnet, halved
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g okra, sliced 1 cm thick
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme, leaves only
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 600
+    unit: ml
+    name: chicken or vegetable stock
+    raw: 600 ml chicken or vegetable stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 1
+    name: lime
+    raw: 1 lime, juiced

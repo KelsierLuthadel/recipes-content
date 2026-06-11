@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+mentions:
+  - baking/banana-bread
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: bananas
+    raw: 4 very ripe bananas
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, softened
+  - qty: 200
+    unit: g
+    name: dark brown sugar
+    raw: 200 g dark brown sugar
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tbsp
+    name: dark rum
+    raw: 2 tbsp dark rum
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1.5
+    unit: tsp
+    name: baking powder
+    raw: 1.5 tsp baking powder
+  - qty: 0.5
+    name: /2 tsp bicarbonate of soda
+    raw: 1/2 tsp bicarbonate of soda
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 tsp ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 tsp ground mixed spice
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 100
+    unit: g
+    name: pecans or walnuts
+    raw: 100 g chopped pecans or walnuts
