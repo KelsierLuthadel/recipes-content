@@ -27,8 +27,8 @@ ingredients:
     raw: 150 ml milk
   - qty: 350
     unit: ml
-    name: ham
-    raw: 350 ml ham
+    name: ham stock
+    raw: 350 ml ham stock
   - qty: 2
     unit: tbsp
     name: parsley

@@ -1,6 +1,6 @@
 # Parsley Sauce
 
-![Parsley sauce](resources/parsley-sauce.png)
+![Parsley sauce](resources/parsley-sauce.jpg)
 
 *This sauce goes well with Brussels sprouts, carrots or potatoes. You can enrich the sauce with cream or butter, and serve with fish.*
 
@@ -21,7 +21,7 @@ Parsley sauce is the building block for traditional British vegetable cookery, t
 
 ### Liquid components
 - 150 ml milk
-- 350 ml ham (or chicken stock)
+- 350 ml ham stock (or chicken stock)
 
 ### Flavoring
 - 2 tablespoons fresh parsley (chopped)

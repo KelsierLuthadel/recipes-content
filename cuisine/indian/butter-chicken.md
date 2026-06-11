@@ -1,6 +1,6 @@
 # Butter Chicken
 
-![Butter Chicken](resources/butter-chicken.png)
+![Butter Chicken](resources/butter-chicken.jpg)
 
 *In 1947, Kundan Lal Gujral opened the first tandoori restaurant, called Moti Mahal, in Delhi, India. Although tandoor-style ovens had already been used for thousands of years, he was the first to have large tandoors manufactured for use in a restaurant.*
 
