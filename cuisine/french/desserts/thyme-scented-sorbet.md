@@ -2,7 +2,7 @@
 
 ![Thyme-scented fromage frais sorbet](resources/thyme-scented-sorbet.jpg)
 
-*When they are in season, raspberries or wild strawberries are superb served with with delicately flavoured sorbet.*
+*When they are in season, raspberries or wild strawberries are superb served with this delicately flavoured sorbet.*
 
 **Serves:** 6
 

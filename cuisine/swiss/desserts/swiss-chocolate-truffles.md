@@ -57,7 +57,7 @@ Switzerland built the modern chocolate industry. Lindt invented conching (the lo
 ### Stage 5 - Roll
 1. Set out a tray lined with greaseproof paper.
 2. Tip the cocoa into a wide shallow bowl.
-3. Scoop the ganache with a teaspoon or small melon-baller; roll quickly between your palms into a rough ball (about 2 cm).
+3. Scoop the ganache with a teaspoon or small melon-baller; roll quickly between your palms into a rough ball (about 3 cm).
 4. Drop into the cocoa; roll to coat.
 5. Lift out; set on the lined tray.
 6. Continue until all the ganache is rolled. Wash your hands and dust them with cocoa between batches if they get warm and sticky.

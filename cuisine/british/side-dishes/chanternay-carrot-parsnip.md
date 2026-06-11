@@ -20,7 +20,7 @@ A British Sunday-roast vegetable side that does a lot with very little: halved C
 - ½ orange (juice and zest)
 
 ## Method
-1. Preheat the oven to 200°c
+1. Preheat the oven to 200°C.
 1. Place the carrots and parsnips in a large roasting tin in a single layer. 
 1. Drizzle with olive oil and season. 
 1. Roast in the oven, turning occasionally for 30 minutes.

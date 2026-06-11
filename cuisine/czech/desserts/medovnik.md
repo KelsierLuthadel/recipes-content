@@ -73,7 +73,7 @@ Medovník (medovník is masculine; the same cake is called medovik in Russian an
 ### Stage 6 - Make the filling
 1. In a large bowl, beat the softened butter with an electric mixer until pale and fluffy.
 2. Slowly add the condensed milk, beating until smooth.
-3. Beat in the sour cream and vanilla.
+3. Add the vanilla; gently fold in the sour cream a third at a time (don't beat - cold sour cream beaten into a buttercream base can curdle).
 4. Fold in the chopped walnuts (if using).
 5. The filling should be thick but spreadable.
 

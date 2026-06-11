@@ -34,7 +34,7 @@ Hokey pokey ice cream is the flavour that defines New Zealand ice cream culture 
 1. Line a 25 cm baking tray with greaseproof paper.
 2. In a medium heavy-based saucepan (use one larger than you think - the mixture quadruples in size), combine the sugar and golden syrup.
 3. Heat over medium heat without stirring; swirl the pan occasionally.
-4. Cook 5-8 minutes until the mixture is a deep amber colour (caramel stage, about 150°C).
+4. Cook 5-8 minutes until the mixture is a deep amber colour (caramel stage, about 170°C).
 5. Off the heat, sift the baking soda over the top.
 6. Whisk briskly for 5 seconds - the mixture foams up dramatically (this is the chemical reaction creating the bubbles).
 7. Immediately pour onto the lined tray; don't spread or press - let it puff freely.

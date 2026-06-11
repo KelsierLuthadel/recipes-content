@@ -39,7 +39,7 @@ Brioche dough is the building block for the enriched French yeast pantheon: brio
  
 ### To shape a large brioche
 1. Divide 600 grams of dough into two-thirds (400 grams) and one-third (200 grams).
-1. Shape the larger piece into a ball and place in in the bottom of the mould.
+1. Shape the larger piece into a ball and place it in the bottom of the mould.
 1. Press 2 fingers into the centre of the dough to make a deep indention, forming a large ring doughnut shape. 
 1. Shape the small piece of dough into a ball and roll it at an angle into an elongated oval.
 1. Lightly flour your index and middle fingers, then gently press the small ball into the indentation so that two thirds of the small ball is above the larger ring.

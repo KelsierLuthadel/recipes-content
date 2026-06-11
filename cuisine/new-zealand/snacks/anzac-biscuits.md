@@ -39,9 +39,8 @@ ANZAC biscuits get their name from the Australian and New Zealand Army Corps - t
 3. Don't boil; just melt.
 
 ### Stage 3 - The bicarbonate reaction
-1. In a small bowl, dissolve the baking soda in the boiling water (it fizzes briefly).
-2. Immediately pour this into the warm butter-syrup mixture.
-3. It froths up - the foam is what gives the biscuits their texture.
+1. In a small bowl, dissolve the baking soda in the boiling water.
+2. Immediately pour this into the warm butter-syrup mixture; it froths up dramatically as the soda meets the acidic syrup - the foam is what gives the biscuits their texture.
 4. Stir to combine; the mixture lightens in colour.
 
 ### Stage 4 - Combine wet and dry

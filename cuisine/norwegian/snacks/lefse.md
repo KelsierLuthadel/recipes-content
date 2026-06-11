@@ -50,7 +50,7 @@ Lefse is the Norwegian thin soft flatbread made from a dough of cold mashed pota
 2. Test with a sprinkle of flour - it should brown gently in 30 seconds.
 
 ### Stage 4 - Divide and roll
-1. Divide the dough into 12 equal pieces (about 90g each); roll into balls.
+1. Divide the dough into 12 equal pieces (about 115 g each); roll into balls.
 2. On a flour-dusted surface (use plenty of flour - lefse sticks easily), flatten one ball into a disc.
 3. Roll out with a rolling pin into a very thin round, 25-28 cm wide and 1-2 mm thick. The thinner the better; some you can almost see through.
 4. Dust both sides lightly with flour to prevent sticking.

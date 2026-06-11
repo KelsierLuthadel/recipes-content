@@ -49,7 +49,7 @@ Croissant dough is the building block for croissants, pains au chocolat, pains a
 1. With a large knife, trim the edges, then cut the dough length-ways into 2 equal strips.
 1. Lay one short edge of the triangular template along one long edge of the dough and mark out the outline with the back of a knife.
 1. Invert the triangle and mark out the outline again. Continue this way until you have marked out 16-18 triangles, then cut them with a sharp knife.
-1. Arrange the triangles on a baking sheet. Cover tightly with polythene and refrigerate for a few moments; if the dough becomes too warm it will soften and crack.
+1. Arrange the triangles on a baking sheet. Cover tightly with polythene and refrigerate for at least 10 minutes; if the dough becomes too warm it will soften and crack.
 1. Place the triangles one at a time on the work surface, with the long point nearest you. 
 1. Stretch out the 2 shorter points, then, starting from the short edge, roll up the triangle towards you; use one hand to roll the dough and the other to pull down the long point. 
 1. Make sure that the central pointed end is in the middle and underneath so it does not rise up during cooking.

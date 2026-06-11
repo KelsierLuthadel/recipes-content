@@ -54,7 +54,7 @@ Ovocné knedlíky - "fruit dumplings" - are the Czech summer dessert and sometim
 4. Rest 15 minutes.
 
 ### Stage 3 - Shape the dumplings
-1. Divide the dough into 12 equal pieces (about 35g each).
+1. Divide the dough into 12 equal pieces (about 45 g each).
 2. On a floured surface, flatten each piece into a thin round about 8 cm wide.
 3. Place a piece of fruit in the centre.
 4. Bring the dough up around the fruit, pinching the edges closed at the top to fully enclose.

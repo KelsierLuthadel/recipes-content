@@ -52,7 +52,7 @@ Kjøttkaker (literally "meat cakes") are Norway's home meatballs - larger and fl
 4. Rest 10 minutes (the flour hydrates).
 
 ### Stage 2 - Shape
-1. With slightly wet hands, shape into 12 large flat patties (each about 4 cm across, 2 cm thick).
+1. With slightly wet hands, shape into 12 large flat patties (each about 7 cm across, 2 cm thick).
 2. Set on a tray; refrigerate 10 minutes if you have time (helps them hold shape).
 
 ### Stage 3 - Brown
@@ -72,7 +72,7 @@ Kjøttkaker (literally "meat cakes") are Norway's home meatballs - larger and fl
 
 ### Stage 5 - Simmer the meatballs in gravy
 1. Return the meatballs and any resting juices to the pan.
-2. Cover; simmer over low heat 15-20 minutes.
+2. Cover; simmer over low heat 8-10 minutes.
 3. The meatballs cook through to juicy in the middle; the gravy thickens slightly more.
 
 ### Stage 6 - Plate

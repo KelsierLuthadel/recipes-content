@@ -61,7 +61,7 @@ Bündner Gerstensuppe is the signature dish of Graubünden (the Grisons), the ea
 1. Add the bündnerfleisch slices, torn into rough strips (you want them to flavour the broth but not toughen, so don't add them earlier).
 2. Stir in the cream.
 3. Simmer 5 more minutes.
-4. Discard the bay leaves and thyme sprig.
+4. Discard the bay leaves (and the thyme sprig if you used fresh).
 5. Taste for salt - the bacon and bündnerfleisch are salty, so you may need very little.
 6. Plenty of black pepper.
 

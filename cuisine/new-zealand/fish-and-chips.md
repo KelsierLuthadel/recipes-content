@@ -69,7 +69,7 @@ Fish and chips is the New Zealand summer holiday meal, ordered from a small take
 
 ### Stage 4 - Chips, second fry
 1. Heat the oil to 190°C.
-2. Fry the parboiled chips in 2 batches 3-4 minutes each, until deeply golden and crisp.
+2. Fry the par-fried chips in 2 batches 3-4 minutes each, until deeply golden and crisp.
 3. Drain on kitchen paper; season immediately with salt.
 4. Keep warm in a low oven (90°C) while you fry the fish.
 
