@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - beef
+  - pork
+  - rice
+  - onion
+  - garlic
+  - butter
+  - complex
+mentions:
+  - cuisine/cajun/dirty-rice
+  - tutorials/spices/storage
+ingredients:
+  - qty: 225
+    unit: g
+    name: beef
+    raw: 225 g ground beef
+  - qty: 225
+    unit: g
+    name: pork
+    raw: 225 g ground pork
+  - name: kosher salt and freshly ground black pepper
+    raw: Kosher salt and freshly ground black pepper
+  - qty: 3
+    unit: tbsp
+    name: unsalted butter
+    raw: 3 tablespoons unsalted butter
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 1
+    name: celery rib
+    raw: 1 celery rib
+  - qty: 2
+    name: jalapeno chiles
+    raw: 2 jalapeño chiles
+  - qty: 115
+    unit: g
+    name: chicken livers
+    raw: 115 g chicken livers
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 4
+    unit: tbsp
+    name: plain flour
+    raw: 4 tablespoons plain flour
+  - qty: 2
+    unit: tsp
+    name: cajun seasoning
+    raw: 2 teaspoons Cajun seasoning
+  - qty: 240
+    unit: ml
+    name: chicken stock
+    raw: 240 ml chicken stock
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of fresh flat-leaf parsley
+  - qty: 310
+    unit: g
+    name: long-grain white rice
+    raw: 310 g cooked long-grain white rice

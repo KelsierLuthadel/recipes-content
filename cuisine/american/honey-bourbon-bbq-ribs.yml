@@ -1,0 +1,65 @@
+prep: 20 minutes
+cook: 2 hours
+allergens:
+  - soy
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - meals
+  - garlic
+  - honey
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: racks meaty baby back ribs
+    raw: 2 racks meaty baby back ribs
+  - qty: 350
+    unit: ml
+    name: lager
+    raw: 350 ml lager
+  - qty: 120
+    unit: ml
+    name: apple cider vinegar
+    raw: 120 ml apple cider vinegar
+  - qty: 60
+    unit: ml
+    name: bourbon
+    raw: 60 ml bourbon
+  - qty: 1.5
+    unit: tsp
+    name: kosher salt
+    raw: 1 ½ teaspoons kosher salt
+  - qty: 240
+    unit: ml
+    name: ketchup
+    raw: 240 ml ketchup
+  - qty: 120
+    unit: ml
+    name: soy sauce
+    raw: 120 ml soy sauce
+  - qty: 140
+    unit: ml
+    name: honey
+    raw: 140 ml honey
+  - qty: 60
+    unit: ml
+    name: bourbon
+    raw: 60 ml bourbon
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1.5
+    unit: tsp
+    name: barbecue spice rub
+    raw: 1 ½ teaspoons barbecue spice rub
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper

@@ -1,0 +1,48 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - quick
+  - meals
+  - fish
+  - prawn
+  - garlic
+  - lemon
+  - butter
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 115
+    unit: g
+    name: unsalted butter
+    raw: 115 g unsalted butter
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 60
+    unit: ml
+    name: dry white wine
+    raw: 60 ml dry white wine
+  - qty: 680
+    unit: g
+    name: jumbo shrimp
+    raw: 680 g jumbo shrimp
+  - qty: 1
+    unit: tsp
+    name: cracked black peppercorns
+    raw: 1 teaspoon cracked black peppercorns
+  - name: kosher salt
+    raw: Kosher salt
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of chopped fresh flat-leaf parsley
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: warm crusty french bread
+    raw: Warm crusty French bread

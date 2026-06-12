@@ -1,0 +1,91 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - spicy
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - chili
+  - complex
+mentions:
+  - drinks/fruit/fresh-orange-juice
+  - tutorials/charcuterie/bacon
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 1
+    name: shallot
+    raw: 1 large shallot
+  - qty: 2
+    unit: tbsp
+    name: dry sherry
+    raw: 2 tablespoons dry sherry
+  - qty: 120
+    unit: ml
+    name: beef stock
+    raw: 120 ml beef stock
+  - name: zest of ½ orange
+    raw: Grated zest of ½ orange
+  - qty: 60
+    unit: ml
+    name: orange juice
+    raw: 60 ml fresh orange juice
+  - qty: 140
+    unit: g
+    name: cranberry preserve
+    raw: 140 g cranberry preserve
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 teaspoon Dijon mustard
+  - qty: 0.25
+    unit: tsp
+    name: cayenne pepper
+    raw: ¼ teaspoon cayenne pepper
+  - name: olive oil
+    raw: Olive oil, for brushing
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tablespoon unsalted butter
+  - qty: 0.5
+    name: yellow onion
+    raw: ½ small yellow onion
+  - qty: 450
+    unit: g
+    name: venison
+    raw: 450 g ground venison
+  - qty: 2
+    name: thick-cut bacon
+    raw: 2 slices thick-cut bacon
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 40
+    unit: g
+    name: white breadcrumbs
+    raw: 40 g fresh white breadcrumbs
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tablespoons chopped fresh flat-leaf parsley, plus more for garnish
+  - name: kosher salt and freshly ground black pepper
+    raw: Kosher salt and freshly ground black pepper
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: A pinch of cayenne pepper

@@ -1,0 +1,67 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - meals
+  - bbq
+  - meat
+  - beef
+  - pork
+  - onion
+  - cheese
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 60
+    unit: ml
+    name: maple syrup
+    raw: 60 ml maple syrup
+  - qty: 2
+    unit: tbsp
+    name: light brown sugar
+    raw: 2 tablespoons light brown sugar
+  - qty: 2
+    unit: tbsp
+    name: bourbon
+    raw: 2 tablespoons bourbon
+  - qty: 12
+    name: thick-cut bacon
+    raw: 12 slices thick-cut bacon
+  - qty: 1
+    unit: kg
+    name: beef
+    raw: 1 kg ground beef
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    unit: tbsp
+    name: country-style dijon mustard
+    raw: 2 tablespoons country-style Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 1
+    unit: tsp
+    name: kosher salt
+    raw: 1 teaspoon kosher salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper
+  - qty: 6
+    name: cheddar
+    raw: 6 large slices sharp Cheddar
+  - qty: 6
+    name: burger buns
+    raw: 6 burger buns
+  - name: barbecue sauce
+    raw: Barbecue sauce, for serving

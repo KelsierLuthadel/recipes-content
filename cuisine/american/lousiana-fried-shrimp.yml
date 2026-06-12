@@ -1,0 +1,55 @@
+prep: 15 minutes (plus 1 hour marinade)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - peanuts
+  - shellfish
+tags:
+  - meals
+  - fish
+  - prawn
+  - eggs
+  - coconut
+  - lemon
+  - nuts
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 150
+    unit: ml
+    name: evaporated milk
+    raw: 150 ml evaporated milk
+  - qty: 2
+    unit: tsp
+    name: distilled white vinegar
+    raw: 2 teaspoons distilled white vinegar
+  - qty: 1
+    unit: tsp
+    name: louisiana hot sauce
+    raw: 1 teaspoon Louisiana hot sauce
+  - qty: 450
+    unit: g
+    name: shrimp
+    raw: 450 g large shrimp
+  - name: kosher salt and freshly ground black pepper
+    raw: Kosher salt and freshly ground black pepper
+  - name: peanut oil or coconut oil
+    raw: Peanut oil or coconut oil, for frying
+  - qty: 120
+    unit: g
+    name: plain flour
+    raw: 120 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tablespoon baking powder
+  - name: cocktail sauce
+    raw: Cocktail sauce, remoulade or your favourite dipping sauce
+  - name: lemon wedges
+    raw: Lemon wedges

@@ -1,0 +1,51 @@
+prep: 20 minutes (plus 1 hour freeze, plus 5 hours marinade)
+cook: 2 hours
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 450
+    unit: g
+    name: sirloin steak
+    raw: 450 g sirloin steak
+  - qty: 60
+    unit: ml
+    name: soy sauce
+    raw: 60 ml soy sauce
+  - qty: 3
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 3 tablespoons Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: light brown sugar
+    raw: 1 tablespoon light brown sugar
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 teaspoons freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: red pepper flakes
+    raw: 1 teaspoon red pepper flakes
+  - qty: 0.5
+    unit: tsp
+    name: garlic powder
+    raw: ½ teaspoon garlic powder
+  - qty: 0.5
+    unit: tsp
+    name: onion powder
+    raw: ½ teaspoon onion powder

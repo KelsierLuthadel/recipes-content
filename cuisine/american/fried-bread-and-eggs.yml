@@ -1,0 +1,49 @@
+prep: 15 minutes (plus 30 minutes dough rest)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 170
+    unit: g
+    name: plain flour
+    raw: 170 g plain flour, plus extra for dusting
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 teaspoon baking powder
+  - qty: 0.5
+    unit: tsp
+    name: kosher salt
+    raw: ½ teaspoon kosher salt
+  - qty: 120
+    unit: ml
+    name: water
+    raw: 120 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: rapeseed oil
+    raw: 2 tablespoons rapeseed oil, plus oil for frying
+  - qty: 4
+    name: thick-cut bacon
+    raw: 4 slices thick-cut bacon
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 60
+    unit: ml
+    name: milk
+    raw: 60 ml whole milk
+  - name: kosher salt and freshly ground black pepper
+    raw: Kosher salt and freshly ground black pepper

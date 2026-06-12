@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - gluten-free
+  - quick
+  - meals
+  - meat
+  - beef
+  - garlic
+  - butter
+mentions:
+  - cuisine/new-york/ny-strip-steak
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: new york strip steak
+    raw: 1 kg New York strip steak
+  - name: kosher salt and freshly ground black pepper
+    raw: Kosher salt and freshly ground black pepper
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - name: flat-leaf parsley
+    raw: Chopped fresh flat-leaf parsley, for garnish

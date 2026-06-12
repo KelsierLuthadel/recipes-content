@@ -1,0 +1,42 @@
+prep: 15 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - butter
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour, plus extra for dusting
+  - qty: 2
+    unit: tbsp
+    name: baking powder
+    raw: 2 tablespoons baking powder
+  - qty: 0.25
+    unit: tsp
+    name: bicarbonate of soda
+    raw: ¼ teaspoon bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: kosher salt
+    raw: 1 teaspoon kosher salt
+  - qty: 115
+    unit: g
+    name: cold unsalted butter
+    raw: 115 g very cold unsalted butter
+  - qty: 240
+    unit: ml
+    name: cold buttermilk
+    raw: 240 ml cold buttermilk
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tablespoon unsalted butter

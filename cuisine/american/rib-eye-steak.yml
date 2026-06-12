@@ -1,0 +1,39 @@
+prep: 5 minutes (plus 30 minutes to come to room temperature)
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - butter
+mentions:
+  - tutorials/charcuterie/smoking
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: thick-cut boneless rib eye steaks
+    raw: 2 thick-cut boneless rib eye steaks
+  - name: kosher salt and coarsely ground black pepper
+    raw: Kosher salt and coarsely ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 2
+    unit: tsp
+    name: turbinado sugar
+    raw: 2 teaspoons turbinado sugar
+  - qty: 2
+    unit: tbsp
+    name: unsalted butter
+    raw: 2 tablespoons unsalted butter
+  - qty: 3
+    unit: dash
+    name: hot-pepper sauce
+    raw: 3 dashes hot-pepper sauce , or to taste
+  - name: thyme
+    raw: Fresh thyme sprigs, for serving
