@@ -4,6 +4,8 @@
 
 *A course on spices: what they are, why they smell the way they do, how to wake them up with heat, when fresh beats dried (and when it does not), the regional blends that anchor a cuisine, and how to keep your spice rack from going stale.*
 
+*Looking up a specific spice? The [Spice Glossary](/glossary/spices) lists every spice, herb and blend with its story, profile, health notes and partners.*
+
 ## Overview
 Spices are the cheapest meaningful upgrade in the kitchen. A jar of cumin seed costs less than a coffee and rewrites every dish you toast it into. A pinch of saffron, properly bloomed, lifts a rice from nice to memorable. The trouble is that most home cooks own forty jars and use four; the rest sit at the back of the cupboard going slowly flat. This course is about treating spices with enough care that the jars earn their shelf space.
 
