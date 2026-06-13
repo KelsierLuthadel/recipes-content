@@ -1,0 +1,72 @@
+prep: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - ginger
+  - coriander
+mentions:
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 2
+    unit: tsp
+    name: cumin seeds
+    raw: 2 teaspoons cumin seeds
+  - qty: 2
+    unit: tsp
+    name: coriander seeds
+    raw: 2 teaspoons coriander seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 6
+    name: cardamom pods
+    raw: 6 cardamom pods
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: fennel seeds
+    raw: 1 teaspoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tablespoon ground ginger
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 teaspoon ground turmeric
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 teaspoon ground nutmeg
+  - qty: 1
+    unit: tsp
+    name: rose petals
+    raw: 1 teaspoon dried rose petals
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt

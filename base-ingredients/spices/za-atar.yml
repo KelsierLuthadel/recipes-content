@@ -1,0 +1,38 @@
+prep: 10 minutes
+allergens:
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+mentions:
+  - cuisine/lebanese/side-dishes/labneh
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: thyme
+    raw: 4 tablespoons dried thyme
+  - qty: 2
+    unit: tbsp
+    name: sumac
+    raw: 2 tablespoons sumac
+  - qty: 3
+    unit: tbsp
+    name: sesame seeds
+    raw: 3 tablespoons sesame seeds
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 teaspoon dried oregano
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 teaspoon dried marjoram
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt

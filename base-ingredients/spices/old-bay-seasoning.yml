@@ -1,0 +1,64 @@
+prep: 5 minutes
+allergens:
+  - mustard
+  - celery
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - ginger
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: celery salt
+    raw: 2 tablespoons celery salt
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 1.5
+    unit: tsp
+    name: black pepper
+    raw: 1 ½ teaspoons ground black pepper
+  - qty: 1.5
+    unit: tsp
+    name: mustard powder
+    raw: 1 ½ teaspoons mustard powder
+  - qty: 1
+    unit: tsp
+    name: bay leaf
+    raw: 1 teaspoon ground bay leaf
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ teaspoon ground nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 0.25
+    unit: tsp
+    name: mace
+    raw: ¼ teaspoon ground mace
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon

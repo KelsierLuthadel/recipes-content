@@ -1,0 +1,47 @@
+prep: 10 minutes
+allergens:
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - spices
+  - ginger
+  - chili
+mentions:
+  - cuisine/japanese/gyudon
+  - cuisine/japanese/miso-soup
+  - cuisine/japanese/yakitori
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: red chilli flakes
+    raw: 2 tablespoons dried red chilli flakes
+  - qty: 2
+    unit: tsp
+    name: orange peel
+    raw: 2 teaspoons dried orange peel, ground to a powder
+  - qty: 2
+    unit: tsp
+    name: sesame seeds
+    raw: 2 teaspoons sesame seeds
+  - qty: 1
+    unit: tsp
+    name: nori flakes
+    raw: 1 teaspoon nori flakes
+  - qty: 1
+    unit: tsp
+    name: sansho pepper
+    raw: 1 teaspoon sansho pepper
+  - qty: 1
+    unit: tsp
+    name: hemp seeds
+    raw: 1 teaspoon hemp seeds
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger

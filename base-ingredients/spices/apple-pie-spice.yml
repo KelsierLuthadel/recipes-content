@@ -1,0 +1,39 @@
+prep: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - ginger
+mentions:
+  - base-ingredients/spices/pumpkin-pie-spice
+  - cuisine/american/desserts/apple-pie
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: cinnamon
+    raw: 3 tablespoons ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: nutmeg
+    raw: 2 teaspoons ground nutmeg
+  - qty: 1.5
+    unit: tsp
+    name: allspice
+    raw: 1 ½ teaspoons ground allspice
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ teaspoon ground ginger

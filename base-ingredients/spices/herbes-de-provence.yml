@@ -1,0 +1,39 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+mentions:
+  - cuisine/french/ratatouille
+  - tutorials/spices/fresh-vs-dried
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: rosemary
+    raw: 3 tablespoons dried rosemary
+  - qty: 3
+    unit: tbsp
+    name: thyme
+    raw: 3 tablespoons dried thyme
+  - qty: 2
+    unit: tbsp
+    name: savory
+    raw: 2 tablespoons dried savory
+  - qty: 2
+    unit: tbsp
+    name: marjoram
+    raw: 2 tablespoons dried marjoram
+  - qty: 2
+    unit: tbsp
+    name: oregano
+    raw: 2 tablespoons dried oregano
+  - qty: 1
+    unit: tsp
+    name: lavender buds
+    raw: 1 teaspoon dried lavender buds

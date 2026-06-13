@@ -1,0 +1,36 @@
+prep: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - ginger
+mentions:
+  - baking/banana-bread
+  - cuisine/american/desserts/pumpkin-pie
+  - cuisine/southern/side-dishes/sweet-potato-casserole
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: cinnamon
+    raw: 3 tablespoons ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons ground ginger
+  - qty: 2
+    unit: tsp
+    name: nutmeg
+    raw: 2 teaspoons ground nutmeg
+  - qty: 1.5
+    unit: tsp
+    name: allspice
+    raw: 1 ½ teaspoons ground allspice
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves

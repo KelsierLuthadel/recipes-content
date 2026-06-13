@@ -1,0 +1,71 @@
+prep: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+  - coriander
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coriander seeds
+    raw: 2 tablespoons coriander seeds, toasted and ground
+  - qty: 1.5
+    unit: tbsp
+    name: fenugreek seeds
+    raw: 1 ½ tablespoons fenugreek seeds, ground
+  - qty: 1
+    unit: tbsp
+    name: marigold petals
+    raw: 1 tablespoon dried marigold petals , crushed
+  - qty: 1
+    unit: tbsp
+    name: summer savory
+    raw: 1 tablespoon dried summer savory
+  - qty: 1
+    unit: tbsp
+    name: dill
+    raw: 1 tablespoon dried dill
+  - qty: 2
+    unit: tsp
+    name: basil
+    raw: 2 teaspoons dried basil
+  - qty: 2
+    unit: tsp
+    name: mint
+    raw: 2 teaspoons dried mint
+  - qty: 1
+    unit: tsp
+    name: parsley
+    raw: 1 teaspoon dried parsley
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 teaspoon dried thyme
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: cloves
+    raw: ½ teaspoon ground cloves
+  - qty: 0.5
+    unit: tsp
+    name: bay leaf
+    raw: ½ teaspoon ground bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: sumac
+    raw: ½ teaspoon sumac
+  - qty: 0.25
+    unit: tsp
+    name: black pepper
+    raw: ¼ teaspoon ground black pepper

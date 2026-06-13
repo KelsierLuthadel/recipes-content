@@ -1,0 +1,32 @@
+prep: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - spices
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 6
+    name: star anise pods
+    raw: 6 whole star anise pods
+  - qty: 1
+    unit: tbsp
+    name: sichuan peppercorns
+    raw: 1 tablespoon Sichuan peppercorns
+  - qty: 1
+    unit: tbsp
+    name: fennel seeds
+    raw: 1 tablespoon fennel seeds
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon whole cloves
+  - qty: 1
+    name: cinnamon stick or 2 teaspoons cassia bark
+    raw: 1 cinnamon stick or 2 teaspoons cassia bark
