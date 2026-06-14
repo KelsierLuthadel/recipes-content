@@ -6,7 +6,7 @@
 
 **Prep Time:** 10 minutes
 
-**Yield:** Each recipe makes approximately 120-130 grams
+**Yield:** 120-130 grams
 
 ## Overview
 Aromatic salt is the finishing salt for Balti and British-Indian dishes, kept in a small jar by the stove for scattering over a curry, naan or bowl of rice. Two versions are worth keeping, both built on coarse sea salt (the larger granules keep spices distributed and stop the blend caking). The light version is salt with ground cinnamon, allspice and optional ginger, used as a gentle warming finish. The spicy version adds fenugreek, dried mint, turmeric, chilli powder and ground almond; the almond is the trick, adding quiet sweetness and enough body to make the salt cling. Stir everything for two or three minutes till uniform. Crush the dried mint fine and grind the fenugreek first. Store airtight away from light: the light version keeps 8 to 10 months, the spicy version 6 to 8.
