@@ -28,14 +28,14 @@ ingredients:
     unit: tbsp
     name: cumin seeds
     raw: 2 tablespoons cumin seeds
-  - qty: 6
-    unit: tbsp
+  - qty: 1
+    unit: tsp
     name: cardamom seeds
-    raw: 6 tablespoons cardamom seeds
+    raw: 1 teaspoon cardamom seeds
   - qty: 2
-    unit: tbsp
+    unit: tsp
     name: cloves
-    raw: 2 tablespoons cloves
+    raw: 2 teaspoons cloves
   - qty: 2
     unit: tbsp
     name: black peppercorns

@@ -1,6 +1,6 @@
 # Za'atar
 
-[!Za'atar](resources/za-atar.jpg)
+![Za'atar](resources/za-atar.jpg)
 
 *The Levantine herb-and-seed blend: dried thyme (or wild za'atar herb), sumac, toasted sesame seeds and salt, scattered on flatbread with olive oil at every Lebanese, Syrian and Palestinian breakfast.*
 
