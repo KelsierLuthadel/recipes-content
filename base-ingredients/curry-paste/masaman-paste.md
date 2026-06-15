@@ -1,4 +1,4 @@
-# Thai Masaman Curry Paste (Kruang Kaeng Masaman)
+# Quick Massaman Paste
 
 ![Masaman Curry Paste](resources/massaman-curry-paste.jpg)
 
@@ -11,7 +11,7 @@
 **Cook Time:** 13 minutes
 
 ## Overview
-Masaman curry paste is the building block for Thailand's most complex curry: the rich slow-cooked beef-and-potato Masaman that sits at the border of Thai, Malaysian, Indian and Persian cookery. Unlike the brighter green and red Thai pastes, Masaman leans on toasted warm spices (cloves, cumin, coriander, cinnamon) alongside the usual Thai aromatics of lemongrass, galangal, shallot, garlic and shrimp paste, which is why it cooks into a stew rather than a curry: deep and savoury rather than fresh and herbal. Build it slowly with a mortar and pestle. Soak deseeded dried red chillies till pliable, dry-fry the aromatics with the whole warm spices till deeply toasted, then pound the toasted mix to a fine powder before working in the chillies, warmed shrimp paste, salt, brown sugar and groundnut oil. The brown sugar is doing real work, balancing the spice and giving the curry its characteristic savoury-sweet warmth. Simmer 3 to 4 tablespoons with 400 ml coconut milk and beef or duck for at least 30 minutes to let the flavours layer.
+Masaman curry paste is the building block for Thailand's most complex curry: the rich slow-cooked beef-and-potato Masaman that sits at the border of Thai, Malaysian, Indian and Persian cookery. Unlike the brighter green and red Thai pastes, Masaman leans on toasted warm spices (cloves, cumin, coriander, cinnamon) alongside the usual Thai aromatics of lemongrass, galangal, shallot, garlic and shrimp paste, which is why it cooks into a stew rather than a curry: deep and savoury rather than fresh and herbal. Build it slowly with a mortar and pestle. Soak deseeded dried red chillies till pliable, dry-fry the aromatics with the whole warm spices till deeply toasted, then pound the toasted mix to a fine powder before working in the chillies, warmed shrimp paste, salt, brown sugar and groundnut oil. The brown sugar is doing real work, balancing the spice and giving the curry its characteristic savoury-sweet warmth. Simmer 3 to 4 tablespoons with 400 ml coconut milk and beef or duck for at least 30 minutes to let the flavours layer. For the longer-toasted traditional version, see [Massaman Curry Paste](../../cuisine/thai/pastes/massaman-curry-paste.md).
 
 ## Ingredients
 

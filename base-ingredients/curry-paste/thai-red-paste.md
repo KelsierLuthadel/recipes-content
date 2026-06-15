@@ -1,4 +1,4 @@
-# Thai Red Curry Paste (Kruang Kaeng Dang)
+# Quick Thai Red Paste
 
 ![Thai Red Curry Paste](resources/thai-red.jpg)
 
@@ -11,7 +11,7 @@
 **Yield:** Approximately 175-200 grams
 
 ## Overview
-Thai red curry paste is the building block for the family of Thai red curries: a vibrant brick-red paste of fresh red chillies, lemongrass, galangal, shallot, garlic, kaffir lime zest, coriander root and shrimp paste, with toasted coriander and cumin seeds ground in for warmth. This is the simpler fresh-chilli version of the classic, a faster everyday paste than the dried-chilli traditional but with cleaner brighter heat that fades to a softer back-note; good for everyday coconut curries with chicken, prawns or fish. Bruise the lemongrass and galangal to release their oils, then pound them in a stone mortar with the fresh chillies, shallots, garlic and coriander stems till smooth, drizzling in groundnut oil to bind. Mortar and pestle is non-negotiable; a food processor heats the herbs into a watery purée. Toast coriander and cumin in a dry pan till fragrant, grind to powder, then stir into the herb paste with warmed shrimp paste, kaffir lime zest and salt. Use immediately. Fry 2 to 3 tablespoons in hot coconut cream before adding the rest of a can of coconut milk and your protein.
+Thai red curry paste is the building block for the family of Thai red curries: a vibrant brick-red paste of fresh red chillies, lemongrass, galangal, shallot, garlic, kaffir lime zest, coriander root and shrimp paste, with toasted coriander and cumin seeds ground in for warmth. This is the simpler fresh-chilli version of the classic, a faster everyday paste than the dried-chilli traditional but with cleaner brighter heat that fades to a softer back-note; good for everyday coconut curries with chicken, prawns or fish. Bruise the lemongrass and galangal to release their oils, then pound them in a stone mortar with the fresh chillies, shallots, garlic and coriander stems till smooth, drizzling in groundnut oil to bind. Mortar and pestle is non-negotiable; a food processor heats the herbs into a watery purée. Toast coriander and cumin in a dry pan till fragrant, grind to powder, then stir into the herb paste with warmed shrimp paste, kaffir lime zest and salt. Use immediately. Fry 2 to 3 tablespoons in hot coconut cream before adding the rest of a can of coconut milk and your protein. For the dried-chilli traditional version with longer pounding and more depth, see [Thai Red Curry Paste](../../cuisine/thai/pastes/thai-red-curry-paste.md).
 
 ## Ingredients
 

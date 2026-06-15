@@ -29,7 +29,6 @@ mentions:
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
   - tutorials/spices/storage
-  - base-ingredients/curry-powder/curry-powder-classic
 ingredients:
   - qty: 300
     unit: g

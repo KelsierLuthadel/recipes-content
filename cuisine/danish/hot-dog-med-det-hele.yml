@@ -22,7 +22,6 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
   - tutorials/spices/storage
-  - base-ingredients/curry-powder/curry-powder-classic
 ingredients:
   - qty: 4
     name: long red wienerwurst sausages

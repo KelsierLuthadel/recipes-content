@@ -16,7 +16,7 @@ BIR lamb achari is the restaurant take on the Punjabi achari tradition, a curry 
 ## Ingredients
 ### Base
 - 4 tbsp rapeseed (canola) oil or vegetable oil
-- 1 tbsp [Panch Poran (Indian Five Spice)](Spice-Mixes/panch-poran.md)
+- 1 tbsp [Panch Poran (Indian Five Spice)](../../base-ingredients/spices/panch-poran.md)
 - 2 Kashmiri dried red chillies, split lengthways and deseeded
 - 1 onion, thinly sliced into rings
 

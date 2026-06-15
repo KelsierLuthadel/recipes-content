@@ -20,7 +20,6 @@ tags:
 mentions:
   - tutorials/pizza/dough
   - tutorials/spices/storage
-  - base-ingredients/curry-powder/curry-powder-classic
 ingredients:
   - qty: 500
     unit: g

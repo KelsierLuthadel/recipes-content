@@ -20,7 +20,6 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/dough
   - tutorials/spices/storage
-  - base-ingredients/curry-powder/curry-powder-classic
 ingredients:
   - qty: 250
     unit: g

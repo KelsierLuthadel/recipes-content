@@ -31,7 +31,6 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/thai-curry/yellow
-  - base-ingredients/curry-powder/curry-powder-classic
 ingredients:
   - qty: 10
     name: waxy new potatoes
