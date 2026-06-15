@@ -7,5 +7,25 @@ tags:
   - gluten-free
   - quick
   - asian
+  - tomato
 mentions:
   - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: part concentrated tomato paste
+    raw: 1 part concentrated tomato paste
+  - qty: 3
+    name: parts water
+    raw: 3 parts water
+  - qty: 400
+    unit: g
+    name: plum tomatoes
+    raw: 400 g tin plum tomatoes
+  - qty: 1
+    unit: tsp
+    name: concentrated tomato paste
+    raw: 1 teaspoon concentrated tomato paste
+  - qty: 250
+    unit: ml
+    name: unseasoned italian passata
+    raw: 250 ml unseasoned Italian passata, sieved if needed

@@ -9,6 +9,19 @@
 ## Overview
 A thin pourable tomato purée sits behind a lot of Indian curries. It is not the same as the thick double-concentrate paste sold in tubes; that is too intense to use on its own. The three methods below give you the same result by different routes: diluting concentrate, blending tinned tomatoes, or starting with shop-bought passata. Pick whichever fits what is already in the cupboard.
 
+## Ingredients
+
+### Method 1 - Diluted Concentrate
+- 1 part concentrated tomato paste
+- 3 parts water
+
+### Method 2 - Blended Tin
+- 400 g tin (2 cups) plum tomatoes
+- 1 teaspoon concentrated tomato paste (optional, for deeper colour)
+
+### Method 3 - Shop-bought Passata
+- 250 ml unseasoned Italian passata, sieved if needed
+
 ## Method
 ### Method 1
 1. Mix 1 part concentrated tomato paste with 3 parts water. 
