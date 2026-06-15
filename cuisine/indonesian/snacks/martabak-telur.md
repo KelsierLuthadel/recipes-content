@@ -27,7 +27,7 @@ Martabak telur is the Indonesian savoury folded pancake: paper-thin dough wrappe
 - 4 garlic cloves (minced)
 - 20 g fresh ginger (minced)
 - 300 g beef mince
-- 2 teaspoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md) (Indonesian or generic)
+- 2 teaspoons [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md) (Indonesian or generic)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon salt

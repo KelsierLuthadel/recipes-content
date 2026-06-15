@@ -24,9 +24,9 @@ BIR lamb rogan josh is the British-Indian-Restaurant take on the classic Kashmir
 - 2 tbsp paprika
 - 1 tsp chilli powder, or more to taste
 - 1 tbsp ground cumin
-- 1 ½ tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 1 ½ tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp dried fenugreek leaves (kasoori methi)
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ### Sauce and base
 - 125 ml (½ cup) tomato purée

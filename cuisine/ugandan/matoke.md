@@ -23,7 +23,7 @@ Matoke is Uganda's emblematic dish, the Buganda staple of green starchy plantain
 - 2 cm piece of ginger (grated)
 - 2 tablespoons tomato purée
 - 400 g tinned chopped tomatoes
-- 1 teaspoon mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
+- 1 teaspoon mild [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 teaspoon ground black pepper
 - 1 Royco (or Maggi cube)
 - 2 bay leaves

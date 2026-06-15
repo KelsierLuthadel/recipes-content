@@ -30,7 +30,7 @@ The Delhi original that became the world's most popular Indian dish: tandoor-gri
 - 1 tsp ground turmeric 
 - 300ml double cream 
 - 3 tbsp butter, chilled 
-- 1 tbsp [garam masala](Spice-Mixes/garam-masala.md)
+- 1 tbsp [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - salt
 - pepper
 

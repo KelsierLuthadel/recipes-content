@@ -42,7 +42,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 ### To finish
 - 1 teaspoon sugar
 - Salt (to taste)
-- ½ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - A small handful of fresh coriander (chopped, optional, Bengali tradition is sparing with coriander)
 
 ## Method

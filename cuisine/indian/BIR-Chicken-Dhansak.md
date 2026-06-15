@@ -18,7 +18,7 @@ BIR chicken dhansak is a British restaurant classic with sweet-sour notes of pin
 - 4 tbsp rapeseed (canola) oil or seasoned oil
 - 2 tbsp garlic and ginger paste
 - 1 tsp ground turmeric
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tbsp chilli powder, or to taste
 - 125 ml (½ cup) tomato purée
 

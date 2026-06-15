@@ -25,7 +25,7 @@ BIR lamb naga phaal is the British-Indian restaurant's hottest curry, named for 
 ### Aromatics and spices
 - 1 tbsp garlic and ginger paste
 - 1 tbsp Mr Naga chilli pickle (optional but recommended)
-- 1 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md) (or curry powder)
+- 1 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md) (or curry powder)
 - 2 tsp Kashmiri chilli powder
 - 70 ml (¼ cup) tomato purée
 
@@ -36,7 +36,7 @@ BIR lamb naga phaal is the British-Indian restaurant's hottest curry, named for 
 ### Finishers
 - Salt, to taste
 - 1 tsp dried fenugreek leaves (kasoori methi)
-- ½ tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- ½ tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 2 tbsp finely chopped coriander (fresh coriander)
 
 ## Method

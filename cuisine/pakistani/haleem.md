@@ -32,7 +32,7 @@ Haleem is Pakistan's iftar pot, the long-cooked Ramadan tradition that fills mos
 - 1 teaspoon ground turmeric
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon ground cumin
-- 1 ½ teaspoons [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 ½ teaspoons [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon black peppercorns (whole)
 - 2 black cardamom pods
 - 4 cloves
@@ -57,7 +57,7 @@ Haleem is Pakistan's iftar pot, the long-cooked Ramadan tradition that fills mos
 - 4 lemons (cut into wedges)
 - Small bunch fresh coriander (chopped)
 - Small bunch fresh mint (chopped)
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ## Method
 

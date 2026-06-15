@@ -26,7 +26,7 @@ Saag aloo is the North Indian everyday vegetable side, the spinach-and-potato pa
 - 1 teaspoon ground coriander
 - ½ teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
-- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ½ lemon (juice)
 
 ### To serve

@@ -20,6 +20,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
   - qty: 250
     unit: g

@@ -31,7 +31,7 @@ Prawns work particularly well in a pathia and are arguably the traditional choic
 ### Spice
 - 1 tsp chilli powder
 - 1 tsp Kashmiri chilli powder (mild)
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 tsp smoked paprika
 - 0.25 to 0.5 tsp salt
 - 1 tsp kasuri methi

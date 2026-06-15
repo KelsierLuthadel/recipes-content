@@ -37,7 +37,7 @@ See:
 - [Korma Mix](../../base-ingredients/curry-powder/korma-mix.md): mild, fragrant, no chilli.
 - [Vindaloo Mix](../../base-ingredients/curry-powder/vindaloo-mix.md): hot, sharp, vinegar-friendly.
 - [Dhansak Mix](../../base-ingredients/curry-powder/dhansak-mix.md): sweet, sour, lentil-friendly.
-- [Garam Masala](../../cuisine/indian/Spice-Mixes/garam-masala.md): the universal finisher, added near the end.
+- [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md): the universal finisher, added near the end.
 
 ### 4. Finishing Aromatics
 The fresh elements: garlic-ginger paste, fresh tomato or pureed tomato, fresh chilli, fresh coriander, sometimes onion. These build the flavour of the specific curry on top of the base. They go in the pan first, with oil and a smoke of fenugreek, before anything else.

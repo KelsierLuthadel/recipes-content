@@ -19,7 +19,7 @@ Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga
 
 ### Molten Lava Chilli Paste (makes more than needed; recipe uses 3 tbsp)
 - 3 garlic cloves
-- 1 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 1 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 2 naga chillies
 - 4 Thai red chillies
 - 2 scotch bonnet or habanero chillies
@@ -40,7 +40,7 @@ Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga
 ### Spice
 - 2 tsp extra-hot chilli powder (or 3 to 4 tsp regular chilli powder)
 - 2 tsp Kashmiri chilli powder
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 to 0.5 tsp salt
 - 1 tsp kasuri methi
 

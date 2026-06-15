@@ -20,7 +20,7 @@ Curried mussel sauce is the building block for the elegant fish course that turn
 - 60 grams onions, finely chopped
 
 ### Spice & flour
-- 2 teaspoons [Curry Powder](../../cuisine/indian/Spice-Mixes/curry-powder.md)
+- 2 teaspoons [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 15 grams plain flour
 
 ### Liquid & finishing

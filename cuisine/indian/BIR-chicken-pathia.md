@@ -21,7 +21,7 @@ BIR chicken pathia is the British-Indian-Restaurant sweet-and-sour curry, lemon 
 - Salt, to taste
 
 ### Spices and sweet/sour
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp chilli powder
 - 2 tbsp sugar, or to taste
 - 125 ml (½ cup) tomato purée

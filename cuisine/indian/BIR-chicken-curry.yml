@@ -25,6 +25,9 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+  - base-ingredients/curry-powder/mix-powder-glasgow
+  - base-ingredients/curry-powder/mixed-powder
 ingredients:
   - qty: 3
     unit: tbsp

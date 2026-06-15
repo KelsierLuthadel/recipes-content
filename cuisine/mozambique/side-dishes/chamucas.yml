@@ -20,6 +20,7 @@ tags:
 mentions:
   - cuisine/indian/snacks/samosa
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
   - qty: 400
     unit: g

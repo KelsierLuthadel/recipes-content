@@ -26,7 +26,7 @@ Chana chaat is Pakistan's tangy chickpea snack and the iftar-table standby, the 
 
 ### Dressing
 - 2 lemons (about 4 tablespoons, juice)
-- 1 ½ teaspoons [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md) (sold at South Asian shops, distinctive sour-and-salty)
+- 1 ½ teaspoons [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md) (sold at South Asian shops, distinctive sour-and-salty)
 - 1 teaspoon ground roasted cumin (see notes)
 - ½ teaspoon Kashmiri red chilli powder
 - ½ teaspoon black salt (kala namak, optional but traditional, gives a faint sulphurous tang)

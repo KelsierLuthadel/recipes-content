@@ -32,7 +32,7 @@ The defining ingredients are ground almonds (for body and a faintly nutty sweetn
 - 1 tsp kasuri methi
 
 ### Spice
-- 1 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 tsp turmeric
 - 0.25 to 0.5 tsp chilli powder (optional)
 - 0.25 to 0.5 tsp salt
@@ -49,7 +49,7 @@ The defining ingredients are ground almonds (for body and a faintly nutty sweetn
 ### Finish
 - 100 to 125 ml single cream, plus extra for garnish
 - 1 to 2 tsp ghee (optional, for richness)
-- a small pinch of [Garam Masala](Spice-Mixes/garam-masala.md)
+- a small pinch of [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - fresh coriander, finely chopped
 - half a hard-boiled egg
 

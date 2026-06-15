@@ -28,7 +28,7 @@ North India's everyday dry curry and a staple of Punjabi home cooking: chunks of
 - 1 teaspoon ground coriander
 - 1 teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
-- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 3 tablespoons fresh coriander (chopped)
 
 ## Method

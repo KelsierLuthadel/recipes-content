@@ -22,6 +22,7 @@ mentions:
   - cuisine/indian/butter-chicken
   - tutorials/spices/storage
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 400
     unit: g

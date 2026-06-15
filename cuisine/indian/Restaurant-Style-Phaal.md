@@ -27,8 +27,8 @@ Phaal is the restaurant category-killer for heat, traditionally claimed (though 
 - 2 tbsp Kashmiri chilli powder
 - 1 tbsp chilli flakes
 - 1 tbsp chilli chutney or pickle (Mr Naga or similar)
-- 2 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 2 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp kasuri methi
 - 0.25 to 0.5 tsp salt
 

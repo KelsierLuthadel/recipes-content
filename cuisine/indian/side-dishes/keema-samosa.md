@@ -22,7 +22,7 @@ Keema samosa is the meat-filled samosa that turns up at every Indian iftar table
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
 - 2 green chillies (finely chopped)
-- 1 ½ teaspoons [Garam Masala](../Spice-Mixes/garam-masala.md)
+- 1 ½ teaspoons [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon Kashmiri chilli powder

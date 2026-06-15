@@ -36,10 +36,10 @@ Salt is held back until the end because the chilli sauce, pickle, and chutney al
 - 2 tsp ginger-garlic paste
 
 ### Spice
-- 2 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 2 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp kasuri methi
 - 2 tsp chilli powder (to taste)
-- 0.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 0.5 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 
 ### Sauce
 - 2 to 3 green chillies, finely chopped (to taste)

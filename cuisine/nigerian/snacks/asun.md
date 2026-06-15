@@ -31,7 +31,7 @@ The Yoruba party-table snack, the dish you grab with toothpicks and a cold beer 
 - 3 garlic cloves
 - 25 g fresh ginger (peeled)
 - 4 tablespoons neutral oil (or red palm oil for traditional flavour)
-- 2 teaspoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
+- 2 teaspoons [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 teaspoon dried thyme
 - 1 teaspoon ground crayfish (optional but traditional, sold at African grocers)
 - 1 teaspoon salt

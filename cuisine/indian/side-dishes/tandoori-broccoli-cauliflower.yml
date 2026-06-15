@@ -20,6 +20,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 1
     name: head of broccoli

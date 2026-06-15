@@ -26,7 +26,7 @@ Chapli kebabs are the spiced beef patties sizzling on a wide flat tawa at any ro
 - 2 tablespoons dried pomegranate seeds (anardana, coarsely ground)
 - 1 tablespoon ground cumin
 - 1 tablespoon dried chilli flakes
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground black pepper
 - 1 ½ teaspoons salt
 - 4 tablespoons fresh coriander (chopped)

@@ -37,8 +37,8 @@ Chicken rezala is a Mughlai dish associated with Kolkata's Muslim-quarter restau
 - 2 tsp ginger-garlic paste
 
 ### Spice
-- 1 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
-- 0.5 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 0.5 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 0.5 tsp salt
 - 0.75 to 1 tsp sugar
 - 0.5 tsp chilli powder (optional, skip for the traditional pale finish)

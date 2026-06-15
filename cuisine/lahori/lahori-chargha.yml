@@ -24,6 +24,8 @@ mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 1
     name: chicken

@@ -32,7 +32,7 @@
 ### Spice
 - 1 tsp kasuri methi
 - 1.5 tsp Kashmiri chilli powder (or 0.75 tsp regular chilli powder)
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 tsp salt (light, pickles bring their own; see Notes)
 
 ### Sauce

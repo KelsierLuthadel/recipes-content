@@ -30,7 +30,7 @@ The dish reads sweet, warm, and rounded rather than fiery, with most of the heat
 ### Spice
 - 0.5 tsp kasuri methi
 - 1.5 tsp chilli powder
-- 1.5 to 2 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 to 2 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.5 tsp fennel powder (freshly ground if possible)
 - 0.25 tsp fenugreek powder (freshly ground if possible)
 - 0.25 to 0.5 tsp salt

@@ -19,7 +19,7 @@ Luwombo is Uganda's celebration parcel: chicken (or beef, or smoked fish) wrappe
 - 8 bone-in chicken thighs, skin on (about 1.2 kg)
 - 1 teaspoon salt
 - 1 teaspoon ground black pepper
-- 2 teaspoons mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
+- 2 teaspoons mild [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 Royco (or Maggi cube, crumbled)
 - 1 lemon (juice)
 

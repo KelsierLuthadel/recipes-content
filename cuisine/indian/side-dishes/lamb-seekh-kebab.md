@@ -23,7 +23,7 @@ Seekh kebab is restaurant-quality barbecue. Unlike simple meatballs, seekh kebab
 
 ### Spices & Aromatics
 - 1 tablespoon freshly roasted ground coriander
-- 1 tablespoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- 1 tablespoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - Large bunch of fresh coriander (finely chopped)
 - 1 teaspoon salt
 - Black pepper to taste

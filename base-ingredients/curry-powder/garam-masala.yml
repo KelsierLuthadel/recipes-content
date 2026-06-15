@@ -1,4 +1,5 @@
-prep: 10 minutes
+prep: 8 minutes
+cook: 2 minutes
 allergens: []
 tags:
   - vegetarian
@@ -11,7 +12,6 @@ tags:
 regions:
   - indian
 mentions:
-  - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - base-ingredients/curry-powder/mixed-powder
@@ -105,41 +105,35 @@ mentions:
   - cuisine/trinidadian/snacks/doubles
   - tutorials/bir-curry/building-a-curry
 ingredients:
-  - qty: 4.5
+  - qty: 6
     unit: tbsp
     name: coriander seeds
-    raw: 4 ½ tablespoons coriander seeds
-  - qty: 2.5
+    raw: 6 tbsp coriander seeds
+  - qty: 6
     unit: tbsp
-    name: white cumin seeds
-    raw: 2 ½ tablespoons white cumin seeds
+    name: cumin seeds
+    raw: 6 tbsp cumin seeds
   - qty: 5
     unit: tsp
-    name: aniseed
-    raw: 5 teaspoons aniseed
-  - qty: 1
-    name: cinnamon stick
-    raw: 1 cinnamon stick
-  - qty: 1.5
+    name: black peppercorns
+    raw: 5 tsp black peppercorns
+  - qty: 4
     unit: tbsp
-    name: green cardamom seeds
-    raw: 1 ½ tablespoons green cardamom seeds
-  - qty: 1
-    unit: tbsp
+    name: fennel seeds
+    raw: 4 tbsp fennel seeds
+  - qty: 3
+    unit: tsp
     name: cloves
-    raw: 1 tablespoon cloves
-  - qty: 1.5
-    unit: tsp
-    name: mint leaves
-    raw: 1 ½ teaspoons dried mint leaves
-  - qty: 6
-    name: bay leaves
-    raw: 6 bay leaves
-  - qty: 1
-    unit: tbsp
-    name: dry rose petals
-    raw: 1 tablespoon dry rose petals
-  - qty: 1
-    unit: tsp
-    name: saffron stamens
-    raw: 1 teaspoon saffron stamens
+    raw: 3 tsp cloves
+  - qty: 7.5
+    name: cinnamon stick or cassia bark
+    raw: 7 ½cm piece of cinnamon stick or cassia bark
+  - qty: 5
+    name: indian bay leaves
+    raw: 5 dried Indian bay leaves
+  - qty: 20
+    name: green cardamom pods
+    raw: 20 green cardamom pods, lightly bruised
+  - qty: 2
+    name: mace
+    raw: 2 large pieces of mace

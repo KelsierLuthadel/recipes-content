@@ -15,7 +15,7 @@ The British curry-house mixed powder, the custom dry spice blend that goes into 
 ### Ground spices
 - 3 tbsp ground cumin
 - 3 tbsp ground coriander
-- 4 tbsp [Curry Powder](curry-powder.md)
+- 4 tbsp [Curry Powder](bir-curry-powder.md)
 - 3 tbsp paprika
 - 3 tbsp ground turmeric
 - 1 tbsp [Garam Masala](garam-masala.md)

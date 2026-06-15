@@ -23,7 +23,7 @@ BIR chicken dopiaza is the curry built on two distinct onion textures (the name 
 ### Onions and aromatics
 - 1 onion (small), quartered and divided into petals
 - 3 tbsp garlic and ginger paste
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp ground cumin
 - 1-2 tsp chilli powder
 - 125 ml (½ cup) tomato purée
@@ -38,7 +38,7 @@ BIR chicken dopiaza is the curry built on two distinct onion textures (the name 
 - 7 tbsp onion paste made with yoghurt
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - Small bunch coriander (fresh coriander), chopped
 - 2 handfuls fried onions
 

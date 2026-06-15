@@ -9,14 +9,25 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - asian
-  - spices
   - ginger
   - coriander
+  - curry
+regions:
+  - indian
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - cuisine/indian/BIR-Chicken-Ceylon
+  - cuisine/indian/BIR-chicken-chilli-garlic
+  - cuisine/indian/BIR-Lamb-bhuna
+  - cuisine/indian/Restaurant-Style-Chicken-Chilli-Masala
+  - cuisine/indian/Restaurant-Style-Chicken-Tikka-Masala
+  - cuisine/indian/Restaurant-Style-Lavastorm
+  - cuisine/indian/Restaurant-Style-Naga-Bhuna
+  - cuisine/indian/Restaurant-Style-Rogan-Josh
+  - cuisine/indian/Restaurant-Style-Tikka
+  - cuisine/indian/Restaurant-Style-Tikka-Masala
 ingredients:
   - qty: 3
     unit: tbsp

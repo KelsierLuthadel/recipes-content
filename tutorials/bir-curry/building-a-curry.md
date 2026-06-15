@@ -32,7 +32,7 @@ We are cooking for two people. Scale the ingredient line by the number of plates
 - ½ tsp salt
 
 ### Finish
-- ¼ tsp [garam masala](../../cuisine/indian/Spice-Mixes/garam-masala.md)
+- ¼ tsp [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - Handful fresh coriander, chopped
 - Squeeze of lemon
 

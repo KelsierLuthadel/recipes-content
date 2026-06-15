@@ -30,10 +30,10 @@ The jalfrezi is one of the defining BIR curries, found on every restaurant menu 
 - 2 tsp ginger-garlic paste
 
 ### Spice
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.75 tsp chilli powder
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
-- 0.5 to 1 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
+- 0.5 to 1 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 0.5 tsp kasuri methi (the rest of the teaspoon)
 - 0.25 to 0.5 tsp salt
 

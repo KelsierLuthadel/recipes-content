@@ -21,6 +21,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 60
     unit: g

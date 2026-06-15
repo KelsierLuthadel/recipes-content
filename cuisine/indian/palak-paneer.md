@@ -35,13 +35,13 @@ Palak paneer is the Punjabi vegetarian classic and the dish every North Indian h
 - 1 teaspoon ground coriander
 - 1 teaspoon Kashmiri chilli powder
 - ½ teaspoon turmeric
-- 1 teaspoon [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon salt (to taste)
 
 ### To finish
 - 80 ml double cream
 - 1 teaspoon kasuri methi (crushed between palms)
-- ½ teaspoon [Garam Masala](Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - A knob of butter
 
 ### To serve

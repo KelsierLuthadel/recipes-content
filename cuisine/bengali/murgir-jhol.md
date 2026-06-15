@@ -43,7 +43,7 @@ The everyday Bengali household chicken curry, the antithesis of the heavy, cream
 
 ### Liquid and finish
 - 600 ml water (or light chicken stock)
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ghee (optional, to finish)
 - A handful of fresh coriander (chopped)
 

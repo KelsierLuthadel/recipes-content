@@ -19,7 +19,7 @@ Samosas are the ultimate Indian snack: crispy, angular parcels of golden filo pa
 - 2 tablespoons sunflower oil
 - 300 grams minced chicken
 - 1 onion (chopped)
-- 1 tablespoon medium [Curry Powder](../Spice-Mixes/curry-powder.md)
+- 1 tablespoon medium [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 50 grams cooked potato (diced)
 - 4 tablespoons fresh coriander leaves (finely chopped)
 - 4 tablespoons fresh mint leaves (finely chopped)

@@ -39,7 +39,7 @@ Dahi bhalla is the yogurt-and-fritter snack that turns up at iftar and across Ei
 ### Toppings
 - 4 tablespoons sweet tamarind chutney
 - 4 tablespoons green mint-coriander chutney (or blitz coriander + mint + green chilli + lime + salt)
-- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
+- 1 teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md)
 - 4 tablespoons pomegranate seeds (the Pakistani touch)
 - 4 tablespoons sev (crispy chickpea-flour noodles) or crushed papri (small fried wheat crackers)
 - 3 tablespoons fresh coriander (chopped)

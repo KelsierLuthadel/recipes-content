@@ -24,7 +24,7 @@ Sindhi biryani is the celebration rice dish of Sindh province, distinguished fro
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground coriander
 - 1 teaspoon ground cumin
-- 1 ½ teaspoons [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 ½ teaspoons [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tablespoon fresh mint (chopped)
 - 2 tablespoons fresh coriander (chopped)
 - 2 teaspoons salt

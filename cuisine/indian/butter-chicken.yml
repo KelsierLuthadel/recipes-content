@@ -5,6 +5,7 @@ allergens:
   - garlic
 tags:
   - gluten-free
+  - spicy
   - quick
   - make-ahead
   - meals
@@ -25,6 +26,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 1.5
     unit: kg

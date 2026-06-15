@@ -24,7 +24,7 @@ BIR chicken jalfrezi is the restaurant stir-fry, quick-cooked peppers, chillies 
 
 ### Spices and sauce
 - 6 tbsp tomato purée
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp chilli powder (optional)
 - 500 ml [Curry Base Gravy](Base/curry-base.md)
 - 800 g  [Pre-Cooked Chicken](Base/pre-cooked-chicken.md)
@@ -34,7 +34,7 @@ BIR chicken jalfrezi is the restaurant stir-fry, quick-cooked peppers, chillies 
 ### Finishers
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - Salt, to taste
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 2 tbsp chopped coriander (fresh coriander) leaves
 - 2 green finger chillies, halved lengthwise
 

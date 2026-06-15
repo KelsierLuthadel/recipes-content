@@ -32,7 +32,7 @@ A proper Lahori karahi: bone-in lamb seared hard in a karahi (the two-handled wo
 - 1 tbsp Kashmiri chilli powder 
 - 3 tbsp julienned ginger 
 - 2 fresh green bullet chillies (roughly chopped)
-- 1 tsp [garam masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - Fresh coriander 
 
 ## Method

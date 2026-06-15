@@ -32,6 +32,8 @@ mentions:
   - tutorials/middle-eastern-fundamentals/kebabs
   - tutorials/spices/storage
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 500
     unit: g

@@ -46,7 +46,7 @@ The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho, and the
 
 ### Liquid and finish
 - 1 litre water (or light meat stock)
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ghee (optional, to finish)
 - A handful of fresh coriander (chopped)
 

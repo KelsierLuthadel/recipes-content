@@ -24,7 +24,7 @@ The classic Indian table salad: a small uniform dice of cucumber, tomato, red on
 - 1 lime (juice)
 - 1 teaspoon roasted cumin powder (see Notes)
 - ½ teaspoon salt
-- ¼ teaspoon [Chaat Masala](../Spice-Mixes/chaat-masala.md) (optional)
+- ¼ teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md) (optional)
 - ¼ teaspoon ground black pepper
 
 ## Method

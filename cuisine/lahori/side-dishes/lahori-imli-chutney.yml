@@ -16,6 +16,7 @@ mentions:
   - sauces/sauce-fish/tamarind-sauce
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 100
     unit: g

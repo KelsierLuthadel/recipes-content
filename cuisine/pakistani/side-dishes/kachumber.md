@@ -22,7 +22,7 @@ Kachumber is Pakistan's chopped salad, the fresh foil to nihari, biryani, karahi
 - A small bunch fresh coriander (chopped)
 - A small handful fresh mint (chopped)
 - 1 lime (juice)
-- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md) (or 1 tsp lemon juice + ½ tsp ground cumin + pinch of black salt)
+- 1 teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md) (or 1 tsp lemon juice + ½ tsp ground cumin + pinch of black salt)
 - ½ teaspoon ground cumin (toasted, ideally)
 - ¾ teaspoon salt
 - ¼ teaspoon black pepper

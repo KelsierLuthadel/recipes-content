@@ -21,7 +21,7 @@ Mozambique's take on the samosa, brought to East Africa by Indian traders and re
 - 1 onion (medium, very finely chopped)
 - 3 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
-- 2 teaspoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
+- 2 teaspoons [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 teaspoon paprika
 - 1 fresh bird's-eye chilli (very finely chopped)
 - 2 tablespoons fresh coriander (chopped)

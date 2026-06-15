@@ -39,7 +39,7 @@ A vegetarian Lahori workhorse and the dal-rice swap for a meatless lunch: basmat
 - 1 teaspoon Kashmiri chilli powder
 - ½ teaspoon turmeric
 - 1 teaspoon salt (to taste)
-- ½ teaspoon [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 800 ml chickpea cooking liquor (topped up with hot water if needed)
 
 ### To finish

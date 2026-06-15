@@ -25,7 +25,7 @@ Aloo tikki is Delhi's chaat-stall classic, the spiced potato patty with a deep g
 - 1 tablespoon fresh mint (chopped) or 1 teaspoon dried mint
 - 1 teaspoon cumin seeds (toasted, lightly crushed)
 - ½ teaspoon Kashmiri chilli powder
-- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon amchur (dried mango powder)
 - ½ teaspoon black pepper
 - 1 ¼ teaspoons salt
@@ -39,7 +39,7 @@ Aloo tikki is Delhi's chaat-stall classic, the spiced potato patty with a deep g
 - 3 tablespoons mint-coriander chutney
 - 1 red onion (small, finely chopped)
 - 2 tablespoons pomegranate seeds (optional)
-- 1 teaspoon [Chaat Masala](../Spice-Mixes/chaat-masala.md)
+- 1 teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md)
 - A small handful sev (crisp chickpea noodles; optional)
 
 ## Method

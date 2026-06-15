@@ -21,7 +21,7 @@ Bobotie is South Africa's national dish, the Cape Malay legacy made over generat
 - 2 onions (large, finely chopped)
 - 6 garlic cloves (crushed)
 - 4 cm ginger (grated)
-- 2 tablespoons mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
+- 2 tablespoons mild [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander

@@ -22,13 +22,13 @@ The British curry-house madras, named for the South Indian city (now Chennai) bu
 - 1 tsp ground coriander 
 - ¼ tsp ground turmeric 
 - 1-2 tbsp chilli powder
-- 2 tbsp [mixed powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [mixed powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 500ml [Curry Base Gravy](Base/curry-base.md)
 - 800g [pre-cooked stewed lamb](Base/pre-cooked-lamb.md)
 - 250ml of [Curry Base Gravy](Base/curry-base.md) (or stock from [pre-cooked stewed lamb], ../Base/pre-cooked-lamb.md)
 - 1-2 tbsp smooth mango chutney
 - 1 lime (juice)
-- Pinch of [garam masala](Spice-Mixes/garam-masala.md)
+- Pinch of [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - Fresh coriander to garnish 
 - Salt 
 

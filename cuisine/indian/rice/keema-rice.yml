@@ -28,6 +28,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
   - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 300
     unit: g
