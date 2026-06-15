@@ -30,6 +30,8 @@ mentions:
   - tutorials/chocolate/tempering
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
+  - base-ingredients/curry-powder/curry-powder-classic
+  - base-ingredients/curry-powder/garam-masala-kashmiri
 ingredients:
   - qty: 400
     unit: g

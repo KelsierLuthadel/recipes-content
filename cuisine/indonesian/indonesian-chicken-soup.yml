@@ -23,6 +23,7 @@ tags:
 mentions:
   - tutorials/pizza/toppings
   - tutorials/spices/storage
+  - base-ingredients/sambal/sambal-oelek
 ingredients:
   - qty: 2
     unit: tbsp

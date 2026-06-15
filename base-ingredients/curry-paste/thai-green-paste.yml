@@ -21,6 +21,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/thai-curry/green
+  - tutorials/thai-curry/building-a-curry
 ingredients:
   - qty: 4
     name: green chillies

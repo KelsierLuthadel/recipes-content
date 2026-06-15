@@ -23,6 +23,7 @@ mentions:
   - cuisine/middle-east/kibbeh
   - cuisine/palestinian/kibbeh-bil-saneeyeh
   - tutorials/pizza/sauce
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 1.5
     unit: tbsp

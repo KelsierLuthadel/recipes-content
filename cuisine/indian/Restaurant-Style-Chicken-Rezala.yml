@@ -27,6 +27,7 @@ mentions:
   - tutorials/indian-breads/paratha
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - base-ingredients/curry-powder/garam-masala-kashmiri
 ingredients:
   - qty: 15
     name: unsalted cashew nuts

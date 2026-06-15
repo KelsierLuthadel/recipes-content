@@ -11,6 +11,7 @@ tags:
 mentions:
   - tutorials/spices/storage
   - tutorials/stocks-sauces/stocks
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 300
     unit: g

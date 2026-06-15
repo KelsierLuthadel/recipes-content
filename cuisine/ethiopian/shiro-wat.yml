@@ -14,6 +14,7 @@ tags:
   - chickpea
 mentions:
   - tutorials/spices/storage
+  - base-ingredients/spices/berbere
 ingredients:
   - qty: 2
     name: onions

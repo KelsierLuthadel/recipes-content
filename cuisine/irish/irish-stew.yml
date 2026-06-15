@@ -23,6 +23,7 @@ mentions:
   - cuisine/irish/colcannon
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 750
     unit: g

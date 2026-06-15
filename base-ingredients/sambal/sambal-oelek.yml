@@ -13,6 +13,13 @@ tags:
 mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/blanching
+  - cuisine/asian-fusion/honey-soy-glazed-chicken
+  - cuisine/indonesian/beef-nasi-goreng
+  - cuisine/indonesian/indonesian-chicken-soup
+  - cuisine/indonesian/tempeh-goreng
+  - cuisine/malaysian/malaysian-laksa
+  - cuisine/mexican/snacks/pineapple-salsa
+  - cuisine/singaporean/chilli-crab
 ingredients:
   - qty: 450
     unit: g

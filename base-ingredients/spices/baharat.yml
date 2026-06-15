@@ -16,6 +16,29 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/arabian/madghoot
+  - cuisine/arabian/snacks/mutabbaq
+  - cuisine/arabian/snacks/samboosa
+  - cuisine/arabian/snacks/sambousek-lahm
+  - cuisine/iraq/bamia-iraqi
+  - cuisine/iraq/quzi
+  - cuisine/iraq/side-dishes/kibbeh-mosul
+  - cuisine/iraq/snacks/aroog
+  - cuisine/iraq/timman-ahmar
+  - cuisine/israel/chicken-shawarma
+  - cuisine/israel/kibbeh
+  - cuisine/israel/me-orav-yerushalmi
+  - cuisine/jordan/ouzi
+  - cuisine/jordan/snacks/arayes
+  - cuisine/jordan/snacks/kibbeh-nayyeh-balls
+  - cuisine/jordan/snacks/manakish-mini
+  - cuisine/jordan/snacks/sfeeha-jordani
+  - cuisine/lebanese/riz-a-djej
+  - cuisine/lebanese/snacks/kibbeh-mqliyeh
+  - cuisine/palestinian/kibbeh-bil-saneeyeh
+  - cuisine/palestinian/lahem-bi-ajeen
+  - cuisine/palestinian/maklouba
+  - cuisine/palestinian/shish-barak
 ingredients:
   - qty: 1
     name: cinnamon stick

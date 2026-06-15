@@ -22,6 +22,7 @@ mentions:
   - tutorials/pizza/dough
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 200
     unit: g

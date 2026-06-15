@@ -21,6 +21,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/cajun-spice-mix
 ingredients:
   - qty: 500
     unit: g

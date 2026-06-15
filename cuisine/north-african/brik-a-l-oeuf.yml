@@ -16,6 +16,7 @@ tags:
   - cheese
 mentions:
   - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
 ingredients:
   - qty: 160
     unit: g

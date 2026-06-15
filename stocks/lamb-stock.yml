@@ -12,6 +12,7 @@ tags:
 mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 800
     unit: g

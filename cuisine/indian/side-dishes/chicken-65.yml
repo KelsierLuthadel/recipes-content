@@ -29,6 +29,7 @@ mentions:
   - tutorials/chocolate/tempering
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
 ingredients:
   - qty: 600
     unit: g

@@ -15,6 +15,11 @@ mentions:
   - cuisine/creole/shrimp-creole
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - cuisine/creole/daube
+  - cuisine/creole/maque-choux
+  - cuisine/creole/side-dishes/red-beans-creole
+  - cuisine/creole/side-dishes/shrimp-po-boy
+  - cuisine/louisiana/shrimp-and-grits-creole
 ingredients:
   - qty: 5
     unit: tbsp

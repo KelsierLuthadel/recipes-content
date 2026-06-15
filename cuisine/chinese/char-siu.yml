@@ -26,6 +26,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 1.2
     unit: kg

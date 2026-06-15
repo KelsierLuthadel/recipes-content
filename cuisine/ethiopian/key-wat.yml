@@ -29,6 +29,7 @@ mentions:
   - drinks/regional/ethiopia/tej
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/berbere
 ingredients:
   - qty: 3
     name: red onions

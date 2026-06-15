@@ -18,6 +18,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/shichimi-togarashi
 ingredients:
   - qty: 200
     unit: ml

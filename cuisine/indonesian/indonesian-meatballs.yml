@@ -27,6 +27,11 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-paste/thai-red-paste-southern
+  - base-ingredients/curry-paste/thai-red-paste-traditional
+  - base-ingredients/curry-paste/thai-red-paste
+  - base-ingredients/curry-powder/curry-powder-classic
+  - base-ingredients/curry-powder/garam-masala-kashmiri
 ingredients:
   - qty: 500
     unit: g

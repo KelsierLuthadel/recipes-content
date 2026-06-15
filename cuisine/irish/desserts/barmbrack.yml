@@ -16,6 +16,7 @@ mentions:
   - tutorials/bread/proving
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 200
     unit: g

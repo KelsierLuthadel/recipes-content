@@ -20,6 +20,7 @@ tags:
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 1
     name: chicken

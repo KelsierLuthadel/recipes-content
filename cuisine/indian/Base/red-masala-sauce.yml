@@ -16,6 +16,8 @@ tags:
 mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - base-ingredients/curry-paste/tandoori-masala-paste
+  - base-ingredients/curry-powder/garam-masala-kashmiri
 ingredients:
   - qty: 500
     unit: ml

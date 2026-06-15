@@ -13,6 +13,7 @@ tags:
   - lemon
 mentions:
   - tutorials/spices/storage
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 2
     name: leeks

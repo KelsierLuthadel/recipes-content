@@ -26,6 +26,7 @@ mentions:
   - cuisine/indian/snacks/samosa
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
 ingredients:
   - qty: 500
     unit: g

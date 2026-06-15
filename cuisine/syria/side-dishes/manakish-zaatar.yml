@@ -13,6 +13,7 @@ tags:
 mentions:
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/za-atar
 ingredients:
   - qty: 500
     unit: g

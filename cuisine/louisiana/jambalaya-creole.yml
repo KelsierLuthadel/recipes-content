@@ -27,6 +27,7 @@ mentions:
   - cuisine/cajun/jambalaya
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/cajun-spice-mix
 ingredients:
   - qty: 600
     unit: g

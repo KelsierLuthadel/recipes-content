@@ -22,6 +22,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 250
     unit: g

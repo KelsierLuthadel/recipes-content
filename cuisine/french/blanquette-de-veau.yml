@@ -21,6 +21,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/sugar-work/caramel
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 1
     unit: kg

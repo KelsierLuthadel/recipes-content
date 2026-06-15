@@ -15,6 +15,9 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/sri-lankan/kottu-roti
+  - cuisine/sri-lankan/side-dishes/beetroot-curry
+  - cuisine/sri-lankan/side-dishes/cashew-curry
 ingredients:
   - qty: 6
     unit: tbsp

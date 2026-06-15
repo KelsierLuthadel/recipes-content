@@ -24,6 +24,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 800
     unit: g

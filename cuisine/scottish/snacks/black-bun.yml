@@ -19,6 +19,7 @@ mentions:
   - tutorials/distilling-spirits/whisky
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 400
     unit: g

@@ -19,6 +19,9 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/ethiopian/atakilt-wat
+  - cuisine/ethiopian/key-wat
+  - cuisine/ethiopian/shiro-wat
 ingredients:
   - qty: 10
     name: red chillies

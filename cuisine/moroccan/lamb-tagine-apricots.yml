@@ -25,6 +25,7 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/ras-el-hanout
 ingredients:
   - qty: 1
     unit: kg

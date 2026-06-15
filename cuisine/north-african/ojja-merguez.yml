@@ -24,6 +24,7 @@ mentions:
   - tutorials/charcuterie/sausages
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
 ingredients:
   - qty: 400
     unit: g

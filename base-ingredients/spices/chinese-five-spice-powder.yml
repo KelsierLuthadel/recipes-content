@@ -11,6 +11,12 @@ mentions:
   - tutorials/bbq/ribs
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/chinese/cantonese-bbq-chicken
+  - cuisine/chinese/char-siu
+  - cuisine/chinese/sichuan-pepper-beef
+  - cuisine/chinese/snacks/jian-bing
+  - cuisine/mauritian/cari-poulet-hakka
+  - cuisine/taiwanese/lu-rou-fan
 ingredients:
   - qty: 6
     name: star anise pods
