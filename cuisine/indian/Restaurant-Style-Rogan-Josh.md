@@ -34,9 +34,9 @@ Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked 
 - 0.5 tsp coriander seeds
 
 ### Spice
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 2 tsp Kashmiri chilli powder
-- 0.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 0.5 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 1 tsp paprika
 - 0.25 to 0.5 tsp salt
 - a pinch of freshly ground black pepper
@@ -53,7 +53,7 @@ Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked 
 - 1 tbsp ghee (or unsalted butter)
 - 6 whole cherry tomatoes (or 2 small-medium tomatoes cut into quarters)
 - 1.5 tbsp finely chopped fresh coriander leaves
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - about 40 ml extra base gravy
 - a splash of water for deglazing
 

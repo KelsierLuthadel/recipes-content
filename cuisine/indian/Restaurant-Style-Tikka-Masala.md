@@ -27,8 +27,8 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 - 1.5 tsp ginger-garlic paste
 
 ### Spice
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 0.25 to 0.5 tsp salt
 
 ### Tomato Base
@@ -38,7 +38,7 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 
 ### Sauce
 - 330 ml+ [Curry Base Gravy](Base/curry-base.md), heated through
-- 1.5 tbsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 1.5 tbsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 3 tbsp coconut powder or flour
 - 1.5 tbsp ground almonds
 - a pinch of red food colour (optional, cosmetic)

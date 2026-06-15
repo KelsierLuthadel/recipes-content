@@ -9,9 +9,15 @@ tags:
   - spices
   - ginger
   - coriander
+regions:
+  - moroccan
+  - north-african
 mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/moroccan/couscous-royale
+  - cuisine/moroccan/lamb-tagine-apricots
+  - cuisine/moroccan/vegetable-tagine
 ingredients:
   - qty: 2
     unit: tsp

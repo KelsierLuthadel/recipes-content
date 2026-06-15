@@ -23,7 +23,7 @@ Chakalaka is the spiced South African relish that turns up alongside every braai
 - 2 red bell peppers (chopped)
 - 1 green bell pepper (chopped)
 - 2-3 long green chillies (sliced)
-- 2 tablespoons mild [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
+- 2 tablespoons mild [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon paprika
 - 1 teaspoon dried thyme

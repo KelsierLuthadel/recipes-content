@@ -13,7 +13,7 @@
 ## Overview
 "Adrak" is Hindi for ginger, and this curry treats the root not just as a base aromatic (where it normally sits in ginger-garlic paste) but as a distinct ingredient. Just over a tablespoon of fresh ginger goes in cubed rather than minced, so the pieces stay identifiable as you eat, bright, hot, slightly fibrous chunks dotted through a medium-spiced sauce. A small reserve of ginger gets held back for the plate, layering a final raw note over the cooked dish.
 
-The build is otherwise familiar BIR territory: cassia, green cardamom seeds, optional star anise or fennel, softened onion and green pepper, [Mix Powder](Spice-Mixes/mixed-powder.md), three-pour [Curry Base Gravy](Base/curry-base.md). What pushes the dish past simple "ginger curry" is the fruit pairing, pineapple chunks (optional but recommended) and mango chutney both go in with the final gravy pour, giving the sauce a sweet-tart edge that plays well against the pungent ginger.
+The build is otherwise familiar BIR territory: cassia, green cardamom seeds, optional star anise or fennel, softened onion and green pepper, [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md), three-pour [Curry Base Gravy](Base/curry-base.md). What pushes the dish past simple "ginger curry" is the fruit pairing, pineapple chunks (optional but recommended) and mango chutney both go in with the final gravy pour, giving the sauce a sweet-tart edge that plays well against the pungent ginger.
 
 Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the half-centimetre cubes; young ginger with thin skin is the ideal.
 
@@ -35,9 +35,9 @@ Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the 
 
 ### Spice
 - 1 tsp kasuri methi
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.75 tsp Kashmiri chilli powder (or regular chilli powder)
-- a pinch of [Garam Masala](Spice-Mixes/garam-masala.md) (about an eighth of a tsp)
+- a pinch of [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md) (about an eighth of a tsp)
 - 0.25 to 0.5 tsp salt
 
 ### Sauce

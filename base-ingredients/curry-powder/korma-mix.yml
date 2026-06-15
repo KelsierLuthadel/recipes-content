@@ -6,8 +6,9 @@ tags:
   - dairy-free
   - gluten-free
   - quick
-  - asian
-  - spices
+  - curry
+regions:
+  - indian
 mentions:
   - tutorials/spices/storage
 ingredients:

@@ -28,7 +28,7 @@ The dish is unusual within the BIR canon in two ways. First, the seed temper is 
 - 1 tbsp ginger-garlic paste
 
 ### Spice
-- 2 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 2 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp kasuri methi
 - 1 tbsp Kashmiri chilli powder
 - 0.5 to 2 tsp regular chilli powder (to taste)

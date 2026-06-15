@@ -12,11 +12,36 @@ tags:
   - spices
   - onion
   - garlic
+regions:
+  - cajun
 mentions:
   - cuisine/cajun/jambalaya
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/american/cajun-dirty-rice
+  - cuisine/american/hamburger-steaks
+  - cuisine/american/side-dishes/loaded-fries
+  - cuisine/cajun/crawfish-etouffee
+  - cuisine/cajun/dirty-rice
+  - cuisine/cajun/snacks/andouille-skewers
+  - cuisine/cajun/snacks/crawfish-pies
+  - cuisine/creole/snacks/boudin-balls
+  - cuisine/creole/snacks/crawfish-pie
+  - cuisine/louisiana/boudin-balls
+  - cuisine/louisiana/chicken-andouille-gumbo
+  - cuisine/louisiana/chicken-fricassee-creole
+  - cuisine/louisiana/crawfish-etouffee
+  - cuisine/louisiana/crawfish-pie
+  - cuisine/louisiana/fried-catfish-louisiana
+  - cuisine/louisiana/jambalaya-creole
+  - cuisine/louisiana/red-beans-and-rice
+  - cuisine/louisiana/seafood-gumbo
+  - cuisine/louisiana/side-dishes/dirty-rice
+  - cuisine/louisiana/side-dishes/maque-choux
+  - cuisine/louisiana/snacks/crab-cakes-creole
+  - cuisine/louisiana/snacks/fried-pickles
+  - cuisine/louisiana/snacks/remoulade-sauce
 ingredients:
   - qty: 1
     name: onion

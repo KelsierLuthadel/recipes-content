@@ -8,9 +8,16 @@ tags:
   - gluten-free
   - quick
   - spices
+regions:
+  - lebanese
+  - jordan
+  - syria
 mentions:
   - cuisine/lebanese/side-dishes/labneh
   - tutorials/spices/storage
+  - cuisine/jordan/side-dishes/shanklish
+  - cuisine/jordan/snacks/manakish-mini
+  - cuisine/syria/side-dishes/manakish-zaatar
 ingredients:
   - qty: 4
     unit: tbsp

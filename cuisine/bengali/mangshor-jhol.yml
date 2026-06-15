@@ -26,6 +26,8 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 1
     unit: kg

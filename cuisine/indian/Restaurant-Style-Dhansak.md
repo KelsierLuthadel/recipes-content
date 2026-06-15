@@ -28,7 +28,7 @@ A dhansak should land thick. The pre-cooked dhal contributes most of the body, s
 
 ### Spice
 - 1 tsp kasuri methi
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 to 0.5 tsp chilli powder
 - 0.25 tsp salt (less than usual; the dhal carries its own salt)
 

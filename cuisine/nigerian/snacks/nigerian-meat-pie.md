@@ -29,7 +29,7 @@ Nigeria's bus-stop pasty, sold from every roadside cart and snack shop across th
 - 1 onion (large, finely diced)
 - 3 garlic cloves (crushed)
 - 400 g beef mince
-- 1 tablespoon [Curry Powder](../../indian/Spice-Mixes/curry-powder.md) (Nigerian-style yellow)
+- 1 tablespoon [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md) (Nigerian-style yellow)
 - 1 teaspoon dried thyme
 - 1 stock cube (Maggi)
 - ½ teaspoon salt

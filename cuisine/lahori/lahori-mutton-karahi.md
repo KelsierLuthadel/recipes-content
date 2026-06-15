@@ -46,7 +46,7 @@ The Lahori roadside karahi as cooked at the kebab shops of Lakshmi Chowk: bone-i
 - 4 fresh green chillies (slit lengthways)
 - 30 g fresh ginger (cut into matchsticks)
 - A handful of fresh coriander (chopped)
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon crushed kasuri methi (dried fenugreek)
 - 1 tablespoon butter (or ghee, for the surface slick)
 

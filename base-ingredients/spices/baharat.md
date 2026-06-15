@@ -6,10 +6,10 @@
 
 **Prep Time:** 10 minutes
 
-**Yield:** Approximately 115 grams (makes 20+ portions)
+**Yield:** Approximately 115 grams
 
 ## Overview
-Baharat is the building block of Eastern Mediterranean and Arabian cooking, the classic seven-spice mix you stir into kibbeh, shoulder lamb stews, lamb kofta, spiced rice and slow-braised meat dishes from Lebanon, Jordan, Syria, Egypt and the Gulf. The word "baharat" means "spices" in Arabic, and the blend reflects the historical spice trade running across the region: cinnamon from Sri Lanka, cardamom from India, peppercorns from Indonesia, cloves from Zanzibar, then balanced with local paprika and allspice. The character is warm and aromatic with peppery depth rather than fiery heat; this is a foundational blend cooked into the dish rather than scattered over the finished plate. Build it in three stages. First, grind the cinnamon stick separately because it's harder than the other spices and needs its own treatment; broken into 1 cm pieces and pulsed in a spice grinder till fine, then set aside. Second, dry-roast the coriander seeds, cumin seeds, cardamom seeds, cloves and black peppercorns in a hot dry pan for 4 to 5 minutes till deeply fragrant and visibly darker. Tip onto a cool plate to halt the roast, cool to room temperature, then grind to a fine powder. Third, combine the ground roasted spices with the cinnamon powder, paprika, allspice, freshly grated nutmeg, chilli powder and salt; mix thoroughly for a couple of minutes till the colour is uniform. Use freshly grated nutmeg and freshly opened paprika if you can, both lose potency fast once exposed to air. Store in a sealed glass jar in a cool dark place; the colour fades with light, so a dark jar or cupboard is best. Use 1 to 2 teaspoons per portion, bloomed in hot oil at the start of cooking.
+Baharat is the seven-spice backbone of Eastern Mediterranean and Gulf cooking, the warm aromatic blend you stir into kibbeh, lamb kofta, slow-braised shoulder stews and spiced pilafs from Lebanon, Jordan, Syria, Egypt and the Arabian peninsula. The word simply means "spices" in Arabic, and the character is peppery and fragrant rather than fiery; this is a foundation cooked into the dish, not a finishing scatter. Build it in three stages: grind the cinnamon stick alone because it's harder than the rest, dry-roast the seeds and peppercorns till the kitchen fills with their smell, then grind them and stir through paprika, nutmeg, allspice and salt. Bloom 1 to 2 teaspoons in hot oil at the start of cooking.
 
 ## Ingredients
 
@@ -17,8 +17,8 @@ Baharat is the building block of Eastern Mediterranean and Arabian cooking, the 
 - 1 cinnamon stick (broken into small pieces)
 - 2 tablespoons coriander seeds
 - 2 tablespoons cumin seeds
-- 6 tablespoons cardamom seeds (or 12 green cardamom pods)
-- 2 tablespoons cloves
+- 1 teaspoon cardamom seeds (or 12 green cardamom pods, seeds extracted)
+- 2 teaspoons cloves
 - 2 tablespoons black peppercorns
 
 ### Pre-Ground Spices to Add After Roasting

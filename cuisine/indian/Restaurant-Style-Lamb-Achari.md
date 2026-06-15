@@ -23,7 +23,7 @@
 - 0.25 tsp fenugreek seeds
 - 0.5 tsp black cumin seeds (see Notes)
 - 0.5 tsp kalonji (nigella) seeds
-- alternatively: 2.5 tsp [Panch Poran](Spice-Mixes/panch-poran.md) in place of the four seed measures above
+- alternatively: 2.5 tsp [Panch Poran](../../base-ingredients/spices/panch-poran.md) in place of the four seed measures above
 
 ### Aromatics
 - 75 to 100 g onion, sliced into thin semi-circular rings
@@ -32,7 +32,7 @@
 ### Spice
 - 1 tsp kasuri methi
 - 1.5 tsp Kashmiri chilli powder (or 0.75 tsp regular chilli powder)
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 tsp salt (light, pickles bring their own; see Notes)
 
 ### Sauce

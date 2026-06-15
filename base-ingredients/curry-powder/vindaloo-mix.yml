@@ -7,9 +7,10 @@ tags:
   - gluten-free
   - spicy
   - quick
-  - asian
-  - spices
   - coriander
+  - curry
+regions:
+  - indian
 mentions:
   - cuisine/indian/BIR-Chicken-Vindaloo
   - tutorials/middle-eastern-fundamentals/spices

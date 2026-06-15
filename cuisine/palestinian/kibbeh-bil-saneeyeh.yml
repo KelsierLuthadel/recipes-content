@@ -24,6 +24,7 @@ mentions:
   - cuisine/middle-east/kibbeh
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 200
     unit: g

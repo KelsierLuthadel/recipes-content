@@ -31,7 +31,7 @@ The samosa is India's most loved tea-time snack and one of the most travelled pa
 - 2 green chillies (finely chopped)
 - 1 teaspoon coriander seeds (lightly crushed)
 - 1 teaspoon ground cumin
-- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ½ teaspoon ground turmeric
 - 1 ½ teaspoons amchur (dried mango powder)
 - ½ teaspoon Kashmiri chilli powder

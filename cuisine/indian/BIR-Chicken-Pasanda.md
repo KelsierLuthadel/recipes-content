@@ -33,7 +33,7 @@ BIR chicken pasanda is the mild creamy almond-and-coconut curry the restaurant m
 
 ### Finishers
 - 100 ml (scant ½ cup) single (light) cream
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ## Method
 

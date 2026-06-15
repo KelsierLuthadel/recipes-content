@@ -29,8 +29,8 @@ Garlic chilli chicken sits in the medium-hot end of the BIR menu, distinguished 
 ### Spice
 - 1 tsp kasuri methi
 - 1 tsp chilli powder
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 0.25 to 0.5 tsp salt
 
 ### Sauce

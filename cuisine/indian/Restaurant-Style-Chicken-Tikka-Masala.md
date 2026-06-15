@@ -23,8 +23,8 @@ Chicken tikka masala is, depending on which origin story you believe, either Gla
 - 1.5 tsp ginger-garlic paste
 
 ### Spice
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 0.25 to 0.5 tsp salt
 
 ### Tomato Base
@@ -34,7 +34,7 @@ Chicken tikka masala is, depending on which origin story you believe, either Gla
 
 ### Sauce
 - 330 ml+ [Curry Base Gravy](Base/curry-base.md), heated through
-- 1.5 tbsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md) (see Notes)
+- 1.5 tbsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md) (see Notes)
 - 3 tbsp coconut powder or flour
 - 1.5 tbsp ground almonds (almond powder)
 - a pinch of red food colour (optional, cosmetic)

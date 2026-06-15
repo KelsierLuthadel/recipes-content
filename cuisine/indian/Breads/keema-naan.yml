@@ -23,6 +23,8 @@ mentions:
   - tutorials/bread/proving
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 450
     unit: g

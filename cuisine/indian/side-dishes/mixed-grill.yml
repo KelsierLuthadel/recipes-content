@@ -23,6 +23,7 @@ mentions:
   - cuisine/indian/sauces-pickles/mint-raita
   - cuisine/indian/side-dishes/tandoori-king-prawn
   - tutorials/spices/storage
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 3.5
     name: tandoori chicken tikka per person

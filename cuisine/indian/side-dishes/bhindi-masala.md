@@ -26,7 +26,7 @@ Bhindi masala is the North Indian okra side dish, the one that takes the vegetab
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric
 - 1 teaspoon amchur (dried mango powder, or 2 teaspoons lemon juice at the end)
-- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon salt (to taste)
 
 ### To serve

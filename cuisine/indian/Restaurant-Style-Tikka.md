@@ -26,7 +26,7 @@
 - 2 tsp coriander seeds, freshly toasted and ground
 - 1 tsp cumin seeds, freshly toasted and ground
 - 0.5 tsp fenugreek seeds, ground
-- 3.5 tbsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 3.5 tbsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 1 tsp turmeric
 - 1 tsp Kashmiri chilli powder
 - 1 tbsp paprika

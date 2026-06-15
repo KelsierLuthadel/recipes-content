@@ -26,7 +26,7 @@ Agra's ginger chicken is a North Indian home-cook's curry from the Taj Mahal's c
 - 2 cinnamon sticks
 
 ### Ground spices
-- 3 tbsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 3 tbsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - ½ tsp ground turmeric
 - ¼ tsp chilli powder
 

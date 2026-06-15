@@ -23,6 +23,7 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/creole-mix
 ingredients:
   - qty: 1.5
     unit: kg

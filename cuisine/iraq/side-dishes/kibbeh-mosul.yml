@@ -21,6 +21,7 @@ mentions:
   - cuisine/middle-east/side-dishes/fattoush
   - cuisine/syria/side-dishes/fattoush
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 300
     unit: g

@@ -32,7 +32,7 @@ The name dopiaza literally means "two onions" (do = two, piaza = onion), and tha
 - 1.5 tsp ginger-garlic paste
 
 ### Spice
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 tsp chilli powder
 - 0.25 to 0.5 tsp salt
 - 0.5 tsp kasuri methi (the rest of the teaspoon)

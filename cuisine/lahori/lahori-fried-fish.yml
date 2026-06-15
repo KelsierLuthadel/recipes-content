@@ -20,6 +20,7 @@ tags:
 mentions:
   - tutorials/charcuterie/smoking
   - tutorials/spices/storage
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 600
     unit: g

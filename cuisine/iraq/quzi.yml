@@ -25,6 +25,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 2
     unit: kg

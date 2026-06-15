@@ -13,10 +13,14 @@ tags:
   - coriander
   - curry
   - complex
+regions:
+  - indian
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - base-ingredients/curry-paste/balti-masala-paste
+  - stocks/balti-chicken-stock
 ingredients:
   - qty: 4
     unit: tbsp

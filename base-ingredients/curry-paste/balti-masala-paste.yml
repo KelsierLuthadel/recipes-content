@@ -9,9 +9,13 @@ tags:
   - quick
   - pastes
   - curry
+regions:
+  - indian
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - stocks/balti-chicken-stock
+  - base-ingredients/curry-powder/balti-masala
 ingredients:
   - qty: 200
     unit: g

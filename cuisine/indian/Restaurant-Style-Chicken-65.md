@@ -21,11 +21,11 @@ Chicken 65 is one of the most-debated origin stories in South Indian cooking. Th
 - 1.5 tsp ginger-garlic paste
 - 1 tsp lemon juice
 - 0.5 tsp salt
-- 0.5 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 0.5 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp Kashmiri chilli powder
 - 1 tsp fennel seeds
 - 1 tsp paprika
-- 1.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md) powder, or 1 tsp tandoori masala paste (commercial)
+- 1.5 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md) powder, or 1 tsp tandoori masala paste (commercial)
 
 ### Battered Chicken, Coating
 - 3 to 4 tbsp cornflour
@@ -46,10 +46,10 @@ Chicken 65 is one of the most-debated origin stories in South Indian cooking. Th
 
 ### Sauce, Spice
 - 1 tsp kasuri methi
-- 1.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md) powder, or 1 tsp paste
+- 1.5 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md) powder, or 1 tsp paste
 - 0.25 to 0.5 tsp turmeric
 - 1 tsp ground coriander (freshly toasted and ground is best)
-- 1 tsp curry powder (mild Madras-style works well, see [Madrass Mix](Spice-Mixes/madrass-mix.md))
+- 1 tsp curry powder (mild Madras-style works well, see [Madrass Mix](../../base-ingredients/curry-powder/madras-mix.md))
 - 1 tsp paprika
 - 1 tsp Kashmiri chilli powder
 - 0.25 tsp salt

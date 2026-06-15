@@ -21,6 +21,9 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-paste/thai-red-paste-southern
+  - base-ingredients/curry-paste/thai-red-paste-traditional
+  - base-ingredients/curry-paste/thai-red-paste
 ingredients:
   - qty: 2
     unit: tsp

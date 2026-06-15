@@ -23,6 +23,7 @@ mentions:
   - cuisine/arabian/kabsa
   - cuisine/yemen/mandi
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 1.2
     unit: kg

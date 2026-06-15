@@ -34,9 +34,9 @@ The mix is forgiving: leftover [Pre-Cooked Chicken](Base/pre-cooked-chicken.md),
 
 ### Spice
 - 0.5 tsp salt
-- 1 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 tsp turmeric
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ### Finish
 - 1 egg

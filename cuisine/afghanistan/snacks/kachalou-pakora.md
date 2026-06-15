@@ -45,7 +45,7 @@ Kachalou pakora are Afghan-style battered potato slices, fried crisp and dusted 
 - 2 tablespoons Greek yogurt (optional, for a creamier chutney)
 
 ### To finish
-- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md) (sold at Indian shops)
+- 1 teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md) (sold at Indian shops)
 - Lime wedges
 
 ## Method

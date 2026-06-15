@@ -11,8 +11,9 @@ tags:
   - quick
   - spices
   - chili
+regions:
+  - mexican
 mentions:
-  - base-ingredients/marinade/fajita
   - cuisine/mexican/snacks/guacamole
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce

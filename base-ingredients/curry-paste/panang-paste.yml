@@ -8,7 +8,6 @@ tags:
   - dairy-free
   - gluten-free
   - spicy
-  - asian
   - pastes
   - fish
   - prawn
@@ -19,11 +18,14 @@ tags:
   - nuts
   - chili
   - curry
+regions:
+  - thai
 mentions:
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/thai-curry/panang
+  - cuisine/thai/beef-panang
 ingredients:
   - qty: 1
     name: cumin seeds

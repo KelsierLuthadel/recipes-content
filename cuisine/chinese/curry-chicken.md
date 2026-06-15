@@ -25,7 +25,7 @@ Chinese curry chicken is a far quieter dish than its Indian or Thai cousins: a l
 
 ### Sauce
 - 70 ml Chinese chicken stock
-- 2 teaspoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (or curry paste)
+- 2 teaspoons [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (or curry paste)
 - 1 teaspoon sugar
 - 2 teaspoons dry sherry (or rice wine)
 - 1 tablespoon light soy sauce

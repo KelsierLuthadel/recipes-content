@@ -10,15 +10,38 @@ tags:
   - gluten-free
   - spicy
   - quick
-  - asian
-  - spices
   - coriander
   - chili
   - curry
+regions:
+  - indian
 mentions:
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/mixed-powder
+  - cuisine/australian/charcoal-chicken-skewers
+  - cuisine/chinese/curry-chicken
+  - cuisine/danish/hot-dog-med-det-hele
+  - cuisine/french/side-dishes/lightly-curried-seafood-flan
+  - cuisine/indian/Restaurant-Style-Chicken-65
+  - cuisine/indonesian/indonesian-meatballs
+  - cuisine/indonesian/snacks/martabak-telur
+  - cuisine/jamaican/caribbean-curry
+  - cuisine/maltese/snacks/pastizzi
+  - cuisine/mozambique/side-dishes/chamucas
+  - cuisine/nigerian/jollof-rice-with-chicken
+  - cuisine/nigerian/snacks/asun
+  - cuisine/nigerian/snacks/fish-roll
+  - cuisine/nigerian/snacks/nigerian-meat-pie
+  - cuisine/southern/country-captain
+  - cuisine/thai/soup/khao-soi
+  - cuisine/thai/yellow-chicken-curry
+  - cuisine/trinidadian/bunjay-curry-chicken
+  - cuisine/trinidadian/curry-smelts
+  - cuisine/zimbabwe/huku-ne-dovi
+  - sauces/fruit-sauce/fruit-curry-sauce
+  - sauces/sauce-fish/curried-mussel-sauce
 ingredients:
   - qty: 6
     unit: tbsp

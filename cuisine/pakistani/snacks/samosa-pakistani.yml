@@ -32,6 +32,8 @@ mentions:
   - cuisine/indian/snacks/samosa
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 400
     unit: g

@@ -6,14 +6,16 @@ tags:
   - gluten-free
   - curry
 mentions:
+  - base-ingredients/curry-powder/bir-base-powder
+  - base-ingredients/curry-powder/madras-mix
   - cuisine/indian/BIR-Chicken-Dhansak
   - cuisine/indian/BIR-Chicken-Jalfrezi
   - cuisine/indian/BIR-Chicken-Korma
   - cuisine/indian/BIR-Chicken-Vindaloo
-  - cuisine/indian/Spice-Mixes/base-curry-powder
-  - cuisine/indian/Spice-Mixes/madrass-mix
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 500
     unit: ml

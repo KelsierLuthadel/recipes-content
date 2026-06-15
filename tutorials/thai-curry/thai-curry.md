@@ -37,8 +37,8 @@ The course refers back to these:
 - [Thai Green Curry Paste](../../base-ingredients/curry-paste/thai-green-paste.md)
 - [Thai Red Curry Paste](../../base-ingredients/curry-paste/thai-red-paste.md)
 - [Massaman Curry Paste](../../base-ingredients/curry-paste/masaman-paste.md)
-- [Panang Curry Paste](../../cuisine/thai/pastes/panang-curry-paste.md)
-- [Thai Yellow Curry Paste](../../cuisine/thai/pastes/thai-yellow-curry-paste.md)
+- [Panang Curry Paste](../../base-ingredients/curry-paste/panang-paste.md)
+- [Thai Yellow Curry Paste](../../base-ingredients/curry-paste/thai-yellow-paste.md)
 
 ## The Finished Curries
 

@@ -21,6 +21,7 @@ mentions:
   - tutorials/pastry/filo
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
 ingredients:
   - qty: 400
     unit: g

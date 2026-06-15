@@ -27,7 +27,7 @@ Lahore's chargrilled beef cubes from the kebab stalls of Gawalmandi and Anarkali
 ### Second marinade
 - 200 g natural yogurt (thick; strained if loose)
 - 1 tablespoon Kashmiri chilli powder
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric

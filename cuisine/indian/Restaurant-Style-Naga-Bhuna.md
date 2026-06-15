@@ -30,10 +30,10 @@ Bhuna and naga sit on opposite ends of the BIR temperament chart. A bhuna is def
 - 1.5 to 2 tsp ginger-garlic paste
 
 ### Spice
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp extra-hot chilli powder, or Deggi Mirch
 - 1 tsp Kashmiri chilli powder
-- 1 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 1 tsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 1 tsp kasuri methi
 - 0.25 to 0.5 tsp salt
 

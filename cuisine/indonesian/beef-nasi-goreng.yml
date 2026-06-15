@@ -26,6 +26,7 @@ mentions:
   - cuisine/chinese/fried-rice
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/sambal/sambal-oelek
 ingredients:
   - qty: 2
     unit: tbsp

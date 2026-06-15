@@ -13,7 +13,8 @@ tags:
   - eggs
   - butter
   - cheese
-mentions: []
+mentions:
+  - base-ingredients/sauces/harissa
 ingredients:
   - qty: 75
     unit: g

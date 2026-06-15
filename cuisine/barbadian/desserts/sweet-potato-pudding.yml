@@ -24,6 +24,7 @@ mentions:
   - tutorials/cocktails/equipment
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 1
     unit: kg

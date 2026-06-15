@@ -6,10 +6,10 @@
 
 **Prep Time:** 10 minutes
 
-**Yield:** Each recipe makes approximately 120-130 grams
+**Yield:** 120-130 grams
 
 ## Overview
-Aromatic salt is the building block for finishing Balti and British-Indian dishes, the salt you keep in a small jar by the stove for scattering over a finished curry, naan or bowl of rice when you want to add a soft spice note in addition to seasoning. There are two versions worth keeping, both built on coarse sea salt as the base (the larger granule size keeps the spices distributed and stops the blend caking into a brick over time). The light version is just sea salt with ground cinnamon, allspice and an optional pinch of ginger, blended together and used as a gentle warming finish. The spicy version adds ground fenugreek, dried mint, turmeric, chilli powder and ground almond to the same base, and that almond addition is the trick (it adds quiet sweetness and just enough body to make the salt cling to whatever you sprinkle it onto). Tip the coarse sea salt into a bowl, add the chosen spices and herbs, then stir for a full two or three minutes till the colour goes uniform and there are no clumps. The spicy version takes a yellow-gold tint from the turmeric, which is correct. Make sure the dried mint is finely crushed (large mint flakes turn unpleasant in the mouth), and finely grind the fenugreek before adding (whole seeds are too hard to bite). Transfer to an airtight glass jar, label with the version name and date, and store somewhere cool and dry away from direct light; the salt itself is preservative but the spices and the almonds in the spicy version gradually oxidise, so the light version keeps 8 to 10 months and the spicy version 6 to 8.
+Aromatic salt is the finishing salt for Balti and British-Indian dishes, kept in a small jar by the stove for scattering over a curry, naan or bowl of rice. Two versions are worth keeping, both built on coarse sea salt (the larger granules keep spices distributed and stop the blend caking). The light version is salt with ground cinnamon, allspice and optional ginger, used as a gentle warming finish. The spicy version adds fenugreek, dried mint, turmeric, chilli powder and ground almond; the almond is the trick, adding quiet sweetness and enough body to make the salt cling. Stir everything for two or three minutes till uniform. Crush the dried mint fine and grind the fenugreek first. Store airtight away from light: the light version keeps 8 to 10 months, the spicy version 6 to 8.
 
 ## Ingredients
 

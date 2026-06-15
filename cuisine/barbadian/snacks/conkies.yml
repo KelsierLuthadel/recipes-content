@@ -21,6 +21,7 @@ mentions:
   - cuisine/jamaican/snacks/festival
   - tutorials/cocktails/equipment
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 400
     unit: g

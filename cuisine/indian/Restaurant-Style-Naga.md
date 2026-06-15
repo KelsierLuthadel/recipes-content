@@ -13,7 +13,7 @@
 ## Overview
 A specialist dish from the hotter end of the BIR menu, defined by Mr Naga, the fermented chilli pickle made from Bhut Jolokia and related super-hots. The pickle goes in late so its fruity, slightly funky character survives the cook; honey or jaggery joins it at the end to soften the edge and pull the dish out of brute-force territory.
 
-The base build is standard restaurant practice: cumin in hot oil, ginger-garlic paste, chilli powder and [Mix Powder](Spice-Mixes/mixed-powder.md) tempered with a splash of [Curry Base Gravy](Base/curry-base.md), then tomato paste cooked back to oil-separation before the [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) (or [Pre-Cooked Lamb](Base/pre-cooked-lamb.md), or vegetables) joins the pan. The remainder of the base gravy goes in three additions so the sauce reduces and caramelises in waves.
+The base build is standard restaurant practice: cumin in hot oil, ginger-garlic paste, chilli powder and [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md) tempered with a splash of [Curry Base Gravy](Base/curry-base.md), then tomato paste cooked back to oil-separation before the [Pre-Cooked Chicken](Base/pre-cooked-chicken.md) (or [Pre-Cooked Lamb](Base/pre-cooked-lamb.md), or vegetables) joins the pan. The remainder of the base gravy goes in three additions so the sauce reduces and caramelises in waves.
 
 ---
 
@@ -27,7 +27,7 @@ The base build is standard restaurant practice: cumin in hot oil, ginger-garlic 
 
 ### Spice
 - 1 tsp extra-hot chilli powder (or 2 tsp regular chilli powder)
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 to 0.5 tsp salt
 
 ### Sauce

@@ -32,6 +32,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - base-ingredients/curry-powder/tandoori-masala
 ingredients:
   - qty: 3
     name: garlic cloves

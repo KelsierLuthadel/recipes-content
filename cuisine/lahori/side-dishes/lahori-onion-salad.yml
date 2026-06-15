@@ -17,6 +17,7 @@ mentions:
   - cuisine/indian/side-dishes/onion-salad
   - tutorials/cocktails/garnish
   - tutorials/spices/storage
+  - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 2
     name: red onions

@@ -31,7 +31,7 @@ Flat, crisp-edged minced beef patties from the Khyber-Peshawari kitchens that La
 - ½ teaspoon ground black pepper
 - 1 teaspoon Kashmiri chilli powder
 - 1 teaspoon salt (to taste)
-- ¼ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- ¼ teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ### To cook
 - 4 tablespoons beef dripping (or vegetable oil), for shallow-frying

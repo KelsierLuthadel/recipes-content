@@ -33,7 +33,7 @@ BIR chicken chasni is the Glasgow-Punjabi sweet curry, a smooth pale-orange sauc
 - Salt, to taste
 - 1-2 lemons, to taste (juice)
 - Bright red food colouring powder (optional)
-- ½ tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- ½ tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 3 tbsp very finely chopped coriander (fresh coriander)
 
 ## Method

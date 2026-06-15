@@ -17,7 +17,7 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 
 ### Chicken
 - 1.4 kg chicken pieces (drumsticks, thighs, breasts cut in half, bone-in, skin-on)
-- 2 tablespoons [Curry Powder](../indian/Spice-Mixes/curry-powder.md) (Nigerian-style if possible)
+- 2 tablespoons [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (Nigerian-style if possible)
 - 2 teaspoons dried thyme
 - 2 stock cubes (Maggi or knorr)
 - 1 onion (large, chopped)
@@ -38,7 +38,7 @@ West Africa's most-argued-over party rice and the dish that fires up cross-borde
 - 100 ml vegetable oil (palm oil for a more traditional flavour, vegetable oil for a lighter version)
 - 1 onion (large, sliced)
 - 4 tablespoons tomato paste
-- 1 tablespoon [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
+- 1 tablespoon [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon dried thyme
 - 4 bay leaves
 - 1 teaspoon dried oregano

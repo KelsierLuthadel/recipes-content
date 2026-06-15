@@ -22,6 +22,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/rice/boiled-rice
   - tutorials/spices/storage
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 3
     unit: tbsp

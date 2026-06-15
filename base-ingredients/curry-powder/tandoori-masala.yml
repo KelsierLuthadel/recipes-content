@@ -1,57 +1,71 @@
-prep: 10 minutes
+prep: 8 minutes
+cook: 2 minutes
 allergens:
+  - mustard
   - garlic
 tags:
   - vegetarian
   - vegan
   - dairy-free
   - gluten-free
-  - spicy
   - quick
+  - ginger
   - coriander
   - curry
+regions:
+  - indian
 mentions:
-  - base-ingredients/curry-powder/balti-masala
   - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - cuisine/indian/BIR-Chicken-Ceylon
+  - cuisine/indian/BIR-chicken-chilli-garlic
+  - cuisine/indian/BIR-Lamb-bhuna
+  - cuisine/indian/Restaurant-Style-Chicken-Chilli-Masala
+  - cuisine/indian/Restaurant-Style-Chicken-Tikka-Masala
+  - cuisine/indian/Restaurant-Style-Lavastorm
+  - cuisine/indian/Restaurant-Style-Naga-Bhuna
+  - cuisine/indian/Restaurant-Style-Rogan-Josh
+  - cuisine/indian/Restaurant-Style-Tikka
+  - cuisine/indian/Restaurant-Style-Tikka-Masala
 ingredients:
+  - qty: 3
+    unit: tbsp
+    name: coriander seeds
+    raw: 3 tbsp coriander seeds
+  - qty: 3
+    unit: tbsp
+    name: cumin seeds
+    raw: 3 tbsp cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: black mustard seeds
+    raw: 1 tbsp black mustard seeds
+  - qty: 5
+    name: cinnamon stick or cassia bark
+    raw: 5cm piece of cinnamon stick or cassia bark
+  - name: mace
+    raw: Small piece of mace
+  - qty: 3
+    name: indian bay leaves
+    raw: 3 dried Indian bay leaves
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp ground ginger
   - qty: 2
     unit: tbsp
-    name: coriander
-    raw: 2 tablespoons ground coriander
-  - qty: 5
-    unit: tsp
-    name: cumin
-    raw: 5 teaspoons ground cumin
-  - qty: 5
-    unit: tsp
     name: garlic powder
-    raw: 5 teaspoons garlic powder
-  - qty: 5
-    unit: tsp
-    name: paprika
-    raw: 5 teaspoons paprika
-  - qty: 4
-    unit: tsp
-    name: mango powder
-    raw: 4 teaspoons mango powder
-  - qty: 6
-    unit: tsp
-    name: mint
-    raw: 6 teaspoons dried mint
-  - qty: 3
-    unit: tsp
-    name: chilli powder
-    raw: 3 teaspoons chilli powder
-  - qty: 4
-    unit: tsp
-    name: beetroot powder
-    raw: 4 teaspoons beetroot powder
+    raw: 2 tbsp garlic powder
   - qty: 2
-    unit: tsp
-    name: annatto seed powder
-    raw: 2 teaspoons annatto seed powder
+    unit: tbsp
+    name: onion powder
+    raw: 2 tbsp dried onion powder
   - qty: 2
-    unit: tsp
-    name: sea salt
-    raw: 2 teaspoons fine sea salt
+    unit: tbsp
+    name: amchoor
+    raw: 2 tbsp amchoor
+  - qty: 1
+    unit: tbsp
+    name: red food colouring powder
+    raw: 1 tbsp red food colouring powder

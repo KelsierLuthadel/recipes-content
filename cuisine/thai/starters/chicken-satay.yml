@@ -26,6 +26,9 @@ mentions:
   - tutorials/charcuterie/smoking
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-paste/thai-red-paste-southern
+  - base-ingredients/curry-paste/thai-red-paste-traditional
+  - base-ingredients/curry-paste/thai-red-paste
 ingredients:
   - qty: 1
     unit: kg

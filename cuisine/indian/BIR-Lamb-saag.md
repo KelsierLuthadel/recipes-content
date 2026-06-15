@@ -27,7 +27,7 @@ BIR lamb saag is the restaurant version of the classic Punjabi saag gosht, a bri
 - 3 tbsp finely chopped coriander stalks
 - 1 tbsp ground cumin
 - 1 tbsp ground coriander
-- 1 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 1 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1 tsp chilli powder
 - 180 ml (¾ cup) tomato purée
 
@@ -39,7 +39,7 @@ BIR lamb saag is the restaurant version of the classic Punjabi saag gosht, a bri
 ### Finishers
 - 2 tbsp plain yoghurt
 - 1 lemon (juice)
-- 1 tbsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tbsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ## Method
 

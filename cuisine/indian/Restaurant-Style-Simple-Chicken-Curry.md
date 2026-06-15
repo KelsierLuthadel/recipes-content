@@ -29,7 +29,7 @@ This sits apart from the rest of the Restaurant-Style series. The others all bui
 - 1.5 tsp ground cumin (only if you didn't use seeds above)
 
 ### Spice
-- 1.5 tbsp curry powder of your choice, see [Curry Powder](Spice-Mixes/curry-powder.md), [Madrass Mix](Spice-Mixes/madrass-mix.md), [Base Curry Powder](Spice-Mixes/base-curry-powder.md), or a shop-bought blend
+- 1.5 tbsp curry powder of your choice, see [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md), [Madrass Mix](../../base-ingredients/curry-powder/madras-mix.md), [Base Curry Powder](../../base-ingredients/curry-powder/bir-base-powder.md), or a shop-bought blend
 - 2 to 3 tsp chilli powder, to taste (optional)
 - 1.5 tsp kasuri methi (dried fenugreek leaves), optional
 
@@ -45,7 +45,7 @@ This sits apart from the rest of the Restaurant-Style series. The others all bui
 ### Finish
 - pre-cooked vegetables of choice (optional)
 - a pinch of fresh coriander
-- a pinch of [Garam Masala](Spice-Mixes/garam-masala.md)
+- a pinch of [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ---
 

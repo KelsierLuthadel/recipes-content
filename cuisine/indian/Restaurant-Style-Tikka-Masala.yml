@@ -7,6 +7,7 @@ allergens:
   - garlic
 tags:
   - vegetarian
+  - spicy
   - quick
   - make-ahead
   - meals
@@ -28,6 +29,9 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+  - base-ingredients/curry-powder/tandoori-masala
 ingredients:
   - qty: 3
     unit: tbsp

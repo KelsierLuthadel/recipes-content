@@ -19,7 +19,7 @@ The dhaba-table onion salad that lands beside every chargrilled Lahori main: red
 - 1 tablespoon white vinegar (for the soak)
 - 1 teaspoon salt (for the soak)
 - 1 lemon (juice)
-- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
+- 1 teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md)
 - ½ teaspoon Kashmiri chilli flakes
 - ¼ teaspoon ground black pepper
 - A pinch of sugar

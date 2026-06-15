@@ -18,6 +18,7 @@ mentions:
   - tutorials/charcuterie/bacon
   - tutorials/charcuterie/sausages
   - tutorials/spices/storage
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 500
     unit: g

@@ -41,7 +41,7 @@ The Lahori winter-street classic, sold from Anarkali pavement stalls all through
 - 400 ml mustard oil (or vegetable oil), for shallow-frying
 
 ### To serve
-- 2 teaspoons [Chaat Masala](../indian/Spice-Mixes/chaat-masala.md)
+- 2 teaspoons [Chaat Masala](../../base-ingredients/spices/chaat-masala.md)
 - Lemon wedges
 - Sliced red onion
 - Green chutney (mint-coriander-yogurt)

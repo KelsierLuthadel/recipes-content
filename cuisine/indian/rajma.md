@@ -40,11 +40,11 @@ Rajma is the Punjabi household red-kidney-bean curry and the comfort dish every 
 - 1 teaspoon ground coriander
 - 1 teaspoon ground cumin
 - ½ teaspoon turmeric
-- 1 teaspoon [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon salt (to taste)
 
 ### To finish
-- 1 teaspoon [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon kasuri methi (crushed between palms)
 - A knob of butter
 

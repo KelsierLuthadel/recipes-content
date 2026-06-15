@@ -20,7 +20,7 @@ BIR chicken tikka masala is the dish the British restaurant menu invented, almos
 - 2 tbsp yogurt  
 - 1 tbsp ginger-garlic paste  
 - 1 tsp chilli powder  
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)  
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)  
 - Salt  
 
 ### Base
@@ -33,7 +33,7 @@ BIR chicken tikka masala is the dish the British restaurant menu invented, almos
 ### Finish
 - 3 tbsp cream  
 - 1 tsp sugar  
-- ½ tsp [Garam Masala](Spice-Mixes/garam-masala.md)  
+- ½ tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)  
 
 ---
 

@@ -33,7 +33,7 @@ Khao soi is the signature dish of Chiang Mai and the whole north of Thailand, th
 - 1 tablespoon fresh ginger (finely chopped)
 
 ### Seasonings
-- 2 tablespoons [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
+- 2 tablespoons [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 750 ml chicken stock
 - 800 ml coconut milk
 - 20 grams basil (torn)

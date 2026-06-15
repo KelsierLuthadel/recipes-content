@@ -11,11 +11,16 @@ tags:
   - make-ahead
   - spices
   - ginger
+regions:
+  - jamaican
 mentions:
   - cuisine/jamaican/jerk-chicken
   - tutorials/charcuterie/smoking
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - cuisine/jamaican/grilled-jerk-chicken-thighs
+  - cuisine/jamaican/jerk-meatballs
+  - cuisine/jamaican/rasta-pasta
 ingredients:
   - qty: 2
     unit: tbsp

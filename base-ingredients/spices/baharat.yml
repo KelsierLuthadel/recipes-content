@@ -9,6 +9,10 @@ tags:
   - quick
   - spices
   - coriander
+regions:
+  - lebanese
+  - arabian
+  - jordan
 mentions:
   - cuisine/lebanese/kibbeh
   - cuisine/middle-east/kibbeh
@@ -16,6 +20,29 @@ mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/arabian/madghoot
+  - cuisine/arabian/snacks/mutabbaq
+  - cuisine/arabian/snacks/samboosa
+  - cuisine/arabian/snacks/sambousek-lahm
+  - cuisine/iraq/bamia-iraqi
+  - cuisine/iraq/quzi
+  - cuisine/iraq/side-dishes/kibbeh-mosul
+  - cuisine/iraq/snacks/aroog
+  - cuisine/iraq/timman-ahmar
+  - cuisine/israel/chicken-shawarma
+  - cuisine/israel/kibbeh
+  - cuisine/israel/me-orav-yerushalmi
+  - cuisine/jordan/ouzi
+  - cuisine/jordan/snacks/arayes
+  - cuisine/jordan/snacks/kibbeh-nayyeh-balls
+  - cuisine/jordan/snacks/manakish-mini
+  - cuisine/jordan/snacks/sfeeha-jordani
+  - cuisine/lebanese/riz-a-djej
+  - cuisine/lebanese/snacks/kibbeh-mqliyeh
+  - cuisine/palestinian/kibbeh-bil-saneeyeh
+  - cuisine/palestinian/lahem-bi-ajeen
+  - cuisine/palestinian/maklouba
+  - cuisine/palestinian/shish-barak
 ingredients:
   - qty: 1
     name: cinnamon stick
@@ -28,14 +55,14 @@ ingredients:
     unit: tbsp
     name: cumin seeds
     raw: 2 tablespoons cumin seeds
-  - qty: 6
-    unit: tbsp
+  - qty: 1
+    unit: tsp
     name: cardamom seeds
-    raw: 6 tablespoons cardamom seeds
+    raw: 1 teaspoon cardamom seeds
   - qty: 2
-    unit: tbsp
+    unit: tsp
     name: cloves
-    raw: 2 tablespoons cloves
+    raw: 2 teaspoons cloves
   - qty: 2
     unit: tbsp
     name: black peppercorns

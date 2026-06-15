@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - coriander
+  - curry
+regions:
+  - indian
+mentions:
+  - tutorials/spices/storage
+  - cuisine/indian/BIR_Lamb-achari
+  - cuisine/indian/BIR_Lamb-Naga-Phaal
+  - cuisine/indian/BIR_Lamb-Vindaloo
+  - cuisine/indian/BIR-Chicken-Ceylon
+  - cuisine/indian/BIR-chicken-chilli-garlic
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/indian/BIR-Chicken-Dhansak
+  - cuisine/indian/BIR-chicken-dopiaza
+  - cuisine/indian/BIR-Chicken-Jalfrezi
+  - cuisine/indian/BIR-chicken-methi
+  - cuisine/indian/BIR-chicken-pathia
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/BIR-kashmiri-chicken
+  - cuisine/indian/BIR-Lamb-bhuna
+  - cuisine/indian/BIR-Lamb-madrass
+  - cuisine/indian/BIR-Lamb-Rogan-Josh
+  - cuisine/indian/BIR-Lamb-saag
+  - cuisine/indian/BIR-mango-chicken-curry
+  - cuisine/indian/BIR-Special-Balti
+  - cuisine/indian/lamb-madrass
+ingredients:
+  - name: homemade garam masala
+    raw: Homemade garam masala
+  - name: homemade curry powder
+    raw: Homemade curry powder
+  - name: coriander
+    raw: ground coriander, cumin, paprika, and turmeric

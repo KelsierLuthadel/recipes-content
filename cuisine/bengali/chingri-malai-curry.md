@@ -37,7 +37,7 @@ Chingri malai curry is one of those rare Bengali dishes that crosses the river: 
 - 1 tsp salt, or to taste
 - 400 ml thick coconut milk
 - 100 ml warm water
-- ½ tsp [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- ½ tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp ghee, to finish
 
 ## Method

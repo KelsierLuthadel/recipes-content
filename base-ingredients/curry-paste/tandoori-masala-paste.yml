@@ -16,9 +16,12 @@ tags:
   - coriander
   - curry
   - complex
+regions:
+  - indian
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - cuisine/indian/Base/red-masala-sauce
 ingredients:
   - qty: 6
     unit: tsp

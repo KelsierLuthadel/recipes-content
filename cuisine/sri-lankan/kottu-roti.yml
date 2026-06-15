@@ -31,6 +31,7 @@ mentions:
   - tutorials/indian-breads/paratha
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/sri-lankan
 ingredients:
   - qty: 4
     name: godhamba roti

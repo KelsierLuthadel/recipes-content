@@ -30,7 +30,7 @@ The Pakistani beef samosa anchors every iftar table and every roadside chai stal
 - 2 green chillies (finely chopped)
 - 500 g ground beef (or lamb)
 - 1 teaspoon ground turmeric
-- 1 ½ teaspoons [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
+- 1 ½ teaspoons [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 ½ teaspoons ground cumin
 - 1 ½ teaspoons ground coriander
 - 1 teaspoon Kashmiri red chilli powder

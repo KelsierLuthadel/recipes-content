@@ -27,7 +27,7 @@ BIR lamb madras is the British restaurant adaptation of the South Indian Madras 
 - 1 tsp ground coriander
 - ¼ tsp ground turmeric
 - 1-2 tbsp chilli powder, to taste
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 
 ### Sauce and protein
 - 500 ml [Curry Base Gravy](Base/curry-base.md)
@@ -38,7 +38,7 @@ BIR lamb madras is the British restaurant adaptation of the South Indian Madras 
 - 1-2 tbsp smooth mango chutney, to taste
 - 1 lime (juice)
 - Salt, to taste
-- Pinch of [Garam Masala](Spice-Mixes/garam-masala.md)
+- Pinch of [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - Coriander (fresh coriander), to garnish
 
 ## Method

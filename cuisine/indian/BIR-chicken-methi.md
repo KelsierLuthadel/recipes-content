@@ -32,7 +32,7 @@ BIR chicken methi is the fenugreek-forward curry of the British restaurant menu,
 - Stalks from a large bunch of coriander (fresh coriander)
 
 ### Spices and sauce
-- 1 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md) (or curry powder)
+- 1 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md) (or curry powder)
 - 1 tsp bassar curry masala (or chilli powder)
 - 75 ml (5 tbsp) plain passata (sieved or blended tomatoes)
 - 500 ml [Curry Base Gravy](Base/curry-base.md)
@@ -42,7 +42,7 @@ BIR chicken methi is the fenugreek-forward curry of the British restaurant menu,
 - 4 tbsp plain yoghurt
 - Salt, to taste
 - 3 tbsp chopped coriander (fresh coriander) leaves
-- ½ tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- ½ tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp dried fenugreek leaves (kasoori methi)
 
 ## Method

@@ -9,7 +9,7 @@
 **Yield:** Approximately 60 grams (makes 30+ portions)
 
 ## Overview
-Herbes de Provence is the herb blend of Provence, the sunny southern French region whose limestone hills are dense with wild rosemary, thyme, savory and oregano. The combination took shape over centuries; the formalised dried-jar version arrived in the 1970s. American versions often include lavender (sometimes a lot of it); traditional French versions skip it or use only a pinch — the lavender note is contentious in France itself, with the south split on whether it belongs. Either way, the blend's job is to season slow-roasted meat, stuffed vegetables, ratatouille, and the simplest roast chicken. Crumble some between your palms and rub into a leg of lamb, scatter over potatoes before roasting, or stir a teaspoon into olive oil for dipping bread. Lavender lovers add half a teaspoon to the blend; purists leave it out. Make small batches and use within six months; the volatile oils fade with light and air.
+Herbes de Provence is the herb blend of Provence, the sunny southern French region whose limestone hills are dense with wild rosemary, thyme, savory and oregano. The formalised dried-jar version arrived in the 1970s, though the combination took shape over centuries. The blend reads warm, resinous and faintly floral, built to season slow-roasted meat, stuffed vegetables, ratatouille and the simplest roast chicken. Crumble some between the palms to wake up the oils, then rub into a leg of lamb or scatter over potatoes before roasting. American versions often include noticeable lavender; traditional Provençal blends skip it or use a pinch. The lavender note is contentious in France itself, so pick a camp. Make small batches and use within six months.
 
 ## Ingredients
 

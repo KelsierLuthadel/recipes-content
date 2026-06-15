@@ -25,7 +25,7 @@ Baingan bharta is the Punjabi smoked-aubergine mash and the dish that lives in e
 - 1 teaspoon Kashmiri chilli powder
 - 1 teaspoon ground coriander
 - ½ teaspoon turmeric
-- ½ teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon salt (to taste)
 - A handful of coriander (chopped, plus extra to serve)
 

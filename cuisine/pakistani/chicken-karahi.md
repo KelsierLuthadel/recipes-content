@@ -27,7 +27,7 @@ Chicken karahi is Lahore's roadside dhaba dish, the one served at every Pakistan
 - 1 teaspoon ground coriander
 - 100 g full-fat plain yogurt (whisked smooth)
 - 3 tablespoons fresh coriander (chopped, both leaves and fine stems)
-- ½ teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md) (optional, to finish)
+- ½ teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md) (optional, to finish)
 - 1 lemon (cut into wedges)
 
 ## Method

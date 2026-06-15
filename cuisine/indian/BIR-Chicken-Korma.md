@@ -34,7 +34,7 @@ BIR chicken korma is the gentlest curry on the British restaurant menu, a creamy
 - 125 ml (½ cup) Chicken stock (or stock from Pre-Cooked Chicken)
 
 ### Finishing
-- 1 tbsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tbsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 125 ml (½ cup) single (light) cream, plus a little extra to finish
 - 1 tbsp rose water, or to taste
 - 2 tbsp cold butter (optional)

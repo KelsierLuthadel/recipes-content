@@ -25,6 +25,8 @@ tags:
 mentions:
   - tutorials/charcuterie/sausages
   - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
+  - base-ingredients/spices/ras-el-hanout
 ingredients:
   - qty: 600
     unit: g

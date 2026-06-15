@@ -15,6 +15,7 @@ mentions:
   - tutorials/pizza/toppings
   - tutorials/spices/storage
   - tutorials/sugar-work/caramel
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 200
     unit: g

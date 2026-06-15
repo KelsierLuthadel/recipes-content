@@ -21,6 +21,7 @@ tags:
 mentions:
   - cuisine/cajun/dirty-rice
   - tutorials/spices/storage
+  - base-ingredients/spices/cajun-spice-mix
 ingredients:
   - qty: 225
     unit: g

@@ -11,11 +11,15 @@ tags:
   - spices
   - ginger
   - chili
+regions:
+  - japanese
 mentions:
   - cuisine/japanese/gyudon
   - cuisine/japanese/miso-soup
   - cuisine/japanese/yakitori
   - tutorials/spices/storage
+  - cuisine/japanese/oyakodon
+  - cuisine/japanese/snacks/karaage
 ingredients:
   - qty: 2
     unit: tbsp

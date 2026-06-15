@@ -30,6 +30,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/braising
+  - base-ingredients/spices/chinese-five-spice-powder
 ingredients:
   - qty: 25
     unit: g

@@ -24,8 +24,8 @@ BIR chicken chilli garlic is the bold garlicky curry on the British-Indian-Resta
 ### Heat and sauce
 - 3 fresh green chillies, thinly sliced (plus extra to serve)
 - 1 tsp chilli powder
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
-- 2 tbsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 2 tbsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 - 125 ml (½ cup) tomato purée
 - 500 ml [Curry Base Gravy](Base/curry-base.md)
 

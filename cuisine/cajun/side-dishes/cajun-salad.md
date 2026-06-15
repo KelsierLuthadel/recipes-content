@@ -26,7 +26,7 @@ A fiery Cajun-spiced potato salad, the kind of side dish that lifts a barbecue p
 ### Seasonings and spices
 - 1 tbsp Dijon mustard
 - Tabasco sauce (to taste)
-- ¼ tsp [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
+- ¼ tsp [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ¼ tsp ground cumin
 - ¼ tsp dried coriander
 - ¼ tsp cayenne pepper

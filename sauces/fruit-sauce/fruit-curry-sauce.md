@@ -26,7 +26,7 @@ Fruity curry sauce is the building block for the gently-spiced creamy curry-styl
 
 ### Spice & liquid
 - 2 tablespoons ground almonds
-- 40 grams [Curry Powder](../../cuisine/indian/Spice-Mixes/curry-powder.md)
+- 40 grams [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 300 ml Veal stock
 - 200 ml coconut milk
 

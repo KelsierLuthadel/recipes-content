@@ -17,7 +17,7 @@ BIR mango chicken curry is the British restaurant sweet-spicy curry with tropica
 ### Base
 - 2 tbsp rapeseed (canola) oil
 - 2 tbsp garlic and ginger paste
-- 1 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md) (or curry powder)
+- 1 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md) (or curry powder)
 - 1 tsp chilli powder (or to taste)
 - 3 tbsp finely chopped coriander stalks
 - 2 fresh green chillies (bird’s eye or bullet), thinly sliced
@@ -33,7 +33,7 @@ BIR mango chicken curry is the British restaurant sweet-spicy curry with tropica
 
 ### Finishers
 - Salt, to taste
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp dried fenugreek leaves (kasoori methi)
 - 3 tbsp finely chopped coriander leaves
 

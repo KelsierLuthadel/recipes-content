@@ -21,7 +21,7 @@ Chicken 65 is the fiery South Indian fried-chicken bar snack from Hyderabad, the
 - 2 tablespoons ginger-garlic paste
 - 2 tablespoons Kashmiri chilli powder
 - 1 teaspoon Kashmiri red food colour (optional, for the signature deep red)
-- 1 teaspoon [Garam Masala](../Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground turmeric
 - 1 teaspoon salt
 - 1 tablespoon lemon juice

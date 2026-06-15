@@ -27,12 +27,12 @@ BIR chicken curry is the restaurant style chicken curry built from whole spices 
 
 ### Sauce and seasoning
 - 125 ml (½ cup) tomato purée or plain passata
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md) (or curry powder)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md) (or curry powder)
 - 2 tsp ground cumin
 - 2 tsp ground coriander
 - ½ tsp ground turmeric
 - 1-2 tbsp paprika
-- ½ tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- ½ tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 2 tomatoes (medium), diced
 
 ### Protein

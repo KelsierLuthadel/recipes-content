@@ -26,7 +26,7 @@ A Mowgli Street Food signature and one of the most pinned dishes on Indian-resta
 - 5 cm (2 inch) piece fresh root ginger, peeled and grated
 
 ### Spices
-- 1 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 2 tsp ground cumin
 - ½ tsp black mustard seeds
 

@@ -31,6 +31,8 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 4
     unit: tbsp

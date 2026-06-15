@@ -27,6 +27,8 @@ mentions:
   - cuisine/indian/rajma
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 250
     unit: g

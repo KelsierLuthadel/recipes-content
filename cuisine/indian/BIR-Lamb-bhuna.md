@@ -23,8 +23,8 @@ BIR lamb bhuna is the restaurant-style version of the slow-cooked Bengali bhuna,
 - 125 ml (½ cup) tomato purée
 
 ### Spices
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
-- 2 tbsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
+- 2 tbsp [Tandoori Masala](../../base-ingredients/curry-powder/tandoori-masala.md)
 
 ### Sauce + protein
 - 500 ml [Curry Base Gravy](Base/curry-base.md)

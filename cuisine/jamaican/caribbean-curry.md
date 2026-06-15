@@ -25,7 +25,7 @@ A Caribbean chicken stew that leans hard into the burnt-sugar move that defines 
 ### Curry
 - 2 tbsp vegetable oil
 - 55g brown sugar
-- 3 tsp [Curry Powder](../indian/Spice-Mixes/curry-powder.md)
+- 3 tsp [Curry Powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 600ml water (or stock)
 - 1 bay leaf
 - 2 thyme sprigs

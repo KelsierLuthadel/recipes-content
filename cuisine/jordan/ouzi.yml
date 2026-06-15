@@ -19,6 +19,7 @@ tags:
 mentions:
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/baharat
 ingredients:
   - qty: 500
     unit: g

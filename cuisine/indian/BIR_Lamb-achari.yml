@@ -25,11 +25,15 @@ tags:
   - curry
   - complex
 mentions:
-  - cuisine/indian/Spice-Mixes/panch-poran
+  - base-ingredients/spices/panch-poran
   - tutorials/cocktails/garnish
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+  - base-ingredients/curry-powder/mix-powder-glasgow
+  - base-ingredients/curry-powder/mixed-powder
 ingredients:
   - qty: 4
     unit: tbsp

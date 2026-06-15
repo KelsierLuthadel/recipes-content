@@ -12,15 +12,18 @@ tags:
   - ginger
   - coriander
   - chili
+regions:
+  - ethiopian
 mentions:
   - cuisine/ethiopian/doro-wat
-  - cuisine/ethiopian/kitfo
-  - cuisine/ethiopian/misir-wat
   - cuisine/ethiopian/side-dishes/injera
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting
+  - cuisine/ethiopian/atakilt-wat
+  - cuisine/ethiopian/key-wat
+  - cuisine/ethiopian/shiro-wat
 ingredients:
   - qty: 10
     name: red chillies

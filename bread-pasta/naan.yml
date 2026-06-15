@@ -13,6 +13,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/dough
   - tutorials/spices/storage
+  - base-ingredients/spices/aromatic-salt
 ingredients:
   - qty: 450
     unit: g

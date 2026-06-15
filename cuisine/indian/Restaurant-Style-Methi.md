@@ -33,7 +33,7 @@ The flavour profile is mild to medium and noticeably green. Fresh fenugreek leav
 - 1.5 tsp ginger-garlic paste
 
 ### Spice
-- 1 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 to 0.5 tsp salt
 - 0.25 to 0.5 tsp chilli powder (optional)
 

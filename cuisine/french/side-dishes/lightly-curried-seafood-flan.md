@@ -26,7 +26,7 @@ This is the elegant individual seafood flan from the French dinner-party traditi
 ### Flavouring
 - 75 ml dry white wine
 - 1 shallot (finely chopped)
-- 1 tbsp [Curry Powder](../../indian/Spice-Mixes/curry-powder.md)
+- 1 tbsp [Curry Powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 
 ### Custard
 - 75 ml double cream

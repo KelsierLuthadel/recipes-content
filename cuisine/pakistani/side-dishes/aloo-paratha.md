@@ -25,7 +25,7 @@ Aloo paratha is Punjab's stuffed breakfast flatbread, the kind that fills every 
 - 600 g potatoes (Maris Piper or other floury)
 - 2 teaspoons salt
 - 1 ½ teaspoons ground cumin
-- 1 teaspoon [Garam Masala](../../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon amchoor (dried mango powder)
 - 1 teaspoon Kashmiri red chilli powder
 - 2 green chillies (very finely chopped)

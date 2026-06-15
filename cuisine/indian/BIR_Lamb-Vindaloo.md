@@ -26,7 +26,7 @@ BIR lamb vindaloo is the fiery British-Indian-Restaurant adaptation of the Goan-
 - 2 Scotch bonnet chillies, finely chopped
 - 1 tsp ground turmeric
 - 2 tbsp hot chilli powder (adjust to taste)
-- 2 tbsp [Mixed Powder](Spice-Mixes/mixed-powder.md)
+- 2 tbsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 125 ml (½ cup) tomato purée
 - 2 tsp jaggery (or sugar)
 

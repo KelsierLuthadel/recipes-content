@@ -21,7 +21,7 @@ The cool green accompaniment to every chargrilled Lahori kebab: fresh mint, cori
 - 15 g fresh ginger
 - 2 tablespoons roasted cashews
 - ½ teaspoon ground cumin (lightly toasted in a dry pan)
-- 1 teaspoon [Chaat Masala](../../indian/Spice-Mixes/chaat-masala.md)
+- 1 teaspoon [Chaat Masala](../../../base-ingredients/spices/chaat-masala.md)
 - ½ teaspoon black salt (kala namak; optional but distinctive)
 - 1 teaspoon salt (to taste)
 - 1 tablespoon caster sugar (or 1 teaspoon honey)

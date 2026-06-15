@@ -13,7 +13,8 @@ tags:
   - butter
   - complex
   - easter
-mentions: []
+mentions:
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 250
     unit: g

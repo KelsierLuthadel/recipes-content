@@ -13,7 +13,7 @@
 ## Overview
 A Madras lives or dies by balance. The heat is unmistakable, 1.5 to 2 teaspoons of chilli powder put it firmly above a jalfrezi, but it should never read as one-note. The trick is the sourness: a slug of tomato paste cooked back to oil-separation, lemon juice late in the build, and the BIR house touch of Worcestershire sauce. Together they pull the dish out of brute heat and into the savoury, slightly tangy register that defines a restaurant Madras.
 
-The base build follows standard BIR practice. Whole spices (cassia bark, cumin) temper in hot oil, ginger-garlic paste browns, [Mix Powder](Spice-Mixes/mixed-powder.md) and chilli bloom in a splash of [Curry Base Gravy](Base/curry-base.md), tomato paste reduces, then the main ingredient (usually [Pre-Cooked Chicken](Base/pre-cooked-chicken.md), but lamb, beef, prawns, or vegetables all work) joins for the three-pour gravy reduction.
+The base build follows standard BIR practice. Whole spices (cassia bark, cumin) temper in hot oil, ginger-garlic paste browns, [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md) and chilli bloom in a splash of [Curry Base Gravy](Base/curry-base.md), tomato paste reduces, then the main ingredient (usually [Pre-Cooked Chicken](Base/pre-cooked-chicken.md), but lamb, beef, prawns, or vegetables all work) joins for the three-pour gravy reduction.
 
 ---
 
@@ -26,7 +26,7 @@ The base build follows standard BIR practice. Whole spices (cassia bark, cumin) 
 - 2 tsp ginger-garlic paste
 
 ### Spice
-- 1.5 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.5 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 1.5 to 2 tsp chilli powder
 - 0.25 to 0.5 tsp salt
 - 1 tsp kasuri methi

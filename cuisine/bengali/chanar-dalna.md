@@ -41,7 +41,7 @@ The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the cur
 - 500 ml water
 - 1 teaspoon sugar
 - Salt (to taste)
-- 1 teaspoon [Garam Masala](../indian/Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ghee (to finish)
 - A small handful of fresh coriander (chopped)
 

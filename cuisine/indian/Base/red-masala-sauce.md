@@ -14,7 +14,7 @@ The vivid-red yogurt-based marinade that defines the British curry-house tandoor
 ## Ingredients
 - 500 ml yoghurt
 - Pinch of chilli powder
-- Pinch of [Garam Masala](../Spice-Mixes/garam-masala.md)
+- Pinch of [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - Pinch of coriander powder
 - 1 tsp salt
 - 1 heaped tbsp Pataks tandoori paste

@@ -26,7 +26,7 @@ BIR tandoori methi chicken tikka is the restaurant tandoori starter, marinated c
 - 5 tbsp finely chopped coriander (fresh coriander) leaves
 - 1 tbsp green chilli paste
 - 1 tbsp red chilli powder
-- 1 tbsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 tbsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tbsp gram (chickpea) flour
 - 3 tbsp cream cheese
 - 1 tbsp rapeseed (canola) oil

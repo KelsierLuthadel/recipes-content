@@ -9,12 +9,28 @@ tags:
   - gluten-free
   - spicy
   - quick
-  - asian
   - spices
   - coriander
+regions:
+  - indian
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - cuisine/afghanistan/snacks/kachalou-pakora
+  - cuisine/bengali/snacks/jhal-muri
+  - cuisine/indian/aloo-tikki-burger
+  - cuisine/indian/side-dishes/kachumber
+  - cuisine/indian/side-dishes/mixed-grill
+  - cuisine/indian/snacks/aloo-tikki
+  - cuisine/lahori/lahori-chargha
+  - cuisine/lahori/lahori-fried-fish
+  - cuisine/lahori/side-dishes/lahori-imli-chutney
+  - cuisine/lahori/side-dishes/lahori-mint-chutney
+  - cuisine/lahori/side-dishes/lahori-onion-salad
+  - cuisine/pakistani/side-dishes/chana-chaat
+  - cuisine/pakistani/side-dishes/kachumber
+  - cuisine/pakistani/snacks/dahi-bhalla
+  - cuisine/pakistani/snacks/seekh-kebab-roll
 ingredients:
   - qty: 3
     unit: tbsp

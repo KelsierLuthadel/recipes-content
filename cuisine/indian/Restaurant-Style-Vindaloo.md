@@ -25,10 +25,10 @@ A two-chilli build is what gives this dish its colour. Kashmiri chilli powder ca
 - 2 tsp ginger-garlic paste
 
 ### Spice
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 2 tbsp Kashmiri chilli powder
 - 2 tsp regular chilli powder
-- 0.25 tsp [Garam Masala](Spice-Mixes/garam-masala.md)
+- 0.25 tsp [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 0.25 tsp ground black pepper
 - 0.25 to 0.5 tsp salt
 - 1 tsp kasuri methi

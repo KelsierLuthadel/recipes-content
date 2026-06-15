@@ -14,6 +14,8 @@ tags:
 mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 50
     unit: g

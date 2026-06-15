@@ -11,11 +11,24 @@ tags:
   - ginger
   - coriander
   - chili
+regions:
+  - british
 mentions:
   - cuisine/british/desserts/hot-cross-buns
-  - cuisine/british/desserts/treacle-tart
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/spices/tsire
+  - cuisine/barbadian/desserts/cassava-pone
+  - cuisine/barbadian/desserts/coconut-bread
+  - cuisine/barbadian/desserts/sweet-potato-pudding
+  - cuisine/barbadian/snacks/conkies
+  - cuisine/british/desserts/simnel-cake
+  - cuisine/indian/mulligatawny
+  - cuisine/irish/desserts/barmbrack
+  - cuisine/saint-lucian/desserts/banana-cake
+  - cuisine/saint-lucian/desserts/cassava-pone
+  - cuisine/scottish/desserts/clootie-dumpling
+  - cuisine/scottish/snacks/black-bun
 ingredients:
   - qty: 1
     unit: tbsp

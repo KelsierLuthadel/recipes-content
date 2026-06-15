@@ -23,6 +23,7 @@ mentions:
   - tutorials/cocktails/garnish
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 1
     name: chicken

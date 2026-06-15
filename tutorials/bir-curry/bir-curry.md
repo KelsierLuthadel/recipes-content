@@ -32,12 +32,12 @@ See:
 This is the curry-specific layer. Each named curry on the menu has its own spice mix, designed to push the base gravy in a particular direction. Madras is hot and tangy. Korma is mild and aromatic. Vindaloo is fierce and sour. Each is a different mix.
 
 See:
-- [Base Curry Powder](../../cuisine/indian/Spice-Mixes/base-curry-powder.md): the general-purpose backbone.
-- [Madras Mix](../../cuisine/indian/Spice-Mixes/madrass-mix.md): medium heat, earthy.
-- [Korma Mix](../../cuisine/indian/Spice-Mixes/korma-mix.md): mild, fragrant, no chilli.
-- [Vindaloo Mix](../../cuisine/indian/Spice-Mixes/vindaloo-mix.md): hot, sharp, vinegar-friendly.
-- [Dhansak Mix](../../cuisine/indian/Spice-Mixes/dhansak-mix.md): sweet, sour, lentil-friendly.
-- [Garam Masala](../../cuisine/indian/Spice-Mixes/garam-masala.md): the universal finisher, added near the end.
+- [Base Curry Powder](../../base-ingredients/curry-powder/bir-base-powder.md): the general-purpose backbone.
+- [Madras Mix](../../base-ingredients/curry-powder/madras-mix.md): medium heat, earthy.
+- [Korma Mix](../../base-ingredients/curry-powder/korma-mix.md): mild, fragrant, no chilli.
+- [Vindaloo Mix](../../base-ingredients/curry-powder/vindaloo-mix.md): hot, sharp, vinegar-friendly.
+- [Dhansak Mix](../../base-ingredients/curry-powder/dhansak-mix.md): sweet, sour, lentil-friendly.
+- [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md): the universal finisher, added near the end.
 
 ### 4. Finishing Aromatics
 The fresh elements: garlic-ginger paste, fresh tomato or pureed tomato, fresh chilli, fresh coriander, sometimes onion. These build the flavour of the specific curry on top of the base. They go in the pan first, with oil and a smoke of fenugreek, before anything else.

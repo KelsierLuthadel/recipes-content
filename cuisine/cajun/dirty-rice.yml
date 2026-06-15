@@ -22,6 +22,7 @@ mentions:
   - cuisine/american/cajun-dirty-rice
   - tutorials/pizza/sauce
   - tutorials/spices/storage
+  - base-ingredients/spices/cajun-spice-mix
 ingredients:
   - qty: 200
     unit: g

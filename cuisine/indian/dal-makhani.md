@@ -32,7 +32,7 @@ Dal makhani is the richest dal in the North Indian repertoire and one of the gre
 - 4 ripe tomatoes (pureed, or 400 g tinned chopped tomatoes blended smooth)
 - 1 tablespoon tomato paste
 - 2 teaspoons Kashmiri chilli powder (mild, for colour)
-- 1 teaspoon [Garam Masala](Spice-Mixes/garam-masala.md)
+- 1 teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon salt (to taste)
@@ -41,7 +41,7 @@ Dal makhani is the richest dal in the North Indian repertoire and one of the gre
 - 50 g butter
 - 150 ml double cream
 - 1 teaspoon kasuri methi (dried fenugreek leaves, crushed between palms)
-- ½ teaspoon [Garam Masala](Spice-Mixes/garam-masala.md)
+- ½ teaspoon [Garam Masala](../../base-ingredients/curry-powder/garam-masala.md)
 
 ### To serve
 - A swirl of cream

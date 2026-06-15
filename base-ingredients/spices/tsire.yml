@@ -12,12 +12,14 @@ tags:
   - ginger
   - nuts
   - chili
+regions:
+  - nigerian
 mentions:
   - cuisine/nigerian/suya
   - tutorials/middle-eastern-fundamentals/kebabs
   - tutorials/middle-eastern-fundamentals/spices
-  - tutorials/spices/mixes
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 50
     unit: g

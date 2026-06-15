@@ -7,9 +7,31 @@ tags:
   - dairy-free
   - gluten-free
   - quick
+regions:
+  - french
 mentions:
   - tutorials/spices/storage
   - tutorials/stocks-sauces/stocks
+  - coulis/vegetable/tomato-coulis
+  - cuisine/french/beef-bourguignon
+  - cuisine/french/blanquette-de-veau
+  - cuisine/french/cassoulet
+  - cuisine/french/coq-au-vin
+  - cuisine/french/lamb-stew
+  - cuisine/irish/irish-stew
+  - cuisine/italian/pizza/pissaladiers
+  - cuisine/spanish/tortilla
+  - sauces/sauce-fish/americaine-sauce
+  - sauces/sauce-fish/claret-sauce
+  - sauces/sauce-fish/court-bouillon
+  - sauces/sauce-fish/curried-mussel-sauce
+  - sauces/sauce-fish/nantua-sauce
+  - sauces/sauce-meat/bordelaise-sauce
+  - stocks/fish-stock
+  - stocks/lamb-stock
+  - stocks/vegetable-stock
+  - stocks/white-chicken-stock
+  - stocks/white-veal-stock
 ingredients:
   - qty: 2
     unit: sprig

@@ -26,7 +26,7 @@ South Indian cooking leans heavily on the sour register; tamarind, kokum, curd a
 
 ### Spice
 - 1 tsp kasuri methi
-- 1.25 tsp [Mix Powder](Spice-Mixes/mixed-powder.md)
+- 1.25 tsp [Mix Powder](../../base-ingredients/curry-powder/mixed-powder.md)
 - 0.25 to 0.5 tsp chilli powder (optional)
 - 0.25 to 0.5 tsp salt
 

@@ -28,6 +28,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/pizza/toppings
   - tutorials/spices/storage
+  - base-ingredients/spices/cajun-spice-mix
 ingredients:
   - qty: 1.2
     unit: kg

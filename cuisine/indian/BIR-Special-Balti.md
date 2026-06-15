@@ -32,7 +32,7 @@ BIR special balti is the customisable British restaurant chef's signature, mixin
 - 2 tbsp tomato purée
 - 1 tsp paprika
 - ½ tsp ground turmeric
-- 1 tsp [Mixed Powder](Spice-Mixes/mixed-powder.md) (or curry powder)
+- 1 tsp [Mixed Powder](../../base-ingredients/curry-powder/mixed-powder.md) (or curry powder)
 - 1 tsp chilli powder (optional)
 - 150 ml [Curry Base Gravy](Base/curry-base.md)
 - 100 ml  thick coconut milk

@@ -130,7 +130,7 @@ Cooked too long, or cut with the grain instead of against. Slice thinly across t
 - [Massaman](massaman.md): the slow-cooked variant.
 - [Coconut Milk Technique](coconut-milk.md): the cooking method.
 - [Beef Panang](../../cuisine/thai/beef-panang.md): the traditional Thai-restaurant dish.
-- [Panang Curry Paste recipe](../../cuisine/thai/pastes/panang-curry-paste.md): traditional paste.
+- [Panang Curry Paste recipe](../../base-ingredients/curry-paste/panang-paste.md): traditional paste.
 - [Thai Curry Course landing](thai-curry.md): back to the main course.
 
 ## Storage

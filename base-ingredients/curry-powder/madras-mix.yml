@@ -7,13 +7,14 @@ tags:
   - gluten-free
   - spicy
   - quick
-  - asian
-  - spices
   - coriander
   - curry
+regions:
+  - indian
 mentions:
-  - cuisine/indian/Spice-Mixes/base-curry-powder
+  - base-ingredients/curry-powder/bir-base-powder
   - tutorials/spices/storage
+  - tutorials/bir-curry/building-a-curry
 ingredients:
   - qty: 2
     unit: tsp

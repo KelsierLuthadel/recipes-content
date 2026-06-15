@@ -17,6 +17,7 @@ mentions:
   - drinks/regional/saint-lucia/cocoa-tea
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
 ingredients:
   - qty: 500
     unit: g
