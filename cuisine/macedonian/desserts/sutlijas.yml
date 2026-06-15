@@ -11,8 +11,7 @@ tags:
   - rice
   - lemon
   - butter
-mentions:
-  - cuisine/turkish/story
+mentions: []
 ingredients:
   - qty: 200
     unit: g

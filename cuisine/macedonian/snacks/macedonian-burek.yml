@@ -16,8 +16,7 @@ tags:
   - yogurt
   - chili
   - complex
-mentions:
-  - cuisine/turkish/story
+mentions: []
 ingredients:
   - qty: 500
     unit: g
