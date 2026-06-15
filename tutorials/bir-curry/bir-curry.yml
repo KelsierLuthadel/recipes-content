@@ -6,6 +6,7 @@ tags:
   - gluten-free
   - curry
 mentions:
+  - base-ingredients/curry-powder/bir-base-powder
   - cuisine/indian/Base/red-masala-sauce
   - cuisine/indian/BIR-Butter-Chicken
   - cuisine/indian/BIR-Chicken-Balti
@@ -17,7 +18,6 @@ mentions:
   - cuisine/indian/BIR-Chicken-Tikka-Masala
   - cuisine/indian/BIR-Chicken-Vindaloo
   - cuisine/indian/butter-chicken
-  - cuisine/indian/Spice-Mixes/base-curry-powder
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce
   - tutorials/spices/storage

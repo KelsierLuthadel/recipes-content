@@ -7,12 +7,12 @@ tags:
   - make-ahead
   - curry
 mentions:
+  - base-ingredients/curry-paste/panang-paste
+  - base-ingredients/curry-paste/thai-yellow-paste
   - cuisine/indian/BIR-chicken-curry
   - cuisine/thai/pad-pak-ruam
   - cuisine/thai/pastes/massaman-curry-paste
-  - cuisine/thai/pastes/panang-curry-paste
   - cuisine/thai/pastes/thai-green-curry-paste
-  - cuisine/thai/pastes/thai-yellow-curry-paste
   - tutorials/bir-curry/bir-curry
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce

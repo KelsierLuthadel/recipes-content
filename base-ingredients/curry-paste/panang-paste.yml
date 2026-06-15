@@ -1,13 +1,13 @@
 prep: 40-60 minutes
 cook: 5 minutes
 allergens:
+  - peanuts
   - shellfish
   - garlic
 tags:
   - dairy-free
   - gluten-free
   - spicy
-  - asian
   - pastes
   - fish
   - prawn
@@ -15,26 +15,22 @@ tags:
   - garlic
   - lime
   - coriander
+  - nuts
   - chili
   - curry
 mentions:
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
-  - tutorials/thai-curry/yellow
+  - tutorials/thai-curry/panang
+  - cuisine/thai/beef-panang
 ingredients:
-  - qty: 1.5
-    unit: tsp
+  - qty: 1
+    name: cumin seeds
+    raw: 1 generous tbsp cumin seeds
+  - qty: 1
     name: coriander seeds
-    raw: 1 ½ tsp coriander seeds
-  - qty: 1.5
-    unit: tsp
-    name: cardamom seeds
-    raw: 1 ½ tsp cardamom seeds
-  - qty: 0.5
-    unit: tsp
-    name: green cardamom seeds
-    raw: ½ tsp green cardamom seeds
+    raw: 1 generous tbsp coriander seeds
   - qty: 1.5
     unit: tsp
     name: white pepper
@@ -44,26 +40,32 @@ ingredients:
     raw: 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
   - qty: 12
     name: garlic cloves
-    raw: 12 garlic cloves
+    raw: 12 garlic cloves, roughly chopped
+  - qty: 2
+    name: shallots
+    raw: 2 shallots , finely chopped
   - qty: 1
     name: galangal
     raw: 1 thumb-sized piece galangal, thinly sliced
+  - qty: 2
+    name: red chillies
+    raw: 2 fresh red chillies, thinly sliced
   - qty: 1
-    name: turmeric
-    raw: 1 thumb-sized piece fresh turmeric, peeled and thinly sliced, or 1-1 ½ tsp ground turmeric
-  - qty: 3
-    name: lime leaves
-    raw: 3 lime leaves, stalks removed and finely chopped
-  - qty: 3
-    name: shallots
-    raw: 3 shallots , halved
+    name: lemongrass stalk
+    raw: 1 lemongrass stalk, tough outer part removed and thinly sliced
   - qty: 10
     name: coriander stalks
     raw: 10 thick coriander stalks
-  - qty: 2
+  - qty: 0.5
+    name: lime
+    raw: ½ lime
+  - qty: 4
+    name: lime leaves
+    raw: 4 lime leaves, stems removed and finely chopped
+  - qty: 3.5
     unit: tbsp
-    name: lemongrass
-    raw: 2 tbsp sliced lemongrass
+    name: roasted peanuts
+    raw: 3-4 tbsp roasted peanuts
   - qty: 1
     unit: tsp
     name: shrimp paste

@@ -49,7 +49,7 @@ Chicken 65 is one of the most-debated origin stories in South Indian cooking. Th
 - 1.5 tsp [Tandoori Masala](Spice-Mixes/tandoori-masala.md) powder, or 1 tsp paste
 - 0.25 to 0.5 tsp turmeric
 - 1 tsp ground coriander (freshly toasted and ground is best)
-- 1 tsp curry powder (mild Madras-style works well, see [Madrass Mix](Spice-Mixes/madrass-mix.md))
+- 1 tsp curry powder (mild Madras-style works well, see [Madrass Mix](../../base-ingredients/curry-powder/madras-mix.md))
 - 1 tsp paprika
 - 1 tsp Kashmiri chilli powder
 - 0.25 tsp salt

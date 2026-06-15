@@ -8,12 +8,12 @@ tags:
   - gluten-free
   - spicy
   - quick
-  - asian
-  - spices
   - curry
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - base-ingredients/curry-powder/madras-mix
+  - tutorials/bir-curry/building-a-curry
 ingredients:
   - qty: 2
     unit: tbsp

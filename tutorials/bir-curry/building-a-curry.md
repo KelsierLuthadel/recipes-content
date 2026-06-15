@@ -9,7 +9,7 @@ Before you start, you need three things in the fridge or on the stove:
 
 1. A pot of [base gravy](../../cuisine/indian/Base/curry-base.md), warm. About 250 ml per portion.
 2. Portioned [pre-cooked chicken](../../cuisine/indian/Base/pre-cooked-chicken.md). About 150 g per portion.
-3. A jar of [madras spice mix](../../cuisine/indian/Spice-Mixes/madrass-mix.md). About 2 tsp per portion.
+3. A jar of [madras spice mix](../../base-ingredients/curry-powder/madras-mix.md). About 2 tsp per portion.
 
 If you have all three, the rest takes 5-6 minutes. If you have none, allow a Saturday morning to prepare the base and the protein, then come back to this page in the evening.
 
@@ -20,8 +20,8 @@ We are cooking for two people. Scale the ingredient line by the number of plates
 ### From the prep
 - 500 ml [base gravy](../../cuisine/indian/Base/curry-base.md), warmed
 - 300 g [pre-cooked chicken](../../cuisine/indian/Base/pre-cooked-chicken.md), in bite-sized pieces
-- 4 tsp [madras spice mix](../../cuisine/indian/Spice-Mixes/madrass-mix.md)
-- 2 tsp [base curry powder](../../cuisine/indian/Spice-Mixes/base-curry-powder.md)
+- 4 tsp [madras spice mix](../../base-ingredients/curry-powder/madras-mix.md)
+- 2 tsp [base curry powder](../../base-ingredients/curry-powder/bir-base-powder.md)
 
 ### Finishing aromatics
 - 3 tbsp vegetable oil (or rapeseed)
@@ -87,17 +87,17 @@ A well-built madras has these characteristics:
 To turn this same plate into a different named curry, change only the spice mix and the finishing aromatics. The base gravy and pre-cooked chicken stay the same.
 
 ### Chicken Vindaloo
-- Spice mix: [vindaloo mix](../../cuisine/indian/Spice-Mixes/vindaloo-mix.md) instead of madras.
+- Spice mix: [vindaloo mix](../../base-ingredients/curry-powder/vindaloo-mix.md) instead of madras.
 - Aromatics: 2 tbsp vinegar (not 1 tsp), extra fresh chilli, a small spoon of sugar.
 - Plate: hot, sharp, sweet-sour. Total time: 5 minutes.
 
 ### Chicken Korma
-- Spice mix: [korma mix](../../cuisine/indian/Spice-Mixes/korma-mix.md) instead of madras.
+- Spice mix: [korma mix](../../base-ingredients/curry-powder/korma-mix.md) instead of madras.
 - Aromatics: skip the chilli, skip the vinegar. Add 2 tbsp ground almond and 4 tbsp double cream at Stage 5.
 - Plate: mild, fragrant, creamy. Total time: 5 minutes.
 
 ### Chicken Dhansak
-- Spice mix: [dhansak mix](../../cuisine/indian/Spice-Mixes/dhansak-mix.md) instead of madras.
+- Spice mix: [dhansak mix](../../base-ingredients/curry-powder/dhansak-mix.md) instead of madras.
 - Aromatics: add 100 g cooked red lentils and 2 tbsp pineapple chunks at Stage 4. Add the vinegar (1 tsp) but also 1 tsp sugar.
 - Plate: sweet, sour, slightly thick from the lentils. Total time: 5 minutes.
 
