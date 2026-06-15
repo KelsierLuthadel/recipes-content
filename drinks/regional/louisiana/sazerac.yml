@@ -8,7 +8,8 @@ tags:
   - dairy-free
   - quick
   - lemon
-mentions: []
+mentions:
+  - cuisine/louisiana/story
 ingredients:
   - qty: 60
     unit: ml

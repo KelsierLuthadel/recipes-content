@@ -1,0 +1,16 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+mentions:
+  - cuisine/lebanese/side-dishes/tabbouleh
+  - cuisine/turkish/adana-kebab
+  - cuisine/turkish/desserts/baklava
+  - cuisine/turkish/manti
+  - cuisine/turkish/pide
+  - cuisine/turkish/snacks/haydari
+  - tutorials/middle-eastern-fundamentals/kebabs
+  - tutorials/rice/pilaf

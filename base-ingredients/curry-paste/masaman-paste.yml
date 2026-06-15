@@ -20,6 +20,7 @@ regions:
   - thai
 mentions:
   - cuisine/thai/pastes/massaman-curry-paste
+  - cuisine/thai/story
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/thai-curry/massaman

@@ -1,0 +1,15 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+mentions:
+  - cuisine/indian/BIR-chicken-curry
+  - cuisine/vietnamese/desserts/che-ba-mau
+  - cuisine/vietnamese/snacks/banh-mi
+  - cuisine/vietnamese/snacks/goi-cuon
+  - cuisine/vietnamese/vietnamese-curry
+  - tutorials/pizza/sauce

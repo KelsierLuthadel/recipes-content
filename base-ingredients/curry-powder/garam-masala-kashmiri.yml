@@ -11,6 +11,7 @@ tags:
 regions:
   - indian
 mentions:
+  - cuisine/indian/story
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage

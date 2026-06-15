@@ -1,0 +1,21 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+mentions:
+  - cuisine/mexican/carne-asada
+  - cuisine/mexican/chiles-en-nogada
+  - cuisine/mexican/chiles-rellenos
+  - cuisine/mexican/cochinita-pibil
+  - cuisine/mexican/mole-poblano
+  - cuisine/mexican/side-dishes/elote
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/mexican/snacks/salsa-roja
+  - cuisine/mexican/tacos-al-pastor
+  - tutorials/mexican-fundamentals/mole
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce

@@ -1,0 +1,19 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - one-pan
+  - meals
+mentions:
+  - base-ingredients/spices/cajun-spice-mix
+  - cuisine/cajun/blackened-chicken
+  - cuisine/cajun/chicken-and-sausage-gumbo
+  - cuisine/cajun/crawfish-etouffee
+  - cuisine/cajun/dirty-rice
+  - cuisine/cajun/jambalaya
+  - cuisine/cajun/red-beans-and-rice
+  - cuisine/creole/story
+  - cuisine/louisiana/crawfish-etouffee
+  - cuisine/louisiana/story

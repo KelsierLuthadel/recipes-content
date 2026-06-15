@@ -10,13 +10,24 @@ mentions:
   - base-ingredients/spices/jerk-seasoning
   - cuisine/arabian/kabsa
   - cuisine/cajun/jambalaya
+  - cuisine/cajun/story
+  - cuisine/chinese/story
+  - cuisine/creole/story
   - cuisine/ethiopian/doro-wat
   - cuisine/ethiopian/side-dishes/injera
+  - cuisine/indian/story
+  - cuisine/italian/story
   - cuisine/jordan/mansaf
   - cuisine/lebanese/kibbeh
+  - cuisine/louisiana/story
   - cuisine/mexican/cochinita-pibil
   - cuisine/mexican/mole-poblano
+  - cuisine/mexican/story
   - cuisine/middle-east/kibbeh
+  - cuisine/moroccan/story
+  - cuisine/thai/story
+  - cuisine/turkish/story
+  - cuisine/vietnamese/story
   - tutorials/cocktails/garnish
   - tutorials/mexican-fundamentals/mole
   - tutorials/pizza/sauce

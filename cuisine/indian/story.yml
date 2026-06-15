@@ -1,0 +1,24 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - meals
+  - asian
+mentions:
+  - base-ingredients/spices/panch-poran
+  - cuisine/bengali/desserts/mishti-doi
+  - cuisine/bengali/desserts/rasgulla
+  - cuisine/bengali/desserts/sandesh
+  - cuisine/indian/BIR-Butter-Chicken
+  - cuisine/indian/BIR-Chicken-Vindaloo
+  - cuisine/indian/biryani
+  - cuisine/indian/butter-chicken
+  - cuisine/indian/hyderabadi-mutton-biryani
+  - cuisine/indian/lamb-karahi
+  - cuisine/indian/side-dishes/bhindi-masala
+  - cuisine/indian/side-dishes/saag-aloo
+  - cuisine/indian/side-dishes/tarka-dal
+  - tutorials/indian-breads/paratha
+  - tutorials/pizza/sauce
