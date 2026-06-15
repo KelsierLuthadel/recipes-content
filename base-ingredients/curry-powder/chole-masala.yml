@@ -11,6 +11,8 @@ tags:
   - coriander
   - chili
   - curry
+regions:
+  - indian
 mentions:
   - tutorials/charcuterie/smoking
   - tutorials/spices/storage

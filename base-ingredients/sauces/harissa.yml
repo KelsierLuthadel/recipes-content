@@ -12,6 +12,9 @@ tags:
   - garlic
   - coriander
   - chili
+regions:
+  - north-african
+  - moroccan
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/pizza/sauce

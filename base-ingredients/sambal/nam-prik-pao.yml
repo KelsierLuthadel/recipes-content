@@ -16,6 +16,8 @@ tags:
   - lime
   - coriander
   - chili
+regions:
+  - thai
 mentions:
   - tutorials/charcuterie/safety
   - tutorials/distilling-spirits/safety

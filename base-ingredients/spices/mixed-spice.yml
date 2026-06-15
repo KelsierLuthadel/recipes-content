@@ -11,6 +11,8 @@ tags:
   - ginger
   - coriander
   - chili
+regions:
+  - british
 mentions:
   - cuisine/british/desserts/hot-cross-buns
   - tutorials/middle-eastern-fundamentals/spices

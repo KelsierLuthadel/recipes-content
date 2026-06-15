@@ -11,6 +11,8 @@ tags:
   - spices
   - ginger
   - chili
+regions:
+  - japanese
 mentions:
   - cuisine/japanese/gyudon
   - cuisine/japanese/miso-soup

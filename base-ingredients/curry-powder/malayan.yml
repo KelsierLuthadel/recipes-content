@@ -10,6 +10,9 @@ tags:
   - coriander
   - chili
   - curry
+regions:
+  - malaysian
+  - singaporean
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage

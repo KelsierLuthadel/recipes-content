@@ -9,6 +9,9 @@ tags:
   - spices
   - ginger
   - coriander
+regions:
+  - moroccan
+  - north-african
 mentions:
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting

@@ -16,6 +16,8 @@ tags:
   - coriander
   - chili
   - curry
+regions:
+  - thai
 mentions:
   - cuisine/thai/pastes/massaman-curry-paste
   - tutorials/middle-eastern-fundamentals/spices

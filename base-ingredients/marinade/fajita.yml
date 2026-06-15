@@ -13,6 +13,8 @@ tags:
   - coriander
   - honey
   - chili
+regions:
+  - mexican
 mentions:
   - cuisine/mexican/snacks/guacamole
   - tutorials/middle-eastern-fundamentals/spices

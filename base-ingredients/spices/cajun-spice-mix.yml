@@ -12,6 +12,8 @@ tags:
   - spices
   - onion
   - garlic
+regions:
+  - cajun
 mentions:
   - cuisine/cajun/jambalaya
   - tutorials/middle-eastern-fundamentals/spices

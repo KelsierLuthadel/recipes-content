@@ -16,6 +16,8 @@ tags:
   - coriander
   - chili
   - curry
+regions:
+  - thai
 mentions:
   - tutorials/bbq/ribs
   - tutorials/middle-eastern-fundamentals/spices

@@ -9,6 +9,8 @@ tags:
   - spicy
   - quick
   - curry
+regions:
+  - indian
 mentions:
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage

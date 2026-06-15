@@ -9,6 +9,8 @@ tags:
   - quick
   - coriander
   - curry
+regions:
+  - indian
 mentions:
   - base-ingredients/curry-powder/bir-base-powder
   - tutorials/spices/storage

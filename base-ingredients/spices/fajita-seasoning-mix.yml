@@ -11,6 +11,8 @@ tags:
   - quick
   - spices
   - chili
+regions:
+  - mexican
 mentions:
   - cuisine/mexican/snacks/guacamole
   - tutorials/middle-eastern-fundamentals/spices
