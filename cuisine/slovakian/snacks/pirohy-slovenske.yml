@@ -1,0 +1,62 @@
+prep: 45 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - eggs
+  - onion
+  - potato
+  - cream
+  - cheese
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 165
+    unit: ml
+    name: water
+    raw: 150-180 ml warm water
+  - qty: 400
+    unit: g
+    name: floury potatoes
+    raw: 400 g floury potatoes, peeled and chopped
+  - qty: 150
+    unit: g
+    name: bryndza
+    raw: 150 g bryndza
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: black pepper
+    raw: A grind of black pepper
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g smoked streaky bacon, cut into 1 cm cubes
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream
+  - name: chives
+    raw: Chopped chives, to serve

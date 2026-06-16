@@ -1,0 +1,104 @@
+prep: 1 hour plus 4 hours chilling
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - beef
+  - eggs
+  - onion
+  - potato
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: chicken thigh or beef chuck
+    raw: 500 g chicken thigh or beef chuck, diced small
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely diced
+  - qty: 3
+    name: spring onions
+    raw: 3 spring onions, chopped
+  - qty: 2
+    unit: tbsp
+    name: aji amarillo or mild chilli paste
+    raw: 2 tbsp ground aji amarillo or mild chilli paste
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar
+  - qty: 500
+    unit: ml
+    name: chicken or beef stock
+    raw: 500 ml chicken or beef stock
+  - qty: 200
+    unit: g
+    name: waxy potato
+    raw: 200 g waxy potato, diced 5 mm
+  - qty: 150
+    unit: g
+    name: peas
+    raw: 150 g frozen peas
+  - qty: 15
+    unit: g
+    name: powdered gelatine
+    raw: 15 g powdered gelatine
+  - qty: 3
+    name: hard-boiled eggs
+    raw: 3 hard-boiled eggs, quartered
+  - qty: 12
+    name: green olives
+    raw: 12 green olives
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 100
+    unit: g
+    name: lard or butter
+    raw: 100 g lard or butter, melted
+  - qty: 1
+    unit: tbsp
+    name: achiote seeds
+    raw: 1 tbsp achiote seeds, infused in the lard
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tbsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 1
+    name: egg yolk beaten with 1 tbsp water
+    raw: 1 egg yolk beaten with 1 tbsp water

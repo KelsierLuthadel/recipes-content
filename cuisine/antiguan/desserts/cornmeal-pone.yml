@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+  - butter
+mentions:
+  - cuisine/saint-lucian/desserts/cassava-pone
+  - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
+ingredients:
+  - qty: 300
+    unit: g
+    name: yellow cornmeal
+    raw: 300 g fine yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 200
+    unit: ml
+    name: water or evaporated milk
+    raw: 200 ml water or evaporated milk
+  - qty: 100
+    unit: g
+    name: desiccated coconut
+    raw: 100 g desiccated coconut
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter, melted
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 tsp grated nutmeg
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 tsp mixed spice
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder

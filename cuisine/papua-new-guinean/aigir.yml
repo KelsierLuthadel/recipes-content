@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - fish
+tags:
+  - spicy
+  - quick
+  - meals
+  - fish
+  - onion
+  - coconut
+  - lime
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: sago flour
+    raw: 250 g sago flour
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tbsp coconut oil
+  - qty: 300
+    unit: g
+    name: smoked fish
+    raw: 300 g smoked fish , flaked
+  - qty: 100
+    unit: ml
+    name: coconut cream
+    raw: 100 ml thick coconut cream
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut into wedges
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely sliced
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, finely sliced

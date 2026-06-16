@@ -1,0 +1,93 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 1 hour
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - chicken
+  - onion
+  - ginger
+  - chickpea
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: semolina
+    raw: 300 g fine semolina
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: about 180 ml warm water
+    raw: About 180 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil, plus more for steaming
+  - qty: 1
+    name: chicken
+    raw: 1 chicken , cut into 6 pieces, skinned
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely grated
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 tsp ground white pepper
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: 0.5 tsp ground ginger
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 200
+    unit: g
+    name: chickpeas
+    raw: 200 g cooked chickpeas
+  - qty: 1
+    name: turnip
+    raw: 1 small turnip, peeled and quartered
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    name: onions
+    raw: 2 large onions, very thinly sliced
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tbsp icing sugar
+  - name: bowl of broth for each diner
+    raw: A small bowl of broth for each diner
+  - name: dusting of ground cinnamon
+    raw: A dusting of ground cinnamon
+  - name: scattering of icing sugar
+    raw: A scattering of icing sugar

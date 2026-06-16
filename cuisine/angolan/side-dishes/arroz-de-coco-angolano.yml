@@ -1,0 +1,70 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - sides
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/angolan/muamba-de-galinha
+  - cuisine/mozambique/frango-piri-piri
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 1
+    unit: tbsp
+    name: red palm oil or vegetable oil
+    raw: 1 tablespoon red palm oil OR vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    name: cloves
+    raw: 2 whole cloves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful fresh coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime
+  - qty: 50
+    unit: g
+    name: desiccated coconut
+    raw: 50 g desiccated coconut
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli

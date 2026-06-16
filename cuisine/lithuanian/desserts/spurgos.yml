@@ -1,0 +1,67 @@
+prep: 30 minutes (plus 2 hours rising)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/jamaican/snacks/festival
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 70
+    unit: g
+    name: caster sugar
+    raw: 70 g caster sugar
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk, warmed to body temperature
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 3
+    unit: tbsp
+    name: sour cream
+    raw: 3 tbsp sour cream
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter, melted and cooled
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tbsp vanilla extract
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 250
+    unit: g
+    name: plum or rose-hip jam
+    raw: 250 g thick plum or rose-hip jam
+  - qty: 1.5
+    unit: l
+    name: sunflower oil
+    raw: 1.5 litres sunflower oil, for frying
+  - qty: 200
+    unit: g
+    name: icing sugar
+    raw: 200 g icing sugar, for dusting

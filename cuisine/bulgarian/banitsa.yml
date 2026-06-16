@@ -1,0 +1,48 @@
+prep: 25 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - cheese
+  - yogurt
+mentions:
+  - cuisine/bulgarian/desserts/tikvenik
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: filo pastry
+    raw: 500 g filo pastry
+  - qty: 400
+    unit: g
+    name: bulgarian sirene cheese
+    raw: 400 g Bulgarian sirene cheese , crumbled
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 250
+    unit: ml
+    name: plain bulgarian yoghurt
+    raw: 250 ml plain Bulgarian yoghurt
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil, plus extra for brushing
+  - qty: 1
+    unit: tsp
+    name: baking soda
+    raw: 1 tsp baking soda
+  - qty: 1
+    unit: generous pinch
+    name: salt
+    raw: A generous pinch of fine salt
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter, melted

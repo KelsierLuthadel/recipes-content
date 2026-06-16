@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - ginger
+  - lime
+  - honey
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: ginger root
+    raw: 1 thumb of fresh ginger root , unpeeled, smashed and sliced
+  - qty: 2
+    name: lemongrass stalks
+    raw: 2 lemongrass stalks, bruised and roughly chopped
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, knotted
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 2
+    unit: tbsp
+    name: palm sugar
+    raw: 2 tbsp palm sugar, grated
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: juice of 1/2 lime
+    raw: Juice of 1/2 lime

@@ -1,0 +1,65 @@
+prep: 40 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - spinach
+  - cheese
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil, plus extra for brushing
+  - qty: 500
+    unit: g
+    name: spinach
+    raw: 500 g spinach, washed
+  - qty: 3
+    name: leeks
+    raw: 3 leeks , trimmed and thinly sliced
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 200
+    unit: g
+    name: feta cheese
+    raw: 200 g feta cheese, crumbled
+  - qty: 100
+    unit: g
+    name: gjize or ricotta
+    raw: 100 g gjizë or ricotta
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt

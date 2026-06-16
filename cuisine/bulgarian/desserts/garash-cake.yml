@@ -1,0 +1,75 @@
+prep: 1 hour
+cook: 50 minutes (plus 4 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - tutorials/chocolate/ganache
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: shelled walnuts
+    raw: 250 g shelled walnuts
+  - qty: 8
+    name: egg whites
+    raw: 8 large egg whites
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 300
+    unit: g
+    name: dark chocolate
+    raw: 300 g dark chocolate , chopped
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, soft
+  - qty: 2
+    unit: tbsp
+    name: brandy or rum
+    raw: 2 tbsp brandy or rum
+  - qty: 150
+    unit: g
+    name: dark chocolate
+    raw: 150 g dark chocolate
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: golden syrup
+    raw: 1 tbsp golden syrup
+  - qty: 50
+    unit: g
+    name: walnut halves
+    raw: 50 g walnut halves

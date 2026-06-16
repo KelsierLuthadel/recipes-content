@@ -1,0 +1,50 @@
+prep: 20 minutes
+cook: 50 minutes (plus chilling overnight)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - cream
+mentions:
+  - cuisine/italian/desserts/panna-cotta
+  - sauces/sauce-sweet/caramel-sauce
+  - tutorials/eggs/custards
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 180
+    unit: g
+    name: caster sugar
+    raw: 180 g caster sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 1
+    name: wide strip lemon zest
+    raw: 1 wide strip lemon zest
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split, or 1 tsp vanilla bean paste
+  - qty: 6
+    name: eggs plus 3 yolks
+    raw: 6 large eggs plus 3 yolks
+  - qty: 130
+    unit: g
+    name: caster sugar
+    raw: 130 g caster sugar

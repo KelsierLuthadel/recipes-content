@@ -1,0 +1,50 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - potato
+  - cream
+mentions:
+  - cuisine/belarusian/machanka
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 medium onion
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: plenty of black pepper
+    raw: Plenty of black pepper
+  - qty: 100
+    unit: ml
+    name: sunflower or vegetable oil
+    raw: 100 ml sunflower or vegetable oil for frying
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml thick sour cream
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, chopped

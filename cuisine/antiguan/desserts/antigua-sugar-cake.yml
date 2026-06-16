@@ -1,0 +1,40 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - one-pan
+  - ginger
+  - coconut
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: coconut
+    raw: 300 g freshly grated coconut
+  - qty: 400
+    unit: g
+    name: dark brown sugar
+    raw: 400 g dark brown sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger, finely grated
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - name: pink food colouring
+    raw: A few drops of pink food colouring

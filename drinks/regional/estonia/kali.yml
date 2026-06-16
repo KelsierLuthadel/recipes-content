@@ -1,0 +1,35 @@
+prep: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - dairy-free
+  - quick
+  - make-ahead
+  - lemon
+  - honey
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: stale dark rye bread
+    raw: 400 g stale dark rye bread
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres water
+  - qty: 120
+    unit: g
+    name: sugar
+    raw: 120 g sugar , plus more to taste
+  - qty: 2
+    unit: g
+    name: instant dried yeast
+    raw: 2 g instant dried yeast
+  - qty: 1
+    unit: tbsp
+    name: raisins
+    raw: 1 tbsp raisins
+  - name: "optional: 1 tbsp honey"
+    raw: "Optional: 1 tbsp honey, or 1 tsp lemon juice, to finish"

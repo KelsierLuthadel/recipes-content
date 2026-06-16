@@ -1,0 +1,71 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+mentions:
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g fine yellow cornmeal
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: baking powder
+    raw: 1 tbsp baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: anise seed
+    raw: 1 tsp crushed anise seed
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter, softened
+  - qty: 220
+    unit: g
+    name: soft light-brown sugar
+    raw: 220 g soft light-brown sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 350
+    unit: ml
+    name: milk
+    raw: 350 ml whole milk
+  - qty: 150
+    unit: g
+    name: raisins
+    raw: 150 g raisins
+  - qty: 50
+    unit: g
+    name: toasted cashews
+    raw: 50 g toasted cashews, roughly chopped
+  - name: butter
+    raw: Extra butter for the tin

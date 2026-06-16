@@ -1,0 +1,26 @@
+prep: 5 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - coconut
+  - potato
+  - butter
+mentions:
+  - cuisine/papua-new-guinean/mumu
+  - cuisine/papua-new-guinean/side-dishes/aibika
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 4
+    name: kaukau
+    raw: 4 medium kaukau , about 300 g each
+  - name: little coconut oil for rubbing
+    raw: A little coconut oil for rubbing
+  - name: sea salt
+    raw: Sea salt
+  - name: butter or thick coconut cream
+    raw: Butter or thick coconut cream to serve

@@ -1,0 +1,53 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - make-ahead
+  - nuts
+mentions:
+  - cuisine/israel/desserts/halva
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 150
+    unit: g
+    name: ghee
+    raw: 150 g ghee
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: g
+    name: pitted dates
+    raw: 100 g pitted dates, chopped
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml whole milk
+  - qty: 0.5
+    name: /2 tsp ground cardamom
+    raw: 1/2 tsp ground cardamom
+  - qty: 0.25
+    name: /4 tsp saffron threads
+    raw: 1/4 tsp saffron threads, steeped in 2 tbsp warm water
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: date syrup
+    raw: 1 tbsp date syrup
+  - qty: 2
+    unit: tbsp
+    name: pistachios or almonds
+    raw: 2 tbsp pistachios or almonds, chopped

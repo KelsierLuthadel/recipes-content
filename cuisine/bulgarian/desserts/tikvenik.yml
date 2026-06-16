@@ -1,0 +1,55 @@
+prep: 30 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - nuts
+mentions:
+  - cuisine/bulgarian/banitsa
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: filo pastry
+    raw: 500 g filo pastry
+  - qty: 800
+    unit: g
+    name: winter pumpkin or butternut squash
+    raw: 800 g winter pumpkin or butternut squash, peeled and coarsely grated
+  - qty: 120
+    unit: g
+    name: caster sugar
+    raw: 120 g caster sugar, plus extra for sprinkling
+  - qty: 100
+    unit: g
+    name: shelled walnuts
+    raw: 100 g shelled walnuts, finely chopped
+  - qty: 1.5
+    unit: tsp
+    name: cinnamon
+    raw: 1.5 tsp ground cinnamon
+  - qty: 0.25
+    name: /4 tsp ground clove
+    raw: 1/4 tsp ground clove
+  - qty: 0.5
+    name: /2 tsp grated nutmeg
+    raw: 1/2 tsp grated nutmeg
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil, plus extra for brushing
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter, melted
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tbsp icing sugar, for dusting
+  - name: "optional: 50 ml dark rum or brandy"
+    raw: "Optional: 50 ml dark rum or brandy"

@@ -1,0 +1,39 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - lemon
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: sour cherries
+    raw: 500 g sour cherries , fresh or frozen, stems removed
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 L cold water
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - name: "apricot compot: 600 g halved pitted apricots"
+    raw: "Apricot compot: 600 g halved pitted apricots, 150 g sugar, 1.2 L water"
+  - name: "apple compot: 600 g peeled cored apple wedges"
+    raw: "Apple compot: 600 g peeled cored apple wedges, 100 g sugar, 1 cinnamon stick, 1.2 L water"
+  - name: "plum compot: 600 g halved pitted plums"
+    raw: "Plum compot: 600 g halved pitted plums, 130 g sugar, 1.2 L water"
+  - name: "mixed berry compot: 500 g mixed strawberries"
+    raw: "Mixed berry compot: 500 g mixed strawberries, raspberries, currants, 140 g sugar, 1.2 L water"

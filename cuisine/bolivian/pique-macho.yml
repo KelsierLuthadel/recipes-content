@@ -1,0 +1,71 @@
+prep: 20 minutes
+cook: 30 minutes
+allergens:
+  - eggs
+  - soy
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - tomato
+  - potato
+  - chili
+  - soy-sauce
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef rump or skirt
+    raw: 500 g beef rump or skirt, sliced into thin strips
+  - qty: 200
+    unit: g
+    name: frying sausage
+    raw: 200 g good frying sausage , sliced
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes, cut into thick chips
+  - qty: 2
+    name: red onions
+    raw: 2 large red onions, sliced into half-moons
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes, sliced into wedges
+  - qty: 2
+    name: locoto chillies
+    raw: 2 locoto chillies , sliced
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, quartered
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: soy sauce
+    raw: 1 tbsp soy sauce
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - name: oil for deep-frying
+    raw: Oil for deep-frying
+  - name: salt and pepper
+    raw: Salt and pepper
+  - name: yellow mustard
+    raw: Yellow mustard
+  - name: tomato ketchup
+    raw: Tomato ketchup
+  - name: mayonnaise
+    raw: Mayonnaise

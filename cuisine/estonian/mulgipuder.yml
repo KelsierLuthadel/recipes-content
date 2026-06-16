@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - butter
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/charcuterie/sausages
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: pearl barley
+    raw: 200 g pearl barley
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes, peeled and cut into 3 cm chunks
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk, warmed
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt, plus more to taste
+  - name: black pepper
+    raw: Black pepper
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon or pork belly
+    raw: 200 g smoked streaky bacon or pork belly, diced
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - name: black pepper
+    raw: Black pepper

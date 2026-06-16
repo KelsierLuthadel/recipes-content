@@ -1,0 +1,79 @@
+prep: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour, plus more for dusting
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk, warm
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, softened
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 400
+    unit: g
+    name: white cabbage
+    raw: 400 g white cabbage, finely shredded
+  - qty: 150
+    unit: g
+    name: smoked streaky bacon
+    raw: 150 g smoked streaky bacon, diced small
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    unit: tbsp
+    name: dill
+    raw: 1 tbsp fresh dill, chopped
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    name: reserved egg yolk
+    raw: 1 reserved egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tbsp milk

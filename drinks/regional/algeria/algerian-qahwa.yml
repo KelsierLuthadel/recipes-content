@@ -1,0 +1,28 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: water
+    raw: 4 small cups water
+  - qty: 4
+    name: heaped tsp very finely ground coffee
+    raw: 4 heaped tsp very finely ground coffee
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, lightly crushed
+  - qty: 2
+    unit: tsp
+    name: sugar
+    raw: 2 tsp sugar
+  - qty: 1
+    name: clove
+    raw: 1 clove

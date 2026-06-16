@@ -1,0 +1,45 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - coconut
+  - lime
+  - complex
+mentions:
+  - cuisine/fijian/lovo
+  - cuisine/fijian/rourou
+  - tutorials/spices/storage
+ingredients:
+  - qty: 24
+    name: taro leaves
+    raw: 24 young taro leaves , stems trimmed
+  - qty: 400
+    unit: ml
+    name: coconut cream
+    raw: 400 ml thick coconut cream
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, finely chopped
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: A pinch of white pepper
+  - name: "optional: 100 g corned beef"
+    raw: "Optional: 100 g corned beef, finely chopped"
+  - qty: 4
+    name: squares of foil or banana leaf
+    raw: 4 squares of foil or banana leaf

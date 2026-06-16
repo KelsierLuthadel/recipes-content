@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 0 minutes (plus 24-72 hours fermenting)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - onion
+  - carrot
+  - chili
+  - complex
+mentions:
+  - cuisine/honduras/side-dishes/yuca-con-chicharron
+  - cuisine/salvadoran/pupusas
+  - cuisine/salvadoran/tamales-pisques
+  - cuisine/salvadoran/yuca-con-chicharron
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: white cabbage
+    raw: 1 small white cabbage , cored, finely shredded
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots , peeled, coarsely grated
+  - qty: 1
+    name: onion
+    raw: 1 small onion, halved and finely sliced
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 2
+    unit: tsp
+    name: oregano
+    raw: 2 tsp dried oregano
+  - qty: 0.5
+    name: /2-1 tsp dried chilli flakes
+    raw: 1/2-1 tsp dried chilli flakes
+  - qty: 250
+    unit: ml
+    name: apple cider vinegar
+    raw: 250 ml apple cider vinegar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml hot water
+  - qty: 1
+    unit: tbsp
+    name: panela or light brown sugar
+    raw: 1 tbsp panela or light brown sugar

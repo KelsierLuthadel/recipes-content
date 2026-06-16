@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: 15 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/kuwaiti/machboos
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes, finely diced
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed to a paste
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli, finely chopped
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: juice of 1/2 lime
+    raw: Juice of 1/2 lime
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: A large handful fresh coriander, finely chopped

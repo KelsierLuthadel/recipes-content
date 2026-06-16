@@ -1,0 +1,76 @@
+prep: 20 minutes (plus 30 minutes soaking)
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - lemon
+  - cheese
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: stale country bread
+    raw: 250 g stale country bread, torn into pieces
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml whole milk
+  - qty: 150
+    unit: g
+    name: polenta
+    raw: 150 g coarse polenta
+  - qty: 80
+    unit: g
+    name: 00 flour
+    raw: 80 g 00 flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 60
+    unit: ml
+    name: olive oil
+    raw: 60 ml olive oil, plus extra for the tin
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 80
+    unit: g
+    name: pancetta in 5 mm dice
+    raw: 80 g pancetta in 5 mm dice
+  - qty: 80
+    unit: g
+    name: pecorino
+    raw: 80 g aged pecorino, coarsely grated
+  - qty: 60
+    unit: g
+    name: walnuts
+    raw: 60 g walnuts, roughly chopped
+  - qty: 2
+    unit: tbsp
+    name: rosemary
+    raw: 2 tbsp chopped rosemary
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    unit: handful
+    name: figs
+    raw: A handful of dried figs, chopped

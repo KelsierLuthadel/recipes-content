@@ -1,0 +1,97 @@
+prep: 1 hour (plus 2 days resting the dough)
+cook: 8 to 10 minutes per tray
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - ginger
+  - lemon
+  - butter
+  - honey
+  - complex
+mentions:
+  - drinks/hot/mulled-wine
+  - drinks/regional/latvia/riga-black-balsam
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 150
+    unit: g
+    name: dark molasses or black treacle
+    raw: 150 g dark molasses or black treacle
+  - qty: 150
+    unit: g
+    name: golden syrup
+    raw: 150 g golden syrup
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tablespoon water
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tablespoon ground cinnamon
+  - qty: 2
+    unit: tsp
+    name: ginger
+    raw: 2 teaspoons ground ginger
+  - qty: 1
+    unit: tsp
+    name: cloves
+    raw: 1 teaspoon ground cloves
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 teaspoon ground cardamom
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 teaspoon ground allspice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 0.25
+    unit: tsp
+    name: nutmeg
+    raw: ¼ teaspoon ground nutmeg
+  - qty: 600
+    unit: g
+    name: plain flour
+    raw: 600 g plain flour
+  - qty: 2
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 2 teaspoons bicarbonate of soda
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon fine salt
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 1
+    name: to 2 teaspoons lemon juice
+    raw: 1 to 2 teaspoons lemon juice
+  - qty: 1
+    name: to 2 teaspoons water
+    raw: 1 to 2 teaspoons water

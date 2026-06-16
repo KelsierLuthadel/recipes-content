@@ -1,0 +1,60 @@
+prep: 30 minutes (plus 2 hours rising)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk, warmed
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tbsp honey
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tbsp milk
+  - name: cold unsalted butter
+    raw: Cold unsalted butter
+  - name: pot of jam
+    raw: A pot of jam

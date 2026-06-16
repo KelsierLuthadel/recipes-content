@@ -1,0 +1,79 @@
+prep: 45 minutes
+cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - yogurt
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: soured cabbage or 1 large fresh white cabbage
+    raw: 1 whole soured cabbage or 1 large fresh white cabbage
+  - qty: 500
+    unit: g
+    name: pork
+    raw: 500 g minced pork
+  - qty: 150
+    unit: g
+    name: long-grain white rice
+    raw: 150 g long-grain white rice
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 100
+    unit: g
+    name: smoked bacon
+    raw: 100 g smoked bacon, in strips
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: tomato puree
+    raw: 3 tbsp tomato puree
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g chopped tomatoes
+  - qty: 500
+    unit: ml
+    name: chicken or pork stock
+    raw: 500 ml chicken or pork stock
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 1
+    unit: tbsp
+    name: savory
+    raw: 1 tbsp dried savory
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - name: black pepper
+    raw: Black pepper
+  - name: plain yoghurt
+    raw: Plain yoghurt, to serve

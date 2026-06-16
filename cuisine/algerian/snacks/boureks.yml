@@ -1,0 +1,66 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - cheese
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 16
+    name: sheets warqa pastry or filo
+    raw: 16 sheets warqa pastry or filo
+  - qty: 2
+    unit: tbsp
+    name: plain flour mixed with 3 tbsp water
+    raw: 2 tbsp plain flour mixed with 3 tbsp water
+  - qty: 1
+    unit: l
+    name: sunflower oil
+    raw: 1 litre sunflower oil for frying
+  - qty: 300
+    unit: g
+    name: beef
+    raw: 300 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, very finely chopped
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: 0.5 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley, finely chopped
+  - qty: 1
+    name: egg
+    raw: 1 egg, lightly beaten
+  - qty: 80
+    unit: g
+    name: mozzarella or kashkaval cheese
+    raw: 80 g grated mozzarella or kashkaval cheese

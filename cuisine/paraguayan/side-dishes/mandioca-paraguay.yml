@@ -1,0 +1,28 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
+  - cuisine/mexican/pollo-asado
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: cassava
+    raw: 1.2 kg fresh cassava , or 1 kg frozen peeled cassava
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tbsp salt
+  - name: "optional: 1 tbsp lard for richness"
+    raw: "Optional: 1 tbsp lard for richness"

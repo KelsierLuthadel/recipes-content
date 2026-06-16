@@ -1,0 +1,71 @@
+prep: 40 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - garlic
+  - spinach
+  - cheese
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour, plus more for rolling
+  - qty: 100
+    unit: ml
+    name: virgin olive oil
+    raw: 100 ml extra virgin olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml warm water
+  - qty: 700
+    unit: g
+    name: spinach
+    raw: 700 g fresh spinach
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 250
+    unit: g
+    name: ricotta
+    raw: 250 g ricotta
+  - qty: 60
+    unit: g
+    name: parmesan
+    raw: 60 g grated parmesan
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 0.25
+    name: /4 tsp grated nutmeg
+    raw: 1/4 tsp grated nutmeg
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 4
+    name: eggs
+    raw: 4 whole eggs
+  - qty: 1
+    name: egg yolk + 1 tbsp milk
+    raw: 1 egg yolk + 1 tbsp milk

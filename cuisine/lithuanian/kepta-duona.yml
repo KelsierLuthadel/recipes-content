@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - meals
+  - garlic
+  - cream
+  - cheese
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: dense dark rye bread
+    raw: 500 g dense dark rye bread , 1-2 days old
+  - qty: 500
+    unit: ml
+    name: sunflower oil or 8 tbsp oil for shallow frying
+    raw: 500 ml sunflower oil OR 8 tbsp oil for shallow frying
+  - qty: 4
+    name: garlic cloves
+    raw: 4 large garlic cloves, peeled and halved
+  - qty: 2
+    unit: tsp
+    name: flake salt
+    raw: 2 tsp flake salt
+  - qty: 150
+    unit: g
+    name: hard mature cheese
+    raw: 150 g hard mature cheese , finely grated
+  - qty: 3
+    unit: tbsp
+    name: mayonnaise
+    raw: 3 tbsp mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tbsp sour cream
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, grated
+  - qty: 1
+    unit: tbsp
+    name: dill
+    raw: 1 tbsp chopped fresh dill
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: Pinch black pepper

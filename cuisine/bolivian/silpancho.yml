@@ -1,0 +1,69 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - eggs
+  - meat
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - eggs
+  - rice
+  - onion
+  - tomato
+  - potato
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: beef rump or topside
+    raw: 4 thin slices of beef rump or topside
+  - qty: 200
+    unit: g
+    name: dry breadcrumbs
+    raw: 200 g dry breadcrumbs
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 300
+    unit: g
+    name: white rice
+    raw: 300 g white rice
+  - qty: 4
+    name: waxy potatoes
+    raw: 4 medium waxy potatoes
+  - name: salt
+    raw: Salt
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes, finely diced
+  - qty: 1
+    name: red onion
+    raw: 1 red onion, finely diced
+  - qty: 1
+    name: locoto chilli
+    raw: 1 locoto chilli , finely chopped
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - name: salt and pepper
+    raw: Salt and pepper

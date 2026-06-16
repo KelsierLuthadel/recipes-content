@@ -1,0 +1,67 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - mustard
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - eggs
+  - onion
+  - potato
+  - cream
+mentions:
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, peeled
+  - qty: 200
+    unit: g
+    name: cold cooked ham or smoked sausage
+    raw: 200 g cold cooked ham or smoked sausage
+  - qty: 4
+    name: pickled gherkins
+    raw: 4 medium pickled gherkins
+  - qty: 200
+    unit: g
+    name: or thawed green peas
+    raw: 200 g cooked or thawed green peas
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely chopped
+  - qty: 150
+    unit: g
+    name: sour cream
+    raw: 150 g sour cream
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tbsp mayonnaise
+  - qty: 2
+    unit: tsp
+    name: estonian or dijon mustard
+    raw: 2 tsp Estonian or Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: gherkin brine
+    raw: 2 tbsp gherkin brine
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tbsp fresh dill, chopped

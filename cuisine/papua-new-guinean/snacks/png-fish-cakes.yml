@@ -1,0 +1,74 @@
+prep: 25 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - potato
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: kaukau
+    raw: 400 g kaukau , peeled
+  - qty: 250
+    unit: g
+    name: smoked fish
+    raw: 250 g smoked fish , skin and bones removed
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, finely sliced
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, finely grated
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tbsp finely chopped fresh coriander
+  - name: zest of 1 lime
+    raw: Zest of 1 lime
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tbsp plain flour, plus extra for dusting
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: A grind of black pepper
+  - qty: 4
+    unit: tbsp
+    name: coconut oil
+    raw: 4 tbsp coconut oil , for frying
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut into wedges
+  - name: coconut chutney or sweet chilli sauce
+    raw: Coconut chutney or sweet chilli sauce

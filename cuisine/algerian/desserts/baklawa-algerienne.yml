@@ -1,0 +1,65 @@
+prep: 45 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - one-pan
+  - lemon
+  - butter
+  - nuts
+mentions:
+  - cuisine/turkish/desserts/baklava
+  - drinks/regional/arabia/qahwa
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: filo pastry
+    raw: 500 g filo pastry , thawed if frozen
+  - qty: 250
+    unit: g
+    name: clarified butter or ghee
+    raw: 250 g clarified butter or ghee, melted
+  - qty: 400
+    unit: g
+    name: blanched almonds
+    raw: 400 g blanched almonds
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: orange-blossom water
+    raw: 2 tbsp orange-blossom water
+  - qty: 24
+    name: blanched almonds
+    raw: 24 whole blanched almonds
+  - qty: 400
+    unit: g
+    name: sugar
+    raw: 400 g sugar
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 3
+    unit: tbsp
+    name: orange-blossom water
+    raw: 3 tbsp orange-blossom water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick

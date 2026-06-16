@@ -1,0 +1,56 @@
+prep: 5 minutes
+cook: 15 minutes (plus 2 hours chilling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - cream
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: ml
+    name: milk
+    raw: 800 ml whole milk
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 60
+    unit: g
+    name: cornflour
+    raw: 60 g cornflour
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, lightly crushed
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tbsp rose water
+  - qty: 1
+    unit: tsp
+    name: orange blossom water
+    raw: 1 tsp orange blossom water
+  - qty: 3
+    unit: tbsp
+    name: pistachios
+    raw: 3 tbsp pistachios, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: rose petals
+    raw: 1 tbsp dried rose petals
+  - qty: 1
+    unit: tbsp
+    name: honey or sugar syrup
+    raw: 1 tbsp honey or sugar syrup

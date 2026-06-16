@@ -1,0 +1,85 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - lime
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: boiled crabs
+    raw: 4 large boiled crabs , with back shells saved
+  - qty: 400
+    unit: g
+    name: pulled mixed crab meat
+    raw: 400 g pulled mixed crab meat
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion, finely chopped
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme, leaves only
+  - qty: 0.25
+    name: /4 scotch bonnet
+    raw: 1/4 scotch bonnet, deseeded and finely chopped
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tbsp fresh parsley, chopped
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp fresh lime juice
+  - qty: 60
+    unit: g
+    name: white breadcrumbs
+    raw: 60 g fine fresh white breadcrumbs
+  - qty: 0.5
+    name: /2 tsp paprika
+    raw: 1/2 tsp paprika
+  - qty: 0.25
+    name: /4 tsp ground allspice
+    raw: 1/4 tsp ground allspice
+  - name: black pepper
+    raw: Black pepper to taste
+  - name: salt only if needed
+    raw: Salt only if needed
+  - qty: 30
+    unit: g
+    name: breadcrumbs
+    raw: 30 g fine breadcrumbs
+  - qty: 20
+    unit: g
+    name: butter
+    raw: 20 g butter, in small dabs
+  - name: dusting of paprika
+    raw: A dusting of paprika
+  - name: wedges of lime
+    raw: Wedges of lime
+  - name: hot sauce
+    raw: Hot sauce

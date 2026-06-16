@@ -1,0 +1,41 @@
+prep: 1 hour (plus 1 hour sweating peppers)
+cook: 2 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - chili
+  - complex
+mentions:
+  - cuisine/bosnian/bosnian-cevapi
+  - tutorials/cocktails/equipment
+  - tutorials/spices/storage
+ingredients:
+  - qty: 5
+    unit: kg
+    name: long sweet red peppers
+    raw: 5 kg long sweet red peppers
+  - qty: 1
+    name: red chilli
+    raw: 1 small fresh red chilli , optional, for blaga leave out
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves, peeled
+  - qty: 200
+    unit: ml
+    name: sunflower oil
+    raw: 200 ml sunflower oil
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp fine salt
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar

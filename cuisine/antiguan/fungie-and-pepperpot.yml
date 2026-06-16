@@ -1,0 +1,87 @@
+prep: 30 minutes
+cook: 2 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - spinach
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: salt beef
+    raw: 500 g salt beef, soaked overnight and cubed
+  - qty: 300
+    unit: g
+    name: pork shoulder
+    raw: 300 g pork shoulder, cubed
+  - qty: 1
+    name: onion
+    raw: 1 onion, chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 400
+    unit: g
+    name: callaloo or spinach
+    raw: 400 g callaloo or spinach, chopped
+  - qty: 200
+    unit: g
+    name: kale or pak choi
+    raw: 200 g kale or pak choi, chopped
+  - qty: 300
+    unit: g
+    name: pumpkin
+    raw: 300 g pumpkin, peeled and cubed
+  - qty: 1
+    name: eggplant
+    raw: 1 small eggplant, cubed
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 whole Scotch bonnet pepper
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g fine yellow cornmeal
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g okra, thinly sliced
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter

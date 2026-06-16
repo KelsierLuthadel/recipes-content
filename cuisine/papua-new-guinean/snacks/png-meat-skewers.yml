@@ -1,0 +1,70 @@
+prep: 20 minutes (plus 2 hour marinade)
+cook: 12 minutes
+allergens:
+  - dairy
+  - soy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - chili
+  - soy-sauce
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork shoulder
+    raw: 800 g pork shoulder , in 2.5 cm cubes
+  - qty: 8
+    name: bamboo skewers
+    raw: 8 bamboo skewers , soaked 30 minutes in cold water
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml thick coconut cream
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 2
+    unit: tbsp
+    name: soy sauce
+    raw: 2 tbsp soy sauce
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely grated
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: palm sugar
+    raw: 1 tbsp grated palm sugar
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut into wedges
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely sliced
+  - name: coconut chutney or sweet chilli sauce
+    raw: Coconut chutney or sweet chilli sauce

@@ -1,0 +1,42 @@
+prep: 20 minutes (plus 1 hr rise)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - snack
+  - butter
+mentions:
+  - cuisine/saint-lucian/snacks/souskaye
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tbsp caster sugar
+  - qty: 7
+    unit: g
+    name: fast-action dried yeast
+    raw: 7 g fast-action dried yeast
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter, melted
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil for frying

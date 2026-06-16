@@ -1,0 +1,43 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - coconut
+  - butter
+mentions:
+  - tutorials/chocolate/truffles
+  - tutorials/spices/storage
+  - tutorials/sugar-work/fudge
+ingredients:
+  - qty: 300
+    unit: g
+    name: coconut
+    raw: 300 g fresh grated coconut , or 250 g unsweetened desiccated coconut soaked in 100 ml warm milk for 15 minutes
+  - qty: 300
+    unit: g
+    name: soft dark brown sugar
+    raw: 300 g soft dark brown sugar
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ tsp ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 20
+    unit: g
+    name: unsalted butter
+    raw: 20 g unsalted butter

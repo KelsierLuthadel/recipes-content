@@ -1,0 +1,50 @@
+prep: 30 minutes
+cook: 10 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - garlic
+  - coriander
+mentions:
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/pickling
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: banana peppers
+    raw: 1.5 kg banana peppers
+  - qty: 1
+    name: garlic
+    raw: 1 head garlic, peeled and lightly crushed
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 2
+    unit: tsp
+    name: black peppercorns
+    raw: 2 tsp black peppercorns
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 750
+    unit: ml
+    name: white wine vinegar
+    raw: 750 ml white wine vinegar
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 60
+    unit: g
+    name: salt
+    raw: 60 g salt
+  - qty: 30
+    unit: g
+    name: sugar
+    raw: 30 g sugar

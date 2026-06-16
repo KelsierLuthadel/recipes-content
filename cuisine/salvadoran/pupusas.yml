@@ -1,0 +1,69 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - tomato
+  - cheese
+mentions:
+  - cuisine/mexican/snacks/salsa-roja
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: masa harina
+    raw: 500 g masa harina
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml warm water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 300
+    unit: g
+    name: red beans
+    raw: 300 g cooked red beans , drained
+  - qty: 1
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 1 tbsp lard or vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 200
+    unit: g
+    name: quesillo or low-moisture mozzarella
+    raw: 200 g quesillo or low-moisture mozzarella, grated
+  - name: salt
+    raw: Salt to taste
+  - qty: 200
+    unit: g
+    name: pork belly
+    raw: 200 g cooked pork belly
+  - qty: 1
+    name: tomato
+    raw: 1 tomato, halved
+  - qty: 0.5
+    name: /2 small onion
+    raw: 1/2 small onion
+  - qty: 1
+    name: green pepper
+    raw: 1 small green pepper
+  - qty: 1
+    unit: pinch
+    name: oregano
+    raw: Pinch of dried oregano

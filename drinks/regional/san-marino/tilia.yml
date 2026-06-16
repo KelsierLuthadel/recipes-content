@@ -1,0 +1,26 @@
+prep: 1 minute
+cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+  - lime
+  - honey
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tsp
+    name: lime flowers
+    raw: 2 tsp dried lime flowers, loose
+  - qty: 300
+    unit: ml
+    name: just-off-the-boil water
+    raw: 300 ml just-off-the-boil water
+  - name: spoon of honey
+    raw: A small spoon of honey
+  - name: lemon
+    raw: A thin slice of lemon

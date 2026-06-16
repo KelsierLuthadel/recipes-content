@@ -1,0 +1,67 @@
+prep: 1 hour
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - butter
+  - cheese
+  - complex
+mentions:
+  - drinks/regional/san-marino/sangiovese-di-san-marino
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: 00 flour
+    raw: 250 g 00 flour
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 70
+    unit: g
+    name: unsalted butter
+    raw: 70 g unsalted butter
+  - qty: 70
+    unit: g
+    name: 00 flour
+    raw: 70 g 00 flour
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt and white pepper
+    raw: Salt and white pepper
+  - qty: 200
+    unit: g
+    name: prosciutto cotto
+    raw: 200 g sliced prosciutto cotto
+  - qty: 200
+    unit: g
+    name: fontina or scamorza
+    raw: 200 g fontina or scamorza, coarsely grated
+  - qty: 80
+    unit: g
+    name: pecorino or parmesan
+    raw: 80 g aged pecorino or parmesan, finely grated
+  - qty: 1
+    unit: small handful
+    name: sage leaves
+    raw: A small handful sage leaves, chopped
+  - qty: 30
+    unit: g
+    name: butter for the dish and dotting on top
+    raw: 30 g butter for the dish and dotting on top
+  - qty: 40
+    unit: g
+    name: parmesan
+    raw: 40 g grated parmesan for the top

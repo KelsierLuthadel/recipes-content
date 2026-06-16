@@ -1,0 +1,33 @@
+prep: 20 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+mentions:
+  - cuisine/san-marinese/coniglio-in-porchetta
+  - cuisine/san-marinese/snacks/piadina-farcita
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: 00 flour
+    raw: 500 g 00 flour, plus extra for dusting
+  - qty: 50
+    unit: g
+    name: lard
+    raw: 50 g lard , or 50 ml olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 0.5
+    name: /2 tsp bicarbonate of soda
+    raw: 1/2 tsp bicarbonate of soda
+  - qty: 250
+    name: to 280 ml warm water
+    raw: 250 to 280 ml warm water

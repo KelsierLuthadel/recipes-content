@@ -1,0 +1,82 @@
+prep: 1 hour
+cook: 40 minutes (plus 4 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - cream
+  - chocolate
+  - complex
+mentions:
+  - tutorials/chocolate/ganache
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 30
+    unit: g
+    name: cocoa powder
+    raw: 30 g cocoa powder
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 600
+    unit: ml
+    name: milk
+    raw: 600 ml full-fat milk
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - name: oil
+    raw: Extra oil for the pan
+  - qty: 600
+    unit: g
+    name: pitted sour cherries
+    raw: 600 g pitted sour cherries , fresh or frozen
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 2
+    unit: tbsp
+    name: cornflour
+    raw: 2 tbsp cornflour
+  - qty: 600
+    unit: g
+    name: sour cream
+    raw: 600 g full-fat sour cream , 30% fat
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 150
+    unit: g
+    name: dark chocolate
+    raw: 150 g dark chocolate , chopped
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream

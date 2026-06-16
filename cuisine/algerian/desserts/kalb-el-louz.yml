@@ -1,0 +1,68 @@
+prep: 20 minutes (plus 1 hour resting)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - yogurt
+  - nuts
+  - complex
+mentions:
+  - cuisine/algerian/desserts/makroud
+  - cuisine/north-african/makroud
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: semolina
+    raw: 500 g medium semolina
+  - qty: 200
+    unit: g
+    name: almonds
+    raw: 200 g ground almonds
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter, melted
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tbsp orange-blossom water
+  - qty: 200
+    unit: ml
+    name: plain whole-milk yoghurt
+    raw: 200 ml plain whole-milk yoghurt
+  - qty: 24
+    name: blanched almonds
+    raw: 24 whole blanched almonds
+  - qty: 400
+    unit: g
+    name: sugar
+    raw: 400 g sugar
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 3
+    unit: tbsp
+    name: orange-blossom water
+    raw: 3 tbsp orange-blossom water

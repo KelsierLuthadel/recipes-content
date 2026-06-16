@@ -1,0 +1,79 @@
+prep: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour, plus more for dusting
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk, warm
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1.5
+    unit: tsp
+    name: cardamom
+    raw: 1.5 tsp ground cardamom
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads, crushed
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - qty: 80
+    unit: g
+    name: light brown sugar
+    raw: 80 g light brown sugar
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: cardamom
+    raw: 1 tsp ground cardamom
+  - qty: 1
+    name: reserved egg white
+    raw: 1 reserved egg white, beaten
+  - qty: 2
+    unit: tbsp
+    name: pearl sugar
+    raw: 2 tbsp pearl sugar
+  - qty: 2
+    unit: tbsp
+    name: flaked almonds
+    raw: 2 tbsp flaked almonds

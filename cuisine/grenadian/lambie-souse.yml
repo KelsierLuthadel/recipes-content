@@ -1,0 +1,78 @@
+prep: 30 minutes (plus 4 hours chilling)
+cook: 1 hour
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/grenadian/oildown
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: cleaned conch meat
+    raw: 600 g cleaned conch meat , fresh or frozen
+  - qty: 1
+    name: lime
+    raw: 1 lime, halved
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: onion
+    raw: 1 small onion, halved
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - name: water
+    raw: Water to cover
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber, peeled, deseeded, diced small
+  - qty: 1
+    name: onion
+    raw: 1 large onion, very finely sliced
+  - qty: 6
+    name: limes
+    raw: 6 limes, juiced
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, deseeded, very finely chopped
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, chopped
+  - qty: 1
+    name: chadon beni
+    raw: 1 small bunch chadon beni , finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, grated
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: 0.5 tsp black pepper
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil

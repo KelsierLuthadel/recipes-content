@@ -1,0 +1,49 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - onion
+  - potato
+mentions:
+  - cuisine/slovakian/side-dishes/lokse
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes , peeled
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour, plus extra for rolling
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 4
+    unit: tbsp
+    name: goose fat
+    raw: 4 tbsp goose fat
+  - qty: 2
+    name: onions
+    raw: 2 large onions, halved and thinly sliced
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 tsp caster sugar
+  - qty: 1
+    unit: pinch
+    name: caraway seeds
+    raw: A pinch of caraway seeds, lightly crushed
+  - name: black pepper
+    raw: A grind of black pepper

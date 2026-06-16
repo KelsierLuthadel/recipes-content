@@ -1,0 +1,34 @@
+prep: 30 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - carrot
+mentions:
+  - cuisine/estonian/hapukapsasupp
+  - tutorials/cocktails/equipment
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: white cabbage
+    raw: 2 kg white cabbage , outer leaves removed
+  - qty: 40
+    unit: g
+    name: sea salt
+    raw: 40 g fine sea salt
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot, grated
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds
+  - qty: 1
+    unit: tsp
+    name: juniper berries
+    raw: 1 tsp juniper berries, lightly crushed

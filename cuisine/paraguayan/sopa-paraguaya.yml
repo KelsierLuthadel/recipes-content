@@ -1,0 +1,50 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - cheese
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: onions
+    raw: 4 medium onions, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 4 tbsp lard or vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 300
+    unit: g
+    name: yellow cornmeal
+    raw: 300 g fine yellow cornmeal
+  - qty: 400
+    unit: ml
+    name: milk
+    raw: 400 ml whole milk
+  - qty: 300
+    unit: g
+    name: queso paraguay or young feta
+    raw: 300 g queso paraguay or young feta, crumbled
+  - qty: 6
+    name: eggs
+    raw: 6 eggs, separated
+  - qty: 100
+    unit: ml
+    name: vegetable oil
+    raw: 100 ml vegetable oil
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder

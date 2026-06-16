@@ -1,0 +1,64 @@
+prep: 20 minutes
+cook: 40 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - cuisine/french/desserts/clafoutis
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: stale white bread
+    raw: 300 g stale white bread , sliced 1 cm thick
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted, plus more for the dish
+  - qty: 800
+    unit: g
+    name: tart eating apples
+    raw: 800 g tart eating apples , peeled and coarsely grated
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins, soaked 10 minutes in hot water , drained
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - name: icing sugar
+    raw: Icing sugar, to dust

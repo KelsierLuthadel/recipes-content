@@ -1,0 +1,86 @@
+prep: 15 minutes (plus overnight soak)
+cook: 3 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/kuwaiti/harees
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: wheat berries
+    raw: 300 g whole wheat berries , soaked overnight
+  - qty: 700
+    unit: g
+    name: chicken thighs on the bone
+    raw: 700 g chicken thighs on the bone
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: kuwaiti baharat
+    raw: 1 tbsp Kuwaiti baharat
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods
+  - qty: 2
+    name: limes
+    raw: 2 dried limes, pierced
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres water
+  - qty: 3
+    unit: tbsp
+    name: ghee
+    raw: 3 tbsp ghee, melted
+  - name: coriander
+    raw: Chopped coriander
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon

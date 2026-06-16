@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - potato
+  - butter
+mentions:
+  - cuisine/belarusian/machanka
+  - cuisine/belarusian/vereshchaka
+  - cuisine/russian/kotlety
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 1
+    unit: tbsp
+    name: salt for the boiling water
+    raw: 1 tbsp salt for the boiling water
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, cubed and at room temperature
+  - name: salt
+    raw: Salt to finish
+  - name: white pepper
+    raw: White pepper
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, finely chopped
+  - qty: 1
+    unit: extra knob
+    name: butter
+    raw: An extra knob of butter

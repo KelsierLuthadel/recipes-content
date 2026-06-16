@@ -1,0 +1,65 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - ginger
+  - coconut
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: mud crab or 2 medium blue swimmer crabs
+    raw: 1 large mud crab or 2 medium blue swimmer crabs
+  - qty: 2
+    unit: l
+    name: water for cooking
+    raw: 2 litres water for cooking
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tbsp sea salt
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, sliced
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, smashed
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml thick coconut cream
+  - name: juice of 3 limes
+    raw: Juice of 3 limes
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped
+  - qty: 1
+    name: spring onion
+    raw: 1 spring onion, finely sliced
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tbsp finely chopped fresh coriander
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: black pepper
+    raw: A grind of black pepper
+  - qty: 2
+    name: limes
+    raw: 2 limes, cut into wedges
+  - name: coconut cream in a small bowl
+    raw: Extra coconut cream in a small bowl

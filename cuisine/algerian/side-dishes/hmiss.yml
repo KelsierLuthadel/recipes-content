@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - garlic
+  - tomato
+  - lemon
+mentions:
+  - cuisine/algerian/mechoui
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: long green peppers
+    raw: 4 long green peppers
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: sweet paprika
+    raw: 0.5 tsp sweet paprika
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar or lemon juice
+    raw: 1 tsp white wine vinegar or lemon juice

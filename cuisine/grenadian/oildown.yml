@@ -1,0 +1,77 @@
+prep: 30 minutes (plus overnight salt-meat soak)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - coconut
+  - spinach
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/callaloo
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: salt beef or salt pork
+    raw: 500 g salt beef or salt pork
+  - qty: 1
+    name: breadfruit
+    raw: 1 large breadfruit , peeled, cored, cut into 8 wedges
+  - qty: 300
+    unit: g
+    name: callaloo leaves
+    raw: 300 g callaloo leaves, washed and chopped, or spinach as a substitute
+  - qty: 800
+    unit: ml
+    name: coconut milk
+    raw: 800 ml fresh coconut milk
+  - qty: 1
+    name: onion
+    raw: 1 large onion, sliced
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 tsp ground turmeric
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 scotch bonnet pepper, whole
+  - qty: 1
+    name: chadon beni
+    raw: 1 small bunch chadon beni , chopped
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water

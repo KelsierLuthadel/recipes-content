@@ -1,0 +1,84 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cheese
+  - complex
+mentions:
+  - cuisine/american/side-dishes/mac-and-cheese
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: elbow macaroni
+    raw: 400 g elbow macaroni
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely grated
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, finely grated
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 1
+    unit: tsp
+    name: english mustard
+    raw: 1 tsp English mustard
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 0.25
+    name: /4 tsp grated nutmeg
+    raw: 1/4 tsp grated nutmeg
+  - qty: 1.5
+    unit: tsp
+    name: caribbean hot sauce
+    raw: 1-2 tsp Caribbean hot sauce
+  - qty: 350
+    unit: g
+    name: cheddar
+    raw: 350 g sharp cheddar, grated
+  - qty: 50
+    unit: g
+    name: cheddar
+    raw: 50 g sharp cheddar, extra for the top
+  - qty: 1
+    unit: tbsp
+    name: breadcrumbs
+    raw: 1 tbsp dried breadcrumbs

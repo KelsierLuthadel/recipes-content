@@ -1,0 +1,104 @@
+prep: 45 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/blanching
+ingredients:
+  - qty: 6
+    name: yellow onions
+    raw: 6 very large yellow onions
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 400
+    unit: g
+    name: beef and lamb mince
+    raw: 400 g coarse beef and lamb mince
+  - qty: 100
+    unit: g
+    name: short-grain rice
+    raw: 100 g short-grain rice , rinsed and drained
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, very finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely chopped
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley, finely chopped
+  - qty: 1
+    unit: tsp
+    name: savory or dried thyme
+    raw: 1 teaspoon dried savory or dried thyme
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon freshly ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tablespoon sweet paprika
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 500
+    unit: ml
+    name: beef or chicken stock
+    raw: 500 ml beef or chicken stock
+  - qty: 100
+    unit: ml
+    name: sour plum juice
+    raw: 100 ml sour plum juice
+  - qty: 1
+    unit: tbsp
+    name: pomegranate molasses
+    raw: 1 tablespoon pomegranate molasses
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 200
+    unit: g
+    name: soured cream or thick yoghurt
+    raw: 200 g soured cream or thick yoghurt
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of chopped fresh parsley

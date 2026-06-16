@@ -1,0 +1,83 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - one-pan
+  - meals
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: cleaned conch meat
+    raw: 800 g cleaned conch meat
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, sliced
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 3
+    name: scallions
+    raw: 3 scallions, chopped
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes, chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 Scotch bonnet pepper, whole
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 750
+    unit: ml
+    name: water or fish stock
+    raw: 750 ml water or fish stock
+  - name: black pepper
+    raw: Black pepper
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 130
+    unit: ml
+    name: water
+    raw: 130 ml water

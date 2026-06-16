@@ -1,0 +1,63 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - tomato
+  - potato
+  - cheese
+mentions:
+  - bread-pasta/burger-buns
+  - tutorials/charcuterie/bacon
+  - tutorials/charcuterie/smoking
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: beef steaks
+    raw: 2 thin beef steaks , about 120 g each, pounded to 5 mm thick
+  - qty: 4
+    name: ham
+    raw: 4 slices of cooked ham
+  - qty: 4
+    name: rashers of streaky bacon
+    raw: 4 rashers of streaky bacon
+  - qty: 4
+    name: mozzarella
+    raw: 4 slices of mozzarella
+  - qty: 2
+    name: soft sandwich rolls or burger buns
+    raw: 2 large soft sandwich rolls or burger buns
+  - qty: 4
+    name: lettuce leaves
+    raw: 4 large lettuce leaves
+  - qty: 1
+    name: tomato
+    raw: 1 large ripe tomato, sliced
+  - qty: 4
+    unit: tbsp
+    name: mayonnaise
+    raw: 4 tbsp good mayonnaise
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - name: "optional: 2 fried eggs"
+    raw: "Optional: 2 fried eggs"
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - name: sunflower or vegetable oil
+    raw: Sunflower or vegetable oil for frying
+  - name: salt
+    raw: Fine salt

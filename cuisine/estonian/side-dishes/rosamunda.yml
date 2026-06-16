@@ -1,0 +1,45 @@
+prep: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - carrot
+mentions:
+  - cuisine/estonian/side-dishes/hapukapsas
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: white cabbage
+    raw: 600 g white cabbage , outer leaves removed and cored
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots, peeled
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tbsp sugar
+  - qty: 3
+    unit: tbsp
+    name: white wine vinegar
+    raw: 3 tbsp white wine vinegar
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tbsp neutral oil
+  - name: black pepper
+    raw: Black pepper
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp fresh dill, finely chopped

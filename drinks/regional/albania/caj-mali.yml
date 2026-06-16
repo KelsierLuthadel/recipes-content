@@ -1,0 +1,33 @@
+prep: 2 minutes
+cook: 8 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+  - honey
+mentions:
+  - cuisine/albanian/desserts/trilece
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    unit: g
+    name: sideritis
+    raw: 3 g dried sideritis
+  - qty: 500
+    unit: ml
+    name: just-off-the-boil water
+    raw: 500 ml just-off-the-boil water
+  - qty: 1.5
+    unit: tsp
+    name: honey
+    raw: 1-2 tsp honey, to taste
+  - qty: 2
+    name: lemon
+    raw: 2 thin slices lemon
+  - name: "optional: 1 small cinnamon stick"
+    raw: "Optional: 1 small cinnamon stick"
+  - name: "optional: 2 cloves"
+    raw: "Optional: 2 cloves"

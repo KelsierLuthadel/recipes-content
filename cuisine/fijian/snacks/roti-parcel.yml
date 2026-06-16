@@ -1,0 +1,86 @@
+prep: 30 minutes (plus 30 minutes dough rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 240
+    unit: ml
+    name: water
+    raw: 240 ml warm water
+  - qty: 600
+    unit: g
+    name: potatoes
+    raw: 600 g potatoes, peeled and cut into 1 cm dice
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, finely minced
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: fijian or madras curry powder
+    raw: 1 tbsp Fijian or Madras curry powder
+  - qty: 0.5
+    name: /2 tsp turmeric
+    raw: 1/2 tsp turmeric
+  - qty: 0.5
+    name: /2 tsp ground coriander
+    raw: 1/2 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander, chopped
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - name: little oil or ghee for brushing
+    raw: A little oil or ghee for brushing

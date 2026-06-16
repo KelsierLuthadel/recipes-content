@@ -1,0 +1,59 @@
+prep: 1 hour (plus 30 minutes resting the dough)
+cook: 5 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: 00 flour
+    raw: 300 g 00 flour, plus extra for dusting
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: 1 pinch salt
+  - qty: 300
+    unit: g
+    name: ricotta
+    raw: 300 g fresh ricotta
+  - qty: 250
+    unit: g
+    name: swiss chard leaves
+    raw: 250 g Swiss chard leaves , stalks removed
+  - qty: 60
+    unit: g
+    name: pecorino
+    raw: 60 g aged pecorino, finely grated
+  - qty: 1
+    name: egg yolk
+    raw: 1 small egg yolk
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter
+  - qty: 12
+    name: sage leaves
+    raw: 12 sage leaves
+  - qty: 40
+    unit: g
+    name: pecorino
+    raw: 40 g aged pecorino, finely grated, to serve

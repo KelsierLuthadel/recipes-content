@@ -1,0 +1,55 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+tags:
+  - snack
+  - fish
+  - salmon
+  - eggs
+  - onion
+  - potato
+  - cream
+mentions:
+  - cuisine/belarusian/draniki
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: floury potatoes
+    raw: 700 g floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tbsp plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: plenty of black pepper
+    raw: Plenty of black pepper
+  - qty: 80
+    unit: ml
+    name: sunflower oil
+    raw: 80 ml sunflower oil
+  - qty: 200
+    unit: ml
+    name: cold smetana
+    raw: 200 ml thick cold smetana
+  - qty: 80
+    unit: g
+    name: red salmon roe or 100 g cold-smoked salmon or eel
+    raw: 80 g red salmon roe OR 100 g cold-smoked salmon or eel, finely diced
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill

@@ -1,0 +1,127 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - fish
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - fish
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - carrot
+  - lime
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: fish heads
+    raw: 1 kg fish heads, frames and trimmings from the fishmonger
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 1
+    name: carrot
+    raw: 1 carrot, halved
+  - qty: 1
+    unit: stick
+    name: celery
+    raw: 1 stick celery, halved
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tbsp white vinegar
+  - qty: 1.8
+    unit: l
+    name: water
+    raw: 1.8 litres cold water
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper, finely chopped
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 3
+    name: tomatoes
+    raw: 3 medium tomatoes, chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: madame jeanette or aji pepper
+    raw: 1 small Madame Jeanette or aji pepper, pricked twice with a knife
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tbsp Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: maggi seasoning sauce
+    raw: 1 tbsp Maggi seasoning sauce
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 800
+    unit: g
+    name: firm white fish fillets
+    raw: 800 g firm white fish fillets , skin off, cut into 4 cm chunks
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: handful
+    name: coriander leaves
+    raw: A handful of fresh coriander leaves, roughly chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - name: lime wedges
+    raw: Lime wedges
+  - name: aruban yellow pepper sauce on the side
+    raw: Aruban yellow pepper sauce on the side
+  - name: steamed white rice or pan bati
+    raw: Steamed white rice or pan bati to serve

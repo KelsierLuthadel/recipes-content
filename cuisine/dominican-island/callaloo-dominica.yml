@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - onion
+  - garlic
+  - coconut
+  - spinach
+  - lime
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/jamaican/callaloo
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: coconut oil
+    raw: 2 tbsp coconut oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 500
+    unit: g
+    name: dasheen leaves
+    raw: 500 g dasheen leaves, washed and roughly chopped
+  - qty: 200
+    unit: g
+    name: okra
+    raw: 200 g okra, sliced thinly
+  - qty: 1
+    unit: l
+    name: water or light chicken stock
+    raw: 1 litre water or light chicken stock
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 whole scotch bonnet
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 300
+    unit: g
+    name: crabmeat
+    raw: 300 g fresh cooked crabmeat , picked
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp butter
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp fresh lime juice
+  - name: black pepper
+    raw: Black pepper to taste

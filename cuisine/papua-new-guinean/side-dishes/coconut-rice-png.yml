@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 20 minutes (plus 10 min rest)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - rice
+  - coconut
+mentions:
+  - cuisine/indian/rice/coconut-rice
+  - cuisine/papua-new-guinean/mumu
+  - cuisine/thai/side-dishes/coconut-rice
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, tied in a knot
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: coconut oil
+    raw: 1 tbsp coconut oil

@@ -1,0 +1,92 @@
+prep: 40 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - potato
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/romanian/desserts/placinta-cu-mere
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 50
+    unit: ml
+    name: sunflower oil
+    raw: 50 ml sunflower oil
+  - name: oil for stretching
+    raw: Extra oil for stretching
+  - qty: 300
+    unit: g
+    name: branza de oi or feta
+    raw: 300 g brânză de oi or feta, crumbled
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp chopped fresh dill
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten
+  - qty: 1
+    unit: tbsp
+    name: sour cream
+    raw: 1 tbsp sour cream
+  - name: black pepper
+    raw: Black pepper
+  - qty: 400
+    unit: g
+    name: floury potatoes
+    raw: 400 g floury potatoes, peeled and boiled
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 400
+    unit: g
+    name: pumpkin
+    raw: 400 g pumpkin , peeled and grated
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 0.5
+    name: /2 tsp ground cinnamon
+    raw: 1/2 tsp ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter, melted

@@ -1,0 +1,71 @@
+prep: 45 minutes
+cook: 30 minutes (plus 4 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - chocolate
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 180
+    unit: g
+    name: caster sugar
+    raw: 180 g caster sugar
+  - qty: 180
+    unit: g
+    name: plain flour
+    raw: 180 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 150
+    unit: ml
+    name: visinata
+    raw: 150 ml vișinata , or substitute kirsch plus 2 tbsp cherry syrup
+  - qty: 50
+    unit: ml
+    name: water
+    raw: 50 ml cold water
+  - qty: 600
+    unit: ml
+    name: double cream
+    raw: 600 ml double cream
+  - qty: 60
+    unit: g
+    name: icing sugar
+    raw: 60 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 300
+    unit: g
+    name: preserved sour cherries
+    raw: 300 g preserved sour cherries
+  - qty: 80
+    unit: g
+    name: dark chocolate
+    raw: 80 g dark chocolate
+  - qty: 12
+    name: preserved cherries
+    raw: 12 whole preserved cherries

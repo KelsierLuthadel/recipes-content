@@ -1,0 +1,83 @@
+prep: 45 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+  - fish
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - meals
+  - eggs
+  - onion
+  - potato
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: waxy potatoes
+    raw: 600 g waxy potatoes
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 200
+    unit: g
+    name: salted herring fillets
+    raw: 200 g salted herring fillets
+  - qty: 4
+    name: pickled gherkins
+    raw: 4 medium pickled gherkins
+  - qty: 150
+    unit: g
+    name: peas
+    raw: 150 g cooked peas
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely chopped
+  - qty: 1
+    name: tart apple
+    raw: 1 small tart apple , peeled and diced
+  - qty: 150
+    unit: g
+    name: sour cream
+    raw: 150 g thick sour cream
+  - qty: 100
+    unit: g
+    name: mayonnaise
+    raw: 100 g mayonnaise
+  - qty: 2
+    unit: tsp
+    name: dijon mustard
+    raw: 2 teaspoons Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tablespoons finely chopped fresh dill
+  - qty: 1
+    name: hard-boiled egg
+    raw: 1 hard-boiled egg, sliced
+  - qty: 1
+    unit: tbsp
+    name: capers
+    raw: 1 tablespoon small capers, drained
+  - qty: 1
+    unit: pinch
+    name: sweet paprika
+    raw: A pinch of sweet paprika
+  - name: dill
+    raw: Extra dill sprigs

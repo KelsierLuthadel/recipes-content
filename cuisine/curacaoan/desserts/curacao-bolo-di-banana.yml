@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 55 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/curacaoan/desserts/bolo-pretu
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: bananas
+    raw: 4 very ripe bananas
+  - qty: 180
+    unit: g
+    name: unsalted butter
+    raw: 180 g unsalted butter, softened
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: dark rum
+    raw: 1 tbsp dark rum
+  - qty: 280
+    unit: g
+    name: plain flour
+    raw: 280 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 0.5
+    unit: tsp
+    name: baking soda
+    raw: ½ tsp baking soda
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: nutmeg
+    raw: ½ tsp grated nutmeg
+  - qty: 0.25
+    unit: tsp
+    name: clove
+    raw: ¼ tsp ground clove
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 80
+    unit: ml
+    name: milk
+    raw: 80 ml whole milk
+  - qty: 60
+    unit: g
+    name: walnuts
+    raw: 60 g chopped walnuts
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 1
+    unit: tbsp
+    name: dark rum or 1 tsp vanilla
+    raw: 1 tbsp dark rum or 1 tsp vanilla

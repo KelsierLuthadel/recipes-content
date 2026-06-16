@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - onion
+  - tomato
+  - lemon
+mentions:
+  - cuisine/algerian/side-dishes/felfel-mhamer
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: but firm tomatoes
+    raw: 3 ripe but firm tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber
+  - qty: 1
+    name: red onion or 0.5 sweet white onion
+    raw: 1 small red onion or 0.5 sweet white onion
+  - qty: 1
+    name: green pepper
+    raw: 1 small green pepper, finely diced
+  - qty: 80
+    unit: g
+    name: green olives
+    raw: 80 g green olives , pitted, halved
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: 1 small handful flat-leaf parsley, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: virgin olive oil
+    raw: 3 tbsp extra virgin olive oil
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: 0.5 tsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - name: black pepper
+    raw: Black pepper, freshly ground

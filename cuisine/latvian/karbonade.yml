@@ -1,0 +1,62 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - potato
+  - lemon
+  - butter
+mentions:
+  - cuisine/german/wiener-schnitzel
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: pork loin steaks
+    raw: 4 boneless pork loin steaks
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tablespoons whole milk
+  - qty: 150
+    unit: g
+    name: dry breadcrumbs
+    raw: 150 g fine dry breadcrumbs
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tablespoons sunflower oil
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: lingonberry or cranberry jam
+    raw: Lingonberry or cranberry jam
+  - name: dill cucumbers
+    raw: Dill cucumbers
+  - name: boiled new potatoes
+    raw: Boiled new potatoes, buttered
+  - qty: 1
+    name: dill
+    raw: A small bunch of dill, chopped

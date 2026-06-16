@@ -1,0 +1,61 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - lime
+  - butter
+  - cheese
+  - chili
+mentions:
+  - cuisine/bolivian/pique-macho
+  - cuisine/bolivian/side-dishes/llajwa
+  - cuisine/mexican/side-dishes/elote
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: ears of choclo
+    raw: 4 large ears of choclo
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1.5
+    unit: tbsp
+    name: sea salt
+    raw: 1 1/2 tablespoons fine sea salt
+  - qty: 1
+    unit: small handful
+    name: huacatay
+    raw: 1 small handful huacatay
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 1
+    name: bay leaf
+    raw: 1 small bay leaf
+  - qty: 4
+    name: queso fresco or queso paria
+    raw: 4 thick slices queso fresco OR queso paria
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tablespoon butter
+  - qty: 1
+    name: wedge fresh lime
+    raw: 1 wedge fresh lime
+  - qty: 1
+    name: bowl llajwa chilli salsa
+    raw: 1 small bowl llajwa chilli salsa
+  - qty: 1
+    unit: sprig
+    name: huacatay
+    raw: A sprig of huacatay

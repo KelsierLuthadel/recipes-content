@@ -1,0 +1,115 @@
+prep: 1 hour (plus 1 month minimum fruit soaking, ideally 3-6 months)
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: pitted prunes
+    raw: 250 g pitted prunes
+  - qty: 250
+    unit: g
+    name: raisins
+    raw: 250 g raisins
+  - qty: 200
+    unit: g
+    name: currants
+    raw: 200 g currants
+  - qty: 150
+    unit: g
+    name: glace cherries
+    raw: 150 g glacé cherries
+  - qty: 100
+    unit: g
+    name: candied mixed peel
+    raw: 100 g candied mixed peel
+  - qty: 100
+    unit: g
+    name: figs or dates
+    raw: 100 g chopped dried figs or dates
+  - qty: 300
+    unit: ml
+    name: dark rum
+    raw: 300 ml dark rum
+  - qty: 200
+    unit: ml
+    name: ruby port
+    raw: 200 ml ruby port
+  - qty: 100
+    unit: ml
+    name: cherry brandy
+    raw: 100 ml cherry brandy
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml hot water
+  - qty: 300
+    unit: g
+    name: unsalted butter
+    raw: 300 g unsalted butter, softened
+  - qty: 300
+    unit: g
+    name: soft dark brown sugar
+    raw: 300 g soft dark brown sugar
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 tsp ground allspice
+  - qty: 1
+    unit: tsp
+    name: clove
+    raw: 1 tsp ground clove
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 tsp grated nutmeg
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 100
+    unit: g
+    name: almonds
+    raw: 100 g ground almonds
+  - name: zest of 2 oranges and 1 lemon
+    raw: Zest of 2 oranges and 1 lemon
+  - qty: 2
+    unit: tsp
+    name: vanilla extract
+    raw: 2 tsp vanilla extract
+  - qty: 100
+    unit: ml
+    name: dark rum
+    raw: 100 ml extra dark rum

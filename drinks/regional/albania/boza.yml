@@ -1,0 +1,38 @@
+prep: 30 minutes (plus 24-36 hours fermenting)
+cook: 45 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - complex
+mentions:
+  - cuisine/albanian/snacks/petulla
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: millet flour
+    raw: 200 g millet flour
+  - qty: 50
+    unit: g
+    name: maize flour
+    raw: 50 g fine maize flour
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: boza from a previous batch or 2 g dried baker's yeast
+    raw: 1 tbsp boza from a previous batch OR 2 g dried baker's yeast
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon, to finish

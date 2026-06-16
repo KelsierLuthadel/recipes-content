@@ -1,0 +1,50 @@
+prep: 20 minutes (plus soak)
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - coconut
+mentions:
+  - cuisine/papua-new-guinean/saksak
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: sago pearls
+    raw: 250 g sago pearls
+  - qty: 600
+    unit: ml
+    name: water for soaking
+    raw: 600 ml warm water for soaking
+  - qty: 500
+    unit: ml
+    name: coconut cream
+    raw: 500 ml thick coconut cream
+  - qty: 300
+    unit: ml
+    name: coconut milk
+    raw: 300 ml coconut milk
+  - qty: 150
+    unit: g
+    name: palm sugar
+    raw: 150 g palm sugar, grated
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, knotted
+  - qty: 1
+    name: banana leaf
+    raw: 1 banana leaf, softened
+  - qty: 200
+    unit: ml
+    name: coconut cream
+    raw: 200 ml thick coconut cream
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

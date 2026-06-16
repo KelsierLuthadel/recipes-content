@@ -1,0 +1,55 @@
+prep: 15 minutes (plus soak)
+cook: 20 minutes
+allergens:
+  - gluten
+  - fish
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - onion
+  - chili
+mentions:
+  - cuisine/bahamian/conch-fritters
+  - drinks/cocktails/rum-punch
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: salt cod
+    raw: 200 g boneless salt cod, soaked overnight
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 4
+    name: scallions
+    raw: 4 scallions, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 small Scotch bonnet, deseeded and finely minced
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml cold water
+  - name: black pepper
+    raw: Black pepper
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying

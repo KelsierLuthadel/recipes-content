@@ -1,0 +1,118 @@
+prep: 20 minutes (plus 1 hour marination)
+cook: 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - chili
+  - complex
+mentions:
+  - drinks/regional/saint-lucia/mauby
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1.2 kg bone-in chicken thighs and drumsticks
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp fresh lime juice
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, crushed
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme, leaves only
+  - qty: 1
+    name: chives
+    raw: 1 small bunch chives , chopped
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, deseeded and chopped
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tbsp fresh parsley, chopped
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 2
+    unit: tbsp
+    name: lime juice
+    raw: 2 tbsp fresh lime juice
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, sliced
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper, sliced
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper, sliced
+  - qty: 4
+    name: tomatoes
+    raw: 4 medium tomatoes, chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    name: /2 tsp ground allspice
+    raw: 1/2 tsp ground allspice
+  - qty: 500
+    unit: ml
+    name: chicken stock or water
+    raw: 500 ml chicken stock or water
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 whole scotch bonnet
+  - name: salt
+    raw: Salt to taste
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of fresh parsley, chopped
+  - name: wedges of lime
+    raw: Wedges of lime

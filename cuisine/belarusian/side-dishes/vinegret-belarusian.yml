@@ -1,0 +1,72 @@
+prep: 30 minutes (plus 1 hour cool + 1 hour chill)
+cook: 50 minutes (vegetables)
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - onion
+  - potato
+  - carrot
+  - cream
+  - complex
+mentions:
+  - cuisine/ukrainian/side-dishes/vinegret
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: beetroots
+    raw: 3 medium beetroots
+  - qty: 3
+    name: floury potatoes
+    raw: 3 medium floury potatoes
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots
+  - qty: 4
+    name: gherkins
+    raw: 4 medium gherkins
+  - qty: 100
+    unit: g
+    name: sauerkraut
+    raw: 100 g sauerkraut
+  - qty: 1
+    name: green peas
+    raw: 1 small tin green peas
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 5
+    unit: tbsp
+    name: sunflower oil
+    raw: 5 tablespoons sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tablespoons white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 0.5
+    name: /2 teaspoon coarsely cracked black pepper
+    raw: 1/2 teaspoon coarsely cracked black pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch fresh parsley
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions
+  - name: dark rye bread per person
+    raw: A slice of dark rye bread per person
+  - name: bowl of sour cream
+    raw: A small bowl of sour cream

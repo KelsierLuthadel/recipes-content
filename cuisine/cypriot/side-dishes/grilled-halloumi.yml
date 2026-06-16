@@ -1,0 +1,37 @@
+prep: 5 minutes
+cook: 4 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - bbq
+  - lemon
+  - cheese
+mentions:
+  - cuisine/cypriot/side-dishes/talattouri
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: halloumi
+    raw: 250 g halloumi
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    unit: small handful
+    name: mint leaves
+    raw: A small handful of fresh mint leaves
+  - qty: 2
+    unit: tbsp
+    name: virgin olive oil
+    raw: 2 tablespoons extra virgin olive oil
+  - name: black pepper
+    raw: A grind of black pepper
+  - qty: 1
+    unit: pinch
+    name: cypriot oregano
+    raw: A pinch of dried Cypriot oregano

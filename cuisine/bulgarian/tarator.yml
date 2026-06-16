@@ -1,0 +1,52 @@
+prep: 15 minutes
+cook: None (chilling time 1 hour)
+allergens:
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - garlic
+  - yogurt
+  - nuts
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: bulgarian yoghurt
+    raw: 600 g thick Bulgarian yoghurt
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber , peeled and grated coarse
+  - qty: 80
+    unit: g
+    name: shelled walnuts
+    raw: 80 g shelled walnuts
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely grated
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil
+  - qty: 1
+    unit: tbsp
+    name: red wine vinegar
+    raw: 1 tbsp red wine vinegar
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml very cold water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - name: black pepper
+    raw: Black pepper to taste

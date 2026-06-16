@@ -1,0 +1,35 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - coconut
+  - lime
+mentions:
+  - cuisine/fijian/kokoda
+  - cuisine/fijian/palusami
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 800
+    unit: g
+    name: dalo corm
+    raw: 800 g dalo corm, in 1-2 pieces
+  - qty: 4
+    unit: tbsp
+    name: coconut cream
+    raw: 4 tbsp thick coconut cream
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp sea salt
+  - qty: 1
+    unit: pinch
+    name: white pepper
+    raw: A pinch of white pepper
+  - qty: 1
+    name: lime
+    raw: 1 lime, in wedges, to serve

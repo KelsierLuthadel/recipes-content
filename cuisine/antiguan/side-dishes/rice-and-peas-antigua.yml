@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: pigeon peas
+    raw: 300 g dried pigeon peas, soaked overnight
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 3
+    name: scallions
+    raw: 3 scallions, chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 whole Scotch bonnet pepper
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - name: black pepper
+    raw: Black pepper

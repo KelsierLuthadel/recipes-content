@@ -1,0 +1,49 @@
+prep: 5 minutes
+cook: 22 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - rice
+  - garlic
+  - butter
+mentions:
+  - cuisine/bolivian/pique-macho
+  - cuisine/bolivian/saltenas
+  - cuisine/bolivian/silpancho
+  - cuisine/mexican/side-dishes/arroz-amarillo
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tablespoons vegetable oil
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 1.25
+    unit: tsp
+    name: sea salt
+    raw: 1 1/4 teaspoons fine sea salt
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 1
+    unit: small knob
+    name: butter
+    raw: 1 small knob butter
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: 1 small handful fresh parsley

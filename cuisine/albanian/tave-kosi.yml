@@ -1,0 +1,71 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - lamb
+  - eggs
+  - rice
+  - garlic
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - tutorials/chocolate/tempering
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb shoulder or leg
+    raw: 1 kg lamb shoulder or leg, cut into 4 cm pieces
+  - qty: 4
+    unit: tbsp
+    name: butter
+    raw: 4 tbsp butter
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tbsp plain flour
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 500
+    unit: ml
+    name: lamb or chicken stock
+    raw: 500 ml lamb or chicken stock
+  - qty: 200
+    unit: g
+    name: short-grain or medium-grain rice
+    raw: 200 g short-grain or medium-grain rice
+  - qty: 750
+    unit: g
+    name: greek-style yoghurt
+    raw: 750 g thick Greek-style yoghurt
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp freshly ground black pepper
+    raw: 1/2 tsp freshly ground black pepper
+  - qty: 0.5
+    name: /2 tsp paprika
+    raw: 1/2 tsp paprika

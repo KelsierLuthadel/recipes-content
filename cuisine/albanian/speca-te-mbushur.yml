@@ -1,0 +1,100 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - yogurt
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 12
+    name: red yellow or orange bell peppers
+    raw: 12 medium red, yellow or orange bell peppers
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 200
+    unit: g
+    name: short-grain or medium-grain rice
+    raw: 200 g short-grain or medium-grain rice
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, finely chopped
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    name: /2 tsp ground allspice
+    raw: 1/2 tsp ground allspice
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley, chopped
+  - qty: 1
+    unit: small handful
+    name: mint
+    raw: A small handful of fresh mint, chopped
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp freshly ground black pepper
+    raw: 1/2 tsp freshly ground black pepper
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 500
+    unit: g
+    name: tomatoes
+    raw: 500 g chopped tomatoes
+  - qty: 1
+    unit: tbsp
+    name: tomato puree
+    raw: 1 tbsp tomato puree
+  - qty: 500
+    unit: ml
+    name: chicken or beef stock
+    raw: 500 ml chicken or beef stock
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - name: bay leaf
+    raw: A bay leaf
+  - name: greek-style yoghurt
+    raw: Thick Greek-style yoghurt
+  - name: crusty country bread
+    raw: Crusty country bread

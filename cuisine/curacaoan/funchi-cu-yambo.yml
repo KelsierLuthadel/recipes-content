@@ -1,0 +1,92 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - pork
+  - prawn
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - chili
+  - complex
+mentions:
+  - cuisine/curacaoan/side-dishes/curacao-tutu
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: okra
+    raw: 400 g fresh okra, topped, tailed, sliced into 1 cm rounds
+  - qty: 200
+    unit: g
+    name: salted pork or smoked pork belly
+    raw: 200 g salted pork or smoked pork belly, diced 2 cm
+  - qty: 1
+    name: onion
+    raw: 1 onion, finely chopped
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper, diced
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, minced
+  - qty: 1
+    name: tomato
+    raw: 1 tomato, diced
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tbsp tomato puree
+  - qty: 1
+    name: madame jeanette chilli
+    raw: 1 madame jeanette chilli, whole and pierced
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ tsp ground allspice
+  - qty: 500
+    unit: ml
+    name: water or fish stock
+    raw: 500 ml water or fish stock
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g fine yellow cornmeal
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tbsp butter

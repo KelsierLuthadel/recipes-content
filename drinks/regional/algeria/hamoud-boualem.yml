@@ -1,0 +1,45 @@
+prep: 10 minutes (plus 1 hour chilling)
+cook: 5 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - lemon
+mentions:
+  - drinks/classic/lemonade
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: sugar
+    raw: 200 g sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - name: juice of 3 lemons
+    raw: Juice of 3 lemons
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon, in long strips
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tbsp orange-blossom water
+  - qty: 1
+    unit: tiny pinch
+    name: citric acid
+    raw: A tiny pinch of citric acid
+  - qty: 1
+    unit: l
+    name: sparkling water
+    raw: 1 litre sparkling water, well chilled
+  - name: ice cubes
+    raw: Ice cubes
+  - name: lemon
+    raw: A few thin slices of lemon
+  - qty: 1
+    unit: small sprig
+    name: mint
+    raw: A small sprig of fresh mint

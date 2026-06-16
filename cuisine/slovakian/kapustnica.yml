@@ -1,0 +1,79 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - mushroom
+  - onion
+  - garlic
+  - cream
+  - complex
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: sauerkraut
+    raw: 800 g sauerkraut, drained but not rinsed
+  - qty: 300
+    unit: g
+    name: smoked slovak sausage or polish kabanos
+    raw: 300 g smoked Slovak sausage or Polish kabanos, sliced into 1 cm rounds
+  - qty: 200
+    unit: g
+    name: smoked pork ribs or smoked pork belly
+    raw: 200 g smoked pork ribs or smoked pork belly, cut into chunks
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 2 tbsp lard or vegetable oil
+  - qty: 30
+    unit: g
+    name: wild mushrooms
+    raw: 30 g dried wild mushrooms
+  - qty: 100
+    unit: g
+    name: pitted prunes
+    raw: 100 g pitted prunes
+  - qty: 2
+    unit: tbsp
+    name: sweet hungarian paprika
+    raw: 2 tbsp sweet Hungarian paprika
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds
+  - qty: 5
+    name: allspice berries
+    raw: 5 whole allspice berries
+  - qty: 1.5
+    unit: l
+    name: water or unsalted stock
+    raw: 1.5 litres water or unsalted stock
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tbsp plain flour
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream, to finish
+  - name: salt and black pepper
+    raw: Salt and black pepper

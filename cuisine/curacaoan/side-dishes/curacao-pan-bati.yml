@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - coconut
+  - butter
+mentions:
+  - cuisine/curacaoan/desserts/kokada
+  - cuisine/curacaoan/karni-stoba
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 150
+    unit: g
+    name: yellow cornmeal
+    raw: 150 g fine yellow cornmeal
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 30
+    unit: g
+    name: caster sugar
+    raw: 30 g caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 250
+    unit: ml
+    name: coconut milk
+    raw: 250 ml coconut milk
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter, melted
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil, for the pan

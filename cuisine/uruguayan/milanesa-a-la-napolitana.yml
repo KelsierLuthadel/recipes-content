@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - beef
+  - pork
+  - eggs
+  - garlic
+  - tomato
+  - lemon
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: beef cutlets
+    raw: 4 thin beef cutlets , 120 g each, pounded to 5 mm thick
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely grated
+  - qty: 1
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 1 tbsp finely chopped flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, plus more for the breadcrumbs
+  - name: black pepper
+    raw: Black pepper
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine dried breadcrumbs
+  - name: sunflower oil for shallow frying
+    raw: Sunflower oil for shallow frying
+  - qty: 200
+    unit: g
+    name: tomatoes
+    raw: 200 g tinned chopped tomatoes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, sliced
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano, plus more to finish
+  - qty: 1
+    unit: pinch
+    name: sugar
+    raw: Pinch of sugar
+  - name: salt
+    raw: Salt
+  - qty: 4
+    name: ham
+    raw: 4 slices of cooked ham
+  - qty: 200
+    unit: g
+    name: mozzarella
+    raw: 200 g mozzarella, sliced
+  - name: hot chips
+    raw: Hot chips
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: "optional: 4 fried eggs"
+    raw: "Optional: 4 fried eggs"

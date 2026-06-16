@@ -1,0 +1,62 @@
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 hour 15 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - butter
+mentions:
+  - cuisine/curacaoan/karni-stoba
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: black-eyed peas
+    raw: 200 g dried black-eyed peas
+  - qty: 100
+    unit: g
+    name: smoked bacon or salted pork belly
+    raw: 100 g smoked bacon or salted pork belly, finely diced
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, minced
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g fine yellow cornmeal
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    unit: tbsp
+    name: brown sugar
+    raw: 1 tbsp brown sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: allspice
+    raw: ½ tsp ground allspice
+  - name: black pepper
+    raw: Black pepper

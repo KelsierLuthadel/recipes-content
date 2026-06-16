@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - drinks/regional/brazil/caipirinha
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: lime
+    raw: 1 fresh lime, cut into 8 wedges, the white central pith removed
+  - qty: 2
+    unit: tsp
+    name: caster sugar
+    raw: 2 tsp caster sugar
+  - qty: 60
+    unit: ml
+    name: kaporoto or cachaca
+    raw: 60 ml kaporoto or cachaça
+  - name: ice
+    raw: Crushed ice
+  - name: heavy old-fashioned glass
+    raw: A heavy old-fashioned glass
+  - name: wooden muddler
+    raw: A wooden muddler
+  - qty: 3.5
+    name: mint leaves
+    raw: 3-4 fresh mint leaves
+  - name: lime
+    raw: An extra wedge of lime for the rim

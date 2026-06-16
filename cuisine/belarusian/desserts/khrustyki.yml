@@ -1,0 +1,56 @@
+prep: 30 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - qty: 1
+    name: egg
+    raw: 1 whole egg
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: soured cream
+    raw: 1 tbsp soured cream
+  - qty: 1
+    unit: tbsp
+    name: cognac
+    raw: 1 tbsp cognac, vodka or white rum
+  - qty: 1
+    unit: tbsp
+    name: unsalted butter
+    raw: 1 tbsp melted unsalted butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: l
+    name: sunflower oil
+    raw: 1 litre sunflower oil
+  - qty: 50
+    unit: g
+    name: icing sugar
+    raw: 50 g icing sugar

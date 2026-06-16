@@ -1,0 +1,84 @@
+prep: 45 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - butter
+  - honey
+  - complex
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - drinks/regional/arabia/qahwa
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: semolina
+    raw: 500 g fine semolina
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 180
+    unit: g
+    name: unsalted butter
+    raw: 180 g unsalted butter, melted and cooled
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: aniseed
+    raw: 1 tsp ground aniseed
+  - name: about 150 ml warm water
+    raw: About 150 ml warm water
+  - qty: 400
+    unit: g
+    name: pitted soft dates
+    raw: 400 g pitted soft dates
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: 0.5 tsp ground cinnamon
+  - qty: 1
+    unit: tbsp
+    name: orange-blossom water
+    raw: 1 tbsp orange-blossom water
+  - qty: 1
+    unit: pinch
+    name: clove
+    raw: A pinch of ground clove
+  - qty: 300
+    unit: g
+    name: sugar
+    raw: 300 g sugar
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 2
+    unit: tbsp
+    name: orange-blossom water
+    raw: 2 tbsp orange-blossom water
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tbsp honey
+  - name: sunflower or other neutral oil for shallow frying
+    raw: Sunflower or other neutral oil for shallow frying

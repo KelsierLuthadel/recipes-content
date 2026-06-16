@@ -1,0 +1,80 @@
+prep: 1 hour
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - garlic
+  - complex
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: sour cabbage
+    raw: 1 whole sour cabbage
+  - qty: 500
+    unit: g
+    name: smoked pork ribs or smoked pork hock
+    raw: 500 g smoked pork ribs or smoked pork hock
+  - qty: 2
+    name: smoked pork sausages
+    raw: 2 smoked pork sausages
+  - qty: 700
+    unit: g
+    name: pork shoulder
+    raw: 700 g minced pork shoulder
+  - qty: 100
+    unit: g
+    name: short-grain rice
+    raw: 100 g short-grain rice, rinsed
+  - qty: 2
+    name: onions
+    raw: 2 large onions, very finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, minced
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: savory or marjoram
+    raw: 1 tsp dried savory or marjoram
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 3
+    unit: tbsp
+    name: lard or sunflower oil
+    raw: 3 tbsp lard or sunflower oil
+  - qty: 3
+    unit: tbsp
+    name: plain flour
+    raw: 3 tbsp plain flour
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika

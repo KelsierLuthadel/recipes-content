@@ -1,0 +1,61 @@
+prep: 30 minutes
+cook: 4 hours
+allergens:
+  - gluten
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - carrot
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: pork trotters
+    raw: 2 pork trotters , split lengthways by the butcher
+  - qty: 1
+    unit: kg
+    name: pork shoulder
+    raw: 1 kg pork shoulder, boneless, cut into large chunks
+  - qty: 2
+    name: onions
+    raw: 2 onions, peeled and halved
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, peeled
+  - qty: 1
+    name: garlic
+    raw: 1 small head of garlic, halved across
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 10
+    name: allspice berries
+    raw: 10 allspice berries
+  - qty: 10
+    name: black peppercorns
+    raw: 10 black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt, plus more to taste
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - name: estonian mustard
+    raw: Estonian mustard
+  - name: dark rye bread
+    raw: Dark rye bread
+  - name: pickled gherkins
+    raw: Pickled gherkins
+  - name: dill
+    raw: Fresh dill

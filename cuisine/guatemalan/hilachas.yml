@@ -1,0 +1,95 @@
+prep: 25 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef flank or skirt steak
+    raw: 1 kg beef flank or skirt steak
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 6
+    name: tomatoes
+    raw: 6 large ripe tomatoes
+  - qty: 8
+    name: tomatillos
+    raw: 8 tomatillos
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion, halved
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, skin on
+  - qty: 3
+    name: guaque chillies
+    raw: 3 dried guaque chillies
+  - qty: 1
+    name: pasa chilli
+    raw: 1 dried pasa chilli
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 500
+    unit: g
+    name: waxy potatoes
+    raw: 500 g waxy potatoes, peeled and cut into 3 cm chunks
+  - qty: 2
+    name: guisquil
+    raw: 2 güisquil , peeled and cut into 3 cm chunks
+  - qty: 2
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 2 tbsp lard or vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch coriander, leaves chopped

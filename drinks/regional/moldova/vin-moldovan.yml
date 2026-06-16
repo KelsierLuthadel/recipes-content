@@ -1,0 +1,35 @@
+prep: 5 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - cuisine/moldovan/zeama
+  - cuisine/romanian/sarmale
+  - drinks/regional/romania/pelin
+  - drinks/regional/romania/tuica
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: glass of dry feteasca alba
+    raw: 1 glass of dry Fetească Albă
+  - qty: 1
+    name: glass of dry feteasca neagra
+    raw: 1 glass of dry Fetească Neagră
+  - qty: 1
+    name: glass of tuica
+    raw: 1 glass of țuică
+  - name: "optional: 1 glass of sparkling cricova for a toast"
+    raw: "Optional: 1 glass of sparkling Cricova for a toast"
+  - name: feteasca neagra
+    raw: Fetească Neagră
+  - name: feteasca alba
+    raw: Fetească Albă
+  - name: rara neagra
+    raw: Rara Neagră
+  - name: saperavi
+    raw: Saperavi

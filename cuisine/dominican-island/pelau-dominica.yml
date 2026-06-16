@@ -1,0 +1,125 @@
+prep: 20 minutes (plus 1 hour marination)
+cook: 45 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - carrot
+  - lime
+  - chili
+  - complex
+mentions:
+  - cuisine/trinidadian/pelau
+  - drinks/regional/saint-lucia/mauby
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken pieces
+    raw: 1 kg bone-in chicken pieces
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp fresh lime juice
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, crushed
+  - qty: 6
+    unit: sprig
+    name: thyme
+    raw: 6 sprigs fresh thyme, leaves only
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, chopped
+  - qty: 1
+    name: chives or chadon beni
+    raw: 1 small bunch chives or chadon beni, chopped
+  - qty: 0.5
+    name: /2 scotch bonnet
+    raw: 1/2 scotch bonnet, deseeded and chopped
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: dark brown sugar
+    raw: 3 tbsp dark brown sugar
+  - qty: 1
+    name: onion
+    raw: 1 large onion, chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, crushed
+  - qty: 1
+    name: carrot
+    raw: 1 medium carrot, diced
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper, diced
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice, rinsed
+  - qty: 250
+    unit: g
+    name: or tinned pigeon peas
+    raw: 250 g cooked or tinned pigeon peas, drained
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 400
+    unit: ml
+    name: chicken stock or water
+    raw: 400 ml chicken stock or water
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 whole scotch bonnet
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground allspice
+    raw: 1/2 tsp ground allspice
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of fresh parsley, chopped
+  - name: avocado
+    raw: Slices of ripe avocado
+  - name: wedges of lime
+    raw: Wedges of lime

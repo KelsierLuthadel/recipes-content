@@ -1,0 +1,33 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - butter
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+  - tutorials/fish/whole-fish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: medium-grind yellow cornmeal
+    raw: 250 g medium-grind yellow cornmeal
+  - qty: 900
+    unit: ml
+    name: water
+    raw: 900 ml water
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - name: flat wooden paddle or sturdy wooden spoon
+    raw: A flat wooden paddle or sturdy wooden spoon

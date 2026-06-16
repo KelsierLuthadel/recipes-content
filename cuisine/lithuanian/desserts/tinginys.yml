@@ -1,0 +1,41 @@
+prep: 15 minutes
+cook: 5 minutes (plus 4 hours chilling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/scottish/snacks/shortbread
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain dry biscuits
+    raw: 400 g plain dry biscuits
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 4
+    unit: tbsp
+    name: cocoa powder
+    raw: 4 tbsp good cocoa powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch salt
+  - name: "optional: 100 g chopped walnuts"
+    raw: "Optional: 100 g chopped walnuts, dried cherries or chopped marshmallows"

@@ -1,0 +1,40 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - dessert
+  - eggs
+  - coconut
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 300
+    unit: g
+    name: coconut
+    raw: 300 g freshly grated coconut
+  - qty: 8
+    name: egg yolks
+    raw: 8 egg yolks
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon

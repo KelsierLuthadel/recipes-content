@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - chili
+  - complex
+mentions:
+  - cuisine/bosnian/bosnian-cevapi
+  - cuisine/serbian/pljeskavica
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork shoulder
+    raw: 800 g pork shoulder, cut into 3 cm strips
+  - qty: 3
+    unit: tbsp
+    name: lard or sunflower oil
+    raw: 3 tbsp lard or sunflower oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely sliced
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely chopped
+  - qty: 4
+    name: red bell peppers
+    raw: 4 red bell peppers, deseeded and sliced into thick strips
+  - qty: 2
+    name: yellow bell peppers
+    raw: 2 yellow bell peppers, deseeded and sliced
+  - qty: 2
+    name: long green chillies
+    raw: 2 long green chillies, sliced
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes, roughly chopped
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: savory or marjoram
+    raw: 1 tsp dried savory or marjoram
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml hot water
+  - name: salt
+    raw: Salt to taste
+  - qty: 1
+    unit: handful
+    name: flat-leaf parsley
+    raw: A handful of flat-leaf parsley, chopped
+  - name: white bread
+    raw: Fresh white bread, in thick slices
+  - name: soured cream or a spoon of kajmak
+    raw: Soured cream or a spoon of kajmak

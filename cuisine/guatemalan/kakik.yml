@@ -1,0 +1,91 @@
+prep: 30 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: turkey jointed into 8 pieces
+    raw: 1 small turkey jointed into 8 pieces
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 1
+    name: garlic
+    raw: 1 head of garlic, halved across
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 3
+    unit: tbsp
+    name: achiote seeds
+    raw: 3 tbsp achiote seeds
+  - qty: 4
+    name: guaque chillies
+    raw: 4 dried guaque chillies
+  - qty: 2
+    name: chile cobanero
+    raw: 2 dried chile cobanero
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 6
+    name: tomatillos
+    raw: 6 tomatillos
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion, halved
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, skin on
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 tsp ground allspice
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt

@@ -1,0 +1,26 @@
+prep: 1 minute
+cook: 2 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: single espresso shot
+    raw: 1 single espresso shot
+  - qty: 15
+    unit: ml
+    name: grappa
+    raw: 15 ml grappa
+  - qty: 1
+    name: sugar cube or 1/2 tsp caster sugar
+    raw: 1 small sugar cube or 1/2 tsp caster sugar
+  - name: espresso cup
+    raw: An espresso cup
+  - name: teaspoon
+    raw: A teaspoon

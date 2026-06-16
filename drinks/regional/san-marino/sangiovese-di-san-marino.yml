@@ -1,0 +1,22 @@
+prep: 2 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+mentions:
+  - cuisine/san-marinese/coniglio-in-porchetta
+  - cuisine/san-marinese/faggotti
+  - tutorials/spices/storage
+ingredients:
+  - qty: 125
+    unit: ml
+    name: sangiovese di san marino
+    raw: 125 ml Sangiovese di San Marino
+  - name: medium-sized red-wine glass
+    raw: A medium-sized red-wine glass
+  - name: cool storage and a clean palate
+    raw: Cool storage and a clean palate

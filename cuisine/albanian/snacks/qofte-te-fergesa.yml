@@ -1,0 +1,73 @@
+prep: 20 minutes (plus 1 hour resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - snack
+  - make-ahead
+  - meat
+  - beef
+  - lamb
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - cheese
+  - yogurt
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: beef
+    raw: 300 g minced beef
+  - qty: 300
+    unit: g
+    name: lamb
+    raw: 300 g minced lamb
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, finely grated
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, finely grated
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 50
+    unit: g
+    name: feta cheese
+    raw: 50 g feta cheese, crumbled
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 100
+    unit: ml
+    name: olive oil
+    raw: 100 ml olive oil, for frying
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, cut into wedges
+  - qty: 200
+    unit: ml
+    name: plain yoghurt
+    raw: 200 ml plain yoghurt, to serve

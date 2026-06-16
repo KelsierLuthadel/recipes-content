@@ -1,0 +1,37 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - butter
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: dasheen
+    raw: 500 g dasheen , peeled, cut into 5 cm pieces
+  - qty: 500
+    unit: g
+    name: yellow yam
+    raw: 500 g yellow yam, peeled, cut into 5 cm pieces
+  - qty: 1
+    name: breadfruit
+    raw: 1 small breadfruit , peeled, cored, cut into wedges
+  - qty: 2
+    name: green plantains
+    raw: 2 green plantains, peeled, cut into 4 cm chunks
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tbsp salt
+  - name: water
+    raw: Water to cover
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp butter

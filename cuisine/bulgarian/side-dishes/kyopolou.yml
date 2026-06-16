@@ -1,0 +1,53 @@
+prep: 30 minutes
+cook: 40 minutes
+allergens:
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - garlic
+  - tomato
+  - nuts
+mentions:
+  - cuisine/bulgarian/shopska-salata
+  - cuisine/bulgarian/side-dishes/lyutenitsa
+  - cuisine/israel/side-dishes/baba-ganoush
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: aubergine
+    raw: 800 g aubergine
+  - qty: 600
+    unit: g
+    name: red bell peppers
+    raw: 600 g red bell peppers
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt, plus more to taste
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tbsp red wine vinegar
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley, finely chopped
+  - name: black pepper
+    raw: Black pepper to taste
+  - name: "optional: 1 tomato"
+    raw: "Optional: 1 tomato, finely diced"
+  - name: "optional: 50 g chopped walnuts"
+    raw: "Optional: 50 g chopped walnuts"

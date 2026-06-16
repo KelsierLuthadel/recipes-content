@@ -1,0 +1,67 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - lemon
+  - butter
+mentions:
+  - cuisine/ghanaian/desserts/coconut-cake
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: bananas
+    raw: 4 very ripe bananas
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter, softened
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 80
+    unit: g
+    name: desiccated coconut
+    raw: 80 g desiccated coconut
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 1.5
+    unit: tbsp
+    name: lemon juice
+    raw: 1-2 tbsp lemon juice

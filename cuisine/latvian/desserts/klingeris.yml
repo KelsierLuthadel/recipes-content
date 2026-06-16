@@ -1,0 +1,81 @@
+prep: 30 minutes (plus 3 hours rising)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - cuisine/estonian/desserts/kringel
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour
+  - qty: 75
+    unit: g
+    name: caster sugar
+    raw: 75 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 0.5
+    unit: tsp
+    name: cardamom
+    raw: ½ teaspoon ground cardamom
+  - qty: 1
+    unit: large pinch
+    name: saffron threads
+    raw: A large pinch of saffron threads
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, softened
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 100
+    unit: g
+    name: raisins or sultanas
+    raw: 100 g raisins or sultanas
+  - qty: 50
+    unit: g
+    name: candied citrus peel
+    raw: 50 g candied citrus peel, chopped small
+  - qty: 30
+    unit: g
+    name: almonds
+    raw: 30 g whole almonds, roughly chopped
+  - qty: 2
+    unit: tbsp
+    name: dark rum or hot water
+    raw: 2 tablespoons dark rum or hot water
+  - qty: 1
+    name: egg
+    raw: 1 large egg, beaten with 1 tablespoon milk
+  - qty: 3
+    unit: tbsp
+    name: pearl sugar
+    raw: 3 tablespoons pearl sugar
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds

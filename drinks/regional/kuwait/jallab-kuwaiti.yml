@@ -1,0 +1,42 @@
+prep: 5 minutes
+cook: 0 minutes
+allergens:
+  - tree-nuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - nuts
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    unit: tbsp
+    name: date syrup
+    raw: 6 tbsp date syrup
+  - qty: 2
+    unit: tbsp
+    name: carob molasses
+    raw: 2 tbsp carob molasses
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tbsp rose water
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml cold water
+  - name: plenty of crushed ice
+    raw: Plenty of crushed ice
+  - qty: 2
+    unit: tbsp
+    name: pine nuts
+    raw: 2 tbsp pine nuts, toasted
+  - qty: 2
+    unit: tbsp
+    name: golden raisins
+    raw: 2 tbsp golden raisins
+  - name: rose water for floating
+    raw: A few extra drops of rose water for floating

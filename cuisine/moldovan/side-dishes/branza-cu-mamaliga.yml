@@ -1,0 +1,31 @@
+prep: 5 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - sides
+  - butter
+  - cream
+  - cheese
+mentions:
+  - cuisine/moldovan/mamaliga-moldovan
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: batch hot stiff mamaliga
+    raw: 1 batch hot stiff mămăligă , freshly cooked
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 250
+    unit: g
+    name: branza de oi
+    raw: 250 g brânză de oi , crumbled
+  - name: black pepper
+    raw: A small grind of black pepper
+  - name: "optional: 2 tbsp sour cream"
+    raw: "Optional: 2 tbsp sour cream for finishing"

@@ -1,0 +1,46 @@
+prep: 10 minutes (with piadine already made)
+cook: 2 minutes per piadina
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+tags:
+  - gluten-free
+  - quick
+  - snack
+  - meat
+  - pork
+  - cheese
+  - honey
+  - nuts
+mentions:
+  - cuisine/san-marinese/side-dishes/piadina-sanmarinese
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: piadina sanmarinese
+    raw: 1 freshly cooked piadina sanmarinese
+  - qty: 60
+    unit: g
+    name: squacquerone cheese
+    raw: 60 g squacquerone cheese
+  - qty: 4
+    name: prosciutto crudo
+    raw: 4 thin slices prosciutto crudo
+  - qty: 1
+    unit: small handful
+    name: rocket leaves
+    raw: A small handful of rocket leaves
+  - name: olive oil
+    raw: A few drops of good olive oil
+  - name: black pepper
+    raw: A grind of black pepper
+  - qty: 60
+    unit: g
+    name: ricotta and 1 fig
+    raw: 60 g fresh ricotta and 1 fig, sliced, plus a drizzle of honey
+  - qty: 4
+    name: mortadella
+    raw: 4 slices mortadella, 50 g stracchino, a few pistachios
+  - name: rounds of grilled courgette and a slice of aged pecorino
+    raw: A few rounds of grilled courgette and a slice of aged pecorino

@@ -1,0 +1,84 @@
+prep: 30 minutes
+cook: 4 hours
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - carrot
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef shin or chuck
+    raw: 600 g beef shin or chuck, cut into 5 cm chunks
+  - qty: 600
+    unit: g
+    name: lamb shoulder
+    raw: 600 g lamb shoulder, cut into 5 cm chunks
+  - qty: 1
+    name: green cabbage
+    raw: 1 small green cabbage , cut into 8 wedges through the core
+  - qty: 4
+    name: carrots
+    raw: 4 large carrots, scrubbed and cut into 4 cm batons
+  - qty: 4
+    name: potatoes
+    raw: 4 medium potatoes, peeled and quartered
+  - qty: 2
+    name: onions
+    raw: 2 large onions, peeled and quartered
+  - qty: 1
+    name: celeriac
+    raw: 1 small celeriac , peeled and cut into 3 cm chunks
+  - qty: 2
+    name: parsnips
+    raw: 2 parsnips, peeled and cut into 4 cm batons
+  - qty: 1
+    name: garlic
+    raw: 1 whole head of garlic, separated into cloves
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes, halved
+  - qty: 2
+    name: long green peppers
+    raw: 2 long green peppers, seeded and quartered
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley, tied with string
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 teaspoon black peppercorns
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 100
+    unit: ml
+    name: dry white wine
+    raw: 100 ml dry white wine
+  - qty: 50
+    unit: ml
+    name: red wine vinegar
+    raw: 50 ml red wine vinegar
+  - qty: 500
+    unit: ml
+    name: water or light beef stock
+    raw: 500 ml water or light beef stock

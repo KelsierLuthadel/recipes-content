@@ -1,0 +1,43 @@
+prep: 10 minutes (plus 30 minutes resting)
+cook: None
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: green hard mangoes
+    raw: 3 large green hard mangoes
+  - qty: 4
+    name: limes
+    raw: 4 limes, juiced
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp sea salt
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, very finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, very finely grated
+  - qty: 1
+    name: chadon beni or coriander
+    raw: 1 large bunch chadon beni or coriander, finely chopped
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: 0.5 tsp black pepper
+  - name: "optional: 1 tsp brown sugar"
+    raw: "Optional: 1 tsp brown sugar"

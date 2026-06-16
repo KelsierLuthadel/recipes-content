@@ -1,0 +1,50 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - quick
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - pork
+  - eggs
+  - lemon
+mentions:
+  - cuisine/slovakian/side-dishes/uhorkovy-salat
+  - cuisine/slovakian/snacks/vyprazany-syr
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: pork loin steaks
+    raw: 4 pork loin steaks , or 4 chicken breasts butterflied
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten with 1 tbsp milk
+  - qty: 150
+    unit: g
+    name: dry breadcrumbs
+    raw: 150 g dry breadcrumbs
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp white pepper
+    raw: 1/2 tsp white pepper
+  - qty: 200
+    unit: g
+    name: lard
+    raw: 200 g lard, or 150 ml sunflower oil for frying
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, cut into wedges, to serve

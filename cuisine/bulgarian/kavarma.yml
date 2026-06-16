@@ -1,0 +1,83 @@
+prep: 25 minutes
+cook: 2 hours
+allergens:
+  - eggs
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - eggs
+  - mushroom
+  - onion
+  - garlic
+  - tomato
+  - nuts
+  - complex
+mentions:
+  - cuisine/bulgarian/shopska-salata
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork shoulder
+    raw: 800 g pork shoulder, cut into 3 cm cubes
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely chopped
+  - qty: 2
+    name: red bell peppers
+    raw: 2 red bell peppers, thick strips
+  - qty: 300
+    unit: g
+    name: chestnut mushrooms
+    raw: 300 g chestnut mushrooms, halved
+  - qty: 400
+    unit: g
+    name: tomatoes
+    raw: 400 g chopped tomatoes
+  - qty: 200
+    unit: ml
+    name: dry red wine
+    raw: 200 ml dry red wine
+  - qty: 200
+    unit: ml
+    name: chicken stock or water
+    raw: 200 ml chicken stock or water
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: sweet paprika
+    raw: 2 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: hot paprika
+    raw: 1 tsp hot paprika
+  - qty: 1
+    unit: tbsp
+    name: savory or oregano
+    raw: 1 tbsp dried savory or oregano
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - name: parsley
+    raw: Chopped parsley to serve

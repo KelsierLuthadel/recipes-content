@@ -1,0 +1,44 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - cuisine/south-american/pao-de-queijo
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: cassava starch
+    raw: 400 g cassava starch
+  - qty: 300
+    unit: g
+    name: white cheese
+    raw: 300 g fresh white cheese , crumbled fine
+  - qty: 100
+    unit: g
+    name: butter
+    raw: 100 g butter, softened
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder

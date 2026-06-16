@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - carrot
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: pork ribs
+    raw: 600 g pork ribs
+  - qty: 250
+    unit: g
+    name: smoked pork rib or smoked pork belly
+    raw: 250 g smoked pork rib or smoked pork belly
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 8
+    name: black peppercorns
+    raw: 8 black peppercorns
+  - qty: 4
+    name: allspice berries
+    raw: 4 allspice berries
+  - qty: 500
+    unit: g
+    name: sauerkraut
+    raw: 500 g sauerkraut
+  - qty: 100
+    unit: g
+    name: pearl barley
+    raw: 100 g pearl barley
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot, coarsely grated
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil or lard
+    raw: 2 tablespoons sunflower oil or lard
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 teaspoon caraway seeds
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml thick sour cream
+  - qty: 1
+    name: dill
+    raw: A small bunch of fresh dill, finely chopped
+  - name: rupjmaize and butter
+    raw: Rupjmaize and butter, to serve

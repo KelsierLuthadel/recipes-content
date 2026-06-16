@@ -1,0 +1,92 @@
+prep: 1 hour
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - shellfish
+  - garlic
+tags:
+  - spicy
+  - snack
+  - fish
+  - prawn
+  - eggs
+  - onion
+  - garlic
+  - lemon
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour, sifted
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 300
+    unit: g
+    name: prawns
+    raw: 300 g cooked prawns, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley, chopped
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: A pinch of black pepper
+  - name: salt
+    raw: Salt to taste
+  - qty: 2
+    name: eggs
+    raw: 2 eggs, beaten
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine dried breadcrumbs
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

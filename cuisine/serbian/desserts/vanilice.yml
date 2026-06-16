@@ -1,0 +1,65 @@
+prep: 45 minutes (plus 1 hour resting)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar, plus extra for rolling
+  - qty: 150
+    unit: g
+    name: lard
+    raw: 150 g lard
+  - qty: 100
+    unit: g
+    name: walnuts
+    raw: 100 g ground walnuts
+  - qty: 2
+    name: egg yolks
+    raw: 2 large egg yolks
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: brandy or rum
+    raw: 1 tbsp brandy or rum
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of fine salt
+  - name: zest of 1/2 lemon
+    raw: Grated zest of 1/2 lemon
+  - qty: 200
+    unit: g
+    name: rose-hip jam
+    raw: 200 g thick rose-hip jam , apricot jam or sour cherry jam
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tbsp boiling water
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar, in a wide bowl

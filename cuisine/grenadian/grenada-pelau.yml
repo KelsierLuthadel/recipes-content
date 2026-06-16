@@ -1,0 +1,96 @@
+prep: 20 minutes (plus 30 minutes marinating)
+cook: 50 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - rice
+  - onion
+  - garlic
+  - coconut
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/trinidadian/pelau
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs and drumsticks
+    raw: 1 kg chicken thighs and drumsticks, bone-in, skin on
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 1
+    unit: tbsp
+    name: chadon beni or coriander
+    raw: 1 tbsp chadon beni or coriander, chopped
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 1
+    unit: tbsp
+    name: green seasoning
+    raw: 1 tbsp green seasoning
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 3
+    unit: tbsp
+    name: dark brown sugar
+    raw: 3 tbsp dark brown sugar
+  - qty: 1
+    name: onion
+    raw: 1 large onion, chopped
+  - qty: 250
+    unit: g
+    name: pigeon peas
+    raw: 250 g pigeon peas
+  - qty: 400
+    unit: g
+    name: long-grain rice
+    raw: 400 g long-grain rice, rinsed
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml coconut milk
+  - qty: 600
+    unit: ml
+    name: water or chicken stock
+    raw: 600 ml hot water or chicken stock
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 scotch bonnet pepper, whole
+  - qty: 0.5
+    unit: tsp
+    name: fresh-grated nutmeg
+    raw: 0.5 tsp fresh-grated nutmeg
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs thyme
+  - name: salt
+    raw: Salt to taste

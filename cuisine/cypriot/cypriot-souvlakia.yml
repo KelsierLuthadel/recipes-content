@@ -1,0 +1,91 @@
+prep: 30 minutes (plus 2 hours marinating)
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - sesame
+  - meat
+  - garlic
+tags:
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - yogurt
+  - complex
+mentions:
+  - cuisine/cypriot/sheftalia
+  - cuisine/cypriot/side-dishes/grilled-halloumi
+  - cuisine/cypriot/side-dishes/talattouri
+  - tutorials/cocktails/equipment
+  - tutorials/pizza/sauce
+  - tutorials/rice/pilaf
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: pork shoulder
+    raw: 700 g pork shoulder
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tablespoons olive oil
+  - qty: 3
+    unit: tbsp
+    name: lemon juice
+    raw: 3 tablespoons lemon juice
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tablespoon dried oregano
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ teaspoon ground black pepper
+  - qty: 200
+    unit: g
+    name: greek yoghurt
+    raw: 200 g thick Greek yoghurt
+  - qty: 2
+    unit: tbsp
+    name: tahini
+    raw: 2 tablespoons tahini
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    name: garlic clove
+    raw: 1 small garlic clove
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tablespoons cold water
+  - qty: 4
+    name: cypriot-style pita pockets
+    raw: 4 thick Cypriot-style pita pockets
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes
+  - name: lemon wedges
+    raw: Lemon wedges

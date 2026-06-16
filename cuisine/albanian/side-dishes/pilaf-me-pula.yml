@@ -1,0 +1,98 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - one-pan
+  - sides
+  - meat
+  - chicken
+  - rice
+  - onion
+  - carrot
+  - lemon
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - tutorials/rice/pilaf
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 4
+    name: bay leaves
+    raw: 4 fresh bay leaves
+  - qty: 10
+    name: black peppercorns
+    raw: 10 whole black peppercorns
+  - qty: 2
+    unit: sprig
+    name: thyme
+    raw: 2 sprigs fresh thyme
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 1/2 teaspoons fine sea salt
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 6
+    name: black peppercorns
+    raw: 6 whole black peppercorns
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 800
+    unit: ml
+    name: the reserved chicken stock
+    raw: 800 ml of the reserved chicken stock
+  - qty: 1
+    unit: knob
+    name: butter
+    raw: 1 knob butter
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: 1 small handful fresh parsley
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - name: bowl of cold thick yoghurt
+    raw: A bowl of cold thick yoghurt
+  - name: lemon
+    raw: A wedge of lemon
+  - name: pile of sliced raw red onion
+    raw: A small pile of sliced raw red onion

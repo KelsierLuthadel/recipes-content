@@ -1,0 +1,36 @@
+prep: 10 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lime
+  - honey
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: pawpaw
+    raw: 1 large ripe pawpaw , about 1 kg whole
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml cold water
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - qty: 1
+    unit: tbsp
+    name: palm sugar or honey
+    raw: 1 tbsp palm sugar or honey
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    name: pandan leaf
+    raw: 1 pandan leaf, knotted
+  - name: ice cubes
+    raw: Ice cubes to serve

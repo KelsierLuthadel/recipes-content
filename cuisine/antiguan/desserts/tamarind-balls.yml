@@ -1,0 +1,33 @@
+prep: 25 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - dessert
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: tamarind pulp
+    raw: 300 g tamarind pulp
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - qty: 0.5
+    name: /2 small scotch bonnet
+    raw: 1/2 small Scotch bonnet, very finely minced
+  - qty: 2
+    unit: tbsp
+    name: granulated white sugar
+    raw: 2 tbsp granulated white sugar

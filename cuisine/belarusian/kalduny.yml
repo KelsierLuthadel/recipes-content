@@ -1,0 +1,70 @@
+prep: 1 hour
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - butter
+  - cream
+mentions:
+  - cuisine/russian/pelmeni
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 300
+    unit: g
+    name: pork shoulder
+    raw: 300 g pork shoulder, very finely chopped
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, very finely chopped
+  - qty: 1
+    unit: tbsp
+    name: pork lard or butter
+    raw: 1 tbsp pork lard or butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: plenty of black pepper
+    raw: Plenty of black pepper
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tbsp very cold water
+  - qty: 1.5
+    unit: l
+    name: light chicken or beef broth
+    raw: 1.5 litres light chicken or beef broth
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, chopped
+  - name: smetana on the side
+    raw: Smetana on the side

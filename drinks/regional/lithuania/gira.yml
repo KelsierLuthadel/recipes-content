@@ -1,0 +1,45 @@
+prep: 20 minutes (plus 2-3 days fermentation)
+cook: 30 minutes (drying the bread)
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - dairy-free
+  - make-ahead
+  - lemon
+  - honey
+mentions:
+  - cuisine/lithuanian/cepelinai
+  - cuisine/lithuanian/saltibarsciai
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: dense dark rye bread
+    raw: 500 g dense dark rye bread
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres hot water
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 7
+    unit: g
+    name: instant dried yeast
+    raw: 7 g instant dried yeast
+  - qty: 80
+    unit: g
+    name: raisins
+    raw: 80 g raisins
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 2
+    unit: sprig
+    name: mint
+    raw: 2 sprigs fresh mint
+  - name: ice cubes
+    raw: Ice cubes
+  - name: mint
+    raw: Mint sprigs

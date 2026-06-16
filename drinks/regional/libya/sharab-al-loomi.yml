@@ -1,0 +1,36 @@
+prep: 5 minutes (plus 4 hours steeping)
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - lime
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/kebabs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: limes
+    raw: 4 whole dried limes
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres cold water
+  - qty: 1
+    unit: tsp
+    name: orange blossom water
+    raw: 1 tsp orange blossom water
+  - name: plenty of ice
+    raw: Plenty of ice
+  - qty: 1
+    unit: small handful
+    name: mint
+    raw: A small handful fresh mint, to serve

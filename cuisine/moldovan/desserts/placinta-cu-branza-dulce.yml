@@ -1,0 +1,79 @@
+prep: 45 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tbsp caster sugar
+  - qty: 50
+    unit: ml
+    name: sunflower oil
+    raw: 50 ml sunflower oil
+  - name: oil for stretching
+    raw: Extra oil for stretching
+  - qty: 500
+    unit: g
+    name: farmer's cheese
+    raw: 500 g fresh farmer's cheese
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 60
+    unit: g
+    name: raisins
+    raw: 60 g raisins
+  - qty: 2
+    unit: tbsp
+    name: semolina or fine breadcrumbs
+    raw: 2 tbsp semolina or fine breadcrumbs
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter, melted
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tbsp icing sugar
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream to serve

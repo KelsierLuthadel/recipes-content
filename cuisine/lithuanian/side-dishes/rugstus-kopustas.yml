@@ -1,0 +1,37 @@
+prep: 40 minutes
+cook: None (3-4 weeks fermentation)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - carrot
+mentions:
+  - cuisine/lithuanian/cepelinai
+  - cuisine/lithuanian/vedarai
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: white cabbage
+    raw: 2 kg white cabbage
+  - qty: 40
+    unit: g
+    name: non-iodised salt
+    raw: 40 g coarse non-iodised salt
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots , peeled and coarsely grated
+  - qty: 2
+    unit: tbsp
+    name: caraway seeds
+    raw: 2 tbsp caraway seeds
+  - qty: 1
+    unit: tbsp
+    name: juniper berries
+    raw: 1 tbsp juniper berries
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves

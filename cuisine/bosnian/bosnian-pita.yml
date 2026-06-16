@@ -1,0 +1,78 @@
+prep: 1 hour (plus 1 hour resting)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - butter
+  - complex
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white bread flour
+    raw: 500 g strong white bread flour, plus extra for dusting
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tablespoons sunflower oil
+  - qty: 1
+    unit: tsp
+    name: white wine vinegar
+    raw: 1 teaspoon white wine vinegar
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g lean minced beef
+  - qty: 2
+    name: onions
+    raw: 2 large onions, peeled and grated on the coarse side of a box grater
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 100
+    unit: ml
+    name: sparkling water
+    raw: 100 ml sparkling water
+  - qty: 50
+    unit: g
+    name: lamb tail fat or beef suet
+    raw: 50 g lamb tail fat or beef suet, very finely chopped
+  - qty: 100
+    unit: ml
+    name: sunflower oil
+    raw: 100 ml sunflower oil, for brushing the dough
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter, melted, for the top
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml warm milk, for the finishing wash

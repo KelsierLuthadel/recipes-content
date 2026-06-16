@@ -1,0 +1,64 @@
+prep: 1 hour (plus 4 hours chilling)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - butter
+  - cream
+  - chocolate
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: hazelnuts
+    raw: 250 g hazelnuts, skinned
+  - qty: 200
+    unit: g
+    name: dark chocolate
+    raw: 200 g dark chocolate
+  - qty: 200
+    unit: g
+    name: milk chocolate
+    raw: 200 g milk chocolate
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 150
+    unit: g
+    name: unsalted butter
+    raw: 150 g unsalted butter, softened
+  - qty: 80
+    unit: g
+    name: icing sugar
+    raw: 80 g icing sugar
+  - qty: 1
+    unit: tbsp
+    name: instant coffee
+    raw: 1 tbsp instant coffee
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    name: plain rectangular wafer biscuits
+    raw: 1 packet plain rectangular wafer biscuits
+  - qty: 250
+    unit: g
+    name: dark chocolate
+    raw: 250 g dark chocolate
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 50
+    unit: g
+    name: hazelnuts
+    raw: 50 g chopped hazelnuts, for the top

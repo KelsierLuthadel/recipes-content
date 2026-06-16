@@ -1,0 +1,44 @@
+prep: 10 minutes (plus syrup cool)
+cook: 8 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - snack
+  - make-ahead
+  - coconut
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g freshly grated coconut
+  - qty: 300
+    unit: g
+    name: white sugar
+    raw: 300 g white sugar
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 0.5
+    name: /2 tsp vanilla extract
+    raw: 1/2 tsp vanilla extract
+  - qty: 1
+    unit: drop
+    name: green or white food colouring
+    raw: A drop of green or white food colouring
+  - qty: 1
+    unit: kg
+    name: or shaved ice
+    raw: 1 kg crushed or shaved ice
+  - qty: 4
+    unit: tbsp
+    name: sweetened condensed milk
+    raw: 4 tbsp sweetened condensed milk
+  - qty: 4
+    name: paper cups
+    raw: 4 paper cups

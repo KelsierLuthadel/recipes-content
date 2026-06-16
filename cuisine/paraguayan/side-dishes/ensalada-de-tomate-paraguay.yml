@@ -1,0 +1,49 @@
+prep: 15 minutes
+cook: None
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - cuisine/paraguayan/chipa-guazu
+  - cuisine/paraguayan/side-dishes/mandioca-paraguay
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: tomatoes
+    raw: 6 ripe medium tomatoes
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion
+  - qty: 1
+    unit: large handful
+    name: flat-leaf parsley
+    raw: 1 large handful flat-leaf parsley, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tbsp sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - name: "optional: 1 clove garlic"
+    raw: "Optional: 1 clove garlic, finely minced"
+  - name: "optional: 1 tsp dried oregano"
+    raw: "Optional: 1 tsp dried oregano"

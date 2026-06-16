@@ -1,0 +1,55 @@
+prep: 15 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - dairy-free
+  - sides
+  - eggs
+  - onion
+  - garlic
+  - potato
+mentions:
+  - cuisine/slovakian/slovak-goulash
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely grated
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed to a paste
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 1
+    unit: tbsp
+    name: marjoram
+    raw: 1 tbsp dried marjoram
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds, lightly crushed
+  - qty: 100
+    unit: g
+    name: lard or 100 ml sunflower oil
+    raw: 100 g lard or 100 ml sunflower oil, for frying

@@ -1,0 +1,88 @@
+prep: 25 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/guatemalan/pepian
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken pieces
+    raw: 1.5 kg chicken pieces , bone in skin on
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 600
+    unit: g
+    name: tomatillos
+    raw: 600 g tomatillos , husked
+  - qty: 1
+    name: coriander
+    raw: 1 large bunch coriander , stalks and leaves
+  - qty: 8
+    name: spring onions
+    raw: 8 spring onions, white and green parts
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli , seeded for milder, seeds in for heat
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 80
+    unit: g
+    name: pumpkin seeds
+    raw: 80 g pumpkin seeds
+  - qty: 30
+    unit: g
+    name: sesame seeds
+    raw: 30 g sesame seeds
+  - qty: 2
+    name: stale corn tortillas
+    raw: 2 stale corn tortillas, torn
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil or lard
+    raw: 2 tbsp vegetable oil or lard
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander
+  - name: salt
+    raw: Salt to taste

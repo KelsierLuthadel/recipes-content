@@ -1,0 +1,42 @@
+prep: 10 minutes (plus collection time)
+cook: 0 (fresh) or 3 to 5 days (fermented)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - lemon
+  - honey
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: l
+    name: birch sap
+    raw: 1 litre fresh birch sap
+  - name: "optional: 1 mint leaf"
+    raw: "Optional: 1 mint leaf, lemon slice"
+  - qty: 2
+    unit: l
+    name: birch sap
+    raw: 2 litres fresh birch sap
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 8
+    name: raisins
+    raw: 8 raisins
+  - qty: 2
+    unit: sprig
+    name: mint
+    raw: 2 sprigs of fresh mint
+  - qty: 1
+    name: cardamom pod
+    raw: 1 cardamom pod, lightly crushed

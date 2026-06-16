@@ -1,0 +1,56 @@
+prep: 20 minutes (plus 30-40 min cure)
+cook: None
+allergens:
+  - dairy
+  - fish
+tags:
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - tomato
+  - coconut
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/fijian/kokoda
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: firm white reef fish
+    raw: 500 g firm white reef fish , skinless and boneless
+  - name: juice of 5 limes
+    raw: Juice of 5 limes
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 250
+    unit: ml
+    name: coconut milk
+    raw: 250 ml coconut milk
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely diced
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, deseeded and diced 5 mm
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, finely sliced
+  - qty: 1
+    unit: tbsp
+    name: coriander
+    raw: 1 tbsp finely chopped fresh coriander
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut into wedges, to serve
+  - name: black pepper
+    raw: Black pepper

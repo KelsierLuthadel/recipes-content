@@ -1,0 +1,57 @@
+prep: 40 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - cream
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/charcuterie/sausages
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: starchy potatoes
+    raw: 1.5 kg starchy potatoes , peeled
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g smoked streaky bacon, finely chopped
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 0.5
+    name: /2 tsp ground caraway
+    raw: 1/2 tsp ground caraway
+  - qty: 0.5
+    name: /2 tsp marjoram
+    raw: 1/2 tsp marjoram
+  - qty: 2
+    name: natural pork-intestine sausage casings
+    raw: 2 m natural pork-intestine sausage casings
+  - qty: 100
+    unit: g
+    name: lard or bacon fat
+    raw: 100 g lard or bacon fat
+  - qty: 300
+    unit: ml
+    name: sour cream
+    raw: 300 ml sour cream, to serve
