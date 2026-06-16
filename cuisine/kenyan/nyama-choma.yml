@@ -1,0 +1,47 @@
+prep: 20 minutes, plus 1 hour rest
+cook: 1 hour 30 minutes
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - tomato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: goat leg or shoulder
+    raw: 2 kg bone-in goat leg or shoulder
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tbsp coarse sea salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, halved
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - name: kachumbari
+    raw: Kachumbari
+  - name: ugali
+    raw: Ugali
+  - name: pili pili on the side
+    raw: Pili pili on the side

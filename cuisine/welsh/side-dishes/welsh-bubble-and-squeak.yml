@@ -1,0 +1,42 @@
+prep: 10 minutes (with leftovers; 25 minutes from scratch)
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - gluten-free
+  - sides
+  - meat
+  - eggs
+  - potato
+  - butter
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 300
+    unit: g
+    name: savoy or spring cabbage
+    raw: 300 g savoy or spring cabbage, shredded
+  - qty: 1
+    name: leek
+    raw: 1 medium leek, sliced thin
+  - qty: 3
+    unit: tbsp
+    name: beef dripping or butter
+    raw: 3 tbsp beef dripping or butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: plenty of black pepper
+    raw: Plenty of black pepper
+  - name: "optional: 1 tbsp worcestershire sauce"
+    raw: "Optional: 1 tbsp Worcestershire sauce"
+  - name: "optional: 4 eggs to fry alongside"
+    raw: "Optional: 4 eggs to fry alongside"

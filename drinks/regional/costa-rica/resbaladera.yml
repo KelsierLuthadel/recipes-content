@@ -1,0 +1,52 @@
+prep: 15 minutes (plus 4 hours soak)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - rice
+  - complex
+mentions:
+  - drinks/regional/mexico/horchata
+  - tutorials/spices/storage
+ingredients:
+  - qty: 100
+    unit: g
+    name: long-grain white rice
+    raw: 100 g long-grain white rice
+  - qty: 50
+    unit: g
+    name: pearl barley
+    raw: 50 g pearl barley
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 0.25
+    name: /4 tsp grated nutmeg
+    raw: 1/4 tsp grated nutmeg
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk, plus more to taste
+  - qty: 0.5
+    name: /2 tin sweetened condensed milk
+    raw: 1/2 tin sweetened condensed milk
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon, to dust
+  - name: ice cubes
+    raw: Ice cubes, to serve

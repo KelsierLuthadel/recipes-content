@@ -1,0 +1,38 @@
+prep: 30 minutes
+cook: 20 minutes (plus 6 months fermenting and maturing)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - lemon
+  - honey
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: welsh honey
+    raw: 1.5 kg Welsh honey
+  - qty: 4
+    unit: l
+    name: spring or filtered water
+    raw: 4 litres spring or filtered water
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - qty: 1
+    name: mead yeast or champagne yeast
+    raw: 1 sachet mead yeast or champagne yeast
+  - qty: 1
+    unit: tsp
+    name: yeast nutrient
+    raw: 1 teaspoon yeast nutrient
+  - qty: 0.25
+    name: /4 teaspoon yeast energizer
+    raw: 1/4 teaspoon yeast energizer
+  - qty: 5
+    unit: g
+    name: pectic enzyme
+    raw: 5 g pectic enzyme

@@ -1,0 +1,104 @@
+prep: 2 hours (plus 3 hours rising)
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - lemon
+  - butter
+  - nuts
+  - complex
+mentions:
+  - drinks/regional/romania/tuica
+  - tutorials/bread/gluten
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white flour
+    raw: 500 g strong white flour
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 4
+    name: egg yolks
+    raw: 4 egg yolks
+  - qty: 1
+    name: egg
+    raw: 1 whole egg
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml warm full-fat milk
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, soft
+  - qty: 50
+    unit: ml
+    name: sunflower oil
+    raw: 50 ml sunflower oil
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 300
+    unit: g
+    name: shelled walnuts
+    raw: 300 g shelled walnuts
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml full-fat milk
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 30
+    unit: g
+    name: cocoa powder
+    raw: 30 g cocoa powder
+  - qty: 2
+    unit: tbsp
+    name: rum
+    raw: 2 tbsp rum
+  - qty: 2
+    name: egg whites
+    raw: 2 egg whites
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tbsp milk
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar

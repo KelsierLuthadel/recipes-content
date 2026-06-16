@@ -1,0 +1,66 @@
+prep: 30 minutes
+cook: 50 minutes (plus 4 hours chilling)
+allergens:
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - lemon
+  - nuts
+  - complex
+mentions:
+  - cuisine/bengali/desserts/rasgulla
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: l
+    name: milk
+    raw: 2 litres full-fat milk
+  - qty: 4
+    unit: tbsp
+    name: white vinegar or lemon juice
+    raw: 4 tbsp white vinegar or lemon juice
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, lightly crushed
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre full-fat milk
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: generous pinch
+    name: saffron threads
+    raw: A generous pinch of saffron threads
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, lightly crushed
+  - qty: 30
+    unit: g
+    name: pistachios
+    raw: 30 g pistachios, chopped
+  - qty: 30
+    unit: g
+    name: almonds
+    raw: 30 g almonds, blanched and slivered
+  - qty: 1
+    unit: tsp
+    name: rosewater or kewra water
+    raw: 1 tsp rosewater or kewra water

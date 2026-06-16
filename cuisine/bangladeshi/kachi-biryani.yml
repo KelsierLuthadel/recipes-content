@@ -1,0 +1,139 @@
+prep: 1 hour (plus 4 hours marination)
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - coriander
+  - yogurt
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/biryani
+  - drinks/regional/bangladesh/borhani
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: mutton
+    raw: 1.5 kg mutton , bone-in, in 5 cm chunks
+  - qty: 500
+    unit: g
+    name: yogurt
+    raw: 500 g thick yogurt
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger, paste
+  - qty: 10
+    name: garlic cloves
+    raw: 10 garlic cloves, paste
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 tsp chilli powder
+  - qty: 1
+    unit: tbsp
+    name: coriander powder
+    raw: 1 tbsp coriander powder
+  - qty: 1
+    unit: tsp
+    name: turmeric powder
+    raw: 1 tsp turmeric powder
+  - qty: 2
+    unit: tsp
+    name: biryani garam masala
+    raw: 2 tsp biryani garam masala
+  - qty: 100
+    unit: ml
+    name: mustard oil
+    raw: 100 ml mustard oil
+  - qty: 4
+    name: onions
+    raw: 4 large onions, finely sliced
+  - qty: 200
+    unit: ml
+    name: ghee
+    raw: 200 ml ghee
+  - qty: 6
+    name: potatoes
+    raw: 6 small potatoes, peeled and whole
+  - qty: 100
+    unit: g
+    name: cashew nuts
+    raw: 100 g cashew nuts
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins
+  - qty: 1
+    unit: kg
+    name: basmati rice
+    raw: 1 kg basmati rice
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 2
+    unit: tbsp
+    name: salt
+    raw: 2 tbsp salt
+  - qty: 4
+    name: green cardamoms
+    raw: 4 green cardamoms
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: generous pinch
+    name: saffron threads
+    raw: A generous pinch of saffron threads
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml warm milk
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tbsp ghee
+  - qty: 4
+    unit: tbsp
+    name: rosewater or kewra water
+    raw: 4 tbsp rosewater or kewra water
+  - qty: 1
+    name: mint
+    raw: A small bunch of fresh mint, chopped
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander, chopped
+  - qty: 6
+    name: green chillies
+    raw: 6 green chillies, slit
+  - name: plain flour and water for the dough seal
+    raw: Plain flour and water for the dough seal

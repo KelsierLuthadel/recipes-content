@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - mustard
+tags:
+  - vegetarian
+  - sides
+  - butter
+  - cheese
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - tutorials/stocks-sauces/bechamel
+ingredients:
+  - qty: 8
+    name: leeks
+    raw: 8 baby leeks
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk, warm
+  - qty: 1
+    unit: tsp
+    name: english mustard
+    raw: 1 tsp English mustard
+  - qty: 150
+    unit: g
+    name: cheddar
+    raw: 150 g mature cheddar, grated, plus 50 g for the top
+  - qty: 30
+    unit: g
+    name: breadcrumbs
+    raw: 30 g fresh breadcrumbs
+  - qty: 1
+    unit: pinch
+    name: nutmeg
+    raw: Pinch of nutmeg
+  - name: salt and black pepper
+    raw: Salt and black pepper

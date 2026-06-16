@@ -1,0 +1,97 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - tomato
+  - carrot
+  - cream
+  - complex
+mentions:
+  - cuisine/romanian/sarmale
+  - tutorials/spices/storage
+ingredients:
+  - qty: 8
+    name: sweet peppers
+    raw: 8 large sweet peppers
+  - qty: 800
+    unit: ml
+    name: tomato passata
+    raw: 800 ml tomato passata
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tbsp sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: tomato puree
+    raw: 2 tbsp tomato puree
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tbsp chopped fresh dill
+  - qty: 500
+    unit: g
+    name: pork
+    raw: 500 g coarsely minced pork
+  - qty: 80
+    unit: g
+    name: long-grain rice
+    raw: 80 g long-grain rice
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 1
+    name: carrot
+    raw: 1 medium carrot, grated
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp chopped fresh dill
+  - qty: 2
+    unit: tbsp
+    name: flat-leaf parsley
+    raw: 2 tbsp chopped flat-leaf parsley
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream

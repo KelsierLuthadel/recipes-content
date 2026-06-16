@@ -1,0 +1,43 @@
+prep: 20 minutes
+cook: None (plus 3-4 days fermentation)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+mentions:
+  - cuisine/romanian/desserts/cozonac
+  - drinks/classic/lemonade
+  - tutorials/charcuterie/safety
+  - tutorials/distilling-spirits/safety
+  - tutorials/spices/storage
+ingredients:
+  - qty: 13.5
+    name: elderflower heads
+    raw: 12-15 fresh elderflower heads
+  - qty: 3
+    unit: l
+    name: just-cooled boiled water
+    raw: 3 litres just-cooled boiled water
+  - qty: 300
+    unit: g
+    name: caster sugar
+    raw: 300 g caster sugar
+  - qty: 2
+    name: lemons
+    raw: 2 lemons
+  - qty: 1
+    unit: tbsp
+    name: raisins
+    raw: 1 tablespoon raisins
+  - name: ice
+    raw: Ice
+  - name: lemon
+    raw: A wedge of lemon
+  - name: mint leaves
+    raw: A few mint leaves
+  - name: tall glasses
+    raw: Tall glasses

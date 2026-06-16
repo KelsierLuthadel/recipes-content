@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - meals
+  - rice
+  - onion
+  - garlic
+  - coriander
+mentions:
+  - cuisine/ghanaian/side-dishes/fried-plantain
+  - cuisine/saint-lucian/side-dishes/fried-plantain
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    name: white onion
+    raw: 1 medium white onion, finely diced
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper, finely diced
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 400
+    unit: g
+    name: black beans
+    raw: 400 g cooked black beans, drained
+  - qty: 500
+    unit: g
+    name: long-grain white rice
+    raw: 500 g cooked long-grain white rice
+  - qty: 4
+    unit: tbsp
+    name: salsa lizano
+    raw: 4 tbsp Salsa Lizano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: large handful
+    name: coriander
+    raw: 1 large handful fresh coriander, finely chopped
+  - name: black pepper
+    raw: Freshly ground black pepper

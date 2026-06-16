@@ -1,0 +1,65 @@
+prep: 30 minutes (plus 90 minutes rising)
+cook: 18 minutes
+allergens:
+  - gluten
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - snack
+  - make-ahead
+  - eggs
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: white flour
+    raw: 500 g strong white flour
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tbsp caster sugar
+  - qty: 1
+    unit: tbsp
+    name: sunflower oil
+    raw: 1 tbsp sunflower oil
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 L water
+  - qty: 3
+    unit: tbsp
+    name: bicarbonate of soda
+    raw: 3 tbsp bicarbonate of soda
+  - qty: 2
+    unit: tbsp
+    name: poppy seeds
+    raw: 2 tbsp poppy seeds
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tbsp sesame seeds
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tbsp coarse sea salt
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten with 1 tbsp water

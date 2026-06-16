@@ -1,0 +1,79 @@
+prep: 60 minutes
+cook: 3 hours
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - pork
+  - rice
+  - onion
+  - tomato
+  - complex
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: soured cabbage
+    raw: 1 whole soured cabbage , leaves separated
+  - qty: 200
+    unit: g
+    name: shredded sauerkraut
+    raw: 200 g shredded sauerkraut
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g smoked streaky bacon, in thick slices
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 500
+    unit: ml
+    name: tomato juice
+    raw: 500 ml tomato juice
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 800
+    unit: g
+    name: pork
+    raw: 800 g coarsely minced pork
+  - qty: 100
+    unit: g
+    name: long-grain rice
+    raw: 100 g long-grain rice
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp chopped fresh dill
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper

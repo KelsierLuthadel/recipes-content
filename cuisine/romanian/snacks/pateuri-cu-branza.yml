@@ -1,0 +1,56 @@
+prep: 25 minutes
+cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: all-butter puff pastry
+    raw: 500 g all-butter puff pastry, defrosted
+  - name: flour for rolling
+    raw: Flour for rolling
+  - qty: 300
+    unit: g
+    name: telemea or feta cheese
+    raw: 300 g telemea or feta cheese, crumbled
+  - qty: 100
+    unit: g
+    name: cottage cheese or ricotta
+    raw: 100 g cottage cheese or ricotta
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tbsp sour cream
+  - qty: 3
+    unit: tbsp
+    name: dill
+    raw: 3 tbsp finely chopped fresh dill
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 0.5
+    name: /2 tsp sweet paprika
+    raw: 1/2 tsp sweet paprika
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten with 1 tbsp milk
+  - qty: 1
+    unit: tbsp
+    name: sesame or nigella seeds
+    raw: 1 tbsp sesame or nigella seeds

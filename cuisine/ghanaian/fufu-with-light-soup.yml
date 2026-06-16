@@ -1,0 +1,81 @@
+prep: 15 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - eggs
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - fish
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+  - complex
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: green plantains
+    raw: 2 large green plantains, peeled and chopped
+  - qty: 400
+    unit: g
+    name: cassava
+    raw: 400 g cassava, peeled and chopped
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 1
+    unit: kg
+    name: chicken pieces
+    raw: 1 kg chicken pieces
+  - qty: 1
+    name: onion
+    raw: 1 large onion, halved
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 2
+    name: scotch bonnets
+    raw: 2 scotch bonnets
+  - qty: 4
+    name: ginger
+    raw: 4 cm ginger, peeled
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 200
+    unit: g
+    name: garden eggs
+    raw: 200 g garden eggs , halved
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    unit: tsp
+    name: crayfish
+    raw: 1 tsp ground crayfish
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt

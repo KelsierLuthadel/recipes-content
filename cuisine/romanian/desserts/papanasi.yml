@@ -1,0 +1,64 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - cream
+  - cheese
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: cottage cheese or ricotta
+    raw: 500 g fresh cottage cheese or ricotta
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: dark rum
+    raw: 1 tbsp dark rum
+  - qty: 250
+    name: to 300 g plain flour
+    raw: 250 to 300 g plain flour
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    unit: l
+    name: sunflower oil
+    raw: 1 L sunflower oil
+  - qty: 300
+    unit: g
+    name: sour cream
+    raw: 300 g sour cream
+  - qty: 300
+    unit: g
+    name: sour cherry jam
+    raw: 300 g sour cherry jam , or any berry jam
+  - name: icing sugar
+    raw: Icing sugar

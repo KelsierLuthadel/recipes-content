@@ -1,0 +1,83 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - snack
+  - meat
+  - beef
+  - onion
+  - garlic
+  - potato
+  - coriander
+  - complex
+mentions:
+  - cuisine/chilean/snacks/empanadas-de-queso
+  - cuisine/costa-rican/side-dishes/picadillo-de-papa
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion, finely diced
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper, finely diced
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 300
+    unit: g
+    name: beef
+    raw: 300 g minced beef
+  - qty: 1
+    name: potato
+    raw: 1 medium potato, peeled and diced 5 mm
+  - qty: 2
+    unit: tbsp
+    name: salsa lizano
+    raw: 2 tbsp Salsa Lizano
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    unit: small handful
+    name: coriander leaves
+    raw: 1 small handful coriander leaves, chopped
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 300
+    unit: g
+    name: masa harina
+    raw: 300 g masa harina
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground turmeric
+    raw: 1/2 tsp ground turmeric
+  - qty: 450
+    unit: ml
+    name: water
+    raw: 450 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 60
+    unit: ml
+    name: vegetable oil
+    raw: 60 ml vegetable oil

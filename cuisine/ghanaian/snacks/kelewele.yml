@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - peanuts
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - snack
+  - onion
+  - garlic
+  - ginger
+  - nuts
+  - chili
+mentions:
+  - cuisine/ghanaian/side-dishes/fried-plantain
+  - cuisine/saint-lucian/side-dishes/fried-plantain
+  - drinks/regional/ghana/sobolo
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: plantains
+    raw: 4 ripe plantains
+  - qty: 4
+    name: ginger
+    raw: 4 cm ginger, finely grated
+  - qty: 1.5
+    name: scotch bonnets
+    raw: 1-2 scotch bonnets, deseeded and finely chopped
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, grated
+  - qty: 1
+    unit: tsp
+    name: anise seed
+    raw: 1 tsp ground anise seed
+  - qty: 0.5
+    name: /2 tsp ground cloves
+    raw: 1/2 tsp ground cloves
+  - qty: 0.5
+    name: /2 tsp ground dried ginger
+    raw: 1/2 tsp ground dried ginger
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely grated
+  - qty: 2
+    unit: tbsp
+    name: water
+    raw: 2 tbsp water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
+  - qty: 80
+    unit: g
+    name: roasted peanuts
+    raw: 80 g roasted peanuts

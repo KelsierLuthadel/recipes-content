@@ -1,0 +1,47 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - snack
+  - meat
+  - pork
+  - butter
+  - cheese
+mentions:
+  - cuisine/welsh/cawl
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: pinhead oatmeal or 300 g medium oatmeal
+    raw: 300 g pinhead oatmeal OR 300 g medium oatmeal
+  - qty: 50
+    unit: g
+    name: rolled oats
+    raw: 50 g rolled oats
+  - qty: 2
+    unit: tbsp
+    name: bacon fat
+    raw: 2 tablespoons bacon fat
+  - qty: 0.5
+    name: /2 teaspoon fine sea salt
+    raw: 1/2 teaspoon fine sea salt
+  - qty: 0.5
+    name: /2 teaspoon bicarbonate of soda
+    raw: 1/2 teaspoon bicarbonate of soda
+  - qty: 220
+    unit: ml
+    name: just-boiled water
+    raw: 220 ml just-boiled water
+  - qty: 100
+    unit: g
+    name: welsh cheddar or caerphilly cheese
+    raw: 100 g mature Welsh cheddar OR Caerphilly cheese
+  - name: pickled red cabbage
+    raw: A small jar of pickled red cabbage
+  - name: pat of butter
+    raw: A pat of butter

@@ -1,0 +1,57 @@
+prep: 5 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - rice
+  - lemon
+  - cream
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: long-grain white rice
+    raw: 200 g long-grain white rice
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: strip orange peel
+    raw: 1 strip orange peel
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 0.5
+    name: /2 tin sweetened condensed milk
+    raw: 1/2 tin sweetened condensed milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp ground nutmeg
+    raw: 1/2 tsp ground nutmeg
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 tsp ground cinnamon, for dusting
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream, optional, for stirring in at the end
+  - qty: 50
+    unit: g
+    name: raisins
+    raw: 50 g raisins, optional

@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 2 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - lime
+  - yogurt
+  - chili
+mentions:
+  - cuisine/indian/biryani
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 teaspoon cumin seeds
+  - qty: 500
+    unit: g
+    name: plain yogurt
+    raw: 500 g thick full-fat plain yogurt
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml cold water
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli, very finely chopped
+  - qty: 8
+    name: to 10 fresh mint leaves
+    raw: 8 to 10 fresh mint leaves, torn
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon fine salt
+  - qty: 1
+    unit: tsp
+    name: black salt
+    raw: 1 teaspoon black salt
+  - qty: 0.5
+    unit: tsp
+    name: caster sugar
+    raw: ½ teaspoon caster sugar
+  - name: plenty of ice cubes
+    raw: Plenty of ice cubes
+  - qty: 1
+    unit: pinch
+    name: toasted cumin powder
+    raw: A pinch of toasted cumin powder
+  - qty: 1
+    unit: small sprig
+    name: mint
+    raw: A small sprig of mint
+  - name: lime wedge
+    raw: A thin lime wedge

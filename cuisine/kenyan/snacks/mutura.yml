@@ -1,0 +1,100 @@
+prep: 45 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - soy
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - pork
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/kenyan/nyama-choma
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: natural beef or hog sausage casings
+    raw: 1 m natural beef or hog sausage casings
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g beef , very finely diced
+  - qty: 200
+    unit: ml
+    name: beef blood
+    raw: 200 ml fresh beef blood
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely diced
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, crushed
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, grated
+  - qty: 1
+    name: to 2 bird's-eye chillies
+    raw: 1 to 2 bird's-eye chillies, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of coriander, chopped
+  - qty: 1
+    unit: small handful
+    name: mint
+    raw: A small handful of mint, chopped
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - name: vegetable oil for brushing
+    raw: Vegetable oil for brushing
+  - name: kachumbari
+    raw: Kachumbari to serve
+  - name: pili pili and salt
+    raw: Pili pili and salt to serve

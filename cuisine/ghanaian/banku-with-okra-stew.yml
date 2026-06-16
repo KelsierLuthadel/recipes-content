@@ -1,0 +1,92 @@
+prep: 15 minutes (plus 2 days fermentation for the corn dough)
+cook: 45 minutes
+allergens:
+  - gluten
+  - fish
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: fermented corn dough
+    raw: 300 g fermented corn dough
+  - qty: 100
+    unit: g
+    name: cassava dough
+    raw: 100 g cassava dough
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 400
+    unit: g
+    name: okra
+    raw: 400 g fresh okra, topped, tailed and sliced into 1 cm rounds
+  - qty: 80
+    unit: ml
+    name: red palm oil
+    raw: 80 ml red palm oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes, blended
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 2
+    name: scotch bonnets
+    raw: 2 scotch bonnets, chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, minced
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, grated
+  - qty: 100
+    unit: g
+    name: fish
+    raw: 100 g dried fish , soaked 30 minutes, flaked
+  - qty: 300
+    unit: g
+    name: smoked turkey or beef
+    raw: 300 g smoked turkey or beef , cut into chunks
+  - qty: 1
+    unit: tsp
+    name: crayfish
+    raw: 1 tsp ground crayfish
+  - qty: 500
+    unit: ml
+    name: stock or water
+    raw: 500 ml stock or water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube

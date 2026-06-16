@@ -1,0 +1,44 @@
+prep: 30 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - sides
+  - onion
+  - tomato
+  - lemon
+mentions:
+  - cuisine/romanian/side-dishes/salata-de-boeuf
+  - tutorials/middle-eastern-fundamentals/mezze
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: aubergines
+    raw: 1.5 kg aubergines , as fresh and shiny as possible
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 100
+    name: to 150 ml sunflower oil
+    raw: 100 to 150 ml sunflower oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - name: country bread
+    raw: Country bread
+  - qty: 2
+    name: tomatoes
+    raw: 2 ripe tomatoes, sliced
+  - qty: 1
+    unit: pinch
+    name: flaky salt
+    raw: A pinch of flaky salt

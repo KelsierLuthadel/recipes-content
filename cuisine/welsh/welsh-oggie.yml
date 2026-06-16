@@ -1,0 +1,75 @@
+prep: 30 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - eggs
+  - onion
+  - butter
+mentions:
+  - cuisine/british/snacks/cornish-pasty
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 450
+    unit: g
+    name: plain flour
+    raw: 450 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 120
+    unit: g
+    name: lard
+    raw: 120 g lard
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml boiling water
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 500
+    unit: g
+    name: lamb shoulder
+    raw: 500 g lamb shoulder
+  - qty: 1
+    name: leek
+    raw: 1 large leek
+  - qty: 250
+    unit: g
+    name: floury potato
+    raw: 250 g floury potato
+  - qty: 200
+    unit: g
+    name: swede
+    raw: 200 g swede
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 2
+    unit: tsp
+    name: thyme leaves
+    raw: 2 teaspoons fresh thyme leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 1
+    unit: knob
+    name: butter
+    raw: 1 knob butter

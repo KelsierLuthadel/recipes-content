@@ -1,0 +1,29 @@
+prep: 20 minutes
+cook: 40 minutes (plus 8 to 12 hours setting)
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - cream
+  - yogurt
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: l
+    name: milk
+    raw: 1.5 litres full-fat milk
+  - qty: 150
+    unit: g
+    name: jaggery
+    raw: 150 g jaggery , grated
+  - qty: 3
+    unit: tbsp
+    name: plain live yogurt
+    raw: 3 tbsp plain live yogurt
+  - name: "optional: 50 ml double cream"
+    raw: "Optional: 50 ml double cream"

@@ -1,0 +1,53 @@
+prep: 15 minutes, plus 10 minutes rest
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - lemon
+  - lime
+  - coriander
+  - chili
+mentions:
+  - cuisine/kenyan/githeri
+  - cuisine/kenyan/nyama-choma
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: firm ripe tomatoes
+    raw: 3 firm ripe tomatoes , finely diced
+  - qty: 1
+    name: red onion
+    raw: 1 large red onion , very thinly sliced
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - qty: 1
+    name: coriander
+    raw: A small bunch of coriander , leaves and tender stems finely chopped
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 0.5
+    name: /2 tsp fine salt
+    raw: 1/2 tsp fine salt
+  - qty: 0.25
+    name: /4 tsp ground black pepper
+    raw: 1/4 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: olive oil or vegetable oil
+    raw: 1 tsp olive oil or vegetable oil
+  - qty: 0.5
+    name: /2 cucumber
+    raw: 1/2 cucumber, deseeded and finely diced
+  - qty: 0.25
+    name: /4 avocado
+    raw: 1/4 avocado, diced

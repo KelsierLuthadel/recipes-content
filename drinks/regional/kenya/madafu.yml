@@ -1,0 +1,39 @@
+prep: 2 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - ginger
+  - coconut
+  - lime
+mentions:
+  - tutorials/middle-eastern-fundamentals/kebabs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: green coconut — about 1.5-2 kg
+    raw: 1 young green coconut — about 1.5-2 kg
+  - qty: 1
+    name: wide drinking straw
+    raw: 1 wide drinking straw
+  - qty: 1
+    unit: squeeze
+    name: lime
+    raw: A squeeze of fresh lime
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: A pinch of fine sea salt
+  - qty: 1
+    name: ginger
+    raw: 1 small piece of fresh ginger
+  - qty: 50
+    unit: ml
+    name: white rum
+    raw: 50 ml white rum
+  - name: short spoon
+    raw: A short spoon

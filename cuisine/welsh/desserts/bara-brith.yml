@@ -1,0 +1,50 @@
+prep: 15 minutes (plus overnight soaking)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - make-ahead
+  - eggs
+  - complex
+mentions:
+  - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
+ingredients:
+  - qty: 400
+    unit: g
+    name: mixed dried fruit
+    raw: 400 g mixed dried fruit
+  - qty: 300
+    unit: ml
+    name: black tea
+    raw: 300 ml hot strong black tea
+  - qty: 150
+    unit: g
+    name: soft dark brown sugar
+    raw: 150 g soft dark brown sugar
+  - qty: 1
+    name: egg
+    raw: 1 large egg, beaten
+  - qty: 250
+    unit: g
+    name: self-raising flour
+    raw: 250 g self-raising flour
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 tsp ground mixed spice
+  - qty: 0.5
+    name: /2 tsp ground cinnamon
+    raw: 1/2 tsp ground cinnamon
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: marmalade
+    raw: 1 tbsp marmalade

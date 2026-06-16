@@ -17,6 +17,10 @@ mentions:
   - base-ingredients/curry-powder/mixed-powder
   - cuisine/afghanistan/chapli-kebab
   - cuisine/afghanistan/lamb-karahi-afghani
+  - cuisine/bangladeshi/beef-bhuna
+  - cuisine/bangladeshi/bhuna-khichuri
+  - cuisine/bangladeshi/side-dishes/dal-bhuna
+  - cuisine/bangladeshi/snacks/singara
   - cuisine/bengali/chanar-dalna
   - cuisine/bengali/chingri-malai-curry
   - cuisine/bengali/doi-maach
@@ -85,6 +89,7 @@ mentions:
   - cuisine/indian/snacks/samosa
   - cuisine/indian/sticky-wings
   - cuisine/indonesian/indonesian-meatballs
+  - cuisine/kenyan/snacks/kenyan-samosa
   - cuisine/lahori/lahori-beef-boti-kebab
   - cuisine/lahori/lahori-chapli-kebab
   - cuisine/lahori/lahori-chargha

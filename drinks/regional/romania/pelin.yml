@@ -1,0 +1,43 @@
+prep: 10 minutes
+cook: None (40 days infuse)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - coriander
+  - honey
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: l
+    name: dry white wine
+    raw: 1 L dry white wine
+  - qty: 15
+    unit: g
+    name: wormwood leaves and flowering tops
+    raw: 15 g dried wormwood leaves and flowering tops
+  - qty: 5
+    unit: g
+    name: artemisia pontica
+    raw: 5 g dried Artemisia pontica
+  - qty: 3
+    unit: sprig
+    name: thyme
+    raw: 3 sprigs fresh thyme
+  - qty: 1
+    unit: small sprig
+    name: sage
+    raw: 1 small sprig fresh sage
+  - name: coriander seeds
+    raw: A few crushed coriander seeds
+  - name: "optional: 1 tbsp honey"
+    raw: "Optional: 1 tbsp honey"
+  - qty: 50
+    unit: ml
+    name: chilled pelin
+    raw: 50 ml chilled pelin
+  - name: wine glass
+    raw: A small wine glass

@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 20 minutes, plus 1 hour setting
+allergens:
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - dessert
+  - coconut
+  - nuts
+mentions:
+  - tutorials/charcuterie/safety
+  - tutorials/cocktails/equipment
+  - tutorials/distilling-spirits/safety
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+  - tutorials/sugar-work/fudge
+ingredients:
+  - qty: 250
+    unit: g
+    name: granulated sugar
+    raw: 250 g granulated sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g freshly grated coconut
+  - qty: 150
+    unit: g
+    name: peanuts
+    raw: 150 g raw peanuts
+  - qty: 1
+    unit: tsp
+    name: green cardamom
+    raw: 1 tsp ground green cardamom
+  - qty: 0.5
+    name: /2 tsp vanilla extract
+    raw: 1/2 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

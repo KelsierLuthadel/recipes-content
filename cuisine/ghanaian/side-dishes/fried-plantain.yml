@@ -1,0 +1,29 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+mentions:
+  - cuisine/ghanaian/desserts/tatale
+  - cuisine/ghanaian/jollof-rice
+  - cuisine/ghanaian/side-dishes/red-red
+  - cuisine/ghanaian/snacks/kelewele
+  - cuisine/ghanaian/waakye
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: plantains
+    raw: 4 ripe plantains
+  - qty: 70
+    unit: ml
+    name: vegetable oil
+    raw: 60-80 ml vegetable oil
+  - qty: 0.5
+    name: /2 tsp fine salt
+    raw: 1/2 tsp fine salt

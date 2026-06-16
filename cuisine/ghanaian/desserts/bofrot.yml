@@ -1,0 +1,52 @@
+prep: 15 minutes (plus 1 hour proof)
+cook: 25 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - dessert
+  - complex
+mentions:
+  - cuisine/ghanaian/side-dishes/shito
+  - drinks/regional/ghana/sobolo
+  - tutorials/bread/hydration
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: instant dried yeast
+    raw: 1 tsp instant dried yeast
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground nutmeg
+    raw: 1/2 tsp ground nutmeg
+  - qty: 0.25
+    name: /4 tsp ground cinnamon
+    raw: 1/4 tsp ground cinnamon
+  - qty: 280
+    unit: ml
+    name: water
+    raw: 280 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 2
+    unit: tbsp
+    name: caster sugar for dusting
+    raw: 2 tbsp caster sugar for dusting

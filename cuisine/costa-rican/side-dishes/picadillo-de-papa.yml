@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - onion
+  - garlic
+  - potato
+  - coriander
+mentions:
+  - cuisine/costa-rican/snacks/empanadas-costarricenses
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: waxy potatoes
+    raw: 600 g waxy potatoes, peeled and cut into 6 mm dice
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    name: white onion
+    raw: 1 white onion, finely diced
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper, finely diced
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, finely chopped
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 2
+    unit: tbsp
+    name: salsa lizano
+    raw: 2 tbsp Salsa Lizano
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml water
+  - qty: 100
+    unit: g
+    name: green peas
+    raw: 100 g frozen green peas
+  - qty: 1
+    unit: large handful
+    name: coriander leaves
+    raw: 1 large handful coriander leaves, chopped
+  - name: salt and black pepper
+    raw: Salt and black pepper

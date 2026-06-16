@@ -1,0 +1,49 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - quick
+  - dessert
+  - onion
+  - ginger
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: over-ripe plantains
+    raw: 4 very over-ripe plantains
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely grated
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, grated
+  - qty: 0.5
+    name: /2 scotch bonnet
+    raw: 1/2 scotch bonnet, deseeded and finely chopped
+  - qty: 60
+    unit: g
+    name: plain flour or millet flour
+    raw: 60 g plain flour or millet flour
+  - qty: 1
+    unit: tsp
+    name: anise or aniseed
+    raw: 1 tsp ground anise or aniseed
+  - qty: 0.5
+    name: /2 tsp ground nutmeg
+    raw: 1/2 tsp ground nutmeg
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1.5
+    unit: tbsp
+    name: sugar
+    raw: 1-2 tbsp sugar
+  - name: vegetable or red palm oil for shallow-frying
+    raw: Vegetable or red palm oil for shallow-frying

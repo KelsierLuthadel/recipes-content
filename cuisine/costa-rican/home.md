@@ -1,0 +1,5 @@
+# Costa Rican Cuisine
+
+![Costa Rican Cuisine](resources/hero.jpg)
+
+Costa Rica cooks from a rice-and-beans foundation, with gallo pinto at breakfast, the casado plate at lunch, and a bowl of sopa negra when the rain comes in. Salsa Lizano (the country's tangy brown pepper sauce) goes on almost everything, and a bottle sits on every table from the highland soda counter to the beach kitchen. Plantains run the plate: sweet maduro fried until the edges caramelise, and green patacones twice-fried and salted as a bar snack. Sodas, the country's everyday lunch counters, serve a daily casado with rice, black beans, picadillo, plantain, salad and a protein, all for a few dollars. Root vegetables anchor the boil-up tradition: olla de carne simmers beef with yuca, ñampi, chayote and plantain into a clear sweet broth. The Caribbean coast leans on coconut milk, scotch bonnet and rice-and-beans-with-coconut (the Limón version), while Guanacaste's cattle country adds maize-based corn dishes and the heavy use of fresh cheese. It is honest cooking, generous, traditional, and proud of its plate.

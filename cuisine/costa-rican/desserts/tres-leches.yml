@@ -1,0 +1,74 @@
+prep: 25 minutes (plus overnight chill)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 eggs, separated
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 60
+    unit: ml
+    name: milk
+    raw: 60 ml whole milk
+  - qty: 400
+    unit: ml
+    name: evaporated milk
+    raw: 400 ml tin evaporated milk
+  - qty: 397
+    unit: g
+    name: sweetened condensed milk
+    raw: 397 g tin sweetened condensed milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 2
+    unit: tbsp
+    name: dark rum
+    raw: 2 tbsp dark rum, optional
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream, cold
+  - qty: 3
+    unit: tbsp
+    name: icing sugar
+    raw: 3 tbsp icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon, for dusting

@@ -1,0 +1,68 @@
+prep: 10 minutes (plus overnight soak)
+cook: 2 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - coriander
+  - complex
+mentions:
+  - cuisine/costa-rican/gallo-pinto
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: black beans
+    raw: 500 g dried black beans, soaked overnight
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres water
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion, halved
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper, halved and seeded
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, smashed
+  - qty: 1
+    name: coriander stalks
+    raw: 1 large bunch coriander stalks
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion, finely diced
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 2
+    unit: tbsp
+    name: salsa lizano
+    raw: 2 tbsp Salsa Lizano

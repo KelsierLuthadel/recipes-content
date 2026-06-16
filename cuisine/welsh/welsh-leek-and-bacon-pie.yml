@@ -1,0 +1,96 @@
+prep: 30 minutes
+cook: 1 hour 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - butter
+  - cream
+  - cheese
+  - complex
+mentions:
+  - cuisine/welsh/cawl
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 0.5
+    name: /2 teaspoon fine sea salt
+    raw: 1/2 teaspoon fine sea salt
+  - qty: 150
+    unit: g
+    name: cold butter
+    raw: 150 g cold butter
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 4.5
+    unit: tbsp
+    name: water
+    raw: 4-5 tablespoons cold water
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 1
+    unit: kg
+    name: leeks
+    raw: 1 kg leeks
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 300
+    unit: g
+    name: smoked back bacon
+    raw: 300 g smoked back bacon
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 150
+    unit: g
+    name: welsh cheddar
+    raw: 150 g mature Welsh cheddar
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 1
+    unit: tbsp
+    name: english mustard
+    raw: 1 tablespoon English mustard
+  - qty: 2
+    unit: tsp
+    name: thyme leaves
+    raw: 2 teaspoons fresh thyme leaves
+  - qty: 0.5
+    name: /2 teaspoon fine sea salt
+    raw: 1/2 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: 1 small handful fresh parsley

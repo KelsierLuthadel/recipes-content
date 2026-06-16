@@ -1,0 +1,59 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - chili
+mentions:
+  - cuisine/kenyan/side-dishes/sukuma-wiki
+  - cuisine/ugandan/side-dishes/sukuma-wiki
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: collard greens
+    raw: 400 g collard greens , de-stemmed and finely shredded
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely sliced
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, crushed
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 250
+    unit: g
+    name: white maize meal
+    raw: 250 g white maize meal
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt

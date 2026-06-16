@@ -1,0 +1,74 @@
+prep: 15 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - peanuts
+  - shellfish
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - fish
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - butter
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/nigerian/side-dishes/fufu
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken pieces or goat shoulder
+    raw: 1 kg bone-in chicken pieces or goat shoulder, cut into chunks
+  - qty: 200
+    unit: g
+    name: natural smooth peanut butter
+    raw: 200 g natural smooth peanut butter
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes
+  - qty: 1
+    name: onion
+    raw: 1 large onion, halved
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper
+  - qty: 2
+    name: scotch bonnets
+    raw: 2 scotch bonnets
+  - qty: 4
+    name: ginger
+    raw: 4 cm ginger
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1.5
+    unit: l
+    name: stock or water
+    raw: 1.5 litres stock or water
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: crayfish
+    raw: 1 tsp ground crayfish
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt

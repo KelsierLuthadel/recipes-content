@@ -1,0 +1,47 @@
+prep: 10 minutes (plus 30 minutes salting)
+cook: 15 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+mentions:
+  - cuisine/bengali/snacks/beguni
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: aubergines
+    raw: 2 large aubergines
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp fine salt, for salting the slices
+  - qty: 2
+    unit: tsp
+    name: turmeric powder
+    raw: 2 tsp turmeric powder
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 tsp caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt, for the dusting
+  - qty: 100
+    unit: ml
+    name: mustard oil
+    raw: 100 ml mustard oil

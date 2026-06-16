@@ -1,0 +1,80 @@
+prep: 15 minutes
+cook: 5 minutes
+allergens:
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - snack
+  - rice
+  - onion
+  - tomato
+  - coconut
+  - potato
+  - lime
+  - coriander
+  - chickpea
+  - nuts
+  - chili
+mentions:
+  - tutorials/spices/storage
+  - base-ingredients/spices/chaat-masala
+ingredients:
+  - qty: 200
+    unit: g
+    name: puffed rice
+    raw: 200 g puffed rice
+  - qty: 50
+    unit: g
+    name: roasted peanuts
+    raw: 50 g roasted peanuts
+  - qty: 50
+    unit: g
+    name: crisp roasted chickpeas
+    raw: 50 g crisp roasted chickpeas
+  - qty: 50
+    unit: g
+    name: sev or thin bombay mix
+    raw: 50 g sev or thin Bombay mix
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely sliced
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, very finely chopped
+  - qty: 1
+    name: tomato
+    raw: 1 small tomato, finely diced
+  - qty: 1
+    name: green mango
+    raw: 1 small green mango , finely diced
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp raw mustard oil
+  - qty: 1
+    unit: tsp
+    name: chaat masala
+    raw: 1 tsp chaat masala
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt, plus more to taste
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp lime juice
+  - name: coconut
+    raw: A small piece of fresh coconut, slivered
+  - qty: 1
+    name: boiled potato
+    raw: 1 boiled potato, peeled and diced small

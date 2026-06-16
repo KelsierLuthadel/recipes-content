@@ -1,0 +1,58 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - make-ahead
+  - meals
+  - eggs
+  - butter
+  - cheese
+  - chili
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: white or sourdough bread
+    raw: 4 thick slices of good white or sourdough bread
+  - qty: 25
+    unit: g
+    name: unsalted butter
+    raw: 25 g unsalted butter
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 g plain flour
+  - qty: 100
+    unit: ml
+    name: brown ale or stout
+    raw: 100 ml brown ale or stout
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g mature cheddar, grated
+  - qty: 1
+    unit: tsp
+    name: english mustard
+    raw: 1 tsp English mustard
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 tsp Worcestershire sauce
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: A pinch of cayenne pepper
+  - name: black pepper
+    raw: Black pepper

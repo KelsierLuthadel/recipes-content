@@ -1,0 +1,116 @@
+prep: 45 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - peanuts
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - onion
+  - ginger
+  - potato
+  - lime
+  - coriander
+  - butter
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/snacks/samosa
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: tsp
+    name: ajwain
+    raw: 1 tsp ajwain , lightly crushed
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 60
+    unit: g
+    name: ghee
+    raw: 60 g ghee
+  - qty: 130
+    unit: ml
+    name: water
+    raw: 130 ml cold water
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 0.5
+    unit: tsp
+    name: fennel seeds
+    raw: ½ tsp fennel seeds
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger, finely chopped
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli, finely chopped
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    unit: tsp
+    name: turmeric powder
+    raw: ½ tsp turmeric powder
+  - qty: 0.5
+    unit: tsp
+    name: chilli powder
+    raw: ½ tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, plus more to taste
+  - qty: 50
+    unit: g
+    name: roasted peanuts
+    raw: 50 g roasted peanuts
+  - qty: 30
+    unit: g
+    name: raisins
+    raw: 30 g raisins
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp garam masala
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp lime juice
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped
+  - qty: 800
+    unit: ml
+    name: vegetable oil
+    raw: 800 ml vegetable oil
+  - qty: 2
+    unit: tbsp
+    name: plain flour mixed with 2 tbsp water
+    raw: 2 tbsp plain flour mixed with 2 tbsp water

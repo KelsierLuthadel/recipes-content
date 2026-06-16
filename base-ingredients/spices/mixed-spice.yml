@@ -29,6 +29,9 @@ mentions:
   - cuisine/saint-lucian/desserts/cassava-pone
   - cuisine/scottish/desserts/clootie-dumpling
   - cuisine/scottish/snacks/black-bun
+  - cuisine/welsh/desserts/bara-brith
+  - cuisine/welsh/desserts/teisen-lap
+  - cuisine/welsh/desserts/welsh-cakes
 ingredients:
   - qty: 1
     unit: tbsp

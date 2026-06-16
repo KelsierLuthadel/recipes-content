@@ -1,0 +1,55 @@
+prep: 10 minutes
+cook: 12 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - chili
+mentions:
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: collard greens or cavolo nero
+    raw: 500 g collard greens or cavolo nero, de-stemmed and very finely shredded
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely sliced
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, crushed
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 0.5
+    name: /2 tsp ground coriander
+    raw: 1/2 tsp ground coriander
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - name: juice of half a lemon
+    raw: Juice of half a lemon

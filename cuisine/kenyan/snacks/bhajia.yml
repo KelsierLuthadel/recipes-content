@@ -1,0 +1,75 @@
+prep: 20 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - potato
+  - lemon
+  - coriander
+  - chickpea
+  - chili
+  - curry
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes , peeled
+  - qty: 200
+    unit: g
+    name: flour
+    raw: 200 g gram flour
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    name: /2 tsp ground turmeric
+    raw: 1/2 tsp ground turmeric
+  - qty: 0.5
+    name: /2 tsp chilli powder
+    raw: 1/2 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp baking powder
+    raw: 1/2 tsp baking powder
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of coriander, finely chopped
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml cold water
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil, for deep-frying
+  - name: tamarind chutney
+    raw: Tamarind chutney
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: pili pili
+    raw: Pili pili
+  - qty: 1
+    unit: small handful
+    name: fried curry leaves
+    raw: A small handful of fried curry leaves

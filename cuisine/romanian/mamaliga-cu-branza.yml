@@ -1,0 +1,43 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - eggs
+  - butter
+  - cream
+  - cheese
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 L water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 250
+    unit: g
+    name: yellow cornmeal
+    raw: 250 g coarse yellow cornmeal
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 250
+    unit: g
+    name: telemea or feta cheese
+    raw: 250 g telemea or feta cheese, crumbled
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g sour cream , full fat
+  - name: "optional: 4 eggs"
+    raw: "Optional: 4 eggs, soft-fried in butter"

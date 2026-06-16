@@ -1,0 +1,72 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - fish
+  - shellfish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - fish
+  - prawn
+  - onion
+  - garlic
+  - ginger
+  - chili
+  - complex
+mentions:
+  - cuisine/ghanaian/waakye
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 100
+    unit: g
+    name: fish
+    raw: 100 g dried fish , bones removed
+  - qty: 80
+    unit: g
+    name: prawns or shrimp
+    raw: 80 g dried prawns or shrimp
+  - qty: 60
+    unit: g
+    name: red chilli
+    raw: 60 g dried red chilli , stems off
+  - qty: 4
+    name: onions
+    raw: 4 large onions, roughly chopped
+  - qty: 100
+    unit: g
+    name: tomato paste
+    raw: 100 g tomato paste
+  - qty: 5
+    name: ginger
+    raw: 5 cm ginger, peeled
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves
+  - qty: 350
+    unit: ml
+    name: vegetable oil
+    raw: 350 ml vegetable oil
+  - qty: 2
+    unit: tsp
+    name: crayfish
+    raw: 2 tsp ground crayfish
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 tsp ground dried ginger
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube

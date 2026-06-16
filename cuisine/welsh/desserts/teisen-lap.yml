@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - butter
+mentions:
+  - cuisine/welsh/desserts/bara-brith
+  - cuisine/welsh/desserts/welsh-cakes
+  - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
+ingredients:
+  - qty: 350
+    unit: g
+    name: self-raising flour
+    raw: 350 g self-raising flour
+  - qty: 225
+    unit: g
+    name: unsalted butter
+    raw: 225 g unsalted butter, softened
+  - qty: 175
+    unit: g
+    name: caster sugar
+    raw: 175 g caster sugar
+  - qty: 250
+    unit: g
+    name: mixed dried fruit
+    raw: 250 g mixed dried fruit
+  - qty: 50
+    unit: g
+    name: candied mixed peel
+    raw: 50 g chopped candied mixed peel
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten
+  - qty: 150
+    unit: ml
+    name: buttermilk
+    raw: 150 ml buttermilk
+  - qty: 1
+    unit: tsp
+    name: mixed spice
+    raw: 1 tsp ground mixed spice
+  - qty: 0.25
+    name: /4 tsp grated nutmeg
+    raw: 1/4 tsp grated nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

@@ -1,0 +1,52 @@
+prep: 40 minutes (plus 24 hours for the jam)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - complex
+mentions:
+  - cuisine/costa-rican/desserts/arroz-con-leche
+  - cuisine/cuban/desserts/arroz-con-leche
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: dulce de chiverre jam
+    raw: 500 g dulce de chiverre jam
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 150
+    unit: g
+    name: cold lard
+    raw: 150 g cold lard , cut into cubes
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml cold milk
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar, for sprinkling

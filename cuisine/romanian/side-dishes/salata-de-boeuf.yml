@@ -1,0 +1,95 @@
+prep: 60 minutes
+cook: 1 hour
+allergens:
+  - eggs
+  - meat
+  - mustard
+  - celery
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - beef
+  - eggs
+  - potato
+  - carrot
+  - complex
+mentions:
+  - cuisine/russian/side-dishes/olivier-salad
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef shin or chuck
+    raw: 500 g beef shin or chuck
+  - qty: 3
+    name: potatoes
+    raw: 3 medium potatoes
+  - qty: 3
+    name: carrots
+    raw: 3 medium carrots
+  - qty: 1
+    name: parsnip
+    raw: 1 parsnip
+  - qty: 1
+    name: celeriac
+    raw: 1 small celeriac
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 300
+    unit: g
+    name: peas
+    raw: 300 g cooked peas
+  - qty: 4
+    name: pickled gherkins
+    raw: 4 medium pickled gherkins, finely diced
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tbsp capers, drained and chopped
+  - qty: 3
+    name: hard-boiled eggs
+    raw: 3 hard-boiled eggs, finely chopped
+  - qty: 300
+    unit: g
+    name: mayonnaise
+    raw: 300 g mayonnaise
+  - qty: 2
+    unit: tsp
+    name: dijon mustard
+    raw: 2 tsp Dijon mustard
+  - qty: 2
+    unit: tbsp
+    name: pickle brine
+    raw: 2 tbsp pickle brine
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper, in strips
+  - qty: 8
+    name: black olives
+    raw: 8 black olives, halved
+  - qty: 2
+    name: gherkins
+    raw: 2 gherkins, sliced thin
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tbsp chopped parsley
+  - qty: 1
+    name: hard-boiled egg
+    raw: 1 hard-boiled egg, sliced

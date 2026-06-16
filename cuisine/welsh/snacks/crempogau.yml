@@ -1,0 +1,53 @@
+prep: 10 minutes (plus 1 hour resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - honey
+mentions:
+  - cuisine/welsh/desserts/welsh-cakes
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 tsp bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: cream of tartar
+    raw: 1 tsp cream of tartar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tbsp caster sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 400
+    unit: ml
+    name: buttermilk
+    raw: 400 ml buttermilk
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted, plus more for the griddle and to spread
+  - qty: 1
+    unit: tbsp
+    name: vinegar
+    raw: 1 tbsp vinegar
+  - name: "to serve: butter and clear honey"
+    raw: "To serve: butter and clear honey, or butter and soft brown sugar"

@@ -1,0 +1,37 @@
+prep: 2 minutes
+cook: 5 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - chocolate
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 90
+    unit: g
+    name: tapa dulce
+    raw: 80-100 g tapa dulce
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: 1 small pinch fine sea salt
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 30
+    unit: g
+    name: dark chocolate
+    raw: 30 g good-quality dark chocolate
+  - name: or 2 tablespoons cocoa powder
+    raw: OR 2 tablespoons cocoa powder

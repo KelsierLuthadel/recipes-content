@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 100
+    unit: g
+    name: desiccated coconut
+    raw: 100 g desiccated coconut
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground nutmeg
+    raw: 1/2 tsp ground nutmeg
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs
+  - qty: 150
+    unit: ml
+    name: vegetable oil
+    raw: 150 ml vegetable oil
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - name: coconut for topping
+    raw: Extra coconut for topping

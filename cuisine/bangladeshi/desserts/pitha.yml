@@ -1,0 +1,62 @@
+prep: 1 hour
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - coconut
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g freshly grated coconut
+  - qty: 150
+    unit: g
+    name: date palm jaggery
+    raw: 150 g date palm jaggery , grated
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, seeds crushed
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tbsp milk
+  - qty: 250
+    unit: g
+    name: rice flour
+    raw: 250 g rice flour
+  - qty: 350
+    unit: ml
+    name: just-boiled water
+    raw: 350 ml just-boiled water
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tbsp ghee, for greasing
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre full-fat milk
+  - qty: 100
+    unit: g
+    name: sugar
+    raw: 100 g sugar
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods, lightly bruised
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: A pinch of saffron threads

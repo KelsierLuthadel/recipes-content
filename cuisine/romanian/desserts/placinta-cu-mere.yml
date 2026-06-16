@@ -1,0 +1,72 @@
+prep: 45 minutes (plus 30 minutes rest)
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - complex
+mentions:
+  - drinks/regional/romania/tuica
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 350
+    unit: g
+    name: white flour
+    raw: 350 g strong white flour
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: more flour for dusting
+    raw: More flour for dusting
+  - qty: 1
+    unit: kg
+    name: tart apples
+    raw: 1 kg tart apples , peeled and cored
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: cinnamon
+    raw: 1 tbsp ground cinnamon
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 80
+    unit: g
+    name: dry breadcrumbs
+    raw: 80 g fine dry breadcrumbs
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, melted
+  - qty: 2
+    unit: tbsp
+    name: icing sugar
+    raw: 2 tbsp icing sugar, for dusting

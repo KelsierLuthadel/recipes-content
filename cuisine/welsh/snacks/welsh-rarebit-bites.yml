@@ -1,0 +1,64 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - spicy
+  - quick
+  - snack
+  - make-ahead
+  - eggs
+  - onion
+  - butter
+  - cheese
+  - chili
+mentions:
+  - cuisine/british/welsh-rarebit
+  - cuisine/welsh/welsh-rarebit
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 24
+    name: rounds cut from a slightly stale white loaf or sourdough
+    raw: 24 small rounds cut from a slightly stale white loaf or sourdough
+  - qty: 25
+    unit: g
+    name: unsalted butter
+    raw: 25 g unsalted butter
+  - qty: 25
+    unit: g
+    name: plain flour
+    raw: 25 g plain flour
+  - qty: 100
+    unit: ml
+    name: brown ale or stout
+    raw: 100 ml brown ale or stout
+  - qty: 200
+    unit: g
+    name: cheddar
+    raw: 200 g mature cheddar, grated
+  - qty: 1
+    unit: tsp
+    name: english mustard
+    raw: 1 tsp English mustard
+  - qty: 1
+    unit: tsp
+    name: worcestershire sauce
+    raw: 1 tsp Worcestershire sauce
+  - qty: 1
+    name: egg yolk
+    raw: 1 large egg yolk
+  - qty: 1
+    unit: pinch
+    name: cayenne pepper
+    raw: Pinch of cayenne pepper
+  - name: black pepper
+    raw: Black pepper
+  - name: "optional: finely sliced spring onion or chives"
+    raw: "Optional: finely sliced spring onion or chives, to scatter"

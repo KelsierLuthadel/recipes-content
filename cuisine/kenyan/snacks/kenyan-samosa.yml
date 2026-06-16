@@ -1,0 +1,105 @@
+prep: 1 hour
+cook: 30 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - meat
+  - beef
+  - onion
+  - garlic
+  - ginger
+  - lemon
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/indian/side-dishes/samosa
+  - cuisine/indian/snacks/samosa
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour, plus extra for dusting
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 150
+    unit: ml
+    name: water
+    raw: 150 ml warm water
+  - qty: 400
+    unit: g
+    name: beef
+    raw: 400 g minced beef
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, crushed
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, grated
+  - qty: 1
+    name: green chilli
+    raw: 1 small green chilli, finely chopped
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    name: /2 tsp ground turmeric
+    raw: 1/2 tsp ground turmeric
+  - qty: 0.5
+    name: /2 tsp garam masala
+    raw: 1/2 tsp garam masala
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of coriander, chopped
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - qty: 2
+    unit: tbsp
+    name: plain flour mixed with 3 tbsp water to a thick paste
+    raw: 2 tbsp plain flour mixed with 3 tbsp water to a thick paste
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil
+  - name: tamarind chutney
+    raw: Tamarind chutney
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: red onion
+    raw: Sliced raw red onion

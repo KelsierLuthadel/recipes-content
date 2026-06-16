@@ -1,0 +1,53 @@
+prep: 15 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
+ingredients:
+  - qty: 225
+    unit: g
+    name: self-raising flour
+    raw: 225 g self-raising flour
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, cold, cubed
+  - qty: 25
+    unit: g
+    name: lard
+    raw: 25 g lard, cold, cubed
+  - qty: 85
+    unit: g
+    name: caster sugar
+    raw: 85 g caster sugar, plus extra for dusting
+  - qty: 75
+    unit: g
+    name: currants
+    raw: 75 g currants
+  - qty: 0.5
+    name: /2 tsp ground mixed spice
+    raw: 1/2 tsp ground mixed spice
+  - qty: 0.25
+    name: /4 tsp grated nutmeg
+    raw: 1/4 tsp grated nutmeg
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    name: egg
+    raw: 1 large egg, beaten
+  - qty: 1
+    name: to 2 tbsp whole milk
+    raw: 1 to 2 tbsp whole milk, only if needed

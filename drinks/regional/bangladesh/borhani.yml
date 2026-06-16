@@ -2,6 +2,7 @@ prep: 10 minutes
 cook: 2 minutes
 allergens:
   - dairy
+  - mustard
 tags:
   - vegetarian
   - gluten-free
@@ -13,6 +14,7 @@ tags:
   - yogurt
   - chili
 mentions:
+  - drinks/regional/iraq/shaneena
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
 ingredients:
@@ -40,7 +42,7 @@ ingredients:
     raw: 1 green chilli
   - qty: 2
     name: ginger
-    raw: 2 cm fresh ginger
+    raw: 2 cm fresh ginger, peeled and grated
   - qty: 1
     unit: tsp
     name: black salt
@@ -57,6 +59,10 @@ ingredients:
     unit: tsp
     name: caster sugar
     raw: 1 teaspoon caster sugar
+  - qty: 0.25
+    unit: tsp
+    name: english mustard powder
+    raw: ¼ teaspoon English mustard powder
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1

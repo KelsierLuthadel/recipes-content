@@ -1,0 +1,58 @@
+prep: 20 minutes
+cook: 15 minutes
+allergens:
+  - mustard
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - chili
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: hilsa steaks
+    raw: 600 g hilsa steaks
+  - qty: 1
+    unit: tsp
+    name: turmeric powder
+    raw: 1 tsp turmeric powder, plus a pinch for dusting
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt, plus more to taste
+  - qty: 5
+    unit: tbsp
+    name: mustard oil
+    raw: 5 tbsp mustard oil
+  - qty: 3
+    unit: tbsp
+    name: yellow mustard seeds
+    raw: 3 tbsp yellow mustard seeds
+  - qty: 2
+    unit: tbsp
+    name: black mustard seeds
+    raw: 2 tbsp black mustard seeds
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp salt
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tbsp warm water
+  - qty: 1
+    unit: tbsp
+    name: mustard oil
+    raw: 1 tbsp mustard oil, raw, for drizzling
+  - name: slit chillies
+    raw: A few extra slit chillies

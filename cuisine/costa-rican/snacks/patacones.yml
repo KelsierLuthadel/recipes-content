@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - snack
+  - onion
+  - tomato
+  - lime
+  - coriander
+  - cheese
+mentions:
+  - cuisine/costa-rican/side-dishes/frijoles-molidos
+  - cuisine/costa-rican/snacks/chicharrones
+  - cuisine/mexican/snacks/chicharrones
+  - cuisine/mexican/snacks/guacamole
+  - cuisine/south-american/ceviche
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: green plantains
+    raw: 3 large green plantains
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil for frying
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 200
+    unit: g
+    name: frijoles molidos or refried black beans
+    raw: 200 g frijoles molidos or refried black beans, warm
+  - qty: 100
+    unit: g
+    name: white cheese
+    raw: 100 g fresh white cheese , crumbled
+  - qty: 1
+    name: tomato
+    raw: 1 small tomato, diced
+  - qty: 0.25
+    name: /4 small white onion
+    raw: 1/4 small white onion, finely chopped
+  - qty: 1
+    unit: small handful
+    name: coriander leaves
+    raw: 1 small handful coriander leaves
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut into wedges

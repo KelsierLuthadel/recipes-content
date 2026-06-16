@@ -1,0 +1,109 @@
+prep: 15 minutes (plus 8 hours soak for the chickpeas)
+cook: 1 hour
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - eggs
+  - onion
+  - ginger
+  - lime
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/sauce
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: white chickpeas
+    raw: 250 g white chickpeas, soaked overnight
+  - qty: 300
+    unit: g
+    name: potatoes
+    raw: 300 g potatoes, peeled and diced
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    unit: tsp
+    name: turmeric powder
+    raw: 1 tsp turmeric powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt, plus more to taste
+  - qty: 60
+    unit: g
+    name: tamarind pulp
+    raw: 60 g tamarind pulp
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml hot water
+  - qty: 1
+    unit: tsp
+    name: roasted cumin powder
+    raw: 1 tsp roasted cumin powder
+  - qty: 1
+    unit: tsp
+    name: jaggery or brown sugar
+    raw: 1 tsp jaggery or brown sugar
+  - qty: 0.5
+    unit: tsp
+    name: black salt
+    raw: ½ tsp black salt
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ tsp fine salt
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tbsp cumin seeds
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tbsp coriander seeds
+  - qty: 4
+    name: red chillies
+    raw: 4 dried red chillies
+  - qty: 1
+    unit: tsp
+    name: black salt
+    raw: 1 tsp black salt
+  - qty: 0.5
+    unit: tsp
+    name: ginger
+    raw: ½ tsp ground ginger
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: ½ tsp ground black pepper
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, peeled and roughly chopped
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely chopped
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, finely chopped
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander, chopped
+  - qty: 1
+    name: lime
+    raw: 1 lime, cut in wedges
+  - name: "optional: a small handful of crisp puffed fuchka shells"
+    raw: "Optional: a small handful of crisp puffed fuchka shells, broken"

@@ -1,0 +1,84 @@
+prep: 20 minutes
+cook: 3 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - eggs
+  - onion
+  - garlic
+  - carrot
+  - cream
+  - chili
+  - complex
+mentions:
+  - tutorials/chocolate/tempering
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: honeycomb tripe
+    raw: 1 kg honeycomb tripe, cleaned
+  - qty: 1
+    name: veal or beef knuckle bone
+    raw: 1 veal or beef knuckle bone , for the stock
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots, halved
+  - qty: 1
+    name: onion
+    raw: 1 large onion, halved
+  - qty: 1
+    name: parsnip
+    raw: 1 parsnip, halved
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 8
+    name: black peppercorns
+    raw: 8 black peppercorns
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 L water
+  - qty: 3
+    name: egg yolks
+    raw: 3 egg yolks
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 4
+    unit: tbsp
+    name: white wine vinegar
+    raw: 4 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, mashed with 1 tsp salt
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tbsp sunflower oil
+  - qty: 4
+    unit: tbsp
+    name: water
+    raw: 4 tbsp warm water
+  - name: hot chilli flakes or a small pickled chilli
+    raw: Hot chilli flakes or a small pickled chilli
+  - name: country bread
+    raw: Country bread

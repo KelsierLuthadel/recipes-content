@@ -1,0 +1,90 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - complex
+mentions:
+  - cuisine/chilean/side-dishes/completo
+  - cuisine/ghanaian/side-dishes/fried-plantain
+  - cuisine/saint-lucian/side-dishes/fried-plantain
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: long-grain white rice
+    raw: 400 g long-grain white rice
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 400
+    unit: g
+    name: black beans with their liquid
+    raw: 400 g cooked black beans with their liquid
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely diced
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, chopped
+  - qty: 0.5
+    name: /2 tsp cumin
+    raw: 1/2 tsp cumin
+  - qty: 2
+    unit: tbsp
+    name: salsa lizano
+    raw: 2 tbsp Salsa Lizano
+  - qty: 4
+    name: chicken thighs or 4 thin beef steaks
+    raw: 4 chicken thighs or 4 thin beef steaks
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt for the meat
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 2
+    name: plantains
+    raw: 2 large ripe plantains, peeled and sliced 1 cm thick on the bias
+  - qty: 60
+    unit: ml
+    name: oil for frying plantains
+    raw: 60 ml oil for frying plantains
+  - qty: 0.25
+    name: /4 small white cabbage
+    raw: 1/4 small white cabbage, finely shredded
+  - qty: 1
+    name: tomato
+    raw: 1 tomato, diced
+  - qty: 1
+    unit: small handful
+    name: coriander leaves
+    raw: 1 small handful coriander leaves
+  - qty: 1
+    name: lime
+    raw: 1 lime, juiced

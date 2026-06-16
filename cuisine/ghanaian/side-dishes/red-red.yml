@@ -1,0 +1,72 @@
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 hour
+allergens:
+  - fish
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - sides
+  - meat
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - chili
+mentions:
+  - drinks/regional/ghana/sobolo
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: black-eyed peas
+    raw: 300 g black-eyed peas, soaked overnight
+  - qty: 60
+    unit: ml
+    name: red palm oil
+    raw: 60 ml red palm oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes, blended
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 2
+    name: scotch bonnets
+    raw: 2 scotch bonnets, chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, minced
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, grated
+  - qty: 100
+    unit: g
+    name: fish
+    raw: 100 g dried fish, soaked 20 minutes and flaked
+  - qty: 1
+    name: stock cube
+    raw: 1 stock cube
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml water
+  - qty: 4
+    name: plantains
+    raw: 4 very ripe plantains, peeled and sliced 1 cm thick on the diagonal
+  - name: vegetable oil
+    raw: Vegetable oil for frying
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt

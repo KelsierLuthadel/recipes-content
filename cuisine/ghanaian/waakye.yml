@@ -1,0 +1,58 @@
+prep: 15 minutes (plus overnight bean soak)
+cook: 1 hour
+allergens:
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - eggs
+  - rice
+  - tomato
+mentions:
+  - cuisine/ghanaian/side-dishes/fried-plantain
+  - cuisine/ghanaian/side-dishes/shito
+  - cuisine/saint-lucian/side-dishes/fried-plantain
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: black-eyed peas or cowpeas
+    raw: 300 g black-eyed peas or cowpeas, soaked overnight
+  - qty: 350
+    unit: g
+    name: long-grain rice
+    raw: 350 g long-grain rice, rinsed
+  - qty: 7
+    name: waakye leaves
+    raw: 6-8 waakye leaves
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: tbsp
+    name: shito
+    raw: 2 tbsp shito
+  - qty: 2
+    unit: tbsp
+    name: gari
+    raw: 2 tbsp gari
+  - qty: 1
+    name: hard-boiled egg
+    raw: 1 hard-boiled egg, halved
+  - qty: 2
+    name: fried plantain
+    raw: 2 slices fried plantain
+  - name: ladle of tomato stew or salad
+    raw: A ladle of tomato stew or salad

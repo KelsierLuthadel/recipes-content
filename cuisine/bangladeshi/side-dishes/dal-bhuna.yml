@@ -1,0 +1,94 @@
+prep: 10 minutes
+cook: 45 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - lentils
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/bangladeshi/bhuna-khichuri
+  - tutorials/chocolate/tempering
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+ingredients:
+  - qty: 400
+    unit: g
+    name: red lentils
+    raw: 400 g red lentils
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    unit: tsp
+    name: turmeric powder
+    raw: 1 tsp turmeric powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, slit
+  - qty: 5
+    unit: tbsp
+    name: mustard oil
+    raw: 5 tbsp mustard oil
+  - qty: 1
+    unit: tsp
+    name: panch phoron
+    raw: 1 tsp panch phoron
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, finely sliced
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, finely chopped
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger, finely grated
+  - qty: 2
+    name: red chillies
+    raw: 2 dried red chillies, broken
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, plus more to taste
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato, finely chopped
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp garam masala
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped

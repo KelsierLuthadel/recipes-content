@@ -1,0 +1,44 @@
+prep: 15 minutes (plus 2-3 days fermentation)
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - ginger
+  - lemon
+  - lime
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 200
+    unit: g
+    name: fermented corn dough
+    raw: 200 g fermented corn dough
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 6
+    name: ginger
+    raw: 6 cm ginger, peeled and bruised
+  - qty: 6
+    name: cloves
+    raw: 6 cloves
+  - qty: 1
+    unit: stick
+    name: cinnamon
+    raw: 1 stick cinnamon
+  - qty: 1
+    unit: tsp
+    name: lime juice
+    raw: 1 tsp lime juice

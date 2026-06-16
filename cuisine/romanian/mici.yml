@@ -1,0 +1,58 @@
+prep: 30 minutes (plus 12 hours rest)
+cook: 10 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - pork
+  - lamb
+  - garlic
+  - coriander
+  - complex
+mentions:
+  - tutorials/charcuterie/smoking
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef
+    raw: 600 g minced beef
+  - qty: 200
+    unit: g
+    name: lamb
+    raw: 200 g minced lamb
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, mashed to a paste with 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 tsp bicarbonate of soda
+  - qty: 2
+    unit: tsp
+    name: black pepper
+    raw: 2 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: thyme
+    raw: 1 tsp dried thyme
+  - qty: 0.5
+    name: /2 tsp ground allspice
+    raw: 1/2 tsp ground allspice
+  - qty: 0.5
+    name: /2 tsp ground coriander
+    raw: 1/2 tsp ground coriander
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 100
+    unit: ml
+    name: beef stock
+    raw: 100 ml cold beef stock

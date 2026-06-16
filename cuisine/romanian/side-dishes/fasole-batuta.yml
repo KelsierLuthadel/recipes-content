@@ -1,0 +1,83 @@
+prep: 15 minutes (plus overnight soak)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - lemon
+  - complex
+mentions:
+  - cuisine/romanian/mici
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: white beans
+    raw: 400 g dried white beans
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 3
+    name: bay leaves
+    raw: 3 fresh bay leaves
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 80
+    unit: ml
+    name: sunflower oil
+    raw: 80 ml sunflower oil
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 1/2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - name: juice of 1/2 lemon
+    raw: Juice of 1/2 lemon
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 60
+    unit: ml
+    name: sunflower oil
+    raw: 60 ml sunflower oil
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    name: /2 teaspoon hot paprika
+    raw: 1/2 teaspoon hot paprika
+  - qty: 1
+    unit: pinch
+    name: sea salt
+    raw: 1 pinch fine sea salt
+  - qty: 1
+    name: loaf rustic romanian country bread
+    raw: 1 loaf rustic Romanian country bread , thickly sliced
+  - qty: 1
+    unit: handful
+    name: pickled hot peppers
+    raw: A handful of pickled hot peppers
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch parsley

@@ -1,0 +1,53 @@
+prep: 1 minute cold, 10 minutes hot
+cook: None cold, 5 minutes hot
+allergens:
+  - meat
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - meat
+  - pork
+  - lemon
+  - honey
+  - chili
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 50
+    unit: ml
+    name: tuica
+    raw: 50 ml țuică
+  - name: thick-walled shot glass
+    raw: A small thick-walled shot glass, chilled
+  - name: "optional: a strip of smoked bacon or a pickled chilli to chase"
+    raw: "Optional: a strip of smoked bacon or a pickled chilli to chase"
+  - qty: 600
+    unit: ml
+    name: tuica
+    raw: 600 ml țuică
+  - qty: 4
+    unit: tbsp
+    name: honey
+    raw: 4 tbsp honey
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp whole black peppercorns
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - name: strip of orange peel
+    raw: Strip of orange peel
+  - name: strip of lemon peel
+    raw: Strip of lemon peel
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf

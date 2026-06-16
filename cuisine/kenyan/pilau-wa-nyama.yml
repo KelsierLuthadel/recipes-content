@@ -1,0 +1,87 @@
+prep: 25 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lemon
+  - yogurt
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/spiced-rice
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: stewing beef
+    raw: 500 g stewing beef , cut in 3 cm cubes
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 500
+    unit: g
+    name: onions
+    raw: 500 g onions , finely sliced
+  - qty: 60
+    unit: ml
+    name: vegetable oil
+    raw: 60 ml vegetable oil
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, crushed
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, grated
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: pilau masala
+    raw: 1 tbsp pilau masala
+  - qty: 800
+    unit: ml
+    name: beef stock or water
+    raw: 800 ml beef stock or water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tbsp
+    name: cumin seeds
+    raw: 1 tbsp cumin seeds
+  - qty: 8
+    name: green cardamom pods
+    raw: 8 green cardamom pods
+  - qty: 6
+    name: cloves
+    raw: 6 cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - name: kachumbari
+    raw: Kachumbari
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: spoon of plain yoghurt
+    raw: A spoon of plain yoghurt

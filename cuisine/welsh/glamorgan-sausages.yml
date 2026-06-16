@@ -1,0 +1,59 @@
+prep: 20 minutes
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - make-ahead
+  - meals
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - tutorials/charcuterie/sausages
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: caerphilly cheese
+    raw: 200 g Caerphilly cheese, grated
+  - qty: 150
+    unit: g
+    name: white breadcrumbs
+    raw: 150 g fresh white breadcrumbs, plus 100 g for coating
+  - qty: 2
+    name: leeks
+    raw: 2 medium leeks , finely chopped
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp butter
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tsp
+    name: english mustard
+    raw: 2 tsp English mustard
+  - qty: 1
+    unit: tbsp
+    name: thyme
+    raw: 1 tbsp chopped fresh thyme
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 50
+    unit: g
+    name: plain flour
+    raw: 50 g plain flour, for dusting
+  - qty: 4
+    unit: tbsp
+    name: sunflower or vegetable oil
+    raw: 4 tbsp sunflower or vegetable oil, for frying

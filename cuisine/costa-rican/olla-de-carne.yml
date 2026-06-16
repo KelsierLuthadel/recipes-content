@@ -1,0 +1,83 @@
+prep: 25 minutes
+cook: 3 hours
+allergens:
+  - meat
+  - celery
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - lime
+  - coriander
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.2
+    unit: kg
+    name: beef shin and shoulder
+    raw: 1.2 kg beef shin and shoulder, cut into large chunks
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion, halved
+  - qty: 1
+    name: red sweet pepper
+    raw: 1 red sweet pepper, halved and seeded
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, smashed
+  - qty: 2
+    unit: stick
+    name: celery
+    raw: 2 sticks celery
+  - qty: 1
+    name: coriander stalks
+    raw: 1 large bunch coriander stalks
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 2
+    unit: tsp
+    name: cumin seeds
+    raw: 2 tsp cumin seeds
+  - qty: 500
+    unit: g
+    name: yuca
+    raw: 500 g yuca , peeled and cut into large chunks
+  - qty: 400
+    unit: g
+    name: nampi
+    raw: 400 g ñampi , peeled and cut into chunks
+  - qty: 2
+    name: chayote
+    raw: 2 chayote, halved and seeded
+  - qty: 1
+    name: green plantain
+    raw: 1 large green plantain, peeled and cut into thick rings
+  - qty: 2
+    name: corn-on-the-cob
+    raw: 2 corn-on-the-cob, cut into 4 cm rings
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, cut into thick rings
+  - name: coriander leaves and lime wedges
+    raw: Fresh coriander leaves and lime wedges, to serve
+  - name: white rice
+    raw: White rice, to serve

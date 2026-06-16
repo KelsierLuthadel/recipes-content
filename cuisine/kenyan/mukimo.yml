@@ -1,0 +1,56 @@
+prep: 20 minutes
+cook: 35 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - onion
+  - potato
+  - spinach
+  - butter
+mentions:
+  - cuisine/kenyan/nyama-choma
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes , peeled and cubed
+  - qty: 200
+    unit: g
+    name: or fresh peas
+    raw: 200 g frozen or fresh peas
+  - qty: 200
+    unit: g
+    name: sweetcorn kernels
+    raw: 200 g sweetcorn kernels
+  - qty: 200
+    unit: g
+    name: pumpkin leaves
+    raw: 200 g pumpkin leaves, OR spinach, OR a mix of spinach and kale, shredded
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: butter or vegetable oil
+    raw: 2 tbsp butter or vegetable oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - name: grilled meat or stewed beef
+    raw: Grilled meat or stewed beef
+  - name: kachumbari
+    raw: Kachumbari

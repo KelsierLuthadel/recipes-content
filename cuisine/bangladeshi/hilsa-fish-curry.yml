@@ -1,0 +1,75 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - fish
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - curry
+mentions:
+  - tutorials/chocolate/truffles
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: hilsa steaks
+    raw: 600 g hilsa steaks
+  - qty: 1
+    unit: tsp
+    name: turmeric powder
+    raw: 1 tsp turmeric powder, plus more for dusting
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt, plus more to taste
+  - qty: 4
+    unit: tbsp
+    name: mustard oil
+    raw: 4 tbsp mustard oil
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, finely sliced
+  - qty: 2
+    name: ginger
+    raw: 2 cm fresh ginger, finely grated
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely grated
+  - qty: 1
+    name: tomato
+    raw: 1 medium tomato, finely chopped
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 4
+    name: to 6 green chillies
+    raw: 4 to 6 green chillies, slit lengthways
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: mustard oil
+    raw: 1 tbsp mustard oil, raw, to finish
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped

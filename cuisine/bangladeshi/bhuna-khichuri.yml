@@ -1,0 +1,105 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - lentils
+  - rice
+  - onion
+  - garlic
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/bangladeshi/beef-bhuna
+  - cuisine/bangladeshi/side-dishes/aloo-bhorta
+  - drinks/regional/bangladesh/borhani
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+ingredients:
+  - qty: 300
+    unit: g
+    name: basmati rice
+    raw: 300 g basmati rice
+  - qty: 200
+    unit: g
+    name: red lentils
+    raw: 200 g red lentils
+  - qty: 100
+    unit: g
+    name: moong dal
+    raw: 100 g moong dal , optional but traditional
+  - qty: 100
+    unit: ml
+    name: ghee
+    raw: 100 ml ghee
+  - qty: 2
+    unit: tbsp
+    name: mustard oil
+    raw: 2 tbsp mustard oil
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, finely sliced
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger, finely grated
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, finely grated
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, lightly crushed
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    unit: tsp
+    name: turmeric powder
+    raw: 1 tsp turmeric powder
+  - qty: 1
+    unit: tsp
+    name: chilli powder
+    raw: 1 tsp chilli powder
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt, plus more to taste
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies, slit
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres hot water
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp garam masala
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped

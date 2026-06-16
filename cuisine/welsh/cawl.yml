@@ -1,0 +1,59 @@
+prep: 20 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - potato
+  - carrot
+  - cheese
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: lamb neck or shoulder
+    raw: 1 kg lamb neck or shoulder, on the bone, cut into large chunks
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres cold water
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt, plus more to taste
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots, cut into thick rounds
+  - qty: 300
+    unit: g
+    name: swede
+    raw: 300 g swede , peeled and cut into 3 cm chunks
+  - qty: 1
+    name: parsnip
+    raw: 1 large parsnip, cut into thick rounds
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes, peeled and cut into 4 cm chunks
+  - qty: 3
+    name: leeks
+    raw: 3 large leeks, white and pale green parts, sliced into 2 cm rings
+  - qty: 1
+    name: flat-leaf parsley
+    raw: Small bunch flat-leaf parsley, chopped
+  - name: "to serve: caerphilly cheese and crusty bread"
+    raw: "To serve: Caerphilly cheese and crusty bread"

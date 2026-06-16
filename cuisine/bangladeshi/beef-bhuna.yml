@@ -1,0 +1,99 @@
+prep: 20 minutes
+cook: 2 hours
+allergens:
+  - meat
+  - mustard
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shoulder or chuck
+    raw: 1 kg beef shoulder or chuck, in 3 cm cubes
+  - qty: 6
+    unit: tbsp
+    name: mustard oil
+    raw: 6 tbsp mustard oil
+  - qty: 4
+    name: onions
+    raw: 4 large onions, finely sliced
+  - qty: 4
+    name: ginger
+    raw: 4 cm fresh ginger, made into a paste
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves, made into a paste
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes, finely chopped
+  - qty: 2
+    unit: tsp
+    name: turmeric powder
+    raw: 2 tsp turmeric powder
+  - qty: 2
+    unit: tsp
+    name: chilli powder
+    raw: 2 tsp chilli powder
+  - qty: 2
+    unit: tbsp
+    name: coriander
+    raw: 2 tbsp ground coriander
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp ground cumin
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt, plus more to taste
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, lightly crushed
+  - qty: 2
+    name: black cardamom pods
+    raw: 2 black cardamom pods, lightly crushed
+  - qty: 6
+    name: cloves
+    raw: 6 cloves
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: garam masala
+    raw: 1 tsp garam masala
+  - qty: 4
+    name: green chillies
+    raw: 4 green chillies, slit
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped

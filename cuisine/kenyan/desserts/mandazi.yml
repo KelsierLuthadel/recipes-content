@@ -1,0 +1,56 @@
+prep: 20 minutes, plus 1 hour 30 minutes rise
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - coconut
+  - butter
+  - complex
+mentions:
+  - cuisine/kenyan/desserts/mahamri
+  - drinks/regional/kenya/kenyan-chai
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    name: instant yeast
+    raw: 1 sachet instant yeast
+  - qty: 1
+    unit: tsp
+    name: green cardamom
+    raw: 1 tsp ground green cardamom
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 200
+    unit: ml
+    name: coconut milk
+    raw: 200 ml coconut milk
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    unit: tbsp
+    name: butter or coconut oil
+    raw: 1 tbsp melted butter or coconut oil
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - name: vegetable oil
+    raw: Vegetable oil, for deep-frying
+  - name: icing sugar to dust
+    raw: Icing sugar to dust

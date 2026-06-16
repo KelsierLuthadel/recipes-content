@@ -1,0 +1,47 @@
+prep: 15 minutes (plus overnight soak and 30 minutes for skinning)
+cook: 20 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - ginger
+  - chili
+mentions:
+  - cuisine/ghanaian/side-dishes/shito
+  - cuisine/nigerian/snacks/akara
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: black-eyed peas
+    raw: 300 g dried black-eyed peas
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, deseeded and chopped
+  - qty: 2
+    name: ginger
+    raw: 2 cm ginger, peeled
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 125
+    unit: ml
+    name: water
+    raw: 100-150 ml water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying

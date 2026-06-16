@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - ginger
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml full-fat milk
+  - qty: 4
+    unit: tsp
+    name: loose-leaf black tea
+    raw: 4 teaspoons loose-leaf black tea
+  - qty: 6
+    name: green cardamom pods
+    raw: 6 green cardamom pods, lightly crushed
+  - qty: 4
+    unit: tbsp
+    name: caster sugar
+    raw: 4 tablespoons caster sugar
+  - name: "optional: 1 small piece cinnamon stick"
+    raw: "Optional: 1 small piece cinnamon stick"
+  - name: "optional: 2 cm fresh ginger"
+    raw: "Optional: 2 cm fresh ginger, sliced"
+  - name: "optional: a pinch of ground black pepper"
+    raw: "Optional: a pinch of ground black pepper"

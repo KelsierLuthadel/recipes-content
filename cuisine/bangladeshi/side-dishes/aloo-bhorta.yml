@@ -1,0 +1,56 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - garlic
+  - potato
+  - lime
+  - coriander
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: floury potatoes
+    raw: 600 g floury potatoes
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely sliced
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, very finely chopped
+  - qty: 3
+    unit: tbsp
+    name: mustard oil
+    raw: 3 tbsp raw mustard oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt, plus more to taste
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful of fresh coriander, chopped
+  - qty: 1
+    unit: tbsp
+    name: lime juice
+    raw: 1 tbsp fresh lime juice
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, finely grated
+  - qty: 1
+    unit: tbsp
+    name: red chilli flakes
+    raw: 1 tbsp dried red chilli flakes, dry-roasted
