@@ -1,0 +1,5 @@
+# Grenadian Cuisine
+
+![Grenadian Cuisine](resources/hero.jpg)
+
+Grenada is the Spice Island of the Caribbean, the world's second-largest nutmeg producer, and that one spice (with its red lacy mace) threads through almost every plate, sweet or savoury. The food is Afro-Caribbean at its core, built on the slow Sunday cookout, the bush-tea breakfast, and the fishing-village fryer. The national dish is oildown, a great communal pot of breadfruit, salt meat, callaloo and coconut milk simmered until the liquid is gone and the breadfruit has soaked up everything. Around it sits the rest of the Grenadian table: pelau with browned-sugar caramel, curried goat scented with fresh nutmeg, lambie souse pulled fresh from the reef, doubles and roti carried over from Trinidad, mango chow eaten green and salty under the sun, and provision (yam, dasheen, breadfruit) boiled plain to soak up the gravy. The desserts are sugar cake and bene balls; the drinks are nutmeg punch and Spice Island rum. Everything is seasoned with what grows in the yard: nutmeg, mace, clove, cinnamon, bay, thyme, scotch bonnet and chadon beni.

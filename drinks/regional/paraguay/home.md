@@ -1,0 +1,5 @@
+# Drinks of Paraguay
+
+![Drinks of Paraguay](resources/hero.jpg)
+
+Paraguay's drink culture is built around one plant and one ritual: yerba mate, prepared cold as tereré. In a country where summer temperatures climb past 40 degrees, the Guaraní cold-infusion method (ice water poured over yerba in a hollowed-gourd or wooden guampa, sipped through a metal bombilla, passed clockwise around a circle) is closer to a national pastime than a beverage. Pharmacies and street stalls sell fresh "yuyos", medicinal herbs like mint, lemon verbena, boldo and burrito, crushed in a wooden mortar and stirred into the water before the mate goes in. The breakfast version of mate, brewed hot with milk and sugar, is called mate cocido and turns up in every household alongside chipa. In the cane-growing departments of Guairá and Paraguarí, fresh sugarcane is pressed and served as mosto helado, a green-yellow juice cut with lime and crushed ice that locals drink to cool down at roadside stands. Caña paraguaya, the local sugarcane spirit, sits behind every rural bar.

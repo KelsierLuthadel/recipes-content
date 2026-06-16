@@ -2,53 +2,64 @@
 
 ![Atay](resources/atay.jpg)
 
-*Libyan Maghrebi mint tea: gunpowder green tea brewed strong, sweetened generously, and crowded with fresh mint. Poured from high to froth the top of each glass.*
+*Libyan-Maghrebi mint tea: strong green gunpowder steeped with fresh mint and a heavy hand of sugar, poured long from the pot into small glasses until a thick crown of foam sits on top.*
 
 **Serves:** 4 small glasses
 
 **Prep Time:** 5 minutes
 
-**Cook Time:** 10 minutes
+**Cook Time:** 15 minutes
 
 ## Overview
-Atay is the Libyan everyday tea: gunpowder green tea pellets steeped strong in a small metal teapot, sweetened with a generous block of sugar, and packed with a handful of fresh spearmint just before serving. The Libyan variant tends to be slightly sweeter than the Moroccan version, often with the addition of a few pine nuts or roasted peanuts at the bottom of each glass. The pour - from arm's height to froth the surface of the tea - is part of the service, not a flourish: aerating the tea changes the texture and concentrates the aroma. Served at every meal, every gathering, and at the merest excuse in between.
+Atay is the daily ritual drink of Libya and the wider Maghreb, the small foaming glass of strong sweet green tea that punctuates every meeting, meal and afternoon. The base is gunpowder green tea (rolled pellets that unfurl in the pot), pushed hard with fresh mint and a heavy hand of sugar, simmered briefly to draw out the colour and the bite. The pour is the show: the teapot is lifted high above the glasses so the stream falls a foot or more, aerating as it lands and building the thick frothy crown the Libyans call the keffiyeh, the headdress. Three pours are traditional, the first sharp, the second gentle, the third sweet, following an old North African saying that mirrors the stages of life. The mint must be spearmint, the glasses must be small, and the company is half the point.
 
 ## Ingredients
-- 2 tbsp gunpowder green tea (the rolled-pellet style)
-- 1 small bunch fresh spearmint (about 30 g), washed
-- 500 ml water (just off the boil)
-- 4-6 sugar cubes or 4 tbsp sugar (Libyan atay is sweet)
-- Optional: a small handful of pine nuts or roasted peanuts
+
+- 1 tbsp Chinese gunpowder green tea
+- 1 large handful fresh spearmint (about 20 g, leaves and tender stems)
+- 4 tbsp granulated sugar (or to taste)
+- 500 ml just-boiled water
+- Optional: 1 pine nut per glass
 
 ## Method
 
-### Stage 1 - First wash
-1. Place the tea pellets in a small metal teapot.
-2. Pour over 100 ml just-boiled water; swirl gently for 30 seconds; pour the water away.
-3. This first wash removes the bitter dust from the surface of the tea leaves.
+### Stage 1 - Rinse the tea
+1. Place the gunpowder tea in a small teapot.
+2. Pour over about 100 ml just-boiled water; swirl gently for 10 seconds.
+3. Pour off and discard the water; this removes the dusty bitter top notes.
 
 ### Stage 2 - Brew
-1. Add the remaining 400 ml hot water (just off the boil) to the pot.
+1. Pour the remaining 400 ml just-boiled water over the rinsed tea.
 2. Add the sugar.
-3. Place over very low heat; bring just to the merest simmer. Steep 3-5 minutes; the longer the steep, the stronger and more astringent.
+3. Set the teapot on the lowest heat possible (or over a tea burner) for 3-4 minutes; do not let it boil hard.
+4. Add the mint, pushing the leaves down into the liquid.
+5. Steep 4 more minutes.
 
-### Stage 3 - Mint
-1. Pack the fresh mint - stems and all - into the pot or directly into the glasses.
-2. Pour a little tea over the mint to wilt it slightly; steep another minute.
-
-### Stage 4 - The pour
-1. If using pine nuts or peanuts, drop a few into each small glass.
-2. Holding the pot high above each glass (about 25-30 cm), pour the tea so it makes a small head of foam on the surface. The higher the pour, the better the foam.
-3. Pour back into the pot once if no foam appears, then re-pour.
-4. Serve immediately, with mint sprigs still in the pot.
+### Stage 3 - Pour and aerate
+1. Pour a small splash into a glass, then pour it back into the pot; repeat twice. This mixes the tea evenly.
+2. Hold the pot up high, about 30 cm above the glasses.
+3. Pour in a thin steady stream from the height; the falling liquid creates the foam crown.
+4. Fill each small glass two-thirds full.
+5. Drop in a pine nut if using.
+6. Serve hot.
 
 ## Notes
-- **The first wash:** Skipping it leaves the tea slightly bitter and dusty. It's not optional in the traditional service.
-- **Sugar level:** Libyan atay is sweet, sometimes very sweet. Reduce only as personal preference; the sugar balances the strong tea.
-- **Pour height:** The high pour creates the head of foam that signals proper atay. Practice over the sink first.
+- **Gunpowder tea is essential:** loose-leaf green tea will not give the right colour, strength or foam.
+- **Spearmint, not peppermint:** spearmint is the sweeter Maghrebi mint; peppermint is too sharp and medicinal.
+- **The high pour:** the foam is not decoration but a signal that the tea has been poured properly. Practise over the sink first.
+- **Sweetness is non-negotiable:** Libyan atay is sweet; the sugar balances the bite of the tea and the cool of the mint.
+
+## Variations
+- Add a small pinch of saffron for a festive amber-tinged version.
+- Stir in 2 cardamom pods for an eastern Libyan touch.
+- Add a sprig of fresh wormwood (sheeba) in winter for a herbal version.
+- Use half spearmint and half lemon verbena for a citrus take.
+- Reduce sugar by half for a lighter modern version (still sweeter than most palates expect).
 
 ## Serving
-Serve in small clear glasses. Traditionally the host pours a single round; second and third rounds are common with the same tea leaves (each round mellower than the last).
+After every meal as the closing ritual · with a plate of dates, almonds and dried figs · at any visit, the moment the guest sits down · in the late afternoon as the social drink of the day · alongside a tray of ghraybeh or maqrood for a sweet pairing.
 
 ## Storage
-- Drink fresh, in the round it was made. Cold atay loses its character.
+- Brew fresh; atay does not keep.
+- Leftover tea can be refrigerated and drunk cold within a day as iced mint tea, but the foam is gone.
+- The dry tea and dry mint keep in airtight tins for 6 months.

@@ -1,0 +1,5 @@
+# Drinks of Saint Lucia
+
+![Drinks of Saint Lucia](resources/hero.jpg)
+
+Saint Lucian drinks track the rhythm of the island day: a mug of cocoa-tea simmered from a grated cocoa stick with cinnamon, nutmeg and bay at breakfast, eaten alongside green-fig-and-saltfish on the porch; cold mauby (a bittersweet infusion of mauby bark, cinnamon and cloves, sweetened heavy) sold from coolers at every roadside stand through the heat of the afternoon; sorrel (dried hibiscus steeped with ginger, cloves and sugar, sometimes with a glug of rum) poured at Christmas and most family weekends; and Saint Lucian rum punch (Chairman's Reserve from the local Saint Lucia Distillers, mixed in the universal Caribbean ratio of one-of-sour, two-of-sweet, three-of-strong, four-of-weak, topped with fresh nutmeg) as the national pour at the end of every meal. Saint Lucian cocoa is some of the finest in the world; the island's cocoa-stick tradition pre-dates the European chocolate bar by centuries. Chairman's Reserve, Bounty and Admiral Rodney are the three Saint Lucia Distillers labels worth knowing; Piton lager is the national beer.
