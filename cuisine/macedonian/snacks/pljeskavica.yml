@@ -19,7 +19,9 @@ tags:
   - cream
   - chili
   - complex
-mentions: []
+mentions:
+  - cuisine/bosnian/bosnian-cevapi
+  - cuisine/serbian/pljeskavica
 ingredients:
   - qty: 500
     unit: g
