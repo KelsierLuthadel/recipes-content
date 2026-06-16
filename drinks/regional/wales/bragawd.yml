@@ -1,0 +1,59 @@
+prep: 1 hour 30 minutes
+cook: 1 hour 30 minutes (plus 6 weeks fermentation and 3 months maturing)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - ginger
+  - honey
+  - complex
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres water
+  - qty: 500
+    unit: g
+    name: pale ale malt
+    raw: 500 g crushed pale ale malt
+  - qty: 30
+    unit: g
+    name: traditional bittering hops
+    raw: 30 g traditional bittering hops
+  - qty: 1
+    unit: kg
+    name: welsh honey
+    raw: 1 kg Welsh honey
+  - qty: 1.5
+    unit: l
+    name: just-cooled boiled water
+    raw: 1.5 litres just-cooled boiled water
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger
+  - qty: 6
+    name: grains of paradise
+    raw: 6 grains of paradise
+  - qty: 1
+    name: strip orange zest
+    raw: 1 strip orange zest
+  - qty: 1
+    name: ale yeast
+    raw: 1 sachet ale yeast
+  - qty: 1
+    unit: tsp
+    name: yeast nutrient
+    raw: 1 teaspoon yeast nutrient

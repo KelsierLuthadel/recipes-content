@@ -1,0 +1,31 @@
+prep: 1 hour
+cook: None (plus 6-8 months fermentation and maturing)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+mentions:
+  - cuisine/scottish/snacks/tablet
+  - cuisine/welsh/desserts/bara-brith
+  - drinks/hot/hot-toddy
+  - drinks/hot/wassail
+  - tutorials/cocktails/equipment
+  - tutorials/spices/storage
+ingredients:
+  - qty: 7
+    unit: kg
+    name: mixed cider apples
+    raw: 7 kg mixed cider apples
+  - qty: 1
+    name: campden tablet
+    raw: 1 Campden tablet
+  - qty: 1
+    name: cider yeast
+    raw: 1 sachet cider yeast
+  - qty: 1
+    unit: tsp
+    name: yeast nutrient
+    raw: 1 teaspoon yeast nutrient
