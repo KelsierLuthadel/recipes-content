@@ -3,7 +3,8 @@ name: Christmas Feast
 image: resources/christmas.jpg
 tagline: A big roast, sprouts done right, and a table that smells of clove and orange.
 publishedAt: 2026-05-15
-seasonalrange: 12-01..12-26
+displayFrom: 2026-12-01
+displayUntil: 2026-12-26
 kind: religious
 origin: Christian tradition
 ---

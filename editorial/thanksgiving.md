@@ -3,7 +3,8 @@ name: Thanksgiving Table
 image: resources/thanksgiving.jpg
 tagline: The big American family dinner: roast, stuffing, sweet potatoes, and two kinds of pie.
 publishedAt: 2026-05-15
-seasonalrange: 11-15..11-30
+displayFrom: 2026-11-15
+displayUntil: 2026-11-30
 kind: festival
 origin: United States
 ---

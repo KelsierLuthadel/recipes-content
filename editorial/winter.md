@@ -3,7 +3,8 @@ name: Winter Comfort
 image: resources/winter.jpg
 tagline: Stews, dumplings, braises, and anything that fogs the windows.
 publishedAt: 2026-05-15
-seasonalrange: 12-27..02-28
+displayFrom: 2026-12-27
+displayUntil: 2027-02-28
 kind: seasonal
 ---
 
