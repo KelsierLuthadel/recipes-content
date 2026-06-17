@@ -19,7 +19,7 @@ The LA-style burrito grew up in Los Angeles taquerias and lunch trucks across Ea
 - 750 g chuck beef or pork shoulder, cubed
 - 1 onion, finely chopped
 - 3 garlic cloves, crushed
-- 3 dried guajillo chiles, toasted and rehydrated
+- 3 dried guajillo chiles (Mexican dried red chilli, mild and sweet-tangy), toasted and rehydrated
 - 2 dried ancho chiles, toasted and rehydrated
 - 1 tsp ground cumin
 - 1 tsp Mexican oregano

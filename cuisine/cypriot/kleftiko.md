@@ -90,3 +90,4 @@ Serve with pourgouri · talattouri · a sharp horiatiki-style salad · a bowl of
 - Keeps 4 days refrigerated in the parcel juices; the second day is arguably better.
 - Reheat the meat with a splash of stock or water in a covered dish at 150°C for 25 minutes.
 - Freezes 2 months in its juices; thaw overnight before reheating.
+

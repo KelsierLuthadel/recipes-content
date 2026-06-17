@@ -68,3 +68,4 @@ Serve cold straight from the jar as a salad with a little oil and chopped onion;
 - Keeps 6 months refrigerated in its own brine
 - Does not freeze (the texture goes limp)
 - Improves in flavour over the first 2 months in the fridge
+

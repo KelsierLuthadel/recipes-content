@@ -67,3 +67,4 @@ Spoon the reduced pan juices over the slices. Serve with polenta sanmarinese, a 
 - Keeps 3 days refrigerated.
 - Slices reheat well in a low oven covered with foil and a splash of stock.
 - The leftover slices make excellent crostini the next day (see coniglio crostini).
+

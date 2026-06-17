@@ -81,3 +81,4 @@ Cut in half on the diagonal · golden chips piled alongside · pickled chillies 
 - Eat fresh; the sandwich does not keep once built.
 - Cooked components (bacon, ham, steak) keep 2 days separately, reheat briefly.
 - Chips eat best straight from the second fry; do not store.
+

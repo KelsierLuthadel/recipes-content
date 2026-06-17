@@ -72,3 +72,4 @@ Serve with sheftalia · cypriot souvlakia · grilled halloumi · koupes · warm 
 ## Storage
 - Keeps 4 days refrigerated; the cucumber softens but the flavour holds. Stir well before each use.
 - Do not freeze; the yoghurt splits on thawing.
+

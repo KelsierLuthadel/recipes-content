@@ -65,3 +65,4 @@ Serve with warm pita · talattouri · a chopped salad · a bowl of olives · a g
 ## Storage
 - Eat hot. Cooled halloumi can be refrigerated 2 days but the texture suffers; reheat under a hot grill for a minute (do not microwave).
 - Uncooked halloumi keeps 2 weeks refrigerated in its brine; freezes 3 months.
+

@@ -73,3 +73,4 @@ Heaped on top of pupusas, never on the side · with yuca con chicharrón · as a
 - The brine clouds and bubbles a little; this is the live ferment and is right.
 - If a white film forms on top, skim it; if any pink, green or fuzzy spots appear, discard.
 - Drain off and reuse the brine to start the next batch.
+

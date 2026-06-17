@@ -107,3 +107,4 @@ Warm, sliced into wedges · with a glass of kiselo mlijeko or thin natural yoghu
 - Reheat covered in a 160°C oven for 12 minutes; the crust crisps and the filling warms through.
 - Freezes 2 months; cool fully, slice into wedges, freeze on a tray, then bag.
 - Reheat from frozen at 180°C for 20 minutes covered, then 5 minutes uncovered.
+

@@ -1,0 +1,38 @@
+prep: 5 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions:
+  - cuisine/mexican/desserts/pan-de-muerto
+ingredients:
+  - qty: 60
+    unit: g
+    name: masa harina
+    raw: 60 g masa harina
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 750
+    unit: ml
+    name: milk
+    raw: 750 ml whole milk
+  - qty: 80
+    unit: g
+    name: piloncillo
+    raw: 80 g piloncillo
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 teaspoon vanilla extract
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: A small pinch of fine sea salt

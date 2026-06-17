@@ -78,3 +78,4 @@ Serve cold · as a centrepiece for Christmas Eve · alongside roast pork · with
 - Keeps 3 days refrigerated, the flavour deepens.
 - Don't freeze, the mayonnaise splits and the potato turns grainy.
 - Stir gently before serving leftovers.
+

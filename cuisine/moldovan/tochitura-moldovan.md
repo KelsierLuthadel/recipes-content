@@ -97,3 +97,4 @@ The classic triptych: mămăligă, stew, fried egg, sheep cheese. A glass of red
 - Refrigerate the stew up to 4 days; the flavour deepens.
 - Freezes well: 3 months.
 - Reheat gently on the stove; cook mămăligă and eggs fresh on serving.
+

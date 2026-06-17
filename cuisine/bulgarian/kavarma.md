@@ -81,3 +81,4 @@ In small clay pots straight from the oven · with crusty country bread to mop th
 - Refrigerate up to 4 days; the flavour improves on the second day.
 - Freezes 3 months; thaw and reheat gently with a splash of water.
 - Reheat covered at 150°C for 20 minutes or on the hob over low heat.
+

@@ -73,3 +73,4 @@ Warm with a strong Bulgarian coffee · cold with a glass of mulled red at midnig
 - Keeps 3 days at room temperature wrapped in a tea towel.
 - Refrigerate up to 5 days; reheat in a 160°C oven for 8 minutes.
 - Freezes uncooked: assemble in the tin, wrap, freeze; bake from frozen at 170°C for 55 minutes.
+

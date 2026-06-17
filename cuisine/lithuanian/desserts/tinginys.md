@@ -80,3 +80,4 @@ Serve cold · with coffee · at a children's birthday · at a tea table · cut i
 - Keeps 2 weeks refrigerated in cling film, the texture only improves.
 - Freezes 2 months whole or in slices; thaw 30 minutes before serving.
 - Eat cold straight from the fridge, the texture goes soft at room temperature.
+

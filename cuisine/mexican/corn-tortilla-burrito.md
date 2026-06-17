@@ -19,7 +19,7 @@ The corn tortilla burrito is the Atlantic City regional variant of the dish, whe
 - 500 g chuck beef or pork shoulder, cubed small
 - 1 onion, finely chopped
 - 3 garlic cloves, crushed
-- 2 dried guajillo chiles, toasted and rehydrated
+- 2 dried guajillo chiles (Mexican dried red chilli, mild and sweet-tangy), toasted and rehydrated
 - 1 dried ancho chile, toasted and rehydrated
 - 1 tin (400 g) chopped tomatoes
 - 1 tsp ground cumin

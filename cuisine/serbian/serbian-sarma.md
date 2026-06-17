@@ -87,3 +87,4 @@ Deep bowls with a roll or two, smoked rib alongside · plenty of the paprika gra
 - Cooked sarma keeps 5 days refrigerated; reheats better than it cooks first time
 - Freeze for 3 months in the gravy; defrost overnight and reheat low and slow
 - Don't freeze the cabbage leaves raw; they go limp on thawing
+

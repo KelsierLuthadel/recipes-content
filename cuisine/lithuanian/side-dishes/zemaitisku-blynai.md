@@ -91,3 +91,4 @@ Serve hot · with cold sour cream · scattered with chives · alongside a green 
 - Best fresh from the pan.
 - Cooked pancakes keep 2 days refrigerated; re-fry in butter to revive.
 - Uncooked filled pancakes freeze well on a tray, then bagged; fry from frozen, adding 2 minutes per side.
+

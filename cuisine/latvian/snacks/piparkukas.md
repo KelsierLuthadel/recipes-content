@@ -95,3 +95,4 @@ Serve in a tin or wooden bowl at Christmas. Eat with strong coffee, mulled wine,
 - Keeps 4 weeks in an airtight tin; the spice deepens.
 - Freezes 3 months baked.
 - The unbaked dough keeps 2 weeks refrigerated and 3 months frozen (defrost in the fridge before rolling).
+

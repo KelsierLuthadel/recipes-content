@@ -91,3 +91,4 @@ As the base of pepián, hilachas, tamales colorados, kak'ik · stirred into rice
 - Refrigerates 2 weeks in a sealed jar with a film of oil on top
 - Freezes 6 months in 100 g portions
 - Thaw overnight in the fridge before using
+

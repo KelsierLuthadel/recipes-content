@@ -69,3 +69,4 @@ Cold from the fridge on country bread · alongside fried fish · with grilled ke
 - Refrigerate in a sealed jar up to 1 week; the flavour deepens.
 - Top with a film of sunflower oil to keep the surface sealed.
 - Freezes 3 months in small portions; thaw in the fridge.
+

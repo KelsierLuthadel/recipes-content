@@ -92,3 +92,4 @@ At the wedding table · for a saint's day lunch · with white rice and warm tort
 - Freezes 3 months; defrost overnight before reheating.
 - Reheat at a low simmer, adding a splash of stock if the sauce has tightened too much.
 - The sauce thickens dramatically when cold; loosen with stock or water on reheating.
+

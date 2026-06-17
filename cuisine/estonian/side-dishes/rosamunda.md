@@ -57,3 +57,4 @@ Serve cold as a side to schnitzel, fried fish, pan-fried sausages, roast pork or
 - Keeps 5 days refrigerated, sealed
 - Does not freeze
 - The flavour gets sharper on day two and is at its best on day three
+

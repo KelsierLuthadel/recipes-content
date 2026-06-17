@@ -17,7 +17,7 @@ These are the Moldovan answer to the Greek tiropita: thin filo pastry wrapped ti
 
 ### For the filling
 - 400 g brânză de oi or feta, crumbled
-- 200 g brânză dulce de vaci or ricotta (drained 1 hour)
+- 200 g brânză dulce de vaci or ricotta (sit in a fine sieve over a bowl for 1 hour to drain off excess whey before using)
 - 2 eggs
 - 1 large bunch fresh dill, finely chopped (about 6 tbsp)
 - 2 spring onions, finely sliced (optional)
@@ -84,3 +84,4 @@ Warm from the oven on a wooden board with a small bowl of sour cream and a wedge
 - Best the day they are made.
 - Refrigerate up to 2 days in a sealed container; re-crisp in a 180°C oven for 6 minutes.
 - Freeze cooked, wrapped tight: 1 month; reheat from frozen at 180°C for 12 minutes.
+

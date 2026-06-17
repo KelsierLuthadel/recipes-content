@@ -76,3 +76,4 @@ Hot, on a wide plate, with daqoos or a yogurt-mint dip. Iftar staple.
 ## Storage
 - Eat fresh; reheat in a hot oven for 5 minutes (microwave goes soggy)
 - Raw assembled sambusas freeze 2 months
+

@@ -89,3 +89,4 @@ Serve warm · with a small bowl of clear meat broth on the side · at lunch · w
 - Keep 2 days refrigerated in an airtight box; reheat at 180°C for 8 minutes.
 - Freeze cooked kibinai for 2 months; reheat from frozen at 180°C for 25 minutes.
 - Uncooked filled kibinai can be frozen on a tray then bagged; bake from frozen, adding 8 minutes.
+

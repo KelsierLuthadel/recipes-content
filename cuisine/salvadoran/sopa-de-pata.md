@@ -84,3 +84,4 @@ Sunday lunch · with warm tortillas torn and dropped in the bowl · with sliced 
 - The flavour improves on day two as the spices marry.
 - Freezes 2 months; defrost overnight and reheat gently.
 - Reheat at a low simmer; boiling toughens the tripe.
+

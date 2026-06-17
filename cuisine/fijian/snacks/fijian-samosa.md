@@ -93,3 +93,4 @@ Serve hot from the fryer · with green coriander-chilli chutney · with sweet ta
 - Eat the same day; the pastry softens overnight.
 - Reheat in a hot oven 5 minutes to crisp the shell; do not microwave (the pastry goes leathery).
 - The uncooked filled samosa freeze 2 months; fry from frozen, adding 2 minutes to the cook.
+

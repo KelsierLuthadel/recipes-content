@@ -91,3 +91,4 @@ With white rice · tamalitos blancos · chirmol · sliced avocado · warm corn t
 - The sauce keeps 4 days refrigerated and freezes 3 months
 - The flavour deepens overnight, like all chilli-and-seed stews
 - Reheat slowly over low heat with a splash of broth; the seeds can scorch on high heat
+

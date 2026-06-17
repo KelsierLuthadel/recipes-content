@@ -63,3 +63,4 @@ The first plate of any meal · with a glass of cold rakia · with a basket of co
 - Eat the day it is made; the salt pulls water from the tomato and cucumber within hours.
 - Dress the vegetables only at the moment of serving if making ahead.
 - The cheese cap should never be applied until the table is set.
+

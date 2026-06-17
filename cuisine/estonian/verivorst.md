@@ -82,3 +82,4 @@ Serve hot on a bed of mulgipuder with lingonberry jam, a spoon of sour cream and
 - Poached sausages keep 3 days refrigerated and freeze 2 months
 - Mulgipuder keeps 2 days refrigerated; loosen with milk when reheating
 - Reheat fried sausages in a low oven (160 C) for 10 minutes
+

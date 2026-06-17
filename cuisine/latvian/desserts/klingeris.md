@@ -97,3 +97,4 @@ Serve sliced thick with cold butter and strong coffee or tea. A few slices go on
 - Keeps 3 days at room temperature, wrapped in a cloth or a tin.
 - Freezes 2 months whole or in slices; thaw at room temperature, warm 5 minutes in a low oven.
 - Day-old slices are excellent toasted with butter.
+

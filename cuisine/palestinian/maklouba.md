@@ -33,7 +33,7 @@ Maklouba means "upside-down", and the flip at the end is the whole drama of a Pa
 - 2 tomatoes (medium, sliced)
 
 ### Rice
-- 500 g basmati rice (rinsed, soaked 30 min)
+- 500 g basmati rice (rinsed, then soaked 30 min in cold water; drain before use)
 - 2 tablespoons [Baharat](../../base-ingredients/spices/baharat.md) (or 1 tsp each cumin, coriander, cinnamon, allspice + ½ tsp cardamom)
 - 1 teaspoon ground turmeric
 

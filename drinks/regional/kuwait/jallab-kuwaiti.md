@@ -49,3 +49,4 @@ Jallab is the iftar drink across the Gulf and Levant, and in Kuwait it arrives i
 ## Storage
 - The mixed drink keeps 2 days in the fridge
 - Add fresh pine nuts and raisins per pour; they soften and sink if left in the jug
+

@@ -111,3 +111,4 @@ At the centre of a birthday or name-day table, sliced from the top down. A glass
 - Refrigerate covered up to 4 days; the cherries continue to weep into the pancakes (a good thing).
 - Do not freeze; the sour cream separates.
 - Cut slices fresh; the cake holds shape best on day one.
+

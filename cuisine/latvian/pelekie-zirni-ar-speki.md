@@ -79,3 +79,4 @@ The Christmas Eve table sets pelēkie zirņi as one of nine traditional dishes a
 - Keeps 4 days refrigerated; reheats well in a pan with a splash of water.
 - Freezes 2 months.
 - Day-two bowls are arguably better; the bacon fat has set into the peas.
+

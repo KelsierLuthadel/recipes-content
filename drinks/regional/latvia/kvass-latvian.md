@@ -82,3 +82,4 @@ Serve cold, straight from the bottle, in heavy glass mugs. With rye bread and he
 - Keeps 5 to 7 days refrigerated, bottled. The flavour deepens, the fizz builds.
 - Do not freeze.
 - Vent the bottle cap every 2 to 3 days if you keep it longer than a week (pressure builds).
+

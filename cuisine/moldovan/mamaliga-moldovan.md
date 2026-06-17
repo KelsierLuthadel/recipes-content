@@ -66,3 +66,4 @@ Hot from the pot, turned out on a board, sliced with thread, scattered with shee
 - Best fresh; cools into a sliceable block within an hour.
 - Refrigerate slices up to 3 days; pan-fry in butter to revive.
 - Do not freeze; the texture turns grainy.
+

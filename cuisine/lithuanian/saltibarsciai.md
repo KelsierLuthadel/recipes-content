@@ -82,3 +82,4 @@ Serve as a summer lunch · with hot buttered potatoes alongside · in a glass bo
 - Best within a day, the kefir keeps fermenting and grows sourer.
 - Refrigerate up to 2 days; whisk again before serving.
 - Don't freeze, the kefir splits.
+

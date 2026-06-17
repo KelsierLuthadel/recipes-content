@@ -73,3 +73,4 @@ Serve cold on a plate with strong Estonian mustard, sliced rye bread, pickled gh
 - Keeps 5 days refrigerated, sealed
 - Does not freeze well (the jelly weeps on thawing)
 - Best within 3 days of setting
+

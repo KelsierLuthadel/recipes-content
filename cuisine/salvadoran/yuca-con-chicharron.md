@@ -85,3 +85,4 @@ On a banana leaf or open plate · curtido and salsa heaped on top, not on the si
 - Cooked yuca keeps 2 days refrigerated; reheat in salted boiling water for 3 minutes.
 - Chicharrón keeps 3 days refrigerated; recrisp in a dry pan over medium heat.
 - The rendered pork fat keeps a month and is the right fat for refrying beans.
+

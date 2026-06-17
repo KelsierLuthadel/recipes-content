@@ -69,3 +69,4 @@ Room temperature in a wide shallow bowl with warm Kuwaiti khubz or pita, fresh v
 ## Storage
 - Refrigerate 4 days
 - Top with fresh oil and warm chickpeas each time you serve
+

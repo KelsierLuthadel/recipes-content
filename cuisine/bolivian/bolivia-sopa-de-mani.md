@@ -19,7 +19,7 @@ Sopa de maní is one of the Andes' great soups, a daily soup across the Bolivian
 - 200 g raw peanuts, skins removed
 - 2 large onions, finely chopped
 - 3 cloves garlic, crushed
-- 2 tbsp ground aji amarillo paste (or 1 tsp paprika plus 1 tsp cayenne)
+- 2 tbsp ground aji amarillo paste (Peruvian yellow chilli, fruity and medium-hot; or 1 tsp paprika plus 1 tsp cayenne)
 - 1 tbsp dried oregano
 - 1 tsp ground cumin
 - 2 medium carrots, diced

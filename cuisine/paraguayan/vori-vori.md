@@ -85,3 +85,4 @@ Hot bowls with chipa on the side · with a wedge of lime · alongside a tomato-a
 - Keeps 3 days refrigerated; the dumplings soften slightly on day two
 - Reheat gently; never boil hard or the dumplings break apart
 - Freezes 1 month; thaw overnight and rewarm slowly
+

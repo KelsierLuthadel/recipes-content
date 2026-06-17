@@ -73,3 +73,4 @@ Deep bowls with chipa on the side · with a wedge of lime · alongside a tomato-
 - Keeps 3 days refrigerated; the rice thickens the broth on standing
 - Reheat with an extra splash of stock or water
 - Freezes 1 month; thaw and rewarm slowly with more liquid
+

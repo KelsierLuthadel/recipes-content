@@ -94,3 +94,4 @@ Pour at cellar temperature into small glasses · at weddings · at midsummer · 
 - Store flat in a cool dark place.
 - Once opened, drink within 2 weeks.
 - Sweet midus keeps longer than dry.
+

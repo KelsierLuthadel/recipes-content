@@ -70,3 +70,4 @@ A scoop on the side of ćevapi, pljeskavica or sarma · spread on warm bread for
 - Sealed jars keep 12 months in a cool dark cupboard
 - Once opened, refrigerate and use within 3 weeks; keep the oil layer topped up
 - Don't freeze; the texture splits on thawing
+

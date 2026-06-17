@@ -88,3 +88,4 @@ For breakfast with coffee · in a school lunchbox, still warm in their leaves ·
 - Freeze 3 months wrapped; resteam frozen for 40 minutes.
 - Do not microwave from cold (the masa goes rubbery); resteam is the only good reheat.
 - The cooked tamales travel well wrapped in foil and a tea towel.
+

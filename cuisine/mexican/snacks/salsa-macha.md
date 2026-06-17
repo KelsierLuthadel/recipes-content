@@ -15,7 +15,7 @@ Salsa macha is one of Mexico's most distinctive condiments and a Veracruz-coast 
 
 ## Ingredients
 
-- 4 dried guajillo chillies (stems and seeds removed)
+- 4 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)
 - 3 dried ancho chillies (stems and seeds removed)
 - 6 dried chiles de árbol (small dried red chillies; stems removed)
 - 2 dried chipotle peppers (or 2 chipotles in adobo, drained)

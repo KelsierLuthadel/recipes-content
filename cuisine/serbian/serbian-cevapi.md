@@ -72,3 +72,4 @@ Wooden board piled high · halved warm somun · mound of chopped raw onion · sc
 - Raw shaped ćevapi keep 24 hours refrigerated; freeze on a tray then bag for 2 months
 - Cooked ćevapi keep 2 days refrigerated; reheat in a dry pan, never the microwave
 - Kajmak keeps 2 weeks refrigerated, sealed
+

@@ -75,3 +75,4 @@ Next to sarmale, tochitură, or grilled meats. A bowl on the table at any Moldov
 - Refrigerate up to 3 days; the cabbage softens further but remains crisp.
 - Do not freeze; the structure collapses.
 - Drain off any liquid that gathers in the bowl before re-serving.
+

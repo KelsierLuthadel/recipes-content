@@ -103,3 +103,4 @@ On one shared wide platter · with cold yoghurt · with a scoop of ajvar · with
 - Reheat covered with a splash of stock in a low oven at 150°C for 20 minutes, or in a covered pan on the hob.
 - Freezes 2 months; thaw overnight and reheat as above.
 - Day-two pilaf with a beaten egg stirred through and pan-fried is a fine breakfast.
+

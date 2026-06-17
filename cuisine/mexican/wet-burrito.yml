@@ -6,6 +6,7 @@ allergens:
   - meat
   - garlic
 tags:
+  - spicy
   - meals
   - meat
   - beef
@@ -58,7 +59,7 @@ ingredients:
     raw: 1 tbsp oil
   - qty: 4
     name: guajillo chiles
-    raw: 4 dried guajillo chiles, toasted and rehydrated
+    raw: 4 dried guajillo chiles , toasted and rehydrated
   - qty: 2
     name: ancho chiles
     raw: 2 dried ancho chiles, toasted and rehydrated

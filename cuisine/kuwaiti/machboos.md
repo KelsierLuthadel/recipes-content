@@ -81,3 +81,4 @@ Serve hot on a wide platter with daqoos sauce, salata huloo or salata arabia and
 - Best eaten fresh; the rice firms up after refrigeration
 - Refrigerate 3 days; reheat covered with a splash of water
 - The cooked meat freezes 1 month
+

@@ -76,3 +76,4 @@ Serve cold in small thimble glasses with a salty zakuski chaser Â· warmed to 40Â
 - The spice notes mellow over the first 6 months; the spirit is at its best between 1 month and 1 year
 - Do not refrigerate; it dulls the perfume
 - Once opened, the perfume slowly fades; use within 12 months
+

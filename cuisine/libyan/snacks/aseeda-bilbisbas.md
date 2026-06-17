@@ -87,3 +87,4 @@ At breakfast on a cold morning before work · as a late-morning snack with stron
 - Bisbas keeps 5 days refrigerated and freezes 2 months.
 - The aseeda is best eaten fresh; if leftover, reheat with a splash of water over low heat.
 - Do not freeze the cooked porridge (the texture turns grainy).
+

@@ -54,3 +54,4 @@ Spoon under a portion of coniglio in porchetta and let the juices soak in; or ea
 - Keeps 3 days refrigerated; will set very firm.
 - Slice the set polenta and grill on a hot pan until crusty, dressed with olive oil and cheese.
 - Reheat soft polenta with a splash of hot water and a fresh knob of butter.
+

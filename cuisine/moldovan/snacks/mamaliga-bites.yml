@@ -1,12 +1,11 @@
-prep: 15 minutes (plus overnight setting)
-cook: 20 minutes
+prep: 25 minutes (plus 30 minutes cooling)
+cook: 25 minutes
 allergens:
   - dairy
 tags:
   - vegetarian
   - gluten-free
   - snack
-  - make-ahead
   - butter
   - cream
   - cheese
@@ -30,6 +29,10 @@ ingredients:
     unit: g
     name: butter
     raw: 30 g butter
+  - qty: 150
+    unit: g
+    name: branza de oi or feta
+    raw: 150 g brânză de oi or feta, cut into 24 small cubes
   - qty: 4
     unit: tbsp
     name: sunflower oil
@@ -38,10 +41,10 @@ ingredients:
     unit: g
     name: butter
     raw: 30 g butter
-  - qty: 200
+  - qty: 100
     unit: g
     name: branza de oi or feta
-    raw: 200 g brânză de oi or feta, finely crumbled
+    raw: 100 g brânză de oi or feta, finely crumbled
   - qty: 3
     unit: tbsp
     name: dill

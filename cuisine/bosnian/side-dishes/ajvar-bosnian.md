@@ -86,3 +86,4 @@ On hot buttered toast for breakfast · with ćevapi and somun · on a meze board
 - Once opened, keep refrigerated and use within 3 weeks; pour a thin film of fresh oil on top each time you reseal.
 - Freezes 6 months in small tubs; thaw in the fridge overnight.
 - For long storage water-bath the sealed jars 20 minutes at a simmer.
+

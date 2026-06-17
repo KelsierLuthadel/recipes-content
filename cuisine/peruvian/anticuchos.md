@@ -33,7 +33,7 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 - 1 tablespoon soy sauce (optional, gives umami)
 
 ### The aji huacatay sauce (traditional accompaniment)
-- 4 tablespoons aji amarillo paste
+- 4 tablespoons aji amarillo paste (Peruvian yellow chilli, fruity and medium-hot)
 - 2 tablespoons fresh huacatay (Peruvian black mint; substitute with 4 tablespoons fresh mint + 1 tablespoon fresh basil)
 - 3 tablespoons mayonnaise
 - 1 tablespoon fresh lime juice

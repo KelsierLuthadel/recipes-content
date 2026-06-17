@@ -86,3 +86,4 @@ With curtido heaped on top · with salsa roja in a small bowl alongside · torn 
 - Leftover pupusas keep 2 days refrigerated; reheat on a dry comal for 2 minutes per side.
 - The raw dough keeps 24 hours wrapped tight; the bean filling keeps 4 days.
 - Cooked pupusas freeze 1 month; reheat from frozen on a comal under a lid.
+

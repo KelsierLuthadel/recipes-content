@@ -68,3 +68,4 @@ Hot from the pan with a lemon wedge · alongside a cold Bulgarian lager · with 
 - Eat at once; fried cheese does not keep.
 - Leftover slabs can be reheated 5 minutes in a 200°C oven; the crust softens.
 - The breaded uncooked slabs freeze 1 month; fry from frozen, adding 30 seconds per side.
+

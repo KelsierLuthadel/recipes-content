@@ -77,3 +77,4 @@ At any Moldovan family meal as a matter of course. Red with sarmale, tochitură,
 - Unopened bottles: a cool dark cellar, indefinite.
 - Opened red: a stopper, 3 days at cellar temperature.
 - Opened white: a stopper, 2 days refrigerated.
+

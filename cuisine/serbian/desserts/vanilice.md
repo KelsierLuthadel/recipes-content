@@ -79,3 +79,4 @@ On a plate piled in a small pyramid · with Turkish coffee · alongside slatko a
 - Keep in an airtight tin at room temperature 3 weeks; they get better through week one
 - Don't refrigerate; the jam goes hard and the dough loses its melt
 - Freeze the baked biscuits (unsandwiched) for 2 months; sandwich and dust after thawing
+

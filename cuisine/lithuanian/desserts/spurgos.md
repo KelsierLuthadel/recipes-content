@@ -88,3 +88,4 @@ Serve warm · piled on a plate dusted with icing sugar · at Užgavėnės · at 
 - Day-old spurgos refresh in a 160°C oven for 4 minutes, re-dust with icing sugar.
 - Freeze unfilled fried doughnuts up to 1 month; thaw, slit, and pipe jam in.
 - Don't refrigerate, they go stale fast.
+

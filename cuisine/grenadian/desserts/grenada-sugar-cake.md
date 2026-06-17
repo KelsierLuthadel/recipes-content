@@ -79,3 +79,4 @@ At a Grenadian school fete · with afternoon tea · wrapped as a gift · on the 
 - Keeps 2 weeks in an airtight tin at room temperature.
 - Layer between greaseproof paper so the pieces do not stick.
 - Do not refrigerate (the sugar weeps in cold humid air).
+

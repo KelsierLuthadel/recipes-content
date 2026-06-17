@@ -77,3 +77,4 @@ From a paper bag at the market · with afternoon tea · wrapped as a Grenadian g
 - Keeps 3 weeks in an airtight tin at room temperature.
 - Layer between greaseproof paper so the balls do not stick.
 - Sugar absorbs moisture in damp weather; keep the tin sealed.
+

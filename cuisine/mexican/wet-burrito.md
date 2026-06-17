@@ -27,7 +27,7 @@ The Wet Burrito (also called the Smothered Burrito) is the Midwestern and Texan 
 - 1 tbsp oil
 
 ### Enchilada Sauce
-- 4 dried guajillo chiles, toasted and rehydrated
+- 4 dried guajillo chiles (Mexican dried red chilli, mild and sweet-tangy), toasted and rehydrated
 - 2 dried ancho chiles, toasted and rehydrated
 - 1 tin (400 g) chopped tomatoes
 - 1 small onion

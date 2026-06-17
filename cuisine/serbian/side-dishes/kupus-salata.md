@@ -67,3 +67,4 @@ In a wide bowl on the table next to grilled meat · piled alongside sarma · wit
 - Improves on day two; keeps 4 days refrigerated, sealed
 - The cabbage softens further over time and the vinegar mellows; if too soft, add a fresh handful of shred
 - Don't freeze
+

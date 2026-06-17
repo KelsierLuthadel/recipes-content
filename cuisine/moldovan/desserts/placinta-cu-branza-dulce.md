@@ -99,3 +99,4 @@ Warm from the oven, dusted with icing sugar, with a great spoon of cool sour cre
 - Eat the day they are baked; the dough toughens overnight.
 - Refresh stale plăcinte in a 180°C oven for 5 minutes.
 - Freeze cooked, wrapped tight: 1 month; reheat from frozen at 180°C for 15 minutes.
+

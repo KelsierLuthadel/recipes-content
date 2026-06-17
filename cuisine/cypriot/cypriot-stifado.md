@@ -99,3 +99,4 @@ Serve with pourgouri · plain rice · crusty village bread · a glass of red Mar
 - Keeps 5 days refrigerated; the flavour improves on day two and three.
 - Freezes 3 months; thaw overnight, reheat gently.
 - Reheat covered on a low hob with a splash of stock or water.
+

@@ -62,3 +62,4 @@ A wedge of piadina sanmarinese on the side, a glass of young Sangiovese, a small
 ## Storage
 - Keeps 3 days refrigerated; the soup thickens further on standing, so thin with a splash of hot water when reheating.
 - Freezes 2 months without the pasta. Add freshly cooked pasta when reheating.
+

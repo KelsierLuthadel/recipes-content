@@ -81,3 +81,4 @@ In a wide bowl with a spoonful of the cooking liquor · with a dollop of cold yo
 - Refrigerate up to 5 days; the flavour deepens overnight.
 - Freezes 3 months; thaw overnight in the fridge and reheat covered.
 - Reheat gently in a 150°C oven for 25 minutes or on the hob with a splash of stock.
+

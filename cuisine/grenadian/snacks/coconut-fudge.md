@@ -77,3 +77,4 @@ With afternoon tea · cut small and packed as a gift · with a strong black coff
 - Keeps 2 weeks in an airtight tin at room temperature.
 - Refrigeration keeps it 4 weeks but firms the texture; bring to room temperature before eating.
 - Layer between greaseproof paper so the squares do not stick.
+

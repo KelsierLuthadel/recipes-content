@@ -66,3 +66,4 @@ In wide shallow chilled bowls · with a slice of country bread · with the shops
 - Refrigerate up to 2 days; whisk again before serving (the cucumber settles).
 - Do not freeze; the yoghurt splits on thawing.
 - Best made the morning of serving for full freshness.
+

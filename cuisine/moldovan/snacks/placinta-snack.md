@@ -93,3 +93,4 @@ Hot from the pan in the hand. With cold buttermilk or hot tea. On a paper napkin
 - Eat the day they are made; the dough toughens overnight.
 - Refresh in a dry pan for 2 minutes per side.
 - Freeze cooked, wrapped tight: 1 month; reheat from frozen in a dry pan over medium heat.
+

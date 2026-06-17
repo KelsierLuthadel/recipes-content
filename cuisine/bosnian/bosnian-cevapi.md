@@ -88,3 +88,4 @@ With somun · chopped raw onion · kajmak · ajvar · pickled feferoni chillies 
 - Shaped raw ćevapi freeze well for 2 months on a tray, then bagged.
 - Cooked ćevapi lose their char on reheating; eat warm in a low oven if you must.
 - Leftovers chopped into a pita or scrambled with eggs the next morning.
+

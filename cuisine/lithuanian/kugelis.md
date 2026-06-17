@@ -80,3 +80,4 @@ Serve hot from the oven · with cold sour cream alongside · with mushroom sauce
 - Reheat slices in a dry pan until the cut sides crisp.
 - Freezes well in portions for 2 months; thaw and reheat in the oven.
 - Cold leftover kugelis is a beloved breakfast.
+

@@ -78,3 +78,4 @@ With glasses of strong sweet mint tea (atay) · alongside Libyan qahwa at mid-mo
 - Fried squares (without molasses) keep 1 day in a tin; revive in a 180 °C oven for 3 minutes.
 - The raw dough refrigerates 1 day, well wrapped.
 - Do not freeze the finished squares.
+

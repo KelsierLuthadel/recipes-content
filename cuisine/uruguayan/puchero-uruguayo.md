@@ -93,3 +93,4 @@ Broth-and-rice in deep bowls first · the meat platter as the second course · c
 - The strained broth keeps 4 days refrigerated; freezes 3 months.
 - Cooked meat and vegetables keep 3 days; reheat in the warmed broth.
 - Make a second-day soup by chopping leftovers into the broth with extra pasta.
+

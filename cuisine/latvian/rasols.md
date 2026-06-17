@@ -86,3 +86,4 @@ Serve cold with rupjmaize and butter. A spoonful sits next to roasted meats, fri
 ## Storage
 - Keeps 3 days refrigerated; eats best on day two.
 - Do not freeze (the potato and egg go grainy).
+

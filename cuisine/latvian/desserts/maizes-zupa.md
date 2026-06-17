@@ -90,3 +90,4 @@ Serve cold in shallow bowls as a dessert. Some restaurants offer it as a starter
 - Keeps 4 days refrigerated; deepens on day two.
 - Freezes 2 months without the cream; thaw and refresh with a splash of water.
 - The cream is whipped to order; do not store on top of the soup.
+

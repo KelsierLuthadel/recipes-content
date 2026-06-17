@@ -81,3 +81,4 @@ Serve sliced with strong black coffee or tea. A small bowl of berry jam on the s
 - Best eaten the day it is baked
 - Keeps 2 days at room temperature wrapped in a tea towel
 - Freezes 1 month sliced; refresh slices in a low oven for 5 minutes
+

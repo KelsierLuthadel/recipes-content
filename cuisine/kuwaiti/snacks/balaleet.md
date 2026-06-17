@@ -68,3 +68,4 @@ Warm, on a wide plate, for breakfast or Ramadan suhoor. Karak chai on the side.
 ## Storage
 - Refrigerate 2 days; reheat the vermicelli with a splash of water
 - Make the egg fresh each time
+

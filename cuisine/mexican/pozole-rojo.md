@@ -25,7 +25,7 @@ Mexico's Sunday and celebration soup, the dish that anchors every Independence D
 - Water to cover (about 2 ½ litres)
 
 ### Red chilli base
-- 6 guajillo chillies (stems and seeds removed)
+- 6 guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)
 - 3 ancho chillies (stems and seeds removed)
 - 4 garlic cloves
 - 1 teaspoon ground cumin

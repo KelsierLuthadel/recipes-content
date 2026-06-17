@@ -70,3 +70,4 @@ Serve cold as a side to roast meats, sausages, fried herring, gravlax or alongsi
 - Keeps 3 days refrigerated, well covered
 - Does not freeze
 - Best from 4 hours to 24 hours after making
+

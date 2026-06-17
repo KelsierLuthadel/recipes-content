@@ -79,3 +79,4 @@ Serve hot stacked on a warm plate · with cold sour cream and bacon · with appl
 - Cooked pancakes keep 2 days refrigerated; recrisp in a hot dry pan.
 - Freeze cooked pancakes in layers between parchment for 2 months; reheat in a 200°C oven.
 - Uncooked batter does not keep, it browns and turns watery.
+

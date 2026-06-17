@@ -69,3 +69,4 @@ In a small bowl next to grilled chicken, mititei, or cârnați. Spooned over boi
 - Best within 2 hours of making.
 - Refrigerates 24 hours in a sealed jar; the raw garlic gets stronger and harsher.
 - Do not freeze; the emulsion breaks.
+

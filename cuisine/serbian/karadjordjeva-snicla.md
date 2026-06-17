@@ -75,3 +75,4 @@ On a warm plate with the cut side towards the diner · lemon wedge on the rim ·
 - Best eaten straight from the pan; the crust softens fast
 - Uncooked breaded rolls keep 24 hours refrigerated; fry from cold
 - Leftovers keep 2 days but the kajmak congeals; reheat in a hot oven 8 minutes, not the microwave
+

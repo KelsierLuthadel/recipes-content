@@ -81,3 +81,4 @@ Serve warm or at room temperature as a snack, with a bowl of clear broth as a li
 - Keeps 2 days at room temperature in a paper bag
 - Refresh in a low oven (160 C) for 5-7 minutes
 - Freezes 2 months baked; thaw and reheat at 170 C for 10 minutes
+

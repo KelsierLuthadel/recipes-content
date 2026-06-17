@@ -85,3 +85,4 @@ The classic side is boiled new potatoes with butter and dill, plus lingonberry j
 - Best straight from the pan; the crumb softens after an hour.
 - Leftovers keep 2 days refrigerated; reheat 8 minutes in a hot oven on a rack (microwave makes the crumb soggy).
 - Cooked breaded chops freeze 1 month; bake from frozen at 180°C for 15 minutes.
+

@@ -90,3 +90,4 @@ Serve with pourgouri · plain rice · talattouri · a sharp salad with red onion
 - Keeps 4 days refrigerated; the flavour deepens on day two.
 - Freezes 3 months; thaw overnight before reheating.
 - Reheat covered on a low hob with a splash of water to loosen the sauce.
+

@@ -98,3 +98,4 @@ Hot, with a great heap of mămăligă, a spoon of smântână, a small green chi
 - Refrigerate up to 5 days; flavour improves daily.
 - Freezes well in the cooking liquid: 3 months.
 - Reheat gently on the stove or in the oven at 150°C, not the microwave (the leaves toughen).
+

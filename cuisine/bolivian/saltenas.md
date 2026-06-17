@@ -19,7 +19,7 @@ For the filling:
 - 500 g chicken thigh or beef chuck, diced small
 - 1 large onion, finely diced
 - 3 spring onions, chopped
-- 2 tbsp ground aji amarillo or mild chilli paste
+- 2 tbsp ground aji amarillo (Peruvian yellow chilli, fruity and medium-hot) or mild chilli paste
 - 1 tbsp ground cumin
 - 1 tsp dried oregano
 - 1 tbsp sugar

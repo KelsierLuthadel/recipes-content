@@ -58,3 +58,4 @@ Serve hot in chunks · with lime wedges alongside · with grilled fish or kokoda
 - Refrigerate 3 days, well wrapped; the texture firms when cold.
 - Reheat in a 180 C oven 15 minutes, or slice and pan-fry in coconut oil for a crisp finish.
 - Does not freeze well; the texture turns watery.
+

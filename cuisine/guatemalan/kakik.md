@@ -93,3 +93,4 @@ With white rice · tamalitos blancos · sliced avocado · lime wedges · the tur
 - Keeps 4 days refrigerated and freezes 3 months (the broth freezes better than the turkey, which can go stringy)
 - The colour deepens overnight as the achiote settles
 - Reheat gently; do not boil hard or the herb top-notes burn off
+

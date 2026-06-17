@@ -88,3 +88,4 @@ Serve as a wedding centrepiece · at Easter · at Christmas · sliced thin along
 - Wrap loosely; tight wrap traps moisture and the cake goes soft.
 - Freezes for 3 months in slices, sealed.
 - Stale šakotis is wonderful crumbled into trifle or soaked in warm milk.
+

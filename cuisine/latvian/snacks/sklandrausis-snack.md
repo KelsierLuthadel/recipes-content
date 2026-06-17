@@ -92,3 +92,4 @@ Serve at room temperature alongside coffee or strong tea. They sit happily on a 
 ## Storage
 - Keeps 3 days at room temperature in a tin lined with paper.
 - Freezes 1 month; thaw at room temperature, warm 4 minutes in a low oven, brush with fresh butter.
+

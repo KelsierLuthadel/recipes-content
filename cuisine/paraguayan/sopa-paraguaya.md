@@ -63,3 +63,4 @@ Eat hot from the oven · cut into thick squares alongside grilled beef · with a
 - Keeps 3 days refrigerated, well covered
 - Reheat in a low oven (150 C) for 10 minutes; the microwave makes it gummy
 - Freezes 1 month wrapped tightly; thaw and rewarm in the oven
+

@@ -18,7 +18,7 @@ The hamburguesa al pastor is Mexico's burger answer to its most iconic taco fill
 ### Marinade and patty
 - 500 g ground pork shoulder (20% fat)
 - 300 g ground beef chuck (80/20)
-- 3 dried guajillo chillies (stems and seeds removed)
+- 3 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)
 - 2 dried ancho chillies (stems and seeds removed)
 - 200 ml hot water (for soaking)
 - 2 tablespoons achiote paste (Yucatecan recado rojo)

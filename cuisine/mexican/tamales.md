@@ -17,7 +17,7 @@ Mexico's Christmas-and-Day-of-the-Dead labour: steamed parcels of seasoned masa 
 
 ### Pork filling
 - 1 kg pork shoulder (cut into 4 cm pieces)
-- 4 dried guajillo chillies (stems and seeds removed)
+- 4 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)
 - 2 dried ancho chillies (stems and seeds removed)
 - 4 garlic cloves
 - 1 onion (halved)

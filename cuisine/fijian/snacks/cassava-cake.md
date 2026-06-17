@@ -68,3 +68,4 @@ Serve warm or at room temperature, cut into small squares · with a cup of sweet
 - Keeps 3 days in an airtight container at room temperature; the texture firms.
 - Refrigerate up to 5 days; warm gently before eating to bring back the chew.
 - Freezes 2 months; thaw at room temperature and warm in a low oven.
+

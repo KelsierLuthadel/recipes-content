@@ -81,3 +81,4 @@ Hot bowls with a wedge of lime · with chipa or fresh bread on the side · with 
 - Keeps 3 days refrigerated; the dumplings soften slightly on day two
 - Reheat gently on the stove; do not boil hard or the dumplings break
 - Freezes 1 month; thaw overnight and rewarm slowly
+

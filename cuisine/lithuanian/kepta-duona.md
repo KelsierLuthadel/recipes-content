@@ -75,3 +75,4 @@ Serve hot as a beer-bar starter · as a meal-size pile with cold beer · with ga
 - Best straight from the pan; the crispness fades within an hour.
 - Leftovers reheat in a hot dry pan or 200°C oven for 5 minutes to refresh.
 - The dip keeps 3 days refrigerated.
+

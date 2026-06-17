@@ -108,3 +108,4 @@ With Grenadian pepper sauce · with mango chutney on the side · with a Solo or 
 - The cooked rotis keep 1 day; reheat briefly on a dry pan with a sprinkle of water.
 - The curry filling keeps 4 days refrigerated and freezes 2 months.
 - Do not pre-assemble: the gravy soaks the bread.
+

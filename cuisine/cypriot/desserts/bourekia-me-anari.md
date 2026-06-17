@@ -109,3 +109,4 @@ Serve with strong Cypriot coffee · a glass of zivania for grown-ups · a glass 
 - Best on the day; the pastry softens overnight.
 - Day-two bourekia keep at room temperature in a closed tin but lose their crisp.
 - Do not refrigerate; the syrup crystallises and the pastry goes stale fast.
+

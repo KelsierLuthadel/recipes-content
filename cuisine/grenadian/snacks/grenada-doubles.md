@@ -104,3 +104,4 @@ For breakfast at a roadside stall · as late-lunch wrapped in paper · with a So
 - The chickpea filling keeps 4 days refrigerated.
 - The cooked bara keeps 1 day; refresh briefly in a hot pan.
 - Do not pre-assemble; the gravy soaks through.
+

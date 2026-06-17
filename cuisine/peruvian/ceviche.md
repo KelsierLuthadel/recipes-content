@@ -21,7 +21,7 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 ### The leche de tigre (Peruvian marinade)
 - 200 ml fresh lime juice (about 12-15 limes)
 - 1 large red onion, halved and sliced into 2 mm half-moons
-- 1 aji limo OR aji amarillo chilli, deseeded and very finely chopped (substitute: 1 small habanero deseeded + 1/2 tsp ground turmeric for colour)
+- 1 aji limo OR aji amarillo chilli (Peruvian yellow chilli, fruity and medium-hot), deseeded and very finely chopped (substitute: 1 small habanero deseeded + 1/2 tsp ground turmeric for colour)
 - 4 cilantro stems (just the stems; reserve the leaves for finishing)
 - 1 clove garlic, finely grated
 - 1 teaspoon fine sea salt

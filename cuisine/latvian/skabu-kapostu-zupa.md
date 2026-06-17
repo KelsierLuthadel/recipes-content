@@ -80,3 +80,4 @@ Serve with rupjmaize, salted butter, and a spoonful of grated fresh horseradish 
 - Keeps 4 days refrigerated; deepens on day two and three.
 - Freezes 2 months without the sour cream (add cream after reheating).
 - Reheat slowly; do not boil hard or the sour cream will split if already mixed in.
+

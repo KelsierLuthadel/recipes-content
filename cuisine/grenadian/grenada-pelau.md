@@ -92,3 +92,4 @@ With coleslaw and avocado on the side · with a sweet plantain on top · with pe
 - Keeps 3 days refrigerated.
 - Reheat in a covered pan with a splash of water; the steam refreshes the rice.
 - Freezes 2 months in portions.
+

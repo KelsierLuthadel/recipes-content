@@ -73,3 +73,4 @@ Thin slices with espresso, an after-dinner liqueur, or a glass of Brugneto della
 - Keeps 1 week refrigerated, well wrapped.
 - Freezes 1 month (sliced or whole); thaw in the fridge.
 - Brings to room temperature 20 minutes before serving for the best texture.
+

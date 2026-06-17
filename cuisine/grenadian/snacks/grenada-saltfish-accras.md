@@ -78,3 +78,4 @@ With Grenadian pepper sauce · with tamarind dipping sauce · at a Friday lime �
 - Eat the day they are fried; accras lose their texture overnight.
 - The batter keeps 1 day refrigerated; fry to order.
 - Do not freeze cooked accras.
+

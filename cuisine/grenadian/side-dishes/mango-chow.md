@@ -70,3 +70,4 @@ From a paper cone at the beach · in a bowl by the road · as a side with grille
 - Best eaten within 2 hours.
 - Keeps 1 day refrigerated; the mango softens significantly.
 - Do not freeze.
+

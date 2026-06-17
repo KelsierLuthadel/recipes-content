@@ -66,3 +66,4 @@ Serve in a bread basket with cold butter and a wedge of fresh cheese; or topped 
 - Keeps 2 weeks at room temperature in an airtight tin
 - Do not freeze (they soften on thawing)
 - Re-crisp briefly in a 150 C oven for 3-4 minutes if they go soft
+

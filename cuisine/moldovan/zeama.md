@@ -103,3 +103,4 @@ Hot in a deep bowl, with a spoon of cool sour cream stirred in at the table, a f
 - Refrigerate up to 3 days; the noodles soften, so cook fresh noodles when reheating if possible.
 - Freeze the broth (without noodles): 2 months. Add fresh noodles at the reheat.
 - Reheat gently; do not boil hard or the chicken goes stringy and the borș goes bitter.
+

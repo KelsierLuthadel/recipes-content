@@ -93,3 +93,4 @@ Hot chips piled alongside · a wedge of lemon to squeeze · a simple mixed-leaf 
 - Eat the assembled milanesa fresh; the breading goes soft once cheese sits on it.
 - Fried plain milanesas (no topping) keep 2 days refrigerated; reheat in a hot dry pan.
 - Tomato sauce keeps 4 days refrigerated; freezes 2 months.
+

@@ -83,3 +83,4 @@ Serve cool alongside grilled sausage, smoked fish, cold cuts, fried karbonāde, 
 ## Storage
 - Keeps 3 days refrigerated; eats best on day two.
 - Do not freeze.
+

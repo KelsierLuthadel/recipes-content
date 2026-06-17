@@ -24,7 +24,7 @@ Heavier and meatier than its Hyderabadi cousin, the Lahori-style mutton biryani 
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground coriander
 - 1 teaspoon black pepper
-- 8 dried aloo bukhara (sour plums; soaked 30 min)
+- 8 dried aloo bukhara (sour plums; soaked 30 min in warm water; drain before use)
 - 1 tablespoon crushed kasuri methi
 - 2 teaspoons salt
 

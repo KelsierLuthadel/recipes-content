@@ -67,3 +67,4 @@ Wedges on plates with a dollop of mascarpone or thick yoghurt, a few extra walnu
 - Keeps 5 days in an airtight tin at room temperature; the flavour improves.
 - Freezes 2 months wrapped tightly; thaw at room temperature.
 - Slices toast well on a dry pan for breakfast.
+

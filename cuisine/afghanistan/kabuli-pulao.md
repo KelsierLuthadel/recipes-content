@@ -37,7 +37,7 @@ Kabuli pulao is Afghanistan's national dish, the centrepiece of every wedding, E
 - ¼ teaspoon ground cardamom
 
 ### Rice
-- 600 g basmati rice (rinsed; soaked 30 min)
+- 600 g basmati rice (rinsed; soaked 30 min in cold water; drain before use)
 - 2 tablespoons vegetable oil
 - 1 teaspoon ground cumin
 - 1 tablespoon caramelised sugar (1 tbsp sugar + 1 tbsp water cooked to deep amber, optional but classic)

@@ -58,3 +58,4 @@ Serve cool from the shade · with a paper straw · with a wedge of lime on the s
 - Whole unopened young coconuts keep 5-7 days refrigerated.
 - Once opened, drink the same day; the water loses its character within hours of air contact.
 - Do not freeze.
+

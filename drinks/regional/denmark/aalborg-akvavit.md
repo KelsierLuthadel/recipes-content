@@ -33,16 +33,6 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 - A fine sieve and a coffee filter
 - Small (30-40ml) straight-sided shot glasses ("snaps glasses")
 
-### To serve (per round)
-- 1 piece pickled herring (or karrysild, see [karrysild recipe](../../cuisine/danish/snacks/karrysild.md)) on a small piece of dark Danish rye bread
-- A sprig of fresh dill
-- A small pinch of flaky salt
-
-### To serve alongside (the meal)
-- A Danish lunch: smørrebrød + pickled herring + boiled new potatoes + sour cream + chopped chives + cold pilsner
-- OR a Christmas julefrokost
-- OR an Easter cold-buffet
-
 ## Method
 
 ### Stage 1A - Option A: Bottled Aalborg Akvavit

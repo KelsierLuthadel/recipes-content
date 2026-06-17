@@ -102,3 +102,4 @@ As the starter to a Bosnian feast · with thick slices of crusty white bread · 
 - Reheat gently on the lowest heat with a splash of broth or water; do not boil or the cream splits.
 - Does not freeze well; the cream-and-egg thickening breaks on thawing.
 - Day-two soup is excellent ladled over plain rice as a light lunch.
+

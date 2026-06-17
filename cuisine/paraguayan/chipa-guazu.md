@@ -63,3 +63,4 @@ Cut into thick squares alongside grilled beef · with asado paraguayo and a toma
 - Keeps 3 days refrigerated, well covered
 - Reheat in a low oven (150 C) for 10 minutes
 - Does not freeze well: the texture turns watery on thawing
+

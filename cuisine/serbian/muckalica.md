@@ -74,3 +74,4 @@ In a wide warm bowl with the sauce loose around the pork · thick slabs of fresh
 - Improves on day two; keeps 4 days refrigerated
 - Freezes 3 months
 - Reheat gently with a splash of water; the sauce thickens as it sits
+

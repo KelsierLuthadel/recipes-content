@@ -86,3 +86,4 @@ With every soup, with herring, with cold cuts, with cheese, with cucumber and di
 - Keeps a week in a tin or wrapped in linen; the crumb darkens and the flavour deepens.
 - Freezes 2 months, sliced; toast straight from frozen.
 - Stale slices toast for snacks (see Rye Bread Chips).
+

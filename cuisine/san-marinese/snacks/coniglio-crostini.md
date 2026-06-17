@@ -55,3 +55,4 @@ At an aperitivo before a long lunch or dinner. Alongside olives, a small bowl of
 ## Storage
 - Eat the crostini freshly assembled; they soften within an hour.
 - The components (toasted bread cooled, sliced rabbit, sliced cornichons) keep separately for the same day; assemble at the last moment.
+

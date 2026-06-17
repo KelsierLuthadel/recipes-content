@@ -79,3 +79,4 @@ Cold from the jar in a tall glass with a few cherries floating in each pour. Alo
 - Refrigerate up to 2 weeks in a sealed jar.
 - Properly canned (90°C for 20 minutes in sterilised jars): 1 year in a cool cellar.
 - Freezes well in plastic containers: 6 months; defrost in the fridge overnight.
+

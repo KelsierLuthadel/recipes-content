@@ -76,3 +76,4 @@ Serve cold as a starter or part of a cold table. Dark rye bread, butter and a sm
 - Keeps 3 days refrigerated, well covered
 - Does not freeze
 - The colour intensifies on the second day, which is when most Estonians prefer to eat it
+

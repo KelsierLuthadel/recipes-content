@@ -67,3 +67,4 @@ Serve cold as an after-school snack, with coffee, or sliced and tucked into a lu
 - Keeps 5 days refrigerated in a sealed container
 - Freezes 1 month; eat partly thawed or fully frozen
 - The chocolate coating may bloom (turn pale) in the fridge; this is harmless and disappears on warming slightly
+

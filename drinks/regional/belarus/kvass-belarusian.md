@@ -80,3 +80,4 @@ Serve very cold from the fridge or with one ice cube · poured over okroshka col
 - The carbonation builds; release the bottle pressure once daily by cracking the cap briefly
 - Beyond a week, kvass turns vinegary and is better used in cooking (okroshka, beetroot soup) than drunk
 - Do not freeze
+

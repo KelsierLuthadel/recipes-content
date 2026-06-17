@@ -85,3 +85,4 @@ Serve with grilled halloumi · pourgouri · talattouri · a chopped tomato-and-c
 ## Storage
 - Uncooked, wrapped sheftalia keep 1 day refrigerated and freeze 2 months (freeze on a tray, then bag).
 - Cooked sheftalia keep 2 days refrigerated; reheat under a hot grill, never in the microwave.
+

@@ -28,8 +28,8 @@ Pljeskavica is the Serbian street meal and the Serbian grill-house headline act,
 ### To serve
 - 4 large lepinja or thick pita flatbreads (around 18 cm across)
 - 2 large red onions, finely chopped
-- 4 heaped tbsp ajvar
-- 4 heaped tbsp kajmak
+- 4 heaped tbsp ajvar (Roasted red pepper relish, smoky and sweet-sharp)
+- 4 heaped tbsp kajmak (Similar to Full-fat crème fraîche.)
 - A small bowl of urnebes or feta cheese, crumbled (optional)
 
 ## Method
@@ -77,3 +77,4 @@ On a warm board, tucked inside the halved lepinja with the patty wider than the 
 - Raw shaped patties keep 24 hours refrigerated, separated by film; freeze 2 months
 - Cooked pljeskavica keep 2 days refrigerated; reheat in a hot dry pan, never the microwave
 - Lepinja stale fast; reheat under a damp cloth in a hot oven 3 minutes
+

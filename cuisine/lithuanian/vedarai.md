@@ -93,3 +93,4 @@ Serve hot from the roasting tray · with cold sour cream · alongside sauerkraut
 - Cooked vedarai keep 3 days refrigerated.
 - Reheat slices in a hot dry pan until the casing recrisps.
 - Freeze whole sausages for 2 months; thaw fully then reheat in a 180°C oven for 25 minutes.
+

@@ -84,3 +84,4 @@ Serve cold or warmed · alongside cepelinai · with roast pork · as part of a C
 - Always submerge any leftover kraut under its brine after taking some out.
 - Can be canned in sterilised jars for longer storage.
 - Freezes acceptably for 6 months, the crunch softens but the flavour holds.
+

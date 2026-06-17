@@ -1,0 +1,43 @@
+prep: 1 hour (mostly hands-on grinding and pressing)
+cook: 15 minutes
+allergens:
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - ginger
+  - nuts
+mentions:
+  - cuisine/ghanaian/side-dishes/fried-plantain
+  - cuisine/saint-lucian/side-dishes/fried-plantain
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: peanuts
+    raw: 500 g raw peanuts
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1.5
+    unit: tsp
+    name: chilli powder
+    raw: 1 ½ teaspoons ground chilli powder
+  - qty: 1
+    unit: tsp
+    name: ginger
+    raw: 1 teaspoon ground ginger
+  - qty: 1
+    unit: tsp
+    name: onion powder
+    raw: 1 teaspoon onion powder
+  - qty: 500
+    unit: ml
+    name: neutral oil
+    raw: 500 ml neutral oil

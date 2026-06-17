@@ -86,3 +86,4 @@ Serve chilled in small glasses as a digestif · warm in a mug on a winter evenin
 - Improves with age over the first 12 months.
 - Refrigerate after opening; drink within 6 months.
 - Don't freeze; the honey separates and crystallises.
+

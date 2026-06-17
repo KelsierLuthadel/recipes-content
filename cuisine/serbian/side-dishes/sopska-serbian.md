@@ -69,3 +69,4 @@ At room temperature in a wide shallow bowl, cheese piled high · alongside grill
 - Best within an hour of dressing; the tomato bleeds and the cheese softens
 - Undressed cut vegetables keep 24 hours refrigerated separately
 - Don't refrigerate dressed; the tomato goes cold and dull
+

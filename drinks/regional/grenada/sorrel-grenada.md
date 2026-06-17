@@ -73,3 +73,4 @@ At Christmas lunch · on Boxing Day · poured straight from the fridge at the De
 - Keeps 2 weeks refrigerated in a sealed bottle.
 - The colour deepens and the flavour mellows over the first 3 days.
 - Freezes 3 months in sealed bottles (leave headspace for expansion).
+

@@ -6,6 +6,7 @@ allergens:
   - garlic
 tags:
   - dairy-free
+  - spicy
   - meals
   - meat
   - onion
@@ -29,7 +30,7 @@ ingredients:
     raw: 4 garlic cloves, crushed
   - qty: 4
     name: guajillo chiles
-    raw: 4 dried guajillo chiles, toasted and rehydrated
+    raw: 4 dried guajillo chiles , toasted and rehydrated
   - qty: 2
     name: ancho chiles
     raw: 2 dried ancho chiles, toasted and rehydrated

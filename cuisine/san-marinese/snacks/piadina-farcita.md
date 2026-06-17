@@ -56,3 +56,4 @@ On a wooden board for one, in a stack at a picnic, alongside a glass of young Sa
 ## Storage
 - Eat as you make it; piadina farcita does not store, the bread softens and the rocket wilts.
 - Make extra piadine to keep, then assemble fresh as needed.
+

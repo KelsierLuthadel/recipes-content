@@ -64,3 +64,4 @@ Eat warm from the oven · with mate cocido at breakfast · with tereré in the a
 - Day-old chipa rewarms well in a hot oven (200 C) for 5 minutes
 - Freezes 1 month after baking; rewarm from frozen in a hot oven
 - Raw dough freezes 1 month shaped on a tray; bake from frozen with an extra 5 minutes
+

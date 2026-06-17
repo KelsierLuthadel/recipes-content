@@ -75,3 +75,4 @@ Hot, in shallow bowls, with bread and laban on the side. Iftar season favourite.
 ## Storage
 - Refrigerate 3 days; reheat with hot water (it sets when cold)
 - Freezes 2 months
+

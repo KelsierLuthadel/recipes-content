@@ -65,3 +65,4 @@ Serve hot, one parcel per person, opened at the table · with steamed cassava or
 - Refrigerate 3 days in the wrapping; the flavour deepens overnight.
 - Reheat in a covered dish at 150 C for 20 minutes.
 - Freezes 2 months; thaw overnight before reheating.
+

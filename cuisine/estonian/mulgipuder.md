@@ -67,3 +67,4 @@ Serve hot as the carb of a meal with verivorst (blood sausage), pan-fried sausag
 - Keeps 3 days refrigerated
 - Reheat in a pan with a splash of milk; stir over low heat
 - The bacon-onion kaste keeps 5 days refrigerated; reheat in its own fat
+

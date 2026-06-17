@@ -66,3 +66,4 @@ Serve warm split around souskaye or codfish cakes · a smear of guava jam or but
 - Eat within 30 minutes of frying for the best texture
 - Refrigerate 1 day; refresh in a 180 C oven for 3 minutes to bring back some lift
 - The shaped uncooked rounds can sit on the floured tray, covered, 2 hours at room temperature before frying
+

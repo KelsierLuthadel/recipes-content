@@ -98,3 +98,4 @@ Eat at room temperature with a glass of cold milk, kefir, or strong tea. The tar
 - Keeps 3 days at room temperature in a tin lined with paper; 5 days refrigerated.
 - Freezes 1 month; thaw at room temperature, warm 5 minutes in a low oven to refresh.
 - Re-brush with butter after warming.
+

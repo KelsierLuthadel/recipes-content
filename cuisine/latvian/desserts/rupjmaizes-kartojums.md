@@ -87,3 +87,4 @@ Serve cold from the fridge, straight to the table. A small glass of black balsam
 - Keeps 2 days refrigerated, but the crumb softens with time. Eat on day one if possible.
 - Do not freeze (the cream separates).
 - The crumb and berry purée can be made 2 days ahead and stored separately; assemble the glasses 4 hours before serving.
+

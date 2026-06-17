@@ -1,0 +1,78 @@
+prep: 30 minutes (plus chilling)
+cook: 1 hour
+allergens:
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - snack
+  - meat
+  - beef
+  - pork
+  - eggs
+  - onion
+  - ginger
+  - complex
+mentions:
+  - cuisine/american/meatloaf
+  - cuisine/austrian/snacks/leberkaese
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork shoulder
+    raw: 500 g pork shoulder
+  - qty: 400
+    unit: g
+    name: beef chuck
+    raw: 400 g beef chuck
+  - qty: 100
+    unit: g
+    name: pork back fat
+    raw: 100 g pork back fat
+  - qty: 18
+    unit: g
+    name: pokelsalz
+    raw: 18 g Pökelsalz
+  - qty: 1
+    unit: tsp
+    name: white pepper
+    raw: 1 teaspoon ground white pepper
+  - qty: 0.5
+    name: /2 teaspoon ground nutmeg
+    raw: 1/2 teaspoon ground nutmeg
+  - qty: 0.25
+    name: /4 teaspoon ground mace
+    raw: 1/4 teaspoon ground mace
+  - qty: 0.25
+    name: /4 teaspoon ground cardamom
+    raw: 1/4 teaspoon ground cardamom
+  - qty: 1
+    unit: small pinch
+    name: ginger
+    raw: 1 small pinch ground ginger
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    name: onion
+    raw: 1 small onion
+  - qty: 200
+    unit: ml
+    name: ice-cold water
+    raw: 200 ml ice-cold water
+  - name: freshly-baked brezel or a semmel roll
+    raw: A freshly-baked Brezel OR a Semmel roll
+  - name: sweet bavarian mustard
+    raw: Sweet Bavarian mustard
+  - qty: 1
+    name: fried egg
+    raw: 1 fried egg
+  - name: pickled gherkins
+    raw: Pickled gherkins
+  - name: glass of helles beer
+    raw: A glass of Helles beer

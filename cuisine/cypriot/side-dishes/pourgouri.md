@@ -73,3 +73,4 @@ Serve with kleftiko · stifado · afelia · grilled halloumi · a bowl of talatt
 - Keeps 3 days refrigerated; reheat with a splash of water in a covered pan over low heat.
 - Freezes 2 months in portions; thaw in the fridge, reheat as above.
 - Cold pourgouri makes a good lunchbox salad with lemon, parsley and tomato stirred through.
+

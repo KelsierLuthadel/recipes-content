@@ -92,3 +92,4 @@ A small thin wedge with a strong Bulgarian coffee · with a glass of Mavrud red 
 - Refrigerate up to 5 days in a covered container; the glaze keeps its shine.
 - Bring to cool room temperature 30 minutes before serving (cold from the fridge dulls the walnut flavour).
 - The unfrosted layers freeze 1 month between sheets of paper; thaw and assemble.
+

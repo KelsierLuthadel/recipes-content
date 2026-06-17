@@ -91,3 +91,4 @@ Wedges on a board · a small bowl of dijon mustard · a tomato salad with raw on
 - Keeps 3 days refrigerated wrapped; eat at room temperature.
 - Reheats 10 minutes at 160 C to crisp the pastry back up.
 - Freezes whole 1 month, baked; thaw and reheat at 160 C for 20 minutes.
+

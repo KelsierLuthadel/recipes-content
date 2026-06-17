@@ -75,3 +75,4 @@ Serve neat in small glasses after a heavy meal · also as a digestif with strong
 - The bitter mellows over the first year and stays good for many years
 - Do not refrigerate; the perfume dulls
 - A sediment may settle over time; either decant once a year or live with it
+

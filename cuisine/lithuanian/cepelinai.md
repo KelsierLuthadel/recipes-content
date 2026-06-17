@@ -102,3 +102,4 @@ Serve as Sunday lunch · with cold beet soup šaltibarščiai before · with sau
 - Eat fresh from the pot.
 - Cooked cepelinai keep 2 days refrigerated; reheat gently in simmering water or fry in butter.
 - Uncooked dumplings can be frozen on a tray, then bagged; cook from frozen, adding 10 minutes to the boil.
+

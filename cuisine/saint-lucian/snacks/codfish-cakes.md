@@ -77,3 +77,4 @@ Serve very hot · pepper sauce or tamarind dipping sauce · slice of lime · col
 - Best straight from the pan
 - Refrigerate cooked cakes 2 days; refresh in a 180 C oven 5 minutes (avoid the microwave, it makes them rubbery)
 - The mixed batter holds 2 hours refrigerated; the soaked-and-flaked cod holds 24 hours
+

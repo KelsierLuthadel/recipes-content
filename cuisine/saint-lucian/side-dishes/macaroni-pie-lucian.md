@@ -77,3 +77,4 @@ Serve warm in squares · stew chicken or curry alongside · a green salad to cut
 - Refrigerate 4 days covered; reheat individual squares in a 180 C oven 10 minutes
 - Freezes 2 months in slices; thaw overnight before reheating
 - The cold pie is also good (the texture firms further, almost like a cheesy custard tart)
+

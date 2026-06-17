@@ -1,0 +1,104 @@
+prep: 25 minutes
+cook: 4 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - celery
+  - garlic
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - carrot
+  - butter
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: beef shoulder or chuck
+    raw: 1.5 kg beef shoulder or chuck
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tablespoons olive oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 2
+    name: carrots
+    raw: 2 large carrots
+  - qty: 3
+    unit: stick
+    name: celery
+    raw: 3 sticks celery
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic
+  - qty: 2
+    unit: large sprig
+    name: rosemary
+    raw: 2 large sprigs fresh rosemary
+  - qty: 4
+    name: bay leaves
+    raw: 4 fresh bay leaves
+  - qty: 4
+    unit: sprig
+    name: thyme
+    raw: 4 sprigs fresh thyme
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 750
+    unit: ml
+    name: sangiovese di san marino
+    raw: 750 ml Sangiovese di San Marino
+  - qty: 500
+    unit: ml
+    name: beef stock
+    raw: 500 ml beef stock
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 6
+    name: black peppercorns
+    raw: 6 whole black peppercorns
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    unit: tbsp
+    name: plain flour
+    raw: 1 tablespoon plain flour
+  - qty: 200
+    unit: g
+    name: polenta cooked in 800 ml water with 1 teaspoon salt and 30 g butter
+    raw: 200 g coarse polenta cooked in 800 ml water with 1 teaspoon salt and 30 g butter
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful chopped flat-leaf parsley
+  - qty: 1
+    unit: drizzle
+    name: san marinese olive oil
+    raw: A drizzle of San Marinese olive oil
+  - name: pecorino sanmarinese
+    raw: A wedge of pecorino sanmarinese

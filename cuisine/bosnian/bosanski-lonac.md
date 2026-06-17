@@ -88,3 +88,4 @@ Straight from the pot · with crusty bread · with a small dish of grated horser
 - Reheat covered in the oven at 140°C for 30 minutes; do not boil hard.
 - Freezes well 2 months; thaw overnight in the fridge and reheat gently.
 - Day-two lonac with the broth reduced makes an excellent ragù for short pasta.
+

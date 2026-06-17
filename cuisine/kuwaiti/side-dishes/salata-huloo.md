@@ -51,3 +51,4 @@ Cold, in a shared bowl, beside machboos, murabyan or any spiced rice.
 ## Storage
 - Eats best within 2 hours of dressing
 - The undressed components keep 1 day in the fridge
+

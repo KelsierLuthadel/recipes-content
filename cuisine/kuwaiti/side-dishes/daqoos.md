@@ -51,3 +51,4 @@ Room temperature in a small bowl with a spoon, beside any rice dish, grilled mea
 - Refrigerate 1 week in a sealed jar
 - Stir before serving; the oil settles
 - Freezes 1 month
+

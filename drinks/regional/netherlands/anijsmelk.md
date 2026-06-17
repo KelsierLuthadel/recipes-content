@@ -77,7 +77,7 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 **Anijsmelk met honing (with honey):** swap the sugar for 1 tablespoon of good honey per cup, mellower, more aromatic.
 **Anijsmelk met kaneel (cinnamon-heavy):** add a cinnamon stick to the steep alongside the star anise, more aromatic, more Christmas-market.
 **Adult anijsmelk (with rum or anise liqueur):** add 15 ml of dark rum or Pernod / Pastis to each mug just before drinking, the grown-up variant.
-**Anijsmelk met saffraan (saffron variant):** see [Slemp](slemp.md): the slightly richer Dutch winter drink that adds saffron, tea and more spices.
+**Anijsmelk met saffraan (saffron variant):** the slightly richer Dutch winter drink that adds saffron, tea and more spices.
 **Anijsmelk on ice (summer variant):** cool the brewed anijsmelk fully; serve over ice with a small twist of orange peel, the modern Amsterdam café summer variant.
 **Anijsmelk with foam (latte-style):** steam the milk to a latte texture (use a milk steamer); steep the anise first, strain, then froth, the modern coffee-shop variant.
 **Vegan anijsmelk:** swap whole milk for full-fat oat milk or coconut milk (canned, not light): the texture is similar; the aniseed dominates either way.

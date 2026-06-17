@@ -118,3 +118,4 @@ Warm on a wide platter · with soured cream on top · with crusty bread to mop t
 - Reheat covered in a 150°C oven for 20 minutes with a splash of stock to refresh the sauce.
 - Freezes 2 months; thaw overnight and reheat as above.
 - Day-two sogan dolma chopped into a hash with fried potatoes makes a fine lunch.
+
