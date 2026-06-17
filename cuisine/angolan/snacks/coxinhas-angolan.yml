@@ -1,0 +1,101 @@
+prep: 1 hour 15 minutes
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - spicy
+  - snack
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - lime
+  - butter
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: chicken thighs
+    raw: 500 g chicken thighs
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: onion
+    raw: 1 small onion, halved
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley, chopped
+  - qty: 1
+    unit: pinch
+    name: black pepper
+    raw: A pinch of black pepper
+  - qty: 800
+    unit: ml
+    name: the reserved chicken stock
+    raw: 800 ml of the reserved chicken stock
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tbsp butter
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour, sifted
+  - qty: 2
+    name: eggs
+    raw: 2 eggs, beaten
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine dried breadcrumbs
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - name: lime wedges
+    raw: Lime wedges, to serve

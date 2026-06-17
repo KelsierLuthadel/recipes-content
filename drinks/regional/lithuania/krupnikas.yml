@@ -1,0 +1,63 @@
+prep: 30 minutes
+cook: 20 minutes (plus 2 weeks resting)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - ginger
+  - lemon
+  - honey
+mentions:
+  - cuisine/israel/desserts/honey-cake
+  - cuisine/lithuanian/desserts/sakotis
+  - tutorials/distilling-spirits/grain-alcohol
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: ml
+    name: vodka or grain spirit
+    raw: 700 ml vodka or grain spirit
+  - qty: 500
+    unit: g
+    name: honey
+    raw: 500 g good honey
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml water
+  - qty: 2
+    name: cinnamon sticks
+    raw: 2 cinnamon sticks
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds
+  - qty: 0.5
+    name: /2 tsp grated nutmeg
+    raw: 1/2 tsp grated nutmeg
+  - qty: 1
+    name: vanilla pod
+    raw: 1 vanilla pod, split
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - name: zest of 1 orange
+    raw: Zest of 1 orange
+  - qty: 1
+    unit: pinch
+    name: saffron threads
+    raw: 1 pinch saffron threads
+  - qty: 4
+    name: cardamom pods
+    raw: 4 cardamom pods, lightly crushed
+  - qty: 1
+    name: bay leaf
+    raw: 1 small bay leaf
+  - qty: 1
+    unit: tbsp
+    name: ginger
+    raw: 1 tbsp grated fresh ginger

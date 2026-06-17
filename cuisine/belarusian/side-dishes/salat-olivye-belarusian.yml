@@ -1,0 +1,61 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 25 minutes
+allergens:
+  - eggs
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - pork
+  - eggs
+  - onion
+  - potato
+  - carrot
+  - complex
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: waxy potatoes
+    raw: 400 g waxy potatoes
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 200
+    unit: g
+    name: smoked or boiled ham
+    raw: 200 g good-quality smoked or boiled ham
+  - qty: 4
+    name: dill pickles
+    raw: 4 large dill pickles
+  - qty: 200
+    unit: g
+    name: peas
+    raw: 200 g cooked peas
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 200
+    unit: g
+    name: mayonnaise
+    raw: 200 g good full-fat mayonnaise
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, chopped
+  - name: rings of dill pickle
+    raw: A few rings of dill pickle to garnish

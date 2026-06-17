@@ -19,7 +19,7 @@ Lomo saltado ("jumped sirloin") is the foundational dish of Peruvian chifa cuisi
 - 600 g beef sirloin OR rib-eye, sliced thin across the grain (5 mm × 4 cm strips)
 - 2 tablespoons soy sauce
 - 1 tablespoon red wine vinegar
-- 1 teaspoon aji amarillo paste
+- 1 teaspoon aji amarillo paste (Peruvian yellow chilli, fruity and medium-hot)
 - 1 clove garlic, finely grated
 - 1 teaspoon ground cumin
 - 1/2 teaspoon black pepper

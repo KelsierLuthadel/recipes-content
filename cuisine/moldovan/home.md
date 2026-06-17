@@ -1,0 +1,5 @@
+# Moldovan Cuisine
+
+![Moldovan Cuisine](resources/hero.jpg)
+
+Moldovan food is built on the cornmeal mămăligă, the daily carb that has stood in for bread in every village kitchen since maize travelled up the Danube in the eighteenth century, eaten with crumbled sheep cheese, sour cream, and the juice of any stew on the table. The country sits at the Wallachian, Bessarabian, Russian and Ottoman crossroads, and its plates carry all of it: cabbage rolls smaller and tighter than the Romanian sarmale, the soured chicken soup zeamă sharpened with house-fermented borș and lemon, the pork-and-mămăligă stew tochitură crowned with a fried egg and brânză de oi. Sheep's milk runs through the cuisine the way wheat does further west: the brânză de oi from the hills feeds into everything from the breakfast bowl to the placentă pastry to the snacking cheese-and-dill roll. Above all this Moldova is wine country, with one of the world's highest vineyard-to-area ratios, the Fetească Neagră grape going into the cellar in autumn, and the soured ciorbă-borș tradition shared with neighbouring Romania keeping the table sharp and bright at every meal.

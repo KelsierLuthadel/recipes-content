@@ -32,7 +32,7 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 ### The dipping sauces (traditional Peruvian; pick one or both)
 
 **Sauce 1, Huancaína dip:**
-- 4 tablespoons aji amarillo paste
+- 4 tablespoons aji amarillo paste (Peruvian yellow chilli, fruity and medium-hot)
 - 100 g queso fresco (or cream cheese)
 - 100 ml evaporated milk
 - 2 saltines

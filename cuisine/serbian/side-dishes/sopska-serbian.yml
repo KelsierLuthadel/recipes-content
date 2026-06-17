@@ -1,0 +1,56 @@
+prep: 15 minutes
+cook: 0 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - cheese
+mentions:
+  - cuisine/bosnian/bosnian-cevapi
+  - cuisine/serbian/pljeskavica
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber, peeled if waxed
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    name: roasted red pepper
+    raw: 1 roasted red pepper, peeled and torn
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch of flat-leaf parsley, chopped
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tbsp white wine vinegar
+  - qty: 0.5
+    name: /2 tsp fine salt
+    raw: 1/2 tsp fine salt
+  - qty: 0.25
+    name: /4 tsp ground black pepper
+    raw: 1/4 tsp ground black pepper
+  - qty: 150
+    unit: g
+    name: sirene or a firm greek feta
+    raw: 150 g sirene or a firm Greek feta, very cold, grated on the large holes of a box grater
+  - qty: 1
+    unit: handful
+    name: pitted black olives
+    raw: A handful of pitted black olives

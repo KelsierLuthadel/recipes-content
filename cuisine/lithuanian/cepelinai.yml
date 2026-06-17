@@ -1,0 +1,70 @@
+prep: 1 hour
+cook: 30 minutes
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - meals
+  - meat
+  - pork
+  - onion
+  - garlic
+  - potato
+  - cream
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: pork shoulder
+    raw: 400 g minced pork shoulder
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic, grated
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 0.5
+    name: /2 tsp marjoram
+    raw: 1/2 tsp marjoram
+  - qty: 1.5
+    unit: kg
+    name: starchy potatoes
+    raw: 1.5 kg starchy potatoes , peeled
+  - qty: 500
+    unit: g
+    name: floury potatoes for boiling
+    raw: 500 g floury potatoes for boiling, peeled and cubed
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: potato starch
+    raw: 1 tbsp potato starch
+  - qty: 200
+    unit: g
+    name: smoked pork belly or streaky bacon
+    raw: 200 g smoked pork belly or streaky bacon, cubed
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 300
+    unit: ml
+    name: sour cream
+    raw: 300 ml sour cream, to serve

@@ -1,0 +1,93 @@
+prep: 30 minutes plus 4 hours marinating
+cook: 15 minutes
+allergens:
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - garlic
+  - potato
+  - nuts
+  - chili
+  - complex
+mentions:
+  - cuisine/bolivian/side-dishes/llajwa
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef heart
+    raw: 600 g beef heart, trimmed of fat and silver skin, cut into 3 cm cubes
+  - qty: 8
+    name: waxy potatoes
+    raw: 8 small waxy potatoes
+  - qty: 8
+    name: wooden or metal skewers
+    raw: 8 wooden or metal skewers
+  - qty: 4
+    unit: tbsp
+    name: red wine vinegar
+    raw: 4 tbsp red wine vinegar
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, crushed
+  - qty: 2
+    unit: tbsp
+    name: aji panca paste
+    raw: 2 tbsp aji panca paste
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp ground cumin
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tbsp dried oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 100
+    unit: g
+    name: roasted peanuts
+    raw: 100 g roasted peanuts
+  - qty: 1
+    unit: tbsp
+    name: aji panca paste
+    raw: 1 tbsp aji panca paste
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tbsp white wine vinegar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - name: salt
+    raw: Salt
+  - name: llajwa
+    raw: Llajwa

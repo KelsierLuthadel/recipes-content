@@ -1,0 +1,50 @@
+prep: 1 hour
+cook: 30 minutes (plus 3-6 months ageing)
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - lemon
+  - lime
+  - honey
+mentions:
+  - cuisine/lithuanian/desserts/sakotis
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: pure raw honey
+    raw: 1.5 kg pure raw honey
+  - qty: 3.5
+    unit: l
+    name: spring water
+    raw: 3.5 litres spring water
+  - qty: 5
+    unit: g
+    name: wine yeast
+    raw: 5 g wine yeast
+  - qty: 1
+    unit: tsp
+    name: yeast nutrient
+    raw: 1 tsp yeast nutrient
+  - qty: 20
+    unit: g
+    name: juniper berries
+    raw: 20 g juniper berries, lightly crushed
+  - qty: 10
+    unit: g
+    name: hops
+    raw: 10 g whole hops
+  - qty: 1
+    unit: tsp
+    name: caraway seeds
+    raw: 1 tsp caraway seeds
+  - qty: 6
+    name: lime-flower buds
+    raw: 6 lime-flower buds, dried
+  - qty: 2
+    name: cloves
+    raw: 2 cloves
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon

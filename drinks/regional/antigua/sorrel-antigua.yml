@@ -1,0 +1,48 @@
+prep: 15 minutes
+cook: 10 minutes (plus 12-hour steep)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - ginger
+  - lime
+mentions:
+  - cuisine/antiguan/fungie-and-pepperpot
+  - drinks/classic/ginger-beer
+  - tutorials/spices/storage
+ingredients:
+  - qty: 80
+    unit: g
+    name: sorrel
+    raw: 80 g dried sorrel
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 50
+    unit: g
+    name: ginger
+    raw: 50 g fresh ginger, sliced
+  - name: peel of 1 orange
+    raw: Peel of 1 orange
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 2
+    name: allspice berries
+    raw: 2 allspice berries
+  - qty: 250
+    unit: g
+    name: dark brown sugar
+    raw: 250 g dark brown sugar
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - name: dark rum
+    raw: Dark rum, to serve

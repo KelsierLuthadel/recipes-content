@@ -1,0 +1,43 @@
+prep: 20 minutes (plus 2 weeks infusing)
+cook: 15 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - ginger
+  - lemon
+  - honey
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: ml
+    name: clean vodka
+    raw: 700 ml good clean vodka
+  - qty: 4
+    unit: tbsp
+    name: dark forest honey
+    raw: 4 tbsp dark forest honey
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 8
+    name: cloves
+    raw: 8 whole cloves
+  - qty: 1
+    name: nutmeg
+    raw: 1 whole nutmeg, lightly cracked with the back of a knife
+  - name: 3 cm piece of fresh ginger
+    raw: A 3 cm piece of fresh ginger, peeled and sliced
+  - qty: 8
+    name: black peppercorns
+    raw: 8 black peppercorns, lightly cracked
+  - qty: 4
+    name: allspice berries
+    raw: 4 allspice berries
+  - qty: 1
+    name: long strip of unwaxed lemon peel
+    raw: 1 long strip of unwaxed lemon peel

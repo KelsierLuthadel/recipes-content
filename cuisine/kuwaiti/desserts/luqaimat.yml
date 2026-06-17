@@ -1,0 +1,72 @@
+prep: 15 minutes (plus 1 hour rise)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - sesame
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 50
+    unit: g
+    name: cornflour
+    raw: 50 g cornflour
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tbsp caster sugar
+  - qty: 1
+    unit: tsp
+    name: dry yeast
+    raw: 1 tsp dry yeast
+  - qty: 0.5
+    name: /2 tsp ground cardamom
+    raw: 1/2 tsp ground cardamom
+  - qty: 0.25
+    name: /4 tsp saffron
+    raw: 1/4 tsp saffron, steeped in 1 tbsp warm water
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml warm milk
+  - name: vegetable oil
+    raw: Vegetable oil for deep frying
+  - qty: 150
+    unit: ml
+    name: date syrup
+    raw: 150 ml date syrup
+  - qty: 50
+    unit: ml
+    name: honey
+    raw: 50 ml honey
+  - qty: 0.5
+    name: /2 tsp ground cardamom
+    raw: 1/2 tsp ground cardamom
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 tsp rose water
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tbsp sesame seeds, toasted
+  - qty: 1
+    unit: tbsp
+    name: pistachio
+    raw: 1 tbsp chopped pistachio

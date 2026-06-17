@@ -16,7 +16,7 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 ## Ingredients
 
 ### The aromatics (to roast)
-- 30 g dried red chillies (about 12-15 medium dried chillies; mild guajillo or Thai red dried chillies)
+- 30 g dried red chillies (about 12-15 medium dried chillies; mild guajillo (Mexican dried red chilli, mild and sweet-tangy) or Thai red dried chillies)
 - 1 whole head garlic (about 10 cloves), peeled
 - 6 large shallots, peeled and halved
 

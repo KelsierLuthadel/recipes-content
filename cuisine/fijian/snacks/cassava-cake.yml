@@ -1,0 +1,50 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - coconut
+  - butter
+mentions:
+  - cuisine/saint-lucian/desserts/cassava-pone
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: cassava
+    raw: 700 g fresh cassava , peeled and finely grated
+  - qty: 400
+    unit: ml
+    name: coconut milk
+    raw: 400 ml thick coconut milk
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, lightly beaten
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter, melted
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp ground cardamom
+    raw: 1/2 tsp ground cardamom
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 2
+    unit: tbsp
+    name: coconut
+    raw: 2 tbsp grated fresh coconut

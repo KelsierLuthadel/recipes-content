@@ -1,0 +1,57 @@
+prep: 25 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - potato
+  - cream
+  - complex
+mentions:
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: starchy potatoes
+    raw: 2 kg starchy potatoes , peeled
+  - qty: 250
+    unit: g
+    name: smoked streaky bacon
+    raw: 250 g smoked streaky bacon, finely chopped
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 0.5
+    name: /2 tsp ground caraway
+    raw: 1/2 tsp ground caraway
+  - qty: 1
+    unit: tbsp
+    name: semolina or fine breadcrumbs
+    raw: 1 tbsp semolina or fine breadcrumbs
+  - qty: 300
+    unit: ml
+    name: sour cream
+    raw: 300 ml sour cream, to serve

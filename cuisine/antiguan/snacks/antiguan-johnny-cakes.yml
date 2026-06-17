@@ -1,0 +1,55 @@
+prep: 20 minutes (plus 30 minutes rest)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - eggs
+  - butter
+  - honey
+mentions:
+  - cuisine/jamaican/jerk-chicken
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 teaspoons baking powder
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 1/2 teaspoons fine sea salt
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 80
+    unit: g
+    name: cold butter
+    raw: 80 g cold butter
+  - qty: 275
+    unit: ml
+    name: milk
+    raw: 250-300 ml whole milk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 600
+    unit: ml
+    name: vegetable oil
+    raw: 600 ml vegetable oil
+  - name: antiguan saltfish chow or butter and honey
+    raw: Antiguan saltfish chow OR butter and honey
+  - name: pot of tea
+    raw: A pot of tea
+  - name: mango
+    raw: A slice of ripe mango

@@ -1,0 +1,70 @@
+prep: 30 minutes (active); plus 8 to 24 hours for the loaf
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - make-ahead
+  - sides
+  - coriander
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: rye flour
+    raw: 300 g coarse rye flour
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: rye sourdough starter
+    raw: 1 tablespoon rye sourdough starter , or 5 g instant dried yeast as a substitute
+  - qty: 1
+    unit: tbsp
+    name: caraway seeds
+    raw: 1 tablespoon caraway seeds
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 300
+    unit: g
+    name: rye flour
+    raw: 300 g coarse rye flour
+  - qty: 100
+    unit: g
+    name: wheat flour
+    raw: 100 g strong wheat flour
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: dark molasses or malt extract
+    raw: 2 tablespoons dark molasses or malt extract
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 teaspoons fine salt
+  - qty: 1
+    unit: tbsp
+    name: caraway seeds
+    raw: 1 tablespoon caraway seeds
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 teaspoon ground coriander
+  - qty: 1
+    unit: tbsp
+    name: rye flour
+    raw: 1 tablespoon coarse rye flour, for dusting
+  - name: cold salted butter
+    raw: Cold salted butter

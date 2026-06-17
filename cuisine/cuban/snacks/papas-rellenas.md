@@ -26,7 +26,7 @@ Papas rellenas ("stuffed potatoes") is one of Cuba's most beloved street snacks 
 - 2 tablespoons fresh chopped parsley
 
 ### Filling
-- 400 g cooked picadillo Cubano (see the picadillo recipe; thick, well-reduced, not wet)
+- 400 g cooked picadillo Cubano ([picadillo](../picadillo.md))
 
 ### Coating
 - 200 g plain flour (for first dredge)

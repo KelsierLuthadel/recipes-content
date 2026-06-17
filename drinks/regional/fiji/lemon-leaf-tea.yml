@@ -1,0 +1,36 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - ginger
+  - lemon
+  - lime
+  - honey
+mentions:
+  - cuisine/fijian/desserts/babakau
+  - tutorials/spices/storage
+ingredients:
+  - qty: 10
+    name: lemon leaves
+    raw: 10 fresh lemon leaves , torn lightly
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of fresh ginger, sliced
+  - qty: 1
+    unit: stick
+    name: lemongrass
+    raw: 1 stick of lemongrass, bruised
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 2.5
+    unit: tbsp
+    name: sugar
+    raw: 2-3 tbsp raw sugar , to taste
+  - name: "optional: a squeeze of fresh lemon juice"
+    raw: "Optional: a squeeze of fresh lemon juice to finish"

@@ -1,0 +1,31 @@
+prep: 15 minutes (plus 4 hours setting)
+cook: None
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 8
+    name: passion fruits
+    raw: 8 ripe passion fruits
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 2
+    name: passion fruits
+    raw: 2 extra ripe passion fruits

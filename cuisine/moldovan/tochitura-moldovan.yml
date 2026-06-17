@@ -1,0 +1,88 @@
+prep: 20 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - dairy
+  - eggs
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - pork
+  - eggs
+  - onion
+  - garlic
+  - cheese
+  - chili
+  - complex
+mentions:
+  - cuisine/moldovan/mamaliga-moldovan
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork shoulder
+    raw: 800 g pork shoulder, cut into 3 cm chunks
+  - qty: 200
+    unit: g
+    name: smoked streaky bacon
+    raw: 200 g smoked streaky bacon, in thick lardons
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: lard or sunflower oil
+    raw: 2 tbsp lard or sunflower oil
+  - qty: 250
+    unit: ml
+    name: dry white wine
+    raw: 250 ml dry white wine
+  - qty: 200
+    unit: ml
+    name: water or pork stock
+    raw: 200 ml hot water or pork stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: summer savory
+    raw: 1 tsp dried summer savory
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 1
+    name: chilli
+    raw: 1 small dried chilli
+  - qty: 1
+    name: batch mamaliga
+    raw: 1 batch mămăligă
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 200
+    unit: g
+    name: branza de oi or feta
+    raw: 200 g brânză de oi or feta, crumbled
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: A small handful chopped fresh parsley
+  - name: black pepper
+    raw: Black pepper

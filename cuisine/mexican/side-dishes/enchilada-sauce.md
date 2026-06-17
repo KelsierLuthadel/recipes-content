@@ -16,7 +16,7 @@ The foundation sauce of any proper enchilada: dried Mexican chillies toasted and
 
 ### Dried Chillies & Aromatics
 - 85g dried ancho peppers
-- 85g dried guajillo peppers
+- 85g dried guajillo peppers (Mexican dried red chilli, mild and sweet-tangy)
 - 2-3 dried arbol peppers (optional, for extra heat)
 - 1 white onion (medium, peeled and halved)
 - 2 ripe tomatoes (halved)

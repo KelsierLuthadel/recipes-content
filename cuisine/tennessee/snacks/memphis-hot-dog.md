@@ -44,7 +44,7 @@ The Memphis BBQ hot dog is a Tennessee adaptation of the American hot dog that t
 - Optional: dill pickle slices, sliced jalapeños
 
 ### To serve
-- Memphis vinegar coleslaw on the side (see memphis-bbq-slaw.md)
+- Memphis vinegar coleslaw on the side ([memphis BBQ slaw](../side-dishes/memphis-bbq-slaw.md))
 - Tennessee baked beans
 - Cold beer
 

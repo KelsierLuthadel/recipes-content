@@ -1,0 +1,58 @@
+prep: 35 minutes
+cook: 50 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - meals
+  - coconut
+  - potato
+mentions:
+  - drinks/classic/ginger-beer
+  - tutorials/spices/storage
+  - base-ingredients/spices/mixed-spice
+ingredients:
+  - qty: 800
+    unit: g
+    name: sweet potato
+    raw: 800 g sweet potato , peeled and grated
+  - qty: 200
+    unit: g
+    name: coconut
+    raw: 200 g fresh grated coconut
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 150
+    unit: g
+    name: dark brown sugar
+    raw: 150 g dark brown sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: nutmeg
+    raw: 1 tsp grated nutmeg
+  - qty: 0.5
+    name: /2 tsp mixed spice
+    raw: 1/2 tsp mixed spice
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 100
+    unit: ml
+    name: coconut milk
+    raw: 100 ml coconut milk
+  - qty: 12
+    name: banana leaf squares
+    raw: 12 banana leaf squares, 25 cm each
+  - name: kitchen string
+    raw: Kitchen string

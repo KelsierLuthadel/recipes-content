@@ -1,0 +1,73 @@
+prep: 30 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - chicken
+  - pork
+  - garlic
+  - lemon
+  - complex
+mentions:
+  - cuisine/san-marinese/side-dishes/polenta-sanmarinese
+  - cuisine/san-marinese/snacks/coniglio-crostini
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: rabbit
+    raw: 1 whole rabbit, about 1.5 kg, boned and butterflied
+  - qty: 150
+    unit: g
+    name: pancetta
+    raw: 150 g pancetta, in 5 mm dice
+  - qty: 2
+    name: chicken livers
+    raw: 2 chicken livers, finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: wild fennel fronds
+    raw: 2 tbsp wild fennel fronds, chopped
+  - qty: 2
+    unit: tbsp
+    name: rosemary leaves
+    raw: 2 tbsp rosemary leaves, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: sage leaves
+    raw: 1 tbsp sage leaves, finely chopped
+  - qty: 1
+    unit: tsp
+    name: fennel pollen
+    raw: 1 tsp fennel pollen
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 80
+    unit: ml
+    name: dry white wine
+    raw: 80 ml dry white wine
+  - qty: 60
+    unit: ml
+    name: virgin olive oil
+    raw: 60 ml extra virgin olive oil
+  - qty: 4
+    name: long rosemary branches for the roasting tray
+    raw: 4 long rosemary branches for the roasting tray
+  - name: salt and plenty of coarsely cracked black pepper
+    raw: Salt and plenty of coarsely cracked black pepper
+  - qty: 200
+    unit: ml
+    name: dry white wine
+    raw: 200 ml dry white wine for the pan
+  - qty: 200
+    unit: ml
+    name: chicken or light stock
+    raw: 200 ml chicken or light stock

@@ -1,0 +1,63 @@
+prep: 40 minutes (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - onion
+  - potato
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml warm water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 40
+    unit: ml
+    name: sunflower oil
+    raw: 40 ml sunflower oil
+  - name: oil for stretching
+    raw: Extra oil for stretching
+  - qty: 400
+    unit: g
+    name: floury potatoes
+    raw: 400 g floury potatoes, peeled and boiled
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 200
+    unit: g
+    name: branza de oi or feta
+    raw: 200 g brânză de oi or feta, crumbled
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp chopped fresh dill
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil

@@ -28,8 +28,8 @@ Asado is Argentina's most sacred food ritual, far more than a barbecue, it's the
 - 200 g coarse rock salt (sal gruesa; the only seasoning)
 
 ### Sides and sauces
-- 1 batch chimichurri sauce (see chimichurri-side-dish.md)
-- 1 batch salsa criolla (see ensalada-criolla.md)
+- 1 batch [chimichurri](side-dishes/chimichurri.md) sauce
+- 1 batch salsa criolla (see [ensalada criolla](side-dishes/ensalada-criolla.md))
 - 1 round of provoleta cheese (250 g)
 - 2 fresh baguettes (pan francés)
 - Mixed green salad (lettuce, tomato, onion)

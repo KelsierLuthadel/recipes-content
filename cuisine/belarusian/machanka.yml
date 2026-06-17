@@ -1,0 +1,67 @@
+prep: 15 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - meals
+  - meat
+  - pork
+  - onion
+  - butter
+  - cream
+mentions:
+  - cuisine/belarusian/draniki
+  - tutorials/bbq/ribs
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: pork ribs
+    raw: 800 g pork ribs
+  - qty: 300
+    unit: g
+    name: smoked country pork sausage
+    raw: 300 g smoked country pork sausage
+  - qty: 2
+    name: onions
+    raw: 2 large onions, sliced
+  - qty: 3
+    unit: tbsp
+    name: pork lard or sunflower oil
+    raw: 3 tbsp pork lard or sunflower oil
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 3
+    name: allspice berries
+    raw: 3 allspice berries
+  - qty: 500
+    unit: ml
+    name: water or light pork stock
+    raw: 500 ml water or light pork stock
+  - name: salt
+    raw: Salt
+  - qty: 300
+    unit: ml
+    name: smetana
+    raw: 300 ml smetana
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp butter
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, chopped
+  - name: batch of fresh draniki
+    raw: A batch of fresh draniki

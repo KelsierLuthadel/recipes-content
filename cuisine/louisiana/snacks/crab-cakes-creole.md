@@ -39,7 +39,7 @@ Creole crab cakes are the New Orleans version of the famous American crab cake (
 - 2 tablespoons vegetable oil
 
 ### To serve
-- Remoulade sauce (see remoulade recipe)
+- Remoulade sauce ([remoulade](remoulade-sauce.md))
 - Lemon wedges
 - Mixed leaf salad
 - French bread

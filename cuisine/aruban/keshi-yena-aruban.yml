@@ -1,0 +1,101 @@
+prep: 30 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - mustard
+  - garlic
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - curry
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: edam or young gouda
+    raw: 1 whole Edam or young Gouda, 1.2-1.5 kg
+  - name: knife and a soup spoon for hollowing
+    raw: A sharp knife and a soup spoon for hollowing
+  - qty: 600
+    unit: g
+    name: chicken thighs
+    raw: 600 g boneless chicken thighs, cut in 2 cm pieces
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 1
+    name: green bell pepper
+    raw: 1 green bell pepper, finely chopped
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, finely chopped
+  - qty: 2
+    name: tomatoes
+    raw: 2 medium tomatoes, chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: tsp
+    name: curry powder
+    raw: 1 tsp mild curry powder
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 60
+    unit: g
+    name: raisins
+    raw: 60 g raisins
+  - qty: 60
+    unit: g
+    name: pitted green olives
+    raw: 60 g pitted green olives, halved
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tbsp small capers, drained
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tbsp Worcestershire sauce
+  - qty: 1
+    unit: tbsp
+    name: piccalilli or sweet mustard pickle
+    raw: 1 tbsp piccalilli or sweet mustard pickle
+  - qty: 150
+    unit: ml
+    name: chicken stock
+    raw: 150 ml chicken stock
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 2
+    name: eggs
+    raw: 2 eggs, lightly beaten
+  - qty: 50
+    unit: g
+    name: breadcrumbs
+    raw: 50 g breadcrumbs
+  - name: little butter to grease the baking dish
+    raw: A little butter to grease the baking dish

@@ -1,0 +1,100 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - lamb
+  - onion
+  - garlic
+  - tomato
+  - potato
+  - lime
+  - coriander
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder on the bone or 800 g chicken pieces
+    raw: 800 g lamb shoulder on the bone or 800 g chicken pieces
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 3
+    name: tomatoes
+    raw: 3 tomatoes, chopped
+  - qty: 2
+    name: limes
+    raw: 2 dried limes , pierced
+  - qty: 1
+    unit: tbsp
+    name: kuwaiti baharat
+    raw: 1 tbsp Kuwaiti baharat
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp cumin
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres hot water
+  - qty: 300
+    unit: g
+    name: pumpkin or butternut squash
+    raw: 300 g pumpkin or butternut squash, peeled and cubed
+  - qty: 2
+    name: potatoes
+    raw: 2 potatoes, peeled and cubed
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes, cubed
+  - qty: 1
+    name: aubergine
+    raw: 1 small aubergine, cubed
+  - qty: 1
+    unit: handful
+    name: coriander and parsley
+    raw: Handful chopped coriander and parsley
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 180
+    unit: ml
+    name: water
+    raw: 180 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil

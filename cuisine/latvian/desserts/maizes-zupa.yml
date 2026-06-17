@@ -1,0 +1,85 @@
+prep: 15 minutes
+cook: 35 minutes (plus 4 hours chilling)
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - lemon
+  - cream
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: stale dark rye bread
+    raw: 300 g stale dark rye bread , torn into pieces
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    name: strip orange peel
+    raw: 1 strip orange peel
+  - qty: 100
+    unit: g
+    name: pitted prunes
+    raw: 100 g pitted prunes, halved
+  - qty: 100
+    unit: g
+    name: apricots
+    raw: 100 g dried apricots, halved
+  - qty: 80
+    unit: g
+    name: raisins or sultanas
+    raw: 80 g raisins or sultanas
+  - qty: 80
+    unit: g
+    name: cranberries
+    raw: 80 g dried cranberries
+  - qty: 4
+    unit: tbsp
+    name: honey
+    raw: 4 tablespoons honey
+  - qty: 2
+    unit: tbsp
+    name: soft brown sugar
+    raw: 2 tablespoons soft brown sugar
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 1
+    unit: tbsp
+    name: cornflour
+    raw: 1 tablespoon cornflour
+  - qty: 2
+    unit: tbsp
+    name: dark rum or brandy
+    raw: 2 tablespoons dark rum or brandy
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 1
+    unit: tbsp
+    name: icing sugar
+    raw: 1 tablespoon icing sugar
+  - qty: 0.5
+    unit: tsp
+    name: vanilla
+    raw: ½ teaspoon vanilla
+  - qty: 30
+    unit: g
+    name: flaked almonds
+    raw: 30 g flaked almonds, toasted

@@ -1,0 +1,57 @@
+prep: 40 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - one-pan
+  - lemon
+  - butter
+  - nuts
+mentions:
+  - cuisine/turkish/desserts/baklava
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: filo pastry
+    raw: 500 g filo pastry , at room temperature
+  - qty: 300
+    unit: g
+    name: unsalted butter
+    raw: 300 g unsalted butter, melted and cooled
+  - qty: 500
+    unit: g
+    name: walnuts
+    raw: 500 g walnuts, finely chopped
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 0.25
+    name: /4 tsp ground cloves
+    raw: 1/4 tsp ground cloves
+  - qty: 400
+    unit: g
+    name: caster sugar
+    raw: 400 g caster sugar
+  - qty: 350
+    unit: ml
+    name: water
+    raw: 350 ml water
+  - name: juice of 1 lemon
+    raw: Juice of 1 lemon
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel

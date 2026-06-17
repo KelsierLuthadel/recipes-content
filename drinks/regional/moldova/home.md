@@ -1,0 +1,5 @@
+# Moldovan Drinks
+
+![Moldovan Drinks](resources/hero.jpg)
+
+Moldova is Eastern Europe's overlooked wine country, its limestone hills carrying one of the densest vineyard plantings on earth, with the indigenous Fetească Neagră and Fetească Albă grapes coming back into the bottle after a long Soviet stretch of bulk-blend production. The underground city at Cricova, two hundred kilometres of cellars carved into a former limestone quarry north of Chișinău, is a national treasure: its rooms hold the state collection, including bottles laid down for Yuri Gagarin and Vladimir Putin, and its long sparkling tradition rivals anything in central Europe. The plum-brandy țuică distilled in copper stills behind rural barns each autumn is shared with Romania and poured chilled at every threshold. In every grandmother's cellar there are jars of compot, the fruit-and-syrup drink ladled cold over winter dinners and warm summer afternoons alike. The Soviet legacy left a tea-drinking habit on top of all this, glasses of strong black tea taken with sugar and lemon at any hour of the day.

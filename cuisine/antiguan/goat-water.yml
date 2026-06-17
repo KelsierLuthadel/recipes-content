@@ -1,0 +1,73 @@
+prep: 25 minutes
+cook: 3 hours
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - meals
+  - meat
+  - onion
+  - garlic
+  - lime
+  - chili
+  - complex
+mentions:
+  - drinks/cocktails/rum-punch
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: goat meat
+    raw: 1.5 kg bone-in goat meat , cut into chunks
+  - qty: 2
+    name: onions
+    raw: 2 large onions, chopped
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves, crushed
+  - qty: 4
+    name: scallions
+    raw: 4 scallions, chopped
+  - qty: 2
+    unit: tbsp
+    name: thyme leaves
+    raw: 2 tbsp fresh thyme leaves
+  - qty: 8
+    name: cloves
+    raw: 8 whole cloves
+  - qty: 1
+    unit: tbsp
+    name: allspice berries
+    raw: 1 tbsp allspice berries
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: scotch bonnet pepper
+    raw: 1 Scotch bonnet pepper, whole
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 1.5
+    unit: l
+    name: water or beef stock
+    raw: 1.5 litres water or beef stock
+  - qty: 60
+    unit: ml
+    name: dark rum
+    raw: 60 ml dark rum
+  - name: juice of 1 lime
+    raw: Juice of 1 lime
+  - name: black pepper
+    raw: Black pepper

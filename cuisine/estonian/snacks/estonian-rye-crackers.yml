@@ -1,0 +1,46 @@
+prep: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - snack
+  - one-pan
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: dark rye flour
+    raw: 300 g dark rye flour
+  - qty: 100
+    unit: g
+    name: white bread flour
+    raw: 100 g strong white bread flour, plus more for dusting
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1.5 tsp fine sea salt
+  - qty: 2
+    unit: tsp
+    name: caraway seeds
+    raw: 2 tsp caraway seeds
+  - qty: 1
+    unit: tbsp
+    name: neutral oil
+    raw: 1 tbsp neutral oil
+  - qty: 240
+    unit: ml
+    name: water
+    raw: 240 ml warm water, plus more if needed
+  - name: little water
+    raw: A little water
+  - qty: 1
+    unit: tbsp
+    name: caraway seeds
+    raw: 1 tbsp caraway seeds
+  - name: flaky sea salt
+    raw: Flaky sea salt

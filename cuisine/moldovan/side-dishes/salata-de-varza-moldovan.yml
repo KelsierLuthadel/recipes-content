@@ -1,0 +1,45 @@
+prep: 20 minutes (plus 30 minutes curing)
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - sides
+  - onion
+  - carrot
+mentions:
+  - cuisine/romanian/sarmale
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: white cabbage
+    raw: 1 small white cabbage , outer leaves removed
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot, peeled
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill, finely chopped
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely sliced
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tbsp sunflower oil
+  - qty: 3
+    unit: tbsp
+    name: white-wine vinegar
+    raw: 3 tbsp white-wine vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 tsp caster sugar
+  - name: black pepper
+    raw: Black pepper to taste

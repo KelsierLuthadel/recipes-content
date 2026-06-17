@@ -1,0 +1,63 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - honey
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: sour cream
+    raw: 250 g full-fat sour cream
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 tsp bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: white vinegar
+    raw: 1 tsp white vinegar
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g cold sour cream
+  - qty: 4
+    unit: tbsp
+    name: jam
+    raw: 4 tbsp jam
+  - name: honey
+    raw: Honey
+  - name: berries in summer
+    raw: Fresh berries in summer

@@ -1,0 +1,41 @@
+prep: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - butter
+  - yogurt
+  - honey
+mentions:
+  - tutorials/bread/cottage
+  - tutorials/spices/storage
+ingredients:
+  - qty: 150
+    unit: g
+    name: kama flour
+    raw: 150 g kama flour , plus 2 tbsp for rolling
+  - qty: 100
+    unit: ml
+    name: kefir
+    raw: 100 ml thick kefir
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, very soft
+  - qty: 60
+    unit: g
+    name: honey
+    raw: 60 g honey
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: "optional: 50 g raisins"
+    raw: "Optional: 50 g raisins, chopped dried cranberries, or chopped nuts"

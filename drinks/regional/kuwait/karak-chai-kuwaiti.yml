@@ -1,0 +1,32 @@
+prep: 2 minutes
+cook: 12 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml water
+  - qty: 200
+    unit: ml
+    name: evaporated milk
+    raw: 200 ml evaporated milk
+  - qty: 4
+    unit: tsp
+    name: loose black tea
+    raw: 4 tsp loose black tea
+  - qty: 8
+    name: green cardamom pods
+    raw: 8 green cardamom pods, lightly crushed
+  - qty: 4
+    name: saffron
+    raw: 4 strands saffron
+  - qty: 4
+    name: to 6 tsp sugar
+    raw: 4 to 6 tsp sugar

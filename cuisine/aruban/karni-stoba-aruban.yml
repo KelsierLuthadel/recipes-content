@@ -1,0 +1,105 @@
+prep: 20 minutes
+cook: 2 hours 15 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/angolan/side-dishes/banana-frita
+  - cuisine/aruban/side-dishes/aruba-pan-bati
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shoulder or chuck
+    raw: 1 kg beef shoulder or chuck
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tablespoons plain flour
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tablespoons vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions
+  - qty: 6
+    unit: clove
+    name: garlic
+    raw: 6 cloves garlic
+  - qty: 1
+    unit: small handful
+    name: thyme
+    raw: 1 small handful fresh thyme
+  - qty: 4
+    name: bay leaves
+    raw: 4 fresh bay leaves
+  - qty: 6
+    name: allspice berries
+    raw: 6 whole allspice berries
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 200
+    unit: ml
+    name: beef stock
+    raw: 200 ml beef stock
+  - qty: 3
+    unit: tbsp
+    name: red wine vinegar
+    raw: 3 tablespoons red wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: worcestershire sauce
+    raw: 1 tablespoon Worcestershire sauce
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tablespoons capers
+  - qty: 12
+    name: green olives
+    raw: 12 green olives
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful fresh coriander
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: 1 small handful fresh parsley
+  - name: funchi or pan bati
+    raw: A wedge of funchi OR pan bati
+  - name: side of banana frita
+    raw: A side of banana frita
+  - name: rounds of pickled scotch bonnet
+    raw: A few rounds of pickled scotch bonnet

@@ -1,0 +1,108 @@
+prep: 15 minutes (plus overnight soak)
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - pork
+  - onion
+  - garlic
+  - tomato
+  - lemon
+  - coriander
+  - complex
+mentions:
+  - cuisine/algerian/chorba-frik
+  - tutorials/charcuterie/sausages
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
+ingredients:
+  - qty: 400
+    unit: g
+    name: white beans
+    raw: 400 g dried white beans
+  - qty: 2
+    name: bay leaves
+    raw: 2 fresh bay leaves
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 60
+    unit: ml
+    name: olive oil
+    raw: 60 ml olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tablespoons tomato paste
+  - qty: 1
+    name: tomatoes
+    raw: 1 tin chopped tomatoes
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 teaspoons sweet paprika
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 teaspoon ground cumin
+  - qty: 1
+    unit: tsp
+    name: caraway
+    raw: 1 teaspoon ground caraway
+  - qty: 1
+    unit: tbsp
+    name: harissa
+    raw: 1 tablespoon harissa
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 700
+    unit: ml
+    name: reserved bean cooking liquid
+    raw: 700 ml reserved bean cooking liquid
+  - qty: 2
+    name: merguez sausages
+    raw: 2 merguez sausages
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tablespoon olive oil
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: 1 small handful fresh coriander
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: 1 small handful fresh parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: round of khobz algerian semolina bread
+    raw: A round of khobz Algerian semolina bread
+  - name: pot of mint tea
+    raw: A pot of mint tea
+  - name: bowl of harissa
+    raw: A small bowl of harissa for the table

@@ -1,0 +1,52 @@
+prep: 15 minutes
+cook: 40 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - garlic
+  - tomato
+  - chili
+mentions:
+  - cuisine/algerian/side-dishes/hmiss
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: long red and green peppers
+    raw: 6 long red and green peppers
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes, grated
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, thinly sliced
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml olive oil
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: oregano
+    raw: 0.5 tsp dried oregano
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 1
+    name: red chilli
+    raw: 1 small red chilli, finely chopped

@@ -1,0 +1,84 @@
+prep: 25 minutes (plus 30 minutes soaking)
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: stale country bread
+    raw: 250 g stale country bread, torn into pieces
+  - qty: 700
+    unit: ml
+    name: milk
+    raw: 700 ml whole milk
+  - qty: 150
+    unit: g
+    name: polenta
+    raw: 150 g fine polenta
+  - qty: 80
+    unit: g
+    name: 00 flour
+    raw: 80 g 00 flour
+  - qty: 3
+    name: eggs
+    raw: 3 eggs
+  - qty: 80
+    unit: g
+    name: honey
+    raw: 80 g honey, plus extra for drizzling
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 60
+    unit: ml
+    name: olive oil
+    raw: 60 ml olive oil, plus extra for the tin
+  - qty: 2
+    name: apples
+    raw: 2 medium apples, peeled, cored and cut into 1 cm dice
+  - qty: 100
+    unit: g
+    name: raisins
+    raw: 100 g raisins, soaked 15 minutes in warm water and drained
+  - qty: 80
+    unit: g
+    name: figs
+    raw: 80 g dried figs, chopped
+  - qty: 60
+    unit: g
+    name: pine nuts
+    raw: 60 g pine nuts
+  - qty: 60
+    unit: g
+    name: walnuts
+    raw: 60 g walnuts, roughly chopped
+  - qty: 1
+    unit: tbsp
+    name: rosemary
+    raw: 1 tbsp finely chopped rosemary
+  - name: zest of 1 orange and 1 lemon
+    raw: Zest of 1 orange and 1 lemon
+  - qty: 0.5
+    name: /2 tsp fine salt
+    raw: 1/2 tsp fine salt
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - name: nutmeg
+    raw: A grating of nutmeg

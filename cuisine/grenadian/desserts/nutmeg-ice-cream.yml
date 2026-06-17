@@ -1,0 +1,46 @@
+prep: 20 minutes (plus 4 hours chilling and churning)
+cook: 15 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - dessert
+  - make-ahead
+  - eggs
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: nutmegs
+    raw: 4 whole nutmegs
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 250
+    unit: ml
+    name: double cream
+    raw: 250 ml double cream
+  - qty: 5
+    name: egg yolks
+    raw: 5 large egg yolks
+  - qty: 150
+    unit: g
+    name: caster sugar
+    raw: 150 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: dark rum
+    raw: 1 tbsp dark rum

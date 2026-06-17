@@ -31,7 +31,7 @@ A baked enchilada built on a from-scratch chilli base sauce that does most of th
 - 4 large tortillas
 
 ### Chilli Base Sauce (makes far more than this recipe needs)
-- 6 guajillo dried chillies
+- 6 guajillo (Mexican dried red chilli, mild and sweet-tangy) dried chillies
 - 4 pasilla dried chillies
 - 3 ancho dried chillies
 - 3 arbol dried chillies

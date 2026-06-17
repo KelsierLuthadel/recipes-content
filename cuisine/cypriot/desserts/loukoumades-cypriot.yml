@@ -1,0 +1,66 @@
+prep: 25 minutes (plus 1 hour rising)
+cook: 25 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - dairy-free
+  - dessert
+  - lemon
+  - honey
+  - complex
+mentions:
+  - cuisine/greek/desserts/loukoumades
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 600
+    unit: ml
+    name: water
+    raw: 600 ml warm water
+  - qty: 250
+    unit: g
+    name: clear honey
+    raw: 250 g clear honey
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    name: strip lemon peel
+    raw: 1 strip lemon peel
+  - qty: 1
+    unit: l
+    name: neutral oil
+    raw: 1 litre neutral oil for deep frying
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 2
+    unit: tsp
+    name: cinnamon
+    raw: 2 teaspoons ground cinnamon
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tablespoons sesame seeds

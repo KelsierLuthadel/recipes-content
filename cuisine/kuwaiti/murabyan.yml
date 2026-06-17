@@ -1,0 +1,113 @@
+prep: 20 minutes
+cook: 50 minutes
+allergens:
+  - dairy
+  - shellfish
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - fish
+  - prawn
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: shell-on prawns
+    raw: 700 g large raw shell-on prawns
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: kuwaiti baharat
+    raw: 1 tsp Kuwaiti baharat
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves
+  - qty: 1
+    name: lime
+    raw: 1 dried lime, pierced
+  - qty: 700
+    unit: ml
+    name: water
+    raw: 700 ml water
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 25
+    unit: g
+    name: ginger
+    raw: 25 g fresh ginger, grated
+  - qty: 1
+    name: green chilli
+    raw: 1 green chilli, slit
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    unit: tbsp
+    name: kuwaiti baharat
+    raw: 1 tbsp Kuwaiti baharat
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 2
+    name: limes
+    raw: 2 dried limes, pierced
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - name: salt
+    raw: Salt
+  - qty: 500
+    unit: g
+    name: basmati
+    raw: 500 g basmati
+  - qty: 1
+    unit: pinch
+    name: saffron in 2 tbsp warm water
+    raw: Pinch of saffron in 2 tbsp warm water
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - name: coriander
+    raw: Chopped coriander

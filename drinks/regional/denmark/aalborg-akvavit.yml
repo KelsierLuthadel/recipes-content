@@ -1,17 +1,16 @@
 prep: 5 minutes (assumes bottled Aalborg Taffel) OR 2 weeks (for home-infused version)
 cook: None
-allergens:
-  - gluten
-  - dairy
-  - fish
+allergens: []
 tags:
   - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
   - quick
   - make-ahead
   - potato
   - lemon
   - coriander
-  - cream
 mentions:
   - drinks/cocktails/negroni
   - tutorials/cocktails/equipment
@@ -49,20 +48,3 @@ ingredients:
     unit: tbsp
     name: caster sugar
     raw: 1 tablespoon caster sugar
-  - qty: 1
-    name: pickled herring on a small piece of dark danish rye bread
-    raw: 1 piece pickled herring on a small piece of dark Danish rye bread
-  - qty: 1
-    unit: sprig
-    name: dill
-    raw: A sprig of fresh dill
-  - qty: 1
-    unit: small pinch
-    name: flaky salt
-    raw: A small pinch of flaky salt
-  - name: "danish lunch: smørrebrød + pickled herring + boiled new potatoes + sour cream + chopped chives + cold pilsner"
-    raw: "A Danish lunch: smørrebrød + pickled herring + boiled new potatoes + sour cream + chopped chives + cold pilsner"
-  - name: or a christmas julefrokost
-    raw: OR a Christmas julefrokost
-  - name: or an easter cold-buffet
-    raw: OR an Easter cold-buffet

@@ -1,0 +1,71 @@
+prep: 30 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - sides
+  - eggs
+  - potato
+  - butter
+  - cream
+  - cheese
+mentions:
+  - cuisine/lithuanian/snacks/bulviniai-blynai
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: starchy potatoes
+    raw: 1 kg starchy potatoes , peeled
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 80
+    unit: g
+    name: plain flour
+    raw: 80 g plain flour
+  - qty: 300
+    unit: g
+    name: curd cheese
+    raw: 300 g fresh curd cheese
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp chopped dill
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tbsp chopped chives
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 0.25
+    name: /4 tsp white pepper
+    raw: 1/4 tsp white pepper
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 2
+    unit: tbsp
+    name: sunflower oil
+    raw: 2 tbsp sunflower oil
+  - qty: 300
+    unit: ml
+    name: sour cream
+    raw: 300 ml sour cream
+  - qty: 2
+    unit: tbsp
+    name: chives
+    raw: 2 tbsp chopped chives

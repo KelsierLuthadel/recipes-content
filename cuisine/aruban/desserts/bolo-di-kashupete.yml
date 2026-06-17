@@ -1,0 +1,95 @@
+prep: 40 minutes
+cook: 45 minutes plus cooling
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - nuts
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: cashew nuts
+    raw: 300 g raw cashew nuts, finely ground in a processor
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 250
+    unit: g
+    name: unsalted butter
+    raw: 250 g unsalted butter, softened
+  - qty: 250
+    unit: g
+    name: caster sugar
+    raw: 250 g caster sugar
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 0.5
+    name: /2 tsp ground cinnamon
+    raw: 1/2 tsp ground cinnamon
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 150
+    unit: g
+    name: roasted cashews
+    raw: 150 g roasted cashews, finely ground to a paste in a processor
+  - qty: 200
+    unit: g
+    name: unsalted butter
+    raw: 200 g unsalted butter, softened
+  - qty: 400
+    unit: g
+    name: icing sugar
+    raw: 400 g icing sugar, sifted
+  - qty: 2
+    unit: tbsp
+    name: milk
+    raw: 2 tbsp whole milk
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 250
+    unit: g
+    name: icing sugar
+    raw: 250 g icing sugar, sifted
+  - qty: 3.5
+    unit: tbsp
+    name: water
+    raw: 3-4 tbsp warm water
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 100
+    unit: g
+    name: roasted cashew halves to decorate
+    raw: 100 g roasted cashew halves to decorate

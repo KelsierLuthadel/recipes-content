@@ -1,0 +1,27 @@
+prep: 5 minutes
+cook: 10 minutes
+allergens:
+  - peanuts
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+mentions:
+  - cuisine/angolan/muamba-de-galinha
+  - cuisine/angolan/mufete
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: sweet plantains
+    raw: 4 very ripe sweet plantains
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

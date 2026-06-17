@@ -1,0 +1,115 @@
+prep: 30 minutes
+cook: 2 hours 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - onion
+  - tomato
+  - carrot
+  - coriander
+  - butter
+  - chickpea
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: lamb shoulder on the bone
+    raw: 800 g lamb shoulder on the bone, cut into 6 pieces
+  - qty: 1
+    name: onion
+    raw: 1 large onion, roughly chopped
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tbsp tomato paste
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, grated
+  - qty: 200
+    unit: g
+    name: chickpeas
+    raw: 200 g cooked chickpeas
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: caraway
+    raw: 1 tsp ground caraway
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 small cinnamon stick
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, peeled, cut into long batons
+  - qty: 2
+    name: turnips
+    raw: 2 turnips, peeled, quartered
+  - qty: 2
+    name: courgettes
+    raw: 2 courgettes, cut into thick rounds
+  - qty: 300
+    unit: g
+    name: pumpkin or butternut squash
+    raw: 300 g pumpkin or butternut squash, peeled and cut into chunks
+  - qty: 1
+    name: green cabbage wedge
+    raw: 1 small green cabbage wedge
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander, tied with string
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch fresh flat-leaf parsley, tied with string
+  - qty: 500
+    unit: g
+    name: couscous
+    raw: 500 g medium couscous
+  - qty: 60
+    unit: ml
+    name: olive oil
+    raw: 60 ml olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 500
+    unit: ml
+    name: water
+    raw: 500 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: harissa stirred into a small bowl of hot broth
+    raw: 1 tbsp harissa stirred into a small bowl of hot broth
+  - name: smen or extra olive oil
+    raw: A small dish of smen or extra olive oil

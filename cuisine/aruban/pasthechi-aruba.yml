@@ -1,0 +1,85 @@
+prep: 40 minutes plus 30 minutes rest
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - butter
+  - complex
+mentions:
+  - sauces/sauce-savory/cheese-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tbsp
+    name: sugar
+    raw: 1 tbsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 150
+    unit: g
+    name: cold butter
+    raw: 150 g cold butter, cubed
+  - qty: 2
+    name: egg yolks
+    raw: 2 egg yolks
+  - qty: 180
+    unit: ml
+    name: milk
+    raw: 180 ml cold milk
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tbsp white vinegar
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 30
+    unit: g
+    name: plain flour
+    raw: 30 g plain flour
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 300
+    unit: g
+    name: gouda or edam
+    raw: 300 g young Gouda or Edam, grated
+  - qty: 1
+    unit: tsp
+    name: dijon mustard
+    raw: 1 tsp Dijon mustard
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - name: nutmeg
+    raw: A grating of fresh nutmeg
+  - name: salt and black pepper
+    raw: Salt and black pepper
+  - qty: 1
+    name: egg
+    raw: 1 egg, beaten
+  - qty: 1.5
+    unit: l
+    name: sunflower oil for deep-frying
+    raw: 1.5 litres sunflower oil for deep-frying

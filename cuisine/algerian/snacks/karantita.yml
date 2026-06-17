@@ -1,0 +1,48 @@
+prep: 10 minutes (plus 1 hour resting)
+cook: 35 minutes
+allergens:
+  - gluten
+  - eggs
+tags:
+  - vegetarian
+  - dairy-free
+  - spicy
+  - snack
+  - eggs
+  - chickpea
+  - complex
+mentions:
+  - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
+ingredients:
+  - qty: 300
+    unit: g
+    name: chickpea flour
+    raw: 300 g chickpea flour
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml warm water
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml olive oil
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: 0.5 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - name: harissa
+    raw: Harissa, to serve
+  - name: flaky sea salt
+    raw: A sprinkle of flaky sea salt, to serve

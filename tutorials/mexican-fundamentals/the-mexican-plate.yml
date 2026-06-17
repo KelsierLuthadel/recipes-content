@@ -8,7 +8,6 @@ mentions:
   - cuisine/mexican/carne-asada
   - cuisine/mexican/chilaquiles-verdes
   - cuisine/mexican/cochinita-pibil
-  - cuisine/mexican/desserts/atole
   - cuisine/mexican/enchiladas-suizas
   - cuisine/mexican/enchilladas
   - cuisine/mexican/esquites
@@ -19,6 +18,7 @@ mentions:
   - cuisine/mexican/snacks/salsa-roja
   - cuisine/mexican/tortilla-soup
   - cuisine/new-mexico/tamales-rojos
+  - drinks/regional/mexico/atole
   - drinks/regional/mexico/horchata
   - tutorials/mexican-fundamentals/mole
   - tutorials/mexican-fundamentals/salsas

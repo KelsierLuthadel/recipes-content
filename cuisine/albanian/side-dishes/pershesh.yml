@@ -1,0 +1,37 @@
+prep: 10 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - butter
+  - cheese
+mentions:
+  - cuisine/american/side-dishes/baked-beans
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: stale country bread
+    raw: 300 g stale country bread , torn into 2 cm pieces
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 80
+    unit: g
+    name: butter
+    raw: 80 g butter
+  - qty: 200
+    unit: g
+    name: gjize cheese
+    raw: 200 g gjizë cheese , crumbled
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Freshly ground black pepper

@@ -1,0 +1,85 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - peanuts
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - potato
+  - carrot
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 600
+    unit: g
+    name: beef shin or short rib on the bone
+    raw: 600 g beef shin or short rib on the bone, cut into pieces
+  - qty: 200
+    unit: g
+    name: peanuts
+    raw: 200 g raw peanuts, skins removed
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 3
+    unit: clove
+    name: garlic
+    raw: 3 cloves garlic, crushed
+  - qty: 2
+    unit: tbsp
+    name: aji amarillo paste
+    raw: 2 tbsp ground aji amarillo paste
+  - qty: 1
+    unit: tbsp
+    name: oregano
+    raw: 1 tbsp dried oregano
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 2
+    name: carrots
+    raw: 2 medium carrots, diced
+  - qty: 3
+    name: waxy potatoes
+    raw: 3 medium waxy potatoes, diced 2 cm
+  - qty: 150
+    unit: g
+    name: peas
+    raw: 150 g frozen peas
+  - qty: 100
+    unit: g
+    name: vermicelli pasta
+    raw: 100 g vermicelli pasta
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - name: salt and pepper
+    raw: Salt and pepper
+  - qty: 400
+    unit: g
+    name: floury potatoes for chips
+    raw: 400 g floury potatoes for chips
+  - name: oil
+    raw: Oil for frying
+  - name: oregano or parsley
+    raw: Fresh oregano or parsley
+  - name: salt
+    raw: Salt

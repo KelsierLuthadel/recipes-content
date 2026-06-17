@@ -1,0 +1,54 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - snack
+  - ginger
+  - coconut
+  - butter
+mentions:
+  - cuisine/grenadian/desserts/grenada-sugar-cake
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 300
+    unit: g
+    name: coconut
+    raw: 300 g freshly grated coconut
+  - qty: 1
+    name: sweetened condensed milk
+    raw: 1 tin sweetened condensed milk
+  - qty: 200
+    unit: g
+    name: soft dark brown sugar
+    raw: 200 g soft dark brown sugar
+  - qty: 100
+    unit: ml
+    name: milk
+    raw: 100 ml whole milk
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger, finely grated
+  - qty: 1
+    unit: tsp
+    name: fresh-grated nutmeg
+    raw: 1 tsp fresh-grated nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: 0.5 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt

@@ -1,0 +1,70 @@
+prep: 15 minutes
+cook: 50 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - beef
+  - rice
+  - onion
+  - garlic
+  - tomato
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef
+    raw: 500 g minced beef
+  - qty: 2
+    name: onions
+    raw: 2 medium onions, finely chopped
+  - qty: 1
+    name: red bell pepper
+    raw: 1 red bell pepper, finely chopped
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes, peeled and chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, minced
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 2
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 2 tbsp lard or vegetable oil
+  - qty: 200
+    unit: g
+    name: long-grain white rice
+    raw: 200 g long-grain white rice, rinsed
+  - qty: 2
+    unit: l
+    name: beef stock or water
+    raw: 2 litres beef stock or water
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 1
+    unit: large handful
+    name: flat-leaf parsley
+    raw: 1 large handful flat-leaf parsley, chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, sliced
+  - name: "optional: 1/2 tsp dried oregano"
+    raw: "Optional: 1/2 tsp dried oregano"

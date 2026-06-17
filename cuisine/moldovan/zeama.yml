@@ -1,0 +1,90 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - celery
+tags:
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - carrot
+  - lemon
+  - cream
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 small chicken , with bones
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 L cold water
+  - qty: 1
+    name: onion
+    raw: 1 large onion, halved
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot, in chunks
+  - qty: 1
+    name: parsnip
+    raw: 1 small parsnip, in chunks
+  - qty: 1
+    name: celery root
+    raw: 1 small celery root , peeled and chunked
+  - qty: 1
+    name: red bell pepper
+    raw: 1 small red bell pepper, halved and de-seeded
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 200
+    unit: g
+    name: plain flour
+    raw: 200 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tbsp water
+  - qty: 400
+    unit: ml
+    name: bors
+    raw: 400 ml borș
+  - qty: 1
+    name: lovage
+    raw: 1 large bunch fresh lovage , chopped
+  - qty: 1
+    name: parsley
+    raw: 1 small bunch parsley, chopped
+  - name: salt and black pepper
+    raw: Salt and black pepper to taste
+  - name: sour cream
+    raw: Sour cream
+  - qty: 1
+    name: green chilli per bowl
+    raw: 1 small green chilli per bowl
+  - name: country bread
+    raw: Country bread

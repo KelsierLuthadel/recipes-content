@@ -1,0 +1,5 @@
+# Drinks of Algeria
+
+![Drinks of Algeria](resources/hero.jpg)
+
+Algerian drinks are framed by Islam (very little alcohol on the table) and by the long social rituals around tea and coffee. Thé algérien is the everyday pour: green tea steeped strong with spearmint and sugar, served in three pours by tradition (the first bitter as life, the second strong as love, the third sweet as death). Qahwa, the cardamom-spiced strong coffee, follows the heavier meals and is served in small cups with a glass of water. Soft drinks belong to Hamoud Boualem, the Algiers lemon soda that has been the national fizz since 1878 and outsells every imported cola in the country. The colonial-era anisette algérien, a star-anise spirit drunk over ice with cold water, is the rare alcoholic note and the one survivor of the French wine trade that once made Algeria one of the world's largest wine exporters. Buttermilk (leben) and almond milk also belong on the everyday list, especially through Ramadan and the long summer heat.

@@ -1,0 +1,107 @@
+prep: 30 minutes (plus 1 hour 30 minutes rising)
+cook: 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - onion
+  - garlic
+  - coriander
+  - chickpea
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/trinidadian/snacks/doubles
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/bir-curry-powder
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 2
+    unit: tsp
+    name: instant yeast
+    raw: 2 tsp instant yeast
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tsp
+    name: turmeric
+    raw: 2 tsp ground turmeric
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - name: vegetable oil for shallow frying
+    raw: Vegetable oil for shallow frying
+  - qty: 2
+    name: chickpeas
+    raw: 2 tins chickpeas , drained
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 1
+    unit: tbsp
+    name: cumin
+    raw: 1 tbsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: curry powder
+    raw: 1 tsp curry powder
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, whole
+  - qty: 1
+    unit: tbsp
+    name: chadon beni or coriander
+    raw: 1 tbsp chadon beni or coriander, chopped
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - name: salt
+    raw: Salt to taste
+  - qty: 1
+    name: cucumber
+    raw: 1 cucumber, finely grated, squeezed dry
+  - qty: 2
+    unit: tbsp
+    name: tamarind pulp mixed with 4 tbsp warm water
+    raw: 2 tbsp tamarind pulp mixed with 4 tbsp warm water
+  - qty: 1
+    name: scotch bonnet pepper sauce
+    raw: 1 scotch bonnet pepper sauce

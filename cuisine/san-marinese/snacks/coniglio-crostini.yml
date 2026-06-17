@@ -1,0 +1,47 @@
+prep: 10 minutes
+cook: 5 minutes
+allergens:
+  - gluten
+  - mustard
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - snack
+  - make-ahead
+  - garlic
+mentions:
+  - cuisine/san-marinese/coniglio-in-porchetta
+  - tutorials/spices/storage
+ingredients:
+  - qty: 12
+    name: country bread
+    raw: 12 thin slices of country bread , about 1 cm thick
+  - qty: 2
+    unit: tbsp
+    name: virgin olive oil
+    raw: 2 tbsp extra virgin olive oil
+  - qty: 1
+    unit: clove
+    name: garlic
+    raw: 1 clove garlic, halved
+  - qty: 2
+    unit: tbsp
+    name: grain mustard
+    raw: 2 tbsp grain mustard
+  - qty: 12
+    name: cold slices coniglio in porchetta
+    raw: 12 cold slices coniglio in porchetta
+  - qty: 12
+    name: cornichons
+    raw: 12 cornichons, sliced lengthways into thin strips
+  - qty: 1
+    unit: small handful
+    name: flat parsley leaves
+    raw: A small handful of flat parsley leaves
+  - name: best olive oil
+    raw: A few drops of best olive oil to finish
+  - name: cracked black pepper
+    raw: Cracked black pepper

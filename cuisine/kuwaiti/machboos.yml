@@ -1,0 +1,105 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - dairy
+  - tree-nuts
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - spicy
+  - one-pan
+  - meals
+  - meat
+  - chicken
+  - lamb
+  - rice
+  - onion
+  - garlic
+  - tomato
+  - ginger
+  - lime
+  - coriander
+  - nuts
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken or 1.5 kg lamb shoulder on the bone
+    raw: 1.5 kg chicken or 1.5 kg lamb shoulder on the bone
+  - qty: 2
+    unit: tbsp
+    name: kuwaiti baharat
+    raw: 2 tbsp Kuwaiti baharat
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 5
+    name: garlic cloves
+    raw: 5 garlic cloves, crushed
+  - qty: 30
+    unit: g
+    name: ginger
+    raw: 30 g fresh ginger, grated
+  - qty: 2
+    name: tomatoes
+    raw: 2 tomatoes, chopped
+  - qty: 3
+    name: limes
+    raw: 3 dried limes , pierced with a knife
+  - qty: 4
+    name: green cardamom pods
+    raw: 4 green cardamom pods
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 1
+    name: red chilli
+    raw: 1 dried red chilli
+  - qty: 1.2
+    unit: l
+    name: water
+    raw: 1.2 litres hot water
+  - name: salt
+    raw: Salt to taste
+  - qty: 500
+    unit: g
+    name: basmati rice
+    raw: 500 g basmati rice
+  - qty: 1
+    unit: pinch
+    name: saffron threads steeped in 3 tbsp warm rose water
+    raw: Pinch of saffron threads steeped in 3 tbsp warm rose water
+  - qty: 2
+    unit: tbsp
+    name: ghee
+    raw: 2 tbsp ghee
+  - qty: 2
+    unit: tbsp
+    name: toasted slivered almonds
+    raw: 2 tbsp toasted slivered almonds
+  - qty: 2
+    unit: tbsp
+    name: golden raisins fried briefly in ghee
+    raw: 2 tbsp golden raisins fried briefly in ghee
+  - name: coriander
+    raw: Chopped coriander

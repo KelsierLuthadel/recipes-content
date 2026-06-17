@@ -1,0 +1,41 @@
+prep: 20 minutes
+cook: 0 minutes (plus 24-48 hour rest)
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - ginger
+  - lime
+  - complex
+mentions:
+  - drinks/classic/ginger-beer
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: g
+    name: ginger root
+    raw: 200 g fresh ginger root, peeled
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres boiling water
+  - qty: 300
+    unit: g
+    name: dark brown sugar
+    raw: 300 g dark brown sugar
+  - name: juice of 4 limes
+    raw: Juice of 4 limes
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 0.5
+    name: /2 tsp vanilla extract
+    raw: 1/2 tsp vanilla extract
+  - name: sparkling water to top up
+    raw: Cold sparkling water to top up

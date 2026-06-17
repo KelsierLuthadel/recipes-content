@@ -1,0 +1,6 @@
+# Albanian Cuisine
+
+![Albanian Cuisine](resources/hero.jpg)
+
+Albanian food sits where Greece, Italy, the old Ottoman Balkans and the southern Slav coastlines all meet, and every plate carries a trace of those neighbours. The lamb-and-yoghurt heritage from five centuries of Ottoman rule shows in the national dish tave kosi, lamb baked under a tart yoghurt-and-egg crust till the top sets to a pale gold custard, and in the syrup-soaked walnut bakllava that closes a long lunch. The mountain villages of the north and the inland country of Korçë and Berat run on cornbread (bukë misri) and skillet vegetables, fergese fried hard in olive oil till the tomato turns to jam and the cottage cheese marks dark on top, all eaten by tearing bread off a round loaf. Every market town has a byrektore, the small bakery that turns out coiled filo pies stuffed with spinach, leek, cheese or seasoned mince, sold by the wedge from the morning bus stop. The dessert tradition leans on milky sponges (trileçe drowned in three milks and finished with a dark caramel) and walnut preserves spooned from a jar with coffee. Coffee is the constant: a small dark cup, often standing at a kiosk counter, sipped slowly while the next pan of byrek cools on the rack.
+</content>

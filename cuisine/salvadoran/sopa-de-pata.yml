@@ -1,0 +1,82 @@
+prep: 30 minutes
+cook: 4 hours
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - complex
+mentions:
+  - drinks/regional/mexico/agua-de-jamaica
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: cow's foot
+    raw: 800 g cow's foot, cut into pieces
+  - qty: 500
+    unit: g
+    name: honeycomb tripe
+    raw: 500 g honeycomb tripe, cleaned, cut into 4 cm squares
+  - qty: 1
+    unit: tbsp
+    name: white vinegar
+    raw: 1 tbsp white vinegar
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres water
+  - qty: 2
+    name: onions
+    raw: 2 large onions, halved
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, smashed
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes, halved
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper, halved
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 2
+    unit: tsp
+    name: oregano
+    raw: 2 tsp dried oregano
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 2
+    name: corn cobs
+    raw: 2 corn cobs, each cut into 4 chunks
+  - qty: 400
+    unit: g
+    name: cassava
+    raw: 400 g cassava , peeled, cut into batons
+  - qty: 2
+    name: chayote
+    raw: 2 chayote , peeled, cut into wedges
+  - qty: 1
+    name: green plantain
+    raw: 1 green plantain, peeled, cut into thick rounds
+  - qty: 200
+    unit: g
+    name: green beans
+    raw: 200 g green beans, trimmed
+  - name: lime wedges
+    raw: Lime wedges, sliced avocado and warm tortillas to serve

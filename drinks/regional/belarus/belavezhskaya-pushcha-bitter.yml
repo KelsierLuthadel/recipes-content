@@ -1,0 +1,60 @@
+prep: 30 minutes (plus 3 weeks infusing)
+cook: none
+allergens: []
+tags:
+  - vegetarian
+  - dairy-free
+  - gluten-free
+  - quick
+  - lemon
+  - honey
+mentions:
+  - tutorials/cocktails/equipment
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: ml
+    name: clean vodka
+    raw: 700 ml good clean vodka
+  - qty: 2
+    unit: tbsp
+    name: juniper berries
+    raw: 2 tbsp dried juniper berries, lightly cracked
+  - qty: 1
+    unit: tbsp
+    name: pine or fir buds
+    raw: 1 tbsp dried pine or fir buds
+  - qty: 1
+    unit: tsp
+    name: oak bark
+    raw: 1 tsp dried oak bark
+  - qty: 1
+    unit: tsp
+    name: gentian root
+    raw: 1 tsp dried gentian root
+  - qty: 1
+    name: bay leaf
+    raw: 1 dried bay leaf
+  - qty: 4
+    name: apple slices
+    raw: 4 dried apple slices
+  - qty: 1
+    name: long strip of unwaxed lemon peel
+    raw: 1 long strip of unwaxed lemon peel
+  - qty: 4
+    name: black peppercorns
+    raw: 4 black peppercorns
+  - qty: 4
+    name: cloves
+    raw: 4 cloves
+  - qty: 0.25
+    name: /4 tsp ground nutmeg
+    raw: 1/4 tsp ground nutmeg
+  - qty: 1
+    name: bison-grass blade
+    raw: 1 small dried bison-grass blade
+  - qty: 2
+    unit: tbsp
+    name: dark forest honey
+    raw: 2 tbsp dark forest honey

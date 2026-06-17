@@ -1,0 +1,73 @@
+prep: 25 minutes (plus 6 hours chilling)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+  - tutorials/sugar-work/caramel
+ingredients:
+  - qty: 6
+    name: eggs
+    raw: 6 large eggs, at room temperature
+  - qty: 180
+    unit: g
+    name: caster sugar
+    raw: 180 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 180
+    unit: g
+    name: plain flour
+    raw: 180 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 400
+    unit: ml
+    name: evaporated milk
+    raw: 400 ml evaporated milk
+  - qty: 397
+    unit: g
+    name: sweetened condensed milk
+    raw: 397 g sweetened condensed milk
+  - qty: 300
+    unit: ml
+    name: double cream
+    raw: 300 ml double cream
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 60
+    unit: ml
+    name: water
+    raw: 60 ml water
+  - qty: 80
+    unit: ml
+    name: double cream
+    raw: 80 ml double cream
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt

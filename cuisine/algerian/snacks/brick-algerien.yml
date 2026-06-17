@@ -1,0 +1,62 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - eggs
+  - fish
+tags:
+  - dairy-free
+  - spicy
+  - quick
+  - snack
+  - one-pan
+  - fish
+  - eggs
+  - onion
+  - lemon
+mentions:
+  - tutorials/spices/storage
+  - base-ingredients/sauces/harissa
+ingredients:
+  - qty: 8
+    name: sheets warqa pastry or filo
+    raw: 8 sheets warqa pastry or filo
+  - qty: 1
+    name: tuna in olive oil
+    raw: 1 tin tuna in olive oil, drained and flaked
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 2
+    unit: tbsp
+    name: capers
+    raw: 2 tbsp capers, drained and roughly chopped
+  - qty: 1
+    name: flat-leaf parsley
+    raw: 1 small bunch flat-leaf parsley, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tbsp lemon juice
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: 0.5 tsp ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cumin
+    raw: 0.25 tsp ground cumin
+  - qty: 8
+    name: eggs
+    raw: 8 small eggs
+  - qty: 1
+    unit: l
+    name: sunflower oil for shallow frying
+    raw: 1 litre sunflower oil for shallow frying
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, cut in wedges
+  - qty: 2
+    unit: tbsp
+    name: harissa
+    raw: 2 tbsp harissa, to serve

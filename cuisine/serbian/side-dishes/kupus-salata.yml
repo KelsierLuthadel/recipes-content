@@ -1,0 +1,48 @@
+prep: 15 minutes (plus 30 minutes salting)
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - onion
+  - carrot
+  - chili
+mentions:
+  - cuisine/bosnian/bosnian-cevapi
+  - tutorials/spices/storage
+ingredients:
+  - qty: 0.5
+    name: /2 medium white cabbage
+    raw: 1/2 medium white cabbage , core trimmed
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp fine salt
+  - qty: 1
+    name: carrot
+    raw: 1 medium carrot, peeled and coarsely grated
+  - qty: 1
+    name: white onion
+    raw: 1 small white onion, very finely sliced
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tbsp sunflower oil
+  - qty: 3
+    unit: tbsp
+    name: white wine vinegar
+    raw: 3 tbsp white wine vinegar
+  - qty: 0.5
+    name: /2 tsp ground black pepper
+    raw: 1/2 tsp ground black pepper
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 tsp caster sugar
+  - qty: 0.5
+    name: /2 tsp dried chilli flakes
+    raw: 1/2 tsp dried chilli flakes

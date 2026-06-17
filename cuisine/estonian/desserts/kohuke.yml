@@ -1,0 +1,45 @@
+prep: 25 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - dessert
+  - coconut
+  - butter
+  - cream
+  - chocolate
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: farmers' curd
+    raw: 500 g fresh farmers' curd
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, very soft
+  - qty: 100
+    unit: g
+    name: icing sugar
+    raw: 100 g icing sugar
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: double cream
+    raw: 1 tbsp double cream
+  - name: "optional: 50 g raisins"
+    raw: "Optional: 50 g raisins, or 2 tbsp thick jam"
+  - qty: 250
+    unit: g
+    name: dark chocolate
+    raw: 250 g good dark chocolate
+  - qty: 20
+    unit: g
+    name: coconut oil or neutral oil
+    raw: 20 g coconut oil or neutral oil

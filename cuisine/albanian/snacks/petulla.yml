@@ -1,0 +1,66 @@
+prep: 15 minutes (plus 1 hour rising)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+tags:
+  - vegetarian
+  - snack
+  - make-ahead
+  - cheese
+  - yogurt
+  - honey
+  - nuts
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/pizza/toppings
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: plain flour
+    raw: 400 g plain flour
+  - qty: 7
+    unit: g
+    name: instant yeast
+    raw: 7 g instant yeast
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - qty: 600
+    unit: ml
+    name: sunflower oil
+    raw: 600 ml sunflower oil, for frying
+  - qty: 200
+    unit: g
+    name: feta or gjize cheese
+    raw: 200 g feta or gjizë cheese, crumbled
+  - qty: 4
+    unit: tbsp
+    name: honey
+    raw: 4 tbsp honey
+  - qty: 4
+    unit: tbsp
+    name: walnut jam or recel arrash
+    raw: 4 tbsp walnut jam or reçel arrash
+  - qty: 200
+    unit: ml
+    name: plain yoghurt
+    raw: 200 ml plain yoghurt
+  - name: icing sugar
+    raw: Icing sugar, for dusting

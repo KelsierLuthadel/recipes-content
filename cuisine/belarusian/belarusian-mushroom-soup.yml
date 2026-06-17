@@ -1,0 +1,72 @@
+prep: 20 minutes (plus 1 hour soaking)
+cook: 1 hour 15 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - mushroom
+  - onion
+  - potato
+  - carrot
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 40
+    unit: g
+    name: boletus mushrooms
+    raw: 40 g dried boletus mushrooms
+  - qty: 1
+    unit: l
+    name: water
+    raw: 1 litre water
+  - qty: 1.5
+    unit: l
+    name: light vegetable or chicken stock
+    raw: 1.5 litres light vegetable or chicken stock
+  - qty: 100
+    unit: g
+    name: pearl barley
+    raw: 100 g pearl barley
+  - qty: 2
+    unit: tbsp
+    name: butter or sunflower oil
+    raw: 2 tbsp butter or sunflower oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 1
+    name: carrot
+    raw: 1 large carrot, diced
+  - qty: 1
+    name: parsnip
+    raw: 1 small parsnip, diced
+  - qty: 2
+    name: floury potatoes
+    raw: 2 medium floury potatoes, peeled and cubed
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 3
+    name: allspice berries
+    raw: 3 allspice berries
+  - name: salt
+    raw: Salt
+  - qty: 200
+    unit: ml
+    name: smetana
+    raw: 200 ml smetana
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, chopped
+  - name: dark rye bread
+    raw: Dark rye bread

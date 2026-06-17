@@ -23,7 +23,7 @@ Texas chili (also called chili con carne or "bowl o' red") is the official state
 
 ### Dried chillies (the traditional Texas base)
 - 6 dried ancho chillies (stems and seeds removed)
-- 4 dried guajillo chillies (stems and seeds removed)
+- 4 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)
 - 2 dried chipotle peppers (or 2 chipotles in adobo)
 - 2 dried chiles de árbol (for heat; optional)
 - 600 ml hot water (for soaking)

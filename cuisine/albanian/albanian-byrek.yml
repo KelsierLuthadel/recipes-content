@@ -1,0 +1,68 @@
+prep: 30 minutes
+cook: 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - meals
+  - eggs
+  - onion
+  - spinach
+  - butter
+  - cheese
+  - yogurt
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: spinach
+    raw: 500 g fresh spinach
+  - qty: 2
+    name: leeks
+    raw: 2 leeks, white and pale green parts, finely sliced
+  - qty: 1
+    name: onion
+    raw: 1 medium onion, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 300
+    unit: g
+    name: feta cheese
+    raw: 300 g feta cheese, crumbled
+  - qty: 200
+    unit: g
+    name: gjize
+    raw: 200 g gjizë, ricotta or cottage cheese
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of dill, chopped
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley, chopped
+  - name: salt and freshly ground black pepper
+    raw: Salt and freshly ground black pepper
+  - qty: 12
+    name: sheets thin filo pastry
+    raw: 12 sheets thin filo pastry
+  - qty: 150
+    unit: g
+    name: butter
+    raw: 150 g butter, melted
+  - qty: 1
+    name: egg yolk and 2 tbsp yoghurt
+    raw: 1 egg yolk and 2 tbsp yoghurt
+  - qty: 1
+    unit: tsp
+    name: sesame or nigella seeds
+    raw: 1 tsp sesame or nigella seeds

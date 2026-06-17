@@ -1,0 +1,52 @@
+prep: 5 minutes
+cook: None
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - make-ahead
+  - coconut
+  - cream
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 200
+    unit: ml
+    name: milk
+    raw: 200 ml whole milk
+  - qty: 100
+    unit: ml
+    name: sweetened condensed milk
+    raw: 100 ml sweetened condensed milk
+  - qty: 100
+    unit: ml
+    name: double cream
+    raw: 100 ml double cream
+  - qty: 60
+    unit: ml
+    name: dark rum
+    raw: 60 ml dark rum
+  - qty: 1
+    unit: tsp
+    name: fresh-grated nutmeg
+    raw: 1 tsp fresh-grated nutmeg, plus extra for the top
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: 0.5 tsp ground cinnamon
+  - qty: 0.5
+    unit: tsp
+    name: vanilla extract
+    raw: 0.5 tsp vanilla extract
+  - qty: 1
+    unit: tsp
+    name: angostura bitters
+    raw: 1 tsp Angostura bitters
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - name: plenty of ice
+    raw: Plenty of ice

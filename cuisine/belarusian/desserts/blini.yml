@@ -1,0 +1,70 @@
+prep: 20 minutes (plus 2 hours rise)
+cook: 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - butter
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 7
+    unit: g
+    name: fast-action dried yeast
+    raw: 7 g fast-action dried yeast
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 100
+    unit: g
+    name: buckwheat flour
+    raw: 100 g buckwheat flour
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter
+  - qty: 50
+    unit: ml
+    name: soured cream
+    raw: 50 ml soured cream
+  - qty: 200
+    unit: ml
+    name: soured cream
+    raw: 200 ml soured cream
+  - qty: 4
+    unit: tbsp
+    name: cherry jam
+    raw: 4 tablespoons cherry jam
+  - qty: 2
+    unit: tbsp
+    name: clear honey
+    raw: 2 tablespoons clear honey
+  - qty: 1
+    name: bowl of fresh berries
+    raw: 1 small bowl of fresh berries
+  - name: powdered sugar
+    raw: Powdered sugar

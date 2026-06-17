@@ -1,0 +1,66 @@
+prep: 30 minutes
+cook: 15 minutes
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - pork
+  - lamb
+  - onion
+  - lemon
+mentions:
+  - cuisine/cypriot/side-dishes/grilled-halloumi
+  - cuisine/cypriot/side-dishes/pourgouri
+  - cuisine/cypriot/side-dishes/talattouri
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 350
+    unit: g
+    name: lamb shoulder mince
+    raw: 350 g lamb shoulder mince
+  - qty: 350
+    unit: g
+    name: pork shoulder mince
+    raw: 350 g pork shoulder mince
+  - qty: 1
+    name: onion
+    raw: 1 onion
+  - qty: 30
+    unit: g
+    name: flat-leaf parsley
+    raw: 30 g flat-leaf parsley
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 ½ teaspoons salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon ground black pepper
+  - qty: 0.25
+    unit: tsp
+    name: cinnamon
+    raw: ¼ teaspoon ground cinnamon
+  - qty: 200
+    unit: g
+    name: caul fat
+    raw: 200 g caul fat
+  - qty: 4
+    name: pita pockets
+    raw: 4 thick pita pockets
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of chopped parsley
+  - qty: 1
+    name: lemon
+    raw: 1 lemon
+  - name: talattouri
+    raw: Talattouri

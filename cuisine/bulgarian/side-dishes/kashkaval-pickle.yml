@@ -1,0 +1,54 @@
+prep: 15 minutes
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - garlic
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - garlic
+  - lemon
+  - butter
+  - cheese
+mentions:
+  - cuisine/bulgarian/side-dishes/lyutenitsa
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: kashkaval cheese
+    raw: 400 g kashkaval cheese
+  - qty: 60
+    unit: g
+    name: plain flour
+    raw: 60 g plain flour
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs, beaten with a fork
+  - qty: 80
+    unit: g
+    name: breadcrumbs
+    raw: 80 g fine dried breadcrumbs
+  - qty: 3
+    unit: tbsp
+    name: sunflower oil
+    raw: 3 tbsp sunflower oil, for frying
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, finely chopped or crushed
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: Small handful flat-leaf parsley, chopped
+  - name: black pepper
+    raw: Black pepper
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

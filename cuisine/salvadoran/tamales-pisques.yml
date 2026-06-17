@@ -1,0 +1,63 @@
+prep: 1 hour
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - meals
+  - lentils
+  - onion
+  - garlic
+  - complex
+mentions:
+  - cuisine/mexican/side-dishes/elote
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: brown or puy lentils
+    raw: 250 g brown or Puy lentils
+  - qty: 800
+    unit: ml
+    name: water
+    raw: 800 ml water
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: onion
+    raw: 1 small onion, halved
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, smashed
+  - qty: 500
+    unit: g
+    name: masa harina
+    raw: 500 g masa harina
+  - qty: 80
+    unit: g
+    name: lard or vegetable shortening
+    raw: 80 g lard or vegetable shortening, soft
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 tsp fine sea salt
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 0.5
+    name: /2 tsp dried oregano
+    raw: 1/2 tsp dried oregano
+  - qty: 450
+    unit: ml
+    name: water
+    raw: 400-500 ml warm water
+  - qty: 8
+    name: plantain leaf
+    raw: 8 large pieces of plantain leaf , defrosted if frozen
+  - name: kitchen string or torn leaf strips for tying
+    raw: Kitchen string or torn leaf strips for tying

@@ -1,0 +1,89 @@
+prep: 20 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - celery
+tags:
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - onion
+  - carrot
+  - lemon
+  - butter
+  - yogurt
+  - complex
+mentions:
+  - cuisine/bosnian/side-dishes/sogan-dolma
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken , jointed
+  - qty: 3
+    name: carrots
+    raw: 3 carrots, scrubbed and roughly chopped
+  - qty: 1
+    name: parsnip
+    raw: 1 parsnip, peeled and chopped
+  - qty: 1
+    name: celeriac
+    raw: 1 small celeriac , peeled and chopped
+  - qty: 1
+    name: onion
+    raw: 1 large onion, peeled and halved
+  - qty: 1
+    name: leek
+    raw: 1 leek, washed and chopped
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 6
+    name: black peppercorns
+    raw: 6 black peppercorns
+  - qty: 1
+    name: parsley stalks
+    raw: 1 small bunch parsley stalks
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 50
+    unit: g
+    name: okra pods ; soaked in warm water 30 minutes
+    raw: 50 g dried okra pods ; soaked in warm water 30 minutes
+  - qty: 60
+    unit: g
+    name: unsalted butter
+    raw: 60 g unsalted butter
+  - qty: 40
+    unit: g
+    name: plain flour
+    raw: 40 g plain flour
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - qty: 200
+    unit: ml
+    name: soured cream
+    raw: 200 ml soured cream
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - qty: 1
+    unit: handful
+    name: parsley
+    raw: A handful of chopped fresh parsley
+  - name: salt and freshly ground white pepper
+    raw: Salt and freshly ground white pepper to taste

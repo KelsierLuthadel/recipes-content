@@ -1,0 +1,56 @@
+prep: 30 minutes (plus 1 hour chilling)
+cook: 12 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - eggs
+  - potato
+  - lemon
+  - cream
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: veal escalopes
+    raw: 4 thick veal escalopes
+  - qty: 200
+    unit: g
+    name: cold firm kajmak
+    raw: 200 g cold firm kajmak
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 0.5
+    name: /2 tsp ground white pepper
+    raw: 1/2 tsp ground white pepper
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 3
+    name: eggs
+    raw: 3 large eggs, beaten with 1 tbsp milk
+  - qty: 200
+    unit: g
+    name: breadcrumbs
+    raw: 200 g fine dried breadcrumbs
+  - name: sunflower oil
+    raw: Sunflower oil, for deep-frying
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, quartered
+  - name: tartare sauce
+    raw: Tartare sauce
+  - name: roast potatoes or chips
+    raw: Roast potatoes or chips

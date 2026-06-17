@@ -1,0 +1,61 @@
+prep: 45 minutes
+cook: 2 hours
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - sides
+  - garlic
+  - tomato
+  - chili
+  - complex
+mentions:
+  - cuisine/bulgarian/kavarma
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: fleshy red bell peppers
+    raw: 2 kg fleshy red bell peppers
+  - qty: 600
+    unit: g
+    name: aubergine
+    raw: 600 g aubergine
+  - qty: 500
+    unit: g
+    name: tomatoes
+    raw: 500 g ripe tomatoes
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, finely chopped
+  - qty: 150
+    unit: ml
+    name: sunflower oil
+    raw: 150 ml sunflower oil
+  - qty: 2
+    unit: tbsp
+    name: red wine vinegar
+    raw: 2 tbsp red wine vinegar
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tbsp caster sugar
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tbsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 tsp sweet paprika
+  - qty: 0.5
+    name: /2 to 1 tsp hot paprika or chilli flakes
+    raw: 1/2 to 1 tsp hot paprika or chilli flakes
+  - qty: 1
+    unit: tsp
+    name: savory or oregano
+    raw: 1 tsp dried savory or oregano

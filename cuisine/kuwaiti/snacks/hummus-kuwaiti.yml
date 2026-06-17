@@ -1,0 +1,73 @@
+prep: 10 minutes (plus chickpea soak)
+cook: 1 hour
+allergens:
+  - tree-nuts
+  - sesame
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - garlic
+  - lemon
+  - chickpea
+  - nuts
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: chickpeas
+    raw: 250 g dried chickpeas
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 tsp bicarbonate of soda
+  - qty: 4
+    unit: tbsp
+    name: tahini
+    raw: 4 tbsp tahini
+  - name: juice of 2 lemons
+    raw: Juice of 2 lemons
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, crushed
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 100
+    unit: ml
+    name: ice-cold water
+    raw: 100 ml ice-cold water
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: chilli flakes
+    raw: 1 tsp dried chilli flakes
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 0.5
+    name: /2 tsp paprika
+    raw: 1/2 tsp paprika
+  - name: reserved 3 tbsp whole cooked chickpeas
+    raw: Reserved 3 tbsp whole cooked chickpeas
+  - qty: 1
+    unit: tbsp
+    name: parsley
+    raw: 1 tbsp chopped parsley
+  - qty: 1
+    unit: tbsp
+    name: pine nuts
+    raw: 1 tbsp pine nuts

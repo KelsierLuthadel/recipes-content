@@ -1,0 +1,68 @@
+prep: 30 minutes
+cook: 20 minutes
+allergens:
+  - dairy
+  - eggs
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - sides
+  - eggs
+  - onion
+  - potato
+  - cream
+mentions:
+  - cuisine/latvian/karbonade
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 800
+    unit: g
+    name: waxy potatoes
+    raw: 800 g waxy potatoes
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 large hard-boiled eggs
+  - qty: 5
+    name: dill cucumbers
+    raw: 5 dill cucumbers , diced
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, very finely chopped
+  - qty: 1
+    name: dill
+    raw: A small bunch of fresh dill, finely chopped
+  - qty: 200
+    unit: g
+    name: sour cream
+    raw: 200 g thick sour cream
+  - qty: 50
+    unit: g
+    name: mayonnaise
+    raw: 50 g mayonnaise
+  - qty: 2
+    unit: tsp
+    name: dijon mustard
+    raw: 2 teaspoons Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: vinegar
+    raw: 1 tablespoon vinegar
+  - qty: 1
+    unit: tsp
+    name: caster sugar
+    raw: 1 teaspoon caster sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - name: dill
+    raw: Extra dill
+  - name: cucumber slices
+    raw: A few cucumber slices
+  - name: sweet paprika for dusting
+    raw: Sweet paprika for dusting

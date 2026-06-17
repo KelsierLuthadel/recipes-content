@@ -28,7 +28,7 @@ A weekend chilli con carne that lives in the oven. The flavour is built in three
 ### Chilli Paste
 - 2 ancho dried chillies
 - 2 arbol dried chillies
-- 6 guajillo dried chillies
+- 6 guajillo (Mexican dried red chilli, mild and sweet-tangy) dried chillies
 - 4 pasilla dried chillies
 - 5-6 garlic cloves
 

@@ -1,0 +1,81 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - garlic
+  - tomato
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: tbsp
+    name: fenugreek seeds
+    raw: 2 tbsp fenugreek seeds
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes , grated or finely chopped
+  - qty: 2
+    unit: tbsp
+    name: tomato paste
+    raw: 2 tbsp tomato paste
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, crushed
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: hot paprika or chilli powder
+    raw: 1 tsp hot paprika or chilli powder
+  - qty: 1
+    unit: tsp
+    name: caraway
+    raw: 1 tsp ground caraway
+  - qty: 0.5
+    name: /2 tsp ground cumin
+    raw: 1/2 tsp ground cumin
+  - qty: 3
+    unit: tbsp
+    name: olive oil
+    raw: 3 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 250
+    unit: g
+    name: semolina
+    raw: 250 g fine semolina
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml water
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp fine salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil, plus extra to serve

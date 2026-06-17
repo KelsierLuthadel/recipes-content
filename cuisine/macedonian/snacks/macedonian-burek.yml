@@ -16,7 +16,8 @@ tags:
   - yogurt
   - chili
   - complex
-mentions: []
+mentions:
+  - cuisine/bulgarian/desserts/tikvenik
 ingredients:
   - qty: 500
     unit: g

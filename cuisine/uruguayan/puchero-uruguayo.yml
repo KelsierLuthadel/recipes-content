@@ -1,0 +1,86 @@
+prep: 30 minutes (plus overnight soak)
+cook: 3 hours
+allergens:
+  - gluten
+  - meat
+  - mustard
+tags:
+  - dairy-free
+  - make-ahead
+  - one-pan
+  - meals
+  - meat
+  - beef
+  - pork
+  - onion
+  - potato
+  - carrot
+  - chickpea
+  - complex
+mentions:
+  - cuisine/argentinian/side-dishes/chimichurri
+  - tutorials/bbq/brisket
+  - tutorials/charcuterie/sausages
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: beef shin or brisket
+    raw: 1 kg beef shin or brisket, in 4 pieces
+  - qty: 2
+    name: marrow bones
+    raw: 2 large marrow bones
+  - qty: 4
+    name: chorizos criollos
+    raw: 4 chorizos criollos
+  - qty: 250
+    unit: g
+    name: chickpeas
+    raw: 250 g dried chickpeas, soaked overnight in cold water
+  - qty: 2
+    name: onions
+    raw: 2 large onions, halved
+  - qty: 2
+    name: leeks
+    raw: 2 leeks, halved and rinsed
+  - qty: 4
+    name: bay leaves
+    raw: 4 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: black peppercorns
+    raw: 1 tbsp black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp coarse salt
+  - qty: 4
+    unit: l
+    name: water
+    raw: 4 litres cold water
+  - qty: 6
+    name: potatoes
+    raw: 6 medium potatoes, peeled, halved if large
+  - qty: 4
+    name: carrots
+    raw: 4 large carrots, peeled, halved lengthways
+  - qty: 1
+    name: green or savoy cabbage
+    raw: 1 small green or savoy cabbage, cut into 6 wedges through the core
+  - qty: 600
+    unit: g
+    name: butternut or kabocha squash
+    raw: 600 g butternut or kabocha squash, peeled, in big chunks
+  - qty: 3
+    name: corn on the cob
+    raw: 3 corn on the cob, halved across
+  - name: hot cooked rice or short pasta
+    raw: Hot cooked rice or short pasta
+  - name: chimichurri
+    raw: Chimichurri
+  - name: bowl of coarse sea salt
+    raw: A bowl of coarse sea salt
+  - name: crusty bread
+    raw: Crusty bread, toasted, for the marrow
+  - name: mustard
+    raw: Mustard

@@ -1,0 +1,5 @@
+# Lithuanian Cuisine
+
+![Lithuanian Cuisine](resources/hero.jpg)
+
+Lithuanian cooking is a cuisine built around the potato, with locals claiming over fifty traditional dishes constructed from this single tuber, from the zeppelin-shaped cepelinai stuffed with pork to the slow-baked kugelis pudding and the curd-filled Samogitian pancakes. Dairy runs through everything: curd cheese (varškė), thick sour cream, and tangy kefir poured over cold beet soup in the heat of summer to make the famously bright-pink šaltibarščiai. The forests and bogs of the Baltic deliver wild mushrooms, lingonberries, cranberries and dark rye, the staple grain. The Polish-Lithuanian Commonwealth left behind kibinai (the Karaim half-moon pastries with lamb), pierogi-cousins and a love of caraway-rich rye bread. Pork, smoked or fresh, anchors the meat tradition; vedarai, the potato-stuffed sausage roasted in bacon fat, is the cold-weather centrepiece. Tree cakes (šakotis) tower at every wedding, doughnuts and twig-pastries appear at every festival, and a small glass of honey-spiced krupnikas closes the meal.

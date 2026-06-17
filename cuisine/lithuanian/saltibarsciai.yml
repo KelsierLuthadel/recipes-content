@@ -1,0 +1,73 @@
+prep: 20 minutes (plus beet cooking)
+cook: 10 minutes (for potatoes)
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - quick
+  - meals
+  - eggs
+  - onion
+  - potato
+  - lemon
+  - butter
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: l
+    name: kefir
+    raw: 1 litre kefir
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 400
+    unit: g
+    name: beets
+    raw: 400 g cooked beets , coarsely grated
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber, finely diced
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs, peeled
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, thinly sliced
+  - qty: 1
+    unit: large handful
+    name: dill
+    raw: 1 large handful fresh dill, chopped
+  - qty: 1
+    unit: tbsp
+    name: lemon juice or white-wine vinegar
+    raw: 1 tbsp lemon juice or white-wine vinegar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp white pepper
+    raw: 1/2 tsp white pepper
+  - name: ice cubes
+    raw: Ice cubes, to serve
+  - qty: 600
+    unit: g
+    name: new potatoes
+    raw: 600 g small new potatoes, scrubbed
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter
+  - qty: 2
+    unit: tbsp
+    name: dill
+    raw: 2 tbsp chopped dill

@@ -1,0 +1,44 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens:
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - spicy
+  - quick
+  - sides
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+mentions:
+  - cuisine/bolivian/saltenas
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes , quartered
+  - qty: 2
+    name: locoto chillies
+    raw: 2 locoto chillies , stems removed
+  - qty: 1
+    name: quirquina
+    raw: 1 small bunch quirquiña , about 20 g
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, white and pale green parts only
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    name: garlic
+    raw: 1 small clove garlic
+  - qty: 1
+    unit: tsp
+    name: huacatay paste
+    raw: 1 tsp huacatay paste

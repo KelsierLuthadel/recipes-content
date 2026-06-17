@@ -23,7 +23,7 @@ Chilorio is the iconic Sinaloan slow-cooked spiced pork and a beloved Northern M
 ### Dried chillies
 - 6 dried ancho chillies (stems and seeds removed)
 - 4 dried pasilla chillies (stems and seeds removed)
-- 2 dried guajillo chillies (optional; for extra colour)
+- 2 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; optional; for extra colour)
 - 500 ml hot water (for soaking)
 
 ### Cooking

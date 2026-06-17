@@ -1,0 +1,110 @@
+prep: 45 minutes (plus 1 hour resting)
+cook: 45 minutes
+allergens:
+  - gluten
+  - garlic
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - spicy
+  - meals
+  - onion
+  - garlic
+  - ginger
+  - potato
+  - coriander
+  - chickpea
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/Breads/rotis
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 2
+    unit: tsp
+    name: baking powder
+    raw: 2 tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tbsp
+    name: vegetable oil
+    raw: 1 tbsp vegetable oil
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml warm water
+  - qty: 200
+    unit: g
+    name: yellow split peas
+    raw: 200 g yellow split peas, soaked 2 hours then drained
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, crushed
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: turmeric
+    raw: 0.5 tsp turmeric
+  - qty: 3
+    unit: tbsp
+    name: vegetable oil
+    raw: 3 tbsp vegetable oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 1
+    name: ginger
+    raw: 1 thumb ginger, grated
+  - qty: 3
+    unit: tbsp
+    name: caribbean curry powder
+    raw: 3 tbsp Caribbean curry powder
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, finely chopped
+  - qty: 2
+    name: chickpeas
+    raw: 2 tins chickpeas , drained
+  - qty: 500
+    unit: g
+    name: waxy potatoes
+    raw: 500 g waxy potatoes, peeled, cubed
+  - qty: 400
+    unit: ml
+    name: water
+    raw: 400 ml water
+  - qty: 2
+    unit: tbsp
+    name: chadon beni or coriander
+    raw: 2 tbsp chadon beni or coriander, chopped
+  - name: salt
+    raw: Salt to taste

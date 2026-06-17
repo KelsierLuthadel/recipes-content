@@ -36,12 +36,12 @@ Saudi Arabia's national dish, the one platter you'll meet at almost every gather
 - 1.2 litres hot water
 
 ### Rice
-- 600 g basmati rice (rinsed, soaked 30 min)
+- 600 g basmati rice (rinsed, then soaked 30 min in cold water; drain before use)
 
 ### Topping
 - 50 g flaked almonds
 - 30 g pine nuts
-- 50 g raisins (soaked 10 min)
+- 50 g raisins (soaked 10 min in warm water; drain before use)
 - 30 g unsalted butter
 
 ### Daqqus (salsa) - to serve

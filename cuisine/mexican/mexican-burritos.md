@@ -19,7 +19,7 @@ The original burrito is a Northern Mexican working-lunch dish from the late 19th
 - 1 kg beef chuck or pork shoulder, cut into 3 cm cubes
 - 2 onions, finely chopped
 - 4 garlic cloves, crushed
-- 4 dried guajillo chiles, toasted and rehydrated
+- 4 dried guajillo chiles (Mexican dried red chilli, mild and sweet-tangy), toasted and rehydrated
 - 2 dried ancho chiles, toasted and rehydrated
 - 1 tin (400 g) chopped tomatoes
 - 2 tsp ground cumin

@@ -1,0 +1,56 @@
+prep: Overnight soak plus 15 minutes
+cook: 1 hour 45 minutes
+allergens:
+  - dairy
+  - meat
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - butter
+  - complex
+mentions:
+  - cuisine/latvian/rasols
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: grey peas
+    raw: 400 g dried grey peas
+  - qty: 2
+    unit: l
+    name: water for soaking
+    raw: 2 litres cold water for soaking
+  - qty: 1
+    name: onion
+    raw: 1 onion, peeled and halved
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 teaspoon salt
+  - qty: 300
+    unit: g
+    name: smoked pork belly
+    raw: 300 g smoked pork belly , rind off, cubed 1 cm
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - name: black pepper
+    raw: Black pepper, freshly ground
+  - name: salt
+    raw: Salt to taste
+  - qty: 500
+    unit: ml
+    name: cold kefir or buttermilk
+    raw: 500 ml cold kefir or buttermilk
+  - name: rupjmaize
+    raw: Rupjmaize, sliced
+  - name: salted butter
+    raw: Salted butter

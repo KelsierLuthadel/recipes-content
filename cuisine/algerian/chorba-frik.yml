@@ -1,0 +1,82 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - meat
+  - celery
+tags:
+  - dairy-free
+  - make-ahead
+  - meals
+  - meat
+  - onion
+  - tomato
+  - lemon
+  - coriander
+  - chickpea
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: lamb shoulder or neck on the bone
+    raw: 400 g lamb shoulder or neck on the bone, cut into 2 cm cubes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 2
+    name: celery with leaves
+    raw: 2 stalks celery with leaves, finely chopped
+  - qty: 3
+    unit: tbsp
+    name: tomato paste
+    raw: 3 tbsp tomato paste
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes, grated
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 0.5
+    unit: tsp
+    name: caraway
+    raw: 0.5 tsp ground caraway
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 1
+    name: coriander
+    raw: 1 small bunch fresh coriander, finely chopped
+  - qty: 1
+    name: mint
+    raw: 1 small bunch fresh mint, leaves only, finely chopped
+  - qty: 100
+    unit: g
+    name: chickpeas
+    raw: 100 g cooked chickpeas
+  - qty: 100
+    unit: g
+    name: frik ; rinse twice in cold water
+    raw: 100 g frik ; rinse twice in cold water
+  - qty: 2
+    unit: l
+    name: water or light lamb stock
+    raw: 2 litres water or light lamb stock
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 1
+    name: lemon
+    raw: 1 lemon, cut into wedges, to serve

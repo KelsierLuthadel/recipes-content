@@ -1,0 +1,106 @@
+prep: 30 minutes (plus chicha fermentation if making your own)
+cook: 2 hours 30 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - complex
+mentions:
+  - cuisine/salvadoran/side-dishes/curtido
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: rooster or capon
+    raw: 1 large rooster or capon , jointed into 8 pieces
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 tsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 2
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 2 tbsp lard or vegetable oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, sliced
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, sliced
+  - qty: 2
+    name: tomatoes
+    raw: 2 large tomatoes, chopped
+  - qty: 1
+    name: green pepper
+    raw: 1 green pepper, sliced
+  - qty: 750
+    unit: ml
+    name: chicha
+    raw: 750 ml chicha
+  - qty: 200
+    unit: ml
+    name: chicken stock
+    raw: 200 ml chicken stock
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 4
+    name: allspice berries
+    raw: 4 allspice berries
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 100
+    unit: g
+    name: pitted prunes
+    raw: 100 g pitted prunes
+  - qty: 60
+    unit: g
+    name: raisins
+    raw: 60 g raisins
+  - qty: 200
+    unit: g
+    name: pineapple
+    raw: 200 g fresh pineapple, cut into 2 cm pieces
+  - qty: 1
+    unit: tbsp
+    name: panela or dark brown sugar
+    raw: 1 tbsp panela or dark brown sugar
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - qty: 400
+    unit: ml
+    name: dark rum
+    raw: 400 ml dark rum
+  - qty: 250
+    unit: ml
+    name: apple juice
+    raw: 250 ml apple juice
+  - qty: 100
+    unit: g
+    name: panela
+    raw: 100 g panela
+  - qty: 2
+    unit: tbsp
+    name: white wine vinegar
+    raw: 2 tbsp white wine vinegar
+  - name: stir together
+    raw: Stir together, leave overnight loosely covered

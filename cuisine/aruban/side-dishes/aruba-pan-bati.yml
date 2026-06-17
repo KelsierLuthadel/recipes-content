@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 18 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - quick
+  - sides
+  - eggs
+  - coconut
+  - butter
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 150
+    unit: g
+    name: yellow cornmeal
+    raw: 150 g fine yellow cornmeal
+  - qty: 150
+    unit: g
+    name: plain flour
+    raw: 150 g plain flour
+  - qty: 2
+    unit: tbsp
+    name: sugar
+    raw: 2 tbsp sugar
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 300
+    unit: ml
+    name: milk
+    raw: 300 ml whole milk
+  - qty: 1
+    name: egg
+    raw: 1 egg
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter, melted
+  - name: sunflower oil or butter
+    raw: Sunflower oil or butter for the pan

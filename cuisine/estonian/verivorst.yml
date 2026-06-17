@@ -1,0 +1,91 @@
+prep: 20 minutes
+cook: 1 hour
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - butter
+  - cream
+  - complex
+mentions:
+  - cuisine/estonian/mulgipuder
+  - tutorials/charcuterie/sausages
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork blood
+    raw: 500 g pork blood
+  - qty: 200
+    unit: g
+    name: pearl barley
+    raw: 200 g pearl barley
+  - qty: 150
+    unit: g
+    name: pork back fat or fatty pork belly
+    raw: 150 g pork back fat or fatty pork belly, finely diced
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 2
+    unit: tsp
+    name: marjoram
+    raw: 2 tsp dried marjoram
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 tsp ground allspice
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 1.5
+    name: natural hog casings
+    raw: 1.5 m natural hog casings, rinsed
+  - qty: 30
+    unit: g
+    name: butter
+    raw: 30 g butter, for pan-frying
+  - qty: 200
+    unit: g
+    name: pearl barley
+    raw: 200 g pearl barley
+  - qty: 800
+    unit: g
+    name: floury potatoes
+    raw: 800 g floury potatoes, peeled and cut into chunks
+  - qty: 500
+    unit: ml
+    name: milk
+    raw: 500 ml whole milk
+  - qty: 50
+    unit: g
+    name: butter
+    raw: 50 g butter
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - name: lingonberry jam
+    raw: Lingonberry jam
+  - name: sour cream
+    raw: Sour cream
+  - name: pickled pumpkin or pickled cucumbers
+    raw: Pickled pumpkin or pickled cucumbers

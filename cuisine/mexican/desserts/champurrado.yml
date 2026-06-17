@@ -10,9 +10,9 @@ tags:
   - chocolate
   - day-of-the-dead
 mentions:
-  - cuisine/mexican/desserts/atole
   - cuisine/mexican/desserts/pan-de-muerto
   - cuisine/scottish/snacks/tablet
+  - drinks/regional/mexico/atole
 ingredients:
   - qty: 60
     unit: g

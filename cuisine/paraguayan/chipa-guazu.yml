@@ -1,0 +1,51 @@
+prep: 25 minutes
+cook: 55 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - meals
+  - eggs
+  - onion
+  - butter
+  - cheese
+mentions:
+  - cuisine/indian/side-dishes/onion-salad
+  - cuisine/paraguayan/side-dishes/chipa-paraguay
+  - cuisine/paraguayan/sopa-paraguaya
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: white corn kernels
+    raw: 1 kg fresh white corn kernels
+  - qty: 3
+    name: onions
+    raw: 3 medium onions, finely chopped
+  - qty: 4
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 4 tbsp lard or vegetable oil
+  - qty: 6
+    name: eggs
+    raw: 6 eggs
+  - qty: 250
+    unit: ml
+    name: milk
+    raw: 250 ml whole milk
+  - qty: 300
+    unit: g
+    name: queso paraguay or young feta
+    raw: 300 g queso paraguay or young feta, crumbled
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - qty: 50
+    unit: g
+    name: unsalted butter
+    raw: 50 g unsalted butter, melted

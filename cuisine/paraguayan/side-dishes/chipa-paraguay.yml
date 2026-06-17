@@ -1,0 +1,48 @@
+prep: 25 minutes
+cook: 25 minutes
+allergens:
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - eggs
+  - butter
+  - cheese
+mentions:
+  - cuisine/paraguayan/vori-vori
+  - cuisine/south-american/pao-de-queijo
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: sour cassava starch . sweet cassava starch works but the rise is gentler
+    raw: 500 g sour cassava starch . Sweet cassava starch works but the rise is gentler
+  - qty: 300
+    unit: g
+    name: queso paraguay or young feta
+    raw: 300 g queso paraguay or young feta, finely crumbled
+  - qty: 100
+    unit: g
+    name: hard cheese
+    raw: 100 g hard cheese, finely grated
+  - qty: 150
+    unit: g
+    name: lard
+    raw: 150 g lard, soft
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 150
+    unit: ml
+    name: milk
+    raw: 150 ml whole milk, warm
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 0.5
+    name: /2 tsp anise seeds
+    raw: 1/2 tsp anise seeds, lightly toasted and crushed

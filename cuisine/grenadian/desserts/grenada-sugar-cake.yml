@@ -1,0 +1,51 @@
+prep: 10 minutes
+cook: 20 minutes
+allergens:
+  - gluten
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - quick
+  - dessert
+  - ginger
+  - coconut
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: coconut
+    raw: 400 g freshly grated coconut
+  - qty: 400
+    unit: g
+    name: soft dark brown sugar
+    raw: 400 g soft dark brown sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    name: ginger
+    raw: 1 thumb fresh ginger, sliced into coins
+  - qty: 0.5
+    unit: tsp
+    name: fresh-grated nutmeg
+    raw: 0.5 tsp fresh-grated nutmeg
+  - qty: 0.5
+    unit: tsp
+    name: cinnamon
+    raw: 0.5 tsp ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: A pinch of salt
+  - qty: 2
+    unit: drop
+    name: cochineal or red food colouring
+    raw: 2 drops cochineal or red food colouring

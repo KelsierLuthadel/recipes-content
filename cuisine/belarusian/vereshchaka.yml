@@ -1,0 +1,79 @@
+prep: 20 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - meat
+tags:
+  - dairy-free
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - honey
+  - complex
+mentions:
+  - cuisine/belarusian/draniki
+  - tutorials/bbq/ribs
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: pork ribs
+    raw: 700 g pork ribs
+  - qty: 400
+    unit: g
+    name: smoked country pork sausage
+    raw: 400 g smoked country pork sausage
+  - qty: 3
+    name: onions
+    raw: 3 large onions, sliced
+  - qty: 3
+    unit: tbsp
+    name: pork lard or sunflower oil
+    raw: 3 tbsp pork lard or sunflower oil
+  - qty: 150
+    unit: g
+    name: pitted prunes
+    raw: 150 g pitted prunes
+  - qty: 300
+    unit: ml
+    name: dark beer
+    raw: 300 ml dark beer
+  - qty: 500
+    unit: ml
+    name: beef or pork stock
+    raw: 500 ml beef or pork stock
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 8
+    name: black peppercorns
+    raw: 8 black peppercorns
+  - qty: 4
+    name: allspice berries
+    raw: 4 allspice berries
+  - qty: 1
+    unit: tsp
+    name: marjoram
+    raw: 1 tsp dried marjoram
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tbsp honey
+  - qty: 2
+    unit: tbsp
+    name: dark vinegar or kvass
+    raw: 2 tbsp dark vinegar or kvass
+  - qty: 100
+    unit: g
+    name: dense dark rye bread
+    raw: 100 g dense dark rye bread , torn into rough pieces
+  - name: salt
+    raw: Salt
+  - name: boiled new potatoes
+    raw: Boiled new potatoes, draniki, or extra dark rye bread
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: A small handful of fresh dill, chopped

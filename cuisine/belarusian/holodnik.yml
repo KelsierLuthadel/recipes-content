@@ -1,0 +1,97 @@
+prep: 25 minutes (plus 1 hour chill)
+cook: 35 minutes (beet + potatoes)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - fish
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - fish
+  - beef
+  - pork
+  - salmon
+  - eggs
+  - onion
+  - potato
+  - lemon
+  - butter
+  - cream
+  - yogurt
+  - complex
+mentions:
+  - cuisine/belarusian/vereshchaka
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: beetroots
+    raw: 4 medium beetroots
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tablespoon white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 700
+    unit: ml
+    name: cold kefir
+    raw: 700 ml cold kefir
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml cold water
+  - qty: 1
+    name: cucumber
+    raw: 1 large cucumber
+  - qty: 6
+    name: radishes
+    raw: 6 small radishes
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions
+  - qty: 1
+    name: dill
+    raw: 1 small bunch fresh dill
+  - qty: 4
+    name: hard-boiled eggs
+    raw: 4 hard-boiled eggs
+  - qty: 1.5
+    unit: tsp
+    name: sea salt
+    raw: 1 1/2 teaspoons fine sea salt
+  - qty: 0.5
+    name: /2 teaspoon coarsely cracked black pepper
+    raw: 1/2 teaspoon coarsely cracked black pepper
+  - qty: 1
+    unit: small pinch
+    name: caster sugar
+    raw: 1 small pinch caster sugar
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon fresh lemon juice
+  - qty: 4
+    name: floury potatoes
+    raw: 4 medium floury potatoes
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: small knob
+    name: butter
+    raw: 1 small knob butter
+  - name: bowl of sour cream
+    raw: A small bowl of sour cream
+  - name: dill
+    raw: Extra dill sprigs
+  - name: dark rye bread per person
+    raw: A wedge of dark rye bread per person
+  - name: "optional: chopped cooked beef ham or smoked salmon"
+    raw: "Optional: chopped cooked beef ham or smoked salmon"

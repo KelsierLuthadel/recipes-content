@@ -1,0 +1,67 @@
+prep: 1 hour (plus 30 minutes resting)
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - meat
+  - eggs
+  - onion
+  - butter
+  - cream
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: plain flour
+    raw: 500 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 200
+    unit: g
+    name: cold unsalted butter
+    raw: 200 g cold unsalted butter, cubed
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 1
+    name: egg yolk plus 1 tbsp milk
+    raw: 1 egg yolk plus 1 tbsp milk, for glazing
+  - qty: 500
+    unit: g
+    name: lamb shoulder
+    raw: 500 g lamb shoulder , finely diced into 5 mm cubes
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 0.5
+    name: /2 tsp ground caraway
+    raw: 1/2 tsp ground caraway
+  - qty: 80
+    unit: ml
+    name: lamb or beef broth
+    raw: 80 ml lamb or beef broth
+  - qty: 2
+    unit: tbsp
+    name: parsley
+    raw: 2 tbsp chopped parsley

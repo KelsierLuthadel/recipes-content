@@ -1,0 +1,57 @@
+prep: 15 minutes
+cook: 30 minutes
+allergens:
+  - dairy
+  - garlic
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - meals
+  - onion
+  - garlic
+  - tomato
+  - butter
+  - cheese
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    unit: tbsp
+    name: olive oil
+    raw: 4 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, finely chopped
+  - qty: 3
+    name: red bell peppers
+    raw: 3 large red bell peppers , deseeded and sliced 1 cm thick
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes , peeled and chopped
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, finely chopped
+  - qty: 1
+    unit: tsp
+    name: paprika
+    raw: 1 tsp paprika
+  - qty: 0.5
+    name: /2 tsp dried oregano
+    raw: 1/2 tsp dried oregano
+  - qty: 300
+    unit: g
+    name: gjize or ricotta
+    raw: 300 g gjize or ricotta
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tbsp butter
+  - name: salt and freshly ground black pepper
+    raw: Salt and freshly ground black pepper
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley, chopped

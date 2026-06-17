@@ -51,6 +51,6 @@ After those seven you have the chickpea-and-tahini base, the spice-and-herb wall
 ## Where to go next
 
 - Browse the full grid of Israeli recipes at [the Israeli cuisine page](home.md).
-- The [Lebanese](../lebanese/home.md), [Palestinian](../palestine/home.md), [Jordanian](../jordan/home.md) and [Syrian](../syria/home.md) cuisines share the Levantine backbone (hummus, pita, za'atar, grilled meat, mezze) and are the obvious next step. The [Middle East landing page](../middle-east/home.md) groups them together.
+- The [Lebanese](../lebanese/home.md), [Palestinian](../palestinian/home.md), [Jordanian](../jordan/home.md) and [Syrian](../syria/home.md) cuisines share the Levantine backbone (hummus, pita, za'atar, grilled meat, mezze) and are the obvious next step. The [Middle East landing page](../middle-east/home.md) groups them together.
 - For the Mizrahi side of the table, [Persian](../persian/home.md) cooking shows where the rice-and-herb-stew tradition comes from, and [Moroccan](../moroccan/home.md) cooking covers the Maghrebi tagine-and-couscous tradition that arrived with North African Jewish immigration.
 - Further afield, the catalogue's [Za'atar](../../base-ingredients/spices/za-atar.md) and [Baharat](../../base-ingredients/spices/baharat.md) entries give you the two spice blends that unlock most of the weeknight cooking here.

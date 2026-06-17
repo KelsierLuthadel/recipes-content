@@ -1,0 +1,67 @@
+prep: 30 minutes (plus 24 hours soaking)
+cook: 25 minutes
+allergens:
+  - eggs
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - snack
+  - make-ahead
+  - pastes
+  - fish
+  - eggs
+  - onion
+  - garlic
+  - potato
+  - lemon
+  - chili
+  - complex
+mentions:
+  - cuisine/mozambique/side-dishes/bolinhos-de-bacalhau
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: salt cod
+    raw: 400 g salt cod
+  - qty: 500
+    unit: g
+    name: floury potatoes
+    raw: 500 g floury potatoes , peeled
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    name: onion
+    raw: 1 large onion, very finely chopped
+  - qty: 3
+    name: garlic cloves
+    raw: 3 garlic cloves, very finely chopped
+  - qty: 1
+    name: flat-leaf parsley
+    raw: A small bunch of flat-leaf parsley, chopped
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 1
+    unit: pinch
+    name: chilli flakes
+    raw: A pinch of chilli flakes
+  - name: nutmeg
+    raw: A grating of nutmeg
+  - name: salt
+    raw: Salt, only if needed
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil for deep frying
+  - name: lemon wedges
+    raw: Lemon wedges, to serve

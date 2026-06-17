@@ -1,0 +1,99 @@
+prep: 1 hour
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - make-ahead
+  - eggs
+  - lemon
+  - cheese
+  - honey
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour
+  - qty: 1
+    name: egg
+    raw: 1 large egg
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tablespoons olive oil
+  - qty: 1
+    unit: tbsp
+    name: caster sugar
+    raw: 1 tablespoon caster sugar
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: ½ teaspoon salt
+  - qty: 400
+    unit: g
+    name: anari
+    raw: 400 g fresh anari
+  - qty: 50
+    unit: g
+    name: caster sugar
+    raw: 50 g caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 0.5
+    unit: tsp
+    name: mahleb
+    raw: ½ teaspoon ground mahleb
+  - name: zest of 1 lemon
+    raw: Zest of 1 lemon
+  - qty: 200
+    unit: g
+    name: caster sugar
+    raw: 200 g caster sugar
+  - qty: 200
+    unit: ml
+    name: water
+    raw: 200 ml water
+  - qty: 1
+    unit: tbsp
+    name: honey
+    raw: 1 tablespoon honey
+  - qty: 1
+    unit: tbsp
+    name: lemon juice
+    raw: 1 tablespoon lemon juice
+  - qty: 1
+    unit: tsp
+    name: rose water
+    raw: 1 teaspoon rose water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 1
+    unit: l
+    name: neutral oil
+    raw: 1 litre neutral oil for deep frying
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tablespoons caster sugar
+  - qty: 1
+    unit: tsp
+    name: cinnamon
+    raw: 1 teaspoon ground cinnamon

@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 0 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - make-ahead
+  - sides
+  - onion
+  - tomato
+  - lime
+  - coriander
+mentions:
+  - cuisine/kuwaiti/machboos
+  - cuisine/kuwaiti/murabyan
+  - cuisine/mexican/side-dishes/spiced-rice
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    name: cucumbers
+    raw: 2 small cucumbers , diced
+  - qty: 3
+    name: tomatoes
+    raw: 3 ripe tomatoes, diced
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely chopped
+  - qty: 50
+    unit: g
+    name: golden raisins
+    raw: 50 g golden raisins
+  - qty: 1
+    unit: small handful
+    name: mint leaves
+    raw: A small handful fresh mint leaves, chopped
+  - qty: 1
+    unit: small handful
+    name: coriander
+    raw: A small handful fresh coriander, chopped
+  - name: juice of 2 limes
+    raw: Juice of 2 limes
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 0.25
+    name: /4 tsp ground black pepper
+    raw: 1/4 tsp ground black pepper

@@ -1,0 +1,53 @@
+prep: 30 minutes
+cook: 1 hour 30 minutes (over open heat or oven)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - dessert
+  - eggs
+  - butter
+  - cream
+  - complex
+mentions:
+  - drinks/regional/lithuania/krupnikas
+  - tutorials/spices/storage
+ingredients:
+  - qty: 12
+    name: eggs
+    raw: 12 large eggs, separated
+  - qty: 400
+    unit: g
+    name: unsalted butter
+    raw: 400 g unsalted butter, very soft
+  - qty: 350
+    unit: g
+    name: caster sugar
+    raw: 350 g caster sugar
+  - qty: 350
+    unit: g
+    name: plain flour
+    raw: 350 g plain flour, sifted
+  - qty: 200
+    unit: ml
+    name: double cream
+    raw: 200 ml double cream
+  - qty: 100
+    unit: ml
+    name: dry white wine or brandy
+    raw: 100 ml dry white wine or brandy
+  - qty: 1
+    unit: tbsp
+    name: vanilla extract
+    raw: 1 tbsp vanilla extract
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - name: icing sugar
+    raw: Icing sugar, to dust

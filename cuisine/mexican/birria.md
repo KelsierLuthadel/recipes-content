@@ -21,7 +21,7 @@ Birria is a Mexican braise of long, patient ambition. Originally a goat or lamb 
 - Kosher salt
 
 ### Chiles and aromatics
-- 3 dried guajillo chiles, deseeded
+- 3 dried guajillo chiles (Mexican dried red chilli, mild and sweet-tangy), deseeded
 - 3 dried ancho chiles, deseeded
 - 2 dried pasilla chiles, deseeded
 - 4 dried arbol chiles, deseeded

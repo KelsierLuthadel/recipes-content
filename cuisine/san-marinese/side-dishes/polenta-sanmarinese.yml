@@ -1,0 +1,39 @@
+prep: 5 minutes
+cook: 45 minutes
+allergens:
+  - dairy
+tags:
+  - vegetarian
+  - gluten-free
+  - sides
+  - butter
+  - cheese
+mentions:
+  - cuisine/san-marinese/coniglio-in-porchetta
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1 1/2 tsp fine salt
+  - qty: 300
+    unit: g
+    name: yellow polenta
+    raw: 300 g coarse yellow polenta
+  - qty: 60
+    unit: g
+    name: pecorino
+    raw: 60 g aged pecorino, finely grated
+  - qty: 40
+    unit: g
+    name: unsalted butter
+    raw: 40 g unsalted butter
+  - qty: 6
+    name: sage leaves
+    raw: 6 sage leaves
+  - name: black pepper
+    raw: Black pepper

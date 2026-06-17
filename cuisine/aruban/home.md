@@ -1,0 +1,5 @@
+# Aruban Cuisine
+
+![Aruban Cuisine](resources/hero.jpg)
+
+Papiamento-speaking Aruba is the dry, windward A in the ABC islands, and its kitchen shares a base with Curacao and Bonaire while keeping a few anchors that are unmistakably Aruban. Keshi yena (an Edam or Gouda shell stuffed with spiced chicken stew and baked till the cheese collapses around the filling) is the dish every Aruban grandmother makes for Sunday lunch. Stoba di cabritu (goat stew slow-cooked with annatto, bay and tomato) is the workhorse pot. Pasthechi (deep-fried turnovers with a cheese, beef or fish filling) is the bakery-counter snack from breakfast onwards. Funchi and pan bati (cornmeal mush and a thin coconut-cornmeal pancake) carry the plate. Sopi di pisca, the aji-and-tomato fish soup with lime, is the Aruban Friday tradition. The sweet anchor is bolo di kashupete, a cashew layer cake that is the Aruban signature dessert at every wedding and birthday. To drink, Aruba Ariba (rum, vodka, coecoei and orange juice) is the national cocktail invented at a Palm Beach bar in the 1960s, and pega-pega coffee with condensed milk is the everyday morning cup.

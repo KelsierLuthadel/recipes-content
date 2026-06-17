@@ -1,0 +1,54 @@
+prep: 10 minutes (plus 5 days curing for the salo)
+cook: none (cured raw)
+allergens:
+  - gluten
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - quick
+  - snack
+  - make-ahead
+  - meat
+  - pork
+  - onion
+  - garlic
+  - coriander
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: pork back fat
+    raw: 500 g pork back fat
+  - qty: 50
+    unit: g
+    name: sea salt
+    raw: 50 g coarse sea salt
+  - qty: 1
+    name: garlic
+    raw: 1 head garlic, peeled and finely chopped
+  - qty: 1
+    unit: tbsp
+    name: cracked black peppercorns
+    raw: 1 tbsp coarsely cracked black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: coriander seeds
+    raw: 1 tbsp coriander seeds, lightly crushed
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves, crumbled
+  - qty: 1
+    name: dense dark rye bread
+    raw: 1 thick slice dense dark rye bread
+  - qty: 2
+    name: to 3 paper-thin slices of cured salo
+    raw: 2 to 3 paper-thin slices of cured salo
+  - qty: 1
+    name: garlic clove
+    raw: 1 fresh garlic clove, halved
+  - name: black pepper
+    raw: A fresh grind of black pepper
+  - name: "optional: a few rings of raw red onion"
+    raw: "Optional: a few rings of raw red onion, a pickled cucumber on the side"

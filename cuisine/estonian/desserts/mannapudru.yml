@@ -1,0 +1,58 @@
+prep: 10 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - dessert
+  - lemon
+  - butter
+  - cream
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: l
+    name: milk
+    raw: 1 litre whole milk
+  - qty: 100
+    unit: g
+    name: semolina
+    raw: 100 g fine semolina
+  - qty: 60
+    unit: g
+    name: caster sugar
+    raw: 60 g caster sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 30
+    unit: g
+    name: unsalted butter
+    raw: 30 g unsalted butter
+  - qty: 400
+    unit: g
+    name: rhubarb
+    raw: 400 g rhubarb, trimmed and cut into 2 cm lengths
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 1
+    unit: tbsp
+    name: water
+    raw: 1 tbsp water
+  - qty: 0.5
+    name: /2 tsp vanilla extract
+    raw: 1/2 tsp vanilla extract
+  - name: strip of lemon zest
+    raw: A small strip of lemon zest
+  - name: little cold milk or single cream
+    raw: A little cold milk or single cream
+  - name: spoon of butter
+    raw: A spoon of butter

@@ -1,0 +1,69 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - lime
+  - coriander
+  - chili
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1.5
+    unit: kg
+    name: chicken pieces
+    raw: 1.5 kg bone-in chicken pieces
+  - qty: 1
+    name: lime
+    raw: 1 lime, juiced
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp black pepper
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 100
+    unit: ml
+    name: red palm oil
+    raw: 100 ml red palm oil
+  - qty: 2
+    name: onions
+    raw: 2 large onions, finely chopped
+  - qty: 4
+    name: tomatoes
+    raw: 4 ripe tomatoes, chopped
+  - qty: 1
+    name: red chilli
+    raw: 1 red chilli, finely chopped
+  - qty: 1
+    name: red pepper
+    raw: 1 red pepper, sliced
+  - qty: 500
+    unit: ml
+    name: chicken stock or water
+    raw: 500 ml chicken stock or water
+  - qty: 300
+    unit: g
+    name: okra
+    raw: 300 g okra, topped and tailed, cut into thick rounds
+  - qty: 1
+    name: coriander
+    raw: A small bunch of fresh coriander, chopped

@@ -16,7 +16,7 @@ Stacked red enchiladas is the traditional New Mexican enchilada style, distinct 
 ## Ingredients
 
 ### Red chile sauce
-- 8 dried New Mexico red chiles (stems and seeds removed); or substitute with mix of ancho + guajillo
+- 8 dried New Mexico red chiles (stems and seeds removed); or substitute with mix of ancho + guajillo (Mexican dried red chilli, mild and sweet-tangy)
 - 600 ml hot chicken stock
 - 1 large onion (chopped)
 - 8 garlic cloves

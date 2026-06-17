@@ -1,0 +1,26 @@
+prep: 5 minutes
+cook: 12 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - sides
+  - coconut
+mentions:
+  - cuisine/antiguan/fungie-and-pepperpot
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: plantains
+    raw: 4 very ripe plantains
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil
+    raw: 4 tbsp vegetable oil
+  - qty: 0.5
+    name: /2 tsp fine salt
+    raw: 1/2 tsp fine salt

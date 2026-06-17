@@ -16,7 +16,7 @@ Mexico City's gift to the world and the taco that defines a Mexico City night: t
 ## Ingredients
 
 ### Marinade
-- 4 dried guajillo chillies (stems and seeds removed)
+- 4 dried guajillo chillies (Mexican dried red chilli, mild and sweet-tangy; stems and seeds removed)
 - 2 dried ancho chillies (stems and seeds removed)
 - 4 garlic cloves
 - 100 ml white wine vinegar

@@ -1,0 +1,84 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - spicy
+  - make-ahead
+  - sides
+  - meat
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+  - complex
+mentions:
+  - cuisine/guatemalan/hilachas
+  - cuisine/guatemalan/kakik
+  - cuisine/guatemalan/pepian
+  - cuisine/guatemalan/tamales-colorados
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/spices/storage
+ingredients:
+  - qty: 4
+    name: guaque chillies
+    raw: 4 dried guaque chillies
+  - qty: 2
+    name: pasa chillies
+    raw: 2 dried pasa chillies
+  - qty: 1
+    name: chile cobanero
+    raw: 1 dried chile cobanero
+  - qty: 2
+    unit: tbsp
+    name: achiote seeds
+    raw: 2 tbsp achiote seeds
+  - qty: 100
+    unit: ml
+    name: warm chicken or vegetable broth
+    raw: 100 ml warm chicken or vegetable broth
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 4
+    name: tomatillos
+    raw: 4 tomatillos, husked
+  - qty: 1
+    name: white onion
+    raw: 1 large white onion, halved
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, skin on
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 1
+    unit: tsp
+    name: allspice
+    raw: 1 tsp ground allspice
+  - qty: 1
+    name: stale corn tortilla
+    raw: 1 stale corn tortilla, torn
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: lard or vegetable oil
+    raw: 2 tbsp lard or vegetable oil

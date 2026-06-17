@@ -1,0 +1,51 @@
+prep: 10 minutes (plus 24 hr rest)
+cook: 25 minutes
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - make-ahead
+  - lime
+mentions:
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 60
+    unit: g
+    name: mauby bark
+    raw: 60 g dried mauby bark
+  - qty: 2
+    unit: l
+    name: water
+    raw: 2 litres water
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 6
+    name: cloves
+    raw: 6 whole cloves
+  - qty: 4
+    name: allspice berries
+    raw: 4 whole allspice berries
+  - qty: 4
+    name: strips of orange peel
+    raw: 4 strips of orange peel
+  - qty: 2
+    name: strips of lime peel
+    raw: 2 strips of lime peel
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: star anise
+    raw: 1 piece star anise
+  - qty: 350
+    unit: g
+    name: cane sugar
+    raw: 350 g cane sugar
+  - name: additional 1-2 litres cold water for diluting
+    raw: Additional 1-2 litres cold water for diluting
+  - name: plenty of ice
+    raw: Plenty of ice for serving

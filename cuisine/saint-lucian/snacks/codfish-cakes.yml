@@ -1,0 +1,74 @@
+prep: 20 minutes (plus 12 hr salt cod soak)
+cook: 20 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - onion
+  - garlic
+  - chili
+mentions:
+  - drinks/regional/saint-lucia/mauby
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: salt cod
+    raw: 300 g salt cod , one piece
+  - name: water for soaking
+    raw: Water for soaking
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 1
+    unit: tsp
+    name: granulated sugar
+    raw: 1 tsp granulated sugar
+  - qty: 1
+    name: onion
+    raw: 1 small onion, very finely chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, finely sliced
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic, grated
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 1
+    unit: tbsp
+    name: chive or parsley
+    raw: 1 tbsp fresh chive or parsley, chopped
+  - qty: 0.5
+    name: /2 scotch bonnet
+    raw: 1/2 scotch bonnet, finely chopped
+  - name: about 250 ml cold water
+    raw: About 250 ml cold water
+  - qty: 500
+    unit: ml
+    name: vegetable oil
+    raw: 500 ml vegetable oil for frying

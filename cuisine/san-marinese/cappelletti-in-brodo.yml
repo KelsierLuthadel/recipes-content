@@ -1,0 +1,115 @@
+prep: 1 hour 30 minutes (plus pasta resting)
+cook: 4 hours 30 minutes (broth + cooking)
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - celery
+tags:
+  - meals
+  - meat
+  - chicken
+  - beef
+  - eggs
+  - onion
+  - carrot
+  - cheese
+  - complex
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: capon or large free-range chicken
+    raw: 1 whole capon or large free-range chicken
+  - qty: 1
+    name: beef shin or oxtail
+    raw: 1 small piece beef shin or oxtail
+  - qty: 2
+    name: onions
+    raw: 2 onions
+  - qty: 2
+    name: carrots
+    raw: 2 carrots
+  - qty: 2
+    name: celery stalks
+    raw: 2 celery stalks
+  - qty: 1
+    name: leek
+    raw: 1 leek
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley stems
+    raw: 1 small handful flat-leaf parsley stems
+  - qty: 4
+    name: bay leaves
+    raw: 4 fresh bay leaves
+  - qty: 10
+    name: black peppercorns
+    raw: 10 whole black peppercorns
+  - qty: 2
+    name: cloves
+    raw: 2 whole cloves
+  - qty: 1
+    name: parmigiano rind
+    raw: 1 small piece parmigiano rind
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tablespoon fine sea salt
+  - qty: 3
+    unit: l
+    name: water
+    raw: 3 litres cold water
+  - qty: 400
+    unit: g
+    name: 00 flour
+    raw: 400 g 00 flour
+  - qty: 4
+    name: eggs
+    raw: 4 large eggs
+  - qty: 1
+    unit: tsp
+    name: olive oil
+    raw: 1 teaspoon olive oil
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: 1 small pinch fine sea salt
+  - qty: 100
+    unit: g
+    name: mortadella
+    raw: 100 g good mortadella
+  - qty: 200
+    unit: g
+    name: ricotta
+    raw: 200 g whole-milk ricotta
+  - qty: 100
+    unit: g
+    name: parmigiano
+    raw: 100 g parmigiano
+  - qty: 1
+    name: egg yolk
+    raw: 1 egg yolk
+  - qty: 1
+    name: grating fresh nutmeg
+    raw: 1 small grating fresh nutmeg
+  - qty: 1
+    unit: small pinch
+    name: cracked black pepper
+    raw: 1 small pinch coarsely cracked black pepper
+  - qty: 1
+    unit: small pinch
+    name: sea salt
+    raw: 1 small pinch fine sea salt
+  - qty: 100
+    unit: g
+    name: parmigiano
+    raw: 100 g parmigiano
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful flat-leaf parsley
+  - name: olive oil
+    raw: A few drops of olive oil

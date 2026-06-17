@@ -1,0 +1,82 @@
+prep: 10 minutes
+cook: 35 minutes
+allergens:
+  - gluten
+  - dairy
+  - tree-nuts
+  - garlic
+tags:
+  - vegetarian
+  - sides
+  - mushroom
+  - onion
+  - garlic
+  - butter
+  - cream
+  - nuts
+  - complex
+mentions:
+  - cuisine/belarusian/vereshchaka
+  - tutorials/charcuterie/bacon
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: toasted buckwheat groats
+    raw: 300 g raw toasted buckwheat groats
+  - qty: 750
+    unit: ml
+    name: water
+    raw: 750 ml cold water
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 60
+    unit: g
+    name: butter
+    raw: 60 g butter
+  - qty: 1
+    name: onion
+    raw: 1 large onion
+  - qty: 300
+    unit: g
+    name: chestnut or porcini mushrooms
+    raw: 300 g chestnut or porcini mushrooms
+  - qty: 2
+    unit: clove
+    name: garlic
+    raw: 2 cloves garlic
+  - qty: 1
+    unit: small sprig
+    name: thyme
+    raw: 1 small sprig fresh thyme
+  - qty: 1
+    unit: tsp
+    name: sea salt
+    raw: 1 teaspoon fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cracked black pepper
+    raw: 1 teaspoon coarsely cracked black pepper
+  - qty: 1
+    unit: small handful
+    name: dill
+    raw: 1 small handful fresh dill
+  - qty: 1
+    unit: small handful
+    name: parsley
+    raw: 1 small handful fresh parsley
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml cold sour cream
+  - name: bowl of pickled cucumbers
+    raw: A small bowl of pickled cucumbers
+  - name: dark rye bread per person
+    raw: A slice of dark rye bread per person
+  - name: dill and parsley
+    raw: Extra dill and parsley sprigs

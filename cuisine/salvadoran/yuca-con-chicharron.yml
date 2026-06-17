@@ -1,0 +1,68 @@
+prep: 20 minutes
+cook: 1 hour 15 minutes
+allergens:
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - meals
+  - meat
+  - garlic
+  - lime
+  - complex
+mentions:
+  - cuisine/mexican/snacks/salsa-roja
+  - cuisine/salvadoran/side-dishes/curtido
+  - tutorials/fish/whole-fish
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: cassava
+    raw: 1 kg fresh cassava , or frozen yuca chunks
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tbsp fine sea salt
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    name: garlic clove
+    raw: 1 garlic clove, smashed
+  - qty: 800
+    unit: g
+    name: pork belly
+    raw: 800 g pork belly, skin on, cut into 3 cm cubes
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 1
+    unit: tbsp
+    name: sea salt
+    raw: 1 tbsp fine sea salt
+  - qty: 1
+    unit: tsp
+    name: cumin
+    raw: 1 tsp ground cumin
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 2
+    name: garlic cloves
+    raw: 2 garlic cloves, smashed
+  - qty: 1
+    name: bay leaf
+    raw: 1 bay leaf
+  - qty: 1
+    name: batch curtido
+    raw: 1 batch curtido
+  - qty: 1
+    name: batch salsa roja salvadorena
+    raw: 1 batch salsa roja salvadoreña
+  - name: lime wedges
+    raw: Lime wedges

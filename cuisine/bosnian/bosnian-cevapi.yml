@@ -1,0 +1,74 @@
+prep: 25 minutes (plus overnight chilling)
+cook: 10 minutes
+allergens:
+  - gluten
+  - dairy
+  - meat
+  - garlic
+tags:
+  - spicy
+  - make-ahead
+  - meals
+  - meat
+  - beef
+  - lamb
+  - onion
+  - garlic
+  - cream
+  - chili
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 500
+    unit: g
+    name: beef mince
+    raw: 500 g lean beef mince
+  - qty: 500
+    unit: g
+    name: lamb mince
+    raw: 500 g lamb mince
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml warm water
+  - qty: 2
+    unit: tsp
+    name: sea salt
+    raw: 2 teaspoons fine sea salt
+  - qty: 1
+    unit: tsp
+    name: bicarbonate of soda
+    raw: 1 teaspoon bicarbonate of soda
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 teaspoon freshly ground black pepper
+  - qty: 1
+    unit: tsp
+    name: sweet paprika
+    raw: 1 teaspoon sweet paprika
+  - qty: 0.5
+    unit: tsp
+    name: cumin
+    raw: ½ teaspoon ground cumin
+  - qty: 4
+    name: somun loaves
+    raw: 4 fresh somun loaves
+  - qty: 2
+    name: red onions
+    raw: 2 large red onions, finely chopped
+  - qty: 200
+    unit: g
+    name: kajmak
+    raw: 200 g kajmak
+  - qty: 200
+    unit: ml
+    name: ajvar
+    raw: 200 ml ajvar
+  - qty: 1
+    unit: handful
+    name: green pickled chillies
+    raw: A handful of green pickled chillies

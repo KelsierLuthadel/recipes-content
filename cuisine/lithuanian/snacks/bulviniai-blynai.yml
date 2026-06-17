@@ -1,0 +1,58 @@
+prep: 15 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+tags:
+  - snack
+  - meat
+  - pork
+  - eggs
+  - onion
+  - potato
+  - cream
+mentions:
+  - sauces/fruit-sauce/apple-sauce
+  - tutorials/charcuterie/bacon
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: starchy potatoes
+    raw: 1 kg starchy potatoes , peeled
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely grated
+  - qty: 2
+    name: eggs
+    raw: 2 large eggs
+  - qty: 1.5
+    unit: tsp
+    name: salt
+    raw: 1.5 tsp salt
+  - qty: 0.5
+    name: /2 tsp black pepper
+    raw: 1/2 tsp black pepper
+  - qty: 2
+    unit: tbsp
+    name: plain flour
+    raw: 2 tbsp plain flour
+  - qty: 4
+    unit: tbsp
+    name: sunflower oil
+    raw: 4 tbsp sunflower oil, for frying
+  - qty: 300
+    unit: ml
+    name: sour cream
+    raw: 300 ml sour cream
+  - qty: 150
+    unit: g
+    name: smoked streaky bacon
+    raw: 150 g smoked streaky bacon, diced and fried crisp
+  - qty: 2
+    unit: tbsp
+    name: chives or dill
+    raw: 2 tbsp chopped chives or dill

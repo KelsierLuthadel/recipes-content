@@ -1,0 +1,47 @@
+prep: 30 minutes
+cook: 22 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - sesame
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - onion
+  - butter
+  - cheese
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 400
+    unit: g
+    name: branza de oi or feta
+    raw: 400 g brânză de oi or feta, crumbled
+  - qty: 200
+    unit: g
+    name: branza dulce de vaci or ricotta
+    raw: 200 g brânză dulce de vaci or ricotta
+  - qty: 2
+    name: eggs
+    raw: 2 eggs
+  - qty: 1
+    name: dill
+    raw: 1 large bunch fresh dill, finely chopped
+  - qty: 2
+    name: spring onions
+    raw: 2 spring onions, finely sliced
+  - name: black pepper
+    raw: Black pepper to taste
+  - qty: 1
+    name: ready-rolled filo pastry
+    raw: 1 packet ready-rolled filo pastry, thawed
+  - qty: 80
+    unit: g
+    name: unsalted butter
+    raw: 80 g unsalted butter, melted
+  - qty: 2
+    unit: tbsp
+    name: sesame seeds
+    raw: 2 tbsp sesame seeds

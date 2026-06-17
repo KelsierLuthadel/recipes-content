@@ -1,0 +1,51 @@
+prep: 20 minutes (plus 30 minutes resting)
+cook: 15 minutes
+allergens:
+  - gluten
+  - sesame
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - snack
+mentions:
+  - drinks/regional/libya/atay
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: semolina
+    raw: 300 g fine semolina, plus extra for dusting
+  - qty: 100
+    unit: g
+    name: plain flour
+    raw: 100 g plain flour
+  - qty: 0.5
+    name: /2 tsp fine salt
+    raw: 1/2 tsp fine salt
+  - qty: 0.5
+    name: /2 tsp ground fenugreek
+    raw: 1/2 tsp ground fenugreek
+  - qty: 1
+    unit: tsp
+    name: instant yeast
+    raw: 1 tsp instant yeast
+  - qty: 1
+    unit: tbsp
+    name: olive oil
+    raw: 1 tbsp olive oil
+  - name: about 200 ml warm water
+    raw: About 200 ml warm water
+  - qty: 300
+    unit: ml
+    name: vegetable oil for shallow frying
+    raw: 300 ml vegetable oil for shallow frying
+  - qty: 150
+    unit: ml
+    name: date molasses
+    raw: 150 ml date molasses
+  - qty: 2
+    unit: tbsp
+    name: toasted sesame seeds
+    raw: 2 tbsp toasted sesame seeds

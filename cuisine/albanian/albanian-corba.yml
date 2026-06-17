@@ -1,0 +1,78 @@
+prep: 20 minutes
+cook: 1 hour 30 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - meat
+  - celery
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - chicken
+  - eggs
+  - rice
+  - onion
+  - carrot
+  - lemon
+  - butter
+  - complex
+mentions:
+  - cuisine/greek/avgolemono
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    name: chicken
+    raw: 1 whole chicken
+  - qty: 2
+    name: onions
+    raw: 2 onions, halved
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, halved
+  - qty: 1
+    unit: stick
+    name: celery
+    raw: 1 stick celery, snapped in half
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tsp
+    name: black peppercorns
+    raw: 1 tsp black peppercorns
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres cold water
+  - qty: 100
+    unit: g
+    name: long-grain rice
+    raw: 100 g long-grain rice
+  - qty: 1
+    name: carrot
+    raw: 1 small carrot, finely diced
+  - qty: 2
+    unit: tbsp
+    name: butter
+    raw: 2 tbsp butter
+  - qty: 3
+    name: egg yolks
+    raw: 3 large egg yolks
+  - name: juice of 2 lemons
+    raw: Juice of 2 lemons
+  - name: salt and freshly ground white pepper
+    raw: Salt and freshly ground white pepper
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: A small handful of flat-leaf parsley, chopped
+  - name: lemon wedges
+    raw: Lemon wedges
+  - name: warm cornbread or crusty bread
+    raw: Warm cornbread or crusty bread

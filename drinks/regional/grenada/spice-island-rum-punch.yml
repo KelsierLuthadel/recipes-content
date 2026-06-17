@@ -1,0 +1,49 @@
+prep: 5 minutes
+cook: None
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+  - quick
+  - lime
+mentions:
+  - drinks/cocktails/rum-punch
+  - tutorials/cocktails/garnish
+  - tutorials/spices/storage
+ingredients:
+  - qty: 60
+    unit: ml
+    name: lime juice
+    raw: 60 ml fresh lime juice
+  - qty: 120
+    unit: ml
+    name: sugar syrup or grenadine
+    raw: 120 ml sugar syrup or grenadine
+  - qty: 180
+    unit: ml
+    name: dark rum
+    raw: 180 ml dark rum, Clarke's Court or Westerhall
+  - qty: 240
+    unit: ml
+    name: fruit juice
+    raw: 240 ml fruit juice, half orange and half pineapple
+  - qty: 1
+    unit: tsp
+    name: angostura bitters
+    raw: 1 tsp Angostura bitters
+  - name: nutmegs for grating
+    raw: Whole nutmegs for grating
+  - name: plenty of ice
+    raw: Plenty of ice
+  - name: lime wedges and pineapple chunks
+    raw: Lime wedges and pineapple chunks to garnish
+  - qty: 100
+    unit: g
+    name: caster sugar
+    raw: 100 g caster sugar
+  - qty: 100
+    unit: ml
+    name: water
+    raw: 100 ml water

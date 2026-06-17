@@ -1,0 +1,50 @@
+prep: 10 minutes
+cook: 50 minutes
+allergens:
+  - garlic
+tags:
+  - dairy-free
+  - gluten-free
+  - sides
+  - meat
+  - garlic
+  - potato
+mentions:
+  - cuisine/albanian/fergese
+  - cuisine/albanian/tave-kosi
+  - tutorials/spices/storage
+  - tutorials/vegetable-cookery/roasting
+ingredients:
+  - qty: 1
+    unit: kg
+    name: floury potatoes
+    raw: 1 kg floury potatoes , peeled
+  - qty: 80
+    unit: ml
+    name: olive oil
+    raw: 80 ml olive oil
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, thinly sliced
+  - qty: 2
+    unit: tsp
+    name: sweet paprika
+    raw: 2 tsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: oregano
+    raw: 1 tsp dried oregano
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: black pepper
+    raw: Freshly ground black pepper
+  - qty: 150
+    unit: ml
+    name: water or chicken stock
+    raw: 150 ml water or chicken stock
+  - qty: 1
+    unit: small handful
+    name: flat-leaf parsley
+    raw: Small handful flat-leaf parsley, chopped

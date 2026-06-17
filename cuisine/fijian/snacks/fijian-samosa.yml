@@ -1,0 +1,101 @@
+prep: 40 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+tags:
+  - vegetarian
+  - spicy
+  - snack
+  - make-ahead
+  - onion
+  - ginger
+  - potato
+  - lemon
+  - coriander
+  - chili
+  - curry
+  - complex
+mentions:
+  - cuisine/indian/snacks/samosa
+  - sauces/sauce-fish/tamarind-sauce
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/dough
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+  - base-ingredients/curry-powder/garam-masala-kashmiri
+  - base-ingredients/curry-powder/garam-masala
+ingredients:
+  - qty: 300
+    unit: g
+    name: plain flour
+    raw: 300 g plain flour
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: tsp
+    name: ajwain seeds
+    raw: 1 tsp ajwain seeds
+  - qty: 4
+    unit: tbsp
+    name: vegetable oil or ghee
+    raw: 4 tbsp vegetable oil or ghee
+  - qty: 130
+    unit: ml
+    name: water
+    raw: 130 ml warm water
+  - qty: 500
+    unit: g
+    name: potatoes
+    raw: 500 g potatoes, peeled and cut into 1 cm dice
+  - qty: 100
+    unit: g
+    name: peas
+    raw: 100 g frozen peas
+  - qty: 2
+    unit: tbsp
+    name: vegetable oil
+    raw: 2 tbsp vegetable oil
+  - qty: 1
+    unit: tsp
+    name: cumin seeds
+    raw: 1 tsp cumin seeds
+  - qty: 1
+    name: onion
+    raw: 1 small onion, finely chopped
+  - qty: 1
+    name: ginger
+    raw: 1 thumb of ginger, finely grated
+  - qty: 2
+    name: green chillies
+    raw: 2 green chillies, finely chopped
+  - qty: 1
+    unit: tbsp
+    name: fijian or madras curry powder
+    raw: 1 tbsp Fijian or Madras curry powder
+  - qty: 1
+    unit: tsp
+    name: coriander
+    raw: 1 tsp ground coriander
+  - qty: 0.5
+    name: /2 tsp turmeric
+    raw: 1/2 tsp turmeric
+  - qty: 0.5
+    name: /2 tsp garam masala
+    raw: 1/2 tsp garam masala
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - name: juice of half a lemon
+    raw: Juice of half a lemon
+  - qty: 1
+    unit: handful
+    name: coriander
+    raw: A handful of fresh coriander, chopped
+  - qty: 1
+    unit: l
+    name: vegetable oil
+    raw: 1 litre vegetable oil

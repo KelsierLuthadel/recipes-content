@@ -1,0 +1,63 @@
+prep: 5 minutes
+cook: 25 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+  - tree-nuts
+tags:
+  - vegetarian
+  - quick
+  - snack
+  - eggs
+  - nuts
+mentions:
+  - tutorials/rice/pilaf
+  - tutorials/spices/storage
+ingredients:
+  - qty: 250
+    unit: g
+    name: wheat vermicelli
+    raw: 250 g thin wheat vermicelli , broken into 3 to 4 cm lengths
+  - qty: 4
+    unit: tbsp
+    name: ghee
+    raw: 4 tbsp ghee
+  - qty: 80
+    unit: g
+    name: caster sugar
+    raw: 80 g caster sugar
+  - qty: 0.5
+    name: /2 tsp ground cardamom
+    raw: 1/2 tsp ground cardamom
+  - qty: 0.25
+    name: /4 tsp saffron threads
+    raw: 1/4 tsp saffron threads, steeped in 2 tbsp warm water
+  - qty: 1
+    unit: tbsp
+    name: rose water
+    raw: 1 tbsp rose water
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - name: about 500 ml hot water
+    raw: About 500 ml hot water
+  - qty: 4
+    name: eggs
+    raw: 4 eggs
+  - qty: 1
+    unit: tbsp
+    name: milk
+    raw: 1 tbsp milk
+  - qty: 1
+    unit: pinch
+    name: salt
+    raw: Pinch of salt
+  - qty: 1
+    unit: tbsp
+    name: ghee
+    raw: 1 tbsp ghee for the pan
+  - qty: 1
+    unit: tbsp
+    name: pistachios
+    raw: 1 tbsp pistachios, chopped

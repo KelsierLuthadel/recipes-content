@@ -37,7 +37,7 @@ Arroz com feijão (rice and beans) is the Brazilian daily staple, eaten at lunch
 ### To serve
 - Sliced grilled meat, fried egg, or roast chicken
 - A handful of green salad
-- A spoon of farofa (see farofa recipe)
+- A spoon of farofa ([farofa](farofa.md))
 - A small dish of Brazilian hot sauce (molho de pimenta)
 - A bowl of slow-cooked black beans (the "feijão tropeiro" variant)
 - Optional: orange segments alongside

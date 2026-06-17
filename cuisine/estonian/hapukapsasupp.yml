@@ -1,0 +1,73 @@
+prep: 15 minutes
+cook: 2 hours
+allergens:
+  - gluten
+  - dairy
+  - meat
+tags:
+  - make-ahead
+  - meals
+  - meat
+  - pork
+  - onion
+  - potato
+  - carrot
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 700
+    unit: g
+    name: smoked pork ribs or smoked pork knuckle
+    raw: 700 g smoked pork ribs or smoked pork knuckle
+  - qty: 600
+    unit: g
+    name: fermented sauerkraut
+    raw: 600 g fermented sauerkraut , lightly rinsed if very sour
+  - qty: 100
+    unit: g
+    name: pearl barley
+    raw: 100 g pearl barley
+  - qty: 2
+    name: onions
+    raw: 2 onions, finely chopped
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, peeled and diced
+  - qty: 2
+    name: floury potatoes
+    raw: 2 floury potatoes , peeled and cubed
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 8
+    name: allspice berries
+    raw: 8 allspice berries
+  - qty: 8
+    name: black peppercorns
+    raw: 8 black peppercorns
+  - qty: 1
+    unit: tbsp
+    name: tomato paste
+    raw: 1 tbsp tomato paste
+  - qty: 2
+    unit: tbsp
+    name: neutral oil
+    raw: 2 tbsp neutral oil
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - name: salt
+    raw: Salt
+  - qty: 2.5
+    unit: l
+    name: water
+    raw: 2.5 litres water
+  - name: sour cream
+    raw: Sour cream
+  - name: dill
+    raw: Fresh dill, chopped
+  - name: dark rye bread
+    raw: Dark rye bread

@@ -1,0 +1,128 @@
+prep: 1 hour
+cook: 2 hours
+allergens:
+  - gluten
+  - sesame
+  - meat
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - meals
+  - meat
+  - chicken
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chickpea
+  - chili
+  - complex
+mentions:
+  - tutorials/middle-eastern-fundamentals/spices
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 1
+    unit: kg
+    name: chicken thighs
+    raw: 1 kg chicken thighs, bone in skin on
+  - qty: 1.5
+    unit: l
+    name: water
+    raw: 1.5 litres water
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 1
+    name: garlic
+    raw: 1 head garlic, halved
+  - qty: 2
+    name: bay leaves
+    raw: 2 bay leaves
+  - qty: 1
+    unit: tbsp
+    name: salt
+    raw: 1 tbsp salt
+  - qty: 4
+    name: tomatoes
+    raw: 4 large ripe tomatoes
+  - qty: 4
+    name: tomatillos
+    raw: 4 tomatillos
+  - qty: 1
+    name: onion
+    raw: 1 onion, halved
+  - qty: 6
+    name: garlic cloves
+    raw: 6 garlic cloves, skin on
+  - qty: 3
+    name: guaque chillies
+    raw: 3 dried guaque chillies
+  - qty: 2
+    name: pasa chillies
+    raw: 2 dried pasa chillies
+  - qty: 2
+    unit: tbsp
+    name: achiote seeds
+    raw: 2 tbsp achiote seeds
+  - qty: 50
+    unit: g
+    name: pumpkin seeds
+    raw: 50 g pumpkin seeds
+  - qty: 30
+    unit: g
+    name: sesame seeds
+    raw: 30 g sesame seeds
+  - qty: 1
+    name: cinnamon stick
+    raw: 1 cinnamon stick
+  - qty: 4
+    name: cloves
+    raw: 4 whole cloves
+  - qty: 1
+    unit: tsp
+    name: coriander seeds
+    raw: 1 tsp coriander seeds
+  - qty: 1
+    name: stale corn tortilla
+    raw: 1 stale corn tortilla, torn
+  - qty: 1
+    name: bread
+    raw: 1 slice bread, torn
+  - qty: 1
+    unit: tsp
+    name: salt
+    raw: 1 tsp salt
+  - qty: 1
+    unit: kg
+    name: corn masa
+    raw: 1 kg fresh corn masa
+  - qty: 200
+    unit: g
+    name: lard
+    raw: 200 g lard, melted
+  - qty: 2
+    unit: tsp
+    name: salt
+    raw: 2 tsp salt
+  - qty: 250
+    name: to 350 ml reserved chicken broth
+    raw: 250 to 350 ml reserved chicken broth
+  - qty: 12
+    name: banana leaf squares
+    raw: 12 banana leaf squares , warmed over a flame to soften
+  - qty: 24
+    name: pitted green olives
+    raw: 24 pitted green olives
+  - qty: 24
+    name: raisins
+    raw: 24 raisins
+  - qty: 24
+    name: chickpeas
+    raw: 24 cooked chickpeas
+  - qty: 12
+    name: strips of red bell pepper
+    raw: 12 strips of red bell pepper
+  - name: kitchen string for tying
+    raw: Kitchen string for tying

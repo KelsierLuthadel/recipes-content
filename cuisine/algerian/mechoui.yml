@@ -1,0 +1,67 @@
+prep: 30 minutes (plus 6 hours marinating)
+cook: 4 hours
+allergens:
+  - dairy
+  - meat
+  - garlic
+tags:
+  - gluten-free
+  - make-ahead
+  - meals
+  - meat
+  - lamb
+  - garlic
+  - butter
+  - complex
+mentions:
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 2
+    unit: kg
+    name: lamb shoulder
+    raw: 2 kg lamb shoulder, bone in
+  - qty: 100
+    unit: g
+    name: unsalted butter
+    raw: 100 g unsalted butter, softened
+  - qty: 4
+    unit: clove
+    name: garlic
+    raw: 4 cloves garlic, mashed to a paste
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tbsp ground cumin
+  - qty: 1
+    unit: tbsp
+    name: sweet paprika
+    raw: 1 tbsp sweet paprika
+  - qty: 1
+    unit: tsp
+    name: black pepper
+    raw: 1 tsp ground black pepper
+  - qty: 1.5
+    unit: tbsp
+    name: salt
+    raw: 1.5 tbsp salt
+  - qty: 2
+    unit: tbsp
+    name: olive oil
+    raw: 2 tbsp olive oil
+  - qty: 250
+    unit: ml
+    name: water
+    raw: 250 ml water
+  - qty: 2
+    unit: tbsp
+    name: sea salt
+    raw: 2 tbsp coarse sea salt
+  - qty: 2
+    unit: tbsp
+    name: cumin
+    raw: 2 tbsp ground cumin
+  - qty: 0.5
+    unit: tsp
+    name: mint
+    raw: 0.5 tsp dried mint, crumbled

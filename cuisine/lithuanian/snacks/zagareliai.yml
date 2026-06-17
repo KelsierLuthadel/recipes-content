@@ -1,0 +1,54 @@
+prep: 30 minutes (plus 30 minutes resting)
+cook: 20 minutes
+allergens:
+  - gluten
+  - dairy
+  - eggs
+tags:
+  - vegetarian
+  - snack
+  - eggs
+  - butter
+  - cream
+mentions:
+  - tutorials/pizza/dough
+  - tutorials/spices/storage
+ingredients:
+  - qty: 6
+    name: egg yolks
+    raw: 6 large egg yolks
+  - qty: 2
+    unit: tbsp
+    name: caster sugar
+    raw: 2 tbsp caster sugar
+  - qty: 0.25
+    name: /4 tsp salt
+    raw: 1/4 tsp salt
+  - qty: 2
+    unit: tbsp
+    name: sour cream
+    raw: 2 tbsp sour cream
+  - qty: 2
+    unit: tbsp
+    name: brandy or vodka
+    raw: 2 tbsp brandy or vodka
+  - qty: 1
+    unit: tsp
+    name: vanilla extract
+    raw: 1 tsp vanilla extract
+  - qty: 1
+    unit: tbsp
+    name: butter
+    raw: 1 tbsp melted butter
+  - qty: 265
+    unit: g
+    name: plain flour
+    raw: 250-280 g plain flour
+  - qty: 1.5
+    unit: l
+    name: sunflower oil
+    raw: 1.5 litres sunflower oil, for frying
+  - qty: 150
+    unit: g
+    name: icing sugar
+    raw: 150 g icing sugar, for dusting

@@ -1,0 +1,73 @@
+prep: 30 minutes
+cook: 1 hour
+allergens:
+  - dairy
+  - eggs
+  - fish
+  - mustard
+tags:
+  - vegetarian
+  - gluten-free
+  - make-ahead
+  - one-pan
+  - meals
+  - eggs
+  - onion
+  - potato
+  - carrot
+  - cream
+  - complex
+mentions:
+  - tutorials/spices/storage
+ingredients:
+  - qty: 3
+    name: beetroot
+    raw: 3 medium beetroot , scrubbed
+  - qty: 4
+    name: waxy potatoes
+    raw: 4 medium waxy potatoes , scrubbed
+  - qty: 2
+    name: carrots
+    raw: 2 carrots, scrubbed
+  - qty: 2
+    name: salted herring fillets
+    raw: 2 salted herring fillets , or matjes-style herring
+  - qty: 1
+    name: pickled cucumber
+    raw: 1 large pickled cucumber
+  - qty: 1
+    name: green apple
+    raw: 1 small green apple, peeled and cored
+  - qty: 1
+    name: red onion
+    raw: 1 small red onion, finely chopped
+  - qty: 2
+    name: hard-boiled eggs
+    raw: 2 hard-boiled eggs, peeled
+  - qty: 200
+    unit: ml
+    name: sour cream
+    raw: 200 ml sour cream
+  - qty: 2
+    unit: tbsp
+    name: mayonnaise
+    raw: 2 tbsp mayonnaise
+  - qty: 2
+    unit: tsp
+    name: estonian or dijon mustard
+    raw: 2 tsp Estonian or Dijon mustard
+  - qty: 1
+    unit: tbsp
+    name: white wine vinegar
+    raw: 1 tbsp white wine vinegar
+  - qty: 1
+    unit: tsp
+    name: sugar
+    raw: 1 tsp sugar
+  - qty: 0.5
+    name: /2 tsp salt
+    raw: 1/2 tsp salt
+  - name: black pepper
+    raw: Black pepper
+  - name: dill
+    raw: Fresh dill, finely chopped

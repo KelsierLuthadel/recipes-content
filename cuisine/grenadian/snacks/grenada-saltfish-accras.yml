@@ -1,0 +1,76 @@
+prep: 20 minutes (plus overnight soak)
+cook: 15 minutes
+allergens:
+  - gluten
+  - fish
+  - garlic
+tags:
+  - dairy-free
+  - spicy
+  - snack
+  - make-ahead
+  - fish
+  - onion
+  - garlic
+  - tomato
+  - coriander
+  - chili
+mentions:
+  - cuisine/jamaican/callaloo
+  - cuisine/nigerian/snacks/akara
+  - tutorials/pizza/sauce
+  - tutorials/spices/storage
+ingredients:
+  - qty: 300
+    unit: g
+    name: salt cod
+    raw: 300 g salt cod , soaked overnight, water changed twice
+  - qty: 250
+    unit: g
+    name: plain flour
+    raw: 250 g plain flour
+  - qty: 1
+    unit: tsp
+    name: baking powder
+    raw: 1 tsp baking powder
+  - qty: 0.5
+    unit: tsp
+    name: salt
+    raw: 0.5 tsp salt
+  - qty: 0.5
+    unit: tsp
+    name: black pepper
+    raw: 0.5 tsp black pepper
+  - qty: 1
+    name: onion
+    raw: 1 large onion, very finely chopped
+  - qty: 4
+    name: spring onions
+    raw: 4 spring onions, finely chopped
+  - qty: 4
+    name: garlic cloves
+    raw: 4 garlic cloves, crushed
+  - qty: 1
+    unit: tbsp
+    name: thyme leaves
+    raw: 1 tbsp fresh thyme leaves
+  - qty: 2
+    unit: tbsp
+    name: chadon beni or coriander
+    raw: 2 tbsp chadon beni or coriander, finely chopped
+  - qty: 1
+    name: scotch bonnet
+    raw: 1 scotch bonnet, deseeded and finely chopped
+  - qty: 1
+    name: tomato
+    raw: 1 tomato, deseeded and finely chopped
+  - qty: 1
+    unit: tsp
+    name: turmeric
+    raw: 1 tsp turmeric
+  - qty: 300
+    unit: ml
+    name: water
+    raw: 300 ml cold water
+  - name: vegetable oil for deep-frying
+    raw: Vegetable oil for deep-frying
