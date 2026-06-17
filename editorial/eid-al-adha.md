@@ -3,8 +3,8 @@ name: Eid al-Adha
 image: resources/eid-al-adha.jpg
 tagline: The big Eid. Whole-roast lamb, biryanis by the cauldron, kebabs over coals, mandi and kabsa with their mountains of rice. The festival of sacrifice, on the meat-heavy side of the table.
 publishedAt: 2026-05-20
-displayFrom: 2026-05-20
-displayUntil: 2026-05-30
+displayFrom: 2027-05-22
+displayUntil: 2027-05-29
 kind: religious
 origin: Muslim world
 ---

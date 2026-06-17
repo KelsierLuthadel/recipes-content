@@ -3,8 +3,8 @@ name: Passover
 image: resources/passover.jpg
 tagline: The seder plate and the slow-roasted meats that follow. Eight days of unleavened cooking, with brisket at its centre.
 publishedAt: 2026-05-20
-displayFrom: 2026-03-27
-displayUntil: 2026-04-09
+displayFrom: 2027-04-18
+displayUntil: 2027-04-30
 kind: religious
 origin: Jewish tradition
 ---

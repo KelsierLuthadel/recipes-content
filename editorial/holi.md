@@ -3,8 +3,8 @@ name: Holi
 image: resources/holi.jpg
 tagline: The festival of colour and the festival of snacks. Gujiya, jalebi, pakora, samosa, and thandai by the jug.
 publishedAt: 2026-05-20
-displayFrom: 2026-02-27
-displayUntil: 2026-03-05
+displayFrom: 2027-03-17
+displayUntil: 2027-03-23
 kind: festival
 origin: India
 ---

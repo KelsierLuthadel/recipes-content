@@ -3,8 +3,8 @@ name: Easter
 image: resources/easter.jpg
 tagline: The roast lamb at the centre of the table. Hot cross buns at breakfast, simnel cake at tea. Spring on the plate after the slow grey end of winter.
 publishedAt: 2026-05-20
-displayFrom: 2026-03-29
-displayUntil: 2026-04-06
+displayFrom: 2027-03-22
+displayUntil: 2027-03-30
 kind: religious
 origin: Christian tradition
 ---

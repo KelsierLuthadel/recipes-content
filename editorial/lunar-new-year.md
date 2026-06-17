@@ -3,8 +3,8 @@ name: Lunar New Year
 image: resources/lunar-new-year.jpg
 tagline: A reunion table built on symbols: whole fish for abundance, long noodles for long life, sweet round things for togetherness.
 publishedAt: 2026-05-20
-displayFrom: 2026-02-10
-displayUntil: 2026-02-22
+displayFrom: 2027-01-30
+displayUntil: 2027-02-11
 kind: festival
 origin: East Asia
 ---
