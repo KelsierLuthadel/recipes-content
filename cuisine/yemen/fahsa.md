@@ -31,7 +31,7 @@ Fahsa is the close cousin to saltah, a thick deeply-spiced lamb stew traditional
 - 200 ml hot water (extra, for the sauce)
 
 ### To finish
-- 1 batch hulba (whipped fenugreek, see Saltah recipe)
+- 1 batch hulba (whipped fenugreek, ([Saltah](saltah.md))
 - 4 tablespoons [Sahawiq](side-dishes/sahawiq.md)
 - Lahoh (or flatbread)
 

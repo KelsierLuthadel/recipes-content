@@ -42,7 +42,7 @@ Aloo pie is Trinidad's beloved street empanada: a close cousin of the Indian sam
 - 1 tablespoon fresh lime juice
 
 ### To serve
-- Shadon beni chutney (see doubles recipe)
+- Shadon beni chutney ([doubles](doubles.md))
 - Tamarind sauce (see doubles recipe)
 - Mango chutney (optional)
 - Hot pepper sauce (optional)

@@ -30,7 +30,7 @@
 - 4 fresh somun loaves (or large round pita; warm just before serving)
 - 2 large red onions, finely chopped
 - 200 g kajmak (or thick clotted cream as a substitute)
-- 200 ml ajvar (see the Bosnian ajvar recipe)
+- 200 ml ajvar ([Bosnian ajvar](side-dishes/ajvar-bosnian.md))
 - A handful of green pickled chillies (feferoni)
 
 ## Method

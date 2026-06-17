@@ -23,7 +23,7 @@ Waakye (pronounced waa-chay) is the rice-and-beans dish of northern Ghana that b
 - 1 bay leaf
 
 To serve (per plate):
-- 2 tbsp shito (see recipe in side-dishes)
+- 2 tbsp shito ([shito](side-dishes/shito.md))
 - 2 tbsp gari (toasted cassava grit)
 - 1 hard-boiled egg, halved
 - 2 slices fried plantain

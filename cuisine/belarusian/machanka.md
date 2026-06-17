@@ -33,7 +33,7 @@ Machanka takes its name from the verb "macat'", to dip, and the dish does exactl
 - A small handful of fresh dill, chopped
 
 ### To serve
-- A batch of fresh draniki (see the Draniki recipe)
+- A batch of fresh draniki ([Draniki](draniki.md))
 
 ## Method
 
