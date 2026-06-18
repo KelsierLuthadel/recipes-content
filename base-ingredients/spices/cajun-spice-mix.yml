@@ -16,6 +16,7 @@ regions:
   - cajun
 mentions:
   - cuisine/cajun/jambalaya
+  - equipment/food-processor
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting

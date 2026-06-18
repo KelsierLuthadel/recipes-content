@@ -17,6 +17,7 @@ regions:
   - mexican
 mentions:
   - cuisine/mexican/snacks/guacamole
+  - equipment/cast-iron-pan
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
 ingredients:

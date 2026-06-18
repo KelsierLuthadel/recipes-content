@@ -17,6 +17,7 @@ mentions:
   - cuisine/greek/desserts/galaktoboureko
   - cuisine/turkish/desserts/baklava
   - drinks/regional/greece/greek-coffee
+  - equipment/food-processor
   - tutorials/spices/storage
 ingredients:
   - qty: 600

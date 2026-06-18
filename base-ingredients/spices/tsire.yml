@@ -16,6 +16,7 @@ regions:
   - nigerian
 mentions:
   - cuisine/nigerian/suya
+  - equipment/food-processor
   - tutorials/middle-eastern-fundamentals/kebabs
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage

@@ -16,6 +16,8 @@ tags:
 regions:
   - indian
 mentions:
+  - equipment/food-processor
+  - equipment/mortar-and-pestle
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/roasting

@@ -9,7 +9,8 @@ tags:
   - dessert
   - make-ahead
   - cream
-mentions: []
+mentions:
+  - equipment/baking-sheet
 ingredients:
   - qty: 240
     unit: g

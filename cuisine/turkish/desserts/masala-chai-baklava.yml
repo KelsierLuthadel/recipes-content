@@ -12,7 +12,8 @@ tags:
   - butter
   - honey
   - nuts
-mentions: []
+mentions:
+  - equipment/food-processor
 ingredients:
   - qty: 300
     unit: g

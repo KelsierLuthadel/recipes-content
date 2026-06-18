@@ -1,0 +1,12 @@
+allergens: []
+tags:
+  - vegetarian
+  - vegan
+  - dairy-free
+  - gluten-free
+mentions:
+  - cuisine/italian/pesto
+  - cuisine/thai/thai-red-curry
+  - equipment/food-processor
+  - tutorials/mexican-fundamentals/salsas
+  - tutorials/middle-eastern-fundamentals/spices

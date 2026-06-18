@@ -15,7 +15,8 @@ tags:
   - eid-al-fitr
   - ramadan
   - muslim
-mentions: []
+mentions:
+  - equipment/non-stick-pan
 ingredients:
   - qty: 200
     unit: g

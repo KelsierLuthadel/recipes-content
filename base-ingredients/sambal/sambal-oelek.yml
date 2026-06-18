@@ -13,6 +13,8 @@ tags:
 regions:
   - indonesian
 mentions:
+  - equipment/food-processor
+  - equipment/mortar-and-pestle
   - tutorials/spices/storage
   - tutorials/vegetable-cookery/blanching
   - cuisine/asian-fusion/honey-soy-glazed-chicken

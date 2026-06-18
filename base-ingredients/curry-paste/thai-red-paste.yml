@@ -21,6 +21,7 @@ tags:
 regions:
   - thai
 mentions:
+  - equipment/food-processor
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
   - cuisine/indonesian/indonesian-meatballs
