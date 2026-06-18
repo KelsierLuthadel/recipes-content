@@ -24,11 +24,6 @@ mentions:
   - cuisine/algerian/snacks/karantita
   - cuisine/israel/side-dishes/bourekas
   - cuisine/moroccan/couscous-royale
-  - cuisine/north-african/brik-a-l-oeuf
-  - cuisine/north-african/ojja-merguez
-  - cuisine/north-african/snacks/bourek-tunisien
-  - cuisine/north-african/snacks/merguez-rolls
-  - cuisine/north-african/snacks/tunisian-fricasse
 ingredients:
   - qty: 12
     name: red chillies
