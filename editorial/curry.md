@@ -14,20 +14,86 @@ The country sections below gather the catalogue's curry traditions one kitchen a
 
 ## Indian
 
-The deepest curry tradition in the world. North Indian dishes lean on dairy, butter and cream; South Indian on coconut, curry leaves and mustard seed; Bengali on mustard oil and fish; Goan on vinegar and chilli (the Portuguese inheritance). The British Indian Restaurant (BIR) tradition that arrived through Bangladesh in the 1960s pruned and standardised this universe into the pub-menu dishes (tikka masala, korma, vindaloo, jalfrezi) most non-Indians meet first.
+The deepest curry tradition in the world. North Indian dishes lean on dairy, butter and cream; South Indian on coconut, curry leaves and mustard seed; Bengali on mustard oil and fish; Goan on vinegar and chilli (the Portuguese inheritance). The British Indian Restaurant (BIR) tradition that arrived through Bangladesh in the 1960s pruned and standardised this universe into the pub-menu dishes (tikka masala, korma, vindaloo, jalfrezi) most non-Indians meet first. The catalogue carries three overlapping shelves: traditional regional dishes, the takeaway-counter restaurant style, and the BIR pub-menu canon.
 
 - [Butter Chicken](../cuisine/indian/butter-chicken.md)
 - [Dal Makhani](../cuisine/indian/dal-makhani.md)
 - [Lamb Karahi](../cuisine/indian/lamb-karahi.md)
 - [Lamb Nihari](../cuisine/indian/lamb-nihari.md)
-- [BIR Lamb Saag](../cuisine/indian/BIR-Lamb-saag.md)
-- [BIR Chicken Tikka Masala](../cuisine/indian/BIR-Chicken-Tikka-Masala.md)
-- [BIR Chicken Korma](../cuisine/indian/BIR-Chicken-Korma.md)
-- [BIR Lamb Vindaloo](../cuisine/indian/BIR_Lamb-Vindaloo.md)
-- [BIR Chicken Jalfrezi](../cuisine/indian/BIR-Chicken-Jalfrezi.md)
-- [BIR Chicken Curry](../cuisine/indian/BIR-chicken-curry.md)
+- [Lamb Madras](../cuisine/indian/lamb-madrass.md)
+- [Maas Lamb Chops](../cuisine/indian/maas-lamb-chops.md)
 - [Andhra Chicken Curry](../cuisine/indian/andhra-chicken-curry.md)
 - [Hyderabadi Mutton Biryani](../cuisine/indian/hyderabadi-mutton-biryani.md)
+- [Chicken Chettinad](../cuisine/indian/chicken-chettinad.md)
+- [Kerala Fish Curry](../cuisine/indian/kerala-fish-curry.md)
+- [Mulligatawny](../cuisine/indian/mulligatawny.md)
+- [Palak Paneer](../cuisine/indian/palak-paneer.md)
+- [Rajma](../cuisine/indian/rajma.md)
+- [Agra Ginger Chicken](../cuisine/indian/agra-ginger-chicken.md)
+- [Lahore Chicken](../cuisine/indian/lahore-chicken.md)
+- [Angry Bird](../cuisine/indian/angry-bird.md)
+- [Goan Pork Vindaloo](../cuisine/indian/goan-pork-vindaloo.md)
+- [Aloo Gobi](../cuisine/indian/side-dishes/aloo-gobi.md)
+- [Avial](../cuisine/indian/side-dishes/avial.md)
+- [Baingan Bharta](../cuisine/indian/side-dishes/baingan-bharta.md)
+- [Bhindi Masala](../cuisine/indian/side-dishes/bhindi-masala.md)
+- [Bombay Potato](../cuisine/indian/side-dishes/bombay-potato.md)
+- [Tarka Dal](../cuisine/indian/side-dishes/tarka-dal.md)
+- [BIR Butter Chicken](../cuisine/indian/BIR-Butter-Chicken.md)
+- [BIR Chasi Kahari](../cuisine/indian/BIR-Chasi-Kahari.md)
+- [BIR Chicken Balti](../cuisine/indian/BIR-Chicken-Balti.md)
+- [BIR Chicken Ceylon](../cuisine/indian/BIR-Chicken-Ceylon.md)
+- [BIR Chicken Chasni](../cuisine/indian/BIR-chicken-chasni.md)
+- [BIR Chicken Chilli Garlic](../cuisine/indian/BIR-chicken-chilli-garlic.md)
+- [BIR Chicken Curry](../cuisine/indian/BIR-chicken-curry.md)
+- [BIR Chicken Dhansak](../cuisine/indian/BIR-Chicken-Dhansak.md)
+- [BIR Chicken Dopiaza](../cuisine/indian/BIR-chicken-dopiaza.md)
+- [BIR Chicken Handi](../cuisine/indian/BIR-Chicken-Handi.md)
+- [BIR Chicken Jalfrezi](../cuisine/indian/BIR-Chicken-Jalfrezi.md)
+- [BIR Chicken Kahari](../cuisine/indian/BIR-Chicken-Kahari.md)
+- [BIR Chicken Korma](../cuisine/indian/BIR-Chicken-Korma.md)
+- [BIR Chicken Methi](../cuisine/indian/BIR-chicken-methi.md)
+- [BIR Chicken Pasanda](../cuisine/indian/BIR-Chicken-Pasanda.md)
+- [BIR Chicken Pathia](../cuisine/indian/BIR-chicken-pathia.md)
+- [BIR Chicken Phall](../cuisine/indian/BIR-Chicken-Phall.md)
+- [BIR Chicken Tikka Masala](../cuisine/indian/BIR-Chicken-Tikka-Masala.md)
+- [BIR Chicken Vindaloo](../cuisine/indian/BIR-Chicken-Vindaloo.md)
+- [BIR Kashmiri Chicken](../cuisine/indian/BIR-kashmiri-chicken.md)
+- [BIR Lamb Achari](../cuisine/indian/BIR_Lamb-achari.md)
+- [BIR Lamb Bhuna](../cuisine/indian/BIR-Lamb-bhuna.md)
+- [BIR Lamb Madras](../cuisine/indian/BIR-Lamb-madrass.md)
+- [BIR Lamb Naga Phaal](../cuisine/indian/BIR_Lamb-Naga-Phaal.md)
+- [BIR Lamb Rogan Josh](../cuisine/indian/BIR-Lamb-Rogan-Josh.md)
+- [BIR Lamb Saag](../cuisine/indian/BIR-Lamb-saag.md)
+- [BIR Lamb Vindaloo](../cuisine/indian/BIR_Lamb-Vindaloo.md)
+- [BIR Mango Chicken Curry](../cuisine/indian/BIR-mango-chicken-curry.md)
+- [BIR Special Balti](../cuisine/indian/BIR-Special-Balti.md)
+- [BIR Vindaloo](../cuisine/indian/BIR-Vindaloo.md)
+- [Restaurant Adrak Ginger](../cuisine/indian/Restaurant-Style-Adrak-Ginger.md)
+- [Restaurant Ceylon](../cuisine/indian/Restaurant-Style-Ceylon.md)
+- [Restaurant Chicken Chilli Masala](../cuisine/indian/Restaurant-Style-Chicken-Chilli-Masala.md)
+- [Restaurant Chicken Jalfrezi](../cuisine/indian/Restaurant-Style-Chicken-Jalfrezi.md)
+- [Restaurant Chicken Rezala](../cuisine/indian/Restaurant-Style-Chicken-Rezala.md)
+- [Restaurant Chicken Tikka Masala](../cuisine/indian/Restaurant-Style-Chicken-Tikka-Masala.md)
+- [Restaurant Dhansak](../cuisine/indian/Restaurant-Style-Dhansak.md)
+- [Restaurant Dopiaza](../cuisine/indian/Restaurant-Style-Dopiaza.md)
+- [Restaurant Garlic Chilli Chicken](../cuisine/indian/Restaurant-Style-Garlic-Chilli-Chicken.md)
+- [Restaurant Karahi](../cuisine/indian/Restaurant-Style-Karahi.md)
+- [Restaurant Laal Chicken](../cuisine/indian/Restaurant-Style-Laal-Chicken.md)
+- [Restaurant Lamb Achari](../cuisine/indian/Restaurant-Style-Lamb-Achari.md)
+- [Restaurant Lavastorm](../cuisine/indian/Restaurant-Style-Lavastorm.md)
+- [Restaurant Madras](../cuisine/indian/Restaurant-Style-Madras.md)
+- [Restaurant Methi](../cuisine/indian/Restaurant-Style-Methi.md)
+- [Restaurant Moghul](../cuisine/indian/Restaurant-Style-Moghul.md)
+- [Restaurant Naga](../cuisine/indian/Restaurant-Style-Naga.md)
+- [Restaurant Naga Bhuna](../cuisine/indian/Restaurant-Style-Naga-Bhuna.md)
+- [Restaurant Pathia](../cuisine/indian/Restaurant-Style-Pathia.md)
+- [Restaurant Phaal](../cuisine/indian/Restaurant-Style-Phaal.md)
+- [Restaurant Rogan Josh](../cuisine/indian/Restaurant-Style-Rogan-Josh.md)
+- [Restaurant Simple Chicken Curry](../cuisine/indian/Restaurant-Style-Simple-Chicken-Curry.md)
+- [Restaurant South Indian Tamarind](../cuisine/indian/Restaurant-Style-South-Indian-Tamarind.md)
+- [Restaurant Tikka Masala](../cuisine/indian/Restaurant-Style-Tikka-Masala.md)
+- [Restaurant Vindaloo](../cuisine/indian/Restaurant-Style-Vindaloo.md)
 
 ## Pakistani
 
@@ -37,6 +103,9 @@ Pakistan's curry table sits between Indian Punjabi and Persian-Afghan. Karahi (t
 - [Beef Nihari](../cuisine/pakistani/beef-nihari.md)
 - [Lamb Nihari](../cuisine/pakistani/lamb-nihari.md)
 - [Sindhi Biryani](../cuisine/pakistani/sindhi-biryani.md)
+- [Haleem](../cuisine/pakistani/haleem.md)
+- [Murgh Cholay](../cuisine/pakistani/murgh-cholay.md)
+- [Paya](../cuisine/pakistani/paya.md)
 
 ## Lahori
 
@@ -45,6 +114,7 @@ The kitchen of Punjab's old capital. Lahori cooking lives on its tandoor and its
 - [Lahori Mutton Karahi](../cuisine/lahori/lahori-mutton-karahi.md)
 - [Lahori Mutton Biryani](../cuisine/lahori/rice/lahori-mutton-biryani.md)
 - [Lahori Chana Pulao](../cuisine/lahori/rice/lahori-chana-pulao.md)
+- [Lahori Tarka Dal](../cuisine/lahori/side-dishes/lahori-tarka-dal.md)
 
 ## Bengali
 
@@ -52,6 +122,20 @@ East India and Bangladesh. Mustard oil, panch phoran (Bengali five-spice), fish 
 
 - [Chingri Malai Curry](../cuisine/bengali/chingri-malai-curry.md)
 - [Chanar Dalna](../cuisine/bengali/chanar-dalna.md)
+- [Doi Maach](../cuisine/bengali/doi-maach.md)
+- [Kosha Mangsho](../cuisine/bengali/kosha-mangsho.md)
+- [Machher Jhol](../cuisine/bengali/machher-jhol.md)
+- [Mangshor Jhol](../cuisine/bengali/mangshor-jhol.md)
+- [Murgir Jhol](../cuisine/bengali/murgir-jhol.md)
+
+## Bangladeshi
+
+The kitchen behind the British Indian Restaurant boom. Bangladeshi cooks, mostly from Sylhet, opened the curry houses that defined British takeaway in the 1960s and 70s. At home the cooking is fish-forward and mustard-oil-led, with the prized hilsa (ilish) treated with reverence and bhuna (slow-fried, dry-finished gravy) as the signature method.
+
+- [Beef Bhuna](../cuisine/bangladeshi/beef-bhuna.md)
+- [Hilsa Fish Curry](../cuisine/bangladeshi/hilsa-fish-curry.md)
+- [Shorshe Ilish](../cuisine/bangladeshi/shorshe-ilish.md)
+- [Bhuna Khichuri](../cuisine/bangladeshi/bhuna-khichuri.md)
 
 ## Goan
 
@@ -60,6 +144,10 @@ Where Portuguese ingredients (vinegar, port, pork) folded into the Indian spice 
 - [Goan Fish Curry](../cuisine/goan/goan-fish-curry.md)
 - [Goan Pork Vindaloo](../cuisine/indian/goan-pork-vindaloo.md)
 - [Goan Chicken Biryani](../cuisine/goan/rice/goan-chicken-biryani.md)
+- [Chicken Cafreal](../cuisine/goan/chicken-cafreal.md)
+- [Chicken Xacuti](../cuisine/goan/chicken-xacuti.md)
+- [Pork Sorpotel](../cuisine/goan/pork-sorpotel.md)
+- [Prawn Balchao](../cuisine/goan/prawn-balchao.md)
 
 ## Sri Lankan
 
@@ -67,6 +155,11 @@ A separate tradition from Indian curry: heavier on the roasted chilli, lighter o
 
 - [Sri Lankan Chicken Curry](../cuisine/sri-lankan/sri-lankan-chicken-curry.md)
 - [Polos Curry](../cuisine/sri-lankan/polos-curry.md)
+- [Ambul Thiyal](../cuisine/sri-lankan/ambul-thiyal.md)
+- [Parippu](../cuisine/sri-lankan/parippu.md)
+- [Beetroot Curry](../cuisine/sri-lankan/side-dishes/beetroot-curry.md)
+- [Cashew Curry](../cuisine/sri-lankan/side-dishes/cashew-curry.md)
+- [Kiri Hodi](../cuisine/sri-lankan/side-dishes/kiri-hodi.md)
 
 ## Thai
 
@@ -75,6 +168,11 @@ Thai curry is paste-based rather than powder-based: red, green, yellow, massaman
 - [Thai Green Chicken Curry](../cuisine/thai/thai-green-chicken-curry.md)
 - [Thai Beef Massaman](../cuisine/thai/thai-beef-massaman.md)
 - [Thai Green Curry (Vegetarian)](../cuisine/thai/thai-green-curry-vegetarian.md)
+- [Thai Red Chicken Curry](../cuisine/thai/thai-red-chicken-curry.md)
+- [Thai Red Curry](../cuisine/thai/thai-red-curry.md)
+- [Yellow Chicken Curry](../cuisine/thai/yellow-chicken-curry.md)
+- [Beef Panang](../cuisine/thai/beef-panang.md)
+- [Prik King](../cuisine/thai/prik-king.md)
 - [Jungle Curry](../cuisine/thai/jungle-curry.md)
 
 ## Malaysian
@@ -84,18 +182,24 @@ Curry powders meet laksa pastes. Malaysian curries sit between Indian, Chinese a
 - [Malaysian Laksa](../cuisine/malaysian/malaysian-laksa.md)
 - [Fennel Shellfish Laksa](../cuisine/malaysian/fennel-shellfish-laksa.md)
 - [Dhal Curry (Malaysian)](../cuisine/malaysian/dhal-curry.md)
+- [Sambal Terung](../cuisine/malaysian/sambal-terung.md)
+- [Sayur Masak Lemak](../cuisine/malaysian/sayur-masak-lemak.md)
 
 ## Indonesian
 
 Spice-trade ground zero. Rendang is the dish that built the islands' reputation: a slow dry-curry of beef and coconut, simmered down till the sauce caramelises onto the meat.
 
 - [Beef Rendang](../cuisine/indonesian/beef-rendang.md)
+- [Sayur Lodeh](../cuisine/indonesian/sayur-lodeh.md)
 
 ## Burmese
 
 Lemongrass, ginger, tamarind, chickpea flour. The Burmese kitchen sits between Indian and South-East Asian, with its own coconut-noodle curry that everyone in Yangon eats for breakfast.
 
 - [Ohn No Khao Swe](../cuisine/burmese/ohn-no-khao-swe.md)
+- [Mohinga](../cuisine/burmese/mohinga.md)
+- [Wet Tha Hin Lay](../cuisine/burmese/wet-tha-hin-lay.md)
+- [Beef Sibyan](../cuisine/burmese/beef-sibyan.md)
 
 ## Afghan
 
@@ -108,6 +212,28 @@ Karahi-style cooking with Persian spice influence: less chilli than Punjab, more
 A different lineage: a coconut-and-peanut "curry" (kare-kare) that owes more to South-East Asian peanut sauces than to the Indian spice tradition, but reads as curry to anyone outside the Philippines.
 
 - [Kare-Kare](../cuisine/filipino/kare-kare.md)
+- [Chicken Adobo](../cuisine/filipino/chicken-adobo.md)
+- [Ginataang Gulay](../cuisine/filipino/ginataang-gulay.md)
+
+## Caribbean
+
+Indentured Indian labour brought curry to the Caribbean in the nineteenth century, and the dish absorbed the islands' aromatics on the way. Caribbean curry uses a yellow curry powder (heavy on turmeric and cumin) bloomed in oil with onion and pepper, then thickened with the protein's own juices. Trinidadian roti shops and Jamaican goat curry are the headline kitchens.
+
+- [Trinidadian Curry Goat](../cuisine/trinidadian/trinidadian-curry-goat.md)
+- [Bunjay Curry Chicken](../cuisine/trinidadian/bunjay-curry-chicken.md)
+- [Curry Smelts](../cuisine/trinidadian/curry-smelts.md)
+- [Jamaican Goat Curry](../cuisine/jamaican/goat-curry.md)
+- [Jamaican Curry Chicken](../cuisine/jamaican/authentic-curry-chicken.md)
+- [Caribbean Chicken Curry Stew](../cuisine/jamaican/caribbean-curry.md)
+- [Curry Chicken Wings](../cuisine/jamaican/curry-chicken-wings.md)
+
+## South African
+
+Cape Malay cooks (slaves brought from Java, Bengal and the Malay archipelago) wrote the Western Cape's curry tradition: aromatic, lightly sweet, lean on chilli compared to the Indian source kitchen. Durban Indian cooking, on the other side of the country, is sharper and hotter (bunny chow is its signature). Both shelves share apricot, cinnamon and a fondness for slow-cooked lamb.
+
+- [Bobotie](../cuisine/south-african/bobotie.md)
+- [Bunny Chow](../cuisine/south-african/bunny-chow.md)
+- [Denningvleis](../cuisine/south-african/denningvleis.md)
 
 ## Starters
 
