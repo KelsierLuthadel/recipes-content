@@ -4,6 +4,7 @@ image: resources/curry.jpg
 tagline: A continent's worth of slow gravies, spice pastes, coconut braises and dry-fries; the wide tent that "curry" pitches over every kitchen that uses it.
 publishedAt: 2026-06-18
 kind: theme
+featured: true
 ---
 
 The word "curry" is an English shortcut for something that does not really fit one word. It came back with the British from the spice ports of the Indian subcontinent and grew up on the way, picking up Thai coconut pastes, Sri Lankan crab boils, Malaysian laksas, Indonesian rendangs, Japanese kare-raisu, Caribbean roti shops and South-African Cape Malay sambals on the journey. What ties them all together is method: a layered spice base bloomed in fat, an aromatic build of onion, garlic, ginger or lemongrass, a slow simmer or a fast wok-fry, and a deep complex sauce that holds the protein at the end. Almost everything else is regional argument.
