@@ -3,6 +3,9 @@ name: A Spice Trail Across Asia
 image: resources/spice-trail-asia.jpg
 tagline: Five dishes for the spice rack: mala, lemongrass, rendang paste, toasted curry, tandoor.
 publishedAt: 2026-05-13
+displayFrom: 2027-03-01
+displayUntil: 2027-05-31
+kind: seasonal
 ---
 
 Five techniques, five countries, one rule: the spices are the dish, not the
