@@ -5,11 +5,9 @@ tagline: The difference between a perfectly cooked chicken and a dry one. Cheape
 ---
 
 # Instant-Read Thermometer
-
 *A digital probe thermometer that reads the internal temperature of meat in 2–5 seconds. Takes the guesswork out of chicken (the most-undercooked-or-overcooked meat in home kitchens), and turns sous vide, roasting and grilling from "estimate and pray" into precision.*
 
 ## What to buy
-
 **Budget (£10–25)**: any digital probe thermometer with a folding probe. ThermoPro TP19, Habor 022, Etekcity. 2–6 second read time, ±1°C accuracy, runs on a watch battery.
 
 **Good (£60–100)**: Thermapen ONE (UK-made by ETI). 1-second read, ±0.4°C accuracy, waterproof, folds flat. The gold standard for home thermometers and the chef's choice. £100 sounds steep until you realise it's a 10-year tool.
@@ -23,7 +21,6 @@ Look for: **digital probe** (not dial — dial thermometers drift and lie), **2�
 Avoid: dial-face thermometers (slow, inaccurate, drift over time), oven thermometers (different tool — those measure ambient heat, not meat temp), single-meat thermometers ("perfect for chicken!" — same hardware, marketing gimmick).
 
 ## How to use
-
 **Insert into the thickest part** of the meat, away from bone (bone conducts heat differently). For a whole chicken, the thickest part of the thigh, not touching bone. For steak, the centre of the muscle, parallel to the surface.
 
 **Target temperatures**:
@@ -38,7 +35,6 @@ Avoid: dial-face thermometers (slow, inaccurate, drift over time), oven thermome
 For sous vide: you don't need the thermometer (the bath is the thermometer), unless you're checking centre temperature for a thick steak.
 
 ## How to maintain
-
 **Wipe clean with a damp cloth.** Don't submerge unless it's marked waterproof. Don't dishwasher.
 
 **Calibrate every 6 months**: dip into ice water (should read 0°C, ±1°C) and into boiling water (should read 100°C, adjusted for altitude). If off by more than 2°C, the budget thermometers usually have a recalibration screw; the Thermapen has a button-driven recalibration in the menu.
@@ -46,12 +42,10 @@ For sous vide: you don't need the thermometer (the bath is the thermometer), unl
 **Replace the battery** when readings get slow or erratic. Watch batteries (CR2032) cost £1.
 
 ## Common mistakes
-
 - **Checking too early**: the probe needs to be in the meat for the full read time. Pulling it out at 2 seconds reads the surface temp, not the centre.
 - **Hitting bone**: bone gives a wildly inaccurate reading. Probe the thickest part of the muscle.
 - **Not accounting for carryover**: pulling a steak at 57°C when target is 57°C overshoots. Pull at 54°C; it'll rise to 57°C resting.
 - **Using a meat thermometer for oil**: most are rated to 250°C; deep-fry oil at 180–190°C is fine. A candy thermometer (rated to 300°C+) is the proper tool for sugar work.
 
 ## What it replaces
-
 A digital probe thermometer replaces: dial meat thermometers (slow, inaccurate), the "press the meat and guess by firmness" method (works for steak with practice, but never for chicken), candy thermometers (mostly — sugar work above 250°C still wants a dedicated candy thermometer), and the constant worry that you've undercooked the chicken. Honestly the single most useful £20 you'll spend on cooking.

@@ -5,11 +5,9 @@ tagline: The heavy lidded pot that turns tough cuts into Sunday roasts. The sing
 ---
 
 # Dutch Oven
-
 *A heavy enamel-coated cast iron pot with a tight-fitting lid. Slow-braises beef cheek, simmers ragù for four hours, bakes the perfect crusty bread (the lid traps steam), and goes from hob to oven without thinking. The pot every winter-kitchen revolves around.*
 
 ## What to buy
-
 **Budget (£35–60)**: Lakeland, Argos Cook's Brand, IKEA Vardagen. Plain enamel-coated cast iron, 5–6L capacity, lifetime tool if not dropped. The cheap Dutch ovens are functionally identical to the expensive ones.
 
 **Good (£200–350)**: Le Creuset Signature 5.3L Round. The benchmark. French-made, lifetime warranty, multiple colours. Pricier than performance demands, but the resale value is genuine and you'll have it for 40 years.
@@ -23,7 +21,6 @@ Shape: **round** is more useful than oval (fits more hobs evenly, easier to stir
 Avoid: thin enamel-coated cast iron from unknown brands (chips easily), uncoated cast iron Dutch ovens (acidic foods strip the seasoning — use enamel for braises).
 
 ## How to use
-
 **Brown first, braise second.** The browning step (5–10 minutes per side at high heat) is what gives a braise its depth. Don't skip it; nothing in the braising step will make up for missing it.
 
 **Deglaze with wine or stock.** Scrape the fond off the bottom with a wooden spoon as the liquid bubbles. This is where the flavour lives.
@@ -35,7 +32,6 @@ Avoid: thin enamel-coated cast iron from unknown brands (chips easily), uncoated
 For bread: preheat the empty Dutch oven at 230°C (450°F) for 30 minutes; lower the dough in, lid on, bake 30 minutes; lid off, bake 15 more. The trapped steam makes the crust.
 
 ## How to maintain
-
 **Don't dishwasher.** The detergent dulls the enamel finish; the heat causes thermal shock that can chip the coating.
 
 **Hand-wash with warm soapy water.** For stuck-on bits, soak with hot water for 20 minutes, then scrub with a non-abrasive sponge. Bar Keepers Friend removes the brown discoloration that builds inside.
@@ -47,12 +43,10 @@ For bread: preheat the empty Dutch oven at 230°C (450°F) for 30 minutes; lower
 **Don't preheat empty on high heat.** Thermal shock cracks the enamel. Always add oil and food, or at least liquid.
 
 ## Common mistakes
-
 - **Not browning the meat properly**: a pale braise is a flavourless braise. Take time to brown.
 - **Adding too much liquid**: a braise is not a soup. Liquid halfway up the meat; the lid keeps moisture in.
 - **Cranking the heat**: a hard simmer breaks the meat fibres apart and dries them out. Low and slow.
 - **Lifting the lid every 20 minutes**: each lift drops the temperature 30°C and adds an hour to the cook. Trust the time.
 
 ## What it replaces
-
 A Dutch oven replaces: stewpots, casserole dishes, slow cookers (the Dutch oven does everything a slow cooker does and more), pasta pots (boiling pasta in a Dutch oven works fine), and the "but I need a special pot for…" category. With a sauté pan, a saucepan, and a Dutch oven, the cookware shelf is essentially complete.

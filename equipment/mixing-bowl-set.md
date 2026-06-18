@@ -5,11 +5,9 @@ tagline: Three sizes of stainless steel bowl that nest inside each other. The ki
 ---
 
 # Mixing Bowl Set
-
 *A nested set of three stainless steel bowls — small, medium, large — used for every prep task: tossing salads, marinating meat, beating eggs, mixing dough, holding chopped vegetables for the stir-fry, making batters. The most-grabbed tools in any working kitchen.*
 
 ## What to buy
-
 **Budget (£15–25)**: a stainless steel set of three (1L, 3L, 5L) from any kitchen supply. The thin commercial-grade bowls from a restaurant supply company are often cheaper and better than the consumer brands.
 
 **Good (£35–60)**: Cuisinart, Vollrath, or OXO Good Grips with non-slip silicone bases and pour spouts. The non-slip base is genuinely useful when whisking; pour spouts are useful for batter and dressings.
@@ -21,7 +19,6 @@ Look for: **nest into each other** (saves cabinet space), **flat bottoms** (sit 
 Avoid: plastic mixing bowls (stain, hold odours, can't withstand heat), single-piece "do-everything" jugs (the bowl format is essentially perfect, don't replace it).
 
 ## How to use
-
 **The small bowl** is for whisking dressings, beating an egg or two, mise-en-place — the cup of chopped onion, the tablespoon of measured spice.
 
 **The medium bowl** is the workhorse — tossing salads, mixing pancake batter, holding the chopped veg for stir-fry, marinating chicken.
@@ -33,7 +30,6 @@ For whisking: set the bowl on a damp cloth or rubber shelf liner to stop it slid
 For mixing dough: weigh ingredients directly into the bowl on the scale (tare to zero between additions). The bowl is your portable workstation.
 
 ## How to maintain
-
 **Dishwasher-safe.** Stainless steel mixing bowls are essentially indestructible — they'll outlive everything else in the kitchen.
 
 **Avoid abrasive scourers** on the inside if you whisk with a wire whisk a lot — they'll scratch.
@@ -41,11 +37,9 @@ For mixing dough: weigh ingredients directly into the bowl on the scale (tare to
 **Store nested.** The whole reason for the set design is that they take up almost no cabinet space when stacked.
 
 ## Common mistakes
-
 - **Buying plastic**: stains with tomato sauce in one use, holds onion smell forever, can't tolerate hot ingredients.
 - **One bowl when you need three**: every recipe involves at least two stages (the wet and the dry, the batter and the marinade). One bowl forces you to wash and re-use mid-cook.
 - **Wooden mixing bowls**: charming, traditional, awful to clean, can't put hot ingredients in them, harbour bacteria in the grain.
 
 ## What it replaces
-
 A nested set of three replaces: every single-purpose vessel sold as "salad bowl", "egg-beating bowl", "bread-mixing bowl"; every plastic prep container; the temptation to use the kitchen-sink as a giant bowl. Three stainless bowls run a home kitchen for forty years.
