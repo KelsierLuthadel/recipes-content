@@ -62,13 +62,7 @@ The build script reads the title (`# H1`), the metadata fields, the Overview par
 
 Drop a `.jpg` or `.png` into the recipe's sibling `resources/` folder (e.g. `cuisine/indian/resources/chana-masala.jpg`) and reference it as `![Title](resources/chana-masala.jpg)` directly under the `# H1`.
 
-To bulk-fetch missing images from Pexels, set `PEXELS_API_KEY` in your environment and run:
-
-```sh
-node scripts/fetch-missing-images.mjs
-```
-
-This walks every recipe, inserts a `resources/<slug>.jpg` link if missing, and downloads any image whose file isn't on disk. It's idempotent.
+Hero images are curated by hand. There is no bulk-fetch helper; source the file yourself, drop it in `resources/`, and write the markdown link.
 
 ## Tags
 
@@ -121,7 +115,6 @@ After adding or editing recipes, run these from the repo root:
 | `npm run build` | After **any** recipe / pairings / category / substitution change. | Rebuilds [`docs/recipes.json`](../docs/recipes.json) from the markdown tree. The site reads this; without it, your changes don't show up. |
 | `npm run doctor` | Before submitting a PR; periodically. | Lints recipes for missing fields, malformed metadata, broken image links, and other authoring issues. Catches things the build doesn't reject but that look broken on the site. |
 | `npm test` | Before submitting a PR. | Runs the unit tests for the parsers (time, scaling, routes, etc.). |
-| `node scripts/fetch-missing-images.mjs` | When recipes have no image yet. | Inserts `![Title](resources/<slug>.jpg)` links and bulk-fetches missing files from Pexels. Requires `PEXELS_API_KEY`. |
 | `npm run stamp` | **Just before a release.** Bump `package.json` first. | Rewrites every relative ES-module import in `docs/` to include `?v=<version>`. Without this, iOS Safari caches old inner module URLs and users see Frankenstein code after a release. Tests keep passing with stamped imports, `scripts/test-loader.mjs` strips `?v=` query strings during Node's resolution. |
 | `npm run unstamp` | Rarely. | Removes `?v=` from imports if you want clean diffs while editing. Tests don't require it. |
 

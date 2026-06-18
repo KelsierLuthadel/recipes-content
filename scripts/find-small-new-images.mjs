@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // Intersect: images under <threshold>px wide AND newly-added (git status).
-// Output: list of paths suitable for refresh-image.mjs.
+// Output: list of paths that probably need a higher-resolution replacement.
 
 import { readFileSync, readdirSync } from 'node:fs';
 import { join, relative, sep, posix } from 'node:path';
