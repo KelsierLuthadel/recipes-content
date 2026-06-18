@@ -16,7 +16,7 @@ Madafu is the Swahili word for the young green coconut, picked off the palm befo
 ## Ingredients
 
 ### Per drinker
-- 1 young green coconut (madafu) — about 1.5-2 kg
+- 1 young green coconut (madafu), about 1.5-2 kg
 - 1 wide drinking straw (paper or steel)
 
 ### Optional adds (modern beach-bar versions)
@@ -33,7 +33,7 @@ Madafu is the Swahili word for the young green coconut, picked off the palm befo
 ### Stage 1 - Pick a young coconut
 1. A madafu is a young coconut: deep green outside, with the husk still firm. (Brown hairy coconuts are mature; the water inside has begun fermenting and the flesh has hardened.)
 2. Lift the coconut; it should feel heavy for its size and slosh audibly when shaken (that's the water inside).
-3. If buying from a market, ask for a "madafu" (not a "nazi" — that's the mature coconut for grating).
+3. If buying from a market, ask for a "madafu" (not a "nazi", that's the mature coconut for grating).
 
 ### Stage 2 - Open the top
 1. Sit the coconut upright on a sturdy chopping board.

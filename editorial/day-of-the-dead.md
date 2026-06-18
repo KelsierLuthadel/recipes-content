@@ -33,5 +33,5 @@ Birria, cochinita pibil, slow-roasted meats that take an afternoon, all are appr
 - [Tres Leches Cake](../cuisine/mexican/desserts/tres-leches-cake.md)
 - [Flan Mexicano](../cuisine/mexican/desserts/flan-mexicano.md)
 - [Pan de Muerto](../cuisine/mexican/desserts/pan-de-muerto.md)
-- [Atole](../cuisine/mexican/desserts/atole.md)
+- [Atole](../drinks/regional/mexico/atole.md)
 - [Champurrado](../cuisine/mexican/desserts/champurrado.md)

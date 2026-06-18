@@ -2,14 +2,14 @@
 
 ![Ras el Hanout](resources/ras-el-hanout.jpg)
 
-*Moroccan for "head of the shop" — the blend the spice merchant brings out as their best, often a dozen spices and sometimes thirty, balanced into warm and floral and slightly bitter all at once.*
+*Moroccan for "head of the shop", the blend the spice merchant brings out as their best, often a dozen spices and sometimes thirty, balanced into warm and floral and slightly bitter all at once.*
 
 **Prep Time:** 15 minutes
 
 **Yield:** Approximately 90 grams (makes 30+ portions)
 
 ## Overview
-Ras el hanout is the showpiece Moroccan blend — the literal "top of the shop" each spice merchant builds to their own taste. Every souk vendor in Marrakech, Fez and Casablanca has their own version, with anywhere from 10 to 30 ingredients including some you can't easily buy (rose petals, monk's pepper, grains of paradise). This home version covers the warm-spice core, plus rose petals and the floral character that's the blend's signature. Use it in tagines (lamb with apricots, chicken with preserved lemon), in couscous, on slow-roasted carrots and squash, in marinades for grilled meat. Toasted whole spices ground fresh produce dramatically better results than pre-ground; a small heavy frying pan and a spice grinder are the kit you need.
+Ras el hanout is the showpiece Moroccan blend, the literal "top of the shop" each spice merchant builds to their own taste. Every souk vendor in Marrakech, Fez and Casablanca has their own version, with anywhere from 10 to 30 ingredients including some you can't easily buy (rose petals, monk's pepper, grains of paradise). This home version covers the warm-spice core, plus rose petals and the floral character that's the blend's signature. Use it in tagines (lamb with apricots, chicken with preserved lemon), in couscous, on slow-roasted carrots and squash, in marinades for grilled meat. Toasted whole spices ground fresh produce dramatically better results than pre-ground; a small heavy frying pan and a spice grinder are the kit you need.
 
 ## Ingredients
 

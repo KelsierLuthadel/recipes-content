@@ -9,7 +9,7 @@
 **Yield:** Approximately 60 grams (makes 30+ portions)
 
 ## Overview
-Chinese five-spice is the philosophical blend — built to cover all five tastes (spicy, salty, sweet, sour, bitter) in a single mixture. The traditional five are star anise, cloves, Chinese cinnamon (cassia), fennel seeds and Sichuan pepper. Regional versions add white pepper, ginger root, orange peel, or galangal. The blend goes into red-cooked pork belly (lu rou), into roast duck rubs, into char siu marinades, into the famous Cantonese five-spice ribs. A small pinch in roasted nuts, in cocktail glazes, in chocolate truffles works too. Whole spices freshly toasted and ground produce a dramatically more aromatic result than pre-ground supermarket five-spice. Make a small jar; the volatile oils fade within months.
+Chinese five-spice is the philosophical blend, built to cover all five tastes (spicy, salty, sweet, sour, bitter) in a single mixture. The traditional five are star anise, cloves, Chinese cinnamon (cassia), fennel seeds and Sichuan pepper. Regional versions add white pepper, ginger root, orange peel, or galangal. The blend goes into red-cooked pork belly (lu rou), into roast duck rubs, into char siu marinades, into the famous Cantonese five-spice ribs. A small pinch in roasted nuts, in cocktail glazes, in chocolate truffles works too. Whole spices freshly toasted and ground produce a dramatically more aromatic result than pre-ground supermarket five-spice. Make a small jar; the volatile oils fade within months.
 
 ## Ingredients
 

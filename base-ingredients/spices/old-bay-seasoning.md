@@ -2,7 +2,7 @@
 
 ![Old Bay Seasoning](resources/old-bay-seasoning.jpg)
 
-*The Maryland seafood spice — celery salt, paprika, bay leaf, mustard and a dozen warm spices, invented in Baltimore in 1939 by a German Jewish refugee and now the universal American seasoning for crab, shrimp and Bloody Marys.*
+*The Maryland seafood spice, celery salt, paprika, bay leaf, mustard and a dozen warm spices, invented in Baltimore in 1939 by a German Jewish refugee and now the universal American seasoning for crab, shrimp and Bloody Marys.*
 
 **Prep Time:** 5 minutes
 
@@ -40,7 +40,7 @@ Old Bay was invented in 1939 by Gustav Brunn, a German Jewish refugee who fled N
 
 ## Serving
 Use in: Maryland crab boils, shrimp boils, deep-fried shrimp, oyster crackers, popcorn, French fries, hard-boiled eggs, Bloody Mary cocktails, crab cake mix
-Typical ratio: 1 to 2 teaspoons per portion (much more for crab boils — by the tablespoon)
+Typical ratio: 1 to 2 teaspoons per portion (much more for crab boils, by the tablespoon)
 Application: scattered straight from the jar, or stirred into melted butter for steaming shellfish
 
 ## Storage

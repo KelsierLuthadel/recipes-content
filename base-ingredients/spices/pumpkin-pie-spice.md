@@ -2,14 +2,14 @@
 
 ![Pumpkin Pie Spice](resources/pumpkin-pie-spice.jpg)
 
-*The American autumn baking blend: cinnamon, ginger, nutmeg, allspice and cloves. There's no pumpkin in it — just the spice mix that goes into pumpkin pie.*
+*The American autumn baking blend: cinnamon, ginger, nutmeg, allspice and cloves. There's no pumpkin in it, just the spice mix that goes into pumpkin pie.*
 
 **Prep Time:** 2 minutes
 
 **Yield:** Approximately 40 grams (makes 15+ portions)
 
 ## Overview
-Pumpkin pie spice contains no pumpkin. It's the warm-spice combination that's been the foundational pumpkin-pie filling seasoning across American kitchens since the colonial era; the commercial pre-mixed jar dates to the early twentieth century. Starbucks's 2003 launch of the Pumpkin Spice Latte made the blend a seasonal pop-culture marker. Beyond pumpkin pie, it works on apple cobbler, banana bread, oatmeal cookies, butternut squash soup, sweet potato casserole — anything autumnal that wants the universal warm-baking-spice note. British "mixed spice" is the closest relative; the British version leans more on coriander and caraway, the American on cinnamon and ginger.
+Pumpkin pie spice contains no pumpkin. It's the warm-spice combination that's been the foundational pumpkin-pie filling seasoning across American kitchens since the colonial era; the commercial pre-mixed jar dates to the early twentieth century. Starbucks's 2003 launch of the Pumpkin Spice Latte made the blend a seasonal pop-culture marker. Beyond pumpkin pie, it works on apple cobbler, banana bread, oatmeal cookies, butternut squash soup, sweet potato casserole, anything autumnal that wants the universal warm-baking-spice note. British "mixed spice" is the closest relative; the British version leans more on coriander and caraway, the American on cinnamon and ginger.
 
 ## Ingredients
 
@@ -27,7 +27,7 @@ Pumpkin pie spice contains no pumpkin. It's the warm-spice combination that's be
 1. Label with the date and store in a cool dark cupboard.
 
 ## Notes
-- **Cinnamon proportions.** Cinnamon should be the lead — roughly half the blend by volume. American supermarket blends sometimes go even heavier on cinnamon.
+- **Cinnamon proportions.** Cinnamon should be the lead, roughly half the blend by volume. American supermarket blends sometimes go even heavier on cinnamon.
 - **Cardamom variant.** A teaspoon of ground cardamom added to the blend lifts it into something more interesting than the basic pumpkin-pie default.
 - **Freshly grated nutmeg.** Grating fresh whole nutmeg into the blend produces a noticeably more aromatic result than pre-ground.
 
@@ -41,4 +41,4 @@ Application: stirred into the filling, batter or drink at the start
 - Best within 6 months while all five spices are still aromatic
 - The cinnamon lasts longest; nutmeg and clove fade fastest
 
-*The American autumn baking blend that goes into pumpkin pie. No actual pumpkin — just cinnamon, ginger, nutmeg, allspice and cloves combined into the universal warm-baking-spice signature.*
+*The American autumn baking blend that goes into pumpkin pie. No actual pumpkin, just cinnamon, ginger, nutmeg, allspice and cloves combined into the universal warm-baking-spice signature.*

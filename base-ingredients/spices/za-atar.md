@@ -9,7 +9,7 @@
 **Yield:** Approximately 80 grams (makes 25+ portions)
 
 ## Overview
-Za'atar is two things in one word: the wild Levantine herb (Origanum syriacum, somewhere between thyme, oregano and marjoram) and the spice blend built around it. The blend has been ubiquitous across Lebanon, Syria, Palestine, Jordan and Israel for centuries. Each family has its own recipe, and the proportions vary regionally: Lebanese za'atar leans on sumac for the tart-fruity note, Palestinian versions often add caraway, Jordanian versions can include extra nuts. The everyday use is the manakish breakfast — flatbread dough brushed with olive oil and za'atar before baking — but it scatters onto hummus, into roast chicken rubs, over labneh, into salad dressings. Make small batches: the sesame seeds go rancid faster than the dried herbs, and the whole point of the blend is that it tastes fresh.
+Za'atar is two things in one word: the wild Levantine herb (Origanum syriacum, somewhere between thyme, oregano and marjoram) and the spice blend built around it. The blend has been ubiquitous across Lebanon, Syria, Palestine, Jordan and Israel for centuries. Each family has its own recipe, and the proportions vary regionally: Lebanese za'atar leans on sumac for the tart-fruity note, Palestinian versions often add caraway, Jordanian versions can include extra nuts. The everyday use is the manakish breakfast, flatbread dough brushed with olive oil and za'atar before baking, but it scatters onto hummus, into roast chicken rubs, over labneh, into salad dressings. Make small batches: the sesame seeds go rancid faster than the dried herbs, and the whole point of the blend is that it tastes fresh.
 
 ## Ingredients
 
@@ -45,4 +45,4 @@ Application: mixed with olive oil for spreads; scattered straight from the jar f
 - Best within 3 to 4 months while the sesame is fresh
 - The seeds go rancid before the herbs do; use the sniff test
 
-*The herb-and-seed blend that defines Levantine breakfast. Brushed onto flatbread with olive oil, scattered over hummus, baked into chicken — za'atar shows up at every meal of the day across Lebanon, Syria, Palestine and beyond.*
+*The herb-and-seed blend that defines Levantine breakfast. Brushed onto flatbread with olive oil, scattered over hummus, baked into chicken, za'atar shows up at every meal of the day across Lebanon, Syria, Palestine and beyond.*

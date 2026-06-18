@@ -9,7 +9,7 @@
 **Yield:** Approximately 70 grams (makes 25+ portions)
 
 ## Overview
-Khmeli suneli is the Georgian for "dried spices" — the blend at the heart of Caucasian cooking. Every region of Georgia and practically every family makes a different version. The recurring core is coriander seed, fenugreek (especially blue fenugreek, the Georgian variant), marigold (Imeretian saffron), summer savory and dill. Layered on top can be cinnamon, cloves, basil, bay leaf, mint, parsley, hot pepper and sumac. The blend reads deep, earthy, faintly bitter, slightly grassy — the foundational note in walnut sauces (satsivi), in chicken and beef stews (chakhokhbili), in kharcho soup, in pkhali (vegetable-and-walnut spreads). Imeretian saffron (dried marigold petals, not real saffron) gives it the golden colour. Without marigold the blend works but the colour reads dull.
+Khmeli suneli is the Georgian for "dried spices", the blend at the heart of Caucasian cooking. Every region of Georgia and practically every family makes a different version. The recurring core is coriander seed, fenugreek (especially blue fenugreek, the Georgian variant), marigold (Imeretian saffron), summer savory and dill. Layered on top can be cinnamon, cloves, basil, bay leaf, mint, parsley, hot pepper and sumac. The blend reads deep, earthy, faintly bitter, slightly grassy, the foundational note in walnut sauces (satsivi), in chicken and beef stews (chakhokhbili), in kharcho soup, in pkhali (vegetable-and-walnut spreads). Imeretian saffron (dried marigold petals, not real saffron) gives it the golden colour. Without marigold the blend works but the colour reads dull.
 
 ## Ingredients
 
@@ -52,4 +52,4 @@ Application: stirred into stews and sauces near the end of cooking; mixed with w
 - Best within 6 months while the marigold colour is vivid
 - The fenugreek aroma is the most reliable freshness indicator
 
-*The "housewife spices" blend of Georgia — the foundational note in Caucasian walnut sauces, slow-cooked stews and the famous satsivi.*
+*The "housewife spices" blend of Georgia, the foundational note in Caucasian walnut sauces, slow-cooked stews and the famous satsivi.*

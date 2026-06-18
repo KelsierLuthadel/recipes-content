@@ -26,7 +26,7 @@ Shichimi togarashi means "seven-flavour chilli" in Japanese, and the blend dates
 1. Toast the sesame seeds in a dry pan over medium heat for 2 minutes, until pale gold and fragrant. Set aside to cool.
 1. Toast the nori flakes briefly (10 seconds) to crisp; cool.
 1. Combine all ingredients in a bowl.
-1. Pulse briefly in a spice grinder to break up the chilli flakes and integrate the textures — but don't over-grind; the blend should be a coarse mix, not a fine powder.
+1. Pulse briefly in a spice grinder to break up the chilli flakes and integrate the textures, but don't over-grind; the blend should be a coarse mix, not a fine powder.
 1. Transfer to an airtight jar.
 
 ## Notes

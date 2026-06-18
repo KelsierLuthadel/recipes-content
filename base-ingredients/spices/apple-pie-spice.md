@@ -42,4 +42,4 @@ Application: stirred into the apple filling or batter at the start
 - Best within 6 months while all spices are aromatic
 - Cinnamon lasts longest; clove and ginger fade fastest
 
-*The American autumn baking blend tilted toward apples. Cinnamon-led, with nutmeg, allspice and cardamom for warmth — the universal seasoning for apple pie, crumble, and warmed apple cider.*
+*The American autumn baking blend tilted toward apples. Cinnamon-led, with nutmeg, allspice and cardamom for warmth, the universal seasoning for apple pie, crumble, and warmed apple cider.*

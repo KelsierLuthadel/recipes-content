@@ -67,7 +67,7 @@ Thirteen recipes, one shape, every country an opinion.
 - [Cachorro Quente Brasileiro](../cuisine/brazilian/snacks/cachorro-quente-brasileiro.md)
 - [Argentine Chorizo Hot Dog (Choripán)](../cuisine/argentinian/snacks/argentine-chimichurri-dog.md)
 - [Salchipapas (Peru)](../cuisine/peruvian/snacks/salchipapas.md)
-- [Shucos (Guatemala)](../cuisine/south-american/snacks/shucos.md)
+- [Shucos (Guatemala)](../cuisine/guatemalan/snacks/shucos.md)
 
 ### Europe
 - [Currywurst (Germany)](../cuisine/german/snacks/currywurst.md)

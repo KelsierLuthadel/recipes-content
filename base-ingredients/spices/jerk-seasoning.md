@@ -9,7 +9,7 @@
 **Yield:** Approximately 70 grams (makes 15+ portions)
 
 ## Overview
-Jerk seasoning is the Jamaican spice rub for grilled meat, traceable through Maroon (escaped-slave) communities in the Jamaican mountains to indigenous Arawak techniques crossed with West African seasonings. Allspice is the foundational note — Jamaica grows most of the world's allspice and pimento (allspice) wood is the traditional fuel for jerk smoking. Scotch bonnet provides the trademark fierce heat. Thyme is the herbal layer. Plus a warm-spice supporting cast of cinnamon, cloves, nutmeg, ginger and pepper, with brown sugar to caramelise during grilling. This dry-rub version stores in the cupboard; the wet jerk marinade (with onion, garlic, soy sauce, vinegar, oil) is a different recipe built from this base.
+Jerk seasoning is the Jamaican spice rub for grilled meat, traceable through Maroon (escaped-slave) communities in the Jamaican mountains to indigenous Arawak techniques crossed with West African seasonings. Allspice is the foundational note, Jamaica grows most of the world's allspice and pimento (allspice) wood is the traditional fuel for jerk smoking. Scotch bonnet provides the trademark fierce heat. Thyme is the herbal layer. Plus a warm-spice supporting cast of cinnamon, cloves, nutmeg, ginger and pepper, with brown sugar to caramelise during grilling. This dry-rub version stores in the cupboard; the wet jerk marinade (with onion, garlic, soy sauce, vinegar, oil) is a different recipe built from this base.
 
 ## Ingredients
 
