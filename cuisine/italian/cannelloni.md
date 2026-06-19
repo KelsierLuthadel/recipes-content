@@ -83,8 +83,8 @@ Cannelloni is the Italian baked filled pasta, fresh pasta sheets rolled around a
 - **Seafood Version:** Replace filling with cooked crab, ricotta, and herbs for an elegant variation.
 
 ## Serving
-- Serve with: A simple green salad dressed with vinaigrette
-- Garnish with: Fresh basil leaves and Pecorino shavings
+- **Serve with:** A simple green salad dressed with vinaigrette
+- **Garnish with:** Fresh basil leaves and Pecorino shavings
 
 ## Storage
 - Keeps 4 days refrigerated

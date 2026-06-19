@@ -71,10 +71,10 @@ Tomato vinaigrette is the building block for summer pasta salads, white-bean pla
 - **With Fresh Thyme:** Add ½ teaspoon fresh thyme leaves alongside basil for herbal depth.
 
 ## Serving
-- Use with: Fresh pasta salads (dress immediately before serving), warm vegetable preparations, sliced tomatoes with fresh mozzarella, white bean salads, rice salads, grilled vegetable platters
-- Dressing ratio: 2-3 tablespoons per serving (the juice base is light and delicate)
-- Temperature: Room temperature or slightly cool
-- Application: Dress salads or vegetables immediately before serving; this dressing becomes heavy if it sits on greens
+- **Use with:** Fresh pasta salads (dress immediately before serving), warm vegetable preparations, sliced tomatoes with fresh mozzarella, white bean salads, rice salads, grilled vegetable platters
+- **Dressing ratio:** 2-3 tablespoons per serving (the juice base is light and delicate)
+- **Temperature:** Room temperature or slightly cool
+- **Application:** Dress salads or vegetables immediately before serving; this dressing becomes heavy if it sits on greens
 
 ## Storage
 - The fresh tomato juice can be prepared up to 1 day ahead and refrigerated in a sealed container.

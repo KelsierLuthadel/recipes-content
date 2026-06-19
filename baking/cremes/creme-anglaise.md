@@ -58,8 +58,8 @@ Crème anglaise is the building block under half the French dessert canon: a sil
 - **Thickness:** The sauce should coat the back of a spoon, it thickens slightly more as it cools.
 
 ## Serving
-- Serve with: Soufflés, fruit tarts, poached fruits, or chocolate desserts
-- Temperature options: Warm alongside hot desserts; chilled for parfaits and trifles
+- **Serve with:** Soufflés, fruit tarts, poached fruits, or chocolate desserts
+- **Temperature options:** Warm alongside hot desserts; chilled for parfaits and trifles
 
 ## Storage
 - Keeps 3-4 days refrigerated in an airtight container

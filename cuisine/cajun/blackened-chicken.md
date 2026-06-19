@@ -66,7 +66,7 @@ The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1
 - **Dry rub ahead:** Mix the spice blend in advance and store in an airtight container for up to 3 months
 
 ## Serving
-- Serve with: Caesar salad, coleslaw, club sandwich filling, rice pilaf, or roasted vegetables. A squeeze of fresh lemon brightens the dish.
+- **Serve with:** Caesar salad, coleslaw, club sandwich filling, rice pilaf, or roasted vegetables. A squeeze of fresh lemon brightens the dish.
 
 ## Storage
 - Keeps 2 days refrigerated

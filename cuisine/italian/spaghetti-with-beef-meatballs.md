@@ -88,8 +88,8 @@ Beef meatballs in tomato sauce is the heart of Italian-American home cooking, si
 - **Herb Variations:** Use 2 tablespoons fresh thyme instead of parsley for a different herbal character.
 
 ## Serving
-- Serve with: Crusty bread for sauce soaking, green salad with lemon vinaigrette, red wine
-- Garnish with: Fresh basil leaves, grated Parmesan, cracked black pepper
+- **Serve with:** Crusty bread for sauce soaking, green salad with lemon vinaigrette, red wine
+- **Garnish with:** Fresh basil leaves, grated Parmesan, cracked black pepper
 
 ## Storage
 - Refrigerate cooked meatballs and sauce together in an airtight container for up to 3 days

@@ -99,7 +99,7 @@ Krokiety are the breaded fried savoury rolls of Polish milk bars and Christmas E
 - **Baked version (lighter):** Brush the breaded krokiety with melted butter and bake at 200°C for 20-25 minutes, turning halfway. Less crisp than fried, but no oil splatter.
 
 ## Serving
-- Serve with: A cup of clear barszcz czerwony (beetroot broth) for Christmas Eve, or Polish mustard for everyday. A pickled cucumber on the side.
+- **Serve with:** A cup of clear barszcz czerwony (beetroot broth) for Christmas Eve, or Polish mustard for everyday. A pickled cucumber on the side.
 
 ## Storage
 - Cooked keep 2 days refrigerated; reheat in a 180°C oven for 10 minutes to re-crisp (microwave makes them soggy).

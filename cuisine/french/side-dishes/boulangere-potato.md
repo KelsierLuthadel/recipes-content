@@ -39,9 +39,9 @@ Boulangère potatoes are the bakery version of a French gratin, named for the tr
 - Keep a close eye under the grill at the end, the top can go from golden to burnt very quickly.
 
 ## Serving
-- Serve with: roast loin or leg of lamb, roast chicken, or any slow-roasted meat
-- Temperature: hot, straight from the oven or grill
-- Amount: one generous portion per person as a side dish
+- **Serve with:** roast loin or leg of lamb, roast chicken, or any slow-roasted meat
+- **Temperature:** hot, straight from the oven or grill
+- **Amount:** one generous portion per person as a side dish
 
 ## Storage
 - Leftovers keep well in the fridge for up to 3 days, covered with foil or in an airtight container.

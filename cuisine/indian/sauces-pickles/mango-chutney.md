@@ -72,8 +72,8 @@ The foundational sweet preserve of Indian kitchens and the most exported Indian 
 - **Smooth Texture:** Blend until completely smooth for a refined consistency.
 
 ## Serving
-- Serve with: Samosas, pakora, rotis, curries, cheeses
-- Garnish: None needed; this is a condiment
+- **Serve with:** Samosas, pakora, rotis, curries, cheeses
+- **Garnish:** None needed; this is a condiment
 
 ## Storage
 - Store in sterilized glass jars with tight-fitting lids

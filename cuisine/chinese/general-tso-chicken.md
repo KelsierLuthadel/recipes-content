@@ -75,7 +75,7 @@ General Tso's chicken is the American-Chinese classic Hunanese restaurateur Peng
 - **Cornstarch slurry:** Ensures smooth, glossy sauce without lumps.
 
 ## Serving
-- Serve with: Steamed white rice to balance the bold sauce
+- **Serve with:** Steamed white rice to balance the bold sauce
 
 ## Storage
 - Best served immediately for optimal crispness

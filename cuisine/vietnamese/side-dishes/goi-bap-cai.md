@@ -70,8 +70,8 @@ Poached chicken is shredded and tossed with finely shredded cabbage, carrot and 
 - **Vegetarian:** Skip the chicken, double the cabbage and add 200 g pan-fried firm tofu cut into batons. Use soy sauce in place of fish sauce.
 
 ## Serving
-- Serve with: prawn crackers (bánh phồng tôm) or as a starter before a noodle main.
-- Garnish with: extra herbs, a wedge of lime and a few slices of red chilli.
+- **Serve with:** prawn crackers (bánh phồng tôm) or as a starter before a noodle main.
+- **Garnish with:** extra herbs, a wedge of lime and a few slices of red chilli.
 
 ## Storage
 - Best eaten immediately after dressing

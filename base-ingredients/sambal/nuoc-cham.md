@@ -91,10 +91,10 @@ Nuoc cham is the foundation of Vietnamese seasoning, the dipping sauce that turn
 - **Extra Fresh:** Add 1 tablespoon finely chopped fresh mint or fresh coriander for herbal brightness.
 
 ## Serving
-- Use in: Rice dish condiment, noodle soup topping, vegetable dip, grilled meat accompaniment, spring roll dip
-- Typical ratio: 1-2 tablespoons per serving, adjusted individually for heat tolerance
-- Temperature: Served at room temperature, typically in small individual bowls for dipping
-- Application: Spooned onto plates alongside rice; diners add to taste; used as dipping for spring rolls and vegetables
+- **Use in:** Rice dish condiment, noodle soup topping, vegetable dip, grilled meat accompaniment, spring roll dip
+- **Typical ratio:** 1-2 tablespoons per serving, adjusted individually for heat tolerance
+- **Temperature:** Served at room temperature, typically in small individual bowls for dipping
+- **Application:** Spooned onto plates alongside rice; diners add to taste; used as dipping for spring rolls and vegetables
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days

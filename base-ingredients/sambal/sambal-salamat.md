@@ -100,10 +100,10 @@ Sambal salamat is the bright, juicy, fresh-vegetable answer to the dense ferment
 - **Extra Spicy:** Use 3 chillies with all seeds and membranes intact.
 
 ## Serving
-- Use in: Rice dish accompaniment, vegetable side condiment, protein temper, curry flavor agent
-- Typical ratio: 1-2 tablespoons per serving alongside rice
-- Temperature: Served at room temperature or lightly chilled
-- Application: Served in small bowl or spooned onto side of plate; diners add as desired to rice
+- **Use in:** Rice dish accompaniment, vegetable side condiment, protein temper, curry flavor agent
+- **Typical ratio:** 1-2 tablespoons per serving alongside rice
+- **Temperature:** Served at room temperature or lightly chilled
+- **Application:** Served in small bowl or spooned onto side of plate; diners add as desired to rice
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days

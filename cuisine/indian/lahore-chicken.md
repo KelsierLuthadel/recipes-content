@@ -89,8 +89,8 @@ A homely Punjabi household curry from Lahore: bone-in chicken pieces simmered in
 - **Colour:** The dish should be a deep, warm reddish-brown from the caramelised onions and tomatoes.
 
 ## Serving
-- Serve with: Steamed basmati rice, naan, or roti. Accompany with cucumber raita and pickled onions.
-- Garnish with: Fresh coriander and a wedge of lemon.
+- **Serve with:** Steamed basmati rice, naan, or roti. Accompany with cucumber raita and pickled onions.
+- **Garnish with:** Fresh coriander and a wedge of lemon.
 
 ## Storage
 - Keeps 3-4 days refrigerated in a sealed container

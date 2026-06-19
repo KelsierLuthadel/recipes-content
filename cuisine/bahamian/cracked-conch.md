@@ -88,8 +88,8 @@ The Bahamas' fried-fish answer to the seafood basket, the dish you'll find on ev
 - **Bake-and-fry batter:** Some cooks use a beer batter instead of the egg-and-flour double coat. Whisk 200 g flour, 1 teaspoon baking powder and 250 ml cold lager; dip and fry.
 
 ## Serving
-- Serve with: peas and rice, fries, slaw, or a soft white roll for sandwiches.
-- Garnish with: lime wedges, fresh hot sauce.
+- **Serve with:** peas and rice, fries, slaw, or a soft white roll for sandwiches.
+- **Garnish with:** lime wedges, fresh hot sauce.
 
 ## Storage
 - Best eaten immediately; the crust softens fast.

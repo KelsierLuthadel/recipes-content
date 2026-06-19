@@ -94,9 +94,9 @@ Light pizza dough is the building block for restaurant-quality pizza at home: an
 - **Oil-Rich:** Increase olive oil to 75 ml in Stage 2 for richer dough (though this changes the style).
 
 ## Serving
-- Use for: Pizza bases, focaccia, thick-crust applications  
-- Portions: Approximately 200-250g per large pizza or standard thin-crust pizza
-- Results: Light, crispy crust in non-fan oven; tender, open crumb; excellent flavor from long fermentation
+- **Use for:** Pizza bases, focaccia, thick-crust applications  
+- **Portions:** Approximately 200-250g per large pizza or standard thin-crust pizza
+- **Results:** Light, crispy crust in non-fan oven; tender, open crumb; excellent flavor from long fermentation
 
 ## Storage
 - **Before Stage 1 fermentation:** Keep covered at room temperature for 8-12 hours as directed

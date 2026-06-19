@@ -86,7 +86,7 @@ Diri ak djon djon is the dish that defines Haitian celebration cooking, slate-bl
 - **With crab:** small whole crabs (or large crab claws) are simmered briefly in the broth before the rice goes in, common at weddings.
 
 ## Serving
-- Serve with: griot (the classic pairing), stewed chicken (poul nan sòs), pikliz, sliced avocado, fried plantains. Almost always part of a larger Haitian Sunday spread rather than a stand-alone meal.
+- **Serve with:** griot (the classic pairing), stewed chicken (poul nan sòs), pikliz, sliced avocado, fried plantains. Almost always part of a larger Haitian Sunday spread rather than a stand-alone meal.
 
 ## Storage
 - Keeps 3 days refrigerated; reheat in a covered pan with a sprinkle of water, or in the microwave covered.

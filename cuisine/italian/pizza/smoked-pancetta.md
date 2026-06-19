@@ -76,8 +76,8 @@ A no-yeast, no-tomato pizza for a moderate weeknight effort. The dough mixes fro
 - **Vegetarian:** Drop the pancetta; add a handful of sautéed mushrooms or sliced potato in their place.
 
 ## Serving
-- Serve with: A peppery rocket salad and a glass of dry riesling or Alsatian pinot blanc
-- Garnish with: A drizzle of good olive oil and a few extra grinds of black pepper
+- **Serve with:** A peppery rocket salad and a glass of dry riesling or Alsatian pinot blanc
+- **Garnish with:** A drizzle of good olive oil and a few extra grinds of black pepper
 
 ## Storage
 - Best eaten fresh; the crème fraîche topping doesn't hold up well overnight

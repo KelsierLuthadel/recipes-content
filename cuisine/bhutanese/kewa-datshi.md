@@ -78,7 +78,7 @@ The gentler, more domestic cousin of ema datshi: a Bhutanese family supper of po
 - **Sosem datshi:** sliced asparagus replacing the potatoes in season.
 
 ## Serving
-- Serve with: Bhutanese red rice or plain rice as the staple, ema datshi (if you can handle two chilli-cheese dishes), a simple green vegetable stir-fry, and a small dish of ezay for those who want more heat. Salt butter tea (suja) traditionally accompanies the meal.
+- **Serve with:** Bhutanese red rice or plain rice as the staple, ema datshi (if you can handle two chilli-cheese dishes), a simple green vegetable stir-fry, and a small dish of ezay for those who want more heat. Salt butter tea (suja) traditionally accompanies the meal.
 
 ## Storage
 - Keeps 2 days refrigerated but the texture is best on day one, the potatoes absorb the sauce and the dish loses its loose, cheesy character. Reheat very gently with a splash of milk to loosen.

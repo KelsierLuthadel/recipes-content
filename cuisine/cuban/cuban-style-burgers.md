@@ -58,8 +58,8 @@ This is the Cuban-American burger you'd find at any Miami diner along Calle Ocho
 - **Citrus Marinade:** Marinate minced garlic and onion in lime and orange juice for 30 minutes before adding to the meat mixture for enhanced Cuban flavor.
 
 ## Serving
-- Serve with: Crispy shoestring potatoes, pickled onions, or a simple side salad
-- Garnish with: Fresh coriander, additional jalapeños for heat, or fresh lime wedges
+- **Serve with:** Crispy shoestring potatoes, pickled onions, or a simple side salad
+- **Garnish with:** Fresh coriander, additional jalapeños for heat, or fresh lime wedges
 
 ## Storage
 - Keeps 3-4 days refrigerated (store patties and assembly components separately)

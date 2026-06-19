@@ -95,8 +95,8 @@ Cuban empanadas are the deep-fried street-snack of every Havana corner stall, a 
 - **Black bean (vegetarian):** Replace beef with 300 g cooked drained black beans, mashed coarsely with the sofrito.
 
 ## Serving
-- Serve with: Mojo for dunking, hot sauce, lime wedges, cold beer.
-- Garnish with: A scatter of fresh coriander, lime wedges, a small bowl of pickled onion.
+- **Serve with:** Mojo for dunking, hot sauce, lime wedges, cold beer.
+- **Garnish with:** A scatter of fresh coriander, lime wedges, a small bowl of pickled onion.
 
 ## Storage
 - Shaped uncooked empanadas freeze 1 month; fry from frozen, adding 1 minute.

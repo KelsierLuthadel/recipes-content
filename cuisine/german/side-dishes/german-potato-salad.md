@@ -70,7 +70,7 @@ German potato salad is the warm cousin of the cold American picnic version, no m
 - **No mayonnaise here:** The mayo-bound version is a Northern German variant. This Bavarian version is sharper and lighter.
 
 ## Serving
-- Serve with: Bratwurst, Wiener schnitzel, roast pork, frikadellen. Beer-garden standard.
+- **Serve with:** Bratwurst, Wiener schnitzel, roast pork, frikadellen. Beer-garden standard.
 
 ## Storage
 - Best eaten the day it's made.

@@ -55,9 +55,9 @@ Creole spice mix is the New Orleans herb-and-paprika seasoning behind jambalaya,
 - **Seafood Creole:** Add 1 teaspoon celery seed for a slightly more classic Louisiana seafood seasoning.
 
 ## Serving
-- Use in: Jambalaya, gumbo, shrimp creole, blackened fish, roasted vegetables, grilled chicken
-- Typical ratio: 1-2 tablespoons per 500 g of protein or per large skillet of stew
-- Application: Add early in cooking for simmered dishes; sprinkle as a finishing seasoning for roasted or grilled foods
+- **Use in:** Jambalaya, gumbo, shrimp creole, blackened fish, roasted vegetables, grilled chicken
+- **Typical ratio:** 1-2 tablespoons per 500 g of protein or per large skillet of stew
+- **Application:** Add early in cooking for simmered dishes; sprinkle as a finishing seasoning for roasted or grilled foods
 
 ## Storage
 - Store in an airtight jar away from light and heat

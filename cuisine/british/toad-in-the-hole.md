@@ -72,8 +72,8 @@ The British classic of sausages sitting in a tall Yorkshire pudding, the dish in
 - **Sausages with skins on:** They contract and split slightly, releasing fat that flavours the batter from below.
 
 ## Serving
-- Serve with: The onion gravy at the table; mustard-dressed greens or peas alongside.
-- Garnish with: A last grind of black pepper.
+- **Serve with:** The onion gravy at the table; mustard-dressed greens or peas alongside.
+- **Garnish with:** A last grind of black pepper.
 
 ## Storage
 - Best eaten immediately; the pudding deflates within 10 minutes of leaving the oven.

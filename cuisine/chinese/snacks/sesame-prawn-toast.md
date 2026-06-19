@@ -52,9 +52,9 @@ Sesame prawn toast is the British-Chinese takeaway classic that grew up in 1960s
 - Drain on kitchen paper immediately after frying and serve quickly, as the bread softens as it cools.
 
 ## Serving
-- Serve with: sweet chilli sauce, soy dipping sauce, or plum sauce as a starter or part of a dim sum spread
-- Temperature: hot, served immediately after frying
-- Amount: 3 pieces per person as a starter or snack
+- **Serve with:** sweet chilli sauce, soy dipping sauce, or plum sauce as a starter or part of a dim sum spread
+- **Temperature:** hot, served immediately after frying
+- **Amount:** 3 pieces per person as a starter or snack
 
 ## Storage
 - Best eaten immediately after frying; the texture declines rapidly as the bread absorbs moisture and softens.

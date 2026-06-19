@@ -58,8 +58,8 @@ A modern Indian-restaurant chutney that splices the bright green-herb chutney wi
 - **Add Pomegranate:** Stir in 2 tablespoons pomegranate seeds after blending for texture and tartness.
 
 ## Serving
-- Serve with: Lamb seekh kebab, tandoori meats, samosas, pakora, grilled vegetables
-- Garnish: Fresh mint leaf, lime wedge
+- **Serve with:** Lamb seekh kebab, tandoori meats, samosas, pakora, grilled vegetables
+- **Garnish:** Fresh mint leaf, lime wedge
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

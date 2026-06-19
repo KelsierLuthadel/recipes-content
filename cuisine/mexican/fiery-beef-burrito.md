@@ -75,7 +75,7 @@ A heat-forward Mexican-American burrito for anyone who wants the chilli to do re
 - **With vegetables:** Add sautéed peppers and onions between the beef and rice
 
 ## Serving
-- Serve with: Extra chile de árbol red salsa, sour cream, lime wedges, and cold beverages to cool the heat
+- **Serve with:** Extra chile de árbol red salsa, sour cream, lime wedges, and cold beverages to cool the heat
 
 ## Storage
 - Best eaten immediately while warm and crispy

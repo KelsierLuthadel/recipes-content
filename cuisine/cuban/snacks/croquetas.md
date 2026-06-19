@@ -78,8 +78,8 @@ Croquetas are the Cuban bar-snack you find on every plate at every Miami café a
 - **Queso y jamón:** Add 50 g grated mature cheddar or Gouda with the ham for a melty croqueta.
 
 ## Serving
-- Serve with: Lime wedges, a small bowl of mojo or salsa verde, cold beer or a glass of dry sherry.
-- Garnish with: Fresh parsley, a sprinkle of paprika.
+- **Serve with:** Lime wedges, a small bowl of mojo or salsa verde, cold beer or a glass of dry sherry.
+- **Garnish with:** Fresh parsley, a sprinkle of paprika.
 
 ## Storage
 - Shaped, breaded, uncooked croquetas freeze excellently 1 month. Fry from frozen, adding 1 extra minute.

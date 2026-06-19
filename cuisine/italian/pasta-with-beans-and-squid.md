@@ -76,8 +76,8 @@ This is the colourful coastal Italian pasta of squid, chorizo, beans and tomato,
 - **White Bean Version:** Use all white beans and skip the chorizo for lighter preparation.
 
 ## Serving
-- Serve with: Crisp white wine (Pinot Grigio or similar), no cheese
-- Garnish with: Fresh flat-leaf parsley and lemon wedges
+- **Serve with:** Crisp white wine (Pinot Grigio or similar), no cheese
+- **Garnish with:** Fresh flat-leaf parsley and lemon wedges
 
 ## Storage
 - Best eaten immediately; the squid texture suffers if reheated

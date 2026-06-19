@@ -174,10 +174,10 @@ Biryani is the great rice-and-meat festival dish of India and one of the high po
 - **With Fried Ginger:** Add 30 grams julienned ginger, fried crispy, as garnish for extra warmth and texture.
 
 ## Serving
-- Use with: Nothing, biryani is a complete meal in itself. Traditionally accompanied by raita (yogurt sauce) and pickled onions
-- Temperature: Hot (serve within 15 minutes of final assembly)
-- Ratio: Serves 4 as main course (approximately 400ml per person)
-- Context: Festival celebrations, special occasions, Indian formal dinners, showstopper main course
+- **Use with:** Nothing, biryani is a complete meal in itself. Traditionally accompanied by raita (yogurt sauce) and pickled onions
+- **Temperature:** Hot (serve within 15 minutes of final assembly)
+- **Ratio:** Serves 4 as main course (approximately 400ml per person)
+- **Context:** Festival celebrations, special occasions, Indian formal dinners, showstopper main course
 
 ## Storage
 - Refrigerate cooked biryani in a sealed container for up to 3 days.

@@ -33,9 +33,9 @@ Big meaty portobello caps baked under a savoury topping of blue cheese, garlic-a
 - **Serving temperature:** Allow to cool for 1-2 minutes before serving as the cheese will be very hot.
 
 ## Serving
-- Serve with: Crusty bread to soak up the cheese filling
-- Garnish with: Fresh parsley leaves and a twist of black pepper
-- Accompaniment: Mixed green salad tossed with vinaigrette
+- **Serve with:** Crusty bread to soak up the cheese filling
+- **Garnish with:** Fresh parsley leaves and a twist of black pepper
+- **Accompaniment:** Mixed green salad tossed with vinaigrette
 
 ## Storage
 - Keeps 1-2 days refrigerated in an airtight container

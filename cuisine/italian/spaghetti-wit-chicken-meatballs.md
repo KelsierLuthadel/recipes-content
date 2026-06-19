@@ -87,8 +87,8 @@ This is the chicken-meatball version of the great Italian-American comfort dinne
 - **Herb Variations:** Replace sage with fresh thyme or rosemary for different herbal notes.
 
 ## Serving
-- Serve with: Crusty bread for sauce soaking, green salad
-- Garnish with: Fresh oregano, cracked black pepper, grated Parmesan, fresh basil
+- **Serve with:** Crusty bread for sauce soaking, green salad
+- **Garnish with:** Fresh oregano, cracked black pepper, grated Parmesan, fresh basil
 
 ## Storage
 - Refrigerate cooked meatballs and sauce together in an airtight container for up to 3 days

@@ -67,8 +67,8 @@ A weeknight calzone with the shortcut on the dough: a packet of ciabatta mix tha
 - **With sun-dried tomato:** Stir 4 chopped sun-dried tomatoes into the kale during the last minute of cooking.
 
 ## Serving
-- Serve with: A simple tomato salad dressed with olive oil and red wine vinegar
-- Garnish with: A drizzle of chilli oil and a few extra fresh chilli rings
+- **Serve with:** A simple tomato salad dressed with olive oil and red wine vinegar
+- **Garnish with:** A drizzle of chilli oil and a few extra fresh chilli rings
 
 ## Storage
 - Keeps 1 day refrigerated; reheat in a hot oven for 6 to 8 minutes

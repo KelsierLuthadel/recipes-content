@@ -43,9 +43,9 @@ Replace the Sauternes with 75 ml eau-de-vie, such as raspberry or pear, or Kirsc
 - Once the bowl is removed from the heat, keep whisking until the mixture cools slightly; this final stage builds the thick, shiny texture and prevents the sabayon from collapsing.
 
 ## Serving
-- Serve with: summer berries, fruit-filled crêpes, or a medley of red fruits
-- Temperature: warm, served immediately
-- Amount: approximately 3-4 tablespoons per person
+- **Serve with:** summer berries, fruit-filled crêpes, or a medley of red fruits
+- **Temperature:** warm, served immediately
+- **Amount:** approximately 3-4 tablespoons per person
 
 ## Storage
 - Sabayon is best served immediately after making and does not keep well.

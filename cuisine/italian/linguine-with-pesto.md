@@ -53,8 +53,8 @@ Linguine with pesto is the Genoese tradition, fresh-pounded basil pesto folded i
 - **With Cream:** Fold 50ml double cream into the pesto for richness.
 
 ## Serving
-- Serve with: Fresh warm bread and a glass of dry white wine (Vermentino or Sauvignon Blanc)
-- Garnish with: Extra basil leaves and Parmesan shavings
+- **Serve with:** Fresh warm bread and a glass of dry white wine (Vermentino or Sauvignon Blanc)
+- **Garnish with:** Extra basil leaves and Parmesan shavings
 
 ## Storage
 - Best eaten immediately after preparation

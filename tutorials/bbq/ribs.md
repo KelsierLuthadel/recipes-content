@@ -144,8 +144,8 @@ Slice between the bones, each bone-and-meat slice is one portion. Serve simply: 
 ## Serving
 
 - Slice between the bones; serve as individual rib portions.
-- Sides: coleslaw, potato salad, baked beans, corn bread, mac and cheese, pickled vegetables.
-- Drink: cold beer, sweet tea, dry hard cider.
+- **Sides:** coleslaw, potato salad, baked beans, corn bread, mac and cheese, pickled vegetables.
+- **Drink:** cold beer, sweet tea, dry hard cider.
 
 ## Common Failures
 

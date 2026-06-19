@@ -101,10 +101,10 @@ Green Balti masala paste is the building block for lighter, herb-led British-Ind
 - **Milder Cloves:** Reduce to ¼ teaspoon if clove flavor is too strong for your taste.
 
 ## Serving
-- Use in: British-Indian curries, green vegetable curries, mild curries with fresh herb character
-- Typical ratio: 3-4 tablespoons per 400 ml water or stock
-- Cooking: Fry in hot oil with onions before adding liquid and main ingredients
-- Temperature: Requires cooking in hot oil before use
+- **Use in:** British-Indian curries, green vegetable curries, mild curries with fresh herb character
+- **Typical ratio:** 3-4 tablespoons per 400 ml water or stock
+- **Cooking:** Fry in hot oil with onions before adding liquid and main ingredients
+- **Temperature:** Requires cooking in hot oil before use
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 2 months

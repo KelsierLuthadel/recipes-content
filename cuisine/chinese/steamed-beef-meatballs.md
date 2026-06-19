@@ -52,7 +52,7 @@ These meatballs are the answer to the question of how to make a beef meatball th
 - **Steaming:** Gentler than pan-frying, steaming keeps the meatballs moist and tender.
 
 ## Serving
-- Serve with: A dipping sauce such as soy-ginger or chilli oil; or as part of a larger Chinese meal
+- **Serve with:** A dipping sauce such as soy-ginger or chilli oil; or as part of a larger Chinese meal
 
 ## Storage
 - Keeps 3-4 days refrigerated

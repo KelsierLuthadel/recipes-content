@@ -60,7 +60,7 @@ Gongbao jiding is one of those Sichuan dishes that lives or dies by its timing: 
 - **Make-ahead friendly:** This dish actually improves after 24 hours as flavours develop. Reheat gently to avoid drying the chicken.
 
 ## Serving
-- Serve with: Steamed white rice to balance the heat
+- **Serve with:** Steamed white rice to balance the heat
 
 ## Storage
 - Keeps 3-4 days refrigerated (flavour improves with age)

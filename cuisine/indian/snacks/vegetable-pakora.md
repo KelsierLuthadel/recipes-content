@@ -75,9 +75,9 @@ Vegetable pakora is the North Indian monsoon snack and the dish that comes out o
 - **Palak pakora:** Whole spinach leaves dipped in batter, fried flat. Eaten as a starter.
 
 ## Serving
-- Serve with: mint-coriander chutney, tamarind chutney, tomato ketchup (the casual choice), or a wedge of lemon.
-- Temperature: hot, just-fried.
-- Drink: masala chai or salty lassi.
+- **Serve with:** mint-coriander chutney, tamarind chutney, tomato ketchup (the casual choice), or a wedge of lemon.
+- **Temperature:** hot, just-fried.
+- **Drink:** masala chai or salty lassi.
 
 ## Storage
 - Eat within 30 minutes; the texture softens fast.

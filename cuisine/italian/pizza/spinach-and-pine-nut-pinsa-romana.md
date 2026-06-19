@@ -60,8 +60,8 @@ Pinsa is Rome's lighter, longer-fermented cousin of pizza, and pre-made pinsa ba
 - **Mushroom and spinach:** Add 100 grams of sliced sautéed chestnut mushrooms with the spinach for a heartier base.
 
 ## Serving
-- Serve with: A glass of soave or pinot grigio and a peppery leaf salad
-- Garnish with: A drizzle of truffle oil (a few drops only) for special occasions
+- **Serve with:** A glass of soave or pinot grigio and a peppery leaf salad
+- **Garnish with:** A drizzle of truffle oil (a few drops only) for special occasions
 
 ## Storage
 - Best eaten fresh from the oven; pine nuts and bases lose their crispness on standing

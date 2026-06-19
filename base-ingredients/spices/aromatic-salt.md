@@ -98,10 +98,10 @@ Aromatic salt is the finishing salt for Balti and British-Indian dishes, kept in
 - **With Fresh Herbs:** Fresh herb versions don't store well; for immediate use, substitute 1 ½ tablespoons fresh coriander or parsley to light or spicy versions.
 
 ## Serving
-- Use in: Balti curries, as a finishing salt for rice and vegetables, sprinkled on bread, used to season yogurt
-- Typical ratio: ½ teaspoon light version or ¼ teaspoon spicy version replaces standard salt in finishing
-- Application: Sprinkle over completed dishes or stir in just before serving for best impact
-- Temperature: Use as finishing salt; not mean for cooking into dishes from the start
+- **Use in:** Balti curries, as a finishing salt for rice and vegetables, sprinkled on bread, used to season yogurt
+- **Typical ratio:** ½ teaspoon light version or ¼ teaspoon spicy version replaces standard salt in finishing
+- **Application:** Sprinkle over completed dishes or stir in just before serving for best impact
+- **Temperature:** Use as finishing salt; not mean for cooking into dishes from the start
 
 ## Storage
 - Store in airtight jar in cool, dark place away from moisture and humidity

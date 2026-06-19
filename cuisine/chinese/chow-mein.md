@@ -66,7 +66,7 @@ Chow mein, literally "stir-fried noodles", is the dish every Cantonese takeaway 
 - **Sesame oil finish:** Added at the very end, it provides authentic fragrance and flavour.
 
 ## Serving
-- Serve with: A simple vegetable side or light soup to balance the richness
+- **Serve with:** A simple vegetable side or light soup to balance the richness
 
 ## Storage
 - Best served immediately for optimal texture

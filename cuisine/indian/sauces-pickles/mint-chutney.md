@@ -54,8 +54,8 @@ The bright-green dipping chutney that turns up on every Indian restaurant table 
 - **Garlic Emphasis:** Use 2 tablespoons of garlic paste instead of combined garlic-ginger for more punch.
 
 ## Serving
-- Serve with: Samosas, pakora, tandoori dishes, curries, rotis
-- Garnish: Fresh mint sprig, squeeze of lime
+- **Serve with:** Samosas, pakora, tandoori dishes, curries, rotis
+- **Garnish:** Fresh mint sprig, squeeze of lime
 
 ## Storage
 - Refrigerate in a covered container for up to 4 days

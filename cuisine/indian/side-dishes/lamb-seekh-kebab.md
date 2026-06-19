@@ -83,9 +83,9 @@ Seekh kebab is restaurant-quality barbecue. Unlike simple meatballs, seekh kebab
 - **Extra Herbs:** Include 1 tablespoon fresh mint leaves or add ¼ teaspoon asafoetida.
 
 ## Serving
-- Serve with: Rice pilau, breads (naan, rotis), raita
-- Garnish: Fresh coriander, lemon wedges, thinly sliced red onion
-- Accompaniments: Yoghurt, lemon juice, fresh mint
+- **Serve with:** Rice pilau, breads (naan, rotis), raita
+- **Garnish:** Fresh coriander, lemon wedges, thinly sliced red onion
+- **Accompaniments:** Yoghurt, lemon juice, fresh mint
 
 ## Storage
 - Refrigerate molded raw kebabs on a tray for up to 24 hours (covered)

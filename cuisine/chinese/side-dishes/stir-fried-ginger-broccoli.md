@@ -39,9 +39,9 @@ This is the side dish you cook when you want green on the plate and don't want t
 - Add the sesame oil only in the final 30 seconds so its flavour is not cooked away.
 
 ## Serving
-- Serve with: steamed rice, noodles, or alongside stir-fried meat or fish dishes
-- Temperature: hot, or at room temperature as a salad accompaniment
-- Amount: 2-4 portions as a side dish
+- **Serve with:** steamed rice, noodles, or alongside stir-fried meat or fish dishes
+- **Temperature:** hot, or at room temperature as a salad accompaniment
+- **Amount:** 2-4 portions as a side dish
 
 ## Storage
 - Store leftovers in an airtight container in the fridge for up to 3 days.

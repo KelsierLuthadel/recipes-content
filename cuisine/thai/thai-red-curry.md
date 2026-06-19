@@ -97,7 +97,7 @@ Gaeng phed gai is the classic Thai red curry, chicken simmered in a coconut sauc
 - **With Thai eggplant:** Add 200g Thai eggplant (halved) in Stage 5 for traditional texture and flavour
 
 ## Serving
-- Serve with: Jasmine rice, Thai sticky rice, or naan bread. Accompany with fresh lime wedges and extra chillies on the side.
+- **Serve with:** Jasmine rice, Thai sticky rice, or naan bread. Accompany with fresh lime wedges and extra chillies on the side.
 
 ## Storage
 - Keeps 3 days refrigerated in an airtight container

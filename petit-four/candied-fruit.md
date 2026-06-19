@@ -80,9 +80,9 @@ Candied citrus peel is the petit-four trick that turns the part of the fruit you
 - **Vanilla-Sugar Coating:** Replace half the granulated sugar with vanilla sugar for fragrant finish.
 
 ## Serving
-- Perfect with: Strong tea or coffee, afternoon tea service, as part of a petit four platter, alongside dark chocolate, holiday gifts
-- Temperature: Room temperature
-- Context: Elegant presentations, tea service, seasonal celebrations
+- **Perfect with:** Strong tea or coffee, afternoon tea service, as part of a petit four platter, alongside dark chocolate, holiday gifts
+- **Temperature:** Room temperature
+- **Context:** Elegant presentations, tea service, seasonal celebrations
 
 ## Storage
 - Store in an airtight container in the refrigerator, interleaving peels with parchment paper to prevent sticking: 2-3 weeks

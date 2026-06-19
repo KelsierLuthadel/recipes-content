@@ -70,9 +70,9 @@ Onion bhajis are the simplest fritters yet utterly addictive. Thinly sliced onio
 - **Cauliflower Mix:** Replace half the onion with finely chopped raw cauliflower florets.
 
 ## Serving
-- Serve with: Instant chutneys, yoghurt relish, cucumber raita, tamarind sauce
-- Accompaniments: Lemon wedges, fresh mint
-- Vessels: Serve on a warm plate lined with kitchen paper
+- **Serve with:** Instant chutneys, yoghurt relish, cucumber raita, tamarind sauce
+- **Accompaniments:** Lemon wedges, fresh mint
+- **Vessels:** Serve on a warm plate lined with kitchen paper
 
 ## Storage
 - Best served immediately when crispy

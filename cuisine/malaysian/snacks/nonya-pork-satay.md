@@ -52,9 +52,9 @@ The skewered Nyonya pork satay that turns up at Malaysian weddings, weekend barb
 - **Pork selection:** Use pork tenderloin rather than shoulder for tender, quick-cooking morsels.
 
 ## Serving
-- Serve with: Steamed rice, cucumber salad, and lime wedges
-- Garnish with: Fresh coriander leaves and thin red chilli slices
-- Accompaniment: Extra peanut sauce on the side for dipping
+- **Serve with:** Steamed rice, cucumber salad, and lime wedges
+- **Garnish with:** Fresh coriander leaves and thin red chilli slices
+- **Accompaniment:** Extra peanut sauce on the side for dipping
 
 ## Storage
 - Keeps 2-3 days refrigerated (store meat and sauce separately)

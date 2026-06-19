@@ -77,8 +77,8 @@ The Burmese banana fritter that turns up at street stalls across Yangon and Mand
 - **Honey drizzle:** A modern Yangon cafe finish: drizzle with thin honey or palm sugar syrup just before serving.
 
 ## Serving
-- Serve with: a scoop of coconut or vanilla ice cream for a dessert plate, or a glass of cold black coffee for a teashop snack.
-- Garnish with: extra sesame seeds, a wedge of lime, or a scatter of toasted coconut.
+- **Serve with:** a scoop of coconut or vanilla ice cream for a dessert plate, or a glass of cold black coffee for a teashop snack.
+- **Garnish with:** extra sesame seeds, a wedge of lime, or a scatter of toasted coconut.
 
 ## Storage
 - Eat within 20 minutes of frying. The shell softens fast.

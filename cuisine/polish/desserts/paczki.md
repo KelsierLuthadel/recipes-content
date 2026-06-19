@@ -99,7 +99,7 @@ Pączki are the doughnuts of Fat Thursday (Tłusty Czwartek), eaten by the thous
 - **Custard:** Pastry cream is a modern bakery filling; some purists object, but bakeries everywhere do them.
 
 ## Serving
-- Serve with: Strong coffee or a glass of milk. On Fat Thursday (the last Thursday before Lent), tradition says eat at least one to ensure a year of luck.
+- **Serve with:** Strong coffee or a glass of milk. On Fat Thursday (the last Thursday before Lent), tradition says eat at least one to ensure a year of luck.
 
 ## Storage
 - Best on the day. Keeps 2 days at room temperature in an airtight box but they soften.

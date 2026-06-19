@@ -75,10 +75,10 @@ Kashmiri garam masala is the elegant aromatic finishing spice of north Indian pa
 - **More Saffron:** Increase saffron to 1 ½ teaspoons for deeper color and aroma.
 
 ## Serving
-- Use in: Kashmiri curries, fragrant rice pilafs, finishing spice for soups and stews
-- Typical ratio: ½-1 teaspoon sprinkled per serving
-- Application: Add 1-2 minutes before serving or sprinkle over finished dish
-- Temperature: Never cook for extended time; add near end of cooking only
+- **Use in:** Kashmiri curries, fragrant rice pilafs, finishing spice for soups and stews
+- **Typical ratio:** ½-1 teaspoon sprinkled per serving
+- **Application:** Add 1-2 minutes before serving or sprinkle over finished dish
+- **Temperature:** Never cook for extended time; add near end of cooking only
 
 ## Storage
 - Store in airtight jar in cool, dark place away from light and heat

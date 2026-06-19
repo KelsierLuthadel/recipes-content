@@ -70,8 +70,8 @@ Irish stew is the country-kitchen classic elevated to comfort-food status, middl
 - **Modern Irish:** Include 2 bay leaves and 2 teaspoons fresh thyme for added herbaceous depth.
 
 ## Serving
-- Serve with: Thick crusty bread for soaking up the broth, or colcannon (mashed potatoes with cabbage)
-- Garnish with: Fresh flat-leaf parsley and a light grinding of black pepper
+- **Serve with:** Thick crusty bread for soaking up the broth, or colcannon (mashed potatoes with cabbage)
+- **Garnish with:** Fresh flat-leaf parsley and a light grinding of black pepper
 
 ## Storage
 - Keeps 4-5 days refrigerated; flavors actually improve after 24 hours

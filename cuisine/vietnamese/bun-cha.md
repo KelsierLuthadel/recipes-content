@@ -94,8 +94,8 @@ Two cuts of pork (sliced belly and seasoned mince patties) are marinated in a fi
 - **Beef bun bo:** Swap pork for thinly sliced beef; reduce the cook time on the grill.
 
 ## Serving
-- Serve with: Vietnamese pickled chillies and a small dish of crushed roasted peanuts
-- Garnish with: A sprig of perilla leaves alongside the mint and basil
+- **Serve with:** Vietnamese pickled chillies and a small dish of crushed roasted peanuts
+- **Garnish with:** A sprig of perilla leaves alongside the mint and basil
 
 ## Storage
 - Pork keeps 2 days refrigerated; reheat briefly under a hot grill

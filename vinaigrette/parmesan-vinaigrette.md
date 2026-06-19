@@ -68,10 +68,10 @@ Parmesan vinaigrette is the building block for winter and autumn salads with cha
 - **With Shallot:** Add 1 finely minced shallot for aromatic complexity.
 
 ## Serving
-- Use with: Raw chicory, tender spinach, sliced mushrooms, bitter winter greens, warm cooked vegetables
-- Dressing ratio: 2-3 tablespoons per serving
-- Temperature: Room temperature
-- Timing: Dress just before serving
+- **Use with:** Raw chicory, tender spinach, sliced mushrooms, bitter winter greens, warm cooked vegetables
+- **Dressing ratio:** 2-3 tablespoons per serving
+- **Temperature:** Room temperature
+- **Timing:** Dress just before serving
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 3 days

@@ -84,8 +84,8 @@ The Bahamas' Saturday-morning hangover cure, the breakfast bowl that arrives ste
 - **Pig-foot souse:** Use 1.2 kg trimmed pig's feet; simmer 2 ½ hours until the skin and meat are tender.
 
 ## Serving
-- Serve with: johnnycake, grits, or thick buttered white bread.
-- Garnish with: chopped parsley, hot sauce, lime wedges.
+- **Serve with:** johnnycake, grits, or thick buttered white bread.
+- **Garnish with:** chopped parsley, hot sauce, lime wedges.
 
 ## Storage
 - Keeps 3 days refrigerated. The flavour improves overnight; the citric edge softens slightly but stays bright.

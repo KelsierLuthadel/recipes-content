@@ -76,7 +76,7 @@ Frikadellen are the German meatballs that aren't really meatballs, more like fla
 - **Bouletten (Berlin name):** Same recipe, sometimes with a pinch of caraway.
 
 ## Serving
-- Serve with: German potato salad, kartoffelpüree (mash), or simply a bread roll with mustard and a gherkin. Beer-garden classic.
+- **Serve with:** German potato salad, kartoffelpüree (mash), or simply a bread roll with mustard and a gherkin. Beer-garden classic.
 
 ## Storage
 - Keeps 3 days refrigerated; eat cold in a roll or reheat in a pan with a knob of butter.

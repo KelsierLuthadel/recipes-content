@@ -68,8 +68,8 @@ This vegetarian Italian pasta proves that the right technique matters more than 
 - **Walnut Version:** Replace pine nuts with toasted walnuts for earthier flavor.
 
 ## Serving
-- Serve with: A crisp white wine and crusty bread
-- Garnish with: Fresh basil leaves, Parmesan shavings, and cracked pepper
+- **Serve with:** A crisp white wine and crusty bread
+- **Garnish with:** Fresh basil leaves, Parmesan shavings, and cracked pepper
 
 ## Storage
 - Best eaten immediately while broccoli remains firm

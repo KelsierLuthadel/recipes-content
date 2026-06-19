@@ -100,7 +100,7 @@ Diri kole ak pwa is Haiti's national starch staple, the rice-and-beans combinati
 - **With coconut milk:** add 200 ml of coconut milk in place of 200 ml of the bean liquor; gives a richer Caribbean version that bridges to Jamaican rice-and-peas style.
 
 ## Serving
-- Alongside any Haitian protein: griot, tasso, poulet créole, legume, fried fish. A spoonful of pikliz on the side is traditional. Drink: cremas (rum-coconut), Prestige lager, or simply cold water with lime.
+- **Alongside any Haitian protein:** griot, tasso, poulet créole, legume, fried fish. A spoonful of pikliz on the side is traditional. Drink: cremas (rum-coconut), Prestige lager, or simply cold water with lime.
 
 ## Storage
 - Keeps refrigerated 3 days; reheat in a covered pan with a splash of water to refresh the moisture (microwave at low power works too).

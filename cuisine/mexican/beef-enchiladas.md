@@ -72,7 +72,7 @@ The Tex-Mex enchilada that turns up at every American-Mexican family table and e
 - **Black bean only:** Replace ground beef with an additional 439g black beans for a vegetarian version
 
 ## Serving
-- Serve with: Mexican rice, refried beans, guacamole, and sour cream on the side. Lime wedges add freshness.
+- **Serve with:** Mexican rice, refried beans, guacamole, and sour cream on the side. Lime wedges add freshness.
 
 ## Storage
 - Keeps 3 days refrigerated

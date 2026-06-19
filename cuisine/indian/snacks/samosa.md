@@ -91,9 +91,9 @@ The samosa is India's most loved tea-time snack and one of the most travelled pa
 - **Baked samosa:** Brush with oil; bake at 200°C for 25 minutes, turning halfway. Lighter but the pastry is bread-like, not blistered.
 
 ## Serving
-- Serve with: tamarind chutney, mint-coriander chutney, sliced raw onion, lemon wedges.
-- Temperature: hot, freshly fried.
-- Drink: masala chai.
+- **Serve with:** tamarind chutney, mint-coriander chutney, sliced raw onion, lemon wedges.
+- **Temperature:** hot, freshly fried.
+- **Drink:** masala chai.
 
 ## Storage
 - Best eaten within 30 minutes of frying.

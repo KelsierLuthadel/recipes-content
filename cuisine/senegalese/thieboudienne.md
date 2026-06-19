@@ -94,8 +94,8 @@ Thiéboudiène is Senegal's national dish and arguably the great rice dish of We
 - **Chicken:** Yassa-style chicken thighs can replace the fish if you can not source firm steaks; reduce poaching to about 25 minutes.
 
 ## Serving
-- Serve with: Lime wedges and chilli paste; sometimes a small dish of sour mustard pickle.
-- Garnish with: A handful of chopped parsley over the rice.
+- **Serve with:** Lime wedges and chilli paste; sometimes a small dish of sour mustard pickle.
+- **Garnish with:** A handful of chopped parsley over the rice.
 
 ## Storage
 - Keeps 2 days refrigerated; reheat gently with a splash of water.

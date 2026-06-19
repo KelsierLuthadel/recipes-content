@@ -63,8 +63,8 @@ A grill-cooked version of the traditional tandoor naan: large, light and slightl
 - **Cheese naan:** Roll the disc, place a tablespoon of grated mozzarella in the middle, fold the dough over and seal, then re-roll gently before grilling.
 
 ## Serving
-- Serve with: Any rich Indian curry; particularly suited to sauces begging to be soaked up, like a korma or rogan josh.
-- Garnish with: An extra brush of melted ghee and a final sprinkle of sesame seeds.
+- **Serve with:** Any rich Indian curry; particularly suited to sauces begging to be soaked up, like a korma or rogan josh.
+- **Garnish with:** An extra brush of melted ghee and a final sprinkle of sesame seeds.
 
 ## Storage
 - Best torn straight off the grill while still warm.

@@ -55,10 +55,10 @@ French vinaigrette is the foundation building block of classical cuisine, the dr
 - **With Tarragon:** Add 1 teaspoon fresh tarragon for herbaceous character.
 
 ## Serving
-- Use with: Simple green salads, bitter lettuces, warm vegetables, roasted potatoes, grilled fish, cold meats
-- Dressing ratio: 1-2 tablespoons per serving of greens
-- Temperature: Room temperature
-- Timing: Apply just before serving
+- **Use with:** Simple green salads, bitter lettuces, warm vegetables, roasted potatoes, grilled fish, cold meats
+- **Dressing ratio:** 1-2 tablespoons per serving of greens
+- **Temperature:** Room temperature
+- **Timing:** Apply just before serving
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days

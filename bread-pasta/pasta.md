@@ -76,9 +76,9 @@ Fresh pasta dough is the foundation building block of Italian cooking, the silky
 
 ## Serving
 - Serve immediately after cooking (fresh pasta is best served within seconds of draining)
-- Dress with: Butter and sage, olive oil and garlic, quick tomato sauce, creamy sauces, or pesto
-- Amount: 350g dough serves 2-3 people
-- Shape options: Cut into ribbons (fettuccine, pappardelle, tagliatelle), shapes for filling (ravioli, tortellini), or lasagne sheets
+- **Dress with:** Butter and sage, olive oil and garlic, quick tomato sauce, creamy sauces, or pesto
+- **Amount:** 350g dough serves 2-3 people
+- **Shape options:** Cut into ribbons (fettuccine, pappardelle, tagliatelle), shapes for filling (ravioli, tortellini), or lasagne sheets
 
 ## Storage
 - Fresh, uncooked pasta: Store on a lightly floured tray at room temperature for up to 2 hours, or refrigerate covered for up to 1 day

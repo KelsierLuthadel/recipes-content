@@ -91,10 +91,10 @@ Rosemary bread trios are the building block for a soup-and-bread supper or a sof
 - **Plain Dinner Rolls:** Omit the rosemary for simple, versatile dinner rolls.
 
 ## Serving
-- Serve with: Soup, salad, butter, or jam
-- Temperature: Serve warm or at room temperature
-- Amount: 1 trio (3 buns) per person
-- Accompaniments: Butter, spreadable cheese, or soup for dipping
+- **Serve with:** Soup, salad, butter, or jam
+- **Temperature:** Serve warm or at room temperature
+- **Amount:** 1 trio (3 buns) per person
+- **Accompaniments:** Butter, spreadable cheese, or soup for dipping
 
 ## Storage
 - Best served warm on the day of baking

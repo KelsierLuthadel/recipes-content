@@ -112,9 +112,9 @@ During the rest, the meat's internal temperature actually rises slightly (carry-
 
 - Whole sliced flat on a platter
 - Burnt ends on the side
-- Optional: Texas-style BBQ sauce, kept on the side (the meat is meant to stand alone)
-- Sides: potato salad, coleslaw, baked beans, white bread, pickled jalapenos, sliced onion, pickles
-- Drink: cold beer
+- **Optional:** Texas-style BBQ sauce, kept on the side (the meat is meant to stand alone)
+- **Sides:** potato salad, coleslaw, baked beans, white bread, pickled jalapenos, sliced onion, pickles
+- **Drink:** cold beer
 
 ## Common Failures
 

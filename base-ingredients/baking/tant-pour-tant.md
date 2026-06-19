@@ -52,9 +52,9 @@ Tant pour tant is the building block under macarons, biscuit joconde, financiers
 - **Hazelnut:** Use equal parts ground hazelnuts and icing sugar by weight.
 
 ## Serving
-- Use in: Macaron shells, Gênoise sponge, almond-based cakes, entremets, pastry creams with almond
-- Temperature: Room temperature (use dry, not moistened)
-- Amount: Per specific recipe (typically 100-150g tant pour tant per macaron or dessert recipe)
+- **Use in:** Macaron shells, Gênoise sponge, almond-based cakes, entremets, pastry creams with almond
+- **Temperature:** Room temperature (use dry, not moistened)
+- **Amount:** Per specific recipe (typically 100-150g tant pour tant per macaron or dessert recipe)
 
 ## Storage
 - Store in an airtight container at room temperature for up to 2 weeks

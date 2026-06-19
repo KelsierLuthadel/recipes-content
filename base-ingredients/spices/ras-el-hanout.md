@@ -49,9 +49,9 @@ Ras el hanout is the showpiece Moroccan blend, the literal "top of the shop" eac
 - **Saffron variant.** A pinch of crushed saffron threads stirred in at the end lifts the blend into special-occasion territory.
 
 ## Serving
-- Use in: lamb tagines, chicken tagines, couscous dishes, roasted root vegetables, slow-cooked stews, grilled lamb marinades
-- Typical ratio: 1 to 2 teaspoons per portion
-- Application: bloomed in hot oil at the start, or rubbed into meat before roasting
+- **Use in:** lamb tagines, chicken tagines, couscous dishes, roasted root vegetables, slow-cooked stews, grilled lamb marinades
+- **Typical ratio:** 1 to 2 teaspoons per portion
+- **Application:** bloomed in hot oil at the start, or rubbed into meat before roasting
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

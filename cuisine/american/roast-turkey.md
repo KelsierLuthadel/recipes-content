@@ -109,7 +109,7 @@ A whole roast turkey is the centrepiece of the American Thanksgiving table and m
 - **No-herb butter:** Plain salted butter rubbed under and over the skin with a tablespoon of cracked black pepper. Simpler but still excellent.
 
 ## Serving
-- The American holiday platter: roast turkey with gravy, bread stuffing or cornbread dressing, mashed potatoes, candied sweet potatoes or sweet potato casserole, green bean casserole or buttered green beans, cranberry sauce and dinner rolls. A glass of pinot noir, riesling or beaujolais alongside.
+- **The American holiday platter:** roast turkey with gravy, bread stuffing or cornbread dressing, mashed potatoes, candied sweet potatoes or sweet potato casserole, green bean casserole or buttered green beans, cranberry sauce and dinner rolls. A glass of pinot noir, riesling or beaujolais alongside.
 
 ## Storage
 - Carved turkey keeps 3-4 days refrigerated in a sealed container. Reheat gently with a splash of stock to avoid drying.

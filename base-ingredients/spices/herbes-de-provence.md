@@ -35,9 +35,9 @@ Herbes de Provence is the herb blend of Provence, the sunny southern French regi
 - **Fresh vs dried.** This blend is specifically for the dried-herb pantry use; fresh herbs are a different dish entirely.
 
 ## Serving
-- Use in: roast lamb, roast chicken, ratatouille, slow-cooked beef stews, herb-roasted potatoes, marinades for grilled meat
-- Typical ratio: 1 to 2 teaspoons per portion
-- Application: rubbed onto meat before roasting, or sprinkled into the pan with olive oil at the start
+- **Use in:** roast lamb, roast chicken, ratatouille, slow-cooked beef stews, herb-roasted potatoes, marinades for grilled meat
+- **Typical ratio:** 1 to 2 teaspoons per portion
+- **Application:** rubbed onto meat before roasting, or sprinkled into the pan with olive oil at the start
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

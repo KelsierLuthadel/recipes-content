@@ -66,7 +66,7 @@ Surówka is the bright crunchy slaw that turns up next to almost every Polish lu
 - **With horseradish:** Stir 1 teaspoon prepared horseradish into the dressing for extra bite.
 
 ## Serving
-- Serve with: Kotlet schabowy, roast chicken, fried fish, pork chops, or alongside potato dumplings. The crunchy fresh foil to heavy Polish mains.
+- **Serve with:** Kotlet schabowy, roast chicken, fried fish, pork chops, or alongside potato dumplings. The crunchy fresh foil to heavy Polish mains.
 
 ## Storage
 - Best on the day. Keeps 1 day refrigerated but softens noticeably.

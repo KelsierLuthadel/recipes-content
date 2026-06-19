@@ -83,9 +83,9 @@ This is the Italian elegance pasta designed for romantic dinners, fresh prawns c
 - **Without Walnuts:** Use pine nuts instead for lighter character, or omit entirely for pure prawn and cream focus.
 
 ## Serving
-- Serve as: Special occasion main course, romantic dinner
-- Garnish with: Fresh parsley leaves, cracked black pepper, lemon wedges
-- Pair with: Crisp white wine (Pinot Grigio) or light sparkling wine
+- **Serve as:** Special occasion main course, romantic dinner
+- **Garnish with:** Fresh parsley leaves, cracked black pepper, lemon wedges
+- **Pair with:** Crisp white wine (Pinot Grigio) or light sparkling wine
 
 ## Storage
 - Best served immediately; prawns lose quality when reheated

@@ -61,7 +61,7 @@ The whole point of this dish is in the knife: the beef must be cut into very thi
 - **Vegetable separation:** Cooking vegetables separately then recombining maintains texture contrast.
 
 ## Serving
-- Serve with: Steamed rice or noodles
+- **Serve with:** Steamed rice or noodles
 
 ## Storage
 - Best served immediately for optimal texture

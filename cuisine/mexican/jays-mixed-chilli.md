@@ -95,7 +95,7 @@ A Tex-Mex chilli pushed past its usual edges: beef and pork mince with smoked pa
 - **Turkey alternative:** Use ground turkey instead of beef for a lighter version
 
 ## Serving
-- Serve with: Cooked rice, cornbread, sour cream, shredded cheese, diced onion, and fresh coriander
+- **Serve with:** Cooked rice, cornbread, sour cream, shredded cheese, diced onion, and fresh coriander
 
 ## Storage
 - Keeps 4 days refrigerated

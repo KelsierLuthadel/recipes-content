@@ -88,10 +88,10 @@ Sambal belacan is the foundation of the Malaysian and Indonesian table, a small 
 - **Without Sugar:** Traditional preparation uses no sugar, saltiness balances everything.
 
 ## Serving
-- Use in: Rice dish accompaniment, vegetable tempering sauce, protein condiment, curry base
-- Typical ratio: 1 small teaspoon per serving (this is powerful, respect its intensity)
-- Temperature: Served at room temperature in small bowl alongside rice
-- Application: A small spoonful or teaspoon portion served on the side of the plate; diners add to rice as they eat
+- **Use in:** Rice dish accompaniment, vegetable tempering sauce, protein condiment, curry base
+- **Typical ratio:** 1 small teaspoon per serving (this is powerful, respect its intensity)
+- **Temperature:** Served at room temperature in small bowl alongside rice
+- **Application:** A small spoonful or teaspoon portion served on the side of the plate; diners add to rice as they eat
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 5-7 days maximum

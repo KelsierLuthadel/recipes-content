@@ -66,8 +66,8 @@ Carbonara is the Roman pasta dish that's a masterclass in temperature control, f
 - **Extra Pepper:** Add an extra teaspoon of freshly ground black pepper for "cacio e pepe" style.
 
 ## Serving
-- Serve with: Crispy bread rubbed with garlic and olive oil
-- Garnish with: Abundant freshly grated Pecorino Romano and cracked black pepper
+- **Serve with:** Crispy bread rubbed with garlic and olive oil
+- **Garnish with:** Abundant freshly grated Pecorino Romano and cracked black pepper
 
 ## Storage
 - Best served immediately

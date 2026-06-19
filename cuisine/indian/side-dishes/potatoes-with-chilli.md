@@ -42,9 +42,9 @@ Potatoes with red chillies is a vibrant, spice-forward side dish in which par-bo
 - Keep the heat very low when covering to finish cooking, allowing the flavours to meld without drying out or scorching the potatoes.
 
 ## Serving
-- Serve with: grilled or roasted meats, curries, or as part of an Indian-inspired spread
-- Temperature: hot, served on a warmed dish
-- Amount: 3 halved potatoes per person as a side dish
+- **Serve with:** grilled or roasted meats, curries, or as part of an Indian-inspired spread
+- **Temperature:** hot, served on a warmed dish
+- **Amount:** 3 halved potatoes per person as a side dish
 
 ## Storage
 - Store leftovers in an airtight container in the refrigerator for up to 2 days.

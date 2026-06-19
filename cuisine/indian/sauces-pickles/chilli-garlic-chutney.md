@@ -76,10 +76,10 @@ This is a minimal-ingredient chutney that relies on quality ingredients and prop
 - **Smoother Texture:** Blend longer for a completely smooth, sauce-like consistency.
 
 ## Serving
-- Serve with: Pakora, samosa, bhajias, chaat, curries
-- Amount: 1-2 tablespoons per serving
-- Temperature: Serve at room temperature or chilled
-- Garnish: Fresh coriander leaves (optional)
+- **Serve with:** Pakora, samosa, bhajias, chaat, curries
+- **Amount:** 1-2 tablespoons per serving
+- **Temperature:** Serve at room temperature or chilled
+- **Garnish:** Fresh coriander leaves (optional)
 
 ## Storage
 - Refrigerate in a covered glass jar for up to 5 days

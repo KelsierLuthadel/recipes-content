@@ -63,8 +63,8 @@ Three pizzas off one tray of dough, built on a slow-cooked tomato ragù that you
 - **With manchego:** Scatter shavings of manchego over the hot pizza alongside the basil for a more pronounced Spanish lean.
 
 ## Serving
-- Serve with: A glass of crisp Albariño or a chilled tempranillo and a green leaf salad
-- Garnish with: A drizzle of good olive oil and a few extra capers
+- **Serve with:** A glass of crisp Albariño or a chilled tempranillo and a green leaf salad
+- **Garnish with:** A drizzle of good olive oil and a few extra capers
 
 ## Storage
 - Best eaten fresh; the chorizo loses its crispness on standing

@@ -32,9 +32,9 @@ Crispy cabbage is the side dish that turns a humble savoy into something you wan
 - Salt lightly straight after draining while the cabbage is still hot so the seasoning adheres well.
 
 ## Serving
-- Serve with: roast dinners, Chinese-style dishes, grilled meats, or as a stand-alone crispy snack
-- Temperature: hot, served immediately after frying
-- Amount: a generous handful per person as a side
+- **Serve with:** roast dinners, Chinese-style dishes, grilled meats, or as a stand-alone crispy snack
+- **Temperature:** hot, served immediately after frying
+- **Amount:** a generous handful per person as a side
 
 ## Storage
 - Best eaten immediately, the cabbage loses its crispiness quickly once cooked.

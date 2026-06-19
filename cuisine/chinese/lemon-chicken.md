@@ -60,7 +60,7 @@ Lemon chicken is a Hong Kong invention, dim sum hall meets Western tea-room, des
 - **Dried red chilli:** Infuses flavour without overwhelming, remove after cooking if you prefer milder heat.
 
 ## Serving
-- Serve with: Steamed white rice and a simple green vegetable to balance the acidity
+- **Serve with:** Steamed white rice and a simple green vegetable to balance the acidity
 
 ## Storage
 - Best served immediately for optimal texture

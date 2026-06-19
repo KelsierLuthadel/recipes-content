@@ -121,10 +121,10 @@ Ta'amia is the Egyptian falafel, made with split dried fava beans rather than th
 - **Cumin Double:** Increase cumin to 1 teaspoon for richer, warmer spice character.
 
 ## Serving
-- Perfect with: Tahina dip (essential), Egyptian tomato-cucumber salad, hummus, pickled vegetables, warm pita bread, mixed grill platters
-- Temperature: Piping hot (serve within 10-15 minutes of frying)
-- Ratio: 3-4 falafels per serving as appetizer; 5-6 as light meal
-- Context: Street food, appetizer platters, light lunch, vegetarian main course, mezze spread
+- **Perfect with:** Tahina dip (essential), Egyptian tomato-cucumber salad, hummus, pickled vegetables, warm pita bread, mixed grill platters
+- **Temperature:** Piping hot (serve within 10-15 minutes of frying)
+- **Ratio:** 3-4 falafels per serving as appetizer; 5-6 as light meal
+- **Context:** Street food, appetizer platters, light lunch, vegetarian main course, mezze spread
 
 ## Storage
 - Best consumed fresh and warm (within 30 minutes of frying).

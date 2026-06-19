@@ -61,8 +61,8 @@ Penne all'arrabbiata is the angry Roman tomato pasta (arrabbiata means "angry", 
 - **Bacon Version:** Add 100g pancetta, cooked first, for richness.
 
 ## Serving
-- Serve with: Crusty bread for sauce soaking
-- Garnish with: Fresh parsley, cracked black pepper, and a drizzle of excellent olive oil
+- **Serve with:** Crusty bread for sauce soaking
+- **Garnish with:** Fresh parsley, cracked black pepper, and a drizzle of excellent olive oil
 
 ## Storage
 - Keeps 3-4 days refrigerated

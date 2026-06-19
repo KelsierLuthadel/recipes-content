@@ -83,7 +83,7 @@ This is the cubed-chicken version of pad krapow: bite-size pieces stir-fried wit
 - **Pork or beef:** Use 450g minced pork or beef sliced thinly instead of chicken; reduce cooking time accordingly
 
 ## Serving
-- Serve with: Jasmine rice or Thai sticky rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side for those who prefer more heat.
+- **Serve with:** Jasmine rice or Thai sticky rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side for those who prefer more heat.
 
 ## Storage
 - Best eaten immediately while hot and aromatic

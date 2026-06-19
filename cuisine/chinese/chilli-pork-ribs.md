@@ -55,7 +55,7 @@ This is the western-Chinese showstopper that turns spareribs into something glos
 - **Finishing options:** Oven, grill, or barbecue all work beautifully, each imparts different character.
 
 ## Serving
-- Serve with: Bok choi or fried rice
+- **Serve with:** Bok choi or fried rice
 
 ## Storage
 - Keeps 3-4 days refrigerated (flavour improves with age)

@@ -87,9 +87,9 @@ These are the show-stopping Italian-fusion ravioli filled with delicate ricotta 
 - **With Sauce:** Serve with a light tomato sauce or charred butter and sage instead of just olive oil and pepper.
 
 ## Serving
-- Serve as: Elegant first course (2-3 ravioli per person) or main course (4-5 ravioli per person)
-- Garnish with: Cracked black pepper, grated Parmesan (optional), fresh parsley leaves
-- Pair with: Crisp white wine (Vermentino) or light red (Grenache)
+- **Serve as:** Elegant first course (2-3 ravioli per person) or main course (4-5 ravioli per person)
+- **Garnish with:** Cracked black pepper, grated Parmesan (optional), fresh parsley leaves
+- **Pair with:** Crisp white wine (Vermentino) or light red (Grenache)
 
 ## Storage
 - Uncooked ravioli keep well: freeze on a tray, then transfer to freezer bags for up to 3 months; add 1 minute to cooking time when frozen

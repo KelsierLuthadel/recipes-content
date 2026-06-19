@@ -45,7 +45,7 @@ This is one of the most exportable Sichuan dishes: fast, vibrant, and built on a
 - **Sauce simplicity:** The minimal sauce allows the prawns' delicate flavour to shine through while adding heat and depth.
 
 ## Serving
-- Serve with: Stir-fried vegetables and steamed rice
+- **Serve with:** Stir-fried vegetables and steamed rice
 
 ## Storage
 - Best served immediately

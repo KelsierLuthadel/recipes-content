@@ -68,8 +68,8 @@ Linguine with pancetta is the Roman classic that proves the magic of combining q
 - **Spicier Version:** Add fresh red chilli instead of flakes for more pronounced heat.
 
 ## Serving
-- Serve with: Crusty bread for sauce soaking, and a fragrant white wine
-- Garnish with: Abundant Pecorino Romano, fresh parsley, and cracked black pepper
+- **Serve with:** Crusty bread for sauce soaking, and a fragrant white wine
+- **Garnish with:** Abundant Pecorino Romano, fresh parsley, and cracked black pepper
 
 ## Storage
 - Keeps 3-4 days refrigerated

@@ -73,8 +73,8 @@ Fettuccine with rosemary lamb is the Italian-spring pasta, a fragrant minced-lam
 - **Cream Finish:** Add 100ml double cream in the final minute for richness.
 
 ## Serving
-- Serve with: A bold red wine such as Chianti or Barbera
-- Garnish with: Fresh rosemary sprigs and additional Parmesan shavings
+- **Serve with:** A bold red wine such as Chianti or Barbera
+- **Garnish with:** Fresh rosemary sprigs and additional Parmesan shavings
 
 ## Storage
 - Keeps 4-5 days refrigerated

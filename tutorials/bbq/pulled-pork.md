@@ -99,7 +99,7 @@ A 4 kg shoulder yields about 2-2.5 kg of pulled meat. Feeds 8-12 people.
 
 - Pulled pork over baked beans or mac and cheese
 - Sauces on the side
-- Plus traditional sides: corn bread, collard greens, potato salad
+- **Plus traditional sides:** corn bread, collard greens, potato salad
 
 ## Sides That Belong
 

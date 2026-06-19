@@ -69,10 +69,10 @@ Fajita seasoning mix is the dry blend you sprinkle straight onto sliced chicken,
 - **Less Salty:** Reduce salt to ½ teaspoon if using in salty dishes.
 
 ## Serving
-- Use in: Chicken fajitas, beef fajitas, shrimp fajitas, vegetable fajitas, taco filling, grain bowls with seasoned meat
-- Typical ratio: 1-2 tablespoons seasoning mix per 1 pound protein
-- Application: Fry seasoned meat and vegetables in hot oil for 5-7 minutes
-- Accompaniments: Serve with warm tortillas, sour cream, guacamole, salsa, sautéed peppers and onions
+- **Use in:** Chicken fajitas, beef fajitas, shrimp fajitas, vegetable fajitas, taco filling, grain bowls with seasoned meat
+- **Typical ratio:** 1-2 tablespoons seasoning mix per 1 pound protein
+- **Application:** Fry seasoned meat and vegetables in hot oil for 5-7 minutes
+- **Accompaniments:** Serve with warm tortillas, sour cream, guacamole, salsa, sautéed peppers and onions
 
 ## Storage
 - Store in airtight container in cool, dark place away from heat and moisture

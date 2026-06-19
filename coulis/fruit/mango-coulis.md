@@ -31,9 +31,9 @@ Mango coulis with saffron is the building block for floating-island desserts and
 - **Make-ahead:** Coulis improves when chilled for several hours as flavors meld.
 
 ## Serving
-- Serve with: Soft poached meringues, vanilla ice cream, fruit salads, or panna cotta
-- Temperature: Well chilled
-- Garnish with: A few saffron threads or a mint leaf
+- **Serve with:** Soft poached meringues, vanilla ice cream, fruit salads, or panna cotta
+- **Temperature:** Well chilled
+- **Garnish with:** A few saffron threads or a mint leaf
 
 ## Storage
 - Keeps 3-4 days refrigerated in an airtight container

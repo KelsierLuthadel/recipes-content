@@ -72,8 +72,8 @@ The elegant Italian-coastal pasta that celebrates premium seafood and the beauty
 - **Extra Garlic:** Use 2 garlic cloves for more pungent pesto.
 
 ## Serving
-- Serve with: Crusty bread, chilled dry white wine (Pinot Grigio)
-- Garnish with: Fresh parsley leaves, lemon wedges, cracked black pepper
+- **Serve with:** Crusty bread, chilled dry white wine (Pinot Grigio)
+- **Garnish with:** Fresh parsley leaves, lemon wedges, cracked black pepper
 
 ## Storage
 - Best served immediately after preparation

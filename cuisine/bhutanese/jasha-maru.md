@@ -85,7 +85,7 @@ The Bhutanese weeknight chicken stew, the dish a Thimphu cook turns to after a l
 - **With datshi:** a generous handful of crumbled blue cheese or feta stirred in at the very end pulls the dish toward ema datshi territory. Not traditional in every region but common in Thimphu home cooking.
 
 ## Serving
-- Serve with: red rice or plain steamed white rice (a heap, to soak up the broth), a side of greens stir-fried with garlic, and a small dish of ezay for those who want more heat. A glass of cold buttermilk or salted butter tea on the side.
+- **Serve with:** red rice or plain steamed white rice (a heap, to soak up the broth), a side of greens stir-fried with garlic, and a small dish of ezay for those who want more heat. A glass of cold buttermilk or salted butter tea on the side.
 
 ## Storage
 - Keeps 3 days refrigerated; the broth deepens overnight. Reheat gently in a covered pan with a splash of water if it tightens too much.

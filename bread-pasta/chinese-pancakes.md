@@ -98,10 +98,10 @@ Chinese pancakes are the building block for crispy-bottomed paper-thin discs you
 - **Whole Wheat:** Replace half the all-purpose flour with whole wheat flour for nuttier flavor.
 
 ## Serving
-- Serve with: Soups (egg drop, won ton), curries, stir-fries, congee, dipping sauces
-- Accompany: With soy sauce, chilli oil, or sweet bean sauce
-- Temperature: Serve hot or warm for best texture
-- Vessel: Stack on a warm plate, loosely covered with foil to retain heat
+- **Serve with:** Soups (egg drop, won ton), curries, stir-fries, congee, dipping sauces
+- **Accompany:** With soy sauce, chilli oil, or sweet bean sauce
+- **Temperature:** Serve hot or warm for best texture
+- **Vessel:** Stack on a warm plate, loosely covered with foil to retain heat
 
 ## Storage
 - Best served immediately while warm and crispy-edged

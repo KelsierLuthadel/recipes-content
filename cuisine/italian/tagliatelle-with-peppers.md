@@ -64,8 +64,8 @@ Tagliatelle with peppers is the vibrant vegetarian Italian pasta, fresh peppers 
 - **Finish with Basil:** Tear fresh basil leaves over the finished dish just before serving.
 
 ## Serving
-- Serve with: Crusty bread, chilled white wine (Pinot Grigio)
-- Garnish with: Fresh thyme, cracked black pepper, grated Parmesan (optional)
+- **Serve with:** Crusty bread, chilled white wine (Pinot Grigio)
+- **Garnish with:** Fresh thyme, cracked black pepper, grated Parmesan (optional)
 
 ## Storage
 - Refrigerate leftovers in an airtight container for up to 2 days

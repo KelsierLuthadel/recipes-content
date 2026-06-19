@@ -74,10 +74,10 @@ Saffron vinaigrette is the building block for showpiece plates: a deep gold dres
 - **Higher Quality Saffron:** Using Persian or Kashmiri saffron elevates the dressing further (though cost increases).
 
 ## Serving
-- Use with: Tender salad leaves, special-occasion presentations, alongside grilled scallops or langoustine, light fish preparations, delicate vegetables
-- Dressing ratio: 1-2 tablespoons per serving (this is rich and assertive)
-- Temperature: Room temperature
-- Presentation: The golden color should be visible; reserve for elegant plating
+- **Use with:** Tender salad leaves, special-occasion presentations, alongside grilled scallops or langoustine, light fish preparations, delicate vegetables
+- **Dressing ratio:** 1-2 tablespoons per serving (this is rich and assertive)
+- **Temperature:** Room temperature
+- **Presentation:** The golden color should be visible; reserve for elegant plating
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 3-4 days

@@ -84,8 +84,8 @@ Matoke is Uganda's emblematic dish, the Buganda staple of green starchy plantain
 - **Smoked fish matoke:** Replace beef with 300 g of flaked smoked mackerel, stirred in at the end of stage 3 rather than browned.
 
 ## Serving
-- Serve with: A side of steamed sukuma wiki (collard greens) or a simple cabbage slaw to cut the richness.
-- Garnish with: Fresh coriander and a wedge of lime.
+- **Serve with:** A side of steamed sukuma wiki (collard greens) or a simple cabbage slaw to cut the richness.
+- **Garnish with:** Fresh coriander and a wedge of lime.
 
 ## Storage
 - Keeps 2 days refrigerated.

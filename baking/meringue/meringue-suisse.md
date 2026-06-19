@@ -33,8 +33,8 @@ Swiss meringue is the building block for firmer piped decorations, dessert bases
 - **Humidity:** Make meringues on dry days; humidity causes stickiness.
 
 ## Serving
-- Serve with: Tarts, bavarians, layered desserts, or on their own with fruit
-- Piping options: Shells, rosettes, or decorative borders
+- **Serve with:** Tarts, bavarians, layered desserts, or on their own with fruit
+- **Piping options:** Shells, rosettes, or decorative borders
 
 ## Storage
 - Keeps up to 2 weeks in a cool, dry place in airtight containers

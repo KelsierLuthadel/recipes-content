@@ -56,8 +56,8 @@ A bright, punchy raw sambal built around belacan, the fermented Malaysian shrimp
 - **Sambal belacan with kaffir lime:** Pound 2 shredded kaffir lime leaves into the chillies for an aromatic citrus lift.
 
 ## Serving
-- Serve with: Nasi lemak, grilled fish, fried chicken, plain rice, or as a dip for raw cucumber and long beans
-- Garnish with: A few extra rings of fresh red chilli and a wedge of lime on the side
+- **Serve with:** Nasi lemak, grilled fish, fried chicken, plain rice, or as a dip for raw cucumber and long beans
+- **Garnish with:** A few extra rings of fresh red chilli and a wedge of lime on the side
 
 ## Storage
 - Best eaten the day it is made, while the chillies are still bright

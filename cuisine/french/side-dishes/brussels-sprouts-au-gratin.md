@@ -37,9 +37,9 @@ Brussels sprouts au gratin is the side dish that turns the most maligned vegetab
 - For extra richness, stir through cooked pancetta and finish with freshly grated lemon zest just before serving.
 
 ## Serving
-- Serve with: roast chicken, roast beef, or any traditional roast dinner
-- Temperature: hot, straight from the oven
-- Amount: one portion per person as a side dish
+- **Serve with:** roast chicken, roast beef, or any traditional roast dinner
+- **Temperature:** hot, straight from the oven
+- **Amount:** one portion per person as a side dish
 
 ## Storage
 - Leftovers can be refrigerated in an airtight container for up to 2 days.

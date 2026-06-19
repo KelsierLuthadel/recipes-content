@@ -62,7 +62,7 @@ This is a brighter, lighter sibling of sweet and sour pork, where the prawns coo
 - **Sauce balance:** The combination of sugar, vinegar, tomato purée, and soy should be perfectly balanced. Taste and adjust if needed.
 
 ## Serving
-- Serve with: Steamed white rice and a simple vegetable
+- **Serve with:** Steamed white rice and a simple vegetable
 
 ## Storage
 - Best served immediately

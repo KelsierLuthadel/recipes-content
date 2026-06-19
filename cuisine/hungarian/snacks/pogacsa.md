@@ -70,7 +70,7 @@ Pogácsa are the Hungarian savoury biscuits sold from every village bakery and m
 - **Kapros-túrós (dill and curd cheese):** Replace the grated cheese with 150 g dry curd cheese and add 2 tablespoons chopped dill.
 
 ## Serving
-- Serve with: Bowls of soup (especially gulyásleves or bean soup), a wine and cheese board, or as a snack with cured meats and pickles.
+- **Serve with:** Bowls of soup (especially gulyásleves or bean soup), a wine and cheese board, or as a snack with cured meats and pickles.
 
 ## Storage
 - Best within 24 hours of baking.

@@ -90,9 +90,9 @@ Pizza folded in half: the same dough, the same hot oven, but the filling sealed 
 - **Extra Herbs:** Include fresh oregano or thyme in the filling.
 
 ## Serving
-- Serve with: Simple green salad, tomato dipping sauce
-- Garnish with: Fresh basil, cracked black pepper
-- Pair with: Crisp white wine (Pinot Grigio) or light red (Chianti)
+- **Serve with:** Simple green salad, tomato dipping sauce
+- **Garnish with:** Fresh basil, cracked black pepper
+- **Pair with:** Crisp white wine (Pinot Grigio) or light red (Chianti)
 
 ## Storage
 - Best served immediately while warm and steam is still trapped inside

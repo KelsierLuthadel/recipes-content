@@ -64,7 +64,7 @@ Broccolini all'aglio (literally "broccolini with garlic"; broccolini is a hybrid
 - **Cheesy:** add 50 g of grated Parmesan at the end.
 
 ## Serving
-- Alongside any Italian main: bistecca, osso buco, pasta, fish.
+- **Alongside any Italian main:** bistecca, osso buco, pasta, fish.
 
 ## Storage
 - Best eaten warm.

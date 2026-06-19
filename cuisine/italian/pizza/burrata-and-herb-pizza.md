@@ -71,8 +71,8 @@ A pizza for the height of summer, when basil is everywhere and the tomatoes are 
 - **Anchovy and caper:** Drop the burrata and pesto; top with anchovies, capers and a drizzle of chilli oil after baking.
 
 ## Serving
-- Serve with: A glass of cold rosé and a dressed leaf salad
-- Garnish with: A grind of black pepper and an extra drizzle of pesto
+- **Serve with:** A glass of cold rosé and a dressed leaf salad
+- **Garnish with:** A grind of black pepper and an extra drizzle of pesto
 
 ## Storage
 - Best eaten immediately; the burrata and pesto don't survive reheating

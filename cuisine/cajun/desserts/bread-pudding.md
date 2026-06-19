@@ -83,7 +83,7 @@ The New Orleans bread pudding, the warm dessert that lands on the table at the e
 - **Banana foster:** Add 2 sliced ripe bananas to the bread mix; flame the bourbon sauce briefly before serving.
 
 ## Serving
-- Serve with: The hot bourbon sauce poured over each portion; a scoop of vanilla ice cream on the side; or a dollop of softly whipped cream.
+- **Serve with:** The hot bourbon sauce poured over each portion; a scoop of vanilla ice cream on the side; or a dollop of softly whipped cream.
 
 ## Storage
 - Keeps 3 days refrigerated; reheat covered in a 160°C oven for 15 minutes.

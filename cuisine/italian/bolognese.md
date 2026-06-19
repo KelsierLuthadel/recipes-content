@@ -62,8 +62,8 @@ Bolognese (ragù alla bolognese) is the Italian meat sauce from Bologna, slow-si
 - **Richer Version:** Include 100ml of whole milk in the final 20 minutes of cooking for a silkier texture.
 
 ## Serving
-- Serve with: Fresh pasta (spaghetti, tagliatelle), lasagne sheets, or polenta
-- Garnish with: Freshly grated Parmesan, fresh basil, and a drizzle of olive oil
+- **Serve with:** Fresh pasta (spaghetti, tagliatelle), lasagne sheets, or polenta
+- **Garnish with:** Freshly grated Parmesan, fresh basil, and a drizzle of olive oil
 
 ## Storage
 - Keeps 5-7 days refrigerated in an airtight container

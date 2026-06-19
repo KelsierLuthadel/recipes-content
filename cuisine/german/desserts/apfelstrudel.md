@@ -92,7 +92,7 @@ Apfelstrudel is the Viennese-Bavarian pastry every German-speaking grandmother m
 - **Cherry strudel:** Replace apples with morello cherries (drained well) and almonds.
 
 ## Serving
-- Serve warm with: A snowfall of icing sugar and either lightly whipped vanilla cream, vanilla custard, or vanilla ice cream.
+- **Serve warm with:** A snowfall of icing sugar and either lightly whipped vanilla cream, vanilla custard, or vanilla ice cream.
 
 ## Storage
 - Best on the day. Keeps 2 days at room temperature, loosely covered.

@@ -114,7 +114,7 @@ The British home-cook chilli, the kind of stew that turns up at student houses, 
 - **Turkey alternative:** Use ground turkey instead of beef for a lighter version
 
 ## Serving
-- Serve with: Cooked rice, cornbread, sour cream, shredded cheese, diced onion, and fresh coriander
+- **Serve with:** Cooked rice, cornbread, sour cream, shredded cheese, diced onion, and fresh coriander
 
 ## Storage
 - Keeps 4 days refrigerated

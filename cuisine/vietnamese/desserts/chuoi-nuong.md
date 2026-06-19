@@ -86,8 +86,8 @@ Chuối nướng is Vietnam's grilled banana dessert: small Asian bananas wrappe
 - **Black sesame finish:** Substitute black sesame seeds for white for visual contrast and a deeper nutty flavour.
 
 ## Serving
-- Serve with: a small scoop of vanilla or coconut ice cream alongside for a temperature contrast; the cold ice cream against the warm grilled banana is a modern Saigon-café trick.
-- Garnish with: a few extra crushed peanuts and a final pinch of flaky salt.
+- **Serve with:** a small scoop of vanilla or coconut ice cream alongside for a temperature contrast; the cold ice cream against the warm grilled banana is a modern Saigon-café trick.
+- **Garnish with:** a few extra crushed peanuts and a final pinch of flaky salt.
 
 ## Storage
 - Best eaten warm, straight off the grill

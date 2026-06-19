@@ -88,9 +88,9 @@ India's spiral sweet and one of the most identity-defining Indian street dessert
 - **Without fermentation (quick):** Add ¼ teaspoon yeast and rest the batter 1 hour at warm room temperature. Acceptable shortcut; the depth of flavour is less.
 
 ## Serving
-- Serve: hot, with cold rabri spooned alongside (the classic Old-Delhi breakfast); or with a scoop of vanilla ice cream; or plain with masala chai.
-- Temperature: hot, just out of the syrup.
-- Occasion: Diwali, Holi, weddings, festival breakfasts.
+- **Serve:** hot, with cold rabri spooned alongside (the classic Old-Delhi breakfast); or with a scoop of vanilla ice cream; or plain with masala chai.
+- **Temperature:** hot, just out of the syrup.
+- **Occasion:** Diwali, Holi, weddings, festival breakfasts.
 
 ## Storage
 - Best within 30 minutes of frying.

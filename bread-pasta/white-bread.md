@@ -83,9 +83,9 @@ This is the home-baker's building block for everyday bread: a rugby-ball-shaped 
 - **Longer Fermentation:** Allow the first rise to extend to 2 hours (or even overnight in the cold) for deeper, more developed flavor.
 
 ## Serving
-- Serve: Warm from the oven, sliced, with butter or olive oil
-- Best within: 24 hours of baking; use for toast after day 1
-- Pairing: Excellent with soups, stews, or simply butter and sea salt
+- **Serve:** Warm from the oven, sliced, with butter or olive oil
+- **Best within:** 24 hours of baking; use for toast after day 1
+- **Pairing:** Excellent with soups, stews, or simply butter and sea salt
 
 ## Storage
 - Best served the day it's baked

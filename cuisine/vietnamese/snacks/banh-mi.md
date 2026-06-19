@@ -76,8 +76,8 @@ A good bánh mì is mostly assembly. The bread should be light and crackly, the 
 - **Vegetarian:** Swap the meats for pan-fried lemongrass tofu, mushroom pâté and extra pickles.
 
 ## Serving
-- Serve with: a glass of iced Vietnamese coffee (cà phê sữa đá) or a salty plum soda.
-- Garnish with: a side of extra pickled chillies for the brave.
+- **Serve with:** a glass of iced Vietnamese coffee (cà phê sữa đá) or a salty plum soda.
+- **Garnish with:** a side of extra pickled chillies for the brave.
 
 ## Storage
 - Best eaten within an hour of assembly; the pickle juices will soak the bread soft after that

@@ -122,9 +122,9 @@ Chocolate truffles are the most elegant form a piece of ganache can take: dark c
 - **Candied Peel Addition:** Add 2 tablespoons finely minced candied orange peel to the ganache for texture and flavor variation.
 
 ## Serving
-- Perfect with: Strong coffee or espresso after dinner, pre-dinner drinks, petit four platters, holiday gift boxes, special occasions
-- Temperature: Cool room temperature (allow to sit 10 minutes if refrigerated, so chocolate tempers slightly)
-- Context: Formal dinners, afternoon gatherings, gift presentations, elegant finales
+- **Perfect with:** Strong coffee or espresso after dinner, pre-dinner drinks, petit four platters, holiday gift boxes, special occasions
+- **Temperature:** Cool room temperature (allow to sit 10 minutes if refrigerated, so chocolate tempers slightly)
+- **Context:** Formal dinners, afternoon gatherings, gift presentations, elegant finales
 
 ## Storage
 - Refrigerate in an airtight container, layered with parchment paper to prevent sticking: 3-4 weeks

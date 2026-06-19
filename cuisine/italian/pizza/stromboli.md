@@ -98,8 +98,8 @@ Calzone's longer, leaner cousin from Italian-American kitchens: pizza dough roll
 - **Garlic-knot finish:** Brush with the garlic butter twice (before serving) and tie a small knot of dough on each end before baking.
 
 ## Serving
-- Serve with: Marinara, garlic-chilli oil, pickled peperoncini, and a green salad
-- Garnish with: Extra parmesan and a scatter of basil leaves on each slice
+- **Serve with:** Marinara, garlic-chilli oil, pickled peperoncini, and a green salad
+- **Garnish with:** Extra parmesan and a scatter of basil leaves on each slice
 
 ## Storage
 - Best eaten within an hour of baking

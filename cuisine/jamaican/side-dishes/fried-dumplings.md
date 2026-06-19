@@ -60,7 +60,7 @@ The classic Jamaican breakfast bread, also called Johnny Cakes: golden fried rou
 - **Bammy-style:** Replace some flour with cassava flour for a denser, traditional Maroon-influenced version.
 
 ## Serving
-- Serve with: Ackee and saltfish, callaloo, brown stew chicken, escovitch fish, or split and buttered for breakfast with hot chocolate tea.
+- **Serve with:** Ackee and saltfish, callaloo, brown stew chicken, escovitch fish, or split and buttered for breakfast with hot chocolate tea.
 
 ## Storage
 - Best eaten the day they're made.

@@ -73,8 +73,8 @@ Gnocchetti are the small handmade Italian potato dumplings, tender pillows of po
 - **Garlic Variation:** Add 2 sliced garlic cloves to the butter at the beginning of sauce preparation.
 
 ## Serving
-- Serve with: A crisp white wine, perhaps Pinot Grigio
-- Garnish with: Fresh sage leaves and abundant Parmesan shavings
+- **Serve with:** A crisp white wine, perhaps Pinot Grigio
+- **Garnish with:** Fresh sage leaves and abundant Parmesan shavings
 
 ## Storage
 - Best eaten fresh immediately after cooking

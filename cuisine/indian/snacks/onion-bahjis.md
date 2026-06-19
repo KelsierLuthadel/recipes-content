@@ -40,9 +40,9 @@ Onion bhajis are golden, crispy fritters made from sliced onions bound in a spic
 - Drain on kitchen paper immediately after frying and season with salt while still hot for the best flavour.
 
 ## Serving
-- Serve with: cucumber and yoghurt raita, mango chutney, or mint chutney; pairs well with curry as a side
-- Temperature: warm, served immediately after frying
-- Amount: 2-3 bhajis per person as a starter or side
+- **Serve with:** cucumber and yoghurt raita, mango chutney, or mint chutney; pairs well with curry as a side
+- **Temperature:** warm, served immediately after frying
+- **Amount:** 2-3 bhajis per person as a starter or side
 
 ## Storage
 - Best eaten fresh and warm; the texture deteriorates as they cool and soften.

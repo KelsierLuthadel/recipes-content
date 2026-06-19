@@ -34,9 +34,9 @@ Stir-fried spinach with garlic is the southern Chinese way of cooking a leafy gr
 - Use the full 700 grams even though it looks like a large quantity; spinach reduces dramatically to about one-third of its original volume during cooking.
 
 ## Serving
-- Serve with: steamed rice or as a side alongside any Chinese-style main course
-- Temperature: hot, served immediately after draining
-- Amount: 4 portions as a side dish
+- **Serve with:** steamed rice or as a side alongside any Chinese-style main course
+- **Temperature:** hot, served immediately after draining
+- **Amount:** 4 portions as a side dish
 
 ## Storage
 - Store leftovers in an airtight container in the fridge for up to 2 days.

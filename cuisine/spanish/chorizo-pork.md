@@ -95,7 +95,7 @@ This is the weeknight Spanish plate of pork tenderloin and chorizo in a paprika-
 - **Seafood alternative:** Replace pork with 400g large prawns; reduce cooking time to 2-3 minutes
 
 ## Serving
-- Serve with: Fresh rocket leaves, lemon quarters, crusty bread for mopping sauce, and a crisp Spanish white wine or cold beer.
+- **Serve with:** Fresh rocket leaves, lemon quarters, crusty bread for mopping sauce, and a crisp Spanish white wine or cold beer.
 
 ## Storage
 - Keeps 2 days refrigerated (store potatoes separately to maintain crispiness)

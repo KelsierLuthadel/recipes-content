@@ -79,10 +79,10 @@ The sauce a Margherita lives or dies by: a few ingredients that have to be the r
 - **Mediterranean:** Add ¼ teaspoon fennel seed or a small pinch of ground fennel for subtle licorice notes.
 
 ## Serving
-- Serve on: Pizza bases, focaccia, bruschetta, pasta
-- Amount per pizza: 3-4 tablespoons for a 10-inch pizza
-- Consistency: Slightly chunky, spreadable but not runny
-- Temperature: Warm (fresh from cooking) or room temperature
+- **Serve on:** Pizza bases, focaccia, bruschetta, pasta
+- **Amount per pizza:** 3-4 tablespoons for a 10-inch pizza
+- **Consistency:** Slightly chunky, spreadable but not runny
+- **Temperature:** Warm (fresh from cooking) or room temperature
 
 ## Storage
 - Refrigerate in an airtight container for up to 5 days

@@ -95,10 +95,10 @@ Chilli pooris are the building block of an Indian street-food spread and the bre
 - **Sooji Pooris:** Replace plain flour with sooji (semolina) for crispier texture.
 
 ## Serving
-- Serve with: Potato curry, dal, pickles, chutneys, or curries
-- Accompany: With fresh lime juice and onion slices
-- Temperature: Serve immediately while hot and crispy
-- Vessel: Serve in a basket lined with cloth to retain heat and crispness
+- **Serve with:** Potato curry, dal, pickles, chutneys, or curries
+- **Accompany:** With fresh lime juice and onion slices
+- **Temperature:** Serve immediately while hot and crispy
+- **Vessel:** Serve in a basket lined with cloth to retain heat and crispness
 
 ## Storage
 - Best served immediately after frying

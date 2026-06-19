@@ -79,8 +79,8 @@ These are the elegant Italian filled-pasta parcels, fresh pasta squares wrapped 
 - **Different Meats:** Substitute cooked pancetta or prosciutto for variety.
 
 ## Serving
-- Serve with: A light red wine or crisp white wine
-- Garnish with: Fresh basil leaves and crushed pepper
+- **Serve with:** A light red wine or crisp white wine
+- **Garnish with:** Fresh basil leaves and crushed pepper
 
 ## Storage
 - Best served immediately after cooking

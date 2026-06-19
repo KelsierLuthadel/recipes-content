@@ -76,10 +76,10 @@ Baharat is the seven-spice backbone of Eastern Mediterranean and Gulf cooking, t
 - **For Red Meat:** Add 1 additional tablespoon paprika and 1 teaspoon extra nutmeg.
 
 ## Serving
-- Use in: Middle Eastern meat curries, rice pilafs, spiced stews, meat marinades, slow-cooked dishes
-- Typical ratio: 1-2 teaspoons per portion depending on dish
-- Application: Toast briefly in oil before adding other ingredients to bloom the spices
-- Temperature: Works best when fried in hot oil to release aromatic oils
+- **Use in:** Middle Eastern meat curries, rice pilafs, spiced stews, meat marinades, slow-cooked dishes
+- **Typical ratio:** 1-2 teaspoons per portion depending on dish
+- **Application:** Toast briefly in oil before adding other ingredients to bloom the spices
+- **Temperature:** Works best when fried in hot oil to release aromatic oils
 
 ## Storage
 - Store in airtight glass jar in a cool, dark place away from light and heat

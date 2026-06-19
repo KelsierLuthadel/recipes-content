@@ -100,8 +100,8 @@ The deep-fried Vietnamese spring roll (nem rán in the north, chả giò in the 
 - **Vegetarian:** Use 300 g crumbled firm tofu and 200 g grated taro in place of pork and prawn. Bind with 2 egg yolks instead of 1.
 
 ## Serving
-- Serve with: lettuce leaves, fresh herbs and the nước chấm. Wrap each roll in a lettuce leaf with a few herb sprigs and dunk.
-- Garnish with: rice vermicelli noodles on the side to wrap with lettuce-and-roll bundles for a fuller meal.
+- **Serve with:** lettuce leaves, fresh herbs and the nước chấm. Wrap each roll in a lettuce leaf with a few herb sprigs and dunk.
+- **Garnish with:** rice vermicelli noodles on the side to wrap with lettuce-and-roll bundles for a fuller meal.
 
 ## Storage
 - Best eaten within 30 minutes of the second fry

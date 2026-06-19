@@ -91,10 +91,10 @@ Pineapple salsa bridges sweet tropical fruit with heat and umami. The key techni
 - **With Fish Sauce:** Add ½ teaspoon fish sauce alongside sambal for deeper umami (Vietnamese approach).
 
 ## Serving
-- Perfect with: Grilled pork ribs, sausages, duck breast, grilled swordfish or firm fish, barbequed chicken, smoky meats, spicy rice, crispy spring rolls
-- Temperature: Warm (approximately 40-50°C at service)
-- Ratio: 2-3 tablespoons per serving
-- Context: Barbecue accompaniment, grilled fish pairing, Southeast Asian-inspired dishes
+- **Perfect with:** Grilled pork ribs, sausages, duck breast, grilled swordfish or firm fish, barbequed chicken, smoky meats, spicy rice, crispy spring rolls
+- **Temperature:** Warm (approximately 40-50°C at service)
+- **Ratio:** 2-3 tablespoons per serving
+- **Context:** Barbecue accompaniment, grilled fish pairing, Southeast Asian-inspired dishes
 
 ## Storage
 - Serve immediately or within 15-20 minutes of final preparation (coriander freshness is paramount).

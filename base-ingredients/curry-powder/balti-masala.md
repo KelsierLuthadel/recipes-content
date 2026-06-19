@@ -90,10 +90,10 @@ Balti masala is the building block under British-Indian Balti curries: a mild, w
 - **Lighter Spice:** Reduce all ground spice additions by 25% for a more delicate blend.
 
 ## Serving
-- Use in: Balti curries, British-Indian curries, curry sauce bases
-- Typical ratio: 1-3 teaspoons per curry portion depending on desired heat
-- Application: Fry with onions and aromatics before adding liquid and main ingredients
-- Temperature: Works best when fried in hot oil to bloom the spices and release flavor
+- **Use in:** Balti curries, British-Indian curries, curry sauce bases
+- **Typical ratio:** 1-3 teaspoons per curry portion depending on desired heat
+- **Application:** Fry with onions and aromatics before adding liquid and main ingredients
+- **Temperature:** Works best when fried in hot oil to bloom the spices and release flavor
 
 ## Storage
 - Store in airtight glass jars in a cool, dark place (not above the stove)

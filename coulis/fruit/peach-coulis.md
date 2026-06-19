@@ -35,8 +35,8 @@ Peach coulis with lavender honey is the building block for late-summer desserts:
 - **Lavender sprig:** Fresh flowering sprigs add visual elegance; dried lavender can substitute if gentle on quantity.
 
 ## Serving
-- Serve with: Toasted brioche, panna cotta, vanilla ice cream, or as a plating element
-- Drizzle on: Light-colored plates for beautiful presentation
+- **Serve with:** Toasted brioche, panna cotta, vanilla ice cream, or as a plating element
+- **Drizzle on:** Light-colored plates for beautiful presentation
 
 ## Storage
 - Keeps 3-4 days refrigerated in an airtight container

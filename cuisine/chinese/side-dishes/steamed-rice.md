@@ -83,10 +83,10 @@ Steamed rice is the test of patience and the foundation under almost every dish 
 - **Infused Aromatics:** Add 2-3 bruised cardamom pods, 1 bay leaf, or 1-inch fresh ginger slice at the start of cooking (remove before serving).
 
 ## Serving
-- Use with: Any Asian-inspired cuisine (Thai, Vietnamese, Chinese, Indian), spicy curries, stir-fries, broiled or grilled proteins, vegetable preparations
-- Temperature: Hot or warm
-- Ratio: 1 cup cooked rice per person (or 150ml uncooked rice per person)
-- Context: Neutral starch base, everyday cooking, meals where rice complements rather than dominates
+- **Use with:** Any Asian-inspired cuisine (Thai, Vietnamese, Chinese, Indian), spicy curries, stir-fries, broiled or grilled proteins, vegetable preparations
+- **Temperature:** Hot or warm
+- **Ratio:** 1 cup cooked rice per person (or 150ml uncooked rice per person)
+- **Context:** Neutral starch base, everyday cooking, meals where rice complements rather than dominates
 
 ## Storage
 - Refrigerate cooked rice in a sealed container for up to 4 days.

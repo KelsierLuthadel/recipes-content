@@ -38,9 +38,9 @@ Late-spring antipasto when the first English asparagus is at the greengrocer and
 - The hollandaise sauce is optional but highly recommended, prepare it while the asparagus is in the oven so it is ready to serve immediately.
 
 ## Serving
-- Serve with: hollandaise sauce for dipping, or alongside grilled fish or roasted chicken as a starter or side
-- Temperature: warm, straight from the oven
-- Amount: 4 bundles per person as a side, 6 as a starter
+- **Serve with:** hollandaise sauce for dipping, or alongside grilled fish or roasted chicken as a starter or side
+- **Temperature:** warm, straight from the oven
+- **Amount:** 4 bundles per person as a side, 6 as a starter
 
 ## Storage
 - Best eaten immediately; the prosciutto softens and the asparagus loses its texture if left to sit.

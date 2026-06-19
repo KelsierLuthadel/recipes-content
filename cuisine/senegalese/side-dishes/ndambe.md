@@ -108,7 +108,7 @@ Ndambé is Senegal's everyday black-eyed pea stew, eaten across the country as t
 - **Ndambé farci:** the elaborate Saint-Louis version where the ndambé is stuffed into halved aubergines or peppers and baked till the vegetable goes soft and the filling crisps slightly on top.
 
 ## Serving
-- The classic forms: piled into a fresh baguette as a Sunday breakfast sandwich, or spooned over rice or thiéré as a side or stand-alone meal. Drink: bissap (hibiscus drink), bouye (baobab drink), strong coffee with sugar, or fresh ginger drink.
+- **The classic forms:** piled into a fresh baguette as a Sunday breakfast sandwich, or spooned over rice or thiéré as a side or stand-alone meal. Drink: bissap (hibiscus drink), bouye (baobab drink), strong coffee with sugar, or fresh ginger drink.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight and day-after ndambé is excellent.

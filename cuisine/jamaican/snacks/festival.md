@@ -62,7 +62,7 @@ The sweet fried cornmeal finger that turns up beside jerk chicken at every Bosto
 - **Spiced:** Add ½ teaspoon ground cinnamon for a warmer flavour.
 
 ## Serving
-- Serve with: Jerk chicken, fried fish, escovitch fish, ackee and saltfish, or a Jamaican fish tea.
+- **Serve with:** Jerk chicken, fried fish, escovitch fish, ackee and saltfish, or a Jamaican fish tea.
 
 ## Storage
 - Best eaten the day they're fried.

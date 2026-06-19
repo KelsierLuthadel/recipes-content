@@ -49,9 +49,9 @@ This is the tapa version of flash-fried squid: small tender rings and tentacles 
 - **Marinating:** The oil-based marinade prevents the squid from drying out during the high-heat frying.
 
 ## Serving
-- Serve with: Crusty bread to soak up the flavored oil, lemon wedges
-- Garnish with: Fresh parsley and thin lemon slices
-- Accompaniment: Dry sherry or crisp white wine
+- **Serve with:** Crusty bread to soak up the flavored oil, lemon wedges
+- **Garnish with:** Fresh parsley and thin lemon slices
+- **Accompaniment:** Dry sherry or crisp white wine
 
 ## Storage
 - Best served hot or warm immediately after cooking

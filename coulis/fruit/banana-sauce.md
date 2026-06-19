@@ -36,8 +36,8 @@ Banana sauce is the building block for tropical and Caribbean-leaning desserts, 
 - **Rum quality:** Use dark rum for deeper, more complex tropical flavors.
 
 ## Serving
-- Serve with: Exotic fruit medley, poached pears, vanilla ice cream, or pastries
-- Drizzle on: Warm plates for an elegant plating presentation
+- **Serve with:** Exotic fruit medley, poached pears, vanilla ice cream, or pastries
+- **Drizzle on:** Warm plates for an elegant plating presentation
 
 ## Storage
 - Keeps 3-4 days refrigerated in an airtight container

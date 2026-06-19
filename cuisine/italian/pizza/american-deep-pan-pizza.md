@@ -88,8 +88,8 @@ Chicago by way of your kitchen: a thick yeasted dough pressed into 23 cm cake ti
 - **Hawaiian deep-pan:** Drop the salamis and jalapeños; top with diced ham and pineapple chunks.
 
 ## Serving
-- Serve with: A bitter leaf salad and chilli oil for drizzling
-- Garnish with: A scatter of fresh oregano leaves and extra grated cheddar
+- **Serve with:** A bitter leaf salad and chilli oil for drizzling
+- **Garnish with:** A scatter of fresh oregano leaves and extra grated cheddar
 
 ## Storage
 - Keeps 2 days refrigerated; reheat in a hot oven (200°C) for 8 to 10 minutes, not the microwave

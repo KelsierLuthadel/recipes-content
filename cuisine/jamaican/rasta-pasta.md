@@ -71,7 +71,7 @@ A modern Jamaican-Italian fusion that started on the island and crossed over int
 - **Extra creamy:** Add an additional splash of cream or swap double cream for crème fraîche
 
 ## Serving
-- Serve with: Fresh lime wedges, crusty bread, and a simple green salad
+- **Serve with:** Fresh lime wedges, crusty bread, and a simple green salad
 
 ## Storage
 - Keeps 2 days refrigerated (pasta may soften slightly)

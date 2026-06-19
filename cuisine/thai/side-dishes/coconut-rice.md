@@ -94,10 +94,10 @@ Coconut rice is the soft, fragrant, faintly sweet rice that lifts any spiced cur
 - **Cashew Crunch:** Toast 2-3 tablespoons raw cashew pieces in the oil before adding spice seeds, creating textural contrast and richness.
 
 ## Serving
-- Use with: Any spiced curry (vindaloo, korma, balti, madras, jalfrezi), grilled proteins with spice rubs, stir-fries, braised meat dishes
-- Temperature: Hot or warm (serve within 15 minutes of completion for maximum aroma)
-- Ratio: 150ml uncooked rice per person (yields approximately 150ml cooked rice per serving)
-- Context: Indian and South Asian meals, curry accompaniment, aromatic neutral rice
+- **Use with:** Any spiced curry (vindaloo, korma, balti, madras, jalfrezi), grilled proteins with spice rubs, stir-fries, braised meat dishes
+- **Temperature:** Hot or warm (serve within 15 minutes of completion for maximum aroma)
+- **Ratio:** 150ml uncooked rice per person (yields approximately 150ml cooked rice per serving)
+- **Context:** Indian and South Asian meals, curry accompaniment, aromatic neutral rice
 
 ## Storage
 - Refrigerate cooked rice in a sealed container for up to 3-4 days.

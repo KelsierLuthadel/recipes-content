@@ -75,10 +75,10 @@ Cajun spice mix is the Louisiana blend that anchors gumbo, jambalaya, étouffée
 - **For Blackening Fish:** Keep proportions but reduce salt (as it will be used as a coating), and add 2 teaspoons smoked paprika.
 
 ## Serving
-- Use in: Gumbo, jambalaya, Creole stews, blackened meats and fish, cajun rice dishes
-- Typical ratio: 2-3 tablespoons per large pot of stew (serves 6-8)
-- Application: Add early in cooking with vegetables and aromatics for flavor integration
-- Temperature: Works best in longer-cooked dishes where flavors have time to meld
+- **Use in:** Gumbo, jambalaya, Creole stews, blackened meats and fish, cajun rice dishes
+- **Typical ratio:** 2-3 tablespoons per large pot of stew (serves 6-8)
+- **Application:** Add early in cooking with vegetables and aromatics for flavor integration
+- **Temperature:** Works best in longer-cooked dishes where flavors have time to meld
 
 ## Storage
 - Refrigerate in airtight jar for up to 2 weeks (due to fresh onion and garlic)

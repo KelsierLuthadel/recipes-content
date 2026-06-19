@@ -76,7 +76,7 @@ Mayonesa chilena is Chile's pervasive homemade mayonnaise and one of the most be
 - **Avocado mayo:** blitz 1 ripe avocado into the finished mayo; gives a creamy guacamole-mayo hybrid; the traditional sauce for churrasco italiano.
 
 ## Serving
-- With everything Chilean: completos (Chilean hot dogs), churrasco italiano, sandwiches, sopaipillas, papas fritas, salads. Chileans put it on practically anything.
+- **With everything Chilean:** completos (Chilean hot dogs), churrasco italiano, sandwiches, sopaipillas, papas fritas, salads. Chileans put it on practically anything.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar.

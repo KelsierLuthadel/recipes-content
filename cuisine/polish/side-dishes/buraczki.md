@@ -69,7 +69,7 @@ Buraczki is the deep-magenta beetroot side that turns up next to roast pork, kot
 - **With apple:** Grate one tart apple in at the end; brightens the sweetness.
 
 ## Serving
-- Serve with: Roast pork, kotlet schabowy, baked carp (Christmas Eve), or kielbasa. Sweet-sour foil to rich meat.
+- **Serve with:** Roast pork, kotlet schabowy, baked carp (Christmas Eve), or kielbasa. Sweet-sour foil to rich meat.
 
 ## Storage
 - Keeps 4 days refrigerated.

@@ -73,8 +73,8 @@ The Malay raw salad and a kampung (village) staple from the Malay peninsula: thi
 - **Kerabu taugeh:** Use blanched bean sprouts in place of winged beans for a softer, crunchier salad popular in Penang.
 
 ## Serving
-- Serve with: Grilled fish, ikan bakar, satay, or as part of a wider Malaysian spread with rice and sambal
-- Garnish with: A handful of crisp fried shallots and a wedge of lime
+- **Serve with:** Grilled fish, ikan bakar, satay, or as part of a wider Malaysian spread with rice and sambal
+- **Garnish with:** A handful of crisp fried shallots and a wedge of lime
 
 ## Storage
 - Best eaten within 2 hours of dressing, the beans soften quickly

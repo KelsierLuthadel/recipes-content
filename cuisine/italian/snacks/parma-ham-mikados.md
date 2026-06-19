@@ -97,10 +97,10 @@ Crisp little parcels of filo wrapped around Parma ham, eaten with drinks before 
 - **With Truffle Oil:** Add 1-2 drops black truffle oil to the butter-mustard mixture for luxury version (use very sparingly).
 
 ## Serving
-- Perfect with: Green and black olives, before-dinner drinks (champagne, cocktails), small bites at parties, sophisticated appetizer platter
-- Temperature: Warm (within 5 minutes of baking)
-- Ratio: 2-3 mikados per person
-- Context: Elegant pre-dinner appetizer, cocktail reception, special occasion canapé, sophisticated nibbles
+- **Perfect with:** Green and black olives, before-dinner drinks (champagne, cocktails), small bites at parties, sophisticated appetizer platter
+- **Temperature:** Warm (within 5 minutes of baking)
+- **Ratio:** 2-3 mikados per person
+- **Context:** Elegant pre-dinner appetizer, cocktail reception, special occasion canapé, sophisticated nibbles
 
 ## Storage
 - Best served fresh and warm (within 10 minutes of baking).

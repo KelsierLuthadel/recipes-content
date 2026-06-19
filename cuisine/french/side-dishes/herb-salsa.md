@@ -88,10 +88,10 @@ Herb salsa is the slightly misleadingly-named French warm sauce, a textural side
 - **With Shallot:** Add ½ small shallot (finely minced) alongside the spring onion for deeper onion flavor.
 
 ## Serving
-- Perfect with: Fresh pasta (tortellini, cappelletti, ravioli), delicate white fish, roasted chicken, spring vegetables, light potato preparations
-- Temperature: Warm or room temperature (never chilled)
-- Ratio: 2-3 tablespoons per serving
-- Context: Light pasta course, delicate plated presentations, spring dinners
+- **Perfect with:** Fresh pasta (tortellini, cappelletti, ravioli), delicate white fish, roasted chicken, spring vegetables, light potato preparations
+- **Temperature:** Warm or room temperature (never chilled)
+- **Ratio:** 2-3 tablespoons per serving
+- **Context:** Light pasta course, delicate plated presentations, spring dinners
 
 ## Storage
 - Refrigerate in a sealed glass container for up to 3-4 days.

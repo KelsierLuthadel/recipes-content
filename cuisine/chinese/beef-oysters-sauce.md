@@ -57,8 +57,8 @@ Beef in oyster sauce is the dish you cook when you want Cantonese flavour and ha
 - **Beef slicing:** Slightly frozen beef is easier to slice thinly and uniformly.
 
 ## Serving
-- Serve with: Steamed rice and Chinese leaves in soy sauce
-- Garnish with: Finely chopped spring onions
+- **Serve with:** Steamed rice and Chinese leaves in soy sauce
+- **Garnish with:** Finely chopped spring onions
 
 ## Variations
 - **Beef with Broccoli:** Replace the oyster sauce with 2 tablespoons soy sauce. Add 200g broccoli florets, stir-fried separately and combined with the beef.

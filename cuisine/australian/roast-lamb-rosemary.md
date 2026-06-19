@@ -96,8 +96,8 @@ Australia's Sunday lamb, the centre of the long-lunch table and the smell that f
 - **Garlic and anchovy:** Push a small piece of anchovy into each stab alongside the garlic. It melts away invisibly and adds depth; a chef's trick.
 
 ## Serving
-- Serve with: Roast potatoes (par-boiled, fluffed, then roasted in goose fat or olive oil), buttered green beans, roast pumpkin, peas with mint.
-- Garnish with: A sprig of rosemary on the platter.
+- **Serve with:** Roast potatoes (par-boiled, fluffed, then roasted in goose fat or olive oil), buttered green beans, roast pumpkin, peas with mint.
+- **Garnish with:** A sprig of rosemary on the platter.
 
 ## Storage
 - Sliced leftovers keep 3 days refrigerated.

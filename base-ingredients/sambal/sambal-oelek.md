@@ -79,10 +79,10 @@ Sambal oelek is the simplest sambal in the Indonesian family and the one every c
 - **Tamarind Water:** Add 1 teaspoon for tartness (optional).
 
 ## Serving
-- Use in: Indonesian rice dishes, noodle dishes, vegetables, soups, curries, as table condiment
-- Typical ratio: ½ to 1 teaspoon per serving, adjusted individually for heat tolerance
-- Application: Serve as condiment on side of plate; individuals add to taste
-- Temperature: Served cold or at room temperature, not heated
+- **Use in:** Indonesian rice dishes, noodle dishes, vegetables, soups, curries, as table condiment
+- **Typical ratio:** ½ to 1 teaspoon per serving, adjusted individually for heat tolerance
+- **Application:** Serve as condiment on side of plate; individuals add to taste
+- **Temperature:** Served cold or at room temperature, not heated
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 2 weeks

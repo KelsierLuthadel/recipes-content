@@ -55,8 +55,8 @@ Vietnam's everyday vegetable side: water spinach stir-fried hard and fast in a s
 - **Beef version:** Slip 150 g thinly sliced beef into the hot oil for 30 seconds before the garlic. Remove, then add back at the end.
 
 ## Serving
-- Serve with: steamed jasmine rice and any Vietnamese main like grilled pork, braised fish or a clear soup. This is a side dish, not a main.
-- Garnish with: a few extra slices of fresh red chilli for colour.
+- **Serve with:** steamed jasmine rice and any Vietnamese main like grilled pork, braised fish or a clear soup. This is a side dish, not a main.
+- **Garnish with:** a few extra slices of fresh red chilli for colour.
 
 ## Storage
 - Eat immediately. Stir-fried greens never reheat well; the stems lose their snap and the colour dulls within an hour.

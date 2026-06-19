@@ -78,9 +78,9 @@ The raita with structural ambition: cool whisked yogurt anchored with finely cho
 - **Pomegranate:** Scatter 2 tablespoons pomegranate seeds over the finished raita for sweetness and crunch.
 
 ## Serving
-- Serve with: Any curry, biryani, tandoori dishes, grilled meats
-- Serve as: Side dish, cooling accompaniment, or dip with poppadums
-- Garnish with: Reserved red onion slices, extra coriander leaves, cumin seeds
+- **Serve with:** Any curry, biryani, tandoori dishes, grilled meats
+- **Serve as:** Side dish, cooling accompaniment, or dip with poppadums
+- **Garnish with:** Reserved red onion slices, extra coriander leaves, cumin seeds
 
 ## Storage
 - Refrigerate in a covered container for up to 2 days

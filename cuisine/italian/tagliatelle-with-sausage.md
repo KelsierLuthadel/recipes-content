@@ -86,9 +86,9 @@ Tagliatelle with sausage and porcini is the rustic Italian autumn pasta, crumble
 - **Sage Variation:** Replace rosemary with 2 tablespoons fresh sage for different herbal character.
 
 ## Serving
-- Serve with: Crusty bread for sauce soaking, green salad with lemon vinaigrette
-- Garnish with: Fresh rosemary sprig, cracked black pepper, grated Parmesan
-- Pair with: Medium-bodied red wine (Barbera) or white Burgundy
+- **Serve with:** Crusty bread for sauce soaking, green salad with lemon vinaigrette
+- **Garnish with:** Fresh rosemary sprig, cracked black pepper, grated Parmesan
+- **Pair with:** Medium-bodied red wine (Barbera) or white Burgundy
 
 ## Storage
 - Refrigerate cooked dish in an airtight container for up to 2 days

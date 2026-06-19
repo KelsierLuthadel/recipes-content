@@ -66,10 +66,10 @@ Pains au chocolat are the building block of a proper French breakfast: rectangul
 - **With Pastry Cream:** Pipe a thin line of pastry cream alongside the chocolate before rolling.
 
 ## Serving
-- Serve with: Coffee, hot chocolate, or tea
-- Temperature: Serve warm or at room temperature
-- Amount: 1 pastry per person
-- Accompaniments: Jam, nutella, or plain
+- **Serve with:** Coffee, hot chocolate, or tea
+- **Temperature:** Serve warm or at room temperature
+- **Amount:** 1 pastry per person
+- **Accompaniments:** Jam, nutella, or plain
 
 ## Storage
 - Best served warm on the day of baking, but keeps at room temperature for 1 day in an airtight container

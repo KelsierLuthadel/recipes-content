@@ -65,7 +65,7 @@ This is a dish that does most of its work the day before you cook it. Slices of 
 - **Sichuan pepper:** Provides the signature numbing sensation that distinguishes Sichuan cooking.
 
 ## Serving
-- Serve with: Jasmine rice
+- **Serve with:** Jasmine rice
 
 ## Storage
 - Keeps 2-3 days refrigerated

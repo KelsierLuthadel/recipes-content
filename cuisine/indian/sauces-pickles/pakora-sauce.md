@@ -74,8 +74,8 @@ The Scottish-Indian curry-house dipping sauce that turns up alongside every plat
 - **Lighter Version:** Substitute half-yoghurt with sour cream for a tangier sauce.
 
 ## Serving
-- Serve with: Pakora, bhajis, samosas, spring rolls, fried appetizers
-- Garnish: None needed; this is a condiment
+- **Serve with:** Pakora, bhajis, samosas, spring rolls, fried appetizers
+- **Garnish:** None needed; this is a condiment
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

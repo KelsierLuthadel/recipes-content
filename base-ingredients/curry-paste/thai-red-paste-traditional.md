@@ -73,7 +73,7 @@ The finished paste should be thick enough to mound on a spoon and just sticky en
 - **Vegetarian:** substitute the shrimp paste with 2 tsp light soy sauce plus 1 tsp brown miso, added at the end. The umami profile is different but works.
 
 ## Serving
-- Use in: classic red curry with chicken, beef or duck; phanaeng (with the peanut variation); jungle curry; red curry seafood stir-fries; massaman variants where a red base is appropriate.
+- **Use in:** classic red curry with chicken, beef or duck; phanaeng (with the peanut variation); jungle curry; red curry seafood stir-fries; massaman variants where a red base is appropriate.
 
 - The traditional technique:
 1. Open a can of full-fat coconut milk without shaking. Spoon the thick cream off the top into a wide pan.

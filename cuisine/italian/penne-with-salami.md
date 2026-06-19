@@ -93,9 +93,9 @@ This is the baked-pasta dish where salami goes into the sauce instead of on a sa
 - **Spicy Heat:** Add ½ teaspoon chilli flakes to the béchamel.
 
 ## Serving
-- Serve as: Hot as a main course (serve directly from the dish), warm as a side, or cold as a pasta salad
-- Garnish with: Fresh parsley, cracked black pepper
-- Pair with: Light red wine (Chianti) or white wine (Pinot Grigio)
+- **Serve as:** Hot as a main course (serve directly from the dish), warm as a side, or cold as a pasta salad
+- **Garnish with:** Fresh parsley, cracked black pepper
+- **Pair with:** Light red wine (Chianti) or white wine (Pinot Grigio)
 
 ## Storage
 - Refrigerate leftover baked pasta in an airtight container for up to 3 days

@@ -82,7 +82,7 @@ The Viennese answer to its Hungarian cousin: slower, deeper, almost spoonable, t
 - **Erdäpfelgulasch:** the meatless potato goulash, made the same way but with diced waxy potatoes instead of beef and a sausage sliced in for the last 10 minutes.
 
 ## Serving
-- Serve with: bread dumplings (Semmelknödel), buttered egg noodles (Nockerl or Spätzle), or thick slices of dark rye sourdough for mopping. A small green salad on the side is welcome but optional. Beer or a glass of Zweigelt.
+- **Serve with:** bread dumplings (Semmelknödel), buttered egg noodles (Nockerl or Spätzle), or thick slices of dark rye sourdough for mopping. A small green salad on the side is welcome but optional. Beer or a glass of Zweigelt.
 
 ## Storage
 - Keeps 4 days refrigerated; the flavour deepens overnight and day 2 is genuinely better than day 1.

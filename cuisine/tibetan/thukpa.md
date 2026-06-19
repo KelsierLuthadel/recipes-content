@@ -94,7 +94,7 @@ Thukpa is Tibet's restorative winter noodle soup: a clean ginger-and-garlic-forw
 - **Chicken thukpa:** Replace beef with sliced chicken thigh; reduce simmer time to 20 minutes.
 
 ## Serving
-- Serve with: a small dish of fresh chilli or sepen, and lemon wedges. Tibetan butter tea on the side is traditional.
+- **Serve with:** a small dish of fresh chilli or sepen, and lemon wedges. Tibetan butter tea on the side is traditional.
 
 ## Storage
 - Broth and meat keep 3 days refrigerated; freeze 2 months without the noodles.

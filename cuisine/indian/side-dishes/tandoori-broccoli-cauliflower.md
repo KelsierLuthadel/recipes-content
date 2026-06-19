@@ -74,10 +74,10 @@ These are grilled vegetables with spiced coating, crispy outside, tender inside.
 - **Mixed Vegetables:** Include other grillable vegetables like zucchini, bell peppers, or button mushrooms in the same treatment.
 
 ## Serving
-- Serve as: Starter, side dish, or vegetarian main
-- Garnish: Fresh coriander leaves, lime wedges, thin onion slices
-- Accompany with: Tamarind chutney, mint raita, lemon wedges
-- Temperature: Serve warm or at room temperature
+- **Serve as:** Starter, side dish, or vegetarian main
+- **Garnish:** Fresh coriander leaves, lime wedges, thin onion slices
+- **Accompany with:** Tamarind chutney, mint raita, lemon wedges
+- **Temperature:** Serve warm or at room temperature
 
 ## Storage
 - Refrigerate leftover cooked vegetables in an airtight container for up to 2 days

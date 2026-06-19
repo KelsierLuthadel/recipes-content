@@ -91,7 +91,7 @@ Tochitură is the heavy Sunday plate of Moldova, the pork-and-cornmeal partnersh
 - **With sour cream:** a generous spoon of smântână stirred through at the end, café version.
 
 ## Serving
-- The classic triptych: mămăligă, stew, fried egg, sheep cheese. A glass of red Fetească Neagră. A small bowl of pickled chillies on the side. Country bread for the gravy.
+- **The classic triptych:** mămăligă, stew, fried egg, sheep cheese. A glass of red Fetească Neagră. A small bowl of pickled chillies on the side. Country bread for the gravy.
 
 ## Storage
 - Refrigerate the stew up to 4 days; the flavour deepens.

@@ -70,7 +70,7 @@ The Mexican-American template burrito, the customisable build-your-own that turn
 - **Extra creamy:** Add guacamole and extra sour cream or crema
 
 ## Serving
-- Serve with: Refried beans on the side, extra salsa, guacamole, lime wedges, and Mexican rice
+- **Serve with:** Refried beans on the side, extra salsa, guacamole, lime wedges, and Mexican rice
 
 ## Storage
 - Best eaten immediately while warm

@@ -91,8 +91,8 @@ The Burmese take on the South Asian samosa, with a thinner, crisper pastry and a
 - **Samosa soup (samusa thoke):** A famous Burmese street dish where leftover or fresh samosas are broken into a chickpea-flour broth with cabbage, onion and tamarind. Worth seeking out.
 
 ## Serving
-- Serve with: a saucer of sliced raw onion and whole green chillies (the classic teashop accompaniment), or a small bowl of tamarind chutney.
-- Garnish with: lime wedges.
+- **Serve with:** a saucer of sliced raw onion and whole green chillies (the classic teashop accompaniment), or a small bowl of tamarind chutney.
+- **Garnish with:** lime wedges.
 
 ## Storage
 - Best eaten within 30 minutes of frying.

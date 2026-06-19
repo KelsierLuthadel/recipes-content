@@ -105,8 +105,8 @@ A weekend chilli con carne that lives in the oven. The flavour is built in three
 - **Slow cooker:** After Stage 4, transfer everything to a slow cooker on low for 10-12 hours; finish with the bell peppers stirred in for the last hour on high.
 
 ## Serving
-- Serve with: Steamed rice, cornbread, or a baked potato.
-- Top with: Sour cream, grated cheddar, sliced spring onion, pickled jalapeños, chopped fresh coriander.
+- **Serve with:** Steamed rice, cornbread, or a baked potato.
+- **Top with:** Sour cream, grated cheddar, sliced spring onion, pickled jalapeños, chopped fresh coriander.
 - Squeeze of lime wakes it up if it's been sitting overnight.
 
 ## Storage

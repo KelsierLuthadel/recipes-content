@@ -62,7 +62,7 @@ Salsa roja Mexicana is the foundational Mexican red salsa and one of the most pe
 - **Fresh-blended salsa cruda:** skip the charring; just blend raw vegetables; closer to pico de gallo.
 
 ## Serving
-- With everything Mexican: tacos, tostadas, scrambled eggs, beans, rice, chips for dipping. As a table condiment.
+- **With everything Mexican:** tacos, tostadas, scrambled eggs, beans, rice, chips for dipping. As a table condiment.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens after 24 hours.

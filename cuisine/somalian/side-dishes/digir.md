@@ -114,7 +114,7 @@ Digir is Somalia's everyday bean stew, the dish that turns up as the proper Soma
 - **Vegetarian digir farsi:** add 100 g of diced potato and 1 carrot diced to the cook with the beans; turns digir into a more substantial vegetable stew.
 
 ## Serving
-- For breakfast: in a wide bowl with warm muufo or anjero alongside for scooping; sweet shaah tea with cardamom on the side. For lunch: over plain basmati rice as a side or main; bisbaas for heat.
+- **For breakfast:** in a wide bowl with warm muufo or anjero alongside for scooping; sweet shaah tea with cardamom on the side. For lunch: over plain basmati rice as a side or main; bisbaas for heat.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight, and day-after digir is excellent for breakfast.

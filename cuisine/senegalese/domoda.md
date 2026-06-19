@@ -89,8 +89,8 @@ Domoda is the Gambia's national stew: the thinner, more citrusy cousin to Senega
 - **Bitter aubergine:** Add 200 g of cubed African aubergine (or regular aubergine with a teaspoon of mustard powder) for an authentic edge.
 
 ## Serving
-- Serve with: A wide pile of steamed white rice in a shallow bowl, sauce ladled around.
-- Garnish with: Fresh coriander leaves and a lime wedge on the side.
+- **Serve with:** A wide pile of steamed white rice in a shallow bowl, sauce ladled around.
+- **Garnish with:** Fresh coriander leaves and a lime wedge on the side.
 
 ## Storage
 - Keeps 3 days refrigerated.

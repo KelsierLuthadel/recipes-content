@@ -77,8 +77,8 @@ A three-part dessert: bright green pandan-flavoured rice flour jellies, a glossy
 - **Cendol pulut:** Add 2 tablespoons of warm cooked glutinous rice to the base of each bowl for a more substantial pudding.
 
 ## Serving
-- Serve with: Long spoons or thick straws; stir vigorously at the table to mix the syrup, coconut and ice
-- Garnish with: An extra drizzle of gula melaka syrup on top of the coconut milk for a marbled finish
+- **Serve with:** Long spoons or thick straws; stir vigorously at the table to mix the syrup, coconut and ice
+- **Garnish with:** An extra drizzle of gula melaka syrup on top of the coconut milk for a marbled finish
 
 ## Storage
 - Pandan jellies keep 2 days refrigerated submerged in cold water; drain before using

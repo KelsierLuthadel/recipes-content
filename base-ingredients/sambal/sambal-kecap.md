@@ -83,10 +83,10 @@ Sambal kecap is the sweet-spicy Indonesian dipping bowl that turns up beside sat
 - **Thicker Consistency:** Reduce water to ½ tablespoon or skip water entirely for thicker dipping sauce.
 
 ## Serving
-- Use in: Satay dipping sauce, fried chicken condiment, fried seafood accompaniment, noodle dish topping
-- Typical ratio: 1-2 tablespoons per serving, used as dipping sauce
-- Temperature: Served at room temperature or chilled
-- Application: Served in small bowl for dipping; use spoon to dollop onto plate alongside grilled/fried proteins
+- **Use in:** Satay dipping sauce, fried chicken condiment, fried seafood accompaniment, noodle dish topping
+- **Typical ratio:** 1-2 tablespoons per serving, used as dipping sauce
+- **Temperature:** Served at room temperature or chilled
+- **Application:** Served in small bowl for dipping; use spoon to dollop onto plate alongside grilled/fried proteins
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 7-10 days

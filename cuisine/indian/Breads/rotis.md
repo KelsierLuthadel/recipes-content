@@ -47,8 +47,8 @@ The daily bread of much of the Indian subcontinent: an unleavened wholemeal flat
 - **Open-flame finish:** The flame stage is what gives the puff; without it the roti is still edible but flat and slightly tough.
 
 ## Serving
-- Serve with: Curries, dals or chutneys; brushed with ghee for extra richness.
-- Garnish with: A small knob of butter or ghee melted onto the hot roti just before serving.
+- **Serve with:** Curries, dals or chutneys; brushed with ghee for extra richness.
+- **Garnish with:** A small knob of butter or ghee melted onto the hot roti just before serving.
 
 ## Storage
 - Keep warm in a cloth-lined basket for up to an hour.

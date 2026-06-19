@@ -69,10 +69,10 @@ Blanched garlic is the foundation for delicate French side dishes where you want
 - **Herbed:** Add a bay leaf and thyme sprig to one of the blanching liquids for subtle herbal notes.
 
 ## Serving
-- Use with: Fried green beans, vegetable sides, creamed soups, with roasted meats
-- Temperature: Warm or room temperature (reheat gently if preparing ahead)
-- Amount: 2-3 cloves per serving
-- Preparation: Serve whole as a garnish or halved mixed into the finished dish
+- **Use with:** Fried green beans, vegetable sides, creamed soups, with roasted meats
+- **Temperature:** Warm or room temperature (reheat gently if preparing ahead)
+- **Amount:** 2-3 cloves per serving
+- **Preparation:** Serve whole as a garnish or halved mixed into the finished dish
 
 ## Storage
 - Refrigerate in an airtight container for 2-3 days maximum

@@ -84,8 +84,8 @@ True spaghetti alla marinara celebrates the bounty of Naples' harbor, a rich tom
 - **Extra Garlic:** Add a third garlic clove to the seafood cooking pan for garlic lovers.
 
 ## Serving
-- Serve with: Crusty bread for sauce, chilled white wine
-- Garnish with: Fresh parsley, cracked black pepper, lemon wedges
+- **Serve with:** Crusty bread for sauce, chilled white wine
+- **Garnish with:** Fresh parsley, cracked black pepper, lemon wedges
 
 ## Storage
 - Best eaten immediately; seafood loses quality when reheated

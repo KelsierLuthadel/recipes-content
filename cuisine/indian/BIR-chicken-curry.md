@@ -75,8 +75,8 @@ BIR chicken curry is the restaurant style chicken curry built from whole spices 
 - **Meat alternatives:** Lamb or paneer can be substituted using similar steps and cooking time adjustments.
 
 ## Serving
-- Serve with: Steamed basmati rice, naan, and a side of raita or pickled onions.
-- Garnish with: Fresh coriander and optional lemon wedges.
+- **Serve with:** Steamed basmati rice, naan, and a side of raita or pickled onions.
+- **Garnish with:** Fresh coriander and optional lemon wedges.
 
 ## Storage
 - Keeps 2-3 days refrigerated in an airtight container.

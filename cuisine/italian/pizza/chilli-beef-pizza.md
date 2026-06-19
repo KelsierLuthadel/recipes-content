@@ -111,9 +111,9 @@ Pizza thrown a curveball: a thin crust topped with seasoned ground beef, kidney 
 - **Pepperoni Addition:** Scatter 30 grams sliced pepperoni over the cheese before baking.
 
 ## Serving
-- Serve with: Green salad, garlic bread, cold beer or cola
-- Garnish with: Fresh coriander (optional), cracked black pepper
-- Pair with: Cold lager or pale ale that cuts through the richness
+- **Serve with:** Green salad, garlic bread, cold beer or cola
+- **Garnish with:** Fresh coriander (optional), cracked black pepper
+- **Pair with:** Cold lager or pale ale that cuts through the richness
 
 ## Storage
 - Best served immediately while the crust is crisp and cheese is melted

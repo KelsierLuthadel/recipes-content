@@ -29,8 +29,8 @@ Orange butter sauce is the building block for crêpes Suzette, warm plum tarts, 
 - **Grand Marnier:** Optional but highly recommended for warming spice and extra depth.
 
 ## Serving
-- Serve with: Crêpes, warm tarts, chocolate soufflés, or poached fruits
-- Drizzle on: Warm plates for best flavor delivery
+- **Serve with:** Crêpes, warm tarts, chocolate soufflés, or poached fruits
+- **Drizzle on:** Warm plates for best flavor delivery
 
 ## Storage
 - Best served warm or at room temperature immediately

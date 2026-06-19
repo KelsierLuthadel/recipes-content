@@ -43,9 +43,9 @@ The bouquet garni is the building block of French stocks, soups, braises and ste
 - **Hearty:** Include a small piece of fennel or a strip of lemon zest.
 
 ## Serving
-- Use in: Stocks, soups, stews, braised proteins
-- Timing: Add at the beginning of cooking; remove 10 minutes before finishing
-- Removal: Lift out using the string tail before plating
+- **Use in:** Stocks, soups, stews, braised proteins
+- **Timing:** Add at the beginning of cooking; remove 10 minutes before finishing
+- **Removal:** Lift out using the string tail before plating
 
 ## Storage
 - Create multiple bouquets and store in the freezer, bundled individually for up to 3 months

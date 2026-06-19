@@ -91,8 +91,8 @@ Of the four main ramen styles, shoyu (soy) is the cleanest and most aromatic, le
 - **Cold soup:** Chill the strained broth and serve as a hiyashi ramen with cold noodles in summer.
 
 ## Serving
-- Serve with: A sheet of toasted nori on top, a few drops of chilli oil, and a wedge of lime
-- Garnish with: A scatter of toasted sesame seeds and a curl of pickled bamboo (menma)
+- **Serve with:** A sheet of toasted nori on top, a few drops of chilli oil, and a wedge of lime
+- **Garnish with:** A scatter of toasted sesame seeds and a curl of pickled bamboo (menma)
 
 ## Storage
 - Strained broth keeps 3 days refrigerated, or freezes well up to 3 months

@@ -56,7 +56,7 @@ Crispy duck is the dish the Chinese reserve for banquets, weddings and the kind 
 - **Make-ahead friendly:** Nearly all preparation can be done a day ahead; only deep-fry just before serving.
 
 ## Serving
-- Serve with: Mandarin pancakes, hoisin sauce, shredded cucumber and spring onions (Peking duck style), or simply with steamed rice
+- **Serve with:** Mandarin pancakes, hoisin sauce, shredded cucumber and spring onions (Peking duck style), or simply with steamed rice
 
 ## Storage
 - Best served immediately for optimal crispness

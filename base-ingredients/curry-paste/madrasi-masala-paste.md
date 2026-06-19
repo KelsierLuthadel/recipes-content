@@ -110,10 +110,10 @@ Madrasi masala paste is the building block for fiercely hot south-Indian-style c
 - **Extra Warmth:** Add 1 teaspoon ground cinnamon or ½ teaspoon ground nutmeg.
 
 ## Serving
-- Use in: Madras curries, powerfully spiced curries, curries requiring genuine heat
-- Typical ratio: 2-3 tablespoons per 400 ml water or stock (this paste is concentrated)
-- Cooking: Fry in hot oil with onions before adding liquid and ingredients; be prepared for a spicy result
-- Temperature: Requires cooking in hot oil before use
+- **Use in:** Madras curries, powerfully spiced curries, curries requiring genuine heat
+- **Typical ratio:** 2-3 tablespoons per 400 ml water or stock (this paste is concentrated)
+- **Cooking:** Fry in hot oil with onions before adding liquid and ingredients; be prepared for a spicy result
+- **Temperature:** Requires cooking in hot oil before use
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 2 months

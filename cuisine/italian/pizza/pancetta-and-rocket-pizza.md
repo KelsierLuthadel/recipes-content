@@ -65,8 +65,8 @@ A weeknight pizza that uses the freezer pancetta and whatever's left in the sala
 - **Prosciutto:** Use prosciutto crudo, draped over straight from the packet without crisping.
 
 ## Serving
-- Serve with: A glass of crisp white (Soave or pinot grigio) and an extra side of dressed leaves
-- Garnish with: A grind of black pepper and a few extra Grana Padano shavings
+- **Serve with:** A glass of crisp white (Soave or pinot grigio) and an extra side of dressed leaves
+- **Garnish with:** A grind of black pepper and a few extra Grana Padano shavings
 
 ## Storage
 - Best eaten immediately; the rocket and pancetta lose texture on standing

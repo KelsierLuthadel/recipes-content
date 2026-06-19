@@ -113,10 +113,10 @@ Cheese straws are the British drinks-tray nibble at its simplest, the kind of ba
 - **With Poppy Seeds:** Instead of paprika, dust with 1 teaspoon poppy seeds for different appearance and subtle nutty flavor.
 
 ## Serving
-- Perfect with: Aperitif drinks (champagne, wine, cocktails), light consommé or soup, cheese board, before-dinner nibbles, cocktail parties
-- Temperature: Warm (within 30 minutes of baking)
-- Ratio: 3-4 straws per person
-- Context: Pre-dinner appetizer, elegant canapé stand-in, simple entertaining, quick appetizer
+- **Perfect with:** Aperitif drinks (champagne, wine, cocktails), light consommé or soup, cheese board, before-dinner nibbles, cocktail parties
+- **Temperature:** Warm (within 30 minutes of baking)
+- **Ratio:** 3-4 straws per person
+- **Context:** Pre-dinner appetizer, elegant canapé stand-in, simple entertaining, quick appetizer
 
 ## Storage
 - Best consumed fresh and warm (within 30 minutes of baking).

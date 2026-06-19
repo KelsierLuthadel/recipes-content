@@ -37,9 +37,9 @@ Romesco is the great red pepper salsa of Catalonia: a vibrant deeply flavoured p
 - The salsa can be made up to a day in advance; the flavours meld and improve on resting
 
 ## Serving
-- Serve with: Pasta, in bouchée canapés, alongside grilled meats or fish, with crusty bread
-- Temperature: Room temperature or lightly warmed
-- Amount: 2-3 tablespoons per portion as a condiment
+- **Serve with:** Pasta, in bouchée canapés, alongside grilled meats or fish, with crusty bread
+- **Temperature:** Room temperature or lightly warmed
+- **Amount:** 2-3 tablespoons per portion as a condiment
 
 ## Storage
 - Refrigerate in an airtight container for up to 3 days

@@ -69,7 +69,7 @@ Ají picante (or simply "ají") is Colombia's most pervasive table condiment and
 - **Smoky aji:** add 1 chopped smoked chipotle in adobo; gives a smoky depth.
 
 ## Serving
-- With everything Colombian: arepas, empanadas, bandeja paisa, patacones, sancocho, sudado de pollo. Always at the table as a help-yourself condiment.
+- **With everything Colombian:** arepas, empanadas, bandeja paisa, patacones, sancocho, sudado de pollo. Always at the table as a help-yourself condiment.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar; flavour deepens for 2 days then starts to lose freshness.

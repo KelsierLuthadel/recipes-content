@@ -66,8 +66,8 @@ Quiche Lorraine is the original quiche from the Lorraine region of northeastern 
 - **Smoked lardons make it Lorraine:** Unsmoked bacon gives a different (still good) result.
 
 ## Serving
-- Serve with: A dressed green salad. Hot, warm or at room temperature.
-- Garnish with: A few chives or chervil leaves.
+- **Serve with:** A dressed green salad. Hot, warm or at room temperature.
+- **Garnish with:** A few chives or chervil leaves.
 
 ## Storage
 - Keeps 3 days refrigerated.

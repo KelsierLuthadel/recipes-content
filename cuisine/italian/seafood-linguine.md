@@ -81,8 +81,8 @@ Seafood linguine is the Italian coastal pasta in its purest form, clams, mussels
 - **Saffron:** Add a pinch of saffron to the sauce for subtle color and flavor.
 
 ## Serving
-- Serve with: Crusty bread for sauce soaking, chilled white wine
-- Garnish with: Fresh flat-leaf parsley, lemon zest, and cracked pepper
+- **Serve with:** Crusty bread for sauce soaking, chilled white wine
+- **Garnish with:** Fresh flat-leaf parsley, lemon zest, and cracked pepper
 
 ## Storage
 - Best eaten immediately after cooking (seafood texture suffers quickly)

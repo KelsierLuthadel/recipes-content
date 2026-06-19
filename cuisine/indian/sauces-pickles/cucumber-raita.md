@@ -56,8 +56,8 @@ The most essential Indian yogurt-based side and the traditional cooling counter 
 - **Garlic Version:** Add 1 crushed garlic clove for pungent depth.
 
 ## Serving
-- Serve with: Any curry, biryani, tandoori dishes, as a cooling accompaniment
-- Garnish with: Fresh mint sprig, dusted chilli powder, cumin seeds
+- **Serve with:** Any curry, biryani, tandoori dishes, as a cooling accompaniment
+- **Garnish with:** Fresh mint sprig, dusted chilli powder, cumin seeds
 
 ## Storage
 - Best served fresh, within 1-2 hours of preparation

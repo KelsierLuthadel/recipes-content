@@ -65,7 +65,7 @@ Rotkohl is the German braised red cabbage that anchors every Christmas dinner ac
 - **With pear:** Swap one apple for a ripe pear; gives a softer sweetness.
 
 ## Serving
-- Serve with: Sauerbraten, roast pork, goose, duck, pork knuckle, sausages, or with Spätzle for a vegetarian plate.
+- **Serve with:** Sauerbraten, roast pork, goose, duck, pork knuckle, sausages, or with Spätzle for a vegetarian plate.
 
 ## Storage
 - Keeps 4 days refrigerated. Improves over the first 2.

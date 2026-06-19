@@ -74,8 +74,8 @@ Normandy chicken brings together the bounty of France's northern apple region in
 - **With Mushrooms:** Add 150g button mushrooms alongside the apples for textural variety.
 
 ## Serving
-- Serve with: Buttered egg noodles, creamed potatoes, or steamed leeks
-- Garnish with: Fresh tarragon leaves, celery leaves, and a light dusting of white pepper
+- **Serve with:** Buttered egg noodles, creamed potatoes, or steamed leeks
+- **Garnish with:** Fresh tarragon leaves, celery leaves, and a light dusting of white pepper
 
 ## Storage
 - Keeps 3-4 days refrigerated (sauce will thicken slightly as it cools)

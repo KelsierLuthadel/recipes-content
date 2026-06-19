@@ -89,8 +89,8 @@ A Margherita with the extra mile built in: fresh-yeasted bread-flour dough left 
 - **Quattro formaggi:** Replace the mozzarella with a mix of mozzarella, fontina, gorgonzola and grated parmesan.
 
 ## Serving
-- Serve with: A glass of Chianti Classico and a tomato salad with red onion
-- Garnish with: A drizzle of high-quality extra-virgin olive oil and flaky salt
+- **Serve with:** A glass of Chianti Classico and a tomato salad with red onion
+- **Garnish with:** A drizzle of high-quality extra-virgin olive oil and flaky salt
 
 ## Storage
 - Best eaten straight from the oven

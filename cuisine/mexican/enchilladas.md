@@ -102,8 +102,8 @@ A baked enchilada built on a from-scratch chilli base sauce that does most of th
 - **Beef:** Use 500 g flank or skirt steak, marinated in lime + cumin for an hour, then seared rare and sliced thin.
 
 ## Serving
-- Serve with: Sour cream, lime wedges, chopped coriander, sliced spring onions, and a jug of the reserved chilli base sauce.
-- Optional sides: Mexican rice, refried beans, a simple shredded cabbage slaw.
+- **Serve with:** Sour cream, lime wedges, chopped coriander, sliced spring onions, and a jug of the reserved chilli base sauce.
+- **Optional sides:** Mexican rice, refried beans, a simple shredded cabbage slaw.
 
 ## Storage
 - Baked enchiladas keep 3 days refrigerated; reheat covered at 160°C for 15-20 minutes

@@ -66,7 +66,7 @@ Puré de papas is Chile's everyday mashed potato and the traditional side to any
 - **Olive oil puré:** swap butter for extra virgin olive oil; gives a lighter Mediterranean-leaning version.
 
 ## Serving
-- With any Chilean main: plateada, lomo a lo pobre, charquicán, asado, roasted chicken. As Sunday lunch.
+- **With any Chilean main:** plateada, lomo a lo pobre, charquicán, asado, roasted chicken. As Sunday lunch.
 
 ## Storage
 - Best eaten warm and fresh.

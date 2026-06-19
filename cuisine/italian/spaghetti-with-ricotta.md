@@ -67,8 +67,8 @@ Spaghetti with ricotta is the pasta in its most elegant minimalist form, fresh r
 - **Without Sun-Dried Tomatoes:** Substitute fresh cherry tomatoes halved, though flavor intensity decreases.
 
 ## Serving
-- Serve with: Crusty warm bread, chilled white wine (Pinot Grigio or Vermentino)
-- Garnish with: Fresh basil leaves, extra black pepper, grated Parmesan (optional)
+- **Serve with:** Crusty warm bread, chilled white wine (Pinot Grigio or Vermentino)
+- **Garnish with:** Fresh basil leaves, extra black pepper, grated Parmesan (optional)
 
 ## Storage
 - This dish is best served immediately while pasta is still warm

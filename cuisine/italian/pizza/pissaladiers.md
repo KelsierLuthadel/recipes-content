@@ -88,9 +88,9 @@ Nice's answer to pizza, made on a thin yeasted base but with no tomato in sight.
 - **Finish with Parmesan:** Grate a small amount of Parmesan over the hot pissaladières just before serving.
 
 ## Serving
-- Serve as: Snack or appetizer, canapé base (cut into small fingers)
-- Best with: Crisp dry white wine (Sauvignon Blanc), pissaladière pairs beautifully with cold Provençal rosé
-- Garnish with: Extra fresh thyme, fleur de sel (sea salt) scattered lightly
+- **Serve as:** Snack or appetizer, canapé base (cut into small fingers)
+- **Best with:** Crisp dry white wine (Sauvignon Blanc), pissaladière pairs beautifully with cold Provençal rosé
+- **Garnish with:** Extra fresh thyme, fleur de sel (sea salt) scattered lightly
 
 ## Storage
 - Refrigerate cooked pissaladières in an airtight container for up to 3 days

@@ -114,9 +114,9 @@ Ragù is the great Italian meat sauce, deeply browned beef (or beef-and-pork mix
 - **Marsala Finish:** Add 30 ml Marsala wine in the last minute of cooking for subtle sweetness and depth.
 
 ## Serving
-- Serve over: Fresh tagliatelle (narrow ribbons allow sauce to cling), fettuccine, or pappardelle (wide ribbons showcase the sauce)
-- Garnish with: Freshly grated Parmesan, cracked black pepper, fresh basil (if available)
-- Pair with: Bold red wine (Barolo, Brunello, or Chianti Classico) that matches the sauce's richness
+- **Serve over:** Fresh tagliatelle (narrow ribbons allow sauce to cling), fettuccine, or pappardelle (wide ribbons showcase the sauce)
+- **Garnish with:** Freshly grated Parmesan, cracked black pepper, fresh basil (if available)
+- **Pair with:** Bold red wine (Barolo, Brunello, or Chianti Classico) that matches the sauce's richness
 
 ## Storage
 - Refrigerate cooked ragù in an airtight container for up to 4 days

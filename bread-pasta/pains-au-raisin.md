@@ -77,10 +77,10 @@ Pains aux raisins are the building block of the French breakfast pastry counter:
 - **Alternative Spirits:** Use Grand Marnier, cognac, or coffee liqueur instead of rum.
 
 ## Serving
-- Serve with: Hot chocolate, strong coffee, or tea
-- Temperature: Serve warm or at room temperature
-- Amount: 1-2 pastries per person
-- Accompaniments: Jam, pastry cream, or unsweetened crème fraîche
+- **Serve with:** Hot chocolate, strong coffee, or tea
+- **Temperature:** Serve warm or at room temperature
+- **Amount:** 1-2 pastries per person
+- **Accompaniments:** Jam, pastry cream, or unsweetened crème fraîche
 
 ## Storage
 - Best served warm on the day of baking

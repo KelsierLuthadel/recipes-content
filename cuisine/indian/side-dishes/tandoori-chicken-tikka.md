@@ -89,10 +89,10 @@ Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessi
 - **Vegetable Tikka:** Use bell peppers, onions, zucchini, tomatoes, and paneer in mixed rounds with the chicken.
 
 ## Serving
-- Serve with: Basmati rice, naan bread, roti, rice pilau, curries
-- Garnish: Fresh coriander, lemon wedges, thin onion slices, chutney
-- Accompany with: Mint raita, lemon chutney, fresh mint leaves
-- Or use: In curries (Tikka Masala) or salads
+- **Serve with:** Basmati rice, naan bread, roti, rice pilau, curries
+- **Garnish:** Fresh coriander, lemon wedges, thin onion slices, chutney
+- **Accompany with:** Mint raita, lemon chutney, fresh mint leaves
+- **Or use:** In curries (Tikka Masala) or salads
 
 ## Storage
 - Refrigerate marinated raw chicken for up to 48 hours before cooking

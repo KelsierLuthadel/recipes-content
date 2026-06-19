@@ -66,7 +66,7 @@ Grelos com alho (literally "turnip-tops with garlic") is Portugal's beloved garl
 - **With pine nuts:** add 30 g of toasted pine nuts; gives Italian-leaning texture.
 
 ## Serving
-- Alongside any Portuguese main: bitoque, francesinha, bacalhau dishes, cozido, grilled fish.
+- **Alongside any Portuguese main:** bitoque, francesinha, bacalhau dishes, cozido, grilled fish.
 
 ## Storage
 - Best eaten warm.

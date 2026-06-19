@@ -56,7 +56,7 @@ A note on the anchovies: they do not make the sauce taste of fish. Two or three 
 - **With tarragon:** swap a small handful of the parsley for fresh tarragon. Beautiful with poached fish; do not use with red meat.
 
 ## Serving
-- The classic match: **bollito misto** (a Piedmontese platter of poached beef, ox tongue, capon, calf's head and zampone). The salsa cuts the richness of the meats.
+- **The classic match:** **bollito misto** (a Piedmontese platter of poached beef, ox tongue, capon, calf's head and zampone). The salsa cuts the richness of the meats.
 - **Poached salmon** or any white fish, with a spoonful alongside.
 - **Roast lamb**, particularly the leg, served at the table for spooning.
 - **Hard-boiled eggs**, halved, with a teaspoon on top each.

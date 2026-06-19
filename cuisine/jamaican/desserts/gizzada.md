@@ -72,7 +72,7 @@ A fixture at every Jamaican bakery and tea trolley, these small coconut tarts go
 - **Pineapple-coconut:** Stir in 50 g finely chopped pineapple to the filling with the butter.
 
 ## Serving
-- Serve with: Hot Jamaican coffee or tea, or a glass of cold milk. Also lovely with a scoop of vanilla ice cream as a quick dessert.
+- **Serve with:** Hot Jamaican coffee or tea, or a glass of cold milk. Also lovely with a scoop of vanilla ice cream as a quick dessert.
 
 ## Storage
 - Keeps 4 days in an airtight tin at room temperature.

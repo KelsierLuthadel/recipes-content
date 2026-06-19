@@ -63,7 +63,7 @@ Chinese curry chicken is a far quieter dish than its Indian or Thai cousins: a l
 - **Cornflour slurry:** Add late to achieve a glossy, light sauce rather than a heavy coating.
 
 ## Serving
-- Serve with: Steamed white rice and a simple vegetable
+- **Serve with:** Steamed white rice and a simple vegetable
 
 ## Storage
 - Keeps 2-3 days refrigerated

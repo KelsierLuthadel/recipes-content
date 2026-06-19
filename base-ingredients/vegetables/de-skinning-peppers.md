@@ -90,10 +90,10 @@ De-skinning peppers is the foundation for roasted pepper salads, antipasto, rata
 - **Under the Broiler:** Place peppers on a broiler pan under a hot broiler, turning frequently until charred (works well in apartment kitchens with no gas flame).
 
 ## Serving
-- Use for: Roasted pepper salads, antipasto, pasta dishes, tapas, sandwich fillings, soup bases, ratatouille
-- Temperature: Room temperature or warm
-- Storage: In olive oil to prevent oxidation and drying
-- Amount: ½ pepper per serving
+- **Use for:** Roasted pepper salads, antipasto, pasta dishes, tapas, sandwich fillings, soup bases, ratatouille
+- **Temperature:** Room temperature or warm
+- **Storage:** In olive oil to prevent oxidation and drying
+- **Amount:** ½ pepper per serving
 
 ## Storage
 - In an airtight container with olive oil cover, keeps refrigerated for up to 1 week

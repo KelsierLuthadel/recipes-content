@@ -70,9 +70,9 @@ A lamb-and-vegetable variation on the Cornish pasty, the British miner's handhel
 - **Make-ahead:** Shaped, unbaked pasties freeze beautifully for up to 2 months.
 
 ## Serving
-- Serve with: Boiled potatoes, seasonal vegetables, or a fresh salad
-- Garnish with: Watercress and tomato slices
-- Accompaniment: Gravy or a dollop of crème fraîche
+- **Serve with:** Boiled potatoes, seasonal vegetables, or a fresh salad
+- **Garnish with:** Watercress and tomato slices
+- **Accompaniment:** Gravy or a dollop of crème fraîche
 
 ## Storage
 - Keeps 3-4 days refrigerated in an airtight container

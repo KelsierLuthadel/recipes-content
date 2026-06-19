@@ -77,10 +77,10 @@ Basic steamed rice is deceptively important. This method produces separate, tend
 - **Herb-Infused:** Add 2-3 crushed cardamom pods or 1 cinnamon stick to the water before cooking.
 
 ## Serving
-- Serve with: Any curry, dal, tandoori proteins, pickles, raita
-- Temperature: Serve hot, immediately after fluffing
-- Amount: Approximately 200g (1 cup cooked) per person
-- Garnish: Fresh coriander leaves, fried onions, or sliced fresh chilli
+- **Serve with:** Any curry, dal, tandoori proteins, pickles, raita
+- **Temperature:** Serve hot, immediately after fluffing
+- **Amount:** Approximately 200g (1 cup cooked) per person
+- **Garnish:** Fresh coriander leaves, fried onions, or sliced fresh chilli
 
 ## Storage
 - Refrigerate leftover cooked rice in an airtight container for up to 3 days

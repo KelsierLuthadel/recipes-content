@@ -65,8 +65,8 @@ The bright red onion chutney that turns up on every British curry-house table al
 - **Extra Heat:** Add ½ teaspoon more chilli powder if you prefer more spice.
 
 ## Serving
-- Serve with: Tandoori meats, kebabs, rotis, curries, grilled vegetables
-- Garnish: Fresh coriander leaves (optional)
+- **Serve with:** Tandoori meats, kebabs, rotis, curries, grilled vegetables
+- **Garnish:** Fresh coriander leaves (optional)
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

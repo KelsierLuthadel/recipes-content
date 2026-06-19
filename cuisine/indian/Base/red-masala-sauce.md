@@ -31,7 +31,7 @@ The vivid-red yogurt-based marinade that defines the British curry-house tandoor
 - **Marinating time:** For best results, marinate protein for at least 2 hours, or overnight in the refrigerator.
 
 ## Serving
-- Use as: A marinade for tandoori chicken, lamb chops, king prawns, or vegetables before grilling or roasting.
+- **Use as:** A marinade for tandoori chicken, lamb chops, king prawns, or vegetables before grilling or roasting.
 
 ## Storage
 - Refrigerate unused marinade in a sealed container for up to 3 days

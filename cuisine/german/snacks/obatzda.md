@@ -70,7 +70,7 @@ Obatzda is the Bavarian beer-garden cheese spread, soft ripe Camembert smashed w
 - **Smokier:** Swap half the sweet paprika for smoked paprika.
 
 ## Serving
-- Serve with: Soft pretzels (warmed in the oven 5 minutes), dark rye, radishes, gherkins. Beer-garden plate. Pair with a cold Helles or Weissbier.
+- **Serve with:** Soft pretzels (warmed in the oven 5 minutes), dark rye, radishes, gherkins. Beer-garden plate. Pair with a cold Helles or Weissbier.
 
 ## Storage
 - Keeps 4 days refrigerated, covered.

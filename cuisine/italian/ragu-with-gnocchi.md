@@ -109,8 +109,8 @@ Ragu with gnocchi is the Italian comfort dinner that pairs slow-cooked meat sauc
 - **Fresh pasta:** Serve with homemade tagliatelle or pappardelle for a restaurant-style finish.
 
 ## Serving
-- Serve with: fresh tagliatelle, pappardelle, or potato gnocchi
-- Garnish with: grated Parmesan and cracked black pepper
+- **Serve with:** fresh tagliatelle, pappardelle, or potato gnocchi
+- **Garnish with:** grated Parmesan and cracked black pepper
 
 ## Storage
 - Refrigerate in an airtight container for up to 4 days.

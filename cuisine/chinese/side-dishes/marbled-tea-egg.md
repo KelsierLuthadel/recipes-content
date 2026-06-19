@@ -44,9 +44,9 @@ Marbled tea eggs are the snack you find at every Chinese train station, vending 
 - Allow the eggs to cool fully in the liquid before peeling for the deepest colour and flavour penetration.
 
 ## Serving
-- Serve with: cold platters, other cold dishes, or as a garnish; can be accompanied by a light soy dipping sauce
-- Temperature: cold or at room temperature
-- Amount: 1-2 eggs per person as a snack or garnish
+- **Serve with:** cold platters, other cold dishes, or as a garnish; can be accompanied by a light soy dipping sauce
+- **Temperature:** cold or at room temperature
+- **Amount:** 1-2 eggs per person as a snack or garnish
 
 ## Storage
 - Store unpeeled eggs submerged in the tea liquid in the refrigerator for up to 2 days.

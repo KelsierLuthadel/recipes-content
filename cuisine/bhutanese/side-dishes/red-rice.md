@@ -67,7 +67,7 @@ Bhutanese red rice is the country's national starch and the carbohydrate foundat
 - **Red rice porridge (juma-style):** use a 1:4 ratio (more water) and cook 50 minutes; finish with butter and salt for a savoury breakfast porridge. A Bhutanese variation.
 
 ## Serving
-- The proper Bhutanese way: spoon a generous portion into a wide bowl as the base, then ladle ema datshi (chilli-cheese), shakam paa (dried beef), kewa datshi (potato-cheese) or any other fiery stew over the top so the rice soaks the sauce. Eat with the right hand (Bhutanese tradition) by forming small balls of rice and stew between thumb and fingers.
+- **The proper Bhutanese way:** spoon a generous portion into a wide bowl as the base, then ladle ema datshi (chilli-cheese), shakam paa (dried beef), kewa datshi (potato-cheese) or any other fiery stew over the top so the rice soaks the sauce. Eat with the right hand (Bhutanese tradition) by forming small balls of rice and stew between thumb and fingers.
 
 ## Storage
 - Best eaten warm and fresh.

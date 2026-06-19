@@ -93,8 +93,8 @@ Chè ba màu is Vietnam's three-colour dessert: layers of sweetened azuki red be
 - **With sweet corn (chè bắp):** Stir 2 tablespoons of sweet corn kernels into the coconut cream topping.
 
 ## Serving
-- Serve with: a long iced-tea spoon and an extra jug of coconut cream on the side for those who want more.
-- Garnish with: a fresh pandan leaf curled into the glass, or a sprinkle of toasted coconut.
+- **Serve with:** a long iced-tea spoon and an extra jug of coconut cream on the side for those who want more.
+- **Garnish with:** a fresh pandan leaf curled into the glass, or a sprinkle of toasted coconut.
 
 ## Storage
 - Assembled chè is best eaten within 15 minutes before the ice melts and dilutes everything

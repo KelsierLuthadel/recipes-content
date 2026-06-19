@@ -45,8 +45,8 @@ Tomato coulis is the building block under half the French summer table: a glossy
 - **Make-ahead friendly:** Coulis improves with a day or two in the refrigerator as flavors meld.
 
 ## Serving
-- Serve with: Pasta, risotto, soups, fish, or as a base for other sauces
-- Drizzle on: Grilled vegetables, fresh mozzarella, or cooked meats
+- **Serve with:** Pasta, risotto, soups, fish, or as a base for other sauces
+- **Drizzle on:** Grilled vegetables, fresh mozzarella, or cooked meats
 
 ## Storage
 - Keeps 5-7 days refrigerated in an airtight container

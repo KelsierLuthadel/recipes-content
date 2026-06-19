@@ -127,10 +127,10 @@ Börek are the Turkish pastry parcels that come in dozens of folds and fillings:
 - **With Fresh Herbs:** Mix 2 tablespoons finely chopped fresh mint or parsley into the cooled khandrajo.
 
 ## Serving
-- Perfect with: Yogurt-based sauce, fresh salad, afternoon tea, appetizer platters, light lunch
-- Temperature: Warm (not piping hot)
-- Ratio: 2-3 börek per person
-- Context: Turkish appetizers, casual entertaining, lunch item, pastry platter
+- **Perfect with:** Yogurt-based sauce, fresh salad, afternoon tea, appetizer platters, light lunch
+- **Temperature:** Warm (not piping hot)
+- **Ratio:** 2-3 börek per person
+- **Context:** Turkish appetizers, casual entertaining, lunch item, pastry platter
 
 ## Storage
 - Refrigerate cooked börek in a sealed container for up to 3 days.

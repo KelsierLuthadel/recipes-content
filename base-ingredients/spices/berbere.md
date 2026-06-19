@@ -84,10 +84,10 @@ Berbere is the rich red spice blend at the heart of Ethiopian cooking, the seaso
 - **Earthier Brown:** Add 1 additional teaspoon of cumin seeds and increase cloves to 10-12.
 
 ## Serving
-- Use in: Ethiopian stews (doro wot, misir wot), slow-cooked meat dishes, spicy lentil preparations
-- Typical ratio: 1-3 teaspoons per large pot of stew (extends to 6-8 servings)
-- Application: Add with vegetables and liquid for long slow-cooking; don't use in quick-fry applications
-- Temperature: Requires simmering time; heat needs time to integrate
+- **Use in:** Ethiopian stews (doro wot, misir wot), slow-cooked meat dishes, spicy lentil preparations
+- **Typical ratio:** 1-3 teaspoons per large pot of stew (extends to 6-8 servings)
+- **Application:** Add with vegetables and liquid for long slow-cooking; don't use in quick-fry applications
+- **Temperature:** Requires simmering time; heat needs time to integrate
 
 ## Storage
 - Store in airtight jar in cool, dark place away from light and heat

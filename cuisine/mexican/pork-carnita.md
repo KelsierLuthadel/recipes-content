@@ -78,7 +78,7 @@ The Michoacán-style slow-cooked pork that turns up at every Mexican taquería a
 - **Braised instead of broiled:** Skip broiling and serve the shredded pork in its cooking liquid as a braise-style dish
 
 ## Serving
-- Serve in: Tacos, burritos, quesadillas, or over salads. Garnish with fresh coriander, diced onion, lime wedges, and salsa. Crispy carnitas are also excellent on nachos or in rice bowls.
+- **Serve in:** Tacos, burritos, quesadillas, or over salads. Garnish with fresh coriander, diced onion, lime wedges, and salsa. Crispy carnitas are also excellent on nachos or in rice bowls.
 
 ## Storage
 - Keeps 4 days refrigerated in an airtight container (store pork and liquid separately or together)

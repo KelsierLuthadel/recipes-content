@@ -66,10 +66,10 @@ Roquefort vinaigrette is the building block for bitter winter salads and warm-be
 - **Extra Tangy:** Add 1 additional tablespoon tarragon vinegar for more acidity.
 
 ## Serving
-- Use with: Bitter winter lettuces (radicchio, endive, frisée), warm French beans, watercress, grilled vegetables, roasted beets
-- Dressing ratio: 2-3 tablespoons per serving
-- Temperature: Room temperature
-- Timing: Dress just before serving to prevent lettuces wilting
+- **Use with:** Bitter winter lettuces (radicchio, endive, frisée), warm French beans, watercress, grilled vegetables, roasted beets
+- **Dressing ratio:** 2-3 tablespoons per serving
+- **Temperature:** Room temperature
+- **Timing:** Dress just before serving to prevent lettuces wilting
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 3-4 days

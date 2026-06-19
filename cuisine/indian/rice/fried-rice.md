@@ -61,8 +61,8 @@ The quickest rice dish in the Indian repertoire and a clever use-up-yesterday's-
 - **Turmeric Golden:** Add ¼ teaspoon ground turmeric to the oil for a golden hue and earthy warmth.
 
 ## Serving
-- Serve with: Indian curries, roasted tandoori meats, raita
-- Garnish with: Fresh chives, lemon wedges, fresh coriander leaves
+- **Serve with:** Indian curries, roasted tandoori meats, raita
+- **Garnish with:** Fresh chives, lemon wedges, fresh coriander leaves
 
 ## Storage
 - Best served immediately while warm

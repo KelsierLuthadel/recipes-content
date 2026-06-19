@@ -85,9 +85,9 @@ Aroog are the Iraqi spiced meat-and-bulgur patties, flat discs of mince, bulgur 
 - **Oven-baked:** Place on a lined tray; brush both sides with oil; bake at 220°C for 18 minutes, flipping halfway. Lighter, less crisp.
 
 ## Serving
-- Serve with: lemon wedges, thick yoghurt, pickled turnips, amba, samoon bread.
-- As a meal: folded into samoon with sliced tomato, parsley and tahini-yoghurt sauce.
-- Temperature: hot from the pan.
+- **Serve with:** lemon wedges, thick yoghurt, pickled turnips, amba, samoon bread.
+- **As a meal:** folded into samoon with sliced tomato, parsley and tahini-yoghurt sauce.
+- **Temperature:** hot from the pan.
 
 ## Storage
 - Keeps 2 days refrigerated; reheat at 180°C oven for 6 minutes.

@@ -89,9 +89,9 @@ Burger buns are the home-baker's building block for proper burgers, pulled-pork 
 - **Smaller Dinnerrolls:** Divide dough into 15-16 pieces for smaller rolls; reduce baking time to 8-10 minutes.
 
 ## Serving
-- Serve: Warm from the oven, ideally, or toasted the next day
-- Fill with: Burgers, pulled meats, grilled vegetables, sandwiches
-- Best within: 24 hours of baking; excellent toasted on day 2
+- **Serve:** Warm from the oven, ideally, or toasted the next day
+- **Fill with:** Burgers, pulled meats, grilled vegetables, sandwiches
+- **Best within:** 24 hours of baking; excellent toasted on day 2
 
 ## Storage
 - Best served the day they're baked while soft

@@ -103,9 +103,9 @@ Iraqi falafel is the version with cardamom and dill, distinct from the Levantine
 - **Green falafel:** Double the parsley and add 50 g spinach for a deep-green Iraqi-style.
 
 ## Serving
-- Serve in: warm samoon (Iraqi bread) with tahini-yoghurt, amba, sliced tomato, cucumber, red onion, parsley, sumac.
-- Alternative: as a mezze plate with hummus, baba ganoush, pickles, flatbread.
-- Drink: salted lassi, lemonade with mint, or strong black tea with cardamom.
+- **Serve in:** warm samoon (Iraqi bread) with tahini-yoghurt, amba, sliced tomato, cucumber, red onion, parsley, sumac.
+- **Alternative:** as a mezze plate with hummus, baba ganoush, pickles, flatbread.
+- **Drink:** salted lassi, lemonade with mint, or strong black tea with cardamom.
 
 ## Storage
 - Best within 30 minutes of frying.

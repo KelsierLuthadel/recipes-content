@@ -58,7 +58,7 @@ This is the dish that proves fermented black beans (douchi) are one of the great
 - **Quick stir-fry:** High heat and constant movement prevent pork from toughening.
 
 ## Serving
-- Serve with: Plain rice or stir-fried vegetables
+- **Serve with:** Plain rice or stir-fried vegetables
 
 ## Storage
 - Keeps 2-3 days refrigerated

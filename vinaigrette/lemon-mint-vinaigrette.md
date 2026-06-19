@@ -60,10 +60,10 @@ Lemon and mint vinaigrette is the building block for delicate spring and summer 
 - **With Honey:** Add ¼ teaspoon honey to balance acidity.
 
 ## Serving
-- Use with: Watercress, spring greens, delicate lettuces, baby spinach, tender arugula
-- Dressing ratio: 1-2 tablespoons per serving
-- Temperature: Room temperature
-- Timing: Dress just before serving
+- **Use with:** Watercress, spring greens, delicate lettuces, baby spinach, tender arugula
+- **Dressing ratio:** 1-2 tablespoons per serving
+- **Temperature:** Room temperature
+- **Timing:** Dress just before serving
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 2-3 days

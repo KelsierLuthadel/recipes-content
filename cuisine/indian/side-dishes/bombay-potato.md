@@ -82,9 +82,9 @@ Bombay Potatoes is comfort food at its finest. Small potatoes are partially cook
 - **Tomato Addition:** Add 1 medium tomato (diced) after the onions are golden.
 
 ## Serving
-- Serve with: Rice, breads (roti, naan), dals, curries
-- Garnish: Reserved fried curry leaves and sesame seeds
-- Vessels: Serve at the table in a warm bowl
+- **Serve with:** Rice, breads (roti, naan), dals, curries
+- **Garnish:** Reserved fried curry leaves and sesame seeds
+- **Vessels:** Serve at the table in a warm bowl
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

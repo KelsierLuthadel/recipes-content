@@ -51,7 +51,7 @@ This is the simplest southern Chinese stir-fry there is: four ingredients, four 
 - **Marinade importance:** The 10-15 minute rest lets the cornflour coat the pork, aiding even cooking and tenderizing with soy and sherry.
 
 ## Serving
-- Serve with: Steamed white rice
+- **Serve with:** Steamed white rice
 
 ## Storage
 - Best served immediately

@@ -62,8 +62,8 @@ Káposzta is the Hungarian braised cabbage that goes beside almost every Hungari
 - **With sausage:** Add 200 g sliced smoked Hungarian sausage (kolbász) or Polish kielbasa at the start of the braise; turns it into a one-pan supper.
 
 ## Serving
-- Serve with: Roast pork, pork chops, schnitzel, sausages, stuffed cabbage rolls (töltött káposzta), or piled onto buttered nokedli.
-- Garnish with: A spoonful of sour cream, a dusting of extra paprika, chopped flat-leaf parsley.
+- **Serve with:** Roast pork, pork chops, schnitzel, sausages, stuffed cabbage rolls (töltött káposzta), or piled onto buttered nokedli.
+- **Garnish with:** A spoonful of sour cream, a dusting of extra paprika, chopped flat-leaf parsley.
 
 ## Storage
 - Keeps 4 days refrigerated; flavour deepens overnight.

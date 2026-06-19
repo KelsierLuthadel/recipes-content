@@ -83,9 +83,9 @@ Klicha are the Iraqi date-filled cookies of Eid, buttery cardamom-and-nigella do
 - **Ring shape (klicha aysh):** Form the dough into rings around the filling for a different traditional shape.
 
 ## Serving
-- Serve with: cardamom tea (chai hel), Iraqi coffee, or a glass of cold milk.
-- Occasion: Eid al-Fitr, Eid al-Adha, weddings, family tea-time, Ramadan iftar.
-- Temperature: room temperature, or warmed for 1 minute in the oven.
+- **Serve with:** cardamom tea (chai hel), Iraqi coffee, or a glass of cold milk.
+- **Occasion:** Eid al-Fitr, Eid al-Adha, weddings, family tea-time, Ramadan iftar.
+- **Temperature:** room temperature, or warmed for 1 minute in the oven.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin; the flavour deepens over the first 3 days.

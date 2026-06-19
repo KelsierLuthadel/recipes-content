@@ -76,8 +76,8 @@ Tostones are the twice-fried green plantain discs that anchor every Cuban dinner
 - **With lime alone:** A simpler version: a squeeze of lime and salt, no mojo.
 
 ## Serving
-- Serve with: Roast pork (lechon), ropa vieja, picadillo, fried fish, black beans and rice. Excellent with cold beer.
-- Garnish with: Fresh coriander, lime wedges.
+- **Serve with:** Roast pork (lechon), ropa vieja, picadillo, fried fish, black beans and rice. Excellent with cold beer.
+- **Garnish with:** Fresh coriander, lime wedges.
 
 ## Storage
 - Best eaten within 15 minutes of frying.

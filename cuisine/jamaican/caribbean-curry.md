@@ -70,7 +70,7 @@ A Caribbean chicken stew that leans hard into the burnt-sugar move that defines 
 - **Rum choice:** Dark rum adds warmth and complexity; light rum is less flavourful but still acceptable.
 
 ## Serving
-- Serve with: Rice and peas, roti, or fried dumplings. Garnish with sliced spring onion whites.
+- **Serve with:** Rice and peas, roti, or fried dumplings. Garnish with sliced spring onion whites.
 
 ## Storage
 - Keeps 3 days refrigerated

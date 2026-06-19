@@ -132,10 +132,10 @@ Pilau rice exemplifies spiced Indian cooking at its most refined. Rather than co
 - **With Fried Onions:** Top finished pilau with crispy fried onions (traditional garnish); adds textural contrast.
 
 ## Serving
-- Use with: Mild to medium curries (korma, dopiaza, jalfrezi), grilled meats, tandoori chicken, rice-based Indian meals
-- Temperature: Hot or warm
-- Ratio: 60ml uncooked rice per person (yields approximately 150ml cooked pilau)
-- Context: Indian formal dinners, special occasions, curried dishes where rice partners with sauce
+- **Use with:** Mild to medium curries (korma, dopiaza, jalfrezi), grilled meats, tandoori chicken, rice-based Indian meals
+- **Temperature:** Hot or warm
+- **Ratio:** 60ml uncooked rice per person (yields approximately 150ml cooked pilau)
+- **Context:** Indian formal dinners, special occasions, curried dishes where rice partners with sauce
 
 ## Storage
 - Refrigerate cooked pilau in a sealed container for up to 3-4 days.

@@ -52,9 +52,9 @@ Clarified butter is the building block for hollandaise, béarnaise and any cooki
 - **Herbed Clarified Butter:** Infuse with thyme, rosemary, or bay leaf during the initial melting.
 
 ## Serving
-- Use for: Hollandaise sauce, béarnaise sauce, high-heat sautéing, cooking proteins, dipping sauce for lobster
-- Temperature: Warm or room temperature
-- Amount: As needed per recipe
+- **Use for:** Hollandaise sauce, béarnaise sauce, high-heat sautéing, cooking proteins, dipping sauce for lobster
+- **Temperature:** Warm or room temperature
+- **Amount:** As needed per recipe
 
 ## Storage
 - Refrigerate in a glass jar for up to 4 weeks

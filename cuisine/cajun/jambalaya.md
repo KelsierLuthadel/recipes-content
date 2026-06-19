@@ -84,7 +84,7 @@ A modern pasta-twist on the Cajun one-pot classic, swapping the traditional rice
 - **Vegetarian:** Omit all proteins and replace sausage with smoked paprika-seasoned mushrooms
 
 ## Serving
-- Serve with: Crusty bread, hot sauce (Tabasco or Louisiana), and a green salad
+- **Serve with:** Crusty bread, hot sauce (Tabasco or Louisiana), and a green salad
 
 ## Storage
 - Keeps 2 days refrigerated

@@ -75,8 +75,8 @@ A single calzone large enough to feed two, and an unusual one: béchamel rather 
 - **Truffle finish:** Drizzle a few drops of truffle oil over the cut calzone instead of the Riserva.
 
 ## Serving
-- Serve with: A side of dressed leaves and red pepper tapenade for dipping
-- Garnish with: A scatter of fresh rosemary leaves and a grind of black pepper
+- **Serve with:** A side of dressed leaves and red pepper tapenade for dipping
+- **Garnish with:** A scatter of fresh rosemary leaves and a grind of black pepper
 
 ## Storage
 - Best eaten immediately, while the crust is crisp and the cheese still molten

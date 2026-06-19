@@ -102,10 +102,10 @@ Naan is the building block of north Indian, Kashmiri and Balti restaurant cookin
 - **Peshwari Naan:** Brush with ghee mixed with ground coconut and sultanas before cooking.
 
 ## Serving
-- Serve: Immediately, puffed and hot from the grill
-- With: Any curry, tandoori proteins, chutneys, yoghurt dips
-- Garnish: Fresh coriander, lime wedges
-- Vessel: Serve wrapped in cloth to maintain heat
+- **Serve:** Immediately, puffed and hot from the grill
+- **With:** Any curry, tandoori proteins, chutneys, yoghurt dips
+- **Garnish:** Fresh coriander, lime wedges
+- **Vessel:** Serve wrapped in cloth to maintain heat
 
 ## Storage
 - Best served fresh from the grill

@@ -42,9 +42,9 @@ The raita with a sharper edge than the everyday cucumber version: cool whisked f
 - Chill the raita for at least 30 minutes before serving to allow the flavours to meld together.
 
 ## Serving
-- Serve with: hot curries, biryanis, spiced lamb dishes, or as a dip with poppadums and flatbreads
-- Temperature: chilled
-- Amount: a small bowl or a few spoonfuls per person as a condiment
+- **Serve with:** hot curries, biryanis, spiced lamb dishes, or as a dip with poppadums and flatbreads
+- **Temperature:** chilled
+- **Amount:** a small bowl or a few spoonfuls per person as a condiment
 
 ## Storage
 - Keeps in the fridge for up to 2 days, covered or in an airtight container.

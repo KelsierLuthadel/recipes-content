@@ -75,7 +75,7 @@ Smalec is the Polish lard spread that turns up at every Krakow milk bar and bar 
 - **Vegetarian (not traditional):** Mash white beans with caramelised onion, garlic, marjoram and a little smoked paprika. Different dish, similar role.
 
 ## Serving
-- Serve with: Dark rye, sea salt, pickled cucumbers (ogórki kiszone), pickled mushrooms, sliced raw onion. Cold vodka or rye beer.
+- **Serve with:** Dark rye, sea salt, pickled cucumbers (ogórki kiszone), pickled mushrooms, sliced raw onion. Cold vodka or rye beer.
 
 ## Storage
 - Keeps 3 weeks refrigerated, sealed.

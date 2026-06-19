@@ -119,7 +119,7 @@ Bai sach chrouk is Cambodia's signature breakfast and one of the country's most 
 - **Bai sach chrouk with peanuts:** scatter 2 tablespoons of crushed roasted peanuts over the finished dish; adds crunch and nuttiness. Modern Phnom Penh street variation.
 
 ## Serving
-- On wide plates: a mound of warm rice, 5-6 slices of the caramelised pork laid over, a small pile of pickled cucumber-and-carrot to one side, a small bowl of clear chicken broth alongside, and chilli sauce at hand. Properly eaten for breakfast (before 11am is the Cambodian rule) but works for any meal of the day outside Cambodia. Drink: Cambodian iced coffee (cafe phlee) for breakfast; Angkor beer for dinner.
+- **On wide plates:** a mound of warm rice, 5-6 slices of the caramelised pork laid over, a small pile of pickled cucumber-and-carrot to one side, a small bowl of clear chicken broth alongside, and chilli sauce at hand. Properly eaten for breakfast (before 11am is the Cambodian rule) but works for any meal of the day outside Cambodia. Drink: Cambodian iced coffee (cafe phlee) for breakfast; Angkor beer for dinner.
 
 ## Storage
 - The cooked pork keeps refrigerated 3 days; reheat gently in a covered pan with a splash of water (or under a low grill till just warmed through; don't overcook or the pork goes dry).

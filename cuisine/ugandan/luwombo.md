@@ -81,8 +81,8 @@ Luwombo is Uganda's celebration parcel: chicken (or beef, or smoked fish) wrappe
 - **Smoked fish luwombo:** Use 600 g smoked mackerel or smoked tilapia. Steam for just 45 minutes; the fish is already cooked and only needs to absorb the aromatics.
 
 ## Serving
-- Serve with: Matoke (steamed green plantain) or plain steamed rice, plus a side of sukuma wiki (greens).
-- Garnish with: A wedge of lemon and a few fresh coriander leaves.
+- **Serve with:** Matoke (steamed green plantain) or plain steamed rice, plus a side of sukuma wiki (greens).
+- **Garnish with:** A wedge of lemon and a few fresh coriander leaves.
 
 ## Storage
 - Best eaten the day it is cooked; the leaves continue to release tannins and the dish can turn slightly bitter.

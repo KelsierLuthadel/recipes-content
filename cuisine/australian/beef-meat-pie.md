@@ -92,8 +92,8 @@ Australia's hand-held lunch and the unofficial national snack: hot beef gravy in
 - **Curry beef pie:** Add 1 tablespoon of mild curry powder with the flour. Common in country bakeries through Queensland and New South Wales.
 
 ## Serving
-- Serve with: Tomato sauce on top, hot chips on the side, mushy peas if you want to be fancy.
-- Garnish with: A grind of pepper.
+- **Serve with:** Tomato sauce on top, hot chips on the side, mushy peas if you want to be fancy.
+- **Garnish with:** A grind of pepper.
 
 ## Storage
 - Keeps 3 days refrigerated. Reheat at 180°C for 12 minutes to crisp the pastry back up.

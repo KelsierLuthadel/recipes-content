@@ -77,8 +77,8 @@ A Burmese cold dessert built in a bowl from three components made separately and
 - **Black sticky rice:** Replace the sago with cooked black sticky rice for a richer, nuttier bowl popular in Shan State.
 
 ## Serving
-- Serve with: a glass of strong unsweetened black tea on the side to cut the richness.
-- Garnish with: grated fresh coconut, toasted sesame seeds, or a slice of ripe banana laid across the top.
+- **Serve with:** a glass of strong unsweetened black tea on the side to cut the richness.
+- **Garnish with:** grated fresh coconut, toasted sesame seeds, or a slice of ripe banana laid across the top.
 
 ## Storage
 - Components keep separately in the fridge: sago 2 days (in water, change daily), coconut milk 3 days, palm syrup 2 weeks.

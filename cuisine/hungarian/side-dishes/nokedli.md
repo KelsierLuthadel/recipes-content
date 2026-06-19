@@ -57,8 +57,8 @@ Nokedli are the Hungarian dumplings (the same dish the Germans call Spätzle and
 - **Cheesy (sajtos nokedli):** Stir 80 g grated semi-hard cheese (Trappista, Gruyère or mature cheddar) through the buttered nokedli off the heat.
 
 ## Serving
-- Serve with: Chicken paprikash, pörkölt, beef goulash, mushroom paprikash. Also good with a fried egg and a spoonful of sour cream for a quick supper.
-- Garnish with: Chopped parsley, a dusting of sweet paprika.
+- **Serve with:** Chicken paprikash, pörkölt, beef goulash, mushroom paprikash. Also good with a fried egg and a spoonful of sour cream for a quick supper.
+- **Garnish with:** Chopped parsley, a dusting of sweet paprika.
 
 ## Storage
 - Best fresh.

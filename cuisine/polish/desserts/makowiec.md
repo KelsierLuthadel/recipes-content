@@ -105,7 +105,7 @@ Makowiec is the dark spiral that sits on the Polish Christmas Eve table next to 
 - **With candied citron:** Use candied citron instead of orange; old-fashioned, Krakow style.
 
 ## Serving
-- Serve with: A glass of strong tea or coffee. On the Christmas Eve table, makowiec sits alongside piernik (honey-spice cake) and kompot z suszu (dried-fruit compote).
+- **Serve with:** A glass of strong tea or coffee. On the Christmas Eve table, makowiec sits alongside piernik (honey-spice cake) and kompot z suszu (dried-fruit compote).
 
 ## Storage
 - Keeps 5 days at room temperature, wrapped tightly.

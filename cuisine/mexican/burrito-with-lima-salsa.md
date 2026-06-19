@@ -98,8 +98,8 @@ A burrito built around the contrast between three distinct textures: spice-rubbe
 - **Steak version:** Swap the chicken for 800 g flank or skirt steak, spice-rubbed and seared rare; rest 5 minutes then slice thin across the grain.
 
 ## Serving
-- Serve with: Hot sauce, sour cream, lime wedges, and any leftover salsa on the side.
-- Optional sides: Refried beans, charred corn, a simple green salad.
+- **Serve with:** Hot sauce, sour cream, lime wedges, and any leftover salsa on the side.
+- **Optional sides:** Refried beans, charred corn, a simple green salad.
 
 ## Storage
 - Chicken in glaze keeps 3 days refrigerated; reheat gently with a splash of stock

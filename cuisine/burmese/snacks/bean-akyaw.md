@@ -75,8 +75,8 @@ The Burmese yellow split-pea fritter, sold by street vendors in hot oil-spattere
 - **Spicier version:** Add a teaspoon of chilli powder to the batter and a pinch more to the dipping sauce.
 
 ## Serving
-- Serve with: a pot of strong milk tea (lahpet yay), or alongside Burmese coconut noodle soup (ohn no khao swe) as a crunchy side.
-- Garnish with: extra coriander leaves and a wedge of lime.
+- **Serve with:** a pot of strong milk tea (lahpet yay), or alongside Burmese coconut noodle soup (ohn no khao swe) as a crunchy side.
+- **Garnish with:** extra coriander leaves and a wedge of lime.
 
 ## Storage
 - Best eaten within an hour of frying. The crisp surface softens fast.

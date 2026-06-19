@@ -79,7 +79,7 @@ Ackee and saltfish is Jamaica's national dish: an unlikely-looking combination o
 - **Vegan / vegetarian:** swap the saltfish for 200 g sliced firm tofu marinated in 2 tbsp soy sauce + 1 tbsp white miso + 1 tsp paprika for 30 minutes, then sautéed until golden before joining the sofrito. The "saltfish" replacement is a real island-vegan adaptation.
 
 ## Serving
-- The Sunday breakfast plate: ackee and saltfish, fried plantain, boiled green banana, fried dumplings, a wedge of avocado on the side, a mug of strong coffee or bush tea. As lunch or dinner, the same set with hard dough bread instead of dumplings.
+- **The Sunday breakfast plate:** ackee and saltfish, fried plantain, boiled green banana, fried dumplings, a wedge of avocado on the side, a mug of strong coffee or bush tea. As lunch or dinner, the same set with hard dough bread instead of dumplings.
 
 ## Storage
 - Refrigerates 2 days. Reheat gently; the ackee softens further on reheating.

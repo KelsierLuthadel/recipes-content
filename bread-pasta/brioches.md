@@ -74,10 +74,10 @@ St-Genix brioche is the building block for a French Sunday breakfast or weekend 
 - **Individual Brioches:** Divide the dough into smaller portions and bake 2-3 small brioches instead of one large one; reduce baking time to 20-25 minutes.
 
 ## Serving
-- Serve: Slightly warm or at room temperature, sliced
-- Accompany: With crème fraîche, jam, or honey
-- Timing: Best served within a few hours of baking; excellent for breakfast the next day
-- Pairing: Black coffee or hot chocolate are traditional
+- **Serve:** Slightly warm or at room temperature, sliced
+- **Accompany:** With crème fraîche, jam, or honey
+- **Timing:** Best served within a few hours of baking; excellent for breakfast the next day
+- **Pairing:** Black coffee or hot chocolate are traditional
 
 ## Storage
 - Best served the day it's baked

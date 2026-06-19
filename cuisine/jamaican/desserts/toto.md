@@ -64,7 +64,7 @@ A traditional Jamaican coconut spice cake, the sort of thing wrapped in foil for
 - **Glazed:** Brush the warm cake with a thin glaze of rum and brown sugar (2 tablespoons rum dissolved with 3 tablespoons brown sugar over low heat).
 
 ## Serving
-- Serve with: A cup of hot tea, Jamaican coffee, or a glass of sorrel drink at Christmas. Excellent with a thin slice of mango on the side.
+- **Serve with:** A cup of hot tea, Jamaican coffee, or a glass of sorrel drink at Christmas. Excellent with a thin slice of mango on the side.
 
 ## Storage
 - Keeps 5 days in an airtight tin at room temperature, in fact it improves over the first 2 days.

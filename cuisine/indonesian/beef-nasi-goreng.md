@@ -68,8 +68,8 @@ Nasi goreng is Indonesia's national fried rice, the leftover-rescue dish that be
 - **Top with a fried egg:** Crown each bowl with a sunny-side-up egg; the runny yolk emulsifies into the rice.
 
 ## Serving
-- Serve with: A wedge of lime, prawn crackers, and extra sambal at the table
-- Garnish with: A handful of finely sliced spring onion or a fresh red chilli
+- **Serve with:** A wedge of lime, prawn crackers, and extra sambal at the table
+- **Garnish with:** A handful of finely sliced spring onion or a fresh red chilli
 
 ## Storage
 - Keeps 2 days refrigerated; reheat in a hot wok with a splash of water

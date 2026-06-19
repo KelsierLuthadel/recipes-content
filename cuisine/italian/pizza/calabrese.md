@@ -72,8 +72,8 @@ A pizza from the toe of Italy, where heat is the regional accent and nduja is it
 - **All-meat:** Add 30 grams of pancetta or speck alongside the Calabrese sausage.
 
 ## Serving
-- Serve with: A glass of robust red (Cirò or Aglianico work beautifully) and a few green olives
-- Garnish with: A drizzle of chilli oil for those who want more heat
+- **Serve with:** A glass of robust red (Cirò or Aglianico work beautifully) and a few green olives
+- **Garnish with:** A drizzle of chilli oil for those who want more heat
 
 ## Storage
 - Best eaten straight from the oven

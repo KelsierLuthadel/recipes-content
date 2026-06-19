@@ -78,10 +78,10 @@ Missi rotis are Punjab's mixed-flour flatbread, the building block of a north In
 - **Thicker Rotis:** Roll to 18-20 cm diameter for thicker, chewier bread.
 
 ## Serving
-- Serve with: Dal, curry, soup, chutney, or pickle
-- Temperature: Serve warm, immediately after cooking
-- Amount: 1 roti per person as an accompaniment
-- Accompaniments: Plain yogurt, pickle, or fresh lime wedges
+- **Serve with:** Dal, curry, soup, chutney, or pickle
+- **Temperature:** Serve warm, immediately after cooking
+- **Amount:** 1 roti per person as an accompaniment
+- **Accompaniments:** Plain yogurt, pickle, or fresh lime wedges
 
 ## Storage
 - Best served warm immediately after cooking

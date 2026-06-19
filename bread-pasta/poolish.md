@@ -68,9 +68,9 @@ Poolish is the building block of properly flavoured French bread: a wet pre-ferm
 - **Multiple Poolish:** Some breads use two different Poolish stages made at different times, creating layered complexity.
 
 ## Serving
-- Use in: Baguettes, ciabatta, focaccia, high-hydration artisan breads
-- Percentage: Typically 20-40% of total dough weight
-- Effect: Adds depth, slight tartness, better crust development, improved fermentation
+- **Use in:** Baguettes, ciabatta, focaccia, high-hydration artisan breads
+- **Percentage:** Typically 20-40% of total dough weight
+- **Effect:** Adds depth, slight tartness, better crust development, improved fermentation
 
 ## Storage
 - Poolish should be used immediately after fermentation (when bubbly and active)

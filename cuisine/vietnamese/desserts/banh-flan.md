@@ -81,8 +81,8 @@ Bánh flan is Vietnam's take on French crème caramel: smoother and more egg-ric
 - **Cinnamon flan:** Add a cinnamon stick to the warmed milk in the same way.
 
 ## Serving
-- Serve with: a shot of strong black coffee poured around the base over crushed ice, the standard Saigon café preparation.
-- Garnish with: a drizzle of coconut cream or a few coffee beans on the plate.
+- **Serve with:** a shot of strong black coffee poured around the base over crushed ice, the standard Saigon café preparation.
+- **Garnish with:** a drizzle of coconut cream or a few coffee beans on the plate.
 
 ## Storage
 - Keeps 4 days refrigerated in the ramekins, covered with cling film

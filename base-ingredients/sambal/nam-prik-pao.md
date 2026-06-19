@@ -116,10 +116,10 @@ Nam prik pao is the foundation of Thai table seasoning, a complex umami-heavy ch
 - **More Herbs:** Increase coriander to ¼ cup for herbal emphasis; add mint if desired.
 
 ## Serving
-- Use in: Rice dish condiment, vegetable dip, grilled meat accompaniment, soup flavor agent
-- Typical ratio: 1-2 tablespoons per serving alongside rice or vegetables
-- Temperature: Served at room temperature
-- Application: Spooned onto plates, used as dipping sauce, stirred into soups, added to stir-fried vegetables
+- **Use in:** Rice dish condiment, vegetable dip, grilled meat accompaniment, soup flavor agent
+- **Typical ratio:** 1-2 tablespoons per serving alongside rice or vegetables
+- **Temperature:** Served at room temperature
+- **Application:** Spooned onto plates, used as dipping sauce, stirred into soups, added to stir-fried vegetables
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 7-10 days

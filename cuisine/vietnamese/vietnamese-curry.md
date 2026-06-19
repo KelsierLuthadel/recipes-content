@@ -99,7 +99,7 @@ Cà ri gà is Vietnam's chicken curry, the dish that sits between French colonia
 - **Coconut-forward:** Increase coconut milk to 500ml and reduce chicken stock to 50ml for a richer sauce
 
 ## Serving
-- Serve with: Jasmine rice, rice noodles, or steamed basmati rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side.
+- **Serve with:** Jasmine rice, rice noodles, or steamed basmati rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side.
 
 ## Storage
 - Keeps 3 days refrigerated in an airtight container

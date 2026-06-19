@@ -75,10 +75,10 @@ Cucumber vinaigrette is the building block for summer plates and cold-fish suppe
 - **Extra Shallot:** Increase to 80 grams for more aromatics.
 
 ## Serving
-- Use with: Cold green beans, raw mushrooms, poached fish, delicate lettuces, chilled vegetables
-- Dressing ratio: 2-3 tablespoons per serving
-- Temperature: Cold or room temperature
-- Timing: Use within 2-4 hours
+- **Use with:** Cold green beans, raw mushrooms, poached fish, delicate lettuces, chilled vegetables
+- **Dressing ratio:** 2-3 tablespoons per serving
+- **Temperature:** Cold or room temperature
+- **Timing:** Use within 2-4 hours
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 1-2 days maximum

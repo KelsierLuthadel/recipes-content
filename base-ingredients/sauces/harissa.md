@@ -80,10 +80,10 @@ Harissa is the foundation of North African heat: a smooth red paste of soaked dr
 - **Herb-Infused:** Stir in 1 tablespoon fresh mint or coriander after the final oil incorporation.
 
 ## Serving
-- Use as: Condiment with bread and cheese, dipping sauce, soup enrichment, marinade base, yogurt swirl
-- Temperature: Room temperature or chilled
-- Pairings: Plain yogurt, grilled meats, flatbreads, roasted vegetables, soups
-- Amount: 1-2 teaspoons per serving, adjusted to personal heat tolerance
+- **Use as:** Condiment with bread and cheese, dipping sauce, soup enrichment, marinade base, yogurt swirl
+- **Temperature:** Room temperature or chilled
+- **Pairings:** Plain yogurt, grilled meats, flatbreads, roasted vegetables, soups
+- **Amount:** 1-2 teaspoons per serving, adjusted to personal heat tolerance
 
 ## Storage
 - Refrigerate in a glass jar (olive oil can absorb plastic flavors) for up to 2 weeks

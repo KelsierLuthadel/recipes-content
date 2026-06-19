@@ -41,9 +41,9 @@ Rice cake is the Chinese cook's way of making something out of the crispy golden
 - The loose surface rice removed before oiling can be set aside and used for fried rice, avoiding waste.
 
 ## Serving
-- Serve with: Sizzling Rice Prawns, or dropped into hot chicken stock for a soup; can also be served as a snack with a drizzle of oil and salt
-- Temperature: deep fried immediately before serving so it sizzles on contact with liquid or sauce
-- Amount: one rice cake (from the bottom of the pot) serves 4 as a component in a dish
+- **Serve with:** Sizzling Rice Prawns, or dropped into hot chicken stock for a soup; can also be served as a snack with a drizzle of oil and salt
+- **Temperature:** deep fried immediately before serving so it sizzles on contact with liquid or sauce
+- **Amount:** one rice cake (from the bottom of the pot) serves 4 as a component in a dish
 
 ## Storage
 - Once lifted and dried, the rice cake can be kept uncovered at room temperature for several days.

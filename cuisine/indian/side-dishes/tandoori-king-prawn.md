@@ -90,10 +90,10 @@ Tandoori King Prawns are elegant, restaurant-quality appetizers or mains. The pr
 - **With Vegetables:** Thread roasted peppers, zucchini, or red onion between prawns on the skewer.
 
 ## Serving
-- Serve as: Elegant starter or seafood main course
-- Garnish: Fresh coriander, lemon wedges, thin onion slices
-- Accompany with: Mint raita, lemon chutney, fresh lime juice
-- With: Basmati rice, naan bread, salad
+- **Serve as:** Elegant starter or seafood main course
+- **Garnish:** Fresh coriander, lemon wedges, thin onion slices
+- **Accompany with:** Mint raita, lemon chutney, fresh lime juice
+- **With:** Basmati rice, naan bread, salad
 
 ## Storage
 - Refrigerate marinated raw prawns for no more than 4 hours before cooking (they deteriorate quickly)

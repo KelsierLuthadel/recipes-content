@@ -39,9 +39,9 @@ Old Bay was invented in 1939 by Gustav Brunn, a German Jewish refugee who fled N
 - **Less salty version.** Some home cooks halve the celery salt and add a teaspoon of dried lemon zest for a less aggressive blend.
 
 ## Serving
-- Use in: Maryland crab boils, shrimp boils, deep-fried shrimp, oyster crackers, popcorn, French fries, hard-boiled eggs, Bloody Mary cocktails, crab cake mix
-- Typical ratio: 1 to 2 teaspoons per portion (much more for crab boils, by the tablespoon)
-- Application: scattered straight from the jar, or stirred into melted butter for steaming shellfish
+- **Use in:** Maryland crab boils, shrimp boils, deep-fried shrimp, oyster crackers, popcorn, French fries, hard-boiled eggs, Bloody Mary cocktails, crab cake mix
+- **Typical ratio:** 1 to 2 teaspoons per portion (much more for crab boils, by the tablespoon)
+- **Application:** scattered straight from the jar, or stirred into melted butter for steaming shellfish
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

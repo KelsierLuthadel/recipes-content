@@ -101,7 +101,7 @@ A Louisiana hand pie, the Cajun answer to a Cornish pasty and the snack you'd bu
 - **Shrimp and corn:** Replace half the crawfish with fresh corn kernels for a different angle.
 
 ## Serving
-- Serve with: Remoulade, hot sauce, lemon wedges, or as part of a Cajun snack platter with boudin balls and andouille skewers.
+- **Serve with:** Remoulade, hot sauce, lemon wedges, or as part of a Cajun snack platter with boudin balls and andouille skewers.
 
 ## Storage
 - Best fried fresh; keep 1 day refrigerated and reheat in a 190°C oven 8-10 minutes.

@@ -125,9 +125,9 @@ Jamaican jerk marinade is the building block for the island's slow-grilled chick
 - **Extra Thyme:** Use 3 fresh thyme sprigs for herbal emphasis; it's a signature Jamaican flavor.
 
 ## Serving
-- Use on: Whole chicken, chicken pieces, pork chops, lamb, fish, vegetables
-- Marinating time: Minimum 8 hours, up to 24 hours for deeper flavor
-- Cooking method: Grill over charcoal/smoke for authentic jerk; pan-frying acceptable
+- **Use on:** Whole chicken, chicken pieces, pork chops, lamb, fish, vegetables
+- **Marinating time:** Minimum 8 hours, up to 24 hours for deeper flavor
+- **Cooking method:** Grill over charcoal/smoke for authentic jerk; pan-frying acceptable
 - Internal temperature for doneness: Chicken 74°C (165°F), Pork 71°C (160°F), Lamb 63°C (145°F medium-rare)
 
 ## Storage

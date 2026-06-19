@@ -66,8 +66,8 @@ Fettuccine with chicken and Dolcelatte is the Italian-bistro classic that turns 
 - **Mushroom Version:** Add 150g sliced mushrooms cooked with the chicken.
 
 ## Serving
-- Serve with: A crisp Pinot Grigio or similar white wine
-- Garnish with: Fresh chives, cracked black pepper, and Parmesan shavings if desired
+- **Serve with:** A crisp Pinot Grigio or similar white wine
+- **Garnish with:** Fresh chives, cracked black pepper, and Parmesan shavings if desired
 
 ## Storage
 - Best eaten freshly made

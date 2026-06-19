@@ -73,9 +73,9 @@ Halwa tahini is the Iraqi sesame fudge, a flaky-melting block of crystallised su
 - **Almond halva:** Replace pistachios with toasted blanched almonds; add ½ teaspoon almond extract instead of rose water.
 
 ## Serving
-- Serve with: strong Iraqi cardamom coffee, sweetened black tea, or simply a glass of cold water.
-- As a snack: a small square is plenty; halva is dense and very sweet.
-- Occasion: Eid, Ramadan iftar, after a heavy meal, with afternoon tea.
+- **Serve with:** strong Iraqi cardamom coffee, sweetened black tea, or simply a glass of cold water.
+- **As a snack:** a small square is plenty; halva is dense and very sweet.
+- **Occasion:** Eid, Ramadan iftar, after a heavy meal, with afternoon tea.
 
 ## Storage
 - Keeps 1 month in an airtight tin at cool room temperature; do not refrigerate (the texture goes dry and dense).

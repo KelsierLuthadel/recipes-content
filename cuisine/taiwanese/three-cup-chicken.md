@@ -75,8 +75,8 @@ Three-cup chicken (san bei ji) takes its name from the original three cups of eq
 - **Three-cup squid:** A coastal variation, quick-fry cleaned squid tubes in place of chicken; total cook 6-8 minutes only or the squid turns rubbery.
 
 ## Serving
-- Serve with: steamed jasmine rice, a simple stir-fried green like garlic water spinach, and a cold beer.
-- Garnish with: extra Thai basil leaves scattered on top.
+- **Serve with:** steamed jasmine rice, a simple stir-fried green like garlic water spinach, and a cold beer.
+- **Garnish with:** extra Thai basil leaves scattered on top.
 
 ## Storage
 - Best eaten the day it's made; the basil dulls.

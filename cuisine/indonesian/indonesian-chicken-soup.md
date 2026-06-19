@@ -84,8 +84,8 @@ Soto ayam is the Indonesian chicken soup, a clear golden broth perfumed with tur
 - **Spicier:** Stir 1 to 2 teaspoons of sambal oelek into the broth at the end of Stage 3 instead of serving it at the table.
 
 ## Serving
-- Serve with: Steamed jasmine rice or ketupat on the side for a more substantial meal
-- Garnish with: Crispy fried shallots, a soft-boiled egg, and extra lime wedges
+- **Serve with:** Steamed jasmine rice or ketupat on the side for a more substantial meal
+- **Garnish with:** Crispy fried shallots, a soft-boiled egg, and extra lime wedges
 
 ## Storage
 - Keeps 3 days refrigerated; store the noodles separately so they don't go soft

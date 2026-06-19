@@ -92,8 +92,8 @@ The shaved-ice dessert of Burmese teashops, the cold sweet you order on a hot af
 - **With jackfruit:** Some Yangon vendors add a few slices of fresh ripe jackfruit. The musky perfume marries well with palm sugar.
 
 ## Serving
-- Serve with: a small glass of cold black coffee or strong tea on the side.
-- Garnish with: a pandan leaf knotted on the side of the bowl, or a small wedge of lime.
+- **Serve with:** a small glass of cold black coffee or strong tea on the side.
+- **Garnish with:** a pandan leaf knotted on the side of the bowl, or a small wedge of lime.
 
 ## Storage
 - All components keep separately in the fridge for 2 days. Bread cubes keep in an airtight tin at room temperature 3 days.

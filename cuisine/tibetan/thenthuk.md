@@ -98,7 +98,7 @@ Thenthuk is Tibet's pulled-noodle soup, the warming winter bowl where rough flat
 - **Sour thenthuk:** Add a splash of vinegar and a spoon of chilli oil to each bowl at the table, a popular Lhasa restaurant style.
 
 ## Serving
-- Serve with: sepen (Tibetan chilli sauce) or fresh chilli, lemon wedges, and Tibetan butter tea on the side.
+- **Serve with:** sepen (Tibetan chilli sauce) or fresh chilli, lemon wedges, and Tibetan butter tea on the side.
 
 ## Storage
 - Broth keeps 3 days refrigerated and freezes 2 months without the noodles.

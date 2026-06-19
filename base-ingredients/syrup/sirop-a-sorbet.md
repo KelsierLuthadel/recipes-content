@@ -55,9 +55,9 @@ Sirop à sorbet is the building block for sorbets, granités and fruit coulis: c
 - **For Sponge Soaking:** Use this same syrup to soak Genoise or sponge fingers for dessert assembly.
 
 ## Serving
-- Use for: Sorbets, granite, sponge soaking, Italian meringues that need cooling syrup
-- Temperature: Room temperature to cool
-- Amount: Varies by sorbet recipe (typically 300-400 ml per quart of sorbet base)
+- **Use for:** Sorbets, granite, sponge soaking, Italian meringues that need cooling syrup
+- **Temperature:** Room temperature to cool
+- **Amount:** Varies by sorbet recipe (typically 300-400 ml per quart of sorbet base)
 
 ## Storage
 - Refrigerate in an airtight, glass container for up to 3 months

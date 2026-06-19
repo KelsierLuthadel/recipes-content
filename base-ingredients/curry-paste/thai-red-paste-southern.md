@@ -69,9 +69,9 @@ Southern Thai red curry paste is the building block for the hottest Thai curries
 - **Less hot:** reduce the dried chillies to 15 (still meaningful heat) and omit the bird's eyes.
 
 ## Serving
-- Use in: southern Thai water-based curries (kaeng tai, kaeng som, kaeng pa), bitter-green stir-fries with pork belly, fish stews, and as a rub for grilled mackerel.
+- **Use in:** southern Thai water-based curries (kaeng tai, kaeng som, kaeng pa), bitter-green stir-fries with pork belly, fish stews, and as a rub for grilled mackerel.
 
-- Typical ratio: 2 tbsp paste per 500 ml water or fish stock. Fry the paste briefly in 2 tbsp neutral oil before adding the liquid, to bloom the chillies and toast the spices. Do not finish with coconut milk; the paste is engineered to stand alone in water.
+- **Typical ratio:** 2 tbsp paste per 500 ml water or fish stock. Fry the paste briefly in 2 tbsp neutral oil before adding the liquid, to bloom the chillies and toast the spices. Do not finish with coconut milk; the paste is engineered to stand alone in water.
 
 ## Storage
 - Refrigerate in an airtight glass jar with a thin layer of oil over the surface. Keeps 1 week.

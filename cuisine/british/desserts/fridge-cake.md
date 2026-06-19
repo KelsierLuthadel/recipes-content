@@ -63,8 +63,8 @@ The catch-all British no-bake chocolate slab: a half-and-half blend of milk and 
 - **Salted top:** Sprinkle flaky sea salt across the surface before chilling.
 
 ## Serving
-- Serve with: A cup of strong tea or coffee; a generous wedge after Sunday lunch.
-- Garnish with: A dusting of cocoa powder or icing sugar just before serving.
+- **Serve with:** A cup of strong tea or coffee; a generous wedge after Sunday lunch.
+- **Garnish with:** A dusting of cocoa powder or icing sugar just before serving.
 
 ## Storage
 - Keeps in an airtight tin at cool room temperature for up to 2 weeks.

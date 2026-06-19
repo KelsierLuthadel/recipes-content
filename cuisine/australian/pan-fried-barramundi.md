@@ -76,8 +76,8 @@ Australia's pub-menu fish, the one you order on a hot summer afternoon at a beac
 - **Bush-tucker twist:** Sprinkle a pinch of native lemon myrtle over the brown butter, or finish with a small spoonful of bush-tomato chutney.
 
 ## Serving
-- Serve with: A bowl of buttered new potatoes and a green salad with mustard vinaigrette, or a chunk of crusty bread to mop up the sauce. Steamed greens (broccoli, asparagus) sit well alongside.
-- Garnish with: A wedge of lemon.
+- **Serve with:** A bowl of buttered new potatoes and a green salad with mustard vinaigrette, or a chunk of crusty bread to mop up the sauce. Steamed greens (broccoli, asparagus) sit well alongside.
+- **Garnish with:** A wedge of lemon.
 
 ## Storage
 - Best eaten straight from the pan; skin loses its crispness within minutes of plating.

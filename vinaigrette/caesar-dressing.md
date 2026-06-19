@@ -75,10 +75,10 @@ Caesar dressing is the building block of the Caesar salad and almost everything 
 - **With Mustard Emphasis:** Increase Dijon mustard to ¼ teaspoon.
 
 ## Serving
-- Use with: Cos lettuce (primary), romaine, radicchio, sturdy lettuces, grilled chicken, croutons, Parmesan shavings
-- Dressing ratio: 2-3 tablespoons per serving
-- Temperature: Room temperature
-- Timing: Apply just before eating
+- **Use with:** Cos lettuce (primary), romaine, radicchio, sturdy lettuces, grilled chicken, croutons, Parmesan shavings
+- **Dressing ratio:** 2-3 tablespoons per serving
+- **Temperature:** Room temperature
+- **Timing:** Apply just before eating
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 2-3 days maximum

@@ -70,8 +70,8 @@ Malaysia's tea-time sweet at its most beloved: small green pandan-coloured gluti
 - **Sweet potato onde-onde:** Substitute 80 grams of the glutinous rice flour with 100 grams of cooked mashed orange sweet potato. The dough is softer and slightly sweeter.
 
 ## Serving
-- Serve with: A small cup of strong black coffee or kopi-o, the bitterness balances the palm sugar
-- Garnish with: A few extra strands of grated coconut on top of each ball
+- **Serve with:** A small cup of strong black coffee or kopi-o, the bitterness balances the palm sugar
+- **Garnish with:** A few extra strands of grated coconut on top of each ball
 
 ## Storage
 - Best eaten within 4 hours of cooking, while the centres are still liquid

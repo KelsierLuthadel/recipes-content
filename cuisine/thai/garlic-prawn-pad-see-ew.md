@@ -88,8 +88,8 @@
 - **Vegetarian:** Drop the prawns and double the broccolini, or add tofu puffs and Chinese broccoli (gai lan) in their place.
 
 ## Serving
-- Serve with: A small dish of chilli vinegar and chilli powder for guests to season at the table
-- Garnish with: A wedge of lime and a few coriander leaves
+- **Serve with:** A small dish of chilli vinegar and chilli powder for guests to season at the table
+- **Garnish with:** A wedge of lime and a few coriander leaves
 
 ## Storage
 - Best eaten straight from the wok while the noodles are still glossy

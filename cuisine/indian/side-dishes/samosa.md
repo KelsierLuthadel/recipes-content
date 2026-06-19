@@ -80,9 +80,9 @@ Samosas are the ultimate Indian snack: crispy, angular parcels of golden filo pa
 - **Paneer Version:** Replace chicken with 200g crumbled paneer cheese mixed with the potatoes for a vegetarian alternative.
 
 ## Serving
-- Serve with: Tamarind chutney, mint chutney, raita, yoghurt dips
-- Accompany with: Lemon wedges, fresh coriander, sliced red onion
-- Vessels: Serve warm on a platter lined with fresh coriander
+- **Serve with:** Tamarind chutney, mint chutney, raita, yoghurt dips
+- **Accompany with:** Lemon wedges, fresh coriander, sliced red onion
+- **Vessels:** Serve warm on a platter lined with fresh coriander
 
 ## Storage
 - Store in an airtight container for up to 3 days at room temperature

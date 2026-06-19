@@ -79,8 +79,8 @@ The dark sticky sweet-sour-spicy chutney that anchors Indian street-food cooking
 - **With Pomegranate:** Stir in 2 tablespoons pomegranate seeds for sweetness and texture.
 
 ## Serving
-- Serve with: Pakora, samosas, chaat (Indian street food), rotis, curries
-- Garnish: None needed; this is a condiment
+- **Serve with:** Pakora, samosas, chaat (Indian street food), rotis, curries
+- **Garnish:** None needed; this is a condiment
 
 ## Storage
 - Refrigerate in a covered container for up to 1 week

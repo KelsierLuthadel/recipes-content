@@ -43,9 +43,9 @@ Khmeli suneli is the Georgian for "dried spices", the blend at the heart of Cauc
 - **Wild herb regional variants.** Some Georgian versions add ground nettle, lovage, or hyssop. The exact recipe varies by family.
 
 ## Serving
-- Use in: satsivi (chicken in walnut sauce), chakhokhbili (chicken and tomato stew), kharcho (beef soup with walnuts and rice), pkhali (vegetable-and-walnut pastes), Georgian roasted meat marinades, lamb stews
-- Typical ratio: 1 to 2 teaspoons per portion
-- Application: stirred into stews and sauces near the end of cooking; mixed with walnut paste for satsivi
+- **Use in:** satsivi (chicken in walnut sauce), chakhokhbili (chicken and tomato stew), kharcho (beef soup with walnuts and rice), pkhali (vegetable-and-walnut pastes), Georgian roasted meat marinades, lamb stews
+- **Typical ratio:** 1 to 2 teaspoons per portion
+- **Application:** stirred into stews and sauces near the end of cooking; mixed with walnut paste for satsivi
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

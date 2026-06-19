@@ -74,10 +74,10 @@ Balti masala paste is the building block for British-Indian Balti curries: the w
 - **Cider Vinegar:** Use cider vinegar instead of white wine vinegar for slightly different tang.
 
 ## Serving
-- Use in: Balti curries, British-Indian curries, curry sauces
-- Typical ratio: 3-4 tablespoons paste per 400 ml water or stock (curry liquid is thinner than Indian curries)
-- Cooking: Fry the paste in oil briefly with onions before adding liquid and curry ingredients
-- Temperature: Requires cooking in hot oil before use
+- **Use in:** Balti curries, British-Indian curries, curry sauces
+- **Typical ratio:** 3-4 tablespoons paste per 400 ml water or stock (curry liquid is thinner than Indian curries)
+- **Cooking:** Fry the paste in oil briefly with onions before adding liquid and curry ingredients
+- **Temperature:** Requires cooking in hot oil before use
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 2 months

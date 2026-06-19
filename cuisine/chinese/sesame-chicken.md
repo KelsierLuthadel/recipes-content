@@ -64,7 +64,7 @@ This is the dish Sichuanese cooks call guai wei ji, "strange-flavour chicken", b
 - **Sichuan peppercorn:** Essential for the numbing, complex finish. Roast and grind fresh for maximum impact.
 
 ## Serving
-- Serve with: Steamed rice if serving hot; or as a standalone dish at room temperature with crusty bread
+- **Serve with:** Steamed rice if serving hot; or as a standalone dish at room temperature with crusty bread
 
 ## Storage
 - Best served immediately or at room temperature within a few hours

@@ -65,7 +65,7 @@ Jamaica's pillowy folded coconut-milk roll: soft, faintly sweet, the bread that 
 - **Garlic-thyme:** Brush the fold with garlic-thyme butter instead of plain butter for a savoury version with jerk.
 
 ## Serving
-- Serve with: Beef patties (the classic patty-in-coco-bread), jerk pork, butter and jam, or fried egg and avocado for breakfast.
+- **Serve with:** Beef patties (the classic patty-in-coco-bread), jerk pork, butter and jam, or fried egg and avocado for breakfast.
 
 ## Storage
 - Keeps 2 days at room temperature in a paper bag or wrapped in a tea towel.

@@ -106,10 +106,10 @@ Peri-peri marinade is the building block for the grilled chicken, prawns and fis
 - **With Herbs:** Add 1 teaspoon fresh thyme or oregano for herbal notes (non-traditional but complementary).
 
 ## Serving
-- Use on: Prawns/shrimp, fish fillets, whole fish, chicken thighs, chicken breasts, scallops
-- Marinating time: Shellfish 20-30 minutes; Fish 30-45 minutes; Chicken 1-2 hours (can go up to 4 hours)
-- Cooking method: Grill, grill pan, or skillet over medium-high heat
-- Basting: Periodically baste with remaining marinade during cooking for caramelized crust
+- **Use on:** Prawns/shrimp, fish fillets, whole fish, chicken thighs, chicken breasts, scallops
+- **Marinating time:** Shellfish 20-30 minutes; Fish 30-45 minutes; Chicken 1-2 hours (can go up to 4 hours)
+- **Cooking method:** Grill, grill pan, or skillet over medium-high heat
+- **Basting:** Periodically baste with remaining marinade during cooking for caramelized crust
 
 ## Storage
 - Store unabsorbed marinade in sealed glass jar for up to 3-4 days in refrigerator

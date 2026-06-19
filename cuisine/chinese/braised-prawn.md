@@ -44,8 +44,8 @@ This is what street vendors across southern China make in big shallow woks at th
 - **Aromatics:** Fresh ginger and spring onions are essential, don't skip these for the fragrant, authentic flavour.
 
 ## Serving
-- Serve hot with: Steamed rice
-- Serve cold as: A starter or light picnic dish
+- **Serve hot with:** Steamed rice
+- **Serve cold as:** A starter or light picnic dish
 
 ## Storage
 - Keep 1-2 days refrigerated

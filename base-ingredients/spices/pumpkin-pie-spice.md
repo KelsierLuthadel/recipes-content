@@ -32,9 +32,9 @@ Pumpkin pie spice contains no pumpkin. It's the warm-spice combination that's be
 - **Freshly grated nutmeg.** Grating fresh whole nutmeg into the blend produces a noticeably more aromatic result than pre-ground.
 
 ## Serving
-- Use in: pumpkin pie filling, pumpkin spice latte, pumpkin bread, pumpkin muffins, butternut squash soup, sweet potato casserole, apple pie variant, oatmeal cookies, French toast batter, banana bread
-- Typical ratio: 1 to 2 teaspoons per portion
-- Application: stirred into the filling, batter or drink at the start
+- **Use in:** pumpkin pie filling, pumpkin spice latte, pumpkin bread, pumpkin muffins, butternut squash soup, sweet potato casserole, apple pie variant, oatmeal cookies, French toast batter, banana bread
+- **Typical ratio:** 1 to 2 teaspoons per portion
+- **Application:** stirred into the filling, batter or drink at the start
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

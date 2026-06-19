@@ -90,8 +90,8 @@ A make-ahead calzone designed for the freezer drawer: build a batch on Sunday an
 - **With ricotta:** Stir 100 grams of ricotta into the cooled sauce for a creamier interior.
 
 ## Serving
-- Serve with: A green salad and a small dish of chilli oil for dipping
-- Garnish with: Extra fresh basil and a sprinkle of grated parmesan after baking
+- **Serve with:** A green salad and a small dish of chilli oil for dipping
+- **Garnish with:** Extra fresh basil and a sprinkle of grated parmesan after baking
 
 ## Storage
 - Raw, frozen calzones keep up to 2 months in the freezer

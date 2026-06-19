@@ -79,7 +79,7 @@ Griot is the Haitian Sunday-table pork dish, cubes of pork shoulder marinated ov
 - **Tasso pork:** for true street vendors, the pork is sliced thinner and dried slightly before frying, giving a more jerky-like texture; the dish is then often called tasso kabrit when made with goat.
 
 ## Serving
-- Serve with: pikliz (mandatory), diri ak pwa (rice and red beans), diri ak djon-djon (black mushroom rice for special occasions), fried sweet plantains (banann peze), avocado slices and lime wedges. A glass of Barbancourt rum on the side if you are properly Haitian about it.
+- **Serve with:** pikliz (mandatory), diri ak pwa (rice and red beans), diri ak djon-djon (black mushroom rice for special occasions), fried sweet plantains (banann peze), avocado slices and lime wedges. A glass of Barbancourt rum on the side if you are properly Haitian about it.
 
 ## Storage
 - Keeps 3 days refrigerated. The fry crust softens overnight; reheat in a hot oven (200°C) on a wire rack for 10 minutes to re-crisp.

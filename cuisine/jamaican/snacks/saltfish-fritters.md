@@ -76,7 +76,7 @@ The Jamaican street snack known as "stamp and go", the name the dockworkers gave
 - **With pumpkin:** Fold in 100 g grated pumpkin for sweetness and colour.
 
 ## Serving
-- Serve with: Lime wedges, hot pepper sauce, or as part of a Jamaican breakfast spread alongside ackee, fried plantain and fried dumplings.
+- **Serve with:** Lime wedges, hot pepper sauce, or as part of a Jamaican breakfast spread alongside ackee, fried plantain and fried dumplings.
 
 ## Storage
 - Best eaten hot from the oil.

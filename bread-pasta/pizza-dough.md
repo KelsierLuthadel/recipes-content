@@ -89,9 +89,9 @@ Classic pizza dough is the building block for everyday home pizza: a forgiving s
 
 ## Serving
 - Serve immediately after baking while cheese is melted and crust is warm.
-- Toppings: Any combination of tomato sauce, cheese, vegetables, cured meats, or fresh herbs
-- Temperature: Serve hot; pizza is best eaten within 5 minutes of coming from oven
-- Accompaniments: Olive oil for dipping, fresh basil, oregano
+- **Toppings:** Any combination of tomato sauce, cheese, vegetables, cured meats, or fresh herbs
+- **Temperature:** Serve hot; pizza is best eaten within 5 minutes of coming from oven
+- **Accompaniments:** Olive oil for dipping, fresh basil, oregano
 
 ## Storage
 - Uncooked dough: Refrigerate in oiled bowl covered for up to 2 days; allow to come to room temperature (1 hour) before stretching

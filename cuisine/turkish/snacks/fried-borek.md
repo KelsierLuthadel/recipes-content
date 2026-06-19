@@ -138,10 +138,10 @@ Fried börek are the half-moon meat pastries of Turkish tea houses: thin oil-and
 - **Spice-Forward:** Add ¼ teaspoon ground cinnamon for deeper, more complex warmth (traditional variation).
 
 ## Serving
-- Perfect with: Yogurt sauce, fresh salad, afternoon appetizer, light meal, mezze spread
-- Temperature: Piping hot (within 15 minutes of frying)
-- Ratio: 3-4 börek per person as appetizer; 6-8 as light meal
-- Context: Turkish appetizers, fried pastry platter, casual entertaining, light lunch
+- **Perfect with:** Yogurt sauce, fresh salad, afternoon appetizer, light meal, mezze spread
+- **Temperature:** Piping hot (within 15 minutes of frying)
+- **Ratio:** 3-4 börek per person as appetizer; 6-8 as light meal
+- **Context:** Turkish appetizers, fried pastry platter, casual entertaining, light lunch
 
 ## Storage
 - Best consumed fresh and warm (within 30 minutes of frying).

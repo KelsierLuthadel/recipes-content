@@ -62,8 +62,8 @@ The pizza you make when there's bolognese left in the fridge and someone needs f
 - **Burrata finish:** Drop a torn burrata over the hot pizza after baking for a creamy contrast.
 
 ## Serving
-- Serve with: A green salad with red wine vinegar and a glass of chianti
-- Garnish with: Grated parmesan and extra basil
+- **Serve with:** A green salad with red wine vinegar and a glass of chianti
+- **Garnish with:** Grated parmesan and extra basil
 
 ## Storage
 - Best eaten fresh while the cheese is still molten

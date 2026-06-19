@@ -75,8 +75,8 @@ Penne with chicory and sausage is the rustic Italian pasta of the Veneto, crumbl
 - **With Roasted Vegetables:** Substitute some chicory with roasted red peppers for sweetness.
 
 ## Serving
-- Serve with: Crusty bread, green salad, red wine (Chianti or Barbera)
-- Garnish with: Fresh parsley, cracked black pepper, extra grated Parmesan
+- **Serve with:** Crusty bread, green salad, red wine (Chianti or Barbera)
+- **Garnish with:** Fresh parsley, cracked black pepper, extra grated Parmesan
 
 ## Storage
 - Refrigerate leftovers in an airtight container for up to 2 days

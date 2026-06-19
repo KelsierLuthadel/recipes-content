@@ -98,8 +98,8 @@ Lasagne is the great Italian baked layered pasta, fresh pasta sheets stacked wit
 - **Seafood:** Layer with crab and shrimp instead of beef for a lighter, luxurious variation.
 
 ## Serving
-- Serve with: A simple green salad with vinaigrette dressing
-- Garnish with: Extra Parmesan shavings and fresh basil
+- **Serve with:** A simple green salad with vinaigrette dressing
+- **Garnish with:** Extra Parmesan shavings and fresh basil
 
 ## Storage
 - Keeps 4-5 days refrigerated

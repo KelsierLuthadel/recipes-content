@@ -84,8 +84,8 @@ Pad thai began as a 1930s government-promoted national dish during a campaign to
 - **Spicier:** Add 1 to 2 sliced bird's eye chillies to the wok with the chicken, or stir a teaspoon of chilli powder into the sauce.
 
 ## Serving
-- Serve with: A wedge of lime, chilli powder, extra peanuts and a small bowl of pickled chillies in vinegar
-- Garnish with: A handful of fresh coriander leaves and a few extra bean sprouts piled on top
+- **Serve with:** A wedge of lime, chilli powder, extra peanuts and a small bowl of pickled chillies in vinegar
+- **Garnish with:** A handful of fresh coriander leaves and a few extra bean sprouts piled on top
 
 ## Storage
 - Best eaten immediately while the noodles are still glossy

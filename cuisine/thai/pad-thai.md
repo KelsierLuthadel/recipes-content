@@ -97,7 +97,7 @@ This is the mixed prawn-and-pork pad thai, a more abundant take on the Bangkok s
 - **Milder version:** Reduce chilli sauce and curry paste by half, or omit fresh chillies
 
 ## Serving
-- Serve immediately in bowls with: Extra crushed peanuts, fresh lime wedges, Thai basil leaves, and chilli flakes on the side. Pair with jasmine rice or a fresh Thai salad.
+- **Serve immediately in bowls with:** Extra crushed peanuts, fresh lime wedges, Thai basil leaves, and chilli flakes on the side. Pair with jasmine rice or a fresh Thai salad.
 
 ## Storage
 - Best eaten immediately while hot and aromatic

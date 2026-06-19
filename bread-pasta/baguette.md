@@ -114,10 +114,10 @@ The baguette is the everyday French loaf and the test most bakers fail before th
 - **Tartines-Ready:** Shape slightly shorter and wider loaves designed to be sliced and topped rather than torn.
 
 ## Serving
-- Serve with: Cheese, charcuterie, soup, butter, jam
-- Temperature: Serve warm or at room temperature (never cold)
-- Slicing: Slice warm using a serrated knife with a gentle sawing motion
-- Accompaniments: Salted butter, good cheese, or simple tomatoes and olive oil
+- **Serve with:** Cheese, charcuterie, soup, butter, jam
+- **Temperature:** Serve warm or at room temperature (never cold)
+- **Slicing:** Slice warm using a serrated knife with a gentle sawing motion
+- **Accompaniments:** Salted butter, good cheese, or simple tomatoes and olive oil
 
 ## Storage
 - Best consumed within 4-6 hours of baking while the crust is still crispy

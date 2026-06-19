@@ -85,7 +85,7 @@ The Mexican-style spiced rice that fills the burrito and lands beside the enchil
 - **Seafood-friendly:** Add 1 teaspoon saffron threads steeped in the warm stock for a delicate, aromatic version
 
 ## Serving
-- Serve alongside: Enchiladas, burritos, carnitas, tacos, or any Mexican main dish. Pairs well with black beans, avocado, and fresh lime wedges.
+- **Serve alongside:** Enchiladas, burritos, carnitas, tacos, or any Mexican main dish. Pairs well with black beans, avocado, and fresh lime wedges.
 
 ## Storage
 - Chill any leftover rice as quickly as possible

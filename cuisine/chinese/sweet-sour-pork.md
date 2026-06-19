@@ -76,7 +76,7 @@ Properly done sweet and sour pork is one of the more misunderstood Chinese dishe
 - **Lychees:** Essential to authentic flavour and texture, do not substitute with pineapple or other fruits.
 
 ## Serving
-- Serve with: Plain steamed rice and a simple blanched vegetable such as Bok Choi in soy sauce
+- **Serve with:** Plain steamed rice and a simple blanched vegetable such as Bok Choi in soy sauce
 
 ## Storage
 - Best served immediately for optimal crispness

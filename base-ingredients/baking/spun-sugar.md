@@ -87,10 +87,10 @@ Spun sugar is the building block for theatrical dessert garnishes: caramelised s
 - **Spun Nets:** Spin in a circular pattern to create lacy nets instead of nests.
 
 ## Serving
-- Use for: Dessert plating garnish, wedding cakes, special occasion presentations
-- Temperature: Room temperature
-- Plating: Add just before serving to avoid humidity wilting the sugar
-- Presentation: Balance on top of a mousse or plated component for maximum visual impact
+- **Use for:** Dessert plating garnish, wedding cakes, special occasion presentations
+- **Temperature:** Room temperature
+- **Plating:** Add just before serving to avoid humidity wilting the sugar
+- **Presentation:** Balance on top of a mousse or plated component for maximum visual impact
 
 ## Storage
 - Use immediately after spinning for best texture and appearance

@@ -89,8 +89,8 @@ This is the elegant version of slow-cooked lamb breast, a French restaurant dish
 - **Gratin Topping:** Replace breadcrumb crust with Emmental cheese mixed with thyme for a richer variation.
 
 ## Serving
-- Serve with: Root vegetable purées, sautéed spinach, or creamed potatoes
-- Garnish with: Fresh sage leaves, tarragon sprigs, and whole grain mustard on the side
+- **Serve with:** Root vegetable purées, sautéed spinach, or creamed potatoes
+- **Garnish with:** Fresh sage leaves, tarragon sprigs, and whole grain mustard on the side
 
 ## Storage
 - Best eaten immediately after assembly, though the uncrusted lamb keeps 3-4 days refrigerated

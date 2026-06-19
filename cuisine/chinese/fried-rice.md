@@ -114,10 +114,10 @@ Fried rice is the test of a wok cook: simple to list, hard to do well, and almos
 - **White Pepper Emphasis:** Increase white pepper to ¼ teaspoon for more pronounced subtle heat.
 
 ## Serving
-- Use with: Dim sum courses, as a dessert-like final dish after savory stir-fries and curries, standalone lunch, Chinese formal dinners
-- Temperature: Hot (serve within 2 minutes of finishing)
-- Ratio: 150ml per serving
-- Context: Finale course at Chinese dinners, light lunch, "filler" course to complete a meal
+- **Use with:** Dim sum courses, as a dessert-like final dish after savory stir-fries and curries, standalone lunch, Chinese formal dinners
+- **Temperature:** Hot (serve within 2 minutes of finishing)
+- **Ratio:** 150ml per serving
+- **Context:** Finale course at Chinese dinners, light lunch, "filler" course to complete a meal
 
 ## Storage
 - Refrigerate leftovers in a sealed container for up to 3 days (quality degrades significantly after 1-2 days).

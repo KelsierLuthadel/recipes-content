@@ -47,9 +47,9 @@ Spicy peanut balls are the kind of snack the kitchens of southern Chinese street
 - Test the oil temperature with a cube of day-old bread (it should brown in about 45 seconds) before frying to ensure even, crisp results.
 
 ## Serving
-- Serve with: chilli dipping sauce or sweet chilli sauce on the side
-- Temperature: hot, straight from the fryer
-- Amount: 3-4 balls per person as a snack or starter
+- **Serve with:** chilli dipping sauce or sweet chilli sauce on the side
+- **Temperature:** hot, straight from the fryer
+- **Amount:** 3-4 balls per person as a snack or starter
 
 ## Storage
 - Store unfried, chilled balls in the fridge for up to 24 hours before frying.

@@ -102,10 +102,10 @@ The simplest sesame dip on every Middle Eastern table: tahina paste loosened wit
 - **Paprika Finish:** Dust the top with a light sprinkle of paprika (sweet or smoked) for color and subtle spice.
 
 ## Serving
-- Serve with: Warm pita bread, fresh vegetable crudités (carrots, celery, bell peppers, cucumbers), olives, grilled meats, as part of mezze spread, with falafel
-- Temperature: Room temperature
-- Ratio: 30-40ml per person as appetizer dip
-- Context: Middle Eastern meals, vegetarian appetizer, mezze spread, dipping accompaniment, light lunch
+- **Serve with:** Warm pita bread, fresh vegetable crudités (carrots, celery, bell peppers, cucumbers), olives, grilled meats, as part of mezze spread, with falafel
+- **Temperature:** Room temperature
+- **Ratio:** 30-40ml per person as appetizer dip
+- **Context:** Middle Eastern meals, vegetarian appetizer, mezze spread, dipping accompaniment, light lunch
 
 ## Storage
 - Refrigerate in a sealed glass container for up to 5-7 days.
