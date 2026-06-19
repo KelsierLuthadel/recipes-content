@@ -66,7 +66,7 @@ Groundnut soup (nkatenkwan in Twi) is the rich nutty Akan stew that lines every 
 - **Spicier:** Pierce the scotch bonnet before adding.
 
 ## Serving
-Eat hot with omotuo (rice balls) or fufu · ladle the soup over · a piece of meat on top · a glass of cold water alongside.
+- Eat hot with omotuo (rice balls) or fufu · ladle the soup over · a piece of meat on top · a glass of cold water alongside.
 
 ## Storage
 - Keeps 4 days refrigerated and freezes 2 months

@@ -108,14 +108,14 @@ Bragawd (anglicised as "bragget") is the original Welsh celebratory drink, preda
 - **Watch the bottle pressure:** if a bottle feels rock-hard or starts venting on the cap, chill the entire batch immediately (over-carbonation is a real risk).
 
 ## Variations
-**Mulled bragawd:** warm 200 ml in a saucepan with an extra clove and orange slice; the Welsh winter version.
-**Dry bragawd:** ferment longer (8 weeks) to drive the residual sugar lower; serve as an ale.
-**Sweet bragawd:** back-sweeten with 50 g extra honey after fermentation; add potassium sorbate to prevent re-fermentation.
-**Bragawd with bog myrtle:** add 5 g dried bog myrtle (Welsh "myrtle ale" tradition) instead of hops.
-**Spiced wedding bragawd:** add 1 teaspoon rose-water and 1 teaspoon orange-flower water to the secondary fermenter.
+- **Mulled bragawd:** warm 200 ml in a saucepan with an extra clove and orange slice; the Welsh winter version.
+- **Dry bragawd:** ferment longer (8 weeks) to drive the residual sugar lower; serve as an ale.
+- **Sweet bragawd:** back-sweeten with 50 g extra honey after fermentation; add potassium sorbate to prevent re-fermentation.
+- **Bragawd with bog myrtle:** add 5 g dried bog myrtle (Welsh "myrtle ale" tradition) instead of hops.
+- **Spiced wedding bragawd:** add 1 teaspoon rose-water and 1 teaspoon orange-flower water to the secondary fermenter.
 
 ## Serving
-At a Welsh wedding (the traditional honeymoon drink) · at Christmas dinner with the goose · at a Welsh bardic supper · alongside a slice of bara brith with butter · with cawl on a winter night · at a Welsh Eisteddfod after the prize-giving.
+- At a Welsh wedding (the traditional honeymoon drink) · at Christmas dinner with the goose · at a Welsh bardic supper · alongside a slice of bara brith with butter · with cawl on a winter night · at a Welsh Eisteddfod after the prize-giving.
 
 ## Storage
 - Bottled bragawd keeps 3 years in a cool dark cellar.

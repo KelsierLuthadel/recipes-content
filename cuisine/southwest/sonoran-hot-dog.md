@@ -72,13 +72,13 @@ The Sonoran hot dog is Arizona's most beloved street food and a Tucson-Phoenix s
 - **Whole chile on top:** the Sonoran signature.
 
 ## Variations
-**Spicier:** add chopped habanero salsa; double the jalapeños.
-**With Fritos:** sprinkle crushed Fritos over for crunch.
-**Vegetarian:** swap hot dog for grilled vegetable sausage; bacon for crispy fried tofu strips.
-**Mini Sonoran dogs:** smaller hot dogs and buns; party canapé size.
+- **Spicier:** add chopped habanero salsa; double the jalapeños.
+- **With Fritos:** sprinkle crushed Fritos over for crunch.
+- **Vegetarian:** swap hot dog for grilled vegetable sausage; bacon for crispy fried tofu strips.
+- **Mini Sonoran dogs:** smaller hot dogs and buns; party canapé size.
 
 ## Serving
-At the centre of a Tucson street-cart or as a Sunday weekend dinner. Cold Mexican beer (Pacifico, Modelo, Tecate), Mexican coke, or fresh limeade.
+- At the centre of a Tucson street-cart or as a Sunday weekend dinner. Cold Mexican beer (Pacifico, Modelo, Tecate), Mexican coke, or fresh limeade.
 
 ## Storage
 - Best eaten fresh.

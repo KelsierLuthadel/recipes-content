@@ -77,7 +77,7 @@ Eaten with the right accompaniments, fried catfish is one of the best Southern d
 - **Whole fish:** if you can source small whole catfish, score them across the side, soak and dredge whole, and fry for 5-6 minutes per side. The bones add flavour but require more care to eat.
 
 ## Serving
-A classic Mississippi catfish plate: two fried fillets, three hush puppies, a heap of coleslaw, a wedge of lemon and a small ramekin of tartare sauce. Sweet iced tea on the side; cornbread is optional.
+- A classic Mississippi catfish plate: two fried fillets, three hush puppies, a heap of coleslaw, a wedge of lemon and a small ramekin of tartare sauce. Sweet iced tea on the side; cornbread is optional.
 
 ## Storage
 - Fried catfish softens within an hour. Eat fresh.

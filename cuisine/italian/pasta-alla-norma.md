@@ -86,13 +86,13 @@ Pasta alla Norma is the iconic pasta of Catania, Sicily, and one of Italy's most
 - **Don't overcook the pasta:** al dente.
 
 ## Variations
-**Baked version (pasta al forno):** assemble and bake at 200°C with extra cheese on top for 15 minutes; gives a baked-pasta version.
-**With mozzarella:** add 200 g of cubed mozzarella in the last minute; gives a stringier richer version.
-**With anchovy:** add 4 anchovy fillets to the tomato sauce; gives umami (less traditional but valid).
-**Spicy version (arrabbiata-style):** double the red pepper flakes; gives a fiery Sicilian version.
+- **Baked version (pasta al forno):** assemble and bake at 200°C with extra cheese on top for 15 minutes; gives a baked-pasta version.
+- **With mozzarella:** add 200 g of cubed mozzarella in the last minute; gives a stringier richer version.
+- **With anchovy:** add 4 anchovy fillets to the tomato sauce; gives umami (less traditional but valid).
+- **Spicy version (arrabbiata-style):** double the red pepper flakes; gives a fiery Sicilian version.
 
 ## Serving
-In warm pasta bowls with the ricotta salata grated generously over. Italian red wine (Sicilian Nero d'Avola, or Chianti). Crusty bread, simple salad.
+- In warm pasta bowls with the ricotta salata grated generously over. Italian red wine (Sicilian Nero d'Avola, or Chianti). Crusty bread, simple salad.
 
 ## Storage
 - Best eaten fresh; pasta texture suffers on reheating.

@@ -78,13 +78,13 @@ Carciofi alla Romana is the iconic spring artichoke dish of Rome and one of the 
 - **Eat the heart and the soft tender leaves:** scoop and bite.
 
 ## Variations
-**Carciofi alla Giudia (Jewish-Roman style):** twice-fried whole artichokes till crispy; the related but distinct Jewish-Roman classic.
-**With anchovy:** add 4 anchovy fillets to the herb stuffing; gives umami.
-**With pecorino:** add grated Pecorino Romano to the stuffing; less traditional but works.
-**Smaller artichokes:** use baby artichokes; cook 25 minutes; eat whole.
+- **Carciofi alla Giudia (Jewish-Roman style):** twice-fried whole artichokes till crispy; the related but distinct Jewish-Roman classic.
+- **With anchovy:** add 4 anchovy fillets to the herb stuffing; gives umami.
+- **With pecorino:** add grated Pecorino Romano to the stuffing; less traditional but works.
+- **Smaller artichokes:** use baby artichokes; cook 25 minutes; eat whole.
 
 ## Serving
-As antipasto with bread for dipping the oil. Italian white wine (Frascati). Simple salad.
+- As antipasto with bread for dipping the oil. Italian white wine (Frascati). Simple salad.
 
 ## Storage
 - Keeps refrigerated 3 days in their braising liquid.

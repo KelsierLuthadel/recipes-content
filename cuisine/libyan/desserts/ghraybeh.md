@@ -50,7 +50,7 @@ Ghraybeh exists in every Levantine and Maghrebi tradition; the Libyan version us
 - **Room-temperature butter:** Soft enough that it creams; not so soft that it's oily. Press a finger in - it should leave a mark but not melt away.
 
 ## Serving
-Serve at room temperature with mint tea, Libyan coffee, or alongside fresh dates and walnuts. They keep their texture for several days.
+- Serve at room temperature with mint tea, Libyan coffee, or alongside fresh dates and walnuts. They keep their texture for several days.
 
 ## Storage
 - In an airtight tin at room temperature: 1-2 weeks.

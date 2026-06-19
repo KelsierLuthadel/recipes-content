@@ -90,15 +90,15 @@ Use the same cure but with extra herbs (rosemary, fennel seed, bay, more juniper
 
 ## Variations
 
-**Maple bacon:** Replace sugar with maple syrup (same percentage, but stir into the cure as a paste; the wetness affects the cure slightly but not enough to matter). The maple flavour comes through clearly.
+- **Maple bacon:** Replace sugar with maple syrup (same percentage, but stir into the cure as a paste; the wetness affects the cure slightly but not enough to matter). The maple flavour comes through clearly.
 
-**Black pepper bacon:** Double the pepper. Crack coarsely and roll the whole belly in extra pepper before bagging.
+- **Black pepper bacon:** Double the pepper. Crack coarsely and roll the whole belly in extra pepper before bagging.
 
-**Garlic bacon:** Add 8-10 cloves crushed garlic to the cure, plus a tablespoon of garlic powder. Reads strongly garlic against the bacon backbone.
+- **Garlic bacon:** Add 8-10 cloves crushed garlic to the cure, plus a tablespoon of garlic powder. Reads strongly garlic against the bacon backbone.
 
-**Coffee bacon:** Add 30 g coarse ground coffee to the cure. Strange-sounding; surprisingly good.
+- **Coffee bacon:** Add 30 g coarse ground coffee to the cure. Strange-sounding; surprisingly good.
 
-**British-style streaky:** Lower the sugar to 1%, add a tablespoon of crushed juniper and a few sprigs of thyme. No smoke or a very light beech smoke. Slices thin, fries quickly.
+- **British-style streaky:** Lower the sugar to 1%, add a tablespoon of crushed juniper and a few sprigs of thyme. No smoke or a very light beech smoke. Slices thin, fries quickly.
 
 ## The Time-vs-Salt Tradeoff
 

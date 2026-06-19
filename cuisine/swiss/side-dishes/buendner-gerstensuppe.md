@@ -75,7 +75,7 @@ Bündner Gerstensuppe is the signature dish of Graubünden (the Grisons), the ea
 - **Bündnerfleisch:** The Grisons air-dried beef is what makes this Bündner Gerstensuppe (rather than generic barley soup). Substitute with bresaola or prosciutto if you can't find it - lean cured meat, sliced thin.
 
 ## Serving
-Serve as a starter or a light main with crusty bread and butter. A glass of dry Swiss white (Müller-Thurgau, Chasselas) or a light Pinot Noir from the Grisons.
+- Serve as a starter or a light main with crusty bread and butter. A glass of dry Swiss white (Müller-Thurgau, Chasselas) or a light Pinot Noir from the Grisons.
 
 ## Storage
 - Refrigerates 4 days; the flavour deepens overnight.

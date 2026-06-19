@@ -77,13 +77,13 @@ Southern deviled eggs are one of the South's most beloved appetisers and a fixtu
 - **Dust with paprika:** Southern touch.
 
 ## Variations
-**With bacon:** crumbled bacon on top.
-**Spicy:** double hot sauce; add chopped jalapeños.
-**Avocado deviled:** swap half the mayo for mashed avocado.
-**With smoked salmon:** top each with a small slice of smoked salmon.
+- **With bacon:** crumbled bacon on top.
+- **Spicy:** double hot sauce; add chopped jalapeños.
+- **Avocado deviled:** swap half the mayo for mashed avocado.
+- **With smoked salmon:** top each with a small slice of smoked salmon.
 
 ## Serving
-At Southern church potlucks, family reunions, picnics. With sweet tea or cocktails.
+- At Southern church potlucks, family reunions, picnics. With sweet tea or cocktails.
 
 ## Storage
 - Keeps refrigerated 2 days.

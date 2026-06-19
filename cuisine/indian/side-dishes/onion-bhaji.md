@@ -49,7 +49,7 @@ The British curry-house onion bhaji is a clumped fritter, not a smooth pakora. T
 - **The oil must be properly hot:** under 170°C and the bhaji soaks up oil and stays soft. Over 185°C and the outside burns before the inside cooks.
 
 ## Serving
-Plate with [Mint Raita](../sauces-pickles/mint-raita.md), [Mango Chutney](../sauces-pickles/mango-chutney.md) and a wedge of lime. A scatter of chopped raw onion and fresh coriander on top of the plate finishes it the way the curry-house does.
+- Plate with [Mint Raita](../sauces-pickles/mint-raita.md), [Mango Chutney](../sauces-pickles/mango-chutney.md) and a wedge of lime. A scatter of chopped raw onion and fresh coriander on top of the plate finishes it the way the curry-house does.
 
 ## Storage
 Best eaten straight from the fryer. Day-old bhajis revive under a hot grill or in an air fryer at 200°C for 3 minutes a side. Do not microwave; they steam soft.

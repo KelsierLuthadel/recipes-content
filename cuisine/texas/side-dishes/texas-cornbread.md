@@ -66,13 +66,13 @@ Texas cornbread is the Lone Star State's signature cornbread: a batter made from
 - **Less sugar than Northern cornbread:** the Texan way.
 
 ## Variations
-**Spicier:** double the jalapeños and add 1 chopped habanero.
-**With sausage:** add 200 g of crumbled cooked chorizo or breakfast sausage.
-**Sweet variation:** double the sugar; gives a more Northern-American sweet cornbread.
-**Without cheese (vegan-ish):** skip cheese; use vegan butter and a plant-milk-lemon-juice mix for buttermilk substitute.
+- **Spicier:** double the jalapeños and add 1 chopped habanero.
+- **With sausage:** add 200 g of crumbled cooked chorizo or breakfast sausage.
+- **Sweet variation:** double the sugar; gives a more Northern-American sweet cornbread.
+- **Without cheese (vegan-ish):** skip cheese; use vegan butter and a plant-milk-lemon-juice mix for buttermilk substitute.
 
 ## Serving
-Warm with butter, honey, or just plain. Alongside any Texas BBQ, chili, or as the side at any Texan meal. With cold beer or sweet tea.
+- Warm with butter, honey, or just plain. Alongside any Texas BBQ, chili, or as the side at any Texan meal. With cold beer or sweet tea.
 
 ## Storage
 - Keeps 2 days at room temperature in a sealed container.

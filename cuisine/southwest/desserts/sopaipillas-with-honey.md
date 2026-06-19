@@ -48,13 +48,13 @@ Sopaipillas with honey is New Mexico's traditional dessert and the most traditio
 - **Tear a corner to pour honey inside.**
 
 ## Variations
-**With chocolate sauce:** drizzle instead of honey.
-**Stuffed (sopaipilla relleno):** fill with sweetened cream cheese or fruit before frying.
-**With ice cream:** dessert version with a scoop of vanilla.
-**Mexican spiced sugar (azúcar especial):** dust with cinnamon sugar plus a pinch of cayenne.
+- **With chocolate sauce:** drizzle instead of honey.
+- **Stuffed (sopaipilla relleno):** fill with sweetened cream cheese or fruit before frying.
+- **With ice cream:** dessert version with a scoop of vanilla.
+- **Mexican spiced sugar (azúcar especial):** dust with cinnamon sugar plus a pinch of cayenne.
 
 ## Serving
-After New Mexican meals, green chile stew, carne adovada, enchiladas. At the centre of a Southwest restaurant table.
+- After New Mexican meals, green chile stew, carne adovada, enchiladas. At the centre of a Southwest restaurant table.
 
 ## Storage
 - Best eaten immediately.

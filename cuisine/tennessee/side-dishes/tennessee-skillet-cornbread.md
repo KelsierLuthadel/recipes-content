@@ -71,13 +71,13 @@ Tennessee skillet cornbread is the traditional Southern cornbread style (less sw
 - **Don't overmix:** keeps it tender.
 
 ## Variations
-**Sweet:** add 4 tablespoons more sugar.
-**With cheese and jalapeño:** classic addition.
-**With corn:** add fresh corn kernels.
-**As muffins:** bake in muffin tin 15 min.
+- **Sweet:** add 4 tablespoons more sugar.
+- **With cheese and jalapeño:** classic addition.
+- **With corn:** add fresh corn kernels.
+- **As muffins:** bake in muffin tin 15 min.
 
 ## Serving
-With butter alongside BBQ, beans, greens, chili.
+- With butter alongside BBQ, beans, greens, chili.
 
 ## Storage
 - Best fresh.

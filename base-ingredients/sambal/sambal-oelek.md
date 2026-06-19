@@ -72,17 +72,17 @@ Sambal oelek is the simplest sambal in the Indonesian family and the one every c
 - **Freshness Factor:** This is best made and used within a few days while chillies are vibrant.
 
 ## Variations
-**Extra Hot:** Remove all seeds and membranes from some chillies; leave others whole for heat variation.
-**With Lime:** Add 1-2 tablespoons fresh lime juice for brightness.
-**With Garlic:** Add 2-3 pounded garlic cloves for umami depth (changes name to sambal ulek bawang).
-**With Peanuts:** Add 3 tablespoons ground roasted peanuts as noted above (sambal oelek kacang).
-**Tamarind Water:** Add 1 teaspoon for tartness (optional).
+- **Extra Hot:** Remove all seeds and membranes from some chillies; leave others whole for heat variation.
+- **With Lime:** Add 1-2 tablespoons fresh lime juice for brightness.
+- **With Garlic:** Add 2-3 pounded garlic cloves for umami depth (changes name to sambal ulek bawang).
+- **With Peanuts:** Add 3 tablespoons ground roasted peanuts as noted above (sambal oelek kacang).
+- **Tamarind Water:** Add 1 teaspoon for tartness (optional).
 
 ## Serving
-Use in: Indonesian rice dishes, noodle dishes, vegetables, soups, curries, as table condiment
-Typical ratio: ½ to 1 teaspoon per serving, adjusted individually for heat tolerance
-Application: Serve as condiment on side of plate; individuals add to taste
-Temperature: Served cold or at room temperature, not heated
+- Use in: Indonesian rice dishes, noodle dishes, vegetables, soups, curries, as table condiment
+- Typical ratio: ½ to 1 teaspoon per serving, adjusted individually for heat tolerance
+- Application: Serve as condiment on side of plate; individuals add to taste
+- Temperature: Served cold or at room temperature, not heated
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 2 weeks

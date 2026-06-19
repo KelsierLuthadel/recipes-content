@@ -84,13 +84,13 @@ Arepa de huevo is one of Colombia's most iconic street snacks and a signature sp
 - **Eat immediately:** the egg inside continues to cook from residual heat; serve while just cooked.
 
 ## Variations
-**With cheese (arepa de huevo y queso):** add a tablespoon of crumbled queso costeño into the slit along with the egg.
-**With ham:** add a small piece of thinly sliced ham along with the egg.
-**Without egg (just stuffed arepa):** skip the egg; fill with a tablespoon of cheese or picadillo before sealing and second-frying.
-**Spicy arepa de huevo:** add a slice of fresh chilli to the slit alongside the egg.
+- **With cheese (arepa de huevo y queso):** add a tablespoon of crumbled queso costeño into the slit along with the egg.
+- **With ham:** add a small piece of thinly sliced ham along with the egg.
+- **Without egg (just stuffed arepa):** skip the egg; fill with a tablespoon of cheese or picadillo before sealing and second-frying.
+- **Spicy arepa de huevo:** add a slice of fresh chilli to the slit alongside the egg.
 
 ## Serving
-Hot from the fryer with ají picante, suero costeño, lime and avocado. At beach kiosks, breakfast carts, or as a snack any time. Drink: agua de panela con limón (panela water with lime), cold Club Colombia beer, or fresh jugo de mango.
+- Hot from the fryer with ají picante, suero costeño, lime and avocado. At beach kiosks, breakfast carts, or as a snack any time. Drink: agua de panela con limón (panela water with lime), cold Club Colombia beer, or fresh jugo de mango.
 
 ## Storage
 - Best eaten immediately; the egg cooks from residual heat.

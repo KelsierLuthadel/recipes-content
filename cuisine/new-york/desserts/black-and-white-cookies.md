@@ -91,13 +91,13 @@ Black and white cookies are one of New York's most iconic bakery items and a fix
 - **Don't overbake:** keeps tender.
 
 ## Variations
-**Larger size:** 15 cm cookies, the deli-counter size.
-**Mini:** 4 cm cookies for parties.
-**With lemon icing:** instead of vanilla.
-**With ganache instead of chocolate fondant:** richer.
+- **Larger size:** 15 cm cookies, the deli-counter size.
+- **Mini:** 4 cm cookies for parties.
+- **With lemon icing:** instead of vanilla.
+- **With ganache instead of chocolate fondant:** richer.
 
 ## Serving
-At NY bakeries, bodegas, Jewish delis. With coffee.
+- At NY bakeries, bodegas, Jewish delis. With coffee.
 
 ## Storage
 - Room temp in sealed tin 1 week.

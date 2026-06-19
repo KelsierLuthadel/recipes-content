@@ -90,15 +90,15 @@ Single-malt Scotch whisky is Scotland's most famous and most valuable export, a 
 - **Spit if you must:** at a formal tasting, spitting (into a designated spittoon) is acceptable. Most Scottish home tastings, however, are convivial, swallow and enjoy.
 
 ## Variations
-**Single-distillery vertical:** taste three different ages of the same distillery (e.g. Glenfiddich 12yo / 15yo / 18yo): see how time in oak develops the spirit.
-**Regional flight by character:** three Islay malts (Laphroaig / Lagavulin / Ardbeg) to compare peat profiles. Or three Speysides for the sherry-vs-bourbon-cask difference.
-**Cask-finish flight:** taste three whiskies finished in different casks (sherry / bourbon / Port / wine): illuminates the cask's influence.
-**Old vs new style:** taste a pre-1980s style (Talisker 10) vs a modern style (Talisker 25) - illustrates how house styles evolve.
-**Blended-vs-single-malt:** taste a Johnnie Walker Blue (blended) against the Glenfiddich 15 (single malt): see why blends and singles are different categories.
-**Vintage flight:** taste three special-release vintage bottlings, for the serious connoisseur (expensive).
+- **Single-distillery vertical:** taste three different ages of the same distillery (e.g. Glenfiddich 12yo / 15yo / 18yo): see how time in oak develops the spirit.
+- **Regional flight by character:** three Islay malts (Laphroaig / Lagavulin / Ardbeg) to compare peat profiles. Or three Speysides for the sherry-vs-bourbon-cask difference.
+- **Cask-finish flight:** taste three whiskies finished in different casks (sherry / bourbon / Port / wine): illuminates the cask's influence.
+- **Old vs new style:** taste a pre-1980s style (Talisker 10) vs a modern style (Talisker 25) - illustrates how house styles evolve.
+- **Blended-vs-single-malt:** taste a Johnnie Walker Blue (blended) against the Glenfiddich 15 (single malt): see why blends and singles are different categories.
+- **Vintage flight:** taste three special-release vintage bottlings, for the serious connoisseur (expensive).
 
 ## Serving
-At a Scottish dinner-party finale (the traditional setting) · at a Highland country-house hosting weekend · at a Scottish wedding's after-dinner whisky room · at a Burns Night supper as the dram-and-talk session · at a Hogmanay home gathering · at a Scottish business dinner as the closing ritual · at a Scottish distillery tour tasting room.
+- At a Scottish dinner-party finale (the traditional setting) · at a Highland country-house hosting weekend · at a Scottish wedding's after-dinner whisky room · at a Burns Night supper as the dram-and-talk session · at a Hogmanay home gathering · at a Scottish business dinner as the closing ritual · at a Scottish distillery tour tasting room.
 
 ## Storage
 - Open Scotch whisky bottles last 1-2 years if stored upright (the high alcohol prevents the cork from leaking).

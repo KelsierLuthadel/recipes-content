@@ -96,13 +96,13 @@ Porotos granados is Chile's most iconic vegetarian dish and one of the absolute 
 - **Marraqueta bread:** the traditional accompaniment.
 
 ## Variations
-**With pork:** add 200 g of diced pork shoulder browned at the start; gives a meaty version (less traditional).
-**Spicier:** double the merkén; common southern Chilean variation.
-**With chard or spinach:** add 200 g of chopped greens in the last 5 minutes; adds extra colour and freshness.
-**Bean-only purist version:** skip the corn; use only beans + pumpkin + basil. The Andean traditional version.
+- **With pork:** add 200 g of diced pork shoulder browned at the start; gives a meaty version (less traditional).
+- **Spicier:** double the merkén; common southern Chilean variation.
+- **With chard or spinach:** add 200 g of chopped greens in the last 5 minutes; adds extra colour and freshness.
+- **Bean-only purist version:** skip the corn; use only beans + pumpkin + basil. The Andean traditional version.
 
 ## Serving
-In deep bowls with marraqueta or crusty bread, pebre on the table, a fresh salad. Drink: cold Chilean beer (Cristal, Escudo), or a glass of carmenere wine. As a Sunday vegetarian lunch or hearty weeknight meal.
+- In deep bowls with marraqueta or crusty bread, pebre on the table, a fresh salad. Drink: cold Chilean beer (Cristal, Escudo), or a glass of carmenere wine. As a Sunday vegetarian lunch or hearty weeknight meal.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

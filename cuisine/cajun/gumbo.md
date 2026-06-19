@@ -89,13 +89,13 @@ A shellfish gumbo, lighter than the full Cajun "everything" version but built on
 - **Roux colour:** Darker roux has deeper flavour but burns more easily; medium-brown is safest for beginners.
 
 ## Variations
-**Chicken & Sausage Gumbo:** Replace shellfish with diced chicken and additional smoked sausage; use chicken stock instead
-**Vegetarian:** Omit all proteins and make vegetable stock; add okra or extra vegetables for body
-**Spicier version:** Add cayenne pepper or hot sauce to the roux or at the finish
-**With okra:** Add 150g sliced okra during the final simmer for a traditional thickening agent
+- **Chicken & Sausage Gumbo:** Replace shellfish with diced chicken and additional smoked sausage; use chicken stock instead
+- **Vegetarian:** Omit all proteins and make vegetable stock; add okra or extra vegetables for body
+- **Spicier version:** Add cayenne pepper or hot sauce to the roux or at the finish
+- **With okra:** Add 150g sliced okra during the final simmer for a traditional thickening agent
 
 ## Serving
-Serve in soup plates over hot rice with crusty bread and hot sauce on the side
+- Serve in soup plates over hot rice with crusty bread and hot sauce on the side
 
 ## Storage
 - Keeps 3 days refrigerated

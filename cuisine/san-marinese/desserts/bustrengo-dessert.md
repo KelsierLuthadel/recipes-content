@@ -61,7 +61,7 @@ The sweet bustrengo and the savoury one share the same backbone: stale bread, po
 - **Better the next day.** Bustrengo is at its best 24 hours after baking, when the spices have settled and the texture has firmed.
 
 ## Serving
-Wedges on plates with a dollop of mascarpone or thick yoghurt, a few extra walnuts on top, and a glass of vin santo or moscato.
+- Wedges on plates with a dollop of mascarpone or thick yoghurt, a few extra walnuts on top, and a glass of vin santo or moscato.
 
 ## Storage
 - Keeps 5 days in an airtight tin at room temperature; the flavour improves.

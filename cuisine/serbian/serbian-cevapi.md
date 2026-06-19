@@ -66,7 +66,7 @@
 - **Leskovački style.** From the southern grill town of Leskovac; bump up the paprika, add a pinch of dried red chilli, grill closer to the coals.
 
 ## Serving
-Wooden board piled high · halved warm somun · mound of chopped raw onion · scoop of kajmak melting on top · bowl of ajvar on the side · cold beer or a glass of rakija to start
+- Wooden board piled high · halved warm somun · mound of chopped raw onion · scoop of kajmak melting on top · bowl of ajvar on the side · cold beer or a glass of rakija to start
 
 ## Storage
 - Raw shaped ćevapi keep 24 hours refrigerated; freeze on a tray then bag for 2 months

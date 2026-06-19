@@ -60,13 +60,13 @@ Puré de papas is Chile's everyday mashed potato and the traditional side to any
 - **Don't over-mash:** especially if using an electric mixer; too much beating gives gluey paste.
 
 ## Variations
-**With sour cream:** swap 100 ml of milk for sour cream; richer tangier version.
-**Roasted garlic puré:** add 1 head of roasted garlic mashed in; gives a sweet garlic depth.
-**Cheese puré:** add 100 g of grated mature cheese (Parmesan or sharp cheddar) when whisking in butter; gives a richer cheesy mash.
-**Olive oil puré:** swap butter for extra virgin olive oil; gives a lighter Mediterranean-leaning version.
+- **With sour cream:** swap 100 ml of milk for sour cream; richer tangier version.
+- **Roasted garlic puré:** add 1 head of roasted garlic mashed in; gives a sweet garlic depth.
+- **Cheese puré:** add 100 g of grated mature cheese (Parmesan or sharp cheddar) when whisking in butter; gives a richer cheesy mash.
+- **Olive oil puré:** swap butter for extra virgin olive oil; gives a lighter Mediterranean-leaning version.
 
 ## Serving
-With any Chilean main: plateada, lomo a lo pobre, charquicán, asado, roasted chicken. As Sunday lunch.
+- With any Chilean main: plateada, lomo a lo pobre, charquicán, asado, roasted chicken. As Sunday lunch.
 
 ## Storage
 - Best eaten warm and fresh.

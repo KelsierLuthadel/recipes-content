@@ -106,17 +106,17 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 - **Hand-eat style:** Dutch frites come in a paper cone and are eaten with a small wooden two-prong fork from the cone itself. No plate.
 
 ## Variations
-**Patat speciaal (the diner-friendly variant):** frites + fritessaus + curry ketchup + finely chopped onion, the second-most-popular Dutch combination.
-**Patat pinda:** just frites + warm satay sauce. No mayo. The simpler peanut-sauce variant.
-**Patat met joppiesaus:** frites + Joppiesaus (a Dutch fast-food brand sauce, mayo + curry + onion + spices); Joppiesaus is sold in supermarkets across the Netherlands.
-**Patat met curry:** frites + Indonesian curry ketchup (a sweet-spicy ketchup-curry blend).
-**Patat met sambal:** frites + sambal mayo (mayo + sambal oelek + lime juice).
-**Frikandel speciaal (the over-the-top chip-shop classic):** a frikandel sausage cut open lengthwise; topped with fritessaus, curry ketchup, and chopped onion, served alongside the frites.
-**Kapsalon (Rotterdam-invented):** a baking tray of frites covered with grilled shawarma or kebab meat, cheese, salad, garlic sauce and sambal; baked under the grill till the cheese melts, the Dutch fast-food invention from Rotterdam.
-**Healthier "patat" (oven frites):** the same fritessaus or satay sauce; over baked frites (220°C for 30 minutes, tossed halfway). Less crispy but a real Dutch home midweek dinner.
+- **Patat speciaal (the diner-friendly variant):** frites + fritessaus + curry ketchup + finely chopped onion, the second-most-popular Dutch combination.
+- **Patat pinda:** just frites + warm satay sauce. No mayo. The simpler peanut-sauce variant.
+- **Patat met joppiesaus:** frites + Joppiesaus (a Dutch fast-food brand sauce, mayo + curry + onion + spices); Joppiesaus is sold in supermarkets across the Netherlands.
+- **Patat met curry:** frites + Indonesian curry ketchup (a sweet-spicy ketchup-curry blend).
+- **Patat met sambal:** frites + sambal mayo (mayo + sambal oelek + lime juice).
+- **Frikandel speciaal (the over-the-top chip-shop classic):** a frikandel sausage cut open lengthwise; topped with fritessaus, curry ketchup, and chopped onion, served alongside the frites.
+- **Kapsalon (Rotterdam-invented):** a baking tray of frites covered with grilled shawarma or kebab meat, cheese, salad, garlic sauce and sambal; baked under the grill till the cheese melts, the Dutch fast-food invention from Rotterdam.
+- **Healthier "patat" (oven frites):** the same fritessaus or satay sauce; over baked frites (220°C for 30 minutes, tossed halfway). Less crispy but a real Dutch home midweek dinner.
 
 ## Serving
-At a Dutch frituur or chip-shop (the traditional setting; sold from carts and counters across every Dutch town) · at a Dutch summer beach in the Hague or Scheveningen · at an Amsterdam late-night street stand · at a Dutch carnival or fair · at a Dutch football match · at home as a Friday-night family treat · paired with a cold Heineken or a glass of cold milk.
+- At a Dutch frituur or chip-shop (the traditional setting; sold from carts and counters across every Dutch town) · at a Dutch summer beach in the Hague or Scheveningen · at an Amsterdam late-night street stand · at a Dutch carnival or fair · at a Dutch football match · at home as a Friday-night family treat · paired with a cold Heineken or a glass of cold milk.
 
 ## Storage
 - Frites are at their peak for 30 minutes after frying. After that the texture suffers irreversibly.

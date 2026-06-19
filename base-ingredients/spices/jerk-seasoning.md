@@ -40,9 +40,9 @@ Jerk seasoning is the Jamaican spice rub for grilled meat, traceable through Mar
 - **For wet jerk marinade.** Add 4 tablespoons of this dry blend to a blender with 2 chopped onions, a head of garlic, 4 scotch bonnets, 1 thumb fresh ginger, 4 tablespoons soy sauce, 4 tablespoons vinegar and 4 tablespoons vegetable oil. Process to a wet paste.
 
 ## Serving
-Use in: jerk chicken, jerk pork, jerk fish, Jamaican beef patty filling, marinades for grilled meat, dry rub for slow-roast pork
-Typical ratio: 2 tablespoons of dry rub per kilo of meat
-Application: rubbed onto meat 4 to 24 hours before grilling
+- Use in: jerk chicken, jerk pork, jerk fish, Jamaican beef patty filling, marinades for grilled meat, dry rub for slow-roast pork
+- Typical ratio: 2 tablespoons of dry rub per kilo of meat
+- Application: rubbed onto meat 4 to 24 hours before grilling
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

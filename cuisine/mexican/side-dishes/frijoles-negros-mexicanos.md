@@ -79,13 +79,13 @@ Frijoles negros Mexicanos is the traditional Mexican black-bean dish, distinct f
 - **Raw onion on top:** traditional Mexican garnish.
 
 ## Variations
-**With chorizo:** crisp 100 g of sliced chorizo separately; spoon over the finished beans.
-**Frijoles refritos (refried):** mash the cooked beans; fry in lard or oil till thickened to a paste; the related traditional Mexican refried beans.
-**Spicier:** add 2 fresh chillies + more dried oregano.
-**With chipotle:** add 2 chipotles in adobo while cooking; gives a smoky depth.
+- **With chorizo:** crisp 100 g of sliced chorizo separately; spoon over the finished beans.
+- **Frijoles refritos (refried):** mash the cooked beans; fry in lard or oil till thickened to a paste; the related traditional Mexican refried beans.
+- **Spicier:** add 2 fresh chillies + more dried oregano.
+- **With chipotle:** add 2 chipotles in adobo while cooking; gives a smoky depth.
 
 ## Serving
-Alongside any Mexican main, or with rice and tortillas as a light vegetarian meal.
+- Alongside any Mexican main, or with rice and tortillas as a light vegetarian meal.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

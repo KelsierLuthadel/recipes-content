@@ -67,7 +67,7 @@ The Torta Tre Monti was created in the 1940s by the La Serenissima pastry compan
 - **Chilling discipline.** The cake needs proper chilling to slice cleanly; cutting before the chocolate sets creates a mess.
 
 ## Serving
-Thin slices with espresso, an after-dinner liqueur, or a glass of Brugneto della Serenissima.
+- Thin slices with espresso, an after-dinner liqueur, or a glass of Brugneto della Serenissima.
 
 ## Storage
 - Keeps 1 week refrigerated, well wrapped.

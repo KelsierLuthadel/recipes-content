@@ -109,13 +109,13 @@ Arroz con pollo is the traditional Latin American one-pot chicken-and-rice dish,
 - **Medium-grain rice if possible:** gives the proper Boricua texture. Long-grain works too.
 
 ## Variations
-**With chorizo (arroz con pollo y chorizo):** add 200 g of sliced chorizo to the pot with the onions; gives a richer fattier dish.
-**With seafood (arroz con pollo y mariscos):** add 200 g of cooked shrimp or mussels in the last 5 minutes; turns the dish into a paella-leaning special-occasion meal.
-**Vegetarian (arroz amarillo):** skip the chicken; use vegetable stock; add 1 tin of chickpeas + extra peas + sliced vegetables (carrot, cubanelle pepper). The rice is what makes the dish; chicken is supplement.
-**With wine:** swap the beer for 200 ml of dry white wine; gives a more Spanish-leaning version.
+- **With chorizo (arroz con pollo y chorizo):** add 200 g of sliced chorizo to the pot with the onions; gives a richer fattier dish.
+- **With seafood (arroz con pollo y mariscos):** add 200 g of cooked shrimp or mussels in the last 5 minutes; turns the dish into a paella-leaning special-occasion meal.
+- **Vegetarian (arroz amarillo):** skip the chicken; use vegetable stock; add 1 tin of chickpeas + extra peas + sliced vegetables (carrot, cubanelle pepper). The rice is what makes the dish; chicken is supplement.
+- **With wine:** swap the beer for 200 ml of dry white wine; gives a more Spanish-leaning version.
 
 ## Serving
-Family-style from the pot at the centre of the table. Sliced avocado, lime wedges, habichuelas guisadas, fresh salad. Drink: Medalla beer, mauby, or fresh coconut water.
+- Family-style from the pot at the centre of the table. Sliced avocado, lime wedges, habichuelas guisadas, fresh salad. Drink: Medalla beer, mauby, or fresh coconut water.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

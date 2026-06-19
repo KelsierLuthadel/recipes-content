@@ -87,7 +87,7 @@ For the glaze:
 - **Vegan:** Use lentils and mushrooms in place of the meat; replace the egg wash with milk-and-oil glaze.
 
 ## Serving
-Eat warm with a cold Coke or Malta · with a small bottle of shito · packed in a lunchbox · alongside a cup of strong tea.
+- Eat warm with a cold Coke or Malta · with a small bottle of shito · packed in a lunchbox · alongside a cup of strong tea.
 
 ## Storage
 - Keeps 3 days refrigerated

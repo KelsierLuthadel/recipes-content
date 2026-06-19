@@ -126,16 +126,16 @@ Jug-jug is the most identity-specifically Bajan dish in the entire cuisine, eate
 - **The dish is dense:** a spoonful stays mounded on the plate. If it pours, you have soup, not jug-jug.
 
 ## Variations
-**Jug-jug with chicken (modern):** for non-pork eaters, substitute chicken thighs for the salt-cured pork; same method.
-**Vegetarian jug-jug:** skip all the salt meat; use vegetable stock; double the Bajan green seasoning; add a tablespoon of smoked paprika for the smoky depth.
-**Jug-jug with okra:** add 150 g sliced okra to the pot in the last 10 minutes, the rural variant.
-**Jug-jug with corn:** add 100 g sweet corn kernels in the last 10 minutes, the modern variant.
-**Slow-cooker jug-jug:** brown the aromatics and salt meat in a pan; transfer to a slow cooker with the rest; low for 6-7 hours.
-**Pressure-cooker jug-jug:** the pigeon peas + salt meat + aromatics pressure-cook in 30 minutes; finish with the millet flour stirred in over 15 minutes simmer.
-**Smaller-batch jug-jug (4 portions):** halve all the ingredients; 1 hour cook time.
+- **Jug-jug with chicken (modern):** for non-pork eaters, substitute chicken thighs for the salt-cured pork; same method.
+- **Vegetarian jug-jug:** skip all the salt meat; use vegetable stock; double the Bajan green seasoning; add a tablespoon of smoked paprika for the smoky depth.
+- **Jug-jug with okra:** add 150 g sliced okra to the pot in the last 10 minutes, the rural variant.
+- **Jug-jug with corn:** add 100 g sweet corn kernels in the last 10 minutes, the modern variant.
+- **Slow-cooker jug-jug:** brown the aromatics and salt meat in a pan; transfer to a slow cooker with the rest; low for 6-7 hours.
+- **Pressure-cooker jug-jug:** the pigeon peas + salt meat + aromatics pressure-cook in 30 minutes; finish with the millet flour stirred in over 15 minutes simmer.
+- **Smaller-batch jug-jug (4 portions):** halve all the ingredients; 1 hour cook time.
 
 ## Serving
-At a Bajan Christmas Eve dinner (the traditional setting; the dish is so locked-in to 24 December that it's effectively a Bajan Christmas symbol) · at a Bajan Christmas Day lunch · at a Bajan family Christmas-week gathering · at a Bajan church Christmas potluck · at a Bajan diaspora Christmas dinner anywhere in the world · paired with baked ham, Bajan roast pork, baked sweet potato, caramelised pumpkin, and Bajan rum punch.
+- At a Bajan Christmas Eve dinner (the traditional setting; the dish is so locked-in to 24 December that it's effectively a Bajan Christmas symbol) · at a Bajan Christmas Day lunch · at a Bajan family Christmas-week gathering · at a Bajan church Christmas potluck · at a Bajan diaspora Christmas dinner anywhere in the world · paired with baked ham, Bajan roast pork, baked sweet potato, caramelised pumpkin, and Bajan rum punch.
 
 ## Storage
 - Refrigerates 5 days; reheats well in a saucepan with a small splash of water to loosen.

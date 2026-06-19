@@ -48,7 +48,7 @@ The minimal recipe means everything depends on the ingredients: a good 100% agav
 - **Smoky ranch water:** swap the blanco tequila for mezcal. Different drink, equally Texan.
 
 ## Serving
-A porch drink. Best consumed standing up, in the late afternoon, looking at a horizon. Pairs well with chips and salsa, brisket sandwiches, or just a bag of saltines.
+- A porch drink. Best consumed standing up, in the late afternoon, looking at a horizon. Pairs well with chips and salsa, brisket sandwiches, or just a bag of saltines.
 
 ## Storage
 Build to order. Topo Chico is best chilled and consumed within 30 minutes of opening; it loses carbonation surprisingly fast.

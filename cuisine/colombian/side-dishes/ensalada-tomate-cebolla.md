@@ -49,13 +49,13 @@ Colombia's simplest and most pervasive table salad: thinly sliced ripe tomato, t
 - **Adjust onion soaking to taste:** sharp or mild.
 
 ## Variations
-**With avocado:** add 1 sliced ripe avocado on top.
-**With cucumber:** add thinly sliced cucumber.
-**With queso fresco:** crumble 80 g of fresh white cheese over the top.
-**Spicier:** add 1 sliced fresh chilli.
+- **With avocado:** add 1 sliced ripe avocado on top.
+- **With cucumber:** add thinly sliced cucumber.
+- **With queso fresco:** crumble 80 g of fresh white cheese over the top.
+- **Spicier:** add 1 sliced fresh chilli.
 
 ## Serving
-Alongside any Colombian main. With sancocho, bandeja paisa, lechona, posta negra. Drink: water, agua de panela, or fresh limonada.
+- Alongside any Colombian main. With sancocho, bandeja paisa, lechona, posta negra. Drink: water, agua de panela, or fresh limonada.
 
 ## Storage
 - Best eaten immediately; goes soggy quickly.

@@ -50,7 +50,7 @@ Sauce Tartare is the building block of fish and chips and any fried-fish plate t
 - **Blanched onion:** Softens harsh raw allium flavour; essential for refined taste.
 
 ## Serving
-Serve chilled with fried fish (sole, plaice, cod), grilled fish, or cold fish and shellfish preparations. Classic with fish and chips.
+- Serve chilled with fried fish (sole, plaice, cod), grilled fish, or cold fish and shellfish preparations. Classic with fish and chips.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

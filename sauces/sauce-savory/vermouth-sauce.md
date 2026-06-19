@@ -59,7 +59,7 @@ Vermouth sauce is the building block for braised white fish and shellfish: a her
 - **Foam technique:** Creates elegant presentation and lightens body for modern service.
 
 ## Serving
-Serve with braised white fish fillets (sole, turbot, cod) or shellfish (scallops, lobster). The herbal vermouth notes complement delicate seafood beautifully.
+- Serve with braised white fish fillets (sole, turbot, cod) or shellfish (scallops, lobster). The herbal vermouth notes complement delicate seafood beautifully.
 
 ## Storage
 - Best served immediately; emulsion breaks if held too long.

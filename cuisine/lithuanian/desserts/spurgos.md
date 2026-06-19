@@ -74,14 +74,14 @@ Spurgos are the Lithuanian doughnut, sister to the Polish pączki and the German
 - **Dust warm, dust again:** the first dusting melts in; the second sits on top.
 
 ## Variations
-**Custard-filled:** swap the jam for thick vanilla custard, the modern bakery version.
-**Apple filling:** stewed apple cubes with cinnamon.
-**Sweet curd filling:** 200 g sweetened curd cheese with raisins.
-**Plain (no filling):** ring-shaped or solid balls, rolled in cinnamon sugar.
-**Rose-hip jam:** the most Lithuanian of all the fillings; rosehip is the country's most beloved preserve fruit.
+- **Custard-filled:** swap the jam for thick vanilla custard, the modern bakery version.
+- **Apple filling:** stewed apple cubes with cinnamon.
+- **Sweet curd filling:** 200 g sweetened curd cheese with raisins.
+- **Plain (no filling):** ring-shaped or solid balls, rolled in cinnamon sugar.
+- **Rose-hip jam:** the most Lithuanian of all the fillings; rosehip is the country's most beloved preserve fruit.
 
 ## Serving
-Serve warm · piled on a plate dusted with icing sugar · at Užgavėnės · at name-day breakfasts · with strong coffee · with a glass of cold milk · at children's parties.
+- Serve warm · piled on a plate dusted with icing sugar · at Užgavėnės · at name-day breakfasts · with strong coffee · with a glass of cold milk · at children's parties.
 
 ## Storage
 - Best on the day; the texture stiffens by the second day.

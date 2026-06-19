@@ -51,7 +51,7 @@ The home version is built in a blender. The recipe below is the classic lime ver
 - **Mudslide:** add 30 ml Kahlúa and 30 ml Baileys, reduce simple syrup. Coffee-cream version.
 
 ## Serving
-A frozen daiquiri is its own occasion. Drink it on a porch on a hot afternoon, on a boat, or out of a styrofoam cup in your car (as the law allows in Mississippi, where the closed-container statute treats sealed daiquiri cups as transportable).
+- A frozen daiquiri is its own occasion. Drink it on a porch on a hot afternoon, on a boat, or out of a styrofoam cup in your car (as the law allows in Mississippi, where the closed-container statute treats sealed daiquiri cups as transportable).
 
 ## Storage
 The drink melts within 15-20 minutes; eat the cocktail as you drink it. A leftover daiquiri can be returned to the freezer for an hour to re-firm, but the texture suffers.

@@ -69,7 +69,7 @@ Resbaladera is the Costa Rican answer to horchata, a creamy cold milk-based drin
 - **Resbaladera sin lácteos:** Use oat milk in place of whole milk and skip the condensed milk; sweeten with maple syrup for a dairy-free version.
 
 ## Serving
-Serve cold over plenty of ice in tall glasses · with a dusting of cinnamon · with a slice of bizcocho or empanada de chiverre alongside · or as a soda-counter lunch drink
+- Serve cold over plenty of ice in tall glasses · with a dusting of cinnamon · with a slice of bizcocho or empanada de chiverre alongside · or as a soda-counter lunch drink
 
 ## Storage
 - Resbaladera keeps 3 days refrigerated, covered

@@ -108,16 +108,16 @@ The baguette is the everyday French loaf and the test most bakers fail before th
 - **Cooling:** Resist the urge to slice hot bread. The crumb continues to set and the flavor develops as it cools.
 
 ## Variations
-**Whole Wheat Baguettes:** Replace up to 25% of the bread flour with whole wheat flour for nuttier flavor.
-**With Seeds:** Brush shaped dough with water and roll in sesame, poppy, or caraway seeds before proofing.
-**Demi-baguettes:** Divide dough into 3-4 portions for smaller, individual-serving loaves.
-**Tartines-Ready:** Shape slightly shorter and wider loaves designed to be sliced and topped rather than torn.
+- **Whole Wheat Baguettes:** Replace up to 25% of the bread flour with whole wheat flour for nuttier flavor.
+- **With Seeds:** Brush shaped dough with water and roll in sesame, poppy, or caraway seeds before proofing.
+- **Demi-baguettes:** Divide dough into 3-4 portions for smaller, individual-serving loaves.
+- **Tartines-Ready:** Shape slightly shorter and wider loaves designed to be sliced and topped rather than torn.
 
 ## Serving
-Serve with: Cheese, charcuterie, soup, butter, jam
-Temperature: Serve warm or at room temperature (never cold)
-Slicing: Slice warm using a serrated knife with a gentle sawing motion
-Accompaniments: Salted butter, good cheese, or simple tomatoes and olive oil
+- Serve with: Cheese, charcuterie, soup, butter, jam
+- Temperature: Serve warm or at room temperature (never cold)
+- Slicing: Slice warm using a serrated knife with a gentle sawing motion
+- Accompaniments: Salted butter, good cheese, or simple tomatoes and olive oil
 
 ## Storage
 - Best consumed within 4-6 hours of baking while the crust is still crispy

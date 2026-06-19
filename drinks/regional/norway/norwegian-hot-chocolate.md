@@ -62,7 +62,7 @@ Norwegian winter is long and cold, and the Norwegian answer is a thick rich hot 
 - **Don't boil:** Boiling damages the chocolate texture. Keep at a steaming simmer, no rolling boil.
 
 ## Serving
-Serve after coming in from a cold winter day - skating, skiing, walking. Or as a dessert after a meal of fish or soup. With a krumkake or a piece of dark chocolate on the side.
+- Serve after coming in from a cold winter day - skating, skiing, walking. Or as a dessert after a meal of fish or soup. With a krumkake or a piece of dark chocolate on the side.
 
 ## Storage
 - Best fresh.

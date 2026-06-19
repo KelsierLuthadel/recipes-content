@@ -76,14 +76,14 @@ The Welsh oggie is the Welsh first cousin of the Cornish pasty. South-Wales coal
 - **Eat warm or cold:** both work. Reheat at 160°C for 12 minutes if you want them hot.
 
 ## Variations
-**Welsh beef oggie:** swap the lamb for diced beef chuck (the rare version).
-**With cheese:** crumble 100 g mature Welsh cheddar over the filling before sealing.
-**Mini oggies:** roll the dough into 8 smaller rounds for a party platter.
-**Vegetable oggie:** double the swede and potato, add a tin of chickpeas; no meat.
-**Gluten-free:** use a 1:1 gluten-free flour blend; rest the dough 1 hour rather than 30 minutes.
+- **Welsh beef oggie:** swap the lamb for diced beef chuck (the rare version).
+- **With cheese:** crumble 100 g mature Welsh cheddar over the filling before sealing.
+- **Mini oggies:** roll the dough into 8 smaller rounds for a party platter.
+- **Vegetable oggie:** double the swede and potato, add a tin of chickpeas; no meat.
+- **Gluten-free:** use a 1:1 gluten-free flour blend; rest the dough 1 hour rather than 30 minutes.
 
 ## Serving
-At a south-Wales rugby supper · packed into a walker's bag for the Brecon Beacons · with HP sauce and a pint of Brains SA · as a pub lunch at the Black Mountain Inn · at a Welsh wedding buffet · cold from the lunchbox at a primary-school sports day.
+- At a south-Wales rugby supper · packed into a walker's bag for the Brecon Beacons · with HP sauce and a pint of Brains SA · as a pub lunch at the Black Mountain Inn · at a Welsh wedding buffet · cold from the lunchbox at a primary-school sports day.
 
 ## Storage
 - Keeps 3 days in the fridge.

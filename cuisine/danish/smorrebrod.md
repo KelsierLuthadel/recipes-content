@@ -96,14 +96,14 @@ Smørrebrød (literally "buttered bread") is the Danish open-faced rye-bread tra
 - **Pickled / fresh / sharp:** every composition has all three, pickled element (herring, onion), fresh-green (dill, cress, chives), sharp (mustard, horseradish, capers).
 
 ## Variations
-**Beef-and-blue-cheese:** thin slices of cold roast beef + crumbled Danish blue + horseradish + crispy onions + cress (less traditional, more modern).
-**Tartar:** Danish-style raw beef tartare on rye with raw egg yolk and chopped raw onion (the Stockholm Royal Smørrebrød House version).
-**Smoked salmon:** smoked salmon + creamy dill mustard + capers + cucumber + dill (traditional fish version).
-**Hot smørrebrød:** include a few hot smørrebrød (warmed leverpostej; or a small frikadelle on rye with mustard and pickled beetroot).
-**Cheese-only at the end:** the traditional Danish lunch ends with cheese smørrebrød (a slice of strong Danish blue, or mild Danbo, with a sliced radish on rye).
+- **Beef-and-blue-cheese:** thin slices of cold roast beef + crumbled Danish blue + horseradish + crispy onions + cress (less traditional, more modern).
+- **Tartar:** Danish-style raw beef tartare on rye with raw egg yolk and chopped raw onion (the Stockholm Royal Smørrebrød House version).
+- **Smoked salmon:** smoked salmon + creamy dill mustard + capers + cucumber + dill (traditional fish version).
+- **Hot smørrebrød:** include a few hot smørrebrød (warmed leverpostej; or a small frikadelle on rye with mustard and pickled beetroot).
+- **Cheese-only at the end:** the traditional Danish lunch ends with cheese smørrebrød (a slice of strong Danish blue, or mild Danbo, with a sliced radish on rye).
 
 ## Serving
-At a Danish lunch at a Copenhagen restaurant (Restaurant Schønnemann is the historic temple) · at a Danish workplace canteen Friday lunch · at a julefrokost (Danish Christmas lunch) · at a wedding luncheon · at home as a substantial weekend lunch.
+- At a Danish lunch at a Copenhagen restaurant (Restaurant Schønnemann is the historic temple) · at a Danish workplace canteen Friday lunch · at a julefrokost (Danish Christmas lunch) · at a wedding luncheon · at home as a substantial weekend lunch.
 
 ## Storage
 - Best assembled and eaten within 1 hour.

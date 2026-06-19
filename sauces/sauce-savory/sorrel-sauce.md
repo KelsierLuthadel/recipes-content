@@ -59,7 +59,7 @@ Sorrel sauce is the building block for a fresh tart green sauce that pairs with 
 - **Foam variation:** Brief blending creates elegant foam for modern presentations.
 
 ## Serving
-Serve with fish cakes, pan-fried lamb chops, grilled fish, or roasted poultry. The acidity brightens rich meats beautifully.
+- Serve with fish cakes, pan-fried lamb chops, grilled fish, or roasted poultry. The acidity brightens rich meats beautifully.
 
 ## Storage
 - Keeps refrigerated for 1 day in an airtight container.

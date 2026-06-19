@@ -64,7 +64,7 @@ Croissant dough is the building block for croissants, pains au chocolat, pains a
 - Temperature management during final proofing is essential; croissants must be shaped while cold and proof in a warm, humid environment
 
 ## Serving
-Serve freshly baked croissants warm, ideally within 2 hours of baking. Enjoy plain with butter and jam, or use as a base for sandwiches with ham, cheese, or chocolate. Can be served for breakfast, brunch, or as an afternoon tea pastry.
+- Serve freshly baked croissants warm, ideally within 2 hours of baking. Enjoy plain with butter and jam, or use as a base for sandwiches with ham, cheese, or chocolate. Can be served for breakfast, brunch, or as an afternoon tea pastry.
 
 ## Storage
 Croissants are best consumed fresh on the day of baking. Unfolded dough can be frozen for up to 1 month before shaping; thaw in the refrigerator overnight before final proofing. Shaped, unbaked croissants can be frozen for 2-3 days; bake directly from frozen, adding 5 minutes to baking time.

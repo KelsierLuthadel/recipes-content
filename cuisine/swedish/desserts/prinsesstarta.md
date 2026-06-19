@@ -133,15 +133,15 @@ Prinsesstårta (Princess Cake) is one of Sweden's most iconic celebration cakes 
 - **Make on the day:** the cream is best fresh. Up to 24 hours in fridge is OK.
 
 ## Variations
-**Pink princess cake:** swap the green marzipan for pink; for a girl's birthday or breast-cancer-awareness charity bake.
-**Yellow princess cake:** for a Sankta Lucia or Christmas variant.
-**Cardamom sponge:** add 1 teaspoon ground cardamom to the sponge for a Swedish-spiced version.
-**With fresh raspberries inside:** add a layer of fresh raspberries between the pastry cream and whipped cream.
-**With cloudberry jam (hjortronsylt):** the deluxe Northern Swedish version.
-**Mini individual prinsesstårta:** make in small dome moulds, one per person.
+- **Pink princess cake:** swap the green marzipan for pink; for a girl's birthday or breast-cancer-awareness charity bake.
+- **Yellow princess cake:** for a Sankta Lucia or Christmas variant.
+- **Cardamom sponge:** add 1 teaspoon ground cardamom to the sponge for a Swedish-spiced version.
+- **With fresh raspberries inside:** add a layer of fresh raspberries between the pastry cream and whipped cream.
+- **With cloudberry jam (hjortronsylt):** the deluxe Northern Swedish version.
+- **Mini individual prinsesstårta:** make in small dome moulds, one per person.
 
 ## Serving
-At Swedish birthdays (the traditional celebration cake) · at Mother's Day · at a fika that has graduated into a formal occasion · at a Stockholm konditori display window (always in pale green) · at a wedding (often the second cake alongside the main one).
+- At Swedish birthdays (the traditional celebration cake) · at Mother's Day · at a fika that has graduated into a formal occasion · at a Stockholm konditori display window (always in pale green) · at a wedding (often the second cake alongside the main one).
 
 ## Storage
 - Best the day it's assembled.

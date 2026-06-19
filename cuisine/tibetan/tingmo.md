@@ -71,13 +71,13 @@ Tingmo (ཏིང་མོ) is Tibet's signature steamed bread and a Sunday-tabl
 - **Serve immediately:** tingmo are best fresh and hot; they go off-texture (denser and slightly drier) as they cool.
 
 ## Variations
-**Plain disc tingmo:** skip the rosette shape; just shape the dough into small balls, flatten slightly into 3 cm thick discs, prove and steam. Easier; equally Tibetan.
-**Sesame tingmo:** sprinkle the top of each tingmo with sesame seeds before steaming; gives a nuttier version.
-**Sweet tingmo (golden tingmo):** double the sugar in the dough; serve as a tea-time bread alongside butter tea. Common Tibetan variation.
-**Stuffed tingmo (savoury):** fill with a small amount of finely chopped cooked vegetables before twisting; gives a stuffed Tibetan bread that bridges tingmo and momo.
+- **Plain disc tingmo:** skip the rosette shape; just shape the dough into small balls, flatten slightly into 3 cm thick discs, prove and steam. Easier; equally Tibetan.
+- **Sesame tingmo:** sprinkle the top of each tingmo with sesame seeds before steaming; gives a nuttier version.
+- **Sweet tingmo (golden tingmo):** double the sugar in the dough; serve as a tea-time bread alongside butter tea. Common Tibetan variation.
+- **Stuffed tingmo (savoury):** fill with a small amount of finely chopped cooked vegetables before twisting; gives a stuffed Tibetan bread that bridges tingmo and momo.
 
 ## Serving
-On a warm plate alongside Tibetan stews, curries or any wet sauce; the tingmo is meant to be torn and used to scoop up sauce. With butter tea, sweet milky chai, or Tibetan beer (chang). Often part of a multi-dish Tibetan meal.
+- On a warm plate alongside Tibetan stews, curries or any wet sauce; the tingmo is meant to be torn and used to scoop up sauce. With butter tea, sweet milky chai, or Tibetan beer (chang). Often part of a multi-dish Tibetan meal.
 
 ## Storage
 - Best eaten warm and fresh.

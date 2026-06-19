@@ -77,7 +77,7 @@ Pateuri cu brânză are the everyday Romanian pastry, the warm flaky parcels sol
 - **Open-topped (cu brânză deschise):** envelope shape with the corners pinched, leaving a small window of cheese on top.
 
 ## Serving
-Warm · in the hand · with a glass of cold milk or a strong coffee · as part of a holiday cold-plate spread · packed for a road trip.
+- Warm · in the hand · with a glass of cold milk or a strong coffee · as part of a holiday cold-plate spread · packed for a road trip.
 
 ## Storage
 - Best the day they are baked; eat warm within 8 hours.

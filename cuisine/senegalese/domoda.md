@@ -85,12 +85,12 @@ Domoda is the Gambia's national stew: the thinner, more citrusy cousin to Senega
 - **Pumpkin or sweet potato:** Either is traditional; pumpkin breaks down a little and helps thicken, sweet potato holds its shape.
 
 ## Variations
-**Lamb domoda:** Use neck or shoulder, brown longer (8 minutes per batch), and extend the first simmer to 50 minutes before adding peanut and vegetables.
-**Bitter aubergine:** Add 200 g of cubed African aubergine (or regular aubergine with a teaspoon of mustard powder) for an authentic edge.
+- **Lamb domoda:** Use neck or shoulder, brown longer (8 minutes per batch), and extend the first simmer to 50 minutes before adding peanut and vegetables.
+- **Bitter aubergine:** Add 200 g of cubed African aubergine (or regular aubergine with a teaspoon of mustard powder) for an authentic edge.
 
 ## Serving
-Serve with: A wide pile of steamed white rice in a shallow bowl, sauce ladled around.
-Garnish with: Fresh coriander leaves and a lime wedge on the side.
+- Serve with: A wide pile of steamed white rice in a shallow bowl, sauce ladled around.
+- Garnish with: Fresh coriander leaves and a lime wedge on the side.
 
 ## Storage
 - Keeps 3 days refrigerated.

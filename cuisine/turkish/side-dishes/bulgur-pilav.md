@@ -95,13 +95,13 @@ Bulgur pilav is Turkey's classic cracked-wheat pilaf and a staple of Anatolian h
 - **Pomegranate molasses at the end:** the molasses is added after cooking, not in the cooking liquid; this preserves its tartness and freshness.
 
 ## Variations
-**Plain bulgur pilav:** skip the tomato, pepper and red pepper paste; cook bulgur in butter, onion and stock alone; gives a cleaner more rice-like pilaf.
-**Bulgur with chickpeas (nohutlu bulgur pilavı):** add 200 g of cooked chickpeas along with the bulgur; gives a more substantial protein-rich pilaf.
-**Bulgur with lamb (etli bulgur pilavı):** brown 300 g of minced lamb in the pan before adding the onion; turns the pilaf into a one-pot main dish.
-**Bulgur with eggplant (patlıcanlı bulgur pilavı):** add 200 g of cubed roasted eggplant along with the tomato; gives a richer pilaf with extra body.
+- **Plain bulgur pilav:** skip the tomato, pepper and red pepper paste; cook bulgur in butter, onion and stock alone; gives a cleaner more rice-like pilaf.
+- **Bulgur with chickpeas (nohutlu bulgur pilavı):** add 200 g of cooked chickpeas along with the bulgur; gives a more substantial protein-rich pilaf.
+- **Bulgur with lamb (etli bulgur pilavı):** brown 300 g of minced lamb in the pan before adding the onion; turns the pilaf into a one-pot main dish.
+- **Bulgur with eggplant (patlıcanlı bulgur pilavı):** add 200 g of cubed roasted eggplant along with the tomato; gives a richer pilaf with extra body.
 
 ## Serving
-On warm plates or in a serving bowl as a side alongside grilled meats, stews, dolma, or fish. A spoonful of plain yogurt on the side. Lemon wedges. Often part of a Turkish family dinner with several other dishes. Drink: ayran, water, or a glass of cold beer.
+- On warm plates or in a serving bowl as a side alongside grilled meats, stews, dolma, or fish. A spoonful of plain yogurt on the side. Lemon wedges. Often part of a Turkish family dinner with several other dishes. Drink: ayran, water, or a glass of cold beer.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens slightly overnight.

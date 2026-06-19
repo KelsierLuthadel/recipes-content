@@ -129,18 +129,18 @@ Bitterballen are the Netherlands' most identity-defining drinking snack, named f
 - **Maggi seasoning is the Dutch home secret:** the umami-soy-bouillon-like liquid that goes into everything in a Dutch kitchen. Worcestershire sauce is the substitute but Maggi gives the unmistakable Dutch profile.
 
 ## Variations
-**Kroketten (broodje kroket form):** the same ragout shaped into cylinders 8-10 cm long, breaded and fried; served in a fresh Dutch bun with mustard, see [Broodje kroket](broodje-kroket.md).
-**Veal bitterballen:** swap beef for veal; the more delicate Dutch upscale variant.
-**Chicken bitterballen:** swap beef for slow-cooked shredded chicken thigh; lighter, paler ragout.
-**Goulash bitterballen:** add 1 tablespoon of paprika and a pinch of caraway to the ragout, the Dutch-Hungarian crossover.
-**Curry-spiced bitterballen (Indonesian-influenced):** add 1 teaspoon of mild curry powder to the ragout, the colonial-Dutch variant.
-**Vegetarian bitterballen:** swap the beef for slow-cooked shredded king-oyster mushrooms + a splash of soy sauce for umami depth; the same velouté binding.
-**Cheese bitterballen (kaasbitterballen):** swap the beef for a thick aged-cheese (oude kaas) velouté, the Dutch cheese-shop variant.
-**Goose / duck bitterballen:** swap beef for slow-cooked duck or goose confit, shredded; the high-end variant.
-**Smaller (bittergarnituur):** make 60 small (15 g) bitterballen for a Dutch reception or wedding canapé.
+- **Kroketten (broodje kroket form):** the same ragout shaped into cylinders 8-10 cm long, breaded and fried; served in a fresh Dutch bun with mustard, see [Broodje kroket](broodje-kroket.md).
+- **Veal bitterballen:** swap beef for veal; the more delicate Dutch upscale variant.
+- **Chicken bitterballen:** swap beef for slow-cooked shredded chicken thigh; lighter, paler ragout.
+- **Goulash bitterballen:** add 1 tablespoon of paprika and a pinch of caraway to the ragout, the Dutch-Hungarian crossover.
+- **Curry-spiced bitterballen (Indonesian-influenced):** add 1 teaspoon of mild curry powder to the ragout, the colonial-Dutch variant.
+- **Vegetarian bitterballen:** swap the beef for slow-cooked shredded king-oyster mushrooms + a splash of soy sauce for umami depth; the same velouté binding.
+- **Cheese bitterballen (kaasbitterballen):** swap the beef for a thick aged-cheese (oude kaas) velouté, the Dutch cheese-shop variant.
+- **Goose / duck bitterballen:** swap beef for slow-cooked duck or goose confit, shredded; the high-end variant.
+- **Smaller (bittergarnituur):** make 60 small (15 g) bitterballen for a Dutch reception or wedding canapé.
 
 ## Serving
-At a Dutch café with a glass of cold beer (the traditional setting) · at a Dutch borrel (early-evening drinks gathering with snacks) · at a Dutch reception or wedding · at an Amsterdam brown bar (the traditional Dutch wood-panelled pub) · at a Dutch sinterklaas (5 December) family gathering · at a Dutch carnival in Limburg · at home as the traditional Friday-night drinking snack · paired with grainy mustard, cold lager, jenever or a Dutch witbier.
+- At a Dutch café with a glass of cold beer (the traditional setting) · at a Dutch borrel (early-evening drinks gathering with snacks) · at a Dutch reception or wedding · at an Amsterdam brown bar (the traditional Dutch wood-panelled pub) · at a Dutch sinterklaas (5 December) family gathering · at a Dutch carnival in Limburg · at home as the traditional Friday-night drinking snack · paired with grainy mustard, cold lager, jenever or a Dutch witbier.
 
 ## Storage
 - The breaded uncooked balls freeze excellently 3 months, on a tray then bagged. Fry from frozen at 180°C, allow 4-5 minutes (slightly longer than fresh).

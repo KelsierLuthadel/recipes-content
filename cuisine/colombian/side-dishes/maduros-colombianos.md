@@ -53,12 +53,12 @@ Maduros (also called plátanos maduros) is Colombia's sweet fried plantain side 
 - **Don't overcrowd:** in batches for proper caramelisation.
 
 ## Variations
-**Honey-glazed maduros:** drizzle with honey just before serving.
-**Cinnamon-sugar maduros:** dust with cinnamon-sugar after cooking; gives a more dessert-like result.
-**Caramelised with butter:** swap oil for butter in the last 30 seconds of cooking; gives a richer browned-butter finish.
+- **Honey-glazed maduros:** drizzle with honey just before serving.
+- **Cinnamon-sugar maduros:** dust with cinnamon-sugar after cooking; gives a more dessert-like result.
+- **Caramelised with butter:** swap oil for butter in the last 30 seconds of cooking; gives a richer browned-butter finish.
 
 ## Serving
-On a bandeja paisa platter alongside the carne asada, beans, rice, egg and arepa. As a side at any Colombian meal. Children love them.
+- On a bandeja paisa platter alongside the carne asada, beans, rice, egg and arepa. As a side at any Colombian meal. Children love them.
 
 ## Storage
 - Best eaten warm.

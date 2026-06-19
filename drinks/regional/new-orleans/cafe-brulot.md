@@ -57,7 +57,7 @@ This recipe scales the drink down for a home stovetop. The traditional brûlot b
 - **Stronger:** double the brandy. A serious end-of-evening version.
 
 ## Serving
-A small demitasse cup per person, served at the end of a long dinner. The drink is rich and aromatic; a single cup is plenty. Goes well with a final small biscotti or a single praline.
+- A small demitasse cup per person, served at the end of a long dinner. The drink is rich and aromatic; a single cup is plenty. Goes well with a final small biscotti or a single praline.
 
 ## Storage
 The drink does not store. The spices and peel can be refrigerated overnight in the residual brandy if you must, but the freshness of the flambé is the recipe.

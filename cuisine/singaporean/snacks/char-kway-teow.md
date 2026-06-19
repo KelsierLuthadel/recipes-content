@@ -70,7 +70,7 @@ Char kway teow ("stir-fried flat noodles") shares its name with Penang's most fa
 - **Bean sprouts at the end:** They should be wilted but still crunchy. Adding them earlier makes them soggy.
 
 ## Serving
-Serve hot on wide plates. A small dish of sambal alongside for those who want extra heat. Sliced cucumber and a lime wedge complete the plate.
+- Serve hot on wide plates. A small dish of sambal alongside for those who want extra heat. Sliced cucumber and a lime wedge complete the plate.
 
 ## Storage
 - Best the same hour. Char kway teow reheated is a sad dish.

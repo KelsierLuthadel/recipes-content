@@ -81,7 +81,7 @@ This is the showpiece chocolate mousse, layered in tall glasses with a chocolate
 - The mousse is very rich; individual rings (12 portions) are appropriately large; the berry compote provides tartness to balance the richness
 
 ## Serving
-Remove from the ring by briefly heating the exterior with a warm tea towel or blowtorch, then slide onto a plate. Top or serve alongside a generous spoonful of berry compote with several fresh berries. Serve at the temperature the mousse was frozen (usually 5-10 minutes at room temperature is perfect for texture).
+- Remove from the ring by briefly heating the exterior with a warm tea towel or blowtorch, then slide onto a plate. Top or serve alongside a generous spoonful of berry compote with several fresh berries. Serve at the temperature the mousse was frozen (usually 5-10 minutes at room temperature is perfect for texture).
 
 ## Storage
 Assembled and frozen in their rings, these desserts keep for up to 2 weeks in the freezer, well-wrapped to prevent freezer burn. The berry compote can be made several days ahead and refrigerated. Remove the mousse from the freezer 5-10 minutes before serving for the best texture; rock-hard frozen desserts are unpleasant and too-warm ones become soupy.

@@ -86,15 +86,15 @@ Fläderblomssaft (elderflower cordial) is one of Sweden's most cherished homemad
 - **Strain through muslin:** essential for a clear syrup.
 
 ## Variations
-**Champagne version:** dilute with chilled champagne / prosecco instead of sparkling water for a Swedish midsummer cocktail.
-**With St-Germain replacement use:** if you don't want to make from scratch, dilute St-Germain elderflower liqueur with sparkling water for a quick approximation (alcoholic).
-**Ginger-elderflower:** add a thumb of grated fresh ginger to the steep for warmth.
-**Rose-and-elderflower:** add a small handful of rose petals to the steep for an extra floral note.
-**Pasteurised long-keeping bottles:** heat sealed bottles in a 80°C water bath for 20 minutes to make them shelf-stable for a year.
-**Frozen as ice cubes:** freeze syrup in ice cube trays; drop a few cubes into prosecco for an instant cocktail.
+- **Champagne version:** dilute with chilled champagne / prosecco instead of sparkling water for a Swedish midsummer cocktail.
+- **With St-Germain replacement use:** if you don't want to make from scratch, dilute St-Germain elderflower liqueur with sparkling water for a quick approximation (alcoholic).
+- **Ginger-elderflower:** add a thumb of grated fresh ginger to the steep for warmth.
+- **Rose-and-elderflower:** add a small handful of rose petals to the steep for an extra floral note.
+- **Pasteurised long-keeping bottles:** heat sealed bottles in a 80°C water bath for 20 minutes to make them shelf-stable for a year.
+- **Frozen as ice cubes:** freeze syrup in ice cube trays; drop a few cubes into prosecco for an instant cocktail.
 
 ## Serving
-At Midsommar lunch in the Swedish countryside (the traditional Swedish midsummer drink) · at a Stockholm summer rooftop bar · at a Swedish summer-house weekend · at a Nordic-themed dinner party · at fika in June with cardamom buns.
+- At Midsommar lunch in the Swedish countryside (the traditional Swedish midsummer drink) · at a Stockholm summer rooftop bar · at a Swedish summer-house weekend · at a Nordic-themed dinner party · at fika in June with cardamom buns.
 
 ## Storage
 - Refrigerated cordial keeps 3-6 months sealed; 2 weeks once opened.

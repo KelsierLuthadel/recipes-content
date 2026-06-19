@@ -65,7 +65,7 @@ This is the gentle Cantonese-style stir-fry you cook for someone new to Chinese 
 - **Sesame oil finish:** Adds fragrant authenticity at the very end.
 
 ## Serving
-Serve with: Steamed white rice
+- Serve with: Steamed white rice
 
 ## Storage
 - Best served immediately for texture contrast

@@ -36,9 +36,9 @@ Chinese five-spice is the philosophical blend, built to cover all five tastes (s
 - **Ginger variant.** Add 1 teaspoon ground ginger after toasting for a slightly warmer regional version.
 
 ## Serving
-Use in: red-cooked pork belly, char siu marinade, roast duck rub, Chinese five-spice ribs, braised beef shank, soy-braised eggs, roasted vegetables, sweet baking with chocolate
-Typical ratio: 1/2 to 1 teaspoon per portion
-Application: rubbed onto meat before roasting, or stirred into marinades and braising liquids
+- Use in: red-cooked pork belly, char siu marinade, roast duck rub, Chinese five-spice ribs, braised beef shank, soy-braised eggs, roasted vegetables, sweet baking with chocolate
+- Typical ratio: 1/2 to 1 teaspoon per portion
+- Application: rubbed onto meat before roasting, or stirred into marinades and braising liquids
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

@@ -60,7 +60,7 @@ The Estonian rye cracker (näkileib in its Finnish-cousin form, leivake in some 
 - **Variations:** Sunflower seeds, fennel seeds, dried dill or a brush of beaten egg white before baking are all classic Estonian flourishes.
 
 ## Serving
-Serve in a bread basket with cold butter and a wedge of fresh cheese; or topped with smoked salmon, cream cheese and dill; or with a bowl of soup as the cracker on the side.
+- Serve in a bread basket with cold butter and a wedge of fresh cheese; or topped with smoked salmon, cream cheese and dill; or with a bowl of soup as the cracker on the side.
 
 ## Storage
 - Keeps 2 weeks at room temperature in an airtight tin

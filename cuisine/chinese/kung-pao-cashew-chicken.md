@@ -66,7 +66,7 @@ This is the modern Sichuan home cook's take on gongbao jiding, swapping the clas
 - **Dried chillies:** Infuse the oil with fragrance and heat without overwhelming tenderness of the chicken.
 
 ## Serving
-Serve with: Steamed white rice to balance the complex sauce
+- Serve with: Steamed white rice to balance the complex sauce
 
 ## Storage
 - Keeps 2-3 days refrigerated

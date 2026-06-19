@@ -88,16 +88,16 @@ Tortilla de papa (literally "potato tortilla"; tortilla española in Spain) arri
 - **Reserve the oil:** the potato-onion-infused olive oil is excellent for next time, or for vinaigrettes.
 
 ## Variations
-**Tortilla con chorizo:** add 100 g sliced Argentine chorizo to the potato mix.
-**Tortilla con jamón crudo:** add 100 g chopped jamón crudo (cured ham).
-**Tortilla con espinaca:** add 200 g wilted spinach to the egg mixture.
-**Tortilla con cebolla caramelizada:** caramelise the onions deeply for a sweeter variant.
-**Tortilla con pimiento (with red pepper):** add 1 sliced red bell pepper to the confit.
-**Sandwich de tortilla:** the Argentine office-lunch icon, slice the cold tortilla, place in a fresh roll with mayo and lettuce.
-**Mini tortillas:** make small individual tortillas in a frying pan or muffin tin, canapé portions.
+- **Tortilla con chorizo:** add 100 g sliced Argentine chorizo to the potato mix.
+- **Tortilla con jamón crudo:** add 100 g chopped jamón crudo (cured ham).
+- **Tortilla con espinaca:** add 200 g wilted spinach to the egg mixture.
+- **Tortilla con cebolla caramelizada:** caramelise the onions deeply for a sweeter variant.
+- **Tortilla con pimiento (with red pepper):** add 1 sliced red bell pepper to the confit.
+- **Sandwich de tortilla:** the Argentine office-lunch icon, slice the cold tortilla, place in a fresh roll with mayo and lettuce.
+- **Mini tortillas:** make small individual tortillas in a frying pan or muffin tin, canapé portions.
 
 ## Serving
-At an Argentine bodegón as a tapa starter (the traditional setting) · alongside an asado as a side · split into a roll for "sandwich de tortilla" (the office-lunch staple) · at an Argentine wedding canapé reception · with a glass of Malbec at a Buenos Aires café · at home as a quick weekday supper with a green salad.
+- At an Argentine bodegón as a tapa starter (the traditional setting) · alongside an asado as a side · split into a roll for "sandwich de tortilla" (the office-lunch staple) · at an Argentine wedding canapé reception · with a glass of Malbec at a Buenos Aires café · at home as a quick weekday supper with a green salad.
 
 ## Storage
 - Refrigerates 3 days; eat cold or reheat briefly in a hot pan.

@@ -61,7 +61,7 @@ Bhortas (or bhartas) are one of the foundational Bangladeshi side categories: an
 - **With nigella seeds:** add 1 tsp dry-roasted kalo jeera for a Dhaka-style twist.
 
 ## Serving
-A heaped spoonful next to plain rice and a thin dal · slit chilli · lime wedge
+- A heaped spoonful next to plain rice and a thin dal · slit chilli · lime wedge
 
 ## Storage
 - Eats best the day it is made

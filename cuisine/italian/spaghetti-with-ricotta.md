@@ -62,13 +62,13 @@ Spaghetti with ricotta is the pasta in its most elegant minimalist form, fresh r
 - **Hot Water Purpose:** The hot water loosens the ricotta into a sauce without requiring cream; it's essential for proper consistency.
 
 ## Variations
-**With Raisins:** Add 3 tablespoons softened raisins to the ricotta mixture for sweetness.
-**Extra Herb:** Add 2 tablespoons fresh mint along with the basil for a brighter note.
-**Without Sun-Dried Tomatoes:** Substitute fresh cherry tomatoes halved, though flavor intensity decreases.
+- **With Raisins:** Add 3 tablespoons softened raisins to the ricotta mixture for sweetness.
+- **Extra Herb:** Add 2 tablespoons fresh mint along with the basil for a brighter note.
+- **Without Sun-Dried Tomatoes:** Substitute fresh cherry tomatoes halved, though flavor intensity decreases.
 
 ## Serving
-Serve with: Crusty warm bread, chilled white wine (Pinot Grigio or Vermentino)
-Garnish with: Fresh basil leaves, extra black pepper, grated Parmesan (optional)
+- Serve with: Crusty warm bread, chilled white wine (Pinot Grigio or Vermentino)
+- Garnish with: Fresh basil leaves, extra black pepper, grated Parmesan (optional)
 
 ## Storage
 - This dish is best served immediately while pasta is still warm

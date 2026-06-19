@@ -65,14 +65,14 @@ Chan is the Costa Rican refresco built around chan seeds (also called albahaca s
 - **Sugar to taste:** Costa Rican sodas serve chan with quite a bit of sugar (it balances the lime). Adjust down 20% if your limes are mild.
 
 ## Variations
-**Chan con tamarindo:** add 60 ml tamarind syrup or 4 tablespoons tamarind paste mixed with hot water; the most common Costa Rican variant.
-**Chan con leche:** swap half the water for cold milk; a coastal Caribbean variation.
-**Chan with mora syrup:** add 60 ml blackberry (mora) syrup; cloud-forest version with the tart mountain berry.
-**No-sugar chan:** sweeten with 60 ml agave syrup or with stevia drops.
-**Boozy chan:** add a 50 ml shot of Guaro Cacique to each glass (the adult after-beach version).
+- **Chan con tamarindo:** add 60 ml tamarind syrup or 4 tablespoons tamarind paste mixed with hot water; the most common Costa Rican variant.
+- **Chan con leche:** swap half the water for cold milk; a coastal Caribbean variation.
+- **Chan with mora syrup:** add 60 ml blackberry (mora) syrup; cloud-forest version with the tart mountain berry.
+- **No-sugar chan:** sweeten with 60 ml agave syrup or with stevia drops.
+- **Boozy chan:** add a 50 ml shot of Guaro Cacique to each glass (the adult after-beach version).
 
 ## Serving
-At a Costa Rican soda (the everyday lunch counter, the natural setting) · alongside a casado plate · on the porch on a hot Pacific-coast afternoon · for breakfast after gallo pinto · as a pregnancy-friendly cooler (no alcohol, no caffeine) · for kids at a Tica family lunch.
+- At a Costa Rican soda (the everyday lunch counter, the natural setting) · alongside a casado plate · on the porch on a hot Pacific-coast afternoon · for breakfast after gallo pinto · as a pregnancy-friendly cooler (no alcohol, no caffeine) · for kids at a Tica family lunch.
 
 ## Storage
 - Refrigerates 24 hours in a sealed jug; the seeds soften further but the drink stays bright.

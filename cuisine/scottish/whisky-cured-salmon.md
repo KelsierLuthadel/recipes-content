@@ -113,15 +113,15 @@ Scottish salmon, farmed in cold sea-lochs on the west and north coasts or wild-c
 - **Hot-smoked Scottish salmon flakes:** if hot-smoking, the salmon flakes rather than slices; flake into chunks and serve flake-style.
 
 ## Variations
-**Beetroot-cured:** add 300 g grated raw beetroot to the cure for stunning pink/purple colour and earthy sweetness.
-**Gin-and-juniper instead of whisky:** swap the whisky for Scottish gin (Hendrick's, Edinburgh Gin) + extra juniper berries.
-**Heather-honey-cured:** swap half the sugar for Scottish heather honey, sweeter, more floral.
-**Whisky-cure-then-hot-smoke combo:** do the full cure, dry, then hot-smoke (best of both, firm-cured AND smoke-finished).
-**Citrus-heavy:** add orange zest + lime zest to the cure for a citrus-bright version.
-**Vodka-cured (Scandinavian):** swap whisky for vodka, closer to traditional gravlax.
+- **Beetroot-cured:** add 300 g grated raw beetroot to the cure for stunning pink/purple colour and earthy sweetness.
+- **Gin-and-juniper instead of whisky:** swap the whisky for Scottish gin (Hendrick's, Edinburgh Gin) + extra juniper berries.
+- **Heather-honey-cured:** swap half the sugar for Scottish heather honey, sweeter, more floral.
+- **Whisky-cure-then-hot-smoke combo:** do the full cure, dry, then hot-smoke (best of both, firm-cured AND smoke-finished).
+- **Citrus-heavy:** add orange zest + lime zest to the cure for a citrus-bright version.
+- **Vodka-cured (Scandinavian):** swap whisky for vodka, closer to traditional gravlax.
 
 ## Serving
-At a Hogmanay buffet (the traditional setting) · on Christmas morning with blinis and champagne · at a Scottish wedding breakfast · at a Burns Night supper as a starter · at any Scottish gastropub on Easter Sunday · on the breakfast trolley at a Highland hotel · at home for a New Year's Day brunch.
+- At a Hogmanay buffet (the traditional setting) · on Christmas morning with blinis and champagne · at a Scottish wedding breakfast · at a Burns Night supper as a starter · at any Scottish gastropub on Easter Sunday · on the breakfast trolley at a Highland hotel · at home for a New Year's Day brunch.
 
 ## Storage
 - Cured salmon (cold) refrigerates 5-7 days wrapped tightly.

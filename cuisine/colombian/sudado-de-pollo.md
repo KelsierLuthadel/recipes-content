@@ -114,13 +114,13 @@ Sudado de pollo means "sweated chicken", slow-cooked in its own juices. Colombia
 - **Don't lift the lid much:** the steam needs to do the cooking.
 
 ## Variations
-**With ñame (Colombian yam):** add 200 g of ñame instead of yuca; common variation.
-**Spicier:** add 1 chopped fresh chilli to the base.
-**With sliced sausage:** add 100 g of sliced chorizo to the base for a richer version.
-**Chicken-and-beef sudado:** combine chicken with 300 g of beef chuck; cook 90 minutes total.
+- **With ñame (Colombian yam):** add 200 g of ñame instead of yuca; common variation.
+- **Spicier:** add 1 chopped fresh chilli to the base.
+- **With sliced sausage:** add 100 g of sliced chorizo to the base for a richer version.
+- **Chicken-and-beef sudado:** combine chicken with 300 g of beef chuck; cook 90 minutes total.
 
 ## Serving
-Over white rice with maduros, avocado, arepas. Drink: Club Colombia beer, agua de panela (panela water), or fresh limonada.
+- Over white rice with maduros, avocado, arepas. Drink: Club Colombia beer, agua de panela (panela water), or fresh limonada.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens overnight.

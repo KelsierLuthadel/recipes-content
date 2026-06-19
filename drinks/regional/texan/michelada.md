@@ -62,7 +62,7 @@ Regional Tex-Mex bars often have a signature michelada that builds on this base;
 - **Spicy michelada:** muddle a few slices of jalapeño with the lime juice in stage 2. Adds a fresh green-pepper heat alongside the bottled hot sauce.
 
 ## Serving
-A michelada is a daytime drink. Pair with anything Tex-Mex (tacos, queso, fajitas, nachos), or any spicy food generally. The cocktail's low alcohol and long-drink character means it lasts; a single bottle of beer in the glass gives a 30-45 minute cocktail.
+- A michelada is a daytime drink. Pair with anything Tex-Mex (tacos, queso, fajitas, nachos), or any spicy food generally. The cocktail's low alcohol and long-drink character means it lasts; a single bottle of beer in the glass gives a 30-45 minute cocktail.
 
 ## Storage
 Build to order. The flavoured mix at the bottom of the glass (lime, Worcestershire, hot sauce) can be prepped in advance and held briefly, but the beer must be opened and poured fresh; the cocktail loses its character as it goes flat.

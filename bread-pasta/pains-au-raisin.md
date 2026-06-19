@@ -70,17 +70,17 @@ Pains aux raisins are the building block of the French breakfast pastry counter:
 - **Spiral Formation:** The spiral happens naturally during proofing as the pastry rises around the filled center.
 
 ## Variations
-**With Custard Only:** Omit the sultanas and use custard cream throughout for a simpler version.
-**Chocolate & Raisin:** Add chocolate chips alongside the sultanas.
-**Spiced Raisins:** Infuse the soaking liquid with cinnamon sticks and star anise.
-**With Pistachios:** Scatter chopped pistachios over the cream before rolling.
-**Alternative Spirits:** Use Grand Marnier, cognac, or coffee liqueur instead of rum.
+- **With Custard Only:** Omit the sultanas and use custard cream throughout for a simpler version.
+- **Chocolate & Raisin:** Add chocolate chips alongside the sultanas.
+- **Spiced Raisins:** Infuse the soaking liquid with cinnamon sticks and star anise.
+- **With Pistachios:** Scatter chopped pistachios over the cream before rolling.
+- **Alternative Spirits:** Use Grand Marnier, cognac, or coffee liqueur instead of rum.
 
 ## Serving
-Serve with: Hot chocolate, strong coffee, or tea
-Temperature: Serve warm or at room temperature
-Amount: 1-2 pastries per person
-Accompaniments: Jam, pastry cream, or unsweetened crème fraîche
+- Serve with: Hot chocolate, strong coffee, or tea
+- Temperature: Serve warm or at room temperature
+- Amount: 1-2 pastries per person
+- Accompaniments: Jam, pastry cream, or unsweetened crème fraîche
 
 ## Storage
 - Best served warm on the day of baking

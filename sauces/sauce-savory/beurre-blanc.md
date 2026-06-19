@@ -43,7 +43,7 @@ Beurre blanc is the building block for the classic French butter sauce that pair
 - **Never boil:** Once butter is incorporated, do not allow sauce to boil or emulsion will break.
 
 ## Serving
-Serve immediately with poached fish, steamed fish, delicate white fish fillets, and shellfish. Classic pairing for sole, turbot, and halibut.
+- Serve immediately with poached fish, steamed fish, delicate white fish fillets, and shellfish. Classic pairing for sole, turbot, and halibut.
 
 ## Storage
 - Best eaten immediately after preparation.

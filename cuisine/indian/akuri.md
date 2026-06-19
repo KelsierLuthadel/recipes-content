@@ -41,9 +41,9 @@ The Parsi breakfast classic: silky scrambled eggs cooked low and slow in butter 
 - **Fresh herbs:** Coriander is essential for authentic flavor, dried coriander cannot substitute.
 
 ## Serving
-Serve with: Toast, warm bread, or crackers
-Garnish with: Fresh coriander leaves and thin red chilli slices
-Accompaniment: A dollop of crème fraîche and fresh lime wedge
+- Serve with: Toast, warm bread, or crackers
+- Garnish with: Fresh coriander leaves and thin red chilli slices
+- Accompaniment: A dollop of crème fraîche and fresh lime wedge
 
 ## Storage
 - Best served immediately while still warm

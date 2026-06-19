@@ -45,9 +45,9 @@ This is the Christmas-table stuffing for a dinner that wants to read a little ri
 - Fry the chorizo slices before encasing them in the stuffing balls so they release some of their fat and develop colour, adding depth to the finished balls.
 
 ## Serving
-Serve with: roasted chicken, poussin, or turkey; pairs well with gravy, roasted vegetables, and bread sauce
-Temperature: hot, straight from the oven
-Amount: 2-3 stuffing balls per person alongside the carved bird
+- Serve with: roasted chicken, poussin, or turkey; pairs well with gravy, roasted vegetables, and bread sauce
+- Temperature: hot, straight from the oven
+- Amount: 2-3 stuffing balls per person alongside the carved bird
 
 ## Storage
 - Uncooked stuffing mix can be refrigerated for up to 24 hours before shaping and cooking.

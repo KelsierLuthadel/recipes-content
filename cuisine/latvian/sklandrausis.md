@@ -92,7 +92,7 @@ Sklandrausis (also called sklandu rausis or sklandiņš) is the only Latvian dis
 - **Pumpkin top:** Some northern variants use mashed pumpkin instead of carrot.
 
 ## Serving
-Eat at room temperature with a glass of cold milk, kefir, or strong tea. The tart sits between snack and dessert; not breakfast, not a main, but the right thing with a cup at four in the afternoon.
+- Eat at room temperature with a glass of cold milk, kefir, or strong tea. The tart sits between snack and dessert; not breakfast, not a main, but the right thing with a cup at four in the afternoon.
 
 ## Storage
 - Keeps 3 days at room temperature in a tin lined with paper; 5 days refrigerated.

@@ -82,15 +82,15 @@ Haggis, neeps and tatties is Scotland's national dish and the absolute centrepie
 - **The Address:** Burns's 1786 poem in eight stanzas. The host reads it; the dirk is plunged at the appropriate line. Print it out; don't try to memorise on the night.
 
 ## Variations
-**Vegetarian haggis:** Macsween's vegetarian version (oats, lentils, mushrooms, vegetables, spices): the dish loses nothing.
-**Highland version:** add a tablespoon of whisky directly into the neeps mash and into the tatties.
-**Modern haggis bonbons:** make small balls of cooked haggis, coat in breadcrumbs, deep-fry, a modern Burns Night canapé.
-**Haggis with bashed neeps:** mash the swede less smoothly (deliberately chunky): the rustic version.
-**Whisky cream sauce:** swap the dram pour-over for a whisky-and-cream sauce drizzled over the haggis (modern restaurant version).
-**Haggis stuffed chicken:** stuff a chicken breast with cooked haggis, wrap in bacon, roast, the "Highland chicken" dish.
+- **Vegetarian haggis:** Macsween's vegetarian version (oats, lentils, mushrooms, vegetables, spices): the dish loses nothing.
+- **Highland version:** add a tablespoon of whisky directly into the neeps mash and into the tatties.
+- **Modern haggis bonbons:** make small balls of cooked haggis, coat in breadcrumbs, deep-fry, a modern Burns Night canapé.
+- **Haggis with bashed neeps:** mash the swede less smoothly (deliberately chunky): the rustic version.
+- **Whisky cream sauce:** swap the dram pour-over for a whisky-and-cream sauce drizzled over the haggis (modern restaurant version).
+- **Haggis stuffed chicken:** stuff a chicken breast with cooked haggis, wrap in bacon, roast, the "Highland chicken" dish.
 
 ## Serving
-On Burns Night (25 January) as the centrepiece of the supper · on Saint Andrew's Day (30 November) · at Hogmanay (New Year's Eve) and the days after · at a Scottish wedding luncheon · at any Scottish family Sunday lunch in winter · in any Scottish gastropub from October to March.
+- On Burns Night (25 January) as the centrepiece of the supper · on Saint Andrew's Day (30 November) · at Hogmanay (New Year's Eve) and the days after · at a Scottish wedding luncheon · at any Scottish family Sunday lunch in winter · in any Scottish gastropub from October to March.
 
 ## Storage
 - Cooked haggis refrigerates 3 days; reheat by gentle simmering (10 minutes) or microwave (use the original casing or wrap in cling film).

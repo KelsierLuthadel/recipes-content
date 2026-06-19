@@ -90,16 +90,16 @@ Moules-frites is Belgium's most famous restaurant dish and a year-round staple f
 - **Don't try to wash the pot mid-cook:** the broth and the juice from the mussels are what makes the dish.
 
 ## Variations
-**Moules à la crème:** add 100 ml double cream to the broth in stage 5, the Brussels variant.
-**Moules à la bière (Belgian beer):** swap the white wine for a Belgian witbier (Hoegaarden): sweeter, more fragrant.
-**Moules à l'ail (garlic):** double the garlic and add a teaspoon of finely chopped chilli.
-**Moules au curry (Belgian):** add 1 teaspoon of curry powder to the shallots in stage 2, the Brussels-Indian fusion version.
-**Moules au Roquefort:** crumble 80 g Roquefort cheese into the broth in stage 5, blue-cheese variant.
-**Moules à la provençale:** add a tin of chopped tomatoes and a pinch of Espelette pepper, the southern French take.
-**Moules nature:** no broth; just the mussels steamed in their own juice with butter and parsley.
+- **Moules à la crème:** add 100 ml double cream to the broth in stage 5, the Brussels variant.
+- **Moules à la bière (Belgian beer):** swap the white wine for a Belgian witbier (Hoegaarden): sweeter, more fragrant.
+- **Moules à l'ail (garlic):** double the garlic and add a teaspoon of finely chopped chilli.
+- **Moules au curry (Belgian):** add 1 teaspoon of curry powder to the shallots in stage 2, the Brussels-Indian fusion version.
+- **Moules au Roquefort:** crumble 80 g Roquefort cheese into the broth in stage 5, blue-cheese variant.
+- **Moules à la provençale:** add a tin of chopped tomatoes and a pinch of Espelette pepper, the southern French take.
+- **Moules nature:** no broth; just the mussels steamed in their own juice with butter and parsley.
 
 ## Serving
-At a Brussels brasserie or Belgian seaside café in Ostend or Knokke (the traditional setting) · at a Belgian summer terrace lunch · at a French-Belgian crossover brasserie · at a moules-frites festival (Bruges has an annual one) · at a Belgian Father's Day dinner · at home with a chilled Hoegaarden and a paper cone of frites.
+- At a Brussels brasserie or Belgian seaside café in Ostend or Knokke (the traditional setting) · at a Belgian summer terrace lunch · at a French-Belgian crossover brasserie · at a moules-frites festival (Bruges has an annual one) · at a Belgian Father's Day dinner · at home with a chilled Hoegaarden and a paper cone of frites.
 
 ## Storage
 - Cooked mussels do not keep, eat them within 30 minutes of cooking.

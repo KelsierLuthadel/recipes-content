@@ -89,17 +89,17 @@ Beijinhos (literally "little kisses"; the name reflects the truffles' small bite
 - **Brigadeiros and beijinhos together:** always paired. A Brazilian party dessert tray ALWAYS has both.
 
 ## Variations
-**Beijinho com chocolate (with chocolate):** add 50 g of white chocolate to the mixture for extra richness.
-**Beijinho de coco fresco (fresh coconut):** use fresh grated coconut (with some moisture squeezed out) instead of desiccated.
-**Beijinho de coco queimado (toasted coconut):** roll in lightly toasted coconut for a more intense coconut flavour.
-**Beijinho de Bahia (Bahian variant):** add a tablespoon of cachaça to the cooking mixture for an adult touch.
-**Beijinho com leite de coco (with coconut milk):** swap 50 ml of the condensed milk for full-fat coconut milk for extra coconut depth.
-**Beijinho de cardamomo (cardamom variant):** add ½ teaspoon ground cardamom to the cooking mixture. Persian-Brazilian crossover.
-**Beijinho gelado (frozen):** freeze for 30 minutes after rolling for a firmer texture, modern dessert-bar variant.
-**Beijinho com nozes (with walnuts):** roll the truffles in finely chopped walnuts mixed with coconut.
+- **Beijinho com chocolate (with chocolate):** add 50 g of white chocolate to the mixture for extra richness.
+- **Beijinho de coco fresco (fresh coconut):** use fresh grated coconut (with some moisture squeezed out) instead of desiccated.
+- **Beijinho de coco queimado (toasted coconut):** roll in lightly toasted coconut for a more intense coconut flavour.
+- **Beijinho de Bahia (Bahian variant):** add a tablespoon of cachaça to the cooking mixture for an adult touch.
+- **Beijinho com leite de coco (with coconut milk):** swap 50 ml of the condensed milk for full-fat coconut milk for extra coconut depth.
+- **Beijinho de cardamomo (cardamom variant):** add ½ teaspoon ground cardamom to the cooking mixture. Persian-Brazilian crossover.
+- **Beijinho gelado (frozen):** freeze for 30 minutes after rolling for a firmer texture, modern dessert-bar variant.
+- **Beijinho com nozes (with walnuts):** roll the truffles in finely chopped walnuts mixed with coconut.
 
 ## Serving
-At every Brazilian birthday party alongside brigadeiros (the traditional pairing) · at a Brazilian wedding's dessert table · at a Brazilian baby shower · at a Brazilian friends gathering · at a Brazilian Christmas table · at a Brazilian school bake-sale · at home as a sweet weekend treat · alongside Brazilian coffee.
+- At every Brazilian birthday party alongside brigadeiros (the traditional pairing) · at a Brazilian wedding's dessert table · at a Brazilian baby shower · at a Brazilian friends gathering · at a Brazilian Christmas table · at a Brazilian school bake-sale · at home as a sweet weekend treat · alongside Brazilian coffee.
 
 ## Storage
 - Refrigerates 1 week in a sealed container.

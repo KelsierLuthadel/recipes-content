@@ -63,13 +63,13 @@ Salsa de aguacate is one of Mexico's most beloved creamy salsas, sitting delicio
 - **Thick or thin to taste:** adjust water for consistency.
 
 ## Variations
-**Spicier:** double the chillies.
-**With sour cream:** add 100 ml of crema; gives a creamier richer version.
-**Cilantro-heavy:** double the coriander; gives a herbier brighter version.
-**Roasted version:** char the tomatillos and chillies first; gives smoky depth.
+- **Spicier:** double the chillies.
+- **With sour cream:** add 100 ml of crema; gives a creamier richer version.
+- **Cilantro-heavy:** double the coriander; gives a herbier brighter version.
+- **Roasted version:** char the tomatillos and chillies first; gives smoky depth.
 
 ## Serving
-Drizzle on tacos, eggs, beans, rice; dip with chips; spoon over grilled meats.
+- Drizzle on tacos, eggs, beans, rice; dip with chips; spoon over grilled meats.
 
 ## Storage
 - Keeps refrigerated 1 day; oxidises after that.

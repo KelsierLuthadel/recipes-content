@@ -120,16 +120,16 @@ Clootie dumpling is one of Scotland's most ancient and most distinctively Scotti
 - **The sixpence is traditional:** wrap it in greaseproof paper (so it doesn't taste of metal); warn your guests so they don't crack a tooth.
 
 ## Variations
-**Whisky clootie:** soak the fruit in 100 ml single-malt Scotch overnight (the boozy version).
-**Lighter clootie:** swap half the suet for grated butter, slightly lighter but less traditional.
-**Vegetarian clootie:** use vegetable suet (widely available): identical result.
-**With grated chocolate:** stir 50 g grated dark chocolate into the dough, modern variant.
-**Pressure-cooker version:** steam in a pressure cooker for 1.5 hours instead of 3, saves time but loses the classic skin.
-**Mini clooties:** make 8-10 small dumplings in individual cloths, bake-sale-friendly portions.
-**Christmas pudding clootie:** add 100 g chopped glacé cherries and an extra tablespoon of mixed spice, Christmas variant.
+- **Whisky clootie:** soak the fruit in 100 ml single-malt Scotch overnight (the boozy version).
+- **Lighter clootie:** swap half the suet for grated butter, slightly lighter but less traditional.
+- **Vegetarian clootie:** use vegetable suet (widely available): identical result.
+- **With grated chocolate:** stir 50 g grated dark chocolate into the dough, modern variant.
+- **Pressure-cooker version:** steam in a pressure cooker for 1.5 hours instead of 3, saves time but loses the classic skin.
+- **Mini clooties:** make 8-10 small dumplings in individual cloths, bake-sale-friendly portions.
+- **Christmas pudding clootie:** add 100 g chopped glacé cherries and an extra tablespoon of mixed spice, Christmas variant.
 
 ## Serving
-At Christmas Day dinner (in many Scottish homes, instead of plum pudding) · at Hogmanay supper · at Burns Night for those who want a heavier dessert than cranachan · at any Scottish birthday tea · at a Scottish christening or wedding reception · at home on a Sunday in winter with custard and a dram.
+- At Christmas Day dinner (in many Scottish homes, instead of plum pudding) · at Hogmanay supper · at Burns Night for those who want a heavier dessert than cranachan · at any Scottish birthday tea · at a Scottish christening or wedding reception · at home on a Sunday in winter with custard and a dram.
 
 ## Storage
 - Refrigerates 1 week (well-wrapped).

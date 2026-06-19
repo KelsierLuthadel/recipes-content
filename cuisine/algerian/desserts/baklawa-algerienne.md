@@ -73,7 +73,7 @@ Baklawa is the Ottoman legacy on the Algerian sweet table, brought through Algie
 - **Almonds, not walnuts.** Algerian baklawa uses almonds. Walnut versions exist in Turkish and Levantine baklava but are not the Algiers tradition.
 
 ## Serving
-Serve in small diamonds at the end of a meal, at Ramadan iftars, at weddings or Aid feasts, paired with hot mint tea or strong qahwa. One or two pieces per person; this is a rich, slow sweet.
+- Serve in small diamonds at the end of a meal, at Ramadan iftars, at weddings or Aid feasts, paired with hot mint tea or strong qahwa. One or two pieces per person; this is a rich, slow sweet.
 
 ## Storage
 - Keeps 1 week in a sealed tin at room temperature; the layers stay crisp under the syrup

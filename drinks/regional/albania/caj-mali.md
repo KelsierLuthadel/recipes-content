@@ -53,7 +53,7 @@
 - **With ginger:** Add 3 thin slices fresh ginger for a winter sore-throat brew.
 
 ## Serving
-As the digestive after dinner · in the evening before bed · for a winter cold with extra honey and lemon · with bakllava or trileçe · cold from the fridge in summer · as the everyday afternoon cup of an Albanian household.
+- As the digestive after dinner · in the evening before bed · for a winter cold with extra honey and lemon · with bakllava or trileçe · cold from the fridge in summer · as the everyday afternoon cup of an Albanian household.
 
 ## Storage
 - Dried sideritis keeps 2 years in an airtight tin in a cool dark place.

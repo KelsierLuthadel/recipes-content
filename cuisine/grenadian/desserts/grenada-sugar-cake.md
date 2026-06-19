@@ -66,14 +66,14 @@ Sugar cake is the Caribbean's everyday coconut sweet, sold at every Grenadian sc
 - **Wet spoon:** stops the sticky mixture clinging.
 
 ## Variations
-**Plain (no pink):** drop white mounds straight onto the paper, no second layer.
-**With raisins:** stir 80 g raisins into the white mixture before shaping.
-**With chopped almonds:** scatter chopped roasted almonds over the pink layer before it sets.
-**Ginger-heavy:** double the ginger coins and add 0.5 tsp ground ginger to the coconut.
-**Coconut and lime sugar cake:** add 1 tsp finely grated lime zest to the white mixture.
+- **Plain (no pink):** drop white mounds straight onto the paper, no second layer.
+- **With raisins:** stir 80 g raisins into the white mixture before shaping.
+- **With chopped almonds:** scatter chopped roasted almonds over the pink layer before it sets.
+- **Ginger-heavy:** double the ginger coins and add 0.5 tsp ground ginger to the coconut.
+- **Coconut and lime sugar cake:** add 1 tsp finely grated lime zest to the white mixture.
 
 ## Serving
-At a Grenadian school fete · with afternoon tea · wrapped as a gift · on the side of a strong black coffee · with vanilla ice cream for a richer dessert.
+- At a Grenadian school fete · with afternoon tea · wrapped as a gift · on the side of a strong black coffee · with vanilla ice cream for a richer dessert.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature.

@@ -102,14 +102,14 @@ Kanelbullar (literally "cinnamon buns") are Sweden's most iconic baked good and 
 - **Eat warm with coffee:** the fika ritual. Don't eat alone.
 
 ## Variations
-**Kardemummabullar (cardamom buns):** swap the cinnamon filling for an all-cardamom filling. Equally traditional and arguably even more Swedish.
-**Saffron buns (lussekatter):** at Christmas, swap to a saffron-yellow dough with raisin eyes; the Sankta Lucia Day specialty.
-**Vegan version:** swap milk for oat milk, egg for flax egg, butter for vegan butter.
-**With cream cheese frosting:** less traditional, more modern (American influence): drizzle a cream-cheese frosting over after baking.
-**Smaller mini cocktail version:** half-size buns for a fika spread or canapé.
+- **Kardemummabullar (cardamom buns):** swap the cinnamon filling for an all-cardamom filling. Equally traditional and arguably even more Swedish.
+- **Saffron buns (lussekatter):** at Christmas, swap to a saffron-yellow dough with raisin eyes; the Sankta Lucia Day specialty.
+- **Vegan version:** swap milk for oat milk, egg for flax egg, butter for vegan butter.
+- **With cream cheese frosting:** less traditional, more modern (American influence): drizzle a cream-cheese frosting over after baking.
+- **Smaller mini cocktail version:** half-size buns for a fika spread or canapé.
 
 ## Serving
-At every Swedish coffee shop (the traditional Kafferosteriet, Vete-Katten in Stockholm, Espresso House) · at home for the daily fika · at a Christmas julbord on the sweet side · with a strong coffee mid-afternoon · on Kanelbullens dag (Cinnamon Bun Day, October 4th) when Swedes eat them in defiance of normal portion size.
+- At every Swedish coffee shop (the traditional Kafferosteriet, Vete-Katten in Stockholm, Espresso House) · at home for the daily fika · at a Christmas julbord on the sweet side · with a strong coffee mid-afternoon · on Kanelbullens dag (Cinnamon Bun Day, October 4th) when Swedes eat them in defiance of normal portion size.
 
 ## Storage
 - Best fresh on the day they're baked.

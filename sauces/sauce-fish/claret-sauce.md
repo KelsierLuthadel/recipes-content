@@ -50,7 +50,7 @@ Claret sauce is the building block for the deep-red wine sauce that pairs with p
 - **Butter mounting:** Do not boil after butter is added; maintain low heat to keep emulsion smooth.
 
 ## Serving
-Serve immediately with pan-fried salmon, red mullet, tuna, or other pink-fleshed fish. Plate fish atop sauce for elegant presentation.
+- Serve immediately with pan-fried salmon, red mullet, tuna, or other pink-fleshed fish. Plate fish atop sauce for elegant presentation.
 
 ## Storage
 - Best eaten immediately after preparation.

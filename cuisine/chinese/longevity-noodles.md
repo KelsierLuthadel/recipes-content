@@ -57,7 +57,7 @@ Yi mein are the long, slightly chewy Cantonese egg noodles served at birthdays a
 - A handful of julienned roast pork (char siu) or shredded poached chicken folded in at the same stage as the chives turns this into a one-bowl meal.
 
 ## Serving
-Mounded onto a wide platter at the centre of the table, so everyone reaches in with chopsticks. Best with a steamed whole fish nearby and a small bowl of pickled garlic on the side.
+- Mounded onto a wide platter at the centre of the table, so everyone reaches in with chopsticks. Best with a steamed whole fish nearby and a small bowl of pickled garlic on the side.
 
 ## Storage
 Best eaten immediately; the noodles go gummy if refrigerated. Halve the recipe rather than save leftovers.

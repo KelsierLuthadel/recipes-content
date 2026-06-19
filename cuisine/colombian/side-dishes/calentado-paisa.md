@@ -88,13 +88,13 @@ Calentado paisa is the Antioqueño breakfast hash that turns last night's leftov
 - **Hogao for proper flavour:** don't skip.
 
 ## Variations
-**Carne calentado (with leftover beef):** add 200 g of chopped leftover beef (sobrebarriga or steak) along with the rice; gives a more substantial hash.
-**Vegetarian:** skip the sausage; use vegetable hogao; double the beans.
-**With cheese:** crumble 100 g of queso fresco on top before serving; melts slightly.
-**With patacones:** crush a few patacones and toss through; gives extra crunch.
+- **Carne calentado (with leftover beef):** add 200 g of chopped leftover beef (sobrebarriga or steak) along with the rice; gives a more substantial hash.
+- **Vegetarian:** skip the sausage; use vegetable hogao; double the beans.
+- **With cheese:** crumble 100 g of queso fresco on top before serving; melts slightly.
+- **With patacones:** crush a few patacones and toss through; gives extra crunch.
 
 ## Serving
-On wide plates with the egg on top, arepa, avocado, ají on the side. Drink: tinto (Colombian black coffee), café con leche, or hot chocolate. Sunday breakfast or hangover cure.
+- On wide plates with the egg on top, arepa, avocado, ají on the side. Drink: tinto (Colombian black coffee), café con leche, or hot chocolate. Sunday breakfast or hangover cure.
 
 ## Storage
 - Best eaten immediately.

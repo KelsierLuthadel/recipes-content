@@ -122,13 +122,13 @@ Mondongo is one of Colombia's most beloved soup-stews and the traditional Antioq
 - **Make a day ahead:** mondongo is famously better the next day. Make ahead and reheat.
 
 ## Variations
-**Without tripe (vegetarian-friendlier):** swap the tripe for double the beef ribs and 200 g of mushrooms; less traditional but accessible.
-**Antioqueño-style with pig's feet:** add 2 pig's feet to the meat in stage 2; gives an even richer broth.
-**Spicier:** add 2 chopped fresh chillies to the base; properly paisa.
-**Without yuca:** skip the cassava; use extra potatoes; common variation.
+- **Without tripe (vegetarian-friendlier):** swap the tripe for double the beef ribs and 200 g of mushrooms; less traditional but accessible.
+- **Antioqueño-style with pig's feet:** add 2 pig's feet to the meat in stage 2; gives an even richer broth.
+- **Spicier:** add 2 chopped fresh chillies to the base; properly paisa.
+- **Without yuca:** skip the cassava; use extra potatoes; common variation.
 
 ## Serving
-In deep bowls at the centre of a Sunday family table. White rice, arepa, avocado, banana, lime, ají. Drink: Club Colombia beer, agua de panela (panela water), or aguardiente. As a Sunday lunch or the traditional hangover cure on a Sunday morning.
+- In deep bowls at the centre of a Sunday family table. White rice, arepa, avocado, banana, lime, ají. Drink: Club Colombia beer, agua de panela (panela water), or aguardiente. As a Sunday lunch or the traditional hangover cure on a Sunday morning.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens significantly overnight.

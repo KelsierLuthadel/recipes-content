@@ -90,13 +90,13 @@ Crawfish pie is one of Louisiana's most iconic Cajun home dishes (famously immor
 - **Cool filling slightly before assembly.**
 
 ## Variations
-**Individual pies:** make 8 small ones.
-**With shrimp:** swap crawfish for shrimp.
-**Spicier:** double cayenne + extra hot sauce.
-**Without top crust:** open-faced pie.
+- **Individual pies:** make 8 small ones.
+- **With shrimp:** swap crawfish for shrimp.
+- **Spicier:** double cayenne + extra hot sauce.
+- **Without top crust:** open-faced pie.
 
 ## Serving
-With cole slaw, French bread. Cold beer.
+- With cole slaw, French bread. Cold beer.
 
 ## Storage
 - Best fresh.

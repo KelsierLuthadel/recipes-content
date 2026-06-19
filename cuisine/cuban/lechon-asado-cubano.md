@@ -116,13 +116,13 @@ Lechón asado is Cuba's national celebration roast: the Nochebuena (Christmas Ev
 - **Rest before carving:** 20 minutes is essential. The juices redistribute.
 
 ## Variations
-**Caja china (the proper Cuban pit roast):** for a whole pig roast over coals in a metal-lined wooden box (caja china); takes 4-5 hours; properly authentic Cuban Nochebuena. Specialist equipment required.
-**With pineapple:** add sliced pineapple to the roasting tin in the last hour; gives a sweet-tart counterpoint.
-**Smaller version (8 person picnic shoulder portion):** use 1.8 kg shoulder; reduce cooking to 3 hours + 25 minutes high heat.
-**With achiote:** add 1 tablespoon of achiote/annatto powder to the marinade; gives a more orange-red colour and a slightly different flavour profile.
+- **Caja china (the proper Cuban pit roast):** for a whole pig roast over coals in a metal-lined wooden box (caja china); takes 4-5 hours; properly authentic Cuban Nochebuena. Specialist equipment required.
+- **With pineapple:** add sliced pineapple to the roasting tin in the last hour; gives a sweet-tart counterpoint.
+- **Smaller version (8 person picnic shoulder portion):** use 1.8 kg shoulder; reduce cooking to 3 hours + 25 minutes high heat.
+- **With achiote:** add 1 tablespoon of achiote/annatto powder to the marinade; gives a more orange-red colour and a slightly different flavour profile.
 
 ## Serving
-On a wooden board at the centre of the Nochebuena table. With black beans, rice (or moros y cristianos), yuca con mojo, sweet plantains, salad and Cuban bread. Drink: Cuba libre (rum + Coca-Cola + lime), Cristal beer, or sparkling cidra de manzana. At Christmas Eve, New Year's Eve or any major Cuban family celebration.
+- On a wooden board at the centre of the Nochebuena table. With black beans, rice (or moros y cristianos), yuca con mojo, sweet plantains, salad and Cuban bread. Drink: Cuba libre (rum + Coca-Cola + lime), Cristal beer, or sparkling cidra de manzana. At Christmas Eve, New Year's Eve or any major Cuban family celebration.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens overnight.

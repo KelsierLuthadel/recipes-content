@@ -84,16 +84,16 @@ Balti masala is the building block under British-Indian Balti curries: a mild, w
 - **Storage Maturation:** The powder truly tastes noticeably better after 1-2 weeks; don't use immediately if possible.
 
 ## Variations
-**Spicier Version:** Increase chilli powder to 2 ½ teaspoons.
-**Extra Aromatic:** Add 1 additional teaspoon of cardamom seeds to the whole spices before roasting.
-**With Cloves Warmth:** Increase cloves to 8-10 in the roasting stage.
-**Lighter Spice:** Reduce all ground spice additions by 25% for a more delicate blend.
+- **Spicier Version:** Increase chilli powder to 2 ½ teaspoons.
+- **Extra Aromatic:** Add 1 additional teaspoon of cardamom seeds to the whole spices before roasting.
+- **With Cloves Warmth:** Increase cloves to 8-10 in the roasting stage.
+- **Lighter Spice:** Reduce all ground spice additions by 25% for a more delicate blend.
 
 ## Serving
-Use in: Balti curries, British-Indian curries, curry sauce bases
-Typical ratio: 1-3 teaspoons per curry portion depending on desired heat
-Application: Fry with onions and aromatics before adding liquid and main ingredients
-Temperature: Works best when fried in hot oil to bloom the spices and release flavor
+- Use in: Balti curries, British-Indian curries, curry sauce bases
+- Typical ratio: 1-3 teaspoons per curry portion depending on desired heat
+- Application: Fry with onions and aromatics before adding liquid and main ingredients
+- Temperature: Works best when fried in hot oil to bloom the spices and release flavor
 
 ## Storage
 - Store in airtight glass jars in a cool, dark place (not above the stove)

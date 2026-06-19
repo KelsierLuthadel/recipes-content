@@ -102,7 +102,7 @@ A glass of cold lager or sweet iced tea on the side. Cornbread is unnecessary bu
 - **With crab:** fold 100 g lump crabmeat into the sauce in the final minute alongside the shrimp. A New Orleans upgrade.
 
 ## Serving
-A single bowl is a meal. Cornbread or a simple green salad on the side; nothing else needed. The grits will continue to thicken as they sit, so serve as soon as everything is in place.
+- A single bowl is a meal. Cornbread or a simple green salad on the side; nothing else needed. The grits will continue to thicken as they sit, so serve as soon as everything is in place.
 
 ## Storage
 - Grits keep 2 days refrigerated and reheat well with a splash of milk to loosen.

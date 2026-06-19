@@ -112,13 +112,13 @@ Tas kebabı (literally "pot kebab"; tas = bowl/pot, kebab = grilled or roasted m
 - **Slow-cook properly:** 90 minutes minimum for lamb to go tender. Don't rush.
 
 ## Variations
-**Beef tas kebabı:** swap the lamb for beef chuck or stewing steak; cook 100-110 minutes for tenderness. Common everyday variation.
-**With chestnuts:** add 200 g of peeled chestnuts to the pot in the last 30 minutes; gives a sweet-nutty depth common in autumn Turkish cooking.
-**Spicier:** double the Aleppo pepper and add 2 chopped fresh chillies; properly fierce version.
-**With dried apricots:** add 100 g of dried apricots to the pot in the last 30 minutes; gives a sweet-savoury Anatolian variation.
+- **Beef tas kebabı:** swap the lamb for beef chuck or stewing steak; cook 100-110 minutes for tenderness. Common everyday variation.
+- **With chestnuts:** add 200 g of peeled chestnuts to the pot in the last 30 minutes; gives a sweet-nutty depth common in autumn Turkish cooking.
+- **Spicier:** double the Aleppo pepper and add 2 chopped fresh chillies; properly fierce version.
+- **With dried apricots:** add 100 g of dried apricots to the pot in the last 30 minutes; gives a sweet-savoury Anatolian variation.
 
 ## Serving
-In deep bowls over rice pilav, with the rich sauce ladled over and parsley scattered. Pide or any Turkish flatbread on the side. A dollop of yogurt and lemon wedges. Drink: a glass of Turkish red wine (Öküzgözü or Boğazkere), rakı, or ayran.
+- In deep bowls over rice pilav, with the rich sauce ladled over and parsley scattered. Pide or any Turkish flatbread on the side. A dollop of yogurt and lemon wedges. Drink: a glass of Turkish red wine (Öküzgözü or Boğazkere), rakı, or ayran.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight (better the next day, as with most stews).

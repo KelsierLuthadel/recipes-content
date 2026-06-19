@@ -92,14 +92,14 @@ Calzone's longer, leaner cousin from Italian-American kitchens: pizza dough roll
 - **Layering order:** Cheese sandwiched between meat keeps the bread from going soggy on the inside as the filling steams.
 
 ## Variations
-**Vegetarian:** Drop the deli meats; add 250 grams of sautéed mushrooms (drained well), roasted peppers and a layer of spinach instead.
-**Pepperoni and pesto:** Use all pepperoni for the meat, brush the dough with basil pesto in place of garlic butter.
-**Ham and cheddar:** Swap the Italian meats for sliced ham and use sharp cheddar in place of provolone.
-**Garlic-knot finish:** Brush with the garlic butter twice (before serving) and tie a small knot of dough on each end before baking.
+- **Vegetarian:** Drop the deli meats; add 250 grams of sautéed mushrooms (drained well), roasted peppers and a layer of spinach instead.
+- **Pepperoni and pesto:** Use all pepperoni for the meat, brush the dough with basil pesto in place of garlic butter.
+- **Ham and cheddar:** Swap the Italian meats for sliced ham and use sharp cheddar in place of provolone.
+- **Garlic-knot finish:** Brush with the garlic butter twice (before serving) and tie a small knot of dough on each end before baking.
 
 ## Serving
-Serve with: Marinara, garlic-chilli oil, pickled peperoncini, and a green salad
-Garnish with: Extra parmesan and a scatter of basil leaves on each slice
+- Serve with: Marinara, garlic-chilli oil, pickled peperoncini, and a green salad
+- Garnish with: Extra parmesan and a scatter of basil leaves on each slice
 
 ## Storage
 - Best eaten within an hour of baking

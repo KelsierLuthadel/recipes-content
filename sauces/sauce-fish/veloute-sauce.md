@@ -38,7 +38,7 @@ Velouté is one of the five French mother sauces and the building block for an e
 - **Consistency:** Adjust consistency by cooking longer for thicker sauce or adding more stock for thinner.
 
 ## Serving
-Use as a base for derived sauces (Bercy, Normandy, Chérubins, etc.) or serve with poached fish and chicken dishes.
+- Use as a base for derived sauces (Bercy, Normandy, Chérubins, etc.) or serve with poached fish and chicken dishes.
 
 ## Storage
 - Keeps refrigerated for 3-4 days in an airtight container.

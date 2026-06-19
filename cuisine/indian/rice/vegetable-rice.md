@@ -57,7 +57,7 @@ This is the rice for when a group is sharing and people want something other tha
 - **Optional additions:** fine-dice red pepper (50 g, added with the carrot), green beans (50 g, fine-cut, added at the same time as the peas), or a small handful of cashews (toasted, scattered on top with the coriander).
 
 ## Serving
-Vegetable rice is the all-purpose rice for a group meal. It works under any curry, holds a portion of dal beside it, or stands on its own with a bowl of raita and some pickles. The default for a curry-house family table.
+- Vegetable rice is the all-purpose rice for a group meal. It works under any curry, holds a portion of dal beside it, or stands on its own with a bowl of raita and some pickles. The default for a curry-house family table.
 
 ## Storage
 - Refrigerates 2 days. Reheat in a covered pan with a tablespoon of water on low heat for 5-6 minutes.

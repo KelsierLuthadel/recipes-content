@@ -43,13 +43,13 @@ Ajvar (pronounced "EYE-var") is the Balkan condiment that defines Macedonian coo
 - **Seal with oil:** for long storage.
 
 ## Variations
-**Hot ajvar (Ljuti ajvar):** triple the chilli.
-**Without aubergine (Lyutenitsa-style):** Bulgarian/Serbian variant; all peppers, no aubergine.
-**With walnuts:** add 100 g ground walnuts at the end.
-**Smoked ajvar:** add ½ teaspoon liquid smoke.
+- **Hot ajvar (Ljuti ajvar):** triple the chilli.
+- **Without aubergine (Lyutenitsa-style):** Bulgarian/Serbian variant; all peppers, no aubergine.
+- **With walnuts:** add 100 g ground walnuts at the end.
+- **Smoked ajvar:** add ½ teaspoon liquid smoke.
 
 ## Serving
-On bread (traditional Macedonian breakfast/snack) · with grilled meat (ćevapi, pljeskavica) · alongside cheese · in stuffed peppers · as a sandwich spread.
+- On bread (traditional Macedonian breakfast/snack) · with grilled meat (ćevapi, pljeskavica) · alongside cheese · in stuffed peppers · as a sandwich spread.
 
 ## Storage
 Sealed jars 6 months in a cool place. Once opened, refrigerate; consume 1 month.

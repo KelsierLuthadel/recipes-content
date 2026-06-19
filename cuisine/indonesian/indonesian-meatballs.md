@@ -63,7 +63,7 @@ These are tender chicken meatballs in a fragrant coconut-and-curry sauce, the In
 - **Make-ahead:** Meatballs can be prepared and frozen uncooked for up to 2 weeks; thaw before cooking.
 
 ## Serving
-Serve with: Cooked jasmine rice and fresh lime wedges to brighten the sauce
+- Serve with: Cooked jasmine rice and fresh lime wedges to brighten the sauce
 
 ## Storage
 - Keeps 3 days refrigerated

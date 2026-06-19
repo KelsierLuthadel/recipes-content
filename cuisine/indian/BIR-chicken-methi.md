@@ -76,7 +76,7 @@ BIR chicken methi is the fenugreek-forward curry of the British restaurant menu,
 - For extra creaminess, add a splash of double cream or butter at the end.
 
 ## Serving
-Serve with steamed basmati rice, naan or roti. Garnish with extra chopped coriander.
+- Serve with steamed basmati rice, naan or roti. Garnish with extra chopped coriander.
 
 ## Storage
 - Refrigerate 2-3 days in an airtight container

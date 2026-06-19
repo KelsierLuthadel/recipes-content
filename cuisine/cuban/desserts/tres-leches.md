@@ -71,13 +71,13 @@ Tres leches is the Latin American sponge cake that drinks the three milks of its
 - **Cinnamon over cocoa:** Cinnamon is traditional in Cuban and Nicaraguan versions. Some Mexican versions use cocoa.
 
 ## Variations
-**Cuatro leches (four milks):** Add 60 g grated white chocolate to the cream as you heat it gently; cool then add to the soak. Richer, slightly thicker.
-**Chocolate tres leches:** Replace 30 g of the flour in the sponge with cocoa powder; add 30 g grated dark chocolate to the warm soak.
-**With fruit:** Top with sliced strawberries, mango or peach alongside the cream layer.
-**Coffee tres leches:** Add 1 tablespoon instant espresso to the warm soak.
+- **Cuatro leches (four milks):** Add 60 g grated white chocolate to the cream as you heat it gently; cool then add to the soak. Richer, slightly thicker.
+- **Chocolate tres leches:** Replace 30 g of the flour in the sponge with cocoa powder; add 30 g grated dark chocolate to the warm soak.
+- **With fruit:** Top with sliced strawberries, mango or peach alongside the cream layer.
+- **Coffee tres leches:** Add 1 tablespoon instant espresso to the warm soak.
 
 ## Serving
-Serve cold from the fridge, in squares cut directly from the tin, with the soaking liquid spooned alongside. A few fresh strawberries or a strawberry compote cuts the sweetness beautifully.
+- Serve cold from the fridge, in squares cut directly from the tin, with the soaking liquid spooned alongside. A few fresh strawberries or a strawberry compote cuts the sweetness beautifully.
 
 ## Storage
 - Keeps 3 days refrigerated, covered, in the tin.

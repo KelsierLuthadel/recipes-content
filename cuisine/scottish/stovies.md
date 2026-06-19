@@ -76,15 +76,15 @@ Stovies (the name comes from the French "étouffer", to smother or stew) is Scot
 - **Oatcakes alongside:** the traditional Scottish accompaniment. The slight bitterness of oats complements the rich stovies.
 
 ## Variations
-**Aberdeen stovies (corned beef):** swap the leftover roast for a tin of corned beef, broken up. The dish of north-east Scotland.
-**Mince stovies (Fife / West):** swap the leftover roast for 400 g raw minced beef, browned with the onion. A from-scratch version.
-**With sausage:** add a few links of Lorne sausage (Scottish square sliced sausage), fried separately and added to the stovies for the last 10 minutes.
-**With smoked sausage:** add 200 g sliced smoked sausage, Polish kielbasa or similar.
-**With black pudding:** add slices of black pudding (Stornoway is the traditional Scottish black pudding) to the top for the last 15 minutes.
-**With dripping toast:** make extra dripping toast (bread fried in beef dripping) and serve alongside instead of oatcakes.
+- **Aberdeen stovies (corned beef):** swap the leftover roast for a tin of corned beef, broken up. The dish of north-east Scotland.
+- **Mince stovies (Fife / West):** swap the leftover roast for 400 g raw minced beef, browned with the onion. A from-scratch version.
+- **With sausage:** add a few links of Lorne sausage (Scottish square sliced sausage), fried separately and added to the stovies for the last 10 minutes.
+- **With smoked sausage:** add 200 g sliced smoked sausage, Polish kielbasa or similar.
+- **With black pudding:** add slices of black pudding (Stornoway is the traditional Scottish black pudding) to the top for the last 15 minutes.
+- **With dripping toast:** make extra dripping toast (bread fried in beef dripping) and serve alongside instead of oatcakes.
 
 ## Serving
-On the Monday after a Sunday roast (the traditional setting) · on Bonfire Night (5 November) with the firework crowd · at a Burns Night day-after lunch · at a Scottish gastropub as a hearty winter main · at a Scottish wedding-day-after breakfast for the hung-over wedding party · at home as a Tuesday weeknight supper · in primary-school dining rooms in winter.
+- On the Monday after a Sunday roast (the traditional setting) · on Bonfire Night (5 November) with the firework crowd · at a Burns Night day-after lunch · at a Scottish gastropub as a hearty winter main · at a Scottish wedding-day-after breakfast for the hung-over wedding party · at home as a Tuesday weeknight supper · in primary-school dining rooms in winter.
 
 ## Storage
 - Refrigerates 3 days; many Scots think stovies are best on day 2 when the flavour fully marries.

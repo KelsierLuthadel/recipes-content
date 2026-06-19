@@ -63,7 +63,7 @@ Draniki are the dish every Belarusian grandmother makes the same way and yet swe
 - **Sweet draniki.** Skip the onion, add a tablespoon of sugar and a grated apple to the batter, serve with jam instead of sour cream. A children's breakfast variant.
 
 ## Serving
-Serve hot off the pan with cold sour cream and dill · also with herring and pickled onion on the side · or under machanka gravy · with cucumber-and-dill salad in summer
+- Serve hot off the pan with cold sour cream and dill · also with herring and pickled onion on the side · or under machanka gravy · with cucumber-and-dill salad in summer
 
 ## Storage
 - Best eaten the moment they come out of the pan

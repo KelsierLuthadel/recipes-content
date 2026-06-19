@@ -56,12 +56,12 @@ Pinsa is Rome's lighter, longer-fermented cousin of pizza, and pre-made pinsa ba
 - **Fontina vs mozzarella:** Fontina has a stronger, nuttier flavour that pairs beautifully with the pine nuts. Mozzarella is fine but milder.
 
 ## Variations
-**With prosciutto:** Drape thin slices of prosciutto over the hot pizza after baking.
-**Mushroom and spinach:** Add 100 grams of sliced sautéed chestnut mushrooms with the spinach for a heartier base.
+- **With prosciutto:** Drape thin slices of prosciutto over the hot pizza after baking.
+- **Mushroom and spinach:** Add 100 grams of sliced sautéed chestnut mushrooms with the spinach for a heartier base.
 
 ## Serving
-Serve with: A glass of soave or pinot grigio and a peppery leaf salad
-Garnish with: A drizzle of truffle oil (a few drops only) for special occasions
+- Serve with: A glass of soave or pinot grigio and a peppery leaf salad
+- Garnish with: A drizzle of truffle oil (a few drops only) for special occasions
 
 ## Storage
 - Best eaten fresh from the oven; pine nuts and bases lose their crispness on standing

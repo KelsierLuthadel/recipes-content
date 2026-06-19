@@ -71,13 +71,13 @@ Sofrito is the absolute foundation of Puerto Rican cooking and the single most i
 - **Raw, not cooked:** sofrito is stored raw and cooked when added to dishes. Don't pre-cook before storing.
 
 ## Variations
-**Without tomato (purist sofrito):** skip the tomato; gives a brighter purer green sauce.
-**With ají caballero (hot pepper):** add 1-2 fresh hot peppers for a spicier version; less traditional for PR sofrito (PR sofrito is usually mild) but common in Caribbean variations.
-**Vegan no-oil version:** skip the olive oil; the sofrito keeps a few days less but is otherwise identical.
-**Dominican-style:** add 1 tablespoon of dried oregano and 4 stalks of celery; gives the slightly different Dominican-Republic flavour profile.
+- **Without tomato (purist sofrito):** skip the tomato; gives a brighter purer green sauce.
+- **With ají caballero (hot pepper):** add 1-2 fresh hot peppers for a spicier version; less traditional for PR sofrito (PR sofrito is usually mild) but common in Caribbean variations.
+- **Vegan no-oil version:** skip the olive oil; the sofrito keeps a few days less but is otherwise identical.
+- **Dominican-style:** add 1 tablespoon of dried oregano and 4 stalks of celery; gives the slightly different Dominican-Republic flavour profile.
 
 ## Serving
-Used as the foundation in nearly every Puerto Rican savoury dish. Sautéed in oil at the start of pollo guisado, carne guisada, arroz con gandules, habichuelas guisadas, asopao de pollo. Also as a dipping sauce or as a marinade for grilled meat.
+- Used as the foundation in nearly every Puerto Rican savoury dish. Sautéed in oil at the start of pollo guisado, carne guisada, arroz con gandules, habichuelas guisadas, asopao de pollo. Also as a dipping sauce or as a marinade for grilled meat.
 
 ## Storage
 - Keeps refrigerated 2 weeks in a sealed jar with a thin layer of olive oil on top.

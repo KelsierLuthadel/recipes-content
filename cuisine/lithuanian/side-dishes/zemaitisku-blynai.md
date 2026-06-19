@@ -78,14 +78,14 @@
 - **The dough sticks:** keep your hands floured; work fast.
 
 ## Variations
-**Meat filling:** swap the curd for 250 g cooked seasoned minced pork mixed with sautéed onion.
-**Mushroom filling:** chopped sautéed wild mushrooms with onion and dill, the autumn version.
-**Sweet version:** add 1 tablespoon sugar and the zest of half a lemon to the curd; serve with jam, not sour cream.
-**With sauerkraut filling:** sautéed sauerkraut with caraway, a winter Žemaitija staple.
-**Berry-topped sweet pancakes:** sweet filling above, topped with warm lingonberry jam.
+- **Meat filling:** swap the curd for 250 g cooked seasoned minced pork mixed with sautéed onion.
+- **Mushroom filling:** chopped sautéed wild mushrooms with onion and dill, the autumn version.
+- **Sweet version:** add 1 tablespoon sugar and the zest of half a lemon to the curd; serve with jam, not sour cream.
+- **With sauerkraut filling:** sautéed sauerkraut with caraway, a winter Žemaitija staple.
+- **Berry-topped sweet pancakes:** sweet filling above, topped with warm lingonberry jam.
 
 ## Serving
-Serve hot · with cold sour cream · scattered with chives · alongside a green salad · two per plate is a side, three to four a meal · with a glass of buttermilk or kefir.
+- Serve hot · with cold sour cream · scattered with chives · alongside a green salad · two per plate is a side, three to four a meal · with a glass of buttermilk or kefir.
 
 ## Storage
 - Best fresh from the pan.

@@ -48,7 +48,7 @@ Mille-feuille (thousand leaves) is the French pastry shop classic, multiple laye
 - Cut the layered mille-feuilles with a serrated knife using a gentle sawing motion, not pressure, to avoid crushing the delicate pastry layers
 
 ## Serving
-Arrange each mille-feuille on a serving plate to showcase the contrast between the glossy top and the beautiful cross-section of layers. Serve immediately after assembly to maintain the crispness of the pastry. A small spoonful of remaining crème anglaise or a delicate strawberry coulis alongside completes the presentation beautifully.
+- Arrange each mille-feuille on a serving plate to showcase the contrast between the glossy top and the beautiful cross-section of layers. Serve immediately after assembly to maintain the crispness of the pastry. A small spoonful of remaining crème anglaise or a delicate strawberry coulis alongside completes the presentation beautifully.
 
 ## Storage
 Baked pastry layers keep well at room temperature for 2-3 days in an airtight container. The crème anglaise filling can be prepared the day before. Assemble the mille-feuilles no more than 2-3 hours before serving, as the pastry will gradually soften from moisture in the filling and berries. Strawberries are best sliced just before assembly to prevent oxidation.

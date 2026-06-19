@@ -92,14 +92,14 @@ Maltese kannoli are Malta's adaptation of the Sicilian cannoli, differing in sub
 - **Sheep's milk ricotta if possible:** the traditional Mediterranean choice.
 
 ## Variations
-**Without chocolate chips:** the simpler Sicilian-Maltese hybrid.
-**With pistachio cream filling:** swap ricotta for pistachio cream.
-**With chopped candied citron:** add chopped citron alongside the orange peel.
-**Mini kannoli:** smaller tubes (8 cm) for canapé-sized portions.
-**Chocolate-dipped shells:** dip cooled shell ends in melted chocolate before filling.
+- **Without chocolate chips:** the simpler Sicilian-Maltese hybrid.
+- **With pistachio cream filling:** swap ricotta for pistachio cream.
+- **With chopped candied citron:** add chopped citron alongside the orange peel.
+- **Mini kannoli:** smaller tubes (8 cm) for canapé-sized portions.
+- **Chocolate-dipped shells:** dip cooled shell ends in melted chocolate before filling.
 
 ## Serving
-At a Maltese village festa (the traditional setting) · at a Maltese wedding dessert table · at a Maltese family celebration · at a Maltese bakery counter · at a Maltese coffee shop · at home with espresso.
+- At a Maltese village festa (the traditional setting) · at a Maltese wedding dessert table · at a Maltese family celebration · at a Maltese bakery counter · at a Maltese coffee shop · at home with espresso.
 
 ## Storage
 - Filled kannoli should be eaten within an hour.

@@ -91,13 +91,13 @@ Camarones al ajillo ("garlic shrimp") is one of Puerto Rico's most beloved seafo
 - **Eat immediately:** the sizzling presentation is part of the experience. Don't let it sit.
 
 ## Variations
-**With Puerto Rican rum:** swap the white wine for dark rum + chicken stock; gives a sweeter Caribbean depth.
-**Spicier version (al diablo):** double the chillies and add 1 chopped habanero; properly Caribbean fierce.
-**With cilantro:** add 2 tablespoons of chopped fresh culantro (recao) along with the parsley; gives a more aromatic Caribbean version.
-**Camarones enchilados:** add 200 ml of tomato sauce after the wine; turns the dish into a more substantial tomato-based shrimp stew.
+- **With Puerto Rican rum:** swap the white wine for dark rum + chicken stock; gives a sweeter Caribbean depth.
+- **Spicier version (al diablo):** double the chillies and add 1 chopped habanero; properly Caribbean fierce.
+- **With cilantro:** add 2 tablespoons of chopped fresh culantro (recao) along with the parsley; gives a more aromatic Caribbean version.
+- **Camarones enchilados:** add 200 ml of tomato sauce after the wine; turns the dish into a more substantial tomato-based shrimp stew.
 
 ## Serving
-In a shallow warm serving dish or directly over rice. Crusty bread on the side for mopping up the garlic oil. Drink: Medalla beer, a cold piña colada (Puerto Rican original cocktail), or fresh sangria.
+- In a shallow warm serving dish or directly over rice. Crusty bread on the side for mopping up the garlic oil. Drink: Medalla beer, a cold piña colada (Puerto Rican original cocktail), or fresh sangria.
 
 ## Storage
 - Best eaten immediately; shrimp goes off-texture as it cools and reheats poorly.

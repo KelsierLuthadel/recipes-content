@@ -94,13 +94,13 @@ Khao soi Lao is one of the most-confused dishes in Southeast Asian cuisine: the 
 - **The garnish plate is the dish:** without the fresh herbs, bean sprouts, chillies, lime and pickled mustard greens, the bowl is incomplete.
 
 ## Variations
-**Khao soi with beef only (no pork):** swap the pork-and-bones broth for an all-beef broth; the topping sauce uses minced beef. The slightly heartier variant.
-**Khao soi pa (fish):** swap the topping pork for finely flaked freshwater fish; the river-village variant.
-**Vegetarian khao soi:** vegetable stock + a mushroom-and-tomato-and-fermented-soybean topping; same garnish plate.
-**Khao soi with crispy pork crackling:** scatter a small handful of crispy pork crackling (kham moo) over each bowl.
+- **Khao soi with beef only (no pork):** swap the pork-and-bones broth for an all-beef broth; the topping sauce uses minced beef. The slightly heartier variant.
+- **Khao soi pa (fish):** swap the topping pork for finely flaked freshwater fish; the river-village variant.
+- **Vegetarian khao soi:** vegetable stock + a mushroom-and-tomato-and-fermented-soybean topping; same garnish plate.
+- **Khao soi with crispy pork crackling:** scatter a small handful of crispy pork crackling (kham moo) over each bowl.
 
 ## Serving
-At a Luang Prabang morning market stall (the traditional setting; sold from 6 am till noon) · at a Vientiane noodle shop · at a Lao breakfast counter · at a Lao New Year celebration · at home as a substantial Lao breakfast or lunch.
+- At a Luang Prabang morning market stall (the traditional setting; sold from 6 am till noon) · at a Vientiane noodle shop · at a Lao breakfast counter · at a Lao New Year celebration · at home as a substantial Lao breakfast or lunch.
 
 ## Storage
 - The broth refrigerates 5 days; freezes 3 months.

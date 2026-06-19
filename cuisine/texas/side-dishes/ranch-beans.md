@@ -69,12 +69,12 @@ Ranch beans (also called "Texas pinto beans" or "borracho beans" when made with 
 - **Slow-cook properly:** 2 hours.
 
 ## Variations
-**With smoked brisket:** add chunks of leftover smoked brisket; gives a meaty depth.
-**Spicier:** double the jalapeños; add 1 chopped habanero.
-**Vegetarian:** skip the bacon; use vegetable stock; add 2 tablespoons of smoked paprika.
+- **With smoked brisket:** add chunks of leftover smoked brisket; gives a meaty depth.
+- **Spicier:** double the jalapeños; add 1 chopped habanero.
+- **Vegetarian:** skip the bacon; use vegetable stock; add 2 tablespoons of smoked paprika.
 
 ## Serving
-Alongside any Texas BBQ. Cornbread, pickled jalapeños on the side. Cold beer.
+- Alongside any Texas BBQ. Cornbread, pickled jalapeños on the side. Cold beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

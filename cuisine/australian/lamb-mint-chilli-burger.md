@@ -105,16 +105,16 @@ The lamb-mint-coriander-chilli burger is a quintessentially Australian gastropub
 - **Medium (60°C), not well-done:** lamb at medium has its proper sweet-rich flavour. Cooked till grey, it tastes mutton-y.
 
 ## Variations
-**With feta:** crumble 100 g feta over the patty in the last minute of cooking; pairs with the mint-coriander beautifully.
-**Halloumi-lamb:** add a slice of grilled halloumi between patty and tomato.
-**Spicier:** include both chillies with seeds, plus a drizzle of harissa under the yogurt.
-**With harissa-yogurt sauce:** swap the mint-yogurt for yogurt mixed with rose harissa for a Moroccan-tilted version.
-**With raita instead of yogurt sauce:** cucumber-mint raita pushes it Indian.
-**Open-face on flatbread:** swap the bun for warm flatbread, build as an open sandwich.
-**Lamb-kofta variation:** shape into elongated kofta forms instead of patties.
+- **With feta:** crumble 100 g feta over the patty in the last minute of cooking; pairs with the mint-coriander beautifully.
+- **Halloumi-lamb:** add a slice of grilled halloumi between patty and tomato.
+- **Spicier:** include both chillies with seeds, plus a drizzle of harissa under the yogurt.
+- **With harissa-yogurt sauce:** swap the mint-yogurt for yogurt mixed with rose harissa for a Moroccan-tilted version.
+- **With raita instead of yogurt sauce:** cucumber-mint raita pushes it Indian.
+- **Open-face on flatbread:** swap the bun for warm flatbread, build as an open sandwich.
+- **Lamb-kofta variation:** shape into elongated kofta forms instead of patties.
 
 ## Serving
-At a backyard barbecue with cold beer. At a gastropub lunch with a side of chips and a glass of Shiraz. At a casual dinner with a green salad.
+- At a backyard barbecue with cold beer. At a gastropub lunch with a side of chips and a glass of Shiraz. At a casual dinner with a green salad.
 
 ## Storage
 - Best fresh.

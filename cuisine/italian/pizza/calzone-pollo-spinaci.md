@@ -70,13 +70,13 @@ A single calzone large enough to feed two, and an unusual one: béchamel rather 
 - **Riserva at the end:** Adding the cheese late keeps it bubbling and salty rather than baked into a thick crust.
 
 ## Variations
-**With pesto:** Replace the béchamel with 2 tablespoons of basil pesto for a sharper, herbier filling.
-**Without prosciutto:** Drop the prosciutto and double the chicken for a milder, child-friendly version.
-**Truffle finish:** Drizzle a few drops of truffle oil over the cut calzone instead of the Riserva.
+- **With pesto:** Replace the béchamel with 2 tablespoons of basil pesto for a sharper, herbier filling.
+- **Without prosciutto:** Drop the prosciutto and double the chicken for a milder, child-friendly version.
+- **Truffle finish:** Drizzle a few drops of truffle oil over the cut calzone instead of the Riserva.
 
 ## Serving
-Serve with: A side of dressed leaves and red pepper tapenade for dipping
-Garnish with: A scatter of fresh rosemary leaves and a grind of black pepper
+- Serve with: A side of dressed leaves and red pepper tapenade for dipping
+- Garnish with: A scatter of fresh rosemary leaves and a grind of black pepper
 
 ## Storage
 - Best eaten immediately, while the crust is crisp and the cheese still molten

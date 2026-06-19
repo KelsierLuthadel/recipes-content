@@ -68,7 +68,7 @@ This is the assembly-step recipe in the BIR system: it assumes you already have 
 - **A glass of full-fat milk on the table.** Casein in milk binds the capsaicin and cuts the heat faster than water (which spreads it).
 
 ## Serving
-Serve with [Pilau Rice](rice/pilau-rice.md), a [Plain Naan](Breads/naan.md) and a generous bowl of [Mint Raita](sauces-pickles/mint-raita.md). The bread and rice carry the curry; the raita resets the palate. A cold lager beats water for the heat-management job.
+- Serve with [Pilau Rice](rice/pilau-rice.md), a [Plain Naan](Breads/naan.md) and a generous bowl of [Mint Raita](sauces-pickles/mint-raita.md). The bread and rice carry the curry; the raita resets the palate. A cold lager beats water for the heat-management job.
 
 ## Storage
 - Best eaten straight from the pan.

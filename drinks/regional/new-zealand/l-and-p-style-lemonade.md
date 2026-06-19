@@ -54,7 +54,7 @@ Lemon & Paeroa - L&P - is a New Zealand soft drink invented in 1907 in the town 
 - **Don't over-sweeten:** Real L&P is moderately sweet, not Coca-Cola sweet. Start with the smaller amount of sugar; you can always add more.
 
 ## Serving
-Serve cold on a hot day. The Kiwi summer go-to non-alcoholic refreshment.
+- Serve cold on a hot day. The Kiwi summer go-to non-alcoholic refreshment.
 
 ## Storage
 - The lemon syrup base refrigerates 1 week in a sealed bottle.

@@ -72,17 +72,17 @@ The sauce a Margherita lives or dies by: a few ingredients that have to be the r
 - **Oregano & Basil:** These are the essential seasonings; dried versions are more concentrated than fresh in this application.
 
 ## Variations
-**Fresh Basil**: Reserve 1 tablespoon fresh torn basil to stir in at the end for brighter, fresher flavor (don't cook it).
-**Spicier Heat:** Increase red pepper flakes to ½ teaspoon or add a pinch of cayenne.
-**Garlic Emphasis:** Use 4-5 cloves garlic for more pronounced garlic character.
-**With Tomato Paste:** Stir in 1 tablespoon tomato paste for deeper, more concentrated tomato flavor.
-**Mediterranean:** Add ¼ teaspoon fennel seed or a small pinch of ground fennel for subtle licorice notes.
+- **Fresh Basil**: Reserve 1 tablespoon fresh torn basil to stir in at the end for brighter, fresher flavor (don't cook it).
+- **Spicier Heat:** Increase red pepper flakes to ½ teaspoon or add a pinch of cayenne.
+- **Garlic Emphasis:** Use 4-5 cloves garlic for more pronounced garlic character.
+- **With Tomato Paste:** Stir in 1 tablespoon tomato paste for deeper, more concentrated tomato flavor.
+- **Mediterranean:** Add ¼ teaspoon fennel seed or a small pinch of ground fennel for subtle licorice notes.
 
 ## Serving
-Serve on: Pizza bases, focaccia, bruschetta, pasta
-Amount per pizza: 3-4 tablespoons for a 10-inch pizza
-Consistency: Slightly chunky, spreadable but not runny
-Temperature: Warm (fresh from cooking) or room temperature
+- Serve on: Pizza bases, focaccia, bruschetta, pasta
+- Amount per pizza: 3-4 tablespoons for a 10-inch pizza
+- Consistency: Slightly chunky, spreadable but not runny
+- Temperature: Warm (fresh from cooking) or room temperature
 
 ## Storage
 - Refrigerate in an airtight container for up to 5 days

@@ -91,14 +91,14 @@ Vinegret (from the French "vinaigrette" via the 19th-century Russian court kitch
 - **Sunflower oil, not olive:** sunflower is the Belarusian dressing oil; olive oil dominates.
 
 ## Variations
-**With herring (selyodka):** dice 200 g pickled herring and fold through; the Belarusian-Russian winter feast version.
-**With apple:** dice 1 tart apple into the salad; the fresh-fruit-acid variant.
-**With white beans:** fold in 200 g cooked white beans for a heartier vegetarian vinegret.
-**Vegan-friendly already:** the dish is plant-based by default.
-**With horseradish:** stir 1 teaspoon prepared horseradish into the dressing; sharper, more savoury.
+- **With herring (selyodka):** dice 200 g pickled herring and fold through; the Belarusian-Russian winter feast version.
+- **With apple:** dice 1 tart apple into the salad; the fresh-fruit-acid variant.
+- **With white beans:** fold in 200 g cooked white beans for a heartier vegetarian vinegret.
+- **Vegan-friendly already:** the dish is plant-based by default.
+- **With horseradish:** stir 1 teaspoon prepared horseradish into the dressing; sharper, more savoury.
 
 ## Serving
-At a Belarusian New Year's Eve table (the traditional setting alongside olivye and herring) · at a family name-day celebration · with vodka and rye bread at a Belarusian Sunday lunch · at a Belarusian Orthodox Christmas Eve fast supper (it's vegetarian) · cold from a Tupperware at a worker's lunchroom · with hot smoked-salted pork.
+- At a Belarusian New Year's Eve table (the traditional setting alongside olivye and herring) · at a family name-day celebration · with vodka and rye bread at a Belarusian Sunday lunch · at a Belarusian Orthodox Christmas Eve fast supper (it's vegetarian) · cold from a Tupperware at a worker's lunchroom · with hot smoked-salted pork.
 
 ## Storage
 - Refrigerates 3 days in a sealed container; the flavour deepens.

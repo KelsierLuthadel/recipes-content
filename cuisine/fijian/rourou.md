@@ -56,7 +56,7 @@ Rourou is what Fijian cooks make with the bumper crop of taro leaves that grow a
 - **Curry powder:** The Indo-Fijian influence is what distinguishes Fijian rourou from the Polynesian taro-and-coconut leaf dishes. Without curry powder, the dish is plainer and more Pacific-island; with it, it becomes the home Fijian version.
 
 ## Serving
-Serve hot over steamed white rice, with grilled fish or chicken alongside. A small dish of lime pickle and a sliced fresh chilli complete the plate.
+- Serve hot over steamed white rice, with grilled fish or chicken alongside. A small dish of lime pickle and a sliced fresh chilli complete the plate.
 
 ## Storage
 - Refrigerate 3 days; reheat gently with a splash of coconut milk if it has thickened.

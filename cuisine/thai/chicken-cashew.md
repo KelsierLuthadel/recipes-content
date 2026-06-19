@@ -75,7 +75,7 @@ Gai pad med mamuang is the takeaway-counter favourite that became a home-cook st
 - Dried chillies are not meant to be eaten.
 
 ## Serving
-Serve with jasmine rice.
+- Serve with jasmine rice.
 
 ## Storage
 - Best served immediately; can be refrigerated for 1 day.

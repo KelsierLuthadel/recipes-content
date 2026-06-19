@@ -113,13 +113,13 @@ Ribollita (literally "reboiled", referring to the way leftover Tuscan vegetable 
 - **Generous olive oil at the end:** Tuscan signature.
 
 ## Variations
-**With pancetta:** add 100 g of diced pancetta to the soffritto; less traditional but common.
-**Quicker single-day version:** make the soup; add bread in the last 30 minutes; eat the same day. Less traditional.
-**With Parmesan rind:** add a Parmesan rind to the simmering soup; gives deep umami.
-**Without potatoes:** purist Tuscan version skips potatoes; the bread is the carb.
+- **With pancetta:** add 100 g of diced pancetta to the soffritto; less traditional but common.
+- **Quicker single-day version:** make the soup; add bread in the last 30 minutes; eat the same day. Less traditional.
+- **With Parmesan rind:** add a Parmesan rind to the simmering soup; gives deep umami.
+- **Without potatoes:** purist Tuscan version skips potatoes; the bread is the carb.
 
 ## Serving
-In wide deep bowls with generous olive oil, Parmesan and pepper. Crusty bread on the side. Tuscan red wine (Chianti, Brunello).
+- In wide deep bowls with generous olive oil, Parmesan and pepper. Crusty bread on the side. Tuscan red wine (Chianti, Brunello).
 
 ## Storage
 - Keeps refrigerated 5 days; the dish improves over the first 2 days.

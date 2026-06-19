@@ -78,14 +78,14 @@ This is the Italian elegance pasta designed for romantic dinners, fresh prawns c
 - **Walnut Texture:** Chopped walnuts add textural contrast to the silky sauce; don't skip this texture element.
 
 ## Variations
-**Marsala Substitution:** Replace brandy with Marsala wine for a subtler, slightly sweeter sauce.
-**Extra Garlic:** Add 1 crushed garlic clove with the shallots for more depth.
-**Without Walnuts:** Use pine nuts instead for lighter character, or omit entirely for pure prawn and cream focus.
+- **Marsala Substitution:** Replace brandy with Marsala wine for a subtler, slightly sweeter sauce.
+- **Extra Garlic:** Add 1 crushed garlic clove with the shallots for more depth.
+- **Without Walnuts:** Use pine nuts instead for lighter character, or omit entirely for pure prawn and cream focus.
 
 ## Serving
-Serve as: Special occasion main course, romantic dinner
-Garnish with: Fresh parsley leaves, cracked black pepper, lemon wedges
-Pair with: Crisp white wine (Pinot Grigio) or light sparkling wine
+- Serve as: Special occasion main course, romantic dinner
+- Garnish with: Fresh parsley leaves, cracked black pepper, lemon wedges
+- Pair with: Crisp white wine (Pinot Grigio) or light sparkling wine
 
 ## Storage
 - Best served immediately; prawns lose quality when reheated

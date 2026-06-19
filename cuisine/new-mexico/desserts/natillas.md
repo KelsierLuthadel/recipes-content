@@ -69,13 +69,13 @@ Natillas is a New Mexican-Hispano vanilla custard dessert that bridges Spanish f
 - **Chill 2+ hours.**
 
 ## Variations
-**With brandy:** add 2 tablespoons brandy to the custard.
-**With caramel:** drizzle caramel sauce on top.
-**Without folded whites (denser):** skip the folding step.
-**With raisins:** soak in brandy; sprinkle on top.
+- **With brandy:** add 2 tablespoons brandy to the custard.
+- **With caramel:** drizzle caramel sauce on top.
+- **Without folded whites (denser):** skip the folding step.
+- **With raisins:** soak in brandy; sprinkle on top.
 
 ## Serving
-After NM Christmas dinner; at family celebrations.
+- After NM Christmas dinner; at family celebrations.
 
 ## Storage
 - Refrigerated 3 days.

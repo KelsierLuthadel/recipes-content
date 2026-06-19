@@ -44,7 +44,7 @@ Béchamel is one of the five French mother sauces and the building block for che
 - **Nutmeg:** A classic garnish adding warmth; optional but traditional especially for lasagne and creamy vegetables.
 
 ## Serving
-Use as a base for derived sauces (Aurora, Mornay, etc.) or serve with vegetables, white meats, ham, and pasta dishes. Excellent in lasagne and creamy vegetable gratins.
+- Use as a base for derived sauces (Aurora, Mornay, etc.) or serve with vegetables, white meats, ham, and pasta dishes. Excellent in lasagne and creamy vegetable gratins.
 
 ## Storage
 - Keeps refrigerated for 3-4 days in an airtight container.

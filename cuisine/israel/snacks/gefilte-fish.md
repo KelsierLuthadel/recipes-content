@@ -72,7 +72,7 @@ Gefilte fish is the cold-served Ashkenazi Jewish fish dish, poached quenelles of
 - Sweet versus savoury is a regional divide: Polish-style is sweeter (the sugar in the mix); Lithuanian-style is peppery. The recipe above is mid-sweet; lean either way to taste.
 
 ## Serving
-At the start of the seder meal, on individual plates with lettuce, carrot and horseradish. A glass of sweet white wine alongside.
+- At the start of the seder meal, on individual plates with lettuce, carrot and horseradish. A glass of sweet white wine alongside.
 
 ## Storage
 In a covered container with the broth in the fridge for up to 4 days. Do not freeze cooked: the texture goes powdery.

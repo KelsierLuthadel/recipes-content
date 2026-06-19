@@ -76,7 +76,7 @@ Saint Lucia's Indian-Caribbean inheritance is real - the 19th-century arrival of
 - **Scotch bonnet care:** The Lucian standard is a medium heat, not blazing. Half a small bonnet for 6 portions is typical.
 
 ## Serving
-Serve hot over steamed white rice with a roti or hard-dough bread alongside. Sliced cucumber, lime wedges and a small dish of mango chutney complete the plate.
+- Serve hot over steamed white rice with a roti or hard-dough bread alongside. Sliced cucumber, lime wedges and a small dish of mango chutney complete the plate.
 
 ## Storage
 - Refrigerate 4 days. The curry improves overnight.

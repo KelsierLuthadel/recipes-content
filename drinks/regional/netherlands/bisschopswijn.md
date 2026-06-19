@@ -95,19 +95,19 @@ Bisschopswijn ("bishop's wine") is the Dutch version of mulled wine, named after
 - **Better in batches throughout the evening:** Dutch tradition is to keep a small saucepan of bisschopswijn warm on the lowest heat throughout a Sinterklaas evening, refilling guests' mugs as the evening progresses.
 
 ## Variations
-**Bisschopswijn with raisins (the older tradition):** add 100 g raisins to the steep; the raisins absorb wine and become a small treat eaten with a spoon from the bottom of the mug, the historical 19th-century Dutch variant.
-**Bisschopswijn with apple:** add 1 chopped apple (Bramley or Granny Smith) to the steep, more autumn-fruit-forward.
-**White bisschopswijn (modern):** swap red wine for a sturdy white (Riesling, dry Tokaji); reduce the cinnamon; add more cardamom and ginger, the modern Dutch tea-room variant.
-**Brandy-fortified bisschopswijn (traditional Sinterklaas):** add 60 ml brandy or dark rum at the end, the traditional adult drink.
-**Mulled cider variant (cidersbisschopswijn):** swap the red wine for sturdy cider; the same spices and citrus, the Dutch cider-region variant.
-**Quick weeknight bisschopswijn:** use a pre-made mulling-spice bag; warm with red wine, orange juice and brown sugar for 8 minutes - 10 minutes total.
-**Glühwein (German cousin):** less citrus peel, more cinnamon and clove; usually no cardamom; sometimes a slice of fresh ginger. The German version.
-**Vin chaud (French cousin):** less spice, more citrus, often with a star anise floating in each glass; the French Alpine version.
-**Wassail (English Christmas cousin):** with cider AND red wine + roasted apples + spices; the English Christmas Eve drink.
-**Non-alcoholic bisschopswijn:** swap the red wine for 750 ml of unsweetened pomegranate juice + 250 ml of red grape juice; same spices and citrus, works surprisingly well.
+- **Bisschopswijn with raisins (the older tradition):** add 100 g raisins to the steep; the raisins absorb wine and become a small treat eaten with a spoon from the bottom of the mug, the historical 19th-century Dutch variant.
+- **Bisschopswijn with apple:** add 1 chopped apple (Bramley or Granny Smith) to the steep, more autumn-fruit-forward.
+- **White bisschopswijn (modern):** swap red wine for a sturdy white (Riesling, dry Tokaji); reduce the cinnamon; add more cardamom and ginger, the modern Dutch tea-room variant.
+- **Brandy-fortified bisschopswijn (traditional Sinterklaas):** add 60 ml brandy or dark rum at the end, the traditional adult drink.
+- **Mulled cider variant (cidersbisschopswijn):** swap the red wine for sturdy cider; the same spices and citrus, the Dutch cider-region variant.
+- **Quick weeknight bisschopswijn:** use a pre-made mulling-spice bag; warm with red wine, orange juice and brown sugar for 8 minutes - 10 minutes total.
+- **Glühwein (German cousin):** less citrus peel, more cinnamon and clove; usually no cardamom; sometimes a slice of fresh ginger. The German version.
+- **Vin chaud (French cousin):** less spice, more citrus, often with a star anise floating in each glass; the French Alpine version.
+- **Wassail (English Christmas cousin):** with cider AND red wine + roasted apples + spices; the English Christmas Eve drink.
+- **Non-alcoholic bisschopswijn:** swap the red wine for 750 ml of unsweetened pomegranate juice + 250 ml of red grape juice; same spices and citrus, works surprisingly well.
 
 ## Serving
-At a Dutch Sinterklaas (5 December) family gathering (the traditional setting) · at a Dutch Christmas Eve dinner · at an Amsterdam Christmas market hot-drink stall · at a Dutch ice-skating festival shelter · at a Dutch winter family Sunday lunch · at a Dutch sledding-and-return-home ritual · at home as the traditional December evening drink · paired with speculaas, pepernoten, taai-taai, gingerbread, or a small chunk of mature Dutch cheese.
+- At a Dutch Sinterklaas (5 December) family gathering (the traditional setting) · at a Dutch Christmas Eve dinner · at an Amsterdam Christmas market hot-drink stall · at a Dutch ice-skating festival shelter · at a Dutch winter family Sunday lunch · at a Dutch sledding-and-return-home ritual · at home as the traditional December evening drink · paired with speculaas, pepernoten, taai-taai, gingerbread, or a small chunk of mature Dutch cheese.
 
 ## Storage
 - Refrigerates 3 days; reheats well on the stovetop (don't boil).

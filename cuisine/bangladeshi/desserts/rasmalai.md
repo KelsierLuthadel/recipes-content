@@ -89,7 +89,7 @@ Rasmalai is the second of the great Bengali milk-sweet duo (alongside rasgulla),
 - **Rasmalai with cardamom-cream rabri:** stir 100 ml double cream into the rabri at Stage 5 for an extra rich version.
 
 ## Serving
-Cold from the fridge in a shallow bowl with the rabri spooned over · a scatter of pistachio and almond · a few saffron threads
+- Cold from the fridge in a shallow bowl with the rabri spooned over · a scatter of pistachio and almond · a few saffron threads
 
 ## Storage
 - Refrigerate up to 4 days

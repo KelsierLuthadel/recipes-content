@@ -69,15 +69,15 @@ Pastizzi are Malta's most iconic street food, small flaky phyllo-pastry pockets 
 - **Eat warm:** the cheese filling firms when cold.
 
 ## Variations
-**Pastizzi tal-irkotta:** the ricotta traditional.
-**Pastizzi tal-piżelli:** the curried pea traditional.
-**Pastizzi tat-tonn:** with tuna and tomato.
-**Pastizzi tal-laħam:** with minced beef and spices.
-**Pastizzi taċ-ċikkulata:** with chocolate and ricotta, dessert variant.
-**Mini pastizzi:** smaller squares for canapé portions.
+- **Pastizzi tal-irkotta:** the ricotta traditional.
+- **Pastizzi tal-piżelli:** the curried pea traditional.
+- **Pastizzi tat-tonn:** with tuna and tomato.
+- **Pastizzi tal-laħam:** with minced beef and spices.
+- **Pastizzi taċ-ċikkulata:** with chocolate and ricotta, dessert variant.
+- **Mini pastizzi:** smaller squares for canapé portions.
 
 ## Serving
-At every Maltese pastizzeria (the traditional setting) · at a Maltese bus station · at a Maltese coffee morning · at a Maltese village square shop · at any time of day in Malta · at home with strong coffee.
+- At every Maltese pastizzeria (the traditional setting) · at a Maltese bus station · at a Maltese coffee morning · at a Maltese village square shop · at any time of day in Malta · at home with strong coffee.
 
 ## Storage
 - Best eaten warm.

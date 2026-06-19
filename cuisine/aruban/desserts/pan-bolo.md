@@ -66,15 +66,15 @@ Pan bolo (literally "bread cake") is the Aruban afternoon-coffee cake: a dense y
 - **Cool before slicing:** a hot pan bolo crumbles. Let it set.
 
 ## Variations
-**Pan bolo cu coco:** swap 150 ml of the milk for coconut milk for a richer crumb.
-**Pan bolo cu papaya:** fold in 100 g diced dried papaya in place of half the raisins.
-**Pan bolo with rum-soaked raisins:** soak the raisins in 60 ml dark rum overnight before adding, the festive version.
-**Pan bolo cu kashupete:** double the cashews and skip the raisins, the all-nut version.
-**Loaf-tin pan bolo:** bake in a 1 kg loaf tin for 60 minutes; slice for breakfast.
-**Lighter pan bolo:** reduce the butter to 180 g for an everyday slim version.
+- **Pan bolo cu coco:** swap 150 ml of the milk for coconut milk for a richer crumb.
+- **Pan bolo cu papaya:** fold in 100 g diced dried papaya in place of half the raisins.
+- **Pan bolo with rum-soaked raisins:** soak the raisins in 60 ml dark rum overnight before adding, the festive version.
+- **Pan bolo cu kashupete:** double the cashews and skip the raisins, the all-nut version.
+- **Loaf-tin pan bolo:** bake in a 1 kg loaf tin for 60 minutes; slice for breakfast.
+- **Lighter pan bolo:** reduce the butter to 180 g for an everyday slim version.
 
 ## Serving
-At the Aruban four-o-clock coffee · with pega-pega coffee · at breakfast with butter · as a hostess gift when visiting · at an afternoon Easter coffee table · with a glass of milk for the children · with a small glass of orange liqueur for the grown-ups.
+- At the Aruban four-o-clock coffee · with pega-pega coffee · at breakfast with butter · as a hostess gift when visiting · at an afternoon Easter coffee table · with a glass of milk for the children · with a small glass of orange liqueur for the grown-ups.
 
 ## Storage
 - Keeps 4 days at room temperature in a tin; the crumb stays moist.

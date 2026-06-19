@@ -71,13 +71,13 @@ Pão moçambicano is Mozambique's everyday white bread, inherited from Portugues
 - **Don't skip the score:** the slash on top lets steam escape during baking and gives the iconic look.
 
 ## Variations
-**Whole wheat version:** swap 200 g of the bread flour for whole wheat flour; gives a heartier rougher roll.
-**Cheese pão:** sprinkle a small amount of grated cheese (Parmesan or cheddar) over the egg wash before baking; gives a cheese-crusted variation.
-**Olive oil pão:** swap the butter for 60 ml of olive oil; gives a slightly different flavour and crumb.
-**Sweeter pão (pão doce):** double the sugar to 120 g; gives a slightly sweeter breakfast roll. Common Mozambican variant.
+- **Whole wheat version:** swap 200 g of the bread flour for whole wheat flour; gives a heartier rougher roll.
+- **Cheese pão:** sprinkle a small amount of grated cheese (Parmesan or cheddar) over the egg wash before baking; gives a cheese-crusted variation.
+- **Olive oil pão:** swap the butter for 60 ml of olive oil; gives a slightly different flavour and crumb.
+- **Sweeter pão (pão doce):** double the sugar to 120 g; gives a slightly sweeter breakfast roll. Common Mozambican variant.
 
 ## Serving
-Warm with strong sweet milky coffee (the traditional Mozambican breakfast). Split open with butter, queijo (cheese), jam, or honey. At lunch with grilled fish, sausages, or cheese. At dinner to mop up sauces from grilled prawns, peri-peri chicken, or matata.
+- Warm with strong sweet milky coffee (the traditional Mozambican breakfast). Split open with butter, queijo (cheese), jam, or honey. At lunch with grilled fish, sausages, or cheese. At dinner to mop up sauces from grilled prawns, peri-peri chicken, or matata.
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 days; the bread firms up after 24 hours.

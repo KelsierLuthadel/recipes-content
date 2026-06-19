@@ -55,7 +55,7 @@ Kangkung (water spinach, also called morning glory or ong choy) grows in the wet
 - **Don't overcook:** Kangkung leaves wilt in seconds. Total stir-fry time should be 2-3 minutes from when the greens hit the wok.
 
 ## Serving
-Serve hot as a side alongside any Singaporean main - chilli crab, Hainanese chicken rice, laksa, or a simple bowl of plain rice.
+- Serve hot as a side alongside any Singaporean main - chilli crab, Hainanese chicken rice, laksa, or a simple bowl of plain rice.
 
 ## Storage
 - Best the same hour. Reheated kangkung loses its bite.

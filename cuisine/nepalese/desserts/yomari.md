@@ -80,9 +80,9 @@ This recipe uses chaku (palm sugar molasses), which is the proper traditional fi
 - **Saffron-tinted dough:** add a pinch of saffron threads to the hot water for a faintly golden wrapper. Wedding upgrade.
 
 ## Serving
-Three or four per person as a dessert; one per person as a sweet snack with tea. Plain hot milk tea (chiya) is the traditional drink alongside.
+- Three or four per person as a dessert; one per person as a sweet snack with tea. Plain hot milk tea (chiya) is the traditional drink alongside.
 
-For Yomari Punhi celebrations, the dumplings are also offered at the family shrine and to married daughters as a blessing.
+- For Yomari Punhi celebrations, the dumplings are also offered at the family shrine and to married daughters as a blessing.
 
 ## Storage
 - Best eaten warm the day they are steamed. The filling firms up as it cools.

@@ -104,9 +104,9 @@ The name dopiaza literally means "two onions" (do = two, piaza = onion), and tha
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the thick sauce. A side of cool raita balances the scorched, savoury character.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the thick sauce. A side of cool raita balances the scorched, savoury character.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The scorched onion segments soften further overnight as they absorb sauce, which some prefer; if you want them to keep their bite, eat fresh. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth.

@@ -44,7 +44,7 @@ Sauce Aurore is the building block for the gentle pale-pink sauce that drapes ov
 - **Straining:** Final sieving creates silky texture; do not omit for superior finish.
 
 ## Serving
-Serve with poached eggs, cooked cauliflower, butter pasta, grilled turkey escalope, and light white meats.
+- Serve with poached eggs, cooked cauliflower, butter pasta, grilled turkey escalope, and light white meats.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

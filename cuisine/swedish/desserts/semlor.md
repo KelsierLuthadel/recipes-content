@@ -107,15 +107,15 @@ Semlor (singular: semla) are Sweden's iconic Lent and Shrove Tuesday buns and a 
 - **Eat soon after assembly:** the cream and the bun work best together when fresh.
 
 ## Variations
-**Semmelwrap:** the modern Stockholm hipster variant, a flatbread wrap filled with the same almond paste + whipped cream, rolled like a burrito.
-**Saffron semlor:** add a pinch of saffron to the dough for a yellow-tinted Christmas-adjacent variant.
-**Chocolate semlor:** dip the bottoms in melted chocolate; add a touch of cocoa to the almond paste.
-**Vanilla semlor:** add vanilla extract to the dough and the paste.
-**Mini semlor (cocktail-size):** small buns; great for a fika spread.
-**Vegan semlor:** swap milk for oat milk, egg for flax egg, butter for vegan butter, cream for whipped coconut cream.
+- **Semmelwrap:** the modern Stockholm hipster variant, a flatbread wrap filled with the same almond paste + whipped cream, rolled like a burrito.
+- **Saffron semlor:** add a pinch of saffron to the dough for a yellow-tinted Christmas-adjacent variant.
+- **Chocolate semlor:** dip the bottoms in melted chocolate; add a touch of cocoa to the almond paste.
+- **Vanilla semlor:** add vanilla extract to the dough and the paste.
+- **Mini semlor (cocktail-size):** small buns; great for a fika spread.
+- **Vegan semlor:** swap milk for oat milk, egg for flax egg, butter for vegan butter, cream for whipped coconut cream.
 
 ## Serving
-On Shrove Tuesday (Fettisdagen): the traditional day, when Swedes eat semlor by the millions · throughout Lent (the period from Ash Wednesday to Easter) · at every Swedish bakery from late January to Easter · with hot black coffee mid-afternoon (the fika ritual).
+- On Shrove Tuesday (Fettisdagen): the traditional day, when Swedes eat semlor by the millions · throughout Lent (the period from Ash Wednesday to Easter) · at every Swedish bakery from late January to Easter · with hot black coffee mid-afternoon (the fika ritual).
 
 ## Storage
 - Semlor are best within 2-3 hours of assembly.

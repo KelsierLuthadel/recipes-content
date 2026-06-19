@@ -72,14 +72,14 @@ Oildown is the national dish of Grenada and the one pot every Grenadian cook lea
 - **The right pot:** a heavy iron or enamelled pot holds the heat low and even; a thin pot scorches the bottom layer.
 
 ## Variations
-**Beach lime oildown:** doubled in a 20-litre iron pot over a wood fire on the sand.
-**Chicken oildown:** brined chicken thighs instead of salt meat for a lighter version.
-**Pigtail oildown:** add 200 g salt pigtail with the salt beef for an extra smoky layer.
-**Crab oildown:** add 4 whole blue crabs on top in the final 20 minutes.
-**Vegetarian oildown:** skip the salt meat, double the dumplings, season heavily with thyme and smoked paprika.
+- **Beach lime oildown:** doubled in a 20-litre iron pot over a wood fire on the sand.
+- **Chicken oildown:** brined chicken thighs instead of salt meat for a lighter version.
+- **Pigtail oildown:** add 200 g salt pigtail with the salt beef for an extra smoky layer.
+- **Crab oildown:** add 4 whole blue crabs on top in the final 20 minutes.
+- **Vegetarian oildown:** skip the salt meat, double the dumplings, season heavily with thyme and smoked paprika.
 
 ## Serving
-Eat from the pot at a beach gathering · Saturday yard lime · with a bottle of hot pepper sauce on the side · with a cold Carib or Stag beer · with slices of avocado on the side.
+- Eat from the pot at a beach gathering · Saturday yard lime · with a bottle of hot pepper sauce on the side · with a cold Carib or Stag beer · with slices of avocado on the side.
 
 ## Storage
 - Keeps 3 days refrigerated.

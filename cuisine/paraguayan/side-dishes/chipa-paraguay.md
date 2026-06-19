@@ -57,7 +57,7 @@ Chipa is the bread of Paraguay, eaten at breakfast with mate cocido, sold from c
 - **Chipa with extra cheese:** scatter a tablespoon of grated hard cheese over each ring before baking.
 
 ## Serving
-Eat warm from the oven · with mate cocido at breakfast · with tereré in the afternoon · alongside vori vori, bori bori or so'o yosopy as the bread of the meal · at long-distance bus stops, the standard road snack.
+- Eat warm from the oven · with mate cocido at breakfast · with tereré in the afternoon · alongside vori vori, bori bori or so'o yosopy as the bread of the meal · at long-distance bus stops, the standard road snack.
 
 ## Storage
 - Best within 4 hours of baking; freshness is everything

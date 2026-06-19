@@ -54,13 +54,13 @@
 - **Don't pre-make:** the bread softens fast.
 
 ## Variations
-**With anchovies:** swap or add anchovies for the tuna.
-**With tomato paste (kunserva):** spread the Maltese sun-dried tomato paste before adding fresh tomato.
-**Vegetarian:** skip tuna; double the cheese and olives.
-**Mini ħobż:** small slices for canapé portions.
+- **With anchovies:** swap or add anchovies for the tuna.
+- **With tomato paste (kunserva):** spread the Maltese sun-dried tomato paste before adding fresh tomato.
+- **Vegetarian:** skip tuna; double the cheese and olives.
+- **Mini ħobż:** small slices for canapé portions.
 
 ## Serving
-At a Maltese beach picnic · at a Maltese village festa · as a Maltese breakfast or lunch · at a fishing-village snack stop · at home as a quick supper.
+- At a Maltese beach picnic · at a Maltese village festa · as a Maltese breakfast or lunch · at a fishing-village snack stop · at home as a quick supper.
 
 ## Storage
 - Eat immediately.

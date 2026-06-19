@@ -110,15 +110,15 @@ Schweinshaxe (literally "pig knuckle") is Bavaria's most iconic beer-garden dish
 - **Use Bavarian lager:** the traditional pairing. Helles (pale lager) is most popular; Dunkel (dark lager) is excellent.
 
 ## Variations
-**With apple-mustard sauce:** swap the gravy for a sauce of cooked apples, mustard, and a splash of cider, autumn Bavarian variant.
-**With horseradish cream:** serve with a horseradish-and-cream sauce alongside, modern restaurant touch.
-**Smoked schweinshaxe (Eisbein, Berlin variant):** the Berlin version is smoked rather than roasted, and served simmered instead of roasted; different dish entirely.
-**With dumpling-on-bread (Knödel im Brot):** swap the knödel for slices of stale bread sautéed in butter, Bavarian rustic variant.
-**Schweinshaxe Kassler:** uses cured (kassler) pork rather than fresh, easier to cook, less crackling.
-**Schweinshaxe with cabbage instead of sauerkraut:** lightly braised cabbage rather than fermented kraut, easier, less assertive.
+- **With apple-mustard sauce:** swap the gravy for a sauce of cooked apples, mustard, and a splash of cider, autumn Bavarian variant.
+- **With horseradish cream:** serve with a horseradish-and-cream sauce alongside, modern restaurant touch.
+- **Smoked schweinshaxe (Eisbein, Berlin variant):** the Berlin version is smoked rather than roasted, and served simmered instead of roasted; different dish entirely.
+- **With dumpling-on-bread (Knödel im Brot):** swap the knödel for slices of stale bread sautéed in butter, Bavarian rustic variant.
+- **Schweinshaxe Kassler:** uses cured (kassler) pork rather than fresh, easier to cook, less crackling.
+- **Schweinshaxe with cabbage instead of sauerkraut:** lightly braised cabbage rather than fermented kraut, easier, less assertive.
 
 ## Serving
-At a Munich beer garden (the traditional setting) · at the Hofbräuhaus in Munich · at Oktoberfest · at a Bavarian Sunday family lunch · at a Bavarian-themed restaurant abroad · at home with a stein of lager and a Wagner opera in the background.
+- At a Munich beer garden (the traditional setting) · at the Hofbräuhaus in Munich · at Oktoberfest · at a Bavarian Sunday family lunch · at a Bavarian-themed restaurant abroad · at home with a stein of lager and a Wagner opera in the background.
 
 ## Storage
 - Cooked knuckles refrigerate 3 days; reheat in a 180°C oven for 15-20 minutes.

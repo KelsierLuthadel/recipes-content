@@ -90,14 +90,14 @@ This is the mixed prawn-and-pork pad thai, a more abundant take on the Bangkok s
 - **Make-ahead:** Prep all ingredients in advance; cooking itself is very quick once you start.
 
 ## Variations
-**Vegetarian:** Omit all proteins and use extra vegetables (mushrooms, broccoli, carrots) and tofu or chickpeas
-**Shrimp-only:** Use 400g large prawns instead of the mixed proteins for a seafood-focused version
-**Extra spicy:** Increase red curry paste to 1 ½ teaspoons or add fresh bird's eye chillies
-**With pineapple:** Add ½ cup fresh pineapple chunks in Stage 5 for sweetness and tropical flavour
-**Milder version:** Reduce chilli sauce and curry paste by half, or omit fresh chillies
+- **Vegetarian:** Omit all proteins and use extra vegetables (mushrooms, broccoli, carrots) and tofu or chickpeas
+- **Shrimp-only:** Use 400g large prawns instead of the mixed proteins for a seafood-focused version
+- **Extra spicy:** Increase red curry paste to 1 ½ teaspoons or add fresh bird's eye chillies
+- **With pineapple:** Add ½ cup fresh pineapple chunks in Stage 5 for sweetness and tropical flavour
+- **Milder version:** Reduce chilli sauce and curry paste by half, or omit fresh chillies
 
 ## Serving
-Serve immediately in bowls with: Extra crushed peanuts, fresh lime wedges, Thai basil leaves, and chilli flakes on the side. Pair with jasmine rice or a fresh Thai salad.
+- Serve immediately in bowls with: Extra crushed peanuts, fresh lime wedges, Thai basil leaves, and chilli flakes on the side. Pair with jasmine rice or a fresh Thai salad.
 
 ## Storage
 - Best eaten immediately while hot and aromatic

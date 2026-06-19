@@ -123,13 +123,13 @@ Enchiladas Suizas (literally "Swiss enchiladas") is one of Mexico City's most be
 - **Don't overbake:** 18-20 minutes is right; longer and the cheese over-browns.
 
 ## Variations
-**Beef enchiladas Suizas:** swap chicken for shredded slow-cooked beef.
-**Mushroom enchiladas Suizas (vegetarian):** swap chicken for chopped sautéed mushrooms + cooked spinach.
-**Spicier:** double the jalapeños and add 1 chopped serrano; properly fierce.
-**Without cream (red enchiladas instead):** swap the cream-tomatillo sauce for a red enchilada sauce (made from ancho and guajillo chillies).
+- **Beef enchiladas Suizas:** swap chicken for shredded slow-cooked beef.
+- **Mushroom enchiladas Suizas (vegetarian):** swap chicken for chopped sautéed mushrooms + cooked spinach.
+- **Spicier:** double the jalapeños and add 1 chopped serrano; properly fierce.
+- **Without cream (red enchiladas instead):** swap the cream-tomatillo sauce for a red enchilada sauce (made from ancho and guajillo chillies).
 
 ## Serving
-On warm plates with Mexican rice and refried beans alongside. Sliced avocado, lime, hot sauce. Drink: Mexican beer, agua de jamaica, or a Mexican white wine.
+- On warm plates with Mexican rice and refried beans alongside. Sliced avocado, lime, hot sauce. Drink: Mexican beer, agua de jamaica, or a Mexican white wine.
 
 ## Storage
 - Keeps refrigerated 3 days; reheat in a covered oven dish at 180°C for 15 minutes.

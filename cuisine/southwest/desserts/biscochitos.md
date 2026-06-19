@@ -75,13 +75,13 @@ Biscochitos are New Mexico's iconic anise-cinnamon shortbread cookies and the of
 - **Coat warm:** so the sugar adheres.
 
 ## Variations
-**Butter version:** swap lard for butter; less traditional but accessible.
-**Larger biscochitos:** roll thicker; cut larger.
-**Without brandy:** use orange juice for non-alcoholic version.
-**Iced biscochitos:** dip in a simple icing instead of cinnamon sugar.
+- **Butter version:** swap lard for butter; less traditional but accessible.
+- **Larger biscochitos:** roll thicker; cut larger.
+- **Without brandy:** use orange juice for non-alcoholic version.
+- **Iced biscochitos:** dip in a simple icing instead of cinnamon sugar.
 
 ## Serving
-At New Mexico Christmas, weddings, Día de los Muertos. With Mexican hot chocolate.
+- At New Mexico Christmas, weddings, Día de los Muertos. With Mexican hot chocolate.
 
 ## Storage
 - Keeps in sealed container at room temp 2 weeks.

@@ -60,13 +60,13 @@ Grelos com alho (literally "turnip-tops with garlic") is Portugal's beloved garl
 - **Bitter greens:** the bitterness is the point.
 
 ## Variations
-**With chouriço:** add 100 g of sliced chouriço with the garlic; gives extra richness.
-**Spicier:** double the red pepper flakes; add 1 tablespoon piri-piri.
-**With anchovy:** add 2 anchovy fillets to the oil with the garlic; gives umami.
-**With pine nuts:** add 30 g of toasted pine nuts; gives Italian-leaning texture.
+- **With chouriço:** add 100 g of sliced chouriço with the garlic; gives extra richness.
+- **Spicier:** double the red pepper flakes; add 1 tablespoon piri-piri.
+- **With anchovy:** add 2 anchovy fillets to the oil with the garlic; gives umami.
+- **With pine nuts:** add 30 g of toasted pine nuts; gives Italian-leaning texture.
 
 ## Serving
-Alongside any Portuguese main: bitoque, francesinha, bacalhau dishes, cozido, grilled fish.
+- Alongside any Portuguese main: bitoque, francesinha, bacalhau dishes, cozido, grilled fish.
 
 ## Storage
 - Best eaten warm.

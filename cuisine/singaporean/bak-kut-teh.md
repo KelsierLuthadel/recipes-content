@@ -75,7 +75,7 @@ Bak kut teh ("meat bone tea" - though no tea is involved; the name is debated) i
 - **The dipping ritual:** Diners take a rib piece, dip it briefly in the dark-soy-and-chilli, then eat. The plain broth gets sipped from a spoon. Rice gets eaten alongside.
 
 ## Serving
-Serve hot for breakfast or lunch. The Singapore tradition is to slurp the soup quickly while it's piping hot, dipping you-tiao between sips. Tea on the side - any Chinese tea works.
+- Serve hot for breakfast or lunch. The Singapore tradition is to slurp the soup quickly while it's piping hot, dipping you-tiao between sips. Tea on the side - any Chinese tea works.
 
 ## Storage
 - Refrigerate 4 days. The broth often improves overnight as the garlic mellows.

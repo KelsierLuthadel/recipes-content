@@ -53,7 +53,7 @@ Felfel mhamer (literally "browned peppers") is the cooked sister of hmiss: where
 - **A whisper of sugar.** Some Oran cooks add 0.5 tsp sugar at the end to balance the acidity. Optional, but it works with very tart tomatoes.
 
 ## Serving
-Serve cool or at room temperature with warm bread (khobz, baguette or pita) for scooping, as part of a mezze spread, or alongside grilled lamb or fish. A spoonful next to scrambled eggs makes a beautiful Algerian breakfast.
+- Serve cool or at room temperature with warm bread (khobz, baguette or pita) for scooping, as part of a mezze spread, or alongside grilled lamb or fish. A spoonful next to scrambled eggs makes a beautiful Algerian breakfast.
 
 ## Storage
 - Keeps 1 week refrigerated under a film of olive oil in a sealed jar

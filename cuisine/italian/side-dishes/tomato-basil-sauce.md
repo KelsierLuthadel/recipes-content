@@ -93,17 +93,17 @@ An uncooked tomato salsa that hinges entirely on what your tomatoes taste like, 
 - **White Pepper Preferred:** White pepper provides subtle heat without visual black specks; black pepper works but looks less refined.
 
 ## Variations
-**With Shallot:** Add ½ small shallot (very finely minced) at the resting stage for subtle onion depth.
-**Extra Basil:** Increase basil to 30 grams (approximately ¼ cup) for stronger herbal character (watch for wilting if using full amount earlier than 30 minutes before service).
-**With Anchovy:** Add ½ anchovy fillet (finely minced) to the oil for deeper umami (classic Italian approach).
-**Oregano Instead of Basil:** Substitute fresh oregano for basil for different herbaceous character (more assertive, less sweet).
-**Red Wine Vinegar Version:** Add 1 tablespoon red wine vinegar alongside lemon juice for sharper, more assertive acid profile.
+- **With Shallot:** Add ½ small shallot (very finely minced) at the resting stage for subtle onion depth.
+- **Extra Basil:** Increase basil to 30 grams (approximately ¼ cup) for stronger herbal character (watch for wilting if using full amount earlier than 30 minutes before service).
+- **With Anchovy:** Add ½ anchovy fillet (finely minced) to the oil for deeper umami (classic Italian approach).
+- **Oregano Instead of Basil:** Substitute fresh oregano for basil for different herbaceous character (more assertive, less sweet).
+- **Red Wine Vinegar Version:** Add 1 tablespoon red wine vinegar alongside lemon juice for sharper, more assertive acid profile.
 
 ## Serving
-Perfect with: Lightly grilled or poached seafood, delicate white fish (sole, halibut, sea bass), cold roasted chicken or veal, room-temperature vegetable preparations, on grilled bread
-Temperature: Room temperature (never chilled or warm)
-Ratio: 2-3 tablespoons per serving
-Context: Light fish course, cold meat appetizers, elegant summer service
+- Perfect with: Lightly grilled or poached seafood, delicate white fish (sole, halibut, sea bass), cold roasted chicken or veal, room-temperature vegetable preparations, on grilled bread
+- Temperature: Room temperature (never chilled or warm)
+- Ratio: 2-3 tablespoons per serving
+- Context: Light fish course, cold meat appetizers, elegant summer service
 
 ## Storage
 - The base salsa (without basil) can be refrigerated in a sealed glass container for up to 2-3 days.

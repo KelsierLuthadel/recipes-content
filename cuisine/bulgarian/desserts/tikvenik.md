@@ -67,7 +67,7 @@ Tikvenik is the autumn pastry that arrives in Bulgarian households the week the 
 - **Sirene-and-pumpkin tikvenik:** the sweet-savoury hybrid from the Rhodopes, with crumbled sirene added to the filling.
 
 ## Serving
-Warm with a strong Bulgarian coffee · cold with a glass of mulled red at midnight · the Christmas Eve table in a wedge alongside the boiled wheat (zhito) · with a dollop of plain yoghurt on the side · with a thread of honey for an everyday breakfast · cut small for a Sunday tea board.
+- Warm with a strong Bulgarian coffee · cold with a glass of mulled red at midnight · the Christmas Eve table in a wedge alongside the boiled wheat (zhito) · with a dollop of plain yoghurt on the side · with a thread of honey for an everyday breakfast · cut small for a Sunday tea board.
 
 ## Storage
 - Keeps 3 days at room temperature wrapped in a tea towel.

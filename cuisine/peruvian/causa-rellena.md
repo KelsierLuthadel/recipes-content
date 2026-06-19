@@ -113,16 +113,16 @@ Causa rellena ("stuffed cause") is one of Peru's most identity-defining cold sta
 - **The garnish is the show:** Peruvian causa is an Instagram dish, the garnish is what makes it spectacular.
 
 ## Variations
-**Causa individual:** instead of one large round, use 8 individual ring moulds (8 cm diameter, 5 cm tall) for elegant individual portions.
-**Causa de cangrejo (crab):** the upmarket Lima restaurant version, crab meat with mayo, lime and chives.
-**Causa limeña classic (chicken-avocado):** Lima's most popular filling.
-**Vegetarian causa:** swap the filling for chopped roasted vegetables + mayo + lime; or for grated cheddar + diced avocado + sour cream.
-**Modern Lima fine-dining causa:** thin stripes of potato mash + delicate fish ceviche + microgreens, the deconstructed version.
-**Causa with quinoa:** swap half the potato for cooked quinoa, the modern healthy variant.
-**Mini causas for canapés:** make 30 small (3 cm) rounds with piped mash and a tiny dollop of filling.
+- **Causa individual:** instead of one large round, use 8 individual ring moulds (8 cm diameter, 5 cm tall) for elegant individual portions.
+- **Causa de cangrejo (crab):** the upmarket Lima restaurant version, crab meat with mayo, lime and chives.
+- **Causa limeña classic (chicken-avocado):** Lima's most popular filling.
+- **Vegetarian causa:** swap the filling for chopped roasted vegetables + mayo + lime; or for grated cheddar + diced avocado + sour cream.
+- **Modern Lima fine-dining causa:** thin stripes of potato mash + delicate fish ceviche + microgreens, the deconstructed version.
+- **Causa with quinoa:** swap half the potato for cooked quinoa, the modern healthy variant.
+- **Mini causas for canapés:** make 30 small (3 cm) rounds with piped mash and a tiny dollop of filling.
 
 ## Serving
-At a Lima Sunday family lunch (the traditional setting; cold first course before lomo saltado or aji de gallina) · at a Peruvian Independence Day celebration · at a Peruvian wedding canapé table · at a Lima criolla restaurant · at a Peruvian summer terrace lunch · at home as a make-ahead dinner-party starter.
+- At a Lima Sunday family lunch (the traditional setting; cold first course before lomo saltado or aji de gallina) · at a Peruvian Independence Day celebration · at a Peruvian wedding canapé table · at a Lima criolla restaurant · at a Peruvian summer terrace lunch · at home as a make-ahead dinner-party starter.
 
 ## Storage
 - Refrigerates 3 days, well covered. Slice fresh each time.

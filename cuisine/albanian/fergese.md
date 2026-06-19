@@ -60,7 +60,7 @@ Fergese (often written fergese me speca, fergese with peppers) is the most Alban
 - **With egg:** crack 4 eggs onto the surface before the grill stage for a richer brunch dish.
 
 ## Serving
-Bring the pan to the table · crusty bread to scoop · a chilled glass of white wine or raki · a tomato salad on the side · a green salad of cos and spring onion.
+- Bring the pan to the table · crusty bread to scoop · a chilled glass of white wine or raki · a tomato salad on the side · a green salad of cos and spring onion.
 
 ## Storage
 - Keeps 3 days refrigerated; the flavour improves overnight

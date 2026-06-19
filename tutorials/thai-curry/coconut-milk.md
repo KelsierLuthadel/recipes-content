@@ -79,16 +79,16 @@ A poorly-built curry shows:
 ## Variations
 
 ### When Cream Cracking Doesn't Work
-Some tinned coconut milks are too homogenised to crack visibly. In that case:
+- Some tinned coconut milks are too homogenised to crack visibly. In that case:
 - Use the whole tin without separating.
 - Reduce it harder in the pan; the water evaporates and the oil eventually rises.
 - It takes longer (4-5 minutes vs 2-3) but produces the same result.
 
 ### Massaman (Long-Cook) Variation
-For [massaman](massaman.md), the technique is similar but the cook time is much longer. The cream is cracked; the paste is fried; the meat (chuck/shoulder) goes in; the thin coconut milk plus stock plus whole spices simmer for 60-90 minutes. The fry-the-paste step is the same.
+- For [massaman](massaman.md), the technique is similar but the cook time is much longer. The cream is cracked; the paste is fried; the meat (chuck/shoulder) goes in; the thin coconut milk plus stock plus whole spices simmer for 60-90 minutes. The fry-the-paste step is the same.
 
 ### Panang (Dry-Sauce) Variation
-For [panang](panang.md), the cream-crack-fry step is the same but you use HALF the usual coconut milk. The result is a much thicker sauce that clings to the protein.
+- For [panang](panang.md), the cream-crack-fry step is the same but you use HALF the usual coconut milk. The result is a much thicker sauce that clings to the protein.
 
 ## Common Mistakes
 

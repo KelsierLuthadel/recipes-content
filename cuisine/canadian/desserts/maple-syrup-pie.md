@@ -106,17 +106,17 @@ Tarte au sirop d'érable is the Quebec dessert that distils the entire maple-sug
 - **Pure maple, never pancake syrup:** "maple-flavoured syrup" is corn syrup with artificial flavouring; the result is shockingly sweet and one-dimensional.
 
 ## Variations
-**Maple-walnut pie:** scatter 100 g toasted walnut halves over the base of the pie shell before pouring in the filling, the Quebec-Ontario crossover.
-**Maple-pecan pie (the southern-cousin version):** swap walnuts for pecans, omit the cornflour, follow the standard pecan-pie format. Reads more American than Canadian.
-**Sugar-shack maple pie (more intense):** double the maple syrup and skip the brown sugar; add an extra 1 tablespoon cornflour to compensate; the Quebec sugar-shack version is unapologetically syrupy.
-**Whisky-maple pie:** double the optional Canadian whisky in the filling, the adult dinner-party variant.
-**Maple cream pie (no-bake):** make a cooked maple custard with cornflour; pour into a baked crust; chill, lighter, smoother, modern.
-**Tarte au sucre (sugar pie):** the sweeter cousin, made with brown sugar and cream, no maple syrup. A Quebec staple in households without access to maple syrup.
-**Mini maple-syrup tarts:** divide the filling among 12 individual tart shells; bake 18-22 minutes, the buffet variant.
-**Maple-syrup pie with bourbon-pecan crumble top:** add a streusel topping (60 g butter + 60 g flour + 60 g brown sugar + 40 g chopped pecans) in the last 15 minutes of baking, the modern Toronto bakery variant.
+- **Maple-walnut pie:** scatter 100 g toasted walnut halves over the base of the pie shell before pouring in the filling, the Quebec-Ontario crossover.
+- **Maple-pecan pie (the southern-cousin version):** swap walnuts for pecans, omit the cornflour, follow the standard pecan-pie format. Reads more American than Canadian.
+- **Sugar-shack maple pie (more intense):** double the maple syrup and skip the brown sugar; add an extra 1 tablespoon cornflour to compensate; the Quebec sugar-shack version is unapologetically syrupy.
+- **Whisky-maple pie:** double the optional Canadian whisky in the filling, the adult dinner-party variant.
+- **Maple cream pie (no-bake):** make a cooked maple custard with cornflour; pour into a baked crust; chill, lighter, smoother, modern.
+- **Tarte au sucre (sugar pie):** the sweeter cousin, made with brown sugar and cream, no maple syrup. A Quebec staple in households without access to maple syrup.
+- **Mini maple-syrup tarts:** divide the filling among 12 individual tart shells; bake 18-22 minutes, the buffet variant.
+- **Maple-syrup pie with bourbon-pecan crumble top:** add a streusel topping (60 g butter + 60 g flour + 60 g brown sugar + 40 g chopped pecans) in the last 15 minutes of baking, the modern Toronto bakery variant.
 
 ## Serving
-At a Quebec sugar shack (cabane à sucre) at the end of a maple-tapping season meal (the traditional setting; March-April in Quebec) · at a Quebec Christmas Eve reveillon dessert table · at a Canadian Thanksgiving dinner · at a Quebec family Sunday lunch · at a Toronto restaurant dessert menu · at home as the showpiece for a Canadian dinner-party · paired with a glass of late-harvest Riesling or a small Canadian ice wine.
+- At a Quebec sugar shack (cabane à sucre) at the end of a maple-tapping season meal (the traditional setting; March-April in Quebec) · at a Quebec Christmas Eve reveillon dessert table · at a Canadian Thanksgiving dinner · at a Quebec family Sunday lunch · at a Toronto restaurant dessert menu · at home as the showpiece for a Canadian dinner-party · paired with a glass of late-harvest Riesling or a small Canadian ice wine.
 
 ## Storage
 - Refrigerates 5 days. The pie can be served straight from the fridge or warmed gently (a 150°C oven for 10 minutes).

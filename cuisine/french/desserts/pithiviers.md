@@ -57,7 +57,7 @@ Pithiviers is the classical French puff pastry tart from the town of the same na
 - The final temperature increase to 200°C and icing sugar glaze create the characteristic caramelized, glossy finish; watch carefully to avoid burning
 
 ## Serving
-Slice the pithiviers at the table with a sharp knife to reveal the beautiful interior. Serve warm or at room temperature with a spoonful of crème anglaise alongside if desired. The visual presentation with its decorative top layer and the contrast between crispy pastry and smooth filling make this a showstopper.
+- Slice the pithiviers at the table with a sharp knife to reveal the beautiful interior. Serve warm or at room temperature with a spoonful of crème anglaise alongside if desired. The visual presentation with its decorative top layer and the contrast between crispy pastry and smooth filling make this a showstopper.
 
 ## Storage
 The assembled but unbaked pithiviers can be refrigerated for up to 4 hours before baking, allowing you to bake when ready to serve. The baked pithiviers is best served warm or at room temperature on the day it's baked; once cool, the pastry gradually becomes soft. Cover lightly with foil if keeping warm for an hour or so after baking.

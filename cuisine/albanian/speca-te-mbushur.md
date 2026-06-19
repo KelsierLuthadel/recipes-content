@@ -87,7 +87,7 @@ Speca te mbushur (stuffed peppers) is the autumn family meal across Albania, mad
 - **Tomato-baked:** transfer to a roasting tin after stage 3, finish in a 180C oven for 30 minutes for a darker top.
 
 ## Serving
-A spoon of cold yoghurt on each pepper · crusty bread to mop the sauce · a green salad with vinegar and oil · a glass of country red · pickled peppers on the side for the country version.
+- A spoon of cold yoghurt on each pepper · crusty bread to mop the sauce · a green salad with vinegar and oil · a glass of country red · pickled peppers on the side for the country version.
 
 ## Storage
 - Keeps 4 days refrigerated; the flavour deepens overnight

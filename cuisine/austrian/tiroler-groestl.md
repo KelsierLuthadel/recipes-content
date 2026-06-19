@@ -69,13 +69,13 @@ Gröstl is the Tyrolean skillet hash you'd find on every mountain hut menu from 
 - **Egg on top:** the runny yolk is structural, not garnish. As you eat, you break it into the hash and it coats the potatoes and meat. Skip the egg and you lose half the dish.
 
 ## Variations
-**Pfandlgröstl:** literally "pan gröstl", the same hash but served in the iron pan it was cooked in, often with a thumb of horseradish on the side.
-**Kaspressknödel-Gröstl:** small Tyrolean cheese dumplings sliced and pan-fried with the potatoes, no meat, a hearty vegetarian variant from Vorarlberg.
-**Vegetarian:** swap the bacon and meat for diced smoked tofu and a handful of mushrooms; less authentic but works for the same hash structure.
-**Sauerkraut topping:** spoon hot sauerkraut over the hash before the egg goes on, common in Innsbruck pubs.
+- **Pfandlgröstl:** literally "pan gröstl", the same hash but served in the iron pan it was cooked in, often with a thumb of horseradish on the side.
+- **Kaspressknödel-Gröstl:** small Tyrolean cheese dumplings sliced and pan-fried with the potatoes, no meat, a hearty vegetarian variant from Vorarlberg.
+- **Vegetarian:** swap the bacon and meat for diced smoked tofu and a handful of mushrooms; less authentic but works for the same hash structure.
+- **Sauerkraut topping:** spoon hot sauerkraut over the hash before the egg goes on, common in Innsbruck pubs.
 
 ## Serving
-Bring to the table straight from the skillet with chunky pickled gherkins, a small pile of sauerkraut, or a bowl of green salad dressed with cider vinegar and pumpkin seed oil. A glass of Austrian lager or a young schilcher rosé fits the rustic register. This is hut food and should never appear on white china.
+- Bring to the table straight from the skillet with chunky pickled gherkins, a small pile of sauerkraut, or a bowl of green salad dressed with cider vinegar and pumpkin seed oil. A glass of Austrian lager or a young schilcher rosé fits the rustic register. This is hut food and should never appear on white china.
 
 ## Storage
 - Best eaten immediately. The crisp edges go soft as the hash sits.

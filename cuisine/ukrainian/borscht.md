@@ -114,14 +114,14 @@ Borscht is Ukraine's national dish, the deep crimson beetroot-and-beef soup that
 - **Improves overnight:** borscht is famously better the next day. The flavours marry, the meat absorbs more of the broth, the vegetables soften slightly into the soup. Make ahead if possible.
 
 ## Variations
-**Borscht with kidney beans:** add 200 g of cooked kidney beans to the soup in the last 5 minutes; a regional variation from western Ukraine.
-**Vegetarian borscht:** skip the beef; build a stock from a piece of celeriac, leek, carrot and parsnip simmered with bay leaves; reduce by half before using as the soup base. Add an extra splash of vinegar at the end.
-**Mushroom borscht:** add 200 g of sautéed mushrooms to the soup with the cabbage; common in lent and Christmas Eve Ukrainian tradition (Sviata Vecheria).
-**Cold borscht (kholodnyk):** the summer cold version, blended smooth and served chilled with hard-boiled egg, cucumber and dill. Different dish but related.
-**Borscht z vushkamy:** Christmas Eve version with small mushroom-stuffed dumplings (vushka, "little ears") floating in the soup.
+- **Borscht with kidney beans:** add 200 g of cooked kidney beans to the soup in the last 5 minutes; a regional variation from western Ukraine.
+- **Vegetarian borscht:** skip the beef; build a stock from a piece of celeriac, leek, carrot and parsnip simmered with bay leaves; reduce by half before using as the soup base. Add an extra splash of vinegar at the end.
+- **Mushroom borscht:** add 200 g of sautéed mushrooms to the soup with the cabbage; common in lent and Christmas Eve Ukrainian tradition (Sviata Vecheria).
+- **Cold borscht (kholodnyk):** the summer cold version, blended smooth and served chilled with hard-boiled egg, cucumber and dill. Different dish but related.
+- **Borscht z vushkamy:** Christmas Eve version with small mushroom-stuffed dumplings (vushka, "little ears") floating in the soup.
 
 ## Serving
-In deep warmed bowls with a swirl of smetana and a scatter of fresh dill on top. Pampushky (the small garlic bread rolls) on the side, with a small dish of extra crushed garlic to smear on. A glass of horilka (Ukrainian vodka) on the side, or sweet kompot (the fruit drink) for non-drinkers.
+- In deep warmed bowls with a swirl of smetana and a scatter of fresh dill on top. Pampushky (the small garlic bread rolls) on the side, with a small dish of extra crushed garlic to smear on. A glass of horilka (Ukrainian vodka) on the side, or sweet kompot (the fruit drink) for non-drinkers.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens dramatically overnight. Day-after borscht is genuinely better than day-of, and most Ukrainian families make a big pot specifically to eat over several days.

@@ -83,7 +83,7 @@ Cinnamon swirl buns are the bakery-window staple that turn up in every British h
 - **Pecan or raisin scatter**: 80 g of chopped toasted pecans or plumped raisins scattered over the sugar mix before rolling. Adds texture without changing the spiral shape.
 
 ## Serving
-Warm from the oven, with strong coffee or sweet tea. Eaten by pulling apart at the natural seams. Best within 6 hours of baking; refresh day-old buns by warming briefly in a low oven.
+- Warm from the oven, with strong coffee or sweet tea. Eaten by pulling apart at the natural seams. Best within 6 hours of baking; refresh day-old buns by warming briefly in a low oven.
 
 ## Storage
 - At room temperature in a sealed tin for 2 days. The icing softens; the buns stay tender.

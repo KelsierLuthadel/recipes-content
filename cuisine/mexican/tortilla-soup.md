@@ -81,7 +81,7 @@ A Mexican soup that's simple yet sophisticated: a smoky tomato broth ladled over
 - **Smoked paprika:** Adds authentic smokiness.
 
 ## Serving
-Serve hot with toppings on the side for guests to customize.
+- Serve hot with toppings on the side for guests to customize.
 
 ## Storage
 - Refrigerate broth up to 3 days; tortillas separate.

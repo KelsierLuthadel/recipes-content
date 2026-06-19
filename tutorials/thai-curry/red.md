@@ -77,16 +77,16 @@ See the [worked example](building-a-curry.md) for full method.
 ## Variations
 
 ### Duck Red Curry (Gaeng Phet Phed Yang)
-The classical Bangkok restaurant dish. Roast duck (the Chinatown shop-bought kind, sliced) added to red curry with pineapple chunks and cherry tomatoes. Sweet-sour-spicy, very rich. The benchmark Thai curry.
+- The classical Bangkok restaurant dish. Roast duck (the Chinatown shop-bought kind, sliced) added to red curry with pineapple chunks and cherry tomatoes. Sweet-sour-spicy, very rich. The benchmark Thai curry.
 
 ### Beef Red Curry
-Strips of sirloin, briefly seared. Cooked in the red curry liquid for 60 seconds. The beef stays rare-to-medium-rare; the curry takes the meat juices.
+- Strips of sirloin, briefly seared. Cooked in the red curry liquid for 60 seconds. The beef stays rare-to-medium-rare; the curry takes the meat juices.
 
 ### Pork Red Curry
-Pork tenderloin or pork shoulder. Tenderloin: thinly sliced, 60 seconds. Shoulder: cubed, simmered 45-60 minutes for stew texture.
+- Pork tenderloin or pork shoulder. Tenderloin: thinly sliced, 60 seconds. Shoulder: cubed, simmered 45-60 minutes for stew texture.
 
 ### Panang Curry (Variant)
-Add 3 tablespoons crushed roasted peanuts and 1 extra tablespoon palm sugar to the red curry. Reduce the coconut milk by half (use 200 ml instead of 400). The result is the drier, sweeter, peanut-rich panang. See [Panang Curry Paste](panang.md) for the more formal panang recipe.
+- Add 3 tablespoons crushed roasted peanuts and 1 extra tablespoon palm sugar to the red curry. Reduce the coconut milk by half (use 200 ml instead of 400). The result is the drier, sweeter, peanut-rich panang. See [Panang Curry Paste](panang.md) for the more formal panang recipe.
 
 ## Common Mistakes
 

@@ -79,13 +79,13 @@ Pad thai began as a 1930s government-promoted national dish during a campaign to
 - **Don't overcook the noodles:** They finish cooking in the wok with the sauce. Drain them while still slightly firm in the centre.
 
 ## Variations
-**Prawn pad thai:** Replace the chicken with 300 g of peeled, deveined prawns added at the start of Stage 4.
-**Vegetarian:** Drop the chicken and dried shrimp; double the tofu and use mushroom-based vegetarian fish sauce.
-**Spicier:** Add 1 to 2 sliced bird's eye chillies to the wok with the chicken, or stir a teaspoon of chilli powder into the sauce.
+- **Prawn pad thai:** Replace the chicken with 300 g of peeled, deveined prawns added at the start of Stage 4.
+- **Vegetarian:** Drop the chicken and dried shrimp; double the tofu and use mushroom-based vegetarian fish sauce.
+- **Spicier:** Add 1 to 2 sliced bird's eye chillies to the wok with the chicken, or stir a teaspoon of chilli powder into the sauce.
 
 ## Serving
-Serve with: A wedge of lime, chilli powder, extra peanuts and a small bowl of pickled chillies in vinegar
-Garnish with: A handful of fresh coriander leaves and a few extra bean sprouts piled on top
+- Serve with: A wedge of lime, chilli powder, extra peanuts and a small bowl of pickled chillies in vinegar
+- Garnish with: A handful of fresh coriander leaves and a few extra bean sprouts piled on top
 
 ## Storage
 - Best eaten immediately while the noodles are still glossy

@@ -52,7 +52,7 @@ Sauce Gribiche is the building block for cold fish, shellfish, smoked trout, poa
 - **Fresh herbs:** Fines herbes should be freshly snipped; dried loses delicate flavour needed here.
 
 ## Serving
-Serve chilled with cold poached fish, smoked trout, shellfish (crab, lobster), and cold eggs. A classic French sauce for charcuterie boards.
+- Serve chilled with cold poached fish, smoked trout, shellfish (crab, lobster), and cold eggs. A classic French sauce for charcuterie boards.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

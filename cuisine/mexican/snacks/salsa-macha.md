@@ -73,13 +73,13 @@ Salsa macha is one of Mexico's most distinctive condiments and a Veracruz-coast 
 - **Resting in the jar deepens flavour:** improves over 24-48 hours.
 
 ## Variations
-**Spicier (Mariscos-Macha):** add more chiles de árbol and 2 fresh habaneros (dried); properly fierce coastal version.
-**With pumpkin seeds:** swap peanuts for raw pumpkin seeds (pepitas).
-**Smokier:** double the chipotle.
-**With orange zest:** add zest of 2 oranges with the chillies; gives a fruity coastal-Veracruz dimension.
+- **Spicier (Mariscos-Macha):** add more chiles de árbol and 2 fresh habaneros (dried); properly fierce coastal version.
+- **With pumpkin seeds:** swap peanuts for raw pumpkin seeds (pepitas).
+- **Smokier:** double the chipotle.
+- **With orange zest:** add zest of 2 oranges with the chillies; gives a fruity coastal-Veracruz dimension.
 
 ## Serving
-Drizzle on tacos, eggs, grilled fish, beans, rice. Stir into mayonnaise for a salsa-macha aioli. Stir into yogurt for a dip. Drizzle on ice cream for a sweet-spicy modern Mexican dessert.
+- Drizzle on tacos, eggs, grilled fish, beans, rice. Stir into mayonnaise for a salsa-macha aioli. Stir into yogurt for a dip. Drizzle on ice cream for a sweet-spicy modern Mexican dessert.
 
 ## Storage
 - Keeps refrigerated 1 month in a sealed jar (the oil keeps the salsa stable).

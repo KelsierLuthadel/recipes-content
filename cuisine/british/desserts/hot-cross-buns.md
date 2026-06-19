@@ -69,7 +69,7 @@ Hot cross buns are the British Easter bake, the spiced fruited buns sold from ev
 - Hot cross buns made on Good Friday are said to keep without spoiling, the tradition has more to do with the high sugar and the crucifix mark than scientific reality. They still keep well.
 
 ## Serving
-Warm from the oven, split and spread with cold salted butter. Toasted the next morning with butter and marmalade. With strong tea, beside the Easter morning post.
+- Warm from the oven, split and spread with cold salted butter. Toasted the next morning with butter and marmalade. With strong tea, beside the Easter morning post.
 
 ## Storage
 In a sealed tin at room temperature for 3-4 days. Refresh by splitting and toasting under the grill. Freeze whole for up to 2 months; thaw at room temperature, then warm briefly in a low oven.

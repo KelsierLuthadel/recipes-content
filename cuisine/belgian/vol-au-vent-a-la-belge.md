@@ -125,15 +125,15 @@ Vol-au-vent à la Belge means "flight on the wind", named for the way the puff-p
 - **A wedge of lemon at the table:** the velouté is rich; the lemon cuts it. Don't skip.
 
 ## Variations
-**Bouchée à la reine (smaller version):** make smaller pastry shells (6-7 cm) and a finer mince of chicken, the elegant version for a starter.
-**Vol-au-vent au poisson:** swap the chicken and meatballs for chunks of cod, salmon, prawns and scallops, the seafood version, big in Ghent.
-**Vol-au-vent aux ris de veau:** with sweetbreads in place of meatballs, the high-restaurant version.
-**Vol-au-vent à la flamande:** add a handful of cooked Belgian ham (jambon d'Ardenne) to the filling.
-**Quick weeknight version:** use rotisserie chicken meat, frozen meatballs (good quality ones), and bought puff-pastry shells - 30 minutes start to finish.
-**Vegetarian "vol-au-vent":** sliced king oyster mushrooms instead of meat, vegetable stock, the same velouté treatment.
+- **Bouchée à la reine (smaller version):** make smaller pastry shells (6-7 cm) and a finer mince of chicken, the elegant version for a starter.
+- **Vol-au-vent au poisson:** swap the chicken and meatballs for chunks of cod, salmon, prawns and scallops, the seafood version, big in Ghent.
+- **Vol-au-vent aux ris de veau:** with sweetbreads in place of meatballs, the high-restaurant version.
+- **Vol-au-vent à la flamande:** add a handful of cooked Belgian ham (jambon d'Ardenne) to the filling.
+- **Quick weeknight version:** use rotisserie chicken meat, frozen meatballs (good quality ones), and bought puff-pastry shells - 30 minutes start to finish.
+- **Vegetarian "vol-au-vent":** sliced king oyster mushrooms instead of meat, vegetable stock, the same velouté treatment.
 
 ## Serving
-At a Brussels brasserie Sunday lunch (the traditional setting) · at a Belgian family Sunday dinner · at a Belgian wedding reception · at a Flemish Christmas Eve meal · at a Liège café · at a Belgian-themed restaurant abroad · at home for a celebratory winter dinner.
+- At a Brussels brasserie Sunday lunch (the traditional setting) · at a Belgian family Sunday dinner · at a Belgian wedding reception · at a Flemish Christmas Eve meal · at a Liège café · at a Belgian-themed restaurant abroad · at home for a celebratory winter dinner.
 
 ## Storage
 - Refrigerate the filling (without the pastry shells) for 3 days; reheat very gently on the stovetop. The pastry shells separately keep 4 days in an airtight tin.

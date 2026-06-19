@@ -76,7 +76,7 @@ Simnel cake is the British Easter cake, the lighter cousin of the dense Christma
 - For a non-traditional twist, replace the mixed peel with chopped stem ginger and the brandy with ginger syrup; the cake becomes spicier and more grown-up.
 
 ## Serving
-A thin slice on a small plate, alongside strong tea or a small glass of sweet sherry. The Easter Sunday afternoon cake.
+- A thin slice on a small plate, alongside strong tea or a small glass of sweet sherry. The Easter Sunday afternoon cake.
 
 ## Storage
 Wrapped in foil in a tin at cool room temperature for up to 2 weeks. Improves for the first 3-4 days; the marzipan and the cake settle into each other.

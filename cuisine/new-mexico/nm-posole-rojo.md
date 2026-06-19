@@ -81,13 +81,13 @@ New Mexico posole rojo is the traditional New Mexican Christmas Eve and feast-da
 - **Better the next day.**
 
 ## Variations
-**With chicken:** swap pork for chicken thigh.
-**White posole:** skip the red chillies; gives milder version.
-**Vegetarian:** skip pork; use vegetable stock + 2 tins pinto beans.
-**Spicier:** include hot NM chillies; add chiles de árbol.
+- **With chicken:** swap pork for chicken thigh.
+- **White posole:** skip the red chillies; gives milder version.
+- **Vegetarian:** skip pork; use vegetable stock + 2 tins pinto beans.
+- **Spicier:** include hot NM chillies; add chiles de árbol.
 
 ## Serving
-In deep bowls with table-side garnishes. Christmas Eve, feast days, winter Sundays.
+- In deep bowls with table-side garnishes. Christmas Eve, feast days, winter Sundays.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

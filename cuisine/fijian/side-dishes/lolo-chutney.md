@@ -44,7 +44,7 @@ Lolo is the Fijian word for coconut cream, and lolo chutney is the fresh side th
 - **No cooking:** Lolo chutney is uncooked - the bright fresh quality is the point. Heat would dull everything.
 
 ## Serving
-Serve in a small bowl alongside lovo, palusami, rourou, curry or grilled fish. The fresh sharp counterpoint to richer mains.
+- Serve in a small bowl alongside lovo, palusami, rourou, curry or grilled fish. The fresh sharp counterpoint to richer mains.
 
 ## Storage
 - Refrigerate 2 days. The chutney releases liquid over time; drain before serving leftovers.

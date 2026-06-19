@@ -80,14 +80,14 @@ Aroog are the Iraqi spiced meat-and-bulgur patties, flat discs of mince, bulgur 
 - **Damp hands:** The mix is sticky. Wet palms prevent it clinging.
 
 ## Variations
-**Vegetarian aroog:** Replace the meat with 400 g cooked brown lentils (mashed), 1 grated carrot and an extra tablespoon of flour. The texture is softer but the result is good.
-**Stuffed aroog:** Press a teaspoon of caramelised onion and pine nut into the centre of each disc before sealing. Festive version.
-**Oven-baked:** Place on a lined tray; brush both sides with oil; bake at 220°C for 18 minutes, flipping halfway. Lighter, less crisp.
+- **Vegetarian aroog:** Replace the meat with 400 g cooked brown lentils (mashed), 1 grated carrot and an extra tablespoon of flour. The texture is softer but the result is good.
+- **Stuffed aroog:** Press a teaspoon of caramelised onion and pine nut into the centre of each disc before sealing. Festive version.
+- **Oven-baked:** Place on a lined tray; brush both sides with oil; bake at 220°C for 18 minutes, flipping halfway. Lighter, less crisp.
 
 ## Serving
-Serve with: lemon wedges, thick yoghurt, pickled turnips, amba, samoon bread.
-As a meal: folded into samoon with sliced tomato, parsley and tahini-yoghurt sauce.
-Temperature: hot from the pan.
+- Serve with: lemon wedges, thick yoghurt, pickled turnips, amba, samoon bread.
+- As a meal: folded into samoon with sliced tomato, parsley and tahini-yoghurt sauce.
+- Temperature: hot from the pan.
 
 ## Storage
 - Keeps 2 days refrigerated; reheat at 180°C oven for 6 minutes.

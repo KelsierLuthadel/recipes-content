@@ -51,7 +51,7 @@ Court-bouillon is the building block for French fish poaching, the gentle aromat
 - **Lemon juice:** Fresh lemon is essential; it brightens flavours and prevents discoloration of light-fleshed vegetables.
 
 ## Serving
-Use as a poaching liquid for whole salmon, trout, halibut, and other firm-fleshed white fish. The liquid helps maintain the fish's colour and moisture during cooking.
+- Use as a poaching liquid for whole salmon, trout, halibut, and other firm-fleshed white fish. The liquid helps maintain the fish's colour and moisture during cooking.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

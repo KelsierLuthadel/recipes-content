@@ -80,14 +80,14 @@ Midus is the oldest known alcoholic drink of the Baltic peoples, a mead that the
 - **Patience finishes it:** a one-month-old midus is rough. A six-month midus is good. A two-year midus is remarkable.
 
 ## Variations
-**Sweet midus:** use 2 kg honey to 3 litres water for a sweeter style; less fermentation, more residual sugar.
-**Spiced (krupnikas-style):** add cinnamon, vanilla, nutmeg and saffron for a Christmas mead.
-**Berry midus:** add 500 g crushed lingonberries or blackcurrants to the secondary; the deep red Žemaitija version.
-**Hop-forward:** double the hops for a more beer-like bitter mead.
-**Quick mead (1 month):** drinkable young but loses the depth that long ageing brings.
+- **Sweet midus:** use 2 kg honey to 3 litres water for a sweeter style; less fermentation, more residual sugar.
+- **Spiced (krupnikas-style):** add cinnamon, vanilla, nutmeg and saffron for a Christmas mead.
+- **Berry midus:** add 500 g crushed lingonberries or blackcurrants to the secondary; the deep red Žemaitija version.
+- **Hop-forward:** double the hops for a more beer-like bitter mead.
+- **Quick mead (1 month):** drinkable young but loses the depth that long ageing brings.
 
 ## Serving
-Pour at cellar temperature into small glasses · at weddings · at midsummer · at Christmas · as an after-dinner sip · with sweet curd cheese · with šakotis · as a digestif · the most Lithuanian of all toasts.
+- Pour at cellar temperature into small glasses · at weddings · at midsummer · at Christmas · as an after-dinner sip · with sweet curd cheese · with šakotis · as a digestif · the most Lithuanian of all toasts.
 
 ## Storage
 - Bottled midus keeps 5 years easily, often improves up to 10.

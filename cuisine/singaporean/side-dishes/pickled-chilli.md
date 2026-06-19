@@ -48,7 +48,7 @@ Singapore's iconic pickled green chilli is the small bowl of green discs sitting
 - **Float issue:** The chillies want to float. Press them down with a glass weight or a small jar lid sitting on the surface.
 
 ## Serving
-Serve on every Singaporean plate, in a small dish. Spoon a few rings onto each mouthful of chicken rice, laksa, hokkien mee or any other hawker classic.
+- Serve on every Singaporean plate, in a small dish. Spoon a few rings onto each mouthful of chicken rice, laksa, hokkien mee or any other hawker classic.
 
 ## Storage
 - Refrigerate after the first 24 hours; keeps 2-3 months in the brine.

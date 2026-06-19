@@ -84,7 +84,7 @@ Covrigi are the everyday Romanian pretzel, sold from glass kiosks on every stree
 - **Lye bath (proper Bavarian crust):** 4% food-grade lye in place of bicarbonate, deeper colour and flavour (handle lye with gloves and care).
 
 ## Serving
-Hot in the hand · from a paper bag · with strong sweet coffee · alongside a glass of milk · as a road-trip snack out of the kiosk.
+- Hot in the hand · from a paper bag · with strong sweet coffee · alongside a glass of milk · as a road-trip snack out of the kiosk.
 
 ## Storage
 - Eat the day they are baked; the crust softens overnight.

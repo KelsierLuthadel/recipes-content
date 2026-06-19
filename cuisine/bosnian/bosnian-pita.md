@@ -100,7 +100,7 @@ Pita is the bedrock of Bosnian baking: thin hand-stretched dough, a savoury or s
 - **Sač-baked:** the most traditional bake is under a cast-iron sač dome buried in wood embers; gives a smokier crust and an even bake.
 
 ## Serving
-Warm, sliced into wedges · with a glass of kiselo mlijeko or thin natural yoghurt · with a bowl of ajvar on the side · with a chopped tomato-and-onion salad
+- Warm, sliced into wedges · with a glass of kiselo mlijeko or thin natural yoghurt · with a bowl of ajvar on the side · with a chopped tomato-and-onion salad
 
 ## Storage
 - Keeps wrapped at room temperature 1 day; refrigerated 3 days.

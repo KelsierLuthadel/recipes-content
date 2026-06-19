@@ -61,7 +61,7 @@ Costa Rican chicharrones are not the puffed pork-skin crisps of the Mexican kind
 - **Air-fryer finish:** After the slow-cook, finish the cubes in the air fryer at 200 C for 8 minutes for a less greasy crackle.
 
 ## Serving
-Serve hot from the pan with lime wedges · a heap of patacones · a small pot of chimichurri or salsa · alongside boiled yuca · with a cold bottle of Imperial lager
+- Serve hot from the pan with lime wedges · a heap of patacones · a small pot of chimichurri or salsa · alongside boiled yuca · with a cold bottle of Imperial lager
 
 ## Storage
 - Chicharrones eat best fresh and the crackle goes soft on storage

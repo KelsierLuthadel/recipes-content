@@ -116,15 +116,15 @@ The hamburguesa al pastor is Mexico's burger answer to its most iconic taco fill
 - **Smashed avocado, not guacamole:** simpler, lets the pastor flavours dominate.
 
 ## Variations
-**Lamb pastor:** swap pork for lamb (closer to the original Lebanese shawarma).
-**Chicken al pastor:** swap pork for chicken thigh mince.
-**With queso fresco:** crumble queso fresco on top.
-**With tortilla bottom:** swap the bun for two warm corn tortillas, taco-burger style.
-**Spicier:** add 2 chiles de árbol to the marinade.
-**Without pineapple:** less al pastor; more "chile-spiced burger".
+- **Lamb pastor:** swap pork for lamb (closer to the original Lebanese shawarma).
+- **Chicken al pastor:** swap pork for chicken thigh mince.
+- **With queso fresco:** crumble queso fresco on top.
+- **With tortilla bottom:** swap the bun for two warm corn tortillas, taco-burger style.
+- **Spicier:** add 2 chiles de árbol to the marinade.
+- **Without pineapple:** less al pastor; more "chile-spiced burger".
 
 ## Serving
-At a Mexico City taquería that's gone burger-fusion. At a Los Angeles food truck. At home with corn chips, salsa, and Mexican beer.
+- At a Mexico City taquería that's gone burger-fusion. At a Los Angeles food truck. At home with corn chips, salsa, and Mexican beer.
 
 ## Storage
 - Best fresh.

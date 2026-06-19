@@ -95,15 +95,15 @@ Sopi di pisca is the Friday lunch you find at every Aruban household kitchen and
 - **Lime and coriander at the end:** both lose their punch in the simmer; finish each bowl bright.
 
 ## Variations
-**Sopi di pisca cu coco:** add 200 ml coconut milk with the stock for the Bonaire-leaning version.
-**Sopi di kabaron:** prawns in place of fish, poached for 2 minutes only.
-**Sopi di concha:** with conch, sliced thin and added with 30 minutes of extra simmer.
-**Sopi di pisca cu funchi:** serve over funchi instead of rice for the older traditional pairing.
-**Mixed seafood sopi:** add prawns, mussels and squid in the last 4 minutes.
-**Lighter sopi:** skip the tomato paste for a clearer, more delicate broth.
+- **Sopi di pisca cu coco:** add 200 ml coconut milk with the stock for the Bonaire-leaning version.
+- **Sopi di kabaron:** prawns in place of fish, poached for 2 minutes only.
+- **Sopi di concha:** with conch, sliced thin and added with 30 minutes of extra simmer.
+- **Sopi di pisca cu funchi:** serve over funchi instead of rice for the older traditional pairing.
+- **Mixed seafood sopi:** add prawns, mussels and squid in the last 4 minutes.
+- **Lighter sopi:** skip the tomato paste for a clearer, more delicate broth.
 
 ## Serving
-For Friday lunch (the Catholic tradition) · at an Aruban eetcafe like the Old Cunucu House · at home with rice or pan bati · for a beach-day lunch · with a small dish of yellow pepper sauce and lime wedges · with a cold Balashi lager or awa di lamunchi.
+- For Friday lunch (the Catholic tradition) · at an Aruban eetcafe like the Old Cunucu House · at home with rice or pan bati · for a beach-day lunch · with a small dish of yellow pepper sauce and lime wedges · with a cold Balashi lager or awa di lamunchi.
 
 ## Storage
 - The broth and fish are best fresh; the fish overcooks on reheating.

@@ -104,13 +104,13 @@ Vaca frita (literally "fried cow") is one of Cuba's most beloved beef preparatio
 - **Press down while cooking:** the spatula-press on the beef strands helps the surface area contact the hot pan, which crisps the edges.
 
 ## Variations
-**Vaca frita with grapefruit:** swap half the lime juice for grapefruit juice; gives a different citrus note.
-**Vaca frita de pollo (chicken version):** swap the flank steak for shredded slow-cooked chicken thigh; lighter version.
-**With pickled red onions:** top the vaca frita with quick-pickled red onions (red onion + lime juice + salt + 10 minutes); adds tang and crunch.
-**Spicy vaca frita:** add 2 chopped habanero peppers to the marinade; properly Caribbean fierce.
+- **Vaca frita with grapefruit:** swap half the lime juice for grapefruit juice; gives a different citrus note.
+- **Vaca frita de pollo (chicken version):** swap the flank steak for shredded slow-cooked chicken thigh; lighter version.
+- **With pickled red onions:** top the vaca frita with quick-pickled red onions (red onion + lime juice + salt + 10 minutes); adds tang and crunch.
+- **Spicy vaca frita:** add 2 chopped habanero peppers to the marinade; properly Caribbean fierce.
 
 ## Serving
-On wide plates with white rice, black beans, sweet plantains, sliced avocado, fresh salad and lime wedges. Drink: cold Cristal beer, mojito, or fresh limeade. As a Cuban family weekend lunch.
+- On wide plates with white rice, black beans, sweet plantains, sliced avocado, fresh salad and lime wedges. Drink: cold Cristal beer, mojito, or fresh limeade. As a Cuban family weekend lunch.
 
 ## Storage
 - Best eaten immediately when the edges are crispy.

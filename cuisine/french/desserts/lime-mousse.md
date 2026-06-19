@@ -41,7 +41,7 @@ Lime mousse is the French answer to the question of how to make a dessert that's
 - Whip the cream to ribbon consistency only (slightly thickened but still pourable); overwhipping creates graininess
 
 ## Serving
-Serve in elegant glasses or coupes, piling fresh wild strawberries generously on top and threading thin candied lime zest across the surface for an elegant presentation. The tartness of lime and strawberries create a perfect balance. Serve lightly chilled, not too cold, to appreciate all flavors.
+- Serve in elegant glasses or coupes, piling fresh wild strawberries generously on top and threading thin candied lime zest across the surface for an elegant presentation. The tartness of lime and strawberries create a perfect balance. Serve lightly chilled, not too cold, to appreciate all flavors.
 
 ## Storage
 Once set in glasses (after 2-3 hours refrigeration), cover with plastic film and keep refrigerated for up to 2 days. The candied zest should be stored separately in an airtight container. Fresh wild strawberries should be added just before serving to prevent them from weeping and softening. If strawberries must be added ahead, reserve some for garnishing at the last moment.

@@ -85,13 +85,13 @@ Arroz de tomate is Portugal's beloved tomato rice and one of the most vegetarian
 - **Coriander generously:** Portuguese signature.
 
 ## Variations
-**With chouriço:** add 100 g of sliced chouriço at the beginning.
-**With chickpeas:** add 1 tin of drained chickpeas in the last 5 minutes.
-**Spicier:** double the piri-piri.
-**With seafood (becomes arroz de marisco):** add shrimp and mussels in the last 5 minutes.
+- **With chouriço:** add 100 g of sliced chouriço at the beginning.
+- **With chickpeas:** add 1 tin of drained chickpeas in the last 5 minutes.
+- **Spicier:** double the piri-piri.
+- **With seafood (becomes arroz de marisco):** add shrimp and mussels in the last 5 minutes.
 
 ## Serving
-In deep plates with a fried egg on top (for the vegetarian main version), or alongside grilled sardines (the traditional Portuguese coastal pairing). Cold vinho verde or Sagres beer.
+- In deep plates with a fried egg on top (for the vegetarian main version), or alongside grilled sardines (the traditional Portuguese coastal pairing). Cold vinho verde or Sagres beer.
 
 ## Storage
 - Keeps refrigerated 3 days; thickens overnight (add stock when reheating).

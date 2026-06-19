@@ -89,14 +89,14 @@ Sancoche is the Dominican Saturday stew, the great cleaning-out-the-garden one-p
 - **The whole scotch bonnet:** pierce and leave whole for perfume only; burst it for fire.
 
 ## Variations
-**With salt pig tail:** swap or add 200 g of salt pig tail (soaked) for a richer pork-and-beef Sunday version.
-**With pumpkin:** add 200 g of cubed pumpkin in the last 20 minutes, the soft-sweet variant.
-**With callaloo leaves:** stir 200 g of shredded callaloo into the pot for the last 5 minutes, the green-laced version.
-**Lighter (no coconut):** leave the coconut milk out for a clearer broth.
-**Chicken sancoche:** swap the beef for bone-in chicken; reduce cook time to 45 minutes.
+- **With salt pig tail:** swap or add 200 g of salt pig tail (soaked) for a richer pork-and-beef Sunday version.
+- **With pumpkin:** add 200 g of cubed pumpkin in the last 20 minutes, the soft-sweet variant.
+- **With callaloo leaves:** stir 200 g of shredded callaloo into the pot for the last 5 minutes, the green-laced version.
+- **Lighter (no coconut):** leave the coconut milk out for a clearer broth.
+- **Chicken sancoche:** swap the beef for bone-in chicken; reduce cook time to 45 minutes.
 
 ## Serving
-Serve very hot in deep bowls with a wedge of lime on the rim · with crusty bread or Dominican bakes for dipping · with hot sauce on the table · as the Dominican Saturday lunch · with a glass of cold mauby or sorrel.
+- Serve very hot in deep bowls with a wedge of lime on the rim · with crusty bread or Dominican bakes for dipping · with hot sauce on the table · as the Dominican Saturday lunch · with a glass of cold mauby or sorrel.
 
 ## Storage
 - The stew keeps 3 days refrigerated; the broth thickens further as the starches set.

@@ -71,13 +71,13 @@ Maque choux is Louisiana's iconic Cajun summer corn dish (the name derives from 
 - **Cream at the end.**
 
 ## Variations
-**With shrimp:** add 400 g raw peeled shrimp in last 4 min.
-**With andouille:** add diced cooked andouille.
-**Without cream:** more rustic.
-**Spicier:** double cayenne.
+- **With shrimp:** add 400 g raw peeled shrimp in last 4 min.
+- **With andouille:** add diced cooked andouille.
+- **Without cream:** more rustic.
+- **Spicier:** double cayenne.
 
 ## Serving
-Alongside fried catfish, fried chicken, crawfish boil. Summer.
+- Alongside fried catfish, fried chicken, crawfish boil. Summer.
 
 ## Storage
 - Keeps refrigerated 3 days.

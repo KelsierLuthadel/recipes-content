@@ -109,13 +109,13 @@ Shepherd's pie is one of Ireland's (and Britain's) most beloved comfort foods an
 - **Score the top for craggy texture:** the fork-scored top gives the iconic shepherd's pie look and creates more surface area for golden browning.
 
 ## Variations
-**Cottage pie (beef version):** swap the lamb for beef; same recipe otherwise. Slightly different flavour but equally classic.
-**Vegetarian shepherd's pie:** swap the meat for 600 g of cooked lentils (or a mix of lentils and mushrooms); add 2 tablespoons of yeast extract (Marmite or Vegemite) for umami depth. Use vegetable stock.
-**Sweet-potato-topped shepherd's pie:** use sweet potato (or a 50/50 mix of sweet and regular potato) for the topping; gives a different colour and sweeter flavour. Common modern variation.
-**Mash-and-cheese top:** double the cheese on top for a properly cheesy crust; great for kids and for cheese-lovers.
+- **Cottage pie (beef version):** swap the lamb for beef; same recipe otherwise. Slightly different flavour but equally classic.
+- **Vegetarian shepherd's pie:** swap the meat for 600 g of cooked lentils (or a mix of lentils and mushrooms); add 2 tablespoons of yeast extract (Marmite or Vegemite) for umami depth. Use vegetable stock.
+- **Sweet-potato-topped shepherd's pie:** use sweet potato (or a 50/50 mix of sweet and regular potato) for the topping; gives a different colour and sweeter flavour. Common modern variation.
+- **Mash-and-cheese top:** double the cheese on top for a properly cheesy crust; great for kids and for cheese-lovers.
 
 ## Serving
-On warm plates with a side of peas, buttered cabbage, or a green salad. A glass of Guinness alongside; or a strong cup of tea. Often part of a Sunday family lunch in Ireland.
+- On warm plates with a side of peas, buttered cabbage, or a green salad. A glass of Guinness alongside; or a strong cup of tea. Often part of a Sunday family lunch in Ireland.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

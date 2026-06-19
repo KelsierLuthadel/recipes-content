@@ -79,7 +79,7 @@ Ajvar is autumn in a jar across the Balkans, the standing-army preserve of Bosni
 - **Pindjur:** the Macedonian close relative, finer chopped with added tomato.
 
 ## Serving
-On hot buttered toast for breakfast · with ćevapi and somun · on a meze board with feta and olives · with grilled meat · with hard cheese · stirred into yoghurt as a dip
+- On hot buttered toast for breakfast · with ćevapi and somun · on a meze board with feta and olives · with grilled meat · with hard cheese · stirred into yoghurt as a dip
 
 ## Storage
 - Sealed jars keep 6 months in a cool dark cupboard.

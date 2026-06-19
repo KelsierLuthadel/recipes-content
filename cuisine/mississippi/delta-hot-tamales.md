@@ -97,7 +97,7 @@ The Mississippi Delta now has its own Hot Tamale Trail, mapped by the Southern F
 - **Hot tamale pie:** if rolling 24 tamales feels excessive, layer the dough and meat in a casserole dish and bake at 180°C for 45 minutes; serve in squares. A common Delta home shortcut.
 
 ## Serving
-Two or three tamales per person as a meal, with the saltines and the liquor. A cold sweet tea or a Coke on the side. Mississippi hot tamale stands often serve them in styrofoam cups so the liquor pools at the bottom; this is the correct service.
+- Two or three tamales per person as a meal, with the saltines and the liquor. A cold sweet tea or a Coke on the side. Mississippi hot tamale stands often serve them in styrofoam cups so the liquor pools at the bottom; this is the correct service.
 
 ## Storage
 - Refrigerates 3 days in their liquor. Reheat by simmering gently for 10 minutes.

@@ -69,13 +69,13 @@ New Mexico Spanish rice (despite the name; the dish is American-Hispanic, not fr
 - **NM red chile powder:** for colour.
 
 ## Variations
-**With chorizo:** add crumbled cooked chorizo.
-**Spicier:** double the chile powder.
-**With saffron:** add a pinch.
-**Vegetable stock:** for vegetarian.
+- **With chorizo:** add crumbled cooked chorizo.
+- **Spicier:** double the chile powder.
+- **With saffron:** add a pinch.
+- **Vegetable stock:** for vegetarian.
 
 ## Serving
-Alongside enchiladas, tacos, rellenos. NM beer.
+- Alongside enchiladas, tacos, rellenos. NM beer.
 
 ## Storage
 - Keeps refrigerated 4 days.

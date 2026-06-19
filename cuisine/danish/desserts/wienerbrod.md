@@ -152,15 +152,15 @@ Wienerbrød is the most internationally famous Danish food. Confusingly, the Eng
 - **Glaze while warm, not hot:** the glaze sets right; hot pastries melt it into the surface.
 
 ## Variations
-**Kanelsnegle (cinnamon snails) only:** the most popular Danish form. Cut into thicker (4cm) slices for a more substantial bun.
-**Tebirkes:** topped with poppy seeds instead of almonds (less traditional but a Danish standard).
-**Apple-filled (æbleskiver styles):** spread cooked apple compote in place of the cinnamon-sugar.
-**Apricot-jam pinwheels:** swap the vanilla custard for apricot jam in the spandauer.
-**Vegan version:** use plant butter (high-fat); soy milk; flax egg. Works but the lamination is harder.
-**Smaller cocktail-size:** all the shapes scaled to half-size for a Danish-pastry canapé spread.
+- **Kanelsnegle (cinnamon snails) only:** the most popular Danish form. Cut into thicker (4cm) slices for a more substantial bun.
+- **Tebirkes:** topped with poppy seeds instead of almonds (less traditional but a Danish standard).
+- **Apple-filled (æbleskiver styles):** spread cooked apple compote in place of the cinnamon-sugar.
+- **Apricot-jam pinwheels:** swap the vanilla custard for apricot jam in the spandauer.
+- **Vegan version:** use plant butter (high-fat); soy milk; flax egg. Works but the lamination is harder.
+- **Smaller cocktail-size:** all the shapes scaled to half-size for a Danish-pastry canapé spread.
 
 ## Serving
-At a Danish bakery counter at 7am · at a Copenhagen hotel breakfast buffet · at a Danish workplace fika · at home for a Sunday brunch · at a celebratory breakfast (christenings, weddings, big birthdays).
+- At a Danish bakery counter at 7am · at a Copenhagen hotel breakfast buffet · at a Danish workplace fika · at home for a Sunday brunch · at a celebratory breakfast (christenings, weddings, big birthdays).
 
 ## Storage
 - Wienerbrød best within 2 hours of baking.

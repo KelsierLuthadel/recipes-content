@@ -64,17 +64,17 @@ Tomato vinaigrette is the building block for summer pasta salads, white-bean pla
 - **Cayenne Balance:** The cayenne's role is subtle, to balance tomato's natural sweetness, not to provide heat.
 
 ## Variations
-**Without Garlic:** Use pure tomato juice for maximum tomato focus (no aromatic competition).
-**With Balsamic:** Replace 25 milliliters sherry vinegar with 25 milliliters aged balsamic for sweeter, more complex character.
-**Extra Basil:** Increase basil to 2 tablespoons and add fresh oregano (½ teaspoon) for herbal complexity.
-**Spicier Version:** Increase cayenne to ½ teaspoon for moderate heat.
-**With Fresh Thyme:** Add ½ teaspoon fresh thyme leaves alongside basil for herbal depth.
+- **Without Garlic:** Use pure tomato juice for maximum tomato focus (no aromatic competition).
+- **With Balsamic:** Replace 25 milliliters sherry vinegar with 25 milliliters aged balsamic for sweeter, more complex character.
+- **Extra Basil:** Increase basil to 2 tablespoons and add fresh oregano (½ teaspoon) for herbal complexity.
+- **Spicier Version:** Increase cayenne to ½ teaspoon for moderate heat.
+- **With Fresh Thyme:** Add ½ teaspoon fresh thyme leaves alongside basil for herbal depth.
 
 ## Serving
-Use with: Fresh pasta salads (dress immediately before serving), warm vegetable preparations, sliced tomatoes with fresh mozzarella, white bean salads, rice salads, grilled vegetable platters
-Dressing ratio: 2-3 tablespoons per serving (the juice base is light and delicate)
-Temperature: Room temperature or slightly cool
-Application: Dress salads or vegetables immediately before serving; this dressing becomes heavy if it sits on greens
+- Use with: Fresh pasta salads (dress immediately before serving), warm vegetable preparations, sliced tomatoes with fresh mozzarella, white bean salads, rice salads, grilled vegetable platters
+- Dressing ratio: 2-3 tablespoons per serving (the juice base is light and delicate)
+- Temperature: Room temperature or slightly cool
+- Application: Dress salads or vegetables immediately before serving; this dressing becomes heavy if it sits on greens
 
 ## Storage
 - The fresh tomato juice can be prepared up to 1 day ahead and refrigerated in a sealed container.

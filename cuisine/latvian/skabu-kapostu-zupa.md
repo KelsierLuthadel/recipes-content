@@ -74,7 +74,7 @@ Skābu kāpostu zupa is the sour-cabbage soup that warms Latvian kitchens from O
 - **Latgale style:** Add 100 g dried beans (soaked overnight) at the same time as the barley; the soup goes thicker and heartier.
 
 ## Serving
-Serve with rupjmaize, salted butter, and a spoonful of grated fresh horseradish on the side for those who want extra heat.
+- Serve with rupjmaize, salted butter, and a spoonful of grated fresh horseradish on the side for those who want extra heat.
 
 ## Storage
 - Keeps 4 days refrigerated; deepens on day two and three.

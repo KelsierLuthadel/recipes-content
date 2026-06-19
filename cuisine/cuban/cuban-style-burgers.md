@@ -54,12 +54,12 @@ This is the Cuban-American burger you'd find at any Miami diner along Calle Ocho
 - **Potato Component:** The shoestring potatoes are essential to the Cuban burger experience; they add textural contrast and are a defining characteristic of this dish.
 
 ## Variations
-**With Swiss Cheese:** Add a slice of Swiss cheese to each patty after flipping; cover and cook 1-2 minutes more until melted.
-**Citrus Marinade:** Marinate minced garlic and onion in lime and orange juice for 30 minutes before adding to the meat mixture for enhanced Cuban flavor.
+- **With Swiss Cheese:** Add a slice of Swiss cheese to each patty after flipping; cover and cook 1-2 minutes more until melted.
+- **Citrus Marinade:** Marinate minced garlic and onion in lime and orange juice for 30 minutes before adding to the meat mixture for enhanced Cuban flavor.
 
 ## Serving
-Serve with: Crispy shoestring potatoes, pickled onions, or a simple side salad
-Garnish with: Fresh coriander, additional jalapeños for heat, or fresh lime wedges
+- Serve with: Crispy shoestring potatoes, pickled onions, or a simple side salad
+- Garnish with: Fresh coriander, additional jalapeños for heat, or fresh lime wedges
 
 ## Storage
 - Keeps 3-4 days refrigerated (store patties and assembly components separately)

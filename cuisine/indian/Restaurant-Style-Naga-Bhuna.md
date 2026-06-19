@@ -105,9 +105,9 @@ Bhuna and naga sit on opposite ends of the BIR temperament chart. A bhuna is def
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati. A piece of naan and a generous bowl of cooling raita are sensible companions, milk and yoghurt are the real rescue when the naga heat overwhelms.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati. A piece of naan and a generous bowl of cooling raita are sensible companions, milk and yoghurt are the real rescue when the naga heat overwhelms.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The bhuna texture survives well overnight; the naga heat mellows slightly as the chilli oils integrate with the sauce. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth.

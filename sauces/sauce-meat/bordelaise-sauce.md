@@ -56,7 +56,7 @@ Sauce Bordelaise is the building block for entrecôte, rib of beef and sirloin, 
 - **Marrow poaching:** The brief hot bath sets the marrow without making it tough; timing is critical.
 
 ## Serving
-Serve immediately with entrecote, sirloin, rib, or other premium beef cuts. Can also accompany beef tournedos and steaks.
+- Serve immediately with entrecote, sirloin, rib, or other premium beef cuts. Can also accompany beef tournedos and steaks.
 
 ## Storage
 - Best eaten immediately after preparation.

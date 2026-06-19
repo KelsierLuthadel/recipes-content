@@ -63,7 +63,7 @@ Mujdei is the loud raw-garlic sauce that sits in a small bowl beside every Moldo
 - **Mujdei pentru pește:** with a squeeze of lemon in place of half the vinegar, for grilled river fish.
 
 ## Serving
-In a small bowl next to grilled chicken, mititei, or cârnați. Spooned over boiled new potatoes with their skins. Drizzled over mămăligă with crumbled sheep cheese. Stirred into the cooking liquid of boiled river fish.
+- In a small bowl next to grilled chicken, mititei, or cârnați. Spooned over boiled new potatoes with their skins. Drizzled over mămăligă with crumbled sheep cheese. Stirred into the cooking liquid of boiled river fish.
 
 ## Storage
 - Best within 2 hours of making.

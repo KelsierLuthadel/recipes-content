@@ -87,7 +87,7 @@ Eszterházy torte is the Hungarian almond-meringue layer cake named for Prince P
 - **Make ahead:** Whole cake holds 3 days refrigerated; the fondant stays glossy.
 
 ## Serving
-Slice with a hot dry knife (wipe between cuts) for clean fondant edges. Serve at cool room temperature with strong black coffee.
+- Slice with a hot dry knife (wipe between cuts) for clean fondant edges. Serve at cool room temperature with strong black coffee.
 
 ## Storage
 - 3 days refrigerated, covered loosely so the fondant doesn't sweat.

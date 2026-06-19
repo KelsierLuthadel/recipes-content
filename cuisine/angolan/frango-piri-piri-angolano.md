@@ -87,14 +87,14 @@ Frango piri-piri is the Angolan dish that travelled. Portuguese colonists in 15t
 - **Charcoal not gas:** the smoke is the dish.
 
 ## Variations
-**Mild piri-piri:** seed and devein the chillies; reduce to 4 chillies.
-**Extra-fierce piri-piri:** double the chillies; add 1 tablespoon scotch bonnet sauce.
-**Angolan piri-piri prawns:** swap the chicken for 600 g large prawns; marinate 1 hour only; grill 4 minutes a side.
-**Piri-piri tofu:** for vegetarian, press a 400 g block of firm tofu 30 minutes; marinate 2 hours; grill in slabs.
-**With piri-piri sauce shortcut:** in a hurry, buy a quality piri-piri sauce, slather, and grill (Angolan home cooks won't approve, but it works).
+- **Mild piri-piri:** seed and devein the chillies; reduce to 4 chillies.
+- **Extra-fierce piri-piri:** double the chillies; add 1 tablespoon scotch bonnet sauce.
+- **Angolan piri-piri prawns:** swap the chicken for 600 g large prawns; marinate 1 hour only; grill 4 minutes a side.
+- **Piri-piri tofu:** for vegetarian, press a 400 g block of firm tofu 30 minutes; marinate 2 hours; grill in slabs.
+- **With piri-piri sauce shortcut:** in a hurry, buy a quality piri-piri sauce, slather, and grill (Angolan home cooks won't approve, but it works).
 
 ## Serving
-At a Luanda churrasco (Angolan barbecue, the natural setting) · with chips, lemon and tomato salad · with Angolan funje on the side · on a Lisbon Sunday with the Lusophone diaspora · at a backyard summer grill in the Algarve · with a chilled Sagres or Cuca beer.
+- At a Luanda churrasco (Angolan barbecue, the natural setting) · with chips, lemon and tomato salad · with Angolan funje on the side · on a Lisbon Sunday with the Lusophone diaspora · at a backyard summer grill in the Algarve · with a chilled Sagres or Cuca beer.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

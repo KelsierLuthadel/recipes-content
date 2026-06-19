@@ -45,7 +45,7 @@ Daqoos is to the Kuwaiti table what salsa verde is to the Mexican: a punchy shar
 - **Heat level:** One small green chilli is gentle Kuwaiti home style. Two or three Thai chillies turn it into the restaurant kick.
 
 ## Serving
-Room temperature in a small bowl with a spoon, beside any rice dish, grilled meat or hummus.
+- Room temperature in a small bowl with a spoon, beside any rice dish, grilled meat or hummus.
 
 ## Storage
 - Refrigerate 1 week in a sealed jar

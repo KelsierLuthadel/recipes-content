@@ -64,7 +64,7 @@ BIR chicken chasni is the Glasgow-Punjabi sweet curry, a smooth pale-orange sauc
 - If sauce is too thick, add extra stock or base curry sauce; if too thin, simmer briefly to reduce.
 
 ## Serving
-Serve with steamed basmati rice, naan, or parathas. Garnish with extra fresh coriander and lime wedges.
+- Serve with steamed basmati rice, naan, or parathas. Garnish with extra fresh coriander and lime wedges.
 
 ## Storage
 - Refrigerate 2-3 days in an airtight container

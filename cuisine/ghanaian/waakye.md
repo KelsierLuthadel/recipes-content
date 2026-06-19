@@ -64,7 +64,7 @@ To serve (per plate):
 - **Vegan waakye:** Skip the egg; double the plantain.
 
 ## Serving
-Eat warm with your hands or a spoon · gari on top, shito on the side · a glass of sobolo or cold water · a slice of avocado if you can find one.
+- Eat warm with your hands or a spoon · gari on top, shito on the side · a glass of sobolo or cold water · a slice of avocado if you can find one.
 
 ## Storage
 - Keeps 3 days refrigerated

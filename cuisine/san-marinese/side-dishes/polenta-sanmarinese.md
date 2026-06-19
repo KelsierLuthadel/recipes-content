@@ -48,7 +48,7 @@ The San Marinese polenta sits squarely in the mountain-farm tradition: coarse ye
 - **Adjust the consistency.** If it goes too thick, beat in a splash of boiling water; too thin, cook a few minutes longer.
 
 ## Serving
-Spoon under a portion of coniglio in porchetta and let the juices soak in; or eat as a bowl on its own with extra cheese.
+- Spoon under a portion of coniglio in porchetta and let the juices soak in; or eat as a bowl on its own with extra cheese.
 
 ## Storage
 - Keeps 3 days refrigerated; will set very firm.

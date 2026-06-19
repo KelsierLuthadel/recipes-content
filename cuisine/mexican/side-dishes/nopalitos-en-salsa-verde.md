@@ -67,13 +67,13 @@ Nopalitos en salsa verde is one of Mexico's everyday vegetarian sides and a fund
 - **Serve at room temperature or slightly chilled.**
 
 ## Variations
-**Nopalitos with onion only (simpler):** skip the salsa verde; just toss with diced onion, lime, cumin, salt and coriander.
-**Nopalitos with shrimp:** add cooked shrimp; turns into a main.
-**Spicier:** double the jalapeños.
-**With charred nopales:** grill fresh nopal pads on a hot griddle before chopping; gives smoky depth.
+- **Nopalitos with onion only (simpler):** skip the salsa verde; just toss with diced onion, lime, cumin, salt and coriander.
+- **Nopalitos with shrimp:** add cooked shrimp; turns into a main.
+- **Spicier:** double the jalapeños.
+- **With charred nopales:** grill fresh nopal pads on a hot griddle before chopping; gives smoky depth.
 
 ## Serving
-As a side with mexican mains; or as a light lunch with corn tortillas.
+- As a side with mexican mains; or as a light lunch with corn tortillas.
 
 ## Storage
 - Keeps refrigerated 3 days.

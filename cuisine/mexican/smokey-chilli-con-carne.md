@@ -98,16 +98,16 @@ A weekend chilli con carne that lives in the oven. The flavour is built in three
 - **Low oven, lid off finish:** 130°C is the sweet spot: high enough that the lid-off stage reduces the sauce, low enough that the beef stays tender instead of going stringy.
 
 ## Variations
-**Hotter:** Double the arbol chillies from 2 to 4, or add a teaspoon of cayenne with the spice mix.
-**Beanless:** Skip the black beans and increase the beef to 2 kg; cook time stays the same.
-**Pork swap:** Use 1.5 kg pork shoulder cut into 1-inch cubes; extend the first braise to 5 hours.
-**Smoked chipotle layer:** Add 2 tbsp chipotle in adobo with the chilli paste for a deeper smoke and an extra heat note.
-**Slow cooker:** After Stage 4, transfer everything to a slow cooker on low for 10-12 hours; finish with the bell peppers stirred in for the last hour on high.
+- **Hotter:** Double the arbol chillies from 2 to 4, or add a teaspoon of cayenne with the spice mix.
+- **Beanless:** Skip the black beans and increase the beef to 2 kg; cook time stays the same.
+- **Pork swap:** Use 1.5 kg pork shoulder cut into 1-inch cubes; extend the first braise to 5 hours.
+- **Smoked chipotle layer:** Add 2 tbsp chipotle in adobo with the chilli paste for a deeper smoke and an extra heat note.
+- **Slow cooker:** After Stage 4, transfer everything to a slow cooker on low for 10-12 hours; finish with the bell peppers stirred in for the last hour on high.
 
 ## Serving
-Serve with: Steamed rice, cornbread, or a baked potato.
-Top with: Sour cream, grated cheddar, sliced spring onion, pickled jalapeños, chopped fresh coriander.
-Squeeze of lime wakes it up if it's been sitting overnight.
+- Serve with: Steamed rice, cornbread, or a baked potato.
+- Top with: Sour cream, grated cheddar, sliced spring onion, pickled jalapeños, chopped fresh coriander.
+- Squeeze of lime wakes it up if it's been sitting overnight.
 
 ## Storage
 - Keeps 4 days refrigerated; flavour improves overnight as the spices meld

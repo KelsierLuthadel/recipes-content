@@ -96,7 +96,7 @@ Kenyan samosa is the most recognisable Indo-Kenyan snack, sold at every roadside
 - **Mini samosas:** half-size wrappers, served as canapes at weddings.
 
 ## Serving
-Stacked hot on a plate · with a small bowl of tamarind chutney · sliced raw red onion and lemon wedge on the side · sometimes with sweet chai · sometimes with Tusker.
+- Stacked hot on a plate · with a small bowl of tamarind chutney · sliced raw red onion and lemon wedge on the side · sometimes with sweet chai · sometimes with Tusker.
 
 ## Storage
 - Best within 2 hours of frying.

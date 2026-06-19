@@ -69,7 +69,7 @@ Kompot is the Slavic everyday fruit drink common across Czech, Polish, Russian a
 - **Mix fruits for complexity:** A pure single-fruit kompot is fine; a 2-3 fruit blend (e.g. plum + apple + dried apricot) has more depth.
 
 ## Serving
-The everyday drink at Czech (and Polish, and Russian, and Ukrainian) tables. A jug stays in the fridge through the week. Pour cold with any meal in place of soft drinks. Children love it; adults sip it through the day.
+- The everyday drink at Czech (and Polish, and Russian, and Ukrainian) tables. A jug stays in the fridge through the week. Pour cold with any meal in place of soft drinks. Children love it; adults sip it through the day.
 
 ## Storage
 - Refrigerates 5 days in a sealed jug.

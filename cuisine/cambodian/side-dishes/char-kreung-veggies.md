@@ -104,13 +104,13 @@ Char kreung is the basic Cambodian stir-fry technique built around kreung paste,
 - **Thai eggplants are best:** small Thai eggplants (round or oval, white-and-green or all green) have a slightly firmer texture and bitterer flavour that work well in stir-fries. Globe eggplant works but needs salting first.
 
 ## Variations
-**Char kreung with chicken:** add 300 g of diced chicken thigh to the pan after blooming the kreung; cook through (5-6 minutes) before adding the vegetables. Becomes a main dish.
-**Char kreung with beef:** add 300 g of thinly sliced beef sirloin in the same way; flash-fry till browned before adding vegetables. Common Cambodian main.
-**Char kreung pak (pork):** add 300 g of ground pork or sliced pork shoulder after blooming the kreung; common variation.
-**Spicier version:** add 4-6 extra fresh chillies (Thai bird's eye) to the kreung; or stir 1 tablespoon of Thai chilli paste (nam prik pao) into the stir-fry. Properly fierce variation.
+- **Char kreung with chicken:** add 300 g of diced chicken thigh to the pan after blooming the kreung; cook through (5-6 minutes) before adding the vegetables. Becomes a main dish.
+- **Char kreung with beef:** add 300 g of thinly sliced beef sirloin in the same way; flash-fry till browned before adding vegetables. Common Cambodian main.
+- **Char kreung pak (pork):** add 300 g of ground pork or sliced pork shoulder after blooming the kreung; common variation.
+- **Spicier version:** add 4-6 extra fresh chillies (Thai bird's eye) to the kreung; or stir 1 tablespoon of Thai chilli paste (nam prik pao) into the stir-fry. Properly fierce variation.
 
 ## Serving
-On a serving plate alongside steamed jasmine rice; the rice catches the kreung sauce. Often part of a multi-dish Cambodian meal alongside [bai sach chrouk](../bai-sach-chrouk.md), [amok trey](../amok-trey.md), or other Khmer dishes. Drink: Angkor beer, jasmine tea, or Cambodian rice wine.
+- On a serving plate alongside steamed jasmine rice; the rice catches the kreung sauce. Often part of a multi-dish Cambodian meal alongside [bai sach chrouk](../bai-sach-chrouk.md), [amok trey](../amok-trey.md), or other Khmer dishes. Drink: Angkor beer, jasmine tea, or Cambodian rice wine.
 
 ## Storage
 - Keeps refrigerated 3 days; reheat in a hot wok or pan for 2 minutes with a splash of water (don't microwave; the vegetables go off-texture).

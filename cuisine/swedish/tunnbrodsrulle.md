@@ -101,14 +101,14 @@ The tunnbrödsrulle (literally "thin bread roll") is Sweden's distinctive answer
 - **Eat standing at a kiosk:** the proper korvkiosk experience.
 
 ## Variations
-**Bröd vegetariskt:** swap the sausage for a grilled halloumi finger or veggie sausage.
-**With räkost (shrimp cheese spread):** swap the shrimp salad for the Swedish shrimp-cheese spread.
-**Kebab-style:** add chopped lettuce, sliced tomato, garlic sauce in addition to the standard toppings.
-**With pickled red onion:** add Swedish pickled red onion strips.
-**Spicier:** add a zigzag of sriracha or chopped fresh chillies (less traditional but increasingly common).
+- **Bröd vegetariskt:** swap the sausage for a grilled halloumi finger or veggie sausage.
+- **With räkost (shrimp cheese spread):** swap the shrimp salad for the Swedish shrimp-cheese spread.
+- **Kebab-style:** add chopped lettuce, sliced tomato, garlic sauce in addition to the standard toppings.
+- **With pickled red onion:** add Swedish pickled red onion strips.
+- **Spicier:** add a zigzag of sriracha or chopped fresh chillies (less traditional but increasingly common).
 
 ## Serving
-At a Stockholm korvkiosk at midnight after the bars; at a Swedish Christmas market; at home with cold beer.
+- At a Stockholm korvkiosk at midnight after the bars; at a Swedish Christmas market; at home with cold beer.
 
 ## Storage
 - Mashed potato refrigerates 4 days; reheat with a splash of milk and butter.

@@ -54,7 +54,7 @@ This is the elegant individual dessert of poached pears wrapped in crêpes and e
 - The oil temperature of exactly 170°C is critical; hotter oil burns the pastry exterior before the interior heats and colder oil results in soggy, greasy parcels
 
 ## Serving
-Serve the parcels hot, dusted with granulated sugar which adds crunch and sweetness. The contrast between the crispy fried pastry exterior and the soft, meltingly tender pear and crêpes inside is the dessert's appeal. Serve with a small jug of the poaching syrup or vanilla crème anglaise.
+- Serve the parcels hot, dusted with granulated sugar which adds crunch and sweetness. The contrast between the crispy fried pastry exterior and the soft, meltingly tender pear and crêpes inside is the dessert's appeal. Serve with a small jug of the poaching syrup or vanilla crème anglaise.
 
 ## Storage
 The poached pears can be prepared 1 day ahead and refrigerated in their syrup. The puff pastry and crêpes can be prepared several hours ahead and kept refrigerated separately (crêpes wrapped to prevent drying). Assemble the parcels just before frying (up to 30 minutes ahead, refrigerated) to prevent sogginess. Fry only when ready to serve; do not attempt to reheat as they will lose their crispness.

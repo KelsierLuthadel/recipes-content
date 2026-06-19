@@ -99,13 +99,13 @@ Curanto is the iconic dish of Chiloé, the rainy archipelago off Chile's souther
 - **Family-style serving:** each diner gets a sampling.
 
 ## Variations
-**Simpler curanto without milcao:** skip the milcao if making for the first time; the dish still works.
-**Chapaleles (boiled potato dumplings):** the traditional accompaniment alongside milcao; make from grated raw potato + flour + lard; boil for 15 minutes; add to the pot in the last 30 minutes.
-**Larger feast version:** scale everything up; cook in a giant pot for a true family feast.
-**Vegetarian-leaning:** skip the meats; focus on shellfish + potatoes + cabbage + milcao; still excellent.
+- **Simpler curanto without milcao:** skip the milcao if making for the first time; the dish still works.
+- **Chapaleles (boiled potato dumplings):** the traditional accompaniment alongside milcao; make from grated raw potato + flour + lard; boil for 15 minutes; add to the pot in the last 30 minutes.
+- **Larger feast version:** scale everything up; cook in a giant pot for a true family feast.
+- **Vegetarian-leaning:** skip the meats; focus on shellfish + potatoes + cabbage + milcao; still excellent.
 
 ## Serving
-At the centre of a large family table, the pot opened with ceremony. White wine, Chiloé beer, pisco sour. A long lazy Sunday lunch. The proper experience takes 3 hours of eating and drinking.
+- At the centre of a large family table, the pot opened with ceremony. White wine, Chiloé beer, pisco sour. A long lazy Sunday lunch. The proper experience takes 3 hours of eating and drinking.
 
 ## Storage
 - Best eaten immediately.

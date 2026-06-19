@@ -69,7 +69,7 @@ Jhal muri is the after-school, before-dinner, riding-the-train Bengali street sn
 - **Sweet-sour variant:** add 1 tsp tamarind paste and 1 tsp sugar to the dressing for the West Bengali touch.
 
 ## Serving
-A paper cone or small bowl, eaten with the fingers · a slit green chilli on the side · a cup of cha alongside
+- A paper cone or small bowl, eaten with the fingers · a slit green chilli on the side · a cup of cha alongside
 
 ## Storage
 - Does not store; eat the moment it's made

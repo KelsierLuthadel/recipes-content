@@ -54,7 +54,7 @@ The recipe sounds simple, but two things are easy to get wrong. The absinthe is 
 - **Sazerac with both:** a 30 ml rye / 30 ml cognac split is a now-current take that bridges the historical and modern versions. Works well.
 
 ## Serving
-A Sazerac is a sipping cocktail, not a session drink. One is plenty before dinner; two suggests the evening is going somewhere late. It is often the first cocktail of a NOLA night and almost never the third.
+- A Sazerac is a sipping cocktail, not a session drink. One is plenty before dinner; two suggests the evening is going somewhere late. It is often the first cocktail of a NOLA night and almost never the third.
 
 ## Storage
 The drink does not keep; it is built to order. The Peychaud's bitters keep on the shelf for years and improve in a half-empty bottle. Absinthe lasts indefinitely.

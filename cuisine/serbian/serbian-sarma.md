@@ -81,7 +81,7 @@ Sarma is the Serbian winter feast, the dish that comes out for Christmas, Slava 
 - **Beef and pork.** Replace half the pork with minced beef chuck for a firmer roll.
 
 ## Serving
-Deep bowls with a roll or two, smoked rib alongside · plenty of the paprika gravy ladled over · mashed potato or thick slabs of proja cornbread · a spoon of soured cream on the side · pickled chilli and rakija to start
+- Deep bowls with a roll or two, smoked rib alongside · plenty of the paprika gravy ladled over · mashed potato or thick slabs of proja cornbread · a spoon of soured cream on the side · pickled chilli and rakija to start
 
 ## Storage
 - Cooked sarma keeps 5 days refrigerated; reheats better than it cooks first time

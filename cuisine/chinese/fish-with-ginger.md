@@ -56,7 +56,7 @@ Ginger is to Chinese fish cookery what lemon is to European fish: the cleansing 
 - **Fresh ginger essential:** Use fresh, not powdered, for the delicate fragrance this dish requires.
 
 ## Serving
-Serve with: Steamed rice and a simple green vegetable such as bok choi
+- Serve with: Steamed rice and a simple green vegetable such as bok choi
 
 ## Storage
 - Best served immediately for optimal crispness and texture

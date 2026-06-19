@@ -57,14 +57,14 @@ Cala is the Aruban black-eyed pea fritter, the West African inheritance that tra
 - **Eat warm:** cala go from crisp to chewy within an hour. Fry just before serving.
 
 ## Variations
-**Cala cu pisca:** add 100 g finely chopped salt cod to the batter for the Lenten fishy version.
-**Spicy cala:** double the aji pepper for a hotter fritter.
-**Cala with herbs:** add a tablespoon of finely chopped fresh thyme.
-**Mini cala:** drop teaspoons of batter for cocktail-bite-sized fritters.
-**Oven cala:** spoon onto an oiled tray and bake at 200 C for 18 minutes (texture is less crisp but lighter).
+- **Cala cu pisca:** add 100 g finely chopped salt cod to the batter for the Lenten fishy version.
+- **Spicy cala:** double the aji pepper for a hotter fritter.
+- **Cala with herbs:** add a tablespoon of finely chopped fresh thyme.
+- **Mini cala:** drop teaspoons of batter for cocktail-bite-sized fritters.
+- **Oven cala:** spoon onto an oiled tray and bake at 200 C for 18 minutes (texture is less crisp but lighter).
 
 ## Serving
-At a Friday lunch · alongside sopi di pisca · with stewed black beans and rice · as a side at Sunday lunch · as a snack with pepper sauce · piled on a paper-lined platter for a family gathering · with a wedge of lime.
+- At a Friday lunch · alongside sopi di pisca · with stewed black beans and rice · as a side at Sunday lunch · as a snack with pepper sauce · piled on a paper-lined platter for a family gathering · with a wedge of lime.
 
 ## Storage
 - Eat warm the same day for the best texture.

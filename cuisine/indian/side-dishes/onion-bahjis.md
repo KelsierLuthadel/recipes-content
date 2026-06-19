@@ -64,15 +64,15 @@ Onion bhajis are the simplest fritters yet utterly addictive. Thinly sliced onio
 - **Batch Size:** Two spoonfuls per bhaji is ideal; larger portions cook unevenly.
 
 ## Variations
-**Spicier Heat:** Increase chilli powder to 1 ½ teaspoons or add ½ teaspoon chilli powder.
-**Spinach Bhajis:** Substitute 2 cups fresh spinach (chopped) for half the onion; reduce oil temperature to 170°C (spinach burns easily).
-**Herb Emphasis:** Include 1 tablespoon fresh mint leaves for additional fragrance.
-**Cauliflower Mix:** Replace half the onion with finely chopped raw cauliflower florets.
+- **Spicier Heat:** Increase chilli powder to 1 ½ teaspoons or add ½ teaspoon chilli powder.
+- **Spinach Bhajis:** Substitute 2 cups fresh spinach (chopped) for half the onion; reduce oil temperature to 170°C (spinach burns easily).
+- **Herb Emphasis:** Include 1 tablespoon fresh mint leaves for additional fragrance.
+- **Cauliflower Mix:** Replace half the onion with finely chopped raw cauliflower florets.
 
 ## Serving
-Serve with: Instant chutneys, yoghurt relish, cucumber raita, tamarind sauce
-Accompaniments: Lemon wedges, fresh mint
-Vessels: Serve on a warm plate lined with kitchen paper
+- Serve with: Instant chutneys, yoghurt relish, cucumber raita, tamarind sauce
+- Accompaniments: Lemon wedges, fresh mint
+- Vessels: Serve on a warm plate lined with kitchen paper
 
 ## Storage
 - Best served immediately when crispy

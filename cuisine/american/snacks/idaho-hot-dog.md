@@ -82,14 +82,14 @@ The Idaho hot dog is the state's distinctive take on the hot dog, leaning hard i
 - **Full topping set:** the bacon + chives + sour cream + cheddar combo is what makes it Idaho-style. Skimping ruins it.
 
 ## Variations
-**With chili:** ladle beef chili over the dog before adding the toppings.
-**With broccoli-cheddar:** add steamed broccoli florets to the topping pile.
-**With sweet potato:** swap the russet for a sweet potato; gives a slightly sweeter base.
-**Vegetarian:** swap the dog for a Beyond Sausage or a grilled portobello strip; or just skip the dog and double the bacon.
-**With BBQ pulled pork:** swap the dog for pulled pork.
+- **With chili:** ladle beef chili over the dog before adding the toppings.
+- **With broccoli-cheddar:** add steamed broccoli florets to the topping pile.
+- **With sweet potato:** swap the russet for a sweet potato; gives a slightly sweeter base.
+- **Vegetarian:** swap the dog for a Beyond Sausage or a grilled portobello strip; or just skip the dog and double the bacon.
+- **With BBQ pulled pork:** swap the dog for pulled pork.
 
 ## Serving
-At an Idaho state fair. At a Boise potato-themed restaurant. At home as a "loaded baked potato dinner that includes a hot dog."
+- At an Idaho state fair. At a Boise potato-themed restaurant. At home as a "loaded baked potato dinner that includes a hot dog."
 
 ## Storage
 - Baked potatoes refrigerate 4 days; reheat in oven 15 minutes at 180°C.

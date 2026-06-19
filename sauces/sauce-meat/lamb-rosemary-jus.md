@@ -56,7 +56,7 @@ Lamb jus with rosemary is the building block for the proper Sunday lunch lamb gr
 - **Herb selection:** Rosemary's pine notes complement lamb beautifully; bay leaves add sophistication.
 
 ## Serving
-Serve warm in a jug alongside rested roasted lamb. Perfect for medium-rare to medium lamb.
+- Serve warm in a jug alongside rested roasted lamb. Perfect for medium-rare to medium lamb.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

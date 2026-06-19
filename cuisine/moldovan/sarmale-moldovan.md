@@ -92,7 +92,7 @@ Moldovan sarmale are the tight little cousins of the Romanian original, rolled f
 - **With sour cream baked on top:** smântână spooned over for the last 20 minutes for a baked-cheese crust.
 
 ## Serving
-Hot, with a great heap of mămăligă, a spoon of smântână, a small green chilli on the side, a glass of cold red Fetească Neagră, and a small țuică shot to start.
+- Hot, with a great heap of mămăligă, a spoon of smântână, a small green chilli on the side, a glass of cold red Fetească Neagră, and a small țuică shot to start.
 
 ## Storage
 - Refrigerate up to 5 days; flavour improves daily.

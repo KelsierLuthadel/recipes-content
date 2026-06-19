@@ -59,13 +59,13 @@ Molho de coentros is Portugal's iconic coriander sauce and one of the most perva
 - **Use stems too:** they have flavour.
 
 ## Variations
-**With parsley:** add 1 small bunch of parsley alongside the coriander; gives a less assertive version.
-**Spicier:** add 1 chopped green chilli.
-**Pesto-style:** add 30 g toasted pine nuts and 2 tablespoons Parmesan; Italian-leaning.
-**Without vinegar (oil-only):** skip the vinegar; gives a richer oilier version.
+- **With parsley:** add 1 small bunch of parsley alongside the coriander; gives a less assertive version.
+- **Spicier:** add 1 chopped green chilli.
+- **Pesto-style:** add 30 g toasted pine nuts and 2 tablespoons Parmesan; Italian-leaning.
+- **Without vinegar (oil-only):** skip the vinegar; gives a richer oilier version.
 
 ## Serving
-Drizzle on grilled fish (the traditional use), grilled chicken, açorda, eggs, soups, sandwiches. As a marinade for sardines or pork.
+- Drizzle on grilled fish (the traditional use), grilled chicken, açorda, eggs, soups, sandwiches. As a marinade for sardines or pork.
 
 ## Storage
 - Best eaten the day made; loses colour after 24 hours.

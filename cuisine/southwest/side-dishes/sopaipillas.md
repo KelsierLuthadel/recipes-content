@@ -67,13 +67,13 @@ Sopaipillas (or "sopaipas") are New Mexico's iconic puffed fried bread, distinct
 - **Both savoury and sweet uses.**
 
 ## Variations
-**Stuffed sopaipillas:** stuff with carne adovada or beans; sopaipilla relleno.
-**Cinnamon-sugar:** dust generously with cinnamon sugar; dessert version.
-**Smaller (mini):** 3 cm squares; party canapés.
-**With chocolate:** drizzle with chocolate sauce; modern variation.
+- **Stuffed sopaipillas:** stuff with carne adovada or beans; sopaipilla relleno.
+- **Cinnamon-sugar:** dust generously with cinnamon sugar; dessert version.
+- **Smaller (mini):** 3 cm squares; party canapés.
+- **With chocolate:** drizzle with chocolate sauce; modern variation.
 
 ## Serving
-Warm with honey at New Mexican restaurants. Or as bread alongside chile stew, carne adovada, enchiladas.
+- Warm with honey at New Mexican restaurants. Or as bread alongside chile stew, carne adovada, enchiladas.
 
 ## Storage
 - Best eaten immediately.

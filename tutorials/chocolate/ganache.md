@@ -47,15 +47,15 @@ A broken ganache (greasy, grainy, oil separating from the chocolate) means the e
 
 ### Whipped Ganache
 
-A 1:1 dark chocolate ganache chilled overnight, then whipped to soft peaks with an electric mixer, becomes a chocolate frosting with a mousse-like texture. Use immediately, it sets firmer as it sits.
+- A 1:1 dark chocolate ganache chilled overnight, then whipped to soft peaks with an electric mixer, becomes a chocolate frosting with a mousse-like texture. Use immediately, it sets firmer as it sits.
 
-For a chocolate buttercream alternative: combine 200 g dark chocolate, 200 g cream, 50 g butter; chill 4-6 hours; whip. Pipes beautifully on cakes.
+- For a chocolate buttercream alternative: combine 200 g dark chocolate, 200 g cream, 50 g butter; chill 4-6 hours; whip. Pipes beautifully on cakes.
 
 ### Infused Ganache
 
-Steep aromatics in the hot cream before pouring it over the chocolate. Add the aromatic, bring to a simmer, kill the heat, cover, steep for 15-30 minutes. Strain, then proceed as normal.
+- Steep aromatics in the hot cream before pouring it over the chocolate. Add the aromatic, bring to a simmer, kill the heat, cover, steep for 15-30 minutes. Strain, then proceed as normal.
 
-Classic infusions:
+- Classic infusions:
 - **Earl Grey** - 1 tbsp loose leaves per 200 g cream. Steep 10 minutes.
 - **Cardamom** - 4-5 crushed green pods per 200 g cream. Steep 15 minutes.
 - **Lavender** - 1 tsp dried flowers per 200 g cream. Steep 5 minutes (longer turns soapy).
@@ -67,29 +67,29 @@ Classic infusions:
 
 ### Butter Ganache
 
-Add butter at the finishing stage as described above. The proportions for a butter-rich ganache:
+- Add butter at the finishing stage as described above. The proportions for a butter-rich ganache:
 
 - 200 g dark chocolate
 - 200 g cream
 - 60 g unsalted butter, cubed, cold
 
-The butter increases the mouthfeel without changing the firmness much. Common for the highest-grade truffle centres.
+- The butter increases the mouthfeel without changing the firmness much. Common for the highest-grade truffle centres.
 
 ### Ganache With Alcohol
 
-For boozy ganache (rum, whisky, Cointreau, Grand Marnier), add the alcohol at the end after the ganache has cooled to 35 C. The alcohol disturbs the emulsion if added hot. Maximum addition: about 10% of the ganache weight; more than that disrupts the structure.
+- For boozy ganache (rum, whisky, Cointreau, Grand Marnier), add the alcohol at the end after the ganache has cooled to 35 C. The alcohol disturbs the emulsion if added hot. Maximum addition: about 10% of the ganache weight; more than that disrupts the structure.
 
-For 200 g chocolate + 200 g cream ganache: add 30-40 ml alcohol. Reduce the cream by the same volume to compensate.
+- For 200 g chocolate + 200 g cream ganache: add 30-40 ml alcohol. Reduce the cream by the same volume to compensate.
 
 ### Water-Based Ganache (Vegan)
 
-Replace cream with sweetened almond milk, coconut cream, or water-and-sugar syrup. The technique is the same but the result is firmer and less luxurious. Coconut cream is the closest substitute for dairy cream; water-and-sugar is the most stable.
+- Replace cream with sweetened almond milk, coconut cream, or water-and-sugar syrup. The technique is the same but the result is firmer and less luxurious. Coconut cream is the closest substitute for dairy cream; water-and-sugar is the most stable.
 
-For 200 g dark chocolate, vegan version:
+- For 200 g dark chocolate, vegan version:
 - 200 g coconut cream (the thick part from the top of a can), OR
 - 150 ml water + 40 g sugar (dissolve sugar in water, heat to simmer, proceed)
 
-Coconut versions taste slightly of coconut; the sugar-water version is cleaner.
+- Coconut versions taste slightly of coconut; the sugar-water version is cleaner.
 
 ## Truffle Centres
 

@@ -55,7 +55,7 @@ Sauce Chasseur (hunter's sauce) is the building block for the classic French mus
 - **Quick cooking:** This sauce is fast to prepare; total time is under 30 minutes, making it ideal for quick meals.
 
 ## Serving
-Serve immediately with sautéed or grilled poultry (chicken, guinea fowl), veal, or other light meats.
+- Serve immediately with sautéed or grilled poultry (chicken, guinea fowl), veal, or other light meats.
 
 ## Storage
 - Best eaten immediately after preparation.

@@ -38,14 +38,14 @@ Fines herbes is the building block for delicate French finishing flourishes: a q
 - **Tarragon Potency:** Tarragon is strong; use sparingly or you'll overpower the blend.
 
 ## Variations
-**Classic French (with Chervil):** Parsley, chives, tarragon, chervil in equal parts.
-**Without Tarragon:** Use parsley, chives, and an extra generous amount of chervil.
-**Simplified:** Just parsley and chives if other herbs are unavailable.
+- **Classic French (with Chervil):** Parsley, chives, tarragon, chervil in equal parts.
+- **Without Tarragon:** Use parsley, chives, and an extra generous amount of chervil.
+- **Simplified:** Just parsley and chives if other herbs are unavailable.
 
 ## Serving
-Use with: Omelets, baked fish, potato dishes, consommés, light sauces, green salads
-Technique: Add just before serving or as a garnish
-Amount: 1-2 teaspoons per serving, depending on dish intensity
+- Use with: Omelets, baked fish, potato dishes, consommés, light sauces, green salads
+- Technique: Add just before serving or as a garnish
+- Amount: 1-2 teaspoons per serving, depending on dish intensity
 
 ## Storage
 - Use fresh; these herbs don't store well once chopped

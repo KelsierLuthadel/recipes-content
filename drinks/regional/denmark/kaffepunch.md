@@ -67,15 +67,15 @@ Kaffepunch (also called "kaffe med skipper", coffee with a skipper) is one of De
 - **Optional sugar:** some Danes drink it black + akvavit only, no sugar.
 
 ## Variations
-**Kaffe med ister (coffee with ice cream):** swap the akvavit for a scoop of vanilla ice cream, a modern dessert-coffee variant.
-**Karsk (Norwegian style):** swap the akvavit for moonshine (homebrew); the Norwegian truck-driver's stronger version.
-**With Bailey's or cream liqueur:** less traditional, more modern (Irish coffee influence).
-**With dark rum or brandy:** swap the akvavit for dark rum (Danish-rum-tradition version) or brandy.
-**Iced kaffepunch (summer version):** chill the coffee, add akvavit and ice, a non-traditional summer cocktail variant.
-**Skipperkaffe (large mug version):** a bigger pour; the "skipper" (sailor / farm-hand) version with extra akvavit.
+- **Kaffe med ister (coffee with ice cream):** swap the akvavit for a scoop of vanilla ice cream, a modern dessert-coffee variant.
+- **Karsk (Norwegian style):** swap the akvavit for moonshine (homebrew); the Norwegian truck-driver's stronger version.
+- **With Bailey's or cream liqueur:** less traditional, more modern (Irish coffee influence).
+- **With dark rum or brandy:** swap the akvavit for dark rum (Danish-rum-tradition version) or brandy.
+- **Iced kaffepunch (summer version):** chill the coffee, add akvavit and ice, a non-traditional summer cocktail variant.
+- **Skipperkaffe (large mug version):** a bigger pour; the "skipper" (sailor / farm-hand) version with extra akvavit.
 
 ## Serving
-At a Danish countryside kro (inn) in the late afternoon · at a farmhouse table in Jutland after a hard day's work · after a Sunday roast as the dessert-time warmer · at a Danish Christmas afternoon · at home in winter with the curtains drawn and a book.
+- At a Danish countryside kro (inn) in the late afternoon · at a farmhouse table in Jutland after a hard day's work · after a Sunday roast as the dessert-time warmer · at a Danish Christmas afternoon · at home in winter with the curtains drawn and a book.
 
 ## Storage
 - Best fresh.

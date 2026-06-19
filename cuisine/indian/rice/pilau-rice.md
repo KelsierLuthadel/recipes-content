@@ -125,17 +125,17 @@ Pilau rice exemplifies spiced Indian cooking at its most refined. Rather than co
 - **Cardamom Pods:** These can be eaten (provided in many Indian restaurants); some diners remove them, others eat them for their subtle warm sweetness.
 
 ## Variations
-**With Peas:** Fold 50 grams frozen (or freshly cooked) peas into finished rice; they'll warm from residual heat.
-**Fragrant Basmati Emphasis:** Use fragrant basmati varieties (Basmati 370, Basmati PC) for enhanced natural rice aroma.
-**Ghee Version:** Substitute clarified butter (ghee) for regular butter; provides more authentic Indian character and distinct nutty aroma.
-**Extra Cardamom:** Increase cardamom pods to 6 for stronger spice emphasis (traditional in some regions).
-**With Fried Onions:** Top finished pilau with crispy fried onions (traditional garnish); adds textural contrast.
+- **With Peas:** Fold 50 grams frozen (or freshly cooked) peas into finished rice; they'll warm from residual heat.
+- **Fragrant Basmati Emphasis:** Use fragrant basmati varieties (Basmati 370, Basmati PC) for enhanced natural rice aroma.
+- **Ghee Version:** Substitute clarified butter (ghee) for regular butter; provides more authentic Indian character and distinct nutty aroma.
+- **Extra Cardamom:** Increase cardamom pods to 6 for stronger spice emphasis (traditional in some regions).
+- **With Fried Onions:** Top finished pilau with crispy fried onions (traditional garnish); adds textural contrast.
 
 ## Serving
-Use with: Mild to medium curries (korma, dopiaza, jalfrezi), grilled meats, tandoori chicken, rice-based Indian meals
-Temperature: Hot or warm
-Ratio: 60ml uncooked rice per person (yields approximately 150ml cooked pilau)
-Context: Indian formal dinners, special occasions, curried dishes where rice partners with sauce
+- Use with: Mild to medium curries (korma, dopiaza, jalfrezi), grilled meats, tandoori chicken, rice-based Indian meals
+- Temperature: Hot or warm
+- Ratio: 60ml uncooked rice per person (yields approximately 150ml cooked pilau)
+- Context: Indian formal dinners, special occasions, curried dishes where rice partners with sauce
 
 ## Storage
 - Refrigerate cooked pilau in a sealed container for up to 3-4 days.

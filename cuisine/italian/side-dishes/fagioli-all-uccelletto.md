@@ -68,13 +68,13 @@ Fagioli all'uccelletto (literally "beans in the style of little birds", the name
 - **Don't mash too many:** keep some bean texture.
 
 ## Variations
-**With pork sausage:** add 200 g of crumbled cooked Italian pork sausage; gives a heartier version.
-**With anchovy:** add 4 anchovy fillets with the garlic; gives umami.
-**Without tomato (white version):** skip the tomato; cook beans with garlic, sage and olive oil only.
-**With pancetta:** add 100 g of diced pancetta at the start; gives smoky depth.
+- **With pork sausage:** add 200 g of crumbled cooked Italian pork sausage; gives a heartier version.
+- **With anchovy:** add 4 anchovy fillets with the garlic; gives umami.
+- **Without tomato (white version):** skip the tomato; cook beans with garlic, sage and olive oil only.
+- **With pancetta:** add 100 g of diced pancetta at the start; gives smoky depth.
 
 ## Serving
-Alongside grilled meats, roast chicken, sausages. With crusty Italian bread, simple salad. Tuscan red wine.
+- Alongside grilled meats, roast chicken, sausages. With crusty Italian bread, simple salad. Tuscan red wine.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

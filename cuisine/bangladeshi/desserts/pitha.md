@@ -79,7 +79,7 @@ Pitha is the whole family of Bengali rice flour cakes and dumplings, cooked acro
 - **Savoury filling:** swap the filling for spiced minced lamb and serve with curry; the savoury pitha cousin.
 
 ## Serving
-Warm in a small bowl, with extra warm cardamom milk poured over · a few saffron threads on top · a teaspoon of toasted pistachios
+- Warm in a small bowl, with extra warm cardamom milk poured over · a few saffron threads on top · a teaspoon of toasted pistachios
 
 ## Storage
 - Dudh puli pithas keep 2 days refrigerated; the dumplings firm up but reheat fine

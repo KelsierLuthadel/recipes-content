@@ -46,7 +46,7 @@ Coffee sabayon with cinnamon is the building block for an ethereal warm dessert 
 
 ## Variations
 
-**Coffee sabayon with Tia Maria**
+- **Coffee sabayon with Tia Maria**
 - Dissolve the coffee in 3 tablespoons of water only.
 - In place of the cinnamon, add 50 ml Tia Maria or Kahlua along with the sugar and egg yolks.
 
@@ -56,7 +56,7 @@ Coffee sabayon with cinnamon is the building block for an ethereal warm dessert 
 - **Immediate service:** This sauce must be served immediately after whisking or it collapses.
 
 ## Serving
-Serve immediately as dessert in itself with orange tuiles, or spoon over fresh orange segments, poached pears, or berries. For gratin presentation, spoon over fruit and place under hot grill until lightly grilled.
+- Serve immediately as dessert in itself with orange tuiles, or spoon over fresh orange segments, poached pears, or berries. For gratin presentation, spoon over fruit and place under hot grill until lightly grilled.
 
 ## Storage
 - Does not store due to need for immediate service; make fresh for each service.

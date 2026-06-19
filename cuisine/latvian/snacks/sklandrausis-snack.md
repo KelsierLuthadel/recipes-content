@@ -87,7 +87,7 @@ A bite-sized version of the classic sklandrausis: same rye dough, same potato-th
 - **Pumpkin top:** Replace the carrot with roasted mashed pumpkin; common in modern bakery versions.
 
 ## Serving
-Serve at room temperature alongside coffee or strong tea. They sit happily on a sweet platter next to piparkūkas and klingeris slices.
+- Serve at room temperature alongside coffee or strong tea. They sit happily on a sweet platter next to piparkūkas and klingeris slices.
 
 ## Storage
 - Keeps 3 days at room temperature in a tin lined with paper.

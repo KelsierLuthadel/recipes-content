@@ -80,7 +80,7 @@ Sheftalia are the great Cypriot grill sausage, distinct from any other Mediterra
 - **Oven-finish.** Grill on the barbecue 8 minutes to set the skin, then transfer to a 200°C oven 6 minutes; useful when the coals run out.
 
 ## Serving
-Serve with grilled halloumi · pourgouri · talattouri · a chopped tomato-and-cucumber salad · cold Keo beer or a glass of Xynisteri.
+- Serve with grilled halloumi · pourgouri · talattouri · a chopped tomato-and-cucumber salad · cold Keo beer or a glass of Xynisteri.
 
 ## Storage
 - Uncooked, wrapped sheftalia keep 1 day refrigerated and freeze 2 months (freeze on a tray, then bag).

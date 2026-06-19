@@ -68,17 +68,17 @@ Caesar dressing is the building block of the Caesar salad and almost everything 
 - **Strong Foods Pair Together:** This dressing requires equally assertive lettuce; delicate mesclun will be overwhelmed.
 
 ## Variations
-**Extra Garlicky:** Increase garlic to ¼ clove; let sit in lemon juice 10 minutes before whisking.
-**With Worcestershire:** Add ½ teaspoon Worcestershire during water-addition stage.
-**Lighter Version:** Reduce egg yolk to ½ and increase water to 3-4 tablespoons for thinner consistency.
-**Spicier:** Add pinch of cayenne pepper or hot paprika during seasoning.
-**With Mustard Emphasis:** Increase Dijon mustard to ¼ teaspoon.
+- **Extra Garlicky:** Increase garlic to ¼ clove; let sit in lemon juice 10 minutes before whisking.
+- **With Worcestershire:** Add ½ teaspoon Worcestershire during water-addition stage.
+- **Lighter Version:** Reduce egg yolk to ½ and increase water to 3-4 tablespoons for thinner consistency.
+- **Spicier:** Add pinch of cayenne pepper or hot paprika during seasoning.
+- **With Mustard Emphasis:** Increase Dijon mustard to ¼ teaspoon.
 
 ## Serving
-Use with: Cos lettuce (primary), romaine, radicchio, sturdy lettuces, grilled chicken, croutons, Parmesan shavings
-Dressing ratio: 2-3 tablespoons per serving
-Temperature: Room temperature
-Timing: Apply just before eating
+- Use with: Cos lettuce (primary), romaine, radicchio, sturdy lettuces, grilled chicken, croutons, Parmesan shavings
+- Dressing ratio: 2-3 tablespoons per serving
+- Temperature: Room temperature
+- Timing: Apply just before eating
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 2-3 days maximum

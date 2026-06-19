@@ -87,7 +87,7 @@ Pavlova is the dessert that New Zealand and Australia have argued over since the
 - **Top just before serving:** Once cream and fruit are on, the pavlova softens fast - 2 hours at most in the fridge. Best is to bake the meringue the day before, top within the hour of serving.
 
 ## Serving
-Serve as the Christmas dinner finale, the BBQ pud, or the centrepiece of a summer afternoon tea. Slice through with a serrated knife - it'll crack, that's fine, that's the dish.
+- Serve as the Christmas dinner finale, the BBQ pud, or the centrepiece of a summer afternoon tea. Slice through with a serrated knife - it'll crack, that's fine, that's the dish.
 
 ## Storage
 - Unfilled meringue keeps 3 days in a sealed tin in a dry place (humidity wilts meringue).

@@ -57,7 +57,7 @@ Harees is one of the oldest dishes of the Arabian Peninsula, mentioned in tenth-
 - **The texture is the dish.** Aim for smooth, not chunky; if it's still grainy after the long simmer, beat harder.
 
 ## Serving
-Serve hot in shallow bowls for Ramadan iftar, with dates and laban on the side.
+- Serve hot in shallow bowls for Ramadan iftar, with dates and laban on the side.
 
 ## Storage
 - Refrigerate 3 days; reheat gently with extra water (it thickens to a near-solid when cold)

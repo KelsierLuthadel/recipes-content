@@ -53,7 +53,7 @@ Purini sits beside vakalolo as the other Fijian steamed dessert; where vakalolo 
 - **Texture:** Purini is moist and tender, not light and fluffy. Steamed puddings are denser than baked cakes by their nature.
 
 ## Serving
-Serve warm, with thick coconut cream poured generously over each portion. A scoop of vanilla ice cream is non-traditional but works beautifully.
+- Serve warm, with thick coconut cream poured generously over each portion. A scoop of vanilla ice cream is non-traditional but works beautifully.
 
 ## Storage
 - Refrigerate wrapped 3 days; reheat in the steamer or microwave.

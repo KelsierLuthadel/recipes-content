@@ -81,7 +81,7 @@ Aseeda bil bisbas is the savoury morning version of the wider aseeda family, a s
 - Use barley flour in place of half the semolina for an older country version.
 
 ## Serving
-At breakfast on a cold morning before work · as a late-morning snack with strong mint tea · spread on a family plate to share with bread instead of saucers · alongside olives and labneh for a fuller breakfast spread · in the small hours after a long evening, as a warming finish.
+- At breakfast on a cold morning before work · as a late-morning snack with strong mint tea · spread on a family plate to share with bread instead of saucers · alongside olives and labneh for a fuller breakfast spread · in the small hours after a long evening, as a warming finish.
 
 ## Storage
 - Bisbas keeps 5 days refrigerated and freezes 2 months.

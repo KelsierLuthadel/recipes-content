@@ -128,9 +128,9 @@ Chicken 65 is one of the most-debated origin stories in South Indian cooking. Th
 ---
 
 ## Serving
-Serve as a starter with sliced raw onion, lemon wedges, and a small ramekin of cool raita. A few extra curry leaves briefly fried in the leftover oil and scattered on top give the dish a restaurant-finish look. Cold beer or a lassi pair particularly well.
+- Serve as a starter with sliced raw onion, lemon wedges, and a small ramekin of cool raita. A few extra curry leaves briefly fried in the leftover oil and scattered on top give the dish a restaurant-finish look. Cold beer or a lassi pair particularly well.
 
----
+- ---
 
 ## Storage
 Best eaten immediately while the batter is still crisp. Leftovers keep 1 to 2 days in the fridge in a sealed container, but the batter will soften noticeably, reheat in a hot oven (200°C / fan 180°C) for 8 to 10 minutes to re-crisp rather than the microwave, which makes the chicken rubbery. Sauce-coated chicken doesn't reheat as well as sauce-tossed-on-the-plate; toss only what you'll eat.

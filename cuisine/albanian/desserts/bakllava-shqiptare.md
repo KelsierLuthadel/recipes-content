@@ -81,7 +81,7 @@ Bakllava shqiptare is the Albanian take on the wider Ottoman tradition, and the 
 - **Christmas version:** Add the zest of one orange to the walnut filling.
 
 ## Serving
-With a small dark Albanian coffee · at Bajram (Eid) · at Christmas · at weddings and family celebrations · with a glass of cold water · cut diamond by diamond from the tray.
+- With a small dark Albanian coffee · at Bajram (Eid) · at Christmas · at weddings and family celebrations · with a glass of cold water · cut diamond by diamond from the tray.
 
 ## Storage
 - Keeps 2 weeks at room temperature, covered loosely (not airtight, which softens the top).

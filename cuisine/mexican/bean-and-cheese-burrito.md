@@ -45,7 +45,7 @@ The bean and cheese burrito is the most stripped-down version of the Northern Me
 - **The tortilla:** A thin large Northern Mexican flour tortilla is the right wrap; standard supermarket flour tortillas are thicker but workable.
 
 ## Serving
-Serve hot with hot sauce or salsa verde on the side. Pickled jalapeños inside or alongside.
+- Serve hot with hot sauce or salsa verde on the side. Pickled jalapeños inside or alongside.
 
 ## Storage
 - The refried beans keep 4 days refrigerated and freeze 2 months

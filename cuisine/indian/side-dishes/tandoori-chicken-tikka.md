@@ -82,17 +82,17 @@ Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessi
 - **Metal Skewers:** These conduct heat; avoid wooden skewers. Flat skewers hold the pieces more securely.
 
 ## Variations
-**Spicier Heat:** Add ½ teaspoon cayenne or increase chilli powder to 1 ½ teaspoons.
-**Less Spice:** Reduce half the spices for a milder version.
-**Lemon Enhancement:** Squeeze fresh lemon over the finished tikka just before serving.
-**Paneer Tikka:** Substitute 800g paneer cheese (cut into cubes) for chicken; reduce cooking time to 8-10 minutes (cheese softens quickly).
-**Vegetable Tikka:** Use bell peppers, onions, zucchini, tomatoes, and paneer in mixed rounds with the chicken.
+- **Spicier Heat:** Add ½ teaspoon cayenne or increase chilli powder to 1 ½ teaspoons.
+- **Less Spice:** Reduce half the spices for a milder version.
+- **Lemon Enhancement:** Squeeze fresh lemon over the finished tikka just before serving.
+- **Paneer Tikka:** Substitute 800g paneer cheese (cut into cubes) for chicken; reduce cooking time to 8-10 minutes (cheese softens quickly).
+- **Vegetable Tikka:** Use bell peppers, onions, zucchini, tomatoes, and paneer in mixed rounds with the chicken.
 
 ## Serving
-Serve with: Basmati rice, naan bread, roti, rice pilau, curries
-Garnish: Fresh coriander, lemon wedges, thin onion slices, chutney
-Accompany with: Mint raita, lemon chutney, fresh mint leaves
-Or use: In curries (Tikka Masala) or salads
+- Serve with: Basmati rice, naan bread, roti, rice pilau, curries
+- Garnish: Fresh coriander, lemon wedges, thin onion slices, chutney
+- Accompany with: Mint raita, lemon chutney, fresh mint leaves
+- Or use: In curries (Tikka Masala) or salads
 
 ## Storage
 - Refrigerate marinated raw chicken for up to 48 hours before cooking

@@ -114,13 +114,13 @@ Arrollado de huaso ("huaso's rolled-up") is a Chilean countryside specialty name
 - **Slice across the roll:** not lengthwise.
 
 ## Variations
-**Beef arrollado:** swap pork belly for thin flank steak; cook the same way; different but excellent.
-**Stuffed with hard-boiled egg:** lay 4 hard-boiled eggs along the centre of the filling before rolling; gives a cross-section reveal when sliced.
-**With chorizo strip:** place a strip of chorizo sausage along the centre of the filling before rolling.
-**Smoked arrollado:** add 100 g of bacon to the filling; gives smoky depth.
+- **Beef arrollado:** swap pork belly for thin flank steak; cook the same way; different but excellent.
+- **Stuffed with hard-boiled egg:** lay 4 hard-boiled eggs along the centre of the filling before rolling; gives a cross-section reveal when sliced.
+- **With chorizo strip:** place a strip of chorizo sausage along the centre of the filling before rolling.
+- **Smoked arrollado:** add 100 g of bacon to the filling; gives smoky depth.
 
 ## Serving
-At the centre of a Sunday Chilean lunch table sliced thick. Puré de papas, pebre, salad. Drink: Chilean red wine, Cristal beer.
+- At the centre of a Sunday Chilean lunch table sliced thick. Puré de papas, pebre, salad. Drink: Chilean red wine, Cristal beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

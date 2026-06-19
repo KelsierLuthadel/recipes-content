@@ -77,13 +77,13 @@ Tennessee baked beans are the traditional Memphis BBQ-joint side and Tennessee s
 - **Slow-bake covered then uncovered.**
 
 ## Variations
-**Vegetarian:** skip bacon; add smoked paprika + liquid smoke.
-**With pulled pork:** add 300 g shredded pork.
-**Without whiskey:** still good; less specifically Tennessee.
-**Spicier:** double cayenne.
+- **Vegetarian:** skip bacon; add smoked paprika + liquid smoke.
+- **With pulled pork:** add 300 g shredded pork.
+- **Without whiskey:** still good; less specifically Tennessee.
+- **Spicier:** double cayenne.
 
 ## Serving
-At BBQ joints; alongside ribs, pork, brisket. Tennessee summer suppers.
+- At BBQ joints; alongside ribs, pork, brisket. Tennessee summer suppers.
 
 ## Storage
 - Refrigerated 5 days; flavour deepens.

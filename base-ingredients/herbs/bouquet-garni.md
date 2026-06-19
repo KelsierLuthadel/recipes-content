@@ -38,14 +38,14 @@ The bouquet garni is the building block of French stocks, soups, braises and ste
 - **Steeping Time:** Shorter cooking times (15-30 minutes) for delicate soups; longer times (1-2 hours) for stews and stocks.
 
 ## Variations
-**Italian Style:** Swap oregano for basil; include a sprig of rosemary.
-**Creole Version:** Add a celery rib and a pinch of thyme.
-**Hearty:** Include a small piece of fennel or a strip of lemon zest.
+- **Italian Style:** Swap oregano for basil; include a sprig of rosemary.
+- **Creole Version:** Add a celery rib and a pinch of thyme.
+- **Hearty:** Include a small piece of fennel or a strip of lemon zest.
 
 ## Serving
-Use in: Stocks, soups, stews, braised proteins
-Timing: Add at the beginning of cooking; remove 10 minutes before finishing
-Removal: Lift out using the string tail before plating
+- Use in: Stocks, soups, stews, braised proteins
+- Timing: Add at the beginning of cooking; remove 10 minutes before finishing
+- Removal: Lift out using the string tail before plating
 
 ## Storage
 - Create multiple bouquets and store in the freezer, bundled individually for up to 3 months

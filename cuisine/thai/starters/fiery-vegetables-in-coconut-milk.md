@@ -44,9 +44,9 @@ Tom kati pak is the Thai vegetable curry that's all about the chilli: eight fres
 - **Fish sauce:** Use quality fish sauce; it adds umami depth without fishiness if cooked with the vegetables.
 
 ## Serving
-Serve with: Jasmine rice or rice noodles
-Garnish with: Fresh holy basil leaves, thin red chilli slices, and lime wedge
-Accompaniment: Extra lime juice for squeezing at the table
+- Serve with: Jasmine rice or rice noodles
+- Garnish with: Fresh holy basil leaves, thin red chilli slices, and lime wedge
+- Accompaniment: Extra lime juice for squeezing at the table
 
 ## Storage
 - Keeps 2-3 days refrigerated in an airtight container

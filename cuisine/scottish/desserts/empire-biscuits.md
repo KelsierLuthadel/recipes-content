@@ -96,16 +96,16 @@ Empire biscuits (originally called "Linzer biscuits" or "Belgian biscuits" until
 - **Use seedless raspberry jam:** seeds in your teeth aren't ideal for a delicate biscuit.
 
 ## Variations
-**Belgian biscuits (the original name):** identical recipe, just called by the pre-war name. Some Scottish bakeries still use this name.
-**With apricot jam:** swap raspberry for apricot, less traditional but very nice.
-**With strawberry jam:** swap raspberry for strawberry, less traditional; older Scottish recipes specifically called for raspberry.
-**With chocolate icing:** swap white royal icing for chocolate glaze, modern variant.
-**Vegan version:** use vegan butter in the shortbread; use aquafaba (chickpea liquid) instead of egg white in the icing.
-**Mini versions:** use a 3 cm cutter; makes 24 small biscuits for canapé or kids-party portions.
-**Lemon-iced version:** add 1 teaspoon lemon juice + ½ teaspoon zest to the icing, lifts the sweetness.
+- **Belgian biscuits (the original name):** identical recipe, just called by the pre-war name. Some Scottish bakeries still use this name.
+- **With apricot jam:** swap raspberry for apricot, less traditional but very nice.
+- **With strawberry jam:** swap raspberry for strawberry, less traditional; older Scottish recipes specifically called for raspberry.
+- **With chocolate icing:** swap white royal icing for chocolate glaze, modern variant.
+- **Vegan version:** use vegan butter in the shortbread; use aquafaba (chickpea liquid) instead of egg white in the icing.
+- **Mini versions:** use a 3 cm cutter; makes 24 small biscuits for canapé or kids-party portions.
+- **Lemon-iced version:** add 1 teaspoon lemon juice + ½ teaspoon zest to the icing, lifts the sweetness.
 
 ## Serving
-At a Scottish bakery counter (Greggs in Scotland; any local independent baker; Stuart's of Buckhaven) as the traditional tea-time biscuit · at a Scottish primary-school break-time · at a Scottish granny's tea trolley · at a Scottish wedding tea-bar · alongside a cup of strong Scottish breakfast tea · at home as a Saturday afternoon treat.
+- At a Scottish bakery counter (Greggs in Scotland; any local independent baker; Stuart's of Buckhaven) as the traditional tea-time biscuit · at a Scottish primary-school break-time · at a Scottish granny's tea trolley · at a Scottish wedding tea-bar · alongside a cup of strong Scottish breakfast tea · at home as a Saturday afternoon treat.
 
 ## Storage
 - Once iced and set, keeps in a sealed tin for 1 week (the icing keeps everything fresh).

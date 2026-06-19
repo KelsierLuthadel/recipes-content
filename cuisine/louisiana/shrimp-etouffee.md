@@ -96,7 +96,7 @@
 - **Étouffée over hush puppies:** instead of plain rice, spoon the étouffée over crisp [hush puppies](../american/side-dishes/hush-puppies.md) for a Southern crossover.
 
 ## Serving
-Étouffée is a one-bowl meal. Plain rice is the only side it needs. A slice of cornbread on the side is welcome but not necessary. Beer or sweet iced tea; nothing fancy.
+- Étouffée is a one-bowl meal. Plain rice is the only side it needs. A slice of cornbread on the side is welcome but not necessary. Beer or sweet iced tea; nothing fancy.
 
 ## Storage
 - Improves overnight. Keeps 3 days refrigerated; remove the shrimp before reheating and stir back in for the last minute to avoid rubbery seafood on the second day.

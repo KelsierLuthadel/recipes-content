@@ -63,7 +63,7 @@ Sheer khurma is the Eid al-Fitr morning dessert, eaten first thing after dawn pr
 - Dates can be soaked briefly in hot milk to soften further if they're firm, most medjools are soft enough straight from the box.
 
 ## Serving
-First thing on Eid al-Fitr morning, in small bowls passed around the family. Cooled to lukewarm if it's a hot Eid; warm if the morning is cool. A second helping is expected.
+- First thing on Eid al-Fitr morning, in small bowls passed around the family. Cooled to lukewarm if it's a hot Eid; warm if the morning is cool. A second helping is expected.
 
 ## Storage
 Refrigerated, up to 3 days. The kheer will thicken further as it cools and the vermicelli continues to absorb milk. Loosen with a splash of warm milk before serving, or eat cold straight from the bowl.

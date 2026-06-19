@@ -64,13 +64,13 @@ The Mexican-American template burrito, the customisable build-your-own that turn
 - **Make-ahead:** Assemble the burrito but don't wrap in foil; refrigerate for up to 4 hours, then warm as directed.
 
 ## Variations
-**Vegetarian:** Omit meat and use extra beans, sautéed peppers, and mushrooms
-**Seafood burrito:** Use seasoned shrimp or fish instead of traditional meat
-**Breakfast burrito:** Replace fillings with scrambled eggs, bacon or sausage, hash browns, and mild salsa
-**Extra creamy:** Add guacamole and extra sour cream or crema
+- **Vegetarian:** Omit meat and use extra beans, sautéed peppers, and mushrooms
+- **Seafood burrito:** Use seasoned shrimp or fish instead of traditional meat
+- **Breakfast burrito:** Replace fillings with scrambled eggs, bacon or sausage, hash browns, and mild salsa
+- **Extra creamy:** Add guacamole and extra sour cream or crema
 
 ## Serving
-Serve with: Refried beans on the side, extra salsa, guacamole, lime wedges, and Mexican rice
+- Serve with: Refried beans on the side, extra salsa, guacamole, lime wedges, and Mexican rice
 
 ## Storage
 - Best eaten immediately while warm

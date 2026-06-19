@@ -91,14 +91,14 @@ This is the chorizo-and-peppers version of Spanish tortilla: a rustic hearty ome
 - **Versatility:** Tortilla is traditionally served warm, but equally delicious at room temperature or cold.
 
 ## Variations
-**With mushrooms:** Replace tomatoes with 150g sautéed mushrooms (buttons or wild) for earthier flavour
-**Seafood version:** Replace chorizo with 100g diced smoked salmon or cooked prawns for a delicate alternative
-**Extra spicy:** Add sliced fresh chillies alongside the peppers or use spicy chorizo
-**Peppers only:** Use 2 red and 1 yellow bell pepper instead of mixed vegetables for sweetness
-**Potato & onion only:** Make a traditional tortilla española by omitting peppers, tomatoes, and chorizo; increase onions to 3 large
+- **With mushrooms:** Replace tomatoes with 150g sautéed mushrooms (buttons or wild) for earthier flavour
+- **Seafood version:** Replace chorizo with 100g diced smoked salmon or cooked prawns for a delicate alternative
+- **Extra spicy:** Add sliced fresh chillies alongside the peppers or use spicy chorizo
+- **Peppers only:** Use 2 red and 1 yellow bell pepper instead of mixed vegetables for sweetness
+- **Potato & onion only:** Make a traditional tortilla española by omitting peppers, tomatoes, and chorizo; increase onions to 3 large
 
 ## Serving
-Serve warm, at room temperature, or cold with: Crusty bread, a simple green salad, or Spanish olives. Pairs beautifully with Spanish wine or fresh sangria.
+- Serve warm, at room temperature, or cold with: Crusty bread, a simple green salad, or Spanish olives. Pairs beautifully with Spanish wine or fresh sangria.
 
 ## Storage
 - Keeps 3 days refrigerated in an airtight container

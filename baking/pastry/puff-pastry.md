@@ -51,7 +51,7 @@ Feuilletage (puff pastry) is the building block for vol-au-vents, mille-feuille,
 - Rest periods between turns allow gluten to relax, making rolling easier and preventing pastry shrinkage
 
 ## Serving
-Use puff pastry for vol-au-vents (filled with savory fare or light creams), as a base for fruit tarts (topped with crème pâtissière and glazed fruit), or for savory applications with vegetables, cheese, and herbs. The dramatic puff and crispy layers make every application spectacular. Brush with eggwash for golden color.
+- Use puff pastry for vol-au-vents (filled with savory fare or light creams), as a base for fruit tarts (topped with crème pâtissière and glazed fruit), or for savory applications with vegetables, cheese, and herbs. The dramatic puff and crispy layers make every application spectacular. Brush with eggwash for golden color.
 
 ## Storage
 Unwrapped, uncut dough can be refrigerated for 2 days or frozen for up to 1 month. Wrap tightly to prevent dehydration. Cut shapes can be frozen before baking (bake directly from frozen, adding 5 minutes to baking time). Once baked, store in an airtight container for 1-2 days; refresh in a 180°C oven for 3-5 minutes to re-crisp.

@@ -59,7 +59,7 @@ Sobolo is the Ghanaian name for the West-African hibiscus drink (zobo in Nigeria
 - **Hot sobolo:** Skip the chill, serve warm on a cool evening with a slice of orange.
 
 ## Serving
-Serve over ice in tall glasses · with kelewele or jollof rice · at parties and weddings in a large jug · with a wedge of lime.
+- Serve over ice in tall glasses · with kelewele or jollof rice · at parties and weddings in a large jug · with a wedge of lime.
 
 ## Storage
 - Keeps 5 days refrigerated in a sealed bottle

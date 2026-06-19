@@ -76,13 +76,13 @@ Bánh flan is Vietnam's take on French crème caramel: smoother and more egg-ric
 - **Coffee finish:** A shot of strong robusta coffee poured around the base of the flan is the Vietnamese way. Vietnamese coffee from a phin filter is ideal; a strong espresso works.
 
 ## Variations
-**Coconut flan (bánh flan dừa):** Replace the evaporated milk with 400 ml coconut milk. The texture is slightly softer but the flavour is wonderful.
-**Pandan flan:** Steep 4 pandan leaves (or 1 teaspoon pandan extract) in the warmed milk for 20 minutes. Strain before mixing with the eggs. The flan turns pale green and smells like jasmine rice.
-**Cinnamon flan:** Add a cinnamon stick to the warmed milk in the same way.
+- **Coconut flan (bánh flan dừa):** Replace the evaporated milk with 400 ml coconut milk. The texture is slightly softer but the flavour is wonderful.
+- **Pandan flan:** Steep 4 pandan leaves (or 1 teaspoon pandan extract) in the warmed milk for 20 minutes. Strain before mixing with the eggs. The flan turns pale green and smells like jasmine rice.
+- **Cinnamon flan:** Add a cinnamon stick to the warmed milk in the same way.
 
 ## Serving
-Serve with: a shot of strong black coffee poured around the base over crushed ice, the standard Saigon café preparation.
-Garnish with: a drizzle of coconut cream or a few coffee beans on the plate.
+- Serve with: a shot of strong black coffee poured around the base over crushed ice, the standard Saigon café preparation.
+- Garnish with: a drizzle of coconut cream or a few coffee beans on the plate.
 
 ## Storage
 - Keeps 4 days refrigerated in the ramekins, covered with cling film

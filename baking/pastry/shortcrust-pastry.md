@@ -34,7 +34,7 @@ Pâte brisée is the building block for classical French tartlet and flan cases,
 - Work quickly and gently when lining tins; the delicate dough tears easily if overhandled or warm
 
 ## Serving
-Line flan tins and tartlet molds with pâte brisée and blind-bake at 200°C for 15 minutes before adding fillings. Use as the base for fruit tarts (topped with crème pâtissière), chocolate tarts, or savory preparations with vegetable purees or custard fillings.
+- Line flan tins and tartlet molds with pâte brisée and blind-bake at 200°C for 15 minutes before adding fillings. Use as the base for fruit tarts (topped with crème pâtissière), chocolate tarts, or savory preparations with vegetable purees or custard fillings.
 
 ## Storage
 Wrap unrolled dough and refrigerate for 2 days, or freeze for up to 1 month. Thaw frozen dough in the refrigerator before rolling. Once lining a tin, the dough can be refrigerated for up to 12 hours before baking. Blind-baked shells can be refrigerated for 1 day before filling.

@@ -99,9 +99,9 @@ The flavour profile is mild to medium and noticeably green. Fresh fenugreek leav
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of methi paratha to double down on the herb. A side of plain raita keeps the bitter notes in check.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of methi paratha to double down on the herb. A side of plain raita keeps the bitter notes in check.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The fresh-herb character is brightest on day one; flavours settle and round out by day two. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth.

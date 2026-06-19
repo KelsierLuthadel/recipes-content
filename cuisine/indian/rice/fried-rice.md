@@ -55,14 +55,14 @@ The quickest rice dish in the Indian repertoire and a clever use-up-yesterday's-
 - **Lemon Timing:** Add lemon juice at the very end to preserve its fresh, bright flavor; cooking it too long mellows the acidity.
 
 ## Variations
-**Onion Version:** Fry 1 chopped onion in the oil before adding the rice for a different flavor profile.
-**With Vegetables:** Scatter cooked peas, corn, or diced carrots through the rice with the chives.
-**Ginger Emphasis:** Add 1 tablespoon fresh ginger matchsticks with the garlic for extra ginger warmth.
-**Turmeric Golden:** Add ¼ teaspoon ground turmeric to the oil for a golden hue and earthy warmth.
+- **Onion Version:** Fry 1 chopped onion in the oil before adding the rice for a different flavor profile.
+- **With Vegetables:** Scatter cooked peas, corn, or diced carrots through the rice with the chives.
+- **Ginger Emphasis:** Add 1 tablespoon fresh ginger matchsticks with the garlic for extra ginger warmth.
+- **Turmeric Golden:** Add ¼ teaspoon ground turmeric to the oil for a golden hue and earthy warmth.
 
 ## Serving
-Serve with: Indian curries, roasted tandoori meats, raita
-Garnish with: Fresh chives, lemon wedges, fresh coriander leaves
+- Serve with: Indian curries, roasted tandoori meats, raita
+- Garnish with: Fresh chives, lemon wedges, fresh coriander leaves
 
 ## Storage
 - Best served immediately while warm

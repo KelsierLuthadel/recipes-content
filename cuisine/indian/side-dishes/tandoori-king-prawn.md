@@ -83,17 +83,17 @@ Tandoori King Prawns are elegant, restaurant-quality appetizers or mains. The pr
 - **Ajwain Seeds:** Carom seeds add unusual, slightly thyme-like flavor; they're traditional in tandoori preparations. Find in Indian markets.
 
 ## Variations
-**Spicy Heat:** Add ¼ teaspoon cayenne pepper to either marinade.
-**Extra Herbs:** Include 1 tablespoon fresh mint leaves in the second marinade for cooling herbal notes.
-**Garlic Emphasis:** Increase garlic powder to 1 ½ teaspoons for savory depth.
-**Served Cold:** Marinate and cook the prawns, then chill and serve as a seafood salad with lemon and coriander.
-**With Vegetables:** Thread roasted peppers, zucchini, or red onion between prawns on the skewer.
+- **Spicy Heat:** Add ¼ teaspoon cayenne pepper to either marinade.
+- **Extra Herbs:** Include 1 tablespoon fresh mint leaves in the second marinade for cooling herbal notes.
+- **Garlic Emphasis:** Increase garlic powder to 1 ½ teaspoons for savory depth.
+- **Served Cold:** Marinate and cook the prawns, then chill and serve as a seafood salad with lemon and coriander.
+- **With Vegetables:** Thread roasted peppers, zucchini, or red onion between prawns on the skewer.
 
 ## Serving
-Serve as: Elegant starter or seafood main course
-Garnish: Fresh coriander, lemon wedges, thin onion slices
-Accompany with: Mint raita, lemon chutney, fresh lime juice
-With: Basmati rice, naan bread, salad
+- Serve as: Elegant starter or seafood main course
+- Garnish: Fresh coriander, lemon wedges, thin onion slices
+- Accompany with: Mint raita, lemon chutney, fresh lime juice
+- With: Basmati rice, naan bread, salad
 
 ## Storage
 - Refrigerate marinated raw prawns for no more than 4 hours before cooking (they deteriorate quickly)

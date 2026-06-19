@@ -69,7 +69,7 @@ Petulla is the Albanian fried dough that lives at the centre of weekend breakfas
 - **Cornmeal version:** Replace 100 g of the flour with fine cornmeal for a coarser crumb.
 
 ## Serving
-For weekend breakfast with cheese, yoghurt and honey · for afternoon tea on a Sunday · at Bajram (Eid) with fig jam · stacked high for a family snack · with a small dark coffee · as fast street food from a market stall.
+- For weekend breakfast with cheese, yoghurt and honey · for afternoon tea on a Sunday · at Bajram (Eid) with fig jam · stacked high for a family snack · with a small dark coffee · as fast street food from a market stall.
 
 ## Storage
 - Eat warm, the same day.

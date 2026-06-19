@@ -57,7 +57,7 @@ Shopska salata is the dish every Bulgarian meal begins with, the small first pla
 - **With kashkaval:** half sirene, half grated kashkaval (yellow cheese) for a richer cap.
 
 ## Serving
-The first plate of any meal · with a glass of cold rakia · with a basket of country bread · before kavarma, sarmi or grilled kebapcheta · on a hot summer afternoon with nothing else.
+- The first plate of any meal · with a glass of cold rakia · with a basket of country bread · before kavarma, sarmi or grilled kebapcheta · on a hot summer afternoon with nothing else.
 
 ## Storage
 - Eat the day it is made; the salt pulls water from the tomato and cucumber within hours.

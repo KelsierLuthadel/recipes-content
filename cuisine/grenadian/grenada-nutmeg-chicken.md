@@ -101,14 +101,14 @@ Grenada is "the Spice Isle" because the small Caribbean island produces around 4
 - **Grenadian rum (Clarke's Court or Westerhall):** the dark aged rum complements the nutmeg. Substitute any dark Caribbean rum (Mount Gay, Appleton 12).
 
 ## Variations
-**With saltfish:** add 200 g flaked salt cod with the tomatoes for a richer, savoury-fish-and-nutmeg dish.
-**Grenada nutmeg pork:** swap the chicken for pork shoulder cubes; extend the braise to 75 minutes.
-**Drier nutmeg chicken:** halve the coconut milk and reduce the sauce harder for a lacquered dish closer to oildown's texture.
-**With saffron:** add 1/2 teaspoon saffron threads with the coconut milk for a yellow-tinted feast version.
-**Mild version:** skip the scotch bonnet; the dish still works on the nutmeg alone.
+- **With saltfish:** add 200 g flaked salt cod with the tomatoes for a richer, savoury-fish-and-nutmeg dish.
+- **Grenada nutmeg pork:** swap the chicken for pork shoulder cubes; extend the braise to 75 minutes.
+- **Drier nutmeg chicken:** halve the coconut milk and reduce the sauce harder for a lacquered dish closer to oildown's texture.
+- **With saffron:** add 1/2 teaspoon saffron threads with the coconut milk for a yellow-tinted feast version.
+- **Mild version:** skip the scotch bonnet; the dish still works on the nutmeg alone.
 
 ## Serving
-At a Grenadian Sunday lunch (the traditional setting) · with rice and plantain at a Saint George's beach restaurant · alongside callaloo greens · at a Caribbean wedding buffet · with a glass of Westerhall rum punch · at a Christmas-eve table with extra nutmeg grated over the rice.
+- At a Grenadian Sunday lunch (the traditional setting) · with rice and plantain at a Saint George's beach restaurant · alongside callaloo greens · at a Caribbean wedding buffet · with a glass of Westerhall rum punch · at a Christmas-eve table with extra nutmeg grated over the rice.
 
 ## Storage
 - Refrigerates 4 days in a sealed container; the flavour deepens.

@@ -97,13 +97,13 @@ The pizza by which all others are judged, and an annoyingly demanding one for so
 - **Oven Temperature:** A preheated, hot oven is essential for a crisp crust; don't skip the preheat time.
 
 ## Variations
-**San Marzano Addition:** Use San Marzano canned tomatoes (considered the finest) if available.
-**Garlic Oil Base:** Spread a thin layer of garlic-infused olive oil on the dough before the sauce.
-**Extra Basil:** Use up to 12 additional small or torn basil leaves scattered between tomatoes and cheese.
+- **San Marzano Addition:** Use San Marzano canned tomatoes (considered the finest) if available.
+- **Garlic Oil Base:** Spread a thin layer of garlic-infused olive oil on the dough before the sauce.
+- **Extra Basil:** Use up to 12 additional small or torn basil leaves scattered between tomatoes and cheese.
 
 ## Serving
-Serve with: Simple green salad dressed with lemon and olive oil, chilled white wine (Pinot Grigio)
-Garnish with: Fresh basil leaves, cracked black pepper, fine sea salt
+- Serve with: Simple green salad dressed with lemon and olive oil, chilled white wine (Pinot Grigio)
+- Garnish with: Fresh basil leaves, cracked black pepper, fine sea salt
 
 ## Storage
 - Best served immediately while the crust is crisp

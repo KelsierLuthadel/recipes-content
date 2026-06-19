@@ -102,17 +102,17 @@ Hutspot is the historical heart of Dutch stamppot tradition: a coarse mash of fl
 - **Klapstuk vs rookworst:** the historical version uses slow-braised beef brisket; the modern version uses smoked sausage. Both are valid; the klapstuk version is what's served at the 3 October Leiden Relief celebration.
 
 ## Variations
-**Hutspot met klapstuk (the historical / 3 October Leiden version):** as above with the slow-braised brisket, this is what's served free in Leiden every 3 October.
-**Hutspot met spek (with bacon):** add 200 g crisp bacon lardons folded into the crush.
-**Hutspot with parsnips:** swap 200 g of the carrots for 200 g parsnips, the older rural variant.
-**Modern hutspot with smoked mackerel:** swap the meat for hot-smoked mackerel fillets, the modern Dutch healthy-week variant.
-**Hutspot in a single pot (one-pot variant):** add the carrots and onions to the potato pot 10 minutes before the potatoes are done; drain together and mash with butter and milk. Simpler, slightly less depth than the separate-cook method.
-**Vegetarian hutspot:** skip all meat; serve with a fried egg on top and crisp fried-onion shreds.
-**Hutspot with apple:** add 200 g diced apple to the carrots in the last 8 minutes, the Frisian-influenced variant.
-**Slow-cooker hutspot:** brisket in the slow cooker on low for 8 hours; mash and assemble at the end, the make-ahead variant.
+- **Hutspot met klapstuk (the historical / 3 October Leiden version):** as above with the slow-braised brisket, this is what's served free in Leiden every 3 October.
+- **Hutspot met spek (with bacon):** add 200 g crisp bacon lardons folded into the crush.
+- **Hutspot with parsnips:** swap 200 g of the carrots for 200 g parsnips, the older rural variant.
+- **Modern hutspot with smoked mackerel:** swap the meat for hot-smoked mackerel fillets, the modern Dutch healthy-week variant.
+- **Hutspot in a single pot (one-pot variant):** add the carrots and onions to the potato pot 10 minutes before the potatoes are done; drain together and mash with butter and milk. Simpler, slightly less depth than the separate-cook method.
+- **Vegetarian hutspot:** skip all meat; serve with a fried egg on top and crisp fried-onion shreds.
+- **Hutspot with apple:** add 200 g diced apple to the carrots in the last 8 minutes, the Frisian-influenced variant.
+- **Slow-cooker hutspot:** brisket in the slow cooker on low for 8 hours; mash and assemble at the end, the make-ahead variant.
 
 ## Serving
-At a Dutch household winter dinner (the traditional setting; October to March) · at the 3 October Leiden Relief celebration (free hutspot, herring and white bread distributed in the central square) · at a Dutch family Sunday lunch · at a Dutch Christmas Eve meal · at a Drenthe or Groningen farmhouse kitchen · at home as the cold-weather Sunday restorative · paired with a glass of cold buttermilk (the traditional historical drink) or a cold Dutch lager.
+- At a Dutch household winter dinner (the traditional setting; October to March) · at the 3 October Leiden Relief celebration (free hutspot, herring and white bread distributed in the central square) · at a Dutch family Sunday lunch · at a Dutch Christmas Eve meal · at a Drenthe or Groningen farmhouse kitchen · at home as the cold-weather Sunday restorative · paired with a glass of cold buttermilk (the traditional historical drink) or a cold Dutch lager.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a splash of milk.

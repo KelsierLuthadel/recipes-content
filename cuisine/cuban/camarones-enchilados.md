@@ -103,13 +103,13 @@ Camarones enchilados is Cuba's most beloved shrimp dish and a coastal-Cuban spec
 - **Add shrimp at the end:** the sauce should be fully developed before shrimp go in.
 
 ## Variations
-**Lobster enchilada (langosta enchilada):** swap the shrimp for lobster tails (split lengthwise); cook 5-6 minutes. The luxurious special-occasion version.
-**Chicken enchilado:** swap the shrimp for diced chicken thigh (browned first); simmer 15 minutes till cooked through. Variation for non-shellfish diners.
-**Spicier:** double the Aleppo pepper and add 1 chopped habanero; properly Caribbean fierce.
-**With coconut milk:** add 200 ml of coconut milk to the sauce in stage 2; gives a more tropical Cuban-Caribbean variation.
+- **Lobster enchilada (langosta enchilada):** swap the shrimp for lobster tails (split lengthwise); cook 5-6 minutes. The luxurious special-occasion version.
+- **Chicken enchilado:** swap the shrimp for diced chicken thigh (browned first); simmer 15 minutes till cooked through. Variation for non-shellfish diners.
+- **Spicier:** double the Aleppo pepper and add 1 chopped habanero; properly Caribbean fierce.
+- **With coconut milk:** add 200 ml of coconut milk to the sauce in stage 2; gives a more tropical Cuban-Caribbean variation.
 
 ## Serving
-Over white rice with black beans, sweet plantains, fresh salad. Crusty bread for mopping the sauce. Drink: cold Cristal beer, fresh mojito, or sparkling cidra. As a Cuban family dinner.
+- Over white rice with black beans, sweet plantains, fresh salad. Crusty bread for mopping the sauce. Drink: cold Cristal beer, fresh mojito, or sparkling cidra. As a Cuban family dinner.
 
 ## Storage
 - Best eaten immediately; shrimp goes off-texture when reheated.

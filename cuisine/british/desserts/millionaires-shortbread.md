@@ -66,7 +66,7 @@ Millionaire's shortbread is the Scottish bakery-counter staple, the three-layer 
 - **Tin size**: 20 x 20 cm gives the traditional thick slab. A 20 x 30 cm tin gives thinner bars; reduce the chill times by 10 minutes.
 
 ## Serving
-A square on a small plate or in a paper case, with strong tea or coffee. Travel-bake material: holds well at room temperature for days, sturdy enough for a packed lunch.
+- A square on a small plate or in a paper case, with strong tea or coffee. Travel-bake material: holds well at room temperature for days, sturdy enough for a packed lunch.
 
 ## Storage
 - In an airtight tin at cool room temperature for up to a week. Refrigerate in summer or warm kitchens; the chocolate softens above 22°C.

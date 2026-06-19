@@ -87,15 +87,15 @@ To freeze: vacuum-seal the unsliced piece, freeze up to 3 months. Thaw in the fr
 
 ## Variations
 
-**Beetroot-cured salmon.** Add 200 g grated raw beetroot to the cure mix. The salmon picks up a dramatic magenta-red colour on the outer 1-2 mm of flesh. Same cure time. Add an extra layer to the dill packing.
+- **Beetroot-cured salmon.** Add 200 g grated raw beetroot to the cure mix. The salmon picks up a dramatic magenta-red colour on the outer 1-2 mm of flesh. Same cure time. Add an extra layer to the dill packing.
 
-**Vodka-cured.** Replace the optional vodka splash with 50 ml; the flavour comes through subtly. Aquavit (the Scandinavian caraway-spiced grain spirit) is the traditional choice in Scandinavia.
+- **Vodka-cured.** Replace the optional vodka splash with 50 ml; the flavour comes through subtly. Aquavit (the Scandinavian caraway-spiced grain spirit) is the traditional choice in Scandinavia.
 
-**Citrus-pepper gravlax.** Replace half the dill with finely chopped tarragon. Add 1 tsp coriander seed (toasted, crushed) and the zest of 2 oranges. Faster-cure variation (36 hours instead of 48) for a brighter, less traditional result.
+- **Citrus-pepper gravlax.** Replace half the dill with finely chopped tarragon. Add 1 tsp coriander seed (toasted, crushed) and the zest of 2 oranges. Faster-cure variation (36 hours instead of 48) for a brighter, less traditional result.
 
-**Maple-soy.** Mix 2 tbsp maple syrup, 2 tbsp light soy and 1 tbsp grated ginger into the salt-sugar cure. Eastern-Canadian / Nordic crossover; the soy reads as savoury rather than ethnic-specific.
+- **Maple-soy.** Mix 2 tbsp maple syrup, 2 tbsp light soy and 1 tbsp grated ginger into the salt-sugar cure. Eastern-Canadian / Nordic crossover; the soy reads as savoury rather than ethnic-specific.
 
-**Mackerel gravlax.** Same technique, oily mackerel fillets, 24 hours only (smaller fish). The dill-and-juniper version is classic; the citrus-pepper version works well too.
+- **Mackerel gravlax.** Same technique, oily mackerel fillets, 24 hours only (smaller fish). The dill-and-juniper version is classic; the citrus-pepper version works well too.
 
 ## Why Gravlax Works Without Nitrite
 

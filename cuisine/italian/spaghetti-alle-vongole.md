@@ -77,13 +77,13 @@ Spaghetti alle vongole is Naples' iconic pasta-with-clams dish and one of Italy'
 - **Discard unopened clams.**
 
 ## Variations
-**With cherry tomatoes (in rosso):** add 200 g halved cherry tomatoes after the wine; gives the red version.
-**With mussels:** swap clams for mussels; same technique.
-**With shrimp:** add 200 g peeled raw shrimp to the pan with the clams; turns into a mixed seafood pasta.
-**Spicier:** double the red pepper flakes.
+- **With cherry tomatoes (in rosso):** add 200 g halved cherry tomatoes after the wine; gives the red version.
+- **With mussels:** swap clams for mussels; same technique.
+- **With shrimp:** add 200 g peeled raw shrimp to the pan with the clams; turns into a mixed seafood pasta.
+- **Spicier:** double the red pepper flakes.
 
 ## Serving
-In warm pasta bowls with lemon. Italian white wine (Greco di Tufo, Falanghina, Verdicchio). Crusty bread.
+- In warm pasta bowls with lemon. Italian white wine (Greco di Tufo, Falanghina, Verdicchio). Crusty bread.
 
 ## Storage
 - Best eaten immediately; clams don't reheat well.

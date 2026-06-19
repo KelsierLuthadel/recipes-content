@@ -81,12 +81,12 @@ Texas smoked beef ribs (specifically plate ribs or dino ribs, the giant three-ri
 - **Rest 30 min minimum.**
 
 ## Variations
-**With BBQ sauce glaze:** brush with thin Texas BBQ sauce in the last 30 minutes of smoking. Less traditional Central Texas.
-**Higher temp faster:** smoke at 135°C; cooks in 5 hours; less smoke flavour.
-**Oven-finish:** start in smoker for smoke flavour; finish wrapped in oven.
+- **With BBQ sauce glaze:** brush with thin Texas BBQ sauce in the last 30 minutes of smoking. Less traditional Central Texas.
+- **Higher temp faster:** smoke at 135°C; cooks in 5 hours; less smoke flavour.
+- **Oven-finish:** start in smoker for smoke flavour; finish wrapped in oven.
 
 ## Serving
-On butcher paper at the centre of the table. White bread, pickles, onion, jalapeños. Sides: beans, potato salad, slaw. Cold beer.
+- On butcher paper at the centre of the table. White bread, pickles, onion, jalapeños. Sides: beans, potato salad, slaw. Cold beer.
 
 ## Storage
 - Keeps refrigerated 5 days.

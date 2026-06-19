@@ -83,13 +83,13 @@ Arroz amarillo Cubano is the Cuban yellow rice and a festive staple of Cuban cel
 - **Medium-grain rice:** Cuban preference; long-grain works.
 
 ## Variations
-**With chickpeas:** add 1 tin of drained chickpeas in stage 4; gives extra body.
-**Vegetarian (without chicken stock):** use vegetable stock; otherwise identical.
-**With chorizo:** add 100 g of sliced chorizo to the sofrito in stage 1; gives a richer fattier version.
-**Saffron-only (luxe version):** double the saffron; skip the Bijol; gives a more delicate floral flavour.
+- **With chickpeas:** add 1 tin of drained chickpeas in stage 4; gives extra body.
+- **Vegetarian (without chicken stock):** use vegetable stock; otherwise identical.
+- **With chorizo:** add 100 g of sliced chorizo to the sofrito in stage 1; gives a richer fattier version.
+- **Saffron-only (luxe version):** double the saffron; skip the Bijol; gives a more delicate floral flavour.
 
 ## Serving
-Alongside lechón asado, ropa vieja, masitas de puerco, or any Cuban main. Often part of a Cuban celebration meal. With Cristal beer, mojito, or sparkling cidra.
+- Alongside lechón asado, ropa vieja, masitas de puerco, or any Cuban main. Often part of a Cuban celebration meal. With Cristal beer, mojito, or sparkling cidra.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens overnight.

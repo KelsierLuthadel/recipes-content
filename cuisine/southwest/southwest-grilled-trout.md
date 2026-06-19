@@ -85,12 +85,12 @@ Southwest grilled trout celebrates the rainbow trout that swims in the high-alti
 - **Don't overcook:** 10-12 minutes total.
 
 ## Variations
-**Cedar-plank grilled:** soak a cedar plank; cook the trout on the plank for a smoky flavour.
-**Spicier:** double the cayenne.
-**With pine nuts and currants:** add toasted pine nuts and currants to the cavity stuffing; gives Native American Southwest twist.
+- **Cedar-plank grilled:** soak a cedar plank; cook the trout on the plank for a smoky flavour.
+- **Spicier:** double the cayenne.
+- **With pine nuts and currants:** add toasted pine nuts and currants to the cavity stuffing; gives Native American Southwest twist.
 
 ## Serving
-With grilled corn, salsa verde, beans, rice. Cold beer or white wine.
+- With grilled corn, salsa verde, beans, rice. Cold beer or white wine.
 
 ## Storage
 - Best eaten fresh.

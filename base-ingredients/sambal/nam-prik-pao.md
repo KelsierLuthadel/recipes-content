@@ -109,17 +109,17 @@ Nam prik pao is the foundation of Thai table seasoning, a complex umami-heavy ch
 - **Texture, Not Smoothness:** Nam prik is chunky, not pureed. Visible pieces of shrimp, aubergine, and herbs are correct.
 
 ## Variations
-**Extra Spicy:** Use 6 chillies with all seeds and membranes intact; use chilli paste instead of fresh for intensity.
-**Milder Version:** Use 2-3 chillies; remove all seeds and white membrane.
-**Sweeter:** Add 5-6 teaspoons palm sugar for sweetness balancing umami.
-**Extra Shrimp:** Increase dried shrimp to 70 grams or cooked prawns to 75 grams for stronger seafood character.
-**More Herbs:** Increase coriander to ¼ cup for herbal emphasis; add mint if desired.
+- **Extra Spicy:** Use 6 chillies with all seeds and membranes intact; use chilli paste instead of fresh for intensity.
+- **Milder Version:** Use 2-3 chillies; remove all seeds and white membrane.
+- **Sweeter:** Add 5-6 teaspoons palm sugar for sweetness balancing umami.
+- **Extra Shrimp:** Increase dried shrimp to 70 grams or cooked prawns to 75 grams for stronger seafood character.
+- **More Herbs:** Increase coriander to ¼ cup for herbal emphasis; add mint if desired.
 
 ## Serving
-Use in: Rice dish condiment, vegetable dip, grilled meat accompaniment, soup flavor agent
-Typical ratio: 1-2 tablespoons per serving alongside rice or vegetables
-Temperature: Served at room temperature
-Application: Spooned onto plates, used as dipping sauce, stirred into soups, added to stir-fried vegetables
+- Use in: Rice dish condiment, vegetable dip, grilled meat accompaniment, soup flavor agent
+- Typical ratio: 1-2 tablespoons per serving alongside rice or vegetables
+- Temperature: Served at room temperature
+- Application: Spooned onto plates, used as dipping sauce, stirred into soups, added to stir-fried vegetables
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 7-10 days

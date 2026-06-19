@@ -89,7 +89,7 @@ Couscous is the national dish of Algeria, eaten in some form across the whole co
 - **Smen.** A small spoonful of aged Algerian butter stirred into the hot grain at the end gives the funky, fermented note that is unmistakably North African. Optional but recommended.
 
 ## Serving
-Serve hot from a large communal platter; each person takes from the section nearest them. Eat with a spoon (or right-hand fingers in the most traditional households). A small glass of buttermilk (leben) or mint tea on the side. Friday lunch in Algeria is a long meal; do not rush it.
+- Serve hot from a large communal platter; each person takes from the section nearest them. Eat with a spoon (or right-hand fingers in the most traditional households). A small glass of buttermilk (leben) or mint tea on the side. Friday lunch in Algeria is a long meal; do not rush it.
 
 ## Storage
 - The broth and meat keep 3 days refrigerated and improve overnight as the spices settle

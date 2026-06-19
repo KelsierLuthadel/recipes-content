@@ -68,7 +68,7 @@ Mandazi is the Swahili-coast cardamom-and-coconut-milk doughnut, sold at every m
 - **Banana mandazi:** mash a ripe banana into the wet mix, sweeter and softer.
 
 ## Serving
-Stacked still-warm on a plate · alongside hot Kenyan chai · for breakfast with maharagwe (red kidney bean stew) · torn open and filled with jam or honey · cold from a paper bag for an afternoon snack.
+- Stacked still-warm on a plate · alongside hot Kenyan chai · for breakfast with maharagwe (red kidney bean stew) · torn open and filled with jam or honey · cold from a paper bag for an afternoon snack.
 
 ## Storage
 - Best on the day, ideally within 4 hours of frying.

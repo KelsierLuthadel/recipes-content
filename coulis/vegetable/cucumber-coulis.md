@@ -38,8 +38,8 @@ Cucumber coulis is the building block for cold plates and cold-fish presentation
 - **Oil quantity:** Sufficient olive oil creates the creamy texture that defines this sauce.
 
 ## Serving
-Serve with: Poached fish, smoked salmon, cold salads, or as a plating accent
-Drizzle on: Light-colored plates or white fish for striking presentation
+- Serve with: Poached fish, smoked salmon, cold salads, or as a plating accent
+- Drizzle on: Light-colored plates or white fish for striking presentation
 
 ## Storage
 - Keeps 2-3 days refrigerated in an airtight container

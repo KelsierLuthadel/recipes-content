@@ -100,13 +100,13 @@ Camarão grelhado is one of Mozambique's most iconic dishes and a Maputo seafron
 - **The piri-piri butter is essential:** the warm spiced butter is what makes Mozambican grilled prawns distinctive. Don't skip; pour generously.
 
 ## Variations
-**Lobster Mozambicana (lagosta grelhada):** swap the prawns for split lobster tails or a whole split lobster; cook the same way, increase grilling time to 8-10 minutes (for tails) or 12-15 minutes (for whole lobster). Maputo specialty.
-**Crab Mozambicana:** swap the prawns for large blue crabs or mud crabs (split open); grill the same way. Common Mozambican beachside variant.
-**Spicier prawns:** double the piri-piri chillies and sauce; serve with extra-hot piri-piri sauce on the side. Properly Mozambican.
-**Lighter (lemon-only) version:** skip the piri-piri sauce; marinate in just garlic, olive oil, lemon and herbs; brush with garlic-lemon butter instead. For non-spice-tolerant diners.
+- **Lobster Mozambicana (lagosta grelhada):** swap the prawns for split lobster tails or a whole split lobster; cook the same way, increase grilling time to 8-10 minutes (for tails) or 12-15 minutes (for whole lobster). Maputo specialty.
+- **Crab Mozambicana:** swap the prawns for large blue crabs or mud crabs (split open); grill the same way. Common Mozambican beachside variant.
+- **Spicier prawns:** double the piri-piri chillies and sauce; serve with extra-hot piri-piri sauce on the side. Properly Mozambican.
+- **Lighter (lemon-only) version:** skip the piri-piri sauce; marinate in just garlic, olive oil, lemon and herbs; brush with garlic-lemon butter instead. For non-spice-tolerant diners.
 
 ## Serving
-On a wooden platter at the centre of the table, the prawns scattered with herbs and the butter pooled around. Cold beer (Laurentina or 2M; Mozambique's local beers) or chilled vinho verde. As a Sunday lunch at the seafront, a special-occasion dinner, or a weekend cookout. Allow 2-3 hours of eating slowly.
+- On a wooden platter at the centre of the table, the prawns scattered with herbs and the butter pooled around. Cold beer (Laurentina or 2M; Mozambique's local beers) or chilled vinho verde. As a Sunday lunch at the seafront, a special-occasion dinner, or a weekend cookout. Allow 2-3 hours of eating slowly.
 
 ## Storage
 - Best eaten fresh and hot off the grill; the texture suffers as the prawns cool.

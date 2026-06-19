@@ -60,7 +60,7 @@ Sauce américaine is the building block for the luxurious shellfish-stock sauce 
 - **Puréeing:** For lighter texture, purée the sauce in a blender for 1 minute; always press through sieve after puréeing to remove shell fragments.
 
 ## Serving
-Serve hot with poached turbot, sole, or other firm white fish. Also excellent with fish soufflés and shellfish dishes.
+- Serve hot with poached turbot, sole, or other firm white fish. Also excellent with fish soufflés and shellfish dishes.
 
 ## Storage
 - Best eaten immediately after preparation.

@@ -44,7 +44,7 @@ Banana frita is the everyday sweet side of the Angolan plate, a pile of carameli
 - **Salt at the end:** A pinch of salt on top brings out the sweetness; salting earlier draws moisture and stops the caramelisation.
 
 ## Serving
-Alongside grilled fish (mufete), muamba de galinha, calulu or any palm-oil stew. A wedge of lime on the side cuts the sweetness.
+- Alongside grilled fish (mufete), muamba de galinha, calulu or any palm-oil stew. A wedge of lime on the side cuts the sweetness.
 
 ## Storage
 - Best fresh and hot.

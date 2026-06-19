@@ -73,7 +73,7 @@ Pelēkie zirņi ar speķi (grey peas with bacon) is the dish Latvians return to 
 - **With sauerkraut:** A side of sauerkraut at the table is common in the east, cutting through the richness.
 
 ## Serving
-The Christmas Eve table sets pelēkie zirņi as one of nine traditional dishes alongside rasols, smoked fish, sauerkraut, piparkūkas and rupjmaize. Day to day it is a one-bowl supper. The cold buttermilk on the side is not optional in tradition; it is the proper drink.
+- The Christmas Eve table sets pelēkie zirņi as one of nine traditional dishes alongside rasols, smoked fish, sauerkraut, piparkūkas and rupjmaize. Day to day it is a one-bowl supper. The cold buttermilk on the side is not optional in tradition; it is the proper drink.
 
 ## Storage
 - Keeps 4 days refrigerated; reheats well in a pan with a splash of water.

@@ -57,11 +57,11 @@ The burro percheron is the giant cousin of the Northern Mexican burrito, named f
 - **Don't overstuff:** Even with a giant tortilla, the wrap needs to roll cleanly. Stack the fillings tight along the lower third, not spread across the whole tortilla.
 
 ## Variations
-**Without pepperoni:** Stick to carne asada, cheese, tomato and avocado for the simpler Sonoran original.
-**Other meats:** Carnitas, chorizo or grilled chicken work; the tortilla and the giant scale are what matter.
+- **Without pepperoni:** Stick to carne asada, cheese, tomato and avocado for the simpler Sonoran original.
+- **Other meats:** Carnitas, chorizo or grilled chicken work; the tortilla and the giant scale are what matter.
 
 ## Serving
-Slice into 6 cm rounds on a long platter; eat with hands; serve with hot sauce, lime wedges and a cold beer.
+- Slice into 6 cm rounds on a long platter; eat with hands; serve with hot sauce, lime wedges and a cold beer.
 
 ## Storage
 - Carne asada keeps 3 days refrigerated; reheat gently

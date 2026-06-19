@@ -79,7 +79,7 @@ Pecan nut pastry plait is the bakery-window pastry that looks complicated and is
 - **Make-ahead**: shape the plait through Stage 4, then refrigerate (covered) for up to 8 hours before egg-washing and baking. Add 5 minutes to the bake from cold.
 
 ## Serving
-Warm or at room temperature, cut into slices. Excellent with strong coffee mid-morning. Stretched as a buffet centrepiece by leaving the plait whole and letting people break sections off.
+- Warm or at room temperature, cut into slices. Excellent with strong coffee mid-morning. Stretched as a buffet centrepiece by leaving the plait whole and letting people break sections off.
 
 ## Storage
 - In an airtight tin at room temperature for 2 days. The pastry softens slightly overnight; refresh in a 150°C oven for 5 minutes.

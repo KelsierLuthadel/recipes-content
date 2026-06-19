@@ -63,13 +63,13 @@ NM pinto beans is the New Mexican traditional bean preparation, similar to but d
 - **Salt at the end:** prevents tough skins.
 
 ## Variations
-**Vegetarian:** skip bacon; otherwise identical.
-**Spicier:** include hot NM chillies.
-**With pork hock:** smoked pork hock for richer.
-**Refried:** mash and fry in lard.
+- **Vegetarian:** skip bacon; otherwise identical.
+- **Spicier:** include hot NM chillies.
+- **With pork hock:** smoked pork hock for richer.
+- **Refried:** mash and fry in lard.
 
 ## Serving
-Alongside any NM meal. With cornbread, tortillas.
+- Alongside any NM meal. With cornbread, tortillas.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

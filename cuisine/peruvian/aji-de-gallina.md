@@ -109,15 +109,15 @@ Aji de gallina ("hen with yellow chilli") is Lima's most beloved home dish. Aji 
 - **Parmesan is optional but standard in modern recipes:** the 18th-century version didn't include it; modern Lima restaurants almost all do.
 
 ## Variations
-**Aji de mariscos:** swap chicken for cooked prawns, scallops, or octopus, the seafood variant.
-**Aji de pollo with raisins:** add 50 g raisins to the sauce, the rural-Peruvian sweet variant.
-**Vegetarian aji de soya:** swap chicken for slow-cooked shredded soya pieces, the vegan Andean variant.
-**Modern Lima restaurant aji de gallina:** add a poached egg on top instead of hard-boiled, the brunch variant.
-**Aji de gallina sanguche:** the sandwich version, pile the cooked filling into a fresh roll with avocado and pickled red onion.
-**Aji de pollo with quinoa:** serve over Andean quinoa instead of rice, the modern healthy variant.
+- **Aji de mariscos:** swap chicken for cooked prawns, scallops, or octopus, the seafood variant.
+- **Aji de pollo with raisins:** add 50 g raisins to the sauce, the rural-Peruvian sweet variant.
+- **Vegetarian aji de soya:** swap chicken for slow-cooked shredded soya pieces, the vegan Andean variant.
+- **Modern Lima restaurant aji de gallina:** add a poached egg on top instead of hard-boiled, the brunch variant.
+- **Aji de gallina sanguche:** the sandwich version, pile the cooked filling into a fresh roll with avocado and pickled red onion.
+- **Aji de pollo with quinoa:** serve over Andean quinoa instead of rice, the modern healthy variant.
 
 ## Serving
-At a Lima criolla restaurant (the traditional setting) · at a Peruvian family Sunday lunch · at a Peruvian Independence Day (28 July) celebration · at a Peruvian household for a comfort-food dinner · at any chifa or criolla restaurant in Lima, Cusco, Arequipa or Trujillo · paired with chicha morada or a glass of cold Cusqueña lager.
+- At a Lima criolla restaurant (the traditional setting) · at a Peruvian family Sunday lunch · at a Peruvian Independence Day (28 July) celebration · at a Peruvian household for a comfort-food dinner · at any chifa or criolla restaurant in Lima, Cusco, Arequipa or Trujillo · paired with chicha morada or a glass of cold Cusqueña lager.
 
 ## Storage
 - Refrigerates 4 days; reheats well on the stovetop with a splash of milk to loosen.

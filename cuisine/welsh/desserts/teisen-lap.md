@@ -74,7 +74,7 @@ Teisen lap means "moist cake", and that is exactly what it is: a shallow, butter
 - **Iced teisen lap:** drizzle a thin lemon icing over the top once cooled.
 
 ## Serving
-With a strong mug of tea after work · in a packed lunch wrapped in greaseproof · on a Welsh tea-table alongside bara brith and Welsh cakes · cut into squares for a chapel tea · as a teatime cake for a long Sunday afternoon.
+- With a strong mug of tea after work · in a packed lunch wrapped in greaseproof · on a Welsh tea-table alongside bara brith and Welsh cakes · cut into squares for a chapel tea · as a teatime cake for a long Sunday afternoon.
 
 ## Storage
 - Keeps 5 days in an airtight tin.

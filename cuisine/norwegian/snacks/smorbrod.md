@@ -86,7 +86,7 @@ Smørbrød ("butter bread") is the Norwegian (and broader Scandinavian) open-fac
 - **Eat with a knife and fork:** Smørbrød is not picked up by hand. It's plated and eaten at the table with cutlery.
 
 ## Serving
-The Norwegian lunch ritual. Make a selection on a board for a family or guests; let people choose. A glass of cold beer or sparkling water. A side of pickled vegetables or coleslaw.
+- The Norwegian lunch ritual. Make a selection on a board for a family or guests; let people choose. A glass of cold beer or sparkling water. A side of pickled vegetables or coleslaw.
 
 ## Storage
 - Best assembled immediately and eaten within an hour.

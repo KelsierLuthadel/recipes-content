@@ -88,11 +88,11 @@ Apfelstrudel is the Viennese-Bavarian pastry every German-speaking grandmother m
 - **Quick-route shortcut:** Filo pastry (5-6 sheets brushed with butter and stacked) makes a reasonable cheat strudel. It's not the real thing but it works on a Wednesday.
 
 ## Variations
-**Quark-strudel (Topfenstrudel):** Same dough; fill with sweetened quark, vanilla, raisins and lemon zest.
-**Cherry strudel:** Replace apples with morello cherries (drained well) and almonds.
+- **Quark-strudel (Topfenstrudel):** Same dough; fill with sweetened quark, vanilla, raisins and lemon zest.
+- **Cherry strudel:** Replace apples with morello cherries (drained well) and almonds.
 
 ## Serving
-Serve warm with: A snowfall of icing sugar and either lightly whipped vanilla cream, vanilla custard, or vanilla ice cream.
+- Serve warm with: A snowfall of icing sugar and either lightly whipped vanilla cream, vanilla custard, or vanilla ice cream.
 
 ## Storage
 - Best on the day. Keeps 2 days at room temperature, loosely covered.

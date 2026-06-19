@@ -105,13 +105,13 @@ Pollo alla cacciatora (literally "hunter-style chicken") is one of Italy's most 
 - **Olives and capers at the end:** preserve their texture and brightness.
 
 ## Variations
-**Northern with red wine and mushrooms:** swap white wine for red; double the mushrooms; skip olives.
-**Southern with chillies:** add 2 chopped fresh chillies; use red wine; gives Calabrian-leaning version.
-**With pancetta:** add 100 g of diced pancetta browned at the start.
-**Pheasant or rabbit:** the traditional "hunter's" version uses game; same technique.
+- **Northern with red wine and mushrooms:** swap white wine for red; double the mushrooms; skip olives.
+- **Southern with chillies:** add 2 chopped fresh chillies; use red wine; gives Calabrian-leaning version.
+- **With pancetta:** add 100 g of diced pancetta browned at the start.
+- **Pheasant or rabbit:** the traditional "hunter's" version uses game; same technique.
 
 ## Serving
-With soft polenta, crusty bread, or boiled potatoes. Italian wine. Simple salad.
+- With soft polenta, crusty bread, or boiled potatoes. Italian wine. Simple salad.
 
 ## Storage
 - Keeps refrigerated 4 days.

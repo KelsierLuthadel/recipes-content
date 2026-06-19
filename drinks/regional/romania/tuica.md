@@ -62,7 +62,7 @@
 - **Iced fruit țuică (modern):** poured over ice with a slice of orange, a city aperitif.
 
 ## Serving
-Cold and neat · in a small thick-walled glass · before the meal · with smoked bacon and bread · the host's welcome at any rural Romanian threshold · hot in winter mugs from a snowy doorstep.
+- Cold and neat · in a small thick-walled glass · before the meal · with smoked bacon and bread · the host's welcome at any rural Romanian threshold · hot in winter mugs from a snowy doorstep.
 
 ## Storage
 - Sealed bottle: indefinite at room temperature.

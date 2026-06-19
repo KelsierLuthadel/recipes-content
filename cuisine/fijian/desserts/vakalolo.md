@@ -57,7 +57,7 @@ Vakalolo is the dessert that completes a Fijian Sunday lunch. Fresh cassava is p
 - **Texture:** Vakalolo is dense and chewy, not light or fluffy. Many bites are unfamiliar to anyone expecting a Western sponge cake; the satisfaction is in the dense sweetness.
 
 ## Serving
-Serve warm or at room temperature, in thick slices, with a small dish of thick coconut cream spooned alongside or over. Mango or pineapple slices complement well.
+- Serve warm or at room temperature, in thick slices, with a small dish of thick coconut cream spooned alongside or over. Mango or pineapple slices complement well.
 
 ## Storage
 - Refrigerate wrapped 4 days; reheat briefly in the steamer or microwave.

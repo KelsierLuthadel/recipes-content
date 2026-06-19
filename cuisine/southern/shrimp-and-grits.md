@@ -79,12 +79,12 @@ Shrimp and grits is one of the South's most beloved dishes, particularly associa
 - **Bacon fat for shrimp.**
 
 ## Variations
-**With Andouille sausage:** add sliced sausage to the shrimp.
-**Without bacon:** vegetarian-friendly version (without shrimp).
-**Spicier:** double the hot sauce.
+- **With Andouille sausage:** add sliced sausage to the shrimp.
+- **Without bacon:** vegetarian-friendly version (without shrimp).
+- **Spicier:** double the hot sauce.
 
 ## Serving
-For Southern brunch or dinner. Sweet tea, sparkling wine.
+- For Southern brunch or dinner. Sweet tea, sparkling wine.
 
 ## Storage
 - Best eaten immediately.

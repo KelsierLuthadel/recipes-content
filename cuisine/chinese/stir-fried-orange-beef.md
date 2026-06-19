@@ -60,7 +60,7 @@ Dried tangerine peel (chenpi) is one of those Chinese ingredients that gets more
 - **Sichuan peppercorn:** Adds the signature numbing sensation that defines Sichuan cooking.
 
 ## Serving
-Serve with: Steamed white rice
+- Serve with: Steamed white rice
 
 ## Storage
 - Keeps 2-3 days refrigerated

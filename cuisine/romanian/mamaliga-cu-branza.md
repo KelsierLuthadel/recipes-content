@@ -57,7 +57,7 @@ Mămăligă is the polenta of Romania, a second bread on every rural table since
 - **Mămăligă cu jumări:** with crisp pork cracklings folded through.
 
 ## Serving
-Hot from the pot · with a soft-fried egg on top · alongside sarmale or tochitură · with a glass of cold buttermilk · for breakfast with milk and sugar.
+- Hot from the pot · with a soft-fried egg on top · alongside sarmale or tochitură · with a glass of cold buttermilk · for breakfast with milk and sugar.
 
 ## Storage
 - Best fresh; cools fast into a sliceable block.

@@ -70,14 +70,14 @@ A good bánh mì is mostly assembly. The bread should be light and crackly, the 
 - **Pickle ahead:** The dưa chua pickle needs at least an hour. Make a batch the day before; it keeps for weeks.
 
 ## Variations
-**Bánh mì xíu mại:** Replace cold cuts with two warm Vietnamese pork meatballs in tomato sauce, split open.
-**Bánh mì gà:** Use shredded poached chicken tossed in a little mayo and pepper instead of cold cuts.
-**Bánh mì trứng:** Add a fried egg, soft yolk, on top of the cold cuts.
-**Vegetarian:** Swap the meats for pan-fried lemongrass tofu, mushroom pâté and extra pickles.
+- **Bánh mì xíu mại:** Replace cold cuts with two warm Vietnamese pork meatballs in tomato sauce, split open.
+- **Bánh mì gà:** Use shredded poached chicken tossed in a little mayo and pepper instead of cold cuts.
+- **Bánh mì trứng:** Add a fried egg, soft yolk, on top of the cold cuts.
+- **Vegetarian:** Swap the meats for pan-fried lemongrass tofu, mushroom pâté and extra pickles.
 
 ## Serving
-Serve with: a glass of iced Vietnamese coffee (cà phê sữa đá) or a salty plum soda.
-Garnish with: a side of extra pickled chillies for the brave.
+- Serve with: a glass of iced Vietnamese coffee (cà phê sữa đá) or a salty plum soda.
+- Garnish with: a side of extra pickled chillies for the brave.
 
 ## Storage
 - Best eaten within an hour of assembly; the pickle juices will soak the bread soft after that

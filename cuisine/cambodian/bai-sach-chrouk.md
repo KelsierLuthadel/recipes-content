@@ -113,13 +113,13 @@ Bai sach chrouk is Cambodia's signature breakfast and one of the country's most 
 - **Grill is traditional, pan-sear works:** in Cambodia, the pork is grilled over charcoal, which gives a smoky note that's hard to replicate in a kitchen. A hot griddle pan gives proper caramelisation; a regular frying pan works if you let the pan get really hot before adding the pork.
 
 ## Variations
-**Bai sach chrouk with fried egg:** add a fried egg (sunny-side up) over the rice; the runny yolk mixes with the rice and pork for richness. Standard variation across Cambodia.
-**Bai sach chrouk with omelette:** instead of (or in addition to) the chicken broth, make a thin Cambodian omelette (2 eggs whisked with a teaspoon of fish sauce, fried thin in a pan, cut into ribbons) laid over the rice. Common variation.
-**Lemongrass bai sach chrouk:** add 2 stalks of finely minced lemongrass to the marinade for a more aromatic version. Less traditional but adds a citrus note that works well.
-**Bai sach chrouk with peanuts:** scatter 2 tablespoons of crushed roasted peanuts over the finished dish; adds crunch and nuttiness. Modern Phnom Penh street variation.
+- **Bai sach chrouk with fried egg:** add a fried egg (sunny-side up) over the rice; the runny yolk mixes with the rice and pork for richness. Standard variation across Cambodia.
+- **Bai sach chrouk with omelette:** instead of (or in addition to) the chicken broth, make a thin Cambodian omelette (2 eggs whisked with a teaspoon of fish sauce, fried thin in a pan, cut into ribbons) laid over the rice. Common variation.
+- **Lemongrass bai sach chrouk:** add 2 stalks of finely minced lemongrass to the marinade for a more aromatic version. Less traditional but adds a citrus note that works well.
+- **Bai sach chrouk with peanuts:** scatter 2 tablespoons of crushed roasted peanuts over the finished dish; adds crunch and nuttiness. Modern Phnom Penh street variation.
 
 ## Serving
-On wide plates: a mound of warm rice, 5-6 slices of the caramelised pork laid over, a small pile of pickled cucumber-and-carrot to one side, a small bowl of clear chicken broth alongside, and chilli sauce at hand. Properly eaten for breakfast (before 11am is the Cambodian rule) but works for any meal of the day outside Cambodia. Drink: Cambodian iced coffee (cafe phlee) for breakfast; Angkor beer for dinner.
+- On wide plates: a mound of warm rice, 5-6 slices of the caramelised pork laid over, a small pile of pickled cucumber-and-carrot to one side, a small bowl of clear chicken broth alongside, and chilli sauce at hand. Properly eaten for breakfast (before 11am is the Cambodian rule) but works for any meal of the day outside Cambodia. Drink: Cambodian iced coffee (cafe phlee) for breakfast; Angkor beer for dinner.
 
 ## Storage
 - The cooked pork keeps refrigerated 3 days; reheat gently in a covered pan with a splash of water (or under a low grill till just warmed through; don't overcook or the pork goes dry).

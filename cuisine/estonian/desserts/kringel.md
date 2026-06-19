@@ -75,7 +75,7 @@ Kringel is the Estonian (and broader Baltic-Nordic) twisted sweet bread that app
 - **Saffron:** Optional, but a small pinch deepens the colour and lifts the cardamom.
 
 ## Serving
-Serve sliced with strong black coffee or tea. A small bowl of berry jam on the side for spreading.
+- Serve sliced with strong black coffee or tea. A small bowl of berry jam on the side for spreading.
 
 ## Storage
 - Best eaten the day it is baked

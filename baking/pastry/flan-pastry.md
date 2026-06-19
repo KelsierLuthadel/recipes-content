@@ -34,7 +34,7 @@ Pâte à foncer is the building block for sweet and savoury flans, quiches and t
 - The dough can be made 1-2 days in advance and stored wrapped in the refrigerator
 
 ## Serving
-Line flan tins and tartlet molds with this pastry; bake blind (with dried beans or weights) at 200°C for 15 minutes before adding savory or sweet fillings. The tender pastry base provides elegant contrast to rich fillings like crème pâtissière, chocolate, or savory custards.
+- Line flan tins and tartlet molds with this pastry; bake blind (with dried beans or weights) at 200°C for 15 minutes before adding savory or sweet fillings. The tender pastry base provides elegant contrast to rich fillings like crème pâtissière, chocolate, or savory custards.
 
 ## Storage
 Wrap unrolled dough and refrigerate for up to 2 days, or freeze for up to 1 month. Thaw frozen dough in the refrigerator before rolling. Once lining a tin, the dough can be refrigerated for up to 12 hours before baking or blind-baking.

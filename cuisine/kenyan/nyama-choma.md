@@ -64,7 +64,7 @@ Nyama choma is the Kenyan grilling tradition, and the marinade is famously minim
 - **Mishikaki:** the skewered cubed-meat version, often beef, marinated with garlic and ginger.
 
 ## Serving
-Pile the chopped meat on the wooden board · kachumbari in a bowl alongside · a mound of ugali · pili pili in a small dish · cold Tusker lagers · sit outside, hands only.
+- Pile the chopped meat on the wooden board · kachumbari in a bowl alongside · a mound of ugali · pili pili in a small dish · cold Tusker lagers · sit outside, hands only.
 
 ## Storage
 - Best eaten straight off the grill. Leftover nyama choma keeps 3 days refrigerated.

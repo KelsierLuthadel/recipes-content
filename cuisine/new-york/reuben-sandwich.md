@@ -78,13 +78,13 @@ The Reuben sandwich is a New York Jewish-deli classic, allegedly invented in 192
 - **Cheese on both sides:** holds everything together.
 
 ## Variations
-**Pastrami Reuben:** swap corned beef for pastrami.
-**Rachel:** swap sauerkraut for coleslaw; swap corned beef for turkey or pastrami.
-**Vegetarian Reuben:** swap meat for marinated portobello mushrooms or seitan.
-**With pickled vegetables:** add pickled carrot, daikon for crunch.
+- **Pastrami Reuben:** swap corned beef for pastrami.
+- **Rachel:** swap sauerkraut for coleslaw; swap corned beef for turkey or pastrami.
+- **Vegetarian Reuben:** swap meat for marinated portobello mushrooms or seitan.
+- **With pickled vegetables:** add pickled carrot, daikon for crunch.
 
 ## Serving
-At lunch with pickle and beer. NY deli classic.
+- At lunch with pickle and beer. NY deli classic.
 
 ## Storage
 - Best immediately.

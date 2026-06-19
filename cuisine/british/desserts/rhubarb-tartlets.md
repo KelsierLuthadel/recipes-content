@@ -68,7 +68,7 @@ The British rhubarb tartlet pulled toward the French patisserie counter: small b
 - A small amount of orange syrup adds extra gloss and flavour.
 
 ## Serving
-Serve the tartlets at room temperature or slightly warm with a small spoonful of crème fraîche or whipped cream. They also pair beautifully with a simple vanilla custard.
+- Serve the tartlets at room temperature or slightly warm with a small spoonful of crème fraîche or whipped cream. They also pair beautifully with a simple vanilla custard.
 
 ## Storage
 Store unfilled tartlet cases and poached rhubarb separately in the refrigerator for up to 2 days. Assemble just before serving; these tartlets do not freeze well once filled.

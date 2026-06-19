@@ -96,14 +96,14 @@ Key wat (sometimes called siga wat) is Ethiopia's deep-red beef stew, the meaty 
 - **The oil split is the visual finish:** a properly cooked wat shows pools of red niter kibbeh on the surface and at the edges. If the sauce still looks dull and uniform after 90 minutes, simmer 15 minutes more uncovered.
 
 ## Variations
-**Doro wat:** the chicken version of this same dish, with chicken pieces in place of beef. Cook time drops to 45 minutes; otherwise identical technique.
-**Yebeg wat:** lamb version, often considered the most prestigious. Slightly more delicate than beef; reduce simmer time to 75 minutes.
-**Misir wat (lentil):** the vegetarian counterpart in technique: red split lentils replace the beef, cooked 30 minutes till soft. Same berbere-onion-kibbeh base.
-**Alicha (yellow stew):** the mild yellow variant: omit berbere entirely, replace with 2 teaspoons turmeric and 1 teaspoon ground ginger. The non-spicy alternative; common at fasting meals and for children.
-**Key wat with shiro:** some highland families add a couple of tablespoons of shiro powder (ground roasted chickpea flour) in the last 15 minutes to thicken the sauce. Adds nutty depth.
+- **Doro wat:** the chicken version of this same dish, with chicken pieces in place of beef. Cook time drops to 45 minutes; otherwise identical technique.
+- **Yebeg wat:** lamb version, often considered the most prestigious. Slightly more delicate than beef; reduce simmer time to 75 minutes.
+- **Misir wat (lentil):** the vegetarian counterpart in technique: red split lentils replace the beef, cooked 30 minutes till soft. Same berbere-onion-kibbeh base.
+- **Alicha (yellow stew):** the mild yellow variant: omit berbere entirely, replace with 2 teaspoons turmeric and 1 teaspoon ground ginger. The non-spicy alternative; common at fasting meals and for children.
+- **Key wat with shiro:** some highland families add a couple of tablespoons of shiro powder (ground roasted chickpea flour) in the last 15 minutes to thicken the sauce. Adds nutty depth.
 
 ## Serving
-On a large shared round of injera at the centre of the table with gomen, atakilt, ayib and tibs arranged around the wat. Diners eat communally, tearing strips of injera and scooping meat and sauce with their right hand. Drink: tej (Ethiopian honey wine), tella (home-brewed beer), or buna (the formal Ethiopian coffee ceremony after the meal).
+- On a large shared round of injera at the centre of the table with gomen, atakilt, ayib and tibs arranged around the wat. Diners eat communally, tearing strips of injera and scooping meat and sauce with their right hand. Drink: tej (Ethiopian honey wine), tella (home-brewed beer), or buna (the formal Ethiopian coffee ceremony after the meal).
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens significantly overnight and day-after key wat is better than day-of.

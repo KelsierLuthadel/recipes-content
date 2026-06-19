@@ -80,7 +80,7 @@ Lakror is the Korçë-region pastry that sits halfway between a pie and a flatbr
 - **Wild greens version:** Use foraged spring greens (nettle, sorrel, wild leek) in place of the spinach.
 
 ## Serving
-Cut into wedges with a tomato and cucumber salad · with a glass of cold raki · with plain yoghurt on the side · as picnic food in the Korçë hills · with a small dark Albanian coffee · packed cold in a lunchbox for the next day.
+- Cut into wedges with a tomato and cucumber salad · with a glass of cold raki · with plain yoghurt on the side · as picnic food in the Korçë hills · with a small dark Albanian coffee · packed cold in a lunchbox for the next day.
 
 ## Storage
 - Eat warm the day it is baked.

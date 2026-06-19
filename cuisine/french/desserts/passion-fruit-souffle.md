@@ -69,7 +69,7 @@ Passion fruit soufflé is the tropical-fruit version of the classical French des
 - Run a knife blade around the inside rim of each soufflé dish before baking to help achieve the characteristic rise and shape
 
 ## Serving
-Serve immediately upon removal from the oven on individual plates lined with small napkins. Top each warm soufflé with a thin slice of kiwi and a spoonful of passion fruit pulp and seeds while the soufflé is still puffed. Serve with lime crème anglaise or a light passion fruit coulis on the side.
+- Serve immediately upon removal from the oven on individual plates lined with small napkins. Top each warm soufflé with a thin slice of kiwi and a spoonful of passion fruit pulp and seeds while the soufflé is still puffed. Serve with lime crème anglaise or a light passion fruit coulis on the side.
 
 ## Storage
 Soufflés must be served immediately from the oven as they deflate within a few minutes. The crème patissière base can be prepared 2-3 hours ahead and stored covered in the refrigerator. The kiwi and passion fruit components should be prepared just before assembly to maintain their fresh appearance and flavor.

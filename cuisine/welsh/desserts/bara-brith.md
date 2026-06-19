@@ -72,7 +72,7 @@ Bara brith (literally "speckled bread") is the long-keeping Welsh fruit loaf tha
 - **Mini loaves:** divide between 6 small tins, bake 50 minutes; good for gifts.
 
 ## Serving
-At chapel tea on a Sunday afternoon · in a packed lunch tin · sliced thick with strong tea · at a Welsh wedding tea · as a Christmas gift loaf wrapped in greaseproof paper.
+- At chapel tea on a Sunday afternoon · in a packed lunch tin · sliced thick with strong tea · at a Welsh wedding tea · as a Christmas gift loaf wrapped in greaseproof paper.
 
 ## Storage
 - Keeps 10 days in an airtight tin and improves over the first week.

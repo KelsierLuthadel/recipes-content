@@ -72,7 +72,7 @@ Pelin is the Romanian country wormwood wine, a herbal preparation of bitter Arte
 - **Pelin de mai (May wormwood):** infused in May with fresh herb, drunk through summer.
 
 ## Serving
-Chilled in a small wine glass · before food as a digestif · on Trifon Day (February 1st) · as a spring tonic by the small glass · as the rural welcome from a country host in March.
+- Chilled in a small wine glass · before food as a digestif · on Trifon Day (February 1st) · as a spring tonic by the small glass · as the rural welcome from a country host in March.
 
 ## Storage
 - Bottled pelin keeps 1 year cool and dark; the bitter mellows over time.

@@ -97,11 +97,11 @@ A Louisiana hand pie, the Cajun answer to a Cornish pasty and the snack you'd bu
 - **Don't overfill:** A heaped tablespoon is enough. Overstuffed pies blow open during frying.
 
 ## Variations
-**With cheese:** Add 50 g grated cheddar or pepper jack to the cooled filling.
-**Shrimp and corn:** Replace half the crawfish with fresh corn kernels for a different angle.
+- **With cheese:** Add 50 g grated cheddar or pepper jack to the cooled filling.
+- **Shrimp and corn:** Replace half the crawfish with fresh corn kernels for a different angle.
 
 ## Serving
-Serve with: Remoulade, hot sauce, lemon wedges, or as part of a Cajun snack platter with boudin balls and andouille skewers.
+- Serve with: Remoulade, hot sauce, lemon wedges, or as part of a Cajun snack platter with boudin balls and andouille skewers.
 
 ## Storage
 - Best fried fresh; keep 1 day refrigerated and reheat in a 190°C oven 8-10 minutes.

@@ -69,16 +69,16 @@ Thai green curry paste is the building block for Thailand's most iconic and dece
 - **Freshness:** This paste is at its best used within a few hours of making.
 
 ## Variations
-**Maximum Heat:** Include all chilli seeds for traditional Thai-level spice.
-**Creamier:** Add 1-2 tablespoons coconut cream during grinding for a richer paste.
-**Extra Fresh:** Add fresh Thai basil in the final moments of grinding.
-**With Lime:** Add 1 teaspoon lime zest for brightness.
+- **Maximum Heat:** Include all chilli seeds for traditional Thai-level spice.
+- **Creamier:** Add 1-2 tablespoons coconut cream during grinding for a richer paste.
+- **Extra Fresh:** Add fresh Thai basil in the final moments of grinding.
+- **With Lime:** Add 1 teaspoon lime zest for brightness.
 
 ## Serving
-Use in: Thai green curries, curry soups, curry-braised vegetables
-Typical ratio: 2-4 tablespoons per 400 ml coconut milk (green curry is typically spicier than red, so quantity varies by heat tolerance)
-Technique: Fry briefly in hot oil or a bit of coconut cream before adding liquid
-Temperature: Use immediately after making
+- Use in: Thai green curries, curry soups, curry-braised vegetables
+- Typical ratio: 2-4 tablespoons per 400 ml coconut milk (green curry is typically spicier than red, so quantity varies by heat tolerance)
+- Technique: Fry briefly in hot oil or a bit of coconut cream before adding liquid
+- Temperature: Use immediately after making
 
 ## Storage
 - This fresh-herb paste keeps refrigerated for only 3-4 days maximum

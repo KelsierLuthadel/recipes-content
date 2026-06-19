@@ -78,7 +78,7 @@ Yuca con chicharrón is the dish you find on every market street in El Salvador 
 - **Con queso fresco:** for a meatless plate, swap the chicharrón for crumbled fresh white cheese.
 
 ## Serving
-On a banana leaf or open plate · curtido and salsa heaped on top, not on the side · with a refresco de tamarindo · for Sunday breakfast or lunch · at a market puesto · standing at a comedor counter.
+- On a banana leaf or open plate · curtido and salsa heaped on top, not on the side · with a refresco de tamarindo · for Sunday breakfast or lunch · at a market puesto · standing at a comedor counter.
 
 ## Storage
 - Best assembled fresh; the yuca toughens once cooled.

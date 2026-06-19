@@ -90,14 +90,14 @@ Gaeng phed gai is the classic Thai red curry, chicken simmered in a coconut sauc
 - **Fish sauce:** Essential to authentic Thai curry, the umami depth it provides is irreplaceable.
 
 ## Variations
-**Vegetarian:** Replace chicken with 450g firm tofu (cubed) or mixed vegetables (peppers, mushrooms, broccoli)
-**Seafood version:** Use 450g large prawns or fish fillet instead of chicken; reduce cooking time in Stage 4 to 2-3 minutes
-**Extra spicy:** Increase red curry paste to 3 tablespoons or add fresh bird's eye chillies
-**Milder version:** Reduce curry paste to 1 tablespoon and de-seed more chillies when making the paste
-**With Thai eggplant:** Add 200g Thai eggplant (halved) in Stage 5 for traditional texture and flavour
+- **Vegetarian:** Replace chicken with 450g firm tofu (cubed) or mixed vegetables (peppers, mushrooms, broccoli)
+- **Seafood version:** Use 450g large prawns or fish fillet instead of chicken; reduce cooking time in Stage 4 to 2-3 minutes
+- **Extra spicy:** Increase red curry paste to 3 tablespoons or add fresh bird's eye chillies
+- **Milder version:** Reduce curry paste to 1 tablespoon and de-seed more chillies when making the paste
+- **With Thai eggplant:** Add 200g Thai eggplant (halved) in Stage 5 for traditional texture and flavour
 
 ## Serving
-Serve with: Jasmine rice, Thai sticky rice, or naan bread. Accompany with fresh lime wedges and extra chillies on the side.
+- Serve with: Jasmine rice, Thai sticky rice, or naan bread. Accompany with fresh lime wedges and extra chillies on the side.
 
 ## Storage
 - Keeps 3 days refrigerated in an airtight container

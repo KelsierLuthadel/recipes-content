@@ -84,10 +84,10 @@ Roast and grind as above.
 - **Earthier:** Add ½ teaspoon fenugreek seeds to initial roasting.
 
 ## Serving
-Use in: Singapore curry dishes, Southeast Asian chicken curries, seafood preparations, noodle-based curries
-Typical ratio: 2-4 teaspoons per portion depending on heat preference and protein type
-Application: Fry in hot oil with aromatics before adding liquid and ingredients
-Temperature: Best activated by blooming in hot oil
+- Use in: Singapore curry dishes, Southeast Asian chicken curries, seafood preparations, noodle-based curries
+- Typical ratio: 2-4 teaspoons per portion depending on heat preference and protein type
+- Application: Fry in hot oil with aromatics before adding liquid and ingredients
+- Temperature: Best activated by blooming in hot oil
 
 ## Storage
 - Best used immediately but keeps in airtight jar 2-3 months

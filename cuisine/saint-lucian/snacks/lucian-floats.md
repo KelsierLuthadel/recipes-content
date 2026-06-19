@@ -60,7 +60,7 @@ Floats are the snack-bread of Saint Lucia and Trinidad, eaten alongside souskaye
 - **Baked floats:** Brush with melted butter and bake at 200 C for 10 minutes if you would rather not fry; they will not puff as dramatically but eat well.
 
 ## Serving
-Serve warm split around souskaye or codfish cakes · a smear of guava jam or butter · alongside cocoa tea in the afternoon · with sorrel or mauby for a child's tea
+- Serve warm split around souskaye or codfish cakes · a smear of guava jam or butter · alongside cocoa tea in the afternoon · with sorrel or mauby for a child's tea
 
 ## Storage
 - Eat within 30 minutes of frying for the best texture

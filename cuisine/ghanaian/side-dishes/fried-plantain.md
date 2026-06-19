@@ -47,7 +47,7 @@ Fried plantain (kelewele's milder cousin, no spice rub) is the simplest plantain
 - **Sugar coating:** Sprinkle a pinch of sugar with the salt for extra caramelisation (some prefer it).
 
 ## Serving
-Serve hot alongside red-red · with jollof rice · with waakye · with grilled chicken or fish · with a fried egg for breakfast.
+- Serve hot alongside red-red · with jollof rice · with waakye · with grilled chicken or fish · with a fried egg for breakfast.
 
 ## Storage
 - Best eaten fresh

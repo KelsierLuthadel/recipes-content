@@ -46,7 +46,7 @@ This is the elegant frozen parfait flavoured with anise liqueur (Ricard or Perno
 - Use a warm torch or tea towel to briefly heat the ring's exterior; this loosens the parfait just enough for easy release without melting the structure
 
 ## Serving
-Release the parfait directly onto a chilled plate, creating an elegant presentation. Drizzle the colorful coulis artfully around the plate and top with a fresh strawberry for color. Serve immediately from removal from the freezer for the best texture and appearance. This requires no additional accompaniments.
+- Release the parfait directly onto a chilled plate, creating an elegant presentation. Drizzle the colorful coulis artfully around the plate and top with a fresh strawberry for color. Serve immediately from removal from the freezer for the best texture and appearance. This requires no additional accompaniments.
 
 ## Storage
 The assembled parfait freezes beautifully for up to one week in its mold, making it an excellent choice for advance preparation. Keep covered with cling film to prevent freezer burn. The coulis can be prepared 2-3 days ahead and stored covered in the refrigerator. Release from the mold only when ready to serve.

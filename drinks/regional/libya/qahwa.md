@@ -48,7 +48,7 @@ Libyan qahwa sits in the same family as Turkish coffee and the broader Maghrebi 
 - **Sip the top:** Drink the top half of the cup carefully; leave the last 5 mm where the grounds settle.
 
 ## Serving
-Serve in small cups (about 60 ml). Accompany with a date or a small piece of ghraybeh. The conversation matters more than the coffee speed - this is sit-down coffee.
+- Serve in small cups (about 60 ml). Accompany with a date or a small piece of ghraybeh. The conversation matters more than the coffee speed - this is sit-down coffee.
 
 ## Storage
 - Make fresh per round. Reheated qahwa is bitter and the grounds rise.

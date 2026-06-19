@@ -58,7 +58,7 @@ Picadillo de papa is the casado plate's quiet helper, a small-dice potato hash t
 - **Picadillo con chorizo:** Brown 100 g crumbled chorizo with the sofrito for a richer plate.
 
 ## Serving
-Serve warm as a casado-plate side · or as an empanada filling · or rolled into a warm tortilla as a soft-taco lunch · with a dab of Salsa Lizano on top
+- Serve warm as a casado-plate side · or as an empanada filling · or rolled into a warm tortilla as a soft-taco lunch · with a dab of Salsa Lizano on top
 
 ## Storage
 - Picadillo de papa keeps 3 days refrigerated

@@ -107,14 +107,14 @@ Stracotto (literally "overcooked") is the slow-braised Sunday roast of San Marin
 - **Strain and finish:** the strained sauce is what the San Marinese cooks call sugo lungo; the unsieved version has too much vegetable pulp.
 
 ## Variations
-**Stracotto al cioccolato:** stir 30 g grated dark chocolate into the strained sauce at the end; the Bolognese-leaning variant.
-**With prunes (alle prugne):** add 12 pitted prunes to the braise at hour 2; the autumn version, sweeter and darker.
-**Cinghiale stracotto:** swap the beef for wild boar shoulder; marinate overnight in the wine first; extend the braise to 5 hours.
-**Stracotto bianco:** swap the Sangiovese for an Albana di Romagna white; lighter, more onion-forward gravy.
-**With tagliatelle:** pull the meat into shreds, fold back into the sauce, serve over fresh egg tagliatelle as a ragù lungo.
+- **Stracotto al cioccolato:** stir 30 g grated dark chocolate into the strained sauce at the end; the Bolognese-leaning variant.
+- **With prunes (alle prugne):** add 12 pitted prunes to the braise at hour 2; the autumn version, sweeter and darker.
+- **Cinghiale stracotto:** swap the beef for wild boar shoulder; marinate overnight in the wine first; extend the braise to 5 hours.
+- **Stracotto bianco:** swap the Sangiovese for an Albana di Romagna white; lighter, more onion-forward gravy.
+- **With tagliatelle:** pull the meat into shreds, fold back into the sauce, serve over fresh egg tagliatelle as a ragù lungo.
 
 ## Serving
-At a San Marinese Sunday lunch (the traditional setting) · over polenta at a Romagnolo trattoria · with tagliatelle as a ragù the day after · alongside roast potatoes and rosemary for a Christmas table · with a bottle of the same Sangiovese used to braise it · at a wedding banquet in the Republic.
+- At a San Marinese Sunday lunch (the traditional setting) · over polenta at a Romagnolo trattoria · with tagliatelle as a ragù the day after · alongside roast potatoes and rosemary for a Christmas table · with a bottle of the same Sangiovese used to braise it · at a wedding banquet in the Republic.
 
 ## Storage
 - Refrigerates 5 days in a sealed container with its sauce; the flavour deepens.

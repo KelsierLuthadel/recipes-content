@@ -77,17 +77,17 @@ Vedarai are the cold-weather star of the Aukštaitija region in north-eastern Li
 - **Dry casings make tough skins:** keep moist with regular basting.
 
 ## Variations
-**With minced pork (1:1):** mix 250 g minced pork shoulder into the filling for a richer richer Žemaitija-style version.
-**With grated apple:** add 1 grated tart apple to the filling, a sweet north-region twist.
-**Forest-mushroom vedarai:** stir 50 g rehydrated and chopped dried porcini into the filling.
-**Without casings (kepti):** bake the filling in a greased loaf tin for 1 hour at 180°C, the easy weeknight cheat.
-**With sauerkraut on the side:** the classic Aukštaitija plate.
+- **With minced pork (1:1):** mix 250 g minced pork shoulder into the filling for a richer richer Žemaitija-style version.
+- **With grated apple:** add 1 grated tart apple to the filling, a sweet north-region twist.
+- **Forest-mushroom vedarai:** stir 50 g rehydrated and chopped dried porcini into the filling.
+- **Without casings (kepti):** bake the filling in a greased loaf tin for 1 hour at 180°C, the easy weeknight cheat.
+- **With sauerkraut on the side:** the classic Aukštaitija plate.
 
 ## Variations note
 The hard-to-find sausage casings can be ordered from any butcher who makes their own sausages; many supermarkets near Eastern European communities also stock them frozen.
 
 ## Serving
-Serve hot from the roasting tray · with cold sour cream · alongside sauerkraut or a fresh cucumber-dill salad · at an autumn dinner · with dark Lithuanian beer · two thick slices is a portion.
+- Serve hot from the roasting tray · with cold sour cream · alongside sauerkraut or a fresh cucumber-dill salad · at an autumn dinner · with dark Lithuanian beer · two thick slices is a portion.
 
 ## Storage
 - Cooked vedarai keep 3 days refrigerated.

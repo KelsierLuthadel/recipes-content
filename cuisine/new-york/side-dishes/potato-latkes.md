@@ -75,13 +75,13 @@ Potato latkes (also called levivot or just "latkes") are one of the most iconic 
 - **Sour cream AND applesauce:** both essential.
 
 ## Variations
-**With sweet potato:** half potato, half sweet potato.
-**With apple:** grate in a tart apple.
-**Larger latkes:** for a meal (entrée size).
-**With smoked salmon and crème fraîche:** fancier brunch version.
+- **With sweet potato:** half potato, half sweet potato.
+- **With apple:** grate in a tart apple.
+- **Larger latkes:** for a meal (entrée size).
+- **With smoked salmon and crème fraîche:** fancier brunch version.
 
 ## Serving
-At Hanukkah; year-round at Jewish delis; with sour cream and applesauce.
+- At Hanukkah; year-round at Jewish delis; with sour cream and applesauce.
 
 ## Storage
 - Best immediately.

@@ -78,7 +78,7 @@ Salted caramel brownies are the American dessert that turned the bakery counter 
 - **No-fridge alternative**: cool for 2 hours at room temperature minimum. The slab is tackier and harder to slice but still good.
 
 ## Serving
-A square on a small plate, with vanilla ice cream or unsweetened crème fraîche to cut the richness. Strong coffee on the side. Warm slightly in the microwave (10 seconds) for the molten-caramel revival.
+- A square on a small plate, with vanilla ice cream or unsweetened crème fraîche to cut the richness. Strong coffee on the side. Warm slightly in the microwave (10 seconds) for the molten-caramel revival.
 
 ## Storage
 - Airtight tin at cool room temperature for 4 days.

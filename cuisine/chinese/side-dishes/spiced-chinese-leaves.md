@@ -45,9 +45,9 @@ Chinese leaves (napa cabbage) are a polite pale-green vegetable until they hit a
 - White cabbage can be substituted for Chinese leaves but will need slightly longer cooking as it is denser.
 
 ## Serving
-Serve with: steamed rice, stir-fried noodles, or alongside Asian meat or fish dishes
-Temperature: hot, straight from the wok
-Amount: 2-4 portions as a side dish
+- Serve with: steamed rice, stir-fried noodles, or alongside Asian meat or fish dishes
+- Temperature: hot, straight from the wok
+- Amount: 2-4 portions as a side dish
 
 ## Storage
 - Store leftovers in an airtight container in the fridge for up to 2 days.

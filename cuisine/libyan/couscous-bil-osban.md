@@ -90,7 +90,7 @@ Bil osban is the couscous that comes out for Eid, weddings and the visit-with-fa
 - **Couscoussier:** A two-piece pot with a perforated steamer top. A large metal sieve set over a saucepan works as a substitute - line with muslin to stop fine grains falling through.
 
 ## Serving
-Serve communally on the platter. Hot harissa or bisbas in a small bowl on the side for those who want more chilli. Mint tea after.
+- Serve communally on the platter. Hot harissa or bisbas in a small bowl on the side for those who want more chilli. Mint tea after.
 
 ## Storage
 - Leftover couscous: refrigerate 2 days; steam to reheat (a microwave dries it out).

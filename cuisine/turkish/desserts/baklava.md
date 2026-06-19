@@ -61,7 +61,7 @@ This is classical baklava, the diamond-cut pastry of the former Ottoman empire b
 - Cutting through all layers while hot helps maintain clean edges; attempting to cut cold baklava results in shattering pastry
 
 ## Serving
-Serve at room temperature (never chilled, as the honey crystallizes and becomes gritty) as petit fours with coffee or as a dessert course. The pistachios make this particularly elegant. Display on a decorative platter to showcase the diamond cuts and honey glaze.
+- Serve at room temperature (never chilled, as the honey crystallizes and becomes gritty) as petit fours with coffee or as a dessert course. The pistachios make this particularly elegant. Display on a decorative platter to showcase the diamond cuts and honey glaze.
 
 ## Storage
 Baklava keeps beautifully at room temperature for up to 5-7 days in an airtight container, remaining crisp while the honey flavor matures. The unbaked baklava can be assembled and refrigerated for up to 24 hours before baking. Once baked and honey-soaked, do not refrigerate; cold temperatures cause crystallization and loss of texture. Light reheating in a slow oven (150°C, 5-10 minutes) can refresh the honey glaze if desired.

@@ -51,7 +51,7 @@ Parsley sauce is the building block for traditional British vegetable cookery, t
 - **Skimming:** Removes impurities for cleaner, smoother sauce.
 
 ## Serving
-Serve with Brussels sprouts, carrots, potatoes, cauliflower, or white fish. Can be enriched with cream or extra butter for richer preparations.
+- Serve with Brussels sprouts, carrots, potatoes, cauliflower, or white fish. Can be enriched with cream or extra butter for richer preparations.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

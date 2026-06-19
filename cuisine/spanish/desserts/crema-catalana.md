@@ -43,7 +43,7 @@ Crema catalana is Catalonia's answer to crème brûlée: an older dish by some a
 - Serving immediately while the contrast between warm, crisp caramel and cold cream is maximum enhances the appeal
 
 ## Serving
-Spoon from the individual dishes directly into serving bowls, breaking through the caramel crust to reveal the spiced cream within. Serve immediately, enjoying the textural and temperature contrast. no accompaniment is necessary.
+- Spoon from the individual dishes directly into serving bowls, breaking through the caramel crust to reveal the spiced cream within. Serve immediately, enjoying the textural and temperature contrast. no accompaniment is necessary.
 
 ## Storage
 The custard bases can be made 1 day ahead and refrigerated in their chilling dishes, covered with plastic film. The caramelized sugar coating must be applied no more than 30 minutes before serving; beyond that, the sugar coating gradually softens from the custard's moisture. These are best served the day they are made.

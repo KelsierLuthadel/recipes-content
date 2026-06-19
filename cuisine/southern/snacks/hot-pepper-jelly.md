@@ -77,13 +77,13 @@ Hot pepper jelly is one of the South's most distinctive condiments and a beloved
 - **Sterilised jars:** for proper preservation.
 
 ## Variations
-**Green pepper jelly:** use green bell peppers + green chillies; same technique.
-**Spicier:** double the hot chillies; include seeds.
-**With rosemary:** add 2 sprigs fresh rosemary to the cooking; gives herbaceous depth.
-**With cranberries:** add 100 g fresh cranberries; gives a Christmas variation.
+- **Green pepper jelly:** use green bell peppers + green chillies; same technique.
+- **Spicier:** double the hot chillies; include seeds.
+- **With rosemary:** add 2 sprigs fresh rosemary to the cooking; gives herbaceous depth.
+- **With cranberries:** add 100 g fresh cranberries; gives a Christmas variation.
 
 ## Serving
-On crackers with cream cheese (traditional Southern appetiser). As glaze on grilled meats. With cheese boards. Drink: champagne, white wine.
+- On crackers with cream cheese (traditional Southern appetiser). As glaze on grilled meats. With cheese boards. Drink: champagne, white wine.
 
 ## Storage
 - Sealed unopened jars keep 1 year at room temperature.

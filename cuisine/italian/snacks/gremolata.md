@@ -50,13 +50,13 @@ Gremolata (or "gremolada" in Milanese dialect) is one of Italian cooking's most 
 - **Don't use a food processor:** wet pulp instead of fluffy mixture.
 
 ## Variations
-**With orange zest:** add zest of 1 orange for a sweeter citrus note.
-**With anchovy (Sicilian variation):** add 1 finely chopped anchovy.
-**With mint:** swap parsley for mint; gives a brighter cleaner version.
-**Persillade (French version):** skip the lemon zest; just parsley + garlic; French equivalent.
+- **With orange zest:** add zest of 1 orange for a sweeter citrus note.
+- **With anchovy (Sicilian variation):** add 1 finely chopped anchovy.
+- **With mint:** swap parsley for mint; gives a brighter cleaner version.
+- **Persillade (French version):** skip the lemon zest; just parsley + garlic; French equivalent.
 
 ## Serving
-On osso buco (the traditional use), on grilled fish, on roasted vegetables, on creamy soups, on grilled meats, on risotto. Anywhere a bright finish is wanted.
+- On osso buco (the traditional use), on grilled fish, on roasted vegetables, on creamy soups, on grilled meats, on risotto. Anywhere a bright finish is wanted.
 
 ## Storage
 - Best made fresh.

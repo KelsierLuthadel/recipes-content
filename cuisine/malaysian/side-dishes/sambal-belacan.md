@@ -52,12 +52,12 @@ A bright, punchy raw sambal built around belacan, the fermented Malaysian shrimp
 - **Heat level:** Bird's eye chillies provide the kick; the larger chillies add colour and body. Reduce the bird's eye chillies if you are heat-shy.
 
 ## Variations
-**Sambal belacan with mango:** Stir in 2 tablespoons of finely diced unripe green mango at the end for a tangy, crunchy version often served with grilled fish.
-**Sambal belacan with kaffir lime:** Pound 2 shredded kaffir lime leaves into the chillies for an aromatic citrus lift.
+- **Sambal belacan with mango:** Stir in 2 tablespoons of finely diced unripe green mango at the end for a tangy, crunchy version often served with grilled fish.
+- **Sambal belacan with kaffir lime:** Pound 2 shredded kaffir lime leaves into the chillies for an aromatic citrus lift.
 
 ## Serving
-Serve with: Nasi lemak, grilled fish, fried chicken, plain rice, or as a dip for raw cucumber and long beans
-Garnish with: A few extra rings of fresh red chilli and a wedge of lime on the side
+- Serve with: Nasi lemak, grilled fish, fried chicken, plain rice, or as a dip for raw cucumber and long beans
+- Garnish with: A few extra rings of fresh red chilli and a wedge of lime on the side
 
 ## Storage
 - Best eaten the day it is made, while the chillies are still bright

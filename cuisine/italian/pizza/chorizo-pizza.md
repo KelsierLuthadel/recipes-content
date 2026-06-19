@@ -59,12 +59,12 @@ Three pizzas off one tray of dough, built on a slow-cooked tomato ragù that you
 - **Capers and olives:** A small amount of each goes a long way. Their saltiness should accent, not dominate.
 
 ## Variations
-**Spicy chorizo:** Use picante chorizo and add a pinch of chilli flakes for more heat.
-**With manchego:** Scatter shavings of manchego over the hot pizza alongside the basil for a more pronounced Spanish lean.
+- **Spicy chorizo:** Use picante chorizo and add a pinch of chilli flakes for more heat.
+- **With manchego:** Scatter shavings of manchego over the hot pizza alongside the basil for a more pronounced Spanish lean.
 
 ## Serving
-Serve with: A glass of crisp Albariño or a chilled tempranillo and a green leaf salad
-Garnish with: A drizzle of good olive oil and a few extra capers
+- Serve with: A glass of crisp Albariño or a chilled tempranillo and a green leaf salad
+- Garnish with: A drizzle of good olive oil and a few extra capers
 
 ## Storage
 - Best eaten fresh; the chorizo loses its crispness on standing

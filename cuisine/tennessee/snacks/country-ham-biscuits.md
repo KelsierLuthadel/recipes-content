@@ -78,13 +78,13 @@ Country ham biscuits are one of the most iconic Southern (and particularly Tenne
 - **Eat warm.**
 
 ## Variations
-**With pimento cheese:** spread between biscuit and ham.
-**With apple butter:** instead of honey mustard.
-**Without ham (just biscuits):** for the biscuit alone.
-**Cheese biscuits:** add 200 g grated cheddar to dough.
+- **With pimento cheese:** spread between biscuit and ham.
+- **With apple butter:** instead of honey mustard.
+- **Without ham (just biscuits):** for the biscuit alone.
+- **Cheese biscuits:** add 200 g grated cheddar to dough.
 
 ## Serving
-At weddings, baby showers, brunches; Sunday breakfasts.
+- At weddings, baby showers, brunches; Sunday breakfasts.
 
 ## Storage
 - Biscuits best fresh; keep 1 day at room temp.

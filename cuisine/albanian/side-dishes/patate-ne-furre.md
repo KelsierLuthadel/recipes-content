@@ -58,7 +58,7 @@ Patate në furrë is the side that turns up beside any Albanian roast: tave kosi
 - **With chicken stock and a bay leaf:** Use stock instead of water; add a bay leaf to the tray for a deeper roast.
 
 ## Serving
-Beside tave kosi · with roast lamb or chicken · alongside fergese · with grilled qofte · under a spoon of plain yoghurt · with a wedge of feta and a tomato salad.
+- Beside tave kosi · with roast lamb or chicken · alongside fergese · with grilled qofte · under a spoon of plain yoghurt · with a wedge of feta and a tomato salad.
 
 ## Storage
 - Eat warm from the oven; the texture softens once cold.

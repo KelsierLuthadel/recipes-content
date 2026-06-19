@@ -86,7 +86,7 @@ Ovocné knedlíky - "fruit dumplings" - are the Czech summer dessert and sometim
 - **Topping is personal:** Poppy seed is the most traditional; tvaroh (sweet curd cheese) is a more delicate option; nuts work for any season. Many Czech families have all three at the table and let each person dress their own.
 
 ## Serving
-Czech families serve fruit dumplings sometimes as a sweet main course (a Sunday lunch dessert-dish hybrid), sometimes as dessert. Best fresh and warm with the toppings melting into the butter.
+- Czech families serve fruit dumplings sometimes as a sweet main course (a Sunday lunch dessert-dish hybrid), sometimes as dessert. Best fresh and warm with the toppings melting into the butter.
 
 ## Storage
 - Best eaten same day, fresh out of the pot.

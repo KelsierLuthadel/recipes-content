@@ -61,8 +61,8 @@ BIR chicken pasanda is the mild creamy almond-and-coconut curry the restaurant m
 - Coconut and ground almond give texture; avoid over-thickening by adding a little base sauce or stock.
 
 ## Serving
-Serve with steamed basmati rice, pilau, naan, or paratha.
-Garnish with fresh coriander and extra toasted almond flakes.
+- Serve with steamed basmati rice, pilau, naan, or paratha.
+- Garnish with fresh coriander and extra toasted almond flakes.
 
 ## Storage
 - Refrigerate 2-3 days in an airtight container.

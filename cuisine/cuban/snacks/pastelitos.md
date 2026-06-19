@@ -67,13 +67,13 @@ Pastelitos are the Cuban bakery breakfast every Calle Ocho café has stacked in 
 - **Sugar glaze:** This is what separates home pastelitos from bakery ones. Don't skip.
 
 ## Variations
-**Carne (beef):** Fill with cooled, dry picadillo (Cuban ground beef with olives, raisins and capers) instead of guava and cream cheese. Savoury, equally classic.
-**Coco (coconut):** Fill with dulce de coco (sweet shredded coconut cooked with condensed milk).
-**Guava only:** Some traditional bakeries make a pure guava version with no cream cheese. Sweeter, lighter.
-**Ham and cheese:** Fill with thinly sliced cooked ham and grated Gruyère; the breakfast version.
+- **Carne (beef):** Fill with cooled, dry picadillo (Cuban ground beef with olives, raisins and capers) instead of guava and cream cheese. Savoury, equally classic.
+- **Coco (coconut):** Fill with dulce de coco (sweet shredded coconut cooked with condensed milk).
+- **Guava only:** Some traditional bakeries make a pure guava version with no cream cheese. Sweeter, lighter.
+- **Ham and cheese:** Fill with thinly sliced cooked ham and grated Gruyère; the breakfast version.
 
 ## Serving
-Serve warm with strong sweet coffee (café cubano) or a glass of cold milk. Best eaten the day they're baked, within an hour or two of the oven.
+- Serve warm with strong sweet coffee (café cubano) or a glass of cold milk. Best eaten the day they're baked, within an hour or two of the oven.
 
 ## Storage
 - Best within hours of baking.

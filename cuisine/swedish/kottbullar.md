@@ -93,14 +93,14 @@ Köttbullar (Swedish meatballs) are the centrepiece of Swedish husmanskost, the 
 - **Don't overwork the mince:** mix till just combined.
 
 ## Variations
-**With Pressgurka pickle and dill:** add chopped dill to the cucumber salad.
-**With grated apple in the mix:** some Swedish home cooks add half a grated apple for sweetness.
-**Larger party version (smörgåsbord style):** make them smaller still (15 g) and serve as canapés with cocktail picks.
-**Vegetarian (växtbullar):** IKEA's veggie version uses a mix of yellow pea protein and potato; not traditional but Swedish-influenced.
-**With game meat:** swap the beef for moose or reindeer mince (the Lapland version).
+- **With Pressgurka pickle and dill:** add chopped dill to the cucumber salad.
+- **With grated apple in the mix:** some Swedish home cooks add half a grated apple for sweetness.
+- **Larger party version (smörgåsbord style):** make them smaller still (15 g) and serve as canapés with cocktail picks.
+- **Vegetarian (växtbullar):** IKEA's veggie version uses a mix of yellow pea protein and potato; not traditional but Swedish-influenced.
+- **With game meat:** swap the beef for moose or reindeer mince (the Lapland version).
 
 ## Serving
-At a Stockholm husmanskost restaurant for lunch · at IKEA on a Saturday shopping trip · at a Swedish home Sunday family dinner · at a Christmas julbord smörgåsbord (as one of many dishes).
+- At a Stockholm husmanskost restaurant for lunch · at IKEA on a Saturday shopping trip · at a Swedish home Sunday family dinner · at a Christmas julbord smörgåsbord (as one of many dishes).
 
 ## Storage
 - Cooked meatballs refrigerate 4 days; reheat gently in the gravy.

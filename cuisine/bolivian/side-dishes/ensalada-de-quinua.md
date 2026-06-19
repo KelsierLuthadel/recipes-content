@@ -66,7 +66,7 @@ For the dressing:
 - Quinoa tricolor (a mix of white, red and black quinoa) gives a prettier plate
 
 ## Serving
-Serve cool or room temperature · alongside grilled meat or chicken · in a lunch box · scoop with bread
+- Serve cool or room temperature · alongside grilled meat or chicken · in a lunch box · scoop with bread
 
 ## Storage
 - Keeps 3 days refrigerated; the dressing soaks in further on day two

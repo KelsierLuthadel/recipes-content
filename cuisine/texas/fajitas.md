@@ -98,13 +98,13 @@ Texas fajitas, the iconic Tex-Mex dish that defines a particular Texas-Mexican b
 - **Warm tortillas:** wrap and warm.
 
 ## Variations
-**Chicken fajitas:** swap beef for thin chicken thigh; cook 4 minutes per side.
-**Shrimp fajitas:** large shrimp grilled 90 seconds per side.
-**Vegetarian fajitas:** grilled portobello mushrooms + extra peppers.
-**Carne asada style:** swap soy for orange juice; closer to Mexican.
+- **Chicken fajitas:** swap beef for thin chicken thigh; cook 4 minutes per side.
+- **Shrimp fajitas:** large shrimp grilled 90 seconds per side.
+- **Vegetarian fajitas:** grilled portobello mushrooms + extra peppers.
+- **Carne asada style:** swap soy for orange juice; closer to Mexican.
 
 ## Serving
-Family-style with all accompaniments. Margaritas, Mexican beer, sweet tea.
+- Family-style with all accompaniments. Margaritas, Mexican beer, sweet tea.
 
 ## Storage
 - Best eaten fresh.

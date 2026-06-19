@@ -94,13 +94,13 @@ Country Captain is one of the South's most distinctive dishes and reflects the h
 - **Mango chutney essential:** the traditional accompaniment.
 
 ## Variations
-**With coconut milk:** add 200 ml coconut milk; gives a richer creamier version.
-**Slow-cooker version:** 8 hours low.
-**With shrimp:** add 200 g peeled shrimp in last 5 min for surf-and-turf.
-**Spicier:** add 2 chopped fresh chillies.
+- **With coconut milk:** add 200 ml coconut milk; gives a richer creamier version.
+- **Slow-cooker version:** 8 hours low.
+- **With shrimp:** add 200 g peeled shrimp in last 5 min for surf-and-turf.
+- **Spicier:** add 2 chopped fresh chillies.
 
 ## Serving
-Over rice with chutney. As Sunday dinner or special-occasion meal.
+- Over rice with chutney. As Sunday dinner or special-occasion meal.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens.

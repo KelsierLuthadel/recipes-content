@@ -112,13 +112,13 @@ Mahshi warak enab means "stuffed vine leaves"; also called yabraq or yalanji dep
 - **Pomegranate molasses for the proper Syrian profile:** the small amount of pomegranate molasses gives Syrian mahshi a slightly sweet-tart character that distinguishes it from Lebanese or Palestinian versions.
 
 ## Variations
-**Vegetarian mahshi (yalanji):** skip the meat; double the rice; add 100 g of soaked chickpeas to the filling; use vegetable stock. Lighter version; common Lent-friendly Levantine recipe.
-**Without lemon (Lebanese style):** skip the lemon juice in both the filling and the cooking liquid; gives a milder less-sour mahshi. Less traditional Syrian but valid.
-**With pine nuts in the filling:** add 80 g of toasted pine nuts to the filling for extra texture. Common Aleppo variation.
-**Stuffed cabbage instead of vine leaves (malfouf):** swap the vine leaves for tender cabbage leaves (blanched 2-3 minutes); roll the same way. Different but the same idea.
+- **Vegetarian mahshi (yalanji):** skip the meat; double the rice; add 100 g of soaked chickpeas to the filling; use vegetable stock. Lighter version; common Lent-friendly Levantine recipe.
+- **Without lemon (Lebanese style):** skip the lemon juice in both the filling and the cooking liquid; gives a milder less-sour mahshi. Less traditional Syrian but valid.
+- **With pine nuts in the filling:** add 80 g of toasted pine nuts to the filling for extra texture. Common Aleppo variation.
+- **Stuffed cabbage instead of vine leaves (malfouf):** swap the vine leaves for tender cabbage leaves (blanched 2-3 minutes); roll the same way. Different but the same idea.
 
 ## Serving
-On a large platter, often as the centrepiece of a Syrian Sunday lunch alongside fattoush salad, hummus, baba ganoush and warm flatbread. The yogurt-garlic sauce and lemon wedges in small bowls around the platter. Eat with hands or a fork; popular ritual is to dip each roll in yogurt and have a squeeze of lemon. Drink: ayran (the salted yogurt drink), mint tea, or fresh lemonade.
+- On a large platter, often as the centrepiece of a Syrian Sunday lunch alongside fattoush salad, hummus, baba ganoush and warm flatbread. The yogurt-garlic sauce and lemon wedges in small bowls around the platter. Eat with hands or a fork; popular ritual is to dip each roll in yogurt and have a squeeze of lemon. Drink: ayran (the salted yogurt drink), mint tea, or fresh lemonade.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight (many Syrian cooks make a day ahead).

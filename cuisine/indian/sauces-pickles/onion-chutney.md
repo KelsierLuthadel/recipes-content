@@ -59,14 +59,14 @@ The bright red onion chutney that turns up on every British curry-house table al
 - **Sauce Consistency:** The sauce should coat but not drown the onions; adjust ketchup/puree ratio as needed.
 
 ## Variations
-**With Lime:** Add juice of ½ lime to the sauce for tartness.
-**Garlic Addition:** Add 1 crushed garlic clove to the sauce for pungency.
-**Coriander Finish:** Stir in 1 tablespoon fresh chopped coriander just before serving.
-**Extra Heat:** Add ½ teaspoon more chilli powder if you prefer more spice.
+- **With Lime:** Add juice of ½ lime to the sauce for tartness.
+- **Garlic Addition:** Add 1 crushed garlic clove to the sauce for pungency.
+- **Coriander Finish:** Stir in 1 tablespoon fresh chopped coriander just before serving.
+- **Extra Heat:** Add ½ teaspoon more chilli powder if you prefer more spice.
 
 ## Serving
-Serve with: Tandoori meats, kebabs, rotis, curries, grilled vegetables
-Garnish: Fresh coriander leaves (optional)
+- Serve with: Tandoori meats, kebabs, rotis, curries, grilled vegetables
+- Garnish: Fresh coriander leaves (optional)
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

@@ -72,13 +72,13 @@ Liptauer is the pink-orange whipped cheese spread that turns up on every wine ce
 - **Two hours minimum rest:** the flavours genuinely need time to marry. Made fresh, the spread tastes of each ingredient separately. After two hours in the fridge, it tastes unified.
 
 ## Variations
-**With ground caraway:** if whole caraway seeds bother you, grind them to a powder; the flavour is the same but the spread is smoother.
-**Extra-spicy:** add a teaspoon of hot Hungarian paprika alongside the sweet, or a drop or two of Tabasco; gives the spread a serious kick.
-**With cottage cheese:** replace half the cream cheese with drained well-mashed cottage cheese for a less rich version; closer to the textural look of original Bryndza.
-**With chives folded through:** instead of just garnishing, fold 2 tablespoons of finely chopped chives into the base for a herb-spread version.
+- **With ground caraway:** if whole caraway seeds bother you, grind them to a powder; the flavour is the same but the spread is smoother.
+- **Extra-spicy:** add a teaspoon of hot Hungarian paprika alongside the sweet, or a drop or two of Tabasco; gives the spread a serious kick.
+- **With cottage cheese:** replace half the cream cheese with drained well-mashed cottage cheese for a less rich version; closer to the textural look of original Bryndza.
+- **With chives folded through:** instead of just garnishing, fold 2 tablespoons of finely chopped chives into the base for a herb-spread version.
 
 ## Serving
-Spread thick on thick slices of dark rye, pumpernickel or sourdough, with sliced radishes, pickled onions and pickled gherkins on the side; ideal as an aperitif platter with a glass of grüner veltliner, schilcher, or weissbier. Also wonderful as a small starter in a Heuriger or wine bar, or as part of a Brettljause platter alongside cured meats, hard cheese, hard-boiled eggs and pickles.
+- Spread thick on thick slices of dark rye, pumpernickel or sourdough, with sliced radishes, pickled onions and pickled gherkins on the side; ideal as an aperitif platter with a glass of grüner veltliner, schilcher, or weissbier. Also wonderful as a small starter in a Heuriger or wine bar, or as part of a Brettljause platter alongside cured meats, hard cheese, hard-boiled eggs and pickles.
 
 ## Storage
 - Keeps refrigerated 5-7 days in a sealed container; the flavour deepens for the first 2-3 days, then plateaus.

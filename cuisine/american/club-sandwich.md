@@ -50,9 +50,9 @@ The diner triple-decker reworked with a poached egg sitting on top, what an Amer
 - **Breadcrumbs vs. crust:** Use good quality bread with a firm crumb that can support the fillings without tearing.
 
 ## Serving
-Serve with: A crisp salad or french fries
-Garnish with: Fresh parsley sprigs and a lemon wedge
-Accompaniment: Toast picks to hold the sandwich together while eating
+- Serve with: A crisp salad or french fries
+- Garnish with: Fresh parsley sprigs and a lemon wedge
+- Accompaniment: Toast picks to hold the sandwich together while eating
 
 ## Storage
 - Best served immediately while all components are warm

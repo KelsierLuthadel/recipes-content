@@ -95,7 +95,7 @@ Begova čorba is the most refined soup in the Bosnian repertoire: a clear chicke
 - **With Vegeta:** modern home cooks often add a teaspoon of Vegeta (Balkan stock seasoning) to the broth; not strictly traditional but very common.
 
 ## Serving
-As the starter to a Bosnian feast · with thick slices of crusty white bread · with a small glass of rakija alongside · followed by a meat course like bosanski lonac or sogan dolma
+- As the starter to a Bosnian feast · with thick slices of crusty white bread · with a small glass of rakija alongside · followed by a meat course like bosanski lonac or sogan dolma
 
 ## Storage
 - Keeps refrigerated 3 days; the soup thickens noticeably as it cools.

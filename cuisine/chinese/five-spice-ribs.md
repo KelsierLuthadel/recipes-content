@@ -59,7 +59,7 @@ This is the dish that uses five-spice powder the way it's meant to be used: as a
 - **Two-stage cooking:** Deep-frying creates crispy texture, while braising renders fat and infuses flavour.
 
 ## Serving
-Serve with: Steamed rice and a simple vegetable
+- Serve with: Steamed rice and a simple vegetable
 
 ## Storage
 - Keeps 3-4 days refrigerated (flavour improves after 24 hours)

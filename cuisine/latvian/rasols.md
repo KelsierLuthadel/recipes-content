@@ -81,7 +81,7 @@ Rasols is the festive layered salad that defines a Latvian celebration table. Ev
 - **With diced ham:** Some households add 150 g diced cooked ham along with the herring; common at Christmas.
 
 ## Serving
-Serve cold with rupjmaize and butter. A spoonful sits next to roasted meats, fried sprats and salted cucumbers on a Latvian festive table.
+- Serve cold with rupjmaize and butter. A spoonful sits next to roasted meats, fried sprats and salted cucumbers on a Latvian festive table.
 
 ## Storage
 - Keeps 3 days refrigerated; eats best on day two.

@@ -95,14 +95,14 @@ The Welsh leek and bacon pie is one of the country's everyday Sunday-table dishe
 - **Baking tray under the dish:** any creamy leak burns the oven base, not the pie.
 
 ## Variations
-**With Caerphilly cheese:** swap the cheddar for crumbly Caerphilly (the Welsh cheese on the front of the cheese trolley).
-**With a puff-pastry lid:** use shortcrust below, puff on top for a crisp-flaky finish.
-**Vegetarian leek pie:** drop the bacon; add 200 g chestnut mushrooms sweated with the onion.
-**With laverbread:** stir 2 tablespoons cooked laverbread into the filling for a Gower-coast version.
-**Individual pies:** divide the pastry and filling into 6 small ramekins; bake 25 minutes.
+- **With Caerphilly cheese:** swap the cheddar for crumbly Caerphilly (the Welsh cheese on the front of the cheese trolley).
+- **With a puff-pastry lid:** use shortcrust below, puff on top for a crisp-flaky finish.
+- **Vegetarian leek pie:** drop the bacon; add 200 g chestnut mushrooms sweated with the onion.
+- **With laverbread:** stir 2 tablespoons cooked laverbread into the filling for a Gower-coast version.
+- **Individual pies:** divide the pastry and filling into 6 small ramekins; bake 25 minutes.
 
 ## Serving
-At a Welsh Sunday lunch · for a chapel-tea family gathering · with a glass of Brains SA · at a Welsh wedding buffet · cold from the fridge with chutney for a packed lunch · with a green salad for a weeknight supper.
+- At a Welsh Sunday lunch · for a chapel-tea family gathering · with a glass of Brains SA · at a Welsh wedding buffet · cold from the fridge with chutney for a packed lunch · with a green salad for a weeknight supper.
 
 ## Storage
 - Keeps 3 days in the fridge.

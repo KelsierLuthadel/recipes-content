@@ -86,13 +86,13 @@ Pampoenkoekies (literally "pumpkin little-cakes" in Afrikaans) are South Africa'
 - **Cinnamon sugar at the end, while warm:** dust the koekies the moment they come out of the pan, while they're still hot. The sugar adheres to the warm surface and starts to slightly melt in, giving the proper finish. Cold koekies don't take cinnamon sugar properly.
 
 ## Variations
-**Savoury pampoenkoekies:** halve the sugar in the batter, skip the cinnamon sugar dusting, and serve with sour cream and chives instead. A modern South African brunch dish.
-**With chopped nuts:** fold 50 g of finely chopped walnuts or pecans into the batter for textural contrast.
-**With ginger:** add 1 teaspoon of ground ginger to the batter alongside the cinnamon and nutmeg; gives a warming spice character. A traditional Cape variation.
-**Pampoenmoes (the side-dish version):** the same cooked-pumpkin-with-sugar-and-cinnamon mixture but served unfried as a sweet mash side; literally "pumpkin mash". The lazier weeknight version.
+- **Savoury pampoenkoekies:** halve the sugar in the batter, skip the cinnamon sugar dusting, and serve with sour cream and chives instead. A modern South African brunch dish.
+- **With chopped nuts:** fold 50 g of finely chopped walnuts or pecans into the batter for textural contrast.
+- **With ginger:** add 1 teaspoon of ground ginger to the batter alongside the cinnamon and nutmeg; gives a warming spice character. A traditional Cape variation.
+- **Pampoenmoes (the side-dish version):** the same cooked-pumpkin-with-sugar-and-cinnamon mixture but served unfried as a sweet mash side; literally "pumpkin mash". The lazier weeknight version.
 
 ## Serving
-In a small bowl alongside the roast meat (lamb, beef, pork) at Sunday lunch; or as a tea-time treat with hot strong coffee. Some families serve with a small jug of cream or a dollop of plain yoghurt for dipping. Drink: strong coffee, sweet rooibos tea, or a glass of cold milk.
+- In a small bowl alongside the roast meat (lamb, beef, pork) at Sunday lunch; or as a tea-time treat with hot strong coffee. Some families serve with a small jug of cream or a dollop of plain yoghurt for dipping. Drink: strong coffee, sweet rooibos tea, or a glass of cold milk.
 
 ## Storage
 - Best eaten warm from the pan; the texture goes denser as they cool.

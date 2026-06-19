@@ -33,7 +33,7 @@ Crème mousseline is the building block under the Paris-Brest, traditional frais
 - Flavor additions such as caramel, chocolate, coffee, or liqueurs should be added after the 5-minute beating to preserve the cream's airy texture
 
 ## Serving
-Pipe crème Mousseline into decorative rosettes, borders, and fills. Use as a cake filling or serve dolloped on desserts. Its luxurious texture makes it suitable for elegant plated presentations and special occasion cakes.
+- Pipe crème Mousseline into decorative rosettes, borders, and fills. Use as a cake filling or serve dolloped on desserts. Its luxurious texture makes it suitable for elegant plated presentations and special occasion cakes.
 
 ## Storage
 Refrigerate in an airtight container for up to 5 days. Freeze for up to 1 month before use. Allow frozen cream to thaw at room temperature (2-3 hours) and gently re-beat for 1-2 minutes to restore texture if needed.

@@ -46,7 +46,7 @@ Every household in the Republic has a piadina recipe. The San Marinese version i
 - **Hot pan.** A medium-high cast-iron pan is the cleanest substitute for a testo; if the pan is too cool the disc dries out before it bubbles.
 
 ## Serving
-Eat warm, torn into wedges, alongside any San Marinese meal. Or fold around prosciutto cotto, squacquerone cheese and rocket for piadina farcita.
+- Eat warm, torn into wedges, alongside any San Marinese meal. Or fold around prosciutto cotto, squacquerone cheese and rocket for piadina farcita.
 
 ## Storage
 - Best eaten same day.

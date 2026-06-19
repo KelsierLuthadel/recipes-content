@@ -88,18 +88,18 @@ The pisco sour is Peru's most iconic drink and one of the world's most-cited Sou
 - **Egg white safety:** the citric acid in the lime juice and the alcohol in the pisco effectively pasteurise the egg white; pasteurised egg whites (from cartons) also work for the nervous.
 
 ## Variations
-**Chilcano:** a different classic Peruvian cocktail, pisco + ginger ale + lime + bitters in a tall glass. Easier, less theatrical.
-**Maracuyá sour:** swap a small amount of the lime juice for passion fruit purée, the modern Lima variant.
-**Lúcuma sour:** add 1 tablespoon of lúcuma purée (a Peruvian Andean fruit): the modern tropical variant.
-**Aguaymanto sour:** add 1 tablespoon of aguaymanto (golden berry / Cape gooseberry) purée, the bright fruit variant.
-**Pisco sour without egg white:** for the egg-averse, just pisco + lime + syrup + ice; less foamy but still excellent.
-**Capitán:** Peruvian cocktail of pisco + sweet vermouth + bitters; the more spirit-forward variant.
-**Pisco punch (San Francisco origin):** pisco + pineapple syrup + lime + gum syrup, the 19th-century San Francisco bar classic that helped spread pisco internationally.
-**Frozen pisco sour (modern Lima):** blend the ingredients with crushed ice; serve in a coupe with the bitters art, the slushy variant.
-**Champagne pisco sour (modern, brunch):** top the finished pisco sour with a small splash of dry champagne or sparkling wine.
+- **Chilcano:** a different classic Peruvian cocktail, pisco + ginger ale + lime + bitters in a tall glass. Easier, less theatrical.
+- **Maracuyá sour:** swap a small amount of the lime juice for passion fruit purée, the modern Lima variant.
+- **Lúcuma sour:** add 1 tablespoon of lúcuma purée (a Peruvian Andean fruit): the modern tropical variant.
+- **Aguaymanto sour:** add 1 tablespoon of aguaymanto (golden berry / Cape gooseberry) purée, the bright fruit variant.
+- **Pisco sour without egg white:** for the egg-averse, just pisco + lime + syrup + ice; less foamy but still excellent.
+- **Capitán:** Peruvian cocktail of pisco + sweet vermouth + bitters; the more spirit-forward variant.
+- **Pisco punch (San Francisco origin):** pisco + pineapple syrup + lime + gum syrup, the 19th-century San Francisco bar classic that helped spread pisco internationally.
+- **Frozen pisco sour (modern Lima):** blend the ingredients with crushed ice; serve in a coupe with the bitters art, the slushy variant.
+- **Champagne pisco sour (modern, brunch):** top the finished pisco sour with a small splash of dry champagne or sparkling wine.
 
 ## Serving
-At a Lima bar at evening (the traditional setting) · at a Peruvian Independence Day (28 July) celebration · at National Pisco Sour Day (first Saturday of February) · at a Lima criolla restaurant before dinner · at a Peruvian wedding cocktail hour · at a Peruvian-themed restaurant worldwide · at home as the pre-dinner Peruvian aperitif · paired with ceviche, tequeños, or salty Andean snacks.
+- At a Lima bar at evening (the traditional setting) · at a Peruvian Independence Day (28 July) celebration · at National Pisco Sour Day (first Saturday of February) · at a Lima criolla restaurant before dinner · at a Peruvian wedding cocktail hour · at a Peruvian-themed restaurant worldwide · at home as the pre-dinner Peruvian aperitif · paired with ceviche, tequeños, or salty Andean snacks.
 
 ## Storage
 - Make and drink fresh. Pisco sours don't store.

@@ -67,7 +67,7 @@ Snack-size draniki are the canapé incarnation of the Belarusian national dish, 
 - **Mushroom draniki canapés.** Top with a teaspoon of finely chopped wild-mushroom sauté instead of fish; for Lent or vegetarian guests.
 
 ## Serving
-Serve warm on a board at the start of a meal · also at New Year's Eve and big party tables · with vodka or krambambulya · as part of a "zakuski" cold-plate spread
+- Serve warm on a board at the start of a meal · also at New Year's Eve and big party tables · with vodka or krambambulya · as part of a "zakuski" cold-plate spread
 
 ## Storage
 - Best assembled and eaten in the same hour

@@ -62,7 +62,7 @@ Mauby is the universal non-alcoholic Caribbean cold drink, sold from coolers and
 - **Mauby float:** Pour cold mauby over a scoop of vanilla ice cream for a Lucian children's treat.
 
 ## Serving
-Serve very cold over plenty of ice · in tall glasses · alongside floats, codfish cakes or any Lucian midday snack · a slice of lime to garnish
+- Serve very cold over plenty of ice · in tall glasses · alongside floats, codfish cakes or any Lucian midday snack · a slice of lime to garnish
 
 ## Storage
 - The concentrate keeps 2 weeks refrigerated in a sealed bottle

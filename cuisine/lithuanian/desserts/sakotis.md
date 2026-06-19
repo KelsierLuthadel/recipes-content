@@ -74,14 +74,14 @@
 - **Real spit version:** for the authentic article, a turning rotisserie over flame is unmatched but home ovens give a credible result.
 
 ## Variations
-**Festive icing:** drizzle with white chocolate or a glacé icing for celebrations.
-**With saffron:** add a pinch of saffron infused in 1 tablespoon hot water to the batter for a deep gold colour.
-**Mini šakotis:** bake the batter as a flat sheet in a Swiss-roll tin, cut and stack the strips for a layered cube version.
-**With nuts:** scatter chopped almonds across each layer before baking.
-**With brandy syrup:** brush the finished cake with a light brandy syrup for moisture.
+- **Festive icing:** drizzle with white chocolate or a glacé icing for celebrations.
+- **With saffron:** add a pinch of saffron infused in 1 tablespoon hot water to the batter for a deep gold colour.
+- **Mini šakotis:** bake the batter as a flat sheet in a Swiss-roll tin, cut and stack the strips for a layered cube version.
+- **With nuts:** scatter chopped almonds across each layer before baking.
+- **With brandy syrup:** brush the finished cake with a light brandy syrup for moisture.
 
 ## Serving
-Serve as a wedding centrepiece · at Easter · at Christmas · sliced thin alongside coffee · with a glass of midus or krupnikas · kept whole on the table for decoration before slicing.
+- Serve as a wedding centrepiece · at Easter · at Christmas · sliced thin alongside coffee · with a glass of midus or krupnikas · kept whole on the table for decoration before slicing.
 
 ## Storage
 - Keeps 3 weeks in a tin at room temperature, the dryness is the point.

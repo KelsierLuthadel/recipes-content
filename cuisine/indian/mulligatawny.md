@@ -66,7 +66,7 @@ The original Anglo-Indian soup and the British Raj's most enduring culinary expo
 - **Sauces:** Optional but add depth; use gluten-free if needed.
 
 ## Serving
-Serve hot with naan or rice.
+- Serve hot with naan or rice.
 
 ## Storage
 - Refrigerate up to 3 days; flavors improve. Freezes well up to 2 months.

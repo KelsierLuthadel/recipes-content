@@ -90,7 +90,7 @@ The dough is traditionally made by soaking rice grains, then grinding to a thick
 - **Khowa sel roti:** add 50 g khoya (reduced milk solids) to the batter for a richer, slightly chewier version. Wedding-grade.
 
 ## Serving
-A tier of warm sel roti at the centre of the festival table, with bowls of plain yoghurt, [aloo tama](../aloo-tama.md), [choila](../side-dishes/choila.md) and pickled vegetables around it. Each diner takes a ring and dips, tears, eats.
+- A tier of warm sel roti at the centre of the festival table, with bowls of plain yoghurt, [aloo tama](../aloo-tama.md), [choila](../side-dishes/choila.md) and pickled vegetables around it. Each diner takes a ring and dips, tears, eats.
 
 ## Storage
 - Best the day it is made; the crisp edge softens overnight.

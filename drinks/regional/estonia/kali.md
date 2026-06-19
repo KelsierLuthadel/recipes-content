@@ -61,7 +61,7 @@ Kali is Estonia's version of kvass, the lightly fermented rye-bread drink that h
 - **Mind the bottles:** Plastic is safer than glass for first-time kvass-makers. A glass bottle with too much sugar and too long a ferment can build dangerous pressure.
 
 ## Serving
-Serve cold straight from the fridge in tall glasses. A slice of lemon or a sprig of mint is optional. Outdoors on a hot day with rye-bread sandwiches and a bowl of cold beetroot soup is the right setting.
+- Serve cold straight from the fridge in tall glasses. A slice of lemon or a sprig of mint is optional. Outdoors on a hot day with rye-bread sandwiches and a bowl of cold beetroot soup is the right setting.
 
 ## Storage
 - Keeps 1 week refrigerated; flavour deepens then turns vinegary

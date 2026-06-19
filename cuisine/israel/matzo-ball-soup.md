@@ -73,7 +73,7 @@ Matzo ball soup is the Jewish-American comfort dish, light fluffy matzo dumpling
 - The broth can be made a day ahead and the matzo mix overnight; that splits the workload across two evenings.
 
 ## Serving
-At the start of the seder meal in shallow bowls. A wedge of lemon on the side is optional but bright.
+- At the start of the seder meal in shallow bowls. A wedge of lemon on the side is optional but bright.
 
 ## Storage
 Broth keeps 4 days in the fridge, 3 months in the freezer. Cooked matzo balls keep in a covered container in the fridge for 3 days; warm them gently in fresh broth.

@@ -61,7 +61,7 @@
 - **The scotch bonnet:** Adjust to taste. Saint Lucian home cooks usually go medium - a quarter to a half of a small scotch bonnet for 4 portions.
 
 ## Serving
-Serve hot for Sunday breakfast (the traditional time) with a side of fried plantain and a strong cup of cocoa tea. Lime wedges for cutting through.
+- Serve hot for Sunday breakfast (the traditional time) with a side of fried plantain and a strong cup of cocoa tea. Lime wedges for cutting through.
 
 ## Storage
 - Refrigerate 3 days; reheat gently in a pan with a splash of water.

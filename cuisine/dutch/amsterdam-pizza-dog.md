@@ -92,14 +92,14 @@ The Amsterdam pizza dog is one of the newer and more polarising entries in the i
 - **Watch closely under the grill:** the cheese burns quickly.
 
 ## Variations
-**Quattro formaggi pizza dog:** swap mozzarella for a four-cheese blend (mozzarella + Gorgonzola + Parmesan + provolone).
-**Meat lover's:** add pepperoni + sausage crumbles + ham.
-**Margherita-style:** add fresh sliced tomato + fresh basil + bocconcini (less cheese, more freshness).
-**Spicy:** add chopped jalapeños or a generous sprinkle of chilli flakes.
-**Pesto pizza dog:** swap the tomato sauce for basil pesto (less traditional but excellent).
+- **Quattro formaggi pizza dog:** swap mozzarella for a four-cheese blend (mozzarella + Gorgonzola + Parmesan + provolone).
+- **Meat lover's:** add pepperoni + sausage crumbles + ham.
+- **Margherita-style:** add fresh sliced tomato + fresh basil + bocconcini (less cheese, more freshness).
+- **Spicy:** add chopped jalapeños or a generous sprinkle of chilli flakes.
+- **Pesto pizza dog:** swap the tomato sauce for basil pesto (less traditional but excellent).
 
 ## Serving
-At a late-night Amsterdam kiosk after the bars; at a FEBO automaat in the small hours; at home as a comfort-food indulgence with cold beer.
+- At a late-night Amsterdam kiosk after the bars; at a FEBO automaat in the small hours; at home as a comfort-food indulgence with cold beer.
 
 ## Storage
 - Pizza sauce refrigerates 1 week; freezes 3 months.

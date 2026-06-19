@@ -61,7 +61,7 @@ Tod mun pla is Thailand's small chilli-tinted fish cake, minced fish blended wit
 - Egg is optional for sponginess.
 
 ## Serving
-Serve hot with sweet chilli sauce, Thai seafood dipping sauce and/or cucumber and chilli relish.
+- Serve hot with sweet chilli sauce, Thai seafood dipping sauce and/or cucumber and chilli relish.
 
 ## Storage
 - Best served immediately; can be kept warm for 10 mins. Refrigerate leftovers for 1 day.

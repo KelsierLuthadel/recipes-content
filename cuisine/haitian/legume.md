@@ -99,12 +99,12 @@ Legume is Haiti's mixed-vegetable Sunday stew, the dish that turns up on every H
 - **Crab version is brilliant in summer:** when crab is in season, the crab version is a celebration dish. Use picked white crab meat (not shredded sticks) added in the last 5 minutes so it doesn't toughen.
 
 ## Variations
-**Legume kribich (with shrimp):** swap beef for 400 g of large peeled prawns added in the last 5 minutes; quick weeknight version.
-**Vegetarian legume:** skip the meat entirely; the vegetables and epis carry the dish. Add 200 g of pumpkin and a small can of butter beans for protein and body.
-**Lalo legume:** add 200 g of finely shredded jute leaves (lalo, the slightly slippery green) at the same stage as the cabbage; the lalo adds a distinctive mucilaginous texture that's loved in Haitian cooking. Lalo is found in West African and Caribbean grocers.
+- **Legume kribich (with shrimp):** swap beef for 400 g of large peeled prawns added in the last 5 minutes; quick weeknight version.
+- **Vegetarian legume:** skip the meat entirely; the vegetables and epis carry the dish. Add 200 g of pumpkin and a small can of butter beans for protein and body.
+- **Lalo legume:** add 200 g of finely shredded jute leaves (lalo, the slightly slippery green) at the same stage as the cabbage; the lalo adds a distinctive mucilaginous texture that's loved in Haitian cooking. Lalo is found in West African and Caribbean grocers.
 
 ## Serving
-Spooned over hot rice or rice and beans, with a generous mound of pikliz alongside. The pikliz is non-negotiable; its sharp pickled cabbage and chilli is the crucial acidic counter to the rich slow-cooked legume. A glass of cremas (Haitian rum-and-coconut drink) for a celebration meal, or cold water and lime for everyday.
+- Spooned over hot rice or rice and beans, with a generous mound of pikliz alongside. The pikliz is non-negotiable; its sharp pickled cabbage and chilli is the crucial acidic counter to the rich slow-cooked legume. A glass of cremas (Haitian rum-and-coconut drink) for a celebration meal, or cold water and lime for everyday.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens significantly. Day-after legume is genuinely better than day-of.

@@ -100,13 +100,13 @@ Matapa com castanha is one of Mozambique's most distinctive dishes and a Zambezi
 - **The dried shrimp gives umami:** small dried shrimp (available at Asian and African markets) gives a savoury depth. Vegetarians can skip and add 1 tablespoon of soy sauce or miso instead.
 
 ## Variations
-**Matapa with prawns (matapa de camarão):** add 200 g of cooked peeled prawns in the last 5 minutes of cooking; gives a luxurious version common at coastal restaurants.
-**Vegetarian matapa:** skip the dried shrimp and fish sauce; replace with 1 tablespoon of miso paste or 2 tablespoons of soy sauce for umami. Add 100 g of chopped mushrooms with the aromatics.
-**Matapa with peanut butter:** add 2 tablespoons of unsweetened peanut butter alongside the cashew paste; gives a richer nuttier version. Common variation.
-**Matapa de feijão (with beans):** add 200 g of cooked white beans or chickpeas to the dish; turns it into a more substantial main course.
+- **Matapa with prawns (matapa de camarão):** add 200 g of cooked peeled prawns in the last 5 minutes of cooking; gives a luxurious version common at coastal restaurants.
+- **Vegetarian matapa:** skip the dried shrimp and fish sauce; replace with 1 tablespoon of miso paste or 2 tablespoons of soy sauce for umami. Add 100 g of chopped mushrooms with the aromatics.
+- **Matapa with peanut butter:** add 2 tablespoons of unsweetened peanut butter alongside the cashew paste; gives a richer nuttier version. Common variation.
+- **Matapa de feijão (with beans):** add 200 g of cooked white beans or chickpeas to the dish; turns it into a more substantial main course.
 
 ## Serving
-As a side alongside arroz de coco, grilled fish, frango piri-piri or matata. As a main with rice and a fried egg on top (a common Mozambican home-cook serving). Drink: 2M or Laurentina beer, or vinho verde for the more upscale version.
+- As a side alongside arroz de coco, grilled fish, frango piri-piri or matata. As a main with rice and a fried egg on top (a common Mozambican home-cook serving). Drink: 2M or Laurentina beer, or vinho verde for the more upscale version.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

@@ -58,7 +58,7 @@ Solbær-toddy ("blackcurrant toddy") is the Norwegian children's-and-adults' hot
 - **Lemon and cinnamon are not optional:** They're what turn fruit juice into "toddy". A toddy without the citrus and spice is just hot fruit juice.
 
 ## Serving
-The non-alcoholic answer to gløgg or vin chaud. Serve at outdoor winter events, after sledding, at Christmas market visits, after a winter walk in the dark. With a piece of pepperkaker (Norwegian gingerbread) on the side.
+- The non-alcoholic answer to gløgg or vin chaud. Serve at outdoor winter events, after sledding, at Christmas market visits, after a winter walk in the dark. With a piece of pepperkaker (Norwegian gingerbread) on the side.
 
 ## Storage
 - Cordial refrigerates 3 months in a sterilised sealed bottle.

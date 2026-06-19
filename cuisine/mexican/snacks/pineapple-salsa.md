@@ -84,17 +84,17 @@ Pineapple salsa bridges sweet tropical fruit with heat and umami. The key techni
 - **Warm Service:** This salsa develops its full flavor profile only when served warm; chilled version becomes dull and pineapple hardens.
 
 ## Variations
-**Extra Heat:** Add 1 additional whole red chilli (seeds included) for significantly more heat.
-**Mango Combination:** Substitute 150 grams mango for 150 grams pineapple for different fruit character.
-**With Habanero:** Replace red chilli with ¼ habanero for seriously hot, fruity heat (be cautious; habanero is very hot).
-**Mint Instead of Coriander:** Use fresh mint leaves for different herbaceous character (less pungent, more cooling).
-**With Fish Sauce:** Add ½ teaspoon fish sauce alongside sambal for deeper umami (Vietnamese approach).
+- **Extra Heat:** Add 1 additional whole red chilli (seeds included) for significantly more heat.
+- **Mango Combination:** Substitute 150 grams mango for 150 grams pineapple for different fruit character.
+- **With Habanero:** Replace red chilli with ¼ habanero for seriously hot, fruity heat (be cautious; habanero is very hot).
+- **Mint Instead of Coriander:** Use fresh mint leaves for different herbaceous character (less pungent, more cooling).
+- **With Fish Sauce:** Add ½ teaspoon fish sauce alongside sambal for deeper umami (Vietnamese approach).
 
 ## Serving
-Perfect with: Grilled pork ribs, sausages, duck breast, grilled swordfish or firm fish, barbequed chicken, smoky meats, spicy rice, crispy spring rolls
-Temperature: Warm (approximately 40-50°C at service)
-Ratio: 2-3 tablespoons per serving
-Context: Barbecue accompaniment, grilled fish pairing, Southeast Asian-inspired dishes
+- Perfect with: Grilled pork ribs, sausages, duck breast, grilled swordfish or firm fish, barbequed chicken, smoky meats, spicy rice, crispy spring rolls
+- Temperature: Warm (approximately 40-50°C at service)
+- Ratio: 2-3 tablespoons per serving
+- Context: Barbecue accompaniment, grilled fish pairing, Southeast Asian-inspired dishes
 
 ## Storage
 - Serve immediately or within 15-20 minutes of final preparation (coriander freshness is paramount).

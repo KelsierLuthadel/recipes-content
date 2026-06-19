@@ -90,16 +90,16 @@ Orange marzipan is the building block for the smooth covering layer on English-t
 - **Work Quickly:** Kneading develops the almond oils; work efficiently to avoid overly soft marzipan.
 
 ## Variations
-**Classic Marzipan (No Orange):** Omit orange zest and juice; use 1-2 drops of almond extract instead.
-**Lemon Version:** Replace orange zest with lemon zest and a few drops of lemon juice.
-**Rosewater:** Omit fruit zest; add 1 teaspoon rosewater to the egg mixture.
-**Thicker Layer:** Use all 500g for a more substantial protective layer on large tiered cakes.
+- **Classic Marzipan (No Orange):** Omit orange zest and juice; use 1-2 drops of almond extract instead.
+- **Lemon Version:** Replace orange zest with lemon zest and a few drops of lemon juice.
+- **Rosewater:** Omit fruit zest; add 1 teaspoon rosewater to the egg mixture.
+- **Thicker Layer:** Use all 500g for a more substantial protective layer on large tiered cakes.
 
 ## Serving
-Use for: Cake coating (particularly fruitcakes, wedding cakes, Christmas cakes), marzipan sweets, modeling into shapes
-Best on: Dense fruitcakes, sponges, Italian panettone
-Temperature: Room temperature
-Application: Under royal icing typically, or as a finished coating on its own
+- Use for: Cake coating (particularly fruitcakes, wedding cakes, Christmas cakes), marzipan sweets, modeling into shapes
+- Best on: Dense fruitcakes, sponges, Italian panettone
+- Temperature: Room temperature
+- Application: Under royal icing typically, or as a finished coating on its own
 
 ## Storage
 - Wrapped in cling film, keeps at room temperature for up to 1 week

@@ -62,7 +62,7 @@ Bircher müesli is the dish Dr Maximilian Bircher-Benner invented around 1900 at
 - **Don't skip the nuts:** Bircher's original recipe was specifically about hazelnuts for their nutritional density. A nut-free version loses the texture and richness.
 
 ## Serving
-Serve at breakfast or as a light dessert after a heavy meal. At the sanatorium the original was served as the starter to a meal, before any cooked dishes.
+- Serve at breakfast or as a light dessert after a heavy meal. At the sanatorium the original was served as the starter to a meal, before any cooked dishes.
 
 ## Storage
 - Refrigerates 3 days; the texture thickens further over time - loosen with milk or yoghurt.

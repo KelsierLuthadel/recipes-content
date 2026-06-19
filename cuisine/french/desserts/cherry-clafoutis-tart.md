@@ -64,7 +64,7 @@ This is the tart version of cherry clafoutis, a crisp pâte brisée shell holdin
 - Let the clafoutis rest briefly before slicing so the filling finishes setting.
 
 ## Serving
-Serve the clafoutis warm, dusted with icing sugar, for the creamiest texture. It pairs well with whipped cream, crème fraîche, or a scoop of vanilla ice cream.
+- Serve the clafoutis warm, dusted with icing sugar, for the creamiest texture. It pairs well with whipped cream, crème fraîche, or a scoop of vanilla ice cream.
 
 ## Storage
 Store any leftovers in the refrigerator for up to 2 days, covered. Reheat gently in a low oven or enjoy cold; freezing is not recommended because the custard texture softens.

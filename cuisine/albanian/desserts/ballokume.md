@@ -77,14 +77,14 @@ Ballokume is the festival cookie of Elbasan, a small Albanian city in the centra
 - **Don't over-mix:** once the cornmeal and flour go in, the dough wants gentle folding, not vigorous beating.
 
 ## Variations
-**Walnut ballokume:** stir 50 g finely chopped walnuts into the dough before shaping.
-**Lemon ballokume:** add the zest of 1 lemon with the egg yolks.
-**Half-sized:** roll into 12 g balls for bite-sized cookies; reduce the bake time to 14 minutes.
-**With orange-flower water:** add 1 teaspoon orange-flower water to the dough for a wedding-day version.
-**Gluten-free:** swap the 100 g plain flour for a 1:1 gluten-free flour blend (the cookie still works because cornmeal carries the structure).
+- **Walnut ballokume:** stir 50 g finely chopped walnuts into the dough before shaping.
+- **Lemon ballokume:** add the zest of 1 lemon with the egg yolks.
+- **Half-sized:** roll into 12 g balls for bite-sized cookies; reduce the bake time to 14 minutes.
+- **With orange-flower water:** add 1 teaspoon orange-flower water to the dough for a wedding-day version.
+- **Gluten-free:** swap the 100 g plain flour for a 1:1 gluten-free flour blend (the cookie still works because cornmeal carries the structure).
 
 ## Serving
-For Dita e Verës (the 14th of March, the Albanian Summer Day, the traditional setting) · at an Elbasan family table the morning after baking · with Albanian coffee (kafe turke) · in a tin offered to visiting neighbours · as a wedding-gift sweet · alongside a glass of cold milk for the children.
+- For Dita e Verës (the 14th of March, the Albanian Summer Day, the traditional setting) · at an Elbasan family table the morning after baking · with Albanian coffee (kafe turke) · in a tin offered to visiting neighbours · as a wedding-gift sweet · alongside a glass of cold milk for the children.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature.

@@ -102,7 +102,7 @@ The wet-style mutton counterpart to the drier, slow-bhuna kosha mangsho, and the
 - **Heat level.** The slit green chillies infuse without overwhelming. For a hotter dish, double them or leave one whole in the bowl as a marker.
 
 ## Serving
-Serve with steamed long-grain rice, a wedge of lime, and either a dal or a simple cucumber salad on the side. Many Bengali households eat this with a single plain roti to mop up the last of the gravy.
+- Serve with steamed long-grain rice, a wedge of lime, and either a dal or a simple cucumber salad on the side. Many Bengali households eat this with a single plain roti to mop up the last of the gravy.
 
 ## Storage
 - Refrigerate up to 3 days. The flavour improves overnight, many cooks consider day-two jhol better than the day it was made.

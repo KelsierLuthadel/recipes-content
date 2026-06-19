@@ -73,12 +73,12 @@ Navarin d'agneau is the French spring lamb stew, the dish that uses three cuts o
 - **Fat Removal:** The ice-water method gently removes surface fat without disturbing the carefully built sauce.
 
 ## Variations
-**Spring Navarin:** Add fresh peas, spring carrots, and turnips in the final 10 minutes for a lighter, seasonal version.
-**With Haricot Beans:** Replace potatoes with 350g soaked haricot beans added with the potatoes for heartier texture.
+- **Spring Navarin:** Add fresh peas, spring carrots, and turnips in the final 10 minutes for a lighter, seasonal version.
+- **With Haricot Beans:** Replace potatoes with 350g soaked haricot beans added with the potatoes for heartier texture.
 
 ## Serving
-Serve with: Crusty bread, boiled rice, or more potatoes
-Garnish with: Fresh flat-leaf parsley and chervil
+- Serve with: Crusty bread, boiled rice, or more potatoes
+- Garnish with: Fresh flat-leaf parsley and chervil
 
 ## Storage
 - Keeps 4-5 days refrigerated

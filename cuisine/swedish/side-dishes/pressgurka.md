@@ -73,14 +73,14 @@ Pressgurka (literally "pressed cucumber") is the traditional Swedish cucumber pi
 - **Masses of dill:** Swedish recipes use much more dill than you'd expect. Don't be shy.
 
 ## Variations
-**With red onion:** add paper-thin slices of red onion to the press; turns the salad pink.
-**With mustard seeds:** add 1 teaspoon yellow mustard seeds to the brine for a Senap-style pressgurka.
-**Spicier:** add a pinch of cayenne or chopped fresh chilli (less traditional, more modern).
-**Sweeter:** increase the sugar slightly for a Swedish-Christmas-style sweeter pickle.
-**Quick version:** skip the pressing step (just salt the slices, rest 5 minutes, then dress); a less traditional but quicker version.
+- **With red onion:** add paper-thin slices of red onion to the press; turns the salad pink.
+- **With mustard seeds:** add 1 teaspoon yellow mustard seeds to the brine for a Senap-style pressgurka.
+- **Spicier:** add a pinch of cayenne or chopped fresh chilli (less traditional, more modern).
+- **Sweeter:** increase the sugar slightly for a Swedish-Christmas-style sweeter pickle.
+- **Quick version:** skip the pressing step (just salt the slices, rest 5 minutes, then dress); a less traditional but quicker version.
 
 ## Serving
-Alongside Swedish meatballs (the traditional pairing) · alongside roast beef · alongside gravlax or pickled herring on the smörgåsbord · alongside jansson's temptation · at a Midsommar buffet · at a Swedish Christmas julbord.
+- Alongside Swedish meatballs (the traditional pairing) · alongside roast beef · alongside gravlax or pickled herring on the smörgåsbord · alongside jansson's temptation · at a Midsommar buffet · at a Swedish Christmas julbord.
 
 ## Storage
 - Refrigerates 4-5 days; flavour deepens over the first 2-3 days then plateaus.

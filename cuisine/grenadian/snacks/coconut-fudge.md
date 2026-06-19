@@ -64,14 +64,14 @@ Coconut fudge is the heavier richer cousin of sugar cake: where sugar cake is we
 - **Beat after the heat is off:** the brief beating makes the grain finer and the fudge less sticky.
 
 ## Variations
-**Plain coconut:** skip the ginger and cinnamon for a pure coconut-nutmeg version.
-**With raisins:** stir in 80 g raisins at the end of cooking.
-**With rum:** add 1 tablespoon of dark rum with the vanilla.
-**Chocolate coconut:** stir in 50 g chopped dark chocolate as the mixture comes off the heat.
-**With chopped nuts:** add 60 g chopped roasted almonds or peanuts with the coconut.
+- **Plain coconut:** skip the ginger and cinnamon for a pure coconut-nutmeg version.
+- **With raisins:** stir in 80 g raisins at the end of cooking.
+- **With rum:** add 1 tablespoon of dark rum with the vanilla.
+- **Chocolate coconut:** stir in 50 g chopped dark chocolate as the mixture comes off the heat.
+- **With chopped nuts:** add 60 g chopped roasted almonds or peanuts with the coconut.
 
 ## Serving
-With afternoon tea · cut small and packed as a gift · with a strong black coffee · at Sunday lunch · sliced thin alongside vanilla ice cream.
+- With afternoon tea · cut small and packed as a gift · with a strong black coffee · at Sunday lunch · sliced thin alongside vanilla ice cream.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature.

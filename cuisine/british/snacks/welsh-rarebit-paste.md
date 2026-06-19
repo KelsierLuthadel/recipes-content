@@ -43,9 +43,9 @@ The make-ahead version of Welsh rarebit, the British grilled cheese-on-toast in 
 - **Application tips:** Spread generously over buttered toast or scored fish, then grill until golden and bubbling.
 
 ## Serving
-Serve with: Buttered toast, smoked haddock, or steamed vegetables
-Garnish with: Paprika, fresh parsley, or minced fresh chives
-Accompaniment: Crisp salad and crusty bread
+- Serve with: Buttered toast, smoked haddock, or steamed vegetables
+- Garnish with: Paprika, fresh parsley, or minced fresh chives
+- Accompaniment: Crisp salad and crusty bread
 
 ## Storage
 - Keeps 3-4 days refrigerated in an airtight container

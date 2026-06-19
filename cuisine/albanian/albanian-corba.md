@@ -82,7 +82,7 @@ Corba (the Ottoman word for soup, kept across the Balkans) covers a family of sl
 - **Vegetarian:** make the broth with mushroom, onion, carrot and celery; skip the chicken and finish with cooked white beans.
 
 ## Serving
-Deep warm bowls · lemon wedges on the side · warm cornbread or crusty bread · a small dish of chilli flakes for those who want heat · the bowl as the main course at the family Sunday lunch.
+- Deep warm bowls · lemon wedges on the side · warm cornbread or crusty bread · a small dish of chilli flakes for those who want heat · the bowl as the main course at the family Sunday lunch.
 
 ## Storage
 - Keeps 3 days refrigerated; the broth gels and clears further overnight

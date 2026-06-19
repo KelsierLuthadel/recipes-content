@@ -56,7 +56,7 @@ Mahalabia is the Gulf and Levantine milk pudding, made with whole milk, sugar an
 - **Set firmness:** Aim for just-set, soft enough to take a spoon without resistance. If it's wobbling, it's right.
 
 ## Serving
-Cold, in small bowls, with Arabic coffee or karak chai.
+- Cold, in small bowls, with Arabic coffee or karak chai.
 
 ## Storage
 - Refrigerate 3 days covered

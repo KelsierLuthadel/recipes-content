@@ -105,14 +105,14 @@ Cappelletti in brodo is the festive winter dish of San Marino, Romagna and the b
 - **Cook in the broth, not water:** the pasta starches into the broth and thickens it slightly; cooking separately gives a less integrated bowl.
 
 ## Variations
-**Tortellini in brodo:** the smaller Bolognese cousin uses the same broth and a denser meat filling (mortadella + prosciutto + pork loin + parmigiano).
-**Cappelletti al ragù:** drain the cooked cappelletti from the broth and toss with Bolognese ragù instead of serving in broth.
-**Cappelletti col tartufo:** shave a few slivers of black truffle over each bowl in winter; a Sangiovese-corner luxury.
-**Vegetarian cappelletti:** swap the mortadella for 100 g sautéed spinach and an extra 50 g parmigiano in the filling.
-**Beef-bone broth version:** use beef brisket and shin instead of capon for a richer, darker bowl (Romagnolo Christmas variation).
+- **Tortellini in brodo:** the smaller Bolognese cousin uses the same broth and a denser meat filling (mortadella + prosciutto + pork loin + parmigiano).
+- **Cappelletti al ragù:** drain the cooked cappelletti from the broth and toss with Bolognese ragù instead of serving in broth.
+- **Cappelletti col tartufo:** shave a few slivers of black truffle over each bowl in winter; a Sangiovese-corner luxury.
+- **Vegetarian cappelletti:** swap the mortadella for 100 g sautéed spinach and an extra 50 g parmigiano in the filling.
+- **Beef-bone broth version:** use beef brisket and shin instead of capon for a richer, darker bowl (Romagnolo Christmas variation).
 
 ## Serving
-At a San Marinese New Year's Day lunch (the traditional setting) · at a Christmas Eve table in the Republic · at a Romagnolo wedding banquet · on a winter Sunday in Rimini or Cesena · with a chilled glass of Albana di Romagna · followed by stracotto sanmarinese as the second course.
+- At a San Marinese New Year's Day lunch (the traditional setting) · at a Christmas Eve table in the Republic · at a Romagnolo wedding banquet · on a winter Sunday in Rimini or Cesena · with a chilled glass of Albana di Romagna · followed by stracotto sanmarinese as the second course.
 
 ## Storage
 - The filled raw cappelletti freeze well 1 month on a tray; bag once solid; cook from frozen by dropping into simmering broth (add 1 minute to cooking time).

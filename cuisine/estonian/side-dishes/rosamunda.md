@@ -51,7 +51,7 @@ Rosamunda is the cabbage-and-carrot vinegar slaw that turns up on the side of ev
 - **Variations:** A grated apple, a handful of cranberries or a few caraway seeds are all common additions; the version above is the standard canteen recipe.
 
 ## Serving
-Serve cold as a side to schnitzel, fried fish, pan-fried sausages, roast pork or potato dishes. Also good piled into a rye-bread sandwich with cold ham.
+- Serve cold as a side to schnitzel, fried fish, pan-fried sausages, roast pork or potato dishes. Also good piled into a rye-bread sandwich with cold ham.
 
 ## Storage
 - Keeps 5 days refrigerated, sealed

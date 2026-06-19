@@ -46,7 +46,7 @@ Sauce Périgueux is the building block for the showpiece truffle sauce that elev
 - **Timing:** Prepare just before serving; hold briefly over gentle heat to maintain warmth without overcooking.
 
 ## Serving
-Serve immediately with beef tournedos, pan-fried saddle of lamb, hot pâté en croûte, or pasta. A small spoonful is sufficient given the rich flavor.
+- Serve immediately with beef tournedos, pan-fried saddle of lamb, hot pâté en croûte, or pasta. A small spoonful is sufficient given the rich flavor.
 
 ## Storage
 - Best eaten immediately after preparation (truffles lose nuance upon standing).

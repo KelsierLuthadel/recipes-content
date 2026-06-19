@@ -77,12 +77,12 @@ Green chile stew (or "carne verde" in Spanish-Southwest vernacular) is the iconi
 - **Mash some potato to thicken.**
 
 ## Variations
-**With chicken:** swap pork for chicken thigh.
-**Vegetarian:** skip pork; use 600 g extra potato + 1 tin pinto beans + vegetable stock.
-**Spicier:** include hot Hatch chillies; add 2 fresh habaneros.
+- **With chicken:** swap pork for chicken thigh.
+- **Vegetarian:** skip pork; use 600 g extra potato + 1 tin pinto beans + vegetable stock.
+- **Spicier:** include hot Hatch chillies; add 2 fresh habaneros.
 
 ## Serving
-With flour tortillas, cheese, sour cream. Drink: cold beer or sweet tea.
+- With flour tortillas, cheese, sour cream. Drink: cold beer or sweet tea.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

@@ -59,7 +59,7 @@ Peach chutney is the building block for the summer cheese-board preserve, the je
 - **Almonds:** Flaked almonds add textural contrast and subtle flavour; they soften but remain distinct during cooking.
 
 ## Serving
-Serve with terrines, pâté, cold roasted poultry, and game. Also excellent alongside mature cheeses on a charcuterie board.
+- Serve with terrines, pâté, cold roasted poultry, and game. Also excellent alongside mature cheeses on a charcuterie board.
 
 ## Storage
 - Keeps refrigerated for up to 3 weeks in sealed jars.

@@ -59,13 +59,13 @@ Ensalada Cubana is Cuba's simple table salad and the traditional accompaniment t
 - **Adjust the onion to taste:** assertive raw onion or mild soaked onion; both are valid.
 
 ## Variations
-**With white cheese:** crumble 100 g of queso fresco (or feta) over the top; gives extra creaminess and salt.
-**With watercress:** add a small handful of watercress; gives peppery bite.
-**With chayote:** add thin slices of raw chayote (christophine) for crunch; common Cuban variation.
-**Pineapple-cabbage version:** swap cucumber for shredded cabbage and add fresh pineapple chunks; gives a fruitier Cuban variation.
+- **With white cheese:** crumble 100 g of queso fresco (or feta) over the top; gives extra creaminess and salt.
+- **With watercress:** add a small handful of watercress; gives peppery bite.
+- **With chayote:** add thin slices of raw chayote (christophine) for crunch; common Cuban variation.
+- **Pineapple-cabbage version:** swap cucumber for shredded cabbage and add fresh pineapple chunks; gives a fruitier Cuban variation.
 
 ## Serving
-On a wide platter at the centre of the Cuban table alongside the main course (lechón asado, ropa vieja, picadillo). Drink: water with lime, Cristal beer, or mojito.
+- On a wide platter at the centre of the Cuban table alongside the main course (lechón asado, ropa vieja, picadillo). Drink: water with lime, Cristal beer, or mojito.
 
 ## Storage
 - Best eaten immediately; the salad goes off-texture quickly once dressed.

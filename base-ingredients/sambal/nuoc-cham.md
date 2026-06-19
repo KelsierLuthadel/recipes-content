@@ -83,18 +83,18 @@ Nuoc cham is the foundation of Vietnamese seasoning, the dipping sauce that turn
 - **Consistency Important:** Nuoc cham should be pourable, not thick, it's a sauce to dip into and spoon over, not a paste.
 
 ## Variations
-**Extra Spicy:** Use 3-4 chillies with all seeds and membranes intact; add pinch of white pepper.
-**Milder Heat:** Use 1 chilli; remove all seeds and white membrane.
-**Sweeter Version:** Add 2-2 ½ tablespoons sugar instead of 1 ½ for sweetness balancing heat.
-**Less Fish Sauce:** Use 2 ½ tablespoons if the umami intensity seems overwhelming (build from here).
-**With Shallots:** Add 1 finely minced shallot (optional, non-traditional but flavorful).
-**Extra Fresh:** Add 1 tablespoon finely chopped fresh mint or fresh coriander for herbal brightness.
+- **Extra Spicy:** Use 3-4 chillies with all seeds and membranes intact; add pinch of white pepper.
+- **Milder Heat:** Use 1 chilli; remove all seeds and white membrane.
+- **Sweeter Version:** Add 2-2 ½ tablespoons sugar instead of 1 ½ for sweetness balancing heat.
+- **Less Fish Sauce:** Use 2 ½ tablespoons if the umami intensity seems overwhelming (build from here).
+- **With Shallots:** Add 1 finely minced shallot (optional, non-traditional but flavorful).
+- **Extra Fresh:** Add 1 tablespoon finely chopped fresh mint or fresh coriander for herbal brightness.
 
 ## Serving
-Use in: Rice dish condiment, noodle soup topping, vegetable dip, grilled meat accompaniment, spring roll dip
-Typical ratio: 1-2 tablespoons per serving, adjusted individually for heat tolerance
-Temperature: Served at room temperature, typically in small individual bowls for dipping
-Application: Spooned onto plates alongside rice; diners add to taste; used as dipping for spring rolls and vegetables
+- Use in: Rice dish condiment, noodle soup topping, vegetable dip, grilled meat accompaniment, spring roll dip
+- Typical ratio: 1-2 tablespoons per serving, adjusted individually for heat tolerance
+- Temperature: Served at room temperature, typically in small individual bowls for dipping
+- Application: Spooned onto plates alongside rice; diners add to taste; used as dipping for spring rolls and vegetables
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days

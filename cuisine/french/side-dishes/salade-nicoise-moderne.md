@@ -78,7 +78,7 @@ This is the modern bistro version of salade niçoise, the Provençal salad rewor
 - **Anchovy fillets:** Good quality makes a difference; choose ones packed in oil rather than salt.
 
 ## Serving
-Serve immediately while tuna is still warm and croutons are crispy.
+- Serve immediately while tuna is still warm and croutons are crispy.
 
 ## Storage
 - Best eaten fresh; do not prepare ahead.

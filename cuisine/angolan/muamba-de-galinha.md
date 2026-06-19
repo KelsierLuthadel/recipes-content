@@ -64,7 +64,7 @@ Muamba de galinha is the national dish of Angola and the centrepiece of every fa
 - **Bone-in chicken:** Boneless breast goes dry in this stew. Thighs and drumsticks on the bone hold up to the long simmer and give the sauce body.
 
 ## Serving
-Always with funje (cassava porridge) or white rice. A small bowl of jindungo (Angolan chilli sauce) on the side, lime wedges, and a fresh tomato-and-onion salad for cutting through the richness.
+- Always with funje (cassava porridge) or white rice. A small bowl of jindungo (Angolan chilli sauce) on the side, lime wedges, and a fresh tomato-and-onion salad for cutting through the richness.
 
 ## Storage
 - Keeps 3 days refrigerated; the flavour deepens overnight.

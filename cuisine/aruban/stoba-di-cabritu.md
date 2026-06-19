@@ -86,15 +86,15 @@ Stoba di cabritu is the workhorse of the Aruban kitchen, a slow-simmered goat st
 - **Rest the pot before serving:** 15 minutes off the heat lets the gravy thicken and the flavours settle.
 
 ## Variations
-**Stoba di carni:** swap goat for diced stewing beef, the most common everyday version.
-**Stoba di galina:** chicken thighs in place of goat, simmered for 45 minutes only.
-**Stoba di yuana:** the rare traditional iguana stew, prepared the same way (now uncommon).
-**Stoba di concomber:** add 400 g cubed Caribbean cucumber-squash 30 minutes before the end.
-**Spicier stoba:** add a whole pricked Madame Jeanette pepper and remove before serving.
-**Slow-cooker stoba:** brown the goat then transfer everything to a slow cooker on low for 6 hours.
+- **Stoba di carni:** swap goat for diced stewing beef, the most common everyday version.
+- **Stoba di galina:** chicken thighs in place of goat, simmered for 45 minutes only.
+- **Stoba di yuana:** the rare traditional iguana stew, prepared the same way (now uncommon).
+- **Stoba di concomber:** add 400 g cubed Caribbean cucumber-squash 30 minutes before the end.
+- **Spicier stoba:** add a whole pricked Madame Jeanette pepper and remove before serving.
+- **Slow-cooker stoba:** brown the goat then transfer everything to a slow cooker on low for 6 hours.
 
 ## Serving
-At an Aruban Sunday family lunch · for Dande (Aruban New Year street singing) · at a beach BBQ at Baby Beach · paired with funchi, pan bati or steamed white rice · with stewed black beans alongside · with a wedge of lime · with a cold Balashi lager.
+- At an Aruban Sunday family lunch · for Dande (Aruban New Year street singing) · at a beach BBQ at Baby Beach · paired with funchi, pan bati or steamed white rice · with stewed black beans alongside · with a wedge of lime · with a cold Balashi lager.
 
 ## Storage
 - Refrigerates 4 days; reheats well and the flavour deepens on day two.

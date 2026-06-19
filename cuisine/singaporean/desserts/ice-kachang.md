@@ -65,7 +65,7 @@ Ice kachang ("kachang" means "beans" in Malay) is the rainbow-coloured shaved-ic
 - **The drizzle:** Don't be shy with the syrups. Singapore ice kachang is meant to be excessive - bright pink, sticky-sweet, dripping condensed milk. Restraint defeats the point.
 
 ## Serving
-Serve in tall sundae bowls. Eat with a long spoon, mixing the ice down into the syrupy beans-and-corn base. A long pull of cold water on the side.
+- Serve in tall sundae bowls. Eat with a long spoon, mixing the ice down into the syrupy beans-and-corn base. A long pull of cold water on the side.
 
 ## Storage
 - Eat immediately - the ice melts within 10 minutes.

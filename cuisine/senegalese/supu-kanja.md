@@ -106,13 +106,13 @@ Supu kanja (also soupou kandja or soupkanja) is the Wolof okra stew eaten across
 - **Nététou is the Senegalese MSG:** fermented locust bean is the secret umami ingredient that adds the proper savoury depth. Available at West African grocers; expensive but a small amount lasts a long time. The substitute (soy sauce + miso) approximates the umami if you can't find the real thing.
 
 ## Variations
-**Supu kanja with meat:** add 200 g of diced beef brisket or smoked beef to the aromatic base at the start; the meat gives extra depth but the smoked fish character can dominate, so use sparingly.
-**Supu kanja sans fish:** vegetarian version is rare but possible; use vegetable stock instead of fish stock, double the nététou or miso, and add extra smoked paprika and a Parmesan rind for umami. Not authentic but workable.
-**Casamance version:** in the Casamance region of southern Senegal, the dish often includes hibiscus leaves (bissap) and a more generous handful of fresh chilli; brighter and hotter than the northern Wolof version.
-**Gambian version:** Gambian cooks often add a generous amount of dried bay leaf and an additional tablespoon of palm oil; slightly heavier and oilier.
+- **Supu kanja with meat:** add 200 g of diced beef brisket or smoked beef to the aromatic base at the start; the meat gives extra depth but the smoked fish character can dominate, so use sparingly.
+- **Supu kanja sans fish:** vegetarian version is rare but possible; use vegetable stock instead of fish stock, double the nététou or miso, and add extra smoked paprika and a Parmesan rind for umami. Not authentic but workable.
+- **Casamance version:** in the Casamance region of southern Senegal, the dish often includes hibiscus leaves (bissap) and a more generous handful of fresh chilli; brighter and hotter than the northern Wolof version.
+- **Gambian version:** Gambian cooks often add a generous amount of dried bay leaf and an additional tablespoon of palm oil; slightly heavier and oilier.
 
 ## Serving
-Over thiéré (millet couscous) or plain boiled rice, in deep bowls, eaten with a fork and a spoon. The sauce is the point; ladle generously. Drink: bissap (hibiscus drink), bouye (baobab drink), or cold ginger drink.
+- Over thiéré (millet couscous) or plain boiled rice, in deep bowls, eaten with a fork and a spoon. The sauce is the point; ladle generously. Drink: bissap (hibiscus drink), bouye (baobab drink), or cold ginger drink.
 
 ## Storage
 - Keeps refrigerated 3 days. The flavour deepens overnight; day-after supu kanja is excellent.

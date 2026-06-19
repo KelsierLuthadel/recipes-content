@@ -61,12 +61,12 @@ The California burrito was invented in San Diego in the 1980s, when local taquer
 - **Carne asada is non-negotiable:** Chicken, pork or beans don't work the same way; the steak's char and the fries are the textural pair.
 
 ## Variations
-**Surf and turf:** Add grilled prawns alongside the carne asada.
-**Vegetarian:** Skip the steak, double the cheese, add black beans.
-**Spicy:** Add chopped jalapeños or a generous slug of salsa habanero.
+- **Surf and turf:** Add grilled prawns alongside the carne asada.
+- **Vegetarian:** Skip the steak, double the cheese, add black beans.
+- **Spicy:** Add chopped jalapeños or a generous slug of salsa habanero.
 
 ## Serving
-Serve hot, ideally late at night after a beach day. Hot sauce, lime wedges and a Mexican Coke on the side.
+- Serve hot, ideally late at night after a beach day. Hot sauce, lime wedges and a Mexican Coke on the side.
 
 ## Storage
 - Carne asada keeps 3 days refrigerated

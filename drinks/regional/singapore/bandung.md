@@ -45,7 +45,7 @@ Bandung is the Malay drink that turns up at every wedding, Eid celebration, and 
 - **Basil seeds:** Selasih seeds (basil seeds) swell into translucent jellies when soaked. They add texture - optional but traditional in the celebratory version.
 
 ## Serving
-Serve very cold in tall glasses with a long spoon for stirring. At Singapore weddings, bandung is served in pitchers alongside the meal.
+- Serve very cold in tall glasses with a long spoon for stirring. At Singapore weddings, bandung is served in pitchers alongside the meal.
 
 ## Storage
 - Make per serving. The drink doesn't pre-mix well - the milk and syrup separate.

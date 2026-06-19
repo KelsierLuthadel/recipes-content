@@ -46,7 +46,7 @@ Salata huloo means "sweet salad" and it shows up on the Kuwaiti table whenever t
 - **Make ahead carefully:** Mix everything except the dressing in advance; dress only at the last minute or the tomatoes weep.
 
 ## Serving
-Cold, in a shared bowl, beside machboos, murabyan or any spiced rice.
+- Cold, in a shared bowl, beside machboos, murabyan or any spiced rice.
 
 ## Storage
 - Eats best within 2 hours of dressing

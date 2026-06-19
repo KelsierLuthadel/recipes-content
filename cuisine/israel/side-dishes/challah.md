@@ -59,7 +59,7 @@ Strong bread flour worked with eggs, honey, oil, salt and warm water until the d
 - Sesame seeds are the most traditional finish in Sephardic households; poppy seeds belong to Ashkenazi tradition. A mix of the two is widely accepted.
 
 ## Serving
-Torn (never sliced) at the table in pieces, alongside latkes and applesauce on Hanukkah, or with chicken soup for a Friday-night dinner. Day-old slices make outstanding French toast.
+- Torn (never sliced) at the table in pieces, alongside latkes and applesauce on Hanukkah, or with chicken soup for a Friday-night dinner. Day-old slices make outstanding French toast.
 
 ## Storage
 Wrapped in a clean tea towel at room temperature, 2-3 days. Freezes well sliced; toast straight from frozen.

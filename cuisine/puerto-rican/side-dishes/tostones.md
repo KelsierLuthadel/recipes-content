@@ -70,13 +70,13 @@ Tostones (called tachinos in Cuba and patacones in Colombia and Venezuela) is on
 - **Eat immediately:** tostones go from crispy to chewy in 10 minutes. Serve hot.
 
 ## Variations
-**Stuffed tostones (mofongo cups):** smash the fried plantains into shot-glass-shaped cups using a tostonera; fill with seasoned shrimp, picadillo or shredded chicken; finish briefly in the oven. Common restaurant variation.
-**Tostones rellenos:** stuff with cheese before the second fry; gives a richer cheese-stuffed version.
-**Tostones with garlic-mojo:** brush hot tostones with mojo (garlic-lime sauce) instead of salt; gives the traditional Cuban take.
-**Sweet plantain version (maduros):** use very ripe (black-spotted) plantains; just one fry, sliced longer (5 cm) and thinner (1 cm); see the maduros recipe.
+- **Stuffed tostones (mofongo cups):** smash the fried plantains into shot-glass-shaped cups using a tostonera; fill with seasoned shrimp, picadillo or shredded chicken; finish briefly in the oven. Common restaurant variation.
+- **Tostones rellenos:** stuff with cheese before the second fry; gives a richer cheese-stuffed version.
+- **Tostones with garlic-mojo:** brush hot tostones with mojo (garlic-lime sauce) instead of salt; gives the traditional Cuban take.
+- **Sweet plantain version (maduros):** use very ripe (black-spotted) plantains; just one fry, sliced longer (5 cm) and thinner (1 cm); see the maduros recipe.
 
 ## Serving
-On a serving platter or in a basket lined with kitchen paper. Multiple dipping sauces in small bowls. As a side alongside pernil, pollo guisado, fish, or any Boricua main. Drink: Medalla beer, mauby, or fresh coconut water.
+- On a serving platter or in a basket lined with kitchen paper. Multiple dipping sauces in small bowls. As a side alongside pernil, pollo guisado, fish, or any Boricua main. Drink: Medalla beer, mauby, or fresh coconut water.
 
 ## Storage
 - Best eaten immediately; tostones go off-texture as they cool.

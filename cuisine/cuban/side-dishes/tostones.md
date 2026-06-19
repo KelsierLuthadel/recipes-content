@@ -71,13 +71,13 @@ Tostones are the twice-fried green plantain discs that anchor every Cuban dinner
 - **Plantain press:** A tostonera is the proper tool but unnecessary. The bottom of a heavy glass or mug works; a flat plate works.
 
 ## Variations
-**With mojo on top:** Spoon mojo over the tostones rather than dipping; gives a wet, garlicky version.
-**Stuffed (tostones rellenos):** Smash hot tostones in a cup-shape rather than flat; second-fry, then fill with seasoned shredded beef or shrimp.
-**With lime alone:** A simpler version: a squeeze of lime and salt, no mojo.
+- **With mojo on top:** Spoon mojo over the tostones rather than dipping; gives a wet, garlicky version.
+- **Stuffed (tostones rellenos):** Smash hot tostones in a cup-shape rather than flat; second-fry, then fill with seasoned shredded beef or shrimp.
+- **With lime alone:** A simpler version: a squeeze of lime and salt, no mojo.
 
 ## Serving
-Serve with: Roast pork (lechon), ropa vieja, picadillo, fried fish, black beans and rice. Excellent with cold beer.
-Garnish with: Fresh coriander, lime wedges.
+- Serve with: Roast pork (lechon), ropa vieja, picadillo, fried fish, black beans and rice. Excellent with cold beer.
+- Garnish with: Fresh coriander, lime wedges.
 
 ## Storage
 - Best eaten within 15 minutes of frying.

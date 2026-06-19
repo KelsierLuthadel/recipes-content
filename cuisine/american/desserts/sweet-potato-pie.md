@@ -73,7 +73,7 @@ Sweet potato pie is the Southern Thanksgiving pie that crosses every African-Ame
 - The pie keeps better in the fridge than at room temperature once the filling sets; pull it out 20 minutes before serving so the slice is not fridge-cold.
 
 ## Serving
-A wedge with a generous spoon of softly whipped cream, slowly. Coffee or sweet tea on the side. On a Kwanzaa karamu table, sliced and passed around alongside pecan pralines and bread pudding.
+- A wedge with a generous spoon of softly whipped cream, slowly. Coffee or sweet tea on the side. On a Kwanzaa karamu table, sliced and passed around alongside pecan pralines and bread pudding.
 
 ## Storage
 Covered in the fridge for up to 4 days. Do not freeze: the filling weeps on thawing.

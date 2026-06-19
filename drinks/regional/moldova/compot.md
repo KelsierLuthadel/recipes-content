@@ -73,7 +73,7 @@ Compot is the home-made fruit drink and dessert pour of every Moldovan grandmoth
 - **Quick compot:** with frozen fruit and 5 minutes of simmering for an everyday weekday drink.
 
 ## Serving
-Cold from the jar in a tall glass with a few cherries floating in each pour. Alongside a slice of Cușma lui Guguță or any Moldovan cake. Hot from a saucepan in a thick winter mug. The children's drink at every family Sunday lunch; the adults' pour with a small slug of vișinata added.
+- Cold from the jar in a tall glass with a few cherries floating in each pour. Alongside a slice of Cușma lui Guguță or any Moldovan cake. Hot from a saucepan in a thick winter mug. The children's drink at every family Sunday lunch; the adults' pour with a small slug of vișinata added.
 
 ## Storage
 - Refrigerate up to 2 weeks in a sealed jar.

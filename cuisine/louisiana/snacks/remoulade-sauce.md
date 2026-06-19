@@ -56,13 +56,13 @@ Louisiana remoulade is the traditional Creole-Louisiana dipping sauce, distinct 
 - **Chill 1 hour:** flavours meld.
 
 ## Variations
-**White remoulade:** skip ketchup; gives French-style.
-**Spicier:** double cayenne and hot sauce.
-**Smokier:** add smoked paprika.
-**With pickle:** add chopped dill pickle.
+- **White remoulade:** skip ketchup; gives French-style.
+- **Spicier:** double cayenne and hot sauce.
+- **Smokier:** add smoked paprika.
+- **With pickle:** add chopped dill pickle.
 
 ## Serving
-On every Louisiana seafood platter.
+- On every Louisiana seafood platter.
 
 ## Storage
 - Keeps refrigerated 1 week.

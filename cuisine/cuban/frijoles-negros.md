@@ -98,13 +98,13 @@ Frijoles negros is Cuba's national bean dish and one of the most foundational st
 - **Raw red onion on top:** the traditional Cuban garnish. Crunchy and sharp; cuts through the rich beans.
 
 ## Variations
-**Frijoles con cerdo (with pork):** add a smoked ham hock (or 150 g of bacon) at stage 2; cook with the beans. Common non-vegetarian variation.
-**Frijoles con chorizo:** add 200 g of sliced chorizo to the sofrito in stage 3; renders fat into the beans.
-**Spicier:** double the chilli and add 1 chopped habanero; properly Caribbean fierce.
-**Cuban black bean soup (sopa de frijoles negros):** thin the cooked beans with additional stock; serve as a soup with rice as a side rather than the base.
+- **Frijoles con cerdo (with pork):** add a smoked ham hock (or 150 g of bacon) at stage 2; cook with the beans. Common non-vegetarian variation.
+- **Frijoles con chorizo:** add 200 g of sliced chorizo to the sofrito in stage 3; renders fat into the beans.
+- **Spicier:** double the chilli and add 1 chopped habanero; properly Caribbean fierce.
+- **Cuban black bean soup (sopa de frijoles negros):** thin the cooked beans with additional stock; serve as a soup with rice as a side rather than the base.
 
 ## Serving
-Alongside (or over) white rice as the traditional Cuban side. With ropa vieja, picadillo, vaca frita, lechón asado, or any Cuban main. Topped with raw red onion. Drink: Cristal beer, mojito, fresh limeade.
+- Alongside (or over) white rice as the traditional Cuban side. With ropa vieja, picadillo, vaca frita, lechón asado, or any Cuban main. Topped with raw red onion. Drink: Cristal beer, mojito, fresh limeade.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens significantly overnight (often considered better the next day).

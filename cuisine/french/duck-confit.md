@@ -55,8 +55,8 @@ Duck confit is the French preservation technique that became one of the great di
 - **Don't waste the fat:** Strain and save. Reuse for the next confit, or for the world's best roast potatoes.
 
 ## Serving
-Serve with: Lentils du Puy, sautéed potatoes, or simple bitter greens.
-Garnish with: Flaky salt and a wedge of orange.
+- Serve with: Lentils du Puy, sautéed potatoes, or simple bitter greens.
+- Garnish with: Flaky salt and a wedge of orange.
 
 ## Storage
 - Submerged in fat in a clean sealed container, the legs keep 2-3 weeks refrigerated, several months in the freezer.

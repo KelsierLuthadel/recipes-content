@@ -99,13 +99,13 @@ Carne de porco à Alentejana is the iconic dish of the Alentejo region in southe
 - **Don't overcook clams:** 5-7 minutes max.
 
 ## Variations
-**Spicier:** double the piri-piri; add 2 fresh chillies.
-**With chorizo:** add 100 g of sliced chouriço to the pan with the onion.
-**Vegetarian (impossible to keep traditional):** skip the meat and clams; use mushrooms and white beans; less traditional.
-**With mussels instead:** swap clams for mussels; same technique.
+- **Spicier:** double the piri-piri; add 2 fresh chillies.
+- **With chorizo:** add 100 g of sliced chouriço to the pan with the onion.
+- **Vegetarian (impossible to keep traditional):** skip the meat and clams; use mushrooms and white beans; less traditional.
+- **With mussels instead:** swap clams for mussels; same technique.
 
 ## Serving
-On a wide platter with crispy potatoes piled over the pork-and-clams. Crusty bread, lemon, salad. Cold Portuguese white wine or Sagres beer.
+- On a wide platter with crispy potatoes piled over the pork-and-clams. Crusty bread, lemon, salad. Cold Portuguese white wine or Sagres beer.
 
 ## Storage
 - Best eaten fresh; clams don't reheat well.

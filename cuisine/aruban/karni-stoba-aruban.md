@@ -90,14 +90,14 @@ Karni stoba is the Aruban beef cousin of the goat stoba di cabritu, and the more
 - **The vinegar is essential:** the Caribbean-Spanish stoba signature note; without it the dish reads flat.
 
 ## Variations
-**Karni stoba di kabritu:** swap the beef for kid goat shoulder; extend the braise to 2 hours 30 minutes.
-**With pumpkin:** add 300 g diced calabaza pumpkin in the last 30 minutes for a sweeter sauce.
-**With white wine:** swap half the stock for dry white wine; the Aruban Sunday-lunch upgrade.
-**With raisins and capers (the wedding version):** add 50 g raisins with the olives for a sweet-salt-sour balance.
-**Spicy stoba:** add 1 whole scotch bonnet at the start (don't pierce); fish out before serving for perfume; pierce for fierce heat.
+- **Karni stoba di kabritu:** swap the beef for kid goat shoulder; extend the braise to 2 hours 30 minutes.
+- **With pumpkin:** add 300 g diced calabaza pumpkin in the last 30 minutes for a sweeter sauce.
+- **With white wine:** swap half the stock for dry white wine; the Aruban Sunday-lunch upgrade.
+- **With raisins and capers (the wedding version):** add 50 g raisins with the olives for a sweet-salt-sour balance.
+- **Spicy stoba:** add 1 whole scotch bonnet at the start (don't pierce); fish out before serving for perfume; pierce for fierce heat.
 
 ## Serving
-At an Aruban Sunday lunch (the traditional setting) · over a wedge of funchi or pan bati at a Curaçao-Aruba shared family table · with banana frita and rice on the side at a Papiamento-speaking islands gathering · at an Antillean-Dutch restaurant in Amsterdam · with a glass of cold Balashi beer · at a Caribbean-Dutch wedding buffet.
+- At an Aruban Sunday lunch (the traditional setting) · over a wedge of funchi or pan bati at a Curaçao-Aruba shared family table · with banana frita and rice on the side at a Papiamento-speaking islands gathering · at an Antillean-Dutch restaurant in Amsterdam · with a glass of cold Balashi beer · at a Caribbean-Dutch wedding buffet.
 
 ## Storage
 - Refrigerates 4 days in a sealed container; the flavour deepens overnight.

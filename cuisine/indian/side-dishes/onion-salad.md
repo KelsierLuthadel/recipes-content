@@ -60,7 +60,7 @@ The mint sauce is what makes it taste like the curry-house version rather than a
 - **With green chilli:** finely slice a green chilli through the salad for assertive heat.
 
 ## Serving
-Set out in a small ramekin alongside the papadums at the start of the meal. The other three bowls are [Mango Chutney](../sauces-pickles/mango-chutney.md), [Lime Pickle](../sauces-pickles/lime-pickle.md) and [Mint Raita](../sauces-pickles/mint-raita.md). One spoonful per diner is enough; refill if eaten before the starters arrive.
+- Set out in a small ramekin alongside the papadums at the start of the meal. The other three bowls are [Mango Chutney](../sauces-pickles/mango-chutney.md), [Lime Pickle](../sauces-pickles/lime-pickle.md) and [Mint Raita](../sauces-pickles/mint-raita.md). One spoonful per diner is enough; refill if eaten before the starters arrive.
 
 ## Storage
 - Best within 2 hours of making. After that the salt and lemon draw water from the onion and tomato and the salad goes limp.

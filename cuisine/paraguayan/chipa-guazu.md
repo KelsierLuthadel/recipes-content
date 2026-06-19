@@ -57,7 +57,7 @@ Chipa guazú (Guaraní for "big chipa") is what Paraguayans cook when the new co
 - **Chipa guazú con jamón:** 200 g diced cooked ham folded through the batter for a more substantial main.
 
 ## Serving
-Cut into thick squares alongside grilled beef · with asado paraguayo and a tomato-and-onion salad · with sopa paraguaya as a contrast of textures · with a green salad as a vegetarian summer lunch · with a glass of tereré in the shade.
+- Cut into thick squares alongside grilled beef · with asado paraguayo and a tomato-and-onion salad · with sopa paraguaya as a contrast of textures · with a green salad as a vegetarian summer lunch · with a glass of tereré in the shade.
 
 ## Storage
 - Keeps 3 days refrigerated, well covered

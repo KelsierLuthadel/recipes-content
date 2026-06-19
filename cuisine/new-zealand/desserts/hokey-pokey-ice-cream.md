@@ -83,7 +83,7 @@ Hokey pokey ice cream is the flavour that defines New Zealand ice cream culture 
 - **Hokey pokey absorbs moisture:** Stir it into the ice cream as late as possible; longer in the soft ice cream and it softens too. Best is to fold it in just as the ice cream finishes churning.
 
 ## Serving
-The summer treat - in cones at the beach, in bowls after BBQ, as the Christmas day dessert alongside (or instead of) pavlova. Drizzle with hot fudge sauce for an over-the-top sundae.
+- The summer treat - in cones at the beach, in bowls after BBQ, as the Christmas day dessert alongside (or instead of) pavlova. Drizzle with hot fudge sauce for an over-the-top sundae.
 
 ## Storage
 - Freezes 1 month sealed tightly; the hokey pokey softens but is still pleasantly chewy.

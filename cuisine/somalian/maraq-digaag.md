@@ -107,13 +107,13 @@ Maraq digaag is the everyday Somali chicken stew (maraq = stew or soup; digaag =
 - **Reduce uncovered at the end:** the covered simmer cooks the chicken; the uncovered reduction thickens the sauce. Don't skip the second stage; a thin broth instead of a coating sauce is the most common home-cook mistake.
 
 ## Variations
-**Maraq lo'aad (beef):** swap chicken for diced beef shin; brown the beef hard first, then proceed with the same technique but simmer 90 minutes for tender beef.
-**Maraq ari (lamb):** lamb shoulder cubed; same technique, 75 minutes simmer.
-**Maraq with vegetables:** add 1 large carrot, 2 small potatoes (diced) and 100 g of green beans in the last 25 minutes; turns the maraq into a hearty one-pot vegetable-and-chicken meal.
-**Maraq jellab (the leaner version):** less oil, more tomato, more liquid; gives a soupier broth-like maraq closer to a stew-soup, served over rice with the broth spooned generously.
+- **Maraq lo'aad (beef):** swap chicken for diced beef shin; brown the beef hard first, then proceed with the same technique but simmer 90 minutes for tender beef.
+- **Maraq ari (lamb):** lamb shoulder cubed; same technique, 75 minutes simmer.
+- **Maraq with vegetables:** add 1 large carrot, 2 small potatoes (diced) and 100 g of green beans in the last 25 minutes; turns the maraq into a hearty one-pot vegetable-and-chicken meal.
+- **Maraq jellab (the leaner version):** less oil, more tomato, more liquid; gives a soupier broth-like maraq closer to a stew-soup, served over rice with the broth spooned generously.
 
 ## Serving
-Over basmati rice or with anjero to scoop. Bisbaas on the side. Sliced banana on the plate (the proper Somali sweet counter to the spice). Drink: cold water, shaah (Somali tea spiced with cardamom and cinnamon), or fresh laban (cultured milk).
+- Over basmati rice or with anjero to scoop. Bisbaas on the side. Sliced banana on the plate (the proper Somali sweet counter to the spice). Drink: cold water, shaah (Somali tea spiced with cardamom and cinnamon), or fresh laban (cultured milk).
 
 ## Storage
 - Keeps refrigerated 3 days. The flavour deepens overnight; day-after maraq is excellent.

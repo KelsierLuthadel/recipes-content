@@ -87,13 +87,13 @@ Vitello tonnato is the iconic cold antipasto of Piedmont, in northwestern Italy,
 - **Bring to slight room temperature before serving:** improves flavour.
 
 ## Variations
-**Modern minimalist:** less sauce, more attention to veal quality and presentation.
-**Without mayonnaise (purist):** make a true egg-yolk-based emulsion instead of using shop-bought mayo.
-**With pork (maiale tonnato):** swap veal for pork loin; cook the same way; less traditional but excellent.
-**With chicken (pollo tonnato):** modern variation using chicken breast; lighter version.
+- **Modern minimalist:** less sauce, more attention to veal quality and presentation.
+- **Without mayonnaise (purist):** make a true egg-yolk-based emulsion instead of using shop-bought mayo.
+- **With pork (maiale tonnato):** swap veal for pork loin; cook the same way; less traditional but excellent.
+- **With chicken (pollo tonnato):** modern variation using chicken breast; lighter version.
 
 ## Serving
-On a wide platter as antipasto. Italian white wine (Gavi di Gavi, Arneis from Piedmont). Crusty bread. Simple green salad.
+- On a wide platter as antipasto. Italian white wine (Gavi di Gavi, Arneis from Piedmont). Crusty bread. Simple green salad.
 
 ## Storage
 - The sliced veal with sauce keeps refrigerated 2 days; flavour deepens.

@@ -70,7 +70,7 @@ A round shallow pan is lined with melted-butter-soaked kataifi (shredded filo), 
 - The pour-syrup-on-hot-pastry rule is non-negotiable. Cold syrup on cold pastry sits on top and never soaks through; hot syrup on hot pastry shatters the crisp.
 
 ## Serving
-In wedges, warm, with a small cup of strong unsweetened coffee or mint tea. After a long Ramadan iftar, this is the dish that lets everyone linger.
+- In wedges, warm, with a small cup of strong unsweetened coffee or mint tea. After a long Ramadan iftar, this is the dish that lets everyone linger.
 
 ## Storage
 Best eaten the day it is made. Reheats in a 160°C oven for 10 minutes to refresh the crisp, but the cheese hardens after a day in the fridge.

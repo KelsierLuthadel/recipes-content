@@ -85,12 +85,12 @@ A Margherita with the extra mile built in: fresh-yeasted bread-flour dough left 
 - **Basil in two stages:** The chopped basil cooks into the sauce; the whole leaves go on at the end for fresh, peppery aroma.
 
 ## Variations
-**Margherita extra:** Add a torn buffalo mozzarella ball to each baked pizza alongside the basil for the molten DOC version.
-**Quattro formaggi:** Replace the mozzarella with a mix of mozzarella, fontina, gorgonzola and grated parmesan.
+- **Margherita extra:** Add a torn buffalo mozzarella ball to each baked pizza alongside the basil for the molten DOC version.
+- **Quattro formaggi:** Replace the mozzarella with a mix of mozzarella, fontina, gorgonzola and grated parmesan.
 
 ## Serving
-Serve with: A glass of Chianti Classico and a tomato salad with red onion
-Garnish with: A drizzle of high-quality extra-virgin olive oil and flaky salt
+- Serve with: A glass of Chianti Classico and a tomato salad with red onion
+- Garnish with: A drizzle of high-quality extra-virgin olive oil and flaky salt
 
 ## Storage
 - Best eaten straight from the oven

@@ -68,14 +68,14 @@
 - **Eat warm:** the texture is best within an hour of frying.
 
 ## Variations
-**With lemon zest:** add the zest of 1 lemon to the dough for a citrus version.
-**With anise:** add 1 teaspoon ground anise to the dough.
-**With orange-blossom:** 1 teaspoon orange-blossom water replaces the brandy for an alcohol-free version.
-**With cinnamon sugar:** roll the warm fried twigs in cinnamon sugar instead of icing sugar.
-**Diamond shape:** skip the knot-pull; just cut and fry as plain diamonds.
+- **With lemon zest:** add the zest of 1 lemon to the dough for a citrus version.
+- **With anise:** add 1 teaspoon ground anise to the dough.
+- **With orange-blossom:** 1 teaspoon orange-blossom water replaces the brandy for an alcohol-free version.
+- **With cinnamon sugar:** roll the warm fried twigs in cinnamon sugar instead of icing sugar.
+- **Diamond shape:** skip the knot-pull; just cut and fry as plain diamonds.
 
 ## Serving
-Serve warm dusted with icing sugar · at Užgavėnės · at name-days · at weddings · with strong coffee · with a glass of tea · piled high on a plain plate to show the height.
+- Serve warm dusted with icing sugar · at Užgavėnės · at name-days · at weddings · with strong coffee · with a glass of tea · piled high on a plain plate to show the height.
 
 ## Storage
 - Keep 4 days in an airtight tin at room temperature, do not refrigerate.

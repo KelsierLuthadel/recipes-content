@@ -101,9 +101,9 @@ Prawns work particularly well in a pathia and are arguably the traditional choic
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a buttery naan to mop the sauce. A side of cool raita and a wedge of lemon round it off.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a buttery naan to mop the sauce. A side of cool raita and a wedge of lemon round it off.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container (prawn versions are best eaten within 1 to 2 days). The sweet-sour-hot balance settles overnight and the flavours integrate. Reheat in a pan with a splash of water rather than the microwave to avoid overcooking any prawns and to keep the oil from splitting out.

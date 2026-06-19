@@ -79,7 +79,7 @@ Vori vori (from the Guaraní "vori", a small ball, doubled for emphasis) is the 
 - **With aniseed:** a pinch of toasted anise seed in the dumpling dough; an older rural touch.
 
 ## Serving
-Hot bowls with chipa on the side · with a wedge of lime · alongside a tomato-and-onion salad · as a Paraguayan winter Sunday lunch · with mate cocido after.
+- Hot bowls with chipa on the side · with a wedge of lime · alongside a tomato-and-onion salad · as a Paraguayan winter Sunday lunch · with mate cocido after.
 
 ## Storage
 - Keeps 3 days refrigerated; the dumplings soften slightly on day two

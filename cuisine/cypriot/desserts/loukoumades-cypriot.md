@@ -86,7 +86,7 @@ Loukoumades are the Greek and Cypriot festival doughnut, a yeasted batter droppe
 - **Rose-water syrup.** A teaspoon of rose-water stirred into the syrup off the heat; an Ottoman-influenced touch.
 
 ## Serving
-Serve with strong Cypriot coffee · a glass of cold milk · a small glass of zivania for grown-ups.
+- Serve with strong Cypriot coffee · a glass of cold milk · a small glass of zivania for grown-ups.
 
 ## Storage
 - Best within 30 minutes of frying.

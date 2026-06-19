@@ -78,13 +78,13 @@ Olivier salad (Olivye in Russian, salat Olivye) is Russia's most iconic salad an
 - **Rest before serving:** 1-2 hours of refrigeration is essential. Right-after-mixing the salad tastes scattered; properly rested it tastes harmonious.
 
 ## Variations
-**Original Hermitage Olivier (luxe version):** use grouse, ptarmigan or other game birds instead of chicken; add 100 g of small capers and 2 tablespoons of caviar (or salmon roe). The 19th-century original.
-**Vegetarian Olivier:** skip the chicken; double the peas; add 200 g of finely diced cooked beetroot (which turns the whole salad pink; the proper "vinaigrette-Olivier hybrid").
-**Crab Olivier:** swap the chicken for 200 g of cooked picked crab meat; a luxurious modern variation. Common at fancier Russian restaurants.
-**With apple (Soviet variation):** add 1 small finely diced eating apple (Granny Smith or similar) for sweetness; reduces the mayonnaise feel. Common in some regional Soviet variations.
+- **Original Hermitage Olivier (luxe version):** use grouse, ptarmigan or other game birds instead of chicken; add 100 g of small capers and 2 tablespoons of caviar (or salmon roe). The 19th-century original.
+- **Vegetarian Olivier:** skip the chicken; double the peas; add 200 g of finely diced cooked beetroot (which turns the whole salad pink; the proper "vinaigrette-Olivier hybrid").
+- **Crab Olivier:** swap the chicken for 200 g of cooked picked crab meat; a luxurious modern variation. Common at fancier Russian restaurants.
+- **With apple (Soviet variation):** add 1 small finely diced eating apple (Granny Smith or similar) for sweetness; reduces the mayonnaise feel. Common in some regional Soviet variations.
 
 ## Serving
-In a big bowl as the centerpiece of a Russian New Year's table, alongside herring under fur coat (selyodka pod shuboy), various pickled vegetables, smoked fish, blini with caviar, and copious shots of cold vodka. Or as a side at any meal; or as lunch with a slice of black bread. Drink: chilled vodka (the traditional pairing); kvass; or cold beer.
+- In a big bowl as the centerpiece of a Russian New Year's table, alongside herring under fur coat (selyodka pod shuboy), various pickled vegetables, smoked fish, blini with caviar, and copious shots of cold vodka. Or as a side at any meal; or as lunch with a slice of black bread. Drink: chilled vodka (the traditional pairing); kvass; or cold beer.
 
 ## Storage
 - Keeps refrigerated 3-4 days in a sealed container; the flavour deepens after 24 hours.

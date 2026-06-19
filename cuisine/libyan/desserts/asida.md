@@ -51,7 +51,7 @@ Asida is what Libyans bring to celebration. A simple semolina-and-water pudding 
 - **The wet-hands technique:** Asida is very sticky when hot. Wet hands prevent dough sticking; wet platter same logic.
 
 ## Serving
-Serve hot or warm. Pinch from the dome with the right hand, dip into the butter-syrup pool, eat. No bread, no spoon - the dome is the bread.
+- Serve hot or warm. Pinch from the dome with the right hand, dip into the butter-syrup pool, eat. No bread, no spoon - the dome is the bread.
 
 ## Storage
 - Asida hardens dramatically as it cools. Best within 2-3 hours of cooking.

@@ -52,12 +52,12 @@ Tulumba (also known as "tulumbe" in Bosnia; "tulumbas" in Albanian, "lokma" in T
 - **Don't oversoak:** 1 minute in syrup is enough.
 
 ## Variations
-**With chocolate drizzle:** modern variant.
-**With chopped pistachios on top:** Ottoman touch.
-**Mini tulumba:** smaller pieces for canapés.
+- **With chocolate drizzle:** modern variant.
+- **With chopped pistachios on top:** Ottoman touch.
+- **Mini tulumba:** smaller pieces for canapés.
 
 ## Serving
-At a Macedonian festival · at a Macedonian wedding · with strong coffee · at home as a sweet snack.
+- At a Macedonian festival · at a Macedonian wedding · with strong coffee · at home as a sweet snack.
 
 ## Storage
 Best eaten fresh; refrigerate 2 days (texture softens).

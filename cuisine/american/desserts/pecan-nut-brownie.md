@@ -44,9 +44,9 @@ The American fudgy brownie scaled up for a dinner-party plate: dense moist dark-
 - **Doneness test:** The skewer should come out clean but with a slight sheen from melted chocolate. Overbaking dries them out.
 
 ## Serving
-Serve with: Crème anglaise, whipped cream, vanilla ice cream, or fresh berries
-Presentation: Dust with icing sugar or cocoa powder, or garnish with gold leaf for elegance
-Temperature: Room temperature or slightly warmed
+- Serve with: Crème anglaise, whipped cream, vanilla ice cream, or fresh berries
+- Presentation: Dust with icing sugar or cocoa powder, or garnish with gold leaf for elegance
+- Temperature: Room temperature or slightly warmed
 
 ## Storage
 - Keeps 4-5 days in an airtight container at room temperature

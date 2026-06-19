@@ -90,16 +90,16 @@ The finished curry should be thick enough that the sauce coats the back of a spo
 ## Variations
 
 ### Panang Lamb (Beef Panang)
-See [beef-panang.md](../../cuisine/thai/beef-panang.md). The classical Thai restaurant dish.
+- See [beef-panang.md](../../cuisine/thai/beef-panang.md). The classical Thai restaurant dish.
 
 ### Panang Chicken
-Chicken thigh, cubed. Slightly longer simmer (3-4 minutes) than beef.
+- Chicken thigh, cubed. Slightly longer simmer (3-4 minutes) than beef.
 
 ### Panang Duck
-Pre-roasted duck (the Chinese-style shop-bought, sliced) added in the last minute. The duck fat enriches the sauce.
+- Pre-roasted duck (the Chinese-style shop-bought, sliced) added in the last minute. The duck fat enriches the sauce.
 
 ### Panang Vegetable
-Replace meat with deep-fried firm tofu pieces and a handful of sliced courgette. The tofu absorbs the sauce.
+- Replace meat with deep-fried firm tofu pieces and a handful of sliced courgette. The tofu absorbs the sauce.
 
 ## What Makes Panang Special
 

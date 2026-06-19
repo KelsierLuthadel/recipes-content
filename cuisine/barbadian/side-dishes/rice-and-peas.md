@@ -101,16 +101,16 @@ Bajan rice and peas (called "rice and peas" across the English Caribbean) is the
 - **Canned pigeon peas work:** the traditional Bajan home version often uses canned for speed; the dried-and-soaked version has slightly better flavour.
 
 ## Variations
-**Rice and peas with salt pork:** add 100 g diced salt pork to the sweated onion, the rich Bajan variant.
-**Vegan rice and peas:** the recipe is already vegan (without the optional salt pork).
-**Brown rice and peas:** swap white rice for brown rice; cook 35-40 minutes instead of 18-22; more nutritious.
-**Rice and peas with thyme broth:** make a strong thyme-and-bay broth for the rice; more aromatic.
-**Rice and red beans (rice and beans Cuban-style):** swap pigeon peas for red kidney beans, the Cuban variant.
-**Festive rice and peas:** add 100 g raisins and 50 g toasted coconut shavings, the wedding-day variant.
-**Crab rice and peas (Bajan coastal variant):** add cooked crab meat in the last 5 minutes, the seafood variant.
+- **Rice and peas with salt pork:** add 100 g diced salt pork to the sweated onion, the rich Bajan variant.
+- **Vegan rice and peas:** the recipe is already vegan (without the optional salt pork).
+- **Brown rice and peas:** swap white rice for brown rice; cook 35-40 minutes instead of 18-22; more nutritious.
+- **Rice and peas with thyme broth:** make a strong thyme-and-bay broth for the rice; more aromatic.
+- **Rice and red beans (rice and beans Cuban-style):** swap pigeon peas for red kidney beans, the Cuban variant.
+- **Festive rice and peas:** add 100 g raisins and 50 g toasted coconut shavings, the wedding-day variant.
+- **Crab rice and peas (Bajan coastal variant):** add cooked crab meat in the last 5 minutes, the seafood variant.
 
 ## Serving
-At a Bajan Sunday lunch (the traditional setting; rice and peas is the traditional starch on the Sunday plate) · at a Bajan Independence Day (30 November) celebration · at a Bajan rum-shop · at a Caribbean food festival · at home as the Caribbean-themed side · paired with stew chicken, Bajan fried chicken, oxtail, or jerk chicken.
+- At a Bajan Sunday lunch (the traditional setting; rice and peas is the traditional starch on the Sunday plate) · at a Bajan Independence Day (30 November) celebration · at a Bajan rum-shop · at a Caribbean food festival · at home as the Caribbean-themed side · paired with stew chicken, Bajan fried chicken, oxtail, or jerk chicken.
 
 ## Storage
 - Refrigerates 4 days. Reheats well in a covered pan with a splash of water.

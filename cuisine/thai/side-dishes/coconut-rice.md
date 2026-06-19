@@ -87,17 +87,17 @@ Coconut rice is the soft, fragrant, faintly sweet rice that lifts any spiced cur
 - **No Stirring During Cooking:** Resist opening or stirring; this breaks the steam seal and creates uneven cooking.
 
 ## Variations
-**Spicier Version:** Increase dried red chillies to 3-4, or add ½ teaspoon red chilli powder alongside the tempering spices.
-**Less Coconut:** Reduce coconut cream to 2-3 tablespoons for lighter, less rich result.
-**More Indian:** Add 4-5 curry leaves (closer to traditional quantity), 2-3 cardamom pods, and 2-3 cloves during tempering.
-**With Green Herbs:** Fold 2-3 tablespoons fresh coriander leaves into the finished rice just before serving (don't heat; preserve freshness).
-**Cashew Crunch:** Toast 2-3 tablespoons raw cashew pieces in the oil before adding spice seeds, creating textural contrast and richness.
+- **Spicier Version:** Increase dried red chillies to 3-4, or add ½ teaspoon red chilli powder alongside the tempering spices.
+- **Less Coconut:** Reduce coconut cream to 2-3 tablespoons for lighter, less rich result.
+- **More Indian:** Add 4-5 curry leaves (closer to traditional quantity), 2-3 cardamom pods, and 2-3 cloves during tempering.
+- **With Green Herbs:** Fold 2-3 tablespoons fresh coriander leaves into the finished rice just before serving (don't heat; preserve freshness).
+- **Cashew Crunch:** Toast 2-3 tablespoons raw cashew pieces in the oil before adding spice seeds, creating textural contrast and richness.
 
 ## Serving
-Use with: Any spiced curry (vindaloo, korma, balti, madras, jalfrezi), grilled proteins with spice rubs, stir-fries, braised meat dishes
-Temperature: Hot or warm (serve within 15 minutes of completion for maximum aroma)
-Ratio: 150ml uncooked rice per person (yields approximately 150ml cooked rice per serving)
-Context: Indian and South Asian meals, curry accompaniment, aromatic neutral rice
+- Use with: Any spiced curry (vindaloo, korma, balti, madras, jalfrezi), grilled proteins with spice rubs, stir-fries, braised meat dishes
+- Temperature: Hot or warm (serve within 15 minutes of completion for maximum aroma)
+- Ratio: 150ml uncooked rice per person (yields approximately 150ml cooked rice per serving)
+- Context: Indian and South Asian meals, curry accompaniment, aromatic neutral rice
 
 ## Storage
 - Refrigerate cooked rice in a sealed container for up to 3-4 days.

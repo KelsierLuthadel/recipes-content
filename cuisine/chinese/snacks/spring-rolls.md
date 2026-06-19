@@ -59,9 +59,9 @@ These spring rolls are the polite-takeaway version: neat, savoury, and a textura
 - The filling must be fully cooled before wrapping, otherwise the steam will soften the skins from the inside.
 
 ## Serving
-Serve with: sweet chilli sauce, soy sauce, or a light dipping sauce
-Temperature: hot, immediately after draining
-Amount: 2-3 rolls per person as a starter or side
+- Serve with: sweet chilli sauce, soy sauce, or a light dipping sauce
+- Temperature: hot, immediately after draining
+- Amount: 2-3 rolls per person as a starter or side
 
 ## Storage
 - Store uncooked assembled spring rolls in the fridge for up to 4 hours before frying, covered with a damp cloth to prevent drying out.

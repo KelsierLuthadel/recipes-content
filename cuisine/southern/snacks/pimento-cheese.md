@@ -65,13 +65,13 @@ Pimento cheese is the South's most beloved cheese spread and one of the most ico
 - **Rest overnight:** flavours improve.
 
 ## Variations
-**With bacon:** add 6 strips crumbled cooked bacon.
-**Spicier:** double the cayenne; add chopped jalapeños.
-**With smoked cheddar:** swap half the cheddar for smoked cheddar.
-**Without onion (purist):** some Southerners omit onion.
+- **With bacon:** add 6 strips crumbled cooked bacon.
+- **Spicier:** double the cayenne; add chopped jalapeños.
+- **With smoked cheddar:** swap half the cheddar for smoked cheddar.
+- **Without onion (purist):** some Southerners omit onion.
 
 ## Serving
-On crackers, in sandwiches, on burgers, with crudités. At Southern parties, gameday gatherings, hors d'oeuvres.
+- On crackers, in sandwiches, on burgers, with crudités. At Southern parties, gameday gatherings, hors d'oeuvres.
 
 ## Storage
 - Keeps refrigerated 1 week.

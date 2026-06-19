@@ -71,13 +71,13 @@ Saag is Bhutan's everyday greens side: a bowl of slow-cooked tender mustard gree
 - **Adjust the chilli for the table:** the traditional Bhutanese saag has more chillies than this recipe; scale up if you want the proper experience. Conversely, if cooking for non-spice-tolerant diners, halve the chillies or deseed all of them.
 
 ## Variations
-**Saag with cheese (saag datshi):** crumble 100 g of feta (or fresh local cheese) into the pan in the last 5 minutes of cooking; stir gently and let it soften into the greens. Turns the side into a creamy datshi-style variation.
-**Saag with onion:** sweat 1 finely sliced onion in the butter for 5 minutes before adding the garlic and chillies; gives more body. Common Bhutanese household variant.
-**Saag with potato:** add 1 medium potato (peeled, cubed small) along with the greens; the potato softens during the cook and gives extra body. Makes the side into a more substantial dish.
-**Saag with mushrooms:** add 200 g of sliced mushrooms (any type) along with the garlic and chillies; sauté for 5 minutes till they release their water before adding the greens. Adds umami and substance.
+- **Saag with cheese (saag datshi):** crumble 100 g of feta (or fresh local cheese) into the pan in the last 5 minutes of cooking; stir gently and let it soften into the greens. Turns the side into a creamy datshi-style variation.
+- **Saag with onion:** sweat 1 finely sliced onion in the butter for 5 minutes before adding the garlic and chillies; gives more body. Common Bhutanese household variant.
+- **Saag with potato:** add 1 medium potato (peeled, cubed small) along with the greens; the potato softens during the cook and gives extra body. Makes the side into a more substantial dish.
+- **Saag with mushrooms:** add 200 g of sliced mushrooms (any type) along with the garlic and chillies; sauté for 5 minutes till they release their water before adding the greens. Adds umami and substance.
 
 ## Serving
-On a Bhutanese table alongside red rice, ema datshi (the chilli-cheese national dish), shakam paa (dried beef stew), [ezay](ezay.md) (chilli relish), and possibly [jaju](../jaju.md) (mushroom soup); the saag is the green vegetable contribution that provides relief from the chilli-forward dishes. Eat with the right hand by forming small balls of rice and saag between thumb and fingers; or use a fork.
+- On a Bhutanese table alongside red rice, ema datshi (the chilli-cheese national dish), shakam paa (dried beef stew), [ezay](ezay.md) (chilli relish), and possibly [jaju](../jaju.md) (mushroom soup); the saag is the green vegetable contribution that provides relief from the chilli-forward dishes. Eat with the right hand by forming small balls of rice and saag between thumb and fingers; or use a fork.
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour deepens overnight.

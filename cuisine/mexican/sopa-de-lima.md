@@ -98,13 +98,13 @@ Sopa de lima is the iconic chicken-lime soup of Mexico's Yucatán peninsula, par
 - **The Mayan-Yucatecan flavour profile:** distinct from central Mexican cooking; gentler, more aromatic, less spice-forward.
 
 ## Variations
-**Sopa de pollo Yucateca:** less lime, more black pepper; called "sopa de pollo" instead of "sopa de lima" but otherwise similar.
-**With pibil chicken:** swap regular chicken for pibil-style (achiote-marinated) chicken; gives extra colour and flavour.
-**Vegetarian sopa de lima:** swap chicken for cubed firm tofu or chickpeas; use vegetable stock; same procedure.
-**Spicier:** double the habanero; add 2 chiles de árbol to the broth; properly Yucatecan fierce.
+- **Sopa de pollo Yucateca:** less lime, more black pepper; called "sopa de pollo" instead of "sopa de lima" but otherwise similar.
+- **With pibil chicken:** swap regular chicken for pibil-style (achiote-marinated) chicken; gives extra colour and flavour.
+- **Vegetarian sopa de lima:** swap chicken for cubed firm tofu or chickpeas; use vegetable stock; same procedure.
+- **Spicier:** double the habanero; add 2 chiles de árbol to the broth; properly Yucatecan fierce.
 
 ## Serving
-In deep bowls with all the traditional garnishes. Drink: cold Mexican beer (Pacifico, Sol), Yucatecan agua de chaya (chaya leaf drink), or fresh agua de horchata. As a light Yucatán-Mexican lunch.
+- In deep bowls with all the traditional garnishes. Drink: cold Mexican beer (Pacifico, Sol), Yucatecan agua de chaya (chaya leaf drink), or fresh agua de horchata. As a light Yucatán-Mexican lunch.
 
 ## Storage
 - Best eaten the day made.

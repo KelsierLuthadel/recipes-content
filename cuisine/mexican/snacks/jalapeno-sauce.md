@@ -42,7 +42,7 @@ A no-cook blender sauce. Pickled jalapeños bring brine and a manageable heat th
 - **Vegan version**: use cashew-cream (1/3 cup soaked cashews blended with water) for the sour cream and vegan mayo. The herb-jalapeño-lime profile carries it.
 
 ## Serving
-Drizzled over tacos al pastor, carnitas, chicken tinga, fish tacos. Smeared inside burritos. Spooned over a steak quesadilla. As a dip with tortilla chips. Anywhere you'd use a sour-cream-based crema.
+- Drizzled over tacos al pastor, carnitas, chicken tinga, fish tacos. Smeared inside burritos. Spooned over a steak quesadilla. As a dip with tortilla chips. Anywhere you'd use a sour-cream-based crema.
 
 ## Storage
 In a sealed jar in the fridge for up to 3 days. Better on day 2. Don't freeze, sour cream weeps on thawing.

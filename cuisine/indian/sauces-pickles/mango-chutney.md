@@ -66,14 +66,14 @@ The foundational sweet preserve of Indian kitchens and the most exported Indian 
 - **Spice Adjustment:** Chilli powder is optional; add it only if you want heat.
 
 ## Variations
-**Spicy Heat:** Add 1-2 teaspoons chilli powder for more pronounced heat.
-**With Turmeric:** Add ½ teaspoon ground turmeric for earthiness and color.
-**Mint Version:** Add ¼ cup fresh chopped mint in the last 5 minutes of cooking.
-**Smooth Texture:** Blend until completely smooth for a refined consistency.
+- **Spicy Heat:** Add 1-2 teaspoons chilli powder for more pronounced heat.
+- **With Turmeric:** Add ½ teaspoon ground turmeric for earthiness and color.
+- **Mint Version:** Add ¼ cup fresh chopped mint in the last 5 minutes of cooking.
+- **Smooth Texture:** Blend until completely smooth for a refined consistency.
 
 ## Serving
-Serve with: Samosas, pakora, rotis, curries, cheeses
-Garnish: None needed; this is a condiment
+- Serve with: Samosas, pakora, rotis, curries, cheeses
+- Garnish: None needed; this is a condiment
 
 ## Storage
 - Store in sterilized glass jars with tight-fitting lids

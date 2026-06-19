@@ -67,7 +67,7 @@ Hungarian gulyás soup is the traditional shepherd's pot from the Hungarian plai
 - **Simmering:** Allow at least 1 hour for the beef to become tender; longer is better.
 
 ## Serving
-Serve hot, topped with fresh chopped parsley.
+- Serve hot, topped with fresh chopped parsley.
 
 ## Storage
 - Refrigerate up to 3 days; flavors improve over time.

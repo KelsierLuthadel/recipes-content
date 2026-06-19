@@ -101,13 +101,13 @@ Rosquillas en miel ("ring biscuits in honey") is one of Honduras's most beloved 
 - **Rest before serving:** the 10-minute rest after assembling lets the syrup fully penetrate the biscuits. Don't rush; let them properly soak.
 
 ## Variations
-**Panela syrup version:** swap the honey for 250 g of panela (raw cane sugar; or use dark brown sugar) dissolved in 250 ml of water; cook to a syrup. Gives a deeper molasses-like flavour common in rural Honduras.
-**Larger rosquillas:** make 12 larger rings (50 g each); bake 25-30 minutes; gives a heartier version that's properly Honduran market-style.
-**Spiced rosquillas:** add ¼ teaspoon of ground allspice and 1 tablespoon of grated orange zest to the dough; gives a more aromatic version.
-**Plain rosquillas (without syrup):** serve the baked rosquillas plain, dusted with caster sugar; eat as a savoury-sweet biscuit with coffee. Common Honduran morning snack.
+- **Panela syrup version:** swap the honey for 250 g of panela (raw cane sugar; or use dark brown sugar) dissolved in 250 ml of water; cook to a syrup. Gives a deeper molasses-like flavour common in rural Honduras.
+- **Larger rosquillas:** make 12 larger rings (50 g each); bake 25-30 minutes; gives a heartier version that's properly Honduran market-style.
+- **Spiced rosquillas:** add ¼ teaspoon of ground allspice and 1 tablespoon of grated orange zest to the dough; gives a more aromatic version.
+- **Plain rosquillas (without syrup):** serve the baked rosquillas plain, dusted with caster sugar; eat as a savoury-sweet biscuit with coffee. Common Honduran morning snack.
 
 ## Serving
-On a serving platter with the syrup pooling around. With strong sweet Honduran coffee (the proper Honduran way: dark roast, slightly bitter, sweet); or with hot chocolate; or with cold milk for children. After a Sunday lunch, at afternoon tea, or as dessert at a family gathering.
+- On a serving platter with the syrup pooling around. With strong sweet Honduran coffee (the proper Honduran way: dark roast, slightly bitter, sweet); or with hot chocolate; or with cold milk for children. After a Sunday lunch, at afternoon tea, or as dessert at a family gathering.
 
 ## Storage
 - Keeps at room temperature in a sealed container 3 days; the syrup keeps the biscuits soft.

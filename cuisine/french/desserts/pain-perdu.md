@@ -48,7 +48,7 @@ Pain perdu is French toast at its most elegant, the dessert that turns yesterday
 - Butter must be foaming hot when the brioche slices are added; this creates the essential golden crust and crispy exterior
 
 ## Serving
-Serve the pain perdu warm, still with the sugar crust crispy and glistening. Accompany with whipped cream, fresh berries, or a warm fruit compote. The contrast between the crisp exterior, soft brioche interior, and accompanying sauce creates a memorable dish.
+- Serve the pain perdu warm, still with the sugar crust crispy and glistening. Accompany with whipped cream, fresh berries, or a warm fruit compote. The contrast between the crisp exterior, soft brioche interior, and accompanying sauce creates a memorable dish.
 
 ## Storage
 Pain perdu is best served immediately while warm and the sugar crust is crisp. The brioche can be baked the day before and kept wrapped at room temperature. The soaking mixture can be prepared several hours ahead. Soak and fry the brioche only when ready to serve, as softness develops quickly after cooking.

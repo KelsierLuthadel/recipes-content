@@ -60,7 +60,7 @@ Halloumi is the great Cypriot cheese, made from a blend of sheep's and goat's mi
 - **Pan-fried for indoor cooking.** A dry non-stick pan over high heat works when a grill is not available; the result is browner but lacks the smoke.
 
 ## Serving
-Serve with warm pita · talattouri · a chopped salad · a bowl of olives · a glass of Xynisteri or a cold Keo beer.
+- Serve with warm pita · talattouri · a chopped salad · a bowl of olives · a glass of Xynisteri or a cold Keo beer.
 
 ## Storage
 - Eat hot. Cooled halloumi can be refrigerated 2 days but the texture suffers; reheat under a hot grill for a minute (do not microwave).

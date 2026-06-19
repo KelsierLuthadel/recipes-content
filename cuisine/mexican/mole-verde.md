@@ -106,13 +106,13 @@ Mole verde (sometimes called pipián verde for the toasted pumpkin seeds at its 
 - **Bright vibrant green:** if your sauce goes drab, you've overcooked.
 
 ## Variations
-**Pork mole verde (pipián de cerdo):** swap chicken for pork shoulder cubed; cook 60 minutes for tenderness.
-**Vegetarian mole verde (vegetables in pipián):** skip the chicken; use vegetable stock; add cubed vegetables (chayote, zucchini, mushrooms) cooked separately and combined with sauce.
-**Mole pipián rojo:** swap green vegetables for red, red tomatoes, ancho chillies, dried red chillies, gives a related red pipián.
-**Without cream:** the cream is optional; vegan-friendly without.
+- **Pork mole verde (pipián de cerdo):** swap chicken for pork shoulder cubed; cook 60 minutes for tenderness.
+- **Vegetarian mole verde (vegetables in pipián):** skip the chicken; use vegetable stock; add cubed vegetables (chayote, zucchini, mushrooms) cooked separately and combined with sauce.
+- **Mole pipián rojo:** swap green vegetables for red, red tomatoes, ancho chillies, dried red chillies, gives a related red pipián.
+- **Without cream:** the cream is optional; vegan-friendly without.
 
 ## Serving
-On plates with rice underneath and the sauce ladled generously. Warm tortillas, avocado, lime, refried beans, queso fresco. Drink: cold Pacifico beer, agua de jamaica (hibiscus), or tequila with lime.
+- On plates with rice underneath and the sauce ladled generously. Warm tortillas, avocado, lime, refried beans, queso fresco. Drink: cold Pacifico beer, agua de jamaica (hibiscus), or tequila with lime.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

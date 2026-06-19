@@ -57,7 +57,7 @@ Chicken jus with savory is the building block for the simple roasted-chicken gra
 - **Deglazingprocess:** Ensure you scrape up all browned bits for maximum flavour extraction.
 
 ## Serving
-Serve warm in a jug alongside rested roasted chicken, poussin, guinea fowl, or other roasted poultry.
+- Serve warm in a jug alongside rested roasted chicken, poussin, guinea fowl, or other roasted poultry.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

@@ -56,7 +56,7 @@ Potato and garlic soup is the rustic French velouté that turns two cupboard sta
 - **Stock:** Vegetable stock keeps it vegetarian; chicken adds richness.
 
 ## Serving
-Serve hot with crusty bread and a sprinkle of chives or rosemary.
+- Serve hot with crusty bread and a sprinkle of chives or rosemary.
 
 ## Storage
 - Refrigerate up to 3 days; reheat gently.

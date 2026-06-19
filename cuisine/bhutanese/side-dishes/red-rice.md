@@ -61,13 +61,13 @@ Bhutanese red rice is the country's national starch and the carbohydrate foundat
 - **Adjust water if your rice is different:** the 1:2 ratio is right for Bhutanese red rice; Camargue red sometimes wants 1:2.25; some American Wehani wants 1:2; experiment with the brand you have and find the ratio that gives the texture you like.
 
 ## Variations
-**Red rice with butter and dill:** stir 25 g of butter and 2 tablespoons of chopped fresh dill through the cooked rice for a richer side. Adapted from Northern European style; works well with milder stews.
-**Red rice with toasted sesame:** stir 2 tablespoons of toasted sesame seeds through the cooked rice; adds a nutty note. Modern Himalayan-restaurant style.
-**Red rice with kasha:** cook a 50/50 mix of red rice and buckwheat groats with 1:2 grain-to-water ratio; gives a more complex grain base. Non-traditional but lovely.
-**Red rice porridge (juma-style):** use a 1:4 ratio (more water) and cook 50 minutes; finish with butter and salt for a savoury breakfast porridge. A Bhutanese variation.
+- **Red rice with butter and dill:** stir 25 g of butter and 2 tablespoons of chopped fresh dill through the cooked rice for a richer side. Adapted from Northern European style; works well with milder stews.
+- **Red rice with toasted sesame:** stir 2 tablespoons of toasted sesame seeds through the cooked rice; adds a nutty note. Modern Himalayan-restaurant style.
+- **Red rice with kasha:** cook a 50/50 mix of red rice and buckwheat groats with 1:2 grain-to-water ratio; gives a more complex grain base. Non-traditional but lovely.
+- **Red rice porridge (juma-style):** use a 1:4 ratio (more water) and cook 50 minutes; finish with butter and salt for a savoury breakfast porridge. A Bhutanese variation.
 
 ## Serving
-The proper Bhutanese way: spoon a generous portion into a wide bowl as the base, then ladle ema datshi (chilli-cheese), shakam paa (dried beef), kewa datshi (potato-cheese) or any other fiery stew over the top so the rice soaks the sauce. Eat with the right hand (Bhutanese tradition) by forming small balls of rice and stew between thumb and fingers.
+- The proper Bhutanese way: spoon a generous portion into a wide bowl as the base, then ladle ema datshi (chilli-cheese), shakam paa (dried beef), kewa datshi (potato-cheese) or any other fiery stew over the top so the rice soaks the sauce. Eat with the right hand (Bhutanese tradition) by forming small balls of rice and stew between thumb and fingers.
 
 ## Storage
 - Best eaten warm and fresh.

@@ -94,13 +94,13 @@ Tennessee country fried steak (also called chicken-fried steak in much of the So
 - **Ladle gravy generously.**
 
 ## Variations
-**With sausage gravy:** add cooked breakfast sausage to the gravy.
-**With pork chop:** swap cube steak for pork loin chops, pounded thin.
-**Buttermilk version:** use buttermilk instead of milk for the egg wash.
-**Spicier:** double cayenne.
+- **With sausage gravy:** add cooked breakfast sausage to the gravy.
+- **With pork chop:** swap cube steak for pork loin chops, pounded thin.
+- **Buttermilk version:** use buttermilk instead of milk for the egg wash.
+- **Spicier:** double cayenne.
 
 ## Serving
-Sunday breakfast, Wednesday supper, diner classic.
+- Sunday breakfast, Wednesday supper, diner classic.
 
 ## Storage
 - Best immediately.

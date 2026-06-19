@@ -72,7 +72,7 @@ Roti prata is the Singapore-Indian version of the Indian paratha - same dough fa
 - **Ghee not butter:** Ghee has a higher smoke point and the authentic flavour. Vegetable oil works but loses character.
 
 ## Serving
-Serve hot with a fish or chicken curry on the side for the proper breakfast version, or with granulated sugar in a small dish for the kids' tea-time version. Tearing the prata with the hands and dipping into the curry is the right way.
+- Serve hot with a fish or chicken curry on the side for the proper breakfast version, or with granulated sugar in a small dish for the kids' tea-time version. Tearing the prata with the hands and dipping into the curry is the right way.
 
 ## Storage
 - Best fresh and hot. Stretched-and-folded prata can be frozen between sheets of greaseproof paper for up to 1 month; cook from frozen, adding 30-60 seconds per side.

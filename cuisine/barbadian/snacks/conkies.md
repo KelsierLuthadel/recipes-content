@@ -109,17 +109,17 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 - **Bajan thyme:** the small amount of fresh thyme is the Bajan signature; without it, you've made a generic Caribbean cornmeal pudding.
 
 ## Variations
-**Conkies with raisins and currants:** the festive variant - 100 g raisins + 50 g currants + 50 g chopped dates.
-**Plain conkies:** skip the raisins and dried fruit; the simpler variant.
-**Spicier conkies:** double the ginger and add 1/4 teaspoon ground cloves, the heavier-spice variant.
-**Modern bake-in-a-tin variant:** if you can't find banana leaves, bake the entire batter in a 23 × 23 cm tin at 180°C for 1 hour, less aromatic but practical.
-**Mini conkies (individual portion):** make 24 smaller parcels instead of 12-15 larger ones; reduce steam time to 60 minutes.
-**Pumpkin-only conkies (no sweet potato):** double the grated pumpkin; skip the sweet potato.
-**Vegan conkies:** swap eggs for 4 tablespoons aquafaba + 2 tablespoons milled flax + 2 tablespoons water; butter for coconut oil; the dish is otherwise vegan.
-**Sweet potato conkies (sweet potato only):** double the grated sweet potato; skip the pumpkin.
+- **Conkies with raisins and currants:** the festive variant - 100 g raisins + 50 g currants + 50 g chopped dates.
+- **Plain conkies:** skip the raisins and dried fruit; the simpler variant.
+- **Spicier conkies:** double the ginger and add 1/4 teaspoon ground cloves, the heavier-spice variant.
+- **Modern bake-in-a-tin variant:** if you can't find banana leaves, bake the entire batter in a 23 × 23 cm tin at 180°C for 1 hour, less aromatic but practical.
+- **Mini conkies (individual portion):** make 24 smaller parcels instead of 12-15 larger ones; reduce steam time to 60 minutes.
+- **Pumpkin-only conkies (no sweet potato):** double the grated pumpkin; skip the sweet potato.
+- **Vegan conkies:** swap eggs for 4 tablespoons aquafaba + 2 tablespoons milled flax + 2 tablespoons water; butter for coconut oil; the dish is otherwise vegan.
+- **Sweet potato conkies (sweet potato only):** double the grated sweet potato; skip the pumpkin.
 
 ## Serving
-At a Bajan Independence Day (30 November) celebration (the traditional setting; the dish is essentially synonymous with Bajan Independence Day) · at a Bajan November / December family gathering · at a Bajan church social · at a Bajan harvest festival · at home as the Bajan tea-cake tradition · paired with strong Bajan tea, mauby, cold cocoa, or a slice of Bajan rum cake for the full Bajan tea spread.
+- At a Bajan Independence Day (30 November) celebration (the traditional setting; the dish is essentially synonymous with Bajan Independence Day) · at a Bajan November / December family gathering · at a Bajan church social · at a Bajan harvest festival · at home as the Bajan tea-cake tradition · paired with strong Bajan tea, mauby, cold cocoa, or a slice of Bajan rum cake for the full Bajan tea spread.
 
 ## Storage
 - Wrapped conkies refrigerate 5 days; reheat in the banana leaf in a hot oven for 10 minutes.

@@ -114,16 +114,16 @@ A Belgian praline is what most of the world simply calls "a Belgian chocolate", 
 - **A trained Belgian chocolatier makes this look easy.** Expect your first attempt to have soft spots and uneven shells. Practice (and a thermometer) help.
 
 ## Variations
-**Praliné with feuilletine (crispy):** add 20 g crushed feuilletine wafers to the praliné paste before piping, adds crunch.
-**Champagne truffle filling:** swap the cream in Filling 1 for 70 ml cream + 30 ml champagne or sparkling wine.
-**Coffee ganache:** add 1 tablespoon espresso powder to the cream in Filling 1 before pouring over the chocolate.
-**Raspberry-white-chocolate filling:** swap the dark chocolate in Filling 1 for white; reduce 50 g fresh raspberries to a thick purée and stir in.
-**Salted caramel filling:** make a soft caramel (sugar, cream, butter, salt) cooled to 30°C; pipe into shells.
-**Pistachio gianduja:** swap the hazelnuts in Filling 2 for pistachios; use white chocolate.
-**Dark chocolate enrobed truffles (alternative, no mould needed):** make ganache balls, refrigerate till firm, dip in tempered chocolate, roll in cocoa powder, a simpler praliné-style treat without the moulds.
+- **Praliné with feuilletine (crispy):** add 20 g crushed feuilletine wafers to the praliné paste before piping, adds crunch.
+- **Champagne truffle filling:** swap the cream in Filling 1 for 70 ml cream + 30 ml champagne or sparkling wine.
+- **Coffee ganache:** add 1 tablespoon espresso powder to the cream in Filling 1 before pouring over the chocolate.
+- **Raspberry-white-chocolate filling:** swap the dark chocolate in Filling 1 for white; reduce 50 g fresh raspberries to a thick purée and stir in.
+- **Salted caramel filling:** make a soft caramel (sugar, cream, butter, salt) cooled to 30°C; pipe into shells.
+- **Pistachio gianduja:** swap the hazelnuts in Filling 2 for pistachios; use white chocolate.
+- **Dark chocolate enrobed truffles (alternative, no mould needed):** make ganache balls, refrigerate till firm, dip in tempered chocolate, roll in cocoa powder, a simpler praliné-style treat without the moulds.
 
 ## Serving
-At a Belgian chocolatier or pâtisserie in Brussels, Antwerp or Bruges (the traditional setting) · in a hand-tied gift box from Leonidas, Neuhaus, Pierre Marcolini or Galler (the classic Belgian premium boutiques) · after a Belgian dinner with coffee · at a Belgian wedding reception · at Belgian Christmas or Easter as a gift · as the traditional Belgian "I brought you these from Brussels" present.
+- At a Belgian chocolatier or pâtisserie in Brussels, Antwerp or Bruges (the traditional setting) · in a hand-tied gift box from Leonidas, Neuhaus, Pierre Marcolini or Galler (the classic Belgian premium boutiques) · after a Belgian dinner with coffee · at a Belgian wedding reception · at Belgian Christmas or Easter as a gift · as the traditional Belgian "I brought you these from Brussels" present.
 
 ## Storage
 - Store in a single layer in a cool tin (16-20°C), away from light and humidity, for up to 3 weeks.

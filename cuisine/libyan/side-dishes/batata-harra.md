@@ -54,7 +54,7 @@ Batata harra (literally "hot potatoes") shows up across the Levant and Maghreb i
 - **Lemon at the end:** Hot acid wilts the herbs and dulls the spice; add lemon off the heat, fresh herbs immediately before serving.
 
 ## Serving
-Eat warm with grilled fish, fried eggs, lamb chops, or simply with bread and a glass of mint tea. Cold or room temperature also good as part of a mezze spread.
+- Eat warm with grilled fish, fried eggs, lamb chops, or simply with bread and a glass of mint tea. Cold or room temperature also good as part of a mezze spread.
 
 ## Storage
 - Refrigerate 2 days. Reheat in a hot pan to recrisp - microwaved batata harra is soft and oily.

@@ -90,13 +90,13 @@ Southern fried chicken is the most iconic dish of the American South and one of 
 - **Internal 75°C:** doneness test.
 
 ## Variations
-**Hot honey:** drizzle hot honey on top after frying.
-**Nashville hot chicken:** brush with cayenne-and-butter sauce after frying.
-**Without buttermilk:** use milk + 2 tablespoons lemon juice + hot sauce.
-**Spicier:** double the cayenne in the flour.
+- **Hot honey:** drizzle hot honey on top after frying.
+- **Nashville hot chicken:** brush with cayenne-and-butter sauce after frying.
+- **Without buttermilk:** use milk + 2 tablespoons lemon juice + hot sauce.
+- **Spicier:** double the cayenne in the flour.
 
 ## Serving
-On a platter at the Southern Sunday table. Mashed potatoes, gravy, biscuits, collards, slaw, sweet tea.
+- On a platter at the Southern Sunday table. Mashed potatoes, gravy, biscuits, collards, slaw, sweet tea.
 
 ## Storage
 - Best eaten within 1 hour of frying.

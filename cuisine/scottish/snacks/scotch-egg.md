@@ -105,15 +105,15 @@ The Scotch egg has a contested origin: tradition credits Fortnum and Mason of Lo
 - **The yolk should still be slightly runny when sliced:** test one Scotch egg before serving 6 to a dinner party.
 
 ## Variations
-**Haggis Scotch egg (Scottish signature):** stir 100 g crumbled haggis into the sausagemeat. The Burns Night canapé and the Scottish gastropub's signature.
-**Black-pudding Scotch egg (Scottish coastal):** stir 100 g crumbled Stornoway black pudding into the sausagemeat, earthier, more deeply Scottish.
-**Vegetarian Scotch egg:** swap sausagemeat for a mixture of cooked Puy lentils + chopped mushrooms + breadcrumbs + chopped herbs + an egg to bind. Bake; deep-fry won't work.
-**Mini Scotch eggs (canapé):** use quail eggs (soft-boil 2 minutes); halve the meat per egg; makes 24-30 from the same recipe.
-**Curried Scotch egg:** add 1 teaspoon curry powder + ½ teaspoon ground cumin to the sausagemeat.
-**Chorizo Scotch egg:** swap pork sausagemeat for chorizo sausagemeat, smokier, spicier.
+- **Haggis Scotch egg (Scottish signature):** stir 100 g crumbled haggis into the sausagemeat. The Burns Night canapé and the Scottish gastropub's signature.
+- **Black-pudding Scotch egg (Scottish coastal):** stir 100 g crumbled Stornoway black pudding into the sausagemeat, earthier, more deeply Scottish.
+- **Vegetarian Scotch egg:** swap sausagemeat for a mixture of cooked Puy lentils + chopped mushrooms + breadcrumbs + chopped herbs + an egg to bind. Bake; deep-fry won't work.
+- **Mini Scotch eggs (canapé):** use quail eggs (soft-boil 2 minutes); halve the meat per egg; makes 24-30 from the same recipe.
+- **Curried Scotch egg:** add 1 teaspoon curry powder + ½ teaspoon ground cumin to the sausagemeat.
+- **Chorizo Scotch egg:** swap pork sausagemeat for chorizo sausagemeat, smokier, spicier.
 
 ## Serving
-At a Scottish gastropub as a starter with watercress and mustard (the traditional setting) · at a Scottish picnic at a Highland castle ground · at a Burns Night canape table · at a Scottish family Sunday picnic · cold in a Scottish school packed lunch · at a Scottish craft-beer bar with a pint of heavy ale.
+- At a Scottish gastropub as a starter with watercress and mustard (the traditional setting) · at a Scottish picnic at a Highland castle ground · at a Burns Night canape table · at a Scottish family Sunday picnic · cold in a Scottish school packed lunch · at a Scottish craft-beer bar with a pint of heavy ale.
 
 ## Storage
 - Refrigerates 3 days; eat cold from the fridge for picnics.

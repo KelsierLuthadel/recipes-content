@@ -82,7 +82,7 @@ Riskrem is the Norwegian Christmas Eve dessert: cold rice porridge (risgrøt - m
 - **The almond is a real choking hazard:** Particularly for young children. Either warn loudly, or leave the almond out for kid-heavy dinners.
 
 ## Serving
-Christmas Eve dessert in Norwegian homes. The almond hunt is part of the entertainment. Serve at the end of a long Christmas feast as a light, sweet finish.
+- Christmas Eve dessert in Norwegian homes. The almond hunt is part of the entertainment. Serve at the end of a long Christmas feast as a light, sweet finish.
 
 ## Storage
 - Refrigerates 3 days.

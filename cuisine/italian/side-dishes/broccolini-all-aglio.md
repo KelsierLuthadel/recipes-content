@@ -58,13 +58,13 @@ Broccolini all'aglio (literally "broccolini with garlic"; broccolini is a hybrid
 - **Lemon at the end:** brightness.
 
 ## Variations
-**With anchovy:** add 2 anchovy fillets to the oil with the garlic; gives umami.
-**With pine nuts:** add 30 g of toasted pine nuts; gives crunch.
-**With raisins:** add 30 g of raisins; gives sweetness (Sicilian style).
-**Cheesy:** add 50 g of grated Parmesan at the end.
+- **With anchovy:** add 2 anchovy fillets to the oil with the garlic; gives umami.
+- **With pine nuts:** add 30 g of toasted pine nuts; gives crunch.
+- **With raisins:** add 30 g of raisins; gives sweetness (Sicilian style).
+- **Cheesy:** add 50 g of grated Parmesan at the end.
 
 ## Serving
-Alongside any Italian main: bistecca, osso buco, pasta, fish.
+- Alongside any Italian main: bistecca, osso buco, pasta, fish.
 
 ## Storage
 - Best eaten warm.

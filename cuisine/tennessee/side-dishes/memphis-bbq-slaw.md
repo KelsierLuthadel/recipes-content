@@ -67,13 +67,13 @@ Memphis vinegar slaw (also called BBQ slaw or red slaw) is the traditional Memph
 - **Toss before serving.**
 
 ## Variations
-**With mayo (less traditional):** add 4 tablespoons mayonnaise to the dressing.
-**Spicier:** double hot sauce.
-**With pickled jalapeños:** add chopped.
-**Sweeter:** double sugar.
+- **With mayo (less traditional):** add 4 tablespoons mayonnaise to the dressing.
+- **Spicier:** double hot sauce.
+- **With pickled jalapeños:** add chopped.
+- **Sweeter:** double sugar.
 
 ## Serving
-On Memphis pulled pork sandwiches; alongside ribs, brisket. Sunday BBQ.
+- On Memphis pulled pork sandwiches; alongside ribs, brisket. Sunday BBQ.
 
 ## Storage
 - Keeps refrigerated 5 days; gets better.

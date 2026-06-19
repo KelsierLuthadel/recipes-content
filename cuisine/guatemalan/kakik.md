@@ -87,7 +87,7 @@ Kak'ik (the Q'eqchi' word means "red") is the ceremonial turkey soup of the Q'eq
 - **In a clay pot:** traditional Q'eqchi' kak'ik is cooked in a clay olla over a wood fire; the smoke note is part of the dish.
 
 ## Serving
-With white rice · tamalitos blancos · sliced avocado · lime wedges · the turkey piece sitting in the bowl
+- With white rice · tamalitos blancos · sliced avocado · lime wedges · the turkey piece sitting in the bowl
 
 ## Storage
 - Keeps 4 days refrigerated and freezes 3 months (the broth freezes better than the turkey, which can go stringy)

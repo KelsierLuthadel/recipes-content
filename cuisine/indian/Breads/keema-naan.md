@@ -82,7 +82,7 @@ The trick is to cook the keema before it goes into the dough. A raw stuffing mak
 - **Tandoor-style at home:** a 250°C cast-iron pan, dough slapped on, lid on for 90 seconds, then a quick blast under the grill to colour the top.
 
 ## Serving
-A keema naan is substantial enough to eat as a meal. Cut into wedges and serve with [Mint Raita](../sauces-pickles/mint-raita.md), a sliced cucumber salad and a wedge of lemon. As a side to a curry, a half-naan per person is plenty.
+- A keema naan is substantial enough to eat as a meal. Cut into wedges and serve with [Mint Raita](../sauces-pickles/mint-raita.md), a sliced cucumber salad and a wedge of lemon. As a side to a curry, a half-naan per person is plenty.
 
 ## Storage
 - Best straight off the grill.

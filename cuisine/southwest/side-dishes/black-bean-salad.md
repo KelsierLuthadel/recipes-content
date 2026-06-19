@@ -58,13 +58,13 @@ Southwest black bean salad is one of the most beloved cold sides in Southwestern
 - **Add avocado at the last minute.**
 
 ## Variations
-**With mango:** add 1 diced mango; tropical twist.
-**Spicier:** double the jalapeños; add chopped serrano.
-**With queso fresco:** crumble over the top.
-**With charred corn:** char the corn on a grill; gives smoky depth.
+- **With mango:** add 1 diced mango; tropical twist.
+- **Spicier:** double the jalapeños; add chopped serrano.
+- **With queso fresco:** crumble over the top.
+- **With charred corn:** char the corn on a grill; gives smoky depth.
 
 ## Serving
-As a side at picnics, BBQs, potlucks. With grilled meats, tacos, fajitas.
+- As a side at picnics, BBQs, potlucks. With grilled meats, tacos, fajitas.
 
 ## Storage
 - Keeps refrigerated 3 days (without avocado).

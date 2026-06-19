@@ -62,7 +62,7 @@ Sukuma wiki is the standing green of Kenya, served alongside ugali three or four
 - **Kachumbari topper:** spoon a tablespoon of fresh kachumbari over the hot sukuma at the table.
 
 ## Serving
-Piled alongside a wedge of ugali · spooned over rice · packed into a chapati wrap with a slick of pili pili · over a fried egg for breakfast.
+- Piled alongside a wedge of ugali · spooned over rice · packed into a chapati wrap with a slick of pili pili · over a fried egg for breakfast.
 
 ## Storage
 - Refrigerate 3 days; the greens darken but the flavour holds.

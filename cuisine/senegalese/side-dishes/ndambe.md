@@ -102,13 +102,13 @@ Ndambé is Senegal's everyday black-eyed pea stew, eaten across the country as t
 - **The Sunday breakfast sandwich:** the proper Senegalese way to eat ndambé is piled into a halved fresh baguette and eaten as a breakfast sandwich, often with a glass of fresh ginger drink or strong coffee on the side. The baguette wrap is messy and brilliant; embrace it.
 
 ## Variations
-**Ndambé with smoked fish:** add 100 g of broken-up smoked fish (mackerel or bonga) to the sauce in the last 10 minutes; turns a vegetarian side into a heartier meal.
-**Ndambé with beef:** add 300 g of diced beef shin to the aromatic base after the onions; brown briefly, then simmer with the tomato for 20 minutes before adding the cooked beans. Wedding-banquet version.
-**Cold ndambé salad:** leftover ndambé tossed cold with diced cucumber, more chopped tomato and lime juice, served with bread; a Senegalese summer lunch.
-**Ndambé farci:** the elaborate Saint-Louis version where the ndambé is stuffed into halved aubergines or peppers and baked till the vegetable goes soft and the filling crisps slightly on top.
+- **Ndambé with smoked fish:** add 100 g of broken-up smoked fish (mackerel or bonga) to the sauce in the last 10 minutes; turns a vegetarian side into a heartier meal.
+- **Ndambé with beef:** add 300 g of diced beef shin to the aromatic base after the onions; brown briefly, then simmer with the tomato for 20 minutes before adding the cooked beans. Wedding-banquet version.
+- **Cold ndambé salad:** leftover ndambé tossed cold with diced cucumber, more chopped tomato and lime juice, served with bread; a Senegalese summer lunch.
+- **Ndambé farci:** the elaborate Saint-Louis version where the ndambé is stuffed into halved aubergines or peppers and baked till the vegetable goes soft and the filling crisps slightly on top.
 
 ## Serving
-The classic forms: piled into a fresh baguette as a Sunday breakfast sandwich, or spooned over rice or thiéré as a side or stand-alone meal. Drink: bissap (hibiscus drink), bouye (baobab drink), strong coffee with sugar, or fresh ginger drink.
+- The classic forms: piled into a fresh baguette as a Sunday breakfast sandwich, or spooned over rice or thiéré as a side or stand-alone meal. Drink: bissap (hibiscus drink), bouye (baobab drink), strong coffee with sugar, or fresh ginger drink.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight and day-after ndambé is excellent.

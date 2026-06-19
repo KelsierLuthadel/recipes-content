@@ -107,16 +107,16 @@ Tourtière is Quebec's most identity-defining family pie, made for Christmas Eve
 - **Lard vs all-butter:** lard gives a flakier traditional Quebec crust; all-butter gives a richer modern crust. Both are valid.
 
 ## Variations
-**Tourtière du Lac-Saint-Jean:** cubed game meats (venison, wild boar, hare) layered with potatoes and onions in a deep pie dish; baked 6 hours slow. A completely different (and longer-cooked) dish from the Lac-Saint-Jean region of northern Quebec.
-**Tourtière aux deux viandes:** the Christmas variant, half pork, half ground turkey or chicken; lighter.
-**Tourtière de cerf (venison):** swap the beef for minced venison; the Quebec hunter's variant.
-**Pâté chinois (the "shepherd's pie cousin"):** a layered casserole, same meat filling but layered with corn niblets in the middle and mashed potato on top, baked uncovered. Not a pie, but a sister dish in Quebec families.
-**Vegetarian tourtière:** swap meat for a mix of green lentils, chopped mushrooms, finely diced carrot and walnuts; same spices and mashed potato binding. Excellent.
-**Mini-tourtières (individual):** divide the filling among 6 individual pie dishes; bake 25 minutes total, the buffet/canapé variant.
-**Acadian variant (tourtière acadienne):** add a layer of sliced potato in the middle, more allspice, less cinnamon, the Maritime cousin.
+- **Tourtière du Lac-Saint-Jean:** cubed game meats (venison, wild boar, hare) layered with potatoes and onions in a deep pie dish; baked 6 hours slow. A completely different (and longer-cooked) dish from the Lac-Saint-Jean region of northern Quebec.
+- **Tourtière aux deux viandes:** the Christmas variant, half pork, half ground turkey or chicken; lighter.
+- **Tourtière de cerf (venison):** swap the beef for minced venison; the Quebec hunter's variant.
+- **Pâté chinois (the "shepherd's pie cousin"):** a layered casserole, same meat filling but layered with corn niblets in the middle and mashed potato on top, baked uncovered. Not a pie, but a sister dish in Quebec families.
+- **Vegetarian tourtière:** swap meat for a mix of green lentils, chopped mushrooms, finely diced carrot and walnuts; same spices and mashed potato binding. Excellent.
+- **Mini-tourtières (individual):** divide the filling among 6 individual pie dishes; bake 25 minutes total, the buffet/canapé variant.
+- **Acadian variant (tourtière acadienne):** add a layer of sliced potato in the middle, more allspice, less cinnamon, the Maritime cousin.
 
 ## Serving
-At a Quebec Christmas Eve reveillon (the traditional setting; after midnight Mass) · at a Quebec sugar-shack lunch (cabane à sucre) · as Boxing Day lunch with leftover salads · at a Quebec funeral wake · as a working-day winter dinner with cider · as a packed lunch sliced cold (the Quebec lunchbox equivalent of pork pie).
+- At a Quebec Christmas Eve reveillon (the traditional setting; after midnight Mass) · at a Quebec sugar-shack lunch (cabane à sucre) · as Boxing Day lunch with leftover salads · at a Quebec funeral wake · as a working-day winter dinner with cider · as a packed lunch sliced cold (the Quebec lunchbox equivalent of pork pie).
 
 ## Storage
 - Refrigerates 4 days. Eat cold or reheat individual slices in a 180°C oven 15 minutes.

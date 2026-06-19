@@ -103,13 +103,13 @@ Bistec encebollado (literally "steak smothered with onions") is one of Puerto Ri
 - **Eat over rice:** the sauce-soaked rice is the best part. Generous rice underneath.
 
 ## Variations
-**Pollo encebollado:** swap the beef for chicken thigh fillets; cook the same way but increase simmer time to 30 minutes.
-**Pork chops encebollado:** swap for thin pork chops; same technique. Common variation in some PR households.
-**With bell peppers:** add 2 sliced bell peppers along with the onions; gives a more colourful version.
-**Spicier:** add 1 chopped habanero pepper to the cooking onions; properly Caribbean fierce.
+- **Pollo encebollado:** swap the beef for chicken thigh fillets; cook the same way but increase simmer time to 30 minutes.
+- **Pork chops encebollado:** swap for thin pork chops; same technique. Common variation in some PR households.
+- **With bell peppers:** add 2 sliced bell peppers along with the onions; gives a more colourful version.
+- **Spicier:** add 1 chopped habanero pepper to the cooking onions; properly Caribbean fierce.
 
 ## Serving
-Over hot white rice with the onion sauce ladled generously over everything. Habichuelas guisadas, tostones or maduros, sliced avocado, lime wedges. Drink: Medalla beer, fresh limeade, or coconut water. As a classic Boricua weeknight dinner.
+- Over hot white rice with the onion sauce ladled generously over everything. Habichuelas guisadas, tostones or maduros, sliced avocado, lime wedges. Drink: Medalla beer, fresh limeade, or coconut water. As a classic Boricua weeknight dinner.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

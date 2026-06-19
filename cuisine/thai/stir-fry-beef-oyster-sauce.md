@@ -59,7 +59,7 @@ Pad nam mun hoy translates as "fried with oyster sauce," and this beef version i
 * Many soy and oyster sauces contain gluten but gluten-free brands are available.
 
 ## Serving
-Serve with a hot bowl of jasmine rice.
+- Serve with a hot bowl of jasmine rice.
 
 ## Storage
 - Best served immediately; can be refrigerated for 1 day.

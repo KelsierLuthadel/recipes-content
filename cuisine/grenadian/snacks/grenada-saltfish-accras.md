@@ -65,14 +65,14 @@ Accras (from the West African akara) are the deep-fried fritters that travelled 
 - **Eat very hot:** accras lose their crisp edge within minutes; fry to order.
 
 ## Variations
-**Lobster accras:** swap saltfish for chopped poached lobster meat for a luxe version.
-**Conch accras:** chopped boiled conch in place of saltfish.
-**Pumpkin accras:** add 200 g grated cooked pumpkin to the batter.
-**Vegetarian accras:** swap saltfish for grated courgette and feta cheese.
-**With grated callaloo:** stir in 100 g blanched chopped callaloo for a green flecked accra.
+- **Lobster accras:** swap saltfish for chopped poached lobster meat for a luxe version.
+- **Conch accras:** chopped boiled conch in place of saltfish.
+- **Pumpkin accras:** add 200 g grated cooked pumpkin to the batter.
+- **Vegetarian accras:** swap saltfish for grated courgette and feta cheese.
+- **With grated callaloo:** stir in 100 g blanched chopped callaloo for a green flecked accra.
 
 ## Serving
-With Grenadian pepper sauce · with tamarind dipping sauce · at a Friday lime · at a beach bar · alongside cold Carib beer.
+- With Grenadian pepper sauce · with tamarind dipping sauce · at a Friday lime · at a beach bar · alongside cold Carib beer.
 
 ## Storage
 - Eat the day they are fried; accras lose their texture overnight.

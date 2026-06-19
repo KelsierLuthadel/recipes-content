@@ -76,14 +76,14 @@ Agurkesalat (Danish cucumber salad) is the traditional lighter side dish that tu
 - **Small glass dish presentation:** the traditional Danish vessel.
 
 ## Variations
-**With red onion:** the optional addition gives a sharper pink colour and bite.
-**With mustard seeds:** for a senap-pickled note.
-**Spicier:** add a pinch of cayenne or chopped fresh chilli (less traditional).
-**Sweeter:** increase the sugar slightly for the Danish-Christmas-style sweeter version.
-**Without sugar (modern):** for a more savoury vinegar-cucumber salad; loses the traditional Danish balance.
+- **With red onion:** the optional addition gives a sharper pink colour and bite.
+- **With mustard seeds:** for a senap-pickled note.
+- **Spicier:** add a pinch of cayenne or chopped fresh chilli (less traditional).
+- **Sweeter:** increase the sugar slightly for the Danish-Christmas-style sweeter version.
+- **Without sugar (modern):** for a more savoury vinegar-cucumber salad; loses the traditional Danish balance.
 
 ## Serving
-At every Danish dinner where the main course is rich or heavy (frikadeller, stegt flæsk, julestege) · at a Christmas julefrokost as one of many small side dishes · at a Danish summer lunch alongside cold cuts · at home with leftover meatballs on rye.
+- At every Danish dinner where the main course is rich or heavy (frikadeller, stegt flæsk, julestege) · at a Christmas julefrokost as one of many small side dishes · at a Danish summer lunch alongside cold cuts · at home with leftover meatballs on rye.
 
 ## Storage
 - Refrigerates 4-5 days; the cucumber gets softer and more pickled over time.

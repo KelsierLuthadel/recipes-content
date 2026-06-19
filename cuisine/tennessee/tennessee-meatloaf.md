@@ -94,13 +94,13 @@ Tennessee meatloaf is the traditional Southern American meatloaf and the dish th
 - **Glaze in two coats.**
 
 ## Variations
-**Bacon-wrapped:** lay bacon strips across before baking.
-**All beef:** less rich but works.
-**With cheese stuffing:** mozzarella core.
-**Spicier:** double cayenne.
+- **Bacon-wrapped:** lay bacon strips across before baking.
+- **All beef:** less rich but works.
+- **With cheese stuffing:** mozzarella core.
+- **Spicier:** double cayenne.
 
 ## Serving
-Sunday dinner with mashed potatoes, green beans, cornbread. Leftovers make excellent meatloaf sandwiches.
+- Sunday dinner with mashed potatoes, green beans, cornbread. Leftovers make excellent meatloaf sandwiches.
 
 ## Storage
 - Cooked refrigerate 4 days.

@@ -86,19 +86,19 @@ Shortbread is Scotland's most famous and most exported food product. Documented 
 - **Score twice, before baking (lightly) and immediately after baking (fully):** the warm-cutting trick gives clean breaks.
 
 ## Variations
-**Petticoat tails (round):** press the dough into a 20 cm round tin; score into 8 wedges. The visually iconic Scottish version named for Mary Queen of Scots's pleated petticoats.
-**Fingers (rectangular):** the most common modern shape. Cut into 12 or 16 fingers.
-**With rice flour:** swap 2-3 tablespoons of plain flour for rice flour, gives a slightly grittier, crumblier texture (the Walker's of Aberlour signature).
-**With cornflour:** swap 1 tablespoon plain flour for cornflour, makes the shortbread more crumbly and tender.
-**Citrus shortbread:** add the zest of 1 lemon + 1 orange to the dough, bright, fragrant.
-**Whisky shortbread:** add 1 tablespoon Scotch + 1 teaspoon vanilla to the dough, Highland variant.
-**Chocolate-dipped:** dip one end of each finger in melted dark chocolate after cooling, modern variant.
-**Brown sugar shortbread:** swap half the caster sugar for soft light brown sugar, adds caramel depth.
-**Stem-ginger shortbread:** stir 60 g finely chopped stem ginger into the dough, warming, festive.
-**Lavender shortbread:** add 1 teaspoon dried culinary lavender, floral, modern.
+- **Petticoat tails (round):** press the dough into a 20 cm round tin; score into 8 wedges. The visually iconic Scottish version named for Mary Queen of Scots's pleated petticoats.
+- **Fingers (rectangular):** the most common modern shape. Cut into 12 or 16 fingers.
+- **With rice flour:** swap 2-3 tablespoons of plain flour for rice flour, gives a slightly grittier, crumblier texture (the Walker's of Aberlour signature).
+- **With cornflour:** swap 1 tablespoon plain flour for cornflour, makes the shortbread more crumbly and tender.
+- **Citrus shortbread:** add the zest of 1 lemon + 1 orange to the dough, bright, fragrant.
+- **Whisky shortbread:** add 1 tablespoon Scotch + 1 teaspoon vanilla to the dough, Highland variant.
+- **Chocolate-dipped:** dip one end of each finger in melted dark chocolate after cooling, modern variant.
+- **Brown sugar shortbread:** swap half the caster sugar for soft light brown sugar, adds caramel depth.
+- **Stem-ginger shortbread:** stir 60 g finely chopped stem ginger into the dough, warming, festive.
+- **Lavender shortbread:** add 1 teaspoon dried culinary lavender, floral, modern.
 
 ## Serving
-At every Scottish high tea (the traditional pairing with strong tea) · at a Scottish hotel afternoon-tea service · as a tourist gift in tartan-printed tins from any Edinburgh shop · alongside a dram of single malt as the traditional Scottish whisky-and-shortbread pairing · in a Christmas-stocking gift box · at a Burns Night supper as the after-dinner biscuit with coffee · at home with a cup of breakfast tea on a Saturday morning.
+- At every Scottish high tea (the traditional pairing with strong tea) · at a Scottish hotel afternoon-tea service · as a tourist gift in tartan-printed tins from any Edinburgh shop · alongside a dram of single malt as the traditional Scottish whisky-and-shortbread pairing · in a Christmas-stocking gift box · at a Burns Night supper as the after-dinner biscuit with coffee · at home with a cup of breakfast tea on a Saturday morning.
 
 ## Storage
 - Keeps in a sealed tin (with a small piece of bread to maintain texture) for 2 weeks at room temperature.

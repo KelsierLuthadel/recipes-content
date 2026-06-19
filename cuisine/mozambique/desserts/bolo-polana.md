@@ -97,13 +97,13 @@ Bolo Polana is Mozambique's most iconic and beloved cake, named after the Polana
 - **Don't overbake:** the cake should be moist inside; over-baking gives a dry cake. Check at 55 minutes with a skewer.
 
 ## Variations
-**Pumpkin bolo Polana:** swap the sweet potato for pumpkin (butternut squash); the cake is slightly lighter. Common variation.
-**Coconut bolo Polana:** add 50 g of desiccated coconut to the batter; gives a more tropical version.
-**Bolo Polana with brandy:** add 2 tablespoons of brandy (or Portuguese aguardente) to the batter; common festive variation at weddings and special occasions.
-**Mini bolo Polana:** bake in a muffin tin for 25-30 minutes; gives small individual cakes for parties.
+- **Pumpkin bolo Polana:** swap the sweet potato for pumpkin (butternut squash); the cake is slightly lighter. Common variation.
+- **Coconut bolo Polana:** add 50 g of desiccated coconut to the batter; gives a more tropical version.
+- **Bolo Polana with brandy:** add 2 tablespoons of brandy (or Portuguese aguardente) to the batter; common festive variation at weddings and special occasions.
+- **Mini bolo Polana:** bake in a muffin tin for 25-30 minutes; gives small individual cakes for parties.
 
 ## Serving
-At the centre of the table for family dessert. Sliced into 10-12 wedges, dusted with icing sugar and toasted cashews. With strong sweet Mozambican coffee, hot chocolate, or a small glass of port wine. After Sunday lunch, at weddings, christenings, or any Mozambican family celebration.
+- At the centre of the table for family dessert. Sliced into 10-12 wedges, dusted with icing sugar and toasted cashews. With strong sweet Mozambican coffee, hot chocolate, or a small glass of port wine. After Sunday lunch, at weddings, christenings, or any Mozambican family celebration.
 
 ## Storage
 - Keeps in a sealed container at room temperature 4 days; the cake gets even more moist as it sits.

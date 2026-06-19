@@ -72,12 +72,12 @@ Australia's pub-menu fish, the one you order on a hot summer afternoon at a beac
 - **Brown butter window is short:** Butter goes from golden to burnt in about 15 seconds. Have the capers and garlic prepped and ready by the stove before you start it browning.
 
 ## Variations
-**Asian-inflected:** Replace capers and parsley with sliced ginger, spring onion and a teaspoon of soy sauce stirred in at the end.
-**Bush-tucker twist:** Sprinkle a pinch of native lemon myrtle over the brown butter, or finish with a small spoonful of bush-tomato chutney.
+- **Asian-inflected:** Replace capers and parsley with sliced ginger, spring onion and a teaspoon of soy sauce stirred in at the end.
+- **Bush-tucker twist:** Sprinkle a pinch of native lemon myrtle over the brown butter, or finish with a small spoonful of bush-tomato chutney.
 
 ## Serving
-Serve with: A bowl of buttered new potatoes and a green salad with mustard vinaigrette, or a chunk of crusty bread to mop up the sauce. Steamed greens (broccoli, asparagus) sit well alongside.
-Garnish with: A wedge of lemon.
+- Serve with: A bowl of buttered new potatoes and a green salad with mustard vinaigrette, or a chunk of crusty bread to mop up the sauce. Steamed greens (broccoli, asparagus) sit well alongside.
+- Garnish with: A wedge of lemon.
 
 ## Storage
 - Best eaten straight from the pan; skin loses its crispness within minutes of plating.

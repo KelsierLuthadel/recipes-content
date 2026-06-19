@@ -54,7 +54,7 @@ Cashew chicken is the gentler cousin of kung pao, a dish for nights when stir-fr
 - **Egg white coating:** Creates a silky exterior. Don't skip the 20-minute rest period.
 
 ## Serving
-Serve with: Steamed rice and a simple stir-fried vegetable
+- Serve with: Steamed rice and a simple stir-fried vegetable
 
 ## Storage
 - Best served immediately for optimal texture contrast

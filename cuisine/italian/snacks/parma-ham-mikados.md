@@ -90,17 +90,17 @@ Crisp little parcels of filo wrapped around Parma ham, eaten with drinks before 
 - **Oven Temperature:** 180°C is ideal; higher temps brown the filo before it crisps; lower temps don't create proper crispness.
 
 ## Variations
-**Without Mustard:** Use butter alone, brushed onto the filo (creates different, milder flavor).
-**With Herbed Butter:** Mix ½ teaspoon finely chopped fresh herbs (tarragon, thyme, or parsley) into the butter-mustard mixture.
-**With Arugula:** Add a small leaf of fresh arugula under the Parma ham before rolling for peppery note (non-traditional but interesting).
-**Smoked Salmon Version:** Substitute thin smoked salmon slices for Parma ham (creates different character entirely).
-**With Truffle Oil:** Add 1-2 drops black truffle oil to the butter-mustard mixture for luxury version (use very sparingly).
+- **Without Mustard:** Use butter alone, brushed onto the filo (creates different, milder flavor).
+- **With Herbed Butter:** Mix ½ teaspoon finely chopped fresh herbs (tarragon, thyme, or parsley) into the butter-mustard mixture.
+- **With Arugula:** Add a small leaf of fresh arugula under the Parma ham before rolling for peppery note (non-traditional but interesting).
+- **Smoked Salmon Version:** Substitute thin smoked salmon slices for Parma ham (creates different character entirely).
+- **With Truffle Oil:** Add 1-2 drops black truffle oil to the butter-mustard mixture for luxury version (use very sparingly).
 
 ## Serving
-Perfect with: Green and black olives, before-dinner drinks (champagne, cocktails), small bites at parties, sophisticated appetizer platter
-Temperature: Warm (within 5 minutes of baking)
-Ratio: 2-3 mikados per person
-Context: Elegant pre-dinner appetizer, cocktail reception, special occasion canapé, sophisticated nibbles
+- Perfect with: Green and black olives, before-dinner drinks (champagne, cocktails), small bites at parties, sophisticated appetizer platter
+- Temperature: Warm (within 5 minutes of baking)
+- Ratio: 2-3 mikados per person
+- Context: Elegant pre-dinner appetizer, cocktail reception, special occasion canapé, sophisticated nibbles
 
 ## Storage
 - Best served fresh and warm (within 10 minutes of baking).

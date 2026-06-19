@@ -104,11 +104,11 @@ Soup joumou is the Haitian soup of independence, a slow-cooked beef-and-pumpkin 
 - **The political context matters:** soup joumou is more than a recipe; it is the dish that marks Haitian independence. On January 1st it is shared between neighbours, sent to friends, given to strangers. The cooking is the celebration.
 
 ## Variations
-**Vegetarian soup joumou:** the meat is omitted and the broth built on a strong vegetable stock with extra dried mushrooms for depth. Less traditional but increasingly common in the diaspora.
-**With goat:** in some Haitian households, soup joumou is made with goat instead of beef. Cook 30 minutes longer to tenderise.
+- **Vegetarian soup joumou:** the meat is omitted and the broth built on a strong vegetable stock with extra dried mushrooms for depth. Less traditional but increasingly common in the diaspora.
+- **With goat:** in some Haitian households, soup joumou is made with goat instead of beef. Cook 30 minutes longer to tenderise.
 
 ## Serving
-Serve with: crusty bread (Haitian pan creole or French baguette), lime wedges, and a small dish of pikliz on the side for anyone who wants a sharper bite. Drink water or a small glass of Haitian rum.
+- Serve with: crusty bread (Haitian pan creole or French baguette), lime wedges, and a small dish of pikliz on the side for anyone who wants a sharper bite. Drink water or a small glass of Haitian rum.
 
 ## Storage
 - Keeps 4 days refrigerated; the flavour deepens overnight and day 2 is genuinely better than day 1.

@@ -65,18 +65,18 @@ The peameal-bacon sandwich is Toronto's defining lunchtime dish, born at the Car
 - **No mayo, no relish:** the Carousel Bakery purist version is just peameal + mustard. Adding mayo, cheese, ranch, or chipotle sauce is a personal choice; defenders of the tradition would object.
 
 ## Variations
-**The Carousel Bakery classic (the purist version):** peameal + yellow mustard + kaiser roll. Nothing else. Sold from the original stall at St. Lawrence Market in Toronto since 1996.
-**Peameal sandwich with fried egg:** add an over-easy fried egg on top of the peameal, the breakfast variant.
-**Peameal sandwich with cheddar:** add a slice of melted Canadian cheddar, the modern Toronto deli variant.
-**Peameal on rye:** swap the kaiser roll for fresh rye bread, the Jewish-Toronto fusion variant.
-**Toronto-style peameal sandwich with maple syrup:** drizzle a teaspoon of pure maple syrup over the peameal, the Quebec-Ontario crossover.
-**Peameal on a brioche bun (modern):** swap the kaiser for a brioche burger bun and add caramelised onions, the upmarket gastropub variant.
-**Peameal-and-egg breakfast (no bread):** skip the roll; serve the fried peameal with two fried eggs, hash browns and beans, the diner breakfast.
-**Pulled peameal (modern):** cook a whole peameal roast in the oven (170°C, 90 minutes); shred and pile on the roll, the slow-cooker variant.
-**Vegan "peameal" (recent):** seitan dough rolled in cornmeal, brined, slow-cooked, pan-fried. Surprisingly close in texture.
+- **The Carousel Bakery classic (the purist version):** peameal + yellow mustard + kaiser roll. Nothing else. Sold from the original stall at St. Lawrence Market in Toronto since 1996.
+- **Peameal sandwich with fried egg:** add an over-easy fried egg on top of the peameal, the breakfast variant.
+- **Peameal sandwich with cheddar:** add a slice of melted Canadian cheddar, the modern Toronto deli variant.
+- **Peameal on rye:** swap the kaiser roll for fresh rye bread, the Jewish-Toronto fusion variant.
+- **Toronto-style peameal sandwich with maple syrup:** drizzle a teaspoon of pure maple syrup over the peameal, the Quebec-Ontario crossover.
+- **Peameal on a brioche bun (modern):** swap the kaiser for a brioche burger bun and add caramelised onions, the upmarket gastropub variant.
+- **Peameal-and-egg breakfast (no bread):** skip the roll; serve the fried peameal with two fried eggs, hash browns and beans, the diner breakfast.
+- **Pulled peameal (modern):** cook a whole peameal roast in the oven (170°C, 90 minutes); shred and pile on the roll, the slow-cooker variant.
+- **Vegan "peameal" (recent):** seitan dough rolled in cornmeal, brined, slow-cooked, pan-fried. Surprisingly close in texture.
 
 ## Serving
-At the Carousel Bakery stall in Toronto's St. Lawrence Market (the traditional setting; the location where the modern peameal-sandwich tradition was established in 1996) · at a Toronto diner or deli at lunchtime · at a CFL Toronto Argonauts football game · at the Canadian National Exhibition (CNE) · at a Toronto-themed Canadian celebration · at home as a Saturday-morning brunch · paired with a glass of Canadian Caesar cocktail or a strong coffee.
+- At the Carousel Bakery stall in Toronto's St. Lawrence Market (the traditional setting; the location where the modern peameal-sandwich tradition was established in 1996) · at a Toronto diner or deli at lunchtime · at a CFL Toronto Argonauts football game · at the Canadian National Exhibition (CNE) · at a Toronto-themed Canadian celebration · at home as a Saturday-morning brunch · paired with a glass of Canadian Caesar cocktail or a strong coffee.
 
 ## Storage
 - Best assembled and eaten immediately. The roll goes soggy from the mustard within 30 minutes.

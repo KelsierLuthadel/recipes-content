@@ -50,14 +50,14 @@ The most essential Indian yogurt-based side and the traditional cooling counter 
 - **Timing:** Make this shortly before serving; it's best fresh.
 
 ## Variations
-**With Mint:** Add 1 tablespoon fresh chopped mint to the yoghurt base.
-**Tomato Raita:** Substitute or add 1 medium tomato (de-seeded and diced) for part of the cucumber.
-**Beet Raita:** Add ½ medium beet (finely grated) for color and earthiness.
-**Garlic Version:** Add 1 crushed garlic clove for pungent depth.
+- **With Mint:** Add 1 tablespoon fresh chopped mint to the yoghurt base.
+- **Tomato Raita:** Substitute or add 1 medium tomato (de-seeded and diced) for part of the cucumber.
+- **Beet Raita:** Add ½ medium beet (finely grated) for color and earthiness.
+- **Garlic Version:** Add 1 crushed garlic clove for pungent depth.
 
 ## Serving
-Serve with: Any curry, biryani, tandoori dishes, as a cooling accompaniment
-Garnish with: Fresh mint sprig, dusted chilli powder, cumin seeds
+- Serve with: Any curry, biryani, tandoori dishes, as a cooling accompaniment
+- Garnish with: Fresh mint sprig, dusted chilli powder, cumin seeds
 
 ## Storage
 - Best served fresh, within 1-2 hours of preparation

@@ -48,7 +48,7 @@ Rocket and horseradish sauce is the building block for the bright peppery cold s
 - **Yoghurt quality:** Greek yoghurt's richness is essential; regular yoghurt results in thinner sauce.
 
 ## Serving
-Serve chilled alongside cold roasted meats, cold roasted poultry, cold poached salmon, or smoked trout. Also excellent as a condiment with charcuterie.
+- Serve chilled alongside cold roasted meats, cold roasted poultry, cold poached salmon, or smoked trout. Also excellent as a condiment with charcuterie.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container, covered.

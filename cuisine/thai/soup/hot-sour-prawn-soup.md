@@ -66,7 +66,7 @@ This is Thai hot-and-sour prawn soup in its clear, broth-forward form (no coconu
 - **Prawns:** Use fresh prawns for best flavor; cook just until pink to avoid toughness.
 
 ## Serving
-Serve hot, garnished with fresh coriander leaves.
+- Serve hot, garnished with fresh coriander leaves.
 
 ## Storage
 - Best served immediately; can be refrigerated for 1 day. Reheat gently without boiling.

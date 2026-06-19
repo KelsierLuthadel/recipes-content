@@ -92,18 +92,18 @@ Brigadeiros (named after Brigadier Eduardo Gomes, a 1940s Brazilian political ca
 - **Roll while the fudge is still slightly warm:** if it gets too cold and hard, it cracks when you try to roll. If too soft, it slumps.
 
 ## Variations
-**Brigadeiro branco (white brigadeiro):** skip the cocoa; use white chocolate instead. Same technique. Roll in shredded coconut.
-**Brigadeiro de morango (strawberry brigadeiro):** use fresh strawberry purée + white chocolate instead of cocoa. Roll in granulated sugar.
-**Brigadeiro de café (coffee brigadeiro):** add 2 tablespoons of strong espresso to the cooking mixture. Roll in cocoa powder + crushed coffee beans.
-**Brigadeiro de pistache (pistachio):** use white chocolate + 80g ground pistachios. Roll in chopped pistachios.
-**Brigadeiro de coco (coconut):** use full-fat coconut milk instead of condensed milk + add 100g desiccated coconut. Roll in shredded coconut.
-**Brigadeiro com nozes (with nuts):** add 80 g chopped walnuts or hazelnuts to the cooking mixture. Roll in chopped same nuts.
-**Beijinho (the white version with coconut):** see [beijinhos recipe](beijinhos.md): the traditional white sister.
-**Brigadeiro de panela (the pan-eating version):** don't roll into balls; just eat warm from the pan with a spoon. The illicit Brazilian "I-eat-the-leftovers" version.
-**Black brigadeiro (modern):** add 20g of activated charcoal for visual drama, modern dessert-bar version.
+- **Brigadeiro branco (white brigadeiro):** skip the cocoa; use white chocolate instead. Same technique. Roll in shredded coconut.
+- **Brigadeiro de morango (strawberry brigadeiro):** use fresh strawberry purée + white chocolate instead of cocoa. Roll in granulated sugar.
+- **Brigadeiro de café (coffee brigadeiro):** add 2 tablespoons of strong espresso to the cooking mixture. Roll in cocoa powder + crushed coffee beans.
+- **Brigadeiro de pistache (pistachio):** use white chocolate + 80g ground pistachios. Roll in chopped pistachios.
+- **Brigadeiro de coco (coconut):** use full-fat coconut milk instead of condensed milk + add 100g desiccated coconut. Roll in shredded coconut.
+- **Brigadeiro com nozes (with nuts):** add 80 g chopped walnuts or hazelnuts to the cooking mixture. Roll in chopped same nuts.
+- **Beijinho (the white version with coconut):** see [beijinhos recipe](beijinhos.md): the traditional white sister.
+- **Brigadeiro de panela (the pan-eating version):** don't roll into balls; just eat warm from the pan with a spoon. The illicit Brazilian "I-eat-the-leftovers" version.
+- **Black brigadeiro (modern):** add 20g of activated charcoal for visual drama, modern dessert-bar version.
 
 ## Serving
-At every Brazilian birthday party (the traditional setting, never absent) · at a Brazilian wedding's dessert table · at a Brazilian Christmas dinner · at a Brazilian baby shower · at a Brazilian friends-meet-at-home gathering · at a Brazilian school bake-sale · at home as a quick weeknight treat · alongside coffee at a Brazilian café (the "brigadeiro-of-the-day" tradition).
+- At every Brazilian birthday party (the traditional setting, never absent) · at a Brazilian wedding's dessert table · at a Brazilian Christmas dinner · at a Brazilian baby shower · at a Brazilian friends-meet-at-home gathering · at a Brazilian school bake-sale · at home as a quick weeknight treat · alongside coffee at a Brazilian café (the "brigadeiro-of-the-day" tradition).
 
 ## Storage
 - Refrigerates 1 week in a sealed container.

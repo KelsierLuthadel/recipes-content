@@ -94,14 +94,14 @@ The Argentine choripán (a portmanteau of chorizo + pan/bread) is more sandwich 
 - **Salsa criolla:** the traditional Argentine table relish; don't skip.
 
 ## Variations
-**Bondiola-pan:** swap the chorizo for grilled pork shoulder (bondiola) slices.
-**Morcilla-pan:** swap for grilled Argentine black pudding (morcilla); rich and iron-y.
-**With provoleta cheese:** add a small slice of grilled Argentine provoleta cheese inside.
-**Spicier chimichurri:** double the chilli flakes; add fresh chopped chilli.
-**Vegetarian:** swap chorizo for a portobello mushroom marinated in red wine and grilled.
+- **Bondiola-pan:** swap the chorizo for grilled pork shoulder (bondiola) slices.
+- **Morcilla-pan:** swap for grilled Argentine black pudding (morcilla); rich and iron-y.
+- **With provoleta cheese:** add a small slice of grilled Argentine provoleta cheese inside.
+- **Spicier chimichurri:** double the chilli flakes; add fresh chopped chilli.
+- **Vegetarian:** swap chorizo for a portobello mushroom marinated in red wine and grilled.
 
 ## Serving
-At a Buenos Aires asado (barbecue) as the appetiser before the main grilled meats; at a street-corner choripán cart on a Sunday in Mendoza; at a Pampas-style cookout; at home with a glass of Malbec.
+- At a Buenos Aires asado (barbecue) as the appetiser before the main grilled meats; at a street-corner choripán cart on a Sunday in Mendoza; at a Pampas-style cookout; at home with a glass of Malbec.
 
 ## Storage
 - Chimichurri keeps refrigerated 1 week; the flavour deepens in the first 24 hours.

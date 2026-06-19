@@ -92,7 +92,7 @@ Variations
 
 ## Serving
 
-Serve with:
+- Serve with:
 
 - basmati rice
 - naan or chapati

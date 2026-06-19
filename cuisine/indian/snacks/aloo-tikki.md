@@ -81,13 +81,13 @@ Aloo tikki is Delhi's chaat-stall classic, the spiced potato patty with a deep g
 - **Amchur is signature:** The sour-fruity note is what marks aloo tikki out from a plain potato cake. Worth sourcing.
 
 ## Variations
-**Stuffed tikki:** Press 2 teaspoons of green-pea-and-paneer filling into each disc before sealing.
-**Ragda pattice:** Serve the tikki swimming in a thin white-pea curry (ragda) for the Mumbai version.
-**Air fryer:** Brush both sides with oil; air-fry at 200°C for 10 minutes a side. Lighter but the crust is less crisp.
+- **Stuffed tikki:** Press 2 teaspoons of green-pea-and-paneer filling into each disc before sealing.
+- **Ragda pattice:** Serve the tikki swimming in a thin white-pea curry (ragda) for the Mumbai version.
+- **Air fryer:** Brush both sides with oil; air-fry at 200°C for 10 minutes a side. Lighter but the crust is less crisp.
 
 ## Serving
-Serve as: chaat with full toppings (lunch / snack); plain with tamarind chutney (tea-time); or in a soft bun with chutneys as a tikki burger.
-Temperature: tikki hot, chutneys and yoghurt cold (the contrast is the point).
+- Serve as: chaat with full toppings (lunch / snack); plain with tamarind chutney (tea-time); or in a soft bun with chutneys as a tikki burger.
+- Temperature: tikki hot, chutneys and yoghurt cold (the contrast is the point).
 
 ## Storage
 - Best within 1 hour of frying.

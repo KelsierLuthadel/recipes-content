@@ -50,7 +50,7 @@ Qahwa is the strong Arabic-style coffee of Algeria, drunk in small cups after me
 - **Cardamom always.** Algerian qahwa without cardamom is unrecognisable. Crush the pods just before brewing for the brightest perfume.
 
 ## Serving
-Serve at the end of a heavy meal (a couscous Friday, an Aid lunch, a wedding feast), or to a guest at any hour of a Ramadan night. A small dish of dates or makroud alongside. The cold water glass is sipped first, then the coffee.
+- Serve at the end of a heavy meal (a couscous Friday, an Aid lunch, a wedding feast), or to a guest at any hour of a Ramadan night. A small dish of dates or makroud alongside. The cold water glass is sipped first, then the coffee.
 
 ## Storage
 - Drink immediately; qahwa does not store

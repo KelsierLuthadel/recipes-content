@@ -53,7 +53,7 @@ Sauce Charcutière is the building block for pork chops and pan-fried pork loin,
 - **Cornichons:** Their sharp acidity is essential to the sauce's character; add after straining to maintain their crunch.
 
 ## Serving
-Serve immediately with grilled or pan-fried pork chops, roasted pork, or other pork preparations. The mustard acidity and cornichon sharpness complement fatty pork beautifully.
+- Serve immediately with grilled or pan-fried pork chops, roasted pork, or other pork preparations. The mustard acidity and cornichon sharpness complement fatty pork beautifully.
 
 ## Storage
 - Best eaten immediately after preparation.

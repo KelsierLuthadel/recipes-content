@@ -49,7 +49,7 @@ Fruity curry sauce is the building block for the gently-spiced creamy curry-styl
 - **Fruit selection:** Use ripe but firm fruit; softer fruit will break down too quickly during cooking.
 
 ## Serving
-Serve immediately with veal escalopes, chicken breast or lightly cooked fish. Accompany with pilaf rice, jasmine rice, or simple boiled basmati.
+- Serve immediately with veal escalopes, chicken breast or lightly cooked fish. Accompany with pilaf rice, jasmine rice, or simple boiled basmati.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

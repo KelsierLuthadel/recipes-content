@@ -131,17 +131,17 @@ Fried börek are the half-moon meat pastries of Turkish tea houses: thin oil-and
 - **Complete Sealing:** Any gap in the seal allows filling to escape and oil to penetrate, creating greasy, soggy result.
 
 ## Variations
-**With Spice Heat:** Add ¼ teaspoon cayenne pepper to the meat filling for subtle heat.
-**Vegetarian Version:** Omit meat; use 120 grams finely diced potato (boiled and cooled) or crumbled cheese instead.
-**Herb Emphasis:** Increase parsley to 2 tablespoons and add 1 tablespoon fresh mint for herbaceous emphasis.
-**With Pine Nuts:** Add 2 tablespoons toasted pine nuts to the cooled filling for texture and richness.
-**Spice-Forward:** Add ¼ teaspoon ground cinnamon for deeper, more complex warmth (traditional variation).
+- **With Spice Heat:** Add ¼ teaspoon cayenne pepper to the meat filling for subtle heat.
+- **Vegetarian Version:** Omit meat; use 120 grams finely diced potato (boiled and cooled) or crumbled cheese instead.
+- **Herb Emphasis:** Increase parsley to 2 tablespoons and add 1 tablespoon fresh mint for herbaceous emphasis.
+- **With Pine Nuts:** Add 2 tablespoons toasted pine nuts to the cooled filling for texture and richness.
+- **Spice-Forward:** Add ¼ teaspoon ground cinnamon for deeper, more complex warmth (traditional variation).
 
 ## Serving
-Perfect with: Yogurt sauce, fresh salad, afternoon appetizer, light meal, mezze spread
-Temperature: Piping hot (within 15 minutes of frying)
-Ratio: 3-4 börek per person as appetizer; 6-8 as light meal
-Context: Turkish appetizers, fried pastry platter, casual entertaining, light lunch
+- Perfect with: Yogurt sauce, fresh salad, afternoon appetizer, light meal, mezze spread
+- Temperature: Piping hot (within 15 minutes of frying)
+- Ratio: 3-4 börek per person as appetizer; 6-8 as light meal
+- Context: Turkish appetizers, fried pastry platter, casual entertaining, light lunch
 
 ## Storage
 - Best consumed fresh and warm (within 30 minutes of frying).

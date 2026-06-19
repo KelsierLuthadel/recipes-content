@@ -94,13 +94,13 @@ The Carolina hot dog (sometimes called a "slaw dog") is the regional hot dog of 
 - **"All the way" = chili, mustard, onion, slaw:** order it that way at a stand.
 
 ## Variations
-**With a red hot:** swap the standard frankfurter for a North Carolina red-dyed hot dog (Bright Leaf brand).
-**Spicier:** add chopped jalapeños to the slaw or 1 teaspoon cayenne to the chili.
-**With BBQ pork:** swap the dog for pulled pork (the Carolina BBQ-and-slaw shortcut).
-**Without onion ("three-way"):** chili + mustard + slaw only.
+- **With a red hot:** swap the standard frankfurter for a North Carolina red-dyed hot dog (Bright Leaf brand).
+- **Spicier:** add chopped jalapeños to the slaw or 1 teaspoon cayenne to the chili.
+- **With BBQ pork:** swap the dog for pulled pork (the Carolina BBQ-and-slaw shortcut).
+- **Without onion ("three-way"):** chili + mustard + slaw only.
 
 ## Serving
-At a Carolinas drive-in. At a Saturday cookout. At home with sweet tea and fries.
+- At a Carolinas drive-in. At a Saturday cookout. At home with sweet tea and fries.
 
 ## Storage
 - Chili refrigerates 5 days; freezes 3 months.

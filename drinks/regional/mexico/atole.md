@@ -46,7 +46,7 @@ A pre-Hispanic drink that pre-dates Spanish dairy and chocolate by centuries: ma
 - For a fruit atole, replace 250 ml of the milk with 250 ml of pineapple, guava or strawberry pulp and reduce the piloncillo to 60 g.
 
 ## Serving
-In mugs, hot, alongside tamales or pan de muerto. On the ofrenda, in a small clay cup beside the photo of the person being honoured.
+- In mugs, hot, alongside tamales or pan de muerto. On the ofrenda, in a small clay cup beside the photo of the person being honoured.
 
 ## Storage
 Best fresh. Keeps in the fridge for 2 days; reheat gently with an extra splash of milk, whisking smooth as it warms.

@@ -64,9 +64,9 @@ These spring rolls are the dinner-party version of the takeaway classic: slim, c
 - **Vietnamese serving method:** Wrap each warm spring roll in a lettuce leaf with fresh mint and coriander sprigs and dip in the sauce.
 
 ## Serving
-Serve with: Fiery chilli sauce, lettuce cups, fresh herbs
-Garnish with: Fresh coriander sprigs and lime wedges
-Accompaniment: Extra sauce for generous dipping, jasmine tea
+- Serve with: Fiery chilli sauce, lettuce cups, fresh herbs
+- Garnish with: Fresh coriander sprigs and lime wedges
+- Accompaniment: Extra sauce for generous dipping, jasmine tea
 
 ## Storage
 - Best served warm immediately after frying

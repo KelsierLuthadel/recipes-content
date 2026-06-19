@@ -64,7 +64,7 @@ Luqaimat are the iftar sweet of Kuwait, the Emirates and the eastern Gulf: a sof
 - **Eat fresh.** Luqaimat go from crisp to leathery within an hour of frying; this is a same-day sweet.
 
 ## Serving
-Warm, piled on a plate, with karak chai or gahwa. Iftar staple.
+- Warm, piled on a plate, with karak chai or gahwa. Iftar staple.
 
 ## Storage
 - Best within 1 hour of frying

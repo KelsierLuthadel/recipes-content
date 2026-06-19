@@ -77,16 +77,16 @@ Atholl Brose is Scotland's most ancient and most distinctively Scottish whisky-b
 - **Don't discard the oats:** make porridge the next morning with the soaked oats; they're already partially cooked and very tender.
 
 ## Variations
-**Traditional Atholl Brose (no cream):** as above without the cream. Lighter, more whisky-forward.
-**Rich Atholl Brose (with cream):** as above with the double cream. The "after-dinner Atholl Brose", richer, more dessert-like.
-**Crannachan-cross Atholl Brose:** stir in 2 tablespoons fresh raspberries (lightly crushed): the Atholl-Brose-meets-cranachan variant.
-**Whisky-free version:** swap the Scotch for an additional 100 ml apple juice + an extra tablespoon of honey. Children-and-non-drinkers version.
-**Honey-and-cream-only:** skip the whisky for a non-alcoholic but still authentic Highland version.
-**With added oatcake crumbs:** crumble a toasted oatcake into each glass for extra texture.
-**Atholl Brose as a sauce:** thicker (less water, more cream): pour over Christmas pudding or steamed pudding.
+- **Traditional Atholl Brose (no cream):** as above without the cream. Lighter, more whisky-forward.
+- **Rich Atholl Brose (with cream):** as above with the double cream. The "after-dinner Atholl Brose", richer, more dessert-like.
+- **Crannachan-cross Atholl Brose:** stir in 2 tablespoons fresh raspberries (lightly crushed): the Atholl-Brose-meets-cranachan variant.
+- **Whisky-free version:** swap the Scotch for an additional 100 ml apple juice + an extra tablespoon of honey. Children-and-non-drinkers version.
+- **Honey-and-cream-only:** skip the whisky for a non-alcoholic but still authentic Highland version.
+- **With added oatcake crumbs:** crumble a toasted oatcake into each glass for extra texture.
+- **Atholl Brose as a sauce:** thicker (less water, more cream): pour over Christmas pudding or steamed pudding.
 
 ## Serving
-At a Burns Night supper as an after-dinner drink alongside or instead of cranachan (the traditional setting) · at a Scottish wedding reception's "tartan" cocktail bar · at a Highland hunting-lodge dinner · at a Scottish New Year's Day brunch · at a Hogmanay first-footing visit · as a Scottish home Christmas-Day toast · at the end of a long Highland country-house weekend.
+- At a Burns Night supper as an after-dinner drink alongside or instead of cranachan (the traditional setting) · at a Scottish wedding reception's "tartan" cocktail bar · at a Highland hunting-lodge dinner · at a Scottish New Year's Day brunch · at a Hogmanay first-footing visit · as a Scottish home Christmas-Day toast · at the end of a long Highland country-house weekend.
 
 ## Storage
 - The oat-honey-whisky base (without cream) keeps in a sealed jar in the fridge 2 weeks; the honey and whisky preserve it.

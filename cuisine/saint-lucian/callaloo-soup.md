@@ -67,7 +67,7 @@ Callaloo is one of the great Caribbean cross-island dishes - found in Trinidad, 
 - **Salt pork vs crab:** Both versions are traditional. Salt pork gives a smoky-savoury richness; crab gives a sweet seafood note. Choose one - mixing both is heavy.
 
 ## Serving
-Serve in deep bowls with hard-dough bread or crusty white bread. A small dish of chilli sauce alongside.
+- Serve in deep bowls with hard-dough bread or crusty white bread. A small dish of chilli sauce alongside.
 
 ## Storage
 - Refrigerate 3 days. The flavour deepens overnight.

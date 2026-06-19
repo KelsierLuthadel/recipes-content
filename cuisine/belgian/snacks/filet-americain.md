@@ -86,15 +86,15 @@ Filet américain is Belgium's national raw-beef preparation, similar in spirit t
 - **Brussels brasserie style:** ask for "américain préparé maison", meaning made-fresh-at-table; some places do this in front of you with a small theatre.
 
 ## Variations
-**Steak tartare classique (French):** chopped beef topped with a raw yolk and small bowls of all the condiments separate, so the diner can mix to taste; less emulsified than the Belgian.
-**Tatar au boeuf hâché (cooked):** for the squeamish, lightly brown the beef in a pan for 60 seconds before chopping; you lose the rawness but keep the chopped texture.
-**Filet américain au tabasco:** double the Tabasco; the spicy variant popular in Antwerp.
-**Filet américain à la truffe:** finish with a few drops of truffle oil and a grating of black truffle, upmarket Brussels variant.
-**Vegetarian "américain":** swap the beef for finely diced cooked beetroot mixed with toasted walnuts and a chunky vegan mayo, excellent texture-similar, completely different in spirit.
-**Filet américain sur toast (the canapé):** spread thinly on toasted baguette slices with a caper on top, the Belgian cocktail-canapé variant.
+- **Steak tartare classique (French):** chopped beef topped with a raw yolk and small bowls of all the condiments separate, so the diner can mix to taste; less emulsified than the Belgian.
+- **Tatar au boeuf hâché (cooked):** for the squeamish, lightly brown the beef in a pan for 60 seconds before chopping; you lose the rawness but keep the chopped texture.
+- **Filet américain au tabasco:** double the Tabasco; the spicy variant popular in Antwerp.
+- **Filet américain à la truffe:** finish with a few drops of truffle oil and a grating of black truffle, upmarket Brussels variant.
+- **Vegetarian "américain":** swap the beef for finely diced cooked beetroot mixed with toasted walnuts and a chunky vegan mayo, excellent texture-similar, completely different in spirit.
+- **Filet américain sur toast (the canapé):** spread thinly on toasted baguette slices with a caper on top, the Belgian cocktail-canapé variant.
 
 ## Serving
-At a Brussels brasserie as a starter or main (the traditional setting) · at a Belgian café for a quick lunch with bread and a Stella · at a Belgian summer terrace · at a Flemish family Sunday brunch · at a Belgian wedding reception buffet · at home with a pre-dinner Belgian gin or a glass of cold Belgian lager.
+- At a Brussels brasserie as a starter or main (the traditional setting) · at a Belgian café for a quick lunch with bread and a Stella · at a Belgian summer terrace · at a Flemish family Sunday brunch · at a Belgian wedding reception buffet · at home with a pre-dinner Belgian gin or a glass of cold Belgian lager.
 
 ## Storage
 - Make and eat within an hour. Raw beef oxidises fast.

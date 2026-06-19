@@ -82,13 +82,13 @@ Creole crab cakes are the New Orleans version of the famous American crab cake (
 - **Pan-fry, don't deep-fry.**
 
 ## Variations
-**With shrimp:** add chopped cooked shrimp.
-**Baked (lighter):** brush with butter; bake at 220°C 18 min.
-**Spicier:** double cayenne.
-**With sweet corn:** add 100 g sweet corn.
+- **With shrimp:** add chopped cooked shrimp.
+- **Baked (lighter):** brush with butter; bake at 220°C 18 min.
+- **Spicier:** double cayenne.
+- **With sweet corn:** add 100 g sweet corn.
 
 ## Serving
-As starter with remoulade. On a bed of leaves with lemon.
+- As starter with remoulade. On a bed of leaves with lemon.
 
 ## Storage
 - Best fresh.

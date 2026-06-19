@@ -50,7 +50,7 @@ Chocolate sauce is the building block for the rich silky pour over profiteroles,
 - **Butter mounting:** Creates gloss and silky mouthfeel; do not omit.
 
 ## Serving
-Serve warm over vanilla ice cream, profiteroles, pears, or other desserts. Can also be used as base for rich desserts to sit on.
+- Serve warm over vanilla ice cream, profiteroles, pears, or other desserts. Can also be used as base for rich desserts to sit on.
 
 ## Storage
 - Keeps refrigerated for 5 days in an airtight container.

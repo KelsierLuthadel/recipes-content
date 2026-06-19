@@ -72,12 +72,12 @@ This is the colourful coastal Italian pasta of squid, chorizo, beans and tomato,
 - **No Cheese:** This is crucial, Parmesan and squid are incompatible partners.
 
 ## Variations
-**Shellfish Version:** Add fresh clams or mussels instead of squid.
-**White Bean Version:** Use all white beans and skip the chorizo for lighter preparation.
+- **Shellfish Version:** Add fresh clams or mussels instead of squid.
+- **White Bean Version:** Use all white beans and skip the chorizo for lighter preparation.
 
 ## Serving
-Serve with: Crisp white wine (Pinot Grigio or similar), no cheese
-Garnish with: Fresh flat-leaf parsley and lemon wedges
+- Serve with: Crisp white wine (Pinot Grigio or similar), no cheese
+- Garnish with: Fresh flat-leaf parsley and lemon wedges
 
 ## Storage
 - Best eaten immediately; the squid texture suffers if reheated

@@ -63,15 +63,15 @@ Malayan curry powder is the building block for Malaysian-Chinese chicken and fis
 - **Fresh Nutmeg:** Pre-ground nutmeg loses potency quickly; grating fresh is vastly superior.
 
 ## Variations
-**For Fish:** Reduce chillies to 1; slightly increase fennel to 1 ½ teaspoons.
-**Spicier:** Keep chilli seeds; use 3 chillies total.
-**Earthier:** Add ½ teaspoon ground coriander seed after grinding.
+- **For Fish:** Reduce chillies to 1; slightly increase fennel to 1 ½ teaspoons.
+- **Spicier:** Keep chilli seeds; use 3 chillies total.
+- **Earthier:** Add ½ teaspoon ground coriander seed after grinding.
 
 ## Serving
-Use in: Malayan chicken curries, fish curries, aromatic poultry dishes
-Typical ratio: 2-3 teaspoons per curry portion
-Application: Fry in oil with aromatics before adding liquid
-Temperature: Works best fried in hot oil for flavor bloom
+- Use in: Malayan chicken curries, fish curries, aromatic poultry dishes
+- Typical ratio: 2-3 teaspoons per curry portion
+- Application: Fry in oil with aromatics before adding liquid
+- Temperature: Works best fried in hot oil for flavor bloom
 
 ## Storage
 - Best used immediately but keeps in airtight jar 3 months

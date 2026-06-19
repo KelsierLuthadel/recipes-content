@@ -114,17 +114,17 @@ Ta'amia is the Egyptian falafel, made with split dried fava beans rather than th
 - **Fresher is Better:** Falafels are best served within 30 minutes of frying; after that, they firm up and become less appealing.
 
 ## Variations
-**With Spice Heat:** Add ¼ teaspoon cayenne pepper to the mixture for subtle heat.
-**Fresh coriander Emphasis:** Use 2 tablespoons coriander and reduce parsley to ½ teaspoon for fresh coriander-dominant version.
-**Garlic-Forward:** Increase garlic to 2-3 cloves for more assertive flavor (taste carefully; garlic can become harsh).
-**With Fresh Mint:** Add ½ teaspoon fresh mint leaves for cool contrast (non-traditional but interesting).
-**Cumin Double:** Increase cumin to 1 teaspoon for richer, warmer spice character.
+- **With Spice Heat:** Add ¼ teaspoon cayenne pepper to the mixture for subtle heat.
+- **Fresh coriander Emphasis:** Use 2 tablespoons coriander and reduce parsley to ½ teaspoon for fresh coriander-dominant version.
+- **Garlic-Forward:** Increase garlic to 2-3 cloves for more assertive flavor (taste carefully; garlic can become harsh).
+- **With Fresh Mint:** Add ½ teaspoon fresh mint leaves for cool contrast (non-traditional but interesting).
+- **Cumin Double:** Increase cumin to 1 teaspoon for richer, warmer spice character.
 
 ## Serving
-Perfect with: Tahina dip (essential), Egyptian tomato-cucumber salad, hummus, pickled vegetables, warm pita bread, mixed grill platters
-Temperature: Piping hot (serve within 10-15 minutes of frying)
-Ratio: 3-4 falafels per serving as appetizer; 5-6 as light meal
-Context: Street food, appetizer platters, light lunch, vegetarian main course, mezze spread
+- Perfect with: Tahina dip (essential), Egyptian tomato-cucumber salad, hummus, pickled vegetables, warm pita bread, mixed grill platters
+- Temperature: Piping hot (serve within 10-15 minutes of frying)
+- Ratio: 3-4 falafels per serving as appetizer; 5-6 as light meal
+- Context: Street food, appetizer platters, light lunch, vegetarian main course, mezze spread
 
 ## Storage
 - Best consumed fresh and warm (within 30 minutes of frying).

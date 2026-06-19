@@ -104,13 +104,13 @@ Caldou is the Casamance river-region fish stew of southern Senegal: the bright l
 - **Rice eats the broth:** the rice underneath is the structural counterpart to the thin broth; ladle generously so the rice goes properly wet. Eating caldou with dry rice would miss the point.
 
 ## Variations
-**Caldou with whole fish:** instead of fillets, use 4 whole small white fish (300-400 g each, scaled and gutted). Cook for slightly longer (15 minutes); the bones add gelatin and depth to the broth.
-**Caldou with prawns:** swap the fish for 600 g of large peeled prawns added in the last 4 minutes only. Quick weeknight version.
-**With smoked fish:** add 50 g of broken-up smoked fish to the base for additional depth; brings caldou closer to the supu kanja territory but works for a richer version.
-**Caldou de poulet:** the chicken version, where bone-in chicken pieces are poached in the broth instead of fish. Cook the chicken 25-30 minutes (much longer than fish). Less traditional but works.
+- **Caldou with whole fish:** instead of fillets, use 4 whole small white fish (300-400 g each, scaled and gutted). Cook for slightly longer (15 minutes); the bones add gelatin and depth to the broth.
+- **Caldou with prawns:** swap the fish for 600 g of large peeled prawns added in the last 4 minutes only. Quick weeknight version.
+- **With smoked fish:** add 50 g of broken-up smoked fish to the base for additional depth; brings caldou closer to the supu kanja territory but works for a richer version.
+- **Caldou de poulet:** the chicken version, where bone-in chicken pieces are poached in the broth instead of fish. Cook the chicken 25-30 minutes (much longer than fish). Less traditional but works.
 
 ## Serving
-Over plain boiled white rice in wide bowls, with the broth soaking into the rice. Lime wedges on the side and chopped chilli for diners who want extra heat. Drink: bissap (hibiscus drink), bouye (baobab drink) or simply cold water with lime.
+- Over plain boiled white rice in wide bowls, with the broth soaking into the rice. Lime wedges on the side and chopped chilli for diners who want extra heat. Drink: bissap (hibiscus drink), bouye (baobab drink) or simply cold water with lime.
 
 ## Storage
 - Best eaten the same day. The fish goes off after a day; the broth dulls after a day.

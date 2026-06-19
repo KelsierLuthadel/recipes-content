@@ -75,7 +75,7 @@ Achar is the Indian-Malay-Peranakan pickled vegetable tradition adapted in Singa
 - **Maturation:** Like all pickles, achar improves with time. After 48 hours the flavours have melded; eat over 2-3 weeks.
 
 ## Serving
-Serve as a small dish alongside any rich Singaporean main. Particularly good with chilli crab, fried chicken, biryani.
+- Serve as a small dish alongside any rich Singaporean main. Particularly good with chilli crab, fried chicken, biryani.
 
 ## Storage
 - Refrigerate 3 weeks in sealed glass jars.

@@ -64,7 +64,7 @@ Hummus is Levantine in origin but the Kuwaiti version takes the format and gives
 - **Tahini quality matters.** Buy a runny pourable tahini, not a stiff one; Lebanese or Palestinian brands are the right kind.
 
 ## Serving
-Room temperature in a wide shallow bowl with warm Kuwaiti khubz or pita, fresh vegetables, and a small bowl of pickles alongside.
+- Room temperature in a wide shallow bowl with warm Kuwaiti khubz or pita, fresh vegetables, and a small bowl of pickles alongside.
 
 ## Storage
 - Refrigerate 4 days

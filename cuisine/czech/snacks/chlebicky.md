@@ -87,7 +87,7 @@ Plan 4-5 varieties across your tray. Suggested combinations:
 - **Visual matters:** Czech chlebíčky compete on appearance. Take the time to arrange each one carefully; the geometric look is part of the dish.
 
 ## Serving
-The buffet centrepiece for any Czech celebration. A namesday party, a baptism, a wedding - chlebíčky are always present. At a child's birthday, 2-3 per person; at a wake, several alongside other foods.
+- The buffet centrepiece for any Czech celebration. A namesday party, a baptism, a wedding - chlebíčky are always present. At a child's birthday, 2-3 per person; at a wake, several alongside other foods.
 
 ## Storage
 - Best fresh; the bread softens within 4-6 hours.

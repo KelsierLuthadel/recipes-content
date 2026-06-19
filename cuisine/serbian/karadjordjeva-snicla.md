@@ -69,7 +69,7 @@ Karađorđeva šnicla is the showpiece of post-war Belgrade cooking. The story g
 - **Topped with kajmak sauce.** Pour over a warm sauce of melted kajmak with a splash of cream and parsley after frying.
 
 ## Serving
-On a warm plate with the cut side towards the diner · lemon wedge on the rim · a heap of crisp roast potatoes or chips · a small bowl of tartare or homemade mayonnaise · šopska salata alongside
+- On a warm plate with the cut side towards the diner · lemon wedge on the rim · a heap of crisp roast potatoes or chips · a small bowl of tartare or homemade mayonnaise · šopska salata alongside
 
 ## Storage
 - Best eaten straight from the pan; the crust softens fast

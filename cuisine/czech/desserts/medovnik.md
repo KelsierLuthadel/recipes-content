@@ -100,7 +100,7 @@ Medovník (medovník is masculine; the same cake is called medovik in Russian an
 - **Roll thin:** Each layer should be 3 mm thick. Thick layers don't soften in the fridge time and the cake stays hard.
 
 ## Serving
-A small wedge of medovník with a cup of strong black coffee is the Czech afternoon tradition. Cut thin slices - this is a rich cake.
+- A small wedge of medovník with a cup of strong black coffee is the Czech afternoon tradition. Cut thin slices - this is a rich cake.
 
 ## Storage
 - Refrigerates 5 days, covered.

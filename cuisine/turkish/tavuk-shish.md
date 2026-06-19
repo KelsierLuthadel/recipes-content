@@ -89,13 +89,13 @@ Tavuk şiş is Turkey's chicken kebab counterpart to kuzu şiş (the lamb versio
 - **Don't overcook:** chicken thigh has more fat tolerance than breast, but still goes dry past 12 minutes. Stop when the surface is properly charred and the inside just cooked.
 
 ## Variations
-**Tavuk şiş with cumin-yogurt marinade only:** simplify to yogurt + cumin + garlic + lemon + salt; less complex but quicker. Good for weeknights.
-**Spicy tavuk şiş:** double the Aleppo pepper and add 2 chopped fresh chillies to the marinade. Properly fierce version.
-**Chicken kebab wraps (tavuk dürüm):** strip cooked chicken from the skewers; wrap in lavash with yogurt, salad and chips. The Turkish street-food version.
-**Tavuk pirzola:** instead of cubes on skewers, use chicken thighs whole, flattened slightly, marinated and grilled. Different presentation, same flavour.
+- **Tavuk şiş with cumin-yogurt marinade only:** simplify to yogurt + cumin + garlic + lemon + salt; less complex but quicker. Good for weeknights.
+- **Spicy tavuk şiş:** double the Aleppo pepper and add 2 chopped fresh chillies to the marinade. Properly fierce version.
+- **Chicken kebab wraps (tavuk dürüm):** strip cooked chicken from the skewers; wrap in lavash with yogurt, salad and chips. The Turkish street-food version.
+- **Tavuk pirzola:** instead of cubes on skewers, use chicken thighs whole, flattened slightly, marinated and grilled. Different presentation, same flavour.
 
 ## Serving
-On a wooden platter, with all the Turkish kebab sides arranged around. Cold ayran (the traditional drink), rakı, or Türk kahvesi after. As a family meal, weekend barbecue, or restaurant dinner.
+- On a wooden platter, with all the Turkish kebab sides arranged around. Cold ayran (the traditional drink), rakı, or Türk kahvesi after. As a family meal, weekend barbecue, or restaurant dinner.
 
 ## Storage
 - Best eaten fresh off the grill.

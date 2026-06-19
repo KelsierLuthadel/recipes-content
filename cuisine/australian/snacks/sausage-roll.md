@@ -92,13 +92,13 @@ The sausage roll is one of Australia's most beloved bakery and lunch-counter sna
 - **220°C for the proper puff:** high heat at the start gives the proper puffed pastry. Drop the temperature halfway through only if browning too fast.
 
 ## Variations
-**Cheese-and-bacon sausage rolls:** add 100 g of grated tasty cheddar and 80 g of finely chopped cooked bacon to the filling; gives a richer Aussie milk-bar version.
-**Vegetarian sausage rolls:** swap the meat for 700 g of grated zucchini (squeezed dry), 200 g of grated carrot, 200 g of cooked lentils and 100 g of breadcrumbs; bind with egg and seasonings as in the recipe.
-**Lamb-and-rosemary version:** swap the beef and pork for minced lamb; replace the thyme with chopped rosemary. Common Aussie variation.
-**Curried sausage rolls:** add 2 tablespoons of curry powder to the filling and 50 g of chopped sultanas; gives a curry-puff Aussie style.
+- **Cheese-and-bacon sausage rolls:** add 100 g of grated tasty cheddar and 80 g of finely chopped cooked bacon to the filling; gives a richer Aussie milk-bar version.
+- **Vegetarian sausage rolls:** swap the meat for 700 g of grated zucchini (squeezed dry), 200 g of grated carrot, 200 g of cooked lentils and 100 g of breadcrumbs; bind with egg and seasonings as in the recipe.
+- **Lamb-and-rosemary version:** swap the beef and pork for minced lamb; replace the thyme with chopped rosemary. Common Aussie variation.
+- **Curried sausage rolls:** add 2 tablespoons of curry powder to the filling and 50 g of chopped sultanas; gives a curry-puff Aussie style.
 
 ## Serving
-On a paper plate or in a paper napkin with tomato sauce squirted on top (the traditional Australian way). At a footy match, in a pie warmer at a milk bar, or at a kid's birthday party. Drink: cold light beer (XXXX, Tooheys, Carlton); or a cup of strong tea.
+- On a paper plate or in a paper napkin with tomato sauce squirted on top (the traditional Australian way). At a footy match, in a pie warmer at a milk bar, or at a kid's birthday party. Drink: cold light beer (XXXX, Tooheys, Carlton); or a cup of strong tea.
 
 ## Storage
 - Best eaten warm and fresh out of the oven; reheat well.

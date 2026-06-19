@@ -57,7 +57,7 @@ These are the individual French apple turnovers, fluted half-moons of puff pastr
 - The final 220°C temperature increase for glazing must be watched carefully; the icing sugar can burn in seconds, changing from glossy to brown
 
 ## Serving
-Serve the turnovers warm or at room temperature, still displaying the shimmering caramelized sugar glaze on top. These are equally lovely served warm with vanilla ice cream or at room temperature with afternoon tea. The contrast between crispy pastry and smooth apple filling is essential.
+- Serve the turnovers warm or at room temperature, still displaying the shimmering caramelized sugar glaze on top. These are equally lovely served warm with vanilla ice cream or at room temperature with afternoon tea. The contrast between crispy pastry and smooth apple filling is essential.
 
 ## Storage
 Turnovers can be assembled and refrigerated, unbaked, for up to 4 hours before baking (this actually improves the pastry structure). Freshly baked turnovers keep at room temperature for 1 day in an airtight container. Do not refrigerate, as the pastry will become hard and lose crispness. Reheat gently in a 160°C oven for 5-10 minutes if necessary.

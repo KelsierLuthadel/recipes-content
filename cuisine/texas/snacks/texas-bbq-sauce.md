@@ -58,13 +58,13 @@ Texas BBQ sauce is the Lone Star State's regional take on tomato-based BBQ sauce
 - **Slow-simmer for proper meld.**
 
 ## Variations
-**Spicier:** double the hot sauce; add 1 tablespoon cayenne pepper.
-**With coffee:** add 100 ml of strong black coffee; gives bitter depth.
-**With bourbon:** add 50 ml of bourbon; gives sweet smoky depth.
-**East Texas (sweeter):** double the brown sugar; closer to Kansas City style.
+- **Spicier:** double the hot sauce; add 1 tablespoon cayenne pepper.
+- **With coffee:** add 100 ml of strong black coffee; gives bitter depth.
+- **With bourbon:** add 50 ml of bourbon; gives sweet smoky depth.
+- **East Texas (sweeter):** double the brown sugar; closer to Kansas City style.
 
 ## Serving
-With Texas BBQ, brisket, ribs, sausage, chicken. As a dipping sauce. Brushed on grilled meats in the last 5 minutes. Drink: cold beer.
+- With Texas BBQ, brisket, ribs, sausage, chicken. As a dipping sauce. Brushed on grilled meats in the last 5 minutes. Drink: cold beer.
 
 ## Storage
 - Keeps refrigerated 1 month in a sealed jar.

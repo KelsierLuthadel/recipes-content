@@ -77,7 +77,7 @@ Minestrone is the Italian summer-vegetable soup, a wide pot of beans, vegetables
 - **Vegetables:** Cut uniformly for even cooking.
 
 ## Serving
-Serve hot with fresh pesto and bread.
+- Serve hot with fresh pesto and bread.
 
 ## Storage
 - Refrigerate up to 3 days; flavors improve. Reheat gently; add fresh pesto.

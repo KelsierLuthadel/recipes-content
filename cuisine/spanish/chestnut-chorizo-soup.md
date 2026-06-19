@@ -77,7 +77,7 @@ Sopa de castañas is the slow autumn soup of Spain's mountain regions, where swe
 - **Mashing:** Leave some texture for interest; blend if you prefer smoother.
 
 ## Serving
-Serve hot with crusty bread or a dollop of sour cream. Garnish with extra thyme if desired.
+- Serve hot with crusty bread or a dollop of sour cream. Garnish with extra thyme if desired.
 
 ## Storage
 - Refrigerate up to 3 days; flavors improve overnight.

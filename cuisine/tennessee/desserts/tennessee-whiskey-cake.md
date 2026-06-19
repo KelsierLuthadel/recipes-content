@@ -96,13 +96,13 @@ Tennessee whiskey cake is the traditional Tennessee celebration cake, particular
 - **Toasted pecans essential.**
 
 ## Variations
-**Without pecans:** plain whiskey cake.
-**With raisins:** add 200 g soaked in whiskey.
-**Bourbon version:** Kentucky bourbon (similar but different oak character).
-**With cinnamon-sugar coating:** dust before glazing.
+- **Without pecans:** plain whiskey cake.
+- **With raisins:** add 200 g soaked in whiskey.
+- **Bourbon version:** Kentucky bourbon (similar but different oak character).
+- **With cinnamon-sugar coating:** dust before glazing.
 
 ## Serving
-At Tennessee celebrations, Sunday family dinners, Christmas.
+- At Tennessee celebrations, Sunday family dinners, Christmas.
 
 ## Storage
 - Sealed at room temp 1 week (gets better).

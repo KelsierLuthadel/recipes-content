@@ -108,17 +108,17 @@ Stroopwafels are the Netherlands' most successful biscuit export and one of its 
 - **The coffee-mug trick:** the classic Dutch presentation. The steam from the hot coffee softens the caramel inside the stroopwafel. Don't skip, it's part of the experience.
 
 ## Variations
-**Chocolate stroopwafels:** dip half the assembled stroopwafel in melted dark chocolate; let set on parchment, the modern Dutch tea-room variant.
-**Caramel-and-salted stroopwafels:** add 1/2 teaspoon of fleur de sel to the stroop, the modern sweet-salt variant.
-**Spice-heavy stroopwafels:** double the cinnamon; add 1 teaspoon ground ginger and 1/4 teaspoon ground cloves to the dough, the speculoos-stroopwafel hybrid.
-**Honey stroopwafels:** swap half the golden syrup for honey, more floral, less molasses.
-**Maple stroopwafels:** swap the dark muscovado sugar for 200 g dark maple syrup + 50 g brown sugar, a Dutch-Canadian crossover.
-**Smaller stroopwafels (mini):** divide the dough into 24 portions; cook in smaller pizzelle iron, the canapé / tea-time variant.
-**Stroopwafel ice-cream sandwich:** sandwich vanilla ice cream between 2 stroopwafels; freeze, the modern Dutch dessert.
-**Vegan stroopwafels:** swap egg for 2 tablespoons aquafaba; butter for vegan block butter; milk for oat milk.
+- **Chocolate stroopwafels:** dip half the assembled stroopwafel in melted dark chocolate; let set on parchment, the modern Dutch tea-room variant.
+- **Caramel-and-salted stroopwafels:** add 1/2 teaspoon of fleur de sel to the stroop, the modern sweet-salt variant.
+- **Spice-heavy stroopwafels:** double the cinnamon; add 1 teaspoon ground ginger and 1/4 teaspoon ground cloves to the dough, the speculoos-stroopwafel hybrid.
+- **Honey stroopwafels:** swap half the golden syrup for honey, more floral, less molasses.
+- **Maple stroopwafels:** swap the dark muscovado sugar for 200 g dark maple syrup + 50 g brown sugar, a Dutch-Canadian crossover.
+- **Smaller stroopwafels (mini):** divide the dough into 24 portions; cook in smaller pizzelle iron, the canapé / tea-time variant.
+- **Stroopwafel ice-cream sandwich:** sandwich vanilla ice cream between 2 stroopwafels; freeze, the modern Dutch dessert.
+- **Vegan stroopwafels:** swap egg for 2 tablespoons aquafaba; butter for vegan block butter; milk for oat milk.
 
 ## Serving
-At a Gouda market stall (the traditional setting; freshly made every Wednesday and Saturday morning) · at any Dutch market town on market day · at a Dutch coffee shop with a strong espresso · at home with a mug of hot coffee or tea using the steaming-mug technique · at a Dutch sinterklaas (5 December) tea-time · in lunchboxes across the Netherlands · as the traditional Dutch gift to take home from a visit.
+- At a Gouda market stall (the traditional setting; freshly made every Wednesday and Saturday morning) · at any Dutch market town on market day · at a Dutch coffee shop with a strong espresso · at home with a mug of hot coffee or tea using the steaming-mug technique · at a Dutch sinterklaas (5 December) tea-time · in lunchboxes across the Netherlands · as the traditional Dutch gift to take home from a visit.
 
 ## Storage
 - Best within 24 hours of making, while the caramel is still soft.

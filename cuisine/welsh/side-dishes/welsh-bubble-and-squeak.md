@@ -72,7 +72,7 @@ Every British region has a fry-up of leftover potato and cabbage from the Sunday
 - **With swede:** add 200 g mashed cooked swede for a Welsh-border twist.
 
 ## Serving
-Monday breakfast with a fried egg and bacon · alongside cold roast lamb or chicken · as a side to grilled chops · with brown sauce or HP on the plate · as a quick supper with a poached egg on top.
+- Monday breakfast with a fried egg and bacon · alongside cold roast lamb or chicken · as a side to grilled chops · with brown sauce or HP on the plate · as a quick supper with a poached egg on top.
 
 ## Storage
 - Mix keeps 2 days raw in the fridge; fry on demand.

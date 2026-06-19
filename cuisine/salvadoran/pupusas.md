@@ -79,7 +79,7 @@ A pupusa is a thick masa flatbread stuffed before it is cooked, the fillings sea
 - **De arroz:** a rice-flour dough version from Olocuilta, where they hold a Sunday festival just for these.
 
 ## Serving
-With curtido heaped on top · with salsa roja in a small bowl alongside · torn by hand at the table · for breakfast, lunch or supper · with a glass of horchata salvadoreña.
+- With curtido heaped on top · with salsa roja in a small bowl alongside · torn by hand at the table · for breakfast, lunch or supper · with a glass of horchata salvadoreña.
 
 ## Storage
 - Eat hot off the comal; pupusas lose their character within an hour.

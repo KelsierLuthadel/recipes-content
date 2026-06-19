@@ -78,9 +78,9 @@ BIR chicken Ceylon is the restaurant take on Sri Lankan curry traditions, bright
 - **Curry leaves:** Fresh or frozen leaves are best for authentic Sri Lankan aroma.
 
 ## Serving
-Serve with: Steamed basmati rice, rotis, or naan
-Garnish with: Fresh coriander, cucumber slices, and lime wedges
-Accompaniment: Dhal and raita
+- Serve with: Steamed basmati rice, rotis, or naan
+- Garnish with: Fresh coriander, cucumber slices, and lime wedges
+- Accompaniment: Dhal and raita
 
 ## Storage
 - Refrigerate 2-3 days in a sealed container

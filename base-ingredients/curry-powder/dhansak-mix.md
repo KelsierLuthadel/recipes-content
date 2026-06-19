@@ -27,7 +27,7 @@ The British curry-house dhansak spice blend: coriander, cumin, turmeric, paprika
 - Works particularly well with lentils and sweet-sour profiles.
 
 ## Serving
-Use 2 tsp per dhansak.
+- Use 2 tsp per dhansak.
 
 ## Storage
 - Store in an airtight container in a cool, dry place for up to 6 months

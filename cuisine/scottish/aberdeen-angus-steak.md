@@ -95,15 +95,15 @@ The Aberdeen Angus is Scotland's native beef breed, developed in the north-east 
 - **Sauce off the heat for the whisky:** alcohol can flambé up unexpectedly. Be ready.
 
 ## Variations
-**Pepper-crust version:** press cracked black peppercorns onto the steak before cooking (steak au poivre style): more peppery.
-**Béarnaise instead of whisky-pepper:** swap the sauce for a classic French béarnaise.
-**Brandy-cream sauce:** swap the whisky for brandy or Armagnac, the French steakhouse version.
-**Whisky-cream-mushroom sauce:** sauté 200 g sliced mushrooms in the pan after sweating the shallot; otherwise same.
-**Aberdeen Angus filet mignon:** swap the sirloin/ribeye for a thick filet mignon, leaner, more tender.
-**Surf and turf:** plate a langoustine or two alongside the steak, the Scottish coastal version.
+- **Pepper-crust version:** press cracked black peppercorns onto the steak before cooking (steak au poivre style): more peppery.
+- **Béarnaise instead of whisky-pepper:** swap the sauce for a classic French béarnaise.
+- **Brandy-cream sauce:** swap the whisky for brandy or Armagnac, the French steakhouse version.
+- **Whisky-cream-mushroom sauce:** sauté 200 g sliced mushrooms in the pan after sweating the shallot; otherwise same.
+- **Aberdeen Angus filet mignon:** swap the sirloin/ribeye for a thick filet mignon, leaner, more tender.
+- **Surf and turf:** plate a langoustine or two alongside the steak, the Scottish coastal version.
 
 ## Serving
-At a Scottish steakhouse (Champany Inn at Linlithgow; The Honours in Edinburgh; Hawksmoor Edinburgh) · at a Highland hotel restaurant during shooting season · at a Burns Night dinner if you're not doing haggis · at a Scottish wedding anniversary · at home for a special dinner-for-two with a bottle of claret · in any decent Aberdeenshire farm-house restaurant.
+- At a Scottish steakhouse (Champany Inn at Linlithgow; The Honours in Edinburgh; Hawksmoor Edinburgh) · at a Highland hotel restaurant during shooting season · at a Burns Night dinner if you're not doing haggis · at a Scottish wedding anniversary · at home for a special dinner-for-two with a bottle of claret · in any decent Aberdeenshire farm-house restaurant.
 
 ## Storage
 - The cooked steak refrigerates 2 days; reheat briefly in the pan or eat cold sliced.

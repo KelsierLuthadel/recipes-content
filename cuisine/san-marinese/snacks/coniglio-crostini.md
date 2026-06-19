@@ -50,7 +50,7 @@ San Marinese cooks never throw out a slice of yesterday's coniglio in porchetta.
 - **A whisper of garlic.** Rubbing the toast with a halved garlic once is enough; more turns aggressive on a cold base.
 
 ## Serving
-At an aperitivo before a long lunch or dinner. Alongside olives, a small bowl of pickled vegetables, and a glass of cold prosecco or chilled Sangiovese.
+- At an aperitivo before a long lunch or dinner. Alongside olives, a small bowl of pickled vegetables, and a glass of cold prosecco or chilled Sangiovese.
 
 ## Storage
 - Eat the crostini freshly assembled; they soften within an hour.

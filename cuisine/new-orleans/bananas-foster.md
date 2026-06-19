@@ -57,7 +57,7 @@ The dish is a two-minute job once the bananas are sliced. The flambé is mostly 
 - **With a flatbread or pancake:** spoon over a fresh waffle or thick-cut French toast instead of ice cream for a brunch version.
 
 ## Serving
-A New Orleans presentation traditionally rings a small brass bell or chime when the flame goes up. Worth recreating at the table with a glass struck by a knife if you have an audience.
+- A New Orleans presentation traditionally rings a small brass bell or chime when the flame goes up. Worth recreating at the table with a glass struck by a knife if you have an audience.
 
 ## Storage
 The sauce does not keep; flambé it fresh and serve. The bananas continue to soften and weep into the sauce overnight; leftovers become a sweet banana porridge, fine on toast the next morning but unrecognisable as the original dish.

@@ -61,7 +61,7 @@
 - **Resting is essential.** Rabbit goes from juicy to dry in five minutes if sliced too soon; a 15 minute rest under foil sets the juices.
 
 ## Serving
-Spoon the reduced pan juices over the slices. Serve with polenta sanmarinese, a wedge of piadina to mop up, and a glass of Sangiovese di San Marino.
+- Spoon the reduced pan juices over the slices. Serve with polenta sanmarinese, a wedge of piadina to mop up, and a glass of Sangiovese di San Marino.
 
 ## Storage
 - Keeps 3 days refrigerated.

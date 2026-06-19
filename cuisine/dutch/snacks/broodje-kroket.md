@@ -110,17 +110,17 @@ The broodje kroket is one of the Netherlands' most identity-defining quick lunch
 - **Yellow mustard, grainy Dutch mosterd, OR Dijon all work:** the Dutch home version is grainy mustard; the FEBO automaten version is yellow mustard; both are acceptable.
 
 ## Variations
-**Kalfsragout kroket (veal):** swap beef for veal; the more refined Dutch upscale variant.
-**Pittige kroket (spicy):** add 1 teaspoon of sambal oelek and a pinch of cayenne to the ragout, the Indonesian-Dutch crossover.
-**Goulash kroket:** add 1 tablespoon paprika to the ragout, the Hungarian-Dutch variant; very popular at Dutch fast-food counters.
-**Kaasbouquet (cheese kroket):** swap the beef for a thick cheese-and-béchamel filling (aged Gouda + Parmesan + thick béchamel); the same breading and frying. The cheese-shop classic.
-**Vegetarian kroket:** swap beef for a slow-cooked shredded king oyster mushroom + chestnut mushroom ragout; the same velouté binding.
-**Chicken kroket:** swap beef for slow-cooked shredded chicken thigh; lighter, paler ragout.
-**Goulash-kroket sandwich:** add a slice of fresh tomato and a leaf of lettuce alongside the kroket, the Toronto-style upgrade.
-**Mini kroketten for canapés:** make 16 smaller (5 cm) krokets; serve at a Dutch borrel reception.
+- **Kalfsragout kroket (veal):** swap beef for veal; the more refined Dutch upscale variant.
+- **Pittige kroket (spicy):** add 1 teaspoon of sambal oelek and a pinch of cayenne to the ragout, the Indonesian-Dutch crossover.
+- **Goulash kroket:** add 1 tablespoon paprika to the ragout, the Hungarian-Dutch variant; very popular at Dutch fast-food counters.
+- **Kaasbouquet (cheese kroket):** swap the beef for a thick cheese-and-béchamel filling (aged Gouda + Parmesan + thick béchamel); the same breading and frying. The cheese-shop classic.
+- **Vegetarian kroket:** swap beef for a slow-cooked shredded king oyster mushroom + chestnut mushroom ragout; the same velouté binding.
+- **Chicken kroket:** swap beef for slow-cooked shredded chicken thigh; lighter, paler ragout.
+- **Goulash-kroket sandwich:** add a slice of fresh tomato and a leaf of lettuce alongside the kroket, the Toronto-style upgrade.
+- **Mini kroketten for canapés:** make 16 smaller (5 cm) krokets; serve at a Dutch borrel reception.
 
 ## Serving
-At a FEBO automaten cafeteria (the traditional setting; sells thousands daily in Amsterdam, Rotterdam, Utrecht) · at a Dutch lunchroom (broodjeszaak) · at an Amsterdam train station counter · at a Dutch carnival or fair · at a Dutch wedding reception buffet · at home as a Saturday lunch · paired with cold Dutch lager and extra mustard.
+- At a FEBO automaten cafeteria (the traditional setting; sells thousands daily in Amsterdam, Rotterdam, Utrecht) · at a Dutch lunchroom (broodjeszaak) · at an Amsterdam train station counter · at a Dutch carnival or fair · at a Dutch wedding reception buffet · at home as a Saturday lunch · paired with cold Dutch lager and extra mustard.
 
 ## Storage
 - The breaded uncooked krokets freeze excellently 3 months on a tray then bagged. Fry from frozen at 180°C, allow 7-8 minutes (slightly longer than from chilled).

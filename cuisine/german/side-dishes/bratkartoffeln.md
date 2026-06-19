@@ -93,17 +93,17 @@ Bratkartoffeln (literally "frying potatoes") is Germany's most everyday and most
 - **Caraway is regional:** in Bavaria, caraway is almost mandatory. In northern Germany, less common.
 
 ## Variations
-**Bratkartoffeln mit Speck (with bacon):** the traditional version described above.
-**Bratkartoffeln vegetarian:** skip the bacon; use 4 tablespoons butter; add 2 tablespoons smoked paprika to the pan for the smoky note.
-**Bratkartoffeln with egg (mit Spiegelei):** top with a fried egg with a runny yolk, the traditional German breakfast/lunch.
-**Bratkartoffeln Berlin-style (sour):** add 1 tablespoon white vinegar at the end, sharper, Berlin variant.
-**Bratkartoffeln Schwäbisch (with Maultaschen broth):** add a splash of beef stock at the end, Swabian variant.
-**Bratkartoffeln with apple:** add a small diced apple to the pan with the onion, Hessian variant, slightly sweet.
-**With sauerkraut:** stir in a small handful of sauerkraut at the end, Bavarian fusion variant.
-**With smoked tofu (vegan):** swap bacon for diced smoked tofu, modern German vegan variant.
+- **Bratkartoffeln mit Speck (with bacon):** the traditional version described above.
+- **Bratkartoffeln vegetarian:** skip the bacon; use 4 tablespoons butter; add 2 tablespoons smoked paprika to the pan for the smoky note.
+- **Bratkartoffeln with egg (mit Spiegelei):** top with a fried egg with a runny yolk, the traditional German breakfast/lunch.
+- **Bratkartoffeln Berlin-style (sour):** add 1 tablespoon white vinegar at the end, sharper, Berlin variant.
+- **Bratkartoffeln Schwäbisch (with Maultaschen broth):** add a splash of beef stock at the end, Swabian variant.
+- **Bratkartoffeln with apple:** add a small diced apple to the pan with the onion, Hessian variant, slightly sweet.
+- **With sauerkraut:** stir in a small handful of sauerkraut at the end, Bavarian fusion variant.
+- **With smoked tofu (vegan):** swap bacon for diced smoked tofu, modern German vegan variant.
 
 ## Serving
-At every German Gasthaus alongside any sausage or schnitzel (the traditional setting) · at a Berlin breakfast with fried egg on top · at a Bavarian beer garden alongside grilled meat · at a Hessian Sunday lunch · at a German pub as the standard side · at home as a quick weeknight side · at a German Christmas dinner alongside roast goose.
+- At every German Gasthaus alongside any sausage or schnitzel (the traditional setting) · at a Berlin breakfast with fried egg on top · at a Bavarian beer garden alongside grilled meat · at a Hessian Sunday lunch · at a German pub as the standard side · at home as a quick weeknight side · at a German Christmas dinner alongside roast goose.
 
 ## Storage
 - Refrigerate 2 days; reheat in a hot pan with a small extra knob of fat to restore some crispness.

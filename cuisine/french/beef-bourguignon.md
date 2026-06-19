@@ -76,13 +76,13 @@ Beef bourguignon is the quintessential French braise from Burgundy, beef cubes t
 - **Fat Removal:** The final removal of surface grease ensures a lighter, more elegant sauce.
 
 ## Variations
-**With Cognac:** Warm 2 tablespoons of cognac, ignite it, and flambé the meat before adding wine for added depth.
-**Vegetarian:** Substitute beef with 900g firm mushroom varieties (cremini, portobello); reduce cooking time to 1 ½ hours.
-**White Wine Version:** Use white Burgundy instead of red; the result is lighter and more delicate.
+- **With Cognac:** Warm 2 tablespoons of cognac, ignite it, and flambé the meat before adding wine for added depth.
+- **Vegetarian:** Substitute beef with 900g firm mushroom varieties (cremini, portobello); reduce cooking time to 1 ½ hours.
+- **White Wine Version:** Use white Burgundy instead of red; the result is lighter and more delicate.
 
 ## Serving
-Serve with: Buttered egg noodles, boiled potatoes, or crusty bread to soak up the sauce
-Garnish with: Flat-leaf parsley and fresh thyme sprigs
+- Serve with: Buttered egg noodles, boiled potatoes, or crusty bread to soak up the sauce
+- Garnish with: Flat-leaf parsley and fresh thyme sprigs
 
 ## Storage
 - Keeps 4-5 days refrigerated (flavor actually improves after a day or two)

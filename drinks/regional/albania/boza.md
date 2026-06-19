@@ -67,7 +67,7 @@ Boza is the centuries-old Balkan fermented drink that arrived in Albania with th
 - **Less sweet:** Reduce the sugar to 100 g for a more austere, tart drink.
 
 ## Serving
-Cold from a tall glass with cinnamon · in summer from the Tirana street cart · in winter alongside hot petulla at the bakery · with a slice of cake or sweet pastry · as a Bajram (Eid) drink · at breakfast with cornbread.
+- Cold from a tall glass with cinnamon · in summer from the Tirana street cart · in winter alongside hot petulla at the bakery · with a slice of cake or sweet pastry · as a Bajram (Eid) drink · at breakfast with cornbread.
 
 ## Storage
 - Refrigerate up to 4 days; the boza continues to sour slowly.

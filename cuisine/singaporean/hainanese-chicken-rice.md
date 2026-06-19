@@ -101,7 +101,7 @@ Hainanese chicken rice came to Singapore with 19th-century Hainanese immigrants 
 - **The three-sauce arrangement:** Each Singaporean has their preferred ratio. The chilli is the loudest; the ginger is the comfort; the dark soy is the depth. Most diners use all three.
 
 ## Serving
-Serve at room temperature - the chicken should not be hot off the heat. The rice and broth are warm. A whole-meal plate.
+- Serve at room temperature - the chicken should not be hot off the heat. The rice and broth are warm. A whole-meal plate.
 
 ## Storage
 - Refrigerate the chicken and rice separately 3 days. Reheat the rice in a steamer; serve the chicken cold or briefly warmed.

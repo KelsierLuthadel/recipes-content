@@ -60,7 +60,7 @@ Cornmeal pone is the Antiguan cousin of the Bajan cassava pone and the Jamaican 
 - **Mixed dried fruit:** Use 50 g raisins and 50 g currants or chopped dried mango.
 
 ## Serving
-Eat warm with a cup of strong tea · cold from the fridge for breakfast · with a scoop of coconut ice cream as a dessert · packed into lunch tins for the week.
+- Eat warm with a cup of strong tea · cold from the fridge for breakfast · with a scoop of coconut ice cream as a dessert · packed into lunch tins for the week.
 
 ## Storage
 - Keeps 5 days in an airtight tin at room temperature

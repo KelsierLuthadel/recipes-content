@@ -67,14 +67,14 @@ Tinginys (literally "lazy person" in Lithuanian) is the most beloved no-bake swe
 - **Sharp knife, slow cut:** the chunks resist; press straight down rather than sawing.
 
 ## Variations
-**With nuts:** 100 g chopped walnuts, almonds or hazelnuts folded through.
-**With dried cherries:** 100 g dried cherries soaked 10 minutes in hot water, drained, folded through.
-**With marshmallows:** 100 g chopped small marshmallows, the children's-party version.
-**With raisins and rum:** 80 g raisins soaked in 2 tablespoons rum, folded through; adult-only.
-**Two-tone log:** make half the mixture without cocoa, layer in alternating spoons before rolling.
+- **With nuts:** 100 g chopped walnuts, almonds or hazelnuts folded through.
+- **With dried cherries:** 100 g dried cherries soaked 10 minutes in hot water, drained, folded through.
+- **With marshmallows:** 100 g chopped small marshmallows, the children's-party version.
+- **With raisins and rum:** 80 g raisins soaked in 2 tablespoons rum, folded through; adult-only.
+- **Two-tone log:** make half the mixture without cocoa, layer in alternating spoons before rolling.
 
 ## Serving
-Serve cold · with coffee · at a children's birthday · at a tea table · cut into rounds and displayed on a plain plate to show the cross-section · alongside a glass of cold milk.
+- Serve cold · with coffee · at a children's birthday · at a tea table · cut into rounds and displayed on a plain plate to show the cross-section · alongside a glass of cold milk.
 
 ## Storage
 - Keeps 2 weeks refrigerated in cling film, the texture only improves.

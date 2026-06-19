@@ -99,15 +99,15 @@ Witloof is Flemish for "white leaf", what the English-speaking world calls Belgi
 - **Emmental or Gruyère:** the traditional cheese pair. Some Brussels cooks add a little Bruges Vieux Cheese (an aged Dutch-style) for sharper bite.
 
 ## Variations
-**Witloof au gratin sans jambon (vegetarian):** skip the ham; layer the chicory directly into the béchamel, the lighter Brussels variant.
-**Witloof gratin with mushrooms:** add 200 g sautéed sliced mushrooms over the chicory before the béchamel.
-**Witloof au lard:** swap the ham for 200 g of crisp bacon lardons scattered between the chicory before saucing.
-**Modern Brussels brasserie style:** add a sprinkle of finely chopped chervil over the top after baking, plus a few drops of truffle oil.
-**Witloof gratin au bleu:** swap half the Emmental for crumbled Roquefort or Bleu d'Auvergne, sharper.
-**Witloof à la flamande:** simpler version, just braised chicory in butter, no ham, no béchamel; for those who want the pure chicory flavour.
+- **Witloof au gratin sans jambon (vegetarian):** skip the ham; layer the chicory directly into the béchamel, the lighter Brussels variant.
+- **Witloof gratin with mushrooms:** add 200 g sautéed sliced mushrooms over the chicory before the béchamel.
+- **Witloof au lard:** swap the ham for 200 g of crisp bacon lardons scattered between the chicory before saucing.
+- **Modern Brussels brasserie style:** add a sprinkle of finely chopped chervil over the top after baking, plus a few drops of truffle oil.
+- **Witloof gratin au bleu:** swap half the Emmental for crumbled Roquefort or Bleu d'Auvergne, sharper.
+- **Witloof à la flamande:** simpler version, just braised chicory in butter, no ham, no béchamel; for those who want the pure chicory flavour.
 
 ## Serving
-At a Belgian family Sunday lunch (the traditional setting) · at a Brussels bistro in winter · at a Belgian Christmas Eve meal · as a substantial vegetable course at a multi-course Belgian dinner · at a Flemish gastropub · at home as a winter midweek dinner with boiled potatoes and a glass of dry white.
+- At a Belgian family Sunday lunch (the traditional setting) · at a Brussels bistro in winter · at a Belgian Christmas Eve meal · as a substantial vegetable course at a multi-course Belgian dinner · at a Flemish gastropub · at home as a winter midweek dinner with boiled potatoes and a glass of dry white.
 
 ## Storage
 - Refrigerates 3 days. Reheats well covered in a 180°C oven for 15-20 minutes.

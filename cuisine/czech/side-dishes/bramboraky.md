@@ -73,7 +73,7 @@ Bramboráky (also called cmunda in some regions) are the Czech potato pancakes -
 - **Thin pancakes only:** Aim for 5 mm thick. Thick bramboráky end up raw in the middle and burnt outside.
 
 ## Serving
-A pub side with goulash or roast pork. A weekend lunch with sauerkraut and a fried egg. Always serve straight from the pan - they wilt within 10 minutes.
+- A pub side with goulash or roast pork. A weekend lunch with sauerkraut and a fried egg. Always serve straight from the pan - they wilt within 10 minutes.
 
 ## Storage
 - Best fresh; reheat poorly.

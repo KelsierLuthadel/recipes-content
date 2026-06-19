@@ -64,13 +64,13 @@ Ají de piña is the fruity Caribbean-coast variation of Colombia's foundational
 - **Cumin gives Colombian character:** don't skip.
 
 ## Variations
-**With mango:** swap half the pineapple for fresh mango; gives a more tropical fruity version.
-**With papaya:** add 100 g of finely diced papaya; common Cartagena variation.
-**With cucumber:** add 1 finely diced cucumber; gives crunch and freshness.
-**Spicier:** add 1 chopped habanero; properly Caribbean fierce.
+- **With mango:** swap half the pineapple for fresh mango; gives a more tropical fruity version.
+- **With papaya:** add 100 g of finely diced papaya; common Cartagena variation.
+- **With cucumber:** add 1 finely diced cucumber; gives crunch and freshness.
+- **Spicier:** add 1 chopped habanero; properly Caribbean fierce.
 
 ## Serving
-With grilled fish, roast pork (lechona), grilled chicken, empanadas, arepas. Particularly good on the Colombian Caribbean coast with seafood. Drink: cold Club Colombia beer or fresh agua de coco.
+- With grilled fish, roast pork (lechona), grilled chicken, empanadas, arepas. Particularly good on the Colombian Caribbean coast with seafood. Drink: cold Club Colombia beer or fresh agua de coco.
 
 ## Storage
 - Keeps refrigerated 3 days; pineapple breaks down after that.

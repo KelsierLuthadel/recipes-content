@@ -88,13 +88,13 @@ The Coney Island hot dog is one of America's most regionally proud and naming-co
 - **Yellow mustard, not Dijon or brown.**
 
 ## Variations
-**Cincinnati style ("Coney with a sky"):** layer the dog with chili, then a mound of shredded mild cheddar, then onion. Cincinnati's distinctive variant.
-**Detroit "Loose" or "Loose Hamburger":** ladle the sauce over a hamburger bun (no dog), pretty much a sloppy joe.
-**Spicier:** double the chilli powder + add 1 teaspoon cayenne.
-**Vegetarian Coney sauce:** swap meat for soy crumble or lentils.
+- **Cincinnati style ("Coney with a sky"):** layer the dog with chili, then a mound of shredded mild cheddar, then onion. Cincinnati's distinctive variant.
+- **Detroit "Loose" or "Loose Hamburger":** ladle the sauce over a hamburger bun (no dog), pretty much a sloppy joe.
+- **Spicier:** double the chilli powder + add 1 teaspoon cayenne.
+- **Vegetarian Coney sauce:** swap meat for soy crumble or lentils.
 
 ## Serving
-At American Coney Island or Lafayette Coney Island in Detroit. At Flint diners. At Cincinnati chili parlours (different style, similar genealogy). At home with crinkle fries.
+- At American Coney Island or Lafayette Coney Island in Detroit. At Flint diners. At Cincinnati chili parlours (different style, similar genealogy). At home with crinkle fries.
 
 ## Storage
 - Coney sauce refrigerates 5 days; freezes 3 months; better the next day.

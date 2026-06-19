@@ -93,17 +93,17 @@ Zuurkool is the Dutch sauerkraut, a winter staple, but unlike the German version
 - **Don't add the bacon too early:** if the crisp bacon goes in during the braise, it loses its crispness. Add at the end.
 
 ## Variations
-**Zuurkoolstamppot:** fold the finished zuurkool through 800 g of mashed floury potato; serve with rookworst on top, the Dutch winter standard.
-**Zuurkool met spek en banaan (with banana):** a weird-but-loved Dutch variant, slice a banana and lay it on top before serving; the sweet creamy banana balances the sharp sauerkraut beautifully.
-**Zuurkool met ananas:** swap the apple for tinned pineapple chunks, the colonial-era Indonesian-Dutch variant.
-**Vegetarian zuurkool:** skip the bacon; use 2 tablespoons of olive oil; finish with a teaspoon of smoked paprika for depth.
-**Zuurkool with wine:** swap the apple juice for 200 ml dry Riesling, the Alsatian-Dutch crossover.
-**Zuurkool with smoked sausage built in:** slice a rookworst sausage into rounds; add to the pan in the last 10 minutes of braising, turns the side into a complete dinner.
-**Zuurkool soup (the leftover variant):** add 600 ml stock to the finished zuurkool; blend half; serve with cubed ham and a slice of dark rye bread.
-**Modern Amsterdam variant:** finish with a swirl of crème fraîche on top and a dusting of smoked paprika, bistro-fied.
+- **Zuurkoolstamppot:** fold the finished zuurkool through 800 g of mashed floury potato; serve with rookworst on top, the Dutch winter standard.
+- **Zuurkool met spek en banaan (with banana):** a weird-but-loved Dutch variant, slice a banana and lay it on top before serving; the sweet creamy banana balances the sharp sauerkraut beautifully.
+- **Zuurkool met ananas:** swap the apple for tinned pineapple chunks, the colonial-era Indonesian-Dutch variant.
+- **Vegetarian zuurkool:** skip the bacon; use 2 tablespoons of olive oil; finish with a teaspoon of smoked paprika for depth.
+- **Zuurkool with wine:** swap the apple juice for 200 ml dry Riesling, the Alsatian-Dutch crossover.
+- **Zuurkool with smoked sausage built in:** slice a rookworst sausage into rounds; add to the pan in the last 10 minutes of braising, turns the side into a complete dinner.
+- **Zuurkool soup (the leftover variant):** add 600 ml stock to the finished zuurkool; blend half; serve with cubed ham and a slice of dark rye bread.
+- **Modern Amsterdam variant:** finish with a swirl of crème fraîche on top and a dusting of smoked paprika, bistro-fied.
 
 ## Serving
-At a Dutch winter dinner (the traditional setting; October to March) · at a Dutch family Sunday lunch · at a Dutch sinterklaas (5 December) family meal · at a German-Dutch border region restaurant · at home alongside grilled pork chops or rookworst · paired with mashed potato or buttered noodles, and a cold Dutch lager.
+- At a Dutch winter dinner (the traditional setting; October to March) · at a Dutch family Sunday lunch · at a Dutch sinterklaas (5 December) family meal · at a German-Dutch border region restaurant · at home alongside grilled pork chops or rookworst · paired with mashed potato or buttered noodles, and a cold Dutch lager.
 
 ## Storage
 - Refrigerates 5 days, and improves with time. Many Dutch families make it the day before.

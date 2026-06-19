@@ -100,7 +100,7 @@ Vepřo-knedlo-zelo is the dish abbreviated into a single name because the combin
 - **Make ahead:** Both the pork and the sauerkraut improve overnight. Make on Saturday for Sunday lunch; the dumplings are the only thing that need to be fresh.
 
 ## Serving
-Czech Sunday lunch. A glass of Pilsner Urquell (the local pilsner) on the side. A small green salad or pickled gherkins if you want a third element.
+- Czech Sunday lunch. A glass of Pilsner Urquell (the local pilsner) on the side. A small green salad or pickled gherkins if you want a third element.
 
 ## Storage
 - Refrigerates 4 days.

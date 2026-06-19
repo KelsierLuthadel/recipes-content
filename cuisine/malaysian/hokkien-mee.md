@@ -72,12 +72,12 @@ Thick fresh egg noodles are stir-fried hard in rendered pork fat, then braised i
 - **Noodle choice:** Fresh thick yellow hokkien noodles are the right shape, holding the gravy in their grooves. Rinse off any oily coating before they hit the wok.
 
 ## Variations
-**Seafood-only:** Replace the pork belly slices with squid rings or extra prawns; keep the crispy pork croutons or swap them for fried garlic.
-**Vegetarian:** Drop the pork and prawns; use mushroom oyster sauce in place of regular oyster sauce, and finish with crispy fried shallots instead of pork croutons.
+- **Seafood-only:** Replace the pork belly slices with squid rings or extra prawns; keep the crispy pork croutons or swap them for fried garlic.
+- **Vegetarian:** Drop the pork and prawns; use mushroom oyster sauce in place of regular oyster sauce, and finish with crispy fried shallots instead of pork croutons.
 
 ## Serving
-Serve with: A side of pickled green chillies in soy sauce to cut the richness
-Garnish with: Sliced spring onion and a wedge of lime
+- Serve with: A side of pickled green chillies in soy sauce to cut the richness
+- Garnish with: Sliced spring onion and a wedge of lime
 
 ## Storage
 - Best eaten straight from the wok, the gravy thickens and the noodles soften on standing

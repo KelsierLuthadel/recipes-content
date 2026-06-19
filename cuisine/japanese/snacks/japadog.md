@@ -94,14 +94,14 @@ The Japadog is a Japanese-Canadian fusion hot dog that originated in Vancouver i
 - **Eat soon after building:** the daikon and nori should still be fresh and lively.
 
 ## Variations
-**Kurobuta version:** swap the frankfurter for a Japanese black-pig sausage (kurobuta).
-**Oroshi-only (no teriyaki):** lots of grated daikon, ponzu, spring onion, sesame; lighter style.
-**Tsume (eel sauce) version:** swap teriyaki for tsume (the sweeter sushi-bar sauce).
-**Spicy mentaiko:** smear a spoon of mentaiko (spicy cured cod roe) under the mayo.
-**Kimchi-Japadog:** add a forkful of kimchi for Korean-Japanese fusion.
+- **Kurobuta version:** swap the frankfurter for a Japanese black-pig sausage (kurobuta).
+- **Oroshi-only (no teriyaki):** lots of grated daikon, ponzu, spring onion, sesame; lighter style.
+- **Tsume (eel sauce) version:** swap teriyaki for tsume (the sweeter sushi-bar sauce).
+- **Spicy mentaiko:** smear a spoon of mentaiko (spicy cured cod roe) under the mayo.
+- **Kimchi-Japadog:** add a forkful of kimchi for Korean-Japanese fusion.
 
 ## Serving
-At a Vancouver street cart. At a Tokyo izakaya. At a backyard barbecue with sake and edamame.
+- At a Vancouver street cart. At a Tokyo izakaya. At a backyard barbecue with sake and edamame.
 
 ## Storage
 - Teriyaki sauce keeps refrigerated 2 weeks.

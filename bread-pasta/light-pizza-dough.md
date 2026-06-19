@@ -88,15 +88,15 @@ Light pizza dough is the building block for restaurant-quality pizza at home: an
 - **Fan Oven Caveat:** Non-fan (conventional) ovens bake this dough better; fan ovens can create uneven browning with such a light dough.
 
 ## Variations
-**Whole Wheat:** Replace 75g of flour with whole wheat flour for nuttier flavor (adjust fermentation time slightly).
-**Shorter Fermentation:** If time is limited, use 7g dry yeast and ferment for only 3-4 hours at room temperature, then proceed to Stage 2; the dough will be less flavorful but acceptable.
-**Higher Hydration:** Some prefer more water (350 ml instead of 330 ml) for an even lighter result; this requires more skill in handling the stickier dough.
-**Oil-Rich:** Increase olive oil to 75 ml in Stage 2 for richer dough (though this changes the style).
+- **Whole Wheat:** Replace 75g of flour with whole wheat flour for nuttier flavor (adjust fermentation time slightly).
+- **Shorter Fermentation:** If time is limited, use 7g dry yeast and ferment for only 3-4 hours at room temperature, then proceed to Stage 2; the dough will be less flavorful but acceptable.
+- **Higher Hydration:** Some prefer more water (350 ml instead of 330 ml) for an even lighter result; this requires more skill in handling the stickier dough.
+- **Oil-Rich:** Increase olive oil to 75 ml in Stage 2 for richer dough (though this changes the style).
 
 ## Serving
-Use for: Pizza bases, focaccia, thick-crust applications  
-Portions: Approximately 200-250g per large pizza or standard thin-crust pizza
-Results: Light, crispy crust in non-fan oven; tender, open crumb; excellent flavor from long fermentation
+- Use for: Pizza bases, focaccia, thick-crust applications  
+- Portions: Approximately 200-250g per large pizza or standard thin-crust pizza
+- Results: Light, crispy crust in non-fan oven; tender, open crumb; excellent flavor from long fermentation
 
 ## Storage
 - **Before Stage 1 fermentation:** Keep covered at room temperature for 8-12 hours as directed

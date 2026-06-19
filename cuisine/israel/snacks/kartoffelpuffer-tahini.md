@@ -66,7 +66,7 @@ The classic German kartoffelpuffer, grated potato fritter, meets the Middle East
 - For a less herby version, drop the coriander and double the parsley. The cumin and turmeric carry the spice profile.
 
 ## Serving
-At brunch on a wide platter, with yogurt and lemon wedges. As a starter before a falafel or hummus board. On a Hanukkah table as a contemporary alternative to latkes.
+- At brunch on a wide platter, with yogurt and lemon wedges. As a starter before a falafel or hummus board. On a Hanukkah table as a contemporary alternative to latkes.
 
 ## Storage
 Best fresh and crisp. Reheat leftovers on a baking tray at 200°C for 8-10 minutes to recover the crisp, microwaving them turns the patties soft.

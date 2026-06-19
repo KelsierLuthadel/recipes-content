@@ -90,15 +90,15 @@ Liège waffles are the dense, sweet, chewy waffles that Belgians eat from street
 - **Don't refrigerate the dough overnight:** the butter firms and the pearls can shed sugar; better to cook the same day.
 
 ## Variations
-**Liège waffles with chocolate chips:** add 100 g of small dark chocolate chips when kneading in the pearl sugar, modern Belgian street-cart variant.
-**Brown sugar Liège waffles:** swap half the caster sugar in the dough for soft dark brown sugar, deeper, more molasses-like.
-**Liège waffles with cinnamon:** add 1 teaspoon ground cinnamon to the dough, winter variant.
-**Brussels-style waffle (the other Belgian waffle):** a yeasted batter (not a dough), cooked thin and crisp in a rectangular iron, served with cream and strawberries, completely different recipe, see Brussels waffle in a separate file.
-**Stroopwafel-Belgian crossover:** roll the cooked Liège waffle while still warm into a cone shape filled with whipped cream, the Brussels carnival variant.
-**Vegan Liège waffles:** swap eggs for 2 tablespoons of flax-and-water, butter for vegan block butter, milk for oat milk, texture slightly different but still good.
+- **Liège waffles with chocolate chips:** add 100 g of small dark chocolate chips when kneading in the pearl sugar, modern Belgian street-cart variant.
+- **Brown sugar Liège waffles:** swap half the caster sugar in the dough for soft dark brown sugar, deeper, more molasses-like.
+- **Liège waffles with cinnamon:** add 1 teaspoon ground cinnamon to the dough, winter variant.
+- **Brussels-style waffle (the other Belgian waffle):** a yeasted batter (not a dough), cooked thin and crisp in a rectangular iron, served with cream and strawberries, completely different recipe, see Brussels waffle in a separate file.
+- **Stroopwafel-Belgian crossover:** roll the cooked Liège waffle while still warm into a cone shape filled with whipped cream, the Brussels carnival variant.
+- **Vegan Liège waffles:** swap eggs for 2 tablespoons of flax-and-water, butter for vegan block butter, milk for oat milk, texture slightly different but still good.
 
 ## Serving
-At a Belgian street cart in Liège, Brussels or Antwerp (the traditional setting) · at a Belgian Christmas market · at a Belgian carnival or fair · as the Belgian street-food snack between meals · at home for a Saturday-morning brunch · paired with a Belgian hot chocolate.
+- At a Belgian street cart in Liège, Brussels or Antwerp (the traditional setting) · at a Belgian Christmas market · at a Belgian carnival or fair · as the Belgian street-food snack between meals · at home for a Saturday-morning brunch · paired with a Belgian hot chocolate.
 
 ## Storage
 - Best eaten within 2 hours of cooking. After that the caramel softens and the dough goes slightly stale.

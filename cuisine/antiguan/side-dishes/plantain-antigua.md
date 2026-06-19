@@ -45,7 +45,7 @@ Fried plantain is the Antiguan side that needs almost no explanation: ripe plant
 - **Cane sugar glaze:** Add a teaspoon of brown sugar to the pan in the last minute and toss to coat.
 
 ## Serving
-Serve hot with fungie and pepperpot · alongside saltfish breakfast · with rice and peas and stewed chicken · as a snack with a sprinkle of pepper sauce.
+- Serve hot with fungie and pepperpot · alongside saltfish breakfast · with rice and peas and stewed chicken · as a snack with a sprinkle of pepper sauce.
 
 ## Storage
 - Best eaten straight from the pan

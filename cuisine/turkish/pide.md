@@ -117,13 +117,13 @@ Pide (pronounced pee-deh) is Turkey's iconic boat-shaped flatbread and one of th
 - **Cut with shears, not a knife:** kitchen shears cut through the rim and topping cleanly; a knife can compress the dough.
 
 ## Variations
-**With egg (yumurtalı pide):** crack an egg into the centre of any pide in the last 5 minutes of baking; gives a richer breakfast-friendly version.
-**Cheese-only (peynirli pide):** just kashar cheese spread over the dough; simpler kid-friendly version.
-**Spicy sucuk pide:** add chopped fresh chillies to the sucuk-cheese filling; gives the properly fierce version.
-**With pastırma (cured beef):** swap the sucuk for thinly sliced pastırma (Turkish air-dried cured beef); a luxurious variation.
+- **With egg (yumurtalı pide):** crack an egg into the centre of any pide in the last 5 minutes of baking; gives a richer breakfast-friendly version.
+- **Cheese-only (peynirli pide):** just kashar cheese spread over the dough; simpler kid-friendly version.
+- **Spicy sucuk pide:** add chopped fresh chillies to the sucuk-cheese filling; gives the properly fierce version.
+- **With pastırma (cured beef):** swap the sucuk for thinly sliced pastırma (Turkish air-dried cured beef); a luxurious variation.
 
 ## Serving
-On a long wooden board, cut into thick wide strips. Lemon wedges and sumac onions on the side. With ayran or a cold beer. As lunch, dinner or a late-night Turkish snack. Often shared family-style: a few different pide ordered together (one meat, one spinach, one cheese) and everyone takes wedges.
+- On a long wooden board, cut into thick wide strips. Lemon wedges and sumac onions on the side. With ayran or a cold beer. As lunch, dinner or a late-night Turkish snack. Often shared family-style: a few different pide ordered together (one meat, one spinach, one cheese) and everyone takes wedges.
 
 ## Storage
 - Best eaten fresh and hot.

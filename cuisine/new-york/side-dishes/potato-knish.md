@@ -94,13 +94,13 @@ The knish (pronounced "kuh-nish") is one of the most iconic Jewish-American stre
 - **Bake till deep golden.**
 
 ## Variations
-**Kasha (buckwheat) knish:** swap potato for cooked kasha + onions + egg.
-**Sweet potato knish:** swap white potato for sweet potato.
-**Spinach and cheese:** spinach + ricotta + Parmesan filling.
-**Mushroom knish:** sautéed mushroom + onion + potato.
+- **Kasha (buckwheat) knish:** swap potato for cooked kasha + onions + egg.
+- **Sweet potato knish:** swap white potato for sweet potato.
+- **Spinach and cheese:** spinach + ricotta + Parmesan filling.
+- **Mushroom knish:** sautéed mushroom + onion + potato.
 
 ## Serving
-At NY Jewish delis; from street carts; alongside sandwiches.
+- At NY Jewish delis; from street carts; alongside sandwiches.
 
 ## Storage
 - Cooked refrigerate 4 days.

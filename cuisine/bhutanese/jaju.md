@@ -90,13 +90,13 @@ Jaju is Bhutan's everyday mushroom-and-greens soup, the gentle clear-broth dish 
 - **The dried chillies are optional eating:** they infuse the soup with warmth as they sit in the broth. Some Bhutanese diners eat them; others leave them in the bowl. Provide a small dish at the table for those who want extra spice; remove from the soup if cooking for diners who can't handle heat.
 
 ## Variations
-**Jaju with cheese (jaju datshi):** add 100 g of crumbled feta or fresh local cheese in the last 5 minutes; turns the gentle soup into a richer creamy bowl. Brings it into the datshi family.
-**Jaju with rice noodles:** add 100 g of pre-cooked thin rice noodles to the soup in the last 2 minutes; turns the dish into a proper noodle soup that can be a main course.
-**Jaju with chicken:** add 300 g of diced chicken thigh to the pan at the start of cooking the mushrooms; brown briefly, then proceed with the recipe. Makes a more substantial main-course soup.
-**Wild mushroom only (if you can forage):** use 400 g of mixed wild mushrooms (chanterelles, morels, ceps) instead of cultivated; gives the proper Bhutanese forest soup. Skip the dried mushrooms if your fresh ones are properly flavourful.
+- **Jaju with cheese (jaju datshi):** add 100 g of crumbled feta or fresh local cheese in the last 5 minutes; turns the gentle soup into a richer creamy bowl. Brings it into the datshi family.
+- **Jaju with rice noodles:** add 100 g of pre-cooked thin rice noodles to the soup in the last 2 minutes; turns the dish into a proper noodle soup that can be a main course.
+- **Jaju with chicken:** add 300 g of diced chicken thigh to the pan at the start of cooking the mushrooms; brown briefly, then proceed with the recipe. Makes a more substantial main-course soup.
+- **Wild mushroom only (if you can forage):** use 400 g of mixed wild mushrooms (chanterelles, morels, ceps) instead of cultivated; gives the proper Bhutanese forest soup. Skip the dried mushrooms if your fresh ones are properly flavourful.
 
 ## Serving
-As one of the bowls on a multi-dish Bhutanese table alongside ema datshi (the chilli-cheese stew), shakam paa (dried beef stew), and red rice; the gentle clear broth provides relief from the heavier chilli-forward dishes. Eat with a spoon, mopping the broth with extra rice or bread.
+- As one of the bowls on a multi-dish Bhutanese table alongside ema datshi (the chilli-cheese stew), shakam paa (dried beef stew), and red rice; the gentle clear broth provides relief from the heavier chilli-forward dishes. Eat with a spoon, mopping the broth with extra rice or bread.
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour deepens overnight. Reheat gently over low heat (don't boil; the greens will go drab).

@@ -68,14 +68,14 @@ Bara ceirch is the Welsh hill-farm oatcake, a thin lacy biscuit closer in textur
 - **Bacon fat traditional:** lifts the flavour; melted butter is the modern substitute.
 
 ## Variations
-**On the griddle:** cook on a dry hot griddle (planc) at medium-low heat 3-4 minutes a side; turn once.
-**Cheese oatcakes:** stir 50 g grated mature Welsh cheddar into the dough.
-**Seeded:** add 1 tablespoon caraway, fennel or poppy seeds.
-**Sweet bara ceirch:** drop the salt and bacon fat; add 2 tablespoons brown sugar; serve with honey.
-**Gluten-free already:** pure oats are gluten-free; check the oat packet for "gluten-free" certification if needed (some oats are cross-contaminated).
+- **On the griddle:** cook on a dry hot griddle (planc) at medium-low heat 3-4 minutes a side; turn once.
+- **Cheese oatcakes:** stir 50 g grated mature Welsh cheddar into the dough.
+- **Seeded:** add 1 tablespoon caraway, fennel or poppy seeds.
+- **Sweet bara ceirch:** drop the salt and bacon fat; add 2 tablespoons brown sugar; serve with honey.
+- **Gluten-free already:** pure oats are gluten-free; check the oat packet for "gluten-free" certification if needed (some oats are cross-contaminated).
 
 ## Serving
-With a slice of Welsh cheddar and a mug of tea (the standard) · with cawl as a snappable side · with cheese and pickled red cabbage at a Welsh chapel-tea · with butter and honey for breakfast · on a Welsh cheese board with Caerphilly and Perl Las · packed into a hill-walker's bag for a Brecon Beacons trail snack.
+- With a slice of Welsh cheddar and a mug of tea (the standard) · with cawl as a snappable side · with cheese and pickled red cabbage at a Welsh chapel-tea · with butter and honey for breakfast · on a Welsh cheese board with Caerphilly and Perl Las · packed into a hill-walker's bag for a Brecon Beacons trail snack.
 
 ## Storage
 - Keeps 3 weeks in an airtight tin.

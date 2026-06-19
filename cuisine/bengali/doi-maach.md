@@ -93,7 +93,7 @@ The celebration-day Bengali fish curry, the one you cook for a Saraswati Puja lu
 - **Mustard oil is the dish.** As with most Bengali cooking, mustard oil heated to smoking before anything else is the signature. Don't substitute unless you have to.
 
 ## Serving
-Serve with plain steamed basmati or short-grain Indian rice, a wedge of lemon, and either a dal or a quick fried okra (bhindi bhaja) on the side. Doi maach is a Sunday-lunch dish in Bengal; it likes good company on the plate.
+- Serve with plain steamed basmati or short-grain Indian rice, a wedge of lemon, and either a dal or a quick fried okra (bhindi bhaja) on the side. Doi maach is a Sunday-lunch dish in Bengal; it likes good company on the plate.
 
 ## Storage
 - Refrigerate up to 2 days. The flavour improves overnight but the fish texture softens.

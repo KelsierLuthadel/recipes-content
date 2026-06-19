@@ -71,7 +71,7 @@ Hilsa (ilish) is the national fish of Bangladesh, pulled in shoals from the Padm
 - **Dryer style:** reduce water to 200 ml for a thicker gravy that clings to the fish.
 
 ## Serving
-Plain steamed rice (white, fluffy, no flavour additions) · slit green chilli on the side · wedges of lime · a small bowl of dal alongside
+- Plain steamed rice (white, fluffy, no flavour additions) · slit green chilli on the side · wedges of lime · a small bowl of dal alongside
 
 ## Storage
 - Refrigerate up to 24 hours; flavour deepens overnight

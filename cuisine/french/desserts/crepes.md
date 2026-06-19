@@ -45,7 +45,7 @@ Crêpes are the foundation of French pâtisserie and bistro snacking: tissue-thi
 - Cooking only 30-40 seconds on the second side maintains delicate texture; overcooked second sides become crispy rather than tender
 
 ## Serving
-Serve crépes warm or at room temperature with sweet or savory fillings and accompaniments. They adapt to any dessert concept from simple lemon and sugar to elaborate cake-like constructions. Their neutral flavor allows other components to shine.
+- Serve crépes warm or at room temperature with sweet or savory fillings and accompaniments. They adapt to any dessert concept from simple lemon and sugar to elaborate cake-like constructions. Their neutral flavor allows other components to shine.
 
 ## Storage
 Cooled crépes stack beautifully on a plate and keep at room temperature, covered with plastic wrap, for up to 2 days. They can also be frozen between sheets of parchment paper for up to one month; thaw at room temperature before use. Reheat gently in a dry pan if needed, though room-temperature serving is often preferable.

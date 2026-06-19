@@ -82,14 +82,14 @@ The Hawaiian hot dog is the islands' distinctive take on the American hot dog, b
 - **Portuguese sweet sausage > frankfurter:** if you can find it. Linguiça or a sweet Italian-style sausage works as substitute.
 
 ## Variations
-**With pulled kalua pork:** swap the dog for shredded kalua pig (Hawaiian slow-roasted pork).
-**With teriyaki sauce:** add a stripe of teriyaki sauce alongside the fruit sauce.
-**With grilled pineapple ring:** add a charred pineapple ring on top.
-**Spicier:** add chopped Hawaiian chillies or Tabasco hot sauce.
-**Sweet-only (no mustard):** push fully tropical with just fruit sauce + onion + coriander.
+- **With pulled kalua pork:** swap the dog for shredded kalua pig (Hawaiian slow-roasted pork).
+- **With teriyaki sauce:** add a stripe of teriyaki sauce alongside the fruit sauce.
+- **With grilled pineapple ring:** add a charred pineapple ring on top.
+- **Spicier:** add chopped Hawaiian chillies or Tabasco hot sauce.
+- **Sweet-only (no mustard):** push fully tropical with just fruit sauce + onion + coriander.
 
 ## Serving
-At a Honolulu food cart on Kalakaua Avenue. At a Maui beach-side luau-themed gathering. At home with poke alongside.
+- At a Honolulu food cart on Kalakaua Avenue. At a Maui beach-side luau-themed gathering. At home with poke alongside.
 
 ## Storage
 - Mango-pineapple sauce refrigerates 1 week; freezes 3 months.

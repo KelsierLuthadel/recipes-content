@@ -61,7 +61,7 @@ Floating islands (île flottante) is the classical French dessert of poached mer
 - The rhubarb syrup adds tartness to balance the sweetness of meringue and caramel; young, tender rhubarb has the best flavor and color
 
 ## Serving
-Divide the crème anglaise among shallow bowls and float a single poached meringue in the center. Arrange the poached rhubarb pieces around the meringue and drizzle caramel decoratively in a thin stream across the top. Serve immediately while temperatures provide maximum contrast.
+- Divide the crème anglaise among shallow bowls and float a single poached meringue in the center. Arrange the poached rhubarb pieces around the meringue and drizzle caramel decoratively in a thin stream across the top. Serve immediately while temperatures provide maximum contrast.
 
 ## Storage
 The meringues can be poached several hours ahead and kept on a clean tea towel, covered with plastic film in a cool location. The crème anglaise and rhubarb compote can be prepared the day before and refrigerated. Reheat the crème anglaise gently before plating. Assemble immediately before serving for best presentation and temperature contrast.

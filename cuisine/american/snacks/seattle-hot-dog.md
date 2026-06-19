@@ -78,14 +78,14 @@ The Seattle hot dog (also called the "Seattle Dog" or "Dave's Dog" after street 
 - **Caramelise the onions slow:** the sweetness is what makes the whole thing work against the savoury cream cheese.
 
 ## Variations
-**Chicken-sausage Seattle dog:** swap the bratwurst for a chicken-apple sausage for a lighter version.
-**With smoked salmon:** add a slice of smoked salmon on top of the cream cheese (the Pacific NW lean).
-**With pickled jalapeños:** instead of raw, for less heat.
-**With everything bagel seasoning:** sprinkle over the cream cheese for crossover energy.
-**Spicier:** double the jalapeños + extra sriracha.
+- **Chicken-sausage Seattle dog:** swap the bratwurst for a chicken-apple sausage for a lighter version.
+- **With smoked salmon:** add a slice of smoked salmon on top of the cream cheese (the Pacific NW lean).
+- **With pickled jalapeños:** instead of raw, for less heat.
+- **With everything bagel seasoning:** sprinkle over the cream cheese for crossover energy.
+- **Spicier:** double the jalapeños + extra sriracha.
 
 ## Serving
-At a Seattle street cart after a Mariners game. At home with kettle chips and an IPA. At a backyard barbecue as the conversation starter.
+- At a Seattle street cart after a Mariners game. At home with kettle chips and an IPA. At a backyard barbecue as the conversation starter.
 
 ## Storage
 - Best fresh.

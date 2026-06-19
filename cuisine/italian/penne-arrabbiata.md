@@ -57,12 +57,12 @@ Penne all'arrabbiata is the angry Roman tomato pasta (arrabbiata means "angry", 
 - **Garlic Color:** Golden is acceptable; brown means bitter. Watch carefully.
 
 ## Variations
-**With Anchovy:** Add 2 finely chopped anchovy fillets with the garlic for depth.
-**Bacon Version:** Add 100g pancetta, cooked first, for richness.
+- **With Anchovy:** Add 2 finely chopped anchovy fillets with the garlic for depth.
+- **Bacon Version:** Add 100g pancetta, cooked first, for richness.
 
 ## Serving
-Serve with: Crusty bread for sauce soaking
-Garnish with: Fresh parsley, cracked black pepper, and a drizzle of excellent olive oil
+- Serve with: Crusty bread for sauce soaking
+- Garnish with: Fresh parsley, cracked black pepper, and a drizzle of excellent olive oil
 
 ## Storage
 - Keeps 3-4 days refrigerated

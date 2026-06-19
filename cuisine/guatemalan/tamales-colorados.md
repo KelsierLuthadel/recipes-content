@@ -104,7 +104,7 @@ Tamales colorados are the red Christmas tamales of Guatemala, distinct from thei
 - **Chuchitos:** smaller, drier tamales in dried corn husk; an everyday street snack.
 
 ## Serving
-With ponche · hot chocolate · a cup of black coffee · pickled chillies on the side · the family around the table on Christmas Eve
+- With ponche · hot chocolate · a cup of black coffee · pickled chillies on the side · the family around the table on Christmas Eve
 
 ## Storage
 - Steamed tamales keep 4 days refrigerated and freeze 3 months in their leaves

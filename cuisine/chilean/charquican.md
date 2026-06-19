@@ -105,13 +105,13 @@ Charquicán is one of Chile's most distinctively Andean dishes, a slow-cooked ha
 - **Don't rush:** 40 minutes of simmering develops proper flavour.
 
 ## Variations
-**Pure pumpkin charquicán:** vegetarian version with just pumpkin, potato, corn, peas, no meat. Common Chilean Lent dish.
-**With white wine:** add 100 ml of dry white wine after the meat browning; gives extra depth.
-**With chard:** add 200 g of chopped chard to the pot in the last 10 minutes; gives extra colour and freshness.
-**Mashed version (charquicán machucado):** mash everything together at the end with a potato masher; gives a more uniform mash-style texture. Common Chilean variation.
+- **Pure pumpkin charquicán:** vegetarian version with just pumpkin, potato, corn, peas, no meat. Common Chilean Lent dish.
+- **With white wine:** add 100 ml of dry white wine after the meat browning; gives extra depth.
+- **With chard:** add 200 g of chopped chard to the pot in the last 10 minutes; gives extra colour and freshness.
+- **Mashed version (charquicán machucado):** mash everything together at the end with a potato masher; gives a more uniform mash-style texture. Common Chilean variation.
 
 ## Serving
-In deep bowls topped with a fried egg, marraqueta on the side. Drink: Chilean red wine, Cristal beer, or a glass of mote con huesillos. Comforting Chilean winter dinner.
+- In deep bowls topped with a fried egg, marraqueta on the side. Drink: Chilean red wine, Cristal beer, or a glass of mote con huesillos. Comforting Chilean winter dinner.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens.

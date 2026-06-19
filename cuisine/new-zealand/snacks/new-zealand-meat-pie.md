@@ -94,7 +94,7 @@ The meat pie is the New Zealand and Australian common-currency hand-food: a smal
 - **Steam vent matters:** Without it, the pies puff like balloons and burst. A small slit is all that's needed.
 
 ## Serving
-The Kiwi handheld meal. Eat hot at any time of day from breakfast onwards. The standard accessory is a small bottle of Wattie's tomato sauce.
+- The Kiwi handheld meal. Eat hot at any time of day from breakfast onwards. The standard accessory is a small bottle of Wattie's tomato sauce.
 
 ## Storage
 - Refrigerates 3 days; reheat in a 180°C oven 15 minutes (microwave makes the pastry soggy).

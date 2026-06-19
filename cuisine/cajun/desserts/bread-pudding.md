@@ -78,12 +78,12 @@ The New Orleans bread pudding, the warm dessert that lands on the table at the e
 - **Sauce non-alcoholic:** Replace the bourbon with 60 ml of strong cold espresso or 60 ml apple juice with 1 teaspoon vanilla. Different, still excellent.
 
 ## Variations
-**Chocolate:** Add 100 g chopped dark chocolate to the bread mix before baking.
-**Praline:** Top with crushed pecan pralines and serve with the sauce on the side.
-**Banana foster:** Add 2 sliced ripe bananas to the bread mix; flame the bourbon sauce briefly before serving.
+- **Chocolate:** Add 100 g chopped dark chocolate to the bread mix before baking.
+- **Praline:** Top with crushed pecan pralines and serve with the sauce on the side.
+- **Banana foster:** Add 2 sliced ripe bananas to the bread mix; flame the bourbon sauce briefly before serving.
 
 ## Serving
-Serve with: The hot bourbon sauce poured over each portion; a scoop of vanilla ice cream on the side; or a dollop of softly whipped cream.
+- Serve with: The hot bourbon sauce poured over each portion; a scoop of vanilla ice cream on the side; or a dollop of softly whipped cream.
 
 ## Storage
 - Keeps 3 days refrigerated; reheat covered in a 160°C oven for 15 minutes.

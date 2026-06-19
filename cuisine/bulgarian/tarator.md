@@ -60,7 +60,7 @@ Tarator is the soup Bulgaria pours from the fridge when the thermometer climbs, 
 - **Frozen tarator (sherbet-tarator):** churned briefly in an ice cream maker as a savoury palate cleanser.
 
 ## Serving
-In wide shallow chilled bowls · with a slice of country bread · with the shopska salata before it · as a starter to grilled kebapcheta · for breakfast on a hot morning · as a cold first course at any summer table.
+- In wide shallow chilled bowls · with a slice of country bread · with the shopska salata before it · as a starter to grilled kebapcheta · for breakfast on a hot morning · as a cold first course at any summer table.
 
 ## Storage
 - Refrigerate up to 2 days; whisk again before serving (the cucumber settles).

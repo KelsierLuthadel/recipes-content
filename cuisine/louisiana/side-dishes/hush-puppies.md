@@ -69,13 +69,13 @@ Hush puppies are Louisiana's (and the wider American South's) traditional fried-
 - **Eat immediately.**
 
 ## Variations
-**With jalapeño:** add chopped fresh jalapeño.
-**With cheese:** add 100 g grated cheddar.
-**With corn kernels:** add 100 g sweet corn.
-**Sweeter:** double the sugar.
+- **With jalapeño:** add chopped fresh jalapeño.
+- **With cheese:** add 100 g grated cheddar.
+- **With corn kernels:** add 100 g sweet corn.
+- **Sweeter:** double the sugar.
 
 ## Serving
-Alongside fried catfish, shrimp, chicken. Friday fish fries.
+- Alongside fried catfish, shrimp, chicken. Friday fish fries.
 
 ## Storage
 - Best immediately.

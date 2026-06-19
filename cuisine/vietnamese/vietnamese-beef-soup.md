@@ -61,7 +61,7 @@ This is the quicker home-cook phở bò: paper-thin slices of rump steak cooked 
 - **Herbs:** Add fresh for brightness.
 
 ## Serving
-Serve hot with lemon wedges for squeezing.
+- Serve hot with lemon wedges for squeezing.
 
 ## Storage
 - Refrigerate broth up to 2 days; assemble fresh.

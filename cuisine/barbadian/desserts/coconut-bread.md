@@ -100,16 +100,16 @@ Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. D
 - **Improves with a day:** the flavours marry overnight. The loaf is even better on day 2.
 
 ## Variations
-**Coconut bread with rum-soaked raisins:** soak the raisins in 60 ml of Bajan rum for 1 hour; drain; add to the batter, the boozy variant.
-**Pineapple-coconut bread:** add 200 g of chopped fresh or canned pineapple (well-drained) to the batter, the tropical variant.
-**Chocolate-chip coconut bread:** add 150 g dark chocolate chips, the modern variant.
-**Banana-coconut bread:** swap 200 ml of the coconut milk for 2 mashed ripe bananas, the Caribbean banana-bread crossover.
-**Vegan coconut bread:** swap eggs for 6 tablespoons aquafaba + 3 tablespoons milled flax + 3 tablespoons water; butter for vegan block butter; otherwise the recipe is vegan-friendly.
-**Mini coconut breads (cupcake-format):** divide the batter into a 12-cup muffin tin; bake 28-32 minutes, the lunchbox variant.
-**Coconut-spice loaf (festive Christmas variant):** double the spices; add 100 g chopped dates, the Bajan Christmas variant.
+- **Coconut bread with rum-soaked raisins:** soak the raisins in 60 ml of Bajan rum for 1 hour; drain; add to the batter, the boozy variant.
+- **Pineapple-coconut bread:** add 200 g of chopped fresh or canned pineapple (well-drained) to the batter, the tropical variant.
+- **Chocolate-chip coconut bread:** add 150 g dark chocolate chips, the modern variant.
+- **Banana-coconut bread:** swap 200 ml of the coconut milk for 2 mashed ripe bananas, the Caribbean banana-bread crossover.
+- **Vegan coconut bread:** swap eggs for 6 tablespoons aquafaba + 3 tablespoons milled flax + 3 tablespoons water; butter for vegan block butter; otherwise the recipe is vegan-friendly.
+- **Mini coconut breads (cupcake-format):** divide the batter into a 12-cup muffin tin; bake 28-32 minutes, the lunchbox variant.
+- **Coconut-spice loaf (festive Christmas variant):** double the spices; add 100 g chopped dates, the Bajan Christmas variant.
 
 ## Serving
-At a Bajan Sunday tea (the traditional setting) · at a Bajan church social · at a Bajan Christmas tea-table · at a Bajan Independence Day reception · at a Caribbean tea-room · at home as a make-ahead Sunday-tea bake · paired with strong Bajan tea, mauby, cocoa-tea, or vanilla ice cream.
+- At a Bajan Sunday tea (the traditional setting) · at a Bajan church social · at a Bajan Christmas tea-table · at a Bajan Independence Day reception · at a Caribbean tea-room · at home as a make-ahead Sunday-tea bake · paired with strong Bajan tea, mauby, cocoa-tea, or vanilla ice cream.
 
 ## Storage
 - Stores 5 days at room temperature wrapped tight (or in a tin with a tight lid).

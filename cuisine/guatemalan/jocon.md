@@ -83,7 +83,7 @@ Jocón is the green Mayan stew of the Sololá and Chimaltenango highlands, the v
 - **Jocón de pavo:** the wedding version, with turkey pieces.
 
 ## Serving
-With white rice · tamalitos blancos · sliced avocado · lime wedges · warm corn tortillas
+- With white rice · tamalitos blancos · sliced avocado · lime wedges · warm corn tortillas
 
 ## Storage
 - Keeps 3 days refrigerated (the green dulls after that)

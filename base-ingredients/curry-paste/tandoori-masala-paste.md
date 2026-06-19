@@ -106,16 +106,16 @@ Tandoori masala paste is the building block for the marinades you spread onto ch
 - **Oil Seal:** Check after a few days to ensure the oil seal is unbroken.
 
 ## Variations
-**With Ginger Heat:** Add an extra tablespoon of minced fresh ginger before frying aromatics.
-**Spicier Version:** Increase chilli powder to 3 teaspoons.
-**With Coffee:** Add 1 teaspoon instant coffee powder to the finished paste for extra depth and darkness of color.
-**Smokier:** Use smoked paprika (2 tablespoons) instead of sweet paprika for campfire-style flavor.
+- **With Ginger Heat:** Add an extra tablespoon of minced fresh ginger before frying aromatics.
+- **Spicier Version:** Increase chilli powder to 3 teaspoons.
+- **With Coffee:** Add 1 teaspoon instant coffee powder to the finished paste for extra depth and darkness of color.
+- **Smokier:** Use smoked paprika (2 tablespoons) instead of sweet paprika for campfire-style flavor.
 
 ## Serving
-Use in: Tandoori marinades (mixed with yogurt), roasted vegetable coatings, broiler dishes
-Typical ratio: 3-4 tablespoons paste mixed with 150-200 ml plain yogurt for a full marinade
-Marinating: Apply yogurt mixture and marinate 8-12+ hours before cooking
-Cooking: Grill under broiler or in a hot oven; the marinade chars and caramelizes on the surface
+- Use in: Tandoori marinades (mixed with yogurt), roasted vegetable coatings, broiler dishes
+- Typical ratio: 3-4 tablespoons paste mixed with 150-200 ml plain yogurt for a full marinade
+- Marinating: Apply yogurt mixture and marinate 8-12+ hours before cooking
+- Cooking: Grill under broiler or in a hot oven; the marinade chars and caramelizes on the surface
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 3 months (longer than other Balti pastes because the yogurt won't be added until use)

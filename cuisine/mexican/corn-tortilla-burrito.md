@@ -62,11 +62,11 @@ The corn tortilla burrito is the Atlantic City regional variant of the dish, whe
 - **Eat fast:** Corn tortillas absorb moisture faster than flour; the burrito softens within 15 minutes of assembly.
 
 ## Variations
-**Vegetarian:** Skip the meat, double the beans, add roasted vegetables and queso fresco.
-**Crispy:** Sear all four sides of the rolled burrito on a hot pan with oil; the corn tortilla goes properly crisp in a way flour doesn't.
+- **Vegetarian:** Skip the meat, double the beans, add roasted vegetables and queso fresco.
+- **Crispy:** Sear all four sides of the rolled burrito on a hot pan with oil; the corn tortilla goes properly crisp in a way flour doesn't.
 
 ## Serving
-Serve hot with extra salsa verde, chopped onion and a lime wedge.
+- Serve hot with extra salsa verde, chopped onion and a lime wedge.
 
 ## Storage
 - The guisado and beans keep 4 days refrigerated

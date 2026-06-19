@@ -75,16 +75,16 @@ Ensalada criolla (literally "creole salad", referring to the Spanish-colonial-er
 - **Eat at room temperature:** not fridge-cold. The flavours are muted when too cold.
 
 ## Variations
-**With cucumber:** add 1 diced cucumber (deseeded) for refreshing crunch, modern variant.
-**With avocado:** add ½ diced avocado just before serving, Argentine modern; not traditional.
-**With corn:** add 100 g cooked corn kernels, summer variant.
-**With anchovy:** add 4 chopped anchovy fillets to the dressing, Spanish-influenced.
-**Spicy criolla:** double the chilli flakes; add 1 chopped fresh chilli.
-**With olives:** add 30 g chopped green olives, Mediterranean-Argentine.
-**With egg:** stir in 2 chopped hard-boiled eggs, heartier version, almost a meal.
+- **With cucumber:** add 1 diced cucumber (deseeded) for refreshing crunch, modern variant.
+- **With avocado:** add ½ diced avocado just before serving, Argentine modern; not traditional.
+- **With corn:** add 100 g cooked corn kernels, summer variant.
+- **With anchovy:** add 4 chopped anchovy fillets to the dressing, Spanish-influenced.
+- **Spicy criolla:** double the chilli flakes; add 1 chopped fresh chilli.
+- **With olives:** add 30 g chopped green olives, Mediterranean-Argentine.
+- **With egg:** stir in 2 chopped hard-boiled eggs, heartier version, almost a meal.
 
 ## Serving
-At every Argentine asado as a side (the traditional setting) · in choripán sandwiches · on grilled provoleta · alongside milanesa · with fresh bread for soaking · at an Argentine wedding reception · at home as the daily vegetable side.
+- At every Argentine asado as a side (the traditional setting) · in choripán sandwiches · on grilled provoleta · alongside milanesa · with fresh bread for soaking · at an Argentine wedding reception · at home as the daily vegetable side.
 
 ## Storage
 - Refrigerates 2 days; the texture softens but the flavour intensifies.

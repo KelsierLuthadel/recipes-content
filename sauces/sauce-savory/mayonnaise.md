@@ -49,7 +49,7 @@ Mayonnaise is the building block for an entire family of cold sauces (aïoli, ro
 - **Oil addition:** Never rush; slow addition of oil is key to smooth emulsion.
 
 ## Serving
-Serve with salads, cold meats, sandwiches, crudités, or as base for flavored mayonnaises (aioli, rouille, etc.).
+- Serve with salads, cold meats, sandwiches, crudités, or as base for flavored mayonnaises (aioli, rouille, etc.).
 
 ## Storage
 - Keeps refrigerated in an airtight container for 5-7 days.

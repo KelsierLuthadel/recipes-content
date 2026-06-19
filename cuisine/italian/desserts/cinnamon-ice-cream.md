@@ -31,7 +31,7 @@ Ice cream the colour of pale toffee, with the warm hum of cinnamon coming throug
 - Because of the spice's flavor intensity, this ice cream pairs wonderfully with fruit compotes and warm puddings, where its warmth complements fruit flavors
 
 ## Serving
-Serve scoops of cinnamon ice cream alongside warm apple crisps, spiced pear desserts, or moist cinnamon cakes for a perfect flavor pairing. The subtle spice also complements chocolate desserts beautifully. A light wafer cookie or shortbread provides pleasant textural contrast.
+- Serve scoops of cinnamon ice cream alongside warm apple crisps, spiced pear desserts, or moist cinnamon cakes for a perfect flavor pairing. The subtle spice also complements chocolate desserts beautifully. A light wafer cookie or shortbread provides pleasant textural contrast.
 
 ## Storage
 Store in the freezer for up to two weeks in an airtight, freezer-safe container. The ice cream keeps best for the first week; after that, ice crystals may begin to form on the surface despite proper covering. Allow to temper for 10-15 minutes at room temperature if the ice cream becomes very hard, making scooping easier.

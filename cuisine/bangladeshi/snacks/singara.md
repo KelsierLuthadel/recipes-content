@@ -96,7 +96,7 @@ The singara is the Bangladeshi cousin of the Indian samosa, but distinct enough 
 - **Baked, not fried:** brush with oil and bake at 200 degrees C for 25 minutes; less authentic but lighter.
 
 ## Serving
-Hot, with tamarind chutney and a small ramekin of green chutney · a cup of cha alongside · a wedge of lime
+- Hot, with tamarind chutney and a small ramekin of green chutney · a cup of cha alongside · a wedge of lime
 
 ## Storage
 - Eats best straight from the oil

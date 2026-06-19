@@ -73,7 +73,7 @@ The most common stuffings are paneer (grated, with chilli and coriander), spiced
 - **A tandoor or pizza stone is ideal** if you have one: 240°C for 4 minutes, no flipping. The grill method is the home compromise.
 
 ## Serving
-Plain kulcha pairs with rich curries the way naan does (sauce-heavy dishes that need bread to scoop). Stuffed kulcha is a meal in itself: serve with chole (chickpea curry), a wedge of lemon, sliced raw onion and a small pot of mint raita. The breakfast plate in Amritsar.
+- Plain kulcha pairs with rich curries the way naan does (sauce-heavy dishes that need bread to scoop). Stuffed kulcha is a meal in itself: serve with chole (chickpea curry), a wedge of lemon, sliced raw onion and a small pot of mint raita. The breakfast plate in Amritsar.
 
 ## Storage
 - Best fresh off the grill.

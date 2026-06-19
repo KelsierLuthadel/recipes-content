@@ -93,13 +93,13 @@ Ajiaco Chileno (distinct from Colombian ajiaco which is creamy and chicken-based
 - **Eat immediately:** the egg should still be warm and runny.
 
 ## Variations
-**Chicken ajiaco:** swap beef for shredded leftover chicken; lighter version.
-**With chickpeas:** add 1 tin of drained chickpeas in stage 4; gives extra body.
-**Vegetarian (vegetal):** skip the meat; double the potatoes; add 1 chopped chorizo for non-strict-vegetarian flavour; or pure vegetable for vegetarian.
-**Spicier:** add 1 chopped fresh chilli to the base.
+- **Chicken ajiaco:** swap beef for shredded leftover chicken; lighter version.
+- **With chickpeas:** add 1 tin of drained chickpeas in stage 4; gives extra body.
+- **Vegetarian (vegetal):** skip the meat; double the potatoes; add 1 chopped chorizo for non-strict-vegetarian flavour; or pure vegetable for vegetarian.
+- **Spicier:** add 1 chopped fresh chilli to the base.
 
 ## Serving
-In deep bowls with marraqueta bread for sopping. Drink: cold Cristal beer or fresh limonada. Monday morning hangover cure or weeknight comforting dinner.
+- In deep bowls with marraqueta bread for sopping. Drink: cold Cristal beer or fresh limonada. Monday morning hangover cure or weeknight comforting dinner.
 
 ## Storage
 - Keeps refrigerated 3 days; thickens overnight (add stock when reheating).

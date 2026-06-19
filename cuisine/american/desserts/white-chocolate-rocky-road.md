@@ -62,7 +62,7 @@ White chocolate rocky road is the festive cousin of the classic milk-chocolate s
 - **Christmas variant**: replace the pistachios with chopped glace cherries and add 2 tablespoons of mince meat (the dried-fruit type used in mince pies) folded in. Skip the dark drizzle and use Christmas sprinkles instead.
 
 ## Serving
-On a plate at room temperature. The slab is sweeter than the milk-chocolate version, a smaller square per person is plenty. Hot tea cuts through the richness better than coffee.
+- On a plate at room temperature. The slab is sweeter than the milk-chocolate version, a smaller square per person is plenty. Hot tea cuts through the richness better than coffee.
 
 ## Storage
 - Airtight tin at cool room temperature for up to 10 days. Refrigerate in warm kitchens; white chocolate softens quickly above 22°C.

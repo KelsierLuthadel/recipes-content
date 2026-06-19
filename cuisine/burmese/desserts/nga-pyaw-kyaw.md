@@ -72,13 +72,13 @@ The Burmese banana fritter that turns up at street stalls across Yangon and Mand
 - **Frying at 175°C, not lower:** Too cool and the batter drinks oil before it sets. Too hot and the outside burns before the banana softens.
 
 ## Variations
-**Coconut-banana fritters:** Add 30 g desiccated coconut to the batter for a nuttier, more Thai-style fritter.
-**Plantain version:** Slightly under-ripe plantain (yellow with patches of black) works beautifully and is more authentic to upper Burma. Slice 1 cm thick on the diagonal; fry the same way; cook 1 minute longer.
-**Honey drizzle:** A modern Yangon cafe finish: drizzle with thin honey or palm sugar syrup just before serving.
+- **Coconut-banana fritters:** Add 30 g desiccated coconut to the batter for a nuttier, more Thai-style fritter.
+- **Plantain version:** Slightly under-ripe plantain (yellow with patches of black) works beautifully and is more authentic to upper Burma. Slice 1 cm thick on the diagonal; fry the same way; cook 1 minute longer.
+- **Honey drizzle:** A modern Yangon cafe finish: drizzle with thin honey or palm sugar syrup just before serving.
 
 ## Serving
-Serve with: a scoop of coconut or vanilla ice cream for a dessert plate, or a glass of cold black coffee for a teashop snack.
-Garnish with: extra sesame seeds, a wedge of lime, or a scatter of toasted coconut.
+- Serve with: a scoop of coconut or vanilla ice cream for a dessert plate, or a glass of cold black coffee for a teashop snack.
+- Garnish with: extra sesame seeds, a wedge of lime, or a scatter of toasted coconut.
 
 ## Storage
 - Eat within 20 minutes of frying. The shell softens fast.

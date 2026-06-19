@@ -70,13 +70,13 @@ Tam mak teng is the cucumber-based sibling to tam mak hung: same Lao mortar-poun
 - **Padaek is the traditional Lao signature:** without it, you've made Thai cucumber salad.
 
 ## Variations
-**Tam mak teng with hard-boiled egg:** add 2 hard-boiled egg quarters, the more substantial variant.
-**Tam mak teng with sesame:** add 2 tablespoons toasted sesame seeds, modern variant.
-**Vegetarian tam mak teng:** skip the padaek and dried shrimp; use soy sauce + extra lime.
-**Spicier:** double the chillies.
+- **Tam mak teng with hard-boiled egg:** add 2 hard-boiled egg quarters, the more substantial variant.
+- **Tam mak teng with sesame:** add 2 tablespoons toasted sesame seeds, modern variant.
+- **Vegetarian tam mak teng:** skip the padaek and dried shrimp; use soy sauce + extra lime.
+- **Spicier:** double the chillies.
 
 ## Serving
-At a Lao midday meal (the traditional setting) · alongside laap and sticky rice · at a Lao street stall · at a Lao New Year (Pi Mai) celebration · at home as a refreshing summer side · paired with sai oua or grilled fish.
+- At a Lao midday meal (the traditional setting) · alongside laap and sticky rice · at a Lao street stall · at a Lao New Year (Pi Mai) celebration · at home as a refreshing summer side · paired with sai oua or grilled fish.
 
 ## Storage
 - Best within 30 minutes of making.

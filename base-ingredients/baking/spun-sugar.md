@@ -82,15 +82,15 @@ Spun sugar is the building block for theatrical dessert garnishes: caramelised s
 - **Mistakes Are Common:** Even experienced pastry chefs create failed  spun sugar. Practice and patience are essential.
 
 ## Variations
-**Flavored Caramel:** Dissolve a small amount of flavoring (lemon zest, vanilla, or rose water) into the sugar before cooking.
-**Colored Sugar:** Add food coloring to the raw sugar (use powdered colors; liquid colors might cause crystallization).
-**Spun Nets:** Spin in a circular pattern to create lacy nets instead of nests.
+- **Flavored Caramel:** Dissolve a small amount of flavoring (lemon zest, vanilla, or rose water) into the sugar before cooking.
+- **Colored Sugar:** Add food coloring to the raw sugar (use powdered colors; liquid colors might cause crystallization).
+- **Spun Nets:** Spin in a circular pattern to create lacy nets instead of nests.
 
 ## Serving
-Use for: Dessert plating garnish, wedding cakes, special occasion presentations
-Temperature: Room temperature
-Plating: Add just before serving to avoid humidity wilting the sugar
-Presentation: Balance on top of a mousse or plated component for maximum visual impact
+- Use for: Dessert plating garnish, wedding cakes, special occasion presentations
+- Temperature: Room temperature
+- Plating: Add just before serving to avoid humidity wilting the sugar
+- Presentation: Balance on top of a mousse or plated component for maximum visual impact
 
 ## Storage
 - Use immediately after spinning for best texture and appearance

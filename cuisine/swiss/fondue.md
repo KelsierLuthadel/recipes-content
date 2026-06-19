@@ -63,7 +63,7 @@ Fondue is the Swiss communal eating ritual at its purest - a pot of melted chees
 - **Stirring figure-of-eight:** Both during the melt and while eating. Continuous motion prevents the cheese separating into a watery layer underneath and a cheesy crust on top.
 
 ## Serving
-Serve in the middle of the table with the bread piled in a basket alongside. Cornichons, pickled pearl onions, and a small dish of cumin or paprika to dip the bread in for variety. A glass of the same wine on the side, or a small glass of kirsch as digestif.
+- Serve in the middle of the table with the bread piled in a basket alongside. Cornichons, pickled pearl onions, and a small dish of cumin or paprika to dip the bread in for variety. A glass of the same wine on the side, or a small glass of kirsch as digestif.
 
 ## Storage
 - Best fresh. Leftover fondue refrigerates 2 days; reheat very gently with a splash of wine, stirring constantly.

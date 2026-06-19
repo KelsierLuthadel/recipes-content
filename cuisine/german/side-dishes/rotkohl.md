@@ -61,11 +61,11 @@ Rotkohl is the German braised red cabbage that anchors every Christmas dinner ac
 - **Goose fat for a Christmas roast:** If you're cooking goose anyway, render some fat and use it instead of butter. Adds depth.
 
 ## Variations
-**With bacon:** Render 100 g diced smoked bacon at the start; cook the onion in the fat. A Bavarian touch.
-**With pear:** Swap one apple for a ripe pear; gives a softer sweetness.
+- **With bacon:** Render 100 g diced smoked bacon at the start; cook the onion in the fat. A Bavarian touch.
+- **With pear:** Swap one apple for a ripe pear; gives a softer sweetness.
 
 ## Serving
-Serve with: Sauerbraten, roast pork, goose, duck, pork knuckle, sausages, or with Spätzle for a vegetarian plate.
+- Serve with: Sauerbraten, roast pork, goose, duck, pork knuckle, sausages, or with Spätzle for a vegetarian plate.
 
 ## Storage
 - Keeps 4 days refrigerated. Improves over the first 2.

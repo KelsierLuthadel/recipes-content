@@ -81,12 +81,12 @@ A platter built around fragrant coconut and lemongrass rice, served with a fiery
 - **Knuckle method:** The first-knuckle water level is a long-standing rice-cook's trick. It only works if the rice sits in an even layer first.
 
 ## Variations
-**Banana-leaf wrap:** Wrap individual portions of rice, sambal, peanuts, egg and cucumber in banana leaves before serving for a traditional handheld presentation.
-**Vegetarian:** Replace the ikan bilis with crisp-fried tofu or roasted cashews and use a teaspoon of light soy sauce in place of shrimp paste.
+- **Banana-leaf wrap:** Wrap individual portions of rice, sambal, peanuts, egg and cucumber in banana leaves before serving for a traditional handheld presentation.
+- **Vegetarian:** Replace the ikan bilis with crisp-fried tofu or roasted cashews and use a teaspoon of light soy sauce in place of shrimp paste.
 
 ## Serving
-Serve with: [Ayam goreng](malaysian-fried-chicken.md), beef rendang, or a piece of grilled fish to make it a full meal
-Garnish with: A wedge of lime and extra crispy ikan bilis on top of the sambal
+- Serve with: [Ayam goreng](malaysian-fried-chicken.md), beef rendang, or a piece of grilled fish to make it a full meal
+- Garnish with: A wedge of lime and extra crispy ikan bilis on top of the sambal
 
 ## Storage
 - Coconut rice keeps 2 days refrigerated; revive in the microwave with a splash of water to loosen

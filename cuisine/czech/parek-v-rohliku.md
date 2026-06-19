@@ -72,14 +72,14 @@ The párek v rohlíku ("sausage in a roll") is the Czech Republic's national hot
 - **No napkin needed:** the traditional Czech eating geometry.
 
 ## Variations
-**With horseradish:** swap mustard for horseradish cream (křen).
-**With grated cheese:** sprinkle grated cheese on the sausage before sliding it in (the heat melts it slightly).
-**With sauerkraut:** add a small spoonful of sauerkraut into the cavity before the sausage.
-**Spicy:** swap the Czech mustard for spicy English-mustard or add chili pepper relish.
-**Klobása v rohlíku:** swap the párek for a Czech klobása (a thicker garlicky smoked sausage): same technique.
+- **With horseradish:** swap mustard for horseradish cream (křen).
+- **With grated cheese:** sprinkle grated cheese on the sausage before sliding it in (the heat melts it slightly).
+- **With sauerkraut:** add a small spoonful of sauerkraut into the cavity before the sausage.
+- **Spicy:** swap the Czech mustard for spicy English-mustard or add chili pepper relish.
+- **Klobása v rohlíku:** swap the párek for a Czech klobása (a thicker garlicky smoked sausage): same technique.
 
 ## Serving
-At a Wenceslas Square kiosk in Prague; at a Czech grocery-store deli counter; at home with a cold pilsner.
+- At a Wenceslas Square kiosk in Prague; at a Czech grocery-store deli counter; at home with a cold pilsner.
 
 ## Storage
 - Cooked sausages refrigerate 4 days.

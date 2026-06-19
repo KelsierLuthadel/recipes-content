@@ -54,7 +54,7 @@ Buccaneer's sauce is the building block for an unusual sweet-savoury sauce desig
 - **Raspberry vinegar quality:** Use good vinegar; cheap vinegar will create thin, acidic sauce lacking complexity.
 
 ## Serving
-Serve immediately with roasted game (venison, pheasant, duck), pork, or veal. The exotic flavours complement rich meats beautifully.
+- Serve immediately with roasted game (venison, pheasant, duck), pork, or veal. The exotic flavours complement rich meats beautifully.
 
 ## Storage
 - Best eaten immediately after preparation.

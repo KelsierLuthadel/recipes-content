@@ -76,16 +76,16 @@ This is the home-baker's building block for everyday bread: a rugby-ball-shaped 
 - **Hollow Sound:** This is the best test for doneness; an under-baked loaf will sound dull.
 
 ## Variations
-**Olive Oil Bread:** Use 75 ml olive oil instead of 50 ml for richer, more flavorful crumb.
-**Herbed:** Add 1 tablespoon finely chopped fresh rosemary or thyme to the dough after mixing.
-**Seeded:** Sprinkle sesame seeds, poppy seeds, or sunflower seeds on top before baking.
-**Wholemeal Mix:** Replace 150g white flour with wholemeal flour for nuttier flavor and denser crumb.
-**Longer Fermentation:** Allow the first rise to extend to 2 hours (or even overnight in the cold) for deeper, more developed flavor.
+- **Olive Oil Bread:** Use 75 ml olive oil instead of 50 ml for richer, more flavorful crumb.
+- **Herbed:** Add 1 tablespoon finely chopped fresh rosemary or thyme to the dough after mixing.
+- **Seeded:** Sprinkle sesame seeds, poppy seeds, or sunflower seeds on top before baking.
+- **Wholemeal Mix:** Replace 150g white flour with wholemeal flour for nuttier flavor and denser crumb.
+- **Longer Fermentation:** Allow the first rise to extend to 2 hours (or even overnight in the cold) for deeper, more developed flavor.
 
 ## Serving
-Serve: Warm from the oven, sliced, with butter or olive oil
-Best within: 24 hours of baking; use for toast after day 1
-Pairing: Excellent with soups, stews, or simply butter and sea salt
+- Serve: Warm from the oven, sliced, with butter or olive oil
+- Best within: 24 hours of baking; use for toast after day 1
+- Pairing: Excellent with soups, stews, or simply butter and sea salt
 
 ## Storage
 - Best served the day it's baked

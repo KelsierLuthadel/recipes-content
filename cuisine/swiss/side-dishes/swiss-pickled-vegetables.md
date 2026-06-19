@@ -74,7 +74,7 @@ Every Swiss cheese course - fondue, raclette, a slate of cheese with crusty brea
 - **Refrigerator pickles, not shelf-stable:** This is a quick-pickle method; they need to live in the fridge and keep about 6 weeks.
 
 ## Serving
-Serve in a small bowl alongside fondue, raclette, or any cheese board. They're also good on a charcuterie plate, with cold roast meats, or chopped into a salad of cold boiled potatoes.
+- Serve in a small bowl alongside fondue, raclette, or any cheese board. They're also good on a charcuterie plate, with cold roast meats, or chopped into a salad of cold boiled potatoes.
 
 ## Storage
 - Refrigerate; eat within 6 weeks for best texture.

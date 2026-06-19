@@ -59,17 +59,17 @@ Roquefort vinaigrette is the building block for bitter winter salads and warm-be
 - **Robust Greens Only:** This dressing will overwhelm delicate lettuces; use with sturdy, bitter greens.
 
 ## Variations
-**Without Worcestershire:** Omit for cleaner blue cheese flavor.
-**Extra Tarragon:** Add ½ teaspoon additional tarragon for herbaceous emphasis.
-**Milder Cheese:** Replace Roquefort with Gorgonzola for slightly less assertive character.
-**With Candied Walnuts:** Serve alongside candied walnuts for sweetness balance.
-**Extra Tangy:** Add 1 additional tablespoon tarragon vinegar for more acidity.
+- **Without Worcestershire:** Omit for cleaner blue cheese flavor.
+- **Extra Tarragon:** Add ½ teaspoon additional tarragon for herbaceous emphasis.
+- **Milder Cheese:** Replace Roquefort with Gorgonzola for slightly less assertive character.
+- **With Candied Walnuts:** Serve alongside candied walnuts for sweetness balance.
+- **Extra Tangy:** Add 1 additional tablespoon tarragon vinegar for more acidity.
 
 ## Serving
-Use with: Bitter winter lettuces (radicchio, endive, frisée), warm French beans, watercress, grilled vegetables, roasted beets
-Dressing ratio: 2-3 tablespoons per serving
-Temperature: Room temperature
-Timing: Dress just before serving to prevent lettuces wilting
+- Use with: Bitter winter lettuces (radicchio, endive, frisée), warm French beans, watercress, grilled vegetables, roasted beets
+- Dressing ratio: 2-3 tablespoons per serving
+- Temperature: Room temperature
+- Timing: Dress just before serving to prevent lettuces wilting
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 3-4 days

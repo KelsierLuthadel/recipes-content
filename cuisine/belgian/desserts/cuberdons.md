@@ -83,16 +83,16 @@ Cuberdons (nicknamed "neuzekes" or "little noses" by Ghent locals because of the
 - **Market vs homemade:** the Ghent market cuberdons are softer-skinned and stickier; home versions tend toward a harder shell. Both are valid.
 
 ## Variations
-**Violet cuberdons:** swap raspberry for violet essence and a violet food colouring, the second-most-popular flavour at Ghent markets.
-**Blueberry cuberdons:** real blueberry purée and a touch of blackberry essence.
-**Apple cuberdons:** swap the raspberry for green apple essence and yellow-green colouring, the rural Flanders variant.
-**Coffee cuberdons:** swap the raspberry essence for 2 tablespoons strong espresso; use brown food colouring.
-**Mint cuberdons:** peppermint essence and pale green colouring, excellent after dinner.
-**Cuberdon ice cream:** crush 6 cuberdons into 500 g of softened vanilla ice cream; refreeze, Ghent-cafe modern variant.
-**Elderflower cuberdons:** elderflower cordial as the flavouring; pale yellow colouring.
+- **Violet cuberdons:** swap raspberry for violet essence and a violet food colouring, the second-most-popular flavour at Ghent markets.
+- **Blueberry cuberdons:** real blueberry purée and a touch of blackberry essence.
+- **Apple cuberdons:** swap the raspberry for green apple essence and yellow-green colouring, the rural Flanders variant.
+- **Coffee cuberdons:** swap the raspberry essence for 2 tablespoons strong espresso; use brown food colouring.
+- **Mint cuberdons:** peppermint essence and pale green colouring, excellent after dinner.
+- **Cuberdon ice cream:** crush 6 cuberdons into 500 g of softened vanilla ice cream; refreeze, Ghent-cafe modern variant.
+- **Elderflower cuberdons:** elderflower cordial as the flavouring; pale yellow colouring.
 
 ## Serving
-At a Ghent market stall (the traditional setting; specifically the rival Geldhof and Lievens stalls on the Groentenmarkt) · at a Belgian Christmas market · at an Antwerp or Brussels sweet shop · as the Belgian after-dinner sweet · with espresso · as a take-home Belgian gift.
+- At a Ghent market stall (the traditional setting; specifically the rival Geldhof and Lievens stalls on the Groentenmarkt) · at a Belgian Christmas market · at an Antwerp or Brussels sweet shop · as the Belgian after-dinner sweet · with espresso · as a take-home Belgian gift.
 
 ## Storage
 - Store in a single layer in a tin lined with parchment at cool room temperature (16-20°C). Keep in a dry environment.

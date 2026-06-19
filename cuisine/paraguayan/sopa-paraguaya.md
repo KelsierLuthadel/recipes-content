@@ -57,7 +57,7 @@ Sopa paraguaya is the most celebrated dish of Paraguay and one of the most famou
 - **Extra-cheese version:** an additional 100 g of mozzarella scattered on the surface for the last 10 minutes of baking.
 
 ## Serving
-Eat hot from the oven · cut into thick squares alongside grilled beef · with asado paraguayo and a tomato-and-onion salad · with so'o yosopy or vori vori as a side · with a glass of tereré on a hot afternoon.
+- Eat hot from the oven · cut into thick squares alongside grilled beef · with asado paraguayo and a tomato-and-onion salad · with so'o yosopy or vori vori as a side · with a glass of tereré on a hot afternoon.
 
 ## Storage
 - Keeps 3 days refrigerated, well covered

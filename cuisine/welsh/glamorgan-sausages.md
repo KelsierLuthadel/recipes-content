@@ -71,7 +71,7 @@ Glamorgan sausages take their name from a now-extinct breed of Glamorgan cattle 
 - **Mini bites:** roll into 16 small balls for canapés.
 
 ## Serving
-At a Welsh pub kitchen as a vegetarian main · in a packed lunch sliced into a sandwich · at a chapel supper · on a brunch plate with poached eggs · with a sharp chutney and pickled walnuts.
+- At a Welsh pub kitchen as a vegetarian main · in a packed lunch sliced into a sandwich · at a chapel supper · on a brunch plate with poached eggs · with a sharp chutney and pickled walnuts.
 
 ## Storage
 - Uncooked shaped sausages keep 2 days refrigerated; coat just before frying.

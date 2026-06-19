@@ -78,13 +78,13 @@ A modern pasta-twist on the Cajun one-pot classic, swapping the traditional rice
 - **Pasta water:** Essential for adjusting sauce consistency and helping flavours coat the pasta.
 
 ## Variations
-**Traditional rice version:** Replace penne with long-grain white rice (275g) cooked separately; combine at the end
-**Seafood-only:** Replace chicken with additional shrimp or scallops for all-seafood jambalaya
-**Extra spicy:** Add fresh cayenne pepper or hot sauce to the sauce during cooking
-**Vegetarian:** Omit all proteins and replace sausage with smoked paprika-seasoned mushrooms
+- **Traditional rice version:** Replace penne with long-grain white rice (275g) cooked separately; combine at the end
+- **Seafood-only:** Replace chicken with additional shrimp or scallops for all-seafood jambalaya
+- **Extra spicy:** Add fresh cayenne pepper or hot sauce to the sauce during cooking
+- **Vegetarian:** Omit all proteins and replace sausage with smoked paprika-seasoned mushrooms
 
 ## Serving
-Serve with: Crusty bread, hot sauce (Tabasco or Louisiana), and a green salad
+- Serve with: Crusty bread, hot sauce (Tabasco or Louisiana), and a green salad
 
 ## Storage
 - Keeps 2 days refrigerated

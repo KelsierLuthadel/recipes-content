@@ -69,14 +69,14 @@ Nutmeg is the spice that built modern Grenada (the island is the world's second-
 - **The rum is for texture:** alcohol lowers the freezing point and keeps the ice cream scoopable from the freezer.
 
 ## Variations
-**Nutmeg and mace:** add 0.5 tsp of ground mace alongside the nutmeg for a deeper layered version.
-**Rum raisin nutmeg:** fold in 80 g rum-soaked raisins at the end of churning.
-**Brown sugar nutmeg:** swap half the caster sugar for soft dark brown sugar.
-**No-churn version:** fold the cooled custard into 300 ml whipped cream and freeze 6 hours.
-**Coconut nutmeg:** swap half the milk for coconut milk for an island-creamier version.
+- **Nutmeg and mace:** add 0.5 tsp of ground mace alongside the nutmeg for a deeper layered version.
+- **Rum raisin nutmeg:** fold in 80 g rum-soaked raisins at the end of churning.
+- **Brown sugar nutmeg:** swap half the caster sugar for soft dark brown sugar.
+- **No-churn version:** fold the cooled custard into 300 ml whipped cream and freeze 6 hours.
+- **Coconut nutmeg:** swap half the milk for coconut milk for an island-creamier version.
 
 ## Serving
-In small glasses with a fresh grate of nutmeg · alongside hot rum cake · with a slice of ripe mango · with a black coffee · as the closing course of a Sunday lunch.
+- In small glasses with a fresh grate of nutmeg · alongside hot rum cake · with a slice of ripe mango · with a black coffee · as the closing course of a Sunday lunch.
 
 ## Storage
 - Keeps 2 weeks in the freezer in a sealed container.

@@ -42,7 +42,7 @@ Apple sauce is the building block for the classic British accompaniment to roast
 - **Apples to use:** Cox's apples provide excellent balance of sweetness and acidity; Bramleys can be substituted for a more tart sauce.
 
 ## Serving
-Serve warm or at room temperature alongside roasted duck, pork, or game dishes. Also excellent with charcuterie and pâté.
+- Serve warm or at room temperature alongside roasted duck, pork, or game dishes. Also excellent with charcuterie and pâté.
 
 ## Storage
 - Keeps refrigerated for 3-4 days in an airtight container.

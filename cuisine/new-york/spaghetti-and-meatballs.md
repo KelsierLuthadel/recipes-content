@@ -109,13 +109,13 @@ Spaghetti and meatballs is one of the most iconic Italian-American dishes and a 
 - **Don't break meatballs.**
 
 ## Variations
-**With ricotta in meatballs:** for tenderness.
-**Italian sausage meatballs:** crumble sweet Italian sausage with the meats.
-**Sunday gravy:** add pork ribs, sausage to the sauce.
-**Smaller meatballs:** for spaghetti and tiny meatballs.
+- **With ricotta in meatballs:** for tenderness.
+- **Italian sausage meatballs:** crumble sweet Italian sausage with the meats.
+- **Sunday gravy:** add pork ribs, sausage to the sauce.
+- **Smaller meatballs:** for spaghetti and tiny meatballs.
 
 ## Serving
-Italian-American Sunday dinner with bread, salad, red wine.
+- Italian-American Sunday dinner with bread, salad, red wine.
 
 ## Storage
 - Sauce + meatballs keep refrigerated 5 days; flavour deepens.

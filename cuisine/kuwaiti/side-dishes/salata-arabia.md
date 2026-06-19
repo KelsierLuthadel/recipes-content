@@ -46,7 +46,7 @@ Salata arabia is the universal Arab chopped salad, cousin to Lebanese fattoush a
 - **No vinegar.** Lemon only. Vinegar reads Levantine, not Gulf.
 
 ## Serving
-At room temperature in a wide shallow bowl, beside any spiced rice, kebab or grilled fish.
+- At room temperature in a wide shallow bowl, beside any spiced rice, kebab or grilled fish.
 
 ## Storage
 - Eats best within 1 hour of dressing

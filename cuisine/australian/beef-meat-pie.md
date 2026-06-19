@@ -88,12 +88,12 @@ Australia's hand-held lunch and the unofficial national snack: hot beef gravy in
 - **Pie tin size:** 12 cm individual tins (often called "small pie tins" in Australia) are ideal. A 6-hole jumbo muffin tin is a good substitute. A single large 25 cm tin works too; bake 35-40 minutes.
 
 ## Variations
-**Steak and mushroom:** Replace 200 g of the mince with diced chuck steak; brown first, simmer 1 hour, then add mince and 200 g of sliced mushrooms.
-**Curry beef pie:** Add 1 tablespoon of mild curry powder with the flour. Common in country bakeries through Queensland and New South Wales.
+- **Steak and mushroom:** Replace 200 g of the mince with diced chuck steak; brown first, simmer 1 hour, then add mince and 200 g of sliced mushrooms.
+- **Curry beef pie:** Add 1 tablespoon of mild curry powder with the flour. Common in country bakeries through Queensland and New South Wales.
 
 ## Serving
-Serve with: Tomato sauce on top, hot chips on the side, mushy peas if you want to be fancy.
-Garnish with: A grind of pepper.
+- Serve with: Tomato sauce on top, hot chips on the side, mushy peas if you want to be fancy.
+- Garnish with: A grind of pepper.
 
 ## Storage
 - Keeps 3 days refrigerated. Reheat at 180°C for 12 minutes to crisp the pastry back up.

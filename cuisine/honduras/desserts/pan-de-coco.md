@@ -83,13 +83,13 @@ Pan de coco is the traditional bread of the Garifuna communities of Honduras's C
 - **Don't overbake:** 25-30 minutes is right. Longer and the bread dries out.
 
 ## Variations
-**Sweeter pan de coco:** double the sugar and add 50 g of sweetened condensed milk to the dough; gives a richer, more dessert-leaning version. Common at Honduran bakeries.
-**Stuffed pan de coco:** make smaller buns and stuff with a small amount of guava jam or sweet bean paste before sealing and proving; gives a sweet filled bread.
-**Pan de coco with cinnamon:** add 1 tablespoon of ground cinnamon to the dough; gives a more aromatic version common in modern Honduran cooking.
-**Mini pan de coco:** divide into 16 smaller portions; bake 20 minutes. Great for party platters or breakfast trays.
+- **Sweeter pan de coco:** double the sugar and add 50 g of sweetened condensed milk to the dough; gives a richer, more dessert-leaning version. Common at Honduran bakeries.
+- **Stuffed pan de coco:** make smaller buns and stuff with a small amount of guava jam or sweet bean paste before sealing and proving; gives a sweet filled bread.
+- **Pan de coco with cinnamon:** add 1 tablespoon of ground cinnamon to the dough; gives a more aromatic version common in modern Honduran cooking.
+- **Mini pan de coco:** divide into 16 smaller portions; bake 20 minutes. Great for party platters or breakfast trays.
 
 ## Serving
-With strong sweet milky coffee (the Honduran way), or hot chocolate (chocolate caliente; the traditional Honduran breakfast drink). At breakfast, lunch with fried fish, or as an afternoon snack. Children love them warm with butter; adults love them with coffee.
+- With strong sweet milky coffee (the Honduran way), or hot chocolate (chocolate caliente; the traditional Honduran breakfast drink). At breakfast, lunch with fried fish, or as an afternoon snack. Children love them warm with butter; adults love them with coffee.
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 days; refrigerated 5 days. Reheat briefly in a hot oven to refresh.

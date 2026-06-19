@@ -81,17 +81,17 @@ The café liégeois is the Belgian classic café dessert-drink: strong cold coff
 - **Speculoos on the saucer:** the traditional pairing. A small piece of Belgian dark chocolate also works.
 
 ## Variations
-**Café liégeois au chocolat:** swap one of the two vanilla ice cream scoops for a scoop of good chocolate ice cream, richer, more dessert-like.
-**Café liégeois with whisky or Cognac:** add 15 ml of Irish whisky, Cognac, or Belgian genever to the cold coffee before assembling, the boozy adult variant.
-**Chocolat liégeois (Belgian variant):** swap the cold coffee for cold Belgian hot chocolate (see [Belgian hot chocolate](belgian-hot-chocolate.md)): chocolate ice cream + cold hot chocolate + Chantilly; entirely chocolate.
-**Café liégeois with a brandy snap:** stand a brandy snap biscuit up in the cream for a textural counter-point, the modern Brussels tea-room variant.
-**Iced coffee float (American style):** the simpler American version, cold coffee poured into a glass with a scoop of vanilla ice cream and no Chantilly. Less drink, more snack.
-**Affogato (Italian):** the Italian cousin, one scoop of vanilla ice cream in a small cup, HOT espresso poured over at table. Drier, more bracing than the Belgian.
-**Café liégeois without ice cream (just iced coffee):** purists would object, but a cold espresso poured over crushed ice with a slosh of cream is what some Belgian cafés sell as "café liégeois léger", the lighter version.
-**Dairy-free version:** swap the dairy ice cream for a coconut-milk or oat-milk vanilla ice cream; the cream for whipped coconut cream.
+- **Café liégeois au chocolat:** swap one of the two vanilla ice cream scoops for a scoop of good chocolate ice cream, richer, more dessert-like.
+- **Café liégeois with whisky or Cognac:** add 15 ml of Irish whisky, Cognac, or Belgian genever to the cold coffee before assembling, the boozy adult variant.
+- **Chocolat liégeois (Belgian variant):** swap the cold coffee for cold Belgian hot chocolate (see [Belgian hot chocolate](belgian-hot-chocolate.md)): chocolate ice cream + cold hot chocolate + Chantilly; entirely chocolate.
+- **Café liégeois with a brandy snap:** stand a brandy snap biscuit up in the cream for a textural counter-point, the modern Brussels tea-room variant.
+- **Iced coffee float (American style):** the simpler American version, cold coffee poured into a glass with a scoop of vanilla ice cream and no Chantilly. Less drink, more snack.
+- **Affogato (Italian):** the Italian cousin, one scoop of vanilla ice cream in a small cup, HOT espresso poured over at table. Drier, more bracing than the Belgian.
+- **Café liégeois without ice cream (just iced coffee):** purists would object, but a cold espresso poured over crushed ice with a slosh of cream is what some Belgian cafés sell as "café liégeois léger", the lighter version.
+- **Dairy-free version:** swap the dairy ice cream for a coconut-milk or oat-milk vanilla ice cream; the cream for whipped coconut cream.
 
 ## Serving
-At a Liège tea-room or a Brussels café (the traditional setting) · at a Belgian summer terrace on a warm afternoon · as a Belgian dessert course after a heavy lunch · in the second half of a long Belgian Sunday brunch · at home as a treat-yourself drink-dessert · paired with a small speculoos or a hand-made Belgian praline.
+- At a Liège tea-room or a Brussels café (the traditional setting) · at a Belgian summer terrace on a warm afternoon · as a Belgian dessert course after a heavy lunch · in the second half of a long Belgian Sunday brunch · at home as a treat-yourself drink-dessert · paired with a small speculoos or a hand-made Belgian praline.
 
 ## Storage
 - Doesn't store, assemble and eat. The ice cream and Chantilly start melting from minute one.

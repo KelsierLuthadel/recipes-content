@@ -66,12 +66,12 @@ Backhendl is Vienna's bone-in answer to the wiener schnitzel: a whole spatchcock
 - **Clarified butter not whole:** whole butter burns at this temperature and freckles the crumbs. Clarified butter handles the heat; the half-lard-half-butter ratio is the older Vienna rustic version.
 
 ## Variations
-**Pollo alla Milanese con l'osso:** the Italian cousin uses pounded bone-in cutlets and butter rather than lard, a Habsburg-era cross-pollination.
-**Cold Backhendlsalat:** lay cooled jointed pieces on dressed bitter leaves with vinegared potato salad on the side; the picnic version traditional at Heurigers when the weather is hot.
-**Wiener Backhendlsalat:** strips of cold chicken folded through dressed mixed leaves with walnuts and pumpkin seeds, a 1970s revival in Vienna's wine bars.
+- **Pollo alla Milanese con l'osso:** the Italian cousin uses pounded bone-in cutlets and butter rather than lard, a Habsburg-era cross-pollination.
+- **Cold Backhendlsalat:** lay cooled jointed pieces on dressed bitter leaves with vinegared potato salad on the side; the picnic version traditional at Heurigers when the weather is hot.
+- **Wiener Backhendlsalat:** strips of cold chicken folded through dressed mixed leaves with walnuts and pumpkin seeds, a 1970s revival in Vienna's wine bars.
 
 ## Serving
-Eat hot from the pan with lemon wedges, [Erdäpfelsalat](side-dishes/erdaepfelsalat.md), or buttered parsley potatoes. A simple green salad with pumpkin seed oil dressing rounds it out. Drink: grüner veltliner or a cold lager. A Heuriger garden in late afternoon if you can find one.
+- Eat hot from the pan with lemon wedges, [Erdäpfelsalat](side-dishes/erdaepfelsalat.md), or buttered parsley potatoes. A simple green salad with pumpkin seed oil dressing rounds it out. Drink: grüner veltliner or a cold lager. A Heuriger garden in late afternoon if you can find one.
 
 ## Storage
 - Best eaten the moment it comes out of the pan; cold backhendl turns into a different dish (see the Salat variation).

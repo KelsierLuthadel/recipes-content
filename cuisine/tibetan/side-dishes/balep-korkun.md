@@ -63,13 +63,13 @@ Balep korkun (literally "bread cooked in a pan" or "small bread"; balep = bread,
 - **Keep warm in a cloth:** the cloth holds the warm steam and keeps the bread soft.
 
 ## Variations
-**Slightly enriched balep korkun:** add 1 tablespoon of oil and 1 teaspoon of sugar to the dough; gives a slightly softer sweeter bread. Less traditional but common in modern Tibetan kitchens.
-**Sesame balep korkun:** sprinkle sesame seeds on each flatbread before cooking; press gently to make them stick. Gives a nuttier version.
-**Spiced balep korkun:** add 1 teaspoon of ground Sichuan peppercorns to the dough; gives a properly numbing-aromatic version that's common in Lhasa.
-**Stuffed balep korkun (filled bread):** roll out two thin circles; sandwich a small amount of mashed seasoned potato or chopped cooked vegetables between; press the edges to seal; cook in the dry pan as a stuffed flatbread. A bridge to sha balep.
+- **Slightly enriched balep korkun:** add 1 tablespoon of oil and 1 teaspoon of sugar to the dough; gives a slightly softer sweeter bread. Less traditional but common in modern Tibetan kitchens.
+- **Sesame balep korkun:** sprinkle sesame seeds on each flatbread before cooking; press gently to make them stick. Gives a nuttier version.
+- **Spiced balep korkun:** add 1 teaspoon of ground Sichuan peppercorns to the dough; gives a properly numbing-aromatic version that's common in Lhasa.
+- **Stuffed balep korkun (filled bread):** roll out two thin circles; sandwich a small amount of mashed seasoned potato or chopped cooked vegetables between; press the edges to seal; cook in the dry pan as a stuffed flatbread. A bridge to sha balep.
 
 ## Serving
-On a clean cloth napkin alongside the main dishes; torn with the hands to scoop up sauces and stews; or eaten with butter tea as breakfast. At the proper Tibetan table, balep korkun is always present.
+- On a clean cloth napkin alongside the main dishes; torn with the hands to scoop up sauces and stews; or eaten with butter tea as breakfast. At the proper Tibetan table, balep korkun is always present.
 
 ## Storage
 - Keeps wrapped in a clean cloth at room temperature 2 days; the bread stays soft for the first day, then firms up.

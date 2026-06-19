@@ -62,7 +62,7 @@ Kashkaval pane (the everyday name on every mehana menu in Sofia) is fried cheese
 - **Baked version:** brushed with oil and baked at 220°C for 10 minutes; less greasy, less crisp.
 
 ## Serving
-Hot from the pan with a lemon wedge · alongside a cold Bulgarian lager · with country bread to wipe the garlic butter · with a small bowl of lyutenitsa for dipping · with a shopska salad on the side · as the meze plate to a long evening.
+- Hot from the pan with a lemon wedge · alongside a cold Bulgarian lager · with country bread to wipe the garlic butter · with a small bowl of lyutenitsa for dipping · with a shopska salad on the side · as the meze plate to a long evening.
 
 ## Storage
 - Eat at once; fried cheese does not keep.

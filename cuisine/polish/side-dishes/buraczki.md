@@ -65,11 +65,11 @@ Buraczki is the deep-magenta beetroot side that turns up next to roast pork, kot
 - **Wear gloves or apron:** Raw beetroot stains hands, chopping boards and clothes. Lemon juice gets it off skin.
 
 ## Variations
-**Cold version:** Skip the butter sauté. Toss raw-grated cooked beetroot with the dressing; eat cold.
-**With apple:** Grate one tart apple in at the end; brightens the sweetness.
+- **Cold version:** Skip the butter sauté. Toss raw-grated cooked beetroot with the dressing; eat cold.
+- **With apple:** Grate one tart apple in at the end; brightens the sweetness.
 
 ## Serving
-Serve with: Roast pork, kotlet schabowy, baked carp (Christmas Eve), or kielbasa. Sweet-sour foil to rich meat.
+- Serve with: Roast pork, kotlet schabowy, baked carp (Christmas Eve), or kielbasa. Sweet-sour foil to rich meat.
 
 ## Storage
 - Keeps 4 days refrigerated.

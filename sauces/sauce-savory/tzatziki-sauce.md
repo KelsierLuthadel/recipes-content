@@ -47,7 +47,7 @@ Tzatziki is the building block of Greek mezze, the cool yogurt-and-cucumber sauc
 - **Chilling time:** Essential for flavour development; do not skip.
 
 ## Serving
-Serve as dip with warm Turkish bread, crudités, grilled vegetables, or lamb dishes. Perfect accompaniment for Greek and Mediterranean meals.
+- Serve as dip with warm Turkish bread, crudités, grilled vegetables, or lamb dishes. Perfect accompaniment for Greek and Mediterranean meals.
 
 ## Storage
 - Keeps refrigerated for 3 days in an airtight container.

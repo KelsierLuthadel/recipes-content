@@ -97,13 +97,13 @@ The islak burger ("wet burger" in Turkish) is the iconic Istanbul late-night str
 - **Eat with a fork-and-knife if you have to:** the bun will fall apart in your hands. That's part of the experience.
 
 ## Variations
-**Cheeseburger islak:** add a slice of soft cheese (kasar) inside the bun before saucing.
-**Spicier:** double the Aleppo pepper or add fresh chopped Turkish biber salça (pepper paste).
-**Vegetarian islak:** swap the meat patty for a grilled portobello cap or a tucked-in slice of grilled halloumi.
-**Mini sliders for parties:** make them even smaller (5cm) and serve a plate of 6.
+- **Cheeseburger islak:** add a slice of soft cheese (kasar) inside the bun before saucing.
+- **Spicier:** double the Aleppo pepper or add fresh chopped Turkish biber salça (pepper paste).
+- **Vegetarian islak:** swap the meat patty for a grilled portobello cap or a tucked-in slice of grilled halloumi.
+- **Mini sliders for parties:** make them even smaller (5cm) and serve a plate of 6.
 
 ## Serving
-Late at night at a Taksim Square street stall. At a Turkish dinner party as a fun small-plate. With ayran and pickled chillies.
+- Late at night at a Taksim Square street stall. At a Turkish dinner party as a fun small-plate. With ayran and pickled chillies.
 
 ## Storage
 - Best eaten immediately after the steam.

@@ -88,14 +88,14 @@ Bragioli (from the Italian "braciole" / Sicilian "involtini"; named "olives" bec
 - **Slow braise 90 minutes:** the meat must be fork-tender.
 
 ## Variations
-**Pork bragioli:** swap beef for pork shoulder slices.
-**With prosciutto in the filling:** add a slice of prosciutto inside.
-**With raisins (Sicilian-Maltese):** add 30 g sultanas to the filling.
-**Mini bragioli:** smaller rolls; canapé portions.
-**With provolone in the filling:** the cheesier variant.
+- **Pork bragioli:** swap beef for pork shoulder slices.
+- **With prosciutto in the filling:** add a slice of prosciutto inside.
+- **With raisins (Sicilian-Maltese):** add 30 g sultanas to the filling.
+- **Mini bragioli:** smaller rolls; canapé portions.
+- **With provolone in the filling:** the cheesier variant.
 
 ## Serving
-At a Maltese Sunday family lunch · at a Maltese wedding luncheon · at a Maltese village festa · at home as a special weekend supper · alongside Maltese red wine.
+- At a Maltese Sunday family lunch · at a Maltese wedding luncheon · at a Maltese village festa · at home as a special weekend supper · alongside Maltese red wine.
 
 ## Storage
 - Refrigerates 3 days; the flavour improves overnight.

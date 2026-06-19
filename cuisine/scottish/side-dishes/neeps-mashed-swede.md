@@ -76,15 +76,15 @@ The linguistic confusion is traditional: in Scotland, "neeps" refers to mashed S
 - **Don't over-mash:** a slight texture is traditional. Whipped neeps are baby food.
 
 ## Variations
-**Highland neeps:** stir in 2 tablespoons of single-malt Scotch at the end. Adds depth and edge.
-**Honey-roasted neeps:** swap boiling for roasting, cube the swede, toss with honey, butter, salt, pepper; roast at 200°C for 40 minutes till golden and caramelised.
-**Clapshot (Orkney variant):** mix equal parts mashed swede + mashed potato + butter + a tablespoon of chopped chives. The Orkney version is hugely popular at Burns Night.
-**With carrot:** boil 200 g carrot with the swede; mash together, sweeter, more colourful.
-**With ginger:** add a teaspoon of grated fresh ginger to the mash, modern variant.
-**With orange zest:** add the zest of half an orange to the mash, bright, modern.
+- **Highland neeps:** stir in 2 tablespoons of single-malt Scotch at the end. Adds depth and edge.
+- **Honey-roasted neeps:** swap boiling for roasting, cube the swede, toss with honey, butter, salt, pepper; roast at 200°C for 40 minutes till golden and caramelised.
+- **Clapshot (Orkney variant):** mix equal parts mashed swede + mashed potato + butter + a tablespoon of chopped chives. The Orkney version is hugely popular at Burns Night.
+- **With carrot:** boil 200 g carrot with the swede; mash together, sweeter, more colourful.
+- **With ginger:** add a teaspoon of grated fresh ginger to the mash, modern variant.
+- **With orange zest:** add the zest of half an orange to the mash, bright, modern.
 
 ## Serving
-Alongside haggis at Burns Night (the traditional setting) · alongside roast lamb on a Sunday · alongside Scotch broth as the absorbent veg · alongside roast venison or pheasant on a Highland hunting lunch · alongside roast goose at Christmas · with smoked sausage and onion gravy as a weeknight supper.
+- Alongside haggis at Burns Night (the traditional setting) · alongside roast lamb on a Sunday · alongside Scotch broth as the absorbent veg · alongside roast venison or pheasant on a Highland hunting lunch · alongside roast goose at Christmas · with smoked sausage and onion gravy as a weeknight supper.
 
 ## Storage
 - Refrigerates 4 days; reheat with a splash of milk and a knob of butter in the microwave or on the stovetop.

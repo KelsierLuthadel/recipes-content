@@ -73,7 +73,7 @@ Tave kosi (tavë kosi in proper Albanian spelling) translates plainly as "yoghur
 - **Vegetarian (improvised):** swap the lamb for 1 kg roasted aubergine chunks and use vegetable stock; not traditional but works.
 
 ## Serving
-Bring the casserole to the table · scoop crust, rice and meat together onto warm plates · a simple cos lettuce salad with lemon · a glass of country red or chilled raki · crusty bread for the corners of the dish.
+- Bring the casserole to the table · scoop crust, rice and meat together onto warm plates · a simple cos lettuce salad with lemon · a glass of country red or chilled raki · crusty bread for the corners of the dish.
 
 ## Storage
 - Keeps 3 days refrigerated; the dish gets better on the second day

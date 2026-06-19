@@ -92,13 +92,13 @@ Apple crumble is Ireland's most beloved family pudding and a Sunday-dinner stapl
 - **Make ahead:** the apple filling can be made and chilled ahead; the crumble can be mixed and chilled. Assemble and bake just before serving.
 
 ## Variations
-**Apple and blackberry crumble:** add 200 g of fresh or frozen blackberries to the apple mixture; gives the proper autumn Irish version (when blackberries are wild and free across Irish hedgerows).
-**Apple and rhubarb crumble:** swap 400 g of the apple for 400 g of chopped rhubarb; gives a sharp tangy version. Common in early summer.
-**Pear crumble:** swap the apples for ripe pears (Conference or Williams); cook 5 minutes longer to soften.
-**Spiced apple crumble:** double the cinnamon, add ½ teaspoon of ground cloves and ¼ teaspoon of ground star anise; gives a properly spiced autumn version.
+- **Apple and blackberry crumble:** add 200 g of fresh or frozen blackberries to the apple mixture; gives the proper autumn Irish version (when blackberries are wild and free across Irish hedgerows).
+- **Apple and rhubarb crumble:** swap 400 g of the apple for 400 g of chopped rhubarb; gives a sharp tangy version. Common in early summer.
+- **Pear crumble:** swap the apples for ripe pears (Conference or Williams); cook 5 minutes longer to soften.
+- **Spiced apple crumble:** double the cinnamon, add ½ teaspoon of ground cloves and ¼ teaspoon of ground star anise; gives a properly spiced autumn version.
 
 ## Serving
-In warm bowls with hot custard ladled over. A glass of Irish whiskey or Baileys alongside for the adults. After Sunday lunch, after a roast dinner, after fish-and-chips for tea, or any time the family is gathered.
+- In warm bowls with hot custard ladled over. A glass of Irish whiskey or Baileys alongside for the adults. After Sunday lunch, after a roast dinner, after fish-and-chips for tea, or any time the family is gathered.
 
 ## Storage
 - Keeps refrigerated 4 days; the topping softens but the flavour is still good.

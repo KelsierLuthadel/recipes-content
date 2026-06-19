@@ -78,13 +78,13 @@ Muufo is the cornmeal flatbread of the Somali coastal Baraawe (Brava) region, di
 - **Eat warm or warm them up:** muufo is at its best fresh from the pan. Day-old muufo can be reheated in a hot dry pan for 30 seconds a side to revive.
 
 ## Variations
-**Muufo Baraawe (the proper coastal version):** add 2 tablespoons of grated fresh coconut to the dough; the coastal Baraawe style includes coconut for a subtle sweetness and richness. The most traditional regional version.
-**Sweet muufo:** add 3 tablespoons of sugar and a pinch of ground cardamom to the dough; a breakfast bread served with shaah tea.
-**Whole-wheat muufo:** swap the bread flour for whole-wheat flour for a denser more rustic version.
-**Muufo with sesame:** scatter 2 tablespoons of sesame seeds over the dough discs before cooking; they toast against the hot pan as the bread cooks.
+- **Muufo Baraawe (the proper coastal version):** add 2 tablespoons of grated fresh coconut to the dough; the coastal Baraawe style includes coconut for a subtle sweetness and richness. The most traditional regional version.
+- **Sweet muufo:** add 3 tablespoons of sugar and a pinch of ground cardamom to the dough; a breakfast bread served with shaah tea.
+- **Whole-wheat muufo:** swap the bread flour for whole-wheat flour for a denser more rustic version.
+- **Muufo with sesame:** scatter 2 tablespoons of sesame seeds over the dough discs before cooking; they toast against the hot pan as the bread cooks.
 
 ## Serving
-Warm, torn by hand, used to scoop maraq stews or dipped into bisbaas. Breakfast with sweet shaah tea and a piece of warm muufo is a classic Somali coastal morning. Also wonderful with a smear of butter or honey for a sweet snack.
+- Warm, torn by hand, used to scoop maraq stews or dipped into bisbaas. Breakfast with sweet shaah tea and a piece of warm muufo is a classic Somali coastal morning. Also wonderful with a smear of butter or honey for a sweet snack.
 
 ## Storage
 - Best eaten warm from the pan.

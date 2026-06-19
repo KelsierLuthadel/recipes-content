@@ -71,13 +71,13 @@ Molho piri-piri is Portugal's foundational hot sauce and the source of the famou
 - **Brief cook:** deepens colour and improves keeping.
 
 ## Variations
-**Raw piri-piri (purist):** skip the cooking step; blend everything raw; gives a brighter fresher sauce but shorter shelf life.
-**Mozambican piri-piri:** add 1 tablespoon of grated ginger; gives a warmer African profile.
-**Angolan version:** add 2 tablespoons of dried shrimp powder; gives umami depth.
-**Sweet piri-piri:** double the sugar and add 1 tablespoon of honey; balances the heat.
+- **Raw piri-piri (purist):** skip the cooking step; blend everything raw; gives a brighter fresher sauce but shorter shelf life.
+- **Mozambican piri-piri:** add 1 tablespoon of grated ginger; gives a warmer African profile.
+- **Angolan version:** add 2 tablespoons of dried shrimp powder; gives umami depth.
+- **Sweet piri-piri:** double the sugar and add 1 tablespoon of honey; balances the heat.
 
 ## Serving
-With piri-piri chicken (the traditional use), grilled prawns, bacalhau, grilled fish, roasted vegetables, sandwiches. At the Portuguese table as a condiment.
+- With piri-piri chicken (the traditional use), grilled prawns, bacalhau, grilled fish, roasted vegetables, sandwiches. At the Portuguese table as a condiment.
 
 ## Storage
 - Keeps refrigerated 1 month in a sealed jar.

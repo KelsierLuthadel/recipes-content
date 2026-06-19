@@ -77,15 +77,15 @@ Pasthechi is the snack of Aruban daily life: every bakery, every petrol-station 
 - **Eat warm:** pasthechi go from peak to acceptable within 30 minutes. The bakery sells them straight from the fryer for a reason.
 
 ## Variations
-**Pasthechi di karni:** fill with spiced minced beef sweated with onion, raisins and olives.
-**Pasthechi di pisca:** flaked salt-cod with onion and tomato, the Lenten version.
-**Pasthechi di galina:** shredded stewed chicken bound in a little gravy.
-**Pasthechi di tuna:** tinned tuna mashed with mayonnaise, onion and parsley, the kids' lunchbox version.
-**Oven-baked pasthechi:** brush with egg and bake at 200 C for 18 minutes, the lighter version (texture is less authentic).
-**Mini pasthechi:** roll to 8 cm circles for cocktail-hour bite-sized turnovers.
+- **Pasthechi di karni:** fill with spiced minced beef sweated with onion, raisins and olives.
+- **Pasthechi di pisca:** flaked salt-cod with onion and tomato, the Lenten version.
+- **Pasthechi di galina:** shredded stewed chicken bound in a little gravy.
+- **Pasthechi di tuna:** tinned tuna mashed with mayonnaise, onion and parsley, the kids' lunchbox version.
+- **Oven-baked pasthechi:** brush with egg and bake at 200 C for 18 minutes, the lighter version (texture is less authentic).
+- **Mini pasthechi:** roll to 8 cm circles for cocktail-hour bite-sized turnovers.
 
 ## Serving
-For breakfast on the way to work · at a school break · at the Aruban office mid-morning · with a paper cup of pega-pega coffee · at a bakery counter (Maggy's, Java's, Huchada) · at the airport before a flight · with a small dish of pepper sauce on the side.
+- For breakfast on the way to work · at a school break · at the Aruban office mid-morning · with a paper cup of pega-pega coffee · at a bakery counter (Maggy's, Java's, Huchada) · at the airport before a flight · with a small dish of pepper sauce on the side.
 
 ## Storage
 - Eat warm the same day for the best texture.

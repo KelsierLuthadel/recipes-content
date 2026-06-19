@@ -47,7 +47,7 @@ Tamarind sauce is the building block for the bright Thai-influenced accompanimen
 - **Palm sugar:** Use this rather than regular sugar for authentic Thai flavour; available in Asian markets.
 
 ## Serving
-Serve at room temperature with steamed firm-fleshed fish (halibut, monkfish, sea bass), prawns, or other shellfish. Also excellent with Thai curries.
+- Serve at room temperature with steamed firm-fleshed fish (halibut, monkfish, sea bass), prawns, or other shellfish. Also excellent with Thai curries.
 
 ## Storage
 - Keeps refrigerated for 3-4 days in an airtight container.

@@ -65,13 +65,13 @@ NY deli coleslaw is the traditional Jewish-American deli-counter slaw and the si
 - **Chill 1 hour minimum.**
 
 ## Variations
-**With apple:** add 1 grated tart apple.
-**With raisins:** add 80 g raisins.
-**Spicier:** add chopped jalapeño + horseradish.
-**Lighter (no mayo):** swap mayo for Greek yogurt.
+- **With apple:** add 1 grated tart apple.
+- **With raisins:** add 80 g raisins.
+- **Spicier:** add chopped jalapeño + horseradish.
+- **Lighter (no mayo):** swap mayo for Greek yogurt.
 
 ## Serving
-At NY delis; alongside pastrami, corned beef, brisket sandwiches.
+- At NY delis; alongside pastrami, corned beef, brisket sandwiches.
 
 ## Storage
 - Keeps refrigerated 4 days; gets better.

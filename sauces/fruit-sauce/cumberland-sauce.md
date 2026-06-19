@@ -52,7 +52,7 @@ Cumberland sauce is the building block for cold game and traditional British cha
 - **Lemon zest:** Blanching removes bitterness; add it just before serving to maintain brightness and texture.
 
 ## Serving
-Serve chilled alongside cold cuts, terrines, pâtés, and cold roasted game. Also excellent with cheese selections on a charcuterie board.
+- Serve chilled alongside cold cuts, terrines, pâtés, and cold roasted game. Also excellent with cheese selections on a charcuterie board.
 
 ## Storage
 - Keeps refrigerated for 5-7 days in an airtight container.

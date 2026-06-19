@@ -74,12 +74,12 @@ The older, more ceremonial form of lahpet, the version that predates the salad. 
 - **Mind the caffeine:** Fermented tea leaves retain caffeine. A small bowl is a snack; a large one will keep you awake.
 
 ## Variations
-**Sweet-soy version:** Some upper-Burma cooks finish the tea leaves with a teaspoon of brown sugar to balance the bitterness. Worth trying once.
-**Festive plate:** For Burmese New Year (Thingyan) or a guest welcome, the same mix is served on a lacquered offering tray (lahpet ohk) with the fried components fanned out in 6 or 7 separate compartments.
+- **Sweet-soy version:** Some upper-Burma cooks finish the tea leaves with a teaspoon of brown sugar to balance the bitterness. Worth trying once.
+- **Festive plate:** For Burmese New Year (Thingyan) or a guest welcome, the same mix is served on a lacquered offering tray (lahpet ohk) with the fried components fanned out in 6 or 7 separate compartments.
 
 ## Serving
-Serve with: hot black tea, milk tea, or beer. A small bowl alongside drinks before dinner is the classic teashop pairing.
-Garnish with: extra lime wedges and a small dish of green chillies.
+- Serve with: hot black tea, milk tea, or beer. A small bowl alongside drinks before dinner is the classic teashop pairing.
+- Garnish with: extra lime wedges and a small dish of green chillies.
 
 ## Storage
 - The fried components keep separately in airtight tins at room temperature for 5-7 days. Do not refrigerate; they soften.

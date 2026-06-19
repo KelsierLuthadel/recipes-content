@@ -95,13 +95,13 @@ The deep-fried Vietnamese spring roll (nem rán in the north, chả giò in the 
 - **Pork fat content:** Lean mince makes dry rolls. If your butcher does only lean, ask for 100 g of unsmoked pork belly chopped fine and add it to the mix.
 
 ## Variations
-**Beef and lemongrass:** Replace pork with 300 g beef mince and add 2 tablespoons very finely chopped lemongrass.
-**Crab rolls (chả giò cua):** Replace half the pork with 200 g picked white crab meat.
-**Vegetarian:** Use 300 g crumbled firm tofu and 200 g grated taro in place of pork and prawn. Bind with 2 egg yolks instead of 1.
+- **Beef and lemongrass:** Replace pork with 300 g beef mince and add 2 tablespoons very finely chopped lemongrass.
+- **Crab rolls (chả giò cua):** Replace half the pork with 200 g picked white crab meat.
+- **Vegetarian:** Use 300 g crumbled firm tofu and 200 g grated taro in place of pork and prawn. Bind with 2 egg yolks instead of 1.
 
 ## Serving
-Serve with: lettuce leaves, fresh herbs and the nước chấm. Wrap each roll in a lettuce leaf with a few herb sprigs and dunk.
-Garnish with: rice vermicelli noodles on the side to wrap with lettuce-and-roll bundles for a fuller meal.
+- Serve with: lettuce leaves, fresh herbs and the nước chấm. Wrap each roll in a lettuce leaf with a few herb sprigs and dunk.
+- Garnish with: rice vermicelli noodles on the side to wrap with lettuce-and-roll bundles for a fuller meal.
 
 ## Storage
 - Best eaten within 30 minutes of the second fry

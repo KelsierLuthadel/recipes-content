@@ -69,7 +69,7 @@ The classic French apple tart is the dessert every Paris pâtisserie has in the 
 - If the tart is prepared ahead, assemble and glaze just before serving for the best texture.
 
 ## Serving
-Serve the tart barely cool with clotted cream, crème fraîche, or vanilla ice cream. It is lovely as a dessert or an afternoon treat with tea.
+- Serve the tart barely cool with clotted cream, crème fraîche, or vanilla ice cream. It is lovely as a dessert or an afternoon treat with tea.
 
 ## Storage
 Keep leftover tart in the refrigerator for up to 2 days in an airtight container. Reheat gently in a low oven before serving; avoid prolonged storage as the pastry will soften.

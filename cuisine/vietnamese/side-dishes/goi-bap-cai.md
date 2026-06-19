@@ -65,13 +65,13 @@ Poached chicken is shredded and tossed with finely shredded cabbage, carrot and 
 - **Chicken texture:** Hand-shredding gives more surface area for the dressing to cling to than knife-cut pieces.
 
 ## Variations
-**Prawn version:** Replace chicken with 300 g cooked prawns, halved lengthways.
-**Beef version:** Use 300 g rare-cooked flank steak, sliced thinly across the grain.
-**Vegetarian:** Skip the chicken, double the cabbage and add 200 g pan-fried firm tofu cut into batons. Use soy sauce in place of fish sauce.
+- **Prawn version:** Replace chicken with 300 g cooked prawns, halved lengthways.
+- **Beef version:** Use 300 g rare-cooked flank steak, sliced thinly across the grain.
+- **Vegetarian:** Skip the chicken, double the cabbage and add 200 g pan-fried firm tofu cut into batons. Use soy sauce in place of fish sauce.
 
 ## Serving
-Serve with: prawn crackers (bánh phồng tôm) or as a starter before a noodle main.
-Garnish with: extra herbs, a wedge of lime and a few slices of red chilli.
+- Serve with: prawn crackers (bánh phồng tôm) or as a starter before a noodle main.
+- Garnish with: extra herbs, a wedge of lime and a few slices of red chilli.
 
 ## Storage
 - Best eaten immediately after dressing

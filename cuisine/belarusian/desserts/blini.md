@@ -82,14 +82,14 @@ Blini are the small yeasted pancakes shared across Belarus, Russia and Ukraine, 
 - **Wipe between batches:** burnt butter from previous blini turns later batches bitter.
 
 ## Variations
-**Savoury blini:** drop the sugar from the batter; serve with smoked salmon, dill, sour cream and capers (the Maslenitsa classic).
-**Buckwheat-only blini:** use 250 g buckwheat flour for a denser, more rustic blin (eat with strong butter and a splash of vinegar).
-**Sweet ricotta blini:** spread each warm blin with 1 teaspoon sweet ricotta + lemon zest; roll up; serve as Belarusian crepe-rolls.
-**Mini cocktail blini:** make them 4 cm wide; top with caviar and cream for a Russian-Belarusian zakuski platter.
-**Apple blini:** drop thin slices of apple onto the batter before flipping; the apple caramelises into the second side.
+- **Savoury blini:** drop the sugar from the batter; serve with smoked salmon, dill, sour cream and capers (the Maslenitsa classic).
+- **Buckwheat-only blini:** use 250 g buckwheat flour for a denser, more rustic blin (eat with strong butter and a splash of vinegar).
+- **Sweet ricotta blini:** spread each warm blin with 1 teaspoon sweet ricotta + lemon zest; roll up; serve as Belarusian crepe-rolls.
+- **Mini cocktail blini:** make them 4 cm wide; top with caviar and cream for a Russian-Belarusian zakuski platter.
+- **Apple blini:** drop thin slices of apple onto the batter before flipping; the apple caramelises into the second side.
 
 ## Serving
-At a Belarusian Maslenitsa (the pre-Lent butter-and-pancake week, the traditional setting) · with cold sour cream and cherry jam at a Sunday tea · stacked on a serving platter at a Belarusian wedding · with smoked salmon and dill at a New Year zakuski table · at a dacha breakfast with hot tea · for a children's Sunday afternoon with honey and berries.
+- At a Belarusian Maslenitsa (the pre-Lent butter-and-pancake week, the traditional setting) · with cold sour cream and cherry jam at a Sunday tea · stacked on a serving platter at a Belarusian wedding · with smoked salmon and dill at a New Year zakuski table · at a dacha breakfast with hot tea · for a children's Sunday afternoon with honey and berries.
 
 ## Storage
 - Best the day they're cooked.

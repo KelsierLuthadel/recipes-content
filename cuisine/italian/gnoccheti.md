@@ -69,12 +69,12 @@ Gnocchetti are the small handmade Italian potato dumplings, tender pillows of po
 - **Courgette Timing:** Add late to cooking process so they stay firm and don't become mushy.
 
 ## Variations
-**With Truffle:** Drizzle a few drops of truffle oil over the finished dish for luxury.
-**Garlic Variation:** Add 2 sliced garlic cloves to the butter at the beginning of sauce preparation.
+- **With Truffle:** Drizzle a few drops of truffle oil over the finished dish for luxury.
+- **Garlic Variation:** Add 2 sliced garlic cloves to the butter at the beginning of sauce preparation.
 
 ## Serving
-Serve with: A crisp white wine, perhaps Pinot Grigio
-Garnish with: Fresh sage leaves and abundant Parmesan shavings
+- Serve with: A crisp white wine, perhaps Pinot Grigio
+- Garnish with: Fresh sage leaves and abundant Parmesan shavings
 
 ## Storage
 - Best eaten fresh immediately after cooking

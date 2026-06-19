@@ -86,12 +86,12 @@ The Bahamian fish-shack starter that every visitor to Nassau or the Out Islands 
 - **Pink sauce:** The classic dipping sauce varies house to house. Some add mustard, some grated onion, some swap ketchup for chilli sauce. Adjust to taste.
 
 ## Variations
-**Without conch:** Use 400 g raw prawns, finely chopped, or 400 g white fish (cod, pollock). The technique is identical.
-**Spicier:** Use a whole scotch bonnet with seeds; add a teaspoon of hot sauce to the batter as well.
+- **Without conch:** Use 400 g raw prawns, finely chopped, or 400 g white fish (cod, pollock). The technique is identical.
+- **Spicier:** Use a whole scotch bonnet with seeds; add a teaspoon of hot sauce to the batter as well.
 
 ## Serving
-Serve with: pink dipping sauce, lime wedges, an ice-cold lager.
-Garnish with: chopped parsley and a final grating of lime zest.
+- Serve with: pink dipping sauce, lime wedges, an ice-cold lager.
+- Garnish with: chopped parsley and a final grating of lime zest.
 
 ## Storage
 - Best eaten immediately; the crust softens within an hour.

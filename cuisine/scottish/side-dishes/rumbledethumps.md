@@ -79,15 +79,15 @@ Rumbledethumps (the name is a wonderful Scots onomatopoeia, supposedly from "rum
 - **Add a pinch of nutmeg:** a Scottish granny trick, a pinch of nutmeg in the potato cabbage mix.
 
 ## Variations
-**With smoked bacon:** add 100 g diced smoked bacon (cooked till crisp) to the cabbage-onion mixture, heartier version, more like a one-dish supper.
-**With ham hock:** stir in 200 g shredded ham-hock meat (from a cooked ham bone): turns it into a main course.
-**With kale and leek (clapshot direction):** swap half the cabbage for shredded kale; add 1 sliced leek to the onion, more nutritious modern version.
-**With swede (a clapshot-rumbledethumps hybrid):** swap 300 g of the potato for mashed swede; the Orkney version that crosses with clapshot.
-**Whole-meal version:** add 50 g cooked pearl barley to the mix for extra texture.
-**Indian-influenced:** add a teaspoon of curry powder + ½ teaspoon turmeric to the cabbage during cooking, modern Anglo-Indian Scottish.
+- **With smoked bacon:** add 100 g diced smoked bacon (cooked till crisp) to the cabbage-onion mixture, heartier version, more like a one-dish supper.
+- **With ham hock:** stir in 200 g shredded ham-hock meat (from a cooked ham bone): turns it into a main course.
+- **With kale and leek (clapshot direction):** swap half the cabbage for shredded kale; add 1 sliced leek to the onion, more nutritious modern version.
+- **With swede (a clapshot-rumbledethumps hybrid):** swap 300 g of the potato for mashed swede; the Orkney version that crosses with clapshot.
+- **Whole-meal version:** add 50 g cooked pearl barley to the mix for extra texture.
+- **Indian-influenced:** add a teaspoon of curry powder + ½ teaspoon turmeric to the cabbage during cooking, modern Anglo-Indian Scottish.
 
 ## Serving
-Alongside a Scottish Sunday roast lamb or beef (the traditional pairing) · with grilled or pan-fried Lorne sausage and a fried egg as a brunch · with cooked smoked sausage as a weeknight family supper · alongside roast game (pheasant, venison) · at a Burns Night supper as an extra side.
+- Alongside a Scottish Sunday roast lamb or beef (the traditional pairing) · with grilled or pan-fried Lorne sausage and a fried egg as a brunch · with cooked smoked sausage as a weeknight family supper · alongside roast game (pheasant, venison) · at a Burns Night supper as an extra side.
 
 ## Storage
 - Refrigerates 3 days; reheats brilliantly in a hot oven (180°C for 15-20 minutes) or in the microwave (with a tiny splash of milk to loosen).

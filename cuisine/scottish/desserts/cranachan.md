@@ -89,16 +89,16 @@ Cranachan (from the Scottish Gaelic crannachan, related to "churn") is Scotland'
 - **Assemble JUST before serving:** the toasted oats go soft within 20-30 minutes. Don't make this 2 hours ahead.
 
 ## Variations
-**Cream-crowdie variant:** fold 100 g crowdie cheese into the whipped cream, adds a tangy edge.
-**Brambleberry cranachan (autumn):** swap raspberries for fresh brambles (blackberries): the autumn variant when raspberry season ends.
-**Strawberry cranachan (summer):** swap raspberries for halved strawberries, softer, sweeter; less traditional.
-**Drambuie cranachan:** swap the Scotch for Drambuie (Scotch + honey + herbs liqueur): sweeter, more aromatic.
-**Atholl Brose cranachan:** add a tablespoon of Atholl Brose (oat-infused whisky-honey) to the cream, adds depth.
-**Layered as a trifle:** make in a large trifle dish for the centrepiece version (assemble just before serving still).
-**Mini cranachans in shot glasses:** for a canapé-style party; same ingredients, tiny portions.
+- **Cream-crowdie variant:** fold 100 g crowdie cheese into the whipped cream, adds a tangy edge.
+- **Brambleberry cranachan (autumn):** swap raspberries for fresh brambles (blackberries): the autumn variant when raspberry season ends.
+- **Strawberry cranachan (summer):** swap raspberries for halved strawberries, softer, sweeter; less traditional.
+- **Drambuie cranachan:** swap the Scotch for Drambuie (Scotch + honey + herbs liqueur): sweeter, more aromatic.
+- **Atholl Brose cranachan:** add a tablespoon of Atholl Brose (oat-infused whisky-honey) to the cream, adds depth.
+- **Layered as a trifle:** make in a large trifle dish for the centrepiece version (assemble just before serving still).
+- **Mini cranachans in shot glasses:** for a canapé-style party; same ingredients, tiny portions.
 
 ## Serving
-At Burns Night as the dessert finale (the traditional setting) · at Saint Andrew's Day (30 November) supper · at a Highland wedding dessert table · at a Scottish summer garden party in raspberry season (July-August) · at a Hogmanay buffet · at home as a Saturday-evening dinner-party dessert · alongside coffee and a dram after a Sunday roast.
+- At Burns Night as the dessert finale (the traditional setting) · at Saint Andrew's Day (30 November) supper · at a Highland wedding dessert table · at a Scottish summer garden party in raspberry season (July-August) · at a Hogmanay buffet · at home as a Saturday-evening dinner-party dessert · alongside coffee and a dram after a Sunday roast.
 
 ## Storage
 - Best eaten immediately after assembly (the toasted oats lose crisp within 20-30 minutes).

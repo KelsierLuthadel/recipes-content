@@ -114,17 +114,17 @@ The Brezel (Brezn in Bavaria, Pretzel in English) is one of Germany's most iconi
 - **Serve warm:** pretzels are at their peak warm from the oven. Cold pretzels can be refreshed by 5 minutes in a 180°C oven.
 
 ## Variations
-**Brezel with sesame seeds (Vienna style):** sprinkle sesame seeds instead of salt, Austrian variant.
-**Pretzel sticks (Pretzel Stangen):** shape the dough into long thin sticks instead of pretzels, beer-garden snack version.
-**Mini pretzels (Brezelchen):** make small bite-sized pretzels (40 g each): perfect for parties.
-**Sweet pretzels (with pearl sugar):** brush with butter after baking; sprinkle pearl sugar, sweet variant.
-**Cinnamon-sugar pretzels:** dust with cinnamon-sugar after baking, modern dessert variant.
-**Pretzel rolls (Brezelbrötchen):** shape the dough into rolls instead of pretzels, the famous pretzel sandwich roll.
-**Stuffed pretzel (Leberkäs Brezel):** sandwich slices of Leberkäse between two pretzel halves with mustard, Munich street food.
-**Pretzel with cheese filling:** stuff with grated cheese before baking, modern variant.
+- **Brezel with sesame seeds (Vienna style):** sprinkle sesame seeds instead of salt, Austrian variant.
+- **Pretzel sticks (Pretzel Stangen):** shape the dough into long thin sticks instead of pretzels, beer-garden snack version.
+- **Mini pretzels (Brezelchen):** make small bite-sized pretzels (40 g each): perfect for parties.
+- **Sweet pretzels (with pearl sugar):** brush with butter after baking; sprinkle pearl sugar, sweet variant.
+- **Cinnamon-sugar pretzels:** dust with cinnamon-sugar after baking, modern dessert variant.
+- **Pretzel rolls (Brezelbrötchen):** shape the dough into rolls instead of pretzels, the famous pretzel sandwich roll.
+- **Stuffed pretzel (Leberkäs Brezel):** sandwich slices of Leberkäse between two pretzel halves with mustard, Munich street food.
+- **Pretzel with cheese filling:** stuff with grated cheese before baking, modern variant.
 
 ## Serving
-At a Munich beer garden with a stein of Helles (the traditional setting) · at Oktoberfest · at a Bavarian Hofbräuhaus · at a Berlin breakfast café · at a German bakery counter on Sunday morning · at a German Christmas market · at a German wedding canapé reception · at home for a Bavarian-themed dinner party.
+- At a Munich beer garden with a stein of Helles (the traditional setting) · at Oktoberfest · at a Bavarian Hofbräuhaus · at a Berlin breakfast café · at a German bakery counter on Sunday morning · at a German Christmas market · at a German wedding canapé reception · at home for a Bavarian-themed dinner party.
 
 ## Storage
 - Best eaten same day, warm from the oven.

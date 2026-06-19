@@ -65,7 +65,7 @@ Arroz con leche is the dessert a Tica abuela makes when there is a cup of leftov
 - **Arroz con leche con pasas:** Soak the raisins in warm rum for 30 minutes before stirring in.
 
 ## Serving
-Serve cold in small bowls with a heavy dusting of ground cinnamon on top · a thimble of rum on the side · or warm with a curl of butter for a winter version
+- Serve cold in small bowls with a heavy dusting of ground cinnamon on top · a thimble of rum on the side · or warm with a curl of butter for a winter version
 
 ## Storage
 - Arroz con leche keeps 4 days refrigerated, covered

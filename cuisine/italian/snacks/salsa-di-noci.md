@@ -68,13 +68,13 @@ Salsa di noci is Liguria's iconic walnut sauce and the lesser-known cousin of pe
 - **Adjust consistency to use:** thicker for dip, thinner for pasta.
 
 ## Variations
-**With ricotta:** add 100 g of fresh ricotta; gives an even creamier version.
-**With cream:** add 50 ml double cream instead of milk for the soak; richer.
-**Almond version (salsa di mandorle):** swap walnuts for blanched almonds; Sicilian variation.
-**With pine nuts:** add 50 g of toasted pine nuts; less traditional but excellent.
+- **With ricotta:** add 100 g of fresh ricotta; gives an even creamier version.
+- **With cream:** add 50 ml double cream instead of milk for the soak; richer.
+- **Almond version (salsa di mandorle):** swap walnuts for blanched almonds; Sicilian variation.
+- **With pine nuts:** add 50 g of toasted pine nuts; less traditional but excellent.
 
 ## Serving
-With pansoti (the traditional Ligurian pasta), or any stuffed pasta. Over grilled vegetables. As a dip with crudités or bread. Ligurian white wine.
+- With pansoti (the traditional Ligurian pasta), or any stuffed pasta. Over grilled vegetables. As a dip with crudités or bread. Ligurian white wine.
 
 ## Storage
 - Keeps refrigerated 5 days with a thin layer of olive oil on top.

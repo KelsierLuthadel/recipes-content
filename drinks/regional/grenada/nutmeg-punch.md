@@ -49,14 +49,14 @@ Nutmeg punch is the Grenadian creamy spiced cocktail, sat somewhere between an e
 - **Don't skip the salt:** a pinch of salt sharpens the spice and stops the dairy tasting flat.
 
 ## Variations
-**With coconut milk:** swap the double cream for coconut cream for a fully tropical version.
-**With egg yolk:** beat one yolk into the base for a thicker eggnog-style punch.
-**Iced (frozen):** blend the whole drink with crushed ice for a frosty version.
-**Strong (Christmas spec):** 90 ml of rum and an extra tablespoon of condensed milk.
-**Without bitters:** for a sweeter softer punch, leave the Angostura out.
+- **With coconut milk:** swap the double cream for coconut cream for a fully tropical version.
+- **With egg yolk:** beat one yolk into the base for a thicker eggnog-style punch.
+- **Iced (frozen):** blend the whole drink with crushed ice for a frosty version.
+- **Strong (Christmas spec):** 90 ml of rum and an extra tablespoon of condensed milk.
+- **Without bitters:** for a sweeter softer punch, leave the Angostura out.
 
 ## Serving
-On Christmas morning · at Sunday lunch · as a dessert in a glass · with a slice of fruit cake · in small glasses as a closing nightcap.
+- On Christmas morning · at Sunday lunch · as a dessert in a glass · with a slice of fruit cake · in small glasses as a closing nightcap.
 
 ## Storage
 - Best fresh.

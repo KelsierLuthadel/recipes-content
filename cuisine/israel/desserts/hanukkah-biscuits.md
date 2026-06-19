@@ -64,7 +64,7 @@ Hanukkah biscuits are the holiday-tradition vanilla shortbread cookies cut with 
 - Royal icing dries to a clean snap; if you prefer a softer glaze, use 100 g icing sugar with 1 tablespoon water and a few drops of vanilla, no egg white.
 
 ## Serving
-On a plate at the Hanukkah table after the meal, alongside the sufganiyot and latkes. With strong tea or hot chocolate during the candle-lighting.
+- On a plate at the Hanukkah table after the meal, alongside the sufganiyot and latkes. With strong tea or hot chocolate during the candle-lighting.
 
 ## Storage
 In a sealed tin at room temperature for up to 2 weeks (yes, biscuits keep). Stack in single layers separated by baking paper so the icing doesn't smudge.

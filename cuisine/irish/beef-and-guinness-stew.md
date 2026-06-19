@@ -64,7 +64,7 @@ Beef and Guinness stew is the pub-kitchen classic of every Dublin and Cork bistr
 - Pearl barley is non-negotiable for the proper texture but takes 45 minutes; if you forget it at the second stage, skip and serve over mash instead. Quick-cook barley is a different product and goes mushy.
 
 ## Serving
-In wide warm bowls with thick wedges of buttered Irish soda bread for mopping. A bottle of stout alongside.
+- In wide warm bowls with thick wedges of buttered Irish soda bread for mopping. A bottle of stout alongside.
 
 ## Storage
 Improves overnight. In a covered container in the fridge for up to 4 days; in the freezer for 3 months. Reheat gently with a splash of water if the sauce has tightened too much.

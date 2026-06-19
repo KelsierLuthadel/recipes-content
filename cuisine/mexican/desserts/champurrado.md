@@ -47,7 +47,7 @@ Masa harina slaked with water, then simmered into a milk-and-piloncillo base sce
 - A shot of brandy or ancho-chilli liqueur stirred into the mug at the end is for adults only.
 
 ## Serving
-In mugs alongside churros, pan de muerto, or tamales. On the Día de los Muertos altar, in a small cup beside a candle and a marigold.
+- In mugs alongside churros, pan de muerto, or tamales. On the Día de los Muertos altar, in a small cup beside a candle and a marigold.
 
 ## Storage
 Best fresh. Keeps in the fridge for 2 days; reheat slowly with a splash of milk to loosen.

@@ -111,19 +111,19 @@ Fresh pasta should still have a tender bite. Over-cooked, it goes mushy fast.
 ## Variations
 
 ### Wholemeal Fresh Pasta
-Replace 100 g of the white flour with wholemeal flour. The dough is browner, more rustic, slightly heavier.
+- Replace 100 g of the white flour with wholemeal flour. The dough is browner, more rustic, slightly heavier.
 
 ### Spinach Pasta (Verde)
-Add 80 g cooked-squeezed-finely-chopped spinach to the dough with the eggs. The dough goes bright green; the colour stays through the cook.
+- Add 80 g cooked-squeezed-finely-chopped spinach to the dough with the eggs. The dough goes bright green; the colour stays through the cook.
 
 ### Squid Ink Pasta (Nero)
-Add 2 tablespoons squid ink with the eggs. The dough is jet-black; pairs especially well with seafood sauces.
+- Add 2 tablespoons squid ink with the eggs. The dough is jet-black; pairs especially well with seafood sauces.
 
 ### Egg-Yolk Only (Pasta all'Uovo)
-Replace whole eggs with 6 yolks per 400 g flour. The dough is richer, more yellow, slightly less elastic. The Piedmontese tradition.
+- Replace whole eggs with 6 yolks per 400 g flour. The dough is richer, more yellow, slightly less elastic. The Piedmontese tradition.
 
 ### Pizza Dough (Different)
-A different beast entirely; see the [pizza course / dough](../pizza/dough.md).
+- A different beast entirely; see the [pizza course / dough](../pizza/dough.md).
 
 ## Common Mistakes
 

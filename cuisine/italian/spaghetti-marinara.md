@@ -80,12 +80,12 @@ True spaghetti alla marinara celebrates the bounty of Naples' harbor, a rich tom
 - **Gentle Handling:** Fold seafood into sauce carefully; avoid crushing or breaking delicate pieces.
 
 ## Variations
-**Lighter Version:** Omit some seafood and use only mussels and clams for a simpler marinara.
-**Extra Garlic:** Add a third garlic clove to the seafood cooking pan for garlic lovers.
+- **Lighter Version:** Omit some seafood and use only mussels and clams for a simpler marinara.
+- **Extra Garlic:** Add a third garlic clove to the seafood cooking pan for garlic lovers.
 
 ## Serving
-Serve with: Crusty bread for sauce, chilled white wine
-Garnish with: Fresh parsley, cracked black pepper, lemon wedges
+- Serve with: Crusty bread for sauce, chilled white wine
+- Garnish with: Fresh parsley, cracked black pepper, lemon wedges
 
 ## Storage
 - Best eaten immediately; seafood loses quality when reheated

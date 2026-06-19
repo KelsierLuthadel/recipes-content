@@ -54,7 +54,7 @@ Khabees is the desert sweet of Kuwait and the eastern Gulf: flour toasted in ghe
 - **Eat warm.** Khabees stiffens as it cools; reheat with a splash of milk if it sets too firm.
 
 ## Serving
-Warm from the pan in shallow bowls, with Arabic coffee. Iftar and winter favourite.
+- Warm from the pan in shallow bowls, with Arabic coffee. Iftar and winter favourite.
 
 ## Storage
 - Refrigerate 2 days

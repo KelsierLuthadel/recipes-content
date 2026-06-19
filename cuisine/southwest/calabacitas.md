@@ -68,13 +68,13 @@ Calabacitas (literally "little squashes") is the iconic Southwest vegetable side
 - **Vegan-friendly:** skip cheese and cream; use cashew cream + nutritional yeast.
 
 ## Variations
-**With pinto beans:** add tin of drained beans; turns into a main.
-**Spicier:** include hot Hatch chillies.
-**With chicken:** add cubed cooked chicken.
-**Pueblo style with mint:** add fresh mint at the end; traditional Pueblo touch.
+- **With pinto beans:** add tin of drained beans; turns into a main.
+- **Spicier:** include hot Hatch chillies.
+- **With chicken:** add cubed cooked chicken.
+- **Pueblo style with mint:** add fresh mint at the end; traditional Pueblo touch.
 
 ## Serving
-Alongside grilled meats, Southwest dinners, or as vegetarian main with tortillas.
+- Alongside grilled meats, Southwest dinners, or as vegetarian main with tortillas.
 
 ## Storage
 - Keeps refrigerated 3 days.

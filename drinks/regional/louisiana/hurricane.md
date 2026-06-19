@@ -52,7 +52,7 @@ The original Pat O'Brien's recipe uses a passion fruit syrup that is sold under 
 - **Hurricane Lite:** halve the rums (15 ml dark, 15 ml light), double the citrus. A sessionable beach version that still tastes like the original.
 
 ## Serving
-A Hurricane is a sipping drink despite the size of the glass. Two is the typical evening; three is the typical morning-after regret. The drink works well with rich Creole food (jambalaya, gumbo) thanks to the citrus cutting the heat and oil.
+- A Hurricane is a sipping drink despite the size of the glass. Two is the typical evening; three is the typical morning-after regret. The drink works well with rich Creole food (jambalaya, gumbo) thanks to the citrus cutting the heat and oil.
 
 ## Storage
 The drink itself doesn't keep. Passion fruit syrup keeps 3 months refrigerated. Grenadine keeps 6 months refrigerated; check the bottle for the brand-specific date.

@@ -62,17 +62,17 @@ Fajita seasoning mix is the dry blend you sprinkle straight onto sliced chicken,
 - **Tex-Mex Character:** This is Americanized Tex-Mex, different from authentic Mexican preparations. Embrace its efficiency and flavor.
 
 ## Variations
-**Spicier:** Use cayenne pepper instead of regular, or increase to ½ teaspoon.
-**Smokier:** Use smoked paprika (all of it, or ½ smoked + ½ regular).
-**Extra Cumin:** Increase ground cumin to ½ teaspoon for deeper earthy character.
-**With Lime:** Add 1 teaspoon grated fresh lime zest before using (makes "wet" coating; use fresh each time).
-**Less Salty:** Reduce salt to ½ teaspoon if using in salty dishes.
+- **Spicier:** Use cayenne pepper instead of regular, or increase to ½ teaspoon.
+- **Smokier:** Use smoked paprika (all of it, or ½ smoked + ½ regular).
+- **Extra Cumin:** Increase ground cumin to ½ teaspoon for deeper earthy character.
+- **With Lime:** Add 1 teaspoon grated fresh lime zest before using (makes "wet" coating; use fresh each time).
+- **Less Salty:** Reduce salt to ½ teaspoon if using in salty dishes.
 
 ## Serving
-Use in: Chicken fajitas, beef fajitas, shrimp fajitas, vegetable fajitas, taco filling, grain bowls with seasoned meat
-Typical ratio: 1-2 tablespoons seasoning mix per 1 pound protein
-Application: Fry seasoned meat and vegetables in hot oil for 5-7 minutes
-Accompaniments: Serve with warm tortillas, sour cream, guacamole, salsa, sautéed peppers and onions
+- Use in: Chicken fajitas, beef fajitas, shrimp fajitas, vegetable fajitas, taco filling, grain bowls with seasoned meat
+- Typical ratio: 1-2 tablespoons seasoning mix per 1 pound protein
+- Application: Fry seasoned meat and vegetables in hot oil for 5-7 minutes
+- Accompaniments: Serve with warm tortillas, sour cream, guacamole, salsa, sautéed peppers and onions
 
 ## Storage
 - Store in airtight container in cool, dark place away from heat and moisture

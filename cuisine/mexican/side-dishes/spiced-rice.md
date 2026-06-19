@@ -78,14 +78,14 @@ The Mexican-style spiced rice that fills the burrito and lands beside the enchil
 - **Make-ahead:** Rice can be cooked up to 4 hours ahead and kept at room temperature, then reheated gently before serving.
 
 ## Variations
-**With corn:** Add 100g sweetcorn kernels (fresh or frozen) in Stage 4 with the toasted rice
-**Fresh coriander version:** Stir in 2 tablespoons fresh coriander (chopped) just before serving for brightness
-**Extra spicy:** Increase cayenne pepper to ½ teaspoon or add diced fresh habanero for heat
-**With peppers:** Stir in ⅓ red bell pepper (finely diced) in Stage 3 with the jalapeños
-**Seafood-friendly:** Add 1 teaspoon saffron threads steeped in the warm stock for a delicate, aromatic version
+- **With corn:** Add 100g sweetcorn kernels (fresh or frozen) in Stage 4 with the toasted rice
+- **Fresh coriander version:** Stir in 2 tablespoons fresh coriander (chopped) just before serving for brightness
+- **Extra spicy:** Increase cayenne pepper to ½ teaspoon or add diced fresh habanero for heat
+- **With peppers:** Stir in ⅓ red bell pepper (finely diced) in Stage 3 with the jalapeños
+- **Seafood-friendly:** Add 1 teaspoon saffron threads steeped in the warm stock for a delicate, aromatic version
 
 ## Serving
-Serve alongside: Enchiladas, burritos, carnitas, tacos, or any Mexican main dish. Pairs well with black beans, avocado, and fresh lime wedges.
+- Serve alongside: Enchiladas, burritos, carnitas, tacos, or any Mexican main dish. Pairs well with black beans, avocado, and fresh lime wedges.
 
 ## Storage
 - Chill any leftover rice as quickly as possible

@@ -82,7 +82,7 @@ Khichuri across South Asia ranges from baby-food soft to dry-grained pilaf-like;
 - **With egg:** top each portion with a soft-boiled egg, halved.
 
 ## Serving
-Beef bhuna, fried hilsa, omelette or aloo bhorta · slit chillies · wedges of lime · a small bowl of yogurt · pickled lime
+- Beef bhuna, fried hilsa, omelette or aloo bhorta · slit chillies · wedges of lime · a small bowl of yogurt · pickled lime
 
 ## Storage
 - Refrigerate up to 3 days; texture firms but reheats fine

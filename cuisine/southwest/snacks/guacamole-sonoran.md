@@ -54,12 +54,12 @@ Sonoran guacamole is the traditional Southwestern American guacamole: ripe Hass 
 - **Lime juice on top prevents browning.**
 
 ## Variations
-**With tomato:** add diced tomato.
-**Spicier:** double jalapeños.
-**With pomegranate (modern variation):** scatter pomegranate seeds on top.
+- **With tomato:** add diced tomato.
+- **Spicier:** double jalapeños.
+- **With pomegranate (modern variation):** scatter pomegranate seeds on top.
 
 ## Serving
-With chips, on tacos, on burritos, on Southwest plates.
+- With chips, on tacos, on burritos, on Southwest plates.
 
 ## Storage
 - Eat the day made.

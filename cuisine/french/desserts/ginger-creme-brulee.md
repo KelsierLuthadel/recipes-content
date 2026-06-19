@@ -38,7 +38,7 @@ Ginger crème brûlée is the warming winter variation on the French classic, th
 - Adding the preserved ginger dice only after caramelizing prevents it from softening into the custard, maintaining crisp-creamy texture contrast
 
 ## Serving
-Serve individual dishes directly to guests, allowing them to break through the caramel crust to reveal the silky custard beneath, topped with candied ginger pieces. The spice and sweetness balance creates a sophisticated dessert.
+- Serve individual dishes directly to guests, allowing them to break through the caramel crust to reveal the silky custard beneath, topped with candied ginger pieces. The spice and sweetness balance creates a sophisticated dessert.
 
 ## Storage
 Baked crème brûlées without the caramel topping keep refrigerated in covered dishes for up to 2 days; the base custard actually improves as flavors mature. Apply the caramel topping no more than 30 minutes before serving to maintain crispness. The topping softens and deteriorates beyond this point. Serve at the temperature at which chilled; bringing to room temperature softens the caramel coating.

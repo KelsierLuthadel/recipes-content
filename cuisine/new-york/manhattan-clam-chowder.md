@@ -90,13 +90,13 @@ Manhattan clam chowder is the New York version of clam chowder and the subject o
 - **Reserve clam cooking liquid:** essential.
 
 ## Variations
-**With Italian sausage:** add 200 g crumbled cooked Italian sausage.
-**With seafood mix:** add shrimp, scallops.
-**Spicier:** double cayenne; add chilli flakes.
-**Quicker (with tinned clams):** use 4 tins (200 g each) chopped clams; skip the clam-steaming step.
+- **With Italian sausage:** add 200 g crumbled cooked Italian sausage.
+- **With seafood mix:** add shrimp, scallops.
+- **Spicier:** double cayenne; add chilli flakes.
+- **Quicker (with tinned clams):** use 4 tins (200 g each) chopped clams; skip the clam-steaming step.
 
 ## Serving
-At Manhattan diners; Italian-American family lunches.
+- At Manhattan diners; Italian-American family lunches.
 
 ## Storage
 - Refrigerated 4 days; flavour deepens.

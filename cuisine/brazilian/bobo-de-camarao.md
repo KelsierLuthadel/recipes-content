@@ -105,16 +105,16 @@ Bobó de camarão is one of Bahia's most luxurious and most distinctly African-B
 - **Add prawns at the very end:** 6-8 minutes maximum. Over-cooked prawns are rubber.
 
 ## Variations
-**Bobó de frango (chicken bobó):** swap prawns for cubed chicken; cook chicken 15 minutes in the cream before serving.
-**Bobó de peixe (fish bobó):** swap prawns for firm white fish chunks (snapper, grouper).
-**Bobó de quiabo (okra bobó):** add 200 g sliced okra to the stew base (cook 5 minutes before adding cassava cream); add a slight viscous note.
-**Without dendê (lighter version):** skip the dendê; the result is paler and less Bahian. Acceptable substitute is olive oil + a teaspoon of paprika for colour.
-**Hot bobó:** add 1-2 chopped Brazilian malagueta chillies (or Scotch bonnets) for the spicy version.
-**Bobó with coconut cream on top:** drizzle a swirl of full-fat coconut cream over each bowl just before serving, restaurant presentation.
-**Bobó de feijão verde (green-bean bobó variant):** add 200 g cooked green beans to the cream for texture.
+- **Bobó de frango (chicken bobó):** swap prawns for cubed chicken; cook chicken 15 minutes in the cream before serving.
+- **Bobó de peixe (fish bobó):** swap prawns for firm white fish chunks (snapper, grouper).
+- **Bobó de quiabo (okra bobó):** add 200 g sliced okra to the stew base (cook 5 minutes before adding cassava cream); add a slight viscous note.
+- **Without dendê (lighter version):** skip the dendê; the result is paler and less Bahian. Acceptable substitute is olive oil + a teaspoon of paprika for colour.
+- **Hot bobó:** add 1-2 chopped Brazilian malagueta chillies (or Scotch bonnets) for the spicy version.
+- **Bobó with coconut cream on top:** drizzle a swirl of full-fat coconut cream over each bowl just before serving, restaurant presentation.
+- **Bobó de feijão verde (green-bean bobó variant):** add 200 g cooked green beans to the cream for texture.
 
 ## Serving
-At a Salvador beachfront restaurant in Bahia (the traditional setting) · at a Bahian wedding reception · at a Brazilian Carnival lunch · at a Brazilian seafood-restaurant special · at a Brazilian Sunday family lunch in the north-east · at a Brazilian-themed dinner party as a stunning Bahian showpiece · at home with rice, farofa, and cold beer.
+- At a Salvador beachfront restaurant in Bahia (the traditional setting) · at a Bahian wedding reception · at a Brazilian Carnival lunch · at a Brazilian seafood-restaurant special · at a Brazilian Sunday family lunch in the north-east · at a Brazilian-themed dinner party as a stunning Bahian showpiece · at home with rice, farofa, and cold beer.
 
 ## Storage
 - Refrigerates 2 days; reheat gently with a splash of stock to loosen.

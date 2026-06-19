@@ -54,14 +54,14 @@ Funchi is the everyday Aruban starch, the one cornmeal mush that turns up alongs
 - **Day-old funchi is a feature:** slice cold leftover funchi into 1 cm slabs, pan-fry in butter, and serve with eggs for the Aruban breakfast.
 
 ## Variations
-**Funchi cu keshi:** stir in 100 g grated Edam at the buttering stage for cheese funchi.
-**Funchi cu coco:** swap 200 ml of the water for coconut milk for a richer, slightly sweet side.
-**Funchi pretu:** use blue cornmeal for the rarer dark version (mostly historical).
-**Pan-fried funchi cakes (next-day):** cut cold funchi into squares; pan-fry in butter till golden on both sides; serve with eggs.
-**Funchi rolls:** pipe hot funchi into small ramekins and chill; slice into rounds and pan-fry, the modern Aruban restaurant version.
+- **Funchi cu keshi:** stir in 100 g grated Edam at the buttering stage for cheese funchi.
+- **Funchi cu coco:** swap 200 ml of the water for coconut milk for a richer, slightly sweet side.
+- **Funchi pretu:** use blue cornmeal for the rarer dark version (mostly historical).
+- **Pan-fried funchi cakes (next-day):** cut cold funchi into squares; pan-fry in butter till golden on both sides; serve with eggs.
+- **Funchi rolls:** pipe hot funchi into small ramekins and chill; slice into rounds and pan-fry, the modern Aruban restaurant version.
 
 ## Serving
-With stoba di cabritu · with sopi di pisca · with keshi yena · with a fried whole fish · with stewed black beans · alongside any gravy-led Aruban plate · for breakfast as a pan-fried slab with a fried egg.
+- With stoba di cabritu · with sopi di pisca · with keshi yena · with a fried whole fish · with stewed black beans · alongside any gravy-led Aruban plate · for breakfast as a pan-fried slab with a fried egg.
 
 ## Storage
 - Best fresh from the pot; the texture firms quickly.

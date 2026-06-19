@@ -71,7 +71,7 @@ A century of Indian indentured labour reshaped Fijian cuisine; Indo-Fijian curry
 - **The slow brown:** 12-15 minutes on the onions is what builds the curry's foundation. Rushing this gives a thinner, less complex result.
 
 ## Serving
-Serve hot with fresh roti, paratha or steamed basmati rice. Sliced cucumber, lime pickle, and a coconut chutney complete the table. A bowl of sliced raw onion and green chilli for those who want extra heat.
+- Serve hot with fresh roti, paratha or steamed basmati rice. Sliced cucumber, lime pickle, and a coconut chutney complete the table. A bowl of sliced raw onion and green chilli for those who want extra heat.
 
 ## Storage
 - Refrigerate 4 days. The curry improves overnight as the spices marry; many Indo-Fijian cooks make it the day before serving.

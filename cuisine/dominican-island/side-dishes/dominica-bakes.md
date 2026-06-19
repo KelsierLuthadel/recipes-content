@@ -57,14 +57,14 @@ Bakes are the Caribbean breakfast bread, the small fried rounds of soft flour do
 - **The puff:** spooning hot oil over the tops while they fry encourages the puff; this is the Dominican cook's trick.
 
 ## Variations
-**With coconut milk:** swap half the water for coconut milk for a richer, slightly sweeter bake.
-**With cornmeal:** replace 100 g of the flour with fine cornmeal for a more textured Dominican variant.
-**Sweet bakes (johnny cakes for tea):** double the sugar; add a pinch of cinnamon; serve with butter.
-**Oven bakes:** instead of frying, bake the rounds on a tray at 200 C for 18-20 minutes for a drier, denser version.
-**With nutmeg:** grate fresh nutmeg into the dough for the spice-island variant.
+- **With coconut milk:** swap half the water for coconut milk for a richer, slightly sweeter bake.
+- **With cornmeal:** replace 100 g of the flour with fine cornmeal for a more textured Dominican variant.
+- **Sweet bakes (johnny cakes for tea):** double the sugar; add a pinch of cinnamon; serve with butter.
+- **Oven bakes:** instead of frying, bake the rounds on a tray at 200 C for 18-20 minutes for a drier, denser version.
+- **With nutmeg:** grate fresh nutmeg into the dough for the spice-island variant.
 
 ## Serving
-Serve hot from the pan with smoked herring stewed with onion and tomato (the Dominican breakfast classic) · with saltfish buljol · with cheese and avocado · dipped into sancoche or fish broth · split and filled like a small sandwich · with a mug of cocoa tea or strong coffee · at any Dominican breakfast table.
+- Serve hot from the pan with smoked herring stewed with onion and tomato (the Dominican breakfast classic) · with saltfish buljol · with cheese and avocado · dipped into sancoche or fish broth · split and filled like a small sandwich · with a mug of cocoa tea or strong coffee · at any Dominican breakfast table.
 
 ## Storage
 - Bakes are best eaten the day they're made; they go a little tough overnight.

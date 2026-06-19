@@ -67,14 +67,14 @@ The Montreal all-dressed hot dog (toute garnie in French) is the signature Quebe
 - **Yellow mustard, chopped onion, cabbage:** the traditional "all-dressed" trio.
 
 ## Variations
-**Toasté:** bun toasted on the flat-top instead of steamed.
-**Michigan-style (Quebec):** add a meat-tomato sauce (Quebec interpretation of the upstate-NY Michigan dog).
-**Fromage:** add a slice of melted cheddar on the dog.
-**Stimé Bacon (steamed with bacon):** wrap the sausage in bacon before steaming (the bacon doesn't get crispy; it adds flavour).
-**Pogo (corn dog):** the Quebec corn-dog-on-a-stick variant.
+- **Toasté:** bun toasted on the flat-top instead of steamed.
+- **Michigan-style (Quebec):** add a meat-tomato sauce (Quebec interpretation of the upstate-NY Michigan dog).
+- **Fromage:** add a slice of melted cheddar on the dog.
+- **Stimé Bacon (steamed with bacon):** wrap the sausage in bacon before steaming (the bacon doesn't get crispy; it adds flavour).
+- **Pogo (corn dog):** the Quebec corn-dog-on-a-stick variant.
 
 ## Serving
-At a Belle Province or Lafleur snack-bar in Montreal; at a Quebec dépanneur (corner store) lunch counter; at home with poutine and Pepsi.
+- At a Belle Province or Lafleur snack-bar in Montreal; at a Quebec dépanneur (corner store) lunch counter; at home with poutine and Pepsi.
 
 ## Storage
 - Cooked sausages refrigerate 4 days.

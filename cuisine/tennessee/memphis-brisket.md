@@ -111,12 +111,12 @@ Memphis smoked brisket is the Tennessee beef counterpart to Memphis pulled pork 
 - **Slice against grain.**
 
 ## Variations
-**With burnt ends:** chop the point separately; coat with sauce; smoke 1 more hour.
-**Oven version:** at 110°C for 12 hours; less smoky.
-**Smaller cut:** flat only (faster cook).
+- **With burnt ends:** chop the point separately; coat with sauce; smoke 1 more hour.
+- **Oven version:** at 110°C for 12 hours; less smoky.
+- **Smaller cut:** flat only (faster cook).
 
 ## Serving
-Memphis BBQ joints, Sunday gatherings.
+- Memphis BBQ joints, Sunday gatherings.
 
 ## Storage
 - Sliced brisket refrigerate 4 days.

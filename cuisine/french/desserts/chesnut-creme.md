@@ -41,7 +41,7 @@ Chestnut cream is the autumn French restaurant dessert that celebrates the chest
 - Pressing the warm peeled chestnuts through a chinois while still warm creates soft "vermicelli" that would clump if pressed cold
 
 ## Serving
-Turn out each chestnut cream onto a chilled plate and scatter chestnut "vermicelli" decoratively on top. Lean two langues de chat against the cream and drizzle caramel sauce around the base. Serve immediately or lightly chilled.
+- Turn out each chestnut cream onto a chilled plate and scatter chestnut "vermicelli" decoratively on top. Lean two langues de chat against the cream and drizzle caramel sauce around the base. Serve immediately or lightly chilled.
 
 ## Storage
 The assembled moulds keep refrigerated for up to 2 days before turning out. The cooked chestnuts can be prepared 1 day ahead and kept refrigerated in their cooking liquid. Create the "vermicelli" only when ready to serve, as it hardens and becomes unappetizing after several hours. Assemble within 1 hour of serving for best appearance.

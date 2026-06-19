@@ -72,7 +72,7 @@ Welsh cakes are the country's most-loved teatime baking: small spiced rounds, so
 - **Saffron Welsh cake:** infuse the milk with a pinch of saffron for a Cornish-Welsh twist.
 
 ## Serving
-At afternoon tea on St David's Day · in the school lunchbox · split warm and buttered for breakfast · with a cup of strong tea after a walk · as a Welsh chapel raffle prize.
+- At afternoon tea on St David's Day · in the school lunchbox · split warm and buttered for breakfast · with a cup of strong tea after a walk · as a Welsh chapel raffle prize.
 
 ## Storage
 - Keeps 5 days in an airtight tin.

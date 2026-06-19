@@ -75,7 +75,7 @@ Kavarma is the Bulgarian winter stew that lives in the small clay pots called gy
 - **Plovdivska kavarma:** the individual clay-pot version with egg on top.
 
 ## Serving
-In small clay pots straight from the oven · with crusty country bread to mop the sauce · alongside shopska salata · with a glass of Bulgarian Mavrud or any dry red · with boiled potatoes or buttered rice · sprinkled with fresh parsley.
+- In small clay pots straight from the oven · with crusty country bread to mop the sauce · alongside shopska salata · with a glass of Bulgarian Mavrud or any dry red · with boiled potatoes or buttered rice · sprinkled with fresh parsley.
 
 ## Storage
 - Refrigerate up to 4 days; the flavour improves on the second day.

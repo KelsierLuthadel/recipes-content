@@ -75,12 +75,12 @@ These are the elegant Italian filled-pasta parcels, fresh pasta squares wrapped 
 - **Pecorino Shavings:** Use a vegetable peeler to create elegant shavings.
 
 ## Variations
-**With Ricotta Salata:** Crumble salted ricotta on top instead of fresh Pecorino.
-**Different Meats:** Substitute cooked pancetta or prosciutto for variety.
+- **With Ricotta Salata:** Crumble salted ricotta on top instead of fresh Pecorino.
+- **Different Meats:** Substitute cooked pancetta or prosciutto for variety.
 
 ## Serving
-Serve with: A light red wine or crisp white wine
-Garnish with: Fresh basil leaves and crushed pepper
+- Serve with: A light red wine or crisp white wine
+- Garnish with: Fresh basil leaves and crushed pepper
 
 ## Storage
 - Best served immediately after cooking

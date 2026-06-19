@@ -56,11 +56,11 @@ The classic Jamaican breakfast bread, also called Johnny Cakes: golden fried rou
 - **Milk vs water:** Milk gives a richer, more brioche-like result. Water is the traditional, no-frills version.
 
 ## Variations
-**Boiled dumplings:** Same dough; simmered in salted water 15 minutes instead of frying. Served in soups and brown stews.
-**Bammy-style:** Replace some flour with cassava flour for a denser, traditional Maroon-influenced version.
+- **Boiled dumplings:** Same dough; simmered in salted water 15 minutes instead of frying. Served in soups and brown stews.
+- **Bammy-style:** Replace some flour with cassava flour for a denser, traditional Maroon-influenced version.
 
 ## Serving
-Serve with: Ackee and saltfish, callaloo, brown stew chicken, escovitch fish, or split and buttered for breakfast with hot chocolate tea.
+- Serve with: Ackee and saltfish, callaloo, brown stew chicken, escovitch fish, or split and buttered for breakfast with hot chocolate tea.
 
 ## Storage
 - Best eaten the day they're made.

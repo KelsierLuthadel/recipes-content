@@ -100,15 +100,15 @@ Asado is Argentina's most sacred food ritual, far more than a barbecue, it's the
 - **Eat the cuts in order:** chorizo/morcilla first (as choripán starters), then offal, then the beef cuts. The Argentine order is sacred.
 
 ## Variations
-**Asado al asador (cross-grilled):** whole lamb, goat, or pig tied to a wooden cross and slow-cooked beside the fire for 4-6 hours. The Patagonian variant.
-**Smaller home asado:** a small parrilla on a balcony - 2 cuts of beef, chorizo, morcilla, and provoleta, feeds 4.
-**Charcoal-only asado:** less traditional but works (uses pure charcoal instead of wood); easier in apartment settings.
-**Asado para vegetarianos:** the modern Argentine vegetarian variant, grilled portobello, halloumi, peppers, courgette; chimichurri the same.
-**Patagonian lamb asado:** whole lamb cross-grilled for 6 hours, the Patagonian ritual.
-**Bife de chorizo a la milanesa:** the milanesa interpretation, schnitzel-style, breaded and fried.
+- **Asado al asador (cross-grilled):** whole lamb, goat, or pig tied to a wooden cross and slow-cooked beside the fire for 4-6 hours. The Patagonian variant.
+- **Smaller home asado:** a small parrilla on a balcony - 2 cuts of beef, chorizo, morcilla, and provoleta, feeds 4.
+- **Charcoal-only asado:** less traditional but works (uses pure charcoal instead of wood); easier in apartment settings.
+- **Asado para vegetarianos:** the modern Argentine vegetarian variant, grilled portobello, halloumi, peppers, courgette; chimichurri the same.
+- **Patagonian lamb asado:** whole lamb cross-grilled for 6 hours, the Patagonian ritual.
+- **Bife de chorizo a la milanesa:** the milanesa interpretation, schnitzel-style, breaded and fried.
 
 ## Serving
-Every Sunday afternoon in every Argentine home (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Patagonian estancia (ranch) · at a Mendoza wine-country lunch · at an Argentine Independence Day celebration (9 July) · at an Argentine wedding reception · at home with Malbec and friends.
+- Every Sunday afternoon in every Argentine home (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Patagonian estancia (ranch) · at a Mendoza wine-country lunch · at an Argentine Independence Day celebration (9 July) · at an Argentine wedding reception · at home with Malbec and friends.
 
 ## Storage
 - Leftover cooked meat refrigerates 3 days; eat cold sliced with chimichurri.

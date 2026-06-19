@@ -73,14 +73,14 @@ The dark sticky sweet-sour-spicy chutney that anchors Indian street-food cooking
 - **Chill Before Serving:** Cold chutney is far more refreshing and allows flavors to develop.
 
 ## Variations
-**Spicier Heat:** Use 2 teaspoons Madras curry powder for more substantial spice.
-**Add Mint:** Include 1 tablespoon fresh mint leaves for cooling herbal notes.
-**Extra Ginger:** Add 1 teaspoon grated fresh ginger for warmth.
-**With Pomegranate:** Stir in 2 tablespoons pomegranate seeds for sweetness and texture.
+- **Spicier Heat:** Use 2 teaspoons Madras curry powder for more substantial spice.
+- **Add Mint:** Include 1 tablespoon fresh mint leaves for cooling herbal notes.
+- **Extra Ginger:** Add 1 teaspoon grated fresh ginger for warmth.
+- **With Pomegranate:** Stir in 2 tablespoons pomegranate seeds for sweetness and texture.
 
 ## Serving
-Serve with: Pakora, samosas, chaat (Indian street food), rotis, curries
-Garnish: None needed; this is a condiment
+- Serve with: Pakora, samosas, chaat (Indian street food), rotis, curries
+- Garnish: None needed; this is a condiment
 
 ## Storage
 - Refrigerate in a covered container for up to 1 week

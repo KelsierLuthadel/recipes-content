@@ -88,14 +88,14 @@ A Tex-Mex chilli pushed past its usual edges: beef and pork mince with smoked pa
 - **Make-ahead:** This dish tastes better the next day as flavours develop further. Make it ahead and reheat gently.
 
 ## Variations
-**Spicier:** Add 2-3 dried chillies (toasted with the cumin) or increase chilli powder to 2 teaspoons
-**Extra meaty:** Use 900g beef instead of 680g for a meatier texture
-**Vegetarian:** Replace beef with 400g lentils and use vegetable stock instead
-**With chocolate:** Add a small square of dark chocolate (70%+) at the end for subtle depth
-**Turkey alternative:** Use ground turkey instead of beef for a lighter version
+- **Spicier:** Add 2-3 dried chillies (toasted with the cumin) or increase chilli powder to 2 teaspoons
+- **Extra meaty:** Use 900g beef instead of 680g for a meatier texture
+- **Vegetarian:** Replace beef with 400g lentils and use vegetable stock instead
+- **With chocolate:** Add a small square of dark chocolate (70%+) at the end for subtle depth
+- **Turkey alternative:** Use ground turkey instead of beef for a lighter version
 
 ## Serving
-Serve with: Cooked rice, cornbread, sour cream, shredded cheese, diced onion, and fresh coriander
+- Serve with: Cooked rice, cornbread, sour cream, shredded cheese, diced onion, and fresh coriander
 
 ## Storage
 - Keeps 4 days refrigerated

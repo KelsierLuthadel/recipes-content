@@ -70,7 +70,7 @@ Banoffee pie was invented in 1971 at The Hungry Monk in East Sussex, where Nigel
 - **Bananas**: slice just before serving. The lemon juice helps but doesn't stop browning entirely; an hour in the fridge gives them time to soften the toffee a touch without going visibly brown.
 
 ## Serving
-A wedge on a small plate with strong coffee. The pie holds for a few hours in the fridge before the bananas start to discolour visibly under the cream.
+- A wedge on a small plate with strong coffee. The pie holds for a few hours in the fridge before the bananas start to discolour visibly under the cream.
 
 ## Storage
 - Best within 6 hours of assembly. Will keep in the fridge for 24 hours, but the bananas darken under the cream.

@@ -69,12 +69,12 @@ Kitfo is Ethiopia's most iconic raw-meat dish and the celebration dish of the Gu
 - **Leb-leb vs tere:** "leb-leb" means lightly warmed (the meat is briefly stirred in a warm pan with the kibbeh till just barely warmed through; never cooked). "Tere" means completely raw, the most traditional version. Both are valid; modern restaurants often default to leb-leb.
 
 ## Variations
-**Kitfo leb-leb:** as above, but the kitfo is briefly stirred in a warm dry pan (about 50 C) with the niter kibbeh for 30-60 seconds till the meat is warmed through but still mostly raw. The most common restaurant version outside Ethiopia.
-**Kitfo wot:** fully cooked version, where the kitfo is sautéed in the niter kibbeh till browned, more like a finely-minced beef ragout. Eaten in Ethiopian-Western restaurants by diners who prefer not to eat raw meat.
-**Kitfo with cheese melted in:** some Gurage households mix the ayib cottage cheese directly into the kitfo at the end for a richer dish. The texture is creamier; the flavour rounder.
+- **Kitfo leb-leb:** as above, but the kitfo is briefly stirred in a warm dry pan (about 50 C) with the niter kibbeh for 30-60 seconds till the meat is warmed through but still mostly raw. The most common restaurant version outside Ethiopia.
+- **Kitfo wot:** fully cooked version, where the kitfo is sautéed in the niter kibbeh till browned, more like a finely-minced beef ragout. Eaten in Ethiopian-Western restaurants by diners who prefer not to eat raw meat.
+- **Kitfo with cheese melted in:** some Gurage households mix the ayib cottage cheese directly into the kitfo at the end for a richer dish. The texture is creamier; the flavour rounder.
 
 ## Serving
-On a large round of injera at the centre of the table, with ayib (Ethiopian cottage cheese) and gomen (collard greens) as the traditional accompaniments. Diners eat communally, tearing pieces of injera and scooping kitfo with cheese and greens together. Drink: tej (Ethiopian honey wine), tella (homemade beer), or strong fresh-roasted buna (Ethiopian coffee) traditionally served after the meal in the coffee ceremony.
+- On a large round of injera at the centre of the table, with ayib (Ethiopian cottage cheese) and gomen (collard greens) as the traditional accompaniments. Diners eat communally, tearing pieces of injera and scooping kitfo with cheese and greens together. Drink: tej (Ethiopian honey wine), tella (homemade beer), or strong fresh-roasted buna (Ethiopian coffee) traditionally served after the meal in the coffee ceremony.
 
 ## Storage
 - Don't store. Kitfo is raw beef; it must be prepared and eaten within an hour of mincing.

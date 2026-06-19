@@ -128,13 +128,13 @@ Shawarma is one of the most iconic Middle Eastern street foods, claimed by Leban
 - **Slice thin:** shaved-thin slices give the proper shawarma texture; thick slices feel like a different dish.
 
 ## Variations
-**Chicken shawarma:** swap the lamb for chicken thigh; reduce cooking time to 60 minutes covered + 15 minutes uncovered. Lighter, very common.
-**Mixed shawarma:** use a 50/50 mix of lamb and chicken; common at Damascus shawarma stalls.
-**Shawarma platter (not wrapped):** serve the sliced meat over a bed of rice or French fries with the tahina sauce, salad and pickled turnips around; common restaurant presentation.
-**Spicier shawarma:** add 2 tablespoons of harissa or 1 tablespoon of Aleppo pepper to the marinade; gives a properly warm version.
+- **Chicken shawarma:** swap the lamb for chicken thigh; reduce cooking time to 60 minutes covered + 15 minutes uncovered. Lighter, very common.
+- **Mixed shawarma:** use a 50/50 mix of lamb and chicken; common at Damascus shawarma stalls.
+- **Shawarma platter (not wrapped):** serve the sliced meat over a bed of rice or French fries with the tahina sauce, salad and pickled turnips around; common restaurant presentation.
+- **Spicier shawarma:** add 2 tablespoons of harissa or 1 tablespoon of Aleppo pepper to the marinade; gives a properly warm version.
 
 ## Serving
-Wrapped in greaseproof paper from the hand; or as a platter with sides. With chilled fresh lemonade with mint, ayran, or mint tea. As lunch, dinner, late-night street food, or a party meal where everyone builds their own wrap from a spread.
+- Wrapped in greaseproof paper from the hand; or as a platter with sides. With chilled fresh lemonade with mint, ayran, or mint tea. As lunch, dinner, late-night street food, or a party meal where everyone builds their own wrap from a spread.
 
 ## Storage
 - The roasted meat keeps refrigerated 4 days; reheat in a hot dry pan with a small splash of water, or in a 160°C / 320°F oven for 10 minutes.

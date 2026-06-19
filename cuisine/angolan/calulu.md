@@ -67,7 +67,7 @@ Calulu is one of Angola's defining stews, a deep-flavoured pot of dried and fres
 - **Okra gives the body:** No flour, no cornflour, no thickener. The okra (and the slow simmer) is what turns the broth glossy.
 
 ## Serving
-Serve hot over funje, with a small pot of jindungo chilli sauce and a wedge of lime on the side. A simple onion-and-tomato salad cuts through the richness.
+- Serve hot over funje, with a small pot of jindungo chilli sauce and a wedge of lime on the side. A simple onion-and-tomato salad cuts through the richness.
 
 ## Storage
 - Keeps 3 days refrigerated; the flavour deepens.

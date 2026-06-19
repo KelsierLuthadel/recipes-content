@@ -124,13 +124,13 @@ Texas chili (also called chili con carne or "bowl o' red") is the official state
 - **Cocoa powder is the secret:** deep umami without sweetness.
 
 ## Variations
-**Spicier:** add more chiles de árbol and 2 fresh habaneros.
-**With more smoke:** double the chipotles.
-**With venison:** swap beef for venison; common Texas variation.
-**Pressure-cooker version:** cook 75 minutes high pressure; finish on stovetop with masa.
+- **Spicier:** add more chiles de árbol and 2 fresh habaneros.
+- **With more smoke:** double the chipotles.
+- **With venison:** swap beef for venison; common Texas variation.
+- **Pressure-cooker version:** cook 75 minutes high pressure; finish on stovetop with masa.
 
 ## Serving
-In deep bowls with cornbread, raw onion, cheese, jalapeños, sour cream. Cold beer.
+- In deep bowls with cornbread, raw onion, cheese, jalapeños, sour cream. Cold beer.
 
 ## Storage
 - Keeps refrigerated 1 week; flavour deepens.

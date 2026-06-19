@@ -52,13 +52,13 @@ Pastrmajlija (from "pastrma", Macedonian cured meat) is the Macedonian flatbread
 - **Eat with hands:** tear and dip.
 
 ## Variations
-**Pastrmajlija sa jajca:** with eggs (described above).
-**Pastrmajlija od piletina:** with chicken instead of pork.
-**Mini pastrmajlija:** smaller portions for sharing.
-**Vegetarian:** swap meat for grilled vegetables.
+- **Pastrmajlija sa jajca:** with eggs (described above).
+- **Pastrmajlija od piletina:** with chicken instead of pork.
+- **Mini pastrmajlija:** smaller portions for sharing.
+- **Vegetarian:** swap meat for grilled vegetables.
 
 ## Serving
-At the Štip Pastrmajlija Festival (annually) · at Macedonian gostilna · as Macedonian matchday food · at a Macedonian wedding · at home with red wine.
+- At the Štip Pastrmajlija Festival (annually) · at Macedonian gostilna · as Macedonian matchday food · at a Macedonian wedding · at home with red wine.
 
 ## Storage
 Best fresh; reheat in 200°C oven 5 minutes.

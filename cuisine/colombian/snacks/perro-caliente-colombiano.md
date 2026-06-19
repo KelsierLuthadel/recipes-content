@@ -93,15 +93,15 @@ The Colombian perro caliente is the maximalist answer to the American hot dog an
 - **Mess is part of the experience:** trying to eat tidily is a fool's errand.
 
 ## Variations
-**With quail eggs:** add 2 small fried quail eggs on top (the Bogotá-bus-station deluxe version).
-**With papas amarillas:** the crushed potato strings sold in Colombian shops; even crunchier than chips.
-**With pineapple-papaya:** add chopped papaya for tropical lean.
-**With ranchera dressing (a Colombian creamy-spicy):** instead of garlic mayo.
-**With chorizo:** swap the frankfurter for grilled Colombian chorizo for the perro-chorizo variant.
-**With bacon-wrapped hot dog:** wrap each dog in 2 strips of bacon and grill before assembling.
+- **With quail eggs:** add 2 small fried quail eggs on top (the Bogotá-bus-station deluxe version).
+- **With papas amarillas:** the crushed potato strings sold in Colombian shops; even crunchier than chips.
+- **With pineapple-papaya:** add chopped papaya for tropical lean.
+- **With ranchera dressing (a Colombian creamy-spicy):** instead of garlic mayo.
+- **With chorizo:** swap the frankfurter for grilled Colombian chorizo for the perro-chorizo variant.
+- **With bacon-wrapped hot dog:** wrap each dog in 2 strips of bacon and grill before assembling.
 
 ## Serving
-At a street cart in Bogotá at midnight. At a backyard BBQ. At a casual lunch with fries and beer.
+- At a street cart in Bogotá at midnight. At a backyard BBQ. At a casual lunch with fries and beer.
 
 ## Storage
 - Best immediately; assembled hot dogs go soggy within minutes.

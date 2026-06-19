@@ -89,13 +89,13 @@ The Bahamian coconut tart is the country's everyday family-Sunday dessert: a but
 - **Wobble is normal:** the filling should be just set when you take it out (a slight wobble in the centre is fine). It firms up considerably as it cools. Overbaking gives a dry tart.
 
 ## Variations
-**Coconut tart with guava:** spread 2 tablespoons of guava jam over the par-baked pastry before pouring in the coconut filling; gives a pink-and-white layered tart that's properly Bahamian.
-**Toasted coconut version:** toast the grated coconut in a dry pan over medium heat for 3-4 minutes till golden before adding to the filling; gives a deeper nutty flavour.
-**Lime curd coconut tart:** spread 100 g of lime curd over the par-baked pastry; pour the coconut filling over; gives a lime-coconut combination that's properly tropical.
-**Spiced rum tart:** double the nutmeg, add ½ teaspoon of cinnamon and use spiced rum instead of plain; gives a festive Bahamian version for the holidays.
+- **Coconut tart with guava:** spread 2 tablespoons of guava jam over the par-baked pastry before pouring in the coconut filling; gives a pink-and-white layered tart that's properly Bahamian.
+- **Toasted coconut version:** toast the grated coconut in a dry pan over medium heat for 3-4 minutes till golden before adding to the filling; gives a deeper nutty flavour.
+- **Lime curd coconut tart:** spread 100 g of lime curd over the par-baked pastry; pour the coconut filling over; gives a lime-coconut combination that's properly tropical.
+- **Spiced rum tart:** double the nutmeg, add ½ teaspoon of cinnamon and use spiced rum instead of plain; gives a festive Bahamian version for the holidays.
 
 ## Serving
-Wedges at room temperature or slightly warm, often with a scoop of vanilla ice cream or a dollop of whipped cream. A small glass of dark rum or a Bahamian coffee alongside. Properly part of a Sunday afternoon family gathering.
+- Wedges at room temperature or slightly warm, often with a scoop of vanilla ice cream or a dollop of whipped cream. A small glass of dark rum or a Bahamian coffee alongside. Properly part of a Sunday afternoon family gathering.
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 days; or refrigerated 5 days.

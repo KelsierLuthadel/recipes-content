@@ -78,12 +78,12 @@ Mafé is West Africa's great peanut stew: a deep rust-coloured sauce that turns 
 - **Whole chilli for aroma:** Leave intact for a warming background heat. Pierce it only if you want fire.
 
 ## Variations
-**Mafé poulet:** Use chicken thighs on the bone; reduce initial simmer to 25 minutes before adding vegetables.
-**Vegetarian:** Omit the meat. Use vegetable stock and double the cassava and sweet potato. Add chickpeas in stage 4 for protein.
+- **Mafé poulet:** Use chicken thighs on the bone; reduce initial simmer to 25 minutes before adding vegetables.
+- **Vegetarian:** Omit the meat. Use vegetable stock and double the cassava and sweet potato. Add chickpeas in stage 4 for protein.
 
 ## Serving
-Serve with: A heap of plain steamed white rice in the centre of the plate, sauce ladled around.
-Garnish with: A few slices of fresh chilli for those who want extra heat.
+- Serve with: A heap of plain steamed white rice in the centre of the plate, sauce ladled around.
+- Garnish with: A few slices of fresh chilli for those who want extra heat.
 
 ## Storage
 - Improves overnight. Keeps 3 days refrigerated.

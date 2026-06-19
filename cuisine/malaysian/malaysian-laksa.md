@@ -97,12 +97,12 @@ A two-part dish: a deeply concentrated prawn-and-chicken stock built from roaste
 - **Coconut cream vs milk:** Coconut cream gives the broth its glossy richness. Coconut milk works in a pinch but the broth will be thinner.
 
 ## Variations
-**Mixed protein:** Add poached chicken (shredded from the stock thighs), cockles or fish balls alongside the prawns for a more traditional spread.
-**Vegetarian:** Replace the prawn stock with a strong mushroom stock, swap the prawns and dried shrimp for extra tofu puffs and fried tempeh, and use light soy in place of fish sauce.
+- **Mixed protein:** Add poached chicken (shredded from the stock thighs), cockles or fish balls alongside the prawns for a more traditional spread.
+- **Vegetarian:** Replace the prawn stock with a strong mushroom stock, swap the prawns and dried shrimp for extra tofu puffs and fried tempeh, and use light soy in place of fish sauce.
 
 ## Serving
-Serve with: A bowl of fried shallots, sliced fresh chilli and a hard-boiled egg on the side
-Garnish with: A tangle of bean sprouts and a generous wedge of lime
+- Serve with: A bowl of fried shallots, sliced fresh chilli and a hard-boiled egg on the side
+- Garnish with: A tangle of bean sprouts and a generous wedge of lime
 
 ## Storage
 - Broth keeps 3 days refrigerated; store noodles separately so they don't go soft

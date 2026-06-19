@@ -88,7 +88,7 @@ The vegetarian centrepiece of Bengali Sunday lunches and festival meals, the cur
 - **Heat level.** This is a mild curry. The slit green chillies infuse rather than dominate. For more punch, double them or add a pinch more Kashmiri chilli.
 
 ## Serving
-Serve with luchi (Bengali puffed bread), plain steamed basmati rice, or with a simple cholar dal on the side for a vegetarian thali. A spoonful of mango chutney on the rim of the plate is the classic finishing touch.
+- Serve with luchi (Bengali puffed bread), plain steamed basmati rice, or with a simple cholar dal on the side for a vegetarian thali. A spoonful of mango chutney on the rim of the plate is the classic finishing touch.
 
 ## Storage
 - Refrigerate up to 2 days. The paneer firms up slightly in the fridge; a gentle reheat in the gravy softens it again.

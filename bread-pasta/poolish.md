@@ -61,16 +61,16 @@ Poolish is the building block of properly flavoured French bread: a wet pre-ferm
 - **Storage:** Poolish can be refrigerated for up to 3 days before use (fermentation continues very slowly in cold); allow to come to room temperature before mixing into final dough.
 
 ## Variations
-**Extended Fermentation Polenta:** Use cornmeal instead of flour for a corn-flavored preferment (creates interesting flavor in corn bread).
-**Liquid Poolish:** Use all liquid and flour with no salt (as here) for lighter flavor; some bakers add ¼ teaspoon salt to slow fermentation slightly and increase complexity.
-**Cold Fermentation:** Make Poolish as usual, then refrigerate for 8-16 hours instead of fermenting at room temperature; this creates more sour, complex flavor (the cold slows yeast but bacteria continue slowly).
-**Longer Autolyse:** After mixing, let the Poolish rest for 1 hour before final mixing; this develops even more gluten strength.
-**Multiple Poolish:** Some breads use two different Poolish stages made at different times, creating layered complexity.
+- **Extended Fermentation Polenta:** Use cornmeal instead of flour for a corn-flavored preferment (creates interesting flavor in corn bread).
+- **Liquid Poolish:** Use all liquid and flour with no salt (as here) for lighter flavor; some bakers add ¼ teaspoon salt to slow fermentation slightly and increase complexity.
+- **Cold Fermentation:** Make Poolish as usual, then refrigerate for 8-16 hours instead of fermenting at room temperature; this creates more sour, complex flavor (the cold slows yeast but bacteria continue slowly).
+- **Longer Autolyse:** After mixing, let the Poolish rest for 1 hour before final mixing; this develops even more gluten strength.
+- **Multiple Poolish:** Some breads use two different Poolish stages made at different times, creating layered complexity.
 
 ## Serving
-Use in: Baguettes, ciabatta, focaccia, high-hydration artisan breads
-Percentage: Typically 20-40% of total dough weight
-Effect: Adds depth, slight tartness, better crust development, improved fermentation
+- Use in: Baguettes, ciabatta, focaccia, high-hydration artisan breads
+- Percentage: Typically 20-40% of total dough weight
+- Effect: Adds depth, slight tartness, better crust development, improved fermentation
 
 ## Storage
 - Poolish should be used immediately after fermentation (when bubbly and active)

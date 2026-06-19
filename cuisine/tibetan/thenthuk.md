@@ -94,11 +94,11 @@ Thenthuk is Tibet's pulled-noodle soup, the warming winter bowl where rough flat
 - **Sichuan peppercorn:** Black pepper is not a substitute; the mild numbing fragrance is part of Tibetan flavour.
 
 ## Variations
-**Vegetarian thenthuk:** Skip the beef; use vegetable stock, add 150 g cubed firm tofu or 200 g mushrooms with the onion, and a teaspoon of butter at the end for body.
-**Sour thenthuk:** Add a splash of vinegar and a spoon of chilli oil to each bowl at the table, a popular Lhasa restaurant style.
+- **Vegetarian thenthuk:** Skip the beef; use vegetable stock, add 150 g cubed firm tofu or 200 g mushrooms with the onion, and a teaspoon of butter at the end for body.
+- **Sour thenthuk:** Add a splash of vinegar and a spoon of chilli oil to each bowl at the table, a popular Lhasa restaurant style.
 
 ## Serving
-Serve with: sepen (Tibetan chilli sauce) or fresh chilli, lemon wedges, and Tibetan butter tea on the side.
+- Serve with: sepen (Tibetan chilli sauce) or fresh chilli, lemon wedges, and Tibetan butter tea on the side.
 
 ## Storage
 - Broth keeps 3 days refrigerated and freezes 2 months without the noodles.

@@ -79,7 +79,7 @@ Käsekuchen in Switzerland means the savoury cheese tart, not the sweet German c
 - **Pastry must be cold going into the oven:** Otherwise the butter melts before the structure sets and the sides slump. Chill thoroughly between rolling and blind-baking.
 
 ## Serving
-Serve warm in wedges with a green salad (vinaigrette, no creamy dressing - the tart is rich enough). A glass of dry Chasselas or a light Pinot. Or cold the next day as a packed lunch.
+- Serve warm in wedges with a green salad (vinaigrette, no creamy dressing - the tart is rich enough). A glass of dry Chasselas or a light Pinot. Or cold the next day as a packed lunch.
 
 ## Storage
 - Refrigerates 3 days; eat cold or reheat in a 160°C oven 10 minutes to crisp the pastry.

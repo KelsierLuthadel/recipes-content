@@ -51,7 +51,7 @@ Hmiss (sometimes written hmis) is the Algerian roasted-pepper salad, present on 
 - **Make ahead.** Hmiss is better after a night in the fridge; the cumin and garlic mellow into the oil.
 
 ## Serving
-Serve cool or at room temperature, with warm khobz or fresh baguette for scooping. A reliable side for grilled lamb, méchoui, or any tajine, and an essential dish on a Ramadan iftar table.
+- Serve cool or at room temperature, with warm khobz or fresh baguette for scooping. A reliable side for grilled lamb, méchoui, or any tajine, and an essential dish on a Ramadan iftar table.
 
 ## Storage
 - Keeps 4 days refrigerated in a sealed jar under a film of olive oil

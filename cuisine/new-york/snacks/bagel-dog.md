@@ -97,13 +97,13 @@ The bagel dog is a New York City fusion creation that bridges the city's two mos
 - **220°C oven:** high heat for proper bagel crust.
 
 ## Variations
-**Sesame-only bagel dog:** swap everything for sesame seeds only.
-**Cinnamon-raisin bagel dog (sweet-savoury):** swap dough for sweetened bagel dough with cinnamon and raisins. Sounds weird; works at brunch.
-**Cheese-stuffed:** add a strip of cheddar tucked between the dog and the dough before wrapping.
-**Pretzel dog version:** swap the bagel dough for soft pretzel dough; alkaline-bath in baking-soda water instead of malt water.
+- **Sesame-only bagel dog:** swap everything for sesame seeds only.
+- **Cinnamon-raisin bagel dog (sweet-savoury):** swap dough for sweetened bagel dough with cinnamon and raisins. Sounds weird; works at brunch.
+- **Cheese-stuffed:** add a strip of cheddar tucked between the dog and the dough before wrapping.
+- **Pretzel dog version:** swap the bagel dough for soft pretzel dough; alkaline-bath in baking-soda water instead of malt water.
 
 ## Serving
-At a NYC bagel shop. At a deli counter. At a brunch table. With mustard, pickle, and coffee.
+- At a NYC bagel shop. At a deli counter. At a brunch table. With mustard, pickle, and coffee.
 
 ## Storage
 - Best fresh; the everything seasoning loses crunch as they sit.

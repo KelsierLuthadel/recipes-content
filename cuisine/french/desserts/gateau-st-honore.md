@@ -64,7 +64,7 @@ As soon as it is cooked, slide it onto a wire rack with the aid of a palette kni
 - Final assembly should happen as close to serving as possible; the cocoa dust absorbs moisture from the cream and becomes muddy rather than velvety if applied too far ahead
 
 ## Serving
-Present the St. Honoré on a decorative serving plate and bring to the table whole for drama, then carefully cut into wedges at the table. Each slice shows the beautiful architectural layers. Serve immediately for maximum crispness and visual impact.
+- Present the St. Honoré on a decorative serving plate and bring to the table whole for drama, then carefully cut into wedges at the table. Each slice shows the beautiful architectural layers. Serve immediately for maximum crispness and visual impact.
 
 ## Storage
 All components can be prepared ahead: puff pastry base baked 1 day ahead, choux elements baked several hours ahead. Assemble no more than 1-2 hours before serving; beyond that, the crisp choux begins to soften from the moisture in the cream and the cocoa dust becomes damp. This is emphatically a dessert to execute near service time.

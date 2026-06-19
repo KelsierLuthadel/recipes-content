@@ -28,7 +28,7 @@ The hot sharp spice blend for the British curry-house vindaloo: a heavy hand of 
 - Increase chilli powder for additional heat.
 
 ## Serving
-Use 2-3 tsp in marinades or curries.
+- Use 2-3 tsp in marinades or curries.
 
 ## Storage
 - Store in an airtight container in a cool, dry place for up to 6 months

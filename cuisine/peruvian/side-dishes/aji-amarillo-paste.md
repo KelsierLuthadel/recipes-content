@@ -90,16 +90,16 @@ Aji amarillo paste is Peru's most identity-defining ingredient: the yellow-orang
 - **Substitute notes:** if you can't find aji amarillo at all, the closest commercial substitute is jarred yellow Hungarian or Caribbean Scotch bonnet paste + ground turmeric for colour, but it's not the same; aji amarillo is uniquely Peruvian.
 
 ## Variations
-**Rocoto paste:** the same technique with rocoto chillies (the deep-red Andean apple chilli): hotter, sharper, more vegetal.
-**Aji panca paste:** the traditional anticucho marinade base, sweeter, smokier dried red chilli; same technique with the dried pods.
-**Aji amarillo with citrus zest:** add the zest of 1 lemon and 1 lime before blending, the modern Lima restaurant variant.
-**Smoked aji amarillo paste:** smoke the chillies on a charcoal grill instead of dry-pan blistering, the modern smoky variant.
-**Vegan / vegetarian-friendly:** the recipe is already vegan; no animal products.
-**Aji amarillo huacatay paste:** add a small handful of fresh huacatay (Peruvian black mint) before blending, the herbal variant.
-**Aji amarillo-and-mango paste:** add a ripe mango cheek to the blend, the modern fruit-forward variant.
+- **Rocoto paste:** the same technique with rocoto chillies (the deep-red Andean apple chilli): hotter, sharper, more vegetal.
+- **Aji panca paste:** the traditional anticucho marinade base, sweeter, smokier dried red chilli; same technique with the dried pods.
+- **Aji amarillo with citrus zest:** add the zest of 1 lemon and 1 lime before blending, the modern Lima restaurant variant.
+- **Smoked aji amarillo paste:** smoke the chillies on a charcoal grill instead of dry-pan blistering, the modern smoky variant.
+- **Vegan / vegetarian-friendly:** the recipe is already vegan; no animal products.
+- **Aji amarillo huacatay paste:** add a small handful of fresh huacatay (Peruvian black mint) before blending, the herbal variant.
+- **Aji amarillo-and-mango paste:** add a ripe mango cheek to the blend, the modern fruit-forward variant.
 
 ## Serving
-As the foundation ingredient for any Peruvian dish · pre-made in every Peruvian household pantry · sold in 250 g jars at every Peruvian shop and in Latin American specialty stores worldwide · in a small dish on the Peruvian table as a condiment for grilled meat, fish or boiled potatoes.
+- As the foundation ingredient for any Peruvian dish · pre-made in every Peruvian household pantry · sold in 250 g jars at every Peruvian shop and in Latin American specialty stores worldwide · in a small dish on the Peruvian table as a condiment for grilled meat, fish or boiled potatoes.
 
 ## Storage
 - Refrigerates 2-3 weeks in a sealed jar with a thin layer of oil on top.

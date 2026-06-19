@@ -60,14 +60,14 @@ Sorrel is the Caribbean's Christmas drink, brewed in every Grenadian kitchen fro
 - **Skip the sieve squeeze:** pressing too hard releases tannins that turn the drink bitter.
 
 ## Variations
-**With pineapple peel:** add a strip of pineapple skin during the steep for a fruitier note.
-**With star anise:** add 2 star anise to the spices for a deeper warmth.
-**Lighter version:** halve the sugar and serve as a cold tea.
-**Concentrate:** steep with half the water, dilute to taste when pouring.
-**Fermented (Old Year's Night version):** sweeten heavier, seal in a jar with a piece of ginger, leave 4 days at room temperature; develops a slight fizz.
+- **With pineapple peel:** add a strip of pineapple skin during the steep for a fruitier note.
+- **With star anise:** add 2 star anise to the spices for a deeper warmth.
+- **Lighter version:** halve the sugar and serve as a cold tea.
+- **Concentrate:** steep with half the water, dilute to taste when pouring.
+- **Fermented (Old Year's Night version):** sweeten heavier, seal in a jar with a piece of ginger, leave 4 days at room temperature; develops a slight fizz.
 
 ## Serving
-At Christmas lunch · on Boxing Day · poured straight from the fridge at the December lime · with a slice of black cake on the side · in a tall glass with a wedge of lime.
+- At Christmas lunch · on Boxing Day · poured straight from the fridge at the December lime · with a slice of black cake on the side · in a tall glass with a wedge of lime.
 
 ## Storage
 - Keeps 2 weeks refrigerated in a sealed bottle.

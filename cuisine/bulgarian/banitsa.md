@@ -61,7 +61,7 @@ Banitsa is the pastry that wakes Bulgaria, a coil of thin filo sheets layered wi
 - **Tutmanik:** the rolled-bread cousin, made with leavened dough instead of filo.
 
 ## Serving
-Warm for breakfast with cold ayran · cut into wedges for an afternoon snack with sweet tea · the centre of the New Year table · with shopska salata and a glass of rakia for a light supper · room temperature in a picnic basket.
+- Warm for breakfast with cold ayran · cut into wedges for an afternoon snack with sweet tea · the centre of the New Year table · with shopska salata and a glass of rakia for a light supper · room temperature in a picnic basket.
 
 ## Storage
 - Keeps 2 days at room temperature wrapped in a tea towel.

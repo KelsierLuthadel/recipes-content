@@ -68,15 +68,15 @@ Tattie scones (also called potato scones, or just "potato cakes" in some Scottis
 - **Use immediately or re-toast:** fresh tattie scones are best straight off the griddle. Day-old ones revive nicely in a toaster or under the grill.
 
 ## Variations
-**With cheese:** stir 100 g grated mature Cheddar into the dough, the cheesy variant.
-**With herbs:** stir in 2 tablespoons chopped chives or finely chopped wild garlic, herbed version.
-**Sweet potato tattie scones:** swap half the potato for cold mashed sweet potato, modern variant.
-**Stuffed tattie scones (Forfar-style):** roll thinner, place a tablespoon of cooked black pudding or haggis in the middle, fold over, and griddle, handheld snack version.
-**Tattie-scone breakfast roll:** split a fried tattie scone, butter it, layer with bacon and a fried egg, Scotland's answer to a bacon sarnie.
-**Smaller round scones:** roll thinner, cut with a 6 cm cutter for canapé-sized rounds.
+- **With cheese:** stir 100 g grated mature Cheddar into the dough, the cheesy variant.
+- **With herbs:** stir in 2 tablespoons chopped chives or finely chopped wild garlic, herbed version.
+- **Sweet potato tattie scones:** swap half the potato for cold mashed sweet potato, modern variant.
+- **Stuffed tattie scones (Forfar-style):** roll thinner, place a tablespoon of cooked black pudding or haggis in the middle, fold over, and griddle, handheld snack version.
+- **Tattie-scone breakfast roll:** split a fried tattie scone, butter it, layer with bacon and a fried egg, Scotland's answer to a bacon sarnie.
+- **Smaller round scones:** roll thinner, cut with a 6 cm cutter for canapé-sized rounds.
 
 ## Serving
-On a Scottish full breakfast plate (the traditional setting, fry briefly in the bacon fat to brown) · at a Scottish high tea with butter and jam · alongside a Sunday roast as a starchy side · split and stuffed with cheese and Branston pickle for a Scottish school lunch box · at a Scottish bed-and-breakfast on the Sunday-morning trolley.
+- On a Scottish full breakfast plate (the traditional setting, fry briefly in the bacon fat to brown) · at a Scottish high tea with butter and jam · alongside a Sunday roast as a starchy side · split and stuffed with cheese and Branston pickle for a Scottish school lunch box · at a Scottish bed-and-breakfast on the Sunday-morning trolley.
 
 ## Storage
 - Eaten same day, best straight from the griddle.

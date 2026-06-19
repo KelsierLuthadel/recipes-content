@@ -69,17 +69,17 @@ This is a minimal-ingredient chutney that relies on quality ingredients and prop
 - **Fresh Garlic:** The raw garlic should remain noticeably pungent; this is intentional and provides sharpness.
 
 ## Variations
-**Milder Heat:** Remove more seeds from the chillies, or use 15 chillies instead of 20.
-**Extra Heat:** Add ¼ teaspoon cayenne powder to push the spice level further.
-**With Coriander Seed:** Toast ¼ teaspoon coriander seeds with the chillies for additional aromatic depth.
-**Add Ginger:** Include 1 teaspoon ginger paste for warmth and complexity.
-**Smoother Texture:** Blend longer for a completely smooth, sauce-like consistency.
+- **Milder Heat:** Remove more seeds from the chillies, or use 15 chillies instead of 20.
+- **Extra Heat:** Add ¼ teaspoon cayenne powder to push the spice level further.
+- **With Coriander Seed:** Toast ¼ teaspoon coriander seeds with the chillies for additional aromatic depth.
+- **Add Ginger:** Include 1 teaspoon ginger paste for warmth and complexity.
+- **Smoother Texture:** Blend longer for a completely smooth, sauce-like consistency.
 
 ## Serving
-Serve with: Pakora, samosa, bhajias, chaat, curries
-Amount: 1-2 tablespoons per serving
-Temperature: Serve at room temperature or chilled
-Garnish: Fresh coriander leaves (optional)
+- Serve with: Pakora, samosa, bhajias, chaat, curries
+- Amount: 1-2 tablespoons per serving
+- Temperature: Serve at room temperature or chilled
+- Garnish: Fresh coriander leaves (optional)
 
 ## Storage
 - Refrigerate in a covered glass jar for up to 5 days

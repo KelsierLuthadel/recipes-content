@@ -114,13 +114,13 @@ Posta negra (literally "black roast") is Cartagena's signature beef dish and one
 - **Slice across the grain:** for tender slices.
 
 ## Variations
-**With prunes:** add 100 g of pitted prunes to the braise; gives a sweeter fruitier version.
-**Without cola (purist):** swap cola for 500 ml of stock + 100 g more panela + 50 ml vinegar; less traditional but works.
-**Pressure-cooker version:** marinate as in the recipe; brown; pressure-cook 45 minutes; reduce sauce. Saves 2 hours.
-**With dark beer instead of cola:** swap cola for dark beer (Costeñita or stout); gives a more bitter savoury version.
+- **With prunes:** add 100 g of pitted prunes to the braise; gives a sweeter fruitier version.
+- **Without cola (purist):** swap cola for 500 ml of stock + 100 g more panela + 50 ml vinegar; less traditional but works.
+- **Pressure-cooker version:** marinate as in the recipe; brown; pressure-cook 45 minutes; reduce sauce. Saves 2 hours.
+- **With dark beer instead of cola:** swap cola for dark beer (Costeñita or stout); gives a more bitter savoury version.
 
 ## Serving
-On a wide platter sliced thick, with the glossy sauce poured over. Arroz con coco, patacones, salad, avocado. Drink: Club Colombia beer, fresh limonada, or aguardiente.
+- On a wide platter sliced thick, with the glossy sauce poured over. Arroz con coco, patacones, salad, avocado. Drink: Club Colombia beer, fresh limonada, or aguardiente.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

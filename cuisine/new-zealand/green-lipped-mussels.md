@@ -73,7 +73,7 @@ The green-lipped mussel (Perna canaliculus) is endemic to New Zealand - a large,
 - **Cook open, eat closed:** After cooking, the shells should be open. Any that remained closed during cooking should be discarded - they were dead going in.
 
 ## Serving
-Serve as a starter or main with crusty bread to mop the broth, and a glass of the same Marlborough Sauvignon Blanc you cooked with. For moules-frites, add a bowl of hot crisp chips on the side and a mayonnaise dipping bowl.
+- Serve as a starter or main with crusty bread to mop the broth, and a glass of the same Marlborough Sauvignon Blanc you cooked with. For moules-frites, add a bowl of hot crisp chips on the side and a mayonnaise dipping bowl.
 
 ## Storage
 - Best eaten fresh; mussels go bad fast.

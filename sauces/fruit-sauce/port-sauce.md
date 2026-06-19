@@ -51,7 +51,7 @@ Port sauce is the building block for pan-fried game and venison: a glossy ruby r
 - **Mounting butter:** The final butter enrichment creates silky body; do not skip this stage.
 
 ## Serving
-Serve warm alongside pan-fried pheasant breasts, venison cutlets, or other game meats.
+- Serve warm alongside pan-fried pheasant breasts, venison cutlets, or other game meats.
 
 ## Storage
 - Best eaten immediately or within a few hours of making.

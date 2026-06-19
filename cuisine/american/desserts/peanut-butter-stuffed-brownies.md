@@ -77,7 +77,7 @@ Peanut-butter-stuffed brownies are the American dessert that takes the tradition
 - **Bigger pan**: a 23 cm tin gives thinner brownies with less PB-to-brownie ratio per square. Reduce the bake time to 26-28 minutes.
 
 ## Serving
-Cold from the fridge, with a glass of cold milk or a strong black coffee. Warm slightly in the microwave (10 seconds) to revive the peanut butter to molten, the molten serve is decadent.
+- Cold from the fridge, with a glass of cold milk or a strong black coffee. Warm slightly in the microwave (10 seconds) to revive the peanut butter to molten, the molten serve is decadent.
 
 ## Storage
 - In an airtight container in the fridge for up to 5 days.

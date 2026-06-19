@@ -106,9 +106,9 @@ Chicken rezala is a Mughlai dish associated with Kolkata's Muslim-quarter restau
 ---
 
 ## Serving
-Pair with plain basmati or a saffron-infused pilau, and a piece of buttery naan or paratha. Pickle and chutney are out of character here, let the floral, cashew-led flavours speak. A simple cucumber salad with a sprinkle of black salt makes a clean side.
+- Pair with plain basmati or a saffron-infused pilau, and a piece of buttery naan or paratha. Pickle and chutney are out of character here, let the floral, cashew-led flavours speak. A simple cucumber salad with a sprinkle of black salt makes a clean side.
 
----
+- ---
 
 ## Storage
 Keeps 2 days in the fridge in a sealed container. The yoghurt-based sauce thickens noticeably overnight. Reheat gently in a pan with a splash of water rather than the microwave to keep the dairy smooth, high heat or rapid reheating can split the yoghurt.

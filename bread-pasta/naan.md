@@ -95,17 +95,17 @@ Naan is the building block of north Indian, Kashmiri and Balti restaurant cookin
 - **Seasoning:** Nigella seeds are traditional but optional; sesame seeds are essential for appearance and flavor.
 
 ## Variations
-**Garlic Naan:** Brush the second side with ghee mixed with minced garlic and fresh coriander before cooking.
-**Herb Naan:** Add 1 tablespoon finely chopped fresh coriander or mint to the dough before resting.
-**Spicy Naan:** Add ½ teaspoon chilli powder to the dry ingredients for heat.
-**Stuffed Naan:** Before rolling, place a small amount of paneer cheese, potatoes, or minced meat in the center, fold the edges over, and flatten to seal.
-**Peshwari Naan:** Brush with ghee mixed with ground coconut and sultanas before cooking.
+- **Garlic Naan:** Brush the second side with ghee mixed with minced garlic and fresh coriander before cooking.
+- **Herb Naan:** Add 1 tablespoon finely chopped fresh coriander or mint to the dough before resting.
+- **Spicy Naan:** Add ½ teaspoon chilli powder to the dry ingredients for heat.
+- **Stuffed Naan:** Before rolling, place a small amount of paneer cheese, potatoes, or minced meat in the center, fold the edges over, and flatten to seal.
+- **Peshwari Naan:** Brush with ghee mixed with ground coconut and sultanas before cooking.
 
 ## Serving
-Serve: Immediately, puffed and hot from the grill
-With: Any curry, tandoori proteins, chutneys, yoghurt dips
-Garnish: Fresh coriander, lime wedges
-Vessel: Serve wrapped in cloth to maintain heat
+- Serve: Immediately, puffed and hot from the grill
+- With: Any curry, tandoori proteins, chutneys, yoghurt dips
+- Garnish: Fresh coriander, lime wedges
+- Vessel: Serve wrapped in cloth to maintain heat
 
 ## Storage
 - Best served fresh from the grill

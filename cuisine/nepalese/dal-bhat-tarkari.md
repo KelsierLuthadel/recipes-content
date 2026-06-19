@@ -111,7 +111,7 @@ This recipe gives all three components for one full plate.
 - **Khichdi version**: cook the rice and dal together for a simpler one-pot meal.
 
 ## Serving
-The complete plate has dal, rice, tarkari, achaar, and ideally a small piece of meat or curd. Tea (chiya) on the side; cold water in summer.
+- The complete plate has dal, rice, tarkari, achaar, and ideally a small piece of meat or curd. Tea (chiya) on the side; cold water in summer.
 
 ## Storage
 - Dal and tarkari refrigerate 3 days each.

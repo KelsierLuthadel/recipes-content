@@ -64,9 +64,9 @@ BIR chicken tikka masala is the dish the British restaurant menu invented, almos
 ---
 
 ## Serving
-Rice, naan
+- Rice, naan
 
----
+- ---
 
 ## Storage
 3 days fridge

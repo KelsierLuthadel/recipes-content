@@ -61,7 +61,7 @@ Switzerland built the modern chocolate bar, and the Swiss home hot chocolate is 
 - **Salt:** A pinch is non-optional. It makes the chocolate taste more chocolaty by suppressing bitterness perception.
 
 ## Serving
-Serve in winter, ideally after coming in from the cold. With a slice of Engadiner Nusstorte or a few Basler Läckerli alongside. Or as a dessert in its own right after a heavy fondue meal.
+- Serve in winter, ideally after coming in from the cold. With a slice of Engadiner Nusstorte or a few Basler Läckerli alongside. Or as a dessert in its own right after a heavy fondue meal.
 
 ## Storage
 - Best fresh; the cocoa solids separate as it sits.

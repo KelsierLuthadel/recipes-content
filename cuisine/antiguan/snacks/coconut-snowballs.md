@@ -59,7 +59,7 @@ For the snowballs:
 - **Stout floats:** Drizzle a tablespoon of Guinness or stout on top in place of the milk for the adult version.
 
 ## Serving
-Eat at once on a hot day · at the beach in a paper cup with a paper straw · with a piece of sugar cake to chew between sips · with a slice of cold mango on the side.
+- Eat at once on a hot day · at the beach in a paper cup with a paper straw · with a piece of sugar cake to chew between sips · with a slice of cold mango on the side.
 
 ## Storage
 - Coconut syrup keeps 2 weeks refrigerated in a sealed bottle

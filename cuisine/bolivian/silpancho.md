@@ -73,7 +73,7 @@ For the salsa:
 - Trancapecho is a sandwich version: silpancho stuffed into a bread roll
 
 ## Serving
-Serve hot · one slice per plate · the salsa always around the rim · llajwa offered alongside · cold drink to follow
+- Serve hot · one slice per plate · the salsa always around the rim · llajwa offered alongside · cold drink to follow
 
 ## Storage
 - Cooked beef keeps 2 days refrigerated; the breading softens

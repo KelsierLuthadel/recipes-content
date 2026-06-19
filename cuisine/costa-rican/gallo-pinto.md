@@ -56,7 +56,7 @@ Gallo pinto means "spotted rooster", a reference to the speckled look of black b
 - **Pinto guanacasteco:** Skip the Salsa Lizano and use only salt and cumin, the dry-side Guanacaste province version.
 
 ## Serving
-Serve hot with scrambled or fried eggs · soft white cheese (queso fresco) · sour cream (natilla) · fried plantain slices · a warm corn tortilla · strong black coffee
+- Serve hot with scrambled or fried eggs · soft white cheese (queso fresco) · sour cream (natilla) · fried plantain slices · a warm corn tortilla · strong black coffee
 
 ## Storage
 - Leftover gallo pinto keeps 3 days refrigerated

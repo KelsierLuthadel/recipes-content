@@ -112,16 +112,16 @@ Vatapá is one of Brazil's most opulent and most distinctly African dishes: a Ba
 - **Spice level is up to you:** Bahian vatapá ranges from mild to fiery. Add fresh malagueta chillies (or Scotch bonnets) to taste.
 
 ## Variations
-**Vatapá de frango (chicken vatapá):** swap prawns for cubed chicken; cook chicken 15 minutes in the cream before serving.
-**Vatapá de bacalhau (cod):** swap prawns for salt cod (desalted overnight): Portuguese-Brazilian crossover.
-**Vatapá nordestino (northeastern variant):** add 100 g grated coconut to the paste; gives extra coconut depth.
-**Acarajé vatapá filling (street food):** smaller portions, served inside the fritters. The acarajé is the bigger production; the vatapá is the filling.
-**Vatapá com siri (with crab):** swap prawns for crab claws or picked crab meat.
-**Without bread (low-carb variant):** swap the bread for 200 g cooked cauliflower (mashed); the texture is different but the dish works.
-**Vatapá pernambucano (Pernambuco variant):** uses tomato in the base; slightly redder than Bahian version.
+- **Vatapá de frango (chicken vatapá):** swap prawns for cubed chicken; cook chicken 15 minutes in the cream before serving.
+- **Vatapá de bacalhau (cod):** swap prawns for salt cod (desalted overnight): Portuguese-Brazilian crossover.
+- **Vatapá nordestino (northeastern variant):** add 100 g grated coconut to the paste; gives extra coconut depth.
+- **Acarajé vatapá filling (street food):** smaller portions, served inside the fritters. The acarajé is the bigger production; the vatapá is the filling.
+- **Vatapá com siri (with crab):** swap prawns for crab claws or picked crab meat.
+- **Without bread (low-carb variant):** swap the bread for 200 g cooked cauliflower (mashed); the texture is different but the dish works.
+- **Vatapá pernambucano (Pernambuco variant):** uses tomato in the base; slightly redder than Bahian version.
 
 ## Serving
-At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Bahian wedding banquet · at a Brazilian Carnival celebration · at a Bahian street-food market with acarajé · at a Brazilian Sunday family lunch in the north-east · at a Brazilian special-occasion dinner abroad as a stunning showpiece · at home with rice, farofa, lime, and cold beer.
+- At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Bahian wedding banquet · at a Brazilian Carnival celebration · at a Bahian street-food market with acarajé · at a Brazilian Sunday family lunch in the north-east · at a Brazilian special-occasion dinner abroad as a stunning showpiece · at home with rice, farofa, lime, and cold beer.
 
 ## Storage
 - Refrigerates 2 days; the flavour deepens overnight.

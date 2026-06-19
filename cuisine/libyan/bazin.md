@@ -62,7 +62,7 @@ Bazin is the dish that makes a Libyan kitchen feel Libyan. A stiff dough of barl
 - **Why the dome:** Shaping into a dome maximises the dough's surface for dipping while letting it stay tender inside. A flat round dries out faster.
 
 ## Serving
-Serve at the table on the platter, family-style. Plain mint tea afterwards. No bread - the bazin is the bread.
+- Serve at the table on the platter, family-style. Plain mint tea afterwards. No bread - the bazin is the bread.
 
 ## Storage
 - Best the same day. Leftover dough hardens quickly; leftover sauce keeps 3 days refrigerated.

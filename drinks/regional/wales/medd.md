@@ -87,14 +87,14 @@ Medd is the Welsh honey wine, made for over fifteen hundred years in Welsh mead-
 - **Airlock bubbles slowing means the yeast is finishing:** taste a sample at week 6; it should be dry. If still sweet, leave another 2 weeks.
 
 ## Variations
-**Bragawd (spiced mead):** add 1 teaspoon each of clove, allspice, cinnamon to the must (the medieval Welsh "bragget").
-**Melomel (fruit mead):** add 1 kg fresh raspberries or blackberries to the secondary fermenter (Welsh fruit mead).
-**Sweet medd:** stop the fermentation early by chilling and adding potassium sorbate at week 4; back-sweeten with 100 g honey before bottling.
-**Hot medd (mulled):** warm a glass of medd with a clove-stuck orange slice and a cinnamon stick; serve hot in winter.
-**Wedding medd:** add 1 tablespoon rose-water and 1 strip orange zest to the must (the Welsh wedding tradition).
+- **Bragawd (spiced mead):** add 1 teaspoon each of clove, allspice, cinnamon to the must (the medieval Welsh "bragget").
+- **Melomel (fruit mead):** add 1 kg fresh raspberries or blackberries to the secondary fermenter (Welsh fruit mead).
+- **Sweet medd:** stop the fermentation early by chilling and adding potassium sorbate at week 4; back-sweeten with 100 g honey before bottling.
+- **Hot medd (mulled):** warm a glass of medd with a clove-stuck orange slice and a cinnamon stick; serve hot in winter.
+- **Wedding medd:** add 1 tablespoon rose-water and 1 strip orange zest to the must (the Welsh wedding tradition).
 
 ## Serving
-At a Welsh wedding (the honeymoon tradition) · at a Christmas Welsh chapel-tea · on Saint David's Day (March 1) · at a Welsh bardic gathering (the Eisteddfod) · as a digestif after Welsh lamb · with bara brith and butter at teatime.
+- At a Welsh wedding (the honeymoon tradition) · at a Christmas Welsh chapel-tea · on Saint David's Day (March 1) · at a Welsh bardic gathering (the Eisteddfod) · as a digestif after Welsh lamb · with bara brith and butter at teatime.
 
 ## Storage
 - Bottled medd matures another 5 years in a cool dark cupboard.

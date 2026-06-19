@@ -54,13 +54,13 @@ Selsko meso (literally "village meat") is one of Macedonia's most beloved restau
 - **Eat with bread:** for the sauce.
 
 ## Variations
-**With smoked sausage:** add Macedonian klobasica.
-**With cream:** finish with 100 ml sour cream, modern variant.
-**Chicken selsko meso:** swap pork for chicken thighs.
-**With dumplings:** poach small dumplings in the sauce.
+- **With smoked sausage:** add Macedonian klobasica.
+- **With cream:** finish with 100 ml sour cream, modern variant.
+- **Chicken selsko meso:** swap pork for chicken thighs.
+- **With dumplings:** poach small dumplings in the sauce.
 
 ## Serving
-At a Macedonian gostilna (traditional) · at a Macedonian winter Sunday lunch · at home as a hearty family supper.
+- At a Macedonian gostilna (traditional) · at a Macedonian winter Sunday lunch · at home as a hearty family supper.
 
 ## Storage
 Refrigerates 4 days; flavour improves. Freezes 3 months.

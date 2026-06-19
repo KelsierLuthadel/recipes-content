@@ -81,7 +81,7 @@
 - **Indoor version:** a heavy ridged cast-iron pan over high heat works if no charcoal is available; you lose the smoke but keep the char.
 
 ## Serving
-With somun · chopped raw onion · kajmak · ajvar · pickled feferoni chillies · a glass of cold yoghurt or a small rakija
+- With somun · chopped raw onion · kajmak · ajvar · pickled feferoni chillies · a glass of cold yoghurt or a small rakija
 
 ## Storage
 - Raw kneaded meat keeps 2 days refrigerated; shape just before grilling.

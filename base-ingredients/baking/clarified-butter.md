@@ -48,13 +48,13 @@ Clarified butter is the building block for hollandaise, béarnaise and any cooki
 - **Ghee vs. Clarified Butter:** Ghee is clarified butter cooked longer until all water evaporates and milk solids brown slightly, adding nutty flavor.
 
 ## Variations
-**Ghee (Indian Clarified Butter):** Continue heating after clarification until milk solids brown lightly, about 2-3 minutes more.
-**Herbed Clarified Butter:** Infuse with thyme, rosemary, or bay leaf during the initial melting.
+- **Ghee (Indian Clarified Butter):** Continue heating after clarification until milk solids brown lightly, about 2-3 minutes more.
+- **Herbed Clarified Butter:** Infuse with thyme, rosemary, or bay leaf during the initial melting.
 
 ## Serving
-Use for: Hollandaise sauce, béarnaise sauce, high-heat sautéing, cooking proteins, dipping sauce for lobster
-Temperature: Warm or room temperature
-Amount: As needed per recipe
+- Use for: Hollandaise sauce, béarnaise sauce, high-heat sautéing, cooking proteins, dipping sauce for lobster
+- Temperature: Warm or room temperature
+- Amount: As needed per recipe
 
 ## Storage
 - Refrigerate in a glass jar for up to 4 weeks

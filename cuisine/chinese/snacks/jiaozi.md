@@ -77,7 +77,7 @@ Jiaozi are the dumplings every Chinese family makes together at the New Year, li
 - Frozen dumplings keep beautifully. Lay them flat-spaced on a floured tray, freeze until firm (about an hour), then bag. Cook from frozen, add an extra cold-water cycle in the boil.
 
 ## Serving
-On a wide platter, pointed ends up like a tray of ingots, with the dipping sauce in small individual bowls. Eaten on the eve of Lunar New Year, or any time you want a project that takes an afternoon and feeds eight.
+- On a wide platter, pointed ends up like a tray of ingots, with the dipping sauce in small individual bowls. Eaten on the eve of Lunar New Year, or any time you want a project that takes an afternoon and feeds eight.
 
 ## Storage
 Freeze raw, as above, up to 3 months. Cooked dumplings don't reheat well, the wrappers go gummy. Cook in batches.

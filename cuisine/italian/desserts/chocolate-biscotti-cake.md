@@ -45,7 +45,7 @@ A no-bake chocolate cake that comes together in the time it takes the kettle to 
 - The chocolate syrup glaze must be slightly warm (not hot, which would be too runny) to flow evenly and set to a shiny finish
 
 ## Serving
-Slice the chilled cake with a sharp knife dipped in hot water (wipe between cuts) to reveal the attractive interior. Serve at room temperature or lightly chilled. The rich chocolate flavor and interesting texture make this elegant enough for formal dinner parties.
+- Slice the chilled cake with a sharp knife dipped in hot water (wipe between cuts) to reveal the attractive interior. Serve at room temperature or lightly chilled. The rich chocolate flavor and interesting texture make this elegant enough for formal dinner parties.
 
 ## Storage
 The assembled cake can be refrigerated for up to 3 days in an airtight container; the flavors mature and integrate beautifully over this time. Do not freeze as the biscotti absorbs moisture and the texture changes. Remove from refrigerator 20-30 minutes before serving to allow chocolate to soften slightly.

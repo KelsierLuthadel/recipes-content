@@ -67,12 +67,12 @@ Sticky rice is the most identity-defining Lao staple, so central to the culture 
 - **Hand-eating is traditional:** chopsticks or spoons are wrong. Pull a small ball with the fingers, roll, dip.
 
 ## Variations
-**Coconut sticky rice (for desserts):** add 200 ml of coconut milk + 2 tablespoons sugar to the cooked rice; let absorb 10 minutes. For mango sticky rice.
-**Black sticky rice:** swap half the white sticky rice for black sticky rice; soak and steam together; the Lao Northern variant.
-**Smaller portion:** halve the ingredients for 3-4 diners.
+- **Coconut sticky rice (for desserts):** add 200 ml of coconut milk + 2 tablespoons sugar to the cooked rice; let absorb 10 minutes. For mango sticky rice.
+- **Black sticky rice:** swap half the white sticky rice for black sticky rice; soak and steam together; the Lao Northern variant.
+- **Smaller portion:** halve the ingredients for 3-4 diners.
 
 ## Serving
-At every Lao meal (the traditional setting; sticky rice is on every Lao table at every meal) · at a Lao temple offering · at a Lao New Year (Pi Mai) feast · at a Lao family Sunday lunch · at home as the traditional Lao or Northern Thai staple · paired with laap, tam mak hung, or any Lao or Northern Thai dish.
+- At every Lao meal (the traditional setting; sticky rice is on every Lao table at every meal) · at a Lao temple offering · at a Lao New Year (Pi Mai) feast · at a Lao family Sunday lunch · at home as the traditional Lao or Northern Thai staple · paired with laap, tam mak hung, or any Lao or Northern Thai dish.
 
 ## Storage
 - Best eaten warm within 4 hours of cooking.

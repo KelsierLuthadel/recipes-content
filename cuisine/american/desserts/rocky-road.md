@@ -48,10 +48,10 @@ A no-bake fridge slab built on milk chocolate, butter and golden syrup, studded 
 - **Don't over-press:** Pressing too firmly compacts the marshmallows and squeezes the chocolate out around the edges. A gentle level is enough.
 
 ## Variations
-**Dark chocolate:** Swap the milk chocolate for 70% dark, or use half-and-half for a less sweet, more grown-up version.
-**Glace cherries:** Add 100 g chopped glace cherries with the marshmallows for a kitsch retro twist.
-**Pretzel rocky road:** Replace half the digestives with broken salted pretzels for a sweet/salty version.
-**White chocolate ripple:** Drizzle melted white chocolate over the top before chilling and run a knife through to swirl.
+- **Dark chocolate:** Swap the milk chocolate for 70% dark, or use half-and-half for a less sweet, more grown-up version.
+- **Glace cherries:** Add 100 g chopped glace cherries with the marshmallows for a kitsch retro twist.
+- **Pretzel rocky road:** Replace half the digestives with broken salted pretzels for a sweet/salty version.
+- **White chocolate ripple:** Drizzle melted white chocolate over the top before chilling and run a knife through to swirl.
 
 ## Storage
 - Keeps for up to 2 weeks in an airtight container in a cool place.

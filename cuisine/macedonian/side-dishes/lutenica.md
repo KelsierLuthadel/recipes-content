@@ -40,12 +40,12 @@ Lutenica (the name suggests "spicy" from "luto", hot in Bulgarian/Macedonian) is
 - **Eat with bread:** the traditional Balkan way.
 
 ## Variations
-**Hot lutenica:** double the chilli.
-**With aubergine:** ajvar-lutenica hybrid.
-**With carrot:** add 1 grated carrot for sweetness.
+- **Hot lutenica:** double the chilli.
+- **With aubergine:** ajvar-lutenica hybrid.
+- **With carrot:** add 1 grated carrot for sweetness.
 
 ## Serving
-On bread · alongside grilled meat · with cheese · in sandwiches · at a Macedonian breakfast.
+- On bread · alongside grilled meat · with cheese · in sandwiches · at a Macedonian breakfast.
 
 ## Storage
 Sealed jars 6 months; refrigerate after opening, 1 month.

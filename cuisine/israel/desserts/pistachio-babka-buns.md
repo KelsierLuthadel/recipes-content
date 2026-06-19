@@ -84,7 +84,7 @@ Pistachio babka buns are the individual-portion version of the iconic Eastern Eu
 - For a chocolate-and-pistachio version, replace the date paste with a mix of 100 g dark chocolate melted with 50 g butter and stirred with 1 teaspoon cinnamon.
 
 ## Serving
-Pull a bun off the cluster, warm or at room temperature. Strong coffee or sweet tea alongside. Sits well on a Shabbat dessert plate or as a sweet entry on the Hanukkah morning table.
+- Pull a bun off the cluster, warm or at room temperature. Strong coffee or sweet tea alongside. Sits well on a Shabbat dessert plate or as a sweet entry on the Hanukkah morning table.
 
 ## Storage
 Covered in an airtight container at room temperature for 3 days. The buns refresh well: 4-5 seconds in the microwave or 5 minutes in a 150°C oven brings back the warm fragrance.

@@ -68,12 +68,12 @@ Biscochitos are New Mexico's official state cookie (designated 1989) and the His
 - **Coat warm:** sugar adheres.
 
 ## Variations
-**Butter version:** less traditional.
-**With pecans:** add chopped pecans.
-**Larger cookies:** roll thicker.
+- **Butter version:** less traditional.
+- **With pecans:** add chopped pecans.
+- **Larger cookies:** roll thicker.
 
 ## Serving
-At NM Christmas, weddings, special occasions.
+- At NM Christmas, weddings, special occasions.
 
 ## Storage
 - Keeps in sealed tin 2 weeks.

@@ -48,12 +48,12 @@ Southwest salsa verde is the traditional green table salsa across the Southweste
 - **Eat fresh.**
 
 ## Variations
-**Smoother:** blend fully.
-**Spicier:** double chillies.
-**With avocado:** add 1 ripe avocado; gives a creamier version.
+- **Smoother:** blend fully.
+- **Spicier:** double chillies.
+- **With avocado:** add 1 ripe avocado; gives a creamier version.
 
 ## Serving
-With tortilla chips, on tacos, in enchiladas suizas, on eggs.
+- With tortilla chips, on tacos, in enchiladas suizas, on eggs.
 
 ## Storage
 - Keeps refrigerated 5 days.

@@ -71,7 +71,7 @@ For very wet fillings (lemon curd, ganache, custard): brush the still-warm par-b
 
 ### Pate Sablee (Sandier)
 
-More butter, less liquid. Replaces the egg with just an egg yolk and a tablespoon of cream. Produces an even shorter, more crumbly, almost shortbread-like texture.
+- More butter, less liquid. Replaces the egg with just an egg yolk and a tablespoon of cream. Produces an even shorter, more crumbly, almost shortbread-like texture.
 
 - 250 g flour
 - 175 g butter
@@ -80,15 +80,15 @@ More butter, less liquid. Replaces the egg with just an egg yolk and a tablespoo
 - 1 tablespoon double cream
 - pinch salt
 
-Cream-in method only (rub-in would not bind without enough liquid). Best for tartlets where the case is almost a biscuit in its own right.
+- Cream-in method only (rub-in would not bind without enough liquid). Best for tartlets where the case is almost a biscuit in its own right.
 
 ### Pate Sucree au Cacao (Chocolate)
 
-Substitute 30 g of the flour with 30 g cocoa powder. The dough darkens dramatically. Pair with a vanilla creme patissiere for the classic chocolate-vanilla mille tartelette.
+- Substitute 30 g of the flour with 30 g cocoa powder. The dough darkens dramatically. Pair with a vanilla creme patissiere for the classic chocolate-vanilla mille tartelette.
 
 ### Pate Sucree aux Amandes (Almond)
 
-Add 50 g ground almonds with the flour. Slightly nuttier, slightly heavier, holds heavier fillings (poached pear, almond cream) well.
+- Add 50 g ground almonds with the flour. Slightly nuttier, slightly heavier, holds heavier fillings (poached pear, almond cream) well.
 
 ## Common Mistakes
 

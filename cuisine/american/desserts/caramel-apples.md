@@ -53,7 +53,7 @@ Caramel apples are an American autumn tradition, the sticky-sweet fairground tre
 - A coat of melted chocolate drizzled in lines over the set caramel is the "gourmet" finish; do it once the caramel has cooled completely.
 
 ## Serving
-On a wide platter at a Halloween party, sticks angled up. Set out napkins; this is a face-and-fingers sweet.
+- On a wide platter at a Halloween party, sticks angled up. Set out napkins; this is a face-and-fingers sweet.
 
 ## Storage
 Best the day they are made. Loosely covered at room temperature for up to 24 hours; the caramel slowly softens in the fridge if you must store longer.

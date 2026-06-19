@@ -36,7 +36,7 @@ Gelée de pommes is the building block for the glossy mirror finish that gives a
 - Gelatine must be fully dissolved before straining; ensure the mixture is thoroughly incorporated
 
 ## Serving
-Apply gelée de pommes as a glossy glaze over tarts, fresh fruit, or mousse-based desserts while still liquid. The clear jelly allows the colors beneath to show through beautifully. Often used to decorate plated desserts or as a component in fruit-based terminal presentations.
+- Apply gelée de pommes as a glossy glaze over tarts, fresh fruit, or mousse-based desserts while still liquid. The clear jelly allows the colors beneath to show through beautifully. Often used to decorate plated desserts or as a component in fruit-based terminal presentations.
 
 ## Storage
 Once set, cover the jelly with plastic wrap and refrigerate for up to 3 days. For longer storage (up to 1 week), ensure the jelly is sealed in an airtight container. Can be gently warmed over low heat to return to liquid state for re-glazing if needed.

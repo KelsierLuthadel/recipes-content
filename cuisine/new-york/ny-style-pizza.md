@@ -99,13 +99,13 @@ New York style pizza is one of the world's great regional pizza styles and the t
 - **Fold to eat:** NY style.
 
 ## Variations
-**Pepperoni:** add 200 g sliced pepperoni before baking.
-**White pizza:** skip sauce; use ricotta + mozzarella + garlic.
-**Margherita-style:** add fresh basil at the end.
-**Sicilian-style:** thicker square crust; baked in a pan.
+- **Pepperoni:** add 200 g sliced pepperoni before baking.
+- **White pizza:** skip sauce; use ricotta + mozzarella + garlic.
+- **Margherita-style:** add fresh basil at the end.
+- **Sicilian-style:** thicker square crust; baked in a pan.
 
 ## Serving
-By the slice; on the street; family dinner. Cold beer.
+- By the slice; on the street; family dinner. Cold beer.
 
 ## Storage
 - Dough keeps refrigerated 3 days; freeze 1 month.

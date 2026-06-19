@@ -85,7 +85,7 @@
 - **Lent babka (sucha).** Drop the eggs and butter, lighten the dough with vegetable oil; a Polesia-region pre-Easter version.
 
 ## Serving
-Serve sliced thick at room temperature with strong tea or coffee · also with sweet wine or a small glass of krambambulya · at Easter, weddings and the long Christmas table · with butter and honey for breakfast the next day
+- Serve sliced thick at room temperature with strong tea or coffee · also with sweet wine or a small glass of krambambulya · at Easter, weddings and the long Christmas table · with butter and honey for breakfast the next day
 
 ## Storage
 - Keeps 5 days at room temperature wrapped in a clean cloth and a paper bag

@@ -83,7 +83,7 @@ Hilachas (literally "rags") is the Guatemalan beef stew named for the way the sl
 - **Drier version:** reduce the sauce further at the end for a thicker, taco-fillable consistency.
 
 ## Serving
-With white rice · warm corn tortillas · sliced avocado · chirmol · lime wedges · pickled jalapeños
+- With white rice · warm corn tortillas · sliced avocado · chirmol · lime wedges · pickled jalapeños
 
 ## Storage
 - Keeps 4 days refrigerated and freezes 3 months

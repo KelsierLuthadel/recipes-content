@@ -72,7 +72,7 @@ Pelau is the great one-pot of the English-speaking Caribbean - Trinidad, Saint L
 - **Bun-bun:** The toasted rice at the bottom of the pot is the most prized part. A small spatula gets it out.
 
 ## Serving
-Serve on a wide platter family-style, with sliced cucumber, lime wedges, and a small dish of hot pepper sauce on the side. A glass of cold beer or sorrel.
+- Serve on a wide platter family-style, with sliced cucumber, lime wedges, and a small dish of hot pepper sauce on the side. A glass of cold beer or sorrel.
 
 ## Storage
 - Refrigerate 3 days. The flavours deepen overnight.

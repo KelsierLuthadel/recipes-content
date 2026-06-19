@@ -81,7 +81,7 @@ Tamales pisques are the workaday Salvadoran tamal, made without meat and bound w
 - **Tamales de elote:** swap the masa for grated fresh corn and butter for the sweetcorn tamal.
 
 ## Serving
-For breakfast with coffee · in a school lunchbox, still warm in their leaves · with a spoon of curtido alongside · at the family velorio (wake) · with a glass of horchata salvadoreña.
+- For breakfast with coffee · in a school lunchbox, still warm in their leaves · with a spoon of curtido alongside · at the family velorio (wake) · with a glass of horchata salvadoreña.
 
 ## Storage
 - Keep 3 days refrigerated in their leaves; resteam for 20 minutes from cold.

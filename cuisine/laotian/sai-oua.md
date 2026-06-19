@@ -98,13 +98,13 @@ Sai oua is northern Laos's most identity-defining sausage and one of Luang Praba
 - **Don't overcook:** 70°C internal. Past 75°C the pork goes dry.
 
 ## Variations
-**Sai oua mai (sai oua without casings, formed as patties):** the home-cook shortcut, form the filling into 2 cm thick patties; grill or pan-fry.
-**Sai oua moo with extra dill:** double the dill, the Luang Prabang variant.
-**Sai oua kai (chicken version):** swap pork for finely ground chicken thigh + 100 g pork fat for richness.
-**Vegetarian sai oua:** swap pork for crumbled firm tofu + minced shiitake + a binder of mashed sweet potato; form as patties.
+- **Sai oua mai (sai oua without casings, formed as patties):** the home-cook shortcut, form the filling into 2 cm thick patties; grill or pan-fry.
+- **Sai oua moo with extra dill:** double the dill, the Luang Prabang variant.
+- **Sai oua kai (chicken version):** swap pork for finely ground chicken thigh + 100 g pork fat for richness.
+- **Vegetarian sai oua:** swap pork for crumbled firm tofu + minced shiitake + a binder of mashed sweet potato; form as patties.
 
 ## Serving
-At a Luang Prabang night market stall (the traditional setting; sliced sausages from a charcoal grill, served with sticky rice and lettuce wraps) · at a Lao New Year (Pi Mai) feast · at a Vientiane grilled-meat restaurant · at home as a Lao-themed barbecue main · paired with sticky rice, laap, and a cold Beerlao.
+- At a Luang Prabang night market stall (the traditional setting; sliced sausages from a charcoal grill, served with sticky rice and lettuce wraps) · at a Lao New Year (Pi Mai) feast · at a Vientiane grilled-meat restaurant · at home as a Lao-themed barbecue main · paired with sticky rice, laap, and a cold Beerlao.
 
 ## Storage
 - The raw sausage mix refrigerates 24 hours after the 4-hour marinade; or freezes 3 months.

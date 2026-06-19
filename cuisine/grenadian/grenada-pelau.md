@@ -79,14 +79,14 @@ Pelau is the great Sunday rice of the southern Caribbean, and Grenada's version 
 - **The bottom crust (bun-bun):** a slight crust at the bottom of the pot is prized; scrape it up and serve with the rice.
 
 ## Variations
-**Beef pelau:** use 1 kg stewing beef instead of chicken; simmer 1 hour 15 minutes.
-**Saltfish pelau:** soaked and flaked salt cod replaces the chicken.
-**Vegetarian pelau:** skip the meat, double the pigeon peas, add 200 g diced pumpkin in stage 4.
-**With coconut cream:** swap half the coconut milk for thick coconut cream for a richer pot.
-**With raisins:** add 50 g raisins in stage 4 (a Grenadian touch some cooks add at Christmas).
+- **Beef pelau:** use 1 kg stewing beef instead of chicken; simmer 1 hour 15 minutes.
+- **Saltfish pelau:** soaked and flaked salt cod replaces the chicken.
+- **Vegetarian pelau:** skip the meat, double the pigeon peas, add 200 g diced pumpkin in stage 4.
+- **With coconut cream:** swap half the coconut milk for thick coconut cream for a richer pot.
+- **With raisins:** add 50 g raisins in stage 4 (a Grenadian touch some cooks add at Christmas).
 
 ## Serving
-With coleslaw and avocado on the side · with a sweet plantain on top · with pepper sauce passed at the table · at a Sunday lunch · at a beach lime · with a cold Carib beer.
+- With coleslaw and avocado on the side · with a sweet plantain on top · with pepper sauce passed at the table · at a Sunday lunch · at a beach lime · with a cold Carib beer.
 
 ## Storage
 - Keeps 3 days refrigerated.

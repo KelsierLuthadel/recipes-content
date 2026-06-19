@@ -65,13 +65,13 @@ Irish stew is the country-kitchen classic elevated to comfort-food status, middl
 - **Natural Thickening:** Resist the urge to over-mash; the stew should have a rustic, chunky texture with just enough broken potatoes to thicken the broth.
 
 ## Variations
-**Pearl Barley Version:** Substitute 75g pearl barley for the celery for a heartier, more substantial stew.
-**Summer Variation:** Replace cabbage with fresh spring greens and add fresh peas in the final minutes.
-**Modern Irish:** Include 2 bay leaves and 2 teaspoons fresh thyme for added herbaceous depth.
+- **Pearl Barley Version:** Substitute 75g pearl barley for the celery for a heartier, more substantial stew.
+- **Summer Variation:** Replace cabbage with fresh spring greens and add fresh peas in the final minutes.
+- **Modern Irish:** Include 2 bay leaves and 2 teaspoons fresh thyme for added herbaceous depth.
 
 ## Serving
-Serve with: Thick crusty bread for soaking up the broth, or colcannon (mashed potatoes with cabbage)
-Garnish with: Fresh flat-leaf parsley and a light grinding of black pepper
+- Serve with: Thick crusty bread for soaking up the broth, or colcannon (mashed potatoes with cabbage)
+- Garnish with: Fresh flat-leaf parsley and a light grinding of black pepper
 
 ## Storage
 - Keeps 4-5 days refrigerated; flavors actually improve after 24 hours

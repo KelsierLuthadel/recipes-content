@@ -85,17 +85,17 @@ Tablet is Scotland's distinctively crystalline confectionery, a member of the fu
 - **Don't refrigerate:** room-temperature setting gives the right texture. Refrigeration causes sugar bloom.
 
 ## Variations
-**Highland whisky tablet:** add 2 teaspoons single-malt Scotch in stage 4. Adult variant.
-**Vanilla tablet:** add 2 teaspoons vanilla bean paste at the end for a more pronounced vanilla.
-**With sea-salt flakes:** sprinkle Maldon sea salt flakes on top as the tablet sets, modern salted-caramel-style variant.
-**With nuts:** stir in 100 g chopped toasted hazelnuts or pecans during the final beating, texture contrast.
-**Chocolate tablet:** stir in 100 g grated dark chocolate during the final beating, bittersweet variant.
-**Coffee tablet:** add 1 tablespoon strong espresso to the mixture in stage 4, bitter edge.
-**Heather-honey tablet:** swap 2 tablespoons of the sugar for 2 tablespoons of heather honey, adds floral note.
-**Ginger tablet:** stir 80 g finely chopped stem ginger into the mixture during final beating, warming, slightly spicy.
+- **Highland whisky tablet:** add 2 teaspoons single-malt Scotch in stage 4. Adult variant.
+- **Vanilla tablet:** add 2 teaspoons vanilla bean paste at the end for a more pronounced vanilla.
+- **With sea-salt flakes:** sprinkle Maldon sea salt flakes on top as the tablet sets, modern salted-caramel-style variant.
+- **With nuts:** stir in 100 g chopped toasted hazelnuts or pecans during the final beating, texture contrast.
+- **Chocolate tablet:** stir in 100 g grated dark chocolate during the final beating, bittersweet variant.
+- **Coffee tablet:** add 1 tablespoon strong espresso to the mixture in stage 4, bitter edge.
+- **Heather-honey tablet:** swap 2 tablespoons of the sugar for 2 tablespoons of heather honey, adds floral note.
+- **Ginger tablet:** stir 80 g finely chopped stem ginger into the mixture during final beating, warming, slightly spicy.
 
 ## Serving
-At every Scottish church fete, school fundraiser, and bake-sale (the traditional sales item) · in tartan-printed tins as a tourist souvenir from any Edinburgh shop · at a Scottish family Christmas hamper · as a Scottish wedding-favour bag · at a Burns Night supper as the after-dinner sweet · at home with a strong cup of tea (the only thing that cuts the sweetness) · as a present for a Scottish dentist (joke; please don't).
+- At every Scottish church fete, school fundraiser, and bake-sale (the traditional sales item) · in tartan-printed tins as a tourist souvenir from any Edinburgh shop · at a Scottish family Christmas hamper · as a Scottish wedding-favour bag · at a Burns Night supper as the after-dinner sweet · at home with a strong cup of tea (the only thing that cuts the sweetness) · as a present for a Scottish dentist (joke; please don't).
 
 ## Storage
 - Keeps in a sealed tin for 3 weeks (the sugar is the preservative).

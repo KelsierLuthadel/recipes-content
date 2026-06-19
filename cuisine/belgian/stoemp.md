@@ -80,16 +80,16 @@ Stoemp is Brussels' traditional winter dinner and the textural opposite of a smo
 - **Cream + butter is generous:** stoemp is a winter dish; the richness is the point.
 
 ## Variations
-**Stoemp aux carottes:** swap the leeks for 600 g of carrots (peeled, diced, sweated in butter till sweet): the most common variant after leek; see [Stoemp aux carottes](side-dishes/stoemp-aux-carottes.md).
-**Stoemp aux choux de Bruxelles:** swap the leeks for 600 g shredded Brussels sprouts, sweated long and slow till silky.
-**Stoemp aux épinards:** swap leeks for 400 g wilted spinach, finely chopped, the spring variant.
-**Stoemp aux poireaux et lard:** the traditional Brussels recipe (this one) but with extra bacon mixed into the crush itself.
-**Stoemp avec boudin noir:** swap the smoked sausage for grilled black pudding (boudin noir): the Liège variant.
-**Vegetarian stoemp:** skip the meat; double the leeks, top with a fried egg.
-**Stoemp aux navets:** swap leeks for diced turnips, a more rural variant from rural Flanders.
+- **Stoemp aux carottes:** swap the leeks for 600 g of carrots (peeled, diced, sweated in butter till sweet): the most common variant after leek; see [Stoemp aux carottes](side-dishes/stoemp-aux-carottes.md).
+- **Stoemp aux choux de Bruxelles:** swap the leeks for 600 g shredded Brussels sprouts, sweated long and slow till silky.
+- **Stoemp aux épinards:** swap leeks for 400 g wilted spinach, finely chopped, the spring variant.
+- **Stoemp aux poireaux et lard:** the traditional Brussels recipe (this one) but with extra bacon mixed into the crush itself.
+- **Stoemp avec boudin noir:** swap the smoked sausage for grilled black pudding (boudin noir): the Liège variant.
+- **Vegetarian stoemp:** skip the meat; double the leeks, top with a fried egg.
+- **Stoemp aux navets:** swap leeks for diced turnips, a more rural variant from rural Flanders.
 
 ## Serving
-At a Brussels brasserie on a cold winter evening (the traditional setting) · at a Belgian working-day lunch · at a Belgian family dinner from October to March · at a Belgian Christmas-market food stall · at a Flemish pub alongside a Trappist beer · at home as a Sunday-night comfort plate.
+- At a Brussels brasserie on a cold winter evening (the traditional setting) · at a Belgian working-day lunch · at a Belgian family dinner from October to March · at a Belgian Christmas-market food stall · at a Flemish pub alongside a Trappist beer · at home as a Sunday-night comfort plate.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a splash of milk or cream.

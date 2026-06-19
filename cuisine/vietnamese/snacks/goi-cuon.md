@@ -96,13 +96,13 @@ Pork belly is simmered until tender, prawns are poached briefly, and vermicelli 
 - **Pork belly tip:** A piece with even fat marbling slices better than a very fatty piece. If your butcher sells thin pork loin chops, those work too (poach 12 minutes only).
 
 ## Variations
-**Beef gỏi cuốn:** Replace pork with 200 g flank steak, seared rare and sliced thinly.
-**Chicken version:** Poach 2 chicken breasts as in stage 1 (15 minutes instead of 20) and shred.
-**Vegetarian:** See goi-cuon-chay at the cuisine root for the tofu version.
+- **Beef gỏi cuốn:** Replace pork with 200 g flank steak, seared rare and sliced thinly.
+- **Chicken version:** Poach 2 chicken breasts as in stage 1 (15 minutes instead of 20) and shred.
+- **Vegetarian:** See goi-cuon-chay at the cuisine root for the tofu version.
 
 ## Serving
-Serve with: the peanut-hoisin sauce as the standard pairing. A second small bowl of nước chấm (fish sauce, lime, sugar, garlic, chilli) is the southern Vietnamese way; some diners prefer it.
-Garnish with: extra crushed peanuts and a few sprigs of mint on the plate.
+- Serve with: the peanut-hoisin sauce as the standard pairing. A second small bowl of nước chấm (fish sauce, lime, sugar, garlic, chilli) is the southern Vietnamese way; some diners prefer it.
+- Garnish with: extra crushed peanuts and a few sprigs of mint on the plate.
 
 ## Storage
 - Best within an hour of rolling

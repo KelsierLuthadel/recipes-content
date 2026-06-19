@@ -61,7 +61,7 @@ Garlicky salt and pepper pork ribs are the Thai version of the Chinese-restauran
 - Adjust marinade to taste.
 
 ## Serving
-Serve immediately with nam jim jaew or sweet chilli sauce.
+- Serve immediately with nam jim jaew or sweet chilli sauce.
 
 ## Storage
 - Best served immediately.

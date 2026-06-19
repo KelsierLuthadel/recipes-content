@@ -64,7 +64,7 @@ The Ghanaian coconut cake is the Sunday baking standard, an easy one-bowl sponge
 - **Loaf style:** Bake in a 1 kg loaf tin for 50 minutes instead.
 
 ## Serving
-Eat with a cup of strong tea · a glass of cold milk · for tea-time alongside a slice of fresh pineapple · taken to a wake or a wedding as a parcel.
+- Eat with a cup of strong tea · a glass of cold milk · for tea-time alongside a slice of fresh pineapple · taken to a wake or a wedding as a parcel.
 
 ## Storage
 - Keeps 4 days wrapped in foil at room temperature

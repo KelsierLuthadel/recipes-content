@@ -55,7 +55,7 @@ Thai cucumber salad is the cool, tangy, refreshing side that sits next to a hot 
 - **Cucumber ribbons:** The speed-peeler creates thin, elegant ribbons that absorb the dressing better than chunks.
 
 ## Serving
-Serve immediately alongside Thai curries to balance heat and richness with bright, tangy notes.
+- Serve immediately alongside Thai curries to balance heat and richness with bright, tangy notes.
 
 ## Storage
 - Best eaten fresh and crisp; do not prepare ahead.

@@ -73,7 +73,7 @@ For the okra stew:
 - **Light banku:** Use more cassava flour for a softer ball.
 
 ## Serving
-Eat hot with your hands · tear a piece of banku, dip into the stew · shito on the side · a piece of cold cucumber.
+- Eat hot with your hands · tear a piece of banku, dip into the stew · shito on the side · a piece of cold cucumber.
 
 ## Storage
 - Stew keeps 3 days refrigerated and freezes 2 months

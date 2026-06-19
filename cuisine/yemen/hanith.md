@@ -122,13 +122,13 @@ Hanith is Yemen's most luxurious lamb celebration dish, particularly associated 
 - **The rice cooks while the lamb finishes:** time it so both are ready together; the mandi rice keeps for 30 minutes in its covered pot.
 
 ## Variations
-**Mandi (charcoal-cooked hanith):** the traditional Yemeni cooking method uses charcoal in a sealed pit (mandi means "pit"); the lamb cooks over slow charcoal and the smoke flavours it. Hard to replicate at home; some Yemeni restaurants do it.
-**Goat hanith (al-eb):** swap the lamb for kid goat shoulder; cook the same way. Common variation in rural Yemen.
-**Spicier hanith:** add 1 tablespoon of Yemeni chilli flakes (felfel ahmar) to the marinade; gives a properly warm version.
-**Saffron-heavy hanith:** double the saffron in the rice; add 1 tablespoon of saffron-infused water to the marinade. Festive variant.
+- **Mandi (charcoal-cooked hanith):** the traditional Yemeni cooking method uses charcoal in a sealed pit (mandi means "pit"); the lamb cooks over slow charcoal and the smoke flavours it. Hard to replicate at home; some Yemeni restaurants do it.
+- **Goat hanith (al-eb):** swap the lamb for kid goat shoulder; cook the same way. Common variation in rural Yemen.
+- **Spicier hanith:** add 1 tablespoon of Yemeni chilli flakes (felfel ahmar) to the marinade; gives a properly warm version.
+- **Saffron-heavy hanith:** double the saffron in the rice; add 1 tablespoon of saffron-infused water to the marinade. Festive variant.
 
 ## Serving
-On a large communal platter at the centre of the table, the lamb torn over the rice. Side bowls of yogurt, sahawiq, salad, lemon wedges. At Yemeni weddings, Eid celebrations, and major family gatherings. Drink: Yemeni qishr (cardamom-coffee), karkadeh, fresh laban, or water.
+- On a large communal platter at the centre of the table, the lamb torn over the rice. Side bowls of yogurt, sahawiq, salad, lemon wedges. At Yemeni weddings, Eid celebrations, and major family gatherings. Drink: Yemeni qishr (cardamom-coffee), karkadeh, fresh laban, or water.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably.

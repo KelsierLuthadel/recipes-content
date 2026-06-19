@@ -107,17 +107,17 @@ Fried rice is the test of a wok cook: simple to list, hard to do well, and almos
 - **Never MSG:** Authentic fried rice uses no MSG; soy sauce provides all umami depth required.
 
 ## Variations
-**Vegetable Version:** Omit Parma ham; add 50 grams carrots (diced fine), 50 grams peas, and 25 grams corn before bean sprouts. Stir-fry vegetables for 2 minutes before adding egg.
-**Shrimp Fried Rice:** Omit Parma ham; add 100 grams small shrimp (peeled, deveined) instead. Add shrimp to hot oil with rice; they'll cook in 1-2 minutes.
-**More Assertive Sesame:** Increase sesame oil to 1 ½ tablespoons for stronger sesame aroma (be cautious; too much becomes overwhelming).
-**Garlic Version:** Add 1-2 small cloves minced garlic to the oil before adding rice; let it toast for 30 seconds.
-**White Pepper Emphasis:** Increase white pepper to ¼ teaspoon for more pronounced subtle heat.
+- **Vegetable Version:** Omit Parma ham; add 50 grams carrots (diced fine), 50 grams peas, and 25 grams corn before bean sprouts. Stir-fry vegetables for 2 minutes before adding egg.
+- **Shrimp Fried Rice:** Omit Parma ham; add 100 grams small shrimp (peeled, deveined) instead. Add shrimp to hot oil with rice; they'll cook in 1-2 minutes.
+- **More Assertive Sesame:** Increase sesame oil to 1 ½ tablespoons for stronger sesame aroma (be cautious; too much becomes overwhelming).
+- **Garlic Version:** Add 1-2 small cloves minced garlic to the oil before adding rice; let it toast for 30 seconds.
+- **White Pepper Emphasis:** Increase white pepper to ¼ teaspoon for more pronounced subtle heat.
 
 ## Serving
-Use with: Dim sum courses, as a dessert-like final dish after savory stir-fries and curries, standalone lunch, Chinese formal dinners
-Temperature: Hot (serve within 2 minutes of finishing)
-Ratio: 150ml per serving
-Context: Finale course at Chinese dinners, light lunch, "filler" course to complete a meal
+- Use with: Dim sum courses, as a dessert-like final dish after savory stir-fries and curries, standalone lunch, Chinese formal dinners
+- Temperature: Hot (serve within 2 minutes of finishing)
+- Ratio: 150ml per serving
+- Context: Finale course at Chinese dinners, light lunch, "filler" course to complete a meal
 
 ## Storage
 - Refrigerate leftovers in a sealed container for up to 3 days (quality degrades significantly after 1-2 days).

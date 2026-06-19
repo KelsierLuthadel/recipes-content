@@ -81,17 +81,17 @@ Sambal belacan is the foundation of the Malaysian and Indonesian table, a small 
 - **Powerful Condiment:** Never overeat this sambal. A teaspoon or two alongside a plate of rice and vegetables is the proper serving.
 
 ## Variations
-**Milder Heat:** Use fewer chillies (2-3 instead of 4-5); remove all seeds.
-**With Garlic:** Add 1 crushed garlic clove for additional pungency and depth.
-**Sweeter Version:** Add 1 teaspoon palm sugar or regular sugar to balance the fermentation intensity.
-**Extra Citrus:** Use lime juice exclusively (not lemon), the flavor is more authentic.
-**Without Sugar:** Traditional preparation uses no sugar, saltiness balances everything.
+- **Milder Heat:** Use fewer chillies (2-3 instead of 4-5); remove all seeds.
+- **With Garlic:** Add 1 crushed garlic clove for additional pungency and depth.
+- **Sweeter Version:** Add 1 teaspoon palm sugar or regular sugar to balance the fermentation intensity.
+- **Extra Citrus:** Use lime juice exclusively (not lemon), the flavor is more authentic.
+- **Without Sugar:** Traditional preparation uses no sugar, saltiness balances everything.
 
 ## Serving
-Use in: Rice dish accompaniment, vegetable tempering sauce, protein condiment, curry base
-Typical ratio: 1 small teaspoon per serving (this is powerful, respect its intensity)
-Temperature: Served at room temperature in small bowl alongside rice
-Application: A small spoonful or teaspoon portion served on the side of the plate; diners add to rice as they eat
+- Use in: Rice dish accompaniment, vegetable tempering sauce, protein condiment, curry base
+- Typical ratio: 1 small teaspoon per serving (this is powerful, respect its intensity)
+- Temperature: Served at room temperature in small bowl alongside rice
+- Application: A small spoonful or teaspoon portion served on the side of the plate; diners add to rice as they eat
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 5-7 days maximum

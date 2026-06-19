@@ -59,7 +59,7 @@ This is the classic Sichuan gongbao jiding, named for Ding Baozhen, the 19th-cen
 - **Many-flavoured sauce:** The sauce should taste simultaneously spicy, sour, sweet, and savoury, no single note dominates.
 
 ## Serving
-Serve with: Steamed white rice
+- Serve with: Steamed white rice
 
 ## Storage
 - Keeps 2-3 days refrigerated

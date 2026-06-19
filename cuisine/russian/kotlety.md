@@ -96,13 +96,13 @@ Kotlety (literally "cutlets") are Russia's most beloved everyday meat dish and t
 - **Butter is the proper fat:** the butter (combined with oil to prevent burning) gives the proper Russian flavour. Pure oil works but lacks character; pure butter burns. The 60/40 butter-to-oil mix is right.
 
 ## Variations
-**Chicken Kiev-style kotlety (with cheese):** insert a 2 cm cube of cold butter or a small piece of garlic-herb butter into the centre of each kotlety before sealing and dredging; gives a juicier centre.
-**Pozharsky kotlety:** use chicken instead of beef; add 50 g of butter cut into pieces into the filling for richness; fry the same way. The 19th-century imperial Russian classic.
-**Fish kotlety:** swap the meat for 800 g of minced white fish (pike, cod, salmon); add 1 tablespoon of grated onion and 1 tablespoon of dill; bind with 1 extra egg.
-**Liver kotlety (pechenochnye kotlety):** swap 400 g of the meat for 400 g of chicken liver (chopped); add 1 extra slice of bread to absorb the extra moisture.
+- **Chicken Kiev-style kotlety (with cheese):** insert a 2 cm cube of cold butter or a small piece of garlic-herb butter into the centre of each kotlety before sealing and dredging; gives a juicier centre.
+- **Pozharsky kotlety:** use chicken instead of beef; add 50 g of butter cut into pieces into the filling for richness; fry the same way. The 19th-century imperial Russian classic.
+- **Fish kotlety:** swap the meat for 800 g of minced white fish (pike, cod, salmon); add 1 tablespoon of grated onion and 1 tablespoon of dill; bind with 1 extra egg.
+- **Liver kotlety (pechenochnye kotlety):** swap 400 g of the meat for 400 g of chicken liver (chopped); add 1 extra slice of bread to absorb the extra moisture.
 
 ## Serving
-On warm plates with mashed potato (the classic; Russian-style with plenty of butter and milk) or buckwheat kasha. A small dollop of sour cream on the kotlety; a sprinkle of dill. Lemon wedges on the side. Drink: a small cold glass of vodka; kompot (Russian fruit drink); or strong sweet tea after the meal.
+- On warm plates with mashed potato (the classic; Russian-style with plenty of butter and milk) or buckwheat kasha. A small dollop of sour cream on the kotlety; a sprinkle of dill. Lemon wedges on the side. Drink: a small cold glass of vodka; kompot (Russian fruit drink); or strong sweet tea after the meal.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

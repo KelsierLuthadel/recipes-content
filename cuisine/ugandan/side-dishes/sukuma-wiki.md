@@ -74,13 +74,13 @@ Sukuma wiki is the everyday greens dish of East Africa, eaten across Uganda, Ken
 - **Lemon at the end:** the final squeeze of lemon brightens the whole dish; without it the flavour can read flat. Cider vinegar in a pinch.
 
 ## Variations
-**With peanut paste:** stir 2 tablespoons of unsweetened peanut butter loosened with stock into the sauce in the last 2 minutes of cooking. Common Ugandan variant.
-**With smoked fish:** flake 100 g of smoked tilapia into the greens in the last 5 minutes. Lakeside village version.
-**With coconut milk:** replace the stock with 150 ml of coconut milk for a Kenyan coastal variant (Mombasa-style sukuma).
-**Spicier version:** add a teaspoon of harissa or 2 chopped Scotch bonnets to the tomato base for heat.
+- **With peanut paste:** stir 2 tablespoons of unsweetened peanut butter loosened with stock into the sauce in the last 2 minutes of cooking. Common Ugandan variant.
+- **With smoked fish:** flake 100 g of smoked tilapia into the greens in the last 5 minutes. Lakeside village version.
+- **With coconut milk:** replace the stock with 150 ml of coconut milk for a Kenyan coastal variant (Mombasa-style sukuma).
+- **Spicier version:** add a teaspoon of harissa or 2 chopped Scotch bonnets to the tomato base for heat.
 
 ## Serving
-The everyday side. Eat with posho or ugali (the traditional pair), nyama choma (grilled meat), pilau, rice, or roasted chicken. Also a good filling for chapati wraps or rolex variations.
+- The everyday side. Eat with posho or ugali (the traditional pair), nyama choma (grilled meat), pilau, rice, or roasted chicken. Also a good filling for chapati wraps or rolex variations.
 
 ## Storage
 - Keeps refrigerated 3 days. Reheat in a covered pan with a splash of water to loosen.

@@ -43,33 +43,33 @@ The most reliable test for the home cook (without a thermometer) is the "coat th
 
 ### Creme Patissiere (Pastry Cream)
 
-A thicker custard set with cornflour (or flour). The classic filling for choux, tarts, mille-feuille.
+- A thicker custard set with cornflour (or flour). The classic filling for choux, tarts, mille-feuille.
 
-For 500 ml:
+- For 500 ml:
 - 500 ml whole milk
 - 1 vanilla pod
 - 6 egg yolks
 - 100 g caster sugar
 - 30 g cornflour
 
-Method: infuse milk as above. Whisk yolks + sugar + cornflour in a bowl until pale. Temper with hot milk, then return everything to the pan. Cook over medium heat, whisking constantly. The cornflour brings the custard to a much higher temperature (it will boil at 100 C) without scrambling, because the starch in the cornflour stabilises the egg proteins.
+- Method: infuse milk as above. Whisk yolks + sugar + cornflour in a bowl until pale. Temper with hot milk, then return everything to the pan. Cook over medium heat, whisking constantly. The cornflour brings the custard to a much higher temperature (it will boil at 100 C) without scrambling, because the starch in the cornflour stabilises the egg proteins.
 
-Bring to a boil, cook 2 minutes more (this fully cooks the starch). Off heat, beat in 30 g cold butter for shine. Pour into a flat dish, press cling film directly to the surface, chill.
+- Bring to a boil, cook 2 minutes more (this fully cooks the starch). Off heat, beat in 30 g cold butter for shine. Pour into a flat dish, press cling film directly to the surface, chill.
 
-See [Creme Patissiere recipe](../../baking/cremes/creme-patissiere.md).
+- See [Creme Patissiere recipe](../../baking/cremes/creme-patissiere.md).
 
 ### Creme Caramel
 
-A set custard inverted onto a plate to reveal a caramel sauce.
+- A set custard inverted onto a plate to reveal a caramel sauce.
 
-For 4 individual ramekins:
+- For 4 individual ramekins:
 - 200 g caster sugar (for the caramel)
 - 500 ml whole milk
 - 4 eggs (whole, not just yolks)
 - 100 g caster sugar
 - 1 teaspoon vanilla extract
 
-Method:
+- Method:
 1. Make a dry caramel: melt 200 g sugar in a heavy pan, no water, swirl until amber. Pour into the bottoms of 4 ramekins.
 2. Warm the milk with vanilla.
 3. Beat eggs and sugar lightly (don't froth). Pour warm milk over while whisking gently.
@@ -81,22 +81,22 @@ Method:
 
 ### Creme Brulee
 
-Same family, different texture: richer (more yolks, more cream), set with whole yolks (not whole eggs), and finished with a torched-sugar lid.
+- Same family, different texture: richer (more yolks, more cream), set with whole yolks (not whole eggs), and finished with a torched-sugar lid.
 
-For 4 ramekins:
+- For 4 ramekins:
 - 500 ml double cream
 - 1 vanilla pod
 - 5 egg yolks
 - 50 g caster sugar
 - (4 tablespoons demerara sugar for the lid)
 
-Method: as creme caramel but cream-only (no milk), yolks-only (no whole eggs), bake at 140 C for 30 minutes until the centres still wobble. Chill at least 4 hours. Just before serving, sprinkle a thin even layer of demerara sugar across the surface and torch with a chef's blowtorch until amber and crackling.
+- Method: as creme caramel but cream-only (no milk), yolks-only (no whole eggs), bake at 140 C for 30 minutes until the centres still wobble. Chill at least 4 hours. Just before serving, sprinkle a thin even layer of demerara sugar across the surface and torch with a chef's blowtorch until amber and crackling.
 
 ### Ice Cream Base (Vanilla)
 
-Creme anglaise is the master recipe for custard-based ice cream. Cool the anglaise completely, then churn in an ice-cream maker until frozen and aerated.
+- Creme anglaise is the master recipe for custard-based ice cream. Cool the anglaise completely, then churn in an ice-cream maker until frozen and aerated.
 
-Variations: add 200 g cooled melted chocolate to the cooled anglaise; add 2 tablespoons strong coffee; reduce the sugar by 20 g and add 1 tablespoon vanilla paste for vanilla bean.
+- Variations: add 200 g cooled melted chocolate to the cooled anglaise; add 2 tablespoons strong coffee; reduce the sugar by 20 g and add 1 tablespoon vanilla paste for vanilla bean.
 
 ## Common Mistakes
 

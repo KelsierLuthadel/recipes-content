@@ -70,13 +70,13 @@ Changua is Bogotá's most iconic breakfast and one of Colombia's most distinctiv
 - **Eat immediately:** the egg keeps cooking in the hot broth; serve straight away.
 
 ## Variations
-**With cheese (changua con queso):** crumble 50 g of fresh white cheese (queso fresco, feta, or ricotta salata) into each bowl with the egg; gives extra protein and richness.
-**Spicy changua:** add a finely chopped fresh chilli to the broth in stage 2; gives a properly warming version.
-**With more vegetables:** add finely diced potato (cooked separately and added at the end); makes the dish more substantial.
-**Coconut milk version:** swap half the milk for coconut milk; gives a richer Caribbean-leaning version (less traditional Bogotano but works).
+- **With cheese (changua con queso):** crumble 50 g of fresh white cheese (queso fresco, feta, or ricotta salata) into each bowl with the egg; gives extra protein and richness.
+- **Spicy changua:** add a finely chopped fresh chilli to the broth in stage 2; gives a properly warming version.
+- **With more vegetables:** add finely diced potato (cooked separately and added at the end); makes the dish more substantial.
+- **Coconut milk version:** swap half the milk for coconut milk; gives a richer Caribbean-leaning version (less traditional Bogotano but works).
 
 ## Serving
-In deep bowls with the egg in the centre, the broth ladled over the bread, butter melting on top, coriander scattered. As breakfast on a cold morning. Drink: cafe Colombiano (strong sweet Colombian coffee) or hot chocolate (Bogotá-style with cheese melted in, yes, cheese in hot chocolate is Colombian).
+- In deep bowls with the egg in the centre, the broth ladled over the bread, butter melting on top, coriander scattered. As breakfast on a cold morning. Drink: cafe Colombiano (strong sweet Colombian coffee) or hot chocolate (Bogotá-style with cheese melted in, yes, cheese in hot chocolate is Colombian).
 
 ## Storage
 - Best eaten immediately; the broth and bread don't reheat well.

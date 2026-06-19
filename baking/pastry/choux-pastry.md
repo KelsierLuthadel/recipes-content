@@ -44,7 +44,7 @@ Pâte à choux is the building block for éclairs, choux buns, profiteroles, Par
 - Opening the oven door slightly after 4-5 minutes allows steam to escape gradually, preventing collapse while ensuring crisping
 
 ## Serving
-Fill choux buns with crème pâtissière, whipped cream, or ice cream; top with caramel sauce or chocolate glaze. Form éclairs for elegant desserts, or use for savory applications with cheese and herb fillings. Arrange in pyramid (Paris-Brest style) for dramatic presentations, bound with caramel.
+- Fill choux buns with crème pâtissière, whipped cream, or ice cream; top with caramel sauce or chocolate glaze. Form éclairs for elegant desserts, or use for savory applications with cheese and herb fillings. Arrange in pyramid (Paris-Brest style) for dramatic presentations, bound with caramel.
 
 ## Storage
 Choux pastry is best filled and served fresh, though unfilled buns may be stored in an airtight container for 1 day. Refresh in a 180°C oven for 5 minutes to re-crisp. Filled choux should be consumed within 2-4 hours as the crispy exterior absorbs moisture from fillings over time. Do not refrigerate or freeze filled choux.

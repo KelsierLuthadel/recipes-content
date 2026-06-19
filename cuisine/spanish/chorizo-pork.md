@@ -88,14 +88,14 @@ This is the weeknight Spanish plate of pork tenderloin and chorizo in a paprika-
 - **Sauce consistency:** Simmer uncovered so excess liquid evaporates, creating a thicker, more concentrated sauce.
 
 ## Variations
-**With peppers:** Add 1 red bell pepper (sliced) to Stage 3 with the onion for extra sweetness and colour
-**Spicier version:** Increase chilli flakes to 1 teaspoon or add fresh bird's eye chillies
-**Smoky twist:** Use smoked paprika instead of chilli flakes for a different heat profile
-**With olives:** Add 75g pitted black or green olives in Stage 4 for briny saltiness
-**Seafood alternative:** Replace pork with 400g large prawns; reduce cooking time to 2-3 minutes
+- **With peppers:** Add 1 red bell pepper (sliced) to Stage 3 with the onion for extra sweetness and colour
+- **Spicier version:** Increase chilli flakes to 1 teaspoon or add fresh bird's eye chillies
+- **Smoky twist:** Use smoked paprika instead of chilli flakes for a different heat profile
+- **With olives:** Add 75g pitted black or green olives in Stage 4 for briny saltiness
+- **Seafood alternative:** Replace pork with 400g large prawns; reduce cooking time to 2-3 minutes
 
 ## Serving
-Serve with: Fresh rocket leaves, lemon quarters, crusty bread for mopping sauce, and a crisp Spanish white wine or cold beer.
+- Serve with: Fresh rocket leaves, lemon quarters, crusty bread for mopping sauce, and a crisp Spanish white wine or cold beer.
 
 ## Storage
 - Keeps 2 days refrigerated (store potatoes separately to maintain crispiness)

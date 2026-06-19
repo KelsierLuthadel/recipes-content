@@ -72,14 +72,14 @@ Krupnikas is the most traditional Lithuanian spirit-and-honey liqueur, the diges
 - **Rest patiently:** young krupnikas is harsh. Two weeks softens it; a month transforms it.
 
 ## Variations
-**Stiprusis krupnikas (strong):** use 95% grain alcohol diluted to 50% ABV, the traditional pour, definitely sip slowly.
-**Spiced winter version:** add allspice, star anise and black pepper for a more aggressive blend.
-**Floral version:** add 1 tbsp dried elderflower and 1 tsp dried chamomile.
-**Berry-infused:** add 100 g fresh raspberries or cranberries to the spirit infusion stage.
-**Quick krupnikas:** combine warm honey syrup with infused spirit straight away and rest only 3 days, drinkable, not as deep.
+- **Stiprusis krupnikas (strong):** use 95% grain alcohol diluted to 50% ABV, the traditional pour, definitely sip slowly.
+- **Spiced winter version:** add allspice, star anise and black pepper for a more aggressive blend.
+- **Floral version:** add 1 tbsp dried elderflower and 1 tsp dried chamomile.
+- **Berry-infused:** add 100 g fresh raspberries or cranberries to the spirit infusion stage.
+- **Quick krupnikas:** combine warm honey syrup with infused spirit straight away and rest only 3 days, drinkable, not as deep.
 
 ## Serving
-Serve chilled in small glasses as a digestif · warm in a mug on a winter evening · at Christmas Eve · at New Year · with honey cake · with šakotis · with strong coffee · alongside a small piece of dark chocolate · the most Lithuanian after-dinner pour.
+- Serve chilled in small glasses as a digestif · warm in a mug on a winter evening · at Christmas Eve · at New Year · with honey cake · with šakotis · with strong coffee · alongside a small piece of dark chocolate · the most Lithuanian after-dinner pour.
 
 ## Storage
 - Bottled krupnikas keeps 3 years.

@@ -72,11 +72,11 @@ Frikadellen are the German meatballs that aren't really meatballs, more like fla
 - **Flat, not round:** Frikadellen are patties, not meatballs. The flat shape gives proper crust on both sides.
 
 ## Variations
-**Königsberger Klopse:** A different dish but related; poached meatballs in a creamy caper sauce.
-**Bouletten (Berlin name):** Same recipe, sometimes with a pinch of caraway.
+- **Königsberger Klopse:** A different dish but related; poached meatballs in a creamy caper sauce.
+- **Bouletten (Berlin name):** Same recipe, sometimes with a pinch of caraway.
 
 ## Serving
-Serve with: German potato salad, kartoffelpüree (mash), or simply a bread roll with mustard and a gherkin. Beer-garden classic.
+- Serve with: German potato salad, kartoffelpüree (mash), or simply a bread roll with mustard and a gherkin. Beer-garden classic.
 
 ## Storage
 - Keeps 3 days refrigerated; eat cold in a roll or reheat in a pan with a knob of butter.

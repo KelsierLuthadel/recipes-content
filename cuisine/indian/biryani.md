@@ -167,17 +167,17 @@ Biryani is the great rice-and-meat festival dish of India and one of the high po
 - **Fried Onion Garnish:** Traditional and adds textural contrast; not essential but highly recommended.
 
 ## Variations
-**Chicken Biryani:** Substitute 500 grams boneless, skinless chicken thighs (cut into bite-sized pieces) for lamb. Reduce cooking time to 20-25 minutes (chicken cooks faster than lamb). All other steps remain identical.
-**Vegetable Biryani:** Omit meat. Instead, use 300 grams mixed vegetables (potatoes, peas, carrots, beans, bell peppers), cooked separately in same spice treatment as the lamb. Layer with rice as above.
-**Seafood Biryani:** Substitute 500 grams firm white fish or shrimp. Reduce marinating to 30-60 minutes and cooking time to 15 minutes (seafood overcooks easily).
-**Hyderabadi Style:** Use ¼ teaspoon more chilli powder for spicier result; add 1 tablespoon mint leaves to the marinade.
-**With Fried Ginger:** Add 30 grams julienned ginger, fried crispy, as garnish for extra warmth and texture.
+- **Chicken Biryani:** Substitute 500 grams boneless, skinless chicken thighs (cut into bite-sized pieces) for lamb. Reduce cooking time to 20-25 minutes (chicken cooks faster than lamb). All other steps remain identical.
+- **Vegetable Biryani:** Omit meat. Instead, use 300 grams mixed vegetables (potatoes, peas, carrots, beans, bell peppers), cooked separately in same spice treatment as the lamb. Layer with rice as above.
+- **Seafood Biryani:** Substitute 500 grams firm white fish or shrimp. Reduce marinating to 30-60 minutes and cooking time to 15 minutes (seafood overcooks easily).
+- **Hyderabadi Style:** Use ¼ teaspoon more chilli powder for spicier result; add 1 tablespoon mint leaves to the marinade.
+- **With Fried Ginger:** Add 30 grams julienned ginger, fried crispy, as garnish for extra warmth and texture.
 
 ## Serving
-Use with: Nothing, biryani is a complete meal in itself. Traditionally accompanied by raita (yogurt sauce) and pickled onions
-Temperature: Hot (serve within 15 minutes of final assembly)
-Ratio: Serves 4 as main course (approximately 400ml per person)
-Context: Festival celebrations, special occasions, Indian formal dinners, showstopper main course
+- Use with: Nothing, biryani is a complete meal in itself. Traditionally accompanied by raita (yogurt sauce) and pickled onions
+- Temperature: Hot (serve within 15 minutes of final assembly)
+- Ratio: Serves 4 as main course (approximately 400ml per person)
+- Context: Festival celebrations, special occasions, Indian formal dinners, showstopper main course
 
 ## Storage
 - Refrigerate cooked biryani in a sealed container for up to 3 days.

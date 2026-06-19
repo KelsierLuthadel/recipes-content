@@ -105,9 +105,9 @@ The protein choice is open. Chicken tikka is the default and most familiar; pane
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a peshwari naan (the coconut-almond stuffing plays particularly well with the dish's own coconut-almond base). A side of plain raita and a wedge of lemon round the plate.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a peshwari naan (the coconut-almond stuffing plays particularly well with the dish's own coconut-almond base). A side of plain raita and a wedge of lemon round the plate.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The cream-based sauce thickens noticeably overnight as the coconut and almond powders absorb more liquid. Reheat gently in a pan with a splash of water or extra cream rather than the microwave, which can split the dairy.

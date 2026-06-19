@@ -61,7 +61,7 @@ Welsh rarebit is the pub-supper classic that gave its name to a whole tradition 
 - **Make-ahead version:** the rarebit mix keeps 3 days in the fridge, spread cold straight onto toast.
 
 ## Serving
-At the pub bar with a pint of ale · as a Sunday supper after a long walk · with a side of pickled onions or chutney · as a quick weeknight tea · on a chapel supper plate.
+- At the pub bar with a pint of ale · as a Sunday supper after a long walk · with a side of pickled onions or chutney · as a quick weeknight tea · on a chapel supper plate.
 
 ## Storage
 - The cooked rarebit mix keeps 3 days refrigerated in a sealed tub.

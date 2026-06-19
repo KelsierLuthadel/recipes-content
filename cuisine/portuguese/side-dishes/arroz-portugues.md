@@ -63,13 +63,13 @@ Arroz Português is Portugal's everyday rice side and the traditional accompanim
 - **Don't lift the lid during cooking.**
 
 ## Variations
-**Arroz de feijão:** add 1 tin of drained kidney beans in the last 5 minutes; gives Portuguese rice-and-beans.
-**Tomato variation:** add 2 chopped tomatoes with the onion; gives a closer-to-arroz-de-tomate version.
-**With chouriço:** add 100 g of sliced chouriço with the onion.
-**Coconut variation:** swap half the stock for coconut milk; less traditional Portuguese (more Mozambican).
+- **Arroz de feijão:** add 1 tin of drained kidney beans in the last 5 minutes; gives Portuguese rice-and-beans.
+- **Tomato variation:** add 2 chopped tomatoes with the onion; gives a closer-to-arroz-de-tomate version.
+- **With chouriço:** add 100 g of sliced chouriço with the onion.
+- **Coconut variation:** swap half the stock for coconut milk; less traditional Portuguese (more Mozambican).
 
 ## Serving
-Alongside any Portuguese main course. With bacalhau, frango piri-piri, bitoque, grilled fish.
+- Alongside any Portuguese main course. With bacalhau, frango piri-piri, bitoque, grilled fish.
 
 ## Storage
 - Keeps refrigerated 3 days; reheat with a splash of stock.

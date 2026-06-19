@@ -67,7 +67,7 @@ New York's tomato-based answer to New England's milk-and-cream chowder, and the 
 - **Tomatoes:** Tinned tomatoes add richness; fresh can be used in season.
 
 ## Serving
-Serve hot with crusty bread.
+- Serve hot with crusty bread.
 
 ## Storage
 - Best served immediately; refrigerate up to 1 day. Reheat gently without boiling.

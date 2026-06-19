@@ -81,13 +81,13 @@ Chuối nướng is Vietnam's grilled banana dessert: small Asian bananas wrappe
 - **Salt is essential:** The pinch of salt on top at serving is what makes the sweetness sing. Don't skip it.
 
 ## Variations
-**Sticky rice without banana (xôi):** Skip the banana and just steam the coconut rice into a coil; serve as a sweet rice dish.
-**Pandan rice:** Steam the rice with a pandan leaf tucked in, and add a few drops of pandan extract to the coconut milk for a green-tinted, jasmine-scented version.
-**Black sesame finish:** Substitute black sesame seeds for white for visual contrast and a deeper nutty flavour.
+- **Sticky rice without banana (xôi):** Skip the banana and just steam the coconut rice into a coil; serve as a sweet rice dish.
+- **Pandan rice:** Steam the rice with a pandan leaf tucked in, and add a few drops of pandan extract to the coconut milk for a green-tinted, jasmine-scented version.
+- **Black sesame finish:** Substitute black sesame seeds for white for visual contrast and a deeper nutty flavour.
 
 ## Serving
-Serve with: a small scoop of vanilla or coconut ice cream alongside for a temperature contrast; the cold ice cream against the warm grilled banana is a modern Saigon-café trick.
-Garnish with: a few extra crushed peanuts and a final pinch of flaky salt.
+- Serve with: a small scoop of vanilla or coconut ice cream alongside for a temperature contrast; the cold ice cream against the warm grilled banana is a modern Saigon-café trick.
+- Garnish with: a few extra crushed peanuts and a final pinch of flaky salt.
 
 ## Storage
 - Best eaten warm, straight off the grill

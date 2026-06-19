@@ -68,7 +68,7 @@ For the dumplings:
 - **Pressure-cooked:** 25 minutes high pressure on the conch, release, drop in dumplings, simmer 15 minutes.
 
 ## Serving
-Serve in deep bowls · with hot pepper sauce · cold ginger beer or sorrel · a wedge of lime on the side.
+- Serve in deep bowls · with hot pepper sauce · cold ginger beer or sorrel · a wedge of lime on the side.
 
 ## Storage
 - Keeps 2 days refrigerated; the dumplings absorb the gravy

@@ -92,13 +92,13 @@ Bife a lo pobre (literally "poor man's steak", though the dish is actually quite
 - **All four components on the same plate:** the combination defines the dish.
 
 ## Variations
-**With Italian sausage (bife a lo pobre completo):** add a grilled Italian sausage to the plate; even more substantial.
-**With grilled chillies:** add 1-2 grilled long chillies to the plate; common Chilean diner addition.
-**Chicken version (pollo a lo pobre):** swap steak for grilled chicken breast or thigh; lighter version.
-**Without eggs (kid-friendly):** skip the eggs; double the potatoes; common children's version.
+- **With Italian sausage (bife a lo pobre completo):** add a grilled Italian sausage to the plate; even more substantial.
+- **With grilled chillies:** add 1-2 grilled long chillies to the plate; common Chilean diner addition.
+- **Chicken version (pollo a lo pobre):** swap steak for grilled chicken breast or thigh; lighter version.
+- **Without eggs (kid-friendly):** skip the eggs; double the potatoes; common children's version.
 
 ## Serving
-On wide plates with all four components arranged separately. Drink: Chilean red wine (carmenere or cabernet) or cold Cristal beer. As a Chilean diner lunch or a substantial weekend dinner.
+- On wide plates with all four components arranged separately. Drink: Chilean red wine (carmenere or cabernet) or cold Cristal beer. As a Chilean diner lunch or a substantial weekend dinner.
 
 ## Storage
 - Best eaten immediately.

@@ -94,7 +94,7 @@ Pork-and-vegetable spring rolls are the Chinese-takeaway favourite given a subtl
 - Adjust flavour as needed.
 
 ## Serving
-Serve hot or at room temperature with sweet chilli sauce.
+- Serve hot or at room temperature with sweet chilli sauce.
 
 ## Storage
 - Best served immediately; can be refrigerated for 1 day and reheated.

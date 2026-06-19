@@ -93,9 +93,9 @@ A dhansak should land thick. The pre-cooked dhal contributes most of the body, s
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan or chapati to mop the thick sauce. A side of cooling raita keeps the sweet-sour register in check.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan or chapati to mop the thick sauce. A side of cooling raita keeps the sweet-sour register in check.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The dhal continues to absorb sauce overnight so day-two dhansak is noticeably thicker, loosen with a splash of water or extra base gravy when reheating in a pan.

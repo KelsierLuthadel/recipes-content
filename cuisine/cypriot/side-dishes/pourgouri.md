@@ -67,7 +67,7 @@ Pourgouri is the Cypriot bulgur pilaf, the everyday grain dish that sits beside 
 - **Mushroom pourgouri.** Add 200 g chopped chestnut mushrooms to the onion stage; cook out before adding the bulgur.
 
 ## Serving
-Serve with kleftiko · stifado · afelia · grilled halloumi · a bowl of talattouri.
+- Serve with kleftiko · stifado · afelia · grilled halloumi · a bowl of talattouri.
 
 ## Storage
 - Keeps 3 days refrigerated; reheat with a splash of water in a covered pan over low heat.

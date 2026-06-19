@@ -61,12 +61,12 @@ A weeknight pizza that uses the freezer pancetta and whatever's left in the sala
 - **Add rocket off the heat:** Rocket wilts within seconds in a hot oven. Always last on, never under heat.
 
 ## Variations
-**Speck and pear:** Swap the pancetta for thin slices of speck and add a few pear slices for sweet contrast.
-**Prosciutto:** Use prosciutto crudo, draped over straight from the packet without crisping.
+- **Speck and pear:** Swap the pancetta for thin slices of speck and add a few pear slices for sweet contrast.
+- **Prosciutto:** Use prosciutto crudo, draped over straight from the packet without crisping.
 
 ## Serving
-Serve with: A glass of crisp white (Soave or pinot grigio) and an extra side of dressed leaves
-Garnish with: A grind of black pepper and a few extra Grana Padano shavings
+- Serve with: A glass of crisp white (Soave or pinot grigio) and an extra side of dressed leaves
+- Garnish with: A grind of black pepper and a few extra Grana Padano shavings
 
 ## Storage
 - Best eaten immediately; the rocket and pancetta lose texture on standing

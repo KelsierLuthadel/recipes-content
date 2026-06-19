@@ -71,14 +71,14 @@ Swedish Punsch is one of the great forgotten spirits of European drinking histor
 - **Thursday-night ritual:** the traditional Swedish slot, after ärtsoppa-och-pannkakor.
 
 ## Variations
-**Cold punsch (the traditional):** as above, served chilled.
-**Warm punsch (heated):** in winter, gently warm a punsch + a splash of hot water for a hot toddy version. Don't boil.
-**Punsch-rolle (the bakery treat):** a Swedish punsch-flavoured pastry roll filled with green marzipan, dipped in chocolate ends, a sweet adaptation.
-**With ice:** modern Stockholm bars serve punsch on the rocks with a citrus twist.
-**As a base for cocktails:** Swedish bartenders increasingly use punsch in cocktails, Punsch Sour, Punsch Negroni, for the depth and sweetness.
+- **Cold punsch (the traditional):** as above, served chilled.
+- **Warm punsch (heated):** in winter, gently warm a punsch + a splash of hot water for a hot toddy version. Don't boil.
+- **Punsch-rolle (the bakery treat):** a Swedish punsch-flavoured pastry roll filled with green marzipan, dipped in chocolate ends, a sweet adaptation.
+- **With ice:** modern Stockholm bars serve punsch on the rocks with a citrus twist.
+- **As a base for cocktails:** Swedish bartenders increasingly use punsch in cocktails, Punsch Sour, Punsch Negroni, for the depth and sweetness.
 
 ## Serving
-On Thursday nights after ärtsoppa-och-pannkakor (the traditional Swedish weekly ritual; pea soup + pancakes + punsch) · at university nation dinners in Uppsala or Lund (Swedish university culture preserved punsch through the 20th century) · at a Swedish dinner-party finale alongside coffee and small biscuits · at a Nordic cocktail bar as a curiosity.
+- On Thursday nights after ärtsoppa-och-pannkakor (the traditional Swedish weekly ritual; pea soup + pancakes + punsch) · at university nation dinners in Uppsala or Lund (Swedish university culture preserved punsch through the 20th century) · at a Swedish dinner-party finale alongside coffee and small biscuits · at a Nordic cocktail bar as a curiosity.
 
 ## Storage
 - Made punsch keeps indefinitely in a sealed bottle in a cool dark place; improves with age.

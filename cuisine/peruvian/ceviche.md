@@ -91,17 +91,17 @@ Ceviche is Peru's national dish and the most rigorously codified plate in the co
 - **Sweet potato is the balance:** the sweet camote balances the sour-spicy ceviche. Some Peruvians eat it after; some during; the balance is the point.
 
 ## Variations
-**Ceviche mixto:** add 200 g cooked octopus or prawns alongside the raw fish, the mixed-seafood variant.
-**Tiradito Peruano:** the Nikkei (Japanese-Peruvian) variant, the fish is sliced THIN like sashimi instead of cubed; the leche de tigre is poured over at table.
-**Ceviche con leche de tigre amarilla:** the leche de tigre is blitzed with aji amarillo paste for a thicker, vivid yellow marinade.
-**Ceviche con leche de tigre verde:** add a handful of fresh herbs (mint, basil, cilantro) blitzed into the marinade for a green leche de tigre, the modern Lima restaurant variant.
-**Ceviche de pulpo (octopus):** swap the fish for finely sliced cooked octopus; same marinade.
-**Ceviche caliente / chilcano:** the cooked variant for fish that isn't sashimi-grade, briefly poached fish in the leche de tigre at very low heat.
-**Modern Lima ceviche:** add a few drops of a Peruvian fruit purée (passion fruit, mango) to the leche de tigre; the upscale Lima restaurant variant.
-**Vegan ceviche:** swap fish for diced firm tofu, or hearts of palm chopped into cubes; the same marinade.
+- **Ceviche mixto:** add 200 g cooked octopus or prawns alongside the raw fish, the mixed-seafood variant.
+- **Tiradito Peruano:** the Nikkei (Japanese-Peruvian) variant, the fish is sliced THIN like sashimi instead of cubed; the leche de tigre is poured over at table.
+- **Ceviche con leche de tigre amarilla:** the leche de tigre is blitzed with aji amarillo paste for a thicker, vivid yellow marinade.
+- **Ceviche con leche de tigre verde:** add a handful of fresh herbs (mint, basil, cilantro) blitzed into the marinade for a green leche de tigre, the modern Lima restaurant variant.
+- **Ceviche de pulpo (octopus):** swap the fish for finely sliced cooked octopus; same marinade.
+- **Ceviche caliente / chilcano:** the cooked variant for fish that isn't sashimi-grade, briefly poached fish in the leche de tigre at very low heat.
+- **Modern Lima ceviche:** add a few drops of a Peruvian fruit purée (passion fruit, mango) to the leche de tigre; the upscale Lima restaurant variant.
+- **Vegan ceviche:** swap fish for diced firm tofu, or hearts of palm chopped into cubes; the same marinade.
 
 ## Serving
-At a Lima cebicheria for lunch (the traditional setting; cebicherias close at 3 pm because ceviche is a lunch dish, never dinner, lunch fish is fresher) · at a Peruvian Independence Day (28 July) celebration · at the National Ceviche Day (28 June) festival · at a Pacific-coast seafood restaurant · at home as a substantial first course or light main · paired with a chilled glass of pisco sour, chicha morada, or a cold Cusqueña lager.
+- At a Lima cebicheria for lunch (the traditional setting; cebicherias close at 3 pm because ceviche is a lunch dish, never dinner, lunch fish is fresher) · at a Peruvian Independence Day (28 July) celebration · at the National Ceviche Day (28 June) festival · at a Pacific-coast seafood restaurant · at home as a substantial first course or light main · paired with a chilled glass of pisco sour, chicha morada, or a cold Cusqueña lager.
 
 ## Storage
 - Doesn't store. Eat within 15 minutes of plating.

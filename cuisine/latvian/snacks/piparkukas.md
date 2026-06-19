@@ -89,7 +89,7 @@ Piparkūkas (literally "pepper cakes") are the dark thin gingerbread biscuits th
 - **With cocoa:** Replace 30 g of the flour with cocoa powder for a darker version; not traditional but popular in modern bakeries.
 
 ## Serving
-Serve in a tin or wooden bowl at Christmas. Eat with strong coffee, mulled wine, Riga black balsam, or cold milk for children. Latvian markets at Christmas pile them in towers on every stand.
+- Serve in a tin or wooden bowl at Christmas. Eat with strong coffee, mulled wine, Riga black balsam, or cold milk for children. Latvian markets at Christmas pile them in towers on every stand.
 
 ## Storage
 - Keeps 4 weeks in an airtight tin; the spice deepens.

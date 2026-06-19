@@ -96,7 +96,7 @@ Coxinhas (the word means "little thighs") are the shared Lusophone-Atlantic snac
 - **The pinch at the top:** The teardrop with a pointed tip is the recognisable shape. Pinch firmly to seal; a loose seal opens in the oil.
 
 ## Serving
-A party snack, a bar snack, a child's lunchbox treat. Lime wedges, jindungo chilli sauce, and a cold beer or fruit juice alongside.
+- A party snack, a bar snack, a child's lunchbox treat. Lime wedges, jindungo chilli sauce, and a cold beer or fruit juice alongside.
 
 ## Storage
 - Best fresh and hot.

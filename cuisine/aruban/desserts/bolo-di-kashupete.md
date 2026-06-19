@@ -85,15 +85,15 @@ Bolo di kashupete is the Aruban signature dessert, the cake that appears at ever
 - **Glaze, do not buttercream the outside:** the smooth white poured glaze is the Aruban look. A swirled buttercream finish would make it a Dutch sandcake.
 
 ## Variations
-**Bolo di kashupete cu chocolat:** spread the layers with a thin chocolate ganache as well as the cashew buttercream.
-**Two-layer bolo di kashupete:** halve the recipe for an everyday version with two thicker layers.
-**Bolo di kashupete cu lamunchi:** add 2 tbsp lime zest to the sponge for a citrus-edged variant.
-**Bolo di kashupete with rum-soaked cake:** brush the layers with 60 ml dark rum before assembling, the Christmas version.
-**Cashew-cream bolo (no glaze):** finish with the buttercream over the top, no poured glaze, the everyday family version.
-**Bolo pretu cu kashupete:** the festive black-cake version with dried fruits soaked in rum folded into the batter.
+- **Bolo di kashupete cu chocolat:** spread the layers with a thin chocolate ganache as well as the cashew buttercream.
+- **Two-layer bolo di kashupete:** halve the recipe for an everyday version with two thicker layers.
+- **Bolo di kashupete cu lamunchi:** add 2 tbsp lime zest to the sponge for a citrus-edged variant.
+- **Bolo di kashupete with rum-soaked cake:** brush the layers with 60 ml dark rum before assembling, the Christmas version.
+- **Cashew-cream bolo (no glaze):** finish with the buttercream over the top, no poured glaze, the everyday family version.
+- **Bolo pretu cu kashupete:** the festive black-cake version with dried fruits soaked in rum folded into the batter.
 
 ## Serving
-At an Aruban wedding · for a first communion · for a milestone birthday · for Christmas Eve · for the Dia di Himno y Bandera (18 March) table · as a gift to relatives in the Netherlands · with a small glass of orange liqueur · with strong black coffee or pega-pega.
+- At an Aruban wedding · for a first communion · for a milestone birthday · for Christmas Eve · for the Dia di Himno y Bandera (18 March) table · as a gift to relatives in the Netherlands · with a small glass of orange liqueur · with strong black coffee or pega-pega.
 
 ## Storage
 - The frosted cake keeps 5 days at room temperature in a cake tin (the cashew oil preserves it).

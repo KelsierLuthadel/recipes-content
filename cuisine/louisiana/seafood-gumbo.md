@@ -104,13 +104,13 @@ Louisiana seafood gumbo is the coastal counterpart to chicken-andouille gumbo: s
 - **Lemon juice brightens at end.**
 
 ## Variations
-**With crab boil:** add Old Bay or Louisiana crab boil mix.
-**Without okra:** use only filé for thickening.
-**Spicier:** double cayenne.
-**With smoked sausage:** swap andouille for kielbasa or similar.
+- **With crab boil:** add Old Bay or Louisiana crab boil mix.
+- **Without okra:** use only filé for thickening.
+- **Spicier:** double cayenne.
+- **With smoked sausage:** swap andouille for kielbasa or similar.
 
 ## Serving
-Over rice with hot sauce, French bread.
+- Over rice with hot sauce, French bread.
 
 ## Storage
 - Keeps refrigerated 3 days; seafood doesn't keep as well as chicken.

@@ -98,16 +98,16 @@ Langues de chat (cats' tongues) are thin pale piped butter cookies dipped halfwa
 - **Partial Dipping:** The chocolate coating should be half or less; excessive coating overwhelms the delicate cookie flavor.
 
 ## Variations
-**Vanilla Bean Emphasis:** Use 1 ½ vanilla pods for heightened vanilla aroma.
-**No Almonds:** Substitute 25 grams flour for the ground almonds (creating a pure butter cookie).
-**Milk Chocolate Dipping:** Use milk chocolate (40-50% cocoa) for sweeter, more buttery character.
-**White Chocolate Dipping:** Use tempered white chocolate for delicate appearance (though flavor becomes less balanced).
-**Hazelnut Version:** Replace ground almonds with ground hazelnuts for nuttier profile.
+- **Vanilla Bean Emphasis:** Use 1 ½ vanilla pods for heightened vanilla aroma.
+- **No Almonds:** Substitute 25 grams flour for the ground almonds (creating a pure butter cookie).
+- **Milk Chocolate Dipping:** Use milk chocolate (40-50% cocoa) for sweeter, more buttery character.
+- **White Chocolate Dipping:** Use tempered white chocolate for delicate appearance (though flavor becomes less balanced).
+- **Hazelnut Version:** Replace ground almonds with ground hazelnuts for nuttier profile.
 
 ## Serving
-Perfect with: Strong coffee or espresso, afternoon tea service, as part of petit four platter, with fruit desserts, alongside ice cream, after formal dinners
-Temperature: Room temperature
-Context: Coffee service, elegant finales, special occasions, tea time
+- Perfect with: Strong coffee or espresso, afternoon tea service, as part of petit four platter, with fruit desserts, alongside ice cream, after formal dinners
+- Temperature: Room temperature
+- Context: Coffee service, elegant finales, special occasions, tea time
 
 ## Storage
 - Store interleaved with greaseproof or parchment paper in an airtight container in a cool, dry place: up to 1 week

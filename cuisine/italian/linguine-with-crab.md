@@ -57,12 +57,12 @@ Linguine with crab is the elegant pasta of the Amalfi coast, white crab meat bri
 - **No Cheese:** Parmesan would mask the delicate crab flavor. This is sacred in Amalfi.
 
 ## Variations
-**With White Wine:** Add 50ml dry white wine when the crab heats for added complexity.
-**Fresh Scallops:** Substitute or combine fresh scallops with the crab for variety.
+- **With White Wine:** Add 50ml dry white wine when the crab heats for added complexity.
+- **Fresh Scallops:** Substitute or combine fresh scallops with the crab for variety.
 
 ## Serving
-Serve with: A crisp Sauvignon Blanc or Vermentino
-Garnish with: Lemon wedges and fresh crab shell if available for presentation
+- Serve with: A crisp Sauvignon Blanc or Vermentino
+- Garnish with: Lemon wedges and fresh crab shell if available for presentation
 
 ## Storage
 - Best eaten immediately after cooking

@@ -81,7 +81,7 @@ Basler Läckerli are the spiced honey biscuits of Basel, a tradition that goes b
 - **Cutting while warm:** Once the slab cools fully, it's too hard to cut cleanly. Cut while still warm but set.
 
 ## Serving
-Serve with coffee or strong black tea, especially at Christmas. They're also part of the Swiss "Adventsteller" - the Advent biscuit plate that includes Mailänderli, Brunsli, Zimtsterne and more.
+- Serve with coffee or strong black tea, especially at Christmas. They're also part of the Swiss "Adventsteller" - the Advent biscuit plate that includes Mailänderli, Brunsli, Zimtsterne and more.
 
 ## Storage
 - Room temperature in a tin lined with greaseproof paper: 3 months.

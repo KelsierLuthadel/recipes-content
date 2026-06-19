@@ -95,13 +95,13 @@ Cozido à Portuguesa is Portugal's most substantial traditional one-pot feast an
 - **The broth is the secret:** use it for the rice and as a starter.
 
 ## Variations
-**Cozido das Furnas (Azorean):** the famous Azores variation cooked in the volcanic ground heat at Furnas; impossible to replicate exactly but the recipe is the same.
-**Smaller version (4 people):** halve everything; cook in a smaller pot.
-**Vegetarian (impossible to keep traditional):** the dish is a meat feast; vegetarian doesn't work.
-**With kale (couves):** add Portuguese kale (couves) instead of cabbage.
+- **Cozido das Furnas (Azorean):** the famous Azores variation cooked in the volcanic ground heat at Furnas; impossible to replicate exactly but the recipe is the same.
+- **Smaller version (4 people):** halve everything; cook in a smaller pot.
+- **Vegetarian (impossible to keep traditional):** the dish is a meat feast; vegetarian doesn't work.
+- **With kale (couves):** add Portuguese kale (couves) instead of cabbage.
 
 ## Serving
-On large platters served in courses over hours. Portuguese red wine. The traditional Portuguese Sunday lunch.
+- On large platters served in courses over hours. Portuguese red wine. The traditional Portuguese Sunday lunch.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

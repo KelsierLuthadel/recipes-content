@@ -96,14 +96,14 @@ Gỏi bò Hội An is the central-Vietnamese beef salad from the lantern-lit tow
 - **Herb balance:** Fresh herbs are essential to this dish, they brighten and balance the rich beef and tangy dressing.
 
 ## Variations
-**Pork version:** Use 200g pork tenderloin (frozen and sliced thinly); marinate and cook the same way
-**Vegetarian:** Omit beef and replace with 200g crispy tofu (pressed and pan-fried) or grilled mushrooms
-**Extra spicy:** Increase fresh red chillies to 6-8 or add bird's eye chillies for significantly more heat
-**Shrimp version:** Use 250g large prawns (marinate for 1 hour only); cook for only 1 minute in the hot pan
-**With noodles:** Serve the beef and vegetables over rice vermicelli noodles for a more substantial meal
+- **Pork version:** Use 200g pork tenderloin (frozen and sliced thinly); marinate and cook the same way
+- **Vegetarian:** Omit beef and replace with 200g crispy tofu (pressed and pan-fried) or grilled mushrooms
+- **Extra spicy:** Increase fresh red chillies to 6-8 or add bird's eye chillies for significantly more heat
+- **Shrimp version:** Use 250g large prawns (marinate for 1 hour only); cook for only 1 minute in the hot pan
+- **With noodles:** Serve the beef and vegetables over rice vermicelli noodles for a more substantial meal
 
 ## Serving
-Serve on banana leaves (if available) with extra lime wedges, fresh chillies, fish sauce, and roasted rice papers on the side. Pairs beautifully with Vietnamese beer or fresh lime juice drinks.
+- Serve on banana leaves (if available) with extra lime wedges, fresh chillies, fish sauce, and roasted rice papers on the side. Pairs beautifully with Vietnamese beer or fresh lime juice drinks.
 
 ## Storage
 - Best eaten immediately while the beef is warm and aromatic

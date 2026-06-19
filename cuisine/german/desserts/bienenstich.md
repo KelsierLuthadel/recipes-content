@@ -94,11 +94,11 @@ Bienenstich (bee sting cake) is the German bakery classic with the brilliantly-n
 - **Filling balance:** All-pastry-cream is too dense; all-whipped-cream collapses. The 2:1 ratio gives the right pillow.
 
 ## Variations
-**Quick filling:** Just sweetened whipped cream or whipped cream folded into ready-made custard.
-**Individual Bienenstich:** Bake as buns; split and fill each one. Bakery-counter classic.
+- **Quick filling:** Just sweetened whipped cream or whipped cream folded into ready-made custard.
+- **Individual Bienenstich:** Bake as buns; split and fill each one. Bakery-counter classic.
 
 ## Serving
-Serve cold from the fridge but let slices sit 10 minutes so the cream softens slightly. With strong coffee.
+- Serve cold from the fridge but let slices sit 10 minutes so the cream softens slightly. With strong coffee.
 
 ## Storage
 - Keeps 2 days refrigerated, covered.

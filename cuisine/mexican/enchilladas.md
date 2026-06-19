@@ -97,13 +97,13 @@ A baked enchilada built on a from-scratch chilli base sauce that does most of th
 - **Sauce make-ahead:** The chilli base sauce keeps 5 days refrigerated and freezes well. Make a double batch, portion into 350 ml lots, and the next round of enchiladas is a 30-minute job.
 
 ## Variations
-**Vegetarian:** Replace the chicken with 400 g black beans (drained) and 300 g roasted sweet potato cubes. Sear the sweet potato first for colour.
-**Verde:** Swap the red chilli base for a tomatillo salsa verde (200 g tomatillos charred with 1 jalapeño, 2 garlic cloves, ½ onion, blended with stock and coriander).
-**Beef:** Use 500 g flank or skirt steak, marinated in lime + cumin for an hour, then seared rare and sliced thin.
+- **Vegetarian:** Replace the chicken with 400 g black beans (drained) and 300 g roasted sweet potato cubes. Sear the sweet potato first for colour.
+- **Verde:** Swap the red chilli base for a tomatillo salsa verde (200 g tomatillos charred with 1 jalapeño, 2 garlic cloves, ½ onion, blended with stock and coriander).
+- **Beef:** Use 500 g flank or skirt steak, marinated in lime + cumin for an hour, then seared rare and sliced thin.
 
 ## Serving
-Serve with: Sour cream, lime wedges, chopped coriander, sliced spring onions, and a jug of the reserved chilli base sauce.
-Optional sides: Mexican rice, refried beans, a simple shredded cabbage slaw.
+- Serve with: Sour cream, lime wedges, chopped coriander, sliced spring onions, and a jug of the reserved chilli base sauce.
+- Optional sides: Mexican rice, refried beans, a simple shredded cabbage slaw.
 
 ## Storage
 - Baked enchiladas keep 3 days refrigerated; reheat covered at 160°C for 15-20 minutes

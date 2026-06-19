@@ -81,13 +81,13 @@ New Mexico green chile chicken stew is the traditional NM winter stew and a fixt
 - **NM Christmas Eve classic.**
 
 ## Variations
-**Spicier:** include hot Hatch chillies.
-**With cheese melted in:** add 200 g grated cheese at the end; gives creamier version.
-**Vegetarian:** skip chicken; add 1 tin pinto beans + 1 tin black beans.
-**Pork version:** swap chicken for pork shoulder (cooked 90 min).
+- **Spicier:** include hot Hatch chillies.
+- **With cheese melted in:** add 200 g grated cheese at the end; gives creamier version.
+- **Vegetarian:** skip chicken; add 1 tin pinto beans + 1 tin black beans.
+- **Pork version:** swap chicken for pork shoulder (cooked 90 min).
 
 ## Serving
-In deep bowls with cheese, tortillas. Cold NM beer.
+- In deep bowls with cheese, tortillas. Cold NM beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

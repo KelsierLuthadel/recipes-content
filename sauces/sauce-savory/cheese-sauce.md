@@ -52,7 +52,7 @@ Cheese sauce is the building block for macaroni cheese, cauliflower cheese and a
 - **Cornflour:** Prevents greasiness and creates smooth emulsion; do not omit.
 
 ## Serving
-Serve with macaroni, cooked cauliflower, broccoli, and other vegetables. Also excellent over pasta gratins.
+- Serve with macaroni, cooked cauliflower, broccoli, and other vegetables. Also excellent over pasta gratins.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

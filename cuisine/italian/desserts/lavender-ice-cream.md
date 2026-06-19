@@ -31,7 +31,7 @@ A pale violet ice cream that smells like an Italian garden in July: dried culina
 - If the lavender flavor seems too subtle after churning, a few drops of lavender essential oil for culinary use can be whisked in to adjust intensity
 
 ## Serving
-Serve as an elegant standalone dessert in a chilled glass or coup, garnished with a single fresh lavender sprig if available. This ice cream pairs beautifully with light meringues, shortbread cookies, and delicate fruit compotes, particularly strawberry or raspberry. Avoid serving with other heavily-flavored desserts.
+- Serve as an elegant standalone dessert in a chilled glass or coup, garnished with a single fresh lavender sprig if available. This ice cream pairs beautifully with light meringues, shortbread cookies, and delicate fruit compotes, particularly strawberry or raspberry. Avoid serving with other heavily-flavored desserts.
 
 ## Storage
 Keep the ice cream in an airtight freezer container for up to two weeks, though best texture and flavor are achieved within the first week. Cover the surface with plastic wrap before sealing the container to prevent ice crystals. If rock-hard from freezing, soften for 10-15 minutes at room temperature before scooping.

@@ -75,7 +75,7 @@ A 4 kg shoulder yields about 2-2.5 kg of pulled meat. Feeds 8-12 people.
 
 ## Serving
 
-The four regional traditions:
+- The four regional traditions:
 
 ### Carolina East-Style
 
@@ -114,17 +114,17 @@ The four regional traditions:
 
 ### Carnitas (Mexican Pulled Pork)
 
-Same shoulder, different technique. Instead of smoking, braise in lard with orange, garlic, bay, cumin and salt for 3-4 hours. Crisp the pulled meat on a hot dry pan before serving. See [Mexican Fundamentals](../mexican-fundamentals/mexican-fundamentals.md).
+- Same shoulder, different technique. Instead of smoking, braise in lard with orange, garlic, bay, cumin and salt for 3-4 hours. Crisp the pulled meat on a hot dry pan before serving. See [Mexican Fundamentals](../mexican-fundamentals/mexican-fundamentals.md).
 
 ### Cuban Pulled Pork (Lechon Asado)
 
-Marinate overnight in mojo (sour orange, garlic, oregano, cumin, salt). Roast or slow-cook. Used in Cuban sandwiches and rice-and-beans plates.
+- Marinate overnight in mojo (sour orange, garlic, oregano, cumin, salt). Roast or slow-cook. Used in Cuban sandwiches and rice-and-beans plates.
 
 ### Cochinita Pibil (Yucatecan Pulled Pork)
 
-Marinate in achiote and bitter orange. Wrap in banana leaves; slow-roast. Bright, intensely-coloured pulled pork served with red pickled onions.
+- Marinate in achiote and bitter orange. Wrap in banana leaves; slow-roast. Bright, intensely-coloured pulled pork served with red pickled onions.
 
-These are all pulled-pork techniques in the same family; the BBQ version above is the American smoke variant.
+- These are all pulled-pork techniques in the same family; the BBQ version above is the American smoke variant.
 
 ## Common Failures
 

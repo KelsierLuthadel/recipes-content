@@ -78,13 +78,13 @@ Kartoffelknödel are the potato cousin of [Semmelknödel](semmelknoedel.md), mad
 - **Bread cubes optional but traditional:** the buttered fried bread heart is the surprise inside. Skip it for a plain potato dumpling, but the contrast of textures is the whole charm.
 
 ## Variations
-**Halb-und-halb (half-and-half):** a Bohemian-influenced version using half cooked riced potato and half grated raw potato; squeeze the raw potato dry through a clean cloth before mixing. The texture is denser and the dumplings have more bite.
-**Wagging Knödel:** mini bite-sized versions served as soup garnish in clear beef broth.
-**Kasknödel:** swap the bread-cube centre for a small cube of mountain cheese (Bergkäse or Emmentaler) that melts into a pocket as the dumpling cooks; serve in broth or with browned butter.
-**Sweet variant:** Marillenknödel and Zwetschkenknödel use this same potato dough wrapped around whole apricots or plums, poached, then rolled in buttered crumbs and sugar; the dessert version.
+- **Halb-und-halb (half-and-half):** a Bohemian-influenced version using half cooked riced potato and half grated raw potato; squeeze the raw potato dry through a clean cloth before mixing. The texture is denser and the dumplings have more bite.
+- **Wagging Knödel:** mini bite-sized versions served as soup garnish in clear beef broth.
+- **Kasknödel:** swap the bread-cube centre for a small cube of mountain cheese (Bergkäse or Emmentaler) that melts into a pocket as the dumpling cooks; serve in broth or with browned butter.
+- **Sweet variant:** Marillenknödel and Zwetschkenknödel use this same potato dough wrapped around whole apricots or plums, poached, then rolled in buttered crumbs and sugar; the dessert version.
 
 ## Serving
-Slice through and serve cut-face up under goulash, [Schweinsbraten](../schweinsbraten.md) gravy, Tafelspitz broth, or simply browned butter and toasted breadcrumbs (Brösel) scattered over. Side: braised red cabbage or pickled gherkins. Beer or grüner veltliner.
+- Slice through and serve cut-face up under goulash, [Schweinsbraten](../schweinsbraten.md) gravy, Tafelspitz broth, or simply browned butter and toasted breadcrumbs (Brösel) scattered over. Side: braised red cabbage or pickled gherkins. Beer or grüner veltliner.
 
 ## Storage
 - Best eaten fresh from the pot.

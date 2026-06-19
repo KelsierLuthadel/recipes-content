@@ -76,12 +76,12 @@ Mee goreng is the Indonesian-Malay stir-fried noodle dish that turns up at every
 - **Egg ribbons first:** Cooking the egg flat and slicing it into ribbons (rather than scrambling it through the wok) keeps the noodles glossy and the egg distinct.
 
 ## Variations
-**Chicken or beef:** Replace the pork with thinly sliced chicken thigh or rump steak; cook for the same length of time.
-**Vegetarian:** Drop the pork, prawns and shrimp paste; double the cabbage, add sliced firm tofu, and use a teaspoon of light soy in place of the shrimp paste.
+- **Chicken or beef:** Replace the pork with thinly sliced chicken thigh or rump steak; cook for the same length of time.
+- **Vegetarian:** Drop the pork, prawns and shrimp paste; double the cabbage, add sliced firm tofu, and use a teaspoon of light soy in place of the shrimp paste.
 
 ## Serving
-Serve with: Pickled green chillies in vinegar and a small bowl of [sambal oelek](../../base-ingredients/sambal/sambal-oelek.md) for table seasoning
-Garnish with: Crispy fried shallots and a sprig of coriander
+- Serve with: Pickled green chillies in vinegar and a small bowl of [sambal oelek](../../base-ingredients/sambal/sambal-oelek.md) for table seasoning
+- Garnish with: Crispy fried shallots and a sprig of coriander
 
 ## Storage
 - Best eaten straight from the wok while the noodles are still glossy

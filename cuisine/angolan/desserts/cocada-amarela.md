@@ -61,7 +61,7 @@ Cocada amarela is the great Angolan dessert and the proudest piece of the Portug
 - **Fresh coconut is better:** Frozen grated coconut is the everyday substitute. Desiccated coconut works at a push but the texture is drier; add an extra splash of water.
 
 ## Serving
-A small spoon, after a heavy meal. Often plated with a sprig of mint or a curl of orange peel. A small glass of port alongside is the Portuguese-Angolan flourish.
+- A small spoon, after a heavy meal. Often plated with a sprig of mint or a curl of orange peel. A small glass of port alongside is the Portuguese-Angolan flourish.
 
 ## Storage
 - Keeps 4 days refrigerated, covered tight.

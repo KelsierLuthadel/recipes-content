@@ -70,14 +70,14 @@ Rūgštus kopūstas is the cornerstone of the Lithuanian winter pantry, a vat of
 - **Cool slow:** the second-stage cool fermentation is what gives the Lithuanian softness. Hot ferments come out aggressive.
 
 ## Variations
-**With apple:** layer in a peeled sliced tart apple for a sweet edge, the Aukštaitija version.
-**With cranberry:** stir 100 g fresh cranberries through for autumn colour and tang.
-**With dill seeds:** swap caraway for dill seeds, a lighter herbal note.
-**Quick refrigerator version:** salt-massage the cabbage, pack into jars, refrigerate, eat after 5 days, less sour but quick.
-**Spiced:** add 1 tsp black peppercorns and 4 cloves to the crock.
+- **With apple:** layer in a peeled sliced tart apple for a sweet edge, the Aukštaitija version.
+- **With cranberry:** stir 100 g fresh cranberries through for autumn colour and tang.
+- **With dill seeds:** swap caraway for dill seeds, a lighter herbal note.
+- **Quick refrigerator version:** salt-massage the cabbage, pack into jars, refrigerate, eat after 5 days, less sour but quick.
+- **Spiced:** add 1 tsp black peppercorns and 4 cloves to the crock.
 
 ## Serving
-Serve cold or warmed · alongside cepelinai · with roast pork · as part of a Christmas Eve plate · stewed with onion and bacon for a hot side · with rye bread and butter.
+- Serve cold or warmed · alongside cepelinai · with roast pork · as part of a Christmas Eve plate · stewed with onion and bacon for a hot side · with rye bread and butter.
 
 ## Storage
 - Refrigerated in brine, keeps 6 months.

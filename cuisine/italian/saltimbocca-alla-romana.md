@@ -78,13 +78,13 @@ Saltimbocca alla Romana (literally "jumps in the mouth, Roman-style") is one of 
 - **Don't oversalt:** prosciutto is salty.
 
 ## Variations
-**Chicken saltimbocca:** swap veal for thin chicken breast escalopes; less traditional but accessible substitute.
-**Pork saltimbocca:** swap for thin pork loin escalopes.
-**Without wine:** swap wine for chicken stock + 1 tablespoon white wine vinegar.
-**Cheese saltimbocca:** add a thin slice of fontina or provolone under the prosciutto; gives a richer melting version.
+- **Chicken saltimbocca:** swap veal for thin chicken breast escalopes; less traditional but accessible substitute.
+- **Pork saltimbocca:** swap for thin pork loin escalopes.
+- **Without wine:** swap wine for chicken stock + 1 tablespoon white wine vinegar.
+- **Cheese saltimbocca:** add a thin slice of fontina or provolone under the prosciutto; gives a richer melting version.
 
 ## Serving
-On warm plates with peas or spinach alongside. Italian white wine (Frascati for the Roman pairing). Crusty bread, simple salad.
+- On warm plates with peas or spinach alongside. Italian white wine (Frascati for the Roman pairing). Crusty bread, simple salad.
 
 ## Storage
 - Best eaten immediately.

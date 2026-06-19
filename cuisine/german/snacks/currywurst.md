@@ -81,13 +81,13 @@ Currywurst is one of Germany's most beloved street foods and the traditional Ber
 - **Eaten with a small plastic fork at an Imbiss stand:** the traditional experience.
 
 ## Variations
-**Mit Darm (with skin):** the casing left on (traditional Berlin).
-**Ohne Darm (without skin):** the casing removed before slicing (Ruhr / Hamburg style).
-**With chopped raw onion:** scattered on top.
-**Spicier:** double the cayenne; add a chopped fresh chilli.
+- **Mit Darm (with skin):** the casing left on (traditional Berlin).
+- **Ohne Darm (without skin):** the casing removed before slicing (Ruhr / Hamburg style).
+- **With chopped raw onion:** scattered on top.
+- **Spicier:** double the cayenne; add a chopped fresh chilli.
 
 ## Serving
-At a Berlin Imbiss stand at 2 am. At an Oktoberfest food tent. At home with crispy fries and beer.
+- At a Berlin Imbiss stand at 2 am. At an Oktoberfest food tent. At home with crispy fries and beer.
 
 ## Storage
 - Sauce refrigerates 1 week; freezes 3 months.

@@ -60,7 +60,7 @@ Cassava pone is the dense, dark, slightly chewy Caribbean cake that bridges betw
 - **Texture:** Pone is meant to be dense and slightly chewy - not light, not airy. If yours is cakey, you've used too much flour (there's no flour in this recipe; cassava is the starch).
 
 ## Serving
-Serve at room temperature with cocoa tea, coffee, or a glass of cold milk. The flavour improves overnight as the spices marry.
+- Serve at room temperature with cocoa tea, coffee, or a glass of cold milk. The flavour improves overnight as the spices marry.
 
 ## Storage
 - In an airtight tin at room temperature: 4 days.

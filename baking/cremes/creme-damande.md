@@ -31,7 +31,7 @@ Crème d'amande is the building block for frangipane tarts, pithivier fillings, 
 - The optional rum adds depth; other liqueurs such as Grand Marnier or Kirsch offer interesting flavor variations
 
 ## Serving
-Use crème d'amande as a filling for flan cases, as a base for tarts, or piped into decorative patterns. Often topped with sliced almonds, fresh fruit, or candied peel. Pairs beautifully with both light and rich desserts.
+- Use crème d'amande as a filling for flan cases, as a base for tarts, or piped into decorative patterns. Often topped with sliced almonds, fresh fruit, or candied peel. Pairs beautifully with both light and rich desserts.
 
 ## Storage
 Refrigerate in an airtight container for up to 4 days. The cream can be frozen for up to 1 month; thaw at room temperature and re-beat briefly if the texture appears separated. Bring to room temperature for 30 minutes before piping or spreading.

@@ -99,15 +99,15 @@ Waterzooi means "watery boil" in old Flemish; "Gentse" because it's from Ghent. 
 - **Fish version:** swap the chicken for 1.2 kg firm white fish (cod, monkfish, sea bass) and reduce the poaching time to 6-8 minutes. The fish version is the original Ghent recipe.
 
 ## Variations
-**Waterzooi van vis (fish waterzooi):** sea fish replacing chicken, the original Ghent recipe; closer to a French bourride.
-**Waterzooi van langoustines:** Brussels seafood variant with langoustines, white fish, and mussels.
-**Modern fillet-only waterzooi:** boneless chicken breasts poached gently, faster but less flavour without the bones.
-**Waterzooi met dragon:** add a tablespoon of chopped fresh tarragon at stage 6, the Brussels variant.
-**Vegetarian waterzooi:** chunks of celeriac and mushrooms instead of chicken, vegetable stock; finish with the same yolk-cream liaison.
-**Quick weeknight waterzooi:** use rotisserie chicken meat torn into pieces; start at stage 2 with a good chicken stock.
+- **Waterzooi van vis (fish waterzooi):** sea fish replacing chicken, the original Ghent recipe; closer to a French bourride.
+- **Waterzooi van langoustines:** Brussels seafood variant with langoustines, white fish, and mussels.
+- **Modern fillet-only waterzooi:** boneless chicken breasts poached gently, faster but less flavour without the bones.
+- **Waterzooi met dragon:** add a tablespoon of chopped fresh tarragon at stage 6, the Brussels variant.
+- **Vegetarian waterzooi:** chunks of celeriac and mushrooms instead of chicken, vegetable stock; finish with the same yolk-cream liaison.
+- **Quick weeknight waterzooi:** use rotisserie chicken meat torn into pieces; start at stage 2 with a good chicken stock.
 
 ## Serving
-At a Ghent restaurant overlooking the river (the traditional setting) · at a Flemish family Sunday lunch · at a Belgian Christmas Eve dinner · at a Flemish wedding reception · at a Belgian gastropub on a cold winter evening · at home as a Sunday roast alternative.
+- At a Ghent restaurant overlooking the river (the traditional setting) · at a Flemish family Sunday lunch · at a Belgian Christmas Eve dinner · at a Flemish wedding reception · at a Belgian gastropub on a cold winter evening · at home as a Sunday roast alternative.
 
 ## Storage
 - Refrigerates 2 days. The egg-cream liaison can break on reheating, reheat very gently on the stovetop, stirring constantly, and never bring to a boil.

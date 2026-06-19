@@ -95,13 +95,13 @@ Tennessee whiskey pork chops are the traditional Tennessee Sunday-dinner pork pr
 - **Rest before serving.**
 
 ## Variations
-**With apple slices:** add 2 sliced apples to glaze.
-**With smoked paprika:** for smokier flavour.
-**Bourbon version:** use Kentucky bourbon (similar but not "Tennessee whiskey" technically).
-**With grits:** instead of mashed potatoes.
+- **With apple slices:** add 2 sliced apples to glaze.
+- **With smoked paprika:** for smokier flavour.
+- **Bourbon version:** use Kentucky bourbon (similar but not "Tennessee whiskey" technically).
+- **With grits:** instead of mashed potatoes.
 
 ## Serving
-Sunday dinner with mashed potatoes, greens, cornbread.
+- Sunday dinner with mashed potatoes, greens, cornbread.
 
 ## Storage
 - Refrigerated 3 days.

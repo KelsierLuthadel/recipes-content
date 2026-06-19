@@ -45,7 +45,7 @@ Apfelschorle - "apple fizz" in German - is the half-and-half mix of cloudy apple
 - **Sparkling water:** A neutral sparkling water (Apollinaris, Gerolsteiner medium, San Pellegrino) is correct. Don't use heavily mineral water that competes with the apple, and don't use tonic water - that's a different drink.
 
 ## Serving
-Serve with any meal in place of wine; with sausages; at picnics; on hot afternoons; alongside cake at coffee time. The universal non-alcoholic drink.
+- Serve with any meal in place of wine; with sausages; at picnics; on hot afternoons; alongside cake at coffee time. The universal non-alcoholic drink.
 
 ## Storage
 - Make per serving; the fizz dies if pre-mixed.

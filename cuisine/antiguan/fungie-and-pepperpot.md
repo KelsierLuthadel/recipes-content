@@ -63,7 +63,7 @@ For the fungie:
 - **Sunday pepperpot:** Drop in a couple of green bananas and a chunk of dasheen for a fuller starch plate.
 
 ## Serving
-Serve with hot pepper sauce on the side · cold sorrel or mauby to drink · a slice of avocado pear · a wedge of lime.
+- Serve with hot pepper sauce on the side · cold sorrel or mauby to drink · a slice of avocado pear · a wedge of lime.
 
 ## Storage
 - Pepperpot keeps 3 days refrigerated and improves on day two

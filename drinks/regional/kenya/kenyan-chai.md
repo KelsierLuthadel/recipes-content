@@ -55,7 +55,7 @@ Kenyan chai is the everyday drink of the country, brewed in a heavy saucepan mul
 - **Saturday brew:** add an extra spoon of tea and a splash of evaporated milk for the richer weekend pot.
 
 ## Serving
-A steaming mug · alongside mandazi or mahamri for breakfast · with a slice of chapati for an afternoon tea-time · poured for guests as the first gesture of welcome · sweetened to taste at the table or pre-sweetened in the pot.
+- A steaming mug · alongside mandazi or mahamri for breakfast · with a slice of chapati for an afternoon tea-time · poured for guests as the first gesture of welcome · sweetened to taste at the table or pre-sweetened in the pot.
 
 ## Storage
 - Best drunk within 30 minutes of brewing.

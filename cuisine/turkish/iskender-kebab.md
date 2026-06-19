@@ -114,13 +114,13 @@
 - **Don't use lean lamb:** the lamb should have some fat for proper juicy slices. Lamb leg can work; lamb shoulder is fattier and better.
 
 ## Variations
-**Kebab on bulgur:** swap the bread base for cooked bulgur pilaf; gives a heartier grain base. Common variation in central Turkey.
-**Chicken iskender:** swap the lamb for marinated chicken thigh; cook the same way. Common variation in modern Turkish restaurants.
-**Beef iskender:** swap the lamb for beef ribeye or skirt; less traditional but excellent.
-**Mild iskender:** skip the Aleppo pepper and red pepper paste; gives a milder version for children or non-spice-tolerant diners.
+- **Kebab on bulgur:** swap the bread base for cooked bulgur pilaf; gives a heartier grain base. Common variation in central Turkey.
+- **Chicken iskender:** swap the lamb for marinated chicken thigh; cook the same way. Common variation in modern Turkish restaurants.
+- **Beef iskender:** swap the lamb for beef ribeye or skirt; less traditional but excellent.
+- **Mild iskender:** skip the Aleppo pepper and red pepper paste; gives a milder version for children or non-spice-tolerant diners.
 
 ## Serving
-On warm shallow bowls or plates; the dish is meant to be eaten with a fork and knife. With ayran (salted yogurt drink), a glass of rakı (the traditional aniseed spirit for Turkish meat dishes), or fresh tea after the meal. As the centrepiece of a Turkish restaurant meal or as a special family dinner.
+- On warm shallow bowls or plates; the dish is meant to be eaten with a fork and knife. With ayran (salted yogurt drink), a glass of rakı (the traditional aniseed spirit for Turkish meat dishes), or fresh tea after the meal. As the centrepiece of a Turkish restaurant meal or as a special family dinner.
 
 ## Storage
 - Best eaten immediately; the bread goes off-texture as it sits.

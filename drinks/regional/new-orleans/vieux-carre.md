@@ -50,7 +50,7 @@ The drink is still served at the Monteleone's Carousel Bar, which is the literal
 - **Stronger:** double the rye to 50 ml; reduce cognac to 25 ml. A whiskey-forward version.
 
 ## Serving
-A pre-dinner or post-dinner cocktail. The drink is rich and contemplative; one before dinner sets the appetite, one after settles it. Two in succession is one too many; this is not a session cocktail.
+- A pre-dinner or post-dinner cocktail. The drink is rich and contemplative; one before dinner sets the appetite, one after settles it. Two in succession is one too many; this is not a session cocktail.
 
 ## Storage
 Build to order. The bottle ingredients keep indefinitely; the Bénédictine is the most volatile component (it can go slightly thin over a few years on the shelf) but for typical home use lasts a decade easily.

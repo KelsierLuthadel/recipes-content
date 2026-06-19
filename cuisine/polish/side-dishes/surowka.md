@@ -62,11 +62,11 @@ Surówka is the bright crunchy slaw that turns up next to almost every Polish lu
 - **Sour cream or yoghurt:** Full-fat sour cream is traditional. Greek yoghurt thinned with a teaspoon of cream is acceptable.
 
 ## Variations
-**Surówka z kapusty kiszonej:** Made with sauerkraut, grated carrot, apple and a little oil instead of cream. The winter version.
-**With horseradish:** Stir 1 teaspoon prepared horseradish into the dressing for extra bite.
+- **Surówka z kapusty kiszonej:** Made with sauerkraut, grated carrot, apple and a little oil instead of cream. The winter version.
+- **With horseradish:** Stir 1 teaspoon prepared horseradish into the dressing for extra bite.
 
 ## Serving
-Serve with: Kotlet schabowy, roast chicken, fried fish, pork chops, or alongside potato dumplings. The crunchy fresh foil to heavy Polish mains.
+- Serve with: Kotlet schabowy, roast chicken, fried fish, pork chops, or alongside potato dumplings. The crunchy fresh foil to heavy Polish mains.
 
 ## Storage
 - Best on the day. Keeps 1 day refrigerated but softens noticeably.

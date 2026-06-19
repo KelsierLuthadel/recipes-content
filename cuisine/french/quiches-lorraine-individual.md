@@ -58,7 +58,7 @@ These are the individual versions of quiche Lorraine, the dish you'd find at a P
 - **Blind baking:** Essential to prevent soggy pastry; paper and beans ensure even cooking.
 
 ## Serving
-Serve warm or at room temperature with a frisée salad tossed with garlic croûtons and vinaigrette. Pairs well with crisp white wine.
+- Serve warm or at room temperature with a frisée salad tossed with garlic croûtons and vinaigrette. Pairs well with crisp white wine.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container; reheat gently in a warm oven.

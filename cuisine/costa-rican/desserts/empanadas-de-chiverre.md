@@ -64,7 +64,7 @@ For finishing:
 - **Empanadas de cajeta:** Mexican-style goat-milk caramel filling for a darker, deeper flavour.
 
 ## Serving
-Serve warm or at room temperature with strong black coffee · or with a glass of cold milk · or as part of a Holy Week dessert platter alongside arroz con leche
+- Serve warm or at room temperature with strong black coffee · or with a glass of cold milk · or as part of a Holy Week dessert platter alongside arroz con leche
 
 ## Storage
 - Baked empanadas keep 3 days in an airtight tin at room temperature

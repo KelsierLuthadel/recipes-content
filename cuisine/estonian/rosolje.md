@@ -70,7 +70,7 @@ Rosolje is the Estonian relative of Russian vinegret and Scandinavian sillsallad
 - **Beef variant:** Some Estonian families add 150 g of cold cooked beef, diced the same way, in place of (or alongside) the herring.
 
 ## Serving
-Serve cold as a starter or part of a cold table. Dark rye bread, butter and a small glass of vodka are the partners of choice.
+- Serve cold as a starter or part of a cold table. Dark rye bread, butter and a small glass of vodka are the partners of choice.
 
 ## Storage
 - Keeps 3 days refrigerated, well covered

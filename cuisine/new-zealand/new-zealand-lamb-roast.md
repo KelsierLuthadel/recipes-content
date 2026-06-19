@@ -107,7 +107,7 @@ Lamb is what New Zealand farming is famous for: grass-fed, raised on the rolling
 - **Kūmara is sweet potato but better:** New Zealand kūmara is denser and less sweet than American sweet potato, with a faintly nutty flavour. If you can't get it, orange sweet potato is the closest substitute.
 
 ## Serving
-The traditional New Zealand Sunday roast: lamb in the middle of the table, potatoes and kūmara in serving bowls, gravy in a jug, mint sauce in a small bowl. A green vegetable. A red wine (Hawke's Bay Syrah, Marlborough Pinot Noir). Eat in good company.
+- The traditional New Zealand Sunday roast: lamb in the middle of the table, potatoes and kūmara in serving bowls, gravy in a jug, mint sauce in a small bowl. A green vegetable. A red wine (Hawke's Bay Syrah, Marlborough Pinot Noir). Eat in good company.
 
 ## Storage
 - Leftover lamb refrigerates 4 days; eat cold in sandwiches with mint sauce, or reheat gently in gravy.

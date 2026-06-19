@@ -71,7 +71,7 @@ Codfish cakes are the Caribbean's answer to the fritter, sold from every Lucian 
 - **Coconut version:** Replace 50 ml of the water with coconut milk for a richer cake.
 
 ## Serving
-Serve very hot · pepper sauce or tamarind dipping sauce · slice of lime · cold mauby or sorrel · also good split into a bake for breakfast
+- Serve very hot · pepper sauce or tamarind dipping sauce · slice of lime · cold mauby or sorrel · also good split into a bake for breakfast
 
 ## Storage
 - Best straight from the pan

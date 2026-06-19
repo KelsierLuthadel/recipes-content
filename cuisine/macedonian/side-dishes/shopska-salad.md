@@ -40,13 +40,13 @@ Shopska salad is technically Bulgarian by origin (named after the Shopi people o
 - **Eat fresh:** within 30 minutes of assembly.
 
 ## Variations
-**With egg:** add 4 chopped hard-boiled eggs.
-**With olives mixed in:** Greek-Macedonian variant.
-**With Kashkaval (yellow cheese):** Macedonian variant with grated yellow cheese alongside white.
-**Spicy:** add chopped fresh chilli.
+- **With egg:** add 4 chopped hard-boiled eggs.
+- **With olives mixed in:** Greek-Macedonian variant.
+- **With Kashkaval (yellow cheese):** Macedonian variant with grated yellow cheese alongside white.
+- **Spicy:** add chopped fresh chilli.
 
 ## Serving
-At every Macedonian table (traditional) · alongside grilled meat · with ajvar and bread · at a Macedonian wedding · at home as the daily summer salad.
+- At every Macedonian table (traditional) · alongside grilled meat · with ajvar and bread · at a Macedonian wedding · at home as the daily summer salad.
 
 ## Storage
 Best eaten fresh; the dressed vegetables soften within an hour.

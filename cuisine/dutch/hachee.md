@@ -111,18 +111,18 @@ Hachee is the Netherlands' traditional beef stew: the slow-cooked, deeply spiced
 - **The mustard-bread trick:** the Dutch home cook's way of thickening the sauce while adding a sharp mustard counter-note. The slice of bread completely dissolves; don't be alarmed.
 
 ## Variations
-**Hachee met appel:** add 2 chopped apples (Bramley or Granny Smith) to the onions in the last 10 minutes of sweating, the rural Dutch variant with extra sweetness.
-**Hachee with pears (Limburg variant):** add 200 g sliced firm pears to the braise in the last 30 minutes.
-**Hachee with prunes (sweet-savoury):** add 100 g pitted prunes in the last 30 minutes, the historical Dutch variant.
-**Modern hachee (lighter):** halve the onions; use chicken stock; serve with a dollop of crème fraîche on top, the modern Amsterdam restaurant variant.
-**Hachee with red wine instead of beer:** swap the dark lager for 200 ml red wine, lighter, more French.
-**Hachee for sandwiches (broodje hachee):** chop the finished meat fine and serve in a soft Dutch bun with mustard, the Dutch deli lunch.
-**Hachee with mushrooms:** add 300 g sliced mushrooms to the onions for the last 10 minutes of sweating.
-**Slow-cooker hachee:** brown the beef and sweat the onions on the stovetop; transfer to a slow cooker on low for 6-7 hours.
-**Vegetarian "hachee" with king oyster mushrooms:** swap beef for thick king oyster mushrooms; same onion-and-spice base.
+- **Hachee met appel:** add 2 chopped apples (Bramley or Granny Smith) to the onions in the last 10 minutes of sweating, the rural Dutch variant with extra sweetness.
+- **Hachee with pears (Limburg variant):** add 200 g sliced firm pears to the braise in the last 30 minutes.
+- **Hachee with prunes (sweet-savoury):** add 100 g pitted prunes in the last 30 minutes, the historical Dutch variant.
+- **Modern hachee (lighter):** halve the onions; use chicken stock; serve with a dollop of crème fraîche on top, the modern Amsterdam restaurant variant.
+- **Hachee with red wine instead of beer:** swap the dark lager for 200 ml red wine, lighter, more French.
+- **Hachee for sandwiches (broodje hachee):** chop the finished meat fine and serve in a soft Dutch bun with mustard, the Dutch deli lunch.
+- **Hachee with mushrooms:** add 300 g sliced mushrooms to the onions for the last 10 minutes of sweating.
+- **Slow-cooker hachee:** brown the beef and sweat the onions on the stovetop; transfer to a slow cooker on low for 6-7 hours.
+- **Vegetarian "hachee" with king oyster mushrooms:** swap beef for thick king oyster mushrooms; same onion-and-spice base.
 
 ## Serving
-At a Dutch family Sunday dinner (the traditional setting; October to March) · at a Dutch farm-kitchen winter meal · at a Dutch sinterklaas (5 December) household · at a Dutch Christmas Eve dinner · at a Drenthe or Groningen pub on a winter evening · at home as the cold-weather Sunday braise · paired with [Stamppot boerenkool](stamppot-boerenkool.md), boiled potatoes, or buttered noodles.
+- At a Dutch family Sunday dinner (the traditional setting; October to March) · at a Dutch farm-kitchen winter meal · at a Dutch sinterklaas (5 December) household · at a Dutch Christmas Eve dinner · at a Drenthe or Groningen pub on a winter evening · at home as the cold-weather Sunday braise · paired with [Stamppot boerenkool](stamppot-boerenkool.md), boiled potatoes, or buttered noodles.
 
 ## Storage
 - Refrigerates 5 days; reheats better than it cooks first time round.

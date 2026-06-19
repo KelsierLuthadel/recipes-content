@@ -88,13 +88,13 @@ The Plattsburgh Michigan hot dog (almost always just called "Michigan" or "a Mic
 - **Yellow mustard, not brown:** the Plattsburgh standard.
 
 ## Variations
-**With cheese:** sprinkle shredded mild cheddar over the sauce.
-**Spicier:** double the chilli powder.
-**Vegetarian Michigan sauce:** swap meat for finely chopped mushrooms + walnuts.
-**Wet (extra sauce):** double the sauce ratio; eat with a fork.
+- **With cheese:** sprinkle shredded mild cheddar over the sauce.
+- **Spicier:** double the chilli powder.
+- **Vegetarian Michigan sauce:** swap meat for finely chopped mushrooms + walnuts.
+- **Wet (extra sauce):** double the sauce ratio; eat with a fork.
 
 ## Serving
-At Clare and Carl's in Plattsburgh, NY. At Adirondack diners. At home with a copy of the Plattsburgh-Coney debate handy.
+- At Clare and Carl's in Plattsburgh, NY. At Adirondack diners. At home with a copy of the Plattsburgh-Coney debate handy.
 
 ## Storage
 - Michigan sauce refrigerates 5 days; freezes 3 months (better the next day).

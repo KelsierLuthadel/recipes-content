@@ -62,14 +62,14 @@ These are the small dumplings every Dominican stew pot gets in the last twenty m
 - **The starch thickening:** the dumplings will release a little starch into the broth, which is the desired thickening for a Dominican stew.
 
 ## Variations
-**With cornmeal (Dominican variant):** swap 100 g of the flour for fine cornmeal for a slightly grainy bite.
-**Spinners (the thin twisted version):** roll into long thin twists about 8 cm long for the Jamaican-style spinner alternative.
-**With grated coconut:** knead 30 g of dried grated coconut into the dough for a coconut-laced dumpling.
-**With dasheen:** replace 100 g of flour with 100 g of mashed cooked dasheen for the heritage Carib variant.
-**Sweet dumplings (for sweet bean soup):** add 2 tbsp of sugar and 1/4 tsp of nutmeg to the dough.
+- **With cornmeal (Dominican variant):** swap 100 g of the flour for fine cornmeal for a slightly grainy bite.
+- **Spinners (the thin twisted version):** roll into long thin twists about 8 cm long for the Jamaican-style spinner alternative.
+- **With grated coconut:** knead 30 g of dried grated coconut into the dough for a coconut-laced dumpling.
+- **With dasheen:** replace 100 g of flour with 100 g of mashed cooked dasheen for the heritage Carib variant.
+- **Sweet dumplings (for sweet bean soup):** add 2 tbsp of sugar and 1/4 tsp of nutmeg to the dough.
 
 ## Serving
-Serve in the pot they were cooked in, dropped straight into sancoche · into callaloo · into stewed beef gravy · into fish broth · as part of the Saturday one-pot · ladled into deep bowls with plenty of broth.
+- Serve in the pot they were cooked in, dropped straight into sancoche · into callaloo · into stewed beef gravy · into fish broth · as part of the Saturday one-pot · ladled into deep bowls with plenty of broth.
 
 ## Storage
 - Best eaten the day they're cooked.

@@ -62,7 +62,7 @@ The dinner-party chocolate cheesecake in its most ambitious form: an orange-scen
 - The espresso sauce provides elegant bitterness that balances cheesecake richness; serving it warm alongside cold cheesecake creates temperature contrast
 
 ## Serving
-Slice the cooled cheesecake with a sharp knife dipped in hot water (wipe between cuts) for clean presentation. Serve chilled with warm espresso sauce drizzled over or pooled around the slice. The contrast between cold cheesecake and warm sauce is essential.
+- Slice the cooled cheesecake with a sharp knife dipped in hot water (wipe between cuts) for clean presentation. Serve chilled with warm espresso sauce drizzled over or pooled around the slice. The contrast between cold cheesecake and warm sauce is essential.
 
 ## Storage
 Baked cheesecake keeps refrigerated for up to 4 days, tightly wrapped to prevent absorption of refrigerator odors; the flavor actually matures and improves. Do not freeze, as freezing alters the texture of cream cheese. The espresso sauce can be made 2-3 days ahead and reheated gently before serving. Serve chilled from the refrigerator.

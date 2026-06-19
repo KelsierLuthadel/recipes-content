@@ -85,7 +85,7 @@ Pascualina is the Easter pie that came to the River Plate with Genoese immigrant
 - **With prosciutto.** Lay 4 slices of prosciutto over the filling before the lid; an Italo-Uruguayan upgrade.
 
 ## Serving
-Wedges on a board · a small bowl of dijon mustard · a tomato salad with raw onion · a glass of Albariño or a cold beer.
+- Wedges on a board · a small bowl of dijon mustard · a tomato salad with raw onion · a glass of Albariño or a cold beer.
 
 ## Storage
 - Keeps 3 days refrigerated wrapped; eat at room temperature.

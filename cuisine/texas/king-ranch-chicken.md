@@ -96,13 +96,13 @@ King Ranch chicken casserole is one of Texas's most beloved home-cook casseroles
 - **Better the next day:** flavours deepen.
 
 ## Variations
-**With from-scratch white sauce:** the modern version skips the cream-of-mushroom shortcut; uses a béchamel base.
-**Spicier:** add 2 chopped fresh habaneros; double the jalapeños.
-**With cream cheese:** add 200 g of cream cheese to the sauce; gives extra richness.
-**With chorizo:** crumble 200 g of cooked chorizo into the layers.
+- **With from-scratch white sauce:** the modern version skips the cream-of-mushroom shortcut; uses a béchamel base.
+- **Spicier:** add 2 chopped fresh habaneros; double the jalapeños.
+- **With cream cheese:** add 200 g of cream cheese to the sauce; gives extra richness.
+- **With chorizo:** crumble 200 g of cooked chorizo into the layers.
 
 ## Serving
-On warm plates with sides. Drink: sweet iced tea, Mexican beer.
+- On warm plates with sides. Drink: sweet iced tea, Mexican beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

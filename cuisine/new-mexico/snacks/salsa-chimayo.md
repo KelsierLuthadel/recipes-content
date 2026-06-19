@@ -53,11 +53,11 @@ Salsa de Chimayó is a New Mexican specialty sauce using the traditional chimay�
 - **Brief cook deepens flavour.**
 
 ## Variations
-**Spicier:** add 2 chiles de árbol.
-**Without vinegar:** more chile-forward.
+- **Spicier:** add 2 chiles de árbol.
+- **Without vinegar:** more chile-forward.
 
 ## Serving
-On grilled meats, in NM meals, as condiment.
+- On grilled meats, in NM meals, as condiment.
 
 ## Storage
 - Keeps refrigerated 1 month.

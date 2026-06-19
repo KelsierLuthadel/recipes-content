@@ -46,7 +46,7 @@ Lemon sauce is the building block for Cantonese-style stir-fried chicken and ste
 - **Chilli heat:** Leave the dried chilli whole for mild background warmth; break it up for more intense spice.
 
 ## Serving
-Serve immediately with steamed white fish fillets, poached fish, or stir-fried chicken. Also excellent with prawn dishes.
+- Serve immediately with steamed white fish fillets, poached fish, or stir-fried chicken. Also excellent with prawn dishes.
 
 ## Storage
 - Best eaten immediately after preparation.

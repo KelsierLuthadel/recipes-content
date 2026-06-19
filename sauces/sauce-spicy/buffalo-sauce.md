@@ -44,7 +44,7 @@ Buffalo sauce is the building block of American Buffalo wings, the tangy orange 
 - **Frank's RedHot is the original:** Other cayenne-vinegar hot sauces work (Crystal, Texas Pete, Tabasco-style) but the salt and vinegar levels vary, taste and adjust.
 
 ## Serving
-The classic partner for wings (toss in a wide bowl with a splash of sauce per portion). Also brilliant for: fried chicken sandwiches, drizzled over crisp roasted cauliflower, stirred 1:1 with mayonnaise for a Buffalo dip, or thinned with cream for a pasta sauce.
+- The classic partner for wings (toss in a wide bowl with a splash of sauce per portion). Also brilliant for: fried chicken sandwiches, drizzled over crisp roasted cauliflower, stirred 1:1 with mayonnaise for a Buffalo dip, or thinned with cream for a pasta sauce.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar.

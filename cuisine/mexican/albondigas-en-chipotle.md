@@ -111,13 +111,13 @@ Albóndigas en chipotle is Mexico's most beloved meatball dish and a staple of M
 - **Bread-and-milk panada:** keeps the meatballs tender.
 
 ## Variations
-**Chicken meatballs:** swap beef and pork for ground chicken; lighter version; cook 5 minutes less.
-**Spicier:** double the chipotles and adobo; add 1 chopped fresh habanero; properly fierce.
-**With raisins:** add 50 g of raisins to the meatballs; gives a sweet-savoury Mexican-Moorish touch.
-**Soup version (sopa de albóndigas):** thin the sauce with more stock and serve as a brothy soup with the meatballs floating; common Mexican home version.
+- **Chicken meatballs:** swap beef and pork for ground chicken; lighter version; cook 5 minutes less.
+- **Spicier:** double the chipotles and adobo; add 1 chopped fresh habanero; properly fierce.
+- **With raisins:** add 50 g of raisins to the meatballs; gives a sweet-savoury Mexican-Moorish touch.
+- **Soup version (sopa de albóndigas):** thin the sauce with more stock and serve as a brothy soup with the meatballs floating; common Mexican home version.
 
 ## Serving
-Over hot white rice with the sauce ladled generously. Refried beans, warm corn tortillas, avocado, lime. Drink: cold Tecate or Modelo beer, agua de jamaica (hibiscus), or fresh limeade. As a Mexican weeknight family dinner.
+- Over hot white rice with the sauce ladled generously. Refried beans, warm corn tortillas, avocado, lime. Drink: cold Tecate or Modelo beer, agua de jamaica (hibiscus), or fresh limeade. As a Mexican weeknight family dinner.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

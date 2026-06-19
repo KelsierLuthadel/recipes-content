@@ -60,7 +60,7 @@ Kålrabistappe (also spelt kålrotstappe) is the Norwegian root-vegetable mash t
 - **Don't whip:** Mash to smooth-with-body. Over-whipping makes it gluey and pale.
 
 ## Serving
-The Christmas-dinner classic alongside pinnekjøtt (dried lamb ribs), ribbe (roast pork belly) or any Sunday roast. A spoonful per plate; the dish is rich.
+- The Christmas-dinner classic alongside pinnekjøtt (dried lamb ribs), ribbe (roast pork belly) or any Sunday roast. A spoonful per plate; the dish is rich.
 
 ## Storage
 - Refrigerates 4 days; reheats well in a pan with a splash of cream or milk.

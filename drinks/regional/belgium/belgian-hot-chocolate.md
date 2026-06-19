@@ -74,16 +74,16 @@ Belgian hot chocolate is the country's chocolate tradition expressed as a drink:
 - **The biscuit on the saucer:** speculoos is traditional. A small piece of dark chocolate also works, as does a single Belgian praline.
 
 ## Variations
-**Chocolat chaud à l'orange:** add the grated zest of 1/2 an orange to the milk while heating, infuses the milk with bitter-orange notes; strain before adding chocolate. The Christmas-market variant.
-**Chocolat chaud à la cannelle:** double the cinnamon and add a star anise to the milk while warming, the winter-market variant.
-**Marshmallow Belgian hot chocolate:** top with 2 mini-marshmallows; modern variant, less traditional.
-**White Belgian hot chocolate:** swap the dark chocolate for Callebaut White 28% and add a teaspoon of vanilla bean paste; serve with a raspberry on top, elegant variant.
-**Spicy Mexican-Belgian hybrid:** add 1/4 teaspoon of grated chilli (Mexican / Espelette / Aleppo) and 1/4 teaspoon ground cardamom to the milk, the cocktail-bar variant.
-**Boozy Belgian hot chocolate:** add 30 ml of Cointreau, Cognac, or Belgian genever per cup just before serving, the after-dinner-drink variant.
-**Iced Belgian hot chocolate (chocolat chaud glacé):** prepare as above, let cool, blend with crushed ice and a scoop of vanilla ice cream, the summer variant; closer to a Café liégeois (see [Café liégeois](cafe-liegeois.md)).
+- **Chocolat chaud à l'orange:** add the grated zest of 1/2 an orange to the milk while heating, infuses the milk with bitter-orange notes; strain before adding chocolate. The Christmas-market variant.
+- **Chocolat chaud à la cannelle:** double the cinnamon and add a star anise to the milk while warming, the winter-market variant.
+- **Marshmallow Belgian hot chocolate:** top with 2 mini-marshmallows; modern variant, less traditional.
+- **White Belgian hot chocolate:** swap the dark chocolate for Callebaut White 28% and add a teaspoon of vanilla bean paste; serve with a raspberry on top, elegant variant.
+- **Spicy Mexican-Belgian hybrid:** add 1/4 teaspoon of grated chilli (Mexican / Espelette / Aleppo) and 1/4 teaspoon ground cardamom to the milk, the cocktail-bar variant.
+- **Boozy Belgian hot chocolate:** add 30 ml of Cointreau, Cognac, or Belgian genever per cup just before serving, the after-dinner-drink variant.
+- **Iced Belgian hot chocolate (chocolat chaud glacé):** prepare as above, let cool, blend with crushed ice and a scoop of vanilla ice cream, the summer variant; closer to a Café liégeois (see [Café liégeois](cafe-liegeois.md)).
 
 ## Serving
-At a Brussels chocolatier-café (the traditional setting; Mary on the Rue Royale, Pierre Marcolini in the Sablon district, Wittamer on the Place du Grand-Sablon) · at a Bruges Christmas market on a cold December afternoon · at an Antwerp tea-room mid-morning · at home as a winter Sunday-afternoon ritual · paired with a buttery speculoos or a hand-made praline · as the traditional post-skating drink in the Ardennes.
+- At a Brussels chocolatier-café (the traditional setting; Mary on the Rue Royale, Pierre Marcolini in the Sablon district, Wittamer on the Place du Grand-Sablon) · at a Bruges Christmas market on a cold December afternoon · at an Antwerp tea-room mid-morning · at home as a winter Sunday-afternoon ritual · paired with a buttery speculoos or a hand-made praline · as the traditional post-skating drink in the Ardennes.
 
 ## Storage
 - Doesn't store well, the chocolate-milk emulsion separates within an hour. Make and drink fresh.

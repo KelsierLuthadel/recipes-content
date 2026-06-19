@@ -86,7 +86,7 @@ This is the party canapé that every Moldovan kitchen builds from a half-stiff p
 - **Baked:** brush the chilled balls with oil and bake at 220°C for 18 minutes; lighter, less crisp, fewer calories.
 
 ## Serving
-On a warm platter as a stand-up canapé with a glass of cold local Chișinău lager. As a quick supper alongside a fried egg and a green salad. With sour cream and pickled gherkins on the side.
+- On a warm platter as a stand-up canapé with a glass of cold local Chișinău lager. As a quick supper alongside a fried egg and a green salad. With sour cream and pickled gherkins on the side.
 
 ## Storage
 - Best fresh from the pan; the crust softens within 30 minutes.

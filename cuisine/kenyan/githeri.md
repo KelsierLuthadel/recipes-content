@@ -75,7 +75,7 @@ Githeri is the Kikuyu name for boiled maize-and-bean stew, the historic farm foo
 - **Carrot-potato:** add a diced carrot and potato in Stage 2 for a heartier one-pot.
 
 ## Serving
-A deep bowl of githeri · coriander scattered · pili pili in a small dish · sometimes a chapati alongside · sometimes a fried egg on top.
+- A deep bowl of githeri · coriander scattered · pili pili in a small dish · sometimes a chapati alongside · sometimes a fried egg on top.
 
 ## Storage
 - Refrigerate 4 days; the flavour deepens overnight.

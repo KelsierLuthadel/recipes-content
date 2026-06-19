@@ -67,7 +67,7 @@ Gujiya is the Holi sweet of North India, the half-moon pastry parcel filled with
 - For a sugar-syrup finish (gujiya dunked briefly in one-string syrup), make a syrup with 200 g sugar and 100 ml water boiled to a sticky single thread, and dip each warm fried gujiya in for 30 seconds before lifting onto a rack to set.
 
 ## Serving
-On a tray with chai, between rounds of Holi colour-throwing. A glass of thandai alongside.
+- On a tray with chai, between rounds of Holi colour-throwing. A glass of thandai alongside.
 
 ## Storage
 In an airtight tin at room temperature for up to 5 days. Do not refrigerate; the pastry loses its snap.

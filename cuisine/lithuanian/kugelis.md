@@ -66,14 +66,14 @@ Kugelis (the Lithuanian cousin of the Polish kugel and Jewish kugel) is the coun
 - **Eat warm with sour cream:** the cold dairy against the hot potato is the traditional pairing, not optional.
 
 ## Variations
-**Mushroom kugelis:** add 200 g sautéed dried-mushroom-soaked porcini, a forest-region version.
-**Carrot kugelis:** add 1 grated carrot for sweetness and colour.
-**Vegetarian:** skip the bacon, use 4 tbsp butter and an extra onion; add 1 tsp smoked paprika for the smoke note.
-**With cracklings on top:** scatter fried pork crackling over the surface in the last 15 minutes.
-**Heavy-cream version:** swap the milk for double cream for a richer set.
+- **Mushroom kugelis:** add 200 g sautéed dried-mushroom-soaked porcini, a forest-region version.
+- **Carrot kugelis:** add 1 grated carrot for sweetness and colour.
+- **Vegetarian:** skip the bacon, use 4 tbsp butter and an extra onion; add 1 tsp smoked paprika for the smoke note.
+- **With cracklings on top:** scatter fried pork crackling over the surface in the last 15 minutes.
+- **Heavy-cream version:** swap the milk for double cream for a richer set.
 
 ## Serving
-Serve hot from the oven · with cold sour cream alongside · with mushroom sauce poured over · with a fresh cucumber salad · as a Sunday lunch · cold the next morning straight from the fridge.
+- Serve hot from the oven · with cold sour cream alongside · with mushroom sauce poured over · with a fresh cucumber salad · as a Sunday lunch · cold the next morning straight from the fridge.
 
 ## Storage
 - Keeps 4 days refrigerated.

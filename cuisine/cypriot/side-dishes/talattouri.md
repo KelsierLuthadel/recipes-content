@@ -67,7 +67,7 @@ Talattouri is the Cypriot yoghurt-and-cucumber dip; close cousin to Greek tzatzi
 - **As a sauce, not a dip.** Loosen with 50 ml cold water until pourable; drizzle over sheftalia or souvlakia inside a pita.
 
 ## Serving
-Serve with sheftalia · cypriot souvlakia · grilled halloumi · koupes · warm pita · a bowl of olives.
+- Serve with sheftalia · cypriot souvlakia · grilled halloumi · koupes · warm pita · a bowl of olives.
 
 ## Storage
 - Keeps 4 days refrigerated; the cucumber softens but the flavour holds. Stir well before each use.

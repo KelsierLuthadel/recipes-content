@@ -65,13 +65,13 @@ Arroz con leche is the Cuban rice pudding that turns up at every family dinner, 
 - **It thickens on cooling:** Pull it off the heat when it looks slightly looser than you want; it sets up firm in the fridge.
 
 ## Variations
-**Coconut (arroz con leche de coco):** Replace half the whole milk with coconut milk; tropical, lush.
-**Chocolate:** Stir in 60 g grated dark chocolate at the end of cooking.
-**With raisins (con pasas):** Add 60 g raisins (soaked in 2 tablespoons rum or warm water for 10 minutes) at the same time as the condensed milk.
-**Spanish-style:** Skip the condensed milk; use 80 g caster sugar instead, and serve with a thicker dusting of cinnamon.
+- **Coconut (arroz con leche de coco):** Replace half the whole milk with coconut milk; tropical, lush.
+- **Chocolate:** Stir in 60 g grated dark chocolate at the end of cooking.
+- **With raisins (con pasas):** Add 60 g raisins (soaked in 2 tablespoons rum or warm water for 10 minutes) at the same time as the condensed milk.
+- **Spanish-style:** Skip the condensed milk; use 80 g caster sugar instead, and serve with a thicker dusting of cinnamon.
 
 ## Serving
-Serve warm in glass cups for a comforting after-dinner sweet, or cold from the fridge for a hot-day pudding. A small glass of dark rum on the side is traditional.
+- Serve warm in glass cups for a comforting after-dinner sweet, or cold from the fridge for a hot-day pudding. A small glass of dark rum on the side is traditional.
 
 ## Storage
 - Keeps 4 days refrigerated, covered.

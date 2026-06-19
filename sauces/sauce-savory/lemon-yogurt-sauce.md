@@ -45,7 +45,7 @@ Lemon yogurt sauce is the building block for the cool tart counterpoint on a mez
   - **Lemon-zest version**: add the zest of half a lemon for a more aromatic, brighter sauce.
 
 ## Serving
-With grilled lamb skewers, chicken kebabs, falafel, roast vegetables, charred eggplant, fritters of any kind. Stirred into salads. Spooned over a baked potato. As the cooling element on a mezze platter alongside hummus and baba ganoush.
+- With grilled lamb skewers, chicken kebabs, falafel, roast vegetables, charred eggplant, fritters of any kind. Stirred into salads. Spooned over a baked potato. As the cooling element on a mezze platter alongside hummus and baba ganoush.
 
 ## Storage
 - In a sealed jar in the fridge for up to 3 days. The flavour improves on day 2; by day 3 the garlic starts to dominate.

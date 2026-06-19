@@ -91,13 +91,13 @@ Hoppin' John (also called "Carolina Hoppin' John" or "Lowcountry red rice with p
 - **Vinegar brightens at the end.**
 
 ## Variations
-**With sausage:** add 200 g sliced andouille or smoked sausage.
-**Vegetarian:** skip ham hock; double the smoked paprika; use vegetable stock.
-**Spicier:** double the jalapeños.
-**With tomato (red rice variation):** add 2 chopped tomatoes; gives Lowcountry red rice.
+- **With sausage:** add 200 g sliced andouille or smoked sausage.
+- **Vegetarian:** skip ham hock; double the smoked paprika; use vegetable stock.
+- **Spicier:** double the jalapeños.
+- **With tomato (red rice variation):** add 2 chopped tomatoes; gives Lowcountry red rice.
 
 ## Serving
-On New Year's Day with collards and cornbread for the proper Southern good-luck spread. Year-round as Southern comfort food.
+- On New Year's Day with collards and cornbread for the proper Southern good-luck spread. Year-round as Southern comfort food.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

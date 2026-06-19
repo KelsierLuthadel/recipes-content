@@ -68,13 +68,13 @@ Agrodolce (literally "sour-sweet"; agro = sour, dolce = sweet) is Italy's founda
 - **Best warm or room temperature:** cold congeals slightly.
 
 ## Variations
-**With balsamic:** swap white wine vinegar for balsamic; richer; more "modern Italian".
-**With honey:** swap sugar for honey; gives a different sweetness.
-**Caponata-style:** combine with sautéed eggplant cubes, capers, olives, basil, Sicilian eggplant condiment.
-**Mosto-cotto version:** use Italian mosto cotto (cooked grape must) instead of sugar; deeper sweetness, less traditional agrodolce.
+- **With balsamic:** swap white wine vinegar for balsamic; richer; more "modern Italian".
+- **With honey:** swap sugar for honey; gives a different sweetness.
+- **Caponata-style:** combine with sautéed eggplant cubes, capers, olives, basil, Sicilian eggplant condiment.
+- **Mosto-cotto version:** use Italian mosto cotto (cooked grape must) instead of sugar; deeper sweetness, less traditional agrodolce.
 
 ## Serving
-Drizzle over fish, vegetables, meats. Brush as glaze. Use as a caponata base. With cheese boards. Italian red wine.
+- Drizzle over fish, vegetables, meats. Brush as glaze. Use as a caponata base. With cheese boards. Italian red wine.
 
 ## Storage
 - Keeps refrigerated 1 month in a sealed jar.

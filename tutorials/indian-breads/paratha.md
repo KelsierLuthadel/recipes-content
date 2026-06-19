@@ -91,16 +91,16 @@ A stuffed paratha is breakfast, lunch, or a complete light dinner. It carries th
 ## Variations
 
 ### Mughlai paratha
-A heavier paratha with a stuffing of minced meat + eggs + spices, then folded and pan-fried. A Bengali / Mughlai street food (West Bengal, Bihar).
+- A heavier paratha with a stuffing of minced meat + eggs + spices, then folded and pan-fried. A Bengali / Mughlai street food (West Bengal, Bihar).
 
 ### Lachha paratha (Punjabi)
-The multi-layered spiral paratha. 12-20 visible layers. Crisp outside, soft inside. Restaurant-level paratha.
+- The multi-layered spiral paratha. 12-20 visible layers. Crisp outside, soft inside. Restaurant-level paratha.
 
 ### Malabar paratha (South India / Kerala)
-A Kerala-specific paratha made with maida (refined flour) + egg + ghee. Pulled like Singapore roti prata; layered like phyllo. Texture is silky and chewy.
+- A Kerala-specific paratha made with maida (refined flour) + egg + ghee. Pulled like Singapore roti prata; layered like phyllo. Texture is silky and chewy.
 
 ### Tandoori paratha
-Same dough, but cooked in a tandoor at 480°C. Slightly drier; smokier; crisper edges.
+- Same dough, but cooked in a tandoor at 480°C. Slightly drier; smokier; crisper edges.
 
 ## Common mistakes
 

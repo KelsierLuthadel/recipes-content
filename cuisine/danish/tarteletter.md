@@ -97,14 +97,14 @@ Tarteletter are one of Denmark's most distinctively Danish "fancy lunch" dishes:
 - **Don't overfill:** the filling should mound just above the shell, not spill over.
 
 ## Variations
-**With shrimps and dill (rejer i tarteletter):** swap chicken-and-asparagus for cold-water shrimps in a dill-cream sauce. Equally Danish.
-**With mushrooms:** add 200g sliced sautéed mushrooms; the autumn variant.
-**With ham:** swap chicken for diced cooked ham; the lunchbox version.
-**Vegetarian:** swap chicken for poached cauliflower or mushrooms.
-**Mini-cocktail size:** use 4cm tartlet shells and a smaller portion of filling; serve as canapés at a Danish reception.
+- **With shrimps and dill (rejer i tarteletter):** swap chicken-and-asparagus for cold-water shrimps in a dill-cream sauce. Equally Danish.
+- **With mushrooms:** add 200g sliced sautéed mushrooms; the autumn variant.
+- **With ham:** swap chicken for diced cooked ham; the lunchbox version.
+- **Vegetarian:** swap chicken for poached cauliflower or mushrooms.
+- **Mini-cocktail size:** use 4cm tartlet shells and a smaller portion of filling; serve as canapés at a Danish reception.
 
 ## Serving
-At a Danish confirmation luncheon · at a wedding buffet · at a Sunday lunch · at a Danish 50th birthday celebration · at a Christmas Eve starter course · at home as a special-occasion lunch with sparkling wine.
+- At a Danish confirmation luncheon · at a wedding buffet · at a Sunday lunch · at a Danish 50th birthday celebration · at a Christmas Eve starter course · at home as a special-occasion lunch with sparkling wine.
 
 ## Storage
 - Filling refrigerates 3 days; reheat gently with a splash of milk to loosen.

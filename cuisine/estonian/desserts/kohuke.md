@@ -61,7 +61,7 @@ Kohuke is the Estonian (and Lithuanian, where it is called varškės sūrelis) c
 - **Don't overbeat:** The curd mix should be smooth but not whipped to softness; you need it firm enough to shape.
 
 ## Serving
-Serve cold as an after-school snack, with coffee, or sliced and tucked into a lunchbox. Some Estonians eat them frozen as a sort of cheesecake ice-cream bar.
+- Serve cold as an after-school snack, with coffee, or sliced and tucked into a lunchbox. Some Estonians eat them frozen as a sort of cheesecake ice-cream bar.
 
 ## Storage
 - Keeps 5 days refrigerated in a sealed container

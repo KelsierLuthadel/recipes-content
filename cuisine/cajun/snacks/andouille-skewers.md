@@ -75,11 +75,11 @@ A Cajun cookout skewer, the kind of thing that comes off the grill at a Louisian
 - **Soak wooden skewers:** 30 minutes of soaking stops them burning through on the grill.
 
 ## Variations
-**With pineapple:** Swap the cherry tomatoes for chunks of fresh pineapple, sweet, acidic, and excellent with smoky pork.
-**With shrimp:** Alternate andouille with large peeled prawns for a surf-and-turf skewer (shrimp cooks in 3-4 minutes; thread them last and add to the grill after the first 4 minutes).
+- **With pineapple:** Swap the cherry tomatoes for chunks of fresh pineapple, sweet, acidic, and excellent with smoky pork.
+- **With shrimp:** Alternate andouille with large peeled prawns for a surf-and-turf skewer (shrimp cooks in 3-4 minutes; thread them last and add to the grill after the first 4 minutes).
 
 ## Serving
-Serve with: A pile of dirty rice, maque choux, coleslaw, or a chunk of crusty bread and a wedge of lemon. Plenty of cold beer.
+- Serve with: A pile of dirty rice, maque choux, coleslaw, or a chunk of crusty bread and a wedge of lemon. Plenty of cold beer.
 
 ## Storage
 - Best eaten straight off the grill.

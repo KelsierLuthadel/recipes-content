@@ -101,13 +101,13 @@ Papas rellenas ("stuffed potatoes") is one of Cuba's most beloved street snacks 
 - **Don't overcrowd:** 3-4 at a time max.
 
 ## Variations
-**Ham-and-cheese filling:** swap the picadillo for finely diced ham mixed with grated cheese; gives a milder kid-friendly version.
-**Chicken filling:** swap for shredded slow-cooked chicken with sofrito; lighter version.
-**Vegetarian (with cheese and olives):** fill with a mix of crumbled feta, sliced olives and sautéed garlic-spinach; vegetarian-friendly.
-**Baked version (healthier):** brush coated papas with oil; bake at 200°C / 400°F for 25 minutes till golden. Less crisp but lighter.
+- **Ham-and-cheese filling:** swap the picadillo for finely diced ham mixed with grated cheese; gives a milder kid-friendly version.
+- **Chicken filling:** swap for shredded slow-cooked chicken with sofrito; lighter version.
+- **Vegetarian (with cheese and olives):** fill with a mix of crumbled feta, sliced olives and sautéed garlic-spinach; vegetarian-friendly.
+- **Baked version (healthier):** brush coated papas with oil; bake at 200°C / 400°F for 25 minutes till golden. Less crisp but lighter.
 
 ## Serving
-On a serving plate with lime wedges and dipping sauces. At Cuban parties, family gatherings, breakfast spreads, or as a snack any time. Drink: Cristal beer, mojito, or fresh coffee.
+- On a serving plate with lime wedges and dipping sauces. At Cuban parties, family gatherings, breakfast spreads, or as a snack any time. Drink: Cristal beer, mojito, or fresh coffee.
 
 ## Storage
 - Best eaten immediately while crispy.

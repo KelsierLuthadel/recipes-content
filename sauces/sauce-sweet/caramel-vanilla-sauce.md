@@ -52,7 +52,7 @@ Caramel with vanilla sauce is the building block for a quick caramel that uses b
 - **Sieving:** Removes any sugar crystals that may have formed.
 
 ## Serving
-Drizzle over poached pears, fresh pancakes, crêpes, or stir into natural yoghurt for simple elegance. Also excellent with vanilla ice cream or as topping for warm soufflés.
+- Drizzle over poached pears, fresh pancakes, crêpes, or stir into natural yoghurt for simple elegance. Also excellent with vanilla ice cream or as topping for warm soufflés.
 
 ## Storage
 - Keeps refrigerated for 3 days in an airtight container.

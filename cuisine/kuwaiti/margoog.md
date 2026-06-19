@@ -71,7 +71,7 @@ Margoog is winter food in Kuwait and the eastern Gulf, a stew of lamb or chicken
 - **Lamb on the bone** is the proper choice; the bone gives the broth its body.
 
 ## Serving
-Serve in deep bowls, hot, with a wedge of lime and bread on the side.
+- Serve in deep bowls, hot, with a wedge of lime and bread on the side.
 
 ## Storage
 - Best the day it's made; the dough softens overnight

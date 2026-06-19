@@ -75,13 +75,13 @@ The Baltimore hot dog (sometimes called a "bologna dog" or a "Maryland dog") is 
 - **Same pan for bologna + dogs:** the bologna fat seasons the dogs.
 
 ## Variations
-**With cheese:** add a slice of American cheese inside the bologna wrap before adding the dog.
-**With chili:** ladle a small spoon of beef chili over the assembled dog for a Baltimore chili-bologna dog.
-**Spicier:** use spicy beef bologna (Lebanon bologna for the smoky-acidic Pennsylvania Dutch variant).
-**Open-face on rye:** swap the bun for a slice of toasted rye; eat with a fork-and-knife.
+- **With cheese:** add a slice of American cheese inside the bologna wrap before adding the dog.
+- **With chili:** ladle a small spoon of beef chili over the assembled dog for a Baltimore chili-bologna dog.
+- **Spicier:** use spicy beef bologna (Lebanon bologna for the smoky-acidic Pennsylvania Dutch variant).
+- **Open-face on rye:** swap the bun for a slice of toasted rye; eat with a fork-and-knife.
 
 ## Serving
-At Lexington Market in Baltimore. At a working-class diner in Highlandtown or Dundalk. At home with a Natty Boh and a baseball game on.
+- At Lexington Market in Baltimore. At a working-class diner in Highlandtown or Dundalk. At home with a Natty Boh and a baseball game on.
 
 ## Storage
 - Best fresh.

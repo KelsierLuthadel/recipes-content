@@ -122,16 +122,16 @@ Rouladen (literally "rolled things") is one of Germany's most beloved Sunday-lun
 - **Strain the gravy:** smooth, glossy gravy is the traditional German style.
 
 ## Variations
-**Bavarian rouladen with bratwurst:** add a slice of bratwurst inside each roll alongside the bacon, heartier variant.
-**Rouladen with sauerkraut:** stuff with a small amount of sauerkraut alongside the pickle, even more sour.
-**Rouladen mit Pflaumen (plum rouladen):** add 1-2 prunes to the filling, sweet-savoury Berlin variant.
-**Modern open rouladen:** layer all the fillings on a single sheet of beef, fold once, and braise as one piece, easier, less traditional.
-**Mini rouladen (canapé):** make smaller rolls (8-9 cm) with single-slice fillings; serve as starters.
-**Vegetarian rouladen:** use sliced aubergine or grilled portobello mushroom in place of beef; smoked tofu in place of bacon. Modern variant.
-**Pressure cooker rouladen:** brown then pressure-cook for 40 minutes high pressure, faster, less time for flavour development.
+- **Bavarian rouladen with bratwurst:** add a slice of bratwurst inside each roll alongside the bacon, heartier variant.
+- **Rouladen with sauerkraut:** stuff with a small amount of sauerkraut alongside the pickle, even more sour.
+- **Rouladen mit Pflaumen (plum rouladen):** add 1-2 prunes to the filling, sweet-savoury Berlin variant.
+- **Modern open rouladen:** layer all the fillings on a single sheet of beef, fold once, and braise as one piece, easier, less traditional.
+- **Mini rouladen (canapé):** make smaller rolls (8-9 cm) with single-slice fillings; serve as starters.
+- **Vegetarian rouladen:** use sliced aubergine or grilled portobello mushroom in place of beef; smoked tofu in place of bacon. Modern variant.
+- **Pressure cooker rouladen:** brown then pressure-cook for 40 minutes high pressure, faster, less time for flavour development.
 
 ## Serving
-At a German Sunday family lunch (the traditional setting, the "Sonntagsbraten") · at a German Christmas Eve dinner · at a German wedding luncheon · at a German birthday celebration · at a Bavarian beer-hall as a special-occasion dish · at a German-themed dinner abroad · at home for a special Saturday-evening dinner-for-two with a bottle of Spätburgunder.
+- At a German Sunday family lunch (the traditional setting, the "Sonntagsbraten") · at a German Christmas Eve dinner · at a German wedding luncheon · at a German birthday celebration · at a Bavarian beer-hall as a special-occasion dish · at a German-themed dinner abroad · at home for a special Saturday-evening dinner-for-two with a bottle of Spätburgunder.
 
 ## Storage
 - Refrigerates 3 days; the flavour deepens overnight.

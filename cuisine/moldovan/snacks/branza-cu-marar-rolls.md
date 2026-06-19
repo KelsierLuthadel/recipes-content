@@ -78,7 +78,7 @@ These are the Moldovan answer to the Greek tiropita: thin filo pastry wrapped ti
 - **Frozen and baked from frozen:** assembled rolls freeze raw for 2 months; bake from frozen at 200°C for 25 minutes.
 
 ## Serving
-Warm from the oven on a wooden board with a small bowl of sour cream and a wedge of lemon. At a wedding buffet next to other canapés. With a glass of cold Fetească Albă or sparkling Cricova. As a market-stall snack in a paper bag.
+- Warm from the oven on a wooden board with a small bowl of sour cream and a wedge of lemon. At a wedding buffet next to other canapés. With a glass of cold Fetească Albă or sparkling Cricova. As a market-stall snack in a paper bag.
 
 ## Storage
 - Best the day they are made.

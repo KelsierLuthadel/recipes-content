@@ -89,15 +89,15 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 - **Generous butter on the bread:** the buttery layer is essential under the wet karrysild.
 
 ## Variations
-**With grated carrot:** add a small grated carrot for sweetness and crunch.
-**With raisins:** add 2 tablespoons of raisins (plumped in akvavit first) for a richer, more Christmas-feast version.
-**Spicier:** add a pinch of cayenne or chopped fresh chilli.
-**With smoked herring instead of pickled:** less traditional, more smoky.
-**Mini canapé size:** spoon onto small squares of buttered crisp bread for cocktail-hour smørrebrød.
-**With dill and crème fraîche only (sweeter, milder):** for kids or curry-averse guests.
+- **With grated carrot:** add a small grated carrot for sweetness and crunch.
+- **With raisins:** add 2 tablespoons of raisins (plumped in akvavit first) for a richer, more Christmas-feast version.
+- **Spicier:** add a pinch of cayenne or chopped fresh chilli.
+- **With smoked herring instead of pickled:** less traditional, more smoky.
+- **Mini canapé size:** spoon onto small squares of buttered crisp bread for cocktail-hour smørrebrød.
+- **With dill and crème fraîche only (sweeter, milder):** for kids or curry-averse guests.
 
 ## Serving
-At a Danish julefrokost Christmas lunch (alongside 5-6 other small dishes) · at a Sunday cold-buffet · as one of the traditional herring trio (curried, mustard, dilled) at any Danish lunch · at a Copenhagen restaurant smørrebrød lunch · at home with cold beer and akvavit.
+- At a Danish julefrokost Christmas lunch (alongside 5-6 other small dishes) · at a Sunday cold-buffet · as one of the traditional herring trio (curried, mustard, dilled) at any Danish lunch · at a Copenhagen restaurant smørrebrød lunch · at home with cold beer and akvavit.
 
 ## Storage
 - Karrysild refrigerates 1 week in a sealed container (the flavour deepens over the first 3 days).

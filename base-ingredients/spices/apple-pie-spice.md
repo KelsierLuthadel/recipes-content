@@ -33,9 +33,9 @@ Apple pie spice is closely related to pumpkin pie spice but tilts more toward ci
 - **No ginger variant.** Some American home cooks omit the ginger entirely for a softer baking blend.
 
 ## Serving
-Use in: apple pie filling, apple crumble, apple cobbler, apple muffins, apple-cinnamon oatmeal, French toast, mulled cider, apple cake
-Typical ratio: 1 to 2 teaspoons per portion
-Application: stirred into the apple filling or batter at the start
+- Use in: apple pie filling, apple crumble, apple cobbler, apple muffins, apple-cinnamon oatmeal, French toast, mulled cider, apple cake
+- Typical ratio: 1 to 2 teaspoons per portion
+- Application: stirred into the apple filling or batter at the start
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

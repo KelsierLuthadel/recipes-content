@@ -55,7 +55,7 @@ Steaming is the great Cantonese fish technique, the method that purists insist i
 - **Garlic oil finish:** The hot oil infused with garlic adds fragrance and richness without masking the fish's delicate flavour.
 
 ## Serving
-Serve with: Steamed white rice and a simple vegetable like bok choi
+- Serve with: Steamed white rice and a simple vegetable like bok choi
 
 ## Storage
 - Best served immediately

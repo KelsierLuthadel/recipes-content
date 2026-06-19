@@ -102,15 +102,15 @@ Picanha is the Brazilian gaucho tradition's most prized cut of beef: the top-sir
 - **Medium-rare is traditional:** 50-55°C internal temperature. Don't cook beyond medium; you'll dry the fat-crust magic out.
 
 ## Variations
-**Picanha steaks (instead of whole cut):** slice the picanha into 2 cm thick "steaks" before grilling, each steak gets its own fat cap. Pan-sear or grill 4 minutes per side.
-**With chimichurri (Argentine-Brazilian crossover):** swap the molho for chimichurri sauce, Argentine influence.
-**Picanha and provoleta:** grill provolone cheese alongside the picanha (with oregano and chilli): classic Brazilian sides.
-**Espeto picanha (street-food version):** small chunks of picanha on bamboo skewers, charcoal-grilled at Brazilian markets and beachfront stalls.
-**Pan-seared picanha:** if you don't have a grill, sear in a screaming-hot cast-iron pan with the fat side first; same technique.
-**Picanha sandwich:** sliced grilled picanha in a fresh bread roll with chimichurri or molho, the classic Brazilian-Uruguayan street food.
+- **Picanha steaks (instead of whole cut):** slice the picanha into 2 cm thick "steaks" before grilling, each steak gets its own fat cap. Pan-sear or grill 4 minutes per side.
+- **With chimichurri (Argentine-Brazilian crossover):** swap the molho for chimichurri sauce, Argentine influence.
+- **Picanha and provoleta:** grill provolone cheese alongside the picanha (with oregano and chilli): classic Brazilian sides.
+- **Espeto picanha (street-food version):** small chunks of picanha on bamboo skewers, charcoal-grilled at Brazilian markets and beachfront stalls.
+- **Pan-seared picanha:** if you don't have a grill, sear in a screaming-hot cast-iron pan with the fat side first; same technique.
+- **Picanha sandwich:** sliced grilled picanha in a fresh bread roll with chimichurri or molho, the classic Brazilian-Uruguayan street food.
 
 ## Serving
-At a Brazilian churrasco (the traditional setting) · at a Rio Grande do Sul gaucho ranch (the original picanha territory) · at a Brazilian steakhouse (churrascaria) anywhere in the world · at a Brazilian World Cup viewing party · at a Brazilian wedding reception · at home for a Saturday family barbecue · alongside cold beer and football on TV.
+- At a Brazilian churrasco (the traditional setting) · at a Rio Grande do Sul gaucho ranch (the original picanha territory) · at a Brazilian steakhouse (churrascaria) anywhere in the world · at a Brazilian World Cup viewing party · at a Brazilian wedding reception · at home for a Saturday family barbecue · alongside cold beer and football on TV.
 
 ## Storage
 - Cooked picanha refrigerates 3 days; eat cold sliced or reheat gently.

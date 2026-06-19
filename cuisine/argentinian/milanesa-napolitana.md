@@ -85,17 +85,17 @@ Milanesa a la napolitana is one of Argentina's most beloved everyday dishes, a l
 - **Lemon at the table:** the traditional Argentine touch. Squeeze over each milanesa before eating.
 
 ## Variations
-**Milanesa simple (without napolitana):** just the breaded fried milanesa with lemon, no topping. The classic version.
-**Milanesa a caballo:** topped with a fried egg ("a horseback") instead of the napolitana topping.
-**Milanesa con fugazza:** topped with caramelised onions and provolone instead of tomato sauce.
-**Milanesa de pollo:** swap beef for chicken breast (pounded thin).
-**Milanesa de berenjena:** swap beef for sliced aubergine, vegetarian version.
-**Milanesa al napolitano with pizza toppings:** add peppers, olives, anchovies, modernised pizza-style.
-**Milanesa al pan:** in a sandwich (sangu de milanesa) with lettuce, tomato, mayo, Buenos Aires lunch icon.
-**Argentine milanesa para almuerzo:** smaller, served as a hot lunch with potato salad.
+- **Milanesa simple (without napolitana):** just the breaded fried milanesa with lemon, no topping. The classic version.
+- **Milanesa a caballo:** topped with a fried egg ("a horseback") instead of the napolitana topping.
+- **Milanesa con fugazza:** topped with caramelised onions and provolone instead of tomato sauce.
+- **Milanesa de pollo:** swap beef for chicken breast (pounded thin).
+- **Milanesa de berenjena:** swap beef for sliced aubergine, vegetarian version.
+- **Milanesa al napolitano with pizza toppings:** add peppers, olives, anchovies, modernised pizza-style.
+- **Milanesa al pan:** in a sandwich (sangu de milanesa) with lettuce, tomato, mayo, Buenos Aires lunch icon.
+- **Argentine milanesa para almuerzo:** smaller, served as a hot lunch with potato salad.
 
 ## Serving
-At every Argentine weekday family dinner (the traditional setting) · at a Buenos Aires bodegón (working-class restaurant) · at an Italian-Argentine pizzeria · at home as the easy weeknight dinner · at an Argentine school cafeteria · as the traditional Argentine office-lunch box · with a glass of Malbec at home.
+- At every Argentine weekday family dinner (the traditional setting) · at a Buenos Aires bodegón (working-class restaurant) · at an Italian-Argentine pizzeria · at home as the easy weeknight dinner · at an Argentine school cafeteria · as the traditional Argentine office-lunch box · with a glass of Malbec at home.
 
 ## Storage
 - Cooked milanesas (without topping) refrigerate 3 days; reheat in a 180°C oven for 8 minutes.

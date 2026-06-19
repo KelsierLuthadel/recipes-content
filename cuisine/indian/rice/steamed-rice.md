@@ -70,17 +70,17 @@ Basic steamed rice is deceptively important. This method produces separate, tend
 - **Fork or Chopstick:** Using these allows gentle separation; a spoon crushes and breaks the grains.
 
 ## Variations
-**with Lemon:** Squeeze fresh lime or lemon juice over the finished rice and add zest for brightness.
-**Aromatic Oil:** Drizzle with aromatic oil infused with cumin seeds or bay leaf instead of plain ghee.
-**Coconut Water:** Replace some cold water with unsweetened coconut water for subtle, sweet flavor.
-**Spice-Scented:** Toast a pinch of cumin seeds and 1 bay leaf in ghee, then add rice and water as directed.
-**Herb-Infused:** Add 2-3 crushed cardamom pods or 1 cinnamon stick to the water before cooking.
+- **with Lemon:** Squeeze fresh lime or lemon juice over the finished rice and add zest for brightness.
+- **Aromatic Oil:** Drizzle with aromatic oil infused with cumin seeds or bay leaf instead of plain ghee.
+- **Coconut Water:** Replace some cold water with unsweetened coconut water for subtle, sweet flavor.
+- **Spice-Scented:** Toast a pinch of cumin seeds and 1 bay leaf in ghee, then add rice and water as directed.
+- **Herb-Infused:** Add 2-3 crushed cardamom pods or 1 cinnamon stick to the water before cooking.
 
 ## Serving
-Serve with: Any curry, dal, tandoori proteins, pickles, raita
-Temperature: Serve hot, immediately after fluffing
-Amount: Approximately 200g (1 cup cooked) per person
-Garnish: Fresh coriander leaves, fried onions, or sliced fresh chilli
+- Serve with: Any curry, dal, tandoori proteins, pickles, raita
+- Temperature: Serve hot, immediately after fluffing
+- Amount: Approximately 200g (1 cup cooked) per person
+- Garnish: Fresh coriander leaves, fried onions, or sliced fresh chilli
 
 ## Storage
 - Refrigerate leftover cooked rice in an airtight container for up to 3 days

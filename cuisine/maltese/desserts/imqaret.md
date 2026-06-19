@@ -79,13 +79,13 @@ Imqaret (singular "mqaret"; the name comes from the Arabic root for "diamond-sha
 - **Eat warm:** best straight from the fryer.
 
 ## Variations
-**Baked imqaret:** bake at 200°C for 18-20 minutes, easier, less traditional.
-**With walnuts:** add 80 g chopped walnuts to the date paste.
-**With honey drizzle:** drizzle warm honey after frying.
-**Mini imqaret:** smaller diamonds (3 cm) for canapé portions.
+- **Baked imqaret:** bake at 200°C for 18-20 minutes, easier, less traditional.
+- **With walnuts:** add 80 g chopped walnuts to the date paste.
+- **With honey drizzle:** drizzle warm honey after frying.
+- **Mini imqaret:** smaller diamonds (3 cm) for canapé portions.
 
 ## Serving
-At a Maltese village festa (the traditional setting) · sold from street carts outside churches · at a Maltese coffee shop · at home as a sweet snack · with strong Maltese coffee.
+- At a Maltese village festa (the traditional setting) · sold from street carts outside churches · at a Maltese coffee shop · at home as a sweet snack · with strong Maltese coffee.
 
 ## Storage
 - Best eaten warm; texture is best within 4 hours.

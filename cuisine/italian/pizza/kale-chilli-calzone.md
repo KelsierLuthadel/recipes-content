@@ -62,13 +62,13 @@ A weeknight calzone with the shortcut on the dough: a packet of ciabatta mix tha
 - **Ricotta vs mozzarella:** Ricotta gives a softer, creamier filling; mozzarella stretches when pulled apart. Choose by mood.
 
 ## Variations
-**Spicy sausage:** Add 100 grams of crumbled cooked Italian sausage to the kale filling.
-**Three cheese:** Use a mix of ricotta, mozzarella and 2 tablespoons of grated parmesan for a richer fill.
-**With sun-dried tomato:** Stir 4 chopped sun-dried tomatoes into the kale during the last minute of cooking.
+- **Spicy sausage:** Add 100 grams of crumbled cooked Italian sausage to the kale filling.
+- **Three cheese:** Use a mix of ricotta, mozzarella and 2 tablespoons of grated parmesan for a richer fill.
+- **With sun-dried tomato:** Stir 4 chopped sun-dried tomatoes into the kale during the last minute of cooking.
 
 ## Serving
-Serve with: A simple tomato salad dressed with olive oil and red wine vinegar
-Garnish with: A drizzle of chilli oil and a few extra fresh chilli rings
+- Serve with: A simple tomato salad dressed with olive oil and red wine vinegar
+- Garnish with: A drizzle of chilli oil and a few extra fresh chilli rings
 
 ## Storage
 - Keeps 1 day refrigerated; reheat in a hot oven for 6 to 8 minutes

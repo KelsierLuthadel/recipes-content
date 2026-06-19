@@ -63,7 +63,7 @@ Cawl is the everyday hill-farm stew of Wales, a long, gentle simmer of lamb on t
 - **Modern thickened version:** mash a few of the potatoes back into the broth at the end.
 
 ## Serving
-At the kitchen table on a cold day · at a chapel supper or community gathering · on St David's Day with leeks on the plate · as a Monday lunch using the Sunday roast bone · in a Welsh pub with bread and Caerphilly.
+- At the kitchen table on a cold day · at a chapel supper or community gathering · on St David's Day with leeks on the plate · as a Monday lunch using the Sunday roast bone · in a Welsh pub with bread and Caerphilly.
 
 ## Storage
 - Keeps 3 days refrigerated; the flavour improves on day two.

@@ -92,14 +92,14 @@ Cà ri gà is Vietnam's chicken curry, the dish that sits between French colonia
 - **Vegetable timing:** Add vegetables toward the end to maintain their texture and nutritional value.
 
 ## Variations
-**Seafood version:** Replace chicken with 600g large prawns or firm white fish; reduce cooking time in Stage 4 to 2-3 minutes
-**Extra spicy:** Add 2-3 fresh bird's eye chillies in Stage 3 or increase red chilli to 2
-**Vegetarian:** Omit chicken and use 400g firm tofu (cubed); use vegetable stock instead of chicken stock
-**With pumpkin:** Add 250g pumpkin (cubed) in Stage 6 for sweetness and texture
-**Coconut-forward:** Increase coconut milk to 500ml and reduce chicken stock to 50ml for a richer sauce
+- **Seafood version:** Replace chicken with 600g large prawns or firm white fish; reduce cooking time in Stage 4 to 2-3 minutes
+- **Extra spicy:** Add 2-3 fresh bird's eye chillies in Stage 3 or increase red chilli to 2
+- **Vegetarian:** Omit chicken and use 400g firm tofu (cubed); use vegetable stock instead of chicken stock
+- **With pumpkin:** Add 250g pumpkin (cubed) in Stage 6 for sweetness and texture
+- **Coconut-forward:** Increase coconut milk to 500ml and reduce chicken stock to 50ml for a richer sauce
 
 ## Serving
-Serve with: Jasmine rice, rice noodles, or steamed basmati rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side.
+- Serve with: Jasmine rice, rice noodles, or steamed basmati rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side.
 
 ## Storage
 - Keeps 3 days refrigerated in an airtight container

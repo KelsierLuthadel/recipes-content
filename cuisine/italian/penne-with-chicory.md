@@ -70,13 +70,13 @@ Penne with chicory and sausage is the rustic Italian pasta of the Veneto, crumbl
 - **Cream Finish:** The cream is just a finish; it shouldn't overpower the sausage and chicory flavors.
 
 ## Variations
-**Add Garlic:** Include 1 crushed garlic clove with the onion for more depth.
-**Spicy Heat:** Add ½ teaspoon chilli flakes to the sausage mixture for heat.
-**With Roasted Vegetables:** Substitute some chicory with roasted red peppers for sweetness.
+- **Add Garlic:** Include 1 crushed garlic clove with the onion for more depth.
+- **Spicy Heat:** Add ½ teaspoon chilli flakes to the sausage mixture for heat.
+- **With Roasted Vegetables:** Substitute some chicory with roasted red peppers for sweetness.
 
 ## Serving
-Serve with: Crusty bread, green salad, red wine (Chianti or Barbera)
-Garnish with: Fresh parsley, cracked black pepper, extra grated Parmesan
+- Serve with: Crusty bread, green salad, red wine (Chianti or Barbera)
+- Garnish with: Fresh parsley, cracked black pepper, extra grated Parmesan
 
 ## Storage
 - Refrigerate leftovers in an airtight container for up to 2 days

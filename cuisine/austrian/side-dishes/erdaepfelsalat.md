@@ -70,12 +70,12 @@ Erdäpfelsalat is Vienna's potato salad, a properly Austrian creation that has n
 - **Onion fine, very fine:** the raw onion needs to be almost minced so it disperses through the salad rather than sitting in chunks. Soaking the diced onion in the warm stock for a few minutes also takes the sharp edge off.
 
 ## Variations
-**With cucumber:** a peeled cucumber, deseeded and finely sliced, added at the same time as the potatoes; Heuriger summer version.
-**Speck-Erdäpfelsalat:** 80 g of crisp diced bacon and its rendered fat folded through; turns the salad from side to almost-main.
-**Vienna-style with apple:** half a tart eating apple finely diced into the salad with the onion; an old-style refinement that brightens the flavour profile.
+- **With cucumber:** a peeled cucumber, deseeded and finely sliced, added at the same time as the potatoes; Heuriger summer version.
+- **Speck-Erdäpfelsalat:** 80 g of crisp diced bacon and its rendered fat folded through; turns the salad from side to almost-main.
+- **Vienna-style with apple:** half a tart eating apple finely diced into the salad with the onion; an old-style refinement that brightens the flavour profile.
 
 ## Serving
-The traditional partner for [Backhendl](../backhendl.md) and Wiener Schnitzel, but also wonderful alongside roast pork, grilled sausages, smoked fish or any cold cut. Serve at room temperature on the side of the plate; never as a chilled salad.
+- The traditional partner for [Backhendl](../backhendl.md) and Wiener Schnitzel, but also wonderful alongside roast pork, grilled sausages, smoked fish or any cold cut. Serve at room temperature on the side of the plate; never as a chilled salad.
 
 ## Storage
 - Keeps 2 days refrigerated, but the flavour and texture are at their best within 4 hours of dressing. The potatoes drink in the dressing as it sits, so by day 2 the salad has gone a bit dry; revive by adding a splash more warm stock and a fresh drizzle of pumpkin seed oil.

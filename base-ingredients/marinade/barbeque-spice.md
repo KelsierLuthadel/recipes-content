@@ -128,24 +128,24 @@ Barbecue spice is the building block for American backyard grilling, used either
 ## Variations
 
 ### SPICE MIX VARIATIONS:
-**Extra Smoky:** Add ½ teaspoon liquid smoke to the dry mix or wet marinade.
-**Sweeter:** Increase brown sugar to 3 teaspoons (packed); reduce chilli powder to ½ teaspoon.
-**Extra Spicy:** Add ½ teaspoon crushed red chilli flakes or ½ teaspoon additional chilli powder.
-**With Cumin:** Add ½ teaspoon ground cumin for earthiness.
-**Smoky & Spicy:** Add ¼ teaspoon liquid smoke + ½ teaspoon additional paprika for pronounced smoke-heat.
+- **Extra Smoky:** Add ½ teaspoon liquid smoke to the dry mix or wet marinade.
+- **Sweeter:** Increase brown sugar to 3 teaspoons (packed); reduce chilli powder to ½ teaspoon.
+- **Extra Spicy:** Add ½ teaspoon crushed red chilli flakes or ½ teaspoon additional chilli powder.
+- **With Cumin:** Add ½ teaspoon ground cumin for earthiness.
+- **Smoky & Spicy:** Add ¼ teaspoon liquid smoke + ½ teaspoon additional paprika for pronounced smoke-heat.
 
 ### MARINADE VARIATIONS:
-**Bourbon Marinade:** Replace wine with bourbon (150 milliliters) for deeper, sweeter character.
-**With Fresh Thyme:** Add 2-3 sprigs fresh thyme to the wine mixture for herbal depth.
-**Extra Garlic:** Add 2 additional crushed garlic cloves to the wine mixture for pungency.
-**With Worcestershire:** Add 1-2 tablespoons Worcestershire sauce to the wine mixture for savory umami.
+- **Bourbon Marinade:** Replace wine with bourbon (150 milliliters) for deeper, sweeter character.
+- **With Fresh Thyme:** Add 2-3 sprigs fresh thyme to the wine mixture for herbal depth.
+- **Extra Garlic:** Add 2 additional crushed garlic cloves to the wine mixture for pungency.
+- **With Worcestershire:** Add 1-2 tablespoons Worcestershire sauce to the wine mixture for savory umami.
 
 ## Serving
-Use as dry rub on: Steaks, chops (pork/lamb), chicken (whole or pieces), ribs, larger fish steaks
-Use as wet marinade for: Thick steaks, whole chicken, larger/tougher cuts requiring tenderizing
-Rub timing: Apply 30 minutes to 1 hour before grilling for dry rub
-Marinade timing: 4-24 hours in refrigerator depending on cut thickness
-Grill temperature: Medium to medium-high heat (not screaming hot to prevent sugar burning)
+- Use as dry rub on: Steaks, chops (pork/lamb), chicken (whole or pieces), ribs, larger fish steaks
+- Use as wet marinade for: Thick steaks, whole chicken, larger/tougher cuts requiring tenderizing
+- Rub timing: Apply 30 minutes to 1 hour before grilling for dry rub
+- Marinade timing: 4-24 hours in refrigerator depending on cut thickness
+- Grill temperature: Medium to medium-high heat (not screaming hot to prevent sugar burning)
 
 ## Storage - SPICE MIX
 - Store in airtight glass jar away from light and heat for 4-6 months

@@ -81,14 +81,14 @@ Tagliatelle with sausage and porcini is the rustic Italian autumn pasta, crumble
 - **Fresh Pasta:** Fresh tagliatelle is essential here; dried pasta won't capture the sauce's silky quality.
 
 ## Variations
-**Without Porcini:** Omit the porcini and substitute 100 grams fresh button mushrooms, sautéed separately if desired.
-**Extra Leek:** Use 2 leeks instead of 1 for a deeper, more subtly sweet sauce.
-**Sage Variation:** Replace rosemary with 2 tablespoons fresh sage for different herbal character.
+- **Without Porcini:** Omit the porcini and substitute 100 grams fresh button mushrooms, sautéed separately if desired.
+- **Extra Leek:** Use 2 leeks instead of 1 for a deeper, more subtly sweet sauce.
+- **Sage Variation:** Replace rosemary with 2 tablespoons fresh sage for different herbal character.
 
 ## Serving
-Serve with: Crusty bread for sauce soaking, green salad with lemon vinaigrette
-Garnish with: Fresh rosemary sprig, cracked black pepper, grated Parmesan
-Pair with: Medium-bodied red wine (Barbera) or white Burgundy
+- Serve with: Crusty bread for sauce soaking, green salad with lemon vinaigrette
+- Garnish with: Fresh rosemary sprig, cracked black pepper, grated Parmesan
+- Pair with: Medium-bodied red wine (Barbera) or white Burgundy
 
 ## Storage
 - Refrigerate cooked dish in an airtight container for up to 2 days

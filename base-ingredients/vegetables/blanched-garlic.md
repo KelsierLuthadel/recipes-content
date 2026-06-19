@@ -64,15 +64,15 @@ Blanched garlic is the foundation for delicate French side dishes where you want
 - **Immediate Use:** Blanched garlic is best used immediately after preparation. It can be refrigerated for 2-3 days but loses delicate flavor as it sits.
 
 ## Variations
-**Reduced Blanching:** Use only 2-3 blanches for mild but more identifiable garlic flavor.
-**With Butter:** After drying, toss blanched garlic cloves in a little warm butter before serving.
-**Herbed:** Add a bay leaf and thyme sprig to one of the blanching liquids for subtle herbal notes.
+- **Reduced Blanching:** Use only 2-3 blanches for mild but more identifiable garlic flavor.
+- **With Butter:** After drying, toss blanched garlic cloves in a little warm butter before serving.
+- **Herbed:** Add a bay leaf and thyme sprig to one of the blanching liquids for subtle herbal notes.
 
 ## Serving
-Use with: Fried green beans, vegetable sides, creamed soups, with roasted meats
-Temperature: Warm or room temperature (reheat gently if preparing ahead)
-Amount: 2-3 cloves per serving
-Preparation: Serve whole as a garnish or halved mixed into the finished dish
+- Use with: Fried green beans, vegetable sides, creamed soups, with roasted meats
+- Temperature: Warm or room temperature (reheat gently if preparing ahead)
+- Amount: 2-3 cloves per serving
+- Preparation: Serve whole as a garnish or halved mixed into the finished dish
 
 ## Storage
 - Refrigerate in an airtight container for 2-3 days maximum

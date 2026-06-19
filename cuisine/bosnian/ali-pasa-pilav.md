@@ -96,7 +96,7 @@ Ali-paša pilav is a noble dish from the Ottoman archive, named for one of the B
 - **With Vegeta:** a teaspoon of Vegeta in the braise is the home shortcut; not strictly traditional but very common.
 
 ## Serving
-On one shared wide platter · with cold yoghurt · with a scoop of ajvar · with a small dish of pickled green chillies · followed by tufahije and kafa
+- On one shared wide platter · with cold yoghurt · with a scoop of ajvar · with a small dish of pickled green chillies · followed by tufahije and kafa
 
 ## Storage
 - Keeps refrigerated 3 days; the pilaf reheats well.

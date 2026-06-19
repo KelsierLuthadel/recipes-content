@@ -62,13 +62,13 @@ Mojo (pronounced moh-ho) is the foundational Cuban sauce and the traditional Cub
 - **Rest before serving:** 30 minutes for the flavours to marry.
 
 ## Variations
-**Mojo verde:** add 1 large bunch of chopped fresh coriander and 1 small chopped chilli; gives a green mojo close to Canarian-Spanish style.
-**Mojo with cumin-heavy:** double the cumin; gives a deeper warm-spice profile.
-**With cilantro (mojo criollo):** add 2 tablespoons of finely chopped fresh culantro/recao; gives a more aromatic Caribbean version.
-**Roasted-garlic mojo:** roast the garlic cloves at 200°C / 400°F for 25 minutes till caramelised; then add to the warm oil; gives a sweeter mellower mojo. Different but excellent.
+- **Mojo verde:** add 1 large bunch of chopped fresh coriander and 1 small chopped chilli; gives a green mojo close to Canarian-Spanish style.
+- **Mojo with cumin-heavy:** double the cumin; gives a deeper warm-spice profile.
+- **With cilantro (mojo criollo):** add 2 tablespoons of finely chopped fresh culantro/recao; gives a more aromatic Caribbean version.
+- **Roasted-garlic mojo:** roast the garlic cloves at 200°C / 400°F for 25 minutes till caramelised; then add to the warm oil; gives a sweeter mellower mojo. Different but excellent.
 
 ## Serving
-At the table in a small jug for drizzling. Over yuca con mojo (the traditional pairing), sliced lechón asado, malanga frita, tostones, masitas de puerco, grilled chicken, grilled fish. As a marinade (mojo criollo) for lechón asado before roasting. As a dipping sauce for Cuban bread.
+- At the table in a small jug for drizzling. Over yuca con mojo (the traditional pairing), sliced lechón asado, malanga frita, tostones, masitas de puerco, grilled chicken, grilled fish. As a marinade (mojo criollo) for lechón asado before roasting. As a dipping sauce for Cuban bread.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar.

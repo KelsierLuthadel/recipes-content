@@ -60,7 +60,7 @@ Mishti doi is the Bengali signature dessert: not a yogurt with sugar stirred in,
 - **Mango mishti doi:** stir 100 g sweet mango pulp into the warm milk before culturing for a summer variant.
 
 ## Serving
-Eat chilled, in the small clay pot or ramekin · a dust of cardamom on top · a teaspoon of crushed pistachios
+- Eat chilled, in the small clay pot or ramekin · a dust of cardamom on top · a teaspoon of crushed pistachios
 
 ## Storage
 - Refrigerate up to 4 days; firmness increases slightly over time

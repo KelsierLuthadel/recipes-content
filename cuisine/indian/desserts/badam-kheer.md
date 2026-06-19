@@ -57,7 +57,7 @@ Badam kheer is the Indian almond pudding that lands on every Diwali table and Ei
 - If you have a high-speed blender, you can skip the almond-grinding step and blitz everything together in one go at the end. The texture is slightly less refined.
 
 ## Serving
-Hot from the pan into shallow bowls on Diwali night. Equally good chilled the next day, with a thinner pour of cream over the top.
+- Hot from the pan into shallow bowls on Diwali night. Equally good chilled the next day, with a thinner pour of cream over the top.
 
 ## Storage
 Refrigerated, up to 3 days. It will thicken further, loosen with a splash of milk when reheating.

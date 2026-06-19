@@ -70,16 +70,16 @@ Baharat is the seven-spice backbone of Eastern Mediterranean and Gulf cooking, t
 - **Regional Variations:** Some versions add more cinnamon, others increase cloves. Adjust to personal preference.
 
 ## Variations
-**Spicier:** Increase chilli powder to 2 ½ teaspoons.
-**Sweeter:** Add ½ cinnamon stick to the initial roasting, or grind an additional stick and add 1 teaspoon at the end.
-**Earthier:** Increase cumin seeds to 3 tablespoons in the roasting stage.
-**For Red Meat:** Add 1 additional tablespoon paprika and 1 teaspoon extra nutmeg.
+- **Spicier:** Increase chilli powder to 2 ½ teaspoons.
+- **Sweeter:** Add ½ cinnamon stick to the initial roasting, or grind an additional stick and add 1 teaspoon at the end.
+- **Earthier:** Increase cumin seeds to 3 tablespoons in the roasting stage.
+- **For Red Meat:** Add 1 additional tablespoon paprika and 1 teaspoon extra nutmeg.
 
 ## Serving
-Use in: Middle Eastern meat curries, rice pilafs, spiced stews, meat marinades, slow-cooked dishes
-Typical ratio: 1-2 teaspoons per portion depending on dish
-Application: Toast briefly in oil before adding other ingredients to bloom the spices
-Temperature: Works best when fried in hot oil to release aromatic oils
+- Use in: Middle Eastern meat curries, rice pilafs, spiced stews, meat marinades, slow-cooked dishes
+- Typical ratio: 1-2 teaspoons per portion depending on dish
+- Application: Toast briefly in oil before adding other ingredients to bloom the spices
+- Temperature: Works best when fried in hot oil to release aromatic oils
 
 ## Storage
 - Store in airtight glass jar in a cool, dark place away from light and heat

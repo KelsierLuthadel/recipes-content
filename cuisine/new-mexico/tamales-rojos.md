@@ -94,13 +94,13 @@ New Mexico tamales rojos are the traditional NM Christmas Eve and major feast-da
 - **Make in large batches:** freeze.
 
 ## Variations
-**Green chile chicken tamales:** swap pork for chicken; red chile for green.
-**Cheese and jalapeño:** vegetarian; cheese strip + sliced jalapeño as filling.
-**Sweet tamales:** sweetened masa + raisins + cinnamon.
-**Beef tamales:** swap pork for shredded beef.
+- **Green chile chicken tamales:** swap pork for chicken; red chile for green.
+- **Cheese and jalapeño:** vegetarian; cheese strip + sliced jalapeño as filling.
+- **Sweet tamales:** sweetened masa + raisins + cinnamon.
+- **Beef tamales:** swap pork for shredded beef.
 
 ## Serving
-At Christmas Eve, weddings, feast days. With red or green chile sauce, sour cream, salsa. Mexican beer.
+- At Christmas Eve, weddings, feast days. With red or green chile sauce, sour cream, salsa. Mexican beer.
 
 ## Storage
 - Steamed tamales keep refrigerated 5 days.

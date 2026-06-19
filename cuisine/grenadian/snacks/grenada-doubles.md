@@ -91,14 +91,14 @@ Doubles originated in Trinidad and migrated to Grenada with the Indian-Caribbean
 - **Eat fresh:** doubles are a 5-minute food; assemble to order.
 
 ## Variations
-**Roti-shop style:** add a spoon of mango kuchela (spicy mango pickle) inside the wrap.
-**Aloo doubles:** add 200 g cubed cooked potato to the chickpeas.
-**With pepper sauce only:** for serious heat seekers, skip the chutney and add more scotch bonnet sauce.
-**Saheena variation:** swap chickpea filling for spinach-and-split-pea fritters.
-**Egg doubles:** add a sliced boiled egg on top of the channa (a Grenadian local touch).
+- **Roti-shop style:** add a spoon of mango kuchela (spicy mango pickle) inside the wrap.
+- **Aloo doubles:** add 200 g cubed cooked potato to the chickpeas.
+- **With pepper sauce only:** for serious heat seekers, skip the chutney and add more scotch bonnet sauce.
+- **Saheena variation:** swap chickpea filling for spinach-and-split-pea fritters.
+- **Egg doubles:** add a sliced boiled egg on top of the channa (a Grenadian local touch).
 
 ## Serving
-For breakfast at a roadside stall · as late-lunch wrapped in paper · with a Solo grapefruit soft drink · at 2am after a Friday lime.
+- For breakfast at a roadside stall · as late-lunch wrapped in paper · with a Solo grapefruit soft drink · at 2am after a Friday lime.
 
 ## Storage
 - The chickpea filling keeps 4 days refrigerated.

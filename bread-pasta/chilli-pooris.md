@@ -88,17 +88,17 @@ Chilli pooris are the building block of an Indian street-food spread and the bre
 - **Flour Balance:** The mix of whole wheat and plain flour creates nice texture; all plain flour works but is blander.
 
 ## Variations
-**Spicier Heat:** Add ½ teaspoon chilli powder to the dough, or use red chilli powder instead of mild.
-**Plain Pooris:** Omit the fresh chilli and chilli powder for simple, unseasoned version.
-**Herb Pooris:** Add 1 tablespoon finely chopped fresh coriander or mint to the dough.
-**Bigger Pooris:** Roll into 15 cm discs for larger puffed breads (they take 40-60 seconds per side).
-**Sooji Pooris:** Replace plain flour with sooji (semolina) for crispier texture.
+- **Spicier Heat:** Add ½ teaspoon chilli powder to the dough, or use red chilli powder instead of mild.
+- **Plain Pooris:** Omit the fresh chilli and chilli powder for simple, unseasoned version.
+- **Herb Pooris:** Add 1 tablespoon finely chopped fresh coriander or mint to the dough.
+- **Bigger Pooris:** Roll into 15 cm discs for larger puffed breads (they take 40-60 seconds per side).
+- **Sooji Pooris:** Replace plain flour with sooji (semolina) for crispier texture.
 
 ## Serving
-Serve with: Potato curry, dal, pickles, chutneys, or curries
-Accompany: With fresh lime juice and onion slices
-Temperature: Serve immediately while hot and crispy
-Vessel: Serve in a basket lined with cloth to retain heat and crispness
+- Serve with: Potato curry, dal, pickles, chutneys, or curries
+- Accompany: With fresh lime juice and onion slices
+- Temperature: Serve immediately while hot and crispy
+- Vessel: Serve in a basket lined with cloth to retain heat and crispness
 
 ## Storage
 - Best served immediately after frying

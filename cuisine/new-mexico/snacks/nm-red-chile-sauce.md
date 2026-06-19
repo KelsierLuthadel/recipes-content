@@ -68,12 +68,12 @@ New Mexico red chile sauce is the foundational sauce of New Mexican cooking and 
 - **Adjust thickness with water.**
 
 ## Variations
-**Spicier:** include hot NM chiles or 2 chiles de árbol.
-**With cocoa:** add 1 tablespoon cocoa powder; deeper umami.
-**Mild:** skip the seeds entirely.
+- **Spicier:** include hot NM chiles or 2 chiles de árbol.
+- **With cocoa:** add 1 tablespoon cocoa powder; deeper umami.
+- **Mild:** skip the seeds entirely.
 
 ## Serving
-On enchiladas, tamales, burritos, rellenos. With NM food.
+- On enchiladas, tamales, burritos, rellenos. With NM food.
 
 ## Storage
 - Keeps refrigerated 1 week.

@@ -107,16 +107,16 @@ The Montreal smoked-meat sandwich is one of Canada's most identity-defining deli
 - **No cheese, no mayo, no lettuce, no tomato:** the Montreal classic is meat + rye + mustard. Adding anything else is a denial of the tradition.
 
 ## Variations
-**Sous-vide shortcut:** cure 7 days; vacuum-seal; sous-vide at 80°C for 24 hours; finish under a hot smoker or in a 230°C oven for 30 minutes for the bark. 24 hours of sous-vide replicates the 4-hour steam stage; the cure is shorter, the smoke shorter, but the result is very close.
-**Smoked meat on rye with mustard AND pickles (Schwartz's "complète"):** the traditional Schwartz's order, add a side of sliced sour pickle on the sandwich itself.
-**Smoked meat poutine:** chop the smoked meat into smaller pieces; scatter over a finished poutine, see [Poutine](poutine.md) variations.
-**Lean cut sandwich:** ask for "lean", thicker slices from the trimmed point with minimal fat. Schwartz's purists order "medium" for a balance of fat and lean.
-**Smoked meat omelette:** chop 100 g into small pieces; fold into a 3-egg omelette with Swiss cheese, the deli breakfast variant.
-**Smoked meat hash:** dice 200 g smoked meat; fry with diced potato, onion, and a fried egg on top.
-**Vegan "smoked meat" (modern):** seitan or jackfruit slow-cooked with the Montreal spice profile and smoked, surprisingly close.
+- **Sous-vide shortcut:** cure 7 days; vacuum-seal; sous-vide at 80°C for 24 hours; finish under a hot smoker or in a 230°C oven for 30 minutes for the bark. 24 hours of sous-vide replicates the 4-hour steam stage; the cure is shorter, the smoke shorter, but the result is very close.
+- **Smoked meat on rye with mustard AND pickles (Schwartz's "complète"):** the traditional Schwartz's order, add a side of sliced sour pickle on the sandwich itself.
+- **Smoked meat poutine:** chop the smoked meat into smaller pieces; scatter over a finished poutine, see [Poutine](poutine.md) variations.
+- **Lean cut sandwich:** ask for "lean", thicker slices from the trimmed point with minimal fat. Schwartz's purists order "medium" for a balance of fat and lean.
+- **Smoked meat omelette:** chop 100 g into small pieces; fold into a 3-egg omelette with Swiss cheese, the deli breakfast variant.
+- **Smoked meat hash:** dice 200 g smoked meat; fry with diced potato, onion, and a fried egg on top.
+- **Vegan "smoked meat" (modern):** seitan or jackfruit slow-cooked with the Montreal spice profile and smoked, surprisingly close.
 
 ## Serving
-At Schwartz's Hebrew Delicatessen in Montreal (the traditional setting; the queue down Saint-Laurent Boulevard at any hour) · at any Montreal Jewish deli (Lester's, Smoked Meat Pete, Snowdon Deli) · at a Toronto deli with Montreal pedigree · at home as a special-project weekend with friends · as a Quebec Saint-Jean-Baptiste celebration dish (24 June) · at any Canadian summer barbecue with a touch of theatre.
+- At Schwartz's Hebrew Delicatessen in Montreal (the traditional setting; the queue down Saint-Laurent Boulevard at any hour) · at any Montreal Jewish deli (Lester's, Smoked Meat Pete, Snowdon Deli) · at a Toronto deli with Montreal pedigree · at home as a special-project weekend with friends · as a Quebec Saint-Jean-Baptiste celebration dish (24 June) · at any Canadian summer barbecue with a touch of theatre.
 
 ## Storage
 - Smoked meat (cooked) refrigerates 5 days wrapped tight; steam-reheat for 10 minutes to restore tenderness.

@@ -103,13 +103,13 @@ Linzer Torte holds the distinction of being the oldest cake recipe in the world;
 - **The 24-hour rest:** the torte tastes flat the moment it comes out of the oven. After 24 hours the pastry has softened and the flavours have married into the layered nut-spice-jam character that defines a proper Linzer. Bake the day before serving.
 
 ## Variations
-**With ground almonds:** swap the hazelnuts for the same weight of ground almonds; gives a lighter, slightly less nutty character. Common in Vienna and southern Germany.
-**With a layer of marzipan:** brush a thin layer of softened marzipan over the pastry base before adding the jam; intensifies the almond flavour for an indulgent version.
-**Linzer Augen (Linzer eyes):** the cookie version, made from the same pastry rolled out, cut into rounds, sandwiched in pairs with jam in the middle, with a cut-out small hole in the top cookie revealing the jam beneath like an eye. The classic Christmas cookie in Austria.
-**With chocolate ganache:** a modern Linzer variant replaces the jam with chocolate ganache or pairs jam with a layer of chocolate. Pleasant but unconventional.
+- **With ground almonds:** swap the hazelnuts for the same weight of ground almonds; gives a lighter, slightly less nutty character. Common in Vienna and southern Germany.
+- **With a layer of marzipan:** brush a thin layer of softened marzipan over the pastry base before adding the jam; intensifies the almond flavour for an indulgent version.
+- **Linzer Augen (Linzer eyes):** the cookie version, made from the same pastry rolled out, cut into rounds, sandwiched in pairs with jam in the middle, with a cut-out small hole in the top cookie revealing the jam beneath like an eye. The classic Christmas cookie in Austria.
+- **With chocolate ganache:** a modern Linzer variant replaces the jam with chocolate ganache or pairs jam with a layer of chocolate. Pleasant but unconventional.
 
 ## Serving
-Sliced thick at room temperature, dusted with icing sugar just before serving. Drink: strong black coffee (a Kleiner Brauner or Wiener Melange), or a dessert wine such as a Burgenland Beerenauslese. Lightly sweetened whipped cream on the side is welcome but optional. Traditional through Advent and Christmas in Austria.
+- Sliced thick at room temperature, dusted with icing sugar just before serving. Drink: strong black coffee (a Kleiner Brauner or Wiener Melange), or a dessert wine such as a Burgenland Beerenauslese. Lightly sweetened whipped cream on the side is welcome but optional. Traditional through Advent and Christmas in Austria.
 
 ## Storage
 - Keeps 7-10 days at room temperature in a tin, tightly covered. The torte actually improves over the first 2-3 days as the flavours marry.

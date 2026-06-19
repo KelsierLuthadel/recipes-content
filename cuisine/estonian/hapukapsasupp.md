@@ -69,7 +69,7 @@ Hapukapsasupp (literally "sour-cabbage soup") is the Estonian sister to Russian 
 - **No pork:** The soup can be made on a strong vegetable stock with smoked paprika and white beans instead of pork; not traditional but it works.
 
 ## Serving
-Serve hot in deep bowls with a spoon of sour cream, chopped dill on top and rye bread on the side. A glass of dark beer or kali alongside.
+- Serve hot in deep bowls with a spoon of sour cream, chopped dill on top and rye bread on the side. A glass of dark beer or kali alongside.
 
 ## Storage
 - Keeps 4 days refrigerated

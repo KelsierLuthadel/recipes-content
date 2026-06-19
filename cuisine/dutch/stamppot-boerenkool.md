@@ -109,17 +109,17 @@ Stamppot is the traditional Dutch one-pot winter dinner, and stamppot boerenkool
 - **Gelderse rookworst:** the traditional Dutch smoked sausage. Available at Dutch supermarkets and some specialty butchers abroad. Polish kielbasa is the closest substitute; a good Cumberland or smoked bratwurst also works.
 
 ## Variations
-**Stamppot zuurkool (sauerkraut variant):** swap the kale for 500 g good sauerkraut (drained, rinsed lightly); the most popular variant after boerenkool.
-**Hutspot (carrot-and-onion variant):** swap kale for 400 g chopped carrots + 1 large chopped onion, sweated together; see [Hutspot](hutspot.md) for the full recipe.
-**Andijviestamppot (endive variant):** swap kale for 400 g chopped raw curly endive (the bitterness mellows in the mash); finish with extra mature cheese.
-**Boerenkool-met-spek (bacon-rich version):** double the bacon; fold in extra crispy bacon and a handful of fried onion shreds at the end.
-**Vegetarian stamppot:** skip the sausage and bacon; use vegetable stock; serve with a fried egg on top.
-**Stamppot with apple-pear compote:** the rural Friesland variant; serve the stamppot with a side of warm spiced apple-and-pear compote.
-**Modern Amsterdam restaurant variant:** present in a wide bowl with a quenelle of stamppot, the sausage sliced into rounds and seared on one side, the jus drizzled artfully, same flavours, different plating.
-**Stamppot with smoked salmon (modern):** swap the rookworst for a generous slice of hot-smoked salmon, the modern Dutch healthy-week variant.
+- **Stamppot zuurkool (sauerkraut variant):** swap the kale for 500 g good sauerkraut (drained, rinsed lightly); the most popular variant after boerenkool.
+- **Hutspot (carrot-and-onion variant):** swap kale for 400 g chopped carrots + 1 large chopped onion, sweated together; see [Hutspot](hutspot.md) for the full recipe.
+- **Andijviestamppot (endive variant):** swap kale for 400 g chopped raw curly endive (the bitterness mellows in the mash); finish with extra mature cheese.
+- **Boerenkool-met-spek (bacon-rich version):** double the bacon; fold in extra crispy bacon and a handful of fried onion shreds at the end.
+- **Vegetarian stamppot:** skip the sausage and bacon; use vegetable stock; serve with a fried egg on top.
+- **Stamppot with apple-pear compote:** the rural Friesland variant; serve the stamppot with a side of warm spiced apple-and-pear compote.
+- **Modern Amsterdam restaurant variant:** present in a wide bowl with a quenelle of stamppot, the sausage sliced into rounds and seared on one side, the jus drizzled artfully, same flavours, different plating.
+- **Stamppot with smoked salmon (modern):** swap the rookworst for a generous slice of hot-smoked salmon, the modern Dutch healthy-week variant.
 
 ## Serving
-At a Dutch family Sunday dinner (the traditional setting, from October to March) · at a Dutch farm-kitchen at the end of a cold workday · at a Friesland or Drenthe pub on a winter evening · at a Dutch Christmas Eve meal · at a Dutch student-residence house dinner · at home as the traditional winter restorative.
+- At a Dutch family Sunday dinner (the traditional setting, from October to March) · at a Dutch farm-kitchen at the end of a cold workday · at a Friesland or Drenthe pub on a winter evening · at a Dutch Christmas Eve meal · at a Dutch student-residence house dinner · at home as the traditional winter restorative.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a splash of milk to loosen.

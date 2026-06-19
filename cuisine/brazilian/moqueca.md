@@ -107,17 +107,17 @@ Moqueca is a Bahian fish stew with deep African roots. The name comes from the i
 - **Layer, don't stir:** the dish is built in layers and gently simmered; vigorous stirring would break up the fish.
 
 ## Variations
-**Moqueca capixaba (Espírito Santo state):** swap the coconut milk and dendê for olive oil and tomato base. Lighter, more Portuguese-influenced.
-**Shrimp moqueca:** swap fish for 800 g large prawns (shell-on); reduce cooking time to 8-10 minutes.
-**Mixed seafood moqueca:** combine fish + prawns + squid + scallops; layered moqueca with multiple seafoods.
-**Crab moqueca (caranguejo):** swap fish for crab claws, coastal Bahian variant.
-**Mussel moqueca:** swap fish for mussels, fast (8 minutes cooking).
-**Vegetarian moqueca:** swap fish for hearts of palm + chunks of plantain + chickpeas, surprising and excellent.
-**Moqueca de ovos:** swap fish for eggs poached in the moqueca broth.
-**Moqueca de banana (sweet variant):** with plantains and palm hearts instead of fish, Bahian street food.
+- **Moqueca capixaba (Espírito Santo state):** swap the coconut milk and dendê for olive oil and tomato base. Lighter, more Portuguese-influenced.
+- **Shrimp moqueca:** swap fish for 800 g large prawns (shell-on); reduce cooking time to 8-10 minutes.
+- **Mixed seafood moqueca:** combine fish + prawns + squid + scallops; layered moqueca with multiple seafoods.
+- **Crab moqueca (caranguejo):** swap fish for crab claws, coastal Bahian variant.
+- **Mussel moqueca:** swap fish for mussels, fast (8 minutes cooking).
+- **Vegetarian moqueca:** swap fish for hearts of palm + chunks of plantain + chickpeas, surprising and excellent.
+- **Moqueca de ovos:** swap fish for eggs poached in the moqueca broth.
+- **Moqueca de banana (sweet variant):** with plantains and palm hearts instead of fish, Bahian street food.
 
 ## Serving
-At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Brazilian Sunday family lunch in any northeast city · at a Brazilian dinner party in São Paulo or Rio · at a Bahian Carnival party · at a Brazilian-themed dinner abroad as a stunning showpiece · at home with friends and a bottle of Brazilian beer.
+- At a Salvador (Bahia) beachfront restaurant (the traditional setting) · at a Brazilian Sunday family lunch in any northeast city · at a Brazilian dinner party in São Paulo or Rio · at a Bahian Carnival party · at a Brazilian-themed dinner abroad as a stunning showpiece · at home with friends and a bottle of Brazilian beer.
 
 ## Storage
 - Refrigerates 2 days (the fish gets slightly less tender on day 2; the broth is even better).

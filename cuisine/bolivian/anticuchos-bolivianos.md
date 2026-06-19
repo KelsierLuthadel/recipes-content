@@ -81,7 +81,7 @@ To serve:
 - Add a charred spring onion to each skewer between the meat cubes
 
 ## Serving
-Serve hot off the grill · two skewers per person · peanut sauce drizzled across · llajwa heaped beside · cold beer or a hot api in the cold night
+- Serve hot off the grill · two skewers per person · peanut sauce drizzled across · llajwa heaped beside · cold beer or a hot api in the cold night
 
 ## Storage
 - Marinated raw heart keeps 2 days refrigerated; freeze 1 month

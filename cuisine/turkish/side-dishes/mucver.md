@@ -91,13 +91,13 @@ Mücver (pronounced moo-jver) is Turkey's signature summer vegetable fritter and
 - **Eat warm:** mücver loses its proper texture as it cools. Best fresh out of the pan.
 
 ## Variations
-**Carrot mücver:** swap the courgette for grated carrot; gives a sweeter brighter fritter. Common Aegean variation.
-**Spinach mücver (ıspanaklı mücver):** swap half the courgette for finely chopped cooked spinach (squeezed dry); gives a darker green fritter.
-**Cheese-free mücver:** skip the feta; double the herbs; serve with extra-thick yogurt. Lighter version.
-**Spicy mücver:** add 1 finely chopped fresh red chilli to the mix; gives a properly warm fritter.
+- **Carrot mücver:** swap the courgette for grated carrot; gives a sweeter brighter fritter. Common Aegean variation.
+- **Spinach mücver (ıspanaklı mücver):** swap half the courgette for finely chopped cooked spinach (squeezed dry); gives a darker green fritter.
+- **Cheese-free mücver:** skip the feta; double the herbs; serve with extra-thick yogurt. Lighter version.
+- **Spicy mücver:** add 1 finely chopped fresh red chilli to the mix; gives a properly warm fritter.
 
 ## Serving
-On a meze plate alongside other small Turkish appetisers: cacık (yogurt-cucumber), haydari (yogurt-feta-mint), patlıcan salatası (smoky aubergine), ezme (spicy tomato paste). With warm Turkish flatbread or pide. Drink: ayran, rakı (the traditional meze pairing), or chilled rosé.
+- On a meze plate alongside other small Turkish appetisers: cacık (yogurt-cucumber), haydari (yogurt-feta-mint), patlıcan salatası (smoky aubergine), ezme (spicy tomato paste). With warm Turkish flatbread or pide. Drink: ayran, rakı (the traditional meze pairing), or chilled rosé.
 
 ## Storage
 - Best eaten warm and fresh; the crispness fades as they cool.

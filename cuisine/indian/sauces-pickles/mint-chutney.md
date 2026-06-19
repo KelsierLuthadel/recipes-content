@@ -48,14 +48,14 @@ The bright-green dipping chutney that turns up on every Indian restaurant table 
 - **Chill Time:** Don't skip the refrigeration; cold chutney is far more refreshing.
 
 ## Variations
-**With Fresh Mint:** Replace commercial mint sauce with 3 tablespoons fresh mint leaves blended with the other ingredients.
-**Coriander Version:** Add 1 tablespoon fresh coriander leaves for additional herbal depth.
-**Cumin Addition:** Add ¼ teaspoon toasted ground cumin for earthiness.
-**Garlic Emphasis:** Use 2 tablespoons of garlic paste instead of combined garlic-ginger for more punch.
+- **With Fresh Mint:** Replace commercial mint sauce with 3 tablespoons fresh mint leaves blended with the other ingredients.
+- **Coriander Version:** Add 1 tablespoon fresh coriander leaves for additional herbal depth.
+- **Cumin Addition:** Add ¼ teaspoon toasted ground cumin for earthiness.
+- **Garlic Emphasis:** Use 2 tablespoons of garlic paste instead of combined garlic-ginger for more punch.
 
 ## Serving
-Serve with: Samosas, pakora, tandoori dishes, curries, rotis
-Garnish: Fresh mint sprig, squeeze of lime
+- Serve with: Samosas, pakora, tandoori dishes, curries, rotis
+- Garnish: Fresh mint sprig, squeeze of lime
 
 ## Storage
 - Refrigerate in a covered container for up to 4 days

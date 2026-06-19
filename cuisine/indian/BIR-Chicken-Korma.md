@@ -69,9 +69,9 @@ BIR chicken korma is the gentlest curry on the British restaurant menu, a creamy
 - **Base sauce:** Making the base curry sauce in advance significantly cuts final cook time.
 
 ## Serving
-Serve with: Steamed basmati rice, naan, and a mild dhal
-Garnish with: Fresh coriander and optional toasted flaked almonds
-Accompaniment: Raita and mango chutney
+- Serve with: Steamed basmati rice, naan, and a mild dhal
+- Garnish with: Fresh coriander and optional toasted flaked almonds
+- Accompaniment: Raita and mango chutney
 
 ## Storage
 - Refrigerate up to 2-3 days in an airtight container

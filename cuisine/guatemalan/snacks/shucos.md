@@ -96,14 +96,14 @@ The shuco is Guatemala's national hot dog and a fixture of Guatemala City street
 - **Roll tight:** loose rolls fall apart when eaten.
 
 ## Variations
-**Shuco mixto:** add a chorizo + a hot dog together inside the same tortilla (the "mixed shuco").
-**Shuco con longaniza:** swap the hot dog for grilled Guatemalan longaniza sausage.
-**Shuco con queso:** add a slice of melted queso fundido inside.
-**Spicier:** add Guatemalan ají chilli sauce (similar to Mexican salsa roja).
-**Vegetarian:** swap the dog for grilled portobello strips; keep the avocado and toppings.
+- **Shuco mixto:** add a chorizo + a hot dog together inside the same tortilla (the "mixed shuco").
+- **Shuco con longaniza:** swap the hot dog for grilled Guatemalan longaniza sausage.
+- **Shuco con queso:** add a slice of melted queso fundido inside.
+- **Spicier:** add Guatemalan ají chilli sauce (similar to Mexican salsa roja).
+- **Vegetarian:** swap the dog for grilled portobello strips; keep the avocado and toppings.
 
 ## Serving
-At a Guatemala City street stand on Avenida La Reforma at lunch; at a Quetzaltenango fair; at an Antigua food market; at home with a cold beer.
+- At a Guatemala City street stand on Avenida La Reforma at lunch; at a Quetzaltenango fair; at an Antigua food market; at home with a cold beer.
 
 ## Storage
 - Smashed avocado refrigerates 1 day (press cling film onto the surface to prevent browning).

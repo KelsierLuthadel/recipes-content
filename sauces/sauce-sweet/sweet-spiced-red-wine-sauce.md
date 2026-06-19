@@ -34,9 +34,9 @@ Sweet spiced red wine sauce is the building block for a deeply aromatic mulled-w
 - Pass the sauce through a fine-meshed sieve while it is still warm for the smoothest result; the liquid thickens as it cools and becomes harder to strain.
 
 ## Serving
-Serve with: poached peaches or pears, moulded rice pudding, or vanilla ice cream
-Temperature: cold or at room temperature
-Amount: approximately 3-4 tablespoons per person
+- Serve with: poached peaches or pears, moulded rice pudding, or vanilla ice cream
+- Temperature: cold or at room temperature
+- Amount: approximately 3-4 tablespoons per person
 
 ## Storage
 - Store in an airtight container in the refrigerator for up to 5 days.

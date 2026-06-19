@@ -73,16 +73,16 @@ Candied citrus peel is the petit-four trick that turns the part of the fruit you
 - **Separation During Cooling:** Keep peels separated on the rack during cooling; they'll stick together if touching.
 
 ## Variations
-**Orange-Only Version:** Use 6 medium oranges instead of grapefruits for shorter poaching time (2 hours).
-**Lemon Peel:** Thinner-skinned lemons require reduced cooking time (about 1 ½ hours per poaching).
-**Mixed Citrus:** Combine grapefruit, orange, and lemon peels for visual variety and flavor complexity.
-**Chocolate-Dipped:** After sugar-coating, dip the bottom third of each peel into tempered dark chocolate using a small fork.
-**Vanilla-Sugar Coating:** Replace half the granulated sugar with vanilla sugar for fragrant finish.
+- **Orange-Only Version:** Use 6 medium oranges instead of grapefruits for shorter poaching time (2 hours).
+- **Lemon Peel:** Thinner-skinned lemons require reduced cooking time (about 1 ½ hours per poaching).
+- **Mixed Citrus:** Combine grapefruit, orange, and lemon peels for visual variety and flavor complexity.
+- **Chocolate-Dipped:** After sugar-coating, dip the bottom third of each peel into tempered dark chocolate using a small fork.
+- **Vanilla-Sugar Coating:** Replace half the granulated sugar with vanilla sugar for fragrant finish.
 
 ## Serving
-Perfect with: Strong tea or coffee, afternoon tea service, as part of a petit four platter, alongside dark chocolate, holiday gifts
-Temperature: Room temperature
-Context: Elegant presentations, tea service, seasonal celebrations
+- Perfect with: Strong tea or coffee, afternoon tea service, as part of a petit four platter, alongside dark chocolate, holiday gifts
+- Temperature: Room temperature
+- Context: Elegant presentations, tea service, seasonal celebrations
 
 ## Storage
 - Store in an airtight container in the refrigerator, interleaving peels with parchment paper to prevent sticking: 2-3 weeks

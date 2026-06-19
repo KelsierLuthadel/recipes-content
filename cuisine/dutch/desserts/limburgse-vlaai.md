@@ -137,18 +137,18 @@ Vlaai is the signature regional tart of the Dutch province of Limburg, the south
 - **Lattice vs crumb:** the lattice is traditional; the crumb (kruimelvlaai) is equally traditional. Some Limburg bakeries offer half-and-half.
 
 ## Variations
-**Pruimenvlaai (plum vlaai):** swap cherries for 800 g stewed plums; lattice topping.
-**Abrikozenvlaai (apricot vlaai):** swap cherries for 600 g dried apricots reconstituted in hot water; crumb topping; very popular.
-**Kruimelvlaai (crumb-topped):** any fruit filling, but covered with the butter-flour-sugar crumb instead of a lattice.
-**Rijstevlaai (rice vlaai):** the cream-rice-pudding filling described in the recipe; usually has a lattice top.
-**Appelvlaai (apple vlaai):** swap cherries for 800 g sliced cooked apples + 80 g raisins + 1 teaspoon cinnamon; lattice OR crumb top.
-**Stroopvlaai (sugar-syrup vlaai):** a filling of pure dark sugar syrup (stroop) + butter + spice, the simplest Limburg variant.
-**Bessenvlaai (red-currant vlaai):** swap cherries for 600 g fresh red or blackcurrants + 200 g sugar; tart and bright.
-**Mini vlaaien (individual portions):** divide dough and filling among 8 individual tart tins (10 cm diameter); bake 20-25 minutes, the small-format variant.
-**Modern Maastricht restaurant vlaai:** with a quenelle of vanilla ice cream, a small jug of warm cherry sauce, and a wafer biscuit, bistro-fied.
+- **Pruimenvlaai (plum vlaai):** swap cherries for 800 g stewed plums; lattice topping.
+- **Abrikozenvlaai (apricot vlaai):** swap cherries for 600 g dried apricots reconstituted in hot water; crumb topping; very popular.
+- **Kruimelvlaai (crumb-topped):** any fruit filling, but covered with the butter-flour-sugar crumb instead of a lattice.
+- **Rijstevlaai (rice vlaai):** the cream-rice-pudding filling described in the recipe; usually has a lattice top.
+- **Appelvlaai (apple vlaai):** swap cherries for 800 g sliced cooked apples + 80 g raisins + 1 teaspoon cinnamon; lattice OR crumb top.
+- **Stroopvlaai (sugar-syrup vlaai):** a filling of pure dark sugar syrup (stroop) + butter + spice, the simplest Limburg variant.
+- **Bessenvlaai (red-currant vlaai):** swap cherries for 600 g fresh red or blackcurrants + 200 g sugar; tart and bright.
+- **Mini vlaaien (individual portions):** divide dough and filling among 8 individual tart tins (10 cm diameter); bake 20-25 minutes, the small-format variant.
+- **Modern Maastricht restaurant vlaai:** with a quenelle of vanilla ice cream, a small jug of warm cherry sauce, and a wafer biscuit, bistro-fied.
 
 ## Serving
-At a Limburg family birthday party (the traditional setting; vlaai is the Limburg birthday cake) · at a Limburg communion, wedding, funeral, or christening · at a Limburg bakery on a Saturday morning · at a Maastricht café · at any Limburg life event from baptism to retirement · at home as the southern-Dutch alternative to a French apple tart · paired with whipped cream, vanilla ice cream, or a strong coffee.
+- At a Limburg family birthday party (the traditional setting; vlaai is the Limburg birthday cake) · at a Limburg communion, wedding, funeral, or christening · at a Limburg bakery on a Saturday morning · at a Maastricht café · at any Limburg life event from baptism to retirement · at home as the southern-Dutch alternative to a French apple tart · paired with whipped cream, vanilla ice cream, or a strong coffee.
 
 ## Storage
 - Refrigerates 4 days. Bring to room temperature before serving (or warm gently in a 150°C oven for 10 minutes).

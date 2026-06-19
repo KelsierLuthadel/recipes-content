@@ -79,13 +79,13 @@ Injera is the foundational bread of Ethiopia and Eritrea: a large round of ferme
 - **Don't over-grease:** the first round needs the lightest brush of oil; after that, the pan is conditioned and subsequent rounds need none. Heavy greasing gives you greasy injera with closed eyes (no bubble pattern).
 
 ## Variations
-**Wheat-injera (the everyday substitute):** 50/50 teff and wheat flour, or 30/70 teff and wheat. Easier to handle, less authentic, faster to ferment. Found in many Ethiopian restaurants outside the country.
-**Sorghum injera:** in regions where teff is unavailable, sorghum flour with a small amount of barley is the traditional substitute. Goes a different colour (darker, almost reddish) and tastes earthier.
-**Quick injera:** for emergencies, mix teff flour, warm water, plain yogurt and a pinch of baking soda; rest 2-3 hours rather than 2-3 days, then cook the same way. The flavour lacks the proper sour complexity but the texture works.
-**Sourdough-starter injera:** instead of dry yeast, use 4 tablespoons of an established sourdough starter (rye, white wheat, or whole-wheat) as the fermentation kick. Gives a more complex flavour faster (24-36 hours rather than 48-72).
+- **Wheat-injera (the everyday substitute):** 50/50 teff and wheat flour, or 30/70 teff and wheat. Easier to handle, less authentic, faster to ferment. Found in many Ethiopian restaurants outside the country.
+- **Sorghum injera:** in regions where teff is unavailable, sorghum flour with a small amount of barley is the traditional substitute. Goes a different colour (darker, almost reddish) and tastes earthier.
+- **Quick injera:** for emergencies, mix teff flour, warm water, plain yogurt and a pinch of baking soda; rest 2-3 hours rather than 2-3 days, then cook the same way. The flavour lacks the proper sour complexity but the texture works.
+- **Sourdough-starter injera:** instead of dry yeast, use 4 tablespoons of an established sourdough starter (rye, white wheat, or whole-wheat) as the fermentation kick. Gives a more complex flavour faster (24-36 hours rather than 48-72).
 
 ## Serving
-Lay flat on a wide tray or board to serve as the platter for wats, tibs, gomen and other stews. Tear pieces with the right hand from the basket of additional injera and scoop the food. The shared platter at the centre of the table is the proper Ethiopian eating form. Drink: tej, tella, or buna.
+- Lay flat on a wide tray or board to serve as the platter for wats, tibs, gomen and other stews. Tear pieces with the right hand from the basket of additional injera and scoop the food. The shared platter at the centre of the table is the proper Ethiopian eating form. Drink: tej, tella, or buna.
 
 ## Storage
 - Best eaten the day of cooking; the injera goes from soft and pliable to slightly leathery as it sits.

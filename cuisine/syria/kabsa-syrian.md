@@ -138,13 +138,13 @@ Syrian kabsa is the Damascus and Aleppo variation of the famous spiced rice-and-
 - **Toast the nuts in butter:** the nuts are not garnish but a structural part of the dish. Toast generously and don't skip.
 
 ## Variations
-**Lamb kabsa:** swap the chicken for 1.2 kg of lamb shoulder cubed; brown the same way; increase cooking time to 60 minutes before adding rice. Traditional festive Syrian variant.
-**Vegetarian kabsa:** skip the meat; double the spices and aromatics; add 200 g of chickpeas (canned) and 2 medium aubergines (cubed) for body. Less traditional but valid.
-**Saffron kabsa:** add ½ teaspoon of saffron threads infused in 2 tablespoons of warm water to the rice cooking liquid; gives a golden colour and floral note. Common celebration variation.
-**Aleppo-style with pomegranate molasses:** add 2 tablespoons of pomegranate molasses to the tomato base; gives a sweet-sour Aleppo profile.
+- **Lamb kabsa:** swap the chicken for 1.2 kg of lamb shoulder cubed; brown the same way; increase cooking time to 60 minutes before adding rice. Traditional festive Syrian variant.
+- **Vegetarian kabsa:** skip the meat; double the spices and aromatics; add 200 g of chickpeas (canned) and 2 medium aubergines (cubed) for body. Less traditional but valid.
+- **Saffron kabsa:** add ½ teaspoon of saffron threads infused in 2 tablespoons of warm water to the rice cooking liquid; gives a golden colour and floral note. Common celebration variation.
+- **Aleppo-style with pomegranate molasses:** add 2 tablespoons of pomegranate molasses to the tomato base; gives a sweet-sour Aleppo profile.
 
 ## Serving
-On a large communal platter, often placed at the centre of the table and eaten from with hands or with bread (Syrian flatbread). Yogurt sauce, fresh tomato salad and the lemon wedges around the platter; warm flatbread on a side plate. Drink: ayran, mint tea, or fresh lemonade with mint.
+- On a large communal platter, often placed at the centre of the table and eaten from with hands or with bread (Syrian flatbread). Yogurt sauce, fresh tomato salad and the lemon wedges around the platter; warm flatbread on a side plate. Drink: ayran, mint tea, or fresh lemonade with mint.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

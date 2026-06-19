@@ -81,7 +81,7 @@ Houskové knedlíky (literally "bread dumplings") are the Czech carbohydrate tha
 - **Cut with thread:** A Czech kitchen has a long strong thread specifically for cutting dumplings. A serrated knife works but the thread gives a cleaner slice without compressing the fluffy interior.
 
 ## Serving
-The bedrock side dish under every Czech sauce. Take 2-3 slices per plate; soak up gravy aggressively; never leave a wet plate.
+- The bedrock side dish under every Czech sauce. Take 2-3 slices per plate; soak up gravy aggressively; never leave a wet plate.
 
 ## Storage
 - Refrigerates 4 days; reheat by steaming 5 minutes, or pan-frying slices in butter.

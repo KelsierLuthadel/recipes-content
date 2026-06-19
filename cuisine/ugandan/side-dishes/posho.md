@@ -58,12 +58,12 @@ Posho is Uganda's daily staple, the stiff white maize porridge that anchors most
 - **Eats well cold:** leftover posho is sliced and pan-fried in oil for the next day's breakfast (mukene-and-posho is a common village breakfast), or rolled into small balls and dropped into clear soups.
 
 ## Variations
-**Posho with cassava flour:** mix half maize meal and half cassava flour for a denser stretchier porridge (kalo-style). Common in some regions.
-**Yellow maize posho:** use yellow maize meal instead of white for a deeper-coloured posho with a slightly sweeter flavour. Less traditional in Uganda but common in some Kenyan and Tanzanian variants (called ugali yellow).
-**Fortified posho:** stir in a handful of dried small fish (mukene) or a beaten egg towards the end of cooking for added nutrition. Common in family meals for children.
+- **Posho with cassava flour:** mix half maize meal and half cassava flour for a denser stretchier porridge (kalo-style). Common in some regions.
+- **Yellow maize posho:** use yellow maize meal instead of white for a deeper-coloured posho with a slightly sweeter flavour. Less traditional in Uganda but common in some Kenyan and Tanzanian variants (called ugali yellow).
+- **Fortified posho:** stir in a handful of dried small fish (mukene) or a beaten egg towards the end of cooking for added nutrition. Common in family meals for children.
 
 ## Serving
-The traditional partner for almost any Ugandan stew or sauce: luwombo, groundnut greens, fish in tomato sauce, beef stew with peanut. Eat with the right hand by tearing off a piece, rolling into a ball, pressing a dent and scooping the stew into the dent. Drink: cold water, ginger tea or bissap.
+- The traditional partner for almost any Ugandan stew or sauce: luwombo, groundnut greens, fish in tomato sauce, beef stew with peanut. Eat with the right hand by tearing off a piece, rolling into a ball, pressing a dent and scooping the stew into the dent. Drink: cold water, ginger tea or bissap.
 
 ## Storage
 - Best eaten fresh; the texture goes dense and dry as it cools.

@@ -45,7 +45,7 @@ Satay sauce is the building block for the deep nutty dipping sauce that goes alo
 - **Coconut milk consistency:** Add just enough to achieve desired consistency; more liquid creates thinner sauce.
 
 ## Serving
-Serve hot or warm as a dipping sauce for grilled or barbecued pork, lamb, or chicken brochettes. Also excellent with satay skewers and spring rolls.
+- Serve hot or warm as a dipping sauce for grilled or barbecued pork, lamb, or chicken brochettes. Also excellent with satay skewers and spring rolls.
 
 ## Storage
 - Keeps refrigerated for 4-5 days in an airtight container.

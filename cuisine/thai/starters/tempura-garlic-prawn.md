@@ -53,7 +53,7 @@ Tempura garlic prawns look at first like they belong in a Japanese cookbook, but
 - Batter is runny.
 
 ## Serving
-Serve immediately with Thai seafood dipping sauce or sweet chilli sauce.
+- Serve immediately with Thai seafood dipping sauce or sweet chilli sauce.
 
 ## Storage
 - Best served immediately.

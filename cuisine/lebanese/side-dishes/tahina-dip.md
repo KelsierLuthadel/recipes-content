@@ -95,17 +95,17 @@ The simplest sesame dip on every Middle Eastern table: tahina paste loosened wit
 - **Salt in Garlic:** Crushing garlic with salt creates smoother paste than crushing garlic alone; this is a time-tested technique.
 
 ## Variations
-**Hummus bi Tahina:** Add 100 grams cooked chickpeas (or 4 tablespoons chickpea purée) to finished tahina for richer, more substantial dip.
-**With Cumin:** Add ⅛ teaspoon ground cumin to the tahina for warmth and spice.
-**Extra Garlicky:** Increase garlic to 1 ½-2 cloves for more assertive character (taste carefully; garlic can become harsh).
-**Herbed Version:** Add 1 tablespoon finely chopped fresh parsley or coriander mixed into the finished dip for herbaceous note.
-**Paprika Finish:** Dust the top with a light sprinkle of paprika (sweet or smoked) for color and subtle spice.
+- **Hummus bi Tahina:** Add 100 grams cooked chickpeas (or 4 tablespoons chickpea purée) to finished tahina for richer, more substantial dip.
+- **With Cumin:** Add ⅛ teaspoon ground cumin to the tahina for warmth and spice.
+- **Extra Garlicky:** Increase garlic to 1 ½-2 cloves for more assertive character (taste carefully; garlic can become harsh).
+- **Herbed Version:** Add 1 tablespoon finely chopped fresh parsley or coriander mixed into the finished dip for herbaceous note.
+- **Paprika Finish:** Dust the top with a light sprinkle of paprika (sweet or smoked) for color and subtle spice.
 
 ## Serving
-Serve with: Warm pita bread, fresh vegetable crudités (carrots, celery, bell peppers, cucumbers), olives, grilled meats, as part of mezze spread, with falafel
-Temperature: Room temperature
-Ratio: 30-40ml per person as appetizer dip
-Context: Middle Eastern meals, vegetarian appetizer, mezze spread, dipping accompaniment, light lunch
+- Serve with: Warm pita bread, fresh vegetable crudités (carrots, celery, bell peppers, cucumbers), olives, grilled meats, as part of mezze spread, with falafel
+- Temperature: Room temperature
+- Ratio: 30-40ml per person as appetizer dip
+- Context: Middle Eastern meals, vegetarian appetizer, mezze spread, dipping accompaniment, light lunch
 
 ## Storage
 - Refrigerate in a sealed glass container for up to 5-7 days.

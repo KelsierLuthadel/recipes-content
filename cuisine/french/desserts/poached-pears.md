@@ -43,7 +43,7 @@ Any excess stuffing can be spooned alongside the fruit.
 - The fig and date filling adds textural interest and depth of flavor; the rum (or water) hydrates the dried fruits while keeping them distinct
 
 ## Serving
-Arrange each pear on an individual serving plate, placing a generous spoonful of caramel sauce around the base. The pale pears against the dark caramel create striking visual contrast. Serve at room temperature or lightly chilled, allowing the different elements to shine.
+- Arrange each pear on an individual serving plate, placing a generous spoonful of caramel sauce around the base. The pale pears against the dark caramel create striking visual contrast. Serve at room temperature or lightly chilled, allowing the different elements to shine.
 
 ## Storage
 The poached pears and their syrup can be prepared 1 day ahead and kept refrigerated in a covered container. The fig and date filling can be made several hours ahead and kept at room temperature. Assemble the filled pears only when ready to serve (no more than 1 hour ahead) to prevent the filling from absorbing moisture and becoming mushy. The caramel sauce can be made the day before and reheated gently.

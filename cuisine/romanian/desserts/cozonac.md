@@ -106,7 +106,7 @@ Cozonac is the soul of Romanian Christmas and Easter, the loaf that every househ
 - **Mini cozonăcei:** baked in muffin tins for individual portions.
 
 ## Serving
-Sliced thin · with strong black coffee · with a small glass of țuică · at the holiday breakfast table · as a gift bundled in linen.
+- Sliced thin · with strong black coffee · with a small glass of țuică · at the holiday breakfast table · as a gift bundled in linen.
 
 ## Storage
 - Wrap tight in linen or foil; keeps 5 days at room temperature.

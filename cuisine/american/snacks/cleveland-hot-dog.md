@@ -94,14 +94,14 @@ The Cleveland hot dog (often called a "Polish Boy") is northeast Ohio's signatur
 - **Two-hand eating with fork standby:** structural reality.
 
 ## Variations
-**BBQ-style:** swap the Stadium Mustard sauce for tangy BBQ sauce (Hot Sauce Williams in Cleveland actually serves both styles).
-**Polish Girl:** the chicken-or-turkey variation (with smoked turkey breast slices in place of kielbasa); a Cleveland lighter alternative.
-**With pulled pork:** add shredded BBQ pulled pork on top of the kielbasa.
-**Spicier:** double the cayenne in the mustard sauce + sliced fresh jalapeño on top.
-**Cleveland-Polish breakfast Boy:** add a fried egg on top of the slaw.
+- **BBQ-style:** swap the Stadium Mustard sauce for tangy BBQ sauce (Hot Sauce Williams in Cleveland actually serves both styles).
+- **Polish Girl:** the chicken-or-turkey variation (with smoked turkey breast slices in place of kielbasa); a Cleveland lighter alternative.
+- **With pulled pork:** add shredded BBQ pulled pork on top of the kielbasa.
+- **Spicier:** double the cayenne in the mustard sauce + sliced fresh jalapeño on top.
+- **Cleveland-Polish breakfast Boy:** add a fried egg on top of the slaw.
 
 ## Serving
-At Hot Sauce Williams in Cleveland. At a Browns game tailgate. At an Ohio summer cookout. With cold beer.
+- At Hot Sauce Williams in Cleveland. At a Browns game tailgate. At an Ohio summer cookout. With cold beer.
 
 ## Storage
 - Cleveland mustard sauce refrigerates 1 month.

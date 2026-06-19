@@ -93,13 +93,13 @@ Thiof yassa is the fish version of Senegal's famous yassa, a Saint-Louis special
 - **Char on the grill matters:** the lightly blackened skin from the grill adds a smoky note that the sauce-only version lacks. If you don't have a grill, brown the fish hard in a hot pan first.
 
 ## Variations
-**Yassa poulet:** the chicken version (the more famous one outside Senegal). Bone-in chicken thighs grilled hard then finished in the same onion-mustard sauce. Cook the chicken longer (10 minutes per side on the grill).
-**Yassa au gigot d'agneau:** the lamb version using leg of lamb roasted then sliced and served in the sauce. Special occasion.
-**Yassa au boeuf:** the beef version with cubed beef, more like a stew than a grilled-protein-with-sauce dish; slow-cooked rather than grilled.
-**With habanero:** swap Scotch bonnet for habanero if Scotch bonnet isn't available; almost identical heat profile.
+- **Yassa poulet:** the chicken version (the more famous one outside Senegal). Bone-in chicken thighs grilled hard then finished in the same onion-mustard sauce. Cook the chicken longer (10 minutes per side on the grill).
+- **Yassa au gigot d'agneau:** the lamb version using leg of lamb roasted then sliced and served in the sauce. Special occasion.
+- **Yassa au boeuf:** the beef version with cubed beef, more like a stew than a grilled-protein-with-sauce dish; slow-cooked rather than grilled.
+- **With habanero:** swap Scotch bonnet for habanero if Scotch bonnet isn't available; almost identical heat profile.
 
 ## Serving
-On a wide platter with the sauce spooned over the fish, rice or millet couscous on the side. A lime wedge per plate for additional brightness. Drink: bissap (hibiscus drink), ginger drink, or cold beer (Senegal's Flag or Castel brewery lagers).
+- On a wide platter with the sauce spooned over the fish, rice or millet couscous on the side. A lime wedge per plate for additional brightness. Drink: bissap (hibiscus drink), ginger drink, or cold beer (Senegal's Flag or Castel brewery lagers).
 
 ## Storage
 - Best eaten the day of cooking; the fish loses its texture as it sits.

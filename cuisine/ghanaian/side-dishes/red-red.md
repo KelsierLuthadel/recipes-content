@@ -74,7 +74,7 @@ For the plantain:
 - **Hotter:** Stir in 1 tsp ground dried chilli with the tomato.
 
 ## Serving
-Eat warm with the plantain alongside · a spoon of shito on the side · a wedge of avocado · a cold glass of water or sobolo.
+- Eat warm with the plantain alongside · a spoon of shito on the side · a wedge of avocado · a cold glass of water or sobolo.
 
 ## Storage
 - Stew keeps 4 days refrigerated and freezes 2 months

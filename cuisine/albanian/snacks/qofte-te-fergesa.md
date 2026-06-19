@@ -69,7 +69,7 @@ Qofte të fërguara are the small fried meatballs that turn up at every Albanian
 - **With pine nuts:** Fold 2 tablespoons toasted pine nuts into the mix.
 
 ## Serving
-On the meze plate with white cheese and pickled peppers · with lemon and yoghurt · stuffed into warm pita with chopped onion · with rice pilaf as a main course · at parties and family gatherings · with a glass of cold raki.
+- On the meze plate with white cheese and pickled peppers · with lemon and yoghurt · stuffed into warm pita with chopped onion · with rice pilaf as a main course · at parties and family gatherings · with a glass of cold raki.
 
 ## Storage
 - Eat hot the day they are cooked.

@@ -97,13 +97,13 @@ Texas smoked brisket is the most iconic dish of Lone Star State barbecue and arg
 - **Slice across the grain:** thin for the flat; thicker for the point.
 
 ## Variations
-**Burnt ends:** trim the point into 2 cm cubes; toss with BBQ sauce; smoke 1 more hour. The famous Kansas City "burnt ends" preparation.
-**With BBQ sauce:** serve with thin Texas-style BBQ sauce (tomato + vinegar + brown sugar + chili). Less traditional in Central Texas where purists go sauce-free.
-**Faster cook at higher temperature:** smoke at 135°C / 275°F instead of 110°C; cooks in 8-10 hours; less smoke flavour but more practical.
-**Oven-finish:** if you can't keep the smoker going, finish wrapped brisket in a 110°C oven; less smoky but still tender.
+- **Burnt ends:** trim the point into 2 cm cubes; toss with BBQ sauce; smoke 1 more hour. The famous Kansas City "burnt ends" preparation.
+- **With BBQ sauce:** serve with thin Texas-style BBQ sauce (tomato + vinegar + brown sugar + chili). Less traditional in Central Texas where purists go sauce-free.
+- **Faster cook at higher temperature:** smoke at 135°C / 275°F instead of 110°C; cooks in 8-10 hours; less smoke flavour but more practical.
+- **Oven-finish:** if you can't keep the smoker going, finish wrapped brisket in a 110°C oven; less smoky but still tender.
 
 ## Serving
-On a paper-lined platter or wooden board. White bread, pickles, raw onion, jalapeños, BBQ sauce. Pinto beans, coleslaw, potato salad. Drink: cold Lone Star beer, Shiner Bock, or sweet tea.
+- On a paper-lined platter or wooden board. White bread, pickles, raw onion, jalapeños, BBQ sauce. Pinto beans, coleslaw, potato salad. Drink: cold Lone Star beer, Shiner Bock, or sweet tea.
 
 ## Storage
 - Keeps refrigerated 5 days; reheat wrapped in foil with a splash of stock at 120°C oven for 30 minutes.

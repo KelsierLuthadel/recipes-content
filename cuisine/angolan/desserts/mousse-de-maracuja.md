@@ -55,7 +55,7 @@ Mousse de maracujá is the easy, light Lusophone-Atlantic dessert shared between
 - **Seeds in:** The seeds are the texture and the look. Some cooks sieve out half for a smoother mousse and scatter the rest on top; both ways are common.
 
 ## Serving
-After a heavy meal. A small biscuit or a piece of shortbread on the side. A small glass of cold passion-fruit juice alongside.
+- After a heavy meal. A small biscuit or a piece of shortbread on the side. A small glass of cold passion-fruit juice alongside.
 
 ## Storage
 - Keeps 3 days refrigerated, covered.

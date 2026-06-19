@@ -73,7 +73,7 @@ Arroz con pollo is the dish a Tica cook makes when there is a birthday, a christ
 - **Arroz con pollo caribeño:** Cook the rice in half coconut milk, half broth, for the Limón-coast version.
 
 ## Serving
-Serve hot from a wide platter · a small bowl of papas a la francesa (small fries) on the side · a fresh tomato-and-avocado salad · Salsa Lizano on the table · lime wedges
+- Serve hot from a wide platter · a small bowl of papas a la francesa (small fries) on the side · a fresh tomato-and-avocado salad · Salsa Lizano on the table · lime wedges
 
 ## Storage
 - Arroz con pollo keeps 3 days refrigerated

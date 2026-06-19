@@ -77,14 +77,14 @@ The köttbulle-smörgås (meatball sandwich) is one of Sweden's most workaday lu
 - **Onion chopped fine:** not sliced, chopped fine gives the right bite.
 
 ## Variations
-**Open-face elaborate version (smörgås):** top with a small mound of pressgurka cucumber salad + sliced hard-boiled egg + dill for the smörgåsbord-ready presentation.
-**With meatballs reheated in gravy:** less traditional (a hot meatball sandwich); the Swedish version of an American meatball sub.
-**Vegetarian:** swap meatballs for the Swedish växtbullar (plant-based meatballs, IKEA-style).
-**With grated horseradish:** add a small spoonful for sharpness.
-**Christmas variant:** add a slice of cold julskinka (Swedish Christmas ham) alongside the meatballs.
+- **Open-face elaborate version (smörgås):** top with a small mound of pressgurka cucumber salad + sliced hard-boiled egg + dill for the smörgåsbord-ready presentation.
+- **With meatballs reheated in gravy:** less traditional (a hot meatball sandwich); the Swedish version of an American meatball sub.
+- **Vegetarian:** swap meatballs for the Swedish växtbullar (plant-based meatballs, IKEA-style).
+- **With grated horseradish:** add a small spoonful for sharpness.
+- **Christmas variant:** add a slice of cold julskinka (Swedish Christmas ham) alongside the meatballs.
 
 ## Serving
-At a Swedish school lunchbox · at an office canteen mid-morning · at fika as the savoury offering · at a Stockholm bageri grab-and-go counter · at home with leftover meatballs from yesterday's dinner.
+- At a Swedish school lunchbox · at an office canteen mid-morning · at fika as the savoury offering · at a Stockholm bageri grab-and-go counter · at home with leftover meatballs from yesterday's dinner.
 
 ## Storage
 - Best assembled fresh.

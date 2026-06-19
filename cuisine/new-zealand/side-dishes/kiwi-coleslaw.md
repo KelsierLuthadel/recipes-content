@@ -72,7 +72,7 @@ Coleslaw turns up at every New Zealand summer BBQ, Christmas table and picnic - 
 - **Toppings at the end:** Crispy elements go soggy in dressing. Scatter them just before serving and they stay crunchy.
 
 ## Serving
-Serve as a side with anything off the BBQ: steak, sausages, burgers, fish. Also a sandwich filler with cold cuts or roast leftovers. Always present at a Christmas spread alongside the cold meats and pavlova.
+- Serve as a side with anything off the BBQ: steak, sausages, burgers, fish. Also a sandwich filler with cold cuts or roast leftovers. Always present at a Christmas spread alongside the cold meats and pavlova.
 
 ## Storage
 - Refrigerates 3 days; the cabbage wilts further but the flavour deepens.

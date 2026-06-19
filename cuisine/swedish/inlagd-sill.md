@@ -96,14 +96,14 @@ Inlagd sill (literally "pickled herring") is one of Sweden's most foundational d
 - **Snaps alongside:** the akvavit-and-herring pairing is structural. The vinegar-salt-acid cuts the spirit.
 
 ## Variations
-**Senapssill (mustard-pickled):** add 4 tablespoons of Dijon mustard to the brine; very traditional Christmas variant.
-**Glasmästarsill (glassblower's herring):** add fresh ginger slices, sliced carrot, horseradish, a layered colourful variant.
-**Curry-pickled:** add 1 tablespoon curry powder to the brine.
-**Tomato-pickled (löksill):** add tomato paste + paprika to the brine.
-**Apple-and-onion:** add slices of sweet apple alongside the onion.
+- **Senapssill (mustard-pickled):** add 4 tablespoons of Dijon mustard to the brine; very traditional Christmas variant.
+- **Glasmästarsill (glassblower's herring):** add fresh ginger slices, sliced carrot, horseradish, a layered colourful variant.
+- **Curry-pickled:** add 1 tablespoon curry powder to the brine.
+- **Tomato-pickled (löksill):** add tomato paste + paprika to the brine.
+- **Apple-and-onion:** add slices of sweet apple alongside the onion.
 
 ## Serving
-At the Swedish julbord (Christmas table) as one of many small dishes · at Midsommar lunch with new potatoes and akvavit · at Easter brunch · at a Stockholm restaurant smörgåsbord at noon · at home with rye crisp bread and a beer.
+- At the Swedish julbord (Christmas table) as one of many small dishes · at Midsommar lunch with new potatoes and akvavit · at Easter brunch · at a Stockholm restaurant smörgåsbord at noon · at home with rye crisp bread and a beer.
 
 ## Storage
 - Pickled herring refrigerates 2-3 weeks in its brine (it actually improves for the first week).

@@ -122,13 +122,13 @@ Cabrito al pastor is the iconic dish of Nuevo León and the city of Monterrey, a
 - **Rest before pulling:** 20 minutes.
 
 ## Variations
-**Lamb shoulder version:** swap the leg for a bone-in lamb shoulder; cook the same way but increase to 3 hours covered.
-**Slow-cooker version:** marinate as in the recipe; cook in a slow-cooker on low for 8 hours; finish skin under the grill.
-**With achiote:** add 2 tablespoons of achiote paste to the marinade; gives a more orange-red colour, common in Yucatan-influenced Mexican cooking.
-**Spicier:** double the dried chillies and add 2 chipotles in adobo; properly Norteño fierce.
+- **Lamb shoulder version:** swap the leg for a bone-in lamb shoulder; cook the same way but increase to 3 hours covered.
+- **Slow-cooker version:** marinate as in the recipe; cook in a slow-cooker on low for 8 hours; finish skin under the grill.
+- **With achiote:** add 2 tablespoons of achiote paste to the marinade; gives a more orange-red colour, common in Yucatan-influenced Mexican cooking.
+- **Spicier:** double the dried chillies and add 2 chipotles in adobo; properly Norteño fierce.
 
 ## Serving
-At the centre of a Norteño-Mexican celebration table for family-style taco-building. Drink: cold Mexican beer (Pacifico, Tecate, Modelo), or tequila with lime. As Christmas dinner, New Year's, or any major Northern Mexican family celebration.
+- At the centre of a Norteño-Mexican celebration table for family-style taco-building. Drink: cold Mexican beer (Pacifico, Tecate, Modelo), or tequila with lime. As Christmas dinner, New Year's, or any major Northern Mexican family celebration.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

@@ -60,7 +60,7 @@ Every Albanian kitchen has a jar of speca turshi on the table from autumn throug
 - **With dill:** Add a sprig of dill for a Korçë variation.
 
 ## Serving
-Beside grilled lamb or pork · with white cheese and bread for breakfast · alongside fasule (bean stew) · as part of a meze plate · stirred into tomato salad · with cornbread and butter.
+- Beside grilled lamb or pork · with white cheese and bread for breakfast · alongside fasule (bean stew) · as part of a meze plate · stirred into tomato salad · with cornbread and butter.
 
 ## Storage
 - Sealed jars keep 12 months in a cool dark place.

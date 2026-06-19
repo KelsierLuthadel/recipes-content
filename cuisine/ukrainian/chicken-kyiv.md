@@ -112,13 +112,13 @@ Chicken Kyiv (Chicken Kiev in older English texts) is Ukraine's most famous culi
 - **170 C is the right temperature:** higher and the breading scorches before the chicken cooks through. Lower and the crumbs soak oil and go greasy. A thermometer is worth using.
 
 ## Variations
-**Chicken kyiv with mushroom butter:** swap the herb butter for a mushroom butter (50 g of finely chopped sautéed mushrooms folded into the soft butter with the garlic and parsley). Different flavour profile; still works.
-**Lemon-and-tarragon kyiv:** swap the parsley and dill for chopped fresh tarragon; the resulting kyiv has a properly French note. A modern restaurant variation.
-**Baked kyiv:** for a lighter version, brush the breaded kyivs with melted butter and bake on a tray at 200 C for 25-30 minutes. The crust is less crisp than the fried version but works for a less indulgent dinner.
-**Cheese-and-ham kyiv (Pozharsky-style):** add a thin slice of ham and a slice of cheese alongside the butter inside the chicken parcel. Less traditional but popular as a restaurant variant.
+- **Chicken kyiv with mushroom butter:** swap the herb butter for a mushroom butter (50 g of finely chopped sautéed mushrooms folded into the soft butter with the garlic and parsley). Different flavour profile; still works.
+- **Lemon-and-tarragon kyiv:** swap the parsley and dill for chopped fresh tarragon; the resulting kyiv has a properly French note. A modern restaurant variation.
+- **Baked kyiv:** for a lighter version, brush the breaded kyivs with melted butter and bake on a tray at 200 C for 25-30 minutes. The crust is less crisp than the fried version but works for a less indulgent dinner.
+- **Cheese-and-ham kyiv (Pozharsky-style):** add a thin slice of ham and a slice of cheese alongside the butter inside the chicken parcel. Less traditional but popular as a restaurant variant.
 
 ## Serving
-On a warm plate, with mashed potato (to catch the butter that flows out when cut), a small mound of buttered peas or steamed asparagus, and a lemon wedge for squeezing. Drink: a glass of dry white wine (Chardonnay or Sauvignon Blanc), or chilled vodka for the proper Ukrainian touch. The drama at the table when the kyiv is cut is the whole point; don't pre-cut in the kitchen.
+- On a warm plate, with mashed potato (to catch the butter that flows out when cut), a small mound of buttered peas or steamed asparagus, and a lemon wedge for squeezing. Drink: a glass of dry white wine (Chardonnay or Sauvignon Blanc), or chilled vodka for the proper Ukrainian touch. The drama at the table when the kyiv is cut is the whole point; don't pre-cut in the kitchen.
 
 ## Storage
 - Best eaten the moment they come out of the fryer.

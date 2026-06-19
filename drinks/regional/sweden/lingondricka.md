@@ -75,15 +75,15 @@ Lingondricka (literally "lingonberry drink") is one of Sweden's traditional non-
 - **Don't dilute too thin:** about 1:5 or 1:6 is the traditional concentration. Watery lingondricka is wrong.
 
 ## Variations
-**Hallonsaft (raspberry cordial):** the same technique with raspberries; Sweden's other big saft tradition.
-**Fläderblomssaft (elderflower cordial):** the traditional Swedish summer cordial, see separate recipe.
-**With ginger:** add a thumb of grated fresh ginger to the syrup pot for a spicier autumn variant.
-**Mulled saft (warm version):** dilute the syrup with hot water + a cinnamon stick + a clove for a winter non-alcoholic mulled drink, particularly good for kids at Christmas.
-**Lingondricka cocktail:** combine the syrup with vodka, gin, or akvavit for an alcoholic cocktail variant.
-**Lower-sugar version:** swap half the sugar for stevia or erythritol; flavour shifts but works.
+- **Hallonsaft (raspberry cordial):** the same technique with raspberries; Sweden's other big saft tradition.
+- **Fläderblomssaft (elderflower cordial):** the traditional Swedish summer cordial, see separate recipe.
+- **With ginger:** add a thumb of grated fresh ginger to the syrup pot for a spicier autumn variant.
+- **Mulled saft (warm version):** dilute the syrup with hot water + a cinnamon stick + a clove for a winter non-alcoholic mulled drink, particularly good for kids at Christmas.
+- **Lingondricka cocktail:** combine the syrup with vodka, gin, or akvavit for an alcoholic cocktail variant.
+- **Lower-sugar version:** swap half the sugar for stevia or erythritol; flavour shifts but works.
 
 ## Serving
-At Midsommar lunch in the garden (the traditional Swedish midsummer drink, served alongside akvavit for the adults) · at a Swedish summer party as the kids' alternative to alcohol · at a Christmas julbord as the non-alcoholic option · at a fika as a sweet-tart counterpoint to coffee · at a Stockholm restaurant as the local-flavour soft drink.
+- At Midsommar lunch in the garden (the traditional Swedish midsummer drink, served alongside akvavit for the adults) · at a Swedish summer party as the kids' alternative to alcohol · at a Christmas julbord as the non-alcoholic option · at a fika as a sweet-tart counterpoint to coffee · at a Stockholm restaurant as the local-flavour soft drink.
 
 ## Storage
 - Lingonberry syrup refrigerates 1 month sealed.

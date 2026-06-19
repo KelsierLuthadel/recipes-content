@@ -69,7 +69,7 @@ Pumpkin pie is the American holiday dessert that bridges Halloween and Thanksgiv
 - Pre-mixed "pumpkin pie spice" works; if using it, total 2 ½ teaspoons in place of the individual spices.
 
 ## Serving
-Wedges with whipped cream, cool to barely-cold. Coffee or a hot toddy on the side. On a Halloween table alongside caramel apples; on the Thanksgiving table at the end of the meal.
+- Wedges with whipped cream, cool to barely-cold. Coffee or a hot toddy on the side. On a Halloween table alongside caramel apples; on the Thanksgiving table at the end of the meal.
 
 ## Storage
 Covered in the fridge for up to 4 days. Do not freeze: the custard weeps on thawing.

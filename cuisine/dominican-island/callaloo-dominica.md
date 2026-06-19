@@ -79,14 +79,14 @@ Callaloo is the Dominican Sunday soup, the dark green velvet bowl that uses the 
 - **The coconut at the end:** boiling coconut milk splits it. Warm through, no more.
 
 ## Variations
-**With salt pig tail:** simmer 200 g of soaked salt pig tail in the broth for 30 minutes before the greens go in.
-**With smoked herring:** flake 100 g of smoked herring into the soup with the crab for a smoky-fish depth.
-**With shrimp:** swap or add 200 g of peeled raw shrimp in the last 4 minutes of simmer.
-**Vegan:** leave out the crab; use light vegetable stock; the coconut milk carries it.
-**Drier (not soup):** halve the stock for a thicker callaloo to serve as a side dish.
+- **With salt pig tail:** simmer 200 g of soaked salt pig tail in the broth for 30 minutes before the greens go in.
+- **With smoked herring:** flake 100 g of smoked herring into the soup with the crab for a smoky-fish depth.
+- **With shrimp:** swap or add 200 g of peeled raw shrimp in the last 4 minutes of simmer.
+- **Vegan:** leave out the crab; use light vegetable stock; the coconut milk carries it.
+- **Drier (not soup):** halve the stock for a thicker callaloo to serve as a side dish.
 
 ## Serving
-Serve very hot in deep bowls with a wedge of lime · with crusty bread or bakes for dipping · alongside a plate of fried fish · as the Dominican Sunday starter or light lunch · with hot pepper sauce on the table.
+- Serve very hot in deep bowls with a wedge of lime · with crusty bread or bakes for dipping · alongside a plate of fried fish · as the Dominican Sunday starter or light lunch · with hot pepper sauce on the table.
 
 ## Storage
 - The soup keeps 3 days refrigerated; the flavour deepens overnight.

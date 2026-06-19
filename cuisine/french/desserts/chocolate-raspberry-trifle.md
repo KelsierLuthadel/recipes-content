@@ -55,7 +55,7 @@ This is the French interpretation of a trifle, built in a clear glass bowl so th
 - Whipped cream piped decoratively rather than just spooned adds elegance and professionalism to the presentation
 
 ## Serving
-Assemble the trifle in a large glass serving bowl just before dinner so the components remain distinct and visible; this also prevents continued soaking. Top with whipped cream piped decoratively and arrange fresh raspberries. Dust lightly with icing sugar immediately before serving.
+- Assemble the trifle in a large glass serving bowl just before dinner so the components remain distinct and visible; this also prevents continued soaking. Top with whipped cream piped decoratively and arrange fresh raspberries. Dust lightly with icing sugar immediately before serving.
 
 ## Storage
 All components can be prepared the day before: sponge, crème pâtissière (refrigerated), and raspberry sauce (refrigerated). The white chocolate can be melted and cooled slightly before assembly. Assemble no more than 3-4 hours before serving to keep layers distinct and whipped cream fluffy. The trifle is best served the same day it is assembled.

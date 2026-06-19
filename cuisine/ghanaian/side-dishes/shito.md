@@ -67,7 +67,7 @@ Shito (the Ga word simply means pepper) is the dark, smoky, fermented-tasting co
 - **With dawadawa:** Add 1 tbsp ground fermented locust beans for a deeper savoury note.
 
 ## Serving
-Spoon a teaspoon onto rice, waakye, jollof or kenkey · spread on bread with butter · stir into stews for heat and depth · serve alongside fried fish or grilled meat.
+- Spoon a teaspoon onto rice, waakye, jollof or kenkey · spread on bread with butter · stir into stews for heat and depth · serve alongside fried fish or grilled meat.
 
 ## Storage
 - Keeps 3 months refrigerated in a sealed jar with an oil layer on top

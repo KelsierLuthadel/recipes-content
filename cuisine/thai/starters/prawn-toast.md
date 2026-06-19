@@ -62,7 +62,7 @@ Thai prawn toast is not the thin-smeared takeaway version: this is a proper praw
 - Pile high.
 
 ## Serving
-Serve hot with sweet chilli sauce.
+- Serve hot with sweet chilli sauce.
 
 ## Storage
 - Best served immediately.

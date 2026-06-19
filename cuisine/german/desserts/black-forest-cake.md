@@ -99,11 +99,11 @@ Schwarzwälder Kirschtorte (Black Forest cake) is the iconic German chocolate-an
 - **Cream needs to be very cold:** Stick the bowl and whisk in the freezer 15 minutes before whipping. Warm cream won't hold its peaks for the masking.
 
 ## Variations
-**Alcohol-free:** Skip the kirsch; soak with cherry syrup plus 1 teaspoon almond extract. Won't keep the German "Kirschtorte" name legally in Germany but tastes fine.
-**Plated dessert version:** Bake the sponge in a tray, cut rounds, layer in glasses with cream and cherries; ready in 30 minutes.
+- **Alcohol-free:** Skip the kirsch; soak with cherry syrup plus 1 teaspoon almond extract. Won't keep the German "Kirschtorte" name legally in Germany but tastes fine.
+- **Plated dessert version:** Bake the sponge in a tray, cut rounds, layer in glasses with cream and cherries; ready in 30 minutes.
 
 ## Serving
-Serve cold from the fridge, but let slices sit 10 minutes before eating so the sponge softens. Coffee alongside.
+- Serve cold from the fridge, but let slices sit 10 minutes before eating so the sponge softens. Coffee alongside.
 
 ## Storage
 - Keeps 3 days refrigerated, covered.

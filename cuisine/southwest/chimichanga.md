@@ -73,13 +73,13 @@ Chimichangas are the iconic Southwestern Mexican-American restaurant dish, parti
 - **Sauce-and-cheese topping covered:** the restaurant style.
 
 ## Variations
-**Vegetarian:** swap meat for sautéed mushrooms + extra beans.
-**With green chile:** use green chile sauce instead of red.
-**Baked version (lighter):** brush with oil; bake at 220°C for 25 minutes till crisp.
-**Smaller (mini chimichangas):** use smaller tortillas; appetiser portion.
+- **Vegetarian:** swap meat for sautéed mushrooms + extra beans.
+- **With green chile:** use green chile sauce instead of red.
+- **Baked version (lighter):** brush with oil; bake at 220°C for 25 minutes till crisp.
+- **Smaller (mini chimichangas):** use smaller tortillas; appetiser portion.
 
 ## Serving
-At the centre of a Southwest plate. Mexican beer, margaritas.
+- At the centre of a Southwest plate. Mexican beer, margaritas.
 
 ## Storage
 - Best eaten immediately.

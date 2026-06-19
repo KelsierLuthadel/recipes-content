@@ -90,15 +90,15 @@ The Forfar bridie is east-central Scotland's answer to the Cornish pasty, the lu
 - **Eat warm, not piping hot:** the filling is very hot just out of the oven; rest 5 minutes.
 
 ## Variations
-**Mince-and-cheese bridie:** add 80 g grated mature Cheddar to the filling, modern variant, very popular in Dundee.
-**Spicy bridie:** add a teaspoon of curry powder + ½ teaspoon chilli flakes to the filling, the modern bakery version.
-**Vegetarian bridie:** swap the beef for cooked lentils + sautéed mushrooms + diced potato; brush with milk instead of egg.
-**Steak bridie:** use chunked stewing steak (slow-cooked with onion till tender) instead of mince, heartier, takes longer.
-**With black pudding:** add 100 g crumbled Stornoway black pudding to the beef filling.
-**Mini bridies (canapés):** make 24 small bridies for parties, same filling, half the bake time.
+- **Mince-and-cheese bridie:** add 80 g grated mature Cheddar to the filling, modern variant, very popular in Dundee.
+- **Spicy bridie:** add a teaspoon of curry powder + ½ teaspoon chilli flakes to the filling, the modern bakery version.
+- **Vegetarian bridie:** swap the beef for cooked lentils + sautéed mushrooms + diced potato; brush with milk instead of egg.
+- **Steak bridie:** use chunked stewing steak (slow-cooked with onion till tender) instead of mince, heartier, takes longer.
+- **With black pudding:** add 100 g crumbled Stornoway black pudding to the beef filling.
+- **Mini bridies (canapés):** make 24 small bridies for parties, same filling, half the bake time.
 
 ## Serving
-At Saddler's, McLaren's, or Mr Howe's bakeries in Forfar at lunchtime · at Dundee football matches · at a Scottish gastropub as a hand-pie starter · at a Highland country fair · at home as a Saturday weekend lunch with a pint of ale · in a Scottish school packed lunch.
+- At Saddler's, McLaren's, or Mr Howe's bakeries in Forfar at lunchtime · at Dundee football matches · at a Scottish gastropub as a hand-pie starter · at a Highland country fair · at home as a Saturday weekend lunch with a pint of ale · in a Scottish school packed lunch.
 
 ## Storage
 - Cooked bridies refrigerate 3 days; reheat in a 180°C oven for 12 minutes (don't microwave; pastry goes soft).

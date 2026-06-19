@@ -70,13 +70,13 @@ Mayonesa chilena is Chile's pervasive homemade mayonnaise and one of the most be
 - **Use within a week:** raw egg means short shelf life.
 
 ## Variations
-**Aioli chileno:** add 2-4 crushed garlic cloves; gives the traditional Chilean garlic version.
-**Mayo verde:** add 1 small bunch of finely chopped fresh herbs (parsley, chives, dill); gives a green herby version.
-**Spicy mayo (mayo picante):** add 1 teaspoon of merkén + 1 chopped chilli; gives the Chilean spicy version.
-**Avocado mayo:** blitz 1 ripe avocado into the finished mayo; gives a creamy guacamole-mayo hybrid; the traditional sauce for churrasco italiano.
+- **Aioli chileno:** add 2-4 crushed garlic cloves; gives the traditional Chilean garlic version.
+- **Mayo verde:** add 1 small bunch of finely chopped fresh herbs (parsley, chives, dill); gives a green herby version.
+- **Spicy mayo (mayo picante):** add 1 teaspoon of merkén + 1 chopped chilli; gives the Chilean spicy version.
+- **Avocado mayo:** blitz 1 ripe avocado into the finished mayo; gives a creamy guacamole-mayo hybrid; the traditional sauce for churrasco italiano.
 
 ## Serving
-With everything Chilean: completos (Chilean hot dogs), churrasco italiano, sandwiches, sopaipillas, papas fritas, salads. Chileans put it on practically anything.
+- With everything Chilean: completos (Chilean hot dogs), churrasco italiano, sandwiches, sopaipillas, papas fritas, salads. Chileans put it on practically anything.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar.

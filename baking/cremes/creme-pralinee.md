@@ -35,7 +35,7 @@ Crème pralinée is the building block for winter and autumn pastry: crème pât
 - Adding nuts at the very last moment preserves their crunch; early addition allows them to absorb moisture from the cream
 
 ## Serving
-Use crème Pralinée as a filling for cakes, tarts, and mousse-based desserts. Pipe into decorative borders or dollop onto plated desserts. The nutty flavor pairs beautifully with chocolate, vanilla, or fruit-based components.
+- Use crème Pralinée as a filling for cakes, tarts, and mousse-based desserts. Pipe into decorative borders or dollop onto plated desserts. The nutty flavor pairs beautifully with chocolate, vanilla, or fruit-based components.
 
 ## Storage
 Refrigerate in an airtight container for up to 48 hours; this shorter shelf life accounts for the whipped cream component. Do not freeze, as the Crème Chantilly will not recover well. Add caramelized nuts immediately before final assembly to maintain their crunch.

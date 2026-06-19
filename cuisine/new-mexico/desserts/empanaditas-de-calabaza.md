@@ -81,13 +81,13 @@ Empanaditas de calabaza are New Mexico's small sweet pumpkin turnovers and a His
 - **Coat warm.**
 
 ## Variations
-**Mince filling:** swap pumpkin for sweet meat-and-fruit mince.
-**Without raisins:** kid-friendly.
-**Spiced more:** add cardamom.
-**Larger:** 10 cm circles; makes 12 larger empanadas.
+- **Mince filling:** swap pumpkin for sweet meat-and-fruit mince.
+- **Without raisins:** kid-friendly.
+- **Spiced more:** add cardamom.
+- **Larger:** 10 cm circles; makes 12 larger empanadas.
 
 ## Serving
-At NM Christmas, weddings, family gatherings.
+- At NM Christmas, weddings, family gatherings.
 
 ## Storage
 - Sealed container at room temp 1 week.

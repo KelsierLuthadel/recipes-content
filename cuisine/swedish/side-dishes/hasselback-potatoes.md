@@ -76,14 +76,14 @@ Hasselback potatoes are Sweden's most exported potato preparation and the dish t
 - **Skin on:** the skin crisps into a beautiful texture; peeled hasselback loses half the appeal.
 
 ## Variations
-**Cheesy hasselback:** insert thin slivers of cheese (Gruyère, Cheddar, mozzarella) between the slices halfway through baking.
-**Bacon-fat hasselback:** swap the butter for bacon fat; add bacon bits between the slices.
-**Sweet potato hasselback:** swap white potatoes for sweet potatoes; same technique, slightly shorter cook time.
-**Hasselback with mushroom-butter:** mix the butter with finely chopped mushrooms and garlic before brushing.
-**Crushed-potato style:** after baking, gently press down on the top to fully open the slices; serve sour-cream-loaded baked-potato-style.
+- **Cheesy hasselback:** insert thin slivers of cheese (Gruyère, Cheddar, mozzarella) between the slices halfway through baking.
+- **Bacon-fat hasselback:** swap the butter for bacon fat; add bacon bits between the slices.
+- **Sweet potato hasselback:** swap white potatoes for sweet potatoes; same technique, slightly shorter cook time.
+- **Hasselback with mushroom-butter:** mix the butter with finely chopped mushrooms and garlic before brushing.
+- **Crushed-potato style:** after baking, gently press down on the top to fully open the slices; serve sour-cream-loaded baked-potato-style.
 
 ## Serving
-Alongside Swedish meatballs (the traditional pairing) · with gravlax or smoked salmon · with any Sunday roast · at a Stockholm restaurant dinner · at home as the side that everyone photographs.
+- Alongside Swedish meatballs (the traditional pairing) · with gravlax or smoked salmon · with any Sunday roast · at a Stockholm restaurant dinner · at home as the side that everyone photographs.
 
 ## Storage
 - Best fresh from the oven.

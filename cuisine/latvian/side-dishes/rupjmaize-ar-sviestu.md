@@ -80,7 +80,7 @@ Rupjmaize is the dark dense sourdough rye loaf that anchors the Latvian table. L
 - **Bakery shortcut:** A 100 percent rye sourdough loaf from a good bakery, sliced thick with salted butter, gets you 80 percent of the way.
 
 ## Serving
-With every soup, with herring, with cold cuts, with cheese, with cucumber and dill, with a glass of cold milk, kefir or buttermilk. The slice of rye and butter is also a breakfast and a midnight snack.
+- With every soup, with herring, with cold cuts, with cheese, with cucumber and dill, with a glass of cold milk, kefir or buttermilk. The slice of rye and butter is also a breakfast and a midnight snack.
 
 ## Storage
 - Keeps a week in a tin or wrapped in linen; the crumb darkens and the flavour deepens.

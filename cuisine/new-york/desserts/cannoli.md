@@ -110,13 +110,13 @@ Cannoli (the singular is cannolo; cannoli is the plural; though Italian-American
 - **Pistachios at ends traditional.**
 
 ## Variations
-**Mini cannoli:** small bite-size for parties.
-**Cannoli cream cake:** layer with sponge.
-**Sicilian style:** with chocolate-coated end caps.
-**With candied citron:** classic Sicilian addition.
+- **Mini cannoli:** small bite-size for parties.
+- **Cannoli cream cake:** layer with sponge.
+- **Sicilian style:** with chocolate-coated end caps.
+- **With candied citron:** classic Sicilian addition.
 
 ## Serving
-At Italian-American bakeries, weddings, family celebrations. With espresso.
+- At Italian-American bakeries, weddings, family celebrations. With espresso.
 
 ## Storage
 - Unfilled shells in sealed tin 1 week.

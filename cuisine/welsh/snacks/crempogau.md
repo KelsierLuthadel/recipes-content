@@ -70,7 +70,7 @@ Crempogau (the plural of crempog) are Welsh pancakes, and they sit between an En
 - **With Welsh whisky honey:** stir a splash of Penderyn into the honey before drizzling.
 
 ## Serving
-On a Welsh birthday tea-table · on St David's Day with honey and Welsh butter · in a tall stack as a special-Sunday treat · cut into wedges for a teatime · with a pot of strong tea on the side.
+- On a Welsh birthday tea-table · on St David's Day with honey and Welsh butter · in a tall stack as a special-Sunday treat · cut into wedges for a teatime · with a pot of strong tea on the side.
 
 ## Storage
 - Best eaten the day they are made.

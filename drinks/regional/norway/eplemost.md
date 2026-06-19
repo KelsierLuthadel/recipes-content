@@ -78,7 +78,7 @@ Eplemost ("apple must") is the Norwegian cold-pressed apple juice tradition - fr
 - **Don't boil:** Cooking the juice destroys the fresh apple character. Warm only to drinking temperature; pasteurisation goes to 75°C, not boiling.
 
 ## Serving
-The cold autumn drink at apple-harvest time. Bring a bottle to a picnic. Warm with cinnamon as the children's gløgg at Christmas markets. With a piece of eplekake as an apple-on-apple afternoon snack.
+- The cold autumn drink at apple-harvest time. Bring a bottle to a picnic. Warm with cinnamon as the children's gløgg at Christmas markets. With a piece of eplekake as an apple-on-apple afternoon snack.
 
 ## Storage
 - Fresh: refrigerates 3 days.

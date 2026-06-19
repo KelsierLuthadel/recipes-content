@@ -86,13 +86,13 @@ Churros in the Southwest United States are the iconic Mexican-American street de
 - **Eat immediately:** lose crisp quickly.
 
 ## Variations
-**With dulce de leche:** dip in dulce de leche instead of chocolate.
-**Filled churros (relleno):** pipe a sweet filling into the centre after frying (with a long pastry tip): dulce de leche, chocolate, cream cheese.
-**Smaller churros:** pipe 5 cm lengths; gives bite-sized.
-**Spiced (Tex-Mex chocolate):** add a pinch of cayenne to the chocolate sauce.
+- **With dulce de leche:** dip in dulce de leche instead of chocolate.
+- **Filled churros (relleno):** pipe a sweet filling into the centre after frying (with a long pastry tip): dulce de leche, chocolate, cream cheese.
+- **Smaller churros:** pipe 5 cm lengths; gives bite-sized.
+- **Spiced (Tex-Mex chocolate):** add a pinch of cayenne to the chocolate sauce.
 
 ## Serving
-At Mexican-Southwestern parties, after dinner, at state fairs. With Mexican hot chocolate or strong coffee.
+- At Mexican-Southwestern parties, after dinner, at state fairs. With Mexican hot chocolate or strong coffee.
 
 ## Storage
 - Best eaten immediately.

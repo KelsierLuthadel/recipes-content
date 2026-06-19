@@ -108,13 +108,13 @@ Denningvleis is the deeply traditional Cape Malay lamb stew of Cape Town and the
 - **Sweet and sour balance:** the dish lives or dies on the balance. Too sweet and it tastes like a fruity stew; too sour and it bites. Taste as you cook and adjust with brown sugar, vinegar or tamarind. The proper balance is recognisably sweet-and-sour but neither dominates.
 
 ## Variations
-**Beef denningvleis:** swap lamb for beef shin or chuck cubed; cook 30 minutes longer (2.5 hours total) for proper tenderness. Slightly heavier flavour but works.
-**Denningvleis with apricots:** add 100 g of dried apricots to the stew in the last 30 minutes of cooking; gives an extra sweet-fruity dimension. Common Cape Malay variation.
-**Denningvleis with potato:** add 2 large potatoes (cut into 3 cm cubes) in the last 35 minutes; turns the stew into a one-pot meal that doesn't need a rice base.
-**Denningvleis dry-style:** reduce the liquid significantly and serve as drier curry-style meat with rice; some Cape Malay families prefer this. Use only 250 ml stock and reduce uncovered hard at the end.
+- **Beef denningvleis:** swap lamb for beef shin or chuck cubed; cook 30 minutes longer (2.5 hours total) for proper tenderness. Slightly heavier flavour but works.
+- **Denningvleis with apricots:** add 100 g of dried apricots to the stew in the last 30 minutes of cooking; gives an extra sweet-fruity dimension. Common Cape Malay variation.
+- **Denningvleis with potato:** add 2 large potatoes (cut into 3 cm cubes) in the last 35 minutes; turns the stew into a one-pot meal that doesn't need a rice base.
+- **Denningvleis dry-style:** reduce the liquid significantly and serve as drier curry-style meat with rice; some Cape Malay families prefer this. Use only 250 ml stock and reduce uncovered hard at the end.
 
 ## Serving
-Over yellow rice (Cape Malay turmeric-raisin rice) in deep bowls; a small chopped tomato-and-onion sambal on the side; a chopped fresh coriander garnish. Drink: a Cape rosé, a glass of Pinotage, or sweet rooibos tea after the meal.
+- Over yellow rice (Cape Malay turmeric-raisin rice) in deep bowls; a small chopped tomato-and-onion sambal on the side; a chopped fresh coriander garnish. Drink: a Cape rosé, a glass of Pinotage, or sweet rooibos tea after the meal.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens significantly overnight. Day-after denningvleis is considered better than day-of by many Cape Malay cooks.

@@ -83,16 +83,16 @@ Masaman curry paste is the building block for Thailand's most complex curry: the
 - **Shelf Life:** This paste keeps longer than fresh-herb based ones due to its oil content and lack of fresh herbs.
 
 ## Variations
-**Spicier Version:** Leave all chilli seeds in; increase to 15 chillies.
-**With Tamarind:** Add 1 teaspoon tamarind paste for slight sourness.
-**Extra Aromatic:** Toast an additional cinnamon stick with the other spices.
-**Creamy Paste:** Add 1-2 tablespoons coconut cream during the final grinding.
+- **Spicier Version:** Leave all chilli seeds in; increase to 15 chillies.
+- **With Tamarind:** Add 1 teaspoon tamarind paste for slight sourness.
+- **Extra Aromatic:** Toast an additional cinnamon stick with the other spices.
+- **Creamy Paste:** Add 1-2 tablespoons coconut cream during the final grinding.
 
 ## Serving
-Use in: Masaman curries (beef is traditional), curried stews, curry soups
-Typical ratio: 3-4 tablespoons per 400 ml coconut milk
-Cooking: Simmer gently for 30+ minutes with beef or tough meats to develop layers of flavor
-Temperature: Use immediately or refrigerate
+- Use in: Masaman curries (beef is traditional), curried stews, curry soups
+- Typical ratio: 3-4 tablespoons per 400 ml coconut milk
+- Cooking: Simmer gently for 30+ minutes with beef or tough meats to develop layers of flavor
+- Temperature: Use immediately or refrigerate
 
 ## Storage
 - Refrigerate in a glass jar for up to 8 weeks (longer than fresh-herb pastes due to oil content)

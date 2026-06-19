@@ -61,7 +61,7 @@ Mulgipuder takes its name from the Mulgimaa region of southern Estonia, where th
 - **Vegetarian version:** Replace the bacon-onion kaste with a generous spoonful of brown butter, or serve under a fried egg.
 
 ## Serving
-Serve hot as the carb of a meal with verivorst (blood sausage), pan-fried sausages, roast pork or a fried egg. A spoon of lingonberry jam on the side cuts through the richness.
+- Serve hot as the carb of a meal with verivorst (blood sausage), pan-fried sausages, roast pork or a fried egg. A spoon of lingonberry jam on the side cuts through the richness.
 
 ## Storage
 - Keeps 3 days refrigerated

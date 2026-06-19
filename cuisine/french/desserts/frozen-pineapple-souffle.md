@@ -77,7 +77,7 @@ Frozen pineapple soufflé is the show-off dinner-party trick of the 1970s, a sem
 - Freeze for a minimum of 3 hours; if refrigerating instead, allow 8 hours for proper setting
 
 ## Serving
-Remove the paper collar just before serving and fill the cavity with blackberry coulis and poached blackberries. Decorate the top with reserved pineapple pieces and toasted almonds. Serve with remaining blackberry coulis in a separate jug for guests to add as desired.
+- Remove the paper collar just before serving and fill the cavity with blackberry coulis and poached blackberries. Decorate the top with reserved pineapple pieces and toasted almonds. Serve with remaining blackberry coulis in a separate jug for guests to add as desired.
 
 ## Storage
 Once assembled, serve immediately. The unfilled and undecorated frozen soufflé can be stored in the freezer for up to 2 days before final assembly and serving. If made ahead, wrap carefully in plastic film to prevent freezer burn and protect from absorbing other flavors.

@@ -66,7 +66,7 @@ Pumpkin (the British/Kiwi name for what Americans call winter squash) grows happ
 - **Cinnamon optional:** The base version is just honey + chilli + salt; adding cinnamon takes it in a more Middle Eastern direction. Both are valid; choose one or the other, not both maximally.
 
 ## Serving
-Serve warm or at room temperature as a side with grilled lamb, BBQ steak, or roast chicken. Or piled on a slice of toasted sourdough as a starter or vegetarian main.
+- Serve warm or at room temperature as a side with grilled lamb, BBQ steak, or roast chicken. Or piled on a slice of toasted sourdough as a starter or vegetarian main.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

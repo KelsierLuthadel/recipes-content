@@ -50,7 +50,7 @@ Fermented black beans are the funk you can't fake; this is the dish where they e
 - **Aromatics:** Fragrant ginger and garlic are essential. Add early to infuse the oil and build flavour layers.
 
 ## Serving
-Serve with: Stir-fried spinach with garlic, or steamed rice
+- Serve with: Stir-fried spinach with garlic, or steamed rice
 
 ## Storage
 - Keeps 2-3 days refrigerated

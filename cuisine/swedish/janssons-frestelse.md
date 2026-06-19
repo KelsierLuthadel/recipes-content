@@ -79,14 +79,14 @@ Janssons frestelse (Jansson's Temptation) is one of Sweden's most beloved comfor
 - **Top must crisp:** bake uncovered for the last stretch.
 
 ## Variations
-**With herring instead of ansjovis:** a non-traditional but lighter version.
-**Vegetarian (Vansin frestelse):** swap the anchovies for chopped black olives + capers + a teaspoon of MSG or seaweed flakes for umami depth.
-**Spicier:** add a pinch of cayenne to the cream.
-**With sliced chorizo:** for a non-Swedish riff that works.
-**Mini portion ramekins:** for a starter; bake in individual ramekins for 25 minutes.
+- **With herring instead of ansjovis:** a non-traditional but lighter version.
+- **Vegetarian (Vansin frestelse):** swap the anchovies for chopped black olives + capers + a teaspoon of MSG or seaweed flakes for umami depth.
+- **Spicier:** add a pinch of cayenne to the cream.
+- **With sliced chorizo:** for a non-Swedish riff that works.
+- **Mini portion ramekins:** for a starter; bake in individual ramekins for 25 minutes.
 
 ## Serving
-At the Swedish Christmas julbord on the evening of Christmas Eve (often the dish that's been gently warming in the oven all afternoon) · at a Midsommar feast · at the end of a long night out as the "back to mine" comfort food · with cold beer.
+- At the Swedish Christmas julbord on the evening of Christmas Eve (often the dish that's been gently warming in the oven all afternoon) · at a Midsommar feast · at the end of a long night out as the "back to mine" comfort food · with cold beer.
 
 ## Storage
 - Refrigerates 4 days; reheats beautifully in a 180°C oven 20 minutes.

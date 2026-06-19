@@ -61,7 +61,7 @@ Banana grows everywhere in Saint Lucia, and the cooks know exactly what to do wi
 - **Texture:** This is a dense, moist cake - not a light fluffy banana bread. Avoid overmixing; fold gently.
 
 ## Serving
-Serve warm with butter, or at room temperature with afternoon tea. A scoop of vanilla ice cream and a drizzle of rum syrup makes a dessert plate.
+- Serve warm with butter, or at room temperature with afternoon tea. A scoop of vanilla ice cream and a drizzle of rum syrup makes a dessert plate.
 
 ## Storage
 - In an airtight tin at room temperature: 5-7 days. The cake stays moist; the flavour deepens overnight.

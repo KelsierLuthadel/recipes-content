@@ -44,9 +44,9 @@ Fried wonton are the deep-fried siblings of the boiled or steamed dim-sum classi
 - Drain each batch immediately on kitchen paper and serve as quickly as possible, as they lose their crunch quickly.
 
 ## Serving
-Serve with: a selection of dipping sauces such as sweet chilli, soy with ginger, or plum sauce
-Temperature: hot, immediately after frying
-Amount: approximately 5 wuntun per person as a starter or snack
+- Serve with: a selection of dipping sauces such as sweet chilli, soy with ginger, or plum sauce
+- Temperature: hot, immediately after frying
+- Amount: approximately 5 wuntun per person as a starter or snack
 
 ## Storage
 - Best eaten immediately; they do not keep well once fried as the skins go soft.

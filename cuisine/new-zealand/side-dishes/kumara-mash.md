@@ -59,7 +59,7 @@ Kūmara is the sweet potato Māori brought from the Pacific - a key staple of pr
 - **Sweetness is enough:** Resist adding sugar or syrup; kūmara is already sweet. Save those for desserts.
 
 ## Serving
-The orange mash that goes alongside white potato mash on a New Zealand Sunday roast. Also good with sausages, grilled fish, or scattered over a salad of bitter leaves with a balsamic dressing.
+- The orange mash that goes alongside white potato mash on a New Zealand Sunday roast. Also good with sausages, grilled fish, or scattered over a salad of bitter leaves with a balsamic dressing.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

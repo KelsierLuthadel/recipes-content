@@ -41,7 +41,7 @@ Chocolate sorbet is the deeply concentrated version of chocolate ice cream, made
 - Chill the machine bowl thoroughly before churning; work quickly to prevent warmth from affecting texture
 
 ## Serving
-Place a meringue nest on each chilled serving plate and top with a generous scoop of sorbet. Serve immediately for the best contrast between warm-temperature sorbet and crispy-cold meringue. A drizzle of warm chocolate ganache around the plate adds elegance and additional chocolate flavor.
+- Place a meringue nest on each chilled serving plate and top with a generous scoop of sorbet. Serve immediately for the best contrast between warm-temperature sorbet and crispy-cold meringue. A drizzle of warm chocolate ganache around the plate adds elegance and additional chocolate flavor.
 
 ## Storage
 The meringue nests keep for 2-3 days in an airtight container at room temperature (in a dry climate). The sorbet is best served immediately after churning, but may be stored in the freezer for up to 3-4 days in an airtight container. Re-churn or soften slightly before serving if frozen for storage, as it becomes hard and icy over time.

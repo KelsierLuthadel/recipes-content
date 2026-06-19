@@ -63,13 +63,13 @@ Ají picante (or simply "ají") is Colombia's most pervasive table condiment and
 - **Cumin gives the Colombian profile:** distinguishes from Mexican salsa.
 
 ## Variations
-**Aji con aguacate (with avocado):** add 1 finely diced ripe avocado in the last 5 minutes; gives a creamier version.
-**Aji de mango:** add 1 ripe mango (finely diced); gives a fruity tropical version.
-**Aji con pimienta de cayena:** add 1 teaspoon of cayenne pepper to the seasoning; properly fierce.
-**Smoky aji:** add 1 chopped smoked chipotle in adobo; gives a smoky depth.
+- **Aji con aguacate (with avocado):** add 1 finely diced ripe avocado in the last 5 minutes; gives a creamier version.
+- **Aji de mango:** add 1 ripe mango (finely diced); gives a fruity tropical version.
+- **Aji con pimienta de cayena:** add 1 teaspoon of cayenne pepper to the seasoning; properly fierce.
+- **Smoky aji:** add 1 chopped smoked chipotle in adobo; gives a smoky depth.
 
 ## Serving
-With everything Colombian: arepas, empanadas, bandeja paisa, patacones, sancocho, sudado de pollo. Always at the table as a help-yourself condiment.
+- With everything Colombian: arepas, empanadas, bandeja paisa, patacones, sancocho, sudado de pollo. Always at the table as a help-yourself condiment.
 
 ## Storage
 - Keeps refrigerated 1 week in a sealed jar; flavour deepens for 2 days then starts to lose freshness.

@@ -110,13 +110,13 @@ Lechona tolimense is one of Colombia's most iconic celebration dishes and the un
 - **Serve with arepas, not rice:** the filling is the carb.
 
 ## Variations
-**Boneless rolled lechona:** easier home version using boneless pork loin with skin on, butterflied, filled and rolled.
-**With chickpeas:** add 1 tin of chickpeas to the filling; gives more body.
-**Without ground pork (vegetarian-leaning filling):** double the rice; add 200 g of mushrooms.
-**Antioqueño-style:** add chopped chicharrón to the filling; gives a richer fattier version.
+- **Boneless rolled lechona:** easier home version using boneless pork loin with skin on, butterflied, filled and rolled.
+- **With chickpeas:** add 1 tin of chickpeas to the filling; gives more body.
+- **Without ground pork (vegetarian-leaning filling):** double the rice; add 200 g of mushrooms.
+- **Antioqueño-style:** add chopped chicharrón to the filling; gives a richer fattier version.
 
 ## Serving
-At the centre of a celebration table, the cuerito on a separate plate. With arepas, aji, lime, salad. Drink: aguardiente (Colombian sugarcane spirit), Club Colombia beer, or fresh limonada.
+- At the centre of a celebration table, the cuerito on a separate plate. With arepas, aji, lime, salad. Drink: aguardiente (Colombian sugarcane spirit), Club Colombia beer, or fresh limonada.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

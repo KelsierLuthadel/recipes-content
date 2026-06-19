@@ -97,11 +97,11 @@ The Habsburg Sunday lunch, said to have been Emperor Franz Joseph's favourite di
 - **Bratkartoffeln are the right potato:** boil waxy potatoes the day before, slice, then pan-fry in butter with onion. Mash is the wrong texture.
 
 ## Variations
-**Mit Semmelkren:** the broth course is served with Semmelkren (a horseradish-and-bread sauce thickened like an English bread sauce) instead of the apple version.
-**Mit Marknoodel:** the broth is poured over a slice of toast topped with hot bone marrow lifted from the bones, the most decadent Beisl version.
+- **Mit Semmelkren:** the broth course is served with Semmelkren (a horseradish-and-bread sauce thickened like an English bread sauce) instead of the apple version.
+- **Mit Marknoodel:** the broth is poured over a slice of toast topped with hot bone marrow lifted from the bones, the most decadent Beisl version.
 
 ## Serving
-Serve with: roast or sautéed potatoes (Bratkartoffeln), creamed spinach, apple-horseradish sauce, chive sauce, the broth vegetables and a generous bowl of the broth itself with chives.
+- Serve with: roast or sautéed potatoes (Bratkartoffeln), creamed spinach, apple-horseradish sauce, chive sauce, the broth vegetables and a generous bowl of the broth itself with chives.
 
 ## Storage
 - Beef and broth keep 3 days refrigerated; reheat gently in broth, never microwaved (it toughens).

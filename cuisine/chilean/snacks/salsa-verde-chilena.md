@@ -57,13 +57,13 @@ Salsa verde Chilena is Chile's version of the wider Latin/Iberian green-sauce fa
 - **Adjust merkén for heat:** light or fierce.
 
 ## Variations
-**With anchovy (Italian-leaning):** add 4 anchovy fillets finely chopped; gives Italian salsa verde character.
-**With capers:** add 2 tablespoons chopped capers; gives more brininess.
-**Spicier:** double the chilli; add 1 chopped habanero.
-**With basil:** add 1 small bunch fresh basil; common variation.
+- **With anchovy (Italian-leaning):** add 4 anchovy fillets finely chopped; gives Italian salsa verde character.
+- **With capers:** add 2 tablespoons chopped capers; gives more brininess.
+- **Spicier:** double the chilli; add 1 chopped habanero.
+- **With basil:** add 1 small bunch fresh basil; common variation.
 
 ## Serving
-Alongside grilled meats (Chilean asado), grilled fish, roasted chicken, baked potatoes, bread. As a dipping sauce or a drizzle.
+- Alongside grilled meats (Chilean asado), grilled fish, roasted chicken, baked potatoes, bread. As a dipping sauce or a drizzle.
 
 ## Storage
 - Keeps refrigerated 4 days in a sealed jar; herbs go drab after that.

@@ -61,7 +61,7 @@ The British autumn crumble pulled toward the dinner-party end of the spectrum: t
 - Brown sugar in the crumble adds depth of flavor that white sugar cannot match; it also helps create slight chewiness in the topping
 
 ## Serving
-Serve the crumble warm directly from the baking dish into individual bowls, allowing 5-10 minutes resting time for juices to set slightly. Top each serving with crème anglaise or thick cream. The warmth allows the toppings to pool and intermingle beautifully.
+- Serve the crumble warm directly from the baking dish into individual bowls, allowing 5-10 minutes resting time for juices to set slightly. Top each serving with crème anglaise or thick cream. The warmth allows the toppings to pool and intermingle beautifully.
 
 ## Storage
 The assembled crumble can be prepared up to 4 hours ahead and kept at room temperature, then baked when ready to serve. Baked crumble keeps at room temperature for 1 day; reheat gently in a 160°C oven for 10-15 minutes. Do not refrigerate, as the pastry topping becomes dense and hard. The individual components (cooked fruit, crumble topping) can be prepared the day before and assembled when ready to bake.

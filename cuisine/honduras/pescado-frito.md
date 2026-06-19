@@ -103,13 +103,13 @@ Pescado frito is Honduras's beloved Caribbean coast whole fried fish, particular
 - **The skin is the best part:** the crisp deeply-fried skin is the traditional highlight of Garifuna pescado frito. Eat it; don't skip.
 
 ## Variations
-**Tilapia (mojarra) version:** the everyday Honduran fish is mojarra (tilapia); use 4 smaller fish (300 g each) instead of 2 larger; reduce cooking to 5 minutes per side.
-**Coconut-fried fish:** add 50 g of grated coconut to the dredge; gives a Caribbean tropical flavour that's particularly Garifuna.
-**Spicy version:** add 1 tablespoon of cayenne pepper to the dredge; serve with extra hot sauce. Common Honduran style.
-**Snapper grilled instead of fried:** for a healthier option, grill the marinated fish over charcoal instead of frying; the texture is different but the flavour profile is similar.
+- **Tilapia (mojarra) version:** the everyday Honduran fish is mojarra (tilapia); use 4 smaller fish (300 g each) instead of 2 larger; reduce cooking to 5 minutes per side.
+- **Coconut-fried fish:** add 50 g of grated coconut to the dredge; gives a Caribbean tropical flavour that's particularly Garifuna.
+- **Spicy version:** add 1 tablespoon of cayenne pepper to the dredge; serve with extra hot sauce. Common Honduran style.
+- **Snapper grilled instead of fried:** for a healthier option, grill the marinated fish over charcoal instead of frying; the texture is different but the flavour profile is similar.
 
 ## Serving
-On a wooden platter at the centre of the table, the fish whole, surrounded by all the sides. Each diner takes their portion; the Honduran way is to use a fork to pick the flesh from the bones, build a small tortilla-and-fish-and-pickle bite, and eat with hands. Drink: cold Salva Vida or Imperial beer (Honduras's locals), fresh agua de coco (coconut water), or fresh lemonade.
+- On a wooden platter at the centre of the table, the fish whole, surrounded by all the sides. Each diner takes their portion; the Honduran way is to use a fork to pick the flesh from the bones, build a small tortilla-and-fish-and-pickle bite, and eat with hands. Drink: cold Salva Vida or Imperial beer (Honduras's locals), fresh agua de coco (coconut water), or fresh lemonade.
 
 ## Storage
 - Best eaten fresh and hot; the crisp skin loses its texture as it cools.

@@ -48,7 +48,7 @@ A dinner-party reworking of the homely baked apple: a whole cooking apple cored 
 - The final torching or broiling of the sugar coating must be quick; excessive heat burns the sugar rather than creating a caramelized gloss
 
 ## Serving
-Present each apple still in its pastry cage on an individual plate for maximum drama. The contrast between the delicate carved pastry and the whole fruit inside creates visual interest. Serve warm, accompanied by vanilla crème anglaise or whipped cream.
+- Present each apple still in its pastry cage on an individual plate for maximum drama. The contrast between the delicate carved pastry and the whole fruit inside creates visual interest. Serve warm, accompanied by vanilla crème anglaise or whipped cream.
 
 ## Storage
 Baked apples in pastry are best served warm, shortly after baking. They can be prepared ahead through the pastry assembly stage and refrigerated unbaked for several hours. Bake when ready to serve for freshness. If baked ahead, they can be gently reheated in a 160°C oven for 10 minutes, though the pastry gradually softens. Do not refrigerate baked apples as the pastry becomes tough in the cold.

@@ -66,7 +66,7 @@ Olla de carne is the Sunday lunch of the Costa Rican highlands, a single pot of 
 - **Slow-cooker version:** Brown the beef first, then cook on low for 6 hours with aromatics; add the roots in the last hour.
 
 ## Serving
-Serve in two courses: broth first with coriander and lime · then meat and vegetables with white rice · a side of avocado · Salsa Lizano on the table
+- Serve in two courses: broth first with coriander and lime · then meat and vegetables with white rice · a side of avocado · Salsa Lizano on the table
 
 ## Storage
 - Olla de carne keeps 4 days refrigerated and improves the second day

@@ -76,7 +76,7 @@ Verivorst is Estonia's blood sausage and the centrepiece of jõululaud, the long
 - **Make ahead:** The sausages are usually poached a day or two before Christmas Eve and finished in the pan on the night.
 
 ## Serving
-Serve hot on a bed of mulgipuder with lingonberry jam, a spoon of sour cream and pickled pumpkin or cucumbers. A glass of dark Estonian rye beer on the side.
+- Serve hot on a bed of mulgipuder with lingonberry jam, a spoon of sour cream and pickled pumpkin or cucumbers. A glass of dark Estonian rye beer on the side.
 
 ## Storage
 - Poached sausages keep 3 days refrigerated and freeze 2 months

@@ -62,13 +62,13 @@ Batatas a murro (literally "punched potatoes"; murro = a punch with the fist) is
 - **Smashed edges crisp:** the texture contrast is the point.
 
 ## Variations
-**With rosemary:** add 2 sprigs of fresh rosemary; gives a more Italian-Portuguese twist.
-**Spicier:** add 1 tablespoon of piri-piri sauce.
-**With sea salt and lemon zest:** add zest of 1 lemon over the finished potatoes.
-**Garlic-confit version:** roast whole peeled garlic cloves alongside the potatoes; gives soft garlic to mash and eat.
+- **With rosemary:** add 2 sprigs of fresh rosemary; gives a more Italian-Portuguese twist.
+- **Spicier:** add 1 tablespoon of piri-piri sauce.
+- **With sea salt and lemon zest:** add zest of 1 lemon over the finished potatoes.
+- **Garlic-confit version:** roast whole peeled garlic cloves alongside the potatoes; gives soft garlic to mash and eat.
 
 ## Serving
-Alongside grilled meats (frango piri-piri, bitoque), grilled fish (sardinhas assadas, robalo grelhado), or as a vegetarian side with salad.
+- Alongside grilled meats (frango piri-piri, bitoque), grilled fish (sardinhas assadas, robalo grelhado), or as a vegetarian side with salad.
 
 ## Storage
 - Best eaten warm and crispy.

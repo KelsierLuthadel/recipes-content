@@ -74,7 +74,7 @@ Byrek (the spelling lazo or burek elsewhere in the Balkans) is the Albanian filo
 - **Tray bake (faster):** layer 6 sheets of filo, half the filling, 6 more sheets, the rest of the filling, 6 more sheets, brushing each with butter; cut into squares once baked.
 
 ## Serving
-Cut in wedges from the centre out · serve warm with cold thick yoghurt · a glass of chilled buttermilk (dhalle) or ayran · a tomato-and-cucumber salad on the side · pickles for the country version.
+- Cut in wedges from the centre out · serve warm with cold thick yoghurt · a glass of chilled buttermilk (dhalle) or ayran · a tomato-and-cucumber salad on the side · pickles for the country version.
 
 ## Storage
 - Keeps 2 days at room temperature wrapped in a tea towel; 4 days refrigerated

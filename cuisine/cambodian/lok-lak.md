@@ -114,13 +114,13 @@ Lok lak is one of Cambodia's most beloved beef dishes, with French-colonial infl
 - **Marinate 30 minutes, not longer:** the soy-and-oyster marinade is potent; longer than 1 hour starts to over-flavour the meat and the texture goes off (the salt starts curing the meat). 30 minutes is the sweet spot.
 
 ## Variations
-**Lok lak with chicken:** swap the beef for 600 g chicken thigh (cut into 2 cm cubes); marinate 30 minutes and stir-fry the same way. Less traditional but works for non-beef-eaters.
-**Lok lak with tofu (vegetarian):** swap beef for 400 g firm tofu (cubed and lightly pressed); use mushroom oyster sauce instead of regular oyster sauce. The texture is right; the flavour is naturally less rich.
-**Pepper-crusted lok lak:** crush 1 tablespoon of black peppercorns and 1 teaspoon of green peppercorns coarsely; mix into the marinade. Gives a punchier peppery profile that bridges lok lak with Vietnamese bo luc lac.
-**With watercress instead of lettuce:** swap the Boston lettuce for a bed of watercress; the peppery bite of watercress pairs especially well with the lime-pepper dipping sauce.
+- **Lok lak with chicken:** swap the beef for 600 g chicken thigh (cut into 2 cm cubes); marinate 30 minutes and stir-fry the same way. Less traditional but works for non-beef-eaters.
+- **Lok lak with tofu (vegetarian):** swap beef for 400 g firm tofu (cubed and lightly pressed); use mushroom oyster sauce instead of regular oyster sauce. The texture is right; the flavour is naturally less rich.
+- **Pepper-crusted lok lak:** crush 1 tablespoon of black peppercorns and 1 teaspoon of green peppercorns coarsely; mix into the marinade. Gives a punchier peppery profile that bridges lok lak with Vietnamese bo luc lac.
+- **With watercress instead of lettuce:** swap the Boston lettuce for a bed of watercress; the peppery bite of watercress pairs especially well with the lime-pepper dipping sauce.
 
 ## Serving
-On a large platter as described, with the cool lettuce-tomato-cucumber bed and the hot beef cascading over. Steamed jasmine rice on the side for diners to scoop with. A fried egg per diner (sunny-side up) is the traditional addition; the runny yolk mixes through the beef and the rice. Drink: Angkor or Cambodia beer; or jasmine tea.
+- On a large platter as described, with the cool lettuce-tomato-cucumber bed and the hot beef cascading over. Steamed jasmine rice on the side for diners to scoop with. A fried egg per diner (sunny-side up) is the traditional addition; the runny yolk mixes through the beef and the rice. Drink: Angkor or Cambodia beer; or jasmine tea.
 
 ## Storage
 - The beef is best eaten fresh; the reheat changes the texture (the pink-inside goes to fully cooked).

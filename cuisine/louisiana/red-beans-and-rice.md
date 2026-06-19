@@ -87,13 +87,13 @@ Louisiana red beans and rice is the traditional Monday dish in New Orleans: drie
 - **Mash some beans:** thickens the broth.
 
 ## Variations
-**Vegetarian:** skip pork; use smoked paprika + liquid smoke + vegetable stock.
-**Without andouille:** ham hock only.
-**Spicier:** double cayenne + extra hot sauce.
-**With pickled pork:** add a small piece (very traditional).
+- **Vegetarian:** skip pork; use smoked paprika + liquid smoke + vegetable stock.
+- **Without andouille:** ham hock only.
+- **Spicier:** double cayenne + extra hot sauce.
+- **With pickled pork:** add a small piece (very traditional).
 
 ## Serving
-Monday dinner. Over rice with hot sauce, cornbread.
+- Monday dinner. Over rice with hot sauce, cornbread.
 
 ## Storage
 - Keeps refrigerated 5 days; famously better day 2.

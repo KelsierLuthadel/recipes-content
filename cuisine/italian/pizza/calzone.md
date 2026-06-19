@@ -84,15 +84,15 @@ Pizza folded in half: the same dough, the same hot oven, but the filling sealed 
 - **Rest Before Cutting:** The rest time allows steam to settle and the dough to firm up, making cutting cleaner and serving easier.
 
 ## Variations
-**With Mozzarella:** Add 50 grams mozzarella torn into pieces before folding.
-**Spinach Version:** Add 100 grams sautéed spinach to the filling for earthiness.
-**Anchovy Accent:** Add 2-3 chopped anchovy fillets for salty depth.
-**Extra Herbs:** Include fresh oregano or thyme in the filling.
+- **With Mozzarella:** Add 50 grams mozzarella torn into pieces before folding.
+- **Spinach Version:** Add 100 grams sautéed spinach to the filling for earthiness.
+- **Anchovy Accent:** Add 2-3 chopped anchovy fillets for salty depth.
+- **Extra Herbs:** Include fresh oregano or thyme in the filling.
 
 ## Serving
-Serve with: Simple green salad, tomato dipping sauce
-Garnish with: Fresh basil, cracked black pepper
-Pair with: Crisp white wine (Pinot Grigio) or light red (Chianti)
+- Serve with: Simple green salad, tomato dipping sauce
+- Garnish with: Fresh basil, cracked black pepper
+- Pair with: Crisp white wine (Pinot Grigio) or light red (Chianti)
 
 ## Storage
 - Best served immediately while warm and steam is still trapped inside

@@ -84,14 +84,14 @@ Timpana is Malta's most elaborate and most special-occasion pasta dish, a baked 
 - **Cool slightly before slicing:** otherwise the filling runs out.
 
 ## Variations
-**Without pastry (timpana al forno):** baked uncovered as a casserole.
-**With chicken livers in the sauce:** richer; more old-style Maltese.
-**With béchamel layer:** add a thin layer of béchamel over the top before sealing, modern.
-**Vegetarian timpana:** swap meat for mushrooms + lentils.
-**Mini timpane:** in individual ramekins; party portions.
+- **Without pastry (timpana al forno):** baked uncovered as a casserole.
+- **With chicken livers in the sauce:** richer; more old-style Maltese.
+- **With béchamel layer:** add a thin layer of béchamel over the top before sealing, modern.
+- **Vegetarian timpana:** swap meat for mushrooms + lentils.
+- **Mini timpane:** in individual ramekins; party portions.
 
 ## Serving
-At a Maltese Sunday family lunch (the traditional setting) · at a Maltese wedding luncheon · at a Maltese big-occasion meal · at home as a celebration dish · alongside Maltese red wine.
+- At a Maltese Sunday family lunch (the traditional setting) · at a Maltese wedding luncheon · at a Maltese big-occasion meal · at home as a celebration dish · alongside Maltese red wine.
 
 ## Storage
 - Refrigerates 3 days; reheat at 180°C for 20 minutes.

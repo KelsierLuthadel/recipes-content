@@ -94,16 +94,16 @@ Mazamorra morada is one of Peru's most identity-defining sweet plates and one of
 - **Sweetness is generous:** mazamorra morada is unapologetically sweet. Don't reduce the sugar too aggressively or the dish tastes flat.
 
 ## Variations
-**Mazamorra morada Lima style:** add 1 tablespoon of cornflour-thickened cooked maíz morado kernels for texture, the chunky variant.
-**Mazamorra morada with arroz con leche (the marriage):** the traditional pairing in a single bowl.
-**Mazamorra morada with quinoa:** add 50 g of cooked Andean quinoa to the pudding, the modern variant.
-**Lighter Mazamorra:** use less sugar (60 g): for those who find the standard version too sweet.
-**Vegan mazamorra morada:** the recipe is already vegan (no dairy or eggs).
-**Mazamorra with chia seed thickener:** swap the sweet potato starch for chia seeds (2 tablespoons): the modern healthy variant.
-**Mazamorra morada cocktail (modern):** thin with 100 ml of pisco, the modern Lima cocktail-bar variant.
+- **Mazamorra morada Lima style:** add 1 tablespoon of cornflour-thickened cooked maíz morado kernels for texture, the chunky variant.
+- **Mazamorra morada with arroz con leche (the marriage):** the traditional pairing in a single bowl.
+- **Mazamorra morada with quinoa:** add 50 g of cooked Andean quinoa to the pudding, the modern variant.
+- **Lighter Mazamorra:** use less sugar (60 g): for those who find the standard version too sweet.
+- **Vegan mazamorra morada:** the recipe is already vegan (no dairy or eggs).
+- **Mazamorra with chia seed thickener:** swap the sweet potato starch for chia seeds (2 tablespoons): the modern healthy variant.
+- **Mazamorra morada cocktail (modern):** thin with 100 ml of pisco, the modern Lima cocktail-bar variant.
 
 ## Serving
-At a Peruvian All Saints' Day (1 November) celebration (the traditional setting) · at a Peruvian Independence Day (28 July) dessert · at a Lima criolla restaurant · at a Peruvian street-cart in the late afternoon · at a Peruvian family Sunday lunch · at a Peruvian wedding · at home as the make-ahead Sunday dessert · paired with arroz con leche (the traditional "marriage") · with a strong black coffee.
+- At a Peruvian All Saints' Day (1 November) celebration (the traditional setting) · at a Peruvian Independence Day (28 July) dessert · at a Lima criolla restaurant · at a Peruvian street-cart in the late afternoon · at a Peruvian family Sunday lunch · at a Peruvian wedding · at home as the make-ahead Sunday dessert · paired with arroz con leche (the traditional "marriage") · with a strong black coffee.
 
 ## Storage
 - Refrigerates 5 days in a sealed container.

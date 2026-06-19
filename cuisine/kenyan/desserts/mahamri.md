@@ -65,7 +65,7 @@ Mahamri (sometimes mahamri ya nazi) is the puffier, richer Swahili-coast doughnu
 - **Mahamri without egg:** drop the eggs for a slightly leaner, more chewy version (still good).
 
 ## Serving
-Hot from the fryer alongside Kenyan chai · paired with mbaazi za nazi for proper Swahili breakfast · torn open and filled with butter and honey · tea-shop standard with strong sweet milk-tea.
+- Hot from the fryer alongside Kenyan chai · paired with mbaazi za nazi for proper Swahili breakfast · torn open and filled with butter and honey · tea-shop standard with strong sweet milk-tea.
 
 ## Storage
 - Best within 4 hours of frying.

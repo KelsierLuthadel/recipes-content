@@ -85,13 +85,13 @@ Pikliz is Haiti's table relish, the fierce sharp pickled cabbage that appears al
 - **Keeps for weeks in the fridge:** properly made pikliz keeps 3-4 weeks refrigerated, getting steadily hotter and more flavourful. The traditional household keeps a jar always going and tops up the brine as it gets eaten.
 
 ## Variations
-**Pikliz nan zoranj (with bitter orange):** double the sour orange juice for a more pronounced citrus character; common in the Cap-Haïtien region.
-**Pikliz with cauliflower:** add 200 g of small cauliflower florets blanched 1 minute in salted water and refreshed in cold water; an old-style variant.
-**Sweet pikliz:** add 2 tablespoons of cane sugar to the brine for a sweet-sour pickled finish; less traditional but works for those who find the standard pikliz too sharp.
-**Pikliz vert (with green vegetables only):** swap red bell pepper for green, and use only green cabbage and pale carrots; gives the pikliz a cooler colour palette, more refined-looking.
+- **Pikliz nan zoranj (with bitter orange):** double the sour orange juice for a more pronounced citrus character; common in the Cap-Haïtien region.
+- **Pikliz with cauliflower:** add 200 g of small cauliflower florets blanched 1 minute in salted water and refreshed in cold water; an old-style variant.
+- **Sweet pikliz:** add 2 tablespoons of cane sugar to the brine for a sweet-sour pickled finish; less traditional but works for those who find the standard pikliz too sharp.
+- **Pikliz vert (with green vegetables only):** swap red bell pepper for green, and use only green cabbage and pale carrots; gives the pikliz a cooler colour palette, more refined-looking.
 
 ## Serving
-A spoonful or two on the side of any plate of Haitian food: griot, tasso, poulet créole, legume, rice and beans. The sharp pickled vegetables cut through the rich slow-cooked proteins and the carb-heavy starches. Pikliz on a fried-fish sandwich (poisson en sauce) is another classic. The brine is also a powerful marinade for chicken or fish; use the liquid after the vegetables are eaten.
+- A spoonful or two on the side of any plate of Haitian food: griot, tasso, poulet créole, legume, rice and beans. The sharp pickled vegetables cut through the rich slow-cooked proteins and the carb-heavy starches. Pikliz on a fried-fish sandwich (poisson en sauce) is another classic. The brine is also a powerful marinade for chicken or fish; use the liquid after the vegetables are eaten.
 
 ## Storage
 - Keeps 3-4 weeks refrigerated in a sealed jar.

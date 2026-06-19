@@ -67,7 +67,7 @@ Mukimo is the celebration mash of the central Kenyan highlands. Floury potatoes,
 - **Roast-onion top:** caramelise extra onions in butter and spoon them on top, a restaurant flourish.
 
 ## Serving
-A dome of warm mukimo · grilled goat or beef alongside · kachumbari to cut the starch · sometimes a fried egg on top for breakfast.
+- A dome of warm mukimo · grilled goat or beef alongside · kachumbari to cut the starch · sometimes a fried egg on top for breakfast.
 
 ## Storage
 - Refrigerate 3 days; the colour darkens as it sits.

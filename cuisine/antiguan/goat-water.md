@@ -62,7 +62,7 @@ Goat water is the celebration pot of the eastern Caribbean, claimed by Antigua a
 - **Spiced version:** Add a stick of cinnamon and 2 cardamom pods for a more Indian-Caribbean profile.
 
 ## Serving
-Serve in deep bowls · with crusty bread or hard-dough bread · cold ginger beer or rum punch · hot pepper sauce alongside.
+- Serve in deep bowls · with crusty bread or hard-dough bread · cold ginger beer or rum punch · hot pepper sauce alongside.
 
 ## Storage
 - Keeps 4 days refrigerated, improves daily

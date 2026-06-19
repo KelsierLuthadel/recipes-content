@@ -101,13 +101,13 @@ Caldillo de congrio is one of Chile's most iconic fish soups, famously immortali
 - **Marraqueta for sopping:** the broth is the best bit.
 
 ## Variations
-**With clams (caldillo de almejas):** add 500 g of clams to the broth in the last 5 minutes; gives a more Mediterranean-leaning version.
-**With shrimp:** add 200 g of shrimp in the last 3 minutes; more substantial.
-**Cazuela-style (with corn and potato):** add corn on the cob and double the potato; gives a heartier Chilean-cazuela hybrid.
-**Spicier:** add 1 chopped fresh chilli to the base; common southern Chilean variation.
+- **With clams (caldillo de almejas):** add 500 g of clams to the broth in the last 5 minutes; gives a more Mediterranean-leaning version.
+- **With shrimp:** add 200 g of shrimp in the last 3 minutes; more substantial.
+- **Cazuela-style (with corn and potato):** add corn on the cob and double the potato; gives a heartier Chilean-cazuela hybrid.
+- **Spicier:** add 1 chopped fresh chilli to the base; common southern Chilean variation.
 
 ## Serving
-In deep bowls. Marraqueta or crusty bread for sopping. Glass of cold Chilean sauvignon blanc (the traditional wine pairing, Neruda himself drank Chilean white wine with this soup). Pebre and lemon on the table.
+- In deep bowls. Marraqueta or crusty bread for sopping. Glass of cold Chilean sauvignon blanc (the traditional wine pairing, Neruda himself drank Chilean white wine with this soup). Pebre and lemon on the table.
 
 ## Storage
 - Best eaten fresh; the fish doesn't reheat well.

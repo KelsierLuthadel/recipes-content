@@ -67,12 +67,12 @@ A pizza for the height of summer, when basil is everywhere and the tomatoes are 
 - **One pizza at a time:** Returning the stone to the oven between bakes is what keeps each base crisp.
 
 ## Variations
-**Stone-fruit:** Replace half the tomatoes with sliced peaches or nectarines for a late-summer version.
-**Anchovy and caper:** Drop the burrata and pesto; top with anchovies, capers and a drizzle of chilli oil after baking.
+- **Stone-fruit:** Replace half the tomatoes with sliced peaches or nectarines for a late-summer version.
+- **Anchovy and caper:** Drop the burrata and pesto; top with anchovies, capers and a drizzle of chilli oil after baking.
 
 ## Serving
-Serve with: A glass of cold rosé and a dressed leaf salad
-Garnish with: A grind of black pepper and an extra drizzle of pesto
+- Serve with: A glass of cold rosé and a dressed leaf salad
+- Garnish with: A grind of black pepper and an extra drizzle of pesto
 
 ## Storage
 - Best eaten immediately; the burrata and pesto don't survive reheating

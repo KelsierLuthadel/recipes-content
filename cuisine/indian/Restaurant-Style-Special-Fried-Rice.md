@@ -83,9 +83,9 @@ The mix is forgiving: leftover [Pre-Cooked Chicken](Base/pre-cooked-chicken.md),
 ---
 
 ## Serving
-Pair with any BIR curry, it's the natural partner to [Restaurant-Style Chicken Jalfrezi](Restaurant-Style-Chicken-Jalfrezi.md), [Restaurant-Style Madras](Restaurant-Style-Madras.md), or [Restaurant-Style Vindaloo](Restaurant-Style-Vindaloo.md). Also good on its own with raita and lime pickle.
+- Pair with any BIR curry, it's the natural partner to [Restaurant-Style Chicken Jalfrezi](Restaurant-Style-Chicken-Jalfrezi.md), [Restaurant-Style Madras](Restaurant-Style-Madras.md), or [Restaurant-Style Vindaloo](Restaurant-Style-Vindaloo.md). Also good on its own with raita and lime pickle.
 
----
+- ---
 
 ## Storage
 Eat fresh out of the pan if possible. Leftovers keep 2 days in the fridge in a sealed container; reheat in a hot wok with a splash of water rather than the microwave to revive the texture.

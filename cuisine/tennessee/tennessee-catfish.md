@@ -78,13 +78,13 @@ Tennessee cornmeal-crusted catfish is Tennessee's freshwater fish staple; the ca
 - **Eat immediately:** crust softens.
 
 ## Variations
-**Whole catfish:** scaled and gutted; pan-fried whole.
-**Spicier:** double cayenne; add Cajun seasoning.
-**Blackened (not coated):** rub with blackening spice; sear in dry hot cast iron.
-**With remoulade:** instead of tartar.
+- **Whole catfish:** scaled and gutted; pan-fried whole.
+- **Spicier:** double cayenne; add Cajun seasoning.
+- **Blackened (not coated):** rub with blackening spice; sear in dry hot cast iron.
+- **With remoulade:** instead of tartar.
 
 ## Serving
-Friday fish fries, lakeside meals.
+- Friday fish fries, lakeside meals.
 
 ## Storage
 - Best immediately.

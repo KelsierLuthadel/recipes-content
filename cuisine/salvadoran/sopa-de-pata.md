@@ -77,7 +77,7 @@ Sopa de pata is the Salvadoran weekend big-pot soup, made in a quantity that fee
 - **Costeña style:** add a handful of coriander leaves at the table.
 
 ## Serving
-Sunday lunch · with warm tortillas torn and dropped in the bowl · with sliced avocado · with a glass of agua de jamaica · as a Saturday-morning recovery soup · in deep clay bowls.
+- Sunday lunch · with warm tortillas torn and dropped in the bowl · with sliced avocado · with a glass of agua de jamaica · as a Saturday-morning recovery soup · in deep clay bowls.
 
 ## Storage
 - Keeps 4 days refrigerated; the broth sets to jelly when cold and warms back to liquid.

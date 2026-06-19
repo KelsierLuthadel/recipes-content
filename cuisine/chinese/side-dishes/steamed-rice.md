@@ -76,17 +76,17 @@ Steamed rice is the test of patience and the foundation under almost every dish 
 - **Rest Period Important:** The final 2-3 minute rest allows residual heat to finish cooking without direct flame.
 
 ## Variations
-**Jasmine Rice:** Substitute jasmine rice (fragrant, subtly sweet); requires same cooking time and water ratio.
-**Basmati Rice:** Substitute basmati (long grain, aromatic); cooking time may reduce slightly (watch for crater pattern to appear earlier).
-**Coconut Liquid:** Replace 200ml water with 200ml coconut milk for subtle fragrance (maintain 900ml total liquid).
-**Chicken Stock:** Replace water entirely with chicken or vegetable stock for deeper flavor (if using already-salted stock, reduce added salt elsewhere).
-**Infused Aromatics:** Add 2-3 bruised cardamom pods, 1 bay leaf, or 1-inch fresh ginger slice at the start of cooking (remove before serving).
+- **Jasmine Rice:** Substitute jasmine rice (fragrant, subtly sweet); requires same cooking time and water ratio.
+- **Basmati Rice:** Substitute basmati (long grain, aromatic); cooking time may reduce slightly (watch for crater pattern to appear earlier).
+- **Coconut Liquid:** Replace 200ml water with 200ml coconut milk for subtle fragrance (maintain 900ml total liquid).
+- **Chicken Stock:** Replace water entirely with chicken or vegetable stock for deeper flavor (if using already-salted stock, reduce added salt elsewhere).
+- **Infused Aromatics:** Add 2-3 bruised cardamom pods, 1 bay leaf, or 1-inch fresh ginger slice at the start of cooking (remove before serving).
 
 ## Serving
-Use with: Any Asian-inspired cuisine (Thai, Vietnamese, Chinese, Indian), spicy curries, stir-fries, broiled or grilled proteins, vegetable preparations
-Temperature: Hot or warm
-Ratio: 1 cup cooked rice per person (or 150ml uncooked rice per person)
-Context: Neutral starch base, everyday cooking, meals where rice complements rather than dominates
+- Use with: Any Asian-inspired cuisine (Thai, Vietnamese, Chinese, Indian), spicy curries, stir-fries, broiled or grilled proteins, vegetable preparations
+- Temperature: Hot or warm
+- Ratio: 1 cup cooked rice per person (or 150ml uncooked rice per person)
+- Context: Neutral starch base, everyday cooking, meals where rice complements rather than dominates
 
 ## Storage
 - Refrigerate cooked rice in a sealed container for up to 4 days.

@@ -90,13 +90,13 @@ The bánh mì hot dog is Vietnam's hot-dog interpretation of the iconic bánh m�
 - **Maggi sauce essential:** the Vietnamese seasoning signature; soy sauce isn't a direct sub but works.
 
 ## Variations
-**With Vietnamese sausage (giò lụa):** swap the hot dog for slices of giò lụa (Vietnamese pork sausage).
-**Spicier:** double sriracha + extra fresh chillies.
-**With grilled lemongrass pork:** swap the sausage for lemongrass-marinated grilled pork (bánh mì thịt nướng style).
-**Vegetarian:** swap pâté for mushroom pâté; sausage for marinated grilled tofu.
+- **With Vietnamese sausage (giò lụa):** swap the hot dog for slices of giò lụa (Vietnamese pork sausage).
+- **Spicier:** double sriracha + extra fresh chillies.
+- **With grilled lemongrass pork:** swap the sausage for lemongrass-marinated grilled pork (bánh mì thịt nướng style).
+- **Vegetarian:** swap pâté for mushroom pâté; sausage for marinated grilled tofu.
 
 ## Serving
-At a Saigon street cart in the morning; at a Vietnamese sandwich shop in the West (Lee's Sandwiches, Ba Le, etc.); at home with iced coffee or beer.
+- At a Saigon street cart in the morning; at a Vietnamese sandwich shop in the West (Lee's Sandwiches, Ba Le, etc.); at home with iced coffee or beer.
 
 ## Storage
 - Pickled daikon-carrot keeps refrigerated 2 weeks.

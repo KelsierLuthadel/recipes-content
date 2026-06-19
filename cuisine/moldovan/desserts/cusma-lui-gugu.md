@@ -105,7 +105,7 @@ Cușma lui Guguță is the celebration cake of Soviet-era Moldovan childhood, na
 - **Without chocolate coating:** the older Soviet-era version stopped at the white cream.
 
 ## Serving
-At the centre of a birthday or name-day table, sliced from the top down. A glass of red sour-cherry vișinata on the side. With strong black coffee.
+- At the centre of a birthday or name-day table, sliced from the top down. A glass of red sour-cherry vișinata on the side. With strong black coffee.
 
 ## Storage
 - Refrigerate covered up to 4 days; the cherries continue to weep into the pancakes (a good thing).

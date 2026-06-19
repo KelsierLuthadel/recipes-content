@@ -80,13 +80,13 @@ Gâteau piment (literally "chilli cake" in Mauritian French) is the iconic stree
 - **Test one fritter first:** before frying the whole batch, fry just one and check the texture and seasoning. Adjust salt or chilli before the next batch.
 
 ## Variations
-**Curry-leaf-forward version:** double the curry leaves; gives a more aromatic fritter that's properly south-Indian-Mauritian. Particularly good with chai.
-**With dried shrimp:** add 1 tablespoon of finely chopped dried shrimp to the dough; gives an umami depth common in coastal Mauritian variants.
-**Spicier:** double the chillies and add ½ teaspoon of red chilli powder; gives the properly fierce version that some Mauritian street stalls make.
-**Lentil-and-chickpea version:** use a 50/50 mix of split yellow peas and red split lentils; gives a slightly softer fritter with a different colour.
+- **Curry-leaf-forward version:** double the curry leaves; gives a more aromatic fritter that's properly south-Indian-Mauritian. Particularly good with chai.
+- **With dried shrimp:** add 1 tablespoon of finely chopped dried shrimp to the dough; gives an umami depth common in coastal Mauritian variants.
+- **Spicier:** double the chillies and add ½ teaspoon of red chilli powder; gives the properly fierce version that some Mauritian street stalls make.
+- **Lentil-and-chickpea version:** use a 50/50 mix of split yellow peas and red split lentils; gives a slightly softer fritter with a different colour.
 
 ## Serving
-With chilli sauce or coriander chutney for dipping. Or stuffed into a fresh baguette with chutney as pain gâteau piment (the Mauritian breakfast sandwich). With a cup of strong milky chai or sweet milky coffee. As an appetiser before a Mauritian curry meal, or as snack food alongside rougaille and rice.
+- With chilli sauce or coriander chutney for dipping. Or stuffed into a fresh baguette with chutney as pain gâteau piment (the Mauritian breakfast sandwich). With a cup of strong milky chai or sweet milky coffee. As an appetiser before a Mauritian curry meal, or as snack food alongside rougaille and rice.
 
 ## Storage
 - Best eaten immediately while hot and crisp; they go off-texture as they cool.

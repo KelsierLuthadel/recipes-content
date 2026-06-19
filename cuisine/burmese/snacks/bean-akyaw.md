@@ -71,12 +71,12 @@ The Burmese yellow split-pea fritter, sold by street vendors in hot oil-spattere
 - **Tamarind paste:** Concentrated dark paste from Asian grocers. If you only have block tamarind, soak 30 g in 50 ml hot water for 10 minutes and strain.
 
 ## Variations
-**Onion akyaw:** Replace half the split peas with thinly sliced onion and add 2 tablespoons rice flour to bind. A different texture: lacier, crisper, more pakora-like.
-**Spicier version:** Add a teaspoon of chilli powder to the batter and a pinch more to the dipping sauce.
+- **Onion akyaw:** Replace half the split peas with thinly sliced onion and add 2 tablespoons rice flour to bind. A different texture: lacier, crisper, more pakora-like.
+- **Spicier version:** Add a teaspoon of chilli powder to the batter and a pinch more to the dipping sauce.
 
 ## Serving
-Serve with: a pot of strong milk tea (lahpet yay), or alongside Burmese coconut noodle soup (ohn no khao swe) as a crunchy side.
-Garnish with: extra coriander leaves and a wedge of lime.
+- Serve with: a pot of strong milk tea (lahpet yay), or alongside Burmese coconut noodle soup (ohn no khao swe) as a crunchy side.
+- Garnish with: extra coriander leaves and a wedge of lime.
 
 ## Storage
 - Best eaten within an hour of frying. The crisp surface softens fast.

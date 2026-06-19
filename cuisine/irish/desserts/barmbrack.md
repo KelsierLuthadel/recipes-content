@@ -102,13 +102,13 @@ Barmbrack (báirín breac in Irish, "speckled loaf") is Ireland's most iconic sw
 - **Best the next day:** like many fruit-spice cakes, barmbrack tastes better after it has settled overnight. The flavours deepen and the texture improves.
 
 ## Variations
-**Tea brack (no-yeast version):** swap the yeast for 4 teaspoons of baking powder; mix as a quick bread (no proving needed). Bake the same way. Easier and quicker; the flavour is similar but slightly different texture.
-**Whiskey barmbrack:** add 50 ml of Irish whiskey to the fruit soak alongside the tea; gives a more festive Christmas-tea version.
-**Citrus barmbrack:** add the zest of 1 orange and 1 lemon to the dough; brightens the flavour. Common modern Irish variation.
-**Without candied peel:** for those who don't like mixed peel, simply skip it; the dough still works.
+- **Tea brack (no-yeast version):** swap the yeast for 4 teaspoons of baking powder; mix as a quick bread (no proving needed). Bake the same way. Easier and quicker; the flavour is similar but slightly different texture.
+- **Whiskey barmbrack:** add 50 ml of Irish whiskey to the fruit soak alongside the tea; gives a more festive Christmas-tea version.
+- **Citrus barmbrack:** add the zest of 1 orange and 1 lemon to the dough; brightens the flavour. Common modern Irish variation.
+- **Without candied peel:** for those who don't like mixed peel, simply skip it; the dough still works.
 
 ## Serving
-Thickly sliced and buttered with strong tea. At Halloween (October 31st) with the ring tradition. At afternoon tea any time of year. With Irish breakfast or after a Sunday meal. A small glass of Irish whiskey alongside is the autumn tradition.
+- Thickly sliced and buttered with strong tea. At Halloween (October 31st) with the ring tradition. At afternoon tea any time of year. With Irish breakfast or after a Sunday meal. A small glass of Irish whiskey alongside is the autumn tradition.
 
 ## Storage
 - Keeps in a sealed container at room temperature 1 week; the flavour improves over the first 2-3 days.

@@ -80,7 +80,7 @@ A British coastal soup that leans Mediterranean in spirit, the kind of thing a C
 - **Timing:** Don't overcook seafood; it should be just done.
 
 ## Serving
-Serve hot with crusty bread to soak up the broth.
+- Serve hot with crusty bread to soak up the broth.
 
 ## Storage
 - Refrigerate up to 1 day; seafood doesn't reheat well.

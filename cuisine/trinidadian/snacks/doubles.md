@@ -131,13 +131,13 @@ Doubles is the iconic Trinidadian breakfast and one of the most popular street f
 - **Make the channa the day before:** the spices develop and the chickpeas absorb more flavour overnight. Doubles is often made by the cart vendor the day before and served fresh in the morning.
 
 ## Variations
-**Aloo doubles:** swap the chickpea filling for spiced curried potato; common Trini variation.
-**Beans doubles:** swap chickpeas for cooked red kidney beans (Trinidad-style); slightly different flavour.
-**Cucumber and lettuce doubles:** add a few thin cucumber slices and shredded lettuce inside; some street vendors do this.
-**Curried channa-and-aloo:** mix half chickpeas and half cubed potato in the channa; common in northern Trinidad.
+- **Aloo doubles:** swap the chickpea filling for spiced curried potato; common Trini variation.
+- **Beans doubles:** swap chickpeas for cooked red kidney beans (Trinidad-style); slightly different flavour.
+- **Cucumber and lettuce doubles:** add a few thin cucumber slices and shredded lettuce inside; some street vendors do this.
+- **Curried channa-and-aloo:** mix half chickpeas and half cubed potato in the channa; common in northern Trinidad.
 
 ## Serving
-Wrapped in greaseproof paper, eaten from the hand. 2 per person for breakfast; 1 per person as a snack. Drink: cold mauby (a Trinidadian bittersweet bark drink); Sorrel (hibiscus drink); or strong sweet black tea.
+- Wrapped in greaseproof paper, eaten from the hand. 2 per person for breakfast; 1 per person as a snack. Drink: cold mauby (a Trinidadian bittersweet bark drink); Sorrel (hibiscus drink); or strong sweet black tea.
 
 ## Storage
 - The channa keeps refrigerated 5 days; the flavour deepens noticeably overnight. Freezes 3 months.

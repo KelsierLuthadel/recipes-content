@@ -112,13 +112,13 @@ Carne guisada (literally "stewed beef") is Puerto Rico's beef-stew equivalent of
 - **Olives and capers add Boricua character:** don't skip; they're as important as the sofrito.
 
 ## Variations
-**With chickpeas (carne con garbanzos):** add 1 tin of drained chickpeas in the last 30 minutes; gives a more substantial one-pot.
-**With wine:** swap 200 ml of stock for red wine; less traditional but adds depth.
-**Spicier:** double the Aleppo pepper and add 1 habanero (whole, removed before serving); properly Caribbean fierce.
-**With chayote (christophine):** add 2 chayote squash (cubed) along with the carrots; common PR variation when in season.
+- **With chickpeas (carne con garbanzos):** add 1 tin of drained chickpeas in the last 30 minutes; gives a more substantial one-pot.
+- **With wine:** swap 200 ml of stock for red wine; less traditional but adds depth.
+- **Spicier:** double the Aleppo pepper and add 1 habanero (whole, removed before serving); properly Caribbean fierce.
+- **With chayote (christophine):** add 2 chayote squash (cubed) along with the carrots; common PR variation when in season.
 
 ## Serving
-On wide plates over white rice with the sauce ladled generously, habichuelas alongside, tostones for mopping. Drink: Medalla beer, fresh agua de tamarindo, mauby.
+- On wide plates over white rice with the sauce ladled generously, habichuelas alongside, tostones for mopping. Drink: Medalla beer, fresh agua de tamarindo, mauby.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

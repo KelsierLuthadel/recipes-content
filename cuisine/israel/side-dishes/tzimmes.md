@@ -49,7 +49,7 @@ Carrots, sweet potatoes and prunes are layered in a baking dish with butter or o
 - The dish reheats well; cover with foil and warm in a 160°C oven for 20 minutes with a splash of water.
 
 ## Serving
-Alongside brisket, roast chicken or roast lamb on the Rosh Hashanah table. The orange-spiced sweetness sits well against a slow-cooked, oniony main.
+- Alongside brisket, roast chicken or roast lamb on the Rosh Hashanah table. The orange-spiced sweetness sits well against a slow-cooked, oniony main.
 
 ## Storage
 In a covered container in the fridge for up to 4 days. Reheats well; can be made a day ahead.

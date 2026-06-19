@@ -59,7 +59,7 @@ Palusami is the everyday parcel dish of Fiji and the wider South Pacific: tender
 - **Vegan everyday:** pure coconut cream, onion, salt and lime; the plainest and best version.
 
 ## Serving
-Serve hot, one parcel per person, opened at the table · with steamed cassava or dalo · with rice for an Indo-Fijian table · alongside grilled fish · as part of a lovo feast · with a fresh chilli on the side.
+- Serve hot, one parcel per person, opened at the table · with steamed cassava or dalo · with rice for an Indo-Fijian table · alongside grilled fish · as part of a lovo feast · with a fresh chilli on the side.
 
 ## Storage
 - Refrigerate 3 days in the wrapping; the flavour deepens overnight.

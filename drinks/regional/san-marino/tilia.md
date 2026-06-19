@@ -42,7 +42,7 @@ The lime tree (Tilia cordata, "tiglio" in Italian) blooms in late May and early 
 - **No milk.** Lime-flower tea is always taken clear; milk muddies the perfume.
 
 ## Serving
-After dinner in a quiet kitchen, in a clear glass mug to see the colour. A small biscuit on the saucer if you must.
+- After dinner in a quiet kitchen, in a clear glass mug to see the colour. A small biscuit on the saucer if you must.
 
 ## Storage
 - Dried lime flowers keep 12 months in an airtight jar away from light.

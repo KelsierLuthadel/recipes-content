@@ -70,14 +70,14 @@ Nam wan (literally "sweet liquid") is a family of Lao mixed-fruit desserts serve
 - **Pandan leaf:** the traditional Southeast Asian aromatic. Dried extract is the workable substitute.
 
 ## Variations
-**Nam wan with tapioca pearls:** add 4 tablespoons of cooked small tapioca pearls, the Thai-influenced variant.
-**Iced nam wan (chilled):** chill the coconut syrup; serve cold with ice; the cool summer variant.
-**Hot nam wan:** skip the ice; serve the syrup warm over the fruit; the winter variant.
-**Nam wan with sticky rice cake:** add small cubes of cooked sticky rice cake to each bowl.
-**Vegan nam wan:** the recipe is already vegan.
+- **Nam wan with tapioca pearls:** add 4 tablespoons of cooked small tapioca pearls, the Thai-influenced variant.
+- **Iced nam wan (chilled):** chill the coconut syrup; serve cold with ice; the cool summer variant.
+- **Hot nam wan:** skip the ice; serve the syrup warm over the fruit; the winter variant.
+- **Nam wan with sticky rice cake:** add small cubes of cooked sticky rice cake to each bowl.
+- **Vegan nam wan:** the recipe is already vegan.
 
 ## Serving
-At a Lao market stall (the traditional setting; sold from carts at midday in hot months) · at a Lao Pi Mai (New Year, April) celebration · at home as the traditional Lao summer dessert · paired with strong Lao coffee.
+- At a Lao market stall (the traditional setting; sold from carts at midday in hot months) · at a Lao Pi Mai (New Year, April) celebration · at home as the traditional Lao summer dessert · paired with strong Lao coffee.
 
 ## Storage
 - The coconut syrup keeps refrigerated 5 days; warm gently to serve.

@@ -88,7 +88,7 @@ Smažený sýr - fried cheese - is the Czech pub-food classic that turns a thick
 - **Right oil temperature:** Too cold and the breading absorbs oil and goes soggy; too hot and the crust burns before the cheese has melted. 180°C is the target.
 
 ## Serving
-The classic Czech pub dinner. A glass of Pilsner Urquell, a small jug of tartare sauce, a side of potato salad. Late-night Prague: the post-pub fried-cheese roll (smažák v housce - the fried cheese in a bread roll) is the equivalent of the British kebab.
+- The classic Czech pub dinner. A glass of Pilsner Urquell, a small jug of tartare sauce, a side of potato salad. Late-night Prague: the post-pub fried-cheese roll (smažák v housce - the fried cheese in a bread roll) is the equivalent of the British kebab.
 
 ## Storage
 - Best fresh and crisp from the fryer.

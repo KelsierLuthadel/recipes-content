@@ -93,19 +93,19 @@ Massaman improves overnight. Make the day before, cool, refrigerate. Reheat gent
 ## Variations
 
 ### Massaman Lamb
-The original Persian-Muslim recipe was probably lamb. Use boneless leg of lamb or shoulder, cubed. Same method as beef.
+- The original Persian-Muslim recipe was probably lamb. Use boneless leg of lamb or shoulder, cubed. Same method as beef.
 
 ### Massaman Chicken (the Quick Version)
-Boneless chicken thigh, cubed. Reduces cooking time to 35 minutes total (no slow-cook needed). Some say this isn't really massaman; it's still excellent.
+- Boneless chicken thigh, cubed. Reduces cooking time to 35 minutes total (no slow-cook needed). Some say this isn't really massaman; it's still excellent.
 
 ### Pumpkin Massaman (Vegetarian)
-Replace meat with chunks of butternut squash or kabocha pumpkin. Add 200 g firm tofu (cubed, pan-fried first). 30 minutes total cook.
+- Replace meat with chunks of butternut squash or kabocha pumpkin. Add 200 g firm tofu (cubed, pan-fried first). 30 minutes total cook.
 
 ## Serving
 
-Massaman beef is one of the great Thai dishes. Serve over jasmine rice, with a wedge of lime, and maybe a side of [Thai cucumber salad](../../cuisine/thai/side-dishes/) to cut the richness.
+- Massaman beef is one of the great Thai dishes. Serve over jasmine rice, with a wedge of lime, and maybe a side of [Thai cucumber salad](../../cuisine/thai/side-dishes/) to cut the richness.
 
-A spoonful of [chilli crisp](../../cuisine/chinese/snacks/chilli-crisp.md) on top adds a bit of heat to the otherwise mild curry.
+- A spoonful of [chilli crisp](../../cuisine/chinese/snacks/chilli-crisp.md) on top adds a bit of heat to the otherwise mild curry.
 
 ## Common Mistakes
 

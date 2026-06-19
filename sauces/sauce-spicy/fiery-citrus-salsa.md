@@ -56,7 +56,7 @@ Fiery citrus salsa is the building block for a bright unusual fruit-and-chilli s
 - **Immediate service:** Flavours brighten when freshly made; does not keep well.
 
 ## Serving
-Serve as a marinade for shellfish (scallops, prawns) or drizzle over barbecue-cooked meat. Also excellent as condiment for carnitas tacos or grilled fish.
+- Serve as a marinade for shellfish (scallops, prawns) or drizzle over barbecue-cooked meat. Also excellent as condiment for carnitas tacos or grilled fish.
 
 ## Storage
 - Keeps refrigerated for 1 day in an airtight container.

@@ -88,7 +88,7 @@ Czech goulash (hovězí guláš) is distinct from its Hungarian cousin: the Hung
 - **Czech, not Hungarian:** This stew is thick and gravy-like, not soupy. The Hungarian version uses water and stays loose; the Czech version uses less liquid and thickens to coat.
 
 ## Serving
-The pub lunch of the Czech Republic. Served with bread dumplings, sliced raw onion, a glass of Pilsner Urquell, and a chunk of dark rye bread on the side.
+- The pub lunch of the Czech Republic. Served with bread dumplings, sliced raw onion, a glass of Pilsner Urquell, and a chunk of dark rye bread on the side.
 
 ## Storage
 - Refrigerates 5 days; the flavour deepens overnight.

@@ -58,14 +58,14 @@ Agua dulce ("sweet water") is the Costa Rican country breakfast in a mug. A chun
 - **Pre-coffee breakfast:** even in coffee country, the morning often starts with agua dulce, then coffee at 9am.
 
 ## Variations
-**Black agua dulce (sin leche):** drop the milk entirely; this is the Lent / fasting version.
-**Agua dulce con chocolate:** grate 30 g dark chocolate into the hot sugar water for the children's cup.
-**Agua dulce con queso:** the highland farmer's version: drop a small cube of fresh white cheese into the mug and let it soften.
-**Cold agua dulce:** dissolve the tapa dulce in hot water as above, then pour over ice with a squeeze of lime; the Liberia-region summer version.
-**With aguardiente:** add 30 ml Guaro Cacique (Costa Rica's cane spirit) for an evening warmer.
+- **Black agua dulce (sin leche):** drop the milk entirely; this is the Lent / fasting version.
+- **Agua dulce con chocolate:** grate 30 g dark chocolate into the hot sugar water for the children's cup.
+- **Agua dulce con queso:** the highland farmer's version: drop a small cube of fresh white cheese into the mug and let it soften.
+- **Cold agua dulce:** dissolve the tapa dulce in hot water as above, then pour over ice with a squeeze of lime; the Liberia-region summer version.
+- **With aguardiente:** add 30 ml Guaro Cacique (Costa Rica's cane spirit) for an evening warmer.
 
 ## Serving
-At a Costa Rican mountain-village breakfast (the traditional setting) · with frijoles and tortilla at 5am · for a sick day (the country's "feel better" drink) · after a rainy hike in the Monteverde cloud forest · as a children's bedtime drink · at a Costa Rican farmstay with a slice of pan casero.
+- At a Costa Rican mountain-village breakfast (the traditional setting) · with frijoles and tortilla at 5am · for a sick day (the country's "feel better" drink) · after a rainy hike in the Monteverde cloud forest · as a children's bedtime drink · at a Costa Rican farmstay with a slice of pan casero.
 
 ## Storage
 - Drink fresh; agua dulce doesn't keep.

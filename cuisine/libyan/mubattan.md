@@ -74,7 +74,7 @@ Mubattan turns up at the Friday family lunch and the iftar table during Ramadan.
 - **Sauce-to-potato ratio:** The sauce should come about halfway up the parcels, not submerge them. Too much liquid and the egg coat dissolves; too little and the potato stays underdone.
 
 ## Serving
-Serve hot from the pan with crusty bread, a wedge of lemon and a small bowl of harissa. A side of Libyan tomato-cucumber salad cuts the richness.
+- Serve hot from the pan with crusty bread, a wedge of lemon and a small bowl of harissa. A side of Libyan tomato-cucumber salad cuts the richness.
 
 ## Storage
 - Refrigerate 2 days; reheat gently in the sauce, covered, on low.

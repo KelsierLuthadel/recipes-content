@@ -93,7 +93,7 @@ Fish and chips is the New Zealand summer holiday meal, ordered from a small take
 - **Right oil temperature:** A kitchen thermometer is the only reliable way. Too cold and batter absorbs oil and gets greasy; too hot and the outside burns before the inside cooks.
 
 ## Serving
-The beach picnic plate: fish and chips on greaseproof paper, lemon wedge, malt vinegar, salt. A glass of Kiwi pale ale or cold sparkling water. Eat with your fingers.
+- The beach picnic plate: fish and chips on greaseproof paper, lemon wedge, malt vinegar, salt. A glass of Kiwi pale ale or cold sparkling water. Eat with your fingers.
 
 ## Storage
 - Best fresh and crispy. Soggy leftover fish and chips are a disappointment.

@@ -57,7 +57,7 @@ Profiteroles are the dessert every French restaurant has on the menu and every v
 - Fill the buns only as you serve to prevent sogginess; the sauce will soften the pastry if sitting too long
 
 ## Serving
-Arrange the filled profiteroles in shallow bowls or pedestal dishes, pour warm chocolate sauce over generously, and serve additional sauce in a sauceboat. Serve immediately while the pastry is still crisp and the ice cream cold. The contrast between temperatures creates the essential appeal.
+- Arrange the filled profiteroles in shallow bowls or pedestal dishes, pour warm chocolate sauce over generously, and serve additional sauce in a sauceboat. Serve immediately while the pastry is still crisp and the ice cream cold. The contrast between temperatures creates the essential appeal.
 
 ## Storage
 Baked choux buns keep for 1-2 days in an airtight container at room temperature. The chocolate sauce can be made several hours ahead and reheated gently before serving. Vanilla ice cream should be freshly made or from the freezer. Fill the buns only when ready to serve to prevent softening. Do not refrigerate filled profiteroles as the cold will harden the pastry.

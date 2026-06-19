@@ -55,7 +55,7 @@ Cocoa tea is the original chocolate drink - cocoa beans roasted, ground and roll
 - **Condensed milk:** The Saint Lucian local preference. A tablespoon in the mug adds creaminess and a malty sweetness. Optional.
 
 ## Serving
-Serve very hot in mugs, ideally with green-fig-and-saltfish at breakfast or with cassava pone in the afternoon. The drink is rich; a small mug (200 ml) is enough.
+- Serve very hot in mugs, ideally with green-fig-and-saltfish at breakfast or with cassava pone in the afternoon. The drink is rich; a small mug (200 ml) is enough.
 
 ## Storage
 - Drink the same day. Cooled cocoa tea can be refrigerated 24 hours; reheat gently without boiling.

@@ -99,15 +99,15 @@ Tipsy laird ("laird" is the Scots word for a landowner; the name implies the lor
 - **Glass bowl matters:** the layers are visible; the visual is part of the dish.
 
 ## Variations
-**Marsala-and-Madeira variant:** swap the Drambuie for Marsala or Madeira, closer to an English trifle but still tipsy.
-**Cranachan-tipsy laird hybrid:** stir 60 g toasted pinhead oatmeal into the cream layer, combines the country's two iconic desserts.
-**Atholl-Brose tipsy laird:** swap the Drambuie for Atholl Brose (whisky-oat-honey infusion): even more deeply Scottish.
-**Mixed-berry version:** use a mix of raspberries, blackberries, redcurrants instead of all raspberries.
-**Whisky-coffee variant:** add 2 tablespoons strong espresso to the sponge soak, gives a tiramisu edge.
-**Mini tipsy lairds (individual glasses):** assemble in 8 small individual glasses for a dinner-party presentation, same recipe, smaller portions.
+- **Marsala-and-Madeira variant:** swap the Drambuie for Marsala or Madeira, closer to an English trifle but still tipsy.
+- **Cranachan-tipsy laird hybrid:** stir 60 g toasted pinhead oatmeal into the cream layer, combines the country's two iconic desserts.
+- **Atholl-Brose tipsy laird:** swap the Drambuie for Atholl Brose (whisky-oat-honey infusion): even more deeply Scottish.
+- **Mixed-berry version:** use a mix of raspberries, blackberries, redcurrants instead of all raspberries.
+- **Whisky-coffee variant:** add 2 tablespoons strong espresso to the sponge soak, gives a tiramisu edge.
+- **Mini tipsy lairds (individual glasses):** assemble in 8 small individual glasses for a dinner-party presentation, same recipe, smaller portions.
 
 ## Serving
-At Burns Night supper as the dessert (the traditional setting alongside or instead of cranachan) · at Hogmanay buffet as the centrepiece · at a Highland Christmas Day pudding alternative · at a Saint Andrew's Day supper · at a Scottish family Sunday lunch for special occasions · at a Scottish wedding reception dessert table.
+- At Burns Night supper as the dessert (the traditional setting alongside or instead of cranachan) · at Hogmanay buffet as the centrepiece · at a Highland Christmas Day pudding alternative · at a Saint Andrew's Day supper · at a Scottish family Sunday lunch for special occasions · at a Scottish wedding reception dessert table.
 
 ## Storage
 - Refrigerates 2 days; the sponge becomes increasingly tipsy and softer over time.

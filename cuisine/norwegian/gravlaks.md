@@ -93,7 +93,7 @@ Gravlaks - "grave salmon" - is the Norwegian and Scandinavian preparation that t
 - **Slice thin against the grain:** A long, thin, very sharp knife is the right tool. Thick slabs of gravlaks are inelegant and chewy.
 
 ## Serving
-Serve as a starter at any Norwegian celebration meal, or as a buffet centrepiece. The Norwegian protocol: take a slice on a buttered piece of rye bread, add a small dollop of mustard-dill sauce, a sprig of dill. A cold shot of aquavit alongside. A glass of dry Riesling or champagne for the wine-drinker.
+- Serve as a starter at any Norwegian celebration meal, or as a buffet centrepiece. The Norwegian protocol: take a slice on a buttered piece of rye bread, add a small dollop of mustard-dill sauce, a sprig of dill. A cold shot of aquavit alongside. A glass of dry Riesling or champagne for the wine-drinker.
 
 ## Storage
 - Refrigerates in cling film 1 week.

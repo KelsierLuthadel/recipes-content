@@ -85,7 +85,7 @@ Rechta is one of the great dishes of Algiers, traditionally served on the night 
 - **Couscoussier or no.** A perforated steamer over a pot of simmering broth works; just keep the lid off so the noodles do not turn gluey.
 
 ## Serving
-Eat from a wide warm dish, with extra broth on the side. A small wedge of preserved lemon or a piece of fresh bread is welcome. Mint tea afterwards. Properly served on Mawlid eve or at a wedding, but no rule forbids cooking it on a Sunday.
+- Eat from a wide warm dish, with extra broth on the side. A small wedge of preserved lemon or a piece of fresh bread is welcome. Mint tea afterwards. Properly served on Mawlid eve or at a wedding, but no rule forbids cooking it on a Sunday.
 
 ## Storage
 - Best eaten the day it is made; the noodles soften in storage

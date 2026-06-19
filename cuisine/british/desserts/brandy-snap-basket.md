@@ -60,7 +60,7 @@ A dinner-party petit four built around the traditional British brandy snap: a la
 - The orange juice reduction folded into crème Chantilly provides tartness to balance the sweetness; do not skip this step
 
 ## Serving
-Assemble and fill the baskets immediately before serving, as they are fragile and will soften if filled too far ahead. Arrange on individual serving plates with raspberries and rhubarb artfully positioned. These are elegant petit fours or a delicate dessert course.
+- Assemble and fill the baskets immediately before serving, as they are fragile and will soften if filled too far ahead. Arrange on individual serving plates with raspberries and rhubarb artfully positioned. These are elegant petit fours or a delicate dessert course.
 
 ## Storage
 The baked, unshaped brandy snap rounds can be stored at room temperature in an airtight container for up to 3 days; if they become too brittle to shape, soften them briefly in a 180°C oven for 1-2 minutes. The un-filled baskets keep for 2-3 days covered. The rhubarb filling and crème Chantilly should be prepared the same day but no more than 2-3 hours ahead. Fill and assemble only when ready to serve.

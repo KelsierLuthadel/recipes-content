@@ -68,17 +68,17 @@ Fresh pasta dough is the foundation building block of Italian cooking, the silky
 - **Resting Before Cooking:** Fresh pasta cooks very quickly (2-4 minutes); if storing for later, dust lightly with semolina to prevent sticking.
 
 ## Variations
-**Spinach Pasta:** Purée 100g fresh spinach, squeeze dry, and reduce eggs to 2; add spinach to the well with eggs.
-**Herb Pasta:** Finely chop fresh herbs (basil, parsley) and fold into the dough after kneading.
-**Saffron Pasta:** Infuse a pinch of saffron threads in 1 tablespoon warm water; add to the egg well instead of using one egg.
-**Whole Wheat:** Replace 75g of 00 flour with whole wheat flour for nutty flavor and rustic appearance.
-**Beet Pasta:** Add 2 tablespoons beet purée to the eggs, omit one egg.
+- **Spinach Pasta:** Purée 100g fresh spinach, squeeze dry, and reduce eggs to 2; add spinach to the well with eggs.
+- **Herb Pasta:** Finely chop fresh herbs (basil, parsley) and fold into the dough after kneading.
+- **Saffron Pasta:** Infuse a pinch of saffron threads in 1 tablespoon warm water; add to the egg well instead of using one egg.
+- **Whole Wheat:** Replace 75g of 00 flour with whole wheat flour for nutty flavor and rustic appearance.
+- **Beet Pasta:** Add 2 tablespoons beet purée to the eggs, omit one egg.
 
 ## Serving
-Serve immediately after cooking (fresh pasta is best served within seconds of draining)
-Dress with: Butter and sage, olive oil and garlic, quick tomato sauce, creamy sauces, or pesto
-Amount: 350g dough serves 2-3 people
-Shape options: Cut into ribbons (fettuccine, pappardelle, tagliatelle), shapes for filling (ravioli, tortellini), or lasagne sheets
+- Serve immediately after cooking (fresh pasta is best served within seconds of draining)
+- Dress with: Butter and sage, olive oil and garlic, quick tomato sauce, creamy sauces, or pesto
+- Amount: 350g dough serves 2-3 people
+- Shape options: Cut into ribbons (fettuccine, pappardelle, tagliatelle), shapes for filling (ravioli, tortellini), or lasagne sheets
 
 ## Storage
 - Fresh, uncooked pasta: Store on a lightly floured tray at room temperature for up to 2 hours, or refrigerate covered for up to 1 day

@@ -86,7 +86,7 @@ Kofola is the Czech national soft drink - a cola-style fizzy beverage invented i
 - **Don't boil the caramel too dark:** Burnt caramel is bitter and unpleasant. Pull off the heat as soon as it hits deep mahogany; the residual heat keeps cooking it briefly.
 
 ## Serving
-The Czech alternative to global colas. Served in pubs on draught alongside beer; in restaurants in tall glasses with ice; from cans on summer hikes. As nostalgic for Czechs as Coca-Cola is for Americans.
+- The Czech alternative to global colas. Served in pubs on draught alongside beer; in restaurants in tall glasses with ice; from cans on summer hikes. As nostalgic for Czechs as Coca-Cola is for Americans.
 
 ## Storage
 - The kofola syrup refrigerates 3 months in a sealed bottle.

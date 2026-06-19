@@ -65,7 +65,7 @@ Kibbeh is the baked-tray version of the Levantine bulgur-and-meat dish, smooth b
 - A traditional layered tray-kibbeh (kibbeh bil saneeyeh) layers a meat-and-onion filling between two layers of the bulgur mixture; the single-layer version here is the everyday weeknight version.
 
 ## Serving
-Two diamonds on a plate with tahini, salad and warm pita. As a starter with a wedge of lemon to squeeze over. On a wide mezze platter alongside hummus, baba ganoush and olives.
+- Two diamonds on a plate with tahini, salad and warm pita. As a starter with a wedge of lemon to squeeze over. On a wide mezze platter alongside hummus, baba ganoush and olives.
 
 ## Storage
 In a sealed container in the fridge for up to 3 days. The texture sets firmer overnight; reheat in a low (160°C) oven for 10 minutes to warm through, covered loosely with foil to keep the surface from drying.

@@ -98,13 +98,13 @@ Masitas de puerco fritas ("little fried pork pieces") is one of Cuba's most belo
 - **Onions at the end:** sliced raw onion tossed in with the fried pork; gives the traditional Cuban texture contrast.
 
 ## Variations
-**With pickled red onions:** instead of fresh onion, top with quick-pickled red onion (red onion + lime juice + salt + 10 minutes); adds tang.
-**Spicier:** add 1 chopped habanero pepper to the marinade; properly Caribbean fierce.
-**With pineapple:** add 200 g of fresh pineapple chunks to the pan in stage 6; gives a sweet-tart contrast.
-**Slow-cooker version:** cook the marinated pork in a slow-cooker (low for 6 hours); proceed with the crisp-fry as in the recipe. Easier weeknight version.
+- **With pickled red onions:** instead of fresh onion, top with quick-pickled red onion (red onion + lime juice + salt + 10 minutes); adds tang.
+- **Spicier:** add 1 chopped habanero pepper to the marinade; properly Caribbean fierce.
+- **With pineapple:** add 200 g of fresh pineapple chunks to the pan in stage 6; gives a sweet-tart contrast.
+- **Slow-cooker version:** cook the marinated pork in a slow-cooker (low for 6 hours); proceed with the crisp-fry as in the recipe. Easier weeknight version.
 
 ## Serving
-Over hot white rice with black beans, sweet plantains, sliced avocado and salad. Yuca con mojo on the side for extra Cuban-ness. Drink: Cristal beer, mojito, or a Cuba libre.
+- Over hot white rice with black beans, sweet plantains, sliced avocado and salad. Yuca con mojo on the side for extra Cuban-ness. Drink: Cristal beer, mojito, or a Cuba libre.
 
 ## Storage
 - Best eaten immediately while crispy.

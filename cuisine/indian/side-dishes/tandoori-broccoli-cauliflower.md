@@ -68,16 +68,16 @@ These are grilled vegetables with spiced coating, crispy outside, tender inside.
 - **Make-Ahead:** Vegetables can be coated up to 4 hours ahead and kept in the fridge.
 
 ## Variations
-**Extra Herbs:** Add 1 tablespoon finely chopped fresh coriander or mint to the coating mixture.
-**Garlic Emphasis:** Include 1 teaspoon garlic paste in the coating for savory depth.
-**Spicy Heat:** Increase chilli powder to 1 ½ teaspoons or add a pinch of cayenne.
-**Mixed Vegetables:** Include other grillable vegetables like zucchini, bell peppers, or button mushrooms in the same treatment.
+- **Extra Herbs:** Add 1 tablespoon finely chopped fresh coriander or mint to the coating mixture.
+- **Garlic Emphasis:** Include 1 teaspoon garlic paste in the coating for savory depth.
+- **Spicy Heat:** Increase chilli powder to 1 ½ teaspoons or add a pinch of cayenne.
+- **Mixed Vegetables:** Include other grillable vegetables like zucchini, bell peppers, or button mushrooms in the same treatment.
 
 ## Serving
-Serve as: Starter, side dish, or vegetarian main
-Garnish: Fresh coriander leaves, lime wedges, thin onion slices
-Accompany with: Tamarind chutney, mint raita, lemon wedges
-Temperature: Serve warm or at room temperature
+- Serve as: Starter, side dish, or vegetarian main
+- Garnish: Fresh coriander leaves, lime wedges, thin onion slices
+- Accompany with: Tamarind chutney, mint raita, lemon wedges
+- Temperature: Serve warm or at room temperature
 
 ## Storage
 - Refrigerate leftover cooked vegetables in an airtight container for up to 2 days

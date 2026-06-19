@@ -50,7 +50,7 @@ Chershi is the Libyan version of the pickled-vegetable tradition that runs acros
 - **Ferment vs straight pickle:** The 5-7 days at room temperature lightly ferments the brine, giving the chershi a slight tang that pure vinegar pickles don't have. For an instant pickle, skip the room-temperature phase and refrigerate immediately - the result is sharper, less complex.
 
 ## Serving
-A small dish on the table at every meal. Particularly good with couscous, rice dishes and grilled lamb.
+- A small dish on the table at every meal. Particularly good with couscous, rice dishes and grilled lamb.
 
 ## Storage
 - Refrigerated in the brine: 2 months. The vegetables continue to soften slowly; eat within a month for the best texture.

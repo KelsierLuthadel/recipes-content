@@ -58,7 +58,7 @@ Kose (Hausa-Ghanaian name) is what Nigerians call akara: black-eyed pea fritters
 - **Stuffed:** Wrap a small piece of cooked sausage or smoked fish in each spoonful before frying.
 
 ## Serving
-Eat hot with shito · with hausa-koko (millet porridge) for breakfast · with a slice of buttered bread · alongside bofrot for a snack pair.
+- Eat hot with shito · with hausa-koko (millet porridge) for breakfast · with a slice of buttered bread · alongside bofrot for a snack pair.
 
 ## Storage
 - Best eaten fresh and hot

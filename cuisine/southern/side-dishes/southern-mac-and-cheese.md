@@ -80,13 +80,13 @@ Southern mac and cheese (often called "Soul Food mac and cheese" to distinguish 
 - **Rest before serving.**
 
 ## Variations
-**With breadcrumb topping:** add panko + butter on top.
-**With bacon:** crumble cooked bacon in the layers.
-**With lobster:** add 200 g lobster meat.
-**Spicier:** add chopped jalapeño + cayenne.
+- **With breadcrumb topping:** add panko + butter on top.
+- **With bacon:** crumble cooked bacon in the layers.
+- **With lobster:** add 200 g lobster meat.
+- **Spicier:** add chopped jalapeño + cayenne.
 
 ## Serving
-Alongside Southern Sunday dinner: fried chicken, collards, cornbread.
+- Alongside Southern Sunday dinner: fried chicken, collards, cornbread.
 
 ## Storage
 - Keeps refrigerated 5 days; reheat in oven.

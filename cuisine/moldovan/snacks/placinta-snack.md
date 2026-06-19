@@ -87,7 +87,7 @@ This is the snack-size cousin of the family plăcintă: smaller squares, palm-si
 - **Mini-mini plăcinte:** even smaller (the size of a small bun), party-canapé.
 
 ## Serving
-Hot from the pan in the hand. With cold buttermilk or hot tea. On a paper napkin from a market stall. As a packed-lunch with pickled gherkins.
+- Hot from the pan in the hand. With cold buttermilk or hot tea. On a paper napkin from a market stall. As a packed-lunch with pickled gherkins.
 
 ## Storage
 - Eat the day they are made; the dough toughens overnight.

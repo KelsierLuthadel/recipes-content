@@ -73,7 +73,7 @@ Switzerland built the modern chocolate industry. Lindt invented conching (the lo
 - **Quick hands:** The ganache warms in your palm as you roll. Work fast; rest a few minutes if your hands get hot.
 
 ## Serving
-Serve at room temperature with espresso after dinner, or with a glass of Kirsch. Wrap individually in small squares of greaseproof paper and pack in a tin for a gift.
+- Serve at room temperature with espresso after dinner, or with a glass of Kirsch. Wrap individually in small squares of greaseproof paper and pack in a tin for a gift.
 
 ## Storage
 - Refrigerate in a tin or airtight container 2 weeks.

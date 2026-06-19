@@ -93,7 +93,7 @@ This is the dessert sibling of the savoury plăcintă, built from the same stret
 - **Plăcintă învârtită dulce:** the dough rolled into a spiral instead of folded square.
 
 ## Serving
-Warm from the oven, dusted with icing sugar, with a great spoon of cool sour cream alongside. A glass of cold milk, a cup of strong tea, or a small glass of sour cherry vișinata. Sunday afternoon, the family table, the kettle on the stove.
+- Warm from the oven, dusted with icing sugar, with a great spoon of cool sour cream alongside. A glass of cold milk, a cup of strong tea, or a small glass of sour cherry vișinata. Sunday afternoon, the family table, the kettle on the stove.
 
 ## Storage
 - Eat the day they are baked; the dough toughens overnight.

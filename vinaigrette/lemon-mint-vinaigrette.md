@@ -53,17 +53,17 @@ Lemon and mint vinaigrette is the building block for delicate spring and summer 
 - **Delicate Greens Only:** Will be overwhelmed on hearty lettuces.
 
 ## Variations
-**With Lime:** Replace lemon with lime.
-**Extra Herbaceous:** Add ½ teaspoon fresh basil or tarragon.
-**With Shallot:** Add 1 finely minced shallot for depth.
-**Extra Lemon:** Increase juice to 4-5 tablespoons.
-**With Honey:** Add ¼ teaspoon honey to balance acidity.
+- **With Lime:** Replace lemon with lime.
+- **Extra Herbaceous:** Add ½ teaspoon fresh basil or tarragon.
+- **With Shallot:** Add 1 finely minced shallot for depth.
+- **Extra Lemon:** Increase juice to 4-5 tablespoons.
+- **With Honey:** Add ¼ teaspoon honey to balance acidity.
 
 ## Serving
-Use with: Watercress, spring greens, delicate lettuces, baby spinach, tender arugula
-Dressing ratio: 1-2 tablespoons per serving
-Temperature: Room temperature
-Timing: Dress just before serving
+- Use with: Watercress, spring greens, delicate lettuces, baby spinach, tender arugula
+- Dressing ratio: 1-2 tablespoons per serving
+- Temperature: Room temperature
+- Timing: Dress just before serving
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 2-3 days

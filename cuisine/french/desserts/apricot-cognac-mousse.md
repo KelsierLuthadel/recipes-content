@@ -58,7 +58,7 @@ Apricot cognac mousse is the elegant fruit dessert that brings together ripe sum
 - The reserved fresh apricot halves add both visual beauty and texture; choose the most perfect halves for garnish
 
 ## Serving
-Serve in elegant small glasses or coupes, each topped with a perfect fresh apricot half and surrounded by caramelized almond shards. The contrast between the silky mousse, soft fruit, and crisp candy is the essence of this dessert. Serve lightly chilled, not frozen.
+- Serve in elegant small glasses or coupes, each topped with a perfect fresh apricot half and surrounded by caramelized almond shards. The contrast between the silky mousse, soft fruit, and crisp candy is the essence of this dessert. Serve lightly chilled, not frozen.
 
 ## Storage
 Once set (after 4+ hours in the refrigerator), the mousse can be covered and refrigerated for up to 2 days. The caramelized almonds must be stored separately in an airtight container at room temperature (they absorb moisture from the air). Assemble no more than 30 minutes before serving to keep the almonds crisp.

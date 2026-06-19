@@ -66,7 +66,7 @@ Curtido is the Salvadoran answer to sauerkraut and Korean kimchi, a lightly ferm
 - **De repollo morado:** use red cabbage; gives a deep purple jar.
 
 ## Serving
-Heaped on top of pupusas, never on the side · with yuca con chicharrón · as a filling for breakfast tortillas · in a small bowl alongside grilled meat · at any Salvadoran table the year round.
+- Heaped on top of pupusas, never on the side · with yuca con chicharrón · as a filling for breakfast tortillas · in a small bowl alongside grilled meat · at any Salvadoran table the year round.
 
 ## Storage
 - Keeps a month refrigerated, getting softer and more developed.

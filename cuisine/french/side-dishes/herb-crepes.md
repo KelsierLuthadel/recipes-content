@@ -43,9 +43,9 @@ Herb crêpes are the thin, delicate French pancakes enriched with chopped fresh 
 - Use only a touch of clarified butter per crêpe; too much fat will prevent the crêpe from spreading thinly across the pan.
 
 ## Serving
-Serve with: used as a component in dishes such as Beef Wellington or other wrapped preparations; not typically served alone
-Temperature: room temperature when used as a wrapping layer; warm if served as a standalone crêpe
-Amount: 1-2 crêpes per person depending on use
+- Serve with: used as a component in dishes such as Beef Wellington or other wrapped preparations; not typically served alone
+- Temperature: room temperature when used as a wrapping layer; warm if served as a standalone crêpe
+- Amount: 1-2 crêpes per person depending on use
 
 ## Storage
 - Stack cooled crêpes with greaseproof paper between each one to prevent sticking.

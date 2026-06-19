@@ -105,15 +105,15 @@ Lomo saltado ("jumped sirloin") is the foundational dish of Peruvian chifa cuisi
 - **Wedge of lime is the finishing touch:** squeezed over at the table for the bracing acidity.
 
 ## Variations
-**Tallarin saltado:** swap rice for fresh thin egg noodles, the Cantonese-Peruvian noodle version.
-**Pollo saltado:** swap beef for chicken thighs sliced thin, the lighter / cheaper variant.
-**Lomo saltado de mariscos:** swap beef for prawns and squid, the seafood variant.
-**Lomo saltado de hongos (vegetarian):** swap beef for thick king oyster mushrooms sliced thin; same sauce.
-**Modern Lima restaurant variant:** add a poached egg on top, the brunch variant.
-**Lomo saltado on a sandwich (sanguche de lomo):** pile the cooked stir-fry into a fresh roll with mayo and pickled onions, the Lima street-sandwich variant.
+- **Tallarin saltado:** swap rice for fresh thin egg noodles, the Cantonese-Peruvian noodle version.
+- **Pollo saltado:** swap beef for chicken thighs sliced thin, the lighter / cheaper variant.
+- **Lomo saltado de mariscos:** swap beef for prawns and squid, the seafood variant.
+- **Lomo saltado de hongos (vegetarian):** swap beef for thick king oyster mushrooms sliced thin; same sauce.
+- **Modern Lima restaurant variant:** add a poached egg on top, the brunch variant.
+- **Lomo saltado on a sandwich (sanguche de lomo):** pile the cooked stir-fry into a fresh roll with mayo and pickled onions, the Lima street-sandwich variant.
 
 ## Serving
-At a Peruvian chifa restaurant (the traditional setting; chifa restaurants run from Lima to the Amazon) · at a Lima working-day lunch · at a Peruvian Independence Day celebration · at a Peruvian household dinner (lomo saltado is the traditional Peruvian week-night meal) · paired with chicha morada or a cold Peruvian Pilsen Trujillo lager.
+- At a Peruvian chifa restaurant (the traditional setting; chifa restaurants run from Lima to the Amazon) · at a Lima working-day lunch · at a Peruvian Independence Day celebration · at a Peruvian household dinner (lomo saltado is the traditional Peruvian week-night meal) · paired with chicha morada or a cold Peruvian Pilsen Trujillo lager.
 
 ## Storage
 - Refrigerates 2 days; reheat in a hot wok with a small splash of water.

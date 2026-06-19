@@ -77,16 +77,16 @@ Papa a la huancaína is the dish that pulled the central-Andean city of Huancayo
 - **The sauce is a Peruvian condiment in its own right:** make a double batch and refrigerate; pour over anything.
 
 ## Variations
-**Huancaína sauce as a dip:** thicker version (less evaporated milk): dip cancha (toasted corn), boiled cassava, or grilled chicken into it.
-**Ocopa (the Arequipa cousin):** swap aji amarillo for huacatay (Peruvian black mint) + aji mirasol; same potato-and-cream structure but green-tinted.
-**Modern Lima restaurant variant:** plate the sauce as a dot or quenelle; thin slices of potato cured briefly in the sauce; microgreens.
-**Causa-style huancaína:** mash the boiled potato with the sauce; chill in a ring mould; garnish on top.
-**Vegan huancaína sauce:** swap cheese for soaked cashews; evaporated milk for coconut milk; oil for olive oil, surprisingly good.
-**Spicy huancaína:** double the aji amarillo paste + add 1 finely chopped fresh rocoto chilli, the more aggressive heat variant.
-**Huancaína with quinoa:** instead of potato, use quinoa cooked till tender as the base, the modern healthy variant.
+- **Huancaína sauce as a dip:** thicker version (less evaporated milk): dip cancha (toasted corn), boiled cassava, or grilled chicken into it.
+- **Ocopa (the Arequipa cousin):** swap aji amarillo for huacatay (Peruvian black mint) + aji mirasol; same potato-and-cream structure but green-tinted.
+- **Modern Lima restaurant variant:** plate the sauce as a dot or quenelle; thin slices of potato cured briefly in the sauce; microgreens.
+- **Causa-style huancaína:** mash the boiled potato with the sauce; chill in a ring mould; garnish on top.
+- **Vegan huancaína sauce:** swap cheese for soaked cashews; evaporated milk for coconut milk; oil for olive oil, surprisingly good.
+- **Spicy huancaína:** double the aji amarillo paste + add 1 finely chopped fresh rocoto chilli, the more aggressive heat variant.
+- **Huancaína with quinoa:** instead of potato, use quinoa cooked till tender as the base, the modern healthy variant.
 
 ## Serving
-At a Peruvian first-course Sunday lunch (the traditional setting) · at a Lima criolla restaurant · at a Peruvian Independence Day buffet · at a Peruvian wedding canapé table · at a Peruvian household alongside roast chicken or anticuchos · at home as a make-ahead first course · paired with chicha morada or a cold lager.
+- At a Peruvian first-course Sunday lunch (the traditional setting) · at a Lima criolla restaurant · at a Peruvian Independence Day buffet · at a Peruvian wedding canapé table · at a Peruvian household alongside roast chicken or anticuchos · at home as a make-ahead first course · paired with chicha morada or a cold lager.
 
 ## Storage
 - The sauce refrigerates 5 days; whisk briefly before serving if it thickens too much.

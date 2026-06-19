@@ -59,7 +59,7 @@ Every English-speaking Caribbean island claims its own rice and peas, and the An
 - **Without coconut:** Replace coconut milk with stock for a lighter cleaner side.
 
 ## Serving
-Serve with stewed chicken or oxtail · fried plantain on the side · a wedge of avocado pear · hot pepper sauce.
+- Serve with stewed chicken or oxtail · fried plantain on the side · a wedge of avocado pear · hot pepper sauce.
 
 ## Storage
 - Keeps 3 days refrigerated

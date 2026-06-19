@@ -68,7 +68,7 @@ Boureks (the plural of bourek; from the Ottoman börek) are the fried savoury ci
 - **Spinach and ricotta.** 200 g cooked, drained spinach with 150 g ricotta, 1 egg, salt and nutmeg.
 
 ## Serving
-Serve immediately while crisp, on a warm plate with lemon wedges and a small bowl of harissa. The opening course of the Ramadan iftar, alongside chorba frik and a small salad. Eat with the fingers.
+- Serve immediately while crisp, on a warm plate with lemon wedges and a small bowl of harissa. The opening course of the Ramadan iftar, alongside chorba frik and a small salad. Eat with the fingers.
 
 ## Storage
 - Eat within an hour of frying; the pastry softens otherwise

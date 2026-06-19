@@ -64,7 +64,7 @@ This is the creamy coconut-milk version of tom yum, prawns simmered in a fragran
 - **Balance:** Taste and adjust lime, sugar, fish sauce for harmony.
 
 ## Serving
-Serve hot as a starter or over noodles/rice for a main. Garnish with coriander.
+- Serve hot as a starter or over noodles/rice for a main. Garnish with coriander.
 
 ## Storage
 - Refrigerate up to 1 day; prawns don't reheat well.

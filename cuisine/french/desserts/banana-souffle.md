@@ -55,7 +55,7 @@ This is a banana soufflé baked inside a folded crêpe, an elegant restaurant-st
 - Baking timing is critical: 5 minutes creates a slightly soft center while maintaining height; overbaking results in a flat, dense cake
 
 ## Serving
-Serve the crèpes immediately upon removal from the oven while the soufflé is still puffed and warm. The dramatic risen surface makes this a showstopping presentation. Drizzle with warm chocolate sauce and serve additional sauce on the side.
+- Serve the crèpes immediately upon removal from the oven while the soufflé is still puffed and warm. The dramatic risen surface makes this a showstopping presentation. Drizzle with warm chocolate sauce and serve additional sauce on the side.
 
 ## Storage
 Banana soufflé crèpes must be served immediately after baking as soufflés deflate quickly. The banana custard and crèpes can be prepared separately several hours ahead. Assemble (banana mixture on crêpe) immediately before baking. Do not attempt to reheat, as the soufflé will not rise a second time.

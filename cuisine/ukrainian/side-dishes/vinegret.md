@@ -82,13 +82,13 @@ Vinegret is Ukraine's everyday cold beetroot salad, the side dish that turns up 
 - **Rest 30 minutes minimum:** the flavours need time to marry. Eating vinegret straight after mixing tastes raw and disjointed; after 30 minutes in the fridge, it's properly unified.
 
 ## Variations
-**Vinegret with kidney beans:** add 200 g of cooked kidney beans (or red beans) to the salad; gives extra protein and a Ukrainian regional touch.
-**Vinegret with apple:** add 1 tart eating apple, peeled and diced, for a fresh fruit note. Non-traditional but lovely with rich meats.
-**Vinegret with herring (vinegret z seledem):** add 200 g of diced pickled herring (the salt-cured herring sold in jars); turns the salad into a more substantial dish. Common Christmas Eve variant.
-**Without sauerkraut:** for a less-sour version, double the dill pickles and skip the sauerkraut. The salad will be milder but still recognisably vinegret.
+- **Vinegret with kidney beans:** add 200 g of cooked kidney beans (or red beans) to the salad; gives extra protein and a Ukrainian regional touch.
+- **Vinegret with apple:** add 1 tart eating apple, peeled and diced, for a fresh fruit note. Non-traditional but lovely with rich meats.
+- **Vinegret with herring (vinegret z seledem):** add 200 g of diced pickled herring (the salt-cured herring sold in jars); turns the salad into a more substantial dish. Common Christmas Eve variant.
+- **Without sauerkraut:** for a less-sour version, double the dill pickles and skip the sauerkraut. The salad will be milder but still recognisably vinegret.
 
 ## Serving
-As a cold side dish on a buffet table or alongside a hot main; particularly beautiful next to roast chicken, grilled fish, baked salmon, or pelmeni. With dark rye bread or pumpernickel on the side. Drink: a cold lager, vodka, or just a glass of fizzy water with lemon.
+- As a cold side dish on a buffet table or alongside a hot main; particularly beautiful next to roast chicken, grilled fish, baked salmon, or pelmeni. With dark rye bread or pumpernickel on the side. Drink: a cold lager, vodka, or just a glass of fizzy water with lemon.
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour deepens overnight and day-after vinegret is actually preferred by many cooks.

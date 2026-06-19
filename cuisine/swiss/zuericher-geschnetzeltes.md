@@ -65,7 +65,7 @@ Geschnetzeltes - "small cuts" - is the Swiss German term for strips of meat in c
 - **The mustard isn't traditional in every recipe:** A modern Zurich addition for depth. Leave it out for a purer version; you may want a touch more salt.
 
 ## Serving
-Serve immediately with rösti on the side. A small green salad. Dry Swiss white wine - a Riesling-Sylvaner from the Zürichsee, a Chasselas from Vaud, or any dry European white.
+- Serve immediately with rösti on the side. A small green salad. Dry Swiss white wine - a Riesling-Sylvaner from the Zürichsee, a Chasselas from Vaud, or any dry European white.
 
 ## Storage
 - Best fresh. Veal in cream sauce reheats poorly - the meat toughens.

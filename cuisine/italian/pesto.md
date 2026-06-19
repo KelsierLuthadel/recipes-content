@@ -94,17 +94,17 @@ Pesto is the great Genoese basil sauce, five ingredients (basil, garlic, pine nu
 - **Mortar Superiority:** Traditional mortar-and-pestle pesto retains better texture and brighter color than food processor versions; worth the extra effort.
 
 ## Variations
-**Raw Pine Nuts:** Skip the toasting step for a less nutty, more delicate character (acceptable alternative if toasting nuts seems undesirable).
-**With Walnuts:** Substitute 15 grams walnuts for 15 grams pine nuts (less expensive, earthier flavor, traditional in some regions).
-**Cheese Options:** Use Pecorino Romano instead of Parmesan for sharper, more assertive character.
-**With Lemon Zest:** Add zest of ½ lemon for brightness and herbal lift.
-**Lighter Version:** Reduce olive oil to 90 milliliters and add 30 milliliters light vegetable stock (creates thinner sauce, less rich).
+- **Raw Pine Nuts:** Skip the toasting step for a less nutty, more delicate character (acceptable alternative if toasting nuts seems undesirable).
+- **With Walnuts:** Substitute 15 grams walnuts for 15 grams pine nuts (less expensive, earthier flavor, traditional in some regions).
+- **Cheese Options:** Use Pecorino Romano instead of Parmesan for sharper, more assertive character.
+- **With Lemon Zest:** Add zest of ½ lemon for brightness and herbal lift.
+- **Lighter Version:** Reduce olive oil to 90 milliliters and add 30 milliliters light vegetable stock (creates thinner sauce, less rich).
 
 ## Serving
-Perfect with: Fresh tagliatelle or fettuccine, focaccia for dipping, layered into Béchamel for lasagne, dolloped on minestrone or vegetable soup, spread on grilled bread, tossed with roasted potatoes
-Temperature: Room temperature (never heated; heat damages basil character)
-Ratio: 1-2 tablespoons per serving of pasta
-Application: Toss with hot pasta immediately before service; heat from pasta gently warms pesto without cooking it
+- Perfect with: Fresh tagliatelle or fettuccine, focaccia for dipping, layered into Béchamel for lasagne, dolloped on minestrone or vegetable soup, spread on grilled bread, tossed with roasted potatoes
+- Temperature: Room temperature (never heated; heat damages basil character)
+- Ratio: 1-2 tablespoons per serving of pasta
+- Application: Toss with hot pasta immediately before service; heat from pasta gently warms pesto without cooking it
 
 ## Storage
 - Refrigerate in a sealed glass jar, with parchment or plastic wrap pressed directly onto the pesto surface (to minimize air exposure): up to 2 weeks

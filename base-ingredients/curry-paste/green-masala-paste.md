@@ -95,16 +95,16 @@ Green Balti masala paste is the building block for lighter, herb-led British-Ind
 - **Blender vs. Mortar:** This paste is thick and herb-heavy; a blender makes more sense than a mortar for achieving smoothness.
 
 ## Variations
-**With Fresh Coriander Only:** Omit mint; use all 80 grams fresh coriander instead.
-**Spicier:** Increase chilli powder to 3 teaspoons.
-**Extra Turmeric:** For deeper golden color and earthiness, use 4 teaspoons turmeric.
-**Milder Cloves:** Reduce to ¼ teaspoon if clove flavor is too strong for your taste.
+- **With Fresh Coriander Only:** Omit mint; use all 80 grams fresh coriander instead.
+- **Spicier:** Increase chilli powder to 3 teaspoons.
+- **Extra Turmeric:** For deeper golden color and earthiness, use 4 teaspoons turmeric.
+- **Milder Cloves:** Reduce to ¼ teaspoon if clove flavor is too strong for your taste.
 
 ## Serving
-Use in: British-Indian curries, green vegetable curries, mild curries with fresh herb character
-Typical ratio: 3-4 tablespoons per 400 ml water or stock
-Cooking: Fry in hot oil with onions before adding liquid and main ingredients
-Temperature: Requires cooking in hot oil before use
+- Use in: British-Indian curries, green vegetable curries, mild curries with fresh herb character
+- Typical ratio: 3-4 tablespoons per 400 ml water or stock
+- Cooking: Fry in hot oil with onions before adding liquid and main ingredients
+- Temperature: Requires cooking in hot oil before use
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 2 months

@@ -41,9 +41,9 @@ Roasted vegetable stacks are the French composed-plate side that turns a tray of
 - A skewer inserted through the centre of each stack helps keep the layers in place when plating and serving.
 
 ## Serving
-Serve with: grilled meat, fish, or as a standalone vegetarian starter
-Temperature: warm
-Amount: 1 stack per person
+- Serve with: grilled meat, fish, or as a standalone vegetarian starter
+- Temperature: warm
+- Amount: 1 stack per person
 
 ## Storage
 - Store leftover roasted vegetables (separated from the bread) in an airtight container in the fridge for up to 3 days.

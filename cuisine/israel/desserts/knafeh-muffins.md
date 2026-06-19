@@ -74,7 +74,7 @@ Knafeh muffins are the individual portion version of the classical knafeh Nabuls
 - For a vivid orange traditional knafeh nablusi look, add a pinch of red food colouring to the melted butter before tossing with the kataifi.
 
 ## Serving
-Two per person on a plate while warm, with the pistachios scattered fresh on top. Strong unsweetened coffee or mint tea on the side. The temperature contrast is the dish: hot pastry, warm syrup, cool cheese still pulling.
+- Two per person on a plate while warm, with the pistachios scattered fresh on top. Strong unsweetened coffee or mint tea on the side. The temperature contrast is the dish: hot pastry, warm syrup, cool cheese still pulling.
 
 ## Storage
 Best eaten the day they are made. Keep at room temperature, loosely covered, for 12 hours; reheat briefly in a 160°C oven for 5 minutes to refresh the crisp. Do not refrigerate, the cheese hardens and the kataifi softens.

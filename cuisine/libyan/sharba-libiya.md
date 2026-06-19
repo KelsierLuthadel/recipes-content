@@ -60,7 +60,7 @@ Sharba is the daily evening soup in Ramadan and the everyday warm bowl outside i
 - **Lemon at the end:** Acid brightens the deep tomato-lamb base. Without it the soup reads as one-dimensional.
 
 ## Serving
-Eat with crusty bread, ideally Libyan flatbread or French baguette. A small dish of fresh chilli paste or harissa for those wanting more heat.
+- Eat with crusty bread, ideally Libyan flatbread or French baguette. A small dish of fresh chilli paste or harissa for those wanting more heat.
 
 ## Storage
 - Refrigerate 3 days. The orzo absorbs liquid as it sits; add a splash of water when reheating.

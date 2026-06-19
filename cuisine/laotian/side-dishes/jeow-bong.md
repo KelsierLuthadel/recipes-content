@@ -79,14 +79,14 @@ Jeow (Lao for "dip" or "paste") covers a family of Lao condiments: jeow mak len 
 - **Cook briefly:** the traditional Luang Prabang move deepens the flavour. Skip if you want a fresher taste.
 
 ## Variations
-**Vegetarian jeow bong:** skip the meat and fish sauce; use soy sauce + a teaspoon of doenjang for umami depth.
-**Spicier jeow bong:** double the dried chillies for the heat-lovers.
-**Sweeter jeow bong:** double the palm sugar for the modern variant.
-**Jeow bong with sesame seeds:** add 2 tablespoons toasted sesame seeds at the end, the modern variant.
-**Smoky jeow bong:** add 1 teaspoon liquid smoke or smoked paprika, the modern variant.
+- **Vegetarian jeow bong:** skip the meat and fish sauce; use soy sauce + a teaspoon of doenjang for umami depth.
+- **Spicier jeow bong:** double the dried chillies for the heat-lovers.
+- **Sweeter jeow bong:** double the palm sugar for the modern variant.
+- **Jeow bong with sesame seeds:** add 2 tablespoons toasted sesame seeds at the end, the modern variant.
+- **Smoky jeow bong:** add 1 teaspoon liquid smoke or smoked paprika, the modern variant.
 
 ## Serving
-At a Luang Prabang night market (the traditional setting; sold in small jars at the herb-and-spice stalls) · at every Lao home as the traditional condiment · alongside sticky rice + grilled meat + raw vegetables, the traditional Lao plate · in modern Lao-influenced cooking as a sandwich spread or a marinade base · paired with sai oua, laap, or grilled fish.
+- At a Luang Prabang night market (the traditional setting; sold in small jars at the herb-and-spice stalls) · at every Lao home as the traditional condiment · alongside sticky rice + grilled meat + raw vegetables, the traditional Lao plate · in modern Lao-influenced cooking as a sandwich spread or a marinade base · paired with sai oua, laap, or grilled fish.
 
 ## Storage
 - Refrigerates 1 month in a clean sealed jar; the flavour deepens further over 2-3 weeks.

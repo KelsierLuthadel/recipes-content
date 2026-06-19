@@ -38,7 +38,7 @@ Italian meringue is the building block of the French pastry kitchen's stable cre
 - Continue low-speed beating until the meringue cools completely (about 15 minutes); this is essential for proper texture development
 
 ## Serving
-Use meringue Italienne as a filling for tarts (often spread or piped), as a stable topping for desserts (can be browned under the grill), or as the base for crème au beurre and crème Mousseline. The smooth, velvety texture makes it ideal for elegant piped decorations and professional presentations.
+- Use meringue Italienne as a filling for tarts (often spread or piped), as a stable topping for desserts (can be browned under the grill), or as the base for crème au beurre and crème Mousseline. The smooth, velvety texture makes it ideal for elegant piped decorations and professional presentations.
 
 ## Storage
 Meringue Italienne is best used immediately or within a few hours of preparation. If necessary, refrigerate in an airtight container for up to 2 days; the meringue may weep slightly and separate, but can be gently re-beaten for 1-2 minutes to restore texture. Do not freeze, as thawing causes separation and loss of texture.

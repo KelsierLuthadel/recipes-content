@@ -117,13 +117,13 @@ Arroz con pollo Cubano is Cuba's iconic one-pot chicken-and-rice dish and a Sund
 - **Bone-in chicken for flavour:** the bones release flavour into the rice.
 
 ## Variations
-**With chorizo:** add 200 g of sliced chorizo to the pot in stage 3; gives a richer fattier version.
-**With seafood (arroz con pollo y mariscos):** add 200 g of cooked shrimp in the last 5 minutes; turns the dish into a paella-leaning special-occasion meal.
-**Without beer (kid-friendly):** swap the beer for 350 ml of chicken stock; less traditional but works for children.
-**Vegetarian (arroz amarillo Cubano):** skip the chicken; use vegetable stock; add 1 tin of chickpeas + extra vegetables. The rice is the star.
+- **With chorizo:** add 200 g of sliced chorizo to the pot in stage 3; gives a richer fattier version.
+- **With seafood (arroz con pollo y mariscos):** add 200 g of cooked shrimp in the last 5 minutes; turns the dish into a paella-leaning special-occasion meal.
+- **Without beer (kid-friendly):** swap the beer for 350 ml of chicken stock; less traditional but works for children.
+- **Vegetarian (arroz amarillo Cubano):** skip the chicken; use vegetable stock; add 1 tin of chickpeas + extra vegetables. The rice is the star.
 
 ## Serving
-Family-style from the pot at the centre of the table. Sliced avocado, lime wedges, fresh salad. Drink: cold Cristal beer, mojito, or fresh limonada.
+- Family-style from the pot at the centre of the table. Sliced avocado, lime wedges, fresh salad. Drink: cold Cristal beer, mojito, or fresh limonada.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

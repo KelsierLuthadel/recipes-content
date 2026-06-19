@@ -93,7 +93,7 @@ Stifado is the slow-cooked onion stew of the eastern Mediterranean; the Cypriot 
 - **Hare stifado.** Marinate the hare in the wine and vinegar overnight before cooking.
 
 ## Serving
-Serve with pourgouri · plain rice · crusty village bread · a glass of red Maratheftiko or Lefkada.
+- Serve with pourgouri · plain rice · crusty village bread · a glass of red Maratheftiko or Lefkada.
 
 ## Storage
 - Keeps 5 days refrigerated; the flavour improves on day two and three.

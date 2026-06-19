@@ -83,7 +83,7 @@ Chilli crab is Singapore's calling-card seafood dish - whole mud crabs cracked i
 - **The egg:** Drizzling slowly into bubbling sauce, then stirring gently, gives the signature ribbons. Whisking too hard breaks them up.
 
 ## Serving
-Serve hot in the centre of the table, family-style. Each diner gets a plate, a finger bowl, and a stack of paper napkins. The mantou buns get torn and dipped into the sauce.
+- Serve hot in the centre of the table, family-style. Each diner gets a plate, a finger bowl, and a stack of paper napkins. The mantou buns get torn and dipped into the sauce.
 
 ## Storage
 - Best the same day. Mud crab in chilli sauce doesn't keep well - the crab meat tightens overnight.

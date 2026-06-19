@@ -66,12 +66,12 @@ A modern Jamaican-Italian fusion that started on the island and crossed over int
 - **Protein alternatives:** Scallops or firm white fish work well instead of prawns.
 
 ## Variations
-**Cajun version:** Substitute jerk seasoning for Cajun spices for a warm, smokey profile
-**Vegetarian:** Replace prawns with grilled vegetables (aubergine, courgette, mushrooms) or chickpeas
-**Extra creamy:** Add an additional splash of cream or swap double cream for crème fraîche
+- **Cajun version:** Substitute jerk seasoning for Cajun spices for a warm, smokey profile
+- **Vegetarian:** Replace prawns with grilled vegetables (aubergine, courgette, mushrooms) or chickpeas
+- **Extra creamy:** Add an additional splash of cream or swap double cream for crème fraîche
 
 ## Serving
-Serve with: Fresh lime wedges, crusty bread, and a simple green salad
+- Serve with: Fresh lime wedges, crusty bread, and a simple green salad
 
 ## Storage
 - Keeps 2 days refrigerated (pasta may soften slightly)

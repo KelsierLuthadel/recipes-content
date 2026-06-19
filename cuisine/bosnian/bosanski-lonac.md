@@ -81,7 +81,7 @@ Bosanski lonac is the deepest expression of rural Bosnian cooking: a tall earthe
 - **Sač-cooked:** cook in a bell-shaped iron dome buried in wood embers for the most traditional version, takes 5 hours.
 
 ## Serving
-Straight from the pot · with crusty bread · with a small dish of grated horseradish · a glass of red wine or cold rakija · followed by kafa
+- Straight from the pot · with crusty bread · with a small dish of grated horseradish · a glass of red wine or cold rakija · followed by kafa
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour deepens overnight.

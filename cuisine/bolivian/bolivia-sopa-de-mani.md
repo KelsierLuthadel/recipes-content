@@ -80,7 +80,7 @@ To finish:
 - The pasta can be replaced with rice, fideos or noodles
 
 ## Serving
-Serve hot in deep bowls · chips piled high · fresh oregano scattered · llajwa on the side · with a bread roll to mop the bottom
+- Serve hot in deep bowls · chips piled high · fresh oregano scattered · llajwa on the side · with a bread roll to mop the bottom
 
 ## Storage
 - The soup keeps 3 days refrigerated; the peanut body thickens further on chilling

@@ -79,7 +79,7 @@
 - **Cheese:** Genuine Swiss Alpine cheese (Gruyère, Appenzeller, Bergkäse) is what defines the flavour. Cheddar is a substitution; mature comté is closer if you can find it.
 
 ## Serving
-Serve straight from the pot or in a single big dish in the centre of the table. A simple green salad with vinaigrette on the side balances the richness. White Swiss wine or sparkling water with a slice of lemon.
+- Serve straight from the pot or in a single big dish in the centre of the table. A simple green salad with vinaigrette on the side balances the richness. White Swiss wine or sparkling water with a slice of lemon.
 
 ## Storage
 - Leftovers refrigerate 3 days.

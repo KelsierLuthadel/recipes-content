@@ -86,14 +86,14 @@ The Chinese sesame hot dog bun (often called "hot dog bao" or just "hot dog brea
 - **Baked till deeply golden:** pale buns underbaked; the inside dough will be gummy.
 
 ## Variations
-**Spiral wrap:** instead of fully enclosing, wrap a long strand of dough around the hot dog in a spiral. Same egg-wash + sesame finish.
-**Cheese hot dog bao:** add grated cheddar inside before wrapping.
-**Pineapple hot dog bao:** add diced canned pineapple inside.
-**With scallion:** sprinkle chopped scallion in the egg wash for savoury notes.
-**Sweet version (less traditional):** add 1 tablespoon condensed milk inside for sweet-savoury contrast.
+- **Spiral wrap:** instead of fully enclosing, wrap a long strand of dough around the hot dog in a spiral. Same egg-wash + sesame finish.
+- **Cheese hot dog bao:** add grated cheddar inside before wrapping.
+- **Pineapple hot dog bao:** add diced canned pineapple inside.
+- **With scallion:** sprinkle chopped scallion in the egg wash for savoury notes.
+- **Sweet version (less traditional):** add 1 tablespoon condensed milk inside for sweet-savoury contrast.
 
 ## Serving
-At a Hong Kong or Taipei bakery counter; at a Chinatown bakery; at 7-Eleven Asia; at home as a breakfast or afternoon snack.
+- At a Hong Kong or Taipei bakery counter; at a Chinatown bakery; at 7-Eleven Asia; at home as a breakfast or afternoon snack.
 
 ## Storage
 - Best fresh.

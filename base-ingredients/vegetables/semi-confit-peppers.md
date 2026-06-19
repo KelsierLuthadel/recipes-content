@@ -86,16 +86,16 @@ Semi-confit peppers are the foundation for luxurious antipasto plates, layered s
 - **Oil Preservation:** The infused oil is precious and can be reserved for dressings, marinades, or cooking after the peppers are consumed.
 
 ## Variations
-**With Garlic:** Add an extra smashed garlic clove after peeling, before oil poaching.
-**Spiced Heat:** Add a small dried chilli or ½ teaspoon chilli flakes to the oil.
-**Citrus Note:** Add a thin strip of lemon or orange zest to the oil during poaching.
-**Golden Peppers:** Use yellow peppers for a sweeter, slightly different flavor profile than red.
+- **With Garlic:** Add an extra smashed garlic clove after peeling, before oil poaching.
+- **Spiced Heat:** Add a small dried chilli or ½ teaspoon chilli flakes to the oil.
+- **Citrus Note:** Add a thin strip of lemon or orange zest to the oil during poaching.
+- **Golden Peppers:** Use yellow peppers for a sweeter, slightly different flavor profile than red.
 
 ## Serving
-Use with: Crostini or bread, as part of antipasto or charcuterie boards, tossed into salads, alongside grilled meats, in composed vegetable plates
-Temperature: Room temperature or warmed gently
-Amount: 2-3 pepper pieces per serving
-Accompaniments: Fleur de sel, fresh basil, grilled bread rubbed with garlic
+- Use with: Crostini or bread, as part of antipasto or charcuterie boards, tossed into salads, alongside grilled meats, in composed vegetable plates
+- Temperature: Room temperature or warmed gently
+- Amount: 2-3 pepper pieces per serving
+- Accompaniments: Fleur de sel, fresh basil, grilled bread rubbed with garlic
 
 ## Storage
 - Refrigerate in an airtight glass container for up to 3 weeks; the oil preserves them well

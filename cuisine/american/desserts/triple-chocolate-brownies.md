@@ -63,7 +63,7 @@ Triple chocolate brownies are the bake-sale showstopper, the American slab that 
 - **Under-bake intentionally**: brownies firm considerably as they cool. Pulling them with a faint centre wobble gives the fudge texture; baking to clean-skewer gives cake.
 
 ## Serving
-Warm with a scoop of vanilla ice cream and a drizzle of cream, the chunks are still slightly molten. Or cold from the fridge with strong coffee, the chunks are chewy nuggets.
+- Warm with a scoop of vanilla ice cream and a drizzle of cream, the chunks are still slightly molten. Or cold from the fridge with strong coffee, the chunks are chewy nuggets.
 
 ## Storage
 - In an airtight tin at room temperature for 4 days.

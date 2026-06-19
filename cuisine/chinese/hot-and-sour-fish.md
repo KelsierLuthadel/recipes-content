@@ -58,7 +58,7 @@ Hot and sour is one of the great Chinese flavour pairings, and the version appli
 - **Gentle handling:** Fish flakes easily, be gentle when simmering to maintain presentation.
 
 ## Serving
-Serve with: Stir-fried spinach with garlic, or steamed rice
+- Serve with: Stir-fried spinach with garlic, or steamed rice
 
 ## Storage
 - Best served immediately for optimal texture

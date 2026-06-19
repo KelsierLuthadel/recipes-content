@@ -55,7 +55,7 @@ Onion and green apple chutney is the building block for the deep mahogany cheese
 - **Texture:** The chutney thickens as it cools; it should be spreadable, not runny, once fully set.
 
 ## Serving
-Serve with mature cheeses, cured meats, roasted pork, and sausages. Also excellent with roasted game and terrines.
+- Serve with mature cheeses, cured meats, roasted pork, and sausages. Also excellent with roasted game and terrines.
 
 ## Storage
 - Keeps refrigerated for up to 1 month in sealed jars.

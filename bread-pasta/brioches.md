@@ -67,17 +67,17 @@ St-Genix brioche is the building block for a French Sunday breakfast or weekend 
 - **Cooling:** The brioche needs time to set completely; cutting while warm will compress it and destroy the structure.
 
 ## Variations
-**Chocolate Pralines:** Substitute chocolate pralines (pralinés) for pink ones for a different flavor profile.
-**All Candied Fruit:** Replace pralines with a mix of candied fruits (orange peel, citrons, raisins) for a more traditional panettone-like texture.
-**Nut-Based:** Mix pralines with chopped pistachios or hazelnuts for textural interest.
-**Simplified:** Make the brioche without the ring; it will be more rustic but still delicious, baking into a free-form mound.
-**Individual Brioches:** Divide the dough into smaller portions and bake 2-3 small brioches instead of one large one; reduce baking time to 20-25 minutes.
+- **Chocolate Pralines:** Substitute chocolate pralines (pralinés) for pink ones for a different flavor profile.
+- **All Candied Fruit:** Replace pralines with a mix of candied fruits (orange peel, citrons, raisins) for a more traditional panettone-like texture.
+- **Nut-Based:** Mix pralines with chopped pistachios or hazelnuts for textural interest.
+- **Simplified:** Make the brioche without the ring; it will be more rustic but still delicious, baking into a free-form mound.
+- **Individual Brioches:** Divide the dough into smaller portions and bake 2-3 small brioches instead of one large one; reduce baking time to 20-25 minutes.
 
 ## Serving
-Serve: Slightly warm or at room temperature, sliced
-Accompany: With crème fraîche, jam, or honey
-Timing: Best served within a few hours of baking; excellent for breakfast the next day
-Pairing: Black coffee or hot chocolate are traditional
+- Serve: Slightly warm or at room temperature, sliced
+- Accompany: With crème fraîche, jam, or honey
+- Timing: Best served within a few hours of baking; excellent for breakfast the next day
+- Pairing: Black coffee or hot chocolate are traditional
 
 ## Storage
 - Best served the day it's baked

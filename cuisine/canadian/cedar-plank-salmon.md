@@ -98,16 +98,16 @@ Plank-cooked salmon is the Indigenous-derived technique that defines British Col
 - **Maple syrup grade:** "Dark, Robust" or older "Grade B" gives the deepest flavour. "Light, Golden" is too delicate; reserve for tea or pancakes.
 
 ## Variations
-**Cedar-plank salmon with brown sugar rub:** swap the maple glaze for a rub of brown sugar + smoked paprika + salt + black pepper, the Pacific Northwest classic dry rub.
-**Plank-grilled salmon with mango salsa:** finish with a mango-jalapeño-lime salsa, the Vancouver fusion variant.
-**Cedar-plank salmon with miso-maple glaze:** swap the Dijon for 2 tablespoons of white miso paste, Japanese-Canadian fusion.
-**Indigenous-traditional style (no glaze):** salt-only seasoning, slow-cooked over alder wood embers, no maple, the Coast Salish original technique.
-**Bourbon-maple glaze:** add 1 tablespoon bourbon to the glaze, the southern-Ontario variant.
-**Cedar-plank arctic char:** swap salmon for arctic char (a Canadian Arctic species): the Yukon variant.
-**Smaller fillets, individual planks:** 6 individual 180 g salmon fillets on 6 small cedar planks; same cooking time minus 4 minutes. The dinner-party presentation.
+- **Cedar-plank salmon with brown sugar rub:** swap the maple glaze for a rub of brown sugar + smoked paprika + salt + black pepper, the Pacific Northwest classic dry rub.
+- **Plank-grilled salmon with mango salsa:** finish with a mango-jalapeño-lime salsa, the Vancouver fusion variant.
+- **Cedar-plank salmon with miso-maple glaze:** swap the Dijon for 2 tablespoons of white miso paste, Japanese-Canadian fusion.
+- **Indigenous-traditional style (no glaze):** salt-only seasoning, slow-cooked over alder wood embers, no maple, the Coast Salish original technique.
+- **Bourbon-maple glaze:** add 1 tablespoon bourbon to the glaze, the southern-Ontario variant.
+- **Cedar-plank arctic char:** swap salmon for arctic char (a Canadian Arctic species): the Yukon variant.
+- **Smaller fillets, individual planks:** 6 individual 180 g salmon fillets on 6 small cedar planks; same cooking time minus 4 minutes. The dinner-party presentation.
 
 ## Serving
-At a BC backyard barbecue (the traditional setting) · at a Vancouver Island summer beach cook · at a Sunshine Coast cabin dinner · at a Canadian Thanksgiving (second Monday of October) · at a Pacific Northwest food festival · at a Vancouver fine-dining restaurant alongside Indigenous-inspired sides · at home as a Saturday-night dinner-party showpiece.
+- At a BC backyard barbecue (the traditional setting) · at a Vancouver Island summer beach cook · at a Sunshine Coast cabin dinner · at a Canadian Thanksgiving (second Monday of October) · at a Pacific Northwest food festival · at a Vancouver fine-dining restaurant alongside Indigenous-inspired sides · at home as a Saturday-night dinner-party showpiece.
 
 ## Storage
 - Leftover plank-grilled salmon refrigerates 3 days; eat cold flaked over salad, or fold into a salmon chowder.

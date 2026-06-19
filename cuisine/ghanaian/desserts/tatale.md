@@ -57,7 +57,7 @@ Tatale is the home rescue for very-over-ripe plantains, the ones with black skin
 - **Sweeter:** Drizzle warm tatale with honey or a spoon of evaporated milk.
 
 ## Serving
-Eat warm as a snack · with a cup of milky tea or Milo · for breakfast with a fried egg · with a spoon of yoghurt if you want a softer pair.
+- Eat warm as a snack · with a cup of milky tea or Milo · for breakfast with a fried egg · with a spoon of yoghurt if you want a softer pair.
 
 ## Storage
 - Best eaten fresh

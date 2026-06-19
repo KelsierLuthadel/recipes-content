@@ -55,7 +55,7 @@ Mbeju (pronounced "buh-jew", a Guaraní word for cake) is the morning breakfast 
 - **Mini mbeju:** make 6-8 small mbeju instead of 2 large ones; cook each 3 minutes per side.
 
 ## Serving
-Breakfast with mate cocido · afternoon snack with tereré · with butter and honey for a sweet version · broken into pieces with the hands · alongside chipa for a Paraguayan country breakfast spread.
+- Breakfast with mate cocido · afternoon snack with tereré · with butter and honey for a sweet version · broken into pieces with the hands · alongside chipa for a Paraguayan country breakfast spread.
 
 ## Storage
 - Best within the hour of cooking; the texture suffers after that

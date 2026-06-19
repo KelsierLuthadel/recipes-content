@@ -57,7 +57,7 @@ Atay is the daily ritual drink of Libya and the wider Maghreb, the small foaming
 - Reduce sugar by half for a lighter modern version (still sweeter than most palates expect).
 
 ## Serving
-After every meal as the closing ritual · with a plate of dates, almonds and dried figs · at any visit, the moment the guest sits down · in the late afternoon as the social drink of the day · alongside a tray of ghraybeh or maqrood for a sweet pairing.
+- After every meal as the closing ritual · with a plate of dates, almonds and dried figs · at any visit, the moment the guest sits down · in the late afternoon as the social drink of the day · alongside a tray of ghraybeh or maqrood for a sweet pairing.
 
 ## Storage
 - Brew fresh; atay does not keep.

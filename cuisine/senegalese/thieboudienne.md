@@ -90,12 +90,12 @@ Thiéboudiène is Senegal's national dish and arguably the great rice dish of We
 - **Whole chilli, no pierce:** A whole Scotch bonnet perfumes the broth without making it punishingly hot. Pierce it and you change the dish.
 
 ## Variations
-**Thiéboudiène rouge vs blanc:** This recipe is the red (rouge) version. For the white (blanc), omit tomato and use more onions and a touch of dried tamarind for the cooking liquid.
-**Chicken:** Yassa-style chicken thighs can replace the fish if you can not source firm steaks; reduce poaching to about 25 minutes.
+- **Thiéboudiène rouge vs blanc:** This recipe is the red (rouge) version. For the white (blanc), omit tomato and use more onions and a touch of dried tamarind for the cooking liquid.
+- **Chicken:** Yassa-style chicken thighs can replace the fish if you can not source firm steaks; reduce poaching to about 25 minutes.
 
 ## Serving
-Serve with: Lime wedges and chilli paste; sometimes a small dish of sour mustard pickle.
-Garnish with: A handful of chopped parsley over the rice.
+- Serve with: Lime wedges and chilli paste; sometimes a small dish of sour mustard pickle.
+- Garnish with: A handful of chopped parsley over the rice.
 
 ## Storage
 - Keeps 2 days refrigerated; reheat gently with a splash of water.

@@ -63,7 +63,7 @@ Salt and pepper calamari is the crisp-fried squid starter that turns up at Thai 
 I purchase my squid already cleaned, which is of course the easiest option. If you can only get uncleaned squid, cleaning them isn’t difficult. Pull the head from the tube body and remove and discard the long stiff cartilage from the tube. Then cut the head and ink sac away from the tentacles and discard. Peel the thin membrane from the tube and you’re ready to go.
 
 ## Serving
-Serve with sweet chilli sauce.
+- Serve with sweet chilli sauce.
 
 ## Storage
 - Best served immediately.

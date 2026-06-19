@@ -98,13 +98,13 @@ Pirozhki are Russia's most beloved savoury bun and one of the country's most wid
 - **Don't overfill:** 1 heaping tablespoon of filling per 10 cm dough circle is about right. Overfilled pirozhki tear during baking.
 
 ## Variations
-**Cabbage-and-egg filling (kapustnye pirozhki):** sauté 1 small head of finely chopped white cabbage in butter for 30 minutes till deeply softened; mix with 4 finely chopped hard-boiled eggs, salt, pepper and dill. Classic vegetarian filling.
-**Potato-and-mushroom filling:** cook 400 g of mashed potato; sauté 300 g of finely chopped mushrooms with onion; combine with dill. Classic vegetarian winter filling.
-**Sweet pirozhki (with jam or fruit):** fill with thick jam (cherry, apricot, raspberry); brush with egg wash and bake the same way. Dust with icing sugar after baking. Dessert version.
-**Fish pirozhki:** fill with cooked flaked salmon or cod mixed with rice, dill, hard-boiled egg and seasoning. Common Lent-friendly variation.
+- **Cabbage-and-egg filling (kapustnye pirozhki):** sauté 1 small head of finely chopped white cabbage in butter for 30 minutes till deeply softened; mix with 4 finely chopped hard-boiled eggs, salt, pepper and dill. Classic vegetarian filling.
+- **Potato-and-mushroom filling:** cook 400 g of mashed potato; sauté 300 g of finely chopped mushrooms with onion; combine with dill. Classic vegetarian winter filling.
+- **Sweet pirozhki (with jam or fruit):** fill with thick jam (cherry, apricot, raspberry); brush with egg wash and bake the same way. Dust with icing sugar after baking. Dessert version.
+- **Fish pirozhki:** fill with cooked flaked salmon or cod mixed with rice, dill, hard-boiled egg and seasoning. Common Lent-friendly variation.
 
 ## Serving
-Warm, eaten with the hands. As a snack with strong tea; as a meal with a small bowl of broth or borscht. Children love them in lunchboxes; adults love them at picnics. Russian babushkas pack them for train journeys (the soft yeasted bread travels well).
+- Warm, eaten with the hands. As a snack with strong tea; as a meal with a small bowl of broth or borscht. Children love them in lunchboxes; adults love them at picnics. Russian babushkas pack them for train journeys (the soft yeasted bread travels well).
 
 ## Storage
 - Keeps in a sealed container at room temperature 1 day; refrigerated 4 days.

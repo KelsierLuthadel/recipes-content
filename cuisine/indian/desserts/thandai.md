@@ -61,7 +61,7 @@ Thandai is the Holi drink of North India, the perfumed cold milk that gets serve
 - To prepare ahead, make the paste 2 days early and store in a jar in the fridge; the milk goes in the morning of serving.
 
 ## Serving
-In tall glasses with plenty of ice, alongside trays of gujiya, jalebi and pakora. By the jug at the Holi table; refilled often.
+- In tall glasses with plenty of ice, alongside trays of gujiya, jalebi and pakora. By the jug at the Holi table; refilled often.
 
 ## Storage
 The strained drink keeps in a sealed jug in the fridge for 24 hours, but tastes brightest within the first 6 hours.

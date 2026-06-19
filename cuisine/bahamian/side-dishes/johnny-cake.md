@@ -74,13 +74,13 @@ Johnny cake is the Bahamas' everyday quick bread, sitting somewhere between corn
 - **22 cm square pan:** the size matters; a smaller pan gives a thicker bread that takes longer to bake through and goes dry on top; a larger pan gives a thinner bread that goes from underdone to overdone in seconds. Use what's specified.
 
 ## Variations
-**Coconut johnny cake:** add 50 g of desiccated coconut to the dry ingredients; gives a tropical note that's common in the southern Bahamas (Acklins, Crooked Island).
-**Cornmeal johnny cake (American Southern style):** swap 100 g of the flour for fine cornmeal; gives the more crumbly textured version familiar in the American South. Less traditional Bahamian but a valid variant.
-**Cheese johnny cake:** add 100 g of grated sharp cheddar to the dry mixture; great as a savoury side. Common Bahamian variation.
-**Sweeter Sunday johnny cake:** double the sugar to 4 tablespoons and brush with honey instead of butter at the end; sweeter Sunday breakfast version.
+- **Coconut johnny cake:** add 50 g of desiccated coconut to the dry ingredients; gives a tropical note that's common in the southern Bahamas (Acklins, Crooked Island).
+- **Cornmeal johnny cake (American Southern style):** swap 100 g of the flour for fine cornmeal; gives the more crumbly textured version familiar in the American South. Less traditional Bahamian but a valid variant.
+- **Cheese johnny cake:** add 100 g of grated sharp cheddar to the dry mixture; great as a savoury side. Common Bahamian variation.
+- **Sweeter Sunday johnny cake:** double the sugar to 4 tablespoons and brush with honey instead of butter at the end; sweeter Sunday breakfast version.
 
 ## Serving
-At breakfast with conch chowder, scrambled eggs, or just butter and guava jam. At dinner as the bread alongside peas and rice, stewed chicken, or fish. Properly served warm; reheat slightly if it's cooled (a few seconds in a low oven or microwave).
+- At breakfast with conch chowder, scrambled eggs, or just butter and guava jam. At dinner as the bread alongside peas and rice, stewed chicken, or fish. Properly served warm; reheat slightly if it's cooled (a few seconds in a low oven or microwave).
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 days; the bread firms up but stays tasty.

@@ -92,7 +92,7 @@ Salată de boeuf is the Romanian relative of the Russian Olivier salad, brought 
 - **With pickled red peppers diced through:** sweeter, brighter.
 
 ## Serving
-Cold, in a slice from the dome · with toasted country bread · alongside zacuscă and salată de vinete on the holiday cold table · with a glass of dry white wine.
+- Cold, in a slice from the dome · with toasted country bread · alongside zacuscă and salată de vinete on the holiday cold table · with a glass of dry white wine.
 
 ## Storage
 - Refrigerate up to 4 days; flavour deepens but the colour dulls.

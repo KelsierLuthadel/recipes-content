@@ -75,7 +75,7 @@ A creamy clam soup that takes the New England chowder format and smooths it out 
 - **Rice:** Short-grain rice helps thicken the soup naturally.
 
 ## Serving
-Serve hot in bowls, garnished with clams in shells and parsley. Pair with crusty bread.
+- Serve hot in bowls, garnished with clams in shells and parsley. Pair with crusty bread.
 
 ## Storage
 - Refrigerate up to 2 days; reheat gently without boiling.

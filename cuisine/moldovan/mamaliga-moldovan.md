@@ -60,7 +60,7 @@ Mămăligă is the daily bread of Moldova, the cornmeal porridge that has stood 
 - **Vegan Lent version (de post):** finished with sunflower oil and chopped dill in place of butter and cheese.
 
 ## Serving
-Hot from the pot, turned out on a board, sliced with thread, scattered with sheep cheese, crowned with sour cream and a soft-fried egg. Eat with a wooden spoon, scooping through the layers.
+- Hot from the pot, turned out on a board, sliced with thread, scattered with sheep cheese, crowned with sour cream and a soft-fried egg. Eat with a wooden spoon, scooping through the layers.
 
 ## Storage
 - Best fresh; cools into a sliceable block within an hour.

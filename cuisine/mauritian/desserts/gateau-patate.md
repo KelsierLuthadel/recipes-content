@@ -97,13 +97,13 @@ Gâteau patate (literally "potato cake") is Mauritius's beloved sweet-potato tur
 - **Seal the edges properly:** any gap in the seal lets filling leak out during frying. Crimp the edges firmly with a fork; press out any air bubbles first.
 
 ## Variations
-**Coconut-only gâteau patate (gâteau coco):** swap the sweet potato filling for 400 g of grated fresh coconut cooked with 200 g of sugar to a thick paste; gives the closely related coconut turnover.
-**Baked instead of fried:** brush with beaten egg and bake at 200°C / 400°F for 20-25 minutes till golden. Less traditional but healthier; the texture is more biscuit-like and less crisp.
-**With orange zest:** add the zest of 1 orange to the filling; gives a brighter citrus profile.
-**Rum-soaked raisin gâteau patate:** add 50 g of raisins soaked in 2 tablespoons of dark rum for 30 minutes; mix into the filling. Properly festive Mauritian version.
+- **Coconut-only gâteau patate (gâteau coco):** swap the sweet potato filling for 400 g of grated fresh coconut cooked with 200 g of sugar to a thick paste; gives the closely related coconut turnover.
+- **Baked instead of fried:** brush with beaten egg and bake at 200°C / 400°F for 20-25 minutes till golden. Less traditional but healthier; the texture is more biscuit-like and less crisp.
+- **With orange zest:** add the zest of 1 orange to the filling; gives a brighter citrus profile.
+- **Rum-soaked raisin gâteau patate:** add 50 g of raisins soaked in 2 tablespoons of dark rum for 30 minutes; mix into the filling. Properly festive Mauritian version.
 
 ## Serving
-Warm with strong milky chai (the proper Mauritian afternoon ritual), or with sweet milky coffee. The dust of caster sugar over the warm pastries is non-negotiable. Children love them as after-school snack; adults love them as Sunday afternoon tea.
+- Warm with strong milky chai (the proper Mauritian afternoon ritual), or with sweet milky coffee. The dust of caster sugar over the warm pastries is non-negotiable. Children love them as after-school snack; adults love them as Sunday afternoon tea.
 
 ## Storage
 - Best eaten warm on the day they're made; they go off-texture as they cool.

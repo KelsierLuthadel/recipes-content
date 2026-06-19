@@ -106,13 +106,13 @@ Southern pulled pork BBQ is one of America's great regional barbecue traditions,
 - **Vinegar sauce traditional Carolina.**
 
 ## Variations
-**Kansas City style:** use thick sweet tomato-molasses sauce.
-**Memphis dry style:** no sauce; serve plain pulled pork with rub.
-**Slow-cooker version:** cook 8 hours on low; less smoke flavour but accessible.
-**Oven version:** roast wrapped at 110°C for 10 hours; add liquid smoke for smoky flavour.
+- **Kansas City style:** use thick sweet tomato-molasses sauce.
+- **Memphis dry style:** no sauce; serve plain pulled pork with rub.
+- **Slow-cooker version:** cook 8 hours on low; less smoke flavour but accessible.
+- **Oven version:** roast wrapped at 110°C for 10 hours; add liquid smoke for smoky flavour.
 
 ## Serving
-On soft buns with coleslaw, pickles. Beans, slaw, mac-and-cheese on the side. Sweet tea, beer.
+- On soft buns with coleslaw, pickles. Beans, slaw, mac-and-cheese on the side. Sweet tea, beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

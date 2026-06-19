@@ -78,7 +78,7 @@ Chilli crisp is the condiment that's eaten the world by storm, the Chinese-pantr
 - **Shelf life**: refrigerated in a clean glass jar, this keeps 2-3 months. Bring back to room temperature before using so the oil flows.
 
 ## Serving
-Spoon over rice, noodles, eggs (fried, scrambled, or in a ramen broth), dumplings, pizza, avocado toast, steamed greens, soups. The "everything goes" condiment.
+- Spoon over rice, noodles, eggs (fried, scrambled, or in a ramen broth), dumplings, pizza, avocado toast, steamed greens, soups. The "everything goes" condiment.
 
 ## Storage
 - In a sealed jar in the fridge for up to 3 months. The crunchy bits go softer over time; flavour stays.

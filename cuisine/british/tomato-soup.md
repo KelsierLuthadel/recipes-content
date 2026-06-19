@@ -70,7 +70,7 @@ The British weeknight classic, the soup that arrives in a mug with a buttered sl
 - **Cream:** Optional for puree version; adds richness but can be skipped for a lighter soup.
 
 ## Serving
-Serve hot with fresh warm bread and topped with croutons.
+- Serve hot with fresh warm bread and topped with croutons.
 
 ## Storage
 - Refrigerate up to 3 days.

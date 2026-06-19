@@ -78,14 +78,14 @@ Klicha are the Iraqi date-filled cookies of Eid, buttery cardamom-and-nigella do
 - **Mould or fork:** A traditional wooden klaicha mould gives the iconic Iraqi pattern; failing that, a small knife scoring a herringbone or grid pattern is the home alternative.
 
 ## Variations
-**Walnut filling (klicha bil-jouz):** Replace dates with 200 g finely chopped walnuts, 100 g sugar, 1 teaspoon cardamom and 1 tablespoon rose water. Festival version.
-**Coconut filling:** 200 g desiccated coconut, 100 g sugar, 4 tablespoons milk, 1 teaspoon cardamom, cooked to a sticky paste.
-**Ring shape (klicha aysh):** Form the dough into rings around the filling for a different traditional shape.
+- **Walnut filling (klicha bil-jouz):** Replace dates with 200 g finely chopped walnuts, 100 g sugar, 1 teaspoon cardamom and 1 tablespoon rose water. Festival version.
+- **Coconut filling:** 200 g desiccated coconut, 100 g sugar, 4 tablespoons milk, 1 teaspoon cardamom, cooked to a sticky paste.
+- **Ring shape (klicha aysh):** Form the dough into rings around the filling for a different traditional shape.
 
 ## Serving
-Serve with: cardamom tea (chai hel), Iraqi coffee, or a glass of cold milk.
-Occasion: Eid al-Fitr, Eid al-Adha, weddings, family tea-time, Ramadan iftar.
-Temperature: room temperature, or warmed for 1 minute in the oven.
+- Serve with: cardamom tea (chai hel), Iraqi coffee, or a glass of cold milk.
+- Occasion: Eid al-Fitr, Eid al-Adha, weddings, family tea-time, Ramadan iftar.
+- Temperature: room temperature, or warmed for 1 minute in the oven.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin; the flavour deepens over the first 3 days.

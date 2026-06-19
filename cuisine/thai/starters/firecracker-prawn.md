@@ -62,7 +62,7 @@ Firecracker prawns are the chilli-spiked Thai starter you find on every restaura
 - Adjust chilli to taste.
 
 ## Serving
-Serve hot with sweet chilli sauce.
+- Serve hot with sweet chilli sauce.
 
 ## Storage
 - Best served immediately; can be kept warm for 10-15 mins.

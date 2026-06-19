@@ -79,7 +79,7 @@ Babka, at its sweet best as the chocolate version, turns out to be a wonderful v
 - This babka is at its best the day it is baked, warm. Toasted slices the next morning with butter are the dream second-day breakfast.
 
 ## Serving
-A slice with a bowl of tomato or carrot soup. On a brunch table alongside salads and dips. As a Shabbat side instead of challah.
+- A slice with a bowl of tomato or carrot soup. On a brunch table alongside salads and dips. As a Shabbat side instead of challah.
 
 ## Storage
 Wrapped in foil at room temperature for 2 days. Re-warm slices in a low oven (150°C) for 5 minutes to refresh. Freezes well sliced; toast straight from frozen.

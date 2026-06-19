@@ -94,13 +94,13 @@ Tortilla soup is the Southwestern American answer to the Yucatecan sopa de lima 
 - **Hot broth over fresh garnishes.**
 
 ## Variations
-**Smoother base:** blend the soup base before adding chicken; gives a creamier texture.
-**With black beans:** add tin of drained black beans.
-**Spicier:** double the chipotles.
-**With corn:** add fresh corn kernels.
+- **Smoother base:** blend the soup base before adding chicken; gives a creamier texture.
+- **With black beans:** add tin of drained black beans.
+- **Spicier:** double the chipotles.
+- **With corn:** add fresh corn kernels.
 
 ## Serving
-In deep bowls with all the traditional garnishes. Mexican beer.
+- In deep bowls with all the traditional garnishes. Mexican beer.
 
 ## Storage
 - Soup base keeps refrigerated 5 days; flavour deepens.

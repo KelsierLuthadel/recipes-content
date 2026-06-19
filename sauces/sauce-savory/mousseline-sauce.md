@@ -53,7 +53,7 @@ Sauce Mousseline is the building block for the ethereal light hollandaise variat
 - **Timing:** Must be served immediately after folding in cream; the sauce will deflate if held.
 
 ## Serving
-Serve with delicate fish preparations (sole, turbot, en croûte), asparagus, or other elegant dishes requiring refined sauce.
+- Serve with delicate fish preparations (sole, turbot, en croûte), asparagus, or other elegant dishes requiring refined sauce.
 
 ## Storage
 - Best served immediately due to cream and emulsion instability.

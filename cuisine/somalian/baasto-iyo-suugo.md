@@ -114,13 +114,13 @@ Baasto iyo suugo is Somalia's everyday Italian-Somali fusion pasta, the dish tha
 - **Pasta water is your friend:** the starchy reserved pasta water helps the sauce cling to the pasta when you toss them together. Splash in 2-3 tablespoons; you can always add more.
 
 ## Variations
-**Baasto iyo suugo with vegetables:** add 100 g of peas and 100 g of small diced courgette in the last 5 minutes of the sauce simmer for a vegetable-rich version.
-**Baasto iyo suugo digaag (with chicken):** swap minced beef for 500 g of diced chicken thigh; brown briefly before adding the tomato and reduce simmer time to 20 minutes. The lighter version.
-**Suugo suqaar (sauce with cubed meat):** use 600 g of cubed beef shin instead of mince; simmer 45-60 minutes for tenderness, then toss with pasta. The Sunday-lunch version.
-**Vegetarian suugo:** swap meat for 200 g of mushrooms diced fine and 150 g of green lentils; cook the lentils into the sauce till tender. Less traditional but works for fasting days.
+- **Baasto iyo suugo with vegetables:** add 100 g of peas and 100 g of small diced courgette in the last 5 minutes of the sauce simmer for a vegetable-rich version.
+- **Baasto iyo suugo digaag (with chicken):** swap minced beef for 500 g of diced chicken thigh; brown briefly before adding the tomato and reduce simmer time to 20 minutes. The lighter version.
+- **Suugo suqaar (sauce with cubed meat):** use 600 g of cubed beef shin instead of mince; simmer 45-60 minutes for tenderness, then toss with pasta. The Sunday-lunch version.
+- **Vegetarian suugo:** swap meat for 200 g of mushrooms diced fine and 150 g of green lentils; cook the lentils into the sauce till tender. Less traditional but works for fasting days.
 
 ## Serving
-In wide bowls, with sliced banana on the side of each plate (the Somali touch). Bisbaas in a small dish for heat. Grated Parmesan optional. Drink: cold water or laban (cultured milk drink) traditionally; a glass of Italian wine if you want to embrace the colonial inheritance fully.
+- In wide bowls, with sliced banana on the side of each plate (the Somali touch). Bisbaas in a small dish for heat. Grated Parmesan optional. Drink: cold water or laban (cultured milk drink) traditionally; a glass of Italian wine if you want to embrace the colonial inheritance fully.
 
 ## Storage
 - Sauce keeps refrigerated 4 days; freezes 3 months. Day-after suugo is excellent on fresh pasta.

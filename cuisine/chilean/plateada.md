@@ -110,13 +110,13 @@ Plateada is Chile's beloved slow-cooked beef brisket and a Sunday-family-lunch c
 - **Slice across the grain:** for tender slices.
 
 ## Variations
-**Pulled plateada:** shred the brisket with two forks instead of slicing; serve over rice or in arepas.
-**With chestnuts:** add 200 g of peeled chestnuts in the last 90 minutes; gives autumn richness.
-**Pressure-cooker plateada:** pressure-cook on high for 75 minutes instead of 5-6 hours in the oven. Quicker but less flavour development.
-**With wine-soaked prunes:** add 100 g of prunes (soaked in 100 ml extra red wine) in the last hour; gives a fruity richness.
+- **Pulled plateada:** shred the brisket with two forks instead of slicing; serve over rice or in arepas.
+- **With chestnuts:** add 200 g of peeled chestnuts in the last 90 minutes; gives autumn richness.
+- **Pressure-cooker plateada:** pressure-cook on high for 75 minutes instead of 5-6 hours in the oven. Quicker but less flavour development.
+- **With wine-soaked prunes:** add 100 g of prunes (soaked in 100 ml extra red wine) in the last hour; gives a fruity richness.
 
 ## Serving
-On a wide platter at the centre of the table. Puré de papas, ensalada chilena, pebre alongside. Drink: Chilean red wine (carmenere is traditional), or Cristal beer.
+- On a wide platter at the centre of the table. Puré de papas, ensalada chilena, pebre alongside. Drink: Chilean red wine (carmenere is traditional), or Cristal beer.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

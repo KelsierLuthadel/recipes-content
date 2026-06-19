@@ -120,16 +120,16 @@ Cou-cou and flying fish is Barbados's most identity-defining dish, the country's
 - **Substitute for flying fish outside Barbados:** small whole sardines, small mackerel fillets, or any small firm-fleshed white fish. The seasoning makes it Bajan even if the fish is different.
 
 ## Variations
-**Cou-cou and saltfish:** swap the fresh flying fish for soaked-and-flaked salt cod, the alternative Bajan traditional.
-**Cou-cou and stewed fish:** instead of steamed fish on the gravy, stewed fish in a richer gravy with okra chunks, the Sunday variant.
-**Coconut cou-cou:** swap 200 ml of the water for coconut milk, the upscale variant.
-**Vegetarian cou-cou:** just the cornmeal-and-okra mound; serve with the gravy alone, or with stewed pumpkin.
-**Pumpkin cou-cou:** add 200 g grated pumpkin to the cornmeal-and-okra cook, the modern variant.
-**Cou-cou cakes (next-day):** form cold leftover cou-cou into small patties; pan-fry till golden on both sides, the Bajan breakfast hack.
-**Bajan cou-cou with pickled fish:** instead of fresh flying fish, use pickled fish in a vinegar-and-pepper brine, the older traditional variant.
+- **Cou-cou and saltfish:** swap the fresh flying fish for soaked-and-flaked salt cod, the alternative Bajan traditional.
+- **Cou-cou and stewed fish:** instead of steamed fish on the gravy, stewed fish in a richer gravy with okra chunks, the Sunday variant.
+- **Coconut cou-cou:** swap 200 ml of the water for coconut milk, the upscale variant.
+- **Vegetarian cou-cou:** just the cornmeal-and-okra mound; serve with the gravy alone, or with stewed pumpkin.
+- **Pumpkin cou-cou:** add 200 g grated pumpkin to the cornmeal-and-okra cook, the modern variant.
+- **Cou-cou cakes (next-day):** form cold leftover cou-cou into small patties; pan-fry till golden on both sides, the Bajan breakfast hack.
+- **Bajan cou-cou with pickled fish:** instead of fresh flying fish, use pickled fish in a vinegar-and-pepper brine, the older traditional variant.
 
 ## Serving
-At a Bajan Friday-night family dinner (the traditional setting) · at a Bajan rum-shop on a Friday afternoon · at the Oistins Fish Fry (the famous Friday-night Bajan fish festival in Christ Church) · at a Bajan Independence Day (30 November) celebration · at any Bajan home for the traditional national-dish dinner · paired with a glass of cold Banks lager, mauby, or sorrel.
+- At a Bajan Friday-night family dinner (the traditional setting) · at a Bajan rum-shop on a Friday afternoon · at the Oistins Fish Fry (the famous Friday-night Bajan fish festival in Christ Church) · at a Bajan Independence Day (30 November) celebration · at any Bajan home for the traditional national-dish dinner · paired with a glass of cold Banks lager, mauby, or sorrel.
 
 ## Storage
 - Cou-cou is best eaten fresh from the pot. Refrigerated cou-cou firms into a sliceable cake; pan-fry next-day slices in butter till crisp.

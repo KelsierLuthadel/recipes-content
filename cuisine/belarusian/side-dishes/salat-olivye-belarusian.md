@@ -69,7 +69,7 @@ Every former Soviet republic has its olivye and Belarusians make it slightly dif
 - **Apple olivye.** Add 1 small tart green apple, finely diced and tossed in lemon juice, for a sharper modern Vilnius-region version.
 
 ## Serving
-Serve cold from the fridge in a large bowl · also good as part of a "zakuski" cold-table spread · with cold cuts and dark rye · a New Year's Eve table fixture with herring and pickles
+- Serve cold from the fridge in a large bowl · also good as part of a "zakuski" cold-table spread · with cold cuts and dark rye · a New Year's Eve table fixture with herring and pickles
 
 ## Storage
 - Keeps 2 days refrigerated (no longer; the mayonnaise dressing is a fresh-food risk past that)

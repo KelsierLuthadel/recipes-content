@@ -68,14 +68,14 @@ The Scottish-Indian curry-house dipping sauce that turns up alongside every plat
 - **Onion Texture:** Adding finely chopped fresh onion provides texture and crispness; it's optional but recommended.
 
 ## Variations
-**Spicier Heat:** Add 1 additional teaspoon chilli powder for pronounced spice.
-**With Ginger:** Add 1 teaspoon ginger paste for warmth and depth.
-**Fresh Coriander:** Stir in 1 tablespoon fresh chopped coriander just before serving.
-**Lighter Version:** Substitute half-yoghurt with sour cream for a tangier sauce.
+- **Spicier Heat:** Add 1 additional teaspoon chilli powder for pronounced spice.
+- **With Ginger:** Add 1 teaspoon ginger paste for warmth and depth.
+- **Fresh Coriander:** Stir in 1 tablespoon fresh chopped coriander just before serving.
+- **Lighter Version:** Substitute half-yoghurt with sour cream for a tangier sauce.
 
 ## Serving
-Serve with: Pakora, bhajis, samosas, spring rolls, fried appetizers
-Garnish: None needed; this is a condiment
+- Serve with: Pakora, bhajis, samosas, spring rolls, fried appetizers
+- Garnish: None needed; this is a condiment
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

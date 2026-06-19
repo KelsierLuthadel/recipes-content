@@ -110,13 +110,13 @@ Asopao de pollo is Puerto Rico's beloved chicken-and-rice soup-stew, sitting del
 - **Eat immediately:** asopao thickens as it sits. The first serving is the best.
 
 ## Variations
-**Asopao de mariscos (seafood asopao):** swap the chicken for 600 g of mixed seafood (shrimp, mussels, white fish); cook for shorter total time (the seafood goes in only at the end). Coastal Puerto Rican specialty.
-**Asopao de gandules (pigeon pea asopao, vegetarian):** swap the chicken for 2 tins of pigeon peas; use vegetable stock; same procedure. Vegetarian Boricua main.
-**With pumpkin and yuca:** add cubed calabaza (pumpkin) and yuca (cassava) along with the rice; gives a more substantial root-vegetable version.
-**Spicier:** add 2 finely chopped habanero peppers to the sofrito; properly Caribbean fierce version.
+- **Asopao de mariscos (seafood asopao):** swap the chicken for 600 g of mixed seafood (shrimp, mussels, white fish); cook for shorter total time (the seafood goes in only at the end). Coastal Puerto Rican specialty.
+- **Asopao de gandules (pigeon pea asopao, vegetarian):** swap the chicken for 2 tins of pigeon peas; use vegetable stock; same procedure. Vegetarian Boricua main.
+- **With pumpkin and yuca:** add cubed calabaza (pumpkin) and yuca (cassava) along with the rice; gives a more substantial root-vegetable version.
+- **Spicier:** add 2 finely chopped habanero peppers to the sofrito; properly Caribbean fierce version.
 
 ## Serving
-In wide deep bowls with the chicken on the bone, the brothy rice ladled around it, and avocado, coriander and lime on top. Tostones for mopping the broth. Pique for those who want extra heat. Drink: Medalla beer, mauby, or hot Puerto Rican coffee.
+- In wide deep bowls with the chicken on the bone, the brothy rice ladled around it, and avocado, coriander and lime on top. Tostones for mopping the broth. Pique for those who want extra heat. Drink: Medalla beer, mauby, or hot Puerto Rican coffee.
 
 ## Storage
 - Best eaten fresh; the rice continues to absorb liquid and the dish thickens significantly overnight.

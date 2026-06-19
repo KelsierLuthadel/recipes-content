@@ -57,14 +57,14 @@ The catch-all British no-bake chocolate slab: a half-and-half blend of milk and 
 - **Doesn't need the fridge to keep:** Once set, the cake stores fine in a tin at room temperature; only refrigerate on hot days.
 
 ## Variations
-**Rocky road style:** Add 100 g mini marshmallows along with the dried fruit for a softer, bouncier bar.
-**Festive:** Use 75 g glace cherries and 75 g chopped nuts in place of the apricots for a Christmas tin.
-**Boozy:** Soak the raisins and apricots in 2 tablespoons of dark rum or brandy for an hour before adding; drain briefly before folding in.
-**Salted top:** Sprinkle flaky sea salt across the surface before chilling.
+- **Rocky road style:** Add 100 g mini marshmallows along with the dried fruit for a softer, bouncier bar.
+- **Festive:** Use 75 g glace cherries and 75 g chopped nuts in place of the apricots for a Christmas tin.
+- **Boozy:** Soak the raisins and apricots in 2 tablespoons of dark rum or brandy for an hour before adding; drain briefly before folding in.
+- **Salted top:** Sprinkle flaky sea salt across the surface before chilling.
 
 ## Serving
-Serve with: A cup of strong tea or coffee; a generous wedge after Sunday lunch.
-Garnish with: A dusting of cocoa powder or icing sugar just before serving.
+- Serve with: A cup of strong tea or coffee; a generous wedge after Sunday lunch.
+- Garnish with: A dusting of cocoa powder or icing sugar just before serving.
 
 ## Storage
 - Keeps in an airtight tin at cool room temperature for up to 2 weeks.

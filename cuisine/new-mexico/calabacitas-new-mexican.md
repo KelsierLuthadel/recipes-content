@@ -61,13 +61,13 @@ New Mexican calabacitas is the traditional NM Pueblo-Hispanic summer vegetable s
 - **Cheese off heat.**
 
 ## Variations
-**With pinto beans:** add tin; turns into a main.
-**Spicier:** include hot Hatch chillies.
-**With diced potato:** add cubed cooked potato.
-**Vegan:** skip cream and cheese; use cashew cream + nutritional yeast.
+- **With pinto beans:** add tin; turns into a main.
+- **Spicier:** include hot Hatch chillies.
+- **With diced potato:** add cubed cooked potato.
+- **Vegan:** skip cream and cheese; use cashew cream + nutritional yeast.
 
 ## Serving
-Alongside enchiladas, grilled meats, or as a vegetarian main with tortillas.
+- Alongside enchiladas, grilled meats, or as a vegetarian main with tortillas.
 
 ## Storage
 - Keeps refrigerated 3 days.

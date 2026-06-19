@@ -86,7 +86,7 @@ Garash torta carries a Hungarian baker's name (Kosta Garash, who set up shop in 
 - **Garash with caramel band:** a thin band of soft caramel between two of the middle layers.
 
 ## Serving
-A small thin wedge with a strong Bulgarian coffee · with a glass of Mavrud red wine after dinner · at every Sofia birthday · on a name-day plate at noon · with a dab of unsweetened whipped cream on the side · with a Bulgarian rose-water petit four alongside.
+- A small thin wedge with a strong Bulgarian coffee · with a glass of Mavrud red wine after dinner · at every Sofia birthday · on a name-day plate at noon · with a dab of unsweetened whipped cream on the side · with a Bulgarian rose-water petit four alongside.
 
 ## Storage
 - Refrigerate up to 5 days in a covered container; the glaze keeps its shine.

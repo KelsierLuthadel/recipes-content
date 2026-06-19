@@ -87,13 +87,13 @@ Or lam is the most identity-specifically Luang Prabang dish, the deep herb-and-w
 - **Aubergine variety matters:** small Thai pea aubergines stay firm; large Western aubergines collapse. The small Asian aubergine is the workable compromise.
 
 ## Variations
-**Or lam pa (fish version):** swap beef for chunks of firm freshwater white fish, the river-fish variant.
-**Or lam moo (pork version):** swap beef for pork belly chunks.
-**Or lam kai (chicken version):** swap beef for bone-in chicken thighs.
-**Vegetarian or lam:** skip the meat and fish sauce; use vegetable stock; double the mushrooms and add tofu chunks; use soy sauce in place of fish sauce.
+- **Or lam pa (fish version):** swap beef for chunks of firm freshwater white fish, the river-fish variant.
+- **Or lam moo (pork version):** swap beef for pork belly chunks.
+- **Or lam kai (chicken version):** swap beef for bone-in chicken thighs.
+- **Vegetarian or lam:** skip the meat and fish sauce; use vegetable stock; double the mushrooms and add tofu chunks; use soy sauce in place of fish sauce.
 
 ## Serving
-At a Luang Prabang riverside restaurant (the traditional setting) · at a Lao family dinner · at a Lao New Year (Pi Mai) celebration · at a Lao temple festival · at home as a Lao-themed dinner-party main · paired with sticky rice and laap.
+- At a Luang Prabang riverside restaurant (the traditional setting) · at a Lao family dinner · at a Lao New Year (Pi Mai) celebration · at a Lao temple festival · at home as a Lao-themed dinner-party main · paired with sticky rice and laap.
 
 ## Storage
 - Refrigerates 4 days; reheat on the stovetop, adding a splash of water if too reduced.

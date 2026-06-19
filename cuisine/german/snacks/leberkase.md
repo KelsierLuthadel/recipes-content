@@ -88,14 +88,14 @@ Leberkäse (the name translates to "liver cheese", though the Bavarian version c
 - **Eat warm:** Bavarians eat it within 2 hours of baking. Cold Leberkäse is a different (and lesser) thing.
 
 ## Variations
-**Käseleberkäse:** stir 100 g cubed Emmental or mild Cheddar through the emulsion before packing the tin; the cheese melts into pockets.
-**Pizza Leberkäse:** mix 50 g chopped olives, 30 g sun-dried tomatoes and 1 teaspoon dried oregano into the emulsion (a modern Munich variant).
-**Smaller portions:** bake in 4 small ramekins for 35 minutes; perfect for sandwiches.
-**With chestnuts (Maronen Leberkäse):** fold 100 g cooked diced chestnuts through the emulsion for an autumn version.
-**Vegetarian "Leberkäse":** the seitan-based version sold in modern German supermarkets is a different dish; the meat version is the classic.
+- **Käseleberkäse:** stir 100 g cubed Emmental or mild Cheddar through the emulsion before packing the tin; the cheese melts into pockets.
+- **Pizza Leberkäse:** mix 50 g chopped olives, 30 g sun-dried tomatoes and 1 teaspoon dried oregano into the emulsion (a modern Munich variant).
+- **Smaller portions:** bake in 4 small ramekins for 35 minutes; perfect for sandwiches.
+- **With chestnuts (Maronen Leberkäse):** fold 100 g cooked diced chestnuts through the emulsion for an autumn version.
+- **Vegetarian "Leberkäse":** the seitan-based version sold in modern German supermarkets is a different dish; the meat version is the classic.
 
 ## Serving
-At a Munich metzgerei before noon (the traditional setting) · between two halves of a fresh pretzel for breakfast · with a fried egg and potato salad for lunch · on a Wiesn beer-table at Oktoberfest · cold sliced thin in a sandwich for an Alpine hike · alongside Sauerkraut and Senfgurken on a Bavarian dinner plate.
+- At a Munich metzgerei before noon (the traditional setting) · between two halves of a fresh pretzel for breakfast · with a fried egg and potato salad for lunch · on a Wiesn beer-table at Oktoberfest · cold sliced thin in a sandwich for an Alpine hike · alongside Sauerkraut and Senfgurken on a Bavarian dinner plate.
 
 ## Storage
 - Eat warm within 2 hours of baking for the best texture.

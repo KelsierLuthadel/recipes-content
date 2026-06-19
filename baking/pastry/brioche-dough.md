@@ -61,8 +61,8 @@ Brioche dough is the building block for the enriched French yeast pantheon: brio
 - **Make-ahead:** Dough freezes beautifully for up to 3 months before shaping and baking.
 
 ## Serving
-Serve with: Breakfast with café au lait, or as a luxury side to afternoon tea
-Best enjoyed: Warm from the oven with butter and jam, or sliced for French toast
+- Serve with: Breakfast with café au lait, or as a luxury side to afternoon tea
+- Best enjoyed: Warm from the oven with butter and jam, or sliced for French toast
 
 ## Storage
 - Best served within 1-2 days for optimal crumb and texture

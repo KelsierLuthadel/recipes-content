@@ -59,12 +59,12 @@ Töltött tojás is the Hungarian deviled egg, hard-boiled whites filled with a 
 - **Soft butter, not melted:** Melted butter splits the filling. Take the butter out of the fridge 30 minutes ahead.
 
 ## Variations
-**With pickle (csemegekovászos):** Stir 1 tablespoon finely chopped Hungarian gherkin into the filling.
-**With anchovy:** Mash 2 anchovy fillets into the yolks for a saltier, deeper version (eaten with rye bread).
-**With smoked paprika (modern):** Use ½ teaspoon sweet smoked paprika in addition to the sweet Hungarian for a touch of smoke. Not traditional, but good.
+- **With pickle (csemegekovászos):** Stir 1 tablespoon finely chopped Hungarian gherkin into the filling.
+- **With anchovy:** Mash 2 anchovy fillets into the yolks for a saltier, deeper version (eaten with rye bread).
+- **With smoked paprika (modern):** Use ½ teaspoon sweet smoked paprika in addition to the sweet Hungarian for a touch of smoke. Not traditional, but good.
 
 ## Serving
-Serve as part of a cold platter (hideg tál) with cured meats, pickles, rye bread and cheese, or as a single snack with pálinka or beer.
+- Serve as part of a cold platter (hideg tál) with cured meats, pickles, rye bread and cheese, or as a single snack with pálinka or beer.
 
 ## Storage
 - Best the day they're made.

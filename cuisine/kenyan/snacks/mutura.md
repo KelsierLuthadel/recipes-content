@@ -89,7 +89,7 @@ Mutura is the Kenyan blood-and-meat sausage, a Kikuyu speciality that has become
 - **Pan-fry version:** slice the simmered sausage into rounds and pan-fry the coins until crisp on both sides, for a cleaner kitchen finish.
 
 ## Serving
-Sliced into coins on a wooden board · kachumbari piled alongside · pili pili and salt in small dishes · cold Tusker · eaten by hand at a choma joint.
+- Sliced into coins on a wooden board · kachumbari piled alongside · pili pili and salt in small dishes · cold Tusker · eaten by hand at a choma joint.
 
 ## Storage
 - Cooked mutura keeps 3 days refrigerated.

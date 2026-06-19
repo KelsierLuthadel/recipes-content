@@ -81,14 +81,14 @@ Fasole bătută (literally "beaten beans") is a Romanian country-kitchen side th
 - **Eat warm or room temperature:** never cold from the fridge (the oil seizes).
 
 ## Variations
-**With smoked pork:** add 100 g diced smoked pork or kaiser to the onion topping.
-**With chickpeas:** swap half the white beans for cooked chickpeas (the southern Romanian version).
-**Spicy:** double the hot paprika and add a sliced chilli to the onion topping.
-**Vegan-friendly already:** the dish is plant-based by default; no swap needed.
-**Smoother spread version (mezelic):** thin the paste with extra oil and lemon juice; serve as a dip.
+- **With smoked pork:** add 100 g diced smoked pork or kaiser to the onion topping.
+- **With chickpeas:** swap half the white beans for cooked chickpeas (the southern Romanian version).
+- **Spicy:** double the hot paprika and add a sliced chilli to the onion topping.
+- **Vegan-friendly already:** the dish is plant-based by default; no swap needed.
+- **Smoother spread version (mezelic):** thin the paste with extra oil and lemon juice; serve as a dip.
 
 ## Serving
-At a Romanian Christmas table next to sarmale and mici · as a Lent dish (the fasting tradition since it has no meat) · with a Țuică shot at the start of a Sunday lunch · on a meze board with salată de vinete and zacuscă · spread on rye bread with pickles for a country snack · alongside a bowl of ciorbă for a winter weeknight supper.
+- At a Romanian Christmas table next to sarmale and mici · as a Lent dish (the fasting tradition since it has no meat) · with a Țuică shot at the start of a Sunday lunch · on a meze board with salată de vinete and zacuscă · spread on rye bread with pickles for a country snack · alongside a bowl of ciorbă for a winter weeknight supper.
 
 ## Storage
 - Refrigerates 5 days in a sealed container.

@@ -64,14 +64,14 @@ Bene is the West African word for sesame, carried across the Atlantic with the s
 - **Work quickly:** the caramel hardens fast; the rolling has to happen while the mixture is still warm.
 
 ## Variations
-**With peanuts:** swap half the sesame for chopped roasted peanuts.
-**With coconut:** stir in 60 g freshly grated coconut with the sesame.
-**Brittle-style:** take the caramel to hard crack (140C); spread on a tray and snap into shards once cool.
-**Spicier:** add a pinch of ground clove and a quarter teaspoon of cinnamon with the nutmeg.
-**Honey bene:** swap the golden syrup for honey for a softer chewier ball.
+- **With peanuts:** swap half the sesame for chopped roasted peanuts.
+- **With coconut:** stir in 60 g freshly grated coconut with the sesame.
+- **Brittle-style:** take the caramel to hard crack (140C); spread on a tray and snap into shards once cool.
+- **Spicier:** add a pinch of ground clove and a quarter teaspoon of cinnamon with the nutmeg.
+- **Honey bene:** swap the golden syrup for honey for a softer chewier ball.
 
 ## Serving
-From a paper bag at the market · with afternoon tea · wrapped as a Grenadian gift · on the side of a strong black coffee · packed in a school lunch.
+- From a paper bag at the market · with afternoon tea · wrapped as a Grenadian gift · on the side of a strong black coffee · packed in a school lunch.
 
 ## Storage
 - Keeps 3 weeks in an airtight tin at room temperature.

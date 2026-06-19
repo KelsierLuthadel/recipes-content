@@ -60,13 +60,13 @@ Käsekrainer is the cheese-stuffed sausage that defines late-night Vienna street
 - **Buy quality sausages:** the success of the dish depends entirely on the sausage. Look for Austrian or Bavarian Käsekrainer with visible cheese cubes, natural casings, and a good ratio of meat to cheese. Generic supermarket cheese hot dogs are not the same thing.
 
 ## Variations
-**With sauerkraut:** lay a small heap of warm sauerkraut alongside the sausage in the roll; the acidity cuts the richness beautifully.
-**As main course:** serve two sausages per person, splayed open, on a plate with a mound of mashed potato and braised red cabbage; the Sunday dinner version.
-**Käsekrainer mit Senfsosse:** instead of the roll, serve the sliced sausage in a creamy mustard sauce over boiled potatoes; more of a restaurant dish.
-**Pizzaiola:** the late-night Vienna excess; the split sausage topped with tomato sauce and mozzarella and grilled briefly till bubbling.
+- **With sauerkraut:** lay a small heap of warm sauerkraut alongside the sausage in the roll; the acidity cuts the richness beautifully.
+- **As main course:** serve two sausages per person, splayed open, on a plate with a mound of mashed potato and braised red cabbage; the Sunday dinner version.
+- **Käsekrainer mit Senfsosse:** instead of the roll, serve the sliced sausage in a creamy mustard sauce over boiled potatoes; more of a restaurant dish.
+- **Pizzaiola:** the late-night Vienna excess; the split sausage topped with tomato sauce and mozzarella and grilled briefly till bubbling.
 
 ## Serving
-The traditional Würstelstand presentation: splayed open in a kaiser roll with sweet mustard, curry ketchup and pickled gherkins. Drink: cold Ottakringer or Stiegl lager. The traditional time is late night; the proper time is anytime.
+- The traditional Würstelstand presentation: splayed open in a kaiser roll with sweet mustard, curry ketchup and pickled gherkins. Drink: cold Ottakringer or Stiegl lager. The traditional time is late night; the proper time is anytime.
 
 ## Storage
 - Best eaten the moment they come off the heat. The cheese starts to firm up within minutes.

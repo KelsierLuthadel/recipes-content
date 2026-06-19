@@ -68,15 +68,15 @@ Semi-confit cherry tomatoes are the foundation for crostini toppings, pasta fini
 - **Serving:** These are delicious at room temperature or warmed gently. To serve warm, heat under a broiler or in a small pan with a little of their oil.
 
 ## Variations
-**With Basil:** Add fresh basil leaves to the oil just before serving rather than during cooking (heat damages basil flavor).
-**Spiced Heat:** Add a small dried chilli or ¼ teaspoon red chilli flakes.
-**With Herbs:** Include rosemary or oregano sprigs during cooking for Mediterranean character.
+- **With Basil:** Add fresh basil leaves to the oil just before serving rather than during cooking (heat damages basil flavor).
+- **Spiced Heat:** Add a small dried chilli or ¼ teaspoon red chilli flakes.
+- **With Herbs:** Include rosemary or oregano sprigs during cooking for Mediterranean character.
 
 ## Serving
-Use with: Crostini or toast, pasta dishes, salads, as part of an antipasto platter, flan or tart fillings
-Temperature: Room temperature, or warm gently
-Amount: 3-5 tomatoes per serving; drizzle with the infused oil
-Garnish: Fresh basil, fleur de sel, or microgreens
+- Use with: Crostini or toast, pasta dishes, salads, as part of an antipasto platter, flan or tart fillings
+- Temperature: Room temperature, or warm gently
+- Amount: 3-5 tomatoes per serving; drizzle with the infused oil
+- Garnish: Fresh basil, fleur de sel, or microgreens
 
 ## Storage
 - The infused oil acts as a preservative; keeps refrigerated for at least 2-3 weeks in an airtight glass container

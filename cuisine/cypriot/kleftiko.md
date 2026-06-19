@@ -84,7 +84,7 @@ Kleftiko (literally "stolen meat") is the great Cypriot village-oven dish, a leg
 - **Lamb chops kleftiko.** Lamb chops, same marinade, individual parcels, baked 2 hours instead of 4. A taverna trick to serve kleftiko at lunchtime.
 
 ## Serving
-Serve with pourgouri · talattouri · a sharp horiatiki-style salad · a bowl of olives · a glass of Maratheftiko or a chilled Xynisteri.
+- Serve with pourgouri · talattouri · a sharp horiatiki-style salad · a bowl of olives · a glass of Maratheftiko or a chilled Xynisteri.
 
 ## Storage
 - Keeps 4 days refrigerated in the parcel juices; the second day is arguably better.

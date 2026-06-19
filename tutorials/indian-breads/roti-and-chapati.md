@@ -94,22 +94,22 @@ Practice. By the 4th or 5th roti, the puff should happen reliably.
 ## Variations
 
 ### Tandoori roti
-The same roti but cooked in a tandoor (clay oven at 480°C). The bread is slapped onto the side of the tandoor and cooks in 60-90 seconds with a slightly different texture, slightly crispy edges, smoky char marks. At home: preheat oven to 250°C with a baking stone; slap the rolled roti onto the stone; cook 90-120 seconds.
+- The same roti but cooked in a tandoor (clay oven at 480°C). The bread is slapped onto the side of the tandoor and cooks in 60-90 seconds with a slightly different texture, slightly crispy edges, smoky char marks. At home: preheat oven to 250°C with a baking stone; slap the rolled roti onto the stone; cook 90-120 seconds.
 
 ### Phulka roti
-A north Indian variant, slightly thinner than the everyday roti, cooked till more crisp at the edges. Same dough.
+- A north Indian variant, slightly thinner than the everyday roti, cooked till more crisp at the edges. Same dough.
 
 ### Akki roti (Karnataka)
-A South Indian regional bread made with rice flour instead of wheat. Different technique entirely, the dough is patted out by hand on the back of a banana leaf or a sheet of baking paper, then transferred to a tawa with oil. Crumbly, slightly crisp.
+- A South Indian regional bread made with rice flour instead of wheat. Different technique entirely, the dough is patted out by hand on the back of a banana leaf or a sheet of baking paper, then transferred to a tawa with oil. Crumbly, slightly crisp.
 
 ### Bajra roti (Rajasthani)
-Made with bajra (pearl millet) flour. Thicker than regular roti; gluten-free; eaten with a lump of ghee, jaggery, or with garlic-chilli chutney. Winter Rajasthani breakfast.
+- Made with bajra (pearl millet) flour. Thicker than regular roti; gluten-free; eaten with a lump of ghee, jaggery, or with garlic-chilli chutney. Winter Rajasthani breakfast.
 
 ### Jowar roti
-Made with jowar (sorghum) flour. Similar to bajra; gluten-free; rolled thin and cooked on a tawa. Maharashtrian staple.
+- Made with jowar (sorghum) flour. Similar to bajra; gluten-free; rolled thin and cooked on a tawa. Maharashtrian staple.
 
 ### Makke ki roti
-Made with maize flour. Winter Punjabi breakfast pairing with sarson da saag (mustard greens).
+- Made with maize flour. Winter Punjabi breakfast pairing with sarson da saag (mustard greens).
 
 ## Common mistakes
 

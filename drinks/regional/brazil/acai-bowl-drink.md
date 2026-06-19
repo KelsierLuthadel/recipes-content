@@ -79,19 +79,19 @@ The açaí bowl is Brazil's most successfully exported food of the 2010s, and th
 - **Eat fast:** the açaí cream melts within 10-15 minutes of being plated.
 
 ## Variations
-**Classic Brazilian açaí com banana e granola:** the traditional setup described above.
-**Açaí na tigela com leite condensado:** the Rio favourite, with extra condensed milk drizzled generously.
-**Açaí with peanut butter:** drizzle natural peanut butter over (very popular at Brazilian gyms).
-**Açaí superbowl (modern fitness variant):** add a scoop of protein powder to the blend; top with seeds and nuts.
-**Açaí with sliced mango and passion fruit:** swap the strawberries for tropical fruit, Brazilian tropical variant.
-**Vegan açaí:** skip the condensed milk; use maple syrup or agave.
-**Açaí milkshake:** add more liquid (200 ml) to make a thick drinkable shake instead of a bowl.
-**Frozen açaí pop:** make the base; freeze in popsicle moulds. Brazilian summer kids' treat.
-**Açaí with Nutella:** drizzle Nutella over the top, modern dessert variant.
-**Açaí com tapioca pearls:** add boba/tapioca pearls, Brazilian-Asian fusion bowl.
+- **Classic Brazilian açaí com banana e granola:** the traditional setup described above.
+- **Açaí na tigela com leite condensado:** the Rio favourite, with extra condensed milk drizzled generously.
+- **Açaí with peanut butter:** drizzle natural peanut butter over (very popular at Brazilian gyms).
+- **Açaí superbowl (modern fitness variant):** add a scoop of protein powder to the blend; top with seeds and nuts.
+- **Açaí with sliced mango and passion fruit:** swap the strawberries for tropical fruit, Brazilian tropical variant.
+- **Vegan açaí:** skip the condensed milk; use maple syrup or agave.
+- **Açaí milkshake:** add more liquid (200 ml) to make a thick drinkable shake instead of a bowl.
+- **Frozen açaí pop:** make the base; freeze in popsicle moulds. Brazilian summer kids' treat.
+- **Açaí with Nutella:** drizzle Nutella over the top, modern dessert variant.
+- **Açaí com tapioca pearls:** add boba/tapioca pearls, Brazilian-Asian fusion bowl.
 
 ## Serving
-At a Rio de Janeiro beach kiosk (the traditional setting) · at a São Paulo "fitness-Brazilian" café · at a Brazilian gym's post-workout bar · as a Brazilian summer breakfast · at a Brazilian beach-side lunch (in 35°C heat) · at a Brazilian-themed café anywhere worldwide · at home for a healthy weekend breakfast.
+- At a Rio de Janeiro beach kiosk (the traditional setting) · at a São Paulo "fitness-Brazilian" café · at a Brazilian gym's post-workout bar · as a Brazilian summer breakfast · at a Brazilian beach-side lunch (in 35°C heat) · at a Brazilian-themed café anywhere worldwide · at home for a healthy weekend breakfast.
 
 ## Storage
 - Eat fresh; the texture is best within 15 minutes of blending.

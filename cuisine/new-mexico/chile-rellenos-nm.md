@@ -87,13 +87,13 @@ New Mexico chile rellenos are a New Mexican variation on the wider Mexican chile
 - **Cheese on top melted:** finish.
 
 ## Variations
-**Christmas style:** half red, half green sauce on the same plate.
-**With chicken or beef:** add shredded meat with cheese filling.
-**Baked instead of fried:** brush with oil; bake at 220°C for 15 min.
-**Vegan:** swap cheese for cashew-based "queso".
+- **Christmas style:** half red, half green sauce on the same plate.
+- **With chicken or beef:** add shredded meat with cheese filling.
+- **Baked instead of fried:** brush with oil; bake at 220°C for 15 min.
+- **Vegan:** swap cheese for cashew-based "queso".
 
 ## Serving
-With NM rice, pinto beans, warm flour tortillas. NM beer.
+- With NM rice, pinto beans, warm flour tortillas. NM beer.
 
 ## Storage
 - Best eaten immediately.

@@ -42,14 +42,14 @@ Sutlijaš (from Turkish "sütlaç") is North Macedonia's classic rice pudding, a
 - **Thicker as it cools:** factor in.
 
 ## Variations
-**With cardamom:** add 4 crushed pods.
-**With raisins:** stir in 60 g at the end.
-**With rose water:** add 1 teaspoon at the end, Levantine variant.
-**Chocolate sutlijaš:** stir in 60 g dark chocolate at the end.
-**Caramelised top (brûlée):** sprinkle sugar; torch.
+- **With cardamom:** add 4 crushed pods.
+- **With raisins:** stir in 60 g at the end.
+- **With rose water:** add 1 teaspoon at the end, Levantine variant.
+- **Chocolate sutlijaš:** stir in 60 g dark chocolate at the end.
+- **Caramelised top (brûlée):** sprinkle sugar; torch.
 
 ## Serving
-At a Macedonian family Sunday dessert · at a Macedonian wedding · with strong coffee · at home as a comfort dessert.
+- At a Macedonian family Sunday dessert · at a Macedonian wedding · with strong coffee · at home as a comfort dessert.
 
 ## Storage
 Refrigerates 4 days. Don't freeze.

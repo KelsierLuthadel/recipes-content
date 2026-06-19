@@ -50,7 +50,7 @@ Cassava (also called yuca or manioc) is the other major Pacific tuber alongside 
 - **The woody core:** The central fibrous string in cassava stays tough even after cooking. Pull it out after par-boiling - the chips fry more evenly without it.
 
 ## Serving
-Serve hot from the fryer. Excellent with kokoda, grilled fish or chicken, or alongside a cold beer.
+- Serve hot from the fryer. Excellent with kokoda, grilled fish or chicken, or alongside a cold beer.
 
 ## Storage
 - Best the same day. Cold cassava chips lose their crunch.

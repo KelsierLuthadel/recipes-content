@@ -87,7 +87,7 @@ Dobos torte is the Hungarian patisserie showpiece: six paper-thin sponge discs -
 - **Make ahead:** The whole cake holds 3 days refrigerated; the caramel softens slightly after 24 hours but the cake itself is at its best on day 2.
 
 ## Serving
-Serve cold from the fridge, sliced along the caramel wedge lines, with strong black coffee.
+- Serve cold from the fridge, sliced along the caramel wedge lines, with strong black coffee.
 
 ## Storage
 - 3 days refrigerated, covered.

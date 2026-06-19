@@ -67,12 +67,12 @@ Lángos is the Hungarian deep-fried bread, a yeasted potato dough stretched thin
 - **Eat hot:** Lángos goes leathery within 15 minutes. Time it so people are at the table.
 
 ## Variations
-**Sajtos-tejfölös (classic):** As above, sour cream and cheese.
-**Fokhagymás (plain garlic):** Garlic rub only, no toppings. The original.
-**Pizza-style (modern):** Tomato sauce, ham, cheese, sour cream. Common at Lake Balaton stalls; purists object.
+- **Sajtos-tejfölös (classic):** As above, sour cream and cheese.
+- **Fokhagymás (plain garlic):** Garlic rub only, no toppings. The original.
+- **Pizza-style (modern):** Tomato sauce, ham, cheese, sour cream. Common at Lake Balaton stalls; purists object.
 
 ## Serving
-Eat hot, by hand, ideally outdoors with a cold beer or a glass of fröccs (white wine with soda).
+- Eat hot, by hand, ideally outdoors with a cold beer or a glass of fröccs (white wine with soda).
 
 ## Storage
 - Best eaten within 30 minutes of frying.

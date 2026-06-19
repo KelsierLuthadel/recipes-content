@@ -60,13 +60,13 @@ The Cajun classic invented by Paul Prudhomme in his New Orleans kitchen in the 1
 - **Oil temperature:** Keep the pan hot enough that the spices blacken quickly but not so hot that the butter burns. Medium-high is ideal.
 
 ## Variations
-**Blackened fish:** Use firm white fish fillets or salmon; reduce pan-searing to 2-3 minutes per side
-**Extra spicy:** Increase cayenne pepper to 1 teaspoon for more heat
-**Milder version:** Reduce salt to 1 ½ teaspoons and cayenne to ¼ teaspoon
-**Dry rub ahead:** Mix the spice blend in advance and store in an airtight container for up to 3 months
+- **Blackened fish:** Use firm white fish fillets or salmon; reduce pan-searing to 2-3 minutes per side
+- **Extra spicy:** Increase cayenne pepper to 1 teaspoon for more heat
+- **Milder version:** Reduce salt to 1 ½ teaspoons and cayenne to ¼ teaspoon
+- **Dry rub ahead:** Mix the spice blend in advance and store in an airtight container for up to 3 months
 
 ## Serving
-Serve with: Caesar salad, coleslaw, club sandwich filling, rice pilaf, or roasted vegetables. A squeeze of fresh lemon brightens the dish.
+- Serve with: Caesar salad, coleslaw, club sandwich filling, rice pilaf, or roasted vegetables. A squeeze of fresh lemon brightens the dish.
 
 ## Storage
 - Keeps 2 days refrigerated

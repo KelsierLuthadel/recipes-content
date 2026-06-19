@@ -93,7 +93,7 @@ This is the citrus-charged version of lemon meringue pie, with both lemon and or
 - The cornflour in the meringue stabilizes it and adds a pleasant subtle sweetness; it also helps create the characteristic crispy-edged, soft-centered texture
 
 ## Serving
-Serve the pie warm or at room temperature, cutting into generous slices. The contrast between the caramelized, crackling meringue exterior and the soft, white interior, combined with the silky filling and crumbly pastry, creates the ultimate sensory experience. Serve with a dollop of whipped cream if desired.
+- Serve the pie warm or at room temperature, cutting into generous slices. The contrast between the caramelized, crackling meringue exterior and the soft, white interior, combined with the silky filling and crumbly pastry, creates the ultimate sensory experience. Serve with a dollop of whipped cream if desired.
 
 ## Storage
 The pastry dough can be made 2-3 days ahead and refrigerated, or frozen for up to 2 weeks. The baked pastry shell can be made the day before and kept in an airtight container at room temperature. The curd filling can be made the day before and refrigerated until assembly. Assemble and serve the same day; the meringue begins to soften and weep after several hours.

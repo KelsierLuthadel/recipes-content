@@ -50,8 +50,8 @@
 **[Variation name]:** [Description and substitutions]
 
 ## Serving
-Serve with: [Recommended accompaniments, rice, bread, salads, etc.]
-Garnish with: [Optional garnishes]
+- Serve with: [Recommended accompaniments, rice, bread, salads, etc.]
+- Garnish with: [Optional garnishes]
 
 ## Storage
 - Keeps [X days] refrigerated

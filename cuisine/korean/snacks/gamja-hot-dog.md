@@ -97,15 +97,15 @@ The Korean corn dog (gamja hot dog, or "potato hot dog") is a viral Seoul street
 - **High heat (175°C):** if too low, the batter absorbs oil and goes greasy; if too hot, the sugar burns before the inside warms.
 
 ## Variations
-**All cheese (mozzarella-only):** for the iconic Korean cheese-pull video version.
-**Half-and-half:** the most popular Korean stall version, half hot dog, half cheese.
-**Ramyeon-crusted:** swap the potato cubes for crushed Korean instant noodles for a different crunch.
-**Spicy gochujang sauce:** drizzle gochujang-mayo over instead of ketchup-mustard.
-**With Cheetos crust:** crushed Cheetos instead of potato (a meme variant that actually works).
-**Sweet-only (no meat):** wrap a banana or sweet potato chunk in batter instead of a hot dog.
+- **All cheese (mozzarella-only):** for the iconic Korean cheese-pull video version.
+- **Half-and-half:** the most popular Korean stall version, half hot dog, half cheese.
+- **Ramyeon-crusted:** swap the potato cubes for crushed Korean instant noodles for a different crunch.
+- **Spicy gochujang sauce:** drizzle gochujang-mayo over instead of ketchup-mustard.
+- **With Cheetos crust:** crushed Cheetos instead of potato (a meme variant that actually works).
+- **Sweet-only (no meat):** wrap a banana or sweet potato chunk in batter instead of a hot dog.
 
 ## Serving
-At a Korean street-food stall in Myeongdong, Seoul. At a Koreatown food court. At home as a party showstopper.
+- At a Korean street-food stall in Myeongdong, Seoul. At a Koreatown food court. At home as a party showstopper.
 
 ## Storage
 - Best immediately.

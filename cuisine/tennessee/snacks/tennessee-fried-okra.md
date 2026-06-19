@@ -74,13 +74,13 @@ Tennessee fried okra is a classic Southern-Tennessee summer vegetable dish: fres
 - **Eat immediately:** lose crispness.
 
 ## Variations
-**With pickle:** brine okra in pickle juice 1 hour first.
-**Spicier:** double cayenne.
-**Whole pods:** fry whole; longer cook time.
-**Air-fried:** less traditional but lower fat.
+- **With pickle:** brine okra in pickle juice 1 hour first.
+- **Spicier:** double cayenne.
+- **Whole pods:** fry whole; longer cook time.
+- **Air-fried:** less traditional but lower fat.
 
 ## Serving
-Alongside BBQ, fried chicken, catfish.
+- Alongside BBQ, fried chicken, catfish.
 
 ## Storage
 - Best immediately.

@@ -56,13 +56,13 @@ Salsa roja Mexicana is the foundational Mexican red salsa and one of the most pe
 - **Eat within a few days.**
 
 ## Variations
-**Smokier (salsa molcajeteada):** crush in a molcajete (Mexican stone mortar) instead of blending; gives a coarser more rustic texture.
-**Spicier:** double the chillies; add 2 chiles de árbol (dried small red chillies, briefly toasted).
-**With chipotle:** add 1-2 chipotles in adobo; gives a smoky depth.
-**Fresh-blended salsa cruda:** skip the charring; just blend raw vegetables; closer to pico de gallo.
+- **Smokier (salsa molcajeteada):** crush in a molcajete (Mexican stone mortar) instead of blending; gives a coarser more rustic texture.
+- **Spicier:** double the chillies; add 2 chiles de árbol (dried small red chillies, briefly toasted).
+- **With chipotle:** add 1-2 chipotles in adobo; gives a smoky depth.
+- **Fresh-blended salsa cruda:** skip the charring; just blend raw vegetables; closer to pico de gallo.
 
 ## Serving
-With everything Mexican: tacos, tostadas, scrambled eggs, beans, rice, chips for dipping. As a table condiment.
+- With everything Mexican: tacos, tostadas, scrambled eggs, beans, rice, chips for dipping. As a table condiment.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens after 24 hours.

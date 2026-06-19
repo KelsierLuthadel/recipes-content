@@ -98,13 +98,13 @@ Pelmeni are Russia's most iconic dumplings and the traditional Siberian winter f
 - **Don't crowd the pot:** boil in batches. Overcrowding drops the water temperature, gives uneven cooking and sticking.
 
 ## Variations
-**Pelmeni with broth:** instead of butter-and-sour-cream, serve the pelmeni in their cooking broth (well-salted, with a bay leaf and a few peppercorns), garnished with dill and pepper. Common Siberian style.
-**Lamb pelmeni:** use 600 g of minced lamb instead of the beef-pork mix; add 1 teaspoon of ground cumin to the filling. Common in the Caucasus and central Asia.
-**Cabbage and meat pelmeni:** mix 100 g of finely chopped sauerkraut into the filling; common Ural Russian variation.
-**Fish pelmeni:** swap the meat for 600 g of minced white fish (pike, cod) with a small amount of butter and dill in the filling; Siberian river-fish variation.
+- **Pelmeni with broth:** instead of butter-and-sour-cream, serve the pelmeni in their cooking broth (well-salted, with a bay leaf and a few peppercorns), garnished with dill and pepper. Common Siberian style.
+- **Lamb pelmeni:** use 600 g of minced lamb instead of the beef-pork mix; add 1 teaspoon of ground cumin to the filling. Common in the Caucasus and central Asia.
+- **Cabbage and meat pelmeni:** mix 100 g of finely chopped sauerkraut into the filling; common Ural Russian variation.
+- **Fish pelmeni:** swap the meat for 600 g of minced white fish (pike, cod) with a small amount of butter and dill in the filling; Siberian river-fish variation.
 
 ## Serving
-In warm bowls with the butter, sour cream and dill. As a main course, 8-10 per person. As a starter, 5-6 per person. A small glass of cold vodka alongside is the traditional Russian winter pairing; for non-vodka diners, kvass (the fermented rye drink) or cold beer.
+- In warm bowls with the butter, sour cream and dill. As a main course, 8-10 per person. As a starter, 5-6 per person. A small glass of cold vodka alongside is the traditional Russian winter pairing; for non-vodka diners, kvass (the fermented rye drink) or cold beer.
 
 ## Storage
 - Cooked pelmeni keep refrigerated 2 days; reheat gently in butter in a frying pan, or briefly in the microwave.

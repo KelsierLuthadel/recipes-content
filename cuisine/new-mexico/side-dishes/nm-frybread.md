@@ -65,12 +65,12 @@ New Mexico frybread (also Navajo frybread) is one of the most iconic Native Amer
 - **Don't overcrowd the fryer.**
 
 ## Variations
-**Navajo taco:** top with beef-and-bean filling + lettuce + cheese.
-**With honey and powdered sugar:** the dessert version.
-**Smaller portions:** mini frybread for canapés.
+- **Navajo taco:** top with beef-and-bean filling + lettuce + cheese.
+- **With honey and powdered sugar:** the dessert version.
+- **Smaller portions:** mini frybread for canapés.
 
 ## Serving
-At Pueblo feast days, Navajo gatherings, NM state fair. With honey or savoury fillings.
+- At Pueblo feast days, Navajo gatherings, NM state fair. With honey or savoury fillings.
 
 ## Storage
 - Best immediately.

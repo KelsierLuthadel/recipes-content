@@ -40,15 +40,15 @@ Rakija (the generic Balkan term for fruit brandy) is North Macedonia's national 
 - **Live the meze tradition:** with cheese and cured meat.
 
 ## Variations
-**Slivova rakija:** the traditional plum brandy.
-**Lozova rakija:** grape brandy.
-**Dunkina rakija:** quince brandy.
-**Mastika:** anise-flavoured rakija.
-**Pelinkovac:** rakija with wormwood, the bitter Macedonian aperitif.
-**Honey rakija:** rakija with honey.
+- **Slivova rakija:** the traditional plum brandy.
+- **Lozova rakija:** grape brandy.
+- **Dunkina rakija:** quince brandy.
+- **Mastika:** anise-flavoured rakija.
+- **Pelinkovac:** rakija with wormwood, the bitter Macedonian aperitif.
+- **Honey rakija:** rakija with honey.
 
 ## Serving
-Before every Macedonian meal (aperitif, the traditional setting) · after every Macedonian meal (digestif) · with cheese and cured meat as meze · at a Macedonian wedding · as a Macedonian guest welcome · at home for visitors.
+- Before every Macedonian meal (aperitif, the traditional setting) · after every Macedonian meal (digestif) · with cheese and cured meat as meze · at a Macedonian wedding · as a Macedonian guest welcome · at home for visitors.
 
 ## Storage
 Bottles keep indefinitely. Don't refrigerate (mutes the aromas). Once opened, drink within 2 years.

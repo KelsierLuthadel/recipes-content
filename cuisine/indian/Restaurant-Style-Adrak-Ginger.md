@@ -101,9 +101,9 @@ Use the freshest ginger you can get. Older, fibrous ginger turns stringy in the 
 ---
 
 ## Serving
-Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) and a piece of naan or chapati. A side of cooling raita balances the ginger pungency. A pinch of nigella seeds on top of the rice pairs particularly well with the ginger-pineapple combination.
+- Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) and a piece of naan or chapati. A side of cooling raita balances the ginger pungency. A pinch of nigella seeds on top of the rice pairs particularly well with the ginger-pineapple combination.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The ginger softens overnight as it absorbs sauce; flavours round out by day two. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth.

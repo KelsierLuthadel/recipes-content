@@ -71,9 +71,9 @@ BIR kashmiri chicken is the restaurant's aromatic mild curry, named for the Kash
 - **Spice heat:** Increase Kashmiri chilli powder or add fresh chillies for more heat.
 
 ## Serving
-Serve with: Basmati rice, naan, or paratha
-Garnish with: Fresh coriander and optional toasted flaked almonds
-Accompaniment: Raita or pickled onions
+- Serve with: Basmati rice, naan, or paratha
+- Garnish with: Fresh coriander and optional toasted flaked almonds
+- Accompaniment: Raita or pickled onions
 
 ## Storage
 - Refrigerate up to 2-3 days in an airtight container.

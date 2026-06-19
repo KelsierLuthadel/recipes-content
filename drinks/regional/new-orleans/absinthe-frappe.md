@@ -52,7 +52,7 @@ A note: absinthe in the USA was banned in 1912 and not relegalised until 2007. D
 - **With Peychaud's:** add 2 dashes of Peychaud's bitters before topping up with soda. A modern bartender's tweak.
 
 ## Serving
-A single glass, sipped slowly. The drink is mildly licorice-forward and refreshing on a warm New Orleans afternoon. Best ordered at the Old Absinthe House if you're in NOLA; otherwise on a warm evening at home.
+- A single glass, sipped slowly. The drink is mildly licorice-forward and refreshing on a warm New Orleans afternoon. Best ordered at the Old Absinthe House if you're in NOLA; otherwise on a warm evening at home.
 
 ## Storage
 The drink does not keep; it is built to order. Absinthe and Herbsaint last indefinitely in the bottle. Anisette keeps a year refrigerated after opening; it can dry out and crystallise over longer storage.

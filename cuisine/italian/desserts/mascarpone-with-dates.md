@@ -34,7 +34,7 @@ One of those desserts that takes ten minutes and looks like you spent the aftern
 - The candied citrus peel adds beautiful color and textural contrast; grapefruit peel has particularly elegant bitter-sweet flavor
 
 ## Serving
-Shape and place the mascarpone quenelle on the plate, scatter reserved candied fruit and date pieces decoratively, and pour a thin ring of crème anglaise around the base. Serve immediately, showing appreciation for the simplicity and quality of ingredients.
+- Shape and place the mascarpone quenelle on the plate, scatter reserved candied fruit and date pieces decoratively, and pour a thin ring of crème anglaise around the base. Serve immediately, showing appreciation for the simplicity and quality of ingredients.
 
 ## Storage
 The mascarpone cream mixture can be prepared several hours ahead and kept refrigerated, covered. Shape and serve the quenelle no more than 20-30 minutes before serving to maintain its definition; warmer rooms cause it to soften and lose shape. The candied fruit and dates can be prepared 1 day ahead.

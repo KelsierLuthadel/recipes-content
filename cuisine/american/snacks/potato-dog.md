@@ -87,14 +87,14 @@ The potato dog is the American diner-counter and roadside food-truck answer to t
 - **Pile high:** the tower of fried vegetables IS the dish.
 
 ## Variations
-**With Italian sausage:** swap the hot dog for a sliced fried Italian sausage.
-**With cheese:** add a slice of melty provolone or American cheese under the topping.
-**With chopped hot peppers:** add chopped pickled cherry peppers for heat.
-**Vegetarian:** swap the dog for a grilled portobello strip or a fried halloumi finger.
-**With chili:** add a ladle of beef chili under the potato mixture for a chili-potato hybrid.
+- **With Italian sausage:** swap the hot dog for a sliced fried Italian sausage.
+- **With cheese:** add a slice of melty provolone or American cheese under the topping.
+- **With chopped hot peppers:** add chopped pickled cherry peppers for heat.
+- **Vegetarian:** swap the dog for a grilled portobello strip or a fried halloumi finger.
+- **With chili:** add a ladle of beef chili under the potato mixture for a chili-potato hybrid.
 
 ## Serving
-At a New Jersey diner. At a Pennsylvania food truck. At home with cold beer.
+- At a New Jersey diner. At a Pennsylvania food truck. At home with cold beer.
 
 ## Storage
 - Potato-pepper-onion mixture refrigerates 3 days; reheat in a hot pan or oven to re-crisp.

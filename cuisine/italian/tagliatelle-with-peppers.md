@@ -58,14 +58,14 @@ Tagliatelle with peppers is the vibrant vegetarian Italian pasta, fresh peppers 
 - **Fresh Pasta Only:** Fresh tagliatelle is best here; dried pasta will have a coarser texture that doesn't complement delicate vegetables.
 
 ## Variations
-**Add Garlic:** Include 2 crushed garlic cloves in the oil before vegetables.
-**With Mushrooms:** Add 150 grams sliced button mushrooms with the peppers.
-**Spicier Heat:** Increase chilli flakes to 1 teaspoon for more kick.
-**Finish with Basil:** Tear fresh basil leaves over the finished dish just before serving.
+- **Add Garlic:** Include 2 crushed garlic cloves in the oil before vegetables.
+- **With Mushrooms:** Add 150 grams sliced button mushrooms with the peppers.
+- **Spicier Heat:** Increase chilli flakes to 1 teaspoon for more kick.
+- **Finish with Basil:** Tear fresh basil leaves over the finished dish just before serving.
 
 ## Serving
-Serve with: Crusty bread, chilled white wine (Pinot Grigio)
-Garnish with: Fresh thyme, cracked black pepper, grated Parmesan (optional)
+- Serve with: Crusty bread, chilled white wine (Pinot Grigio)
+- Garnish with: Fresh thyme, cracked black pepper, grated Parmesan (optional)
 
 ## Storage
 - Refrigerate leftovers in an airtight container for up to 2 days

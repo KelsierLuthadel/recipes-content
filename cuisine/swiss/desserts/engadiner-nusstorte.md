@@ -92,7 +92,7 @@ The Engadiner Nusstorte comes from the Engadin valley in Graubünden - the long 
 - **Keeps for a fortnight:** Wrapped tightly in foil at room temperature. The flavour actually improves after 2-3 days as the caramel mellows.
 
 ## Serving
-Serve in thin wedges with strong black coffee or espresso, or a small glass of Kirsch. The Engadin tradition is at 4pm with afternoon coffee.
+- Serve in thin wedges with strong black coffee or espresso, or a small glass of Kirsch. The Engadin tradition is at 4pm with afternoon coffee.
 
 ## Storage
 - Room temperature, tightly wrapped in foil, 2 weeks.

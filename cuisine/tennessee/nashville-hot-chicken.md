@@ -98,13 +98,13 @@ Nashville hot chicken is the city's most iconic dish and one of the great Americ
 - **Pickles on top:** the traditional pairing.
 
 ## Variations
-**Mild:** 1-2 tablespoons cayenne in the sauce.
-**XXX hot:** 8-10 tablespoons cayenne + 1 tablespoon ghost chilli powder.
-**Nashville hot chicken sandwich:** on a brioche bun with mayo, pickles, slaw.
-**Boneless:** chicken thighs only, no bone.
+- **Mild:** 1-2 tablespoons cayenne in the sauce.
+- **XXX hot:** 8-10 tablespoons cayenne + 1 tablespoon ghost chilli powder.
+- **Nashville hot chicken sandwich:** on a brioche bun with mayo, pickles, slaw.
+- **Boneless:** chicken thighs only, no bone.
 
 ## Serving
-At Prince's Hot Chicken Shack, Hattie B's, the Nashville canon. With white bread, pickles, beer.
+- At Prince's Hot Chicken Shack, Hattie B's, the Nashville canon. With white bread, pickles, beer.
 
 ## Storage
 - Best immediately.

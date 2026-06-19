@@ -54,7 +54,7 @@ This is the Alpine border-soup that crosses between France and Italy, beef broth
 - **Wine:** Choose a dry white wine that complements the beef stock.
 
 ## Serving
-Serve hot, sprinkled with extra freshly grated Parmesan.
+- Serve hot, sprinkled with extra freshly grated Parmesan.
 
 ## Storage
 - Best served immediately; soup base can be refrigerated for 2 days. Reheat gently and assemble fresh.

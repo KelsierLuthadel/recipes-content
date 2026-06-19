@@ -85,7 +85,7 @@ Recado rojo (the Guatemalan kind, not to be confused with the Yucatecan recado o
 - **Drier paste:** reduce on the heat further after frying for a tamal-stuffing consistency.
 
 ## Serving
-As the base of pepián, hilachas, tamales colorados, kak'ik · stirred into rice · spread on tortillas for tacos rápidos · simmered with chicken or pork
+- As the base of pepián, hilachas, tamales colorados, kak'ik · stirred into rice · spread on tortillas for tacos rápidos · simmered with chicken or pork
 
 ## Storage
 - Refrigerates 2 weeks in a sealed jar with a film of oil on top

@@ -67,7 +67,7 @@ Bourekas are the Israeli puff-pastry triangles, ready-rolled puff wrapped around
 - The filling sets sharply as it cools; bourekas keep best at room temperature, then refresh briefly in a hot oven.
 
 ## Serving
-On a wide platter at brunch, with the eggs/harissa/pickles arranged in small bowls so people can stuff their own. At a buffet alongside bowls of olives, hummus and salad. As a packed-lunch lunchbox item, they travel well.
+- On a wide platter at brunch, with the eggs/harissa/pickles arranged in small bowls so people can stuff their own. At a buffet alongside bowls of olives, hummus and salad. As a packed-lunch lunchbox item, they travel well.
 
 ## Storage
 At room temperature for up to 24 hours in a sealed tin. Refresh in a 180°C oven for 5 minutes to bring back the crisp. Freeze unbaked: prepare to the egg-wash stage, freeze on a tray, transfer to a bag; bake from frozen with 5 extra minutes.

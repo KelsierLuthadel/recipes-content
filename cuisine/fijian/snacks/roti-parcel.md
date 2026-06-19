@@ -88,7 +88,7 @@ The roti parcel is the Indo-Fijian working lunch: a soft flour roti, freshly coo
 - **Spicy version:** double the green chillies and add a teaspoon of crushed chilli flakes to the filling.
 
 ## Serving
-Serve wrapped in greaseproof paper · with a small pot of green chutney on the side · with sweet milky tea or a cold soft drink · at a Fijian bus stand · as a packed lunch · for a working day on the move.
+- Serve wrapped in greaseproof paper · with a small pot of green chutney on the side · with sweet milky tea or a cold soft drink · at a Fijian bus stand · as a packed lunch · for a working day on the move.
 
 ## Storage
 - Eat within 4 hours of making; the roti softens as the filling steams.

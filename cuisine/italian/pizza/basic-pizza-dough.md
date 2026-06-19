@@ -60,12 +60,12 @@ The dough that everything else hangs on, and the one to bookmark if you've never
 - **Floured baking paper:** A generous dusting on the paper means the topped pizza slides cleanly onto the hot stone without sticking.
 
 ## Variations
-**Sourdough version:** Replace the dried yeast with 100 grams of active sourdough starter and increase the cold prove to 24 hours.
-**Wholegrain blend:** Substitute up to 25 percent of the strong flour for wholemeal for a nuttier, denser base.
+- **Sourdough version:** Replace the dried yeast with 100 grams of active sourdough starter and increase the cold prove to 24 hours.
+- **Wholegrain blend:** Substitute up to 25 percent of the strong flour for wholemeal for a nuttier, denser base.
 
 ## Serving
-Serve with: Any of the topping recipes in this section, including [calabrese](calabrese.md), [margherita](margherita.md) and [meatball](meatball-pizza.md)
-Garnish with: Olive oil and flaky sea salt for the rim before baking
+- Serve with: Any of the topping recipes in this section, including [calabrese](calabrese.md), [margherita](margherita.md) and [meatball](meatball-pizza.md)
+- Garnish with: Olive oil and flaky sea salt for the rim before baking
 
 ## Storage
 - Shaped bases keep 1 day refrigerated under cling film; bring to room temperature before topping

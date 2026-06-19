@@ -64,7 +64,7 @@ Chorba frik is the soup that breaks the fast in Algeria. Through the whole month
 - **Make it ahead.** Chorba is better on day two when the spices have settled and the wheat has fully bloomed; loosen with water when reheating.
 
 ## Serving
-Serve at sundown during Ramadan after breaking the fast with a date and water. The rest of the year, eat as a starter or as a full meal with bread (kesra or baguette) and a small salad. Lemon wedges and a small pot of harissa for those who want heat.
+- Serve at sundown during Ramadan after breaking the fast with a date and water. The rest of the year, eat as a starter or as a full meal with bread (kesra or baguette) and a small salad. Lemon wedges and a small pot of harissa for those who want heat.
 
 ## Storage
 - Keeps 3 days refrigerated, thickening further overnight; loosen with water when reheating

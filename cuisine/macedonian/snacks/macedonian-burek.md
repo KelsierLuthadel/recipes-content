@@ -61,14 +61,14 @@ Burek (also spelled börek across the Turkish/Balkan world) is a beloved phyllo 
 - **Eat warm:** the cheese softens; the pastry crisp is at peak.
 
 ## Variations
-**Pumpkin burek (Tikvenik):** roasted pumpkin + sugar + cinnamon, sweet variant.
-**Spinach (Zeljanica):** as above.
-**Meat (Burek sa mesom):** minced lamb or beef + onion + spice.
-**Mixed cheese:** combine feta, ricotta, Kashkaval.
-**Vegan burek:** skip dairy; mushroom + walnut + leek filling.
+- **Pumpkin burek (Tikvenik):** roasted pumpkin + sugar + cinnamon, sweet variant.
+- **Spinach (Zeljanica):** as above.
+- **Meat (Burek sa mesom):** minced lamb or beef + onion + spice.
+- **Mixed cheese:** combine feta, ricotta, Kashkaval.
+- **Vegan burek:** skip dairy; mushroom + walnut + leek filling.
 
 ## Serving
-At every Macedonian breakfast (burekdžija traditional setting) · with ayran (yogurt drink) · at a Macedonian bus station · at home as a Sunday brunch.
+- At every Macedonian breakfast (burekdžija traditional setting) · with ayran (yogurt drink) · at a Macedonian bus station · at home as a Sunday brunch.
 
 ## Storage
 Best eaten warm same day. Refrigerates 2 days; reheat at 180°C for 8 minutes. Freezes (raw) 2 months.

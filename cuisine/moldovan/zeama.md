@@ -97,7 +97,7 @@ Zeamă is the soup every Moldovan grandmother makes on a Sunday and the lunch ev
 - **With a beaten egg:** stir in a beaten egg at the end for a richer soup (less traditional but common in cafés).
 
 ## Serving
-Hot in a deep bowl, with a spoon of cool sour cream stirred in at the table, a fresh small green chilli to bite between spoonfuls, and a slab of country bread for dipping. A glass of cold Fetească Albă on the side.
+- Hot in a deep bowl, with a spoon of cool sour cream stirred in at the table, a fresh small green chilli to bite between spoonfuls, and a slab of country bread for dipping. A glass of cold Fetească Albă on the side.
 
 ## Storage
 - Refrigerate up to 3 days; the noodles soften, so cook fresh noodles when reheating if possible.

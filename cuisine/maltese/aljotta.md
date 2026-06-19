@@ -73,14 +73,14 @@ Aljotta (the name derives from "all'aglio", Italian for "with garlic") is one of
 - **Day-fresh fish:** the dish was designed to use the day's catch.
 
 ## Variations
-**With prawns:** add 200 g raw prawns alongside the fish.
-**With clams or mussels:** the seafood-rich version.
-**Light vegetable aljotta:** for Lent, skip the fish; double the rice + add chickpeas.
-**With egg:** crack 4 eggs into the simmering broth in the last 3 minutes, poached-in-the-soup version.
-**Spicy aljotta:** add 2 chopped chillies + 1 teaspoon harissa.
+- **With prawns:** add 200 g raw prawns alongside the fish.
+- **With clams or mussels:** the seafood-rich version.
+- **Light vegetable aljotta:** for Lent, skip the fish; double the rice + add chickpeas.
+- **With egg:** crack 4 eggs into the simmering broth in the last 3 minutes, poached-in-the-soup version.
+- **Spicy aljotta:** add 2 chopped chillies + 1 teaspoon harissa.
 
 ## Serving
-At a Maltese Friday dinner (traditional Catholic fasting tradition) · during Lent (the traditional Lenten soup) · at a Maltese fishing-village restaurant · at home as a light weeknight supper · with crusty bread for soaking up the broth.
+- At a Maltese Friday dinner (traditional Catholic fasting tradition) · during Lent (the traditional Lenten soup) · at a Maltese fishing-village restaurant · at home as a light weeknight supper · with crusty bread for soaking up the broth.
 
 ## Storage
 - Refrigerates 2 days; the rice absorbs broth so add liquid when reheating.

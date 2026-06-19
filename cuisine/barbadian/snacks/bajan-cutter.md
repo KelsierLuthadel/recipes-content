@@ -107,16 +107,16 @@ The Bajan cutter is THE Bajan sandwich, so identity-defining that "let's get a c
 - **One cutter per person is a snack; two is a lunch:** the typical Bajan workman's lunch is 2-3 cutters.
 
 ## Variations
-**Salt-bread cutter (the bread on its own):** for a no-filling option, just hot salt-bread with butter; the traditional Bajan tea-time bread.
-**Bajan flying-fish cutter:** a small fried flying fish fillet in the roll instead of fish cakes, the Oistins fish fry version.
-**Salt-bread breakfast cutter:** fried egg + sliced cheese + a slice of Bajan ham, the breakfast variant.
-**Loaf-bread cutter (alternative):** if you can't find rolls, use slices from a fresh Bajan loaf, less authentic but works.
-**Pholourie cutter (Indo-Caribbean fusion):** swap the fish cake for 2 Trinidadian pholourie split-pea fritters, the modern Caribbean variant.
-**Chicken cutter:** swap any filling for thin slices of Bajan stew chicken or fried chicken, the popular variant for kids.
-**Vegan cutter:** swap meat fillings for grilled vegetables (mushroom, courgette, sweet pepper) + Bajan pepper sauce.
+- **Salt-bread cutter (the bread on its own):** for a no-filling option, just hot salt-bread with butter; the traditional Bajan tea-time bread.
+- **Bajan flying-fish cutter:** a small fried flying fish fillet in the roll instead of fish cakes, the Oistins fish fry version.
+- **Salt-bread breakfast cutter:** fried egg + sliced cheese + a slice of Bajan ham, the breakfast variant.
+- **Loaf-bread cutter (alternative):** if you can't find rolls, use slices from a fresh Bajan loaf, less authentic but works.
+- **Pholourie cutter (Indo-Caribbean fusion):** swap the fish cake for 2 Trinidadian pholourie split-pea fritters, the modern Caribbean variant.
+- **Chicken cutter:** swap any filling for thin slices of Bajan stew chicken or fried chicken, the popular variant for kids.
+- **Vegan cutter:** swap meat fillings for grilled vegetables (mushroom, courgette, sweet pepper) + Bajan pepper sauce.
 
 ## Serving
-At a Bajan rum-shop (the traditional setting; sold by the dozen) · at a Bajan beach snack stand · at the Oistins Friday-night fish fry · at a Bajan working-day lunch from a corner shop · at a Bajan church social · at a Bajan family lunch · at home as a quick afternoon snack · paired with cold Banks lager, Bajan rum punch, or a glass of cold mauby.
+- At a Bajan rum-shop (the traditional setting; sold by the dozen) · at a Bajan beach snack stand · at the Oistins Friday-night fish fry · at a Bajan working-day lunch from a corner shop · at a Bajan church social · at a Bajan family lunch · at home as a quick afternoon snack · paired with cold Banks lager, Bajan rum punch, or a glass of cold mauby.
 
 ## Storage
 - Cutters are assembled fresh; don't refrigerate assembled cutters (the bread goes soggy).

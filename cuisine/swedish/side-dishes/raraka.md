@@ -78,14 +78,14 @@ Råraka (literally "raw-grated") is Sweden's potato-pancake tradition and a fixt
 - **Loose patties:** don't compress into hockey-pucks. Loose texture = crispy with airy inside.
 
 ## Variations
-**Råraka med löjrom (with bleak roe):** the Stockholm bistro deluxe version, top each pancake with a generous spoon of bleak roe and a wedge of red onion. Eat with chilled vodka or champagne.
-**With smoked salmon and crème fraîche:** smoked salmon and a dollop of crème fraîche; a luxurious brunch version.
-**Vegetarian / vegan:** swap the butter for olive oil and the sour cream for a cashew cream.
-**With horseradish cream:** instead of sour cream; a sharper hit.
-**Mini cocktail-sized:** smaller patties (5 cm) for canapés at a Swedish-themed cocktail party.
+- **Råraka med löjrom (with bleak roe):** the Stockholm bistro deluxe version, top each pancake with a generous spoon of bleak roe and a wedge of red onion. Eat with chilled vodka or champagne.
+- **With smoked salmon and crème fraîche:** smoked salmon and a dollop of crème fraîche; a luxurious brunch version.
+- **Vegetarian / vegan:** swap the butter for olive oil and the sour cream for a cashew cream.
+- **With horseradish cream:** instead of sour cream; a sharper hit.
+- **Mini cocktail-sized:** smaller patties (5 cm) for canapés at a Swedish-themed cocktail party.
 
 ## Serving
-At a Stockholm bistro for lunch · alongside meatballs as a side · at a Swedish brunch with smoked salmon · at a smörgåsbord as a hot dish · at home with sour cream and lingonberry.
+- At a Stockholm bistro for lunch · alongside meatballs as a side · at a Swedish brunch with smoked salmon · at a smörgåsbord as a hot dish · at home with sour cream and lingonberry.
 
 ## Storage
 - Best fresh from the pan.

@@ -55,7 +55,7 @@ This is the late-summer French tomato tart, a rustic-elegant assembly of slow-ro
 - **Room temperature serving:** Essential for full flavour; cold temperatures mute tomato taste and basil aromatics.
 
 ## Serving
-Serve at room temperature as a vegetarian main course or elegant side dish. Pairs beautifully with fresh chèvre or mozzarella and a crisp sauvignon blanc.
+- Serve at room temperature as a vegetarian main course or elegant side dish. Pairs beautifully with fresh chèvre or mozzarella and a crisp sauvignon blanc.
 
 ## Storage
 - Best eaten the day of serving; do not refrigerate as cold temperatures diminish flavour significantly.

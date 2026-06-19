@@ -74,13 +74,13 @@ Tennessee whiskey BBQ sauce is the Tennessee twist on the wider American BBQ sau
 - **Balance sweet-tangy-smoky.**
 
 ## Variations
-**Spicier:** double cayenne + extra hot sauce.
-**Sweeter:** double brown sugar.
-**Without whiskey (kid-friendly):** add 1 teaspoon vanilla + 1 teaspoon liquid smoke.
-**With bourbon:** for a Kentucky version (different oak profile).
+- **Spicier:** double cayenne + extra hot sauce.
+- **Sweeter:** double brown sugar.
+- **Without whiskey (kid-friendly):** add 1 teaspoon vanilla + 1 teaspoon liquid smoke.
+- **With bourbon:** for a Kentucky version (different oak profile).
 
 ## Serving
-On every Tennessee BBQ table.
+- On every Tennessee BBQ table.
 
 ## Storage
 - Refrigerated 1 month.

@@ -91,9 +91,9 @@ The base build follows standard BIR practice. Whole spices (cassia bark, cumin) 
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the sauce. A cooling raita and a wedge of lemon at the side round it out.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the sauce. A cooling raita and a wedge of lemon at the side round it out.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. Like most BIR curries the flavours settle and improve overnight. Reheat in a pan with a splash of water rather than the microwave to bring the sauce back without splitting the oil.

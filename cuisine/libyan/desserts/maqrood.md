@@ -79,7 +79,7 @@ Maqrood is shared across the Maghreb (Tunisia and Algeria have their own version
 - **Syrup temperature:** Warm syrup penetrates the hot pastry well; cold syrup sits on the surface; hot syrup over-soaks. Lukewarm is ideal.
 
 ## Serving
-Serve at room temperature with mint tea or Libyan coffee. The flavour deepens overnight as the syrup penetrates further.
+- Serve at room temperature with mint tea or Libyan coffee. The flavour deepens overnight as the syrup penetrates further.
 
 ## Storage
 - In an airtight tin at room temperature: 5-7 days. The pastry softens slightly as the syrup migrates through.

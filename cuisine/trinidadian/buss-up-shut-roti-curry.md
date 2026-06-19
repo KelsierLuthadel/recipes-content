@@ -87,12 +87,12 @@ Buss-up-shut, also called paratha roti, is the flaky-layered Trinidadian roti th
 - **Two spatulas, not hands:** the roti is too hot for hands. Two wooden spatulas, or one spatula and a clean cloth, work best.
 
 ## Variations
-**Dhalpuri filling:** Stuff each dough ball with a tablespoon of seasoned ground split-pea powder (see the Mauritian dholl puri for the technique) before the cone-and-coil step.
-**Sada roti:** Skip the oil-brushing and coiling for plain, thicker sada roti; cook longer per side.
-**Curry duck or curry chicken alongside:** Channa-aloo is the everyday roti shop pairing, but Trinidadian curry chicken or curry duck both work brilliantly.
+- **Dhalpuri filling:** Stuff each dough ball with a tablespoon of seasoned ground split-pea powder (see the Mauritian dholl puri for the technique) before the cone-and-coil step.
+- **Sada roti:** Skip the oil-brushing and coiling for plain, thicker sada roti; cook longer per side.
+- **Curry duck or curry chicken alongside:** Channa-aloo is the everyday roti shop pairing, but Trinidadian curry chicken or curry duck both work brilliantly.
 
 ## Serving
-Lay a buss-up-shut on each plate. Spoon the channa-aloo curry alongside (not on top; the roti is for scooping). A wedge of lime, a scatter of chadon beni or coriander, and a small dish of pepper sauce. Tear the roti by hand to scoop up the curry.
+- Lay a buss-up-shut on each plate. Spoon the channa-aloo curry alongside (not on top; the roti is for scooping). A wedge of lime, a scatter of chadon beni or coriander, and a small dish of pepper sauce. Tear the roti by hand to scoop up the curry.
 
 ## Storage
 - Roti is best eaten fresh from the cloth. Will keep soft 3-4 hours wrapped.

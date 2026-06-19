@@ -61,7 +61,7 @@ Kupus salata is what happens in Serbian kitchens between November and April when
 - **Lemon instead of vinegar.** Replace the vinegar with the juice of one lemon for a brighter, less Balkan version.
 
 ## Serving
-In a wide bowl on the table next to grilled meat · piled alongside sarma · with pork roast and roast potatoes · with bean stew · with anything fried · refilled when empty
+- In a wide bowl on the table next to grilled meat · piled alongside sarma · with pork roast and roast potatoes · with bean stew · with anything fried · refilled when empty
 
 ## Storage
 - Improves on day two; keeps 4 days refrigerated, sealed

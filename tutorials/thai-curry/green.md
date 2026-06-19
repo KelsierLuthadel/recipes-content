@@ -110,15 +110,15 @@ Over-cooked. The chlorophyll in the chillies degrades with heat. Cook fast; pull
 
 ## Variations
 
-**Chicken Green Curry (the standard).** Use chicken thigh, cubed. 10 minutes' cook from paste-frying.
+- **Chicken Green Curry (the standard).** Use chicken thigh, cubed. 10 minutes' cook from paste-frying.
 
-**Prawn Green Curry.** Use peeled prawns. They go in late, cook in 60 seconds. The curry liquid takes their flavour.
+- **Prawn Green Curry.** Use peeled prawns. They go in late, cook in 60 seconds. The curry liquid takes their flavour.
 
-**Vegetable Green Curry.** Replace protein with firm tofu (pan-fried first) and double the vegetables. Add a tablespoon of soy sauce for umami.
+- **Vegetable Green Curry.** Replace protein with firm tofu (pan-fried first) and double the vegetables. Add a tablespoon of soy sauce for umami.
 
-**Beef Green Curry.** Thinly sliced sirloin. Don't cook long; medium rare in 30 seconds in the simmering coconut milk.
+- **Beef Green Curry.** Thinly sliced sirloin. Don't cook long; medium rare in 30 seconds in the simmering coconut milk.
 
-**Green Fish Curry.** Cubed firm white fish (sea bass, halibut). 90 seconds in the simmering curry.
+- **Green Fish Curry.** Cubed firm white fish (sea bass, halibut). 90 seconds in the simmering curry.
 
 ## Where Next
 - [Red Curry Paste](red.md): the second-most-popular Thai curry, with dried chillies.

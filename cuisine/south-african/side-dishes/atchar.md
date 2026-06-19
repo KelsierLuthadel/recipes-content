@@ -93,13 +93,13 @@ Atchar is South Africa's signature pickled condiment, brought to the country by 
 - **At least 1 week curing:** the atchar genuinely needs time. A freshly made atchar tastes like raw spices and salt-cured mango; properly cured atchar is unified, tangy and complex. Wait the week; don't be tempted to taste-test before then.
 
 ## Variations
-**Hot atchar:** double the chilli powder and use 10 hot chillies instead of 6; gives the proper fierce Durban-style atchar.
-**Carrot-and-mango atchar:** add 200 g of julienned carrot to the salted mango; the carrot adds colour and a slight sweetness. Common South African variation.
-**Lemon atchar:** swap the mango for whole baby lemons or limes (8-10, quartered and salted overnight); a Cape Malay variant.
-**Vegetable atchar:** mixed vegetables (carrot, cauliflower, green bean) salted and pickled the same way; the all-vegetable version, common at South African Indian shops.
+- **Hot atchar:** double the chilli powder and use 10 hot chillies instead of 6; gives the proper fierce Durban-style atchar.
+- **Carrot-and-mango atchar:** add 200 g of julienned carrot to the salted mango; the carrot adds colour and a slight sweetness. Common South African variation.
+- **Lemon atchar:** swap the mango for whole baby lemons or limes (8-10, quartered and salted overnight); a Cape Malay variant.
+- **Vegetable atchar:** mixed vegetables (carrot, cauliflower, green bean) salted and pickled the same way; the all-vegetable version, common at South African Indian shops.
 
 ## Serving
-A small spoonful on the side of almost any South African plate: with bunny chow (essential), inside vetkoek with savoury mince, on roti rolls, with pap and stew, inside cheese-and-tomato sandwiches, with a curry plate, on toast for breakfast. Just a small amount; atchar is intense.
+- A small spoonful on the side of almost any South African plate: with bunny chow (essential), inside vetkoek with savoury mince, on roti rolls, with pap and stew, inside cheese-and-tomato sandwiches, with a curry plate, on toast for breakfast. Just a small amount; atchar is intense.
 
 ## Storage
 - Keeps refrigerated 3-6 months in a sealed jar; the gentle fermentation continues slowly in the cold and the flavour deepens.

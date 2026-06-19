@@ -46,7 +46,7 @@ Irish soda bread is the no-knead bread every Irish farmhouse cook makes weekly, 
 - Best the day it is baked. Day-old soda bread is at its best toasted, the slight tang plays beautifully against melted butter and marmalade.
 
 ## Serving
-Hot from the oven, in thick wedges with cold salty butter. Alongside a steaming bowl of beef and Guinness stew, for the mopping. Toasted the next morning under salty butter and orange marmalade.
+- Hot from the oven, in thick wedges with cold salty butter. Alongside a steaming bowl of beef and Guinness stew, for the mopping. Toasted the next morning under salty butter and orange marmalade.
 
 ## Storage
 Wrapped in a clean tea towel at room temperature for 24 hours; in a sealed bag for 2 days. Freezes well sliced; toast straight from frozen.

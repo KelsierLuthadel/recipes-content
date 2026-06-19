@@ -127,19 +127,19 @@ Slice between the bones, each bone-and-meat slice is one portion. Serve simply: 
 
 ### Memphis Dry-Rub Ribs
 
-Skip the sauce phase. After the 2-hour wrap, return the ribs to the smoker unwrapped for the last hour but instead of sauce, sprinkle with a second light dusting of Memphis dry rub. The finishing dust adds a fresh hit of seasoning that complements the bark.
+- Skip the sauce phase. After the 2-hour wrap, return the ribs to the smoker unwrapped for the last hour but instead of sauce, sprinkle with a second light dusting of Memphis dry rub. The finishing dust adds a fresh hit of seasoning that complements the bark.
 
 ### Kansas City Sweet-Sauce Ribs
 
-Apply Kansas City sauce twice during the sauce phase: at the start (the sugar in the sauce caramelises over the hour), and at the end (a fresh coat for serving). The result is glossy, sticky, sweet.
+- Apply Kansas City sauce twice during the sauce phase: at the start (the sugar in the sauce caramelises over the hour), and at the end (a fresh coat for serving). The result is glossy, sticky, sweet.
 
 ### Korean-style Short Ribs (Kalbi)
 
-Beef short ribs marinated in soy, sugar, garlic, sesame, ginger, then grilled over high heat 3-5 minutes per side. NOT a low-and-slow cook; cross-references the [Stir Fry](../stir-fry/stir-fry.md) tutorial.
+- Beef short ribs marinated in soy, sugar, garlic, sesame, ginger, then grilled over high heat 3-5 minutes per side. NOT a low-and-slow cook; cross-references the [Stir Fry](../stir-fry/stir-fry.md) tutorial.
 
 ### Sticky Pork Ribs (Asian-inflected)
 
-Mid-cook (after the wrap), substitute soy + brown sugar + ginger + garlic + rice vinegar for the BBQ sauce. The result is closer to Char Siu, a Chinese-style sticky pork rib rather than American BBQ.
+- Mid-cook (after the wrap), substitute soy + brown sugar + ginger + garlic + rice vinegar for the BBQ sauce. The result is closer to Char Siu, a Chinese-style sticky pork rib rather than American BBQ.
 
 ## Serving
 

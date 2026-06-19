@@ -86,17 +86,17 @@ Pão de queijo (literally "bread of cheese") is Brazil's most universally belove
 - **Eat warm:** pão de queijo's magic is the contrast between the crisp shell and the stretchy interior. Cold pão de queijo loses this entirely.
 
 ## Variations
-**Pão de queijo com chia e linhaça (modern healthy variant):** add 2 tablespoons each of chia and linseed to the dough.
-**Pão de queijo de tomate e manjericão:** add 2 tablespoons of tomato paste + chopped basil to the dough, Italian-Brazilian variant.
-**Pão de queijo recheado (stuffed):** form into small discs, place a cube of mozzarella in the centre, close up, discover-the-cheese version.
-**Pão de queijo doce (sweet):** swap savoury cheese for cream cheese + add 50 g sugar + ½ teaspoon cinnamon, modern dessert variant.
-**Pão de queijo de presunto (with ham):** add 60 g finely diced ham, savoury filling.
-**Pão de queijo de bacon:** add 60 g finely diced cooked bacon, smoky variant.
-**Mini pão de queijo:** smaller rolls (1.5 cm balls) for cocktail parties, same recipe, smaller portions.
-**Pão de queijo de massa preta (black cheese bread):** add 30 g charcoal powder for visual drama, modern dessert-bar variant.
+- **Pão de queijo com chia e linhaça (modern healthy variant):** add 2 tablespoons each of chia and linseed to the dough.
+- **Pão de queijo de tomate e manjericão:** add 2 tablespoons of tomato paste + chopped basil to the dough, Italian-Brazilian variant.
+- **Pão de queijo recheado (stuffed):** form into small discs, place a cube of mozzarella in the centre, close up, discover-the-cheese version.
+- **Pão de queijo doce (sweet):** swap savoury cheese for cream cheese + add 50 g sugar + ½ teaspoon cinnamon, modern dessert variant.
+- **Pão de queijo de presunto (with ham):** add 60 g finely diced ham, savoury filling.
+- **Pão de queijo de bacon:** add 60 g finely diced cooked bacon, smoky variant.
+- **Mini pão de queijo:** smaller rolls (1.5 cm balls) for cocktail parties, same recipe, smaller portions.
+- **Pão de queijo de massa preta (black cheese bread):** add 30 g charcoal powder for visual drama, modern dessert-bar variant.
 
 ## Serving
-At every Brazilian breakfast (the traditional Brazilian morning bread) · at every Brazilian padaria with a coffee · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at a Brazilian airport's coffee shop (the traditional Brazilian air-travel snack) · at a Brazilian afternoon coffee break · at a Brazilian-themed dinner abroad · at home as the perfect warm-from-the-oven Sunday-morning treat.
+- At every Brazilian breakfast (the traditional Brazilian morning bread) · at every Brazilian padaria with a coffee · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at a Brazilian airport's coffee shop (the traditional Brazilian air-travel snack) · at a Brazilian afternoon coffee break · at a Brazilian-themed dinner abroad · at home as the perfect warm-from-the-oven Sunday-morning treat.
 
 ## Storage
 - Best eaten same day, warm from the oven (the traditional experience).

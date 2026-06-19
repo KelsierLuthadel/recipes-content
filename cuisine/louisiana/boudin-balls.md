@@ -82,13 +82,13 @@ Boudin balls are a Cajun-Louisiana speciality: the classic boudin sausage fillin
 - **Deep-fry at 175°C.**
 
 ## Variations
-**With shrimp:** add chopped cooked shrimp to filling.
-**Crawfish boudin balls:** swap pork for cooked crawfish.
-**Baked (less authentic):** brush with oil; bake at 200°C 25 min.
-**Spicier:** double cayenne.
+- **With shrimp:** add chopped cooked shrimp to filling.
+- **Crawfish boudin balls:** swap pork for cooked crawfish.
+- **Baked (less authentic):** brush with oil; bake at 200°C 25 min.
+- **Spicier:** double cayenne.
 
 ## Serving
-At tailgates, gas-station counters, gatherings.
+- At tailgates, gas-station counters, gatherings.
 
 ## Storage
 - Cooked: best immediately; reheat in oven at 180°C for 10 min.

@@ -93,13 +93,13 @@ Huku ne dovi (literally "chicken with peanut butter" in Shona; huku = chicken, d
 - **Bone-in chicken for flavour:** the bones release flavour into the sauce. Boneless cuts work but give less depth.
 
 ## Variations
-**Beef huku ne dovi (nyama ye dovi):** swap the chicken for 800 g of cubed beef stewing meat; increase cooking time to 90 minutes for the beef to tender. Less traditional but excellent.
-**Spicier version:** add 1 whole Scotch bonnet pepper or 2 bird's eye chillies along with the aromatics; gives a properly fierce Zim variation common in Mashonaland.
-**Vegetarian dovi (with mushrooms and peanuts):** swap the chicken for 600 g of large mushrooms and 1 large aubergine (cubed); cook the same way. Surprisingly excellent.
-**With dried fish:** add 100 g of dried small fish (kapenta-style, available at African markets) along with the chicken; gives a savoury depth common in some rural Zimbabwean variants.
+- **Beef huku ne dovi (nyama ye dovi):** swap the chicken for 800 g of cubed beef stewing meat; increase cooking time to 90 minutes for the beef to tender. Less traditional but excellent.
+- **Spicier version:** add 1 whole Scotch bonnet pepper or 2 bird's eye chillies along with the aromatics; gives a properly fierce Zim variation common in Mashonaland.
+- **Vegetarian dovi (with mushrooms and peanuts):** swap the chicken for 600 g of large mushrooms and 1 large aubergine (cubed); cook the same way. Surprisingly excellent.
+- **With dried fish:** add 100 g of dried small fish (kapenta-style, available at African markets) along with the chicken; gives a savoury depth common in some rural Zimbabwean variants.
 
 ## Serving
-On warm plates with a mound of sadza (the traditional Zim accompaniment), a portion of greens (muriwo une dovi or simple sautéed kale/collards) and the chicken-peanut sauce ladled over. Eat with the right hand (Zimbabwean tradition): tear off a small piece of sadza, pinch into a small ball, dip into the peanut sauce, pick up some chicken with it, eat. Drink: maheu (Zimbabwean fermented maize drink), Mazoe orange (the local cordial), or beer.
+- On warm plates with a mound of sadza (the traditional Zim accompaniment), a portion of greens (muriwo une dovi or simple sautéed kale/collards) and the chicken-peanut sauce ladled over. Eat with the right hand (Zimbabwean tradition): tear off a small piece of sadza, pinch into a small ball, dip into the peanut sauce, pick up some chicken with it, eat. Drink: maheu (Zimbabwean fermented maize drink), Mazoe orange (the local cordial), or beer.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight (many Zimbabweans say it's better the next day).

@@ -89,7 +89,7 @@ Nakládaný Hermelín ("pickled Hermelín") is the Czech bar snack that takes a 
 - **Use the oil:** The infused oil left in the jar after the cheese is gone is fantastic for dressing salads, drizzling over bread, or as the base of a vinaigrette.
 
 ## Serving
-Czech pub snack with utopenci, dark rye bread, butter, pickled gherkins, and a glass of pilsner. The four corners of a Czech bar plate.
+- Czech pub snack with utopenci, dark rye bread, butter, pickled gherkins, and a glass of pilsner. The four corners of a Czech bar plate.
 
 ## Storage
 - Refrigerated submerged in oil: 1 month after the initial 2-week marination.

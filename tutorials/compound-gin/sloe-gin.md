@@ -89,19 +89,19 @@ Sloe gin is drunk neat from a small glass after dinner, stirred into champagne f
 ## Variations
 
 ### Damson gin
-Substitute 500 g of fresh damsons (the small wild plum) for sloes. Damsons are slightly larger, less tart, and produce a deeper, more rounded fruit-spirit. Same method exactly.
+- Substitute 500 g of fresh damsons (the small wild plum) for sloes. Damsons are slightly larger, less tart, and produce a deeper, more rounded fruit-spirit. Same method exactly.
 
 ### Bullace gin
-Substitute 500 g of bullaces (a wild plum / cherry-plum hybrid). Same method; slightly sweeter than sloes.
+- Substitute 500 g of bullaces (a wild plum / cherry-plum hybrid). Same method; slightly sweeter than sloes.
 
 ### Blackberry whisky (the cross-over)
-The same technique with 500 g of blackberries + 250 g sugar + 1 litre Scotch whisky (an inexpensive blended Scotch, single malt is wasted). 6-month maturation. Stunning autumn drink.
+- The same technique with 500 g of blackberries + 250 g sugar + 1 litre Scotch whisky (an inexpensive blended Scotch, single malt is wasted). 6-month maturation. Stunning autumn drink.
 
 ### Cherry brandy
-500 g of pitted morello cherries (or 750 g of fresh sour cherries) + 300 g sugar + 1 litre brandy. Same method. 3 months maturation. Christmas / Black Forest gateau in a glass.
+- 500 g of pitted morello cherries (or 750 g of fresh sour cherries) + 300 g sugar + 1 litre brandy. Same method. 3 months maturation. Christmas / Black Forest gateau in a glass.
 
 ### Sloe gin fizz cocktail
-30 ml sloe gin, 30 ml fresh lemon juice, 15 ml simple syrup, top with chilled soda water. Lovely.
+- 30 ml sloe gin, 30 ml fresh lemon juice, 15 ml simple syrup, top with chilled soda water. Lovely.
 
 ## Storage
 

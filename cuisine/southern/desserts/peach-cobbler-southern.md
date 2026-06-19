@@ -80,13 +80,13 @@ Southern peach cobbler is one of the most beloved Southern desserts and a Georgi
 - **Serve warm:** the contrast with ice cream.
 
 ## Variations
-**With blueberries:** add 200 g blueberries.
-**With bourbon:** add 2 tablespoons bourbon.
-**Spiced:** add ¼ tsp cloves.
-**Mixed stone fruit:** combine with plums.
+- **With blueberries:** add 200 g blueberries.
+- **With bourbon:** add 2 tablespoons bourbon.
+- **Spiced:** add ¼ tsp cloves.
+- **Mixed stone fruit:** combine with plums.
 
 ## Serving
-Warm with ice cream. After Southern dinner.
+- Warm with ice cream. After Southern dinner.
 
 ## Storage
 - Keeps refrigerated 4 days.

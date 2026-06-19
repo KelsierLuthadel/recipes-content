@@ -100,9 +100,9 @@ Garlic chilli chicken sits in the medium-hot end of the BIR menu, distinguished 
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of garlic naan to double down on the garlic theme. A side of cooling raita and a wedge of lemon balance the heat.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of garlic naan to double down on the garlic theme. A side of cooling raita and a wedge of lemon balance the heat.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The garlic flavour deepens overnight as the coconut absorbs more of it; many cooks rate day-two garlic chilli chicken above day-one. Reheat in a pan with a splash of water rather than the microwave to keep the coconut milk smooth.

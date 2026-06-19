@@ -97,16 +97,16 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 - **Lime zest is the Bajan signature:** distinguishes this from a generic Caribbean pone.
 
 ## Variations
-**Pumpkin pone (skip the cassava):** swap all the cassava for grated pumpkin, lighter, more savoury Sunday-tea variant.
-**Corn pone (Native American / Southern American cousin):** swap the cassava for cornmeal; same coconut + sugar + spice base; the African-American Southern variant.
-**Cassava pone with chocolate:** add 100 g of chopped dark chocolate to the batter, the modern Bajan variant.
-**Pone with sultanas and currants:** add 80 g sultanas + 50 g currants (instead of just raisins): the festive variant.
-**Vegan cassava pone:** swap eggs for 4 tablespoons aquafaba + 2 tablespoons milled flax + 2 tablespoons water; swap butter for coconut oil; the dish is essentially vegan otherwise.
-**Mini cassava pones (cupcake-style):** divide the batter into a 12-cup muffin tin; bake 35-40 minutes, the canapé / individual portions.
-**Sweeter pone (modern):** add 50 g sugar, for those who find the traditional version not sweet enough.
+- **Pumpkin pone (skip the cassava):** swap all the cassava for grated pumpkin, lighter, more savoury Sunday-tea variant.
+- **Corn pone (Native American / Southern American cousin):** swap the cassava for cornmeal; same coconut + sugar + spice base; the African-American Southern variant.
+- **Cassava pone with chocolate:** add 100 g of chopped dark chocolate to the batter, the modern Bajan variant.
+- **Pone with sultanas and currants:** add 80 g sultanas + 50 g currants (instead of just raisins): the festive variant.
+- **Vegan cassava pone:** swap eggs for 4 tablespoons aquafaba + 2 tablespoons milled flax + 2 tablespoons water; swap butter for coconut oil; the dish is essentially vegan otherwise.
+- **Mini cassava pones (cupcake-style):** divide the batter into a 12-cup muffin tin; bake 35-40 minutes, the canapé / individual portions.
+- **Sweeter pone (modern):** add 50 g sugar, for those who find the traditional version not sweet enough.
 
 ## Serving
-At a Bajan family Sunday tea (the traditional setting) · at a Bajan church fundraiser bake sale · at a Bajan Christmas tea table · at a Caribbean-themed afternoon tea · at a Bajan Independence Day buffet · at home as the traditional Caribbean tea-cake · paired with strong Bajan tea, mauby, cold cocoa, or vanilla ice cream.
+- At a Bajan family Sunday tea (the traditional setting) · at a Bajan church fundraiser bake sale · at a Bajan Christmas tea table · at a Caribbean-themed afternoon tea · at a Bajan Independence Day buffet · at home as the traditional Caribbean tea-cake · paired with strong Bajan tea, mauby, cold cocoa, or vanilla ice cream.
 
 ## Storage
 - Stores 5 days at room temperature in an airtight container.

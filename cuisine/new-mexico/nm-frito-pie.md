@@ -52,13 +52,13 @@ New Mexico frito pie is the New Mexican version of the Frito-bag dish (Texas has
 - **Eat immediately:** chips soften.
 
 ## Variations
-**Christmas:** half red, half green chile sauce.
-**With pulled pork:** add shredded carnitas.
-**With chorizo:** add cooked crumbled chorizo.
-**Family-style:** assemble in a baking dish for sharing.
+- **Christmas:** half red, half green chile sauce.
+- **With pulled pork:** add shredded carnitas.
+- **With chorizo:** add cooked crumbled chorizo.
+- **Family-style:** assemble in a baking dish for sharing.
 
 ## Serving
-At Santa Fe Plaza, Five and Dime, NM state fair. Cold beer.
+- At Santa Fe Plaza, Five and Dime, NM state fair. Cold beer.
 
 ## Storage
 - Best immediately.

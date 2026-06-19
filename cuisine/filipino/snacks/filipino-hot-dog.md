@@ -94,14 +94,14 @@ The Filipino hot dog (called "hotsilog" or "hotdogsilog" when served as the brea
 - **Day-old rice for sinangag:** fresh rice goes gluey when fried.
 
 ## Variations
-**Hotsilog-tapsilog combo:** add cured beef (tapa) alongside the hot dog.
-**Spam-hotsilog:** add fried Spam slices on top of the rice (Filipino-style additions are stackable).
-**Spicier:** add chopped fresh siling labuyo (bird's eye chillies) to the rice or sauce.
-**With longganisa instead:** swap the hot dog for Filipino longganisa sweet sausages.
-**With pancit canton on the side:** the all-day-breakfast extended version.
+- **Hotsilog-tapsilog combo:** add cured beef (tapa) alongside the hot dog.
+- **Spam-hotsilog:** add fried Spam slices on top of the rice (Filipino-style additions are stackable).
+- **Spicier:** add chopped fresh siling labuyo (bird's eye chillies) to the rice or sauce.
+- **With longganisa instead:** swap the hot dog for Filipino longganisa sweet sausages.
+- **With pancit canton on the side:** the all-day-breakfast extended version.
 
 ## Serving
-At a Filipino jollibee or chowking; at home as a hearty breakfast or merienda (afternoon snack); at a tito's-house gathering.
+- At a Filipino jollibee or chowking; at home as a hearty breakfast or merienda (afternoon snack); at a tito's-house gathering.
 
 ## Storage
 - Garlic rice refrigerates 2 days; reheat in a hot pan with a splash of oil.

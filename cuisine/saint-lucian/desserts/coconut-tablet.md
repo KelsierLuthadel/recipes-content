@@ -58,7 +58,7 @@ Coconut tablet (called "sucre coco" in the French-Caribbean tradition) is the fi
 - **Spice level:** Saint Lucian tablet is moderately spiced. Adjust the ginger/cinnamon/nutmeg to taste.
 
 ## Serving
-Serve at room temperature, broken into rough pieces, eaten with the hands. Goes with cocoa tea, coffee, or a glass of rum punch.
+- Serve at room temperature, broken into rough pieces, eaten with the hands. Goes with cocoa tea, coffee, or a glass of rum punch.
 
 ## Storage
 - In an airtight tin at room temperature: 2 weeks. The tablet hardens slightly over time but stays good.

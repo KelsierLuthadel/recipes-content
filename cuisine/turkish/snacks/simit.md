@@ -92,13 +92,13 @@ Simit is Istanbul's signature street bread and one of the most iconic foods of T
 - **Don't underbake:** simit needs to be properly deep-brown for the right flavour and the proper crispy outside.
 
 ## Variations
-**Antep-style simit:** thinner and crisper; roll the ropes thinner and bake 2-3 minutes longer. The Gaziantep version.
-**Cheese-stuffed simit:** flatten the dough rope, lay a strip of feta down the centre, fold the dough over to enclose, then form the twist and ring. Common modern Turkish café variation.
-**Black-cumin simit (çörek otlu simit):** add 1 tablespoon of nigella seeds (çörek otu) to the sesame coating; gives a deeper darker flavour.
-**Mini simit:** divide the dough into 16 smaller pieces; shape into smaller rings (about 10 cm diameter); bake 15 minutes. Party snacks.
+- **Antep-style simit:** thinner and crisper; roll the ropes thinner and bake 2-3 minutes longer. The Gaziantep version.
+- **Cheese-stuffed simit:** flatten the dough rope, lay a strip of feta down the centre, fold the dough over to enclose, then form the twist and ring. Common modern Turkish café variation.
+- **Black-cumin simit (çörek otlu simit):** add 1 tablespoon of nigella seeds (çörek otu) to the sesame coating; gives a deeper darker flavour.
+- **Mini simit:** divide the dough into 16 smaller pieces; shape into smaller rings (about 10 cm diameter); bake 15 minutes. Party snacks.
 
 ## Serving
-At Turkish breakfast (kahvaltı) with feta or beyaz peynir cheese, black and green olives, sliced tomato and cucumber, jam, honey, butter, scrambled eggs (menemen if you're going proper Turkish), and many small glasses of strong sweet tea. Or as a quick mid-morning snack with a glass of çay. Or stuffed with cheese, tomato and rocket as a Turkish-style sandwich.
+- At Turkish breakfast (kahvaltı) with feta or beyaz peynir cheese, black and green olives, sliced tomato and cucumber, jam, honey, butter, scrambled eggs (menemen if you're going proper Turkish), and many small glasses of strong sweet tea. Or as a quick mid-morning snack with a glass of çay. Or stuffed with cheese, tomato and rocket as a Turkish-style sandwich.
 
 ## Storage
 - Best eaten warm and fresh.

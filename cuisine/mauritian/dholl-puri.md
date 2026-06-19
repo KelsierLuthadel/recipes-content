@@ -77,11 +77,11 @@ Dholl puri is the bread, not the wrap. What you are making is a soft, lightly el
 - **Keep them soft after cooking:** an upturned bowl or clean tea towel over the stack traps the steam and keeps the dholl puris pliable for serving.
 
 ## Variations
-**Chana dal version:** Some Mauritian cooks use chana dal (split chickpeas) for a nuttier, slightly coarser filling. Cooking method is the same; soak overnight.
-**Spicier filling:** A pinch of ground roasted cumin and a tiny pinch of cayenne in the filling powder gives a sharper edge.
+- **Chana dal version:** Some Mauritian cooks use chana dal (split chickpeas) for a nuttier, slightly coarser filling. Cooking method is the same; soak overnight.
+- **Spicier filling:** A pinch of ground roasted cumin and a tiny pinch of cayenne in the filling powder gives a sharper edge.
 
 ## Serving
-Lay a warm dholl puri flat on a plate. Spoon a strip of butter bean curry down the centre, a spoon of rougaille, and a small dab of coriander satini or chilli paste. Fold in half or quarter and eat by hand. A wedge of lime on the side cuts through the spice.
+- Lay a warm dholl puri flat on a plate. Spoon a strip of butter bean curry down the centre, a spoon of rougaille, and a small dab of coriander satini or chilli paste. Fold in half or quarter and eat by hand. A wedge of lime on the side cuts through the spice.
 
 ## Storage
 - Best eaten fresh from the pan. Will keep soft 4-5 hours wrapped in a clean cloth at room temperature.

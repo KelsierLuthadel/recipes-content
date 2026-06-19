@@ -74,12 +74,12 @@ Posole (or "pozole") in the Pueblo-Southwest tradition is the traditional winter
 - **Garnishes at the table:** the traditional Pueblo serving.
 
 ## Variations
-**White posole (posole blanco):** skip dried chillies; use chicken stock; gives a milder version.
-**Green posole:** swap red chillies for tomatillos, jalapeños, coriander; gives green posole.
-**With chicken:** swap pork for chicken thighs.
+- **White posole (posole blanco):** skip dried chillies; use chicken stock; gives a milder version.
+- **Green posole:** swap red chillies for tomatillos, jalapeños, coriander; gives green posole.
+- **With chicken:** swap pork for chicken thighs.
 
 ## Serving
-In deep bowls with table-side garnishes. Pueblo feast days, Christmas Eve, Southwest winter dinners.
+- In deep bowls with table-side garnishes. Pueblo feast days, Christmas Eve, Southwest winter dinners.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

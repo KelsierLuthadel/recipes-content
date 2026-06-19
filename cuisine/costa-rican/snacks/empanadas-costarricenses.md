@@ -78,7 +78,7 @@ For frying:
 - **Baked version:** Brush with egg wash and bake at 200 C for 20 minutes for a lighter (less greasy) shell.
 
 ## Serving
-Serve hot with a small bowl of fresh tomato salsa · or natilla (Costa Rican sour cream) · a wedge of lime · with Salsa Lizano on the table
+- Serve hot with a small bowl of fresh tomato salsa · or natilla (Costa Rican sour cream) · a wedge of lime · with Salsa Lizano on the table
 
 ## Storage
 - Fried empanadas eat best fresh; the masa shell softens within an hour

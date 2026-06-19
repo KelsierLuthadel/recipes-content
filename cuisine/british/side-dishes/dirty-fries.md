@@ -87,13 +87,13 @@ Dirty fries (dirty chips in UK chip-shop vernacular) is the British pub-classic 
 - **Beef dripping for the proper chippy flavour:** lard or beef dripping gives the traditional British chip-shop taste; vegetable oil is the easy substitute.
 
 ## Variations
-**Cheese-and-gravy dirty fries (poutine-style):** swap the BBQ sauce for hot brown gravy; reduce other toppings; closer to Canadian poutine.
-**Chilli-loaded dirty fries:** add a generous spoonful of chilli con carne over the top; nacho-style.
-**Pulled pork dirty fries:** pulled pork in BBQ sauce over the top; pub-classic.
-**Vegetarian dirty fries:** skip the bacon; add caramelised onions, mushrooms and extra cheese.
+- **Cheese-and-gravy dirty fries (poutine-style):** swap the BBQ sauce for hot brown gravy; reduce other toppings; closer to Canadian poutine.
+- **Chilli-loaded dirty fries:** add a generous spoonful of chilli con carne over the top; nacho-style.
+- **Pulled pork dirty fries:** pulled pork in BBQ sauce over the top; pub-classic.
+- **Vegetarian dirty fries:** skip the bacon; add caramelised onions, mushrooms and extra cheese.
 
 ## Serving
-On a wooden board or in a deep dish at the centre of a pub table for sharing. Drink: craft beer (IPA, lager), or for the late-night version, anything cold. As a starter/sharing plate, late-night feed, or game-day meal.
+- On a wooden board or in a deep dish at the centre of a pub table for sharing. Drink: craft beer (IPA, lager), or for the late-night version, anything cold. As a starter/sharing plate, late-night feed, or game-day meal.
 
 ## Storage
 - Best eaten immediately; not designed for leftovers.

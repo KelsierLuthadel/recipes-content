@@ -66,7 +66,7 @@ Patacones (called tostones in the rest of the Caribbean) are the bar snack of th
 - **Patacones picantes:** Sprinkle with a pinch of cayenne or chilli powder along with the salt.
 
 ## Serving
-Serve hot from the oil topped with warm refried beans · fresh white cheese · pico de gallo · lime wedges · alongside chicharrones · with a cold Imperial lager
+- Serve hot from the oil topped with warm refried beans · fresh white cheese · pico de gallo · lime wedges · alongside chicharrones · with a cold Imperial lager
 
 ## Storage
 - Patacones eat best straight from the oil; the crisp goes within an hour

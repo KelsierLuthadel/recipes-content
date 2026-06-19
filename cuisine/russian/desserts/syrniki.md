@@ -80,13 +80,13 @@ Syrniki (сырники, from "sir" meaning cheese) are Russia's most beloved br
 - **Eat warm:** syrniki are at their best fresh out of the pan; they go off-texture as they cool (denser and less tender).
 
 ## Variations
-**Banana syrniki:** mash 1 ripe banana into the cheese mixture (omit the raisins); gives a sweeter fruitier syrniki. Common modern Russian variation.
-**Apple-cinnamon syrniki:** grate 1 small apple and add to the mixture; double the vanilla; add ¼ teaspoon of cinnamon. Lovely autumn variation.
-**Chocolate chip syrniki:** add 50 g of mini chocolate chips to the mixture; gives a dessert-leaning version that kids love.
-**Savoury syrniki:** skip the sugar and vanilla; add 2 tablespoons of chopped fresh dill, ¼ teaspoon of ground black pepper and 50 g of grated hard cheese. Serve with sour cream and smoked salmon. Brunch-friendly Russian style.
+- **Banana syrniki:** mash 1 ripe banana into the cheese mixture (omit the raisins); gives a sweeter fruitier syrniki. Common modern Russian variation.
+- **Apple-cinnamon syrniki:** grate 1 small apple and add to the mixture; double the vanilla; add ¼ teaspoon of cinnamon. Lovely autumn variation.
+- **Chocolate chip syrniki:** add 50 g of mini chocolate chips to the mixture; gives a dessert-leaning version that kids love.
+- **Savoury syrniki:** skip the sugar and vanilla; add 2 tablespoons of chopped fresh dill, ¼ teaspoon of ground black pepper and 50 g of grated hard cheese. Serve with sour cream and smoked salmon. Brunch-friendly Russian style.
 
 ## Serving
-On warm plates with the traditional accompaniments: sour cream is essential; jam, honey, condensed milk and fresh berries are all welcome. With strong sweet tea (the Russian way: dark, slightly bitter, with a small amount of sugar) or milky coffee. At weekend breakfast; or as dessert with afternoon tea.
+- On warm plates with the traditional accompaniments: sour cream is essential; jam, honey, condensed milk and fresh berries are all welcome. With strong sweet tea (the Russian way: dark, slightly bitter, with a small amount of sugar) or milky coffee. At weekend breakfast; or as dessert with afternoon tea.
 
 ## Storage
 - Best eaten fresh and warm.

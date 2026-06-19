@@ -89,7 +89,7 @@ Fiskesuppe is the Norwegian creamy fish soup of the western coast, particularly 
 - **Add the fish at the very end:** Fish overcooks in seconds. The chunks finish poaching in the residual heat of the soup; they should be barely firm, not flaking.
 
 ## Serving
-Serve as a starter to a multi-course meal, or as a one-bowl supper with bread. A glass of dry Riesling, dry Norwegian apple cider, or sparkling water with lemon.
+- Serve as a starter to a multi-course meal, or as a one-bowl supper with bread. A glass of dry Riesling, dry Norwegian apple cider, or sparkling water with lemon.
 
 ## Storage
 - Best fresh; the fish toughens on reheating.

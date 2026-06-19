@@ -68,7 +68,7 @@ This is the French version of lemon tart with a brûléed top, a bright sharp le
 - Caramelise the surface just before serving to keep the crust crisp.
 
 ## Serving
-Serve the lemon tart chilled or at room temperature, with a small spoonful of softly whipped cream if desired. It makes a refreshing finale to a dinner party.
+- Serve the lemon tart chilled or at room temperature, with a small spoonful of softly whipped cream if desired. It makes a refreshing finale to a dinner party.
 
 ## Storage
 Store the tart in the refrigerator for up to 3 days. Keep it covered to protect the caramelised surface; do not freeze once brûléed.

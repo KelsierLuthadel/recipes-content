@@ -108,13 +108,13 @@ Arroz atollado means "stuck rice", a name that captures the texture: thick, dens
 - **Eat from bowls with spoons:** the dish is soupy.
 
 ## Variations
-**Without pork ribs:** use 600 g pork shoulder cubed; same technique.
-**Vegetarian arroz atollado:** skip the meat; double the vegetables; use vegetable stock + 2 tablespoons of soy sauce or miso for umami. Different but works.
-**Atollado de pollo:** skip the pork and sausage; use 800 g chicken thigh; lighter version.
-**Atollado de mariscos:** seafood version with shrimp, mussels and white fish in the last 10 minutes.
+- **Without pork ribs:** use 600 g pork shoulder cubed; same technique.
+- **Vegetarian arroz atollado:** skip the meat; double the vegetables; use vegetable stock + 2 tablespoons of soy sauce or miso for umami. Different but works.
+- **Atollado de pollo:** skip the pork and sausage; use 800 g chicken thigh; lighter version.
+- **Atollado de mariscos:** seafood version with shrimp, mussels and white fish in the last 10 minutes.
 
 ## Serving
-In deep bowls with a spoon. Avocado, lime, ají picante on the side. Drink: Club Colombia beer or fresh juice. Often a Caleño Sunday lunch.
+- In deep bowls with a spoon. Avocado, lime, ají picante on the side. Drink: Club Colombia beer or fresh juice. Often a Caleño Sunday lunch.
 
 ## Storage
 - Keeps refrigerated 4 days; thickens significantly overnight.

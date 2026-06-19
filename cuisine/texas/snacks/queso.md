@@ -82,13 +82,13 @@ Queso (or "chile con queso") is Texas's iconic Tex-Mex cheese dip and one of the
 - **Eat warm:** firms up as it cools.
 
 ## Variations
-**Queso fundido (Mexican-Texan):** add chorizo and serve over corn tortillas; broiled briefly.
-**Spicier:** double the jalapeños and add 1 chopped habanero.
-**Fancier:** make a from-scratch version with cheddar, Monterey Jack, cream cheese; ditch the Velveeta. Better flavour but harder to keep smooth.
-**Bean queso:** add 1 tin of drained black beans; gives extra body.
+- **Queso fundido (Mexican-Texan):** add chorizo and serve over corn tortillas; broiled briefly.
+- **Spicier:** double the jalapeños and add 1 chopped habanero.
+- **Fancier:** make a from-scratch version with cheddar, Monterey Jack, cream cheese; ditch the Velveeta. Better flavour but harder to keep smooth.
+- **Bean queso:** add 1 tin of drained black beans; gives extra body.
 
 ## Serving
-With yellow corn chips at the centre of a Texan party. Drink: cold beer (Tecate, Modelo, Shiner Bock) or margarita.
+- With yellow corn chips at the centre of a Texan party. Drink: cold beer (Tecate, Modelo, Shiner Bock) or margarita.
 
 ## Storage
 - Keeps refrigerated 4 days; reheat slowly with extra milk to restore texture.

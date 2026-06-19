@@ -106,15 +106,15 @@ Leverpostej is one of the most ubiquitous foods in Denmark. Every supermarket se
 - **Make ahead:** the loaf improves in the first 24 hours as the flavours marry.
 
 ## Variations
-**With chicken liver:** half pork liver + half chicken liver gives a milder version.
-**With brandy or sherry:** add 2 tablespoons of brandy or dry sherry to the mixture for a more elegant Christmas version.
-**With mushroom and bacon topping (the hot smørrebrød version):** the "dyrlægens natmad" style, see [smørrebrød](../smorrebrod.md).
-**Spicier:** add a pinch of cayenne and 1 teaspoon of crushed juniper berries.
-**Vegetarian "leverpostej":** swap the meat for lentils + walnuts + miso paste; nothing like the original but a credible vegetarian substitute.
-**Christmas leverpostej:** add chopped prunes and a touch of port for a Christmas-feast deluxe version.
+- **With chicken liver:** half pork liver + half chicken liver gives a milder version.
+- **With brandy or sherry:** add 2 tablespoons of brandy or dry sherry to the mixture for a more elegant Christmas version.
+- **With mushroom and bacon topping (the hot smørrebrød version):** the "dyrlægens natmad" style, see [smørrebrød](../smorrebrod.md).
+- **Spicier:** add a pinch of cayenne and 1 teaspoon of crushed juniper berries.
+- **Vegetarian "leverpostej":** swap the meat for lentils + walnuts + miso paste; nothing like the original but a credible vegetarian substitute.
+- **Christmas leverpostej:** add chopped prunes and a touch of port for a Christmas-feast deluxe version.
 
 ## Serving
-At a Danish school lunchbox · at a Danish workplace canteen as a smørrebrød option · at a Christmas julefrokost buffet · at home as a quick fridge-snack with rye bread · at a Danish family Sunday breakfast.
+- At a Danish school lunchbox · at a Danish workplace canteen as a smørrebrød option · at a Christmas julefrokost buffet · at home as a quick fridge-snack with rye bread · at a Danish family Sunday breakfast.
 
 ## Storage
 - Whole loaf refrigerates 1 week wrapped in cling film.

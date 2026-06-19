@@ -69,7 +69,7 @@ Sopa negra is the Costa Rican answer to a head-cold, a long lunch and a hangover
 - **Cuban-style:** Add a splash of sherry vinegar at the end and serve with white rice on the side.
 
 ## Serving
-Serve hot in wide bowls with the poached egg whole in the centre · raw chopped onion and coriander scattered over · lime wedge on the rim · a stack of warm corn tortillas alongside
+- Serve hot in wide bowls with the poached egg whole in the centre · raw chopped onion and coriander scattered over · lime wedge on the rim · a stack of warm corn tortillas alongside
 
 ## Storage
 - The bean soup base keeps 4 days refrigerated and improves overnight

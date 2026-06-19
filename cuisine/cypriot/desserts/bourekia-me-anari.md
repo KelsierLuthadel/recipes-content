@@ -103,7 +103,7 @@ Bourekia me anari are the small Cypriot sweet pastries that turn up at every wed
 - **Sour-cherry filling.** Replace the cheese with thick sour-cherry compote for a December variant.
 
 ## Serving
-Serve with strong Cypriot coffee · a glass of zivania for grown-ups · a glass of cold water with a spoon of glyko tou koutaliou alongside.
+- Serve with strong Cypriot coffee · a glass of zivania for grown-ups · a glass of cold water with a spoon of glyko tou koutaliou alongside.
 
 ## Storage
 - Best on the day; the pastry softens overnight.

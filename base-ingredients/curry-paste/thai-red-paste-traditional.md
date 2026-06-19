@@ -73,9 +73,9 @@ The finished paste should be thick enough to mound on a spoon and just sticky en
 - **Vegetarian:** substitute the shrimp paste with 2 tsp light soy sauce plus 1 tsp brown miso, added at the end. The umami profile is different but works.
 
 ## Serving
-Use in: classic red curry with chicken, beef or duck; phanaeng (with the peanut variation); jungle curry; red curry seafood stir-fries; massaman variants where a red base is appropriate.
+- Use in: classic red curry with chicken, beef or duck; phanaeng (with the peanut variation); jungle curry; red curry seafood stir-fries; massaman variants where a red base is appropriate.
 
-The traditional technique:
+- The traditional technique:
 1. Open a can of full-fat coconut milk without shaking. Spoon the thick cream off the top into a wide pan.
 2. Heat the cream over medium heat until the oil splits out and the cream starts to look slightly broken.
 3. Stir in 2-3 tbsp of paste per 400 ml coconut milk. Fry 60-90 seconds, until the paste deepens in colour and oil pools around the edge.

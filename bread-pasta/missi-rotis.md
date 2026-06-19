@@ -72,16 +72,16 @@ Missi rotis are Punjab's mixed-flour flatbread, the building block of a north In
 - **Pan Temperature:** Medium heat is crucial; too hot and the outside burns before the inside cooks through.
 
 ## Variations
-**Extra Spiced:** Add ½ teaspoon cumin powder and ¼ teaspoon black pepper for deeper spice.
-**With Fenugreek:** Replace half the coriander with fresh fenugreek (methi) leaves.
-**Minimal Spice:** Reduce turmeric to ¼ teaspoon and omit the chilli for milder versions.
-**Thicker Rotis:** Roll to 18-20 cm diameter for thicker, chewier bread.
+- **Extra Spiced:** Add ½ teaspoon cumin powder and ¼ teaspoon black pepper for deeper spice.
+- **With Fenugreek:** Replace half the coriander with fresh fenugreek (methi) leaves.
+- **Minimal Spice:** Reduce turmeric to ¼ teaspoon and omit the chilli for milder versions.
+- **Thicker Rotis:** Roll to 18-20 cm diameter for thicker, chewier bread.
 
 ## Serving
-Serve with: Dal, curry, soup, chutney, or pickle
-Temperature: Serve warm, immediately after cooking
-Amount: 1 roti per person as an accompaniment
-Accompaniments: Plain yogurt, pickle, or fresh lime wedges
+- Serve with: Dal, curry, soup, chutney, or pickle
+- Temperature: Serve warm, immediately after cooking
+- Amount: 1 roti per person as an accompaniment
+- Accompaniments: Plain yogurt, pickle, or fresh lime wedges
 
 ## Storage
 - Best served warm immediately after cooking

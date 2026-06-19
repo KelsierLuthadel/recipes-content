@@ -71,7 +71,7 @@ Khrustyki belong to the wider family of Eastern European carnival-season fritter
 - **Lemon glaze.** Skip the icing sugar dust; brush with a thin lemon-juice-and-icing-sugar glaze. A modern bakery touch.
 
 ## Serving
-Serve at room temperature with afternoon tea · also good with a thick black coffee · with a small glass of sweet wine after dinner · piled high for Christmas, New Year and the carnival days before Lent
+- Serve at room temperature with afternoon tea · also good with a thick black coffee · with a small glass of sweet wine after dinner · piled high for Christmas, New Year and the carnival days before Lent
 
 ## Storage
 - Keep 5 to 7 days in an airtight tin at room temperature; they stay crisp

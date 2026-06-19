@@ -62,9 +62,9 @@ The trick is to have the marinated items ready in advance. A mixed grill is a 12
 - **Chaat masala on the finish.** The tangy-sour-funky chaat masala is what makes the plate taste like the curry house. Without it the plate is fine but flat.
 
 ## Serving
-A mixed grill is its own course, served before the curry. Most people order it as a starter for the table and share. For a small group it can also be the main event with a couple of naans and bowls of rice.
+- A mixed grill is its own course, served before the curry. Most people order it as a starter for the table and share. For a small group it can also be the main event with a couple of naans and bowls of rice.
 
-Provide the mint raita on the side. A bowl of sliced cucumber finishes the cooling job. A wedge of lime alongside the lemon doesn't hurt.
+- Provide the mint raita on the side. A bowl of sliced cucumber finishes the cooling job. A wedge of lime alongside the lemon doesn't hurt.
 
 ## Storage
 - Cooked items refrigerate 2 days. Reheat on a hot dry pan for 60 seconds a side; the microwave makes them rubbery.

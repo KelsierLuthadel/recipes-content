@@ -80,18 +80,18 @@ Classic pizza dough is the building block for everyday home pizza: a forgiving s
 - **Stuffed Crust Option:** Before topping, fold cheese along the outer edge of the dough inward slightly to create edge cheese pockets.
 
 ## Variations
-**Whole Wheat:** Replace 75g white flour with whole wheat flour for nutty flavor and denser crumb.
-**Garlic & Herb:** Add 2 minced garlic cloves and 1 tablespoon fresh basil to the dough after kneading.
-**Sourdough-Style:** Use 150g sourdough starter in place of 75ml water + yeast; ferment for 2-4 hours for more sour flavor.
-**Gluten-Free:** Use gluten-free flour blend; dough will be more delicate but can work with careful handling.
-**New York Style:** Use only water (no milk) and extend rise to 2-3 hours for more open crumb and chew.
-**Detroit-Style:** Use a 30 x 20 cm rectangular pan, stretch dough to fill, and allow it to poof in the pan for 2 hours before topping.
+- **Whole Wheat:** Replace 75g white flour with whole wheat flour for nutty flavor and denser crumb.
+- **Garlic & Herb:** Add 2 minced garlic cloves and 1 tablespoon fresh basil to the dough after kneading.
+- **Sourdough-Style:** Use 150g sourdough starter in place of 75ml water + yeast; ferment for 2-4 hours for more sour flavor.
+- **Gluten-Free:** Use gluten-free flour blend; dough will be more delicate but can work with careful handling.
+- **New York Style:** Use only water (no milk) and extend rise to 2-3 hours for more open crumb and chew.
+- **Detroit-Style:** Use a 30 x 20 cm rectangular pan, stretch dough to fill, and allow it to poof in the pan for 2 hours before topping.
 
 ## Serving
-Serve immediately after baking while cheese is melted and crust is warm.
-Toppings: Any combination of tomato sauce, cheese, vegetables, cured meats, or fresh herbs
-Temperature: Serve hot; pizza is best eaten within 5 minutes of coming from oven
-Accompaniments: Olive oil for dipping, fresh basil, oregano
+- Serve immediately after baking while cheese is melted and crust is warm.
+- Toppings: Any combination of tomato sauce, cheese, vegetables, cured meats, or fresh herbs
+- Temperature: Serve hot; pizza is best eaten within 5 minutes of coming from oven
+- Accompaniments: Olive oil for dipping, fresh basil, oregano
 
 ## Storage
 - Uncooked dough: Refrigerate in oiled bowl covered for up to 2 days; allow to come to room temperature (1 hour) before stretching

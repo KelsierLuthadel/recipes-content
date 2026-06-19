@@ -102,15 +102,15 @@ For balls:
 - **The whey is useful:** save the whey for bread-making, scone-making, or smoothies.
 
 ## Variations
-**Caboc (the traditional):** roll the log in toasted pinhead oatmeal. Highland Fine Cheeses of Tain made this commercial.
-**Hazelnut crowdie:** roll in finely chopped toasted hazelnuts.
-**Peppered crowdie:** roll in cracked black peppercorns (very Scottish; strong).
-**Herb crowdie:** stir in chopped chives, dill, and parsley before serving.
-**Whisky-soaked walnuts crowdie:** stir in 4 walnut halves that have been soaked in single malt overnight.
-**With smoked salmon (canapé):** spread crowdie on oatcakes; top with a small piece of smoked salmon and a dill leaf.
+- **Caboc (the traditional):** roll the log in toasted pinhead oatmeal. Highland Fine Cheeses of Tain made this commercial.
+- **Hazelnut crowdie:** roll in finely chopped toasted hazelnuts.
+- **Peppered crowdie:** roll in cracked black peppercorns (very Scottish; strong).
+- **Herb crowdie:** stir in chopped chives, dill, and parsley before serving.
+- **Whisky-soaked walnuts crowdie:** stir in 4 walnut halves that have been soaked in single malt overnight.
+- **With smoked salmon (canapé):** spread crowdie on oatcakes; top with a small piece of smoked salmon and a dill leaf.
 
 ## Serving
-On warm oatcakes at a Scottish breakfast (the traditional setting) · on a Scottish cheese board alongside whisky and grapes · spread on oatcakes at a Highland picnic · rolled and sliced as a starter at a Burns Night supper · at a Scottish wedding canapé reception · at a tasting menu at a Highland restaurant alongside a small dram.
+- On warm oatcakes at a Scottish breakfast (the traditional setting) · on a Scottish cheese board alongside whisky and grapes · spread on oatcakes at a Highland picnic · rolled and sliced as a starter at a Burns Night supper · at a Scottish wedding canapé reception · at a tasting menu at a Highland restaurant alongside a small dram.
 
 ## Storage
 - Fresh crowdie refrigerates 5-7 days, well-wrapped.

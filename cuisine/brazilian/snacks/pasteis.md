@@ -110,17 +110,17 @@ Pastéis (singular pastel) are Brazil's most iconic street-food pastries, tracea
 - **Cold filling when assembling:** hot filling melts the dough during shaping. Cool completely.
 
 ## Variations
-**Pastel de queijo (cheese pastel):** filled with mozzarella + a few oregano leaves, the simplest and most universally loved.
-**Pastel de carne (beef pastel):** the traditional variant; described above.
-**Pastel de palmito (heart of palm):** filled with chopped hearts of palm + Catupiry, vegetarian standard.
-**Pastel de camarão (shrimp pastel):** filled with cooked shrimp + Catupiry + spring onion, premium variant.
-**Pastel de pizza:** filled with mozzarella + sliced tomato + oregano, modern Italian-Brazilian.
-**Pastel de bacalhau (cod):** filled with desalted shredded cod + onion + parsley, Portuguese-Brazilian.
-**Mini pastéis:** smaller rectangles (6×10 cm) for cocktail parties.
-**Sweet pastéis (dessert):** filled with chocolate + banana + cinnamon-sugar, the sweet dessert variant.
+- **Pastel de queijo (cheese pastel):** filled with mozzarella + a few oregano leaves, the simplest and most universally loved.
+- **Pastel de carne (beef pastel):** the traditional variant; described above.
+- **Pastel de palmito (heart of palm):** filled with chopped hearts of palm + Catupiry, vegetarian standard.
+- **Pastel de camarão (shrimp pastel):** filled with cooked shrimp + Catupiry + spring onion, premium variant.
+- **Pastel de pizza:** filled with mozzarella + sliced tomato + oregano, modern Italian-Brazilian.
+- **Pastel de bacalhau (cod):** filled with desalted shredded cod + onion + parsley, Portuguese-Brazilian.
+- **Mini pastéis:** smaller rectangles (6×10 cm) for cocktail parties.
+- **Sweet pastéis (dessert):** filled with chocolate + banana + cinnamon-sugar, the sweet dessert variant.
 
 ## Serving
-At a Brazilian Saturday-morning feira (street market) with a glass of caldo de cana (the traditional setting) · at a Brazilian bus station kiosk · at a São Paulo Brazilian street-food cart · at a Brazilian bar with cold beer · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at home as a weekend treat with friends.
+- At a Brazilian Saturday-morning feira (street market) with a glass of caldo de cana (the traditional setting) · at a Brazilian bus station kiosk · at a São Paulo Brazilian street-food cart · at a Brazilian bar with cold beer · at a Brazilian children's birthday party · at a Brazilian wedding canapé reception · at home as a weekend treat with friends.
 
 ## Storage
 - Best eaten same day; pastéis lose crispness within an hour.

@@ -55,8 +55,8 @@ The North Indian deep-fried puffed bread with a gentle chilli kick: small discs 
 - **Press to puff:** The brief press into the oil with a spatula is what triggers the puff; flat pooris that didn't catch usually weren't pressed.
 
 ## Serving
-Serve with: A north Indian curry (chana masala, dal makhani) or pickles and yoghurt.
-Garnish with: A pinch of flaky salt while still warm.
+- Serve with: A north Indian curry (chana masala, dal makhani) or pickles and yoghurt.
+- Garnish with: A pinch of flaky salt while still warm.
 
 ## Storage
 - Best eaten the moment they come out of the oil.

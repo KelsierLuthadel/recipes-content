@@ -72,12 +72,12 @@ The LA-style burrito grew up in Los Angeles taquerias and lunch trucks across Ea
 - **The wrap discipline:** Fold tight or the contents will spill at the first bite. The fold is bottom-up, sides-in, then roll forward.
 
 ## Variations
-**Vegetarian:** Skip the meat, double the beans, add roasted vegetables (peppers, courgette, mushroom).
-**Spicy:** Add a generous spoonful of salsa habanero or chipotle in adobo.
-**Cheesy:** Add cheese both inside the burrito and grated on top after the final pan-sear.
+- **Vegetarian:** Skip the meat, double the beans, add roasted vegetables (peppers, courgette, mushroom).
+- **Spicy:** Add a generous spoonful of salsa habanero or chipotle in adobo.
+- **Cheesy:** Add cheese both inside the burrito and grated on top after the final pan-sear.
 
 ## Serving
-Serve hot with a Jarritos or Mexican Coke, a side of guacamole, and extra salsa.
+- Serve hot with a Jarritos or Mexican Coke, a side of guacamole, and extra salsa.
 
 ## Storage
 - Guisado and refried beans both keep 4 days refrigerated; freeze separately for 2-3 months

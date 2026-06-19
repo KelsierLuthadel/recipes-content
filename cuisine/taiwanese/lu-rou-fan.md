@@ -76,11 +76,11 @@ Lu rou fan is Taiwan's everyday comfort bowl: hand-diced pork belly braised glos
 - **Skin on:** Hard rule. The collagen from the skin thickens the braise and gives mouthfeel.
 
 ## Variations
-**Mushroom-enriched:** Soak 4 dried shiitake in warm water for 30 minutes; chop and add with the aromatics. The soaking liquid replaces some of the stock.
-**Lu rou fan with bamboo shoots:** Stir 150 g sliced bamboo shoots into the braise for the last 30 minutes.
+- **Mushroom-enriched:** Soak 4 dried shiitake in warm water for 30 minutes; chop and add with the aromatics. The soaking liquid replaces some of the stock.
+- **Lu rou fan with bamboo shoots:** Stir 150 g sliced bamboo shoots into the braise for the last 30 minutes.
 
 ## Serving
-Serve with: steamed jasmine rice, blanched pak choi or Chinese broccoli, pickled mustard greens, soy-braised egg.
+- Serve with: steamed jasmine rice, blanched pak choi or Chinese broccoli, pickled mustard greens, soy-braised egg.
 
 ## Storage
 - Keeps 4 days refrigerated and improves overnight; the gelatine sets so reheat gently with a splash of water.

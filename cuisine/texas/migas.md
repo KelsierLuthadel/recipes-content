@@ -93,13 +93,13 @@ Migas (literally "crumbs", from the Spanish-Mexican tradition of using up stale 
 - **Eat immediately:** the crispness fades.
 
 ## Variations
-**Migas tacos:** assemble the migas into warm flour tortillas; the traditional Austin breakfast taco.
-**With chorizo:** crumble 200 g of Mexican chorizo into the pan after the onion; gives a richer fattier version.
-**Without cheese:** vegetarian-friendly variation.
-**Spicier:** double the jalapeños and add 1 chopped serrano.
+- **Migas tacos:** assemble the migas into warm flour tortillas; the traditional Austin breakfast taco.
+- **With chorizo:** crumble 200 g of Mexican chorizo into the pan after the onion; gives a richer fattier version.
+- **Without cheese:** vegetarian-friendly variation.
+- **Spicier:** double the jalapeños and add 1 chopped serrano.
 
 ## Serving
-On warm plates or in tacos. Drink: strong Mexican coffee, fresh orange juice. As Texan-American breakfast.
+- On warm plates or in tacos. Drink: strong Mexican coffee, fresh orange juice. As Texan-American breakfast.
 
 ## Storage
 - Best eaten immediately; eggs don't reheat well.

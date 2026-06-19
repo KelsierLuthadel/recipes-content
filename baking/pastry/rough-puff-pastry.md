@@ -43,7 +43,7 @@ Rough puff is the building block when you want puff-pastry flake without the two
 - Quarter-turn after each fold ensures even pressure distribution across the dough
 
 ## Serving
-Use rough puff pastry for vol-au-vents, fruit and cream tarts, strips topped with savory fillings, or sweet configurations with fruit. The pastry's flaky texture makes it ideal for both casual and elegant presentations. Brush with eggwash for golden color before baking.
+- Use rough puff pastry for vol-au-vents, fruit and cream tarts, strips topped with savory fillings, or sweet configurations with fruit. The pastry's flaky texture makes it ideal for both casual and elegant presentations. Brush with eggwash for golden color before baking.
 
 ## Storage
 Dough can be refrigerated for 2 days wrapped tightly, or frozen for up to 1 month. Shapes can be cut and frozen before baking; bake directly from frozen, adding 5 minutes to baking time. Baked pastry stores in an airtight container for 1-2 days; refresh briefly in a warm oven to re-crisp before serving.

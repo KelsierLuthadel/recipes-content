@@ -58,12 +58,12 @@ The pizza you make when there's bolognese left in the fridge and someone needs f
 - **Chilli oil twice:** Drizzle once before baking (the heat infuses the toppings) and once after (to keep the kick fresh).
 
 ## Variations
-**Carnivore-loaded:** Add cooked spicy sausage and pepperoni alongside the salami.
-**Burrata finish:** Drop a torn burrata over the hot pizza after baking for a creamy contrast.
+- **Carnivore-loaded:** Add cooked spicy sausage and pepperoni alongside the salami.
+- **Burrata finish:** Drop a torn burrata over the hot pizza after baking for a creamy contrast.
 
 ## Serving
-Serve with: A green salad with red wine vinegar and a glass of chianti
-Garnish with: Grated parmesan and extra basil
+- Serve with: A green salad with red wine vinegar and a glass of chianti
+- Garnish with: Grated parmesan and extra basil
 
 ## Storage
 - Best eaten fresh while the cheese is still molten

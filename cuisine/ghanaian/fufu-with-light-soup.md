@@ -73,7 +73,7 @@ For the light soup:
 - **Plantain-only fufu:** Skip the cassava for a sweeter, softer ball.
 
 ## Serving
-Eat with the right hand · tear a knob of fufu, swallow with broth · a glass of cold water · shito on the side if you want extra heat.
+- Eat with the right hand · tear a knob of fufu, swallow with broth · a glass of cold water · shito on the side if you want extra heat.
 
 ## Storage
 - Soup keeps 3 days refrigerated and freezes 2 months

@@ -54,15 +54,15 @@ Pan bati, Papiamento for "beaten bread", is the bread of the Aruban dinner table
 - **Stack under a cloth:** the steam keeps the pancakes soft as you cook the next.
 
 ## Variations
-**Pan bati cu coco:** swap all the milk for coconut milk for the richer version.
-**Pan bati cu keshi:** stir 80 g grated Edam into the batter for cheese pan bati.
-**Sweet pan bati (breakfast):** double the sugar and serve with butter and jam at breakfast.
-**Pan bati cu anijs:** add 1 tsp crushed anise seed for the traditional spiced version.
-**Thicker pan bati:** use 100 ml less milk for a heartier slab-style pan bati.
-**Mini pan bati:** cook 10 cm rounds for individual portions, the restaurant version.
+- **Pan bati cu coco:** swap all the milk for coconut milk for the richer version.
+- **Pan bati cu keshi:** stir 80 g grated Edam into the batter for cheese pan bati.
+- **Sweet pan bati (breakfast):** double the sugar and serve with butter and jam at breakfast.
+- **Pan bati cu anijs:** add 1 tsp crushed anise seed for the traditional spiced version.
+- **Thicker pan bati:** use 100 ml less milk for a heartier slab-style pan bati.
+- **Mini pan bati:** cook 10 cm rounds for individual portions, the restaurant version.
 
 ## Serving
-With stoba di cabritu · with sopi di pisca · with keshi yena · with stewed beans · at breakfast with butter and gouda · torn at the table to mop gravy · stacked warm under a cloth.
+- With stoba di cabritu · with sopi di pisca · with keshi yena · with stewed beans · at breakfast with butter and gouda · torn at the table to mop gravy · stacked warm under a cloth.
 
 ## Storage
 - Best warm from the pan; texture stiffens as they cool.

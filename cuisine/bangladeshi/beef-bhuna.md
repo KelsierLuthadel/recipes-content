@@ -79,7 +79,7 @@ Bhuna is a cooking technique more than a fixed recipe: bhuna means "fried" in th
 - **Slow-cooker:** Stages 1-3 on the hob, then transfer to a slow-cooker on low for 6 hours; finish on the hob to drive off moisture for the proper bhuna texture.
 
 ## Serving
-Plain rice or porota (flaky layered flatbread) · slit green chillies · raw onion rings dressed with lime and salt · a thin dal alongside
+- Plain rice or porota (flaky layered flatbread) · slit green chillies · raw onion rings dressed with lime and salt · a thin dal alongside
 
 ## Storage
 - Refrigerate up to 4 days; flavour deepens significantly by day 2

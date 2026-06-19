@@ -123,17 +123,17 @@ Coxinha (literally "little drumstick"; the shape mimics a chicken-leg-bone-and-m
 - **170°C is the right oil temperature:** higher and the outside burns before the inside heats; lower and the breading absorbs too much oil.
 
 ## Variations
-**Coxinha de queijo (cheese coxinha):** swap the chicken for 100% Catupiry or cream cheese, the vegetarian version.
-**Coxinha de pizza:** stuff with chopped pepperoni + mozzarella + tomato sauce, modern fusion variant.
-**Coxinha doce (sweet coxinha):** make the dough with milk + a touch of sugar; stuff with chocolate sauce + caramelised condensed milk, Brazilian dessert variant.
-**Coxinha de jaca (jackfruit):** swap chicken for shredded young jackfruit (a vegan alternative). Increasingly popular.
-**Mini coxinhas:** make 50-60 small bite-size versions for canapés.
-**Coxinha assada (baked):** brush with egg wash; bake at 200°C for 25 minutes instead of deep-frying. Less crispy but healthier.
-**Coxinha de bacalhau:** swap chicken for desalted shredded cod, Portuguese-Brazilian fusion.
-**Spicy coxinha:** add 1-2 finely chopped jalapeños to the chicken filling.
+- **Coxinha de queijo (cheese coxinha):** swap the chicken for 100% Catupiry or cream cheese, the vegetarian version.
+- **Coxinha de pizza:** stuff with chopped pepperoni + mozzarella + tomato sauce, modern fusion variant.
+- **Coxinha doce (sweet coxinha):** make the dough with milk + a touch of sugar; stuff with chocolate sauce + caramelised condensed milk, Brazilian dessert variant.
+- **Coxinha de jaca (jackfruit):** swap chicken for shredded young jackfruit (a vegan alternative). Increasingly popular.
+- **Mini coxinhas:** make 50-60 small bite-size versions for canapés.
+- **Coxinha assada (baked):** brush with egg wash; bake at 200°C for 25 minutes instead of deep-frying. Less crispy but healthier.
+- **Coxinha de bacalhau:** swap chicken for desalted shredded cod, Portuguese-Brazilian fusion.
+- **Spicy coxinha:** add 1-2 finely chopped jalapeños to the chicken filling.
 
 ## Serving
-At every Brazilian padaria (bakery-café) at any time of day (the traditional setting) · at every Brazilian children's birthday party · at every Brazilian bar with a cold beer · at every Brazilian bus station kiosk · at a Brazilian wedding canapé reception · at a Brazilian family Sunday lunch as a starter · at a Brazilian football match (the match-day food) · at home for a weekend afternoon treat.
+- At every Brazilian padaria (bakery-café) at any time of day (the traditional setting) · at every Brazilian children's birthday party · at every Brazilian bar with a cold beer · at every Brazilian bus station kiosk · at a Brazilian wedding canapé reception · at a Brazilian family Sunday lunch as a starter · at a Brazilian football match (the match-day food) · at home for a weekend afternoon treat.
 
 ## Storage
 - Cooked coxinhas refrigerate 3 days; reheat in a 180°C oven for 10 minutes (don't microwave; crispy crust goes soft).

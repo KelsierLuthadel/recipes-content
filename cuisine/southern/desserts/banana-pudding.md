@@ -84,13 +84,13 @@ Banana pudding is one of the South's most iconic desserts and a fixture at every
 - **From-scratch custard is the upgrade; Jell-O instant is the traditional shortcut.**
 
 ## Variations
-**Jell-O instant version (the traditional 20th-century):** mix 2 boxes of Jell-O instant vanilla pudding with 1 litre of cold milk; layer as recipe.
-**With meringue topping:** instead of whipped cream, top with a 7-minute frosting (Italian meringue) and toast briefly.
-**With caramel sauce:** drizzle caramel sauce between layers.
-**Smaller individual portions:** layer in 6-8 small glass jars.
+- **Jell-O instant version (the traditional 20th-century):** mix 2 boxes of Jell-O instant vanilla pudding with 1 litre of cold milk; layer as recipe.
+- **With meringue topping:** instead of whipped cream, top with a 7-minute frosting (Italian meringue) and toast briefly.
+- **With caramel sauce:** drizzle caramel sauce between layers.
+- **Smaller individual portions:** layer in 6-8 small glass jars.
 
 ## Serving
-Chilled. At Southern church potlucks, family reunions, Sunday dinners. With sweet tea or strong coffee.
+- Chilled. At Southern church potlucks, family reunions, Sunday dinners. With sweet tea or strong coffee.
 
 ## Storage
 - Keeps refrigerated 3 days; wafers continue to soften.

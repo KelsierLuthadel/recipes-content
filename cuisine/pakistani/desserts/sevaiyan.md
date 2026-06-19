@@ -53,7 +53,7 @@ Sevaiyan is the drier cousin of sheer khurma and the morning-of-Eid breakfast in
 - A small spoon of khoya (reduced milk solids) stirred in at the end deepens the flavour considerably.
 
 ## Serving
-In small bowls on the Eid morning table, with sweet milky tea or strong black coffee. Top each bowl with the reserved nuts and a few extra slivered pistachios.
+- In small bowls on the Eid morning table, with sweet milky tea or strong black coffee. Top each bowl with the reserved nuts and a few extra slivered pistachios.
 
 ## Storage
 In a covered container in the fridge for up to 3 days. Reheat gently with a splash of milk to loosen.

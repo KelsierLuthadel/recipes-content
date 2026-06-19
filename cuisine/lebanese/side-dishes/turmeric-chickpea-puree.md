@@ -110,17 +110,17 @@ The plainest of Middle Eastern chickpea dips: cooked chickpeas blitzed silky wit
 - **Salt Sensitivity:** Add salt gradually; it enhances flavor at low levels but becomes harsh at high levels.
 
 ## Variations
-**Hummus bi Tahina:** Fold 2-3 tablespoons sesame tahini into finished hummus for richer, nuttier version (more traditional in many regions).
-**Spiced Hummus:** Add ¼ teaspoon cayenne pepper or ½ teaspoon harissa paste for heat.
-**With Ginger:** Add ½ teaspoon freshly grated ginger for subtle warmth and complexity.
-**Garlic-Forward:** Increase garlic to 2-3 cloves for more assertive character (though traditional is mild).
-**Roasted Red Pepper:** Fold 2-3 tablespoons roasted red pepper purée into finished hummus for different color and mild sweetness.
+- **Hummus bi Tahina:** Fold 2-3 tablespoons sesame tahini into finished hummus for richer, nuttier version (more traditional in many regions).
+- **Spiced Hummus:** Add ¼ teaspoon cayenne pepper or ½ teaspoon harissa paste for heat.
+- **With Ginger:** Add ½ teaspoon freshly grated ginger for subtle warmth and complexity.
+- **Garlic-Forward:** Increase garlic to 2-3 cloves for more assertive character (though traditional is mild).
+- **Roasted Red Pepper:** Fold 2-3 tablespoons roasted red pepper purée into finished hummus for different color and mild sweetness.
 
 ## Serving
-Use with: Warm pita bread, raw vegetable crudités, olives, as part of mezze spread, alongside grilled meats, as a sauce base for bowls
-Temperature: Room temperature or cool
-Ratio: 30-40ml per serving as appetizer dip
-Context: Middle Eastern meals, appetizers, vegetarian spreads, lunch bowls, dipping accompaniment
+- Use with: Warm pita bread, raw vegetable crudités, olives, as part of mezze spread, alongside grilled meats, as a sauce base for bowls
+- Temperature: Room temperature or cool
+- Ratio: 30-40ml per serving as appetizer dip
+- Context: Middle Eastern meals, appetizers, vegetarian spreads, lunch bowls, dipping accompaniment
 
 ## Storage
 - Refrigerate in a sealed glass container for up to 4-5 days.

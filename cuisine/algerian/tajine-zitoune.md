@@ -69,7 +69,7 @@ Tajine zitoune is the Algerian cousin of the Moroccan chicken-and-olive tajine, 
 - **Preserved lemon.** Use only the rind, sliced thin; the flesh is too salty. If you cannot find preserved lemon, the dish loses a key note but a strip of fresh lemon zest is a passable stand-in.
 
 ## Serving
-Serve hot with plain steamed rice (Algerian-style, separate grains rinsed twice before cooking) or with crusty French bread to mop the sauce. A simple cucumber and tomato salad alongside is the usual partner. Mint tea afterwards.
+- Serve hot with plain steamed rice (Algerian-style, separate grains rinsed twice before cooking) or with crusty French bread to mop the sauce. A simple cucumber and tomato salad alongside is the usual partner. Mint tea afterwards.
 
 ## Storage
 - Keeps 3 days refrigerated; the flavour deepens overnight

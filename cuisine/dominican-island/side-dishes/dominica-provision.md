@@ -58,14 +58,14 @@ Provision is the Caribbean word for the ground-grown starches that fed the islan
 - **Provision substitution:** outside the Caribbean, use a mix of what you can find. A starchy plain potato is the closest stand-in for yam.
 
 ## Variations
-**With coconut milk:** replace 500 ml of the water with coconut milk for a richer Dominican variant.
-**With salt fish:** drop 200 g of soaked saltfish into the pot for the last 5 minutes; serve the fish on top of the provision.
-**With ackee:** flake 200 g of fresh or tinned ackee over the drained provision for a cross-island plate.
-**With pumpkin:** add 300 g of cubed pumpkin in the last 10 minutes for a sweet-and-soft addition.
-**Steamed not boiled:** steam the provision over salted water for a drier finish (a lighter dinner side).
+- **With coconut milk:** replace 500 ml of the water with coconut milk for a richer Dominican variant.
+- **With salt fish:** drop 200 g of soaked saltfish into the pot for the last 5 minutes; serve the fish on top of the provision.
+- **With ackee:** flake 200 g of fresh or tinned ackee over the drained provision for a cross-island plate.
+- **With pumpkin:** add 300 g of cubed pumpkin in the last 10 minutes for a sweet-and-soft addition.
+- **Steamed not boiled:** steam the provision over salted water for a drier finish (a lighter dinner side).
 
 ## Serving
-Serve hot piled on the plate under any creole stew · with stewed chicken or beef gravy ladled over · with saltfish buljol and butter · with smoked herring sauté · as the bed under sancoche dumplings · with hot pepper sauce · as the Dominican everyday lunch side.
+- Serve hot piled on the plate under any creole stew · with stewed chicken or beef gravy ladled over · with saltfish buljol and butter · with smoked herring sauté · as the bed under sancoche dumplings · with hot pepper sauce · as the Dominican everyday lunch side.
 
 ## Storage
 - Boiled provision keeps 2 days refrigerated; reheat by steaming over hot water (boiling makes it mushy).

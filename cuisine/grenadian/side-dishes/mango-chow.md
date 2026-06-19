@@ -57,14 +57,14 @@ Mango chow is the Caribbean's hot-weather salad and back-yard snack, eaten from 
 - **Eat the same day:** the mango softens after a few hours and loses its crunch.
 
 ## Variations
-**Pineapple chow:** swap the mango for very firm pineapple chunks.
-**Pommecythere (golden apple) chow:** the classic Trinidadian version with green pommecythere.
-**Cucumber chow:** with crunchy cucumber chunks (peel the skin in stripes).
-**Five-fruit chow:** mango, pineapple, pommecythere, cucumber and green apple all in one bowl.
-**Sour-and-sweet chow:** add 1 tablespoon of cane vinegar for sharper bite.
+- **Pineapple chow:** swap the mango for very firm pineapple chunks.
+- **Pommecythere (golden apple) chow:** the classic Trinidadian version with green pommecythere.
+- **Cucumber chow:** with crunchy cucumber chunks (peel the skin in stripes).
+- **Five-fruit chow:** mango, pineapple, pommecythere, cucumber and green apple all in one bowl.
+- **Sour-and-sweet chow:** add 1 tablespoon of cane vinegar for sharper bite.
 
 ## Serving
-From a paper cone at the beach · in a bowl by the road · as a side with grilled fish · with a cold beer · at a Grenadian family lime.
+- From a paper cone at the beach · in a bowl by the road · as a side with grilled fish · with a cold beer · at a Grenadian family lime.
 
 ## Storage
 - Best eaten within 2 hours.

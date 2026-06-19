@@ -85,7 +85,7 @@ Pepián (pepián rojo) is the patrimonial dish of Guatemala, traceable to the Ka
 - **Pepián blanco:** without tomato or chilli; pale gold from seeds alone, a Cobán variation.
 
 ## Serving
-With white rice · tamalitos blancos · chirmol · sliced avocado · warm corn tortillas · a wedge of lime
+- With white rice · tamalitos blancos · chirmol · sliced avocado · warm corn tortillas · a wedge of lime
 
 ## Storage
 - The sauce keeps 4 days refrigerated and freezes 3 months

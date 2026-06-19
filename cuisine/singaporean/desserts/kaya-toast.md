@@ -63,7 +63,7 @@ Kaya toast is Singapore's signature breakfast and the inevitable last item at an
 - **The slow cook:** 45-60 minutes over a bain-marie is correct. Cooking faster (direct heat) scrambles the eggs.
 
 ## Serving
-Serve as breakfast in a Singapore kopitiam-style: kaya toast on a small plate, two half-boiled eggs in a saucer next to it (with a small bowl of dark soy + white pepper for seasoning), and a cup of kopi (Malayan-style coffee with sweetened condensed milk).
+- Serve as breakfast in a Singapore kopitiam-style: kaya toast on a small plate, two half-boiled eggs in a saucer next to it (with a small bowl of dark soy + white pepper for seasoning), and a cup of kopi (Malayan-style coffee with sweetened condensed milk).
 
 ## Storage
 - Kaya refrigerated 2 weeks in a clean sealed jar.

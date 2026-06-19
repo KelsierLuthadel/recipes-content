@@ -76,12 +76,12 @@ Beignets are New Orleans' iconic Creole doughnut and the traditional breakfast/s
 - **Eat immediately while warm:** soften quickly.
 
 ## Variations
-**Savoury (less traditional):** skip sugar; dust with grated cheese.
-**With apple filling:** brush with apple compote before dusting.
-**Smaller bite-size:** cut into 3cm squares.
+- **Savoury (less traditional):** skip sugar; dust with grated cheese.
+- **With apple filling:** brush with apple compote before dusting.
+- **Smaller bite-size:** cut into 3cm squares.
 
 ## Serving
-With chicory café au lait. Sunday breakfast; late-night French Quarter snack.
+- With chicory café au lait. Sunday breakfast; late-night French Quarter snack.
 
 ## Storage
 - Best immediately.

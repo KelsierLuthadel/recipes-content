@@ -81,7 +81,7 @@ Makroud is the Algerian and Tunisian pastry that everyone makes for Ramadan, wed
 - **Make ahead.** Makroud keep beautifully in a sealed tin for 2 weeks; the syrup soaks deeper over the first day.
 
 ## Serving
-Pile in a small pyramid on a plate; serve at the end of a meal with mint tea or qahwa, or at any point during a Ramadan evening of visiting and being visited.
+- Pile in a small pyramid on a plate; serve at the end of a meal with mint tea or qahwa, or at any point during a Ramadan evening of visiting and being visited.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature

@@ -109,17 +109,17 @@ Erwtensoep (nicknamed "snert" in casual Dutch) is the Netherlands' winter soup a
 - **Don't add salt early:** the smoked meat releases plenty of salt during the long cook. Taste before adding more.
 
 ## Variations
-**Erwtensoep met rookworst (the traditional home version):** as above with both ham hock + rookworst, what most Dutch families make.
-**Snert without ham hock (lighter):** skip the ham hock; use a smoked turkey wing or just the rookworst, lighter, less rich.
-**Vegetarian erwtensoep:** skip all meat; use a strong vegetable stock + a teaspoon of smoked paprika + a teaspoon of liquid smoke; serve with a small dollop of crispy fried-onion shreds on top.
-**Modern Amsterdam restaurant variant:** serve in a small bowl with a sliced poached egg on top and a swirl of crème fraîche, bistro-fied.
-**Erwtensoep with curry powder (modern):** add 1 teaspoon Indonesian curry powder (kerrie poeder): the colonial-era Dutch-Indonesian variant.
-**Snert with celery root puree:** swap the celery vegetable for an extra portion of celeriac, the modern earthy variant.
-**Quick weeknight erwtensoep:** use frozen split peas (cooks in 1.5 hours instead of 2) + a tin of canned smoked-pork-belly + rookworst - 90 minutes total.
-**Erwtensoep served at the Elfstedentocht ice-skating festival:** with hot mulled spirits (bisschopswijn) alongside.
+- **Erwtensoep met rookworst (the traditional home version):** as above with both ham hock + rookworst, what most Dutch families make.
+- **Snert without ham hock (lighter):** skip the ham hock; use a smoked turkey wing or just the rookworst, lighter, less rich.
+- **Vegetarian erwtensoep:** skip all meat; use a strong vegetable stock + a teaspoon of smoked paprika + a teaspoon of liquid smoke; serve with a small dollop of crispy fried-onion shreds on top.
+- **Modern Amsterdam restaurant variant:** serve in a small bowl with a sliced poached egg on top and a swirl of crème fraîche, bistro-fied.
+- **Erwtensoep with curry powder (modern):** add 1 teaspoon Indonesian curry powder (kerrie poeder): the colonial-era Dutch-Indonesian variant.
+- **Snert with celery root puree:** swap the celery vegetable for an extra portion of celeriac, the modern earthy variant.
+- **Quick weeknight erwtensoep:** use frozen split peas (cooks in 1.5 hours instead of 2) + a tin of canned smoked-pork-belly + rookworst - 90 minutes total.
+- **Erwtensoep served at the Elfstedentocht ice-skating festival:** with hot mulled spirits (bisschopswijn) alongside.
 
 ## Serving
-At a Dutch winter family dinner (the traditional setting, December to February) · at an ice-skating shelter along a frozen Dutch canal (the traditional Dutch winter street food) · at a Dutch sinterklaas (5 December) celebration · at a Dutch ice-skating festival like the legendary Elfstedentocht · at a Dutch Christmas Eve dinner · at a Dutch student-house dinner · at home as the traditional Sunday winter restorative · paired with dark rye bread, katenspek, mustard and a glass of cold lager.
+- At a Dutch winter family dinner (the traditional setting, December to February) · at an ice-skating shelter along a frozen Dutch canal (the traditional Dutch winter street food) · at a Dutch sinterklaas (5 December) celebration · at a Dutch ice-skating festival like the legendary Elfstedentocht · at a Dutch Christmas Eve dinner · at a Dutch student-house dinner · at home as the traditional Sunday winter restorative · paired with dark rye bread, katenspek, mustard and a glass of cold lager.
 
 ## Storage
 - Refrigerates 4 days, and improves with time. Many Dutch families make it the day before serving.

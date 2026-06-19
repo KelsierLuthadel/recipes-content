@@ -87,13 +87,13 @@ Shamu datshi is the mushroom version of Bhutan's beloved datshi (cheese-stew) fa
 - **Bhutanese chilli levels:** the traditional Bhutanese version uses way more chillies than this recipe (often 6-8 hot Bhutanese green chillies whole). I've moderated for non-Bhutanese palates; scale up if you want the proper experience.
 
 ## Variations
-**Shamu datshi with potato:** add 1 medium potato (peeled, cubed) along with the mushrooms; the potato softens during the cook and gives extra body. Bridges shamu datshi and kewa datshi.
-**Vegan shamu datshi:** swap the cheese for 200 g of firm tofu (crumbled) and add 2 tablespoons of nutritional yeast for the cheesy flavour. Less authentic but works for vegans.
-**Shamu datshi with bacon:** add 80 g of diced bacon to the pan at the start (render the fat, then add the onion); gives a smoky depth. Non-traditional but lovely.
-**With dried mushrooms only:** for a deeper more concentrated flavour, use 60 g of mixed dried mushrooms (porcini, shiitake) soaked in 300 ml water; use both the rehydrated mushrooms and the soaking liquid (in place of the 150 ml water). Gives a more rustic Bhutanese flavour.
+- **Shamu datshi with potato:** add 1 medium potato (peeled, cubed) along with the mushrooms; the potato softens during the cook and gives extra body. Bridges shamu datshi and kewa datshi.
+- **Vegan shamu datshi:** swap the cheese for 200 g of firm tofu (crumbled) and add 2 tablespoons of nutritional yeast for the cheesy flavour. Less authentic but works for vegans.
+- **Shamu datshi with bacon:** add 80 g of diced bacon to the pan at the start (render the fat, then add the onion); gives a smoky depth. Non-traditional but lovely.
+- **With dried mushrooms only:** for a deeper more concentrated flavour, use 60 g of mixed dried mushrooms (porcini, shiitake) soaked in 300 ml water; use both the rehydrated mushrooms and the soaking liquid (in place of the 150 ml water). Gives a more rustic Bhutanese flavour.
 
 ## Serving
-On a bed of warm red rice, with the creamy mushroom-cheese sauce ladled over generously. Often part of a multi-dish Bhutanese table alongside ema datshi (chilli-cheese), shakam paa (dried beef stew), [jaju](jaju.md) (mushroom soup), and various ezay (chilli relishes). Drink: butter tea (suja), or Bhutanese ara (rice wine), or just water.
+- On a bed of warm red rice, with the creamy mushroom-cheese sauce ladled over generously. Often part of a multi-dish Bhutanese table alongside ema datshi (chilli-cheese), shakam paa (dried beef stew), [jaju](jaju.md) (mushroom soup), and various ezay (chilli relishes). Drink: butter tea (suja), or Bhutanese ara (rice wine), or just water.
 
 ## Storage
 - Keeps refrigerated 2 days; the cheese sauce goes slightly grainy on reheating but the flavour holds.

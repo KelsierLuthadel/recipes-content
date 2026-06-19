@@ -44,7 +44,7 @@ Crème chiboust is the building block for the classic Saint-Honoré gateau and a
 - The temperature contrast between the warm custard and cooled meringue should be minimal to prevent texture loss
 
 ## Serving
-Use crème chiboust immediately as a filling for tarts, St. Honoré cakes, or mousse-based desserts. Its light texture makes it particularly suited to delicate presentations. Often torched or browned under the grill for added visual appeal.
+- Use crème chiboust immediately as a filling for tarts, St. Honoré cakes, or mousse-based desserts. Its light texture makes it particularly suited to delicate presentations. Often torched or browned under the grill for added visual appeal.
 
 ## Storage
 Best consumed immediately; do not store prepared crème chiboust as the meringue will gradually weep and separate. If necessary, refrigerate for a maximum of 1-2 hours in an airtight container, though texture degradation is expected.

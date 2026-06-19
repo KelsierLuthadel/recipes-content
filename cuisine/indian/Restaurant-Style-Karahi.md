@@ -116,9 +116,9 @@ The flavour profile is medium to hot, distinctly herbaceous from the green paste
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a fresh chapati. A wedge of lemon and a small bowl of raita round out the plate.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a fresh chapati. A wedge of lemon and a small bowl of raita round out the plate.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The toasted-seed and fresh-paste notes are brightest on day one but the dish still holds up well. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth and the tomato pieces intact.

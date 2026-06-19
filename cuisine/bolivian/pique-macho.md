@@ -69,7 +69,7 @@ To dress:
 - Some versions add boiled cassava chunks to the chip bed
 
 ## Serving
-Serve at once on one huge platter · forks for everyone · cold beer · llajwa on the side for those who want more heat
+- Serve at once on one huge platter · forks for everyone · cold beer · llajwa on the side for those who want more heat
 
 ## Storage
 - The platter is best eaten on the day

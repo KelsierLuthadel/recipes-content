@@ -71,7 +71,7 @@ This is a same-day achaar, bracing on day one, fading by day three. It is also t
 - **With cucumber:** fold 100 g finely diced cucumber (salted briefly and squeezed) through the finished achaar for a fresher, longer-textured pickle.
 
 ## Serving
-A tablespoon per person on the dal bhat plate, or a heaped bowl alongside [chicken momos](../chicken-momos.md) as a dipping sauce.
+- A tablespoon per person on the dal bhat plate, or a heaped bowl alongside [chicken momos](../chicken-momos.md) as a dipping sauce.
 
 ## Storage
 - Best the day it is made; refrigerates 2 days. The lemon and the fresh herbs fade after that.

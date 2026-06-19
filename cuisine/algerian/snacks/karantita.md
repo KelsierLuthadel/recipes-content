@@ -53,7 +53,7 @@ Karantita (also called calentita; from the Spanish caliente, "hot") is the chick
 - **The egg.** Some Oran cooks include the egg, some do not. With egg the texture is softer and more set; without it the centre is creamier. Both are correct.
 
 ## Serving
-Eat hot or warm, never cold. Wrap a square in paper and eat standing up; that is the proper Oran way. Cumin, salt and harissa on the side. A small glass of strong black qahwa to wash it down.
+- Eat hot or warm, never cold. Wrap a square in paper and eat standing up; that is the proper Oran way. Cumin, salt and harissa on the side. A small glass of strong black qahwa to wash it down.
 
 ## Storage
 - Best eaten within an hour of baking; the crisp surface goes soft otherwise

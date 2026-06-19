@@ -46,7 +46,7 @@ Chocolate roulade is the French Christmas-table dessert (bûche de Noël in its 
 - Roll the roulade firmly but gently; a jerky motion will cause it to crack
 
 ## Serving
-Slice the roulade with a sharp, thin-bladed knife dipped in hot water (wipe between cuts) to reveal the beautiful chocolate-striped interior. Dust the cut surface lightly with icing sugar and drizzle with the reserved chocolate sauce. Serve immediately for the best texture contrast.
+- Slice the roulade with a sharp, thin-bladed knife dipped in hot water (wipe between cuts) to reveal the beautiful chocolate-striped interior. Dust the cut surface lightly with icing sugar and drizzle with the reserved chocolate sauce. Serve immediately for the best texture contrast.
 
 ## Storage
 The roulade can be assembled up to 2-3 hours before serving and kept covered lightly in a cool location (not refrigerated, as cold makes the meringue hard). The meringue base can be baked the day before and kept in an airtight container at room temperature. Do not refrigerate the assembled roulade or the meringue will become tough and hard; instead, keep in a cool room.

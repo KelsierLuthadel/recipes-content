@@ -104,13 +104,13 @@ Ragu with gnocchi is the Italian comfort dinner that pairs slow-cooked meat sauc
 - **Gentle braise:** The low oven heat gives even, sustained cooking and prevents the sauce from becoming harsh.
 
 ## Variations
-**Pancetta-free:** Omit the pancetta and use extra neutral oil for a lighter base.
-**Stock swap:** Use beef stock for a richer sauce or chicken stock for a slightly lighter character.
-**Fresh pasta:** Serve with homemade tagliatelle or pappardelle for a restaurant-style finish.
+- **Pancetta-free:** Omit the pancetta and use extra neutral oil for a lighter base.
+- **Stock swap:** Use beef stock for a richer sauce or chicken stock for a slightly lighter character.
+- **Fresh pasta:** Serve with homemade tagliatelle or pappardelle for a restaurant-style finish.
 
 ## Serving
-Serve with: fresh tagliatelle, pappardelle, or potato gnocchi
-Garnish with: grated Parmesan and cracked black pepper
+- Serve with: fresh tagliatelle, pappardelle, or potato gnocchi
+- Garnish with: grated Parmesan and cracked black pepper
 
 ## Storage
 - Refrigerate in an airtight container for up to 4 days.

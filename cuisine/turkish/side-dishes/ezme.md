@@ -81,13 +81,13 @@ Ezme (literally "crushed" in Turkish) is Turkey's signature fresh red-pepper-and
 - **Use ripe tomatoes:** the dish depends on tomato flavour. Use the ripest tomatoes you can find; greenhouse winter tomatoes give bland ezme.
 
 ## Variations
-**Acılı ezme (spicy ezme):** double the fresh chillies and the Aleppo pepper; gives a properly fierce version. Common in southeast Turkey.
-**Walnut ezme:** add 60 g of finely chopped walnuts to the mix; gives a richer crunchier ezme. Common in central Anatolia.
-**Pepper-heavier ezme:** double the red pepper, halve the tomato; gives a more pepper-forward version. Common Aegean variation.
-**Smoky ezme:** char the red peppers over a flame first, peel and chop; gives a smoky depth that's properly delicious.
+- **Acılı ezme (spicy ezme):** double the fresh chillies and the Aleppo pepper; gives a properly fierce version. Common in southeast Turkey.
+- **Walnut ezme:** add 60 g of finely chopped walnuts to the mix; gives a richer crunchier ezme. Common in central Anatolia.
+- **Pepper-heavier ezme:** double the red pepper, halve the tomato; gives a more pepper-forward version. Common Aegean variation.
+- **Smoky ezme:** char the red peppers over a flame first, peel and chop; gives a smoky depth that's properly delicious.
 
 ## Serving
-On a meze plate alongside kebabs, köfte, iskender, or any grilled meat. With warm Turkish flatbread; the ezme is for scooping. Often part of a meyhane spread with rakı; the sharpness cuts through the richness of the spirit. With cheese and bread as a light lunch.
+- On a meze plate alongside kebabs, köfte, iskender, or any grilled meat. With warm Turkish flatbread; the ezme is for scooping. Often part of a meyhane spread with rakı; the sharpness cuts through the richness of the spirit. With cheese and bread as a light lunch.
 
 ## Storage
 - Best eaten the day it's made; the flavours peak after 30 minutes of resting and stay good for several hours.

@@ -70,13 +70,13 @@ Malanga frita is Cuba's beloved fried taro side and a staple of Cuban-American k
 - **Eat immediately:** crispness fades within 10 minutes.
 
 ## Variations
-**Yuca frita (the related cassava version):** swap malanga for yuca (cassava); boil 15 minutes first to tenderise, then fry. Different but related Cuban side.
-**Sweet potato malanga (boniato frito):** swap malanga for boniato (white sweet potato); fry the same way. Gives a sweeter starchier result.
-**Malanga balls (frituras de malanga):** grate the malanga raw; mix with garlic, salt and a beaten egg; shape into balls; deep-fry. Like Cuban malanga fritters.
-**Air-fried (healthier):** toss with 2 tablespoons oil; air-fry at 200°C for 12-15 minutes shaking halfway; less crisp but lighter.
+- **Yuca frita (the related cassava version):** swap malanga for yuca (cassava); boil 15 minutes first to tenderise, then fry. Different but related Cuban side.
+- **Sweet potato malanga (boniato frito):** swap malanga for boniato (white sweet potato); fry the same way. Gives a sweeter starchier result.
+- **Malanga balls (frituras de malanga):** grate the malanga raw; mix with garlic, salt and a beaten egg; shape into balls; deep-fry. Like Cuban malanga fritters.
+- **Air-fried (healthier):** toss with 2 tablespoons oil; air-fry at 200°C for 12-15 minutes shaking halfway; less crisp but lighter.
 
 ## Serving
-Hot from the fryer, sprinkled with salt and lime, with dipping sauces on the side. Alongside any Cuban main: lechón asado, ropa vieja, picadillo. Or as a Cuban-style snack with cold beer.
+- Hot from the fryer, sprinkled with salt and lime, with dipping sauces on the side. Alongside any Cuban main: lechón asado, ropa vieja, picadillo. Or as a Cuban-style snack with cold beer.
 
 ## Storage
 - Best eaten immediately.

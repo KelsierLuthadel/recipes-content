@@ -87,13 +87,13 @@ Navajo tacos (or "Indian tacos", "frybread tacos") are the iconic Native America
 - **Iceberg lettuce:** the traditional crunch.
 
 ## Variations
-**Vegetarian:** skip the beef; double the pinto beans + add black beans.
-**Spicier:** double the jalapeños; add chopped habanero.
-**With green chile:** swap the chili-powder seasoned beef for ground beef cooked with chopped roasted green chillies (New Mexico-style).
-**Mini Navajo tacos:** smaller frybreads (10 cm); makes 8 tacos.
+- **Vegetarian:** skip the beef; double the pinto beans + add black beans.
+- **Spicier:** double the jalapeños; add chopped habanero.
+- **With green chile:** swap the chili-powder seasoned beef for ground beef cooked with chopped roasted green chillies (New Mexico-style).
+- **Mini Navajo tacos:** smaller frybreads (10 cm); makes 8 tacos.
 
 ## Serving
-On wide plates as a substantial meal. At Pueblo feast days, Navajo Nation gatherings, Southwest fairs.
+- On wide plates as a substantial meal. At Pueblo feast days, Navajo Nation gatherings, Southwest fairs.
 
 ## Storage
 - Best eaten immediately; frybread loses crispness.

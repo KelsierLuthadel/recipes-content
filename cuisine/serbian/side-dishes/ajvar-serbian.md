@@ -64,7 +64,7 @@ Ajvar is the September project of every Serbian household. As the long red roga 
 - **Garlic-heavy.** Double the garlic if you like a sharper jar; common in Šumadija.
 
 ## Serving
-A scoop on the side of ćevapi, pljeskavica or sarma · spread on warm bread for breakfast · folded into mashed potato · stirred into bean stew · with eggs in any form · with cold roast meat
+- A scoop on the side of ćevapi, pljeskavica or sarma · spread on warm bread for breakfast · folded into mashed potato · stirred into bean stew · with eggs in any form · with cold roast meat
 
 ## Storage
 - Sealed jars keep 12 months in a cool dark cupboard

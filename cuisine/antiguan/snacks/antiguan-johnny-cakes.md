@@ -83,14 +83,14 @@ Johnny cakes (also written jonny cakes, journey cakes, or "ducana cousin") are t
 - **Eat the day they're fried:** day-old johnny cakes are dense.
 
 ## Variations
-**Whole wheat johnny cakes:** swap 200 g of the plain flour for wholemeal.
-**Coconut johnny cakes:** add 50 g desiccated coconut to the dry mix.
-**Cornmeal johnny cakes:** replace 100 g of the flour with fine cornmeal (the older Antiguan version).
-**Cheese johnny cakes:** grate 100 g sharp cheddar into the dough before kneading.
-**Oven-baked version:** brush with milk and bake on a tray at 200°C for 18 minutes (less authentic but lighter).
+- **Whole wheat johnny cakes:** swap 200 g of the plain flour for wholemeal.
+- **Coconut johnny cakes:** add 50 g desiccated coconut to the dry mix.
+- **Cornmeal johnny cakes:** replace 100 g of the flour with fine cornmeal (the older Antiguan version).
+- **Cheese johnny cakes:** grate 100 g sharp cheddar into the dough before kneading.
+- **Oven-baked version:** brush with milk and bake on a tray at 200°C for 18 minutes (less authentic but lighter).
 
 ## Serving
-At an Antiguan breakfast (the traditional setting) · with saltfish chop-up or fried eggs · with a mug of strong tea · alongside goat water stew · split and filled with cheese or butter for a hand-held snack · at a beach picnic with a Tupperware of jerk chicken.
+- At an Antiguan breakfast (the traditional setting) · with saltfish chop-up or fried eggs · with a mug of strong tea · alongside goat water stew · split and filled with cheese or butter for a hand-held snack · at a beach picnic with a Tupperware of jerk chicken.
 
 ## Storage
 - Best the day they're fried.

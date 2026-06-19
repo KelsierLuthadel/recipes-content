@@ -72,13 +72,13 @@ Pecan pralines are one of Texas's most iconic candies and a tradition shared wit
 - **Heavy saucepan:** prevents burning.
 
 ## Variations
-**With bourbon:** add 1 tablespoon of bourbon with the vanilla; gives sweet smoky depth.
-**With chocolate drizzle:** drizzle melted chocolate over the set pralines.
-**Salted pralines:** sprinkle flaky salt on each before they set; gives a salty-sweet contrast.
-**Smaller pralines:** drop teaspoons instead of tablespoons; makes 48 small ones.
+- **With bourbon:** add 1 tablespoon of bourbon with the vanilla; gives sweet smoky depth.
+- **With chocolate drizzle:** drizzle melted chocolate over the set pralines.
+- **Salted pralines:** sprinkle flaky salt on each before they set; gives a salty-sweet contrast.
+- **Smaller pralines:** drop teaspoons instead of tablespoons; makes 48 small ones.
 
 ## Serving
-As Texas candy after meals, with coffee, or as a Christmas gift. With strong coffee or after a Texan dinner.
+- As Texas candy after meals, with coffee, or as a Christmas gift. With strong coffee or after a Texan dinner.
 
 ## Storage
 - Keeps in a sealed container at room temperature 2 weeks.

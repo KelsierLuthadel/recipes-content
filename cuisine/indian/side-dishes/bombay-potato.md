@@ -76,15 +76,15 @@ Bombay Potatoes is comfort food at its finest. Small potatoes are partially cook
 - **Asafoetida:** This digestive spice is essential; use sparingly, as it's pungent.
 
 ## Variations
-**With Green Peas:** Add 75g frozen peas in the final 5 minutes of cooking.
-**Spicier Heat:** Use 3 fresh green chillies instead of 2.
-**Extra Mustard:** Double the mustard seeds for pronounced nutty flavor.
-**Tomato Addition:** Add 1 medium tomato (diced) after the onions are golden.
+- **With Green Peas:** Add 75g frozen peas in the final 5 minutes of cooking.
+- **Spicier Heat:** Use 3 fresh green chillies instead of 2.
+- **Extra Mustard:** Double the mustard seeds for pronounced nutty flavor.
+- **Tomato Addition:** Add 1 medium tomato (diced) after the onions are golden.
 
 ## Serving
-Serve with: Rice, breads (roti, naan), dals, curries
-Garnish: Reserved fried curry leaves and sesame seeds
-Vessels: Serve at the table in a warm bowl
+- Serve with: Rice, breads (roti, naan), dals, curries
+- Garnish: Reserved fried curry leaves and sesame seeds
+- Vessels: Serve at the table in a warm bowl
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

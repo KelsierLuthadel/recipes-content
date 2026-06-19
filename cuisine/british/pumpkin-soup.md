@@ -68,7 +68,7 @@ Pumpkin halves roasted cut-side down until the flesh collapses against the spoon
 - For a richer, autumnal version, swap 200 ml of the stock for apple juice.
 
 ## Serving
-In wide warm bowls with crusty bread, a hunk of mature cheddar, and good butter. At a Halloween supper, ladled from a hollowed-out pumpkin for theatre.
+- In wide warm bowls with crusty bread, a hunk of mature cheddar, and good butter. At a Halloween supper, ladled from a hollowed-out pumpkin for theatre.
 
 ## Storage
 In a covered container in the fridge for up to 4 days, or freezer for 2 months. Freezes well; reheat gently with a splash of stock to loosen.

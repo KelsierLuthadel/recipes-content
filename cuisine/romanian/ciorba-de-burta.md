@@ -93,7 +93,7 @@ Ciorbă de burtă is the most famous of Romania's sour soups, the bowl ordered a
 - **Veal-tendon version:** add 300 g veal tendon to the simmer; richer, more gelatinous.
 
 ## Serving
-Very hot · in a deep bowl · with mujdei and chilli at the table · with country bread · with a small glass of țuică alongside.
+- Very hot · in a deep bowl · with mujdei and chilli at the table · with country bread · with a small glass of țuică alongside.
 
 ## Storage
 - Refrigerate up to 3 days; flavour deepens.

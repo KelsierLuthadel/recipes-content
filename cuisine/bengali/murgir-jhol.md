@@ -96,7 +96,7 @@ The everyday Bengali household chicken curry, the antithesis of the heavy, cream
 - **Heat level.** The slit green chillies infuse without making the dish very hot. For more punch, leave them whole and bite around them at the table, the Bengali way.
 
 ## Serving
-Serve with steamed long-grain rice (chelo / plain basmati), a wedge of lemon, and a side of dal. Some salted slices of cucumber or a quick onion-and-green-chilli salad on the side cut through the richness.
+- Serve with steamed long-grain rice (chelo / plain basmati), a wedge of lemon, and a side of dal. Some salted slices of cucumber or a quick onion-and-green-chilli salad on the side cut through the richness.
 
 ## Storage
 - Refrigerate up to 2 days in an airtight container. The flavour deepens overnight and many cooks consider day-two jhol better than day-one.

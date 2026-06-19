@@ -101,7 +101,7 @@ Bamboo steamers stacked over a wok are ideal but a metal steamer with a single t
 - **Jhol momos:** steamed momos served in a thin broth made from the same achaar ingredients (warmed with stock). Eaten with a spoon.
 
 ## Serving
-Steamed momos are eaten as a meal or a snack; six per person is a small lunch, ten per person is a hearty one. Serve with the achaar and a glass of hot or cold milk tea (chiya).
+- Steamed momos are eaten as a meal or a snack; six per person is a small lunch, ten per person is a hearty one. Serve with the achaar and a glass of hot or cold milk tea (chiya).
 
 ## Storage
 - Uncooked momos freeze 3 months: lay flat on a tray to freeze individually, then bag. Steam straight from frozen, adding 5 minutes to the time.

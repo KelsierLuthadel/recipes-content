@@ -52,7 +52,7 @@ This is the architectural French berry dessert, three crisp meringue rounds stac
 - The coulis should be made from less-perfect berries; reserve the finest whole berries for layering and presentation
 
 ## Serving
-Build the layers directly on serving plates: place a meringue round, top with poached berries and coulis, add another meringue, more berries and coulis, then crown with a final meringue round. Spoon additional coulis artfully around the base. The height and structure showcase this dessert's complexity. Serve immediately while meringues are still crisp.
+- Build the layers directly on serving plates: place a meringue round, top with poached berries and coulis, add another meringue, more berries and coulis, then crown with a final meringue round. Spoon additional coulis artfully around the base. The height and structure showcase this dessert's complexity. Serve immediately while meringues are still crisp.
 
 ## Storage
 Meringue rounds keep for 2-3 days in an airtight container at room temperature (humidity is their enemy). The poached berries and coulis can be prepared the day before and refrigerated in a covered container. Assemble only as you serve, as the meringue rounds will absorb moisture from the berries and coulis within 15-20 minutes, becoming soft rather than crisp.

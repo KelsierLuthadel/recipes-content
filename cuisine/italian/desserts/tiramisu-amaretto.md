@@ -43,7 +43,7 @@ The classic with the lights turned down: Savoiardi soaked in cold espresso, laye
 - Chilling for the recommended 2 hours allows flavors to develop and components to set; even 1 hour provides adequate setting, though overnight improves flavor integration
 
 ## Serving
-Serve directly from chilled glasses, using a spoon to enjoy the layered presentation and textured components. Dust generously with cocoa powder only immediately before service, not before refrigerating (as noted in the recipe, cocoa can turn bitter with extended contact).
+- Serve directly from chilled glasses, using a spoon to enjoy the layered presentation and textured components. Dust generously with cocoa powder only immediately before service, not before refrigerating (as noted in the recipe, cocoa can turn bitter with extended contact).
 
 ## Storage
 Assembled tiramisu keeps refrigerated in a covered container for up to 3 days; the flavors actually improve over time as the coffee and Amaretto integrate. Do not freeze, as the whipped cream texture deteriorates. Dust with cocoa powder only immediately before serving. The unassembled components (egg mixture, whipped cream) should not be made more than 2-3 hours ahead.

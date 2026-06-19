@@ -53,7 +53,7 @@ Antiguan sugar cake is a no-bake confection: grated coconut, brown sugar, water,
 - **White sugar version:** Use white sugar in place of brown for a paler firmer cake.
 
 ## Serving
-Eat cold as a sweet treat · with a cup of black tea or coffee · wrapped in waxed paper for lunchboxes · part of a tray of mixed Antiguan sweets at Christmas.
+- Eat cold as a sweet treat · with a cup of black tea or coffee · wrapped in waxed paper for lunchboxes · part of a tray of mixed Antiguan sweets at Christmas.
 
 ## Storage
 - Keeps 3 weeks in an airtight tin at room temperature

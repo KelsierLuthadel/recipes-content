@@ -59,7 +59,7 @@ Kachumbari is the standing condiment of the Kenyan table. The name comes from th
 - **Bird's-eye fire:** swap the green chilli for two scotch bonnets, finely diced, the Lake Victoria heat version.
 
 ## Serving
-A small bowl alongside nyama choma · spooned over a plate of pilau · piled inside a chapati wrap · scraped onto githeri · the absolute companion to anything heavy.
+- A small bowl alongside nyama choma · spooned over a plate of pilau · piled inside a chapati wrap · scraped onto githeri · the absolute companion to anything heavy.
 
 ## Storage
 - Best within 2 hours; the tomato weeps water and the salad turns wet.

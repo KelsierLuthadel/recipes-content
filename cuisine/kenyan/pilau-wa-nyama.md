@@ -83,7 +83,7 @@ Pilau on the Kenyan coast is a slow, dark, deeply spiced rice. The signature mov
 - **Biryani-style:** layered with extra fried onions and saffron-soaked milk on top, an Indo-Kenyan crossover.
 
 ## Serving
-A heaped plate of pilau · a spoonful of kachumbari on the side · lemon wedge · a small bowl of yoghurt to cool the spice · eat with a fork (or fingers if you are at home).
+- A heaped plate of pilau · a spoonful of kachumbari on the side · lemon wedge · a small bowl of yoghurt to cool the spice · eat with a fork (or fingers if you are at home).
 
 ## Storage
 - Refrigerate 3 days. Reheat covered with a splash of stock to recover the fluff.

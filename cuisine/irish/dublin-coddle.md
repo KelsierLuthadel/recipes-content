@@ -78,13 +78,13 @@ Dublin coddle is the iconic Dublin one-pot stew, particular to the Irish capital
 - **Lots of parsley:** the parsley is what cuts through the richness. Use a whole large bunch; half stirred in, half over the top at the end.
 
 ## Variations
-**Vegetable coddle:** swap the sausages and bacon for 400 g of pearl barley and 200 g of dried split peas + 2 tablespoons of vegetable seasoning (Marigold) for umami; use vegetable stock. The dish loses its Dublin character but is excellent in its own right.
-**Lamb coddle:** swap the pork sausages for lamb sausages and use lamb stock; the flavour is different but works.
-**Chicken coddle:** swap the sausages for chicken thighs (skin-on); cook the same way. Less Dublin but a lovely one-pot meal.
-**With cabbage:** add a quartered savoy cabbage to the pot for the last 30 minutes of cooking; gives a proper one-pot meal with a green vegetable.
+- **Vegetable coddle:** swap the sausages and bacon for 400 g of pearl barley and 200 g of dried split peas + 2 tablespoons of vegetable seasoning (Marigold) for umami; use vegetable stock. The dish loses its Dublin character but is excellent in its own right.
+- **Lamb coddle:** swap the pork sausages for lamb sausages and use lamb stock; the flavour is different but works.
+- **Chicken coddle:** swap the sausages for chicken thighs (skin-on); cook the same way. Less Dublin but a lovely one-pot meal.
+- **With cabbage:** add a quartered savoy cabbage to the pot for the last 30 minutes of cooking; gives a proper one-pot meal with a green vegetable.
 
 ## Serving
-In wide warm bowls with thick slices of brown soda bread or buttered Irish soda bread on the side. A bottle of Guinness (or a glass of stout) alongside is the traditional Dublin pairing. A simple salad of crisp lettuce with a vinaigrette can lighten the meal.
+- In wide warm bowls with thick slices of brown soda bread or buttered Irish soda bread on the side. A bottle of Guinness (or a glass of stout) alongside is the traditional Dublin pairing. A simple salad of crisp lettuce with a vinaigrette can lighten the meal.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

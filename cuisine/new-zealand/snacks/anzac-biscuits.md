@@ -69,7 +69,7 @@ ANZAC biscuits get their name from the Australian and New Zealand Army Corps - t
 - **Bake at 160°C, not higher:** The high sugar content scorches at 180°C. Low and slow gives the deep caramel colour without burning.
 
 ## Serving
-Serve with tea or coffee at afternoon tea, or as the lunchbox biscuit of choice. Around Anzac Day (April 25), they appear in greater numbers; some Kiwis bake them annually as a remembrance ritual.
+- Serve with tea or coffee at afternoon tea, or as the lunchbox biscuit of choice. Around Anzac Day (April 25), they appear in greater numbers; some Kiwis bake them annually as a remembrance ritual.
 
 ## Storage
 - Room temperature in an airtight tin: 1-2 weeks (they keep brilliantly - the whole point of their original purpose).

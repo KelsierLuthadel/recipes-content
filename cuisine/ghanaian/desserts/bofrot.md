@@ -57,7 +57,7 @@ Bofrot (Twi) or togbei (Ga) is the round doughnut you find at every Ghanaian roa
 - **Savoury bofrot:** Skip the sugar, add 1 tsp dried chilli flakes, eat with shito.
 
 ## Serving
-Eat warm from a paper bag · with a cup of cold sobolo · with hot Milo (chocolate malt drink) · alongside kose for a breakfast snack pair.
+- Eat warm from a paper bag · with a cup of cold sobolo · with hot Milo (chocolate malt drink) · alongside kose for a breakfast snack pair.
 
 ## Storage
 - Best eaten the day they are made

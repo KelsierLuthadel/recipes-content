@@ -63,7 +63,7 @@
 - **Bulgarian version.** Includes more onion, more parsley, and often a clove of grated garlic in the dressing.
 
 ## Serving
-At room temperature in a wide shallow bowl, cheese piled high · alongside grilled meat, ćevapi or pljeskavica · with thick slices of fresh white bread to mop up the juices · slick of leftover dressing makes the bread-dipping medal of the meal
+- At room temperature in a wide shallow bowl, cheese piled high · alongside grilled meat, ćevapi or pljeskavica · with thick slices of fresh white bread to mop up the juices · slick of leftover dressing makes the bread-dipping medal of the meal
 
 ## Storage
 - Best within an hour of dressing; the tomato bleeds and the cheese softens

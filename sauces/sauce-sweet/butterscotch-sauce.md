@@ -47,7 +47,7 @@ Butterscotch sauce is the building block for the rich golden caramel-butter sauc
 - **Butter incorporation:** Whisk thoroughly to ensure smooth, glossy final sauce.
 
 ## Serving
-Serve hot with vanilla ice cream, apple Charlotte, or other warm desserts. Can be poured over warm soufflés or puddings.
+- Serve hot with vanilla ice cream, apple Charlotte, or other warm desserts. Can be poured over warm soufflés or puddings.
 
 ## Storage
 - Keeps refrigerated for 5 days in an airtight container.

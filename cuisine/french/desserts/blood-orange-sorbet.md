@@ -39,7 +39,7 @@ Blood orange sorbet is the late-winter palate cleanser that earns its place at t
 - The ice-cream machine must be thoroughly chilled before churning begins; work quickly to prevent melting when transferring the mixture
 
 ## Serving
-Serve in chilled glasses or coupes immediately after churning while the texture is at its peak creaminess. Garnish with a thin twist of blood orange zest or a fresh thyme sprig for visual appeal. Pair with light almond cookies or langue de chat for an elegant finish.
+- Serve in chilled glasses or coupes immediately after churning while the texture is at its peak creaminess. Garnish with a thin twist of blood orange zest or a fresh thyme sprig for visual appeal. Pair with light almond cookies or langue de chat for an elegant finish.
 
 ## Storage
 Sorbets are best enjoyed immediately after churning. If making ahead, transfer to the freezer in an airtight container; re-churn or allow to soften briefly at room temperature before serving, as sorbets can become hard and icy during storage. Will keep in the freezer for up to 5 days, though texture deteriorates after 2-3 days.

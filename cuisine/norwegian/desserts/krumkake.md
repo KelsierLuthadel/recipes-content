@@ -79,7 +79,7 @@ Krumkake (literally "curved cake") is a Norwegian waffle cookie shaped in a smal
 - **Fill at serving:** Whipped cream-filled krumkake go soggy within 30 minutes. Cook the shells ahead, fill at the table.
 
 ## Serving
-Serve at Christmas with coffee. The Norwegian protocol is to have a selection of seven biscuits on a tray (syv slag); krumkake is always one of them. Multekrem (cloudberry whipped cream) is the festive filling; in summer, fresh berries and whipped cream.
+- Serve at Christmas with coffee. The Norwegian protocol is to have a selection of seven biscuits on a tray (syv slag); krumkake is always one of them. Multekrem (cloudberry whipped cream) is the festive filling; in summer, fresh berries and whipped cream.
 
 ## Storage
 - Empty shells store in an airtight tin 2 weeks (in a dry place - humidity wilts them).

@@ -63,16 +63,16 @@ KFC-style spice mix is the home cook's attempt at replicating the famous 11 herb
 - **For Coating:** Mix 1 tablespoon of this blend with 1 cup flour and coat your protein before frying.
 
 ## Variations
-**Spicier:** Increase white pepper to 3 tablespoons and black pepper to 1 ½ tablespoons.
-**Less Salty:** Reduce garlic salt to 1 tablespoon and celery salt to ½ teaspoon.
-**Lighter:** Increase paprika to 5-6 tablespoons for more color and less pepper intensity.
-**Smoky:** Add 1 teaspoon smoked paprika (reduce regular paprika to 3 ½ tablespoons).
+- **Spicier:** Increase white pepper to 3 tablespoons and black pepper to 1 ½ tablespoons.
+- **Less Salty:** Reduce garlic salt to 1 tablespoon and celery salt to ½ teaspoon.
+- **Lighter:** Increase paprika to 5-6 tablespoons for more color and less pepper intensity.
+- **Smoky:** Add 1 teaspoon smoked paprika (reduce regular paprika to 3 ½ tablespoons).
 
 ## Serving
-Use in: Breading for fried chicken, fish, vegetables, onion rings, and similar fried items
-Typical ratio: 1-2 tablespoons mixed into 1 cup flour for coating
-Application: Combine with flour, dredge protein, then deep-fry until coating is golden and crispy
-Temperature: Use in hot oil (350°F/175°C) for best coating development
+- Use in: Breading for fried chicken, fish, vegetables, onion rings, and similar fried items
+- Typical ratio: 1-2 tablespoons mixed into 1 cup flour for coating
+- Application: Combine with flour, dredge protein, then deep-fry until coating is golden and crispy
+- Temperature: Use in hot oil (350°F/175°C) for best coating development
 
 ## Storage
 - Store in airtight jar in cool, dark place away from light and heat

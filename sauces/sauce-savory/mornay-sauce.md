@@ -51,7 +51,7 @@ Sauce Mornay is the building block for the classic French cheese sauce that crow
 - **Nutmeg:** Use sparingly, just a pinch; this sauce already has subtle spice from the béchamel.
 
 ## Serving
-Serve with poached eggs (Eggs Mornay), poached fish fillets, blanched vegetables, or white meats. Brown under a hot grill to create a golden crust before serving.
+- Serve with poached eggs (Eggs Mornay), poached fish fillets, blanched vegetables, or white meats. Brown under a hot grill to create a golden crust before serving.
 
 ## Storage
 - Can be made ahead and refrigerated for 1 day in an airtight container.

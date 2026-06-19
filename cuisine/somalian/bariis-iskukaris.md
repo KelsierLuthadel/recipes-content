@@ -117,13 +117,13 @@ Bariis iskukaris is Somalia's celebration rice dish, the one-pot fragrant basmat
 - **The banana garnish is real:** sliced banana on the side of a plate of bariis iskukaris is the Somali way; the sweetness of the banana cuts the spice and the richness of the rice. Don't skip if you can get a ripe banana.
 
 ## Variations
-**Bariis with chicken:** swap beef/lamb for bone-in chicken thighs; reduce simmer time to 25 minutes. The weeknight version.
-**Bariis with goat:** the most prestigious version; goat shoulder cubed and simmered 60 minutes before the rice goes in. Wedding banquet version.
-**Suugo bariis:** the simpler everyday version, where the rice is cooked plain and a separate tomato-meat sauce is spooned over at serving. Less fancy; quicker.
-**Vegetarian bariis:** swap meat for 600 g of mixed vegetables (carrot, potato, peas, green beans) browned briefly; cook the rice with the spiced tomato base and vegetable stock. Common during Ramadan iftars.
+- **Bariis with chicken:** swap beef/lamb for bone-in chicken thighs; reduce simmer time to 25 minutes. The weeknight version.
+- **Bariis with goat:** the most prestigious version; goat shoulder cubed and simmered 60 minutes before the rice goes in. Wedding banquet version.
+- **Suugo bariis:** the simpler everyday version, where the rice is cooked plain and a separate tomato-meat sauce is spooned over at serving. Less fancy; quicker.
+- **Vegetarian bariis:** swap meat for 600 g of mixed vegetables (carrot, potato, peas, green beans) browned briefly; cook the rice with the spiced tomato base and vegetable stock. Common during Ramadan iftars.
 
 ## Serving
-On a wide platter at the centre of the table; diners eat from the shared platter with the right hand or with forks. Bisbaas (the green chilli relish) is essential on the side for those who want heat. A side dish of sliced banana is the traditional Somali touch. Drink: cold water, shaah (Somali spiced tea), or fresh laban (cultured milk).
+- On a wide platter at the centre of the table; diners eat from the shared platter with the right hand or with forks. Bisbaas (the green chilli relish) is essential on the side for those who want heat. A side dish of sliced banana is the traditional Somali touch. Drink: cold water, shaah (Somali spiced tea), or fresh laban (cultured milk).
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour deepens overnight.

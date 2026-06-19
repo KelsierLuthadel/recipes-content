@@ -78,13 +78,13 @@ Sopaipilla relleno is the New Mexican savoury stuffed sopaipilla, distinct from 
 - **Eat immediately.**
 
 ## Variations
-**Christmas style:** half red, half green chile sauce.
-**With chicken adovada:** swap pork for chicken in the red-chile sauce.
-**Cheese-only (vegetarian):** beans + cheese, no meat.
-**With beef:** swap adovada for slow-cooked NM beef in red chile.
+- **Christmas style:** half red, half green chile sauce.
+- **With chicken adovada:** swap pork for chicken in the red-chile sauce.
+- **Cheese-only (vegetarian):** beans + cheese, no meat.
+- **With beef:** swap adovada for slow-cooked NM beef in red chile.
 
 ## Serving
-Smothered on plates. NM beer, sweet tea. Santa Fe restaurant classic.
+- Smothered on plates. NM beer, sweet tea. Santa Fe restaurant classic.
 
 ## Storage
 - Best immediately.

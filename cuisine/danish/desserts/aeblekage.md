@@ -96,15 +96,15 @@
 - **Sweet-tart apple:** Bramley or Granny Smith. Sweet eating apples make a duller compote.
 
 ## Variations
-**With brandy or rum:** add a splash to the apple compote.
-**With salted caramel:** layer a thin stripe of salted caramel between the apple and cream.
-**Plum or rhubarb æblekage:** swap apples for stewed plums or rhubarb; same technique.
-**With granola:** swap the crumbs for crunchy granola for a modern breakfast-dessert version.
-**Vegan:** swap whipped cream for whipped coconut cream; macaroons for crushed amaretti (check for egg whites, some are vegan).
-**Individual jam-jar version:** layer in small jam jars for a picnic / party portable version.
+- **With brandy or rum:** add a splash to the apple compote.
+- **With salted caramel:** layer a thin stripe of salted caramel between the apple and cream.
+- **Plum or rhubarb æblekage:** swap apples for stewed plums or rhubarb; same technique.
+- **With granola:** swap the crumbs for crunchy granola for a modern breakfast-dessert version.
+- **Vegan:** swap whipped cream for whipped coconut cream; macaroons for crushed amaretti (check for egg whites, some are vegan).
+- **Individual jam-jar version:** layer in small jam jars for a picnic / party portable version.
 
 ## Serving
-At a Danish family Sunday dinner finale · at a julefrokost (Christmas lunch) buffet alongside risalamande and ris à l'amande · at a Danish 50th birthday dessert table · at a Copenhagen café for a mid-afternoon treat · at home with windfall apples in autumn.
+- At a Danish family Sunday dinner finale · at a julefrokost (Christmas lunch) buffet alongside risalamande and ris à l'amande · at a Danish 50th birthday dessert table · at a Copenhagen café for a mid-afternoon treat · at home with windfall apples in autumn.
 
 ## Storage
 - Æblekage best within 2-3 hours of assembly (the crumbs stay crisp).

@@ -59,11 +59,11 @@ Mizeria is the cooling Polish summer side, paper-thin cucumber tossed with tangy
 - **Dill is non-negotiable:** Mizeria without dill is just cucumber in cream. Use plenty.
 
 ## Variations
-**With garlic:** A grated clove is a traditional southern Polish variation; skip for the cleaner northern style.
-**With apple:** Some grandmothers grate a tart apple in. Adds sweetness and crunch.
+- **With garlic:** A grated clove is a traditional southern Polish variation; skip for the cleaner northern style.
+- **With apple:** Some grandmothers grate a tart apple in. Adds sweetness and crunch.
 
 ## Serving
-Serve with: Roast pork, kotlet schabowy (Polish schnitzel), pierogi, golabki (cabbage rolls), or grilled kielbasa. Cooling counterpart to rich main courses.
+- Serve with: Roast pork, kotlet schabowy (Polish schnitzel), pierogi, golabki (cabbage rolls), or grilled kielbasa. Cooling counterpart to rich main courses.
 
 ## Storage
 - Eat within 4 hours of dressing. The cucumbers weep again over time.

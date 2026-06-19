@@ -105,15 +105,15 @@ Risalamande (or ris à l'amande, Danish-French for "rice with almonds") is Denma
 - **Eat slowly, dig around:** the ritual is the point.
 
 ## Variations
-**With raspberry sauce instead of cherry:** less traditional, equally good with raspberries.
-**With orange-vanilla cream:** add orange zest to the cream for a brighter version.
-**Vegan risalamande:** swap milk + cream for oat milk + whipped coconut cream; almond extract for flavour.
-**Made the entire day before:** the rice pudding base is done the day before; the cream is folded in 2-3 hours before serving.
-**Boozier:** double the kirsch.
-**Mini glass jars (cocktail size):** for a Christmas-party canapé buffet.
+- **With raspberry sauce instead of cherry:** less traditional, equally good with raspberries.
+- **With orange-vanilla cream:** add orange zest to the cream for a brighter version.
+- **Vegan risalamande:** swap milk + cream for oat milk + whipped coconut cream; almond extract for flavour.
+- **Made the entire day before:** the rice pudding base is done the day before; the cream is folded in 2-3 hours before serving.
+- **Boozier:** double the kirsch.
+- **Mini glass jars (cocktail size):** for a Christmas-party canapé buffet.
 
 ## Serving
-At Danish Christmas Eve dinner (the traditional Dec 24 evening, served after the julestege main course) · at a Danish Christmas Day lunch · at a winter Sunday-roast finale · at a Danish New Year's Eve dinner as a substantial finale.
+- At Danish Christmas Eve dinner (the traditional Dec 24 evening, served after the julestege main course) · at a Danish Christmas Day lunch · at a winter Sunday-roast finale · at a Danish New Year's Eve dinner as a substantial finale.
 
 ## Storage
 - Risalamande refrigerates 3-4 days (gets denser as the cream firms; still excellent).

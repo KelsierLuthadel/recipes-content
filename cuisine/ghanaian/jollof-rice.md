@@ -68,7 +68,7 @@ Ghanaian jollof rice is the centrepiece of every party table, a one-pot rice coo
 - **Vegan:** Use vegetable stock and skip the meat additions; the base carries the dish.
 
 ## Serving
-Serve hot with fried plantain · shito on the side · a wedge of cucumber and tomato salad · a piece of grilled chicken or fried fish.
+- Serve hot with fried plantain · shito on the side · a wedge of cucumber and tomato salad · a piece of grilled chicken or fried fish.
 
 ## Storage
 - Keeps 3 days refrigerated

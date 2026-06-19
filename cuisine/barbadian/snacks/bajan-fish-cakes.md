@@ -97,17 +97,17 @@ Bajan fish cakes are the Caribbean answer to fritters: small, rough-textured, de
 - **Don't pre-batter and rest more than 30 minutes:** the saltfish keeps releasing water; the batter goes soggy.
 
 ## Variations
-**Vegetarian "fish" cakes:** swap the saltfish for chopped hearts of palm or finely flaked king-oyster mushrooms; same spice profile.
-**Spicy fish cakes:** double the Scotch bonnet pepper.
-**Cassava-flour fish cakes (gluten-free):** swap the plain flour for cassava flour, lighter, slightly crisper.
-**Codfish fritters with mango chutney:** serve with a homemade mango chutney instead of pepper sauce, the modern variant.
-**Cornmeal fish cakes:** add 50 g cornmeal to the flour mix, the textural variant.
-**Pholourie-style (Trinidadian cousin):** use a yellow split-pea batter instead of saltfish; same frying technique, the Trinidadian cousin.
-**Mini fish cakes (canapé):** make tablespoon-sized; serve with a dipping sauce, canapé-friendly.
-**Air-fryer fish cakes:** spray with oil; air-fry at 200°C for 12-15 minutes; less crisp but lighter.
+- **Vegetarian "fish" cakes:** swap the saltfish for chopped hearts of palm or finely flaked king-oyster mushrooms; same spice profile.
+- **Spicy fish cakes:** double the Scotch bonnet pepper.
+- **Cassava-flour fish cakes (gluten-free):** swap the plain flour for cassava flour, lighter, slightly crisper.
+- **Codfish fritters with mango chutney:** serve with a homemade mango chutney instead of pepper sauce, the modern variant.
+- **Cornmeal fish cakes:** add 50 g cornmeal to the flour mix, the textural variant.
+- **Pholourie-style (Trinidadian cousin):** use a yellow split-pea batter instead of saltfish; same frying technique, the Trinidadian cousin.
+- **Mini fish cakes (canapé):** make tablespoon-sized; serve with a dipping sauce, canapé-friendly.
+- **Air-fryer fish cakes:** spray with oil; air-fry at 200°C for 12-15 minutes; less crisp but lighter.
 
 ## Serving
-At a Bajan rum-shop (the traditional setting; sold by the dozen) · at the Oistins Friday-night fish fry · at a Bajan beach picnic · at a Bajan reception or wedding · at a Bajan Independence Day celebration · at a Bajan church potluck · at home as a Saturday-night drinks-and-snacks plate · paired with cold Banks lager, Bajan rum punch, or a small glass of mauby.
+- At a Bajan rum-shop (the traditional setting; sold by the dozen) · at the Oistins Friday-night fish fry · at a Bajan beach picnic · at a Bajan reception or wedding · at a Bajan Independence Day celebration · at a Bajan church potluck · at home as a Saturday-night drinks-and-snacks plate · paired with cold Banks lager, Bajan rum punch, or a small glass of mauby.
 
 ## Storage
 - The raw fish-cake batter refrigerates 24 hours; bring to room temperature before frying.

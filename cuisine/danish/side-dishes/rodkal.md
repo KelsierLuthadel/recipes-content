@@ -97,15 +97,15 @@ Rødkål (Danish red cabbage) is one of the cornerstone Danish side dishes and a
 - **Sweet-sour balance:** the traditional Danish lean is slightly sweet. Adjust to taste.
 
 ## Variations
-**With goose fat:** swap some butter for goose fat, the traditional Christmas-goose-pairing version.
-**Spicier:** add 1 teaspoon Indian curry powder for a less traditional but lovely twist.
-**With pickled herring jus:** add a splash of brine from a jar of pickled herring for extra savoury depth.
-**Sugar-free:** swap sugar for stevia and use sugar-free jelly; works but tastes thinner.
-**Quick rødkål (30 min):** use pre-shredded cabbage and pressure-cook 25 minutes; not traditional but Tuesday-night practical.
-**With orange:** add the zest of 1 orange; gives a brighter winter note.
+- **With goose fat:** swap some butter for goose fat, the traditional Christmas-goose-pairing version.
+- **Spicier:** add 1 teaspoon Indian curry powder for a less traditional but lovely twist.
+- **With pickled herring jus:** add a splash of brine from a jar of pickled herring for extra savoury depth.
+- **Sugar-free:** swap sugar for stevia and use sugar-free jelly; works but tastes thinner.
+- **Quick rødkål (30 min):** use pre-shredded cabbage and pressure-cook 25 minutes; not traditional but Tuesday-night practical.
+- **With orange:** add the zest of 1 orange; gives a brighter winter note.
 
 ## Serving
-At Danish Christmas Eve dinner (julestege + brunede kartofler + rødkål, the traditional Christmas trio) · at any Danish Sunday roast · at a frikadeller weeknight dinner · at a Danish julefrokost Christmas lunch · alongside duck, goose, pork or beef any winter day.
+- At Danish Christmas Eve dinner (julestege + brunede kartofler + rødkål, the traditional Christmas trio) · at any Danish Sunday roast · at a frikadeller weeknight dinner · at a Danish julefrokost Christmas lunch · alongside duck, goose, pork or beef any winter day.
 
 ## Storage
 - Refrigerates 2 weeks (improves over the first 3 days; stays good for ages).

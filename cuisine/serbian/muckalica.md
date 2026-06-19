@@ -68,7 +68,7 @@ Mućkalica started as the Sunday-after-the-grill dish in Leskovac and the southe
 - **Vegetarian mućkalica.** Skip the pork; use a generous quantity of mushrooms (king oyster or chestnut) and brown them hard before building the stew.
 
 ## Serving
-In a wide warm bowl with the sauce loose around the pork · thick slabs of fresh white bread for mopping · a spoon of kajmak or soured cream stirred in at the table · šopska salata on the side · a small glass of rakija to start
+- In a wide warm bowl with the sauce loose around the pork · thick slabs of fresh white bread for mopping · a spoon of kajmak or soured cream stirred in at the table · šopska salata on the side · a small glass of rakija to start
 
 ## Storage
 - Improves on day two; keeps 4 days refrigerated

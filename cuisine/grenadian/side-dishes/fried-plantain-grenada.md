@@ -49,14 +49,14 @@ Fried plantain is the side that lands next to almost everything on a Grenadian p
 - **Salt while hot:** the salt sticks to the warm oil and balances the sweetness.
 
 ## Variations
-**Twice-fried tostones:** use green plantains, slice 2 cm thick, fry, smash flat, fry again.
-**Plantain crisps:** slice yellow plantains very thin and fry in deep oil until crisp.
-**With cinnamon sugar:** dust hot slices with a mix of cinnamon and brown sugar for a dessert version.
-**In coconut oil:** swap vegetable oil for coconut oil for a deeper island flavour.
-**Air-fried:** brush with oil, air-fry 200C for 10 minutes, flipping once.
+- **Twice-fried tostones:** use green plantains, slice 2 cm thick, fry, smash flat, fry again.
+- **Plantain crisps:** slice yellow plantains very thin and fry in deep oil until crisp.
+- **With cinnamon sugar:** dust hot slices with a mix of cinnamon and brown sugar for a dessert version.
+- **In coconut oil:** swap vegetable oil for coconut oil for a deeper island flavour.
+- **Air-fried:** brush with oil, air-fry 200C for 10 minutes, flipping once.
 
 ## Serving
-With pelau · with curried goat · with stewed saltfish · with rice and peas · with a fried egg for a Grenadian breakfast.
+- With pelau · with curried goat · with stewed saltfish · with rice and peas · with a fried egg for a Grenadian breakfast.
 
 ## Storage
 - Eat the same day; plantains lose their texture overnight.

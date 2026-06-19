@@ -84,17 +84,17 @@ Rosemary bread trios are the building block for a soup-and-bread supper or a sof
 - **Trio Arrangement:** Shaping three balls together creates a characterful presentation; they'll fuse slightly during baking while remaining distinct.
 
 ## Variations
-**Herbed:** Replace rosemary with thyme, oregano, or a mixed herb topping.
-**Seeded:** Add 1 tablespoon sesame seeds or poppy seeds to the dough before mixing.
-**Garlic & Herb:** Add 2 minced garlic cloves and minced parsley to the dough base.
-**Focaccia Style:** Dimple the top of each trio with your fingers, brush with olive oil, and top with sea salt.
-**Plain Dinner Rolls:** Omit the rosemary for simple, versatile dinner rolls.
+- **Herbed:** Replace rosemary with thyme, oregano, or a mixed herb topping.
+- **Seeded:** Add 1 tablespoon sesame seeds or poppy seeds to the dough before mixing.
+- **Garlic & Herb:** Add 2 minced garlic cloves and minced parsley to the dough base.
+- **Focaccia Style:** Dimple the top of each trio with your fingers, brush with olive oil, and top with sea salt.
+- **Plain Dinner Rolls:** Omit the rosemary for simple, versatile dinner rolls.
 
 ## Serving
-Serve with: Soup, salad, butter, or jam
-Temperature: Serve warm or at room temperature
-Amount: 1 trio (3 buns) per person
-Accompaniments: Butter, spreadable cheese, or soup for dipping
+- Serve with: Soup, salad, butter, or jam
+- Temperature: Serve warm or at room temperature
+- Amount: 1 trio (3 buns) per person
+- Accompaniments: Butter, spreadable cheese, or soup for dipping
 
 ## Storage
 - Best served warm on the day of baking

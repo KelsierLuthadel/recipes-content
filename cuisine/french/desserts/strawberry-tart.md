@@ -54,7 +54,7 @@ Strawberry tart is the early-summer French pâtisserie staple, a crisp sweet sho
 - Dusting with icing sugar adds a pretty finish and balances the fruit sweetness.
 
 ## Serving
-Serve the tart immediately after assembly at room temperature. It is perfect with a spoonful of crème fraîche or a simple fruit coulis.
+- Serve the tart immediately after assembly at room temperature. It is perfect with a spoonful of crème fraîche or a simple fruit coulis.
 
 ## Storage
 Store any leftover tart in the refrigerator for up to 1 day, covered lightly to avoid crushing the fruit. Because the pastry softens quickly, this tart is best eaten the same day.

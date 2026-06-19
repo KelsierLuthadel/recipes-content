@@ -99,17 +99,17 @@ The Nanaimo bar is British Columbia's most famous sweet, named for the Vancouver
 - **Layers must be cold before the next goes on:** rushing means the layers smear together. Patience is the rule.
 
 ## Variations
-**Mint Nanaimo bars:** add 1/2 teaspoon peppermint extract to the middle layer; tint pale green, the after-dinner-mint variant.
-**Mocha Nanaimo bars:** add 2 teaspoons instant espresso powder to the middle layer and to the chocolate top.
-**Peanut-butter Nanaimo bars:** replace 30 g of butter in the middle layer with 30 g peanut butter; add chopped peanuts to the base.
-**Raspberry Nanaimo bars:** add a layer of raspberry jam (about 3 tablespoons) spread between the bottom and middle layers, the modern bakery variant.
-**Maple Nanaimo bars:** replace 60 g of icing sugar in the middle layer with 60 ml maple syrup; the texture is slightly softer.
-**Boozy Nanaimo bars:** add 1 tablespoon Cognac, Irish Cream, or Canadian whisky to the middle layer.
-**Vegan Nanaimo bars:** swap butter for vegan block butter; egg for 3 tablespoons aquafaba; milk for almond milk; the custard powder is technically vegan (read the label).
-**Round Nanaimo "truffles":** roll the chilled middle-layer icing into balls; dip in the chocolate-and-butter top mix; refrigerate till set, the bite-sized variant for canapés.
+- **Mint Nanaimo bars:** add 1/2 teaspoon peppermint extract to the middle layer; tint pale green, the after-dinner-mint variant.
+- **Mocha Nanaimo bars:** add 2 teaspoons instant espresso powder to the middle layer and to the chocolate top.
+- **Peanut-butter Nanaimo bars:** replace 30 g of butter in the middle layer with 30 g peanut butter; add chopped peanuts to the base.
+- **Raspberry Nanaimo bars:** add a layer of raspberry jam (about 3 tablespoons) spread between the bottom and middle layers, the modern bakery variant.
+- **Maple Nanaimo bars:** replace 60 g of icing sugar in the middle layer with 60 ml maple syrup; the texture is slightly softer.
+- **Boozy Nanaimo bars:** add 1 tablespoon Cognac, Irish Cream, or Canadian whisky to the middle layer.
+- **Vegan Nanaimo bars:** swap butter for vegan block butter; egg for 3 tablespoons aquafaba; milk for almond milk; the custard powder is technically vegan (read the label).
+- **Round Nanaimo "truffles":** roll the chilled middle-layer icing into balls; dip in the chocolate-and-butter top mix; refrigerate till set, the bite-sized variant for canapés.
 
 ## Serving
-At a BC tea-room (the traditional setting) · at a Vancouver Island café · at a Nanaimo bakery (the traditional city is the namesake) · at a Canadian Thanksgiving dessert table · at a Canadian Christmas cookie tray · at a Vancouver office potluck · at a Canadian community fundraiser bake sale · at home as a make-ahead Sunday-afternoon treat · paired with a strong cup of black tea or coffee.
+- At a BC tea-room (the traditional setting) · at a Vancouver Island café · at a Nanaimo bakery (the traditional city is the namesake) · at a Canadian Thanksgiving dessert table · at a Canadian Christmas cookie tray · at a Vancouver office potluck · at a Canadian community fundraiser bake sale · at home as a make-ahead Sunday-afternoon treat · paired with a strong cup of black tea or coffee.
 
 ## Storage
 - Refrigerates 1 week in an airtight container (separate layers with parchment).

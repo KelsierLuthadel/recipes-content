@@ -107,13 +107,13 @@ Aloo pie is Trinidad's beloved street empanada: a close cousin of the Indian sam
 - **Make the filling ahead:** the filling is better the day after; the spices develop and the herbs infuse.
 
 ## Variations
-**Channa-and-aloo pie:** mix 100 g of cooked chickpeas into the potato filling; gives extra protein and texture. Common Trinidadian variation.
-**Spinach aloo pie:** add 100 g of cooked drained spinach (squeezed dry, chopped) to the filling; gives a green-flecked version with extra freshness.
-**Baked aloo pie:** brush with beaten egg and bake at 200°C / 400°F for 20 minutes till golden; less traditional but lower-fat. The texture is more bread-roll than fried.
-**Mini aloo pies:** make 20 smaller pies (35 g each); gives bite-sized canapés.
+- **Channa-and-aloo pie:** mix 100 g of cooked chickpeas into the potato filling; gives extra protein and texture. Common Trinidadian variation.
+- **Spinach aloo pie:** add 100 g of cooked drained spinach (squeezed dry, chopped) to the filling; gives a green-flecked version with extra freshness.
+- **Baked aloo pie:** brush with beaten egg and bake at 200°C / 400°F for 20 minutes till golden; less traditional but lower-fat. The texture is more bread-roll than fried.
+- **Mini aloo pies:** make 20 smaller pies (35 g each); gives bite-sized canapés.
 
 ## Serving
-On a paper plate or in a paper napkin (the proper Trini street-stall style); 2 per person as a snack; 3-4 as a meal. Drink: cold mauby; sorrel; or Carib beer. Eaten standing up at the doubles cart; or sitting at a kitchen table with a cup of strong sweet tea.
+- On a paper plate or in a paper napkin (the proper Trini street-stall style); 2 per person as a snack; 3-4 as a meal. Drink: cold mauby; sorrel; or Carib beer. Eaten standing up at the doubles cart; or sitting at a kitchen table with a cup of strong sweet tea.
 
 ## Storage
 - Best eaten warm and fresh; the dough hardens as it cools.

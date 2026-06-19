@@ -127,13 +127,13 @@ Pasteles is one of Puerto Rico's most iconic and elaborate holiday dishes, a Chr
 - **Make in family teams:** pasteles is a labour of love. Family pasteles-making sessions are part of the tradition. Assembly takes 2-3 hours with multiple people.
 
 ## Variations
-**Pasteles de yuca:** swap the plantain-yautía-pumpkin mix for pure yuca (cassava) masa; gives a denser starchier pastel. Common variation.
-**Vegetarian pasteles (pasteles de masa):** skip the meat filling; fill with a mixture of roasted vegetables (peppers, onions, mushrooms, olives, raisins, chickpeas) cooked with sofrito and sazón.
-**With chicken instead of pork:** swap the pork for cubed chicken thigh; cook 25 minutes instead of 40.
-**Sweet pasteles (pasteles dulces):** swap to a sweet masa (with sugar instead of salt) and a sweet fruit filling (raisins, almonds, sugar); served at Christmas alongside the savoury version.
+- **Pasteles de yuca:** swap the plantain-yautía-pumpkin mix for pure yuca (cassava) masa; gives a denser starchier pastel. Common variation.
+- **Vegetarian pasteles (pasteles de masa):** skip the meat filling; fill with a mixture of roasted vegetables (peppers, onions, mushrooms, olives, raisins, chickpeas) cooked with sofrito and sazón.
+- **With chicken instead of pork:** swap the pork for cubed chicken thigh; cook 25 minutes instead of 40.
+- **Sweet pasteles (pasteles dulces):** swap to a sweet masa (with sugar instead of salt) and a sweet fruit filling (raisins, almonds, sugar); served at Christmas alongside the savoury version.
 
 ## Serving
-Unwrapped at the table, part of the Boricua experience. With arroz con gandules (rice with pigeon peas), pernil (slow-roasted pork), sliced avocado and pique on the side. At Christmas Eve / Nochebuena, Three Kings Day (January 6th), or any major holiday. Drink: coquito (the Puerto Rican Christmas coconut-rum eggnog), or Medalla beer.
+- Unwrapped at the table, part of the Boricua experience. With arroz con gandules (rice with pigeon peas), pernil (slow-roasted pork), sliced avocado and pique on the side. At Christmas Eve / Nochebuena, Three Kings Day (January 6th), or any major holiday. Drink: coquito (the Puerto Rican Christmas coconut-rum eggnog), or Medalla beer.
 
 ## Storage
 - Cooked pasteles keep refrigerated 4 days; reheat by re-boiling in water for 15 minutes or microwaving wrapped for 2-3 minutes.

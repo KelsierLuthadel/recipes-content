@@ -91,17 +91,17 @@ Chinese pancakes are the building block for crispy-bottomed paper-thin discs you
 - **Separation:** The pancakes should separate cleanly while still warm; if they stick, they've cooled too much (place briefly back in the pan with cover and steam them for 30 seconds).
 
 ## Variations
-**Scallion Pancakes (Traditional):** Add ¼ cup finely chopped scallions (green onions) to the sesame oil before spreading between dough balls.
-**Savory Toppings:** Sprinkle finely chopped fresh coriander, chives, or white pepper before rolling together.
-**Spicy:** Add chilli oil instead of plain sesame oil for heat.
-**Parmesan Version:** Mix sesame oil with grated Parmesan cheese for umami richness.
-**Whole Wheat:** Replace half the all-purpose flour with whole wheat flour for nuttier flavor.
+- **Scallion Pancakes (Traditional):** Add ¼ cup finely chopped scallions (green onions) to the sesame oil before spreading between dough balls.
+- **Savory Toppings:** Sprinkle finely chopped fresh coriander, chives, or white pepper before rolling together.
+- **Spicy:** Add chilli oil instead of plain sesame oil for heat.
+- **Parmesan Version:** Mix sesame oil with grated Parmesan cheese for umami richness.
+- **Whole Wheat:** Replace half the all-purpose flour with whole wheat flour for nuttier flavor.
 
 ## Serving
-Serve with: Soups (egg drop, won ton), curries, stir-fries, congee, dipping sauces
-Accompany: With soy sauce, chilli oil, or sweet bean sauce
-Temperature: Serve hot or warm for best texture
-Vessel: Stack on a warm plate, loosely covered with foil to retain heat
+- Serve with: Soups (egg drop, won ton), curries, stir-fries, congee, dipping sauces
+- Accompany: With soy sauce, chilli oil, or sweet bean sauce
+- Temperature: Serve hot or warm for best texture
+- Vessel: Stack on a warm plate, loosely covered with foil to retain heat
 
 ## Storage
 - Best served immediately while warm and crispy-edged

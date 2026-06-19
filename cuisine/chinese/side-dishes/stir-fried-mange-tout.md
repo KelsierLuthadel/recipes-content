@@ -42,9 +42,9 @@ Mange tout and waterchestnuts are the cleanest, crunchiest pairing in the Chines
 - This dish must be served immediately, the mange tout will lose their bright colour and crunch if left to sit.
 
 ## Serving
-Serve with: lemon chicken, steamed rice, or any Chinese-style main course
-Temperature: hot, straight from the wok
-Amount: 2-4 portions as a side dish
+- Serve with: lemon chicken, steamed rice, or any Chinese-style main course
+- Temperature: hot, straight from the wok
+- Amount: 2-4 portions as a side dish
 
 ## Storage
 - Best eaten immediately; leftovers can be stored in an airtight container in the fridge for up to 2 days.

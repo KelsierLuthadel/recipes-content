@@ -84,13 +84,13 @@ Bistecca alla Fiorentina is the iconic giant T-bone of Florence and Tuscany: pro
 - **Rest before slicing:** essential.
 
 ## Variations
-**Beef ribeye instead of T-bone:** if you can't get a T-bone, a thick ribeye works.
-**Tagliata version:** slice the steak more thinly; serve over rocket with Parmesan shavings.
-**With balsamic reduction:** drizzle aged balsamic vinegar over; gives sweet-tart depth.
-**With herb butter:** top with a slice of compound butter; less traditional but excellent.
+- **Beef ribeye instead of T-bone:** if you can't get a T-bone, a thick ribeye works.
+- **Tagliata version:** slice the steak more thinly; serve over rocket with Parmesan shavings.
+- **With balsamic reduction:** drizzle aged balsamic vinegar over; gives sweet-tart depth.
+- **With herb butter:** top with a slice of compound butter; less traditional but excellent.
 
 ## Serving
-On a wooden board for sharing. Tuscan beans, cavolo nero, roasted potatoes alongside. Tuscan red wine. Crusty bread. The Florentine experience: one giant steak shared among 4 people, eaten with reverence.
+- On a wooden board for sharing. Tuscan beans, cavolo nero, roasted potatoes alongside. Tuscan red wine. Crusty bread. The Florentine experience: one giant steak shared among 4 people, eaten with reverence.
 
 ## Storage
 - Best eaten immediately.

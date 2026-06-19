@@ -78,18 +78,18 @@ The London Fog is one of Canada's most successful modern drink exports. Despite 
 - **Brew teabag vs loose-leaf:** loose-leaf gives better flavour (especially Earl Grey, where the bergamot oil quality varies enormously between brands). Twinings Earl Grey bags work; a good loose-leaf Earl Grey from a specialty tea shop is markedly better.
 
 ## Variations
-**Earl Grey Lavender Fog (modern Vancouver):** add 2-3 lavender buds to the brewing tea, OR 2 drops of culinary lavender extract to the milk, the floral variant.
-**Maple London Fog:** swap the vanilla syrup for 2 teaspoons pure maple syrup, the Quebec-Vancouver crossover.
-**Iced London Fog:** brew the tea hot, add vanilla syrup, cool; pour over ice with cold milk, the summer variant.
-**Honey London Fog:** swap the vanilla syrup for 1-2 teaspoons of good honey, more delicate, more aromatic.
-**Vanilla bean London Fog:** infuse the milk with a split vanilla pod (warm in the milk for 5 minutes, then strain): the extravagant variant.
-**Earl Grey Crème Brûlée Fog:** add a tablespoon of double cream and a touch more sugar; gives a richer, custard-like body.
-**Decaf London Fog:** swap the regular Earl Grey for decaf (rare but available): the late-afternoon and evening version.
-**Spiced London Fog:** add a pinch of ground cardamom, cinnamon, and ginger to the brewing tea, the chai-influenced variant.
-**Vegan London Fog:** swap whole milk for oat milk (the best stand-in; oat milk steams beautifully); same vanilla syrup.
+- **Earl Grey Lavender Fog (modern Vancouver):** add 2-3 lavender buds to the brewing tea, OR 2 drops of culinary lavender extract to the milk, the floral variant.
+- **Maple London Fog:** swap the vanilla syrup for 2 teaspoons pure maple syrup, the Quebec-Vancouver crossover.
+- **Iced London Fog:** brew the tea hot, add vanilla syrup, cool; pour over ice with cold milk, the summer variant.
+- **Honey London Fog:** swap the vanilla syrup for 1-2 teaspoons of good honey, more delicate, more aromatic.
+- **Vanilla bean London Fog:** infuse the milk with a split vanilla pod (warm in the milk for 5 minutes, then strain): the extravagant variant.
+- **Earl Grey Crème Brûlée Fog:** add a tablespoon of double cream and a touch more sugar; gives a richer, custard-like body.
+- **Decaf London Fog:** swap the regular Earl Grey for decaf (rare but available): the late-afternoon and evening version.
+- **Spiced London Fog:** add a pinch of ground cardamom, cinnamon, and ginger to the brewing tea, the chai-influenced variant.
+- **Vegan London Fog:** swap whole milk for oat milk (the best stand-in; oat milk steams beautifully); same vanilla syrup.
 
 ## Serving
-At a Vancouver coffee shop (the traditional setting; the drink's birthplace) · at a Canadian coffee shop nationwide · at a Toronto tea-room · at a Calgary independent café · at a Maritime tea-and-cake shop · at a Yukon hotel lobby on a winter afternoon · at home as the Sunday morning weather-permitting brew · paired with a Nanaimo bar, a butter tart, or a fresh-baked biscuit.
+- At a Vancouver coffee shop (the traditional setting; the drink's birthplace) · at a Canadian coffee shop nationwide · at a Toronto tea-room · at a Calgary independent café · at a Maritime tea-and-cake shop · at a Yukon hotel lobby on a winter afternoon · at home as the Sunday morning weather-permitting brew · paired with a Nanaimo bar, a butter tart, or a fresh-baked biscuit.
 
 ## Storage
 - Brew and drink fresh. London Fog doesn't reheat well, the milk forms a skin and the tea goes bitter on a second heat.

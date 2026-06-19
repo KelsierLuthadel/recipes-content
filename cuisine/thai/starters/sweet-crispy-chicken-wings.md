@@ -59,7 +59,7 @@ Sweet and crispy chicken wings (peek gai tod) are the sticky lacquered starter y
 * Many Thai fish sauces contain gluten but there are gluten-free brands available.
 
 ## Serving
-Serve hot.
+- Serve hot.
 
 ## Storage
 - Best served immediately; can be refrigerated for 1 day.

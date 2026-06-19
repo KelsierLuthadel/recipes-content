@@ -94,7 +94,7 @@ This version follows the most common Mississippi template: chocolate cookie crus
 - **Ice cream pie:** replace the pudding layer with 750 ml softened chocolate ice cream, smoothed over the cooled cake and refrozen. Lighter, more dessert-cart in style.
 
 ## Serving
-A small slice goes a long way; this is one of the richest desserts in the Southern repertoire. Serve with a strong black coffee or a small glass of bourbon. Whipped cream is essential; a scoop of vanilla ice cream is acceptable.
+- A small slice goes a long way; this is one of the richest desserts in the Southern repertoire. Serve with a strong black coffee or a small glass of bourbon. Whipped cream is essential; a scoop of vanilla ice cream is acceptable.
 
 ## Storage
 - Keeps 5 days refrigerated, covered. The texture stays good for the first 3 days; after that the pudding layer starts to weep slightly.

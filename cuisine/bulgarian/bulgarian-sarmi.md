@@ -75,7 +75,7 @@ Sarmi are the small green parcels every Bulgarian household builds for Christmas
 - **Sarmi in clay pot:** baked in individual gyuvech pots with a clove of garlic in each.
 
 ## Serving
-In a wide bowl with a spoonful of the cooking liquor · with a dollop of cold yoghurt on top · with country bread to mop the sauce · with a small glass of chilled rakia on the side · as the centre of the Christmas Eve table · with a sprinkle of fresh parsley.
+- In a wide bowl with a spoonful of the cooking liquor · with a dollop of cold yoghurt on top · with country bread to mop the sauce · with a small glass of chilled rakia on the side · as the centre of the Christmas Eve table · with a sprinkle of fresh parsley.
 
 ## Storage
 - Refrigerate up to 5 days; the flavour deepens overnight.

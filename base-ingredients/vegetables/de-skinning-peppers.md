@@ -85,15 +85,15 @@ De-skinning peppers is the foundation for roasted pepper salads, antipasto, rata
 - **Texture Difference:** Roasted peppers are soft and luxurious; seared peppers are still tender but with more structure.
 
 ## Variations
-**Leave Some Char & Texture:** Don't remove all the blackened bits; they add flavor to some dishes.
-**Grill Method:** If you have a grill, place whole peppers directly on the grate over medium-high heat, turning frequently.
-**Under the Broiler:** Place peppers on a broiler pan under a hot broiler, turning frequently until charred (works well in apartment kitchens with no gas flame).
+- **Leave Some Char & Texture:** Don't remove all the blackened bits; they add flavor to some dishes.
+- **Grill Method:** If you have a grill, place whole peppers directly on the grate over medium-high heat, turning frequently.
+- **Under the Broiler:** Place peppers on a broiler pan under a hot broiler, turning frequently until charred (works well in apartment kitchens with no gas flame).
 
 ## Serving
-Use for: Roasted pepper salads, antipasto, pasta dishes, tapas, sandwich fillings, soup bases, ratatouille
-Temperature: Room temperature or warm
-Storage: In olive oil to prevent oxidation and drying
-Amount: ½ pepper per serving
+- Use for: Roasted pepper salads, antipasto, pasta dishes, tapas, sandwich fillings, soup bases, ratatouille
+- Temperature: Room temperature or warm
+- Storage: In olive oil to prevent oxidation and drying
+- Amount: ½ pepper per serving
 
 ## Storage
 - In an airtight container with olive oil cover, keeps refrigerated for up to 1 week

@@ -85,7 +85,7 @@ Gallo en chicha is the dish brought out at Salvadoran weddings, christenings and
 - **Con masa:** thicken the final sauce with a tablespoon of masa harina slurried in stock; gives a more traditional country gravy.
 
 ## Serving
-At the wedding table · for a saint's day lunch · with white rice and warm tortillas · with a side of curtido · with a chilled glass of chicha to drink alongside · ladled into deep plates so the gravy stays put.
+- At the wedding table · for a saint's day lunch · with white rice and warm tortillas · with a side of curtido · with a chilled glass of chicha to drink alongside · ladled into deep plates so the gravy stays put.
 
 ## Storage
 - Keeps 4 days refrigerated; the flavour deepens after a night in the fridge.

@@ -90,12 +90,12 @@ Carne adovada (literally "marinated meat") is the iconic Southwestern Hispanic p
 - **Better the next day.**
 
 ## Variations
-**Slow-cooker version:** marinate as recipe; cook in slow-cooker 8 hours low.
-**Spicier:** add 2 chiles de árbol (small dried red).
-**With beans cooked in the sauce:** add tin of pinto beans in the last 30 minutes.
+- **Slow-cooker version:** marinate as recipe; cook in slow-cooker 8 hours low.
+- **Spicier:** add 2 chiles de árbol (small dried red).
+- **With beans cooked in the sauce:** add tin of pinto beans in the last 30 minutes.
 
 ## Serving
-In burritos, with eggs at breakfast, as a main with rice and beans. Mexican beer, margaritas.
+- In burritos, with eggs at breakfast, as a main with rice and beans. Mexican beer, margaritas.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

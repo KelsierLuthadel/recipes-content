@@ -68,13 +68,13 @@ Ají Chileno (or "salsa de ají") is Chile's foundational hot sauce, distinct fr
 - **Make in batches:** keeps 2 weeks refrigerated.
 
 ## Variations
-**Smoky ají chileno (merkén-style):** add 1 tablespoon of merkén; smokier deeper version.
-**Green ají:** use green chillies; add a handful of fresh coriander; gives a fresher tangier version.
-**Aji con tomate:** double the tomato; gives a more salsa-like version.
-**Aji con verduras:** add chopped carrot to the sauté; gives more body.
+- **Smoky ají chileno (merkén-style):** add 1 tablespoon of merkén; smokier deeper version.
+- **Green ají:** use green chillies; add a handful of fresh coriander; gives a fresher tangier version.
+- **Aji con tomate:** double the tomato; gives a more salsa-like version.
+- **Aji con verduras:** add chopped carrot to the sauté; gives more body.
 
 ## Serving
-At the table alongside grilled meats, completos, empanadas, rice dishes, sandwiches. With Chilean asado, lomo a lo pobre, charquicán. Drink: cold Cristal beer.
+- At the table alongside grilled meats, completos, empanadas, rice dishes, sandwiches. With Chilean asado, lomo a lo pobre, charquicán. Drink: cold Cristal beer.
 
 ## Storage
 - Keeps refrigerated 2 weeks in a sealed jar with a thin layer of olive oil on top.

@@ -110,16 +110,16 @@ Tuiles take their name from French roof tiles and curve to match: tissue-thin ca
 - **Overbaking = Brittleness:** Overbaked tuiles shatter when handled; if yours break, reduce baking time by 20-30 seconds next batch.
 
 ## Variations
-**Almond Extract:** Replace vanilla extract with ¼ teaspoon almond extract for different flavor profile.
-**Lemon Zest:** Add zest of ½ lemon to the batter for citrus notes.
-**Orange Zest:** Add zest of ¼ orange for milder citrus character.
-**Caramelized Sugar Emphasis:** Reduce vanilla to ¼ teaspoon and increase icing sugar by 10 grams for deeper caramel notes.
-**Pistachio Dust:** Sprinkle finely ground pistachios on the batter before baking (they sink slightly but add nutty character).
+- **Almond Extract:** Replace vanilla extract with ¼ teaspoon almond extract for different flavor profile.
+- **Lemon Zest:** Add zest of ½ lemon to the batter for citrus notes.
+- **Orange Zest:** Add zest of ¼ orange for milder citrus character.
+- **Caramelized Sugar Emphasis:** Reduce vanilla to ¼ teaspoon and increase icing sugar by 10 grams for deeper caramel notes.
+- **Pistachio Dust:** Sprinkle finely ground pistachios on the batter before baking (they sink slightly but add nutty character).
 
 ## Serving
-Perfect with: Ice cream (particularly vanilla, lavender, or fruit), fruit-based desserts, after formal dinners, strong coffee or espresso, alongside fresh berry platters
-Temperature: Room temperature
-Context: Elegant dessert finales, tea service, special occasions, plated dessert garnish
+- Perfect with: Ice cream (particularly vanilla, lavender, or fruit), fruit-based desserts, after formal dinners, strong coffee or espresso, alongside fresh berry platters
+- Temperature: Room temperature
+- Context: Elegant dessert finales, tea service, special occasions, plated dessert garnish
 
 ## Storage
 - Store in an airtight container with parchment paper between layers, in a cool, dry place: up to 1 week

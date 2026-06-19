@@ -61,7 +61,7 @@ The Sunday lamb of the British table, the centrepiece of an Easter lunch and the
 - A spoonful of harissa rubbed into the meat instead of salt-and-oil gives a North African slant for non-Easter cooks.
 
 ## Serving
-At the centre of the Easter table with mint sauce, roast potatoes, buttered carrots and peas. A glass of full-bodied red wine alongside.
+- At the centre of the Easter table with mint sauce, roast potatoes, buttered carrots and peas. A glass of full-bodied red wine alongside.
 
 ## Storage
 Sliced lamb in a covered container in the fridge for up to 3 days. Reheats poorly without going dry; better eaten cold the next day in sandwiches with mint sauce.

@@ -65,14 +65,14 @@ Bulvių salotos is the Lithuanian potato salad that turns up at every wedding, c
 - **Half mayonnaise half sour cream:** the Lithuanian touch, never all mayo.
 
 ## Variations
-**With ham:** add 150 g diced cooked ham or smoked bologna for a meatier celebration plate.
-**With apple:** add 1 diced tart apple, the autumn version.
-**With herring:** add 100 g diced pickled herring fillets for a Baltic-coast twist.
-**With horseradish:** add 1 tbsp grated fresh horseradish to the dressing for sharpness.
-**Spring version:** add 6 chopped radishes and skip the carrot, fresher and lighter.
+- **With ham:** add 150 g diced cooked ham or smoked bologna for a meatier celebration plate.
+- **With apple:** add 1 diced tart apple, the autumn version.
+- **With herring:** add 100 g diced pickled herring fillets for a Baltic-coast twist.
+- **With horseradish:** add 1 tbsp grated fresh horseradish to the dressing for sharpness.
+- **Spring version:** add 6 chopped radishes and skip the carrot, fresher and lighter.
 
 ## Serving
-Serve cold · as a centrepiece for Christmas Eve · alongside roast pork · with smoked herring · at a christening or name-day table · with rye bread and butter.
+- Serve cold · as a centrepiece for Christmas Eve · alongside roast pork · with smoked herring · at a christening or name-day table · with rye bread and butter.
 
 ## Storage
 - Keeps 3 days refrigerated, the flavour deepens.

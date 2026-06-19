@@ -67,13 +67,13 @@ Bannann peze (tostones in the Spanish-speaking Caribbean) is Haiti's twice-fried
 - **Eat immediately:** bannann peze loses its crispness within about 15 minutes of coming out of the oil. Don't try to hold them; serve straight from the pan. If you absolutely must hold them, lay on a wire rack in a low oven (90 C) for up to 10 minutes; longer and they go limp.
 
 ## Variations
-**Bannann mi (sweet ripe plantain):** the sweet cousin. Use yellow-with-black-spot plantains, slice diagonally into 1.5 cm slices, and fry once at medium heat till golden-brown and caramelised. Sweet rather than savoury; a side for grilled meats and a breakfast standby.
-**Banane pesée:** the French Creole name for the same dish, used in Martinique and Guadeloupe.
-**Tostones:** the Spanish-Caribbean name; identical dish, found in Cuba, Puerto Rico, Dominican Republic and across Latin America.
-**Larger format (tomate-tomahto):** instead of the standard 2.5 cm rounds, cut the plantain into longer 6-7 cm pieces; the same two-fry technique gives you larger flat plantain "patties" that you can use as a base for toppings (a Cuban favourite, plantains as a sandwich-bread substitute).
+- **Bannann mi (sweet ripe plantain):** the sweet cousin. Use yellow-with-black-spot plantains, slice diagonally into 1.5 cm slices, and fry once at medium heat till golden-brown and caramelised. Sweet rather than savoury; a side for grilled meats and a breakfast standby.
+- **Banane pesée:** the French Creole name for the same dish, used in Martinique and Guadeloupe.
+- **Tostones:** the Spanish-Caribbean name; identical dish, found in Cuba, Puerto Rico, Dominican Republic and across Latin America.
+- **Larger format (tomate-tomahto):** instead of the standard 2.5 cm rounds, cut the plantain into longer 6-7 cm pieces; the same two-fry technique gives you larger flat plantain "patties" that you can use as a base for toppings (a Cuban favourite, plantains as a sandwich-bread substitute).
 
 ## Serving
-Alongside the main, with pikliz on the side and a lime wedge for squeezing. Bannann peze with griot and pikliz is the classic Haitian trio. Also wonderful as a snack on its own with a small bowl of pikliz to dip into.
+- Alongside the main, with pikliz on the side and a lime wedge for squeezing. Bannann peze with griot and pikliz is the classic Haitian trio. Also wonderful as a snack on its own with a small bowl of pikliz to dip into.
 
 ## Storage
 - Eat immediately. Bannann peze does not store well; the crust collapses within 15-20 minutes of cooking.

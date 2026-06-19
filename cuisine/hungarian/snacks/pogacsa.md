@@ -65,12 +65,12 @@ Pogácsa are the Hungarian savoury biscuits sold from every village bakery and m
 - **Don't twist the cutter:** Press straight down. Twisting pinches the layered edges shut and the pogácsa won't rise straight.
 
 ## Variations
-**Töpörtyűs (crackling):** Replace 80 g of the fat with finely chopped pork crackling (töpörtyű). The most traditional version.
-**Krumplis (potato):** Add 150 g cold mashed floury potato to the dough; reduce flour by 50 g. Softer crumb.
-**Kapros-túrós (dill and curd cheese):** Replace the grated cheese with 150 g dry curd cheese and add 2 tablespoons chopped dill.
+- **Töpörtyűs (crackling):** Replace 80 g of the fat with finely chopped pork crackling (töpörtyű). The most traditional version.
+- **Krumplis (potato):** Add 150 g cold mashed floury potato to the dough; reduce flour by 50 g. Softer crumb.
+- **Kapros-túrós (dill and curd cheese):** Replace the grated cheese with 150 g dry curd cheese and add 2 tablespoons chopped dill.
 
 ## Serving
-Serve with: Bowls of soup (especially gulyásleves or bean soup), a wine and cheese board, or as a snack with cured meats and pickles.
+- Serve with: Bowls of soup (especially gulyásleves or bean soup), a wine and cheese board, or as a snack with cured meats and pickles.
 
 ## Storage
 - Best within 24 hours of baking.

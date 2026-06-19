@@ -56,7 +56,7 @@ This is the French restaurant version of crème caramel, infused with ground cof
 - The crushed whole coffee beans for garnish should be added just before serving and scattered lightly to avoid grittiness
 
 ## Serving
-Turn the crème caramel out onto a shallow bowl or plate, allowing the caramel sauce to pool around the silky custard. Scatter crushed roasted coffee beans at the base and serve immediately. The contrast between warm coffee notes in the custard and the caramel sweetness balances perfectly.
+- Turn the crème caramel out onto a shallow bowl or plate, allowing the caramel sauce to pool around the silky custard. Scatter crushed roasted coffee beans at the base and serve immediately. The contrast between warm coffee notes in the custard and the caramel sweetness balances perfectly.
 
 ## Storage
 Baked crème caramels keep refrigerated for up to 3 days in their moulds, covered with plastic film; the custard texture and caramel flavor actually improve as flavors integrate. Do not turn out until ready to serve, as the caramel coating begins to change texture after exposure to air. Serve at cold or room temperature; chilled provides maximum contrast.

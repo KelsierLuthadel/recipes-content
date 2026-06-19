@@ -48,7 +48,7 @@ Bread sauce is the building block of the British roast Christmas dinner, the sof
 - **Onion removal:** The clove-studded onion must be removed before serving to prevent unexpected cloves in diners' mouths.
 
 ## Serving
-Serve warm alongside roasted chicken, turkey, gamebirds, and other roasted poultry.
+- Serve warm alongside roasted chicken, turkey, gamebirds, and other roasted poultry.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

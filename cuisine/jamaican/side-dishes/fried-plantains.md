@@ -43,11 +43,11 @@ The non-negotiable side beside jerk chicken, brown stew or a curried goat plate,
 - **Coconut oil option:** Frying in coconut oil adds a subtle island sweetness that complements jerk and curry plates.
 
 ## Variations
-**Pressed plantains (tostones):** Use green plantains, fry once, smash flat, fry again. A different dish, savoury, crisp, served with garlic-lime dipping sauce.
-**Glazed:** Drizzle with a little dark rum and brown sugar in the last 30 seconds of frying for a dessert-leaning version.
+- **Pressed plantains (tostones):** Use green plantains, fry once, smash flat, fry again. A different dish, savoury, crisp, served with garlic-lime dipping sauce.
+- **Glazed:** Drizzle with a little dark rum and brown sugar in the last 30 seconds of frying for a dessert-leaning version.
 
 ## Serving
-Serve with: Jerk chicken, brown stew chicken, rice and peas, curry goat, or as part of a Jamaican breakfast with ackee and saltfish.
+- Serve with: Jerk chicken, brown stew chicken, rice and peas, curry goat, or as part of a Jamaican breakfast with ackee and saltfish.
 
 ## Storage
 - Best eaten immediately, they soften and lose their edge-crispness within an hour.

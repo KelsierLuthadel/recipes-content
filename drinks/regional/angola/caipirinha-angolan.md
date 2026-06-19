@@ -59,12 +59,12 @@ The caipirinha crossed the Atlantic to Angola with the Lusophone-Atlantic exchan
 - **Sharper, less sweet:** Many Angolan bars run the drink slightly drier than the Brazilian default. Start with 2 tsp sugar; add more only if you find it too sharp.
 
 ## Variations
-**Kaporoto de coco:** Top with a splash of fresh coconut water for a tropical Atlantic version.
-**Caipirinha de múcua:** Stir a teaspoon of baobab powder into the muddled lime and sugar before adding the spirit; the cocktail-bar Luanda variant.
-**Caipirinha de maracujá:** Add the pulp of one passion fruit to the muddle.
+- **Kaporoto de coco:** Top with a splash of fresh coconut water for a tropical Atlantic version.
+- **Caipirinha de múcua:** Stir a teaspoon of baobab powder into the muddled lime and sugar before adding the spirit; the cocktail-bar Luanda variant.
+- **Caipirinha de maracujá:** Add the pulp of one passion fruit to the muddle.
 
 ## Serving
-At every Luanda bar at sunset. At a coastal restaurant alongside grilled fish. At a Friday-evening welcome on the veranda. At a wedding reception or party.
+- At every Luanda bar at sunset. At a coastal restaurant alongside grilled fish. At a Friday-evening welcome on the veranda. At a wedding reception or party.
 
 ## Storage
 - Drink fresh; best within 10 minutes of making.

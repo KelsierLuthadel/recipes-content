@@ -56,7 +56,7 @@ Cuñapé is the signature snack of Santa Cruz and the eastern Bolivian lowlands,
 - Pão de queijo (Brazilian cousin) uses similar dough with less cheese and rounder shape
 
 ## Serving
-Serve warm in a basket · with black coffee at breakfast · with cocoa in the afternoon · alongside a soup
+- Serve warm in a basket · with black coffee at breakfast · with cocoa in the afternoon · alongside a soup
 
 ## Storage
 - Eats best the day they are baked

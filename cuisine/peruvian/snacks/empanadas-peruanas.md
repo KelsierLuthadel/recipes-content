@@ -110,17 +110,17 @@ Empanadas are popular across Latin America (Argentinian, Chilean, Bolivian, Mexi
 - **Cool the filling before assembly:** hot filling melts the pastry; assembly with cold filling is the Peruvian rule.
 
 ## Variations
-**Empanadas de pollo:** swap beef for shredded chicken thigh; same aji panca base; sometimes with diced potato added.
-**Empanadas de queso (cheese):** a filling of grated mature cheese + chopped onion + chilli, the popular meat-free variant.
-**Empanadas de jamón y queso:** ham + cheese + a slice of olive, the simplest variant.
-**Empanadas dulces (sweet):** filling of dulce de leche, with a brown sugar + cinnamon dust on top, the dessert variant.
-**Fried empanadas:** instead of baking, deep-fry at 180°C for 4-5 minutes till deep golden, the street-stall version.
-**Mini empanadas for cocktails:** make 8 cm rounds instead of 15 cm; smaller filling; bake 15 minutes. Good for receptions.
-**Empanadas de mariscos (seafood):** chunky cooked seafood + chopped onion + aji amarillo + lime, the Lima coastal variant.
-**Empanadas with a quinoa-mushroom filling (vegan):** cooked quinoa + sautéed mushrooms + aji panca paste, the modern healthy variant.
+- **Empanadas de pollo:** swap beef for shredded chicken thigh; same aji panca base; sometimes with diced potato added.
+- **Empanadas de queso (cheese):** a filling of grated mature cheese + chopped onion + chilli, the popular meat-free variant.
+- **Empanadas de jamón y queso:** ham + cheese + a slice of olive, the simplest variant.
+- **Empanadas dulces (sweet):** filling of dulce de leche, with a brown sugar + cinnamon dust on top, the dessert variant.
+- **Fried empanadas:** instead of baking, deep-fry at 180°C for 4-5 minutes till deep golden, the street-stall version.
+- **Mini empanadas for cocktails:** make 8 cm rounds instead of 15 cm; smaller filling; bake 15 minutes. Good for receptions.
+- **Empanadas de mariscos (seafood):** chunky cooked seafood + chopped onion + aji amarillo + lime, the Lima coastal variant.
+- **Empanadas with a quinoa-mushroom filling (vegan):** cooked quinoa + sautéed mushrooms + aji panca paste, the modern healthy variant.
 
 ## Serving
-At a Lima bakery in the morning (the traditional setting; sold from glass cases at every Peruvian panadería) · at a Peruvian working-day lunch break · at a Peruvian Independence Day buffet · at a Peruvian wedding · at a Peruvian birthday party · at home as a make-ahead weekend lunch · paired with chicha morada, cold lager, or a small glass of pisco.
+- At a Lima bakery in the morning (the traditional setting; sold from glass cases at every Peruvian panadería) · at a Peruvian working-day lunch break · at a Peruvian Independence Day buffet · at a Peruvian wedding · at a Peruvian birthday party · at home as a make-ahead weekend lunch · paired with chicha morada, cold lager, or a small glass of pisco.
 
 ## Storage
 - Baked empanadas refrigerate 4 days; reheat in a 180°C oven for 8-10 minutes.

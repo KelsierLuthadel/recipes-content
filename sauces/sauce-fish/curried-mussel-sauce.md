@@ -50,7 +50,7 @@ Curried mussel sauce is the building block for the elegant fish course that turn
 - **Curry powder quality:** Use fresh curry powder; old spices lose potency and flavour will be flat.
 
 ## Serving
-Serve immediately with shelled mussels cooked à la mari nière, poached cod, halibut, or other white fish. Accompany with pilaf rice or pasta.
+- Serve immediately with shelled mussels cooked à la mari nière, poached cod, halibut, or other white fish. Accompany with pilaf rice or pasta.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

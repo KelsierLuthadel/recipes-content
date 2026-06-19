@@ -58,13 +58,13 @@ Maltese potato salad rejects the heavy mayonnaise-based Northern European versio
 - **Eat at room temperature:** cold mutes the flavours.
 
 ## Variations
-**With tuna:** add 1 tin tuna in olive oil, turns it into a niçoise-style main.
-**With anchovies:** add 4 anchovy fillets.
-**With ġbejniet:** crumble in 100 g fresh Maltese sheep's cheese.
-**Spicy variant:** add a chopped fresh chilli or chilli flakes.
+- **With tuna:** add 1 tin tuna in olive oil, turns it into a niçoise-style main.
+- **With anchovies:** add 4 anchovy fillets.
+- **With ġbejniet:** crumble in 100 g fresh Maltese sheep's cheese.
+- **Spicy variant:** add a chopped fresh chilli or chilli flakes.
 
 ## Serving
-At a Maltese summer lunch · alongside grilled fish · at a Maltese beach picnic · at a Maltese festa · at home as a quick summer side.
+- At a Maltese summer lunch · alongside grilled fish · at a Maltese beach picnic · at a Maltese festa · at home as a quick summer side.
 
 ## Storage
 - Refrigerates 3 days; bring to room temperature before serving.

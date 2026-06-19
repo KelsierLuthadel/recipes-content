@@ -69,14 +69,14 @@
 - **Acid balance:** kefir varies in sourness. Taste and add lemon juice gradually.
 
 ## Variations
-**With smoked fish:** add 100 g flaked smoked trout or mackerel on top, a lake-region twist.
-**Radish version:** add 100 g finely diced pink radish for extra crunch.
-**Vegan šaltibarščiai:** swap kefir for unsweetened almond or cashew yoghurt thinned with water and lemon.
-**With raw grated beet:** half raw, half cooked, gives more bite and a deeper pink.
-**Without potatoes:** serve with rye bread instead, the urban quick lunch version.
+- **With smoked fish:** add 100 g flaked smoked trout or mackerel on top, a lake-region twist.
+- **Radish version:** add 100 g finely diced pink radish for extra crunch.
+- **Vegan šaltibarščiai:** swap kefir for unsweetened almond or cashew yoghurt thinned with water and lemon.
+- **With raw grated beet:** half raw, half cooked, gives more bite and a deeper pink.
+- **Without potatoes:** serve with rye bread instead, the urban quick lunch version.
 
 ## Serving
-Serve as a summer lunch · with hot buttered potatoes alongside · in a glass bowl to show the colour · at outdoor tables on hot days · alongside dark rye bread · cold beer (an unfiltered lager) cuts the kefir beautifully.
+- Serve as a summer lunch · with hot buttered potatoes alongside · in a glass bowl to show the colour · at outdoor tables on hot days · alongside dark rye bread · cold beer (an unfiltered lager) cuts the kefir beautifully.
 
 ## Storage
 - Best within a day, the kefir keeps fermenting and grows sourer.

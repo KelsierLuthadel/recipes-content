@@ -67,13 +67,13 @@ The elegant Italian-coastal pasta that celebrates premium seafood and the beauty
 - **Pesto Smoothness:** Food processor creates better texture than hand-chopping; the oil should fully incorporate with the herbs.
 
 ## Variations
-**With White Wine:** Add 60 ml dry white wine to the pan with the butter for a lighter sauce.
-**Mint Variation:** Replace half the parsley with fresh mint for brighter, fresher character.
-**Extra Garlic:** Use 2 garlic cloves for more pungent pesto.
+- **With White Wine:** Add 60 ml dry white wine to the pan with the butter for a lighter sauce.
+- **Mint Variation:** Replace half the parsley with fresh mint for brighter, fresher character.
+- **Extra Garlic:** Use 2 garlic cloves for more pungent pesto.
 
 ## Serving
-Serve with: Crusty bread, chilled dry white wine (Pinot Grigio)
-Garnish with: Fresh parsley leaves, lemon wedges, cracked black pepper
+- Serve with: Crusty bread, chilled dry white wine (Pinot Grigio)
+- Garnish with: Fresh parsley leaves, lemon wedges, cracked black pepper
 
 ## Storage
 - Best served immediately after preparation

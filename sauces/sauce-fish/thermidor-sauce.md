@@ -51,7 +51,7 @@ Sauce Thermidor is the building block for the famous Lobster Thermidor and most 
 - **Cognac optional:** Add a teaspoonful of Cognac at the end of cooking for extra richness, if desired.
 
 ## Serving
-Serve immediately with lobster thermidor, crab thermidor, and other crustaceans. Also excellent mixed with crab meat and served au gratin.
+- Serve immediately with lobster thermidor, crab thermidor, and other crustaceans. Also excellent mixed with crab meat and served au gratin.
 
 ## Storage
 - Best eaten immediately after preparation.

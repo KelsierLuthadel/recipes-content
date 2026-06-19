@@ -46,7 +46,7 @@ The dinner-party stone-fruit dessert at its plainest and most flattering to good
 - The raw peach coulis provides tartness and freshness that balances the warm honey sauce; do not skip this for a complete dessert
 
 ## Serving
-Arrange the cool peach coulis in shallow serving glasses and crown with a warm roasted peach half. Drizzle the honey syrup decoratively and top with a star anise. Serve immediately while temperatures provide textural contrast. The warmth and cold create an elegant sensory experience.
+- Arrange the cool peach coulis in shallow serving glasses and crown with a warm roasted peach half. Drizzle the honey syrup decoratively and top with a star anise. Serve immediately while temperatures provide textural contrast. The warmth and cold create an elegant sensory experience.
 
 ## Storage
 The roasted peaches and honey glaze can be prepared several hours ahead and kept at room temperature, then gently reheated. The raw peach coulis should be prepared no more than 2-3 hours ahead to preserve the freshness; make it immediately before serving if possible. Do not refrigerate any component; serve at room or warm temperature for best flavor.

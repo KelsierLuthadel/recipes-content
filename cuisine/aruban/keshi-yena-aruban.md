@@ -80,14 +80,14 @@ Keshi yena (Papiamento for "stuffed cheese") is the dish every Aruban household 
 - **Carve at the table:** lift the cap, then cut wedges right through the cheese wall so each plate gets cheese and stew.
 
 ## Variations
-**Keshi yena di galina kabaron:** add 200 g peeled prawns with the chicken for the seafood-and-poultry Sunday version.
-**Keshi yena di karne:** swap the chicken for diced stewing beef and extend the simmer to 90 minutes.
-**Keshi yena di pisca:** flake 500 g cooked salt cod in place of the chicken for the Friday Lent version.
-**Individual keshi yena:** line ramekins with thin Edam slices and bake 25 minutes for a starter portion.
-**Modern oven-dish version:** layer the filling between sheets of Edam in a casserole, the home-cook shortcut.
+- **Keshi yena di galina kabaron:** add 200 g peeled prawns with the chicken for the seafood-and-poultry Sunday version.
+- **Keshi yena di karne:** swap the chicken for diced stewing beef and extend the simmer to 90 minutes.
+- **Keshi yena di pisca:** flake 500 g cooked salt cod in place of the chicken for the Friday Lent version.
+- **Individual keshi yena:** line ramekins with thin Edam slices and bake 25 minutes for a starter portion.
+- **Modern oven-dish version:** layer the filling between sheets of Edam in a casserole, the home-cook shortcut.
 
 ## Serving
-At Aruban Sunday lunch · for Christmas Eve dinner · at a Dia di Himno y Bandera (18 March) family table · paired with funchi or pan bati · with a bowl of stewed black beans alongside · with a glass of cold Balashi lager.
+- At Aruban Sunday lunch · for Christmas Eve dinner · at a Dia di Himno y Bandera (18 March) family table · paired with funchi or pan bati · with a bowl of stewed black beans alongside · with a glass of cold Balashi lager.
 
 ## Storage
 - Refrigerates 3 days covered.

@@ -55,16 +55,16 @@ Method: as for green curry (see [coconut milk technique](coconut-milk.md) and [b
 ## Variations
 
 ### Massaman (Closely Related)
-Yellow curry was the original; massaman developed alongside it with even more Indian/Persian influence (cardamom, cinnamon, cloves, often peanuts). See [Massaman](massaman.md) for the full course page.
+- Yellow curry was the original; massaman developed alongside it with even more Indian/Persian influence (cardamom, cinnamon, cloves, often peanuts). See [Massaman](massaman.md) for the full course page.
 
 ### Chicken Yellow Curry (the standard)
-The everyday yellow curry. Cubed chicken thigh, new potatoes, onion chunks. Comfort-curry rather than restaurant.
+- The everyday yellow curry. Cubed chicken thigh, new potatoes, onion chunks. Comfort-curry rather than restaurant.
 
 ### Vegetable Yellow Curry
-Replace chicken with cubed firm tofu, double the potato/sweet potato, add a generous handful of green beans at the end.
+- Replace chicken with cubed firm tofu, double the potato/sweet potato, add a generous handful of green beans at the end.
 
 ### Fish Yellow Curry
-Cubed white fish, but the curry needs to be made first; the fish goes in only at the very end for 60-90 seconds.
+- Cubed white fish, but the curry needs to be made first; the fish goes in only at the very end for 60-90 seconds.
 
 ## What Makes Yellow Curry Different
 

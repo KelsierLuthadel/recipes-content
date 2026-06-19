@@ -107,9 +107,9 @@ Salt is held back until the end because the chilli sauce, pickle, and chutney al
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the bright red sauce. A cooling raita on the side helps if you've leaned into the chilli.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the bright red sauce. A cooling raita on the side helps if you've leaned into the chilli.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The heat softens overnight and the chilli sauce integrates with the masala, both improvements. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth and any added cream from splitting.

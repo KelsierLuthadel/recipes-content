@@ -74,14 +74,14 @@ Knäckebröd med smör (literally "crispbread with butter") is the simplest and 
 - **Eat immediately:** the crispbread softens within an hour of buttering if left to sit.
 
 ## Variations
-**Västerbottensost open sandwich:** add a thick slice of the traditional Swedish hard cheese (Västerbotten) on top.
-**Skagentoast on knäckebröd:** top with shrimp salad (mayo, shrimps, dill, lemon) for the Stockholm seafood-snack version.
-**With pickled herring:** the smörgåsbord traditional, herring + butter + crispbread.
-**With liver pâté and cucumber:** the Swedish-breakfast traditional.
-**Vegan version:** swap butter for vegan butter; same technique.
+- **Västerbottensost open sandwich:** add a thick slice of the traditional Swedish hard cheese (Västerbotten) on top.
+- **Skagentoast on knäckebröd:** top with shrimp salad (mayo, shrimps, dill, lemon) for the Stockholm seafood-snack version.
+- **With pickled herring:** the smörgåsbord traditional, herring + butter + crispbread.
+- **With liver pâté and cucumber:** the Swedish-breakfast traditional.
+- **Vegan version:** swap butter for vegan butter; same technique.
 
 ## Serving
-At every Swedish breakfast (with cheese or pâté) · at every fika (with butter alone, perhaps with cheese) · at every smörgåsbord as the bread that holds the cold dishes · at lunch with a tin of pickled herring · at the end of an evening of drinking when nothing more substantial is needed.
+- At every Swedish breakfast (with cheese or pâté) · at every fika (with butter alone, perhaps with cheese) · at every smörgåsbord as the bread that holds the cold dishes · at lunch with a tin of pickled herring · at the end of an evening of drinking when nothing more substantial is needed.
 
 ## Storage
 - Crispbread keeps in its sealed packaging for months; once opened, 2 weeks at room temp in a dry sealed box.

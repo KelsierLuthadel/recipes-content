@@ -76,7 +76,7 @@ Kvass is the rye-bread drink of the Baltic and Slavic east. In Latvia it is pour
 - **Okroshka base:** A cold summer soup is built on kvass poured over diced cucumber, radish, hard-boiled egg, ham, dill and spring onion; serve with sour cream.
 
 ## Serving
-Serve cold, straight from the bottle, in heavy glass mugs. With rye bread and herring, with cold meats and pickled gherkins, alongside the summer table.
+- Serve cold, straight from the bottle, in heavy glass mugs. With rye bread and herring, with cold meats and pickled gherkins, alongside the summer table.
 
 ## Storage
 - Keeps 5 to 7 days refrigerated, bottled. The flavour deepens, the fizz builds.

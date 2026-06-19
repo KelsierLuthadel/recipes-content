@@ -84,13 +84,13 @@ This is the elegant version of slow-cooked lamb breast, a French restaurant dish
 - **Crust Application:** Molding the breadcrumbs onto warm (not hot) meat ensures good adhesion before grilling.
 
 ## Variations
-**Without Crust:** Serve the sliced lamb with the mustard cream sauce alone for a lighter presentation.
-**Herb Variation:** Use fresh tarragon instead of sage for a more delicate, anise-like flavor.
-**Gratin Topping:** Replace breadcrumb crust with Emmental cheese mixed with thyme for a richer variation.
+- **Without Crust:** Serve the sliced lamb with the mustard cream sauce alone for a lighter presentation.
+- **Herb Variation:** Use fresh tarragon instead of sage for a more delicate, anise-like flavor.
+- **Gratin Topping:** Replace breadcrumb crust with Emmental cheese mixed with thyme for a richer variation.
 
 ## Serving
-Serve with: Root vegetable purées, sautéed spinach, or creamed potatoes
-Garnish with: Fresh sage leaves, tarragon sprigs, and whole grain mustard on the side
+- Serve with: Root vegetable purées, sautéed spinach, or creamed potatoes
+- Garnish with: Fresh sage leaves, tarragon sprigs, and whole grain mustard on the side
 
 ## Storage
 - Best eaten immediately after assembly, though the uncrusted lamb keeps 3-4 days refrigerated

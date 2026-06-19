@@ -72,13 +72,13 @@ ANZAC biscuits are a national institution in both Australia and New Zealand: a c
 - **Space well apart:** the dough spreads considerably during baking; 5 cm between balls is the minimum. Crowded baking gives joined-together biscuits.
 
 ## Variations
-**Chocolate-dipped ANZAC biscuits:** dip half of each cooled biscuit in melted dark chocolate; let set on parchment. Common modern Aussie variation.
-**Macadamia ANZAC biscuits:** stir 100 g of chopped roasted macadamias into the dough; gives a nutty Aussie variation.
-**Wholemeal ANZAC biscuits:** swap 100 g of the flour for wholemeal; gives a slightly heartier biscuit with extra fibre. Healthier variation.
-**Mini ANZAC biscuits:** use teaspoons instead of tablespoons; makes 48 mini biscuits. Great for parties or kids' lunchboxes.
+- **Chocolate-dipped ANZAC biscuits:** dip half of each cooled biscuit in melted dark chocolate; let set on parchment. Common modern Aussie variation.
+- **Macadamia ANZAC biscuits:** stir 100 g of chopped roasted macadamias into the dough; gives a nutty Aussie variation.
+- **Wholemeal ANZAC biscuits:** swap 100 g of the flour for wholemeal; gives a slightly heartier biscuit with extra fibre. Healthier variation.
+- **Mini ANZAC biscuits:** use teaspoons instead of tablespoons; makes 48 mini biscuits. Great for parties or kids' lunchboxes.
 
 ## Serving
-With strong tea (the proper Australian way: a "cuppa" with milk and possibly sugar), or with milky coffee. At Sunday afternoon family gatherings, school lunchboxes, picnics, or on ANZAC Day (25 April) with proper reflection. A great biscuit for sending in the mail to someone overseas; they keep well.
+- With strong tea (the proper Australian way: a "cuppa" with milk and possibly sugar), or with milky coffee. At Sunday afternoon family gatherings, school lunchboxes, picnics, or on ANZAC Day (25 April) with proper reflection. A great biscuit for sending in the mail to someone overseas; they keep well.
 
 ## Storage
 - Keep in a sealed container at room temperature 2 weeks; the chewy version stays soft for the first week, then firms up; the crisp version stays crisp throughout.

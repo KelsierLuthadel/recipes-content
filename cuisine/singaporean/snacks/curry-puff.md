@@ -84,7 +84,7 @@ The curry puff (also called karipap in Malay) is Singapore's bite-sized samosa c
 - **Crimping styles:** Fork-crimped is the Singapore-Chinese style; pinched-rope is the Malay style. Either is correct - regional preference.
 
 ## Serving
-Serve warm in a basket lined with greaseproof paper. A small dish of kicap manis (Malay sweet soy sauce) or a sweet chilli sauce for dipping.
+- Serve warm in a basket lined with greaseproof paper. A small dish of kicap manis (Malay sweet soy sauce) or a sweet chilli sauce for dipping.
 
 ## Storage
 - Best the same day, warm from the fryer.

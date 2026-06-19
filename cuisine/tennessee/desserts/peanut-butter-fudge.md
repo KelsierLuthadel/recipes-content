@@ -69,13 +69,13 @@ Tennessee peanut butter fudge is one of the South's most beloved candies and the
 - **Set 2 hours.**
 
 ## Variations
-**Chocolate swirl (tiger fudge):** drizzle melted chocolate, swirl.
-**With nuts:** chopped peanuts or pecans.
-**With Reese's pieces:** sprinkle on top before setting.
-**Maple peanut:** swap vanilla for maple syrup.
+- **Chocolate swirl (tiger fudge):** drizzle melted chocolate, swirl.
+- **With nuts:** chopped peanuts or pecans.
+- **With Reese's pieces:** sprinkle on top before setting.
+- **Maple peanut:** swap vanilla for maple syrup.
 
 ## Serving
-At state fairs, family gatherings, Christmas. As gift.
+- At state fairs, family gatherings, Christmas. As gift.
 
 ## Storage
 - Room temp in sealed tin 2 weeks.

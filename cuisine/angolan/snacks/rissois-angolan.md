@@ -85,7 +85,7 @@ Rissóis are the small fried half-moon pastries of the Lusophone-Atlantic table,
 - **Thick béchamel:** A loose béchamel filling slumps in the rissol and leaks; aim for a stiff paste that holds a peak.
 
 ## Serving
-A party plate, a snack with a beer. A small bowl of pickled chillies on the side. The beef version (mince browned with onion, paprika, tomato paste and a stiff béchamel) is interchangeable with the prawn.
+- A party plate, a snack with a beer. A small bowl of pickled chillies on the side. The beef version (mince browned with onion, paprika, tomato paste and a stiff béchamel) is interchangeable with the prawn.
 
 ## Storage
 - Best fresh and hot.

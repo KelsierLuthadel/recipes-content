@@ -55,7 +55,7 @@ This works with any mushroom that can be sliced; button mushrooms are the curry-
 - **Pre-saute the mushrooms** if you want deeper flavour: dry-fry the slices in a hot pan with a small knob of butter for 4-5 minutes until browned at the edges, then add them in stage 2. Slightly more work, noticeably better result.
 
 ## Serving
-Mushroom pilau is the rice for a rich, sauce-heavy curry: korma, pasanda, butter chicken. The mushrooms add their own savoury layer that fights with anything too spice-forward, so save it for the milder end of the menu.
+- Mushroom pilau is the rice for a rich, sauce-heavy curry: korma, pasanda, butter chicken. The mushrooms add their own savoury layer that fights with anything too spice-forward, so save it for the milder end of the menu.
 
 ## Storage
 - Refrigerates 2 days. Reheat on the hob with 1 tbsp water in a covered pan on low heat.

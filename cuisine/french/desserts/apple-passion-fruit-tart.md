@@ -53,7 +53,7 @@ These small tartlets pair the buttery flake of puff pastry with creamy crème p�
 - This recipe works well with classic puff pastry and pre-made crème pâtissière for speed.
 
 ## Serving
-Serve the tartlets warm, about 10 minutes after they come out of the oven, so the custard is soft and the passion fruit remains juicy. They are delightful on their own or with a small scoop of vanilla ice cream.
+- Serve the tartlets warm, about 10 minutes after they come out of the oven, so the custard is soft and the passion fruit remains juicy. They are delightful on their own or with a small scoop of vanilla ice cream.
 
 ## Storage
 Store any leftover tartlets in an airtight container in the refrigerator for up to 2 days. Reheat gently in a warm oven before serving; avoid freezing as the pastry will lose its crispness.

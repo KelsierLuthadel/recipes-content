@@ -90,13 +90,13 @@ Callaloo is Trinidad's most beloved Sunday-lunch side: dasheen leaves cooked dow
 - **Stew it down properly:** Trinidadian callaloo is not just-wilted greens; it's a properly stewed-down side, cooked 35-40 minutes till the greens break down completely. Don't undercook.
 
 ## Variations
-**Crab callaloo:** the celebration version, often made with 2-3 small whole blue crabs cleaned and broken into pieces; gives proper marine sweetness.
-**Vegan callaloo:** swap the meat for 2 tablespoons of dark soy sauce, 1 teaspoon of smoked paprika and a teaspoon of mushroom seasoning; cook the same way. The umami profile is different but the dish works.
-**Pumpkin callaloo:** add 200 g of cubed pumpkin (West Indian pumpkin or butternut squash) along with the okra; the pumpkin breaks down into the callaloo and adds sweetness.
-**Coconut-heavier version:** double the coconut milk; gives a richer creamier callaloo. Common variation in southern Trinidad.
+- **Crab callaloo:** the celebration version, often made with 2-3 small whole blue crabs cleaned and broken into pieces; gives proper marine sweetness.
+- **Vegan callaloo:** swap the meat for 2 tablespoons of dark soy sauce, 1 teaspoon of smoked paprika and a teaspoon of mushroom seasoning; cook the same way. The umami profile is different but the dish works.
+- **Pumpkin callaloo:** add 200 g of cubed pumpkin (West Indian pumpkin or butternut squash) along with the okra; the pumpkin breaks down into the callaloo and adds sweetness.
+- **Coconut-heavier version:** double the coconut milk; gives a richer creamier callaloo. Common variation in southern Trinidad.
 
 ## Serving
-In a small bowl alongside the Trini Sunday lunch: stewed chicken, macaroni pie, peas-and-rice, fried plantain. Or spooned over plain white rice as a quick lunch. Sometimes served as a thick soup with a piece of crusty bread. Drink: a tall glass of sorrel; or cold Carib beer.
+- In a small bowl alongside the Trini Sunday lunch: stewed chicken, macaroni pie, peas-and-rice, fried plantain. Or spooned over plain white rice as a quick lunch. Sometimes served as a thick soup with a piece of crusty bread. Drink: a tall glass of sorrel; or cold Carib beer.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

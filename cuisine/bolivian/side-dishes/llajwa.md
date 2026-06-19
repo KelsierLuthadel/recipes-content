@@ -52,7 +52,7 @@ Optional:
 - Llajwa verde uses green tomatoes and green locotos for a brighter sour version
 
 ## Serving
-Set a bowl on the table beside everything else · spoon over rice, meat, soup, eggs, salteñas · refill as it runs out
+- Set a bowl on the table beside everything else · spoon over rice, meat, soup, eggs, salteñas · refill as it runs out
 
 ## Storage
 - Eats best the day it is made

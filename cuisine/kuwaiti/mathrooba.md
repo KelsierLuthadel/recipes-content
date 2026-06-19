@@ -70,7 +70,7 @@ Mathrooba sits in the same Ramadan family as harees but takes the seasoning furt
 - **Loomi out before serving:** Always remove dried limes before plating; they go bitter if eaten.
 
 ## Serving
-Hot, in shallow bowls, with bread and laban on the side. Iftar season favourite.
+- Hot, in shallow bowls, with bread and laban on the side. Iftar season favourite.
 
 ## Storage
 - Refrigerate 3 days; reheat with hot water (it sets when cold)

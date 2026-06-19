@@ -108,9 +108,9 @@
 ---
 
 ## Serving
-Pair with plain basmati or a [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) and a piece of paratha or naan to mop the sauce. A small bowl of plain yoghurt or raita on the side balances the pickle intensity; skip the chutneys and pickles you'd normally put alongside, they'll compete with the curry.
+- Pair with plain basmati or a [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) and a piece of paratha or naan to mop the sauce. A small bowl of plain yoghurt or raita on the side balances the pickle intensity; skip the chutneys and pickles you'd normally put alongside, they'll compete with the curry.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The pickle flavours deepen overnight as they integrate with the sauce; day-two achari is often noticeably more rounded. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth.

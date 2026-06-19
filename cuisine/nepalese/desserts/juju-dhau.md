@@ -67,9 +67,9 @@ Juju dhau (literally "king curd") is a Newari speciality from the city of Bhakta
 - **Rose juju dhau:** add 2 tsp rosewater after the milk reduction. A modern Kathmandu café variation.
 
 ## Serving
-Eaten as a dessert at the end of a Newari meal, or as a sweet snack with no other context. A small clay pot per person is the proper portion. Cold from the fridge.
+- Eaten as a dessert at the end of a Newari meal, or as a sweet snack with no other context. A small clay pot per person is the proper portion. Cold from the fridge.
 
-The traditional Bhaktapur experience is to buy juju dhau already set in its pot from a street vendor near the Pottery Square and eat it warm, walking, with a small wooden spoon.
+- The traditional Bhaktapur experience is to buy juju dhau already set in its pot from a street vendor near the Pottery Square and eat it warm, walking, with a small wooden spoon.
 
 ## Storage
 - Keeps 3 days refrigerated, covered.

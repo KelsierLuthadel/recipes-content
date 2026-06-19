@@ -71,7 +71,7 @@ Macaroni pie is the Eastern Caribbean's take on what the United States calls mac
 - **Bechamel base:** Some Lucian cooks build a roux first and stir in the eggs at the end; gives a creamier slice.
 
 ## Serving
-Serve warm in squares · stew chicken or curry alongside · a green salad to cut the richness · hot sauce on the table
+- Serve warm in squares · stew chicken or curry alongside · a green salad to cut the richness · hot sauce on the table
 
 ## Storage
 - Refrigerate 4 days covered; reheat individual squares in a 180 C oven 10 minutes

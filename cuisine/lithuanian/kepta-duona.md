@@ -62,14 +62,14 @@ Kepta duona is the most addictive bar food in Lithuania, and the reason no one e
 - **Salt is mandatory:** flake salt right out of the pan, not before. Saltless kepta duona is not kepta duona.
 
 ## Variations
-**With cumin or caraway:** sprinkle ground caraway with the salt, the strong rye partner.
-**With smoked paprika:** dust over after salting for a smokier note.
-**With horseradish dip:** replace half the garlic in the dip with 1 tablespoon of grated fresh horseradish.
-**Oven version:** toss the batons in 6 tablespoons oil, spread on a tray, bake at 220°C 12-15 minutes, less crisp but lighter.
-**Pickled-cucumber dip:** swap dill for chopped gherkin and a splash of pickle brine.
+- **With cumin or caraway:** sprinkle ground caraway with the salt, the strong rye partner.
+- **With smoked paprika:** dust over after salting for a smokier note.
+- **With horseradish dip:** replace half the garlic in the dip with 1 tablespoon of grated fresh horseradish.
+- **Oven version:** toss the batons in 6 tablespoons oil, spread on a tray, bake at 220°C 12-15 minutes, less crisp but lighter.
+- **Pickled-cucumber dip:** swap dill for chopped gherkin and a splash of pickle brine.
 
 ## Serving
-Serve hot as a beer-bar starter · as a meal-size pile with cold beer · with garlic-cheese dip · at a games-night plate · with sour cream alongside · the classic Vilnius pub plate.
+- Serve hot as a beer-bar starter · as a meal-size pile with cold beer · with garlic-cheese dip · at a games-night plate · with sour cream alongside · the classic Vilnius pub plate.
 
 ## Storage
 - Best straight from the pan; the crispness fades within an hour.

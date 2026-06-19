@@ -78,7 +78,7 @@ Hokkien mee in Singapore (distinct from the darker Kuala Lumpur version) is a st
 - **Stock-soup balance:** The dish is wet (slightly soupy at the bottom of the plate) but the noodles should be coated, not floating. Add stock gradually.
 
 ## Serving
-Serve immediately on wide plates. Lime + sambal belacan are non-negotiable accompaniments - the lime cuts the richness; the sambal adds the heat.
+- Serve immediately on wide plates. Lime + sambal belacan are non-negotiable accompaniments - the lime cuts the richness; the sambal adds the heat.
 
 ## Storage
 - Best the same hour. Cold hokkien mee is acceptable but loses the wok-hei character.

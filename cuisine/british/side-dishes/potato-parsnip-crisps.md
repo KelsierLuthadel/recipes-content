@@ -33,9 +33,9 @@ Paper-thin slices of potato and parsnip deep-fried gold and shatteringly crisp, 
 - Season with salt immediately after removing from the oil so it adheres while the surface is still hot.
 
 ## Serving
-Serve with: pre-dinner drinks as a snack, or as a garnish for soups, salads, or plated main courses
-Temperature: warm or at room temperature, served immediately after frying
-Amount: a generous handful per person as a snack; a small bundle as a garnish
+- Serve with: pre-dinner drinks as a snack, or as a garnish for soups, salads, or plated main courses
+- Temperature: warm or at room temperature, served immediately after frying
+- Amount: a generous handful per person as a snack; a small bundle as a garnish
 
 ## Storage
 - Best eaten immediately after frying as they lose their crispness quickly.

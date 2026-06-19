@@ -63,7 +63,7 @@ Khao soi is the signature dish of Chiang Mai and the whole north of Thailand, th
 - **Pak choy:** Add at the end to keep it crisp and fresh.
 
 ## Serving
-Serve hot in deep bowls.
+- Serve hot in deep bowls.
 
 ## Storage
 - Best served immediately; soup can be refrigerated for 2 days. Reheat gently and add fresh basil before serving.

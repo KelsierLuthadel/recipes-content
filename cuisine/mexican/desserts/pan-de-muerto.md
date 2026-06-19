@@ -61,7 +61,7 @@ A rich yeasted dough enriched with butter, eggs and sugar, perfumed with orange 
 - The bread firms up quickly. Day 1 is the best eating; Day 2 wants toasting.
 
 ## Serving
-A wedge on a plate with a mug of hot chocolate or champurrado. On the ofrenda, set on its own small plate beside a candle, alongside the favourite foods of the person being honoured.
+- A wedge on a plate with a mug of hot chocolate or champurrado. On the ofrenda, set on its own small plate beside a candle, alongside the favourite foods of the person being honoured.
 
 ## Storage
 In a paper bag at room temperature for 2 days; in a sealed bag, lightly toasted, for up to 4 days. Do not refrigerate.

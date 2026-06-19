@@ -86,7 +86,7 @@ Mufete is the great Sunday plate of Luanda, an open-air seafood spread served al
 - **Palm oil for the beans, olive oil for the fish:** The beans get the colour and savour from dendê. The fish gets the lift from lemon and olive oil. Don't swap them.
 
 ## Serving
-The traditional Luanda Sunday lunch, eaten outdoors. Cold Cuca beer alongside; lime wedges, jindungo chilli sauce and extra fried plantain on the table.
+- The traditional Luanda Sunday lunch, eaten outdoors. Cold Cuca beer alongside; lime wedges, jindungo chilli sauce and extra fried plantain on the table.
 
 ## Storage
 - Best fresh.

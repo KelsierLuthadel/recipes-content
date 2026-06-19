@@ -72,7 +72,7 @@ For the topping:
 - **Cuatro leches:** Add a fourth milk to the soak: 100 g dulce de leche stirred into the warm milk mixture until dissolved.
 
 ## Serving
-Serve cold from the fridge in 8 cm squares · with a glacé cherry on top for a birthday version · with a thimble of dark rum on the side · or sliced strawberries alongside
+- Serve cold from the fridge in 8 cm squares · with a glacé cherry on top for a birthday version · with a thimble of dark rum on the side · or sliced strawberries alongside
 
 ## Storage
 - Tres leches keeps 4 days refrigerated, covered

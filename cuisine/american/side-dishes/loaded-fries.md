@@ -96,13 +96,13 @@ Loaded fries are the iconic American sharing-plate / bar-food classic: hand-cut 
 - **Eat immediately:** the cheese cools and toppings warm the fries, both compromise within 5 minutes of serving.
 
 ## Variations
-**Buffalo loaded fries:** swap the ranch for buffalo sauce (Frank's RedHot + butter); top with blue cheese crumbles. Classic American bar variation.
-**Chili-cheese loaded fries:** add a generous spoonful of chili con carne over the top.
-**Pulled pork loaded fries:** pulled pork in BBQ sauce over the top; common BBQ-restaurant variation.
-**Vegetarian loaded fries:** skip the bacon; add caramelised onions, mushrooms and extra cheese.
+- **Buffalo loaded fries:** swap the ranch for buffalo sauce (Frank's RedHot + butter); top with blue cheese crumbles. Classic American bar variation.
+- **Chili-cheese loaded fries:** add a generous spoonful of chili con carne over the top.
+- **Pulled pork loaded fries:** pulled pork in BBQ sauce over the top; common BBQ-restaurant variation.
+- **Vegetarian loaded fries:** skip the bacon; add caramelised onions, mushrooms and extra cheese.
 
 ## Serving
-In a wide deep dish or on a baking sheet for sharing. As an appetizer at any American bar, sports bar, diner or grill. Drink: cold American beer (Coors, Bud, craft IPA), margarita, or large soda.
+- In a wide deep dish or on a baking sheet for sharing. As an appetizer at any American bar, sports bar, diner or grill. Drink: cold American beer (Coors, Bud, craft IPA), margarita, or large soda.
 
 ## Storage
 - Best eaten immediately.

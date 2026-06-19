@@ -60,13 +60,13 @@ Tomates aliñados (literally "dressed tomatoes") is Chile's simple summer tomato
 - **Don't refrigerate:** serve at room temperature.
 
 ## Variations
-**With avocado:** add 1 sliced ripe avocado; gives creaminess.
-**With cheese:** add 80 g crumbled queso fresco or feta.
-**With cucumber:** add 1 sliced cucumber.
-**Spicier:** double the merkén; or add 1 sliced fresh chilli.
+- **With avocado:** add 1 sliced ripe avocado; gives creaminess.
+- **With cheese:** add 80 g crumbled queso fresco or feta.
+- **With cucumber:** add 1 sliced cucumber.
+- **Spicier:** double the merkén; or add 1 sliced fresh chilli.
 
 ## Serving
-At room temperature alongside any Chilean main: asado, pollo asado, lomo a lo pobre, baked fish. Marraqueta bread for sopping the juices.
+- At room temperature alongside any Chilean main: asado, pollo asado, lomo a lo pobre, baked fish. Marraqueta bread for sopping the juices.
 
 ## Storage
 - Best eaten the day it's made.

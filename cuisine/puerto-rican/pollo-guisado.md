@@ -101,13 +101,13 @@ Pollo guisado is Puerto Rico's everyday stewed chicken and one of the absolute s
 - **Don't lift the lid much:** the slow simmer needs covered conditions for the first 30 minutes. Open only when adding the potatoes.
 
 ## Variations
-**With chickpeas (pollo guisado con garbanzos):** add 1 tin of drained chickpeas along with the potatoes; gives a more substantial one-pot meal.
-**Spicier:** add 1 finely chopped habanero pepper to the sofrito base; gives a properly Caribbean fierce version.
-**With pumpkin (calabaza):** swap half the potatoes for cubed calabaza pumpkin; common Puerto Rican autumn variation.
-**Without potatoes:** skip the potatoes; serve over rice with a side of mashed plantains (mofongo). More restaurant-style presentation.
+- **With chickpeas (pollo guisado con garbanzos):** add 1 tin of drained chickpeas along with the potatoes; gives a more substantial one-pot meal.
+- **Spicier:** add 1 finely chopped habanero pepper to the sofrito base; gives a properly Caribbean fierce version.
+- **With pumpkin (calabaza):** swap half the potatoes for cubed calabaza pumpkin; common Puerto Rican autumn variation.
+- **Without potatoes:** skip the potatoes; serve over rice with a side of mashed plantains (mofongo). More restaurant-style presentation.
 
 ## Serving
-Over hot white rice with habichuelas guisadas and tostones alongside. The full PR Sunday dinner. Drink: Medalla beer, agua de tamarindo, or a glass of cold mauby.
+- Over hot white rice with habichuelas guisadas and tostones alongside. The full PR Sunday dinner. Drink: Medalla beer, agua de tamarindo, or a glass of cold mauby.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight (many Boricuas insist it's better the next day).

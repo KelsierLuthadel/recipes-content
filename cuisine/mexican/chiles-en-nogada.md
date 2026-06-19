@@ -114,13 +114,13 @@ Chiles en nogada is Mexico's most iconic patriotic dish and the traditional Inde
 - **Make in advance:** the picadillo improves overnight; assemble the next day.
 
 ## Variations
-**Vegetarian chiles en nogada:** swap the meat for chopped mushrooms + walnuts + lentils; otherwise identical.
-**Without walnut sauce (just the chillies):** the picadillo-stuffed peppers alone are excellent.
-**Battered version (capeado):** dip the stuffed chillies in egg-white batter and fry briefly before saucing; richer; common Pueblan restaurant version.
-**Modern minimalist:** skip the pomegranate; serve with just the white sauce; less traditional but easier.
+- **Vegetarian chiles en nogada:** swap the meat for chopped mushrooms + walnuts + lentils; otherwise identical.
+- **Without walnut sauce (just the chillies):** the picadillo-stuffed peppers alone are excellent.
+- **Battered version (capeado):** dip the stuffed chillies in egg-white batter and fry briefly before saucing; richer; common Pueblan restaurant version.
+- **Modern minimalist:** skip the pomegranate; serve with just the white sauce; less traditional but easier.
 
 ## Serving
-At room temperature on individual plates with the patriotic colour presentation. Drink: fresh lime aguas frescas, white sangria, or a Mexican white wine. As Independence Day dinner (15-16 September), or a special-occasion meal.
+- At room temperature on individual plates with the patriotic colour presentation. Drink: fresh lime aguas frescas, white sangria, or a Mexican white wine. As Independence Day dinner (15-16 September), or a special-occasion meal.
 
 ## Storage
 - Best eaten the day they're made (after the components rest).

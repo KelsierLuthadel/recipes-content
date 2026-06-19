@@ -55,7 +55,7 @@ The technique is identical for any long-grain basmati; budget grades cook faster
 - **Lemon basmati:** stir in 1 tbsp lemon juice and a few curry leaves after fluffing for a faster lemon rice.
 
 ## Serving
-Plain basmati works with every curry on the menu. Spoon a generous mound onto each plate and pour the curry over half; or pile the rice in a small bowl on the side and let people serve themselves.
+- Plain basmati works with every curry on the menu. Spoon a generous mound onto each plate and pour the curry over half; or pile the rice in a small bowl on the side and let people serve themselves.
 
 ## Storage
 - Cooked basmati keeps 2 days in the fridge in a sealed container. Reheat with a tablespoon of water in the microwave or a covered pan.

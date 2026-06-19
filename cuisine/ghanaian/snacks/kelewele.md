@@ -61,7 +61,7 @@ Kelewele is the celebrated Accra night-market plantain, a spice-rubbed cousin of
 - **Hotter:** Add an extra scotch bonnet or 1/2 tsp dried chilli flakes.
 
 ## Serving
-Eat hot in a paper cone · with roasted peanuts shaken through · alongside cold sobolo · as a side to grilled tilapia or a beer.
+- Eat hot in a paper cone · with roasted peanuts shaken through · alongside cold sobolo · as a side to grilled tilapia or a beer.
 
 ## Storage
 - Best eaten fresh and hot

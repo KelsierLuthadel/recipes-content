@@ -69,7 +69,7 @@ Lyutenitsa is the Bulgarian winter pantry pillar, a thick crimson relish put dow
 - **Pindjur (smoother style):** blend half the relish for a hybrid texture.
 
 ## Serving
-On warm country bread with butter for breakfast · alongside grilled kebapcheta or kavarma · stirred through scrambled eggs (the Bulgarian breakfast trick) · as a sandwich spread with sirene · on toast with a slice of smoked ham · spooned over potatoes.
+- On warm country bread with butter for breakfast · alongside grilled kebapcheta or kavarma · stirred through scrambled eggs (the Bulgarian breakfast trick) · as a sandwich spread with sirene · on toast with a slice of smoked ham · spooned over potatoes.
 
 ## Storage
 - Sealed sterilised jars: 6 to 12 months in a cool dark cupboard.

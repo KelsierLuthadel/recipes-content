@@ -117,7 +117,7 @@ Svíčková (full name svíčková na smetaně - "sirloin in cream") is the dish
 - **Smooth sauce, not chunky:** Blend the sauce completely - chunky vegetable bits ruin the texture. A standard kitchen blender gives the silkiest result.
 
 ## Serving
-Sunday lunch with extended family. A bottle of Czech Pilsner or a glass of dry Moravian red wine. The plate composition is fixed by tradition - don't omit the lemon, cream swirl or cranberry, even if the combination seems unusual.
+- Sunday lunch with extended family. A bottle of Czech Pilsner or a glass of dry Moravian red wine. The plate composition is fixed by tradition - don't omit the lemon, cream swirl or cranberry, even if the combination seems unusual.
 
 ## Storage
 - Refrigerates 4 days; reheat the sliced meat in the sauce in a covered pan.

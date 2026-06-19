@@ -63,7 +63,7 @@ Bagels are the boiled-then-baked New York-Jewish rolls, the dense chewy ring wit
 - For the New York-style "everything" topping, mix equal parts white sesame, black sesame, poppy seeds, dried minced garlic and dried minced onion, with a tablespoon of flaky salt per 6 tablespoons of mix.
 
 ## Serving
-Split, toasted, spread with cream cheese. The full deli treatment: cream cheese, smoked salmon, capers, paper-thin red onion, a thin slice of tomato, freshly cracked pepper. On the Yom Kippur break-fast table, the bagel is the anchor that everyone else builds around.
+- Split, toasted, spread with cream cheese. The full deli treatment: cream cheese, smoked salmon, capers, paper-thin red onion, a thin slice of tomato, freshly cracked pepper. On the Yom Kippur break-fast table, the bagel is the anchor that everyone else builds around.
 
 ## Storage
 At room temperature in a paper bag for 24 hours; after that, halve them and freeze. Toast straight from frozen. Never refrigerate whole bagels; the crumb goes stale faster than at room temperature.

@@ -86,13 +86,13 @@ Melanzane alla Parmigiana is Italy's most iconic eggplant dish (and despite the 
 - **Better at room temperature next day:** flavours improve.
 
 ## Variations
-**Lighter (baked eggplant):** instead of frying, brush eggplant with oil and bake at 220°C for 15 minutes per side; less rich.
-**With meat (parmigiana di carne):** add a layer of ground beef cooked in the tomato sauce; gives a meat-and-vegetable version.
-**With anchovy in sauce:** add 4 anchovy fillets to the tomato sauce; gives umami.
-**Smaller individual portions:** make in individual ramekins; gives a fancier dinner-party presentation.
+- **Lighter (baked eggplant):** instead of frying, brush eggplant with oil and bake at 220°C for 15 minutes per side; less rich.
+- **With meat (parmigiana di carne):** add a layer of ground beef cooked in the tomato sauce; gives a meat-and-vegetable version.
+- **With anchovy in sauce:** add 4 anchovy fillets to the tomato sauce; gives umami.
+- **Smaller individual portions:** make in individual ramekins; gives a fancier dinner-party presentation.
 
 ## Serving
-In warm wedges with crusty Italian bread and a green salad. Italian red wine. As a vegetarian main or a side to grilled meats.
+- In warm wedges with crusty Italian bread and a green salad. Italian red wine. As a vegetarian main or a side to grilled meats.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens.

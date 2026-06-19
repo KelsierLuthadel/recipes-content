@@ -95,13 +95,13 @@ Crawfish étouffée is one of Louisiana's most iconic Cajun-Creole dishes: peele
 - **Finishing butter:** for silky texture.
 
 ## Variations
-**Shrimp étouffée:** swap crawfish for shrimp.
-**Crab étouffée:** swap crawfish for lump crab meat.
-**Spicier:** double cayenne + extra hot sauce.
-**Mixed seafood:** crawfish + shrimp + crab.
+- **Shrimp étouffée:** swap crawfish for shrimp.
+- **Crab étouffée:** swap crawfish for lump crab meat.
+- **Spicier:** double cayenne + extra hot sauce.
+- **Mixed seafood:** crawfish + shrimp + crab.
 
 ## Serving
-Over rice with French bread. Cold beer.
+- Over rice with French bread. Cold beer.
 
 ## Storage
 - Best fresh.

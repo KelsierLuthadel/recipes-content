@@ -76,7 +76,7 @@ Rösti is the Swiss-German answer to fried potato: coarsely grated waxy potatoes
 - **The plate flip:** A scary moment that becomes routine with practice. The pan should be just hot enough that the rösti releases cleanly; if it sticks, slide a spatula gently around and under first.
 
 ## Serving
-The Berner rösti with bacon and onion is breakfast or lunch with a fried egg on top, sometimes with a slice of cheese. The plain rösti is the Swiss-German "potato side" served alongside Zürcher Geschnetzeltes (Zurich-style veal in cream sauce), sausages with onion gravy, or roast pork. A small glass of dry white Swiss wine works for adults; apple juice (Apfelschorle) for everyone.
+- The Berner rösti with bacon and onion is breakfast or lunch with a fried egg on top, sometimes with a slice of cheese. The plain rösti is the Swiss-German "potato side" served alongside Zürcher Geschnetzeltes (Zurich-style veal in cream sauce), sausages with onion gravy, or roast pork. A small glass of dry white Swiss wine works for adults; apple juice (Apfelschorle) for everyone.
 
 ## Storage
 - Best fresh and crispy from the pan.

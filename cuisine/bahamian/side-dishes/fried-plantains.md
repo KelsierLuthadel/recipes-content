@@ -59,13 +59,13 @@ Fried plantains turn up on tables across the Bahamas and the wider Caribbean as 
 - **Cook in batches:** an overcrowded pan steams instead of frying. Better to do two batches with proper caramelisation than one batch with steam-soggy plantains.
 
 ## Variations
-**Plantanos maduros (caramelised dessert version):** sprinkle 1 tablespoon of brown sugar over the plantains in the pan halfway through cooking the second side; the sugar caramelises into a sticky glaze. Sweet enough to be dessert.
-**Tostones (green plantain version):** use green plantains; slice into 2 cm rounds; fry for 4 minutes per side, flatten each piece with the back of a flat-bottomed glass or a tostonera, and fry again for 2 minutes per side. Crisp savoury patties; common Bahamian appetiser.
-**Plantain-and-bacon:** wrap each plantain slice in half a strip of streaky bacon; secure with a toothpick and pan-fry till the bacon is crisp. A Caribbean dinner-party version.
-**Spiced fried plantains:** add a pinch of allspice and a small pinch of cayenne to the cooking butter; gives a Bahamian-style spiced sweet plantain.
+- **Plantanos maduros (caramelised dessert version):** sprinkle 1 tablespoon of brown sugar over the plantains in the pan halfway through cooking the second side; the sugar caramelises into a sticky glaze. Sweet enough to be dessert.
+- **Tostones (green plantain version):** use green plantains; slice into 2 cm rounds; fry for 4 minutes per side, flatten each piece with the back of a flat-bottomed glass or a tostonera, and fry again for 2 minutes per side. Crisp savoury patties; common Bahamian appetiser.
+- **Plantain-and-bacon:** wrap each plantain slice in half a strip of streaky bacon; secure with a toothpick and pan-fry till the bacon is crisp. A Caribbean dinner-party version.
+- **Spiced fried plantains:** add a pinch of allspice and a small pinch of cayenne to the cooking butter; gives a Bahamian-style spiced sweet plantain.
 
 ## Serving
-Alongside peas and rice and any savoury main: cracked conch, fried grouper, stewed chicken. The sweet caramelised plantain is the contrast to the savoury rice and protein. Also good at breakfast alongside scrambled eggs and bacon. Or as a dessert with vanilla ice cream and a drizzle of rum and cream.
+- Alongside peas and rice and any savoury main: cracked conch, fried grouper, stewed chicken. The sweet caramelised plantain is the contrast to the savoury rice and protein. Also good at breakfast alongside scrambled eggs and bacon. Or as a dessert with vanilla ice cream and a drizzle of rum and cream.
 
 ## Storage
 - Best eaten immediately while warm and the caramelisation is at its peak; they go off-texture once cooled.

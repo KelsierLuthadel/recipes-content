@@ -121,13 +121,13 @@ Bunny chow is Durban's most iconic street food and the proudest contribution of 
 - **Eat by hand:** bunny chow is street food. Cutlery is wrong; the experience is tearing crumb, scooping curry, eating the gravy-soaked bread. Embrace the mess.
 
 ## Variations
-**Bean bunny chow:** swap lamb for a curry of sugar beans (small white beans) cooked in the same masala; the vegetarian classic, common at Indian temples and as fasting-day food.
-**Chicken bunny chow:** swap lamb for bone-in chicken pieces; reduce simmer time to 35 minutes. Lighter version, popular for weeknight family meals.
-**Mince bunny chow:** swap lamb for 500 g of beef mince; quicker version, ready in 45 minutes. Common in Johannesburg cafés.
-**Vegetable bunny chow:** swap lamb for 600 g of mixed vegetables (potato, carrot, cauliflower, peas) cooked in the same masala for 25-30 minutes; vegetarian and quicker.
+- **Bean bunny chow:** swap lamb for a curry of sugar beans (small white beans) cooked in the same masala; the vegetarian classic, common at Indian temples and as fasting-day food.
+- **Chicken bunny chow:** swap lamb for bone-in chicken pieces; reduce simmer time to 35 minutes. Lighter version, popular for weeknight family meals.
+- **Mince bunny chow:** swap lamb for 500 g of beef mince; quicker version, ready in 45 minutes. Common in Johannesburg cafés.
+- **Vegetable bunny chow:** swap lamb for 600 g of mixed vegetables (potato, carrot, cauliflower, peas) cooked in the same masala for 25-30 minutes; vegetarian and quicker.
 
 ## Serving
-By hand, from the bread, with grated carrot salad and sliced onion on the side. Beer is the traditional accompaniment (a cold Castle or Black Label lager from South Africa); cold water with extra lemon if you don't drink. Plenty of napkins.
+- By hand, from the bread, with grated carrot salad and sliced onion on the side. Beer is the traditional accompaniment (a cold Castle or Black Label lager from South Africa); cold water with extra lemon if you don't drink. Plenty of napkins.
 
 ## Storage
 - The curry filling keeps refrigerated 4 days; the flavour deepens overnight. Reheat in a covered pan with a splash of water.

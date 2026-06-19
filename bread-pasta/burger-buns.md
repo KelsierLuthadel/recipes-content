@@ -82,16 +82,16 @@ Burger buns are the home-baker's building block for proper burgers, pulled-pork 
 - **Doubling Test:** The buns are ready for the oven when they've become noticeably puffy and feel light; don't over-proof or they'll deflate.
 
 ## Variations
-**Everything Bagel Topping:** Replace sesame seeds with a mix of poppy seeds, sesame seeds, and dried onion flakes.
-**Whole Wheat:** Replace 150g white flour with whole wheat flour for nuttier flavor and denser crumb.
-**Sugar-Topped:** Omit sesame seeds and brush the final egg wash, then sprinkle coarse sugar instead.
-**Herb Buns:** Add 1 tablespoon finely chopped fresh rosemary or thyme to the dough after mixing.
-**Smaller Dinnerrolls:** Divide dough into 15-16 pieces for smaller rolls; reduce baking time to 8-10 minutes.
+- **Everything Bagel Topping:** Replace sesame seeds with a mix of poppy seeds, sesame seeds, and dried onion flakes.
+- **Whole Wheat:** Replace 150g white flour with whole wheat flour for nuttier flavor and denser crumb.
+- **Sugar-Topped:** Omit sesame seeds and brush the final egg wash, then sprinkle coarse sugar instead.
+- **Herb Buns:** Add 1 tablespoon finely chopped fresh rosemary or thyme to the dough after mixing.
+- **Smaller Dinnerrolls:** Divide dough into 15-16 pieces for smaller rolls; reduce baking time to 8-10 minutes.
 
 ## Serving
-Serve: Warm from the oven, ideally, or toasted the next day
-Fill with: Burgers, pulled meats, grilled vegetables, sandwiches
-Best within: 24 hours of baking; excellent toasted on day 2
+- Serve: Warm from the oven, ideally, or toasted the next day
+- Fill with: Burgers, pulled meats, grilled vegetables, sandwiches
+- Best within: 24 hours of baking; excellent toasted on day 2
 
 ## Storage
 - Best served the day they're baked while soft

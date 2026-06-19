@@ -71,7 +71,7 @@ Salted caramel tiffin is the three-layer take on the Scottish no-bake tiffin, bo
 - **Tin size**: 20 cm square gives 16 thick squares. For thinner finger-sized pieces, use 20 x 30 cm and reduce chill times by 30 minutes.
 
 ## Serving
-A single square on a small plate. With strong black coffee or unsweetened tea, the caramel is already doing the heavy lifting. After dinner, with a small glass of port if you want to lean into the richness.
+- A single square on a small plate. With strong black coffee or unsweetened tea, the caramel is already doing the heavy lifting. After dinner, with a small glass of port if you want to lean into the richness.
 
 ## Storage
 - In an airtight tin at cool room temperature for up to 10 days. Refrigerate in warm kitchens.

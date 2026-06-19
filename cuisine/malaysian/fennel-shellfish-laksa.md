@@ -84,7 +84,7 @@ A coastal Malaysian one-pot: a fragrant coconut-curry broth with rice vermicelli
 - **Fresh herbs:** Add at end for brightness.
 
 ## Serving
-Serve hot in bowls with noodles. Adjust spice with extra chillies.
+- Serve hot in bowls with noodles. Adjust spice with extra chillies.
 
 ## Storage
 - Refrigerate up to 1 day; noodles absorb broth.

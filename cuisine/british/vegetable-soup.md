@@ -66,7 +66,7 @@ A nourishing chunky vegetable soup that gets cooked at the end of the week when 
 - **Parsley:** Add at end to preserve color.
 
 ## Serving
-Serve hot with crusty bread.
+- Serve hot with crusty bread.
 
 ## Storage
 - Refrigerate up to 3 days; flavors improve.

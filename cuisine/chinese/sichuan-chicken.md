@@ -56,7 +56,7 @@ This is the no-frills Sichuan stir-fry that home cooks across Chengdu rotate thr
 - **Dried chillies:** Add texture and flavour. Adjust quantity based on heat preference.
 
 ## Serving
-Serve with: Steamed or boiled white rice to balance the spices
+- Serve with: Steamed or boiled white rice to balance the spices
 
 ## Storage
 - Keeps 2-3 days refrigerated

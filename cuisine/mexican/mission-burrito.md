@@ -74,12 +74,12 @@ The Mission burrito was born in San Francisco's Mission District in the 1960s, w
 - **Wrap discipline:** A Mission burrito is heavy. Wrap tight, in foil if you're taking it to go.
 
 ## Variations
-**Super burrito:** Add extra sour cream, guacamole and an extra meat (Mission shorthand: "super" means more of everything).
-**Vegetarian:** Skip the meat, double the beans and add grilled vegetables.
-**Wet:** Smother with salsa roja or enchilada sauce and bake with cheese on top (crosses into Wet Burrito territory).
+- **Super burrito:** Add extra sour cream, guacamole and an extra meat (Mission shorthand: "super" means more of everything).
+- **Vegetarian:** Skip the meat, double the beans and add grilled vegetables.
+- **Wet:** Smother with salsa roja or enchilada sauce and bake with cheese on top (crosses into Wet Burrito territory).
 
 ## Serving
-Serve halved if eating at the table; wrap in foil and eat by the hand. Chips and salsa on the side.
+- Serve halved if eating at the table; wrap in foil and eat by the hand. Chips and salsa on the side.
 
 ## Storage
 - The components keep separately for 3-4 days refrigerated; reheat individually

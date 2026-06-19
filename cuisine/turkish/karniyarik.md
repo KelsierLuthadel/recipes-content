@@ -111,13 +111,13 @@ Karnıyarık (literally "split belly"; karın = belly, yarık = split) is one of
 - **Foil for the first 30 minutes:** the steam helps the eggplants finish cooking; the uncovered finish lets the sauce reduce and the topping vegetables caramelise.
 
 ## Variations
-**Vegetarian karnıyarık:** swap the meat for 300 g of cooked chopped mushrooms + 200 g of cooked drained chickpeas; same seasoning. Common modern vegetarian variation.
-**With pine nuts and currants (saray-style):** add 50 g of toasted pine nuts and 50 g of currants to the meat filling; gives a sweeter Ottoman-palace-style variation.
-**Spicier:** double the Aleppo pepper and add a generous spoonful of harissa to the filling; gives a fierce southeastern-Turkish version.
-**With kashar cheese topping:** add 100 g of grated kashar cheese on top in the last 10 minutes of baking; gives a cheese-crusted variation popular in modern Turkish restaurants.
+- **Vegetarian karnıyarık:** swap the meat for 300 g of cooked chopped mushrooms + 200 g of cooked drained chickpeas; same seasoning. Common modern vegetarian variation.
+- **With pine nuts and currants (saray-style):** add 50 g of toasted pine nuts and 50 g of currants to the meat filling; gives a sweeter Ottoman-palace-style variation.
+- **Spicier:** double the Aleppo pepper and add a generous spoonful of harissa to the filling; gives a fierce southeastern-Turkish version.
+- **With kashar cheese topping:** add 100 g of grated kashar cheese on top in the last 10 minutes of baking; gives a cheese-crusted variation popular in modern Turkish restaurants.
 
 ## Serving
-On a warm platter with pilav alongside. A bowl of plain yogurt (or cacık) for each diner to spoon onto their plate. Warm Turkish flatbread for mopping up the sauce. Drink: ayran (traditional), rakı, or a glass of cold beer. As a family Sunday meal or a weeknight dinner.
+- On a warm platter with pilav alongside. A bowl of plain yogurt (or cacık) for each diner to spoon onto their plate. Warm Turkish flatbread for mopping up the sauce. Drink: ayran (traditional), rakı, or a glass of cold beer. As a family Sunday meal or a weeknight dinner.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

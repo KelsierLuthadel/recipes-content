@@ -90,11 +90,11 @@ Thukpa is Tibet's restorative winter noodle soup: a clean ginger-and-garlic-forw
 - **Sepen on the side:** If you can source or make Tibetan chilli sauce (sepen), serve it on the side rather than adding to the pot, everyone seasons their own bowl.
 
 ## Variations
-**Vegetarian thukpa:** Skip the meat; use vegetable stock, add 150 g cubed tofu or 200 g mushrooms with the onion, and a teaspoon of butter at the end for body.
-**Chicken thukpa:** Replace beef with sliced chicken thigh; reduce simmer time to 20 minutes.
+- **Vegetarian thukpa:** Skip the meat; use vegetable stock, add 150 g cubed tofu or 200 g mushrooms with the onion, and a teaspoon of butter at the end for body.
+- **Chicken thukpa:** Replace beef with sliced chicken thigh; reduce simmer time to 20 minutes.
 
 ## Serving
-Serve with: a small dish of fresh chilli or sepen, and lemon wedges. Tibetan butter tea on the side is traditional.
+- Serve with: a small dish of fresh chilli or sepen, and lemon wedges. Tibetan butter tea on the side is traditional.
 
 ## Storage
 - Broth and meat keep 3 days refrigerated; freeze 2 months without the noodles.

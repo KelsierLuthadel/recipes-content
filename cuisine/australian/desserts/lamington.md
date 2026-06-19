@@ -100,13 +100,13 @@ Lamingtons are Australia's most iconic cake and a national institution: cubes of
 - **Filled vs plain:** both are properly Australian. Plain lamingtons (just chocolate-and-coconut, no filling) keep better and are more common at cake stalls. Filled lamingtons (with cream and jam) are the fancy version for afternoon tea.
 
 ## Variations
-**Raspberry lamingtons:** dip in pink raspberry icing instead of chocolate (use raspberry coulis or raspberry essence with pink colouring); coat in coconut. Common variation.
-**Strawberry lamingtons:** same as raspberry but with strawberry. Less traditional.
-**Mini lamingtons:** cut the cake into smaller cubes (3 cm); makes 36 mini lamingtons. Great for parties.
-**Lamington fingers:** cut the cake into rectangles instead of cubes; same dipping process. Common at CWA stalls.
+- **Raspberry lamingtons:** dip in pink raspberry icing instead of chocolate (use raspberry coulis or raspberry essence with pink colouring); coat in coconut. Common variation.
+- **Strawberry lamingtons:** same as raspberry but with strawberry. Less traditional.
+- **Mini lamingtons:** cut the cake into smaller cubes (3 cm); makes 36 mini lamingtons. Great for parties.
+- **Lamington fingers:** cut the cake into rectangles instead of cubes; same dipping process. Common at CWA stalls.
 
 ## Serving
-On a plate or tiered cake stand at afternoon tea; with strong tea, milky coffee, or hot chocolate. Often part of a Sunday afternoon family spread alongside ANZAC biscuits, scones with jam-and-cream, and other Aussie-Kiwi sweets.
+- On a plate or tiered cake stand at afternoon tea; with strong tea, milky coffee, or hot chocolate. Often part of a Sunday afternoon family spread alongside ANZAC biscuits, scones with jam-and-cream, and other Aussie-Kiwi sweets.
 
 ## Storage
 - Plain lamingtons (no cream filling) keep in a sealed container at room temperature 3 days; refrigerated 1 week.

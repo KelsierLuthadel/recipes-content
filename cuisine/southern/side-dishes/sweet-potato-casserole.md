@@ -71,13 +71,13 @@ Sweet potato casserole is one of the South's most iconic Thanksgiving sides and 
 - **Don't burn marshmallows:** finish briefly under grill.
 
 ## Variations
-**Both toppings:** scatter pecans first, then marshmallows; the maximalist Southern Thanksgiving.
-**Bourbon version:** add 2 tablespoons bourbon to the filling.
-**Pumpkin pie spice:** swap cinnamon-nutmeg for 2 teaspoons pumpkin pie spice.
-**Less sweet:** halve the brown sugar.
+- **Both toppings:** scatter pecans first, then marshmallows; the maximalist Southern Thanksgiving.
+- **Bourbon version:** add 2 tablespoons bourbon to the filling.
+- **Pumpkin pie spice:** swap cinnamon-nutmeg for 2 teaspoons pumpkin pie spice.
+- **Less sweet:** halve the brown sugar.
 
 ## Serving
-At Thanksgiving alongside turkey, gravy, mashed potatoes, green bean casserole. Year-round with ham.
+- At Thanksgiving alongside turkey, gravy, mashed potatoes, green bean casserole. Year-round with ham.
 
 ## Storage
 - Keeps refrigerated 4 days; reheat in oven.

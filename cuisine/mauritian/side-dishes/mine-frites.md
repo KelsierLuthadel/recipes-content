@@ -108,13 +108,13 @@ Mine frites is the Mauritian Chinese-style fried noodles, brought to the island 
 - **Add bean sprouts last:** bean sprouts go from crisp to soggy in 30 seconds. Add them at the very end and toss briefly; the residual heat is enough to take the raw edge off without ruining the crunch.
 
 ## Variations
-**Vegetable mine frites (vegetarian):** skip the chicken and prawns; add 200 g of cubed firm tofu (pre-fried) and 200 g of mushrooms instead. Add 2 tablespoons of vegetarian "mushroom oyster sauce" in place of regular oyster sauce.
-**Mine frites special:** add 2 fried eggs over the top of the noodles just before serving; the runny yolks mix through. Common Port Louis street-stall option.
-**Crab mine frites:** swap the prawns for 200 g of fresh crab meat (picked); add 1 extra tablespoon of soy. A more luxurious version sold at Mahébourg waterfront restaurants.
-**Spicy mine frites:** double the fresh chillies and add 1 tablespoon of chilli oil to the finished noodles; gives the properly fierce variation that some Mauritian-Chinese restaurants make.
+- **Vegetable mine frites (vegetarian):** skip the chicken and prawns; add 200 g of cubed firm tofu (pre-fried) and 200 g of mushrooms instead. Add 2 tablespoons of vegetarian "mushroom oyster sauce" in place of regular oyster sauce.
+- **Mine frites special:** add 2 fried eggs over the top of the noodles just before serving; the runny yolks mix through. Common Port Louis street-stall option.
+- **Crab mine frites:** swap the prawns for 200 g of fresh crab meat (picked); add 1 extra tablespoon of soy. A more luxurious version sold at Mahébourg waterfront restaurants.
+- **Spicy mine frites:** double the fresh chillies and add 1 tablespoon of chilli oil to the finished noodles; gives the properly fierce variation that some Mauritian-Chinese restaurants make.
 
 ## Serving
-On a large platter or in individual cardboard street-food boxes (for the proper Mauritian experience). Lime wedges on the side, chilli sauce in a small bowl. Eat with chopsticks; or a fork. Drink: Phoenix beer (the Mauritian lager), or a chilled glass of vanilla tea.
+- On a large platter or in individual cardboard street-food boxes (for the proper Mauritian experience). Lime wedges on the side, chilli sauce in a small bowl. Eat with chopsticks; or a fork. Drink: Phoenix beer (the Mauritian lager), or a chilled glass of vanilla tea.
 
 ## Storage
 - Best eaten immediately while hot; the noodles go off-texture as they cool.

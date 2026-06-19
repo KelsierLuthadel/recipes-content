@@ -85,15 +85,15 @@
 - **Warm on rye with mustard:** the traditional Danish presentation.
 
 ## Variations
-**With pork belly instead of bacon:** thick slices of salted Danish flæsk, more substantial.
-**With prunes:** add 100g chopped pitted prunes to the apple mix for the Christmas-feast version.
-**With caraway seeds:** add 1 teaspoon caraway to the apples, the Bavarian-influenced variant.
-**With cider reduction:** replace the vinegar with 100ml dry cider reduced in the pan to a syrup; deeper apple flavour.
-**Vegetarian:** swap the bacon for smoked tofu strips fried crispy; the apple-and-onion mixture stays the same.
-**On a plate (not as open sandwich):** serve the apple-bacon mixture as a side alongside roast pork or a Danish dinner main.
+- **With pork belly instead of bacon:** thick slices of salted Danish flæsk, more substantial.
+- **With prunes:** add 100g chopped pitted prunes to the apple mix for the Christmas-feast version.
+- **With caraway seeds:** add 1 teaspoon caraway to the apples, the Bavarian-influenced variant.
+- **With cider reduction:** replace the vinegar with 100ml dry cider reduced in the pan to a syrup; deeper apple flavour.
+- **Vegetarian:** swap the bacon for smoked tofu strips fried crispy; the apple-and-onion mixture stays the same.
+- **On a plate (not as open sandwich):** serve the apple-bacon mixture as a side alongside roast pork or a Danish dinner main.
 
 ## Serving
-At a Danish country kro (inn) in autumn · at a Copenhagen restaurant's seasonal autumn menu · at a Danish family Sunday lunch in October · at home with the first windfall apples · as part of a julefrokost (Christmas lunch) cold-buffet.
+- At a Danish country kro (inn) in autumn · at a Copenhagen restaurant's seasonal autumn menu · at a Danish family Sunday lunch in October · at home with the first windfall apples · as part of a julefrokost (Christmas lunch) cold-buffet.
 
 ## Storage
 - Best fresh and warm.

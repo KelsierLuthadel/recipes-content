@@ -62,7 +62,7 @@ Indian lime pickle (nimbu ka achaar) is one of the loudest things on a curry-hou
 - **Always use a clean dry spoon.** A wet or oily spoon introduces bacteria and shortens the pickle's life.
 
 ## Serving
-A tablespoon goes a long way. Serve with papadums (the classic trio bowl), alongside any rich curry as a sharpening relish, or on a cheese sandwich. A spoon on the side of a plate of dal and rice is enough to make a plain meal taste seasoned.
+- A tablespoon goes a long way. Serve with papadums (the classic trio bowl), alongside any rich curry as a sharpening relish, or on a cheese sandwich. A spoon on the side of a plate of dal and rice is enough to make a plain meal taste seasoned.
 
 ## Storage
 - Sealed in its oil layer, in a clean dry cupboard: keeps a full year.

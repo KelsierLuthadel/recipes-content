@@ -72,13 +72,13 @@ The Michoacán-style slow-cooked pork that turns up at every Mexican taquería a
 - **Make-ahead:** Carnitas can be cooked fully (but not broiled) up to 2 days ahead; refrigerate in the cooking liquid. Broil just before serving for best crispiness.
 
 ## Variations
-**Extra spicy:** Add 1-2 jalapeños or 1 tsp chipotle powder to the slow cooker
-**With pineapple:** Add ½ cup pineapple juice alongside the orange juice for tropical notes
-**Milder version:** Reduce citrus juice by half if you prefer less tang
-**Braised instead of broiled:** Skip broiling and serve the shredded pork in its cooking liquid as a braise-style dish
+- **Extra spicy:** Add 1-2 jalapeños or 1 tsp chipotle powder to the slow cooker
+- **With pineapple:** Add ½ cup pineapple juice alongside the orange juice for tropical notes
+- **Milder version:** Reduce citrus juice by half if you prefer less tang
+- **Braised instead of broiled:** Skip broiling and serve the shredded pork in its cooking liquid as a braise-style dish
 
 ## Serving
-Serve in: Tacos, burritos, quesadillas, or over salads. Garnish with fresh coriander, diced onion, lime wedges, and salsa. Crispy carnitas are also excellent on nachos or in rice bowls.
+- Serve in: Tacos, burritos, quesadillas, or over salads. Garnish with fresh coriander, diced onion, lime wedges, and salsa. Crispy carnitas are also excellent on nachos or in rice bowls.
 
 ## Storage
 - Keeps 4 days refrigerated in an airtight container (store pork and liquid separately or together)

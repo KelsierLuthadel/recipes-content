@@ -35,7 +35,7 @@ Crème au beurre is the building block for French buttercream fillings and frost
 - If the mixture appears separated or grainy, gently warm it (not above 35°C) and re-beat until smooth
 
 ## Serving
-Use crème au beurre as a filling between cake layers, as a frosting for desserts, or piped into decorative borders and rosettes. Flavor variations can be created by adding vanilla, chocolate, coffee, praline, or liqueurs to the finished cream. The cream's smooth texture makes it ideal for creating elegant, professionally-finished desserts.
+- Use crème au beurre as a filling between cake layers, as a frosting for desserts, or piped into decorative borders and rosettes. Flavor variations can be created by adding vanilla, chocolate, coffee, praline, or liqueurs to the finished cream. The cream's smooth texture makes it ideal for creating elegant, professionally-finished desserts.
 
 ## Storage
 Refrigerate in an airtight container for up to 5 days, or freeze for up to 1 month. Before using refrigerated cream, bring it to room temperature and gently re-beat for 1-2 minutes to restore the light, fluffy texture. The cream may be softer than desired at room temperature; chill briefly if needed before piping.

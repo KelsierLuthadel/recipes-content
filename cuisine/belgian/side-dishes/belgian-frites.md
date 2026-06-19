@@ -86,17 +86,17 @@ The Belgian frite is the country's most famous food contribution after chocolate
 - **Never share a frituur:** Belgian frites must be eaten by one person from one cone. A shared frite gets cold and limp; a personal cone stays hot to the bottom.
 
 ## Variations
-**Andalouse sauce:** mayo + tomato paste + paprika + diced bell pepper + a dash of vinegar, the most popular Belgian dipping sauce after plain mayo.
-**Sauce samouraï:** mayo + harissa + a touch of tomato paste, spicy variant.
-**Sauce brasil:** mayo + ketchup + a touch of sambal + pineapple chunks, the wildly popular Belgian "tropical" sauce.
-**Sauce tartare:** mayo + capers + cornichons + chopped parsley + chopped onion + lemon, classic.
-**Sauce pickles:** mayo + chopped pickles + mustard, simpler than tartare.
-**Vegetarian Belgian frites:** swap the tallow for refined sunflower oil, the texture is excellent though the flavour is one note less interesting.
-**Air-fryer frites:** not Belgian, but for the no-deep-fryer household, blanch the potatoes in boiling water 4 minutes, dry thoroughly, toss with 2 tablespoons oil, air-fry at 200°C for 18 minutes shaking halfway.
-**Crisper frites with a starch coating:** before the second fry, dust the rested frites lightly with rice flour, extra crisp.
+- **Andalouse sauce:** mayo + tomato paste + paprika + diced bell pepper + a dash of vinegar, the most popular Belgian dipping sauce after plain mayo.
+- **Sauce samouraï:** mayo + harissa + a touch of tomato paste, spicy variant.
+- **Sauce brasil:** mayo + ketchup + a touch of sambal + pineapple chunks, the wildly popular Belgian "tropical" sauce.
+- **Sauce tartare:** mayo + capers + cornichons + chopped parsley + chopped onion + lemon, classic.
+- **Sauce pickles:** mayo + chopped pickles + mustard, simpler than tartare.
+- **Vegetarian Belgian frites:** swap the tallow for refined sunflower oil, the texture is excellent though the flavour is one note less interesting.
+- **Air-fryer frites:** not Belgian, but for the no-deep-fryer household, blanch the potatoes in boiling water 4 minutes, dry thoroughly, toss with 2 tablespoons oil, air-fry at 200°C for 18 minutes shaking halfway.
+- **Crisper frites with a starch coating:** before the second fry, dust the rested frites lightly with rice flour, extra crisp.
 
 ## Serving
-At a Belgian frituur (the traditional setting; every Belgian town has at least one) · at a Brussels café alongside moules-frites · at a Belgian football match · at a Bruges-canal frituur on a cold evening · at home as the Friday-night snack with a Trappist beer · at a Belgian Sunday brunch alongside steak-frites · paired with sausages, mussels, vol-au-vent or carbonnade flamande.
+- At a Belgian frituur (the traditional setting; every Belgian town has at least one) · at a Brussels café alongside moules-frites · at a Belgian football match · at a Bruges-canal frituur on a cold evening · at home as the Friday-night snack with a Trappist beer · at a Belgian Sunday brunch alongside steak-frites · paired with sausages, mussels, vol-au-vent or carbonnade flamande.
 
 ## Storage
 - Frites do not store well. They lose their crisp within 30 minutes.

@@ -91,14 +91,14 @@ Mountain chicken is the historical national dish of Dominica, the name given to 
 - **The crapaud connection:** the dish is a tribute. The crapaud is protected. Never substitute the real thing, the species cannot afford it.
 
 ## Variations
-**With red wine:** add 100 ml of red wine to the sauce base, the festive version.
-**With curry:** add 1 tbsp of Caribbean curry powder to the creole base for the curried-mountain-chicken cross-over.
-**With coconut milk:** stir 150 ml of coconut milk into the sauce in the last 10 minutes, the richer plate.
-**Drier braise (less sauce):** reduce the stock to 300 ml for a thicker gravy.
-**With dumplings:** drop small flour dumplings into the simmering sauce in the last 15 minutes for a one-pot family meal.
+- **With red wine:** add 100 ml of red wine to the sauce base, the festive version.
+- **With curry:** add 1 tbsp of Caribbean curry powder to the creole base for the curried-mountain-chicken cross-over.
+- **With coconut milk:** stir 150 ml of coconut milk into the sauce in the last 10 minutes, the richer plate.
+- **Drier braise (less sauce):** reduce the stock to 300 ml for a thicker gravy.
+- **With dumplings:** drop small flour dumplings into the simmering sauce in the last 15 minutes for a one-pot family meal.
 
 ## Serving
-Serve with a chunk of boiled breadfruit or yam or green fig on the side · with rice and peas · with provision boil-up · with crapaud-style dumplings simmered in the sauce · with hot sauce on the table · as the Dominican Sunday lunch · with a glass of cold sorrel or mauby.
+- Serve with a chunk of boiled breadfruit or yam or green fig on the side · with rice and peas · with provision boil-up · with crapaud-style dumplings simmered in the sauce · with hot sauce on the table · as the Dominican Sunday lunch · with a glass of cold sorrel or mauby.
 
 ## Storage
 - The stew keeps 3 days refrigerated; the gravy improves overnight as the spices settle.

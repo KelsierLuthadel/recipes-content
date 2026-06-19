@@ -104,13 +104,13 @@ Carne asada hondureña is Honduras's beloved grilled beef and a Sunday-asado sta
 - **Charcoal gives the proper flavour:** charcoal grilling gives a smoky depth that's hard to replicate on a grill pan. If using a pan, get it as hot as possible and don't move the beef during the first 90 seconds.
 
 ## Variations
-**Chicken asada hondureña:** swap the beef for boneless skinless chicken thighs; reduce marinating time to 2 hours; cook 4-5 minutes per side. Common variation.
-**Pork chops asada:** swap the beef for pork chops (loin or shoulder); marinate the same way; grill 4-5 minutes per side. Excellent.
-**Spicier version:** add 2-3 chopped chillies to the marinade; add hot pepper sauce on the side. Common variation in coastal Honduras.
-**Beer marinade:** add 100 ml of light beer (Salva Vida or Imperial; Honduras's local beers) to the marinade; gives a slightly malty depth common in modern Honduran cooking.
+- **Chicken asada hondureña:** swap the beef for boneless skinless chicken thighs; reduce marinating time to 2 hours; cook 4-5 minutes per side. Common variation.
+- **Pork chops asada:** swap the beef for pork chops (loin or shoulder); marinate the same way; grill 4-5 minutes per side. Excellent.
+- **Spicier version:** add 2-3 chopped chillies to the marinade; add hot pepper sauce on the side. Common variation in coastal Honduras.
+- **Beer marinade:** add 100 ml of light beer (Salva Vida or Imperial; Honduras's local beers) to the marinade; gives a slightly malty depth common in modern Honduran cooking.
 
 ## Serving
-On a wooden platter at the centre of the table for family-style assembly: tortilla in hand, layer beef, chimol, beans and a slice of avocado. With a cold Salva Vida or Imperial beer (Honduras's local beers), or a horchata, or fresh lemonade. As Sunday lunch, weekend cookout, or special-occasion family dinner.
+- On a wooden platter at the centre of the table for family-style assembly: tortilla in hand, layer beef, chimol, beans and a slice of avocado. With a cold Salva Vida or Imperial beer (Honduras's local beers), or a horchata, or fresh lemonade. As Sunday lunch, weekend cookout, or special-occasion family dinner.
 
 ## Storage
 - The cooked beef keeps refrigerated 3 days; reheat gently in a hot pan with a splash of stock; or use cold in salads.

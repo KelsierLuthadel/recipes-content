@@ -102,13 +102,13 @@ Bacalaítos (literally "little salt-cods") is one of Puerto Rico's most beloved 
 - **Spread thin in the pan:** use the ladle to spread the batter into a 12 cm round before it sets. Aim for thin and lacy.
 
 ## Variations
-**Spicier bacalaítos:** add 1 chopped habanero pepper to the batter; properly Caribbean fierce version.
-**With crab instead of cod:** swap the salt cod for 200 g of cooked crab meat (no desalting needed); gives a more luxurious variation.
-**Vegetarian fritters (bacalaítos sin bacalao):** skip the cod; double the herbs; add 100 g of grated cheese (queso fresco or feta) for protein/flavour; less traditional but works.
-**Mini bacalaítos:** use teaspoons of batter instead of ladles; makes 30+ tiny fritters perfect for party canapés.
+- **Spicier bacalaítos:** add 1 chopped habanero pepper to the batter; properly Caribbean fierce version.
+- **With crab instead of cod:** swap the salt cod for 200 g of cooked crab meat (no desalting needed); gives a more luxurious variation.
+- **Vegetarian fritters (bacalaítos sin bacalao):** skip the cod; double the herbs; add 100 g of grated cheese (queso fresco or feta) for protein/flavour; less traditional but works.
+- **Mini bacalaítos:** use teaspoons of batter instead of ladles; makes 30+ tiny fritters perfect for party canapés.
 
 ## Serving
-On a serving plate, hot from the pan. Lime wedges and pique for dipping. Mayo-ketchup sauce for a more substantial dip. Cold Medalla beer or fresh limeade. At beach stands, fondas, or Boricua family parties.
+- On a serving plate, hot from the pan. Lime wedges and pique for dipping. Mayo-ketchup sauce for a more substantial dip. Cold Medalla beer or fresh limeade. At beach stands, fondas, or Boricua family parties.
 
 ## Storage
 - Best eaten immediately; they go off-texture as they cool.

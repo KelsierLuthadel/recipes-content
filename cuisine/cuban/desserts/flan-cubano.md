@@ -67,12 +67,12 @@ Flan cubano is the dessert every Cuban grandmother makes for Sunday lunch, an in
 - **Overnight rest:** The caramel needs time to liquefy into sauce. Don't try to unmould before 6 hours; it'll come out dry.
 
 ## Variations
-**Coconut (flan de coco):** Replace half the evaporated milk with coconut milk; reduce vanilla to 1 teaspoon.
-**Coffee (flan de café):** Dissolve 1 tablespoon instant espresso powder in the warm milks.
-**Cheese (flan de queso):** Whisk 200 g cream cheese (room temperature) into the milks for a denser, almost cheesecake-like flan.
+- **Coconut (flan de coco):** Replace half the evaporated milk with coconut milk; reduce vanilla to 1 teaspoon.
+- **Coffee (flan de café):** Dissolve 1 tablespoon instant espresso powder in the warm milks.
+- **Cheese (flan de queso):** Whisk 200 g cream cheese (room temperature) into the milks for a denser, almost cheesecake-like flan.
 
 ## Serving
-Serve cold from the fridge in wedges, with the caramel sauce spooned over. A few segments of orange or strawberries on the side cut the sweetness.
+- Serve cold from the fridge in wedges, with the caramel sauce spooned over. A few segments of orange or strawberries on the side cut the sweetness.
 
 ## Storage
 - Keeps 4 days refrigerated, covered, in or out of the tin.

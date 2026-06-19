@@ -102,13 +102,13 @@ Mofongo is Puerto Rico's signature dish, the absolute heart of Boricua cooking a
 - **Eat warm:** mofongo cools quickly and the texture firms up. Eat immediately.
 
 ## Variations
-**Mofongo relleno (stuffed mofongo):** form the mash into a bowl shape (hollow centre); fill with stewed shrimp, chicken or beef in a tomato-based sauce. The traditional restaurant serving.
-**Trifongo:** make with 1 green plantain + 1 ripe plantain + 1 yuca (cooked); gives a sweeter more complex mash. Variation common in eastern Puerto Rico.
-**Mofongo de yuca:** swap the plantains for boiled yuca (cassava); same technique. Less traditional but a related staple.
-**Vegetarian mofongo:** skip the chicharrón; use 4 tablespoons of olive oil for richness; serve with sautéed garlic-mushrooms or stewed beans instead of meat topping.
+- **Mofongo relleno (stuffed mofongo):** form the mash into a bowl shape (hollow centre); fill with stewed shrimp, chicken or beef in a tomato-based sauce. The traditional restaurant serving.
+- **Trifongo:** make with 1 green plantain + 1 ripe plantain + 1 yuca (cooked); gives a sweeter more complex mash. Variation common in eastern Puerto Rico.
+- **Mofongo de yuca:** swap the plantains for boiled yuca (cassava); same technique. Less traditional but a related staple.
+- **Vegetarian mofongo:** skip the chicharrón; use 4 tablespoons of olive oil for richness; serve with sautéed garlic-mushrooms or stewed beans instead of meat topping.
 
 ## Serving
-On wide plates with the dome at the centre, the broth pooled around. Topped with shrimp, chicken or pernil. With pique on the side. Drink: cold Medalla beer, a rum cocktail (Puerto Rican daiquiri), or fresh agua de coco (coconut water). As a main course; serves 4 generously.
+- On wide plates with the dome at the centre, the broth pooled around. Topped with shrimp, chicken or pernil. With pique on the side. Drink: cold Medalla beer, a rum cocktail (Puerto Rican daiquiri), or fresh agua de coco (coconut water). As a main course; serves 4 generously.
 
 ## Storage
 - Best eaten immediately while warm; mofongo firms up significantly as it cools.

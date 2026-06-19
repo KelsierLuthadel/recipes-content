@@ -69,13 +69,13 @@ Spain's most-ordered tapa and the dish that crossed over into Latin American kit
 - **Texture contrast:** The appeal of patatas bravas is the contrast between crispy potatoes and creamy tomato sauce.
 
 ## Variations
-**With mayo:** Drizzle with a light garlic or saffron aioli for extra richness
-**Spicier version:** Increase chilli powder to 1 tsp and add a pinch of cayenne pepper
-**With alioli sauce:** Serve potatoes with traditional Spanish alioli (garlic mayo) instead of or alongside the tomato sauce
-**Loaded version:** Top with crumbled chorizo, crispy bacon, or fried onions for extra flavour
+- **With mayo:** Drizzle with a light garlic or saffron aioli for extra richness
+- **Spicier version:** Increase chilli powder to 1 tsp and add a pinch of cayenne pepper
+- **With alioli sauce:** Serve potatoes with traditional Spanish alioli (garlic mayo) instead of or alongside the tomato sauce
+- **Loaded version:** Top with crumbled chorizo, crispy bacon, or fried onions for extra flavour
 
 ## Serving
-Serve warm or at room temperature as a tapas, appetizer, or side dish. Pairs well with crusty bread, Spanish cured meats, and cold beverages.
+- Serve warm or at room temperature as a tapas, appetizer, or side dish. Pairs well with crusty bread, Spanish cured meats, and cold beverages.
 
 ## Storage
 - Keeps 3 days refrigerated (store sauce and potatoes separately)

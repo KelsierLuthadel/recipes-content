@@ -80,7 +80,7 @@ Kuwait sits on the northern tip of the Gulf and its waters give big sweet prawns
 - **Loomi pierced, not crushed.** Crush and they go bitter.
 
 ## Serving
-Hot, on a wide platter, with daqoos sauce, salata arabia and wedges of lime.
+- Hot, on a wide platter, with daqoos sauce, salata arabia and wedges of lime.
 
 ## Storage
 - Best fresh; the prawns toughen when reheated

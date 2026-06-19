@@ -66,7 +66,7 @@ Cheesecake brownies are the American bake-sale and dinner-party crowd-pleaser, a
 - **Variation: raspberry**: scatter a small handful of fresh raspberries over the brownie batter before adding the cheesecake. The raspberries break down in the bake and give bright red pockets through the slab.
 
 ## Serving
-A square cold from the fridge, with a single fresh raspberry on top if you have one. Strong coffee. The slab is rich; one square is plenty.
+- A square cold from the fridge, with a single fresh raspberry on top if you have one. Strong coffee. The slab is rich; one square is plenty.
 
 ## Storage
 - In an airtight container in the fridge for up to 5 days. The cheesecake layer needs the cold to stay set.

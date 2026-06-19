@@ -101,13 +101,13 @@ Chicken-fried steak (CFS, or country-fried steak in some Southern states) is Tex
 - **Wire rack for draining:** not paper.
 
 ## Variations
-**With sausage gravy:** swap pan drippings for crumbled cooked breakfast sausage; gives sausage gravy. Common variation.
-**Buttermilk version:** use buttermilk instead of milk for the gravy; gives slight tang.
-**Sweet tea variation (less traditional):** brush the cooked steak with sweet tea reduction; modern Texas variation.
-**Pork tenderloin chicken-fried (German-Texas):** swap beef for pork tenderloin pounded thin; closer to Wiener schnitzel.
+- **With sausage gravy:** swap pan drippings for crumbled cooked breakfast sausage; gives sausage gravy. Common variation.
+- **Buttermilk version:** use buttermilk instead of milk for the gravy; gives slight tang.
+- **Sweet tea variation (less traditional):** brush the cooked steak with sweet tea reduction; modern Texas variation.
+- **Pork tenderloin chicken-fried (German-Texas):** swap beef for pork tenderloin pounded thin; closer to Wiener schnitzel.
 
 ## Serving
-On a wide plate with mashed potatoes, green beans, biscuit. Smothered in gravy. Drink: sweet iced tea, cold beer (Shiner Bock, Lone Star), or buttermilk.
+- On a wide plate with mashed potatoes, green beans, biscuit. Smothered in gravy. Drink: sweet iced tea, cold beer (Shiner Bock, Lone Star), or buttermilk.
 
 ## Storage
 - Best eaten immediately.

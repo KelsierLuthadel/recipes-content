@@ -61,7 +61,7 @@ The apricot tart is the early-summer French pâtisserie staple, a sweet shortcru
 - Glaze the tart while still warm for a glossy, fruit-forward finish.
 
 ## Serving
-Serve the tart warm or at room temperature, either on its own or with a dollop of crème fraîche or vanilla ice cream. It is also excellent for afternoon tea.
+- Serve the tart warm or at room temperature, either on its own or with a dollop of crème fraîche or vanilla ice cream. It is also excellent for afternoon tea.
 
 ## Storage
 Store cooled tart in the refrigerator for up to 2 days, covered to protect the glaze. Avoid freezing, as the custard and pastry texture do not freeze well.

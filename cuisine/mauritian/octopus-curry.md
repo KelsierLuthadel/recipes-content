@@ -79,11 +79,11 @@ Cari ourite is the dish that turns up at every Mauritian fisherman's Sunday lunc
 - **Don't overcook:** octopus that is left simmering for too long goes back to rubbery. Check from 40 minutes and stop the moment a tentacle gives easily under a fork.
 
 ## Variations
-**Cari ourite ti pwa:** Add a handful of cooked white beans or butter beans in the last 10 minutes for a slightly heartier version.
-**Coconut version:** A 100 ml splash of coconut milk in the last 5 minutes gives a softer, sweeter gravy. Not classical but common on the west coast.
+- **Cari ourite ti pwa:** Add a handful of cooked white beans or butter beans in the last 10 minutes for a slightly heartier version.
+- **Coconut version:** A 100 ml splash of coconut milk in the last 5 minutes gives a softer, sweeter gravy. Not classical but common on the west coast.
 
 ## Serving
-Serve over plain steamed rice with a satini cotomili (coriander chutney) and a spoon of chilli pickle. A wedge of lime to squeeze over at the table. A simple green salad with a sharp vinaigrette on the side balances the richness.
+- Serve over plain steamed rice with a satini cotomili (coriander chutney) and a spoon of chilli pickle. A wedge of lime to squeeze over at the table. A simple green salad with a sharp vinaigrette on the side balances the richness.
 
 ## Storage
 - Tastes even better the next day; the octopus continues to relax and absorb the gravy. Keeps 3 days refrigerated.

@@ -65,7 +65,7 @@ Kenyan chapati is descended from the Indian chapati brought by Gujarati traders 
 - **Egg-stuffed:** crack an egg onto the chapati halfway through cooking, fold over and finish; the breakfast version.
 
 ## Serving
-Folded into quarters and stacked · alongside beans (maharagwe), githeri or stew · wrapped around sukuma wiki and a fried egg as a "chapati roll" · torn cold with tea.
+- Folded into quarters and stacked · alongside beans (maharagwe), githeri or stew · wrapped around sukuma wiki and a fried egg as a "chapati roll" · torn cold with tea.
 
 ## Storage
 - Best on the day; keep stacked under a cloth at room temperature.

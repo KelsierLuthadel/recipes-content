@@ -103,13 +103,13 @@ Chicken parmigiana (also called chicken parm) is one of the most iconic Italian-
 - **Mozzarella + Parmesan combo.**
 
 ## Variations
-**Chicken parm sub:** stuff in a sturdy hero roll with sauce and cheese.
-**Veal parm:** swap chicken for veal scaloppini.
-**Eggplant parm:** swap chicken for breaded aubergine slices (the Italian original).
-**Shrimp parm:** pan-fried breaded shrimp.
+- **Chicken parm sub:** stuff in a sturdy hero roll with sauce and cheese.
+- **Veal parm:** swap chicken for veal scaloppini.
+- **Eggplant parm:** swap chicken for breaded aubergine slices (the Italian original).
+- **Shrimp parm:** pan-fried breaded shrimp.
 
 ## Serving
-At Italian-American red-sauce restaurants. Sunday family dinners.
+- At Italian-American red-sauce restaurants. Sunday family dinners.
 
 ## Storage
 - Refrigerated 3 days.

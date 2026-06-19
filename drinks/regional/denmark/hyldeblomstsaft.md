@@ -85,14 +85,14 @@ Hyldeblomstsaft (literally "elderflower juice") is Denmark's most cherished home
 - **24-48 hour cold steep:** the flavour develops over time.
 
 ## Variations
-**Sparkling-wine version:** dilute with chilled cava / champagne / prosecco instead of sparkling water, the Danish Midsummer cocktail.
-**With ginger:** add a thumb of grated fresh ginger to the steep for warmth.
-**With rose petals:** add a small handful of edible rose petals for an extra floral note.
-**Pasteurised long-keeping bottles:** heat sealed bottles in a 80°C water bath for 20 minutes to make them shelf-stable for a year.
-**Frozen as ice cubes:** freeze syrup in ice cube trays; drop a few cubes into prosecco for an instant cocktail.
+- **Sparkling-wine version:** dilute with chilled cava / champagne / prosecco instead of sparkling water, the Danish Midsummer cocktail.
+- **With ginger:** add a thumb of grated fresh ginger to the steep for warmth.
+- **With rose petals:** add a small handful of edible rose petals for an extra floral note.
+- **Pasteurised long-keeping bottles:** heat sealed bottles in a 80°C water bath for 20 minutes to make them shelf-stable for a year.
+- **Frozen as ice cubes:** freeze syrup in ice cube trays; drop a few cubes into prosecco for an instant cocktail.
 
 ## Serving
-At a Danish summer-house lunch (the traditional Midsummer / Sankt Hans Eve setting) · at a backyard barbecue in a Copenhagen suburb · at fika in June with kanelbullar · as the non-alcoholic alternative at a julefrokost · at a Danish wedding reception in summer.
+- At a Danish summer-house lunch (the traditional Midsummer / Sankt Hans Eve setting) · at a backyard barbecue in a Copenhagen suburb · at fika in June with kanelbullar · as the non-alcoholic alternative at a julefrokost · at a Danish wedding reception in summer.
 
 ## Storage
 - Refrigerated cordial keeps 3-6 months sealed; 2 weeks once opened.

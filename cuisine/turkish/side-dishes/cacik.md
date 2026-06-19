@@ -85,13 +85,13 @@ Cacık (pronounced ja-jik) is Turkey's most beloved yogurt-cucumber dip and an i
 - **Adjust water to taste:** Turkish cacık ranges from thick dip (no water) to thin cold-soup (lots of water). The middle (100 ml) is the most common.
 
 ## Variations
-**Soup-style cacık (cacık çorbası):** add 200-300 ml of cold water; serve in bowls as a chilled summer soup. Common in summer across Anatolia.
-**Walnut cacık:** add 50 g of finely chopped walnuts; gives crunch and a nutty depth.
-**Mint-heavy cacık:** double the dried and fresh mint; gives a more brightly herbed version.
-**Beetroot cacık:** add 1 small cooked beetroot (finely diced) for a pink-tinged variation; common modern Turkish-Levantine variation.
+- **Soup-style cacık (cacık çorbası):** add 200-300 ml of cold water; serve in bowls as a chilled summer soup. Common in summer across Anatolia.
+- **Walnut cacık:** add 50 g of finely chopped walnuts; gives crunch and a nutty depth.
+- **Mint-heavy cacık:** double the dried and fresh mint; gives a more brightly herbed version.
+- **Beetroot cacık:** add 1 small cooked beetroot (finely diced) for a pink-tinged variation; common modern Turkish-Levantine variation.
 
 ## Serving
-In a small bowl alongside the main meal, eaten with a spoon between bites of grilled meat or kebab. As a meze with warm flatbread for dipping. With dolma, kuzu şiş, köfte, or any rich Turkish main. The proper Turkish way is to spoon some cacık onto a bite of meat as you eat. Drink: ayran (which is the closely related drink, cacık without cucumber).
+- In a small bowl alongside the main meal, eaten with a spoon between bites of grilled meat or kebab. As a meze with warm flatbread for dipping. With dolma, kuzu şiş, köfte, or any rich Turkish main. The proper Turkish way is to spoon some cacık onto a bite of meat as you eat. Drink: ayran (which is the closely related drink, cacık without cucumber).
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour develops over 24 hours.

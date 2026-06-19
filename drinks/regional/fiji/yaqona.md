@@ -51,7 +51,7 @@ Yaqona (pronounced yang-go-nah; "kava" is the wider Polynesian name) is not a be
 - **Sourcing:** Buy from a reputable Pacific shop or specialty kava supplier. Quality varies; cheap kava often has too much stem (which has been linked to liver issues in heavy long-term use).
 
 ## Serving
-Serve in the round, with all participants seated on the floor (the traditional setting) or around a low table. Conversation between rounds is the point.
+- Serve in the round, with all participants seated on the floor (the traditional setting) or around a low table. Conversation between rounds is the point.
 
 ## Storage
 - Yaqona is best drunk fresh, within 2-3 hours of mixing.

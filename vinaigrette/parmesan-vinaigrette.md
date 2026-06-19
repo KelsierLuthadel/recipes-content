@@ -61,17 +61,17 @@ Parmesan vinaigrette is the building block for winter and autumn salads with cha
 - **Cream Separated is Normal:** This dressing may separate slightly when refrigerated; whisk gently before serving.
 
 ## Variations
-**Roasted Garlic:** Add ½ teaspoon roasted garlic puree for additional depth.
-**With Truffle Oil:** Add ½ teaspoon truffle oil for luxury.
-**Extra Tangy:** Increase mustard powder to 1 ½ teaspoons for more assertive character.
-**Less Creamy:** Reduce cream to 4 tablespoons for lighter consistency.
-**With Shallot:** Add 1 finely minced shallot for aromatic complexity.
+- **Roasted Garlic:** Add ½ teaspoon roasted garlic puree for additional depth.
+- **With Truffle Oil:** Add ½ teaspoon truffle oil for luxury.
+- **Extra Tangy:** Increase mustard powder to 1 ½ teaspoons for more assertive character.
+- **Less Creamy:** Reduce cream to 4 tablespoons for lighter consistency.
+- **With Shallot:** Add 1 finely minced shallot for aromatic complexity.
 
 ## Serving
-Use with: Raw chicory, tender spinach, sliced mushrooms, bitter winter greens, warm cooked vegetables
-Dressing ratio: 2-3 tablespoons per serving
-Temperature: Room temperature
-Timing: Dress just before serving
+- Use with: Raw chicory, tender spinach, sliced mushrooms, bitter winter greens, warm cooked vegetables
+- Dressing ratio: 2-3 tablespoons per serving
+- Temperature: Room temperature
+- Timing: Dress just before serving
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 3 days

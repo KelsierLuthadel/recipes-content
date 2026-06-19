@@ -106,17 +106,17 @@ Oliebollen ("oil balls") are the Netherlands' traditional New Year's Eve treat, 
 - **They don't keep:** oliebollen are at their peak within 30 minutes of frying. After 2 hours the texture has gone leathery; after a day they're sad.
 
 ## Variations
-**Oliebollen met krenten (currant):** swap the sultanas for 100 g of currants, a tarter version.
-**Oliebollen met appel (apple-heavy variant):** double the apple to 4 apples; skip the raisins and sultanas, the rural Dutch variant.
-**Oliebollen with rum-soaked raisins (boozy):** double the rum and don't drain the raisins, the adult New Year's Eve variant.
-**Krentenbollen (alternative name for a similar product):** smaller versions sold at Dutch bakeries year-round; same recipe but smaller portions.
-**Berliner / Berlina (the filled cousin):** instead of free-form, shape the dough into balls; fry; inject with jam or custard, the Polish-German cousin.
-**Appelbeignets (apple beignet variant):** dip rings of cored apple in a similar batter; fry; dust with sugar, the smaller alternative to oliebollen.
-**Vegan oliebollen:** swap eggs for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk.
-**Quick-yeast oliebollen:** use a fast-rise yeast for a 45-minute rise instead of 90.
+- **Oliebollen met krenten (currant):** swap the sultanas for 100 g of currants, a tarter version.
+- **Oliebollen met appel (apple-heavy variant):** double the apple to 4 apples; skip the raisins and sultanas, the rural Dutch variant.
+- **Oliebollen with rum-soaked raisins (boozy):** double the rum and don't drain the raisins, the adult New Year's Eve variant.
+- **Krentenbollen (alternative name for a similar product):** smaller versions sold at Dutch bakeries year-round; same recipe but smaller portions.
+- **Berliner / Berlina (the filled cousin):** instead of free-form, shape the dough into balls; fry; inject with jam or custard, the Polish-German cousin.
+- **Appelbeignets (apple beignet variant):** dip rings of cored apple in a similar batter; fry; dust with sugar, the smaller alternative to oliebollen.
+- **Vegan oliebollen:** swap eggs for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk.
+- **Quick-yeast oliebollen:** use a fast-rise yeast for a 45-minute rise instead of 90.
 
 ## Serving
-At a Dutch street stall in the last two weeks of December (the traditional setting) · at a Dutch New Year's Eve household party · at a Dutch Christmas market · at an Amsterdam tourist food festival · at an Indonesian-Dutch restaurant as a sweet finisher · at home as the 31 December family tradition · paired with bisschopswijn (Dutch mulled wine) and a small chocolate.
+- At a Dutch street stall in the last two weeks of December (the traditional setting) · at a Dutch New Year's Eve household party · at a Dutch Christmas market · at an Amsterdam tourist food festival · at an Indonesian-Dutch restaurant as a sweet finisher · at home as the 31 December family tradition · paired with bisschopswijn (Dutch mulled wine) and a small chocolate.
 
 ## Storage
 - Best within 30 minutes of frying. Past that, the texture deteriorates fast.

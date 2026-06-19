@@ -85,13 +85,13 @@ Taiwanese cabbage stir-fry (chao gao li cai) is the country's everyday vegetable
 2. Cook in 2 batches; smaller batches give better wok-hei character.
 
 ## Variations
-**With pork belly:** add 100 g of thinly sliced pork belly to the wok with the aromatics; cook 2 minutes till the pork renders some fat before adding the cabbage. Common home-cook variation.
-**Vegan version:** skip the dried shrimp; substitute with 1 tablespoon of vegetarian "oyster sauce" or 1 teaspoon of fermented black bean paste for the umami.
-**Spicy cabbage stir-fry:** add 1 tablespoon of doubanjiang (Sichuan fermented broad bean paste) along with the garlic and ginger; gives a properly fierce variation.
-**With dried tofu skin:** add 50 g of dried tofu skin (soaked and cut into strips) along with the cabbage; gives extra texture and protein.
+- **With pork belly:** add 100 g of thinly sliced pork belly to the wok with the aromatics; cook 2 minutes till the pork renders some fat before adding the cabbage. Common home-cook variation.
+- **Vegan version:** skip the dried shrimp; substitute with 1 tablespoon of vegetarian "oyster sauce" or 1 teaspoon of fermented black bean paste for the umami.
+- **Spicy cabbage stir-fry:** add 1 tablespoon of doubanjiang (Sichuan fermented broad bean paste) along with the garlic and ginger; gives a properly fierce variation.
+- **With dried tofu skin:** add 50 g of dried tofu skin (soaked and cut into strips) along with the cabbage; gives extra texture and protein.
 
 ## Serving
-Alongside steamed rice and any Taiwanese main course: braised pork belly, three-cup chicken, lu rou fan, beef noodle soup. Often part of a home-cook multi-dish meal as the green vegetable contribution. Drink: Taiwan Beer, oolong tea, or just water.
+- Alongside steamed rice and any Taiwanese main course: braised pork belly, three-cup chicken, lu rou fan, beef noodle soup. Often part of a home-cook multi-dish meal as the green vegetable contribution. Drink: Taiwan Beer, oolong tea, or just water.
 
 ## Storage
 - Best eaten immediately; the texture suffers as the cabbage cools (it goes from crisp to limp).

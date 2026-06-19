@@ -86,13 +86,13 @@ Chicken and dumplings is one of the South's most beloved comfort dishes and a gr
 - **Eat immediately:** dumplings get soggy on standing.
 
 ## Variations
-**Rolled dumplings (Tennessee/Appalachian):** roll the dough thin; cut into squares; drop into broth.
-**With biscuit dumplings:** use store-bought biscuit dough.
-**With herbs in dumplings:** add chopped parsley and thyme to the dough.
-**Slow-cooker version:** cook the chicken and broth in slow-cooker; add dumplings at the end.
+- **Rolled dumplings (Tennessee/Appalachian):** roll the dough thin; cut into squares; drop into broth.
+- **With biscuit dumplings:** use store-bought biscuit dough.
+- **With herbs in dumplings:** add chopped parsley and thyme to the dough.
+- **Slow-cooker version:** cook the chicken and broth in slow-cooker; add dumplings at the end.
 
 ## Serving
-In deep bowls with bread. As Southern winter comfort.
+- In deep bowls with bread. As Southern winter comfort.
 
 ## Storage
 - Keeps refrigerated 3 days; dumplings get soft on reheating.

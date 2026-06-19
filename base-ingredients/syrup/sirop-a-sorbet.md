@@ -50,14 +50,14 @@ Sirop à sorbet is the building block for sorbets, granités and fruit coulis: c
 - **Water Quality:** Mineral-free water (filtered or distilled) prevents cloudiness and off-flavors.
 
 ## Variations
-**Lighter Syrup (28° Beaumé):** Use 700 grams sugar instead of 750 for less-cold-sensitive sorbets.
-**With Flavoring:** Infuse the syrup with citrus zest, vanilla, or herbs while cooling.
-**For Sponge Soaking:** Use this same syrup to soak Genoise or sponge fingers for dessert assembly.
+- **Lighter Syrup (28° Beaumé):** Use 700 grams sugar instead of 750 for less-cold-sensitive sorbets.
+- **With Flavoring:** Infuse the syrup with citrus zest, vanilla, or herbs while cooling.
+- **For Sponge Soaking:** Use this same syrup to soak Genoise or sponge fingers for dessert assembly.
 
 ## Serving
-Use for: Sorbets, granite, sponge soaking, Italian meringues that need cooling syrup
-Temperature: Room temperature to cool
-Amount: Varies by sorbet recipe (typically 300-400 ml per quart of sorbet base)
+- Use for: Sorbets, granite, sponge soaking, Italian meringues that need cooling syrup
+- Temperature: Room temperature to cool
+- Amount: Varies by sorbet recipe (typically 300-400 ml per quart of sorbet base)
 
 ## Storage
 - Refrigerate in an airtight, glass container for up to 3 months

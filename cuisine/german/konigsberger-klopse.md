@@ -127,15 +127,15 @@ Königsberger Klopse (literally "meatballs from Königsberg"; the city is now Ka
 - **The white-on-white look is traditional:** don't garnish with paprika or anything coloured. Pale meatballs in pale sauce in white bowls.
 
 ## Variations
-**Spreewald Klopse:** the Saxon-region variant uses dill pickles in the sauce instead of capers, more vinegary.
-**Klopse with mushroom (modern):** add 200 g sliced mushrooms to the sauce, modern variant.
-**Beetroot-juice-coloured (Berlin):** add a tablespoon of beet juice to the sauce for a pink tint, modernist twist.
-**Vegan Klopse:** use a mixture of finely chopped mushrooms + cooked lentils + breadcrumbs to replace the meat; oat cream instead of dairy.
-**With sour cream finish:** add 3 tablespoons sour cream to the sauce, Sile sian variant.
-**With dill and lemon (Northern German):** add 2 tablespoons fresh dill to the sauce, coastal variant.
+- **Spreewald Klopse:** the Saxon-region variant uses dill pickles in the sauce instead of capers, more vinegary.
+- **Klopse with mushroom (modern):** add 200 g sliced mushrooms to the sauce, modern variant.
+- **Beetroot-juice-coloured (Berlin):** add a tablespoon of beet juice to the sauce for a pink tint, modernist twist.
+- **Vegan Klopse:** use a mixture of finely chopped mushrooms + cooked lentils + breadcrumbs to replace the meat; oat cream instead of dairy.
+- **With sour cream finish:** add 3 tablespoons sour cream to the sauce, Sile sian variant.
+- **With dill and lemon (Northern German):** add 2 tablespoons fresh dill to the sauce, coastal variant.
 
 ## Serving
-At a German Hausfrau Sunday lunch (the traditional setting) · at a Berlin restaurant specialising in classic German cuisine · at a Königsberg-refugee family dinner (the dish that crossed Germany) · at a German-themed dinner abroad as a sophisticated showpiece · at a German Christmas Eve dinner · at home as a Sunday family meal · alongside a glass of dry Riesling.
+- At a German Hausfrau Sunday lunch (the traditional setting) · at a Berlin restaurant specialising in classic German cuisine · at a Königsberg-refugee family dinner (the dish that crossed Germany) · at a German-themed dinner abroad as a sophisticated showpiece · at a German Christmas Eve dinner · at home as a Sunday family meal · alongside a glass of dry Riesling.
 
 ## Storage
 - Meatballs + sauce refrigerate 3 days; reheat gently in a saucepan (don't boil, the egg-yolk-enriched sauce splits if reboiled).

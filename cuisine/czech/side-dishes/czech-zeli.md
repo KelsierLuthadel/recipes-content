@@ -70,7 +70,7 @@ Czech zelí (or kysané zelí - "sour cabbage") is the side dish that turns Czec
 - **Make ahead:** The dish genuinely improves on day two. Cook on Saturday for Sunday lunch.
 
 ## Serving
-Alongside any Czech main; the inseparable companion to vepřo (roast pork), kachna (duck), husa (goose) and the Christmas carp (kapr).
+- Alongside any Czech main; the inseparable companion to vepřo (roast pork), kachna (duck), husa (goose) and the Christmas carp (kapr).
 
 ## Storage
 - Refrigerates 1 week in a sealed container; reheats beautifully.

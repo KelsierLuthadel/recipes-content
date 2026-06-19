@@ -95,7 +95,7 @@ Skolebrød (or skolebolle in Bergen) - "school bread" - is the iconic Norwegian 
 - **Eat the day they're made:** Skolebrød soften fast. Make in the morning, eat by afternoon. Day-old skolebrød is still good but loses some of the contrast.
 
 ## Serving
-The lunchbox standard. Pack one in a child's school bag, or take to work for the kaffepause (coffee break). Also the standard birthday treat for Norwegian kids.
+- The lunchbox standard. Pack one in a child's school bag, or take to work for the kaffepause (coffee break). Also the standard birthday treat for Norwegian kids.
 
 ## Storage
 - Room temperature in an airtight container 2 days; the coconut wilts and the dough softens.

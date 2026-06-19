@@ -85,13 +85,13 @@ Machaca con huevo is Northern Mexico's iconic breakfast hash and a signature dis
 - **Adjust salt carefully:** machaca is salty.
 
 ## Variations
-**Machaca with potato (machaca con papas):** add 200 g of cubed cooked potato along with the meat; gives a heartier breakfast hash.
-**Machaca burrito:** roll the finished machaca con huevo in a large flour tortilla with refried beans and avocado; the traditional breakfast burrito.
-**Spicier:** double the jalapeño and add 1 chopped habanero; properly Northern Mexican fierce.
-**With chorizo:** add 100 g of crumbled chorizo cooked with the onion; gives extra spice.
+- **Machaca with potato (machaca con papas):** add 200 g of cubed cooked potato along with the meat; gives a heartier breakfast hash.
+- **Machaca burrito:** roll the finished machaca con huevo in a large flour tortilla with refried beans and avocado; the traditional breakfast burrito.
+- **Spicier:** double the jalapeño and add 1 chopped habanero; properly Northern Mexican fierce.
+- **With chorizo:** add 100 g of crumbled chorizo cooked with the onion; gives extra spice.
 
 ## Serving
-On warm plates with all the traditional Northern Mexican accompaniments. Drink: hot Mexican coffee (café de olla), or fresh juice. Breakfast or brunch.
+- On warm plates with all the traditional Northern Mexican accompaniments. Drink: hot Mexican coffee (café de olla), or fresh juice. Breakfast or brunch.
 
 ## Storage
 - Best eaten immediately; eggs don't reheat well.

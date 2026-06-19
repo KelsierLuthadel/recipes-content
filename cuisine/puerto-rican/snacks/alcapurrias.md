@@ -110,13 +110,13 @@ Alcapurrias is one of Puerto Rico's most distinctive street snacks and a beloved
 - **Don't overcrowd the fryer:** 2-3 at a time. Overcrowded fritters drop the oil temperature.
 
 ## Variations
-**Crab alcapurrias (alcapurrias de jueyes):** swap the beef filling for cooked crab meat with sofrito; a coastal Puerto Rican specialty.
-**Chicken alcapurrias:** swap the beef for shredded cooked chicken; lighter version.
-**Vegetarian alcapurrias:** fill with a mixture of mashed sweet potato, cheese, sautéed mushrooms and olives.
-**Mini alcapurrias:** make smaller (5 cm long); 24 mini fritters for party trays.
+- **Crab alcapurrias (alcapurrias de jueyes):** swap the beef filling for cooked crab meat with sofrito; a coastal Puerto Rican specialty.
+- **Chicken alcapurrias:** swap the beef for shredded cooked chicken; lighter version.
+- **Vegetarian alcapurrias:** fill with a mixture of mashed sweet potato, cheese, sautéed mushrooms and olives.
+- **Mini alcapurrias:** make smaller (5 cm long); 24 mini fritters for party trays.
 
 ## Serving
-Hot from the fryer with lime wedges and pique on the side. Cold beer or fresh limeade. At beach stands, weekend parties, or as a starter before a Boricua family meal.
+- Hot from the fryer with lime wedges and pique on the side. Cold beer or fresh limeade. At beach stands, weekend parties, or as a starter before a Boricua family meal.
 
 ## Storage
 - Best eaten immediately; the texture suffers as they cool.

@@ -82,13 +82,13 @@ Texas peach cobbler is Texas's iconic summer dessert and one of the most beloved
 - **Serve warm:** the contrast with ice cream is the point.
 
 ## Variations
-**With blueberries:** add 200 g of blueberries to the peach filling; gives mixed-berry-peach.
-**With bourbon:** add 2 tablespoons of bourbon to the peach filling; gives extra depth.
-**Spiced version:** add ¼ teaspoon ground ginger and ¼ teaspoon ground cloves to the peaches.
-**Mixed stone fruit:** combine peaches with plums and nectarines; gives a layered fruit cobbler.
+- **With blueberries:** add 200 g of blueberries to the peach filling; gives mixed-berry-peach.
+- **With bourbon:** add 2 tablespoons of bourbon to the peach filling; gives extra depth.
+- **Spiced version:** add ¼ teaspoon ground ginger and ¼ teaspoon ground cloves to the peaches.
+- **Mixed stone fruit:** combine peaches with plums and nectarines; gives a layered fruit cobbler.
 
 ## Serving
-Warm with vanilla ice cream or whipped cream. After Texas BBQ, Sunday dinner, or as the traditional Texan summer dessert.
+- Warm with vanilla ice cream or whipped cream. After Texas BBQ, Sunday dinner, or as the traditional Texan summer dessert.
 
 ## Storage
 - Keeps refrigerated 4 days; reheat in oven.

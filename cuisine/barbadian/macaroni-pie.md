@@ -108,16 +108,16 @@ Bajan macaroni pie is the Caribbean cousin of American mac-and-cheese, brighter,
 - **Compact the macaroni in the tin:** firm packing gives clean square cuts.
 
 ## Variations
-**Tuna macaroni pie:** add 1 large tin of drained tuna to the sauce, the Bajan lunchbox variant.
-**Vegetarian Bajan macaroni pie:** skip any meat; use vegetable stock in place of any meat-based ingredient; the heat and mustard make it work.
-**Macaroni pie with bacon:** scatter 200 g crisp bacon lardons over the top before baking.
-**Spicy macaroni pie:** double the Scotch bonnet, for the heat-lovers.
-**Bajan macaroni pie loaf (the Sunday-school cake):** bake in a loaf tin and slice; the traditional Sunday-school food at Bajan church gatherings.
-**Macaroni pie with breadcrumb topping:** scatter 60 g panko + 30 g extra cheddar + 1 tablespoon butter over the top before baking, extra crunch.
-**Cream macaroni pie:** swap 200 ml of the whole milk for 200 ml double cream, the richer wedding-day variant.
+- **Tuna macaroni pie:** add 1 large tin of drained tuna to the sauce, the Bajan lunchbox variant.
+- **Vegetarian Bajan macaroni pie:** skip any meat; use vegetable stock in place of any meat-based ingredient; the heat and mustard make it work.
+- **Macaroni pie with bacon:** scatter 200 g crisp bacon lardons over the top before baking.
+- **Spicy macaroni pie:** double the Scotch bonnet, for the heat-lovers.
+- **Bajan macaroni pie loaf (the Sunday-school cake):** bake in a loaf tin and slice; the traditional Sunday-school food at Bajan church gatherings.
+- **Macaroni pie with breadcrumb topping:** scatter 60 g panko + 30 g extra cheddar + 1 tablespoon butter over the top before baking, extra crunch.
+- **Cream macaroni pie:** swap 200 ml of the whole milk for 200 ml double cream, the richer wedding-day variant.
 
 ## Serving
-At a Bajan Sunday lunch (the traditional setting; cut into hefty squares; piled alongside stew chicken and rice and peas) · at a Bajan Independence Day celebration · at a Bajan church potluck · at a Bajan birthday party · at a Bajan funeral wake · at home as a Bajan-themed dinner-party side · paired with stew chicken, fried chicken, rice and peas.
+- At a Bajan Sunday lunch (the traditional setting; cut into hefty squares; piled alongside stew chicken and rice and peas) · at a Bajan Independence Day celebration · at a Bajan church potluck · at a Bajan birthday party · at a Bajan funeral wake · at home as a Bajan-themed dinner-party side · paired with stew chicken, fried chicken, rice and peas.
 
 ## Storage
 - Refrigerates 4 days; reheats well covered in a 180°C oven for 20 minutes.

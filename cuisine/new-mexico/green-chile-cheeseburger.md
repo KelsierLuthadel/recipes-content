@@ -90,13 +90,13 @@ The green chile cheeseburger is New Mexico's official state cuisine icon and the
 - **Soft white bun:** the traditional NM bread.
 
 ## Variations
-**With bacon:** add 2 strips of bacon to each.
-**Spicier:** include hot Hatch chiles; add chopped fresh jalapeño.
-**Double patty:** stack 2 thinner patties.
-**Vegetarian:** swap beef for a black bean patty or Beyond patty; same chile topping.
+- **With bacon:** add 2 strips of bacon to each.
+- **Spicier:** include hot Hatch chiles; add chopped fresh jalapeño.
+- **Double patty:** stack 2 thinner patties.
+- **Vegetarian:** swap beef for a black bean patty or Beyond patty; same chile topping.
 
 ## Serving
-With fries (or sweet potato fries), pickles. New Mexican beer.
+- With fries (or sweet potato fries), pickles. New Mexican beer.
 
 ## Storage
 - Best eaten immediately.

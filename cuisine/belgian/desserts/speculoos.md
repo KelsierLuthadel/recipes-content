@@ -86,16 +86,16 @@ Speculoos is Belgium's most identity-defining biscuit, and the reason cookie but
 - **Storage matters:** crisp speculoos goes soft in a humid container. Keep in a tin with a tight lid.
 
 ## Variations
-**Speculoos with pearl sugar tops:** swap the demerara sprinkle for pearl sugar pressed lightly into the dough before baking, more rustic.
-**Speculoospasta (cookie butter):** crush 250 g cooled biscuits to fine crumbs in a food processor; add 60 ml condensed milk and 100 ml double cream; blitz till spreadable, homemade Belgian cookie butter.
-**Speculoos with chocolate:** dip the cooled biscuits half-way into melted dark chocolate; let set on parchment.
-**St Nicholas speculoos (with carved moulds):** press the dough firmly into a carved wooden mould (windmill, horse, St Nicholas), invert onto the baking tray, traditional 6 December bake.
-**Speculoos crumb cheesecake base:** crush 250 g biscuits with 100 g melted butter and press into a 23 cm springform, the world-famous cheesecake base.
-**Vegan speculoos:** swap the egg for 3 tablespoons of aquafaba, the butter for vegan block butter, milk for oat milk.
-**Speculoos sandwich biscuits with white chocolate filling:** spread melted white chocolate between two cooled biscuits.
+- **Speculoos with pearl sugar tops:** swap the demerara sprinkle for pearl sugar pressed lightly into the dough before baking, more rustic.
+- **Speculoospasta (cookie butter):** crush 250 g cooled biscuits to fine crumbs in a food processor; add 60 ml condensed milk and 100 ml double cream; blitz till spreadable, homemade Belgian cookie butter.
+- **Speculoos with chocolate:** dip the cooled biscuits half-way into melted dark chocolate; let set on parchment.
+- **St Nicholas speculoos (with carved moulds):** press the dough firmly into a carved wooden mould (windmill, horse, St Nicholas), invert onto the baking tray, traditional 6 December bake.
+- **Speculoos crumb cheesecake base:** crush 250 g biscuits with 100 g melted butter and press into a 23 cm springform, the world-famous cheesecake base.
+- **Vegan speculoos:** swap the egg for 3 tablespoons of aquafaba, the butter for vegan block butter, milk for oat milk.
+- **Speculoos sandwich biscuits with white chocolate filling:** spread melted white chocolate between two cooled biscuits.
 
 ## Serving
-With a Belgian espresso or café au lait (the traditional setting) · alongside a Belgian hot chocolate · at a Belgian or Dutch coffee shop · at a Sint-Niklaas (6 December) celebration · with a glass of dessert wine after dinner · crumbled over vanilla ice cream · half-dipped into a strong coffee.
+- With a Belgian espresso or café au lait (the traditional setting) · alongside a Belgian hot chocolate · at a Belgian or Dutch coffee shop · at a Sint-Niklaas (6 December) celebration · with a glass of dessert wine after dinner · crumbled over vanilla ice cream · half-dipped into a strong coffee.
 
 ## Storage
 - Stores 3 weeks in a tin with a tight lid at room temperature; they actually improve for the first few days as the spices marry.

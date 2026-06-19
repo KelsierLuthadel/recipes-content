@@ -36,9 +36,9 @@ White chocolate sauce with mint is the building block for a luxurious pour over 
 - The brief final boil in the saucepan is important for texture; it tightens the sauce slightly and gives it a glossy, pourable consistency.
 
 ## Serving
-Serve with: dark chocolate ice cream, poached pears, or plain steamed puddings
-Temperature: warm, served immediately or kept in a bain-marie
-Amount: approximately 3-4 tablespoons per person
+- Serve with: dark chocolate ice cream, poached pears, or plain steamed puddings
+- Temperature: warm, served immediately or kept in a bain-marie
+- Amount: approximately 3-4 tablespoons per person
 
 ## Storage
 - Store any leftover sauce in an airtight container in the refrigerator for up to 3 days.

@@ -95,14 +95,14 @@ Snaps (Swedish for "spirit shot") is the umbrella term for the ice-cold flavoure
 - **Spaced rounds:** 3-4 rounds across a 2-hour meal is the traditional pace. Don't gulp them in succession.
 
 ## Variations
-**OP Anderson style:** caraway-heavy, oak-aged. Use OP Anderson Akvavit; warmer flavour.
-**Bäska Droppar:** the Swedish bitter wormwood-and-citrus snaps. Acquired taste.
-**Brännvin (plain unflavoured):** a clear unflavoured Swedish spirit. Simple.
-**Hallonbåtar (raspberry snaps):** infuse the vodka with raspberries + sugar for a sweeter dessert-end snaps.
-**Aquavit cocktails (modern):** akvavit in cocktails (Akvavit Martini, Aquavit Sour, Negroni with akvavit): non-traditional but increasingly popular.
+- **OP Anderson style:** caraway-heavy, oak-aged. Use OP Anderson Akvavit; warmer flavour.
+- **Bäska Droppar:** the Swedish bitter wormwood-and-citrus snaps. Acquired taste.
+- **Brännvin (plain unflavoured):** a clear unflavoured Swedish spirit. Simple.
+- **Hallonbåtar (raspberry snaps):** infuse the vodka with raspberries + sugar for a sweeter dessert-end snaps.
+- **Aquavit cocktails (modern):** akvavit in cocktails (Akvavit Martini, Aquavit Sour, Negroni with akvavit): non-traditional but increasingly popular.
 
 ## Serving
-At every traditional Swedish meal involving cured fish or the smörgåsbord · at the Christmas julbord · at Midsommar lunch in the garden · at Easter brunch · at a Nordic-themed dinner party.
+- At every traditional Swedish meal involving cured fish or the smörgåsbord · at the Christmas julbord · at Midsommar lunch in the garden · at Easter brunch · at a Nordic-themed dinner party.
 
 ## Storage
 - Bottled akvavit keeps indefinitely.

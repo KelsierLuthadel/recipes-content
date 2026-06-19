@@ -72,14 +72,14 @@ Café Lao is the French-colonial coffee legacy adapted by Lao home cooks. The be
 - **Don't oversweeten:** 2 tablespoons of condensed milk per glass is the traditional amount. More is dessert.
 
 ## Variations
-**Hot café Lao:** skip the ice; stir the condensed milk into the hot brewed coffee. The winter / morning version.
-**Café Lao with coconut milk:** replace condensed milk with 60 ml of full-fat coconut milk + 2 tsp palm sugar. The modern Lao café variant.
-**Café Lao with extra strong coffee:** double the coffee grounds; serve with extra ice.
-**Café sữa đá (Vietnamese cousin):** same technique with Vietnamese coffee; very similar to Lao.
-**Egg coffee (cà phê trứng, Vietnamese variant):** whisk an egg yolk with the condensed milk to a foam; pour coffee over. Borderline overlap with Vietnamese.
+- **Hot café Lao:** skip the ice; stir the condensed milk into the hot brewed coffee. The winter / morning version.
+- **Café Lao with coconut milk:** replace condensed milk with 60 ml of full-fat coconut milk + 2 tsp palm sugar. The modern Lao café variant.
+- **Café Lao with extra strong coffee:** double the coffee grounds; serve with extra ice.
+- **Café sữa đá (Vietnamese cousin):** same technique with Vietnamese coffee; very similar to Lao.
+- **Egg coffee (cà phê trứng, Vietnamese variant):** whisk an egg yolk with the condensed milk to a foam; pour coffee over. Borderline overlap with Vietnamese.
 
 ## Serving
-At a Lao morning market stall (the traditional setting; sold from carts at 6 am alongside khao jee sandwiches) · at a Vientiane or Luang Prabang café · at a Lao breakfast counter · at home as a strong morning pick-me-up · paired with khao jee (Lao baguette sandwich) or sai oua.
+- At a Lao morning market stall (the traditional setting; sold from carts at 6 am alongside khao jee sandwiches) · at a Vientiane or Luang Prabang café · at a Lao breakfast counter · at home as a strong morning pick-me-up · paired with khao jee (Lao baguette sandwich) or sai oua.
 
 ## Storage
 - Drink fresh; doesn't store.

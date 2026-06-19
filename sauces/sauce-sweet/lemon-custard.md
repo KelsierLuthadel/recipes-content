@@ -50,7 +50,7 @@ Lemon custard is the building block for a tart pourable summer sauce designed to
 - **Gentle cooking:** Prevents curdling; high heat scrambles egg yolks.
 
 ## Serving
-Serve chilled with fresh red fruits (berries, currants, raspberries). Add candied lemon zest shreds just before serving for visual elegance and enhanced flavour.
+- Serve chilled with fresh red fruits (berries, currants, raspberries). Add candied lemon zest shreds just before serving for visual elegance and enhanced flavour.
 
 ## Storage
 - Keeps refrigerated for 3 days in an airtight container.

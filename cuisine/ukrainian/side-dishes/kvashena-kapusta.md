@@ -92,13 +92,13 @@ Kvashena kapusta is the Ukrainian (and broader Eastern European) sauerkraut, the
 - **Take taste tests:** the fermentation timing depends on temperature and the specific cabbage. After 10 days, start tasting a piece daily. You're looking for properly sour, tangy and a slight effervescence on the tongue. Stop when it tastes right.
 
 ## Variations
-**Cabbage with apple:** add 1 tart eating apple (peeled and grated coarsely) to the cabbage and carrot; gives a slightly sweeter sauerkraut. Common in northern Ukraine.
-**Cabbage with beetroot:** add 200 g of grated raw beetroot to the cabbage; the sauerkraut goes brilliant pink and slightly sweeter. Traditional in the Carpathian regions.
-**Cabbage with cranberries:** add 100 g of fresh cranberries to the cabbage; gives a tart fruity counter to the sourness. A celebration variant.
-**Spicy cabbage:** add 2 finely chopped fresh hot chillies to the cabbage; a non-traditional but popular spicy variant.
+- **Cabbage with apple:** add 1 tart eating apple (peeled and grated coarsely) to the cabbage and carrot; gives a slightly sweeter sauerkraut. Common in northern Ukraine.
+- **Cabbage with beetroot:** add 200 g of grated raw beetroot to the cabbage; the sauerkraut goes brilliant pink and slightly sweeter. Traditional in the Carpathian regions.
+- **Cabbage with cranberries:** add 100 g of fresh cranberries to the cabbage; gives a tart fruity counter to the sourness. A celebration variant.
+- **Spicy cabbage:** add 2 finely chopped fresh hot chillies to the cabbage; a non-traditional but popular spicy variant.
 
 ## Serving
-Cold from the jar, drained slightly, dressed with a drizzle of sunflower oil and chopped fresh dill, alongside grilled meats, fried sausages, baked fish, or pelmeni. Warmed with bacon and onion as a side for roasted pork. Folded into bigos (the long-simmered hunter's stew) or kapuśniak (Polish-Ukrainian sauerkraut soup) through winter.
+- Cold from the jar, drained slightly, dressed with a drizzle of sunflower oil and chopped fresh dill, alongside grilled meats, fried sausages, baked fish, or pelmeni. Warmed with bacon and onion as a side for roasted pork. Folded into bigos (the long-simmered hunter's stew) or kapuśniak (Polish-Ukrainian sauerkraut soup) through winter.
 
 ## Storage
 - Keeps refrigerated 4-6 months in a sealed jar; the fermentation slows almost to a stop in the cold but continues very slowly. The sauerkraut gets progressively sourer over time.

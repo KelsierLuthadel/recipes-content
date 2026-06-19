@@ -73,7 +73,7 @@ Vereshchaka turns up in cookery books from the Grand Duchy of Lithuania as early
 - **Beef vereshchaka.** Replace pork with chuck steak in 4 cm chunks; cook 2 hours rather than 90 minutes. Less traditional but works well.
 
 ## Serving
-Serve over boiled new potatoes with dill · also with draniki underneath to soak the gravy · with cold pickled cabbage on the side · accompanied by dark rye and unsalted butter
+- Serve over boiled new potatoes with dill · also with draniki underneath to soak the gravy · with cold pickled cabbage on the side · accompanied by dark rye and unsalted butter
 
 ## Storage
 - Keeps 4 days refrigerated and tastes better on day two and three

@@ -63,7 +63,7 @@ A simple oil-based cake built around a generous pour of dark honey, brewed coffe
 - The cake keeps so well that some households bake two: one for Rosh Hashanah, one for Yom Kippur break-fast.
 
 ## Serving
-Sliced thinly on a plate at the end of the Rosh Hashanah meal, with apples and a small bowl of honey alongside. A cup of strong coffee or sweet tea to drink.
+- Sliced thinly on a plate at the end of the Rosh Hashanah meal, with apples and a small bowl of honey alongside. A cup of strong coffee or sweet tea to drink.
 
 ## Storage
 Wrapped in baking paper at room temperature for up to a week. Improves for the first 3 days, holds steady for 4 more.

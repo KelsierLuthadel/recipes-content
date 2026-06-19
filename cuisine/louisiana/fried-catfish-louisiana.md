@@ -80,13 +80,13 @@ Louisiana fried catfish is one of the South's most iconic fish dishes and the ce
 - **Eat immediately:** crust softens.
 
 ## Variations
-**Blackened version:** coat in Cajun spice mix; pan-sear in cast iron (not deep-fried).
-**Air-fried:** lighter; not as crispy.
-**With panko:** less traditional; non-traditional.
-**Whole catfish:** scale and gut; fry whole.
+- **Blackened version:** coat in Cajun spice mix; pan-sear in cast iron (not deep-fried).
+- **Air-fried:** lighter; not as crispy.
+- **With panko:** less traditional; non-traditional.
+- **Whole catfish:** scale and gut; fry whole.
 
 ## Serving
-On platters with sides. Friday fish fries; Lent meals; family gatherings. Cold beer.
+- On platters with sides. Friday fish fries; Lent meals; family gatherings. Cold beer.
 
 ## Storage
 - Best immediately.

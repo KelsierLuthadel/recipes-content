@@ -113,13 +113,13 @@ Guava duff is the Bahamas' iconic Sunday dessert and one of the more unusual con
 - **Lime is the bridge:** the lime zest in the dough and the lime juice in the filling cut through the sweetness and give the duff its proper Bahamian profile. Don't skip.
 
 ## Variations
-**Pineapple duff:** swap the guava filling for chopped fresh pineapple cooked the same way; the pineapple version is common in the south Bahamas.
-**Coconut duff:** add 50 g of desiccated coconut to the dough; the coconut adds texture and bridges with other Bahamian sweet things.
-**Banana duff:** swap the guava for mashed ripe banana cooked with sugar and rum; a homely variation common at family Sunday lunches.
-**Spiced rum duff:** double the cinnamon and add ½ teaspoon of allspice to the filling; uses spiced rum in the sauce. Properly festive Bahamian.
+- **Pineapple duff:** swap the guava filling for chopped fresh pineapple cooked the same way; the pineapple version is common in the south Bahamas.
+- **Coconut duff:** add 50 g of desiccated coconut to the dough; the coconut adds texture and bridges with other Bahamian sweet things.
+- **Banana duff:** swap the guava for mashed ripe banana cooked with sugar and rum; a homely variation common at family Sunday lunches.
+- **Spiced rum duff:** double the cinnamon and add ½ teaspoon of allspice to the filling; uses spiced rum in the sauce. Properly festive Bahamian.
 
 ## Serving
-Slices on warm dessert plates with the rum-butter sauce poured generously over. Vanilla ice cream on the side is non-traditional but excellent. A small glass of dark rum or a Bahamian coffee alongside. Properly served warm; reheat slices in a low oven if needed.
+- Slices on warm dessert plates with the rum-butter sauce poured generously over. Vanilla ice cream on the side is non-traditional but excellent. A small glass of dark rum or a Bahamian coffee alongside. Properly served warm; reheat slices in a low oven if needed.
 
 ## Storage
 - The cooked duff (without sauce) keeps refrigerated 4 days. Slice cold; reheat slices wrapped in foil in a low oven (150°C / 300°F) for 10 minutes till warmed through.

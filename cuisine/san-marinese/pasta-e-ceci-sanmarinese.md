@@ -57,7 +57,7 @@ Pasta e ceci is shared across central Italy, but the San Marinese version leans 
 - **The half-mash.** Mashing half the chickpeas gives the broth its characteristic body without losing all the texture; whole chickpeas should still be visible.
 
 ## Serving
-A wedge of piadina sanmarinese on the side, a glass of young Sangiovese, a small dish of olives. Lunch.
+- A wedge of piadina sanmarinese on the side, a glass of young Sangiovese, a small dish of olives. Lunch.
 
 ## Storage
 - Keeps 3 days refrigerated; the soup thickens further on standing, so thin with a splash of hot water when reheating.

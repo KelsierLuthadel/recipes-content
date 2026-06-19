@@ -81,14 +81,14 @@ The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det
 - **Stand at the cart:** the pølsevogn ritual.
 
 ## Variations
-**Fransk hotdog (French dog):** the bun is tunnel-cut from one end like a baguette; the remoulade is squeezed inside, then the dog inserted. Less topping, more bread-and-sauce.
-**Pølse i svøb:** the sausage wrapped in bacon, then in the bun.
-**Without sweet pickles:** for those who dislike the sweet note.
-**With chili-remoulade:** add a teaspoon of sriracha or chopped fresh chilli to the remoulade for heat.
-**Pølsemix:** order the dog with the toppings plus a generous portion of fries (pommes frites) on the same plate, the fries mixed in with the toppings.
+- **Fransk hotdog (French dog):** the bun is tunnel-cut from one end like a baguette; the remoulade is squeezed inside, then the dog inserted. Less topping, more bread-and-sauce.
+- **Pølse i svøb:** the sausage wrapped in bacon, then in the bun.
+- **Without sweet pickles:** for those who dislike the sweet note.
+- **With chili-remoulade:** add a teaspoon of sriracha or chopped fresh chilli to the remoulade for heat.
+- **Pølsemix:** order the dog with the toppings plus a generous portion of fries (pommes frites) on the same plate, the fries mixed in with the toppings.
 
 ## Serving
-At a Copenhagen pølsevogn at lunch; at an Aarhus street stand at midnight; at a Danish Christmas-market stall in winter; at home with a cold Tuborg.
+- At a Copenhagen pølsevogn at lunch; at an Aarhus street stand at midnight; at a Danish Christmas-market stall in winter; at home with a cold Tuborg.
 
 ## Storage
 - Remoulade refrigerates 2 weeks (gets better in the first 24 hours).

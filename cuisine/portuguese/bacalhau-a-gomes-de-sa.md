@@ -91,13 +91,13 @@ Bacalhau à Gomes de Sá is one of Portugal's most iconic salt cod dishes. Portu
 - **Eggs at the end:** decorative not cooked in.
 
 ## Variations
-**Bacalhau à Brás (related):** shredded salt cod fried with matchstick potatoes and scrambled egg.
-**With cream:** add 200 ml of cream to the layers; gives a richer version.
-**Spicier:** add 1 tablespoon of piri-piri to the onions.
-**Modern minimalist:** mash the potatoes instead of slicing; gives a more cottage-pie-like result.
+- **Bacalhau à Brás (related):** shredded salt cod fried with matchstick potatoes and scrambled egg.
+- **With cream:** add 200 ml of cream to the layers; gives a richer version.
+- **Spicier:** add 1 tablespoon of piri-piri to the onions.
+- **Modern minimalist:** mash the potatoes instead of slicing; gives a more cottage-pie-like result.
 
 ## Serving
-With crusty Portuguese bread, sliced ripe tomato salad and a glass of cold vinho verde.
+- With crusty Portuguese bread, sliced ripe tomato salad and a glass of cold vinho verde.
 
 ## Storage
 - Keeps refrigerated 4 days.

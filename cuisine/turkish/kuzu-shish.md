@@ -105,13 +105,13 @@ Kuzu şiş (literally "lamb skewer"; sometimes called şiş kebab or shish kebab
 - **Don't overcook:** lamb is best at medium (pink centre); the residual heat continues cooking off the grill. Stop earlier than you think.
 
 ## Variations
-**Adana kebab (sausage-style):** swap the cubes for spiced minced lamb (with hot Turkish red pepper paste, Aleppo pepper, parsley); shape into long sausages around flat skewers; grill. The southeastern Turkish equivalent.
-**Çöp şiş (small skewer):** cut the lamb into smaller 1.5 cm cubes; thread onto smaller skewers; cook 6-7 minutes. The Aegean-coast smaller version.
-**Chicken şiş (tavuk şiş):** swap lamb for boneless chicken thigh; marinate the same way; grill 8-10 minutes. Common everyday variation.
-**Mixed grill (karışık ızgara):** combine kuzu şiş with adana kebab and chicken kebab on the same platter; common Turkish restaurant presentation.
+- **Adana kebab (sausage-style):** swap the cubes for spiced minced lamb (with hot Turkish red pepper paste, Aleppo pepper, parsley); shape into long sausages around flat skewers; grill. The southeastern Turkish equivalent.
+- **Çöp şiş (small skewer):** cut the lamb into smaller 1.5 cm cubes; thread onto smaller skewers; cook 6-7 minutes. The Aegean-coast smaller version.
+- **Chicken şiş (tavuk şiş):** swap lamb for boneless chicken thigh; marinate the same way; grill 8-10 minutes. Common everyday variation.
+- **Mixed grill (karışık ızgara):** combine kuzu şiş with adana kebab and chicken kebab on the same platter; common Turkish restaurant presentation.
 
 ## Serving
-On a wooden or heated metal platter at the centre of the table. Drink: ayran (traditional), rakı (the aniseed spirit), Türk kahvesi after the meal. As a Sunday lunch, weekend barbecue, or restaurant dinner.
+- On a wooden or heated metal platter at the centre of the table. Drink: ayran (traditional), rakı (the aniseed spirit), Türk kahvesi after the meal. As a Sunday lunch, weekend barbecue, or restaurant dinner.
 
 ## Storage
 - Best eaten fresh off the grill.

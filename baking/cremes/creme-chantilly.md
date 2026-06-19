@@ -48,7 +48,7 @@ Crème Chantilly is the building block for half the French dessert kitchen: ligh
 - Dairy cream with higher fat content (at least 35%) produces the most stable whipped cream
 
 ## Serving
-Serve crème Chantilly chilled alongside fresh fruit compotes, warm desserts, or alone with fresh berries. Use as a filling between cake layers, a topping for warm desserts, or part of more complex cream preparations. Chocolate and coffee variations pair beautifully with both light and rich desserts.
+- Serve crème Chantilly chilled alongside fresh fruit compotes, warm desserts, or alone with fresh berries. Use as a filling between cake layers, a topping for warm desserts, or part of more complex cream preparations. Chocolate and coffee variations pair beautifully with both light and rich desserts.
 
 ## Storage
 Whipped crème Chantilly is best served immediately after preparation. Refrigerate for up to 24 hours; the cream will gradually separate slightly. If separation occurs, gently re-whip for 30 seconds. For longer storage (up to 2 days), cover the surface with plastic wrap to prevent skin formation and protect flavor from absorbing other odors.

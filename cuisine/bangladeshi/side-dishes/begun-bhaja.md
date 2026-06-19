@@ -57,7 +57,7 @@ Begun bhaja is the Bangladeshi answer to "what's the side dish": thick aubergine
 - **Without sugar:** plain Bangladeshi begun bhaja often skips the sugar; the Bengali sweet edge is more pronounced across the border.
 
 ## Serving
-A pile of warm slices next to plain rice and dal · a spoon of plain yogurt on top · slit chilli · a wedge of lime
+- A pile of warm slices next to plain rice and dal · a spoon of plain yogurt on top · slit chilli · a wedge of lime
 
 ## Storage
 - Eats best the moment it leaves the pan

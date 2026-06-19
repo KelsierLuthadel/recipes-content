@@ -52,7 +52,7 @@ Lemon-leaf tea is the everyday bush tea of Fijian villages: a handful of fresh l
 - **Mint version:** add a small handful of fresh mint at the end of the steep; common in the Indo-Fijian household.
 
 ## Serving
-Serve hot in a tin cup or thick mug · with a wedge of fresh lemon on the saucer · at any hour of the day · with a slice of cassava cake or a babakau · on the verandah at sunset · as the welcome drink for guests · for a Fijian cold remedy.
+- Serve hot in a tin cup or thick mug · with a wedge of fresh lemon on the saucer · at any hour of the day · with a slice of cassava cake or a babakau · on the verandah at sunset · as the welcome drink for guests · for a Fijian cold remedy.
 
 ## Storage
 - Best drunk fresh; the bright character fades within the hour.

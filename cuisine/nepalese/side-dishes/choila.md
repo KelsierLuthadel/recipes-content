@@ -77,7 +77,7 @@ Choila (or chhwela) is a Newari dish from the Kathmandu Valley, traditionally ma
 - **With beaten rice (chiura):** serve a handful of beaten rice (chura, available at South Asian groceries) alongside; eaten in alternating bites of meat and rice.
 
 ## Serving
-The classic Newari samay baji platter ("auspicious food") includes choila, beaten rice (chiura), black soybeans, hard-boiled egg, fried fish and a small dish of dipping spice. Choila on its own is bar food: with raksi (rice spirit), tongba (hot millet beer) or any cold lager.
+- The classic Newari samay baji platter ("auspicious food") includes choila, beaten rice (chiura), black soybeans, hard-boiled egg, fried fish and a small dish of dipping spice. Choila on its own is bar food: with raksi (rice spirit), tongba (hot millet beer) or any cold lager.
 
 ## Storage
 - Best eaten warm and fresh. Refrigerates 2 days; the meat firms up and the herbs darken.

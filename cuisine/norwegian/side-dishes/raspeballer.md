@@ -103,7 +103,7 @@ Raspeballer (also called komle, klubb, kumle or potetball depending on the valle
 - **Sweet on savoury:** The golden syrup or jam over the dumpling is non-negotiable Norwegian tradition. It balances the salty bacon and the dense starch.
 
 ## Serving
-The Thursday lunch dish of western Norway. Serve as a hearty winter midday meal with dark beer or aquavit alongside.
+- The Thursday lunch dish of western Norway. Serve as a hearty winter midday meal with dark beer or aquavit alongside.
 
 ## Storage
 - Refrigerates 4 days; reheats well in simmering broth (don't microwave - they go rubbery).

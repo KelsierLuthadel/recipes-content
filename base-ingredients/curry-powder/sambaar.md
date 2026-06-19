@@ -72,15 +72,15 @@ Sambar powder is the building block for south Indian lentil and vegetable cooker
 - **Heat Adjustment:** Deseed chillies for milder sambar; leave seeds for hotter.
 
 ## Variations
-**Milder Version:** Thread 4 chillies and remove all seeds.
-**Thicker Consistency:** Add 1 additional teaspoon of mung dhal to the roasting.
-**Extra Aromatic:** Add 1 teaspoon coriander seeds to the seed-spice roasting.
+- **Milder Version:** Thread 4 chillies and remove all seeds.
+- **Thicker Consistency:** Add 1 additional teaspoon of mung dhal to the roasting.
+- **Extra Aromatic:** Add 1 teaspoon coriander seeds to the seed-spice roasting.
 
 ## Serving
-Use in: South Indian vegetable curries, sambar soup, lentil dishes, braised vegetable combinations
-Typical ratio: 2-3 teaspoons per portion depending on dish
-Application: Fry in oil with vegetables; add liquid and ingredients
-Temperature: Can be stirred in during cooking (doesn't require blooming like some powders)
+- Use in: South Indian vegetable curries, sambar soup, lentil dishes, braised vegetable combinations
+- Typical ratio: 2-3 teaspoons per portion depending on dish
+- Application: Fry in oil with vegetables; add liquid and ingredients
+- Temperature: Can be stirred in during cooking (doesn't require blooming like some powders)
 
 ## Storage
 - Store in airtight jar in cool, dark place away from light and heat

@@ -46,7 +46,7 @@ Salammbôs are the elegant pear-shaped choux pastries of French pâtisserie trad
 - Crystallized violets are delicate and can dissolve in moisture; handle gently and place them immediately before the caramel fully sets
 
 ## Serving
-Arrange the salammbos on a decorative plate or tiered stand to showcase their elegant shape and violet garnish. Serve at room temperature as part of petit fours or a dessert buffet. The contrast between the crisp caramel exterior, creamy filling, and gently sweetened choux is the appeal.
+- Arrange the salammbos on a decorative plate or tiered stand to showcase their elegant shape and violet garnish. Serve at room temperature as part of petit fours or a dessert buffet. The contrast between the crisp caramel exterior, creamy filling, and gently sweetened choux is the appeal.
 
 ## Storage
 The baked choux can be made 1-2 days ahead and kept in an airtight container at room temperature. Assemble by filling and dipping in caramel no more than 2-3 hours before serving; beyond that, the caramel coating gradually absorbs moisture from air and becomes sticky rather than crisp. The candied violets must be added fresh just before serving.

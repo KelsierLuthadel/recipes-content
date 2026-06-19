@@ -64,12 +64,12 @@ Kalo is the dense dark millet-and-cassava staple of eastern Uganda, particularly
 - **Don't refrigerate longer than a day:** kalo dries out and gets unpleasant when chilled. If you have leftovers, eat them by the next day.
 
 ## Variations
-**Kalo with red sorghum:** the eastern Uganda variant where red sorghum flour replaces the millet for an even darker porridge with a more pronounced sourish-fermented note. Common during sorghum harvests.
-**Kalo with millet and maize:** some households mix millet flour with maize meal instead of cassava for a lighter-coloured kalo with a slightly sweeter character. The blend ratio is the same.
-**Sourdough kalo:** fermenting the millet flour with water for 12-24 hours before cooking gives a noticeably sour-funky character; the most traditional Bagisu version, served at celebration meals. Skip the salt if making this.
+- **Kalo with red sorghum:** the eastern Uganda variant where red sorghum flour replaces the millet for an even darker porridge with a more pronounced sourish-fermented note. Common during sorghum harvests.
+- **Kalo with millet and maize:** some households mix millet flour with maize meal instead of cassava for a lighter-coloured kalo with a slightly sweeter character. The blend ratio is the same.
+- **Sourdough kalo:** fermenting the millet flour with water for 12-24 hours before cooking gives a noticeably sour-funky character; the most traditional Bagisu version, served at celebration meals. Skip the salt if making this.
 
 ## Serving
-Eat with the right hand, using rolled balls of kalo to scoop stew off a shared plate. The traditional partners are beef and groundnut stew, smoked-fish-and-tomato sauce, or any rich Bagisu celebration dish. Plain kalo is undressed; the flavour comes from what you scoop with it.
+- Eat with the right hand, using rolled balls of kalo to scoop stew off a shared plate. The traditional partners are beef and groundnut stew, smoked-fish-and-tomato sauce, or any rich Bagisu celebration dish. Plain kalo is undressed; the flavour comes from what you scoop with it.
 
 ## Storage
 - Best eaten warm the day it's made; the discs harden and dry as they cool.

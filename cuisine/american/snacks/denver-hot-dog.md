@@ -88,14 +88,14 @@ The Denver hot dog is Colorado's distinctive contribution to the regional hot-do
 - **Cayenne adjustable:** Denver chile ranges from mild to scorching. Start moderate, escalate.
 
 ## Variations
-**Christmas style:** half Denver green chile + half NM red chile sauce on the same dog.
-**With shredded cheese:** add grated Monterey Jack or cheddar under the chile sauce.
-**Spicier:** double cayenne + fresh chopped serrano chillies.
-**Vegetarian green chile:** swap the pork for finely chopped portobello mushrooms; same technique.
-**With pulled pork:** add a forkful of pulled pork between the dog and the sauce.
+- **Christmas style:** half Denver green chile + half NM red chile sauce on the same dog.
+- **With shredded cheese:** add grated Monterey Jack or cheddar under the chile sauce.
+- **Spicier:** double cayenne + fresh chopped serrano chillies.
+- **Vegetarian green chile:** swap the pork for finely chopped portobello mushrooms; same technique.
+- **With pulled pork:** add a forkful of pulled pork between the dog and the sauce.
 
 ## Serving
-At Coors Field during a Rockies game. At a Denver food cart. At home with crinkle fries and a Colorado beer.
+- At Coors Field during a Rockies game. At a Denver food cart. At home with crinkle fries and a Colorado beer.
 
 ## Storage
 - Denver green chile refrigerates 5 days; freezes 3 months (better the next day).

@@ -107,14 +107,14 @@ Pilaf me pula is the cousin of the bare Albanian rice pilaf, lifted into a one-p
 - **Rest 10 minutes covered after the chicken goes in:** the chicken warms gradually rather than drying out from direct heat.
 
 ## Variations
-**Pilaf me pula dhe kos (with yoghurt):** stir 3 tablespoons cold yoghurt through the warm rice at the rest stage for a creamier finish.
-**Pilaf me pula dhe arra:** scatter 50 g toasted pine nuts over the finished pilaf.
-**Pilaf me rrush thatë:** add 50 g raisins soaked in hot water for 10 minutes; fold through with the chicken.
-**Pilaf me pula dhe perime:** add 100 g cooked peas and 50 g diced carrot at the rest stage for a vegetable-rich version.
-**Saffron pilaf me pula:** soak 1 teaspoon saffron threads in 50 ml warm water; add with the stock for a wedding-table version.
+- **Pilaf me pula dhe kos (with yoghurt):** stir 3 tablespoons cold yoghurt through the warm rice at the rest stage for a creamier finish.
+- **Pilaf me pula dhe arra:** scatter 50 g toasted pine nuts over the finished pilaf.
+- **Pilaf me rrush thatë:** add 50 g raisins soaked in hot water for 10 minutes; fold through with the chicken.
+- **Pilaf me pula dhe perime:** add 100 g cooked peas and 50 g diced carrot at the rest stage for a vegetable-rich version.
+- **Saffron pilaf me pula:** soak 1 teaspoon saffron threads in 50 ml warm water; add with the stock for a wedding-table version.
 
 ## Serving
-At an Albanian Sunday lunch (the traditional setting) · for a Tirana family name-day · as the centrepiece of an Albanian iftar table during Ramadan · with cold kos yoghurt and pickled peppers · for a winter weeknight one-pot supper · at a Kosovo wedding alongside roast lamb.
+- At an Albanian Sunday lunch (the traditional setting) · for a Tirana family name-day · as the centrepiece of an Albanian iftar table during Ramadan · with cold kos yoghurt and pickled peppers · for a winter weeknight one-pot supper · at a Kosovo wedding alongside roast lamb.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

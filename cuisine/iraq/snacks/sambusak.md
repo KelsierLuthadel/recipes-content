@@ -93,13 +93,13 @@ Sambusak are the small Iraqi savoury pastries, dough rounds filled with sumac-an
 - **Fried vs baked:** Fried is the traditional festive version; baked is everyday and lighter.
 
 ## Variations
-**Meat sambusak (sambusak basha):** Replace chickpea filling with 250 g lamb mince browned with onion, baharat and pine nuts. Common in Iraqi Muslim households.
-**Cheese sambusak (sambusak jibneh):** Mix 200 g feta with 100 g grated halloumi, an egg yolk and chopped parsley. Lighter, melty.
+- **Meat sambusak (sambusak basha):** Replace chickpea filling with 250 g lamb mince browned with onion, baharat and pine nuts. Common in Iraqi Muslim households.
+- **Cheese sambusak (sambusak jibneh):** Mix 200 g feta with 100 g grated halloumi, an egg yolk and chopped parsley. Lighter, melty.
 
 ## Serving
-Serve with: pickled turnips (lift), amba (Iraqi mango pickle), or a simple cucumber-tomato salad with lemon.
-Temperature: warm, ideally within 1 hour of cooking.
-Occasion: Shabbat, brises, Hanukkah, festival mezze.
+- Serve with: pickled turnips (lift), amba (Iraqi mango pickle), or a simple cucumber-tomato salad with lemon.
+- Temperature: warm, ideally within 1 hour of cooking.
+- Occasion: Shabbat, brises, Hanukkah, festival mezze.
 
 ## Storage
 - Keeps 3 days refrigerated; reheat at 200°C oven for 6-8 minutes (never microwave).

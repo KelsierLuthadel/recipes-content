@@ -82,14 +82,14 @@ Mango sticky rice is one of Southeast Asia's most-beloved desserts and arguably 
 - **Pandan leaf is optional but very traditional:** adds the unmistakable Southeast Asian floral note.
 
 ## Variations
-**Black sticky rice variant:** use half white sticky rice, half black sticky rice for a striped purple-and-white effect.
-**Durian sticky rice:** swap mango for ripe durian; the more aggressive Lao variant.
-**With ice cream:** add a small scoop of coconut ice cream alongside, the modern Lao-fusion variant.
-**Coconut sticky rice with banana:** swap mango for ripe banana; the budget variant.
-**Out-of-season (substitute):** use frozen mango chunks defrosted and dressed with a teaspoon of lime juice and sugar.
+- **Black sticky rice variant:** use half white sticky rice, half black sticky rice for a striped purple-and-white effect.
+- **Durian sticky rice:** swap mango for ripe durian; the more aggressive Lao variant.
+- **With ice cream:** add a small scoop of coconut ice cream alongside, the modern Lao-fusion variant.
+- **Coconut sticky rice with banana:** swap mango for ripe banana; the budget variant.
+- **Out-of-season (substitute):** use frozen mango chunks defrosted and dressed with a teaspoon of lime juice and sugar.
 
 ## Serving
-At a Lao market stall in mango season (March-July; the traditional setting) · at a Lao Pi Mai (New Year, April) celebration · at a Lao home as dessert after a heavy meal · at a Lao temple festival · at home as the traditional Lao/Thai sweet · paired with strong Lao coffee or jasmine tea.
+- At a Lao market stall in mango season (March-July; the traditional setting) · at a Lao Pi Mai (New Year, April) celebration · at a Lao home as dessert after a heavy meal · at a Lao temple festival · at home as the traditional Lao/Thai sweet · paired with strong Lao coffee or jasmine tea.
 
 ## Storage
 - Best within 4 hours of assembly.

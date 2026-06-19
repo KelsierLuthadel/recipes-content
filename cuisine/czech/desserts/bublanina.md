@@ -81,7 +81,7 @@ Bublanina ("bubble cake") gets its name from the appearance of cherries, plums o
 - **Single layer of fruit:** Don't double-layer - the batter underneath stays raw. One layer scattered across the top is the right amount.
 
 ## Serving
-Czech afternoon coffee with a square of bublanina. With ice cream as a dessert. With softly whipped cream as a slightly more elaborate version.
+- Czech afternoon coffee with a square of bublanina. With ice cream as a dessert. With softly whipped cream as a slightly more elaborate version.
 
 ## Storage
 - Room temperature in a tin 3 days; the fruit stays juicy.

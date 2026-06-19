@@ -58,7 +58,7 @@ Sauce Normande is the building block for the classic French sole à la Normande 
 - **Mussel juice:** If available from mussels cooked à la mari nière, add for authentic Norman flavour; optional but recommended.
 
 ## Serving
-Serve immediately with sole, other white fish fillets, or shellfish. Classic pairing for sole à la Normande.
+- Serve immediately with sole, other white fish fillets, or shellfish. Classic pairing for sole à la Normande.
 
 ## Storage
 - Best eaten immediately after preparation.

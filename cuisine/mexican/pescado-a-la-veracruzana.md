@@ -103,13 +103,13 @@ Pescado a la Veracruzana (literally "Veracruz-style fish") is one of Mexico's mo
 - **Don't overcook:** 12-15 minutes at 180°C is right; flesh should just flake.
 
 ## Variations
-**Whole-fish version (huachinango entero a la Veracruzana):** use whole red snapper; score the skin; cook 25-30 minutes in the sauce. The traditional restaurant presentation.
-**Spicier:** double the pickled jalapeños and add 1 fresh habanero; properly fierce Veracruz.
-**With pine nuts:** add 50 g of pine nuts to the sauce; gives extra richness.
-**Coastal-vegetarian version (chayotes a la Veracruzana):** swap fish for cubed chayote squash; cook the same way; surprisingly excellent.
+- **Whole-fish version (huachinango entero a la Veracruzana):** use whole red snapper; score the skin; cook 25-30 minutes in the sauce. The traditional restaurant presentation.
+- **Spicier:** double the pickled jalapeños and add 1 fresh habanero; properly fierce Veracruz.
+- **With pine nuts:** add 50 g of pine nuts to the sauce; gives extra richness.
+- **Coastal-vegetarian version (chayotes a la Veracruzana):** swap fish for cubed chayote squash; cook the same way; surprisingly excellent.
 
 ## Serving
-On wide plates over white rice with the sauce ladled over. Sliced avocado, lime wedges, warm corn tortillas. Drink: cold Corona or Pacifico beer, a Mexican white wine, or fresh agua de jamaica (hibiscus). As a Veracruz Sunday lunch.
+- On wide plates over white rice with the sauce ladled over. Sliced avocado, lime wedges, warm corn tortillas. Drink: cold Corona or Pacifico beer, a Mexican white wine, or fresh agua de jamaica (hibiscus). As a Veracruz Sunday lunch.
 
 ## Storage
 - Best eaten fresh; fish doesn't reheat well.

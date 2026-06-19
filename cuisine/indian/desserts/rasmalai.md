@@ -90,14 +90,14 @@ Bengal's milky sweet: spongy paneer dumplings poached in sugar syrup, then float
 - **The squeeze before the rabri:** Important. Syrup-heavy dumplings dilute the rabri and the flavour is muddled.
 
 ## Variations
-**Mango rasmalai:** Add 4 tablespoons mango pulp to the cool rabri for a summer version.
-**Pistachio rasmalai:** Stir 50 g pistachio paste into the rabri; the colour pales green.
-**Quick version:** Use shop-bought rasgulla in syrup; squeeze gently; float in homemade rabri. Cuts an hour off and the result is still very good.
+- **Mango rasmalai:** Add 4 tablespoons mango pulp to the cool rabri for a summer version.
+- **Pistachio rasmalai:** Stir 50 g pistachio paste into the rabri; the colour pales green.
+- **Quick version:** Use shop-bought rasgulla in syrup; squeeze gently; float in homemade rabri. Cuts an hour off and the result is still very good.
 
 ## Serving
-Serve: chilled in small bowls, with plenty of rabri.
-Occasion: Diwali, Eid, weddings, celebratory family meals.
-Temperature: cold (the rabri should be fridge-cold, not just cool).
+- Serve: chilled in small bowls, with plenty of rabri.
+- Occasion: Diwali, Eid, weddings, celebratory family meals.
+- Temperature: cold (the rabri should be fridge-cold, not just cool).
 
 ## Storage
 - Keeps 3 days refrigerated in the rabri.

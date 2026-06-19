@@ -69,12 +69,12 @@ A 35-minute pizza for a weeknight when nobody's got time for a long prove. The d
 - **Don't overload:** This is a thin pizza. Pile the toppings on too thick and the bread will go soggy.
 
 ## Variations
-**'Nduja:** Swap the sausagemeat for nduja for a smokier, hotter pizza.
-**Vegetarian:** Drop the sausagemeat; double the ricotta and add roasted cherry tomatoes alongside the fennel.
+- **'Nduja:** Swap the sausagemeat for nduja for a smokier, hotter pizza.
+- **Vegetarian:** Drop the sausagemeat; double the ricotta and add roasted cherry tomatoes alongside the fennel.
 
 ## Serving
-Serve with: A peppery rocket salad with lemon and olive oil, or a glass of light Italian red
-Garnish with: A scatter of extra fennel fronds and a drizzle of chilli oil
+- Serve with: A peppery rocket salad with lemon and olive oil, or a glass of light Italian red
+- Garnish with: A scatter of extra fennel fronds and a drizzle of chilli oil
 
 ## Storage
 - Best eaten fresh from under the grill; the dough toughens as it cools

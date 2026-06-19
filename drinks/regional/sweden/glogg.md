@@ -83,14 +83,14 @@ Glögg (Swedish for "mulled wine") is one of the most ritualised drinks in Swedi
 - **24-hour infusion improves depth:** worth doing if you have time.
 
 ## Variations
-**Vit glögg (white glögg):** swap red wine for a dry white wine (riesling, gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
-**Bärglögg (berry glögg):** swap half the wine for lingonberry or elderberry juice; a less alcoholic Christmas-market version.
-**Children's glögg:** non-alcoholic, swap the wine for cranberry or red grape juice; same spices, same raisins-and-almonds.
-**Brewed glögg:** Swedish supermarkets sell pre-mixed bottled glögg ready to warm; quicker but less traditional.
-**Glögg-toddy:** with a generous splash of hot water for a milder, less wine-forward version.
+- **Vit glögg (white glögg):** swap red wine for a dry white wine (riesling, gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
+- **Bärglögg (berry glögg):** swap half the wine for lingonberry or elderberry juice; a less alcoholic Christmas-market version.
+- **Children's glögg:** non-alcoholic, swap the wine for cranberry or red grape juice; same spices, same raisins-and-almonds.
+- **Brewed glögg:** Swedish supermarkets sell pre-mixed bottled glögg ready to warm; quicker but less traditional.
+- **Glögg-toddy:** with a generous splash of hot water for a milder, less wine-forward version.
 
 ## Serving
-At every Swedish Christmas event from late November to Twelfth Night · at Lucia Day breakfast (December 13th) · at a julbord starter · at a workplace Christmas party · at a candlelit dinner during Advent · at a small Christmas Eve gathering.
+- At every Swedish Christmas event from late November to Twelfth Night · at Lucia Day breakfast (December 13th) · at a julbord starter · at a workplace Christmas party · at a candlelit dinner during Advent · at a small Christmas Eve gathering.
 
 ## Storage
 - Made glögg refrigerates 2 weeks; reheat gently each time.

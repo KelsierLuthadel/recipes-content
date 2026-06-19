@@ -101,16 +101,16 @@ Picarones are Peru's colonial-era contribution to the global doughnut tradition,
 - **Eat hot:** picarones lose 80% of their charm 15 minutes after frying.
 
 ## Variations
-**Picarones with anise-flavoured syrup:** add 2 star anise to the chancaca syrup, the modern variant.
-**Pumpkin-only picarones:** for those who can't find good sweet potato; use 500 g pumpkin / butternut squash.
-**Sweet-potato-only picarones:** the lighter, smaller version popular in northern Peru.
-**Chocolate-drizzled picarones (modern):** drizzle melted dark chocolate over after the chancaca syrup, the upscale Lima dessert variant.
-**Picarones with cinnamon ice cream:** serve with a scoop of cinnamon ice cream on the side, the modern restaurant variant.
-**Pisco-spiked syrup:** add 30 ml of pisco to the chancaca syrup just before serving.
-**Mini picarones:** smaller rings (3 cm diameter); for canapés or kids' portions.
+- **Picarones with anise-flavoured syrup:** add 2 star anise to the chancaca syrup, the modern variant.
+- **Pumpkin-only picarones:** for those who can't find good sweet potato; use 500 g pumpkin / butternut squash.
+- **Sweet-potato-only picarones:** the lighter, smaller version popular in northern Peru.
+- **Chocolate-drizzled picarones (modern):** drizzle melted dark chocolate over after the chancaca syrup, the upscale Lima dessert variant.
+- **Picarones with cinnamon ice cream:** serve with a scoop of cinnamon ice cream on the side, the modern restaurant variant.
+- **Pisco-spiked syrup:** add 30 ml of pisco to the chancaca syrup just before serving.
+- **Mini picarones:** smaller rings (3 cm diameter); for canapés or kids' portions.
 
 ## Serving
-At a Lima street stall (the traditional setting; especially around festival times) · at a Peruvian Independence Day evening · at the Mistura food festival · at a Lima criolla restaurant · at a Peruvian household for the dessert course · at home as a Sunday-night project · paired with hot coffee or a glass of warm spiced wine.
+- At a Lima street stall (the traditional setting; especially around festival times) · at a Peruvian Independence Day evening · at the Mistura food festival · at a Lima criolla restaurant · at a Peruvian household for the dessert course · at home as a Sunday-night project · paired with hot coffee or a glass of warm spiced wine.
 
 ## Storage
 - Best within 30 minutes of frying. After an hour the texture firms.

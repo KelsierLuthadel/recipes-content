@@ -88,7 +88,7 @@ Chotpoti is the small-bowl street snack of Bangladesh, sold from glass-fronted c
 - **Spicier:** double the dried chillies in the bhuna chaat masala; add 1 sliced bird's-eye chilli to each bowl.
 
 ## Serving
-Hot or warm in a small bowl with a small spoon · lime wedge · slit chilli · a side bowl of fuchka if you have them · a glass of borhani alongside
+- Hot or warm in a small bowl with a small spoon · lime wedge · slit chilli · a side bowl of fuchka if you have them · a glass of borhani alongside
 
 ## Storage
 - Chickpea base keeps 3 days refrigerated

@@ -106,15 +106,15 @@ Dundee cake came out of the Scottish city of Dundee in the early 19th century, w
 - **Soak the fruit (if you have time):** the whisky soak transforms the cake. If you skip, just stir whisky into the dry fruit and proceed.
 
 ## Variations
-**Christmas-Dundee hybrid:** add 100 g mixed spice + 100 g chopped dates to the fruit; ice the top with marzipan and white royal icing for a Christmas version (loses the almond-ring signature but gains Christmas-cake character).
-**Marmalade-loaded Dundee:** add 4 extra tablespoons of Dundee marmalade to the batter, extra orange-bitter depth.
-**Whisky-loaded Dundee:** double the whisky in the soak and add another tablespoon to the batter, boozier.
-**Smaller Dundee cake:** make in a 15 cm tin (halve all quantities); for a smaller household.
-**Dundee tea bread (loaf version):** bake in a loaf tin for 90 minutes instead, easier to slice for tea-time sandwiches.
-**Gluten-free Dundee:** use gluten-free self-raising flour + add ½ teaspoon xanthan gum; otherwise identical.
+- **Christmas-Dundee hybrid:** add 100 g mixed spice + 100 g chopped dates to the fruit; ice the top with marzipan and white royal icing for a Christmas version (loses the almond-ring signature but gains Christmas-cake character).
+- **Marmalade-loaded Dundee:** add 4 extra tablespoons of Dundee marmalade to the batter, extra orange-bitter depth.
+- **Whisky-loaded Dundee:** double the whisky in the soak and add another tablespoon to the batter, boozier.
+- **Smaller Dundee cake:** make in a 15 cm tin (halve all quantities); for a smaller household.
+- **Dundee tea bread (loaf version):** bake in a loaf tin for 90 minutes instead, easier to slice for tea-time sandwiches.
+- **Gluten-free Dundee:** use gluten-free self-raising flour + add ½ teaspoon xanthan gum; otherwise identical.
 
 ## Serving
-At a Scottish high tea with strong tea and butter (the traditional setting) · at a Scottish wedding cake table · at Christmas as the lighter alternative to traditional Christmas cake · at a Scottish family birthday tea · at a Highland golf clubhouse for the 19th-hole · at home with a slice and a small dram on a Sunday afternoon · on a Scottish bed-and-breakfast trolley with the morning newspaper.
+- At a Scottish high tea with strong tea and butter (the traditional setting) · at a Scottish wedding cake table · at Christmas as the lighter alternative to traditional Christmas cake · at a Scottish family birthday tea · at a Highland golf clubhouse for the 19th-hole · at home with a slice and a small dram on a Sunday afternoon · on a Scottish bed-and-breakfast trolley with the morning newspaper.
 
 ## Storage
 - Keeps wrapped in foil in a sealed tin for 3 weeks (matures beautifully in the first week).

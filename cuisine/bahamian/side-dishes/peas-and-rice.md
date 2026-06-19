@@ -88,13 +88,13 @@ Peas and rice is the Bahamas' most beloved side and one of the most recognisable
 - **Don't lift the lid during cooking:** the rice cooks by absorption-and-steam under the lid; every glance lets steam escape and gives uneven cooking. 20 minutes covered, then 10 minutes resting off-heat, is the proper timing.
 
 ## Variations
-**Peas and rice with coconut milk:** swap half the chicken stock for coconut milk for a richer creamier version; common variation across the southern Bahamas.
-**Black-eyed pea version:** swap the pigeon peas for black-eyed peas; common substitute when pigeon peas aren't available. The colour goes slightly browner and the flavour shifts but the dish works.
-**Vegetarian peas and rice:** skip the salt pork; cook the aromatics in 3 tablespoons of vegetable oil with 1 teaspoon of smoked paprika to mimic the smoky note. Use vegetable stock.
-**With diced ham:** add 200 g of diced cooked ham along with the peas; common Sunday dinner version.
+- **Peas and rice with coconut milk:** swap half the chicken stock for coconut milk for a richer creamier version; common variation across the southern Bahamas.
+- **Black-eyed pea version:** swap the pigeon peas for black-eyed peas; common substitute when pigeon peas aren't available. The colour goes slightly browner and the flavour shifts but the dish works.
+- **Vegetarian peas and rice:** skip the salt pork; cook the aromatics in 3 tablespoons of vegetable oil with 1 teaspoon of smoked paprika to mimic the smoky note. Use vegetable stock.
+- **With diced ham:** add 200 g of diced cooked ham along with the peas; common Sunday dinner version.
 
 ## Serving
-The side to every Bahamian main course. Alongside cracked conch, stewed chicken, fried grouper, conch fritters or any seafood. A sprinkle of Bahamian hot sauce or a squeeze of lime over each portion. Drink: cold Kalik beer (the Bahamian lager); or sky juice (gin and coconut water).
+- The side to every Bahamian main course. Alongside cracked conch, stewed chicken, fried grouper, conch fritters or any seafood. A sprinkle of Bahamian hot sauce or a squeeze of lime over each portion. Drink: cold Kalik beer (the Bahamian lager); or sky juice (gin and coconut water).
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

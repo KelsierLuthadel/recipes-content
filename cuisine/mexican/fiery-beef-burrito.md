@@ -69,13 +69,13 @@ A heat-forward Mexican-American burrito for anyone who wants the chilli to do re
 - **Rolling technique:** Roll tightly to prevent fillings from spilling out when eating.
 
 ## Variations
-**Milder version:** Replace chile de árbol salsa with a mild salsa roja or pico de gallo
-**Smoky heat:** Use chipotle salsa instead of chile de árbol for a different heat profile
-**Extra protein:** Add a layer of refried beans beneath the beef for extra substance
-**With vegetables:** Add sautéed peppers and onions between the beef and rice
+- **Milder version:** Replace chile de árbol salsa with a mild salsa roja or pico de gallo
+- **Smoky heat:** Use chipotle salsa instead of chile de árbol for a different heat profile
+- **Extra protein:** Add a layer of refried beans beneath the beef for extra substance
+- **With vegetables:** Add sautéed peppers and onions between the beef and rice
 
 ## Serving
-Serve with: Extra chile de árbol red salsa, sour cream, lime wedges, and cold beverages to cool the heat
+- Serve with: Extra chile de árbol red salsa, sour cream, lime wedges, and cold beverages to cool the heat
 
 ## Storage
 - Best eaten immediately while warm and crispy

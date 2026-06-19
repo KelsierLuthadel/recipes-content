@@ -70,7 +70,7 @@ A West Indian one-pot you reach for when the fish looks good at the market and y
 - **Timing:** Don't overcook the fish; it should be just opaque.
 
 ## Serving
-Serve hot with crusty bread or rice. Garnish with fresh herbs if desired.
+- Serve hot with crusty bread or rice. Garnish with fresh herbs if desired.
 
 ## Storage
 - Refrigerate up to 2 days; reheat gently.

@@ -37,7 +37,7 @@ Chocolate crème pâtissière is the building block for chocolate tarts, éclair
 - A skin forms naturally as the cream cools; prevent this by dusting with icing sugar or dotting with butter
 
 ## Serving
-Serve chilled as a filling for tartlets, éclairs, or pastry-based desserts. The cream can be piped directly into pastry shells or spread smoothly with a palette knife. Pairs beautifully with fresh berries, poached pears, or caramelized fruits. Often garnished with cocoa powder or chocolate shavings for added elegance.
+- Serve chilled as a filling for tartlets, éclairs, or pastry-based desserts. The cream can be piped directly into pastry shells or spread smoothly with a palette knife. Pairs beautifully with fresh berries, poached pears, or caramelized fruits. Often garnished with cocoa powder or chocolate shavings for added elegance.
 
 ## Storage
 Store the finished crème pâtissière in an airtight container in the refrigerator for up to 3 days. If you need to prepare it in advance, cover the surface directly with plastic wrap to prevent a skin from forming. The cream can be briefly warmed and stirred to restore its smooth consistency before use.

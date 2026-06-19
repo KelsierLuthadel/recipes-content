@@ -73,13 +73,13 @@ Croquetas are the Cuban bar-snack you find on every plate at every Miami café a
 - **Damp palms:** Stop the filling sticking when shaping. Have a small bowl of water nearby.
 
 ## Variations
-**Pollo (chicken):** Replace ham with finely chopped cooked chicken thigh; add an extra pinch of salt and a teaspoon of dried oregano.
-**Bacalao (salt cod):** Use 200 g flaked, desalted cooked salt cod instead of ham; add 1 tablespoon chopped parsley.
-**Queso y jamón:** Add 50 g grated mature cheddar or Gouda with the ham for a melty croqueta.
+- **Pollo (chicken):** Replace ham with finely chopped cooked chicken thigh; add an extra pinch of salt and a teaspoon of dried oregano.
+- **Bacalao (salt cod):** Use 200 g flaked, desalted cooked salt cod instead of ham; add 1 tablespoon chopped parsley.
+- **Queso y jamón:** Add 50 g grated mature cheddar or Gouda with the ham for a melty croqueta.
 
 ## Serving
-Serve with: Lime wedges, a small bowl of mojo or salsa verde, cold beer or a glass of dry sherry.
-Garnish with: Fresh parsley, a sprinkle of paprika.
+- Serve with: Lime wedges, a small bowl of mojo or salsa verde, cold beer or a glass of dry sherry.
+- Garnish with: Fresh parsley, a sprinkle of paprika.
 
 ## Storage
 - Shaped, breaded, uncooked croquetas freeze excellently 1 month. Fry from frozen, adding 1 extra minute.

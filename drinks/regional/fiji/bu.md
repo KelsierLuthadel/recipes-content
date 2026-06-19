@@ -52,7 +52,7 @@ Bu is the Fijian word for the young drinking coconut: harvested at the stage whe
 - **Chilled overnight:** the unopened coconut from the fridge gives the coldest possible serve.
 
 ## Serving
-Serve cool from the shade · with a paper straw · with a wedge of lime on the side · alongside fresh fruit · at the beach · at a Fijian roadside stall · as the everyday hot-afternoon drink.
+- Serve cool from the shade · with a paper straw · with a wedge of lime on the side · alongside fresh fruit · at the beach · at a Fijian roadside stall · as the everyday hot-afternoon drink.
 
 ## Storage
 - Whole unopened young coconuts keep 5-7 days refrigerated.

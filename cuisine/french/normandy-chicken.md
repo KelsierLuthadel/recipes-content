@@ -69,13 +69,13 @@ Normandy chicken brings together the bounty of France's northern apple region in
 - **Crème Fraîche Stability:** Stir gently after adding cream to avoid breaking the sauce; avoid vigorous boiling.
 
 ## Variations
-**With Fresh Thyme:** Add 2 sprigs fresh thyme to the braising liquid for earthier flavor.
-**Apple Cider Vinegar:** Add 1 teaspoon good apple cider vinegar at the end for extra tang.
-**With Mushrooms:** Add 150g button mushrooms alongside the apples for textural variety.
+- **With Fresh Thyme:** Add 2 sprigs fresh thyme to the braising liquid for earthier flavor.
+- **Apple Cider Vinegar:** Add 1 teaspoon good apple cider vinegar at the end for extra tang.
+- **With Mushrooms:** Add 150g button mushrooms alongside the apples for textural variety.
 
 ## Serving
-Serve with: Buttered egg noodles, creamed potatoes, or steamed leeks
-Garnish with: Fresh tarragon leaves, celery leaves, and a light dusting of white pepper
+- Serve with: Buttered egg noodles, creamed potatoes, or steamed leeks
+- Garnish with: Fresh tarragon leaves, celery leaves, and a light dusting of white pepper
 
 ## Storage
 - Keeps 3-4 days refrigerated (sauce will thicken slightly as it cools)

@@ -69,7 +69,7 @@ Ugali na sukuma is the everyday Kenyan dinner. Ugali is white maize meal stirred
 - **Spinach swap:** sukuma is often made with spinach when collards are scarce; the cooking is faster, the flavour milder.
 
 ## Serving
-Wedge of hot ugali · sukuma piled to the side · a small ramekin of pili pili · sometimes a fried egg or a piece of grilled meat on top · ice water, never wine.
+- Wedge of hot ugali · sukuma piled to the side · a small ramekin of pili pili · sometimes a fried egg or a piece of grilled meat on top · ice water, never wine.
 
 ## Storage
 - Ugali is best fresh. Day-old ugali firms up and is usually sliced and pan-fried in oil for breakfast.

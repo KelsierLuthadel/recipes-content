@@ -83,14 +83,14 @@ Welsh cider (seidr in Welsh) is a Monmouthshire and Herefordshire-borders tradit
 - **The Campaign for Real Welsh Cider (CAMRA Cymru)** lists the small Welsh cider houses worth supporting if you want commercial Welsh cider rather than home-pressed.
 
 ## Variations
-**Sparkling Welsh cider:** prime each bottle with 1/4 teaspoon sugar; cap; rest 3 weeks at room temperature.
-**Dry Welsh cider:** ferment to completion; no priming sugar; serve still.
-**Welsh cider hot toddy:** warm 200 ml cider with a slice of orange, a clove and a stick of cinnamon; the winter version.
-**Welsh wassail cup:** mull a litre of cider with apple slices, ginger, cinnamon and a slug of brandy for a Twelfth Night wassail (the orchard-blessing tradition).
-**Cider vinegar:** if a batch goes off, let it continue and you'll have raw cider vinegar in 4 months.
+- **Sparkling Welsh cider:** prime each bottle with 1/4 teaspoon sugar; cap; rest 3 weeks at room temperature.
+- **Dry Welsh cider:** ferment to completion; no priming sugar; serve still.
+- **Welsh cider hot toddy:** warm 200 ml cider with a slice of orange, a clove and a stick of cinnamon; the winter version.
+- **Welsh wassail cup:** mull a litre of cider with apple slices, ginger, cinnamon and a slug of brandy for a Twelfth Night wassail (the orchard-blessing tradition).
+- **Cider vinegar:** if a batch goes off, let it continue and you'll have raw cider vinegar in 4 months.
 
 ## Serving
-At a Welsh harvest supper (the traditional setting) · with Welsh leek and bacon pie · alongside a Glamorgan sausage ploughman's · at a Twelfth Night wassail in the orchard · with crumbly Caerphilly cheese and bara brith · on a Black Mountains walk after a long day.
+- At a Welsh harvest supper (the traditional setting) · with Welsh leek and bacon pie · alongside a Glamorgan sausage ploughman's · at a Twelfth Night wassail in the orchard · with crumbly Caerphilly cheese and bara brith · on a Black Mountains walk after a long day.
 
 ## Storage
 - Bottled Welsh cider keeps 12 months unopened in a cool dark cellar.

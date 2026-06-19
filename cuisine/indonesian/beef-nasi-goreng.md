@@ -63,13 +63,13 @@ Nasi goreng is Indonesia's national fried rice, the leftover-rescue dish that be
 - **Shrimp paste:** ½ teaspoon is enough to add the funky umami that sets nasi goreng apart from a generic fried rice.
 
 ## Variations
-**Chicken nasi goreng:** Replace the beef with diced chicken thigh; cook the same way but stir-fry rather than sear.
-**Vegetarian:** Drop the beef and stock cube; bulk up with mushrooms or tofu, and use vegetarian "fish" sauce in place of shrimp paste.
-**Top with a fried egg:** Crown each bowl with a sunny-side-up egg; the runny yolk emulsifies into the rice.
+- **Chicken nasi goreng:** Replace the beef with diced chicken thigh; cook the same way but stir-fry rather than sear.
+- **Vegetarian:** Drop the beef and stock cube; bulk up with mushrooms or tofu, and use vegetarian "fish" sauce in place of shrimp paste.
+- **Top with a fried egg:** Crown each bowl with a sunny-side-up egg; the runny yolk emulsifies into the rice.
 
 ## Serving
-Serve with: A wedge of lime, prawn crackers, and extra sambal at the table
-Garnish with: A handful of finely sliced spring onion or a fresh red chilli
+- Serve with: A wedge of lime, prawn crackers, and extra sambal at the table
+- Garnish with: A handful of finely sliced spring onion or a fresh red chilli
 
 ## Storage
 - Keeps 2 days refrigerated; reheat in a hot wok with a splash of water

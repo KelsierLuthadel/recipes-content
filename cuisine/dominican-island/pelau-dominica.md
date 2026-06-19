@@ -103,14 +103,14 @@ Pelau is the great Caribbean one-pot rice dish, found across the southern island
 - **The pigeon peas:** dried pigeon peas need to be cooked first (40 minutes simmer). Tinned is the everyday shortcut.
 
 ## Variations
-**With salt beef:** add 200 g of soaked salt beef alongside the chicken for a richer one-pot.
-**With pork:** swap the chicken for cubed pork shoulder; cook the same way.
-**Vegetarian:** leave out the chicken; double the pigeon peas; use vegetable stock; add 200 g of cubed pumpkin for body.
-**With raisins:** stir 60 g of raisins through with the rice for the Christmas variant.
-**Spicier:** burst the scotch bonnet with a wooden spoon during the steam-down.
+- **With salt beef:** add 200 g of soaked salt beef alongside the chicken for a richer one-pot.
+- **With pork:** swap the chicken for cubed pork shoulder; cook the same way.
+- **Vegetarian:** leave out the chicken; double the pigeon peas; use vegetable stock; add 200 g of cubed pumpkin for body.
+- **With raisins:** stir 60 g of raisins through with the rice for the Christmas variant.
+- **Spicier:** burst the scotch bonnet with a wooden spoon during the steam-down.
 
 ## Serving
-Serve hot in a wide bowl with a slice of ripe avocado on the side · with a wedge of lime · with a small green salad · with hot pepper sauce on the table · as the Dominican Sunday lunch · with a glass of cold sorrel or mauby.
+- Serve hot in a wide bowl with a slice of ripe avocado on the side · with a wedge of lime · with a small green salad · with hot pepper sauce on the table · as the Dominican Sunday lunch · with a glass of cold sorrel or mauby.
 
 ## Storage
 - The pelau keeps 3 days refrigerated; the flavour deepens overnight.

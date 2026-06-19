@@ -73,7 +73,7 @@ Bhajia (the Kenyan spelling of the Indian "bhajiya" or pakora) is one of the mos
 - **Onion bhajia:** finely sliced onion mixed with thicker batter and dropped as clumps (the Indian "onion pakora" form).
 
 ## Serving
-Hot from the fryer in a paper cone · tamarind chutney in a small dish · lemon wedge on the side · sometimes coriander chutney · sweet milk chai alongside.
+- Hot from the fryer in a paper cone · tamarind chutney in a small dish · lemon wedge on the side · sometimes coriander chutney · sweet milk chai alongside.
 
 ## Storage
 - Best within 30 minutes; the batter loses its crisp fast.

@@ -62,12 +62,12 @@ The breakfast burrito was invented in 1970s Albuquerque, New Mexico, where roads
 - **Egg timing:** Soft scrambled, not dry. The eggs continue cooking in the residual heat as the burrito sits, so undershoot.
 
 ## Variations
-**Bacon and egg:** Substitute crispy chopped bacon for the chorizo.
-**Carne asada:** Add chopped grilled steak alongside (or instead of) the chorizo.
-**Veggie:** Skip the meat, add black beans, roasted peppers and a handful of spinach.
+- **Bacon and egg:** Substitute crispy chopped bacon for the chorizo.
+- **Carne asada:** Add chopped grilled steak alongside (or instead of) the chorizo.
+- **Veggie:** Skip the meat, add black beans, roasted peppers and a handful of spinach.
 
 ## Serving
-Serve hot with hot sauce, salsa, mashed avocado, sour cream and coffee.
+- Serve hot with hot sauce, salsa, mashed avocado, sour cream and coffee.
 
 ## Storage
 - The filling keeps 3 days refrigerated; reheat gently in a pan

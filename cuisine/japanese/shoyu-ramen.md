@@ -86,13 +86,13 @@ Of the four main ramen styles, shoyu (soy) is the cleanest and most aromatic, le
 - **Stock keeps well:** The strained broth (before tare) freezes beautifully and is the most useful thing you can have in the freezer for a quick noodle bowl.
 
 ## Variations
-**Vegetarian shoyu:** Replace the chicken wings with a mix of mushrooms (3 cups dried) and umeboshi plums; double the kombu for body.
-**Tonkotsu-style:** Add 1 kg of pork bones with the chicken wings and simmer for 6 hours instead of 3 for a richer, cloudier broth.
-**Cold soup:** Chill the strained broth and serve as a hiyashi ramen with cold noodles in summer.
+- **Vegetarian shoyu:** Replace the chicken wings with a mix of mushrooms (3 cups dried) and umeboshi plums; double the kombu for body.
+- **Tonkotsu-style:** Add 1 kg of pork bones with the chicken wings and simmer for 6 hours instead of 3 for a richer, cloudier broth.
+- **Cold soup:** Chill the strained broth and serve as a hiyashi ramen with cold noodles in summer.
 
 ## Serving
-Serve with: A sheet of toasted nori on top, a few drops of chilli oil, and a wedge of lime
-Garnish with: A scatter of toasted sesame seeds and a curl of pickled bamboo (menma)
+- Serve with: A sheet of toasted nori on top, a few drops of chilli oil, and a wedge of lime
+- Garnish with: A scatter of toasted sesame seeds and a curl of pickled bamboo (menma)
 
 ## Storage
 - Strained broth keeps 3 days refrigerated, or freezes well up to 3 months

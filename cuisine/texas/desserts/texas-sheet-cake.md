@@ -83,13 +83,13 @@ Texas sheet cake is the Lone Star State's iconic chocolate cake and one of Ameri
 - **Cinnamon is Tex-Mex touch:** not optional.
 
 ## Variations
-**With buttermilk glaze:** less common; replace cocoa in icing with extra butter for a vanilla-buttermilk glaze.
-**With walnuts:** swap pecans for walnuts; less traditional Texan.
-**Without nuts:** for nut-allergy households; gives a smooth chocolate-frosted version.
-**With coffee:** add 1 tablespoon instant coffee to the cocoa-butter-water boil; deepens chocolate flavour.
+- **With buttermilk glaze:** less common; replace cocoa in icing with extra butter for a vanilla-buttermilk glaze.
+- **With walnuts:** swap pecans for walnuts; less traditional Texan.
+- **Without nuts:** for nut-allergy households; gives a smooth chocolate-frosted version.
+- **With coffee:** add 1 tablespoon instant coffee to the cocoa-butter-water boil; deepens chocolate flavour.
 
 ## Serving
-At room temperature in squares. With cold milk, strong coffee, or as is. At church potlucks, family reunions, school events.
+- At room temperature in squares. With cold milk, strong coffee, or as is. At church potlucks, family reunions, school events.
 
 ## Storage
 - Keeps in a sealed container at room temperature 4 days.

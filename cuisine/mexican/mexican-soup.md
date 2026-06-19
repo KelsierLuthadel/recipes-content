@@ -77,7 +77,7 @@ A coastal Mexican seafood soup, the kind of bowl you reach for when the fish cou
 - **Salsa:** Prepare just before serving to keep fresh.
 
 ## Serving
-Serve hot, topped with avocado salsa.
+- Serve hot, topped with avocado salsa.
 
 ## Storage
 - Best served immediately; refrigerate up to 1 day. Reheat gently.

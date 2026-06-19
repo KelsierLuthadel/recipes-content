@@ -75,7 +75,7 @@ Pirukad are the small Estonian baked pastries that sit on every party table, eve
 - **Make ahead:** Shaped pirukad can be refrigerated overnight (slow second rise) and baked straight from the fridge with 2 extra minutes in the oven.
 
 ## Serving
-Serve warm or at room temperature as a snack, with a bowl of clear broth as a light lunch, or as part of a buffet. Mustard or sour cream on the side.
+- Serve warm or at room temperature as a snack, with a bowl of clear broth as a light lunch, or as part of a buffet. Mustard or sour cream on the side.
 
 ## Storage
 - Keeps 2 days at room temperature in a paper bag

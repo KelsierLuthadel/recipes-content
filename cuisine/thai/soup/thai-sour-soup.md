@@ -57,7 +57,7 @@ Tom som is Thailand's tangy clear soup, a gentler cousin to tom yum that leans i
 - **Tofu:** Use firm tofu for texture.
 
 ## Serving
-Serve hot as a light meal or starter. Garnish with extra coriander.
+- Serve hot as a light meal or starter. Garnish with extra coriander.
 
 ## Storage
 - Refrigerate up to 2 days; reheat gently.

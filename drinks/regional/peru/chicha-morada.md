@@ -88,16 +88,16 @@ Chicha morada is Peru's most identity-defining non-alcoholic drink and the tradi
 - **The fresh fruit stays crunchy:** added cold at the end, the apple and pineapple stay crisp, the traditional Peruvian texture.
 
 ## Variations
-**Chicha morada with chia seeds:** add 2 tablespoons chia seeds to the chilled drink; let stand 20 minutes till the seeds bloom into a gel, the modern Peruvian variant.
-**Chicha morada gelatin:** dissolve gelatin (or agar agar for vegan) in the warm broth; pour into glasses; chill, a Peruvian dessert variant.
-**Spiked chicha morada (alcoholic):** add 30 ml of Peruvian pisco to each glass before serving, the adult Peruvian summer drink.
-**Sangria chicha morada:** add a bottle of dry red wine + diced fruit to the cold chicha, the modern Lima fusion.
-**Chicha morada popsicles:** freeze in popsicle moulds with a wedge of fruit, the Peruvian summer street-food.
-**Sparkling chicha morada:** top each glass with 30 ml of cold sparkling water, the bubblier variant.
-**Smaller batch:** halve all the ingredients for 1 litre instead of 2.
+- **Chicha morada with chia seeds:** add 2 tablespoons chia seeds to the chilled drink; let stand 20 minutes till the seeds bloom into a gel, the modern Peruvian variant.
+- **Chicha morada gelatin:** dissolve gelatin (or agar agar for vegan) in the warm broth; pour into glasses; chill, a Peruvian dessert variant.
+- **Spiked chicha morada (alcoholic):** add 30 ml of Peruvian pisco to each glass before serving, the adult Peruvian summer drink.
+- **Sangria chicha morada:** add a bottle of dry red wine + diced fruit to the cold chicha, the modern Lima fusion.
+- **Chicha morada popsicles:** freeze in popsicle moulds with a wedge of fruit, the Peruvian summer street-food.
+- **Sparkling chicha morada:** top each glass with 30 ml of cold sparkling water, the bubblier variant.
+- **Smaller batch:** halve all the ingredients for 1 litre instead of 2.
 
 ## Serving
-At a Peruvian household lunch (the traditional setting; chicha morada is the traditional Peruvian table drink at every meal) · at a Peruvian restaurant alongside ceviche, lomo saltado, aji de gallina or anticuchos · at a Peruvian Independence Day celebration · at a Peruvian wedding · at a Peruvian street stall (chicheras sell chicha morada from glass jugs on every Peruvian street corner) · at home as the traditional Peruvian-themed dinner accompaniment.
+- At a Peruvian household lunch (the traditional setting; chicha morada is the traditional Peruvian table drink at every meal) · at a Peruvian restaurant alongside ceviche, lomo saltado, aji de gallina or anticuchos · at a Peruvian Independence Day celebration · at a Peruvian wedding · at a Peruvian street stall (chicheras sell chicha morada from glass jugs on every Peruvian street corner) · at home as the traditional Peruvian-themed dinner accompaniment.
 
 ## Storage
 - The brewed concentrated broth refrigerates 5 days; freezes 3 months.

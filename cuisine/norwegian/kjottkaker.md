@@ -88,7 +88,7 @@ Kjøttkaker (literally "meat cakes") are Norway's home meatballs - larger and fl
 - **The lingonberry isn't optional:** That small spoon of tart-sweet jam cuts the richness of the gravy and is the Norwegian element. Cranberry sauce or redcurrant jelly are reasonable substitutes outside Scandinavia.
 
 ## Serving
-The Sunday dinner. A glass of Norwegian dark lager or sparkling apple cider. A simple green salad on the side, or just the plate as it comes.
+- The Sunday dinner. A glass of Norwegian dark lager or sparkling apple cider. A simple green salad on the side, or just the plate as it comes.
 
 ## Storage
 - Refrigerates 4 days; reheats beautifully in the gravy (add a splash of stock if it's tightened too much).

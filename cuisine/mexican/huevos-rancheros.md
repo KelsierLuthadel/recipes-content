@@ -83,14 +83,14 @@ Mexico's rancher's eggs, the kind of late breakfast that turns up on a Mexican f
 - **Interactive meal:** Traditional service allows each diner to customize their wrap, this is part of the appeal.
 
 ## Variations
-**Vegetarian/vegan:** Omit eggs or replace with crumbled tofu for a plant-based version
-**With chorizo:** Add 100g diced chorizo sausage to the aromatics in Stage 2 for extra flavour and protein
-**Spicier version:** Add jalapeños or increase the dried chilli quantity
-**With black beans:** Layer in 1 tin (400g) rinsed black beans before adding eggs
-**Breakfast burritos:** Wrap the cooked eggs and tomato stew inside warmed flour tortillas with cheese and sour cream
+- **Vegetarian/vegan:** Omit eggs or replace with crumbled tofu for a plant-based version
+- **With chorizo:** Add 100g diced chorizo sausage to the aromatics in Stage 2 for extra flavour and protein
+- **Spicier version:** Add jalapeños or increase the dried chilli quantity
+- **With black beans:** Layer in 1 tin (400g) rinsed black beans before adding eggs
+- **Breakfast burritos:** Wrap the cooked eggs and tomato stew inside warmed flour tortillas with cheese and sour cream
 
 ## Serving
-Serve at the table while warm, with tortillas on the side. Each diner grates cheese onto a tortilla, adds an egg and tomato stew, and wraps to eat. Serve with lime wedges, sour cream, and hot sauce on the side.
+- Serve at the table while warm, with tortillas on the side. Each diner grates cheese onto a tortilla, adds an egg and tomato stew, and wraps to eat. Serve with lime wedges, sour cream, and hot sauce on the side.
 
 ## Storage
 - Keeps 2 days refrigerated (store eggs and sauce separately)

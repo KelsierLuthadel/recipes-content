@@ -46,7 +46,7 @@ Chocolate soufflé is the French dinner-party trick that looks impossible but is
 - Use a metal ring mold or ramekin to help the soufflé rise evenly and achieve a professional appearance
 
 ## Serving
-Serve immediately from the oven on warm plates. Accompany with the warm chocolate sauce pooled around the soufflé, or serve a separate jug of crème anglaise or whipped cream on the side. A light dusting of icing sugar adds elegance.
+- Serve immediately from the oven on warm plates. Accompany with the warm chocolate sauce pooled around the soufflé, or serve a separate jug of crème anglaise or whipped cream on the side. A light dusting of icing sugar adds elegance.
 
 ## Storage
 Soufflés do not store well as they deflate quickly after baking. Serve immediately after removing from the oven for best presentation and texture. The uncooked mixture can be prepared up to 1 hour in advance and kept covered in the refrigerator.

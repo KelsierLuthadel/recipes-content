@@ -104,13 +104,13 @@ Memphis dry-rub ribs are the traditional Memphis ribs style and one of the four 
 - **Final rub sprinkle:** the dry-style signature.
 
 ## Variations
-**Kansas City wet style:** apply BBQ sauce in last 30 min of cooking.
-**With St. Louis cut ribs:** trimmed spareribs.
-**Oven version:** at 110°C for 5-6 hours; less smoky.
-**Reverse sear:** smoke 4 hours; finish on hot grill for char.
+- **Kansas City wet style:** apply BBQ sauce in last 30 min of cooking.
+- **With St. Louis cut ribs:** trimmed spareribs.
+- **Oven version:** at 110°C for 5-6 hours; less smoky.
+- **Reverse sear:** smoke 4 hours; finish on hot grill for char.
 
 ## Serving
-At Memphis BBQ joints (Rendezvous, Central BBQ). Sunday family dinners.
+- At Memphis BBQ joints (Rendezvous, Central BBQ). Sunday family dinners.
 
 ## Storage
 - Ribs refrigerate 3 days.

@@ -107,17 +107,17 @@ Anticuchos are Peru's most iconic street food, sold from charcoal carts in every
 - **The huacatay sauce is essential:** the herbal-aji-mayo dip is what makes them Peruvian rather than generic skewered meat.
 
 ## Variations
-**Anticuchos de pollo:** chicken-thigh version; same marinade; the kid-friendly home variant.
-**Anticuchos de pescado:** large chunks of firm white fish (mahi-mahi, swordfish) skewered with the same marinade.
-**Vegetarian anticuchos:** swap meat for thick chunks of king oyster mushroom, halloumi, or seitan; same marinade.
-**Anticuchos with quinoa sides:** swap the potato for Andean quinoa pilaf, the modern healthy variant.
-**Cocktail-canapé anticuchos:** make smaller skewers (1.5 cm cubes; 3 per skewer); for a Peruvian reception.
-**Anticuchos with a chimichurri-style green sauce:** add chopped parsley to the huacatay sauce.
-**Modern Lima upscale anticuchos:** marinate Wagyu beef in the same aji panca base, the high-end Lima restaurant variant.
-**Anticuchos sanguche:** anticuchos pulled off the skewer and piled in a fresh roll with the huacatay sauce, the Lima street-sandwich variant.
+- **Anticuchos de pollo:** chicken-thigh version; same marinade; the kid-friendly home variant.
+- **Anticuchos de pescado:** large chunks of firm white fish (mahi-mahi, swordfish) skewered with the same marinade.
+- **Vegetarian anticuchos:** swap meat for thick chunks of king oyster mushroom, halloumi, or seitan; same marinade.
+- **Anticuchos with quinoa sides:** swap the potato for Andean quinoa pilaf, the modern healthy variant.
+- **Cocktail-canapé anticuchos:** make smaller skewers (1.5 cm cubes; 3 per skewer); for a Peruvian reception.
+- **Anticuchos with a chimichurri-style green sauce:** add chopped parsley to the huacatay sauce.
+- **Modern Lima upscale anticuchos:** marinate Wagyu beef in the same aji panca base, the high-end Lima restaurant variant.
+- **Anticuchos sanguche:** anticuchos pulled off the skewer and piled in a fresh roll with the huacatay sauce, the Lima street-sandwich variant.
 
 ## Serving
-At a Lima street-corner anticuchera (the traditional setting, charcoal carts grill them on the pavement at dusk) · at a Peruvian family backyard barbecue · at a Peruvian Independence Day (28 July) celebration · at the Lima Mistura food festival · at a Peruvian Friday-night dinner with friends · at a Peruvian gastropub abroad · at home as a Saturday-evening grill party.
+- At a Lima street-corner anticuchera (the traditional setting, charcoal carts grill them on the pavement at dusk) · at a Peruvian family backyard barbecue · at a Peruvian Independence Day (28 July) celebration · at the Lima Mistura food festival · at a Peruvian Friday-night dinner with friends · at a Peruvian gastropub abroad · at home as a Saturday-evening grill party.
 
 ## Storage
 - Cooked anticuchos refrigerate 2 days; reheat in a hot grill pan 2 minutes to refresh.

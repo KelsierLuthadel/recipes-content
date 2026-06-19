@@ -64,7 +64,7 @@ Kartulisalat is the Estonian potato salad and it lives on every birthday, christ
 - **Dairy balance:** All sour cream is too sharp, all mayo is too rich. The 150 g sour cream / 4 tbsp mayo ratio is the Estonian middle.
 
 ## Serving
-Serve cold as a side to roast meats, sausages, fried herring, gravlax or alongside cold cuts on a buffet. A scatter of extra dill on top.
+- Serve cold as a side to roast meats, sausages, fried herring, gravlax or alongside cold cuts on a buffet. A scatter of extra dill on top.
 
 ## Storage
 - Keeps 3 days refrigerated, well covered

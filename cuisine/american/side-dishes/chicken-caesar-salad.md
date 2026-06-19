@@ -71,7 +71,7 @@ The 1990s American main-course Caesar: the original Tijuana salad upgraded with 
 - **Croutons:** Make ahead and store in an airtight container; they crisp up as they cool.
 
 ## Serving
-Serve immediately as a starter or light main course. Accompany with crusty bread to mop up the dressing.
+- Serve immediately as a starter or light main course. Accompany with crusty bread to mop up the dressing.
 
 ## Storage
 - Best eaten immediately; do not prepare ahead as lettuce wilts.

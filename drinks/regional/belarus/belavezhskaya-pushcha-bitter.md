@@ -68,7 +68,7 @@ Belavezhskaya Pushcha is the 150,000-hectare primeval forest that straddles the 
 - **Bog-myrtle bitter.** Add 1 tsp of dried bog myrtle leaves; a Polesia-region marsh variant.
 
 ## Serving
-Serve neat in small glasses after a heavy meal · also as a digestif with strong black coffee · at cellar temperature, never iced · paired with a piece of dark chocolate or a single salted nut
+- Serve neat in small glasses after a heavy meal · also as a digestif with strong black coffee · at cellar temperature, never iced · paired with a piece of dark chocolate or a single salted nut
 
 ## Storage
 - Keeps indefinitely in a tightly capped bottle in a cool dark cupboard

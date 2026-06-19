@@ -68,9 +68,9 @@ BIR chicken pathia is the British-Indian-Restaurant sweet-and-sour curry, lemon 
 - For lighter texture, use less stock; for richer, a dash more cream or butter can be added.
 
 ## Serving
-Serve with: steamed basmati rice, naan, or chapatis
-Garnish: fresh coriander, lime wedges
-Accompaniment: cucumber raita and poppadoms
+- Serve with: steamed basmati rice, naan, or chapatis
+- Garnish: fresh coriander, lime wedges
+- Accompaniment: cucumber raita and poppadoms
 
 ## Storage
 - Refrigerate 2-3 days in airtight container

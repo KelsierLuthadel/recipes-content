@@ -77,14 +77,14 @@ Tam mak hung is Laos's everyday salad and one of the country's most identity-def
 - **The clay mortar:** the traditional Lao tool is a tall narrow clay mortar (different from the Thai stone mortar). A heavy stone mortar works fine; a small mortar makes it harder to mix.
 
 ## Variations
-**Tam mak hung pa daek nyao (with fermented fish whole pieces):** add a few whole pieces of fermented fish to the mortar, the rural variant.
-**Tam khao poon (with rice noodles):** add a handful of cooked rice vermicelli to the mortar before final pounding.
-**Tam mak teng (cucumber instead of papaya):** swap green papaya for julienned green cucumber.
-**Vegetarian tam mak hung:** skip the padaek and dried shrimp; double the lime juice and add 1 teaspoon of light soy sauce.
-**Tam mak hung Vientiane style:** add a small handful of crushed roasted peanuts to the mortar, the Vientiane city variant.
+- **Tam mak hung pa daek nyao (with fermented fish whole pieces):** add a few whole pieces of fermented fish to the mortar, the rural variant.
+- **Tam khao poon (with rice noodles):** add a handful of cooked rice vermicelli to the mortar before final pounding.
+- **Tam mak teng (cucumber instead of papaya):** swap green papaya for julienned green cucumber.
+- **Vegetarian tam mak hung:** skip the padaek and dried shrimp; double the lime juice and add 1 teaspoon of light soy sauce.
+- **Tam mak hung Vientiane style:** add a small handful of crushed roasted peanuts to the mortar, the Vientiane city variant.
 
 ## Serving
-At a Lao family lunch (the traditional setting) · at a Vientiane street stall · at a Luang Prabang night market · at a Lao New Year (Pi Mai) celebration · at home as the traditional Lao spicy salad · paired with sticky rice, laap, cooked pork rind or fried chicken, and a glass of Beerlao.
+- At a Lao family lunch (the traditional setting) · at a Vientiane street stall · at a Luang Prabang night market · at a Lao New Year (Pi Mai) celebration · at home as the traditional Lao spicy salad · paired with sticky rice, laap, cooked pork rind or fried chicken, and a glass of Beerlao.
 
 ## Storage
 - Best eaten within 2 hours; the papaya stays crunchy fresh.

@@ -120,9 +120,9 @@ Rogan josh ("oily red") comes from Kashmir, where the original is a slow-cooked 
 ---
 
 ## Serving
-Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), and a piece of naan or chapati to mop the sauce. Pour the topping over at the table for the visual effect; a side of cool raita keeps the spice in check.
+- Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), and a piece of naan or chapati to mop the sauce. Pour the topping over at the table for the visual effect; a side of cool raita keeps the spice in check.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. Stir the topping into the main curry before refrigerating, the tomato and ghee meld into the sauce overnight. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth and the lamb tender.

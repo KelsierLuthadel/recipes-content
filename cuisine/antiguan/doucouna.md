@@ -58,7 +58,7 @@ Doucouna (also written ducana or duckanoo across the islands) is the West Africa
 - **Plantain doucouna:** Add 100 g mashed ripe plantain for a richer fudgy result.
 
 ## Serving
-Serve with flaked saltfish · pepperpot stew · a wedge of avocado · cold ginger beer.
+- Serve with flaked saltfish · pepperpot stew · a wedge of avocado · cold ginger beer.
 
 ## Storage
 - Keeps 4 days refrigerated still in the leaf

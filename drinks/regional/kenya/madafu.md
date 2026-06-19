@@ -62,14 +62,14 @@ Madafu is the Swahili word for the young green coconut, picked off the palm befo
 - **Watch your fingers:** chop with the coconut sat firmly on a board, never on the palm.
 
 ## Variations
-**Madafu na ndimu:** add a squeeze of fresh lime and a pinch of salt; the sports-drink version.
-**Madafu wenye tangawizi:** grate a small piece of ginger into the water; the digestive version.
-**Madafu cocktail (beach-bar):** drop 50 ml white rum into the water and stir with the straw.
-**Bottled coconut water alternative:** if no fresh madafu, use the best bottled raw young coconut water (look for "no added sugar" and "young coconut" on the label).
-**Madafu na chumvi:** a pinch of salt added directly to the water; the Mombasa fishermen's electrolyte drink.
+- **Madafu na ndimu:** add a squeeze of fresh lime and a pinch of salt; the sports-drink version.
+- **Madafu wenye tangawizi:** grate a small piece of ginger into the water; the digestive version.
+- **Madafu cocktail (beach-bar):** drop 50 ml white rum into the water and stir with the straw.
+- **Bottled coconut water alternative:** if no fresh madafu, use the best bottled raw young coconut water (look for "no added sugar" and "young coconut" on the label).
+- **Madafu na chumvi:** a pinch of salt added directly to the water; the Mombasa fishermen's electrolyte drink.
 
 ## Serving
-At a Mombasa beach kiosk (the natural setting) · after a long hot bus ride on the Nairobi-Mombasa road · on a Diani beach lounger · alongside a plate of mahamri or kebabs · at a Lamu street-corner stall · as a post-workout drink (the electrolyte mineralisation is the original sports drink).
+- At a Mombasa beach kiosk (the natural setting) · after a long hot bus ride on the Nairobi-Mombasa road · on a Diani beach lounger · alongside a plate of mahamri or kebabs · at a Lamu street-corner stall · as a post-workout drink (the electrolyte mineralisation is the original sports drink).
 
 ## Storage
 - Best drunk fresh from the picked coconut.

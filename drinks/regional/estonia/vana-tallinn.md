@@ -59,7 +59,7 @@ Vana Tallinn ("Old Tallinn") is the rum-based dark spiced liqueur that has been 
 - **Strength:** This home version comes out around 30% ABV. The commercial 50% version exists; to match it use less syrup and stronger overproof rum.
 
 ## Serving
-Serve in small glasses neat at room temperature, over ice with an orange twist, stirred into hot black coffee, or splashed over vanilla ice cream. A traditional Estonian after-dinner drink.
+- Serve in small glasses neat at room temperature, over ice with an orange twist, stirred into hot black coffee, or splashed over vanilla ice cream. A traditional Estonian after-dinner drink.
 
 ## Storage
 - Keeps 1 year in a sealed bottle, dark and cool

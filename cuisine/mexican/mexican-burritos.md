@@ -58,7 +58,7 @@ The original burrito is a Northern Mexican working-lunch dish from the late 19th
 - **The cook time is the dish:** Rush this and the meat stays tough; the long braise is what gives the guisado its signature shred-and-glaze texture.
 
 ## Serving
-Serve hot, with a cold beer and a few pickled jalapeños on the side.
+- Serve hot, with a cold beer and a few pickled jalapeños on the side.
 
 ## Storage
 - The guisado keeps 4 days refrigerated and freezes for 3 months

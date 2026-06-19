@@ -54,17 +54,17 @@ Mixed spice is the warm aromatic blend behind British autumn and winter baking: 
 - **Nutmeg Potency:** This ingredient dominates the blend; it's the most assertive flavor. Start with less if uncertain.
 
 ## Variations
-**For Baking:** Omit salt and cayenne; this emphasizes warmth and sweetness.
-**For Savory Cooking:** Include salt and cayenne; increase ginger to 1 ½ teaspoons and coriander to 1 ½ teaspoons.
-**Spicier:** Add ½ teaspoon cayenne instead of ¼ teaspoon.
-**Without Cloves:** Reduce cloves to ½ teaspoon if clove flavor is overpowering.
-**Extra Sweet:** Add ¼ teaspoon additional cinnamon for chai-like warmth.
+- **For Baking:** Omit salt and cayenne; this emphasizes warmth and sweetness.
+- **For Savory Cooking:** Include salt and cayenne; increase ginger to 1 ½ teaspoons and coriander to 1 ½ teaspoons.
+- **Spicier:** Add ½ teaspoon cayenne instead of ¼ teaspoon.
+- **Without Cloves:** Reduce cloves to ½ teaspoon if clove flavor is overpowering.
+- **Extra Sweet:** Add ¼ teaspoon additional cinnamon for chai-like warmth.
 
 ## Serving
-Use in: Apple pies and fruit compotes, cakes and cookies, Christmas puddings, braised meats, stewed fruits, masala chai
-Typical ratio: 1-2 teaspoons in baking recipes per 2-3 cups flour
-Application: Mix into dry ingredients for baking; add to stews during cooking
-Temperature: Works in both raw and cooked applications
+- Use in: Apple pies and fruit compotes, cakes and cookies, Christmas puddings, braised meats, stewed fruits, masala chai
+- Typical ratio: 1-2 teaspoons in baking recipes per 2-3 cups flour
+- Application: Mix into dry ingredients for baking; add to stews during cooking
+- Temperature: Works in both raw and cooked applications
 
 ## Storage
 - Store in airtight glass jar in a cool, dark place away from light and heat

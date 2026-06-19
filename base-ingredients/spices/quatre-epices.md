@@ -61,16 +61,16 @@ Quatre épices is the four-spice blend behind French charcuterie, the seasoning 
 - **Quantity Typically Small:** Traditional uses call for only ¼ to ½ teaspoon in a medium pâté or terrine. It's not meant to dominate.
 
 ## Variations
-**More Warmth:** Increase ginger and nutmeg slightly (1 ¼:1:1 ¼:1).
-**More Heat:** Increase pepper to 1 ¼ teaspoons while keeping others at 1 teaspoon.
-**Earthier:** Some regional French versions use slightly less nutmeg to emphasize the clove and ginger.
-**Traditional 18th Century:** Some historical recipes used equal parts pepper, cloves, nutmeg, and Jamaican allspice instead of ginger.
+- **More Warmth:** Increase ginger and nutmeg slightly (1 ¼:1:1 ¼:1).
+- **More Heat:** Increase pepper to 1 ¼ teaspoons while keeping others at 1 teaspoon.
+- **Earthier:** Some regional French versions use slightly less nutmeg to emphasize the clove and ginger.
+- **Traditional 18th Century:** Some historical recipes used equal parts pepper, cloves, nutmeg, and Jamaican allspice instead of ginger.
 
 ## Serving
-Use in: French meat pâtés, terrines, sausages, charcuterie preparations, ragouts, slow-cooked meat stews
-Typical ratio: ¼ to ½ teaspoon per medium pâté or terrine (3-4 servings)
-Application: Mix into ground meat preparations or add to braising liquids
-Temperature: Works both in raw meat mixtures (for pâté) and in cooked applications (for ragouts)
+- Use in: French meat pâtés, terrines, sausages, charcuterie preparations, ragouts, slow-cooked meat stews
+- Typical ratio: ¼ to ½ teaspoon per medium pâté or terrine (3-4 servings)
+- Application: Mix into ground meat preparations or add to braising liquids
+- Temperature: Works both in raw meat mixtures (for pâté) and in cooked applications (for ragouts)
 
 ## Storage
 - Store in small airtight jar in cool, dark place away from light and heat

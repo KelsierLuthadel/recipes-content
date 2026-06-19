@@ -40,7 +40,7 @@ Meringue française is the simplest of the three classical meringues and the bui
 - The low oven temperature (100°C) dries the meringues slowly; higher heat browns the exterior before the interior dries
 
 ## Serving
-Pipe meringue kisses directly onto parchment for simple petit fours, use as structural layers in cream- and fruit-filled desserts, or form into discs for stacking with crèmes and fresh fruit. Meringue towers showcase the airiness and delicate texture beautifully in plated presentations.
+- Pipe meringue kisses directly onto parchment for simple petit fours, use as structural layers in cream- and fruit-filled desserts, or form into discs for stacking with crèmes and fresh fruit. Meringue towers showcase the airiness and delicate texture beautifully in plated presentations.
 
 ## Storage
 Meringues are best stored in an airtight container with layers separated by parchment to prevent sticking. Keep in a cool, dry place (not the refrigerator) for up to 1 week. Do not freeze, as moisture loss during thawing destroys the delicate, crispy texture. The meringues absorb moisture from humidity; store with silica gel packets if the environment is damp.

@@ -76,7 +76,7 @@ Rishta is one of the dishes that gives away Libya's century of Italian colonial 
 - **Dried mint vs fresh:** Dried mint has the rounder, deeper flavour traditionally used to finish; fresh mint goes on top at the end as a garnish.
 
 ## Serving
-A bowl on its own is a full meal. Bread and a side of pickled chershi for crunch. Mint tea after.
+- A bowl on its own is a full meal. Bread and a side of pickled chershi for crunch. Mint tea after.
 
 ## Storage
 - Refrigerate 3 days. The pasta absorbs liquid as it sits; thin with stock or water on reheat.

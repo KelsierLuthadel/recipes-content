@@ -104,14 +104,14 @@ Frikadeller are Denmark's national meatballs and a fixture of every Danish famil
 - **Rest 30 minutes:** the flour needs to hydrate; the patties hold together better.
 
 ## Variations
-**Kogt frikadeller:** poached frikadeller (boiled in stock instead of fried): used as the base for boller i karry (see [recipe](boller-i-karry.md)).
-**Fiskefrikadeller:** fish-frikadeller (with cod or similar white fish in place of pork): equally Danish; pan-fried the same way.
-**Hønsefrikadeller:** chicken frikadeller, lighter; same technique.
-**With minced beef only:** less traditional but works.
-**Cold for lunchbox / smørrebrød:** the next day, sliced cold frikadeller on rye bread with mustard and pickled cucumber is the traditional Danish lunch.
+- **Kogt frikadeller:** poached frikadeller (boiled in stock instead of fried): used as the base for boller i karry (see [recipe](boller-i-karry.md)).
+- **Fiskefrikadeller:** fish-frikadeller (with cod or similar white fish in place of pork): equally Danish; pan-fried the same way.
+- **Hønsefrikadeller:** chicken frikadeller, lighter; same technique.
+- **With minced beef only:** less traditional but works.
+- **Cold for lunchbox / smørrebrød:** the next day, sliced cold frikadeller on rye bread with mustard and pickled cucumber is the traditional Danish lunch.
 
 ## Serving
-At a Danish family weeknight dinner with potatoes and gravy · cold the next day on rye bread for lunch · at a Danish Christmas julefrokost (Christmas lunch) buffet · at IKEA-restaurant-style cafeterias across Denmark · at home with a cold pilsner.
+- At a Danish family weeknight dinner with potatoes and gravy · cold the next day on rye bread for lunch · at a Danish Christmas julefrokost (Christmas lunch) buffet · at IKEA-restaurant-style cafeterias across Denmark · at home with a cold pilsner.
 
 ## Storage
 - Cooked frikadeller refrigerate 4 days; reheat gently in the gravy.

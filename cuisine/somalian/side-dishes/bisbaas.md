@@ -71,13 +71,13 @@ Bisbaas is Somalia's table relish, the bright vivid-green chilli-and-herb sauce 
 - **Use gloves when handling hot chillies:** capsaicin oils on bare hands cause hours of stinging; nightmare if you then rub your eyes. Wear thin disposable gloves if you're using fierce chillies.
 
 ## Variations
-**Red bisbaas:** swap green chillies for red chillies (red jalapeño, Fresno or red Thai chillies). The colour shifts to brick-red rather than vivid green; the flavour is slightly sweeter due to the riper chillies.
-**Bisbaas with mint:** add 10 g of fresh mint leaves to the herbs; gives a brighter herbal note. Common Somali variation.
-**Spicier bisbaas:** add a Scotch bonnet or habanero alongside the green chillies; takes the heat up significantly. Approach with caution.
-**Long-keeping bisbaas:** add an extra tablespoon of vinegar and a teaspoon of salt; pack into a sterilised jar with a layer of oil on top; keeps refrigerated 2 weeks. The brighter flavour fades but it survives longer.
+- **Red bisbaas:** swap green chillies for red chillies (red jalapeño, Fresno or red Thai chillies). The colour shifts to brick-red rather than vivid green; the flavour is slightly sweeter due to the riper chillies.
+- **Bisbaas with mint:** add 10 g of fresh mint leaves to the herbs; gives a brighter herbal note. Common Somali variation.
+- **Spicier bisbaas:** add a Scotch bonnet or habanero alongside the green chillies; takes the heat up significantly. Approach with caution.
+- **Long-keeping bisbaas:** add an extra tablespoon of vinegar and a teaspoon of salt; pack into a sterilised jar with a layer of oil on top; keeps refrigerated 2 weeks. The brighter flavour fades but it survives longer.
 
 ## Serving
-A small bowl on the side of every Somali meal: alongside bariis iskukaris, with maraq stews, dolloped onto sambusas before eating, scooped with anjero or muufo, or drizzled over rice and digir. A half-teaspoon per bite is usually enough for moderate heat tolerance; serious bisbaas lovers go further.
+- A small bowl on the side of every Somali meal: alongside bariis iskukaris, with maraq stews, dolloped onto sambusas before eating, scooped with anjero or muufo, or drizzled over rice and digir. A half-teaspoon per bite is usually enough for moderate heat tolerance; serious bisbaas lovers go further.
 
 ## Storage
 - Best on the day of making; the bright green colour fades within 24 hours.

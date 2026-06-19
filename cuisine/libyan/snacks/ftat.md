@@ -71,7 +71,7 @@ Ftat is the simple semolina fry-bread of Libyan home and street cooking, made fr
 - Cut into rounds rather than squares for a festive look.
 
 ## Serving
-With glasses of strong sweet mint tea (atay) · alongside Libyan qahwa at mid-morning · stacked at a family breakfast spread · as an after-school snack for children · with fresh dates and labneh for a fuller plate.
+- With glasses of strong sweet mint tea (atay) · alongside Libyan qahwa at mid-morning · stacked at a family breakfast spread · as an after-school snack for children · with fresh dates and labneh for a fuller plate.
 
 ## Storage
 - Best eaten within an hour of frying.

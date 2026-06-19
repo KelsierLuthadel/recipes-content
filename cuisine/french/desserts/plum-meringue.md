@@ -40,7 +40,7 @@ Plum meringue is the rustic individual French dessert of softened meringues hold
 - Baking at 100°C for 2 hours creates tender meringues that yield slightly when pressed, quite different from crispy meringues; this texture beautifully complements the soft plums
 
 ## Serving
-Serve each large meringue on its own plate or in a shallow bowl, allowing the plum juice that has bled into the meringue to create an attractive mottled appearance. A spoonful of the reserved poaching syrup can be spooned alongside. Serve at room temperature or lightly chilled.
+- Serve each large meringue on its own plate or in a shallow bowl, allowing the plum juice that has bled into the meringue to create an attractive mottled appearance. A spoonful of the reserved poaching syrup can be spooned alongside. Serve at room temperature or lightly chilled.
 
 ## Storage
 Plum meringues are best served within 24 hours of making, while the plum juice has just begun to stain the meringue and before it becomes overly soft. They can be kept covered at room temperature for up to 2 days, though the meringues gradually absorb moisture and soften. The poached plums and syrup can be prepared the day before and refrigerated in a covered container; fold them into the meringue just before baking.

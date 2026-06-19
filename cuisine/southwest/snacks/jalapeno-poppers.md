@@ -79,13 +79,13 @@ Jalapeño poppers are the iconic Southwestern bar-and-grill appetiser: fresh jal
 - **Eat warm:** cheese cools.
 
 ## Variations
-**Without bacon:** vegetarian; brush with oil before baking.
-**With sausage filling:** add cooked crumbled chorizo.
-**Air-fried version:** air fryer at 200°C for 15-18 minutes.
-**Deep-fried:** dip in beaten egg, then panko; deep-fry at 175°C for 4 minutes (the traditional 1970s American style).
+- **Without bacon:** vegetarian; brush with oil before baking.
+- **With sausage filling:** add cooked crumbled chorizo.
+- **Air-fried version:** air fryer at 200°C for 15-18 minutes.
+- **Deep-fried:** dip in beaten egg, then panko; deep-fry at 175°C for 4 minutes (the traditional 1970s American style).
 
 ## Serving
-At parties, bars, Super Bowl gatherings, BBQs. Cold beer.
+- At parties, bars, Super Bowl gatherings, BBQs. Cold beer.
 
 ## Storage
 - Best eaten fresh.

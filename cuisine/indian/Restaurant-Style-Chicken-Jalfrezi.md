@@ -104,9 +104,9 @@ The jalfrezi is one of the defining BIR curries, found on every restaurant menu 
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the thick sauce. A small bowl of raita and a wedge of lemon balance the heat and the smoky vegetables.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the thick sauce. A small bowl of raita and a wedge of lemon balance the heat and the smoky vegetables.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The scorched vegetables soften further overnight as they absorb sauce; if you want them to retain their bite, eat fresh. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth.

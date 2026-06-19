@@ -87,12 +87,12 @@ Tasso is Haiti's twice-cooked fried beef, the beef counterpart to the more famou
 - **Dry the meat properly before frying:** wet meat in hot oil splutters dangerously and the moisture prevents crust formation. Fifteen minutes on a wire rack is the minimum drying time; longer is fine.
 
 ## Variations
-**Tasso poul (chicken):** swap beef for bone-in chicken thighs; reduce simmer time to 30 minutes. The lighter version, common at weekday dinners.
-**Tasso kabrit (goat):** the most prestigious version, made with goat shoulder; longer simmer time (90 minutes minimum because goat meat is tougher). Served at major celebrations and weddings.
-**Tasso baked instead of fried:** for a lighter version, after the simmer-and-dry stage, brush the beef with vegetable oil and bake at 220 C for 15-20 minutes till the outside is deep brown. Less crisp than fried but works for less indulgent occasions.
+- **Tasso poul (chicken):** swap beef for bone-in chicken thighs; reduce simmer time to 30 minutes. The lighter version, common at weekday dinners.
+- **Tasso kabrit (goat):** the most prestigious version, made with goat shoulder; longer simmer time (90 minutes minimum because goat meat is tougher). Served at major celebrations and weddings.
+- **Tasso baked instead of fried:** for a lighter version, after the simmer-and-dry stage, brush the beef with vegetable oil and bake at 220 C for 15-20 minutes till the outside is deep brown. Less crisp than fried but works for less indulgent occasions.
 
 ## Serving
-With pikliz and bannann peze on a shared platter; lime wedges around the edge for squeezing. Rice and beans (diri kole ak pwa) on the side. Drink: cremas (the rum-and-coconut drink) or a cold Prestige lager.
+- With pikliz and bannann peze on a shared platter; lime wedges around the edge for squeezing. Rice and beans (diri kole ak pwa) on the side. Drink: cremas (the rum-and-coconut drink) or a cold Prestige lager.
 
 ## Storage
 - Best eaten the day of cooking; the crust softens as it cools.

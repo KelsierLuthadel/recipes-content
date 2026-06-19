@@ -51,9 +51,9 @@ This is the version you want on the table for everything. Indian household raita
 - **Boondi raita:** stir in a handful of crisp gram-flour boondi pearls (available at Indian grocers) at the moment of serving for a textural crunch.
 
 ## Serving
-Serve cold from the fridge. The raita's job is to cool, and a room-temperature raita is half as effective.
+- Serve cold from the fridge. The raita's job is to cool, and a room-temperature raita is half as effective.
 
-Plate with onion bhaji, papadum, vegetable samosa, tandoori chicken, or alongside any hot curry. The portion size is generous; expect each diner to take a heaped tablespoon and to come back for more.
+- Plate with onion bhaji, papadum, vegetable samosa, tandoori chicken, or alongside any hot curry. The portion size is generous; expect each diner to take a heaped tablespoon and to come back for more.
 
 ## Storage
 - Refrigerate, covered, for up to 2 days. After that the cucumber softens and the mint goes brown.

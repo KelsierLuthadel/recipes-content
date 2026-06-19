@@ -91,13 +91,13 @@ Carne asada Colombiana is Colombia's grilled-steak classic and a fundamental com
 - **Bandeja-style serving:** the dish is meant as part of a platter, not alone.
 
 ## Variations
-**With chimichurri:** serve with Argentine-style chimichurri (parsley, garlic, oregano, vinegar, oil); less traditional Colombian but excellent.
-**Carne en polvo (the powdered-beef variation):** shred the cooked beef finely; sauté with onion and lots of cumin; serves as a different texture experience. Common Andean Colombian variation.
-**Mariquita-bandeja:** add Cuban-style plantain chips; gives a textural contrast.
-**Spicier marinade:** add 2 chopped chillies and 1 tablespoon of smoked paprika; properly fierce.
+- **With chimichurri:** serve with Argentine-style chimichurri (parsley, garlic, oregano, vinegar, oil); less traditional Colombian but excellent.
+- **Carne en polvo (the powdered-beef variation):** shred the cooked beef finely; sauté with onion and lots of cumin; serves as a different texture experience. Common Andean Colombian variation.
+- **Mariquita-bandeja:** add Cuban-style plantain chips; gives a textural contrast.
+- **Spicier marinade:** add 2 chopped chillies and 1 tablespoon of smoked paprika; properly fierce.
 
 ## Serving
-As the centerpiece of bandeja paisa, with all the traditional Colombian sides arranged around. Drink: Club Colombia beer, aguardiente, or fresh limonada de coco.
+- As the centerpiece of bandeja paisa, with all the traditional Colombian sides arranged around. Drink: Club Colombia beer, aguardiente, or fresh limonada de coco.
 
 ## Storage
 - Best eaten immediately while warm.

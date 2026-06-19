@@ -90,14 +90,14 @@ New York cheesecake is the most iconic American cheesecake and the traditional M
 - **Overnight chill:** essential.
 
 ## Variations
-**Junior's style:** with sponge cake bottom instead of biscuit crust.
-**With strawberry topping:** classic.
-**With chocolate ganache:** chocolate NY.
-**With lemon curd:** lemon NY.
-**Mini cheesecakes:** in muffin tins.
+- **Junior's style:** with sponge cake bottom instead of biscuit crust.
+- **With strawberry topping:** classic.
+- **With chocolate ganache:** chocolate NY.
+- **With lemon curd:** lemon NY.
+- **Mini cheesecakes:** in muffin tins.
 
 ## Serving
-At Manhattan delis, family celebrations, holidays. Cold from the fridge.
+- At Manhattan delis, family celebrations, holidays. Cold from the fridge.
 
 ## Storage
 - Refrigerated 5 days.

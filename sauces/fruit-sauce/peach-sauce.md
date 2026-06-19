@@ -60,7 +60,7 @@ Peach sauce is the building block for game birds and tender duck: a glossy mahog
 - **Mounting butter:** Add cold butter in small pieces to create silky sauce; whisk vigorously to emulsify.
 
 ## Serving
-Serve warm as an accompaniment to roasted pigeon, young duck, pheasant, or other game birds.
+- Serve warm as an accompaniment to roasted pigeon, young duck, pheasant, or other game birds.
 
 ## Storage
 - Best eaten immediately after preparation.

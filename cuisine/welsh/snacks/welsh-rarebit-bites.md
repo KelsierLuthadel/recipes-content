@@ -70,7 +70,7 @@ Welsh rarebit bites take the proper pub-supper rarebit (the cooked roux-based ch
 - **With bacon:** add a small piece of crisp bacon on top of each bite.
 
 ## Serving
-At a Welsh new-year drinks tray · at a chapel reception · as a cocktail-hour canapé · at a Welsh wedding pre-dinner round · for a St David's Day party with leek soup to follow.
+- At a Welsh new-year drinks tray · at a chapel reception · as a cocktail-hour canapé · at a Welsh wedding pre-dinner round · for a St David's Day party with leek soup to follow.
 
 ## Storage
 - Cooked rarebit base keeps 3 days refrigerated; reheat gently on bread.

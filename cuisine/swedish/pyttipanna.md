@@ -83,14 +83,14 @@ Pyttipanna (literally "small bits in a pan") is the Swedish leftover-utilisation
 - **Falukorv ideal:** the Swedish smoked sausage. Any quality smoked sausage works as substitute.
 
 ## Variations
-**Vegetarian (växt-pytt):** swap the meat for cubed halloumi, smoked tofu, or chopped roasted vegetables.
-**Beef-and-potato only:** old-school version with just leftover roast beef.
-**With brown butter:** swap the cooking butter for ghee or brown butter for extra nuttiness.
-**Pyttipanna med rödbetor i:** beetroot diced into the hash rather than on the side (less traditional but a nice variant).
-**With salty fish:** add diced cold smoked salmon or pickled herring at the end.
+- **Vegetarian (växt-pytt):** swap the meat for cubed halloumi, smoked tofu, or chopped roasted vegetables.
+- **Beef-and-potato only:** old-school version with just leftover roast beef.
+- **With brown butter:** swap the cooking butter for ghee or brown butter for extra nuttiness.
+- **Pyttipanna med rödbetor i:** beetroot diced into the hash rather than on the side (less traditional but a nice variant).
+- **With salty fish:** add diced cold smoked salmon or pickled herring at the end.
 
 ## Serving
-At a Swedish home Monday dinner using Sunday's leftover roast · at a Stockholm pub at midnight as the "I drank too much" meal · at a Swedish breakfast counter with coffee and beer · at home as a weeknight all-in-one.
+- At a Swedish home Monday dinner using Sunday's leftover roast · at a Stockholm pub at midnight as the "I drank too much" meal · at a Swedish breakfast counter with coffee and beer · at home as a weeknight all-in-one.
 
 ## Storage
 - Best fresh; the crisp doesn't survive storage.

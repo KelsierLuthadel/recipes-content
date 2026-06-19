@@ -51,7 +51,7 @@ Teh tarik ("pulled tea") is the everyday Malay-Singapore tea, brewed thick and d
 - **The right sweetness:** Singapore teh tarik is sweet by Western tea standards - usually 3-4 tbsp condensed milk for 400 ml tea. Less for a more restrained version; more for the local standard.
 
 ## Serving
-Serve in small thick glass cups (the traditional Singapore-Malay kopitiam glass). Roti prata, kaya toast, or curry puff alongside. Drink hot.
+- Serve in small thick glass cups (the traditional Singapore-Malay kopitiam glass). Roti prata, kaya toast, or curry puff alongside. Drink hot.
 
 ## Storage
 - Drink the same hour. The foam dissipates after 10-15 minutes; the tea remains drinkable for a couple of hours but loses its character.

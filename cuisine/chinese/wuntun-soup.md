@@ -64,7 +64,7 @@ Wonton soup is the everyday Cantonese comfort food, the dish noodle-shop owners 
 - **Garnish:** Add at end for freshness.
 
 ## Serving
-Serve hot in bowls with extra soy sauce on the side.
+- Serve hot in bowls with extra soy sauce on the side.
 
 ## Storage
 - Refrigerate wontons up to 1 day; broth separate.

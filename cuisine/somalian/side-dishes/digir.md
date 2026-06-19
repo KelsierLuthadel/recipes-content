@@ -108,13 +108,13 @@ Digir is Somalia's everyday bean stew, the dish that turns up as the proper Soma
 - **Bloom the xawaash:** the 30 seconds of cooking the spice in hot oil is what extracts the aromatic compounds. Skipping it leaves a raw-spice flavour.
 
 ## Variations
-**Digir with smoked meat:** add 100 g of smoked beef or lamb to the aromatic base; gives extra depth.
-**Digir aniseed (sweet version):** add 1 teaspoon of fennel seeds with the xawaash and 1 tablespoon of sugar to the sauce; the breakfast-leaning version, eaten with sweet bread.
-**Digir iyo bariis (with rice):** serve digir over plain basmati rice rather than with flatbread; a hearty lunch or dinner.
-**Vegetarian digir farsi:** add 100 g of diced potato and 1 carrot diced to the cook with the beans; turns digir into a more substantial vegetable stew.
+- **Digir with smoked meat:** add 100 g of smoked beef or lamb to the aromatic base; gives extra depth.
+- **Digir aniseed (sweet version):** add 1 teaspoon of fennel seeds with the xawaash and 1 tablespoon of sugar to the sauce; the breakfast-leaning version, eaten with sweet bread.
+- **Digir iyo bariis (with rice):** serve digir over plain basmati rice rather than with flatbread; a hearty lunch or dinner.
+- **Vegetarian digir farsi:** add 100 g of diced potato and 1 carrot diced to the cook with the beans; turns digir into a more substantial vegetable stew.
 
 ## Serving
-For breakfast: in a wide bowl with warm muufo or anjero alongside for scooping; sweet shaah tea with cardamom on the side. For lunch: over plain basmati rice as a side or main; bisbaas for heat.
+- For breakfast: in a wide bowl with warm muufo or anjero alongside for scooping; sweet shaah tea with cardamom on the side. For lunch: over plain basmati rice as a side or main; bisbaas for heat.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight, and day-after digir is excellent for breakfast.

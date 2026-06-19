@@ -75,14 +75,14 @@ Kibinai are the signature dish of the Karaim community, a small Turkic-Jewish mi
 - **Eat warm, not hot:** straight from the oven the juice burns the mouth; wait 5 minutes.
 
 ## Variations
-**Beef filling:** swap lamb for finely diced beef chuck; equally good.
-**Chicken filling:** finely diced chicken thigh with onion, white pepper and dill.
-**Mushroom kibinai:** chopped sautéed wild mushrooms with onion, the vegetarian Trakai version.
-**Curd-cheese kibinai:** filled with sweetened curd, dill and raisin; the sweet Karaim option.
-**Spiced version:** add a pinch of cumin and allspice to the lamb, closer to the Crimean Karaim roots.
+- **Beef filling:** swap lamb for finely diced beef chuck; equally good.
+- **Chicken filling:** finely diced chicken thigh with onion, white pepper and dill.
+- **Mushroom kibinai:** chopped sautéed wild mushrooms with onion, the vegetarian Trakai version.
+- **Curd-cheese kibinai:** filled with sweetened curd, dill and raisin; the sweet Karaim option.
+- **Spiced version:** add a pinch of cumin and allspice to the lamb, closer to the Crimean Karaim roots.
 
 ## Serving
-Serve warm · with a small bowl of clear meat broth on the side · at lunch · with sauerkraut salad · with cold beer · the Trakai lakeside classic · two per person as a snack, three as a meal.
+- Serve warm · with a small bowl of clear meat broth on the side · at lunch · with sauerkraut salad · with cold beer · the Trakai lakeside classic · two per person as a snack, three as a meal.
 
 ## Storage
 - Best the day they are baked.

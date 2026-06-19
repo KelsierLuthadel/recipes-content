@@ -76,7 +76,7 @@ Lefse is the Norwegian thin soft flatbread made from a dough of cold mashed pota
 - **Dry griddle, no fat:** Lefse cooks dry. Any fat in the pan and they fry crisp instead of staying soft.
 
 ## Serving
-The afternoon coffee snack. A plate of warm sweet lefse with a pot of strong black coffee at 4pm; the Norwegian "kaffe og kake" ritual. Also rolled around pølse (sausages) as pølse i lompe.
+- The afternoon coffee snack. A plate of warm sweet lefse with a pot of strong black coffee at 4pm; the Norwegian "kaffe og kake" ritual. Also rolled around pølse (sausages) as pølse i lompe.
 
 ## Storage
 - Wrapped in a tea towel at room temperature: 2 days.

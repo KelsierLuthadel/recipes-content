@@ -75,17 +75,17 @@ Saskatoon berries are the Canadian prairie's signature wild fruit, growing on Am
 - **Lemon goes in at the start:** the acid helps the pectin form a light set. Lemon at the end gives a thinner syrup.
 
 ## Variations
-**Saskatoon-berry pie filling:** double the recipe; add 2 tablespoons cornflour mixed with 2 tablespoons cold water; cook 2 minutes more till thick. Use as a pie filling.
-**Saskatoon-berry sauce for pork:** add 1 tablespoon Dijon mustard, 1 tablespoon balsamic vinegar, and reduce slightly thinner, excellent over roast pork loin.
-**Saskatoon-rhubarb compote:** swap 200 g of the berries for 200 g chopped rhubarb, a prairie classic spring-into-summer pairing.
-**Saskatoon-blueberry compote:** 50/50 saskatoons and blueberries, the cross-prairie variant.
-**Saskatoon syrup (thinner):** reduce the sugar to 80 g; cook only 12 minutes; strain through a sieve, use as a cocktail mixer or drizzle for cheesecake.
-**Saskatoon-berry-and-cardamom jam (deeper):** double the cardamom; cook longer with an extra 30 g sugar till the texture sets to a jam consistency.
-**Spiced saskatoon compote (winter):** add a cinnamon stick, 4 cloves, and a thin slice of ginger to the cook; remove before serving.
-**Boozy saskatoon compote:** add 30 ml maple whisky or Cognac at the end, the after-dinner sauce.
+- **Saskatoon-berry pie filling:** double the recipe; add 2 tablespoons cornflour mixed with 2 tablespoons cold water; cook 2 minutes more till thick. Use as a pie filling.
+- **Saskatoon-berry sauce for pork:** add 1 tablespoon Dijon mustard, 1 tablespoon balsamic vinegar, and reduce slightly thinner, excellent over roast pork loin.
+- **Saskatoon-rhubarb compote:** swap 200 g of the berries for 200 g chopped rhubarb, a prairie classic spring-into-summer pairing.
+- **Saskatoon-blueberry compote:** 50/50 saskatoons and blueberries, the cross-prairie variant.
+- **Saskatoon syrup (thinner):** reduce the sugar to 80 g; cook only 12 minutes; strain through a sieve, use as a cocktail mixer or drizzle for cheesecake.
+- **Saskatoon-berry-and-cardamom jam (deeper):** double the cardamom; cook longer with an extra 30 g sugar till the texture sets to a jam consistency.
+- **Spiced saskatoon compote (winter):** add a cinnamon stick, 4 cloves, and a thin slice of ginger to the cook; remove before serving.
+- **Boozy saskatoon compote:** add 30 ml maple whisky or Cognac at the end, the after-dinner sauce.
 
 ## Serving
-At a Manitoba Sunday-morning pancake breakfast (the traditional setting) · at a Saskatchewan farm kitchen at the end of saskatoon-picking season · at an Alberta cattle-ranch barbecue · alongside roast pork or duck breast at a Canadian Thanksgiving dinner · at a Calgary Stampede breakfast · at a Yukon cabin alongside bannock and butter · as the Canadian prairie answer to French confiture · paired with a glass of cold milk, hot tea, or a slice of buttered [Bannock](bannock.md).
+- At a Manitoba Sunday-morning pancake breakfast (the traditional setting) · at a Saskatchewan farm kitchen at the end of saskatoon-picking season · at an Alberta cattle-ranch barbecue · alongside roast pork or duck breast at a Canadian Thanksgiving dinner · at a Calgary Stampede breakfast · at a Yukon cabin alongside bannock and butter · as the Canadian prairie answer to French confiture · paired with a glass of cold milk, hot tea, or a slice of buttered [Bannock](bannock.md).
 
 ## Storage
 - Refrigerates 4 weeks in a clean sealed jar.

@@ -78,14 +78,14 @@ Khao tom mat is one of Laos's most ceremonially important sweets, traditionally 
 - **Eat cool:** the parcels are at their peak at room temperature. Hot or freshly-cooked is fine but the texture is best when slightly cooled.
 
 ## Variations
-**Khao tom mat with mung bean:** add a tablespoon of cooked mung bean alongside the banana, the Northern Lao variant.
-**Khao tom mat with taro:** swap banana for a small piece of cooked taro, the rural variant.
-**Coconut palm-sugar drizzle:** before serving, drizzle a small amount of warm palm-sugar syrup over the opened parcel.
-**Modern bake-in-a-tin variant:** if you can't get banana leaves, bake the rice + banana mixture in a 23 × 23 cm tin at 180°C for 50 minutes, less aromatic but practical.
-**Cha lao (Lao temple offering version):** smaller parcels (4 × 4 cm); served at Buddhist temple offerings on Lao New Year.
+- **Khao tom mat with mung bean:** add a tablespoon of cooked mung bean alongside the banana, the Northern Lao variant.
+- **Khao tom mat with taro:** swap banana for a small piece of cooked taro, the rural variant.
+- **Coconut palm-sugar drizzle:** before serving, drizzle a small amount of warm palm-sugar syrup over the opened parcel.
+- **Modern bake-in-a-tin variant:** if you can't get banana leaves, bake the rice + banana mixture in a 23 × 23 cm tin at 180°C for 50 minutes, less aromatic but practical.
+- **Cha lao (Lao temple offering version):** smaller parcels (4 × 4 cm); served at Buddhist temple offerings on Lao New Year.
 
 ## Serving
-At a Lao temple offering (the traditional setting; the traditional Buddhist alms food) · at a Lao Pi Mai (New Year, April) celebration · at a Lao wedding · at a Lao funeral · at home as the traditional Lao festival sweet · paired with strong Lao coffee or jasmine tea.
+- At a Lao temple offering (the traditional setting; the traditional Buddhist alms food) · at a Lao Pi Mai (New Year, April) celebration · at a Lao wedding · at a Lao funeral · at home as the traditional Lao festival sweet · paired with strong Lao coffee or jasmine tea.
 
 ## Storage
 - Wrapped parcels refrigerate 4 days; reheat by re-steaming for 15 minutes.

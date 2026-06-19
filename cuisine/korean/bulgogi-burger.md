@@ -105,14 +105,14 @@ The bulgogi burger is one of the great Korean-American fusion creations, born ou
 - **Runny egg yolk essential:** the yolk is the sauce.
 
 ## Variations
-**Spicier:** double the gochujang in the mayo; add gochugaru (Korean chilli flakes) to the patty.
-**With kimchi:** stack a forkful of chopped kimchi on top of the patty for full Korean barbecue energy.
-**Pork bulgogi burger:** swap beef for ground pork shoulder; same marinade.
-**Chicken bulgogi burger:** swap beef for ground chicken thigh.
-**Vegetarian bulgogi:** swap meat for marinated portobello mushrooms or grilled marinated tofu.
+- **Spicier:** double the gochujang in the mayo; add gochugaru (Korean chilli flakes) to the patty.
+- **With kimchi:** stack a forkful of chopped kimchi on top of the patty for full Korean barbecue energy.
+- **Pork bulgogi burger:** swap beef for ground pork shoulder; same marinade.
+- **Chicken bulgogi burger:** swap beef for ground chicken thigh.
+- **Vegetarian bulgogi:** swap meat for marinated portobello mushrooms or grilled marinated tofu.
 
 ## Serving
-At a Koreatown food truck. At a Seoul gastropub. At home with kimchi and a cold beer.
+- At a Koreatown food truck. At a Seoul gastropub. At home with kimchi and a cold beer.
 
 ## Storage
 - Best fresh.

@@ -100,13 +100,13 @@ Stacked red enchiladas is the traditional New Mexican enchilada style, distinct 
 - **Christmas style:** red AND green chile sauces.
 
 ## Variations
-**Christmas style:** half red chile sauce, half green chile sauce on the same plate.
-**With beef:** swap chicken for shredded beef.
-**Cheese-only:** vegetarian.
-**With pinto beans in layers:** add layer of refried beans between tortillas.
+- **Christmas style:** half red chile sauce, half green chile sauce on the same plate.
+- **With beef:** swap chicken for shredded beef.
+- **Cheese-only:** vegetarian.
+- **With pinto beans in layers:** add layer of refried beans between tortillas.
 
 ## Serving
-Individual stacks with rice and beans. Cold beer.
+- Individual stacks with rice and beans. Cold beer.
 
 ## Storage
 - Best eaten immediately.

@@ -74,14 +74,14 @@ Socată (from "soc", the Romanian word for elderflower) is Romania's everyday fe
 - **3-4 days, no longer:** by day 5 the drink turns vinegary as acid bacteria take over.
 
 ## Variations
-**Socată cu lămâie verde:** swap the lemons for limes; a brighter, more tropical-leaning version.
-**Cu mere:** add 2 sliced apples to the jar (boosts the natural yeast).
-**Cu lavandă:** add a small sprig of lavender; the Transylvanian variant.
-**Sparkling socată cocktail:** mix 100 ml socată with 30 ml țuică and a splash of soda; the Romanian aperitivo.
-**Sugar-free with stevia:** the wild fermentation needs sugar to start; use 50 g sugar (for the yeast) and add stevia to taste at the bottling stage.
+- **Socată cu lămâie verde:** swap the lemons for limes; a brighter, more tropical-leaning version.
+- **Cu mere:** add 2 sliced apples to the jar (boosts the natural yeast).
+- **Cu lavandă:** add a small sprig of lavender; the Transylvanian variant.
+- **Sparkling socată cocktail:** mix 100 ml socată with 30 ml țuică and a splash of soda; the Romanian aperitivo.
+- **Sugar-free with stevia:** the wild fermentation needs sugar to start; use 50 g sugar (for the yeast) and add stevia to taste at the bottling stage.
 
 ## Serving
-At a Romanian street-stall on a hot June afternoon · with sarmale at a Sunday lunch · with mici and salată at a Romanian garden barbecue · as a children's celebration drink at name-day parties · alongside a slice of cozonac · over a long lunch at a Transylvanian farm guesthouse.
+- At a Romanian street-stall on a hot June afternoon · with sarmale at a Sunday lunch · with mici and salată at a Romanian garden barbecue · as a children's celebration drink at name-day parties · alongside a slice of cozonac · over a long lunch at a Transylvanian farm guesthouse.
 
 ## Storage
 - Keeps 7-10 days in the fridge in plastic bottles; release the cap daily to vent the pressure.

@@ -50,8 +50,8 @@ The celebratory cousin of the everyday roti: small discs of tight wholemeal-flou
 - **Ghee for richness:** Frying in ghee instead of vegetable oil deepens the flavour considerably; reserve it for special occasions.
 
 ## Serving
-Serve with: Chole (chickpea curry), aloo sabzi, or any sauce-heavy festive dish.
-Garnish with: A squeeze of lemon or a scatter of fresh coriander just before serving.
+- Serve with: Chole (chickpea curry), aloo sabzi, or any sauce-heavy festive dish.
+- Garnish with: A squeeze of lemon or a scatter of fresh coriander just before serving.
 
 ## Storage
 - Best eaten fresh; puris go chewy as they cool.

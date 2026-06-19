@@ -105,9 +105,9 @@ The dinner-party showstopper in its most ambitious form: a whole beef tenderloin
 - **Béarnaise sauce:** Essential accompaniment, made with tarragon-infused butter and egg yolks.
 
 ## Serving
-Serve with: Béarnaise sauce, roasted potatoes, seasonal vegetables
-Garnish with: Watercress and truffle shavings (optional for special occasions)
-Wine pairing: Full-bodied red wine (Bordeaux, Burgundy, or Barolo)
+- Serve with: Béarnaise sauce, roasted potatoes, seasonal vegetables
+- Garnish with: Watercress and truffle shavings (optional for special occasions)
+- Wine pairing: Full-bodied red wine (Bordeaux, Burgundy, or Barolo)
 
 ## Storage
 - Best served fresh and hot from the oven

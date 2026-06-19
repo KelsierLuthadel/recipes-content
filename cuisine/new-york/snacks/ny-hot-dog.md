@@ -82,13 +82,13 @@ The New York hot dog is one of America's most iconic street foods and the symbol
 - **NO ketchup:** that's a sin.
 
 ## Variations
-**Coney Island style:** add chili (no beans), chopped onions, yellow mustard.
-**Chicago style:** poppy seed bun, sport peppers, neon green relish, tomato, pickle (Chicago, not NY).
-**Bagel dog:** wrap in bagel dough; bake.
-**Chili dog:** with chili instead of onion sauce.
+- **Coney Island style:** add chili (no beans), chopped onions, yellow mustard.
+- **Chicago style:** poppy seed bun, sport peppers, neon green relish, tomato, pickle (Chicago, not NY).
+- **Bagel dog:** wrap in bagel dough; bake.
+- **Chili dog:** with chili instead of onion sauce.
 
 ## Serving
-From street carts in Manhattan, Times Square, Brooklyn Bridge area. With a cold soda. Year-round.
+- From street carts in Manhattan, Times Square, Brooklyn Bridge area. With a cold soda. Year-round.
 
 ## Storage
 - Onion sauce keeps refrigerated 1 week; freezes 3 months.

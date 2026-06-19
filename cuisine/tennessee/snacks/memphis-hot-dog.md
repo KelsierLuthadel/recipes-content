@@ -87,14 +87,14 @@ The Memphis BBQ hot dog is a Tennessee adaptation of the American hot dog that t
 - **Toothpicks come out before serving:** safety reminder.
 
 ## Variations
-**Smoked sausage instead of frankfurter:** swap the dog for a Memphis-style smoked pork sausage.
-**With chopped pulled pork on top:** the Memphis-on-Memphis variant.
-**With white BBQ sauce:** swap the tomato sauce for Alabama-style white BBQ sauce (mayo + vinegar + horseradish + pepper).
-**Spicier:** double the hot sauce + jalapeños on top.
-**Vegetarian:** swap dog for a chunky grilled portobello; skip the bacon or use a vegan bacon.
+- **Smoked sausage instead of frankfurter:** swap the dog for a Memphis-style smoked pork sausage.
+- **With chopped pulled pork on top:** the Memphis-on-Memphis variant.
+- **With white BBQ sauce:** swap the tomato sauce for Alabama-style white BBQ sauce (mayo + vinegar + horseradish + pepper).
+- **Spicier:** double the hot sauce + jalapeños on top.
+- **Vegetarian:** swap dog for a chunky grilled portobello; skip the bacon or use a vegan bacon.
 
 ## Serving
-At a Memphis BBQ joint. At a Tennessee Sunday BBQ. At home with slaw, beans, and a cold beer.
+- At a Memphis BBQ joint. At a Tennessee Sunday BBQ. At home with slaw, beans, and a cold beer.
 
 ## Storage
 - BBQ sauce refrigerates 2 weeks.

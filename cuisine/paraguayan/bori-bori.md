@@ -75,7 +75,7 @@ Bori bori (the name is a doubling of the Guaraní "vori", meaning ball) is one o
 - **With cassava:** add 300 g peeled cubed mandioca to the broth in the last 20 minutes.
 
 ## Serving
-Hot bowls with a wedge of lime · with chipa or fresh bread on the side · with a tomato-and-onion salad · as the centrepiece of a Paraguayan winter Sunday lunch · with a glass of mate cocido after.
+- Hot bowls with a wedge of lime · with chipa or fresh bread on the side · with a tomato-and-onion salad · as the centrepiece of a Paraguayan winter Sunday lunch · with a glass of mate cocido after.
 
 ## Storage
 - Keeps 3 days refrigerated; the dumplings soften slightly on day two

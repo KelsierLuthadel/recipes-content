@@ -70,14 +70,14 @@ Arroz graneado (literally "grained rice" or "loose-grained rice") is the everyda
 - **Crushed garlic, not chopped:** crushed cloves perfume the pan without breaking up into chewable pieces; chopped garlic burns at the toasting stage.
 
 ## Variations
-**Arroz con ají amarillo:** stir 1 teaspoon Peruvian-Bolivian aji amarillo paste into the cooking water for a yellow-tinted version.
-**Arroz graneado con aceitunas:** scatter 50 g chopped black olives over the rice at the rest stage.
-**Arroz con choclo:** add 100 g cooked corn kernels at the rest stage; the highland Sunday version.
-**Arroz amarillo:** add 1/2 teaspoon ground turmeric or 1 small pinch saffron with the salt for a yellow rice.
-**Vegan-friendly already:** skip the butter; the dish is plant-based by default.
+- **Arroz con ají amarillo:** stir 1 teaspoon Peruvian-Bolivian aji amarillo paste into the cooking water for a yellow-tinted version.
+- **Arroz graneado con aceitunas:** scatter 50 g chopped black olives over the rice at the rest stage.
+- **Arroz con choclo:** add 100 g cooked corn kernels at the rest stage; the highland Sunday version.
+- **Arroz amarillo:** add 1/2 teaspoon ground turmeric or 1 small pinch saffron with the salt for a yellow rice.
+- **Vegan-friendly already:** skip the butter; the dish is plant-based by default.
 
 ## Serving
-At a Bolivian lunch alongside silpancho (the classic pairing) · with pique macho · beside chairo soup · with locro de papa · next to a salteña on a market table · with sajta de pollo · as the daily side at any Bolivian home table.
+- At a Bolivian lunch alongside silpancho (the classic pairing) · with pique macho · beside chairo soup · with locro de papa · next to a salteña on a market table · with sajta de pollo · as the daily side at any Bolivian home table.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

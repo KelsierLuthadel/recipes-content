@@ -49,7 +49,7 @@ Kokoda is the dish that announces a Fijian meal. Fresh firm white fish is cubed 
 - **Coconut cream:** Thick cream, not milk. Skim the top of a tin of full-fat coconut milk that has been refrigerated overnight; the solid white layer is the cream.
 
 ## Serving
-Serve very cold as a starter or light lunch. The coconut shell presentation is traditional but a chilled bowl is fine. Bread and lime wedges alongside.
+- Serve very cold as a starter or light lunch. The coconut shell presentation is traditional but a chilled bowl is fine. Bread and lime wedges alongside.
 
 ## Storage
 - Eat within 4 hours of mixing. After that the coconut cream separates and the fish toughens.

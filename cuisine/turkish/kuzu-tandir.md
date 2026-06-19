@@ -128,13 +128,13 @@ Kuzu tandır (literally "tandoor lamb") is Turkey's most luxurious lamb celebrat
 - **Rest before serving:** 15-20 minutes of resting is essential; the meat redistributes its juices and is much easier to shred.
 
 ## Variations
-**Kuzu tandır with apricot:** add 200 g of dried apricots and 100 g of pearl barley to the cooking liquid; common Anatolian variation with sweet-savoury depth.
-**Goat tandır (keçi tandır):** use a kid goat shoulder or leg in place of lamb; cook the same way. Common variation in southeast Turkey.
-**Lamb-in-clay (tandır altinda):** for the proper tandır effect, cook in a sealed clay pot at 140°C; the clay retains heat differently and gives a slightly different texture. Worth seeking out a clay roasting pot if you make this often.
-**With chestnuts and pomegranate:** add 200 g of peeled chestnuts to the cooking liquid; finish with a drizzle of pomegranate molasses and fresh pomegranate seeds. Festive variation.
+- **Kuzu tandır with apricot:** add 200 g of dried apricots and 100 g of pearl barley to the cooking liquid; common Anatolian variation with sweet-savoury depth.
+- **Goat tandır (keçi tandır):** use a kid goat shoulder or leg in place of lamb; cook the same way. Common variation in southeast Turkey.
+- **Lamb-in-clay (tandır altinda):** for the proper tandır effect, cook in a sealed clay pot at 140°C; the clay retains heat differently and gives a slightly different texture. Worth seeking out a clay roasting pot if you make this often.
+- **With chestnuts and pomegranate:** add 200 g of peeled chestnuts to the cooking liquid; finish with a drizzle of pomegranate molasses and fresh pomegranate seeds. Festive variation.
 
 ## Serving
-At the centre of a Turkish celebration table: alongside pilaf, grilled vegetables, yogurt, salads, warm flatbread and ample garnishes. Drink: rakı (the traditional aniseed spirit, slowly sipped over ice with water); red wine; or strong sweet Turkish tea after the meal.
+- At the centre of a Turkish celebration table: alongside pilaf, grilled vegetables, yogurt, salads, warm flatbread and ample garnishes. Drink: rakı (the traditional aniseed spirit, slowly sipped over ice with water); red wine; or strong sweet Turkish tea after the meal.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens significantly overnight.

@@ -70,7 +70,7 @@ Kalb el louz (literally "heart of almonds") is the great Algerian Ramadan cake, 
 - **Cool syrup, hot cake.** Same rule as with baklawa and makroud. The temperature contrast is what soaks the cake without turning it to mush.
 
 ## Serving
-Serve in small diamonds at the end of a Ramadan iftar or as a Mawlid sweet, with mint tea or strong black qahwa on the side. One diamond is usually plenty; it is very sweet and very rich.
+- Serve in small diamonds at the end of a Ramadan iftar or as a Mawlid sweet, with mint tea or strong black qahwa on the side. One diamond is usually plenty; it is very sweet and very rich.
 
 ## Storage
 - Keeps 1 week in a sealed tin at room temperature; the syrup keeps the cake moist

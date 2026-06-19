@@ -94,14 +94,14 @@ The Tijuana hot dog (also called "el perro tijuanense") is the Mexican-border-to
 - **Small soft bun:** Tijuana buns are smaller than American; choose accordingly.
 
 ## Variations
-**Sonoran style:** add pinto beans, mayonnaise drizzle in a thicker stripe; gives the Sonora-Arizona variant.
-**With avocado:** chunky chopped avocado in the build.
-**With chiles toreados:** add whole pan-blistered serrano chillies on top for the proper Tijuana heat.
-**With queso fresco:** crumble queso fresco over the pico.
-**Vegetarian:** swap the bacon-wrapped dog for a halloumi-wrapped portobello cap.
+- **Sonoran style:** add pinto beans, mayonnaise drizzle in a thicker stripe; gives the Sonora-Arizona variant.
+- **With avocado:** chunky chopped avocado in the build.
+- **With chiles toreados:** add whole pan-blistered serrano chillies on top for the proper Tijuana heat.
+- **With queso fresco:** crumble queso fresco over the pico.
+- **Vegetarian:** swap the bacon-wrapped dog for a halloumi-wrapped portobello cap.
 
 ## Serving
-At a Tijuana street cart at 2 am. At a backyard barbecue. At a Mexican family party. With cold beer and salsa.
+- At a Tijuana street cart at 2 am. At a backyard barbecue. At a Mexican family party. With cold beer and salsa.
 
 ## Storage
 - Best immediately.

@@ -80,12 +80,12 @@ Matoke is Uganda's emblematic dish, the Buganda staple of green starchy plantain
 - **Royco cube:** A common Ugandan kitchen shortcut. Maggi or a teaspoon of bouillon paste works the same.
 
 ## Variations
-**Vegetarian matoke:** Omit beef, double the plantains and add 300 g of butter beans or red kidney beans in stage 1. Use vegetable stock.
-**Smoked fish matoke:** Replace beef with 300 g of flaked smoked mackerel, stirred in at the end of stage 3 rather than browned.
+- **Vegetarian matoke:** Omit beef, double the plantains and add 300 g of butter beans or red kidney beans in stage 1. Use vegetable stock.
+- **Smoked fish matoke:** Replace beef with 300 g of flaked smoked mackerel, stirred in at the end of stage 3 rather than browned.
 
 ## Serving
-Serve with: A side of steamed sukuma wiki (collard greens) or a simple cabbage slaw to cut the richness.
-Garnish with: Fresh coriander and a wedge of lime.
+- Serve with: A side of steamed sukuma wiki (collard greens) or a simple cabbage slaw to cut the richness.
+- Garnish with: Fresh coriander and a wedge of lime.
 
 ## Storage
 - Keeps 2 days refrigerated.

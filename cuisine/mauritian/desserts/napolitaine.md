@@ -92,13 +92,13 @@ Napolitaine is one of the most distinctive sweets in Mauritian patisserie, found
 - **Cool the biscuits completely before sandwiching:** warm biscuits melt the jam; cold biscuits hold the jam firmly without leak.
 
 ## Variations
-**Strawberry napolitaine:** swap the raspberry jam for strawberry; the colour is similar but the flavour is sweeter and less tart. Common at some bakeries.
-**Vanilla napolitaine:** swap the jam for a thick vanilla buttercream (40 g butter creamed with 80 g icing sugar and 1 teaspoon vanilla); gives a richer version.
-**Smaller napolitaines:** use a 4 cm cutter instead of 6 cm; makes 16 smaller sandwiches. Common as the "petit napolitaine" sold at tea-time.
-**Chocolate napolitaine:** dip in a chocolate ganache instead of pink icing; gives a darker, less candy-pink version. Common at modern Mauritian bakeries.
+- **Strawberry napolitaine:** swap the raspberry jam for strawberry; the colour is similar but the flavour is sweeter and less tart. Common at some bakeries.
+- **Vanilla napolitaine:** swap the jam for a thick vanilla buttercream (40 g butter creamed with 80 g icing sugar and 1 teaspoon vanilla); gives a richer version.
+- **Smaller napolitaines:** use a 4 cm cutter instead of 6 cm; makes 16 smaller sandwiches. Common as the "petit napolitaine" sold at tea-time.
+- **Chocolate napolitaine:** dip in a chocolate ganache instead of pink icing; gives a darker, less candy-pink version. Common at modern Mauritian bakeries.
 
 ## Serving
-With strong tea, milky coffee, or chocolat chaud. Properly served at 4pm or at Sunday afternoon family gatherings. Children love them; adults pretend to be too sensible for them then eat three.
+- With strong tea, milky coffee, or chocolat chaud. Properly served at 4pm or at Sunday afternoon family gatherings. Children love them; adults pretend to be too sensible for them then eat three.
 
 ## Storage
 - Keeps in a sealed container at room temperature 4 days; the icing sets hard but the shortbread stays soft for the first 2 days. After day 2 the shortbread firms up.

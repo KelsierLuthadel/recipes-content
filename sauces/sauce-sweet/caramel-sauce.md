@@ -52,7 +52,7 @@ Caramel sauce is the building block for the classic dessert sauce that gets spoo
 - **Egg yolks are optional:** Add richness but make sauce slightly less stable.
 
 ## Serving
-Serve cold with vanilla ice cream, profiteroles, or other desserts. Can be churned into ice cream by adding 75 ml water before churning.
+- Serve cold with vanilla ice cream, profiteroles, or other desserts. Can be churned into ice cream by adding 75 ml water before churning.
 
 ## Storage
 - Keeps refrigerated for 2 weeks in an airtight container.

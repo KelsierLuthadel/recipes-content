@@ -126,17 +126,17 @@ Bajan stew chicken is the dish that anchors the traditional Bajan Sunday-lunch p
 - **The Bajan Sunday plate:** stew chicken alone is incomplete. Serve with rice and peas + macaroni pie + fried plantain, the traditional full plate.
 
 ## Variations
-**Bajan stew chicken with okra:** add 200 g sliced okra in the last 15 minutes, the rural Bajan variant.
-**Bajan stew oxtail (the celebratory variant):** swap chicken for 1.5 kg oxtail pieces; brown hard; simmer 3 hours; the same gravy.
-**Curry chicken Bajan style:** add 2 tablespoons Caribbean curry powder to the marinade; an Indian-Caribbean variant.
-**Pepper-chicken (extra spicy):** double the Scotch bonnet; the heat-lovers' variant.
-**Coconut stew chicken:** add the full 400 ml of coconut milk; reduces to a creamier gravy, the festive Caribbean variant.
-**Slow-cooker Bajan stew chicken:** brown the chicken in a pan; transfer to a slow cooker with the rest; low for 6 hours.
-**Stew pork (Bajan):** same method with pork shoulder cubes; 90 minutes braising time.
-**Vegetarian stew "chicken" (jackfruit):** swap chicken for canned green jackfruit; same marinade and gravy.
+- **Bajan stew chicken with okra:** add 200 g sliced okra in the last 15 minutes, the rural Bajan variant.
+- **Bajan stew oxtail (the celebratory variant):** swap chicken for 1.5 kg oxtail pieces; brown hard; simmer 3 hours; the same gravy.
+- **Curry chicken Bajan style:** add 2 tablespoons Caribbean curry powder to the marinade; an Indian-Caribbean variant.
+- **Pepper-chicken (extra spicy):** double the Scotch bonnet; the heat-lovers' variant.
+- **Coconut stew chicken:** add the full 400 ml of coconut milk; reduces to a creamier gravy, the festive Caribbean variant.
+- **Slow-cooker Bajan stew chicken:** brown the chicken in a pan; transfer to a slow cooker with the rest; low for 6 hours.
+- **Stew pork (Bajan):** same method with pork shoulder cubes; 90 minutes braising time.
+- **Vegetarian stew "chicken" (jackfruit):** swap chicken for canned green jackfruit; same marinade and gravy.
 
 ## Serving
-At a Bajan Sunday lunch (the traditional setting; the most-defining Bajan family meal) · at a Bajan Independence Day (30 November) celebration · at a Bajan family birthday party · at a Bajan wedding lunch · at a Bajan church potluck · at a Bajan rum-shop on Sunday afternoons · at home as the traditional Bajan-themed Sunday dinner · paired with macaroni pie, rice and peas, fried plantain, and cold beer.
+- At a Bajan Sunday lunch (the traditional setting; the most-defining Bajan family meal) · at a Bajan Independence Day (30 November) celebration · at a Bajan family birthday party · at a Bajan wedding lunch · at a Bajan church potluck · at a Bajan rum-shop on Sunday afternoons · at home as the traditional Bajan-themed Sunday dinner · paired with macaroni pie, rice and peas, fried plantain, and cold beer.
 
 ## Storage
 - Refrigerates 4 days; reheats well on the stovetop with a small splash of stock or water.

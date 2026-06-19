@@ -67,7 +67,7 @@ This recipe is a careful approximation. It does not use spinach (a frequent and 
 - **Oysters Mosca:** a Louisiana variation with breadcrumbs, garlic and oregano, baked under olive oil.
 
 ## Serving
-A traditional New Orleans starter: 3 oysters per person, with a cold glass of Sancerre or Muscadet. Half a baguette on the side for mopping the herb butter from the empty shells.
+- A traditional New Orleans starter: 3 oysters per person, with a cold glass of Sancerre or Muscadet. Half a baguette on the side for mopping the herb butter from the empty shells.
 
 ## Storage
 The herb butter keeps 5 days refrigerated, or freezes 3 months. The oysters themselves must be served the moment they come out of the broiler; reheated oysters Rockefeller is best avoided.

@@ -84,7 +84,7 @@ This is not biryani (which layers raw meat and rice, sealed and cooked together)
 - **With whole spice tarka on top:** heat 1 tbsp ghee with a few cumin seeds and a dried red chilli until aromatic, and pour over the assembled rice as a final flourish.
 
 ## Serving
-Keema rice is a one-bowl meal. Serve with a small bowl of [Mint Raita](../sauces-pickles/mint-raita.md), a few slices of cucumber and a wedge of lemon. As a side to a curry, half a bowl per person is enough.
+- Keema rice is a one-bowl meal. Serve with a small bowl of [Mint Raita](../sauces-pickles/mint-raita.md), a few slices of cucumber and a wedge of lemon. As a side to a curry, half a bowl per person is enough.
 
 ## Storage
 - Refrigerates 2 days. Reheat on the hob with a tablespoon of water, covered, on low heat for 5-6 minutes.

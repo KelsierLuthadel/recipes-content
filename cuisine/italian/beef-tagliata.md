@@ -64,13 +64,13 @@ Beef tagliata is the Tuscan trattoria classic, a thick-cut sirloin seared hot an
 - **Resting:** This is crucial, it allows carryover cooking and juice redistribution throughout the meat.
 
 ## Variations
-**With Balsamic:** Drizzle aged balsamic vinegar over the finished dish for additional depth.
-**Hot Chilli Version:** Add a pinch of red chilli flakes to the rosemary oil for warmth.
-**With Truffle Oil:** Finish with a few drops of truffle oil instead of plain olive oil for luxury.
+- **With Balsamic:** Drizzle aged balsamic vinegar over the finished dish for additional depth.
+- **Hot Chilli Version:** Add a pinch of red chilli flakes to the rosemary oil for warmth.
+- **With Truffle Oil:** Finish with a few drops of truffle oil instead of plain olive oil for luxury.
 
 ## Serving
-Serve with: Crusty bread, roasted potatoes, or a simple green salad
-Garnish with: Fresh rocket, Parmesan shavings, and fleur de sel
+- Serve with: Crusty bread, roasted potatoes, or a simple green salad
+- Garnish with: Fresh rocket, Parmesan shavings, and fleur de sel
 
 ## Storage
 - Best served immediately while warm

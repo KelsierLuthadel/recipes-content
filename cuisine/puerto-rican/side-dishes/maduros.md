@@ -61,13 +61,13 @@ Maduros ("ripe ones", sometimes called plátanos maduros or amarillos) is Puerto
 - **Cook in batches:** crowded pan steams the plantains instead of frying. Better in 2 batches.
 
 ## Variations
-**Maduros with cinnamon-sugar:** sprinkle with cinnamon-sugar after cooking; turns the side into a dessert.
-**Glazed maduros:** add 2 tablespoons of brown sugar to the pan in the last 30 seconds; the sugar caramelises into a sticky glaze.
-**Coconut maduros:** sprinkle with desiccated coconut while still warm; gives a tropical twist.
-**Maduros con queso (sweet plantains with cheese):** top with grated queso fresco or feta while warm; the cheese melts slightly. Sweet-salty combination that's a Boricua favourite.
+- **Maduros with cinnamon-sugar:** sprinkle with cinnamon-sugar after cooking; turns the side into a dessert.
+- **Glazed maduros:** add 2 tablespoons of brown sugar to the pan in the last 30 seconds; the sugar caramelises into a sticky glaze.
+- **Coconut maduros:** sprinkle with desiccated coconut while still warm; gives a tropical twist.
+- **Maduros con queso (sweet plantains with cheese):** top with grated queso fresco or feta while warm; the cheese melts slightly. Sweet-salty combination that's a Boricua favourite.
 
 ## Serving
-Alongside any Puerto Rican main course as the sweet counterpoint. Children love them as snacks. Often eaten with arroz con habichuelas as a one-bowl meal. Drink: Medalla beer, mauby, or fresh coconut water.
+- Alongside any Puerto Rican main course as the sweet counterpoint. Children love them as snacks. Often eaten with arroz con habichuelas as a one-bowl meal. Drink: Medalla beer, mauby, or fresh coconut water.
 
 ## Storage
 - Best eaten immediately while warm; the texture suffers as they cool.

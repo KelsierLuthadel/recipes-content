@@ -58,12 +58,12 @@ Bolognese (ragù alla bolognese) is the Italian meat sauce from Bologna, slow-si
 - **Passata Choice:** Homemade or freshly made passata produces far superior results to canned tomatoes.
 
 ## Variations
-**With Pancetta:** Add 75g finely chopped pancetta, cooked first to render its fat, for deeper flavor.
-**Richer Version:** Include 100ml of whole milk in the final 20 minutes of cooking for a silkier texture.
+- **With Pancetta:** Add 75g finely chopped pancetta, cooked first to render its fat, for deeper flavor.
+- **Richer Version:** Include 100ml of whole milk in the final 20 minutes of cooking for a silkier texture.
 
 ## Serving
-Serve with: Fresh pasta (spaghetti, tagliatelle), lasagne sheets, or polenta
-Garnish with: Freshly grated Parmesan, fresh basil, and a drizzle of olive oil
+- Serve with: Fresh pasta (spaghetti, tagliatelle), lasagne sheets, or polenta
+- Garnish with: Freshly grated Parmesan, fresh basil, and a drizzle of olive oil
 
 ## Storage
 - Keeps 5-7 days refrigerated in an airtight container

@@ -27,8 +27,8 @@ Blackberry coulis is the building block that gives a plated dessert its dramatic
 - **Straining:** Push the coulis through the sieve with the back of a spoon to extract all flavor while leaving seeds behind.
 
 ## Serving
-Serve with: Poached pears, vanilla ice cream, parfaits, or as a plating element on dessert plates
-Drizzle on: White plates for striking color contrast and elegant presentation
+- Serve with: Poached pears, vanilla ice cream, parfaits, or as a plating element on dessert plates
+- Drizzle on: White plates for striking color contrast and elegant presentation
 
 ## Storage
 - Keeps 4-5 days refrigerated in an airtight container

@@ -76,13 +76,13 @@ Semmelknödel are Austria's bread dumplings, the soft pale spheres that turn up 
 - **Slice with a wet knife:** a dry blade sticks to the dough and tears it. Wet between cuts and the knife slips through cleanly.
 
 ## Variations
-**Speckknödel:** mix 100 g of finely diced smoked bacon (rendered) into the bread before binding for the Tyrolean meat version, often served floating in clear beef broth rather than alongside gravy.
-**Tiroler Kasknödel:** mix 80 g of grated mountain cheese (Bergkäse) into the bread and serve in broth.
-**Spinatknödel:** swap parsley for 100 g of finely chopped wilted spinach, squeezed dry; the green dumplings are a Tyrolean specialty.
-**Marillenknödel (sweet cousin):** apricot stuffed into the centre of each dumpling, poached and rolled in buttered breadcrumbs and sugar; pure dessert territory.
+- **Speckknödel:** mix 100 g of finely diced smoked bacon (rendered) into the bread before binding for the Tyrolean meat version, often served floating in clear beef broth rather than alongside gravy.
+- **Tiroler Kasknödel:** mix 80 g of grated mountain cheese (Bergkäse) into the bread and serve in broth.
+- **Spinatknödel:** swap parsley for 100 g of finely chopped wilted spinach, squeezed dry; the green dumplings are a Tyrolean specialty.
+- **Marillenknödel (sweet cousin):** apricot stuffed into the centre of each dumpling, poached and rolled in buttered breadcrumbs and sugar; pure dessert territory.
 
 ## Serving
-Slice each dumpling in half and lay cut-face up under a generous ladle of goulash, gravy from Schweinsbraten, mushroom Rahmsauce, or simply browned butter with toasted breadcrumbs. A pickled cucumber on the side cuts through the richness. Beer or grüner veltliner.
+- Slice each dumpling in half and lay cut-face up under a generous ladle of goulash, gravy from Schweinsbraten, mushroom Rahmsauce, or simply browned butter with toasted breadcrumbs. A pickled cucumber on the side cuts through the richness. Beer or grüner veltliner.
 
 ## Storage
 - Best eaten fresh from the pot.

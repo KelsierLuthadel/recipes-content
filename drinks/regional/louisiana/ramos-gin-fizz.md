@@ -58,7 +58,7 @@ A modern bartender does not shake one drink for 15 minutes (the world record is 
 - **Frozen Ramos:** blend the dry-shake mixture with crushed ice in a high-power blender, then transfer to a shaker for a 30-second wet shake. A modern shortcut; the texture is similar but slightly more granular.
 
 ## Serving
-A Ramos Gin Fizz is a morning cocktail in New Orleans, traditionally taken after a heavy night or as a brunch indulgence. The bright citrus and protein make it sit lighter than its richness suggests. Single serving only; nobody orders a second.
+- A Ramos Gin Fizz is a morning cocktail in New Orleans, traditionally taken after a heavy night or as a brunch indulgence. The bright citrus and protein make it sit lighter than its richness suggests. Single serving only; nobody orders a second.
 
 ## Storage
 The drink itself collapses within minutes; it is a make-and-drink cocktail. Simple syrup keeps a month refrigerated; orange flower water keeps a year in the cupboard.

@@ -92,13 +92,13 @@ Arroz con gandules ("rice with pigeon peas") is Puerto Rico's unofficial nationa
 - **Medium-grain rice if possible:** gives the proper Boricua texture. Long-grain works.
 
 ## Variations
-**With ham hock instead of diced ham:** add a smoked ham hock to the pot in stage 4; cook with the rice. Remove and shred the meat before serving.
-**Vegetarian arroz con gandules:** skip the meat; double the sofrito and add 1 extra tablespoon of sazón; use vegetable stock.
-**With chicken:** add 8 bone-in chicken thighs to the pot in stage 1 (browned first); turns the dish into a one-pot arroz con pollo y gandules main course.
-**Saffron version:** add a generous pinch of saffron threads (infused in 2 tablespoons warm water) to the cooking liquid; gives an extra-luxurious version.
+- **With ham hock instead of diced ham:** add a smoked ham hock to the pot in stage 4; cook with the rice. Remove and shred the meat before serving.
+- **Vegetarian arroz con gandules:** skip the meat; double the sofrito and add 1 extra tablespoon of sazón; use vegetable stock.
+- **With chicken:** add 8 bone-in chicken thighs to the pot in stage 1 (browned first); turns the dish into a one-pot arroz con pollo y gandules main course.
+- **Saffron version:** add a generous pinch of saffron threads (infused in 2 tablespoons warm water) to the cooking liquid; gives an extra-luxurious version.
 
 ## Serving
-On a wide platter as the centre of a Boricua family meal. Alongside pernil, pollo guisado, carne guisada or any main. Sliced avocado and lime wedges. As a one-bowl meal with just a fried egg on top.
+- On a wide platter as the centre of a Boricua family meal. Alongside pernil, pollo guisado, carne guisada or any main. Sliced avocado and lime wedges. As a one-bowl meal with just a fried egg on top.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

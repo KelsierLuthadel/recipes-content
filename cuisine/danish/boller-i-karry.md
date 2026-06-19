@@ -112,14 +112,14 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 - **Pale yellow sauce:** the turmeric gives the colour. Don't add tomato or chilli; this is a gentle creamy curry.
 
 ## Variations
-**Hønsefrikadeller i karry:** swap the pork meatballs for chicken meatballs.
-**With fish (boller i karry med fisk):** swap the meatballs for fish dumplings made from cod and cream, a Lent version.
-**Spicier (modern):** add a teaspoon of curry paste (Thai red, Madras) for more heat, less traditional but increasingly common.
-**Vegetarian:** swap the meatballs for fried chickpea or paneer balls; same curry sauce.
-**Christmas leftover version:** swap the meatballs for sliced cold julestege (Christmas pork roast) for the day-after-Christmas curry leftover.
+- **Hønsefrikadeller i karry:** swap the pork meatballs for chicken meatballs.
+- **With fish (boller i karry med fisk):** swap the meatballs for fish dumplings made from cod and cream, a Lent version.
+- **Spicier (modern):** add a teaspoon of curry paste (Thai red, Madras) for more heat, less traditional but increasingly common.
+- **Vegetarian:** swap the meatballs for fried chickpea or paneer balls; same curry sauce.
+- **Christmas leftover version:** swap the meatballs for sliced cold julestege (Christmas pork roast) for the day-after-Christmas curry leftover.
 
 ## Serving
-At a Danish family Wednesday-night dinner · at a Danish school canteen lunch · at a Copenhagen kantine (workplace cafeteria) · at home with a cold beer and a Friday-feeling.
+- At a Danish family Wednesday-night dinner · at a Danish school canteen lunch · at a Copenhagen kantine (workplace cafeteria) · at home with a cold beer and a Friday-feeling.
 
 ## Storage
 - Curry sauce with meatballs refrigerates 4 days; flavour deepens overnight.

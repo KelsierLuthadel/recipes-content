@@ -104,14 +104,14 @@ The Brazilian cachorro quente (literally "hot dog") is one of South America's mo
 - **Tower of toppings:** the visual signature. Don't be restrained.
 
 ## Variations
-**Without mashed potato:** lighter version; popular in Rio.
-**With grated mozzarella:** added with the Parmesan.
-**With pickled jalapeños:** for heat.
-**With cream-cheese stripe:** spread inside the bun before the sausage.
-**Spicier:** add a Brazilian malagueta hot sauce on top.
+- **Without mashed potato:** lighter version; popular in Rio.
+- **With grated mozzarella:** added with the Parmesan.
+- **With pickled jalapeños:** for heat.
+- **With cream-cheese stripe:** spread inside the bun before the sausage.
+- **Spicier:** add a Brazilian malagueta hot sauce on top.
 
 ## Serving
-At a São Paulo street stall after midnight; at a Rio lanchonete; at a Brazilian birthday party as part of the buffet.
+- At a São Paulo street stall after midnight; at a Rio lanchonete; at a Brazilian birthday party as part of the buffet.
 
 ## Storage
 - Braising sauce refrigerates 5 days; freezes 3 months.

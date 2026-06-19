@@ -72,7 +72,7 @@ A Full English is a coordination exercise more than a recipe. You're cooking eig
 - Mushrooms are a traditional addition many cooks include. Halve a handful of chestnut mushrooms and fry in butter alongside the tomatoes if you want them.
 
 ## Serving
-Best straight from the pan onto a warmed plate. A mug of strong builder's tea with milk is the traditional drink alongside; black coffee works too. Brown sauce or HP for the savoury bits, never on the egg.
+- Best straight from the pan onto a warmed plate. A mug of strong builder's tea with milk is the traditional drink alongside; black coffee works too. Brown sauce or HP for the savoury bits, never on the egg.
 
 ## Storage
 Doesn't reheat. The eggs go rubbery, the fried bread goes leathery, the chips soften. Cook the quantity you'll eat at the table and start fresh the next day.

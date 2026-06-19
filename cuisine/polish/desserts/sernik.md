@@ -87,12 +87,12 @@ Sernik is the Polish Easter cheesecake (and Christmas Eve, and every birthday in
 - **Next day is better:** Sernik genuinely improves on day two. Make ahead.
 
 ## Variations
-**Sernik krakowski:** With a lattice top (the Krakow style; this recipe).
-**Sernik wiedenski:** With a thin chocolate ganache glaze; Vienna-influenced.
-**Plain (warszawski):** No pastry top, no lattice; just dusted with icing sugar.
+- **Sernik krakowski:** With a lattice top (the Krakow style; this recipe).
+- **Sernik wiedenski:** With a thin chocolate ganache glaze; Vienna-influenced.
+- **Plain (warszawski):** No pastry top, no lattice; just dusted with icing sugar.
 
 ## Serving
-Serve cold or just-cool from the fridge with a strong coffee. Some Polish households serve it with a thin pour of fruit compote (cherry, plum) on the side.
+- Serve cold or just-cool from the fridge with a strong coffee. Some Polish households serve it with a thin pour of fruit compote (cherry, plum) on the side.
 
 ## Storage
 - Keeps 4 days refrigerated, covered.

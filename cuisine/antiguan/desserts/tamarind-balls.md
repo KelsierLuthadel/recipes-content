@@ -52,7 +52,7 @@ Tamarind balls are the Caribbean three-flavour sweet, sour from the tamarind pul
 - **Spiced version:** Add 1/2 tsp ground cinnamon and a pinch of nutmeg with the sugar.
 
 ## Serving
-Eat as a sweet between meals · pack into lunchboxes · serve on a tray of mixed Caribbean sweets · pass round at Christmas alongside sugar cake.
+- Eat as a sweet between meals · pack into lunchboxes · serve on a tray of mixed Caribbean sweets · pass round at Christmas alongside sugar cake.
 
 ## Storage
 - Keeps 4 weeks in an airtight jar at room temperature

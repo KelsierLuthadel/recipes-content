@@ -81,17 +81,17 @@ Herb salsa is the slightly misleadingly-named French warm sauce, a textural side
 - **Spring Onion Freshness:** Fresh spring onion provides onion flavor without the harshness of raw shallot; only fresh works.
 
 ## Variations
-**Without Capers:** Substitute 1 tablespoon of chopped pickled cornichons for texture and tang (if herbs alone seem under-flavored).
-**Extra Mustard:** Increase mustard to 1 ½ tablespoons for more assertive, sharper character.
-**Lighter Version:** Reduce olive oil to 90 milliliters and add 30 milliliters water or chicken stock (creates a looser sauce, less rich).
-**More Tarragon:** Increase tarragon to 1 full tablespoon for heightened anise notes (French classic approach).
-**With Shallot:** Add ½ small shallot (finely minced) alongside the spring onion for deeper onion flavor.
+- **Without Capers:** Substitute 1 tablespoon of chopped pickled cornichons for texture and tang (if herbs alone seem under-flavored).
+- **Extra Mustard:** Increase mustard to 1 ½ tablespoons for more assertive, sharper character.
+- **Lighter Version:** Reduce olive oil to 90 milliliters and add 30 milliliters water or chicken stock (creates a looser sauce, less rich).
+- **More Tarragon:** Increase tarragon to 1 full tablespoon for heightened anise notes (French classic approach).
+- **With Shallot:** Add ½ small shallot (finely minced) alongside the spring onion for deeper onion flavor.
 
 ## Serving
-Perfect with: Fresh pasta (tortellini, cappelletti, ravioli), delicate white fish, roasted chicken, spring vegetables, light potato preparations
-Temperature: Warm or room temperature (never chilled)
-Ratio: 2-3 tablespoons per serving
-Context: Light pasta course, delicate plated presentations, spring dinners
+- Perfect with: Fresh pasta (tortellini, cappelletti, ravioli), delicate white fish, roasted chicken, spring vegetables, light potato preparations
+- Temperature: Warm or room temperature (never chilled)
+- Ratio: 2-3 tablespoons per serving
+- Context: Light pasta course, delicate plated presentations, spring dinners
 
 ## Storage
 - Refrigerate in a sealed glass container for up to 3-4 days.

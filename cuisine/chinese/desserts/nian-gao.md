@@ -59,7 +59,7 @@ Nian gao is the sticky rice cake that turns up on every Chinese family's table a
 - The freshly-steamed cake is delicious sliced thin and eaten on the day with a cup of tea, before the chilling-and-frying ritual. Both versions are correct.
 
 ## Serving
-Sliced and egg-fried for breakfast or a Day-2 dim sum spread. A small steaming spread of jasmine tea on the side.
+- Sliced and egg-fried for breakfast or a Day-2 dim sum spread. A small steaming spread of jasmine tea on the side.
 
 ## Storage
 Wrapped tightly in clingfilm, refrigerated, up to a week. It firms up further over time. Slices freeze well; thaw at room temperature before frying.

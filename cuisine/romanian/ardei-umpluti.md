@@ -91,7 +91,7 @@ Ardei umpluți are the Sunday lunch of any Romanian household once the late summ
 - **Stuffed cabbage leaves version:** same filling, wrapped in cabbage (a quick sarmale).
 
 ## Serving
-Warm or room temperature · with a generous spoon of cold sour cream · with country bread · with extra dill and pepper · with a glass of dry white wine.
+- Warm or room temperature · with a generous spoon of cold sour cream · with country bread · with extra dill and pepper · with a glass of dry white wine.
 
 ## Storage
 - Refrigerate up to 4 days; flavour improves overnight.

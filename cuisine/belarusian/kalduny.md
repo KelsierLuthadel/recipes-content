@@ -78,7 +78,7 @@ Kalduny are smaller and finer than pelmeni or pierogi: the rounds are cut at 4 t
 - **Fried kalduny.** Boil briefly until they float, then pan-fry in butter until golden. A Sunday-leftover treatment.
 
 ## Serving
-Serve hot in their broth with butter and dill · or drained and dressed with melted butter and crisp fried onion · sour cream alongside · with a pickled cucumber and a shot of cold vodka at festive tables
+- Serve hot in their broth with butter and dill · or drained and dressed with melted butter and crisp fried onion · sour cream alongside · with a pickled cucumber and a shot of cold vodka at festive tables
 
 ## Storage
 - Uncooked kalduny freeze well: lay on a tray, freeze solid, then bag; cook from frozen, adding 2 minutes to the boil

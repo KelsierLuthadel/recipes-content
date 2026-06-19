@@ -50,7 +50,7 @@ Plátano maduro is the sweet counterweight on every Costa Rican casado plate. Th
 - **Plátano frito caribeño:** Fry in coconut oil instead of vegetable oil for the Limón-coast version.
 
 ## Serving
-Serve warm as a casado plate side · alongside gallo pinto for breakfast · as a side to roast pork or grilled chicken · with a spoonful of natilla and a wedge of fresh white cheese
+- Serve warm as a casado plate side · alongside gallo pinto for breakfast · as a side to roast pork or grilled chicken · with a spoonful of natilla and a wedge of fresh white cheese
 
 ## Storage
 - Fried plantain eats best fresh and loses its crisp edge quickly

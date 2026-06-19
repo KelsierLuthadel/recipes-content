@@ -83,13 +83,13 @@ Beef meatballs in tomato sauce is the heart of Italian-American home cooking, si
 - **Gentle Simmering:** Boiling the sauce produces a harsh flavor; maintain a gentle simmer throughout.
 
 ## Variations
-**Lighter Version:** Substitute half the beef mince with ground chicken.
-**Spicy Heat:** Add ½ teaspoon dried chilli flakes to the meatball mixture.
-**Herb Variations:** Use 2 tablespoons fresh thyme instead of parsley for a different herbal character.
+- **Lighter Version:** Substitute half the beef mince with ground chicken.
+- **Spicy Heat:** Add ½ teaspoon dried chilli flakes to the meatball mixture.
+- **Herb Variations:** Use 2 tablespoons fresh thyme instead of parsley for a different herbal character.
 
 ## Serving
-Serve with: Crusty bread for sauce soaking, green salad with lemon vinaigrette, red wine
-Garnish with: Fresh basil leaves, grated Parmesan, cracked black pepper
+- Serve with: Crusty bread for sauce soaking, green salad with lemon vinaigrette, red wine
+- Garnish with: Fresh basil leaves, grated Parmesan, cracked black pepper
 
 ## Storage
 - Refrigerate cooked meatballs and sauce together in an airtight container for up to 3 days

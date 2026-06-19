@@ -73,12 +73,12 @@ A Burmese cold dessert built in a bowl from three components made separately and
 - **Authentic version:** The teashop original uses green rice-flour noodles (mont let saung proper) extruded through a brass press into iced water. The sago version is what most home cooks make and what is widely sold from street carts.
 
 ## Variations
-**Green noodle version (traditional):** Make a thick pandan-scented batter from rice flour, mung-bean flour and water; press through a coarse colander or potato ricer directly into iced water. The strands set on contact. Substitute for the sago.
-**Black sticky rice:** Replace the sago with cooked black sticky rice for a richer, nuttier bowl popular in Shan State.
+- **Green noodle version (traditional):** Make a thick pandan-scented batter from rice flour, mung-bean flour and water; press through a coarse colander or potato ricer directly into iced water. The strands set on contact. Substitute for the sago.
+- **Black sticky rice:** Replace the sago with cooked black sticky rice for a richer, nuttier bowl popular in Shan State.
 
 ## Serving
-Serve with: a glass of strong unsweetened black tea on the side to cut the richness.
-Garnish with: grated fresh coconut, toasted sesame seeds, or a slice of ripe banana laid across the top.
+- Serve with: a glass of strong unsweetened black tea on the side to cut the richness.
+- Garnish with: grated fresh coconut, toasted sesame seeds, or a slice of ripe banana laid across the top.
 
 ## Storage
 - Components keep separately in the fridge: sago 2 days (in water, change daily), coconut milk 3 days, palm syrup 2 weeks.

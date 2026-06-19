@@ -89,14 +89,14 @@ Gløgg is Denmark's Christmas mulled wine and a fixture of every Danish Advent g
 - **Drier than Swedish glögg:** the Danish balance has less sugar.
 
 ## Variations
-**Vit gløgg (white gløgg):** swap red wine for a dry white wine (Riesling, Gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
-**Bærgløgg (berry gløgg):** swap half the wine for cherry or elderberry juice; gives a less alcoholic Christmas-market version.
-**Børnegløgg (children's gløgg):** non-alcoholic, swap the wine for red grape or cherry juice; same spices, same raisins-and-almonds.
-**Aalborg-spiked:** use Aalborg Jubilæum (oak-aged akvavit) instead of rum for a herbal-akvavit Danish version.
-**Aged gløgg:** make a double batch; bottle half and age 2 weeks before drinking. The spices marry beautifully.
+- **Vit gløgg (white gløgg):** swap red wine for a dry white wine (Riesling, Gewürztraminer); add a touch of elderflower cordial. A lighter modern variant.
+- **Bærgløgg (berry gløgg):** swap half the wine for cherry or elderberry juice; gives a less alcoholic Christmas-market version.
+- **Børnegløgg (children's gløgg):** non-alcoholic, swap the wine for red grape or cherry juice; same spices, same raisins-and-almonds.
+- **Aalborg-spiked:** use Aalborg Jubilæum (oak-aged akvavit) instead of rum for a herbal-akvavit Danish version.
+- **Aged gløgg:** make a double batch; bottle half and age 2 weeks before drinking. The spices marry beautifully.
 
 ## Serving
-At every Danish Advent event from late November to Twelfth Night · at a Christmas market in Copenhagen, Aarhus, or any provincial Danish town · at a workplace Christmas party · at a candlelit dinner during Advent · at a small Christmas Eve gathering · at home with æbleskiver on a December afternoon.
+- At every Danish Advent event from late November to Twelfth Night · at a Christmas market in Copenhagen, Aarhus, or any provincial Danish town · at a workplace Christmas party · at a candlelit dinner during Advent · at a small Christmas Eve gathering · at home with æbleskiver on a December afternoon.
 
 ## Storage
 - Made gløgg refrigerates 2 weeks; reheat gently each time.

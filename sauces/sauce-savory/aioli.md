@@ -51,7 +51,7 @@ Aïoli is the building block of Provençal cooking, the golden saffron-tinted ga
 - **Saffron infusion:** Steep saffron in just-boiled water to extract colour and flavour; do not boil saffron directly.
 
 ## Serving
-Serve with salt cod, bouillabaisse, fish soups, grilled fish, steamed vegetables, and Mediterranean vegetable platters. Traditional companion to aioli royale and fish soups.
+- Serve with salt cod, bouillabaisse, fish soups, grilled fish, steamed vegetables, and Mediterranean vegetable platters. Traditional companion to aioli royale and fish soups.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

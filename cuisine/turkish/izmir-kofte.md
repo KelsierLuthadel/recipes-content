@@ -120,13 +120,13 @@
 - **Don't overcook the meatballs:** the meatballs cook through during the first 20 minutes of baking; the remaining time is for the potatoes and sauce reduction.
 
 ## Variations
-**With aubergine:** add 1 medium aubergine (cubed and salted) to the tray alongside the potatoes; gives a richer Aegean-style variation.
-**Spicier:** double the Aleppo pepper and red pepper paste; gives a fierce version popular in southeast Turkey.
-**With chickpeas:** add 1 tin of drained chickpeas to the sauce; turns the dish into a more substantial one-pot meal.
-**With lots of garlic:** double the garlic in both the meatballs and the sauce; gives a properly assertive garlic Turkish version.
+- **With aubergine:** add 1 medium aubergine (cubed and salted) to the tray alongside the potatoes; gives a richer Aegean-style variation.
+- **Spicier:** double the Aleppo pepper and red pepper paste; gives a fierce version popular in southeast Turkey.
+- **With chickpeas:** add 1 tin of drained chickpeas to the sauce; turns the dish into a more substantial one-pot meal.
+- **With lots of garlic:** double the garlic in both the meatballs and the sauce; gives a properly assertive garlic Turkish version.
 
 ## Serving
-In deep plates over rice pilav, with the sauce ladled generously. A bowl of plain yogurt for each diner. Warm flatbread for mopping. Lemon wedges. Drink: ayran, Turkish red wine, or rakı. As a Sunday family lunch or a comforting weeknight meal.
+- In deep plates over rice pilav, with the sauce ladled generously. A bowl of plain yogurt for each diner. Warm flatbread for mopping. Lemon wedges. Drink: ayran, Turkish red wine, or rakı. As a Sunday family lunch or a comforting weeknight meal.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

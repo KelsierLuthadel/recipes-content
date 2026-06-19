@@ -92,18 +92,18 @@ Alfajores are Argentina's most universally beloved biscuit: the traditional "wit
 - **Rest 30 minutes:** lets the dulce settle and the biscuits absorb a little moisture.
 
 ## Variations
-**Alfajores santafesinos:** triple-decker, three biscuits with two layers of dulce, glazed with white royal icing on top. The Santa Fe variant.
-**Alfajores cordobeses:** filled with fruit preserve instead of dulce, Cordoba variant.
-**Alfajor marplatense:** chocolate-coated alfajor, the Mar del Plata variant.
-**Alfajores Havanna:** the commercial brand, chocolate-dipped with dulce filling. Slightly sweeter biscuit, more elaborate.
-**Alfajor de chocolate triple:** three layers of chocolate biscuit with chocolate dulce and chocolate coating, the chocoholic variant.
-**Alfajor con mermelada (fruit jam version):** instead of dulce, sandwich with apricot jam or quince paste.
-**Vegan alfajores:** swap butter for vegan baking block; egg yolks for 4 tablespoons aquafaba.
-**Mini alfajores:** smaller biscuits (3 cm); perfect for party canapés.
-**Alfajor de maicena (the traditional):** the cornflour-heavy version described above. The Argentine standard.
+- **Alfajores santafesinos:** triple-decker, three biscuits with two layers of dulce, glazed with white royal icing on top. The Santa Fe variant.
+- **Alfajores cordobeses:** filled with fruit preserve instead of dulce, Cordoba variant.
+- **Alfajor marplatense:** chocolate-coated alfajor, the Mar del Plata variant.
+- **Alfajores Havanna:** the commercial brand, chocolate-dipped with dulce filling. Slightly sweeter biscuit, more elaborate.
+- **Alfajor de chocolate triple:** three layers of chocolate biscuit with chocolate dulce and chocolate coating, the chocoholic variant.
+- **Alfajor con mermelada (fruit jam version):** instead of dulce, sandwich with apricot jam or quince paste.
+- **Vegan alfajores:** swap butter for vegan baking block; egg yolks for 4 tablespoons aquafaba.
+- **Mini alfajores:** smaller biscuits (3 cm); perfect for party canapés.
+- **Alfajor de maicena (the traditional):** the cornflour-heavy version described above. The Argentine standard.
 
 ## Serving
-At every Argentine merienda (afternoon tea, the traditional setting) · at every Argentine bakery counter · at every Argentine school cafeteria · at every Argentine children's birthday party · at a Buenos Aires café with espresso · at a Mendoza picnic · at home as the daily sweet snack · packaged as a tourist gift from Argentina.
+- At every Argentine merienda (afternoon tea, the traditional setting) · at every Argentine bakery counter · at every Argentine school cafeteria · at every Argentine children's birthday party · at a Buenos Aires café with espresso · at a Mendoza picnic · at home as the daily sweet snack · packaged as a tourist gift from Argentina.
 
 ## Storage
 - Keep in a sealed tin at room temperature 1 week.

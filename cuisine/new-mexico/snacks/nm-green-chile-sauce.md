@@ -64,13 +64,13 @@ New Mexico green chile sauce is the green counterpart to the red chile sauce and
 - **Optional blend smooth.**
 
 ## Variations
-**Spicier:** include hot Hatch chiles.
-**Christmas style (alongside red):** half red + half green on the plate.
-**Pork-flavoured:** use pork stock and add small piece of cooked pork.
-**Vegetarian:** vegetable stock.
+- **Spicier:** include hot Hatch chiles.
+- **Christmas style (alongside red):** half red + half green on the plate.
+- **Pork-flavoured:** use pork stock and add small piece of cooked pork.
+- **Vegetarian:** vegetable stock.
 
 ## Serving
-On burgers, stews, enchiladas, eggs.
+- On burgers, stews, enchiladas, eggs.
 
 ## Storage
 - Keeps refrigerated 5 days.

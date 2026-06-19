@@ -81,7 +81,7 @@ Aloo tama (literally "potato bamboo") is one of Nepal's most distinctive dishes,
 - **Spicier:** double the fresh and dried chillies; add a teaspoon of cayenne in stage 2.
 
 ## Serving
-Eaten with plain rice or roti as a one-bowl meal, or as the tarkari component of a full [dal bhat tarkari](dal-bhat-tarkari.md) plate. A spoonful of plain yoghurt on the side cools the heat.
+- Eaten with plain rice or roti as a one-bowl meal, or as the tarkari component of a full [dal bhat tarkari](dal-bhat-tarkari.md) plate. A spoonful of plain yoghurt on the side cools the heat.
 
 ## Storage
 - Improves overnight; the bamboo flavour deepens. Refrigerates 3 days.

@@ -54,17 +54,17 @@ Tsire is the coarse coating powder behind West African grilled kebabs, particula
 - **West African Tradition:** Tsire is street food and celebratory cooking; embrace the communal, outdoor spirit.
 
 ## Variations
-**Spicier Heat:** Increase chilli powder to 1 ½ teaspoons or add ½ teaspoon extra cayenne.
-**Milder Coating:** Reduce chilli powder to ½ teaspoon and omit cayenne.
-**Extra Peanut Depth:** Increase peanuts to 60 grams while keeping spice amounts the same.
-**Smoky Version:** Add ½ teaspoon smoked paprika (reduce mixed spice to ½ teaspoon if needed to maintain balance).
-**With Garlic:** Add ½ teaspoon garlic powder to complement the meat application.
+- **Spicier Heat:** Increase chilli powder to 1 ½ teaspoons or add ½ teaspoon extra cayenne.
+- **Milder Coating:** Reduce chilli powder to ½ teaspoon and omit cayenne.
+- **Extra Peanut Depth:** Increase peanuts to 60 grams while keeping spice amounts the same.
+- **Smoky Version:** Add ½ teaspoon smoked paprika (reduce mixed spice to ½ teaspoon if needed to maintain balance).
+- **With Garlic:** Add ½ teaspoon garlic powder to complement the meat application.
 
 ## Serving
-Use in: Meat kebabs (grilled over coals), spiced lamb or beef skewers, grilled chicken preparations
-Typical ratio: 3-4 tablespoons tsire powder per 1 pound meat (about 6-8 skewers)
-Application: Oil or egg-beat meat, roll generously in tsire powder, grill over high heat
-Additional: Dust finished kebabs with a little more tsire powder before serving
+- Use in: Meat kebabs (grilled over coals), spiced lamb or beef skewers, grilled chicken preparations
+- Typical ratio: 3-4 tablespoons tsire powder per 1 pound meat (about 6-8 skewers)
+- Application: Oil or egg-beat meat, roll generously in tsire powder, grill over high heat
+- Additional: Dust finished kebabs with a little more tsire powder before serving
 
 ## Storage
 - Store in airtight container in cool, dark place away from light and heat

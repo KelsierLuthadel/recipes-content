@@ -96,13 +96,13 @@ Buffalo wings (named for Buffalo, NY, not for buffalo meat) are one of America's
 - **Eat immediately while hot.**
 
 ## Variations
-**Mild:** swap half the hot sauce for melted butter.
-**XXX hot:** add 2 tablespoons cayenne + 1 chopped fresh chilli.
-**Honey hot:** double the honey.
-**Baked (less authentic):** 220°C 40 min, no oil.
+- **Mild:** swap half the hot sauce for melted butter.
+- **XXX hot:** add 2 tablespoons cayenne + 1 chopped fresh chilli.
+- **Honey hot:** double the honey.
+- **Baked (less authentic):** 220°C 40 min, no oil.
 
 ## Serving
-At sports bars, tailgates, Super Bowl parties. Cold beer.
+- At sports bars, tailgates, Super Bowl parties. Cold beer.
 
 ## Storage
 - Best immediately.

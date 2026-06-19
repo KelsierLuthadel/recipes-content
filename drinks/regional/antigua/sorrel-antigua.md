@@ -58,7 +58,7 @@ Sorrel, called hibiscus tea elsewhere, is the colour of dark rubies and the smel
 - **Sorrel and ginger beer:** Mix half sorrel and half ginger beer for a Christmas long drink.
 
 ## Serving
-Serve cold in tall glasses with ice · at every Antiguan Christmas meal · alongside fungie and pepperpot · with black cake on Christmas Day.
+- Serve cold in tall glasses with ice · at every Antiguan Christmas meal · alongside fungie and pepperpot · with black cake on Christmas Day.
 
 ## Storage
 - Keeps 10 days refrigerated in a sealed bottle

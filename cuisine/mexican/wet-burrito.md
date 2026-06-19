@@ -78,12 +78,12 @@ The Wet Burrito (also called the Smothered Burrito) is the Midwestern and Texan 
 - **Don't over-sauce the burrito before baking:** The sauce can soak through and make the tortilla collapse; pour over the rolled burrito in the dish, not before rolling.
 
 ## Variations
-**Green wet burrito:** Use salsa verde (tomatillo-based) instead of red enchilada sauce.
-**Vegetarian:** Skip the meat, double the beans, add roasted vegetables.
-**Cheese-heavy:** Add an extra layer of cheese inside the burrito as well as on top.
+- **Green wet burrito:** Use salsa verde (tomatillo-based) instead of red enchilada sauce.
+- **Vegetarian:** Skip the meat, double the beans, add roasted vegetables.
+- **Cheese-heavy:** Add an extra layer of cheese inside the burrito as well as on top.
 
 ## Serving
-Serve in deep plates with the sauce pooling around the burrito. Shredded lettuce, sliced tomato, sour cream and jalapeños on top; chips and salsa on the side.
+- Serve in deep plates with the sauce pooling around the burrito. Shredded lettuce, sliced tomato, sour cream and jalapeños on top; chips and salsa on the side.
 
 ## Storage
 - The filling and enchilada sauce keep 4 days refrigerated; freeze separately 2 months

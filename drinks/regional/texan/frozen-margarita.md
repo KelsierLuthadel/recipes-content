@@ -57,7 +57,7 @@ The recipe below is the home version. For best results, salt the rim, use fresh 
 - **Top-shelf:** swap the Cointreau for Grand Marnier and add a 30 ml float of Grand Marnier on top after pouring. Mariano's premium move.
 
 ## Serving
-A frozen margarita is a porch-and-pool drink, the cocktail for a Texas summer. Pairs effortlessly with chips and queso, tacos, fajitas, and the company of others. One is plenty; two is the standard.
+- A frozen margarita is a porch-and-pool drink, the cocktail for a Texas summer. Pairs effortlessly with chips and queso, tacos, fajitas, and the company of others. One is plenty; two is the standard.
 
 ## Storage
 The drink does not keep; it slumps within 15-20 minutes. Make in batches: the rule of thumb is to make a fresh blender's worth every 30 minutes for a party, rather than holding a large pitcher that goes watery.

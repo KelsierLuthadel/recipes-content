@@ -83,14 +83,14 @@ The Norwegian pølse i lompe ("sausage in lompe") is Norway's national hot dog a
 - **Roll like a burrito:** tightly so it holds while eating.
 
 ## Variations
-**Lompe med potetstappe (lompe with mashed potato):** add a stripe of warm mash inside the wrap.
-**Lompe med rekesalat (with shrimp salad):** add a spoon of shrimp salad, the Scandinavian sweet-creamy lift.
-**Pølse med bacon:** wrap the sausage in bacon and grill before adding to the lompe.
-**Spicier:** add a zigzag of sriracha (less traditional, increasingly common).
-**Lompe two sausages (for big eaters):** double up.
+- **Lompe med potetstappe (lompe with mashed potato):** add a stripe of warm mash inside the wrap.
+- **Lompe med rekesalat (with shrimp salad):** add a spoon of shrimp salad, the Scandinavian sweet-creamy lift.
+- **Pølse med bacon:** wrap the sausage in bacon and grill before adding to the lompe.
+- **Spicier:** add a zigzag of sriracha (less traditional, increasingly common).
+- **Lompe two sausages (for big eaters):** double up.
 
 ## Serving
-On Syttende Mai (Constitution Day, May 17th) with the family in the centre of Oslo, Bergen or Trondheim. At a kiosk in any Norwegian train station. At a hytte (cabin) weekend.
+- On Syttende Mai (Constitution Day, May 17th) with the family in the centre of Oslo, Bergen or Trondheim. At a kiosk in any Norwegian train station. At a hytte (cabin) weekend.
 
 ## Storage
 - Lompe keep wrapped in a kitchen towel 1 day; freeze 2 months (thaw and warm in dry pan).

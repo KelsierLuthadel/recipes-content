@@ -85,14 +85,14 @@ Crab back is the Dominican land-crab dish, the celebration plate served on a fre
 - **Breadcrumb amount:** 60 g for the body, 30 g for the top. Less for a wetter stuffing; more for a firmer one.
 
 ## Variations
-**With coconut:** stir 2 tbsp of grated fresh coconut into the stuffing for a slightly sweet variant.
-**With sherry:** add 1 tbsp of dry sherry to the sweat for an old-Creole grand-house version.
-**Spicier:** use a whole half scotch bonnet for a hotter stuffing.
-**With cheese top:** sprinkle 30 g of grated parmesan over the breadcrumbs before baking.
-**With curry note:** add 1/4 tsp of Caribbean curry powder to the sweat.
+- **With coconut:** stir 2 tbsp of grated fresh coconut into the stuffing for a slightly sweet variant.
+- **With sherry:** add 1 tbsp of dry sherry to the sweat for an old-Creole grand-house version.
+- **Spicier:** use a whole half scotch bonnet for a hotter stuffing.
+- **With cheese top:** sprinkle 30 g of grated parmesan over the breadcrumbs before baking.
+- **With curry note:** add 1/4 tsp of Caribbean curry powder to the sweat.
 
 ## Serving
-Serve hot from the oven with a wedge of lime on the rim · with bakes for dipping into the buttery stuffing · with cold mauby or sorrel · as a Dominican first course at a holiday table · alongside crisp green salad · with hot pepper sauce on the table.
+- Serve hot from the oven with a wedge of lime on the rim · with bakes for dipping into the buttery stuffing · with cold mauby or sorrel · as a Dominican first course at a holiday table · alongside crisp green salad · with hot pepper sauce on the table.
 
 ## Storage
 - The filled raw shells keep 24 hours refrigerated before baking; useful for prep-ahead.

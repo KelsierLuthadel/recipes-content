@@ -82,7 +82,7 @@ Lovo is the Fijian earth-oven, and the name covers both the pit itself and the f
 - **Coconut cream over the meats:** This is the key Fijian touch - the coconut basting through the cook gives the lovo its character. Without it, you have a regular slow-roast.
 
 ## Serving
-Serve communally on the board with the unwrapped contents arranged together. Fijian fresh chutney (lolo chutney - coconut, chilli, lime) and pickled chilli on the side. Soft white rice if you want extra starch.
+- Serve communally on the board with the unwrapped contents arranged together. Fijian fresh chutney (lolo chutney - coconut, chilli, lime) and pickled chilli on the side. Soft white rice if you want extra starch.
 
 ## Storage
 - Refrigerate leftovers 3 days. Reheat in a covered dish at 150 C with a splash of water.

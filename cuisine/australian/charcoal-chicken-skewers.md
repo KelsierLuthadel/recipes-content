@@ -68,7 +68,7 @@ The flavour you'd get at a Melbourne charcoal-chicken takeaway, distilled into s
 - **Curry powder is the secret**: half a teaspoon, just enough to add warmth without tasting curry-flavoured. Skipping it gives a fine but less rounded result.
 
 ## Serving
-Pull the chicken off the skewers onto warm flatbread. Pile salad and sauce on top, fold, eat with your hands. Or serve skewers whole alongside roasted potatoes and the salad as a proper Sunday dinner.
+- Pull the chicken off the skewers onto warm flatbread. Pile salad and sauce on top, fold, eat with your hands. Or serve skewers whole alongside roasted potatoes and the salad as a proper Sunday dinner.
 
 ## Storage
 - Cooked chicken keeps in the fridge for 3 days. Reheat in a hot pan for 90 seconds per side.

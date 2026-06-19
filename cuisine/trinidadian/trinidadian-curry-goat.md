@@ -81,12 +81,12 @@ Trinidadian curry goat sits in a quiet rivalry with Jamaican curry goat, but the
 - **Roasted geera (cumin):** dry-toast whole cumin seeds in a pan until almost burnt then grind. The slightly bitter, smoky note is a Trinidadian curry signature and you cannot fake it with plain ground cumin.
 
 ## Variations
-**Curry mutton:** Same recipe with adult mutton goat; cook 1 ¾ to 2 hours.
-**Curry duck:** Replace goat with bone-in duck pieces; cook 1 ¼ hours. A rum-shop classic.
-**No-potato version:** Trinidadian curry goat is often served without potatoes when paired with roti; keep them in only if you are serving with rice.
+- **Curry mutton:** Same recipe with adult mutton goat; cook 1 ¾ to 2 hours.
+- **Curry duck:** Replace goat with bone-in duck pieces; cook 1 ¼ hours. A rum-shop classic.
+- **No-potato version:** Trinidadian curry goat is often served without potatoes when paired with roti; keep them in only if you are serving with rice.
 
 ## Serving
-Serve with buss-up-shut paratha roti, dhalpuri, or plain white rice. A simple cucumber-and-tomato chow salad, a spoon of mango chutney and a bottle of homemade pepper sauce complete the plate. A cold beer or a sorrel drink alongside.
+- Serve with buss-up-shut paratha roti, dhalpuri, or plain white rice. A simple cucumber-and-tomato chow salad, a spoon of mango chutney and a bottle of homemade pepper sauce complete the plate. A cold beer or a sorrel drink alongside.
 
 ## Storage
 - Improves dramatically overnight; the gravy thickens and the flavour deepens. Keeps 3-4 days refrigerated.

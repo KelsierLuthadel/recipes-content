@@ -58,14 +58,14 @@ The 1-2-3-4 rum punch is the Caribbean's bar formula, scratched onto the chalkbo
 - **The nutmeg is the Grenadian signature:** without the heavy fresh grate it's just a Caribbean punch; with it, it's Spice Island.
 
 ## Variations
-**Coconut rum punch:** swap the orange juice for coconut water for a paler tropical version.
-**Passion fruit rum punch:** swap half the orange juice for fresh passion fruit pulp.
-**Frozen rum punch:** blend with crushed ice for a slushy bar version.
-**Stronger (overproof):** use 90 ml of overproof rum and 90 ml of dark for the serious-drinkers' version.
-**Punch bowl:** scale up x4 in a large jug with floating fruit slices for a party version.
+- **Coconut rum punch:** swap the orange juice for coconut water for a paler tropical version.
+- **Passion fruit rum punch:** swap half the orange juice for fresh passion fruit pulp.
+- **Frozen rum punch:** blend with crushed ice for a slushy bar version.
+- **Stronger (overproof):** use 90 ml of overproof rum and 90 ml of dark for the serious-drinkers' version.
+- **Punch bowl:** scale up x4 in a large jug with floating fruit slices for a party version.
 
 ## Serving
-At a Grenadian beach bar · at a Sunday afternoon lime · poured from a jug at a wedding · with peanut nuts on the side · grated with extra nutmeg over the top to finish.
+- At a Grenadian beach bar · at a Sunday afternoon lime · poured from a jug at a wedding · with peanut nuts on the side · grated with extra nutmeg over the top to finish.
 
 ## Storage
 - Best fresh; the lime juice goes flat within a few hours.

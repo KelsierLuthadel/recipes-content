@@ -98,13 +98,13 @@ Pholourie is one of Trinidad's most beloved snacks, brought to the island by Ind
 - **Use both flours if you can:** the chickpea flour is the base; the split pea flour adds a slightly different texture and depth. Pure chickpea flour works but is less.
 
 ## Variations
-**Pumpkin pholourie:** add 100 g of finely grated raw pumpkin to the batter; gives orange-flecked pholourie with extra moisture.
-**Sahina (related leafy version):** swap the batter approach for callaloo leaves dipped in seasoned chickpea batter and fried; called sahina, a related Trinidadian fritter.
-**Mini pholourie:** make smaller balls (½ teaspoon batter each); gives bite-sized canapés. Common at parties.
-**Spicier:** double the Scotch bonnet in both the batter and the chutney; serve with extra-hot pepper sauce. Properly fierce Trini version.
+- **Pumpkin pholourie:** add 100 g of finely grated raw pumpkin to the batter; gives orange-flecked pholourie with extra moisture.
+- **Sahina (related leafy version):** swap the batter approach for callaloo leaves dipped in seasoned chickpea batter and fried; called sahina, a related Trinidadian fritter.
+- **Mini pholourie:** make smaller balls (½ teaspoon batter each); gives bite-sized canapés. Common at parties.
+- **Spicier:** double the Scotch bonnet in both the batter and the chutney; serve with extra-hot pepper sauce. Properly fierce Trini version.
 
 ## Serving
-In a bowl with toothpicks (or just hands); two small bowls of mango chutney and tamarind sauce alongside. As a snack, appetiser, or party food. Drink: Carib beer, sorrel juice, or strong sweet black tea. Often appears at the start of a Trini Sunday meal alongside curried-channa-and-aloo and roti.
+- In a bowl with toothpicks (or just hands); two small bowls of mango chutney and tamarind sauce alongside. As a snack, appetiser, or party food. Drink: Carib beer, sorrel juice, or strong sweet black tea. Often appears at the start of a Trini Sunday meal alongside curried-channa-and-aloo and roti.
 
 ## Storage
 - Best eaten immediately while hot and crisp.

@@ -87,7 +87,7 @@ Puchero is the Spanish boil-up that crossed the Atlantic with immigrants and set
 - **Hervido style.** A lighter Uruguayan version uses chicken instead of beef and skips the chickpeas; quicker (1 hour total) and brighter.
 
 ## Serving
-Broth-and-rice in deep bowls first · the meat platter as the second course · chimichurri in a jug · marrow on toast with coarse salt · a tumbler of Tannat.
+- Broth-and-rice in deep bowls first · the meat platter as the second course · chimichurri in a jug · marrow on toast with coarse salt · a tumbler of Tannat.
 
 ## Storage
 - The strained broth keeps 4 days refrigerated; freezes 3 months.

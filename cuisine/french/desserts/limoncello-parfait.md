@@ -57,7 +57,7 @@ Limoncello parfait is the summer dinner-party dessert that turns lemon liqueur i
 - Select the most perfect raspberries for the topping and halve them gently; the surrounding coulis provides tartness to balance the sweet parfait
 
 ## Serving
-Release the parfait onto a chilled plate and carefully spoon a hollow in the center (dipped spoon prevents cracking). Fill the hollow with fresh raspberries and surround with vibrant raspberry coulis and drizzles of coulis around the base. Top with a single mint sprig for color. Serve immediately.
+- Release the parfait onto a chilled plate and carefully spoon a hollow in the center (dipped spoon prevents cracking). Fill the hollow with fresh raspberries and surround with vibrant raspberry coulis and drizzles of coulis around the base. Top with a single mint sprig for color. Serve immediately.
 
 ## Storage
 The assembled and unmolded parfait can be prepared up to 2-3 hours before serving and returned to the freezer, though the hollow should be made just before plating. The frozen parfait in its mold keeps for up to one week; cover with cling film to prevent freezer burn. The raspberry coulis can be made 2-3 days ahead and stored covered in the refrigerator. The fresh raspberries for topping should be added only at plating time.

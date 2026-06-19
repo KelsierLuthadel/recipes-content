@@ -55,7 +55,7 @@ Potage Parmentier is the French potato-and-leek soup named for the 18th-century 
 - **Serving:** Can be served hot or chilled; chilling enhances flavors.
 
 ## Serving
-Serve hot or chilled, garnished with chopped chives.
+- Serve hot or chilled, garnished with chopped chives.
 
 ## Storage
 - Refrigerate up to 3 days; reheat gently.

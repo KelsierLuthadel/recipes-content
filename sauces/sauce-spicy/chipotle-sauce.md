@@ -57,7 +57,7 @@ Chipotle sauce is the building block for the deeply smoky barbecue sauce that pa
 - **Smoke-dried peppers:** Source of this sauce's distinctive smoky character; no substitute.
 
 ## Serving
-Serve as marinade for grilled meats or as an accompaniment to barbecue. Also excellent stirred into cream cheese for sandwich filling or mixed with sour cream for a dip.
+- Serve as marinade for grilled meats or as an accompaniment to barbecue. Also excellent stirred into cream cheese for sandwich filling or mixed with sour cream for a dip.
 
 ## Storage
 - Keeps refrigerated for 1 week in an airtight container.

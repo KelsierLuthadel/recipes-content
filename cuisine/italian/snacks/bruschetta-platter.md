@@ -59,13 +59,13 @@ Two bruschette on one platter for an antipasto with two reasons to keep coming b
 - **Oil quality:** Use excellent extra virgin olive oil, it's a key flavour element in this simple dish.
 
 ## Variations
-**Mushroom and Garlic:** Sauté sliced mushrooms with garlic and thyme; top bruschetta with arugula underneath.
-**Whipped Ricotta Base:** Spread warm bruschetta with whipped ricotta mixed with lemon zest before adding toppings.
-**Balsamic Glaze:** Drizzle finished bruschetta with aged balsamic reduction for sweetness and depth.
+- **Mushroom and Garlic:** Sauté sliced mushrooms with garlic and thyme; top bruschetta with arugula underneath.
+- **Whipped Ricotta Base:** Spread warm bruschetta with whipped ricotta mixed with lemon zest before adding toppings.
+- **Balsamic Glaze:** Drizzle finished bruschetta with aged balsamic reduction for sweetness and depth.
 
 ## Serving
-Serve with: A chilled glass of prosecco or white wine
-Garnish with: Fresh basil leaves and extra virgin olive oil drizzle
+- Serve with: A chilled glass of prosecco or white wine
+- Garnish with: Fresh basil leaves and extra virgin olive oil drizzle
 
 ## Storage
 - Best served immediately for optimal bread crispness

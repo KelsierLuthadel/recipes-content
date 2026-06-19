@@ -84,7 +84,7 @@ Maizes zupa is the dessert-soup nobody quite knows how to classify. It is poured
 - **Apple version:** Add 2 peeled diced eating apples with the dried fruits; lightens the dessert.
 
 ## Serving
-Serve cold in shallow bowls as a dessert. Some restaurants offer it as a starter; the home tradition is at the end of a meal. A small almond biscuit on the saucer.
+- Serve cold in shallow bowls as a dessert. Some restaurants offer it as a starter; the home tradition is at the end of a meal. A small almond biscuit on the saucer.
 
 ## Storage
 - Keeps 4 days refrigerated; deepens on day two.

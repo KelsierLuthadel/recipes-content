@@ -81,13 +81,13 @@ Salt-and-pepper fries (chips in Aussie English) is one of Australia's most belov
 - **Dry the potatoes thoroughly:** wet potatoes spit and steam.
 
 ## Variations
-**Chinese salt-and-pepper fries:** add 1 teaspoon of Chinese five-spice powder and 1 teaspoon of Sichuan peppercorn powder to the seasoning; gives the Chinese-Australian fusion version popular in Sydney and Melbourne.
-**Cheesy salt-and-pepper fries:** sprinkle 80 g of finely grated Parmesan + truffle oil along with the seasoning; gives a more luxurious gastropub version.
-**Sweet potato variant:** swap regular potatoes for sweet potatoes; cook the same way; sweeter version.
-**Air-fried (lighter):** toss with 3 tablespoons of oil; air-fry at 200°C for 18-20 minutes shaking halfway; sprinkle with seasoning; less crisp but lighter.
+- **Chinese salt-and-pepper fries:** add 1 teaspoon of Chinese five-spice powder and 1 teaspoon of Sichuan peppercorn powder to the seasoning; gives the Chinese-Australian fusion version popular in Sydney and Melbourne.
+- **Cheesy salt-and-pepper fries:** sprinkle 80 g of finely grated Parmesan + truffle oil along with the seasoning; gives a more luxurious gastropub version.
+- **Sweet potato variant:** swap regular potatoes for sweet potatoes; cook the same way; sweeter version.
+- **Air-fried (lighter):** toss with 3 tablespoons of oil; air-fry at 200°C for 18-20 minutes shaking halfway; sprinkle with seasoning; less crisp but lighter.
 
 ## Serving
-In a basket lined with greaseproof paper, with tomato sauce, aioli or garlic mayo. Alongside a parmi, steak, schnitzel, or fish and chips. Drink: VB, Coopers Pale Ale, XXXX Gold, or a glass of Aussie shiraz. At the pub on Friday night.
+- In a basket lined with greaseproof paper, with tomato sauce, aioli or garlic mayo. Alongside a parmi, steak, schnitzel, or fish and chips. Drink: VB, Coopers Pale Ale, XXXX Gold, or a glass of Aussie shiraz. At the pub on Friday night.
 
 ## Storage
 - Best eaten immediately.

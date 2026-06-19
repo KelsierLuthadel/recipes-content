@@ -113,13 +113,13 @@ Kolaches (Czech: koláč; Texan: kolache, the singular borrowed without the č) 
 - **Multiple fillings:** the proper Czech-Texan kolache spread has 3-4 types.
 
 ## Variations
-**Klobasniky (savoury):** wrap the dough around a small smoked sausage; serve as a hearty Texan breakfast.
-**Cream cheese and jam combo:** half well of cream cheese, half well of apricot jam; common variation.
-**Spiced:** add cinnamon and nutmeg to the dough; gives autumnal version.
-**With nuts:** add chopped walnuts or pecans to the dough; gives crunch.
+- **Klobasniky (savoury):** wrap the dough around a small smoked sausage; serve as a hearty Texan breakfast.
+- **Cream cheese and jam combo:** half well of cream cheese, half well of apricot jam; common variation.
+- **Spiced:** add cinnamon and nutmeg to the dough; gives autumnal version.
+- **With nuts:** add chopped walnuts or pecans to the dough; gives crunch.
 
 ## Serving
-Warm with strong coffee. At Czech-Texan bakeries (West, Caldwell, La Grange, the traditional Texas-Czech towns). At Texas breakfast spreads.
+- Warm with strong coffee. At Czech-Texan bakeries (West, Caldwell, La Grange, the traditional Texas-Czech towns). At Texas breakfast spreads.
 
 ## Storage
 - Keeps in a sealed container at room temperature 3 days.

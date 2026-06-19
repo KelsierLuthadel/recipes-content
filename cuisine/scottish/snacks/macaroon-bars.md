@@ -100,16 +100,16 @@ The Scottish macaroon bar is one of the country's strangest and most beloved con
 - **The potato is undetectable:** if you're worried about your guests detecting potato, don't be. Once mixed with that much icing sugar, the potato disappears entirely.
 
 ## Variations
-**Without potato (modern shortcut):** swap the potato for 2-3 tablespoons of water + 1 tablespoon of glucose syrup; the texture is slightly different but the dish works.
-**With cocoa fondant:** add 30 g cocoa powder to the fondant mixture, chocolate macaroon bars.
-**With lemon:** add the zest of 2 lemons + 1 teaspoon lemon juice to the fondant, bright, modern variant.
-**With raspberry:** add 1 tablespoon freeze-dried raspberry powder to the fondant, pink-flecked version.
-**Mini macaroon bites:** form into small balls instead of bars; coat and roll in coconut.
-**Half-dipped:** dip only one end in chocolate, then roll the chocolate-end in coconut, visually striking.
-**Triple-coated:** dip in chocolate, roll in coconut, allow to set, then drizzle with melted white chocolate, modern fancy version.
+- **Without potato (modern shortcut):** swap the potato for 2-3 tablespoons of water + 1 tablespoon of glucose syrup; the texture is slightly different but the dish works.
+- **With cocoa fondant:** add 30 g cocoa powder to the fondant mixture, chocolate macaroon bars.
+- **With lemon:** add the zest of 2 lemons + 1 teaspoon lemon juice to the fondant, bright, modern variant.
+- **With raspberry:** add 1 tablespoon freeze-dried raspberry powder to the fondant, pink-flecked version.
+- **Mini macaroon bites:** form into small balls instead of bars; coat and roll in coconut.
+- **Half-dipped:** dip only one end in chocolate, then roll the chocolate-end in coconut, visually striking.
+- **Triple-coated:** dip in chocolate, roll in coconut, allow to set, then drizzle with melted white chocolate, modern fancy version.
 
 ## Serving
-At Scottish school bake-sales (the traditional setting; arranged on doilies on a folding table) · at a Scottish church fete · at a Saint Andrew's Day market in Edinburgh · as a Scottish Christmas-stocking treat · in Lees of Scotland branded wrapping in any Scottish corner shop · at a Highland coffee morning with a cup of strong tea · at a Burns Night supper as a curiosity for the English guests.
+- At Scottish school bake-sales (the traditional setting; arranged on doilies on a folding table) · at a Scottish church fete · at a Saint Andrew's Day market in Edinburgh · as a Scottish Christmas-stocking treat · in Lees of Scotland branded wrapping in any Scottish corner shop · at a Highland coffee morning with a cup of strong tea · at a Burns Night supper as a curiosity for the English guests.
 
 ## Storage
 - Keeps in a sealed tin (not the fridge after the initial set) for 2 weeks.

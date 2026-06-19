@@ -90,13 +90,13 @@ Cuban empanadas are the deep-fried street-snack of every Havana corner stall, a 
 - **Lard vs butter:** Lard makes a flakier, more savoury crust. Butter works.
 
 ## Variations
-**Chicken:** Replace beef with 400 g cooked, shredded chicken; reduce simmer time to 5 minutes.
-**Ham and cheese (jamón y queso):** Fill with cubed cooked ham and mature cheese instead of picadillo; gooey, fast.
-**Black bean (vegetarian):** Replace beef with 300 g cooked drained black beans, mashed coarsely with the sofrito.
+- **Chicken:** Replace beef with 400 g cooked, shredded chicken; reduce simmer time to 5 minutes.
+- **Ham and cheese (jamón y queso):** Fill with cubed cooked ham and mature cheese instead of picadillo; gooey, fast.
+- **Black bean (vegetarian):** Replace beef with 300 g cooked drained black beans, mashed coarsely with the sofrito.
 
 ## Serving
-Serve with: Mojo for dunking, hot sauce, lime wedges, cold beer.
-Garnish with: A scatter of fresh coriander, lime wedges, a small bowl of pickled onion.
+- Serve with: Mojo for dunking, hot sauce, lime wedges, cold beer.
+- Garnish with: A scatter of fresh coriander, lime wedges, a small bowl of pickled onion.
 
 ## Storage
 - Shaped uncooked empanadas freeze 1 month; fry from frozen, adding 1 minute.

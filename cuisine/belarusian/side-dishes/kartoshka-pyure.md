@@ -67,7 +67,7 @@
 - **Bul'ba z grybami.** Top each serving with sautéed wild mushrooms and fried onion; almost a main course.
 
 ## Serving
-Serve hot under machanka or vereshchaka gravy · also with fried sausage and pickled cabbage · with herring and onion for a Lent supper · alongside a fried egg for a children's lunch
+- Serve hot under machanka or vereshchaka gravy · also with fried sausage and pickled cabbage · with herring and onion for a Lent supper · alongside a fried egg for a children's lunch
 
 ## Storage
 - Best eaten the moment it is made

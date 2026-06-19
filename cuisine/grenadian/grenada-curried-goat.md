@@ -81,14 +81,14 @@ Curried goat is the Sunday meat of the Caribbean, and the Grenadian version sepa
 - **Fresh nutmeg matters:** ground nutmeg from a jar has lost its oils; grate a whole nutmeg right into the pot.
 
 ## Variations
-**Curried mutton:** swap goat for mutton (older sheep); same method, 30 minutes longer.
-**Curried lamb:** use lamb shoulder; reduce cooking time to 1 hour 45 minutes total.
-**Curried chicken:** bone-in chicken thighs and drumsticks; cook 45 minutes total.
-**With pumpkin:** add 300 g cubed pumpkin with the potatoes; collapses into the gravy.
-**Trini-style:** add 2 tablespoons of mustard at the end (a Trinidadian crossover touch).
+- **Curried mutton:** swap goat for mutton (older sheep); same method, 30 minutes longer.
+- **Curried lamb:** use lamb shoulder; reduce cooking time to 1 hour 45 minutes total.
+- **Curried chicken:** bone-in chicken thighs and drumsticks; cook 45 minutes total.
+- **With pumpkin:** add 300 g cubed pumpkin with the potatoes; collapses into the gravy.
+- **Trini-style:** add 2 tablespoons of mustard at the end (a Trinidadian crossover touch).
 
 ## Serving
-With white rice or pelau · with a Grenada roti · with sliced cucumber and tomato · with mango chutney · with pepper sauce passed at the table.
+- With white rice or pelau · with a Grenada roti · with sliced cucumber and tomato · with mango chutney · with pepper sauce passed at the table.
 
 ## Storage
 - Keeps 4 days refrigerated; improves on day 2.

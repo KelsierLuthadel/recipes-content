@@ -82,13 +82,13 @@ Tennessee chess pie is one of the most iconic Southern pies and a Tennessee Sund
 - **Cool completely before slicing.**
 
 ## Variations
-**Lemon chess pie:** add zest of 2 lemons + juice of 1.
-**Chocolate chess pie:** add 80 g melted dark chocolate.
-**Coconut chess pie:** add 80 g shredded coconut.
-**Buttermilk chess pie:** swap vinegar for 100 ml buttermilk.
+- **Lemon chess pie:** add zest of 2 lemons + juice of 1.
+- **Chocolate chess pie:** add 80 g melted dark chocolate.
+- **Coconut chess pie:** add 80 g shredded coconut.
+- **Buttermilk chess pie:** swap vinegar for 100 ml buttermilk.
 
 ## Serving
-At Sunday dinners, holidays, family gatherings.
+- At Sunday dinners, holidays, family gatherings.
 
 ## Storage
 - Refrigerated 4 days.

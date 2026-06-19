@@ -92,13 +92,13 @@ Ensopado de borrego (literally "soaked lamb") is one of Portugal's most beloved 
 - **Slow-cook properly:** 60-75 minutes for fork-tender.
 
 ## Variations
-**Goat (cabrito) version:** swap lamb for young goat; common Alentejo variation.
-**With chickpeas:** add 1 tin of drained chickpeas in the last 30 minutes.
-**Spicier:** double the piri-piri.
-**Without cinnamon (purist):** some Alentejo cooks omit; both versions are valid.
+- **Goat (cabrito) version:** swap lamb for young goat; common Alentejo variation.
+- **With chickpeas:** add 1 tin of drained chickpeas in the last 30 minutes.
+- **Spicier:** double the piri-piri.
+- **Without cinnamon (purist):** some Alentejo cooks omit; both versions are valid.
 
 ## Serving
-In deep bowls over the bread, drizzled with olive oil. Portuguese red wine (Alentejo region). As a Sunday Alentejo lunch.
+- In deep bowls over the bread, drizzled with olive oil. Portuguese red wine (Alentejo region). As a Sunday Alentejo lunch.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

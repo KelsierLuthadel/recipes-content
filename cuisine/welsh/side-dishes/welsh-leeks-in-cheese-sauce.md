@@ -71,7 +71,7 @@ The leek is the national emblem of Wales, and this is the dish that puts it on t
 - **Grilled finish:** skip the oven, finish under a hot grill 5 minutes.
 
 ## Serving
-Alongside a Sunday roast of lamb · as a chapel-supper main with bread · at St David's Day lunch · with grilled gammon · as a weeknight tea served with mashed potato.
+- Alongside a Sunday roast of lamb · as a chapel-supper main with bread · at St David's Day lunch · with grilled gammon · as a weeknight tea served with mashed potato.
 
 ## Storage
 - Keeps 3 days refrigerated, the sauce thickens on chilling.

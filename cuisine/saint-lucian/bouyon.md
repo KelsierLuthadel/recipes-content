@@ -85,7 +85,7 @@ Bouyon is the everyday Eastern Caribbean stew, found in slightly different forms
 - **Dumpling shape:** Bajan/Saint Lucian dumplings are rough - not Chinese-precise. Pinched cylinders or small flat ovals are traditional.
 
 ## Serving
-Serve in deep bowls with a wedge of lime and a small spoon of chilli pepper sauce on the side. Bread and butter alongside if it's a really cold evening.
+- Serve in deep bowls with a wedge of lime and a small spoon of chilli pepper sauce on the side. Bread and butter alongside if it's a really cold evening.
 
 ## Storage
 - Refrigerate 4 days; the flavour deepens overnight as the provisions absorb the broth.

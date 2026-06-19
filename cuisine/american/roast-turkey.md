@@ -104,12 +104,12 @@ A whole roast turkey is the centrepiece of the American Thanksgiving table and m
 - **Save the carcass:** simmer overnight with onion, carrot and celery for the best stock you will make all year.
 
 ## Variations
-**Smaller bird (3-4 kg):** Use a 30 g salt brine, scale the butter to 120 g, and cook 1 ½ - 2 hours total at the same temperatures.
-**Spatchcocked:** Remove the backbone and flatten the bird. Skip the cavity aromatics. Roast at 220°C / 425°F skin-side up the whole time, around 75-90 minutes for a 5 kg bird. Faster, crispier skin, slightly less dramatic for the table.
-**No-herb butter:** Plain salted butter rubbed under and over the skin with a tablespoon of cracked black pepper. Simpler but still excellent.
+- **Smaller bird (3-4 kg):** Use a 30 g salt brine, scale the butter to 120 g, and cook 1 ½ - 2 hours total at the same temperatures.
+- **Spatchcocked:** Remove the backbone and flatten the bird. Skip the cavity aromatics. Roast at 220°C / 425°F skin-side up the whole time, around 75-90 minutes for a 5 kg bird. Faster, crispier skin, slightly less dramatic for the table.
+- **No-herb butter:** Plain salted butter rubbed under and over the skin with a tablespoon of cracked black pepper. Simpler but still excellent.
 
 ## Serving
-The American holiday platter: roast turkey with gravy, bread stuffing or cornbread dressing, mashed potatoes, candied sweet potatoes or sweet potato casserole, green bean casserole or buttered green beans, cranberry sauce and dinner rolls. A glass of pinot noir, riesling or beaujolais alongside.
+- The American holiday platter: roast turkey with gravy, bread stuffing or cornbread dressing, mashed potatoes, candied sweet potatoes or sweet potato casserole, green bean casserole or buttered green beans, cranberry sauce and dinner rolls. A glass of pinot noir, riesling or beaujolais alongside.
 
 ## Storage
 - Carved turkey keeps 3-4 days refrigerated in a sealed container. Reheat gently with a splash of stock to avoid drying.

@@ -87,14 +87,14 @@ Holodnik (from the Slavic "holod", meaning cold) is the Belarusian summer answer
 - **Chill at least 1 hour:** the longer it sits, the better. Overnight is the Belarusian grandmother's standard.
 
 ## Variations
-**Holodnik with kefir + sour cream:** swap 200 ml of the kefir for 200 ml sour cream for a thicker, richer soup.
-**With beef ham:** add 100 g diced cooked salt-cured beef ham (the Belarusian meaty version, a festival dish).
-**With smoked salmon:** add 100 g flaked smoked salmon at the bowl stage (the modern Minsk-restaurant version).
-**Vegan holodnik:** use coconut yoghurt or oat-milk kefir; skip the egg; replace the dairy garnish with vegan sour cream.
-**Tart holodnik:** add 2 tablespoons more lemon juice and 1 tablespoon brine from a jar of pickles; sharper, more refreshing.
+- **Holodnik with kefir + sour cream:** swap 200 ml of the kefir for 200 ml sour cream for a thicker, richer soup.
+- **With beef ham:** add 100 g diced cooked salt-cured beef ham (the Belarusian meaty version, a festival dish).
+- **With smoked salmon:** add 100 g flaked smoked salmon at the bowl stage (the modern Minsk-restaurant version).
+- **Vegan holodnik:** use coconut yoghurt or oat-milk kefir; skip the egg; replace the dairy garnish with vegan sour cream.
+- **Tart holodnik:** add 2 tablespoons more lemon juice and 1 tablespoon brine from a jar of pickles; sharper, more refreshing.
 
 ## Serving
-At a Belarusian summer table (the traditional setting) · alongside dark rye bread and a glass of cold kvass · at a name-day lunch when it's too hot for borshch · as the first course before machanka or vereshchaka · at a Minsk dacha lunch · packed cold in a Thermos for a forest-walk picnic.
+- At a Belarusian summer table (the traditional setting) · alongside dark rye bread and a glass of cold kvass · at a name-day lunch when it's too hot for borshch · as the first course before machanka or vereshchaka · at a Minsk dacha lunch · packed cold in a Thermos for a forest-walk picnic.
 
 ## Storage
 - Refrigerates 2 days in a sealed jug; the colour stays bright.

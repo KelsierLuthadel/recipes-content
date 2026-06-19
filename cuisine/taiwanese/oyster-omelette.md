@@ -99,13 +99,13 @@ Oyster omelette (ô-á-tsian in Taiwanese Hokkien, é-zi-jian in Mandarin) is on
 - **The sauce makes the dish:** unsauced oyster omelette is bland; the sweet-savoury chilli orange sauce is what makes it Taiwanese street food.
 
 ## Variations
-**Shrimp omelette (xia ren jian):** swap the oysters for 100 g of small peeled raw shrimp; cooks the same way. Common at restaurants that don't have fresh oysters.
-**Mushroom oyster omelette (vegetarian-friendly):** add 100 g of sliced shiitake mushrooms along with the oysters; or swap the oysters entirely for 200 g of mushrooms for a vegetarian version.
-**Without flip:** the home-cook version skips the flip and just cooks longer on the first side; equally good if you're not confident with the flip.
-**Black sauce version:** swap the orange sauce for a savoury black sauce of soy sauce, dark soy, sugar and chilli oil (no ketchup); common in some southern Taiwan stalls.
+- **Shrimp omelette (xia ren jian):** swap the oysters for 100 g of small peeled raw shrimp; cooks the same way. Common at restaurants that don't have fresh oysters.
+- **Mushroom oyster omelette (vegetarian-friendly):** add 100 g of sliced shiitake mushrooms along with the oysters; or swap the oysters entirely for 200 g of mushrooms for a vegetarian version.
+- **Without flip:** the home-cook version skips the flip and just cooks longer on the first side; equally good if you're not confident with the flip.
+- **Black sauce version:** swap the orange sauce for a savoury black sauce of soy sauce, dark soy, sugar and chilli oil (no ketchup); common in some southern Taiwan stalls.
 
 ## Serving
-On a warm plate with the sauce spooned over generously. Eat immediately while hot; the texture is best fresh. Drink: Taiwan Beer; bubble tea; or chrysanthemum tea for the proper night-market combination.
+- On a warm plate with the sauce spooned over generously. Eat immediately while hot; the texture is best fresh. Drink: Taiwan Beer; bubble tea; or chrysanthemum tea for the proper night-market combination.
 
 ## Storage
 - Oyster omelette is best eaten immediately; the texture goes off as it cools (the starch goes harder and chewier).

@@ -88,13 +88,13 @@ Achard de légumes is Mauritius's signature vegetable pickle, brought to the isl
 - **Let it rest:** achard tastes better after a 30-minute rest at room temperature, and even better the next day. Make ahead if possible.
 
 ## Variations
-**Achard de carrots (carrot only):** make with 400 g of julienned carrot alone; gives a sweet bright orange pickle that's particularly good with biryani.
-**Achard de palm heart (achard coeur de palmier):** swap half the cauliflower for sliced palm hearts (canned); gives a tropical Mauritian variation.
-**Spicier achard:** double the green chillies and add 1 teaspoon of red chilli powder to the spice base; the proper Mauritian fierce version.
-**With fresh turmeric:** swap the ground turmeric for 2 thumbs of fresh turmeric (peeled and finely grated); gives a brighter fresher flavour and the most vivid golden colour.
+- **Achard de carrots (carrot only):** make with 400 g of julienned carrot alone; gives a sweet bright orange pickle that's particularly good with biryani.
+- **Achard de palm heart (achard coeur de palmier):** swap half the cauliflower for sliced palm hearts (canned); gives a tropical Mauritian variation.
+- **Spicier achard:** double the green chillies and add 1 teaspoon of red chilli powder to the spice base; the proper Mauritian fierce version.
+- **With fresh turmeric:** swap the ground turmeric for 2 thumbs of fresh turmeric (peeled and finely grated); gives a brighter fresher flavour and the most vivid golden colour.
 
 ## Serving
-Alongside biryani Mauritian-style, rougaille, any curry, or as a relish for grilled fish or chicken. A small spoonful next to the main dish; it cuts through richer flavours and adds a crunchy aromatic note. Often part of the Mauritian Sunday lunch table alongside dholl puri and curries.
+- Alongside biryani Mauritian-style, rougaille, any curry, or as a relish for grilled fish or chicken. A small spoonful next to the main dish; it cuts through richer flavours and adds a crunchy aromatic note. Often part of the Mauritian Sunday lunch table alongside dholl puri and curries.
 
 ## Storage
 - Keeps refrigerated 2 weeks in a clean sealed jar; the flavour deepens noticeably over the first 3-4 days.

@@ -72,7 +72,7 @@ This is the dish you cook to make somebody gasp. The sound is the entire point: 
 - **Timing:** Deep-fry the rice just before serving; it softens quickly as it absorbs the sauce.
 
 ## Serving
-Serve at table for dramatic effect
+- Serve at table for dramatic effect
 
 ## Storage
 - Best served immediately for optimal sizzle and texture

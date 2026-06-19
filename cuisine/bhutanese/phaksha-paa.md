@@ -75,11 +75,11 @@ A Bhutanese pork belly braise that leans Sichuanese on the spice rack, the Himal
 - **Bhutanese red rice:** the short-grain red rice from Paro and Bumthang is the proper accompaniment. Brown basmati or even ordinary white rice work fine if you cannot find it.
 
 ## Variations
-**Sikam Phaksha Paa:** the eastern Bhutanese version made with sikam, dried pork that is rehydrated and braised. Smokier and more intense; needs an extra 20 minutes of cooking.
-**Phaksha Phing:** a related dish made with mungbean glass noodles in the same chilli sauce, finished with cabbage instead of radish.
+- **Sikam Phaksha Paa:** the eastern Bhutanese version made with sikam, dried pork that is rehydrated and braised. Smokier and more intense; needs an extra 20 minutes of cooking.
+- **Phaksha Phing:** a related dish made with mungbean glass noodles in the same chilli sauce, finished with cabbage instead of radish.
 
 ## Serving
-Serve with: red rice (or any plain rice), a side of plain steamed greens or ema datshi for the full Bhutanese plate, and a small dish of ezay (raw chilli relish with tomato and onion) for those who want even more heat.
+- Serve with: red rice (or any plain rice), a side of plain steamed greens or ema datshi for the full Bhutanese plate, and a small dish of ezay (raw chilli relish with tomato and onion) for those who want even more heat.
 
 ## Storage
 - Keeps 3 days refrigerated; the flavour deepens and the radish becomes even softer overnight.

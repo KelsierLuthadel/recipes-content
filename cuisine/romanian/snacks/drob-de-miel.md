@@ -92,7 +92,7 @@ Drob de miel is the Romanian answer to Easter, the dish every grandmother makes 
 - **Saxon Transylvanian:** with a teaspoon of caraway in place of allspice.
 
 ## Serving
-Cold, sliced thin · with horseradish cream or English mustard · with country bread · on the Easter cold-meats table · with a glass of dry red wine.
+- Cold, sliced thin · with horseradish cream or English mustard · with country bread · on the Easter cold-meats table · with a glass of dry red wine.
 
 ## Storage
 - Refrigerate up to 5 days; flavour deepens.

@@ -92,13 +92,13 @@ If you don't have a large mortar, you can make bok l'hong in a wide bowl with a 
 - **Eat fresh:** bok l'hong is meant to be made and eaten in the same hour. It doesn't keep beyond a few hours; the papaya loses its crunch and the tomatoes go too soft.
 
 ## Variations
-**Bok l'hong with prahok (traditional Cambodian):** add 1 teaspoon of prahok (fermented fish paste) to the dressing; gives the salad a properly funky umami depth that's authentically Cambodian. Strong flavour; not for everyone.
-**Bok l'hong with crab:** add 100 g of cooked picked crab meat to the salad at the end; tossed gently rather than pounded. A more luxurious variation.
-**Bok l'hong with grilled chicken:** serve the salad alongside 200 g of grilled chicken (Cambodian-style: marinated in lemongrass, garlic, soy and palm sugar) for a more substantial meal.
-**Bok l'hong with green mango:** swap the green papaya for green mango (peeled, julienned); slightly tarter and brighter. Common variation when green papaya is unavailable.
+- **Bok l'hong with prahok (traditional Cambodian):** add 1 teaspoon of prahok (fermented fish paste) to the dressing; gives the salad a properly funky umami depth that's authentically Cambodian. Strong flavour; not for everyone.
+- **Bok l'hong with crab:** add 100 g of cooked picked crab meat to the salad at the end; tossed gently rather than pounded. A more luxurious variation.
+- **Bok l'hong with grilled chicken:** serve the salad alongside 200 g of grilled chicken (Cambodian-style: marinated in lemongrass, garlic, soy and palm sugar) for a more substantial meal.
+- **Bok l'hong with green mango:** swap the green papaya for green mango (peeled, julienned); slightly tarter and brighter. Common variation when green papaya is unavailable.
 
 ## Serving
-On a serving plate scattered with peanuts and coriander, with sticky rice (the traditional accompaniment) in a separate bamboo basket. Wraps of cabbage or lettuce leaves on the side for diners to make their own bites. Drink: Angkor beer; or a cold glass of palm wine if you can get it; or just plain water (the salad is so loud that subtle drinks get lost).
+- On a serving plate scattered with peanuts and coriander, with sticky rice (the traditional accompaniment) in a separate bamboo basket. Wraps of cabbage or lettuce leaves on the side for diners to make their own bites. Drink: Angkor beer; or a cold glass of palm wine if you can get it; or just plain water (the salad is so loud that subtle drinks get lost).
 
 ## Storage
 - Best eaten within 2 hours of making.

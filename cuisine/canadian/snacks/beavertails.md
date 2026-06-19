@@ -108,19 +108,19 @@ BeaverTails are flat, hand-stretched, deep-fried doughnuts shaped to roughly res
 - **Don't reheat in the microwave:** the texture is destroyed. The oven (200°C for 4 minutes) revives them passably; freshly fried is always better.
 
 ## Variations
-**Killaloe Sunrise (the original BeaverTails Inc. variant):** dust with cinnamon-sugar; squeeze fresh lemon juice over, the traditional Ottawa kiosk classic.
-**Choco-Hazelnut BeaverTail:** spread 2 tablespoons warm Nutella over the hot pastry; eat immediately.
-**Maple Butter and Skor:** spread with maple butter (recipe above); sprinkle 1 tablespoon of crushed Skor or Heath toffee bits.
-**Apple Cinnamon BeaverTail:** dust with cinnamon-sugar; pile with finely chopped cooked apples (apple chunks pre-stewed with brown sugar and cinnamon).
-**Reese BeaverTail:** spread peanut butter; scatter chopped Reese's Pieces or peanut-butter-cup chunks; drizzle melted chocolate.
-**Lemon-Sugar BeaverTail (the British "pancake day" style):** dust with caster sugar (no cinnamon); squeeze fresh lemon juice generously over.
-**Banana-Chocolate BeaverTail:** spread with Nutella; pile sliced banana on top.
-**Cinnamon-Maple BeaverTail (the Quebec variant):** dust with cinnamon-sugar; drizzle pure maple syrup over.
-**Vegan BeaverTail:** swap the egg for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk, the texture is slightly different but works.
-**Mini BeaverTails (for kids):** halve the dough portions (55 g each); make 12 smaller hand-stretched pieces; fry 60 seconds per side.
+- **Killaloe Sunrise (the original BeaverTails Inc. variant):** dust with cinnamon-sugar; squeeze fresh lemon juice over, the traditional Ottawa kiosk classic.
+- **Choco-Hazelnut BeaverTail:** spread 2 tablespoons warm Nutella over the hot pastry; eat immediately.
+- **Maple Butter and Skor:** spread with maple butter (recipe above); sprinkle 1 tablespoon of crushed Skor or Heath toffee bits.
+- **Apple Cinnamon BeaverTail:** dust with cinnamon-sugar; pile with finely chopped cooked apples (apple chunks pre-stewed with brown sugar and cinnamon).
+- **Reese BeaverTail:** spread peanut butter; scatter chopped Reese's Pieces or peanut-butter-cup chunks; drizzle melted chocolate.
+- **Lemon-Sugar BeaverTail (the British "pancake day" style):** dust with caster sugar (no cinnamon); squeeze fresh lemon juice generously over.
+- **Banana-Chocolate BeaverTail:** spread with Nutella; pile sliced banana on top.
+- **Cinnamon-Maple BeaverTail (the Quebec variant):** dust with cinnamon-sugar; drizzle pure maple syrup over.
+- **Vegan BeaverTail:** swap the egg for 3 tablespoons aquafaba; the butter for vegan block butter; the milk for oat milk, the texture is slightly different but works.
+- **Mini BeaverTails (for kids):** halve the dough portions (55 g each); make 12 smaller hand-stretched pieces; fry 60 seconds per side.
 
 ## Serving
-At an Ottawa BeaverTails kiosk on the frozen Rideau Canal during Winterlude (the traditional setting; February in Ottawa) · at a Quebec winter festival · at a Canadian ski-resort village · at a Canadian National Exhibition (the CNE in Toronto) · at a Banff or Whistler summer street fair · at home as a Sunday-afternoon treat with hot chocolate · paired with a hot maple toddy or a Canadian coffee.
+- At an Ottawa BeaverTails kiosk on the frozen Rideau Canal during Winterlude (the traditional setting; February in Ottawa) · at a Quebec winter festival · at a Canadian ski-resort village · at a Canadian National Exhibition (the CNE in Toronto) · at a Banff or Whistler summer street fair · at home as a Sunday-afternoon treat with hot chocolate · paired with a hot maple toddy or a Canadian coffee.
 
 ## Storage
 - Best eaten within 5 minutes of frying. The texture is destroyed after an hour.

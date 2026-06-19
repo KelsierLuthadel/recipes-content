@@ -131,13 +131,13 @@ Zurbian is one of Yemen's most beloved festive dishes: a biryani-style spiced ri
 - **Seal the pot tightly:** the steam in the sealed pot is what cooks the layered rice perfectly. Foil + lid gives the best seal.
 
 ## Variations
-**Chicken zurbian:** swap the lamb for whole chicken pieces; reduce cooking to 35 minutes. Common everyday Yemeni variation.
-**Hadhrami fish zurbian:** swap the lamb for firm white fish (kingfish, hamour, snapper); reduce cooking; add 1 tablespoon dried lime powder. Coastal Yemeni specialty.
-**Vegetable zurbian:** skip the meat; double the potatoes; add 200 g of chickpeas and 200 g of cubed pumpkin. Less traditional but works for vegetarian guests.
-**Spicier zurbian:** double the hawaij; add 2 small green chillies to the lamb cooking; finish with sahawiq (Yemeni chilli sauce). Properly fierce variation.
+- **Chicken zurbian:** swap the lamb for whole chicken pieces; reduce cooking to 35 minutes. Common everyday Yemeni variation.
+- **Hadhrami fish zurbian:** swap the lamb for firm white fish (kingfish, hamour, snapper); reduce cooking; add 1 tablespoon dried lime powder. Coastal Yemeni specialty.
+- **Vegetable zurbian:** skip the meat; double the potatoes; add 200 g of chickpeas and 200 g of cubed pumpkin. Less traditional but works for vegetarian guests.
+- **Spicier zurbian:** double the hawaij; add 2 small green chillies to the lamb cooking; finish with sahawiq (Yemeni chilli sauce). Properly fierce variation.
 
 ## Serving
-On a large communal platter, often placed at the centre of the table and eaten with the hands or with bread (Yemeni khubz tawa or lahoh). Yogurt and salad in small bowls around the platter. At Yemeni weddings, Eid feasts, and major family gatherings. Drink: Yemeni qishr (cardamom-and-ginger coffee), karkadeh (hibiscus drink), or simply water.
+- On a large communal platter, often placed at the centre of the table and eaten with the hands or with bread (Yemeni khubz tawa or lahoh). Yogurt and salad in small bowls around the platter. At Yemeni weddings, Eid feasts, and major family gatherings. Drink: Yemeni qishr (cardamom-and-ginger coffee), karkadeh (hibiscus drink), or simply water.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

@@ -73,7 +73,7 @@ Kvass is the everyday non-alcoholic (or barely alcoholic, 0.5 to 1.2 percent ABV
 - **Apple kvass.** Drop 200 g of sliced tart apple in with the bread at the steeping stage; an Orsha-region variant.
 
 ## Serving
-Serve very cold from the fridge or with one ice cube · poured over okroshka cold-soup as broth · with a sprig of fresh mint · at the harvest table in jugs alongside salo and dark rye
+- Serve very cold from the fridge or with one ice cube · poured over okroshka cold-soup as broth · with a sprig of fresh mint · at the harvest table in jugs alongside salo and dark rye
 
 ## Storage
 - Keeps 5 days in capped bottles in the fridge; lightly fizzy on day 2, sharper on day 5

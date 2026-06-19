@@ -56,7 +56,7 @@ This is the elegant summer French dessert that turns ripe roasted peaches into t
 - Continuous basting during roasting keeps the peaches moist and coats them with caramel; this is essential to prevent drying
 
 ## Serving
-Place a crispy choux crown on each plate, top with a roasted peach using a palette knife, dust with icing sugar for elegant presentation, and spoon additional caramel over and around. Serve at room temperature or lightly chilled. The contrast between the crispy choux, soft peach, and silky caramel creates a harmonious, sophisticated dessert.
+- Place a crispy choux crown on each plate, top with a roasted peach using a palette knife, dust with icing sugar for elegant presentation, and spoon additional caramel over and around. Serve at room temperature or lightly chilled. The contrast between the crispy choux, soft peach, and silky caramel creates a harmonious, sophisticated dessert.
 
 ## Storage
 The choux crowns can be baked 1 day ahead and kept in an airtight container at room temperature. The peaches can be roasted and cooled in caramel up to 4 hours ahead, then gently rewarmed before serving. Assemble only when ready to serve to maintain the crispness of the choux. This is a dessert best served fresh rather than held for extended periods.

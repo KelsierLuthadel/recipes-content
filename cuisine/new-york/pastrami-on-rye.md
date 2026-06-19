@@ -66,13 +66,13 @@ Pastrami on rye is the iconic Jewish-American deli sandwich of New York and the 
 - **Pickle on the side:** essential.
 
 ## Variations
-**Reuben:** add sauerkraut + Russian dressing + Swiss cheese; grilled (see reuben recipe).
-**Cuban-style:** mustard + Swiss + ham; pressed.
-**Pastrami burger:** pile on burger patty.
-**Open-face:** with melted Swiss on top.
+- **Reuben:** add sauerkraut + Russian dressing + Swiss cheese; grilled (see reuben recipe).
+- **Cuban-style:** mustard + Swiss + ham; pressed.
+- **Pastrami burger:** pile on burger patty.
+- **Open-face:** with melted Swiss on top.
 
 ## Serving
-At lunch with Cel-Ray, pickle, slaw. NY deli classic.
+- At lunch with Cel-Ray, pickle, slaw. NY deli classic.
 
 ## Storage
 - Pastrami refrigerates 5 days; warm to serve.

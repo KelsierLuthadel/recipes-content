@@ -75,7 +75,7 @@ Karavay in full ceremonial form is the giant wedding loaf of Belarus, baked the 
 - **Sweet karavay.** Increase sugar to 100 g and add raisins; the loaf moves towards a babka shape.
 
 ## Serving
-Serve warm or at room temperature with cold butter and jam · also offered at the door with salt as a welcome to guests · with afternoon tea and a slice of hard cheese · torn open on a celebratory table for everyone to take a piece
+- Serve warm or at room temperature with cold butter and jam · also offered at the door with salt as a welcome to guests · with afternoon tea and a slice of hard cheese · torn open on a celebratory table for everyone to take a piece
 
 ## Storage
 - Keeps 3 days at room temperature wrapped in a cotton cloth

@@ -79,13 +79,13 @@ The Bahamas' Saturday-morning hangover cure, the breakfast bowl that arrives ste
 - **Don't overthink the broth:** Souse is meant to be clear and brothy, not a thick stew. Avoid thickening; the body comes from the lime and the marrow of the bones.
 
 ## Variations
-**Sheep tongue souse:** Simmer 2 sheep tongues whole until tender (about 2 hours). Peel and slice; return to the broth. Add potatoes for the last 15 minutes.
-**Conch souse:** Use 600 g cleaned, thinly sliced conch (raw); skip the long simmer and just warm the conch through in the bright broth at the end. Add lime generously.
-**Pig-foot souse:** Use 1.2 kg trimmed pig's feet; simmer 2 ½ hours until the skin and meat are tender.
+- **Sheep tongue souse:** Simmer 2 sheep tongues whole until tender (about 2 hours). Peel and slice; return to the broth. Add potatoes for the last 15 minutes.
+- **Conch souse:** Use 600 g cleaned, thinly sliced conch (raw); skip the long simmer and just warm the conch through in the bright broth at the end. Add lime generously.
+- **Pig-foot souse:** Use 1.2 kg trimmed pig's feet; simmer 2 ½ hours until the skin and meat are tender.
 
 ## Serving
-Serve with: johnnycake, grits, or thick buttered white bread.
-Garnish with: chopped parsley, hot sauce, lime wedges.
+- Serve with: johnnycake, grits, or thick buttered white bread.
+- Garnish with: chopped parsley, hot sauce, lime wedges.
 
 ## Storage
 - Keeps 3 days refrigerated. The flavour improves overnight; the citric edge softens slightly but stays bright.

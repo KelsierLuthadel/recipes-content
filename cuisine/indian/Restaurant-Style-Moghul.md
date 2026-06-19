@@ -101,9 +101,9 @@ The defining ingredients are ground almonds (for body and a faintly nutty sweetn
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a peshwari naan; the sweetness of the moghul plays well off the coconut-almond stuffing. A side of plain raita keeps the palate clean between richer bites.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md), plain basmati, or a peshwari naan; the sweetness of the moghul plays well off the coconut-almond stuffing. A side of plain raita keeps the palate clean between richer bites.
 
----
+- ---
 
 ## Storage
 Keeps 2 days in the fridge in a sealed container. The cream-based sauce thickens noticeably on cooling. Reheat gently in a pan with a splash of water or extra cream rather than the microwave, which can split the dairy.

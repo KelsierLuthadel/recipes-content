@@ -36,7 +36,7 @@ Thyme-scented sorbet is the unexpectedly elegant palate cleanser that pairs tang
 - A pinch of white pepper adds subtle spice and complexity without being detectable as pepper; it enhances the thyme flavor beautifully
 
 ## Serving
-Serve in well-chilled glasses or coupes immediately after churning for the best texture and presentation. Garnish with a tiny thyme leaf or lemon zest. Pair exceptionally well with fresh raspberries or wild strawberries when in season, either served alongside or folded in just before serving.
+- Serve in well-chilled glasses or coupes immediately after churning for the best texture and presentation. Garnish with a tiny thyme leaf or lemon zest. Pair exceptionally well with fresh raspberries or wild strawberries when in season, either served alongside or folded in just before serving.
 
 ## Storage
 Sorbets are best enjoyed fresh from the machine. If freezing for later use, store in an airtight, freezer-safe container and serve within 2-3 days, as the texture becomes increasingly hard and icy with storage. Allow to soften slightly at room temperature for 5-10 minutes before scooping if frozen for more than a few hours.

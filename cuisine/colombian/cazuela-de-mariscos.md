@@ -108,13 +108,13 @@ Cazuela de mariscos means "seafood casserole", and it's the traditional Colombia
 - **Eat with bread:** for sopping the sauce.
 
 ## Variations
-**Without octopus:** use 300 g extra shrimp; simpler.
-**Lobster cazuela:** add 1 split lobster tail; cooks 5 minutes.
-**Cazuela mixta:** add chunks of chicken thigh in stage 4 alongside the seafood; gives surf-and-turf variation.
-**Spicier:** add 2 chopped fresh chillies to the base; properly Caribbean fierce.
+- **Without octopus:** use 300 g extra shrimp; simpler.
+- **Lobster cazuela:** add 1 split lobster tail; cooks 5 minutes.
+- **Cazuela mixta:** add chunks of chicken thigh in stage 4 alongside the seafood; gives surf-and-turf variation.
+- **Spicier:** add 2 chopped fresh chillies to the base; properly Caribbean fierce.
 
 ## Serving
-In terracotta cazuelas or deep bowls. Crusty bread, white rice, patacones, avocado, lime. Drink: cold Club Colombia beer, white wine, mojito, or fresh coconut water. As a Cartagena-coastal weekend lunch.
+- In terracotta cazuelas or deep bowls. Crusty bread, white rice, patacones, avocado, lime. Drink: cold Club Colombia beer, white wine, mojito, or fresh coconut water. As a Cartagena-coastal weekend lunch.
 
 ## Storage
 - Best eaten immediately; seafood doesn't reheat well.

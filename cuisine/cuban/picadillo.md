@@ -99,13 +99,13 @@ Picadillo Cubano is Cuba's everyday ground-beef hash and arguably the second-mos
 - **Fried egg on top:** the traditional Cuban home-cook addition. Yolk runs into the picadillo. Worth it.
 
 ## Variations
-**Picadillo with potatoes (picadillo con papas):** add 2 cubed potatoes to the pan in stage 4; cook with the picadillo till tender. Common variation; turns the dish into a heartier one-pot.
-**Mexican picadillo:** skip the raisins; add 2 fresh jalapeños; use Mexican oregano and ancho chili powder. Different but related Mexican version.
-**Spicier:** double the Aleppo pepper and add 1 chopped habanero pepper; Caribbean fierce version.
-**Vegetarian picadillo (picadillo de soya):** swap the beef for textured vegetable protein (TVP) or crumbled tofu; keep all other ingredients the same. Surprisingly excellent.
+- **Picadillo with potatoes (picadillo con papas):** add 2 cubed potatoes to the pan in stage 4; cook with the picadillo till tender. Common variation; turns the dish into a heartier one-pot.
+- **Mexican picadillo:** skip the raisins; add 2 fresh jalapeños; use Mexican oregano and ancho chili powder. Different but related Mexican version.
+- **Spicier:** double the Aleppo pepper and add 1 chopped habanero pepper; Caribbean fierce version.
+- **Vegetarian picadillo (picadillo de soya):** swap the beef for textured vegetable protein (TVP) or crumbled tofu; keep all other ingredients the same. Surprisingly excellent.
 
 ## Serving
-On wide plates with the traditional Cuban sides: white rice, black beans, plantains, fried egg, avocado, lime. With a cold Cristal beer (Cuban) or fresh mojito. As an everyday family dinner.
+- On wide plates with the traditional Cuban sides: white rice, black beans, plantains, fried egg, avocado, lime. With a cold Cristal beer (Cuban) or fresh mojito. As an everyday family dinner.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens overnight.

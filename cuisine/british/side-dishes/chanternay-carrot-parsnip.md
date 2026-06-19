@@ -34,9 +34,9 @@ A British Sunday-roast vegetable side that does a lot with very little: halved C
 - Watch closely during the final 10-15 minutes after adding the glaze, as the maple syrup can burn quickly at high heat.
 
 ## Serving
-Serve with: roast beef, roast lamb, roast chicken, or any hearty roast dinner
-Temperature: hot, straight from the oven
-Amount: one portion per person as a side dish
+- Serve with: roast beef, roast lamb, roast chicken, or any hearty roast dinner
+- Temperature: hot, straight from the oven
+- Amount: one portion per person as a side dish
 
 ## Storage
 - Leftovers keep in the fridge in an airtight container for up to 3 days.

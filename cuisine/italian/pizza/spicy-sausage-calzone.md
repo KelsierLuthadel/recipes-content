@@ -85,13 +85,13 @@ A make-ahead calzone designed for the freezer drawer: build a batch on Sunday an
 - **Bake from frozen:** Don't thaw before baking; that introduces moisture and tends to give a soggier crust.
 
 ## Variations
-**Vegetarian:** Replace the chorizo with 200 grams of sliced chestnut mushrooms and a teaspoon of smoked paprika for the same character.
-**Three meat:** Add 100 grams of cooked Italian sausage and 50 grams of pepperoni alongside the chorizo for a meatier filling.
-**With ricotta:** Stir 100 grams of ricotta into the cooled sauce for a creamier interior.
+- **Vegetarian:** Replace the chorizo with 200 grams of sliced chestnut mushrooms and a teaspoon of smoked paprika for the same character.
+- **Three meat:** Add 100 grams of cooked Italian sausage and 50 grams of pepperoni alongside the chorizo for a meatier filling.
+- **With ricotta:** Stir 100 grams of ricotta into the cooled sauce for a creamier interior.
 
 ## Serving
-Serve with: A green salad and a small dish of chilli oil for dipping
-Garnish with: Extra fresh basil and a sprinkle of grated parmesan after baking
+- Serve with: A green salad and a small dish of chilli oil for dipping
+- Garnish with: Extra fresh basil and a sprinkle of grated parmesan after baking
 
 ## Storage
 - Raw, frozen calzones keep up to 2 months in the freezer

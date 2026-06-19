@@ -58,7 +58,7 @@ Three ingredients carry this dish: potato, onion, oil. The potatoes are grated c
 - Reheat leftovers in a hot oven, not a microwave, the microwave goes soft, the oven re-crisps.
 
 ## Serving
-Beside brisket, roast chicken or schnitzel as the Shabbat side. Slid alongside scrambled eggs at brunch. On the Yom Kippur break-fast table with smoked salmon and bagels.
+- Beside brisket, roast chicken or schnitzel as the Shabbat side. Slid alongside scrambled eggs at brunch. On the Yom Kippur break-fast table with smoked salmon and bagels.
 
 ## Storage
 Covered in the fridge for up to 4 days. Reheats well: 15 minutes in a 200°C oven brings back the crust. Freezes for 2 months wrapped tightly; thaw in the fridge overnight and reheat covered to keep it from drying.

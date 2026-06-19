@@ -94,13 +94,13 @@ Taiwanese braised tofu (lu dou fu) is part of the wider lu wei (slow-braised goo
 - **Save the strained sauce for next time:** the master sauce develops flavour with use. Refrigerate or freeze the strained sauce; next time, add fresh aromatics and use as the base; the depth of flavour grows.
 
 ## Variations
-**Lu wei combo platter:** add 4 peeled hard-boiled eggs and 8 dried tofu skin knots to the braise at the same time as the tofu cubes; gives a Taiwanese street-stall lu wei platter.
-**With pork belly:** add 400 g of pork belly cubes (pre-browned) to the braise along with the tofu; the pork-and-tofu combo is a classic Taiwanese home-cook dish.
-**Tea egg lu wei tofu:** add 4 cracked-and-peeled hard-boiled eggs to the braise; the eggs absorb the soy flavour and develop the cracked-marble look of Taiwanese tea eggs.
-**Spicier version:** add 4-6 dried red chillies to the braise; finish with a drizzle of Sichuan chilli oil. Common variation across Taiwan.
+- **Lu wei combo platter:** add 4 peeled hard-boiled eggs and 8 dried tofu skin knots to the braise at the same time as the tofu cubes; gives a Taiwanese street-stall lu wei platter.
+- **With pork belly:** add 400 g of pork belly cubes (pre-browned) to the braise along with the tofu; the pork-and-tofu combo is a classic Taiwanese home-cook dish.
+- **Tea egg lu wei tofu:** add 4 cracked-and-peeled hard-boiled eggs to the braise; the eggs absorb the soy flavour and develop the cracked-marble look of Taiwanese tea eggs.
+- **Spicier version:** add 4-6 dried red chillies to the braise; finish with a drizzle of Sichuan chilli oil. Common variation across Taiwan.
 
 ## Serving
-On a warm platter with the glossy sauce poured over. Alongside steamed rice and a stir-fried green vegetable; common Taiwanese home-cook combination. Or as part of a lu wei platter with braised eggs and other braised items as a snack with beer. Drink: Taiwan Beer, oolong tea, or rice wine.
+- On a warm platter with the glossy sauce poured over. Alongside steamed rice and a stir-fried green vegetable; common Taiwanese home-cook combination. Or as part of a lu wei platter with braised eggs and other braised items as a snack with beer. Drink: Taiwan Beer, oolong tea, or rice wine.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight. The tofu becomes more flavourful each day.

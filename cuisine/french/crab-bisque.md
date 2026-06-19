@@ -70,7 +70,7 @@ Crab bisque is the French shellfish soup that turns the heads and shells you'd o
 - **Cream:** Stir in just before serving to prevent curdling.
 
 ## Serving
-Serve hot in bowls, garnished with reserved crab claws. Pair with crusty bread.
+- Serve hot in bowls, garnished with reserved crab claws. Pair with crusty bread.
 
 ## Storage
 - Refrigerate up to 2 days; reheat gently.

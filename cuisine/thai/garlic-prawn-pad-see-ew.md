@@ -84,12 +84,12 @@
 - **Chilli vinegar:** Don't skip it. The sharpness cuts through the sweet soy glaze and is the traditional Thai way to season pad see ew at the table.
 
 ## Variations
-**Chicken or pork:** Replace the prawns with thinly sliced chicken thigh or pork loin; marinate the same way.
-**Vegetarian:** Drop the prawns and double the broccolini, or add tofu puffs and Chinese broccoli (gai lan) in their place.
+- **Chicken or pork:** Replace the prawns with thinly sliced chicken thigh or pork loin; marinate the same way.
+- **Vegetarian:** Drop the prawns and double the broccolini, or add tofu puffs and Chinese broccoli (gai lan) in their place.
 
 ## Serving
-Serve with: A small dish of chilli vinegar and chilli powder for guests to season at the table
-Garnish with: A wedge of lime and a few coriander leaves
+- Serve with: A small dish of chilli vinegar and chilli powder for guests to season at the table
+- Garnish with: A wedge of lime and a few coriander leaves
 
 ## Storage
 - Best eaten straight from the wok while the noodles are still glossy

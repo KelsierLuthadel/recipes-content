@@ -84,17 +84,17 @@ Farofa (the name comes from "farinha", cassava flour, plus the diminutive "-ofa"
 - **Add-ins matter:** the simplest farofa is bacon-onion-cassava; the traditional Brazilian Sunday-lunch version adds egg, banana, and parsley.
 
 ## Variations
-**Farofa de banana:** add 2 ripe bananas (sliced): the Bahian-Brazilian variant; sweet-savoury contrast.
-**Farofa de ovo:** add 4 chopped hard-boiled eggs, protein-rich version.
-**Farofa de vegetais (vegetarian):** skip the bacon; use olive oil and butter; add diced carrot, celery, and parsley.
-**Farofa de azeite (with palm oil):** swap butter for dendê (red palm oil): Bahian Afro-Brazilian variant; golden-orange.
-**Farofa de queijo:** add 100 g grated mature Cheddar at the end, modern cheesy variant.
-**Farofa para Natal (Christmas farofa):** add raisins, dried cranberries, chopped pecans, and a tablespoon of cinnamon-sugar, Christmas variant.
-**Farofa com gorduras (rich version):** double the butter and bacon, extra-fat, party-style.
-**Farofa carioca (Rio-style):** add chopped green olives and finely diced ham.
+- **Farofa de banana:** add 2 ripe bananas (sliced): the Bahian-Brazilian variant; sweet-savoury contrast.
+- **Farofa de ovo:** add 4 chopped hard-boiled eggs, protein-rich version.
+- **Farofa de vegetais (vegetarian):** skip the bacon; use olive oil and butter; add diced carrot, celery, and parsley.
+- **Farofa de azeite (with palm oil):** swap butter for dendê (red palm oil): Bahian Afro-Brazilian variant; golden-orange.
+- **Farofa de queijo:** add 100 g grated mature Cheddar at the end, modern cheesy variant.
+- **Farofa para Natal (Christmas farofa):** add raisins, dried cranberries, chopped pecans, and a tablespoon of cinnamon-sugar, Christmas variant.
+- **Farofa com gorduras (rich version):** double the butter and bacon, extra-fat, party-style.
+- **Farofa carioca (Rio-style):** add chopped green olives and finely diced ham.
 
 ## Serving
-At every Brazilian Sunday lunch (the traditional setting, never absent from the table) · alongside feijoada · alongside picanha or any churrasco · with rice and beans as the daily Brazilian plate · at a Brazilian birthday party · at a Brazilian wedding reception · at a Brazilian Christmas dinner (the festive farofa with raisins) · at home as a quick side for any roasted meat.
+- At every Brazilian Sunday lunch (the traditional setting, never absent from the table) · alongside feijoada · alongside picanha or any churrasco · with rice and beans as the daily Brazilian plate · at a Brazilian birthday party · at a Brazilian wedding reception · at a Brazilian Christmas dinner (the festive farofa with raisins) · at home as a quick side for any roasted meat.
 
 ## Storage
 - Refrigerates 5 days in a sealed container; reheats in a pan with a small extra knob of butter.

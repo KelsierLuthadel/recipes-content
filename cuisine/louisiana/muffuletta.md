@@ -77,7 +77,7 @@ The olive salad is the soul of the dish. Made even a few hours ahead, it is acce
 - **Warm muffuletta:** wrap in foil and warm at 180°C for 15 minutes before unwrapping and slicing. The cheese softens; the bread crisps on the outside. A point of debate among NOLA locals; Central Grocery serves it cold.
 
 ## Serving
-A quarter muffuletta is a generous lunch. Serve with a glass of iced tea, lemon water, or one of the lighter Italian table wines (Frascati, Soave). Cold pickle on the side; nothing else needed.
+- A quarter muffuletta is a generous lunch. Serve with a glass of iced tea, lemon water, or one of the lighter Italian table wines (Frascati, Soave). Cold pickle on the side; nothing else needed.
 
 ## Storage
 - Wrapped tightly, the assembled muffuletta improves for a further 24 hours in the fridge and keeps 3 days.

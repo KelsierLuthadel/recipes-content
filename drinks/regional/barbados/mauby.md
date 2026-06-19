@@ -85,17 +85,17 @@ Mauby is one of the Caribbean's most distinctive non-alcoholic drinks: a refresh
 - **Drink cold:** mauby is at its peak ice-cold over fresh ice. Room-temperature mauby loses character.
 
 ## Variations
-**Quick mauby with pre-made syrup:** mix 3 tablespoons of commercial mauby syrup with 200 ml of cold water + a slice of lime; instant Caribbean cooler.
-**Mauby with rum (boozy variant):** add 30 ml of Bajan rum to each glass, the adult Bajan rum-shop variant.
-**Mauby cocktail (modern):** mauby + rum + ginger ale + fresh lime juice; the modern Caribbean cocktail-bar variant.
-**Mauby with milk (cocoa-tea-style):** swap half the water for whole milk; warm gently, the comforting hot variant.
-**Stronger mauby (longer steep):** steep 36-48 hours for the most-intense version.
-**Sweeter mauby (kids' version):** double the sugar, for those who find the bitter edge too aggressive.
-**Mauby concentrate:** simmer the bark in 750 ml of water (instead of 1.5 litres) for a stronger concentrate; dilute with cold water 1:1 to serve.
-**Iced mauby slush:** blend the chilled mauby with ice in a blender, the Bajan summer slush.
+- **Quick mauby with pre-made syrup:** mix 3 tablespoons of commercial mauby syrup with 200 ml of cold water + a slice of lime; instant Caribbean cooler.
+- **Mauby with rum (boozy variant):** add 30 ml of Bajan rum to each glass, the adult Bajan rum-shop variant.
+- **Mauby cocktail (modern):** mauby + rum + ginger ale + fresh lime juice; the modern Caribbean cocktail-bar variant.
+- **Mauby with milk (cocoa-tea-style):** swap half the water for whole milk; warm gently, the comforting hot variant.
+- **Stronger mauby (longer steep):** steep 36-48 hours for the most-intense version.
+- **Sweeter mauby (kids' version):** double the sugar, for those who find the bitter edge too aggressive.
+- **Mauby concentrate:** simmer the bark in 750 ml of water (instead of 1.5 litres) for a stronger concentrate; dilute with cold water 1:1 to serve.
+- **Iced mauby slush:** blend the chilled mauby with ice in a blender, the Bajan summer slush.
 
 ## Serving
-At a Bajan street cart (the traditional setting; mauby vendors call "mauby!" through every Bajan town at midday) · at a Bajan rum-shop alongside fish cakes and a cutter · at a Bajan beach picnic · at a Bajan family Sunday lunch as the non-alcoholic accompaniment · at a Bajan church social · at a Bajan Independence Day buffet · at home as the Caribbean cooler alternative to lemonade · paired with Bajan fish cakes, conkies, coconut bread, or simply on its own as a midday refresher.
+- At a Bajan street cart (the traditional setting; mauby vendors call "mauby!" through every Bajan town at midday) · at a Bajan rum-shop alongside fish cakes and a cutter · at a Bajan beach picnic · at a Bajan family Sunday lunch as the non-alcoholic accompaniment · at a Bajan church social · at a Bajan Independence Day buffet · at home as the Caribbean cooler alternative to lemonade · paired with Bajan fish cakes, conkies, coconut bread, or simply on its own as a midday refresher.
 
 ## Storage
 - The chilled mauby refrigerates 5 days; the flavours can deepen slightly over 2-3 days.

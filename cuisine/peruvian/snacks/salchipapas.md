@@ -94,14 +94,14 @@ Salchipapas (literally "sausage potatoes", a portmanteau of salchicha + papas) i
 - **Ají verde:** essential, the Peruvian signature sauce. Without it, the dish is generic.
 
 ## Variations
-**Salchipollo:** swap hot dogs for crispy fried chicken pieces (popular in Lima university canteens).
-**Salchipulpo:** swap hot dogs for grilled octopus pieces (a posh Peruvian fusion).
-**Salchipapas con huevo:** add a fried egg on top.
-**Spicier:** add chopped fresh ají rocoto or a drizzle of ají panca paste.
-**With queso fresco crumbled on top:** for extra cheese.
+- **Salchipollo:** swap hot dogs for crispy fried chicken pieces (popular in Lima university canteens).
+- **Salchipulpo:** swap hot dogs for grilled octopus pieces (a posh Peruvian fusion).
+- **Salchipapas con huevo:** add a fried egg on top.
+- **Spicier:** add chopped fresh ají rocoto or a drizzle of ají panca paste.
+- **With queso fresco crumbled on top:** for extra cheese.
 
 ## Serving
-At a Lima street cart in the afternoon; at a Peruvian working-class restaurant for lunch; at a university canteen between classes; at home as a casual dinner.
+- At a Lima street cart in the afternoon; at a Peruvian working-class restaurant for lunch; at a university canteen between classes; at home as a casual dinner.
 
 ## Storage
 - Ají verde refrigerates 1 week.

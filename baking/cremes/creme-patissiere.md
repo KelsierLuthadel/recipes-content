@@ -35,7 +35,7 @@ Crème pâtissière is the foundation building block of French pastry: the thick
 - The 2-minute gentle cooking after returning to pan fully cooks the flour and eliminates any starchy taste
 
 ## Serving
-Serve as a filling for tartlets, éclairs, and French pastries. Use as a base for crème Mousseline, crème au beurre, or crème chiboust. Flavor variations (chocolate, coffee, praline) expand its versatility. Often topped with fresh fruit, chocolate shavings, or candied peel.
+- Serve as a filling for tartlets, éclairs, and French pastries. Use as a base for crème Mousseline, crème au beurre, or crème chiboust. Flavor variations (chocolate, coffee, praline) expand its versatility. Often topped with fresh fruit, chocolate shavings, or candied peel.
 
 ## Storage
 Refrigerate in an airtight container for up to 3 days. Cover the surface directly with plastic wrap to prevent skin formation. Bring to room temperature before use or gently warm and stir to restore smoothness. The cream can be briefly whisked with additional liquid to adjust consistency.

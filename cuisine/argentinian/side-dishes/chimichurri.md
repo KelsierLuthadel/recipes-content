@@ -69,16 +69,16 @@ Chimichurri is Argentina's most important and most universally beloved condiment
 - **Don't add lemon juice:** some non-Argentine recipes do this; it's incorrect. Vinegar only.
 
 ## Variations
-**Chimichurri rojo (red):** add 1 small red bell pepper finely chopped + 1 teaspoon sweet paprika. The Uruguayan / southern Brazilian variant.
-**Chimichurri picante (spicy):** double the chilli flakes; add 1 fresh chopped chilli.
-**Chimichurri verde (green Mexican-style):** add chopped fresh coriander, non-Argentine but excellent.
-**Chimichurri criollo:** add ½ chopped tomato; semi-criollo (between chimichurri and salsa criolla).
-**Chimichurri with lemon zest:** add zest of 1 lemon, modern variant; non-traditional.
-**Chimichurri butter:** mix 2 tablespoons of chimichurri into 60 g softened butter; serve as a compound butter on grilled steak.
-**Chimichurri aioli:** mix 4 tablespoons into 200 g mayonnaise, modern Argentine restaurant variant.
+- **Chimichurri rojo (red):** add 1 small red bell pepper finely chopped + 1 teaspoon sweet paprika. The Uruguayan / southern Brazilian variant.
+- **Chimichurri picante (spicy):** double the chilli flakes; add 1 fresh chopped chilli.
+- **Chimichurri verde (green Mexican-style):** add chopped fresh coriander, non-Argentine but excellent.
+- **Chimichurri criollo:** add ½ chopped tomato; semi-criollo (between chimichurri and salsa criolla).
+- **Chimichurri with lemon zest:** add zest of 1 lemon, modern variant; non-traditional.
+- **Chimichurri butter:** mix 2 tablespoons of chimichurri into 60 g softened butter; serve as a compound butter on grilled steak.
+- **Chimichurri aioli:** mix 4 tablespoons into 200 g mayonnaise, modern Argentine restaurant variant.
 
 ## Serving
-At every Argentine asado on every grilled cut of meat (the traditional setting) · in every choripán sandwich · on grilled provoleta · as a marinade for grilled chicken or fish · drizzled over avocado toast · alongside grilled vegetables · at home as a green-sauce-for-everything.
+- At every Argentine asado on every grilled cut of meat (the traditional setting) · in every choripán sandwich · on grilled provoleta · as a marinade for grilled chicken or fish · drizzled over avocado toast · alongside grilled vegetables · at home as a green-sauce-for-everything.
 
 ## Storage
 - Refrigerates in a sealed jar for 2 weeks; the flavour improves over the first week.

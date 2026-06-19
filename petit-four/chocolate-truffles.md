@@ -115,16 +115,16 @@ Chocolate truffles are the most elegant form a piece of ganache can take: dark c
 - **Alcohol Content:** Armagnac and Grand Marnier are both 40% ABV; they add flavor and extend shelf-life (both act as preservatives).
 
 ## Variations
-**Grand Marnier Style:** Use Grand Marnier (orange liqueur) instead of Armagnac for citrus notes.
-**Dark Cocoa Emphasis:** Triple-dust in cocoa powder (dip in chocolate, coat in cocoa, then dip again and coat again) for extra-dark appearance.
-**White Chocolate Coating:** Use white chocolate for the dipping coat (reduces bitterness, creates visual contrast).
-**Spiced Ganache:** Add ¼ teaspoon ground cinnamon and ⅛ teaspoon cayenne to the ganache for subtle warmth.
-**Candied Peel Addition:** Add 2 tablespoons finely minced candied orange peel to the ganache for texture and flavor variation.
+- **Grand Marnier Style:** Use Grand Marnier (orange liqueur) instead of Armagnac for citrus notes.
+- **Dark Cocoa Emphasis:** Triple-dust in cocoa powder (dip in chocolate, coat in cocoa, then dip again and coat again) for extra-dark appearance.
+- **White Chocolate Coating:** Use white chocolate for the dipping coat (reduces bitterness, creates visual contrast).
+- **Spiced Ganache:** Add ¼ teaspoon ground cinnamon and ⅛ teaspoon cayenne to the ganache for subtle warmth.
+- **Candied Peel Addition:** Add 2 tablespoons finely minced candied orange peel to the ganache for texture and flavor variation.
 
 ## Serving
-Perfect with: Strong coffee or espresso after dinner, pre-dinner drinks, petit four platters, holiday gift boxes, special occasions
-Temperature: Cool room temperature (allow to sit 10 minutes if refrigerated, so chocolate tempers slightly)
-Context: Formal dinners, afternoon gatherings, gift presentations, elegant finales
+- Perfect with: Strong coffee or espresso after dinner, pre-dinner drinks, petit four platters, holiday gift boxes, special occasions
+- Temperature: Cool room temperature (allow to sit 10 minutes if refrigerated, so chocolate tempers slightly)
+- Context: Formal dinners, afternoon gatherings, gift presentations, elegant finales
 
 ## Storage
 - Refrigerate in an airtight container, layered with parchment paper to prevent sticking: 3-4 weeks

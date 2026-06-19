@@ -63,7 +63,7 @@ Rocky road tiffin is the cross-Atlantic hybrid that takes the no-bake biscuit ba
 - **Bigger tin**: 20 x 30 cm gives thinner squares with more pieces per slab. Reduce chill time by 30 minutes.
 
 ## Serving
-On a plate at room temperature. With strong coffee or hot chocolate. Excellent travel-bake, robust enough for picnics and packed lunches.
+- On a plate at room temperature. With strong coffee or hot chocolate. Excellent travel-bake, robust enough for picnics and packed lunches.
 
 ## Storage
 - In an airtight tin at cool room temperature for up to 2 weeks.

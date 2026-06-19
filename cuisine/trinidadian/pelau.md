@@ -86,11 +86,11 @@ Pelau is the Trinidadian one-pot, a meld of West African jollof technique with S
 - **Coconut milk:** full-fat tinned coconut milk gives the right richness; light coconut milk leaves the pelau watery.
 
 ## Variations
-**Beef pelau:** Replace chicken with 800 g diced beef chuck. Add an extra 15-20 minutes' braise before adding the rice so the beef has time to tenderise.
-**Lentil pelau:** Replace pigeon peas with cooked brown lentils, omit the meat, and use vegetable stock for a vegetarian version. Add a tablespoon of soy sauce for the umami the chicken would have provided.
+- **Beef pelau:** Replace chicken with 800 g diced beef chuck. Add an extra 15-20 minutes' braise before adding the rice so the beef has time to tenderise.
+- **Lentil pelau:** Replace pigeon peas with cooked brown lentils, omit the meat, and use vegetable stock for a vegetarian version. Add a tablespoon of soy sauce for the umami the chicken would have provided.
 
 ## Serving
-Serve with coleslaw or a sharp green salad with cucumber, a wedge of avocado, and fried sweet plantain on the side. A bottle of homemade pepper sauce on the table is non-negotiable. Macaroni pie often appears alongside on Sundays.
+- Serve with coleslaw or a sharp green salad with cucumber, a wedge of avocado, and fried sweet plantain on the side. A bottle of homemade pepper sauce on the table is non-negotiable. Macaroni pie often appears alongside on Sundays.
 
 ## Storage
 - Keeps 3 days refrigerated. The flavour deepens overnight.

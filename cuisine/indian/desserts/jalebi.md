@@ -83,14 +83,14 @@ India's spiral sweet and one of the most identity-defining Indian street dessert
 - **Don't fry too dark:** Deep gold is right. Browned jalebi taste bitter and the syrup can't penetrate.
 
 ## Variations
-**Imarti (jangiri):** South Indian cousin, thicker batter (urad dal-based) piped in concentric flower shapes; deeper orange.
-**Khova jalebi:** Add 50 g khoya (milk solids) to the batter for a richer, paler version popular in Rajasthan.
-**Without fermentation (quick):** Add ¼ teaspoon yeast and rest the batter 1 hour at warm room temperature. Acceptable shortcut; the depth of flavour is less.
+- **Imarti (jangiri):** South Indian cousin, thicker batter (urad dal-based) piped in concentric flower shapes; deeper orange.
+- **Khova jalebi:** Add 50 g khoya (milk solids) to the batter for a richer, paler version popular in Rajasthan.
+- **Without fermentation (quick):** Add ¼ teaspoon yeast and rest the batter 1 hour at warm room temperature. Acceptable shortcut; the depth of flavour is less.
 
 ## Serving
-Serve: hot, with cold rabri spooned alongside (the classic Old-Delhi breakfast); or with a scoop of vanilla ice cream; or plain with masala chai.
-Temperature: hot, just out of the syrup.
-Occasion: Diwali, Holi, weddings, festival breakfasts.
+- Serve: hot, with cold rabri spooned alongside (the classic Old-Delhi breakfast); or with a scoop of vanilla ice cream; or plain with masala chai.
+- Temperature: hot, just out of the syrup.
+- Occasion: Diwali, Holi, weddings, festival breakfasts.
 
 ## Storage
 - Best within 30 minutes of frying.

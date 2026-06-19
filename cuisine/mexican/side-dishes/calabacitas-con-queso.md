@@ -70,13 +70,13 @@ Calabacitas con queso is Mexico's classic zucchini-corn-and-cheese side and a su
 - **Eat warm or at room temperature.**
 
 ## Variations
-**With chicken:** add diced cooked chicken; turns into a main.
-**Spicier:** double the jalapeños and add 1 chopped habanero.
-**Without cheese:** vegan variation.
-**Roasted version:** roast the zucchini and corn on a sheet pan; add tomato-onion-garlic mix and cheese; gives a more caramelised result.
+- **With chicken:** add diced cooked chicken; turns into a main.
+- **Spicier:** double the jalapeños and add 1 chopped habanero.
+- **Without cheese:** vegan variation.
+- **Roasted version:** roast the zucchini and corn on a sheet pan; add tomato-onion-garlic mix and cheese; gives a more caramelised result.
 
 ## Serving
-As a side with grilled meats, roasted chicken, or part of a vegetarian Mexican meal with rice and beans.
+- As a side with grilled meats, roasted chicken, or part of a vegetarian Mexican meal with rice and beans.
 
 ## Storage
 - Keeps refrigerated 3 days.

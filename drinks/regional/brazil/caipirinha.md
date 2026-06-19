@@ -67,18 +67,18 @@ Caipirinha (literally "little peasant" or "little country girl"; from "caipira",
 - **Drink fast:** as the ice melts, the drink dilutes; it's best in the first 5-10 minutes.
 
 ## Variations
-**Caipirinha with brown sugar (modern):** swap white sugar for soft light brown sugar, adds caramel depth.
-**Caipiroska:** swap cachaça for vodka, for those who find cachaça too funky. Less authentic, very popular abroad.
-**Caipiríssima:** swap cachaça for white rum, Caribbean variant.
-**Caipirinha de morango (strawberry):** add 2-3 fresh strawberries to muddle alongside the lime, sweet variant.
-**Caipirinha de maracujá (passion fruit):** add the pulp of one fresh passion fruit to muddle, Brazilian tropical variant.
-**Caipirinha de abacaxi (pineapple):** muddle a wedge of fresh pineapple alongside the lime, sweet tropical variant.
-**Caipirinha de gengibre (ginger):** add a small piece of fresh ginger to muddle, modern variant.
-**Caipirinha de manga (mango):** muddle a small piece of fresh mango, sweet variant.
-**Caipirinha gourmet (with herbs):** add fresh basil, mint, or rosemary leaves to the muddle, modern cocktail-bar variant.
+- **Caipirinha with brown sugar (modern):** swap white sugar for soft light brown sugar, adds caramel depth.
+- **Caipiroska:** swap cachaça for vodka, for those who find cachaça too funky. Less authentic, very popular abroad.
+- **Caipiríssima:** swap cachaça for white rum, Caribbean variant.
+- **Caipirinha de morango (strawberry):** add 2-3 fresh strawberries to muddle alongside the lime, sweet variant.
+- **Caipirinha de maracujá (passion fruit):** add the pulp of one fresh passion fruit to muddle, Brazilian tropical variant.
+- **Caipirinha de abacaxi (pineapple):** muddle a wedge of fresh pineapple alongside the lime, sweet tropical variant.
+- **Caipirinha de gengibre (ginger):** add a small piece of fresh ginger to muddle, modern variant.
+- **Caipirinha de manga (mango):** muddle a small piece of fresh mango, sweet variant.
+- **Caipirinha gourmet (with herbs):** add fresh basil, mint, or rosemary leaves to the muddle, modern cocktail-bar variant.
 
 ## Serving
-At every Brazilian beach bar (the traditional setting) · at a Rio de Janeiro Copacabana kiosk at sunset · at a Brazilian churrasco alongside grilled meat · at a Brazilian wedding reception · at a São Paulo cocktail bar · at a Brazilian Carnival party · at any Brazilian-themed restaurant worldwide · at home as the Friday-evening Brazilian sundowner.
+- At every Brazilian beach bar (the traditional setting) · at a Rio de Janeiro Copacabana kiosk at sunset · at a Brazilian churrasco alongside grilled meat · at a Brazilian wedding reception · at a São Paulo cocktail bar · at a Brazilian Carnival party · at any Brazilian-themed restaurant worldwide · at home as the Friday-evening Brazilian sundowner.
 
 ## Storage
 - Drink fresh, the drink is best within 10 minutes of making.

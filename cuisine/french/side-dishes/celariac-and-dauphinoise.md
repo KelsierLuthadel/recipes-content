@@ -41,9 +41,9 @@ This is celeriac dauphinoise, a richer earthier cousin of the classic potato gra
 - Cover with foil partway through if the top is browning faster than the vegetables are softening inside.
 
 ## Serving
-Serve with: steaks, roast beef, or other robust beef dishes
-Temperature: hot, straight from the oven or grill
-Amount: one generous portion per person as a side dish
+- Serve with: steaks, roast beef, or other robust beef dishes
+- Temperature: hot, straight from the oven or grill
+- Amount: one generous portion per person as a side dish
 
 ## Storage
 - Leftovers keep well in the fridge for up to 3 days, covered or in an airtight container.

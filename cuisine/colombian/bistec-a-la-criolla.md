@@ -107,13 +107,13 @@ Bistec a la criolla means "Creole steak", criollo here meaning the indigenous Co
 - **Don't oversalt:** the Worcestershire and hogao bring salt.
 
 ## Variations
-**With chicken (pollo a la criolla):** swap beef for chicken thigh fillets; cook 30 minutes till tender.
-**Pork chops a la criolla:** swap for thin pork chops; common variation.
-**With chorizo:** add 100 g of sliced chorizo to the base; gives richness.
-**Spicier:** double the chilli; add 1 chopped habanero; properly fierce.
+- **With chicken (pollo a la criolla):** swap beef for chicken thigh fillets; cook 30 minutes till tender.
+- **Pork chops a la criolla:** swap for thin pork chops; common variation.
+- **With chorizo:** add 100 g of sliced chorizo to the base; gives richness.
+- **Spicier:** double the chilli; add 1 chopped habanero; properly fierce.
 
 ## Serving
-On a plate of white rice with the bistec topped with a fried egg, maduros and avocado alongside. Arepa, lime, ají on the side. Drink: Club Colombia beer or fresh limonada.
+- On a plate of white rice with the bistec topped with a fried egg, maduros and avocado alongside. Arepa, lime, ají on the side. Drink: Club Colombia beer or fresh limonada.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens.

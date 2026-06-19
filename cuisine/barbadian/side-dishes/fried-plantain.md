@@ -72,17 +72,17 @@ Fried plantain is one of the simplest dishes in the Caribbean and one of the mos
 - **Eat hot:** fried plantain is at its peak for 15 minutes. After an hour the slices have softened and lost their caramelised crust.
 
 ## Variations
-**Tostones / patacones (savoury, different dish):** green underripe plantains sliced thick, fried briefly, smashed flat, fried again, the savoury crispy variant; not fried plantain.
-**Cinnamon-sugar fried plantain (dessert):** dust with cinnamon-sugar instead of salt; serve as a dessert with vanilla ice cream.
-**Plantain chips / banane pesée:** thin slices fried crisp; the snack variant.
-**Coconut-fried plantain:** swap the oil for coconut oil; gives a subtle coconut note.
-**Stuffed plantain (canoa / mofongo-style):** fry whole, then split lengthways and stuff with meat, the Puerto Rican variant.
-**Baked plantain:** slice as for fried; brush with oil; bake at 220°C for 18-22 minutes; less crisp but lighter.
-**Plantain "fries" (thin strips):** cut into French-fry shapes; deep-fry till crisp, the chip-shop variant.
-**Plantain mash:** boil green plantains till tender; mash with butter and salt, a side-dish alternative.
+- **Tostones / patacones (savoury, different dish):** green underripe plantains sliced thick, fried briefly, smashed flat, fried again, the savoury crispy variant; not fried plantain.
+- **Cinnamon-sugar fried plantain (dessert):** dust with cinnamon-sugar instead of salt; serve as a dessert with vanilla ice cream.
+- **Plantain chips / banane pesée:** thin slices fried crisp; the snack variant.
+- **Coconut-fried plantain:** swap the oil for coconut oil; gives a subtle coconut note.
+- **Stuffed plantain (canoa / mofongo-style):** fry whole, then split lengthways and stuff with meat, the Puerto Rican variant.
+- **Baked plantain:** slice as for fried; brush with oil; bake at 220°C for 18-22 minutes; less crisp but lighter.
+- **Plantain "fries" (thin strips):** cut into French-fry shapes; deep-fry till crisp, the chip-shop variant.
+- **Plantain mash:** boil green plantains till tender; mash with butter and salt, a side-dish alternative.
 
 ## Serving
-At a Bajan Sunday lunch (the traditional setting) · at every Caribbean family dinner from Jamaica to Trinidad · at a Caribbean restaurant abroad · at a Bajan beach picnic · at a Bajan Independence Day celebration · at a Caribbean-themed barbecue · at home as a sweet side for any main · paired with stew chicken, fried chicken, oxtail, jerk chicken.
+- At a Bajan Sunday lunch (the traditional setting) · at every Caribbean family dinner from Jamaica to Trinidad · at a Caribbean restaurant abroad · at a Bajan beach picnic · at a Bajan Independence Day celebration · at a Caribbean-themed barbecue · at home as a sweet side for any main · paired with stew chicken, fried chicken, oxtail, jerk chicken.
 
 ## Storage
 - Best within 30 minutes of frying. After an hour the slices soften.

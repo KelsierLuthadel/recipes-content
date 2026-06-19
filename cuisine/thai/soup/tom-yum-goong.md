@@ -63,7 +63,7 @@ Tom yum goong is Thailand's signature hot-and-sour prawn soup, the iconic bowl t
 - **Balance:** Taste and adjust sweet/sour/salty.
 
 ## Serving
-Serve hot as a starter or light meal. Garnish with coriander.
+- Serve hot as a starter or light meal. Garnish with coriander.
 
 ## Storage
 - Refrigerate up to 1 day; prawns don't reheat well.

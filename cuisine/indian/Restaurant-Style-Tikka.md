@@ -95,9 +95,9 @@
 ---
 
 ## Serving
-Eat as a starter with mint chutney, lemon, and red onion. Or build it straight into one of the masala curries on the menu, [Restaurant-Style Tikka Masala](Restaurant-Style-Tikka-Masala.md) is the obvious next step.
+- Eat as a starter with mint chutney, lemon, and red onion. Or build it straight into one of the masala curries on the menu, [Restaurant-Style Tikka Masala](Restaurant-Style-Tikka-Masala.md) is the obvious next step.
 
----
+- ---
 
 ## Storage
 Best eaten straight off the skewer. Leftover tikka keeps 2 days in the fridge in a sealed container; the char texture softens overnight but the flavour holds up. For longer storage, freeze in single-portion bags for up to 2 months. Reheat in a hot pan or under the grill for a minute or two rather than the microwave, which makes the chicken rubbery.

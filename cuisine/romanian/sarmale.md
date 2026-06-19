@@ -90,7 +90,7 @@ Sarmale are the soul of Romanian holiday cooking. A whole soured cabbage (varză
 - **Olt valley:** a little chopped smoked sausage worked into the filling.
 
 ## Serving
-Hot with mămăligă · a dollop of sour cream · a small green chilli on the side · a glass of țuică before the meal · slice of dark country bread.
+- Hot with mămăligă · a dollop of sour cream · a small green chilli on the side · a glass of țuică before the meal · slice of dark country bread.
 
 ## Storage
 - Cover and refrigerate up to 5 days; flavour improves daily.

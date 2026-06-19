@@ -54,7 +54,7 @@ Kaju barfi is India's prestige sweet, the pale ivory cashew fudge that comes in 
 - Some recipes call for milk powder (khoya) for richness; this version is dairy-free other than the ghee.
 
 ## Serving
-Stacked in a square arrangement on a brass plate with the diamonds slightly overlapping, alongside besan ladoo and rasmalai for a proper Diwali sweet tray.
+- Stacked in a square arrangement on a brass plate with the diamonds slightly overlapping, alongside besan ladoo and rasmalai for a proper Diwali sweet tray.
 
 ## Storage
 Airtight tin at room temperature, up to a week. The texture stays best for 2-3 days; after that the surface starts to dry. Don't refrigerate.

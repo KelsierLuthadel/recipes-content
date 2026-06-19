@@ -78,7 +78,7 @@ This is the elegant individual seafood flan from the French dinner-party traditi
 - **Curry powder:** Fresh curry powder provides best flavour; stale powder will taste flat and bitter.
 
 ## Serving
-Serve warm straight from the oven, accompanied by a simple frisée salad with garlic croûtons and a crisp white wine.
+- Serve warm straight from the oven, accompanied by a simple frisée salad with garlic croûtons and a crisp white wine.
 
 ## Storage
 - Best eaten warm immediately after baking; do not refrigerate.

@@ -74,7 +74,7 @@ Cheese rolls are the South Island of New Zealand's contribution to the country's
 - **Roll seam down:** They unroll in the oven if seam-side-up. Place flap-down and they hold their shape.
 
 ## Serving
-Serve hot as an afternoon snack with tea, or as a quick lunch with a side of pickles. The Southland tradition is at the rugby club after the game, or at a fundraising stall outside a church.
+- Serve hot as an afternoon snack with tea, or as a quick lunch with a side of pickles. The Southland tradition is at the rugby club after the game, or at a fundraising stall outside a church.
 
 ## Storage
 - Best fresh out of the oven, while crisp.

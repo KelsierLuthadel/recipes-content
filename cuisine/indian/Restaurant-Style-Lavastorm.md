@@ -115,9 +115,9 @@ Lavastorm belongs to the rarefied corner of the BIR menu shared with phaal, naga
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the sauce. A large bowl of cool raita on the side is genuinely necessary, milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the sauce. A large bowl of cool raita on the side is genuinely necessary, milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The heat mellows overnight as the chilli oils integrate with the sauce; day-two lavastorm is often more enjoyable than day-one. Reheat in a pan with a splash of water rather than the microwave to keep the yoghurt smooth and avoid the chilli vapour filling the kitchen all over again.

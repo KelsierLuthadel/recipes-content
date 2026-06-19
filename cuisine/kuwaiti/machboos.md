@@ -75,7 +75,7 @@ Machboos is the centrepiece of the Kuwaiti table, the dish that sits in the midd
 - **Rice-to-liquid:** The 1.5:1 ratio (liquid to rice) is the Gulf standard; basmati needs less water than other rices.
 
 ## Serving
-Serve hot on a wide platter with daqoos sauce, salata huloo or salata arabia and laban (salted buttermilk) on the side.
+- Serve hot on a wide platter with daqoos sauce, salata huloo or salata arabia and laban (salted buttermilk) on the side.
 
 ## Storage
 - Best eaten fresh; the rice firms up after refrigeration

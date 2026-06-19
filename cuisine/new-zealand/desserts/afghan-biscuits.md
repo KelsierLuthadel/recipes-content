@@ -78,7 +78,7 @@ Afghan biscuits are a New Zealand baking classic whose name has nothing to do wi
 - **Don't skip the walnut:** It looks finished, it adds a different crunch, and (more importantly) it makes the biscuit unmistakably an Afghan.
 
 ## Serving
-Serve with a cup of tea or coffee at afternoon tea, or with a glass of cold milk. The standard packet contents of a New Zealand kid's lunchbox throughout the 1990s.
+- Serve with a cup of tea or coffee at afternoon tea, or with a glass of cold milk. The standard packet contents of a New Zealand kid's lunchbox throughout the 1990s.
 
 ## Storage
 - Room temperature in an airtight tin: 1 week.

@@ -63,7 +63,7 @@ Svařák (svařené víno - "boiled wine") is the Czech version of mulled wine, 
 - **Czech vs German style:** Glühwein leans towards sweeter and milder; svařák has more spice (especially clove and allspice) and is less sweet. The rum addition is the Czech finishing touch.
 
 ## Serving
-Christmas market stalls in Prague and Brno. Christmas Eve at home before dinner. New Year's Eve from a thermos on a winter walk. Always with a piece of Christmas gingerbread or a sweet pastry alongside.
+- Christmas market stalls in Prague and Brno. Christmas Eve at home before dinner. New Year's Eve from a thermos on a winter walk. Always with a piece of Christmas gingerbread or a sweet pastry alongside.
 
 ## Storage
 - The infused wine keeps refrigerated 5 days; reheats well over low heat.

@@ -35,7 +35,7 @@ The creamy pink dip that turns up in every American sit-down chain restaurant: t
 - **Vegan version**: vegan mayo works as a direct swap. Most sweet chilli sauces and sriracha brands are already vegan.
 
 ## Serving
-The default: a dipping sauce for crispy fried shrimp, chicken tenders, popcorn chicken, calamari. Drizzled over: tacos (fish, shrimp), burgers, salad bowls. Smeared into: chicken wraps, brioche-bun sandwiches, sushi-style hand rolls. Stirred into: cold pasta salads as a dressing.
+- The default: a dipping sauce for crispy fried shrimp, chicken tenders, popcorn chicken, calamari. Drizzled over: tacos (fish, shrimp), burgers, salad bowls. Smeared into: chicken wraps, brioche-bun sandwiches, sushi-style hand rolls. Stirred into: cold pasta salads as a dressing.
 
 ## Storage
 - In a sealed jar in the fridge for up to 3 weeks.

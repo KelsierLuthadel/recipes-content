@@ -86,14 +86,14 @@ Kaiserschmarrn is Austria's most beloved sweet dish: a soufflé-light pancake ba
 - **Heavy dusting at the end:** the snow-like top layer of icing sugar isn't garnish, it's part of the dish. Be generous.
 
 ## Variations
-**Zwetschkenröster (plum compote, the traditional partner):** 500 g of halved stoned plums simmered with 80 g sugar, a stick of cinnamon, a strip of lemon zest and a splash of red wine for 15-20 minutes till soft and saucy. Made fresh while the Kaiserschmarrn rests.
-**Apfelmus:** simple apple sauce; the more rustic partner.
-**Mit Schokolade:** chopped dark chocolate added with the raisins; melts into pockets as the cake cooks.
-**Mit Mandeln:** flaked almonds folded into the batter, then more toasted almonds sprinkled over the finished torn pieces; a Salzburg variation.
-**Heidelbeerschmarrn:** with fresh blueberries instead of raisins, in the batter; popular in Tyrolean mountain huts in summer.
+- **Zwetschkenröster (plum compote, the traditional partner):** 500 g of halved stoned plums simmered with 80 g sugar, a stick of cinnamon, a strip of lemon zest and a splash of red wine for 15-20 minutes till soft and saucy. Made fresh while the Kaiserschmarrn rests.
+- **Apfelmus:** simple apple sauce; the more rustic partner.
+- **Mit Schokolade:** chopped dark chocolate added with the raisins; melts into pockets as the cake cooks.
+- **Mit Mandeln:** flaked almonds folded into the batter, then more toasted almonds sprinkled over the finished torn pieces; a Salzburg variation.
+- **Heidelbeerschmarrn:** with fresh blueberries instead of raisins, in the batter; popular in Tyrolean mountain huts in summer.
 
 ## Serving
-On warm plates in the centre of the table, the family helping themselves with forks. The plum compote in a small jug or warmed bowl alongside. A cold glass of milk for children, a glass of dessert wine or a coffee for adults. The proper Austrian timing is as the main event of a hut lunch after a long walk, or as the only course of a weekend afternoon when nothing else needs to be eaten.
+- On warm plates in the centre of the table, the family helping themselves with forks. The plum compote in a small jug or warmed bowl alongside. A cold glass of milk for children, a glass of dessert wine or a coffee for adults. The proper Austrian timing is as the main event of a hut lunch after a long walk, or as the only course of a weekend afternoon when nothing else needs to be eaten.
 
 ## Storage
 - Eat immediately. Kaiserschmarrn has no shelf-life worth talking about; the soufflé-light texture collapses within 20 minutes.

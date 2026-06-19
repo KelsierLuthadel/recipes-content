@@ -106,17 +106,17 @@ Cheese straws are the British drinks-tray nibble at its simplest, the kind of ba
 - **Immediate Service Best:** Cheese straws are at their peak within 30 minutes of baking; after that, they lose crispness as they cool completely.
 
 ## Variations
-**Spicier Version:** Add ¼ teaspoon cayenne instead of pinch, or increase to ½ teaspoon for significantly more heat.
-**Herbed Straws:** Add ½ teaspoon dried thyme or dried oregano to the paprika mixture for herbaceous note.
-**With Parmesan & Truffle:** Use all Parmesan (no Emmenthal); add 1-2 drops black truffle oil (very sparingly) to the egg wash for luxury version.
-**Curry Variation:** Replace paprika entirely with 1 teaspoon mild curry powder for Indian-inspired character.
-**With Poppy Seeds:** Instead of paprika, dust with 1 teaspoon poppy seeds for different appearance and subtle nutty flavor.
+- **Spicier Version:** Add ¼ teaspoon cayenne instead of pinch, or increase to ½ teaspoon for significantly more heat.
+- **Herbed Straws:** Add ½ teaspoon dried thyme or dried oregano to the paprika mixture for herbaceous note.
+- **With Parmesan & Truffle:** Use all Parmesan (no Emmenthal); add 1-2 drops black truffle oil (very sparingly) to the egg wash for luxury version.
+- **Curry Variation:** Replace paprika entirely with 1 teaspoon mild curry powder for Indian-inspired character.
+- **With Poppy Seeds:** Instead of paprika, dust with 1 teaspoon poppy seeds for different appearance and subtle nutty flavor.
 
 ## Serving
-Perfect with: Aperitif drinks (champagne, wine, cocktails), light consommé or soup, cheese board, before-dinner nibbles, cocktail parties
-Temperature: Warm (within 30 minutes of baking)
-Ratio: 3-4 straws per person
-Context: Pre-dinner appetizer, elegant canapé stand-in, simple entertaining, quick appetizer
+- Perfect with: Aperitif drinks (champagne, wine, cocktails), light consommé or soup, cheese board, before-dinner nibbles, cocktail parties
+- Temperature: Warm (within 30 minutes of baking)
+- Ratio: 3-4 straws per person
+- Context: Pre-dinner appetizer, elegant canapé stand-in, simple entertaining, quick appetizer
 
 ## Storage
 - Best consumed fresh and warm (within 30 minutes of baking).

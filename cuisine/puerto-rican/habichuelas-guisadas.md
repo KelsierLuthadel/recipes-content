@@ -102,13 +102,13 @@ Habichuelas guisadas ("stewed beans") is Puerto Rico's everyday bean stew and on
 - **Pink beans are traditional:** small pink beans are the proper Puerto Rican choice. Red kidney beans are the closest substitute; pinto beans work too. Black beans give a different (Cuban-leaning) flavour profile.
 
 ## Variations
-**With ham (habichuelas con jamón):** add 200 g of diced smoked ham or a smoked ham hock at the start of stage 3; cook with the beans. Common non-vegetarian variation.
-**Black bean version (habichuelas negras):** swap pink beans for black beans; gives a deeper darker stew. Closer to Cuban moros y cristianos style.
-**With chorizo:** add 150 g of sliced chorizo (Spanish-style) to the pan with the aromatics; renders the fat into the dish and adds spice.
-**With ham hock and pig's tail:** the traditional "habichuelas con patitas" includes pig's tail or ham hock for extra depth; cook for 90 minutes with the beans for the meat to soften.
+- **With ham (habichuelas con jamón):** add 200 g of diced smoked ham or a smoked ham hock at the start of stage 3; cook with the beans. Common non-vegetarian variation.
+- **Black bean version (habichuelas negras):** swap pink beans for black beans; gives a deeper darker stew. Closer to Cuban moros y cristianos style.
+- **With chorizo:** add 150 g of sliced chorizo (Spanish-style) to the pan with the aromatics; renders the fat into the dish and adds spice.
+- **With ham hock and pig's tail:** the traditional "habichuelas con patitas" includes pig's tail or ham hock for extra depth; cook for 90 minutes with the beans for the meat to soften.
 
 ## Serving
-Over plain white rice as arroz con habichuelas (the traditional Puerto Rican "rice and beans" combination) or as a side alongside pernil, bistec encebollado or pollo guisado. With tostones or maduros. With pique for heat and lime wedges. Drink: Medalla beer, agua de tamarindo, or a glass of cold mauby.
+- Over plain white rice as arroz con habichuelas (the traditional Puerto Rican "rice and beans" combination) or as a side alongside pernil, bistec encebollado or pollo guisado. With tostones or maduros. With pique for heat and lime wedges. Drink: Medalla beer, agua de tamarindo, or a glass of cold mauby.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight (many Puerto Rican cooks deliberately make it the day before).

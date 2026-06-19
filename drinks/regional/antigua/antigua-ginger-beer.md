@@ -55,7 +55,7 @@ Antiguan ginger beer is non-alcoholic, fiercely gingery and made by the gallon a
 - **Fermented ginger beer:** Add a teaspoon of dried yeast after sweetening and bottle, leave 24 hours at room temperature, refrigerate; for a lightly fizzy fermented version.
 
 ## Serving
-Serve over ice in tall glasses · with a sprig of mint and a slice of lime · alongside a plate of saltfish cakes · at Christmas dinner in place of fizzy drinks.
+- Serve over ice in tall glasses · with a sprig of mint and a slice of lime · alongside a plate of saltfish cakes · at Christmas dinner in place of fizzy drinks.
 
 ## Storage
 - Keeps 1 week refrigerated in a sealed bottle

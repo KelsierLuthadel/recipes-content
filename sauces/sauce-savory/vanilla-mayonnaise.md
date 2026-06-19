@@ -51,7 +51,7 @@ Vanilla mayonnaise is the building block for an unexpected delicate refinement o
 - **Oil temperature:** Cold oil emulsifies best; room temperature oil creates separated, greasy result.
 
 ## Serving
-Serve with poached salmon (especially liquorice-poached), other delicate white fish, or cold chicken. The vanilla adds sophistication without overwhelming delicate flavours.
+- Serve with poached salmon (especially liquorice-poached), other delicate white fish, or cold chicken. The vanilla adds sophistication without overwhelming delicate flavours.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

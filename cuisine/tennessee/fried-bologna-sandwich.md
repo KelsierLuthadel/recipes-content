@@ -70,13 +70,13 @@ The fried bologna sandwich is one of Tennessee's most underrated everyday meals 
 - **Soft white bread:** the working-class bread.
 
 ## Variations
-**With egg:** add a fried egg.
-**With caramelised onions:** instead of raw.
-**Open-face:** with melted cheese under the grill.
-**Spicy:** pepper jack + jalapeños.
+- **With egg:** add a fried egg.
+- **With caramelised onions:** instead of raw.
+- **Open-face:** with melted cheese under the grill.
+- **Spicy:** pepper jack + jalapeños.
 
 ## Serving
-For lunch with chips and a pickle. Bar food. Lunchbox.
+- For lunch with chips and a pickle. Bar food. Lunchbox.
 
 ## Storage
 - Best immediately.

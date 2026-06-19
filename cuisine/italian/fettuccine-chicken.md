@@ -62,12 +62,12 @@ Fettuccine with chicken and Dolcelatte is the Italian-bistro classic that turns 
 - **Fresh Chives:** Essential for their delicate onion flavor; dried chives lack this brightness.
 
 ## Variations
-**With Walnuts:** Add 50g toasted walnuts for textural contrast and nutty depth.
-**Mushroom Version:** Add 150g sliced mushrooms cooked with the chicken.
+- **With Walnuts:** Add 50g toasted walnuts for textural contrast and nutty depth.
+- **Mushroom Version:** Add 150g sliced mushrooms cooked with the chicken.
 
 ## Serving
-Serve with: A crisp Pinot Grigio or similar white wine
-Garnish with: Fresh chives, cracked black pepper, and Parmesan shavings if desired
+- Serve with: A crisp Pinot Grigio or similar white wine
+- Garnish with: Fresh chives, cracked black pepper, and Parmesan shavings if desired
 
 ## Storage
 - Best eaten freshly made

@@ -79,19 +79,19 @@ Bajan rum punch is one of the most-recognised Caribbean drinks and Barbados's na
 - **Falernum is optional but very traditional:** the lime-ginger-clove-almond syrup invented in Barbados is the upmarket Bajan addition.
 
 ## Variations
-**Single-serving rum punch (for one):** 45 ml rum + 15 ml lime juice + 30 ml simple syrup + 60 ml water + 2 dashes bitters + ice + nutmeg + lime slice.
-**Party-batch rum punch (serves 16):** quadruple all ingredients; make in a 3-litre pitcher.
-**Cockspur Old Gold rum punch:** the same recipe with Cockspur instead of Mount Gay, slightly drier, more sherry-like profile.
-**Stronger rum punch:** use a 4:2:3:3 ratio (more strong, less weak): the "rum-shop strong" variant.
-**Lighter rum punch:** use a 1:2:3:6 ratio (more water): for daytime drinking.
-**Rum punch with falernum:** the upmarket Bajan variant; falernum gives lime-ginger-clove-almond depth.
-**Tropical rum punch:** add 60 ml fresh pineapple juice + 30 ml fresh orange juice; reduce the water, the modern tourist variant.
-**Sorrel rum punch (Christmas variant):** swap the water for chilled sorrel (hibiscus tea): the festive variant.
-**Non-alcoholic rum punch (mocktail):** swap the rum for cold brewed black tea + 30 ml ginger ale, acceptable for the designated driver but lacks the traditional character.
-**Falernum + rum punch + soda:** add 60 ml soda water at the end, the spritzed variant.
+- **Single-serving rum punch (for one):** 45 ml rum + 15 ml lime juice + 30 ml simple syrup + 60 ml water + 2 dashes bitters + ice + nutmeg + lime slice.
+- **Party-batch rum punch (serves 16):** quadruple all ingredients; make in a 3-litre pitcher.
+- **Cockspur Old Gold rum punch:** the same recipe with Cockspur instead of Mount Gay, slightly drier, more sherry-like profile.
+- **Stronger rum punch:** use a 4:2:3:3 ratio (more strong, less weak): the "rum-shop strong" variant.
+- **Lighter rum punch:** use a 1:2:3:6 ratio (more water): for daytime drinking.
+- **Rum punch with falernum:** the upmarket Bajan variant; falernum gives lime-ginger-clove-almond depth.
+- **Tropical rum punch:** add 60 ml fresh pineapple juice + 30 ml fresh orange juice; reduce the water, the modern tourist variant.
+- **Sorrel rum punch (Christmas variant):** swap the water for chilled sorrel (hibiscus tea): the festive variant.
+- **Non-alcoholic rum punch (mocktail):** swap the rum for cold brewed black tea + 30 ml ginger ale, acceptable for the designated driver but lacks the traditional character.
+- **Falernum + rum punch + soda:** add 60 ml soda water at the end, the spritzed variant.
 
 ## Serving
-At a Bajan beach bar at sunset (the traditional setting) · at a Bajan hotel pool · at a Bajan rum-shop · at a Bajan wedding cocktail hour · at a Bajan Independence Day (30 November) celebration · at a Bajan family Sunday lunch · at a Bajan Christmas Eve dinner · at home as the Caribbean-themed party drink · paired with Bajan fish cakes, conkies, or just a plate of fresh tropical fruit.
+- At a Bajan beach bar at sunset (the traditional setting) · at a Bajan hotel pool · at a Bajan rum-shop · at a Bajan wedding cocktail hour · at a Bajan Independence Day (30 November) celebration · at a Bajan family Sunday lunch · at a Bajan Christmas Eve dinner · at home as the Caribbean-themed party drink · paired with Bajan fish cakes, conkies, or just a plate of fresh tropical fruit.
 
 ## Storage
 - The pre-mixed rum punch (without ice) refrigerates 1 week.

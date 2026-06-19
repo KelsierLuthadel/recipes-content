@@ -83,14 +83,14 @@ Aalborg Akvavit is Denmark's most iconic spirit and the traditional drinking par
 - **Pickled herring alongside:** the salt cuts the spirit.
 
 ## Variations
-**Aalborg Jubilæum (oak-aged):** slightly warmer, deeper colour. Bottled as a deluxe Aalborg version.
-**Aalborg Dild (extra-dill):** dill-forward; for fish-and-pickle pairings.
-**Aalborg Porse (sweet-gale):** Danish bog-plant infusion; herbal and bitter.
-**Snaps cocktails:** modern Copenhagen bars increasingly use akvavit in cocktails, Aalborg Sour, Akvavit Negroni, for the depth and caraway notes.
-**Birch-bud snaps (forager's version):** infuse vodka with fresh spring birch buds for a uniquely Scandinavian green-herbal snaps.
+- **Aalborg Jubilæum (oak-aged):** slightly warmer, deeper colour. Bottled as a deluxe Aalborg version.
+- **Aalborg Dild (extra-dill):** dill-forward; for fish-and-pickle pairings.
+- **Aalborg Porse (sweet-gale):** Danish bog-plant infusion; herbal and bitter.
+- **Snaps cocktails:** modern Copenhagen bars increasingly use akvavit in cocktails, Aalborg Sour, Akvavit Negroni, for the depth and caraway notes.
+- **Birch-bud snaps (forager's version):** infuse vodka with fresh spring birch buds for a uniquely Scandinavian green-herbal snaps.
 
 ## Serving
-At every traditional Danish meal involving cured fish or smørrebrød · at a julefrokost (Christmas lunch) · at Easter brunch · at a Copenhagen restaurant smørrebrød lunch · at home with cold pickled herring + rye bread + a pilsner chaser.
+- At every traditional Danish meal involving cured fish or smørrebrød · at a julefrokost (Christmas lunch) · at Easter brunch · at a Copenhagen restaurant smørrebrød lunch · at home with cold pickled herring + rye bread + a pilsner chaser.
 
 ## Storage
 - Bottled Aalborg akvavit keeps indefinitely.

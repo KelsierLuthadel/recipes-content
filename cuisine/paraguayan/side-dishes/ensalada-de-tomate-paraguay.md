@@ -58,7 +58,7 @@ The Paraguayan tomato-and-onion salad is so ubiquitous at the asado table that i
 - **With ají:** add a finely chopped fresh ají (Paraguayan chilli) for a country variant.
 
 ## Serving
-Always at the asado table · spooned over grilled beef, ribs and sausages · alongside sopa paraguaya and chipa guazú · with mandioca · with vori vori or bori bori as a fresh contrast to the soup.
+- Always at the asado table · spooned over grilled beef, ribs and sausages · alongside sopa paraguaya and chipa guazú · with mandioca · with vori vori or bori bori as a fresh contrast to the soup.
 
 ## Storage
 - Best fresh; eats well for 4 hours at room temperature

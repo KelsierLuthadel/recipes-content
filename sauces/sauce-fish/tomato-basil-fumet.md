@@ -46,7 +46,7 @@ Tomato and basil fish fumet is the building block for the elegant clarified-brot
 - **Egg white raft:** The white and vegetable mixture forms a natural filter; ladle gently to avoid disturbing.
 
 ## Serving
-Serve in heated shallow bowls with delicate-fleshed white fish fillets (red mullet, John Dory, sea bream) poached or steamed in the fumet itself.
+- Serve in heated shallow bowls with delicate-fleshed white fish fillets (red mullet, John Dory, sea bream) poached or steamed in the fumet itself.
 
 ## Storage
 - Keeps refrigerated for 2-3 days in an airtight container.

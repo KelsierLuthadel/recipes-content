@@ -81,7 +81,7 @@ Rupjmaizes kārtojums (literally "layered rye bread") is the dessert that turns 
 - **As a torte:** Press the crumbs into a 20 cm springform tin as a base, spread the cream over, top with berry purée, chill 6 hours, slice as a torte rather than a glass dessert.
 
 ## Serving
-Serve cold from the fridge, straight to the table. A small glass of black balsam on the side for adults.
+- Serve cold from the fridge, straight to the table. A small glass of black balsam on the side for adults.
 
 ## Storage
 - Keeps 2 days refrigerated, but the crumb softens with time. Eat on day one if possible.

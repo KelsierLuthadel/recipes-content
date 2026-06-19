@@ -57,14 +57,14 @@ Baklava appears across Macedonia, Greece, Turkey, Bosnia and Albania, each count
 - **Rest 4 hours minimum:** syrup soaks slowly.
 
 ## Variations
-**With pistachios:** Turkish-influenced.
-**With almonds:** Greek variant.
-**Without cinnamon:** more nut-forward.
-**Mini baklava rolls:** rolled phyllo cigars for individual portions.
-**With orange-blossom water in syrup:** Levantine variant.
+- **With pistachios:** Turkish-influenced.
+- **With almonds:** Greek variant.
+- **Without cinnamon:** more nut-forward.
+- **Mini baklava rolls:** rolled phyllo cigars for individual portions.
+- **With orange-blossom water in syrup:** Levantine variant.
 
 ## Serving
-At a Macedonian wedding · at every Macedonian bakery counter · with strong coffee · at Eid (in Muslim Macedonian communities) · at home for special occasions.
+- At a Macedonian wedding · at every Macedonian bakery counter · with strong coffee · at Eid (in Muslim Macedonian communities) · at home for special occasions.
 
 ## Storage
 Keeps in a sealed tin 1 week at room temperature. Don't refrigerate (the phyllo softens). Freezes 1 month.

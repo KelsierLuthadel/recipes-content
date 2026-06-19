@@ -75,17 +75,17 @@ Provoleta is Argentina's most clever and most universally beloved cheese starter
 - **Substitute (last resort):** if Argentine provoleta is unavailable, use thick slices of aged Italian provolone, halloumi (very different but works), or even a thick slice of mozzarella (will melt too much but is acceptable).
 
 ## Variations
-**Provoleta with chimichurri spooned over:** drizzle a tablespoon of chimichurri over the grilled cheese, herbal and bright.
-**Provoleta with caramelised onions:** top with sweated onions before grilling.
-**Provoleta with tomato:** add a slice of grilled tomato on top, Italian-Argentine fusion.
-**Provoleta with figs and honey:** modernised version with fresh figs and a drizzle of honey, restaurant variant.
-**Provoleta with anchovy:** top with anchovy fillets before grilling, Mediterranean-Argentine.
-**Provoleta with chorizo crumbles:** crumble cooked chorizo on top, heartier variant.
-**Mini provoletas:** make small individual portions (50 g each) on a cast-iron skillet, party version.
-**Pan-cooked provoleta (no grill):** in a screaming-hot cast-iron pan on the stovetop, 3 minutes per side. Same result.
+- **Provoleta with chimichurri spooned over:** drizzle a tablespoon of chimichurri over the grilled cheese, herbal and bright.
+- **Provoleta with caramelised onions:** top with sweated onions before grilling.
+- **Provoleta with tomato:** add a slice of grilled tomato on top, Italian-Argentine fusion.
+- **Provoleta with figs and honey:** modernised version with fresh figs and a drizzle of honey, restaurant variant.
+- **Provoleta with anchovy:** top with anchovy fillets before grilling, Mediterranean-Argentine.
+- **Provoleta with chorizo crumbles:** crumble cooked chorizo on top, heartier variant.
+- **Mini provoletas:** make small individual portions (50 g each) on a cast-iron skillet, party version.
+- **Pan-cooked provoleta (no grill):** in a screaming-hot cast-iron pan on the stovetop, 3 minutes per side. Same result.
 
 ## Serving
-At every Argentine asado as the traditional opener (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Mendoza wine-country lunch · at an Argentine wedding reception (as canapés on the grill) · at home as a quick weeknight snack on a cast-iron pan · with a glass of Malbec and bread for an easy starter.
+- At every Argentine asado as the traditional opener (the traditional setting) · at a Buenos Aires parrilla restaurant · at a Mendoza wine-country lunch · at an Argentine wedding reception (as canapés on the grill) · at home as a quick weeknight snack on a cast-iron pan · with a glass of Malbec and bread for an easy starter.
 
 ## Storage
 - Best eaten immediately from the grill.

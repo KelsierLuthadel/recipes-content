@@ -117,18 +117,18 @@ The Halifax donair is the city's most identity-defining street food, and the pro
 - **The Halifax purist insists:** beef only (no lamb, no chicken, no pork); the sweet sauce only; the onion-tomato garnish only. Other cities (Toronto, Edmonton) make modernised versions; Halifax keeps it pure.
 
 ## Variations
-**Donair pizza (Halifax bar-food classic):** spread the donair sauce over a pizza base; top with sliced donair meat, mozzarella, onion, tomato; bake, the famous Halifax sit-down variant.
-**Donair eggrolls:** wrap the meat, sauce and onion in Chinese egg-roll wrappers; deep-fry till crisp, the Halifax bar variant.
-**Donair poutine:** chopped donair meat over poutine; drizzle of the sweet sauce instead of gravy, the modern fusion variant.
-**Donair-stuffed garlic fingers:** Atlantic Canadian garlic fingers (flatbread with garlic butter and mozzarella) topped with donair meat and sauce, the classic 2 am combo.
-**Chicken donair (modern):** swap the beef for spiced minced chicken; same sauce, the lighter, modern variant.
-**Lamb donair (Toronto variant):** swap the beef for spiced minced lamb; the Toronto-Greek take.
-**Lettuce-cup donair (low-carb variant):** skip the pita; serve the meat and toppings in butter-lettuce cups, the modern dietary-flexible variant.
-**Vegan donair (modern):** crumbled spiced tempeh or seitan; the same sauce made with vegan condensed milk, surprisingly close.
-**Garlic donair (extra garlic variant):** triple the garlic powder in the sauce, for the garlic-loving Halifax purist.
+- **Donair pizza (Halifax bar-food classic):** spread the donair sauce over a pizza base; top with sliced donair meat, mozzarella, onion, tomato; bake, the famous Halifax sit-down variant.
+- **Donair eggrolls:** wrap the meat, sauce and onion in Chinese egg-roll wrappers; deep-fry till crisp, the Halifax bar variant.
+- **Donair poutine:** chopped donair meat over poutine; drizzle of the sweet sauce instead of gravy, the modern fusion variant.
+- **Donair-stuffed garlic fingers:** Atlantic Canadian garlic fingers (flatbread with garlic butter and mozzarella) topped with donair meat and sauce, the classic 2 am combo.
+- **Chicken donair (modern):** swap the beef for spiced minced chicken; same sauce, the lighter, modern variant.
+- **Lamb donair (Toronto variant):** swap the beef for spiced minced lamb; the Toronto-Greek take.
+- **Lettuce-cup donair (low-carb variant):** skip the pita; serve the meat and toppings in butter-lettuce cups, the modern dietary-flexible variant.
+- **Vegan donair (modern):** crumbled spiced tempeh or seitan; the same sauce made with vegan condensed milk, surprisingly close.
+- **Garlic donair (extra garlic variant):** triple the garlic powder in the sauce, for the garlic-loving Halifax purist.
 
 ## Serving
-At a Halifax kebab stand on Spring Garden Road or Quinpool Road after midnight (the traditional setting) · at the King of Donair on Quinpool (the founding restaurant) · at a Halifax Mooseheads or Hurricanes hockey game · at a Maritime university residence on a Friday night · at a Halifax pub for Saturday lunch · at home as a satisfying weekend dinner project · packed in foil for a Halifax-themed picnic or road trip.
+- At a Halifax kebab stand on Spring Garden Road or Quinpool Road after midnight (the traditional setting) · at the King of Donair on Quinpool (the founding restaurant) · at a Halifax Mooseheads or Hurricanes hockey game · at a Maritime university residence on a Friday night · at a Halifax pub for Saturday lunch · at home as a satisfying weekend dinner project · packed in foil for a Halifax-themed picnic or road trip.
 
 ## Storage
 - The baked meat loaf refrigerates 5 days wrapped tight; slice and re-crisp as needed.

@@ -52,7 +52,7 @@ Ginger and chilli sauce for sashimi is the building block for the dipping sauce 
 - **Fresh sashimi requirement:** This sauce demands top-quality, sushi-grade fish.
 
 ## Serving
-Serve with thinly sliced sashimi-grade salmon and tuna arranged on a platter. Also excellent with grilled fish or as a marinade for seafood.
+- Serve with thinly sliced sashimi-grade salmon and tuna arranged on a platter. Also excellent with grilled fish or as a marinade for seafood.
 
 ## Storage
 - Keeps refrigerated for 1 day in an airtight container.

@@ -50,7 +50,7 @@ Sauce Bercy is the building block for the classical French white-wine sauce that
 - **Lemon juice:** Use fresh, freshly squeezed lemon; bottled juice lacks the same brightness and complexity.
 
 ## Serving
-Serve immediately with white fish fillets including skate, sole, dogfish, or turbot. Also pairs well with steamed fish and light shellfish dishes.
+- Serve immediately with white fish fillets including skate, sole, dogfish, or turbot. Also pairs well with steamed fish and light shellfish dishes.
 
 ## Storage
 - Best eaten immediately after preparation.

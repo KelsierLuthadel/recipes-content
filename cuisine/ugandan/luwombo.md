@@ -77,12 +77,12 @@ Luwombo is Uganda's celebration parcel: chicken (or beef, or smoked fish) wrappe
 - **The sauce is short:** Luwombo is meant to be intensely concentrated, not soupy. The sauce in each parcel is just enough to coat the meat and soak into matoke or rice on the side.
 
 ## Variations
-**Beef luwombo:** Use 800 g chuck cut in 4 cm pieces. Add 30 minutes to the steaming time.
-**Smoked fish luwombo:** Use 600 g smoked mackerel or smoked tilapia. Steam for just 45 minutes; the fish is already cooked and only needs to absorb the aromatics.
+- **Beef luwombo:** Use 800 g chuck cut in 4 cm pieces. Add 30 minutes to the steaming time.
+- **Smoked fish luwombo:** Use 600 g smoked mackerel or smoked tilapia. Steam for just 45 minutes; the fish is already cooked and only needs to absorb the aromatics.
 
 ## Serving
-Serve with: Matoke (steamed green plantain) or plain steamed rice, plus a side of sukuma wiki (greens).
-Garnish with: A wedge of lemon and a few fresh coriander leaves.
+- Serve with: Matoke (steamed green plantain) or plain steamed rice, plus a side of sukuma wiki (greens).
+- Garnish with: A wedge of lemon and a few fresh coriander leaves.
 
 ## Storage
 - Best eaten the day it is cooked; the leaves continue to release tannins and the dish can turn slightly bitter.

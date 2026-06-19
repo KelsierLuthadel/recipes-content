@@ -63,7 +63,7 @@ A note on the anchovies: they do not make the sauce taste of fish. Two or three 
 - **Potato salad**, stirred through warm boiled potatoes with no other dressing.
 - **White beans**, especially cannellini, with a spoonful and a drizzle of olive oil.
 
-Do not confuse with [Mexican salsa verde](../../mexican/salsa-verde.md), which is a completely different sauce (tomatillo-based, smoother, no anchovy).
+- Do not confuse with [Mexican salsa verde](../../mexican/salsa-verde.md), which is a completely different sauce (tomatillo-based, smoother, no anchovy).
 
 ## Storage
 - Best the day it is made.

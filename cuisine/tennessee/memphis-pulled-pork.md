@@ -111,13 +111,13 @@ Memphis pulled pork is the dish that defines Memphis BBQ and the centrepiece of 
 - **Coleslaw on top:** Memphis signature.
 
 ## Variations
-**Oven version (no smoker):** roast at 110°C wrapped in foil for 10 hours; less smoky but works.
-**With Carolina vinegar sauce:** Eastern North Carolina style.
-**With white BBQ sauce:** Alabama style.
-**Pork shoulder tacos:** alternative serving.
+- **Oven version (no smoker):** roast at 110°C wrapped in foil for 10 hours; less smoky but works.
+- **With Carolina vinegar sauce:** Eastern North Carolina style.
+- **With white BBQ sauce:** Alabama style.
+- **Pork shoulder tacos:** alternative serving.
 
 ## Serving
-Memphis BBQ joints, family gatherings, tailgates.
+- Memphis BBQ joints, family gatherings, tailgates.
 
 ## Storage
 - Pulled pork refrigerates 4 days.

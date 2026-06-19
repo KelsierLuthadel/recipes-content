@@ -57,13 +57,13 @@ Polneti piperki (stuffed peppers) appear across the Balkans, but the Macedonian 
 - **Stand upright in sauce:** the peppers cook evenly.
 
 ## Variations
-**Vegetarian:** swap meat for cooked lentils + mushroom + walnut.
-**With cheese:** stir 80 g grated Kashkaval into the filling.
-**Spicy:** add 1 chopped chilli.
-**Mini stuffed peppers:** small sweet peppers (per portion).
+- **Vegetarian:** swap meat for cooked lentils + mushroom + walnut.
+- **With cheese:** stir 80 g grated Kashkaval into the filling.
+- **Spicy:** add 1 chopped chilli.
+- **Mini stuffed peppers:** small sweet peppers (per portion).
 
 ## Serving
-At Macedonian family Sunday lunch · with sour cream · at home with red wine.
+- At Macedonian family Sunday lunch · with sour cream · at home with red wine.
 
 ## Storage
 Refrigerates 4 days; flavour improves. Freezes 2 months.

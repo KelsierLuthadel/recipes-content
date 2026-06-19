@@ -102,13 +102,13 @@ Peixe grelhado à Moçambicana is one of Mozambique's most beloved fish dishes a
 - **Don't overcook:** white-fleshed fish goes dry quickly. 8-10 minutes per side for a 1.2-1.5 kg fish is the maximum; check the flesh through the cuts and stop as soon as it's opaque.
 
 ## Variations
-**Smaller fish version:** use 2-4 smaller whole fish (300-500 g each; sea bream, mojarra); cook 5-6 minutes per side. Easier to handle.
-**Spicier version:** double the piri-piri sauce in both the marinade and the butter; serve with extra-hot piri-piri on the side.
-**Coconut-and-lime butter version:** swap the piri-piri butter for a coconut-cream-and-lime sauce; gives a tropical version common in coastal Inhambane.
-**Banana-leaf wrapped:** wrap the fish in fresh banana leaves before grilling; gives a smoky aromatic version common in northern Mozambique (closer to Zambezian style).
+- **Smaller fish version:** use 2-4 smaller whole fish (300-500 g each; sea bream, mojarra); cook 5-6 minutes per side. Easier to handle.
+- **Spicier version:** double the piri-piri sauce in both the marinade and the butter; serve with extra-hot piri-piri on the side.
+- **Coconut-and-lime butter version:** swap the piri-piri butter for a coconut-cream-and-lime sauce; gives a tropical version common in coastal Inhambane.
+- **Banana-leaf wrapped:** wrap the fish in fresh banana leaves before grilling; gives a smoky aromatic version common in northern Mozambique (closer to Zambezian style).
 
 ## Serving
-On a large wooden platter at the centre of the table, fish whole with the sides scattered around. Cold beer (2M or Laurentina; Mozambique's locals) or chilled vinho verde. As a Sunday lunch at the seaside, a weekend special-occasion dinner, or a beach cookout.
+- On a large wooden platter at the centre of the table, fish whole with the sides scattered around. Cold beer (2M or Laurentina; Mozambique's locals) or chilled vinho verde. As a Sunday lunch at the seaside, a weekend special-occasion dinner, or a beach cookout.
 
 ## Storage
 - Best eaten fresh off the grill; the skin loses crispness as it cools.

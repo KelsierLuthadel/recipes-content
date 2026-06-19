@@ -48,7 +48,7 @@ The drink is associated more with Mississippi and Louisiana than anywhere else, 
 - **With egg white:** add an egg white before shaking for a foamier, denser drink.
 
 ## Serving
-A brunch cocktail. Two with eggs benedict on a Sunday morning is the proper occasion. Also good as a nightcap with a slice of plain pound cake.
+- A brunch cocktail. Two with eggs benedict on a Sunday morning is the proper occasion. Also good as a nightcap with a slice of plain pound cake.
 
 ## Storage
 The drink does not keep; it separates and goes flat. Build to order. The dairy components are perishable and should not be batched and held.

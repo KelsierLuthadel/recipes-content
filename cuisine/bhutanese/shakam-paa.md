@@ -97,13 +97,13 @@ Shakam paa is one of Bhutan's most distinctive dishes, born of the Himalayan nec
 - **Butter or yak butter:** traditional shakam paa uses yak butter, which has a faintly fermented funky character. Hard to find outside Tibet and Bhutan; regular butter is the standard substitute. Ghee also works.
 
 ## Variations
-**Yaksha paa:** the same dish made with dried yak meat instead of dried beef; the proper high-altitude version, available in some Bhutanese and Tibetan restaurants outside Bhutan. The yak meat is slightly gamier than beef.
-**Shakam ema datshi:** add 100 g of crumbled feta or fresh local cheese in the last 5 minutes; turns the stew into a creamy variation that bridges shakam paa and ema datshi (the chilli-cheese national dish).
-**Shakam paa with potato:** add 2 medium potatoes (cubed) to the stew when you add the stock; turns the dish into a one-pot meal. Common Bhutanese household variant.
-**Vegetarian shakam paa (jaju paa):** swap the dried beef for dried mushrooms (200 g, soaked the same way); use vegetable stock. Less traditional but works for fasting days or vegetarian guests.
+- **Yaksha paa:** the same dish made with dried yak meat instead of dried beef; the proper high-altitude version, available in some Bhutanese and Tibetan restaurants outside Bhutan. The yak meat is slightly gamier than beef.
+- **Shakam ema datshi:** add 100 g of crumbled feta or fresh local cheese in the last 5 minutes; turns the stew into a creamy variation that bridges shakam paa and ema datshi (the chilli-cheese national dish).
+- **Shakam paa with potato:** add 2 medium potatoes (cubed) to the stew when you add the stock; turns the dish into a one-pot meal. Common Bhutanese household variant.
+- **Vegetarian shakam paa (jaju paa):** swap the dried beef for dried mushrooms (200 g, soaked the same way); use vegetable stock. Less traditional but works for fasting days or vegetarian guests.
 
 ## Serving
-Over Bhutanese red rice (the staple short-grain reddish-brown rice of the country; substitute with any short-grain red rice like Camargue red), with the broth soaking into the rice. Ezay (the Bhutanese chilli relish) on the side for those who want extra heat. A small bowl of plain yogurt to cool the palate, if needed.
+- Over Bhutanese red rice (the staple short-grain reddish-brown rice of the country; substitute with any short-grain red rice like Camargue red), with the broth soaking into the rice. Ezay (the Bhutanese chilli relish) on the side for those who want extra heat. A small bowl of plain yogurt to cool the palate, if needed.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

@@ -71,13 +71,13 @@ Louisiana fried pickles (also called fried pickle chips) are a Cajun-Southern ba
 - **Eat immediately:** lose crispness.
 
 ## Variations
-**Spear pickles:** use whole long spears; longer fry time.
-**With panko:** less traditional.
-**Spicier:** double cayenne.
-**Baked (less crispy):** at 220°C with oil spray, 18 min.
+- **Spear pickles:** use whole long spears; longer fry time.
+- **With panko:** less traditional.
+- **Spicier:** double cayenne.
+- **Baked (less crispy):** at 220°C with oil spray, 18 min.
 
 ## Serving
-At bars, tailgates, gatherings. Cold beer.
+- At bars, tailgates, gatherings. Cold beer.
 
 ## Storage
 - Best immediately.

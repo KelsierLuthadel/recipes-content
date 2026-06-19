@@ -70,13 +70,13 @@ Timatim fitfit is Ethiopia's bright tomato-and-injera salad, the fresh acidic co
 - **Spicy version:** adding mitmita or berbere to the dressing transforms timatim fitfit from a refreshing side into a punchy seasoned salad that holds its own next to even the spiciest wats. The mild version is what you want with already-spicy meals; the spicy version is what you serve with milder alichas.
 
 ## Variations
-**Awaze timatim:** stir 2 tablespoons of awaze (Ethiopian chilli-and-wine paste) into the dressing for a deeply red, properly spicy version. Often served as a stand-alone light meal in Ethiopian-Eritrean homes.
-**Selata (the simpler version):** sometimes timatim fitfit is served as a plain chopped salad without the injera (just tomato, onion, chilli, lime); this is also called Ethiopian selata. The injera version is more substantial.
-**With cucumber:** add 1 small cucumber (deseeded and diced) for a fresher, more salad-like version. Less traditional but works for a light meal in hot weather.
-**Genfo fitfit (sweet version):** the same fitfit technique applied to porridge instead of tomatoes; a breakfast dish. Worth knowing as a reference.
+- **Awaze timatim:** stir 2 tablespoons of awaze (Ethiopian chilli-and-wine paste) into the dressing for a deeply red, properly spicy version. Often served as a stand-alone light meal in Ethiopian-Eritrean homes.
+- **Selata (the simpler version):** sometimes timatim fitfit is served as a plain chopped salad without the injera (just tomato, onion, chilli, lime); this is also called Ethiopian selata. The injera version is more substantial.
+- **With cucumber:** add 1 small cucumber (deseeded and diced) for a fresher, more salad-like version. Less traditional but works for a light meal in hot weather.
+- **Genfo fitfit (sweet version):** the same fitfit technique applied to porridge instead of tomatoes; a breakfast dish. Worth knowing as a reference.
 
 ## Serving
-On the shared injera platter as one of the small mounds around the meat wats, providing fresh acidic contrast to the rich slow-cooked stews. Also wonderful as a standalone light lunch with extra injera on the side. Drink: bottled water or homemade ginger drink; the salad needs no further accompaniment.
+- On the shared injera platter as one of the small mounds around the meat wats, providing fresh acidic contrast to the rich slow-cooked stews. Also wonderful as a standalone light lunch with extra injera on the side. Drink: bottled water or homemade ginger drink; the salad needs no further accompaniment.
 
 ## Storage
 - Best eaten within an hour of mixing. The injera continues to absorb the dressing and eventually breaks down into mush.

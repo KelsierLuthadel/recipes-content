@@ -58,13 +58,13 @@ A grill-cooked version of the traditional tandoor naan: large, light and slightl
 - **Don't roll thin:** Naan needs height to puff; rolling under 5 mm produces a cracker rather than a bread.
 
 ## Variations
-**Peshwari naan:** Knead a mixture of ground almonds, sultanas and desiccated coconut into the dough before proving for a sweet, fruity loaf.
-**Garlic naan:** Brush the uncooked side with garlic butter (melted ghee plus a crushed clove) instead of plain ghee before the second grill.
-**Cheese naan:** Roll the disc, place a tablespoon of grated mozzarella in the middle, fold the dough over and seal, then re-roll gently before grilling.
+- **Peshwari naan:** Knead a mixture of ground almonds, sultanas and desiccated coconut into the dough before proving for a sweet, fruity loaf.
+- **Garlic naan:** Brush the uncooked side with garlic butter (melted ghee plus a crushed clove) instead of plain ghee before the second grill.
+- **Cheese naan:** Roll the disc, place a tablespoon of grated mozzarella in the middle, fold the dough over and seal, then re-roll gently before grilling.
 
 ## Serving
-Serve with: Any rich Indian curry; particularly suited to sauces begging to be soaked up, like a korma or rogan josh.
-Garnish with: An extra brush of melted ghee and a final sprinkle of sesame seeds.
+- Serve with: Any rich Indian curry; particularly suited to sauces begging to be soaked up, like a korma or rogan josh.
+- Garnish with: An extra brush of melted ghee and a final sprinkle of sesame seeds.
 
 ## Storage
 - Best torn straight off the grill while still warm.

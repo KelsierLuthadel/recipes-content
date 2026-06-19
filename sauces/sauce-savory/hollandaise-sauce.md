@@ -51,7 +51,7 @@ Hollandaise is one of the five French mother sauces and the building block for a
 - **Reduction:** The acidic base is essential for flavour and helps stabilize the emulsion.
 
 ## Serving
-Serve with poached or steamed fish, asparagus, broccoli, eggs Royale, or other classic preparations. Essential for Eggs Benedict variations.
+- Serve with poached or steamed fish, asparagus, broccoli, eggs Royale, or other classic preparations. Essential for Eggs Benedict variations.
 
 ## Storage
 - Best served immediately; does not keep well due to emulsion instability.

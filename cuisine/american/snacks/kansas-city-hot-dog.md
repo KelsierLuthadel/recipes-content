@@ -81,13 +81,13 @@ The Kansas City hot dog is the city's distinctive contribution to the regional-h
 - **Caraway in the sauerkraut:** the German-Czech accent.
 
 ## Variations
-**Full Reuben Dog:** swap the sauerkraut for chopped pastrami + sauerkraut + Swiss + thousand-island. Same idea, beefier.
-**With smoked sausage:** swap the hot dog for KC-style smoked sausage (a thicker beef-pork blend).
-**Spicier:** add a teaspoon of caraway-spiced brown mustard mixed with horseradish.
-**Cheese melted under the broiler:** for extra-melty.
+- **Full Reuben Dog:** swap the sauerkraut for chopped pastrami + sauerkraut + Swiss + thousand-island. Same idea, beefier.
+- **With smoked sausage:** swap the hot dog for KC-style smoked sausage (a thicker beef-pork blend).
+- **Spicier:** add a teaspoon of caraway-spiced brown mustard mixed with horseradish.
+- **Cheese melted under the broiler:** for extra-melty.
 
 ## Serving
-At Kauffman Stadium during a Royals game. At a Kansas City BBQ joint as the secondary order alongside burnt ends. At home with fries and beer.
+- At Kauffman Stadium during a Royals game. At a Kansas City BBQ joint as the secondary order alongside burnt ends. At home with fries and beer.
 
 ## Storage
 - Warmed sauerkraut refrigerates 5 days; freezes 2 months.

@@ -78,7 +78,7 @@ Chiffon cake came to Asia via American post-war influence; pandan chiffon is wha
 - **Inverted cooling:** Non-negotiable. A chiffon that cools right-way-up collapses under its own weight.
 
 ## Serving
-Serve in thick wedges at room temperature with a small cup of kopi or tea. A dusting of icing sugar is optional but the cake is meant to stand alone.
+- Serve in thick wedges at room temperature with a small cup of kopi or tea. A dusting of icing sugar is optional but the cake is meant to stand alone.
 
 ## Storage
 - In an airtight tin at room temperature: 3 days.

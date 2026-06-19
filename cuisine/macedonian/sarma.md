@@ -57,13 +57,13 @@ Sarma is a Balkan-wide tradition, but the Macedonian version distinguishes itsel
 - **Weight on top:** keeps the rolls submerged.
 
 ## Variations
-**With sauerkraut between layers:** the German-Hungarian crossover.
-**Vegetarian sarma:** rice + mushroom + walnut filling.
-**With dill:** add fresh dill to the filling.
-**Mini sarma:** smaller rolls for canapés.
+- **With sauerkraut between layers:** the German-Hungarian crossover.
+- **Vegetarian sarma:** rice + mushroom + walnut filling.
+- **With dill:** add fresh dill to the filling.
+- **Mini sarma:** smaller rolls for canapés.
 
 ## Serving
-At Macedonian Christmas (Bozhik) · at a family birthday · at a Macedonian wedding · at home as a winter Sunday lunch.
+- At Macedonian Christmas (Bozhik) · at a family birthday · at a Macedonian wedding · at home as a winter Sunday lunch.
 
 ## Storage
 Refrigerates 4 days; flavour improves overnight. Freezes 3 months.

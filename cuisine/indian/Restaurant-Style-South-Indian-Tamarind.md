@@ -90,9 +90,9 @@ South Indian cooking leans heavily on the sour register; tamarind, kokum, curd a
 ---
 
 ## Serving
-Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md). A piece of dosa or appam works particularly well if you have one to hand. Skip the heavy raita; a wedge of lime and a few extra fresh coriander leaves are all the dish needs alongside.
+- Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md). A piece of dosa or appam works particularly well if you have one to hand. Skip the heavy raita; a wedge of lime and a few extra fresh coriander leaves are all the dish needs alongside.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The tamarind mellows overnight and the coconut milk thickens; both are improvements. Reheat in a pan with a splash of water rather than the microwave to keep the coconut milk smooth.

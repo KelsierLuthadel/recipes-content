@@ -56,7 +56,7 @@ Rum punch is the universal Caribbean cocktail; each island has its variant of th
 - **Fresh nutmeg grating:** The signature finish. Pre-ground nutmeg doesn't compare.
 
 ## Serving
-Serve cold in tall glasses, with a lime slice and an orange wedge floating on top. Best in the late afternoon as the sun sets.
+- Serve cold in tall glasses, with a lime slice and an orange wedge floating on top. Best in the late afternoon as the sun sets.
 
 ## Storage
 - The pre-mixed punch (without the ice and nutmeg) refrigerates 3 days. Stir well before serving; add ice and nutmeg fresh to each glass.

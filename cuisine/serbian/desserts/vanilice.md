@@ -73,7 +73,7 @@ Vanilice (little vanillas) are the Serbian Christmas cookie. Every household has
 - **Cocoa version.** Add 2 tablespoons of cocoa to the flour for a chocolate variant; sandwich with raspberry jam.
 
 ## Serving
-On a plate piled in a small pyramid · with Turkish coffee · alongside slatko at the welcome tray · packed in tins as Christmas gifts · with a glass of cold mineral water
+- On a plate piled in a small pyramid · with Turkish coffee · alongside slatko at the welcome tray · packed in tins as Christmas gifts · with a glass of cold mineral water
 
 ## Storage
 - Keep in an airtight tin at room temperature 3 weeks; they get better through week one

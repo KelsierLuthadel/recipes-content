@@ -104,12 +104,12 @@ Sachertorte is Vienna's most famous cake and the dessert that defined the city's
 - **Make it the day before:** the cake genuinely improves overnight as the apricot layer migrates into the sponge and the flavours marry. Day 2 is when Sachertorte is at its best.
 
 ## Variations
-**Demel's version:** uses a single layer (no horizontal split or filling between layers), with apricot jam coating only the outside before the glaze. The 1960s court case let Sacher claim "Original Sachertorte" with the inner jam layer; Demel can only call theirs "Eduard-Sacher-Torte".
-**With ground almonds:** swap 30 g of the flour for ground almonds for a slightly tenderer crumb; non-traditional but works.
-**Mini Sachertortes:** bake the batter in small individual tins or muffin moulds (15 minutes baking), split and fill each, glaze individually. Restaurant presentation.
+- **Demel's version:** uses a single layer (no horizontal split or filling between layers), with apricot jam coating only the outside before the glaze. The 1960s court case let Sacher claim "Original Sachertorte" with the inner jam layer; Demel can only call theirs "Eduard-Sacher-Torte".
+- **With ground almonds:** swap 30 g of the flour for ground almonds for a slightly tenderer crumb; non-traditional but works.
+- **Mini Sachertortes:** bake the batter in small individual tins or muffin moulds (15 minutes baking), split and fill each, glaze individually. Restaurant presentation.
 
 ## Serving
-At room temperature, sliced thick, with a generous spoonful of unsweetened whipped cream on the side. Drink: strong coffee (a Wiener Melange or an espresso), or a small glass of Sherry or Sweet Wine.
+- At room temperature, sliced thick, with a generous spoonful of unsweetened whipped cream on the side. Drink: strong coffee (a Wiener Melange or an espresso), or a small glass of Sherry or Sweet Wine.
 
 ## Storage
 - Keeps 5-7 days in a tin at room temperature (don't refrigerate; the glaze loses its shine and the sponge dries out faster in the cold).

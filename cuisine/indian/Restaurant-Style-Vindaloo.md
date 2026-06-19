@@ -88,9 +88,9 @@ A two-chilli build is what gives this dish its colour. Kashmiri chilli powder ca
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan or chapati to mop the sauce. A cooling raita and plenty of cold lager help if you've leaned into the chilli.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan or chapati to mop the sauce. A cooling raita and plenty of cold lager help if you've leaned into the chilli.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The vinegar mellows overnight and the flavours round out; many cooks rate day-two vindaloo above day-one. Reheat in a pan with a splash of water rather than the microwave to avoid splitting the oil.

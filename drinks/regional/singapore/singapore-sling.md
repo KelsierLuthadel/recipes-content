@@ -45,7 +45,7 @@ The Singapore Sling was invented at the Long Bar in Raffles Hotel around 1915 by
 - **Real grenadine:** Most "grenadine" in supermarkets is artificially-coloured corn syrup. Look for a real pomegranate-juice grenadine, or make one yourself by reducing pomegranate juice with sugar.
 
 ## Serving
-Serve very cold in a tall glass at the start of an evening. The classic Raffles serving spans a long sip - the ice melts gradually, mellowing the drink as you go. Tiger beer or wine alongside is a Singapore pairing.
+- Serve very cold in a tall glass at the start of an evening. The classic Raffles serving spans a long sip - the ice melts gradually, mellowing the drink as you go. Tiger beer or wine alongside is a Singapore pairing.
 
 ## Storage
 - Make per serving. The Sling doesn't pre-mix well - the foam dissipates and the colours separate.

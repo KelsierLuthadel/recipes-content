@@ -59,7 +59,7 @@ Sauce bigarade is the building block of duck à l'Orange, the deep glossy mahoga
 - **Zest timing:** Add zests just before serving to maintain vibrant colour and prevent them from darkening.
 
 ## Serving
-Serve immediately with roasted duck, duck confit, or other duck preparations. The bright citrus complements rich duck beautifully.
+- Serve immediately with roasted duck, duck confit, or other duck preparations. The bright citrus complements rich duck beautifully.
 
 ## Storage
 - Keep refrigerated for 2-3 days in an airtight container (store zests separately).

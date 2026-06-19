@@ -50,7 +50,7 @@ Warm chocolate fondant is the French restaurant trick where small individual cho
 - The mixture can be prepared several hours ahead and the fondant molds left in the refrigerator until ready to bake; bake directly from cold for precisely controlled doneness
 
 ## Serving
-Remove from the oven and rest for 30 seconds, then lift the ring immediately (the residual heat helps release) and remove the paper collar. Serve on a warm plate surrounded by warm crème anglaise. The warm fondant and cold ice cream or crème anglaise create the perfect temperature contrast.
+- Remove from the oven and rest for 30 seconds, then lift the ring immediately (the residual heat helps release) and remove the paper collar. Serve on a warm plate surrounded by warm crème anglaise. The warm fondant and cold ice cream or crème anglaise create the perfect temperature contrast.
 
 ## Storage
 Fondant batter can be prepared and piped into rings several hours ahead, then refrigerated covered until baking. Bake only when ready to serve, as the warmth and liquid center are essential to the dish. The baked fondants do not keep; they must be served immediately while still warm and the chocolate center is liquid.

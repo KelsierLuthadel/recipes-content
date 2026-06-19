@@ -92,15 +92,15 @@ Carbonnade flamande is the traditional Flemish beef stew, and arguably Belgium's
 - **Pain d'épices variant:** in Flanders, some cooks use a slice of gingerbread (pain d'épices) instead of mustard bread, sweeter, more aromatic. Try both.
 
 ## Variations
-**Carbonnade aux pruneaux:** add 100 g pitted prunes in stage 3, the Flemish sweet-savoury variant.
-**Stoofvlees:** the Dutch / Flemish "stew meat" name; identical recipe, often slightly less sweet.
-**Carbonnade with Trappist Westmalle Tripel:** uses a tripel instead of dubbel, lighter, more spicy.
-**Vegetarian "carbonnade" with king oyster mushrooms:** a modern Brussels variant, king oyster mushrooms instead of beef, the same beer-and-onion treatment.
-**Carbonnade flamande au speculoos:** the bread is replaced with two speculoos biscuits, sweeter, more aromatic.
-**Quick carbonnade in the pressure cooker:** 45 minutes high pressure instead of 3 hours; flavour is good but not as deep.
+- **Carbonnade aux pruneaux:** add 100 g pitted prunes in stage 3, the Flemish sweet-savoury variant.
+- **Stoofvlees:** the Dutch / Flemish "stew meat" name; identical recipe, often slightly less sweet.
+- **Carbonnade with Trappist Westmalle Tripel:** uses a tripel instead of dubbel, lighter, more spicy.
+- **Vegetarian "carbonnade" with king oyster mushrooms:** a modern Brussels variant, king oyster mushrooms instead of beef, the same beer-and-onion treatment.
+- **Carbonnade flamande au speculoos:** the bread is replaced with two speculoos biscuits, sweeter, more aromatic.
+- **Quick carbonnade in the pressure cooker:** 45 minutes high pressure instead of 3 hours; flavour is good but not as deep.
 
 ## Serving
-At a Brussels brasserie alongside frites and a Trappist beer (the traditional setting) · at a Flemish family Sunday lunch · at a winter Belgian café in Bruges or Ghent · at a Belgian harvest dinner · at a Belgian-themed gastropub abroad · at home as the cold-weather Sunday braise.
+- At a Brussels brasserie alongside frites and a Trappist beer (the traditional setting) · at a Flemish family Sunday lunch · at a winter Belgian café in Bruges or Ghent · at a Belgian harvest dinner · at a Belgian-themed gastropub abroad · at home as the cold-weather Sunday braise.
 
 ## Storage
 - Refrigerates 4 days; reheats better than it cooks first time round.

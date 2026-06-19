@@ -58,7 +58,7 @@ Orange soufflé is the French restaurant dessert that lands at the table in its 
 - Make a light circular cut around the inside rim of each dish with a knife blade before baking to help the soufflé achieve its characteristic mushroom-top shape
 
 ## Serving
-Serve each soufflé directly from its ramekin or dish, placed on a plate lined with a napkin for elegance. For the signature presentation, serve the soufflé scooped into the hollowed orange shell immediately before the table. Dust with icing sugar just before serving.
+- Serve each soufflé directly from its ramekin or dish, placed on a plate lined with a napkin for elegance. For the signature presentation, serve the soufflé scooped into the hollowed orange shell immediately before the table. Dust with icing sugar just before serving.
 
 ## Storage
 Soufflés do not store after baking as they deflate within minutes of removal from the oven. Serve immediately for best appearance and texture. The prepared crème patissière base can be made 2-3 hours ahead and stored covered in the refrigerator, then bring to room temperature before folding in egg whites.

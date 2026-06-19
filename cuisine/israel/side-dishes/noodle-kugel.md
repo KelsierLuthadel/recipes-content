@@ -67,7 +67,7 @@ Noodle kugel is the sweet-savoury Ashkenazi Jewish casserole, wide egg noodles b
 - A traditional Sukkot kugel adds chopped apples or a layer of stewed apple under the noodles. Add 2 small Bramley apples, peeled and diced 5mm, sweated in butter for 5 minutes; spread over the buttered dish before the noodle mix.
 
 ## Serving
-A generous square on a warm plate, with extra sour cream on the side if you like. On the Yom Kippur break-fast table alongside bagels and lox; on the Sukkot table next to brisket. Reheated leftovers eaten standing at the fridge.
+- A generous square on a warm plate, with extra sour cream on the side if you like. On the Yom Kippur break-fast table alongside bagels and lox; on the Sukkot table next to brisket. Reheated leftovers eaten standing at the fridge.
 
 ## Storage
 Covered in the fridge for up to 4 days. Reheats well in a 160°C oven for 20 minutes, covered with foil so the top doesn't burn. Freezes for 2 months wrapped tightly; thaw in the fridge overnight before reheating.

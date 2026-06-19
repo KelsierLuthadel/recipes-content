@@ -56,11 +56,11 @@ A weeknight Jamaican side: shredded green or savoy cabbage with carrot, onion an
 - **Cabbage choice:** Standard hard white or green cabbage holds shape best. Savoy works but softens faster, reduce cooking by 2 minutes.
 
 ## Variations
-**With saltfish flakes:** Add 100 g cooked, flaked saltfish at the end for a fuller plate.
-**Coconut version:** Replace the water with 4 tablespoons coconut milk for a richer, lightly creamy finish.
+- **With saltfish flakes:** Add 100 g cooked, flaked saltfish at the end for a fuller plate.
+- **Coconut version:** Replace the water with 4 tablespoons coconut milk for a richer, lightly creamy finish.
 
 ## Serving
-Serve with: Brown stew chicken, jerk pork, fried fish, oxtail and butter beans, or alongside rice and peas.
+- Serve with: Brown stew chicken, jerk pork, fried fish, oxtail and butter beans, or alongside rice and peas.
 
 ## Storage
 - Keeps 2 days refrigerated.

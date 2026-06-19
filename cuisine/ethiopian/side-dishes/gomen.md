@@ -74,13 +74,13 @@ Gomen is the Ethiopian collard greens side, the vegetable component that always 
 - **Make ahead:** gomen actually improves overnight as the flavours meld. Make a day ahead, refrigerate, and reheat gently for a more developed flavour.
 
 ## Variations
-**Ye'abesha gomen:** the traditional Ethiopian highland variant that includes a piece of smoked or fresh meat (often a knuckle of lamb or a chunk of beef) in the simmer for additional depth. Adds 30 minutes to the cook time.
-**Gomen with cottage cheese:** stir 100 g of crumbled ayib (Ethiopian cottage cheese) or fresh ricotta into the gomen in the last 5 minutes; turns the dish into a richer side that approaches a main course.
-**Quick gomen (sautéed):** for a brighter snappier version, cook the gomen sukuma-wiki-style: hot oil, all the greens in at once, 5-6 minutes uncovered, finish with lemon. Less traditional but works for a quick meal.
-**Alicha gomen:** omit any berbere or chilli that some recipes call for; this gives you the mild yellow turmeric-flavoured version that pairs with mild alicha stews.
+- **Ye'abesha gomen:** the traditional Ethiopian highland variant that includes a piece of smoked or fresh meat (often a knuckle of lamb or a chunk of beef) in the simmer for additional depth. Adds 30 minutes to the cook time.
+- **Gomen with cottage cheese:** stir 100 g of crumbled ayib (Ethiopian cottage cheese) or fresh ricotta into the gomen in the last 5 minutes; turns the dish into a richer side that approaches a main course.
+- **Quick gomen (sautéed):** for a brighter snappier version, cook the gomen sukuma-wiki-style: hot oil, all the greens in at once, 5-6 minutes uncovered, finish with lemon. Less traditional but works for a quick meal.
+- **Alicha gomen:** omit any berbere or chilli that some recipes call for; this gives you the mild yellow turmeric-flavoured version that pairs with mild alicha stews.
 
 ## Serving
-As one of the small mounds around the meat wat on the shared injera platter, the vegetable counter to the meat heat. Eat with the right hand, scooping with torn injera. Drink: tej, tella, or buna.
+- As one of the small mounds around the meat wat on the shared injera platter, the vegetable counter to the meat heat. Eat with the right hand, scooping with torn injera. Drink: tej, tella, or buna.
 
 ## Storage
 - Keeps refrigerated 3 days; the flavour deepens overnight. Reheat in a covered pan with a splash of water.

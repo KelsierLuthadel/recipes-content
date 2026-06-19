@@ -61,13 +61,13 @@ The traditional Southwest-Tex-Mex bean side and one of the foundational dishes o
 - **Fry properly:** the caramelisation is the point.
 
 ## Variations
-**Black beans (frijoles negros refritos):** swap pinto for black beans.
-**With chorizo:** add 100 g crumbled cooked chorizo to the onion.
-**Spicier:** add chopped jalapeño.
-**With cream:** add 50 ml double cream at the end for creamier texture.
+- **Black beans (frijoles negros refritos):** swap pinto for black beans.
+- **With chorizo:** add 100 g crumbled cooked chorizo to the onion.
+- **Spicier:** add chopped jalapeño.
+- **With cream:** add 50 ml double cream at the end for creamier texture.
 
 ## Serving
-Alongside burritos, tacos, enchiladas, eggs. Top with cheese.
+- Alongside burritos, tacos, enchiladas, eggs. Top with cheese.
 
 ## Storage
 - Keeps refrigerated 5 days.

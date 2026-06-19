@@ -95,9 +95,9 @@ The dish is unusual within the BIR canon in two ways. First, the seed temper is 
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to lift the rich sauce. A small bowl of raita on the side is a sensible companion.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to lift the rich sauce. A small bowl of raita on the side is a sensible companion.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The colour stays vivid; the flavours round out overnight as the paprika integrates. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth.

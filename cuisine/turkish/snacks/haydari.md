@@ -84,13 +84,13 @@ Haydari (pronounced hay-da-ree) is Turkey's other great yogurt-based meze and th
 - **The walnut crunch:** finely chopped toasted walnuts give the traditional texture. Skip for a smoother version, but include for the classic meyhane experience.
 
 ## Variations
-**Smoked-eggplant haydari (közlemeli haydari):** add 1 small charred eggplant (peeled and chopped) to the dip; gives a smoky depth common in Aegean kitchens.
-**Roasted red pepper haydari:** add 1 chopped roasted red pepper to the dip; gives a slightly sweet pink-tinged variation.
-**Vegan haydari:** swap the yogurt for thick cashew cream and the feta for crumbled tofu marinated in lemon juice and salt; less traditional but increasingly common.
-**Spicy haydari:** add 1-2 tablespoons of harissa or doubled Aleppo pepper; gives a fierce version.
+- **Smoked-eggplant haydari (közlemeli haydari):** add 1 small charred eggplant (peeled and chopped) to the dip; gives a smoky depth common in Aegean kitchens.
+- **Roasted red pepper haydari:** add 1 chopped roasted red pepper to the dip; gives a slightly sweet pink-tinged variation.
+- **Vegan haydari:** swap the yogurt for thick cashew cream and the feta for crumbled tofu marinated in lemon juice and salt; less traditional but increasingly common.
+- **Spicy haydari:** add 1-2 tablespoons of harissa or doubled Aleppo pepper; gives a fierce version.
 
 ## Serving
-On a meyhane meze plate alongside ezme (the tomato-pepper relish), hummus, mücver (zucchini fritters), dolma (stuffed grape leaves), olives, and warm pide bread. As a dip with raw vegetables. As a sauce alongside grilled meats. Drink: rakı (the traditional meze pairing), Türk kahvesi after, or cold beer.
+- On a meyhane meze plate alongside ezme (the tomato-pepper relish), hummus, mücver (zucchini fritters), dolma (stuffed grape leaves), olives, and warm pide bread. As a dip with raw vegetables. As a sauce alongside grilled meats. Drink: rakı (the traditional meze pairing), Türk kahvesi after, or cold beer.
 
 ## Storage
 - Keeps refrigerated 4 days in a sealed container; the flavour deepens noticeably overnight.

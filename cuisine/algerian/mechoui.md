@@ -66,7 +66,7 @@ Méchoui (from the Arabic shawa, "to grill") is the great feast lamb of Algeria,
 - **Cumin salt is the only sauce.** No gravy, no jus, no mint sauce. The pure flavour of slowly roasted lamb is the point; the cumin salt punctuates each bite.
 
 ## Serving
-Serve carved or pulled, on a wide platter, with a small dish of cumin salt for dipping and warm Algerian khobz bread for tearing. A salade algéroise (cucumber, tomato, olives) and a bowl of harissa-loosened pan juices alongside. Mint tea afterwards.
+- Serve carved or pulled, on a wide platter, with a small dish of cumin salt for dipping and warm Algerian khobz bread for tearing. A salade algéroise (cucumber, tomato, olives) and a bowl of harissa-loosened pan juices alongside. Mint tea afterwards.
 
 ## Storage
 - Keeps 3 days refrigerated; the meat pulls easily for next-day sandwiches with cumin salt and harissa

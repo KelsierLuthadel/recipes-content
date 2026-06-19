@@ -63,7 +63,7 @@ Chimichurri is the green oily-vinegar herb sauce that sits on every Uruguayan as
 - **Spicy.** Double the red pepper flakes and add 1 finely chopped fresh chilli; for grilled morcilla.
 
 ## Serving
-A small bowl on the asado table with a spoon · drizzle over a grilled steak or chorizo · stir into a choripán roll · use as a dip for grilled bread · brush onto provoleta straight off the parrilla.
+- A small bowl on the asado table with a spoon · drizzle over a grilled steak or chorizo · stir into a choripán roll · use as a dip for grilled bread · brush onto provoleta straight off the parrilla.
 
 ## Storage
 - Keeps 2 weeks refrigerated in a sealed jar with the olive oil covering the herbs.

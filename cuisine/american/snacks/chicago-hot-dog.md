@@ -69,13 +69,13 @@ The Chicago hot dog is the most assertively regional hot dog in America, with a 
 - **NO KETCHUP:** treated with religious seriousness in Chicago. Don't argue.
 
 ## Variations
-**Chicago char dog:** dog grilled directly over flame instead of steamed (Gene & Jude's style).
-**Combo:** add a beef tamale on top of the dog in the bun (the Maxwell Street Polish-Mexican mash-up).
-**Polish-Chicago:** swap the Vienna beef dog for a Maxwell Street-style Polish sausage (smoked, garlicky).
-**Mini Chicago dogs for parties:** small frankfurters, slider buns; all the same toppings scaled down.
+- **Chicago char dog:** dog grilled directly over flame instead of steamed (Gene & Jude's style).
+- **Combo:** add a beef tamale on top of the dog in the bun (the Maxwell Street Polish-Mexican mash-up).
+- **Polish-Chicago:** swap the Vienna beef dog for a Maxwell Street-style Polish sausage (smoked, garlicky).
+- **Mini Chicago dogs for parties:** small frankfurters, slider buns; all the same toppings scaled down.
 
 ## Serving
-At a Chicago hot dog stand. At home with crinkle fries and a can of pop. As a backyard barbecue showstopper that polarises the ketchup-fans.
+- At a Chicago hot dog stand. At home with crinkle fries and a can of pop. As a backyard barbecue showstopper that polarises the ketchup-fans.
 
 ## Storage
 - Best eaten immediately.

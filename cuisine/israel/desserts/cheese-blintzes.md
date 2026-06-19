@@ -75,7 +75,7 @@ Cheese blintzes are the Eastern European Jewish answer to the crepe-with-filling
 - Blintzes can be assembled hours ahead and chilled, then fried just before serving. They also freeze well once assembled (before the fry stage): fry from frozen with the heat dropped slightly, adding 2 minutes per side.
 
 ## Serving
-Two or three to a plate, warm, with cold sour cream and berry compote. The temperature contrast is the point: hot crepe, warm cheese, cold cream, cold-tart berries. On the Shavuot table, often the centrepiece of an entirely dairy meal.
+- Two or three to a plate, warm, with cold sour cream and berry compote. The temperature contrast is the point: hot crepe, warm cheese, cold cream, cold-tart berries. On the Shavuot table, often the centrepiece of an entirely dairy meal.
 
 ## Storage
 Best fresh. Fried blintzes keep in the fridge for 2 days; reheat in a buttered pan over a low heat for 2 minutes per side. Unfried, assembled blintzes keep in the fridge for 24 hours or freezer for 2 months.

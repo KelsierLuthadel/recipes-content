@@ -84,7 +84,7 @@ Afelia is the Cypriot pork stew that runs on two ingredients more than any other
 - **With dried mountain herbs.** A sprig of fresh oregano or thyme tied with string and lifted out at the end; a village-house touch.
 
 ## Serving
-Serve with pourgouri · plain rice · talattouri · a sharp salad with red onion · a glass of the same red wine used in the marinade.
+- Serve with pourgouri · plain rice · talattouri · a sharp salad with red onion · a glass of the same red wine used in the marinade.
 
 ## Storage
 - Keeps 4 days refrigerated; the flavour deepens on day two.

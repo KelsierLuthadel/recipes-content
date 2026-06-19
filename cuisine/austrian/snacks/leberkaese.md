@@ -90,13 +90,13 @@ Leberkäse is Austria's beloved lunch-counter staple: a flat baked meat loaf mad
 - **Sharp knife for scoring:** the diamond pattern on top is decorative and also helps the surface crisp evenly. Wet the knife between cuts so it slides through without dragging.
 
 ## Variations
-**Käseleberkäse:** stir 200 g of small cubes of Emmentaler or mountain cheese into the mixture before pressing into the tin; melts into pockets as the loaf cooks.
-**Pferdeleberkäse:** the Bavarian horse-meat version, darker and more strongly flavoured; rare in modern Austria but historically common.
-**Pizza Leberkäse:** the Vienna street-food extravagance: slices topped with tomato sauce and mozzarella, grilled till bubbling; you'll find it at every late-night Würstelstand.
-**Vegetarian (substitute):** there's no real vegetarian leberkäse; the emulsion technique relies on animal protein. If you need a vegetarian version, point people toward a properly made carrot-and-nut Bavarian pâté instead.
+- **Käseleberkäse:** stir 200 g of small cubes of Emmentaler or mountain cheese into the mixture before pressing into the tin; melts into pockets as the loaf cooks.
+- **Pferdeleberkäse:** the Bavarian horse-meat version, darker and more strongly flavoured; rare in modern Austria but historically common.
+- **Pizza Leberkäse:** the Vienna street-food extravagance: slices topped with tomato sauce and mozzarella, grilled till bubbling; you'll find it at every late-night Würstelstand.
+- **Vegetarian (substitute):** there's no real vegetarian leberkäse; the emulsion technique relies on animal protein. If you need a vegetarian version, point people toward a properly made carrot-and-nut Bavarian pâté instead.
 
 ## Serving
-Hot from the tin, sliced thick into a buttered kaiser roll (Leberkässemmel) with sweet Austrian mustard, sliced pickled gherkins and raw onion rings. Eat standing at a Würstelstand, train station kiosk, or footpath imbiss. Wash down with a cold weissbier or an Almdudler.
+- Hot from the tin, sliced thick into a buttered kaiser roll (Leberkässemmel) with sweet Austrian mustard, sliced pickled gherkins and raw onion rings. Eat standing at a Würstelstand, train station kiosk, or footpath imbiss. Wash down with a cold weissbier or an Almdudler.
 
 ## Storage
 - Keeps refrigerated 4 days; reheat slices in a non-stick pan with no oil till the edges crisp.

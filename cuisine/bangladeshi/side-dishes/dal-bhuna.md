@@ -75,7 +75,7 @@ Dal in Bangladesh exists in two main styles: the thin pourable everyday dal that
 - **Spicier:** double the dried chillies and add 1 finely chopped green chilli at the end.
 
 ## Serving
-Porota, plain rice or bhuna khichuri · slit raw onion with lime · slit green chillies · a wedge of lime
+- Porota, plain rice or bhuna khichuri · slit raw onion with lime · slit green chillies · a wedge of lime
 
 ## Storage
 - Refrigerate up to 4 days; flavour deepens significantly overnight

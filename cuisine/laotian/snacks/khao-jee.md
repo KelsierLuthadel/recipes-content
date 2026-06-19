@@ -97,14 +97,14 @@ Khao jee is Laos's French-colonial sandwich tradition, descended from the same 1
 - **Eat fresh:** the sandwich loses character after 15 minutes, the vegetables release water, the bread softens.
 
 ## Variations
-**Khao jee with laap:** spoon a few generous tablespoons of laap into the bread instead of cold meat, the traditional alternative.
-**Vegetarian khao jee:** swap meat for grilled tofu or marinated mushrooms; same herbs and dressing.
-**Khao jee with sai oua and pâté:** the traditional Luang Prabang street-cart version, both fillings.
-**Spicier khao jee:** double the chillies and add a splash of Lao chilli sauce.
-**Modern fusion khao jee:** add an egg fried sunny-side-up over the filling, the modern Vientiane café variant.
+- **Khao jee with laap:** spoon a few generous tablespoons of laap into the bread instead of cold meat, the traditional alternative.
+- **Vegetarian khao jee:** swap meat for grilled tofu or marinated mushrooms; same herbs and dressing.
+- **Khao jee with sai oua and pâté:** the traditional Luang Prabang street-cart version, both fillings.
+- **Spicier khao jee:** double the chillies and add a splash of Lao chilli sauce.
+- **Modern fusion khao jee:** add an egg fried sunny-side-up over the filling, the modern Vientiane café variant.
 
 ## Serving
-At a Lao morning market stall (the traditional setting; sold from carts and small bakeries) · at a Lao breakfast counter · at a Lao bakery · at a Lao roadside stop · at home as a quick lunch · paired with a Lao iced coffee or a glass of iced lime juice.
+- At a Lao morning market stall (the traditional setting; sold from carts and small bakeries) · at a Lao breakfast counter · at a Lao bakery · at a Lao roadside stop · at home as a quick lunch · paired with a Lao iced coffee or a glass of iced lime juice.
 
 ## Storage
 - Best eaten within 15 minutes of assembly.

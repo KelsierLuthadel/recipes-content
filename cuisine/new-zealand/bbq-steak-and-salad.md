@@ -84,7 +84,7 @@ New Zealand farming produces some of the world's best grass-fed beef, and the Ki
 - **Don't poke the steak:** Use a timer. The "press with your finger" test is unreliable; the only honest way is time + thickness or a meat thermometer (55°C medium-rare, 60°C medium).
 
 ## Serving
-The Kiwi summer evening: steak, salad, a bowl of new potatoes or sourdough, a glass of Hawke's Bay Syrah or a cold Pilsener. Eat outside if the weather allows.
+- The Kiwi summer evening: steak, salad, a bowl of new potatoes or sourdough, a glass of Hawke's Bay Syrah or a cold Pilsener. Eat outside if the weather allows.
 
 ## Storage
 - Leftover steak refrigerates 3 days; slice and eat cold in a sandwich.

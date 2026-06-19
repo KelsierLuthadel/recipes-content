@@ -65,7 +65,7 @@ A fiery Cajun-spiced potato salad, the kind of side dish that lifts a barbecue p
 - **Warm salad:** Some prefer serving warm rather than chilled; both work well.
 
 ## Serving
-Serve on a bed of fresh salad leaves. Great as a side dish for grilled meats or as part of a buffet spread.
+- Serve on a bed of fresh salad leaves. Great as a side dish for grilled meats or as part of a buffet spread.
 
 ## Storage
 - Refrigerate up to 2 days in an airtight container.

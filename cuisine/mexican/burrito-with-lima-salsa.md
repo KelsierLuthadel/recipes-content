@@ -93,13 +93,13 @@ A burrito built around the contrast between three distinct textures: spice-rubbe
 - **Dry-frying the wrap:** The high-heat seal in the final step both melts the cheese inside and stops the burrito unrolling on the plate. Don't oil the pan: dry contact is what gives the toasted spots.
 
 ## Variations
-**Vegetarian:** Replace chicken with 400 g black beans crisped in the spice mix, plus 200 g chestnut mushrooms cooked down with chipotle paste.
-**Spicier:** Dice a fresh jalapeño into the salsa and double the chilli flakes in the spice mix.
-**Steak version:** Swap the chicken for 800 g flank or skirt steak, spice-rubbed and seared rare; rest 5 minutes then slice thin across the grain.
+- **Vegetarian:** Replace chicken with 400 g black beans crisped in the spice mix, plus 200 g chestnut mushrooms cooked down with chipotle paste.
+- **Spicier:** Dice a fresh jalapeño into the salsa and double the chilli flakes in the spice mix.
+- **Steak version:** Swap the chicken for 800 g flank or skirt steak, spice-rubbed and seared rare; rest 5 minutes then slice thin across the grain.
 
 ## Serving
-Serve with: Hot sauce, sour cream, lime wedges, and any leftover salsa on the side.
-Optional sides: Refried beans, charred corn, a simple green salad.
+- Serve with: Hot sauce, sour cream, lime wedges, and any leftover salsa on the side.
+- Optional sides: Refried beans, charred corn, a simple green salad.
 
 ## Storage
 - Chicken in glaze keeps 3 days refrigerated; reheat gently with a splash of stock

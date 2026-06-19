@@ -69,12 +69,12 @@ Bone-in chicken pieces are marinated with a freshly pounded spice paste of shall
 - **Marinate overnight:** Time in the fridge lets the salt and aromatics penetrate deep into the meat. Even 30 minutes is better than nothing.
 
 ## Variations
-**Boneless:** Use boneless thigh fillets and reduce the frying time to about 6 to 8 minutes.
-**Sambal-glazed:** Toss the hot fried chicken in a few spoonfuls of [sambal oelek](../../base-ingredients/sambal/sambal-oelek.md) loosened with a little kecap manis for a sticky, fiery finish.
+- **Boneless:** Use boneless thigh fillets and reduce the frying time to about 6 to 8 minutes.
+- **Sambal-glazed:** Toss the hot fried chicken in a few spoonfuls of [sambal oelek](../../base-ingredients/sambal/sambal-oelek.md) loosened with a little kecap manis for a sticky, fiery finish.
 
 ## Serving
-Serve with: Steamed coconut rice or [nasi lemak](nasi-lemak.md) and a wedge of cucumber
-Garnish with: Crispy fried shallots and lime wedges
+- Serve with: Steamed coconut rice or [nasi lemak](nasi-lemak.md) and a wedge of cucumber
+- Garnish with: Crispy fried shallots and lime wedges
 
 ## Storage
 - Keeps 2 days refrigerated; the crust softens but the flavour deepens

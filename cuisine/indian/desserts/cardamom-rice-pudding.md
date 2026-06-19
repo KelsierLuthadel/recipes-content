@@ -52,7 +52,7 @@ The Indian kheer pulled toward the French patisserie tradition: short-grain rice
 - The caramel must be applied carefully, coating two-thirds up the sides at correct temperature for the proper brittle texture
 
 ## Serving
-Turn out the set pudding from its mold onto a serving plate, allowing the clinging caramel to pool around the base. Serve cold for best flavor and texture contrast. The custard-like center with the crisp caramel exterior creates a sophisticated presentation.
+- Turn out the set pudding from its mold onto a serving plate, allowing the clinging caramel to pool around the base. Serve cold for best flavor and texture contrast. The custard-like center with the crisp caramel exterior creates a sophisticated presentation.
 
 ## Storage
 The assembled moulds keep refrigerated for up to 3 days; turn out only just before serving to maintain the caramel coating's integrity. The unmolded pudding softens gradually as the caramel absorbs moisture from air and custard, so serve within one hour of unmolding for the best experience. Do not refrigerate after unmolding; serve at the temperature at which removed from cold storage.

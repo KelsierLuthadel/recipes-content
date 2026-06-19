@@ -89,9 +89,9 @@ The base build is standard restaurant practice: cumin in hot oil, ginger-garlic 
 ---
 
 ## Serving
-Pile onto [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati, with a cooling raita and plenty of cucumber to hand. Naan helps mop the sauce and gives the palate something to fall back on between forkfuls.
+- Pile onto [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati, with a cooling raita and plenty of cucumber to hand. Naan helps mop the sauce and gives the palate something to fall back on between forkfuls.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The heat mellows slightly overnight and the flavours round out, many BIR cooks consider day-two naga the better version. Reheat gently with a splash of water to loosen.

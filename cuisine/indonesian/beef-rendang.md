@@ -61,7 +61,7 @@ Rendang is the slow-braised beef-and-coconut curry from the Minangkabau people o
 - **Make-ahead:** Rendang tastes better the next day as flavours develop and deepen.
 
 ## Serving
-Serve with: Jasmine rice and a fresh cucumber salad to balance the richness
+- Serve with: Jasmine rice and a fresh cucumber salad to balance the richness
 
 ## Storage
 - Keeps 4 days refrigerated

@@ -76,7 +76,7 @@ BIR chicken dopiaza is the curry built on two distinct onion textures (the name 
 - **Consistency:** classic do-piaza is moderately thick; add stock/sauce to loosen as needed.
 
 ## Serving
-Serve with steamed basmati rice, parathas, or naan. Garnish with extra coriander and lime wedges if desired.
+- Serve with steamed basmati rice, parathas, or naan. Garnish with extra coriander and lime wedges if desired.
 
 ## Storage
 - Refrigerate 2-3 days in an airtight container

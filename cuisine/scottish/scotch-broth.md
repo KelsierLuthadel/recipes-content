@@ -89,15 +89,15 @@ Scotch broth is Scotland's everyday home soup and the dish that defines weekday 
 - **The broth thickens overnight:** if you make it ahead, it'll be thick and stew-like the next day. Loosen with hot water on reheating.
 
 ## Variations
-**Mutton broth:** use mutton (older sheep) instead of lamb, deeper, more old-fashioned flavour.
-**With a hambone:** add a smoked hambone alongside the lamb for the first hour, gives the broth a smoky depth.
-**Vegetarian Scotch broth:** skip the lamb; use a strong vegetable stock + 100 g extra split peas + 30 g dried mushrooms, the surprisingly good vegetarian version.
-**With kale:** stir in a handful of chopped kale in the last 5 minutes, adds colour and a slight bitter freshness.
-**Spicy version:** add a pinch of dried thyme + a teaspoon of mustard powder, modernised.
-**Lentil scotch broth:** add 60 g brown lentils alongside the barley, fuller body.
+- **Mutton broth:** use mutton (older sheep) instead of lamb, deeper, more old-fashioned flavour.
+- **With a hambone:** add a smoked hambone alongside the lamb for the first hour, gives the broth a smoky depth.
+- **Vegetarian Scotch broth:** skip the lamb; use a strong vegetable stock + 100 g extra split peas + 30 g dried mushrooms, the surprisingly good vegetarian version.
+- **With kale:** stir in a handful of chopped kale in the last 5 minutes, adds colour and a slight bitter freshness.
+- **Spicy version:** add a pinch of dried thyme + a teaspoon of mustard powder, modernised.
+- **Lentil scotch broth:** add 60 g brown lentils alongside the barley, fuller body.
 
 ## Serving
-As a Sunday-evening leftover supper after a lamb roast · in a Scottish primary school dining room (the lunchtime traditional) · at a Highland farm-house lunch · in a Glasgow pub as the soup course · at home in winter with a hunk of bread and a slab of butter · at a Burns Night supper as the soup before the haggis.
+- As a Sunday-evening leftover supper after a lamb roast · in a Scottish primary school dining room (the lunchtime traditional) · at a Highland farm-house lunch · in a Glasgow pub as the soup course · at home in winter with a hunk of bread and a slab of butter · at a Burns Night supper as the soup before the haggis.
 
 ## Storage
 - Refrigerates 4 days; thickens significantly overnight and intensifies in flavour.

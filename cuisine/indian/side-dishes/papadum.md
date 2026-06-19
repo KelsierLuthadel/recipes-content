@@ -47,7 +47,7 @@ This recipe covers the standard frying method. A grill or microwave method follo
 - **Plain versus spiced:** the standard discs are plain. Black pepper, cumin or chilli versions exist; these are good with a milder curry that won't fight the spice on the papadum.
 
 ## Serving
-Stack the cooked papadums on a small plate at the centre of the table. Surround with four small ramekins of the trio plus mint raita. Diners break the papadums into shards and scoop. Refill as needed before the starters arrive.
+- Stack the cooked papadums on a small plate at the centre of the table. Surround with four small ramekins of the trio plus mint raita. Diners break the papadums into shards and scoop. Refill as needed before the starters arrive.
 
 ## Storage
 Cooked papadums do not store well. Store uncooked discs in a sealed bag in the cupboard for a year. Once a packet is open, transfer to an airtight tin; if they go floppy, they have absorbed humidity and need a quick low-oven dry-out (100°C for 5 minutes) before cooking.

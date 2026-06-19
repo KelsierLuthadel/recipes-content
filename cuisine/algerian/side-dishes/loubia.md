@@ -93,14 +93,14 @@ Loubia (the Maghrebi word for white beans) is the Algerian country-table side th
 - **Loubia gets better day 2:** the beans absorb the sauce overnight; reheat with a splash of water.
 
 ## Variations
-**Vegetarian loubia:** skip the merguez; add 1 teaspoon smoked paprika to mimic the smokiness; use vegetable bean stock.
-**Loubia with lamb shoulder:** cube 300 g lamb shoulder; brown first; add with the tomato base; extend the simmer to 90 minutes.
-**Spicy loubia:** double the harissa; add 1 sliced fresh red chilli at the start.
-**Loubia bil dersa:** stir 2 tablespoons of dersa (Algerian garlic-coriander-cumin paste) in at the end for the Algiers version.
-**With white beans + chickpeas:** swap half the white beans for soaked chickpeas; gives the dish more texture.
+- **Vegetarian loubia:** skip the merguez; add 1 teaspoon smoked paprika to mimic the smokiness; use vegetable bean stock.
+- **Loubia with lamb shoulder:** cube 300 g lamb shoulder; brown first; add with the tomato base; extend the simmer to 90 minutes.
+- **Spicy loubia:** double the harissa; add 1 sliced fresh red chilli at the start.
+- **Loubia bil dersa:** stir 2 tablespoons of dersa (Algerian garlic-coriander-cumin paste) in at the end for the Algiers version.
+- **With white beans + chickpeas:** swap half the white beans for soaked chickpeas; gives the dish more texture.
 
 ## Serving
-At an Algerian Friday lunch alongside couscous (the traditional setting) · with khobz to dip · at Ramadan iftar after chorba frik · as a standalone main with a green salad · for a winter weeknight supper · at an Algerian-Tunisian shared mezzeh table.
+- At an Algerian Friday lunch alongside couscous (the traditional setting) · with khobz to dip · at Ramadan iftar after chorba frik · as a standalone main with a green salad · for a winter weeknight supper · at an Algerian-Tunisian shared mezzeh table.
 
 ## Storage
 - Refrigerates 4 days in a sealed container; the flavour deepens.

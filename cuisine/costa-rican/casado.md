@@ -73,7 +73,7 @@ Casado means "married", a wry name for the everyday lunch plate that brings rice
 - **Casado completo:** Add a slice of soft white cheese and an over-easy egg on top of the rice for the hungry-worker version.
 
 ## Serving
-Serve warm with all five elements separate on one wide plate · a bottle of Salsa Lizano on the table · a wedge of lime on the rim · iced fresco de cas or fresco de tamarindo
+- Serve warm with all five elements separate on one wide plate · a bottle of Salsa Lizano on the table · a wedge of lime on the rim · iced fresco de cas or fresco de tamarindo
 
 ## Storage
 - Each component stores separately, refrigerated 3 days

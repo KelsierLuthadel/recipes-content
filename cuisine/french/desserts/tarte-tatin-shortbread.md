@@ -59,7 +59,7 @@ This is the shortbread-base variation on tarte Tatin, upside-down caramelised ap
 - Serve the tart soon after turning out so the caramel remains glossy and not too set.
 
 ## Serving
-Serve the tart warm, ideally on the day it is made, with crème fraîche or softly whipped cream. It is excellent with a scoop of vanilla ice cream.
+- Serve the tart warm, ideally on the day it is made, with crème fraîche or softly whipped cream. It is excellent with a scoop of vanilla ice cream.
 
 ## Storage
 If necessary, cover leftovers and store in the refrigerator for up to 1 day. Reheat gently in a low oven, though tarte tatin is best eaten fresh.

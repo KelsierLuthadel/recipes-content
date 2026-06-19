@@ -34,7 +34,7 @@ Pâte moulée is the building block for raised game pies, pork pies, terrines en
 - The dough should be pliable but not warm when rolling; take it from the refrigerator 1 hour before use
 
 ## Serving
-Use pâte moulée to line raised pie molds for traditional British meat pies, terrines, or game-filled presentations. The pastry's density and rich flavor provide an ideal framework for savory fillings. Often baked until golden and served warm with accompaniments like aspic glaze.
+- Use pâte moulée to line raised pie molds for traditional British meat pies, terrines, or game-filled presentations. The pastry's density and rich flavor provide an ideal framework for savory fillings. Often baked until golden and served warm with accompaniments like aspic glaze.
 
 ## Storage
 The dough can be refrigerated for 2-3 days wrapped in cling film. Freeze for up to 1 month; thaw in the refrigerator before rolling. Once lining a mold, refrigerate for up to 4 hours before baking. Baked pies can be stored in the refrigerator for 3-4 days.

@@ -59,7 +59,7 @@ Babakau is the Fijian everyday sweet, sold from market stalls and tea shops acro
 - **Eat warm:** Babakau is at its best within an hour of frying. Cold babakau is still good but loses the contrast of crisp outside and soft inside.
 
 ## Serving
-Serve warm with strong sweet milky tea (chai-style or Fijian colonial-tea-style) as an afternoon snack. Butter and jam alongside if eating for breakfast.
+- Serve warm with strong sweet milky tea (chai-style or Fijian colonial-tea-style) as an afternoon snack. Butter and jam alongside if eating for breakfast.
 
 ## Storage
 - Best the same day.

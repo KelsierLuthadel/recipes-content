@@ -65,7 +65,7 @@ Without a tandoor, a heavy cast-iron pan heated to maximum can fake the wall-of-
 - **Garlic tandoori roti:** brush the cooked roti with garlic butter (melted ghee plus a crushed clove) before serving.
 
 ## Serving
-Tear pieces by hand and eat with rich, heavily-spiced curries. Tandoori roti is the right bread for a vindaloo, a madras, a rogan josh; it stands up to assertive flavour where naan would feel out of place. Serve hot off the grill.
+- Tear pieces by hand and eat with rich, heavily-spiced curries. Tandoori roti is the right bread for a vindaloo, a madras, a rogan josh; it stands up to assertive flavour where naan would feel out of place. Serve hot off the grill.
 
 ## Storage
 - Best fresh. Cooled tandoori roti softens within an hour and can be revived under a hot grill for 30 seconds a side.

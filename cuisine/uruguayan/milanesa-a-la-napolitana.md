@@ -87,7 +87,7 @@ Milanesa a la napolitana is the Italo-Uruguayan dish that travelled with immigra
 - **Milanesa al pan.** Stuff a cooked milanesa napolitana into a soft roll with mayonnaise and lettuce. The sandwich-shop classic.
 
 ## Serving
-Hot chips piled alongside · a wedge of lemon to squeeze · a simple mixed-leaf salad · ice-cold Pilsen lager.
+- Hot chips piled alongside · a wedge of lemon to squeeze · a simple mixed-leaf salad · ice-cold Pilsen lager.
 
 ## Storage
 - Eat the assembled milanesa fresh; the breading goes soft once cheese sits on it.

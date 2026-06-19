@@ -91,17 +91,17 @@ Emoliente is one of Peru's most distinctive street drinks: and one of the world'
 - **Drink hot:** emoliente is a hot drink. Cold emoliente loses its character.
 
 ## Variations
-**Emoliente sin aloe:** for the aloe-averse, skip the aloe; double the flax for body.
-**Emoliente con maca:** add 1 tablespoon of maca powder to the brew, the modern Peruvian energy variant.
-**Emoliente con quinoa:** add 30 g cooked quinoa to the strained brew, the modern healthy variant.
-**Emoliente with ginger:** double the ginger, the cold-and-flu variant.
-**Emoliente con limonada:** mix half emoliente, half cold lemonade, the modern Lima cafe variant.
-**Iced emoliente (summer):** chill the strained brew; serve over ice with lime and honey, the modern summer variant.
-**Emoliente sin barley (lighter):** swap barley for rolled oats; lighter brew.
-**Emoliente con malta:** add 2 tablespoons of malt extract to the warm brew, the deeper, richer variant.
+- **Emoliente sin aloe:** for the aloe-averse, skip the aloe; double the flax for body.
+- **Emoliente con maca:** add 1 tablespoon of maca powder to the brew, the modern Peruvian energy variant.
+- **Emoliente con quinoa:** add 30 g cooked quinoa to the strained brew, the modern healthy variant.
+- **Emoliente with ginger:** double the ginger, the cold-and-flu variant.
+- **Emoliente con limonada:** mix half emoliente, half cold lemonade, the modern Lima cafe variant.
+- **Iced emoliente (summer):** chill the strained brew; serve over ice with lime and honey, the modern summer variant.
+- **Emoliente sin barley (lighter):** swap barley for rolled oats; lighter brew.
+- **Emoliente con malta:** add 2 tablespoons of malt extract to the warm brew, the deeper, richer variant.
 
 ## Serving
-At a Peruvian street-cart at dawn (the traditional setting; emoliente vendors set up at 5 am and serve till mid-morning) · in any Peruvian town's main street · at a Peruvian Andean village square · at a Peruvian household as a Sunday-morning digestive · at a Peruvian Christmas Eve dinner as the morning-after recovery drink · at home as the herbal-tea alternative to coffee · paired with a slice of dense Andean bread or a small sweet biscuit.
+- At a Peruvian street-cart at dawn (the traditional setting; emoliente vendors set up at 5 am and serve till mid-morning) · in any Peruvian town's main street · at a Peruvian Andean village square · at a Peruvian household as a Sunday-morning digestive · at a Peruvian Christmas Eve dinner as the morning-after recovery drink · at home as the herbal-tea alternative to coffee · paired with a slice of dense Andean bread or a small sweet biscuit.
 
 ## Storage
 - Refrigerates 5 days. Reheat gently on the stovetop.

@@ -64,13 +64,13 @@ The Dodger Dog is the iconic ballpark hot dog of Dodger Stadium in Los Angeles a
 - **Yellow mustard, not Dijon:** ballpark mustard only.
 
 ## Variations
-**Doyer Dog:** the East-LA Mexican-American pronunciation variant. Swap the four standard condiments for nacho cheese sauce, sliced pickled jalapeños, salsa (pico de gallo or salsa roja), and yellow mustard. The dog is the same footlong; the toppings rebuild it as a Mexican-American hot dog.
-**With chili:** add a ladle of beef chili and a heap of grated cheddar (the "Chili Cheese Dodger").
-**Bacon-wrapped:** wrap each footlong in 2 strips of bacon before grilling.
-**Steamed (concourse stand) vs grilled (premium grill cart):** both traditional; pick by your access.
+- **Doyer Dog:** the East-LA Mexican-American pronunciation variant. Swap the four standard condiments for nacho cheese sauce, sliced pickled jalapeños, salsa (pico de gallo or salsa roja), and yellow mustard. The dog is the same footlong; the toppings rebuild it as a Mexican-American hot dog.
+- **With chili:** add a ladle of beef chili and a heap of grated cheddar (the "Chili Cheese Dodger").
+- **Bacon-wrapped:** wrap each footlong in 2 strips of bacon before grilling.
+- **Steamed (concourse stand) vs grilled (premium grill cart):** both traditional; pick by your access.
 
 ## Serving
-At Dodger Stadium during a Dodgers home game (preferred); at home during a televised game; at a Los Angeles-themed gathering. With cold beer and peanuts.
+- At Dodger Stadium during a Dodgers home game (preferred); at home during a televised game; at a Los Angeles-themed gathering. With cold beer and peanuts.
 
 ## Storage
 - Best fresh.

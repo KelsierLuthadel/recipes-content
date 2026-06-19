@@ -59,7 +59,7 @@ Chicken sauce with Curaçao is the building block for the light delicate orange-
 - **Vigorous reduction:** The first stock reduction concentrates flavours significantly; don't skip or rush this step.
 
 ## Serving
-Serve immediately with roasted or pan-fried poussin, pigeon, guinea fowl, or other delicate poultry.
+- Serve immediately with roasted or pan-fried poussin, pigeon, guinea fowl, or other delicate poultry.
 
 ## Storage
 - Best eaten immediately after preparation.

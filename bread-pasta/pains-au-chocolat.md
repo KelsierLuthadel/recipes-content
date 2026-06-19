@@ -60,16 +60,16 @@ Pains au chocolat are the building block of a proper French breakfast: rectangul
 - **Cooling is Essential:** The chocolate inside is extremely hot after baking. Allow proper cooling time to avoid burns.
 
 ## Variations
-**Almond Filling:** Add a thin layer of almond cream or frangipane before adding chocolate.
-**Hazelnut Chocolate:** Use hazelnut-filled chocolate sticks instead of plain dark chocolate.
-**Milk Chocolate:** Substitute milk chocolate for dark chocolate if preferred for sweeter pastries.
-**With Pastry Cream:** Pipe a thin line of pastry cream alongside the chocolate before rolling.
+- **Almond Filling:** Add a thin layer of almond cream or frangipane before adding chocolate.
+- **Hazelnut Chocolate:** Use hazelnut-filled chocolate sticks instead of plain dark chocolate.
+- **Milk Chocolate:** Substitute milk chocolate for dark chocolate if preferred for sweeter pastries.
+- **With Pastry Cream:** Pipe a thin line of pastry cream alongside the chocolate before rolling.
 
 ## Serving
-Serve with: Coffee, hot chocolate, or tea
-Temperature: Serve warm or at room temperature
-Amount: 1 pastry per person
-Accompaniments: Jam, nutella, or plain
+- Serve with: Coffee, hot chocolate, or tea
+- Temperature: Serve warm or at room temperature
+- Amount: 1 pastry per person
+- Accompaniments: Jam, nutella, or plain
 
 ## Storage
 - Best served warm on the day of baking, but keeps at room temperature for 1 day in an airtight container

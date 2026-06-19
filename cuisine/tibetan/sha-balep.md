@@ -97,13 +97,13 @@ Sha balep (literally "meat bread" in Tibetan; sha = meat, balep = bread) is Tibe
 - **Eat immediately:** sha balep is best fresh and hot; the dough toughens as it cools.
 
 ## Variations
-**Sha balep with cheese:** add 100 g of crumbled feta or fresh Tibetan cheese (chhurpi if available) to the filling; gives a richer creamier version.
-**Vegetable sha balep:** swap the meat for 400 g of cooked drained chopped greens (kale, mustard greens, or spinach) mixed with 200 g of crumbled firm tofu and the same seasonings; gives a vegetarian version.
-**Curry sha balep:** add 1 tablespoon of curry powder to the filling; gives a more Indo-Tibetan diaspora style common in Dharamsala.
-**Steamed sha balep (sha momo):** instead of pan-frying, steam the dumplings for 20 minutes; closer to traditional momo but with the sha balep shape.
+- **Sha balep with cheese:** add 100 g of crumbled feta or fresh Tibetan cheese (chhurpi if available) to the filling; gives a richer creamier version.
+- **Vegetable sha balep:** swap the meat for 400 g of cooked drained chopped greens (kale, mustard greens, or spinach) mixed with 200 g of crumbled firm tofu and the same seasonings; gives a vegetarian version.
+- **Curry sha balep:** add 1 tablespoon of curry powder to the filling; gives a more Indo-Tibetan diaspora style common in Dharamsala.
+- **Steamed sha balep (sha momo):** instead of pan-frying, steam the dumplings for 20 minutes; closer to traditional momo but with the sha balep shape.
 
 ## Serving
-With Tibetan butter tea (suja; black tea churned with yak butter and salt; very Tibetan, properly an acquired taste) or sweet milky chai. With a small bowl of chilli sauce for dipping. As breakfast, lunch or dinner; sha balep can be any meal.
+- With Tibetan butter tea (suja; black tea churned with yak butter and salt; very Tibetan, properly an acquired taste) or sweet milky chai. With a small bowl of chilli sauce for dipping. As breakfast, lunch or dinner; sha balep can be any meal.
 
 ## Storage
 - Best eaten warm; the dough toughens as it cools.

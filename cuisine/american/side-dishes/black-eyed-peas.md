@@ -54,7 +54,7 @@ The Southern good-luck bean: small cream-coloured legumes with a black spot at t
 - Some Southern cooks add a pinch of sugar to soften the cayenne; experiment with ¼ teaspoon if your peas are tasting sharp.
 
 ## Serving
-In shallow bowls over hot rice (the dish becomes "Hoppin' John" once the rice is included). Hot sauce on the table. A skillet of cornbread for mopping up the broth.
+- In shallow bowls over hot rice (the dish becomes "Hoppin' John" once the rice is included). Hot sauce on the table. A skillet of cornbread for mopping up the broth.
 
 ## Storage
 In the fridge for up to 4 days; in the freezer for up to 3 months. The dish improves overnight as the peas drink up more of the broth.

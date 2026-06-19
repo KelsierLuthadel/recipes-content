@@ -73,7 +73,7 @@ Every Romanian summer ends with sacks of aubergines roasting black over open gri
 - **Bell pepper salad (salată de ardei copți):** same method with charred red peppers in place of aubergine.
 
 ## Serving
-On warm country bread · with a slice of tomato and salt · alongside other cold mezze (zacuscă, salată de boeuf) · with a glass of cold white wine.
+- On warm country bread · with a slice of tomato and salt · alongside other cold mezze (zacuscă, salată de boeuf) · with a glass of cold white wine.
 
 ## Storage
 - Refrigerate up to 4 days in a sealed jar.

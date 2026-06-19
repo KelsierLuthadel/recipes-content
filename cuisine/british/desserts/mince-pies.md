@@ -64,9 +64,9 @@ Britain's defining Christmas pastry: small buttery shortbread cases filled with 
 - **Eggwash:** Creates a beautiful golden shine and helps the sugar coating adhere.
 
 ## Serving
-Serve with: Sherry, brandy butter, or whipped cream
-Garnish with: Light dusting of icing sugar and a small sprig of holly (optional)
-Accompaniment: Classic pairing with hot coffee or mulled wine
+- Serve with: Sherry, brandy butter, or whipped cream
+- Garnish with: Light dusting of icing sugar and a small sprig of holly (optional)
+- Accompaniment: Classic pairing with hot coffee or mulled wine
 
 ## Storage
 - Keeps 5-7 days in an airtight container at room temperature

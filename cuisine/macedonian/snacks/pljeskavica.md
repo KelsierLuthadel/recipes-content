@@ -51,14 +51,14 @@ Pljeskavica (from "pljesak", "clap"; refers to the slapping motion of forming th
 - **Very high heat:** the char is the traditional look.
 
 ## Variations
-**Pljeskavica leskovačka:** Serbian-style; stuffed with cheese, ham, peppers.
-**Pljeskavica šara:** stuffed with kajmak.
-**Pljeskavica from lamb:** less common; works.
-**Mini pljeskavice:** smaller patties for sliders.
-**With ćevapi:** small fingers instead of discs.
+- **Pljeskavica leskovačka:** Serbian-style; stuffed with cheese, ham, peppers.
+- **Pljeskavica šara:** stuffed with kajmak.
+- **Pljeskavica from lamb:** less common; works.
+- **Mini pljeskavice:** smaller patties for sliders.
+- **With ćevapi:** small fingers instead of discs.
 
 ## Serving
-At a Macedonian grill house (traditional) · at a Macedonian wedding · at home with friends and a cold beer · alongside ajvar and shopska salad.
+- At a Macedonian grill house (traditional) · at a Macedonian wedding · at home with friends and a cold beer · alongside ajvar and shopska salad.
 
 ## Storage
 Raw mixture refrigerates 2 days. Cooked refrigerates 3 days; reheat in pan.

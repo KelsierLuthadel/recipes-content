@@ -94,13 +94,13 @@ Diri kole ak pwa is Haiti's national starch staple, the rice-and-beans combinati
 - **Long-grain rice only:** basmati works beautifully; standard long-grain works; jasmine works at a push but goes slightly stickier than ideal. Short-grain or risotto rice (Arborio, etc.) gives you a porridge rather than diri kole.
 
 ## Variations
-**Diri ak djon djon:** swap the red beans for dried djon-djon mushrooms (the small dark Haitian mushrooms) soaked in hot water; use the dark soaking water as the rice liquid. The rice goes deeply purple-black and tastes of earthy mushroom. The fancy alternative to diri kole, served at celebrations.
-**With smoked turkey or pork:** add 100 g of diced smoked turkey or smoked pork to the onion-epis base at the start. Adds depth and turns the side into something approaching a main.
-**Riz djon djon kole:** combine djon-djon mushroom rice with red beans for the deluxe celebration version.
-**With coconut milk:** add 200 ml of coconut milk in place of 200 ml of the bean liquor; gives a richer Caribbean version that bridges to Jamaican rice-and-peas style.
+- **Diri ak djon djon:** swap the red beans for dried djon-djon mushrooms (the small dark Haitian mushrooms) soaked in hot water; use the dark soaking water as the rice liquid. The rice goes deeply purple-black and tastes of earthy mushroom. The fancy alternative to diri kole, served at celebrations.
+- **With smoked turkey or pork:** add 100 g of diced smoked turkey or smoked pork to the onion-epis base at the start. Adds depth and turns the side into something approaching a main.
+- **Riz djon djon kole:** combine djon-djon mushroom rice with red beans for the deluxe celebration version.
+- **With coconut milk:** add 200 ml of coconut milk in place of 200 ml of the bean liquor; gives a richer Caribbean version that bridges to Jamaican rice-and-peas style.
 
 ## Serving
-Alongside any Haitian protein: griot, tasso, poulet créole, legume, fried fish. A spoonful of pikliz on the side is traditional. Drink: cremas (rum-coconut), Prestige lager, or simply cold water with lime.
+- Alongside any Haitian protein: griot, tasso, poulet créole, legume, fried fish. A spoonful of pikliz on the side is traditional. Drink: cremas (rum-coconut), Prestige lager, or simply cold water with lime.
 
 ## Storage
 - Keeps refrigerated 3 days; reheat in a covered pan with a splash of water to refresh the moisture (microwave at low power works too).

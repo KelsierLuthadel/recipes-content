@@ -68,7 +68,7 @@ Kashata is the candy of the Swahili coast, an old confection that pre-dates the 
 - **Sesame kashata:** add 50 g toasted sesame seeds with the coconut; nuttier and prettier.
 
 ## Serving
-A small plate of diamonds at tea-time · part of the Eid hospitality spread · wrapped in greaseproof paper as a gift · with strong black coffee · alongside chai.
+- A small plate of diamonds at tea-time · part of the Eid hospitality spread · wrapped in greaseproof paper as a gift · with strong black coffee · alongside chai.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature; the texture firms as it sits.

@@ -96,7 +96,7 @@ Plăcintă is the everyday pastry of Moldova, a thin stretched dough wrapped aro
 - **Mini plăcinte:** palm-sized, market-stall snack format.
 
 ## Serving
-Hot from the pan, brushed with butter, cut into quarters and eaten in the hand. The cheese ones with a glass of cold buttermilk; the pumpkin ones with strong black tea; the potato ones with a side of pickled gherkins.
+- Hot from the pan, brushed with butter, cut into quarters and eaten in the hand. The cheese ones with a glass of cold buttermilk; the pumpkin ones with strong black tea; the potato ones with a side of pickled gherkins.
 
 ## Storage
 - Eat the day they are made; the dough toughens overnight.

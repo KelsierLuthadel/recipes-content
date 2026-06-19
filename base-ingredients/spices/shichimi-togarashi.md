@@ -36,9 +36,9 @@ Shichimi togarashi means "seven-flavour chilli" in Japanese, and the blend dates
 - **Heat level.** Adjust the chilli flake ratio for personal heat preference; traditional Japanese versions are moderate, not aggressive.
 
 ## Serving
-Use in: sprinkled on ramen, udon and soba; over rice bowls (donburi); on yakitori chicken skewers; into miso soup; on Japanese pickles; on gyoza; on rice crackers (senbei)
-Typical ratio: a pinch per bowl
-Application: scattered straight from the jar at the table
+- Use in: sprinkled on ramen, udon and soba; over rice bowls (donburi); on yakitori chicken skewers; into miso soup; on Japanese pickles; on gyoza; on rice crackers (senbei)
+- Typical ratio: a pinch per bowl
+- Application: scattered straight from the jar at the table
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

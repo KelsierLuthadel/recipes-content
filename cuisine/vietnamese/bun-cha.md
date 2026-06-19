@@ -90,12 +90,12 @@ Two cuts of pork (sliced belly and seasoned mince patties) are marinated in a fi
 - **Build at the table:** Bun cha is meant to be assembled spoonful by spoonful, with each diner adjusting the chilli, garlic and dressing to taste.
 
 ## Variations
-**Chicken bun cha:** Replace both cuts of pork with boneless chicken thigh; the marinade and method work identically.
-**Beef bun bo:** Swap pork for thinly sliced beef; reduce the cook time on the grill.
+- **Chicken bun cha:** Replace both cuts of pork with boneless chicken thigh; the marinade and method work identically.
+- **Beef bun bo:** Swap pork for thinly sliced beef; reduce the cook time on the grill.
 
 ## Serving
-Serve with: Vietnamese pickled chillies and a small dish of crushed roasted peanuts
-Garnish with: A sprig of perilla leaves alongside the mint and basil
+- Serve with: Vietnamese pickled chillies and a small dish of crushed roasted peanuts
+- Garnish with: A sprig of perilla leaves alongside the mint and basil
 
 ## Storage
 - Pork keeps 2 days refrigerated; reheat briefly under a hot grill

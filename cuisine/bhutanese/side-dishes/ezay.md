@@ -68,13 +68,13 @@ If you don't have a mortar, you can use a small food processor: pulse the chilli
 - **Adjust for diners' heat tolerance:** the traditional Bhutanese ezay is properly fierce. Cook for non-Bhutanese diners by deseeding the chillies and reducing the number. Cook for Bhutanese diners by leaving the seeds in and using more chillies.
 
 ## Variations
-**Eggplant ezay (zomei ezay):** roast 1 medium aubergine over an open flame till the skin blackens; peel and chop the flesh; pound into the relish along with the tomato. Adds smoky depth.
-**Cheese-heavy ezay (datshi ezay):** double the cheese for a creamier richer relish that bridges ezay and a cheese-cream sauce. Common variation.
-**Dried chilli ezay:** swap fresh green chillies for 4-5 whole dried red chillies (soaked in hot water 15 minutes to rehydrate, then drained and chopped). Gives a deeper, smokier relish with a different chilli profile.
-**Lime-and-coriander ezay (lighter, brighter):** double the lime juice and the coriander, halve the cheese. Cooler, fresher version for summer.
+- **Eggplant ezay (zomei ezay):** roast 1 medium aubergine over an open flame till the skin blackens; peel and chop the flesh; pound into the relish along with the tomato. Adds smoky depth.
+- **Cheese-heavy ezay (datshi ezay):** double the cheese for a creamier richer relish that bridges ezay and a cheese-cream sauce. Common variation.
+- **Dried chilli ezay:** swap fresh green chillies for 4-5 whole dried red chillies (soaked in hot water 15 minutes to rehydrate, then drained and chopped). Gives a deeper, smokier relish with a different chilli profile.
+- **Lime-and-coriander ezay (lighter, brighter):** double the lime juice and the coriander, halve the cheese. Cooler, fresher version for summer.
 
 ## Serving
-A small spoonful added to whatever you're eating: dropped onto ema datshi for extra heat; spooned over plain red rice as a simple snack; stirred into shakam paa for a chilli boost; mixed into momos as a dipping sauce; smeared inside flatbread. Even Bhutanese diners who insist they don't need extra spice on their already-fiery food usually have ezay on the side; it's part of the table architecture.
+- A small spoonful added to whatever you're eating: dropped onto ema datshi for extra heat; spooned over plain red rice as a simple snack; stirred into shakam paa for a chilli boost; mixed into momos as a dipping sauce; smeared inside flatbread. Even Bhutanese diners who insist they don't need extra spice on their already-fiery food usually have ezay on the side; it's part of the table architecture.
 
 ## Storage
 - Best eaten within 24 hours of making.

@@ -68,13 +68,13 @@ Thiéré is Senegal's hand-rolled millet couscous: small pearl-grey grains made 
 - **Plan the timing:** with three 20-minute steam stages plus working time between, expect about an hour from start to serve. Coordinate with the main dish; thiéré at its best when freshly steamed and still hot.
 
 ## Variations
-**Thiéré au lait caillé:** the dessert version where steamed thiéré is mixed with curdled milk (lait caillé), sugar and sometimes orange-flower water; a Senegalese sweet course. Pleasant but a different dish entirely.
-**Thiéré with peanuts:** add 50 g of crushed roasted peanuts in the final fluffing for textural contrast; less traditional but works.
-**Thiéré au gras:** the indulgent version where thiéré is steamed with a tablespoon of butter and a beaten egg in the final stage; gives a richer more luxurious finish.
-**Maize-millet thiéré:** if proper millet thiéré is impossible to find, the maize-meal variant (made from maize flour with the same hand-rolling technique) is sometimes available and works well.
+- **Thiéré au lait caillé:** the dessert version where steamed thiéré is mixed with curdled milk (lait caillé), sugar and sometimes orange-flower water; a Senegalese sweet course. Pleasant but a different dish entirely.
+- **Thiéré with peanuts:** add 50 g of crushed roasted peanuts in the final fluffing for textural contrast; less traditional but works.
+- **Thiéré au gras:** the indulgent version where thiéré is steamed with a tablespoon of butter and a beaten egg in the final stage; gives a richer more luxurious finish.
+- **Maize-millet thiéré:** if proper millet thiéré is impossible to find, the maize-meal variant (made from maize flour with the same hand-rolling technique) is sometimes available and works well.
 
 ## Serving
-Under a generous ladle of mafé, thieboudienne, supu kanja, or any saucy Senegalese main. The sauce soaks into the grains. Side dishes of pickled vegetables or chopped salad to add brightness.
+- Under a generous ladle of mafé, thieboudienne, supu kanja, or any saucy Senegalese main. The sauce soaks into the grains. Side dishes of pickled vegetables or chopped salad to add brightness.
 
 ## Storage
 - Best eaten warm and freshly steamed. The grains harden and dry as they cool.

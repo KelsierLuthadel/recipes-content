@@ -90,13 +90,13 @@ Turkish pilav (pirinç pilavı) is one of Turkey's most foundational dishes and 
 - **Optional onion:** some Turkish cooks include onion, some don't. With onion gives more aromatic depth; without is cleaner and more pilaf-like.
 
 ## Variations
-**İç pilav (special-occasion pilaf):** add 200 g of diced chicken liver (sautéed in butter for 3 minutes) to the rice along with the stock; gives the proper Anatolian celebration pilav. Often used as stuffing for whole roasted chicken.
-**Saffron pilav (zaferanli pilav):** add a generous pinch of saffron threads infused in 2 tablespoons of warm water to the stock; gives a golden colour and floral note. Festive version.
-**Tomato pilav (domates pilavı):** add 100 g of finely chopped tomato to the rice with the stock; gives a slightly orange-tinted pilaf with subtle tomato flavour.
-**Bulgur pilav:** swap the rice entirely for medium bulgur wheat; cook the same way but reduce cooking time to 12 minutes (see bulgur-pilav for the full version).
+- **İç pilav (special-occasion pilaf):** add 200 g of diced chicken liver (sautéed in butter for 3 minutes) to the rice along with the stock; gives the proper Anatolian celebration pilav. Often used as stuffing for whole roasted chicken.
+- **Saffron pilav (zaferanli pilav):** add a generous pinch of saffron threads infused in 2 tablespoons of warm water to the stock; gives a golden colour and floral note. Festive version.
+- **Tomato pilav (domates pilavı):** add 100 g of finely chopped tomato to the rice with the stock; gives a slightly orange-tinted pilaf with subtle tomato flavour.
+- **Bulgur pilav:** swap the rice entirely for medium bulgur wheat; cook the same way but reduce cooking time to 12 minutes (see bulgur-pilav for the full version).
 
 ## Serving
-On warm plates as a side alongside grilled meats (kuzu şiş, köfte, iskender), stews (hünkar beğendi, etli kuru fasulye), dolma (stuffed peppers, tomatoes, grape leaves), or any Turkish main course. A small bowl of plain yogurt on the side. With pickled vegetables.
+- On warm plates as a side alongside grilled meats (kuzu şiş, köfte, iskender), stews (hünkar beğendi, etli kuru fasulye), dolma (stuffed peppers, tomatoes, grape leaves), or any Turkish main course. A small bowl of plain yogurt on the side. With pickled vegetables.
 
 ## Storage
 - Keeps refrigerated 3 days; reheat gently with a splash of stock or water in a covered pan over low heat.

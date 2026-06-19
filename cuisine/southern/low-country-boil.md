@@ -77,13 +77,13 @@ Low country boil (also called "Frogmore stew" after Frogmore community on Saint 
 - **Don't overcook shrimp:** 3-4 minutes max.
 
 ## Variations
-**With crab:** add 8 crab claws or 4 whole small crabs.
-**With andouille:** for spicier kick.
-**Indoor version:** serve in deep bowls instead of dumping on table.
-**Spicier:** double the Old Bay; add cayenne.
+- **With crab:** add 8 crab claws or 4 whole small crabs.
+- **With andouille:** for spicier kick.
+- **Indoor version:** serve in deep bowls instead of dumping on table.
+- **Spicier:** double the Old Bay; add cayenne.
 
 ## Serving
-Family-style at outdoor tables in summer. Cold beer or sweet tea.
+- Family-style at outdoor tables in summer. Cold beer or sweet tea.
 
 ## Storage
 - Best eaten immediately.

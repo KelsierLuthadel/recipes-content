@@ -90,14 +90,14 @@ The teriyaki burger is a fixture of Japanese-style fast food (championed by the 
 - **Don't overcook the patty:** medium (62°C internal) keeps it juicy under the glaze.
 
 ## Variations
-**Rice-bun version:** swap the bread for two compressed rice patties (the iconic MOS Burger Rice Burger variant).
-**With cheese:** add a slice of mild cheese under the patty (a softer fusion).
-**Pork-and-beef blend:** swap 30% of the beef for ground pork for a juicier patty.
-**With Japanese curry sauce:** drizzle Japanese curry roux over instead of teriyaki for a curry-burger variation.
-**With shichimi togarashi:** sprinkle the seven-spice on top of the patty for a touch of heat.
+- **Rice-bun version:** swap the bread for two compressed rice patties (the iconic MOS Burger Rice Burger variant).
+- **With cheese:** add a slice of mild cheese under the patty (a softer fusion).
+- **Pork-and-beef blend:** swap 30% of the beef for ground pork for a juicier patty.
+- **With Japanese curry sauce:** drizzle Japanese curry roux over instead of teriyaki for a curry-burger variation.
+- **With shichimi togarashi:** sprinkle the seven-spice on top of the patty for a touch of heat.
 
 ## Serving
-At lunch at a Japanese fast-food counter; at home with fries and a cold beer.
+- At lunch at a Japanese fast-food counter; at home with fries and a cold beer.
 
 ## Storage
 - Best fresh.

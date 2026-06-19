@@ -59,7 +59,7 @@ These small Thai pork meatballs (loog chin moo) pack a punch from a coarse herb 
 - Before cooking them, I recommend frying up a bit of the prepared meat and adjusting the flavour to taste.
 
 ## Serving
-Serve with a couple of dips like sweet chilli sauce and chilli jam. Serve immediately with lime wedges.
+- Serve with a couple of dips like sweet chilli sauce and chilli jam. Serve immediately with lime wedges.
 
 ## Storage
 - Keeps 1-2 days refrigerated

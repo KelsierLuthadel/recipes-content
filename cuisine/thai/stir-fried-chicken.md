@@ -76,14 +76,14 @@ This is the cubed-chicken version of pad krapow: bite-size pieces stir-fried wit
 - **Fresh basil addition:** Add at the very end, wilting should take only 30 seconds. Overcooked basil loses colour, flavour, and texture.
 
 ## Variations
-**Seafood version:** Replace chicken with 450g large prawns or squid; reduce cooking time in Stage 4 to 2-3 minutes
-**Extra spicy:** Increase fresh red chillies to 6 or add bird's eye chillies for significantly more heat
-**Milder version:** Reduce chillies to 2 and de-seed completely; reduce fish sauce to 2 tablespoons
-**With vegetables:** Add 1 red bell pepper (sliced) or green beans (sliced) in Stage 4 for additional texture
-**Pork or beef:** Use 450g minced pork or beef sliced thinly instead of chicken; reduce cooking time accordingly
+- **Seafood version:** Replace chicken with 450g large prawns or squid; reduce cooking time in Stage 4 to 2-3 minutes
+- **Extra spicy:** Increase fresh red chillies to 6 or add bird's eye chillies for significantly more heat
+- **Milder version:** Reduce chillies to 2 and de-seed completely; reduce fish sauce to 2 tablespoons
+- **With vegetables:** Add 1 red bell pepper (sliced) or green beans (sliced) in Stage 4 for additional texture
+- **Pork or beef:** Use 450g minced pork or beef sliced thinly instead of chicken; reduce cooking time accordingly
 
 ## Serving
-Serve with: Jasmine rice or Thai sticky rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side for those who prefer more heat.
+- Serve with: Jasmine rice or Thai sticky rice. Accompany with lime wedges, fresh chillies, and extra fish sauce on the side for those who prefer more heat.
 
 ## Storage
 - Best eaten immediately while hot and aromatic

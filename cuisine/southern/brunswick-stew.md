@@ -98,12 +98,12 @@ Brunswick stew is one of the South's most beloved game stews and the source of o
 - **Slow-cook properly:** 90 min total.
 
 ## Variations
-**With smoked brisket:** swap leftover pork for brisket.
-**With game:** add 200 g of cubed venison or rabbit; the traditional version.
-**Spicier:** double the hot sauce.
+- **With smoked brisket:** swap leftover pork for brisket.
+- **With game:** add 200 g of cubed venison or rabbit; the traditional version.
+- **Spicier:** double the hot sauce.
 
 ## Serving
-In deep bowls with cornbread. Sweet tea.
+- In deep bowls with cornbread. Sweet tea.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

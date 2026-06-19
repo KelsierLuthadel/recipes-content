@@ -27,7 +27,7 @@ The British curry-house madras blend: base curry powder bolstered with extra chi
 - Adjust chilli powder to increase or decrease heat level.
 
 ## Serving
-Use 2-3 tsp per Madras curry.
+- Use 2-3 tsp per Madras curry.
 
 ## Storage
 - Store in an airtight container in a cool, dry place for up to 6 months

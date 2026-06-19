@@ -77,16 +77,16 @@ Sri Lankan curry powder is the building block for the country's distinctive dark
 - **Curry Leaves:** These add subtle flavor complexity; don't omit them.
 
 ## Variations
-**Hotter:** Increase chilli powder to 3 teaspoons.
-**Milder:** Decrease chilli powder to 1 teaspoon.
-**Earthier:** Add ½ teaspoon additional cumin seeds to the rapid-roasting set.
-**More Aromatic:** Add 2 additional cloves to the slow-roasting set.
+- **Hotter:** Increase chilli powder to 3 teaspoons.
+- **Milder:** Decrease chilli powder to 1 teaspoon.
+- **Earthier:** Add ½ teaspoon additional cumin seeds to the rapid-roasting set.
+- **More Aromatic:** Add 2 additional cloves to the slow-roasting set.
 
 ## Serving
-Use in: Sri Lankan red curries, yellow curries, meat dishes, poultry preparations, vegetable curries
-Typical ratio: 2-4 teaspoons per portion depending on sauce richness and protein type
-Application: Fry in hot oil with aromatics before adding liquid and main ingredients
-Color: The darker appearance is natural and indicates proper roasting technique
+- Use in: Sri Lankan red curries, yellow curries, meat dishes, poultry preparations, vegetable curries
+- Typical ratio: 2-4 teaspoons per portion depending on sauce richness and protein type
+- Application: Fry in hot oil with aromatics before adding liquid and main ingredients
+- Color: The darker appearance is natural and indicates proper roasting technique
 
 ## Storage
 - Best used immediately; can store in airtight jar 4-5 months away from light and heat

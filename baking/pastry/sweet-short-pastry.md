@@ -33,7 +33,7 @@ Pâte sucrée is the building block for the great French fruit tarts and dessert
 - Chilling is essential; the dough must be cold before rolling to prevent sticking
 
 ## Serving
-Use pâte sucrée for elegant fruit tarts topped with crème pâtissiére and glazed fresh fruit. The sweet pastry base pairs beautifully with light, fruity fillings. Also suitable for chocolate tarts or cream-based desserts. Line tartlet molds for individual petit fours.
+- Use pâte sucrée for elegant fruit tarts topped with crème pâtissiére and glazed fresh fruit. The sweet pastry base pairs beautifully with light, fruity fillings. Also suitable for chocolate tarts or cream-based desserts. Line tartlet molds for individual petit fours.
 
 ## Storage
 Wrap unrolled dough and refrigerate for 2-3 days, or freeze for up to 1 month. Thaw frozen dough in the refrigerator before rolling. Once lining a tin, the dough can be refrigerated for up to 12 hours before blind-baking or filling. Blind-baked shells store in an airtight container for 2 days.

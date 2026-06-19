@@ -83,14 +83,14 @@ Tibs is the everyday sautéed meat dish of Ethiopia, the quick-cook counterpart 
 - **Restaurant zilzil version:** for the dramatic presentation, cut the meat into long thin strips rather than cubes, cook fast in a very hot pan, and serve on a sizzling clay or cast-iron brazier at the table. Adjust cooking time downward; strips cook in 3-4 minutes total.
 
 ## Variations
-**Awaze tibs:** add 2-3 tablespoons of awaze (a berbere-and-wine paste sold in Ethiopian shops) instead of dry berbere, and finish with a generous handful of chopped fresh chilli. Brighter and hotter; restaurant favourite.
-**Doro tibs:** swap the beef for boneless chicken thigh cut into 2 cm cubes. Cook through in the same way; chicken needs no more than 5-6 minutes total. Lighter and milder.
-**Lamb tibs (yebeg tibs):** use lamb leg or shoulder cubed; the most flavourful variant. Slightly higher fat content than beef means more intense richness with the kibbeh.
-**Tibs wat:** the long-cooked version where the tibs are simmered with extra berbere and onion for 30-40 minutes till stew-like, halfway between tibs and wot.
-**Vegetarian tibs:** swap meat for cubed mushroom (king oyster works well) or firm tofu; same technique. Less authentic but works for Orthodox fasting days.
+- **Awaze tibs:** add 2-3 tablespoons of awaze (a berbere-and-wine paste sold in Ethiopian shops) instead of dry berbere, and finish with a generous handful of chopped fresh chilli. Brighter and hotter; restaurant favourite.
+- **Doro tibs:** swap the beef for boneless chicken thigh cut into 2 cm cubes. Cook through in the same way; chicken needs no more than 5-6 minutes total. Lighter and milder.
+- **Lamb tibs (yebeg tibs):** use lamb leg or shoulder cubed; the most flavourful variant. Slightly higher fat content than beef means more intense richness with the kibbeh.
+- **Tibs wat:** the long-cooked version where the tibs are simmered with extra berbere and onion for 30-40 minutes till stew-like, halfway between tibs and wot.
+- **Vegetarian tibs:** swap meat for cubed mushroom (king oyster works well) or firm tofu; same technique. Less authentic but works for Orthodox fasting days.
 
 ## Serving
-On a round of injera at the centre of the table with timatim salata and ayib alongside, plus a small bowl of awaze (chilli-and-wine paste) or extra berbere for those who want more heat. Drink: tej (Ethiopian honey wine), tella (homemade barley beer), or cold St George (Ethiopian lager). The traditional finish: fresh-roasted Ethiopian coffee in the buna ceremony after eating.
+- On a round of injera at the centre of the table with timatim salata and ayib alongside, plus a small bowl of awaze (chilli-and-wine paste) or extra berbere for those who want more heat. Drink: tej (Ethiopian honey wine), tella (homemade barley beer), or cold St George (Ethiopian lager). The traditional finish: fresh-roasted Ethiopian coffee in the buna ceremony after eating.
 
 ## Storage
 - Best eaten fresh from the pan; the meat goes from tender to tough fast as it cools.

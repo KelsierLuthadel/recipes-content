@@ -49,7 +49,7 @@ Lemon butter sauce is the building block for the quickest emulsified butter sauc
 - **Lemon juice:** Fresh lemon juice is crucial; bottled lemon juice lacks the bright acidity needed.
 
 ## Serving
-Serve with poached or grilled cod, salmon, sole, or other delicate white fish. Also excellent with steamed vegetables or chicken.
+- Serve with poached or grilled cod, salmon, sole, or other delicate white fish. Also excellent with steamed vegetables or chicken.
 
 ## Storage
 - Best served immediately; emulsion breaks with time.

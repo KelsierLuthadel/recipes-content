@@ -78,14 +78,14 @@ Welsh pickled red cabbage is the standing accompaniment to every roast at a Wels
 - **Clean fork every time:** double-dipping introduces moisture and bacteria that shorten shelf life.
 
 ## Variations
-**With star anise:** add 1 star anise to the spice mix for a faint liquorice note.
-**Christmas pickled cabbage:** add 2 tablespoons port to the cooled vinegar before pouring.
-**With ginger:** add 30 g fresh ginger sliced thin to the vinegar.
-**Sweeter version:** double the brown sugar for a chutney-leaning pickle.
-**With juniper:** add 1 teaspoon juniper berries; goes well with cured ham and game.
+- **With star anise:** add 1 star anise to the spice mix for a faint liquorice note.
+- **Christmas pickled cabbage:** add 2 tablespoons port to the cooled vinegar before pouring.
+- **With ginger:** add 30 g fresh ginger sliced thin to the vinegar.
+- **Sweeter version:** double the brown sugar for a chutney-leaning pickle.
+- **With juniper:** add 1 teaspoon juniper berries; goes well with cured ham and game.
 
 ## Serving
-With Welsh Sunday roast lamb (the classic pairing) · alongside cawl in a winter bowl · on a Christmas cold-cuts plate with ham and pickles · with the Welsh leek and bacon pie · in a bara brith ploughman's sandwich · stirred through a winter coleslaw.
+- With Welsh Sunday roast lamb (the classic pairing) · alongside cawl in a winter bowl · on a Christmas cold-cuts plate with ham and pickles · with the Welsh leek and bacon pie · in a bara brith ploughman's sandwich · stirred through a winter coleslaw.
 
 ## Storage
 - Unopened in a cool cupboard: 6 months.

@@ -27,7 +27,7 @@ The British curry-house korma blend: coriander, cumin, turmeric, ground cardamom
 - Contains no strong heat; suitable for mild palates.
 
 ## Serving
-Use 1-2 tsp per korma.
+- Use 1-2 tsp per korma.
 
 ## Storage
 - Store in an airtight container in a cool, dry place for up to 6 months

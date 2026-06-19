@@ -111,7 +111,7 @@ Kacchi biryani (kachi meaning "raw") is the Dhaka wedding dish, a post-Mughal sh
 - **One-pot quick version:** use a pressure cooker for the meat (20 minutes), then layer with rice on the hob; not authentic but cuts hours.
 
 ## Serving
-Borhani (savoury yogurt drink, the traditional partner) · raita with cucumber and mint · slit green chillies · a small bowl of salad (onion, cucumber, tomato, lime)
+- Borhani (savoury yogurt drink, the traditional partner) · raita with cucumber and mint · slit green chillies · a small bowl of salad (onion, cucumber, tomato, lime)
 
 ## Storage
 - Refrigerate up to 3 days; the rice firms up but reheats well

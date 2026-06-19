@@ -52,10 +52,10 @@ The Scottish no-bake chocolate slab and a Dundee bakery classic: crushed digesti
 - **Don't slice cold:** Letting the slab come back to room temperature before cutting prevents the milk chocolate top from cracking. If it does crack, you can score the warm chocolate (5 minutes after pouring) so cuts open along the score lines.
 
 ## Variations
-**With glace cherries:** Add 50 g chopped glace cherries to the base for a richer, more Christmassy slab.
-**With chopped nuts:** A handful of chopped walnuts or pecans in the base adds welcome crunch.
-**Rum tiffin:** Soak the raisins in 2 tablespoons of dark rum for an hour before adding. Drain briefly before folding in.
-**Dark chocolate top:** Swap the milk chocolate top for 70% dark for a less sweet, more grown-up version.
+- **With glace cherries:** Add 50 g chopped glace cherries to the base for a richer, more Christmassy slab.
+- **With chopped nuts:** A handful of chopped walnuts or pecans in the base adds welcome crunch.
+- **Rum tiffin:** Soak the raisins in 2 tablespoons of dark rum for an hour before adding. Drain briefly before folding in.
+- **Dark chocolate top:** Swap the milk chocolate top for 70% dark for a less sweet, more grown-up version.
 
 ## Storage
 - Keeps in an airtight tin for up to 2 weeks at cool room temperature.

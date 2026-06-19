@@ -49,7 +49,7 @@ Sauce Soubise is the building block for the sweet onion-flavoured derivative of 
 - **Reduction:** The cream stage concentrates flavours and creates silky body.
 
 ## Serving
-Serve with braised or roasted white meats (veal, chicken breast), blanched vegetables, or egg dishes.
+- Serve with braised or roasted white meats (veal, chicken breast), blanched vegetables, or egg dishes.
 
 ## Storage
 - Keeps refrigerated for 2 days in an airtight container.

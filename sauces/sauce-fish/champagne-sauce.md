@@ -52,7 +52,7 @@ Champagne sauce is the building block for special-occasion poached fish: a pale 
 - **Blending option:** For lighter texture, purée the sauce in a blender for 1 minute before serving.
 
 ## Serving
-Serve immediately with poached John Dory, turbot, sole, or other delicate white fish. Ideal for special occasions and elegant presentations.
+- Serve immediately with poached John Dory, turbot, sole, or other delicate white fish. Ideal for special occasions and elegant presentations.
 
 ## Storage
 - Best eaten immediately after preparation.

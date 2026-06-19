@@ -76,13 +76,13 @@ Southern collard greens is one of the most beloved sides in Southern cooking and
 - **Cornbread for soaking:** the traditional Southern combination.
 
 ## Variations
-**With smoked turkey wing:** leaner version.
-**Vegetarian:** skip the meat; add 2 tablespoons smoked paprika and 2 tablespoons soy sauce for umami.
-**Spicier:** double the chilli and hot sauce.
-**With sweet potato:** add cubed sweet potato in the last 30 min.
+- **With smoked turkey wing:** leaner version.
+- **Vegetarian:** skip the meat; add 2 tablespoons smoked paprika and 2 tablespoons soy sauce for umami.
+- **Spicier:** double the chilli and hot sauce.
+- **With sweet potato:** add cubed sweet potato in the last 30 min.
 
 ## Serving
-Alongside fried chicken, BBQ, ham. With cornbread for soaking the pot liquor. On New Year's Day with Hoppin' John.
+- Alongside fried chicken, BBQ, ham. With cornbread for soaking the pot liquor. On New Year's Day with Hoppin' John.
 
 ## Storage
 - Keeps refrigerated 5 days; flavour deepens.

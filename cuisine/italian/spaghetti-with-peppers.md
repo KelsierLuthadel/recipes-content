@@ -58,13 +58,13 @@ Spaghetti with peppers is the vegetarian Italian pasta that proves meat is optio
 - **Herb Balance:** Equal parts of each herb works well; adjust to personal preference.
 
 ## Variations
-**With Aubergine:** Substitute roasted aubergine cubes for peppers for earthier flavor.
-**Multiple Colors:** Use red, yellow, and orange peppers for visual variety.
-**With Tomatoes:** Add 200g diced fresh tomatoes in summer for freshness.
+- **With Aubergine:** Substitute roasted aubergine cubes for peppers for earthier flavor.
+- **Multiple Colors:** Use red, yellow, and orange peppers for visual variety.
+- **With Tomatoes:** Add 200g diced fresh tomatoes in summer for freshness.
 
 ## Serving
-Serve with: Crusty bread and a light white wine
-Garnish with: Additional fresh herbs and a drizzle of excellent olive oil
+- Serve with: Crusty bread and a light white wine
+- Garnish with: Additional fresh herbs and a drizzle of excellent olive oil
 
 ## Storage
 - Best eaten immediately while peppers retain texture

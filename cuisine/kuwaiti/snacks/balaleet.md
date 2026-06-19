@@ -63,7 +63,7 @@ Balaleet is the Gulf's defining breakfast: thin wheat vermicelli (the same shaay
 - **One omelette across the top, not one each.** It's a sharing presentation; cut the omelette as everyone serves themselves.
 
 ## Serving
-Warm, on a wide plate, for breakfast or Ramadan suhoor. Karak chai on the side.
+- Warm, on a wide plate, for breakfast or Ramadan suhoor. Karak chai on the side.
 
 ## Storage
 - Refrigerate 2 days; reheat the vermicelli with a splash of water

@@ -76,14 +76,14 @@ Laap (also spelled larb in English) is the most identity-defining Lao dish, eate
 - **Make the toasted rice powder fresh:** it loses aroma within 48 hours.
 
 ## Variations
-**Laap pa (fish laap):** swap meat for finely chopped raw or briefly poached freshwater white fish; Lao river-fish traditional.
-**Laap ped (duck laap):** finely chopped roast duck meat; richer, more festive.
-**Laap dip (raw laap):** the traditional Northern Lao version uses raw beef tartare-style; not for the squeamish, and not recommended outside Laos for food-safety reasons.
-**Vegetarian laap (laap het):** swap meat for finely chopped mushrooms (king oyster, shiitake) or crumbled fried tofu; same dressing.
-**Laap with extra heat:** double the dried chilli flakes; add 1 finely chopped fresh bird's-eye chilli.
+- **Laap pa (fish laap):** swap meat for finely chopped raw or briefly poached freshwater white fish; Lao river-fish traditional.
+- **Laap ped (duck laap):** finely chopped roast duck meat; richer, more festive.
+- **Laap dip (raw laap):** the traditional Northern Lao version uses raw beef tartare-style; not for the squeamish, and not recommended outside Laos for food-safety reasons.
+- **Vegetarian laap (laap het):** swap meat for finely chopped mushrooms (king oyster, shiitake) or crumbled fried tofu; same dressing.
+- **Laap with extra heat:** double the dried chilli flakes; add 1 finely chopped fresh bird's-eye chilli.
 
 ## Serving
-At a Lao family dinner (the traditional setting) · at a Luang Prabang restaurant alongside or lam and sticky rice · at a Vientiane street stall · at a Lao New Year (Pi Mai, mid-April) celebration · at home as the traditional Lao dinner-party plate · with sticky rice, raw vegetables and a Beerlao.
+- At a Lao family dinner (the traditional setting) · at a Luang Prabang restaurant alongside or lam and sticky rice · at a Vientiane street stall · at a Lao New Year (Pi Mai, mid-April) celebration · at home as the traditional Lao dinner-party plate · with sticky rice, raw vegetables and a Beerlao.
 
 ## Storage
 - Eat within 4 hours; the herbs wilt and the rice powder loses crunch.

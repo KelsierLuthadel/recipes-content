@@ -51,7 +51,7 @@ Piadina farcita is San Marino's street food. Order one at a chiosco in the old t
 - **Rocket peppery, not bitter.** Use young wild rocket if you can find it.
 
 ## Serving
-On a wooden board for one, in a stack at a picnic, alongside a glass of young Sangiovese or a cold beer.
+- On a wooden board for one, in a stack at a picnic, alongside a glass of young Sangiovese or a cold beer.
 
 ## Storage
 - Eat as you make it; piadina farcita does not store, the bread softens and the rocket wilts.

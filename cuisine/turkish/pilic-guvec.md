@@ -116,13 +116,13 @@ Piliç güveç (literally "chicken casserole"; piliç = young chicken, güveç =
 - **Plenty of cheese:** the cheese crust is part of the dish's identity. Don't skimp.
 
 ## Variations
-**Mixed-meat güveç:** add 200 g of diced beef shoulder to the chicken; gives a richer fuller stew. Cook for an extra 20 minutes.
-**Vegetarian güveç:** skip the chicken; double the mushrooms and add 1 large cubed aubergine; use vegetable stock. Common Turkish vegetarian dinner.
-**With chickpeas:** add 1 tin of drained chickpeas to the pot; gives a more substantial one-pot meal.
-**Spicier:** double the Aleppo pepper and add 2 chopped fresh chillies; properly fierce version.
+- **Mixed-meat güveç:** add 200 g of diced beef shoulder to the chicken; gives a richer fuller stew. Cook for an extra 20 minutes.
+- **Vegetarian güveç:** skip the chicken; double the mushrooms and add 1 large cubed aubergine; use vegetable stock. Common Turkish vegetarian dinner.
+- **With chickpeas:** add 1 tin of drained chickpeas to the pot; gives a more substantial one-pot meal.
+- **Spicier:** double the Aleppo pepper and add 2 chopped fresh chillies; properly fierce version.
 
 ## Serving
-Family-style from the pot, or in individual small clay güveç pots (the proper Turkish restaurant presentation). With rice pilav, warm pide bread, cacık and a fresh salad. Drink: Turkish red wine (Öküzgözü, Boğazkere), ayran, or rakı with water.
+- Family-style from the pot, or in individual small clay güveç pots (the proper Turkish restaurant presentation). With rice pilav, warm pide bread, cacık and a fresh salad. Drink: Turkish red wine (Öküzgözü, Boğazkere), ayran, or rakı with water.
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens noticeably overnight.

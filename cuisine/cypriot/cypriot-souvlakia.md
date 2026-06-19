@@ -79,7 +79,7 @@ Cypriot souvlakia are larger and meatier than their mainland-Greek cousins; the 
 - **With sheftalia.** A second skewer of sheftalia sausages alongside; the classic mixed-grill plate of the village taverna.
 
 ## Serving
-Serve with pourgouri pilaf · grilled halloumi · talattouri · a Greek-style chopped salad · a glass of cold Keo beer or light red Cypriot wine.
+- Serve with pourgouri pilaf · grilled halloumi · talattouri · a Greek-style chopped salad · a glass of cold Keo beer or light red Cypriot wine.
 
 ## Storage
 - Cooked meat keeps 3 days refrigerated; reheat briefly under a hot grill, never in the microwave (it goes rubbery).

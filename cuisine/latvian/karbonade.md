@@ -79,7 +79,7 @@ Karbonāde is the Latvian cousin of the Wiener Schnitzel, brought over by Baltic
 - **Mushroom karbonāde:** Top each fried chop with sliced chestnut mushrooms sautéed in butter with dill; common in restaurant menus.
 
 ## Serving
-The classic side is boiled new potatoes with butter and dill, plus lingonberry jam (sweet-sour, cuts the fried richness), dill cucumbers and a lemon wedge. A glass of cold beer or kefir.
+- The classic side is boiled new potatoes with butter and dill, plus lingonberry jam (sweet-sour, cuts the fried richness), dill cucumbers and a lemon wedge. A glass of cold beer or kefir.
 
 ## Storage
 - Best straight from the pan; the crumb softens after an hour.

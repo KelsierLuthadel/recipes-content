@@ -104,14 +104,14 @@ Nam khao is a Lao crispy-rice salad of remarkable textural complexity, sold at e
 - **Toss in stages:** the herbs go in at the very end so they stay bright.
 
 ## Variations
-**Vegetarian nam khao:** skip the meat; double the toasted peanuts and add 200 g of fried tofu cubes.
-**Nam khao with chicken:** swap the som moo for shredded poached chicken + lime juice.
-**Modern Vientiane café version:** plate the salad on a single large lettuce leaf as an open-faced presentation.
-**Spicier nam khao:** double the fresh chillies + add 1 teaspoon chilli flakes.
-**With shredded green papaya:** add a small handful of julienned green papaya, the Northern Lao variant.
+- **Vegetarian nam khao:** skip the meat; double the toasted peanuts and add 200 g of fried tofu cubes.
+- **Nam khao with chicken:** swap the som moo for shredded poached chicken + lime juice.
+- **Modern Vientiane café version:** plate the salad on a single large lettuce leaf as an open-faced presentation.
+- **Spicier nam khao:** double the fresh chillies + add 1 teaspoon chilli flakes.
+- **With shredded green papaya:** add a small handful of julienned green papaya, the Northern Lao variant.
 
 ## Serving
-At a Vientiane or Luang Prabang street stall (the traditional setting) · at a Lao home dinner · at a Lao Pi Mai (New Year) celebration · at a Lao temple festival · at home as a striking dinner-party starter · paired with sticky rice and a cold Beerlao.
+- At a Vientiane or Luang Prabang street stall (the traditional setting) · at a Lao home dinner · at a Lao Pi Mai (New Year) celebration · at a Lao temple festival · at home as a striking dinner-party starter · paired with sticky rice and a cold Beerlao.
 
 ## Storage
 - Best eaten within 30 minutes of tossing.

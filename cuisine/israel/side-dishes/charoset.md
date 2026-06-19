@@ -44,7 +44,7 @@ Charoset is the Passover seder centrepiece, a sweet apple-and-walnut compote tha
 - Some families crush a small piece of matzo into the mix for a coarser, more mortar-like texture.
 
 ## Serving
-On a small dish as part of the seder plate. At the appropriate point in the seder, spread on a piece of matzo with a smear of bitter herb (horseradish), to remember the mortar with the bricks.
+- On a small dish as part of the seder plate. At the appropriate point in the seder, spread on a piece of matzo with a smear of bitter herb (horseradish), to remember the mortar with the bricks.
 
 ## Storage
 In a sealed jar in the fridge for up to a week. Improves on the second day.

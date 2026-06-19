@@ -68,12 +68,12 @@ A pizza from the toe of Italy, where heat is the regional accent and nduja is it
 - **Order of layering:** Cheese under sausage helps the salami crisp instead of slip off.
 
 ## Variations
-**Mild calabrese:** Replace the nduja and roquito peppers with sun-dried tomatoes and roasted red peppers; keep the salami for character.
-**All-meat:** Add 30 grams of pancetta or speck alongside the Calabrese sausage.
+- **Mild calabrese:** Replace the nduja and roquito peppers with sun-dried tomatoes and roasted red peppers; keep the salami for character.
+- **All-meat:** Add 30 grams of pancetta or speck alongside the Calabrese sausage.
 
 ## Serving
-Serve with: A glass of robust red (Cirò or Aglianico work beautifully) and a few green olives
-Garnish with: A drizzle of chilli oil for those who want more heat
+- Serve with: A glass of robust red (Cirò or Aglianico work beautifully) and a few green olives
+- Garnish with: A drizzle of chilli oil for those who want more heat
 
 ## Storage
 - Best eaten straight from the oven

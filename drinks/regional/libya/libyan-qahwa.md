@@ -63,7 +63,7 @@ Libyan qahwa is the country's everyday coffee, brewed in a small long-handled po
 - Brew without sugar and pass a dish of honeyed dates alongside.
 
 ## Serving
-First thing in the morning before breakfast · after lunch and after dinner · the moment a guest arrives, with a plate of dates · with a piece of ghraybeh or a square of basbousa · at a wedding or funeral as the welcoming drink.
+- First thing in the morning before breakfast · after lunch and after dinner · the moment a guest arrives, with a plate of dates · with a piece of ghraybeh or a square of basbousa · at a wedding or funeral as the welcoming drink.
 
 ## Storage
 - Brew fresh; Arabic coffee does not keep.

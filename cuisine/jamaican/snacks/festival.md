@@ -58,11 +58,11 @@ The sweet fried cornmeal finger that turns up beside jerk chicken at every Bosto
 - **Sweetness:** Tradition runs from "barely sweet" to "almost a doughnut". 60 g is a moderate middle. Bump to 90 g for the sweeter Negril-beach style.
 
 ## Variations
-**Coconut festival:** Replace milk with coconut milk and add 2 tablespoons desiccated coconut to the dough.
-**Spiced:** Add ½ teaspoon ground cinnamon for a warmer flavour.
+- **Coconut festival:** Replace milk with coconut milk and add 2 tablespoons desiccated coconut to the dough.
+- **Spiced:** Add ½ teaspoon ground cinnamon for a warmer flavour.
 
 ## Serving
-Serve with: Jerk chicken, fried fish, escovitch fish, ackee and saltfish, or a Jamaican fish tea.
+- Serve with: Jerk chicken, fried fish, escovitch fish, ackee and saltfish, or a Jamaican fish tea.
 
 ## Storage
 - Best eaten the day they're fried.

@@ -61,12 +61,12 @@ Country ham with red eye gravy is one of the South's most distinctive breakfast 
 - **Eat immediately.**
 
 ## Variations
-**With chicory coffee:** swap for chicory coffee; gives Louisiana-Cajun twist.
-**With cracklings:** scatter pork rind cracklings over for crunch.
-**Modern with apple cider:** swap half the coffee for apple cider; sweeter version.
+- **With chicory coffee:** swap for chicory coffee; gives Louisiana-Cajun twist.
+- **With cracklings:** scatter pork rind cracklings over for crunch.
+- **Modern with apple cider:** swap half the coffee for apple cider; sweeter version.
 
 ## Serving
-At a Southern mountain breakfast. With grits, biscuits, eggs, hot coffee.
+- At a Southern mountain breakfast. With grits, biscuits, eggs, hot coffee.
 
 ## Storage
 - Best eaten immediately.

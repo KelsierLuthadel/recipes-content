@@ -60,9 +60,9 @@ Banana bread is the redemption recipe for the four bananas turning black on your
 - **Mix sugars:** All caster gives a clean sweetness; some brown sugar gives a fudgy, molasses note.
 
 ## Variations
-**Chocolate chip:** Add 100 g dark chocolate chips along with the walnuts.
-**Coffee glaze:** Drizzle a glaze of icing sugar + strong espresso over the cooled loaf.
-**Spiced:** Add ¼ teaspoon nutmeg and ¼ teaspoon ground cardamom to the dry mix.
+- **Chocolate chip:** Add 100 g dark chocolate chips along with the walnuts.
+- **Coffee glaze:** Drizzle a glaze of icing sugar + strong espresso over the cooled loaf.
+- **Spiced:** Add ¼ teaspoon nutmeg and ¼ teaspoon ground cardamom to the dry mix.
 
 ## Storage
 - Keeps 4 days in an airtight tin at room temperature; the flavour deepens.

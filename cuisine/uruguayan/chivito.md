@@ -75,7 +75,7 @@ The chivito is Uruguay's national sandwich and the proudest line on any Montevid
 - **Chivito de pollo.** A grilled chicken breast in place of the steak, pounded equally thin.
 
 ## Serving
-Cut in half on the diagonal · golden chips piled alongside · pickled chillies on the side · a cold lager · plenty of napkins.
+- Cut in half on the diagonal · golden chips piled alongside · pickled chillies on the side · a cold lager · plenty of napkins.
 
 ## Storage
 - Eat fresh; the sandwich does not keep once built.

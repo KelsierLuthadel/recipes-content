@@ -81,17 +81,17 @@ Dulce de leche (literally "sweet of milk") is Argentina's most beloved sweet ing
 - **Traditional vs easy:** the traditional method gives smoother, more refined dulce. The easy method is faster but slightly grainier.
 
 ## Variations
-**Dulce de leche repostero:** thicker, made for baking (a more reduced version). Cook 30 minutes longer for thicker dulce.
-**Dulce de leche con coco:** stir in 100 g grated coconut at the end. Tropical variant.
-**Dulce de leche con chocolate:** stir in 100 g dark chocolate (melted) at the end. Bittersweet variant.
-**Dulce de leche con nueces:** stir in 80 g chopped walnuts. Texture variant.
-**Salted dulce de leche:** add 1 teaspoon flaked sea salt at the end. Modern variant.
-**Dulce de leche con cafe:** add 2 tablespoons instant espresso powder. Coffee variant.
-**Pressure cooker dulce (modern):** condensed milk in pressure cooker for 30 minutes high pressure (must be FULLY immersed in water).
-**Microwave dulce (controversial):** condensed milk in microwave at 50% power for 30 minutes, stirring every 2 minutes. Doesn't give the same texture but works in emergency.
+- **Dulce de leche repostero:** thicker, made for baking (a more reduced version). Cook 30 minutes longer for thicker dulce.
+- **Dulce de leche con coco:** stir in 100 g grated coconut at the end. Tropical variant.
+- **Dulce de leche con chocolate:** stir in 100 g dark chocolate (melted) at the end. Bittersweet variant.
+- **Dulce de leche con nueces:** stir in 80 g chopped walnuts. Texture variant.
+- **Salted dulce de leche:** add 1 teaspoon flaked sea salt at the end. Modern variant.
+- **Dulce de leche con cafe:** add 2 tablespoons instant espresso powder. Coffee variant.
+- **Pressure cooker dulce (modern):** condensed milk in pressure cooker for 30 minutes high pressure (must be FULLY immersed in water).
+- **Microwave dulce (controversial):** condensed milk in microwave at 50% power for 30 minutes, stirring every 2 minutes. Doesn't give the same texture but works in emergency.
 
 ## Serving
-On toast at every Argentine breakfast (the traditional setting) · in alfajores (the traditional sandwich biscuit) · swirled into ice cream · in flan con dulce de leche · as crêpe filling · in chocotorta (the no-bake cake) · in conitos (small cones of dulce) · at every Argentine afternoon merienda (tea-time snack) · at home as the universal sweet ingredient.
+- On toast at every Argentine breakfast (the traditional setting) · in alfajores (the traditional sandwich biscuit) · swirled into ice cream · in flan con dulce de leche · as crêpe filling · in chocotorta (the no-bake cake) · in conitos (small cones of dulce) · at every Argentine afternoon merienda (tea-time snack) · at home as the universal sweet ingredient.
 
 ## Storage
 - Refrigerates in sealed jars 3 weeks.

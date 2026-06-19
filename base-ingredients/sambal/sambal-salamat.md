@@ -92,18 +92,18 @@ Sambal salamat is the bright, juicy, fresh-vegetable answer to the dense ferment
 - **Strong Flavors:** The fermented quality of fish sauce is intentional, this sambal is powerful and meant to accompany mild dishes, not stand as feature.
 
 ## Variations
-**Milder Heat:** Use only 1 chilli; remove all seeds and membrane.
-**Extra Coriander:** Use up to 4 tablespoons fresh coriander for herbaceous emphasis.
-**With Garlic:** Add 1-2 crushed garlic cloves for additional pungency and depth.
-**Sweeter Version:** Add 1 full teaspoon palm sugar or regular sugar for sweetness balancing umami and heat.
-**With Lime:** Add 1-2 tablespoons fresh lime juice for citrus brightness, this lightens the fish sauce funk.
-**Extra Spicy:** Use 3 chillies with all seeds and membranes intact.
+- **Milder Heat:** Use only 1 chilli; remove all seeds and membrane.
+- **Extra Coriander:** Use up to 4 tablespoons fresh coriander for herbaceous emphasis.
+- **With Garlic:** Add 1-2 crushed garlic cloves for additional pungency and depth.
+- **Sweeter Version:** Add 1 full teaspoon palm sugar or regular sugar for sweetness balancing umami and heat.
+- **With Lime:** Add 1-2 tablespoons fresh lime juice for citrus brightness, this lightens the fish sauce funk.
+- **Extra Spicy:** Use 3 chillies with all seeds and membranes intact.
 
 ## Serving
-Use in: Rice dish accompaniment, vegetable side condiment, protein temper, curry flavor agent
-Typical ratio: 1-2 tablespoons per serving alongside rice
-Temperature: Served at room temperature or lightly chilled
-Application: Served in small bowl or spooned onto side of plate; diners add as desired to rice
+- Use in: Rice dish accompaniment, vegetable side condiment, protein temper, curry flavor agent
+- Typical ratio: 1-2 tablespoons per serving alongside rice
+- Temperature: Served at room temperature or lightly chilled
+- Application: Served in small bowl or spooned onto side of plate; diners add as desired to rice
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days

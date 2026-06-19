@@ -108,15 +108,15 @@ Ragù is the great Italian meat sauce, deeply browned beef (or beef-and-pork mix
 - **Pasta Finishing:** This final 1-2 minute toss in the sauce is restaurant technique; it emulsifies the sauce with starch from the pasta water, creating a silky, unified dish rather than pasta drowning in sauce.
 
 ## Variations
-**Pancetta-Enhanced:** Use 75 grams chopped pancetta or bacon; fry it first to render the fat, then use that fat for browning meat.
-**Pork Version:** Use 100% ground pork or a 50/50 mix with veal instead of beef for different flavor character.
-**Lighter Stock:** Use chicken stock instead of beef for a lighter, more delicate sauce.
-**Marsala Finish:** Add 30 ml Marsala wine in the last minute of cooking for subtle sweetness and depth.
+- **Pancetta-Enhanced:** Use 75 grams chopped pancetta or bacon; fry it first to render the fat, then use that fat for browning meat.
+- **Pork Version:** Use 100% ground pork or a 50/50 mix with veal instead of beef for different flavor character.
+- **Lighter Stock:** Use chicken stock instead of beef for a lighter, more delicate sauce.
+- **Marsala Finish:** Add 30 ml Marsala wine in the last minute of cooking for subtle sweetness and depth.
 
 ## Serving
-Serve over: Fresh tagliatelle (narrow ribbons allow sauce to cling), fettuccine, or pappardelle (wide ribbons showcase the sauce)
-Garnish with: Freshly grated Parmesan, cracked black pepper, fresh basil (if available)
-Pair with: Bold red wine (Barolo, Brunello, or Chianti Classico) that matches the sauce's richness
+- Serve over: Fresh tagliatelle (narrow ribbons allow sauce to cling), fettuccine, or pappardelle (wide ribbons showcase the sauce)
+- Garnish with: Freshly grated Parmesan, cracked black pepper, fresh basil (if available)
+- Pair with: Bold red wine (Barolo, Brunello, or Chianti Classico) that matches the sauce's richness
 
 ## Storage
 - Refrigerate cooked ragù in an airtight container for up to 4 days

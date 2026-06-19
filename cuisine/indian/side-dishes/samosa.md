@@ -73,16 +73,16 @@ Samosas are the ultimate Indian snack: crispy, angular parcels of golden filo pa
 - **Yield:** Each filo sheet (cut into 4) makes 4 samosas; this recipe yields approximately 20.
 
 ## Variations
-**Spicy Heat:** Increase curry powder to 1 ½ tablespoons or add 1 fresh green chilli to the filling.
-**Vegetarian:** Substitute the chicken with 200g diced cooked cauliflower mixed with 150g cooked chickpeas for a pleasant textural mix.
-**Lamb Filling:** Use 300g minced lamb instead of chicken; reduce cooking time slightly (lamb cooks faster).
-**With Peas:** Add 50g frozen peas to the filling in the final minute of cooking.
-**Paneer Version:** Replace chicken with 200g crumbled paneer cheese mixed with the potatoes for a vegetarian alternative.
+- **Spicy Heat:** Increase curry powder to 1 ½ tablespoons or add 1 fresh green chilli to the filling.
+- **Vegetarian:** Substitute the chicken with 200g diced cooked cauliflower mixed with 150g cooked chickpeas for a pleasant textural mix.
+- **Lamb Filling:** Use 300g minced lamb instead of chicken; reduce cooking time slightly (lamb cooks faster).
+- **With Peas:** Add 50g frozen peas to the filling in the final minute of cooking.
+- **Paneer Version:** Replace chicken with 200g crumbled paneer cheese mixed with the potatoes for a vegetarian alternative.
 
 ## Serving
-Serve with: Tamarind chutney, mint chutney, raita, yoghurt dips
-Accompany with: Lemon wedges, fresh coriander, sliced red onion
-Vessels: Serve warm on a platter lined with fresh coriander
+- Serve with: Tamarind chutney, mint chutney, raita, yoghurt dips
+- Accompany with: Lemon wedges, fresh coriander, sliced red onion
+- Vessels: Serve warm on a platter lined with fresh coriander
 
 ## Storage
 - Store in an airtight container for up to 3 days at room temperature

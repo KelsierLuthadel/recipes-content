@@ -86,15 +86,15 @@ Cullen skink takes its name from the small fishing village of Cullen on Scotland
 - **Don't over-salt:** the haddock is brined during smoking. Taste first.
 
 ## Variations
-**Cream-heavy version:** double the cream, halve the milk, the rich restaurant version.
-**With leek:** swap the onion for a finely sliced leek (white part only); softer flavour, very north-east-Scotland.
-**With sweetcorn:** add a small tin of sweetcorn at the end, modern variant.
-**Cullen skink chowder:** add diced bacon (cooked separately and stirred in at the end) and a glug of white wine, the chowder direction.
-**With egg:** poach an egg in each bowl just before serving, the indulgent version.
-**Pearled-barley version:** swap the diced potato for cooked pearl barley, a more substantial version, very Scottish.
+- **Cream-heavy version:** double the cream, halve the milk, the rich restaurant version.
+- **With leek:** swap the onion for a finely sliced leek (white part only); softer flavour, very north-east-Scotland.
+- **With sweetcorn:** add a small tin of sweetcorn at the end, modern variant.
+- **Cullen skink chowder:** add diced bacon (cooked separately and stirred in at the end) and a glug of white wine, the chowder direction.
+- **With egg:** poach an egg in each bowl just before serving, the indulgent version.
+- **Pearled-barley version:** swap the diced potato for cooked pearl barley, a more substantial version, very Scottish.
 
 ## Serving
-At a Highland inn on a winter evening with a pint of heavy ale · at a Scottish gastropub anywhere as a starter or main · at a Burns Night supper as the soup course · at a coastal Scottish lunch with a hunk of bread and butter · at home as a winter weeknight supper with oatcakes.
+- At a Highland inn on a winter evening with a pint of heavy ale · at a Scottish gastropub anywhere as a starter or main · at a Burns Night supper as the soup course · at a coastal Scottish lunch with a hunk of bread and butter · at home as a winter weeknight supper with oatcakes.
 
 ## Storage
 - Refrigerates 3 days; the smoke flavour intensifies overnight. Reheat gently (do not boil).

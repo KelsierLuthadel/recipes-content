@@ -65,14 +65,14 @@ Bulviniai blynai are the everyday Lithuanian potato pancake, the dish every gran
 - **Eat warm:** they stiffen as they cool. The right time is straight from the pan.
 
 ## Variations
-**With apple sauce:** swap sour cream for cold apple sauce, the sweet-savoury version.
-**With smoked salmon:** top with smoked salmon, sour cream and dill, a Baltic-coast plate.
-**Cheese-stuffed:** put a small piece of curd cheese in the centre of each before frying.
-**Vegetarian (no bacon):** scatter fried onion or chopped chives, with the sour cream.
-**Mushroom-sauce version:** serve smothered in a creamy wild-mushroom sauce instead of sour cream.
+- **With apple sauce:** swap sour cream for cold apple sauce, the sweet-savoury version.
+- **With smoked salmon:** top with smoked salmon, sour cream and dill, a Baltic-coast plate.
+- **Cheese-stuffed:** put a small piece of curd cheese in the centre of each before frying.
+- **Vegetarian (no bacon):** scatter fried onion or chopped chives, with the sour cream.
+- **Mushroom-sauce version:** serve smothered in a creamy wild-mushroom sauce instead of sour cream.
 
 ## Serving
-Serve hot stacked on a warm plate · with cold sour cream and bacon · with apple sauce · with smoked salmon · at a weekend breakfast · with a glass of kefir · as a quick weeknight dinner.
+- Serve hot stacked on a warm plate · with cold sour cream and bacon · with apple sauce · with smoked salmon · at a weekend breakfast · with a glass of kefir · as a quick weeknight dinner.
 
 ## Storage
 - Best fresh from the pan.

@@ -70,14 +70,14 @@ Vegetable pakora is the North Indian monsoon snack and the dish that comes out o
 - **Don't overcrowd:** The oil temperature drops too far. Six small clusters maximum per batch.
 
 ## Variations
-**Onion pakora (kanda bhajia):** Use only onion (300 g sliced) and skip the other vegetables. The Mumbai street version.
-**Paneer pakora:** 250 g paneer cubed 2 cm; coat in the batter; one-stage fry at 175°C for 3 minutes. Serve with chaat masala sprinkled on top.
-**Palak pakora:** Whole spinach leaves dipped in batter, fried flat. Eaten as a starter.
+- **Onion pakora (kanda bhajia):** Use only onion (300 g sliced) and skip the other vegetables. The Mumbai street version.
+- **Paneer pakora:** 250 g paneer cubed 2 cm; coat in the batter; one-stage fry at 175°C for 3 minutes. Serve with chaat masala sprinkled on top.
+- **Palak pakora:** Whole spinach leaves dipped in batter, fried flat. Eaten as a starter.
 
 ## Serving
-Serve with: mint-coriander chutney, tamarind chutney, tomato ketchup (the casual choice), or a wedge of lemon.
-Temperature: hot, just-fried.
-Drink: masala chai or salty lassi.
+- Serve with: mint-coriander chutney, tamarind chutney, tomato ketchup (the casual choice), or a wedge of lemon.
+- Temperature: hot, just-fried.
+- Drink: masala chai or salty lassi.
 
 ## Storage
 - Eat within 30 minutes; the texture softens fast.

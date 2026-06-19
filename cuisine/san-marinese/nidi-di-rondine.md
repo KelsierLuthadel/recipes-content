@@ -72,7 +72,7 @@ Nidi di rondine are the showpiece pasta of San Marinese Sunday tables: a sheet o
 - **Standing the nests up.** Cut side up means you see the spiral, the cheese caramelises, and the béchamel can pool down the sides.
 
 ## Serving
-The main event for a Sunday lunch; a green salad after, nothing before. A bottle of Sangiovese di San Marino.
+- The main event for a Sunday lunch; a green salad after, nothing before. A bottle of Sangiovese di San Marino.
 
 ## Storage
 - Keeps 2 days refrigerated. Reheat covered with foil at 170°C until heated through; uncover for the last 5 minutes to re-crisp the top.

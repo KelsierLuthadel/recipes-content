@@ -51,7 +51,7 @@ Jasmine tea custard is the building block for a delicate floral cold custard sau
 - **Long cool infusion period:** Allows jasmine flavour to fully develop throughout custard.
 
 ## Serving
-Serve chilled with grilled brioche sprinkled with icing sugar, or alongside fresh berries and meringues.
+- Serve chilled with grilled brioche sprinkled with icing sugar, or alongside fresh berries and meringues.
 
 ## Storage
 - Keeps refrigerated for 3 days in an airtight container.

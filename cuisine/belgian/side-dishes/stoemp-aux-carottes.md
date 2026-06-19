@@ -73,14 +73,14 @@ Stoemp aux carottes is the carrot-led Belgian variation on the traditional Bruss
 - **Generous butter:** Belgians do not stint on butter in stoemp. Three Belgian tablespoons is half a stick. Don't lighten this.
 
 ## Variations
-**Stoemp aux carottes et lard:** add 100 g of crisp bacon lardons at stage 4, the meat-eater variant.
-**Stoemp aux carottes et romarin:** swap thyme for rosemary leaves, more aromatic.
-**Stoemp aux carottes et ail rôti:** add the squeezed flesh of a whole roasted garlic head at stage 3, the Brussels modern variant.
-**Stoemp aux navets:** swap carrots for diced turnips (kept in stoemp aux navets folder; rural Flemish variant).
-**Stoemp à la moutarde:** add 1 tablespoon of grainy Dijon mustard at stage 4, the modern brasserie variant.
+- **Stoemp aux carottes et lard:** add 100 g of crisp bacon lardons at stage 4, the meat-eater variant.
+- **Stoemp aux carottes et romarin:** swap thyme for rosemary leaves, more aromatic.
+- **Stoemp aux carottes et ail rôti:** add the squeezed flesh of a whole roasted garlic head at stage 3, the Brussels modern variant.
+- **Stoemp aux navets:** swap carrots for diced turnips (kept in stoemp aux navets folder; rural Flemish variant).
+- **Stoemp à la moutarde:** add 1 tablespoon of grainy Dijon mustard at stage 4, the modern brasserie variant.
 
 ## Serving
-Alongside grilled bratwurst at a Belgian Sunday lunch · with boudin noir as a winter brasserie classic · with slow-roast pork belly · with grilled black pudding · at a Belgian Christmas-week family meal · paired with a glass of Belgian dubbel.
+- Alongside grilled bratwurst at a Belgian Sunday lunch · with boudin noir as a winter brasserie classic · with slow-roast pork belly · with grilled black pudding · at a Belgian Christmas-week family meal · paired with a glass of Belgian dubbel.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a splash of milk or cream.

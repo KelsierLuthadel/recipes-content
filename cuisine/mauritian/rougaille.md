@@ -70,12 +70,12 @@ Rougaille is the workhorse tomato sauce of Mauritian Creole cooking, used as a c
 - **Tomato quality:** if your tomatoes are pale and watery, supplement with an extra spoon of tomato paste; out-of-season tinned plum tomatoes are better than poor fresh ones.
 
 ## Variations
-**Rougaille poisson sale:** Replace the sausage with 300 g salt cod (soaked overnight, drained, flaked) added in Stage 4. A classic of the Mauritian east coast.
-**Rougaille zef:** Crack 4-6 eggs into divots in the sauce in the final 5 minutes and cover until just set. Breakfast on the island.
-**Rougaille boucane:** Use 250 g smoked dried meat (boucane) or lardons in place of sausage for a deeper, smokier sauce.
+- **Rougaille poisson sale:** Replace the sausage with 300 g salt cod (soaked overnight, drained, flaked) added in Stage 4. A classic of the Mauritian east coast.
+- **Rougaille zef:** Crack 4-6 eggs into divots in the sauce in the final 5 minutes and cover until just set. Breakfast on the island.
+- **Rougaille boucane:** Use 250 g smoked dried meat (boucane) or lardons in place of sausage for a deeper, smokier sauce.
 
 ## Serving
-Serve over plain steamed white rice. A side of sauteed bredes (chayote tops, watercress or spinach with garlic), a small bowl of pickled chilli or chatini pomme d'amour (raw tomato chutney) and a wedge of lime complete the plate.
+- Serve over plain steamed white rice. A side of sauteed bredes (chayote tops, watercress or spinach with garlic), a small bowl of pickled chilli or chatini pomme d'amour (raw tomato chutney) and a wedge of lime complete the plate.
 
 ## Storage
 - Keeps 3 days refrigerated. The sauce thickens on chilling and reheats beautifully.

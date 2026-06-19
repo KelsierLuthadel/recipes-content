@@ -82,13 +82,13 @@ Jalapeño cheese grits is one of Texas's most beloved side dishes and a Texan-So
 - **Eat immediately:** grits firm up quickly.
 
 ## Variations
-**Shrimp and grits:** top with sautéed shrimp in butter-garlic-lemon sauce; the traditional Southern combination.
-**Smoked gouda:** swap Monterey Jack for smoked gouda; gives a smokier richer version.
-**With chorizo:** add 200 g of cooked crumbled chorizo; gives spice depth.
-**With sun-dried tomato:** add 50 g of chopped sun-dried tomato; Texan-Italian touch.
+- **Shrimp and grits:** top with sautéed shrimp in butter-garlic-lemon sauce; the traditional Southern combination.
+- **Smoked gouda:** swap Monterey Jack for smoked gouda; gives a smokier richer version.
+- **With chorizo:** add 200 g of cooked crumbled chorizo; gives spice depth.
+- **With sun-dried tomato:** add 50 g of chopped sun-dried tomato; Texan-Italian touch.
 
 ## Serving
-Alongside chicken-fried steak, fried eggs, shrimp, BBQ. As breakfast, lunch or dinner side. With sweet tea or cold beer.
+- Alongside chicken-fried steak, fried eggs, shrimp, BBQ. As breakfast, lunch or dinner side. With sweet tea or cold beer.
 
 ## Storage
 - Best eaten fresh; firms up on standing.

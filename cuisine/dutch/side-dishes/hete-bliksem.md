@@ -87,17 +87,17 @@ Hete bliksem ("hot lightning") is the apple-and-potato variant of stamppot, nati
 - **Rural roots:** this is country home cooking from the eastern Netherlands. Modern Amsterdam restaurants do refined versions; the rural version is hearty and unfussy.
 
 ## Variations
-**Hete bliksem met rookworst:** the traditional pairing, a whole smoked Gelderse rookworst sausage on top.
-**Hete bliksem met bloedworst:** with a thick slice of pan-fried black pudding alongside, the rural Twente variant.
-**Sweet hete bliksem (modern dessert variant):** skip the bacon and salt; add 50 g brown sugar to the apples; serve with vanilla ice cream as a Dutch take on apple crumble.
-**Hete bliksem with prunes:** add 50 g pitted prunes to the apple cook, the rural Achterhoek variant.
-**Hete bliksem with quince:** swap half the apples for poached quince, the autumn variant.
-**Vegetarian hete bliksem:** skip the bacon; use 2 tablespoons of butter; serve with a fried egg on top.
-**Hete bliksem with sausage and pear:** swap half the apples for sliced pear; serve with rookworst, the Limburg variant.
-**Quick weeknight hete bliksem:** use frozen mash (good quality) + sliced apples microwaved 4 minutes + crisp bacon - 15 minutes total.
+- **Hete bliksem met rookworst:** the traditional pairing, a whole smoked Gelderse rookworst sausage on top.
+- **Hete bliksem met bloedworst:** with a thick slice of pan-fried black pudding alongside, the rural Twente variant.
+- **Sweet hete bliksem (modern dessert variant):** skip the bacon and salt; add 50 g brown sugar to the apples; serve with vanilla ice cream as a Dutch take on apple crumble.
+- **Hete bliksem with prunes:** add 50 g pitted prunes to the apple cook, the rural Achterhoek variant.
+- **Hete bliksem with quince:** swap half the apples for poached quince, the autumn variant.
+- **Vegetarian hete bliksem:** skip the bacon; use 2 tablespoons of butter; serve with a fried egg on top.
+- **Hete bliksem with sausage and pear:** swap half the apples for sliced pear; serve with rookworst, the Limburg variant.
+- **Quick weeknight hete bliksem:** use frozen mash (good quality) + sliced apples microwaved 4 minutes + crisp bacon - 15 minutes total.
 
 ## Serving
-At a Dutch farm-kitchen winter dinner (the traditional setting; eastern Netherlands, October to March) · at a Dutch family Sunday lunch · at a Twente or Achterhoek pub · at a Dutch Christmas Eve · at a rural Dutch harvest celebration · at home as a cold-weather side or a substantial main · paired with rookworst, black pudding, or a grilled pork chop.
+- At a Dutch farm-kitchen winter dinner (the traditional setting; eastern Netherlands, October to March) · at a Dutch family Sunday lunch · at a Twente or Achterhoek pub · at a Dutch Christmas Eve · at a rural Dutch harvest celebration · at home as a cold-weather side or a substantial main · paired with rookworst, black pudding, or a grilled pork chop.
 
 ## Storage
 - Refrigerates 3 days. Reheats well in a pan with a small splash of milk and a touch of butter.

@@ -84,7 +84,7 @@ Papanași are the deep-fried showstopper of Romanian dessert tables, the dish ev
 - **Boiled papanași (cu cartofi):** a country version with a potato base, simmered not fried.
 
 ## Serving
-At once · hot, with cold sour cream and cold jam · with a strong black coffee · at the end of a heavy meal · with a small glass of cherry rachiu.
+- At once · hot, with cold sour cream and cold jam · with a strong black coffee · at the end of a heavy meal · with a small glass of cherry rachiu.
 
 ## Storage
 - Best eaten the moment they leave the oil; do not store.

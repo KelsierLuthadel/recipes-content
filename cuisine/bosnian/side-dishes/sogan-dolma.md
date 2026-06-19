@@ -111,7 +111,7 @@ Sogan dolma is the most patient dish in the Bosnian kitchen: large yellow onions
 - **With cabbage instead of onion:** the technique transfers directly to blanched cabbage leaves (sarma).
 
 ## Serving
-Warm on a wide platter · with soured cream on top · with crusty bread to mop the sauce · alongside a green salad · with a small glass of rakija
+- Warm on a wide platter · with soured cream on top · with crusty bread to mop the sauce · alongside a green salad · with a small glass of rakija
 
 ## Storage
 - Keeps refrigerated 4 days; the flavour deepens overnight.

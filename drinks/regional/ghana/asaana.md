@@ -61,7 +61,7 @@ Asaana is the fermented corn drink of southern Ghana, traditionally made from fe
 - **Adult version:** Stir in 50 ml dark rum per litre.
 
 ## Serving
-Serve very cold in tall glasses over ice · poured into plastic cups at family gatherings · alongside bofrot or kose at a funeral · with a meat pie for a snack pair.
+- Serve very cold in tall glasses over ice · poured into plastic cups at family gatherings · alongside bofrot or kose at a funeral · with a meat pie for a snack pair.
 
 ## Storage
 - Keeps 3 days refrigerated

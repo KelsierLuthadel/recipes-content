@@ -36,9 +36,9 @@ Za'atar is two things in one word: the wild Levantine herb (Origanum syriacum, s
 - **Salt level.** Adjust to taste; some commercial blends are over-salted to mask weak herbs.
 
 ## Serving
-Use in: manakish bread topping, drizzled with olive oil for bread dipping, scattered on hummus, scattered on labneh, in roast chicken rubs, on grilled vegetables, in salad dressings
-Typical ratio: 1 to 2 teaspoons per portion
-Application: mixed with olive oil for spreads; scattered straight from the jar for finishing
+- Use in: manakish bread topping, drizzled with olive oil for bread dipping, scattered on hummus, scattered on labneh, in roast chicken rubs, on grilled vegetables, in salad dressings
+- Typical ratio: 1 to 2 teaspoons per portion
+- Application: mixed with olive oil for spreads; scattered straight from the jar for finishing
 
 ## Storage
 - Store in an airtight glass jar in a cool dark cupboard

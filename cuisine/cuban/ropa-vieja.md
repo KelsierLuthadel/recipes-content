@@ -121,13 +121,13 @@ Ropa vieja (literally "old clothes", named for the shredded texture that resembl
 - **Olives and capers are Cuban:** the brininess is essential.
 
 ## Variations
-**Vaca frita (the related fried cousin):** make the cooked shredded beef the night before; the next day, fry the shredded beef in a screaming-hot pan with onions and citrus till the strands crisp. See vaca frita recipe.
-**Spicier ropa vieja:** double the Aleppo pepper and add 2 chopped fresh chillies; common Cuban-Latin variation.
-**With pumpkin:** add 200 g of cubed pumpkin to the sauce in stage 5; gives a slight sweetness and extra body.
-**Quick weeknight version:** skip the long simmer; use pressure cooker (45 minutes) or slow cooker (8 hours low) for the beef tenderising stage.
+- **Vaca frita (the related fried cousin):** make the cooked shredded beef the night before; the next day, fry the shredded beef in a screaming-hot pan with onions and citrus till the strands crisp. See vaca frita recipe.
+- **Spicier ropa vieja:** double the Aleppo pepper and add 2 chopped fresh chillies; common Cuban-Latin variation.
+- **With pumpkin:** add 200 g of cubed pumpkin to the sauce in stage 5; gives a slight sweetness and extra body.
+- **Quick weeknight version:** skip the long simmer; use pressure cooker (45 minutes) or slow cooker (8 hours low) for the beef tenderising stage.
 
 ## Serving
-On wide plates with white rice, black beans, sweet plantains and salad, the classic Cuban "vianda" plate. A glass of cold Cristal beer or fresh mojito. Often part of a Cuban family Sunday lunch.
+- On wide plates with white rice, black beans, sweet plantains and salad, the classic Cuban "vianda" plate. A glass of cold Cristal beer or fresh mojito. Often part of a Cuban family Sunday lunch.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens significantly overnight (often considered better the next day).

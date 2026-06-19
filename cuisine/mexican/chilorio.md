@@ -108,13 +108,13 @@ Chilorio is the iconic Sinaloan slow-cooked spiced pork and a beloved Northern M
 - **Make ahead:** chilorio is famously better after 24 hours in the fridge; the flavours deepen.
 
 ## Variations
-**With chocolate (chilorio mole-leaning):** add 30 g of Mexican chocolate to the paste; gives a richer, mole-leaning version.
-**Spicier:** add 2 chopped chiles de árbol to the paste; properly Sinaloan fierce.
-**Slow-cooker chilorio:** cook the pork in a slow-cooker for 8 hours on low instead of 75 minutes on stovetop.
-**Beef version:** swap the pork for beef chuck; gives a different flavour but the same technique.
+- **With chocolate (chilorio mole-leaning):** add 30 g of Mexican chocolate to the paste; gives a richer, mole-leaning version.
+- **Spicier:** add 2 chopped chiles de árbol to the paste; properly Sinaloan fierce.
+- **Slow-cooker chilorio:** cook the pork in a slow-cooker for 8 hours on low instead of 75 minutes on stovetop.
+- **Beef version:** swap the pork for beef chuck; gives a different flavour but the same technique.
 
 ## Serving
-For breakfast over warm flour tortillas with fried eggs. As taco or burrito filling. As a dinner over rice. Drink: cold Pacifico, Tecate, or Sinaloan beer. With fresh aguas frescas.
+- For breakfast over warm flour tortillas with fried eggs. As taco or burrito filling. As a dinner over rice. Drink: cold Pacifico, Tecate, or Sinaloan beer. With fresh aguas frescas.
 
 ## Storage
 - Keeps refrigerated 1 week; flavour deepens significantly.

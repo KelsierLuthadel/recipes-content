@@ -33,9 +33,9 @@ The most essential Indian yogurt-based side and the traditional cooling counter 
 - Chill the raita for at least 20 minutes before serving to allow the flavours to come together.
 
 ## Serving
-Serve with: spicy curries, biryanis, grilled spiced meats, or as a dip with poppadums and flatbreads
-Temperature: chilled
-Amount: a small bowl or a few spoonfuls per person as a condiment
+- Serve with: spicy curries, biryanis, grilled spiced meats, or as a dip with poppadums and flatbreads
+- Temperature: chilled
+- Amount: a small bowl or a few spoonfuls per person as a condiment
 
 ## Storage
 - Keeps in the fridge for up to 2 days in an airtight container.

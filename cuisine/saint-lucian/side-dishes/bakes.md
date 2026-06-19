@@ -52,7 +52,7 @@ Bakes are the Eastern Caribbean's version of a yeasted fried bread, eaten across
 - **Eat warm:** Bakes are best within 30 minutes of frying. Cold bakes can be split, toasted briefly, and stuffed.
 
 ## Serving
-Serve warm with butter and a small dish of saltfish or curried chickpeas. Also good alongside any saucy main as a sopping bread.
+- Serve warm with butter and a small dish of saltfish or curried chickpeas. Also good alongside any saucy main as a sopping bread.
 
 ## Storage
 - Best the same day.

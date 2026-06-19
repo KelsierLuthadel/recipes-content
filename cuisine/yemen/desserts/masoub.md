@@ -72,13 +72,13 @@ Masoub is one of Yemen's most beloved sweet dishes and a particular favourite of
 - **Cardamom is the spice profile:** the cardamom is what makes masoub Yemeni rather than generic banana pudding. Don't skip.
 
 ## Variations
-**Date-and-banana masoub:** add 100 g of chopped dates to the warm pudding before serving; gives a sweeter denser version.
-**Cream-rich masoub:** swap the milk for single cream; gives a richer dessert version. Common at fancy Yemeni restaurants.
-**Cooked masoub (slightly different):** bake the mixed bread-banana-milk-butter-honey in a small dish at 180°C / 350°F for 25 minutes till the top is golden; gives a bread-pudding texture. Less traditional but excellent.
-**Coconut masoub:** add 50 g of desiccated coconut to the mix; gives a tropical Yemeni variation.
+- **Date-and-banana masoub:** add 100 g of chopped dates to the warm pudding before serving; gives a sweeter denser version.
+- **Cream-rich masoub:** swap the milk for single cream; gives a richer dessert version. Common at fancy Yemeni restaurants.
+- **Cooked masoub (slightly different):** bake the mixed bread-banana-milk-butter-honey in a small dish at 180°C / 350°F for 25 minutes till the top is golden; gives a bread-pudding texture. Less traditional but excellent.
+- **Coconut masoub:** add 50 g of desiccated coconut to the mix; gives a tropical Yemeni variation.
 
 ## Serving
-In wide bowls with the toppings scattered generously. Warm, with strong sweet milky tea (Yemeni karak-style) or Yemeni qishr (cardamom coffee). As dessert after a Yemeni meal, as a sweet breakfast, or as iftar during Ramadan. Children love it; adults love it too.
+- In wide bowls with the toppings scattered generously. Warm, with strong sweet milky tea (Yemeni karak-style) or Yemeni qishr (cardamom coffee). As dessert after a Yemeni meal, as a sweet breakfast, or as iftar during Ramadan. Children love it; adults love it too.
 
 ## Storage
 - Best eaten warm and fresh.

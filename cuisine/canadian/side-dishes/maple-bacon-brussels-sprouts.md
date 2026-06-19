@@ -85,16 +85,16 @@ Maple-bacon Brussels sprouts is the modern Canadian side dish that's elbowed its
 - **Don't overcook the sprouts:** mushy sprouts in maple syrup is what gives Brussels sprouts a bad reputation. Tender-crisp is the goal.
 
 ## Variations
-**Maple-bacon Brussels sprouts with pecans (Christmas variant):** add 80 g toasted pecans at the end with the bacon, the classic Canadian Christmas variation.
-**Maple-glazed sprouts (vegetarian):** skip the bacon; use 3 tablespoons of olive oil and brown the sprouts in that. Finish with the same maple glaze, plus 2 tablespoons toasted walnuts.
-**Maple-bacon sprouts with chili flakes (modern):** double the chili flakes and add a tablespoon of gochujang or sriracha to the glaze, the modern restaurant variant.
-**Sprouts with maple-balsamic glaze:** swap the vinegar for aged balsamic, sweeter, more Italian-Canadian.
-**Maple-bacon sprouts with goat cheese (modern):** crumble 80 g of good goat cheese over the top after plating, the cheese-shop variant.
-**Brussels sprout salad (cold variant):** shave raw sprouts thin; toss with the cooled maple-bacon dressing, toasted pecans, and shredded cheddar, the cold-buffet version.
-**Maple-bacon sprouts on toast (the modern small-plate):** spread the warm sprouts over a slice of grilled sourdough with whipped ricotta, the modern Canadian bistro starter.
+- **Maple-bacon Brussels sprouts with pecans (Christmas variant):** add 80 g toasted pecans at the end with the bacon, the classic Canadian Christmas variation.
+- **Maple-glazed sprouts (vegetarian):** skip the bacon; use 3 tablespoons of olive oil and brown the sprouts in that. Finish with the same maple glaze, plus 2 tablespoons toasted walnuts.
+- **Maple-bacon sprouts with chili flakes (modern):** double the chili flakes and add a tablespoon of gochujang or sriracha to the glaze, the modern restaurant variant.
+- **Sprouts with maple-balsamic glaze:** swap the vinegar for aged balsamic, sweeter, more Italian-Canadian.
+- **Maple-bacon sprouts with goat cheese (modern):** crumble 80 g of good goat cheese over the top after plating, the cheese-shop variant.
+- **Brussels sprout salad (cold variant):** shave raw sprouts thin; toss with the cooled maple-bacon dressing, toasted pecans, and shredded cheddar, the cold-buffet version.
+- **Maple-bacon sprouts on toast (the modern small-plate):** spread the warm sprouts over a slice of grilled sourdough with whipped ricotta, the modern Canadian bistro starter.
 
 ## Serving
-At a Canadian Thanksgiving table (the traditional setting; second Monday of October) · at a Canadian Christmas dinner · at a Vancouver Island Sunday roast · at a Toronto modern-Canadian gastropub alongside steak frites · at a Quebec sugar-shack spring feast · at home as a weeknight side with grilled chicken or salmon · paired with a roast turkey, glazed ham, or [Cedar-plank salmon](../cedar-plank-salmon.md).
+- At a Canadian Thanksgiving table (the traditional setting; second Monday of October) · at a Canadian Christmas dinner · at a Vancouver Island Sunday roast · at a Toronto modern-Canadian gastropub alongside steak frites · at a Quebec sugar-shack spring feast · at home as a weeknight side with grilled chicken or salmon · paired with a roast turkey, glazed ham, or [Cedar-plank salmon](../cedar-plank-salmon.md).
 
 ## Storage
 - Refrigerates 3 days. Reheat in a hot pan with a touch of oil to refresh the crisp; or in a 200°C oven for 8 minutes.

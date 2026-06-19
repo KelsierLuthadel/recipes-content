@@ -87,15 +87,15 @@ This is the baked-pasta dish where salami goes into the sauce instead of on a sa
 - **Rest Time:** The 5-minute rest is crucial; it allows the layers to set, making serving much cleaner.
 
 ## Variations
-**Add Garlic:** Include 2 crushed garlic cloves in the oil with the courgettes.
-**Different Salami:** Substitute with pepperoni or soppressata for different flavor profiles.
-**Mushroom Version:** Add 150 grams sliced button mushrooms (séparé from courgettes) to the mix.
-**Spicy Heat:** Add ½ teaspoon chilli flakes to the béchamel.
+- **Add Garlic:** Include 2 crushed garlic cloves in the oil with the courgettes.
+- **Different Salami:** Substitute with pepperoni or soppressata for different flavor profiles.
+- **Mushroom Version:** Add 150 grams sliced button mushrooms (séparé from courgettes) to the mix.
+- **Spicy Heat:** Add ½ teaspoon chilli flakes to the béchamel.
 
 ## Serving
-Serve as: Hot as a main course (serve directly from the dish), warm as a side, or cold as a pasta salad
-Garnish with: Fresh parsley, cracked black pepper
-Pair with: Light red wine (Chianti) or white wine (Pinot Grigio)
+- Serve as: Hot as a main course (serve directly from the dish), warm as a side, or cold as a pasta salad
+- Garnish with: Fresh parsley, cracked black pepper
+- Pair with: Light red wine (Chianti) or white wine (Pinot Grigio)
 
 ## Storage
 - Refrigerate leftover baked pasta in an airtight container for up to 3 days

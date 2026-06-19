@@ -52,7 +52,7 @@ Dalo (taro) is the staple root of Fiji, eaten more often than any other carbohyd
 - **With chilli:** mix a finely chopped red chilli into the coconut cream before rubbing.
 
 ## Serving
-Serve hot in chunks · with lime wedges alongside · with grilled fish or kokoda · with palusami and lovo meat · with Indo-Fijian curry as the starch · with a fresh tomato and chilli relish.
+- Serve hot in chunks · with lime wedges alongside · with grilled fish or kokoda · with palusami and lovo meat · with Indo-Fijian curry as the starch · with a fresh tomato and chilli relish.
 
 ## Storage
 - Refrigerate 3 days, well wrapped; the texture firms when cold.

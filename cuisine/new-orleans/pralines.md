@@ -60,7 +60,7 @@ The recipe is straightforward in principle and tricky in practice: it is a candy
 - **Praline ice cream:** finely chop a few cooled pralines and fold into vanilla ice cream in the final minute of churning.
 
 ## Serving
-A praline is a sweet snack rather than a dessert in its own right; eat one with coffee at the end of a meal, or as a treat with a glass of cold milk. New Orleans pralines are sold to tourists from sidewalk stands; a serious one can buy a small box and eat them all the way back to the hotel.
+- A praline is a sweet snack rather than a dessert in its own right; eat one with coffee at the end of a meal, or as a treat with a glass of cold milk. New Orleans pralines are sold to tourists from sidewalk stands; a serious one can buy a small box and eat them all the way back to the hotel.
 
 ## Storage
 - Keeps 2 weeks in an airtight tin at room temperature. Do not refrigerate; the moisture turns them sticky.

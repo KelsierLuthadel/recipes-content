@@ -50,7 +50,7 @@ Neapolitan Easter sweet: little fried half-moons of sweet pasta dough stuffed wi
 - Heat the oil to smoking point (180-190°C) before frying; the strong heat ensures the exteriors become crisp and golden quickly before the filling overheats
 
 ## Serving
-Arrange the warm fried pasta pieces on a decorative platter and dust generously with icing sugar, creating a beautiful white presentation. They are best served warm and can be accompanied by a small glass of Amaretto liqueur or sweet Vin Santo wine. These are equally at home served as petit fours with coffee or as an elegant dessert course.
+- Arrange the warm fried pasta pieces on a decorative platter and dust generously with icing sugar, creating a beautiful white presentation. They are best served warm and can be accompanied by a small glass of Amaretto liqueur or sweet Vin Santo wine. These are equally at home served as petit fours with coffee or as an elegant dessert course.
 
 ## Storage
 Best served warm, shortly after frying. The unfried, filled pasta can be prepared up to 2 hours ahead and kept covered in the refrigerator until frying. Do not freeze as the filling becomes grainy. Fried mezzelune can be reheated gently in a 180°C oven for 3-4 minutes if made an hour or two in advance, but are best served freshly fried.

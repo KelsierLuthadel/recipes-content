@@ -86,7 +86,7 @@ Utopenci - literally "drowned men" - are the Czech pickled sausage tradition: lo
 - **Wait the full two weeks:** Eating utopenci after a few days gives raw vinegar-soaked sausages. Two weeks is when the flavours soften into the round mellow snack that's the point.
 
 ## Serving
-Czech pub snack. A plate of utopenci, a basket of dark rye bread, a slab of butter, mustard, gherkins, and a glass of pilsner. The whole arrangement, no shortcuts.
+- Czech pub snack. A plate of utopenci, a basket of dark rye bread, a slab of butter, mustard, gherkins, and a glass of pilsner. The whole arrangement, no shortcuts.
 
 ## Storage
 - Refrigerated in the brine: 2 months.

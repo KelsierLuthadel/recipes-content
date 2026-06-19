@@ -89,14 +89,14 @@ Cepelinai (named for their resemblance to the Zeppelin airships of the early twe
 - **Make them big:** the traditional size is large, one or two fills a person. Small dumplings are not the right thing.
 
 ## Variations
-**Curd-cheese filling (varškės cepelinai):** swap the pork for 300 g fresh curd cheese mixed with an egg yolk and dill, the summer version, served with sour cream and chives.
-**Mushroom filling:** sauté 300 g chopped wild mushrooms with onion until dry; use in place of the pork.
-**Lighter topping:** skip the bacon, use butter-fried onion with crispy breadcrumbs.
-**Beef-and-pork mix:** half pork half beef makes a firmer, more savoury filling.
-**Sour-cream-and-cottage-cheese sauce:** mix sour cream with 100 g cottage cheese for a thicker topping.
+- **Curd-cheese filling (varškės cepelinai):** swap the pork for 300 g fresh curd cheese mixed with an egg yolk and dill, the summer version, served with sour cream and chives.
+- **Mushroom filling:** sauté 300 g chopped wild mushrooms with onion until dry; use in place of the pork.
+- **Lighter topping:** skip the bacon, use butter-fried onion with crispy breadcrumbs.
+- **Beef-and-pork mix:** half pork half beef makes a firmer, more savoury filling.
+- **Sour-cream-and-cottage-cheese sauce:** mix sour cream with 100 g cottage cheese for a thicker topping.
 
 ## Serving
-Serve as Sunday lunch · with cold beet soup šaltibarščiai before · with sauerkraut alongside · with a glass of dark Lithuanian beer · at family gatherings and feast days · two per portion is the right amount.
+- Serve as Sunday lunch · with cold beet soup šaltibarščiai before · with sauerkraut alongside · with a glass of dark Lithuanian beer · at family gatherings and feast days · two per portion is the right amount.
 
 ## Storage
 - Eat fresh from the pot.

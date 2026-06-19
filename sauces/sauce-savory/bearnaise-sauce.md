@@ -52,7 +52,7 @@ Sauce Béarnaise is the building block for steak frites, the silky herbaceous eg
 - **Tarragon freshness:** Use fresh tarragon only; dried loses delicate, complex flavour.
 
 ## Serving
-Serve immediately with grilled or pan-fried steak,beef tournedos, and beef fondue. Also excellent with roasted veal and poultry.
+- Serve immediately with grilled or pan-fried steak,beef tournedos, and beef fondue. Also excellent with roasted veal and poultry.
 
 ## Storage
 - Best eaten immediately after preparation.

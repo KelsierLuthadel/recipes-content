@@ -52,7 +52,7 @@ Sweet and sour sauce is the building block for the bright red-and-green dipping 
 - **Texture:** The finished sauce should be thick enough to cling to food; adjust liquid if needed.
 
 ## Serving
-Serve cold or at room temperature as a dipping sauce for fried scampi, squid tempura, spring rolls, and dim sum. Also excellent with sashimi, raw fish, ham, and cured meats.
+- Serve cold or at room temperature as a dipping sauce for fried scampi, squid tempura, spring rolls, and dim sum. Also excellent with sashimi, raw fish, ham, and cured meats.
 
 ## Storage
 - Keeps refrigerated for 5-7 days in an airtight container.

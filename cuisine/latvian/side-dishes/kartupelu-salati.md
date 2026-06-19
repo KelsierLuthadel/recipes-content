@@ -78,7 +78,7 @@ Where rasols is the festive layered salad with herring, kartupeļu salāti is th
 - **Vegan version:** Replace the sour cream with thick cashew cream or plant yoghurt and skip the egg; add extra dill and a teaspoon of capers.
 
 ## Serving
-Serve cool alongside grilled sausage, smoked fish, cold cuts, fried karbonāde, or as part of a midsummer (Jāņi) table. A glass of cold kefir or beer.
+- Serve cool alongside grilled sausage, smoked fish, cold cuts, fried karbonāde, or as part of a midsummer (Jāņi) table. A glass of cold kefir or beer.
 
 ## Storage
 - Keeps 3 days refrigerated; eats best on day two.

@@ -71,11 +71,11 @@ Smalec is the Polish lard spread that turns up at every Krakow milk bar and bar 
 - **Apple is the secret:** A small amount of tart apple gives a faint sweetness that balances the salt and smoke. Don't skip.
 
 ## Variations
-**Smalec ze skwarkami:** A larger proportion of pork belly to back-fat gives more crackling.
-**Vegetarian (not traditional):** Mash white beans with caramelised onion, garlic, marjoram and a little smoked paprika. Different dish, similar role.
+- **Smalec ze skwarkami:** A larger proportion of pork belly to back-fat gives more crackling.
+- **Vegetarian (not traditional):** Mash white beans with caramelised onion, garlic, marjoram and a little smoked paprika. Different dish, similar role.
 
 ## Serving
-Serve with: Dark rye, sea salt, pickled cucumbers (ogórki kiszone), pickled mushrooms, sliced raw onion. Cold vodka or rye beer.
+- Serve with: Dark rye, sea salt, pickled cucumbers (ogórki kiszone), pickled mushrooms, sliced raw onion. Cold vodka or rye beer.
 
 ## Storage
 - Keeps 3 weeks refrigerated, sealed.

@@ -84,13 +84,13 @@ The New York strip steak is the traditional NY steakhouse cut and one of America
 - **Rest 8-10 min:** for juicy steak.
 
 ## Variations
-**With Béarnaise:** classic French sauce alongside.
-**Steak au poivre:** crust with crushed peppercorns; cream sauce.
-**With shallot-red wine sauce:** classic bistro.
-**Pittsburgh rare:** very dark outside, very rare inside.
+- **With Béarnaise:** classic French sauce alongside.
+- **Steak au poivre:** crust with crushed peppercorns; cream sauce.
+- **With shallot-red wine sauce:** classic bistro.
+- **Pittsburgh rare:** very dark outside, very rare inside.
 
 ## Serving
-At the NY steakhouse table. With red wine, classic sides.
+- At the NY steakhouse table. With red wine, classic sides.
 
 ## Storage
 - Best fresh.

@@ -71,7 +71,7 @@ Pljeskavica is the Serbian street meal and the Serbian grill-house headline act,
 - **Hajdučka.** A patty stuffed with smoked bacon and onion; the highland-bandit version.
 
 ## Serving
-On a warm board, tucked inside the halved lepinja with the patty wider than the bun · heap of chopped raw onion on top · spoon of kajmak melting into it · ajvar showing at the edges · pickled chilli on the side · cold beer or rakija
+- On a warm board, tucked inside the halved lepinja with the patty wider than the bun · heap of chopped raw onion on top · spoon of kajmak melting into it · ajvar showing at the edges · pickled chilli on the side · cold beer or rakija
 
 ## Storage
 - Raw shaped patties keep 24 hours refrigerated, separated by film; freeze 2 months

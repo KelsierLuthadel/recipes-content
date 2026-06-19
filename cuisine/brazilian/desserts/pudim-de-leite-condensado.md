@@ -100,17 +100,17 @@ Pudim de leite condensado (literally "condensed milk pudding"; sometimes pudim d
 - **Caramel goes dark amber:** not black. Pale caramel gives a sweet but boring pudim; properly dark caramel gives the deep bitter-sweet edge.
 
 ## Variations
-**Pudim de coco (coconut pudim):** swap the milk for full-fat coconut milk. Add 80 g desiccated coconut to the custard. Bahian variant.
-**Pudim de café (coffee pudim):** add 2 tablespoons strong espresso to the custard. Coffee-flavoured.
-**Pudim de chocolate:** add 4 tablespoons of unsweetened cocoa powder to the custard. Chocolate variant.
-**Pudim de leite com queijo (with cheese):** add 80 g grated mature Brazilian Catupiry or cream cheese. Surprising and very rich.
-**Pudim de microondas (microwave pudim):** controversial but real, bake in a microwave at 50% power for 25 minutes. Faster, denser, less elegant.
-**Pudim de banana:** add 2 mashed ripe bananas to the custard. Banana-flavoured.
-**Pudim de doce de leite:** swap caramel for dulce de leche sauce on top. The Argentine-Brazilian variant.
-**Pudim sem furo (smooth pudim):** strain the custard twice and bake at 150°C; gives a perfectly smooth top with no holes.
+- **Pudim de coco (coconut pudim):** swap the milk for full-fat coconut milk. Add 80 g desiccated coconut to the custard. Bahian variant.
+- **Pudim de café (coffee pudim):** add 2 tablespoons strong espresso to the custard. Coffee-flavoured.
+- **Pudim de chocolate:** add 4 tablespoons of unsweetened cocoa powder to the custard. Chocolate variant.
+- **Pudim de leite com queijo (with cheese):** add 80 g grated mature Brazilian Catupiry or cream cheese. Surprising and very rich.
+- **Pudim de microondas (microwave pudim):** controversial but real, bake in a microwave at 50% power for 25 minutes. Faster, denser, less elegant.
+- **Pudim de banana:** add 2 mashed ripe bananas to the custard. Banana-flavoured.
+- **Pudim de doce de leite:** swap caramel for dulce de leche sauce on top. The Argentine-Brazilian variant.
+- **Pudim sem furo (smooth pudim):** strain the custard twice and bake at 150°C; gives a perfectly smooth top with no holes.
 
 ## Serving
-At every Brazilian Sunday family lunch as the dessert (the traditional setting) · at every Brazilian birthday party · at every Brazilian wedding reception · at a Brazilian Christmas dinner · at a Brazilian funeral wake (a traditional comfort dessert) · at a Brazilian café as the dessert-of-the-day · at home as a weekend showpiece dessert · at any Brazilian restaurant menu.
+- At every Brazilian Sunday family lunch as the dessert (the traditional setting) · at every Brazilian birthday party · at every Brazilian wedding reception · at a Brazilian Christmas dinner · at a Brazilian funeral wake (a traditional comfort dessert) · at a Brazilian café as the dessert-of-the-day · at home as a weekend showpiece dessert · at any Brazilian restaurant menu.
 
 ## Storage
 - Refrigerates 5 days, well-wrapped.

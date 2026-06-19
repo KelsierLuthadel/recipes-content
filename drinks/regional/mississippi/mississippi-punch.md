@@ -51,7 +51,7 @@ The drink is bigger and easier-drinking than its strength suggests. Three half-o
 - **Without rum:** the original 1862 Jerry Thomas version did not always include rum (he listed it as optional). A two-spirit version (bourbon and brandy) is cleaner and more old-fashioned in taste.
 
 ## Serving
-A long afternoon drink. Goes well with light food (a salad, a sandwich, fried okra). One per person before dinner is plenty; two and you have started a session.
+- A long afternoon drink. Goes well with light food (a salad, a sandwich, fried okra). One per person before dinner is plenty; two and you have started a session.
 
 ## Storage
 The drink does not keep. Simple syrup keeps a month refrigerated. The spirits last indefinitely. Build to order.

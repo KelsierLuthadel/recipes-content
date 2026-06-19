@@ -104,13 +104,13 @@ Arroz de marisco (literally "seafood rice") is one of Portugal's most iconic coa
 - **Coriander generously:** Portuguese signature.
 
 ## Variations
-**With lobster (luxurious):** add 1 lobster tail split lengthwise; cook 5 minutes with the fish.
-**Spicier:** double the piri-piri.
-**Without octopus:** add more shrimp and fish.
-**Vegetarian (arroz de tomate vegetariano):** skip seafood; use vegetable stock; double the tomato + add chickpeas; closer to the related Portuguese arroz de tomate but heartier.
+- **With lobster (luxurious):** add 1 lobster tail split lengthwise; cook 5 minutes with the fish.
+- **Spicier:** double the piri-piri.
+- **Without octopus:** add more shrimp and fish.
+- **Vegetarian (arroz de tomate vegetariano):** skip seafood; use vegetable stock; double the tomato + add chickpeas; closer to the related Portuguese arroz de tomate but heartier.
 
 ## Serving
-In deep plates with the brothy rice ladled generously. Crusty bread for sopping. Cold Portuguese vinho verde or Sagres beer.
+- In deep plates with the brothy rice ladled generously. Crusty bread for sopping. Cold Portuguese vinho verde or Sagres beer.
 
 ## Storage
 - Best eaten fresh; seafood doesn't reheat well.

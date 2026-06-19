@@ -121,16 +121,16 @@ Börek are the Turkish pastry parcels that come in dozens of folds and fillings:
 - **Egg Wash Lightly:** Heavy egg wash creates thick, overly brown crust; light brushing creates golden, delicate surface.
 
 ## Variations
-**With Meat:** Add 100 grams ground lamb or beef to the khandrajo; brown it in the oil before adding vegetables.
-**With Cheese:** After the filling has cooled, mix 50 grams crumbled white cheese (feta or similar) into the khandrajo.
-**Spicier Version:** Add ½ teaspoon Aleppo pepper or red chilli flakes to the khandrajo during cooking.
-**With Fresh Herbs:** Mix 2 tablespoons finely chopped fresh mint or parsley into the cooled khandrajo.
+- **With Meat:** Add 100 grams ground lamb or beef to the khandrajo; brown it in the oil before adding vegetables.
+- **With Cheese:** After the filling has cooled, mix 50 grams crumbled white cheese (feta or similar) into the khandrajo.
+- **Spicier Version:** Add ½ teaspoon Aleppo pepper or red chilli flakes to the khandrajo during cooking.
+- **With Fresh Herbs:** Mix 2 tablespoons finely chopped fresh mint or parsley into the cooled khandrajo.
 
 ## Serving
-Perfect with: Yogurt-based sauce, fresh salad, afternoon tea, appetizer platters, light lunch
-Temperature: Warm (not piping hot)
-Ratio: 2-3 börek per person
-Context: Turkish appetizers, casual entertaining, lunch item, pastry platter
+- Perfect with: Yogurt-based sauce, fresh salad, afternoon tea, appetizer platters, light lunch
+- Temperature: Warm (not piping hot)
+- Ratio: 2-3 börek per person
+- Context: Turkish appetizers, casual entertaining, lunch item, pastry platter
 
 ## Storage
 - Refrigerate cooked börek in a sealed container for up to 3 days.

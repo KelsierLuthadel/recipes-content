@@ -88,13 +88,13 @@ Köfte is Turkey's most beloved meat dish and one of the country's most distinct
 - **Don't overcook:** 6-7 minutes total cooking gives properly juicy köfte; longer gives dry meat. Cook to just-done.
 
 ## Variations
-**Adana köfte:** shape into long sausages around flat metal skewers; grill over charcoal. The İzgara/Adana version is the most iconic; named after the city of Adana in southeast Turkey.
-**Urfa köfte:** similar to Adana but milder; less Aleppo pepper, more dried mint. From the city of Şanlıurfa.
-**Sulu köfte (köfte in sauce):** simmer the cooked köfte in a tomato sauce with vegetables; common home-cook version that turns the meatballs into a stew.
-**İçli köfte (stuffed bulgur shells):** shape bulgur-and-meat dough into hollow ovals; fill with spiced meat mince; deep-fry. The fancy köfte variation for special occasions.
+- **Adana köfte:** shape into long sausages around flat metal skewers; grill over charcoal. The İzgara/Adana version is the most iconic; named after the city of Adana in southeast Turkey.
+- **Urfa köfte:** similar to Adana but milder; less Aleppo pepper, more dried mint. From the city of Şanlıurfa.
+- **Sulu köfte (köfte in sauce):** simmer the cooked köfte in a tomato sauce with vegetables; common home-cook version that turns the meatballs into a stew.
+- **İçli köfte (stuffed bulgur shells):** shape bulgur-and-meat dough into hollow ovals; fill with spiced meat mince; deep-fry. The fancy köfte variation for special occasions.
 
 ## Serving
-On warm Turkish flatbread with all the traditional sides: sliced tomato, sliced cucumber, sliced red onion with sumac, plain thick yogurt, lemon wedges, fresh parsley and dill. Drink: ayran (the salted yogurt drink); rakı (the aniseed spirit; the traditional Turkish pairing); cold beer; or a glass of strong sweet tea after the meal.
+- On warm Turkish flatbread with all the traditional sides: sliced tomato, sliced cucumber, sliced red onion with sumac, plain thick yogurt, lemon wedges, fresh parsley and dill. Drink: ayran (the salted yogurt drink); rakı (the aniseed spirit; the traditional Turkish pairing); cold beer; or a glass of strong sweet tea after the meal.
 
 ## Storage
 - Best eaten fresh and warm.

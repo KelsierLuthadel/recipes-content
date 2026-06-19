@@ -81,14 +81,14 @@ Qagħaq tal-għasel ("rings of honey") are Malta's most iconic Christmas pastry,
 - **Slice thin:** the filling is dense and very sweet.
 
 ## Variations
-**Smaller rings:** make 4-6 smaller individual rings, perfect for gifts.
-**With orange flower water:** add 1 tablespoon orange flower water to the filling.
-**With pine nuts:** swap almonds for pine nuts.
-**Vegan version:** vegan butter, skip the egg.
-**With sesame seeds:** sprinkle sesame seeds on top before baking.
+- **Smaller rings:** make 4-6 smaller individual rings, perfect for gifts.
+- **With orange flower water:** add 1 tablespoon orange flower water to the filling.
+- **With pine nuts:** swap almonds for pine nuts.
+- **Vegan version:** vegan butter, skip the egg.
+- **With sesame seeds:** sprinkle sesame seeds on top before baking.
 
 ## Serving
-At every Maltese Christmas (the traditional setting; sold from late November through January at every Maltese bakery) · at a Maltese Christmas Eve dinner · sliced thin with tea or coffee on Christmas afternoon · as a Maltese New Year gift · at home throughout the festive season.
+- At every Maltese Christmas (the traditional setting; sold from late November through January at every Maltese bakery) · at a Maltese Christmas Eve dinner · sliced thin with tea or coffee on Christmas afternoon · as a Maltese New Year gift · at home throughout the festive season.
 
 ## Storage
 - Keeps in a sealed tin 3 weeks (improves over the first week).

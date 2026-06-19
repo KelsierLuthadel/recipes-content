@@ -87,13 +87,13 @@ Rolex is Uganda's beloved street food: a fresh-cooked vegetable omelette wrapped
 - **Vegetable variations:** the standard Kampala filling is onion, tomato and cabbage. Some stalls add carrot, green pepper, hot chilli or even cooked beans. Stay light on quantities; too much vegetable and the egg won't bind into a coherent omelette.
 
 ## Variations
-**Beef rolex:** add 2 tablespoons of pre-cooked diced beef or minced beef to the egg mixture. Common at lunch counters.
-**Avocado rolex:** sliced ripe avocado laid on top of the omelette before rolling. A modern Kampala upgrade.
-**Double rolex (kikomando):** two rolexes wrapped together with a generous layer of cooked beans between them. The properly enormous version sold near Makerere University.
-**Banana rolex:** chopped sweet matoke or banana folded into the omelette. A regional variation from rural Buganda; sweet and savoury at once.
+- **Beef rolex:** add 2 tablespoons of pre-cooked diced beef or minced beef to the egg mixture. Common at lunch counters.
+- **Avocado rolex:** sliced ripe avocado laid on top of the omelette before rolling. A modern Kampala upgrade.
+- **Double rolex (kikomando):** two rolexes wrapped together with a generous layer of cooked beans between them. The properly enormous version sold near Makerere University.
+- **Banana rolex:** chopped sweet matoke or banana folded into the omelette. A regional variation from rural Buganda; sweet and savoury at once.
 
 ## Serving
-Eat warm by hand, the paper wrap protecting your fingers from the hot oil and egg juices. Best with a hot chilli sauce on the side. Late-night Kampala rolex is one of the great street meals; it's also a brilliant weekend brunch made at home.
+- Eat warm by hand, the paper wrap protecting your fingers from the hot oil and egg juices. Best with a hot chilli sauce on the side. Late-night Kampala rolex is one of the great street meals; it's also a brilliant weekend brunch made at home.
 
 ## Storage
 - Best eaten immediately. A rolex doesn't reheat well; the omelette gets rubbery and the chapati goes leathery.

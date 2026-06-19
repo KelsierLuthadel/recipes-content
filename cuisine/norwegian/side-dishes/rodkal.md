@@ -68,7 +68,7 @@ Rødkål - "red cabbage" - is the Norwegian (and Danish, and Swedish - all of Sc
 - **Make ahead:** This dish is one of the few that genuinely improves overnight. The acids continue to mellow; the spices distribute fully.
 
 ## Serving
-Serve at Christmas dinner alongside pinnekjøtt (dried lamb ribs - the Norwegian Christmas main), roast pork (ribbe), or any rich winter game.
+- Serve at Christmas dinner alongside pinnekjøtt (dried lamb ribs - the Norwegian Christmas main), roast pork (ribbe), or any rich winter game.
 
 ## Storage
 - Refrigerates 1 week in a sealed jar.

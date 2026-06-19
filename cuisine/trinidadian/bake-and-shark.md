@@ -136,13 +136,13 @@ Bake and shark is Trinidad's most famous beach food and one of the great sandwic
 - **Make sauces ahead:** all three sauces can be made the day before; the flavours develop overnight.
 
 ## Variations
-**Chicken bake:** swap the fish for marinated chicken thigh; cook the same way. Common variation at Maracas Beach.
-**Vegetable bake:** swap the fish for a thick portobello mushroom or a slice of fried halloumi; vegetarian variation.
-**Spicier:** double the Scotch bonnet in all three sauces; pile in fresh chillies. Properly Trinidadian.
-**Mini bake-and-shark:** make smaller bakes (8 cm) and bite-sized fish pieces for a party-canapé version.
+- **Chicken bake:** swap the fish for marinated chicken thigh; cook the same way. Common variation at Maracas Beach.
+- **Vegetable bake:** swap the fish for a thick portobello mushroom or a slice of fried halloumi; vegetarian variation.
+- **Spicier:** double the Scotch bonnet in all three sauces; pile in fresh chillies. Properly Trinidadian.
+- **Mini bake-and-shark:** make smaller bakes (8 cm) and bite-sized fish pieces for a party-canapé version.
 
 ## Serving
-On a square of greaseproof paper or in a folded napkin (the proper Maracas Beach style); eat with your hands; the sandwich is meant to be messy. A cold local beer (Carib or Stag); or a fresh coconut water (the traditional Trinidadian beach drink).
+- On a square of greaseproof paper or in a folded napkin (the proper Maracas Beach style); eat with your hands; the sandwich is meant to be messy. A cold local beer (Carib or Stag); or a fresh coconut water (the traditional Trinidadian beach drink).
 
 ## Storage
 - Best eaten immediately while the bake is warm and crisp.

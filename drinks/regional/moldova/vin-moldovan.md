@@ -71,7 +71,7 @@ Moldova plants vines on roughly one-twentieth of its entire surface area, one of
 - **Sparkling Cricova:** see the separate recipe.
 
 ## Serving
-At any Moldovan family meal as a matter of course. Red with sarmale, tochitură, mititei. White with zeamă, river fish, summer salads. Sparkling Cricova for the toast. A small țuică shot to open the meal.
+- At any Moldovan family meal as a matter of course. Red with sarmale, tochitură, mititei. White with zeamă, river fish, summer salads. Sparkling Cricova for the toast. A small țuică shot to open the meal.
 
 ## Storage
 - Unopened bottles: a cool dark cellar, indefinite.

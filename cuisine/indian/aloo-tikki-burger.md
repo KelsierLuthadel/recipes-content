@@ -124,15 +124,15 @@ The aloo tikki burger is one of India's most iconic fast-food creations and the 
 - **Pan-fry, not deep-fry:** shallow oil gives the proper texture.
 
 ## Variations
-**McAloo style:** McDonald's India version uses a sweet-spicy tomato mayo (mix mayo + ketchup + chilli powder + sugar) in place of the chutneys.
-**With paneer:** add 100 g crumbled paneer to the patty.
-**With cheese slice:** add a slice of cheddar on top of the patty.
-**Spicier:** double the green chillies + a teaspoon of red chilli powder in the patty.
-**Without peas (smoother patty):** omit; gives a denser texture.
-**Sweet potato tikki:** swap half the potato for boiled mashed sweet potato.
+- **McAloo style:** McDonald's India version uses a sweet-spicy tomato mayo (mix mayo + ketchup + chilli powder + sugar) in place of the chutneys.
+- **With paneer:** add 100 g crumbled paneer to the patty.
+- **With cheese slice:** add a slice of cheddar on top of the patty.
+- **Spicier:** double the green chillies + a teaspoon of red chilli powder in the patty.
+- **Without peas (smoother patty):** omit; gives a denser texture.
+- **Sweet potato tikki:** swap half the potato for boiled mashed sweet potato.
 
 ## Serving
-At a Mumbai street stall reimagined. At a Delhi fast-food joint. At home with masala chips and lassi.
+- At a Mumbai street stall reimagined. At a Delhi fast-food joint. At home with masala chips and lassi.
 
 ## Storage
 - Patties (uncooked): refrigerate 1 day; freeze 2 months.

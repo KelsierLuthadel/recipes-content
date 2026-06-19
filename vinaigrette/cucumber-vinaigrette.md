@@ -68,17 +68,17 @@ Cucumber vinaigrette is the building block for summer plates and cold-fish suppe
 - **Quick Consumption:** Best used within hours; cucumber softens and herbs fade.
 
 ## Variations
-**With Dill:** Replace tarragon with fresh dill.
-**Cold Soup Base:** Puree cucumber for smooth, creamy dressing.
-**Wasabi Heat:** Add ¼ teaspoon fresh wasabi for clean heat.
-**With Lime:** Replace vinegar with fresh lime juice.
-**Extra Shallot:** Increase to 80 grams for more aromatics.
+- **With Dill:** Replace tarragon with fresh dill.
+- **Cold Soup Base:** Puree cucumber for smooth, creamy dressing.
+- **Wasabi Heat:** Add ¼ teaspoon fresh wasabi for clean heat.
+- **With Lime:** Replace vinegar with fresh lime juice.
+- **Extra Shallot:** Increase to 80 grams for more aromatics.
 
 ## Serving
-Use with: Cold green beans, raw mushrooms, poached fish, delicate lettuces, chilled vegetables
-Dressing ratio: 2-3 tablespoons per serving
-Temperature: Cold or room temperature
-Timing: Use within 2-4 hours
+- Use with: Cold green beans, raw mushrooms, poached fish, delicate lettuces, chilled vegetables
+- Dressing ratio: 2-3 tablespoons per serving
+- Temperature: Cold or room temperature
+- Timing: Use within 2-4 hours
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 1-2 days maximum

@@ -95,14 +95,14 @@ Roti came to Grenada from Trinidad and India, carried by indentured Indian worke
 - **Crush some chickpeas:** thickens the gravy and stops it leaking through the wrap.
 
 ## Variations
-**Chicken roti:** swap chickpeas for 600 g curried chicken thigh (bone-in, then shred off the bone).
-**Goat roti:** slow-cooked curried goat, the most prized filling.
-**Conch roti:** sliced curried conch, the seaside version.
-**Pumpkin roti:** add 300 g cubed pumpkin in stage 4; melts into the gravy.
-**With aloo pie sauce:** drizzle a thin tamarind-pepper sauce inside the wrap.
+- **Chicken roti:** swap chickpeas for 600 g curried chicken thigh (bone-in, then shred off the bone).
+- **Goat roti:** slow-cooked curried goat, the most prized filling.
+- **Conch roti:** sliced curried conch, the seaside version.
+- **Pumpkin roti:** add 300 g cubed pumpkin in stage 4; melts into the gravy.
+- **With aloo pie sauce:** drizzle a thin tamarind-pepper sauce inside the wrap.
 
 ## Serving
-With Grenadian pepper sauce · with mango chutney on the side · with a Solo or Shandy soft drink · wrapped in paper for lunch on the go · at a Friday lime.
+- With Grenadian pepper sauce · with mango chutney on the side · with a Solo or Shandy soft drink · wrapped in paper for lunch on the go · at a Friday lime.
 
 ## Storage
 - The cooked rotis keep 1 day; reheat briefly on a dry pan with a sprinkle of water.

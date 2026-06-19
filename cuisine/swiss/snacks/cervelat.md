@@ -61,7 +61,7 @@ Choose one method:
 - **Eat with bread, not in bread:** The Swiss tradition is sausage in one hand, bread in the other, alternating bites. The cut ends should be visible on the plate.
 
 ## Serving
-The campfire and football-stadium classic. Serve at a barbecue, after a walk, with a glass of cold lager or apple juice. Mustard, bread, sausage; that's the dish.
+- The campfire and football-stadium classic. Serve at a barbecue, after a walk, with a glass of cold lager or apple juice. Mustard, bread, sausage; that's the dish.
 
 ## Storage
 - Raw uncooked cervelat refrigerates a week, or freezes 2 months.

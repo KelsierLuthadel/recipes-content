@@ -99,13 +99,13 @@ Creole chicken fricassee is the Louisiana Creole adaptation of the classic Frenc
 - **Cream at the end:** doesn't curdle.
 
 ## Variations
-**With white meat:** swap thighs for breasts (cook 25 min only).
-**With andouille:** add sliced andouille for smokiness.
-**Without cream:** more rustic.
-**With dumplings:** drop biscuit dough on top in last 20 min.
+- **With white meat:** swap thighs for breasts (cook 25 min only).
+- **With andouille:** add sliced andouille for smokiness.
+- **Without cream:** more rustic.
+- **With dumplings:** drop biscuit dough on top in last 20 min.
 
 ## Serving
-Over rice with French bread. Sunday dinner.
+- Over rice with French bread. Sunday dinner.
 
 ## Storage
 - Keeps refrigerated 4 days.

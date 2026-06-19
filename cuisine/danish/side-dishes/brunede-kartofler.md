@@ -70,14 +70,14 @@ Brunede kartofler (literally "browned potatoes", though the name undersells the 
 - **Don't stir with a metal spoon:** scratches the potatoes. Swirl the pan or use a wooden / silicone spatula gently.
 
 ## Variations
-**With cream:** add 2 tablespoons of cream after the butter for a silkier glaze.
-**With honey:** swap half the sugar for honey; the Christmas-feast deluxe version.
-**With cinnamon:** add a pinch of ground cinnamon to the caramel; less traditional but lovely in autumn.
-**Smaller potatoes (kids' favourite):** the smaller the potato, the more glaze per bite.
-**Sweet potato version:** swap white potatoes for small sweet potatoes; gives a deeper colour and sweetness.
+- **With cream:** add 2 tablespoons of cream after the butter for a silkier glaze.
+- **With honey:** swap half the sugar for honey; the Christmas-feast deluxe version.
+- **With cinnamon:** add a pinch of ground cinnamon to the caramel; less traditional but lovely in autumn.
+- **Smaller potatoes (kids' favourite):** the smaller the potato, the more glaze per bite.
+- **Sweet potato version:** swap white potatoes for small sweet potatoes; gives a deeper colour and sweetness.
 
 ## Serving
-At every Danish Christmas Eve dinner (julestege) · at a Danish Christmas Day lunch with frikadeller · at Sunday roast with duck or pork · at a Danish family Easter dinner · alongside any roast meat at a Danish table where boiled potatoes alone would feel too plain.
+- At every Danish Christmas Eve dinner (julestege) · at a Danish Christmas Day lunch with frikadeller · at Sunday roast with duck or pork · at a Danish family Easter dinner · alongside any roast meat at a Danish table where boiled potatoes alone would feel too plain.
 
 ## Storage
 - Best fresh, the glaze sets and dulls as they cool.

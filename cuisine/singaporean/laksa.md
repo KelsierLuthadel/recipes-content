@@ -82,7 +82,7 @@ Laksa exists in many forms across Singapore, Malaysia and Indonesia; the Singapo
 - **Thick noodles:** Use the round rice vermicelli, not the thin angel-hair kind. Thick ones hold up in the broth.
 
 ## Serving
-Serve very hot. A small dish of extra chilli sauce alongside for those who want more heat. A Tiger beer is the traditional Singapore pairing.
+- Serve very hot. A small dish of extra chilli sauce alongside for those who want more heat. A Tiger beer is the traditional Singapore pairing.
 
 ## Storage
 - Best fresh. The broth refrigerates 3 days; cook noodles and prawns fresh.

@@ -69,7 +69,7 @@ Krambambulya is the Belarusian festive spirit, mentioned in 18th-century Grand D
 - **Citrus krambambulya.** Replace the lemon peel with a long strip of orange peel and 2 cardamom pods; a modern Minsk-bistro recipe.
 
 ## Serving
-Serve cold in small thimble glasses with a salty zakuski chaser · warmed to 40°C on winter evenings in ceramic mugs · at weddings, Christmas and any toast-worthy occasion · sipped slowly, never drunk in one gulp despite the small glass
+- Serve cold in small thimble glasses with a salty zakuski chaser · warmed to 40°C on winter evenings in ceramic mugs · at weddings, Christmas and any toast-worthy occasion · sipped slowly, never drunk in one gulp despite the small glass
 
 ## Storage
 - Keeps indefinitely in a tightly capped bottle in a cool dark cupboard

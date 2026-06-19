@@ -87,7 +87,7 @@ The samosa came to Fiji with the indentured labourers brought from India in the 
 - **Mini samosa:** halve the pastry rounds again for a one-bite party version.
 
 ## Serving
-Serve hot from the fryer · with green coriander-chilli chutney · with sweet tamarind sauce · with a glass of sweet milky tea · at a Fijian bus stand · at a Diwali table · alongside a plate of curry as the starter.
+- Serve hot from the fryer · with green coriander-chilli chutney · with sweet tamarind sauce · with a glass of sweet milky tea · at a Fijian bus stand · at a Diwali table · alongside a plate of curry as the starter.
 
 ## Storage
 - Eat the same day; the pastry softens overnight.

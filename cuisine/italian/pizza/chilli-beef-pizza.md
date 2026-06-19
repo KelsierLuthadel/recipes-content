@@ -105,15 +105,15 @@ Pizza thrown a curveball: a thin crust topped with seasoned ground beef, kidney 
 - **Oven Temperature:** 220°C is hotter than traditional margherita; it ensures the meat topping heats through and cheese melts properly.
 
 ## Variations
-**Extra Spice:** Add ½ teaspoon chilli flakes to the beef mixture for additional heat.
-**Add Corn:** Include 50 grams corn kernels with the kidney beans.
-**Sour Cream Drizzle:** Add a dollop of sour cream on top after baking for cooling creaminess.
-**Pepperoni Addition:** Scatter 30 grams sliced pepperoni over the cheese before baking.
+- **Extra Spice:** Add ½ teaspoon chilli flakes to the beef mixture for additional heat.
+- **Add Corn:** Include 50 grams corn kernels with the kidney beans.
+- **Sour Cream Drizzle:** Add a dollop of sour cream on top after baking for cooling creaminess.
+- **Pepperoni Addition:** Scatter 30 grams sliced pepperoni over the cheese before baking.
 
 ## Serving
-Serve with: Green salad, garlic bread, cold beer or cola
-Garnish with: Fresh coriander (optional), cracked black pepper
-Pair with: Cold lager or pale ale that cuts through the richness
+- Serve with: Green salad, garlic bread, cold beer or cola
+- Garnish with: Fresh coriander (optional), cracked black pepper
+- Pair with: Cold lager or pale ale that cuts through the richness
 
 ## Storage
 - Best served immediately while the crust is crisp and cheese is melted

@@ -71,7 +71,7 @@ Uji is the warm fermented-grain drink of rural Kenya, drunk from a mug rather th
 - **Cinnamon-sweet:** finish with a pinch of cinnamon and a drizzle of honey; the modern Nairobi cafe version.
 
 ## Serving
-Warm in a tin mug at sunrise · the breakfast drink before a long day's work · prescribed for new mothers · drunk by elders for general health · sometimes with a slice of mandazi or chapati on the side.
+- Warm in a tin mug at sunrise · the breakfast drink before a long day's work · prescribed for new mothers · drunk by elders for general health · sometimes with a slice of mandazi or chapati on the side.
 
 ## Storage
 - Refrigerate cooked uji 3 days; reheat with a splash of water as it thickens.

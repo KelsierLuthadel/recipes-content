@@ -31,7 +31,7 @@ Stem ginger gives this ice cream its kick, finely chopped and folded through the
 - The strength of stem ginger varies by producer; start with the 75 grams and add more if desired for a ginger-forward result, or reduce if the heat feels overpowering
 
 ## Serving
-Serve this distinctive ice cream with warm spiced apple cakes, caramelized pear tarts, or alongside tropical fruit desserts. The ginger and coconut combination works particularly well with chocolate-based cakes and pastries. A simple butter cookie or langue de chat provides textural contrast without competing flavors.
+- Serve this distinctive ice cream with warm spiced apple cakes, caramelized pear tarts, or alongside tropical fruit desserts. The ginger and coconut combination works particularly well with chocolate-based cakes and pastries. A simple butter cookie or langue de chat provides textural contrast without competing flavors.
 
 ## Storage
 Stem ginger ice cream keeps for up to two weeks in an airtight freezer container, though it's best served within the first week for optimal flavor and smoothness. The desiccated coconut particles may gradually settle or rise during freezing; briefly stir if visible separation occurs (this is purely aesthetic). Allow to soften for 10-15 minutes if too hard to scoop.

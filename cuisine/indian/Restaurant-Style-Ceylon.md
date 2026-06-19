@@ -99,9 +99,9 @@ The dish reads sweet, warm, and rounded rather than fiery, with most of the heat
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the rich sauce. A side of plain raita keeps the palate clean between richer mouthfuls.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan to mop the rich sauce. A side of plain raita keeps the palate clean between richer mouthfuls.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The coconut milk thickens overnight; loosen with a splash of water or a little extra coconut milk when reheating in a pan rather than the microwave, which can split the coconut fat.

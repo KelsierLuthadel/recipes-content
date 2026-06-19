@@ -91,7 +91,7 @@ Klingeris (sometimes spelled kliņģeris) is the sweet bread Latvians bake to ma
 - **Without saffron:** Replace with grated zest of a lemon and a teaspoon of vanilla; lighter, less festive.
 
 ## Serving
-Serve sliced thick with cold butter and strong coffee or tea. A few slices go on the name-day table next to flowers and a small gift; tradition is to wish the celebrant a long and easy life with the first slice.
+- Serve sliced thick with cold butter and strong coffee or tea. A few slices go on the name-day table next to flowers and a small gift; tradition is to wish the celebrant a long and easy life with the first slice.
 
 ## Storage
 - Keeps 3 days at room temperature, wrapped in a cloth or a tin.

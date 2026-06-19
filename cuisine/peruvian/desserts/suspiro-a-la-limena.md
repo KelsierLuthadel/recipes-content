@@ -90,16 +90,16 @@ Suspiro a la Limeña is Lima's signature dessert: intensely sweet, generous, una
 - **Cinnamon dust at the end:** the traditional Peruvian finish.
 
 ## Variations
-**Vanilla suspiro:** swap the port-wine meringue for plain Italian meringue + a vanilla bean, the milder variant.
-**Coffee suspiro:** add 1 tablespoon strong espresso powder to the manjar blanco, the adult variant.
-**Pisco suspiro:** swap the port for Peruvian pisco, the more local variant.
-**Chocolate suspiro:** add 50 g good dark chocolate to the manjar blanco; melt in, the chocolate-lover's variant.
-**Coconut suspiro:** swap half the evaporated milk for coconut milk in the manjar, the tropical variant.
-**Salted-caramel suspiro:** add a pinch of fleur de sel on top before the cinnamon, the modern sweet-salt variant.
-**Larger format (one large dish):** make in a single large bowl; serve scooped into small bowls, the family-style version.
+- **Vanilla suspiro:** swap the port-wine meringue for plain Italian meringue + a vanilla bean, the milder variant.
+- **Coffee suspiro:** add 1 tablespoon strong espresso powder to the manjar blanco, the adult variant.
+- **Pisco suspiro:** swap the port for Peruvian pisco, the more local variant.
+- **Chocolate suspiro:** add 50 g good dark chocolate to the manjar blanco; melt in, the chocolate-lover's variant.
+- **Coconut suspiro:** swap half the evaporated milk for coconut milk in the manjar, the tropical variant.
+- **Salted-caramel suspiro:** add a pinch of fleur de sel on top before the cinnamon, the modern sweet-salt variant.
+- **Larger format (one large dish):** make in a single large bowl; serve scooped into small bowls, the family-style version.
 
 ## Serving
-At a Lima family Sunday lunch as the dessert course (the traditional setting) · at a Peruvian wedding · at a Peruvian Independence Day (28 July) dinner · at a Lima criolla restaurant · at a Peruvian fine-dining dessert menu · at home as a make-ahead dinner-party finisher · paired with a small glass of Peruvian pisco or a strong espresso.
+- At a Lima family Sunday lunch as the dessert course (the traditional setting) · at a Peruvian wedding · at a Peruvian Independence Day (28 July) dinner · at a Lima criolla restaurant · at a Peruvian fine-dining dessert menu · at home as a make-ahead dinner-party finisher · paired with a small glass of Peruvian pisco or a strong espresso.
 
 ## Storage
 - The manjar blanco refrigerates 1 week; freezes 3 months in airtight containers.

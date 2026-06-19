@@ -69,7 +69,7 @@ Salată de varză is the cool sharp slaw that sits next to every Moldovan stew, 
 - **Cu castravete murat:** with chopped pickled gherkin folded through.
 
 ## Serving
-Next to sarmale, tochitură, or grilled meats. A bowl on the table at any Moldovan Sunday lunch. With a slice of brânză de oi and country bread for a light supper. With a glass of cold Fetească Albă.
+- Next to sarmale, tochitură, or grilled meats. A bowl on the table at any Moldovan Sunday lunch. With a slice of brânză de oi and country bread for a light supper. With a glass of cold Fetească Albă.
 
 ## Storage
 - Refrigerate up to 3 days; the cabbage softens further but remains crisp.

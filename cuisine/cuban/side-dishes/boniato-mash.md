@@ -58,13 +58,13 @@ Boniato mash is the Cuban answer to the everyday mashed potato, made from boniat
 - **Mash, don't whip:** Boniato can go gluey if whipped in a food processor. Stick to a masher or ricer.
 
 ## Variations
-**With pork drippings:** Replace half the butter with rendered pork fat from a mojo pork roast. Traditional, decadent.
-**Spicy:** Mash in a finely chopped seeded scotch bonnet, or ½ teaspoon dried red chilli flakes with the garlic.
-**Fresh coriander-heavy:** Fold in 3 tablespoons of finely chopped coriander at the end for a green-flecked version.
+- **With pork drippings:** Replace half the butter with rendered pork fat from a mojo pork roast. Traditional, decadent.
+- **Spicy:** Mash in a finely chopped seeded scotch bonnet, or ½ teaspoon dried red chilli flakes with the garlic.
+- **Fresh coriander-heavy:** Fold in 3 tablespoons of finely chopped coriander at the end for a green-flecked version.
 
 ## Serving
-Serve with: Mojo pork (lechon), ropa vieja, grilled chicken thighs, fried fish. Pairs especially well with anything roast and citrus-marinated.
-Garnish with: Fresh coriander, a lime wedge, a final drizzle of olive oil.
+- Serve with: Mojo pork (lechon), ropa vieja, grilled chicken thighs, fried fish. Pairs especially well with anything roast and citrus-marinated.
+- Garnish with: Fresh coriander, a lime wedge, a final drizzle of olive oil.
 
 ## Storage
 - Keeps 3 days refrigerated.

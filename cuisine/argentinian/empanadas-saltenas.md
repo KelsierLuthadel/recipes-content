@@ -102,17 +102,17 @@ Empanadas salteñas are the Argentine standard against which all other empanadas
 - **Don't overbake:** golden, not dark brown. The empanadas should be just-crisp.
 
 ## Variations
-**Empanadas mendocinas:** simpler filling (beef, onion, paprika, no olives or raisins). Less elaborate than Salteñas.
-**Empanadas tucumanas:** uses minced beef and very thin dough; baked or fried; the Tucumán variant.
-**Empanadas cordobesas:** sweeter than Salteñas; with more raisins, sugar, and cinnamon.
-**Empanadas santiagueñas (Santiago del Estero):** with chopped olives but no raisins, no egg; spicier with hot paprika.
-**Empanadas patagónicas (lamb):** filling of cubed lamb instead of beef; very southern Argentina.
-**Empanadas fritas:** deep-fried instead of baked. The Tucumán style.
-**Vegetarian empanadas:** filling of corn + cheese + spring onion + paprika. Surprisingly authentic.
-**Mini empanadas (canapé):** smaller circles (8 cm); same recipe; cocktail-party portions.
+- **Empanadas mendocinas:** simpler filling (beef, onion, paprika, no olives or raisins). Less elaborate than Salteñas.
+- **Empanadas tucumanas:** uses minced beef and very thin dough; baked or fried; the Tucumán variant.
+- **Empanadas cordobesas:** sweeter than Salteñas; with more raisins, sugar, and cinnamon.
+- **Empanadas santiagueñas (Santiago del Estero):** with chopped olives but no raisins, no egg; spicier with hot paprika.
+- **Empanadas patagónicas (lamb):** filling of cubed lamb instead of beef; very southern Argentina.
+- **Empanadas fritas:** deep-fried instead of baked. The Tucumán style.
+- **Vegetarian empanadas:** filling of corn + cheese + spring onion + paprika. Surprisingly authentic.
+- **Mini empanadas (canapé):** smaller circles (8 cm); same recipe; cocktail-party portions.
 
 ## Serving
-At an Argentine asado as starter (the traditional setting) · at the National Empanada Festival in Jujuy · at a Salta family Sunday lunch · at a Buenos Aires bodegón as the everyday lunch · at an Argentine wedding canapé reception · at home as a weekend project · with a glass of Malbec for an Argentine evening.
+- At an Argentine asado as starter (the traditional setting) · at the National Empanada Festival in Jujuy · at a Salta family Sunday lunch · at a Buenos Aires bodegón as the everyday lunch · at an Argentine wedding canapé reception · at home as a weekend project · with a glass of Malbec for an Argentine evening.
 
 ## Storage
 - Refrigerate cooked empanadas 3 days; reheat in a 180°C oven for 8 minutes.

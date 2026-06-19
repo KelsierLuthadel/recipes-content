@@ -67,7 +67,7 @@ So'o yosopy (Guaraní for "meat soup", from "so'o" meaning meat and "yosopy" mea
 - **Lighter version:** swap minced beef for shredded leftover roast beef stirred in at the end.
 
 ## Serving
-Deep bowls with chipa on the side · with a wedge of lime · alongside a tomato-and-onion salad · as a weekday family supper · with mate cocido afterwards.
+- Deep bowls with chipa on the side · with a wedge of lime · alongside a tomato-and-onion salad · as a weekday family supper · with mate cocido afterwards.
 
 ## Storage
 - Keeps 3 days refrigerated; the rice thickens the broth on standing

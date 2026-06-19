@@ -56,7 +56,7 @@ Salata mafrouma is the chopped raw salad of Libyan home cooking, the bright lemo
 - Add a small clove of crushed garlic for a sharper table salad.
 
 ## Serving
-Alongside bazin or couscous bil osban · with grilled fish or lamb · spooned over warm flatbread · with sharba libiya · as part of a wider mezze spread.
+- Alongside bazin or couscous bil osban · with grilled fish or lamb · spooned over warm flatbread · with sharba libiya · as part of a wider mezze spread.
 
 ## Storage
 - Best eaten within 2 hours of making.

@@ -105,17 +105,17 @@ Rocoto relleno ("stuffed rocoto") is the Arequipa-region signature dish: large r
 - **Pastel de papa is the traditional Arequipa side:** Andean baked layered-potato gratin (similar to scalloped potatoes); a layer of thin-sliced waxy potato, queso fresco, salt, milk, baked till golden.
 
 ## Variations
-**Vegetarian rocoto relleno:** swap beef for finely chopped mushrooms + lentils + the same raisins and peanuts.
-**Pork rocoto relleno:** swap beef for finely chopped pork shoulder; same spice base.
-**Chicken rocoto relleno:** swap beef for finely chopped chicken thigh.
-**Modern Arequipa upscale rocoto:** wrap the stuffed chilli in a thin sheet of phyllo before baking, the modern restaurant presentation.
-**Rocoto relleno with quinoa:** add 80 g cooked quinoa to the filling, the modern healthy variant.
-**Bell pepper version (heat-free):** use red bell peppers if you absolutely can't handle the heat, tastes different but works structurally.
-**Mini rocoto relleno canapés:** use small rocotos or cherry peppers; reduce filling proportions; serve as canapés.
-**Rocoto Relleno with aji huacatay sauce:** spoon a small dollop of huacatay sauce on top, the modern Lima fusion.
+- **Vegetarian rocoto relleno:** swap beef for finely chopped mushrooms + lentils + the same raisins and peanuts.
+- **Pork rocoto relleno:** swap beef for finely chopped pork shoulder; same spice base.
+- **Chicken rocoto relleno:** swap beef for finely chopped chicken thigh.
+- **Modern Arequipa upscale rocoto:** wrap the stuffed chilli in a thin sheet of phyllo before baking, the modern restaurant presentation.
+- **Rocoto relleno with quinoa:** add 80 g cooked quinoa to the filling, the modern healthy variant.
+- **Bell pepper version (heat-free):** use red bell peppers if you absolutely can't handle the heat, tastes different but works structurally.
+- **Mini rocoto relleno canapés:** use small rocotos or cherry peppers; reduce filling proportions; serve as canapés.
+- **Rocoto Relleno with aji huacatay sauce:** spoon a small dollop of huacatay sauce on top, the modern Lima fusion.
 
 ## Serving
-At an Arequipa picantería (the traditional setting; a picantería is a Peruvian regional restaurant focused on traditional Arequipa food) · at an Arequipa family Sunday lunch · at the annual Arequipa Day celebration (15 August) · at a Peruvian Independence Day buffet · at a southern-Peruvian Andean restaurant · at home as a Saturday-night dinner-party showpiece · paired with a glass of cold Cusqueña or Pilsen lager.
+- At an Arequipa picantería (the traditional setting; a picantería is a Peruvian regional restaurant focused on traditional Arequipa food) · at an Arequipa family Sunday lunch · at the annual Arequipa Day celebration (15 August) · at a Peruvian Independence Day buffet · at a southern-Peruvian Andean restaurant · at home as a Saturday-night dinner-party showpiece · paired with a glass of cold Cusqueña or Pilsen lager.
 
 ## Storage
 - Cooked rocotos refrigerate 3 days; reheat in a 180°C oven for 15 minutes.

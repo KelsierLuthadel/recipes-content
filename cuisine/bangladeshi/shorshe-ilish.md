@@ -67,7 +67,7 @@ If hilsa fish curry is the everyday hilsa dish, shorshe ilish is the celebration
 - **Bhapa shorshe ilish:** instead of pan-cooking, smear the paste over the raw fish and steam in a banana leaf packet for 15 minutes; even gentler.
 
 ## Serving
-Plain steamed basmati or any non-fragrant white rice · plain yogurt on the side · slit green chillies · a wedge of lime
+- Plain steamed basmati or any non-fragrant white rice · plain yogurt on the side · slit green chillies · a wedge of lime
 
 ## Storage
 - Refrigerate up to 24 hours; the mustard heat softens but holds

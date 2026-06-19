@@ -82,13 +82,13 @@ Louisiana bread pudding is the most iconic Creole dessert and the signature fina
 - **Serve warm with hot sauce.**
 
 ## Variations
-**With pecans:** add 200 g toasted chopped pecans.
-**Chocolate bread pudding:** add 200 g dark chocolate chips.
-**With apples:** add 2 chopped apples.
-**Praline sauce (instead of whiskey):** caramel + pecan version.
+- **With pecans:** add 200 g toasted chopped pecans.
+- **Chocolate bread pudding:** add 200 g dark chocolate chips.
+- **With apples:** add 2 chopped apples.
+- **Praline sauce (instead of whiskey):** caramel + pecan version.
 
 ## Serving
-After Creole dinners; Sunday brunch; New Orleans restaurant finale.
+- After Creole dinners; Sunday brunch; New Orleans restaurant finale.
 
 ## Storage
 - Refrigerated 4 days.

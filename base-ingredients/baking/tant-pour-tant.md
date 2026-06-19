@@ -47,14 +47,14 @@ Tant pour tant is the building block under macarons, biscuit joconde, financiers
 - **Freshness:** Oxidized oils from old tant pour tant create off-flavors and dense results; always use freshly prepared or very recent batches.
 
 ## Variations
-**Praline Tant pour Tant:** Replace half the almonds with ground praline paste for deeper almond flavor.
-**Pistachio Version:** Replace almonds with ground pistachios (1:1 with icing sugar).
-**Hazelnut:** Use equal parts ground hazelnuts and icing sugar by weight.
+- **Praline Tant pour Tant:** Replace half the almonds with ground praline paste for deeper almond flavor.
+- **Pistachio Version:** Replace almonds with ground pistachios (1:1 with icing sugar).
+- **Hazelnut:** Use equal parts ground hazelnuts and icing sugar by weight.
 
 ## Serving
-Use in: Macaron shells, Gênoise sponge, almond-based cakes, entremets, pastry creams with almond
-Temperature: Room temperature (use dry, not moistened)
-Amount: Per specific recipe (typically 100-150g tant pour tant per macaron or dessert recipe)
+- Use in: Macaron shells, Gênoise sponge, almond-based cakes, entremets, pastry creams with almond
+- Temperature: Room temperature (use dry, not moistened)
+- Amount: Per specific recipe (typically 100-150g tant pour tant per macaron or dessert recipe)
 
 ## Storage
 - Store in an airtight container at room temperature for up to 2 weeks

@@ -81,14 +81,14 @@ Dưa chua (literally "sour vegetables", and often anglicised as đồ chua or do
 - **Keep submerged:** any vegetables above the brine line go mushy first. Top up with extra brine if the level drops.
 
 ## Variations
-**Daikon-only:** for a sharper, more peppery pickle (good with rich grilled meats).
-**Carrot-only:** sweeter, brighter; the simpler home version.
-**With chilli:** add 1-2 split bird's-eye chillies for a spicy version, traditional in some southern Vietnamese homes.
-**With ginger:** add 4 thin slices fresh ginger to the brine for a warmer, more aromatic pickle.
-**Quick eat-now version:** halve the sugar and double the vinegar; ready in 30 minutes; sharper but doesn't keep as long.
+- **Daikon-only:** for a sharper, more peppery pickle (good with rich grilled meats).
+- **Carrot-only:** sweeter, brighter; the simpler home version.
+- **With chilli:** add 1-2 split bird's-eye chillies for a spicy version, traditional in some southern Vietnamese homes.
+- **With ginger:** add 4 thin slices fresh ginger to the brine for a warmer, more aromatic pickle.
+- **Quick eat-now version:** halve the sugar and double the vinegar; ready in 30 minutes; sharper but doesn't keep as long.
 
 ## Serving
-Stuffed into a bánh mì alongside pâté, cold cuts, coriander and chilli (the canonical use) · piled beside grilled pork chops on a bún thịt nướng vermicelli bowl · alongside fried fish or shrimp · forked over a Vietnamese summer salad · with a bowl of phở on the side · with a fried egg and rice for a quick lunch.
+- Stuffed into a bánh mì alongside pâté, cold cuts, coriander and chilli (the canonical use) · piled beside grilled pork chops on a bún thịt nướng vermicelli bowl · alongside fried fish or shrimp · forked over a Vietnamese summer salad · with a bowl of phở on the side · with a fried egg and rice for a quick lunch.
 
 ## Storage
 - Refrigerates 3 weeks in a sealed jar with the vegetables fully submerged.

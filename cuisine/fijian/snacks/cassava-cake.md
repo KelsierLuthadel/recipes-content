@@ -62,7 +62,7 @@ Cassava cake is the Fijian household snack of choice with afternoon tea: grated 
 - **Sweetened-condensed-milk version:** replace the sugar and 100 ml of the coconut milk with 200 ml of sweetened condensed milk for a Filipino-style richness.
 
 ## Serving
-Serve warm or at room temperature, cut into small squares · with a cup of sweet milky tea · with strong filter coffee · with a glass of cold coconut water · alongside fresh pineapple · at a Fijian afternoon tea · as a packed-lunch sweet.
+- Serve warm or at room temperature, cut into small squares · with a cup of sweet milky tea · with strong filter coffee · with a glass of cold coconut water · alongside fresh pineapple · at a Fijian afternoon tea · as a packed-lunch sweet.
 
 ## Storage
 - Keeps 3 days in an airtight container at room temperature; the texture firms.

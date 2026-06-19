@@ -54,7 +54,7 @@ This is a four-minute Cantonese stir-fry built on two ingredients that lift each
 - **Ginger fragrance:** Fresh ginger added late to the cooking preserves its delicate aroma without becoming acrid.
 
 ## Serving
-Serve with: Steamed rice or serve on lettuce with oyster sauce (traditional variation)
+- Serve with: Steamed rice or serve on lettuce with oyster sauce (traditional variation)
 
 ## Storage
 - Best served immediately for optimal texture

@@ -91,13 +91,13 @@ Sweet potato pie is the South's iconic Thanksgiving dessert and the Southern alt
 - **Better the day after baking.**
 
 ## Variations
-**With bourbon:** add 2 tablespoons bourbon.
-**With pecan streusel:** top with pecan-brown-sugar-butter streusel before baking.
-**Spiced pumpkin variation:** swap half the sweet potato for pumpkin purée.
-**Without crust (lighter):** bake as custard in ramekins.
+- **With bourbon:** add 2 tablespoons bourbon.
+- **With pecan streusel:** top with pecan-brown-sugar-butter streusel before baking.
+- **Spiced pumpkin variation:** swap half the sweet potato for pumpkin purée.
+- **Without crust (lighter):** bake as custard in ramekins.
 
 ## Serving
-At Southern Thanksgiving alongside turkey, mashed potatoes, collards. With whipped cream.
+- At Southern Thanksgiving alongside turkey, mashed potatoes, collards. With whipped cream.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens.

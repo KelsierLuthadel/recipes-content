@@ -101,13 +101,13 @@ Jambalaya is Louisiana's famous one-pot rice dish, often described as the Cajun-
 - **Add shrimp at the end:** cook through residual heat.
 
 ## Variations
-**Cajun (brown) jambalaya:** skip the tomato; gives a brown, more rustic version.
-**With pork shoulder:** add cubed pork shoulder (cook 60 min before rice).
-**Crawfish jambalaya:** swap shrimp for crawfish tails.
-**Vegetarian:** skip meats; double the vegetables; use vegetable stock.
+- **Cajun (brown) jambalaya:** skip the tomato; gives a brown, more rustic version.
+- **With pork shoulder:** add cubed pork shoulder (cook 60 min before rice).
+- **Crawfish jambalaya:** swap shrimp for crawfish tails.
+- **Vegetarian:** skip meats; double the vegetables; use vegetable stock.
 
 ## Serving
-In big bowls with French bread. Cold beer. Hot sauce.
+- In big bowls with French bread. Cold beer. Hot sauce.
 
 ## Storage
 - Keeps refrigerated 4 days; flavour deepens.

@@ -94,16 +94,16 @@ The croque monsieur is French in origin, invented around 1910 at a Paris café, 
 - **Eat immediately:** the gratin crust softens fast.
 
 ## Variations
-**Croque Madame Belge:** crack a fried egg over each sandwich just before serving (over-easy ideal; the runny yolk runs through the gratin).
-**Croque au jambon de Bayonne:** swap Belgian Ardennes for French Bayonne ham, the cross-border variant.
-**Croque au fromage seul (cheese only):** skip the ham; double the cheese; the vegetarian version.
-**Croque hawaïen (Belgian version):** add a slice of grilled pineapple between the ham and cheese, the controversial Brussels diner variant.
-**Croque au boeuf:** swap the ham for thin slices of cold roast beef and a smear of horseradish on the bread.
-**Bruges-style croque:** use Brugge Vieux exclusively as the cheese; richer and sharper.
-**Mini-croques (for canapés):** cut the sandwich into 4 squares before the grill stage; serve as canapés with a cocktail.
+- **Croque Madame Belge:** crack a fried egg over each sandwich just before serving (over-easy ideal; the runny yolk runs through the gratin).
+- **Croque au jambon de Bayonne:** swap Belgian Ardennes for French Bayonne ham, the cross-border variant.
+- **Croque au fromage seul (cheese only):** skip the ham; double the cheese; the vegetarian version.
+- **Croque hawaïen (Belgian version):** add a slice of grilled pineapple between the ham and cheese, the controversial Brussels diner variant.
+- **Croque au boeuf:** swap the ham for thin slices of cold roast beef and a smear of horseradish on the bread.
+- **Bruges-style croque:** use Brugge Vieux exclusively as the cheese; richer and sharper.
+- **Mini-croques (for canapés):** cut the sandwich into 4 squares before the grill stage; serve as canapés with a cocktail.
 
 ## Serving
-At a Brussels brasserie at lunchtime (the traditional setting) · at a Belgian café in Bruges, Antwerp or Ghent · with a beer at a Belgian gastropub · as a quick Belgian dinner alongside a salad · at a Belgian Sunday brunch · at home for a sophisticated grilled cheese.
+- At a Brussels brasserie at lunchtime (the traditional setting) · at a Belgian café in Bruges, Antwerp or Ghent · with a beer at a Belgian gastropub · as a quick Belgian dinner alongside a salad · at a Belgian Sunday brunch · at home for a sophisticated grilled cheese.
 
 ## Storage
 - Doesn't keep, eat within 10 minutes of finishing under the grill.

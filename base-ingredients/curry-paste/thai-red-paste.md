@@ -74,16 +74,16 @@ Thai red curry paste is the building block for the family of Thai red curries: a
 - **Spice Toasting:** This step is non-negotiable; it develops the complex aromatics that make Thai red curry distinctive.
 
 ## Variations
-**Extra Hot:** Leave chilli seeds in and increase to 12-15 chillies.
-**Milder Version:** Increase shallots and reduce fresh chillies to 6-8.
-**With Galangal Depth:** Add an extra ½ cm piece of galangal for pronounced brightness.
-**For Coconut Curries:** Use exactly as written; the paste is formulated for coconut milk cooking.
+- **Extra Hot:** Leave chilli seeds in and increase to 12-15 chillies.
+- **Milder Version:** Increase shallots and reduce fresh chillies to 6-8.
+- **With Galangal Depth:** Add an extra ½ cm piece of galangal for pronounced brightness.
+- **For Coconut Curries:** Use exactly as written; the paste is formulated for coconut milk cooking.
 
 ## Serving
-Use in: Thai curries, curry soups, curry-based braised dishes
-Typical ratio: 2-3 tablespoons paste per 400 ml coconut milk (adjusting to taste preference)
-Cooking technique: Fry the paste briefly in hot oil or a bit of the coconut cream before adding liquid
-Temperature: Use immediately after making or refrigerate
+- Use in: Thai curries, curry soups, curry-based braised dishes
+- Typical ratio: 2-3 tablespoons paste per 400 ml coconut milk (adjusting to taste preference)
+- Cooking technique: Fry the paste briefly in hot oil or a bit of the coconut cream before adding liquid
+- Temperature: Use immediately after making or refrigerate
 
 ## Storage
 - Refrigerate in an airtight glass container for up to 4-5 days maximum

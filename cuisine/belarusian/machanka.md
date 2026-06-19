@@ -71,7 +71,7 @@ Machanka takes its name from the verb "macat'", to dip, and the dish does exactl
 - **Machanka po-vileyski.** From the Vileika region: stir in a tablespoon of horseradish at the end for a sharp bite alongside the cream.
 
 ## Serving
-Serve over hot fresh draniki · with cold cucumber-and-dill salad alongside · also good with rye bread to dip · finished with extra dill at the table
+- Serve over hot fresh draniki · with cold cucumber-and-dill salad alongside · also good with rye bread to dip · finished with extra dill at the table
 
 ## Storage
 - The stew keeps 3 days refrigerated and improves on day two

@@ -71,7 +71,7 @@ Sambusa came to the Gulf from India and Persia along the same trade winds that c
 - **Freeze raw.** Sambusas freeze perfectly raw; fry from frozen, adding 1 minute to the cook time. This is how Kuwaiti families prep through Ramadan.
 
 ## Serving
-Hot, on a wide plate, with daqoos or a yogurt-mint dip. Iftar staple.
+- Hot, on a wide plate, with daqoos or a yogurt-mint dip. Iftar staple.
 
 ## Storage
 - Eat fresh; reheat in a hot oven for 5 minutes (microwave goes soggy)

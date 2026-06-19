@@ -83,7 +83,7 @@ For the wash:
 - Picante salteñas double the aji for a spicier filling
 
 ## Serving
-Eat hot from the oven · standing up · paper napkin in hand · with a tomato llajwa on the side and a coffee or api
+- Eat hot from the oven · standing up · paper napkin in hand · with a tomato llajwa on the side and a coffee or api
 
 ## Storage
 - Filling keeps 3 days refrigerated set firm

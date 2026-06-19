@@ -16,7 +16,7 @@ Balti masala paste is the building block for British-Indian Balti curries: the w
 ## Ingredients
 
 ### Base Pastes & Liquids
-- 200 grams Balti masala powder (pre-made spice blend)
+- 200 grams [Balti masala powder](../curry-powder/balti-masala.md) (pre-made spice blend)
 - 200 ml white wine vinegar
 - 200 ml vegetable oil
 - Water (as needed for consistency)
@@ -69,15 +69,15 @@ Balti masala paste is the building block for British-Indian Balti curries: the w
 - **Temperature:** This paste must always be refrigerated; room temperature storage risks bacterial growth despite the vinegar preservation.
 
 ## Variations
-**Spicier:** Use a hotter Balti masala powder (if available) or add 1 teaspoon chilli powder to the paste during cooking.
-**With Tomato:** Replace up to 50 ml vinegar with tomato purée for deeper savory notes.
-**Cider Vinegar:** Use cider vinegar instead of white wine vinegar for slightly different tang.
+- **Spicier:** Use a hotter Balti masala powder (if available) or add 1 teaspoon chilli powder to the paste during cooking.
+- **With Tomato:** Replace up to 50 ml vinegar with tomato purée for deeper savory notes.
+- **Cider Vinegar:** Use cider vinegar instead of white wine vinegar for slightly different tang.
 
 ## Serving
-Use in: Balti curries, British-Indian curries, curry sauces
-Typical ratio: 3-4 tablespoons paste per 400 ml water or stock (curry liquid is thinner than Indian curries)
-Cooking: Fry the paste in oil briefly with onions before adding liquid and curry ingredients
-Temperature: Requires cooking in hot oil before use
+- Use in: Balti curries, British-Indian curries, curry sauces
+- Typical ratio: 3-4 tablespoons paste per 400 ml water or stock (curry liquid is thinner than Indian curries)
+- Cooking: Fry the paste in oil briefly with onions before adding liquid and curry ingredients
+- Temperature: Requires cooking in hot oil before use
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 2 months

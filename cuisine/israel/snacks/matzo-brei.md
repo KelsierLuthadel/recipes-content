@@ -61,7 +61,7 @@ The eight-day Passover diet rests on matzo, and matzo brei is the dish that turn
 - Some cooks add a splash of milk to the eggs for a softer brei; others insist water only, which keeps the brei kosher with both meat and dairy meals. Pick your tradition.
 
 ## Serving
-On warm plates straight from the pan, with strong coffee. Beside a bowl of fresh berries or a half-grapefruit if you want to dress it up.
+- On warm plates straight from the pan, with strong coffee. Beside a bowl of fresh berries or a half-grapefruit if you want to dress it up.
 
 ## Storage
 Best fresh, the texture suffers on reheating. Leftovers keep in a covered container in the fridge for 1 day; refresh in a hot non-stick pan for 2 minutes if you must.

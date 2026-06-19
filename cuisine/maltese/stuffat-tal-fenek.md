@@ -81,14 +81,14 @@ Stuffat tal-fenek is Malta's most iconic dish and the central event of the Malte
 - **Wild rabbit if you can find it:** stronger flavour than farmed.
 
 ## Variations
-**Fenkata with garlic and wine only:** simpler; no tomato or chocolate, the older Maltese recipe.
-**With olives:** add 100 g black olives in the last 30 minutes.
-**Stuffat tal-fenek bil-mardquf (with bone marrow):** richer with the addition of bone marrow.
-**Chicken stuffat:** swap rabbit for chicken thighs, fenkata-style chicken stew.
-**Pressure cooker stuffat:** brown and pressure-cook 30 minutes high pressure.
+- **Fenkata with garlic and wine only:** simpler; no tomato or chocolate, the older Maltese recipe.
+- **With olives:** add 100 g black olives in the last 30 minutes.
+- **Stuffat tal-fenek bil-mardquf (with bone marrow):** richer with the addition of bone marrow.
+- **Chicken stuffat:** swap rabbit for chicken thighs, fenkata-style chicken stew.
+- **Pressure cooker stuffat:** brown and pressure-cook 30 minutes high pressure.
 
 ## Serving
-At a Maltese fenkata (rabbit feast): the traditional setting · at a Mġarr or Bahar ic-Caghaq village festa · at a Maltese Sunday lunch · at a Maltese wedding luncheon · at home as a celebration weekend meal.
+- At a Maltese fenkata (rabbit feast): the traditional setting · at a Mġarr or Bahar ic-Caghaq village festa · at a Maltese Sunday lunch · at a Maltese wedding luncheon · at home as a celebration weekend meal.
 
 ## Storage
 - Refrigerates 3 days; flavour improves overnight.

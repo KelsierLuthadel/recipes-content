@@ -50,7 +50,7 @@ Cover with cling film and leave to rest somewhere fairly cool (14 - 16°C) for a
 - Filo dries immediately upon exposure to air; keep unworked dough and finished sheets covered with damp towels at all times
 
 ## Serving
-Use filo sheets layered with fillings (sweet or savory) and brush generously with melted butter between each layer. Bake until crisp and golden. The transparent, paper-thin layers create visually stunning desserts, sweet varieties showcase caramelized fruits, while savory versions feature cheese and herb fillings.
+- Use filo sheets layered with fillings (sweet or savory) and brush generously with melted butter between each layer. Bake until crisp and golden. The transparent, paper-thin layers create visually stunning desserts, sweet varieties showcase caramelized fruits, while savory versions feature cheese and herb fillings.
 
 ## Storage
 Filo pastry is best used within 24 hours of preparation. Store wrapped in damp tea towels in the refrigerator for up to 24 hours. Keep in a sealed plastic bag to prevent drying. Once layered and assembled, bake immediately. Baked filo items are best consumed fresh but can be stored in an airtight container for 1-2 days.

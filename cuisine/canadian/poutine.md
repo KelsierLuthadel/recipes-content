@@ -89,18 +89,18 @@ Poutine (pronounced "poo-TEEN", not "poo-TIN") is Quebec's most famous food expo
 - **Eat immediately:** poutine is at its peak for about 4 minutes. After 8 minutes the fries are limp and the curds have melted fully.
 
 ## Variations
-**Poutine au foie gras:** add a small slice of seared foie gras on top, the Au Pied de Cochon Montreal restaurant variant. Very upmarket.
-**Poutine galvaude:** add chunks of cooked chicken and green peas to the gravy, a Quebec rural variant.
-**Poutine smoked-meat:** add chopped Montreal smoked-meat brisket over the curds, the deli variant.
-**Poutine au pulled pork:** add slow-cooked pulled pork in the gravy, a modern restaurant variant.
-**Italian poutine:** swap the gravy for marinara, the curds for fresh mozzarella, a Quebec-Italian crossover.
-**Poutine breakfast:** add a fried egg on top, runny yolk through the gravy, the brunch variant.
-**Vegetarian mushroom poutine:** swap the beef-chicken gravy for a deep mushroom-stock gravy; the curds stay.
-**Vegan poutine:** vegan cheese curds (jackfruit-based work surprisingly well) + a vegetable-stock gravy thickened with cornflour.
-**Quebec-style poutine "all-dressed":** add chopped pickles, raw onion, a dribble of yellow mustard on top, the diner variant.
+- **Poutine au foie gras:** add a small slice of seared foie gras on top, the Au Pied de Cochon Montreal restaurant variant. Very upmarket.
+- **Poutine galvaude:** add chunks of cooked chicken and green peas to the gravy, a Quebec rural variant.
+- **Poutine smoked-meat:** add chopped Montreal smoked-meat brisket over the curds, the deli variant.
+- **Poutine au pulled pork:** add slow-cooked pulled pork in the gravy, a modern restaurant variant.
+- **Italian poutine:** swap the gravy for marinara, the curds for fresh mozzarella, a Quebec-Italian crossover.
+- **Poutine breakfast:** add a fried egg on top, runny yolk through the gravy, the brunch variant.
+- **Vegetarian mushroom poutine:** swap the beef-chicken gravy for a deep mushroom-stock gravy; the curds stay.
+- **Vegan poutine:** vegan cheese curds (jackfruit-based work surprisingly well) + a vegetable-stock gravy thickened with cornflour.
+- **Quebec-style poutine "all-dressed":** add chopped pickles, raw onion, a dribble of yellow mustard on top, the diner variant.
 
 ## Serving
-At a Quebec roadside chip-stand (the traditional setting; La Banquise in Montreal is the famous tourist spot but most Quebecois eat it at their local cabane-à-patates) · at a Quebec hockey-arena snack bar · at a Canadian university dining hall at 2 am after a night out · at a Canadian winter ski-resort lodge · at a Toronto food-truck festival · at home as a Friday-night Canadian comfort plate.
+- At a Quebec roadside chip-stand (the traditional setting; La Banquise in Montreal is the famous tourist spot but most Quebecois eat it at their local cabane-à-patates) · at a Quebec hockey-arena snack bar · at a Canadian university dining hall at 2 am after a night out · at a Canadian winter ski-resort lodge · at a Toronto food-truck festival · at home as a Friday-night Canadian comfort plate.
 
 ## Storage
 - Doesn't store. Eat within 5 minutes.

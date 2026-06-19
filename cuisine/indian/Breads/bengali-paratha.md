@@ -66,8 +66,8 @@ Bengal's distinctive layered flatbread: dough pleated like an accordion and coil
 - **Rest the dough:** The 20-minute rest relaxes the gluten so the disc rolls thin enough to take the filling without tearing.
 
 ## Serving
-Serve with: A wet curry (dal, chana masala, lamb karahi) or a bowl of plain yoghurt.
-Garnish with: A small extra knob of melted ghee brushed across just before eating.
+- Serve with: A wet curry (dal, chana masala, lamb karahi) or a bowl of plain yoghurt.
+- Garnish with: A small extra knob of melted ghee brushed across just before eating.
 
 ## Storage
 - Best eaten straight from the tawa; the layers soften within minutes.

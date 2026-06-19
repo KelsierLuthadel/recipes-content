@@ -57,8 +57,8 @@ Punjab's savoury pulse-based flatbread: a half-and-half mix of gram flour (besan
 - **Thicker than a roti:** Missi rotis are deliberately rolled thicker than plain rotis so they hold up to the inclusions; don't try to roll them paper-thin.
 
 ## Serving
-Serve with: A simple dal, a yoghurt raita, or a sweet pickle to balance the savoury bread.
-Garnish with: An extra brush of melted butter or ghee just before serving.
+- Serve with: A simple dal, a yoghurt raita, or a sweet pickle to balance the savoury bread.
+- Garnish with: An extra brush of melted butter or ghee just before serving.
 
 ## Storage
 - Best eaten straight off the griddle.

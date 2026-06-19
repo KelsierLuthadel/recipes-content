@@ -99,17 +99,17 @@ Peri-peri marinade is the building block for the grilled chicken, prawns and fis
 - **Emulsification:** The mixture won't fully emulsify like mayonnaise, some separation is normal and fine.
 
 ## Variations
-**Extra Spicy:** Use 3 chillies with all seeds intact; add ½ teaspoon additional paprika for heat-depth.
-**With Lemon:** Replace lime with fresh lemon juice exclusively for different bright acidity.
-**Sweeter Version:** Add 1-2 teaspoons honey or agave to balance heat and caramelization.
-**Extra Garlic:** Add 1-2 additional crushed garlic cloves for pungency.
-**With Herbs:** Add 1 teaspoon fresh thyme or oregano for herbal notes (non-traditional but complementary).
+- **Extra Spicy:** Use 3 chillies with all seeds intact; add ½ teaspoon additional paprika for heat-depth.
+- **With Lemon:** Replace lime with fresh lemon juice exclusively for different bright acidity.
+- **Sweeter Version:** Add 1-2 teaspoons honey or agave to balance heat and caramelization.
+- **Extra Garlic:** Add 1-2 additional crushed garlic cloves for pungency.
+- **With Herbs:** Add 1 teaspoon fresh thyme or oregano for herbal notes (non-traditional but complementary).
 
 ## Serving
-Use on: Prawns/shrimp, fish fillets, whole fish, chicken thighs, chicken breasts, scallops
-Marinating time: Shellfish 20-30 minutes; Fish 30-45 minutes; Chicken 1-2 hours (can go up to 4 hours)
-Cooking method: Grill, grill pan, or skillet over medium-high heat
-Basting: Periodically baste with remaining marinade during cooking for caramelized crust
+- Use on: Prawns/shrimp, fish fillets, whole fish, chicken thighs, chicken breasts, scallops
+- Marinating time: Shellfish 20-30 minutes; Fish 30-45 minutes; Chicken 1-2 hours (can go up to 4 hours)
+- Cooking method: Grill, grill pan, or skillet over medium-high heat
+- Basting: Periodically baste with remaining marinade during cooking for caramelized crust
 
 ## Storage
 - Store unabsorbed marinade in sealed glass jar for up to 3-4 days in refrigerator

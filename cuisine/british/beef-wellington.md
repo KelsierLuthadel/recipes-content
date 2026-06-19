@@ -82,8 +82,8 @@ The defining British dinner-party showpiece, somewhere between French haute cuis
 - **Probe to 50°C:** Carryover cooking takes the centre to a perfect 54-55°C medium-rare. Pulling later means well-done beef under the crust.
 
 ## Serving
-Serve with: Roast potatoes, buttered cabbage or green beans, and a rich red-wine jus.
-Garnish with: Watercress and a final scatter of flaky salt on the slices.
+- Serve with: Roast potatoes, buttered cabbage or green beans, and a rich red-wine jus.
+- Garnish with: Watercress and a final scatter of flaky salt on the slices.
 
 ## Storage
 - Best the day it's made.

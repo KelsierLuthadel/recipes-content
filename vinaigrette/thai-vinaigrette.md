@@ -71,17 +71,17 @@ Thai vinaigrette is the building block for noodle salads, papaya salads, grilled
 - **Lime Juice Fresh:** Only fresh lime juice works; bottled versions create a thin, flat result.
 
 ## Variations
-**More Assertive Fish Flavor:** Increase fish sauce to 3 tablespoons for deeper umami (ideal for noodle soups and braising).
-**Lighter Version:** Reduce oil to 150 milliliters and increase vinegar to 100 milliliters (for tender greens).
-**With Galangal:** Add ½ teaspoon minced galangal (Asian ginger root variant) alongside the lemongrass.
-**Extra Heat:** Add ½-1 Thai red chilli, minced, with seeds if desired for additional spice.
-**With Mint:** Add 2 tablespoons fresh mint leaves alongside the coriander (Vietnamese approach).
+- **More Assertive Fish Flavor:** Increase fish sauce to 3 tablespoons for deeper umami (ideal for noodle soups and braising).
+- **Lighter Version:** Reduce oil to 150 milliliters and increase vinegar to 100 milliliters (for tender greens).
+- **With Galangal:** Add ½ teaspoon minced galangal (Asian ginger root variant) alongside the lemongrass.
+- **Extra Heat:** Add ½-1 Thai red chilli, minced, with seeds if desired for additional spice.
+- **With Mint:** Add 2 tablespoons fresh mint leaves alongside the coriander (Vietnamese approach).
 
 ## Serving
-Use with: Rice noodle salads, grilled chicken or shellfish, spring roll dipping sauce, tender lettuce wraps, papaya salad, warm vegetable preparations
-Dressing ratio: 2-3 tablespoons per serving (this is intensely flavored and assertive)
-Temperature: Room temperature
-Application: Dress salads immediately before serving; excess soaking time wilts delicate greens and dissipates fresh herb character
+- Use with: Rice noodle salads, grilled chicken or shellfish, spring roll dipping sauce, tender lettuce wraps, papaya salad, warm vegetable preparations
+- Dressing ratio: 2-3 tablespoons per serving (this is intensely flavored and assertive)
+- Temperature: Room temperature
+- Application: Dress salads immediately before serving; excess soaking time wilts delicate greens and dissipates fresh herb character
 
 ## Storage
 - The lemongrass-infused vinegar base can be prepared 1-2 days ahead and refrigerated in a sealed jar.

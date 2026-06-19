@@ -72,14 +72,14 @@ The French hot dog (often called "hot-dog à la française" or just "hot dog" on
 - **Eat warm:** the cheese-bread combo loses its magic as it cools.
 
 ## Variations
-**With caramelised onions:** add a layer of caramelised onions inside the baguette before the sausage.
-**Alsatian-style:** add a thin layer of choucroute (sauerkraut) under the sausage.
-**With raclette cheese:** swap Gruyère for raclette for a fonduier melt.
-**With ham and cheese:** add a slice of jambon de Paris (French ham) under the sausage.
-**Croque-dog:** smear béchamel inside the baguette before the sausage and Gruyère, for a croque-monsieur-hot-dog hybrid.
+- **With caramelised onions:** add a layer of caramelised onions inside the baguette before the sausage.
+- **Alsatian-style:** add a thin layer of choucroute (sauerkraut) under the sausage.
+- **With raclette cheese:** swap Gruyère for raclette for a fonduier melt.
+- **With ham and cheese:** add a slice of jambon de Paris (French ham) under the sausage.
+- **Croque-dog:** smear béchamel inside the baguette before the sausage and Gruyère, for a croque-monsieur-hot-dog hybrid.
 
 ## Serving
-At a Parisian boulangerie counter; at a Strasbourg Christmas-market stall; at an Alsatian winstub for a casual late dinner; at home with a salad and Riesling.
+- At a Parisian boulangerie counter; at a Strasbourg Christmas-market stall; at an Alsatian winstub for a casual late dinner; at home with a salad and Riesling.
 
 ## Storage
 - Best immediately while the cheese is melty.

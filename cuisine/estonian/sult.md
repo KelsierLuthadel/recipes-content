@@ -67,7 +67,7 @@ Sült (also known as külmsült, "cold jelly") is the Baltic cousin of Polish ga
 - **The right slice:** Sült is sliced cold, about 1 cm thick, and eaten on rye bread with a smear of mustard.
 
 ## Serving
-Serve cold on a plate with strong Estonian mustard, sliced rye bread, pickled gherkins and a small mound of fresh dill. A small glass of cold vodka or dark beer makes the pairing.
+- Serve cold on a plate with strong Estonian mustard, sliced rye bread, pickled gherkins and a small mound of fresh dill. A small glass of cold vodka or dark beer makes the pairing.
 
 ## Storage
 - Keeps 5 days refrigerated, sealed

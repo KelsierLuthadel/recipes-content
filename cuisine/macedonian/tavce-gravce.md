@@ -46,13 +46,13 @@ Tavče gravče (literally "beans in a pan") is North Macedonia's national dish, 
 - **Eat hot from the dish:** straight from the clay pot is the traditional service.
 
 ## Variations
-**With sausage:** add cured Macedonian klobasica or kielbasa on top in the last 30 minutes.
-**With pork:** add cubed smoked pork at stage 5.
-**Vegetarian:** as written.
-**With egg:** crack eggs over the top in the last 10 minutes.
+- **With sausage:** add cured Macedonian klobasica or kielbasa on top in the last 30 minutes.
+- **With pork:** add cubed smoked pork at stage 5.
+- **Vegetarian:** as written.
+- **With egg:** crack eggs over the top in the last 10 minutes.
 
 ## Serving
-At a Macedonian Sunday family lunch · with rakija as starter · in any Macedonian gostilna · at a Macedonian wedding feast · at home as the traditional Balkan comfort food.
+- At a Macedonian Sunday family lunch · with rakija as starter · in any Macedonian gostilna · at a Macedonian wedding feast · at home as the traditional Balkan comfort food.
 
 ## Storage
 Refrigerates 4 days; flavour improves overnight. Freezes 3 months.

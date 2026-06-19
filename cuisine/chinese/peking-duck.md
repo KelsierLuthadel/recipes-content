@@ -59,7 +59,7 @@ Peking duck is the duck of duck dishes, the centrepiece of imperial banquets in 
 - **Resting period:** The 10-minute rest after roasting allows juices to redistribute, keeping meat moist.
 
 ## Serving
-Serve traditional Peking duck style: with Chinese pancakes, spring onion brushes, shredded cucumber, and hoisin or sweet bean sauce for wrapping
+- Serve traditional Peking duck style: with Chinese pancakes, spring onion brushes, shredded cucumber, and hoisin or sweet bean sauce for wrapping
 
 ## Storage
 - Best served immediately for optimal crispness

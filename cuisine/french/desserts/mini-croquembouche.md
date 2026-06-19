@@ -73,7 +73,7 @@ Croquembouche is the French wedding-cake equivalent, a towering cone of caramel-
 - Oil your hands and the mold generously with groundnut oil to prevent sticking; have all ingredients and equipment ready before beginning assembly
 
 ## Serving
-Present the assembled croquembouche on a decorative serving plate or cake stand as an impressive centerpiece. Serve immediately after removing from the mold while the caramel is still crisp. Individual portions can be easily broken away and eaten with fingers. Accompany with a light dessert wine or champagne for elegant presentation.
+- Present the assembled croquembouche on a decorative serving plate or cake stand as an impressive centerpiece. Serve immediately after removing from the mold while the caramel is still crisp. Individual portions can be easily broken away and eaten with fingers. Accompany with a light dessert wine or champagne for elegant presentation.
 
 ## Storage
 The choux balls can be baked 2-3 days ahead and stored in an airtight container at room temperature. The assembled croquembouche is best served immediately, as the caramel coating begins to absorb moisture from the air after a few hours, making it soft and sticky. If assembling ahead, keep in a very dry location and serve within 2-3 hours of assembly.

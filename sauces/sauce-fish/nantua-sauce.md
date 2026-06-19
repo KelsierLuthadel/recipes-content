@@ -66,7 +66,7 @@ Sauce Nantua is the building block for the elegant pale-pink shellfish sauce tha
 - **Pureeing:** This step is essential for smooth, silky texture; blend thoroughly to break down all shell fragments.
 
 ## Serving
-Serve immediately with scallops, langoustine, or delicate white fish fillets including sole, turbot, or halibut.
+- Serve immediately with scallops, langoustine, or delicate white fish fillets including sole, turbot, or halibut.
 
 ## Storage
 - Best eaten immediately after preparation.

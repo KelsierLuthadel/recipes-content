@@ -79,14 +79,14 @@ Arroz de coco angolano is the Angolan everyday rice side, the white-and-cream an
 - **Palm oil colours the dish faintly orange:** that's correct; the dendê pigment gives the rice a buttery hue. Vegetable oil keeps it pure white.
 
 ## Variations
-**With cinnamon:** add 1 small cinnamon stick with the bay and cloves; the Cape-Verdean-Angolan version.
-**With ginger:** add 2 cm grated fresh ginger with the garlic.
-**With raisins:** stir 50 g soaked raisins through before the rest stage; the wedding-table version.
-**Vegan-friendly already:** the dish is plant-based by default.
-**Arroz de coco com peixe:** lay 4 fillets of white fish on top of the rice for the last 8 minutes; one-pot dinner.
+- **With cinnamon:** add 1 small cinnamon stick with the bay and cloves; the Cape-Verdean-Angolan version.
+- **With ginger:** add 2 cm grated fresh ginger with the garlic.
+- **With raisins:** stir 50 g soaked raisins through before the rest stage; the wedding-table version.
+- **Vegan-friendly already:** the dish is plant-based by default.
+- **Arroz de coco com peixe:** lay 4 fillets of white fish on top of the rice for the last 8 minutes; one-pot dinner.
 
 ## Serving
-Beside muamba de galinha (the traditional partner) · with frango piri-piri (the white-rice cooling foil to the chilli heat) · at an Angolan Sunday lunch · with calulu stew · for a Lusophone-African dinner alongside Mozambican prawns · with mufete grilled fish and beans.
+- Beside muamba de galinha (the traditional partner) · with frango piri-piri (the white-rice cooling foil to the chilli heat) · at an Angolan Sunday lunch · with calulu stew · for a Lusophone-African dinner alongside Mozambican prawns · with mufete grilled fish and beans.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

@@ -124,13 +124,13 @@ Hünkar beğendi (literally "the sultan loved it", or "Sultan's Delight") is one
 - **Pierce the eggplants:** unpierced eggplants can burst spectacularly during charring.
 
 ## Variations
-**Beef hünkar beğendi:** swap the lamb for beef chuck or shin; cook 90-110 minutes for proper tenderness. Common modern variation.
-**Chicken hünkar beğendi:** swap the lamb for chicken thigh; reduce cooking to 35-40 minutes. Lighter version.
-**Vegan beğendi:** make the eggplant base without dairy (substitute butter with olive oil, milk with oat milk or warm vegetable stock, skip the cheese); top with a mushroom-and-walnut ragu instead of meat. Less traditional but works.
-**With pomegranate molasses:** add 2 tablespoons of pomegranate molasses to the lamb braise; gives a sweet-sour Aleppo-Antakya style.
+- **Beef hünkar beğendi:** swap the lamb for beef chuck or shin; cook 90-110 minutes for proper tenderness. Common modern variation.
+- **Chicken hünkar beğendi:** swap the lamb for chicken thigh; reduce cooking to 35-40 minutes. Lighter version.
+- **Vegan beğendi:** make the eggplant base without dairy (substitute butter with olive oil, milk with oat milk or warm vegetable stock, skip the cheese); top with a mushroom-and-walnut ragu instead of meat. Less traditional but works.
+- **With pomegranate molasses:** add 2 tablespoons of pomegranate molasses to the lamb braise; gives a sweet-sour Aleppo-Antakya style.
 
 ## Serving
-On warm plates with the meat over the creamed eggplant. Pide bread for mopping up the sauce. Pilav or bulgur pilav on the side. Fresh salad. Drink: rakı with ice and water (the traditional pairing), a glass of Turkish red wine, or Türk kahvesi after.
+- On warm plates with the meat over the creamed eggplant. Pide bread for mopping up the sauce. Pilav or bulgur pilav on the side. Fresh salad. Drink: rakı with ice and water (the traditional pairing), a glass of Turkish red wine, or Türk kahvesi after.
 
 ## Storage
 - Both components keep separately. The lamb braise keeps refrigerated 4 days and freezes 3 months; flavour deepens overnight.

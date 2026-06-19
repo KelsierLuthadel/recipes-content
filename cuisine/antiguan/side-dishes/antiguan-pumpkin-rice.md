@@ -79,14 +79,14 @@ Antiguan pumpkin rice is the everyday Caribbean side that turns a small wedge of
 - **Allspice is the Caribbean signature:** don't substitute mixed spice or cinnamon; the warm-clove note is the whole point.
 
 ## Variations
-**With salt pork:** dice 100 g salt pork and render with the onion for a richer Antiguan stewed-rice version.
-**With pigeon peas:** add a 400 g tin of drained pigeon peas with the coconut milk for a heartier dish closer to a pelau.
-**Vegan-friendly already:** the dish is plant-based if you use vegetable stock; check the butter (swap for coconut oil).
-**With curry powder:** stir 1 tablespoon Antiguan curry powder into the aromatics for a curry-pumpkin rice.
-**Roasted-pumpkin twist:** roast the pumpkin first at 200°C for 15 minutes for a deeper caramel note.
+- **With salt pork:** dice 100 g salt pork and render with the onion for a richer Antiguan stewed-rice version.
+- **With pigeon peas:** add a 400 g tin of drained pigeon peas with the coconut milk for a heartier dish closer to a pelau.
+- **Vegan-friendly already:** the dish is plant-based if you use vegetable stock; check the butter (swap for coconut oil).
+- **With curry powder:** stir 1 tablespoon Antiguan curry powder into the aromatics for a curry-pumpkin rice.
+- **Roasted-pumpkin twist:** roast the pumpkin first at 200°C for 15 minutes for a deeper caramel note.
 
 ## Serving
-With Antiguan saltfish and chop-up (the everyday pairing) · alongside stewed goat or goat water · with grilled snapper at a beach restaurant · for a Sunday lunch with fried chicken · at a Christmas-table buffet alongside black cake · with a wedge of lime and a glass of ginger beer.
+- With Antiguan saltfish and chop-up (the everyday pairing) · alongside stewed goat or goat water · with grilled snapper at a beach restaurant · for a Sunday lunch with fried chicken · at a Christmas-table buffet alongside black cake · with a wedge of lime and a glass of ginger beer.
 
 ## Storage
 - Refrigerates 3 days in a sealed container.

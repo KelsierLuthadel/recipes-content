@@ -52,14 +52,14 @@ A modern Indian-restaurant chutney that splices the bright green-herb chutney wi
 - **Raw Garlic:** The raw garlic is intentional, providing pungent depth that cooking would mellow.
 
 ## Variations
-**Add Ginger:** Include 1 small piece of fresh ginger (grated) with the garlic.
-**Reduce Mango:** Use only 150 ml mango chutney for a brighter, more herbal taste.
-**With Coconut:** Blend in 2 tablespoons desiccated coconut for tropical sweetness.
-**Add Pomegranate:** Stir in 2 tablespoons pomegranate seeds after blending for texture and tartness.
+- **Add Ginger:** Include 1 small piece of fresh ginger (grated) with the garlic.
+- **Reduce Mango:** Use only 150 ml mango chutney for a brighter, more herbal taste.
+- **With Coconut:** Blend in 2 tablespoons desiccated coconut for tropical sweetness.
+- **Add Pomegranate:** Stir in 2 tablespoons pomegranate seeds after blending for texture and tartness.
 
 ## Serving
-Serve with: Lamb seekh kebab, tandoori meats, samosas, pakora, grilled vegetables
-Garnish: Fresh mint leaf, lime wedge
+- Serve with: Lamb seekh kebab, tandoori meats, samosas, pakora, grilled vegetables
+- Garnish: Fresh mint leaf, lime wedge
 
 ## Storage
 - Refrigerate in a covered container for up to 3 days

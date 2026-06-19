@@ -53,13 +53,13 @@ Pico de gallo (or "salsa fresca" or simply "pico") is the traditional Tex-Mex fr
 - **Eat fresh:** day-of best.
 
 ## Variations
-**Spicier:** double the jalapeños; add chopped serrano.
-**With mango:** add 1 finely diced mango; gives a sweet-spicy version.
-**With pineapple:** add diced pineapple.
-**Charred pico:** char the tomatoes and jalapeños briefly under a grill; gives smoky depth.
+- **Spicier:** double the jalapeños; add chopped serrano.
+- **With mango:** add 1 finely diced mango; gives a sweet-spicy version.
+- **With pineapple:** add diced pineapple.
+- **Charred pico:** char the tomatoes and jalapeños briefly under a grill; gives smoky depth.
 
 ## Serving
-With tortilla chips, on tacos, on eggs, on grilled meats. At Texas restaurants table-side.
+- With tortilla chips, on tacos, on eggs, on grilled meats. At Texas restaurants table-side.
 
 ## Storage
 - Best eaten the day made; tomato breaks down after that.

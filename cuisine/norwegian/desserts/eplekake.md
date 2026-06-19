@@ -77,7 +77,7 @@ Eplekake is the everyday Norwegian apple cake - the cake every Norwegian grandmo
 - **Eat warm:** Eplekake is at its best 20-30 minutes out of the oven, when the apples are still warm and the cake is just-set. Cold leftovers are fine but lose some of the magic.
 
 ## Serving
-The afternoon coffee cake of Norwegian summer cabins. Serve with a pot of strong black coffee, a glass of cold milk for the children, and good company.
+- The afternoon coffee cake of Norwegian summer cabins. Serve with a pot of strong black coffee, a glass of cold milk for the children, and good company.
 
 ## Storage
 - Room temperature in a tin 3 days; the apples weep slightly and the cake softens.

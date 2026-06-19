@@ -99,7 +99,7 @@ The original dinner-party showstopper: a domed sponge base hides scoops of vanil
 - Wrap the filled and coated cake immediately after assembly in cling film to protect it and prevent the meringue from absorbing freezer odors
 
 ## Serving
-Trimmed and torched (or baked) baked Alaska should be served immediately while the meringue exterior is warm and golden and the ice cream inside remains frozen. Serve on elegant plates with a warm chocolate or fruit sauce alongside for luxury and celebration. This is a truly showstopping dessert.
+- Trimmed and torched (or baked) baked Alaska should be served immediately while the meringue exterior is warm and golden and the ice cream inside remains frozen. Serve on elegant plates with a warm chocolate or fruit sauce alongside for luxury and celebration. This is a truly showstopping dessert.
 
 ## Storage
 The individual components can be prepared ahead: the sponge 1-2 days before, the ice cream made ahead and frozen, the Italian meringue made 2-3 hours ahead and kept at room temperature (do not refrigerate). Assemble, wrap, and freeze for at least 2 hours (or up to overnight). Torch or bake only when ready to serve, as the finished baked Alaska does not hold well after warming.

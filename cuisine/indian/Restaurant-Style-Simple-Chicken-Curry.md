@@ -91,9 +91,9 @@ This sits apart from the rest of the Restaurant-Style series. The others all bui
 ---
 
 ## Serving
-Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md). A piece of naan or chapati and a small bowl of raita round out the plate. This curry is a good base for chunky vegetable additions, courgette, potato, spinach, peas, all stir in at Stage 5.
+- Pair with plain basmati or [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md). A piece of naan or chapati and a small bowl of raita round out the plate. This curry is a good base for chunky vegetable additions, courgette, potato, spinach, peas, all stir in at Stage 5.
 
----
+- ---
 
 ## Storage
 Keeps 3 days in the fridge in a sealed container. Unlike the base-gravy BIR curries this one freezes well, portion into containers and freeze for up to 2 months. Reheat in a pan with a splash of water rather than the microwave to keep the chicken tender.

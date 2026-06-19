@@ -67,7 +67,7 @@ Mici (also called mititei, meaning "the little ones") are the country's most lov
 - **With a smoked spice:** a quarter-teaspoon of smoked paprika gives a darker note.
 
 ## Serving
-On a wooden board · with English mustard and country bread · with pickled chillies · with a cold Romanian lager (Ursus, Ciuc, Timișoreana) · at a backyard grill in summer.
+- On a wooden board · with English mustard and country bread · with pickled chillies · with a cold Romanian lager (Ursus, Ciuc, Timișoreana) · at a backyard grill in summer.
 
 ## Storage
 - Raw paste: refrigerate up to 48 hours; freezes 2 months.

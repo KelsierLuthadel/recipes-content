@@ -63,14 +63,14 @@ Pap (pronounced "pup", from the Afrikaans for porridge) is South Africa's everyd
 - **Eats well cold:** leftover pap can be sliced and pan-fried in oil for the next day's breakfast (called braaibroodjie when also pressed with cheese), or shaped into balls and dropped into clear stews. Don't waste pap; it has lots of secondary uses.
 
 ## Variations
-**Krummelpap:** use 1 litre of water (instead of 1.2 litres) and stir less hard; the porridge stays grainier and falls apart in crumbs. The proper braai krummelpap is the rural Afrikaans version; serve with grilled boerewors and chakalaka.
-**Slap pap (breakfast porridge):** use 1.5 litres of water and skip the final adding of dry meal; cook for 10 minutes till you have a loose porridge. Serve with milk and brown sugar for breakfast.
-**Mieliemeel met melk (with milk):** finish the cooked pap with 100 ml of milk stirred through in the last 2 minutes; richer pap for a celebration meal.
-**Putu pap:** the Zulu version where the maize meal is steamed rather than boiled, giving a properly crumbly texture; uses a couscoussier-style steamer.
-**Yellow maize pap:** swap white maize meal for yellow; sweeter and more colourful. Common in rural Limpopo and Mpumalanga.
+- **Krummelpap:** use 1 litre of water (instead of 1.2 litres) and stir less hard; the porridge stays grainier and falls apart in crumbs. The proper braai krummelpap is the rural Afrikaans version; serve with grilled boerewors and chakalaka.
+- **Slap pap (breakfast porridge):** use 1.5 litres of water and skip the final adding of dry meal; cook for 10 minutes till you have a loose porridge. Serve with milk and brown sugar for breakfast.
+- **Mieliemeel met melk (with milk):** finish the cooked pap with 100 ml of milk stirred through in the last 2 minutes; richer pap for a celebration meal.
+- **Putu pap:** the Zulu version where the maize meal is steamed rather than boiled, giving a properly crumbly texture; uses a couscoussier-style steamer.
+- **Yellow maize pap:** swap white maize meal for yellow; sweeter and more colourful. Common in rural Limpopo and Mpumalanga.
 
 ## Serving
-Alongside grilled boerewors (sausage), with a generous dollop of [chakalaka](../chakalaka.md) on top, at every South African braai. Also wonderful with bobotie, denningvleis, oxtail stew, or any saucy main. Eat with the right hand by tearing pieces, rolling into small balls, and using to scoop sauce. A small dish of fresh chopped chilli for those who want heat.
+- Alongside grilled boerewors (sausage), with a generous dollop of [chakalaka](../chakalaka.md) on top, at every South African braai. Also wonderful with bobotie, denningvleis, oxtail stew, or any saucy main. Eat with the right hand by tearing pieces, rolling into small balls, and using to scoop sauce. A small dish of fresh chopped chilli for those who want heat.
 
 ## Storage
 - Best eaten warm from the pot.

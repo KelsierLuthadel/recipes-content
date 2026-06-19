@@ -118,17 +118,17 @@ Jamaican jerk marinade is the building block for the island's slow-grilled chick
 - **Basting During Cooking:** The remaining marinade can baste during grilling, building flavor crust (be aware paste can char, cook over medium-not-high heat).
 
 ## Variations
-**Extra Spicy:** Add 3-4 Scotch bonnet chillies (if you can tolerate genuine heat); keep all seeds.
-**Sweeter Version:** Add 1-2 teaspoons dark brown sugar to the pan during cooking.
-**With Cloves:** Add ¼ teaspoon ground cloves during spice stage for deeper warming spice.
-**Less Rum:** Use 1 tablespoon rum instead of 2-3 tablespoons for lighter flavor.
-**Extra Thyme:** Use 3 fresh thyme sprigs for herbal emphasis; it's a signature Jamaican flavor.
+- **Extra Spicy:** Add 3-4 Scotch bonnet chillies (if you can tolerate genuine heat); keep all seeds.
+- **Sweeter Version:** Add 1-2 teaspoons dark brown sugar to the pan during cooking.
+- **With Cloves:** Add ¼ teaspoon ground cloves during spice stage for deeper warming spice.
+- **Less Rum:** Use 1 tablespoon rum instead of 2-3 tablespoons for lighter flavor.
+- **Extra Thyme:** Use 3 fresh thyme sprigs for herbal emphasis; it's a signature Jamaican flavor.
 
 ## Serving
-Use on: Whole chicken, chicken pieces, pork chops, lamb, fish, vegetables
-Marinating time: Minimum 8 hours, up to 24 hours for deeper flavor
-Cooking method: Grill over charcoal/smoke for authentic jerk; pan-frying acceptable
-Internal temperature for doneness: Chicken 74°C (165°F), Pork 71°C (160°F), Lamb 63°C (145°F medium-rare)
+- Use on: Whole chicken, chicken pieces, pork chops, lamb, fish, vegetables
+- Marinating time: Minimum 8 hours, up to 24 hours for deeper flavor
+- Cooking method: Grill over charcoal/smoke for authentic jerk; pan-frying acceptable
+- Internal temperature for doneness: Chicken 74°C (165°F), Pork 71°C (160°F), Lamb 63°C (145°F medium-rare)
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days before applying to meat

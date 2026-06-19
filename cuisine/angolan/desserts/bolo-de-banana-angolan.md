@@ -74,7 +74,7 @@ Bolo de banana is the easy weekday cake of the Angolan home, a tender, slightly 
 - **Fold in the dry ingredients:** Beating after the flour goes in builds gluten and toughens the cake. A spatula and a folding motion is right.
 
 ## Serving
-With a glass of cold milk or strong black coffee. A slice for breakfast, a slice with afternoon tea. A spoon of jam or a slice of fresh banana on top is the home flourish.
+- With a glass of cold milk or strong black coffee. A slice for breakfast, a slice with afternoon tea. A spoon of jam or a slice of fresh banana on top is the home flourish.
 
 ## Storage
 - Keeps 4 days at room temperature in a tin.

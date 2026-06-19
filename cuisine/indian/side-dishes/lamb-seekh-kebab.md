@@ -77,15 +77,15 @@ Seekh kebab is restaurant-quality barbecue. Unlike simple meatballs, seekh kebab
 - **Metal Skewers:** These conduct heat; avoid wooden skewers, which can burn. Flat skewers hold meat better than round ones.
 
 ## Variations
-**Spicier Heat:** Increase green chillies to 3-4 or add ½ teaspoon chilli powder.
-**With Pomegranate:** Mix in 2-3 tablespoons pomegranate seeds after kneading for sweetness and moisture.
-**Minced Chicken:** Substitute chicken mince for lamb; reduce cooking time to 10-12 minutes (chicken dries faster).
-**Extra Herbs:** Include 1 tablespoon fresh mint leaves or add ¼ teaspoon asafoetida.
+- **Spicier Heat:** Increase green chillies to 3-4 or add ½ teaspoon chilli powder.
+- **With Pomegranate:** Mix in 2-3 tablespoons pomegranate seeds after kneading for sweetness and moisture.
+- **Minced Chicken:** Substitute chicken mince for lamb; reduce cooking time to 10-12 minutes (chicken dries faster).
+- **Extra Herbs:** Include 1 tablespoon fresh mint leaves or add ¼ teaspoon asafoetida.
 
 ## Serving
-Serve with: Rice pilau, breads (naan, rotis), raita
-Garnish: Fresh coriander, lemon wedges, thinly sliced red onion
-Accompaniments: Yoghurt, lemon juice, fresh mint
+- Serve with: Rice pilau, breads (naan, rotis), raita
+- Garnish: Fresh coriander, lemon wedges, thinly sliced red onion
+- Accompaniments: Yoghurt, lemon juice, fresh mint
 
 ## Storage
 - Refrigerate molded raw kebabs on a tray for up to 24 hours (covered)

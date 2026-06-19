@@ -86,14 +86,14 @@ Stegt flæsk med persillesovs (literally "fried pork belly with parsley sauce") 
 - **National dish status:** if Denmark could only eat one dish, this is it. Voted 2014.
 
 ## Variations
-**Stegt flæsk i ovn (oven version):** roast the pork belly slices on a rack at 220°C for 15-20 minutes instead of pan-frying. Less interactive, more even.
-**With apple-and-bacon (æbleflæsk):** swap the persillesovs for apples cooked with bacon and onion. A different but equally Danish preparation.
-**With fennel parsley sauce:** add chopped fennel fronds to the persillesovs for a brighter variant.
-**Vegetarian-ish:** swap the pork belly for thick slices of grilled portobello mushrooms; keep the persillesovs (works beautifully).
-**With grilled chops:** use thick pork chops instead of pork belly.
+- **Stegt flæsk i ovn (oven version):** roast the pork belly slices on a rack at 220°C for 15-20 minutes instead of pan-frying. Less interactive, more even.
+- **With apple-and-bacon (æbleflæsk):** swap the persillesovs for apples cooked with bacon and onion. A different but equally Danish preparation.
+- **With fennel parsley sauce:** add chopped fennel fronds to the persillesovs for a brighter variant.
+- **Vegetarian-ish:** swap the pork belly for thick slices of grilled portobello mushrooms; keep the persillesovs (works beautifully).
+- **With grilled chops:** use thick pork chops instead of pork belly.
 
 ## Serving
-At a Danish family Friday-night dinner · at a Danish countryside kro (country inn) · at a Christmas lunch (julefrokost) · at a Danish Embassy reception abroad · at home with a cold beer and a small akvavit.
+- At a Danish family Friday-night dinner · at a Danish countryside kro (country inn) · at a Christmas lunch (julefrokost) · at a Danish Embassy reception abroad · at home with a cold beer and a small akvavit.
 
 ## Storage
 - Cooked pork belly refrigerates 3 days; re-crisp in a hot pan briefly.

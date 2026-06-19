@@ -48,7 +48,7 @@ Chocolate raspberry tart is the dinner-party finisher every French restaurant ha
 - Fresh raspberries should be added before pouring the ganache so they stay suspended.
 
 ## Serving
-Serve the tart chilled or just removed from the fridge, allowing it to soften slightly before cutting. Pair with crème fraîche or a dusting of cocoa powder for an elegant finish.
+- Serve the tart chilled or just removed from the fridge, allowing it to soften slightly before cutting. Pair with crème fraîche or a dusting of cocoa powder for an elegant finish.
 
 ## Storage
 Keep the tart refrigerated for up to 3 days. Cover it well to prevent it from absorbing fridge odors; do not freeze, as the ganache texture will degrade.

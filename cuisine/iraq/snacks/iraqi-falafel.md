@@ -98,14 +98,14 @@ Iraqi falafel is the version with cardamom and dill, distinct from the Levantine
 - **Amba pairing:** Iraqi falafel in samoon without amba is incomplete; the sour-sweet-mango pickle is the signature condiment.
 
 ## Variations
-**Baked:** Brush with oil; bake at 220°C for 18 minutes, turning once. Lighter but the texture is denser.
-**With chickpea flour crust:** Roll each shaped patty in chickpea flour before frying for an extra-crisp crust.
-**Green falafel:** Double the parsley and add 50 g spinach for a deep-green Iraqi-style.
+- **Baked:** Brush with oil; bake at 220°C for 18 minutes, turning once. Lighter but the texture is denser.
+- **With chickpea flour crust:** Roll each shaped patty in chickpea flour before frying for an extra-crisp crust.
+- **Green falafel:** Double the parsley and add 50 g spinach for a deep-green Iraqi-style.
 
 ## Serving
-Serve in: warm samoon (Iraqi bread) with tahini-yoghurt, amba, sliced tomato, cucumber, red onion, parsley, sumac.
-Alternative: as a mezze plate with hummus, baba ganoush, pickles, flatbread.
-Drink: salted lassi, lemonade with mint, or strong black tea with cardamom.
+- Serve in: warm samoon (Iraqi bread) with tahini-yoghurt, amba, sliced tomato, cucumber, red onion, parsley, sumac.
+- Alternative: as a mezze plate with hummus, baba ganoush, pickles, flatbread.
+- Drink: salted lassi, lemonade with mint, or strong black tea with cardamom.
 
 ## Storage
 - Best within 30 minutes of frying.

@@ -104,13 +104,13 @@ Francesinha (literally "little French girl") is Porto's iconic over-the-top sand
 - **Best with cold beer:** the traditional Portuguese pairing.
 
 ## Variations
-**Francesinha do mar (seafood):** swap the meats for shrimp, salt cod and grilled fish; coastal Porto variation.
-**Vegetarian francesinha:** swap meats for grilled mushrooms, eggplant and roasted peppers.
-**Spicier:** double the piri-piri; properly Porto-Portuguese fierce.
-**With chips inside the sandwich:** some Porto restaurants put fries inside the sandwich; even more excess.
+- **Francesinha do mar (seafood):** swap the meats for shrimp, salt cod and grilled fish; coastal Porto variation.
+- **Vegetarian francesinha:** swap meats for grilled mushrooms, eggplant and roasted peppers.
+- **Spicier:** double the piri-piri; properly Porto-Portuguese fierce.
+- **With chips inside the sandwich:** some Porto restaurants put fries inside the sandwich; even more excess.
 
 ## Serving
-In a deep wide dish with fries piled alongside (or in the sauce). Cold Portuguese beer (Super Bock, Sagres). At any Porto diner or as a Portuguese-themed weekend meal.
+- In a deep wide dish with fries piled alongside (or in the sauce). Cold Portuguese beer (Super Bock, Sagres). At any Porto diner or as a Portuguese-themed weekend meal.
 
 ## Storage
 - Best eaten immediately.

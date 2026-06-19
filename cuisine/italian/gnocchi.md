@@ -64,12 +64,12 @@ Gnocchi are the Italian potato dumplings, cloud-like pillows of potato dough tha
 - **Fork Technique:** This creates grooves to trap sauce and identifies homemade gnocchi.
 
 ## Variations
-**Spinach Gnocchi:** Add 100g finely chopped spinach (squeezed dry) to the dough for color and earthiness.
-**Semolina:** Substitute 30g of flour with fine semolina for slightly more texture.
+- **Spinach Gnocchi:** Add 100g finely chopped spinach (squeezed dry) to the dough for color and earthiness.
+- **Semolina:** Substitute 30g of flour with fine semolina for slightly more texture.
 
 ## Serving
-Serve with: Butter and sage, fresh pesto, tomato sauce, or creamy mushroom sauce
-Garnish with: Freshly grated Parmesan and fresh basil or sage
+- Serve with: Butter and sage, fresh pesto, tomato sauce, or creamy mushroom sauce
+- Garnish with: Freshly grated Parmesan and fresh basil or sage
 
 ## Storage
 - Uncooked gnocchi freeze beautifully on a tray, then transfer to freezer bags for up to 1 month (cook from frozen, adding 1-2 minutes)

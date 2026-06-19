@@ -63,7 +63,7 @@ Frijoles molidos translates as "ground beans", the Costa Rican name for black be
 - **Frijoles con queso:** Top with crumbled fresh white cheese and a few coriander leaves for the table.
 
 ## Serving
-Serve warm on a casado plate next to white rice · spread on warm corn tortillas for breakfast · topped with crumbled fresh white cheese · as a base under a fried egg and gallo pinto · spooned onto patacones as a topping
+- Serve warm on a casado plate next to white rice · spread on warm corn tortillas for breakfast · topped with crumbled fresh white cheese · as a base under a fried egg and gallo pinto · spooned onto patacones as a topping
 
 ## Storage
 - Frijoles molidos keep 5 days refrigerated and improve overnight

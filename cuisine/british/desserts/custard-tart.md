@@ -72,7 +72,7 @@ The flan boulanger of every French village bakery, in its British dinner-party f
 - The poached prunes and candied peel add a rich, complementary contrast to the custard.
 
 ## Serving
-Serve the tart slightly chilled or at room temperature with the warm poached prunes spooned alongside. A little crème fraîche or whipped cream is a lovely accompaniment.
+- Serve the tart slightly chilled or at room temperature with the warm poached prunes spooned alongside. A little crème fraîche or whipped cream is a lovely accompaniment.
 
 ## Storage
 Store leftovers in the refrigerator for up to 3 days, covered. Freezing is not recommended because the custard can become watery when thawed.

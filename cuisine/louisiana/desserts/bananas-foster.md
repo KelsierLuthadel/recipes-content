@@ -65,13 +65,13 @@ Bananas Foster is the iconic New Orleans dessert, invented in 1951 at Brennan's 
 - **Hot sauce + cold ice cream:** essential contrast.
 
 ## Variations
-**Without alcohol:** skip rum/liqueur; sauce is still good without the flambé.
-**With pecans:** add toasted chopped pecans to the sauce.
-**Bananas Foster pancakes:** spoon sauce over pancakes.
-**Bananas Foster French toast:** spoon over French toast.
+- **Without alcohol:** skip rum/liqueur; sauce is still good without the flambé.
+- **With pecans:** add toasted chopped pecans to the sauce.
+- **Bananas Foster pancakes:** spoon sauce over pancakes.
+- **Bananas Foster French toast:** spoon over French toast.
 
 ## Serving
-At the table with showmanship. Sunday brunch; dinner finale.
+- At the table with showmanship. Sunday brunch; dinner finale.
 
 ## Storage
 - Best immediately.

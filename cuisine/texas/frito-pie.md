@@ -81,13 +81,13 @@ Frito pie is one of Texas's most iconic working-class foods and a fixture of sta
 - **Serve immediately:** part of the appeal is the texture contrast.
 
 ## Variations
-**New Mexico Frito Pie:** swap Texas chili for red or green New Mexico chile; the rival regional version.
-**Bean version:** use Texas chili with beans (Texans will be cross, but it's still good).
-**Chicken/pulled-pork version:** swap chili for pulled pork in BBQ sauce or shredded chicken in green chile.
-**Spicy version:** add Cayenne and chopped fresh habanero; properly fierce Texan.
+- **New Mexico Frito Pie:** swap Texas chili for red or green New Mexico chile; the rival regional version.
+- **Bean version:** use Texas chili with beans (Texans will be cross, but it's still good).
+- **Chicken/pulled-pork version:** swap chili for pulled pork in BBQ sauce or shredded chicken in green chile.
+- **Spicy version:** add Cayenne and chopped fresh habanero; properly fierce Texan.
 
 ## Serving
-At state fairs, football games, school cafeterias, anywhere Texan working-class food is celebrated. Cold soda, beer, or sweet tea.
+- At state fairs, football games, school cafeterias, anywhere Texan working-class food is celebrated. Cold soda, beer, or sweet tea.
 
 ## Storage
 - Best eaten immediately.

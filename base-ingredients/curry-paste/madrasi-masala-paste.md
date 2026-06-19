@@ -104,16 +104,16 @@ Madrasi masala paste is the building block for fiercely hot south-Indian-style c
 - **Storage Temperature:** Always refrigerate; the fresh aromatics and oil can support bacterial growth at room temperature.
 
 ## Variations
-**Less Heat:** Deseed the dried chillies and reduce chilli powder to 1 teaspoon.
-**More Complex Heat:** Add 1 teaspoon ground cloves during the grinding stage.
-**With Tomato:** Replace 50 ml vinegar with tomato purée for deeper savory notes beneath the heat.
-**Extra Warmth:** Add 1 teaspoon ground cinnamon or ½ teaspoon ground nutmeg.
+- **Less Heat:** Deseed the dried chillies and reduce chilli powder to 1 teaspoon.
+- **More Complex Heat:** Add 1 teaspoon ground cloves during the grinding stage.
+- **With Tomato:** Replace 50 ml vinegar with tomato purée for deeper savory notes beneath the heat.
+- **Extra Warmth:** Add 1 teaspoon ground cinnamon or ½ teaspoon ground nutmeg.
 
 ## Serving
-Use in: Madras curries, powerfully spiced curries, curries requiring genuine heat
-Typical ratio: 2-3 tablespoons per 400 ml water or stock (this paste is concentrated)
-Cooking: Fry in hot oil with onions before adding liquid and ingredients; be prepared for a spicy result
-Temperature: Requires cooking in hot oil before use
+- Use in: Madras curries, powerfully spiced curries, curries requiring genuine heat
+- Typical ratio: 2-3 tablespoons per 400 ml water or stock (this paste is concentrated)
+- Cooking: Fry in hot oil with onions before adding liquid and ingredients; be prepared for a spicy result
+- Temperature: Requires cooking in hot oil before use
 
 ## Storage
 - Refrigerate in sealed jars with oil overlay for up to 2 months

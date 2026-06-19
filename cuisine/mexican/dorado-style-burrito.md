@@ -50,11 +50,11 @@
 - **Seam down first:** Seam-side down seals as it sears, so the burrito doesn't open mid-cook.
 
 ## Variations
-**Cheese exterior:** Sprinkle a layer of cheese on the plancha just before the burrito goes on, so the cheese melts and crisps directly onto the tortilla skin. The Tex-Mex evolution.
-**Veggie:** Use roasted vegetables, beans and rice; the sear works just as well.
+- **Cheese exterior:** Sprinkle a layer of cheese on the plancha just before the burrito goes on, so the cheese melts and crisps directly onto the tortilla skin. The Tex-Mex evolution.
+- **Veggie:** Use roasted vegetables, beans and rice; the sear works just as well.
 
 ## Serving
-Serve halved on the diagonal so the cross-section shows. Salsa verde, hot sauce and a cold beer on the side.
+- Serve halved on the diagonal so the cross-section shows. Salsa verde, hot sauce and a cold beer on the side.
 
 ## Storage
 - Assembled and seared burritos eat best fresh; the crisp exterior softens within an hour

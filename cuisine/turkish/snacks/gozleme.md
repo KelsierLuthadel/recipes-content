@@ -128,13 +128,13 @@ Gözleme is Turkey's most iconic village flatbread, originally made by Anatolian
 - **Eat immediately:** gözleme is best fresh off the griddle. Goes off-texture (chewy and leathery) as it cools.
 
 ## Variations
-**Cheese-only gözleme:** 200 g grated kashar + 200 g feta + chopped parsley + dill. Simplest filling, kid-friendly.
-**Mushroom and walnut gözleme:** 300 g chopped mushrooms cooked with onion + 80 g chopped walnuts + chopped parsley. Common vegan-friendly variation.
-**Spicier gözleme:** add 1 tablespoon of Turkish red pepper paste to any filling; gives a properly warm version.
-**Mini gözleme:** divide the dough into 8 smaller pieces; fold into smaller pockets; great for party trays.
+- **Cheese-only gözleme:** 200 g grated kashar + 200 g feta + chopped parsley + dill. Simplest filling, kid-friendly.
+- **Mushroom and walnut gözleme:** 300 g chopped mushrooms cooked with onion + 80 g chopped walnuts + chopped parsley. Common vegan-friendly variation.
+- **Spicier gözleme:** add 1 tablespoon of Turkish red pepper paste to any filling; gives a properly warm version.
+- **Mini gözleme:** divide the dough into 8 smaller pieces; fold into smaller pockets; great for party trays.
 
 ## Serving
-Hot off the griddle, cut into wedges or strips, with plain yogurt for dipping and lemon wedges for squeezing. With a cold glass of ayran (the traditional pairing) or hot sweet tea. As breakfast, lunch, or street snack. Often part of a weekend Turkish breakfast spread.
+- Hot off the griddle, cut into wedges or strips, with plain yogurt for dipping and lemon wedges for squeezing. With a cold glass of ayran (the traditional pairing) or hot sweet tea. As breakfast, lunch, or street snack. Often part of a weekend Turkish breakfast spread.
 
 ## Storage
 - Best eaten fresh and hot.

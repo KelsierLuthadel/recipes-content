@@ -59,7 +59,7 @@ For the chop-up:
 - **With avocado:** A wedge of avocado pear cools the heat of the Scotch bonnet.
 
 ## Serving
-Serve with fry bakes or fresh white bread · cold ginger beer · a wedge of lime · hot pepper sauce on the table.
+- Serve with fry bakes or fresh white bread · cold ginger beer · a wedge of lime · hot pepper sauce on the table.
 
 ## Storage
 - Saltfish keeps 3 days refrigerated, the flavour deepens

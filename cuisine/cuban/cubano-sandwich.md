@@ -73,13 +73,13 @@ The Cubano sandwich is one of the most iconic sandwiches in the world and the tr
 - **No mayo or lettuce:** the Cubano sandwich is precisely defined. No mayonnaise, no lettuce, no tomato. The simplicity is the point.
 
 ## Variations
-**Medianoche (the "midnight" version):** swap the Cuban bread for a soft sweet egg-bread roll (pan suave); same fillings; pressed the same way. Sweeter softer version eaten in Cuba at midnight after parties.
-**With salami (Tampa-style):** include 80 g of thinly sliced Genoa salami; reflects the Italian-Cuban heritage of Tampa's Ybor City.
-**Pan con bistec:** swap the pork-and-ham for a thin minute-steak, with onions; less traditional but a related Cuban classic.
-**Vegetarian Cubano:** swap the meats for grilled portobello mushrooms + roasted red peppers; keep cheese and pickles; still excellent pressed.
+- **Medianoche (the "midnight" version):** swap the Cuban bread for a soft sweet egg-bread roll (pan suave); same fillings; pressed the same way. Sweeter softer version eaten in Cuba at midnight after parties.
+- **With salami (Tampa-style):** include 80 g of thinly sliced Genoa salami; reflects the Italian-Cuban heritage of Tampa's Ybor City.
+- **Pan con bistec:** swap the pork-and-ham for a thin minute-steak, with onions; less traditional but a related Cuban classic.
+- **Vegetarian Cubano:** swap the meats for grilled portobello mushrooms + roasted red peppers; keep cheese and pickles; still excellent pressed.
 
 ## Serving
-Cut diagonally on a board, with mariquitas (plantain chips) on the side. A cold Cristal beer or a mojito. Or a glass of cafe Cubano (the strong Cuban espresso) for the morning version. At lunch at any Cuban café in Miami or Tampa; or at home with proper Cuban bread.
+- Cut diagonally on a board, with mariquitas (plantain chips) on the side. A cold Cristal beer or a mojito. Or a glass of cafe Cubano (the strong Cuban espresso) for the morning version. At lunch at any Cuban café in Miami or Tampa; or at home with proper Cuban bread.
 
 ## Storage
 - Best eaten immediately while crispy.

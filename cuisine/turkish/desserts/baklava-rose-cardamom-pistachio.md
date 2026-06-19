@@ -69,7 +69,7 @@ Where classical Turkish baklava layers walnut or pistachio between many sheets o
 - The whole-pistachio scatter inside each cylinder gives the slices their visible bright green flecks. Don't skip it.
 
 ## Serving
-Two pieces on a small plate after a meal, with strong unsweetened coffee or mint tea. Stored cool but not cold, fridge dries the pastry out.
+- Two pieces on a small plate after a meal, with strong unsweetened coffee or mint tea. Stored cool but not cold, fridge dries the pastry out.
 
 ## Storage
 In a covered container at room temperature for up to 5 days. The syrup keeps the baklava moist for longer than a dry baklava, but the pastry softens slightly after day 2.

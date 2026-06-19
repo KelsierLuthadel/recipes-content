@@ -103,14 +103,14 @@ Varenyky are Ukraine's beloved filled dumplings: half-moon pasta pockets that tu
 - **The dough must rest:** the 30-minute rest is what gives the dumplings their proper tender bite. Skipping it gives tough chewy varenyky.
 
 ## Variations
-**Cheese (twarog) filling:** 400 g of twarog (Ukrainian fresh white cheese; substitute with farmer cheese or well-drained cottage cheese), 1 beaten egg, 2 tablespoons sugar, 1 teaspoon vanilla. The classic savoury-sweet filling; serve with smetana and a drizzle of honey.
-**Cherry filling (sweet summer varenyky):** 500 g fresh pitted sour cherries tossed with 4 tablespoons sugar and 2 tablespoons cornflour. Fill the dough rounds, seal tightly (cherries are juicy and prone to leaking), boil. Serve with smetana and a sprinkle of sugar. The summer-celebration version.
-**Sauerkraut and mushroom filling:** 200 g sauerkraut (squeezed dry), 200 g mushrooms (chopped and sautéed in butter with onion), salt and pepper. The winter and lent-season filling; serve with melted butter and crispy fried onion (no smetana on lent days).
-**Blueberry filling:** 400 g fresh or frozen blueberries with 4 tablespoons sugar and 2 tablespoons cornflour. The deep-blue summer dessert version.
-**Lazy varenyky (lazy cheese dumplings):** the no-roll version; mix twarog with egg, flour and sugar into a soft dough, shape into small dumplings or roll into a log and slice. Boil; serve as breakfast or dessert. Much quicker.
+- **Cheese (twarog) filling:** 400 g of twarog (Ukrainian fresh white cheese; substitute with farmer cheese or well-drained cottage cheese), 1 beaten egg, 2 tablespoons sugar, 1 teaspoon vanilla. The classic savoury-sweet filling; serve with smetana and a drizzle of honey.
+- **Cherry filling (sweet summer varenyky):** 500 g fresh pitted sour cherries tossed with 4 tablespoons sugar and 2 tablespoons cornflour. Fill the dough rounds, seal tightly (cherries are juicy and prone to leaking), boil. Serve with smetana and a sprinkle of sugar. The summer-celebration version.
+- **Sauerkraut and mushroom filling:** 200 g sauerkraut (squeezed dry), 200 g mushrooms (chopped and sautéed in butter with onion), salt and pepper. The winter and lent-season filling; serve with melted butter and crispy fried onion (no smetana on lent days).
+- **Blueberry filling:** 400 g fresh or frozen blueberries with 4 tablespoons sugar and 2 tablespoons cornflour. The deep-blue summer dessert version.
+- **Lazy varenyky (lazy cheese dumplings):** the no-roll version; mix twarog with egg, flour and sugar into a soft dough, shape into small dumplings or roll into a log and slice. Boil; serve as breakfast or dessert. Much quicker.
 
 ## Serving
-In shallow bowls with the trio of butter, smetana and fried onion as the traditional finish. A glass of horilka (Ukrainian vodka) traditionally, or kompot (the fruit drink) for non-drinkers. Borscht alongside for the proper Ukrainian feast.
+- In shallow bowls with the trio of butter, smetana and fried onion as the traditional finish. A glass of horilka (Ukrainian vodka) traditionally, or kompot (the fruit drink) for non-drinkers. Borscht alongside for the proper Ukrainian feast.
 
 ## Storage
 - The shaped uncooked varenyky freeze 2 months on a tray (lay flat in a single layer to freeze; then transfer to a bag once solid). Cook from frozen; add 1-2 minutes to the boiling time.

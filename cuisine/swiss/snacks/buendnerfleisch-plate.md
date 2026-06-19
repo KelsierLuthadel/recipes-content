@@ -70,7 +70,7 @@ Bündnerfleisch is the air-dried, salt-cured beef of Graubünden - lean topside 
 - **Wafer-thin only:** Thick slices of Bündnerfleisch are unpleasant and chewy. Use a sharp knife, light pressure, long strokes. If your knife isn't up to it, buy pre-sliced.
 
 ## Serving
-Serve as an apéro before dinner with a glass of dry Swiss white wine (Chasselas, Müller-Thurgau) or a Pinot Noir from Graubünden. The Swiss tradition is to assemble this around 6pm and let people pick at it for 30-40 minutes before sitting down to dinner.
+- Serve as an apéro before dinner with a glass of dry Swiss white wine (Chasselas, Müller-Thurgau) or a Pinot Noir from Graubünden. The Swiss tradition is to assemble this around 6pm and let people pick at it for 30-40 minutes before sitting down to dinner.
 
 ## Storage
 - Best assembled fresh; cured meats dry out on the board.

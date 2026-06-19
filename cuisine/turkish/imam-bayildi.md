@@ -110,13 +110,13 @@
 - **Make ahead:** imam bayıldı is even better the next day. Make in advance, refrigerate, bring to room temperature before serving.
 
 ## Variations
-**With pine nuts and currants:** add 50 g of toasted pine nuts and 50 g of currants to the onion filling; gives a sweeter Ottoman-court-style variation.
-**With chickpeas (chickpea-stuffed):** add 100 g of cooked chickpeas to the filling; makes the dish more substantial as a main course.
-**Sweeter version:** add a tablespoon of pomegranate molasses to the cooking liquid; gives a sweet-tart finishing note.
-**Hot version (less traditional):** serve straight from the pot while still warm; works but loses the proper imam bayıldı character.
+- **With pine nuts and currants:** add 50 g of toasted pine nuts and 50 g of currants to the onion filling; gives a sweeter Ottoman-court-style variation.
+- **With chickpeas (chickpea-stuffed):** add 100 g of cooked chickpeas to the filling; makes the dish more substantial as a main course.
+- **Sweeter version:** add a tablespoon of pomegranate molasses to the cooking liquid; gives a sweet-tart finishing note.
+- **Hot version (less traditional):** serve straight from the pot while still warm; works but loses the proper imam bayıldı character.
 
 ## Serving
-At room temperature on a wide platter, the eggplants laid out in a row with the oily sauce pooled around. Warm pide bread on the side for dipping. Lemon wedges, olives, cheese. As a meze, a starter or a vegetarian main course. Drink: rakı (the traditional meze pairing), Turkish red wine, or cold beer.
+- At room temperature on a wide platter, the eggplants laid out in a row with the oily sauce pooled around. Warm pide bread on the side for dipping. Lemon wedges, olives, cheese. As a meze, a starter or a vegetarian main course. Drink: rakı (the traditional meze pairing), Turkish red wine, or cold beer.
 
 ## Storage
 - Best after 12 hours in the fridge; the flavours need time to marry.

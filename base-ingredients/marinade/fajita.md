@@ -110,17 +110,17 @@ Fajita marinade is the building block for Tex-Mex skirt-steak, chicken and prawn
 - **Vegetables:** Bell peppers and onions can be cooked with the protein or separately, then tossed together.
 
 ## Variations
-**Extra Spicy:** Add ½-1 teaspoon crushed red chilli flakes; use hot chilli powder exclusively.
-**With Fresh coriander:** Add 1-2 tablespoons fresh chopped fresh coriander for herbal brightness.
-**Sweeter:** Add 1-2 teaspoons honey or agave to balance heat and char.
-**With Coriander:** Add ½ teaspoon ground coriander for complexity.
-**Extra Garlic:** Add 2 additional crushed garlic cloves for pungency.
+- **Extra Spicy:** Add ½-1 teaspoon crushed red chilli flakes; use hot chilli powder exclusively.
+- **With Fresh coriander:** Add 1-2 tablespoons fresh chopped fresh coriander for herbal brightness.
+- **Sweeter:** Add 1-2 teaspoons honey or agave to balance heat and char.
+- **With Coriander:** Add ½ teaspoon ground coriander for complexity.
+- **Extra Garlic:** Add 2 additional crushed garlic cloves for pungency.
 
 ## Serving
-Use on: Chicken breast strips, beef strips (flank or sirloin), pork loin strips, large shrimp
-Marinating time: Thin-cut meats 1-4 hours; Optimal 3-4 hours in refrigerator
-Cooking method: High-heat searing in cast-iron skillet for 5-8 minutes per protein
-Serving with: Warm flour or corn tortillas, sautéed bell peppers and onions, guacamole, sour cream, salsa
+- Use on: Chicken breast strips, beef strips (flank or sirloin), pork loin strips, large shrimp
+- Marinating time: Thin-cut meats 1-4 hours; Optimal 3-4 hours in refrigerator
+- Cooking method: High-heat searing in cast-iron skillet for 5-8 minutes per protein
+- Serving with: Warm flour or corn tortillas, sautéed bell peppers and onions, guacamole, sour cream, salsa
 
 ## Storage
 - Unabsorbed marinade keeps refrigerated for 3-4 days in sealed glass jar

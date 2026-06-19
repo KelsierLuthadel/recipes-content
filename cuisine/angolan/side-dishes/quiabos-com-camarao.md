@@ -56,7 +56,7 @@ Quiabos com camarão is one of the easy Angolan dishes to like, a pan of fresh o
 - **Palm oil for the colour:** Vegetable oil with paprika gives a passable substitute but the real dendê flavour is unmatched.
 
 ## Serving
-Alongside funje, white rice or grilled fish. A bowl of jindungo on the side.
+- Alongside funje, white rice or grilled fish. A bowl of jindungo on the side.
 
 ## Storage
 - Best fresh, but keeps 2 days refrigerated.

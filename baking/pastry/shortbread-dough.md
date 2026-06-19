@@ -34,7 +34,7 @@ Pâte sablée is the building block for the most delicate tart shells and biscui
 - The dough softens rapidly due to its high butter content; multiple brief chilling periods may be necessary during rolling
 
 ## Serving
-Use to line tartlet molds for pétit fours, as a base for tarts with light fillings (fruit or cream), or cut into decorative shapes for petit fours secs. The delicate crumb pairs beautifully with light fillings and creams. Often glazed or dusted with icing sugar for finished presentations.
+- Use to line tartlet molds for pétit fours, as a base for tarts with light fillings (fruit or cream), or cut into decorative shapes for petit fours secs. The delicate crumb pairs beautifully with light fillings and creams. Often glazed or dusted with icing sugar for finished presentations.
 
 ## Storage
 Wrap unrolled dough and refrigerate for up to 2 days, or freeze for up to 1 month. Thaw frozen dough in the refrigerator before rolling. Cut shapes can be frozen on a tray, then transferred to a container for up to 1 month; bake directly from frozen, adding 2-3 minutes to baking time. Baked pastry items store in an airtight container for 3-4 days.

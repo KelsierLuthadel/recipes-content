@@ -79,13 +79,13 @@ Chitumbuwa is Zimbabwe's beloved street-market banana fritter, a sweet snack sol
 - **Spaced fritters:** don't overcrowd the oil; 4-5 at a time gives proper crisping. Overcrowded fritters steam each other.
 
 ## Variations
-**Sweet potato chitumbuwa:** swap half the banana for boiled-and-mashed sweet potato; gives an earthier autumn-leaning version. Common in some rural Zim communities.
-**Coconut chitumbuwa:** add 60 g of desiccated coconut to the batter; gives a tropical version common in Mashonaland.
-**Spiced chitumbuwa:** double the cinnamon, add ½ teaspoon of ground ginger and ¼ teaspoon of allspice; gives a properly festive Christmas-friendly version.
-**Apple chitumbuwa:** add 1 grated apple to the batter for extra fruit; common modern variation in city kitchens.
+- **Sweet potato chitumbuwa:** swap half the banana for boiled-and-mashed sweet potato; gives an earthier autumn-leaning version. Common in some rural Zim communities.
+- **Coconut chitumbuwa:** add 60 g of desiccated coconut to the batter; gives a tropical version common in Mashonaland.
+- **Spiced chitumbuwa:** double the cinnamon, add ½ teaspoon of ground ginger and ¼ teaspoon of allspice; gives a properly festive Christmas-friendly version.
+- **Apple chitumbuwa:** add 1 grated apple to the batter for extra fruit; common modern variation in city kitchens.
 
 ## Serving
-With strong sweet milky tea (the Zimbabwean way: strong tea, full-cream milk, plenty of sugar). Or with cold maheu (the fermented maize drink). At children's parties, after-school snacks, church gatherings, weddings, funerals; chitumbuwa appears at every kind of Zimbabwean gathering. Some adults dip in honey; some pair with a cup of coffee.
+- With strong sweet milky tea (the Zimbabwean way: strong tea, full-cream milk, plenty of sugar). Or with cold maheu (the fermented maize drink). At children's parties, after-school snacks, church gatherings, weddings, funerals; chitumbuwa appears at every kind of Zimbabwean gathering. Some adults dip in honey; some pair with a cup of coffee.
 
 ## Storage
 - Best eaten warm and fresh; the crispness fades as they cool.

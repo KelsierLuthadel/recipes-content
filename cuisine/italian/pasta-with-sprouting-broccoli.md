@@ -64,12 +64,12 @@ This vegetarian Italian pasta proves that the right technique matters more than 
 - **Wine Choice:** A crisp, dry white wine adds acid without heavy flavor; the wine should enhance, not dominate.
 
 ## Variations
-**With Garlic Crumbs:** Toss raw breadcrumbs with garlic oil and brown in the pan for textural topping.
-**Walnut Version:** Replace pine nuts with toasted walnuts for earthier flavor.
+- **With Garlic Crumbs:** Toss raw breadcrumbs with garlic oil and brown in the pan for textural topping.
+- **Walnut Version:** Replace pine nuts with toasted walnuts for earthier flavor.
 
 ## Serving
-Serve with: A crisp white wine and crusty bread
-Garnish with: Fresh basil leaves, Parmesan shavings, and cracked pepper
+- Serve with: A crisp white wine and crusty bread
+- Garnish with: Fresh basil leaves, Parmesan shavings, and cracked pepper
 
 ## Storage
 - Best eaten immediately while broccoli remains firm

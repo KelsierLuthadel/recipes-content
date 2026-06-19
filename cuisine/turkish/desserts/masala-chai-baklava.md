@@ -70,7 +70,7 @@ Classical baklava holds the geometry: layered filo, nut filling, sugar syrup. Th
 - Toasted pistachios scattered on top of the cooled baklava add a colour-and-flavour bridge to classical baklava without being on-the-nose.
 
 ## Serving
-Two cylinders on a small plate after a meal, with strong unsweetened tea or coffee, the syrup is heavily sweet and wants something bitter alongside.
+- Two cylinders on a small plate after a meal, with strong unsweetened tea or coffee, the syrup is heavily sweet and wants something bitter alongside.
 
 ## Storage
 In a covered container at room temperature for up to a week. The syrup keeps the baklava moist; refrigeration is not needed and dries it out.

@@ -91,7 +91,7 @@ Plăcintă is the broad Romanian word for any flat pastry, but plăcintă cu mer
 - **Walnut plăcintă (cu nucă):** ground walnut, sugar, and rum.
 
 ## Serving
-Warm · with icing sugar · with a glass of cold milk · with a scoop of vanilla ice cream (modern) · with a small glass of plum țuică.
+- Warm · with icing sugar · with a glass of cold milk · with a scoop of vanilla ice cream (modern) · with a small glass of plum țuică.
 
 ## Storage
 - Best the day it is baked; keeps 2 days wrapped in foil at room temperature.

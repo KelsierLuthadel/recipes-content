@@ -31,7 +31,7 @@ Vanilla ice cream done properly: real vanilla pods split and scraped, the seeds 
 - Transfer the churned ice cream to a chilled container and allow 30 minutes in the freezer for the texture to set before serving; this prevents the soft, slushy consistency of just-churned ice cream
 
 ## Serving
-Scoop generously onto plates or into chilled bowls and serve as a standalone dessert, or as an elegant accompaniment to warm cakes, fruit crisps, or berry-based desserts. Serve immediately from the freezer for optimal texture. A simple wafer cookie or fresh fruit provides nice complementary texture.
+- Scoop generously onto plates or into chilled bowls and serve as a standalone dessert, or as an elegant accompaniment to warm cakes, fruit crisps, or berry-based desserts. Serve immediately from the freezer for optimal texture. A simple wafer cookie or fresh fruit provides nice complementary texture.
 
 ## Storage
 Vanilla ice cream keeps well in the freezer for up to two weeks in an airtight container, though the texture and flavor are best within the first week. To prevent ice crystals from forming, cover the surface with plastic wrap before sealing the container. If the ice cream becomes too hard, soften it in the refrigerator for 10-15 minutes before serving.

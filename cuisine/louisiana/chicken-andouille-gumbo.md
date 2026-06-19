@@ -94,13 +94,13 @@ Chicken and andouille gumbo is the most foundational Louisiana gumbo (alongside 
 - **Andouille smoked sausage:** traditional.
 
 ## Variations
-**Seafood gumbo:** swap chicken for shrimp + crab + oysters; use seafood stock; add okra.
-**With okra:** add 500 g sliced okra; thickens the gumbo.
-**Spicier:** double cayenne; add chopped jalapeños.
-**Add file at the table:** each diner stirs their own in.
+- **Seafood gumbo:** swap chicken for shrimp + crab + oysters; use seafood stock; add okra.
+- **With okra:** add 500 g sliced okra; thickens the gumbo.
+- **Spicier:** double cayenne; add chopped jalapeños.
+- **Add file at the table:** each diner stirs their own in.
 
 ## Serving
-Over rice with French bread. Cold beer. Tabasco.
+- Over rice with French bread. Cold beer. Tabasco.
 
 ## Storage
 - Keeps refrigerated 5 days; better day 2.

@@ -99,14 +99,14 @@ Gravlax (literally "buried salmon", from the medieval Scandinavian practice of b
 - **Cure salmon vs smoked salmon:** gravlax is cured (no heat or smoke). Smoked salmon is smoked. Different products; both excellent.
 
 ## Variations
-**Citrus-cured:** add the zest of a lemon and an orange to the cure for a bright variant.
-**Beet-cured (Beetroot gravlax):** add 200 g grated raw beetroot to the cure, gives the salmon a vivid magenta colour at the edges.
-**Pepper-crusted:** swap white pepper for crushed pink peppercorns + black peppercorns.
-**Gin-cured:** swap brandy for juniper-heavy gin; complements the dill.
-**With horseradish cream instead of hovmästarsås:** a less sweet, sharper accompaniment.
+- **Citrus-cured:** add the zest of a lemon and an orange to the cure for a bright variant.
+- **Beet-cured (Beetroot gravlax):** add 200 g grated raw beetroot to the cure, gives the salmon a vivid magenta colour at the edges.
+- **Pepper-crusted:** swap white pepper for crushed pink peppercorns + black peppercorns.
+- **Gin-cured:** swap brandy for juniper-heavy gin; complements the dill.
+- **With horseradish cream instead of hovmästarsås:** a less sweet, sharper accompaniment.
 
 ## Serving
-At a Christmas julbord (a long table of cold and hot Swedish dishes) · at Midsommar lunch in the garden with new potatoes · at a Stockholm cocktail party as canapés on crisp bread · at home for a weekend lunch with bread, sauce and a cold beer.
+- At a Christmas julbord (a long table of cold and hot Swedish dishes) · at Midsommar lunch in the garden with new potatoes · at a Stockholm cocktail party as canapés on crisp bread · at home for a weekend lunch with bread, sauce and a cold beer.
 
 ## Storage
 - Cured gravlax keeps refrigerated 7 days, wrapped tightly in cling film.

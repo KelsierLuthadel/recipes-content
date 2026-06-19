@@ -104,13 +104,13 @@ Sosaties are the Cape Malay-style grilled skewers that anchor every braai in the
 - **Medium-hot coals, not screaming hot:** the marinade contains sugar from the jam and burns easily. Medium-hot is the right temperature; if your coals are too hot, the marinade will char black before the meat cooks through. Move the skewers to a cooler part of the grill if they're scorching.
 
 ## Variations
-**Chicken sosaties:** swap lamb for boneless chicken thigh cubes; same marinade and technique, slightly shorter cook (10-12 minutes total).
-**Pork sosaties:** less common but traditional; use pork shoulder cubes. Cook to 70 C internal temperature.
-**With pineapple:** swap the dried apricots for fresh pineapple chunks; gives a tropical fresh twist on the classic. Less Cape Malay, more modern braai.
-**Skewer-less version:** cook the marinated meat and onion in a heavy pan or hot oven (220 C for 25 minutes); the dried apricots are added in the last 5 minutes. Quicker if you don't have a grill.
+- **Chicken sosaties:** swap lamb for boneless chicken thigh cubes; same marinade and technique, slightly shorter cook (10-12 minutes total).
+- **Pork sosaties:** less common but traditional; use pork shoulder cubes. Cook to 70 C internal temperature.
+- **With pineapple:** swap the dried apricots for fresh pineapple chunks; gives a tropical fresh twist on the classic. Less Cape Malay, more modern braai.
+- **Skewer-less version:** cook the marinated meat and onion in a heavy pan or hot oven (220 C for 25 minutes); the dried apricots are added in the last 5 minutes. Quicker if you don't have a grill.
 
 ## Serving
-On a wide platter at the centre of a braai (barbecue) gathering, with the apricot-marinade sauce in a small jug. Yellow rice (turmeric and raisin) underneath; a chopped tomato-and-onion sambal on the side; a green salad for freshness. Drink: cold lager (Castle or Black Label from SA), a chilled Cape rosé, or a glass of red Pinotage if you want to lean South African.
+- On a wide platter at the centre of a braai (barbecue) gathering, with the apricot-marinade sauce in a small jug. Yellow rice (turmeric and raisin) underneath; a chopped tomato-and-onion sambal on the side; a green salad for freshness. Drink: cold lager (Castle or Black Label from SA), a chilled Cape rosé, or a glass of red Pinotage if you want to lean South African.
 
 ## Storage
 - Best eaten fresh from the grill; the meat goes from tender to dry quickly.

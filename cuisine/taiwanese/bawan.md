@@ -118,13 +118,13 @@ Bawan ("meatball" in Taiwanese Hokkien) is one of Taiwan's most distinctive snac
 - **Translucent shell:** if the shell is opaque white after steaming, it wasn't steamed long enough. 25 minutes is the proper time. The shell should be translucent enough to see the meat filling vaguely through.
 
 ## Variations
-**Chicken bawan:** swap the pork for chicken thigh (minced); reduce the soaking time of the dried shrimp by half; cook 25 minutes the same way.
-**Mushroom-only filling (vegetarian):** swap the pork for 300 g of finely chopped shiitake mushrooms (rehydrated) and 100 g of diced firm tofu; cook the filling slightly longer in a pan with the seasonings before assembling.
-**Larger bawan:** use 4 larger bowls (15 cm diameter) for half the filling each; steam 30 minutes. Common at restaurants; gives one large bawan per person.
-**With shrimp head sauce:** if you can find shrimp head paste (xia tou jiang) at an Asian market, swap 1 tablespoon of the soy sauce in the sauce for this; gives a deeply umami sauce that's very Taiwanese.
+- **Chicken bawan:** swap the pork for chicken thigh (minced); reduce the soaking time of the dried shrimp by half; cook 25 minutes the same way.
+- **Mushroom-only filling (vegetarian):** swap the pork for 300 g of finely chopped shiitake mushrooms (rehydrated) and 100 g of diced firm tofu; cook the filling slightly longer in a pan with the seasonings before assembling.
+- **Larger bawan:** use 4 larger bowls (15 cm diameter) for half the filling each; steam 30 minutes. Common at restaurants; gives one large bawan per person.
+- **With shrimp head sauce:** if you can find shrimp head paste (xia tou jiang) at an Asian market, swap 1 tablespoon of the soy sauce in the sauce for this; gives a deeply umami sauce that's very Taiwanese.
 
 ## Serving
-2 per person in a small bowl with the warm sauce ladled over. A pair of chopsticks and a Chinese spoon. Drink: Taiwan Beer; a small glass of strong oolong tea; or bubble tea for the night-market combo.
+- 2 per person in a small bowl with the warm sauce ladled over. A pair of chopsticks and a Chinese spoon. Drink: Taiwan Beer; a small glass of strong oolong tea; or bubble tea for the night-market combo.
 
 ## Storage
 - Bawan is best eaten warm and fresh.

@@ -52,7 +52,7 @@ Mango chutney is the building block for the sweet fruity preserve that turns up 
 - **Spices:** Toast the whole spices briefly to release their oils; this amplifies flavour significantly.
 
 ## Serving
-Serve alongside curries, with roasted game and charcuterie, or as part of a cheese board. Also excellent with pâté and cold roasted meats.
+- Serve alongside curries, with roasted game and charcuterie, or as part of a cheese board. Also excellent with pâté and cold roasted meats.
 
 ## Storage
 - Keeps refrigerated for up to 2 months in sealed glass jars.

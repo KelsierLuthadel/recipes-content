@@ -78,12 +78,12 @@ Crab ravioli is the elegant fresh-pasta dish of coastal Italy, white crab meat f
 - **Drying Time:** Allowing ravioli to dry slightly before cooking helps them hold together.
 
 ## Variations
-**With Lemon Zest:** Add extra lemon zest to the lemon butter for brighter flavor.
-**Seafood Mix:** Combine crab with finely chopped scallops or prawns for variety.
+- **With Lemon Zest:** Add extra lemon zest to the lemon butter for brighter flavor.
+- **Seafood Mix:** Combine crab with finely chopped scallops or prawns for variety.
 
 ## Serving
-Serve with: A crisp white wine and simple green salad
-Garnish with: Fresh basil, red chilli flakes, and lemon wedges
+- Serve with: A crisp white wine and simple green salad
+- Garnish with: Fresh basil, red chilli flakes, and lemon wedges
 
 ## Storage
 - Best eaten immediately after cooking

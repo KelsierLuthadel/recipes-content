@@ -71,13 +71,13 @@ The bagel with lox and cream cheese is one of the most iconic New York Jewish-Am
 - **Paper-thin red onion:** not chunky.
 
 ## Variations
-**With chive cream cheese:** instead of plain.
-**With sable (smoked black cod):** Russ & Daughters specialty.
-**With whitefish salad:** classic deli variation.
-**With pickled herring:** for full deli platter.
+- **With chive cream cheese:** instead of plain.
+- **With sable (smoked black cod):** Russ & Daughters specialty.
+- **With whitefish salad:** classic deli variation.
+- **With pickled herring:** for full deli platter.
 
 ## Serving
-At Sunday brunch with coffee, mimosa. Russ & Daughters classic.
+- At Sunday brunch with coffee, mimosa. Russ & Daughters classic.
 
 ## Storage
 - Lox keeps refrigerated 5 days.

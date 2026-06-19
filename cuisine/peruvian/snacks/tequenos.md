@@ -108,17 +108,17 @@ Tequeños are originally from Venezuela; the name comes from "Los Teques", a Ven
 - **Eat hot:** tequeños are at their peak for 5 minutes; the cheese firms as they cool.
 
 ## Variations
-**Modern Lima tequeños with chicken filling:** swap cheese for finely shredded cooked chicken seasoned with aji amarillo, the savoury-meat variant.
-**Sweet tequeños:** swap the cheese for chunks of fresh fig or guava paste, the dessert variant.
-**Tequeños with crab filling:** chunk crab + cream cheese + a touch of mustard, the upscale Lima restaurant variant.
-**Vegan tequeños:** swap cheese for slices of firm tofu seasoned with smoked paprika and salt, surprisingly good.
-**Larger format tequeños:** make 10 cm batons (instead of 6 cm) for substantial canapés.
-**Smaller tequeños for canapés:** 3 cm batons; for cocktail receptions.
-**Air-fryer tequeños:** brush with oil; air-fry at 200°C for 8 minutes, less crisp but functional.
-**Baked tequeños:** brush with oil; bake at 220°C for 10-12 minutes, lighter, less crisp.
+- **Modern Lima tequeños with chicken filling:** swap cheese for finely shredded cooked chicken seasoned with aji amarillo, the savoury-meat variant.
+- **Sweet tequeños:** swap the cheese for chunks of fresh fig or guava paste, the dessert variant.
+- **Tequeños with crab filling:** chunk crab + cream cheese + a touch of mustard, the upscale Lima restaurant variant.
+- **Vegan tequeños:** swap cheese for slices of firm tofu seasoned with smoked paprika and salt, surprisingly good.
+- **Larger format tequeños:** make 10 cm batons (instead of 6 cm) for substantial canapés.
+- **Smaller tequeños for canapés:** 3 cm batons; for cocktail receptions.
+- **Air-fryer tequeños:** brush with oil; air-fry at 200°C for 8 minutes, less crisp but functional.
+- **Baked tequeños:** brush with oil; bake at 220°C for 10-12 minutes, lighter, less crisp.
 
 ## Serving
-At a Lima reception or wedding (the traditional setting) · at a Peruvian birthday party · at a Peruvian Sunday family lunch as a starter · at a Peruvian Independence Day buffet · at a Lima café for a 4 pm tea · at home as a Saturday-night drinks-and-snacks plate · paired with cold beer or chicha morada.
+- At a Lima reception or wedding (the traditional setting) · at a Peruvian birthday party · at a Peruvian Sunday family lunch as a starter · at a Peruvian Independence Day buffet · at a Lima café for a 4 pm tea · at home as a Saturday-night drinks-and-snacks plate · paired with cold beer or chicha morada.
 
 ## Storage
 - The raw wrapped tequeños can be made and refrigerated for 24 hours before frying; or frozen 2 months and fried from frozen (add 30 seconds frying time).

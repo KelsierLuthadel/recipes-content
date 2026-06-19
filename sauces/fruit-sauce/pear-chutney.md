@@ -58,7 +58,7 @@ Pear chutney is the building block for the autumn equivalent of peach chutney, t
 - **Flavour development:** Allow at least 3 days before eating; flavours improve significantly as they meld together.
 
 ## Serving
-Serve with cold roasted game, terrines, pâté, and charcuterie. Also excellent with mature cheeses and spread on crusty bread.
+- Serve with cold roasted game, terrines, pâté, and charcuterie. Also excellent with mature cheeses and spread on crusty bread.
 
 ## Storage
 - Keeps refrigerated for up to 3 weeks in sealed jars.

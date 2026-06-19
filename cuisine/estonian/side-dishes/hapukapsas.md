@@ -62,7 +62,7 @@ Hapukapsas is Estonian sauerkraut and it lives in every cellar, fridge and kitch
 - **Caraway and juniper:** The Estonian way is to leave them out and let the cabbage speak for itself. Include them if you like a more Baltic-German flavour.
 
 ## Serving
-Serve cold straight from the jar as a salad with a little oil and chopped onion; or braise with smoked pork and apple; or simmer into hapukapsasupp. A spoon on the side of any roast or sausage dish.
+- Serve cold straight from the jar as a salad with a little oil and chopped onion; or braise with smoked pork and apple; or simmer into hapukapsasupp. A spoon on the side of any roast or sausage dish.
 
 ## Storage
 - Keeps 6 months refrigerated in its own brine

@@ -68,8 +68,8 @@ The Sunday brunch icon, and the dish people learn hollandaise for. You build the
 - **If the hollandaise splits:** Whisk a teaspoon of cold water into a fresh bowl, then slowly whisk the split sauce in. Usually rescues it.
 
 ## Variations
-**Eggs Royale:** Smoked salmon instead of ham.
-**Eggs Florentine:** Wilted spinach instead of ham.
+- **Eggs Royale:** Smoked salmon instead of ham.
+- **Eggs Florentine:** Wilted spinach instead of ham.
 
 ## Storage
 - Eat immediately. Hollandaise doesn't keep; poached eggs and toasted muffins go off fast.

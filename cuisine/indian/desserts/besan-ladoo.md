@@ -54,7 +54,7 @@ Besan ladoo is the Diwali sweet of North Indian households, the dense fudgy gram
 - The mixture firms up considerably overnight; ladoos made on Day 1 are softer than on Day 2. Both eat well.
 
 ## Serving
-On a brass or steel plate at the start of the festive meal, with chai. One per person is the polite serving; the box on the counter keeps disappearing through the evening.
+- On a brass or steel plate at the start of the festive meal, with chai. One per person is the polite serving; the box on the counter keeps disappearing through the evening.
 
 ## Storage
 Airtight tin at room temperature, up to 2 weeks. Don't refrigerate, the cold makes them seize and lose their tender crumble.

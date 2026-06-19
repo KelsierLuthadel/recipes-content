@@ -67,7 +67,7 @@ The dinner-party cheesecake reworked as a tart: a crisp blind-baked shortcrust s
 - A low, slow bake helps the filling set without splitting.
 
 ## Serving
-Serve the cheesecake tart chilled or at room temperature with a spoonful of crème fraîche if desired. The marmalade glaze adds shine and a concentrated orange finish.
+- Serve the cheesecake tart chilled or at room temperature with a spoonful of crème fraîche if desired. The marmalade glaze adds shine and a concentrated orange finish.
 
 ## Storage
 Keep the tart refrigerated for up to 3 days, covered. Freeze only the unglazed tart if needed, then thaw slowly in the fridge and glaze just before serving.

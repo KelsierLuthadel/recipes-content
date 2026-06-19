@@ -30,7 +30,7 @@ The foundation spice blend of the British-Indian restaurant (BIR) kitchen: coria
 - Forms the backbone of most curries.
 
 ## Serving
-Use 1-2 tsp per curry as a base layer of flavour.
+- Use 1-2 tsp per curry as a base layer of flavour.
 
 ## Storage
 - Store in an airtight container in a cool, dry place for up to 6 months

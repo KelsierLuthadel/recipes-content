@@ -73,12 +73,12 @@ A three-part dessert: bright green pandan-flavoured rice flour jellies, a glossy
 - **Red beans:** Tinned sweetened red kidney beans are sold at Asian grocers (often labelled for shaved ice). To make from scratch, simmer 80 grams of dried red kidney beans until tender then sweeten with 3 tablespoons of sugar.
 
 ## Variations
-**Cendol durian:** Top each bowl with a heaped spoonful of fresh durian flesh for the most indulgent version.
-**Cendol pulut:** Add 2 tablespoons of warm cooked glutinous rice to the base of each bowl for a more substantial pudding.
+- **Cendol durian:** Top each bowl with a heaped spoonful of fresh durian flesh for the most indulgent version.
+- **Cendol pulut:** Add 2 tablespoons of warm cooked glutinous rice to the base of each bowl for a more substantial pudding.
 
 ## Serving
-Serve with: Long spoons or thick straws; stir vigorously at the table to mix the syrup, coconut and ice
-Garnish with: An extra drizzle of gula melaka syrup on top of the coconut milk for a marbled finish
+- Serve with: Long spoons or thick straws; stir vigorously at the table to mix the syrup, coconut and ice
+- Garnish with: An extra drizzle of gula melaka syrup on top of the coconut milk for a marbled finish
 
 ## Storage
 - Pandan jellies keep 2 days refrigerated submerged in cold water; drain before using

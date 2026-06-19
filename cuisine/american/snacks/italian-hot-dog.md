@@ -82,14 +82,14 @@ The Italian hot dog is a Newark, New Jersey, Italian-American invention dating f
 - **Eat with two hands and many napkins:** structural.
 
 ## Variations
-**With sausage:** swap the hot dog for a fried Italian sausage (sweet or hot).
-**Combo:** one hot dog AND one sausage in the same pocket.
-**With prosciutto:** add a slice of prosciutto inside (less traditional but excellent).
-**With hot peppers in the build:** add chopped pickled cherry peppers inside.
-**Cheesesteak-Italian crossover:** add provolone melted over the fillings before topping with the dog.
+- **With sausage:** swap the hot dog for a fried Italian sausage (sweet or hot).
+- **Combo:** one hot dog AND one sausage in the same pocket.
+- **With prosciutto:** add a slice of prosciutto inside (less traditional but excellent).
+- **With hot peppers in the build:** add chopped pickled cherry peppers inside.
+- **Cheesesteak-Italian crossover:** add provolone melted over the fillings before topping with the dog.
 
 ## Serving
-At Jimmy Buff's, Tommy's or Charlie's Famous in Newark. At a North Jersey lunch counter. At home with cold beer.
+- At Jimmy Buff's, Tommy's or Charlie's Famous in Newark. At a North Jersey lunch counter. At home with cold beer.
 
 ## Storage
 - Best immediately while everything is crisp.

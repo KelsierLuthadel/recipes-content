@@ -74,16 +74,16 @@ Harissa is the foundation of North African heat: a smooth red paste of soaked dr
 - **Storage Temperature:** Harissa should be stored in a cool place or refrigerated; warm storage promotes rancidity in the olive oil.
 
 ## Variations
-**Extra Spiced:** Add ¼ teaspoon each of caraway seeds and fennel seeds to the spice toast.
-**Milder Version:** Use 8 chillies instead of 12, and remove all seeds.
-**With Spice Depth:** Add a pinch of smoked paprika to the spice blend.
-**Herb-Infused:** Stir in 1 tablespoon fresh mint or coriander after the final oil incorporation.
+- **Extra Spiced:** Add ¼ teaspoon each of caraway seeds and fennel seeds to the spice toast.
+- **Milder Version:** Use 8 chillies instead of 12, and remove all seeds.
+- **With Spice Depth:** Add a pinch of smoked paprika to the spice blend.
+- **Herb-Infused:** Stir in 1 tablespoon fresh mint or coriander after the final oil incorporation.
 
 ## Serving
-Use as: Condiment with bread and cheese, dipping sauce, soup enrichment, marinade base, yogurt swirl
-Temperature: Room temperature or chilled
-Pairings: Plain yogurt, grilled meats, flatbreads, roasted vegetables, soups
-Amount: 1-2 teaspoons per serving, adjusted to personal heat tolerance
+- Use as: Condiment with bread and cheese, dipping sauce, soup enrichment, marinade base, yogurt swirl
+- Temperature: Room temperature or chilled
+- Pairings: Plain yogurt, grilled meats, flatbreads, roasted vegetables, soups
+- Amount: 1-2 teaspoons per serving, adjusted to personal heat tolerance
 
 ## Storage
 - Refrigerate in a glass jar (olive oil can absorb plastic flavors) for up to 2 weeks

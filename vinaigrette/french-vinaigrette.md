@@ -48,17 +48,17 @@ French vinaigrette is the foundation building block of classical cuisine, the dr
 - **Temperature Sensitive:** Room temperature ingredients emulsify better than cold items.
 
 ## Variations
-**Red Wine Vinaigrette:** Use red wine vinegar exclusively (as above).
-**White Wine Vinaigrette:** Substitute white wine vinegar; omit mustard for lighter character.
-**Shallot Vinaigrette:** Add 1 finely minced shallot; let sit 10 minutes for flavor development.
-**Whole Grain Mustard:** Replace Dijon with coarse mustard for more texture.
-**With Tarragon:** Add 1 teaspoon fresh tarragon for herbaceous character.
+- **Red Wine Vinaigrette:** Use red wine vinegar exclusively (as above).
+- **White Wine Vinaigrette:** Substitute white wine vinegar; omit mustard for lighter character.
+- **Shallot Vinaigrette:** Add 1 finely minced shallot; let sit 10 minutes for flavor development.
+- **Whole Grain Mustard:** Replace Dijon with coarse mustard for more texture.
+- **With Tarragon:** Add 1 teaspoon fresh tarragon for herbaceous character.
 
 ## Serving
-Use with: Simple green salads, bitter lettuces, warm vegetables, roasted potatoes, grilled fish, cold meats
-Dressing ratio: 1-2 tablespoons per serving of greens
-Temperature: Room temperature
-Timing: Apply just before serving
+- Use with: Simple green salads, bitter lettuces, warm vegetables, roasted potatoes, grilled fish, cold meats
+- Dressing ratio: 1-2 tablespoons per serving of greens
+- Temperature: Room temperature
+- Timing: Apply just before serving
 
 ## Storage
 - Refrigerate in sealed glass jar for up to 4-5 days

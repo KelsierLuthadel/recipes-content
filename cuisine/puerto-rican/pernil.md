@@ -112,13 +112,13 @@ Pernil is Puerto Rico's most iconic celebration dish and the centrepiece of ever
 - **Rest before carving:** 20 minutes is essential. The juices redistribute and the meat becomes easier to shred.
 
 ## Variations
-**Mini pernil (porkette):** swap the whole shoulder for a 1.5 kg pork shoulder portion; reduce cooking to 2.5 hours + 20 minutes high heat. Common modern variation for smaller families.
-**Lechón asado (whole pig):** the related Puerto Rican whole-pig roast, traditionally done over coals for major celebrations. Same adobo, but the whole pig takes 8-10 hours.
-**Pernil de pavo (turkey leg):** swap the pork for whole turkey legs; reduce cooking to 2-2.5 hours. Common for Thanksgiving Puerto Rican-style.
-**Pernil al horno con piña:** add 1 sliced pineapple to the roasting tin in the last hour; the pineapple caramelises and adds a sweet-tart counterpoint.
+- **Mini pernil (porkette):** swap the whole shoulder for a 1.5 kg pork shoulder portion; reduce cooking to 2.5 hours + 20 minutes high heat. Common modern variation for smaller families.
+- **Lechón asado (whole pig):** the related Puerto Rican whole-pig roast, traditionally done over coals for major celebrations. Same adobo, but the whole pig takes 8-10 hours.
+- **Pernil de pavo (turkey leg):** swap the pork for whole turkey legs; reduce cooking to 2-2.5 hours. Common for Thanksgiving Puerto Rican-style.
+- **Pernil al horno con piña:** add 1 sliced pineapple to the roasting tin in the last hour; the pineapple caramelises and adds a sweet-tart counterpoint.
 
 ## Serving
-On a wooden board at the centre of the table, with all the traditional sides arranged around. Drink: cold Medalla (Puerto Rico's local beer), a rum-based cocktail like a pina colada (invented in PR), or coquito (the Puerto Rican Christmas eggnog with coconut and rum). At Christmas Eve / Nochebuena, Three Kings Day, or any major Puerto Rican family celebration.
+- On a wooden board at the centre of the table, with all the traditional sides arranged around. Drink: cold Medalla (Puerto Rico's local beer), a rum-based cocktail like a pina colada (invented in PR), or coquito (the Puerto Rican Christmas eggnog with coconut and rum). At Christmas Eve / Nochebuena, Three Kings Day, or any major Puerto Rican family celebration.
 
 ## Storage
 - Keeps refrigerated 5 days; the flavour deepens noticeably overnight.

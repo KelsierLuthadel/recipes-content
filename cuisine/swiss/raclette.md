@@ -65,7 +65,7 @@ Raclette is the Swiss winter eating ritual that even fondue can't beat. The name
 - **No raclette machine substitution:** A hot grill in the oven works for portion-sized melts. A blowtorch is impractical. The tabletop machine is worth the kitchen space if you cook raclette more than once a year.
 
 ## Serving
-Serve in winter, ideally with a fire nearby and a long evening ahead. White Swiss wine (Fendant from Valais), dry Swiss Chasselas, or a kirsch shot at the end. Crusty bread alongside if you want extra carbs beyond the potatoes.
+- Serve in winter, ideally with a fire nearby and a long evening ahead. White Swiss wine (Fendant from Valais), dry Swiss Chasselas, or a kirsch shot at the end. Crusty bread alongside if you want extra carbs beyond the potatoes.
 
 ## Storage
 - Best fresh, the same evening.

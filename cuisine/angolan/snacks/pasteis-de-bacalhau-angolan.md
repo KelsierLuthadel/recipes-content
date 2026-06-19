@@ -73,7 +73,7 @@ Pastéis de bacalhau (also called bolinhos de bacalhau) is the shared snack of t
 - **Shape between two spoons:** This is the recognisable Lusophone quenelle shape, not balls. A scoop with one spoon, a smooth-over with the second, and a slide into the oil.
 
 ## Serving
-As a snack or starter, hot from the pan. A wedge of lemon, a cold beer (Cuca or any pale lager), a small bowl of olives alongside.
+- As a snack or starter, hot from the pan. A wedge of lemon, a cold beer (Cuca or any pale lager), a small bowl of olives alongside.
 
 ## Storage
 - Best fresh and hot.

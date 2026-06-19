@@ -87,13 +87,13 @@ Bitoque is Portugal's everyday pan-fried steak dish and the traditional Portugue
 - **Egg yolk runs into the steak:** the point.
 
 ## Variations
-**Bitoque de porco:** pork chops instead of beef.
-**Bitoque de frango:** chicken breast.
-**Bitoque com bacon:** add a strip of bacon over the steak.
-**With mushroom sauce:** add sautéed mushrooms to the sauce.
+- **Bitoque de porco:** pork chops instead of beef.
+- **Bitoque de frango:** chicken breast.
+- **Bitoque com bacon:** add a strip of bacon over the steak.
+- **With mushroom sauce:** add sautéed mushrooms to the sauce.
 
 ## Serving
-On a wide plate with all four sides. Drink: Portuguese red wine or Sagres beer. The everyday Portuguese diner lunch.
+- On a wide plate with all four sides. Drink: Portuguese red wine or Sagres beer. The everyday Portuguese diner lunch.
 
 ## Storage
 - Best eaten immediately.

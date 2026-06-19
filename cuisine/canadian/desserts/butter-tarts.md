@@ -97,17 +97,17 @@ The butter tart is one of Ontario's most identity-defining baked goods, made in 
 - **The raisin debate:** Ontario households are divided. Both versions are valid. If undecided, do half raisin and half pecan.
 
 ## Variations
-**Butter tarts with pecans (modern):** swap raisins for 60 g toasted chopped pecans.
-**Maple butter tarts:** swap 2 tablespoons of the brown sugar for 2 tablespoons pure maple syrup; reduces overall sweetness and adds maple notes, the Quebec-Ontario crossover.
-**Butter tarts with walnuts:** the Northern Ontario classic - 60 g walnut halves.
-**Chocolate-chip butter tarts (modern):** scatter 60 g small dark-chocolate chips on the bottom of each tart before filling, the Cottage-Country variant.
-**Bourbon butter tarts:** add 1 tablespoon of bourbon to the filling, the modern bakery variant.
-**Salted-caramel butter tarts:** add a heavier pinch of fleur de sel on top of each tart in the last 2 minutes of baking; sprinkle a few flakes after cooling.
-**Butter-tart squares (sheet variant):** press the pastry into a 23 × 23 cm tin; pour the filling on top; bake 30 minutes; cool, cut into 16 squares, the home-cook shortcut.
-**Open-faced large butter tart (Ontario diner style):** make one big tart in a 23 cm tart tin; bake 35-40 minutes; serve as a sliced pie. Less traditional but practical for parties.
+- **Butter tarts with pecans (modern):** swap raisins for 60 g toasted chopped pecans.
+- **Maple butter tarts:** swap 2 tablespoons of the brown sugar for 2 tablespoons pure maple syrup; reduces overall sweetness and adds maple notes, the Quebec-Ontario crossover.
+- **Butter tarts with walnuts:** the Northern Ontario classic - 60 g walnut halves.
+- **Chocolate-chip butter tarts (modern):** scatter 60 g small dark-chocolate chips on the bottom of each tart before filling, the Cottage-Country variant.
+- **Bourbon butter tarts:** add 1 tablespoon of bourbon to the filling, the modern bakery variant.
+- **Salted-caramel butter tarts:** add a heavier pinch of fleur de sel on top of each tart in the last 2 minutes of baking; sprinkle a few flakes after cooling.
+- **Butter-tart squares (sheet variant):** press the pastry into a 23 × 23 cm tin; pour the filling on top; bake 30 minutes; cool, cut into 16 squares, the home-cook shortcut.
+- **Open-faced large butter tart (Ontario diner style):** make one big tart in a 23 cm tart tin; bake 35-40 minutes; serve as a sliced pie. Less traditional but practical for parties.
 
 ## Serving
-At an Ontario bakery (the traditional setting; Maid's Cottage, Crust & Crumb, or the legendary Doo Doo's Tarts in Bailieboro) · at a cottage-country Sunday brunch in the Muskoka or Kawartha lakes · at a Toronto coffee shop with a cup of strong tea · at a Canadian Thanksgiving dinner · at a Canada Day picnic · at home as the traditional small treat with afternoon tea · as the Ontario birthday-tea pastry.
+- At an Ontario bakery (the traditional setting; Maid's Cottage, Crust & Crumb, or the legendary Doo Doo's Tarts in Bailieboro) · at a cottage-country Sunday brunch in the Muskoka or Kawartha lakes · at a Toronto coffee shop with a cup of strong tea · at a Canadian Thanksgiving dinner · at a Canada Day picnic · at home as the traditional small treat with afternoon tea · as the Ontario birthday-tea pastry.
 
 ## Storage
 - Stores 3 days at cool room temperature in an airtight container (separate layers with parchment paper).

@@ -54,7 +54,7 @@ Brick (the French spelling of the Arabic "burik") is the crisp, fried filo parce
 - **One at a time.** Resist the urge to assemble a tray of them. The pastry must be crisp from the second the egg meets the oil.
 
 ## Serving
-Serve immediately on a warm plate with lemon wedges and a small spoonful of harissa. The first brick of an iftar table is often paired with a small bowl of chorba on the side. Eat with the fingers; cut through with a fork to let the yolk run.
+- Serve immediately on a warm plate with lemon wedges and a small spoonful of harissa. The first brick of an iftar table is often paired with a small bowl of chorba on the side. Eat with the fingers; cut through with a fork to let the yolk run.
 
 ## Storage
 - Eat fresh, within minutes of frying; bricks do not store

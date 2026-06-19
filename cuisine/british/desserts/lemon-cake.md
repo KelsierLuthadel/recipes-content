@@ -53,7 +53,7 @@ The British afternoon-tea lemon loaf with a small upgrade for the dinner-party t
 - The apricot jam glaze provides both shine and subtle fruity sweetness; the final quick oven blast (briefly under 240°C) creates a glossy finish without softening the icing
 
 ## Serving
-Serve the cooled lemon cake sliced thin (the moistness supports thin slicing) with afternoon tea, fresh lemon curd, or alongside fresh berries. The bright citrus pairs beautifully with berries. The lemon icing provides both visual elegance and additional flavor.
+- Serve the cooled lemon cake sliced thin (the moistness supports thin slicing) with afternoon tea, fresh lemon curd, or alongside fresh berries. The bright citrus pairs beautifully with berries. The lemon icing provides both visual elegance and additional flavor.
 
 ## Storage
 Baked lemon cakes keep well wrapped at room temperature for 2-3 days; the moisture content keeps them from drying out. Do not refrigerate, as cold temperatures cause the texture to firm up. The cakes freeze beautifully wrapped well for up to one month; thaw at room temperature before serving. Best flavor develops after one day of baking as flavors integrate.

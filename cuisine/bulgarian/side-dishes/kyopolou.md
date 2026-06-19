@@ -63,7 +63,7 @@ Kyopolou is the smoky aubergine-and-pepper salad that lands cold on every Bulgar
 - **With dill:** half the parsley swapped for dill (the seaside version from Burgas).
 
 ## Serving
-Cold from the fridge on country bread · alongside fried fish · with grilled kebapcheta and shopska salata · with crumbled sirene on top · on a meze board with kashkaval pane and lyutenitsa · with a glass of chilled rakia.
+- Cold from the fridge on country bread · alongside fried fish · with grilled kebapcheta and shopska salata · with crumbled sirene on top · on a meze board with kashkaval pane and lyutenitsa · with a glass of chilled rakia.
 
 ## Storage
 - Refrigerate in a sealed jar up to 1 week; the flavour deepens.

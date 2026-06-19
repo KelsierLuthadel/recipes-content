@@ -63,7 +63,7 @@ A British bistro soup that pairs the gentle anise of fennel with vibrant green s
 - **Cream:** Stir in just before serving to maintain vibrancy.
 
 ## Serving
-Serve hot with fresh bread and butter. Garnish with extra cream if desired.
+- Serve hot with fresh bread and butter. Garnish with extra cream if desired.
 
 ## Storage
 - Refrigerate up to 2 days; reheat gently without boiling.

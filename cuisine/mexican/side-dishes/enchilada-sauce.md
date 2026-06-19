@@ -78,11 +78,11 @@ The foundation sauce of any proper enchilada: dried Mexican chillies toasted and
 - **Make-ahead:** This sauce freezes beautifully up to 3 months, so make a larger batch.
 
 ## Variations
-**Extra spicy:** Add 3-4 arbol peppers or leave some membranes intact
-**Green sauce:** Use dried poblano or green chile peppers instead of ancho/guajillo
-**Smoky version:** Add 1 chipotle pepper in adobo sauce to the blender
-**Thicker sauce:** Simmer longer (45 minutes total) to reduce further
-**Thinner sauce:** Add more broth or water to desired consistency
+- **Extra spicy:** Add 3-4 arbol peppers or leave some membranes intact
+- **Green sauce:** Use dried poblano or green chile peppers instead of ancho/guajillo
+- **Smoky version:** Add 1 chipotle pepper in adobo sauce to the blender
+- **Thicker sauce:** Simmer longer (45 minutes total) to reduce further
+- **Thinner sauce:** Add more broth or water to desired consistency
 
 ## Storage
 - Keeps 4 days refrigerated in an airtight container

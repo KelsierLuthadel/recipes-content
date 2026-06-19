@@ -85,12 +85,12 @@ Shapta is Tibet's stir-fry: thinly sliced beef seared screaming-hot in a wok wit
 - **Don't crowd the meat:** Sear in 2 batches. Piled-in meat releases liquid and steams.
 
 ## Variations
-**Mutton shapta:** Use 600 g boneless lamb leg sliced thinly; otherwise identical.
-**Vegetarian shapta:** Replace the beef with 400 g firm tofu (pressed and cubed, fried in batches) plus 200 g mushrooms. Lighter, but the chilli and capsicum carry it.
+- **Mutton shapta:** Use 600 g boneless lamb leg sliced thinly; otherwise identical.
+- **Vegetarian shapta:** Replace the beef with 400 g firm tofu (pressed and cubed, fried in batches) plus 200 g mushrooms. Lighter, but the chilli and capsicum carry it.
 
 ## Serving
-Serve with: steamed jasmine rice, tingmo (Tibetan steamed buns) or warm flatbread, and a small dish of sepen chilli sauce on the side.
-Garnish with: extra coriander leaves.
+- Serve with: steamed jasmine rice, tingmo (Tibetan steamed buns) or warm flatbread, and a small dish of sepen chilli sauce on the side.
+- Garnish with: extra coriander leaves.
 
 ## Storage
 - Best eaten fresh; the vegetables go soft on standing.

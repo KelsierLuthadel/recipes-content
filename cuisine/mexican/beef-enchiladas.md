@@ -66,13 +66,13 @@ The Tex-Mex enchilada that turns up at every American-Mexican family table and e
 - **Tex-Mex vs. authentic:** This version is Tex-Mex style (with flour tortillas and cheese). Traditional Mexican enchiladas use corn tortillas and are often saucier.
 
 ## Variations
-**Chicken enchiladas:** Replace ground beef with shredded cooked chicken (approximately 680g)
-**Cheese & vegetable:** Omit meat and replace with sautéed peppers, mushrooms, and extra cheese
-**Spicier version:** Add diced jalapeños to the filling or use a spicier enchilada sauce
-**Black bean only:** Replace ground beef with an additional 439g black beans for a vegetarian version
+- **Chicken enchiladas:** Replace ground beef with shredded cooked chicken (approximately 680g)
+- **Cheese & vegetable:** Omit meat and replace with sautéed peppers, mushrooms, and extra cheese
+- **Spicier version:** Add diced jalapeños to the filling or use a spicier enchilada sauce
+- **Black bean only:** Replace ground beef with an additional 439g black beans for a vegetarian version
 
 ## Serving
-Serve with: Mexican rice, refried beans, guacamole, and sour cream on the side. Lime wedges add freshness.
+- Serve with: Mexican rice, refried beans, guacamole, and sour cream on the side. Lime wedges add freshness.
 
 ## Storage
 - Keeps 3 days refrigerated

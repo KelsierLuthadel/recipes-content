@@ -70,11 +70,11 @@ The Jamaican Sunday-afternoon pudding, dense and fudge-like with a glossy crust 
 - **Grate, don't puree:** Grated texture gives the pudding its characteristic body. Pureed sweet potato makes it gluey.
 
 ## Variations
-**Cornmeal pudding (variant):** Replace half the sweet potato with cooked yellow cornmeal porridge for a related Jamaican classic.
-**Pumpkin pudding:** Replace half the sweet potato with grated pumpkin for a slightly lighter version.
+- **Cornmeal pudding (variant):** Replace half the sweet potato with cooked yellow cornmeal porridge for a related Jamaican classic.
+- **Pumpkin pudding:** Replace half the sweet potato with grated pumpkin for a slightly lighter version.
 
 ## Serving
-Serve with: A cup of hot Jamaican coffee, a glass of sorrel at Christmas, or a small spoon of coconut cream for richness.
+- Serve with: A cup of hot Jamaican coffee, a glass of sorrel at Christmas, or a small spoon of coconut cream for richness.
 
 ## Storage
 - Keeps 4 days refrigerated in an airtight container.

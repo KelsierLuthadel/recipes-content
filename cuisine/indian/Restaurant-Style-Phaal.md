@@ -91,9 +91,9 @@ Phaal is the restaurant category-killer for heat, traditionally claimed (though 
 ---
 
 ## Serving
-Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan. A large bowl of cool raita on the side is necessary, milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms. Water makes it worse.
+- Pair with [Restaurant-Style Special Fried Rice](Restaurant-Style-Special-Fried-Rice.md) or plain basmati and a piece of naan. A large bowl of cool raita on the side is necessary, milk, yoghurt, and dairy fat are the only effective rescue when the heat overwhelms. Water makes it worse.
 
----
+- ---
 
 ## Storage
 Keeps 2 to 3 days in the fridge in a sealed container. The heat mellows slightly overnight as the chilli oils integrate with the sauce. Reheat in a pan with a splash of water rather than the microwave to keep the sauce smooth and avoid the chilli vapour filling the kitchen all over again.

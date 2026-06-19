@@ -46,7 +46,7 @@ Fried plantain is the universal Caribbean side - Saint Lucia, Trinidad, Jamaica,
 - **Salt at the end:** A pinch of salt brings out the sweetness.
 
 ## Serving
-Serve hot alongside any Caribbean main - stew chicken, curry, fish, callaloo. Particularly good with green-fig-and-saltfish at breakfast.
+- Serve hot alongside any Caribbean main - stew chicken, curry, fish, callaloo. Particularly good with green-fig-and-saltfish at breakfast.
 
 ## Storage
 - Best straight from the pan. Cold fried plantain loses its character.

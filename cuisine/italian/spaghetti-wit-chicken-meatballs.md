@@ -82,13 +82,13 @@ This is the chicken-meatball version of the great Italian-American comfort dinne
 - **Sauce Depth:** The long tomato simmer develops natural sweetness and depth; don't rush this stage.
 
 ## Variations
-**With Pork:** Substitute half the chicken mince with ground pork for richer flavor.
-**Spicy Version:** Add ½ teaspoon chilli flakes to the meatball mixture.
-**Herb Variations:** Replace sage with fresh thyme or rosemary for different herbal notes.
+- **With Pork:** Substitute half the chicken mince with ground pork for richer flavor.
+- **Spicy Version:** Add ½ teaspoon chilli flakes to the meatball mixture.
+- **Herb Variations:** Replace sage with fresh thyme or rosemary for different herbal notes.
 
 ## Serving
-Serve with: Crusty bread for sauce soaking, green salad
-Garnish with: Fresh oregano, cracked black pepper, grated Parmesan, fresh basil
+- Serve with: Crusty bread for sauce soaking, green salad
+- Garnish with: Fresh oregano, cracked black pepper, grated Parmesan, fresh basil
 
 ## Storage
 - Refrigerate cooked meatballs and sauce together in an airtight container for up to 3 days

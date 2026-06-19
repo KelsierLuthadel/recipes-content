@@ -108,16 +108,16 @@ Bajan fried chicken is the Caribbean answer to southern American fried chicken, 
 - **Eat hot:** Bajan fried chicken is at its peak for 30 minutes. After an hour the crust has softened.
 
 ## Variations
-**Spicy Bajan fried chicken:** double the Scotch bonnet and Bajan pepper sauce in the marinade.
-**Bajan wings:** make the same recipe with just chicken wings (drummettes and flats); cooks in 8-10 minutes, the bar-snack variant.
-**Curry-spiced Bajan fried chicken:** add 2 tablespoons of Caribbean curry powder to the marinade, the Indo-Caribbean fusion.
-**Air-fryer Bajan chicken:** marinate; dredge; spray with oil; air-fry at 200°C for 18-22 minutes (turning halfway): less crisp but acceptable.
-**Oven-baked Bajan chicken:** dredge as normal; bake on a wire rack at 200°C for 35-40 minutes, the lighter variant.
-**Bajan fried chicken sandwich:** pile a piece of fried chicken in a Bajan salt-bread bun with shredded lettuce, sliced tomato, and Bajan pepper sauce, the cutter sandwich variant.
-**Pressure-cooker Bajan fried chicken:** pressure-cook the marinated chicken first 8 minutes; then dredge and fry only 4-5 minutes, the KFC-style technique.
+- **Spicy Bajan fried chicken:** double the Scotch bonnet and Bajan pepper sauce in the marinade.
+- **Bajan wings:** make the same recipe with just chicken wings (drummettes and flats); cooks in 8-10 minutes, the bar-snack variant.
+- **Curry-spiced Bajan fried chicken:** add 2 tablespoons of Caribbean curry powder to the marinade, the Indo-Caribbean fusion.
+- **Air-fryer Bajan chicken:** marinate; dredge; spray with oil; air-fry at 200°C for 18-22 minutes (turning halfway): less crisp but acceptable.
+- **Oven-baked Bajan chicken:** dredge as normal; bake on a wire rack at 200°C for 35-40 minutes, the lighter variant.
+- **Bajan fried chicken sandwich:** pile a piece of fried chicken in a Bajan salt-bread bun with shredded lettuce, sliced tomato, and Bajan pepper sauce, the cutter sandwich variant.
+- **Pressure-cooker Bajan fried chicken:** pressure-cook the marinated chicken first 8 minutes; then dredge and fry only 4-5 minutes, the KFC-style technique.
 
 ## Serving
-At a Bajan rum-shop on a Saturday afternoon (the traditional setting) · at the Oistins fish fry (a Friday-night Bajan fish festival, but fried chicken is sold alongside) · at a Bajan beach picnic · at a Bajan birthday party · at a Bajan church potluck · at a Bajan Independence Day (30 November) cookout · at home as a Saturday-night family treat · paired with macaroni pie, rice and peas, and a cold Banks.
+- At a Bajan rum-shop on a Saturday afternoon (the traditional setting) · at the Oistins fish fry (a Friday-night Bajan fish festival, but fried chicken is sold alongside) · at a Bajan beach picnic · at a Bajan birthday party · at a Bajan church potluck · at a Bajan Independence Day (30 November) cookout · at home as a Saturday-night family treat · paired with macaroni pie, rice and peas, and a cold Banks.
 
 ## Storage
 - Best within 30 minutes of frying.

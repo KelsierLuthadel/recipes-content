@@ -49,7 +49,7 @@ Watercress sauce is the building block for the light bright-green herbaceous sau
 - **Infusion time:** Allow the sauce to infuse with heat off for best flavour extraction.
 
 ## Serving
-Serve immediately with grilled scallops, lightly poached oysters, pan-fried sea bass, bream, or other white fish. Also excellent with shellfish dishes.
+- Serve immediately with grilled scallops, lightly poached oysters, pan-fried sea bass, bream, or other white fish. Also excellent with shellfish dishes.
 
 ## Storage
 - Best eaten immediately after preparation.

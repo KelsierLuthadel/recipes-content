@@ -116,13 +116,13 @@ Ma'amoul is one of the Levant's most iconic cookies and a Syrian household tradi
 - **Mahleb gives the Levantine character:** the ground cherry-pit spice (sold at Middle Eastern markets) is what gives ma'amoul its distinctive flavour. Vanilla is a workable substitute but not the same.
 
 ## Variations
-**Pistachio-only ma'amoul:** make only the pistachio filling; the most luxurious version, often saved for Eid. The bright green of pistachio shows through the pale shell.
-**Date-only ma'amoul (the everyday):** make only the date filling; the most common everyday Syrian version.
-**Honey-glazed ma'amoul:** while still warm, brush with a thin warm honey-and-orange-blossom-water syrup; gives a shinier sweeter result. Common variation.
-**Mini ma'amoul:** make smaller cookies (20 g each); gives 50+ smaller cookies. Common for parties and platters.
+- **Pistachio-only ma'amoul:** make only the pistachio filling; the most luxurious version, often saved for Eid. The bright green of pistachio shows through the pale shell.
+- **Date-only ma'amoul (the everyday):** make only the date filling; the most common everyday Syrian version.
+- **Honey-glazed ma'amoul:** while still warm, brush with a thin warm honey-and-orange-blossom-water syrup; gives a shinier sweeter result. Common variation.
+- **Mini ma'amoul:** make smaller cookies (20 g each); gives 50+ smaller cookies. Common for parties and platters.
 
 ## Serving
-On a decorative platter or in a tin lined with parchment, with strong Arabic coffee (small ceramic cups, very strong, slightly bitter), sweet mint tea, or hot chocolate. At Easter (Christian Syria), Eid al-Fitr (Muslim Syria), weddings, christenings; or as a Sunday afternoon treat with family.
+- On a decorative platter or in a tin lined with parchment, with strong Arabic coffee (small ceramic cups, very strong, slightly bitter), sweet mint tea, or hot chocolate. At Easter (Christian Syria), Eid al-Fitr (Muslim Syria), weddings, christenings; or as a Sunday afternoon treat with family.
 
 ## Storage
 - Keeps in a sealed tin at room temperature 2 weeks; the cookies stay tender and the flavour deepens.

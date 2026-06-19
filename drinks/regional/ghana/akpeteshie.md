@@ -65,7 +65,7 @@ For akpeteshie-sobolo (the long drink):
 - **Sobolo-akpeteshie punch:** Scale the long drink up to a jug for a party.
 
 ## Serving
-Pour neat into small glasses · serve with a slice of lime and a glass of cold water · at funerals, libations and weddings · as the long drink at a bar with friends.
+- Pour neat into small glasses · serve with a slice of lime and a glass of cold water · at funerals, libations and weddings · as the long drink at a bar with friends.
 
 ## Storage
 - The spirit itself keeps indefinitely sealed

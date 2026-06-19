@@ -74,17 +74,17 @@ Anijsmelk is the Netherlands' most ubiquitous winter children's drink and one of
 - **Re-use the star anise once:** they have a second infusion in them.
 
 ## Variations
-**Anijsmelk met honing (with honey):** swap the sugar for 1 tablespoon of good honey per cup, mellower, more aromatic.
-**Anijsmelk met kaneel (cinnamon-heavy):** add a cinnamon stick to the steep alongside the star anise, more aromatic, more Christmas-market.
-**Adult anijsmelk (with rum or anise liqueur):** add 15 ml of dark rum or Pernod / Pastis to each mug just before drinking, the grown-up variant.
-**Anijsmelk met saffraan (saffron variant):** the slightly richer Dutch winter drink that adds saffron, tea and more spices.
-**Anijsmelk on ice (summer variant):** cool the brewed anijsmelk fully; serve over ice with a small twist of orange peel, the modern Amsterdam café summer variant.
-**Anijsmelk with foam (latte-style):** steam the milk to a latte texture (use a milk steamer); steep the anise first, strain, then froth, the modern coffee-shop variant.
-**Vegan anijsmelk:** swap whole milk for full-fat oat milk or coconut milk (canned, not light): the texture is similar; the aniseed dominates either way.
-**Anijsmelk with ginger:** add a thin slice of fresh ginger to the steep, the warming variant for cold and flu season.
+- **Anijsmelk met honing (with honey):** swap the sugar for 1 tablespoon of good honey per cup, mellower, more aromatic.
+- **Anijsmelk met kaneel (cinnamon-heavy):** add a cinnamon stick to the steep alongside the star anise, more aromatic, more Christmas-market.
+- **Adult anijsmelk (with rum or anise liqueur):** add 15 ml of dark rum or Pernod / Pastis to each mug just before drinking, the grown-up variant.
+- **Anijsmelk met saffraan (saffron variant):** the slightly richer Dutch winter drink that adds saffron, tea and more spices.
+- **Anijsmelk on ice (summer variant):** cool the brewed anijsmelk fully; serve over ice with a small twist of orange peel, the modern Amsterdam café summer variant.
+- **Anijsmelk with foam (latte-style):** steam the milk to a latte texture (use a milk steamer); steep the anise first, strain, then froth, the modern coffee-shop variant.
+- **Vegan anijsmelk:** swap whole milk for full-fat oat milk or coconut milk (canned, not light): the texture is similar; the aniseed dominates either way.
+- **Anijsmelk with ginger:** add a thin slice of fresh ginger to the steep, the warming variant for cold and flu season.
 
 ## Serving
-At a Dutch grandmother's kitchen on a winter evening (the traditional setting) · at a Dutch Sinterklaas (5 December) celebration after the gift-giving · at a Dutch Christmas market hot-drink stall · at a Dutch family bedtime ritual · at a Dutch sledding outing as the warming drink on returning home · at a Dutch ice-skating shelter · at home as the children's-bedtime ritual · paired with a speculaas biscuit, a piece of taai-taai, or a small chocolate.
+- At a Dutch grandmother's kitchen on a winter evening (the traditional setting) · at a Dutch Sinterklaas (5 December) celebration after the gift-giving · at a Dutch Christmas market hot-drink stall · at a Dutch family bedtime ritual · at a Dutch sledding outing as the warming drink on returning home · at a Dutch ice-skating shelter · at home as the children's-bedtime ritual · paired with a speculaas biscuit, a piece of taai-taai, or a small chocolate.
 
 ## Storage
 - Make and drink fresh, anijsmelk doesn't keep more than an hour; the milk loses its fresh anise top-notes and the texture can change.

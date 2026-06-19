@@ -81,13 +81,13 @@ The New York soft pretzel is a fixture of Manhattan street vendors (along with t
 - **Brush with butter for shine.**
 
 ## Variations
-**Cinnamon-sugar:** brush with butter; sprinkle with cinnamon-sugar instead of salt.
-**Garlic-herb:** brush with garlic butter; sprinkle with parsley.
-**Cheddar-stuffed:** wrap dough around a strip of cheese before shaping.
-**Pretzel bites:** cut into bite-size pieces; boil and bake same way.
+- **Cinnamon-sugar:** brush with butter; sprinkle with cinnamon-sugar instead of salt.
+- **Garlic-herb:** brush with garlic butter; sprinkle with parsley.
+- **Cheddar-stuffed:** wrap dough around a strip of cheese before shaping.
+- **Pretzel bites:** cut into bite-size pieces; boil and bake same way.
 
 ## Serving
-From street carts in Manhattan; at ball games; with mustard.
+- From street carts in Manhattan; at ball games; with mustard.
 
 ## Storage
 - Best warm.

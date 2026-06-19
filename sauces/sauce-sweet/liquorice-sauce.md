@@ -51,7 +51,7 @@ Liquorice sauce is the building block for an unexpected and grown-up sweet sauce
 - **Cream folding:** Add only immediately before serving; sauce becomes loose if mixed too far in advance.
 
 ## Serving
-Serve chilled with pear tart, plum clafoutis, or poached pears. For surprising elegance, serve alongside grilled salmon as sauce.
+- Serve chilled with pear tart, plum clafoutis, or poached pears. For surprising elegance, serve alongside grilled salmon as sauce.
 
 ## Storage
 - Keeps refrigerated for 2 days without the whipped cream in an airtight container (up to 48 hours).

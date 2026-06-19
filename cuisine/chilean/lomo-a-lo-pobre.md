@@ -77,13 +77,13 @@ Lomo a lo pobre is the pork-loin variation of Chile's iconic "poor man's plate" 
 - **Onions deeply soft:** 12-15 minutes minimum.
 
 ## Variations
-**Chuleta (chops) a lo pobre:** use bone-in pork chops instead.
-**Pollo a lo pobre:** chicken version.
-**Lomo a lo pobre completo:** add a grilled sausage to the plate.
-**With mushrooms:** add sautéed mushrooms with the onions.
+- **Chuleta (chops) a lo pobre:** use bone-in pork chops instead.
+- **Pollo a lo pobre:** chicken version.
+- **Lomo a lo pobre completo:** add a grilled sausage to the plate.
+- **With mushrooms:** add sautéed mushrooms with the onions.
 
 ## Serving
-On wide plates with all components. Chilean red wine or beer. As a Chilean diner lunch.
+- On wide plates with all components. Chilean red wine or beer. As a Chilean diner lunch.
 
 ## Storage
 - Eat immediately.

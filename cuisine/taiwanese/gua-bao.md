@@ -107,13 +107,13 @@ Gua bao (kong bah pao in Taiwanese Hokkien, "Taiwanese hamburger" in tourist par
 - **Frozen buns are fine:** making bao buns from scratch takes 4 hours and the frozen ones from Asian markets are excellent. Use them.
 
 ## Variations
-**Chicken thigh gua bao:** swap the pork belly for 800 g of chicken thigh; braise the same way (reduce cooking time to 45 minutes). Different but excellent; common modern variation.
-**Vegan gua bao:** swap the pork for 600 g of king oyster mushrooms (sliced thick) braised in the same liquid (use vegetable stock and reduce cooking to 30 minutes). The texture mimics pork belly remarkably well.
-**Fried chicken gua bao:** instead of braised pork, deep-fry chicken thigh schnitzel-style (panko crumbed) and place in the bun with the toppings; modern Taipei gastrobar version.
-**Spicy gua bao:** add 2-3 dried red chillies to the braise; finish with a drizzle of Sichuan chilli oil. Properly fierce variation.
+- **Chicken thigh gua bao:** swap the pork belly for 800 g of chicken thigh; braise the same way (reduce cooking time to 45 minutes). Different but excellent; common modern variation.
+- **Vegan gua bao:** swap the pork for 600 g of king oyster mushrooms (sliced thick) braised in the same liquid (use vegetable stock and reduce cooking to 30 minutes). The texture mimics pork belly remarkably well.
+- **Fried chicken gua bao:** instead of braised pork, deep-fry chicken thigh schnitzel-style (panko crumbed) and place in the bun with the toppings; modern Taipei gastrobar version.
+- **Spicy gua bao:** add 2-3 dried red chillies to the braise; finish with a drizzle of Sichuan chilli oil. Properly fierce variation.
 
 ## Serving
-On a small plate or in a folded square of parchment, 2 buns per person. Eat with your hands; the bun should be folded around the filling like a taco. The mess is part of the experience. Drink: Taiwan Beer (the local lager); Taiwanese bubble tea for the proper Taipei night-market combo; or chrysanthemum tea.
+- On a small plate or in a folded square of parchment, 2 buns per person. Eat with your hands; the bun should be folded around the filling like a taco. The mess is part of the experience. Drink: Taiwan Beer (the local lager); Taiwanese bubble tea for the proper Taipei night-market combo; or chrysanthemum tea.
 
 ## Storage
 - The braised pork keeps refrigerated 5 days; the flavour deepens noticeably overnight. Reheat gently in a covered pan or microwave.

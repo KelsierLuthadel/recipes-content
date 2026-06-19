@@ -65,12 +65,12 @@ A pizza for when you want pizza and meatballs at the same time. You roll mini be
 - **Two cured sausages:** The Peperami-style sausages add chew while the pepperoni adds spiced grease. Skipping one gives a less interesting bite.
 
 ## Variations
-**Lamb meatball:** Swap beef mince for lamb and add a pinch of cinnamon and cumin to the sauce.
-**Vegetarian:** Replace the meatballs with halved chestnut mushrooms (browned the same way) and use vegetarian salami in place of pepperoni.
+- **Lamb meatball:** Swap beef mince for lamb and add a pinch of cinnamon and cumin to the sauce.
+- **Vegetarian:** Replace the meatballs with halved chestnut mushrooms (browned the same way) and use vegetarian salami in place of pepperoni.
 
 ## Serving
-Serve with: Garlic bread and a sharp leaf salad with a lemony dressing
-Garnish with: A drizzle of chilli oil and grated parmesan
+- Serve with: Garlic bread and a sharp leaf salad with a lemony dressing
+- Garnish with: A drizzle of chilli oil and grated parmesan
 
 ## Storage
 - Meatballs and sauce keep 3 days refrigerated; freeze well up to 2 months

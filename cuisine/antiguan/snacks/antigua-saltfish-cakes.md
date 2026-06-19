@@ -59,7 +59,7 @@ Saltfish cakes (called accras or fritters across the wider Caribbean, but always
 - **Cornmeal fritters:** Replace 80 g of the flour with fine yellow cornmeal for a crunchier crust.
 
 ## Serving
-Serve hot with pepper sauce · with a wedge of lime · alongside cold beer or rum punch · packed into lunchboxes with avocado.
+- Serve hot with pepper sauce · with a wedge of lime · alongside cold beer or rum punch · packed into lunchboxes with avocado.
 
 ## Storage
 - Best eaten fresh

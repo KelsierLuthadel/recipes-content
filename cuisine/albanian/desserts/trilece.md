@@ -79,7 +79,7 @@ Trileçe (literally "three milks") is the cake that took over Albania in the 199
 - **With strawberries:** Top with halved strawberries over the caramel just before serving (summer trileçe).
 
 ## Serving
-With a small dark coffee · at the end of a long Albanian lunch · cut into squares for a coffee-shop platter · with a glass of cold milk · at celebrations and family gatherings · cold straight from the fridge.
+- With a small dark coffee · at the end of a long Albanian lunch · cut into squares for a coffee-shop platter · with a glass of cold milk · at celebrations and family gatherings · cold straight from the fridge.
 
 ## Storage
 - Keeps 4 days refrigerated, covered.

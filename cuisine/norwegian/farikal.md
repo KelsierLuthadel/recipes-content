@@ -67,7 +67,7 @@ Fårikål - "sheep in cabbage" - is the dish Norway officially declared its nati
 - **Layer, don't stir:** The layering is what gives fårikål its character; stirring it during cooking turns it to mush.
 
 ## Serving
-Serve as the autumn Sunday dinner, traditional from late September through November. Drink a glass of dark beer or aquavit alongside (aquavit is the Norwegian caraway spirit; a small chilled shot is the formal accompaniment).
+- Serve as the autumn Sunday dinner, traditional from late September through November. Drink a glass of dark beer or aquavit alongside (aquavit is the Norwegian caraway spirit; a small chilled shot is the formal accompaniment).
 
 ## Storage
 - Refrigerates 4 days; the flavour deepens overnight.

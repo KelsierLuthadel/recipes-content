@@ -40,7 +40,7 @@ Espresso vanilla pannacotta: Omit the figs. At the table, pour a strong, piping 
 - Serving directly from the bowl (rather than turning out) allows appreciation of the beautiful fig decoration adhered to the sides
 
 ## Serving
-Serve the pannacotta directly in its chilling bowl or cup, optionally adding a single fresh fig slice on top for decoration. The honey-vanilla flavor speaks for itself without accompaniment, though a simple biscuit alongside would be pleasant.
+- Serve the pannacotta directly in its chilling bowl or cup, optionally adding a single fresh fig slice on top for decoration. The honey-vanilla flavor speaks for itself without accompaniment, though a simple biscuit alongside would be pleasant.
 
 ## Storage
 Set pannacotta keeps refrigerated for up to 3 days in a covered bowl, fine because the delicate flavor actually matures and improves. Do not freeze, as freezing causes gelatine-set desserts to become grainy. If turning out to serve (requiring extra gelatine with oiled moulds), serve unmolded within 2 days.

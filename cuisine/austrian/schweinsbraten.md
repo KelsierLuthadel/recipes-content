@@ -82,12 +82,12 @@ Schweinsbraten is the Austrian Sunday roast: a pork shoulder or belly with its s
 - **Pork shoulder over loin:** shoulder has the fat and connective tissue that turns silky over three hours of slow heat. Loin dries out in the same conditions. Belly works too and gives even more crackling, but slice thinner.
 
 ## Variations
-**Bohemian Schweinsbraten:** the Czech-influenced variant from Lower Austria, served with bread dumplings (knedlíky) and braised red cabbage with apple, the caraway swapped for cumin in places.
-**Krustenbraten:** the Bavarian cousin from south of the border, made with pork belly rather than shoulder for maximum crackling, often with dark beer instead of pale.
-**Stuffed Schweinsbraten:** a pocket cut into the meat and stuffed with sautéed onion, garlic and bread before roasting; a Vorarlberg variation.
+- **Bohemian Schweinsbraten:** the Czech-influenced variant from Lower Austria, served with bread dumplings (knedlíky) and braised red cabbage with apple, the caraway swapped for cumin in places.
+- **Krustenbraten:** the Bavarian cousin from south of the border, made with pork belly rather than shoulder for maximum crackling, often with dark beer instead of pale.
+- **Stuffed Schweinsbraten:** a pocket cut into the meat and stuffed with sautéed onion, garlic and bread before roasting; a Vorarlberg variation.
 
 ## Serving
-Sliced thick with [Semmelknödel](side-dishes/semmelknoedel.md) (bread dumplings) to soak the gravy, braised red cabbage (Blaukraut) or proper sauerkraut, and a small pile of crackling shards on each plate. Drink: Austrian lager, a glass of grüner veltliner, or a rustic red like Zweigelt. Sunday lunch in any Gasthof from Vienna to Innsbruck.
+- Sliced thick with [Semmelknödel](side-dishes/semmelknoedel.md) (bread dumplings) to soak the gravy, braised red cabbage (Blaukraut) or proper sauerkraut, and a small pile of crackling shards on each plate. Drink: Austrian lager, a glass of grüner veltliner, or a rustic red like Zweigelt. Sunday lunch in any Gasthof from Vienna to Innsbruck.
 
 ## Storage
 - Keeps refrigerated 3 days; the meat is excellent cold in sandwiches with horseradish and pickled gherkins, or sliced into Tiroler Gröstl the next day.

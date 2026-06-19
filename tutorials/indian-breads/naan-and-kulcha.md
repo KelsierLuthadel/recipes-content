@@ -81,25 +81,25 @@ This is the "good enough" home method. Not as authentic as the baking-stone vers
 ## Variations
 
 ### Garlic naan
-Brush the freshly-baked naan with melted butter mixed with chopped garlic + chopped fresh coriander.
+- Brush the freshly-baked naan with melted butter mixed with chopped garlic + chopped fresh coriander.
 
 ### Cheese naan (modern Indian-restaurant variant)
-Roll the naan; place 30 g of grated cheese (mozzarella or paneer-mozz mix) in the centre; fold the edges over to seal; roll out gently again. Bake as normal.
+- Roll the naan; place 30 g of grated cheese (mozzarella or paneer-mozz mix) in the centre; fold the edges over to seal; roll out gently again. Bake as normal.
 
 ### Peshawari naan (Pakistani / Northwest)
-Slightly sweet. Dough is enriched with raisins, coconut, almond, and a touch of sugar. The bread is folded around the sweet filling and baked.
+- Slightly sweet. Dough is enriched with raisins, coconut, almond, and a touch of sugar. The bread is folded around the sweet filling and baked.
 
 ### Keema naan
-Naan stuffed with spiced minced meat (lamb or beef). The filling is added during the shaping step.
+- Naan stuffed with spiced minced meat (lamb or beef). The filling is added during the shaping step.
 
 ### Onion naan
-Topped with finely chopped raw onion and chopped coriander before baking. The onion crisps slightly.
+- Topped with finely chopped raw onion and chopped coriander before baking. The onion crisps slightly.
 
 ### Butter naan
-Brushed generously with butter after baking. The default UK Indian restaurant naan.
+- Brushed generously with butter after baking. The default UK Indian restaurant naan.
 
 ### Tandoori roti vs naan
-Both are tandoor-baked. The difference: tandoori roti is unleavened (atta dough) and chewier; naan is leavened (maida + yogurt) and puffier. Some restaurants serve "tandoori roti" as a slightly chewier, less-puffy version of naan.
+- Both are tandoor-baked. The difference: tandoori roti is unleavened (atta dough) and chewier; naan is leavened (maida + yogurt) and puffier. Some restaurants serve "tandoori roti" as a slightly chewier, less-puffy version of naan.
 
 ## Kulcha
 
