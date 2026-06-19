@@ -34,7 +34,7 @@ Khichuri across South Asia ranges from baby-food soft to dry-grained pilaf-like;
 - 2 tsp salt, plus more to taste
 - 4 green chillies, slit
 - 1.2 litres hot water
-- 1 tsp garam masala
+- 1 tsp [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - A small handful of fresh coriander, chopped
 
 ## Method

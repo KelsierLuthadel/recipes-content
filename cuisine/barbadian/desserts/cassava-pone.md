@@ -29,7 +29,7 @@ Cassava pone is one of the oldest and most-loved Caribbean sweets, with roots go
 - 1 tablespoon vanilla extract
 - 2 teaspoons ground cinnamon
 - 1 teaspoon freshly grated nutmeg
-- 1 teaspoon ground mixed spice (or allspice)
+- 1 teaspoon ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md) (or allspice)
 - 1 teaspoon salt
 - Finely grated zest of 1 lime (the Bajan citrus touch)
 - 50 g raisins (optional but very traditional)

@@ -19,7 +19,7 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 - 400 g cooked chickpeas (about 200 g dried, soaked overnight and simmered 1 hour until tender, OR 2 x 400 g tins drained and rinsed) plus 700 ml of their cooking liquid (or 700 ml water + 1 stock cube)
 - 6 garlic cloves (crushed to a paste with ½ teaspoon salt)
 - 2 teaspoons ground cumin
-- 1 tablespoon harissa paste (more for the bolder; less for the timid)
+- 1 tablespoon [harissa](../../base-ingredients/sauces/harissa.md) paste (more for the bolder; less for the timid)
 - 2 tablespoons olive oil
 - 1 teaspoon salt (to taste)
 - ½ teaspoon black pepper
@@ -28,7 +28,7 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 ### Per bowl (toppings)
 - 2 thick slices stale baguette (or country bread), torn into bite pieces
 - 1 egg (soft-boiled 6 minutes, or freshly poached)
-- 1 teaspoon harissa paste
+- 1 teaspoon [harissa](../../base-ingredients/sauces/harissa.md) paste
 - 1 tablespoon extra-virgin olive oil
 - ½ tablespoon lemon juice
 - 2 tablespoons drained canned tuna (in oil, the kind packed in good olive oil)
@@ -36,7 +36,7 @@ Tunisia's market-stall breakfast, sold from copper pots at Tunis souks and built
 - 1 teaspoon capers
 - A pinch of ground cumin
 - A small wedge of fresh lemon
-- Optional: 1 teaspoon harissa-and-olive-oil paste; pickled chilli; mint leaves
+- Optional: 1 teaspoon [harissa](../../base-ingredients/sauces/harissa.md)-and-olive-oil paste; pickled chilli; mint leaves
 
 ## Method
 

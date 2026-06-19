@@ -16,13 +16,13 @@ The dish lives or dies on the jerk marinade and on whether the chicken takes a p
 ## Ingredients
 
 - 1.1 kg boneless skinless chicken thighs
-- 3 tablespoons Jamaican jerk seasoning (homemade or Walkerswood)
+- 3 tablespoons Jamaican [jerk seasoning](../../base-ingredients/spices/jerk-seasoning.md) (homemade or Walkerswood)
 - 2 tablespoons olive oil
 - 1 can (400 ml) full-fat coconut milk
 - 2 tablespoons fresh lime juice
 - 1 teaspoon browning sauce (Grace brand)
 - Thinly sliced spring onions, to garnish
-- Extra jerk seasoning, to finish
+- Extra [jerk seasoning](../../base-ingredients/spices/jerk-seasoning.md), to finish
 
 ## Method
 

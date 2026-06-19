@@ -24,7 +24,7 @@ Manakish zaatar is the morning bread of Syria: soft yeasted flatbread slicked wi
 - 320 ml warm water
 
 ### Za'atar paste
-- 6 tablespoons za'atar (dried Syrian or Lebanese blend, thyme, sumac, sesame, salt)
+- 6 tablespoons [za'atar](../../../base-ingredients/spices/za-atar.md) (dried Syrian or Lebanese blend, thyme, sumac, sesame, salt)
 - 8-10 tablespoons olive oil (enough to make a loose, spoonable paste)
 
 ## Method

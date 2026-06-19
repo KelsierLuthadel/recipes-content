@@ -28,7 +28,7 @@ Jhal muri is the after-school, before-dinner, riding-the-train Bengali street sn
 - 1 small green mango (or cucumber), finely diced
 - A small handful of fresh coriander, chopped
 - 2 tbsp raw mustard oil
-- 1 tsp chaat masala
+- 1 tsp [chaat masala](../../../base-ingredients/spices/chaat-masala.md)
 - ½ tsp fine salt, plus more to taste
 - 1 tbsp lime juice
 - A small piece of fresh coconut, slivered (optional but traditional)

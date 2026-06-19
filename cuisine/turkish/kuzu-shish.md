@@ -25,7 +25,7 @@ Kuzu şiş (literally "lamb skewer"; sometimes called şiş kebab or shish kebab
 - 3 tablespoons fresh lemon juice
 - 2 tablespoons tomato paste
 - 2 tablespoons Turkish red pepper paste (biber salçası)
-- 1 tablespoon Levantine baharat
+- 1 tablespoon Levantine [baharat](../../base-ingredients/spices/baharat.md)
 - 2 teaspoons Aleppo pepper (pul biber)
 - 2 teaspoons ground cumin
 - 1 teaspoon ground coriander

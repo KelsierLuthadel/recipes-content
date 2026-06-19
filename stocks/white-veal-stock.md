@@ -32,7 +32,7 @@ White veal stock (fond blanc de veau) is the cornerstone of classical French sau
 - 6 tomatoes (peeled, de-seeded, and coarsely chopped, or 150 grams canned tomatoes in juice)
 - 150 grams button mushrooms (thinly sliced)
 - 1 [Bouquet Garni](../base-ingredients/herbs/bouquet-garni.md) (thyme, bay leaf, parsley stems)
-- 1 sprig fresh tarragon (inside the bouquet garni)
+- 1 sprig fresh tarragon (inside the [bouquet garni](../base-ingredients/herbs/bouquet-garni.md))
 
 ## Method
 

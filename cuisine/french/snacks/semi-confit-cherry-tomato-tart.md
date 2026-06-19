@@ -25,7 +25,7 @@ This is the late-summer French tomato tart, a rustic-elegant assembly of slow-ro
 - pepper
 
 ### Topping
-- 500 g semi-confit cherry tomatoes
+- 500 g [semi-confit cherry tomatoes](../../../base-ingredients/vegetables/semi-confit-cherry-tomato.md)
 - 6 basil leaves (snipped)
 
 ## Method

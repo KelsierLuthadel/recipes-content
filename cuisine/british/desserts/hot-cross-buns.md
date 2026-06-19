@@ -22,7 +22,7 @@ Hot cross buns are the British Easter bake, the spiced fruited buns sold from ev
 - 7 g instant yeast (1 sachet)
 - 2 teaspoons ground cinnamon
 - 1 teaspoon ground nutmeg
-- 1 teaspoon mixed spice
+- 1 teaspoon [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - The zest of 1 orange
 - The zest of 1 lemon
 - 280 ml whole milk (lukewarm)

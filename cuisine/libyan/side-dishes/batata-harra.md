@@ -18,7 +18,7 @@ Batata harra (literally "hot potatoes") shows up across the Levant and Maghreb i
 - 5 tbsp olive oil
 - 6 cloves garlic, finely chopped
 - 1 tbsp sweet paprika
-- 1 tbsp harissa or bisbas (or 1 tsp chilli flakes)
+- 1 tbsp [harissa](../../../base-ingredients/sauces/harissa.md) or bisbas (or 1 tsp chilli flakes)
 - 2 tsp ground coriander
 - 1 tsp ground cumin
 - 1 tsp dried mint

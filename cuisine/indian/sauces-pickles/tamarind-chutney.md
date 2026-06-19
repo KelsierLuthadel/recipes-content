@@ -28,7 +28,7 @@ The dark sticky sweet-sour-spicy chutney that anchors Indian street-food cooking
 - 1 carrot (large, grated)
 
 ### Spices
-- 1 teaspoon Madras curry powder (or to taste)
+- 1 teaspoon Madras [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md) (or to taste)
 - Salt to taste
 
 ## Method

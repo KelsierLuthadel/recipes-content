@@ -30,10 +30,10 @@ The samosa came to Fiji with the indentured labourers brought from India in the 
 - 1 small onion, finely chopped
 - 1 thumb of ginger, finely grated
 - 2 green chillies, finely chopped
-- 1 tbsp Fijian or Madras curry powder
+- 1 tbsp Fijian or Madras [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp ground coriander
 - 1/2 tsp turmeric
-- 1/2 tsp garam masala
+- 1/2 tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp salt
 - Juice of half a lemon
 - A handful of fresh coriander, chopped

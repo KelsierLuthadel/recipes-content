@@ -28,7 +28,7 @@ The trick is to have the marinated items ready in advance. A mixed grill is a 12
 - 1 large red onion (sliced thin into rings)
 - 1 lemon (cut into wedges)
 - Small handful fresh coriander (chopped)
-- Pinch of chaat masala (or a mixture of ground cumin + black salt + amchoor)
+- Pinch of [chaat masala](../../../base-ingredients/spices/chaat-masala.md) (or a mixture of ground cumin + black salt + amchoor)
 - Small bowl [Mint Raita](../sauces-pickles/mint-raita.md), to serve
 
 ## Method

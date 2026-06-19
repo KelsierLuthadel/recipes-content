@@ -34,7 +34,7 @@ Shrimp and grits is one of the South's most beloved dishes, particularly associa
 - 2 tablespoons butter
 - 100 ml dry white wine (or chicken stock)
 - 1 teaspoon smoked paprika
-- 1 teaspoon Old Bay seasoning (or paprika + celery salt)
+- 1 teaspoon [Old Bay seasoning](../../base-ingredients/spices/old-bay-seasoning.md) (or paprika + celery salt)
 - Juice of 1 lemon
 - 1 teaspoon hot sauce
 - 1 ½ teaspoons fine sea salt

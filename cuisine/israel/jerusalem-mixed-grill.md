@@ -35,7 +35,7 @@ Jerusalem mixed grill (me'orav Yerushalmi) is the late-night street-food sandwic
 - Tahini sauce
 - Pickled cucumbers
 - Sliced tomato and onion
-- Hot sauce (zhug or harissa)
+- Hot sauce (zhug or [harissa](../../base-ingredients/sauces/harissa.md))
 
 ## Method
 

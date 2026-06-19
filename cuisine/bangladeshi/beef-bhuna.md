@@ -31,7 +31,7 @@ Bhuna is a cooking technique more than a fixed recipe: bhuna means "fried" in th
 - 2 black cardamom pods, lightly crushed
 - 6 cloves
 - 2 bay leaves
-- 1 tsp garam masala
+- 1 tsp [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 4 green chillies, slit
 - 1 tsp sugar
 - 300 ml warm water (added in stages)

@@ -24,7 +24,7 @@ A workday cross-cultural dinner that adds the Caribbean to the Tex-Mex format: j
 - ½ teaspoon smoked paprika
 - salt
 - pepper
-- ⅓ cup Walkerswood Jamaican Jerk seasoning paste (mild)
+- ⅓ cup Walkerswood Jamaican [Jerk seasoning](../../base-ingredients/spices/jerk-seasoning.md) paste (mild)
 - 60 ml chicken broth
 - 1 teaspoon browning sauce (Grace brand)
 - 1 lime (small, zest + juice)

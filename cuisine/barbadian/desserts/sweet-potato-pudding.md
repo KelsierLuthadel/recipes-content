@@ -28,7 +28,7 @@ Bajan sweet potato pudding is the orange-fleshed Caribbean cousin of cassava pon
 ### The spice mix
 - 2 teaspoons ground cinnamon
 - 1 teaspoon freshly grated nutmeg
-- 1 teaspoon ground mixed spice (or allspice)
+- 1 teaspoon ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md) (or allspice)
 - 1/2 teaspoon ground ginger
 - 1 teaspoon salt
 

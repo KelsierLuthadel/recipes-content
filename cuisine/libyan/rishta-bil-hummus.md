@@ -32,7 +32,7 @@ Rishta is one of the dishes that gives away Libya's century of Italian colonial 
 - 2 tbsp sweet paprika
 - 1 tsp ground cumin
 - 1 tsp ground coriander
-- 1 tbsp bisbas or harissa
+- 1 tbsp bisbas or [harissa](../../base-ingredients/sauces/harissa.md)
 - 1/2 tsp turmeric
 - 1.2 litres water
 - 1 tin (400 g) chickpeas, drained

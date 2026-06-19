@@ -29,7 +29,7 @@ Bazin is the dish that makes a Libyan kitchen feel Libyan. A stiff dough of barl
 - 2 tsp sweet paprika
 - 1 tsp ground cumin
 - 1 tsp ground coriander
-- 1 tbsp bisbas or harissa
+- 1 tbsp bisbas or [harissa](../../base-ingredients/sauces/harissa.md)
 - 1/2 tsp turmeric
 - 1/4 tsp cinnamon
 - 600 ml water

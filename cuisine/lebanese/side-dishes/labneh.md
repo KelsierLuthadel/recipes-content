@@ -21,7 +21,7 @@ Lebanon's strained-yogurt cheese, the small plate that anchors every Lebanese br
 
 ### To finish
 - 3 tablespoons olive oil (extra-virgin)
-- 1 tablespoon za'atar
+- 1 tablespoon [za'atar](../../../base-ingredients/spices/za-atar.md)
 - 1 teaspoon dried mint
 - 1 teaspoon sumac
 - 1 tablespoon fresh mint (chopped, optional)

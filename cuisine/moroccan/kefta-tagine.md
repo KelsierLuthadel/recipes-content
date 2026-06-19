@@ -34,7 +34,7 @@ Morocco's weeknight tagine and the dish that anchors a fast Friday lunch when th
 - 1 teaspoon ground cumin
 - 1 teaspoon sweet paprika
 - ½ teaspoon ground cinnamon
-- 1 teaspoon harissa paste (or substitute ½ tsp cayenne)
+- 1 teaspoon [harissa](../../base-ingredients/sauces/harissa.md) paste (or substitute ½ tsp cayenne)
 - 700 ml tomato passata (or 2 x 400 g tins chopped tomatoes blitzed smooth)
 - 1 stock cube
 - 1 teaspoon salt

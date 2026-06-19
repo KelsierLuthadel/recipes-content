@@ -29,7 +29,7 @@ Bourekas are the Israeli puff-pastry triangles, ready-rolled puff wrapped around
 
 ### To serve (optional)
 - 4 hard-boiled eggs (sliced)
-- 2 tablespoons harissa
+- 2 tablespoons [harissa](../../../base-ingredients/sauces/harissa.md)
 - A small jar of pickled cucumbers (sliced)
 
 ## Method

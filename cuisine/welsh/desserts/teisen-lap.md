@@ -22,7 +22,7 @@ Teisen lap means "moist cake", and that is exactly what it is: a shallow, butter
 - 50 g chopped candied mixed peel (optional)
 - 2 large eggs, beaten
 - 150 ml buttermilk (or 150 ml whole milk + 1 tsp lemon juice, left to curdle)
-- 1 tsp ground mixed spice
+- 1 tsp ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1/4 tsp grated nutmeg
 - Pinch of salt
 

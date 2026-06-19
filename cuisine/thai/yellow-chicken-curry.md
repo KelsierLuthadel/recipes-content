@@ -26,7 +26,7 @@ Thai yellow chicken curry (gaeng karee gai) is the mildest of the three classic 
 - 2 tbsp rapeseed (canola) oil (if not using coconut cracking method)
 
 ### Paste and sweeteners
-- 1 batch yellow curry paste
+- 1 batch [yellow curry paste](../../base-ingredients/curry-paste/thai-yellow-paste.md)
 - 1 tbsp palm sugar
 - 1 tbsp tamarind paste
 

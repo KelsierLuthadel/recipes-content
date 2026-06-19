@@ -31,7 +31,7 @@ Pav bhaji is Mumbai's defining street food and the night-market plate that lives
 - 2 green chillies (finely chopped)
 - 1 green capsicum (deseeded, finely diced)
 - 4 ripe tomatoes (finely chopped, or 400 g tinned chopped tomatoes)
-- 2 tablespoons pav bhaji masala (the dedicated blend, MDH / Everest / Catch, substitute: 1 tablespoon garam masala + 1 teaspoon amchur + ½ teaspoon kasuri methi if unavailable)
+- 2 tablespoons pav bhaji masala (the dedicated blend, MDH / Everest / Catch, substitute: 1 tablespoon [garam masala](../../base-ingredients/curry-powder/garam-masala.md) + 1 teaspoon amchur + ½ teaspoon kasuri methi if unavailable)
 - 1 teaspoon Kashmiri chilli powder (gives colour without scorching heat)
 - 1 teaspoon ground cumin
 - ½ teaspoon turmeric

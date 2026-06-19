@@ -21,7 +21,7 @@ Simnel cake is the British Easter cake, the lighter cousin of the dense Christma
 - 4 large eggs (room temperature)
 - 250 g plain flour
 - 1 teaspoon baking powder
-- 2 teaspoons mixed spice
+- 2 teaspoons [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1 teaspoon ground cinnamon
 - A small pinch of fine sea salt
 - The zest of 1 lemon

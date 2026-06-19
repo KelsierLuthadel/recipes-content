@@ -30,7 +30,7 @@ Country Captain is one of the South's most distinctive dishes and reflects the h
 - 1 tin (400 g) chopped tomatoes
 - 3 tablespoons tomato paste
 - 600 ml chicken stock
-- 3 tablespoons curry powder (medium)
+- 3 tablespoons [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (medium)
 - 1 tablespoon ground cumin
 - 1 tablespoon ground coriander
 - 1 teaspoon ground cinnamon

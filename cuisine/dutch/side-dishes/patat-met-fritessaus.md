@@ -35,7 +35,7 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 - 2 tablespoons sweet soy sauce (kecap manis, the Indonesian soy sauce; sold in Dutch supermarkets; substitute with regular soy + 1 tablespoon brown sugar)
 - 1 tablespoon lime juice
 - 1 clove garlic, finely grated
-- 1/2 teaspoon sambal oelek (Indonesian chili paste) OR sriracha
+- 1/2 teaspoon [sambal oelek](../../../base-ingredients/sambal/sambal-oelek.md) (Indonesian chili paste) OR sriracha
 - 1/4 teaspoon ground coriander
 - 100 ml warm water (to thin to the right consistency)
 
@@ -46,10 +46,10 @@ Dutch frites differ from the [Belgian frites](../../belgian/side-dishes/belgian-
 - 1 small raw onion, very finely chopped
 
 ### Optional Dutch chip-shop sauces (offer one or more)
-- Curry mayo (mayo + 1 teaspoon curry powder + a pinch of sugar)
+- Curry mayo (mayo + 1 teaspoon [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md) + a pinch of sugar)
 - Knoflooksaus (garlic mayo)
 - Joppiesaus (a Dutch fast-food brand-specific sauce, mayo + curry + onion + spices)
-- Sambal mayo (mayo + sambal oelek)
+- Sambal mayo (mayo + [sambal oelek](../../../base-ingredients/sambal/sambal-oelek.md))
 
 ## Method
 

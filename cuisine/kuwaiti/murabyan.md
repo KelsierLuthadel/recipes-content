@@ -19,7 +19,7 @@ Kuwait sits on the northern tip of the Gulf and its waters give big sweet prawns
 - 700 g large raw shell-on prawns
 - 1 tsp salt
 - 1 tsp turmeric
-- 1 tsp Kuwaiti baharat
+- 1 tsp Kuwaiti [baharat](../../base-ingredients/spices/baharat.md)
 
 ### Stock
 - 2 tbsp vegetable oil
@@ -36,7 +36,7 @@ Kuwait sits on the northern tip of the Gulf and its waters give big sweet prawns
 - 1 green chilli, slit (optional)
 - 2 tomatoes, chopped
 - 2 tbsp tomato paste
-- 1 tbsp Kuwaiti baharat
+- 1 tbsp Kuwaiti [baharat](../../base-ingredients/spices/baharat.md)
 - 1 tsp turmeric
 - 2 dried limes, pierced
 - 1 cinnamon stick

@@ -27,7 +27,7 @@ Keshi yena (Papiamento for "stuffed cheese") is the dish every Aruban household 
 - 3 cloves garlic, finely chopped
 - 2 medium tomatoes, chopped (or 200 g tinned chopped tomatoes)
 - 2 tbsp tomato paste
-- 1 tsp mild curry powder
+- 1 tsp mild [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp sweet paprika
 - 1 bay leaf
 - 60 g raisins

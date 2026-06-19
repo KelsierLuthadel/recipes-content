@@ -31,7 +31,7 @@ For the filling:
 - 2 cm ginger, grated
 - 1/2 scotch bonnet, deseeded and finely chopped
 - 400 g minced beef
-- 1 tsp curry powder
+- 1 tsp [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp dried thyme
 - 1/2 tsp ground white pepper
 - 1 stock cube

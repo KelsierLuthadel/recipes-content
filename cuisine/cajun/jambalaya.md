@@ -34,7 +34,7 @@ A modern pasta-twist on the Cajun one-pot classic, swapping the traditional rice
 - 3 tablespoons fresh basil (chopped)
 
 ### Seasonings & Finish
-- 3 teaspoons cajun (or creole spice mix)
+- 3 teaspoons cajun (or [creole spice mix](../../base-ingredients/spices/creole-mix.md))
 - 75 grams Parmesan cheese (freshly grated)
 - salt
 - pepper

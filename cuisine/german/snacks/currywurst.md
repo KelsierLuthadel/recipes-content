@@ -19,7 +19,7 @@ Currywurst is one of Germany's most beloved street foods and the traditional Ber
 - 200 ml ketchup
 - 2 tablespoons tomato paste
 - 1 small onion (very finely chopped)
-- 2 tablespoons mild curry powder
+- 2 tablespoons mild [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon paprika
 - 2 tablespoons apple cider vinegar
 - 1 tablespoon brown sugar
@@ -35,7 +35,7 @@ Currywurst is one of Germany's most beloved street foods and the traditional Ber
 - 1 tablespoon vegetable oil
 
 ### Topping
-- 2 tablespoons mild curry powder (for dusting)
+- 2 tablespoons mild [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md) (for dusting)
 - Sweet paprika (optional)
 
 ### To serve

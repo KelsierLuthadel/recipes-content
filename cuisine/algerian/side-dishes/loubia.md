@@ -29,7 +29,7 @@ Loubia (the Maghrebi word for white beans) is the Algerian country-table side th
 - 2 teaspoons sweet paprika (paprika doux)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground caraway
-- 1 tablespoon harissa (Algerian or Tunisian; or 1/2 tablespoon if you prefer mild)
+- 1 tablespoon [harissa](../../../base-ingredients/sauces/harissa.md) (Algerian or Tunisian; or 1/2 tablespoon if you prefer mild)
 - 1 teaspoon fine sea salt
 - 1 teaspoon coarsely cracked black pepper
 - 700 ml reserved bean cooking liquid (plus extra water if needed)
@@ -44,7 +44,7 @@ Loubia (the Maghrebi word for white beans) is the Algerian country-table side th
 ### To serve
 - A round of khobz Algerian semolina bread
 - A pot of mint tea
-- A small bowl of harissa for the table
+- A small bowl of [harissa](../../../base-ingredients/sauces/harissa.md) for the table
 
 ## Method
 

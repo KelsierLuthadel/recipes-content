@@ -38,7 +38,7 @@ The Japadog is a Japanese-Canadian fusion hot dog that originated in Vancouver i
 - 4 tablespoons bonito flakes (katsuobushi)
 - 1 tablespoon toasted sesame seeds
 - Pickled ginger (gari) on the side (optional)
-- Japanese 7-spice (shichimi togarashi) for sprinkling
+- Japanese 7-spice ([shichimi togarashi](../../../base-ingredients/spices/shichimi-togarashi.md)) for sprinkling
 
 ### To serve
 - Edamame on the side

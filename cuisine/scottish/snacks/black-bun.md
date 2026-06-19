@@ -41,7 +41,7 @@ Black bun is one of Scotland's most uniquely structured cakes: a very dense, alm
 - 4 large eggs
 - 1 teaspoon ground cinnamon
 - 1 teaspoon ground ginger
-- 1 teaspoon mixed spice
+- 1 teaspoon [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - ½ teaspoon ground cloves
 - ½ teaspoon ground nutmeg
 - 1 teaspoon black treacle

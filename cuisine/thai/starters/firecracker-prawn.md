@@ -22,7 +22,7 @@ Firecracker prawns are the chilli-spiked Thai starter you find on every restaura
 - 1 garlic clove, finely minced
 - 1 tsp soy sauce
 - 1 tsp honey
-- 1 tbsp homemade chilli jam (nam prik pao)
+- 1 tbsp homemade chilli jam ([nam prik pao](../../../base-ingredients/sambal/nam-prik-pao.md))
 - 1 tsp roasted chilli flakes (optional)
 - ½ tsp lemon juice
 

@@ -21,7 +21,7 @@ Rourou is what Fijian cooks make with the bumper crop of taro leaves that grow a
 - 1 thumb of ginger, grated
 - 1 green chilli, finely chopped (or to taste)
 - 1 tsp ground turmeric
-- 1 tsp Madras-style curry powder (the Indo-Fijian touch)
+- 1 tsp Madras-style [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (the Indo-Fijian touch)
 - 1/2 tsp salt
 - 400 ml coconut milk
 - 100 ml thick coconut cream (for finishing)

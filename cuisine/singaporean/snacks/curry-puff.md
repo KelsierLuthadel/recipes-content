@@ -28,7 +28,7 @@ The curry puff (also called karipap in Malay) is Singapore's bite-sized samosa c
 - 4 cloves garlic, minced
 - 1 thumb of ginger, grated
 - 1 small green chilli, finely chopped
-- 2 tbsp Madras-style curry powder
+- 2 tbsp Madras-style [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1/2 tsp ground turmeric
 - 1/2 tsp ground cumin
 - 250 g chicken thigh, finely chopped (or 250 g tinned sardines, drained, mashed)

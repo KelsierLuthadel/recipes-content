@@ -37,7 +37,7 @@ Boller i karry (literally "balls in curry") is a Danish family-dinner classic th
 - 60 g butter
 - 1 large onion (finely chopped)
 - 1 medium leek (chopped; white and pale green parts)
-- 3 tablespoons mild Danish curry powder (or substitute mild Madras curry powder; less heat than Indian curry)
+- 3 tablespoons mild Danish [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (or substitute mild Madras curry powder; less heat than Indian curry)
 - 2 tablespoons plain flour
 - 800 ml of the poaching liquid (strained)
 - 200 ml double cream

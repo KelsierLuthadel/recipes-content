@@ -20,7 +20,7 @@ The other classic Moroccan tagine, a sweet-and-savoury celebration of lamb that 
 - 2 onions (sliced)
 - 4 garlic cloves (crushed)
 - 1 thumb fresh ginger (grated)
-- 2 teaspoons ras el hanout
+- 2 teaspoons [ras el hanout](../../base-ingredients/spices/ras-el-hanout.md)
 - 1 teaspoon ground cinnamon
 - 1 teaspoon ground cumin
 - 1 teaspoon sweet paprika

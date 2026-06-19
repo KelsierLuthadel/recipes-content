@@ -17,7 +17,7 @@ Jamaican curry sits in its own corner of the global curry map: heavier on turmer
 
 - 4-5 chicken drumsticks
 - 4-5 boneless skinless chicken thighs
-- 4 tablespoons Jamaican curry powder (divided)
+- 4 tablespoons Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (divided)
 - 1 teaspoon ground allspice
 - 1 teaspoon salt
 - 1 teaspoon ginger paste

@@ -21,7 +21,7 @@ Doucouna (also written ducana or duckanoo across the islands) is the West Africa
 - 150 g dark brown sugar
 - 1 tsp ground cinnamon
 - 1 tsp grated nutmeg
-- 1/2 tsp mixed spice
+- 1/2 tsp [mixed spice](../../base-ingredients/spices/mixed-spice.md)
 - 1 tsp vanilla extract
 - 1/2 tsp salt
 - 100 ml coconut milk

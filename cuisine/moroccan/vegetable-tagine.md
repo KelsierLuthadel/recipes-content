@@ -19,7 +19,7 @@ The vegetarian Moroccan tagine that anchors a Friday family lunch when the house
 - 2 onions (sliced)
 - 4 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
-- 2 tablespoons ras el hanout
+- 2 tablespoons [ras el hanout](../../base-ingredients/spices/ras-el-hanout.md)
 - 1 teaspoon ground cinnamon
 - ½ teaspoon ground turmeric
 - 2 carrots (medium, cut into 3 cm chunks)

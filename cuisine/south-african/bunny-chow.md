@@ -30,11 +30,11 @@ Bunny chow is Durban's most iconic street food and the proudest contribution of 
 - 2 tablespoons tomato purée
 
 ### Spices
-- 2 tablespoons Durban masala (a fiery red curry powder; if unavailable, substitute 1 tbsp hot Madras + 1 tbsp Kashmiri chilli powder)
+- 2 tablespoons Durban masala (a fiery red [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md); if unavailable, substitute 1 tbsp hot Madras + 1 tbsp Kashmiri chilli powder)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon ground turmeric
-- 1 teaspoon garam masala
+- 1 teaspoon [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 4 whole cardamom pods (lightly crushed)
 - 1 small cinnamon stick
 - 4 cloves

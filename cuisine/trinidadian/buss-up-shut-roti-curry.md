@@ -29,7 +29,7 @@ Buss-up-shut, also called paratha roti, is the flaky-layered Trinidadian roti th
 - 1 onion (medium, finely chopped)
 - 5 garlic cloves (minced)
 - 1 tbsp Caribbean green seasoning
-- 2 tbsp Caribbean curry powder
+- 2 tbsp Caribbean [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - ½ tsp ground turmeric
 - ¾ tsp ground roasted geera (cumin)
 - 1 Scotch bonnet (whole, pricked, optional)

@@ -25,7 +25,7 @@ Tandoori Chicken Tikka is restaurant-quality barbecue, sophisticated yet accessi
 - 1 tablespoon ground cumin
 - 1 tablespoon ground coriander
 - 1 tablespoon [Garam Masala](../../../base-ingredients/curry-powder/garam-masala.md)
-- 1 tablespoon tandoori masala powder
+- 1 tablespoon [tandoori masala](../../../base-ingredients/curry-powder/tandoori-masala.md) powder
 - 1 teaspoon amchoor (dried mango powder)
 - 1 teaspoon ground turmeric
 - 1 teaspoon paprika (or chilli powder)

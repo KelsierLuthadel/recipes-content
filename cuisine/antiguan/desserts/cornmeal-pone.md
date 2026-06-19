@@ -25,7 +25,7 @@ Cornmeal pone is the Antiguan cousin of the Bajan cassava pone and the Jamaican 
 - 60 g butter, melted
 - 1 tsp ground cinnamon
 - 1 tsp grated nutmeg
-- 1 tsp mixed spice
+- 1 tsp [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1 tsp vanilla extract
 - 1/2 tsp salt
 - 1 tsp baking powder

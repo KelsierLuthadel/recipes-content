@@ -23,7 +23,7 @@ Margoog is winter food in Kuwait and the eastern Gulf, a stew of lamb or chicken
 - 2 tbsp tomato paste
 - 3 tomatoes, chopped
 - 2 dried limes (loomi), pierced
-- 1 tbsp Kuwaiti baharat
+- 1 tbsp Kuwaiti [baharat](../../base-ingredients/spices/baharat.md)
 - 1 tsp turmeric
 - 1 tsp cumin
 - Salt and black pepper

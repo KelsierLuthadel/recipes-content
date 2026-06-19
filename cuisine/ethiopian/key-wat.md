@@ -19,7 +19,7 @@ Key wat (sometimes called siga wat) is Ethiopia's deep-red beef stew, the meaty 
 - 3 large red onions (finely sliced, about 800 g total)
 
 ### Spice
-- 4 tablespoons berbere (Ethiopian red spice blend; quality really matters here)
+- 4 tablespoons [berbere](../../base-ingredients/spices/berbere.md) (Ethiopian red spice blend; quality really matters here)
 - 1 tablespoon tomato purée
 
 ### Fat and aromatics

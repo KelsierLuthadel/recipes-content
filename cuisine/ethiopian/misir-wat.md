@@ -19,7 +19,7 @@ Ethiopia's red lentil stew, the vegan everyday main that turns up on every fasti
 - 60 ml vegetable oil (or 50 g niter kibbeh; see notes)
 - 6 garlic cloves (crushed)
 - 2 cm fresh ginger (grated)
-- 3 tablespoons berbere spice mix
+- 3 tablespoons [berbere](../../base-ingredients/spices/berbere.md) spice mix
 - 2 tablespoons tomato paste
 - 250 g red lentils (rinsed)
 - 1 litre vegetable stock (or water)

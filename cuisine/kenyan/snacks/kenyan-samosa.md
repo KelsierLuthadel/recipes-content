@@ -30,7 +30,7 @@ Kenyan samosa is the most recognisable Indo-Kenyan snack, sold at every roadside
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - 1/2 tsp ground turmeric
-- 1/2 tsp garam masala
+- 1/2 tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tsp salt
 - 1/2 tsp ground black pepper
 - 1 tbsp vegetable oil

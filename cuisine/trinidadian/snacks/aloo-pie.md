@@ -33,7 +33,7 @@ Aloo pie is Trinidad's beloved street empanada: a close cousin of the Indian sam
 - 1 small Scotch bonnet pepper (deseed for milder; finely chopped)
 - 1 tablespoon ground geera (toasted cumin)
 - 1 teaspoon ground turmeric
-- 1 teaspoon garam masala
+- 1 teaspoon [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ½ teaspoon ground coriander
 - 1 ½ teaspoons fine sea salt
 - 1 large handful fresh coriander (finely chopped)

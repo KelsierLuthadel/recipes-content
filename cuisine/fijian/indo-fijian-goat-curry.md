@@ -21,11 +21,11 @@ A century of Indian indentured labour reshaped Fijian cuisine; Indo-Fijian curry
 - 6 cloves garlic, finely minced
 - 1 thumb of ginger, finely grated
 - 2 green chillies, finely chopped (or to taste)
-- 2 tbsp Madras-style or Fijian curry powder
+- 2 tbsp Madras-style or Fijian [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp ground turmeric
 - 1 tsp ground coriander
 - 1 tsp ground cumin
-- 1 tsp garam masala
+- 1 tsp [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 2 tbsp tomato paste
 - 400 g tinned chopped tomatoes
 - 700 ml water

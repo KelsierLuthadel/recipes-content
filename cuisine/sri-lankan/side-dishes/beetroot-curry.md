@@ -26,7 +26,7 @@ Beetroot curry is one of the small mainstay curries on a Sri Lankan rice & curry
 - 1 sprig fresh curry leaves
 - 1 pandan leaf (5 cm)
 - 1 cinnamon stick (5 cm)
-- 1 teaspoon Sri Lankan curry powder (roasted)
+- 1 teaspoon [Sri Lankan curry powder](../../../base-ingredients/curry-powder/sri-lankan.md) (roasted)
 - ¼ teaspoon ground turmeric
 - 1 teaspoon fine salt
 - 200 ml thin coconut milk (or thick coconut milk + 100 ml water)

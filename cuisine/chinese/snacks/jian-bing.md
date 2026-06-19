@@ -20,7 +20,7 @@ Jian bing is the street-corner breakfast crepe of northern China, the egg-and-ba
 - 50 g millet flour (or substitute cornmeal / fine polenta)
 - 80 g plain flour
 - 1 teaspoon salt
-- ½ teaspoon Chinese five-spice powder
+- ½ teaspoon [Chinese five-spice powder](../../../base-ingredients/spices/chinese-five-spice-powder.md)
 - ¼ teaspoon turmeric (optional, for colour)
 - 500 ml cold water (more if needed)
 

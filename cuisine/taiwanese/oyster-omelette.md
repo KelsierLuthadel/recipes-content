@@ -33,7 +33,7 @@ Oyster omelette (ô-á-tsian in Taiwanese Hokkien, é-zi-jian in Mandarin) is on
 - 2 tablespoons light soy sauce
 - 1 tablespoon dark soy sauce
 - 2 tablespoons caster sugar
-- 1 tablespoon chilli garlic sauce (lao gan ma or sambal oelek)
+- 1 tablespoon chilli garlic sauce (lao gan ma or [sambal oelek](../../base-ingredients/sambal/sambal-oelek.md))
 - 1 teaspoon Chinese black vinegar
 - 1 teaspoon toasted sesame oil
 - 100 ml water

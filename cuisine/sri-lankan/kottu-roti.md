@@ -30,7 +30,7 @@ Kottu roti (sometimes "kothu" roti) is Sri Lanka's most distinctive street food,
 - 3 eggs (beaten lightly with a pinch of salt)
 
 ### The seasoning
-- 1 tablespoon Sri Lankan curry powder (roasted)
+- 1 tablespoon [Sri Lankan curry powder](../../base-ingredients/curry-powder/sri-lankan.md) (roasted)
 - 1 teaspoon Kashmiri chilli powder
 - 2 tablespoons soy sauce
 - 1 teaspoon fine salt

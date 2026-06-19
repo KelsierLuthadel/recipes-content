@@ -22,7 +22,7 @@ Huku ne dovi (literally "chicken with peanut butter" in Shona; huku = chicken, d
 - 1 thumb (3 cm) fresh ginger (finely grated)
 - 4 medium tomatoes (chopped); or 1 tin (400 g) chopped tomatoes
 - 3 tablespoons tomato paste
-- 1 teaspoon curry powder (mild Madras or Zimbabwean curry powder if available)
+- 1 teaspoon [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (mild Madras or Zimbabwean curry powder if available)
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground cumin
 - 1 small fresh red chilli (deseeded, chopped; optional)

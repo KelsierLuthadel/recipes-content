@@ -24,7 +24,7 @@ Ambul thiyal is the southern Sri Lankan coastal classic that pre-dates refrigera
 - 1 tablespoon black peppercorns (coarsely cracked)
 - 1 tablespoon ground cinnamon
 - 2 teaspoons fine salt
-- 1 teaspoon Sri Lankan roasted curry powder (or substitute: 1 tsp ground coriander + ½ tsp cumin + ¼ tsp fenugreek)
+- 1 teaspoon Sri Lankan roasted [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (or substitute: 1 tsp ground coriander + ½ tsp cumin + ¼ tsp fenugreek)
 - 1 sprig fresh curry leaves
 - 1 pandan leaf (5 cm; optional)
 - 200 ml cold water

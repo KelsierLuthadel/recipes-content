@@ -39,7 +39,7 @@ The original Anglo-Indian soup and the British Raj's most enduring culinary expo
 - quarter teaspoon cumin seeds
 - 1 star anise
 - 1 bay leaf
-- half teaspoon ground mixed spice
+- half teaspoon ground [mixed spice](../../base-ingredients/spices/mixed-spice.md)
 - 3 tablespoons soy sauce (optional)
 - 3 tablespoons teriyaki sauce (optional)
 - 1 tablespoon Worcestershire sauce (optional)

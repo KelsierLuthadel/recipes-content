@@ -20,7 +20,7 @@ Welsh cakes are the country's most-loved teatime baking: small spiced rounds, so
 - 25 g lard, cold, cubed (or 25 g more butter if avoiding lard)
 - 85 g caster sugar, plus extra for dusting
 - 75 g currants
-- 1/2 tsp ground mixed spice
+- 1/2 tsp ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1/4 tsp grated nutmeg
 - Pinch of salt
 - 1 large egg, beaten

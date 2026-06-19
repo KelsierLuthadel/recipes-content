@@ -25,7 +25,7 @@ Cassava pone is the dense, dark, slightly chewy Caribbean cake that bridges betw
 - 1 tbsp grated lime zest
 - 2 tsp ground cinnamon
 - 1 tsp ground nutmeg
-- 1 tsp ground mixed spice
+- 1 tsp ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1/2 tsp salt
 - 50 g raisins (optional)
 

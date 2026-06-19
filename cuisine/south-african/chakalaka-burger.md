@@ -24,7 +24,7 @@ South Africa's defining take on the hamburger: a juicy beef patty topped with ch
 - 1 green bell pepper (sliced thin)
 - 1 red bell pepper (sliced thin)
 - 1 fresh red chilli (deseeded for milder; left whole and chopped for hotter)
-- 1 tablespoon mild curry powder
+- 1 tablespoon mild [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon paprika
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander

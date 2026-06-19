@@ -20,7 +20,7 @@ Ugandan curry potatoes are one of those everyday dishes that say more about a co
 - 4 garlic cloves (minced)
 - 15 g fresh ginger (grated)
 - 1 green chilli (finely chopped, optional)
-- 2 tbsp mild yellow curry powder
+- 2 tbsp mild yellow [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp ground cumin
 - 1 tsp sweet paprika
 - ½ tsp ground turmeric

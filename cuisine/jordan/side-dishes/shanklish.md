@@ -17,13 +17,13 @@ The Druze and Levantine aged-cheese balls: strained yogurt curds rolled into bal
 
 ### Shanklish (store-bought) or substitute
 - 4 shanklish balls (about 200 g)
-- OR substitute: 200 g feta cheese, 100 g labneh, 2 tablespoons za'atar, 1 teaspoon dried mint, 1 teaspoon ground cumin, ¼ teaspoon dried chilli flakes (mixed and shaped into balls, rolled in za'atar, refrigerated overnight)
+- OR substitute: 200 g feta cheese, 100 g labneh, 2 tablespoons [za'atar](../../../base-ingredients/spices/za-atar.md), 1 teaspoon dried mint, 1 teaspoon ground cumin, ¼ teaspoon dried chilli flakes (mixed and shaped into balls, rolled in za'atar, refrigerated overnight)
 
 ### Plate
 - 2 ripe tomatoes (small dice)
 - 1 red onion (small, very finely chopped)
 - 3 tablespoons olive oil (extra-virgin)
-- 1 tablespoon za'atar
+- 1 tablespoon [za'atar](../../../base-ingredients/spices/za-atar.md)
 - 1 teaspoon sumac
 - 1 tablespoon fresh mint (chopped)
 - 1 tablespoon fresh parsley (chopped)

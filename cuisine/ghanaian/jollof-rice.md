@@ -25,7 +25,7 @@ Ghanaian jollof rice is the centrepiece of every party table, a one-pot rice coo
 - 4 tbsp tomato paste
 - 80 ml vegetable oil
 - 2 bay leaves
-- 1 tsp curry powder
+- 1 tsp [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp dried thyme
 - 1 tsp smoked paprika
 - 600 ml chicken or vegetable stock

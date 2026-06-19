@@ -18,7 +18,7 @@ This is a dish that does most of its work the day before you cook it. Slices of 
 - 1 tablespoon Shaoshing rice wine
 - 2 teaspoons ground Sichuan pepper
 - 1 teaspoon dark soy sauce
-- ½ teaspoon Chinese five-spice powder
+- ½ teaspoon [Chinese five-spice powder](../../base-ingredients/spices/chinese-five-spice-powder.md)
 - 2 garlic cloves (finely chopped)
 
 ### Cooking

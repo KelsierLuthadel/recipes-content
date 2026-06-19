@@ -46,7 +46,7 @@ Couscous is the national dish of Algeria, eaten in some form across the whole co
 - 500 ml warm water (for hydrating in stages)
 
 ### To serve
-- 1 tbsp harissa stirred into a small bowl of hot broth
+- 1 tbsp [harissa](../../base-ingredients/sauces/harissa.md) stirred into a small bowl of hot broth
 - A small dish of smen (Algerian aged butter) or extra olive oil
 
 ## Method

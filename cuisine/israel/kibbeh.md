@@ -18,7 +18,7 @@ Kibbeh is the baked-tray version of the Levantine bulgur-and-meat dish, smooth b
 - 1-2 tablespoons olive oil (plus extra for the tin)
 - 185 g smooth (fine) bulgur wheat
 - 1 medium brown onion (peeled, quartered)
-- 1 teaspoon baharat (Middle Eastern spice mix)
+- 1 teaspoon [baharat](../../base-ingredients/spices/baharat.md) (Middle Eastern spice mix)
 - ¾ teaspoon fine sea salt
 - A generous grind of black pepper
 - 2 tablespoons cold water

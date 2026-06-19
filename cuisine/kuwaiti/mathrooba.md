@@ -22,7 +22,7 @@ Mathrooba sits in the same Ramadan family as harees but takes the seasoning furt
 - 4 garlic cloves, crushed
 - 2 tomatoes, chopped
 - 2 tbsp tomato paste
-- 1 tbsp Kuwaiti baharat
+- 1 tbsp Kuwaiti [baharat](../../base-ingredients/spices/baharat.md)
 - 1 tsp turmeric
 - 1 tsp ground cumin
 - 1 cinnamon stick

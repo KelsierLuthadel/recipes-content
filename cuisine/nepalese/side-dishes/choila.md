@@ -20,7 +20,7 @@ Choila (or chhwela) is a Newari dish from the Kathmandu Valley, traditionally ma
 - 1 tbsp mustard oil
 - ½ tsp salt
 - ½ tsp ground turmeric
-- ½ tsp Nepali masala (or garam masala)
+- ½ tsp Nepali masala (or [garam masala](../../../base-ingredients/curry-powder/garam-masala.md))
 
 ### Dressing
 - 3 tbsp mustard oil

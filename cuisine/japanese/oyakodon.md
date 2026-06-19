@@ -29,7 +29,7 @@ A "parent and child" rice bowl, the sentimental name describing the chicken (par
 ### To serve
 - rice
 - 1 spring onion (sliced)
-- A pinch of shichimi togarashi (optional)
+- A pinch of [shichimi togarashi](../../base-ingredients/spices/shichimi-togarashi.md) (optional)
 
 ## Method
 

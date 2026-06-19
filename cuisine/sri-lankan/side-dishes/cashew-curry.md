@@ -31,7 +31,7 @@ Sri Lankan cashew curry is one of the great surprise curries, three of its main 
 - 1 pandan leaf (5 cm)
 - 1 cinnamon stick
 - 1 teaspoon ground turmeric
-- 1 teaspoon Sri Lankan curry powder (unroasted/yellow; NOT the dark roasted one)
+- 1 teaspoon [Sri Lankan curry powder](../../../base-ingredients/curry-powder/sri-lankan.md) (unroasted/yellow; NOT the dark roasted one)
 - 1 ½ teaspoons fine salt
 - 200 ml hot water
 - 200 ml thick coconut milk

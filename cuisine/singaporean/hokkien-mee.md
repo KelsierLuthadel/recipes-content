@@ -40,7 +40,7 @@ Hokkien mee in Singapore (distinct from the darker Kuala Lumpur version) is a st
 
 ### To serve
 - 1 lime, quartered
-- 4 tbsp sambal belacan (or sambal oelek)
+- 4 tbsp [sambal belacan](../../base-ingredients/sambal/sambal-belacan.md) (or sambal oelek)
 - 2 spring onions, sliced
 - A handful of fresh coriander
 

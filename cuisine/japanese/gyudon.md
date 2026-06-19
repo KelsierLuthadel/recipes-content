@@ -31,7 +31,7 @@ The Japanese fast-food bowl that fuels the Tokyo lunch rush: thinly sliced beef 
 - 1 spring onion (thinly sliced)
 - 2 tablespoons benishōga (red pickled ginger)
 - 2 soft-boiled eggs (optional)
-- Shichimi togarashi (optional)
+- [Shichimi togarashi](../../base-ingredients/spices/shichimi-togarashi.md) (optional)
 
 ## Method
 

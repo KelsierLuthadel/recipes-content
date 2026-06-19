@@ -27,7 +27,7 @@ The Danish hot dog (called "den ristede hotdog" when grilled, or simply "med det
 - 4 tablespoons sweet pickle relish (or finely chopped sweet gherkins)
 - 2 tablespoons capers (finely chopped)
 - 2 tablespoons Dijon mustard
-- 2 tablespoons curry powder (the yellow colour comes from this; traditional)
+- 2 tablespoons [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (the yellow colour comes from this; traditional)
 - 1 tablespoon white vinegar
 - 1 teaspoon caster sugar
 - 1 small bunch fresh tarragon (chopped; or 1 teaspoon dried)

@@ -34,7 +34,7 @@ The most common stuffings are paneer (grated, with chilli and coriander), spiced
 
 ### Optional stuffings (pick one; quantities are for all 4 kulcha)
 - **Paneer:** 200 g paneer (grated), 1 green chilli (finely chopped), small handful coriander, ½ tsp ground cumin, ½ tsp salt
-- **Spiced potato:** 2 medium potatoes (boiled, peeled, mashed coarsely), ½ tsp ground cumin, ½ tsp garam masala, 1 small chopped green chilli, salt to taste
+- **Spiced potato:** 2 medium potatoes (boiled, peeled, mashed coarsely), ½ tsp ground cumin, ½ tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md), 1 small chopped green chilli, salt to taste
 - **Onion:** 1 small onion (very finely chopped), 1 tsp nigella seeds, ½ tsp dried mint, ½ tsp salt, pinch of chilli powder
 
 ## Method

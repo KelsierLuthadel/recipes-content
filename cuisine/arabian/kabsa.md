@@ -31,7 +31,7 @@ Saudi Arabia's national dish, the one platter you'll meet at almost every gather
 - 6 cardamom pods (bashed)
 - 4 cloves
 - 2 bay leaves
-- 1 tablespoon kabsa spice mix (or baharat)
+- 1 tablespoon kabsa spice mix (or [baharat](../../base-ingredients/spices/baharat.md))
 - 1 teaspoon ground turmeric
 - 1.2 litres hot water
 

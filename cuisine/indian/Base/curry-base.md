@@ -18,7 +18,7 @@ The foundation sauce behind almost every British-Indian-Restaurant curry. A huge
 - 500ml Vegetable oil
 - 2 tbsp salt
 - 2 tbsp turmeric
-- 1 rounded tsp garam masala
+- 1 rounded tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ½ tsp chilli powder
 - 30g coconut cream
 - 2tbs tomato purée 

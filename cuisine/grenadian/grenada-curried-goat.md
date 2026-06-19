@@ -31,7 +31,7 @@ Curried goat is the Sunday meat of the Caribbean, and the Grenadian version sepa
 
 ### For the curry
 - 4 tbsp vegetable oil
-- 4 tbsp Caribbean curry powder (with amchar masala if possible)
+- 4 tbsp Caribbean [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (with amchar masala if possible)
 - 2 tsp ground cumin
 - 1 tsp turmeric
 - 1 large onion, chopped

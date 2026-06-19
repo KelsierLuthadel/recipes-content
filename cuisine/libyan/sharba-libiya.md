@@ -23,7 +23,7 @@ Sharba is the daily evening soup in Ramadan and the everyday warm bowl outside i
 - 1 tbsp sweet paprika
 - 1 tsp ground cumin
 - 1 tsp ground coriander
-- 1 tsp bisbas or harissa (or 1/2 tsp chilli flakes)
+- 1 tsp bisbas or [harissa](../../base-ingredients/sauces/harissa.md) (or 1/2 tsp chilli flakes)
 - 1/2 tsp turmeric
 - 1/4 tsp cinnamon
 - 1.5 litres water or lamb stock

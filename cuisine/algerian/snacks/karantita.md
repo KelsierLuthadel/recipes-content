@@ -22,7 +22,7 @@ Karantita (also called calentita; from the Spanish caliente, "hot") is the chick
 - 1.5 tsp salt
 - 0.5 tsp ground black pepper
 - 1 tsp ground cumin (plus extra for serving)
-- Harissa, to serve
+- [Harissa](../../../base-ingredients/sauces/harissa.md), to serve
 - A sprinkle of flaky sea salt, to serve
 
 ## Method

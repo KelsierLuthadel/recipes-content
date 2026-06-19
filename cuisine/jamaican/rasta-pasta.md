@@ -16,7 +16,7 @@ A modern Jamaican-Italian fusion that started on the island and crossed over int
 ### Pasta & Protein
 - 227 grams penne pasta (about 2 dry cups)
 - 454 grams prawns (peeled and deveined)
-- 1 tbsp jerk seasoning
+- 1 tbsp [jerk seasoning](../../base-ingredients/spices/jerk-seasoning.md)
 
 ### Sauce & Vegetables
 - 2 tbsp vegetable oil

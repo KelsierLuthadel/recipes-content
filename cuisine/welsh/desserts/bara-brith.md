@@ -20,7 +20,7 @@ Bara brith (literally "speckled bread") is the long-keeping Welsh fruit loaf tha
 - 150 g soft dark brown sugar
 - 1 large egg, beaten
 - 250 g self-raising flour
-- 1 tsp ground mixed spice
+- 1 tsp ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1/2 tsp ground cinnamon
 - Pinch of salt
 - 1 tbsp marmalade (optional, for gloss and a faint orange note)

@@ -25,7 +25,7 @@ Lu rou fan is Taiwan's everyday comfort bowl: hand-diced pork belly braised glos
 - 4 cm fresh ginger (finely chopped)
 - 2 star anise
 - 1 cinnamon stick (small)
-- 1 teaspoon Chinese five-spice powder
+- 1 teaspoon [Chinese five-spice powder](../../base-ingredients/spices/chinese-five-spice-powder.md)
 - ½ teaspoon white pepper
 
 ### Braise

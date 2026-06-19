@@ -22,11 +22,11 @@ The aloo tikki burger is one of India's most iconic fast-food creations and the 
 - 2 fresh green chillies (very finely chopped; deseeded for milder)
 - 1 small bunch fresh coriander (chopped fine)
 - 1 small bunch fresh mint (chopped fine)
-- 2 teaspoons garam masala
+- 2 teaspoons [garam masala](../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon amchur (dried mango powder; or substitute lemon juice + zest)
-- 1 teaspoon chaat masala
+- 1 teaspoon [chaat masala](../../base-ingredients/spices/chaat-masala.md)
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
 - 100 g panko breadcrumbs (or roasted gram flour for gluten-free)
@@ -66,7 +66,7 @@ The aloo tikki burger is one of India's most iconic fast-food creations and the 
 - 6 tablespoons vegetable oil
 
 ### To serve
-- Masala chips (chips sprinkled with chaat masala)
+- Masala chips (chips sprinkled with [chaat masala](../../base-ingredients/spices/chaat-masala.md))
 - Cold mango lassi or Thums Up cola
 
 ## Method

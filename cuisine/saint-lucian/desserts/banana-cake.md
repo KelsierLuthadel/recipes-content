@@ -25,7 +25,7 @@ Banana grows everywhere in Saint Lucia, and the cooks know exactly what to do wi
 - 1/2 tsp bicarbonate of soda
 - 2 tsp ground cinnamon
 - 1 tsp ground nutmeg
-- 1 tsp ground mixed spice
+- 1 tsp ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1/2 tsp salt
 - 100 g chopped pecans or walnuts (optional)
 

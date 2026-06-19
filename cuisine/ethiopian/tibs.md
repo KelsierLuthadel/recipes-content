@@ -27,7 +27,7 @@ Tibs is the everyday sautéed meat dish of Ethiopia, the quick-cook counterpart 
 - 1 tablespoon fresh ginger (finely grated)
 - 2 fresh rosemary sprigs (or 1 teaspoon dried rosemary)
 - 2-3 jalapeño or other fresh green chillies (deseeded and sliced into rings)
-- 2 tablespoons berbere spice (Ethiopian red spice blend)
+- 2 tablespoons [berbere](../../base-ingredients/spices/berbere.md) spice (Ethiopian red spice blend)
 - 1 tablespoon tomato purée (optional, for a deeper red colour)
 
 ### To finish

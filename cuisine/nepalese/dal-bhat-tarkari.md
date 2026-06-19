@@ -50,7 +50,7 @@ This recipe gives all three components for one full plate.
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - ½ tsp ground turmeric
-- ½ tsp Nepali masala (or garam masala)
+- ½ tsp Nepali masala (or [garam masala](../../base-ingredients/curry-powder/garam-masala.md))
 - ½ tsp salt
 - 1 small green chilli (slit)
 - 200 ml water

@@ -25,7 +25,7 @@ Sosaties are the Cape Malay-style grilled skewers that anchor every braai in the
 - 2 large onions (very finely chopped)
 - 6 garlic cloves (crushed)
 - 1 thumb (3 cm) fresh ginger (finely grated)
-- 3 tablespoons mild curry powder (Cape Malay or mild Madras; not fiery)
+- 3 tablespoons mild [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (Cape Malay or mild Madras; not fiery)
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground coriander
 - 1 teaspoon ground cumin

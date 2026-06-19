@@ -30,7 +30,7 @@ Pastizzi are Malta's most iconic street food, small flaky phyllo-pastry pockets 
 ### Pea filling (alternative)
 - 300 g dried split green peas (cooked till soft, 45-60 minutes)
 - 1 medium onion (diced; sweated in olive oil)
-- 1 tablespoon curry powder
+- 1 tablespoon [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon tomato paste
 - 1 teaspoon fine sea salt
 

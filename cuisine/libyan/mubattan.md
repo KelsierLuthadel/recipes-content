@@ -39,7 +39,7 @@ Mubattan turns up at the Friday family lunch and the iftar table during Ramadan.
 - 400 g tinned chopped tomatoes
 - 1 tsp sweet paprika
 - 1/2 tsp cumin
-- 1 tsp bisbas or harissa
+- 1 tsp bisbas or [harissa](../../base-ingredients/sauces/harissa.md)
 - 400 ml water
 - Salt and pepper
 

@@ -21,7 +21,7 @@ Lebanese kofta, sometimes spelled kafta, is minced lamb (often with a little bee
 - 1 onion (medium), finely grated and squeezed
 - 4 garlic cloves, finely grated
 - 30 g flat-leaf parsley, very finely chopped
-- 2 tsp Lebanese seven-spice (baharat)
+- 2 tsp Lebanese seven-spice ([baharat](../../base-ingredients/spices/baharat.md))
 - 1 tsp ground cumin
 - 1 tsp salt
 - ½ tsp mild chilli flakes

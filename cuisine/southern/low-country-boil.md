@@ -16,7 +16,7 @@ Low country boil (also called "Frogmore stew" after Frogmore community on Saint 
 ## Ingredients
 
 - 6 litres water
-- 4 tablespoons Old Bay seasoning
+- 4 tablespoons [Old Bay seasoning](../../base-ingredients/spices/old-bay-seasoning.md)
 - 2 tablespoons salt
 - 1 tablespoon black peppercorns
 - 4 bay leaves

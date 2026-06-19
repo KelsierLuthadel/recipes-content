@@ -29,7 +29,7 @@ The roti parcel is the Indo-Fijian working lunch: a soft flour roti, freshly coo
 - 2 cloves garlic, finely minced
 - 1 thumb of ginger, finely grated
 - 2 green chillies, finely chopped
-- 1 tbsp Fijian or Madras curry powder
+- 1 tbsp Fijian or Madras [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1/2 tsp turmeric
 - 1/2 tsp ground coriander
 - 1 tsp salt

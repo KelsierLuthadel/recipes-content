@@ -23,7 +23,7 @@ Chilli crab is Singapore's calling-card seafood dish - whole mud crabs cracked i
 - 4 tbsp vegetable oil
 - 6 cloves garlic, minced
 - 1 thumb of ginger, finely grated
-- 3 tbsp sambal oelek (or 3 fresh red chillies, pounded to a paste)
+- 3 tbsp [sambal oelek](../../base-ingredients/sambal/sambal-oelek.md) (or 3 fresh red chillies, pounded to a paste)
 - 1 tbsp fermented soybean paste (taucu - sub miso)
 - 4 tbsp tomato ketchup
 - 2 tbsp tomato paste

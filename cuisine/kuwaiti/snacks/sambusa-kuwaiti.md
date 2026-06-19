@@ -20,7 +20,7 @@ Sambusa came to the Gulf from India and Persia along the same trade winds that c
 - 1 tbsp vegetable oil
 - 1 large onion, finely chopped
 - 2 garlic cloves, crushed
-- 1 tsp Kuwaiti baharat
+- 1 tsp Kuwaiti [baharat](../../../base-ingredients/spices/baharat.md)
 - 1/2 tsp ground cumin
 - 1/2 tsp ground coriander
 - 1/2 tsp black pepper

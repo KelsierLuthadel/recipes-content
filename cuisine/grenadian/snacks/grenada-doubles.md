@@ -33,7 +33,7 @@ Doubles originated in Trinidad and migrated to Grenada with the Indian-Caribbean
 - 4 garlic cloves, crushed
 - 1 tbsp ground cumin
 - 1 tsp turmeric
-- 1 tsp curry powder
+- 1 tsp [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 scotch bonnet, whole
 - 1 tbsp chadon beni or coriander, chopped
 - 400 ml water

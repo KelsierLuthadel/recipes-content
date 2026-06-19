@@ -25,7 +25,7 @@ Shawarma is one of the most iconic Middle Eastern street foods, claimed by Leban
 - 2 teaspoons fine sea salt
 - 2 teaspoons ground cumin
 - 2 teaspoons ground coriander
-- 1 tablespoon Levantine baharat (or substitute mix as in mahshi recipe)
+- 1 tablespoon Levantine [baharat](../../base-ingredients/spices/baharat.md) (or substitute mix as in mahshi recipe)
 - 1 ½ teaspoons Aleppo pepper
 - 1 teaspoon ground sumac
 - 1 teaspoon ground turmeric

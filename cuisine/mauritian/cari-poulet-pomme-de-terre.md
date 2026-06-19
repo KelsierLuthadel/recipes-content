@@ -32,7 +32,7 @@ Mauritian cuisine is a layered conversation between Indian, African, Chinese and
 - Small handful fresh coriander (chopped, to finish)
 
 ### Masala
-- 2 tbsp Mauritian (or mild Madras curry powder)
+- 2 tbsp Mauritian (or mild Madras [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md))
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - 1 tsp sweet paprika

@@ -27,7 +27,7 @@ Skewered grilled chicken in a glossy soy-mirin tare: the izakaya bar snack at it
 - 600 g boneless chicken thigh (skin on if possible, cut into 2 ½ cm cubes)
 - 6 spring onions (or 2 leeks, white parts, cut into 2 ½ cm pieces)
 - A pinch of salt
-- Shichimi togarashi (to serve)
+- [Shichimi togarashi](../../base-ingredients/spices/shichimi-togarashi.md) (to serve)
 
 ### Equipment
 - 12 bamboo skewers (soaked 30 minutes in water)

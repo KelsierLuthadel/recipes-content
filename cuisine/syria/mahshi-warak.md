@@ -32,7 +32,7 @@ Mahshi warak enab means "stuffed vine leaves"; also called yabraq or yalanji dep
 - 2 tablespoons tomato paste
 - 1 ½ teaspoons fine sea salt
 - 1 teaspoon ground black pepper
-- 1 tablespoon Levantine baharat (or substitute with: ½ teaspoon allspice + ½ teaspoon black pepper + ½ teaspoon cumin + ½ teaspoon coriander + ¼ teaspoon cardamom + ¼ teaspoon cinnamon + ¼ teaspoon cloves)
+- 1 tablespoon Levantine [baharat](../../base-ingredients/spices/baharat.md) (or substitute with: ½ teaspoon allspice + ½ teaspoon black pepper + ½ teaspoon cumin + ½ teaspoon coriander + ¼ teaspoon cardamom + ¼ teaspoon cinnamon + ¼ teaspoon cloves)
 - 1 teaspoon ground cumin
 - 1 teaspoon ground coriander
 - 1 teaspoon Aleppo pepper (pul biber) or sweet paprika

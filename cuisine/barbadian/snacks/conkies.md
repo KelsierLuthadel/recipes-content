@@ -34,7 +34,7 @@ Conkies are arguably the most identity-specifically Bajan sweet, a steamed cornm
 ### The spice mix
 - 1 tablespoon ground cinnamon
 - 2 teaspoons freshly grated nutmeg
-- 2 teaspoons ground mixed spice (or allspice)
+- 2 teaspoons ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md) (or allspice)
 - 1 teaspoon ground ginger
 - 1 teaspoon salt
 - 1 tablespoon fresh thyme leaves (the Bajan signature)

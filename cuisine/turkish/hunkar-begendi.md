@@ -23,7 +23,7 @@ Hünkar beğendi (literally "the sultan loved it", or "Sultan's Delight") is one
 - 4 medium tomatoes (chopped); or 1 tin (400 g) of chopped tomatoes
 - 3 tablespoons tomato paste
 - 2 tablespoons Turkish red pepper paste (biber salçası)
-- 1 tablespoon Levantine baharat (or substitute mix)
+- 1 tablespoon Levantine [baharat](../../base-ingredients/spices/baharat.md) (or substitute mix)
 - 1 tablespoon ground cumin
 - 1 tablespoon dried oregano
 - 2 teaspoons Aleppo pepper (pul biber)

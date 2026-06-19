@@ -21,7 +21,7 @@ Beef panang is the thicker, sweeter, peanut-tinged cousin to red curry: beef sim
 - 600 g (1 lb 5 oz) beef rib-eye, cut thinly against the grain
 
 ### Paste and sweeteners
-- 1 batch Panang curry paste
+- 1 batch [Panang curry paste](../../base-ingredients/curry-paste/panang-paste.md)
 - 1-2 tbsp palm sugar
 
 ### Dairy

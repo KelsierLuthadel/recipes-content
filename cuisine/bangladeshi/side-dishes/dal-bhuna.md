@@ -34,7 +34,7 @@ Dal in Bangladesh exists in two main styles: the thin pourable everyday dal that
 - 1 tsp ground coriander
 - 1 tsp salt, plus more to taste
 - 1 medium tomato, finely chopped
-- 1 tsp garam masala
+- 1 tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - A small handful of fresh coriander, chopped
 
 ## Method

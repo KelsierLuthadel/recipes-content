@@ -25,7 +25,7 @@ The flavour you'd get at a Melbourne charcoal-chicken takeaway, distilled into s
 - 1 tablespoon sweet paprika
 - 1 teaspoon mustard powder
 - 1 teaspoon dried oregano
-- ½ teaspoon curry powder (mild, not vindaloo-strength)
+- ½ teaspoon [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (mild, not vindaloo-strength)
 - 1 ¼ teaspoons fine sea salt (or kosher salt)
 - ½ teaspoon black pepper
 - 3 tablespoons extra-virgin olive oil

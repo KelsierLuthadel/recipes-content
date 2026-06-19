@@ -22,7 +22,7 @@ Käsekrainer is the cheese-stuffed sausage that defines late-night Vienna street
 ### To serve
 - 4 fresh kaiser rolls (or any soft white roll with a crisp top)
 - 4 tablespoons Austrian sweet mustard (Estragon-Senf or any sweet Bavarian Süßer Senf)
-- 4 tablespoons curry ketchup (a sweet curry-spiced ketchup; or Heinz ketchup mixed with curry powder)
+- 4 tablespoons curry ketchup (a sweet curry-spiced ketchup; or Heinz ketchup mixed with [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md))
 - 2 large pickled gherkins (sliced into long batons)
 - 1 small onion (sliced into thin rings, optional)
 - Flaky sea salt

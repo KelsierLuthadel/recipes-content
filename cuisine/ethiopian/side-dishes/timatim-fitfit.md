@@ -29,7 +29,7 @@ Timatim fitfit is Ethiopia's bright tomato-and-injera salad, the fresh acidic co
 - 1 lime (juice)
 - ½ teaspoon fine sea salt
 - ¼ teaspoon ground black pepper
-- ½ teaspoon mitmita or berbere (optional, for spicier version)
+- ½ teaspoon mitmita or [berbere](../../../base-ingredients/spices/berbere.md) (optional, for spicier version)
 - 1 garlic clove (very finely crushed, optional)
 
 ## Method

@@ -35,11 +35,11 @@ The Hakka community arrived in Mauritius in waves from the mid-1800s, mostly fro
 - 1 small piece cinnamon bark (3 cm)
 
 ### Masala and seasoning
-- 1 tbsp Mauritian or mild Madras curry powder
+- 1 tbsp Mauritian or mild Madras [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - ½ tsp ground turmeric
-- ½ tsp Chinese five-spice powder
+- ½ tsp [Chinese five-spice powder](../../base-ingredients/spices/chinese-five-spice-powder.md)
 - 2 tbsp dark soy sauce
 - 2 tbsp light soy sauce
 - 1 tbsp oyster sauce

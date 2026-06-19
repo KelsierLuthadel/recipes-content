@@ -24,7 +24,7 @@ Snack-sized Jordan manakish: small yeasted discs topped three ways with za'atar 
 - 320 ml warm water
 
 ### Topping 1 - Za'atar
-- 4 tablespoons za'atar (the Levantine herb-sumac-sesame mix)
+- 4 tablespoons [za'atar](../../../base-ingredients/spices/za-atar.md) (the Levantine herb-sumac-sesame mix)
 - 4 tablespoons extra-virgin olive oil
 
 ### Topping 2 - Cheese

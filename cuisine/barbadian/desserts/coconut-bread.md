@@ -21,7 +21,7 @@ Bajan coconut bread is the Caribbean tea-loaf that defines island home baking. D
 - 1/2 teaspoon bicarbonate of soda
 - 1/2 teaspoon salt
 - 1 teaspoon ground cinnamon
-- 1 teaspoon ground mixed spice (or allspice)
+- 1 teaspoon ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md) (or allspice)
 - 1/2 teaspoon freshly grated nutmeg
 
 ### The wet mix

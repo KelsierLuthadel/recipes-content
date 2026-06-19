@@ -23,10 +23,10 @@ Trinidadian curry goat sits in a quiet rivalry with Jamaican curry goat, but the
 - ½ tsp freshly ground black pepper
 
 ### Curry paste
-- 4 tbsp Caribbean curry powder (Chief or Turban brand if available)
+- 4 tbsp Caribbean [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (Chief or Turban brand if available)
 - 1 tsp ground turmeric
 - 1 tsp ground roasted geera (cumin)
-- 1 tsp anchar masala (or garam masala)
+- 1 tsp anchar masala (or [garam masala](../../base-ingredients/curry-powder/garam-masala.md))
 - 6 tbsp water
 
 ### Pot

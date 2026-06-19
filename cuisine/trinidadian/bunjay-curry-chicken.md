@@ -27,7 +27,7 @@ A dry curry rather than a saucy one. "Bunjay" is Trinidadian patois for "fry-dow
 - 1 Scotch bonnet (whole, optional)
 - 1 teaspoon ground turmeric
 - ¾ tablespoon ground roasted geera (cumin)
-- ¾ tablespoon anchar masala (or garam masala)
+- ¾ tablespoon anchar masala (or [garam masala](../../base-ingredients/curry-powder/garam-masala.md))
 - 1 tomato (small, grated)
 - 2 tablespoons water
 - 2 tablespoons chopped fresh coriander

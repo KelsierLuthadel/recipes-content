@@ -32,7 +32,7 @@ Polos is young (unripe) green jackfruit, which has a stringy, fibrous texture th
 - 1 cinnamon stick
 
 ### Spice paste
-- 2 tablespoons Sri Lankan roasted curry powder (the dark roasted blend, NOT the unroasted yellow Indian-style one)
+- 2 tablespoons Sri Lankan roasted [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md) (the dark roasted blend, NOT the unroasted yellow Indian-style one)
 - 1 teaspoon Kashmiri chilli powder
 - ½ teaspoon ground turmeric
 - 1 teaspoon ground black pepper

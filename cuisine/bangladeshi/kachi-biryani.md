@@ -24,7 +24,7 @@ Kacchi biryani (kachi meaning "raw") is the Dhaka wedding dish, a post-Mughal sh
 - 2 tsp chilli powder
 - 1 tbsp coriander powder
 - 1 tsp turmeric powder
-- 2 tsp biryani garam masala (cinnamon, clove, black and green cardamom, mace ground together)
+- 2 tsp biryani [garam masala](../../base-ingredients/curry-powder/garam-masala.md) (cinnamon, clove, black and green cardamom, mace ground together)
 - 100 ml mustard oil
 
 ### Fried onions and aromatics

@@ -35,7 +35,7 @@ Tom yum gai is the chicken cousin to the prawn-led tom yum goong, the same hot-a
 
 ### Seasonings
 - 1 tbsp tamarind paste
-- 1 tbsp chilli jam (nam prik pao)
+- 1 tbsp chilli jam ([nam prik pao](../../../base-ingredients/sambal/nam-prik-pao.md))
 - 1 tbsp roasted Thai chilli oil with some of the goop at the bottom
 - 3-4 tbsp Thai fish sauce*
 - 3 green bird’s eye chillies, smashed and cut lengthwise

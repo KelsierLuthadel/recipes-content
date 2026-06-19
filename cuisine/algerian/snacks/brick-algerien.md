@@ -26,7 +26,7 @@ Brick (the French spelling of the Arabic "burik") is the crisp, fried filo parce
 - 8 small eggs (one per brick)
 - 1 litre sunflower oil for shallow frying
 - 1 lemon, cut in wedges
-- 2 tbsp harissa, to serve
+- 2 tbsp [harissa](../../../base-ingredients/sauces/harissa.md), to serve
 
 ## Method
 

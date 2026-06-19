@@ -17,7 +17,7 @@ Buttermilk-fried wings in the American Southern tradition, with a Caribbean acce
 
 ### Marinade
 - 1.1-1.4 kg (2 ½-3 lbs) whole chicken wings (about 10 wings)
-- 2 tablespoons Jamaican curry powder
+- 2 tablespoons Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon Creole Cajun seasoning
 - 1 tablespoon Maggi chicken bouillon powder
 - 1 tablespoon caster sugar
@@ -31,7 +31,7 @@ Buttermilk-fried wings in the American Southern tradition, with a Caribbean acce
 ### Flour dredge
 - 1 ½ cups plain flour
 - ¼ cup cornstarch
-- 1 tablespoon Jamaican curry powder
+- 1 tablespoon Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tablespoon Maggi chicken bouillon powder
 - 1 tablespoon Creole Cajun seasoning
 - ¼ teaspoon ground allspice

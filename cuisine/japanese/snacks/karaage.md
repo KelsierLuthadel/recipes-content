@@ -38,7 +38,7 @@ The izakaya fried chicken that gets ordered at every Japanese pub and is the ans
 ### To serve
 - 1 lemon (cut into wedges)
 - Japanese mayonnaise (Kewpie, the squeezy bottle, sold at Asian shops)
-- Shichimi togarashi (Japanese seven-spice, chilli, sesame, orange peel etc.)
+- [Shichimi togarashi](../../../base-ingredients/spices/shichimi-togarashi.md) (Japanese seven-spice, chilli, sesame, orange peel etc.)
 - A small bowl of soy sauce 
 - grated daikon (optional, for dipping)
 

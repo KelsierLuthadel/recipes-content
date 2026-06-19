@@ -31,7 +31,7 @@ Ethiopia's national dish, the spiced chicken stew that turns up at every wedding
 - 4 tablespoons niter kibbeh (from above)
 - 1 thumb fresh ginger (grated)
 - 6 garlic cloves (crushed)
-- 4 tablespoons berbere spice mix (Ethiopian; or homemade, see notes)
+- 4 tablespoons [berbere](../../base-ingredients/spices/berbere.md) spice mix (Ethiopian; or homemade, see notes)
 - 2 tablespoons tomato purée
 - 100 ml dry red wine (optional)
 - 500 ml chicken stock

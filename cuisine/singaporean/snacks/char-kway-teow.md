@@ -27,7 +27,7 @@ Char kway teow ("stir-fried flat noodles") shares its name with Penang's most fa
 - 1 tbsp fish sauce
 - 1 tbsp Shaoxing wine (or dry sherry)
 - 1 tsp sugar
-- 1 tsp sambal oelek (or pounded fresh chilli) - optional
+- 1 tsp [sambal oelek](../../../base-ingredients/sambal/sambal-oelek.md) (or pounded fresh chilli) - optional
 - 4 tbsp vegetable oil (or lard, the traditional choice)
 - White pepper to taste
 - Chinese chives (optional, traditional garnish)

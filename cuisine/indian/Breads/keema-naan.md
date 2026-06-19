@@ -34,7 +34,7 @@ The trick is to cook the keema before it goes into the dough. A raw stuffing mak
 - 1 tsp ground cumin
 - 1 tsp ground coriander
 - ½ tsp ground turmeric
-- ½ tsp garam masala
+- ½ tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ½ tsp Kashmiri chilli powder
 - 1 tsp salt
 - 1 tbsp neutral oil

@@ -26,7 +26,7 @@ Char siu, literally "fork-roasted" in Cantonese, is the lacquered red barbecue p
 - 2 tbsp oyster sauce
 - 2 cubes red fermented bean curd (nam yu), mashed
 - 2 tbsp brown sugar
-- 1 tsp Chinese five-spice powder
+- 1 tsp [Chinese five-spice powder](../../base-ingredients/spices/chinese-five-spice-powder.md)
 - 4 garlic cloves, grated
 - 1 thumb fresh ginger, grated
 - 1 tsp sesame oil

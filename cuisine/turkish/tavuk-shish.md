@@ -25,7 +25,7 @@ Tavuk şiş is Turkey's chicken kebab counterpart to kuzu şiş (the lamb versio
 - Juice of 2 lemons
 - 2 tablespoons tomato paste
 - 2 tablespoons Turkish red pepper paste (biber salçası)
-- 1 tablespoon Levantine baharat
+- 1 tablespoon Levantine [baharat](../../base-ingredients/spices/baharat.md)
 - 2 teaspoons Aleppo pepper
 - 2 teaspoons ground cumin
 - 2 teaspoons ground coriander

@@ -21,7 +21,7 @@ Two strong Caribbean flavours pulled into a single one-pan dinner: jerk on the i
 - ½ cup seasoned panko breadcrumbs
 - 4 garlic cloves (finely minced)
 - ¼ cup sliced scallions (plus more for garnish)
-- 2 tablespoons jerk seasoning (Walkerswood)
+- 2 tablespoons [jerk seasoning](../../base-ingredients/spices/jerk-seasoning.md) (Walkerswood)
 - 1 teaspoon ginger paste (or 2 teaspoons grated fresh)
 - salt
 - pepper
@@ -34,7 +34,7 @@ Two strong Caribbean flavours pulled into a single one-pan dinner: jerk on the i
 - 3 garlic cloves (minced)
 - 1 green bell pepper (small, thinly sliced)
 - 1 red bell pepper (small, thinly sliced)
-- 3 teaspoons Jamaican curry powder
+- 3 teaspoons Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 can (400 ml) full-fat coconut milk
 - Rice and scallions, to serve
 

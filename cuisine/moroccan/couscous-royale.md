@@ -25,7 +25,7 @@ Couscous royale is the festive Moroccan-Maghreb couscous that crowns a Sunday lu
 - 1 large pinch saffron threads
 - 1 teaspoon ground turmeric
 - 1 teaspoon ground cumin
-- 1 teaspoon ras el hanout
+- 1 teaspoon [ras el hanout](../../base-ingredients/spices/ras-el-hanout.md)
 - 2 tablespoons tomato purée
 - 800 g tinned chopped tomatoes (2 tins)
 - 1 ½ litres chicken stock

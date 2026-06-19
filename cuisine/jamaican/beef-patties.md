@@ -19,7 +19,7 @@ A handheld pastry that looks like a Cornish pasty but tastes nothing like one. T
 - 3 ½ cups (about 430 g) plain flour
 - 2 teaspoons salt
 - 1 tablespoon caster sugar
-- 1 tablespoon Jamaican curry powder
+- 1 tablespoon Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 2 tablespoons ground turmeric
 - 225 g unsalted butter (grated, cold)
 - 240 ml ice cold water
@@ -34,7 +34,7 @@ A handheld pastry that looks like a Cornish pasty but tastes nothing like one. T
 - pepper
 - 1 teaspoon fresh thyme (or dried)
 - 1 teaspoon ground allspice
-- ½ teaspoon Jamaican curry powder
+- ½ teaspoon Jamaican [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1-2 Scotch bonnets (deseeded and finely chopped)
 - 4 spring onions (chopped)
 - 120 ml chicken stock

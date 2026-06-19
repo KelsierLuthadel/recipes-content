@@ -27,7 +27,7 @@ A summer-BBQ adaptation of the lacquered red roast meats that hang in the window
 - 1 tbsp toasted sesame oil
 - 1 tbsp grated ginger
 - 4 garlic cloves, finely grated
-- 2 tsp Chinese five-spice powder
+- 2 tsp [Chinese five-spice powder](../../base-ingredients/spices/chinese-five-spice-powder.md)
 - 1 tbsp soft brown sugar
 - 1 cube fermented red bean curd (nam yu), mashed (optional, for the classic siu mei red tint)
 - ½ tsp white pepper

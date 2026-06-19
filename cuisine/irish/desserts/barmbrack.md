@@ -28,7 +28,7 @@ Barmbrack (báirín breac in Irish, "speckled loaf") is Ireland's most iconic sw
 - 100 g caster sugar
 - 80 g light brown sugar (in addition to the caster sugar)
 - 1 teaspoon fine sea salt
-- 2 teaspoons ground mixed spice
+- 2 teaspoons ground [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - 1 teaspoon ground cinnamon
 - ½ teaspoon ground nutmeg
 - 60 g unsalted butter (softened)

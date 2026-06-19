@@ -37,7 +37,7 @@ This is not biryani (which layers raw meat and rice, sealed and cooked together)
 - 1 green chilli (finely chopped)
 - 1 tsp ground cumin
 - 1 tsp ground coriander
-- ½ tsp garam masala
+- ½ tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - ½ tsp ground turmeric
 - ½ tsp Kashmiri chilli powder
 - 1 tsp salt

@@ -36,7 +36,7 @@ The singara is the Bangladeshi cousin of the Indian samosa, but distinct enough 
 - 1 tsp salt, plus more to taste
 - 50 g roasted peanuts
 - 30 g raisins
-- 1 tsp garam masala
+- 1 tsp [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 tbsp lime juice
 - A small handful of fresh coriander, chopped
 

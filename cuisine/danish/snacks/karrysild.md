@@ -18,7 +18,7 @@ Karrysild (Danish curried herring) is the Danish answer to the broader Scandinav
 ### Curry mayo
 - 200 g mayonnaise (good quality; Hellmann's or similar)
 - 100 ml soured cream or crème fraîche
-- 2 tablespoons mild curry powder (mild Madras or Stuart's brand)
+- 2 tablespoons mild [curry powder](../../../base-ingredients/curry-powder/bir-curry-powder.md) (mild Madras or Stuart's brand)
 - 1 tablespoon Dijon mustard
 - 1 teaspoon turmeric (for the bright yellow colour)
 - 2 tablespoons mango chutney (or apricot jam)

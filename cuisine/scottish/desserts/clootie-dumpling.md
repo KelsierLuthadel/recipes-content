@@ -23,7 +23,7 @@ Clootie dumpling is one of Scotland's most ancient and most distinctively Scotti
 - 1 teaspoon bicarbonate of soda
 - 2 teaspoons ground cinnamon
 - 1 teaspoon ground ginger
-- 1 teaspoon mixed spice
+- 1 teaspoon [mixed spice](../../../base-ingredients/spices/mixed-spice.md)
 - ½ teaspoon ground cloves
 - 1 teaspoon fine sea salt
 - 200 g raisins

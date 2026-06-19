@@ -34,7 +34,7 @@ Roti came to Grenada from Trinidad and India, carried by indentured Indian worke
 - 1 large onion, chopped
 - 4 garlic cloves, crushed
 - 1 thumb ginger, grated
-- 3 tbsp Caribbean curry powder
+- 3 tbsp Caribbean [curry powder](../../base-ingredients/curry-powder/bir-curry-powder.md)
 - 1 tsp ground cumin
 - 1 tsp turmeric
 - 1 scotch bonnet, finely chopped (deseed for less heat)

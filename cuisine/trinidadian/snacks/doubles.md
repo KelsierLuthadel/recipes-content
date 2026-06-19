@@ -37,7 +37,7 @@ Doubles is the iconic Trinidadian breakfast and one of the most popular street f
 - 1 tablespoon ground cumin
 - 1 tablespoon ground coriander
 - 1 tablespoon ground turmeric
-- 1 teaspoon garam masala
+- 1 teaspoon [garam masala](../../../base-ingredients/curry-powder/garam-masala.md)
 - 1 teaspoon ground fenugreek (optional but very Trini)
 - 1 ½ teaspoons fine sea salt
 - 600 ml water (more or less to taste)
