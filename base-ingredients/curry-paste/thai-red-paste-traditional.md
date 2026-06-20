@@ -1,6 +1,6 @@
-# Traditional Thai Red Curry Paste (Kruang Kaeng Phet)
+# Thai Red Curry Paste (Kruang Kaeng Phet)
 
-![Traditional Thai Red Curry Paste](resources/thai-red-traditional.jpg)
+![Thai Red Curry Paste](resources/thai-red-traditional.jpg)
 
 *The proper Bangkok-style red curry paste: dried long red chillies softened in water, pounded with lemongrass, galangal, coriander root, kaffir lime, garlic and shallots into a deep brick-red paste with the seven traditional ingredients no central Thai cook would skip.*
 

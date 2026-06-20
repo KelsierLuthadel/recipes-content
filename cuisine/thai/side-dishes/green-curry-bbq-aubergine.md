@@ -21,7 +21,7 @@ A BBQ side built on the flavour profile of Thai green curry rather than a Thai c
 
 ### Marinade
 - 200 ml full-fat coconut cream (the thick layer skimmed from a tin of coconut milk)
-- 3 to 4 tbsp Thai green curry paste (see cuisine/thai/pastes/thai-green-curry-paste.md, or a quality shop-bought paste)
+- 3 to 4 tbsp Thai green curry paste (see base-ingredients/curry-paste/thai-green-paste-traditional.md, or a quality shop-bought paste)
 - 1 tbsp coconut oil (or neutral oil)
 - 2 tbsp fish sauce (or light soy sauce for a vegetarian version)
 - 1 tbsp palm sugar, shaved, or soft light brown sugar
@@ -76,7 +76,7 @@ A BBQ side built on the flavour profile of Thai green curry rather than a Thai c
 - **Cracked cream is essential:** if you skip the splitting stage and just stir the paste into the coconut cream cold, the marinade tastes raw and the curry flavour stays one-dimensional. The whole point of overnight marinating is that the paste has been properly developed.
 - **No BBQ?** A ridged cast-iron griddle pan on the hob over the highest heat gives proper char marks. Run a window fan; this gets smoky. Aubergines under the grill (oven broiler) on the top shelf also work, 3 minutes per side.
 - **Make-ahead:** marinade keeps 5 days in the fridge or 2 months in the freezer. Marinated aubergines can sit 48 hours; beyond that they soften too much.
-- **Curry paste:** the recipe at cuisine/thai/pastes/thai-green-curry-paste.md gives the most depth. A shop-bought paste (Mae Ploy, Maesri) is a respectable shortcut. Start with 3 tbsp and taste, since strengths vary wildly.
+- **Curry paste:** the recipe at base-ingredients/curry-paste/thai-green-paste-traditional.md gives the most depth. A shop-bought paste (Mae Ploy, Maesri) is a respectable shortcut. Start with 3 tbsp and taste, since strengths vary wildly.
 - **Vegetarian or vegan:** swap fish sauce for light soy sauce or mushroom seasoning sauce, and check the curry paste is shrimp-paste free.
 
 ## Storage

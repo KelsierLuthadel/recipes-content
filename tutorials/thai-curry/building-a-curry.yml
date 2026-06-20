@@ -13,6 +13,7 @@ mentions:
   - tutorials/spices/storage
   - tutorials/thai-curry/coconut-milk
   - tutorials/thai-curry/green
+  - base-ingredients/curry-paste/thai-green-paste-traditional
   - base-ingredients/curry-paste/thai-green-paste
 ingredients:
   - qty: 2

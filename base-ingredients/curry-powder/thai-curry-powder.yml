@@ -10,11 +10,11 @@ tags:
   - gluten-free
   - spicy
   - quick
-  - asian
-  - spices
   - coriander
   - chili
   - curry
+regions:
+  - thai
 mentions:
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices

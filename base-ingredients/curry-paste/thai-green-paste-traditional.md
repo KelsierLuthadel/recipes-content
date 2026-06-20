@@ -1,6 +1,6 @@
 # Thai Green Curry Paste
 
-![Thai Green Curry Paste](resources/thai-green-curry-paste.jpg)
+![Thai Green Curry Paste](resources/thai-green-traditional.jpg)
 
 *Thailand's green curry paste: fresh green chillies, lemongrass, galangal, kaffir lime, garlic.*
 
@@ -11,7 +11,7 @@
 **Cook Time:** 5 minutes
 
 ## Overview
-Green curry paste is the hottest of the Thai pastes, built around fresh green bird's-eye chillies pounded with lemongrass, galangal, garlic, shallots, kaffir lime and Thai basil into a vivid green paste that smells of grass and chilli the moment it hits hot oil. The freshness is the whole point: green paste loses its character after a week in the fridge, so make small batches and use within seven days or freeze in tablespoon portions for three months. Toasted cumin and coriander seeds with white pepper add backbone; a teaspoon of shrimp paste at the end gives the faintly-funky note. The finished paste should taste hot, herby and citrusy. Used in green chicken curry, vegetarian green curry, or as the marinade base for grilled aubergine; a tablespoon stirred into a stir-fry near the end gives instant Thai depth. For a faster fresh-chilli weeknight version, see [Quick Thai Green Paste](../../../base-ingredients/curry-paste/thai-green-paste.md).
+Green curry paste is the hottest of the Thai pastes, built around fresh green bird's-eye chillies pounded with lemongrass, galangal, garlic, shallots, kaffir lime and Thai basil into a vivid green paste that smells of grass and chilli the moment it hits hot oil. The freshness is the whole point: green paste loses its character after a week in the fridge, so make small batches and use within seven days or freeze in tablespoon portions for three months. Toasted cumin and coriander seeds with white pepper add backbone; a teaspoon of shrimp paste at the end gives the faintly-funky note. The finished paste should taste hot, herby and citrusy. Used in green chicken curry, vegetarian green curry, or as the marinade base for grilled aubergine; a tablespoon stirred into a stir-fry near the end gives instant Thai depth. For a faster fresh-chilli weeknight version, see [Quick Thai Green Paste](thai-green-paste.md).
 
 ## Ingredients
 ### Whole spices

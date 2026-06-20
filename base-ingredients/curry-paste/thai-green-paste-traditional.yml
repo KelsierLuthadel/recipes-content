@@ -7,7 +7,6 @@ tags:
   - dairy-free
   - gluten-free
   - spicy
-  - asian
   - pastes
   - fish
   - prawn
@@ -17,46 +16,56 @@ tags:
   - coriander
   - chili
   - curry
+regions:
+  - thai
 mentions:
-  - base-ingredients/curry-paste/thai-red-paste
+  - base-ingredients/curry-paste/thai-green-paste
+  - cuisine/indian/BIR-chicken-curry
   - tutorials/charcuterie/smoking
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
+  - tutorials/thai-curry/green
+  - tutorials/thai-curry/building-a-curry
 ingredients:
   - qty: 1
+    unit: tsp
     name: cumin seeds
-    raw: 1 generous tbsp cumin seeds
+    raw: 1 tsp cumin seeds
   - qty: 1
+    unit: tsp
     name: coriander seeds
-    raw: 1 generous tbsp coriander seeds
+    raw: 1 tsp coriander seeds
   - qty: 1.5
     unit: tsp
     name: white pepper
     raw: 1 ½ tsp white pepper
-  - qty: 12
-    name: red bird’s eye chillies
-    raw: 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
-  - qty: 12
-    name: garlic cloves
-    raw: 12 garlic cloves, roughly chopped
+  - qty: 20
+    name: green bird’s eye chillies
+    raw: 20 green bird’s eye chillies, roughly chopped
   - qty: 2
-    name: shallots
-    raw: 2 shallots , finely chopped
+    name: lemongrass stalks
+    raw: 2 lemongrass stalks , thinly sliced
+  - qty: 8
+    name: garlic cloves
+    raw: 8 garlic cloves, smashed
   - qty: 1
     name: galangal
     raw: 1 thumb-sized piece galangal, thinly sliced
-  - qty: 2
-    name: red spur chillies
-    raw: 2 red spur chillies, thinly sliced
-  - qty: 1
-    name: lemongrass stalk
-    raw: 1 lemongrass stalk, tough outer part removed and thinly sliced
+  - qty: 3
+    name: shallots
+    raw: 3 shallots , roughly chopped
   - qty: 10
+    name: thai sweet basil stalks
+    raw: 10 Thai sweet basil stalks
+  - qty: 5
     name: coriander stalks
-    raw: 10 thick coriander stalks
+    raw: 5 coriander stalks
   - qty: 0.5
     name: lime
     raw: ½ lime
+  - qty: 5
+    name: lime leaves
+    raw: 5 lime leaves
   - qty: 1
     unit: tsp
     name: shrimp paste

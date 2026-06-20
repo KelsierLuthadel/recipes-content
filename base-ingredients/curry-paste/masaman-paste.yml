@@ -19,11 +19,10 @@ tags:
 regions:
   - thai
 mentions:
-  - cuisine/thai/pastes/massaman-curry-paste
+  - base-ingredients/curry-paste/masaman-paste-traditional
   - equipment/mortar-and-pestle
   - tutorials/middle-eastern-fundamentals/spices
   - tutorials/spices/storage
-  - tutorials/thai-curry/massaman
   - cuisine/thai/thai-beef-massaman
 ingredients:
   - qty: 12
