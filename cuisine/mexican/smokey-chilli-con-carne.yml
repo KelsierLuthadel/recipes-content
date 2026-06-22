@@ -28,16 +28,16 @@ ingredients:
   - name: salt and crushed black pepper
     raw: Salt and crushed black pepper
   - qty: 3
-    name: red and yellow/brown onions
+    name: and yellow/brown onions (red)
     raw: 3 medium red and yellow/brown onions
   - qty: 3
     name: celery
     raw: 3 celery sticks
   - qty: 2
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 2 red bell peppers
   - qty: 2
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 2 green bell peppers
   - qty: 2
     name: ancho dried chillies
@@ -82,7 +82,7 @@ ingredients:
     name: tomatoes
     raw: 2 tins chopped tomatoes
   - qty: 2
-    name: black beans
+    name: beans (black)
     raw: 2 tins black beans
   - qty: 2.5
     unit: tbsp

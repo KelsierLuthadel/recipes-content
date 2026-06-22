@@ -33,7 +33,7 @@ ingredients:
     raw: 1 kg cleaned octopus
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tbsp white vinegar
   - qty: 0.5
     unit: tsp
@@ -61,7 +61,7 @@ ingredients:
     name: curry leaves
     raw: 10 fresh curry leaves
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 3
     name: tomatoes

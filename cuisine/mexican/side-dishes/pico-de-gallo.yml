@@ -19,7 +19,7 @@ ingredients:
     name: tomatoes
     raw: 4 ripe tomatoes
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1.5
     name: jalapenos
@@ -37,5 +37,5 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon black pepper

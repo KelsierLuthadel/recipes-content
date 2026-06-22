@@ -38,5 +38,5 @@ ingredients:
   - qty: 2
     name: bowls
     raw: 2 small bowls or shallow dishes of hot water
-  - name: "optional: a small dusting of cocoa powder"
+  - name: optional
     raw: "Optional: a small dusting of cocoa powder or cinnamon"

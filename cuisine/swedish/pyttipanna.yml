@@ -29,7 +29,7 @@ ingredients:
     name: leftover cooked meat
     raw: 400 g leftover cooked meat
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 large yellow onion
   - qty: 60
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 4
     name: eggs
@@ -63,5 +63,5 @@ ingredients:
     raw: Dijon mustard
   - name: glass of cold milk
     raw: A glass of cold milk OR a small lager
-  - name: "optional: hp sauce"
+  - name: optional
     raw: "Optional: HP sauce or ketchup"

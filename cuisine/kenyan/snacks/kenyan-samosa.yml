@@ -56,7 +56,7 @@ ingredients:
     name: ginger
     raw: 2 cm ginger, grated
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli, finely chopped
   - qty: 1
     unit: tsp
@@ -101,5 +101,5 @@ ingredients:
     raw: Tamarind chutney
   - name: lemon wedges
     raw: Lemon wedges
-  - name: red onion
+  - name: onion (red)
     raw: Sliced raw red onion

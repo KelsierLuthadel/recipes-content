@@ -36,7 +36,7 @@ ingredients:
     raw: 120 ml warm water
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1.5
     unit: tsp
@@ -66,7 +66,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 ½ teaspoons ground black pepper
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
   - qty: 1
     name: egg
     raw: 1 egg
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: dill pickles
     raw: Dill pickles

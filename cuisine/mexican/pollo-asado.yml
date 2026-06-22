@@ -35,7 +35,7 @@ ingredients:
     raw: 50 g achiote paste
   - qty: 120
     unit: ml
-    name: orange juice
+    name: juice (orange)
     raw: 120 ml fresh orange juice
   - qty: 60
     unit: ml
@@ -43,7 +43,7 @@ ingredients:
     raw: 60 ml lime juice
   - qty: 30
     unit: ml
-    name: white vinegar
+    name: vinegar (white)
     raw: 30 ml white vinegar
   - qty: 45
     unit: ml
@@ -70,7 +70,7 @@ ingredients:
     raw: 8 g salt
   - qty: 2
     unit: g
-    name: black pepper
+    name: pepper (black)
     raw: 2 g ground black pepper
   - qty: 1
     name: chipotle in adobo

@@ -27,13 +27,13 @@ ingredients:
     name: olive oil
     raw: 1 tablespoon olive oil
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 355
     unit: g

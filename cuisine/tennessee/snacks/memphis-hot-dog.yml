@@ -46,7 +46,7 @@ ingredients:
     raw: 80 ml apple cider vinegar
   - qty: 50
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 50 g brown sugar
   - qty: 2
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     raw: 2 tablespoons Worcestershire sauce
   - qty: 2
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 2 tablespoons yellow mustard
   - qty: 1
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 4
     name: potato hot dog buns
@@ -106,7 +106,7 @@ ingredients:
   - qty: 1
     name: spring onions
     raw: 1 small bunch spring onions
-  - name: "optional: dill pickle slices"
+  - name: optional
     raw: "Optional: dill pickle slices, sliced jalapeños"
   - name: memphis vinegar coleslaw on the side
     raw: Memphis vinegar coleslaw on the side

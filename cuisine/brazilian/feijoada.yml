@@ -29,7 +29,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 500 g dried black beans
   - qty: 300
     unit: g
@@ -55,7 +55,7 @@ ingredients:
     unit: g
     name: smoked bacon
     raw: 200 g smoked bacon
-  - name: "optional: 1 pig's ear + 1 pig's snout + 2 trotters"
+  - name: optional
     raw: "Optional: 1 pig's ear + 1 pig's snout + 2 trotters, these add collagen and authenticity; skip if squeamish"
   - qty: 2
     name: onions
@@ -87,7 +87,7 @@ ingredients:
     raw: 1 small chilli
   - qty: 600
     unit: g
-    name: white long grain rice
+    name: long grain rice (white)
     raw: 600 g white long-grain rice
   - qty: 1
     name: couve a mineira
@@ -100,7 +100,7 @@ ingredients:
     name: oranges
     raw: 2 oranges
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - name: pinga
     raw: A bottle of pinga or several cold beers

@@ -48,7 +48,7 @@ ingredients:
     name: tomatillos
     raw: 4 tomatillos, husked
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion, halved
   - qty: 6
     name: garlic
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 tsp coriander seeds
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tsp black peppercorns
   - qty: 1
     unit: tsp

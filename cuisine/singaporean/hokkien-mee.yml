@@ -32,7 +32,7 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - name: heads and shells from 200 g prawns
+  - name: and shells from 200 g prawns
     raw: Heads and shells from 200 g prawns
   - qty: 4
     unit: cup
@@ -47,7 +47,7 @@ ingredients:
     raw: 2 cloves garlic
   - qty: 300
     unit: g
-    name: yellow egg noodles
+    name: egg noodles (yellow)
     raw: 300 g thick yellow egg noodles
   - qty: 200
     unit: g
@@ -94,7 +94,7 @@ ingredients:
     raw: 1 tbsp sugar
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 tsp white pepper
   - qty: 4
     unit: tbsp

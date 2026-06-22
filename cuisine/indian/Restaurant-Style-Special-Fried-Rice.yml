@@ -50,7 +50,7 @@ ingredients:
     raw: 60 g onion, roughly chopped
   - qty: 15
     unit: g
-    name: red pepper
+    name: pepper (red)
     raw: 15 g red pepper, finely chopped
   - qty: 2
     name: garlic
@@ -60,10 +60,10 @@ ingredients:
     name: mushrooms
     raw: 30 g mushrooms, sliced
   - qty: 0.5
-    name: to 1 tsp kasuri methi
+    name: kasuri methi
     raw: 0.5 to 1 tsp kasuri methi
   - qty: 1
-    name: to 2 tsp fresh green chilli
+    name: chilli (green)
     raw: 1 to 2 tsp fresh green chilli, finely chopped
   - qty: 0.5
     unit: tsp

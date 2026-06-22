@@ -35,7 +35,7 @@ ingredients:
     raw: 200 g salt
   - qty: 100
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 100 g brown sugar
   - qty: 2
     unit: tbsp
@@ -46,7 +46,7 @@ ingredients:
     raw: 6 bay leaves
   - qty: 1
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tablespoon black peppercorns
   - qty: 1
     unit: tbsp

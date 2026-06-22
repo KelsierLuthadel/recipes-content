@@ -31,7 +31,7 @@ ingredients:
     raw: 4 tablespoons coarse kosher salt
   - qty: 4
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 4 tablespoons coarsely ground black pepper
   - qty: 1
     unit: tbsp
@@ -41,5 +41,5 @@ ingredients:
     unit: tbsp
     name: paprika
     raw: 1 tablespoon paprika
-  - name: post oak wood chunks ;
+  - name: post oak wood chunks
     raw: Post-oak wood chunks ; or oak, hickory, mesquite, pecan

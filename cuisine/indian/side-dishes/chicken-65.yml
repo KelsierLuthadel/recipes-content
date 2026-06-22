@@ -94,7 +94,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
     unit: large sprig
@@ -106,7 +106,7 @@ ingredients:
     raw: 1 tablespoon soy sauce
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
     unit: tsp
@@ -114,10 +114,10 @@ ingredients:
     raw: 1 teaspoon Kashmiri chilli powder
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon ground black pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
     unit: tbsp

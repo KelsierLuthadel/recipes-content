@@ -41,7 +41,7 @@ ingredients:
     raw: 250 g minced pork
   - qty: 200
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 200 ml red wine
   - qty: 800
     unit: g
@@ -67,7 +67,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 500
     unit: g

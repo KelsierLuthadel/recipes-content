@@ -18,7 +18,7 @@ ingredients:
   - name: caster sugar
     raw: Caster sugar
   - qty: 200
-    name: to 300 ml cold still water
+    name: still water
     raw: 200 to 300 ml cold still water
   - qty: 100
     unit: ml
@@ -30,7 +30,7 @@ ingredients:
     raw: A tall glass with lemon juice
   - name: sugar bowl
     raw: A small sugar bowl
-  - name: long iced tea spoon for stirring
+  - name: iced tea spoon for stirring
     raw: A long iced-tea spoon for stirring
   - name: water carafe
     raw: A water carafe

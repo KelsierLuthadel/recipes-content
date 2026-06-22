@@ -28,7 +28,7 @@ ingredients:
     unit: tsp
     name: vanilla syrup
     raw: 2 teaspoons vanilla syrup
-  - name: "optional: a small lavender bud"
+  - name: optional
     raw: "Optional: a small lavender bud or 2 drops of lavender extract"
   - qty: 200
     unit: g

@@ -35,7 +35,7 @@ ingredients:
     raw: 3 tablespoons sesame oil
   - qty: 1
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 1 teaspoon black mustard seeds
   - qty: 1
     unit: tsp
@@ -50,10 +50,10 @@ ingredients:
     name: peanuts
     raw: 50 g raw peanuts
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 25
     unit: g

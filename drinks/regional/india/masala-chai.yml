@@ -12,7 +12,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 4
     name: cloves
@@ -22,7 +22,7 @@ ingredients:
     raw: 1 cinnamon stick
   - qty: 0.5
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: ½ teaspoon black peppercorns
   - qty: 1
     name: star anise
@@ -46,7 +46,7 @@ ingredients:
     name: milk
     raw: 250 ml whole milk
   - qty: 2
-    name: to 3 teaspoons sugar
+    name: sugar
     raw: 2 to 3 teaspoons sugar
   - name: pour straight into small glasses
     raw: Pour straight into small glasses or steel tumblers

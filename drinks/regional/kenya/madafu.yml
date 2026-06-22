@@ -15,7 +15,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: green coconut
+    name: coconut (green)
     raw: 1 young green coconut , about 1.5-2 kg
   - qty: 1
     name: wide drinking straw
@@ -33,7 +33,7 @@ ingredients:
     raw: 1 small piece of fresh ginger
   - qty: 50
     unit: ml
-    name: white rum
+    name: rum (white)
     raw: 50 ml white rum
   - name: short spoon
     raw: A short spoon

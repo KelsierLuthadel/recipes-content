@@ -32,10 +32,10 @@ ingredients:
     name: oil
     raw: 3 tbsp oil
   - qty: 2
-    name: to 3 tsp ginger garlic paste
+    name: ginger garlic paste
     raw: 2 to 3 tsp ginger-garlic paste
   - qty: 2
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 2 green cardamom pods, split
   - qty: 1
     unit: tsp
@@ -46,14 +46,14 @@ ingredients:
     name: mix powder
     raw: 1.25 tsp Mix Powder
   - qty: 0.25
-    name: to 0.5 tsp chilli powder
+    name: chilli powder
     raw: 0.25 to 0.5 tsp chilli powder
   - qty: 0.25
     unit: tsp
     name: salt
     raw: 0.25 tsp salt
   - qty: 4
-    name: to 5 tbsp tomato paste
+    name: tomato paste
     raw: 4 to 5 tbsp tomato paste
   - qty: 200
     unit: g
@@ -63,7 +63,7 @@ ingredients:
     name: ml+ curry base gravy
     raw: 330 ml+ Curry Base Gravy, heated through
   - qty: 6
-    name: to 9 tbsp pre cooked dhal
+    name: pre cooked dhal
     raw: 6 to 9 tbsp pre-cooked dhal
   - qty: 1
     unit: tbsp

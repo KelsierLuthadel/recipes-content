@@ -32,5 +32,5 @@ ingredients:
     unit: tbsp
     name: raisins
     raw: 1 tbsp raisins
-  - name: "optional: 1 tbsp honey"
+  - name: optional
     raw: "Optional: 1 tbsp honey, or 1 tsp lemon juice, to finish"

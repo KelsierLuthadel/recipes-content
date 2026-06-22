@@ -24,10 +24,10 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 2
-    name: red peppers
+    name: peppers (red)
     raw: 2 red peppers
   - qty: 2
-    name: green peppers
+    name: peppers (green)
     raw: 2 green peppers
   - qty: 5
     name: garlic

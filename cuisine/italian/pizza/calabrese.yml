@@ -38,13 +38,13 @@ ingredients:
     name: roquito peppers
     raw: 30 grams roquito peppers
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 fresh green chillies
   - qty: 0.25
-    name: yellow pepper
+    name: pepper (yellow)
     raw: ¼ yellow pepper
   - qty: 0.25
-    name: red pepper
+    name: pepper (red)
     raw: ¼ red pepper
   - qty: 20
     unit: g

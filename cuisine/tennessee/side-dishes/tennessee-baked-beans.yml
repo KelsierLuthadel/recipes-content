@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: navy beans ;
+    name: navy beans
     raw: 500 g dried navy beans ; or 3 tins navy beans
   - qty: 300
     unit: g
@@ -41,7 +41,7 @@ ingredients:
     name: garlic
     raw: 8 garlic cloves
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 200
     unit: ml
@@ -49,7 +49,7 @@ ingredients:
     raw: 200 ml ketchup
   - qty: 100
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 100 g brown sugar
   - qty: 4
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 4 tablespoons molasses
   - qty: 4
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 4 tablespoons yellow mustard
   - qty: 4
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

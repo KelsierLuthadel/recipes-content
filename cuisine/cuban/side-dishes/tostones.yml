@@ -19,7 +19,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 3
-    name: green plantains
+    name: plantains (green)
     raw: 3 green plantains
   - qty: 500
     unit: ml
@@ -44,7 +44,7 @@ ingredients:
     raw: 2 tablespoons fresh lime juice
   - qty: 2
     unit: tbsp
-    name: orange juice
+    name: juice (orange)
     raw: 2 tablespoons fresh orange juice
   - qty: 0.5
     unit: tsp
@@ -54,5 +54,5 @@ ingredients:
     unit: tsp
     name: oregano
     raw: ½ teaspoon dried oregano
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

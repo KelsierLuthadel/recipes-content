@@ -42,5 +42,5 @@ ingredients:
     unit: small pinch
     name: salt
     raw: A small pinch of salt
-  - name: "optional: 1 tbsp honey for added complexity"
+  - name: optional
     raw: "Optional: 1 tbsp honey for added complexity"

@@ -68,11 +68,11 @@ ingredients:
     raw: 1 tablespoon Worcestershire sauce
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 teaspoon brown sugar
   - qty: 1.5
     unit: tsp
@@ -80,7 +80,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 4
     name: all beef natural casing frankfurters
@@ -93,9 +93,9 @@ ingredients:
     name: butter
     raw: 1 tablespoon butter
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 medium white onion
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: crinkle cut fries
     raw: Crinkle-cut fries

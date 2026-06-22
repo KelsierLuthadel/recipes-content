@@ -78,7 +78,7 @@ ingredients:
     raw: 100 ml cold water
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 400
     unit: g
@@ -92,7 +92,7 @@ ingredients:
     name: crispy fried shallots
     raw: 100 g crispy fried shallots
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
     unit: small handful
@@ -105,9 +105,9 @@ ingredients:
     name: limes
     raw: 2 limes
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 dried red chillies
-  - name: red chilli oil
+  - name: chilli oil (red)
     raw: Dried red chilli oil
   - qty: 4
     unit: tbsp

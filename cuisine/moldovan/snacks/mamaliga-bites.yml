@@ -23,7 +23,7 @@ ingredients:
     raw: 1.5 tsp salt
   - qty: 300
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 300 g coarse yellow cornmeal
   - qty: 30
     unit: g
@@ -53,5 +53,5 @@ ingredients:
     unit: g
     name: sour cream
     raw: 100 g sour cream , for dipping
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

@@ -77,7 +77,7 @@ ingredients:
     name: corn tortilla
     raw: 1 corn tortilla
   - qty: 1
-    name: white bread
+    name: bread (white)
     raw: 1 thick slice white bread
   - qty: 1
     name: tomato
@@ -94,7 +94,7 @@ ingredients:
     raw: 4 cloves
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 1
     unit: tsp

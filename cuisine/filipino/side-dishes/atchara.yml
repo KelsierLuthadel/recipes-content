@@ -23,16 +23,16 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: green papaya
+    name: papaya (green)
     raw: 500 g green papaya
   - qty: 1
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 4
     name: garlic
@@ -51,7 +51,7 @@ ingredients:
     raw: 2 tablespoons fine sea salt
   - qty: 350
     unit: ml
-    name: white cane vinegar
+    name: cane vinegar (white)
     raw: 350 ml white cane vinegar
   - qty: 200
     unit: g
@@ -59,10 +59,10 @@ ingredients:
     raw: 200 g caster sugar
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon whole black peppercorns
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 1
     unit: tsp

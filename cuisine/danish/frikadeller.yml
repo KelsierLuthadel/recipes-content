@@ -55,7 +55,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon ground white pepper
   - qty: 0.5
     unit: tsp
@@ -99,7 +99,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon ground white pepper
   - name: kulør for the traditional dark colour
     raw: A few drops of kulør for the traditional dark colour, optional

@@ -38,7 +38,7 @@ ingredients:
   - qty: 4
     name: tall glasses
     raw: 4 tall glasses, chilled
-  - name: "optional: a thin slice of fresh pineapple"
+  - name: optional
     raw: "Optional: a thin slice of fresh pineapple per glass"
-  - name: "optional: a mint"
+  - name: optional
     raw: "Optional: a mint sprig per glass"

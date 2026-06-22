@@ -21,7 +21,7 @@ ingredients:
   - qty: 3
     name: cardamom pods
     raw: 3 cardamom pods
-  - name: "optional: a small piece of orange peel for the brewing pot"
+  - name: optional
     raw: "Optional: a small piece of orange peel for the brewing pot"
   - qty: 4
     name: estekan glasses
@@ -30,7 +30,7 @@ ingredients:
     raw: Saucers
   - name: bowl of sugar cubes
     raw: A bowl of sugar cubes
-  - name: "bowls of fruit preserves : quince"
+  - name: bowls of fruit preserves
     raw: "Small bowls of fruit preserves : quince, sour cherry, or rose petal"
   - name: dates
     raw: Dates or saffron brittle on a side plate

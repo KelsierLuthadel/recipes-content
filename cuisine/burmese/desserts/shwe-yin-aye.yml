@@ -32,7 +32,7 @@ ingredients:
     raw: ¼ teaspoon pandan essence
   - qty: 2
     unit: drop
-    name: green food colouring
+    name: food colouring (green)
     raw: 2 drops green food colouring
   - qty: 60
     unit: g
@@ -43,7 +43,7 @@ ingredients:
     name: water
     raw: 1 litre water
   - qty: 4
-    name: white bread
+    name: bread (white)
     raw: 4 thick slices white bread
   - qty: 400
     unit: ml

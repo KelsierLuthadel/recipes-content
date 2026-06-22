@@ -46,7 +46,7 @@ ingredients:
     name: char siu
     raw: 4 slices of char siu or grilled pork belly
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 150
     unit: g
@@ -69,5 +69,5 @@ ingredients:
     raw: ½ teaspoon Maggi seasoning sauce
   - qty: 1
     unit: pinch
-    name: black pepper
+    name: pepper (black)
     raw: A pinch of ground black pepper

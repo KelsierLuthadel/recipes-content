@@ -32,12 +32,12 @@ ingredients:
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: ketchup
     raw: Ketchup
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 medium white onion
   - qty: 6
     unit: tbsp

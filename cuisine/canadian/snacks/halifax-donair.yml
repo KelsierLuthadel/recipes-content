@@ -68,7 +68,7 @@ ingredients:
     raw: 1 × 397 g tin sweetened condensed milk
   - qty: 60
     unit: ml
-    name: white vinegar
+    name: vinegar (white)
     raw: 60 ml white vinegar
   - qty: 1
     unit: tsp
@@ -95,5 +95,5 @@ ingredients:
     raw: Foil sheets for wrapping
   - name: cold can of pop
     raw: A cold can of pop or a Canadian lager
-  - name: "optional: extra sauce on the side for dipping"
+  - name: optional
     raw: "Optional: extra sauce on the side for dipping"

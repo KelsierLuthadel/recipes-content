@@ -48,7 +48,7 @@ ingredients:
     name: tomato ketchup
     raw: 2 tablespoons tomato ketchup
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet pepper, deseeded and finely chopped
   - qty: 2
     unit: clove
@@ -60,7 +60,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 1
     unit: tsp
@@ -78,10 +78,10 @@ ingredients:
     name: onion
     raw: 1 large onion, finely chopped
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 large green bell pepper, finely chopped
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 small red bell pepper, finely chopped
   - qty: 4
     unit: clove
@@ -95,7 +95,7 @@ ingredients:
     name: tomato paste
     raw: 2 tablespoons tomato paste
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet pepper, deseeded and finely chopped
   - qty: 2
     unit: tbsp

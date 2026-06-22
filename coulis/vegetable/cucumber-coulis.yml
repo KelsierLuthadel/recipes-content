@@ -14,10 +14,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - qty: 4
     unit: sprig

@@ -24,7 +24,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 100
     unit: g
@@ -44,11 +44,11 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 7
     name: provolone
     raw: 6-8 slices provolone
   - qty: 2
-    name: long hoagie rolls
+    name: hoagie rolls
     raw: 2 long hoagie rolls

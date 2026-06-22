@@ -33,7 +33,7 @@ ingredients:
     raw: 1 small sprig fresh sage
   - name: coriander seeds
     raw: A few crushed coriander seeds
-  - name: "optional: 1 tbsp honey"
+  - name: optional
     raw: "Optional: 1 tbsp honey"
   - qty: 50
     unit: ml

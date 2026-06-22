@@ -46,7 +46,7 @@ ingredients:
     raw: 300 ml warm water
   - qty: 200
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 200 g yellow split peas, soaked 2 hours then drained
   - qty: 2
     name: garlic
@@ -89,7 +89,7 @@ ingredients:
     name: turmeric
     raw: 1 tsp turmeric
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet, finely chopped
   - qty: 2
     name: chickpeas

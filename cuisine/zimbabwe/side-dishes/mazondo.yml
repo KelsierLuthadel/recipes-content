@@ -49,7 +49,7 @@ ingredients:
     raw: 2 tablespoons paprika
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: tsp
@@ -62,7 +62,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 200
     unit: ml

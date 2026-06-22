@@ -17,10 +17,10 @@ mentions:
 ingredients:
   - qty: 60
     unit: g
-    name: white poppy seeds
+    name: poppy seeds (white)
     raw: 60 g white poppy seeds
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 3
     unit: tbsp
@@ -38,7 +38,7 @@ ingredients:
     name: nigella seeds
     raw: ½ tsp nigella seeds
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli, slit lengthways
   - qty: 0.5
     unit: tsp

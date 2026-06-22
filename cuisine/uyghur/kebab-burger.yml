@@ -31,7 +31,7 @@ ingredients:
     name: lamb
     raw: 200 g minced lamb
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1
     name: egg
@@ -58,7 +58,7 @@ ingredients:
     raw: 2 teaspoons ground cumin
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon white pepper
   - qty: 1
     unit: tsp
@@ -68,13 +68,13 @@ ingredients:
     name: burger buns
     raw: 4 burger buns
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1.5
     name: tomatoes
     raw: 1-2 ripe tomatoes
   - qty: 0.5
-    name: head of lettuce
+    name: lettuce
     raw: ½ head of lettuce
   - name: shashlik sauce
     raw: Shashlik sauce , to taste

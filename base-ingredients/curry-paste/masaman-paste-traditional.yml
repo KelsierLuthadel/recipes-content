@@ -39,7 +39,7 @@ ingredients:
     raw: 5 whole cloves
   - qty: 1
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tbsp black peppercorns
   - qty: 1
     name: nutmeg
@@ -50,7 +50,7 @@ ingredients:
     name: cinnamon stick
     raw: 5 cm piece cinnamon stick
   - qty: 12
-    name: red bird’s eye chillies
+    name: bird’s eye chillies (red)
     raw: 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
   - qty: 8
     name: garlic
@@ -59,7 +59,7 @@ ingredients:
     name: shallots
     raw: 2-3 shallots , thinly sliced
   - qty: 1
-    name: long lemongrass stalk
+    name: lemongrass stalk
     raw: 1 long lemongrass stalk , thinly sliced
   - qty: 1
     name: galangal

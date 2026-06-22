@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 50
     unit: g
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 50 g whole green cardamom pods
   - qty: 3
     name: cinnamon sticks
@@ -27,11 +27,11 @@ ingredients:
     raw: 1 small whole nutmeg, lightly cracked
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 1
     unit: tbsp
-    name: white sesame seeds
+    name: sesame seeds (white)
     raw: 1 tablespoon white sesame seeds
   - qty: 4
     name: cloves
@@ -48,17 +48,17 @@ ingredients:
     name: medium dark arabica ground coffee
     raw: 4 tablespoons medium-dark Arabica ground coffee
   - qty: 1
-    name: to 2 teaspoons of the spice blend above
+    name: the spice blend above
     raw: 1 to 2 teaspoons of the spice blend above
   - qty: 600
     unit: ml
     name: water
     raw: 600 ml cold water
   - qty: 4
-    name: to 6 teaspoons white
+    name: white
     raw: 4 to 6 teaspoons white or brown sugar, to taste
   - qty: 4
     name: porcelain cups
     raw: 4 small porcelain cups or espresso cups with saucers
-  - name: "optional: a small plate of dates"
+  - name: optional
     raw: "Optional: a small plate of dates or kaab el ghazal pastries"

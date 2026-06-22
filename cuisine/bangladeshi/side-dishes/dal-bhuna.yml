@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: red lentils
+    name: lentils (red)
     raw: 400 g red lentils
   - qty: 1.2
     unit: l
@@ -43,7 +43,7 @@ ingredients:
     name: salt
     raw: 1 tsp fine salt
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies, slit
   - qty: 5
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     name: ginger
     raw: 2 cm fresh ginger, finely grated
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies, broken
   - qty: 1
     unit: tsp

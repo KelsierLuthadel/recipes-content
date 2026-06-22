@@ -30,7 +30,7 @@ ingredients:
     raw: 2 tablespoons fresh rosemary
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     raw: 1 teaspoon flaky sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - name: worcestershire sauce
     raw: A few drops Worcestershire sauce

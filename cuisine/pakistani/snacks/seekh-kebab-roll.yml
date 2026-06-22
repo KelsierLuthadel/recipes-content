@@ -49,7 +49,7 @@ ingredients:
     name: garlic
     raw: 5 garlic cloves
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 3
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: tbsp
@@ -91,7 +91,7 @@ ingredients:
     name: paratha
     raw: 4 paratha
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
     name: coriander

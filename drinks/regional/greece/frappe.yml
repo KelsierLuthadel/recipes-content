@@ -13,7 +13,7 @@ ingredients:
     name: heaped teaspoons instant coffee
     raw: 2 heaped teaspoons instant coffee
   - qty: 1
-    name: to 4 teaspoons caster sugar
+    name: caster sugar
     raw: 1 to 4 teaspoons caster sugar
   - qty: 3
     unit: tbsp
@@ -26,7 +26,7 @@ ingredients:
     name: additional cold water
     raw: 200 ml additional cold water
   - qty: 30
-    name: to 50 ml cold milk
+    name: milk
     raw: 30 to 50 ml cold milk
   - name: tall glass
     raw: A tall glass

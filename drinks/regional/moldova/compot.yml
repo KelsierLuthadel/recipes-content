@@ -29,11 +29,11 @@ ingredients:
   - qty: 1
     name: cinnamon stick
     raw: 1 cinnamon stick
-  - name: "apricot compot: 600 g halved pitted apricots"
+  - name: apricot compot
     raw: "Apricot compot: 600 g halved pitted apricots, 150 g sugar, 1.2 L water"
-  - name: "apple compot: 600 g peeled cored apple wedges"
+  - name: apple compot
     raw: "Apple compot: 600 g peeled cored apple wedges, 100 g sugar, 1 cinnamon stick, 1.2 L water"
-  - name: "plum compot: 600 g halved pitted plums"
+  - name: plum compot
     raw: "Plum compot: 600 g halved pitted plums, 130 g sugar, 1.2 L water"
-  - name: "mixed berry compot: 500 g mixed strawberries"
+  - name: mixed berry compot
     raw: "Mixed berry compot: 500 g mixed strawberries, raspberries, currants, 140 g sugar, 1.2 L water"

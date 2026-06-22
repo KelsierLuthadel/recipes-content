@@ -38,7 +38,7 @@ ingredients:
     raw: 1 egg
   - qty: 1
     unit: tsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 teaspoon white wine vinegar
   - qty: 65
     unit: ml
@@ -72,7 +72,7 @@ ingredients:
     raw: 1 tablespoon fresh mint or 1 teaspoon dried mint
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: pinch
@@ -91,7 +91,7 @@ ingredients:
     raw: 1 tablespoon sesame seeds
   - qty: 1
     unit: tbsp
-    name: black sesame seeds
+    name: sesame seeds (black)
     raw: 1 tablespoon black sesame seeds
   - qty: 1
     unit: l

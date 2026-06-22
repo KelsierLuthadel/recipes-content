@@ -30,7 +30,7 @@ ingredients:
     raw: 400 g small new potatoes
   - qty: 200
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 200 g fresh green beans
   - qty: 2
     unit: tsp
@@ -50,10 +50,10 @@ ingredients:
     name: nicoise olives
     raw: 80 g Niçoise olives
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 5
     unit: tbsp
@@ -61,7 +61,7 @@ ingredients:
     raw: 5 tablespoons extra-virgin olive oil
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tablespoons red wine vinegar
   - qty: 1
     unit: tsp
@@ -76,7 +76,7 @@ ingredients:
     raw: ½ teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     name: basil
@@ -87,5 +87,5 @@ ingredients:
     raw: A small handful of fresh flat-leaf parsley
   - name: crusty bread
     raw: Crusty bread to serve
-  - name: "optional: a butterhead lettuce as a base"
+  - name: optional
     raw: "Optional: a butterhead lettuce as a base"

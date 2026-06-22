@@ -24,7 +24,7 @@ ingredients:
     raw: 600 g ground beef chuck, ideally 20% fat
   - name: flaky sea salt
     raw: Flaky sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 4
     name: american cheese
@@ -37,14 +37,14 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter, softened
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion , very thinly sliced
   - qty: 4
     name: dill pickle chips
     raw: 4 dill pickle chips per burger
   - qty: 2
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 2 tbsp yellow mustard
   - qty: 4
     unit: tbsp

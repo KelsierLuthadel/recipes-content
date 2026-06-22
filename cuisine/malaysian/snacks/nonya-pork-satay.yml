@@ -40,7 +40,7 @@ ingredients:
     name: shrimp paste
     raw: 1 cm cube shrimp paste
   - qty: 2
-    name: lemon grass stalks
+    name: lemon grass
     raw: 2 lemon grass stalks
   - qty: 2
     unit: tbsp
@@ -53,7 +53,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 fresh red chillies
   - qty: 0.5
     unit: tsp

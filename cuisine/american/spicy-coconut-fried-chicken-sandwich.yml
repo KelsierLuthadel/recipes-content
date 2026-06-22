@@ -30,7 +30,7 @@ ingredients:
     raw: 240 ml coconut milk
   - qty: 1.5
     unit: tbsp
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 ½ tablespoons minced Scotch bonnet
   - qty: 2
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     raw: 120 ml coconut milk
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 0.5
     unit: tbsp
@@ -70,5 +70,5 @@ ingredients:
     raw: 3 tablespoons mango-Scotch-bonnet sauce
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar

@@ -43,7 +43,7 @@ ingredients:
     name: garlic
     raw: 3 garlic cloves
   - qty: 1
-    name: long red chilli
+    name: chilli (red)
     raw: 1 long red chilli
   - qty: 0.5
     unit: tsp
@@ -68,7 +68,7 @@ ingredients:
     unit: cup
     name: fried shallots
     raw: ¼ cup fried shallots
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber
   - name: tomato
     raw: Sliced tomato

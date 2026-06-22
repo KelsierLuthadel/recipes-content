@@ -30,7 +30,7 @@ ingredients:
     raw: 3 garlic cloves
   - qty: 150
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 150 ml red wine
   - qty: 1
     unit: tsp
@@ -46,5 +46,5 @@ ingredients:
     raw: 1 teaspoon American mustard
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon freshly ground black pepper

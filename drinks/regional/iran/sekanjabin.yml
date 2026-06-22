@@ -20,7 +20,7 @@ ingredients:
     raw: 250 ml water
   - qty: 250
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 250 ml white wine vinegar
   - qty: 30
     unit: g
@@ -35,7 +35,7 @@ ingredients:
     name: water
     raw: 200 ml cold water
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ small cucumber
   - name: plenty of ice cubes
     raw: Plenty of ice cubes

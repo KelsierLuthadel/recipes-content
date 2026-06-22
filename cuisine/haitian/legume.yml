@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: green cabbage
+    name: cabbage (green)
     raw: 400 g green cabbage
   - qty: 200
     unit: g
@@ -68,7 +68,7 @@ ingredients:
     name: beef shin
     raw: 500 g beef shin or stewing beef
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 whole Scotch bonnet chilli
   - qty: 1
     unit: l
@@ -84,7 +84,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: sprig

@@ -26,7 +26,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 medium cucumber, halved lengthways, seeded, cut into 6 cm batons
   - qty: 2
     name: carrots
@@ -44,13 +44,13 @@ ingredients:
     raw: 2 tbsp sea salt
   - qty: 200
     unit: ml
-    name: white vinegar
+    name: vinegar (white)
     raw: 200 ml white vinegar
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 dried red chillies, soaked in hot water 20 min, drained
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 4
     name: shallots
@@ -74,7 +74,7 @@ ingredients:
     raw: 2 tbsp vegetable oil
   - qty: 200
     unit: ml
-    name: white vinegar
+    name: vinegar (white)
     raw: 200 ml white vinegar
   - qty: 150
     unit: g

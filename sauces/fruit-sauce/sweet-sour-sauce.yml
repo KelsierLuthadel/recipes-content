@@ -15,11 +15,11 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: green peppers
+    name: peppers (green)
     raw: 200 grams green peppers
   - qty: 200
     unit: g
-    name: red peppers
+    name: peppers (red)
     raw: 200 grams red peppers
   - qty: 2
     unit: tbsp
@@ -35,7 +35,7 @@ ingredients:
     raw: 100 grams demerara sugar
   - qty: 100
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 100 ml red wine vinegar
   - qty: 100
     unit: ml

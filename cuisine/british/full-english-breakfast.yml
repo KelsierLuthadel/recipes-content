@@ -28,13 +28,13 @@ ingredients:
     name: rashers back bacon
     raw: 4 rashers back bacon
   - qty: 4
-    name: black pudding
+    name: pudding (black)
     raw: 4 slices black pudding
   - qty: 2
     name: eggs
     raw: 2 large eggs
   - qty: 2
-    name: white bloomer
+    name: bloomer (white)
     raw: 2 thick slices white bloomer or sourdough
   - qty: 2
     name: tomatoes
@@ -59,7 +59,7 @@ ingredients:
     raw: 1 tablespoon unsalted butter
   - name: bacon fat from the rashers
     raw: bacon fat from the rashers
-  - name: black pepper
+  - name: pepper (black)
     raw: black pepper
   - name: hp sauce
     raw: HP sauce or brown sauce

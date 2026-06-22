@@ -34,7 +34,7 @@ ingredients:
     unit: pinch
     name: nutmeg
     raw: Pinch of freshly ground nutmeg
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 250
     unit: g
@@ -60,10 +60,10 @@ ingredients:
     name: salad onions
     raw: 1 bunch salad onions
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 8
-    name: to 9 slices smoked pancetta
+    name: smoked pancetta
     raw: 8 to 9 slices smoked pancetta
   - name: chilli flakes
     raw: Chilli flakes

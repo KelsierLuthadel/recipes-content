@@ -54,10 +54,10 @@ ingredients:
     name: cracked black pepper
     raw: ½ teaspoon coarsely cracked black pepper
   - qty: 2
-    name: "hard boiled eggs : adds richness"
+    name: hard boiled eggs
     raw: "2 hard-boiled eggs : adds richness"
   - qty: 1
-    name: "banana : adds sweet contrast"
+    name: banana
     raw: "1 ripe banana : adds sweet contrast"
   - qty: 30
     unit: g
@@ -65,7 +65,7 @@ ingredients:
     raw: 30 g raisins or chopped dried apricots, sweet variant
   - qty: 50
     unit: g
-    name: green olives
+    name: olives (green)
     raw: 50 g chopped green olives, savoury variant
   - qty: 1
     unit: small handful
@@ -79,7 +79,7 @@ ingredients:
     raw: Feijoada
   - name: picanha
     raw: Picanha or any churrasco
-  - name: white rice + black beans
+  - name: rice + black beans (white)
     raw: White rice + black beans
   - name: roast chicken
     raw: Roast chicken or fish

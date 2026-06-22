@@ -13,7 +13,7 @@ mentions: []
 ingredients:
   - qty: 500
     unit: ml
-    name: black coffee
+    name: coffee (black)
     raw: 500 ml strong hot black coffee
   - qty: 60
     unit: ml

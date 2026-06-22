@@ -76,7 +76,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 4
     unit: tbsp
@@ -89,14 +89,14 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 2
-    name: tomatoes;
+    name: tomatoes
     raw: 2 tins chopped tomatoes; or 1 kg fresh tomatoes
   - qty: 3
     unit: tbsp
     name: tomato paste
     raw: 3 tablespoons tomato paste
   - qty: 4
-    name: chipotle peppers in adobo sauce ; plus 2 tablespoons of the adobo sauce
+    name: chipotle peppers in adobo sauce
     raw: 3-5 chipotle peppers in adobo sauce ; plus 2 tablespoons of the adobo sauce
   - qty: 1
     unit: tbsp
@@ -112,7 +112,7 @@ ingredients:
     raw: 1 teaspoon ground cinnamon
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 teaspoon brown sugar
   - qty: 1.5
     unit: tsp
@@ -120,7 +120,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 400
     unit: ml

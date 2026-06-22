@@ -29,7 +29,7 @@ ingredients:
     name: dill cucumbers
     raw: 5 dill cucumbers , diced
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, very finely chopped
   - qty: 1
     name: dill
@@ -58,7 +58,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - name: dill
     raw: Extra dill

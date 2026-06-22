@@ -37,5 +37,5 @@ ingredients:
     unit: ml
     name: water
     raw: 200 ml water
-  - name: "eggwash: 1 egg yolk mixed with 1 tablespoon milk"
+  - name: eggwash
     raw: "Eggwash: 1 egg yolk mixed with 1 tablespoon milk"

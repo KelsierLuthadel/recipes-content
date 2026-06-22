@@ -70,7 +70,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 300
     unit: g
@@ -80,7 +80,7 @@ ingredients:
     name: radishes
     raw: 6-8 radishes
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - qty: 4
     name: limes

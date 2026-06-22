@@ -43,7 +43,7 @@ ingredients:
     raw: 3 tablespoons garlic and ginger paste
   - name: salt
     raw: Salt
-  - name: red food colouring powder
+  - name: food colouring powder (red)
     raw: Red food colouring powder
   - qty: 210
     unit: g
@@ -78,7 +78,7 @@ ingredients:
     name: paprika
     raw: 1 teaspoon paprika
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 fresh green chillies
   - qty: 3
     unit: tbsp
@@ -94,5 +94,5 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tablespoon freshly ground black pepper

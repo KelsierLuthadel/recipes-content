@@ -19,7 +19,7 @@ mentions:
   - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 3
-    name: red chillies
+    name: chillies (red)
     raw: 3 dried red chillies
   - qty: 6
     unit: tbsp
@@ -35,13 +35,13 @@ ingredients:
     raw: 1 tablespoon fennel seeds
   - qty: 2
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 teaspoons black peppercorns
   - qty: 1
     name: cinnamon stick
     raw: 1 cinnamon stick
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 6
     name: cloves

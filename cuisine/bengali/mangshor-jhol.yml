@@ -67,13 +67,13 @@ ingredients:
     name: cinnamon
     raw: 5 cm piece cinnamon
   - qty: 5
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 5 green cardamom pods
   - qty: 5
     name: cloves
     raw: 5 cloves
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 2
     name: onions
@@ -102,7 +102,7 @@ ingredients:
     name: kashmiri chilli powder
     raw: 1 ½ teaspoons Kashmiri chilli powder
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
     unit: tsp

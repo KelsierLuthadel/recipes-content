@@ -32,7 +32,7 @@ ingredients:
     name: coriander
     raw: 60 g fresh coriander
   - qty: 2.5
-    name: green chillies
+    name: chillies (green)
     raw: 2-3 green chillies
   - qty: 2
     name: garlic
@@ -55,7 +55,7 @@ ingredients:
     raw: 1 teaspoon Chaat Masala
   - qty: 0.5
     unit: tsp
-    name: black salt
+    name: salt (black)
     raw: ½ teaspoon black salt
   - qty: 1
     unit: tsp

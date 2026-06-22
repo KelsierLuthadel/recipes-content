@@ -29,10 +29,10 @@ ingredients:
     name: star anise
     raw: 2 star anise
   - qty: 1
-    name: long strip of unwaxed lemon peel
+    name: strip of unwaxed lemon peel
     raw: 1 long strip of unwaxed lemon peel
   - qty: 3
-    name: to 4 tablespoons soft brown sugar
+    name: soft brown sugar
     raw: 3 to 4 tablespoons soft brown sugar
   - qty: 1
     name: ginger
@@ -40,12 +40,12 @@ ingredients:
   - qty: 2
     name: cardamom pods
     raw: 2 cardamom pods, lightly crushed
-  - name: brown rum
+  - name: rum (brown)
     raw: Brown rum, Amaretto, or kirsch, 15 ml per mug, added at serving
   - qty: 6
     name: heatproof mugs
     raw: 6 heatproof mugs
-  - name: orange slices
+  - name: slices (orange)
     raw: Orange slices to garnish
   - name: cinnamon stick
     raw: A cinnamon stick per mug

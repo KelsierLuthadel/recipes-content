@@ -68,7 +68,7 @@ ingredients:
     raw: 1 teaspoon ground cardamom
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -89,14 +89,14 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 3
-    name: tomatoes ;
+    name: tomatoes
     raw: 3 medium tomatoes ; or 1 can of chopped tomatoes
   - qty: 3
     unit: tbsp
     name: tomato paste
     raw: 3 tablespoons tomato paste
   - qty: 2
-    name: black limes
+    name: limes (black)
     raw: 2 dried black limes
   - qty: 4
     name: cardamom pods
@@ -136,7 +136,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1.2
     unit: l

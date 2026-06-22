@@ -45,7 +45,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet pepper, whole
   - qty: 2
     unit: tbsp
@@ -69,5 +69,5 @@ ingredients:
     raw: 60 ml dark rum
   - name: lime
     raw: Juice of 1 lime
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

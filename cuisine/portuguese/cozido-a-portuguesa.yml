@@ -71,7 +71,7 @@ ingredients:
     name: sweet potato
     raw: 1 sweet potato
   - qty: 1
-    name: head savoy cabbage
+    name: savoy cabbage
     raw: 1 large head Savoy cabbage
   - qty: 2
     name: onions
@@ -84,7 +84,7 @@ ingredients:
     raw: 4 bay leaves
   - qty: 2
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 tablespoons whole black peppercorns
   - qty: 2
     unit: tbsp
@@ -122,5 +122,5 @@ ingredients:
     raw: Pickled chillies
   - name: crusty portuguese bread
     raw: Crusty Portuguese bread
-  - name: red wine
+  - name: wine (red)
     raw: Red wine

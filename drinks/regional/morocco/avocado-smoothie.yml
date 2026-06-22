@@ -19,7 +19,7 @@ ingredients:
     name: milk
     raw: 600 ml cold whole milk
   - qty: 6
-    name: to 8 tablespoons caster sugar
+    name: caster sugar
     raw: 6 to 8 tablespoons caster sugar, to taste
   - qty: 2
     unit: tbsp
@@ -30,7 +30,7 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: to 2 teaspoons orange blossom water
+    name: blossom water (orange)
     raw: 1 to 2 teaspoons orange blossom water
   - qty: 2
     unit: tbsp

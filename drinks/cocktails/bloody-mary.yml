@@ -46,7 +46,7 @@ ingredients:
     name: worcestershire sauce
     raw: 1 teaspoon Worcestershire sauce
   - qty: 4
-    name: to 6 dashes tabasco
+    name: tabasco
     raw: 4 to 6 dashes Tabasco
   - qty: 0.5
     unit: tsp
@@ -58,7 +58,7 @@ ingredients:
     raw: ¼ teaspoon celery salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon freshly ground black pepper
   - qty: 1
     unit: pinch
@@ -67,12 +67,12 @@ ingredients:
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
   - qty: 1
-    name: long celery stalk
+    name: celery
     raw: 1 long celery stalk
   - qty: 1
     name: lemon
     raw: 1 wedge of lemon
   - name: pickled green olives on a cocktail stick
     raw: Pickled green olives on a cocktail stick
-  - name: "anything else: bacon"
+  - name: anything else
     raw: "Anything else: bacon, prawns, pickled jalapeños"

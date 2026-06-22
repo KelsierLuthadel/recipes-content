@@ -45,7 +45,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tbsp freshly ground black pepper
   - qty: 800
     unit: g
@@ -91,7 +91,7 @@ ingredients:
     name: ginger
     raw: 7 ½ cm piece ginger, peeled and julienned
   - qty: 2
-    name: green bullet chillies
+    name: bullet chillies (green)
     raw: 2 fresh green bullet chillies, roughly chopped
   - qty: 1
     unit: tsp

@@ -23,7 +23,7 @@ ingredients:
     raw: 200 g Caerphilly cheese, grated
   - qty: 150
     unit: g
-    name: white breadcrumbs
+    name: breadcrumbs (white)
     raw: 150 g fresh white breadcrumbs, plus 100 g for coating
   - qty: 2
     name: leeks
@@ -47,7 +47,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 50
     unit: g

@@ -20,7 +20,7 @@ ingredients:
     name: bulgarian yoghurt
     raw: 600 g thick Bulgarian yoghurt
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 large cucumber , peeled and grated coarse
   - qty: 80
     unit: g
@@ -38,7 +38,7 @@ ingredients:
     raw: 3 tbsp sunflower oil
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tbsp red wine vinegar
   - qty: 300
     unit: ml
@@ -48,5 +48,5 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: 1 tsp fine sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste

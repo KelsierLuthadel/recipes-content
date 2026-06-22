@@ -50,7 +50,7 @@ ingredients:
     name: sheets rice paper
     raw: 12 sheets rice paper
   - qty: 1
-    name: head butter lettuce
+    name: butter lettuce
     raw: 1 small head butter lettuce
   - qty: 100
     unit: g
@@ -60,7 +60,7 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
     unit: large handful
@@ -72,7 +72,7 @@ ingredients:
     raw: A large handful coriander leaves
   - qty: 1
     unit: large handful
-    name: thai basil leaves
+    name: thai basil
     raw: A large handful Thai basil leaves
   - qty: 1
     unit: handful
@@ -92,7 +92,7 @@ ingredients:
     raw: 2 tablespoons rice vinegar
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     name: garlic

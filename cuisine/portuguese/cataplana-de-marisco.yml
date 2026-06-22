@@ -37,10 +37,10 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 150
     unit: g
@@ -58,10 +58,10 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 fresh red chilli
   - qty: 4
-    name: "tomatoes :"
+    name: tomatoes
     raw: "4 ripe tomatoes : OR 1 tin chopped tomatoes"
   - qty: 250
     unit: ml
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 500
     unit: g

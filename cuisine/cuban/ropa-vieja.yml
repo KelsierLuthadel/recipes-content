@@ -44,7 +44,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tablespoon whole black peppercorns
   - qty: 1
     unit: tbsp
@@ -66,10 +66,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 2
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 2 large green bell peppers
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 large red bell pepper
   - qty: 8
     name: garlic
@@ -111,7 +111,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     name: bay leaves
@@ -141,7 +141,7 @@ ingredients:
     raw: 2 tablespoons fresh parsley
   - name: plain white rice
     raw: Plain white rice
-  - name: black beans
+  - name: beans (black)
     raw: Black beans
   - name: sweet plantains
     raw: Sweet plantains

@@ -66,7 +66,7 @@ ingredients:
     name: ginger
     raw: 2 cm ginger
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 0.5
     unit: tsp
@@ -78,7 +78,7 @@ ingredients:
     raw: ½ teaspoon ground cumin
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon ground white pepper
   - qty: 80
     unit: g
@@ -104,10 +104,10 @@ ingredients:
     name: neutral oil
     raw: 750 ml neutral oil
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
-    name: long green chillies
+    name: chillies (green)
     raw: 2 long green chillies
   - name: lime wedges
     raw: Lime wedges

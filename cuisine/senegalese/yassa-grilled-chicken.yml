@@ -30,7 +30,7 @@ ingredients:
     name: chicken thighs and drumsticks
     raw: 1.2 kg bone-in chicken thighs and drumsticks
   - qty: 4
-    name: yellow onions
+    name: onions (yellow)
     raw: 4 yellow onions
   - qty: 120
     unit: ml
@@ -48,7 +48,7 @@ ingredients:
     name: neutral oil
     raw: 30 ml neutral oil
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet chilli
   - qty: 2
     name: bay leaves
@@ -63,11 +63,11 @@ ingredients:
     raw: 2 tsp sweet paprika
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp ground black pepper
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 tsp ground white pepper
   - qty: 0.5
     unit: tsp

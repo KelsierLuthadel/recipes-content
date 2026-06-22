@@ -69,7 +69,7 @@ ingredients:
     raw: Vegetable oil for frying
   - qty: 400
     unit: g
-    name: chickpeas ;
+    name: chickpeas
     raw: 400 g dried chickpeas ; or 2 large cans cooked chickpeas
   - qty: 2
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper
   - qty: 1
     unit: tbsp
@@ -126,7 +126,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper
   - qty: 3
     unit: tbsp
@@ -146,14 +146,14 @@ ingredients:
     raw: 60 g tamarind paste
   - qty: 40
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 40 g brown sugar
   - qty: 80
     unit: ml
     name: water
     raw: 80 ml water
   - qty: 0.5
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: ½ small Scotch bonnet pepper
   - qty: 0.5
     unit: tsp
@@ -171,14 +171,14 @@ ingredients:
     name: lime juice
     raw: 1 tablespoon fresh lime juice
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper
   - qty: 0.25
     unit: tsp
     name: cumin
     raw: ¼ teaspoon ground cumin
   - qty: 4
-    name: scotch bonnet peppers
+    name: scotch bonnet chillies
     raw: 4 Scotch bonnet peppers
   - qty: 6
     name: garlic
@@ -189,7 +189,7 @@ ingredients:
     raw: 4 tablespoons fresh lime juice
   - qty: 100
     unit: ml
-    name: white vinegar
+    name: vinegar (white)
     raw: 100 ml white vinegar
   - qty: 1
     unit: tsp

@@ -35,7 +35,7 @@ ingredients:
     raw: 4 tbsp date syrup
   - qty: 2
     unit: tbsp
-    name: black treacle
+    name: treacle (black)
     raw: 2 tbsp black treacle
   - qty: 3
     name: garlic
@@ -53,7 +53,7 @@ ingredients:
     raw: 2 tsp ground cumin
   - qty: 0.5
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: ½ tsp black mustard seeds
   - qty: 4
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     raw: ½ lemon
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 1
     unit: tsp

@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 200 g yellow split peas
   - qty: 1
     unit: tsp
@@ -38,7 +38,7 @@ ingredients:
     raw: ¾ tsp salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp freshly ground black pepper
   - qty: 400
     unit: g

@@ -68,7 +68,7 @@ ingredients:
     name: ginger paste
     raw: 1 tsp ginger paste
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 190
     unit: ml
@@ -79,10 +79,10 @@ ingredients:
     name: mustard oil
     raw: 500 ml mustard oil
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
     name: lime

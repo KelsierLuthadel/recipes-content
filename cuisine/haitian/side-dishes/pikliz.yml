@@ -28,16 +28,16 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: green cabbage
+    name: cabbage (green)
     raw: 600 g green cabbage
   - qty: 2
     name: carrots
     raw: 2 medium carrots
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 4
     name: spring onions
@@ -49,7 +49,7 @@ ingredients:
     name: ginger
     raw: 1 piece fresh ginger
   - qty: 4
-    name: scotch bonnet chillies ; use fewer for milder
+    name: scotch bonnet chillies
     raw: 3-5 fresh Scotch bonnet chillies ; use fewer for milder, more for serious heat
   - qty: 1
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 tablespoon fine sea salt
   - qty: 750
     unit: ml
-    name: white distilled vinegar
+    name: distilled vinegar (white)
     raw: 750 ml white distilled vinegar
   - qty: 2
     unit: tbsp
@@ -69,7 +69,7 @@ ingredients:
     raw: 2 tablespoons sour orange juice
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 6
     name: cloves

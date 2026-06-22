@@ -15,7 +15,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 300
     unit: ml
@@ -30,7 +30,7 @@ ingredients:
     name: cumin
     raw: ¼ teaspoon ground cumin
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 fresh green chilli
   - qty: 1
     unit: pinch

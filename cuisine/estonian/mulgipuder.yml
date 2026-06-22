@@ -39,7 +39,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1.5 tsp salt, plus more to taste
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 200
     unit: g
@@ -48,5 +48,5 @@ ingredients:
   - qty: 2
     name: onions
     raw: 2 onions, finely chopped
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

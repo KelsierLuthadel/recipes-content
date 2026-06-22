@@ -22,7 +22,7 @@ ingredients:
     name: water
     raw: 1 litre cold water
   - qty: 100
-    name: to 150 g caster sugar
+    name: caster sugar
     raw: 100 to 150 g caster sugar, to taste
   - name: 5 cm strip of unwaxed lemon peel
     raw: A 5 cm strip of unwaxed lemon peel
@@ -38,5 +38,5 @@ ingredients:
   - qty: 4
     name: tall glasses
     raw: 4 tall glasses, chilled
-  - name: "optional: fartons for dipping"
+  - name: optional
     raw: "Optional: fartons for dipping"

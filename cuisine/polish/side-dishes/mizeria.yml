@@ -27,7 +27,7 @@ ingredients:
     raw: 200 g full-fat sour cream
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
     name: garlic
@@ -40,7 +40,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: ½ teaspoon fine salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 3
     unit: tbsp

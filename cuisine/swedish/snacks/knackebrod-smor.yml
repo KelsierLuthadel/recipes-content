@@ -35,7 +35,7 @@ ingredients:
     raw: 1 teaspoon caraway seeds OR whole cumin seeds
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: tbsp
@@ -53,11 +53,11 @@ ingredients:
     raw: 2 hard-boiled eggs
   - name: pickled herring fillets
     raw: Pickled herring fillets
-  - name: red onion
+  - name: onion (red)
     raw: Sliced raw red onion
   - name: liver pate
     raw: Liver pâté
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber
   - name: swedish coffee for breakfast / fika
     raw: Strong Swedish coffee for breakfast / fika

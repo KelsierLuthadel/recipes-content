@@ -44,7 +44,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - qty: 2
     name: star anise
@@ -69,10 +69,10 @@ ingredients:
     raw: 12 spring onions
   - qty: 300
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 300 grams green beans
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 400
     unit: ml

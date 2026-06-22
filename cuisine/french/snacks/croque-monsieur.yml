@@ -38,7 +38,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 8
-    name: white bread
+    name: bread (white)
     raw: 8 thick slices good white bread
   - qty: 30
     unit: g

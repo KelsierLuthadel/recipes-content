@@ -35,7 +35,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1
     name: coriander
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 tablespoon dried oregano
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1.5
     unit: tsp
@@ -79,7 +79,7 @@ ingredients:
     name: chicken stock
     raw: 600 ml chicken stock
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 4
     name: garlic
@@ -93,9 +93,9 @@ ingredients:
     raw: Sliced radish
   - name: crumbled queso fresco
     raw: Crumbled queso fresco
-  - name: white onion
+  - name: onion (white)
     raw: Diced white onion
   - name: coriander
     raw: Coriander
-  - name: white rice
+  - name: rice (white)
     raw: White rice

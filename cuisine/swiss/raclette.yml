@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: raclette cheese ; substitute gruyere
+    name: raclette cheese
     raw: 1.5 kg raclette cheese ; substitute Gruyère or another semi-firm melting cheese only as a last resort
   - qty: 200
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     unit: g
     name: pickled gherkins
     raw: 100 g pickled gherkins
-  - name: black pepper
+  - name: pepper (black)
     raw: A small dish of crushed black pepper
   - name: paprika
     raw: A small dish of paprika

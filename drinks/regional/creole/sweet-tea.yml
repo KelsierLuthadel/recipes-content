@@ -14,14 +14,14 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 6
-    name: black tea bags
+    name: tea bags (black)
     raw: 6 black tea bags
   - qty: 2
     unit: l
     name: water
     raw: 2 litres cold water
   - qty: 200
-    name: to 250 g caster sugar
+    name: caster sugar
     raw: 200 to 250 g caster sugar
   - qty: 1
     unit: small pinch
@@ -35,7 +35,7 @@ ingredients:
   - qty: 8
     name: tall glasses
     raw: 8 tall glasses, chilled
-  - name: "optional: sprigs of fresh mint"
+  - name: optional
     raw: "Optional: sprigs of fresh mint"
-  - name: "optional: extra lemon wedges on a small plate"
+  - name: optional
     raw: "Optional: extra lemon wedges on a small plate"

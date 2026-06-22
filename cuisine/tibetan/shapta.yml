@@ -48,7 +48,7 @@ ingredients:
     raw: 1 teaspoon toasted sesame oil
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 3
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     name: ginger
     raw: 4 cm fresh ginger
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 fresh green chillies
   - qty: 1
     name: tomato

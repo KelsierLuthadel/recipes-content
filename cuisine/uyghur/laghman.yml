@@ -57,7 +57,7 @@ ingredients:
     name: garlic
     raw: ½ bulb garlic
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 fresh red chilli
   - qty: 3
     name: tomatoes
@@ -66,13 +66,13 @@ ingredients:
     name: tomatoes
     raw: 3 fresh tomatoes
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 2
-    name: green peppers
+    name: peppers (green)
     raw: 2 mild green peppers
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper
   - qty: 14
     name: yardlong beans
@@ -83,11 +83,11 @@ ingredients:
     raw: 7 g salt
   - qty: 1
     unit: g
-    name: black pepper
+    name: pepper (black)
     raw: 1 g ground black pepper
   - qty: 2
     unit: g
-    name: white pepper
+    name: pepper (white)
     raw: 2 g ground white pepper
   - qty: 3.5
     unit: g

@@ -16,7 +16,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: red cabbage
+    name: cabbage (red)
     raw: 1 large red cabbage , outer leaves removed, cored and finely shredded
   - qty: 1
     name: onion
@@ -30,11 +30,11 @@ ingredients:
     raw: 50 g unsalted butter
   - qty: 150
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 150 ml red wine vinegar
   - qty: 150
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 150 ml red wine
   - qty: 100
     unit: g
@@ -60,5 +60,5 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: 1 tsp fine sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: A grind of black pepper

@@ -36,7 +36,7 @@ ingredients:
     raw: 2 teaspoons baking powder
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon black pepper
   - qty: 0.5
     unit: tsp
@@ -56,7 +56,7 @@ ingredients:
     name: thyme leaves
     raw: 1 teaspoon fresh thyme leaves
   - qty: 0.5
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: ½ scotch bonnet chilli, deseeded and finely chopped
   - qty: 280
     unit: ml

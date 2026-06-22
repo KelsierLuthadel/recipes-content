@@ -36,14 +36,14 @@ ingredients:
     raw: 3 tablespoons extra-virgin olive oil
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tablespoon red wine vinegar
   - qty: 1
     name: basil
     raw: 1 small bunch fresh basil
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 8
     name: crusty country bread
@@ -56,7 +56,7 @@ ingredients:
     unit: tsp
     name: flaky sea salt
     raw: 1 teaspoon flaky sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 50
     unit: g

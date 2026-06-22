@@ -72,7 +72,7 @@ ingredients:
     raw: 1 tablespoon palm sugar
   - qty: 1
     unit: tsp
-    name: white peppercorns
+    name: peppercorns (white)
     raw: 1 teaspoon white peppercorns
   - qty: 300
     unit: g
@@ -130,7 +130,7 @@ ingredients:
     name: holy basil
     raw: A small bunch holy basil OR Thai basil
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 fresh red chillies, sliced
   - qty: 2
     name: shallots

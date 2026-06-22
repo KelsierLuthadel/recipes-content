@@ -24,10 +24,10 @@ ingredients:
     name: tomatoes
     raw: 4 large ripe tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 large cucumber
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 medium red onion
   - qty: 2
     name: avocados
@@ -48,7 +48,7 @@ ingredients:
     raw: 1 teaspoon dried oregano
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: small handful

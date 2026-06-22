@@ -29,11 +29,11 @@ ingredients:
     raw: 20 ml cognac
   - qty: 3
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 3 tablespoons red wine vinegar
   - qty: 100
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 100 ml red wine
   - qty: 300
     unit: ml

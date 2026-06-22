@@ -30,7 +30,7 @@ ingredients:
     raw: 1 tablespoon hot sauce
   - qty: 200
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 200 g coarse yellow cornmeal
   - qty: 100
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying

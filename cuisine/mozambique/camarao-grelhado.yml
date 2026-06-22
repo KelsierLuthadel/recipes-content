@@ -33,7 +33,7 @@ ingredients:
     name: garlic
     raw: 8 garlic cloves
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 fresh red chillies
   - qty: 4
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

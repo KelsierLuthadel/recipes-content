@@ -34,7 +34,7 @@ ingredients:
     raw: 5 tablespoons soy sauce
   - qty: 3
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 3 tablespoons brown sugar
   - qty: 3
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper
   - qty: 200
     unit: g

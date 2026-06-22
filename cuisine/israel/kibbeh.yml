@@ -34,7 +34,7 @@ ingredients:
     name: smooth bulgur wheat
     raw: 185 g smooth bulgur wheat
   - qty: 1
-    name: brown onion
+    name: onion (brown)
     raw: 1 medium brown onion
   - qty: 1
     unit: tsp
@@ -44,7 +44,7 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: ¾ teaspoon fine sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: A generous grind of black pepper
   - qty: 2
     unit: tbsp

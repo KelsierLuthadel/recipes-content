@@ -23,13 +23,13 @@ ingredients:
   - qty: 4
     name: shanklish balls
     raw: 4 shanklish balls
-  - name: "or substitute: 200 g feta cheese"
+  - name: or substitute
     raw: "OR substitute: 200 g feta cheese, 100 g labneh, 2 tablespoons za'atar, 1 teaspoon dried mint, 1 teaspoon ground cumin, ¼ teaspoon dried chilli flakes"
   - qty: 2
     name: tomatoes
     raw: 2 ripe tomatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 3
     unit: tbsp

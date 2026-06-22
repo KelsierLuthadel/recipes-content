@@ -33,7 +33,7 @@ ingredients:
     raw: 200 g new potatoes
   - qty: 200
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 200 g green beans
   - qty: 200
     unit: g
@@ -55,7 +55,7 @@ ingredients:
     name: eggs
     raw: 4 eggs
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ cucumber
   - qty: 50
     unit: g
@@ -69,7 +69,7 @@ ingredients:
     name: garlic
     raw: 3 garlic cloves
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 long red chillies
   - qty: 1
     name: ginger
@@ -88,7 +88,7 @@ ingredients:
     raw: 1 tablespoon tamarind paste
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tablespoons brown sugar
   - qty: 1
     name: lime

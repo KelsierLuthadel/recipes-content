@@ -45,7 +45,7 @@ ingredients:
     raw: 2 tablespoons apple cider vinegar
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tbsp
@@ -72,7 +72,7 @@ ingredients:
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 4
-    name: quality bratwurst sausages
+    name: bratwurst sausages
     raw: 4 quality bratwurst sausages
   - qty: 1
     unit: tbsp

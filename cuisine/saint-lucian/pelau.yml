@@ -63,7 +63,7 @@ ingredients:
     name: onion
     raw: 1 large onion, finely chopped
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 small scotch bonnet, finely chopped
   - qty: 2
     unit: tbsp
@@ -74,7 +74,7 @@ ingredients:
     name: basmati
     raw: 400 g basmati or long-grain rice, rinsed
   - qty: 1
-    name: green pigeon peas
+    name: pigeon peas (green)
     raw: 1 tin green pigeon peas , drained
   - qty: 400
     unit: ml

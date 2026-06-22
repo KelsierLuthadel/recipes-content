@@ -19,17 +19,17 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: black beans
+    name: beans (black)
     raw: 2 tins black beans
   - qty: 300
     unit: g
     name: sweet corn kernels
     raw: 300 g sweet corn kernels
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 large red bell pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 medium red onion
   - qty: 2
     name: jalapenos
@@ -70,7 +70,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: tsp

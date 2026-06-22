@@ -32,7 +32,7 @@ ingredients:
     name: oil
     raw: 3 tbsp oil
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods
   - qty: 1
     name: indian bay leaf
@@ -42,7 +42,7 @@ ingredients:
     name: garlic and ginger paste
     raw: 2 tbsp Garlic and Ginger paste
   - qty: 2
-    name: green bullet chillies
+    name: bullet chillies (green)
     raw: 2 fresh green Bullet Chillies
   - qty: 2
     name: scotch bonnet chillies
@@ -76,7 +76,7 @@ ingredients:
     raw: 8 pieces of pre-cooked Chicken or pre-cooked Lamb
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 Tbsp white wine vinegar
   - qty: 1
     unit: tsp

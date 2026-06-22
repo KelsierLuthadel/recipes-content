@@ -23,11 +23,11 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: green cabbage
+    name: cabbage (green)
     raw: 500 g green cabbage, very finely shredded
   - qty: 200
     unit: g
-    name: red cabbage
+    name: cabbage (red)
     raw: 200 g red cabbage, very finely shredded
   - qty: 2
     name: carrots

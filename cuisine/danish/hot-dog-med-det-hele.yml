@@ -25,14 +25,14 @@ mentions:
   - base-ingredients/curry-powder/bir-curry-powder
 ingredients:
   - qty: 4
-    name: long red wienerwurst sausages
+    name: wienerwurst sausages (red)
     raw: 4 long red wienerwurst sausages
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 4
-    name: long oval danish pølsebrød buns
+    name: oval danish pølsebrød buns
     raw: 4 long oval Danish pølsebrød buns
   - qty: 200
     unit: g
@@ -56,7 +56,7 @@ ingredients:
     raw: 2 tablespoons curry powder
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 1
     unit: tsp
@@ -73,7 +73,7 @@ ingredients:
     name: sea salt
     raw: ½ teaspoon fine sea salt
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 medium white onion
   - qty: 8
     unit: tbsp
@@ -82,7 +82,7 @@ ingredients:
   - qty: 16
     name: sweet pickle rounds
     raw: 16 sliced sweet pickle rounds
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: heinz ketchup
     raw: Heinz ketchup

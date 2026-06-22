@@ -32,14 +32,14 @@ ingredients:
     name: mustard oil
     raw: 2 tbsp mustard oil
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 15
     unit: g
     name: ginger
     raw: 15 g ginger
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 0.5
     unit: tsp
@@ -114,10 +114,10 @@ ingredients:
     name: mustard oil
     raw: 500 ml mustard oil
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - name: kasundi mustard
     raw: Kasundi mustard

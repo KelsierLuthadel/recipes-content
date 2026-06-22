@@ -36,7 +36,7 @@ ingredients:
     name: tomatoes
     raw: 2 ripe tomatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 30
     unit: g
@@ -59,7 +59,7 @@ ingredients:
     raw: 3 tablespoons olive oil
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tablespoons red-wine vinegar
   - qty: 1
     unit: tsp

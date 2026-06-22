@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: salt cod ; desalted
+    name: salt cod
     raw: 600 g salt cod ; desalted
   - qty: 1
     unit: kg
@@ -59,7 +59,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 100
     unit: ml

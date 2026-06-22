@@ -40,5 +40,5 @@ ingredients:
     unit: tbsp
     name: pistachios
     raw: 2 tablespoons crushed pistachios
-  - name: "optional: a thin slice of grated nutmeg"
+  - name: optional
     raw: "Optional: a thin slice of grated nutmeg"

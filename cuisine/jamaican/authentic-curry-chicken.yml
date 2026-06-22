@@ -65,10 +65,10 @@ ingredients:
     name: vegetable oil
     raw: 2-3 tablespoons vegetable oil
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 yellow onion
   - qty: 4
     name: spring onions
@@ -81,7 +81,7 @@ ingredients:
     name: thyme
     raw: 6 sprigs fresh thyme
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 480
     unit: ml
@@ -93,7 +93,7 @@ ingredients:
   - qty: 1
     name: russet potato
     raw: 1 russet potato
-  - name: white rice
+  - name: rice (white)
     raw: White rice, to serve
   - name: spring onions
     raw: Spring onions, to garnish

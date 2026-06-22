@@ -55,7 +55,7 @@ ingredients:
     name: eggplant
     raw: 1 small eggplant, cubed
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 whole Scotch bonnet pepper
   - qty: 2
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 tbsp vegetable oil
   - qty: 250
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 250 g fine yellow cornmeal
   - qty: 200
     unit: g

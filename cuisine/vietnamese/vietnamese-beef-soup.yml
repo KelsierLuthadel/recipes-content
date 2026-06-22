@@ -28,7 +28,7 @@ ingredients:
     name: onion
     raw: ½ onion
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1.5
     unit: tbsp
@@ -42,7 +42,7 @@ ingredients:
     raw: 1 cinnamon stick
   - qty: 1
     unit: pinch
-    name: white pepper
+    name: pepper (white)
     raw: pinch ground white pepper
   - qty: 1.5
     unit: l
@@ -68,7 +68,7 @@ ingredients:
     name: bean sprouts
     raw: 90 grams bean sprouts
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - name: lemon wedges
     raw: lemon wedges

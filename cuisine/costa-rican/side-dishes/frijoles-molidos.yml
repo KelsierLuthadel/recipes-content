@@ -19,17 +19,17 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 500 g dried black beans, soaked overnight
   - qty: 2.5
     unit: l
     name: water
     raw: 2.5 litres water
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion, halved
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper, halved and seeded
   - qty: 4
     name: garlic
@@ -53,7 +53,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tbsp vegetable oil
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion, finely diced
   - qty: 3
     name: garlic

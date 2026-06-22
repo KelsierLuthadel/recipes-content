@@ -24,7 +24,7 @@ ingredients:
     name: hass avocados
     raw: 4 large ripe Hass avocados
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - qty: 2
     name: jalapenos
@@ -43,7 +43,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: tsp

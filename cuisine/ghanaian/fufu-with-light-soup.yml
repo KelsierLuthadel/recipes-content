@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: green plantains
+    name: plantains (green)
     raw: 2 large green plantains, peeled and chopped
   - qty: 400
     unit: g
@@ -45,10 +45,10 @@ ingredients:
     name: tomatoes
     raw: 4 ripe tomatoes
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 2
-    name: scotch bonnets
+    name: scotch bonnet chillies
     raw: 2 scotch bonnets
   - qty: 4
     name: ginger

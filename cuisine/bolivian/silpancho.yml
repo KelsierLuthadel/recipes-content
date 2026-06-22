@@ -34,7 +34,7 @@ ingredients:
     raw: 4 tbsp vegetable oil
   - qty: 300
     unit: g
-    name: white rice
+    name: rice (white)
     raw: 300 g white rice
   - qty: 4
     name: waxy potatoes
@@ -52,14 +52,14 @@ ingredients:
     name: tomatoes
     raw: 2 large tomatoes, finely diced
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion, finely diced
   - qty: 1
     name: locoto chilli
     raw: 1 locoto chilli , finely chopped
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 1
     unit: tbsp

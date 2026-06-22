@@ -61,7 +61,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 fresh green chillies
   - qty: 1
     unit: tsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tbsp
@@ -101,5 +101,5 @@ ingredients:
     raw: Butter tea or sweet milky chai
   - name: coriander
     raw: Fresh coriander leaves
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber

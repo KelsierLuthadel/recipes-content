@@ -16,13 +16,13 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black eyed beans
+    name: eyed beans (black)
     raw: 300 g dried black-eyed beans
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet chilli
   - qty: 100
     unit: ml
@@ -34,7 +34,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 1
     unit: l

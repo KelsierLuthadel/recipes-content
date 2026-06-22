@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 250 g yellow split peas
   - qty: 1.4
     unit: l
@@ -59,7 +59,7 @@ ingredients:
     name: fish sauce
     raw: 2 tablespoons fish sauce
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 12
     name: burmese style samusas
@@ -85,7 +85,7 @@ ingredients:
     name: turmeric
     raw: ¼ teaspoon ground turmeric
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
     unit: small handful

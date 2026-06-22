@@ -42,9 +42,9 @@ ingredients:
     unit: tsp
     name: cinnamon
     raw: ½ teaspoon ground cinnamon
-  - name: "option a : 200 g ratafia / amaretti biscuits"
+  - name: option a
     raw: "Option A : 200 g ratafia / amaretti biscuits OR Danish makroner , coarsely crushed"
-  - name: "option b : 200 g coarse breadcrumbs from day old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon"
+  - name: option b
     raw: "Option B : 200 g coarse breadcrumbs from day-old white bread + 50g butter + 50g brown sugar + 1 teaspoon ground cinnamon, all toasted in a dry pan till deeply golden and crisp"
   - qty: 500
     unit: ml

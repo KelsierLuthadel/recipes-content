@@ -65,7 +65,7 @@ ingredients:
     name: salt
     raw: 1 tablespoon salt
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies
   - qty: 100
     unit: ml
@@ -96,10 +96,10 @@ ingredients:
     name: salt
     raw: 1 tablespoon salt
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 2
-    name: black cardamom pods
+    name: cardamom pods (black)
     raw: 2 black cardamom pods
   - qty: 1
     unit: stick

@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: white corn kernels
+    name: corn kernels (white)
     raw: 1 kg fresh white corn kernels
   - qty: 3
     name: onions
@@ -43,7 +43,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 50
     unit: g

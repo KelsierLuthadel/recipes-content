@@ -63,11 +63,11 @@ ingredients:
     raw: ½ teaspoon sea salt
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 150
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 150 ml red wine
   - qty: 300
     unit: g
@@ -96,5 +96,5 @@ ingredients:
     name: cheddar cheese
     raw: 50 grams strong cheddar cheese
   - qty: 1
-    name: to 2 jalapeno chillies
+    name: jalapeno chillies
     raw: 1 to 2 jalapeño chillies

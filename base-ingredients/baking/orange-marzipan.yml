@@ -40,5 +40,5 @@ ingredients:
     raw: 1 egg yolk
   - name: icing sugar
     raw: Icing sugar
-  - name: "optional: marmalade"
+  - name: optional
     raw: "Optional: marmalade"

@@ -15,7 +15,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: ml
-    name: black coffee
+    name: coffee (black)
     raw: 200 ml strong hot black coffee
   - qty: 35
     unit: ml
@@ -25,7 +25,7 @@ ingredients:
     name: sugar cube
     raw: 1 small sugar cube
   - qty: 1
-    name: orange peel
+    name: peel (orange)
     raw: 1 small piece of orange peel
   - qty: 1
     unit: pinch

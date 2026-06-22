@@ -31,7 +31,7 @@ ingredients:
     name: pork shoulder
     raw: 1.2 kg pork shoulder
   - qty: 8
-    name: new mexico red chillies ; stems and seeds removed
+    name: new mexico red chillies
     raw: 8 dried New Mexico red chillies ; stems and seeds removed
   - qty: 500
     unit: ml
@@ -67,7 +67,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 4
     unit: tbsp

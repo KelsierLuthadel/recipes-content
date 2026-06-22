@@ -48,7 +48,7 @@ ingredients:
     name: ginger
     raw: 25 g fresh ginger
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 4
     unit: tbsp
@@ -60,16 +60,16 @@ ingredients:
     raw: 1 teaspoon cumin seeds
   - qty: 0.5
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: ½ teaspoon black mustard seeds
   - qty: 6
     name: garlic
     raw: 6 garlic cloves
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 0.5
     unit: tsp
@@ -91,5 +91,5 @@ ingredients:
     raw: ½ lemon
   - name: steamed basmati rice
     raw: Steamed basmati rice
-  - name: red onion
+  - name: onion (red)
     raw: A dish of sliced red onion

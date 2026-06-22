@@ -32,7 +32,7 @@ ingredients:
     unit: g
     name: melting cheese
     raw: 80 g melting cheese
-  - name: "optional filling :"
+  - name: optional filling
     raw: "Optional filling :"
   - qty: 1
     name: jalapeno

@@ -51,7 +51,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 0.25
     unit: tsp
@@ -69,7 +69,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 4
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 4 black peppercorns
   - qty: 2
     name: bay leaves
@@ -119,7 +119,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 400
     unit: g

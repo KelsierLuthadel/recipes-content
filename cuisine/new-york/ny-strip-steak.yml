@@ -28,7 +28,7 @@ ingredients:
     raw: 2 tablespoons fine sea salt
   - qty: 2
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 2 teaspoons coarse ground black pepper
   - qty: 4
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     raw: 4 sprigs fresh thyme
   - name: maldon sea salt
     raw: Maldon sea salt for finishing
-  - name: black pepper
+  - name: pepper (black)
     raw: Fresh ground black pepper
   - name: hash brown potatoes
     raw: Hash brown potatoes
@@ -61,5 +61,5 @@ ingredients:
     raw: Onion rings
   - name: bearnaise sauce
     raw: Béarnaise sauce
-  - name: red wine
+  - name: wine (red)
     raw: Red wine

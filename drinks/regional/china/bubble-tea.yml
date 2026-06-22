@@ -12,7 +12,7 @@ mentions:
 ingredients:
   - qty: 80
     unit: g
-    name: black tapioca pearls
+    name: tapioca pearls (black)
     raw: 80 g dried black tapioca pearls
   - qty: 1
     unit: l
@@ -20,7 +20,7 @@ ingredients:
     raw: 1 litre boiling water
   - qty: 4
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 4 tablespoons brown sugar
   - qty: 400
     unit: ml
@@ -28,11 +28,11 @@ ingredients:
     raw: 400 ml just-boiled water
   - qty: 2
     unit: tbsp
-    name: black tea
+    name: tea (black)
     raw: 2 tablespoons strong black tea
   - qty: 4
     unit: tbsp
-    name: brown sugar syrup
+    name: sugar syrup (brown)
     raw: 4 tablespoons brown sugar syrup
   - qty: 200
     unit: ml

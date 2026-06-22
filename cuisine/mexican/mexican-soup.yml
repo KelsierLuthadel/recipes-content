@@ -41,7 +41,7 @@ ingredients:
     name: garlic
     raw: 3 garlic cloves
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 thin red chillies
   - qty: 2
     name: bay leaves
@@ -92,5 +92,5 @@ ingredients:
   - name: zest and juice of 1 lime
     raw: grated zest and juice of 1 lime
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ red onion

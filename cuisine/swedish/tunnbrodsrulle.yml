@@ -28,7 +28,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long swedish style varmkorv
+    name: swedish style varmkorv
     raw: 4 long Swedish-style varmkorv
   - qty: 1
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 200
     unit: g
@@ -85,19 +85,19 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon ground white pepper
   - qty: 1
-    name: head lettuce
+    name: lettuce
     raw: 1 small head lettuce
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ cucumber
   - qty: 6
     unit: tbsp
     name: crispy fried onions
     raw: 6 tablespoons crispy fried onions
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: ketchup
     raw: Ketchup

@@ -15,7 +15,7 @@ ingredients:
     unit: kg
     name: mixed apples
     raw: 2 kg mixed apples
-  - name: "optional: 1 tbsp lemon juice"
+  - name: optional
     raw: "Optional: 1 tbsp lemon juice"
   - name: clean 1.5 l bottle
     raw: A clean 1.5 L bottle, sterilised

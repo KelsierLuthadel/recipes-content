@@ -50,7 +50,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 300
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 300 g dried black beans OR feijão carioca , soaked overnight
   - qty: 1
     name: onion
@@ -74,16 +74,16 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon coarsely ground black pepper
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli
   - name: grilled meat
     raw: Sliced grilled meat, fried egg, or roast chicken
   - qty: 1
     unit: handful
-    name: green salad
+    name: salad (green)
     raw: A handful of green salad
   - name: spoon of farofa
     raw: A spoon of farofa
@@ -91,5 +91,5 @@ ingredients:
     raw: A small dish of Brazilian hot sauce
   - name: bowl of slow cooked black beans
     raw: A bowl of slow-cooked black beans
-  - name: "optional: orange segments alongside"
+  - name: optional
     raw: "Optional: orange segments alongside"

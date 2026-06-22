@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2.5
-    name: red chillies
+    name: chillies (red)
     raw: 2-3 fresh red chillies
   - qty: 2.5
     name: garlic
@@ -42,7 +42,7 @@ ingredients:
     raw: Pinch of fine sea salt
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon white pepper
   - qty: 1.5
     unit: tbsp

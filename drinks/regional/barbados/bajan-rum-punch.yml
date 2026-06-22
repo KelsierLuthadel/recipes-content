@@ -38,7 +38,7 @@ ingredients:
     unit: dash
     name: angostura bitters
     raw: 6-8 dashes Angostura bitters
-  - name: "optional: 30 ml falernum"
+  - name: optional
     raw: "Optional: 30 ml falernum"
   - qty: 1
     name: lime

@@ -81,7 +81,7 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 6
-    name: red chillies
+    name: chillies (red)
     raw: 6 fresh red chillies
   - qty: 4
     unit: clove
@@ -120,7 +120,7 @@ ingredients:
     raw: 60 ml hot oil
   - name: dark sweet soy sauce
     raw: Dark sweet soy sauce , to drizzle
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber
   - name: coriander
     raw: Coriander sprigs

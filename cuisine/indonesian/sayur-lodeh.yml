@@ -35,7 +35,7 @@ ingredients:
     name: candlenuts
     raw: 3 candlenuts
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 long red chillies
   - qty: 2
     name: turmeric
@@ -66,7 +66,7 @@ ingredients:
     raw: 600 ml vegetable stock
   - qty: 200
     unit: g
-    name: long beans
+    name: beans
     raw: 200 g long beans
   - qty: 200
     unit: g

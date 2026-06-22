@@ -27,7 +27,7 @@ ingredients:
     name: garlic
     raw: 8 garlic cloves, smashed
   - qty: 5
-    name: red spur chillies
+    name: spur chillies (red)
     raw: 5 red spur chillies, cut into thin rings
   - qty: 2
     name: shallots
@@ -58,5 +58,5 @@ ingredients:
     raw: 1 ½ tsp dark soy sauce*
   - qty: 1
     unit: large handful
-    name: thai holy basil leaves
+    name: thai basil
     raw: Large handful of Thai holy basil leaves, finely

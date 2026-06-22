@@ -34,13 +34,13 @@ ingredients:
     name: onion
     raw: 0.5 medium onion
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 0.25
-    name: green pepper
+    name: pepper (green)
     raw: 0.25 green pepper
   - qty: 0.25
-    name: red pepper
+    name: pepper (red)
     raw: 0.25 red pepper
   - qty: 2
     unit: tbsp
@@ -76,10 +76,10 @@ ingredients:
     name: cloves
     raw: 2 cloves
   - qty: 2
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 2 green cardamom pods, split
   - qty: 1
-    name: black cardamom pod
+    name: cardamom pod (black)
     raw: 1 black cardamom pod, split
   - qty: 1
     unit: tsp
@@ -118,7 +118,7 @@ ingredients:
     name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, chicken tikka, or vegetables
   - qty: 300
-    name: to 330 ml+ curry base gravy
+    name: ml+ curry base gravy
     raw: 300 to 330 ml+ Curry Base Gravy, heated through
   - qty: 2
     name: tomato quarters
@@ -128,7 +128,7 @@ ingredients:
     name: coriander
     raw: 1 tbsp finely chopped fresh coriander leaves
   - qty: 1
-    name: to 2 tsp sugar
+    name: sugar
     raw: 1 to 2 tsp sugar
   - name: coriander
     raw: extra coriander, to garnish

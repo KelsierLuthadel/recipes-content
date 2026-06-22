@@ -51,14 +51,14 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 3
-    name: red chillies
+    name: chillies (red)
     raw: 3 dried red chillies
   - qty: 0.5
     unit: tsp
     name: sea salt
     raw: ½ teaspoon fine sea salt
   - qty: 12
-    name: long beans
+    name: beans
     raw: 12 long beans
   - qty: 2
     name: thai eggplants
@@ -72,7 +72,7 @@ ingredients:
     name: cabbage
     raw: 200 g cabbage
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 large red bell pepper
   - qty: 4
     unit: tbsp
@@ -87,7 +87,7 @@ ingredients:
     name: palm sugar
     raw: 2 tablespoons palm sugar
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 100
     unit: ml
@@ -98,7 +98,7 @@ ingredients:
     raw: 4 fresh kaffir lime leaves
   - qty: 1
     unit: small handful
-    name: thai basil leaves
+    name: thai basil
     raw: A small handful of fresh Thai basil leaves
   - qty: 2
     name: spring onions

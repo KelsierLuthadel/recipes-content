@@ -55,7 +55,7 @@ ingredients:
     raw: 75 grams lettuce
   - qty: 75
     unit: g
-    name: green papaya
+    name: papaya (green)
     raw: 75 grams green papaya
   - qty: 75
     unit: g
@@ -63,13 +63,13 @@ ingredients:
     raw: 75 grams tomatoes
   - qty: 75
     unit: g
-    name: cucumber
+    name: cucumbers
     raw: 75 grams cucumber
   - qty: 0.5
-    name: white onion
+    name: onion (white)
     raw: ½ white onion
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 fresh red chillies
   - qty: 1
     name: lime

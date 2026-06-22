@@ -83,7 +83,7 @@ ingredients:
     name: curry powder
     raw: 1 tsp curry powder
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet, whole
   - qty: 1
     unit: tbsp
@@ -96,7 +96,7 @@ ingredients:
   - name: salt
     raw: Salt to taste
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber, finely grated, squeezed dry
   - qty: 2
     unit: tbsp

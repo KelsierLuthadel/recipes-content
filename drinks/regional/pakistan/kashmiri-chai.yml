@@ -26,7 +26,7 @@ ingredients:
     name: baking soda
     raw: 1 teaspoon baking soda
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods, lightly crushed
   - qty: 1
     unit: tsp
@@ -37,7 +37,7 @@ ingredients:
     name: milk
     raw: 500 ml whole milk
   - qty: 4
-    name: to 6 teaspoons white sugar
+    name: sugar (white)
     raw: 4 to 6 teaspoons white sugar, to taste
   - qty: 3
     name: ice cubes

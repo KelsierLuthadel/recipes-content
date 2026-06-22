@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: yellow split lentils
+    name: split lentils (yellow)
     raw: 200 g yellow split lentils
   - qty: 1
     unit: l
@@ -57,7 +57,7 @@ ingredients:
     name: mustard seeds
     raw: ½ tsp mustard seeds
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 2
     name: garlic
@@ -91,7 +91,7 @@ ingredients:
     raw: 400 g waxy potatoes
   - qty: 200
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 200 g green beans
   - qty: 1
     name: onion
@@ -131,7 +131,7 @@ ingredients:
     name: salt
     raw: ½ tsp salt
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli
   - qty: 200
     unit: ml

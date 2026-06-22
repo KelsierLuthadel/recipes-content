@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 300 g yellow cornmeal
   - qty: 150
     unit: g
@@ -41,7 +41,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     name: eggs

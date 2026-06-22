@@ -46,7 +46,7 @@ ingredients:
     name: spring onions
     raw: 3 spring onions
   - qty: 2.5
-    name: green chillies
+    name: chillies (green)
     raw: 2-3 fresh green chillies
   - qty: 8
     name: curry leaves
@@ -61,7 +61,7 @@ ingredients:
     raw: ½ teaspoon ground turmeric
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1.5
     unit: tsp

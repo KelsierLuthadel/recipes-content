@@ -70,7 +70,7 @@ ingredients:
     raw: 1 tablespoon apple cider vinegar
   - qty: 2
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 teaspoons brown sugar
   - qty: 1.5
     unit: tsp
@@ -78,15 +78,15 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 300
     unit: g
-    name: red cabbage
+    name: cabbage (red)
     raw: 300 g red cabbage
   - qty: 100
     unit: g
-    name: white cabbage
+    name: cabbage (white)
     raw: 100 g white cabbage
   - qty: 1
     name: carrot
@@ -101,7 +101,7 @@ ingredients:
     raw: 3 tablespoons apple cider vinegar
   - qty: 2
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 2 tablespoons yellow mustard
   - qty: 2
     unit: tbsp
@@ -117,7 +117,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 4
     name: all beef frankfurters
@@ -126,9 +126,9 @@ ingredients:
     name: soft white hot dog buns
     raw: 4 soft white hot dog buns
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: sweet tea
     raw: Sweet tea

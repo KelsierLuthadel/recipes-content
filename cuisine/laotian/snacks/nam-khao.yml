@@ -97,7 +97,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, sliced thin
   - qty: 3
-    name: red chillies
+    name: chillies (red)
     raw: 2-4 fresh red chillies, sliced thin
   - qty: 1
     name: mint leaves
@@ -117,7 +117,7 @@ ingredients:
     name: toasted crushed peanuts
     raw: 80 g toasted crushed peanuts
   - qty: 1
-    name: head of butter lettuce
+    name: butter lettuce
     raw: 1 head of butter lettuce or iceberg lettuce
   - name: herb
     raw: A few extra fresh herb sprigs

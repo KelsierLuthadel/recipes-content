@@ -84,7 +84,7 @@ ingredients:
     name: hard boiled egg
     raw: 1 hard-boiled egg
   - qty: 8
-    name: green olives
+    name: olives (green)
     raw: 8 green olives
   - qty: 1
     unit: tsp
@@ -92,7 +92,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon coarsely ground black pepper
   - qty: 0.5
     unit: tsp
@@ -102,13 +102,13 @@ ingredients:
     unit: tsp
     name: brazilian sazon mix
     raw: 1 teaspoon Brazilian sazon mix
-  - name: "ham and cheese: 200 g sliced ham + 200 g mozzarella"
+  - name: ham and cheese
     raw: "Ham and cheese: 200 g sliced ham + 200 g mozzarella"
-  - name: "chicken with catupiry: 300 g cooked shredded chicken + 150 g catupiry cheese"
+  - name: chicken with catupiry
     raw: "Chicken with Catupiry: 300 g cooked shredded chicken + 150 g Catupiry cheese"
-  - name: "hearts of palm : 1 large tin hearts of palm + 100 g cream cheese"
+  - name: hearts of palm
     raw: "Hearts of palm : 1 large tin hearts of palm + 100 g cream cheese"
-  - name: "shrimp : 300 g cooked shrimp + 100 g cream cheese + chopped parsley"
+  - name: shrimp
     raw: "Shrimp : 300 g cooked shrimp + 100 g cream cheese + chopped parsley"
   - qty: 1.5
     unit: l

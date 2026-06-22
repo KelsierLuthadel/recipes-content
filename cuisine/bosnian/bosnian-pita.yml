@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 500 g strong white bread flour, plus extra for dusting
   - qty: 1
     unit: tsp
@@ -35,7 +35,7 @@ ingredients:
     raw: 2 tablespoons sunflower oil
   - qty: 1
     unit: tsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 teaspoon white wine vinegar
   - qty: 500
     unit: g
@@ -50,7 +50,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon freshly ground black pepper
   - qty: 1
     unit: tsp

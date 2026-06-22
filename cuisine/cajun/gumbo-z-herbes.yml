@@ -38,7 +38,7 @@ ingredients:
     name: celery
     raw: 4 celery sticks
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 6
     name: garlic
@@ -93,7 +93,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 1
     unit: tbsp
@@ -101,5 +101,5 @@ ingredients:
     raw: 1 tablespoon filé powder
   - name: hot sauce
     raw: Hot sauce
-  - name: white rice
+  - name: rice (white)
     raw: Cooked white rice

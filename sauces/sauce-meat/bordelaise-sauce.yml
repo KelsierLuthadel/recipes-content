@@ -19,11 +19,11 @@ ingredients:
     name: shallots
     raw: 40 grams shallots
   - qty: 8
-    name: white peppercorns
+    name: peppercorns (white)
     raw: 8 white peppercorns
   - qty: 200
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 200 ml red wine
   - qty: 300
     unit: ml

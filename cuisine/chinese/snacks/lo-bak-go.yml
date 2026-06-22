@@ -49,7 +49,7 @@ ingredients:
     raw: 2 tablespoons vegetable oil
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon white pepper
   - qty: 1
     unit: tsp
@@ -88,5 +88,5 @@ ingredients:
     name: sesame oil
     raw: 1 teaspoon sesame oil
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli or chilli oil

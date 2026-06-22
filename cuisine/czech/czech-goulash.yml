@@ -75,15 +75,15 @@ ingredients:
     raw: 2 tsp salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp freshly ground black pepper
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tsp brown sugar
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tbsp red wine vinegar
   - name: czech bread dumplings
     raw: Czech bread dumplings , sliced into rounds

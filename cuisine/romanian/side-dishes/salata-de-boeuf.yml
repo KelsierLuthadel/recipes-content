@@ -75,13 +75,13 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp ground black pepper
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper, in strips
   - qty: 8
-    name: black olives
+    name: olives (black)
     raw: 8 black olives, halved
   - qty: 2
     name: gherkins

@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 500 g strong white bread flour
   - qty: 80
     unit: g
@@ -47,7 +47,7 @@ ingredients:
     raw: 100 ml whole milk
   - qty: 1
     unit: tbsp
-    name: orange flower water
+    name: flower water (orange)
     raw: 1 tablespoon orange-flower water
   - qty: 150
     unit: g

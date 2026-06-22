@@ -47,10 +47,10 @@ ingredients:
     name: aubergine
     raw: 1 aubergine
   - qty: 8
-    name: green beans
+    name: beans (green)
     raw: 8 green beans
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 8
     name: shiso leaves

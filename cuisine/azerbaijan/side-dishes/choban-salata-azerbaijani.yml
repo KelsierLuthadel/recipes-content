@@ -24,7 +24,7 @@ ingredients:
     name: short cucumbers
     raw: 2 short cucumbers
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 15
     unit: g
@@ -52,7 +52,7 @@ ingredients:
     raw: ¾ teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 0.5
     unit: tsp

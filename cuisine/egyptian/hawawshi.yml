@@ -35,7 +35,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 1
     name: flat leaf parsley
@@ -66,7 +66,7 @@ ingredients:
     raw: ½ teaspoon ground cinnamon
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1.5
     unit: tsp

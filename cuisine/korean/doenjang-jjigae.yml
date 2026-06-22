@@ -61,10 +61,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - qty: 350
     unit: g

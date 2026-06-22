@@ -46,11 +46,11 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 2
     unit: tsp
@@ -65,7 +65,7 @@ ingredients:
     name: cinnamon
     raw: 1 teaspoon ground cinnamon
   - qty: 2
-    name: scotch bonnet peppers
+    name: scotch bonnet chillies
     raw: 2 Scotch bonnet peppers
   - qty: 80
     unit: ml
@@ -77,14 +77,14 @@ ingredients:
     raw: 2 tablespoons vegetable oil
   - qty: 60
     unit: ml
-    name: white vinegar
+    name: vinegar (white)
     raw: 60 ml white vinegar
   - qty: 1
     name: onion
     raw: 1 onion
   - qty: 60
     unit: ml
-    name: orange juice
+    name: juice (orange)
     raw: 60 ml orange juice
   - qty: 3
     name: garlic
@@ -107,11 +107,11 @@ ingredients:
     raw: 1 cup diced pineapple
   - qty: 1
     unit: cup
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 cup diced red bell pepper
   - qty: 0.3333333333333333
     unit: cup
-    name: red onion
+    name: onion (red)
     raw: ⅓ cup diced red onion
   - qty: 3
     unit: tbsp
@@ -126,7 +126,7 @@ ingredients:
     raw: 1 garlic clove
   - qty: 2
     unit: tsp
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 2 teaspoons diced Scotch bonnet
   - name: salt
     raw: salt
@@ -138,7 +138,7 @@ ingredients:
     raw: 2 cups shredded cheese
   - qty: 0.5
     unit: cup
-    name: black beans
+    name: beans (black)
     raw: ½ cup black beans
   - qty: 1
     name: bag tortilla chips

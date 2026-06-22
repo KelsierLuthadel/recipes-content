@@ -31,7 +31,7 @@ ingredients:
     raw: 120 grams soft brown sugar
   - qty: 150
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 150 ml white wine vinegar
   - qty: 150
     unit: g
@@ -42,7 +42,7 @@ ingredients:
     name: tomatoes
     raw: 150 grams very ripe tomatoes
   - qty: 10
-    name: white peppercorns
+    name: peppercorns (white)
     raw: 10 white peppercorns
   - qty: 0.5
     unit: tsp

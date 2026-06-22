@@ -86,13 +86,13 @@ ingredients:
     unit: g
     name: marzipan
     raw: 400 g good-quality marzipan
-  - name: green food colouring gel
+  - name: food colouring gel (green)
     raw: Green food colouring gel
   - name: icing sugar
     raw: Icing sugar
   - qty: 50
     unit: g
-    name: pink marzipan
+    name: marzipan (pink)
     raw: 50 g pink marzipan
   - name: icing sugar
     raw: Icing sugar

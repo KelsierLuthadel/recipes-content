@@ -37,7 +37,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tablespoon black peppercorns
   - qty: 2
     unit: l
@@ -50,7 +50,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 0.25
-    name: white cabbage
+    name: cabbage (white)
     raw: ¼ small white cabbage
   - qty: 3
     name: potatoes
@@ -69,7 +69,7 @@ ingredients:
     raw: 2 tablespoons vegetable oil
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tablespoons red wine vinegar
   - qty: 1
     unit: tsp

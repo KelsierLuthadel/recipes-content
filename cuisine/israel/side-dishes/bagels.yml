@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 600 g strong white bread flour
   - qty: 12
     unit: g
@@ -56,5 +56,5 @@ ingredients:
   - qty: 1
     name: egg
     raw: 1 egg
-  - name: "toppings: sesame seeds"
+  - name: toppings
     raw: "Toppings: sesame seeds, poppy seeds, \"everything\" mix , or leave plain"

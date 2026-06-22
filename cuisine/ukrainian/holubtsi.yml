@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: green cabbage
+    name: cabbage (green)
     raw: 1 green cabbage
   - qty: 1
     unit: tbsp
@@ -68,7 +68,7 @@ ingredients:
     raw: 1 ½ teaspoons salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     name: dill
@@ -117,7 +117,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - name: soured cream
     raw: Extra soured cream

@@ -31,10 +31,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper
   - qty: 4
     name: garlic
@@ -43,7 +43,7 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes or 200 g tinned chopped
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli or ½ teaspoon cayenne
   - qty: 1
     unit: tsp
@@ -59,7 +59,7 @@ ingredients:
     raw: ½ teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 100
     unit: ml

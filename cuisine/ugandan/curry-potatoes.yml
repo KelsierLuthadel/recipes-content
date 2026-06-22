@@ -41,11 +41,11 @@ ingredients:
     name: ginger
     raw: 15 g fresh ginger
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 2
     unit: tbsp
-    name: yellow curry powder
+    name: curry powder (yellow)
     raw: 2 tbsp mild yellow curry powder
   - qty: 1
     unit: tsp

@@ -70,7 +70,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 6
-    name: white bread
+    name: bread (white)
     raw: 6 slices white bread
   - qty: 25
     unit: g

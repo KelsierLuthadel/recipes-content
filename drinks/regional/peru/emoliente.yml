@@ -24,7 +24,7 @@ ingredients:
     raw: 30 g flax seeds
   - qty: 4
     unit: tbsp
-    name: "horsetail leaves : sold at health food shops"
+    name: horsetail leaves
     raw: "4 tablespoons dried horsetail leaves : sold at health-food shops or Latin American shops"
   - qty: 2
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 4-6 tablespoons honey
   - qty: 1
     unit: pinch
-    name: "muna : rare outside peru"
+    name: muna
     raw: "A pinch of muña : rare outside Peru"
   - qty: 1
     unit: small pinch

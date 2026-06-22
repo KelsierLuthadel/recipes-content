@@ -31,7 +31,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: white fleshed fish
+    name: fleshed fish (white)
     raw: 1 large whole white-fleshed fish
   - qty: 6
     name: garlic
@@ -73,7 +73,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: head red cabbage
+    name: cabbage (red)
     raw: 1 large head red cabbage
   - qty: 60
     unit: g
@@ -32,11 +32,11 @@ ingredients:
     raw: 1 large onion
   - qty: 200
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 200 ml red wine vinegar
   - qty: 100
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 100 ml red wine
   - qty: 100
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 2
     unit: tbsp

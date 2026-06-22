@@ -64,16 +64,16 @@ ingredients:
     name: onion
     raw: 1 onion , thinly sliced
   - qty: 3
-    name: red spur chillies
+    name: spur chillies (red)
     raw: 3 red spur chillies, thinly sliced
   - qty: 2
-    name: green bird’s eye chillies
+    name: bird’s eye chillies (green)
     raw: 2 green bird’s eye chillies, cut into thin rings
   - qty: 25
     name: cashews
     raw: 20-30 cashews
   - qty: 20
-    name: red bird’s eye chillies
+    name: bird’s eye chillies (red)
     raw: 20 dried red bird’s eye chillies
   - qty: 3
     unit: tbsp

@@ -49,7 +49,7 @@ ingredients:
     raw: 1.5 tsp fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 0.5 tsp freshly ground black pepper
   - qty: 100
     unit: ml
@@ -59,5 +59,5 @@ ingredients:
     raw: Sour cream
   - name: pickled gherkins
     raw: Pickled gherkins
-  - name: "optional: sauerkraut"
+  - name: optional
     raw: "Optional: sauerkraut, fried egg, mushroom stew"

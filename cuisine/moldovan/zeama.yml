@@ -42,14 +42,14 @@ ingredients:
     name: celery root
     raw: 1 small celery root , peeled and chunked
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 small red bell pepper, halved and de-seeded
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tsp black peppercorns
   - qty: 2
     unit: tsp
@@ -84,7 +84,7 @@ ingredients:
   - name: sour cream
     raw: Sour cream
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli per bowl
   - name: country bread
     raw: Country bread

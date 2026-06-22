@@ -26,10 +26,10 @@ ingredients:
     name: floury potatoes
     raw: 600 g floury potatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, very finely sliced
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies, very finely chopped
   - qty: 3
     unit: tbsp
@@ -52,5 +52,5 @@ ingredients:
     raw: 1 garlic clove, finely grated
   - qty: 1
     unit: tbsp
-    name: red chilli flakes
+    name: chilli flakes (red)
     raw: 1 tbsp dried red chilli flakes, dry-roasted

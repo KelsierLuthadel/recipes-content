@@ -41,7 +41,7 @@ ingredients:
     raw: 100 ml double cream
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 0.5 tsp ground white pepper
   - qty: 1
     unit: pinch
@@ -53,5 +53,5 @@ ingredients:
     raw: 2 tbsp finely chopped fresh chives or parsley
   - qty: 1
     unit: drizzle
-    name: brown butter on top
+    name: butter on top (brown)
     raw: A drizzle of brown butter on top

@@ -19,7 +19,7 @@ ingredients:
     name: medium bodied red wine
     raw: 750 ml medium-bodied red wine
   - qty: 1
-    name: orange sliced into rounds
+    name: sliced into rounds (orange)
     raw: 1 large orange, sliced into rounds
   - qty: 1
     name: lemon
@@ -52,7 +52,7 @@ ingredients:
     name: vanilla extract
     raw: 1 tsp vanilla extract
   - qty: 6
-    name: orange slices
+    name: slices (orange)
     raw: 6 extra orange slices for garnish
   - qty: 6
     name: cinnamon sticks

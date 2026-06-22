@@ -67,7 +67,7 @@ ingredients:
     name: spring onion
     raw: 3 tbsp finely chopped spring onion
   - qty: 2
-    name: green garlic
+    name: garlic (green)
     raw: 2 stalks of green garlic , finely chopped
   - qty: 2
     unit: tsp
@@ -75,7 +75,7 @@ ingredients:
     raw: 2 tsp salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp ground black pepper
   - qty: 0.5
     name: /2 tsp ground allspice

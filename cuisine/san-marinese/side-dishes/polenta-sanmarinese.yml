@@ -22,7 +22,7 @@ ingredients:
     raw: 1 1/2 tsp fine salt
   - qty: 300
     unit: g
-    name: yellow polenta
+    name: polenta (yellow)
     raw: 300 g coarse yellow polenta
   - qty: 60
     unit: g
@@ -35,5 +35,5 @@ ingredients:
   - qty: 6
     name: sage leaves
     raw: 6 sage leaves
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

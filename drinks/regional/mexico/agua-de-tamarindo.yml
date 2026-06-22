@@ -24,7 +24,7 @@ ingredients:
     name: water
     raw: 2 litres cold water
   - qty: 200
-    name: to 250 g caster sugar
+    name: caster sugar
     raw: 200 to 250 g caster sugar, to taste
   - qty: 1
     unit: pinch
@@ -37,7 +37,7 @@ ingredients:
   - name: lime wedges
     raw: Lime wedges
   - qty: 6
-    name: to 8 tall glasses
+    name: tall glasses
     raw: 6 to 8 tall glasses, chilled
-  - name: "optional: chamoy"
+  - name: optional
     raw: "Optional: chamoy or Tajín for the glass rim"

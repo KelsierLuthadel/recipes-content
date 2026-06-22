@@ -47,7 +47,7 @@ ingredients:
     raw: 1 tbsp flaky salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp black pepper
   - qty: 100
     unit: ml
@@ -59,9 +59,9 @@ ingredients:
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
-  - name: white rice
+  - name: rice (white)
     raw: White rice
-  - name: black beans
+  - name: beans (black)
     raw: Black beans
   - name: fried sweet plantains
     raw: Fried sweet plantains

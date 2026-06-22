@@ -18,9 +18,9 @@ mentions:
   - tutorials/pizza/sauce
   - tutorials/spices/storage
 ingredients:
-  - name: "option a: 8 shop bought tartlet shells"
+  - name: option a
     raw: "Option A: 8 shop-bought tartlet shells"
-  - name: "option b : 1 sheet good quality butter puff pastry"
+  - name: option b
     raw: "Option B : 1 sheet good-quality butter puff pastry, baked into 8 tartlet shells"
   - qty: 500
     unit: g
@@ -28,7 +28,7 @@ ingredients:
     raw: 500 g cooked chicken
   - qty: 200
     unit: g
-    name: white asparagus
+    name: asparagus (white)
     raw: 200 g white asparagus
   - qty: 50
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - name: pickled white asparagus tips
     raw: A few pickled white asparagus tips
@@ -81,9 +81,9 @@ ingredients:
     unit: sprig
     name: dill
     raw: Sprigs of fresh dill or parsley
-  - name: black pepper
+  - name: pepper (black)
     raw: Ground black pepper
-  - name: green salad with vinaigrette
+  - name: salad with vinaigrette (green)
     raw: A small green salad with vinaigrette
   - name: glass of crisp dry white wine
     raw: A glass of crisp dry white wine

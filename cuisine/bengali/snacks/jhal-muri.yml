@@ -40,19 +40,19 @@ ingredients:
     name: mustard oil
     raw: 2 tbsp mustard oil
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ red onion
   - qty: 1
     name: tomato
     raw: 1 tomato
   - qty: 0.25
-    name: cucumber
+    name: cucumbers
     raw: ¼ cucumber
   - qty: 1.5
-    name: green chillies
+    name: chillies (green)
     raw: 1-2 green chillies
   - qty: 1
-    name: green mango
+    name: mango (green)
     raw: 1 green mango , diced
   - qty: 10
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     raw: 8 g fresh mint
   - qty: 0.5
     unit: tsp
-    name: black salt
+    name: salt (black)
     raw: ½ tsp black salt
   - qty: 0.5
     unit: tsp

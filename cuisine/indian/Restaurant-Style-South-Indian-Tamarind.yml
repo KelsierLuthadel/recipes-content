@@ -57,13 +57,13 @@ ingredients:
     name: mix powder
     raw: 1.25 tsp Mix Powder
   - qty: 0.25
-    name: to 0.5 tsp chilli powder
+    name: chilli powder
     raw: 0.25 to 0.5 tsp chilli powder
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 3
-    name: to 4 tbsp tomato paste
+    name: tomato paste
     raw: 3 to 4 tbsp tomato paste
   - qty: 200
     unit: g
@@ -83,5 +83,5 @@ ingredients:
     name: coconut milk
     raw: 150 ml coconut milk
   - qty: 1
-    name: to 2 tsp jaggery
+    name: jaggery
     raw: 1 to 2 tsp jaggery or brown sugar

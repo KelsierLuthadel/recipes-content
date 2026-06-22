@@ -36,7 +36,7 @@ ingredients:
     raw: ½ cinnamon stick
   - qty: 0.5
     unit: tsp
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: ½ teaspoon green cardamom pods
   - qty: 2.5
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     name: water
     raw: 2 teaspoons water
   - qty: 1
-    name: green onion stem
+    name: onion stem (green)
     raw: 1 green onion stem
   - qty: 1
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 cup vegetable or sunflower oil
   - qty: 1
     unit: tsp
-    name: white sesame seeds
+    name: sesame seeds (white)
     raw: 1 teaspoon white sesame seeds
   - qty: 3
     unit: tsp

@@ -51,7 +51,7 @@ ingredients:
     raw: 1 ½ teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     name: bay leaves
@@ -75,7 +75,7 @@ ingredients:
     name: yuca
     raw: 800 g yuca
   - qty: 2
-    name: green plantains
+    name: plantains (green)
     raw: 2 green plantains
   - qty: 4
     name: potatoes
@@ -90,7 +90,7 @@ ingredients:
     name: lime
     raw: 1 lime
   - qty: 4
-    name: white rice
+    name: rice (white)
     raw: 4 servings cooked white rice
   - name: bowl of hogao
     raw: A small bowl of hogao

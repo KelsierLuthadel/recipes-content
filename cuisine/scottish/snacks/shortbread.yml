@@ -28,9 +28,9 @@ ingredients:
     unit: pinch
     name: sea salt
     raw: A pinch of fine sea salt
-  - name: "optional: ¼ teaspoon vanilla extract"
+  - name: optional
     raw: "Optional: ¼ teaspoon vanilla extract"
-  - name: "optional: 2 tablespoons rice flour"
+  - name: optional
     raw: "Optional: 2 tablespoons rice flour"
   - name: butter for greasing
     raw: A small piece of butter for greasing

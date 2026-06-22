@@ -53,11 +53,11 @@ ingredients:
     name: oyster sauce
     raw: 2 tbsp oyster sauce
   - qty: 2
-    name: red fermented bean curd
+    name: fermented bean curd (red)
     raw: 2 cubes red fermented bean curd , mashed
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tbsp brown sugar
   - qty: 1
     unit: tsp
@@ -75,9 +75,9 @@ ingredients:
     raw: 1 tsp sesame oil
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ tsp white pepper
-  - name: "optional: ¼ tsp red yeast rice powder for colour"
+  - name: optional
     raw: "Optional: ¼ tsp red yeast rice powder for colour"
   - qty: 3
     unit: tbsp

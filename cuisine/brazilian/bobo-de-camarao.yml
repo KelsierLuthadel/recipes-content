@@ -60,7 +60,7 @@ ingredients:
     name: ginger
     raw: 1 tablespoon grated fresh ginger
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 small red chilli
   - qty: 3
     name: tomatoes
@@ -97,7 +97,7 @@ ingredients:
     raw: 1 teaspoon coarsely cracked black pepper
   - qty: 600
     unit: g
-    name: white long grain rice
+    name: long grain rice (white)
     raw: 600 g white long-grain rice
   - qty: 200
     unit: g
@@ -107,5 +107,5 @@ ingredients:
     raw: Lime wedges
   - name: brazilian beer
     raw: Cold Brazilian beer
-  - name: "optional: chopped fresh chillies on the side for those who want heat"
+  - name: optional
     raw: "Optional: chopped fresh chillies on the side for those who want heat"

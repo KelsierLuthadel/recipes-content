@@ -37,7 +37,7 @@ ingredients:
     raw: 6 garlic cloves
   - qty: 2
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 tablespoons whole black peppercorns
   - qty: 2
     unit: tbsp
@@ -68,5 +68,5 @@ ingredients:
     raw: Maldon salt for finishing
   - name: crusty italian bread
     raw: Crusty Italian bread
-  - name: green salad dressed with olive oil and lemon
+  - name: salad dressed with olive oil and lemon (green)
     raw: A green salad dressed with olive oil and lemon

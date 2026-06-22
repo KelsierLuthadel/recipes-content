@@ -46,7 +46,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 3
     unit: tbsp
@@ -56,10 +56,10 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 large red bell pepper
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 large green bell pepper
   - qty: 4
     name: garlic
@@ -76,7 +76,7 @@ ingredients:
     name: chicken stock
     raw: 300 ml chicken stock
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 whole Scotch bonnet chilli
   - qty: 50
     unit: g

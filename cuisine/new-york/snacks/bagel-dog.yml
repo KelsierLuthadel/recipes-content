@@ -34,7 +34,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tbsp
@@ -72,7 +72,7 @@ ingredients:
     raw: 2 tablespoons sesame seeds
   - qty: 2
     unit: tbsp
-    name: black sesame seeds
+    name: sesame seeds (black)
     raw: 2 tablespoons black sesame seeds
   - qty: 2
     unit: tbsp
@@ -93,9 +93,9 @@ ingredients:
   - qty: 1
     name: egg
     raw: 1 egg
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
-  - name: brown mustard
+  - name: mustard (brown)
     raw: Spicy brown mustard
   - name: dill pickle spears
     raw: Dill pickle spears

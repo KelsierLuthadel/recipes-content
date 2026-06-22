@@ -42,7 +42,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 4
     name: juniper berries
@@ -51,7 +51,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: ½ teaspoon fine salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - name: dark rye bread
     raw: Dark rye bread
@@ -62,5 +62,5 @@ ingredients:
   - qty: 1
     name: chives
     raw: A small bunch of fresh chives
-  - name: white onion
+  - name: onion (white)
     raw: Raw white onion

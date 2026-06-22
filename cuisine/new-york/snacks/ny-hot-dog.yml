@@ -65,7 +65,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     raw: 600 g sauerkraut
   - name: plenty of yellow mustard
     raw: Plenty of yellow mustard
-  - name: brown mustard
+  - name: mustard (brown)
     raw: Spicy brown mustard
   - name: sweet pickle relish
     raw: Sweet pickle relish

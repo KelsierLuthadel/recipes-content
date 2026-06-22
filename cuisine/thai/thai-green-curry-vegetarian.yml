@@ -29,7 +29,7 @@ mentions:
   - tutorials/thai-curry/green
 ingredients:
   - qty: 5
-    name: long green chillies
+    name: chillies (green)
     raw: 5 long green chillies
   - qty: 4
     name: bird's eye chillies
@@ -54,7 +54,7 @@ ingredients:
     raw: 2 kaffir lime leaves
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon ground white pepper
   - qty: 1
     unit: tsp
@@ -119,10 +119,10 @@ ingredients:
     raw: 200 ml vegetable stock
   - qty: 1
     unit: handful
-    name: thai basil leaves
+    name: thai basil
     raw: A handful of Thai basil leaves
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 long red chillies
   - qty: 0.5
     name: lime

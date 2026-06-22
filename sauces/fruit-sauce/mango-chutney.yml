@@ -35,7 +35,7 @@ ingredients:
     name: cinnamon sticks
     raw: 2 cinnamon sticks
   - qty: 5
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 5 black peppercorns
   - qty: 2
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     raw: 800 grams ripe but firm mango flesh
   - qty: 400
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 400 ml white wine vinegar
   - qty: 270
     unit: g

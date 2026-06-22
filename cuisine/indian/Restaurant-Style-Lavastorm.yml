@@ -48,10 +48,10 @@ ingredients:
     name: thai red chillies
     raw: 4 Thai red chillies
   - qty: 2
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 2 scotch bonnet or habanero chillies
   - qty: 1
-    name: to 2 regular supermarket red chillies
+    name: supermarket red chillies
     raw: 1 to 2 regular supermarket red chillies
   - qty: 1
     unit: splash
@@ -69,14 +69,14 @@ ingredients:
     name: cumin seeds
     raw: 1 tsp cumin seeds
   - qty: 2
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 2 green cardamom pods, split
   - qty: 60
     unit: g
     name: onion
     raw: 60 g onion, finely chopped
   - qty: 30
-    name: to 40 g red pepper
+    name: pepper (red)
     raw: 30 to 40 g red pepper, sliced
   - qty: 2
     unit: tsp
@@ -95,7 +95,7 @@ ingredients:
     name: mix powder
     raw: 1.25 tsp Mix Powder
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 1
     unit: tsp
@@ -114,7 +114,7 @@ ingredients:
     name: chilli flakes
     raw: 1 tbsp chilli flakes
   - qty: 1
-    name: to 2 tsp chilli
+    name: chilli
     raw: 1 to 2 tsp chilli or naga pickle
   - qty: 200
     unit: g
@@ -136,10 +136,10 @@ ingredients:
     name: sugar
     raw: 1 tsp sugar
   - qty: 8
-    name: to 10 green chillies
+    name: chillies (green)
     raw: 8 to 10 green chillies, finely sliced width-wise
   - qty: 2
-    name: to 3 tsp onion paste / bunjarra
+    name: onion paste / bunjarra
     raw: 2 to 3 tsp onion paste / bunjarra
   - qty: 1
     unit: tbsp
@@ -148,5 +148,5 @@ ingredients:
   - name: coriander
     raw: finely chopped fresh coriander, to garnish
   - qty: 1
-    name: to 2 tomato slices
+    name: tomato slices
     raw: 1 to 2 tomato slices, to garnish

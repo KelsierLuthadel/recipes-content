@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 600 g strong white bread flour
   - qty: 1
     name: fast action yeast
@@ -56,9 +56,9 @@ ingredients:
     raw: ½ teaspoon caster sugar
   - qty: 2
     unit: tbsp
-    name: white sesame seeds
+    name: sesame seeds (white)
     raw: 2 tablespoons white sesame seeds
   - qty: 1
     unit: tbsp
-    name: black sesame seeds
+    name: sesame seeds (black)
     raw: 1 tablespoon black sesame seeds

@@ -68,7 +68,7 @@ ingredients:
     name: urad dal
     raw: 1 tablespoon urad dal
   - qty: 3
-    name: red chillies
+    name: chillies (red)
     raw: 3 dried red chillies
   - qty: 1
     unit: tbsp
@@ -80,7 +80,7 @@ ingredients:
     raw: 4 tablespoons sesame oil
   - qty: 1
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 1 teaspoon black mustard seeds
   - qty: 50
     unit: g
@@ -95,7 +95,7 @@ ingredients:
     name: chana dal
     raw: 1 teaspoon chana dal
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 25
     name: curry leaves

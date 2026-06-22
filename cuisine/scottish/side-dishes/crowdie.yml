@@ -35,9 +35,9 @@ ingredients:
     unit: ml
     name: double cream
     raw: 60 ml double cream
-  - name: "optional flavourings :"
+  - name: optional flavourings
     raw: "Optional flavourings :"
-  - name: "optional coating :"
+  - name: optional coating
     raw: "Optional coating :"
   - name: warm oatcakes
     raw: Warm oatcakes

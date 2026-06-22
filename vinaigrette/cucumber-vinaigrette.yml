@@ -12,7 +12,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: cucumber
+    name: cucumbers
     raw: 250 grams fresh cucumber
   - qty: 2
     unit: tbsp
@@ -44,5 +44,5 @@ ingredients:
     raw: ¼ teaspoon fine sea salt
   - qty: 1
     unit: pinch
-    name: white pepper
+    name: pepper (white)
     raw: Pinch of freshly ground white pepper

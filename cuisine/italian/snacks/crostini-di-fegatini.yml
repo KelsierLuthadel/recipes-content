@@ -54,7 +54,7 @@ ingredients:
     raw: 80 ml Vin Santo
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tablespoon red wine vinegar
   - qty: 1
     name: bay leaf
@@ -65,7 +65,7 @@ ingredients:
     raw: ½ teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 30
     unit: g

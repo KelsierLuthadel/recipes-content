@@ -47,5 +47,5 @@ ingredients:
     unit: tbsp
     name: sour cream
     raw: 1 tablespoon sour cream
-  - name: "optional: guacamole"
+  - name: optional
     raw: "Optional: guacamole, jalapeños, lettuce, diced tomatoes"

@@ -56,7 +56,7 @@ ingredients:
     name: thyme
     raw: 1 teaspoon dried thyme
   - qty: 4
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 4 black peppercorns
   - qty: 1
     unit: tsp
@@ -126,5 +126,5 @@ ingredients:
     raw: A glass of cold Dutch lager
   - name: mustard
     raw: A small dish of extra mustard
-  - name: "optional: a dutch chocolate sprinkle \"hagelslag\" sandwich for dessert"
+  - name: optional
     raw: "Optional: a Dutch chocolate sprinkle \"hagelslag\" sandwich for dessert"

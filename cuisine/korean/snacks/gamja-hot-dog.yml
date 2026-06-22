@@ -23,7 +23,7 @@ ingredients:
     name: wooden skewers
     raw: 6 wooden skewers
   - qty: 6
-    name: hot dogs ;
+    name: hot dogs
     raw: 6 hot dogs ; or 3 hot dogs + 3 mozzarella sticks; or 6 mozzarella sticks for cheese-only
   - qty: 250
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: 100 g caster sugar
   - name: ketchup
     raw: Ketchup
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: honey mustard
     raw: Honey mustard

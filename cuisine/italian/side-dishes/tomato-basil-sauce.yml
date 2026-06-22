@@ -25,7 +25,7 @@ ingredients:
     raw: 3 tablespoons capers
   - qty: 50
     unit: g
-    name: black olives
+    name: olives (black)
     raw: 50 grams black olives
   - qty: 150
     unit: ml
@@ -40,5 +40,5 @@ ingredients:
     raw: 20 grams fresh basil leaves
   - name: sea salt
     raw: Fine sea salt to taste
-  - name: white pepper
+  - name: pepper (white)
     raw: Freshly ground white pepper to taste

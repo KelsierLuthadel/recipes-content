@@ -23,9 +23,9 @@ ingredients:
     unit: tsp
     name: instant
     raw: ¼ teaspoon instant or active dry yeast
-  - name: "container: large bowl with cling film cover"
+  - name: container
     raw: "Container: Large bowl with cling film cover"
-  - name: "fermentation temperature: warm"
+  - name: fermentation temperature
     raw: "Fermentation temperature: Warm, dry place"
-  - name: "fermentation time: 12 18 hours"
+  - name: fermentation time
     raw: "Fermentation time: 12-18 hours"

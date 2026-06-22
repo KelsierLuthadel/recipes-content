@@ -40,7 +40,7 @@ ingredients:
   - qty: 4
     name: tall glasses
     raw: 4 tall glasses, chilled
-  - name: "optional: a small wedge of fresh mango on the rim"
+  - name: optional
     raw: "Optional: a small wedge of fresh mango on the rim"
-  - name: "optional: a sprig of fresh mint"
+  - name: optional
     raw: "Optional: a sprig of fresh mint"

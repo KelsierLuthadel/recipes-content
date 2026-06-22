@@ -33,7 +33,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 1
     name: onion
@@ -43,14 +43,14 @@ ingredients:
     raw: 1 Maggi
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 6
-    name: white fish steaks on the bone
+    name: fish steaks on the bone (white)
     raw: 6 thick white fish steaks on the bone , about 1.2 kg total
   - qty: 120
     unit: ml
@@ -92,7 +92,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 1
-    name: white cabbage
+    name: cabbage (white)
     raw: 1 white cabbage
   - qty: 1
     name: aubergine
@@ -101,7 +101,7 @@ ingredients:
     name: turnips
     raw: 2 turnips
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 whole Scotch bonnet chilli
   - qty: 600
     unit: g

@@ -15,7 +15,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
     unit: tsp
@@ -44,5 +44,5 @@ ingredients:
     unit: tsp
     name: salt
     raw: ½ teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: A grind of black pepper

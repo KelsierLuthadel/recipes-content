@@ -49,17 +49,17 @@ ingredients:
     name: mix powder
     raw: 1.5 tsp Mix Powder
   - qty: 1.5
-    name: to 2 tsp chilli powder
+    name: chilli powder
     raw: 1.5 to 2 tsp chilli powder
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 1
     unit: tsp
     name: kasuri methi
     raw: 1 tsp kasuri methi
   - qty: 5
-    name: to 6 tbsp tomato paste
+    name: tomato paste
     raw: 5 to 6 tbsp tomato paste
   - qty: 2
     unit: tsp
@@ -77,17 +77,17 @@ ingredients:
     name: pre cooked chicken
     raw: 200 g Pre-Cooked Chicken, Pre-Cooked Lamb, chicken tikka, prawns, or vegetables
   - qty: 3
-    name: to 4 splashes worcestershire sauce
+    name: worcestershire sauce
     raw: 3 to 4 splashes Worcestershire sauce
   - qty: 0.5
     unit: tsp
     name: instant coffee granules
     raw: 0.5 tsp instant coffee granules
   - qty: 2
-    name: to 3 tsp onion paste / bunjarra
+    name: onion paste / bunjarra
     raw: 2 to 3 tsp onion paste / bunjarra
   - qty: 1
-    name: to 2 tsp sugar
+    name: sugar
     raw: 1 to 2 tsp sugar or mango chutney
   - qty: 1
     unit: tbsp

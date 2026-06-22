@@ -39,7 +39,7 @@ ingredients:
     raw: 18 g salt
   - qty: 12
     unit: g
-    name: black pepper
+    name: pepper (black)
     raw: 12 g coarse ground black pepper
   - qty: 10
     unit: g
@@ -75,7 +75,7 @@ ingredients:
     raw: 3 g ground coriander
   - qty: 2
     unit: g
-    name: "pink curing salt #1"
+    name: "curing salt #1 (pink)"
     raw: "2 g pink curing salt #1"
   - qty: 100
     unit: ml
@@ -86,9 +86,9 @@ ingredients:
     raw: 1 ½ m natural hog casings
   - name: post oak
     raw: Post-oak
-  - name: white bread
+  - name: bread (white)
     raw: Sliced white bread
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: dill pickle chips
     raw: Dill pickle chips

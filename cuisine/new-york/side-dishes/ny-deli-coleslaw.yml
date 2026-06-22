@@ -16,13 +16,13 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: head green cabbage
+    name: cabbage (green)
     raw: 1 large head green cabbage
   - qty: 2
     name: carrots
     raw: 2 large carrots
   - qty: 0.5
-    name: white onion
+    name: onion (white)
     raw: ½ small white onion
   - qty: 200
     unit: ml
@@ -30,7 +30,7 @@ ingredients:
     raw: 200 ml mayonnaise
   - qty: 6
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 6 tablespoons white wine vinegar
   - qty: 2
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon ground white pepper
   - qty: 1
     unit: tsp

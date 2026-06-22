@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: ml
-    name: white rum
+    name: rum (white)
     raw: 250 ml white rum
   - qty: 400
     unit: ml
@@ -54,7 +54,7 @@ ingredients:
     unit: pinch
     name: salt
     raw: Pinch of fine salt
-  - name: "optional: zest of 1 lime"
+  - name: optional
     raw: "Optional: zest of 1 lime"
   - name: shot glasses
     raw: Small shot glasses or cordial glasses

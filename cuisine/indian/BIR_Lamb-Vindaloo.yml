@@ -33,7 +33,7 @@ ingredients:
     name: rapeseed oil
     raw: 3 tbsp rapeseed oil or seasoned oil
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods, bashed
   - qty: 2
     name: star anise
@@ -46,7 +46,7 @@ ingredients:
     name: garlic and ginger paste
     raw: 2 tbsp garlic and ginger paste
   - qty: 2
-    name: green bullet chillies
+    name: bullet chillies (green)
     raw: 2 fresh green bullet chillies, finely chopped
   - qty: 2
     name: scotch bonnet chillies
@@ -85,7 +85,7 @@ ingredients:
     raw: 175 ml Lamb Stock
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 1
     unit: tsp

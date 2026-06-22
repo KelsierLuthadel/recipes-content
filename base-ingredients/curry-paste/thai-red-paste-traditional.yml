@@ -32,7 +32,7 @@ mentions:
   - cuisine/thai/starters/chicken-satay
 ingredients:
   - qty: 15
-    name: long red chillies
+    name: chillies (red)
     raw: 15 dried long red chillies
   - qty: 1
     unit: cup
@@ -72,7 +72,7 @@ ingredients:
     raw: ½ tsp cumin seeds
   - qty: 1
     unit: tsp
-    name: white peppercorns
+    name: peppercorns (white)
     raw: 1 tsp white peppercorns
   - qty: 1
     unit: tsp

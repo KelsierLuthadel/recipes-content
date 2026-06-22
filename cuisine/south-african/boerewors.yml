@@ -41,7 +41,7 @@ ingredients:
     raw: 12 g salt
   - qty: 5
     unit: g
-    name: black pepper
+    name: pepper (black)
     raw: 5 g ground black pepper
   - qty: 3
     unit: g
@@ -70,7 +70,7 @@ ingredients:
     unit: kg
     name: boerewors coil
     raw: 1.2-1 ½ kg fresh boerewors coil
-  - name: white bread rolls
+  - name: bread rolls (white)
     raw: Fresh white bread rolls
   - name: tomato and onion relish
     raw: Tomato-and-onion relish

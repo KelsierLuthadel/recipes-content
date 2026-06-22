@@ -48,10 +48,10 @@ ingredients:
     name: potato
     raw: 1 potato
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper
   - qty: 0.5
-    name: green bell pepper
+    name: bell pepper (green)
     raw: ½ green bell pepper
   - qty: 25
     unit: g
@@ -68,11 +68,11 @@ ingredients:
     raw: 1 bulb garlic
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon white pepper
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 0.5
     unit: tsp
@@ -92,5 +92,5 @@ ingredients:
     raw: 10 g fresh basil
   - qty: 1
     unit: tbsp
-    name: black rice vinegar
+    name: rice vinegar (black)
     raw: 1 tablespoon black rice vinegar

@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: green cabbage
+    name: cabbage (green)
     raw: 400 g green cabbage
   - qty: 0.5
     unit: tsp
@@ -38,14 +38,14 @@ ingredients:
     raw: 2 tablespoons coconut oil
   - qty: 1
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 1 teaspoon black mustard seeds
   - qty: 1
     unit: tsp
     name: urad dal
     raw: 1 teaspoon urad dal
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 15
     name: curry leaves
@@ -61,7 +61,7 @@ ingredients:
     name: coconut
     raw: 60 g fresh grated coconut
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     unit: pinch

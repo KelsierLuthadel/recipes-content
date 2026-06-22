@@ -14,7 +14,7 @@ ingredients:
     raw: 50 ml Macedonian rakija
   - name: rakija glass
     raw: A small thick rakija glass
-  - name: "optional: a small piece of cheese"
+  - name: optional
     raw: "Optional: a small piece of cheese or a slice of cured meat alongside"
   - qty: 10
     unit: kg

@@ -27,10 +27,10 @@ ingredients:
     raw: 1 medium dasheen , about 300 g, peeled and cut in 4 cm chunks
   - qty: 400
     unit: g
-    name: yellow yam
+    name: yam (yellow)
     raw: 400 g yellow yam, peeled and cut in 4 cm chunks
   - qty: 2
-    name: green plantains
+    name: plantains (green)
     raw: 2 medium green plantains, peeled and cut in 4 cm rounds
   - qty: 400
     unit: g
@@ -47,5 +47,5 @@ ingredients:
     unit: tbsp
     name: coconut oil
     raw: 1 tbsp coconut oil or butter
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

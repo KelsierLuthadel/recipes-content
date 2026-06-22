@@ -80,7 +80,7 @@ ingredients:
     raw: 2 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     name: onions
@@ -97,7 +97,7 @@ ingredients:
     name: bay leaves
     raw: 4 bay leaves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 whole black peppercorns
   - qty: 400
     unit: g
@@ -131,10 +131,10 @@ ingredients:
     name: tomatoes
     raw: 6 small tomatoes
   - qty: 6
-    name: long green chillies
+    name: chillies (green)
     raw: 6 long green chillies
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 large red onion
   - name: flat leaf parsley
     raw: Fresh flat-leaf parsley

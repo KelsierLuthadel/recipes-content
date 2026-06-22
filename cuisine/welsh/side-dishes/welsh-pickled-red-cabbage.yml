@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: red cabbage
+    name: cabbage (red)
     raw: 1 large red cabbage
   - qty: 2
     unit: tbsp
@@ -33,7 +33,7 @@ ingredients:
     raw: 100 g soft light brown sugar
   - qty: 2
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 teaspoons whole black peppercorns
   - qty: 1
     unit: tsp
@@ -50,12 +50,12 @@ ingredients:
     name: cinnamon stick
     raw: 1 small cinnamon stick
   - qty: 1
-    name: orange peel
+    name: peel (orange)
     raw: 1 small piece dried orange peel
   - qty: 1
     unit: tsp
-    name: yellow mustard seed
+    name: mustard seed (yellow)
     raw: 1 teaspoon yellow mustard seed
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 small fresh red chilli

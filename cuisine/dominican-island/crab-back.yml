@@ -57,7 +57,7 @@ ingredients:
     raw: 1 tbsp fresh lime juice
   - qty: 60
     unit: g
-    name: white breadcrumbs
+    name: breadcrumbs (white)
     raw: 60 g fine fresh white breadcrumbs
   - qty: 0.5
     name: /2 tsp paprika
@@ -65,7 +65,7 @@ ingredients:
   - qty: 0.25
     name: /4 tsp ground allspice
     raw: 1/4 tsp ground allspice
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste
   - name: salt only if needed
     raw: Salt only if needed

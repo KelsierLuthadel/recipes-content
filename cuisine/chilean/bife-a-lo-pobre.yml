@@ -33,7 +33,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 6
     name: potatoes
@@ -45,7 +45,7 @@ ingredients:
     name: flaky sea salt
     raw: 1 teaspoon flaky sea salt
   - qty: 2
-    name: white onions
+    name: onions (white)
     raw: 2 large white onions
   - qty: 3
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 4
     name: eggs

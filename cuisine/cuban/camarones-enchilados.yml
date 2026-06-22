@@ -37,7 +37,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -57,10 +57,10 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 medium green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 medium red bell pepper
   - qty: 6
     name: garlic
@@ -98,7 +98,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 80
     unit: g
@@ -121,7 +121,7 @@ ingredients:
     raw: Juice of 1 lime
   - name: plain white rice
     raw: Plain white rice
-  - name: black beans
+  - name: beans (black)
     raw: Black beans
   - name: sweet plantains
     raw: Sweet plantains

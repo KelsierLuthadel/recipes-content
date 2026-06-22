@@ -30,10 +30,10 @@ ingredients:
     name: cucumbers
     raw: 2 cucumbers
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 1
     name: flat leaf parsley
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 0.5
     unit: tsp

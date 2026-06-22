@@ -56,7 +56,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     name: beef stock
     raw: 200 ml hot beef stock
   - qty: 12
-    name: black olives
+    name: olives (black)
     raw: 12 black olives
   - qty: 30
     name: raisins

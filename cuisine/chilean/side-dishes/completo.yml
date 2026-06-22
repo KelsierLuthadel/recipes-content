@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long soft hot dog rolls
+    name: soft hot dog rolls
     raw: 4 long soft hot dog rolls
   - qty: 4
     name: frankfurters
@@ -54,5 +54,5 @@ ingredients:
     unit: tbsp
     name: american yellow mustard
     raw: 2 tablespoons American yellow mustard
-  - name: "optional: pebre"
+  - name: optional
     raw: "Optional: pebre"

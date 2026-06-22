@@ -49,17 +49,17 @@ ingredients:
     name: chive
     raw: 1 small bunch fresh chive or scallion
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper
   - qty: 1
-    name: green seasoning bouquet
+    name: seasoning bouquet (green)
     raw: 1 large green seasoning bouquet
   - qty: 200
     unit: g
     name: salt pork
     raw: 200 g salt pork or salt beef ; OR
   - qty: 1
-    name: crab ; or
+    name: crab
     raw: 1 small whole crab ; OR
   - qty: 300
     unit: g
@@ -83,7 +83,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 30
     unit: g

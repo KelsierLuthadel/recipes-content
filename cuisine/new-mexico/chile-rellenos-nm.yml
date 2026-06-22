@@ -51,7 +51,7 @@ ingredients:
     raw: 200 ml vegetable oil
   - qty: 500
     unit: ml
-    name: red chile sauce
+    name: chile sauce (red)
     raw: 500 ml red chile sauce
   - name: or 500 ml green chile sauce
     raw: OR 500 ml green chile sauce
@@ -63,7 +63,7 @@ ingredients:
     raw: Mexican crema or sour cream
   - name: coriander
     raw: Fresh coriander
-  - name: red onion
+  - name: onion (red)
     raw: Sliced raw red onion
   - name: lime wedges
     raw: Lime wedges

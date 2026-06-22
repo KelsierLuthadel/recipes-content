@@ -25,7 +25,7 @@ ingredients:
     name: chicken breasts
     raw: 900 g boneless skinless chicken breasts
   - qty: 0.5
-    name: yellow onion
+    name: onion (yellow)
     raw: ½ medium yellow onion
   - qty: 6
     unit: sprig
@@ -69,11 +69,11 @@ ingredients:
     name: mango
     raw: 2 cups diced fresh mango
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 0.5
     unit: cup
-    name: red onion
+    name: onion (red)
     raw: ½ cup diced red onion
   - qty: 0.25
     unit: cup

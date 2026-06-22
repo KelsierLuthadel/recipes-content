@@ -38,7 +38,7 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 1
-    name: "leek : optional but excellent"
+    name: leek
     raw: "1 leek : optional but excellent"
   - qty: 150
     unit: g
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon freshly ground white pepper
   - qty: 1
     unit: small handful

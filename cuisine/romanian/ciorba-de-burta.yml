@@ -43,7 +43,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 8
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 8 black peppercorns
   - qty: 2
     unit: tsp
@@ -62,11 +62,11 @@ ingredients:
     raw: 200 ml sour cream
   - qty: 4
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 4 tbsp white wine vinegar
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp ground black pepper
   - qty: 6
     name: garlic

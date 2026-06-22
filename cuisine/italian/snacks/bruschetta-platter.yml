@@ -16,13 +16,13 @@ mentions:
   - tutorials/vegetable-cookery/roasting
 ingredients:
   - qty: 1
-    name: yellow pepper
+    name: pepper (yellow)
     raw: 1 yellow pepper
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - name: oil for roasting
     raw: Oil for roasting
@@ -37,7 +37,7 @@ ingredients:
     unit: tbsp
     name: virgin olive oil
     raw: 1 tablespoon extra virgin olive oil
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 12
     name: crusty italian bread

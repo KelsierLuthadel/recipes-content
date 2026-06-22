@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 450
     unit: g
-    name: white flour
+    name: flour (white)
     raw: 450 grams strong white flour
   - qty: 1
     unit: tbsp
@@ -25,7 +25,7 @@ ingredients:
     raw: 1 tablespoon baking powder
   - qty: 1
     unit: tbsp
-    name: white granulated sugar
+    name: granulated sugar (white)
     raw: 1 tablespoon white granulated sugar
   - qty: 2
     unit: tbsp

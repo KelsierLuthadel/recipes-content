@@ -21,10 +21,10 @@ ingredients:
     name: cucumbers
     raw: 2 cucumbers
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 16
     name: kalamata olives
@@ -43,7 +43,7 @@ ingredients:
     raw: 6 tablespoons extra virgin olive oil
   - qty: 1.5
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 ½ tablespoons red-wine vinegar
   - qty: 1
     unit: tbsp

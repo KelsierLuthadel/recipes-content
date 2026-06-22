@@ -41,7 +41,7 @@ ingredients:
     raw: 1 tbsp bicarbonate of soda
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tbsp white vinegar
   - qty: 650
     unit: g
@@ -86,5 +86,5 @@ ingredients:
     raw: Icing sugar for dusting
   - name: reserved cake crumbs
     raw: Reserved cake crumbs
-  - name: "optional: 2 tbsp ground walnuts"
+  - name: optional
     raw: "Optional: 2 tbsp ground walnuts"

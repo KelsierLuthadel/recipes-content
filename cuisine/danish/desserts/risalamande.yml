@@ -70,7 +70,7 @@ ingredients:
     raw: 200 ml cherry juice
   - qty: 100
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 100 ml red wine
   - qty: 80
     unit: g
@@ -94,5 +94,5 @@ ingredients:
   - qty: 1
     name: blanched almond
     raw: 1 whole blanched almond
-  - name: "mandelgave : wrapped"
+  - name: mandelgave
     raw: "A mandelgave : wrapped, small, ready to award to the winner"

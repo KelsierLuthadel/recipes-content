@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: green onions / scallions
+    name: onions / scallions (green)
     raw: 2 large bunches green onions / scallions , chopped
   - qty: 1
     name: parsley
@@ -40,11 +40,11 @@ ingredients:
     name: garlic
     raw: 4 cloves garlic
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet OR habanero chilli, deseeded
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tablespoon black pepper
   - qty: 1
     unit: tsp
@@ -60,7 +60,7 @@ ingredients:
     raw: 2 tablespoons fresh lime juice
   - qty: 250
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 250 g yellow cornmeal
   - qty: 200
     unit: g
@@ -81,7 +81,7 @@ ingredients:
   - name: cou cou stick / wooden paddle / sturdy wooden spoon
     raw: A cou-cou stick / wooden paddle / sturdy wooden spoon
   - qty: 4
-    name: "flying fish fillets : sold at bajan / caribbean markets"
+    name: flying fish fillets
     raw: "4 large flying-fish fillets : sold at Bajan / Caribbean markets, frozen in some specialty shops"
   - name: or 8 small whole sardines
     raw: OR 8 small whole sardines, gutted
@@ -109,7 +109,7 @@ ingredients:
     name: onion
     raw: 1 medium onion, finely chopped
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 medium green bell pepper, finely chopped
   - qty: 1
     name: tomato
@@ -119,7 +119,7 @@ ingredients:
     name: bajan green seasoning
     raw: 2 tablespoons Bajan green seasoning
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper, finely chopped
   - qty: 1
     unit: tsp

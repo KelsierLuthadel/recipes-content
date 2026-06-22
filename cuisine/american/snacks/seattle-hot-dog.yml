@@ -37,7 +37,7 @@ ingredients:
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 2
-    name: yellow onions
+    name: onions (yellow)
     raw: 2 large yellow onions
   - qty: 2
     unit: tbsp
@@ -49,7 +49,7 @@ ingredients:
     raw: 1 tablespoon olive oil
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 teaspoon brown sugar
   - qty: 1
     unit: tsp
@@ -64,11 +64,11 @@ ingredients:
     raw: 2 fresh jalapeños
   - qty: 200
     unit: g
-    name: green cabbage
+    name: cabbage (green)
     raw: 200 g raw green cabbage
   - name: sriracha hot sauce
     raw: Sriracha hot sauce
-  - name: "optional: chopped fresh chives"
+  - name: optional
     raw: "Optional: chopped fresh chives"
   - name: local ipa
     raw: Local IPA or pale ale

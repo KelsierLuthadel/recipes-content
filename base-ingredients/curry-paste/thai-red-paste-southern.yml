@@ -31,7 +31,7 @@ mentions:
   - cuisine/thai/starters/chicken-satay
 ingredients:
   - qty: 25
-    name: long red chillies
+    name: chillies (red)
     raw: 25 dried long red chillies
   - qty: 10
     name: bird's eye chillies
@@ -64,11 +64,11 @@ ingredients:
     raw: Stems from 6 fresh coriander sprigs
   - qty: 1
     unit: tsp
-    name: white peppercorns
+    name: peppercorns (white)
     raw: 1 tsp white peppercorns
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tsp black peppercorns
   - qty: 1
     unit: tbsp

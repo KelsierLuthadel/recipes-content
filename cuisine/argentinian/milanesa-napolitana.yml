@@ -52,7 +52,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon coarsely ground black pepper
   - qty: 300
     unit: ml
@@ -81,7 +81,7 @@ ingredients:
     unit: g
     name: hand cut chips
     raw: 600 g hand-cut chips
-  - name: green salad
+  - name: salad (green)
     raw: A green salad
   - name: glass of argentine malbec
     raw: A glass of Argentine Malbec

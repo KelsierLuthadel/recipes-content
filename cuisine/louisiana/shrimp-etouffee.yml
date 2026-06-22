@@ -46,7 +46,7 @@ ingredients:
     name: celery
     raw: 2 celery sticks
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 4
     name: garlic
@@ -79,11 +79,11 @@ ingredients:
     raw: ½ tsp cayenne pepper
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ tsp ground white pepper
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp ground black pepper
   - qty: 1
     unit: tsp

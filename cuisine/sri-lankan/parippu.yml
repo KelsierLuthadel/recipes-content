@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: red split lentils
+    name: split lentils (red)
     raw: 200 g red split lentils
   - qty: 600
     unit: ml
@@ -60,7 +60,7 @@ ingredients:
     name: pandan leaf
     raw: 1 pandan leaf
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     unit: tsp
@@ -82,7 +82,7 @@ ingredients:
     name: curry leaves
     raw: 1 sprig curry leaves
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 0.5
     unit: tsp

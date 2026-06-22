@@ -28,7 +28,7 @@ ingredients:
     raw: 400 g dried hominy/mote
   - qty: 200
     unit: g
-    name: white beans
+    name: beans (white)
     raw: 200 g dried white beans
   - qty: 300
     unit: g
@@ -110,5 +110,5 @@ ingredients:
     raw: Fresh bread
   - name: glass of argentine malbec
     raw: A glass of Argentine Malbec
-  - name: "optional: a sprinkle of chopped fresh parsley over"
+  - name: optional
     raw: "Optional: a sprinkle of chopped fresh parsley over"

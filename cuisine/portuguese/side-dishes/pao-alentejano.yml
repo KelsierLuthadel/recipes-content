@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 200 g strong white bread flour
   - qty: 200
     unit: g
@@ -28,7 +28,7 @@ ingredients:
     raw: ¼ teaspoon fast-action yeast
   - qty: 400
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 400 g strong white bread flour
   - qty: 100
     unit: g

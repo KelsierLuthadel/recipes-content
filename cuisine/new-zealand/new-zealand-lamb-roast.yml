@@ -86,7 +86,7 @@ ingredients:
     raw: 2 tsp caster sugar
   - qty: 4
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 4 tbsp white wine vinegar
   - qty: 1
     unit: pinch
@@ -102,5 +102,5 @@ ingredients:
     raw: 500 ml chicken or beef stock
   - qty: 1
     unit: splash
-    name: red wine
+    name: wine (red)
     raw: A splash of red wine

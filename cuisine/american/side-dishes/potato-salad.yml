@@ -28,7 +28,7 @@ ingredients:
     name: celery
     raw: 2 celery sticks, finely diced
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ small red onion, finely diced
   - qty: 3
     unit: tbsp
@@ -48,11 +48,11 @@ ingredients:
     raw: 2 tbsp Dijon mustard
   - qty: 1
     unit: tbsp
-    name: yellow american mustard
+    name: american mustard (yellow)
     raw: 1 tbsp yellow American mustard
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 1
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     raw: ½ tsp fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp freshly ground black pepper
   - name: smoked paprika
     raw: Smoked paprika, for dusting

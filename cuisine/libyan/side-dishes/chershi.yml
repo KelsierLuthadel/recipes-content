@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: white turnip
+    name: turnip (white)
     raw: 500 g white turnip, peeled and cut into batons
   - qty: 250
     unit: g
@@ -32,18 +32,18 @@ ingredients:
     name: garlic
     raw: 4 cloves garlic, peeled and smashed
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli, halved
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tbsp black peppercorns
   - qty: 250
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 250 ml white wine vinegar
   - qty: 500
     unit: ml

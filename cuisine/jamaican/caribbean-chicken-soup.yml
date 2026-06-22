@@ -44,7 +44,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 80
     unit: ml
-    name: green seasoning
+    name: seasoning (green)
     raw: 80 ml green seasoning
   - name: salt
     raw: salt
@@ -55,10 +55,10 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 yellow onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 60
     unit: ml
@@ -97,7 +97,7 @@ ingredients:
     raw: 1 ¼ cup plain flour
   - qty: 0.3333333333333333
     unit: cup
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: ⅓ cup fine yellow cornmeal
   - qty: 1
     unit: tbsp

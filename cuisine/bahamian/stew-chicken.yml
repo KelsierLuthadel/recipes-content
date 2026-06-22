@@ -50,11 +50,11 @@ ingredients:
     raw: 8 boneless skinless chicken thighs
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 60
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 60 ml red wine vinegar
   - qty: 240
     unit: ml
@@ -101,7 +101,7 @@ ingredients:
     name: corn cobs
     raw: 2 corn cobs
   - qty: 1
-    name: yellow plantain
+    name: plantain (yellow)
     raw: 1 yellow plantain
   - qty: 1
     unit: tsp
@@ -116,7 +116,7 @@ ingredients:
     name: parsley
     raw: 2 tablespoons chopped parsley
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 1
     name: lime

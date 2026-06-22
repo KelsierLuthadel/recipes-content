@@ -46,13 +46,13 @@ ingredients:
     name: potatoes
     raw: 3 potatoes
   - qty: 0.5
-    name: white cabbage
+    name: cabbage (white)
     raw: ½ small white cabbage
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 5
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 5 black peppercorns
   - qty: 2
     unit: tbsp
@@ -66,7 +66,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 ½ teaspoons salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 4
     unit: tbsp

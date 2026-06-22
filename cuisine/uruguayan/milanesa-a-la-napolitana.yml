@@ -39,7 +39,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt, plus more for the breadcrumbs
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 200
     unit: g
@@ -79,5 +79,5 @@ ingredients:
     raw: Hot chips
   - name: lemon wedges
     raw: Lemon wedges
-  - name: "optional: 4 fried eggs"
+  - name: optional
     raw: "Optional: 4 fried eggs"

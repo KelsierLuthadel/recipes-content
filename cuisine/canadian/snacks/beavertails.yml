@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 400 g strong white bread flour
   - qty: 60
     unit: g
@@ -87,7 +87,7 @@ ingredients:
     unit: ml
     name: pure maple syrup
     raw: 60 ml pure maple syrup
-  - name: whisk together; spread on the hot beavertail
+  - name: whisk together
     raw: Whisk together; spread on the hot BeaverTail
   - qty: 4
     unit: tbsp

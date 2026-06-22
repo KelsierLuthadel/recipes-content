@@ -81,7 +81,7 @@ ingredients:
     unit: tbsp
     name: prepared yellow mustard
     raw: 2 tablespoons prepared yellow mustard
-  - name: "optional: 2 tablespoons mayonnaise"
+  - name: optional
     raw: "Optional: 2 tablespoons mayonnaise"
   - qty: 8
     name: tomato
@@ -91,7 +91,7 @@ ingredients:
     name: shredded iceberg lettuce
     raw: A small handful of shredded iceberg lettuce
   - qty: 8
-    name: cucumber
+    name: cucumbers
     raw: 8 slices of cucumber
   - name: pepper sauce
     raw: A small dish of extra pepper sauce

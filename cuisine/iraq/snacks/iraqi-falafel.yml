@@ -39,7 +39,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     unit: large handful
@@ -67,7 +67,7 @@ ingredients:
     raw: ½ teaspoon ground cardamom
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1.5
     unit: tsp
@@ -111,10 +111,10 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 4
     unit: tbsp

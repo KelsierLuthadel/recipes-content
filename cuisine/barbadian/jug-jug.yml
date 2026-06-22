@@ -56,7 +56,7 @@ ingredients:
     name: bajan green seasoning
     raw: 4 tablespoons Bajan green seasoning
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper, deseeded and finely chopped
   - qty: 1
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 2
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     raw: A whole baked ham OR a Bajan roast pork
   - name: baked sweet potato
     raw: Sliced baked sweet potato OR caramelised pumpkin
-  - name: green salad
+  - name: salad (green)
     raw: A green salad
   - name: bajan rum punch
     raw: Bajan rum punch OR sorrel

@@ -38,24 +38,24 @@ ingredients:
     name: poppy seeds
     raw: 0.5 tsp poppy seeds
   - qty: 0.25
-    name: to 0.5 tsp ground white pepper
+    name: pepper (white)
     raw: 0.25 to 0.5 tsp ground white pepper
   - qty: 75
     unit: ml
     name: natural yoghurt
     raw: 75 ml natural yoghurt
   - qty: 1
-    name: to 2 fresh green chillies
+    name: chillies (green)
     raw: 1 to 2 fresh green chillies
   - qty: 3
     unit: tbsp
     name: oil
     raw: 3 tbsp oil
   - qty: 3
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 3 black peppercorns
   - qty: 5
-    name: to 10 cm cassia bark
+    name: cassia bark
     raw: 5 to 10 cm cassia bark
   - qty: 0.5
     unit: tsp
@@ -65,7 +65,7 @@ ingredients:
     name: cloves
     raw: 2 cloves
   - qty: 3
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 3 green cardamom pods, split
   - qty: 75
     unit: g
@@ -88,14 +88,14 @@ ingredients:
     name: salt
     raw: 0.5 tsp salt
   - qty: 0.75
-    name: to 1 tsp sugar
+    name: sugar
     raw: 0.75 to 1 tsp sugar
   - qty: 0.5
     unit: tsp
     name: chilli powder
     raw: 0.5 tsp chilli powder
   - qty: 50
-    name: to 200 g chicken
+    name: chicken
     raw: 50 to 200 g chicken
   - qty: 240
     name: ml+ curry base gravy

@@ -38,7 +38,7 @@ ingredients:
     raw: ¾ tablespoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 3
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 1
     unit: tsp

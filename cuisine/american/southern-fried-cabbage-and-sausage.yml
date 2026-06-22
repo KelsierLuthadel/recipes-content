@@ -28,17 +28,17 @@ ingredients:
     raw: 340 g pre-cooked andouille
   - qty: 1
     unit: cup
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 cup chopped yellow onion
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
   - qty: 2
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 teaspoons brown sugar
   - qty: 1
-    name: head green cabbage
+    name: cabbage (green)
     raw: 1 medium head green cabbage
   - qty: 2
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     raw: ¼ teaspoon ground nutmeg
   - qty: 0.5
     unit: tsp
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: ½ teaspoon crushed red pepper flakes
   - name: parsley
     raw: Fresh chopped parsley, to garnish

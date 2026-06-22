@@ -30,7 +30,7 @@ ingredients:
     name: lamb shoulder
     raw: 600 g lamb shoulder, cut into 5 cm chunks
   - qty: 1
-    name: green cabbage
+    name: cabbage (green)
     raw: 1 small green cabbage , cut into 8 wedges through the core
   - qty: 4
     name: carrots
@@ -54,7 +54,7 @@ ingredients:
     name: tomatoes
     raw: 4 ripe tomatoes, halved
   - qty: 2
-    name: long green peppers
+    name: peppers (green)
     raw: 2 long green peppers, seeded and quartered
   - qty: 2
     name: bay leaves
@@ -64,7 +64,7 @@ ingredients:
     raw: 1 small bunch flat-leaf parsley, tied with string
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 2
     unit: tsp
@@ -76,7 +76,7 @@ ingredients:
     raw: 100 ml dry white wine
   - qty: 50
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 50 ml red wine vinegar
   - qty: 500
     unit: ml

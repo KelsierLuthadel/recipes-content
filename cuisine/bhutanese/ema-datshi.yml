@@ -27,7 +27,7 @@ ingredients:
     name: blue cheese
     raw: 150 g blue cheese
   - qty: 6
-    name: red potatoes
+    name: potatoes (red)
     raw: 6 red potatoes
   - qty: 1.1
     unit: kg
@@ -43,7 +43,7 @@ ingredients:
     name: roma tomatoes
     raw: 3 Roma tomatoes
   - qty: 10
-    name: green onions
+    name: onions (green)
     raw: 10 green onions
   - qty: 2.5
     unit: tbsp

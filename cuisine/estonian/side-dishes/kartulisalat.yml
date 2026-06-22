@@ -38,7 +38,7 @@ ingredients:
     name: cooked
     raw: 200 g cooked or thawed green peas
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, very finely chopped
   - qty: 150
     unit: g
@@ -59,7 +59,7 @@ ingredients:
   - qty: 0.5
     name: /2 tsp salt
     raw: 1/2 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 3
     unit: tbsp

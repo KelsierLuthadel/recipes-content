@@ -72,11 +72,11 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 0.5
     unit: tsp
-    name: red chilli flakes
+    name: chilli flakes (red)
     raw: ½ teaspoon red chilli flakes
   - qty: 4
     unit: tbsp
@@ -122,18 +122,18 @@ ingredients:
     raw: 1 tablespoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
-    name: red chilli flakes
+    name: chilli flakes (red)
     raw: 1 teaspoon red chilli flakes
   - qty: 1
     name: basil
     raw: 1 small bunch fresh basil
   - qty: 100
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 100 ml red wine
   - qty: 600
     unit: g
@@ -147,5 +147,5 @@ ingredients:
     raw: Crusty bread or garlic bread
   - name: mixed leaf salad
     raw: Mixed leaf salad
-  - name: red wine
+  - name: wine (red)
     raw: Red wine

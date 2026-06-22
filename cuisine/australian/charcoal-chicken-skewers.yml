@@ -63,7 +63,7 @@ ingredients:
     raw: 1 ¼ teaspoons fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 3
     unit: tbsp
@@ -79,5 +79,5 @@ ingredients:
     raw: A simple chopped salad
   - name: lemon wedges
     raw: Lemon wedges
-  - name: "sauce: garlic toum"
+  - name: sauce
     raw: "A sauce: garlic toum or lemon yogurt sauce"

@@ -40,7 +40,7 @@ ingredients:
     raw: 120 ml fresh lime juice
   - qty: 120
     unit: ml
-    name: orange juice
+    name: juice (orange)
     raw: 120 ml fresh orange juice
   - qty: 6
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 ½ teaspoons ground black pepper
   - qty: 1
     unit: tsp
@@ -78,7 +78,7 @@ ingredients:
     name: paprika
     raw: 1 teaspoon paprika
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 1
     unit: small handful
@@ -91,10 +91,10 @@ ingredients:
     name: tomatoes
     raw: 4 large ripe tomatoes
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 medium green pepper
   - qty: 1
     name: chilli
@@ -118,7 +118,7 @@ ingredients:
     raw: ½ teaspoon ground cumin
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - name: warm corn tortillas
     raw: Warm corn tortillas
@@ -134,5 +134,5 @@ ingredients:
     raw: Sliced avocado
   - name: lime wedges
     raw: Lime wedges
-  - name: green salad
+  - name: salad (green)
     raw: Fresh green salad

@@ -34,7 +34,7 @@ ingredients:
     raw: 20 garlic cloves
   - qty: 250
     unit: ml
-    name: sour orange juice ;
+    name: sour orange juice
     raw: 250 ml fresh sour orange juice ; OR 125 ml fresh orange juice + 125 ml fresh lime juice as substitute
   - qty: 100
     unit: ml
@@ -54,14 +54,14 @@ ingredients:
     raw: 2 tablespoons fine sea salt
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tablespoon ground black pepper
   - qty: 1
     unit: tbsp
     name: paprika
     raw: 1 tablespoon paprika
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 1
     name: coriander
@@ -99,9 +99,9 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
-  - name: black beans
+  - name: beans (black)
     raw: Black beans
   - name: plain white rice
     raw: Plain white rice

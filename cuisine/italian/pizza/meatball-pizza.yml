@@ -31,7 +31,7 @@ ingredients:
     name: mini beef meatballs
     raw: 300 grams mini beef meatballs
   - qty: 1
-    name: to 2 garlic cloves
+    name: garlic
     raw: 1 to 2 garlic cloves
   - qty: 400
     unit: g
@@ -39,7 +39,7 @@ ingredients:
     raw: 400 grams tomato passata
   - qty: 1
     unit: splash
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: Splash of red wine vinegar
   - qty: 0.25
     unit: tsp
@@ -65,7 +65,7 @@ ingredients:
     name: pepperoni
     raw: 12 slices pepperoni
   - qty: 0.5
-    name: green pepper
+    name: pepper (green)
     raw: ½ green pepper
   - qty: 0.5
     name: onion

@@ -41,7 +41,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 1
     unit: tsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 tablespoon salt
   - qty: 2
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 2 teaspoons black pepper
   - qty: 1
     unit: tsp

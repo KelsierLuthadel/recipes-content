@@ -38,7 +38,7 @@ ingredients:
     raw: 1 tablespoon Cajun seasoning
   - qty: 250
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 250 g coarse yellow cornmeal
   - qty: 100
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: 1 teaspoon cayenne
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

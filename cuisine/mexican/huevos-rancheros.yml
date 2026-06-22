@@ -28,10 +28,10 @@ ingredients:
     name: garlic
     raw: 2 garlic cloves
   - qty: 2
-    name: red peppers
+    name: peppers (red)
     raw: 2 red peppers
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 1
     name: chilli
@@ -44,7 +44,7 @@ ingredients:
     raw: 2 ripe tomatoes
   - qty: 800
     unit: g
-    name: quality plum tomatoes
+    name: plum tomatoes
     raw: 800g tins quality plum tomatoes
   - name: lugs of olive oil
     raw: Several good lugs of olive oil

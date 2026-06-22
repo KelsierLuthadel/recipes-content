@@ -24,5 +24,5 @@ ingredients:
     unit: pinch
     name: sea salt
     raw: Pinch of sea salt
-  - name: "optional: 1 tsp dark brown sugar"
+  - name: optional
     raw: "Optional: 1 tsp dark brown sugar"

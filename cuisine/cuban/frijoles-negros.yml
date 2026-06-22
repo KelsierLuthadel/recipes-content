@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 500 g dried black beans
   - name: water for soaking
     raw: Cold water for soaking
@@ -43,10 +43,10 @@ ingredients:
     name: onions
     raw: 2 large onions
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 large green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 small red bell pepper
   - qty: 10
     name: garlic
@@ -80,7 +80,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -91,14 +91,14 @@ ingredients:
     raw: 1 small fresh chilli
   - qty: 3
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 3 tablespoons red wine vinegar
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
   - name: plain white rice
     raw: Plain white rice
-  - name: red onion
+  - name: onion (red)
     raw: Sliced raw red onion
   - name: avocado
     raw: Sliced avocado

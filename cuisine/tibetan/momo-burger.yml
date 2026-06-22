@@ -29,7 +29,7 @@ ingredients:
     name: grass fed beef mince
     raw: 500 g grass-fed beef mince
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 2
     name: spring onions
@@ -55,7 +55,7 @@ ingredients:
     raw: ½ teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 4
     name: whole wheat english muffins
@@ -65,7 +65,7 @@ ingredients:
     name: light mayonnaise
     raw: 3 tablespoons light mayonnaise
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - name: shredded iceberg
     raw: Shredded iceberg

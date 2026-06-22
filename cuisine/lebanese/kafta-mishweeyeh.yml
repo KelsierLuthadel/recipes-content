@@ -49,7 +49,7 @@ ingredients:
     raw: ½ teaspoon ground cinnamon
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1.5
     unit: tsp
@@ -63,7 +63,7 @@ ingredients:
     name: cherry tomatoes
     raw: 8 cherry tomatoes
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 4
     name: pita

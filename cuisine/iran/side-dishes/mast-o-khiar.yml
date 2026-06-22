@@ -19,7 +19,7 @@ ingredients:
     name: strained greek yogurt
     raw: 500 g thick strained Greek yogurt
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 0.5
     unit: tsp
@@ -43,7 +43,7 @@ ingredients:
     raw: ¼ teaspoon salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon ground black pepper
   - qty: 1
     unit: tbsp

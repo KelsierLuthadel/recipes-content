@@ -28,7 +28,7 @@ ingredients:
     raw: 2 tablespoons ground allspice
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 tablespoon garlic powder
   - qty: 2
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 2 teaspoons ground black pepper
   - qty: 2
     unit: tsp

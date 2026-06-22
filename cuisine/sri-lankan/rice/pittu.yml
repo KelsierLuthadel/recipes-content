@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: red rice flour
+    name: rice flour (red)
     raw: 400 g red rice flour
   - qty: 1
     unit: tsp
@@ -40,12 +40,12 @@ ingredients:
     name: salt
     raw: Pinch of salt
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli
   - qty: 1
     name: banana
     raw: 1 ripe banana per person
-  - name: "curry on the side: parippu"
+  - name: curry on the side
     raw: "A curry on the side: parippu, fish curry, kiri hodi"
   - name: spoon of kithul palm treacle
     raw: A spoon of kithul palm treacle

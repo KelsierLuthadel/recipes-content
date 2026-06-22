@@ -33,7 +33,7 @@ ingredients:
     name: soaked cashews
     raw: 2 tablespoons soaked cashews
   - qty: 2.5
-    name: green chillies
+    name: chillies (green)
     raw: 2-3 green chillies
   - qty: 15
     unit: g
@@ -61,10 +61,10 @@ ingredients:
     raw: 1 tablespoon coconut oil
   - qty: 1
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 1 teaspoon black mustard seeds
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 1
     unit: tsp

@@ -45,7 +45,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 2 green bell peppers
   - qty: 3
     name: celery
@@ -59,7 +59,7 @@ ingredients:
     raw: 1 cup plain flour
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon ground white pepper
   - qty: 4
     name: bay leaves
@@ -86,5 +86,5 @@ ingredients:
     raw: 3 teaspoons gumbo filé powder
   - name: louisiana hot sauce
     raw: Louisiana hot sauce, to taste
-  - name: white rice
+  - name: rice (white)
     raw: Cooked white rice, scallions , to serve

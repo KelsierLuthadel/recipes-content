@@ -33,7 +33,7 @@ ingredients:
     name: coconut cream
     raw: 200 ml thick coconut cream
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, very finely diced
   - qty: 2
     name: tomatoes
@@ -42,7 +42,7 @@ ingredients:
     name: /2 cucumber
     raw: 1/2 cucumber, deseeded and diced 5 mm
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 small red chilli, finely chopped
   - qty: 1
     unit: tbsp
@@ -51,5 +51,5 @@ ingredients:
   - qty: 1
     name: spring onion
     raw: 1 spring onion, finely sliced
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

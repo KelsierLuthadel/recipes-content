@@ -46,10 +46,10 @@ ingredients:
     name: rice vermicelli
     raw: 100 g rice vermicelli
   - qty: 1
-    name: head butter lettuce
+    name: butter lettuce
     raw: 1 head butter lettuce, leaves separated
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 large cucumber, peeled into thin ribbons OR julienned
   - qty: 1
     name: carrot
@@ -73,7 +73,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, cut lengthways into long thin strips
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies, julienned
   - qty: 9
     name: round rice paper wrappers
@@ -128,7 +128,7 @@ ingredients:
     name: garlic
     raw: 1 clove garlic, finely grated
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies, finely chopped
   - qty: 60
     unit: ml

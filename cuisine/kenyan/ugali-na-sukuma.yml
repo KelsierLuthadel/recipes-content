@@ -37,7 +37,7 @@ ingredients:
     name: garlic
     raw: 2 cloves garlic, crushed
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli, finely chopped
   - qty: 1
     unit: tsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 500 ml water
   - qty: 250
     unit: g
-    name: white maize meal
+    name: maize meal (white)
     raw: 250 g white maize meal
   - qty: 0.5
     name: /2 tsp salt

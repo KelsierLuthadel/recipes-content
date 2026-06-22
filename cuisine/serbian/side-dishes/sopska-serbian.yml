@@ -21,10 +21,10 @@ ingredients:
     name: tomatoes
     raw: 4 large ripe tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 large cucumber, peeled if waxed
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     name: roasted red pepper
@@ -38,7 +38,7 @@ ingredients:
     raw: 3 tbsp sunflower oil
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tbsp white wine vinegar
   - qty: 0.5
     name: /2 tsp fine salt

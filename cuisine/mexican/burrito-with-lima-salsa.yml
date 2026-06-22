@@ -69,19 +69,19 @@ ingredients:
     name: rings fresh pineapple
     raw: 3-4 rings fresh pineapple, 1cm thick
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: yellow bell pepper
+    name: bell pepper (yellow)
     raw: 1 yellow bell pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 fresh red chilli
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 fresh green chilli
   - qty: 1.5
     name: spring onions
@@ -100,7 +100,7 @@ ingredients:
     name: soft flour tortillas
     raw: 6 soft flour tortillas
   - qty: 0.5
-    name: head iceberg lettuce
+    name: iceberg lettuce
     raw: ½ head iceberg lettuce
   - qty: 250
     unit: g

@@ -33,10 +33,10 @@ ingredients:
     name: sauerkraut
     raw: 100 g sauerkraut
   - qty: 1
-    name: green peas
+    name: peas (green)
     raw: 1 small tin green peas
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 5
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 5 tablespoons sunflower oil
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tablespoons white wine vinegar
   - qty: 1
     unit: tsp

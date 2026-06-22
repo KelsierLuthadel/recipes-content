@@ -87,16 +87,16 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 large red onions
   - qty: 2
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 2 large red bell peppers
   - qty: 2
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 2 large green bell peppers
   - qty: 10
     name: cherry tomatoes

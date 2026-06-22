@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: pinto beans ;
+    name: pinto beans
     raw: 800 g cooked pinto beans ; or 350 g dried pinto beans soaked overnight and cooked
   - qty: 4
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 250
     unit: ml

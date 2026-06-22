@@ -31,12 +31,12 @@ ingredients:
     raw: 100 g caster sugar
   - qty: 1
     unit: tbsp
-    name: white peppercorns
+    name: peppercorns (white)
     raw: 1 tbsp coarsely crushed white peppercorns
   - qty: 1
     name: dill
     raw: 1 large bunch fresh dill, roughly chopped
-  - name: "optional: 2 tbsp aquavit"
+  - name: optional
     raw: "Optional: 2 tbsp aquavit, brandy or vodka"
   - qty: 3
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 2 tbsp caster sugar
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tbsp white wine vinegar
   - qty: 100
     unit: ml

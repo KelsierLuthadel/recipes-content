@@ -49,7 +49,7 @@ ingredients:
     raw: 3 tablespoons tomato paste
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tablespoons brown sugar
   - qty: 1
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 tablespoon sweet paprika
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 250
     unit: ml

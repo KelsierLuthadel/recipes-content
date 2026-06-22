@@ -23,7 +23,7 @@ ingredients:
     name: garlic
     raw: 8 garlic cloves
   - qty: 2
-    name: long green chillies
+    name: chillies (green)
     raw: 2 long green chillies
   - qty: 60
     unit: ml
@@ -35,7 +35,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: tsp

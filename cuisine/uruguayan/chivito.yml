@@ -51,7 +51,7 @@ ingredients:
     raw: 2 tbsp olive oil
   - name: salt and black pepper
     raw: Salt and black pepper
-  - name: "optional: 2 fried eggs"
+  - name: optional
     raw: "Optional: 2 fried eggs"
   - qty: 600
     unit: g

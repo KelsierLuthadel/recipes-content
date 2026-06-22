@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: velveeta cheese ;
+    name: velveeta cheese
     raw: 500 g Velveeta cheese ; OR 400 g mild cheddar + 200 g Monterey Jack + 150 g cream cheese
   - qty: 200
     unit: ml
@@ -58,14 +58,14 @@ ingredients:
     raw: 1 teaspoon chili powder
   - qty: 200
     unit: g
-    name: chorizo ; for queso fundido style
+    name: chorizo
     raw: 200 g cooked chorizo ; for queso fundido style
   - qty: 200
     unit: g
-    name: beef ; for "beef queso"
+    name: beef
     raw: 200 g cooked ground beef ; for "beef queso"
   - qty: 1
-    name: avocado ; for fancy version
+    name: avocado
     raw: 1 ripe avocado ; for fancy version
   - qty: 2
     unit: tbsp
@@ -76,7 +76,7 @@ ingredients:
     raw: 1 sliced spring onion
   - name: pickled jalapenos
     raw: Pickled jalapeños
-  - name: yellow corn tortilla chips
+  - name: corn tortilla chips (yellow)
     raw: Yellow corn tortilla chips
   - name: pico de gallo
     raw: Pico de gallo

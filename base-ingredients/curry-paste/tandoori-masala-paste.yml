@@ -37,10 +37,10 @@ ingredients:
     raw: 2 teaspoons caraway seeds
   - qty: 2
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 teaspoons black peppercorns
   - qty: 2
-    name: black cardamom pods
+    name: cardamom pods (black)
     raw: 2 black cardamom pods
   - qty: 1
     name: star anise
@@ -64,7 +64,7 @@ ingredients:
     raw: 3 tablespoons fresh ginger
   - qty: 150
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 150 ml white wine vinegar
   - qty: 100
     unit: ml

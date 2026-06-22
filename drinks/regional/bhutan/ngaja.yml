@@ -13,7 +13,7 @@ mentions:
 ingredients:
   - qty: 4
     unit: tsp
-    name: black tea
+    name: tea (black)
     raw: 4 teaspoons strong black tea
   - qty: 600
     unit: ml
@@ -32,5 +32,5 @@ ingredients:
   - name: cinnamon stick
     raw: A small piece of cinnamon stick
   - qty: 4
-    name: to 6 teaspoons sugar
+    name: sugar
     raw: 4 to 6 teaspoons sugar, to taste

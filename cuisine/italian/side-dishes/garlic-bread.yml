@@ -33,9 +33,9 @@ ingredients:
     unit: tsp
     name: flaky sea salt
     raw: 1 teaspoon flaky sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: A grind of black pepper
-  - name: "optional: 50 g grated parmesan cheese"
+  - name: optional
     raw: "Optional: 50 g grated parmesan cheese"
-  - name: "optional: 1 teaspoon dried chilli flakes"
+  - name: optional
     raw: "Optional: 1 teaspoon dried chilli flakes"

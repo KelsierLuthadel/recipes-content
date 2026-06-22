@@ -56,7 +56,7 @@ ingredients:
     raw: 1 tsp sweet paprika
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp ground black pepper
   - qty: 1
     name: cinnamon stick
@@ -83,7 +83,7 @@ ingredients:
     name: pumpkin
     raw: 300 g pumpkin or butternut squash, peeled and cut into chunks
   - qty: 1
-    name: green cabbage wedge
+    name: cabbage wedge (green)
     raw: 1 small green cabbage wedge
   - qty: 1
     name: coriander

@@ -48,7 +48,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 6
-    name: red chillies
+    name: chillies (red)
     raw: 6 whole dried red chillies
   - qty: 400
     unit: ml
@@ -59,7 +59,7 @@ ingredients:
     name: sea salt
     raw: 1 teaspoon fine sea salt
   - qty: 7
-    name: green chillies
+    name: chillies (green)
     raw: 6-8 fresh green chillies
   - qty: 2
     unit: tbsp

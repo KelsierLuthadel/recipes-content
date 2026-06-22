@@ -20,7 +20,7 @@ mentions:
   - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 red onions
   - qty: 400
     unit: ml
@@ -28,7 +28,7 @@ ingredients:
     raw: 400 ml iced water
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 1
     unit: tsp
@@ -47,7 +47,7 @@ ingredients:
     raw: ½ teaspoon Kashmiri chilli flakes
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon ground black pepper
   - qty: 1
     unit: pinch
@@ -66,7 +66,7 @@ ingredients:
     name: mint
     raw: A handful of fresh mint
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     unit: tbsp

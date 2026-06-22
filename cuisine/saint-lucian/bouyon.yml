@@ -45,10 +45,10 @@ ingredients:
     name: garlic
     raw: 4 cloves garlic, minced
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 small scotch bonnet, halved
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper, chopped
   - qty: 2
     name: tomatoes
@@ -74,7 +74,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp black pepper
   - qty: 1
     name: dasheen
@@ -89,7 +89,7 @@ ingredients:
     name: firm green plantain
     raw: 1 firm green plantain, peeled and cut into 3 cm rounds
   - qty: 2
-    name: green bananas
+    name: bananas (green)
     raw: 2 green bananas , peeled and halved
   - qty: 200
     unit: g

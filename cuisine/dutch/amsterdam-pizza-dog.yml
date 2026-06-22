@@ -26,14 +26,14 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long bratwurst
+    name: bratwurst
     raw: 4 long bratwurst or frankfurter-style sausages
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 4
-    name: long soft white sub rolls
+    name: soft white sub rolls
     raw: 4 long soft white sub rolls or hoagie rolls
   - qty: 2
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 0.5
     unit: tsp
@@ -87,7 +87,7 @@ ingredients:
     raw: 80 g pepperoni slices
   - qty: 50
     unit: g
-    name: black olives
+    name: olives (black)
     raw: 50 g sliced black olives
   - qty: 2
     unit: tbsp

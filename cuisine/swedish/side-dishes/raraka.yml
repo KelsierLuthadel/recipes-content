@@ -28,7 +28,7 @@ ingredients:
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
-  - name: black pepper
+  - name: pepper (black)
     raw: Ground black pepper
   - qty: 200
     unit: ml
@@ -41,7 +41,7 @@ ingredients:
   - qty: 1
     name: chives
     raw: 1 small bunch fresh chives
-  - name: "optional: bleak roe for a more luxurious version"
+  - name: optional
     raw: "Optional: bleak roe for a more luxurious version"
   - name: beer
     raw: A cold beer or sparkling water

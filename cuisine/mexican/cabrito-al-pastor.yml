@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 2.5
     unit: kg
-    name: leg of young goat ;
+    name: leg of young goat
     raw: 2.5 kg bone-in leg of young goat ; OR 2.5 kg bone-in leg of lamb
   - qty: 4
     name: guajillo chillies
@@ -58,7 +58,7 @@ ingredients:
     raw: 4 tablespoons olive oil
   - qty: 3
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 3 tablespoons white vinegar
   - qty: 2
     unit: tbsp
@@ -90,7 +90,7 @@ ingredients:
     raw: 2 tablespoons fine sea salt
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tablespoon ground black pepper
   - qty: 1
     name: onion

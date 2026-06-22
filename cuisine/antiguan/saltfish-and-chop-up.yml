@@ -37,13 +37,13 @@ ingredients:
     name: thyme leaves
     raw: 1 tbsp fresh thyme leaves
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet, deseeded and minced
   - qty: 2
     unit: tbsp
     name: vegetable oil
     raw: 2 tbsp vegetable oil
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 1
     name: eggplant
@@ -63,5 +63,5 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

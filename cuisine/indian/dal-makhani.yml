@@ -32,11 +32,11 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: black urad dal
+    name: urad dal (black)
     raw: 250 g whole black urad dal
   - qty: 50
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 50 g red kidney beans
   - qty: 1.5
     unit: l
@@ -69,7 +69,7 @@ ingredients:
     name: ginger
     raw: 30 g fresh ginger
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 4
     name: tomatoes

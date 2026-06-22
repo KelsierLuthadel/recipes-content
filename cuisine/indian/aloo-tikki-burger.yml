@@ -42,7 +42,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 fresh green chillies
   - qty: 1
     name: coriander
@@ -76,7 +76,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 100
     unit: g
@@ -93,7 +93,7 @@ ingredients:
     name: mint
     raw: 1 small bunch fresh mint
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 fresh green chillies
   - qty: 1
     name: ginger
@@ -145,7 +145,7 @@ ingredients:
     raw: ½ teaspoon Kashmiri chilli powder
   - qty: 0.5
     unit: tsp
-    name: black salt
+    name: salt (black)
     raw: ½ teaspoon black salt
   - qty: 4
     name: soft white burger buns
@@ -155,13 +155,13 @@ ingredients:
     name: mayonnaise
     raw: 4 tablespoons mayonnaise
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     name: tomato
     raw: 1 large tomato
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ cucumber
   - qty: 1
     name: cos lettuce heart

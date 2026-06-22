@@ -59,7 +59,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon coarsely ground white pepper
   - name: lemon
     raw: Zest of 1 lemon
@@ -74,7 +74,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 4
     name: cloves
@@ -116,7 +116,7 @@ ingredients:
     raw: 4 tablespoons fresh lemon juice
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tablespoons white wine vinegar
   - qty: 100
     unit: ml
@@ -136,17 +136,17 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon coarsely ground white pepper
   - qty: 400
     unit: g
-    name: white rice
+    name: rice (white)
     raw: 400 g cooked white rice OR 800 g boiled new potatoes
   - name: bowl of extra capers
     raw: A small bowl of extra capers
   - name: lemon wedges
     raw: Lemon wedges
-  - name: green salad alongside
+  - name: salad alongside (green)
     raw: A green salad alongside
   - name: glass of dry german riesling
     raw: A glass of dry German Riesling

@@ -61,7 +61,7 @@ ingredients:
     name: turmeric
     raw: 2 cm fresh turmeric
   - qty: 1
-    name: long red chilli
+    name: chilli (red)
     raw: 1 long red chilli
   - qty: 4
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 4 tablespoons fish sauce
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 teaspoon brown sugar
   - qty: 1
     unit: tsp
@@ -115,7 +115,7 @@ ingredients:
     name: limes
     raw: 2 limes
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 long red chillies
   - name: fish sauce
     raw: Extra fish sauce

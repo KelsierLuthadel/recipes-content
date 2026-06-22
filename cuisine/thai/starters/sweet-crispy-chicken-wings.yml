@@ -28,7 +28,7 @@ ingredients:
     name: chicken wings
     raw: 12 chicken wings, bony ends cut off
   - qty: 3
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 3 generous tbsp black peppercorns
   - qty: 150
     unit: g
@@ -42,7 +42,7 @@ ingredients:
     name: spring onions
     raw: 3 spring onions , roughly chopped, to garnish
   - qty: 1
-    name: red spur chilli
+    name: spur chilli (red)
     raw: 1 red spur chilli, thinly sliced, to garnish
   - qty: 3
     unit: tbsp

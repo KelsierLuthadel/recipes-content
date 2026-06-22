@@ -67,10 +67,10 @@ ingredients:
     name: cinnamon stick
     raw: 1 cinnamon stick
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods, lightly crushed
   - qty: 2
-    name: black cardamom pods
+    name: cardamom pods (black)
     raw: 2 black cardamom pods, lightly crushed
   - qty: 6
     name: cloves
@@ -83,7 +83,7 @@ ingredients:
     name: garam masala
     raw: 1 tsp garam masala
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies, slit
   - qty: 1
     unit: tsp

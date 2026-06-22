@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: white fish fillets
+    name: fish fillets (white)
     raw: 1 kg skinless white fish fillets
   - qty: 2
     name: onions
@@ -45,7 +45,7 @@ ingredients:
     unit: tsp
     name: caster sugar
     raw: 1 teaspoon caster sugar
-  - name: white pepper
+  - name: pepper (white)
     raw: A generous grind of white pepper
   - name: fish skins
     raw: Fish skins, heads and bones
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 bay leaf
   - qty: 0.5
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: ½ teaspoon black peppercorns
   - qty: 1
     unit: tsp

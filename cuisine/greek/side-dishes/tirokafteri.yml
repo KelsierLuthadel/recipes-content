@@ -27,7 +27,7 @@ ingredients:
     name: roasted red pepper
     raw: 1 roasted red pepper
   - qty: 1.5
-    name: red chillies
+    name: chillies (red)
     raw: 1-2 fresh red chillies
   - qty: 1
     name: garlic
@@ -38,7 +38,7 @@ ingredients:
     raw: 3 tablespoons extra virgin olive oil
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tablespoon red-wine vinegar
   - qty: 1
     unit: tsp

@@ -30,7 +30,7 @@ ingredients:
     name: eggs
     raw: 2 eggs
   - qty: 6
-    name: red spur chillies
+    name: spur chillies (red)
     raw: 6 red spur chillies, slit lengthways
   - qty: 120
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: tbsp
-    name: red chilli powder
+    name: chilli powder (red)
     raw: 1 tbsp red chilli powder
   - name: rapeseed oil
     raw: Rapeseed oil, for deep-frying

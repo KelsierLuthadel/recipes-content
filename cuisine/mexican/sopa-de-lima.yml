@@ -32,13 +32,13 @@ ingredients:
     name: water
     raw: 2 litres water
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 8
     name: garlic
     raw: 8 garlic cloves
   - qty: 6
-    name: tomatoes ;
+    name: tomatoes
     raw: 6 ripe tomatoes ; or 1 tin chopped tomatoes
   - qty: 1
     unit: tbsp
@@ -68,9 +68,9 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
-  - name: yucatecan limas agrias ;
+  - name: yucatecan limas agrias
     raw: Juice of 4 Yucatecan limas agrias ; OR juice of 4 regular limes + juice of 1 sour orange + zest of 2 limes
   - qty: 6
     name: corn tortillas
@@ -96,11 +96,11 @@ ingredients:
     name: avocado
     raw: 1 ripe avocado
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - name: lime wedges
     raw: Extra lime wedges
-  - name: plain white rice ;
+  - name: plain white rice
     raw: Plain white rice ; optional
   - name: warm corn tortillas
     raw: Warm corn tortillas

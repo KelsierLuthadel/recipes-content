@@ -33,7 +33,7 @@ ingredients:
     raw: 150 g unsmoked thick-cut bacon
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon white pepper
   - qty: 1
     unit: tsp
@@ -92,7 +92,7 @@ ingredients:
     raw: 500 ml strong pork stock
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - name: salt
     raw: Salt to taste

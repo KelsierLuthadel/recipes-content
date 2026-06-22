@@ -45,7 +45,7 @@ ingredients:
     raw: Vegetable oil for deep-frying
   - name: caster sugar for dusting
     raw: Caster sugar for dusting
-  - name: "or: drizzle of honey"
+  - name: or
     raw: "Or: drizzle of honey"
-  - name: "or: butter and jam"
+  - name: or
     raw: "Or: butter and jam to serve"

@@ -36,7 +36,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 60
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 60 ml red palm oil
   - qty: 1
     name: onion
@@ -45,7 +45,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves, crushed
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli, finely chopped
   - qty: 2
     name: tomatoes

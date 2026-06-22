@@ -30,10 +30,10 @@ ingredients:
     name: cold swedish meatballs
     raw: 12-16 cold Swedish meatballs
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ cucumber
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     name: dill
@@ -45,7 +45,7 @@ ingredients:
   - qty: 4
     name: swedish cheese
     raw: 4 slices mild Swedish cheese
-  - name: black pepper
+  - name: pepper (black)
     raw: Ground black pepper
   - name: glass of milk
     raw: A cold glass of milk OR a small lager OR strong coffee

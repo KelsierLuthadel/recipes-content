@@ -33,7 +33,7 @@ ingredients:
     name: dijon mustard
     raw: 1 ½ teaspoons Dijon mustard
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - qty: 2
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon freshly ground black pepper
   - qty: 1
     unit: tsp

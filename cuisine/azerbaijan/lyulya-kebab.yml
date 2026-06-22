@@ -31,7 +31,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -49,7 +49,7 @@ ingredients:
     name: sheets fresh lavash
     raw: 4 sheets fresh lavash
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 red onions
   - qty: 2
     unit: tbsp

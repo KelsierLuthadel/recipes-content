@@ -40,7 +40,7 @@ ingredients:
     raw: 2 teaspoons flaky sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     name: onion
@@ -55,7 +55,7 @@ ingredients:
     raw: A few extra rosemary sprigs
   - qty: 250
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 250 ml red wine
   - qty: 500
     unit: ml

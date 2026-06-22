@@ -28,7 +28,7 @@ mentions:
 ingredients:
   - qty: 450
     unit: g
-    name: white flour
+    name: flour (white)
     raw: 450 g strong white flour
   - qty: 1
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     name: ginger
     raw: 15 g fresh ginger
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     unit: tsp

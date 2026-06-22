@@ -36,7 +36,7 @@ ingredients:
     raw: 1 tsp salt
   - name: plenty of black pepper
     raw: Plenty of black pepper
-  - name: "optional: 1 tbsp worcestershire sauce"
+  - name: optional
     raw: "Optional: 1 tbsp Worcestershire sauce"
-  - name: "optional: 4 eggs to fry alongside"
+  - name: optional
     raw: "Optional: 4 eggs to fry alongside"

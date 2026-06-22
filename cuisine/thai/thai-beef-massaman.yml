@@ -37,7 +37,7 @@ ingredients:
     name: potatoes
     raw: 2 potatoes, peeled and cut into bite-size pieces
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ red onion, quartered
   - qty: 2
     unit: tbsp
@@ -68,5 +68,5 @@ ingredients:
     raw: 3 tbsp Thai fish sauce
   - name: salt
     raw: Salt, to taste
-  - name: thai holy basil
+  - name: thai basil
     raw: Thai holy basil

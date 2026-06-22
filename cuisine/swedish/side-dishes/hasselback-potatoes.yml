@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: yellow waxy potatoes
+    name: waxy potatoes (yellow)
     raw: 8 medium yellow waxy potatoes
   - qty: 80
     unit: g
@@ -39,7 +39,7 @@ ingredients:
     raw: 2 teaspoons coarse sea salt or flaky salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: clove

@@ -54,7 +54,7 @@ ingredients:
     raw: 400 g runny honey
   - qty: 200
     unit: g
-    name: black treacle
+    name: treacle (black)
     raw: 200 g black treacle
   - qty: 200
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     raw: 60 g cocoa powder
   - qty: 2
     unit: tbsp
-    name: orange zest
+    name: zest (orange)
     raw: 2 tablespoons orange zest
   - qty: 2
     unit: tbsp

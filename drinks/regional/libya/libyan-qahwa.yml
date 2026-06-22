@@ -16,7 +16,7 @@ ingredients:
     name: dark roast arabic coffee
     raw: 4 tbsp finely ground dark roast Arabic coffee
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 350
     unit: ml
@@ -26,7 +26,7 @@ ingredients:
     unit: tsp
     name: sugar
     raw: 1-3 tsp sugar
-  - name: "optional: 1 clove"
+  - name: optional
     raw: "Optional: 1 clove or a tiny pinch of saffron"
-  - name: "to serve: 4 small handleless cups"
+  - name: to serve
     raw: "To serve: 4 small handleless cups, 4 glasses of cold water, 4 medjool dates"

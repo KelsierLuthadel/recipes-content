@@ -25,14 +25,14 @@ ingredients:
     name: onions
     raw: 2 medium onions, very thinly sliced into rings
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 small red bell pepper, very thinly sliced
   - qty: 6
     unit: clove
     name: garlic
     raw: 6 cloves garlic, thinly sliced
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 fresh red chilli, thinly sliced
   - qty: 2
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 tsp hot paprika
   - qty: 2
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 tsp whole black peppercorns
   - qty: 4
     name: allspice berries
@@ -54,7 +54,7 @@ ingredients:
     raw: 4 bay leaves
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 700
     unit: ml

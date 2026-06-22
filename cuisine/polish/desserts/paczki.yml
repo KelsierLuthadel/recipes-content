@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: white flour
+    name: flour (white)
     raw: 500 g strong white flour
   - qty: 10
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     raw: 150 g icing sugar
   - qty: 3
     unit: tbsp
-    name: orange juice
+    name: juice (orange)
     raw: 3 tablespoons fresh orange juice
   - name: candied orange peel
     raw: candied orange peel

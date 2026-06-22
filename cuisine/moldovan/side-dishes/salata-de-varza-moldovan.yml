@@ -14,7 +14,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: white cabbage
+    name: cabbage (white)
     raw: 1 small white cabbage , outer leaves removed
   - qty: 1
     name: carrot
@@ -35,11 +35,11 @@ ingredients:
     raw: 4 tbsp sunflower oil
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tbsp white-wine vinegar
   - qty: 1
     unit: tsp
     name: caster sugar
     raw: 1 tsp caster sugar
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste

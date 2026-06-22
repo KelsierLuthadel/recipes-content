@@ -121,7 +121,7 @@ ingredients:
     raw: 6 tbsp cumin seeds
   - qty: 5
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 5 tsp black peppercorns
   - qty: 4
     unit: tbsp
@@ -138,7 +138,7 @@ ingredients:
     name: indian bay leaves
     raw: 5 dried Indian bay leaves
   - qty: 20
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 20 green cardamom pods, lightly bruised
   - qty: 2
     name: mace

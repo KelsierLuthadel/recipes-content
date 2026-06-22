@@ -22,7 +22,7 @@ mentions:
   - tutorials/pizza/sauce
 ingredients:
   - qty: 6
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 6 large red bell peppers
   - qty: 500
     unit: g

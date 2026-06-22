@@ -34,7 +34,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: yellow hakka egg noodles
+    name: hakka egg noodles (yellow)
     raw: 500 g fresh yellow Hakka egg noodles
   - qty: 200
     unit: g
@@ -51,7 +51,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 4
     name: spring onions
@@ -64,7 +64,7 @@ ingredients:
     name: carrot
     raw: 1 medium carrot
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 small green pepper
   - qty: 100
     unit: g
@@ -107,7 +107,7 @@ ingredients:
     name: fried garlic
     raw: 2 tablespoons fried garlic
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 fresh red chilli
   - qty: 1
     name: lime

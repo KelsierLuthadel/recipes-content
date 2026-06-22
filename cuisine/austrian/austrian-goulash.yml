@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: brown onions
+    name: onions (brown)
     raw: 800 g brown onions
   - qty: 80
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     unit: ml
     name: beef stock
     raw: 600-800 ml beef stock
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 1
     unit: tbsp

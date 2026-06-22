@@ -28,7 +28,7 @@ ingredients:
     raw: 2 tsp fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp black pepper
   - qty: 2
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     name: tomatoes
     raw: 2 large tomatoes, chopped
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper, sliced
   - qty: 750
     unit: ml
@@ -84,7 +84,7 @@ ingredients:
     raw: 1 tbsp panela or dark brown sugar
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 400
     unit: ml
@@ -100,7 +100,7 @@ ingredients:
     raw: 100 g panela
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - name: stir together
     raw: Stir together, leave overnight loosely covered

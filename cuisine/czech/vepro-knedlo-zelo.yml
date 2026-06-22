@@ -36,7 +36,7 @@ ingredients:
     raw: 2 tsp fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp freshly ground black pepper
   - qty: 1
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: 2 tbsp plain flour
   - qty: 1
     unit: pinch
-    name: brown sugar
+    name: sugar (brown)
     raw: A pinch of brown sugar
   - qty: 100
     unit: ml
@@ -98,7 +98,7 @@ ingredients:
     raw: 200 ml water or stock
   - qty: 1
     unit: tsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tsp white wine vinegar
   - name: salt and pepper
     raw: Salt and pepper

@@ -20,10 +20,10 @@ ingredients:
     name: orange
     raw: 1 orange
   - qty: 1
-    name: green apple
+    name: apple (green)
     raw: 1 green apple
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 1
     name: garlic

@@ -37,7 +37,7 @@ ingredients:
     raw: 25 g plain flour
   - qty: 100
     unit: ml
-    name: brown ale
+    name: ale (brown)
     raw: 100 ml brown ale or stout
   - qty: 200
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     unit: pinch
     name: cayenne pepper
     raw: Pinch of cayenne pepper
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
-  - name: "optional: finely sliced spring onion"
+  - name: optional
     raw: "Optional: finely sliced spring onion or chives, to scatter"

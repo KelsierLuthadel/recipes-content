@@ -22,7 +22,7 @@ ingredients:
     name: tomatoes
     raw: 6 ripe medium tomatoes
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 1
     unit: large handful
@@ -34,15 +34,15 @@ ingredients:
     raw: 4 tbsp sunflower oil
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 1
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
-  - name: "optional: 1 clove garlic"
+  - name: optional
     raw: "Optional: 1 clove garlic, finely minced"
-  - name: "optional: 1 tsp dried oregano"
+  - name: optional
     raw: "Optional: 1 tsp dried oregano"

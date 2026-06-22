@@ -78,7 +78,7 @@ ingredients:
     raw: 1 cube fermented red bean curd , mashed
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ tsp white pepper
   - qty: 3
     unit: tbsp
@@ -94,7 +94,7 @@ ingredients:
     raw: 1 tbsp hot water
   - name: steamed jasmine rice
     raw: Steamed jasmine rice
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber
   - name: spring onion
     raw: Spring onion, sliced fine on the bias

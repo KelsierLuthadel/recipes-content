@@ -25,7 +25,7 @@ ingredients:
     name: tomatoes
     raw: 4 large ripe tomatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1.5
     name: jalapeno
@@ -35,7 +35,7 @@ ingredients:
     name: parsley
     raw: 2 tablespoons fresh parsley or coriander
   - qty: 2
-    name: rounds of injera ; torn into 3 4 cm pieces
+    name: rounds of injera
     raw: 2 small rounds of injera ; torn into 3-4 cm pieces
   - qty: 3
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon ground black pepper
   - qty: 0.5
     unit: tsp

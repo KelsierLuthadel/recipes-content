@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 3
-    name: green plantains
+    name: plantains (green)
     raw: 3 large green plantains
   - name: vegetable oil
     raw: Vegetable oil for frying
@@ -38,9 +38,9 @@ ingredients:
     raw: 4 garlic cloves
   - name: flaky sea salt
     raw: Flaky sea salt
-  - name: "mayo ketchup sauce: 100 g mayonnaise + 50 g ketchup + 2 crushed garlic cloves + a squeeze of lime + pinch of salt"
+  - name: mayo ketchup sauce
     raw: "Mayo-ketchup sauce: 100 g mayonnaise + 50 g ketchup + 2 crushed garlic cloves + a squeeze of lime + pinch of salt"
-  - name: "ajilimojili: 6 crushed garlic cloves + juice of 2 limes + 50 ml olive oil + ½ teaspoon salt + 1 tablespoon fresh coriander"
+  - name: ajilimojili
     raw: "Ajilimójili: 6 crushed garlic cloves + juice of 2 limes + 50 ml olive oil + ½ teaspoon salt + 1 tablespoon fresh coriander"
   - name: sofrito for dipping
     raw: Sofrito for dipping

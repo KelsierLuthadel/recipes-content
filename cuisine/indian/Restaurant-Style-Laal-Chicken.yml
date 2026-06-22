@@ -39,7 +39,7 @@ ingredients:
     raw: 1 tsp cumin seeds
   - qty: 0.75
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 0.75 tsp black mustard seeds
   - qty: 0.5
     unit: tsp
@@ -66,7 +66,7 @@ ingredients:
     name: kashmiri chilli powder
     raw: 1 tbsp Kashmiri chilli powder
   - qty: 0.5
-    name: to 2 tsp regular chilli powder
+    name: chilli powder
     raw: 0.5 to 2 tsp regular chilli powder
   - qty: 2.5
     unit: tbsp
@@ -82,13 +82,13 @@ ingredients:
     raw: 0.5 tsp salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 0.25 tsp ground black pepper
   - qty: 4
-    name: to 5 tbsp tomato paste
+    name: tomato paste
     raw: 4 to 5 tbsp tomato paste
   - qty: 175
-    name: to 200 g chicken
+    name: chicken
     raw: 175 to 200 g chicken, raw, or Pre-Cooked Chicken
   - qty: 330
     name: ml+ curry base gravy
@@ -103,7 +103,7 @@ ingredients:
     raw: 1 tbsp finely chopped fresh coriander
   - name: dollop of natural yoghurt
     raw: a dollop of natural yoghurt
-  - name: green chillies
+  - name: chillies (green)
     raw: sliced green chillies
   - qty: 1
     unit: pinch

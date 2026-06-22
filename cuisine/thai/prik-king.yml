@@ -55,7 +55,7 @@ ingredients:
     raw: 1 teaspoon ground coriander
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 500
     unit: g
@@ -63,7 +63,7 @@ ingredients:
     raw: 500 g pork shoulder
   - qty: 300
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 300 g green beans
   - qty: 4
     unit: tbsp
@@ -81,12 +81,12 @@ ingredients:
     name: kaffir lime leaves
     raw: 4 kaffir lime leaves
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 long red chillies
   - qty: 4
     name: jasmine rice
     raw: 4 servings jasmine rice
-  - name: thai basil leaves
+  - name: thai basil
     raw: Thai basil leaves
   - name: lime wedges
     raw: Lime wedges

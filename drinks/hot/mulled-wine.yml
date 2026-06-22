@@ -30,7 +30,7 @@ ingredients:
     name: star anise
     raw: 2 star anise
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 1
     name: bay leaf
@@ -43,7 +43,7 @@ ingredients:
     unit: ml
     name: brandy
     raw: 100 ml brandy, port or dark rum
-  - name: orange slices
+  - name: slices (orange)
     raw: Extra orange slices
   - name: cinnamon stick
     raw: A cinnamon stick per glass

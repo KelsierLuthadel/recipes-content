@@ -27,7 +27,7 @@ ingredients:
     name: chickpeas
     raw: 2 tins chickpeas
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
     name: tomatoes
@@ -36,7 +36,7 @@ ingredients:
     name: potato
     raw: 1 potato
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 4
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: ½ teaspoon Kashmiri red chilli powder
   - qty: 0.5
     unit: tsp
-    name: black salt
+    name: salt (black)
     raw: ½ teaspoon black salt
   - qty: 0.5
     unit: tsp

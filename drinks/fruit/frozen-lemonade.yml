@@ -42,5 +42,5 @@ ingredients:
   - qty: 4
     name: straws
     raw: 4 thick straws
-  - name: "optional: a lemon wheel"
+  - name: optional
     raw: "Optional: a lemon wheel per glass"

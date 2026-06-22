@@ -24,10 +24,10 @@ ingredients:
     name: belacan
     raw: 1 tablespoon belacan
   - qty: 6
-    name: red bird's eye chillies
+    name: bird's eye chillies (red)
     raw: 6 fresh red bird's eye chillies
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 1
     name: asian red shallot
@@ -45,5 +45,5 @@ ingredients:
     name: lime juice
     raw: 1 ½ tablespoons fresh lime juice
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli

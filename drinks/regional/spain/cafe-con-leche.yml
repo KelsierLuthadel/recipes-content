@@ -14,12 +14,12 @@ ingredients:
     name: espresso
     raw: 50 ml strong espresso
   - qty: 100
-    name: to 120 ml whole milk
+    name: milk
     raw: 100 to 120 ml whole milk
   - qty: 1
-    name: to 2 teaspoons white sugar
+    name: sugar (white)
     raw: 1 to 2 teaspoons white sugar, to taste
   - name: thick walled glass on a saucer
     raw: A small thick-walled glass on a saucer
-  - name: "optional: a small spoon for stirring"
+  - name: optional
     raw: "Optional: a small spoon for stirring"

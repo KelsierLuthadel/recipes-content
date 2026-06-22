@@ -58,7 +58,7 @@ ingredients:
     raw: 250 g dark brown sugar
   - qty: 3
     unit: tbsp
-    name: black treacle
+    name: treacle (black)
     raw: 3 tablespoons black treacle
   - qty: 1
     unit: tbsp
@@ -82,11 +82,11 @@ ingredients:
     raw: 1 ½ teaspoons salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 2
     unit: tbsp

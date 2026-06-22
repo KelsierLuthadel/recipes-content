@@ -50,7 +50,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 30
     unit: g
@@ -66,7 +66,7 @@ ingredients:
   - name: tzatziki
     raw: Tzatziki
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
     name: tomatoes
@@ -75,5 +75,5 @@ ingredients:
     unit: small handful
     name: oregano
     raw: A small handful of fresh oregano
-  - name: "optional: 200 g hot chips"
+  - name: optional
     raw: "Optional: 200 g hot chips"

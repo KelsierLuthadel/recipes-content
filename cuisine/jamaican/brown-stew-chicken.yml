@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 0.5
-    name: yellow onion
+    name: onion (yellow)
     raw: ½ medium yellow onion
   - qty: 1
     name: bell pepper
@@ -36,7 +36,7 @@ ingredients:
     raw: 6 garlic cloves or 1 tablespoon garlic paste
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tsp
@@ -79,7 +79,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 720
     unit: ml

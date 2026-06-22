@@ -38,7 +38,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 2
     unit: tbsp
@@ -46,7 +46,7 @@ ingredients:
     raw: 2 tablespoons sunflower oil OR rendered bacon fat
   - qty: 1
     unit: kg
-    name: yellow onions
+    name: onions (yellow)
     raw: 1 kg yellow onions, halved and sliced thin
   - qty: 60
     unit: g

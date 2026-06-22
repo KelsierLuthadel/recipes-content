@@ -29,7 +29,7 @@ ingredients:
     raw: 100 g pickled tea leaves
   - qty: 200
     unit: g
-    name: white cabbage
+    name: cabbage (white)
     raw: 200 g white cabbage
   - qty: 2
     name: tomatoes
@@ -47,7 +47,7 @@ ingredients:
     raw: 50 g unsalted peanuts
   - qty: 50
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 50 g yellow split peas
   - qty: 2
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     name: shrimp
     raw: 2 tablespoons dried shrimp
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 3
     unit: tbsp
@@ -73,5 +73,5 @@ ingredients:
     raw: 1 teaspoon sesame oil
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 teaspoon brown sugar

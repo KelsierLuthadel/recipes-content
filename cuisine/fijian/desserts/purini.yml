@@ -23,7 +23,7 @@ ingredients:
     raw: 100 g grated fresh coconut
   - qty: 80
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 80 g brown sugar
   - qty: 1
     unit: tsp
@@ -39,5 +39,5 @@ ingredients:
   - qty: 5
     name: banana leaves
     raw: 4-6 banana leaves, softened over a flame
-  - name: "for serving: 100 ml thick coconut cream"
+  - name: for serving
     raw: "For serving: 100 ml thick coconut cream"

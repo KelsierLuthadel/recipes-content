@@ -60,7 +60,7 @@ ingredients:
     raw: 1 tablespoon fine sea salt
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tablespoon ground black pepper
   - qty: 1
     unit: tsp
@@ -84,7 +84,7 @@ ingredients:
     raw: 3-6 tablespoons cayenne
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tablespoons brown sugar
   - qty: 1
     unit: tbsp
@@ -104,7 +104,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 8
     name: plain white bread

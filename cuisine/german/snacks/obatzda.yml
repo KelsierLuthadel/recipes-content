@@ -29,7 +29,7 @@ ingredients:
     name: cream cheese
     raw: 50 g cream cheese
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1
     name: garlic
@@ -51,7 +51,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1
     unit: pinch

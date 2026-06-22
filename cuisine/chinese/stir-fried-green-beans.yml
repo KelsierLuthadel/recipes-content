@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: long beans
+    name: beans
     raw: 500 g long beans
   - qty: 4
     unit: tbsp
@@ -38,7 +38,7 @@ ingredients:
     name: ginger
     raw: 2 cm fresh ginger
   - qty: 6
-    name: red chillies
+    name: chillies (red)
     raw: 6 dried red chillies
   - qty: 1
     unit: tsp

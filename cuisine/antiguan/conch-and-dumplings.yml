@@ -53,7 +53,7 @@ ingredients:
     name: thyme leaves
     raw: 1 tbsp fresh thyme leaves
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet pepper, whole
   - qty: 1
     unit: tsp
@@ -63,7 +63,7 @@ ingredients:
     unit: ml
     name: water
     raw: 750 ml water or fish stock
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 250
     unit: g

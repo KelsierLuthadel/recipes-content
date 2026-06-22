@@ -52,7 +52,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 4
     name: garlic
@@ -100,7 +100,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: ½ teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 1
     name: egg

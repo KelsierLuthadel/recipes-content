@@ -22,13 +22,13 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black eyed peas
+    name: eyed peas (black)
     raw: 300 g dried black-eyed peas
   - qty: 1
     name: onion
     raw: 1 small onion, finely chopped
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet, deseeded and chopped
   - qty: 2
     name: ginger

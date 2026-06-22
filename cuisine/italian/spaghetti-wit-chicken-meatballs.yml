@@ -31,7 +31,7 @@ ingredients:
     raw: 60 grams Parmesan cheese
   - qty: 160
     unit: g
-    name: white breadcrumbs
+    name: breadcrumbs (white)
     raw: 160 grams fresh white breadcrumbs
   - qty: 2
     name: garlic
@@ -47,7 +47,7 @@ ingredients:
     unit: tbsp
     name: sage
     raw: 1 tablespoon sage
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste
   - qty: 3
     unit: tbsp

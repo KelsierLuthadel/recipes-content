@@ -29,13 +29,13 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: green papaya
+    name: papaya (green)
     raw: 500 g green papaya
   - qty: 6
     name: garlic
     raw: 6 garlic cloves
   - qty: 5
-    name: red and green chillies
+    name: and green chillies (red)
     raw: 4-6 fresh red and green chillies
   - qty: 3
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     name: roasted peanuts
     raw: 4 tablespoons roasted peanuts
   - qty: 8
-    name: long beans
+    name: beans
     raw: 8 long beans
   - qty: 8
     name: cherry tomatoes

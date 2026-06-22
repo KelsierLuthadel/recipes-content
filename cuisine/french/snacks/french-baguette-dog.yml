@@ -20,18 +20,18 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long strasbourg style frankfurters
+    name: strasbourg style frankfurters
     raw: 4 long Strasbourg-style frankfurters
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 1
-    name: baguette ; cut into 4 sections of about 15cm each
+    name: baguette
     raw: 1 large fresh baguette ; cut into 4 sections of about 15cm each
   - qty: 250
     unit: g
-    name: gruyere cheese ;
+    name: gruyere cheese
     raw: 250 g Gruyère cheese ; or 50/50 Gruyère + Emmental
   - qty: 4
     unit: tbsp
@@ -43,7 +43,7 @@ ingredients:
     raw: 2 tablespoons crème fraîche
   - name: cornichons on the side
     raw: A few cornichons on the side
-  - name: green salad with vinaigrette
+  - name: salad with vinaigrette (green)
     raw: A green salad with vinaigrette
   - name: glass of dry alsatian riesling
     raw: A glass of dry Alsatian Riesling or Pinot Blanc

@@ -47,7 +47,7 @@ ingredients:
     raw: 8 garlic cloves, minced
   - qty: 1
     unit: g
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: 1 g red pepper flakes
   - qty: 120
     unit: ml
@@ -63,7 +63,7 @@ ingredients:
     raw: 120 ml chicken broth
   - qty: 30
     unit: g
-    name: white miso paste
+    name: miso paste (white)
     raw: 30 g white miso paste
   - qty: 8
     unit: g

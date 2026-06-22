@@ -39,10 +39,10 @@ ingredients:
     name: waxy potatoes
     raw: 3 medium waxy potatoes
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
     name: onion
@@ -64,13 +64,13 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
     name: oregano
     raw: 1 teaspoon dried oregano
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: ketchup
     raw: Ketchup

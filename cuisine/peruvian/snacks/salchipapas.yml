@@ -25,7 +25,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 6
-    name: long hot dogs
+    name: hot dogs
     raw: 6 long hot dogs
   - qty: 2
     unit: tbsp
@@ -74,7 +74,7 @@ ingredients:
     raw: ½ teaspoon ground cumin
   - name: ketchup
     raw: Ketchup
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: mayonnaise
     raw: Mayonnaise

@@ -39,7 +39,7 @@ ingredients:
     name: garlic
     raw: 2 garlic cloves
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli or jalapeño
   - qty: 100
     unit: g
@@ -68,7 +68,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: ½ teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 1
     name: coriander

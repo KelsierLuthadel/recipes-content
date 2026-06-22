@@ -15,13 +15,13 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 3
-    name: red peppers
+    name: peppers (red)
     raw: 3 red peppers
   - qty: 3
-    name: yellow peppers
+    name: peppers (yellow)
     raw: 3 yellow peppers
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 red onions
   - qty: 4
     name: artichoke hearts in oil

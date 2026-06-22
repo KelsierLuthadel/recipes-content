@@ -37,7 +37,7 @@ ingredients:
     name: peas
     raw: 150 g cooked peas
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, finely chopped
   - qty: 1
     name: tart apple
@@ -56,7 +56,7 @@ ingredients:
     raw: 2 teaspoons Dijon mustard
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
     unit: tsp

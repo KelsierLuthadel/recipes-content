@@ -25,10 +25,10 @@ ingredients:
     name: vegetable oil
     raw: 3 tbsp vegetable oil
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion, finely diced
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper, finely diced
   - qty: 4
     name: garlic
@@ -47,7 +47,7 @@ ingredients:
     raw: 150 ml water
   - qty: 100
     unit: g
-    name: green peas
+    name: peas (green)
     raw: 100 g frozen green peas
   - qty: 1
     unit: large handful

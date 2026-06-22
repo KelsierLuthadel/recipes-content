@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: green plantain
+    name: plantain (green)
     raw: 1 green plantain
   - qty: 1
     name: carrot
@@ -57,7 +57,7 @@ ingredients:
     name: cumin seeds
     raw: 1 teaspoon cumin seeds
   - qty: 2.5
-    name: green chillies
+    name: chillies (green)
     raw: 2-3 green chillies
   - qty: 4
     name: shallots

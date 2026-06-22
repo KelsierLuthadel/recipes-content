@@ -36,7 +36,7 @@ ingredients:
     raw: 800 g beef tenderloin
   - qty: 2
     unit: tbsp
-    name: green papaya paste
+    name: papaya paste (green)
     raw: 2 tablespoons green papaya paste
   - qty: 1
     unit: tbsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 tablespoon ginger-garlic paste
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 1
     unit: tsp
@@ -76,7 +76,7 @@ ingredients:
     raw: ½ teaspoon turmeric
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 0.5
     unit: tsp
@@ -105,7 +105,7 @@ ingredients:
     unit: tbsp
     name: butter
     raw: 2 tablespoons melted butter
-  - name: red onion
+  - name: onion (red)
     raw: Sliced red onion
   - name: mint yogurt chutney
     raw: Mint-yogurt chutney

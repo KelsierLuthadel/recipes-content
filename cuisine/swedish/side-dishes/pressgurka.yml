@@ -24,7 +24,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 50
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 50 ml white wine vinegar
   - qty: 100
     unit: g
@@ -39,5 +39,5 @@ ingredients:
     raw: 1 small bunch fresh dill
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper

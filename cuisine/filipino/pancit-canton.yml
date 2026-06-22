@@ -58,11 +58,11 @@ ingredients:
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper
   - qty: 100
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 100 g green beans
   - qty: 0.25
     name: cabbage
@@ -88,7 +88,7 @@ ingredients:
     raw: 600 ml chicken stock
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - name: lemon
     raw: Lemon , to serve

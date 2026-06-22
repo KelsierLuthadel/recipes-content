@@ -56,7 +56,7 @@ ingredients:
     name: onion
     raw: 0.5 medium onion , halved lengthwise and finely sliced
   - qty: 0.25
-    name: to 0.5 red pepper
+    name: pepper (red)
     raw: 0.25 to 0.5 red pepper , cut into 2 to 3 cm squares
   - qty: 1.5
     unit: tsp
@@ -87,18 +87,18 @@ ingredients:
     name: paprika
     raw: 1 tsp paprika
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 1
     unit: pinch
-    name: black pepper
+    name: pepper (black)
     raw: a pinch of freshly ground black pepper
   - qty: 1
     unit: tsp
     name: kasuri methi
     raw: 1 tsp kasuri methi
   - qty: 4
-    name: to 5 tbsp tomato paste
+    name: tomato paste
     raw: 4 to 5 tbsp tomato paste
   - qty: 1.5
     unit: tbsp

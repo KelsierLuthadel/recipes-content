@@ -47,7 +47,7 @@ ingredients:
     raw: 1 tablespoon doubanjiang
   - qty: 1
     unit: tbsp
-    name: red miso paste
+    name: miso paste (red)
     raw: 1 tablespoon red miso paste
   - qty: 1
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 teaspoon toasted sesame oil
   - qty: 3
     unit: tbsp
-    name: white sesame paste
+    name: sesame paste (white)
     raw: 3 tablespoons white sesame paste
   - qty: 2
     unit: tbsp
@@ -83,7 +83,7 @@ ingredients:
     raw: 1 tablespoon chilli oil
   - qty: 1
     unit: tsp
-    name: white miso paste
+    name: miso paste (white)
     raw: 1 teaspoon white miso paste
   - qty: 1
     name: garlic
@@ -98,7 +98,7 @@ ingredients:
     raw: 800 ml chicken stock
   - qty: 1
     unit: tbsp
-    name: white sesame paste
+    name: sesame paste (white)
     raw: 1 tablespoon white sesame paste
   - qty: 1
     unit: tsp

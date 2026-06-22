@@ -60,10 +60,10 @@ ingredients:
     name: ginger garlic paste
     raw: 1 tablespoon ginger-garlic paste
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
-    name: green capsicum
+    name: capsicum (green)
     raw: 1 green capsicum
   - qty: 4
     name: tomatoes
@@ -108,7 +108,7 @@ ingredients:
     name: pav bhaji masala
     raw: 1 teaspoon pav bhaji masala
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
     name: lemons

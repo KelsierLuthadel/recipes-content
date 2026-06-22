@@ -25,5 +25,5 @@ ingredients:
     unit: tbsp
     name: plain live yogurt
     raw: 3 tbsp plain live yogurt
-  - name: "optional: 50 ml double cream"
+  - name: optional
     raw: "Optional: 50 ml double cream"

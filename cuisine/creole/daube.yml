@@ -45,7 +45,7 @@ ingredients:
     name: celery
     raw: 4 sticks celery
   - qty: 2
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 2 green bell peppers
   - qty: 8
     name: garlic
@@ -86,7 +86,7 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tbsp
@@ -97,5 +97,5 @@ ingredients:
     name: parsley
     raw: 4 tablespoons fresh parsley
   - qty: 6
-    name: white rice
+    name: rice (white)
     raw: 6 servings cooked white rice

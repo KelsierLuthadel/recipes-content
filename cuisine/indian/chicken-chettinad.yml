@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 2
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 tablespoons black peppercorns
   - qty: 6
     name: kashmiri chillies
@@ -97,7 +97,7 @@ ingredients:
     name: curry leaves
     raw: 2 sprigs fresh curry leaves
   - qty: 3
-    name: green chillies
+    name: chillies (green)
     raw: 3 fresh green chillies
   - qty: 1
     name: ginger

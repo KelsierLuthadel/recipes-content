@@ -57,7 +57,7 @@ ingredients:
     name: cumin
     raw: 1 teaspoon ground cumin
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 red onions
   - qty: 2
     unit: tbsp
@@ -76,7 +76,7 @@ ingredients:
     name: flat leaf parsley
     raw: 20 g flat-leaf parsley
   - qty: 4
-    name: long turkish green peppers
+    name: turkish green peppers
     raw: 4 long Turkish green peppers or banana peppers
   - qty: 4
     name: tomatoes

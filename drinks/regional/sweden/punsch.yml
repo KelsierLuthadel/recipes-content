@@ -37,7 +37,7 @@ ingredients:
   - name: bitter orange
     raw: Peel of 1 bitter orange
   - qty: 1
-    name: black tea bag
+    name: tea bag (black)
     raw: 1 small black tea bag
   - qty: 1
     name: vanilla pod
@@ -49,7 +49,7 @@ ingredients:
     raw: Small chilled glasses
   - name: or small punsch glasses
     raw: Or small punsch glasses
-  - name: black coffee in a cup alongside
+  - name: coffee in a cup alongside (black)
     raw: Strong black coffee in a cup alongside
-  - name: "optional: a small piece of pepparkakor"
+  - name: optional
     raw: "Optional: a small piece of pepparkakor"

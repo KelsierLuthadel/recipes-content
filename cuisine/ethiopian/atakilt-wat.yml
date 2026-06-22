@@ -47,7 +47,7 @@ ingredients:
     name: potatoes
     raw: 3 potatoes
   - qty: 0.5
-    name: green cabbage
+    name: cabbage (green)
     raw: ½ medium green cabbage
   - qty: 1
     unit: tsp
@@ -57,5 +57,5 @@ ingredients:
     unit: ml
     name: water
     raw: 100 ml water
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

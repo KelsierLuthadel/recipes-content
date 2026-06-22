@@ -37,7 +37,7 @@ ingredients:
     raw: 2 onions
   - qty: 2
     unit: tbsp
-    name: green chillies
+    name: chillies (green)
     raw: 2 tablespoons finely chopped green chillies
   - qty: 1
     name: egg
@@ -57,7 +57,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste
   - name: oil for basting
     raw: Oil for basting

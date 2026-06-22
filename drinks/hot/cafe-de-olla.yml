@@ -38,5 +38,5 @@ ingredients:
   - qty: 4
     name: mugs
     raw: 4 small mugs, ideally clay but any thick-walled mug works
-  - name: "optional: a small sweet alongside"
+  - name: optional
     raw: "Optional: a small sweet alongside"

@@ -28,7 +28,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: quality pork and beef frankfurters
+    name: pork and beef frankfurters
     raw: 8 quality pork-and-beef frankfurters
   - qty: 8
     name: soft hot dog buns
@@ -61,7 +61,7 @@ ingredients:
     name: dill pickles
     raw: 4 dill pickles
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     name: coriander
@@ -78,7 +78,7 @@ ingredients:
     raw: 4 tablespoons ketchup
   - qty: 4
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 4 tablespoons yellow mustard
   - qty: 4
     name: garlic

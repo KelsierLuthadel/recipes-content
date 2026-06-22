@@ -32,7 +32,7 @@ ingredients:
     raw: 4 medium beetroots
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
     unit: tsp
@@ -47,7 +47,7 @@ ingredients:
     name: water
     raw: 200 ml cold water
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 large cucumber
   - qty: 6
     name: radishes
@@ -93,5 +93,5 @@ ingredients:
     raw: Extra dill sprigs
   - name: dark rye bread
     raw: A wedge of dark rye bread per person
-  - name: "optional: chopped cooked beef ham"
+  - name: optional
     raw: "Optional: chopped cooked beef ham or smoked salmon"

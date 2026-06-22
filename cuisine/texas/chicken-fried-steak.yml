@@ -34,7 +34,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 300
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 2
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 2 teaspoons ground black pepper
   - qty: 2
     unit: tsp
@@ -97,7 +97,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 2
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 2 teaspoons coarse ground black pepper
   - name: mashed potatoes
     raw: Mashed potatoes

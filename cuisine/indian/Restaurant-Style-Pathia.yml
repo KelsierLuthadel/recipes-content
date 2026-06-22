@@ -44,7 +44,7 @@ ingredients:
     name: tej patta
     raw: 1 tej patta , optional
   - qty: 60
-    name: to 80 g onion
+    name: onion
     raw: 60 to 80 g onion, very finely chopped
   - qty: 2
     unit: tsp
@@ -67,14 +67,14 @@ ingredients:
     name: smoked paprika
     raw: 0.25 tsp smoked paprika
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 1
     unit: tsp
     name: kasuri methi
     raw: 1 tsp kasuri methi
   - qty: 5
-    name: to 6 tbsp tomato paste
+    name: tomato paste
     raw: 5 to 6 tbsp tomato paste
   - qty: 1
     unit: tbsp

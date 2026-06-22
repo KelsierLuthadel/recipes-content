@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: white flour
+    name: flour (white)
     raw: 350 g strong white flour
   - qty: 200
     unit: ml
@@ -28,7 +28,7 @@ ingredients:
     raw: 2 tbsp sunflower oil
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tbsp white wine vinegar
   - qty: 1
     unit: tsp

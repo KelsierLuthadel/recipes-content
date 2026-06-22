@@ -58,10 +58,10 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp black pepper
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet, whole and pierced
   - qty: 2
     unit: l
@@ -76,13 +76,13 @@ ingredients:
     raw: 400 g breadfruit, peeled and cubed
   - qty: 300
     unit: g
-    name: yellow yam
+    name: yam (yellow)
     raw: 300 g yellow yam or white yam, peeled and cubed
   - qty: 1
     name: dasheen
     raw: 1 medium dasheen , peeled and cubed
   - qty: 2
-    name: green plantains
+    name: plantains (green)
     raw: 2 green plantains, peeled and cut in chunks
   - qty: 200
     unit: g

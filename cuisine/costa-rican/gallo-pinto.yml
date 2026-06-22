@@ -24,17 +24,17 @@ ingredients:
     name: vegetable oil
     raw: 3 tbsp vegetable oil
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 medium white onion, finely diced
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper, finely diced
   - qty: 3
     name: garlic
     raw: 3 garlic cloves, finely chopped
   - qty: 400
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 400 g cooked black beans, drained
   - qty: 500
     unit: g
@@ -52,5 +52,5 @@ ingredients:
     unit: large handful
     name: coriander
     raw: 1 large handful fresh coriander, finely chopped
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper

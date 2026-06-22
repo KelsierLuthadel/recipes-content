@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: white flour
+    name: flour (white)
     raw: 250 g strong white flour
   - qty: 1
     name: egg
@@ -72,7 +72,7 @@ ingredients:
     raw: 100 g unsalted butter
   - qty: 100
     unit: g
-    name: white breadcrumbs
+    name: breadcrumbs (white)
     raw: 100 g fine fresh white breadcrumbs
   - qty: 80
     unit: g

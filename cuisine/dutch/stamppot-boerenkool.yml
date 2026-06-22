@@ -50,7 +50,7 @@ ingredients:
   - qty: 4
     name: gelderse rookworst
     raw: 4 thick Gelderse rookworst OR a substantial smoked pork sausage
-  - name: each about 150 g; total around 600 g
+  - name: each about 150 g
     raw: Each about 150 g; total around 600 g
   - qty: 100
     unit: ml
@@ -60,7 +60,7 @@ ingredients:
     unit: tbsp
     name: dutch grainy mustard
     raw: 1 tablespoon Dutch grainy mustard OR Dijon
-  - name: black pepper
+  - name: pepper (black)
     raw: A small grind of black pepper
   - qty: 150
     unit: g

@@ -21,14 +21,14 @@ mentions:
 ingredients:
   - qty: 200
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 200 ml white wine vinegar
   - qty: 100
     unit: g
     name: caster sugar
     raw: 100 g caster sugar
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 medium red onion
   - qty: 6
     name: garlic
@@ -42,7 +42,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: 1 teaspoon red pepper flakes
   - qty: 0.5
     unit: tsp
@@ -50,7 +50,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 50
     unit: g

@@ -27,13 +27,13 @@ ingredients:
     name: extra virgin olive oil
     raw: 1 tablespoon extra-virgin olive oil
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 900
     unit: g
@@ -60,7 +60,7 @@ ingredients:
     raw: 2 teaspoons smoked paprika
   - qty: 2
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 teaspoons brown sugar
   - qty: 1
     unit: tsp
@@ -76,10 +76,10 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 1
-    name: green chiles
+    name: chiles (green)
     raw: 1 can mild green chiles
   - qty: 1
     name: fire roasted diced tomatoes
@@ -89,5 +89,5 @@ ingredients:
     name: beef broth
     raw: 720 ml beef broth
   - qty: 2
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 2 cans red kidney beans

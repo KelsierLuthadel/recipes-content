@@ -37,7 +37,7 @@ ingredients:
     raw: 100 g plain flour
   - qty: 50
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 50 g fine yellow cornmeal
   - qty: 1
     unit: tsp
@@ -52,7 +52,7 @@ ingredients:
     name: vegetable oil
     raw: 1 litre vegetable oil
   - qty: 2
-    name: long french rolls
+    name: french rolls
     raw: 2 long French rolls
   - qty: 3
     unit: tbsp

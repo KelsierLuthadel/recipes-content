@@ -38,11 +38,11 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 800
     unit: g
-    name: tomatillos ;
+    name: tomatillos
     raw: 800 g tomatillos ; or 2 tins tomatillos
   - qty: 150
     unit: g
@@ -61,7 +61,7 @@ ingredients:
     name: parsley
     raw: 1 small bunch fresh parsley
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 8
     name: garlic
@@ -107,7 +107,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 100
     unit: ml

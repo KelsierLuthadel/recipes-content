@@ -26,20 +26,20 @@ ingredients:
     name: pre cooked andouille
     raw: 340 g pre-cooked andouille
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 yellow onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: head green cabbage
+    name: cabbage (green)
     raw: 1 medium head green cabbage
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tablespoons brown sugar
   - qty: 2
     unit: tbsp

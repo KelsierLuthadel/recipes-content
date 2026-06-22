@@ -68,7 +68,7 @@ ingredients:
     raw: 1 tablespoon paprika
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1.5
     unit: tsp
@@ -76,19 +76,19 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 2 large red bell peppers
   - qty: 2
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 2 large green bell peppers
   - qty: 1
-    name: yellow bell pepper
+    name: bell pepper (yellow)
     raw: 1 large yellow bell pepper
   - qty: 2
-    name: white onions
+    name: onions (white)
     raw: 2 large white onions
   - qty: 4
     unit: tbsp
@@ -100,7 +100,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 12
     name: warm flour tortillas

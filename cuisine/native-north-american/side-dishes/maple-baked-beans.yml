@@ -37,7 +37,7 @@ ingredients:
     raw: 150 ml pure maple syrup
   - qty: 2
     unit: tbsp
-    name: brown mustard
+    name: mustard (brown)
     raw: 2 tablespoons brown mustard
   - qty: 1
     unit: tbsp
@@ -49,7 +49,7 @@ ingredients:
     raw: 1 ½ teaspoons salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 800
     unit: ml

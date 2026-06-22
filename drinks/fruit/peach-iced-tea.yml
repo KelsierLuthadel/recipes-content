@@ -15,7 +15,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 6
-    name: black tea bags
+    name: tea bags (black)
     raw: 6 black tea bags
   - qty: 4
     name: peaches
@@ -27,7 +27,7 @@ ingredients:
     name: water
     raw: 1.5 litres water
   - qty: 80
-    name: to 120 g caster sugar
+    name: caster sugar
     raw: 80 to 120 g caster sugar, to taste
   - name: lemon
     raw: Juice of 1 lemon
@@ -40,5 +40,5 @@ ingredients:
   - qty: 6
     name: tall glasses
     raw: 6 tall glasses, chilled
-  - name: "optional: fresh mint"
+  - name: optional
     raw: "Optional: fresh mint sprigs"

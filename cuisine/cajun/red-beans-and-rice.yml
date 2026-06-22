@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 350 g dried red kidney beans
   - qty: 4
     unit: tbsp
@@ -38,7 +38,7 @@ ingredients:
     name: celery
     raw: 4 celery sticks
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 6
     name: garlic
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 teaspoon dried thyme
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 0.5
     unit: tsp

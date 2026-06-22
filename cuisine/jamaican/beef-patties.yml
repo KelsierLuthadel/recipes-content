@@ -58,7 +58,7 @@ ingredients:
     name: beef
     raw: 450 g ground beef
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 yellow onion
   - qty: 1
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     name: jamaican curry powder
     raw: ½ teaspoon Jamaican curry powder
   - qty: 1.5
-    name: scotch bonnets
+    name: scotch bonnet chillies
     raw: 1-2 Scotch bonnets
   - qty: 4
     name: spring onions

@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: white cabbage
+    name: cabbage (white)
     raw: 600 g white cabbage , outer leaves removed and cored
   - qty: 2
     name: carrots
@@ -31,13 +31,13 @@ ingredients:
     raw: 2 tbsp sugar
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tbsp white wine vinegar
   - qty: 2
     unit: tbsp
     name: neutral oil
     raw: 2 tbsp neutral oil
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 2
     unit: tbsp

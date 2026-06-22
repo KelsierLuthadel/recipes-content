@@ -62,7 +62,7 @@ ingredients:
     raw: 150 milliliters whole milk
   - qty: 200
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 200 milliliters red wine
   - qty: 200
     unit: ml
@@ -96,7 +96,7 @@ ingredients:
     raw: pepper
   - qty: 100
     unit: g
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 100 grams red wine vinegar
   - qty: 50
     unit: g
@@ -104,7 +104,7 @@ ingredients:
     raw: 50 grams caster sugar
   - qty: 500
     unit: g
-    name: red skinned potatoes
+    name: skinned potatoes (red)
     raw: 500 grams red-skinned potatoes
   - qty: 1
     name: egg yolk

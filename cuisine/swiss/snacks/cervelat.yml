@@ -23,11 +23,11 @@ ingredients:
   - qty: 1
     name: baguette
     raw: 1 baguette or 8 small bread rolls
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Strong yellow mustard
   - name: wholegrain mustard
     raw: Wholegrain mustard
   - name: salted butter
     raw: Salted butter for the bread
-  - name: "optional: pickled gherkins"
+  - name: optional
     raw: "Optional: pickled gherkins or onions to serve"

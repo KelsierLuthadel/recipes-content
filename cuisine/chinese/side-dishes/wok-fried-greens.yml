@@ -26,7 +26,7 @@ ingredients:
     name: tenderstem broccoli
     raw: 200 g tenderstem broccoli
   - qty: 2
-    name: heads bok choy
+    name: bok choy
     raw: 2 small heads bok choy
   - qty: 100
     unit: g
@@ -63,5 +63,5 @@ ingredients:
     name: toasted sesame seeds
     raw: 1 teaspoon toasted sesame seeds
   - qty: 1
-    name: long red chilli
+    name: chilli (red)
     raw: 1 long red chilli

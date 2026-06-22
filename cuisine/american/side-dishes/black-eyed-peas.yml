@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: black eyed peas
+    name: eyed peas (black)
     raw: 400 g dried black-eyed peas
   - qty: 1
     name: smoked ham hock
@@ -35,7 +35,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 1
     name: celery

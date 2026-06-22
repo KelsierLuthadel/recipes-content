@@ -46,14 +46,14 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 700
     unit: ml
     name: water
     raw: 700 ml water
   - qty: 1
-    name: head celery
+    name: celery
     raw: 1 large head celery
   - qty: 3
     unit: tbsp

@@ -29,7 +29,7 @@ ingredients:
     raw: 3 large egg yolks
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     raw: ¼ teaspoon cayenne
   - qty: 1
     unit: pinch
-    name: white pepper
+    name: pepper (white)
     raw: Pinch of white pepper
   - qty: 8
     name: eggs
@@ -62,7 +62,7 @@ ingredients:
     raw: 2 litres water
   - qty: 4
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 4 tablespoons white wine vinegar
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
     raw: 1 small bunch fresh chives
   - name: sweet paprika
     raw: Sweet paprika
-  - name: black pepper
+  - name: pepper (black)
     raw: Fresh ground black pepper
   - name: hash brown potatoes
     raw: Hash brown potatoes

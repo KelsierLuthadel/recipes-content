@@ -72,20 +72,20 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1600
     unit: g
-    name: white hominy
+    name: hominy (white)
     raw: 1600 g tins white hominy
   - qty: 2
     unit: tsp
     name: salt
     raw: 2 teaspoons salt
   - qty: 0.25
-    name: green cabbage
+    name: cabbage (green)
     raw: ¼ green cabbage
   - qty: 6
     name: radishes
     raw: 6 radishes
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 1
     name: lime

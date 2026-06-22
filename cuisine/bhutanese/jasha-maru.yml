@@ -43,7 +43,7 @@ ingredients:
     name: butter
     raw: 2 tablespoons butter
   - qty: 2
-    name: brown onions
+    name: onions (brown)
     raw: 2 brown onions
   - qty: 6
     name: garlic
@@ -52,7 +52,7 @@ ingredients:
     name: ginger
     raw: 6 cm fresh ginger
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies
   - qty: 3
     name: tomatoes
@@ -73,9 +73,9 @@ ingredients:
     raw: 4 spring onions
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon freshly ground black pepper
-  - name: red rice
+  - name: rice (red)
     raw: Red rice
   - name: ezay
     raw: Ezay , optional

@@ -16,7 +16,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 12
-    name: green limes
+    name: limes (green)
     raw: 12 small green limes
   - qty: 5
     unit: tbsp
@@ -32,7 +32,7 @@ ingredients:
     raw: 200 ml mustard oil
   - qty: 2
     unit: tbsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 2 tbsp black mustard seeds
   - qty: 1
     unit: tsp

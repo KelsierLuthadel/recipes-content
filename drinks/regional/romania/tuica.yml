@@ -24,7 +24,7 @@ ingredients:
     raw: 50 ml țuică
   - name: thick walled shot glass
     raw: A small thick-walled shot glass, chilled
-  - name: "optional: a strip of smoked bacon"
+  - name: optional
     raw: "Optional: a strip of smoked bacon or a pickled chilli to chase"
   - qty: 600
     unit: ml
@@ -36,7 +36,7 @@ ingredients:
     raw: 4 tbsp honey
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tsp whole black peppercorns
   - qty: 6
     name: cloves

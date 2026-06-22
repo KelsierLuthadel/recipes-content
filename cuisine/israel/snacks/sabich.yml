@@ -64,13 +64,13 @@ ingredients:
     name: salt
     raw: ½ teaspoon salt
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 2
     name: tomatoes
     raw: 2 tomatoes
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ small red onion
   - qty: 20
     unit: g

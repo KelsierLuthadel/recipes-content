@@ -60,13 +60,13 @@ ingredients:
     raw: 1 teaspoon cumin seeds
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods
   - qty: 2
-    name: black cardamom pods
+    name: cardamom pods (black)
     raw: 2 black cardamom pods
   - qty: 6
     name: cloves
@@ -100,7 +100,7 @@ ingredients:
     name: cumin seeds
     raw: 1 teaspoon cumin seeds
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
     unit: tsp

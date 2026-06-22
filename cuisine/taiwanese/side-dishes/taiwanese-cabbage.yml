@@ -41,7 +41,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 5
-    name: red chillies
+    name: chillies (red)
     raw: 4-6 dried red chillies
   - qty: 20
     unit: g
@@ -61,7 +61,7 @@ ingredients:
     raw: 1 teaspoon caster sugar
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 0.5
     unit: tsp

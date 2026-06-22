@@ -51,11 +51,11 @@ ingredients:
     raw: 400 g tin cannellini beans
   - qty: 400
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 400 g tin red kidney beans
   - qty: 200
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 200 g green beans
   - qty: 2
     name: courgettes

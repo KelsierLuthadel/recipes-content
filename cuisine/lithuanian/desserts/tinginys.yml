@@ -37,5 +37,5 @@ ingredients:
     unit: pinch
     name: salt
     raw: Pinch salt
-  - name: "optional: 100 g chopped walnuts"
+  - name: optional
     raw: "Optional: 100 g chopped walnuts, dried cherries or chopped marshmallows"

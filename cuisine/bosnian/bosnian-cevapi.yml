@@ -45,7 +45,7 @@ ingredients:
     raw: 1 teaspoon bicarbonate of soda
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon freshly ground black pepper
   - qty: 1
     unit: tsp
@@ -59,7 +59,7 @@ ingredients:
     name: somun loaves
     raw: 4 fresh somun loaves
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 large red onions, finely chopped
   - qty: 200
     unit: g
@@ -71,5 +71,5 @@ ingredients:
     raw: 200 ml ajvar
   - qty: 1
     unit: handful
-    name: green pickled chillies
+    name: pickled chillies (green)
     raw: A handful of green pickled chillies

@@ -61,10 +61,10 @@ ingredients:
   - name: vegetable oil
     raw: Vegetable oil, for deep frying
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli , finely sliced
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ red onion, finely sliced
   - qty: 1
     unit: tbsp
@@ -76,5 +76,5 @@ ingredients:
     raw: 2 tbsp Tamarind Chutney
   - qty: 2
     unit: tbsp
-    name: green chilli pickle
+    name: chilli pickle (green)
     raw: 2 tbsp Green Chilli Pickle

@@ -33,14 +33,14 @@ ingredients:
     raw: 5 tbsp mustard oil
   - qty: 3
     unit: tbsp
-    name: yellow mustard seeds
+    name: mustard seeds (yellow)
     raw: 3 tbsp yellow mustard seeds
   - qty: 2
     unit: tbsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 2 tbsp black mustard seeds
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies
   - qty: 0.5
     unit: tsp

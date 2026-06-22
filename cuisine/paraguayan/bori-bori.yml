@@ -30,7 +30,7 @@ ingredients:
     name: onions
     raw: 2 onions, finely chopped
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper, finely chopped
   - qty: 3
     name: tomatoes
@@ -58,11 +58,11 @@ ingredients:
     unit: tsp
     name: salt
     raw: 2 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 200
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 200 g fine yellow cornmeal
   - qty: 100
     unit: g

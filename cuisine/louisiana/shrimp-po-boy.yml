@@ -82,7 +82,7 @@ ingredients:
     raw: 100 g plain flour
   - qty: 100
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 100 g fine yellow cornmeal
   - qty: 1
     unit: tsp
@@ -106,15 +106,15 @@ ingredients:
     raw: 1 tsp salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp black pepper
   - name: neutral oil
     raw: Neutral oil for frying
   - qty: 1
-    name: long french baguette
+    name: french baguette
     raw: 1 long French baguette
   - qty: 1
-    name: head iceberg lettuce
+    name: iceberg lettuce
     raw: 1 small head iceberg lettuce
   - qty: 2
     name: tomatoes

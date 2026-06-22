@@ -53,7 +53,7 @@ ingredients:
     name: water
     raw: 1 litre water or light chicken stock
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 whole scotch bonnet
   - qty: 1
     unit: tsp
@@ -78,5 +78,5 @@ ingredients:
     unit: tbsp
     name: lime juice
     raw: 1 tbsp fresh lime juice
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste

@@ -41,7 +41,7 @@ ingredients:
     raw: 200 g grated Monterey Jack
   - qty: 500
     unit: ml
-    name: red chile sauce
+    name: chile sauce (red)
     raw: 500 ml red chile sauce
   - name: or 500 ml green chile sauce
     raw: OR 500 ml green chile sauce
@@ -57,7 +57,7 @@ ingredients:
     name: tomatoes
     raw: 2 medium tomatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 200
     unit: ml

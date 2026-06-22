@@ -52,7 +52,7 @@ ingredients:
     raw: 75 g onion, thickly sliced
   - qty: 75
     unit: g
-    name: green pepper
+    name: pepper (green)
     raw: 75 g green pepper, cut into small triangles
   - qty: 1.5
     unit: tsp
@@ -79,13 +79,13 @@ ingredients:
     name: garam masala
     raw: a pinch of Garam Masala
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 5
-    name: to 6 tbsp tomato paste
+    name: tomato paste
     raw: 5 to 6 tbsp tomato paste
   - qty: 1
-    name: to 2 tbsp finely chopped fresh coriander stalks
+    name: coriander stalks
     raw: 1 to 2 tbsp finely chopped fresh coriander stalks
   - qty: 200
     unit: g
@@ -103,7 +103,7 @@ ingredients:
     name: lemon
     raw: 1.25 tsp lemon or lime juice
   - qty: 2
-    name: to 3 tsp mango chutney
+    name: mango chutney
     raw: 2 to 3 tsp mango chutney
   - name: coriander
     raw: finely chopped fresh coriander leaves, to garnish

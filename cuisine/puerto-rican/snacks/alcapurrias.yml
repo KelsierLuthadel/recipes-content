@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: green bananas
+    name: bananas (green)
     raw: 4 large green bananas
   - qty: 600
     unit: g
@@ -58,7 +58,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 small green bell pepper
   - qty: 2
     unit: tbsp
@@ -86,7 +86,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 50
     unit: g

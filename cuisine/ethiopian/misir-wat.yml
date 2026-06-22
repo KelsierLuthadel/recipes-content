@@ -43,7 +43,7 @@ ingredients:
     raw: 2 tablespoons tomato paste
   - qty: 250
     unit: g
-    name: red lentils
+    name: lentils (red)
     raw: 250 g red lentils
   - qty: 1
     unit: l
@@ -56,5 +56,5 @@ ingredients:
   - qty: 0.5
     name: lemon
     raw: ½ lemon
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

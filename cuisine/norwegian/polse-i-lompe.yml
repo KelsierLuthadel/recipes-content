@@ -39,13 +39,13 @@ ingredients:
   - name: more potato flour for dusting
     raw: More potato flour for dusting
   - qty: 4
-    name: long mild norwegian style wienerwurst sausages
+    name: norwegian style wienerwurst sausages
     raw: 4 long mild Norwegian-style wienerwurst sausages
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard
   - name: tomato ketchup
     raw: Tomato ketchup
@@ -65,5 +65,5 @@ ingredients:
     raw: 100 g Norwegian shrimp salad
   - name: glass of cold beer
     raw: A glass of cold beer or Solo
-  - name: "for constitution day: ice cream cones on the side"
+  - name: for constitution day
     raw: "For Constitution Day: ice cream cones on the side"

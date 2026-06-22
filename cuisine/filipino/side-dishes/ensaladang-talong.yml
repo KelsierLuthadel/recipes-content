@@ -22,13 +22,13 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long asian aubergines
+    name: asian aubergines
     raw: 4 long Asian aubergines
   - qty: 2
     name: tomatoes
     raw: 2 ripe tomatoes
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ small red onion
   - qty: 3
     unit: tbsp
@@ -36,7 +36,7 @@ ingredients:
     raw: 3 tablespoons fish sauce
   - qty: 2
     unit: tbsp
-    name: white cane vinegar
+    name: cane vinegar (white)
     raw: 2 tablespoons white cane vinegar
   - qty: 2
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     name: caster sugar
     raw: 1 teaspoon caster sugar
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - qty: 2
     unit: tbsp

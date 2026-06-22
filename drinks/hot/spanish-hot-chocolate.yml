@@ -39,7 +39,7 @@ ingredients:
   - qty: 4
     name: cups
     raw: 4 small cups
-  - name: "optional but traditional: 8 12 churros for dipping"
+  - name: optional but traditional
     raw: "Optional but traditional: 8-12 churros for dipping"
-  - name: "optional: a sprinkle of cocoa powder on top"
+  - name: optional
     raw: "Optional: a sprinkle of cocoa powder on top"

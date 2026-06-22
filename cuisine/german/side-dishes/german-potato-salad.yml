@@ -38,7 +38,7 @@ ingredients:
     raw: 200 ml hot chicken stock
   - qty: 4
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 4 tablespoons white wine vinegar
   - qty: 1
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 3
     unit: tbsp

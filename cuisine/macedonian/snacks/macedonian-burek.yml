@@ -44,9 +44,9 @@ ingredients:
     raw: 100 ml plain yogurt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
-  - name: "optional: 100 g grated kashkaval"
+  - name: optional
     raw: "Optional: 100 g grated Kashkaval"
   - qty: 500
     unit: g

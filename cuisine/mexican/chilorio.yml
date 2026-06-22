@@ -33,7 +33,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 6
     name: ancho chillies
@@ -53,14 +53,14 @@ ingredients:
     name: vegetable oil
     raw: 4 tablespoons vegetable oil
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion
   - qty: 10
     name: garlic
     raw: 10 garlic cloves
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tablespoons white wine vinegar
   - qty: 1
     unit: tbsp
@@ -91,7 +91,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 200
     unit: ml

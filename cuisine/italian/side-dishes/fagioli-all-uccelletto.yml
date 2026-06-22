@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: cannellini beans ;
+    name: cannellini beans
     raw: 600 g cooked cannellini beans ; or 250 g dried beans soaked overnight and pre-cooked
   - qty: 6
     unit: tbsp
@@ -33,10 +33,10 @@ ingredients:
     raw: 12-16 fresh sage leaves
   - qty: 1
     unit: tsp
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: 1 teaspoon red pepper flakes
   - qty: 1
-    name: tomatoes;
+    name: tomatoes
     raw: 1 tin chopped tomatoes; or 4 fresh tomatoes
   - qty: 1.5
     unit: tsp
@@ -44,7 +44,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -54,5 +54,5 @@ ingredients:
     raw: Extra olive oil
   - name: sage leaves
     raw: Fresh sage leaves
-  - name: black pepper
+  - name: pepper (black)
     raw: Coarse black pepper

@@ -48,10 +48,10 @@ ingredients:
     name: water
     raw: 400 ml water
   - qty: 3
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 3 red bell peppers
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
     name: tomatoes
@@ -67,7 +67,7 @@ ingredients:
     raw: 3 cm fresh ginger
   - qty: 120
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 120 ml red palm oil
   - qty: 150
     unit: g
@@ -91,11 +91,11 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 400
     unit: g
-    name: "spinach :"
+    name: spinach
     raw: "400 g fresh spinach : or 250 g frozen spinach"
-  - name: white rice
+  - name: rice (white)
     raw: White rice, eba, fufu, pounded yam

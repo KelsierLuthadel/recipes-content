@@ -48,7 +48,7 @@ ingredients:
     name: thyme leaves
     raw: 1 tbsp fresh thyme leaves
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 whole Scotch bonnet pepper
   - qty: 1
     unit: tbsp
@@ -58,5 +58,5 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1.5 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper

@@ -13,7 +13,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 500 ml red wine
   - qty: 200
     unit: g

@@ -41,7 +41,7 @@ ingredients:
     raw: 700 ml water
   - qty: 80
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 80 ml red palm oil
   - qty: 1
     name: onion
@@ -50,7 +50,7 @@ ingredients:
     name: garlic
     raw: 3 garlic cloves
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 150
     unit: g

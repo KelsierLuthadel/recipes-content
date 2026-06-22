@@ -19,11 +19,11 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: loaves cuban bread ;
+    name: loaves cuban bread
     raw: 2 loaves Cuban bread ; or 4 Portuguese rolls; or 1 French baguette cut into 4 sections
   - qty: 4
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 4 tablespoons yellow mustard
   - qty: 300
     unit: g

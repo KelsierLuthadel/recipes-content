@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: black eyed peas
+    name: eyed peas (black)
     raw: 500 g dried black-eyed peas
   - qty: 1
     name: smoked ham hock
@@ -36,10 +36,10 @@ ingredients:
     name: onion
     raw: 1 large onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 medium green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 medium red bell pepper
   - qty: 8
     name: garlic
@@ -68,7 +68,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: tbsp
@@ -93,7 +93,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - name: hot sauce
     raw: Hot sauce

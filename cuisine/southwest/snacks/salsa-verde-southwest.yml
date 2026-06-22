@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: tomatillos ;
+    name: tomatillos
     raw: 600 g tomatillos ; or 1 large tin tomatillos drained
   - qty: 4
     name: jalapenos
@@ -29,7 +29,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 medium white onion
   - qty: 1
     name: coriander

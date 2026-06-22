@@ -50,7 +50,7 @@ ingredients:
     raw: 2 fish heads
   - qty: 500
     unit: g
-    name: white fish fillet
+    name: fish fillet (white)
     raw: 500 grams white fish fillet
   - qty: 12
     name: mussels
@@ -62,7 +62,7 @@ ingredients:
   - qty: 3
     name: bay leaves
     raw: 3 bay leaves
-  - name: orange rind
+  - name: rind (orange)
     raw: small piece orange rind
   - qty: 30
     unit: g
@@ -74,7 +74,7 @@ ingredients:
     raw: 30 grams fresh basil
   - qty: 250
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 250 ml red wine
   - qty: 500
     unit: ml

@@ -21,7 +21,7 @@ ingredients:
     name: dark chocolate
     raw: 100 g dark chocolate
   - qty: 2
-    name: to 4 teaspoons sugar
+    name: sugar
     raw: 2 to 4 teaspoons sugar, to taste
   - qty: 1
     unit: pinch
@@ -37,7 +37,7 @@ ingredients:
     name: tall heatproof mugs
     raw: 2 tall heatproof mugs or glass tumblers
   - qty: 2
-    name: long spoons
+    name: spoons
     raw: 2 long spoons
-  - name: "optional: a small piece of sopaipilla"
+  - name: optional
     raw: "Optional: a small piece of sopaipilla or marraqueta on the side"

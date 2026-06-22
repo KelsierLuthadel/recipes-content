@@ -29,7 +29,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: green papaya
+    name: papaya (green)
     raw: 1 large green papaya, peeled and shredded coarsely
   - qty: 4
     unit: clove
@@ -62,7 +62,7 @@ ingredients:
     name: palm sugar
     raw: 1 tablespoon palm sugar
   - qty: 4
-    name: long beans
+    name: beans
     raw: 4 long beans , trimmed and cut into 3 cm pieces
   - qty: 4
     unit: tbsp

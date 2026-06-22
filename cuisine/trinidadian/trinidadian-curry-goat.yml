@@ -43,7 +43,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp freshly ground black pepper
   - qty: 4
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     name: thyme
     raw: 2 sprigs fresh thyme
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 1
     name: tomato

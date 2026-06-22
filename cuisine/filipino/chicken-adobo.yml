@@ -29,7 +29,7 @@ ingredients:
     raw: 100 ml soy sauce
   - qty: 100
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 100 ml white wine vinegar
   - qty: 100
     unit: ml
@@ -40,20 +40,20 @@ ingredients:
     raw: 6 garlic cloves
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 3
     name: bay leaves
     raw: 3 bay leaves
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tbsp
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
-  - name: white rice
+  - name: rice (white)
     raw: Cooked white rice, to serve
   - qty: 2
     name: spring onions

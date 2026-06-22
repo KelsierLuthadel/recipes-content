@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 2
     unit: tbsp
-    name: green curry paste
+    name: curry paste (green)
     raw: 2 tablespoons green curry paste
   - qty: 1
     name: x 400 ml tin full fat coconut milk
@@ -35,7 +35,7 @@ ingredients:
     name: kaffir lime leaves
     raw: 4 kaffir lime leaves
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 long red chillies
   - qty: 1
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 1 tablespoon palm sugar
   - qty: 1
     unit: small handful
-    name: thai basil leaves
+    name: thai basil
     raw: Small handful Thai basil leaves
   - qty: 1
     name: lime

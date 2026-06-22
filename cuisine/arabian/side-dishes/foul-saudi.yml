@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: brown fava beans
+    name: fava beans (brown)
     raw: 300 g dried small brown fava beans
   - qty: 50
     unit: g
@@ -65,7 +65,7 @@ ingredients:
     raw: 3 tablespoons fresh parsley
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     name: tomato

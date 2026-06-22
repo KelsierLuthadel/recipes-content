@@ -50,7 +50,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods, lightly crushed
   - qty: 1
     name: cinnamon stick
@@ -74,7 +74,7 @@ ingredients:
     name: turmeric
     raw: ½ tsp turmeric
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies, slit
   - qty: 1
     unit: tsp

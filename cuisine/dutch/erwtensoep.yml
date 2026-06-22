@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: green split peas
+    name: split peas (green)
     raw: 500 g dried green split peas
   - qty: 2
     unit: l
@@ -83,7 +83,7 @@ ingredients:
     unit: tbsp
     name: flat leaf parsley
     raw: 2 tablespoons chopped flat-leaf parsley
-  - name: black pepper
+  - name: pepper (black)
     raw: A grind of black pepper
   - name: dark dutch rye bread
     raw: Dark Dutch rye bread , sliced thin and lightly toasted

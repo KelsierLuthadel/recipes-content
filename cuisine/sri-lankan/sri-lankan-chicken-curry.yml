@@ -53,7 +53,7 @@ ingredients:
     name: fenugreek seeds
     raw: ½ teaspoon fenugreek seeds
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 dried red chillies
   - qty: 1
     unit: kg
@@ -94,7 +94,7 @@ ingredients:
     name: sweet paprika
     raw: 2 teaspoons sweet paprika
   - qty: 1.5
-    name: long green chillies
+    name: chillies (green)
     raw: 1-2 long green chillies
   - qty: 1
     unit: tbsp

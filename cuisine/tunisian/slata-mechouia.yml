@@ -21,16 +21,16 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: red peppers
+    name: peppers (red)
     raw: 4 red peppers
   - qty: 2
-    name: green peppers
+    name: peppers (green)
     raw: 2 green peppers
   - qty: 4
     name: tomatoes
     raw: 4 ripe tomatoes
   - qty: 4
-    name: long red chillies
+    name: chillies (red)
     raw: 4 long red chillies
   - qty: 6
     name: garlic
@@ -65,7 +65,7 @@ ingredients:
     name: hard boiled eggs
     raw: 2 hard-boiled eggs
   - qty: 8
-    name: black olives
+    name: olives (black)
     raw: 8 black olives
   - name: crusty bread
     raw: Crusty bread

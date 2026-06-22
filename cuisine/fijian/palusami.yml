@@ -36,9 +36,9 @@ ingredients:
     raw: Juice of 1 lime
   - qty: 1
     unit: pinch
-    name: white pepper
+    name: pepper (white)
     raw: A pinch of white pepper
-  - name: "optional: 100 g corned beef"
+  - name: optional
     raw: "Optional: 100 g corned beef, finely chopped"
   - qty: 4
     name: squares of foil

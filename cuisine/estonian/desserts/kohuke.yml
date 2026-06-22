@@ -33,7 +33,7 @@ ingredients:
     unit: tbsp
     name: double cream
     raw: 1 tbsp double cream
-  - name: "optional: 50 g raisins"
+  - name: optional
     raw: "Optional: 50 g raisins, or 2 tbsp thick jam"
   - qty: 250
     unit: g

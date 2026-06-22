@@ -14,7 +14,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: tbsp
-    name: green gunpowder tea
+    name: gunpowder tea (green)
     raw: 1 tablespoon green gunpowder tea
   - qty: 750
     unit: ml
@@ -24,7 +24,7 @@ ingredients:
     name: spearmint
     raw: A generous bunch fresh spearmint
   - qty: 4
-    name: to 6 tablespoons sugar
+    name: sugar
     raw: 4 to 6 tablespoons sugar
   - qty: 4
     name: heatproof glasses

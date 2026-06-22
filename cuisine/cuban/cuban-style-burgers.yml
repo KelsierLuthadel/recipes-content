@@ -33,11 +33,11 @@ ingredients:
     name: egg
     raw: 1 egg
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 yellow onion
   - qty: 50
     unit: g
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 50 grams green bell pepper
   - qty: 1
     unit: clove

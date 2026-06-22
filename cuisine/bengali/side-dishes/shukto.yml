@@ -21,7 +21,7 @@ ingredients:
     name: bitter gourd
     raw: 1 bitter gourd , about 100 g, deseeded and sliced thin
   - qty: 1
-    name: green plantain
+    name: plantain (green)
     raw: 1 raw green plantain, peeled
   - qty: 1
     name: sweet potato
@@ -41,11 +41,11 @@ ingredients:
     raw: 100 g potato
   - qty: 1
     unit: tbsp
-    name: white poppy seeds
+    name: poppy seeds (white)
     raw: 1 tbsp white poppy seeds , soaked in 3 tbsp warm water
   - qty: 1
     unit: tsp
-    name: yellow mustard seeds
+    name: mustard seeds (yellow)
     raw: 1 tsp yellow mustard seeds, soaked in 2 tbsp warm water
   - qty: 1
     unit: tbsp

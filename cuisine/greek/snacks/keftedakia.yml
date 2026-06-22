@@ -57,7 +57,7 @@ ingredients:
     raw: 1 tablespoon ouzo
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tablespoon red-wine vinegar
   - qty: 1
     unit: tsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 0.25
     unit: tsp

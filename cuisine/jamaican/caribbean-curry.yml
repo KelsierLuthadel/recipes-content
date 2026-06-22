@@ -34,7 +34,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 0.5
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: ½ tsp black peppercorns
   - qty: 4
     name: spring onions
@@ -48,7 +48,7 @@ ingredients:
     name: parsley
     raw: Large pinch parsley
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet
   - qty: 2
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     raw: 2 tbsp vegetable oil
   - qty: 55
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 55g brown sugar
   - qty: 3
     unit: tsp
@@ -73,7 +73,7 @@ ingredients:
     name: thyme
     raw: 2 thyme sprigs
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet
   - qty: 1
     name: shot of dark rum

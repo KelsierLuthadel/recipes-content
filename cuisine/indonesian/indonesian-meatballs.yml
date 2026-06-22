@@ -43,7 +43,7 @@ ingredients:
     name: panko breadcrumbs
     raw: 100 grams panko breadcrumbs
   - qty: 1
-    name: red chilli pepper
+    name: chilli pepper (red)
     raw: 1 red chilli pepper
   - qty: 4
     unit: clove
@@ -58,7 +58,7 @@ ingredients:
     name: nutmeg
     raw: ½ tsp ground nutmeg
   - qty: 5
-    name: green onions
+    name: onions (green)
     raw: 5 green onions
   - qty: 4
     unit: g
@@ -77,7 +77,7 @@ ingredients:
     raw: ¼ tsp pepper
   - qty: 1
     unit: tsp
-    name: red curry paste
+    name: curry paste (red)
     raw: 1 tsp red curry paste
   - qty: 2
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     raw: 237 ml low-sodium chicken broth
   - qty: 2
     unit: tbsp
-    name: red curry paste
+    name: curry paste (red)
     raw: 2 tbsp red curry paste
   - qty: 391
     unit: ml

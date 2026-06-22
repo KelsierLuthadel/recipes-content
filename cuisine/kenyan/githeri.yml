@@ -31,7 +31,7 @@ ingredients:
     raw: 250 g dried whole maize kernels
   - qty: 250
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 250 g dried red kidney beans
   - qty: 1
     name: onion
@@ -56,7 +56,7 @@ ingredients:
     name: cumin
     raw: 1 tsp ground cumin
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 small green chilli, finely chopped
   - qty: 1
     unit: tsp

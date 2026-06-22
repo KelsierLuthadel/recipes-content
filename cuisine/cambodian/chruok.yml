@@ -27,7 +27,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
     unit: tsp
@@ -35,7 +35,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 100
     unit: ml
-    name: white cane vinegar
+    name: cane vinegar (white)
     raw: 100 ml white cane vinegar
   - qty: 60
     unit: ml

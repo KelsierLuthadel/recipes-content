@@ -28,7 +28,7 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 4
     name: spring onions
@@ -60,7 +60,7 @@ ingredients:
     raw: ½ teaspoon ground allspice
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 2
     unit: tbsp

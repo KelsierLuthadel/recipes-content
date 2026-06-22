@@ -59,11 +59,11 @@ ingredients:
     raw: 1 egg
   - qty: 3
     unit: tbsp
-    name: white sesame seeds
+    name: sesame seeds (white)
     raw: 3 tablespoons white sesame seeds
   - qty: 1
     unit: tbsp
-    name: black sesame seeds
+    name: sesame seeds (black)
     raw: 1 tablespoon black sesame seeds
   - qty: 4
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     unit: g
     name: cheddar
     raw: 100 g grated mild cheddar
-  - name: yellow mustard
+  - name: mustard (yellow)
     raw: Yellow mustard or chilli sauce for dipping
   - name: soy milk
     raw: Hot soy milk or Chinese tea

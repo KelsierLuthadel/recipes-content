@@ -34,7 +34,7 @@ ingredients:
     raw: 6 tablespoons extra virgin olive oil
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tablespoons white wine vinegar
   - qty: 1
     unit: tsp
@@ -42,10 +42,10 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 fresh green chilli
   - qty: 1
     unit: tbsp

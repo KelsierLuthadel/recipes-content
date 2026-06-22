@@ -30,7 +30,7 @@ ingredients:
     name: beef
     raw: 680g lean ground beef
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion
   - qty: 4
     name: garlic
@@ -40,11 +40,11 @@ ingredients:
     name: cumin
     raw: 1 teaspoon ground cumin
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies
   - qty: 439
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 439g black beans
   - name: salt
     raw: salt
@@ -63,7 +63,7 @@ ingredients:
     raw: 339g shredded cheese
   - qty: 350
     unit: ml
-    name: red enchilada sauce
+    name: enchilada sauce (red)
     raw: 350ml red enchilada sauce
   - qty: 4
     unit: g

@@ -53,7 +53,7 @@ ingredients:
     name: carrots
     raw: 6 carrots
   - qty: 1
-    name: head of cabbage
+    name: cabbage
     raw: 1 large head of cabbage
   - qty: 600
     unit: g
@@ -84,7 +84,7 @@ ingredients:
     raw: 100 g chicharrón
   - qty: 400
     unit: ml
-    name: white wine
+    name: wine (white)
     raw: 400 ml white wine
   - qty: 200
     unit: ml

@@ -37,7 +37,7 @@ ingredients:
     raw: 1 litre water
   - qty: 3
     unit: tbsp
-    name: yellow mustard seeds
+    name: mustard seeds (yellow)
     raw: 3 tbsp yellow mustard seeds
   - qty: 1
     unit: tbsp
@@ -51,11 +51,11 @@ ingredients:
     name: ginger
     raw: 30 g fresh ginger
   - qty: 3
-    name: green chillies
+    name: chillies (green)
     raw: 3 green chillies
   - qty: 120
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 120 ml white wine vinegar
   - qty: 60
     unit: ml
@@ -67,7 +67,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp ground black pepper
   - qty: 2
     name: onions
@@ -78,9 +78,9 @@ ingredients:
     raw: 60 ml neutral oil
   - qty: 1
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 1 tsp black mustard seeds
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar

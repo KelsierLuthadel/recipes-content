@@ -32,7 +32,7 @@ mentions:
 ingredients:
   - qty: 1.2
     unit: kg
-    name: yellow peruvian potatoes
+    name: peruvian potatoes (yellow)
     raw: 1.2 kg yellow Peruvian potatoes OR Yukon Gold OR another yellow waxy potato
   - qty: 4
     unit: tbsp
@@ -61,7 +61,7 @@ ingredients:
     name: mayonnaise
     raw: 6 tablespoons mayonnaise
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, very finely chopped
   - qty: 2
     unit: tbsp
@@ -91,7 +91,7 @@ ingredients:
     name: lime juice
     raw: 1 tablespoon fresh lime juice
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small finely chopped red onion
   - qty: 0.5
     name: /2 teaspoon black pepper
@@ -112,7 +112,7 @@ ingredients:
     name: lime juice
     raw: 1 tablespoon fresh lime juice
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, finely chopped
   - qty: 0.25
     name: /4 teaspoon black pepper

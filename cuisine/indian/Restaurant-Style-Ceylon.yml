@@ -36,7 +36,7 @@ ingredients:
     name: cassia bark
     raw: 10 cm cassia bark
   - qty: 2
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 2 green cardamom pods, split
   - qty: 1
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     name: chilli powder
     raw: 1.5 tsp chilli powder
   - qty: 1.5
-    name: to 2 tsp mix powder
+    name: mix powder
     raw: 1.5 to 2 tsp Mix Powder
   - qty: 0.5
     unit: tsp
@@ -62,7 +62,7 @@ ingredients:
     name: fenugreek powder
     raw: 0.25 tsp fenugreek powder
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 6
     unit: tbsp
@@ -88,14 +88,14 @@ ingredients:
     name: coconut powder
     raw: 1.5 tbsp coconut powder or flour
   - qty: 50
-    name: to 75 ml coconut milk
+    name: coconut milk
     raw: 50 to 75 ml coconut milk
   - qty: 3
     unit: splash
     name: worcestershire sauce
     raw: 3 splashes Worcestershire sauce
   - qty: 1
-    name: to 2 tsp mango chutney
+    name: mango chutney
     raw: 1 to 2 tsp mango chutney
   - qty: 1
     unit: tbsp

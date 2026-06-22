@@ -58,7 +58,7 @@ ingredients:
     name: sheets rice paper
     raw: 12 sheets rice paper
   - qty: 1
-    name: head butter lettuce
+    name: butter lettuce
     raw: 1 small head butter lettuce
   - qty: 1
     unit: large handful
@@ -70,14 +70,14 @@ ingredients:
     raw: A large handful coriander leaves
   - qty: 1
     unit: large handful
-    name: thai basil leaves
+    name: thai basil
     raw: A large handful Thai basil leaves
   - qty: 1
     unit: handful
     name: chives
     raw: A handful chives
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ cucumber
   - qty: 4
     unit: tbsp

@@ -84,10 +84,10 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes, cut into 16 thin slices or wedges
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper, cut into thin strips
   - qty: 16
-    name: black olives
+    name: olives (black)
     raw: 16 black olives, halved
   - qty: 50
     unit: g

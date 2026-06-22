@@ -59,7 +59,7 @@ ingredients:
     raw: ½ teaspoon ground nutmeg
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon white pepper
   - qty: 150
     unit: g
@@ -67,7 +67,7 @@ ingredients:
     raw: 150 grams caster sugar
   - qty: 150
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 150 ml white wine vinegar
   - qty: 70
     unit: g

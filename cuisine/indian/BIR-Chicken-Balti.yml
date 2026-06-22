@@ -32,7 +32,7 @@ ingredients:
     name: onion
     raw: 1 onion , roughly chopped
   - qty: 1
-    name: green pepper deseeded and roughly chopped
+    name: pepper deseeded and roughly chopped (green)
     raw: 1 green pepper deseeded and roughly chopped
   - qty: 1
     name: tomato
@@ -43,7 +43,7 @@ ingredients:
     raw: 1 tbsp garlic and ginger paste
   - qty: 1
     unit: tbsp
-    name: green chillis
+    name: chillis (green)
     raw: 1 tbsp finely chopped green chillis
   - qty: 1
     unit: tsp

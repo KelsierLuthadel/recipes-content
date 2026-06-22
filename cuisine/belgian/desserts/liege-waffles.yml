@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 500 g strong white bread flour
   - qty: 60
     unit: g
@@ -59,7 +59,7 @@ ingredients:
     unit: tbsp
     name: neutral oil
     raw: 1 tablespoon neutral oil or melted butter
-  - name: hot plain. the liege purist eats them as is.
+  - name: hot plain. the liege purist eats them as is
     raw: Hot, plain. The Liège purist eats them as is.
-  - name: "optional brussels style additions: a dusting of icing sugar"
+  - name: optional brussels style additions
     raw: "Optional Brussels-style additions: a dusting of icing sugar, a dollop of whipped cream, sliced strawberries, hot Belgian chocolate sauce."

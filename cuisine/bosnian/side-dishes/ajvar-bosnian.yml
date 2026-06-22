@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 3
     unit: kg
-    name: long red roga peppers
+    name: roga peppers (red)
     raw: 3 kg long red roga peppers
   - qty: 1
     name: aubergine
@@ -39,9 +39,9 @@ ingredients:
     raw: 1 tablespoon caster sugar
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tablespoons white wine vinegar
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon freshly ground black pepper

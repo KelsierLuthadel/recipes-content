@@ -47,7 +47,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 2
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 2 red bell peppers
   - qty: 1.5
     name: scotch bonnet chillies
@@ -68,7 +68,7 @@ ingredients:
     raw: 100 ml warm water
   - qty: 150
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 150 ml red palm oil
   - qty: 150
     unit: g

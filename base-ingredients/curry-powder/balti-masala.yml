@@ -30,7 +30,7 @@ ingredients:
     raw: 4 tablespoons coriander seeds
   - qty: 2
     unit: tbsp
-    name: white cumin seeds
+    name: cumin seeds (white)
     raw: 2 tablespoons white cumin seeds
   - qty: 1
     name: cinnamon stick
@@ -41,11 +41,11 @@ ingredients:
     raw: 2 teaspoons fennel seeds
   - qty: 2
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 2 teaspoons black mustard seeds
   - qty: 2
     unit: tsp
-    name: green cardamom seeds
+    name: cardamom seeds (green)
     raw: 2 teaspoons green cardamom seeds
   - qty: 1
     unit: tsp

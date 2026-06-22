@@ -70,22 +70,22 @@ ingredients:
     unit: l
     name: water
     raw: 1.2 litres water
-  - name: "firm: monkfish"
+  - name: firm
     raw: "Firm: monkfish, gurnard, john dory"
-  - name: "medium: red mullet"
+  - name: medium
     raw: "Medium: red mullet, sea bass"
-  - name: "delicate: cod"
+  - name: delicate
     raw: "Delicate: cod, hake"
-  - name: "optional: prawns"
+  - name: optional
     raw: "Optional: prawns, mussels"
   - qty: 1
-    name: white bread
+    name: bread (white)
     raw: 1 thick slice white bread
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - qty: 1
     name: egg yolk

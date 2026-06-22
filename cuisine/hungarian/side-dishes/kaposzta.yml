@@ -18,7 +18,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: white cabbage
+    name: cabbage (white)
     raw: 1 white cabbage , about 1 kg
   - qty: 2
     unit: tbsp
@@ -48,7 +48,7 @@ ingredients:
     raw: 150 ml chicken stock
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - name: salt
     raw: salt

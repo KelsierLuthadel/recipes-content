@@ -33,10 +33,10 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons olive oil, plus more as needed
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 large yellow onion
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 large red bell pepper
   - qty: 1
     name: poblano chile
@@ -69,11 +69,11 @@ ingredients:
     raw: 240 ml beef stock
   - qty: 2
     unit: tbsp
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 2 tablespoons yellow cornmeal
   - name: shredded cheddar
     raw: Shredded Cheddar or Monterey Jack
-  - name: red onion
+  - name: onion (red)
     raw: Chopped red onion
   - name: sour cream
     raw: Sour cream

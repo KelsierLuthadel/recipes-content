@@ -50,21 +50,21 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 4
     unit: tbsp
-    name: "lard : for additional cooking fat"
+    name: lard
     raw: "4 tablespoons lard : for additional cooking fat"
   - qty: 2
-    name: white onions
+    name: onions (white)
     raw: 2 large white onions
   - name: lime
     raw: Juice of 1 lime
@@ -79,7 +79,7 @@ ingredients:
     raw: Lime wedges
   - name: plain white rice
     raw: Plain white rice
-  - name: black beans
+  - name: beans (black)
     raw: Black beans
   - name: sweet plantains
     raw: Sweet plantains

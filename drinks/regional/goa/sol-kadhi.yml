@@ -18,7 +18,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: to 10 dried kokum rinds
+    name: kokum rinds
     raw: 8 to 10 dried kokum rinds
   - qty: 250
     unit: ml
@@ -40,7 +40,7 @@ ingredients:
     name: garlic
     raw: 3 garlic cloves, peeled
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli, deseeded
   - qty: 1
     unit: tsp

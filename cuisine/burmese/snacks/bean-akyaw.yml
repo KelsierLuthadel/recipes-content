@@ -22,7 +22,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 250 g yellow split peas
   - qty: 2
     name: shallots
@@ -34,7 +34,7 @@ ingredients:
     name: ginger
     raw: 2 cm ginger
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 0.5
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     raw: 1 ½ teaspoons salt
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon ground white pepper
   - qty: 2
     unit: tbsp

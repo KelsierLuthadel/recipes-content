@@ -38,7 +38,7 @@ ingredients:
     name: lemongrass
     raw: 2 stalks lemongrass
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 3
     unit: tbsp
@@ -64,7 +64,7 @@ ingredients:
     raw: 500 g pumpkin
   - qty: 200
     unit: g
-    name: long beans
+    name: beans
     raw: 200 g long beans
   - qty: 1
     name: aubergine

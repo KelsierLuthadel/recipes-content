@@ -32,7 +32,7 @@ ingredients:
     raw: 2 tbsp dried oregano
   - qty: 1
     unit: tbsp
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: 1 tbsp dried red pepper flakes
   - qty: 1
     unit: tsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 1/2 tsp black pepper
   - qty: 80
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 80 ml red wine vinegar
   - qty: 60
     unit: ml
@@ -57,5 +57,5 @@ ingredients:
     unit: ml
     name: virgin olive oil
     raw: 150 ml extra virgin olive oil
-  - name: "optional: 1 small bay leaf"
+  - name: optional
     raw: "Optional: 1 small bay leaf, crushed"

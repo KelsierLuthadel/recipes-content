@@ -38,10 +38,10 @@ ingredients:
     name: garlic
     raw: 3 garlic cloves
   - qty: 2.5
-    name: red bird’s eye chillies
+    name: bird’s eye chillies (red)
     raw: 2-3 red bird’s eye chillies
   - qty: 12
-    name: green beans
+    name: beans (green)
     raw: 12 green beans, cut into 2 ½ cm pieces
   - qty: 1
     unit: tbsp
@@ -60,7 +60,7 @@ ingredients:
     raw: 1 lime
   - qty: 400
     unit: g
-    name: green papaya
+    name: papaya (green)
     raw: 400 g green papaya, grated
   - qty: 1
     name: carrot
@@ -74,5 +74,5 @@ ingredients:
     raw: 2 tbsp finely chopped coriander
   - qty: 2
     unit: tbsp
-    name: thai sweet basil
+    name: thai basil
     raw: 2 tbsp Thai sweet basil , roughly chopped

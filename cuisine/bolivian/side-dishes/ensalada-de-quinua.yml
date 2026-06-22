@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: white quinoa
+    name: quinoa (white)
     raw: 200 g white quinoa
   - qty: 400
     unit: ml
@@ -31,21 +31,21 @@ ingredients:
     name: corn kernels
     raw: 200 g cooked corn kernels
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper, finely diced
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper, finely diced
   - qty: 1
     name: tomato
     raw: 1 large ripe tomato, finely diced
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion, finely diced
   - qty: 1
     name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, chopped
-  - name: "optional: 100 g crumbled queso fresco"
+  - name: optional
     raw: "Optional: 100 g crumbled queso fresco or feta"
   - qty: 4
     unit: tbsp
@@ -53,7 +53,7 @@ ingredients:
     raw: 4 tbsp olive oil
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tbsp white wine vinegar
   - qty: 1
     unit: tsp

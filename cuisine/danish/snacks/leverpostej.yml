@@ -68,7 +68,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon ground white pepper
   - qty: 1
     unit: tsp
@@ -92,7 +92,7 @@ ingredients:
   - qty: 3.5
     name: bay leaves
     raw: 3-4 bay leaves
-  - name: "equipment: a 1.5 litre loaf tin"
+  - name: equipment
     raw: "Equipment: a 1.5-litre loaf tin, lined with greaseproof paper"
   - name: danish rugbrød
     raw: Sliced Danish rugbrød
@@ -100,7 +100,7 @@ ingredients:
     raw: Pickled beetroot
   - name: crispy fried onions
     raw: Crispy fried onions
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced raw cucumber
   - qty: 1
     unit: sprig

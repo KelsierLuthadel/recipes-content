@@ -56,5 +56,5 @@ ingredients:
     unit: g
     name: unsweetened cocoa powder
     raw: 60 g unsweetened cocoa powder
-  - name: "optional: 30 g icing sugar mixed with the cocoa"
+  - name: optional
     raw: "Optional: 30 g icing sugar mixed with the cocoa"

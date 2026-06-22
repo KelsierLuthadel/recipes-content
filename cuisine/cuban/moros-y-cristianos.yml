@@ -19,7 +19,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 250 g dried black beans
   - qty: 1
     name: bay leaf
@@ -36,7 +36,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 6
     name: garlic
@@ -59,7 +59,7 @@ ingredients:
     raw: 600 ml vegetable stock
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tablespoons red wine vinegar
   - name: salt
     raw: salt

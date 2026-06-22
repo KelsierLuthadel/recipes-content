@@ -41,7 +41,7 @@ ingredients:
     raw: ½ tsp salt
   - qty: 0.5
     unit: tsp
-    name: red chilli powder
+    name: chilli powder (red)
     raw: ½ tsp red chilli powder
   - qty: 1
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     name: garlic
     raw: 3 cloves garlic
   - qty: 0.5
-    name: red bell pepper
+    name: bell pepper (red)
     raw: ½ red bell pepper
   - qty: 5
     name: chillies
@@ -67,7 +67,7 @@ ingredients:
     raw: 4 tsp soy sauce
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ tsp black pepper
   - qty: 0.25
     unit: tsp

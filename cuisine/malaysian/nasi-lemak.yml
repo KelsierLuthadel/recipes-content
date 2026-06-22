@@ -46,13 +46,13 @@ ingredients:
   - name: water
     raw: Water
   - qty: 10
-    name: long red chillies
+    name: chillies (red)
     raw: 10 dried long red chillies
   - qty: 2
-    name: long red chillies
+    name: chillies (red)
     raw: 2 fresh long red chillies
   - qty: 2
-    name: red shallots
+    name: shallots (red)
     raw: 2 red shallots
   - qty: 1
     name: garlic
@@ -70,11 +70,11 @@ ingredients:
     name: anchovies
     raw: 1 cup dried anchovies
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - qty: 1
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
   - qty: 2
     name: hard boiled eggs
     raw: 2 hard-boiled eggs
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber
   - name: ayam goreng
     raw: Ayam goreng , optional

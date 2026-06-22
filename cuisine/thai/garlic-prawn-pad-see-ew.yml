@@ -27,10 +27,10 @@ mentions:
 ingredients:
   - qty: 0.25
     unit: cup
-    name: white vinegar
+    name: vinegar (white)
     raw: ¼ cup white vinegar
   - qty: 1
-    name: long red chilli
+    name: chilli (red)
     raw: 1 long red chilli
   - qty: 200
     unit: g
@@ -49,7 +49,7 @@ ingredients:
     raw: 1 teaspoon sesame oil
   - qty: 1
     unit: pinch
-    name: white pepper
+    name: pepper (white)
     raw: Pinch of ground white pepper
   - qty: 2
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     unit: tbsp
     name: soy sauce
     raw: 2 tablespoons soy sauce
-  - name: white pepper
+  - name: pepper (white)
     raw: Ground white pepper to taste
   - name: chilli powder
     raw: Chilli powder

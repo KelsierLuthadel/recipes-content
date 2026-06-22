@@ -73,13 +73,13 @@ ingredients:
     name: cinnamon
     raw: 5 cm piece cinnamon
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 4
     name: cloves
     raw: 4 cloves
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 1
     name: onion
@@ -89,7 +89,7 @@ ingredients:
     name: garlic and ginger paste
     raw: 1 tablespoon garlic and ginger paste
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
     unit: tsp

@@ -21,7 +21,7 @@ ingredients:
     raw: 400 g caster sugar
   - qty: 200
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 200 g brown sugar
   - qty: 200
     unit: ml
@@ -46,7 +46,7 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: ½ teaspoon fine sea salt
-  - name: "optional: 100 g chopped roasted peanuts"
+  - name: optional
     raw: "Optional: 100 g chopped roasted peanuts"
-  - name: "optional: 100 g chocolate chips"
+  - name: optional
     raw: "Optional: 100 g chocolate chips"

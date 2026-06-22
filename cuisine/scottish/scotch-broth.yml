@@ -35,7 +35,7 @@ ingredients:
   - name: thyme
     raw: A small thyme sprig
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 100
     unit: g
@@ -43,11 +43,11 @@ ingredients:
     raw: 100 g pearl barley
   - qty: 100
     unit: g
-    name: green peas
+    name: peas (green)
     raw: 100 g dried green peas
   - qty: 50
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 50 g yellow split peas
   - qty: 1
     name: onion
@@ -74,7 +74,7 @@ ingredients:
     unit: tbsp
     name: flat leaf parsley
     raw: 4 tablespoons chopped flat-leaf parsley
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper to taste
   - qty: 1
     name: crusty bread

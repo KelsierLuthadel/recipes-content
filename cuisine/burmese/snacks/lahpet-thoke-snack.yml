@@ -55,7 +55,7 @@ ingredients:
     raw: 80 g raw peanuts
   - qty: 80
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 80 g yellow split peas
   - qty: 30
     unit: g
@@ -63,10 +63,10 @@ ingredients:
     raw: 30 g dried shrimp
   - qty: 2
     unit: tbsp
-    name: white sesame seeds
+    name: sesame seeds (white)
     raw: 2 tablespoons white sesame seeds
   - qty: 2
-    name: long green chillies
+    name: chillies (green)
     raw: 2 long green chillies
   - name: wedges of lime
     raw: Wedges of lime

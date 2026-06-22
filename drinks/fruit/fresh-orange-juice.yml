@@ -16,7 +16,7 @@ ingredients:
     name: juicing oranges
     raw: 6 ripe juicing oranges
   - qty: 0.5
-    name: pink grapefruit
+    name: grapefruit (pink)
     raw: ½ ripe pink grapefruit
   - qty: 1
     name: naval orange
@@ -27,5 +27,5 @@ ingredients:
     raw: Pinch of fine salt
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: orange on the glass rim
+  - name: on the glass rim (orange)
     raw: A wedge of orange on the glass rim

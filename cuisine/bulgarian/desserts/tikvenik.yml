@@ -51,5 +51,5 @@ ingredients:
     unit: tbsp
     name: icing sugar
     raw: 2 tbsp icing sugar, for dusting
-  - name: "optional: 50 ml dark rum"
+  - name: optional
     raw: "Optional: 50 ml dark rum or brandy"

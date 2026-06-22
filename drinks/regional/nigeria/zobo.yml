@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 100
     unit: g
-    name: "hibiscus calyces : from any african"
+    name: hibiscus calyces
     raw: "100 g dried hibiscus calyces : from any African or Caribbean grocery, or health food shop"
   - qty: 2
     unit: l
@@ -47,7 +47,7 @@ ingredients:
   - name: pineapple
     raw: A small slice of fresh pineapple per glass
   - qty: 6
-    name: to 8 tall glasses
+    name: tall glasses
     raw: 6 to 8 tall glasses, chilled
-  - name: "optional: a sprig of fresh mint"
+  - name: optional
     raw: "Optional: a sprig of fresh mint per glass"

@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: white flour
+    name: flour (white)
     raw: 300 grams strong white flour
   - qty: 1
     unit: tsp
@@ -29,7 +29,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 2
     unit: tsp
-    name: red chillies
+    name: chillies (red)
     raw: 2 teaspoons crushed dried red chillies
   - qty: 3
     name: eggs

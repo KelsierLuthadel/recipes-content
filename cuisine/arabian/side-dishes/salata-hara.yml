@@ -22,13 +22,13 @@ ingredients:
     name: tomatoes
     raw: 3 ripe tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1.5
-    name: green chillies
+    name: chillies (green)
     raw: 1-2 fresh green chillies
   - qty: 4
     unit: tbsp
@@ -55,5 +55,5 @@ ingredients:
     raw: ½ teaspoon salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon ground black pepper

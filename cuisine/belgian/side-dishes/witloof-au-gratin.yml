@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 8
-    name: heads of witloof / belgian endive / chicory
+    name: witloof / belgian endive / chicory
     raw: 8 large heads of witloof / Belgian endive / chicory
   - qty: 60
     unit: g
@@ -41,10 +41,10 @@ ingredients:
     unit: ml
     name: chicken stock
     raw: 200 ml chicken stock OR water
-  - name: black pepper
+  - name: pepper (black)
     raw: A grating of black pepper
   - qty: 8
-    name: "ham : large enough to wrap around each chicory head"
+    name: ham
     raw: "8 slices good cooked ham : large enough to wrap around each chicory head"
   - qty: 60
     unit: g

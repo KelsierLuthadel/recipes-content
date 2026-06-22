@@ -46,20 +46,20 @@ ingredients:
     raw: 1 tbsp salt
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tsp black peppercorns
   - qty: 3
     unit: tbsp
     name: vegetable oil
     raw: 3 tbsp vegetable oil
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion, finely diced
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper, finely diced
   - qty: 1
-    name: green sweet pepper
+    name: sweet pepper (green)
     raw: 1 green sweet pepper, finely diced
   - qty: 4
     name: garlic

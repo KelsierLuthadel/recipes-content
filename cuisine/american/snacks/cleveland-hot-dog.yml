@@ -35,7 +35,7 @@ ingredients:
     name: vegetable oil
     raw: 1 tablespoon vegetable oil
   - qty: 4
-    name: russet potatoes ;
+    name: russet potatoes
     raw: 4 large russet potatoes ; or 600 g frozen French fries
   - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
@@ -45,7 +45,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 400
     unit: g
-    name: green cabbage
+    name: cabbage (green)
     raw: 400 g green cabbage
   - qty: 1
     name: carrot
@@ -72,7 +72,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 100
     unit: ml
@@ -84,7 +84,7 @@ ingredients:
     raw: 2 tablespoons hot sauce
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 1
     unit: tbsp
@@ -96,7 +96,7 @@ ingredients:
     raw: ½ teaspoon cayenne
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 200
     unit: ml

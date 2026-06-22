@@ -49,7 +49,7 @@ ingredients:
     raw: 2 lemons
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tablespoons white wine vinegar
   - qty: 4
     unit: tbsp
@@ -68,7 +68,7 @@ ingredients:
     raw: 1 bay leaf
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - name: lemon wedges
     raw: Lemon wedges

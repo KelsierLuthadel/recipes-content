@@ -61,7 +61,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon freshly ground black pepper
   - name: orange
     raw: Zest of 1 orange
@@ -89,8 +89,8 @@ ingredients:
     name: icing sugar
     raw: 100 g icing sugar
   - qty: 1
-    name: to 2 teaspoons lemon juice
+    name: lemon juice
     raw: 1 to 2 teaspoons lemon juice
   - qty: 1
-    name: to 2 teaspoons water
+    name: water
     raw: 1 to 2 teaspoons water

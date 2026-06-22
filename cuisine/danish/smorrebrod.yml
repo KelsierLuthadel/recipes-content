@@ -34,7 +34,7 @@ ingredients:
     name: fillets pickled herring
     raw: 4 fillets pickled herring
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     name: dill
@@ -68,12 +68,12 @@ ingredients:
     name: mayonnaise
     raw: 4 tablespoons mayonnaise
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     name: chives
     raw: A small bunch chives
-  - name: black pepper
+  - name: pepper (black)
     raw: Ground black pepper
   - qty: 4
     name: cold leverpostej
@@ -85,7 +85,7 @@ ingredients:
     name: spoons of meat aspic
     raw: 2 small spoons of meat aspic
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
     unit: small handful
@@ -95,5 +95,5 @@ ingredients:
     raw: Small cold pilsners
   - name: shots of ice cold akvavit
     raw: Tiny shots of ice-cold akvavit
-  - name: fork and knife per person; no hands
+  - name: fork and knife
     raw: Fork-and-knife per person; no hands

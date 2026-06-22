@@ -25,7 +25,7 @@ ingredients:
     name: onions
     raw: 2 medium onions, finely chopped
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper, finely chopped
   - qty: 3
     name: tomatoes
@@ -57,7 +57,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 2 tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 1
     unit: large handful
@@ -66,5 +66,5 @@ ingredients:
   - qty: 2
     name: spring onions
     raw: 2 spring onions, sliced
-  - name: "optional: 1/2 tsp dried oregano"
+  - name: optional
     raw: "Optional: 1/2 tsp dried oregano"

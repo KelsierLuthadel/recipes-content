@@ -71,11 +71,11 @@ ingredients:
     raw: 1 teaspoon turmeric
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 2
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 2 tablespoons white vinegar
   - qty: 2
     unit: tbsp
@@ -97,7 +97,7 @@ ingredients:
     raw: 2 litres vegetable oil
   - name: mint yogurt raita
     raw: Mint-yogurt raita
-  - name: red onion
+  - name: onion (red)
     raw: Sliced red onion
   - name: lemon wedges
     raw: Lemon wedges

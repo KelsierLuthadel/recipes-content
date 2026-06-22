@@ -18,7 +18,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: long green peppers
+    name: peppers (green)
     raw: 4 long green peppers
   - qty: 4
     name: tomatoes
@@ -45,5 +45,5 @@ ingredients:
     raw: 3 tbsp olive oil
   - qty: 1
     unit: tsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tsp white wine vinegar or lemon juice

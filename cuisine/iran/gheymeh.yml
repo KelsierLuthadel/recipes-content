@@ -37,14 +37,14 @@ ingredients:
     raw: ½ teaspoon ground cinnamon
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 3
     unit: tbsp
     name: tomato puree
     raw: 3 tablespoons tomato puree
   - qty: 4
-    name: black limes
+    name: limes (black)
     raw: 4 dried black limes
   - qty: 1
     unit: large pinch
@@ -60,7 +60,7 @@ ingredients:
     raw: 1 ½ teaspoons salt
   - qty: 200
     unit: g
-    name: yellow split peas
+    name: split peas (yellow)
     raw: 200 g yellow split peas
   - qty: 2
     name: potatoes

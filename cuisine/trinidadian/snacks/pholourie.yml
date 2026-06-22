@@ -53,7 +53,7 @@ ingredients:
     raw: 1 tablespoon ground geera
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 4
     name: garlic
@@ -65,7 +65,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet pepper
   - qty: 1
     unit: large handful
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 large handful fresh coriander
   - qty: 3
     unit: tbsp
-    name: green seasoning
+    name: seasoning (green)
     raw: 3 tablespoons green seasoning
   - qty: 375
     unit: ml
@@ -93,7 +93,7 @@ ingredients:
     name: lime juice
     raw: 2 tablespoons fresh lime juice
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet
   - qty: 0.5
     unit: tsp
@@ -113,14 +113,14 @@ ingredients:
     raw: 80 g tamarind paste
   - qty: 50
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 50 g brown sugar
   - qty: 120
     unit: ml
     name: water
     raw: 120 ml water
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 small Scotch bonnet
   - qty: 1
     unit: tsp

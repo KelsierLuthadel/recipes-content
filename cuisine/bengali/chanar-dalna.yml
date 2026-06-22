@@ -43,7 +43,7 @@ ingredients:
     name: cinnamon
     raw: 5 cm piece cinnamon
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 4
     name: cloves
@@ -53,7 +53,7 @@ ingredients:
     name: cumin seeds
     raw: 1 teaspoon cumin seeds
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 2
     unit: tbsp
@@ -76,7 +76,7 @@ ingredients:
     name: turmeric
     raw: ¾ teaspoon turmeric
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 500
     unit: ml

@@ -25,7 +25,7 @@ ingredients:
     raw: 800 g aubergine
   - qty: 600
     unit: g
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 600 g red bell peppers
   - qty: 5
     name: garlic
@@ -40,14 +40,14 @@ ingredients:
     raw: 3 tbsp sunflower oil
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tbsp red wine vinegar
   - qty: 1
     name: flat leaf parsley
     raw: 1 small bunch flat-leaf parsley, finely chopped
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper to taste
-  - name: "optional: 1 tomato"
+  - name: optional
     raw: "Optional: 1 tomato, finely diced"
-  - name: "optional: 50 g chopped walnuts"
+  - name: optional
     raw: "Optional: 50 g chopped walnuts"

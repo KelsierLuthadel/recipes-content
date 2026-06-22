@@ -31,7 +31,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: "free range chicken : poach the whole bird then strip;"
+    name: free range chicken
     raw: "1 free-range chicken : poach the whole bird then strip; or 800 g boneless skinless chicken thighs"
   - qty: 1.2
     unit: l
@@ -54,7 +54,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 250
     unit: g
@@ -76,7 +76,7 @@ ingredients:
     raw: 60 ml whole milk
   - qty: 60
     unit: g
-    name: white breadcrumbs
+    name: breadcrumbs (white)
     raw: 60 g fresh white breadcrumbs
   - qty: 1
     unit: tbsp

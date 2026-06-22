@@ -36,7 +36,7 @@ ingredients:
   - qty: 4
     name: whisky glasses
     raw: 4 small thick whisky glasses or small tumblers
-  - name: "all of the above plus:"
+  - name: all of the above plus
     raw: "All of the above PLUS:"
   - qty: 200
     unit: ml

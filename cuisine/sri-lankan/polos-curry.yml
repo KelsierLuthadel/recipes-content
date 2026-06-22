@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: green jackfruit
+    name: jackfruit (green)
     raw: 1 kg young green jackfruit
   - name: salted water
     raw: Cold salted water
@@ -43,7 +43,7 @@ ingredients:
     name: ginger
     raw: 3 cm fresh ginger
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 1
     unit: tsp
@@ -77,7 +77,7 @@ ingredients:
     raw: ½ teaspoon ground turmeric
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: tsp

@@ -33,10 +33,10 @@ mentions:
   - cuisine/thai/starters/chicken-satay
 ingredients:
   - qty: 3
-    name: lemon grass stalks
+    name: lemon grass
     raw: 3 lemon grass stalks
   - qty: 10
-    name: red chillies
+    name: chillies (red)
     raw: 10 fresh red chillies
   - qty: 115
     unit: g

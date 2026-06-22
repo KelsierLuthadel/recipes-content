@@ -24,7 +24,7 @@ ingredients:
     name: waxy potatoes
     raw: 800 g waxy potatoes
   - qty: 2
-    name: yellow onions
+    name: onions (yellow)
     raw: 2 large yellow onions
   - qty: 6
     name: eggs
@@ -46,15 +46,15 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon coarsely ground black pepper
   - name: crusty bread
     raw: Crusty bread
-  - name: green salad
+  - name: salad (green)
     raw: A green salad
   - name: lemon
     raw: A wedge of lemon
   - name: glass of argentine malbec
     raw: A glass of Argentine Malbec or chilled white
-  - name: "optional: a small dish of chimichurri alongside"
+  - name: optional
     raw: "Optional: a small dish of chimichurri alongside"

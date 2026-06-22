@@ -24,14 +24,14 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: black beans
+    name: beans (black)
     raw: 500 g dried black beans
   - qty: 3
     unit: l
     name: water for cooking
     raw: 3 litres cold water for cooking
   - qty: 2
-    name: white onions
+    name: onions (white)
     raw: 2 medium white onions
   - qty: 8
     name: garlic
@@ -60,7 +60,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: tbsp
@@ -79,7 +79,7 @@ ingredients:
     raw: Mexican rice
   - name: corn tortillas
     raw: Corn tortillas
-  - name: red onion
+  - name: onion (red)
     raw: Sliced raw red onion
   - name: crumbled queso fresco
     raw: Crumbled queso fresco

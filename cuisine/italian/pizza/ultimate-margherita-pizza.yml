@@ -40,7 +40,7 @@ ingredients:
     raw: 170 ml lukewarm water
   - qty: 300
     unit: g
-    name: white bread flour
+    name: bread flour (white)
     raw: 300 grams strong white bread flour
   - qty: 3
     name: shallots
@@ -50,7 +50,7 @@ ingredients:
     raw: 2 garlic cloves
   - qty: 100
     unit: ml
-    name: red wine
+    name: wine (red)
     raw: 100 ml red wine
   - qty: 1
     name: basil

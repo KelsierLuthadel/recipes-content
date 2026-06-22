@@ -23,10 +23,10 @@ ingredients:
     name: tomatoes
     raw: 4 ripe medium tomatoes , seeded
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 fresh green chilli, seeded
   - qty: 1
     name: flat leaf parsley
@@ -44,5 +44,5 @@ ingredients:
     unit: tbsp
     name: virgin olive oil
     raw: 2 tbsp extra virgin olive oil
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper, to taste

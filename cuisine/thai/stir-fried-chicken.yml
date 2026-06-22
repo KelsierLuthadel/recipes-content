@@ -35,7 +35,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 fresh red chillies
   - qty: 3
     unit: tbsp
@@ -53,7 +53,7 @@ ingredients:
     name: holy basil leaves
     raw: 12 holy basil leaves
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 20
     name: deep fried holy basil leaves

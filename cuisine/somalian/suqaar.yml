@@ -38,10 +38,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 5
     name: garlic
@@ -50,7 +50,7 @@ ingredients:
     name: ginger
     raw: 2 cm fresh ginger
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 2
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     raw: ½ teaspoon ground turmeric
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: tsp

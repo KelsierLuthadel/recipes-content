@@ -40,7 +40,7 @@ ingredients:
     raw: 2 tsp salt
   - qty: 80
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 80 ml red palm oil
   - qty: 2
     name: onions
@@ -52,7 +52,7 @@ ingredients:
     name: tomatoes
     raw: 4 ripe tomatoes, chopped
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli, finely chopped
   - qty: 1
     name: aubergine

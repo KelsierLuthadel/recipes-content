@@ -37,7 +37,7 @@ ingredients:
     name: onion
     raw: 1 onion , finely chopped
   - qty: 0.25
-    name: red bell pepper
+    name: bell pepper (red)
     raw: ¼ red bell pepper, deseeded and roughly chopped
   - qty: 2
     unit: tbsp
@@ -85,5 +85,5 @@ ingredients:
   - qty: 1.5
     name: limes
     raw: 1-2 limes
-  - name: red chilli
+  - name: chilli (red)
     raw: Sliced red chilli

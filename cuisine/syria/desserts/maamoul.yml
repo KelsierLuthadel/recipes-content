@@ -52,7 +52,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 2
     unit: tbsp
-    name: orange blossom water
+    name: blossom water (orange)
     raw: 2 tablespoons orange blossom water
   - qty: 2
     unit: tbsp
@@ -80,7 +80,7 @@ ingredients:
     raw: ½ teaspoon ground nutmeg
   - qty: 1
     unit: tbsp
-    name: orange blossom water
+    name: blossom water (orange)
     raw: 1 tablespoon orange blossom water
   - qty: 250
     unit: g
@@ -100,7 +100,7 @@ ingredients:
     raw: 2 tablespoons rose water
   - qty: 1
     unit: tbsp
-    name: orange blossom water
+    name: blossom water (orange)
     raw: 1 tablespoon orange blossom water
   - qty: 250
     unit: g
@@ -116,7 +116,7 @@ ingredients:
     raw: 2 tablespoons rose water
   - qty: 1
     unit: tbsp
-    name: orange blossom water
+    name: blossom water (orange)
     raw: 1 tablespoon orange blossom water
   - qty: 150
     unit: g

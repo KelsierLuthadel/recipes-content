@@ -34,15 +34,15 @@ ingredients:
     name: tomato paste
     raw: ¼ cup tomato paste
   - qty: 1
-    name: yellow onion
+    name: onion (yellow)
     raw: 1 yellow onion
   - qty: 0.5
     unit: cup
-    name: red bell pepper
+    name: bell pepper (red)
     raw: ½ cup red bell pepper
   - qty: 0.5
     unit: cup
-    name: green bell pepper
+    name: bell pepper (green)
     raw: ½ cup green bell pepper
   - qty: 3
     name: garlic

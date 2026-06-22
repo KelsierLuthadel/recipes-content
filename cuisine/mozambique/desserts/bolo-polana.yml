@@ -62,7 +62,7 @@ ingredients:
     raw: ½ teaspoon fine sea salt
   - qty: 3
     unit: tbsp
-    name: orange juice
+    name: juice (orange)
     raw: 3 tablespoons fresh orange juice
   - qty: 50
     unit: g
@@ -82,5 +82,5 @@ ingredients:
     raw: 30 g toasted whole cashews
   - qty: 1
     unit: tbsp
-    name: orange marmalade
+    name: marmalade (orange)
     raw: 1 tablespoon orange marmalade

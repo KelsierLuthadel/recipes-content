@@ -18,7 +18,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 6
-    name: long red and green peppers
+    name: and green peppers (red)
     raw: 6 long red and green peppers
   - qty: 4
     name: tomatoes
@@ -48,5 +48,5 @@ ingredients:
     name: salt
     raw: 0.5 tsp salt
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 small red chilli, finely chopped

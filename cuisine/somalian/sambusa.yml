@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: brown lentils
+    name: lentils (brown)
     raw: 200 g brown lentils
   - qty: 600
     unit: ml
@@ -43,7 +43,7 @@ ingredients:
     name: ginger
     raw: 2 cm fresh ginger
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 200
     unit: g

@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: green cabbage
+    name: cabbage (green)
     raw: 1 green cabbage , tough core removed, shredded
   - qty: 1
     name: carrot
@@ -29,13 +29,13 @@ ingredients:
     name: onion
     raw: 1 onion , halved and sliced thin
   - qty: 1
-    name: red pepper
+    name: pepper (red)
     raw: 1 red pepper, deseeded and thinly sliced
   - qty: 3
     name: garlic
     raw: 3 garlic cloves, finely chopped
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet chilli
   - qty: 3
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     raw: ½ teaspoon ground allspice
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: tsp

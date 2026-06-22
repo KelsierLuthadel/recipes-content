@@ -28,7 +28,7 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 2
     name: tomatoes
@@ -40,7 +40,7 @@ ingredients:
     name: bouquet garni
     raw: 1 Bouquet Garni
   - qty: 1
-    name: chorizo sausage
+    name: chorizo sausages
     raw: 1 chorizo sausage
   - qty: 6
     name: eggs

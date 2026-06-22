@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: egg yolks ;
+    name: egg yolks
     raw: 2 large egg yolks ; OR 1 whole egg for the easier stick-blender version
   - qty: 1
     unit: tsp
@@ -38,7 +38,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon ground white pepper
   - qty: 300
     unit: ml
@@ -48,7 +48,7 @@ ingredients:
     name: garlic
     raw: "2 garlic cloves : for aioli-style"
   - qty: 1
-    name: "herbs : for green mayo"
+    name: herbs
     raw: "1 small bunch fresh herbs : for green mayo"
   - qty: 1
     unit: tsp

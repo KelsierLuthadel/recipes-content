@@ -28,10 +28,10 @@ ingredients:
     name: water
     raw: 500 ml cold water
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli, very finely chopped
   - qty: 8
-    name: to 10 fresh mint leaves
+    name: mint leaves
     raw: 8 to 10 fresh mint leaves, torn
   - qty: 1
     unit: tsp
@@ -39,7 +39,7 @@ ingredients:
     raw: 1 teaspoon fine salt
   - qty: 1
     unit: tsp
-    name: black salt
+    name: salt (black)
     raw: 1 teaspoon black salt
   - qty: 0.5
     unit: tsp

@@ -14,7 +14,7 @@ ingredients:
     name: coffee
     raw: 60 ml strong cold coffee
   - qty: 1
-    name: to 2 teaspoons caster sugar
+    name: caster sugar
     raw: 1 to 2 teaspoons caster sugar
   - qty: 1
     name: vanilla ice cream
@@ -33,7 +33,7 @@ ingredients:
     raw: A pinch of cocoa powder or chocolate flakes
   - name: tall glass
     raw: A tall glass
-  - name: long spoon
+  - name: spoon
     raw: A long spoon
   - name: wide straw
     raw: A wide straw

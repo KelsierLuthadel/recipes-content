@@ -52,24 +52,24 @@ ingredients:
     name: virgin olive oil
     raw: 1 tablespoon extra virgin olive oil
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
     name: garlic
     raw: 1 garlic clove
   - qty: 0.5
-    name: red bell pepper
+    name: bell pepper (red)
     raw: ½ red bell pepper
   - qty: 0.5
     unit: tsp
     name: cumin
     raw: ½ teaspoon ground cumin
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 115
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 115 grams canned red kidney beans
   - name: salt
     raw: salt

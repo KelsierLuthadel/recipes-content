@@ -69,7 +69,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 ½ teaspoons ground black pepper
   - qty: 0.25
     unit: tsp
@@ -93,9 +93,9 @@ ingredients:
   - qty: 1
     name: dill
     raw: 1 large bunch fresh dill
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tablespoons white wine vinegar or apple cider vinegar

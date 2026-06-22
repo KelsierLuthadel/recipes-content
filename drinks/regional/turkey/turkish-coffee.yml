@@ -22,7 +22,7 @@ ingredients:
     raw: 200 ml cold water
   - name: sugar
     raw: "Sugar to taste, added at the START :"
-  - name: "optional: a single green cardamom pod"
+  - name: optional
     raw: "Optional: a single green cardamom pod, lightly crushed"
   - qty: 2
     name: porcelain fincans

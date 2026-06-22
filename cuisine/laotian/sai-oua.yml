@@ -56,7 +56,7 @@ ingredients:
     name: thai red chillies
     raw: 4 dried Thai red chillies, soaked in hot water 10 minutes, drained, finely chopped
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies, finely chopped
   - qty: 1
     name: dill
@@ -81,7 +81,7 @@ ingredients:
     raw: 1 tablespoon palm sugar
   - qty: 1
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 teaspoon ground white pepper
   - qty: 1
     unit: tbsp
@@ -102,7 +102,7 @@ ingredients:
     raw: A small dish of jeow bong
   - name: lettuce leaves
     raw: Fresh lettuce leaves, mint sprigs, basil sprigs, cilantro
-  - name: cucumber
+  - name: cucumbers
     raw: Sliced cucumber, raw long beans, raw cabbage
   - name: roasted peanuts
     raw: A small dish of crushed roasted peanuts

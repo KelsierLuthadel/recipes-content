@@ -39,7 +39,7 @@ ingredients:
     name: nigella seeds
     raw: 1 tsp nigella seeds
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 dried red chillies
   - qty: 2
     name: bay leaves
@@ -48,7 +48,7 @@ ingredients:
     name: potatoes
     raw: 3 potatoes , peeled and cut into thick wedges
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies, slit lengthways
   - qty: 1.5
     unit: tsp

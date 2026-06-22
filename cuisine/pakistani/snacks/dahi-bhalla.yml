@@ -35,7 +35,7 @@ ingredients:
     name: ginger
     raw: 2 cm fresh ginger
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 70
     unit: ml
@@ -51,7 +51,7 @@ ingredients:
     raw: ½ teaspoon asafoetida
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon ground white pepper
   - qty: 0.5
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     raw: 4 tablespoons sweet tamarind chutney
   - qty: 4
     unit: tbsp
-    name: green mint coriander chutney
+    name: mint coriander chutney (green)
     raw: 4 tablespoons green mint-coriander chutney
   - qty: 1
     unit: tsp

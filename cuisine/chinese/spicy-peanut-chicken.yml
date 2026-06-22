@@ -32,7 +32,7 @@ ingredients:
     name: chicken breasts
     raw: 225 grams boneless chicken breasts
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 1.5
     unit: tbsp
@@ -72,7 +72,7 @@ ingredients:
     raw: ½ teaspoon fresh ginger
   - qty: 1
     unit: tsp
-    name: white rice vinegar
+    name: rice vinegar (white)
     raw: 1 teaspoon white rice vinegar
   - qty: 0.5
     unit: tsp

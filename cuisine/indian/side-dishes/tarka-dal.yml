@@ -45,7 +45,7 @@ ingredients:
     name: tomato
     raw: 1 tomato
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 4
     unit: tbsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 teaspoon cumin seeds
   - qty: 0.5
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: ½ teaspoon black mustard seeds
   - qty: 1
     unit: pinch

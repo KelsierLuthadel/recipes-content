@@ -18,10 +18,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 4 large red bell peppers
   - qty: 6
-    name: red hot chillies
+    name: hot chillies (red)
     raw: 6 fresh red hot chillies
   - qty: 250
     unit: ml

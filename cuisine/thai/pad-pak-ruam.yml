@@ -34,7 +34,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: head broccoli
+    name: broccoli
     raw: 1 head broccoli
   - qty: 1
     name: carrot
@@ -81,10 +81,10 @@ ingredients:
     raw: 1 teaspoon sugar
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon white pepper
   - qty: 1
-    name: long red chilli
+    name: chilli (red)
     raw: 1 long red chilli
   - qty: 1
     unit: tsp

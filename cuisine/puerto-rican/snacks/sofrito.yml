@@ -24,7 +24,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: green bell peppers
+    name: bell pepper (green)
     raw: 4 medium green bell peppers
   - qty: 8
     name: ajies dulces
@@ -39,13 +39,13 @@ ingredients:
     name: cilantro
     raw: 2 large bunches fresh cilantro
   - qty: 1
-    name: "culantro / recao :"
+    name: culantro / recao
     raw: "1 small bunch fresh culantro / recao : or double the cilantro if unavailable"
   - qty: 1
     name: tomato
     raw: 1 medium tomato
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 medium red bell pepper
   - qty: 2
     unit: tbsp

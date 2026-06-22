@@ -64,7 +64,7 @@ ingredients:
     raw: 1 teaspoon ground turmeric
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: pinch
@@ -84,7 +84,7 @@ ingredients:
     raw: 200 g tinned chickpeas
   - qty: 100
     unit: g
-    name: brown lentils
+    name: lentils (brown)
     raw: 100 g brown lentils
   - qty: 1.5
     unit: l

@@ -22,7 +22,7 @@ ingredients:
     raw: 2 litres full-fat milk
   - qty: 4
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 4 tbsp white vinegar or lemon juice
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
@@ -35,7 +35,7 @@ ingredients:
     name: water
     raw: 1 litre water
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods, lightly crushed
   - qty: 1
     unit: l
@@ -50,7 +50,7 @@ ingredients:
     name: saffron threads
     raw: A generous pinch of saffron threads
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods, lightly crushed
   - qty: 30
     unit: g

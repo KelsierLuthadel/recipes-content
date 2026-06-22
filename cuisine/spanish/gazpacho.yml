@@ -24,13 +24,13 @@ ingredients:
     name: tomatoes
     raw: 1 kg very ripe tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 2
     name: garlic
@@ -61,7 +61,7 @@ ingredients:
     raw: 200 ml ice-cold water
   - qty: 2
     unit: tbsp
-    name: "each: finely diced cucumber"
+    name: each
     raw: "2 tablespoons each: finely diced cucumber, pepper, red onion, tomato"
   - name: croutons
     raw: Croutons

@@ -57,7 +57,7 @@ ingredients:
     raw: ½ teaspoon ground allspice
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 40
     unit: g
@@ -73,9 +73,9 @@ ingredients:
     raw: 2 tablespoons butter
   - qty: 1
     unit: tbsp
-    name: "dill :"
+    name: dill
     raw: "1 tablespoon fresh dill : optional"
   - qty: 1
     unit: tbsp
-    name: "parsley :"
+    name: parsley
     raw: "1 tablespoon fresh parsley : optional"

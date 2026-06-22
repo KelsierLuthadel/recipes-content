@@ -29,7 +29,7 @@ ingredients:
     raw: 30 ml fresh lemon juice
   - qty: 30
     unit: ml
-    name: orange juice
+    name: juice (orange)
     raw: 30 ml fresh orange juice
   - qty: 30
     unit: ml
@@ -46,7 +46,7 @@ ingredients:
   - name: ice
     raw: Crushed ice
   - qty: 1
-    name: orange slice
+    name: slice (orange)
     raw: 1 orange slice
   - qty: 1
     name: maraschino cherry

@@ -21,16 +21,16 @@ mentions:
   - base-ingredients/spices/chaat-masala
 ingredients:
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 3
     name: tomatoes
     raw: 3 tomatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 1
     name: coriander
@@ -56,7 +56,7 @@ ingredients:
     raw: ¾ teaspoon salt
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon black pepper
   - qty: 1
     unit: tbsp

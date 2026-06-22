@@ -22,10 +22,10 @@ ingredients:
     name: water
     raw: 1 litre cold water
   - qty: 100
-    name: to 150 g caster sugar
+    name: caster sugar
     raw: 100 to 150 g caster sugar, to taste
   - qty: 2
-    name: to 3 tablespoons orange blossom water
+    name: blossom water (orange)
     raw: 2 to 3 tablespoons orange blossom water
   - qty: 1
     unit: tsp

@@ -23,13 +23,13 @@ mentions:
   - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 1
-    name: head of broccoli
+    name: broccoli
     raw: 1 head of broccoli
   - qty: 1
-    name: head of cauliflower
+    name: cauliflower
     raw: 1 head of cauliflower
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 3
     unit: tbsp

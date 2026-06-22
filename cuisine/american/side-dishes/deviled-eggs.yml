@@ -22,7 +22,7 @@ ingredients:
     raw: 6 eggs , at least a week old
   - qty: 1
     unit: tsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tsp white vinegar
   - qty: 4
     unit: tbsp
@@ -34,11 +34,11 @@ ingredients:
     raw: 1 tsp Dijon mustard
   - qty: 0.5
     unit: tsp
-    name: yellow american mustard
+    name: american mustard (yellow)
     raw: ½ tsp yellow American mustard
   - qty: 1
     unit: tsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tsp white wine vinegar
   - qty: 0.25
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     raw: ¼ tsp fine sea salt
   - qty: 0.125
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ⅛ tsp freshly ground black pepper
   - qty: 1
     unit: tsp
@@ -56,5 +56,5 @@ ingredients:
     raw: Smoked paprika , for dusting
   - name: snipped chives
     raw: Finely snipped chives
-  - name: "optional: cornichon slices"
+  - name: optional
     raw: "Optional: cornichon slices, capers, or crispy bacon crumbs"

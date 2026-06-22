@@ -43,7 +43,7 @@ ingredients:
     raw: 60 grams sultanas
   - qty: 1
     unit: tbsp
-    name: orange zest
+    name: zest (orange)
     raw: 1 tablespoon orange zest
   - qty: 1
     name: orange
@@ -74,5 +74,5 @@ ingredients:
     raw: pinch saffron threads
   - qty: 150
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 150 ml white wine vinegar

@@ -28,7 +28,7 @@ ingredients:
     raw: 300 ml dark Caribbean rum
   - qty: 200
     unit: ml
-    name: orange juice
+    name: juice (orange)
     raw: 200 ml fresh orange juice
   - qty: 200
     unit: ml
@@ -44,7 +44,7 @@ ingredients:
     raw: Plenty of crushed ice
   - name: nutmeg
     raw: Grated fresh nutmeg
-  - name: orange and lime
+  - name: and lime (orange)
     raw: Slices of orange and lime
   - name: maraschino cherries on cocktail sticks
     raw: Maraschino cherries on cocktail sticks

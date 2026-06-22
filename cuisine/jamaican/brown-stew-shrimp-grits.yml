@@ -58,7 +58,7 @@ ingredients:
     raw: 100 g shredded gouda cheese
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon white pepper
   - qty: 450
     unit: g
@@ -93,19 +93,19 @@ ingredients:
     name: unsalted butter
     raw: 4 tablespoons unsalted butter
   - qty: 0.5
-    name: green bell pepper
+    name: bell pepper (green)
     raw: ½ green bell pepper
   - qty: 0.5
-    name: red bell pepper
+    name: bell pepper (red)
     raw: ½ red bell pepper
   - qty: 0.5
-    name: yellow onion
+    name: onion (yellow)
     raw: ½ small yellow onion
   - qty: 1
     name: carrot
     raw: 1 carrot
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 1
     unit: tbsp

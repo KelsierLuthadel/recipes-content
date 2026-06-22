@@ -28,7 +28,7 @@ ingredients:
     name: lamb shoulder
     raw: 600 g minced lamb shoulder
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion , finely grated
   - qty: 2
     name: garlic
@@ -43,7 +43,7 @@ ingredients:
     raw: 1 tsp ground cumin
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tbsp red wine vinegar
   - qty: 100
     unit: g
@@ -55,14 +55,14 @@ ingredients:
     raw: 1 tsp flaky salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp black pepper
   - qty: 250
     unit: g
     name: greek yoghurt
     raw: 250 g thick Greek yoghurt
   - qty: 0.5
-    name: cucumber
+    name: cucumbers
     raw: ½ cucumber, grated and squeezed dry
   - qty: 1
     name: garlic
@@ -83,11 +83,11 @@ ingredients:
     name: tomatoes
     raw: 2 ripe tomatoes, deseeded and diced
   - qty: 0.25
-    name: cucumber
+    name: cucumbers
     raw: ¼ cucumber, diced
   - qty: 2
     unit: tbsp
-    name: red onion
+    name: onion (red)
     raw: 2 tbsp finely chopped red onion
   - qty: 1
     unit: tbsp
@@ -95,7 +95,7 @@ ingredients:
     raw: 1 tbsp olive oil
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tbsp red wine vinegar
   - qty: 1
     unit: pinch

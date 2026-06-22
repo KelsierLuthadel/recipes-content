@@ -33,7 +33,7 @@ ingredients:
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 fresh green chilli
   - qty: 6
     unit: tbsp
@@ -45,7 +45,7 @@ ingredients:
     raw: 3 tablespoons fresh lemon juice
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tablespoons white wine vinegar
   - qty: 1
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

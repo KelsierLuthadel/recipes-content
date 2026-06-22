@@ -26,10 +26,10 @@ mentions:
   - cuisine/ethiopian/shiro-wat
 ingredients:
   - qty: 10
-    name: red chillies
+    name: chillies (red)
     raw: 10 dried red chillies
   - qty: 8
-    name: white cardamom pods
+    name: cardamom pods (white)
     raw: 8 white cardamom pods
   - qty: 1
     unit: tsp
@@ -52,7 +52,7 @@ ingredients:
     raw: 1 teaspoon allspice berries
   - qty: 2
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 2 teaspoons black peppercorns
   - qty: 1
     unit: tsp

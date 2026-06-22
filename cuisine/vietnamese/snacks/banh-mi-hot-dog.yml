@@ -69,7 +69,7 @@ ingredients:
     name: kewpie japanese mayonnaise
     raw: 4 tablespoons Kewpie Japanese mayonnaise
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
     name: coriander
@@ -78,7 +78,7 @@ ingredients:
     name: spring onions
     raw: 2 spring onions
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - qty: 2
     unit: tbsp

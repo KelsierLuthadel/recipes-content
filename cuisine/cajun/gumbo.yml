@@ -48,7 +48,7 @@ ingredients:
     name: plain flour
     raw: 115 grams plain flour
   - qty: 1
-    name: green pepper
+    name: pepper (green)
     raw: 1 green pepper
   - qty: 1
     name: onion
@@ -57,7 +57,7 @@ ingredients:
     name: celery
     raw: 2 celery sticks
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 fresh green chilli
   - qty: 3
     name: garlic
@@ -75,7 +75,7 @@ ingredients:
     raw: 6 spring onions
   - qty: 275
     unit: g
-    name: white long grain rice
+    name: long grain rice (white)
     raw: 275 grams white long-grain rice
   - name: tabasco sauce
     raw: Tabasco sauce

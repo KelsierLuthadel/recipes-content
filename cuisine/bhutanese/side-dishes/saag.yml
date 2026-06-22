@@ -37,7 +37,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 fresh green chillies
   - qty: 100
     unit: ml
@@ -49,7 +49,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     unit: tbsp

@@ -21,7 +21,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: long beans
+    name: beans
     raw: 500 g long beans
   - qty: 3
     unit: tbsp
@@ -39,14 +39,14 @@ ingredients:
     raw: 60 ml light soy sauce
   - qty: 60
     unit: ml
-    name: white cane vinegar
+    name: cane vinegar (white)
     raw: 60 ml white cane vinegar
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon whole black peppercorns
   - qty: 200
     unit: ml

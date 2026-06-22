@@ -52,19 +52,19 @@ ingredients:
     raw: 1 taro root
   - qty: 200
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 200 g green beans
   - qty: 200
     unit: g
     name: okra
     raw: 200 g okra
   - qty: 1
-    name: long green chilli
+    name: chilli (green)
     raw: 1 long green chilli
   - qty: 1
     name: spinach
     raw: 1 bunch spinach
-  - name: white rice
+  - name: rice (white)
     raw: Cooked white rice, to serve
   - name: lime
     raw: Lime , to serve

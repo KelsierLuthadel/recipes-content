@@ -27,7 +27,7 @@ ingredients:
     raw: 800 g bone-in, skin-on chicken thigh, chopped through the bone into 4 cm pieces
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ½ teaspoon white pepper
   - qty: 4
     unit: tbsp
@@ -40,7 +40,7 @@ ingredients:
     name: garlic
     raw: 10 garlic cloves
   - qty: 3
-    name: red chillies
+    name: chillies (red)
     raw: 3 dried red chillies
   - qty: 4
     unit: tbsp
@@ -64,7 +64,7 @@ ingredients:
     raw: 100 ml water
   - qty: 30
     unit: g
-    name: thai holy basil
+    name: thai basil
     raw: 30 g Thai holy basil
   - name: steamed jasmine rice
     raw: Steamed jasmine rice

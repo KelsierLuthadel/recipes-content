@@ -59,10 +59,10 @@ ingredients:
     raw: 2 teaspoons dark soy sauce
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 medium cucumber
   - qty: 1
     name: carrot
@@ -110,11 +110,11 @@ ingredients:
     raw: A few coriander leaves
   - qty: 1
     unit: pinch
-    name: white pepper
+    name: pepper (white)
     raw: A pinch of white pepper
   - name: sriracha
     raw: Sriracha or Cambodian chilli sauce
   - name: coriander
     raw: Fresh coriander
-  - name: "optional: 4 fried eggs"
+  - name: optional
     raw: "Optional: 4 fried eggs"

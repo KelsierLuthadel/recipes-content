@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: green mangoes
+    name: mangoes (green)
     raw: 1 kg unripe green mangoes
   - qty: 6
     name: garlic
@@ -32,11 +32,11 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 6
-    name: red chillies
+    name: chillies (red)
     raw: 6 fresh red chillies
   - qty: 3
     unit: tbsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 3 tablespoons black mustard seeds
   - qty: 1
     unit: tbsp
@@ -64,9 +64,9 @@ ingredients:
     raw: 250 ml vegetable oil
   - qty: 100
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 100 ml white wine vinegar
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tablespoons brown sugar

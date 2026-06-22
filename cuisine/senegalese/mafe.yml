@@ -55,14 +55,14 @@ ingredients:
     name: tomatoes
     raw: 400 g tinned chopped tomatoes
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet chilli
   - qty: 2
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     name: maggi
@@ -92,7 +92,7 @@ ingredients:
     name: carrots
     raw: 2 carrots
   - qty: 0.5
-    name: white cabbage
+    name: cabbage (white)
     raw: ½ small white cabbage
   - qty: 500
     unit: g

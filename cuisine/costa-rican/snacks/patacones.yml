@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 3
-    name: green plantains
+    name: plantains (green)
     raw: 3 large green plantains
   - qty: 500
     unit: ml
@@ -36,7 +36,7 @@ ingredients:
     raw: 200 g frijoles molidos or refried black beans, warm
   - qty: 100
     unit: g
-    name: white cheese
+    name: cheese (white)
     raw: 100 g fresh white cheese , crumbled
   - qty: 1
     name: tomato

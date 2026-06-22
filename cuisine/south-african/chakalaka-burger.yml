@@ -48,13 +48,13 @@ ingredients:
     name: carrots
     raw: 3 large carrots
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 fresh red chilli
   - qty: 1
     unit: tbsp
@@ -92,7 +92,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     name: coriander
@@ -107,7 +107,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -138,7 +138,7 @@ ingredients:
     name: tomato
     raw: 1 large tomato
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - name: hand cut chips
     raw: Hand-cut chips

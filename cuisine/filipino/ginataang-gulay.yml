@@ -50,16 +50,16 @@ ingredients:
     raw: 1 aubergine
   - qty: 200
     unit: g
-    name: long beans
+    name: beans
     raw: 200 g long beans
   - qty: 2
     unit: tbsp
     name: light soy sauce
     raw: 2 tablespoons light soy sauce
   - qty: 1
-    name: long red chilli
+    name: chilli (red)
     raw: 1 long red chilli
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - name: rice
     raw: Cooked rice

@@ -27,17 +27,17 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black eyed beans
+    name: eyed beans (black)
     raw: 300 g dried black-eyed beans
   - qty: 250
     unit: ml
     name: water
     raw: 250 ml warm water
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 red onion
   - qty: 1.5
     name: scotch bonnet chillies
@@ -54,7 +54,7 @@ ingredients:
     raw: 250 ml water
   - qty: 100
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 100 ml red palm oil
   - qty: 2
     unit: tbsp

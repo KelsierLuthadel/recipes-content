@@ -40,7 +40,7 @@ ingredients:
     raw: 1 tablespoon light soy sauce
   - qty: 1
     unit: tbsp
-    name: white rice vinegar
+    name: rice vinegar (white)
     raw: 1 tablespoon white rice vinegar
   - qty: 0.5
     unit: tsp
@@ -68,7 +68,7 @@ ingredients:
     raw: 1 tablespoon light soy sauce
   - qty: 2
     unit: tsp
-    name: orange peel
+    name: peel (orange)
     raw: 2 teaspoons freshly grated orange peel
   - qty: 70
     unit: ml

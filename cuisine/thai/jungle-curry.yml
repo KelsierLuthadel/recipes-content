@@ -43,7 +43,7 @@ ingredients:
     name: thai chicken stock
     raw: 500 ml Thai chicken stock or water
   - qty: 10
-    name: green beans
+    name: beans (green)
     raw: 10 green beans, cut into 2 ½ cm pieces
   - qty: 227
     unit: g
@@ -54,7 +54,7 @@ ingredients:
     raw: 5 baby sweetcorn, cut into small pieces
   - qty: 3
     unit: tbsp
-    name: green peppercorns
+    name: peppercorns (green)
     raw: 3 tbsp fresh green peppercorns
   - qty: 2.5
     unit: tbsp
@@ -72,5 +72,5 @@ ingredients:
     raw: 1 tsp palm sugar
   - name: coriander
     raw: Coriander leaves
-  - name: thai sweet basil leaves
+  - name: thai basil
     raw: Thai sweet basil leaves

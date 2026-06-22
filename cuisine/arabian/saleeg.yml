@@ -28,7 +28,7 @@ ingredients:
     name: cardamom pods
     raw: 6 cardamom pods
   - qty: 2
-    name: black limes
+    name: limes (black)
     raw: 2 dried black limes
   - qty: 1
     name: mastic gum tear
@@ -37,7 +37,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 8
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 8 black peppercorns
   - qty: 1
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 60 g unsalted butter
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon coarsely ground black pepper
   - name: yogurt
     raw: Yogurt

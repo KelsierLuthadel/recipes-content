@@ -40,7 +40,7 @@ ingredients:
     name: bay leaves
     raw: 2 fresh bay leaves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 6
     name: juniper berries
@@ -57,15 +57,15 @@ ingredients:
     name: water
     raw: 200 ml water
   - qty: 1.5
-    name: to 2 teaspoons salt
+    name: salt
     raw: 1 ½ to 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoon ground white pepper
   - qty: 1
     unit: tbsp

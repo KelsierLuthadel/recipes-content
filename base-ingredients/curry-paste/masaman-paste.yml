@@ -26,10 +26,10 @@ mentions:
   - cuisine/thai/thai-beef-massaman
 ingredients:
   - qty: 12
-    name: red chillies
+    name: chillies (red)
     raw: 12 dried red chillies
   - qty: 1
-    name: lemon grass stalk
+    name: lemon grass
     raw: 1 lemon grass stalk
   - qty: 4
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     name: cloves
     raw: 2 whole cloves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 1
     name: shrimp paste

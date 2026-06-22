@@ -53,7 +53,7 @@ ingredients:
     raw: 2 garlic cloves
   - qty: 0.25
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: ¼ teaspoons white pepper
   - qty: 1
     unit: tbsp
@@ -79,7 +79,7 @@ ingredients:
     name: mint
     raw: 25 grams mint
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies
   - name: mint leaves
     raw: mint leaves

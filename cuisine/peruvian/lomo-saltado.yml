@@ -34,7 +34,7 @@ ingredients:
     raw: 2 tablespoons soy sauce
   - qty: 1
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 1 tablespoon red wine vinegar
   - qty: 1
     unit: tsp
@@ -56,7 +56,7 @@ ingredients:
     name: sunflower oil
     raw: 3 tablespoons sunflower oil OR rapeseed oil
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 large red onion, cut into 6-8 wedges through the root
   - qty: 2
     name: tomatoes
@@ -74,7 +74,7 @@ ingredients:
     raw: 3 tablespoons soy sauce
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tablespoons red wine vinegar
   - qty: 1
     unit: tbsp

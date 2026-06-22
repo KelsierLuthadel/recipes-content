@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 300 g dried red kidney beans
   - qty: 1.2
     unit: l
@@ -52,7 +52,7 @@ ingredients:
     name: cinnamon stick
     raw: 1 cinnamon stick
   - qty: 2
-    name: black cardamom pods
+    name: cardamom pods (black)
     raw: 2 black cardamom pods
   - qty: 4
     name: cloves
@@ -71,7 +71,7 @@ ingredients:
     name: ginger
     raw: 30 g fresh ginger
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 4
     name: tomatoes

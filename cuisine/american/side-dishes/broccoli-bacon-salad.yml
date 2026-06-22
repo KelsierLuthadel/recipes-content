@@ -29,7 +29,7 @@ ingredients:
     name: streaky bacon
     raw: 200 g streaky bacon, cut into 1 cm pieces
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ small red onion, very finely diced
   - qty: 75
     unit: g
@@ -63,5 +63,5 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: ¼ tsp fine sea salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper

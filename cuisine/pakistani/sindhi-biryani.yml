@@ -110,7 +110,7 @@ ingredients:
     name: salt
     raw: 2 tablespoons salt
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 4
     name: cloves
@@ -123,14 +123,14 @@ ingredients:
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 200
     unit: g
     name: plums
     raw: 200 g dried plums
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies
   - qty: 2
     unit: tbsp

@@ -39,5 +39,5 @@ ingredients:
     raw: Vegetable oil for deep-frying
   - name: caster sugar
     raw: Caster sugar, for rolling
-  - name: "or: spiced sugar"
+  - name: or
     raw: "Or: spiced sugar"

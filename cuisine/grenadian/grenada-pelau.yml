@@ -48,11 +48,11 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp black pepper
   - qty: 1
     unit: tbsp
-    name: green seasoning
+    name: seasoning (green)
     raw: 1 tbsp green seasoning
   - qty: 3
     unit: tbsp
@@ -82,7 +82,7 @@ ingredients:
     name: water
     raw: 600 ml hot water or chicken stock
   - qty: 1
-    name: scotch bonnet pepper
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet pepper, whole
   - qty: 0.5
     unit: tsp

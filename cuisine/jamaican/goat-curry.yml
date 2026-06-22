@@ -36,7 +36,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 2
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     name: ginger
     raw: 30 g fresh ginger
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 2
     unit: tbsp
@@ -65,7 +65,7 @@ ingredients:
     raw: 2 tablespoons vegetable oil
   - qty: 1
     unit: tbsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 tablespoon white vinegar
   - qty: 2
     unit: tbsp
@@ -86,7 +86,7 @@ ingredients:
     name: potatoes
     raw: 2 potatoes
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 whole Scotch bonnet
   - qty: 2
     unit: sprig

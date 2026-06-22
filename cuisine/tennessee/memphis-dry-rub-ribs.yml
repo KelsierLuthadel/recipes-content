@@ -25,11 +25,11 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 2
-    name: racks pork spareribs ;
+    name: racks pork spareribs
     raw: 2 racks pork spareribs ; or baby back ribs
   - qty: 80
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 80 g brown sugar
   - qty: 4
     unit: tbsp
@@ -69,7 +69,7 @@ ingredients:
     raw: 2 tablespoons fine sea salt
   - qty: 2
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 2 tablespoons ground black pepper
   - qty: 1
     unit: tbsp
@@ -101,7 +101,7 @@ ingredients:
     raw: 100 ml apple cider vinegar
   - qty: 50
     unit: g
-    name: brown sugar
+    name: sugar (brown)
     raw: 50 g brown sugar
   - qty: 2
     unit: tbsp
@@ -109,7 +109,7 @@ ingredients:
     raw: 2 tablespoons Worcestershire sauce
   - qty: 1
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 1 tablespoon yellow mustard
   - qty: 1
     unit: tbsp

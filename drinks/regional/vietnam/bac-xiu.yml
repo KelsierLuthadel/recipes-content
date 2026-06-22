@@ -41,7 +41,7 @@ ingredients:
   - qty: 2
     name: tall glasses
     raw: 2 tall glasses, chilled
-  - name: "optional: 2 tablespoons shaved fresh coconut"
+  - name: optional
     raw: "Optional: 2 tablespoons shaved fresh coconut OR a swirl of whipped cream"
-  - name: "optional: a small mint"
+  - name: optional
     raw: "Optional: a small mint sprig per glass"

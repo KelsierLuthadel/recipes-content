@@ -24,14 +24,14 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: nopales ;
+    name: nopales
     raw: 500 g cooked nopales ; OR 600 g fresh nopal pads
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - qty: 400
     unit: g
-    name: tomatillos ;
+    name: tomatillos
     raw: 400 g tomatillos ; OR 1 tin tomatillos
   - qty: 4
     name: garlic
@@ -40,7 +40,7 @@ ingredients:
     name: jalapenos
     raw: 2 fresh jalapeños
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 small white onion
   - qty: 1
     name: coriander
@@ -57,7 +57,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 80
     unit: g

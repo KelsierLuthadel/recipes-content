@@ -14,7 +14,7 @@ mentions: []
 ingredients:
   - qty: 1
     unit: kg
-    name: red bell peppers
+    name: bell pepper (red)
     raw: 1 kg red bell peppers
   - qty: 800
     unit: g
@@ -29,7 +29,7 @@ ingredients:
     raw: 100 ml sunflower oil
   - qty: 3
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 3 tablespoons white wine vinegar
   - qty: 2
     unit: tbsp
@@ -45,5 +45,5 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper

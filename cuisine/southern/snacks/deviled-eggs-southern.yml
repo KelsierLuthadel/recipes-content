@@ -28,7 +28,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tsp
-    name: white vinegar
+    name: vinegar (white)
     raw: 1 teaspoon white vinegar
   - qty: 200
     unit: g
@@ -40,7 +40,7 @@ ingredients:
     raw: 3 tablespoons sweet pickle relish
   - qty: 2
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 2 tablespoons yellow mustard
   - qty: 1
     unit: tbsp
@@ -68,7 +68,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 2
     unit: tsp
@@ -78,7 +78,7 @@ ingredients:
     unit: tbsp
     name: chives
     raw: 2 tablespoons chopped fresh chives
-  - name: "optional: chopped pickled jalapenos"
+  - name: optional
     raw: "Optional: chopped pickled jalapeños"
-  - name: "optional: cooked crumbled bacon"
+  - name: optional
     raw: "Optional: cooked crumbled bacon"

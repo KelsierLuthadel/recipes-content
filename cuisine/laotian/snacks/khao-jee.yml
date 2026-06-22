@@ -89,10 +89,10 @@ ingredients:
   - name: culantro if available
     raw: A few sprigs culantro if available
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber, peeled into long thin ribbons
   - qty: 4
-    name: red chillies
+    name: chillies (red)
     raw: 4 fresh red chillies, sliced into rings
   - qty: 4
     name: spring onions

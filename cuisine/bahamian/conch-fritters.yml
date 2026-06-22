@@ -30,10 +30,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 0.5
-    name: green capsicum
+    name: capsicum (green)
     raw: ½ green capsicum
   - qty: 0.5
-    name: red capsicum
+    name: capsicum (red)
     raw: ½ red capsicum
   - qty: 1
     name: celery
@@ -45,7 +45,7 @@ ingredients:
     name: garlic
     raw: 1 garlic clove
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet
   - qty: 2
     unit: tbsp
@@ -60,7 +60,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon freshly ground black pepper
   - qty: 220
     unit: g

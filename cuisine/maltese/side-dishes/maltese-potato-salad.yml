@@ -22,7 +22,7 @@ ingredients:
     name: waxy potatoes
     raw: 1 kg waxy potatoes
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 4
     unit: tbsp
@@ -30,7 +30,7 @@ ingredients:
     raw: 4 tablespoons capers
   - qty: 100
     unit: g
-    name: black maltese olives
+    name: maltese olives (black)
     raw: 100 g black Maltese olives
   - qty: 2
     name: tomatoes
@@ -51,7 +51,7 @@ ingredients:
     raw: 4 tablespoons fresh lemon juice
   - qty: 2
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 2 tablespoons white wine vinegar
   - qty: 1
     unit: tsp

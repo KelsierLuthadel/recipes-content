@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: grelos ;
+    name: grelos
     raw: 600 g grelos ; or broccoli rabe ; or cavolo nero ; or curly kale
   - qty: 2
     unit: tbsp
@@ -35,7 +35,7 @@ ingredients:
     raw: 10 garlic cloves
   - qty: 1
     unit: tsp
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: 1 teaspoon dried red pepper flakes
   - qty: 1.5
     unit: tsp
@@ -43,7 +43,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - name: lemon
     raw: Juice of 1 lemon

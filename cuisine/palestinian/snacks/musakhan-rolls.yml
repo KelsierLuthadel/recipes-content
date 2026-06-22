@@ -28,7 +28,7 @@ ingredients:
     name: extra virgin olive oil
     raw: 6 tablespoons extra-virgin olive oil
   - qty: 5
-    name: red onions
+    name: onions (red)
     raw: 5 red onions
   - qty: 1
     unit: tsp
@@ -48,7 +48,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 60
     unit: g

@@ -24,7 +24,7 @@ ingredients:
   - qty: 4
     name: tall glasses
     raw: 4 tall glasses, chilled
-  - name: "optional: a small wedge of calamansi"
+  - name: optional
     raw: "Optional: a small wedge of calamansi per glass"
-  - name: "optional: a sprig of mint"
+  - name: optional
     raw: "Optional: a sprig of mint per glass"

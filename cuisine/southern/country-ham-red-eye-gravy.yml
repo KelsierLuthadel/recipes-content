@@ -16,7 +16,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: country ham ;
+    name: country ham
     raw: 4 thick slices country ham ; or substitute with prosciutto or Spanish jamón
   - qty: 2
     unit: tbsp
@@ -32,11 +32,11 @@ ingredients:
     raw: 60 ml water
   - qty: 1
     unit: tsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 teaspoon brown sugar
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - name: creamy grits
     raw: Creamy grits
@@ -51,5 +51,5 @@ ingredients:
     raw: Strawberry jam
   - name: hot sauce
     raw: Hot sauce
-  - name: black coffee
+  - name: coffee (black)
     raw: Strong black coffee for the table

@@ -23,7 +23,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 200 g dried red kidney beans
   - qty: 400
     unit: ml
@@ -47,13 +47,13 @@ ingredients:
     name: allspice berries
     raw: 6 allspice berries
   - qty: 1
-    name: scotch bonnet chilli
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet chilli
   - qty: 1.5
     unit: tsp
     name: salt
     raw: 1 ½ teaspoons salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Black pepper
   - qty: 500
     unit: g

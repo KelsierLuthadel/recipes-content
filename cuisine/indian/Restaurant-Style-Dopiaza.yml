@@ -30,10 +30,10 @@ ingredients:
     name: onion
     raw: 75 g onion, very finely chopped
   - qty: 75
-    name: to 100 g onion
+    name: onion
     raw: 75 to 100 g onion, cut into 3 cm segments with layers separated
   - qty: 40
-    name: to 50 g red pepper
+    name: pepper (red)
     raw: 40 to 50 g red pepper, cut into 1 to 2 cm chunks
   - qty: 0.5
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     name: chilli powder
     raw: 0.25 tsp chilli powder
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 0.5
     unit: tsp
@@ -86,7 +86,7 @@ ingredients:
     name: ml+ curry base gravy
     raw: 330 ml+ Curry Base Gravy, heated through
   - qty: 3
-    name: to 4 splashes worcestershire sauce
+    name: worcestershire sauce
     raw: 3 to 4 splashes Worcestershire sauce
   - qty: 1
     unit: tbsp

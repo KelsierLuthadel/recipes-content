@@ -33,10 +33,10 @@ ingredients:
     name: onion
     raw: 1 onion
   - qty: 1
-    name: green bell pepper
+    name: bell pepper (green)
     raw: 1 green bell pepper
   - qty: 1
-    name: red bell pepper
+    name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 4
     name: garlic
@@ -57,7 +57,7 @@ ingredients:
     name: water
     raw: 500 ml water
   - qty: 1
-    name: green plantain
+    name: plantain (green)
     raw: 1 green plantain
   - qty: 400
     unit: g
@@ -68,7 +68,7 @@ ingredients:
     raw: 2 carrots
   - qty: 0.25
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ¼ teaspoon ground black pepper
   - qty: 1
     unit: tsp

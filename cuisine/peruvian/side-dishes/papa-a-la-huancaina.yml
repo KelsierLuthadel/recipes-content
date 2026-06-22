@@ -24,7 +24,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: yellow waxy potatoes
+    name: waxy potatoes (yellow)
     raw: 800 g yellow waxy potatoes , peeled and halved
   - qty: 1
     unit: tsp
@@ -70,7 +70,7 @@ ingredients:
     name: botija olives
     raw: 8-12 Botija olives
   - qty: 7
-    name: "lettuce leaves : the bed"
+    name: lettuce leaves
     raw: "6-8 lettuce leaves : the bed for the potatoes"
   - name: flat leaf parsley
     raw: A few sprigs fresh flat-leaf parsley

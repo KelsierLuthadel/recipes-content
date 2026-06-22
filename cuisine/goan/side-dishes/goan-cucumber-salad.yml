@@ -33,7 +33,7 @@ ingredients:
     name: coconut
     raw: 60 g fresh grated coconut
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     unit: small handful
@@ -56,10 +56,10 @@ ingredients:
     raw: 1 tablespoon coconut oil
   - qty: 1
     unit: tsp
-    name: black mustard seeds
+    name: mustard seeds (black)
     raw: 1 teaspoon black mustard seeds
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 10
     name: curry leaves

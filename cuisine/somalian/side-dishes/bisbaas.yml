@@ -27,7 +27,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 7
-    name: green chillies
+    name: chillies (green)
     raw: 6-8 fresh green chillies
   - qty: 4
     name: garlic
@@ -47,7 +47,7 @@ ingredients:
     raw: 3 tablespoons fresh lime juice
   - qty: 1
     unit: tbsp
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 4
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 0.5
     unit: tsp

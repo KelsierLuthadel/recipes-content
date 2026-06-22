@@ -39,7 +39,7 @@ ingredients:
     raw: 0.5 tsp salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 0.5 tsp black pepper
   - qty: 1
     name: onion
@@ -59,7 +59,7 @@ ingredients:
     name: chadon beni
     raw: 2 tbsp chadon beni or coriander, finely chopped
   - qty: 1
-    name: scotch bonnet
+    name: scotch bonnet chillies
     raw: 1 scotch bonnet, deseeded and finely chopped
   - qty: 1
     name: tomato

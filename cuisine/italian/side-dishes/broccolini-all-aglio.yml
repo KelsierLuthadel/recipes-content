@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 600
     unit: g
-    name: broccolini ; trimmed
+    name: broccolini
     raw: 600 g broccolini ; trimmed
   - qty: 2
     unit: tbsp
@@ -32,7 +32,7 @@ ingredients:
     raw: 8 garlic cloves
   - qty: 1
     unit: tsp
-    name: red pepper flakes
+    name: pepper flakes (red)
     raw: 1 teaspoon red pepper flakes
   - qty: 1
     unit: tsp
@@ -40,7 +40,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - name: lemon
     raw: Zest of 1 lemon

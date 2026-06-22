@@ -34,10 +34,10 @@ ingredients:
     raw: 1 generous tbsp coriander seeds
   - qty: 1.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 1 ½ tsp white pepper
   - qty: 12
-    name: red bird’s eye chillies
+    name: bird’s eye chillies (red)
     raw: 12 dried red bird’s eye chillies, soaked in water for 30 minutes and cut into small pieces
   - qty: 12
     name: garlic
@@ -49,7 +49,7 @@ ingredients:
     name: galangal
     raw: 1 thumb-sized piece galangal, thinly sliced
   - qty: 2
-    name: red chillies
+    name: chillies (red)
     raw: 2 fresh red chillies, thinly sliced
   - qty: 1
     name: lemongrass stalk

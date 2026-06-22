@@ -30,7 +30,7 @@ ingredients:
     name: apricots
     raw: 24-30 large dried apricots
   - qty: 2
-    name: red onions
+    name: onions (red)
     raw: 2 large red onions
   - qty: 2
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     raw: 200 g smooth apricot jam
   - qty: 100
     unit: ml
-    name: white wine vinegar
+    name: wine vinegar (white)
     raw: 100 ml white wine vinegar
   - qty: 100
     unit: ml
@@ -82,11 +82,11 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 1 tablespoon brown sugar
   - name: vegetable oil
     raw: Vegetable oil
@@ -94,5 +94,5 @@ ingredients:
     raw: Plain boiled rice or yellow rice
   - name: simple green salad
     raw: A simple green salad
-  - name: "sambals: chopped tomato and onion relish"
+  - name: sambals
     raw: "Sambals: chopped tomato-and-onion relish"

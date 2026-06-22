@@ -47,7 +47,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 500
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     name: mint
     raw: 1 teaspoon dried mint
   - qty: 4
-    name: white rice
+    name: rice (white)
     raw: 4 servings cooked white rice
   - name: lemon wedges
     raw: Lemon wedges

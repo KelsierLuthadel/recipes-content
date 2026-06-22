@@ -41,14 +41,14 @@ ingredients:
     raw: 425 grams tinned tomatoes
   - qty: 125
     unit: ml
-    name: white wine
+    name: wine (white)
     raw: 125 ml white wine
   - qty: 1
     unit: tsp
     name: sugar
     raw: 1 teaspoon sugar
   - qty: 20
-    name: black mussels
+    name: mussels (black)
     raw: 20 black mussels
   - qty: 200
     unit: g
@@ -68,7 +68,7 @@ ingredients:
     raw: 200 grams raw prawns
   - qty: 60
     unit: ml
-    name: white wine
+    name: wine (white)
     raw: 60 ml white wine
   - qty: 60
     unit: ml

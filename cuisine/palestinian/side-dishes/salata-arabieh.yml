@@ -25,13 +25,13 @@ ingredients:
     name: tomatoes
     raw: 4 ripe medium tomatoes
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 0.5
-    name: red onion
+    name: onion (red)
     raw: ½ small red onion
   - qty: 1
-    name: green chilli
+    name: chilli (green)
     raw: 1 green chilli
   - qty: 1
     name: flat leaf parsley
@@ -61,7 +61,7 @@ ingredients:
     raw: 1 teaspoon salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: tsp

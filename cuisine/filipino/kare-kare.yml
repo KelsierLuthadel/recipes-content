@@ -43,7 +43,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 2
     unit: l
@@ -79,7 +79,7 @@ ingredients:
     raw: 600 ml of the oxtail cooking liquid
   - qty: 200
     unit: g
-    name: green beans
+    name: beans (green)
     raw: 200 g green beans
   - qty: 1
     name: aubergine
@@ -90,7 +90,7 @@ ingredients:
   - qty: 4
     name: spring onions
     raw: 4 spring onions
-  - name: white rice
+  - name: rice (white)
     raw: Cooked white rice
   - name: bagoong
     raw: Bagoong

@@ -33,7 +33,7 @@ ingredients:
     name: ginger
     raw: 1 cm piece root ginger
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 red chilli
   - qty: 0.25
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     raw: ½ lime
   - qty: 225
     unit: g
-    name: white long grain rice
+    name: long grain rice (white)
     raw: 225 grams cooked white long grain rice
   - qty: 115
     unit: g

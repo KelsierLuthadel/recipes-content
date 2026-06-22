@@ -31,7 +31,7 @@ ingredients:
     raw: 1 tsp Louisiana hot sauce
   - qty: 150
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 150 g fine yellow cornmeal
   - qty: 100
     unit: g
@@ -59,7 +59,7 @@ ingredients:
     raw: ½ tsp cayenne
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp ground black pepper
   - qty: 0.5
     unit: tsp

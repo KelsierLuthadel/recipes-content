@@ -18,7 +18,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: white hominy corn
+    name: hominy corn (white)
     raw: 250 g dried white hominy corn
   - qty: 1
     unit: kg
@@ -42,9 +42,9 @@ ingredients:
     name: salt
     raw: 2 teaspoons salt
   - qty: 1
-    name: red kidney beans
+    name: kidney beans (red)
     raw: 1 tin red kidney beans
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper

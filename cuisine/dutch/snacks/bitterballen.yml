@@ -55,7 +55,7 @@ ingredients:
     name: thyme
     raw: 1 teaspoon dried thyme
   - qty: 4
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 4 black peppercorns
   - qty: 1
     unit: tsp
@@ -115,7 +115,7 @@ ingredients:
     unit: l
     name: sunflower
     raw: 2 litres sunflower or groundnut oil
-  - name: "grainy dutch mustard : a small ramekin"
+  - name: grainy dutch mustard
     raw: "Grainy Dutch mustard : a small ramekin per person"
   - name: glass of cold heineken
     raw: A glass of cold Heineken or Amstel pilsner OR a small glass of jenever

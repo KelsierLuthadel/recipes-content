@@ -20,7 +20,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 4
-    name: "white bread : pain de mie"
+    name: bread (white)
     raw: "4 thick slices of good white bread : pain de mie, brioche tranche, or a sturdy white bloomer"
   - qty: 60
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     unit: pinch
     name: nutmeg
     raw: A pinch of grated nutmeg
-  - name: black pepper
+  - name: pepper (black)
     raw: A small grating of black pepper
   - qty: 30
     unit: g
@@ -80,7 +80,7 @@ ingredients:
     unit: g
     name: emmental
     raw: 40 g Emmental, finely grated
-  - name: green salad with a lemon dijon vinaigrette
+  - name: salad with a lemon dijon vinaigrette (green)
     raw: A small green salad with a lemon-Dijon vinaigrette
   - qty: 1
     unit: handful

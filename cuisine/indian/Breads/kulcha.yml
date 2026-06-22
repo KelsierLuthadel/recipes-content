@@ -60,9 +60,9 @@ ingredients:
     unit: pinch
     name: coriander
     raw: A pinch of fresh coriander
-  - name: "paneer: 200 g paneer"
+  - name: paneer
     raw: "Paneer: 200 g paneer , 1 green chilli , small handful coriander, ½ tsp ground cumin, ½ tsp salt"
-  - name: "spiced potato: 2 medium potatoes"
+  - name: spiced potato
     raw: "Spiced potato: 2 medium potatoes , ½ tsp ground cumin, ½ tsp garam masala, 1 small chopped green chilli, salt to taste"
-  - name: "onion: 1 small onion"
+  - name: onion
     raw: "Onion: 1 small onion , 1 tsp nigella seeds, ½ tsp dried mint, ½ tsp salt, pinch of chilli powder"

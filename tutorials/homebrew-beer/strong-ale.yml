@@ -31,7 +31,7 @@ ingredients:
     name: east kent goldings hop pellets
     raw: 30 g East Kent Goldings hop pellets, for 15-minute and 5-minute additions, £3-£4
   - qty: 1
-    name: "fermentis safale s 04 : £3"
+    name: fermentis safale s 04
     raw: "1 sachet Fermentis Safale S-04 : £3"
   - qty: 25
     unit: l
@@ -39,5 +39,5 @@ ingredients:
     raw: 25 litres cold water
   - qty: 5
     unit: g
-    name: "priming sugar per litre of finished beer : for natural carbonation in the bottle"
+    name: priming sugar per litre of finished beer
     raw: "5 g priming sugar per litre of finished beer : for natural carbonation in the bottle, £2 per kilo"

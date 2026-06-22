@@ -39,7 +39,7 @@ ingredients:
     name: mint leaves
     raw: 30 g fresh mint leaves
   - qty: 5
-    name: green chillies
+    name: chillies (green)
     raw: 4-6 green chillies
   - qty: 8
     name: garlic
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 tablespoon cumin seeds
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 4
     name: cloves

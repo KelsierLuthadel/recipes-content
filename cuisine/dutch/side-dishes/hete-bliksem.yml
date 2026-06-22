@@ -24,7 +24,7 @@ ingredients:
     raw: 700 g floury potatoes , peeled and cut into 4 cm chunks
   - qty: 400
     unit: g
-    name: "apples: 200 g cooking apples + 200 g eating apples"
+    name: apples
     raw: "400 g apples: 200 g cooking apples + 200 g eating apples , peeled, cored and roughly chopped"
   - qty: 60
     unit: g

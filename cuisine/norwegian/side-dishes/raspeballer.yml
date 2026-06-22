@@ -34,7 +34,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: tsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tsp whole black peppercorns
   - qty: 2
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     raw: 2 tsp fine sea salt
   - qty: 0.5
     unit: tsp
-    name: white pepper
+    name: pepper (white)
     raw: 0.5 tsp ground white pepper
   - qty: 250
     unit: g

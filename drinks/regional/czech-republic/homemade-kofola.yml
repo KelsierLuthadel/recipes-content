@@ -84,5 +84,5 @@ ingredients:
     raw: Ice cubes
   - name: lemon
     raw: A lemon or orange slice
-  - name: "optional: a sprig of mint"
+  - name: optional
     raw: "Optional: a sprig of mint"

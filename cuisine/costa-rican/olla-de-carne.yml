@@ -31,10 +31,10 @@ ingredients:
     name: water
     raw: 2.5 litres cold water
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 large white onion, halved
   - qty: 1
-    name: red sweet pepper
+    name: sweet pepper (red)
     raw: 1 red sweet pepper, halved and seeded
   - qty: 4
     name: garlic
@@ -69,7 +69,7 @@ ingredients:
     name: chayote
     raw: 2 chayote, halved and seeded
   - qty: 1
-    name: green plantain
+    name: plantain (green)
     raw: 1 large green plantain, peeled and cut into thick rings
   - qty: 2
     name: corn on the cob
@@ -79,5 +79,5 @@ ingredients:
     raw: 2 carrots, cut into thick rings
   - name: coriander leaves and lime wedges
     raw: Fresh coriander leaves and lime wedges, to serve
-  - name: white rice
+  - name: rice (white)
     raw: White rice, to serve

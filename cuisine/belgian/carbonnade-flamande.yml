@@ -34,14 +34,14 @@ ingredients:
     raw: 2 teaspoons salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon black pepper
   - qty: 4
     unit: tbsp
     name: beef tallow
     raw: 4 tablespoons beef tallow OR unsalted butter
   - qty: 4
-    name: yellow onions
+    name: onions (yellow)
     raw: 4 large yellow onions, halved and sliced thin
   - qty: 4
     unit: clove
@@ -61,7 +61,7 @@ ingredients:
     raw: 2 tablespoons soft dark brown sugar OR 1 tablespoon brown sugar + 1 tablespoon Belgian dark candi sugar
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tablespoons red wine vinegar OR cider vinegar
   - qty: 2
     name: bay leaves

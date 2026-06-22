@@ -47,14 +47,14 @@ ingredients:
     name: arbol chiles
     raw: 4 dried arbol chiles, deseeded
   - qty: 1
-    name: white onion
+    name: onion (white)
     raw: 1 white onion , halved
   - qty: 1
     name: mexican cinnamon stick
     raw: 1 Mexican cinnamon stick
   - qty: 6
     unit: g
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 g black peppercorns
   - qty: 6
     name: garlic
@@ -75,7 +75,7 @@ ingredients:
     raw: 30-45 ml olive oil
   - qty: 30
     unit: ml
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 30 ml red wine vinegar
   - qty: 6
     unit: g
@@ -106,7 +106,7 @@ ingredients:
     raw: 4 bay leaves
   - name: coriander
     raw: Fresh coriander, chopped
-  - name: white onion
+  - name: onion (white)
     raw: White onion, finely diced
   - name: lime wedges
     raw: Lime wedges

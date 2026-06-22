@@ -33,7 +33,7 @@ ingredients:
     raw: 300 g basmati rice
   - qty: 200
     unit: g
-    name: red lentils
+    name: lentils (red)
     raw: 200 g red lentils
   - qty: 100
     unit: g
@@ -60,7 +60,7 @@ ingredients:
     name: cinnamon stick
     raw: 1 cinnamon stick
   - qty: 6
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 6 green cardamom pods, lightly crushed
   - qty: 4
     name: cloves
@@ -89,7 +89,7 @@ ingredients:
     name: salt
     raw: 2 tsp salt, plus more to taste
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 green chillies, slit
   - qty: 1.2
     unit: l

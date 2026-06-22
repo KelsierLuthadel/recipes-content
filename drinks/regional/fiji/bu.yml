@@ -16,9 +16,9 @@ ingredients:
   - qty: 1
     name: coconut
     raw: 1 young coconut, fresh
-  - name: "optional: 1 2 ice cubes"
+  - name: optional
     raw: "Optional: 1-2 ice cubes"
-  - name: "optional: a squeeze of fresh lime"
+  - name: optional
     raw: "Optional: a squeeze of fresh lime"
-  - name: "optional: a paper straw"
+  - name: optional
     raw: "Optional: a paper straw"

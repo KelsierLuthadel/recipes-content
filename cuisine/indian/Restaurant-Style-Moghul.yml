@@ -43,11 +43,11 @@ ingredients:
     name: cloves
     raw: 2 cloves
   - qty: 2
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 2 green cardamom pods, split
   - qty: 70
     unit: g
-    name: red pepper
+    name: pepper (red)
     raw: 70 g red pepper, finely diced
   - qty: 1.5
     unit: tsp
@@ -70,17 +70,17 @@ ingredients:
     name: turmeric
     raw: 0.25 tsp turmeric
   - qty: 0.25
-    name: to 0.5 tsp chilli powder
+    name: chilli powder
     raw: 0.25 to 0.5 tsp chilli powder
   - qty: 0.25
-    name: to 0.5 tsp salt
+    name: salt
     raw: 0.25 to 0.5 tsp salt
   - qty: 3
     unit: tbsp
     name: almonds
     raw: 3 tbsp ground almonds
   - qty: 2
-    name: to 3 tsp white sugar
+    name: sugar (white)
     raw: 2 to 3 tsp white sugar
   - qty: 300
     name: ml+ curry base gravy
@@ -96,13 +96,13 @@ ingredients:
     name: lemon
     raw: 1 tsp lemon or lime juice
   - qty: 10
-    name: to 15 sultanas
+    name: sultanas
     raw: 10 to 15 sultanas
   - qty: 100
-    name: to 125 ml single cream
+    name: single cream
     raw: 100 to 125 ml single cream, plus extra for garnish
   - qty: 1
-    name: to 2 tsp ghee
+    name: ghee
     raw: 1 to 2 tsp ghee
   - qty: 1
     unit: small pinch

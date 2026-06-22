@@ -17,7 +17,7 @@ mentions:
 ingredients:
   - qty: 200
     unit: g
-    name: yellow cornmeal
+    name: cornmeal (yellow)
     raw: 200 g fine yellow cornmeal
   - qty: 100
     unit: g
@@ -45,7 +45,7 @@ ingredients:
     raw: ½ teaspoon cayenne pepper
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
     name: onion

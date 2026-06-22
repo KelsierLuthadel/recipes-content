@@ -52,7 +52,7 @@ ingredients:
     name: shallots
     raw: 2 shallots, halved
   - qty: 3
-    name: sakhan wood ;
+    name: sakhan wood
     raw: 3 pieces sakhan wood ; OR 1 tsp crushed Sichuan peppercorn + 1 tsp black peppercorn
   - qty: 2
     unit: tbsp
@@ -68,14 +68,14 @@ ingredients:
     raw: 200 g small Thai pea aubergines
   - qty: 200
     unit: g
-    name: long beans
+    name: beans
     raw: 200 g long beans, cut into 4 cm pieces
   - qty: 200
     unit: g
     name: oyster mushrooms
     raw: 200 g oyster mushrooms, torn into strips
   - qty: 4
-    name: green chillies
+    name: chillies (green)
     raw: 4 fresh green chillies, sliced
   - qty: 200
     unit: g
@@ -98,12 +98,12 @@ ingredients:
     name: lime juice
     raw: 1 tablespoon fresh lime juice
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 small dried red chilli, crumbled
   - qty: 1
     name: basket warm sticky rice
     raw: 1 large basket warm sticky rice
   - name: jeow bong
     raw: A small dish of jeow bong
-  - name: "vegetables for nibbling: cucumber"
+  - name: vegetables for nibbling
     raw: "Raw vegetables for nibbling: cucumber, cabbage, mint sprigs"

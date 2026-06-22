@@ -46,7 +46,7 @@ ingredients:
     unit: pinch
     name: salt
     raw: Pinch of fine salt
-  - name: "optional: 100 ml guinness"
+  - name: optional
     raw: "Optional: 100 ml Guinness or other stout"
   - name: plenty of ice cubes
     raw: Plenty of ice cubes

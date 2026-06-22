@@ -31,7 +31,7 @@ ingredients:
     raw: 4 bay leaves
   - qty: 1
     unit: tbsp
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 1 tablespoon black peppercorns
   - qty: 6
     name: garlic
@@ -77,7 +77,7 @@ ingredients:
     raw: 2 teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon coarsely ground black pepper
   - qty: 500
     unit: g
@@ -87,7 +87,7 @@ ingredients:
     unit: g
     name: roasted potatoes
     raw: 800 g roasted potatoes
-  - name: green salad
+  - name: salad (green)
     raw: A green salad
   - name: maltese
     raw: A bottle of Maltese or Sicilian red wine

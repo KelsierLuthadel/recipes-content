@@ -16,7 +16,7 @@ mentions:
 ingredients:
   - qty: 250
     unit: g
-    name: brown lentils
+    name: lentils (brown)
     raw: 250 g brown lentils
   - qty: 1
     unit: l
@@ -43,7 +43,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1.5
     unit: tsp
@@ -58,7 +58,7 @@ ingredients:
     name: greek yogurt
     raw: 200 g Greek yogurt
   - qty: 1
-    name: cucumber
+    name: cucumbers
     raw: 1 cucumber
   - qty: 1
     unit: tbsp

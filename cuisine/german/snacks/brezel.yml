@@ -66,5 +66,5 @@ ingredients:
     raw: Butter
   - name: stein of bavarian lager
     raw: A stein of Bavarian lager
-  - name: "optional: a slice of leberkase for stuffing"
+  - name: optional
     raw: "Optional: a slice of Leberkäse for stuffing, see Leberkäse recipe"

@@ -36,7 +36,7 @@ ingredients:
     raw: 1 tsp salt
   - qty: 0.5
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: ½ tsp black pepper
   - qty: 1
     unit: tbsp
@@ -64,7 +64,7 @@ ingredients:
     name: tomato
     raw: 1 tomato , sliced
   - qty: 1
-    name: brown onion
+    name: onion (brown)
     raw: 1 brown onion , sliced into rings
   - qty: 4
     name: soft sesame burger buns

@@ -47,7 +47,7 @@ ingredients:
     name: thyme
     raw: 2-3 sprigs fresh thyme
   - qty: 2
-    name: green chillies
+    name: chillies (green)
     raw: 2 green chillies
   - qty: 6
     name: tomatoes
@@ -64,7 +64,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: ¾ tsp salt
-  - name: black pepper
+  - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 150
     unit: ml

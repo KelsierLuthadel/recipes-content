@@ -26,7 +26,7 @@ mentions:
   - base-ingredients/herbs/bouquet-garni
 ingredients:
   - qty: 1
-    name: red wine
+    name: wine (red)
     raw: 1 bottle of red wine
   - qty: 750
     unit: ml

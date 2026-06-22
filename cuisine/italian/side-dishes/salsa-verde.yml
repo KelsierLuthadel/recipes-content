@@ -37,7 +37,7 @@ ingredients:
     raw: 1 tbsp Dijon mustard
   - qty: 2
     unit: tbsp
-    name: red wine vinegar
+    name: wine vinegar (red)
     raw: 2 tbsp red wine vinegar
   - qty: 150
     unit: ml
@@ -49,5 +49,5 @@ ingredients:
     raw: Pinch of fine salt
   - qty: 1
     unit: pinch
-    name: black pepper
+    name: pepper (black)
     raw: Pinch of black pepper

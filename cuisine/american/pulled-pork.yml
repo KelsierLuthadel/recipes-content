@@ -43,7 +43,7 @@ ingredients:
     raw: 1 tbsp flaky salt
   - qty: 1
     unit: tbsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tbsp ground black pepper
   - qty: 1
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 tsp cayenne
   - qty: 2
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 2 tbsp yellow mustard
   - qty: 250
     unit: ml
@@ -87,14 +87,14 @@ ingredients:
     raw: 1 tsp salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 tsp black pepper
   - qty: 0.5
     unit: tsp
     name: cayenne
     raw: ½ tsp cayenne
   - qty: 0.25
-    name: green cabbage
+    name: cabbage (green)
     raw: ¼ green cabbage, finely shredded
   - qty: 1
     name: carrot

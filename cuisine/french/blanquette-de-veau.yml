@@ -29,7 +29,7 @@ ingredients:
     raw: 1 kg veal shoulder
   - qty: 1.5
     unit: l
-    name: white veal
+    name: veal (white)
     raw: 1 ½ litres white veal
   - qty: 1
     name: onion
@@ -45,7 +45,7 @@ ingredients:
     raw: 1 Bouquet Garni
   - qty: 0.5
     unit: tsp
-    name: white peppercorns
+    name: peppercorns (white)
     raw: ½ teaspoon white peppercorns
   - name: salt
     raw: Salt

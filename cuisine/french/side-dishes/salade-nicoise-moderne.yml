@@ -31,7 +31,7 @@ ingredients:
     name: new potatoes
     raw: 8 new potatoes
   - qty: 1
-    name: head soft lettuce
+    name: soft lettuce
     raw: 1 head soft lettuce
   - qty: 2
     name: tomatoes
@@ -50,7 +50,7 @@ ingredients:
     name: french bread
     raw: 12 very thin slices French bread
   - qty: 8
-    name: black olives
+    name: olives (black)
     raw: 8 black olives
   - qty: 1
     unit: tsp

@@ -64,7 +64,7 @@ ingredients:
     name: limes
     raw: 3 dried limes , pierced with a knife
   - qty: 4
-    name: green cardamom pods
+    name: cardamom pods (green)
     raw: 4 green cardamom pods
   - qty: 1
     name: cinnamon stick
@@ -73,7 +73,7 @@ ingredients:
     name: cloves
     raw: 4 cloves
   - qty: 1
-    name: red chilli
+    name: chilli (red)
     raw: 1 dried red chilli
   - qty: 1.2
     unit: l

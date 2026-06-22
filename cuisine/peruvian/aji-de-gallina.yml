@@ -48,7 +48,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 6
-    name: black peppercorns
+    name: peppercorns (black)
     raw: 6 black peppercorns
   - qty: 1
     unit: tsp
@@ -110,7 +110,7 @@ ingredients:
     name: botija olives
     raw: 8 Botija olives
   - qty: 4
-    name: yellow potatoes
+    name: potatoes (yellow)
     raw: 4 medium yellow potatoes , boiled till tender and sliced 1 cm thick
   - name: flat leaf parsley
     raw: Fresh flat-leaf parsley, leaves picked

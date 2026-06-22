@@ -42,7 +42,7 @@ ingredients:
     raw: 4 tablespoons soy sauce
   - qty: 2
     unit: tbsp
-    name: brown sugar
+    name: sugar (brown)
     raw: 2 tablespoons brown sugar
   - qty: 1
     name: korean pear
@@ -62,7 +62,7 @@ ingredients:
     raw: 4 spring onions
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp
@@ -113,7 +113,7 @@ ingredients:
     name: eggs
     raw: 4 large eggs
   - qty: 1
-    name: head butter lettuce
+    name: butter lettuce
     raw: 1 small head butter lettuce
   - qty: 4
     name: soft potato buns

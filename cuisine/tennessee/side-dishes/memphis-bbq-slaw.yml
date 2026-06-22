@@ -18,16 +18,16 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: head green cabbage
+    name: cabbage (green)
     raw: 1 large head green cabbage
   - qty: 0.5
-    name: head red cabbage
+    name: cabbage (red)
     raw: ½ small head red cabbage
   - qty: 2
     name: carrots
     raw: 2 large carrots
   - qty: 1
-    name: red onion
+    name: onion (red)
     raw: 1 small red onion
   - qty: 200
     unit: ml
@@ -43,7 +43,7 @@ ingredients:
     raw: 4 tablespoons ketchup
   - qty: 4
     unit: tbsp
-    name: yellow mustard
+    name: mustard (yellow)
     raw: 4 tablespoons yellow mustard
   - qty: 2
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

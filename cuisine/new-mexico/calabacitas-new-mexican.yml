@@ -23,7 +23,7 @@ ingredients:
     name: zucchini
     raw: 2 large zucchini
   - qty: 2
-    name: yellow summer squash
+    name: summer squash (yellow)
     raw: 2 large yellow summer squash
   - qty: 300
     unit: g
@@ -56,7 +56,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     unit: tsp

@@ -30,7 +30,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 3
     unit: tbsp
@@ -110,7 +110,7 @@ ingredients:
     raw: 1 ½ teaspoons fine sea salt
   - qty: 1
     unit: tsp
-    name: black pepper
+    name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
     name: coriander
@@ -120,11 +120,11 @@ ingredients:
     raw: 1 fresh jalapeño
   - name: lime wedges
     raw: Lime wedges
-  - name: "optional: small splash of vinegar"
+  - name: optional
     raw: "Optional: small splash of vinegar"
   - name: cornbread
     raw: Cornbread
-  - name: white onion
+  - name: onion (white)
     raw: Sliced raw white onion
   - name: pickled jalapenos
     raw: Pickled jalapeños

@@ -27,11 +27,11 @@ mentions:
 ingredients:
   - qty: 1.5
     unit: kg
-    name: "asado de tira : the traditional first beef cut"
+    name: asado de tira
     raw: "1.5 kg asado de tira : the traditional first beef cut"
   - qty: 1
     unit: kg
-    name: "vacio : the asador's favourite"
+    name: vacio
     raw: "1 kg vacío : the asador's favourite"
   - qty: 800
     unit: g

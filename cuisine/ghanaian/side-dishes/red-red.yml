@@ -22,11 +22,11 @@ mentions:
 ingredients:
   - qty: 300
     unit: g
-    name: black eyed peas
+    name: eyed peas (black)
     raw: 300 g black-eyed peas, soaked overnight
   - qty: 60
     unit: ml
-    name: red palm oil
+    name: palm oil (red)
     raw: 60 ml red palm oil
   - qty: 1
     name: onion
@@ -39,7 +39,7 @@ ingredients:
     name: tomato paste
     raw: 2 tbsp tomato paste
   - qty: 2
-    name: scotch bonnets
+    name: scotch bonnet chillies
     raw: 2 scotch bonnets, chopped
   - qty: 3
     name: garlic
