@@ -19,7 +19,7 @@ ingredients:
     name: soft cheese
     raw: 250 g fresh soft cheese
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 20
     unit: g
@@ -49,7 +49,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 600
     unit: ml

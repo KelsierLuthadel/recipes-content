@@ -48,7 +48,7 @@ ingredients:
     name: eggs
     raw: 2 eggs
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 100
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     raw: 2 tablespoons ground cinnamon
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 200
     unit: g

@@ -43,7 +43,7 @@ ingredients:
     name: cold unsalted butter
     raw: 200 g cold unsalted butter, cubed
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg, lightly beaten
   - qty: 4
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     name: beef
     raw: 500 g good minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, very finely chopped
   - qty: 4
     unit: clove
@@ -110,9 +110,9 @@ ingredients:
     raw: 1 egg yolk + 1 tablespoon milk
   - name: dusting of caster sugar
     raw: A small dusting of caster sugar OR icing sugar on the cooked empanada
-  - name: lime
+  - name: limes
     raw: A wedge of lime per empanada
-  - name: aji huacatay sauce for dipping
+  - name: aji huacatay sauce
     raw: A small dish of aji huacatay sauce for dipping
   - name: bowl of salsa criolla
     raw: A small bowl of salsa criolla

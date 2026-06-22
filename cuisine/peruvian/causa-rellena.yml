@@ -105,7 +105,7 @@ ingredients:
     name: mayonnaise
     raw: 6 tablespoons mayonnaise
   - qty: 1
-    name: avocado
+    name: avocados
     raw: 1 small ripe avocado, mashed
   - qty: 1
     unit: tbsp
@@ -124,12 +124,12 @@ ingredients:
     name: botija olives
     raw: 8-10 Botija olives
   - qty: 1
-    name: avocado
+    name: avocados
     raw: 1 ripe avocado, sliced thin
   - name: cilantro
     raw: A few sprigs of fresh cilantro OR flat-leaf parsley
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, cut into wedges
   - qty: 2
     unit: tbsp

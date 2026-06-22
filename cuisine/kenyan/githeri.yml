@@ -34,7 +34,7 @@ ingredients:
     name: kidney beans (red)
     raw: 250 g dried red kidney beans
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 3
     unit: clove
@@ -70,5 +70,5 @@ ingredients:
     name: potato
     raw: 1 medium potato, peeled and diced
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot, diced

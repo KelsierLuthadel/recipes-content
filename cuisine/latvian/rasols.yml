@@ -40,7 +40,7 @@ ingredients:
     name: onion (red)
     raw: 1 small red onion, finely chopped
   - qty: 1
-    name: tart apple
+    name: tart apples
     raw: 1 small tart apple , peeled and diced
   - qty: 150
     unit: g
@@ -69,7 +69,7 @@ ingredients:
     name: dill
     raw: 2 tablespoons finely chopped fresh dill
   - qty: 1
-    name: hard boiled egg
+    name: hard boiled eggs
     raw: 1 hard-boiled egg, sliced
   - qty: 1
     unit: tbsp

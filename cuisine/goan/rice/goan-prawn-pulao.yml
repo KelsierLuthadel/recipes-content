@@ -48,7 +48,7 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime
   - qty: 30
     unit: g
@@ -81,10 +81,10 @@ ingredients:
     name: coconut oil
     raw: 3 tablespoons coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cardamom pods (green)
@@ -104,5 +104,5 @@ ingredients:
     name: coriander
     raw: A handful of coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime

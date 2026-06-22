@@ -34,7 +34,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 1
     name: bell pepper (green)
@@ -76,7 +76,7 @@ ingredients:
     unit: tsp
     name: pepper (black)
     raw: ½ teaspoon ground black pepper
-  - name: lemon
+  - name: lemons
     raw: Lemon or lime wedges
   - name: hot sauce
     raw: Hot sauce

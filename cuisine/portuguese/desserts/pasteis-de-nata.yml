@@ -21,7 +21,7 @@ ingredients:
     unit: g
     name: unsalted butter
     raw: 30 g unsalted butter
-  - name: little flour for rolling
+  - name: little flour
     raw: A little flour for rolling
   - qty: 250
     unit: ml
@@ -40,7 +40,7 @@ ingredients:
     name: water
     raw: 100 ml water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - name: strip of lemon peel
     raw: A strip of lemon peel

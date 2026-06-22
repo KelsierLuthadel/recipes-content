@@ -54,7 +54,7 @@ ingredients:
     name: dark rum
     raw: 1 tablespoon dark rum
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -84,5 +84,5 @@ ingredients:
   - name: diri kole ak pwa
     raw: Diri kole ak pwa
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime

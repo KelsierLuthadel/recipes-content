@@ -33,7 +33,7 @@ ingredients:
     name: piloncillo
     raw: 60 g piloncillo OR 60 g dark muscovado sugar
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     name: star anise
@@ -45,7 +45,7 @@ ingredients:
   - qty: 4
     name: mugs
     raw: 4 mugs, warmed
-  - name: cinnamon for dusting
+  - name: cinnamon
     raw: Ground cinnamon for dusting
   - name: optional
     raw: "Optional: a thin Mexican wafer on the side"

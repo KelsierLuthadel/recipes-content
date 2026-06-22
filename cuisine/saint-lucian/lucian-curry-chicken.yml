@@ -57,7 +57,7 @@ ingredients:
   - qty: 1
     name: ginger
     raw: 1 thumb of ginger, grated
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 2
     unit: tbsp
@@ -68,7 +68,7 @@ ingredients:
     name: coconut oil
     raw: 2 tbsp coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     name: more cloves garlic

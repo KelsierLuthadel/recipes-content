@@ -32,7 +32,7 @@ ingredients:
     name: salt
     raw: A pinch of salt
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 60
     unit: ml
@@ -63,12 +63,12 @@ ingredients:
     raw: 2 tbsp plain flour
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: A pinch of grated nutmeg
   - name: pepper (black)
     raw: Freshly ground black pepper
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely diced and sweated in butter
   - qty: 80
     unit: g

@@ -32,7 +32,7 @@ ingredients:
     name: water
     raw: 2 litres water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -56,7 +56,7 @@ ingredients:
     name: lard
     raw: 80 g lard
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -70,7 +70,7 @@ ingredients:
     name: oregano
     raw: 1 teaspoon dried oregano
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 jalapeño
   - name: salt
     raw: salt
@@ -85,7 +85,7 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 jalapeño
   - name: warm corn
     raw: Warm corn

@@ -40,7 +40,7 @@ ingredients:
     name: cold butter
     raw: 100 g cold butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 150
     unit: ml
@@ -50,7 +50,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
-  - name: lime
+  - name: limes
     raw: Zest of 1 lime
   - qty: 600
     unit: g
@@ -70,7 +70,7 @@ ingredients:
     raw: ½ teaspoon ground cinnamon
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 1
     unit: pinch
@@ -98,5 +98,5 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: Pinch of nutmeg

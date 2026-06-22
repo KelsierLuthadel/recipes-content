@@ -45,7 +45,7 @@ ingredients:
     name: milk
     raw: 240 ml warm milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 60
     unit: g
@@ -55,7 +55,7 @@ ingredients:
     name: standard hot dogs
     raw: 8 standard hot dogs
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 3
     unit: tbsp

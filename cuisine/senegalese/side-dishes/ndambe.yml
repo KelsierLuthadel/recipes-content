@@ -50,7 +50,7 @@ ingredients:
     name: tomato puree
     raw: 2 tablespoons tomato purée
   - qty: 3
-    name: tomatoes tin chopped tomatoes)
+    name: tomatoes tin chopped tomatoes
     raw: 3 large tomatoes tin chopped tomatoes)
   - qty: 1
     name: scotch bonnet chillies
@@ -86,9 +86,9 @@ ingredients:
     name: parsley
     raw: 3 tablespoons fresh parsley
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
-  - name: baguette
+  - name: baguettes
     raw: Fresh baguette
   - name: or boiled rice
     raw: Or boiled rice or thiéré

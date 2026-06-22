@@ -49,7 +49,7 @@ ingredients:
     name: eggs
     raw: 4 eggs
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 200
     unit: g

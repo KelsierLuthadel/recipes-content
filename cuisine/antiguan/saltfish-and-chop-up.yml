@@ -24,7 +24,7 @@ ingredients:
     name: salt cod
     raw: 400 g boneless salt cod, soaked overnight
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, sliced
   - qty: 3
     name: garlic
@@ -46,14 +46,14 @@ ingredients:
   - name: pepper (black)
     raw: Black pepper
   - qty: 1
-    name: eggplant
+    name: eggplants
     raw: 1 large eggplant, cubed
   - qty: 300
     unit: g
     name: okra
     raw: 300 g okra, topped and sliced
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 30
     unit: g

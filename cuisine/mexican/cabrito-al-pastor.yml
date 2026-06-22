@@ -46,7 +46,7 @@ ingredients:
     name: garlic
     raw: 10 garlic cloves
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - name: oranges
     raw: Juice of 2 oranges
@@ -93,7 +93,7 @@ ingredients:
     name: pepper (black)
     raw: 1 tablespoon ground black pepper
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: bay leaves
@@ -116,7 +116,7 @@ ingredients:
     raw: Warm flour tortillas
   - name: pico de gallo
     raw: Pico de gallo
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: refried beans
     raw: Refried beans

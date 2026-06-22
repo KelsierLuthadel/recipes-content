@@ -44,7 +44,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -92,7 +92,7 @@ ingredients:
     name: onion (red)
     raw: 1 tablespoon sliced red onion
   - qty: 2
-    name: avocado
+    name: avocados
     raw: 2 slices avocado
   - qty: 1
     unit: tbsp
@@ -103,9 +103,9 @@ ingredients:
     name: mexican crema
     raw: 1 tablespoon Mexican crema
   - qty: 2.5
-    name: pickled jalapeno
+    name: pickled jalapenos
     raw: 2-3 slices pickled jalapeño
   - name: coriander
     raw: A few coriander leaves
-  - name: lime
+  - name: limes
     raw: A wedge of lime

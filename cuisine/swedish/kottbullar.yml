@@ -40,10 +40,10 @@ ingredients:
     name: milk
     raw: 200 ml whole milk
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 1.5
     unit: tsp
@@ -103,7 +103,7 @@ ingredients:
     raw: ¼ teaspoon ground white pepper
   - name: mashed potato
     raw: Mashed potato
-  - name: lingonberry preserve
+  - name: lingonberry preserves
     raw: Lingonberry preserve
   - name: pressgurka
     raw: Pressgurka

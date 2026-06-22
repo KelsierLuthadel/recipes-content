@@ -46,7 +46,7 @@ ingredients:
     name: cloves
     raw: ¼ teaspoon ground cloves
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     unit: pinch
@@ -68,7 +68,7 @@ ingredients:
     name: rum
     raw: 2 tablespoons rum or warm water
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 20
     unit: g

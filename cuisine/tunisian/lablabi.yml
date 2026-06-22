@@ -48,13 +48,13 @@ ingredients:
     name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 2
     name: stale baguette
     raw: 2 thick slices stale baguette , torn into bite pieces
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
     unit: pinch
     name: cumin
     raw: A pinch of ground cumin
-  - name: lemon
+  - name: lemons
     raw: A small wedge of fresh lemon
   - name: optional
     raw: "Optional: 1 teaspoon harissa-and-olive-oil paste; pickled chilli; mint leaves"

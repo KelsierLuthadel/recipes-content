@@ -35,14 +35,14 @@ ingredients:
     name: unsalted butter
     raw: 50 g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, very finely grated
   - qty: 3
     unit: clove
     name: garlic
     raw: 3 cloves garlic, minced
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp
@@ -70,7 +70,7 @@ ingredients:
     unit: g
     name: blanched whole almonds
     raw: 100 g blanched whole almonds
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 fresh lemon
   - qty: 1
     unit: tsp

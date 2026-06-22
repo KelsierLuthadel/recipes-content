@@ -46,7 +46,7 @@ ingredients:
     name: natural yogurt
     raw: 3 tablespoons natural yogurt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 150
     unit: ml
@@ -61,7 +61,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -97,7 +97,7 @@ ingredients:
   - qty: 1
     name: egg yolk + 1 tablespoon milk
     raw: 1 egg yolk + 1 tablespoon milk
-  - name: or 1 litre vegetable oil
+  - name: or 1 litre vegetable oil for deep frying
     raw: OR 1 litre vegetable oil for deep frying
   - qty: 1
     unit: tbsp

@@ -46,13 +46,13 @@ ingredients:
     name: pork
     raw: 250 g minced pork
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tsp
@@ -78,7 +78,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tablespoons sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: carrots

@@ -33,7 +33,7 @@ ingredients:
     raw: 125 grams very ripe tomatoes
   - qty: 60
     unit: g
-    name: onion
+    name: onions
     raw: 60 grams onion
   - qty: 1
     unit: clove
@@ -44,10 +44,10 @@ ingredients:
     name: ginger
     raw: 10 grams ginger
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 0.5
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     raw: ½ teaspoon ground cinnamon
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 0.5
     unit: tsp

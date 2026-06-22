@@ -32,7 +32,7 @@ ingredients:
     name: milk
     raw: 200 ml warm milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tbsp
@@ -55,5 +55,5 @@ ingredients:
     name: neutral oil
     raw: 800 ml neutral oil
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg

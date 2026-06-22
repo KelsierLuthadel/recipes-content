@@ -27,7 +27,7 @@ ingredients:
     name: vegetable oil
     raw: 1 tbsp vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 2
     name: garlic
@@ -75,5 +75,5 @@ ingredients:
     unit: tbsp
     name: flour mixed with 2 tbsp water to a paste
     raw: 2 tbsp flour mixed with 2 tbsp water to a paste
-  - name: vegetable oil
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep frying

@@ -25,7 +25,7 @@ ingredients:
     name: octopus
     raw: 1 octopus
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: bay leaves
@@ -77,7 +77,7 @@ ingredients:
     name: flat leaf parsley
     raw: 3 tablespoons fresh flat-leaf parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 2
     unit: tbsp

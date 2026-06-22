@@ -31,7 +31,7 @@ ingredients:
     name: semi hard cheese
     raw: 100 g semi-hard cheese, finely grated
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 100
     unit: ml
@@ -54,7 +54,7 @@ ingredients:
     name: salt
     raw: 1 ½ teaspoons salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten with 1 teaspoon water
   - qty: 50
     unit: g

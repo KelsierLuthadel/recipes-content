@@ -38,7 +38,7 @@ ingredients:
     unit: ml
     name: sunflower oil
     raw: 50 ml sunflower oil
-  - name: oil for stretching
+  - name: oil
     raw: Extra oil for stretching
   - qty: 500
     unit: g
@@ -55,7 +55,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 tsp vanilla extract
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 60
     unit: g

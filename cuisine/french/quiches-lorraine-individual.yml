@@ -28,7 +28,7 @@ ingredients:
     name: gruyere cheese
     raw: 140 g Gruyère cheese
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 3
     name: egg yolks
@@ -39,7 +39,7 @@ ingredients:
     raw: 300 ml double cream
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: Pinch freshly grated nutmeg
   - name: salt
     raw: salt

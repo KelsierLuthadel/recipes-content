@@ -34,7 +34,7 @@ ingredients:
     name: coconut oil
     raw: 3 tablespoons coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -61,7 +61,7 @@ ingredients:
     name: pandan leaf
     raw: 1 pandan leaf
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     unit: tbsp

@@ -38,7 +38,7 @@ ingredients:
     raw: 2 teaspoons ground cinnamon
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon ground nutmeg
   - qty: 1
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     name: unsalted butter
     raw: 60 g unsalted butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 150
     unit: g

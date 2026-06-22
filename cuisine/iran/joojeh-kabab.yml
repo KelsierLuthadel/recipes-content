@@ -20,7 +20,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: chicken thigh
+    name: chicken thighs
     raw: 1 kg boneless chicken thigh
   - qty: 1
     unit: large pinch
@@ -31,14 +31,14 @@ ingredients:
     name: water
     raw: 2 tablespoons hot water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 250
     unit: ml
     name: plain yogurt
     raw: 250 ml plain yogurt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 3
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     name: cherry tomatoes
     raw: 8 cherry tomatoes
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 50
     unit: g

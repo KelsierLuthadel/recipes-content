@@ -45,7 +45,7 @@ ingredients:
     name: lard
     raw: 40 g lard or butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 80
     unit: ml
@@ -56,7 +56,7 @@ ingredients:
     name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
-    name: egg white
+    name: egg whites
     raw: 1 large egg white
   - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
@@ -76,7 +76,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 100
     unit: g
@@ -98,7 +98,7 @@ ingredients:
     unit: g
     name: mini dark chocolate chips
     raw: 100 g mini dark chocolate chips
-  - name: icing sugar for dusting
+  - name: icing sugar
     raw: Icing sugar for dusting
   - name: candied cherries
     raw: Candied cherries

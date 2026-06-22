@@ -36,7 +36,7 @@ ingredients:
     name: carrots
     raw: 2 carrots, finely diced
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, finely diced
   - qty: 2
     name: celery
@@ -76,7 +76,7 @@ ingredients:
     raw: 2 bay leaves
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: 1 pinch freshly grated nutmeg
   - qty: 500
     unit: ml
@@ -107,7 +107,7 @@ ingredients:
     name: skinned potatoes (red)
     raw: 500 grams red-skinned potatoes
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 65
     unit: g

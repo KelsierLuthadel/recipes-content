@@ -31,14 +31,14 @@ ingredients:
     name: pork mince
     raw: 400 g pork mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, very finely grated
   - qty: 2
     unit: tbsp
     name: plain flour
     raw: 2 tbsp plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 200
     unit: ml
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 tsp freshly ground black pepper
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 0.5 tsp ground nutmeg
   - qty: 0.5
     unit: tsp

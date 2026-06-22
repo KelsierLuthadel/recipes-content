@@ -49,10 +49,10 @@ ingredients:
     name: salt
     raw: ½ tsp salt
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten
   - qty: 380
     unit: g

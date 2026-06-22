@@ -30,10 +30,10 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons of olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     name: celery
@@ -79,7 +79,7 @@ ingredients:
     raw: 1 litre cold full-fat milk
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon nutmeg
   - qty: 100
     unit: g

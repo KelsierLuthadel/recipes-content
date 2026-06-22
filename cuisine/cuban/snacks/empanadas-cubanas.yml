@@ -38,7 +38,7 @@ ingredients:
     name: cold lard
     raw: 100 g cold lard , cubed
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 150
     unit: ml
@@ -49,7 +49,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: pepper (green)
@@ -103,7 +103,7 @@ ingredients:
   - name: pepper (black)
     raw: Black pepper
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: l

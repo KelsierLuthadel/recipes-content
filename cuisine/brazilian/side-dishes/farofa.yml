@@ -40,7 +40,7 @@ ingredients:
     name: smoked bacon
     raw: 60 g smoked bacon
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 4
     name: garlic
@@ -57,7 +57,7 @@ ingredients:
     name: hard boiled eggs
     raw: "2 hard-boiled eggs : adds richness"
   - qty: 1
-    name: banana
+    name: bananas
     raw: "1 ripe banana : adds sweet contrast"
   - qty: 30
     unit: g

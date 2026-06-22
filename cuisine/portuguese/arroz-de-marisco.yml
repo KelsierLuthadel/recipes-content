@@ -48,7 +48,7 @@ ingredients:
   - name: shrimp shells
     raw: Shrimp shells
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     name: garlic
@@ -118,7 +118,7 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - name: lemon wedges
     raw: Lemon wedges

@@ -45,7 +45,7 @@ ingredients:
     name: cold butter
     raw: 30 g cold butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 4
     unit: tbsp
@@ -83,9 +83,9 @@ ingredients:
     unit: g
     name: pistachios
     raw: 100 g chopped pistachios
-  - name: icing sugar for dusting
+  - name: icing sugar
     raw: Icing sugar for dusting
   - qty: 1
     unit: l
-    name: vegetable oil
+    name: vegetable oil for deep frying
     raw: 1 litre vegetable oil for deep frying

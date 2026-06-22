@@ -37,7 +37,7 @@ ingredients:
     name: sweet rice flour
     raw: 1 tablespoon sweet rice flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 120
     unit: ml
@@ -74,7 +74,7 @@ ingredients:
     name: garlic
     raw: 1 garlic clove
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - qty: 0.5
     unit: tsp

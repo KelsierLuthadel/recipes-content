@@ -56,7 +56,7 @@ ingredients:
     name: chilli (red)
     raw: 1 red chilli
   - qty: 0.5
-    name: onion
+    name: onions
     raw: ½ onion
   - qty: 1
     unit: small handful
@@ -87,7 +87,7 @@ ingredients:
     name: cornflour
     raw: 1 tablespoon cornflour
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - name: salt
     raw: salt

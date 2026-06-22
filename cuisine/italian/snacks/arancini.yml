@@ -36,7 +36,7 @@ ingredients:
     name: unsalted butter
     raw: 50 g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 100
     unit: ml
@@ -55,7 +55,7 @@ ingredients:
     name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 30
     unit: g

@@ -42,7 +42,7 @@ ingredients:
     name: caster sugar
     raw: 1 tablespoon caster sugar
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 300
     unit: g
@@ -51,7 +51,7 @@ ingredients:
   - name: rice
     raw: rice
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - qty: 2
     unit: tbsp

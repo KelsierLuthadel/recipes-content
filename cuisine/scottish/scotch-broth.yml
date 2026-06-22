@@ -50,7 +50,7 @@ ingredients:
     name: split peas (yellow)
     raw: 50 g yellow split peas
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 2
     name: carrots
@@ -61,10 +61,10 @@ ingredients:
     raw: 300 g swede
   - qty: 200
     unit: g
-    name: turnip
+    name: turnips
     raw: 200 g turnip
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 large leek
   - qty: 2
     unit: stick

@@ -60,7 +60,7 @@ ingredients:
     name: cloves
     raw: 4 cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 3
     unit: tbsp
@@ -87,10 +87,10 @@ ingredients:
     name: water
     raw: 100 ml water
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: tomato

@@ -29,7 +29,7 @@ ingredients:
     name: water
     raw: 2 litres cold water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 4
     name: garlic
@@ -46,7 +46,7 @@ ingredients:
     name: olive oil
     raw: 6 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 3
     name: carrots

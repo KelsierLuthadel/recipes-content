@@ -31,14 +31,14 @@ ingredients:
     name: banana flower
     raw: 1 banana flower
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 200
     unit: g
     name: firm tofu
     raw: 200 g firm tofu
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 50
     unit: g

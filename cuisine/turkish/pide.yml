@@ -57,7 +57,7 @@ ingredients:
     name: lamb
     raw: 350 g minced lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -112,7 +112,7 @@ ingredients:
     name: feta cheese
     raw: 200 g feta cheese
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     unit: tbsp

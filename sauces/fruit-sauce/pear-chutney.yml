@@ -31,7 +31,7 @@ ingredients:
     raw: 125 grams very ripe tomatoes
   - qty: 60
     unit: g
-    name: onion
+    name: onions
     raw: 60 grams onion
   - qty: 15
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     name: zest (orange)
     raw: 1 tablespoon orange zest
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 375
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     raw: ¼ teaspoon ground cinnamon
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 0.25
     unit: tsp

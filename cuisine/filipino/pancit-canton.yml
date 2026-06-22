@@ -38,14 +38,14 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
   - qty: 200
     unit: g
-    name: chicken thigh
+    name: chicken thighs
     raw: 200 g chicken thigh
   - qty: 200
     unit: g
@@ -55,7 +55,7 @@ ingredients:
     name: chinese sausages
     raw: 2 Chinese sausages
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     name: pepper (red)
@@ -90,5 +90,5 @@ ingredients:
     unit: tsp
     name: pepper (black)
     raw: ½ teaspoon ground black pepper
-  - name: lemon
+  - name: lemons
     raw: Lemon , to serve

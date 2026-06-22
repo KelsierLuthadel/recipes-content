@@ -38,7 +38,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: tsp
@@ -53,7 +53,7 @@ ingredients:
     name: coriander seeds
     raw: 1 teaspoon coriander seeds
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cardamom pods
@@ -92,7 +92,7 @@ ingredients:
     name: chicken thighs and drumsticks
     raw: 1 kg chicken thighs and drumsticks
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 6
     name: hard boiled eggs

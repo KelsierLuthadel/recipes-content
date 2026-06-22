@@ -28,7 +28,7 @@ ingredients:
     name: prawns
     raw: 400 g raw prawns, peeled
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced
   - qty: 1
     unit: tsp
@@ -39,7 +39,7 @@ ingredients:
     name: palm oil (red)
     raw: 60 ml red palm oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     name: garlic

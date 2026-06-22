@@ -28,7 +28,7 @@ ingredients:
     name: unsalted butter
     raw: 2 tablespoons unsalted butter
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 large shallot
   - qty: 2
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     name: thick cut bacon
     raw: 2 slices thick-cut bacon
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 40
     unit: g

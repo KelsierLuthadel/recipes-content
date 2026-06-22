@@ -40,7 +40,7 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
@@ -102,7 +102,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     name: coriander
@@ -110,7 +110,7 @@ ingredients:
   - qty: 1
     name: chilli (red)
     raw: 1 fresh red chilli
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - name: plain white rice
     raw: Plain white rice
@@ -120,7 +120,7 @@ ingredients:
     raw: Sweet plantains
   - name: fried eggs
     raw: Fried eggs
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: lime wedges
     raw: Lime wedges

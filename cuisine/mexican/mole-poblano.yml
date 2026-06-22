@@ -45,13 +45,13 @@ ingredients:
     name: vegetable oil
     raw: 100 ml vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
     raw: 6 garlic cloves
   - qty: 1
-    name: plantain
+    name: plantains
     raw: 1 ripe plantain
   - qty: 50
     unit: g
@@ -122,7 +122,7 @@ ingredients:
     name: chicken
     raw: 1 whole chicken or 8 thighs/legs
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic

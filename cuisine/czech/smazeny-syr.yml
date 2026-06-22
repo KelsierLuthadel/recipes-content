@@ -39,7 +39,7 @@ ingredients:
     raw: 1 tsp paprika
   - qty: 600
     unit: ml
-    name: vegetable
+    name: vegetables
     raw: 500-700 ml vegetable or sunflower oil
   - qty: 200
     unit: ml
@@ -58,7 +58,7 @@ ingredients:
     name: dijon mustard
     raw: 1 tbsp Dijon mustard
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 small shallot, finely diced
   - qty: 1
     unit: tbsp

@@ -27,7 +27,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 400
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     name: coriander
     raw: 20 g fresh coriander
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 0.25
     name: preserved lemon
@@ -86,7 +86,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 600
     unit: ml

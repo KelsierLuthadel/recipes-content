@@ -45,7 +45,7 @@ ingredients:
     name: block margarine
     raw: 150 g block margarine
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 110
     unit: ml
@@ -56,7 +56,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tablespoons sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -85,7 +85,7 @@ ingredients:
     name: pepper (black)
     raw: ½ teaspoon black pepper
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     name: potato
@@ -99,5 +99,5 @@ ingredients:
     name: cornflour
     raw: 1 tablespoon cornflour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg

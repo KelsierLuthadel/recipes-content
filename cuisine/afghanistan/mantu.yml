@@ -29,7 +29,7 @@ ingredients:
     name: lamb mince
     raw: 400 g lamb mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -86,7 +86,7 @@ ingredients:
     name: split peas (yellow)
     raw: 100 g yellow split peas
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     unit: tbsp

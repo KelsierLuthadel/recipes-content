@@ -42,7 +42,7 @@ ingredients:
     name: olive oil
     raw: 50 ml olive oil
   - qty: 1
-    name: turnip
+    name: turnips
     raw: 1 turnip
   - qty: 1
     name: potato
@@ -61,7 +61,7 @@ ingredients:
     name: tomatoes
     raw: 6 tomatoes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: garlic

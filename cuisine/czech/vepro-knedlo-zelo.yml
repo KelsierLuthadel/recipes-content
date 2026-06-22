@@ -47,7 +47,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tbsp vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, sliced
   - qty: 400
     unit: ml
@@ -74,7 +74,7 @@ ingredients:
     name: sauerkraut
     raw: 800 g sauerkraut
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely diced
   - qty: 50
     unit: g

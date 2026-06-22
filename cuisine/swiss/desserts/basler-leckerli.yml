@@ -39,7 +39,7 @@ ingredients:
     raw: 1 tsp ground cloves
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 tsp ground nutmeg
   - qty: 1
     unit: tsp
@@ -49,7 +49,7 @@ ingredients:
     unit: tsp
     name: pepper (white)
     raw: 1 tsp ground white pepper
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 200
     unit: g

@@ -29,7 +29,7 @@ ingredients:
     name: water
     raw: 2 ½ litres water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: coriander
@@ -87,14 +87,14 @@ ingredients:
     name: corn on the cob
     raw: 2 corn-on-the-cob
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 4
     name: rice (white)
     raw: 4 servings cooked white rice
   - name: bowl of hogao
     raw: A small bowl of hogao
-  - name: avocado
+  - name: avocados
     raw: Sliced ripe avocado
   - name: lime wedges
     raw: Lime wedges

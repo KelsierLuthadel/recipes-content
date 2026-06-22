@@ -65,7 +65,7 @@ ingredients:
     name: cucumbers
     raw: 1 medium cucumber
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 medium carrot
   - qty: 4
     unit: tbsp
@@ -104,7 +104,7 @@ ingredients:
     name: fish sauce
     raw: 1 tablespoon fish sauce
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - name: coriander
     raw: A few coriander leaves

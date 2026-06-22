@@ -37,7 +37,7 @@ ingredients:
     name: okra
     raw: 200 g fresh okra
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -46,7 +46,7 @@ ingredients:
     name: thyme
     raw: 1 large bunch fresh thyme
   - qty: 1
-    name: chive
+    name: chives
     raw: 1 small bunch fresh chive or scallion
   - qty: 1
     name: scotch bonnet chillies

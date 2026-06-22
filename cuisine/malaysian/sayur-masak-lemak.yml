@@ -35,7 +35,7 @@ ingredients:
     name: turmeric
     raw: 3 cm fresh turmeric
   - qty: 2
-    name: lemongrass
+    name: lemon grass
     raw: 2 stalks lemongrass
   - qty: 2
     name: chillies (red)
@@ -48,7 +48,7 @@ ingredients:
     name: kaffir lime leaves
     raw: 4 kaffir lime leaves
   - qty: 1
-    name: lemongrass
+    name: lemon grass
     raw: 1 stalk lemongrass
   - qty: 400
     unit: ml
@@ -67,7 +67,7 @@ ingredients:
     name: beans
     raw: 200 g long beans
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 200
     unit: g
@@ -82,5 +82,5 @@ ingredients:
     name: sugar
     raw: 2 teaspoons sugar
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime

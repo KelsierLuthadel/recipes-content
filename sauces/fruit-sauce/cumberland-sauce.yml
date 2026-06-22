@@ -14,7 +14,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot
   - qty: 4
     unit: tbsp
@@ -39,9 +39,9 @@ ingredients:
     unit: tsp
     name: worcestershire sauce
     raw: 1 teaspoon Worcestershire sauce
-  - name: orange
+  - name: oranges
     raw: one orange
-  - name: lemon
+  - name: lemons
     raw: one lemon
   - name: salt
     raw: salt

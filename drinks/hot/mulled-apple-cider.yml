@@ -19,7 +19,7 @@ ingredients:
     name: cloudy apple juice
     raw: 1.2 litres cloudy apple juice
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 6
     name: cloves
@@ -46,7 +46,7 @@ ingredients:
     raw: ½ teaspoon vanilla extract
   - name: slices (orange)
     raw: Orange slices
-  - name: cinnamon stick
+  - name: cinnamon sticks
     raw: A cinnamon stick per glass
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of fresh nutmeg

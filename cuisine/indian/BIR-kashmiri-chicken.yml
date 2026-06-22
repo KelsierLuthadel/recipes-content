@@ -37,7 +37,7 @@ ingredients:
     name: ghee oil
     raw: 3 tbsp melted ghee oil
   - qty: 2.5
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 2 ½ cm piece cinnamon stick
   - name: seeds from 3 green cardamom pods
     raw: Seeds from 3 green cardamom pods
@@ -45,7 +45,7 @@ ingredients:
     name: cloves
     raw: 2 cloves
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion , very finely chopped
   - qty: 1
     unit: tbsp
@@ -83,7 +83,7 @@ ingredients:
     name: pre cooked chicken
     raw: 800 g Pre-Cooked Chicken
   - qty: 0.5
-    name: banana
+    name: bananas
     raw: ½ banana, sliced into coins
   - qty: 2
     unit: tbsp

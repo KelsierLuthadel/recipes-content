@@ -32,7 +32,7 @@ ingredients:
     name: salt
     raw: ½ teaspoon salt
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 3.5
     unit: tbsp
@@ -43,10 +43,10 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette
   - qty: 200
     unit: g
@@ -78,7 +78,7 @@ ingredients:
     unit: g
     name: gruyere cheese
     raw: 150 g gruyère cheese
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - name: salt
     raw: salt

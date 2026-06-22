@@ -35,7 +35,7 @@ ingredients:
     name: unsalted butter
     raw: 100 g unsalted butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 200
     unit: ml
@@ -43,7 +43,7 @@ ingredients:
     raw: 200 ml whole milk
   - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
-  - name: caster sugar for dusting
+  - name: caster sugar
     raw: Caster sugar for dusting
   - name: or
     raw: "Or: drizzle of honey"

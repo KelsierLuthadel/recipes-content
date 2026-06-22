@@ -17,7 +17,7 @@ ingredients:
     name: pate brisee
     raw: 240 grams pâte brisée
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 40
     unit: g
@@ -40,7 +40,7 @@ ingredients:
     name: milk
     raw: 75 ml cold milk
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 450
     unit: g

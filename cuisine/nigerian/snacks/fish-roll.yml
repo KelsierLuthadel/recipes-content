@@ -43,7 +43,7 @@ ingredients:
     name: unsalted butter
     raw: 100 g unsalted butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 200
     unit: ml
@@ -57,7 +57,7 @@ ingredients:
     name: neutral oil
     raw: 2 tablespoons neutral oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: chilli (red)

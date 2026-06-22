@@ -32,7 +32,7 @@ ingredients:
     name: vanilla extract
     raw: 1 tablespoon vanilla extract
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 4
     name: eggs
@@ -60,7 +60,7 @@ ingredients:
     name: strip lemon peel
     raw: 1 strip lemon peel
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     unit: tbsp

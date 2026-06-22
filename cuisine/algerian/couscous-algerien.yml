@@ -25,7 +25,7 @@ ingredients:
     name: lamb shoulder on the bone
     raw: 800 g lamb shoulder on the bone, cut into 6 pieces
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, roughly chopped
   - qty: 2
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     name: pepper (black)
     raw: 1 tsp ground black pepper
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small cinnamon stick
   - qty: 1
     unit: tsp

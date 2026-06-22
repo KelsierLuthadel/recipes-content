@@ -22,7 +22,7 @@ ingredients:
     name: double cream
     raw: 150 ml double cream
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 0.25
     name: tonka bean
@@ -37,7 +37,7 @@ ingredients:
     raw: Pinch of fine salt
   - name: whipped cream
     raw: Lightly whipped cream
-  - name: nutmeg
+  - name: nutmegs
     raw: Grated nutmeg or tonka bean
   - name: shortbread biscuit on the saucer
     raw: A shortbread biscuit on the saucer

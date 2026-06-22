@@ -28,7 +28,7 @@ ingredients:
     name: olive oil
     raw: 6 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: carrots
@@ -59,7 +59,7 @@ ingredients:
     name: vegetable stock
     raw: 1.2 litres vegetable stock
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: salt
     raw: salt

@@ -37,7 +37,7 @@ ingredients:
     name: flower water (orange)
     raw: 3 tablespoons orange-flower water
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     name: unsalted butter
     raw: 80 g unsalted butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp

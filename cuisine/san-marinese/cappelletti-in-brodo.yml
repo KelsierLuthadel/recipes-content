@@ -36,7 +36,7 @@ ingredients:
     name: celery
     raw: 2 celery stalks
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek
   - qty: 1
     unit: small handful
@@ -90,7 +90,7 @@ ingredients:
     name: parmigiano
     raw: 100 g parmigiano
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     name: grating fresh nutmeg

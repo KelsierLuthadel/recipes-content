@@ -75,11 +75,11 @@ ingredients:
     name: button mushrooms
     raw: 500 grams button mushrooms
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 60
     unit: g
-    name: shallot
+    name: shallots
     raw: 60 grams shallot
   - qty: 100
     unit: ml

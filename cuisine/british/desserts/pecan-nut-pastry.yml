@@ -23,7 +23,7 @@ ingredients:
   - name: plain flour
     raw: Plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 250
     unit: g
@@ -42,7 +42,7 @@ ingredients:
     name: golden syrup
     raw: 2 tablespoons golden syrup
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 1
     unit: tbsp

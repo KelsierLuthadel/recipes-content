@@ -30,7 +30,7 @@ ingredients:
     name: water
     raw: 1.4 litres water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: cardamom pods
@@ -39,7 +39,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp

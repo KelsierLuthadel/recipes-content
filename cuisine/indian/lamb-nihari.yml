@@ -29,7 +29,7 @@ ingredients:
     name: rapeseed oil
     raw: 125ml rapeseed oil
   - qty: 1
-    name: nutmeg
+    name: nutmegs
     raw: 1 whole nutmeg, crushed into smaller pieces
   - qty: 1
     unit: tbsp
@@ -78,7 +78,7 @@ ingredients:
     name: unsalted butter
     raw: 40g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, sliced into rings
   - qty: 2
     name: chapatti flour

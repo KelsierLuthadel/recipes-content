@@ -29,7 +29,7 @@ ingredients:
     name: leeks
     raw: 2 large leeks , washed thoroughly and sliced thin
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 60
     unit: g
@@ -47,7 +47,7 @@ ingredients:
     raw: Salt and white pepper
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: Pinch of grated nutmeg
   - qty: 4
     name: smoked sausages

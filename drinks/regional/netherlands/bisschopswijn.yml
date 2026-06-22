@@ -20,13 +20,13 @@ ingredients:
     name: wine (red)
     raw: 1 bottle red wine
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -44,9 +44,9 @@ ingredients:
     unit: tbsp
     name: soft dark brown sugar
     raw: 4-5 tablespoons soft dark brown sugar
-  - name: orange
+  - name: oranges
     raw: A small slice of fresh orange, floated on top
-  - name: cinnamon for stirring
+  - name: cinnamon
     raw: A small stick of cinnamon for stirring
   - qty: 1
     unit: small splash
@@ -55,7 +55,7 @@ ingredients:
   - qty: 6
     name: heavy ceramic mugs
     raw: 6 small heavy ceramic mugs , pre-warmed
-  - name: spoon for stirring
+  - name: spoon
     raw: A small spoon for stirring
   - name: plate of speculaas biscuits
     raw: A plate of speculaas biscuits, pepernoten, or taai-taai cookies alongside

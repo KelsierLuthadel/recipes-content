@@ -42,10 +42,10 @@ ingredients:
     name: olive oil
     raw: 2 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely grated
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     name: chickpeas
     raw: 200 g cooked chickpeas
   - qty: 1
-    name: turnip
+    name: turnips
     raw: 1 small turnip, peeled and quartered
   - qty: 1
     unit: tsp

@@ -66,7 +66,7 @@ ingredients:
   - qty: 2
     name: onions (white)
     raw: 2 large white onions
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
     raw: Black beans
   - name: sweet plantains
     raw: Sweet plantains
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: yuca con mojo
     raw: Yuca con mojo

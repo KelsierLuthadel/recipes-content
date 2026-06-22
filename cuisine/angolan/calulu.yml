@@ -32,7 +32,7 @@ ingredients:
     name: firm white fish fillets
     raw: 600 g firm white fish fillets , cut into chunks
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced
   - qty: 2
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     name: chilli (red)
     raw: 1 red chilli, finely chopped
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine, diced into 2 cm cubes
   - qty: 300
     unit: g

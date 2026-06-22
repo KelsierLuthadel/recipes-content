@@ -33,7 +33,7 @@ ingredients:
     name: ginger
     raw: 40 gram fresh root ginger, peeled and grated
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 1
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     name: syrup for sorbet
     raw: 500 ml Syrup for Sorbet
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 250
     unit: g

@@ -36,10 +36,10 @@ ingredients:
     name: veal
     raw: 200 g ground veal
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 4
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 1 teaspoon ground white pepper
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 60
     unit: g

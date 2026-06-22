@@ -40,7 +40,7 @@ ingredients:
     name: milk
     raw: 300 ml whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 30
     unit: g

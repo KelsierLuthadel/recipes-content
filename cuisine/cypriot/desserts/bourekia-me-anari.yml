@@ -22,7 +22,7 @@ ingredients:
     name: plain flour
     raw: 350 g plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 100
     unit: ml
@@ -60,7 +60,7 @@ ingredients:
     unit: tsp
     name: mahleb
     raw: ½ teaspoon ground mahleb
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 200
     unit: g
@@ -83,11 +83,11 @@ ingredients:
     name: rose water
     raw: 1 teaspoon rose water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: l
-    name: neutral oil
+    name: neutral oil for deep frying
     raw: 1 litre neutral oil for deep frying
   - qty: 2
     unit: tbsp

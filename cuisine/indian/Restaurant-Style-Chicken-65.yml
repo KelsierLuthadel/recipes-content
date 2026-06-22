@@ -36,7 +36,7 @@ mentions:
 ingredients:
   - qty: 400
     unit: g
-    name: chicken breast
+    name: chicken breasts
     raw: 400 g chicken breast, thigh, or leg , cut into 2 to 3 cm pieces
   - qty: 1.5
     unit: tsp
@@ -101,7 +101,7 @@ ingredients:
     raw: 1 tbsp fresh curry leaves, or 2 tbsp dried
   - qty: 80
     unit: g
-    name: onion
+    name: onions
     raw: 80 g onion, finely diced
   - qty: 40
     unit: g
@@ -169,7 +169,7 @@ ingredients:
     unit: tsp
     name: honey
     raw: 1 tsp honey
-  - name: onion
+  - name: onions
     raw: thin slices of raw onion
   - name: lemon wedges
     raw: lemon wedges

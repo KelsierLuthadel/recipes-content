@@ -44,7 +44,7 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 80
     unit: ml
@@ -59,7 +59,7 @@ ingredients:
     name: sunflower oil
     raw: 1 litre sunflower oil
   - qty: 1
-    name: egg white
+    name: egg whites
     raw: 1 egg white
   - qty: 12
     name: metal cannoli forms
@@ -77,7 +77,7 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 60
     unit: g

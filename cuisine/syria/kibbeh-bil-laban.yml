@@ -33,7 +33,7 @@ ingredients:
     name: lamb mince
     raw: 400 g lamb mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: tsp
@@ -64,7 +64,7 @@ ingredients:
     name: olive oil
     raw: 1 tablespoon olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 30
     unit: g
@@ -99,7 +99,7 @@ ingredients:
     name: natural yogurt
     raw: 800 g full-fat natural yogurt
   - qty: 1
-    name: egg white
+    name: egg whites
     raw: 1 egg white
   - qty: 1
     unit: tbsp

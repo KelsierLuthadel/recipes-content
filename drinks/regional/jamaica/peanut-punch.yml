@@ -40,7 +40,7 @@ ingredients:
     raw: 1 tablespoon vanilla extract
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 1
     unit: pinch
@@ -50,5 +50,5 @@ ingredients:
     raw: "Optional: 100 ml Guinness or other stout"
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: nutmeg
+  - name: nutmegs
     raw: Grated fresh nutmeg

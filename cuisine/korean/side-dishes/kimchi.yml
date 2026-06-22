@@ -41,7 +41,7 @@ ingredients:
     name: caster sugar
     raw: 2 tablespoons caster sugar
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: korean pear
@@ -70,7 +70,7 @@ ingredients:
     name: daikon radish
     raw: 200 g daikon radish
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 6
     name: spring onions

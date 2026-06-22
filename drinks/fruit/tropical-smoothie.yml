@@ -22,7 +22,7 @@ ingredients:
     name: pineapple chunks
     raw: 200 g frozen pineapple chunks
   - qty: 1
-    name: banana
+    name: bananas
     raw: 1 ripe banana
   - qty: 200
     unit: ml
@@ -42,7 +42,7 @@ ingredients:
     raw: Pinch of fine salt
   - name: pineapple
     raw: A wedge of fresh pineapple
-  - name: lime
+  - name: limes
     raw: A slice of lime
   - name: mint leaves
     raw: A few mint leaves

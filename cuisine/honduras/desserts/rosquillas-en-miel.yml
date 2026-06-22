@@ -72,22 +72,22 @@ ingredients:
     name: water
     raw: 200 ml water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
     raw: 4 whole cloves
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 1
     unit: tbsp
     name: lemon juice
     raw: 1 tablespoon fresh lemon juice
-  - name: cinnamon for dusting
+  - name: cinnamon
     raw: Ground cinnamon for dusting
   - name: toasted chopped almonds
     raw: Toasted chopped almonds

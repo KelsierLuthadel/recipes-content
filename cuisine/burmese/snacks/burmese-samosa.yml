@@ -57,7 +57,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: garlic
@@ -97,7 +97,7 @@ ingredients:
     name: coriander
     raw: 2 tablespoons coriander leaves
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime
   - qty: 750
     unit: ml

@@ -24,7 +24,7 @@ ingredients:
   - qty: 1
     name: pepper (green)
     raw: 1 green pepper
-  - name: oil for roasting
+  - name: oil
     raw: Oil for roasting
   - qty: 2
     name: tomatoes

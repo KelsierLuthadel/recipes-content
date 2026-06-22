@@ -34,7 +34,7 @@ ingredients:
     name: long grain rice
     raw: 150 g long-grain rice
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -52,7 +52,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 2
     unit: tsp

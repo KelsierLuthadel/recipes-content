@@ -30,7 +30,7 @@ ingredients:
     name: butter
     raw: 2 tablespoons butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: bell pepper (green)
@@ -75,7 +75,7 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 3
     unit: tbsp

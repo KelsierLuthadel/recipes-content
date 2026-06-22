@@ -32,7 +32,7 @@ ingredients:
     name: lamb mince
     raw: 300 g lamb mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -42,7 +42,7 @@ ingredients:
     name: breadcrumbs
     raw: 50 g dried breadcrumbs
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1.5
     unit: tsp
@@ -73,7 +73,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic

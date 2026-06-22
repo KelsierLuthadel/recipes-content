@@ -35,7 +35,7 @@ ingredients:
     name: beef
     raw: 600 g minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: chillies (green)
@@ -52,7 +52,7 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp

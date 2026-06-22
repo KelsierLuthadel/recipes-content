@@ -33,7 +33,7 @@ ingredients:
     name: ice
     raw: 200 g crushed ice
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     unit: tsp
@@ -78,5 +78,5 @@ ingredients:
     raw: Austrian sweet mustard
   - name: pickled gherkins
     raw: Pickled gherkins, sliced
-  - name: onion
+  - name: onions
     raw: Sliced raw onion

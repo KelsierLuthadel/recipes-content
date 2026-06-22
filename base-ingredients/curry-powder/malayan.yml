@@ -25,7 +25,7 @@ ingredients:
     name: cloves (white)
     raw: 6 white cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp
@@ -41,7 +41,7 @@ ingredients:
     raw: 2 teaspoons Sichuan peppercorns
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon freshly grated nutmeg
   - qty: 0.5
     unit: tsp

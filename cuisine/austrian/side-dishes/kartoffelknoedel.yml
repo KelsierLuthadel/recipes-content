@@ -29,7 +29,7 @@ ingredients:
     name: plain flour
     raw: 80 g plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 1
     unit: tsp
@@ -37,7 +37,7 @@ ingredients:
     raw: 1 teaspoon fine sea salt
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: 1 pinch freshly grated nutmeg
   - qty: 3
     name: stale white bread

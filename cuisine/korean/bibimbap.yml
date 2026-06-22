@@ -43,14 +43,14 @@ ingredients:
     name: bean sprouts
     raw: 200 g bean sprouts
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 200
     unit: g
     name: shiitake
     raw: 200 g shiitake
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette
   - qty: 4
     unit: tbsp

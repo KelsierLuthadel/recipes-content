@@ -58,7 +58,7 @@ ingredients:
     name: milk
     raw: 400 ml whole milk
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 4
     name: egg yolks
@@ -104,10 +104,10 @@ ingredients:
     name: butter
     raw: 50 g butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 200
     unit: g

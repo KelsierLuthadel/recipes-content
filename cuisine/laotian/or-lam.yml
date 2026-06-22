@@ -36,7 +36,7 @@ ingredients:
     name: beef stock
     raw: 1.5 litres beef stock OR water
   - qty: 2
-    name: lemongrass
+    name: lemon grass
     raw: 2 stalks lemongrass, lightly crushed and cut into 5 cm lengths
   - qty: 4
     name: kaffir lime leaves
@@ -105,5 +105,5 @@ ingredients:
     raw: 1 large basket warm sticky rice
   - name: jeow bong
     raw: A small dish of jeow bong
-  - name: vegetables for nibbling
+  - name: vegetables
     raw: "Raw vegetables for nibbling: cucumber, cabbage, mint sprigs"

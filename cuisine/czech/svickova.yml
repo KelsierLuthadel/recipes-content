@@ -45,7 +45,7 @@ ingredients:
     name: carrots
     raw: 2 large carrots, roughly chopped
   - qty: 1
-    name: parsnip
+    name: parsnips
     raw: 1 large parsnip, roughly chopped
   - qty: 250
     unit: g
@@ -112,7 +112,7 @@ ingredients:
     raw: 1 tbsp lemon juice
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: A pinch of grated nutmeg
   - name: salt
     raw: Salt to taste

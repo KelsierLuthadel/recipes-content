@@ -69,7 +69,7 @@ ingredients:
   - qty: 4
     name: soft sesame burger buns
     raw: 4 soft sesame burger buns, split
-  - name: butter for toasting
+  - name: butter
     raw: Butter for toasting
   - qty: 4
     unit: tbsp

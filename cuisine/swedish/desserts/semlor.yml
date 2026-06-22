@@ -41,14 +41,14 @@ ingredients:
     name: milk
     raw: 300 ml whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 100
     unit: g
     name: butter
     raw: 100 g butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 200
     unit: g

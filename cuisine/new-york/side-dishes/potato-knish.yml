@@ -24,7 +24,7 @@ ingredients:
     name: plain flour
     raw: 400 g plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 80
     unit: ml
@@ -81,7 +81,7 @@ ingredients:
     name: parsley
     raw: 2 tablespoons fresh chopped parsley
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - name: mustard (yellow)
     raw: Yellow mustard

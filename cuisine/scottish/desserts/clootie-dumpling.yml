@@ -81,7 +81,7 @@ ingredients:
     name: mixed candied peel
     raw: 60 g mixed candied peel
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 large carrot
   - qty: 1
     name: eating apple
@@ -95,7 +95,7 @@ ingredients:
     name: golden syrup
     raw: 2 tablespoons golden syrup
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 225
     unit: ml
@@ -103,7 +103,7 @@ ingredients:
     raw: 200-250 ml buttermilk
   - name: 50 × 50 cm square of muslin
     raw: A 50 × 50 cm square of muslin or thin clean cotton
-  - name: plain flour for coating
+  - name: plain flour
     raw: Plain flour for coating
   - name: butcher's string
     raw: Butcher's string

@@ -34,7 +34,7 @@ ingredients:
     name: flank steak
     raw: 1.2 kg flank steak
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -117,7 +117,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 100
     unit: g
@@ -133,7 +133,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 2
     unit: tbsp
@@ -145,7 +145,7 @@ ingredients:
     raw: Black beans
   - name: sweet plantains
     raw: Sweet plantains
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: lime wedges
     raw: Lime wedges

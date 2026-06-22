@@ -42,7 +42,7 @@ ingredients:
     name: milk
     raw: 250 ml whole milk, warmed to body temperature
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 100
     unit: g
@@ -53,7 +53,7 @@ ingredients:
     name: milk
     raw: 500 ml whole milk
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod, split
   - qty: 4
     name: egg yolks
@@ -71,7 +71,7 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten
   - qty: 150
     unit: g

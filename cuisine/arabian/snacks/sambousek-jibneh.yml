@@ -34,7 +34,7 @@ ingredients:
     name: greek yogurt
     raw: 100 g Greek yogurt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     name: feta cheese
     raw: 100 g feta cheese
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 3
     unit: tbsp
@@ -76,14 +76,14 @@ ingredients:
     raw: ½ teaspoon black pepper
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: A pinch of nutmeg
   - qty: 1
     unit: tsp
     name: nigella seeds
     raw: 1 teaspoon nigella seeds
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp

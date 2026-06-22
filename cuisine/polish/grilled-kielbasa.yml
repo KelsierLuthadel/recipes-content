@@ -29,14 +29,14 @@ ingredients:
     name: sauerkraut
     raw: 600 g sauerkraut
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 60
     unit: g
     name: smoked bacon lardons
     raw: 60 g smoked bacon lardons
   - qty: 1
-    name: apple
+    name: apples
     raw: 1 apple
   - qty: 5
     unit: g

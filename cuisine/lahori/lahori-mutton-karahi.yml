@@ -40,7 +40,7 @@ ingredients:
     name: ghee
     raw: 4 tablespoons ghee
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 6
     name: cloves
@@ -116,5 +116,5 @@ ingredients:
     raw: Warm naan, roti
   - name: lemon wedges
     raw: Lemon wedges
-  - name: onion
+  - name: onions
     raw: Sliced onion

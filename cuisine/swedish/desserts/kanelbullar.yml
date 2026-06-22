@@ -42,7 +42,7 @@ ingredients:
     name: milk
     raw: 300 ml whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 100
     unit: g
@@ -73,7 +73,7 @@ ingredients:
     name: salt
     raw: Pinch of salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 50
     unit: g

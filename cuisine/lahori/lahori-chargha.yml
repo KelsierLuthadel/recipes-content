@@ -35,7 +35,7 @@ ingredients:
     name: salt
     raw: 2 teaspoons salt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 200
     unit: g
@@ -89,7 +89,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 2 teaspoons salt
-  - name: orange
+  - name: oranges
     raw: A few drops of orange
   - qty: 2
     unit: l

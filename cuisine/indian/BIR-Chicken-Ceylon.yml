@@ -43,7 +43,7 @@ ingredients:
     name: star anise
     raw: 2 star anise
   - qty: 7.5
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 7 ½ cm piece cinnamon stick or cassia bark
   - qty: 4
     name: cardamom pods (green)
@@ -119,7 +119,7 @@ ingredients:
   - name: sugar
     raw: Sugar, to taste
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
     unit: tsp

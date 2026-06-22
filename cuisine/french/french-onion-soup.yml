@@ -65,7 +65,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: baguette
+    name: baguettes
     raw: 1 baguette
   - qty: 200
     unit: g

@@ -29,13 +29,13 @@ ingredients:
     raw: 6 garlic cloves
   - qty: 100
     unit: g
-    name: onion
+    name: onions
     raw: 100 grams onion
   - qty: 2
     name: celery
     raw: 2 celery sticks
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 4
     name: bay leaves

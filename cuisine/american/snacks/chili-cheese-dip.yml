@@ -26,7 +26,7 @@ ingredients:
     name: neutral oil
     raw: 2 tablespoons neutral oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -85,7 +85,7 @@ ingredients:
     name: spring onions
     raw: 2 spring onions
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 fresh jalapeño
   - qty: 100
     unit: g

@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 3
-    name: beetroot
+    name: beetroots
     raw: 3 medium beetroot , scrubbed
   - qty: 4
     name: waxy potatoes
@@ -33,7 +33,7 @@ ingredients:
     name: salted herring fillets
     raw: 2 salted herring fillets , or matjes-style herring
   - qty: 1
-    name: pickled cucumber
+    name: pickled cucumbers
     raw: 1 large pickled cucumber
   - qty: 1
     name: apple (green)

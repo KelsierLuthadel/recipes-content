@@ -24,16 +24,16 @@ ingredients:
     name: cointreau
     raw: 30 ml Cointreau or orange curaçao
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 4
     name: sugar cubes
     raw: 4 sugar cubes
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 8
     name: cloves

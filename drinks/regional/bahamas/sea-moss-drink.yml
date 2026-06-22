@@ -32,11 +32,11 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 1
     unit: pinch
@@ -48,5 +48,5 @@ ingredients:
     raw: 100 ml stout or porter
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: nutmeg
+  - name: nutmegs
     raw: Grated fresh nutmeg

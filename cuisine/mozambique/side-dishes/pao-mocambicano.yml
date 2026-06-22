@@ -42,14 +42,14 @@ ingredients:
     name: eggs
     raw: 2 large eggs
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 280
     unit: ml
     name: milk
     raw: 280 ml warm whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
-  - name: flour for dusting
+  - name: flour
     raw: Extra flour for dusting

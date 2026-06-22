@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 2
     name: courgettes
@@ -29,7 +29,7 @@ ingredients:
     name: pepper (yellow)
     raw: 1 yellow pepper
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic

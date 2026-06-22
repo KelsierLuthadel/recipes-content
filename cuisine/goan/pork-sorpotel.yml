@@ -33,7 +33,7 @@ ingredients:
     name: pork heart
     raw: 100 g pork heart
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -67,7 +67,7 @@ ingredients:
     name: cloves
     raw: 8 cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp

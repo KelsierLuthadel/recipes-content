@@ -38,7 +38,7 @@ ingredients:
     name: egg yolks
     raw: 4 egg yolks
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 whole egg
   - qty: 200
     unit: ml
@@ -56,9 +56,9 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 tsp vanilla extract
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 300
     unit: g
@@ -92,7 +92,7 @@ ingredients:
     name: raisins
     raw: 50 g raisins
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp

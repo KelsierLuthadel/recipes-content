@@ -59,7 +59,7 @@ ingredients:
     name: butter
     raw: 80 g butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     unit: stick
@@ -121,8 +121,8 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg

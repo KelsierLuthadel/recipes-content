@@ -70,7 +70,7 @@ ingredients:
     name: tomato ketchup
     raw: "200 ml tomato ketchup OR if you can find it: bottled Filipino banana ketchup"
   - qty: 1
-    name: banana
+    name: bananas
     raw: 1 ripe banana
   - qty: 2
     unit: tbsp
@@ -96,7 +96,7 @@ ingredients:
     unit: drop
     name: food colouring (red)
     raw: 2 drops red food colouring
-  - name: lemon
+  - name: lemons
     raw: Lemon or calamansi wedge
   - name: cold coke
     raw: Cold Coke or San Miguel beer

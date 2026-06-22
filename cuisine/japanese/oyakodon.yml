@@ -38,10 +38,10 @@ ingredients:
     raw: 1 tablespoon caster sugar
   - qty: 300
     unit: g
-    name: chicken thigh
+    name: chicken thighs
     raw: 300 g chicken thigh
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: eggs
@@ -49,7 +49,7 @@ ingredients:
   - name: rice
     raw: rice
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - qty: 1
     unit: pinch

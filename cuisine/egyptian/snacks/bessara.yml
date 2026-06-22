@@ -64,7 +64,7 @@ ingredients:
     name: aleppo pepper
     raw: ½ teaspoon Aleppo pepper
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1.5
     unit: tsp
@@ -95,7 +95,7 @@ ingredients:
     raw: A pinch of dried mint
   - name: hot baladi bread
     raw: Hot baladi bread, pita
-  - name: onion
+  - name: onions
     raw: Sliced raw onion
   - name: lemon wedges
     raw: Lemon wedges

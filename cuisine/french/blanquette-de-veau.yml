@@ -32,13 +32,13 @@ ingredients:
     name: veal (white)
     raw: 1 ½ litres white veal
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek
   - qty: 1
     name: bouquet garni
@@ -84,7 +84,7 @@ ingredients:
     unit: tbsp
     name: lemon juice
     raw: 1 tablespoon lemon juice
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - name: salt
     raw: salt

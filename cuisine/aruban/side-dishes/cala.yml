@@ -22,7 +22,7 @@ ingredients:
     name: eyed peas (black)
     raw: 300 g dried black-eyed peas
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion, roughly chopped
   - qty: 3
     unit: clove
@@ -43,7 +43,7 @@ ingredients:
     raw: 1/2 tsp baking powder
   - qty: 2
     unit: tbsp
-    name: spring onion
+    name: spring onions
     raw: 2 tbsp finely chopped spring onion
   - qty: 1
     unit: small handful

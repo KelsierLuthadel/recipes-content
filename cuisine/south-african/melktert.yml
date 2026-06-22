@@ -26,7 +26,7 @@ ingredients:
     name: caster sugar
     raw: 50 g caster sugar
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: pinch
@@ -45,7 +45,7 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 100
     unit: g

@@ -34,16 +34,16 @@ ingredients:
     name: chorizo
     raw: 1 chorizo
   - qty: 1
-    name: steak
+    name: steaks
     raw: 1 thin steak
   - qty: 0.5
-    name: plantain
+    name: plantains
     raw: ½ ripe plantain
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 0.5
-    name: avocado
+    name: avocados
     raw: ½ ripe avocado
   - qty: 1
     name: arepa de maiz blanco

@@ -53,7 +53,7 @@ ingredients:
     name: beef
     raw: 400 g lean beef , sliced thinly across the grain
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 5
     name: garlic
@@ -93,7 +93,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     name: daikon

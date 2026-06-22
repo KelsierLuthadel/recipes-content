@@ -35,7 +35,7 @@ ingredients:
     name: pork fat
     raw: 200 g pork fat OR 300 g streaky bacon
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -76,7 +76,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 1
     unit: tsp

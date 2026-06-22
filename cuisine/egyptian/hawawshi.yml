@@ -29,7 +29,7 @@ ingredients:
     name: beef
     raw: 500 g minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -76,7 +76,7 @@ ingredients:
     name: pita breads
     raw: 4 pita breads
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp

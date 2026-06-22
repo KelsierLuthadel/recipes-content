@@ -30,7 +30,7 @@ ingredients:
     name: beef shin
     raw: 500 g beef shin
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: stock cube
@@ -44,7 +44,7 @@ ingredients:
     name: water
     raw: 700 ml water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: bell pepper (red)

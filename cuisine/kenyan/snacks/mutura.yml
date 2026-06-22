@@ -35,7 +35,7 @@ ingredients:
     name: beef blood
     raw: 200 ml fresh beef blood
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely diced
   - qty: 4
     unit: clove
@@ -79,7 +79,7 @@ ingredients:
     name: water
     raw: 2 litres water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, halved
   - qty: 2
     name: bay leaves
@@ -92,7 +92,7 @@ ingredients:
     unit: tsp
     name: peppercorns (black)
     raw: 1 tsp black peppercorns
-  - name: vegetable oil for brushing
+  - name: vegetable oil
     raw: Vegetable oil for brushing
   - name: kachumbari
     raw: Kachumbari to serve

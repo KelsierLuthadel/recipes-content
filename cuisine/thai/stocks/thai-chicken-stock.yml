@@ -19,7 +19,7 @@ ingredients:
     name: coriander stalks
     raw: 10 coriander stalks
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion , roughly chopped
   - qty: 10
     name: garlic
@@ -28,7 +28,7 @@ ingredients:
     name: galangal
     raw: 2 ½cm piece of galangal, thinly sliced and lightly smashed
   - qty: 1
-    name: lemongrass stalk
+    name: lemon grass
     raw: 1 whole lemongrass stalk, bruised
   - qty: 1
     unit: tsp

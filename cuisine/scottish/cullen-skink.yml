@@ -32,7 +32,7 @@ ingredients:
   - name: thyme
     raw: A small thyme sprig
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 30
     unit: g
@@ -61,5 +61,5 @@ ingredients:
     raw: Salted butter for the bread
   - name: parsley leaves
     raw: A few extra parsley leaves
-  - name: lemon
+  - name: lemons
     raw: A wedge of lemon

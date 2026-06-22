@@ -46,7 +46,7 @@ ingredients:
     raw: 0.5 tsp cumin seeds
   - qty: 60
     unit: g
-    name: onion
+    name: onions
     raw: 60 g onion, roughly chopped
   - qty: 15
     unit: g
@@ -82,7 +82,7 @@ ingredients:
     name: garam masala
     raw: 0.25 tsp Garam Masala
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 25
     unit: g

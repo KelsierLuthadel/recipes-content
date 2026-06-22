@@ -31,7 +31,7 @@ ingredients:
     name: kidney beans (red)
     raw: 300 g dried red kidney beans, soaked overnight, drained
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, finely chopped
   - qty: 4
     name: garlic
@@ -89,7 +89,7 @@ ingredients:
     name: tomatoes
     raw: 2 ripe tomatoes, sliced
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced
   - qty: 1
     name: chilli (red)

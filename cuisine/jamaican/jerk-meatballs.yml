@@ -32,7 +32,7 @@ ingredients:
     name: pork
     raw: 680 g ground pork
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 0.5
     unit: cup
@@ -70,7 +70,7 @@ ingredients:
     name: unsalted butter
     raw: 1 tablespoon unsalted butter
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot
   - qty: 3
     name: garlic

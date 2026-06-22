@@ -22,7 +22,7 @@ ingredients:
     name: water
     raw: 800 ml water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     name: star anise
@@ -48,7 +48,7 @@ ingredients:
     raw: 200 ml evaporated milk
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 0.25
     unit: tsp

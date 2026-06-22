@@ -29,13 +29,13 @@ ingredients:
     name: firm white fish
     raw: 600 g firm white fish
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: ginger
     raw: 2 cm ginger
   - qty: 1
-    name: lemongrass
+    name: lemon grass
     raw: 1 stalk lemongrass
   - qty: 1
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     name: ginger
     raw: 4 cm ginger
   - qty: 2
-    name: lemongrass
+    name: lemon grass
     raw: 2 stalks lemongrass
   - qty: 2
     name: turmeric
@@ -92,7 +92,7 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 500
     unit: g

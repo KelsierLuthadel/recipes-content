@@ -15,7 +15,7 @@ tags:
 mentions: []
 ingredients:
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 1
     unit: tbsp
@@ -60,7 +60,7 @@ ingredients:
     name: caster sugar
     raw: 125 grams caster sugar
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 6
     name: egg yolks

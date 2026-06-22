@@ -26,13 +26,13 @@ ingredients:
     name: coconut cream
     raw: 400 ml thick coconut cream
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion, finely chopped
   - qty: 1
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: pinch

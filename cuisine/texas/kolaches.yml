@@ -40,7 +40,7 @@ ingredients:
     name: eggs
     raw: 2 large eggs
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 200
     unit: ml
@@ -51,7 +51,7 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 300
     unit: g
@@ -114,7 +114,7 @@ ingredients:
     name: caster sugar
     raw: 80 g caster sugar
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 1
     unit: tsp
@@ -124,7 +124,7 @@ ingredients:
     unit: tbsp
     name: plain flour
     raw: 2 tablespoons plain flour
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 80
     unit: g

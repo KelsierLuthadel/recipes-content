@@ -35,7 +35,7 @@ ingredients:
     name: bay leaf
     raw: 1 bay leaf
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, halved
   - qty: 1
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     name: olive oil
     raw: 2 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, very finely chopped
   - qty: 3
     name: garlic
@@ -95,7 +95,7 @@ ingredients:
     raw: 200 g fine dried breadcrumbs
   - qty: 1
     unit: l
-    name: vegetable oil
+    name: vegetable oil for deep frying
     raw: 1 litre vegetable oil for deep frying
   - name: lime wedges
     raw: Lime wedges, to serve

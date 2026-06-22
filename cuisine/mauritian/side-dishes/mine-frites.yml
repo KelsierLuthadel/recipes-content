@@ -42,7 +42,7 @@ ingredients:
     raw: 200 g raw prawns
   - qty: 250
     unit: g
-    name: chicken thigh
+    name: chicken thighs
     raw: 250 g chicken thigh
   - qty: 6
     name: garlic
@@ -61,7 +61,7 @@ ingredients:
     name: bean sprouts
     raw: 200 g fresh bean sprouts
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 medium carrot
   - qty: 1
     name: pepper (green)
@@ -110,7 +110,7 @@ ingredients:
     name: chilli (red)
     raw: 1 fresh red chilli
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - name: mauritian chilli sauce
     raw: Mauritian chilli sauce

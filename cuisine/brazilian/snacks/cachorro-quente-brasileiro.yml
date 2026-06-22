@@ -32,13 +32,13 @@ ingredients:
     name: salsicha sausages
     raw: 4 long mild salsicha sausages
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 small carrot
   - qty: 1
     name: bell pepper (green)
@@ -87,7 +87,7 @@ ingredients:
     name: parmesan
     raw: 100 g grated Parmesan
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 medium carrot
   - qty: 400
     unit: g
@@ -106,7 +106,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp

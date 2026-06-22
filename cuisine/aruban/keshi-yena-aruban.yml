@@ -26,7 +26,7 @@ ingredients:
   - qty: 1
     name: edam
     raw: 1 whole Edam or young Gouda, 1.2-1.5 kg
-  - name: knife and a soup spoon for hollowing
+  - name: knife and a soup spoon
     raw: A sharp knife and a soup spoon for hollowing
   - qty: 600
     unit: g
@@ -37,7 +37,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tbsp sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 1
     name: bell pepper (green)

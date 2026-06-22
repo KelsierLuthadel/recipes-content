@@ -58,7 +58,7 @@ ingredients:
     raw: 2 teaspoons ground allspice
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon ground nutmeg
   - qty: 1
     unit: tsp
@@ -80,7 +80,7 @@ ingredients:
     name: vinegar (white)
     raw: 60 ml white vinegar
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 60
     unit: ml

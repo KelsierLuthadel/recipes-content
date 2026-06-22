@@ -36,7 +36,7 @@ ingredients:
     name: rapeseed oil
     raw: 4 tbsp rapeseed oil
   - qty: 2.5
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 2 ½cm piece of cinnamon stick
   - qty: 2
     name: star anise
@@ -51,7 +51,7 @@ ingredients:
     name: onions
     raw: 2 onions
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot, grated
   - qty: 2
     unit: tbsp

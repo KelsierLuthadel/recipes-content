@@ -29,10 +29,10 @@ ingredients:
     name: pepper (green)
     raw: 1 mild green pepper
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - qty: 0.5
     name: garlic

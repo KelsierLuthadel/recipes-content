@@ -33,7 +33,7 @@ ingredients:
     name: chicken stock
     raw: 1 litre chicken stock
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     name: garlic
@@ -46,7 +46,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 4
     name: garlic
@@ -107,5 +107,5 @@ ingredients:
     raw: Hot sauce
   - name: beer
     raw: A cold beer
-  - name: lime
+  - name: limes
     raw: A wedge of lime

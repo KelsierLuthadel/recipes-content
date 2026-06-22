@@ -55,7 +55,7 @@ ingredients:
     raw: 1 tbsp Garam Masala
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ tsp ground nutmeg
   - qty: 5
     name: onions (green)
@@ -65,7 +65,7 @@ ingredients:
     name: coriander
     raw: 4 grams fresh coriander
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 0.5
     unit: tsp
@@ -84,7 +84,7 @@ ingredients:
     name: peanut oil
     raw: 2 tbsp peanut oil
   - qty: 2
-    name: lemongrass
+    name: lemon grass
     raw: 2 stalks lemongrass
   - qty: 237
     unit: ml

@@ -31,7 +31,7 @@ ingredients:
     name: baking powder
     raw: 1 teaspoon baking powder
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 100
     unit: ml

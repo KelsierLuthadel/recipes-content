@@ -50,7 +50,7 @@ ingredients:
     name: cinnamon
     raw: A pinch of ground cinnamon
   - qty: 1
-    name: banana
+    name: bananas
     raw: 1 ripe banana
   - qty: 400
     unit: g
@@ -85,7 +85,7 @@ ingredients:
     name: salt
     raw: ½ tsp salt
   - qty: 1
-    name: banana
+    name: bananas
     raw: 1 ripe banana
   - qty: 1
     unit: l

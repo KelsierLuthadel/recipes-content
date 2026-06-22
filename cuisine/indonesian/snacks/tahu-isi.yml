@@ -41,7 +41,7 @@ ingredients:
     name: ginger
     raw: 20 g fresh ginger
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 150
     unit: g
@@ -90,7 +90,7 @@ ingredients:
     name: garlic
     raw: 1 garlic clove
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - qty: 150
     unit: ml

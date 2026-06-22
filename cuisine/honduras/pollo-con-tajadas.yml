@@ -74,7 +74,7 @@ ingredients:
     name: cabbage (white)
     raw: 200 g white cabbage
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     name: onion (red)
@@ -102,7 +102,7 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 0.5
     unit: tsp

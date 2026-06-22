@@ -23,7 +23,7 @@ ingredients:
     name: flour (white)
     raw: 250 g strong white flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp
@@ -52,7 +52,7 @@ ingredients:
     name: cinnamon
     raw: 2 teaspoons ground cinnamon
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     unit: tbsp

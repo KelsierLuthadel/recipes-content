@@ -34,7 +34,7 @@ ingredients:
     name: cold butter
     raw: 120 g cold butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1.5
     unit: tbsp
@@ -49,14 +49,14 @@ ingredients:
     name: breadcrumbs
     raw: 100 g fresh fine breadcrumbs
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 50
     unit: ml
     name: double cream
     raw: 50 ml double cream
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 2
     unit: tbsp

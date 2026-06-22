@@ -32,14 +32,14 @@ ingredients:
     name: cheddar cheese
     raw: 50 g grated sharp cheddar cheese
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     unit: tbsp
     name: sour cream
     raw: 2 tablespoons sour cream
   - qty: 6
-    name: pickled jalapeno
+    name: pickled jalapenos
     raw: 6 slices pickled jalapeño
   - qty: 1
     unit: tbsp
@@ -47,7 +47,7 @@ ingredients:
     raw: 1 tablespoon hot sauce
   - qty: 1
     unit: tbsp
-    name: spring onion
+    name: spring onions
     raw: 1 tablespoon sliced spring onion
   - name: coriander
     raw: Fresh chopped coriander

@@ -22,7 +22,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 12
-    name: yellow (red)
+    name: red yellow
     raw: 12 medium red, yellow or orange bell peppers
   - qty: 3
     unit: tbsp
@@ -70,7 +70,7 @@ ingredients:
     name: olive oil
     raw: 2 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, finely chopped
   - qty: 500
     unit: g

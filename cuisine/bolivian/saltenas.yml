@@ -24,10 +24,10 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: chicken thigh
+    name: chicken thighs
     raw: 500 g chicken thigh or beef chuck, diced small
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely diced
   - qty: 3
     name: spring onions
@@ -93,7 +93,7 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 200
     unit: ml

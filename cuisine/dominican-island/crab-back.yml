@@ -32,13 +32,13 @@ ingredients:
     name: butter
     raw: 30 g butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 3
     name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion, finely chopped
   - qty: 4
     unit: sprig

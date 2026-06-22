@@ -36,7 +36,7 @@ ingredients:
     name: scotch bonnet chillies
     raw: 1 Scotch bonnet
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: maggi
@@ -95,7 +95,7 @@ ingredients:
     name: cabbage (white)
     raw: 1 white cabbage
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 2
     name: turnips
@@ -108,7 +108,7 @@ ingredients:
     name: broken jasmine rice
     raw: 600 g broken jasmine rice
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - name: spoonful of homemade chilli paste
     raw: A spoonful of homemade chilli paste

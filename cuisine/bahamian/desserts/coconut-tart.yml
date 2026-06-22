@@ -33,7 +33,7 @@ ingredients:
     name: cold butter
     raw: 150 g cold butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 2.5
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     name: eggs
     raw: 2 large eggs
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 1
     unit: tbsp
@@ -60,11 +60,11 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
-  - name: lime
+  - name: limes
     raw: Zest of 1 lime
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 0.25
     unit: tsp
@@ -76,5 +76,5 @@ ingredients:
     raw: 1 tablespoon caster sugar
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: A pinch of nutmeg

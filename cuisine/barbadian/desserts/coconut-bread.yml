@@ -72,7 +72,7 @@ ingredients:
     unit: tbsp
     name: lime juice
     raw: 1 tablespoon fresh lime juice
-  - name: lime
+  - name: limes
     raw: Finely grated zest of 1 lime
   - qty: 300
     unit: g
@@ -94,5 +94,5 @@ ingredients:
     unit: tbsp
     name: demerara sugar
     raw: 2 tablespoons demerara sugar
-  - name: nutmeg
+  - name: nutmegs
     raw: A small extra grating of nutmeg

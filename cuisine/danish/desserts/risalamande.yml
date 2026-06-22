@@ -30,7 +30,7 @@ ingredients:
     name: double cream
     raw: 200 ml double cream
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 2
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
     name: lemon juice
     raw: 1 tablespoon lemon juice
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 2
     unit: tbsp

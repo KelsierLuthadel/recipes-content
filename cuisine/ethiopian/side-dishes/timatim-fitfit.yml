@@ -28,7 +28,7 @@ ingredients:
     name: onion (red)
     raw: 1 small red onion
   - qty: 1.5
-    name: jalapeno
+    name: jalapenos
     raw: 1-2 fresh jalapeño or green chillies
   - qty: 2
     unit: tbsp
@@ -42,7 +42,7 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons olive oil
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 0.5
     unit: tsp

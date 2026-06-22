@@ -34,7 +34,7 @@ ingredients:
     name: spinach
     raw: 200 g spinach or watercress
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 medium aubergine
   - qty: 1
     name: chayote
@@ -43,7 +43,7 @@ ingredients:
     name: carrots
     raw: 2 medium carrots
   - qty: 1
-    name: turnip
+    name: turnips
     raw: 1 small turnip
   - qty: 200
     unit: g
@@ -54,7 +54,7 @@ ingredients:
     name: epis
     raw: 3 tablespoons epis
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -91,7 +91,7 @@ ingredients:
     name: thyme
     raw: 1 sprig fresh thyme
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - name: boiled white rice
     raw: Boiled white rice or diri kole ak pwa

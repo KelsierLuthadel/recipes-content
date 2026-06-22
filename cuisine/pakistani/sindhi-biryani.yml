@@ -81,7 +81,7 @@ ingredients:
     name: salt
     raw: 2 teaspoons salt
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 4
     name: onions
@@ -119,7 +119,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp
@@ -149,5 +149,5 @@ ingredients:
     name: ghee
     raw: 2 tablespoons ghee
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon

@@ -28,7 +28,7 @@ ingredients:
     name: beef
     raw: 500 g ground beef or pork
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, finely chopped
   - qty: 2
     name: garlic
@@ -67,7 +67,7 @@ ingredients:
     name: tomatoes
     raw: 1 tin chopped tomatoes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     name: garlic

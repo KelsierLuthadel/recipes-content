@@ -57,7 +57,7 @@ ingredients:
     name: spring onions
     raw: 4 spring onions, sliced into 5 mm rings
   - qty: 1
-    name: lemongrass
+    name: lemon grass
     raw: 1 stalk lemongrass , very finely sliced
   - qty: 4
     unit: tbsp
@@ -81,7 +81,7 @@ ingredients:
   - qty: 1
     name: basket warm lao sticky rice
     raw: "1 basket warm Lao sticky rice : see Sticky Rice"
-  - name: plate of raw vegetables for scooping
+  - name: plate of raw vegetables
     raw: "A plate of raw vegetables for scooping: cabbage wedges, long beans, cucumber spears, lettuce leaves"
   - name: jeow bong
     raw: "A small dish of jeow bong : optional"

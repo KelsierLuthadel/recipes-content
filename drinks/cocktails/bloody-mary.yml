@@ -27,7 +27,7 @@ ingredients:
     name: celery salt
     raw: 1 teaspoon celery salt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 wedge of lemon
   - qty: 60
     unit: ml
@@ -70,7 +70,7 @@ ingredients:
     name: celery
     raw: 1 long celery stalk
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 wedge of lemon
   - name: pickled green olives on a cocktail stick
     raw: Pickled green olives on a cocktail stick

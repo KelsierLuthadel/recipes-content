@@ -38,7 +38,7 @@ ingredients:
     name: cured pork belly
     raw: 200 g cured pork belly
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -47,7 +47,7 @@ ingredients:
     name: plantain (green)
     raw: 1 green plantain
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 2
     name: tomatoes
@@ -77,7 +77,7 @@ ingredients:
     name: hogao
     raw: 4 tablespoons Hogao
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 3
     unit: tbsp

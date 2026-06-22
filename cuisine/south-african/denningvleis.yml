@@ -60,7 +60,7 @@ ingredients:
     name: bay leaves
     raw: 6 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small cinnamon stick
   - qty: 1
     unit: tsp
@@ -91,7 +91,7 @@ ingredients:
     name: water
     raw: 2 tablespoons cold water
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: salt and pepper
     raw: Salt and pepper

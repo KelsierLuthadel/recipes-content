@@ -38,7 +38,7 @@ ingredients:
     name: pork
     raw: 400 g ground pork
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 4
     name: garlic
@@ -48,7 +48,7 @@ ingredients:
     name: day old white bread
     raw: 60 g day-old white bread
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 1
     unit: tbsp
@@ -83,7 +83,7 @@ ingredients:
     name: vegetable oil
     raw: 4 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -143,7 +143,7 @@ ingredients:
     raw: Refried beans
   - name: warm corn tortillas
     raw: Warm corn tortillas
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: mexican sour cream
     raw: Mexican sour cream

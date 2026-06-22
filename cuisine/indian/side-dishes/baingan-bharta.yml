@@ -26,7 +26,7 @@ mentions:
   - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 2
     unit: tbsp
@@ -37,7 +37,7 @@ ingredients:
     name: cumin seeds
     raw: 1 teaspoon cumin seeds
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -78,5 +78,5 @@ ingredients:
     raw: A handful of coriander
   - name: roti
     raw: Roti
-  - name: lime
+  - name: limes
     raw: A wedge of lime

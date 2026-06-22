@@ -43,7 +43,7 @@ ingredients:
     name: galangal
     raw: 1 tablespoon galangal
   - qty: 2
-    name: lemongrass stalks
+    name: lemon grass
     raw: 2 lemongrass stalks
   - qty: 3
     name: kaffir lime leaves
@@ -84,7 +84,7 @@ ingredients:
     raw: 1 litre coconut milk
   - qty: 450
     unit: g
-    name: chicken breast
+    name: chicken breasts
     raw: 450 grams skinless chicken breast
   - qty: 2
     unit: tbsp

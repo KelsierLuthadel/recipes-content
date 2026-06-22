@@ -37,7 +37,7 @@ ingredients:
     name: milk
     raw: 85 ml whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 60
     unit: g
@@ -62,7 +62,7 @@ ingredients:
     name: shelled pistachios
     raw: 100 g shelled pistachios
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 50
     unit: g

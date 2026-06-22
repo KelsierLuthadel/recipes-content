@@ -57,10 +57,10 @@ ingredients:
     name: broccoli florets
     raw: 150 g broccoli florets
   - qty: 1
-    name: apple
+    name: apples
     raw: 1 large apple
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 large carrot
   - qty: 40
     unit: g

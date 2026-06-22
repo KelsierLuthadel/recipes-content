@@ -53,7 +53,7 @@ ingredients:
   - name: seeds from 0.5 to 1 black cardamom pods
     raw: seeds from 0.5 to 1 black cardamom pods
   - qty: 0.5
-    name: onion
+    name: onions
     raw: 0.5 medium onion , halved lengthwise and finely sliced
   - qty: 0.25
     name: pepper (red)
@@ -134,5 +134,5 @@ ingredients:
     raw: about 40 ml extra base gravy
   - qty: 1
     unit: splash
-    name: water for deglazing
+    name: water
     raw: a splash of water for deglazing

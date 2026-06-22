@@ -38,7 +38,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tbsp vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, chopped
   - qty: 4
     name: garlic
@@ -68,7 +68,7 @@ ingredients:
     name: water
     raw: 2 litres water
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 medium carrot, in chunks
   - qty: 400
     unit: g
@@ -101,5 +101,5 @@ ingredients:
     unit: handful
     name: parsley
     raw: A handful of fresh parsley, chopped
-  - name: lime
+  - name: limes
     raw: A wedge of lime per bowl

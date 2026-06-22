@@ -26,7 +26,7 @@ ingredients:
     name: salt
     raw: 1 tsp salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 80
     unit: g
@@ -37,7 +37,7 @@ ingredients:
     name: curd cheese
     raw: 300 g fresh curd cheese
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 2
     unit: tbsp

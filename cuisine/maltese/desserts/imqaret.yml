@@ -41,7 +41,7 @@ ingredients:
     name: sea salt
     raw: A pinch of fine sea salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 4
     unit: tbsp
@@ -55,9 +55,9 @@ ingredients:
     unit: ml
     name: anisette
     raw: 80 ml anisette
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 1
     unit: tsp
@@ -79,5 +79,5 @@ ingredients:
     unit: l
     name: vegetable oil
     raw: 1 litre vegetable oil
-  - name: icing sugar for dusting
+  - name: icing sugar
     raw: Icing sugar for dusting

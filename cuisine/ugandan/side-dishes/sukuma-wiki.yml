@@ -30,7 +30,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 2
     name: garlic
@@ -58,5 +58,5 @@ ingredients:
     name: vegetable stock
     raw: 100 ml vegetable stock
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon

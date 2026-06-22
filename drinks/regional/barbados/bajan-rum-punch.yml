@@ -41,9 +41,9 @@ ingredients:
   - name: optional
     raw: "Optional: 30 ml falernum"
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 slice of fresh lime
-  - name: nutmeg
+  - name: nutmegs
     raw: A generous grating of fresh nutmeg
   - name: mint
     raw: A small mint sprig

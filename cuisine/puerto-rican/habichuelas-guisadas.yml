@@ -48,7 +48,7 @@ ingredients:
     name: olive oil
     raw: 4 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
@@ -71,7 +71,7 @@ ingredients:
     name: calabaza pumpkin
     raw: 300 g calabaza pumpkin
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 medium carrot
   - qty: 1
     name: potato

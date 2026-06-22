@@ -23,7 +23,7 @@ ingredients:
     name: mutton
     raw: 150 g minced mutton
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1.5
     unit: l
@@ -46,5 +46,5 @@ ingredients:
     name: water
     raw: 2-3 tablespoons cold water
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion or 1 tablespoon fresh dill

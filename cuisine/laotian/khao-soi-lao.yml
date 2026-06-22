@@ -40,7 +40,7 @@ ingredients:
     name: beef shin
     raw: 300 g beef shin
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, halved
   - qty: 4
     unit: clove
@@ -53,7 +53,7 @@ ingredients:
     name: star anise pod
     raw: 1 star anise pod
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     name: cilantro stems

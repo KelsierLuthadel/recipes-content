@@ -19,14 +19,14 @@ ingredients:
     raw: 20 grams butter
   - qty: 60
     unit: g
-    name: onion
+    name: onions
     raw: 60 grams onion
   - qty: 400
     unit: ml
     name: milk
     raw: 400 ml milk
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: cloves

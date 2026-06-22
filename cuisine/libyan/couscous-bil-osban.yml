@@ -42,7 +42,7 @@ ingredients:
     name: lamb shoulder
     raw: 500 g lamb shoulder, on the bone if possible, cut into large chunks
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: tbsp
@@ -103,7 +103,7 @@ ingredients:
     name: rice (white)
     raw: 100 g cooked white rice
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 4
     unit: tbsp

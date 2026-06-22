@@ -45,7 +45,7 @@ ingredients:
     name: beans with their liquid (black)
     raw: 400 g cooked black beans with their liquid
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely diced
   - qty: 1
     name: garlic
@@ -86,5 +86,5 @@ ingredients:
     name: coriander
     raw: 1 small handful coriander leaves
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced

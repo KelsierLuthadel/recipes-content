@@ -75,7 +75,7 @@ ingredients:
     name: "\"browning sauce\""
     raw: 2 tablespoons "browning sauce"
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 1
     name: bell pepper (green)
@@ -129,7 +129,7 @@ ingredients:
     name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley OR culantro , chopped
   - qty: 2
-    name: scallion
+    name: scallions
     raw: 2 stalks scallion, sliced
   - qty: 1
     unit: small dash
@@ -141,7 +141,7 @@ ingredients:
   - qty: 1
     name: batch bajan rice and peas
     raw: 1 batch Bajan rice and peas
-  - name: fried plantain
+  - name: fried plantains
     raw: Fried plantain
   - name: simple green salad
     raw: A simple green salad

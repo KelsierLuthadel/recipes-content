@@ -57,10 +57,10 @@ ingredients:
     unit: g
     name: comte
     raw: 50 g Comté
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of fresh nutmeg
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 30
     unit: g

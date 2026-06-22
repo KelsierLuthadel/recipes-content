@@ -73,7 +73,7 @@ ingredients:
     raw: 2 green cardamom pods, split
   - qty: 60
     unit: g
-    name: onion
+    name: onions
     raw: 60 g onion, finely chopped
   - qty: 30
     name: pepper (red)
@@ -125,7 +125,7 @@ ingredients:
     raw: 330 ml+ Curry Base Gravy, heated through
   - qty: 2
     unit: tsp
-    name: lime
+    name: limes
     raw: 2 tsp fresh lime or lemon juice
   - qty: 2
     unit: tsp

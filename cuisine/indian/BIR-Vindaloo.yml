@@ -52,7 +52,7 @@ ingredients:
     name: cloves
     raw: 2 cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2.5
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     name: oil
     raw: 2-3 tbsp oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion , finely chopped
   - qty: 1
     unit: tbsp

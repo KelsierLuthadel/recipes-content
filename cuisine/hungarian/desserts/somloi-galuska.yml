@@ -80,10 +80,10 @@ ingredients:
     name: caster sugar
     raw: 150 g caster sugar
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 4
     unit: tbsp

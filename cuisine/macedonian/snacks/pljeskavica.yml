@@ -32,7 +32,7 @@ ingredients:
     name: beef
     raw: 500 g minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 6
     name: garlic
@@ -73,7 +73,7 @@ ingredients:
     name: kajmak
     raw: 200 g kajmak
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large raw onion
   - qty: 4
     unit: tbsp

@@ -22,7 +22,7 @@ ingredients:
     name: mutton on the bone
     raw: 800 g mutton on the bone
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: bay leaves
@@ -32,7 +32,7 @@ ingredients:
     name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 2.5
     unit: l
@@ -55,10 +55,10 @@ ingredients:
     name: salt
     raw: ¼ teaspoon salt
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: potato

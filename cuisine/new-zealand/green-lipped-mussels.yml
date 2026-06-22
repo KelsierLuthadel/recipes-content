@@ -32,7 +32,7 @@ ingredients:
     name: shallots
     raw: 2 shallots, finely diced
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 small leek, white part only, finely sliced
   - qty: 6
     unit: clove
@@ -68,7 +68,7 @@ ingredients:
     unit: large handful
     name: flat leaf parsley
     raw: A large handful of flat-leaf parsley, finely chopped
-  - name: lemon
+  - name: lemons
     raw: Juice of half a lemon
   - name: crusty bread
     raw: Crusty bread, to serve

@@ -30,7 +30,7 @@ ingredients:
     name: shortcrust pastry
     raw: 750 grams Shortcrust pastry
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 450
     unit: g
@@ -71,7 +71,7 @@ ingredients:
     raw: 100 grams swede
   - qty: 100
     unit: g
-    name: parsnip
+    name: parsnips
     raw: 100 grams parsnip
   - name: salt
     raw: salt

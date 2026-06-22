@@ -59,7 +59,7 @@ ingredients:
     name: caster sugar
     raw: 1 teaspoon caster sugar
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 200
     unit: ml
@@ -70,7 +70,7 @@ ingredients:
   - name: sweet bavarian mustard
     raw: Sweet Bavarian mustard
   - qty: 1
-    name: fried egg
+    name: fried eggs
     raw: 1 fried egg
   - name: pickled gherkins
     raw: Pickled gherkins

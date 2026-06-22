@@ -35,7 +35,7 @@ ingredients:
     name: vegetable oil
     raw: 4 tablespoons vegetable oil
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot
   - qty: 6
     name: garlic
@@ -81,5 +81,5 @@ ingredients:
     raw: Griot
   - name: pikliz
     raw: Pikliz
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado

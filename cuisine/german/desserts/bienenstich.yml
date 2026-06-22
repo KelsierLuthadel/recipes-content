@@ -41,7 +41,7 @@ ingredients:
     name: milk
     raw: 150 ml warm whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 60
     unit: g
@@ -80,7 +80,7 @@ ingredients:
     name: milk
     raw: 500 ml whole milk
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod , or 2 teaspoons vanilla extract
   - qty: 5
     name: egg yolks

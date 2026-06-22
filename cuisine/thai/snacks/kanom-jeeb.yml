@@ -71,7 +71,7 @@ ingredients:
     name: sesame oil
     raw: 1 teaspoon sesame oil
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tbsp
@@ -87,7 +87,7 @@ ingredients:
     name: square wonton wrappers
     raw: 20 square wonton wrappers
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 4
     unit: tbsp

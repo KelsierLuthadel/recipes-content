@@ -43,7 +43,7 @@ ingredients:
     name: chorizo
     raw: 200 g chorizo or sausage
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 6
     name: spring onions
@@ -89,7 +89,7 @@ ingredients:
     raw: Spring onion greens
   - name: arepas
     raw: Arepas
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: aji picante
     raw: Ají picante

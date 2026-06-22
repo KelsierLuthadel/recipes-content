@@ -15,10 +15,10 @@ ingredients:
     name: medium bodied red wine
     raw: 1 bottle medium-bodied red wine
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 8
     name: cloves
@@ -45,5 +45,5 @@ ingredients:
     raw: 100 ml brandy, port or dark rum
   - name: slices (orange)
     raw: Extra orange slices
-  - name: cinnamon stick
+  - name: cinnamon sticks
     raw: A cinnamon stick per glass

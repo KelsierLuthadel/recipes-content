@@ -41,7 +41,7 @@ ingredients:
     name: egg yolks
     raw: 4 large egg yolks
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 whole egg
   - qty: 120
     unit: g
@@ -51,7 +51,7 @@ ingredients:
     unit: tsp
     name: vanilla extract
     raw: 1 tsp vanilla extract
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 100
     unit: g

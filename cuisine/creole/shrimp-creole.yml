@@ -31,7 +31,7 @@ ingredients:
     name: unsalted butter
     raw: 50 g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: celery
@@ -82,7 +82,7 @@ ingredients:
     name: prawns
     raw: 600 g raw prawns
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 4
     name: spring onions

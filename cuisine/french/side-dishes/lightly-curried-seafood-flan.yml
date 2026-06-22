@@ -39,7 +39,7 @@ ingredients:
     name: dry white wine
     raw: 75 ml dry white wine
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot
   - qty: 1
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     name: double cream
     raw: 75 ml double cream
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 whole egg
   - name: salt
     raw: salt

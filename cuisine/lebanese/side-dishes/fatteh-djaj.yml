@@ -31,13 +31,13 @@ ingredients:
     name: chicken thighs
     raw: 4 bone-in skin-on chicken thighs
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: cardamom pods
     raw: 4 cardamom pods
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     name: bay leaves
@@ -72,7 +72,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 100
     unit: ml

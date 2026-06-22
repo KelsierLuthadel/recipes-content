@@ -114,7 +114,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tbsp
@@ -139,7 +139,7 @@ ingredients:
     raw: Patacones
   - name: salad
     raw: Fresh salad
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: aji picante
     raw: Ají picante

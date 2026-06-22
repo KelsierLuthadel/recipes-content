@@ -46,7 +46,7 @@ ingredients:
     unit: ml
     name: double espresso
     raw: 30 ml double espresso, cooled
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 1
     unit: tsp

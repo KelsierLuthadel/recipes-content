@@ -27,7 +27,7 @@ ingredients:
     name: lamb mince
     raw: 250 g lamb mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 2
     unit: clove
@@ -60,14 +60,14 @@ ingredients:
     unit: tbsp
     name: olive oil
     raw: 4 tbsp olive oil for frying
-  - name: plain flour for dusting
+  - name: plain flour
     raw: Plain flour for dusting
   - qty: 3
     unit: tbsp
     name: olive oil
     raw: 3 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 2
     unit: clove

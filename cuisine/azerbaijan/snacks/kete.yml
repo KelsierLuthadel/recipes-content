@@ -37,7 +37,7 @@ ingredients:
     name: milk
     raw: 200 ml warm milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 30
     unit: g
@@ -64,7 +64,7 @@ ingredients:
     raw: 30 g fresh mint
   - qty: 30
     unit: g
-    name: spring onion
+    name: spring onions
     raw: 30 g spring onion
   - qty: 0.5
     unit: tsp
@@ -75,5 +75,5 @@ ingredients:
     name: pepper (black)
     raw: ¼ teaspoon ground black pepper
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk

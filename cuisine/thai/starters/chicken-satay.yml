@@ -32,7 +32,7 @@ mentions:
 ingredients:
   - qty: 1
     unit: kg
-    name: chicken breast
+    name: chicken breasts
     raw: 1kg skinless chicken breast or thigh fillets, cut into bite-size pieces
   - qty: 1
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     raw: 4 lime leaves, stalks removed and leaves finely chopped
   - qty: 1
     unit: tbsp
-    name: lemongrass
+    name: lemon grass
     raw: 1 tbsp thinly sliced lemongrass
   - qty: 1
     name: galangal
@@ -105,7 +105,7 @@ ingredients:
     name: sugar
     raw: 1 tbsp sugar
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 2
     unit: tbsp

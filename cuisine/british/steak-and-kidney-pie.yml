@@ -37,7 +37,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 200
     unit: g
@@ -71,5 +71,5 @@ ingredients:
     name: all butter shortcrust pastry
     raw: 375 g all-butter shortcrust pastry
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten with 1 tablespoon water

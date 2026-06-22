@@ -34,7 +34,7 @@ ingredients:
     name: cold lard
     raw: 125 g cold lard
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 150
     unit: ml
@@ -53,7 +53,7 @@ ingredients:
     name: swede
     raw: 250 g swede
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1.5
     unit: tsp
@@ -68,5 +68,5 @@ ingredients:
     name: butter
     raw: 30 g butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk

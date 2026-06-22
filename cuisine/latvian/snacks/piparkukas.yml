@@ -63,11 +63,11 @@ ingredients:
     unit: tsp
     name: pepper (black)
     raw: ½ teaspoon freshly ground black pepper
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 600
     unit: g

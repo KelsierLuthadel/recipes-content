@@ -47,7 +47,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 100 ml whole milk
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 400
     unit: g
@@ -67,5 +67,5 @@ ingredients:
     unit: tbsp
     name: flaked almonds
     raw: 1 tbsp flaked almonds
-  - name: icing sugar for dusting
+  - name: icing sugar
     raw: Icing sugar for dusting

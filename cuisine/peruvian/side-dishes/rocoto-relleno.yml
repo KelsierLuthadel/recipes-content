@@ -52,7 +52,7 @@ ingredients:
     name: beef
     raw: 400 g good minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
@@ -105,7 +105,7 @@ ingredients:
     name: queso fresco
     raw: 200 g queso fresco
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 1
     name: batch pastel de papa
@@ -113,5 +113,5 @@ ingredients:
   - qty: 1
     name: batch white rice
     raw: 1 batch white rice
-  - name: lime
+  - name: limes
     raw: A small wedge of lime

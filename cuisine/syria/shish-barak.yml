@@ -48,7 +48,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: garlic
@@ -82,7 +82,7 @@ ingredients:
     name: natural yogurt
     raw: 800 g full-fat natural yogurt
   - qty: 1
-    name: egg white
+    name: egg whites
     raw: 1 egg white
   - qty: 1
     unit: tbsp

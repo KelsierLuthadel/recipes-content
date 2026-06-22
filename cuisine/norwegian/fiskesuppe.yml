@@ -32,13 +32,13 @@ ingredients:
     name: olive oil
     raw: 1 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion, finely diced
   - qty: 2
     name: carrots
     raw: 2 medium carrots, finely diced
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 small leek, white part only, finely sliced
   - qty: 2
     unit: stick
@@ -76,7 +76,7 @@ ingredients:
     raw: 300 g cod fillet, skinned, cut into 3 cm chunks
   - qty: 300
     unit: g
-    name: salmon fillet
+    name: salmon fillets
     raw: 300 g salmon fillet, skinned, cut into 3 cm chunks
   - qty: 200
     unit: g
@@ -90,7 +90,7 @@ ingredients:
     unit: small handful
     name: chives
     raw: A small handful of fresh chives, finely chopped
-  - name: lemon
+  - name: lemons
     raw: Juice of half a lemon
   - name: salt and freshly ground white pepper
     raw: Salt and freshly ground white pepper

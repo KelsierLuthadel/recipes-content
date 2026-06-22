@@ -62,7 +62,7 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 2
     name: egg whites
@@ -99,10 +99,10 @@ ingredients:
     name: unsalted butter
     raw: 80 g unsalted butter
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp

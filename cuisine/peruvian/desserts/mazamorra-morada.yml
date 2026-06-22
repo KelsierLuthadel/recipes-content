@@ -42,7 +42,7 @@ ingredients:
     name: strip of orange peel
     raw: 1 strip of orange peel
   - qty: 1
-    name: apple
+    name: apples
     raw: 1 large apple , cored and chopped
   - qty: 1
     name: pineapple wedge
@@ -75,7 +75,7 @@ ingredients:
     name: lime juice
     raw: 1 tablespoon fresh lime juice
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - name: cinnamon
     raw: Ground cinnamon

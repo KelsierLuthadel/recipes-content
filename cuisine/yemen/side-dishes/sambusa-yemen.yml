@@ -33,7 +33,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -73,7 +73,7 @@ ingredients:
     name: parsley
     raw: 3 tablespoons fresh parsley
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - name: salt
     raw: salt
@@ -88,7 +88,7 @@ ingredients:
     raw: 2 tablespoons plain flour
   - qty: 1
     unit: l
-    name: vegetable oil
+    name: vegetable oil for deep frying
     raw: 1 litre vegetable oil for deep frying
   - name: lemon wedges and sahawiq
     raw: Lemon wedges and sahawiq, to serve

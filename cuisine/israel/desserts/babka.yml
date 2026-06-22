@@ -45,7 +45,7 @@ ingredients:
     name: eggs
     raw: 2 eggs
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 120
     unit: g

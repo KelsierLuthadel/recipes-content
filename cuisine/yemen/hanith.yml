@@ -79,7 +79,7 @@ ingredients:
     unit: ml
     name: water
     raw: 400 ml water
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 4
     name: bay leaves
@@ -88,7 +88,7 @@ ingredients:
     name: cardamom pods
     raw: 4 whole cardamom pods
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 500
     unit: g
@@ -99,7 +99,7 @@ ingredients:
     name: butter
     raw: 50 g butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -111,7 +111,7 @@ ingredients:
     name: cloves
     raw: 4 cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     name: bay leaves

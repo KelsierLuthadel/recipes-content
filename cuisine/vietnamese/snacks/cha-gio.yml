@@ -48,10 +48,10 @@ ingredients:
     name: glass noodles
     raw: 30 g dried glass noodles
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot
   - qty: 3
     name: garlic
@@ -60,7 +60,7 @@ ingredients:
     name: spring onions
     raw: 2 spring onions
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp
@@ -113,7 +113,7 @@ ingredients:
     raw: 1-2 bird's-eye chillies
   - qty: 1
     unit: tbsp
-    name: carrot
+    name: carrots
     raw: 1 tablespoon finely grated carrot
   - qty: 1
     name: butter lettuce

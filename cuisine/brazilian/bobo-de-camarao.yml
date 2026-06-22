@@ -73,7 +73,7 @@ ingredients:
     unit: tsp
     name: sea salt
     raw: 1 teaspoon fine sea salt
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     name: coriander
@@ -82,7 +82,7 @@ ingredients:
     unit: g
     name: prawns
     raw: 600 g large prawns
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 2
     name: garlic

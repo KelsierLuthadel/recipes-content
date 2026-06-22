@@ -26,10 +26,10 @@ ingredients:
     name: butter
     raw: 50 grams butter
   - qty: 0.5
-    name: carrot
+    name: carrots
     raw: ½ carrot
   - qty: 0.5
-    name: onion
+    name: onions
     raw: ½ onion
   - qty: 1
     name: celery

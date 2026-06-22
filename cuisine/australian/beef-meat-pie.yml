@@ -35,7 +35,7 @@ ingredients:
     name: cold unsalted butter
     raw: 150 g cold unsalted butter, cubed
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 5
     unit: tbsp
@@ -46,7 +46,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: garlic
@@ -90,7 +90,7 @@ ingredients:
     name: sheet ready rolled all butter puff pastry
     raw: 1 sheet ready-rolled all-butter puff pastry
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - name: tomato sauce
     raw: Tomato sauce , squeezed on top, ideally a hot day, ideally at a sports ground

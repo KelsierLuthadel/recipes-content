@@ -25,7 +25,7 @@ ingredients:
     name: tuna in olive oil
     raw: 1 tin tuna in olive oil, drained and flaked
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, very finely chopped
   - qty: 2
     unit: tbsp
@@ -54,7 +54,7 @@ ingredients:
     name: sunflower oil for shallow frying
     raw: 1 litre sunflower oil for shallow frying
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon, cut in wedges
   - qty: 2
     unit: tbsp

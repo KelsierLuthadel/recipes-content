@@ -57,7 +57,7 @@ ingredients:
     raw: salt
   - name: pepper
     raw: pepper
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - qty: 75
     unit: g

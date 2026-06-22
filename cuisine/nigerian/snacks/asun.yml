@@ -30,7 +30,7 @@ ingredients:
     name: goat meat
     raw: 1 kg bone-in goat meat
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -56,7 +56,7 @@ ingredients:
     name: bell pepper (red)
     raw: 1 red bell pepper
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -90,7 +90,7 @@ ingredients:
     name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 0.5
-    name: onion
+    name: onions
     raw: ½ small onion
   - qty: 2
     name: spring onions

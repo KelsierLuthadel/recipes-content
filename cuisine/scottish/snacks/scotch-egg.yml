@@ -22,7 +22,7 @@ ingredients:
     name: eggs
     raw: 6 large eggs
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 small egg
   - qty: 600
     unit: g

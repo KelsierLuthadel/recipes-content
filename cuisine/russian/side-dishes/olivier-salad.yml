@@ -30,7 +30,7 @@ ingredients:
     raw: 250 g carrots
   - qty: 200
     unit: g
-    name: chicken breast
+    name: chicken breasts
     raw: 200 g cooked chicken breast
   - qty: 4
     name: eggs
@@ -44,7 +44,7 @@ ingredients:
     name: peas
     raw: 200 g frozen peas
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 225
     unit: g

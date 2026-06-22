@@ -28,7 +28,7 @@ ingredients:
     name: milk
     raw: 500 ml milk
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod
   - qty: 75
     unit: g

@@ -48,7 +48,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 2
-    name: lemongrass
+    name: lemon grass
     raw: 2 stalks lemongrass
   - qty: 4
     name: kaffir lime leaves
@@ -73,7 +73,7 @@ ingredients:
     name: chayote
     raw: 200 g chayote
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 200
     unit: g
@@ -96,5 +96,5 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime

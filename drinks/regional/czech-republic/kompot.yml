@@ -15,7 +15,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: mixed fruit (one
+    name: mixed fruit one
     raw: "500 g mixed fruit (one or a combination of:"
   - qty: 1.5
     unit: l
@@ -26,7 +26,7 @@ ingredients:
     name: caster sugar
     raw: 80-100 g caster sugar
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -34,9 +34,9 @@ ingredients:
   - qty: 1
     name: star anise
     raw: 1 star anise
-  - name: lemon
+  - name: lemons
     raw: Zest of half a lemon, in strips
-  - name: lemon
+  - name: lemons
     raw: Juice of half a lemon
   - qty: 1
     unit: small pinch

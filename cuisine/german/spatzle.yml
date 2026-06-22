@@ -30,7 +30,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 teaspoon salt
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - qty: 50
     unit: g

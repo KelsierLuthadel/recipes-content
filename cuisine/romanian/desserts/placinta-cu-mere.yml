@@ -34,7 +34,7 @@ ingredients:
     unit: tsp
     name: salt
     raw: 1 tsp salt
-  - name: more flour for dusting
+  - name: more flour
     raw: More flour for dusting
   - qty: 1
     unit: kg
@@ -48,7 +48,7 @@ ingredients:
     unit: tbsp
     name: cinnamon
     raw: 1 tbsp ground cinnamon
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 1
     unit: tbsp

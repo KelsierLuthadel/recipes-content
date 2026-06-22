@@ -28,7 +28,7 @@ ingredients:
     name: water
     raw: 2 ½ litres water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -85,7 +85,7 @@ ingredients:
     raw: White rice
   - name: papa salada
     raw: Papa salada
-  - name: avocado
+  - name: avocados
     raw: Sliced ripe avocado
   - name: parsley
     raw: Chopped fresh parsley

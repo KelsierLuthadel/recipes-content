@@ -32,7 +32,7 @@ ingredients:
     raw: 1 tablespoon ground cinnamon
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon ground nutmeg
   - qty: 1
     unit: tsp
@@ -83,7 +83,7 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 2
     unit: tbsp

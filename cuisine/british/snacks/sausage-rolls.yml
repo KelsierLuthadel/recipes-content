@@ -24,7 +24,7 @@ ingredients:
     name: sausagemeat
     raw: 600 g good-quality sausagemeat
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     name: sheets all butter puff pastry
     raw: 2 sheets all-butter puff pastry , chilled
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tbsp

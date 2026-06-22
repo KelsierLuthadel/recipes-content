@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: baguette
+    name: baguettes
     raw: 1 baguette
   - qty: 150
     unit: g

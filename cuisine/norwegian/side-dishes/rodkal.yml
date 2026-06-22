@@ -19,7 +19,7 @@ ingredients:
     name: cabbage (red)
     raw: 1 large red cabbage , outer leaves removed, cored and finely shredded
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely diced
   - qty: 2
     name: dessert apples
@@ -48,7 +48,7 @@ ingredients:
     name: cloves
     raw: 4 whole cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: juniper berries

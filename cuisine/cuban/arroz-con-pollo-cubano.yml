@@ -53,7 +53,7 @@ ingredients:
     unit: tsp
     name: pepper (black)
     raw: 1 teaspoon ground black pepper
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 6
     name: garlic
@@ -63,7 +63,7 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
@@ -141,7 +141,7 @@ ingredients:
     raw: 1 small bunch fresh coriander
   - name: lime wedges
     raw: Lime wedges
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: salad (green)
     raw: Fresh green salad

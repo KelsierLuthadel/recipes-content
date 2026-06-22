@@ -30,7 +30,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tablespoons sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -64,7 +64,7 @@ ingredients:
     name: water
     raw: 250 ml water
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 500
     unit: g

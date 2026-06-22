@@ -33,7 +33,7 @@ ingredients:
     name: sunflower oil
     raw: 1 tablespoon sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
@@ -96,7 +96,7 @@ ingredients:
     raw: 1 small bunch chopped flat-leaf parsley
   - qty: 1
     unit: generous pinch
-    name: nutmeg
+    name: nutmegs
     raw: A generous pinch of grated nutmeg
   - name: salt and white pepper
     raw: Salt and white pepper to taste

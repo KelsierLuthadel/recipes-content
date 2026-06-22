@@ -47,7 +47,7 @@ ingredients:
     name: mayonnaise
     raw: 1 tablespoon mayonnaise
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 small shallot, very finely chopped
   - qty: 2
     unit: tbsp
@@ -85,7 +85,7 @@ ingredients:
     raw: 8 slices dark Belgian rye bread OR a small fresh baguette, sliced
   - name: salad leaves
     raw: A few salad leaves
-  - name: lemon wedge
+  - name: lemon wedges
     raw: A lemon wedge per person
   - name: optional
     raw: "Optional: a small mound of Belgian frites alongside"

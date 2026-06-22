@@ -45,7 +45,7 @@ ingredients:
     name: sunflower oil
     raw: 1 tablespoon sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 4
     unit: clove
@@ -91,9 +91,9 @@ ingredients:
     name: lime juice
     raw: 1 tablespoon fresh lime juice
   - qty: 2
-    name: scallion
+    name: scallions
     raw: 2 stalks scallion, sliced thin
-  - name: nutmeg
+  - name: nutmegs
     raw: A small grating of fresh nutmeg
   - name: goes alongside bajan stew chicken
     raw: Goes alongside Bajan stew chicken, fried fish, Sunday roast pork, grilled chicken, or any Bajan main.

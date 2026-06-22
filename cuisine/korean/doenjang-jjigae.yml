@@ -51,14 +51,14 @@ ingredients:
     name: potato
     raw: 1 potato
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette
   - qty: 100
     unit: g
     name: shiitake
     raw: 100 g fresh shiitake
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: chillies (green)

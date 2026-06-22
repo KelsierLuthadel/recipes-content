@@ -45,7 +45,7 @@ ingredients:
     name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 4
     unit: tbsp
@@ -63,5 +63,5 @@ ingredients:
     name: olive oil
     raw: 1 tablespoon olive oil
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon

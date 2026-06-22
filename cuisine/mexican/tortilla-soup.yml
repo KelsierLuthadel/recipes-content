@@ -26,7 +26,7 @@ ingredients:
     name: olive oil
     raw: 5 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -53,10 +53,10 @@ ingredients:
     name: buffalo mozzarella
     raw: 200 grams buffalo mozzarella
   - qty: 1
-    name: avocado
+    name: avocados
     raw: 1 ripe avocado
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
     name: flat leaf parsley

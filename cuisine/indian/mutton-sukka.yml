@@ -43,7 +43,7 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -82,7 +82,7 @@ ingredients:
     name: cloves
     raw: 2 cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 3
     unit: tbsp
@@ -113,5 +113,5 @@ ingredients:
     name: coriander
     raw: A handful of coriander
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime

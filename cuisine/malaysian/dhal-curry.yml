@@ -32,7 +32,7 @@ ingredients:
     name: chana dal
     raw: 250 g chana dal
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -94,7 +94,7 @@ ingredients:
     name: chilli (red)
     raw: 1 long red chilli
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime
   - name: coriander
     raw: Fresh coriander

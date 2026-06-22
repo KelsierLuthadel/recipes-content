@@ -16,15 +16,15 @@ ingredients:
     unit: ml
     name: dark rum
     raw: 700 ml dark rum
-  - name: orange
+  - name: oranges
     raw: Zest of 1 large orange
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod, split lengthways
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves

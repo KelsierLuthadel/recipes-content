@@ -72,12 +72,12 @@ ingredients:
     unit: tsp
     name: sweet paprika
     raw: 1 tsp sweet paprika
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of fresh nutmeg
   - name: salt and black pepper
     raw: Salt and black pepper
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten
   - qty: 1.5
     unit: l

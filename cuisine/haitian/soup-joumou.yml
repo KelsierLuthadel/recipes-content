@@ -34,7 +34,7 @@ ingredients:
     name: limes
     raw: 2 limes
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 4
     name: garlic
@@ -58,7 +58,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -111,7 +111,7 @@ ingredients:
     name: butter
     raw: 30 g butter
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
     name: parsley

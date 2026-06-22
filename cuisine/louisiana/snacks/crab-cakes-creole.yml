@@ -30,7 +30,7 @@ ingredients:
     name: lump crab meat
     raw: 500 g lump crab meat
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     unit: stick
@@ -43,7 +43,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 4
     unit: tbsp

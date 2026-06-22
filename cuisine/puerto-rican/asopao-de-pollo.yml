@@ -59,7 +59,7 @@ ingredients:
     name: sofrito
     raw: 4 tablespoons sofrito
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
@@ -129,5 +129,5 @@ ingredients:
     raw: Pique
   - name: tostones
     raw: Tostones
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado

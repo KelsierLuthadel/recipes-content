@@ -44,7 +44,7 @@ ingredients:
   - name: sea salt
     raw: Fine sea salt
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 1
     unit: tbsp
@@ -111,7 +111,7 @@ ingredients:
     name: warm satay sauce
     raw: 4 tablespoons warm satay sauce
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small raw onion, very finely chopped
   - name: curry mayo
     raw: Curry mayo

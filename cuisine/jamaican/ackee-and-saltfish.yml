@@ -23,13 +23,13 @@ ingredients:
     unit: g
     name: salt cod
     raw: 250 g boneless salt cod
-  - name: water for soaking
+  - name: water
     raw: Water for soaking
   - qty: 1
     name: ackee
     raw: 1 large tin ackee
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 1
     name: bell pepper (red)

@@ -14,10 +14,10 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 whole large egg
   - qty: 15
     unit: g

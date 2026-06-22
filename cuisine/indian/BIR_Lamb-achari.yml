@@ -47,7 +47,7 @@ ingredients:
     name: kashmiri dried red chillies
     raw: 2 Kashmiri dried red chillies, split lengthways and deseeded
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, thinly sliced into rings
   - qty: 2
     unit: tbsp
@@ -103,7 +103,7 @@ ingredients:
   - name: salt
     raw: Salt, to taste
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 3
     unit: tbsp

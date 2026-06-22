@@ -41,11 +41,11 @@ ingredients:
     name: /2 tsp grated nutmeg
     raw: 1/2 tsp grated nutmeg
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod, split
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 1
     unit: pinch

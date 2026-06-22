@@ -22,7 +22,7 @@ ingredients:
     name: basmati rice
     raw: 450 grams basmati rice
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: large knob
@@ -35,7 +35,7 @@ ingredients:
     name: cloves
     raw: 8 whole cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: pinch

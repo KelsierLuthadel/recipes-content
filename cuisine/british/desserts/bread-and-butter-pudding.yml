@@ -31,13 +31,13 @@ ingredients:
     name: mixed peel
     raw: 50 g mixed peel
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 4
     name: egg yolks
     raw: 4 egg yolks
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 100
     unit: g
@@ -55,13 +55,13 @@ ingredients:
     unit: ml
     name: double cream
     raw: 300 ml double cream
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of fresh nutmeg
   - qty: 2
     unit: tbsp
     name: demerara sugar
     raw: 2 tablespoons demerara sugar
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - name: pouring cream
     raw: Pouring cream, custard, or vanilla ice cream

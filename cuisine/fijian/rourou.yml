@@ -28,7 +28,7 @@ ingredients:
     name: coconut oil
     raw: 3 tbsp coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
@@ -60,5 +60,5 @@ ingredients:
     name: coconut cream
     raw: 100 ml thick coconut cream
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced

@@ -68,7 +68,7 @@ ingredients:
     raw: 200 g fresh okra, sliced into 4 mm rounds
   - qty: 1
     unit: l
-    name: water + extra for adjusting
+    name: water + extra
     raw: 1 litre water + extra for adjusting
   - qty: 2
     unit: tsp
@@ -106,7 +106,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tablespoons sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion, finely chopped
   - qty: 1
     name: bell pepper (green)

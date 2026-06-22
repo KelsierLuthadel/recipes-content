@@ -37,7 +37,7 @@ ingredients:
     raw: ½ teaspoon ground cinnamon
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 1
     unit: pinch
@@ -48,7 +48,7 @@ ingredients:
     name: vanilla extract
     raw: 1 teaspoon vanilla extract
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 50
     unit: ml
@@ -64,11 +64,11 @@ ingredients:
     unit: tbsp
     name: desiccated coconut
     raw: 2 tablespoons desiccated coconut
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
-  - name: caster sugar for dusting
+  - name: caster sugar
     raw: Caster sugar for dusting
-  - name: cinnamon for dusting
+  - name: cinnamon
     raw: Ground cinnamon for dusting
   - name: honey
     raw: Honey for drizzling

@@ -47,7 +47,7 @@ ingredients:
     name: galangal
     raw: 4 cm piece galangal
   - qty: 1
-    name: lemongrass stalk
+    name: lemon grass
     raw: 1 lemongrass stalk
   - qty: 1
     unit: tsp
@@ -61,13 +61,13 @@ ingredients:
     name: chicken
     raw: 8 pieces chicken
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: cup
     name: cornflour
     raw: 1 cup cornflour
-  - name: vegetable oil
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep frying
   - name: sea salt
     raw: Sea salt to taste

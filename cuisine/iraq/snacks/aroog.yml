@@ -39,7 +39,7 @@ ingredients:
     name: lamb
     raw: 400 g lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -83,7 +83,7 @@ ingredients:
     name: salt
     raw: 1 ½ teaspoons salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tbsp

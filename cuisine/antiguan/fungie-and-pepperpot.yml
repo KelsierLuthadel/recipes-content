@@ -30,7 +30,7 @@ ingredients:
     name: pork shoulder
     raw: 300 g pork shoulder, cubed
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, chopped
   - qty: 3
     name: garlic
@@ -52,7 +52,7 @@ ingredients:
     name: pumpkin
     raw: 300 g pumpkin, peeled and cubed
   - qty: 1
-    name: eggplant
+    name: eggplants
     raw: 1 small eggplant, cubed
   - qty: 1
     name: scotch bonnet chillies

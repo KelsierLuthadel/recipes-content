@@ -40,7 +40,7 @@ ingredients:
     name: chillies (green)
     raw: 2 tablespoons finely chopped green chillies
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     raw: 1 teaspoon salt
   - name: pepper (black)
     raw: Black pepper to taste
-  - name: oil for basting
+  - name: oil
     raw: Oil for basting
   - name: lemon wedges
     raw: Lemon wedges

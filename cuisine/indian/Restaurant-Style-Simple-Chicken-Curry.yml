@@ -31,7 +31,7 @@ mentions:
   - base-ingredients/curry-powder/garam-masala
 ingredients:
   - qty: 3
-    name: vegetable
+    name: vegetables
     raw: 3 to 4 tbsp vegetable, sunflower, or olive oil
   - qty: 1
     name: large
@@ -77,7 +77,7 @@ ingredients:
     raw: 2 to 3 tsp lemon juice
   - qty: 150
     unit: g
-    name: chicken breast
+    name: chicken breasts
     raw: 150 g boneless chicken breast or thigh per person, chopped to your preferred size
   - name: pre cooked vegetables of choice
     raw: pre-cooked vegetables of choice

@@ -59,7 +59,7 @@ ingredients:
     raw: 2 teaspoons ground cinnamon
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 0.25
     unit: tsp
@@ -70,14 +70,14 @@ ingredients:
     name: salt
     raw: ¼ teaspoon salt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 30
     unit: g
     name: unsalted butter
     raw: 30 g unsalted butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp

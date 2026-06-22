@@ -49,14 +49,14 @@ ingredients:
     unit: tsp
     name: pepper (black)
     raw: 1 teaspoon ground black pepper
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 3
     unit: tbsp
     name: olive oil
     raw: 3 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)

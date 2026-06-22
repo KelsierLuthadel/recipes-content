@@ -33,7 +33,7 @@ ingredients:
     name: beef mince
     raw: 600 g beef mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: tomato
@@ -45,7 +45,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 4
     unit: tbsp

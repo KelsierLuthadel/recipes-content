@@ -20,7 +20,7 @@ ingredients:
     unit: g
     name: all butter puff pastry
     raw: 500 g all-butter puff pastry, defrosted
-  - name: flour for rolling
+  - name: flour
     raw: Flour for rolling
   - qty: 300
     unit: g
@@ -31,7 +31,7 @@ ingredients:
     name: cottage cheese
     raw: 100 g cottage cheese or ricotta
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp
@@ -48,7 +48,7 @@ ingredients:
     name: /2 tsp sweet paprika
     raw: 1/2 tsp sweet paprika
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten with 1 tbsp milk
   - qty: 1
     unit: tbsp

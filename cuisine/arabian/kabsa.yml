@@ -61,7 +61,7 @@ ingredients:
     name: limes
     raw: 2 dried limes
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 6
     name: cardamom pods
@@ -108,7 +108,7 @@ ingredients:
     name: tomatoes
     raw: 4 tomatoes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: chillies (green)
@@ -117,7 +117,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     name: coriander

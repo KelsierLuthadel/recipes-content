@@ -27,7 +27,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 300 ml whole milk
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - qty: 1
     unit: tsp

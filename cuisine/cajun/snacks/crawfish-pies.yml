@@ -48,7 +48,7 @@ ingredients:
     name: cold lard
     raw: 50 g cold lard, cubed
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 6.5
     unit: tbsp
@@ -63,7 +63,7 @@ ingredients:
     name: plain flour
     raw: 2 tablespoons plain flour
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion , finely chopped
   - qty: 1
     name: celery
@@ -113,7 +113,7 @@ ingredients:
   - name: pepper
     raw: pepper
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten with 1 tablespoon water
   - qty: 1
     unit: l

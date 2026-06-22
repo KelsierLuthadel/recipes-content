@@ -50,7 +50,7 @@ ingredients:
     name: eggs
     raw: 4 eggs
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 200
     unit: g
@@ -61,7 +61,7 @@ ingredients:
     name: vanilla extract
     raw: 2 teaspoons vanilla extract
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     unit: tbsp

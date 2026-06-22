@@ -33,7 +33,7 @@ ingredients:
     name: pork
     raw: 300 g minced pork
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 4
     name: anchovy fillets
@@ -47,7 +47,7 @@ ingredients:
     name: stale white bread
     raw: 80 g stale white bread
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 1
     unit: tbsp
@@ -61,14 +61,14 @@ ingredients:
     unit: tsp
     name: pepper (white)
     raw: 1 teaspoon coarsely ground white pepper
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 1.5
     unit: l
     name: chicken
     raw: 1.5 litres chicken or vegetable stock
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: bay leaves
@@ -83,7 +83,7 @@ ingredients:
     name: allspice berries
     raw: 4 allspice berries
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 small carrot
   - name: thyme
     raw: A small thyme sprig

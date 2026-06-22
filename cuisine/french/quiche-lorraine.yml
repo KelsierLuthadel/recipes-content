@@ -31,7 +31,7 @@ ingredients:
     name: salt
     raw: ½ teaspoon salt
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 2.5
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 200 ml whole milk
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of fresh nutmeg
   - name: salt
     raw: salt

@@ -46,7 +46,7 @@ ingredients:
     unit: sprig
     name: thyme + extra
     raw: 2 sprigs fresh thyme + extra for serving
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 2
     unit: tbsp
@@ -73,7 +73,7 @@ ingredients:
     name: coconut oil
     raw: 2 tablespoons coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
@@ -99,7 +99,7 @@ ingredients:
     name: bay leaves
     raw: 2 fresh bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small cinnamon stick
   - qty: 1
     unit: tbsp
@@ -110,7 +110,7 @@ ingredients:
   - qty: 2
     name: plantains
     raw: 2 ripe plantains
-  - name: lime
+  - name: limes
     raw: A wedge of lime
   - qty: 1
     unit: small handful

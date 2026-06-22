@@ -107,7 +107,7 @@ ingredients:
     unit: tbsp
     name: adobo sauce from the tin
     raw: 1 tablespoon adobo sauce from the tin
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     name: garlic
@@ -128,7 +128,7 @@ ingredients:
   - qty: 2
     name: avocados
     raw: 2 ripe avocados
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp

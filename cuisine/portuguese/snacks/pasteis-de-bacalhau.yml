@@ -45,7 +45,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -63,7 +63,7 @@ ingredients:
     raw: ¾ teaspoon white pepper
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - name: salt only if needed
     raw: Salt only IF needed

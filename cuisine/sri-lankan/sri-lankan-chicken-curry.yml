@@ -43,7 +43,7 @@ ingredients:
     name: cardamom pods
     raw: 4 cardamom pods
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -80,10 +80,10 @@ ingredients:
     name: pandan leaf
     raw: 1 pandan leaf
   - qty: 1
-    name: lemongrass
+    name: lemon grass
     raw: 1 stalk lemongrass
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     unit: tsp
@@ -113,5 +113,5 @@ ingredients:
     name: salt
     raw: 2 teaspoons salt
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime

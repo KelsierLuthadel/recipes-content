@@ -93,7 +93,7 @@ ingredients:
     raw: a few splashes Worcestershire sauce
   - qty: 1
     unit: tsp
-    name: lemon
+    name: lemons
     raw: 1 tsp lemon or lime juice
   - qty: 10
     name: sultanas
@@ -110,5 +110,5 @@ ingredients:
     raw: a small pinch of Garam Masala
   - name: coriander
     raw: fresh coriander, finely chopped
-  - name: hard boiled egg
+  - name: hard boiled eggs
     raw: half a hard-boiled egg

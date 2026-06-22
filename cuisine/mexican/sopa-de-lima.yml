@@ -60,7 +60,7 @@ ingredients:
     name: bay leaves
     raw: 4 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     unit: tsp
@@ -90,10 +90,10 @@ ingredients:
     name: coriander
     raw: 1 small bunch fresh coriander
   - qty: 4
-    name: lime
+    name: limes
     raw: 4 thin slices of fresh lime
   - qty: 1
-    name: avocado
+    name: avocados
     raw: 1 ripe avocado
   - qty: 1
     name: onion (red)

@@ -31,7 +31,7 @@ ingredients:
     name: beef chuck
     raw: 600 g ground beef chuck
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     name: garlic
@@ -116,5 +116,5 @@ ingredients:
     name: cayenne
     raw: 1 tsp cayenne
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion

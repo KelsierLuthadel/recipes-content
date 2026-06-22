@@ -35,7 +35,7 @@ ingredients:
     name: lamb
     raw: 300 g minced lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -68,7 +68,7 @@ ingredients:
     name: pepper (black)
     raw: 1 teaspoon ground black pepper
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 2
     unit: tbsp

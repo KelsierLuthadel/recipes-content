@@ -13,7 +13,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 fresh lime, cut into 8 wedges, the white central pith removed
   - qty: 2
     unit: tsp
@@ -32,5 +32,5 @@ ingredients:
   - qty: 3.5
     name: mint leaves
     raw: 3-4 fresh mint leaves
-  - name: lime
+  - name: limes
     raw: An extra wedge of lime for the rim

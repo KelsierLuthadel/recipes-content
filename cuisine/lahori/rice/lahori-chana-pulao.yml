@@ -37,7 +37,7 @@ ingredients:
     name: bay leaf
     raw: 1 bay leaf
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -58,10 +58,10 @@ ingredients:
     name: ghee
     raw: 4 tablespoons ghee
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cardamom pods (green)
@@ -118,5 +118,5 @@ ingredients:
   - name: reserved fried onion
     raw: Reserved fried onion
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon

@@ -36,7 +36,7 @@ ingredients:
     name: unsalted butter
     raw: 30 g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: anchovy fillets in oil
@@ -77,7 +77,7 @@ ingredients:
   - name: extra virgin olive oil
     raw: Extra-virgin olive oil to drizzle
   - qty: 1
-    name: baguette
+    name: baguettes
     raw: 1 baguette
   - qty: 3
     unit: tbsp

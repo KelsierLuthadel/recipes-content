@@ -31,7 +31,7 @@ ingredients:
     name: sour cream
     raw: 60 g thick sour cream
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 0.5
     unit: tsp
@@ -57,7 +57,7 @@ ingredients:
     name: sour cream
     raw: 1.5 tablespoons sour cream
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 1.5
     unit: tbsp
@@ -80,7 +80,7 @@ ingredients:
     name: sour cream
     raw: 1.5 tablespoons sour cream
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 2.5
     unit: tbsp

@@ -38,7 +38,7 @@ ingredients:
     name: cinnamon
     raw: ½ teaspoon ground cinnamon
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 150
     unit: g
@@ -83,7 +83,7 @@ ingredients:
     name: caster sugar
     raw: 60 g caster sugar
   - qty: 1
-    name: vanilla pod
+    name: vanilla pods
     raw: 1 vanilla pod or 1 teaspoon vanilla extract
   - qty: 1
     unit: tbsp

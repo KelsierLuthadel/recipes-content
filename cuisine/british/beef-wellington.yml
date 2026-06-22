@@ -75,7 +75,7 @@ ingredients:
     unit: g
     name: all butter puff pastry
     raw: 500 g all-butter puff pastry, chilled
-  - name: plain flour for dusting
+  - name: plain flour
     raw: Plain flour for dusting
   - qty: 2
     name: egg yolks beaten with 1 tablespoon water

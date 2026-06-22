@@ -28,7 +28,7 @@ ingredients:
     name: vermicelli
     raw: 80 g vermicelli
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: tbsp
@@ -51,7 +51,7 @@ ingredients:
     name: pepper (black)
     raw: ½ teaspoon ground black pepper
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: small handful

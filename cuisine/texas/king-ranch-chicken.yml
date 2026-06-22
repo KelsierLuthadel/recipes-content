@@ -30,13 +30,13 @@ ingredients:
     name: shredded chicken
     raw: 1.2 kg cooked shredded chicken ; about 4 cups shredded
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
     raw: 1 large green bell pepper
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 fresh jalapeño
   - qty: 6
     name: garlic
@@ -111,7 +111,7 @@ ingredients:
     raw: Refried beans
   - name: pico de gallo
     raw: Pico de gallo
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: sour cream
     raw: Sour cream

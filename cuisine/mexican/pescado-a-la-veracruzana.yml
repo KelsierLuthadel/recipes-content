@@ -33,7 +33,7 @@ ingredients:
     unit: tsp
     name: pepper (black)
     raw: 1 teaspoon ground black pepper
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: tbsp
@@ -110,13 +110,13 @@ ingredients:
     raw: 1 tablespoon fresh oregano
   - name: lime wedges
     raw: Lime wedges
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: plain white rice
     raw: Plain white rice
   - name: warm corn tortillas
     raw: Warm corn tortillas
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: salad
     raw: Fresh salad

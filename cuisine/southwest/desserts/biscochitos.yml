@@ -28,13 +28,13 @@ ingredients:
     name: caster sugar
     raw: 200 g caster sugar
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 4
     unit: tbsp
     name: brandy
     raw: 4 tablespoons brandy
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 1.5
     unit: tsp

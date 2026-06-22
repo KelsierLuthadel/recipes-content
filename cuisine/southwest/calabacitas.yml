@@ -31,7 +31,7 @@ ingredients:
     name: sweet corn kernels
     raw: 300 g sweet corn kernels
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -71,7 +71,7 @@ ingredients:
     unit: tbsp
     name: coriander
     raw: 2 tablespoons fresh coriander
-  - name: spring onion
+  - name: spring onions
     raw: Sliced spring onion
   - name: cheese
     raw: Extra cheese

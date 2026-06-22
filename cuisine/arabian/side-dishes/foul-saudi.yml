@@ -57,7 +57,7 @@ ingredients:
     name: chilli
     raw: ½ teaspoon ground chilli
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 3
     unit: tbsp
@@ -71,7 +71,7 @@ ingredients:
     name: tomato
     raw: 1 tomato
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - name: lemon wedges
     raw: Lemon wedges

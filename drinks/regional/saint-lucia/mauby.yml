@@ -21,7 +21,7 @@ ingredients:
     name: water
     raw: 2 litres water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 6
     name: cloves
@@ -45,7 +45,7 @@ ingredients:
     unit: g
     name: cane sugar
     raw: 350 g cane sugar
-  - name: additional 1 2 litres cold water for diluting
+  - name: additional 1 2 litres cold water
     raw: Additional 1-2 litres cold water for diluting
   - name: plenty of ice
     raw: Plenty of ice for serving

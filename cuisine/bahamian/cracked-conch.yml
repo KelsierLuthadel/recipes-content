@@ -25,7 +25,7 @@ ingredients:
     name: cleaned conch meat
     raw: 600 g cleaned conch meat
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
     unit: tsp
@@ -74,7 +74,7 @@ ingredients:
     name: cabbage (white)
     raw: ¼ small white cabbage
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 2
     name: spring onions
@@ -88,7 +88,7 @@ ingredients:
     name: wine vinegar (white)
     raw: 1 tablespoon white wine vinegar
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 0.5
     unit: tsp

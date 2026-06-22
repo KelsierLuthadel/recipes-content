@@ -27,7 +27,7 @@ ingredients:
     name: olive oil
     raw: 1 tablespoon olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: spring onions
@@ -52,7 +52,7 @@ ingredients:
   - qty: 1
     name: parsley
     raw: A small bunch of parsley
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - name: salt
     raw: salt

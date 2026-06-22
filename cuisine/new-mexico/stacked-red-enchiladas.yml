@@ -34,7 +34,7 @@ ingredients:
     name: chicken stock
     raw: 600 ml hot chicken stock
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 8
     name: garlic
@@ -68,7 +68,7 @@ ingredients:
     name: shredded chicken
     raw: 600 g cooked shredded chicken
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 1
     unit: tsp
@@ -98,7 +98,7 @@ ingredients:
   - qty: 1
     name: onion (red)
     raw: 1 small red onion
-  - name: jalapeno
+  - name: jalapenos
     raw: Sliced raw jalapeño
   - name: lime wedges
     raw: Lime wedges
@@ -108,5 +108,5 @@ ingredients:
     raw: Refried beans
   - name: sour cream
     raw: Sour cream
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado

@@ -35,14 +35,14 @@ ingredients:
     name: cold butter
     raw: 150 g cold butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 4.5
     unit: tbsp
     name: water
     raw: 4-5 tablespoons cold water
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: kg
@@ -57,7 +57,7 @@ ingredients:
     name: smoked back bacon
     raw: 300 g smoked back bacon
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     unit: clove

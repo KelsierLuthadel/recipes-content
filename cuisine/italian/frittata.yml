@@ -21,10 +21,10 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette or other vegetables
   - qty: 200
     unit: g
@@ -48,5 +48,5 @@ ingredients:
     raw: salt
   - name: pepper
     raw: pepper
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg

@@ -30,7 +30,7 @@ ingredients:
     name: hot chicken
     raw: 450 ml hot chicken or vegetable stock
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 250
     unit: g
@@ -41,7 +41,7 @@ ingredients:
     name: ghee
     raw: 2 tbsp ghee
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cardamom pods (green)

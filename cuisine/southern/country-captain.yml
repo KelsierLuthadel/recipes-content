@@ -47,7 +47,7 @@ ingredients:
     name: vegetable oil
     raw: 4 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
     name: bell pepper (green)
@@ -97,7 +97,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 80
     unit: g
@@ -118,7 +118,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - name: plain white rice
     raw: Plain white rice

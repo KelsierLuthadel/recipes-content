@@ -56,7 +56,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tbsp vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
@@ -80,7 +80,7 @@ ingredients:
     raw: 1/2 tsp ground cumin
   - qty: 250
     unit: g
-    name: chicken thigh
+    name: chicken thighs
     raw: 250 g chicken thigh, finely chopped
   - qty: 300
     unit: g

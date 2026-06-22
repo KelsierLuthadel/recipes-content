@@ -71,13 +71,13 @@ ingredients:
     name: dark brown sugar
     raw: 3 tbsp dark brown sugar
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, chopped
   - qty: 3
     name: garlic
     raw: 3 garlic cloves, crushed
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 medium carrot, diced
   - qty: 1
     name: pepper (red)
@@ -119,7 +119,7 @@ ingredients:
     unit: handful
     name: parsley
     raw: A handful of fresh parsley, chopped
-  - name: avocado
+  - name: avocados
     raw: Slices of ripe avocado
   - name: wedges of lime
     raw: Wedges of lime

@@ -21,7 +21,7 @@ ingredients:
     name: water
     raw: 200 ml cold water
   - qty: 4
-    name: lime
+    name: limes
     raw: 4 small slices of lime
   - qty: 200
     unit: ml
@@ -32,7 +32,7 @@ ingredients:
     name: angostura bitters
     raw: 4 dashes Angostura bitters
   - qty: 4
-    name: lime
+    name: limes
     raw: 4 small slices of lime
   - qty: 100
     unit: ml
@@ -43,7 +43,7 @@ ingredients:
     name: chilled sobolo
     raw: 400 ml chilled sobolo
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced
   - qty: 4
     unit: dash

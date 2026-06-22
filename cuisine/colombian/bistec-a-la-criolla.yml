@@ -29,7 +29,7 @@ ingredients:
     unit: g
     name: top sirloin
     raw: 800 g top sirloin or muchacho or skirt steak
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 4
     name: garlic
@@ -117,7 +117,7 @@ ingredients:
     raw: Sweet plantains
   - name: fried eggs
     raw: Fried eggs
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: arepas
     raw: Arepas

@@ -61,14 +61,14 @@ ingredients:
     name: flat leaf parsley
     raw: 2 tbsp finely chopped flat-leaf parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     unit: tsp
     name: pepper (black)
     raw: 1 tsp freshly ground black pepper
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: carrots
@@ -80,7 +80,7 @@ ingredients:
     name: garlic
     raw: 1 head garlic
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     name: thyme

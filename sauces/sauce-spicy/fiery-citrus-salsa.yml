@@ -17,7 +17,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 1
     name: apple (green)
@@ -32,7 +32,7 @@ ingredients:
     name: mint leaves
     raw: 8 fresh mint leaves
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: salt
     raw: salt

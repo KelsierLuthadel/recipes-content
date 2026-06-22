@@ -36,7 +36,7 @@ ingredients:
     unit: ml
     name: sunflower oil
     raw: 50 ml sunflower oil
-  - name: oil for stretching
+  - name: oil
     raw: Extra oil for stretching
   - qty: 300
     unit: g
@@ -47,7 +47,7 @@ ingredients:
     name: dill
     raw: 2 tbsp chopped fresh dill
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten
   - qty: 1
     unit: tbsp
@@ -60,7 +60,7 @@ ingredients:
     name: floury potatoes
     raw: 400 g floury potatoes, peeled and boiled
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 2
     unit: tbsp

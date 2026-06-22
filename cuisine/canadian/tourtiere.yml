@@ -41,7 +41,7 @@ ingredients:
     name: cold unsalted butter
     raw: 175 g cold unsalted butter, cubed
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg, lightly beaten
   - qty: 5
     unit: tbsp
@@ -59,7 +59,7 @@ ingredients:
     name: beef
     raw: 250 g minced beef OR veal
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, very finely chopped
   - qty: 4
     unit: clove

@@ -30,7 +30,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -69,7 +69,7 @@ ingredients:
     name: beans (green)
     raw: 200 g green beans
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 100
     unit: g
@@ -80,5 +80,5 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime

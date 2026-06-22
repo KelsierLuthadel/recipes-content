@@ -34,7 +34,7 @@ ingredients:
     name: cold butter
     raw: 200 g cold butter
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 100
     unit: ml
@@ -70,7 +70,7 @@ ingredients:
     raw: 100 g chopped walnuts
   - name: oranges
     raw: Zest of 2 oranges
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 200
     unit: ml
@@ -109,7 +109,7 @@ ingredients:
     raw: ½ teaspoon ground cloves
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 1
     unit: tsp

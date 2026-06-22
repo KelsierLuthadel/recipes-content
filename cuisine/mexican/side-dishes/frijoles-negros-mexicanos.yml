@@ -28,7 +28,7 @@ ingredients:
     raw: 500 g dried black beans
   - qty: 3
     unit: l
-    name: water for cooking
+    name: water
     raw: 3 litres cold water for cooking
   - qty: 2
     name: onions (white)
@@ -83,7 +83,7 @@ ingredients:
     raw: Sliced raw red onion
   - name: crumbled queso fresco
     raw: Crumbled queso fresco
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: hot sauce
     raw: Hot sauce

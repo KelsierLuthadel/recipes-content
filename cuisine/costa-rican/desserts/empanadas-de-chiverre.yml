@@ -37,14 +37,14 @@ ingredients:
     name: cold lard
     raw: 150 g cold lard , cut into cubes
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 100
     unit: ml
     name: milk
     raw: 100 ml cold milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten
   - qty: 2
     unit: tbsp

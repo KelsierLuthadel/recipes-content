@@ -35,7 +35,7 @@ ingredients:
     name: beef mince
     raw: 150 g beef mince, 20% fat
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion , finely grated and squeezed
   - qty: 4
     name: garlic
@@ -111,5 +111,5 @@ ingredients:
     raw: Sliced tomato
   - name: pickles
     raw: Pickles
-  - name: olive oil for grilling
+  - name: olive oil
     raw: Olive oil for grilling

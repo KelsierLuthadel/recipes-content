@@ -30,7 +30,7 @@ ingredients:
     name: lemons
     raw: 2 lemons
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 6
     name: garlic
@@ -60,7 +60,7 @@ ingredients:
     name: oregano
     raw: 1 teaspoon dried oregano
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon, halved
   - name: peperoncino
     raw: Extra peperoncino, for the table

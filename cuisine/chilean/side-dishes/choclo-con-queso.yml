@@ -27,7 +27,7 @@ ingredients:
     name: unsalted butter
     raw: 40 g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 4
     name: garlic
@@ -62,7 +62,7 @@ ingredients:
     raw: 1 teaspoon ground black pepper
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 1
     unit: tbsp

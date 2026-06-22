@@ -32,7 +32,7 @@ ingredients:
   - name: or 1 × 400 g can pigeon peas
     raw: OR 1 × 400 g can pigeon peas, drained
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
@@ -45,7 +45,7 @@ ingredients:
     name: bay leaves
     raw: 2 bay leaves
   - qty: 2
-    name: scallion
+    name: scallions
     raw: 2 stalks scallion , white parts chopped, green parts reserved
   - qty: 2
     unit: tbsp

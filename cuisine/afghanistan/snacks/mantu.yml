@@ -29,7 +29,7 @@ ingredients:
     name: lamb
     raw: 400 g ground lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -70,7 +70,7 @@ ingredients:
     name: sunflower oil
     raw: 2 tablespoons sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic

@@ -49,7 +49,7 @@ ingredients:
     name: sage leaves
     raw: 2 sage leaves
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: carrots
@@ -57,7 +57,7 @@ ingredients:
   - qty: 2
     name: celery
     raw: 2 celery sticks
-  - name: leek
+  - name: leeks
     raw: Half leek
   - qty: 1.2
     unit: l

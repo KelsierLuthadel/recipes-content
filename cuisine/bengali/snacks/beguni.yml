@@ -21,7 +21,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 1
     unit: tsp
@@ -85,5 +85,5 @@ ingredients:
     name: chillies (green)
     raw: 2 green chillies
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime

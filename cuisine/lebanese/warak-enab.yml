@@ -35,7 +35,7 @@ ingredients:
     name: tomatoes
     raw: 2 tomatoes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     unit: tbsp
@@ -100,5 +100,5 @@ ingredients:
     name: greek yogurt
     raw: 200 g Greek yogurt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon

@@ -21,7 +21,7 @@ ingredients:
     unit: kg
     name: floury potatoes
     raw: 1 kg floury potatoes , peeled
-  - name: vegetable oil
+  - name: vegetable oil for deep frying
     raw: Vegetable oil for deep frying
   - name: sea salt
     raw: Sea salt
@@ -45,13 +45,13 @@ ingredients:
     unit: ml
     name: beer
     raw: 300 ml cold beer
-  - name: 50 g plain flour for dusting
+  - name: 50 g plain flour
     raw: An extra 50 g plain flour for dusting
   - qty: 4
     name: fillets of firm white fish
     raw: 4 fillets of firm white fish , about 180 g each, skinned
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon, cut into wedges
   - name: malt vinegar
     raw: Malt vinegar

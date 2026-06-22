@@ -30,7 +30,7 @@ ingredients:
     raw: 3 tablespoons white sesame seeds
   - qty: 400
     unit: ml
-    name: oil
+    name: oil for deep frying
     raw: 400 ml oil for deep frying
   - qty: 450
     unit: g
@@ -41,7 +41,7 @@ ingredients:
     name: salt
     raw: 1 teaspoon salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp

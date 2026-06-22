@@ -24,7 +24,7 @@ ingredients:
     name: unsalted butter
     raw: 100 g unsalted butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 100
     unit: g
@@ -38,7 +38,7 @@ ingredients:
     unit: ml
     name: milk
     raw: 700 ml whole milk
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - name: salt
     raw: salt

@@ -41,7 +41,7 @@ ingredients:
     name: cold lard
     raw: 60 g cold lard OR 60 g extra cold butter, cubed
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 4
     unit: tbsp
@@ -56,7 +56,7 @@ ingredients:
     name: unsalted butter
     raw: 80 g unsalted butter, melted and cooled to lukewarm
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg, lightly beaten
   - qty: 2
     unit: tbsp

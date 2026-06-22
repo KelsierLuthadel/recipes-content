@@ -47,7 +47,7 @@ ingredients:
     raw: 1 tsp mango chutney
   - qty: 1
     unit: tsp
-    name: lemon
+    name: lemons
     raw: 1 tsp lemon or lime juice, or vinegar
   - qty: 1
     unit: tiny pinch
@@ -63,7 +63,7 @@ ingredients:
     raw: 1 tsp cumin seeds
   - qty: 75
     unit: g
-    name: onion
+    name: onions
     raw: 75 g onion, finely chopped
   - qty: 2
     unit: tsp

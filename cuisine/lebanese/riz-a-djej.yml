@@ -26,10 +26,10 @@ ingredients:
     name: chicken
     raw: 1 whole chicken
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 6
     name: cardamom pods
@@ -54,7 +54,7 @@ ingredients:
     name: lamb
     raw: 300 g lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     unit: tbsp
@@ -105,7 +105,7 @@ ingredients:
     name: parsley
     raw: 3 tablespoons fresh parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: plain greek yogurt
     raw: Plain Greek yogurt, on the side

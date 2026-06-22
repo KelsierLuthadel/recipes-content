@@ -53,7 +53,7 @@ ingredients:
     name: ginger
     raw: 30 g ginger
   - qty: 2
-    name: lemongrass
+    name: lemon grass
     raw: 2 stalks lemongrass
   - qty: 2
     name: bay leaves
@@ -86,7 +86,7 @@ ingredients:
     name: garlic
     raw: 2 garlic cloves
   - qty: 1
-    name: lemongrass
+    name: lemon grass
     raw: 1 stalk lemongrass
   - qty: 3
     unit: g
@@ -108,5 +108,5 @@ ingredients:
     name: bird's eye chilli
     raw: 1 bird's eye chilli
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot

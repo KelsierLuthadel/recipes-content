@@ -26,7 +26,7 @@ mentions:
 ingredients:
   - qty: 350
     unit: g
-    name: sirloin steak
+    name: sirloin steaks
     raw: 350g sirloin steak
   - qty: 2
     unit: tbsp
@@ -50,7 +50,7 @@ ingredients:
     name: straw mushrooms
     raw: Large handful of whole straw mushrooms
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion , thinly sliced
   - qty: 3.5
     unit: tbsp

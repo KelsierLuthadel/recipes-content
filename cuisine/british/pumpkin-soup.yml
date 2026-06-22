@@ -40,7 +40,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     name: celery
@@ -54,7 +54,7 @@ ingredients:
     raw: 1 bay leaf
   - qty: 1.2
     unit: l
-    name: vegetable
+    name: vegetables
     raw: 1.2 litres vegetable or chicken stock
   - qty: 100
     unit: ml
@@ -62,7 +62,7 @@ ingredients:
     raw: 100 ml double cream
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - name: sea salt and black pepper
     raw: Fine sea salt and black pepper

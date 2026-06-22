@@ -24,13 +24,13 @@ ingredients:
     name: chicken
     raw: 1 whole chicken
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 2
     name: carrots
     raw: 2 carrots
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek
   - qty: 4
     name: bay leaves
@@ -62,7 +62,7 @@ ingredients:
     name: onion (white)
     raw: 1 large white onion
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small cinnamon stick
   - qty: 6
     name: peppercorns (black)
@@ -92,7 +92,7 @@ ingredients:
     raw: 1 teaspoon coarsely cracked black pepper
   - name: bowl of cold thick yoghurt
     raw: A bowl of cold thick yoghurt
-  - name: lemon
+  - name: lemons
     raw: A wedge of lemon
   - name: pile of sliced raw red onion
     raw: A small pile of sliced raw red onion

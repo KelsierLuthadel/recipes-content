@@ -49,7 +49,7 @@ ingredients:
     name: ghee
     raw: 4 tbsp ghee, rapeseed oil or seasoned oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, finely chopped
   - qty: 2
     unit: tbsp
@@ -96,7 +96,7 @@ ingredients:
     name: plain yoghurt
     raw: 2 tbsp plain yoghurt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
     unit: tbsp

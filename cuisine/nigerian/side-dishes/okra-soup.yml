@@ -26,7 +26,7 @@ ingredients:
     name: beef shin
     raw: 400 g beef shin , or a mix
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     name: stock cube
@@ -44,7 +44,7 @@ ingredients:
     name: palm oil (red)
     raw: 80 ml red palm oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic

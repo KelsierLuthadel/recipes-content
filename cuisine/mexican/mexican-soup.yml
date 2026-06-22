@@ -28,7 +28,7 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: corn cobs
@@ -83,7 +83,7 @@ ingredients:
     name: double cream
     raw: 125 grams double cream
   - qty: 0.5
-    name: avocado
+    name: avocados
     raw: ½ avocado
   - qty: 1
     unit: tbsp

@@ -23,7 +23,7 @@ ingredients:
     name: tart apples
     raw: 2 tart apples
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 50
     unit: g
@@ -46,7 +46,7 @@ ingredients:
     name: caster sugar
     raw: 3 tablespoons caster sugar
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves

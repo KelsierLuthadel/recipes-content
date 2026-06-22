@@ -72,7 +72,7 @@ ingredients:
     name: cloves
     raw: 6 cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     name: bay leaves
@@ -89,7 +89,7 @@ ingredients:
     name: ghee
     raw: 4 tablespoons ghee
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: tbsp
@@ -119,5 +119,5 @@ ingredients:
     name: mint leaves
     raw: A handful of fresh mint leaves
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon

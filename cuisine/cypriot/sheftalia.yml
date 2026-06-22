@@ -27,7 +27,7 @@ ingredients:
     name: pork shoulder mince
     raw: 350 g pork shoulder mince
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 30
     unit: g
@@ -60,7 +60,7 @@ ingredients:
     name: parsley
     raw: A handful of chopped parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: talattouri
     raw: Talattouri

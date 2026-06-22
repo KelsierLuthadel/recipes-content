@@ -17,14 +17,14 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: poblano pepper
+    name: poblano peppers
     raw: 1 poblano pepper
   - qty: 2
     unit: tbsp
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -65,5 +65,5 @@ ingredients:
     name: coriander
     raw: A handful of coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime

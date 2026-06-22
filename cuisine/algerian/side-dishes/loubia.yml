@@ -41,7 +41,7 @@ ingredients:
     name: olive oil
     raw: 60 ml olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     unit: clove
@@ -98,7 +98,7 @@ ingredients:
     name: parsley
     raw: 1 small handful fresh parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: round of khobz algerian semolina bread
     raw: A round of khobz Algerian semolina bread

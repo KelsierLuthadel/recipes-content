@@ -31,7 +31,7 @@ ingredients:
     name: water
     raw: 2 litres water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, halved
   - qty: 4
     name: garlic
@@ -62,7 +62,7 @@ ingredients:
     name: pasa chilli
     raw: 1 dried pasa chilli
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves

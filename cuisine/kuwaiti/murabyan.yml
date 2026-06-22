@@ -45,13 +45,13 @@ ingredients:
     name: vegetable oil
     raw: 2 tbsp vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, halved
   - qty: 2
     name: garlic
     raw: 2 garlic cloves
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 dried lime, pierced
   - qty: 700
     unit: ml
@@ -93,7 +93,7 @@ ingredients:
     name: limes
     raw: 2 dried limes, pierced
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - name: salt
     raw: Salt

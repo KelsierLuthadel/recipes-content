@@ -80,7 +80,7 @@ ingredients:
     name: plantains (green)
     raw: 8 green plantains
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 4
     unit: tbsp
@@ -94,5 +94,5 @@ ingredients:
     name: coriander
     raw: Small bunch coriander
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion

@@ -35,7 +35,7 @@ ingredients:
     raw: 500 ml whole milk
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon ground nutmeg
   - qty: 200
     unit: g
@@ -43,7 +43,7 @@ ingredients:
     raw: 200 g finely diced cooked ham or cooked chicken breast
   - qty: 2
     unit: tbsp
-    name: onion
+    name: onions
     raw: 2 tablespoons grated onion
   - qty: 1
     unit: tbsp

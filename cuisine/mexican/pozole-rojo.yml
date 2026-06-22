@@ -31,7 +31,7 @@ ingredients:
     name: pork rib tips
     raw: 500 g pork rib tips
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -88,7 +88,7 @@ ingredients:
     name: onion (white)
     raw: 1 white onion
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - name: mexican oregano
     raw: Dried Mexican oregano

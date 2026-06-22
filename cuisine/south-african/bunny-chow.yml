@@ -86,7 +86,7 @@ ingredients:
     name: cardamom pods
     raw: 4 whole cardamom pods
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small cinnamon stick
   - qty: 4
     name: cloves
@@ -109,17 +109,17 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 2
     name: unsliced white loaves
     raw: 2 large unsliced white loaves
-  - name: carrot
+  - name: carrots
     raw: Grated carrot
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
-  - name: onion
+  - name: onions
     raw: Sliced onion
   - name: atchar
     raw: Atchar

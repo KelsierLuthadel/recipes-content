@@ -30,7 +30,7 @@ ingredients:
     name: semolina
     raw: 100 g semolina
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 100
     unit: ml
@@ -49,7 +49,7 @@ ingredients:
     name: lamb shoulder
     raw: 300 g lamb shoulder, cut into 2 cm cubes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: tbsp

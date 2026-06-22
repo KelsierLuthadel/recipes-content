@@ -22,7 +22,7 @@ ingredients:
     name: ginger
     raw: 100 g fresh ginger
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 8
     name: cloves
@@ -46,7 +46,7 @@ ingredients:
     raw: 60 ml dark rum
   - name: plenty of ice cubes
     raw: Plenty of ice cubes
-  - name: orange
+  - name: oranges
     raw: Sliced orange or lime
   - name: mint
     raw: Mint sprigs

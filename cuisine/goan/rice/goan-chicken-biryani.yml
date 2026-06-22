@@ -49,7 +49,7 @@ ingredients:
     name: peppercorns (black)
     raw: 1 teaspoon black peppercorns
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -101,7 +101,7 @@ ingredients:
     name: bay leaf
     raw: 1 bay leaf
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves

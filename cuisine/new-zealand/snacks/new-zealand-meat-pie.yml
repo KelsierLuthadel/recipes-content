@@ -30,7 +30,7 @@ ingredients:
     name: olive oil
     raw: 2 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely diced
   - qty: 2
     unit: clove
@@ -78,5 +78,5 @@ ingredients:
     name: puff pastry
     raw: 500 g puff pastry
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg, beaten

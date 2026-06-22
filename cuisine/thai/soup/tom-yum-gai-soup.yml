@@ -38,7 +38,7 @@ ingredients:
     name: shallots
     raw: 2 shallots, finely chopped
   - qty: 1
-    name: lemongrass stalk
+    name: lemon grass
     raw: 1 lemongrass stalk, smashed and cut into about 5 pieces
   - qty: 8
     name: lime leaves
@@ -51,7 +51,7 @@ ingredients:
     raw: 3 garlic cloves, roughly chopped
   - qty: 250
     unit: g
-    name: chicken breast
+    name: chicken breasts
     raw: 250g chicken breast, cut into bite-size pieces
   - qty: 8
     name: mushrooms

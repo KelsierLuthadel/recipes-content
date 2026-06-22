@@ -78,7 +78,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 200
     unit: g
@@ -114,7 +114,7 @@ ingredients:
     unit: tbsp
     name: parsley
     raw: 1 tablespoon fresh parsley
-  - name: olive oil for brushing
+  - name: olive oil
     raw: Extra olive oil for brushing
   - qty: 1
     unit: pinch

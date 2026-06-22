@@ -36,7 +36,7 @@ ingredients:
     name: peas
     raw: 100 g frozen peas
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     unit: tsp
@@ -53,7 +53,7 @@ ingredients:
     name: vegetable oil
     raw: 2 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
     unit: tbsp

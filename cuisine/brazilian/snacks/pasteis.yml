@@ -61,7 +61,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 4
     name: garlic
@@ -81,7 +81,7 @@ ingredients:
     name: spring onions
     raw: 1 small bunch of spring onions
   - qty: 1
-    name: hard boiled egg
+    name: hard boiled eggs
     raw: 1 hard-boiled egg
   - qty: 8
     name: olives (green)
@@ -116,7 +116,7 @@ ingredients:
     raw: 1.5 litres vegetable oil
   - name: hot sauce
     raw: Hot sauce
-  - name: lime
+  - name: limes
     raw: A wedge of lime
   - name: glass of sugarcane juice
     raw: A glass of sugarcane juice

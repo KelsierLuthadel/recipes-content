@@ -34,7 +34,7 @@ ingredients:
     name: salt
     raw: ½ teaspoon salt
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 200
     unit: g
@@ -60,7 +60,7 @@ ingredients:
     unit: tsp
     name: pepper (white)
     raw: ½ teaspoon white pepper
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - qty: 300
     unit: g
@@ -71,10 +71,10 @@ ingredients:
     name: parsley
     raw: 2 tablespoons fresh parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 1
-    name: shallot
+    name: shallots
     raw: 1 shallot
   - qty: 100
     unit: g

@@ -25,7 +25,7 @@ ingredients:
     name: caster sugar
     raw: 150 g caster sugar
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 1
     unit: tsp
@@ -40,7 +40,7 @@ ingredients:
     name: sea salt
     raw: A small pinch of fine sea salt
   - qty: 1
-    name: egg white
+    name: egg whites
     raw: 1 large egg white
   - qty: 250
     unit: g

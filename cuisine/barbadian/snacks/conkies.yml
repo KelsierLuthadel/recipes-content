@@ -85,7 +85,7 @@ ingredients:
     raw: 1 tablespoon ground cinnamon
   - qty: 2
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 2 teaspoons freshly grated nutmeg
   - qty: 2
     unit: tsp
@@ -103,12 +103,12 @@ ingredients:
     unit: tbsp
     name: thyme leaves
     raw: 1 tablespoon fresh thyme leaves
-  - name: lime
+  - name: limes
     raw: Finely grated zest of 1 lime
   - qty: 13.5
     name: banana leaves
     raw: 12-15 banana leaves
-  - name: kitchen string for tying
+  - name: kitchen string
     raw: Kitchen string for tying
   - name: warm
     raw: Warm, peeled out of the banana leaf

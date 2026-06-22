@@ -41,7 +41,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 3
-    name: tomatoes tin chopped tomatoes)
+    name: tomatoes tin chopped tomatoes
     raw: 3 large tomatoes tin chopped tomatoes)
   - qty: 2
     unit: tbsp
@@ -94,7 +94,7 @@ ingredients:
     name: netetou
     raw: 2 tablespoons nététou
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 3
     unit: tbsp

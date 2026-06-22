@@ -31,7 +31,7 @@ ingredients:
     name: carrots
     raw: 3 medium carrots
   - qty: 1
-    name: parsnip
+    name: parsnips
     raw: 1 parsnip
   - qty: 1
     name: celeriac
@@ -91,5 +91,5 @@ ingredients:
     name: parsley
     raw: 2 tbsp chopped parsley
   - qty: 1
-    name: hard boiled egg
+    name: hard boiled eggs
     raw: 1 hard-boiled egg, sliced

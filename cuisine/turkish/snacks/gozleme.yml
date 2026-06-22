@@ -53,7 +53,7 @@ ingredients:
     name: feta cheese
     raw: 200 g feta cheese
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 2
     unit: tbsp
@@ -87,7 +87,7 @@ ingredients:
     name: lamb
     raw: 300 g minced lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -135,7 +135,7 @@ ingredients:
     name: boiled mashed potato
     raw: 600 g boiled mashed potato
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 100
     unit: g

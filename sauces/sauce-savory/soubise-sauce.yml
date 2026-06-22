@@ -22,7 +22,7 @@ ingredients:
     raw: 40 grams butter
   - qty: 200
     unit: g
-    name: onion
+    name: onions
     raw: 200 grams onion
   - qty: 150
     unit: ml
@@ -30,7 +30,7 @@ ingredients:
     raw: 150 ml double cream
   - qty: 0.5
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ½ teaspoon nutmeg
   - qty: 1
     unit: pinch

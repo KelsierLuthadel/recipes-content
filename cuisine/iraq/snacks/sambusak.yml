@@ -50,7 +50,7 @@ ingredients:
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 3
     name: garlic
@@ -88,10 +88,10 @@ ingredients:
     name: parsley
     raw: 1 small handful parsley
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 2
     unit: tbsp

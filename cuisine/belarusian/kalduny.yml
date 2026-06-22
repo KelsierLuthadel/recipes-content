@@ -23,7 +23,7 @@ ingredients:
     name: plain flour
     raw: 400 g plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 180
     unit: ml
@@ -38,7 +38,7 @@ ingredients:
     name: pork shoulder
     raw: 300 g pork shoulder, very finely chopped
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion, very finely chopped
   - qty: 1
     unit: tbsp

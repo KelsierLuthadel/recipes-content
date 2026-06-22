@@ -37,14 +37,14 @@ ingredients:
     name: kefalotyri
     raw: 50 g grated kefalotyri
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp
     name: olive oil
     raw: 2 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: garlic
@@ -66,7 +66,7 @@ ingredients:
     name: wine (red)
     raw: 150 ml red wine
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 0.25
     unit: tsp
@@ -102,5 +102,5 @@ ingredients:
     unit: g
     name: kefalotyri
     raw: 100 g grated kefalotyri
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg

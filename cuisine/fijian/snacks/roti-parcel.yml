@@ -50,7 +50,7 @@ ingredients:
     name: cumin seeds
     raw: 1 tsp cumin seeds
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, finely chopped
   - qty: 2
     unit: clove
@@ -80,7 +80,7 @@ ingredients:
     unit: handful
     name: coriander
     raw: A handful of fresh coriander, chopped
-  - name: lemon
+  - name: lemons
     raw: Juice of half a lemon
   - name: little oil
     raw: A little oil or ghee for brushing

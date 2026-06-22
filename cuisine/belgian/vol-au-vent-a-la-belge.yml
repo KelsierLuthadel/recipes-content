@@ -38,17 +38,17 @@ ingredients:
     name: chicken stock
     raw: 1.2 litres good chicken stock
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek , washed
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot
   - qty: 1
     unit: stick
     name: celery
     raw: 1 stick celery
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, halved with 2 cloves stuck in
   - qty: 2
     name: bay leaves
@@ -65,10 +65,10 @@ ingredients:
     name: beef
     raw: 250 g minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion, very finely chopped
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 60
     unit: ml

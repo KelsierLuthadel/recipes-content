@@ -44,7 +44,7 @@ ingredients:
     name: bay leaves
     raw: 4 bay leaves
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 2
     name: onions
@@ -58,7 +58,7 @@ ingredients:
     raw: 1.5 kg small red baby potatoes
   - qty: 1
     unit: kg
-    name: smoked sausage
+    name: smoked sausages
     raw: 1 kg smoked sausage
   - qty: 8
     name: ears corn on the cob

@@ -25,7 +25,7 @@ ingredients:
     name: chicken pieces
     raw: 1 ½ kg chicken pieces
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -89,7 +89,7 @@ ingredients:
     name: double cream
     raw: 200 ml double cream
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - name: rice (white)
     raw: Cooked white rice

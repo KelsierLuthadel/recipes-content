@@ -20,7 +20,7 @@ ingredients:
     name: eggs
     raw: 4 eggs , size 4
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg , size 2
   - qty: 130
     unit: g
@@ -31,7 +31,7 @@ ingredients:
     name: almonds
     raw: 85 grams ground almonds
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 25
     unit: g

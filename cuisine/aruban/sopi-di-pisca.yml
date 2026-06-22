@@ -26,10 +26,10 @@ ingredients:
     name: fish heads
     raw: 1 kg fish heads, frames and trimmings from the fishmonger
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion, halved
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot, halved
   - qty: 1
     unit: stick
@@ -55,7 +55,7 @@ ingredients:
     name: sunflower oil
     raw: 3 tbsp sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 1
     name: bell pepper (green)
@@ -106,7 +106,7 @@ ingredients:
     unit: g
     name: firm white fish fillets
     raw: 800 g firm white fish fillets , skin off, cut into 4 cm chunks
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp

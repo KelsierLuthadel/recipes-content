@@ -25,10 +25,10 @@ ingredients:
     unit: tbsp
     name: honey
     raw: 4 tablespoons honey
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small piece of cinnamon stick
   - qty: 4
     name: cardamom pods

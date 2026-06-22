@@ -27,10 +27,10 @@ mentions:
 ingredients:
   - qty: 75
     unit: g
-    name: onion
+    name: onions
     raw: 75 g onion, very finely chopped
   - qty: 75
-    name: onion
+    name: onions
     raw: 75 to 100 g onion, cut into 3 cm segments with layers separated
   - qty: 40
     name: pepper (red)

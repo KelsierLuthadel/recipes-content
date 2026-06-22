@@ -38,7 +38,7 @@ ingredients:
     name: rapeseed oil
     raw: 3 tbsp rapeseed oil
   - qty: 0.5
-    name: onion
+    name: onions
     raw: ½ onion, finely chopped
   - qty: 1
     name: tomato
@@ -102,5 +102,5 @@ ingredients:
     name: fenugreek leaves
     raw: ½ tsp dried fenugreek leaves
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon

@@ -25,7 +25,7 @@ ingredients:
     name: water
     raw: 1.2 litres water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     name: strip lemon peel
@@ -57,7 +57,7 @@ ingredients:
     unit: tbsp
     name: soft brown sugar
     raw: 2 tablespoons soft brown sugar
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 1
     unit: tbsp

@@ -29,7 +29,7 @@ ingredients:
     name: goat meat
     raw: 1 kg goat meat
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -71,7 +71,7 @@ ingredients:
     raw: 2 spring onions
   - name: rice (white)
     raw: White rice
-  - name: onion
+  - name: onions
     raw: Sliced raw onion
   - name: lime wedges
     raw: Lime wedges

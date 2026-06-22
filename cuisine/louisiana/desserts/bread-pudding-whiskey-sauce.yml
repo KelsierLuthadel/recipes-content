@@ -49,7 +49,7 @@ ingredients:
     raw: 1 tablespoon ground cinnamon
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon ground nutmeg
   - qty: 0.5
     unit: tsp
@@ -67,7 +67,7 @@ ingredients:
     unit: g
     name: butter
     raw: 80 g butter
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 200
     unit: g
@@ -78,7 +78,7 @@ ingredients:
     name: caster sugar
     raw: 250 g caster sugar
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 200
     unit: ml

@@ -42,7 +42,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -55,7 +55,7 @@ ingredients:
     name: tomato paste
     raw: 2 tablespoons tomato paste
   - qty: 1
-    name: apple
+    name: apples
     raw: 1 medium apple
   - qty: 1
     name: pear

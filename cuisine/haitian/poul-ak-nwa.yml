@@ -54,7 +54,7 @@ ingredients:
     unit: oz
     name: epis
     raw: 6 oz épis
-  - name: canola oil for searing
+  - name: canola oil
     raw: Canola oil for searing
   - qty: 6
     unit: oz
@@ -84,5 +84,5 @@ ingredients:
     raw: pepper
   - name: rice (white)
     raw: White rice
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado

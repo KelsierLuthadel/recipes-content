@@ -33,7 +33,7 @@ ingredients:
     name: plain flour
     raw: 80 g plain flour
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 3
     unit: stick
@@ -92,7 +92,7 @@ ingredients:
     unit: tbsp
     name: hot sauce
     raw: 1 tablespoon hot sauce
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 50
     unit: g

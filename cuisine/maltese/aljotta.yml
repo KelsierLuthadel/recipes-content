@@ -27,7 +27,7 @@ ingredients:
     name: garlic
     raw: 1 head garlic
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: tomatoes
@@ -57,7 +57,7 @@ ingredients:
   - qty: 1
     name: parsley
     raw: 1 small bunch fresh parsley
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 1
     unit: tsp
@@ -73,7 +73,7 @@ ingredients:
     raw: 1 pinch chilli flakes
   - name: crusty maltese bread
     raw: Crusty Maltese bread
-  - name: lemon
+  - name: lemons
     raw: A wedge of lemon
   - qty: 1
     unit: drizzle

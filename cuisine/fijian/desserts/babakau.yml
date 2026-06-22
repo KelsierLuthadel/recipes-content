@@ -41,7 +41,7 @@ ingredients:
     name: unsalted butter
     raw: 50 g unsalted butter, melted
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg, lightly beaten
   - qty: 1
     unit: tsp
@@ -51,5 +51,5 @@ ingredients:
     unit: l
     name: vegetable oil
     raw: 1 litre vegetable oil for frying
-  - name: caster sugar for dusting
+  - name: caster sugar
     raw: Caster sugar for dusting

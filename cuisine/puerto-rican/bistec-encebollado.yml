@@ -25,7 +25,7 @@ mentions:
 ingredients:
   - qty: 800
     unit: g
-    name: steak
+    name: steaks
     raw: 800 g cube steak or thinly sliced top sirloin
   - name: limes
     raw: Juice of 3 limes
@@ -108,7 +108,7 @@ ingredients:
     raw: Habichuelas
   - name: tostones
     raw: Tostones or maduros
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: pique
     raw: Pique

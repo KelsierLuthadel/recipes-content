@@ -46,7 +46,7 @@ ingredients:
     name: unsalted butter
     raw: 60 g unsalted butter, melted
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg , beaten
   - qty: 2
     unit: tbsp
@@ -58,7 +58,7 @@ ingredients:
     raw: 1 teaspoon vanilla extract
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon ground nutmeg
   - qty: 1
     unit: tsp
@@ -82,5 +82,5 @@ ingredients:
     raw: 1 tablespoon dark brown sugar
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg

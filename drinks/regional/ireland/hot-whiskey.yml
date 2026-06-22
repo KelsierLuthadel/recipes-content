@@ -24,10 +24,10 @@ ingredients:
     name: cloves
     raw: 4 whole cloves
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 slice fresh lemon
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 200
     unit: ml
@@ -35,5 +35,5 @@ ingredients:
     raw: 200 ml just-boiled water
   - name: heatproof glass with a handle
     raw: A heatproof glass with a handle
-  - name: for stirring
+  - name: teaspoon
     raw: A long teaspoon for stirring

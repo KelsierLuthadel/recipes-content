@@ -20,13 +20,13 @@ ingredients:
     name: spinach
     raw: 2 large handfuls baby spinach
   - qty: 1
-    name: banana
+    name: bananas
     raw: 1 ripe banana
   - qty: 1
     name: crisp apple
     raw: 1 crisp apple
   - qty: 0.5
-    name: avocado
+    name: avocados
     raw: ½ ripe avocado
   - qty: 200
     unit: ml
@@ -50,7 +50,7 @@ ingredients:
   - qty: 6
     name: ice cubes
     raw: 6 ice cubes
-  - name: lime
+  - name: limes
     raw: A slice of lime
   - name: mint leaves
     raw: A few mint leaves

@@ -29,7 +29,7 @@ ingredients:
     name: veal eye round
     raw: 800 g veal eye round
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 2
     name: carrots
@@ -106,7 +106,7 @@ ingredients:
     name: flat leaf parsley
     raw: 1 small bunch fresh flat-leaf parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 small lemon
   - name: virgin olive oil
     raw: Extra virgin olive oil for drizzling

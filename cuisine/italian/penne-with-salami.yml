@@ -57,7 +57,7 @@ ingredients:
     raw: ½ teaspoon paprika
   - qty: 1
     unit: pinch
-    name: nutmeg
+    name: nutmegs
     raw: Pinch of freshly grated nutmeg
   - name: salt
     raw: salt
@@ -67,5 +67,5 @@ ingredients:
     unit: g
     name: parmesan cheese
     raw: 100 grams Parmesan cheese
-  - name: butter for greasing
+  - name: butter
     raw: Butter for greasing

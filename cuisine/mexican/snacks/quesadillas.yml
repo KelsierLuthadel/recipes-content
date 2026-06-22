@@ -35,14 +35,14 @@ ingredients:
   - name: optional filling
     raw: "Optional filling :"
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 jalapeño
   - qty: 2
     unit: tbsp
     name: coriander
     raw: 2 tablespoons chopped fresh coriander
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - qty: 1
     unit: tsp

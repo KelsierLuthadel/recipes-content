@@ -34,10 +34,10 @@ ingredients:
   - name: water
     raw: Cold water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek OR 4 spring onions
   - qty: 5
     name: garlic

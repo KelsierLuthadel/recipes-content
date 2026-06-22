@@ -19,10 +19,10 @@ ingredients:
     name: olive oil
     raw: 1 tablespoon olive oil
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: carrots
@@ -31,7 +31,7 @@ ingredients:
     name: celery
     raw: 2 celery stalks
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette
   - qty: 400
     unit: g

@@ -27,7 +27,7 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: chicken breast
+    name: chicken breasts
     raw: 500 g chicken breast
   - qty: 1
     name: bell pepper (green)
@@ -42,7 +42,7 @@ ingredients:
     name: onion (red)
     raw: 1 large red onion
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette
   - qty: 1
     name: mozzarella ball
@@ -120,12 +120,12 @@ ingredients:
     name: sugar (brown)
     raw: 1 tbsp brown sugar
   - qty: 1
-    name: spring onion
+    name: spring onions
     raw: 1 spring onion
   - name: coriander
     raw: Fresh coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - name: sour cream
     raw: Sour cream

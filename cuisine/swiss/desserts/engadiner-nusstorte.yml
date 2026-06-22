@@ -44,7 +44,7 @@ ingredients:
     unit: pinch
     name: salt
     raw: A pinch of fine salt
-  - name: lemon
+  - name: lemons
     raw: Zest of half a lemon
   - qty: 250
     unit: g
@@ -75,7 +75,7 @@ ingredients:
     name: salt
     raw: A pinch of salt
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp

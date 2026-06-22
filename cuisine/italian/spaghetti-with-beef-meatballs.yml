@@ -23,7 +23,7 @@ mentions:
   - tutorials/spices/storage
 ingredients:
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 750
     unit: g
@@ -42,7 +42,7 @@ ingredients:
     name: flat leaf parsley
     raw: 2 tablespoons flat leaf parsley
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     name: garlic

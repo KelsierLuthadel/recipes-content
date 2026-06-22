@@ -28,16 +28,16 @@ ingredients:
     name: carrots
     raw: 3 carrots, scrubbed and roughly chopped
   - qty: 1
-    name: parsnip
+    name: parsnips
     raw: 1 parsnip, peeled and chopped
   - qty: 1
     name: celeriac
     raw: 1 small celeriac , peeled and chopped
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, peeled and halved
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 leek, washed and chopped
   - qty: 1
     name: bay leaf
@@ -79,7 +79,7 @@ ingredients:
     unit: ml
     name: soured cream
     raw: 200 ml soured cream
-  - name: lemon
+  - name: lemons
     raw: Juice of half a lemon
   - qty: 1
     unit: handful

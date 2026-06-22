@@ -16,7 +16,7 @@ ingredients:
     name: mint leaves
     raw: 8 fresh mint leaves
   - qty: 0.5
-    name: lime
+    name: limes
     raw: ½ lime
   - qty: 2
     unit: tsp
@@ -34,7 +34,7 @@ ingredients:
     raw: 100 ml chilled soda water
   - name: fat sprig of mint
     raw: A fat sprig of mint
-  - name: lime wedge
+  - name: lime wedges
     raw: A lime wedge
   - name: paper straw
     raw: A paper straw

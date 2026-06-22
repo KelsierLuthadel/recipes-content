@@ -30,7 +30,7 @@ ingredients:
     name: palm oil (red)
     raw: 1 tablespoon red palm oil OR vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion
   - qty: 3
     unit: clove
@@ -59,7 +59,7 @@ ingredients:
     name: coriander
     raw: 1 small handful fresh coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 50
     unit: g

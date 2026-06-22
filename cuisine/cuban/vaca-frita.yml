@@ -29,7 +29,7 @@ ingredients:
     name: flank steak
     raw: 1 kg flank steak
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 6
     name: garlic
@@ -95,7 +95,7 @@ ingredients:
   - qty: 1
     name: coriander
     raw: 1 small bunch fresh coriander
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - name: lime wedges
     raw: Lime wedges
@@ -105,7 +105,7 @@ ingredients:
     raw: Black beans
   - name: sweet plantains
     raw: Sweet plantains
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: salad
     raw: Fresh salad

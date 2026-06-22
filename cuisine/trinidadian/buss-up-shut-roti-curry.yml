@@ -54,7 +54,7 @@ ingredients:
     name: neutral oil
     raw: 3 tbsp neutral oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 5
     name: garlic
@@ -95,5 +95,5 @@ ingredients:
     name: chadon beni
     raw: Small handful chopped chadon beni
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, cut in wedges

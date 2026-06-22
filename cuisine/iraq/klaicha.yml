@@ -45,7 +45,7 @@ ingredients:
     name: milk
     raw: 200 ml whole milk
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 0.25
     unit: tsp
@@ -76,7 +76,7 @@ ingredients:
     name: sesame seeds
     raw: 2 tablespoons sesame seeds
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: tbsp

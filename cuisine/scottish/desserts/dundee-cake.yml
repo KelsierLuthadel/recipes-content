@@ -58,9 +58,9 @@ ingredients:
     unit: g
     name: glace cherries
     raw: 60 g glacé cherries
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
-  - name: lemon
+  - name: lemons
     raw: Zest of 1 lemon
   - qty: 2
     unit: tbsp

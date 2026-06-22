@@ -30,7 +30,7 @@ ingredients:
     name: milk
     raw: 1.2 L whole milk
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 60
     unit: g
@@ -57,7 +57,7 @@ ingredients:
     name: vanilla extract
     raw: 1 tsp vanilla extract
   - qty: 1
-    name: almond
+    name: almonds
     raw: 1 whole peeled almond
   - qty: 400
     unit: g

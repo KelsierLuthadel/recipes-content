@@ -27,7 +27,7 @@ ingredients:
     name: parmesan cheese
     raw: 50 g parmesan cheese
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 2
     unit: tbsp
@@ -39,7 +39,7 @@ ingredients:
     raw: 1 tablespoon fresh mint
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 0.5
     unit: tsp

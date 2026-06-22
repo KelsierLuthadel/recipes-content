@@ -36,7 +36,7 @@ ingredients:
     name: sea salt
     raw: ½ teaspoon fine sea salt
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 3.5
     unit: tbsp
@@ -75,7 +75,7 @@ ingredients:
     raw: 1 tablespoon ground cinnamon
   - qty: 2
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 2 teaspoons ground nutmeg
   - qty: 1
     unit: tsp
@@ -85,13 +85,13 @@ ingredients:
     unit: tsp
     name: ginger
     raw: 1 teaspoon ground ginger
-  - name: orange
+  - name: oranges
     raw: Zest of 1 orange
   - qty: 1
     unit: tsp
     name: sea salt
     raw: 1 teaspoon fine sea salt
-  - name: icing sugar for dusting
+  - name: icing sugar
     raw: Icing sugar for dusting
   - name: whipped cream
     raw: Whipped cream

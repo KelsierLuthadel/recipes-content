@@ -24,7 +24,7 @@ ingredients:
     name: sultanas
     raw: 120 grams sultanas
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 250
     unit: ml
@@ -39,10 +39,10 @@ ingredients:
     name: caster sugar
     raw: 30 grams caster sugar
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 whole egg
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - qty: 1
     unit: pinch

@@ -26,7 +26,7 @@ ingredients:
     raw: 100 grams celery stalks
   - qty: 50
     unit: g
-    name: fennel bulb
+    name: fennel bulbs
     raw: 50 grams fennel bulb
   - qty: 150
     unit: g
@@ -34,7 +34,7 @@ ingredients:
     raw: 150 grams shallots
   - qty: 100
     unit: g
-    name: onion
+    name: onions
     raw: 100 grams onion
   - qty: 2
     unit: clove

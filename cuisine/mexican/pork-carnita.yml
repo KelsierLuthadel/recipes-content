@@ -25,7 +25,7 @@ ingredients:
     name: pork shoulder
     raw: 1kg skinless, boneless pork shoulder
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     unit: clove
@@ -51,10 +51,10 @@ ingredients:
     name: cumin
     raw: ½ tablespoon ground cumin
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 0.3333333333333333
     unit: cup

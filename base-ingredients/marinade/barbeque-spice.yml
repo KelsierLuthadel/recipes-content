@@ -24,7 +24,7 @@ ingredients:
     raw: 1 teaspoon smoked paprika
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon freshly grated nutmeg
   - qty: 1
     unit: tsp
@@ -63,7 +63,7 @@ ingredients:
     name: garlic infused oil
     raw: 4 tablespoons garlic-infused oil
   - qty: 2.5
-    name: onion
+    name: onions
     raw: 2-3 thin slices fresh onion
   - qty: 1
     unit: tbsp

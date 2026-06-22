@@ -26,7 +26,7 @@ ingredients:
     unit: g
     name: caster sugar
     raw: 400 g caster sugar
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 200
     unit: ml
@@ -37,7 +37,7 @@ ingredients:
     name: water
     raw: 800 ml boiling water
   - qty: 4
-    name: lemon
+    name: lemons
     raw: 4 thin slices of lemon
   - qty: 4
     name: cinnamon sticks

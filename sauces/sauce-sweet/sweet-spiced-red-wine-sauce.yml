@@ -20,10 +20,10 @@ ingredients:
     name: caster sugar
     raw: 200 grams caster sugar
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
-    name: clove
+    name: cloves
     raw: 1 clove
   - qty: 2
     name: vanilla pods
@@ -32,7 +32,7 @@ ingredients:
     raw: finely pared zest and juice of 1 orange
   - qty: 1
     unit: small pinch
-    name: nutmeg
+    name: nutmegs
     raw: small pinch of freshly grated nutmeg
   - qty: 1
     unit: tbsp

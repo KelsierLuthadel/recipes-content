@@ -32,10 +32,10 @@ ingredients:
     name: pork
     raw: 500 g ground pork
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 3
     unit: tbsp
@@ -55,7 +55,7 @@ ingredients:
     raw: ½ teaspoon ground white pepper
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 1.5
     unit: l
@@ -66,7 +66,7 @@ ingredients:
     name: sea salt
     raw: 2 teaspoons fine sea salt
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     name: peppercorns (black)
@@ -81,10 +81,10 @@ ingredients:
     name: butter
     raw: 60 g butter
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 1
-    name: leek
+    name: leeks
     raw: 1 medium leek
   - qty: 3
     unit: tbsp
@@ -111,7 +111,7 @@ ingredients:
     name: turmeric
     raw: 1 teaspoon turmeric
   - qty: 1
-    name: apple
+    name: apples
     raw: 1 small apple
   - qty: 1.5
     unit: tsp
@@ -138,7 +138,7 @@ ingredients:
     raw: 4 tablespoons chopped roasted peanuts
   - qty: 4
     unit: tbsp
-    name: pickled cucumber
+    name: pickled cucumbers
     raw: 4 tablespoons chopped pickled cucumber or chutney
   - qty: 1
     name: chives

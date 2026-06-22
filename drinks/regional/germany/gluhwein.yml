@@ -23,7 +23,7 @@ ingredients:
     name: cloves
     raw: 12 whole cloves
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 large cinnamon stick
   - qty: 2
     name: star anise
@@ -47,5 +47,5 @@ ingredients:
     raw: 6 heatproof mugs
   - name: slices (orange)
     raw: Orange slices to garnish
-  - name: cinnamon stick
+  - name: cinnamon sticks
     raw: A cinnamon stick per mug

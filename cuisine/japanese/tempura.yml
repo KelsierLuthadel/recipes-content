@@ -29,10 +29,10 @@ ingredients:
     name: sweet potato
     raw: 1 sweet potato
   - qty: 1
-    name: aubergine
+    name: aubergines
     raw: 1 aubergine
   - qty: 1
-    name: courgette
+    name: courgettes
     raw: 1 courgette
   - qty: 8
     name: beans (green)
@@ -55,7 +55,7 @@ ingredients:
     name: sparkling water
     raw: 250 ml sparkling water
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 egg yolk
   - name: ice cubes
     raw: A few ice cubes

@@ -44,7 +44,7 @@ ingredients:
     unit: tsp
     name: adobo seasoning
     raw: 1 teaspoon adobo seasoning
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 60
     unit: ml
@@ -68,7 +68,7 @@ ingredients:
   - qty: 1
     name: flat leaf parsley
     raw: 1 large bunch fresh flat-leaf parsley
-  - name: lime
+  - name: limes
     raw: Juice of 1 lime
   - qty: 1
     unit: tsp

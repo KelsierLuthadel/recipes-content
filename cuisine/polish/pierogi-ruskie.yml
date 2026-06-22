@@ -23,7 +23,7 @@ ingredients:
     name: plain flour
     raw: 500 g plain flour
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 1
     unit: tsp
@@ -46,7 +46,7 @@ ingredients:
     name: twarog cheese
     raw: 250 g twaróg cheese
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 30
     unit: g

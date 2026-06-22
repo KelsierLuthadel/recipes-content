@@ -40,7 +40,7 @@ ingredients:
   - qty: 6
     name: garlic
     raw: 6 garlic cloves
-  - name: lemon
+  - name: lemons
     raw: Juice of 1 lemon
   - qty: 2
     unit: tsp
@@ -102,7 +102,7 @@ ingredients:
     name: cardamom pods
     raw: 4 cardamom pods
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 4
     name: cloves
@@ -162,7 +162,7 @@ ingredients:
     name: parsley
     raw: 1 large bunch fresh parsley
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - qty: 300
     unit: g

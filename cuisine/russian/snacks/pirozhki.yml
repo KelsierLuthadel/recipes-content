@@ -47,17 +47,17 @@ ingredients:
     name: unsalted butter
     raw: 60 g unsalted butter
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 1
-    name: egg yolk
+    name: egg yolks
     raw: 1 large egg yolk
   - qty: 400
     unit: g
     name: beef
     raw: 400 g minced beef
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 2
     unit: tbsp
@@ -67,7 +67,7 @@ ingredients:
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: hard boiled egg
+    name: hard boiled eggs
     raw: 1 large hard-boiled egg
   - qty: 2
     unit: tbsp
@@ -94,7 +94,7 @@ ingredients:
     name: beef stock
     raw: 50 ml beef stock
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - name: vegetable oil for shallow frying
     raw: Vegetable oil for shallow frying

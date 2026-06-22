@@ -73,7 +73,7 @@ ingredients:
     name: sunflower oil
     raw: 1 tablespoon sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, halved and stuck with 3 cloves
   - qty: 1
     name: bay leaf
@@ -82,7 +82,7 @@ ingredients:
     name: peppercorns (black)
     raw: 4 black peppercorns
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 carrot, halved
   - qty: 1
     unit: stick

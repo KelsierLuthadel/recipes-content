@@ -44,7 +44,7 @@ ingredients:
     raw: ½ teaspoon ground cardamom
   - qty: 0.25
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: ¼ teaspoon ground nutmeg
   - qty: 1
     unit: pinch
@@ -76,5 +76,5 @@ ingredients:
     raw: 180-200 ml warm water
   - name: vegetable oil for deep frying
     raw: Vegetable oil for deep-frying
-  - name: caster sugar for dusting
+  - name: caster sugar
     raw: Caster sugar for dusting

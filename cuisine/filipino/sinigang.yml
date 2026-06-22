@@ -27,7 +27,7 @@ ingredients:
     name: pork spare ribs
     raw: 1 kg pork spare ribs or pork belly chunks
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: tomatoes
@@ -66,5 +66,5 @@ ingredients:
     raw: 1 bunch spinach
   - name: rice (white)
     raw: Cooked white rice, to serve
-  - name: lime
+  - name: limes
     raw: Lime , to serve

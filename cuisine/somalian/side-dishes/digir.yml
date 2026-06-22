@@ -44,7 +44,7 @@ ingredients:
     name: vegetable oil
     raw: 3 tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 4
     name: garlic
@@ -53,7 +53,7 @@ ingredients:
     name: ginger
     raw: 1 thumb fresh ginger
   - qty: 3
-    name: tomatoes tin chopped tomatoes)
+    name: tomatoes tin chopped tomatoes
     raw: 3 large tomatoes tin chopped tomatoes)
   - qty: 2
     unit: tbsp
@@ -71,7 +71,7 @@ ingredients:
     name: cardamom pods
     raw: 2 whole cardamom pods
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 small cinnamon stick
   - qty: 1
     name: bay leaf
@@ -96,7 +96,7 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime or ½ lemon
   - name: muufo
     raw: Muufo or anjero

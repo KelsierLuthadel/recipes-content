@@ -41,7 +41,7 @@ ingredients:
     name: garlic
     raw: 10 garlic cloves
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion
   - qty: 2
     unit: tbsp
@@ -93,7 +93,7 @@ ingredients:
     raw: Refried beans
   - name: mexican rice
     raw: Mexican rice
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: sour cream
     raw: Sour cream

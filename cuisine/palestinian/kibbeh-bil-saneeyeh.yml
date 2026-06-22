@@ -39,7 +39,7 @@ ingredients:
     name: lamb
     raw: 400 g lean lamb
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 1.5
     unit: tsp
@@ -70,7 +70,7 @@ ingredients:
     name: olive oil
     raw: 3 tablespoons olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 400
     unit: g

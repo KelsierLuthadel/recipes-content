@@ -37,10 +37,10 @@ ingredients:
     raw: 250 g salt pork or smoked bacon, cubed
   - qty: 3
     unit: tbsp
-    name: vegetable
+    name: vegetables
     raw: 3 tbsp vegetable or coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
@@ -76,5 +76,5 @@ ingredients:
     name: /2 tsp black pepper
     raw: 1/2 tsp black pepper
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime, juiced

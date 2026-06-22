@@ -30,13 +30,13 @@ ingredients:
     name: limes
     raw: 4 limes
   - qty: 1
-    name: orange
+    name: oranges
     raw: 1 orange
   - qty: 4
     name: garlic
     raw: 4 garlic cloves
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 jalapeño
   - qty: 1
     unit: handful
@@ -72,7 +72,7 @@ ingredients:
     raw: Charred salsa
   - name: lime wedges
     raw: Lime wedges
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: coriander
     raw: Chopped coriander

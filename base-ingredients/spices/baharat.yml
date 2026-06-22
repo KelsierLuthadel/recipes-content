@@ -44,7 +44,7 @@ mentions:
   - cuisine/palestinian/shish-barak
 ingredients:
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 2
     unit: tbsp
@@ -76,7 +76,7 @@ ingredients:
     raw: 1 teaspoon ground allspice
   - qty: 2
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 2 teaspoons freshly grated nutmeg
   - qty: 2
     unit: tsp

@@ -55,7 +55,7 @@ ingredients:
     name: rosemary
     raw: 2 fresh rosemary sprigs
   - qty: 2.5
-    name: jalapeno
+    name: jalapenos
     raw: 2-3 jalapeño or other fresh green chillies
   - qty: 2
     unit: tbsp
@@ -66,7 +66,7 @@ ingredients:
     name: tomato puree
     raw: 1 tablespoon tomato purée
   - qty: 0.5
-    name: lemon
+    name: lemons
     raw: ½ lemon
   - qty: 2
     unit: tbsp

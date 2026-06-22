@@ -85,7 +85,7 @@ ingredients:
     name: coriander
     raw: 1 small handful fresh coriander
   - qty: 1
-    name: jalapeno
+    name: jalapenos
     raw: 1 fresh jalapeño or serrano chilli
   - qty: 4
     name: tomatoes
@@ -130,7 +130,7 @@ ingredients:
     raw: Frijoles fritos
   - name: queso fresco
     raw: Queso fresco or feta
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: lime wedges
     raw: Lime wedges

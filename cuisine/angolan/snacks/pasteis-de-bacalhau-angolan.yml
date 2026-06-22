@@ -36,7 +36,7 @@ ingredients:
     name: olive oil
     raw: 2 tbsp olive oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, very finely chopped
   - qty: 3
     name: garlic
@@ -55,13 +55,13 @@ ingredients:
     unit: pinch
     name: chilli flakes
     raw: A pinch of chilli flakes
-  - name: nutmeg
+  - name: nutmegs
     raw: A grating of nutmeg
   - name: salt
     raw: Salt, only if needed
   - qty: 1
     unit: l
-    name: vegetable oil
+    name: vegetable oil for deep frying
     raw: 1 litre vegetable oil for deep frying
   - name: lemon wedges
     raw: Lemon wedges, to serve

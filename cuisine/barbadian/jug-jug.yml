@@ -31,7 +31,7 @@ ingredients:
     unit: g
     name: salt cured pork
     raw: 300 g salt-cured pork OR ham hock
-  - name: water for soaking
+  - name: water
     raw: Cold water for soaking
   - qty: 250
     unit: g
@@ -42,14 +42,14 @@ ingredients:
     name: millet flour
     raw: 200 g millet flour OR Guinea corn flour
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, finely chopped
   - qty: 4
     unit: clove
     name: garlic
     raw: 4 cloves garlic, finely chopped
   - qty: 2
-    name: scallion
+    name: scallions
     raw: 2 stalks scallion, finely chopped
   - qty: 4
     unit: tbsp
@@ -84,7 +84,7 @@ ingredients:
     name: unsalted butter
     raw: 2 tablespoons unsalted butter
   - qty: 2
-    name: scallion
+    name: scallions
     raw: 2 stalks scallion , sliced
   - name: baked ham
     raw: A whole baked ham OR a Bajan roast pork

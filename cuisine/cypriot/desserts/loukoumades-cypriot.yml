@@ -43,14 +43,14 @@ ingredients:
     name: water
     raw: 100 ml water
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     name: strip lemon peel
     raw: 1 strip lemon peel
   - qty: 1
     unit: l
-    name: neutral oil
+    name: neutral oil for deep frying
     raw: 1 litre neutral oil for deep frying
   - qty: 2
     unit: tbsp

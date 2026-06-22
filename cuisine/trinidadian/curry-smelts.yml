@@ -28,7 +28,7 @@ ingredients:
     name: smelts
     raw: 700 g smelts
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime
   - qty: 1
     unit: tsp
@@ -55,7 +55,7 @@ ingredients:
     name: vegetable oil
     raw: 1 ½ tablespoons vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic

@@ -29,7 +29,7 @@ ingredients:
     unit: g
     name: beans (black)
     raw: 500 g dried black beans
-  - name: water for soaking
+  - name: water
     raw: Cold water for soaking
   - qty: 2.5
     unit: l
@@ -100,7 +100,7 @@ ingredients:
     raw: Plain white rice
   - name: onion (red)
     raw: Sliced raw red onion
-  - name: avocado
+  - name: avocados
     raw: Sliced avocado
   - name: lime wedges
     raw: Lime wedges

@@ -22,14 +22,14 @@ mentions:
 ingredients:
   - qty: 500
     unit: g
-    name: beetroot
+    name: beetroots
     raw: 500 g raw beetroot
   - qty: 2
     unit: tbsp
     name: coconut oil
     raw: 2 tablespoons coconut oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 small onion
   - qty: 3
     name: garlic
@@ -56,7 +56,7 @@ ingredients:
     name: pandan leaf
     raw: 1 pandan leaf
   - qty: 1
-    name: cinnamon stick
+    name: cinnamon sticks
     raw: 1 cinnamon stick
   - qty: 1
     unit: tsp

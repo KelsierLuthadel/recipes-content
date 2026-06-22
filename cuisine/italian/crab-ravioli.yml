@@ -46,7 +46,7 @@ ingredients:
     unit: tbsp
     name: flat leaf parsley
     raw: 2 tablespoons fresh flat-leaf parsley
-  - name: lemon
+  - name: lemons
     raw: Rind of 1 lemon
   - qty: 1
     unit: pinch
@@ -61,7 +61,7 @@ ingredients:
     name: butter
     raw: 75 grams butter
   - qty: 1
-    name: lemon
+    name: lemons
     raw: 1 lemon
   - name: basil leaves
     raw: Fresh basil leaves

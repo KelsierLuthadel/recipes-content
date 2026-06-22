@@ -24,7 +24,7 @@ ingredients:
     name: tomatoes
     raw: 2 ripe tomatoes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: garlic
@@ -49,7 +49,7 @@ ingredients:
     name: sunflower oil
     raw: 3 tablespoons sunflower oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: garlic
@@ -82,5 +82,5 @@ ingredients:
     name: coriander
     raw: 3 tablespoons fresh coriander
   - qty: 1
-    name: lime
+    name: limes
     raw: 1 lime

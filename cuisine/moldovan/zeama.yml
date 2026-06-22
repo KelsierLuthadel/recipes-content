@@ -30,13 +30,13 @@ ingredients:
     name: water
     raw: 3 L cold water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 large onion, halved
   - qty: 1
-    name: carrot
+    name: carrots
     raw: 1 large carrot, in chunks
   - qty: 1
-    name: parsnip
+    name: parsnips
     raw: 1 small parsnip, in chunks
   - qty: 1
     name: celery root

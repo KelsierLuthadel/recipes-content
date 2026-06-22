@@ -43,7 +43,7 @@ ingredients:
     name: stock cubes
     raw: 2 stock cubes
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 6
     name: garlic
@@ -69,7 +69,7 @@ ingredients:
     name: scotch bonnet chillies
     raw: 2-3 scotch bonnet peppers
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 2
     name: ginger
@@ -82,7 +82,7 @@ ingredients:
     name: vegetable oil
     raw: 100 ml vegetable oil
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 onion
   - qty: 4
     unit: tbsp

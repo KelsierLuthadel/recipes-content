@@ -30,9 +30,9 @@ ingredients:
     unit: g
     name: salted cod
     raw: 250 g dried salted cod
-  - name: water for soaking
+  - name: water
     raw: Cold water for soaking
-  - name: pot for boiling
+  - name: pot
     raw: A small pot for boiling
   - qty: 250
     unit: g
@@ -50,17 +50,17 @@ ingredients:
     name: /2 teaspoon black pepper
     raw: 1/2 teaspoon black pepper
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 large egg
   - qty: 250
     unit: ml
     name: water
     raw: 250 ml water
   - qty: 1
-    name: onion
+    name: onions
     raw: 1 medium onion, finely chopped
   - qty: 4
-    name: scallion
+    name: scallions
     raw: 4 stalks scallion, finely chopped
   - qty: 4
     unit: clove

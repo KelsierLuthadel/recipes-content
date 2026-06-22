@@ -52,7 +52,7 @@ ingredients:
     raw: 1 tablespoon ground cinnamon
   - qty: 1
     unit: tsp
-    name: nutmeg
+    name: nutmegs
     raw: 1 teaspoon ground nutmeg
   - qty: 0.5
     unit: tsp
@@ -75,7 +75,7 @@ ingredients:
     name: salt
     raw: Pinch of salt
   - qty: 1
-    name: egg
+    name: eggs
     raw: 1 egg
   - qty: 4
     unit: tbsp
